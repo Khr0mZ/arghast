@@ -1,0 +1,146 @@
+{
+  "id": "k-1362892635676606586",
+  "campana": "kuroto",
+  "unidad_revision": "k-1362892635676606586",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "La sangre de Kalista en la daga azul",
+  "resumen": "Ikaari confirma por el olor la sangre de Kalista; Banzo guarda la daga y ambos regresan sin identificar al atacante.",
+  "relato": "Ikaari completa sus notas sobre el lugar y examina la daga encontrada por Banzo. Tras oler las manchas, la narración confirma que la sangre es la misma de Kalista. El tanuki busca entonces señales que indiquen si hubo alguien más junto a ella y Jelbreg, sin obtener en este fragmento una respuesta. Pregunta qué pudo llevar a su compañera tan lejos del camino y menciona la posibilidad de Danifae. Banzo recuerda que Kalista se ofreció a vigilarla y podría haber intentado conseguir información, pero admite que quizá la drow ni siquiera esté implicada. Deseando estar cerca si Kalista despierta, guarda la daga. Ambos vuelven a la base con sus dudas intactas.",
+  "participantes": [
+    "Ikaari",
+    "Banzo"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1362893296975745238",
+      "afirmacion": "La narración confirma que la sangre de la daga corresponde a Kalista.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1362896914877644960",
+      "afirmacion": "Ikaari busca una tercera presencia y pregunta por el motivo de alejarse del camino, sin establecer una respuesta.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1362899367564148796",
+      "afirmacion": "Banzo plantea una explicación sin dar por culpable a Danifae y guarda la daga.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1362900255561220127",
+      "afirmacion": "Ambos regresan a la base sin resolver la agresión.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Leídos completos los cinco mensajes. Continúa la investigación de k-1362722901739962409 y la cierra explícitamente en lo relativo a la salida al bosque.",
+    "Confirmar la sangre no demuestra quién usó la daga, si fue el arma que causó la herida o por qué estaba allí. No se fabrican huellas nuevas ni culpables."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-04-18T20:48:45.666000+00:00",
+  "fin_utc": "2025-04-18T21:19:02.388000+00:00",
+  "fecha_local": "2025-04-18",
+  "intervalo": {
+    "anterior": 105,
+    "siguiente": 106,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1362497195252650075",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1363944514846326895",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 105,
+        "fecha": "2025-04-17",
+        "inicio_referencia_utc": "2025-04-17T18:37:08+00:00",
+        "fin_estimado_utc": "2025-04-17T20:54:16+00:00",
+        "duracion_video_segundos": 8228,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1362497195252650075"
+      },
+      {
+        "capitulo": 106,
+        "fecha": "2025-04-21",
+        "inicio_referencia_utc": "2025-04-21T18:28:19+00:00",
+        "fin_estimado_utc": "2025-04-21T20:39:25+00:00",
+        "duracion_video_segundos": 7866,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1363944514846326895"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1362892635676606586",
+      "fecha_utc": "2025-04-18T20:48:45.666000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "Ikaari: **agachado, haciendo un esquema de la escena y intentando representar las pisadas en sus notas, se girará hacia su compañero Banzo**\nQué has encontrado? **Acercándose interesado verá la daga, y se acercará**\nSeguro que es su daga? \n**Empezará a analizar tanto la daga, como la sangre que queda en su filo**\nSi que parece la daga de Kalista\n**Y procederá a intentar reconocer si el olor de la sangre es como la que olió en la habitación de su compañera**",
+      "mensaje_sha256": "15557d994d9289544ce335cc24fdf38c238ad9861fec9ce8141303461f89514b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1362892635676606586",
+      "texto_sha256": "9038f8a33057a55e1062e7fcf48dfbe5d89c4b097fbf1335e1b199e90877b1cb",
+      "adjuntos": []
+    },
+    {
+      "id": "1362893296975745238",
+      "fecha_utc": "2025-04-18T20:51:23.332000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "**La pequeña nariz de Ikaari se mueve a espasmos al olfatear la daga y tienes la certeza de que esa sangre, es la misma que la de tú compañera Kalista**",
+      "mensaje_sha256": "e03e91cd17717eec9ff49ca07d6d57b429fb3d8b87f35febecbd4ef1c2a471a1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1362893296975745238",
+      "texto_sha256": "40b234a56582af526d79495650a62506f7936bfa6b290de10b29e938d3667adc",
+      "adjuntos": []
+    },
+    {
+      "id": "1362896914877644960",
+      "fecha_utc": "2025-04-18T21:05:45.907000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "Ikaari: *espera, la sangre es de Kalista... qué raro...* **Dando un par de pasos hacia atrás, se fijará en la escena, escudriñando cada centímetro cuadrado en búsqueda de huellas, para saber si llegó a haber una tercera persona en la zona a parte de Kalista y Jelbreg**\nBanzo, se te ocurre qué podría hacer nuestra compañera tan alejada del camino? Dudo que llegara hasta aquí sola con Danifae por voluntad propia\n<@214405113677217793> <@616683133374562304>",
+      "mensaje_sha256": "5a2b8545de77f1df4790c1fdcd915248a93abd17e84585684abd80dfc616a960",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1362896914877644960",
+      "texto_sha256": "3d84d07845fe8116501058848c920ad3f1513326d946d537e713498e2f1a7e03",
+      "adjuntos": []
+    },
+    {
+      "id": "1362899367564148796",
+      "fecha_utc": "2025-04-18T21:15:30.673000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "Banzo: cuando hicimos la reunión Khalista se ofreció a hechar un ojo a Danifae por el tema de que ataco a Arwen . Quizá por eso decidió seguirle el royo , es buena sacando información. \n** se golpea la cabeza en señal de confusion** estoy confundido , es que quizá no fue ni ella . \nQue opinas volvemos a la base , me gustaría estar si Khalista despierta ** Mira una última vez la daga y la guarda **",
+      "mensaje_sha256": "87143555fd2a80280ba1a6ea9ac7fc57ca343911388356b0b1392be6016e1623",
+      "tipo_discord": 19,
+      "referencia": "1362896914877644960",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1362899367564148796",
+      "texto_sha256": "265a2ac3a5d618efa5b84e298f1207c8b7185f3cd8b2e6a6359949ed18e8b416",
+      "adjuntos": []
+    },
+    {
+      "id": "1362900255561220127",
+      "fecha_utc": "2025-04-18T21:19:02.388000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": "2025-04-18T21:19:38.417000+00:00",
+      "texto": "**Los dos volvéis a la base con esas dudas en la cabeza... ¿Qué ha podido ocurrirle a Kalista?**\n\n🔴 Fin de Escena.🔴",
+      "mensaje_sha256": "f42f03acce8ce1491420ec104524de7d7709e7784167fb0305395d8d41781b98",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1362900255561220127",
+      "texto_sha256": "dd591a293c732557b966af76545719ea49bc65cfa3f2b22f1e44473c1640cbfd",
+      "adjuntos": []
+    }
+  ]
+}

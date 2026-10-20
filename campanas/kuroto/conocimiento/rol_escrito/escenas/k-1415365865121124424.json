@@ -1,0 +1,299 @@
+{
+  "id": "k-1415365865121124424",
+  "campana": "kuroto",
+  "unidad_revision": "k-1415365865121124424",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Kalista convoca un rescate",
+  "resumen": "Kalista anuncia el secuestro de Jelbreg y ordena reunir Cazadores para bajar a las alcantarillas.",
+  "relato": "Kalista aterriza frente a Sho, recupera su aspecto y entra vestida como shogun. Kurobane responde a su llamada y escucha un anuncio grave: Jelbreg ha sido secuestrado. Ella dice haber recibido una nota de chantaje que lo sitúa bajo las alcantarillas y declara su intención de acabar con los vampiros de allí. Ordena reunir en palacio a todos los Cazadores disponibles para bajar al día siguiente, preparados con pociones contra control y encantamientos y cualquier conocimiento útil sobre esas criaturas. Kurobane acepta y sale corriendo a buscarlos. Kalista, visiblemente agotada al transformarse otra vez, abre las alas y regresa al palacio. El fragmento cierra la movilización inicial, sin mostrar a los captores, leer la nota ni resolver el rescate.",
+  "participantes": [
+    "Kalista",
+    "Kurobane"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1415367204857450619",
+      "afirmacion": "Kalista comunica el secuestro de Jelbreg.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1415367929444438056",
+      "afirmacion": "Kalista atribuye a una nota el chantaje y la localización bajo las alcantarillas.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1415369100976455812",
+      "afirmacion": "Kalista fija la reunión en palacio para bajar al día siguiente y pide protección contra control.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1415374670538211561",
+      "afirmacion": "Kalista solicita a todos los Cazadores disponibles.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1415378365682286612",
+      "afirmacion": "Kurobane sale a reunirlos.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1415378698013511782",
+      "afirmacion": "Kalista emprende el vuelo de vuelta a palacio.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El secuestro y sus condiciones se conocen por Kalista; los hechos de cautiverio y el texto íntegro de la nota no aparecen aquí.",
+    "No se inventa rescate exitoso, culpable por nombre ni provisión efectiva de las pociones solicitadas."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-09-10T15:58:38.471000+00:00",
+  "fin_utc": "2025-09-10T16:51:55.443000+00:00",
+  "fecha_local": "2025-09-10",
+  "intervalo": {
+    "anterior": 155,
+    "siguiente": 156,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1413222713035587615",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1415765542228332665",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 155,
+        "fecha": "2025-09-04",
+        "inicio_referencia_utc": "2025-09-04T18:02:08+00:00",
+        "fin_estimado_utc": "2025-09-04T21:26:26+00:00",
+        "duracion_video_segundos": 12258,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1413222713035587615"
+      },
+      {
+        "capitulo": 156,
+        "fecha": "2025-09-11",
+        "inicio_referencia_utc": "2025-09-11T18:26:34+00:00",
+        "fin_estimado_utc": "2025-09-11T22:04:21+00:00",
+        "duracion_video_segundos": 13067,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1415765542228332665"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1415365865121124424",
+      "fecha_utc": "2025-09-10T15:58:38.471000+00:00",
+      "fecha_local": "2025-09-10",
+      "editado_utc": null,
+      "texto": "Kalista: **Aterriza enfrente de la base, volviendo a su aspecto con esas ropas de shogun e irrumpiendo dentro** ¿Hay alguien? **Exclama**",
+      "mensaje_sha256": "756f5a0736eb55f64954f3f74298ce97307c6f1550972bc286803aae14671ea9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1415365865121124424",
+      "texto_sha256": "d73b979c065276d63be3d14c13c3268fba4abbef083253cf2ba3159ec42a7e30",
+      "adjuntos": []
+    },
+    {
+      "id": "1415366889957359698",
+      "fecha_utc": "2025-09-10T16:02:42.811000+00:00",
+      "fecha_local": "2025-09-10",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nQue necesita Shogun?\n\n**Pregunta el ninja saliendo de su habitación dirigiéndose a una de las sillas**",
+      "mensaje_sha256": "5d339733b66150fb759ed01f36b356490eecc0b202bc5c5c52924f89cb4482c5",
+      "tipo_discord": 19,
+      "referencia": "1415365865121124424",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1415366889957359698",
+      "texto_sha256": "f7ced06254a24a48550471a3682fd5f2ebba24a17783ec0197d5bab665336812",
+      "adjuntos": []
+    },
+    {
+      "id": "1415367204857450619",
+      "fecha_utc": "2025-09-10T16:03:57.889000+00:00",
+      "fecha_local": "2025-09-10",
+      "editado_utc": null,
+      "texto": "Kalista: Jelbreg ha sido secuestrado **Su rostro es impasible, sus ojos helados y sin brillo**",
+      "mensaje_sha256": "499320467060ff4bcea11c8daf8285f8153f05aa21eade756fc8cc7699784a45",
+      "tipo_discord": 19,
+      "referencia": "1415366889957359698",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1415367204857450619",
+      "texto_sha256": "19838e78b6216768988fab4f18256b9d760dba25ea61c2223f015864d98f2c19",
+      "adjuntos": []
+    },
+    {
+      "id": "1415367565328519329",
+      "fecha_utc": "2025-09-10T16:05:23.832000+00:00",
+      "fecha_local": "2025-09-10",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nSe sabe su localización? O una posible?\n\n**Pregunta serio con un tono sin preocupación, frío cómo el hielo**",
+      "mensaje_sha256": "15b9ccd3d412add07044db98898c42a0b74241adea04d9126e6b197ccda3c43c",
+      "tipo_discord": 19,
+      "referencia": "1415367204857450619",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1415367565328519329",
+      "texto_sha256": "8d05d7f640a3e0965594f6ea5d34c6004ffa4f3276cf80d160b7ca2429dfd4dc",
+      "adjuntos": []
+    },
+    {
+      "id": "1415367929444438056",
+      "fecha_utc": "2025-09-10T16:06:50.644000+00:00",
+      "fecha_local": "2025-09-10",
+      "editado_utc": null,
+      "texto": "Kalista: bajo las alcantarillas, he recibido una nota tratando de chantajearme. Vamos a bajar ahi abajo y acabar con cada chupasangre que hay alli abajo",
+      "mensaje_sha256": "1738f61076386a1d74cf58f1bfa46fa671f1b1a855c505b96cb289c67e9001ba",
+      "tipo_discord": 19,
+      "referencia": "1415367565328519329",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1415367929444438056",
+      "texto_sha256": "9e6f3abc26a7d8bc94be88ad654f7b034ae4178b5e73affe0d88749608ef6c4b",
+      "adjuntos": []
+    },
+    {
+      "id": "1415368701842165802",
+      "fecha_utc": "2025-09-10T16:09:54.798000+00:00",
+      "fecha_local": "2025-09-10",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nVampiros? Notificaré a los cazadores,dónde los envío?",
+      "mensaje_sha256": "6cc926d39e44d753f5f01b53ab6b49616dac83936f5e155a8c2de65fa05ddffd",
+      "tipo_discord": 19,
+      "referencia": "1415367929444438056",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1415368701842165802",
+      "texto_sha256": "73adb393bbcc6ab55f917340b2be1e9052581b6fc076535028345aa2a6c9d4a6",
+      "adjuntos": []
+    },
+    {
+      "id": "1415369100976455812",
+      "fecha_utc": "2025-09-10T16:11:29.959000+00:00",
+      "fecha_local": "2025-09-10",
+      "editado_utc": null,
+      "texto": "Kalista: al palacio, mañana bajaremos. Que vengan preparados, pociones contra el control y encantamientos. Si saben algo de vampiros que lo usen en su contra",
+      "mensaje_sha256": "70687bbe1801ba29fcd4e9e1477ef239ad9481afe47e8a28d0ba70ccf3677963",
+      "tipo_discord": 19,
+      "referencia": "1415368701842165802",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1415369100976455812",
+      "texto_sha256": "af0cb3e958688cfbd0c9146a807a7f1757c0da2848fe08df4815f81ce782e808",
+      "adjuntos": []
+    },
+    {
+      "id": "1415370382273282200",
+      "fecha_utc": "2025-09-10T16:16:35.444000+00:00",
+      "fecha_local": "2025-09-10",
+      "editado_utc": "2025-09-10T16:27:00.610000+00:00",
+      "texto": "Kurobane:\n\nA sus órdenes, Shogun \n\n**Dice serio mientras empieza a prepararse**\n\nA quien quiere que notifique?\n\n**Su mirada se clava en tus ojos**",
+      "mensaje_sha256": "791c142c2fd539b3d0c4ff9eb330eb4e168f3c7c5a912556d392f003c2f00cb6",
+      "tipo_discord": 19,
+      "referencia": "1415369100976455812",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1415370382273282200",
+      "texto_sha256": "1567aa864715de048afe92408fa31a334d4616182b056ffc1fac5f3944406618",
+      "adjuntos": []
+    },
+    {
+      "id": "1415374670538211561",
+      "fecha_utc": "2025-09-10T16:33:37.846000+00:00",
+      "fecha_local": "2025-09-10",
+      "editado_utc": null,
+      "texto": "Kalista: a todos los cazadores disponibles",
+      "mensaje_sha256": "82b6fd17b06307455d4de1c5f8f60b7ae3b06449652791274225f6cea47ca450",
+      "tipo_discord": 19,
+      "referencia": "1415370382273282200",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1415374670538211561",
+      "texto_sha256": "d9790cd785d42aedfeae4bdf523216119e6fd8fd973198ae023e2ee3f26218be",
+      "adjuntos": []
+    },
+    {
+      "id": "1415376582972936230",
+      "fecha_utc": "2025-09-10T16:41:13.806000+00:00",
+      "fecha_local": "2025-09-10",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nEntendido, Shogun \n\n**Dice asintiendo**",
+      "mensaje_sha256": "220a3d9b1db707208dc6b69e955d55b07d2c663d4b60c8134a4aa83c2caa81d0",
+      "tipo_discord": 19,
+      "referencia": "1415374670538211561",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1415376582972936230",
+      "texto_sha256": "4a50685e51798425efea45b7b65e876b193707770f2281437bc7f0d8eaac413f",
+      "adjuntos": []
+    },
+    {
+      "id": "1415377243659829329",
+      "fecha_utc": "2025-09-10T16:43:51.326000+00:00",
+      "fecha_local": "2025-09-10",
+      "editado_utc": null,
+      "texto": "Kalista: parte de inmediato, yo he de regresar al palacio **Se gira para salir y empieza a volver a transformarse, aunque parece bastante agotada cuando lo hace**",
+      "mensaje_sha256": "9eb72b2a304371f0415850dee703867cdc0ac2d09050dfe7abb6cd9fd7390231",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1415377243659829329",
+      "texto_sha256": "2947dda30e6f5de3e3192fb427e12ddcd080ced3b6092827ec8c52467a9d2a84",
+      "adjuntos": []
+    },
+    {
+      "id": "1415378365682286612",
+      "fecha_utc": "2025-09-10T16:48:18.837000+00:00",
+      "fecha_local": "2025-09-10",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\n**Ves que sale corriendo como un rayo a buscar a los cazadores**",
+      "mensaje_sha256": "739e482d1b12352e8971753e945d1e0c6bb4acbfbfd98aa1e1bbad11e43383ed",
+      "tipo_discord": 19,
+      "referencia": "1415377243659829329",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1415378365682286612",
+      "texto_sha256": "bf3919e995ca122f611c50e8c7aeac0a59929482a05a29eb78115211f012c5ed",
+      "adjuntos": []
+    },
+    {
+      "id": "1415378698013511782",
+      "fecha_utc": "2025-09-10T16:49:38.071000+00:00",
+      "fecha_local": "2025-09-10",
+      "editado_utc": null,
+      "texto": "Kalista: **Abre sus alas y alza el vuelo hacia el palacio de vuelta**",
+      "mensaje_sha256": "0d163c014c1b5138c0cfcb4357399e6af0a4be0f3ce0579d2e1e6383eb21f81f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1415378698013511782",
+      "texto_sha256": "810d2791c90e4822a7dc1a9d69b5f842906d73e3a0cd1a497520f80370e04e54",
+      "adjuntos": []
+    },
+    {
+      "id": "1415378816662114365",
+      "fecha_utc": "2025-09-10T16:50:06.359000+00:00",
+      "fecha_local": "2025-09-10",
+      "editado_utc": null,
+      "texto": "💙 **Kalista sale de escena**💙",
+      "mensaje_sha256": "119af23e92dd799446a23e677f0a14be93b618490ed05ec60d6938a35d62e6cd",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1415378816662114365",
+      "texto_sha256": "b928dea5e7101dcbc8ff59a474923d07d495c8cd532b23151935ef2a06b2dcc9",
+      "adjuntos": []
+    },
+    {
+      "id": "1415378947272872059",
+      "fecha_utc": "2025-09-10T16:50:37.499000+00:00",
+      "fecha_local": "2025-09-10",
+      "editado_utc": null,
+      "texto": "🌘  Kurobane sale de escena 🌘",
+      "mensaje_sha256": "51a5eddea05dc17e83726a9a41129ca08c970ab355c0c22c907ce3e3b583c206",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1415378947272872059",
+      "texto_sha256": "c95c2d2144e50caef4db8a65812f7e48d8f1d17ec38631b3a00505e2759d70d5",
+      "adjuntos": []
+    },
+    {
+      "id": "1415379274193440830",
+      "fecha_utc": "2025-09-10T16:51:55.443000+00:00",
+      "fecha_local": "2025-09-10",
+      "editado_utc": null,
+      "texto": "🔴 **Fin de escena**🔴",
+      "mensaje_sha256": "049053c591ce265a6be2b635f8be763c984bc3733082d12a4b799b36051346aa",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1415379274193440830",
+      "texto_sha256": "0e513b9a495850850524d0965f55df051cd0b6a138120693016da3f3ffd42ccd",
+      "adjuntos": []
+    }
+  ]
+}

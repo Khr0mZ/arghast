@@ -1,0 +1,252 @@
+{
+  "id": "k-1463906641706614986",
+  "campana": "kuroto",
+  "unidad_revision": "k-1463906641706614986",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Un abrazo para despedir a Tezca",
+  "resumen": "Arwen acompaña el duelo de Chanecuxtli y ambas deciden buscar a Shizzuka.",
+  "relato": "Chanecuxtli se esconde entre la hierba, incapaz de volver junto a un cuerpo que ya no siente como su Tezca. Su narración lo sitúa en Omeyocán, tierra de guerreros y dualidad. Arwen llega en forma de perro, le lame la cara y después recupera su apariencia de niña. Chani reconoce que sabe que muerte y vida forman parte de un ciclo, pero no entiende por qué esta pérdida le duele tanto. Arwen le recuerda que dejar ir a alguien querido siempre duele y le cuenta que conserva cerca a los ausentes mediante sus recuerdos felices. La abraza y permanece con ella mientras llora, sin pretender borrar el dolor. Cuando Chani pide ponerse en marcha para ayudar a alguien, Arwen explica que Banzo ha mandado buscarlas. Ambas acuerdan ir a encontrar a Shizzuka. La escena ofrece compañía en el duelo, sin mostrar la muerte, identificar una causa o representar un regreso de Tezca.",
+  "participantes": [
+    "Chanecuxtli",
+    "Arwen"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1463906641706614986",
+      "afirmacion": "Chani evita volver al cuerpo y narra la partida de Tezca hacia Omeyocán.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1463910689021362298",
+      "afirmacion": "Arwen explica cómo los recuerdos felices la ayudan a sentir cerca a quienes ha perdido.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1463912187440529449",
+      "afirmacion": "La abraza y la acompaña mientras llora.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1463912805936791582",
+      "afirmacion": "Arwen dice que Banzo mandó buscarlas y propone encontrar a Shizzuka.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Tezca está acreditado como apelativo afectuoso de Kurobane en 1442236149346209994, de este mismo hilo.",
+    "Omeyocán se conserva como creencia o representación de Chanecuxtli; no prueba una localización comprobada del alma.",
+    "La designación de Shizzuka como gran líder procede de la manera en que habla Chani; no acredita un nombramiento formal.",
+    "Esta unidad muestra duelo ante un cuerpo ausente de la escena, no el acontecimiento que causó la pérdida."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-01-22T14:42:21.453000+00:00",
+  "fin_utc": "2026-01-26T18:26:36.238000+00:00",
+  "fecha_local": "2026-01-22",
+  "intervalo": {
+    "anterior": 181,
+    "siguiente": 182,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1463611734899167390",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1465425150315991041",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 181,
+        "fecha": "2026-01-21",
+        "inicio_referencia_utc": "2026-01-21T19:10:08+00:00",
+        "fin_estimado_utc": "2026-01-21T22:02:01+00:00",
+        "duracion_video_segundos": 10313,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1463611734899167390"
+      },
+      {
+        "capitulo": 182,
+        "fecha": "2026-01-26",
+        "inicio_referencia_utc": "2026-01-26T19:16:02+00:00",
+        "fin_estimado_utc": "2026-01-26T21:44:10+00:00",
+        "duracion_video_segundos": 8888,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1465425150315991041"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1463906641706614986",
+      "fecha_utc": "2026-01-22T14:42:21.453000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n**Bajo el verde prado se escondía una bolita de hojas y un sombrero de paja, que se reusaba a volver hacia donde estaba aquel cuerpo, ese ya no era su Tezca, su Tezca se había ido hacia el Omeyocán, Tierra de guerreros y de dualidad, donde el debía de estar**\n\nPío... Pío...\n\n<@753394009153732689>",
+      "mensaje_sha256": "9d74ce3d02d55fcb4ed517cb505b8906fba6f66c6040023e88c2ff2f6f08e801",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1463906641706614986",
+      "texto_sha256": "b73c0e07942ef4b9069214fe6ebaa9d0f1eddf07923ef7948d3d68466b3c7561",
+      "adjuntos": []
+    },
+    {
+      "id": "1463907356676198546",
+      "fecha_utc": "2026-01-22T14:45:11.915000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "Arwen: **Un perro con un mechon pelirrojo se acerca entre la hierva alta sentandote a tu lado y lamiendote la carita, tratando de animarte**",
+      "mensaje_sha256": "48d79d7f5021e6c194edf6d9514ff820b9fbe59ce0d07c2387cac3ebf8faee77",
+      "tipo_discord": 19,
+      "referencia": "1463906641706614986",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1463907356676198546",
+      "texto_sha256": "8700dd1dca6a63e54e320fc0c2c186570dd067e97bca08053276be9fe52032ce",
+      "adjuntos": []
+    },
+    {
+      "id": "1463908037764055195",
+      "fecha_utc": "2026-01-22T14:47:54.299000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\nHola Arwen Pío\n\n**No había reacción como antes, solo un suspiro mientras miraba las nubes**\n\nEstá despejado el día, pío, el sol brilla más bonito, pío",
+      "mensaje_sha256": "7cc0a2666bda3bd4debbe9e99c21d2ee86c32512169458e12be5f6e0a546fdee",
+      "tipo_discord": 19,
+      "referencia": "1463907356676198546",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1463908037764055195",
+      "texto_sha256": "8c612e28de4e76125c56e0b1c1b6d2b0c004fdfeeb318e76f6bf80412ded861d",
+      "adjuntos": []
+    },
+    {
+      "id": "1463908266193981565",
+      "fecha_utc": "2026-01-22T14:48:48.761000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "Arwen: **Se vuelve niña** No parece que este muy despejado aqui **Te pone un dedito en el corazon**",
+      "mensaje_sha256": "6cfd173eb977e21c263cd3468b029b56b0edd41a8b239e875d7ac61983467baf",
+      "tipo_discord": 19,
+      "referencia": "1463908037764055195",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1463908266193981565",
+      "texto_sha256": "0c60f10ff34cb545ea97d73b1a602ee64f2fe546bd1a6b6bb78c35910be484d5",
+      "adjuntos": []
+    },
+    {
+      "id": "1463908778100527374",
+      "fecha_utc": "2026-01-22T14:50:50.809000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\nSe que la muerte es parte de la vida pío, la veo todos los días pío, incluso es amiga de la vida, pío... Pero... No sé porque está vez duele tanto...",
+      "mensaje_sha256": "c5768b246bda3b1bb0ecd5e2b5a155718b316f1c1cf02223f8dbe88e15da5053",
+      "tipo_discord": 19,
+      "referencia": "1463908266193981565",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1463908778100527374",
+      "texto_sha256": "bec196bd21ce706b123af25d2e6c742e403550d2dfba4fb3e03dff85ff1d2871",
+      "adjuntos": []
+    },
+    {
+      "id": "1463910689021362298",
+      "fecha_utc": "2026-01-22T14:58:26.408000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "Arwen: Arwen tambien lo sabe... Es parte de el ciclo **Te pone un bracito por encima de tus hombros** Pero siempre duele cuando es alguien que quieres... Aunque sea un hasta luego....Siempre duele dejarlos ir... **Sonrie con los ojitos humedos** Yo siempre pienso en los recuerdos bonitos de cuando me sonreian... Asi los siento cerca de mi",
+      "mensaje_sha256": "14136029e479dc7725578442cf0694a4a493e7a55270517db60acf859117eff8",
+      "tipo_discord": 19,
+      "referencia": "1463908778100527374",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1463910689021362298",
+      "texto_sha256": "1b28481417b0424f1db81107c4f0e9b56276011ad95a5f5d1046c403804e1950",
+      "adjuntos": []
+    },
+    {
+      "id": "1463911130631110859",
+      "fecha_utc": "2026-01-22T15:00:11.696000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n**Escondí mi cabecita en su hombro, volviendo a llorar y soltar pios rotos**\n\nPío... Pío...",
+      "mensaje_sha256": "34f2030b7591d9ebe17f74cedda072380887c84c6f9dd7b0a5b173a836488722",
+      "tipo_discord": 19,
+      "referencia": "1463910689021362298",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1463911130631110859",
+      "texto_sha256": "97730c7f110a273cca3ae764a05c8d09c0485793b55097b806d30da9b1b05d74",
+      "adjuntos": []
+    },
+    {
+      "id": "1463912187440529449",
+      "fecha_utc": "2026-01-22T15:04:23.659000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "Arwen: **Te abraza y deja que llores... No puede calmar tu dolor, pues eso solo tu puedes solventar... Pero se queda ahi en silencio, como la brisa que mece ahora el prado, quedandose contigo hasta que las lluvias pasen**",
+      "mensaje_sha256": "a6114fbdeed31d8424c472929e43c57305c6f80c8b22a6aad35900fd1d4318a5",
+      "tipo_discord": 19,
+      "referencia": "1463911130631110859",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1463912187440529449",
+      "texto_sha256": "d7bfd580a0b6199a3c01af27fae24fb4759ebcafc514d9e5a8f3cbaeca49f28c",
+      "adjuntos": []
+    },
+    {
+      "id": "1463912520287785083",
+      "fecha_utc": "2026-01-22T15:05:43.016000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n**Después de unos minutos, me limpié las lágrimas y me puse de pie**\n\nA dónde iremos?, pío, no puedo quedarme quieta, pío, hay alguien que necesita ayuda?, pío",
+      "mensaje_sha256": "9bff6ad47a98fdb165baad03763b3895946a2e6f85428c87f160ea29dd236b4d",
+      "tipo_discord": 19,
+      "referencia": "1463912187440529449",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1463912520287785083",
+      "texto_sha256": "83fe209e7ecadc1e1b72d59ed4708ea324346af2211f3cfd533182015cd3326f",
+      "adjuntos": []
+    },
+    {
+      "id": "1463912805936791582",
+      "fecha_utc": "2026-01-22T15:06:51.120000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "Arwen: **Niega** Banzo mando a buscaros ¿Vamos a buscar a Shizzuka?",
+      "mensaje_sha256": "09d34287be76afbece67b1c2d692c5ba2ac6e262722c8a6cdc9f1bf578edebff",
+      "tipo_discord": 19,
+      "referencia": "1463912520287785083",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1463912805936791582",
+      "texto_sha256": "043dd8bda22115b398e89866158514eef9f2046b07e073030e635392d54dc22c",
+      "adjuntos": []
+    },
+    {
+      "id": "1463913571246149632",
+      "fecha_utc": "2026-01-22T15:09:53.584000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\nVamos a buscar a la gran y poderosa lider de los guardianes, pío \n\n**Agité de nuevo mis alitas**\n\nGracias Awren, pío",
+      "mensaje_sha256": "471795f5d96679a3e1a4d891259288fcaecdea09541db9e607c297a20058c314",
+      "tipo_discord": 19,
+      "referencia": "1463912805936791582",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1463913571246149632",
+      "texto_sha256": "18a66bfa845ed35e94dc2884135ee70430d417c5f28e6648e12c901b9b97e9dc",
+      "adjuntos": []
+    },
+    {
+      "id": "1463914446606045441",
+      "fecha_utc": "2026-01-22T15:13:22.286000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "Arwen: **Te regala una pequeña sonrisa** No me las des **Te apachucha un poquito y luego te suelta** Venga vamos **Aaaaaa buuuuuuscaaaaarrrr a Shizzukaaaaaaa guau guau**",
+      "mensaje_sha256": "4a3d0f160dd70123a706f16a14c7cb10c111959943038b9eb01ee95659b42713",
+      "tipo_discord": 19,
+      "referencia": "1463913571246149632",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1463914446606045441",
+      "texto_sha256": "1a693cfa499a731a1c044e55c81848da7bf138b1d4a90026a25b02c1ab4d8129",
+      "adjuntos": []
+    },
+    {
+      "id": "1465412626627432583",
+      "fecha_utc": "2026-01-26T18:26:36.238000+00:00",
+      "fecha_local": "2026-01-26",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "cf41cd973aa2cd5a7d8b613d74a211134a328ffb7e7413a2950e04915435fc15",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1465412626627432583",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

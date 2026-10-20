@@ -1,0 +1,109 @@
+{
+  "id": "x-1529725326790496439",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1529725213242298398",
+  "hilo_id": "1495828307843747971",
+  "hilo_nombre": "??? - En alguna parte",
+  "titulo": "Nistra habla de su hermano Jely",
+  "resumen": "Las mercenarias discuten la supervivencia de la banda y el resentimiento de Brythya.",
+  "relato": "Al salir, Nistra se reúne con Dimleila y Greya rumbo a su refugio en la Barriada de Seda. La joven drow muda expresa por signos que la sonrisa de la jefa suele anunciar problemas. La duergar teme que Brythya cobre venganza por una fuga en la que ayudó Nistra.\n\nLa líder responde que la matrona conoce aquello desde hace años y que la ciudad y Vhaer'Ryl todavía se necesitan. Cuando le preguntan por qué asumió el riesgo, dice que su hermanito Jely le pidió ayuda y que es su hermano favorito. No se pronuncia en esta conversación un nombre completo para el apelativo.",
+  "participantes": [
+    "Nistra",
+    "Dimleila",
+    "Greya"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1529725461595295795",
+      "afirmacion": "Nistra reconoce ayudar a escapar a su hermano Jely.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Los signos en cursiva de Greya son comunicación, no pensamientos privados.",
+    "Jely es el apelativo declarado de su hermano; el nombre completo requiere cotejo, sin fusionar campañas.",
+    "La oferta de captura es un encargo, no un éxito consumado."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-07-23T05:42:18.829000+00:00",
+  "fin_utc": "2026-07-23T05:42:50.969000+00:00",
+  "fecha_local": "2026-07-23",
+  "intervalo": {
+    "anterior": 45,
+    "siguiente": 46,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527375684333338644",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1529917702439698493",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 45,
+        "fecha": "2026-07-16",
+        "inicio_referencia_utc": "2026-07-16T18:02:20+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527375684333338644"
+      },
+      {
+        "capitulo": 46,
+        "fecha": "2026-07-23",
+        "inicio_referencia_utc": "2026-07-23T18:26:16+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1529917702439698493"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1529725326790496439",
+      "fecha_utc": "2026-07-23T05:42:18.829000+00:00",
+      "fecha_local": "2026-07-23",
+      "editado_utc": null,
+      "texto": "------------------------------------------\n\n**Al cabo de un rato, Nistra abandonó el complejo de la Casa Unthuar y puso rumbo al escondite de los mercenarios de Vhaer'Ryl: una taberna maloliente situada en plena Barriada de Seda, territorio que controlaban por completo.**\n**Antes de llegar, dos figuras se unieron a su marcha.**\n**La primera era una joven drow que vestía únicamente unas ligeras telas y unas vendas que cubrían sus brazos hasta los hombros. La segunda era una duergar de complexión robusta, enfundada en una pesada armadura erizada de pinchos.**",
+      "mensaje_sha256": "e197893e417f356e526b882fd98b97548550f91506d98aba295e994b854fd057",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1529725326790496439",
+      "texto_sha256": "9af64a01dd3acf51926f0fe9c0371c0fd1662ae4cce10ab88fb968605f12899d",
+      "adjuntos": []
+    },
+    {
+      "id": "1529725461595295795",
+      "fecha_utc": "2026-07-23T05:42:50.969000+00:00",
+      "fecha_local": "2026-07-23",
+      "editado_utc": null,
+      "texto": "Dimleila: Parece que la reunión con la Mami Matrona ha ido bien. **Dijo la malhumorada duergar.** ¿Algo interesante?\n\nNistra: Interesante... y curioso, mi pequeña amiga. **Respondió sin dejar de caminar, sonriendo de oreja a oreja.** Muy interesante...\n\nGreya: **La joven drow miró a Dimleila con evidente preocupación. Era muda desde pequeña, pero dominaba perfectamente la lengua de signos drow.** *No me gusta cuando la jefa sonríe así. Siempre significa problemas... y más si la Madre Matrona está de por medio.*\n\nDimleila: ¿Y no nos va a traer problemas? Ya sabes cómo son los encargos de Brythya. ¡Hasta Greya está preocupada! **Suspiró profundamente.** Creo que sabe que tú ayudaste a escapar a... ya sabes quién... y solo está esperando el momento adecuado para devolverte el favor. Esa drow es tan rencorosa como su arácnida diosa...\n\nNistra: **Nistra se detuvo en seco y clavó una mirada fulminante en la duergar.** Madre Matrona Brythya. **La corrigió. Un instante después volvió a sonreír como si no hubiera ocurrido nada.** Hace años que lo sabe. La Madre Matrona no es tan tonta como crees. Pero esta ciudad nos necesita tanto como nosotras a ella. Mientras cumplamos los encargos de las Matronas... Vhaer'Ryl seguirá sobreviviendo.\n\nDimleila: Hasta que dejen de necesitarnos y les resulte más rentable matarnos que seguir fingiendo que no existimos. **Murmuró entre dientes.** ¿Por qué le ayudaste a salir de la ciudad? ¡No ganábamos nada... y ahora tenemos encima el rencor de la Madre Matrona de Ches Farak.! Solo está esperando el momento adecuado para deshacerse de nosotras.\n\nNistra: **Se llevó un dedo a la barbilla, fingiendo que meditaba profundamente la respuesta.** Mmmm... Bueno... cuando mi hermanito \"Jely\" me pidió ayuda... no pude negarme. **Sonrió con picardía.** Al fin y al cabo... es mi hermano favorito.\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "c757fc42e528431e50552a9c75cd06f41720985f8fae8194fa24eff994426da3",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1529725461595295795",
+      "texto_sha256": "c7e6d30315663ad8ee38b43bd08da87c5c2520784d1629eed7ce74ab9bfd6080",
+      "adjuntos": []
+    },
+    {
+      "id": "1529725537583370322",
+      "fecha_utc": "2026-07-23T05:43:09.086000+00:00",
+      "fecha_local": "2026-07-23",
+      "editado_utc": null,
+      "texto": "<@&1439948653996409004>",
+      "mensaje_sha256": "ada81f1e470539392dc33edaff2a8b69cd99c1c2a4882f60aa43607e5cb1fdc2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1529725537583370322",
+      "texto_sha256": "da30f7935aa0d4816050ad4be8cdd81862f2db9e65bacabcf5ab7773a5e78e8a",
+      "adjuntos": [],
+      "no_narrativo": true,
+      "nota_editorial": "Mención aislada sin contenido narrativo."
+    }
+  ]
+}

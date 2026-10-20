@@ -1,0 +1,317 @@
+{
+  "id": "k-1380432044462575617",
+  "campana": "kuroto",
+  "unidad_revision": "k-1380432044462575617",
+  "hilo_id": "1362071806441160834",
+  "hilo_nombre": "Base Ukyio - Sala principal",
+  "titulo": "Jelbreg rehúye las preguntas de Kazuki",
+  "resumen": "Banzo lo encuentra abatido en Hakahara y lo acompaña al portal, sin conocer aquí la causa de su estado.",
+  "relato": "En Hakahara, una figura encapuchada entra en un comercio con una espada de luz blanca difícil de ocultar. Banzo vuelve del puerto cargando un colmillo de dragón y se topa con ella al salir: es Jelbreg. Pregunta por Kalista y el drow responde que está bien, con los ojos apagados y dificultad para hablar. Le agradece la ayuda del día anterior sin explicarla.\n\nKazuki se acerca interesado en el estado de la mujer. Jelbreg desconfía de sus cambios de apariencia, lo rechaza y le exige que se aparte de ambos. El noble insiste en querer proteger a sus aliados, pero no logra que le cuente nada. La hostilidad no se convierte en combate.\n\nAntes de marcharse, el drow intenta tocar el brazo de Banzo, se detiene y se disculpa. El goliat lo sigue porque tiene algo que pedirle y agradece a Kazuki otras ayudas anteriores. Este vuelve a su hacienda y ofrece apoyo si lo necesitan. La conversación deja sin revelar la causa del dolor de Jelbreg y lo ocurrido con Kalista.",
+  "participantes": [
+    "Jelbreg",
+    "Banzo",
+    "Kazuki"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1380453818969489449",
+      "afirmacion": "Jelbreg dice que Kalista está bien y agradece a Banzo su ayuda.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1380456621569736734",
+      "afirmacion": "Rechaza la intervención de Kazuki y le exige alejarse.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1380460119367880704",
+      "afirmacion": "Se disculpa ante Banzo y sigue al portal.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1380461663211229194",
+      "afirmacion": "Banzo decide acompañarlo.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La música citada al final es acompañamiento cómico del narrador.",
+    "Las alusiones a la noche previa no permiten reconstruir suceso, culpa o relación íntima.",
+    "La espada luminosa se describe sin identificar todavía nombre o poder."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-06T06:24:06.587000+00:00",
+  "fin_utc": "2025-06-06T08:27:58.749000+00:00",
+  "fecha_local": "2025-06-06",
+  "intervalo": {
+    "anterior": 125,
+    "siguiente": 126,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1380253520841805875",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1382420384158056601",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 125,
+        "fecha": "2025-06-05",
+        "inicio_referencia_utc": "2025-06-05T18:34:23+00:00",
+        "fin_estimado_utc": "2025-06-05T21:51:33+00:00",
+        "duracion_video_segundos": 11830,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1380253520841805875"
+      },
+      {
+        "capitulo": 126,
+        "fecha": "2025-06-11",
+        "inicio_referencia_utc": "2025-06-11T18:04:52+00:00",
+        "fin_estimado_utc": "2025-06-11T20:51:16+00:00",
+        "duracion_video_segundos": 9984,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1382420384158056601"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1380432044462575617",
+      "fecha_utc": "2025-06-06T06:24:06.587000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "**HAKAHARA**\n\n**Una figura humanoide encapuchada atraviesa el portal. Avanza por las pequeñas calles del pueblo del norte intentando pasar desapercibida, pero el arma que lleva colgada en el cinto, emite una luz blanca demasiado intensa. Llega ante la puerta de un comercio y se adentra en su interior**",
+      "mensaje_sha256": "0399450c5d09850c7d7bd719be88d50ccfbbecf888a96d98257a613f589bf3ba",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380432044462575617",
+      "texto_sha256": "e8def12acdc18207bf54f2c7638eae85bdfd66c08a5ed7f7636e1f651db774d0",
+      "adjuntos": []
+    },
+    {
+      "id": "1380446928881455205",
+      "fecha_utc": "2025-06-06T07:23:15.309000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "Banzo : banzo dejo en Sho uno de los colmillos de dragon para no ir tan cargado .sale del puerto de Hakahara.  Ha ido a contarle la batalla con el dragón al hombre que le trajo desde brunami . Va en dirección al centro del pueblo",
+      "mensaje_sha256": "372abe877328fcf004c2b36142712a570ec6dbaaf27b26174328b00b6600ccd6",
+      "tipo_discord": 19,
+      "referencia": "1380432044462575617",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380446928881455205",
+      "texto_sha256": "cea0f0529d65ec47d3186ac9dacb51b88fbaf92d3ef3f3e9681851941d95945e",
+      "adjuntos": []
+    },
+    {
+      "id": "1380448162073940038",
+      "fecha_utc": "2025-06-06T07:28:09.325000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": "2025-06-06T07:28:33.720000+00:00",
+      "texto": "**Pasas por delante de uno de los comercios con un cartel en forma de pendientes, cuando la puerta se abre y te cochas de bruces con la figura humanoide encapuchada. Esta se lleva la mano rápida a la espada reluciente que lleva en el cinto pero se detiene** Oh...eres tu...perdona, Banzo **Ves el rostro de Jelbreg escondido debajo la capucha**",
+      "mensaje_sha256": "4142d6344fa652bc0e9516526187e3a1297f05176330a62d23984831114c44cd",
+      "tipo_discord": 19,
+      "referencia": "1380446928881455205",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380448162073940038",
+      "texto_sha256": "6e866e691bdf1a91d078af11adbaf3e185a490f1f8e183bde5e0bf3d43fb8514",
+      "adjuntos": []
+    },
+    {
+      "id": "1380451957394640946",
+      "fecha_utc": "2025-06-06T07:43:14.200000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "Banzo : Eh Jelbreg no te esperaba por aquí.  Que locura ayer aun estoy un poco erecto... \nComo esta kalista ... no sabía de ese terror a los dragones \n**le ves cargando uno de los colmillos **",
+      "mensaje_sha256": "de3b1cb8149a4287fbb03fe3eff5e44ec56934308dfca2559ae3d9808967397e",
+      "tipo_discord": 19,
+      "referencia": "1380448162073940038",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380451957394640946",
+      "texto_sha256": "80e10121c59cfc991cf1ca55e0eeff57d09303ea567a3555532c0ce6e953fdf2",
+      "adjuntos": []
+    },
+    {
+      "id": "1380453818969489449",
+      "fecha_utc": "2025-06-06T07:50:38.034000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Te mira pero no notas el brillo típico de sus ojos ámbar, están apagados. Cuando nombras a Kalista aparta la mirada hacia el suelo. A pesar de la espada que brilla como la luna en su cinto, el aura del drow es oscuridad.** E-esta... Esta bien... **Hace una pausa** G-gracias por lo de ayer... **Ves que te esquiva un poco para seguir su camino, sin prisa**",
+      "mensaje_sha256": "34d73039fda928f99bab295321239782fad3c71bf9f5248aab26ebe7c2412729",
+      "tipo_discord": 19,
+      "referencia": "1380451957394640946",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380453818969489449",
+      "texto_sha256": "8b3e8e89be7db8c2fc734d7084cdbf69166c41140234d942d1c738d790bab45c",
+      "adjuntos": []
+    },
+    {
+      "id": "1380454279164334111",
+      "fecha_utc": "2025-06-06T07:52:27.753000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": "2025-06-06T07:53:31.731000+00:00",
+      "texto": "Kazuki:\n\n**Estaría caminando por el pueblo, al ver a Banzo y a Jelbreg, se acercaría a ellos**\n\nComo están? La señorita se encuentra bien?\n\n**Pregunta serio mientras os mira a los dos **",
+      "mensaje_sha256": "7e907be7c9b6aa4e78bd29681402cf60c2defb7d88647f568abb959b79cec03c",
+      "tipo_discord": 19,
+      "referencia": "1380453818969489449",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380454279164334111",
+      "texto_sha256": "b7a7625e3ee8e49e8ce89cc38a32f36a4d9b9185cedbfa731092e64db0f61f04",
+      "adjuntos": []
+    },
+    {
+      "id": "1380454433103675403",
+      "fecha_utc": "2025-06-06T07:53:04.455000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "Banzo : **camina a tu lado **\nGracias por que ??",
+      "mensaje_sha256": "6cd477614f1397a1b007dbccf008f3f5c09959c0debcbb363c2f073edcc5d359",
+      "tipo_discord": 19,
+      "referencia": "1380453818969489449",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380454433103675403",
+      "texto_sha256": "a7bb92406ab3656c48a1f3e2da40957871e1911f998cef85783e3372f46c1c01",
+      "adjuntos": []
+    },
+    {
+      "id": "1380455177827385354",
+      "fecha_utc": "2025-06-06T07:56:02.011000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": "2025-06-06T07:56:14.866000+00:00",
+      "texto": "Jelbreg: **Se gira para mirarte a los ojos y con una voz suave** P-por tu ayuda... a-amigo... **Ve a Kazuki y gruñe mirándolo de arriba abajo, no confía en extraños y menos con extraños que se pueden cambiar el aspecto a voluntad...** No es de su incumbencia... <@240564189448503306>",
+      "mensaje_sha256": "d26ba99ea63ff2a2b14ed437b2352facd44078d6f0e46e524285fecf1df7d365",
+      "tipo_discord": 19,
+      "referencia": "1380454433103675403",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380455177827385354",
+      "texto_sha256": "4747f1eff812d6b9107151b38ea0716e8103a44c4150a9fdcb404e5faea651b8",
+      "adjuntos": []
+    },
+    {
+      "id": "1380456049751887916",
+      "fecha_utc": "2025-06-06T07:59:29.894000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": "2025-06-06T08:00:53.099000+00:00",
+      "texto": "Kazuki:\n\n**Se nota tranquilo**\n\nSi tiene que ver con lo que ocurrió ayer en la noche, ahora lo es, joven Jelbreg.\n\n**Dice serio mirandole impasible**",
+      "mensaje_sha256": "f405caf5ebcecebed109a0717e5cf42b6feec550bdcb5bd4601928fe64eb590b",
+      "tipo_discord": 19,
+      "referencia": "1380455177827385354",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380456049751887916",
+      "texto_sha256": "45585e803ea2d323242238658db0bc17329a5f0ca7a1d12ae23df0b365dacedb",
+      "adjuntos": []
+    },
+    {
+      "id": "1380456054239920208",
+      "fecha_utc": "2025-06-06T07:59:30.964000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": "2025-06-06T07:59:49.322000+00:00",
+      "texto": "Banzo : buenas señor kazuki\n*joven dice*",
+      "mensaje_sha256": "022cdb968087cfebd03ef8fe9b5d61766c0d61e2746eb2752537244a38a238eb",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380456054239920208",
+      "texto_sha256": "439867a2c1e11c186265ac839fc57e03b16601c6e9adf35792e8ab02dd69a4fa",
+      "adjuntos": []
+    },
+    {
+      "id": "1380456621569736734",
+      "fecha_utc": "2025-06-06T08:01:46.226000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Te fulmina con la mirada** Tu no eres cazador ni eres nada para nosotros ni para ella... Estoy harto de nobles, estoy hato de idiotas que no saben que hacen y estoy harto de entrometidos... Podria acabar con todo esto con un simple... **Ves que deja de hablar unos segundos y mira a Banzo para relajarse un poco** No te conozco ni quiero... Apartate de ella y de mi.",
+      "mensaje_sha256": "039fb8bc283e35897f8c785158a6b7c3981b75ac1b21c90172b18bc26a6a8489",
+      "tipo_discord": 19,
+      "referencia": "1380456049751887916",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380456621569736734",
+      "texto_sha256": "06aec9265bd455e431f1abb2f86d8afa16d8e8ca92fa792849fe130995a991c1",
+      "adjuntos": []
+    },
+    {
+      "id": "1380458305213829131",
+      "fecha_utc": "2025-06-06T08:08:27.638000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": "2025-06-06T08:12:26.432000+00:00",
+      "texto": "Kazuki:\n\nNo seré cazador de sho, pero entiendo la importancia de luchar por el futuro. Y se que no soy fiable por mis habilidades raciales. Seré un entrometido, pero yo quiero lo mismo que quiere usted, proteger a las personas que consideras amigos y aliados. \n\n**Dice totalmente serio, su mirada es una que no tiene miedo a la muerte**\n\nSaludos, joven <@616683133374562304> Banzo",
+      "mensaje_sha256": "ea7a8c15825e4546c0aade9f94667fe97a58038a5cc4ad3157067388e1f4c8b4",
+      "tipo_discord": 19,
+      "referencia": "1380456621569736734",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380458305213829131",
+      "texto_sha256": "1b545d8ac2bc30578020a6fe1081aa018125e53f4c69c55bed96ec23170b2526",
+      "adjuntos": []
+    },
+    {
+      "id": "1380460005098131577",
+      "fecha_utc": "2025-06-06T08:15:12.922000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "Banzo : **escucha atentamente y os mira **",
+      "mensaje_sha256": "e5cc80dc3b7b015ab5f34902bb26cf394bfd1a5b0132dbe1a14fe3fe5769dc6d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380460005098131577",
+      "texto_sha256": "063e1a2f83326c94e2de2ec356cb52d8ef4265ee7f86431537fe6b5bb27451e4",
+      "adjuntos": []
+    },
+    {
+      "id": "1380460119367880704",
+      "fecha_utc": "2025-06-06T08:15:40.166000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "Jelbreg: Palabrerías... No te conozco ni tu me conoces a mi... Te doy un consejo... **Te mira de arriba abajo**...joven noble. Olvida lo de ayer y apartate de mi y de ella, por tu bien... **Con esto te esquiva y pasa al lado de Banzo y se lo queda mirando. Va a colocarle la mano en el brazo, pero se detiene, agacha la cabeza** Lo... lo siento **Sigue su camino al portal**",
+      "mensaje_sha256": "d77b0bb5d8740e4fbe3dc0a981b82a27e7f3d8486545d40b764a2d66ecb22d2d",
+      "tipo_discord": 19,
+      "referencia": "1380458305213829131",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380460119367880704",
+      "texto_sha256": "d5eafc068d6e05678b4d3b2152568cb5c0824c328249d0fe4ca79300bf5f0a19",
+      "adjuntos": []
+    },
+    {
+      "id": "1380460138992893973",
+      "fecha_utc": "2025-06-06T08:15:44.845000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "<@616683133374562304>",
+      "mensaje_sha256": "99b9f7e7d24858cf5c527f71ada2624342f9a7d5dd22615a6624dbaddb2f6605",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380460138992893973",
+      "texto_sha256": "3308bf4e0062fe070e1d9fb755e340dcc6c9d991669c162aed939e118811dd7c",
+      "adjuntos": []
+    },
+    {
+      "id": "1380461663211229194",
+      "fecha_utc": "2025-06-06T08:21:48.247000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": "2025-06-06T08:24:01.688000+00:00",
+      "texto": "Banzo : oie ! Voy contigo he de pedirte algo **camina a ritmo rápido para alcanzarte e ir al portal ** \n**kazuki <@240564189448503306> , te mira y levanta los hombros ** \nLo siento señor kazuki , nos vemos en otra ocasión.  Y gracias por lo de ayer y por lo del otro día \n**te sonrrie y se va con el emo drow mientras suena numb de Linkin Park **",
+      "mensaje_sha256": "c91216ddf80ee4bb277e6f4b41f0b829ad2ab3857a44e55de6de3a17f5205ab2",
+      "tipo_discord": 19,
+      "referencia": "1380460119367880704",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380461663211229194",
+      "texto_sha256": "8d0e8b73f7822ee9b4ca3ff98b788a31205dffbf42d543273b43b8b432f1a75e",
+      "adjuntos": []
+    },
+    {
+      "id": "1380462089973272618",
+      "fecha_utc": "2025-06-06T08:23:29.995000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "Kazuki:\n\nSi necesitan mas ayuda, ya saben donde me encontraré, joven Banzo\n\n**Dice medianamente alto antes de volver a su hacienda**\n\n🏹 Kazuki sale de escena 🏹",
+      "mensaje_sha256": "23335b14ca8778ba412530e66e1412927c8a476274cbb47d7d7010cfa84beaec",
+      "tipo_discord": 19,
+      "referencia": "1380461663211229194",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380462089973272618",
+      "texto_sha256": "0c34d4e5dfd3e717737455867c593956808cafc8fc8eb9fac6c0ee69cd66153f",
+      "adjuntos": []
+    },
+    {
+      "id": "1380463217209380938",
+      "fecha_utc": "2025-06-06T08:27:58.749000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "9b8c7985c883ecde1bc608a329cdead1c82c10c99daed70c09d17b731685b04a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380463217209380938",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

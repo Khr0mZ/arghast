@@ -1,0 +1,340 @@
+{
+  "id": "k-1443164151479537826",
+  "campana": "kuroto",
+  "unidad_revision": "k-1443164151479537826",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Reparaciones para un regalo",
+  "resumen": "Shizzuka descubre la saca y Wukong explica su propósito.",
+  "relato": "Wukong baja sigilosamente del desván de Sho con una gran saca verde y cree que podrá salir sin que nadie lo vea. Shizzuka lo sorprende preguntando qué hace y lo acusa de haber robado algo. Cuando él la llama insolente, una presión inexplicada lo estampa contra el suelo y la voz de la niña se vuelve amenazadora por un instante; después recupera su aire inocente. El mono, asustado y resignado a su insistencia, la lleva al jardín para mostrarle el contenido.\n\nNo hay un tesoro: despliega ropa vieja, herramientas oxidadas y otros trastos abandonados en el desván. Explica que buscaba un detalle para Arwen, como agradecimiento por ayudarlo a equiparse, y que quiere limpiar y reparar lo aprovechable porque no tiene dinero. También imagina vender después alguna pieza en una tienda de segunda mano. Shizzuka pone en duda que sepa coser, pero le ofrece una larga lista de cosas que gustan a Arwen. Eso inspira al mono a preparar una pelota de trapo, una cometa y objetos hechos con espadas de entrenamiento. Invita a la kender a ayudarlo antes de que llegue la niña. Ella se queda, aunque su colaboración consiste sobre todo en corregirlo y protestar. La escena termina mientras trabajan, sin entrega del regalo ni venta realizada.",
+  "participantes": [
+    "Wukong",
+    "Shizzuka"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1443164151479537826",
+      "afirmacion": "Wukong baja del desván con una saca y trata de salir a escondidas.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1443176614421598282",
+      "afirmacion": "Una presión de la kender estampa al mono antes de que recupere su actitud habitual.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1443182263507619993",
+      "afirmacion": "Wukong muestra trastos abandonados y explica que pretende preparar un regalo para Arwen.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1443184347074002954",
+      "afirmacion": "Wukong relata que aprendió algo de costura durante su peregrinaje.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1443192932814426203",
+      "afirmacion": "El mono imagina varios juguetes y propone ponerse a trabajar con Shizzuka.",
+      "tipo": "pensamiento"
+    },
+    {
+      "mensaje_id": "1443194056787230792",
+      "afirmacion": "Shizzuka permanece ayudando y corrigiendo al mono.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La cifra imposible de dificultad y las comparaciones humorísticas no se convierten en reglas, nivel o identidad sobrenatural confirmada de Shizzuka.",
+    "Los juguetes se proyectan y comienza el trabajo, pero la finalización y la entrega no están narradas aquí.",
+    "La imagen adjunta es un chiste visual de un personaje de dibujos con un saco; no añade un actor del mundo ni prueba robo de bienes ajenos."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-11-26T08:59:06.406000+00:00",
+  "fin_utc": "2025-11-26T10:57:56.387000+00:00",
+  "fecha_local": "2025-11-26",
+  "intervalo": {
+    "anterior": 169,
+    "siguiente": 170,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1442596662206922943",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1443679606723838074",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 169,
+        "fecha": "2025-11-24",
+        "inicio_referencia_utc": "2025-11-24T19:23:51+00:00",
+        "fin_estimado_utc": "2025-11-24T22:32:50+00:00",
+        "duracion_video_segundos": 11339,
+        "tipo_referencia": "aviso_de_contraste",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1442596662206922943"
+      },
+      {
+        "capitulo": 170,
+        "fecha": "2025-11-27",
+        "inicio_referencia_utc": "2025-11-27T19:07:07+00:00",
+        "fin_estimado_utc": "2025-11-27T22:32:48+00:00",
+        "duracion_video_segundos": 12341,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1443679606723838074"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida. Una hora tomada de un aviso con título discrepante se utiliza solo como referencia aproximada de ese día."
+  },
+  "fuentes": [
+    {
+      "id": "1443164151479537826",
+      "fecha_utc": "2025-11-26T08:59:06.406000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Wukong\n\n**Se escuchan unos pequeños ruidos en el techo de la base. Ratones? Desde cuándo los cazadores no limpian ahí arriba? Un rato largo dura el ruidito hasta que para en seco. De la trampilla del techo se empieza a ver cómo, en vertical, se va asomando a cámara lenta la cabeza del mono, mirando al solan principal de la base**\n\n*No hay moros en la costa*\n\n**Vuelve a meter la cabeza para adentro y a los dos segundos se deja caer por el hueco al suelo, lo más compacto posible para no hacer ruido. Se le ve cargando una saca verde enorme a la espalda**\n\n*Agilidad felina. Sigiloso como un tigre. Aún no has perdido tu toque del todo viejo mono. Ahora salgamos al jardín y veamos el botín*\n\n**Wukong se disponía a salir a hurtadillas de la base antes d esue apareciera nadie**",
+      "mensaje_sha256": "738959a1c5198b15a385cab5c49c96985ed1275389502f5e2886b017b6759a63",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443164151479537826",
+      "texto_sha256": "f0c18659060e13f20ada27ffdb2bdac0200ad45a46ca5bf1a25c2ce7e395136d",
+      "adjuntos": []
+    },
+    {
+      "id": "1443165334260682812",
+      "fecha_utc": "2025-11-26T09:03:48.403000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "8c0042d36e8057731936b76b365362795476f1c2b489b4c86732cf7f6579c579",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443165334260682812",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1443165333778333758",
+          "nombre": "Screenshot_2025-11-26-10-03-25-883_com.android.chrome-edit.jpg",
+          "tipo": "image/jpeg",
+          "archivo": "adjuntos/1443165333778333758.jpg",
+          "url": "rol_escrito/adjuntos/1443165333778333758.jpg",
+          "bytes": 60732,
+          "sha256": "eae6953d04d60cfa47ee71c267fa3f361ca5d7811ef78b000e1adc4d3d31d436"
+        }
+      ],
+      "no_narrativo": true,
+      "nota_editorial": "Contexto o marcador no narrativo; conservado en la exportación íntegra."
+    },
+    {
+      "id": "1443171085997838358",
+      "fecha_utc": "2025-11-26T09:26:39.724000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "???: ¿Que haces? **Pregunta una voz a tu espalda**",
+      "mensaje_sha256": "79ef1542cd4ffb68149768789f3da71f00c55694393bf49ee30586ca1b8b127b",
+      "tipo_discord": 19,
+      "referencia": "1443164151479537826",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443171085997838358",
+      "texto_sha256": "a5013da364484745b4d92c792881696ccb04ec37dc40a1dad05112ac882f5636",
+      "adjuntos": []
+    },
+    {
+      "id": "1443171713532825630",
+      "fecha_utc": "2025-11-26T09:29:09.340000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Wukong\n\n**El mono pega un salto por el susto**\n\n- KIIIII! SOY INOCENTE! A MI QUE ME REGISTREN!\n\n**Se giraría a ver, totalmente asustado, a quien le ha sorprendido en plena huida**",
+      "mensaje_sha256": "9c4b964db92fcf7589fa020f78523155652e6a479b620f8b51f80ebd7e3122a1",
+      "tipo_discord": 19,
+      "referencia": "1443171085997838358",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443171713532825630",
+      "texto_sha256": "b248d6cb0673532407ddd62d1e90befb796dfe0efc7549b346e8a0ff940cb24b",
+      "adjuntos": []
+    },
+    {
+      "id": "1443172750272499794",
+      "fecha_utc": "2025-11-26T09:33:16.518000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Shizzuka: **La niña te está mirando fijamente mientras se saca un moco** Eh?",
+      "mensaje_sha256": "3d77d83f03a6f0047a1a2b7c91f9fd9074e063e05c33a5cc4fb0fbc5fe040087",
+      "tipo_discord": 19,
+      "referencia": "1443171713532825630",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443172750272499794",
+      "texto_sha256": "58a19d102687b0e15f74b475824c067045cf5416db3e0a0770120406b2a67c5f",
+      "adjuntos": []
+    },
+    {
+      "id": "1443174225979375737",
+      "fecha_utc": "2025-11-26T09:39:08.354000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Wukong\n\n**Suspira aliviado**\n\n- Shizuka por dios... No me des esos sustos. Pensaba que no había nadie...\n\n**Recuperada la compostura se fija mejor en la niña**\n\n- que haces sola aquí? No deberías estar con jhin? O al menos jugando con arwen?",
+      "mensaje_sha256": "5e1f5b0d850743b3f6a2498b797e0a3d09dad16deef489bd491ab8d5aa2509fb",
+      "tipo_discord": 19,
+      "referencia": "1443172750272499794",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443174225979375737",
+      "texto_sha256": "64574157d4d269f6eab88ee86223531f46455821251d365ac0cb2925a382aa5e",
+      "adjuntos": []
+    },
+    {
+      "id": "1443175005969055817",
+      "fecha_utc": "2025-11-26T09:42:14.318000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Shizzuka: Iba a buscar mi espada **Te mira y te señala** ¿Que has robado?",
+      "mensaje_sha256": "85a8246fbd7ddf7b722ad956cc1e262689096ab0d51eb478443212b03d0e1666",
+      "tipo_discord": 19,
+      "referencia": "1443174225979375737",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443175005969055817",
+      "texto_sha256": "83fc4d401d9824dc0881aa1044f13150a6746c7bcfc538bfa4e266483a08835b",
+      "adjuntos": []
+    },
+    {
+      "id": "1443175494995411096",
+      "fecha_utc": "2025-11-26T09:44:10.911000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Wukong\n\n- insolente...\n\n**El mono tose intentando aparentar dignidad y ofensa**\n\n- soy un monje... Entreno el cuerpo y el espíritu... Robar es un acto despreciable... Que te hace pensar que me dedico a robar?",
+      "mensaje_sha256": "cd8884b7ad0cef88b35ac4cf822ff8c9676b370a01024b4deffa1662f02384da",
+      "tipo_discord": 19,
+      "referencia": "1443175005969055817",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443175494995411096",
+      "texto_sha256": "372d42b1c080ba8a0cbe54ad47ae0758ef60ac67086c2496d111d4f5583a5f80",
+      "adjuntos": []
+    },
+    {
+      "id": "1443176614421598282",
+      "fecha_utc": "2025-11-26T09:48:37.803000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Shizzuka: **De repente una presión te estampa contra el suelo, es como si un país entero caiera sobre tu espalda pero no es un país, es la presión de la niña kender (Shizzuka Presence DC-250) Con una voz sacada de ultratumba responde** ¿Que me has llamado, mísero mono mortal? **Luego cambia la cara otra vez a la de la niña buena y te señala** Esa bolsa grande",
+      "mensaje_sha256": "452dcfd6d473c69e175478b0f1430818529bb2989d7a269ac2c98d3a36613280",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443176614421598282",
+      "texto_sha256": "fecdfcc6cbf66f0d4b21cf69672aa7756f98e686526f4d0b65ef6a876c18b5bc",
+      "adjuntos": []
+    },
+    {
+      "id": "1443176636034973758",
+      "fecha_utc": "2025-11-26T09:48:42.956000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "<@220602485977382912>",
+      "mensaje_sha256": "701ca93a1610f71abf712151fb8ae050e35ba55fef68463a9f7298baf6ec464e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443176636034973758",
+      "texto_sha256": "0c9f16ea9555d0e42c6ade8b087422b1996288499187cee194eee13f579322de",
+      "adjuntos": [],
+      "no_narrativo": true,
+      "nota_editorial": "Contexto o marcador no narrativo; conservado en la exportación íntegra."
+    },
+    {
+      "id": "1443178150413598794",
+      "fecha_utc": "2025-11-26T09:54:44.012000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Wukong\n\n**Por un segundo, el mono casi se orina encima**\n\n- como has hecho eso? QUIÉN DIANTRES TE EBSEÑA ESAS COSAS???\n\n**Con la respiración agitada mira a la niña y se intenta recomponer**\n\n- en fin, olvidaba que eres peor que una gota malaya... Anda, vente cinmigo al jardín y te lo enseño...\n\n**El monje se giró y tomo rumbo a la salida para ir al jardín como tenía planeado**\n\n*Esta cría cada día da más miedo*",
+      "mensaje_sha256": "88428911812934278264f24b02869a36cb630968e0d87b0e1ace7413c9311d68",
+      "tipo_discord": 19,
+      "referencia": "1443176614421598282",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443178150413598794",
+      "texto_sha256": "5979df7e067cde27f207ac472afc7f5396a9597b1d268a2c35e1604c39778682",
+      "adjuntos": []
+    },
+    {
+      "id": "1443179474068701214",
+      "fecha_utc": "2025-11-26T09:59:59.596000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": "2025-11-26T10:09:14.137000+00:00",
+      "texto": "Shizzuka: ¿Que hago el que? **Dice mientras te acompaña al jardín** Tienes regalos ahí dentro? ¿Eres como el krampa ese que traía regalos y tuvimos que matar el año pasado?",
+      "mensaje_sha256": "9267c3e4da19694ec29374ccab7e46c85dba2d7cd533e107a28cd75eb01b50d0",
+      "tipo_discord": 19,
+      "referencia": "1443178150413598794",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443179474068701214",
+      "texto_sha256": "47a74b205bddc2c854f1dc35be666cb931ab3bac847146dc6d4b10fe7542f41d",
+      "adjuntos": []
+    },
+    {
+      "id": "1443182263507619993",
+      "fecha_utc": "2025-11-26T10:11:04.650000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": "2025-11-26T10:11:52.321000+00:00",
+      "texto": "Wukong\n\n- no sé de qué me hablas la verdad...\n\n**Wukong se acerca a la sombra de un árbol, descarga la enorme saca y la despliega como un mantel**\n\n- aquí lo tienes Shizuka... El gran botín que he \"robado\"...\n\n**Le explica a la niña con tono burlesco. En esa saca desplegado solo se verían trastos viejos, ropa por zurzir, herramientas a medio oxidar, y no sé si alguna cosilla de valor (guiño guiño codo codo <@214405113677217793>)**\n\n- como ves son todos trastos abandonados en el desván de la base que ya nadie usa... Pensé en buscar alguna cosilla que pudiera arreglar y limpiar para regalarle a Arwen <@753394009153732689> para agradecerle que me ayudara a equiparme el otro día ya que no tengo un duro... Pero vi tantas cosas y ropa que se podrían reaprovechar que no he podido resistirne a cogerlas para arreglarlas y darles más uso...\n\n**El.monje se frota la barbilla mirando ese montón de trastos**\n\n- Quien sabe... Si las dejo como nuevas me podría sacar unos cobres en la tienda de segunda mano...",
+      "mensaje_sha256": "3b0686da0f88d36ff9a535883fb9ef53faba1071ed7f55f25aafa8b56c2e321d",
+      "tipo_discord": 19,
+      "referencia": "1443179474068701214",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443182263507619993",
+      "texto_sha256": "ea33c3db64ff6d45ea0fc3c3841acf1c324ac86bfc60c76f564fca5944ec6598",
+      "adjuntos": []
+    },
+    {
+      "id": "1443183788489441371",
+      "fecha_utc": "2025-11-26T10:17:08.234000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Shizzuka: ¿Pero tu sabes coser? **Ladea la cabeza** ¿Con esas manos?",
+      "mensaje_sha256": "46befb1bec739aa04543caa3cf666c059f58cb627c01fe237fcdc39c73c33321",
+      "tipo_discord": 19,
+      "referencia": "1443182263507619993",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443183788489441371",
+      "texto_sha256": "ad3f9ee07124a04175285c5809a7c36af69fd54f4d9a573fc532e9def68a0cd9",
+      "adjuntos": []
+    },
+    {
+      "id": "1443184347074002954",
+      "fecha_utc": "2025-11-26T10:19:21.411000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Wukong\n\n- no soy un experto pero algo he aprendido mientras peregrinaba por kuroto... Tuve que arreglar mi ropa yo mismo... Pero bueno, que lo primero es encontrar algo que le pueda hacer ilusión a Arwen para regalarle... Luego ya miraré que cosas valen la pena arreglar...\n\n**El.mono se sienta con las piernas cruzadas delante del montón de trastos y empieza a buscar algo para la pequeña**",
+      "mensaje_sha256": "c3f29850031c062f8463571463dc4257cbbc751b3689d74ed92df8a180925a08",
+      "tipo_discord": 19,
+      "referencia": "1443183788489441371",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443184347074002954",
+      "texto_sha256": "c7d9a68526e28ade6bb37fb6bb503f17603adba238edfaf5b85000c227621962",
+      "adjuntos": []
+    },
+    {
+      "id": "1443187299520352256",
+      "fecha_utc": "2025-11-26T10:31:05.329000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Shizzuka: **Cuando dices que te tuviste que apañar tu solo cosiendo tu ropa cuando peregrinabas, te mira y ladea la cabeza examinándote.** Pues tienes la ropa hecha un asco Wukong... Pareces un vagabundo.... ¿Arwen? A Arwen le gustan los bichos, las plantas, las pelotas, las chuches.... **Empieza a nombrar cosas que les gustan a los niños durante un largo rato**",
+      "mensaje_sha256": "b8817bedf8a7d4b055e96b62478e8554e152123545baca9bd4aed01c386c182a",
+      "tipo_discord": 19,
+      "referencia": "1443184347074002954",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443187299520352256",
+      "texto_sha256": "ed453805340b5ccee7033674f25f15fc4640babc04d0dd337fad4fa159deef2a",
+      "adjuntos": []
+    },
+    {
+      "id": "1443192932814426203",
+      "fecha_utc": "2025-11-26T10:53:28.411000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Wukong\n\n- muy bien Shizzuka! Ahí me has dado ideas...\n\n**Wukong escanea la montaña de trastos en busca de cosas útiles para sus ideas**\n\n*Veamos... Pelotas... No hay nada... Pero si cojo ropa, hago una bola compacta con ella, la envuelvo en una tela mas grande y la coso... Tendríamos una pelota de trapo. Una cosa menos... Que más... Ropa de cama... Oye, y una cometa? Con las varillas de esas perchas tendría el esqueleto... Y le pinto un bicho que vuele. Soy un crack... Uy mira, dos espadas de entrenamiento... Si las parto y las lijo... Pues mira ni tan mal...*\n\n**El mono se gira emocionado a la pequeña kender**\n\n- vale Shizzuka, manos a la obra. Si quieres ayudarme siéntate conmigo y empecemos. A ver si lo podemos tener acabado antes de que venga Arwen!\n\n(Ahí me quedo haciendo art attack hasta que venga <@753394009153732689> )",
+      "mensaje_sha256": "79c2337e4db96a0d40a308ce81cd75abfa1b114abf8713db7cdacb90c42c3e2f",
+      "tipo_discord": 19,
+      "referencia": "1443187299520352256",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443192932814426203",
+      "texto_sha256": "0dc2b520e945eebaaca4bfdf8bb580cc5beb6611a902f2e2e5005cfea25b5730",
+      "adjuntos": []
+    },
+    {
+      "id": "1443194056787230792",
+      "fecha_utc": "2025-11-26T10:57:56.387000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Shizzuka: **Levanta los hombros con indiferencia, no tiene nada más que hacer, así que te ayuda. Bueno, ayudar...si crees que quejarse todo el rato e ir corrigiendo todo lo que haces es ayudar, si, te ayuda...**\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "a69396ad075f741b3395fc0202fd4242ac4c5bf1a704fd4f95f9435d67894670",
+      "tipo_discord": 19,
+      "referencia": "1443192932814426203",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443194056787230792",
+      "texto_sha256": "08e9bd363e9dce31f5add61cba1ccdbf8df72a75d57bd460b5a5be4389205f7f",
+      "adjuntos": []
+    }
+  ]
+}

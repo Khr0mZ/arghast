@@ -1,0 +1,215 @@
+{
+  "id": "k-1383384327160594622",
+  "campana": "kuroto",
+  "unidad_revision": "k-1383384327160594622",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Jhin no puede consultar los archivos del robo",
+  "resumen": "El administrativo reserva el expediente al Shogunato.",
+  "relato": "Después de visitar la iglesia, Jhin entra en palacio para pedir acceso a la investigación de los archivos robados. Un administrativo pregunta si pertenece al Shogunato. Jhin explica que es cazador y ofrece firmar algún documento, pero recibe una negativa: las investigaciones son clasificadas y los cazadores solo pueden actuar cuando el Shogunato lo autoriza. Se retira a un banco para pensar y, más tarde, se pone casco, máscara negra y un kimono rasgado antes de dirigirse hacia los barrios bajos. No obtiene el expediente ni otra pista en esta escena.",
+  "participantes": [
+    "Jhin",
+    "administrativo del Shogunato"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1383746041941200896",
+      "afirmacion": "El administrativo rechaza compartir archivos clasificados con un cazador sin autorización.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1383900484418670683",
+      "afirmacion": "Jhin se prepara para ir a los barrios bajos.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Tres escenas cerradas explícitamente y separadas en subescenas.",
+    "No se inventan los antecedentes que Guxi y Seraphina se cuentan fuera de diálogo.",
+    "La especulación sobre Ikaari ebrio no prueba dónde está ni por qué no responde."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-14T09:55:25.633000+00:00",
+  "fin_utc": "2025-06-16T12:13:09.914000+00:00",
+  "fecha_local": "2025-06-14",
+  "intervalo": {
+    "anterior": 127,
+    "siguiente": 128,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1382781538868920370",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1384592935672086533",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 127,
+        "fecha": "2025-06-12",
+        "inicio_referencia_utc": "2025-06-12T17:59:57+00:00",
+        "fin_estimado_utc": "2025-06-12T20:38:52+00:00",
+        "duracion_video_segundos": 9535,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1382781538868920370"
+      },
+      {
+        "capitulo": 128,
+        "fecha": "2025-06-17",
+        "inicio_referencia_utc": "2025-06-17T17:57:43+00:00",
+        "fin_estimado_utc": "2025-06-17T20:42:20+00:00",
+        "duracion_video_segundos": 9877,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1384592935672086533"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1383384327160594622",
+      "fecha_utc": "2025-06-14T09:55:25.633000+00:00",
+      "fecha_local": "2025-06-14",
+      "editado_utc": null,
+      "texto": "jhin: **despues de salir de la iglesia se dirige a palacio a preguntar algun administrativo sobre los papeles robados** *a quien podre preguntar quiza el que me vendio el gimnasio? puede ser si*",
+      "mensaje_sha256": "758d5c3ed618d044dc68a07853bd63c98140269eeefb9b561c994e9e78d7d1e2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1383384327160594622",
+      "texto_sha256": "b4c6c31c7291f83441bfe823c2c7a33f5431ca072ff0dc3cdd0f74d8a7c7c23b",
+      "adjuntos": []
+    },
+    {
+      "id": "1383480296736952440",
+      "fecha_utc": "2025-06-14T16:16:46.563000+00:00",
+      "fecha_local": "2025-06-14",
+      "editado_utc": null,
+      "texto": "jhin: **entra en palacio buscando a un administrador para preguntarle** <@214405113677217793>",
+      "mensaje_sha256": "b4ed1f7e8411c311c9a99298b3b4037be2001bbdfd8e139176118b928200778a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1383480296736952440",
+      "texto_sha256": "168fc72e90cb30dea9e683529c14f3b36e15629638e5faa93af4be4faf549ca2",
+      "adjuntos": []
+    },
+    {
+      "id": "1383731613086650460",
+      "fecha_utc": "2025-06-15T08:55:25.050000+00:00",
+      "fecha_local": "2025-06-15",
+      "editado_utc": null,
+      "texto": "Administrativo: ¿Que quieres usted?",
+      "mensaje_sha256": "3f1d8a1e6fc9c3ef4d75bec4c16d063cc94f6c7d8e2be6243df7b072355a4239",
+      "tipo_discord": 19,
+      "referencia": "1383480296736952440",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1383731613086650460",
+      "texto_sha256": "0fef912be565f1bacc6b1f72a558b7c98e76604b378d82ff137ca9b3244f507a",
+      "adjuntos": []
+    },
+    {
+      "id": "1383743179127394344",
+      "fecha_utc": "2025-06-15T09:41:22.609000+00:00",
+      "fecha_local": "2025-06-15",
+      "editado_utc": null,
+      "texto": "jhin: Buenas vengo de la iglesia que estoy investigando algo para los cazadores  y parece que hubo un robo hace unos meses alli y el shogunato investigo , Si se puede me gustaria acceder a la investigacion",
+      "mensaje_sha256": "469ff908bdba9e61b12b8afab027ed26bbed08ed6de3895b41a56e3fd7b6a0a0",
+      "tipo_discord": 19,
+      "referencia": "1383731613086650460",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1383743179127394344",
+      "texto_sha256": "61b9ed3cb7dad59bec074d568fadaee15f4ea8061b66714ae4e4e6bbc79b77aa",
+      "adjuntos": []
+    },
+    {
+      "id": "1383744604071002184",
+      "fecha_utc": "2025-06-15T09:47:02.342000+00:00",
+      "fecha_local": "2025-06-15",
+      "editado_utc": null,
+      "texto": "Administrativo: ¿Usted es miembro del Shogunato? **Te mira de arriba abajo con recelo** Sino, no puede acceder a archivos clasificados, ¿señor?",
+      "mensaje_sha256": "e9acf3fe400c8f2d3e0c963972bd5eac7245209f5be34afdc15237140a496fa0",
+      "tipo_discord": 19,
+      "referencia": "1383743179127394344",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1383744604071002184",
+      "texto_sha256": "1a7feffb723b2c1a0acbbe3110dca7ed6087279227603373414843f91cf000c2",
+      "adjuntos": []
+    },
+    {
+      "id": "1383744987296170015",
+      "fecha_utc": "2025-06-15T09:48:33.710000+00:00",
+      "fecha_local": "2025-06-15",
+      "editado_utc": null,
+      "texto": "jhin: formo parte de los cazadores hay alguna forma para que me deje verlos ? es importante , quiza pueda firmar algun papel para que me deje verlos",
+      "mensaje_sha256": "be1df199e0424c5b20817a588409f7ed301cb3acde1a3132b7751ed97546c23b",
+      "tipo_discord": 19,
+      "referencia": "1383744604071002184",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1383744987296170015",
+      "texto_sha256": "92c4c9a910e429d3548011ac10305ede39d3f37a1f35719743f43ad752c9e497",
+      "adjuntos": []
+    },
+    {
+      "id": "1383746041941200896",
+      "fecha_utc": "2025-06-15T09:52:45.157000+00:00",
+      "fecha_local": "2025-06-15",
+      "editado_utc": null,
+      "texto": "Administrativo: Si no es usted parte del Shogunato no puede ver los archivos, señor \"ni se ha presentado\" **Sigue escribiendo los papeles con los que estaba cuando llegaste** Las investigaciones llevadas por el Shogunato, solo pertenecen a este, los Cazadores sois una fuerza extra que solo se os permite actuar cuando el Shogunato lo decide, así que no, señor... no puede solo firmar un papel.",
+      "mensaje_sha256": "e73b7732fcca8e7b127440da7d72ef24200fccfbe1a082dd6789cf27bf8fc259",
+      "tipo_discord": 19,
+      "referencia": "1383744987296170015",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1383746041941200896",
+      "texto_sha256": "c9aa1e7ef3c910205e73884bff7309cbe7caa29fb395ec5ae84b8158616c2562",
+      "adjuntos": []
+    },
+    {
+      "id": "1383747098968592455",
+      "fecha_utc": "2025-06-15T09:56:57.172000+00:00",
+      "fecha_local": "2025-06-15",
+      "editado_utc": null,
+      "texto": "jhin: gracias por la aclaracion adios **sale de la sala y se dirige hacia fuera en uno de los bancos de afuera se sienta y se pone a pensar en su siguiente movimiento** *me estoy quedando sin opciones  la verdad *",
+      "mensaje_sha256": "2ee7d3057c5855c95b8731bb5bf76851cca9d098c0d92b2a99717a2870733c14",
+      "tipo_discord": 19,
+      "referencia": "1383746041941200896",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1383747098968592455",
+      "texto_sha256": "d891196fd285c0983ac9d63081d3e3cc317bb61003f3c316cb02c9ea2d191ece",
+      "adjuntos": []
+    },
+    {
+      "id": "1383900484418670683",
+      "fecha_utc": "2025-06-15T20:06:27.113000+00:00",
+      "fecha_local": "2025-06-15",
+      "editado_utc": null,
+      "texto": "jhin: **se prepara pone su casco y mascara negra un kimono algo rasgado y se prepara para irse a los barrios bajos**",
+      "mensaje_sha256": "b030213e8570fb656edec06e1b9981ce1f12a602b2b11b3fea0908229e21ca81",
+      "tipo_discord": 19,
+      "referencia": "1383747098968592455",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1383900484418670683",
+      "texto_sha256": "a9073a4d7e3571976f2b1882f49fa30fabdb6add0ef66eef903544245aa5417c",
+      "adjuntos": []
+    },
+    {
+      "id": "1383900537614897213",
+      "fecha_utc": "2025-06-15T20:06:39.796000+00:00",
+      "fecha_local": "2025-06-15",
+      "editado_utc": null,
+      "texto": "⚔️ jhin sale de escena⚔️",
+      "mensaje_sha256": "fede24200ab0a2aa011ccc49e9c8547d7f5d88aa9e328885ddc7a12b874b6f2f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1383900537614897213",
+      "texto_sha256": "2fa50041b42fd61489206b41eab7d45b6b7fda060f5f91c3c9aad3ffea0793b2",
+      "adjuntos": []
+    },
+    {
+      "id": "1384143765798916266",
+      "fecha_utc": "2025-06-16T12:13:09.914000+00:00",
+      "fecha_local": "2025-06-16",
+      "editado_utc": null,
+      "texto": "🔴  Final de escena 🔴",
+      "mensaje_sha256": "1ff3913577ea59dbe4ffaa66b89f94e9d052bad4567ff8ecd516922ed0d78fcd",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1384143765798916266",
+      "texto_sha256": "2d951a88aefa391a493c42f6b69315b97b488451d8ef0802371598f1f0254083",
+      "adjuntos": []
+    }
+  ]
+}

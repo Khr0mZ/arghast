@@ -1,0 +1,217 @@
+{
+  "id": "k-1397142814768234608",
+  "campana": "kuroto",
+  "unidad_revision": "k-1397142814768234608",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Hayate interrumpe su retiro",
+  "resumen": "Archi visita el templo del norte y Hayate se compromete a buscar a Shirz.",
+  "relato": "Archi llega al templo del norte durante una tormenta que cesa de repente al aproximarse. Encuentra a Hayate entrenando entre las cuatro columnas y le transmite su preocupación por la corrupción del bosque y la posible actividad nigromántica. El aarakocra admite que, desde la apertura de la Puerta Negra, ha descuidado sus patrullas para concentrarse en ganar poder. Explica que no recibió instrucción clerical: la naturaleza le otorgó sus facultades de forma fortuita, y había atribuido una sensación extraña en las cercanías a Ootakemaru.\n\nAmbos consideran necesario investigar si las amenazas están relacionadas. Hayate propone consultar a Shirz y, como alternativa que le desagrada, a una bruja cuyo nombre no da. Archi explica que el clérigo lleva tiempo sin pasar por Sho y que informará a Kalista. Hayate decide aplazar su intención de volver al sur para buscar a Shirz: dice sentir una conexión con él y promete presentarse en la capital dentro de dos días, tenga éxito o no. Archi se despide y toma el camino del portal de Hakahara. No se representa la búsqueda ni un encuentro posterior.",
+  "participantes": [
+    "Archi",
+    "Hayate"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1397154294993518592",
+      "afirmacion": "La tormenta cesa al acercarse Archi y Hayate lo recibe en el templo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1397183719936098414",
+      "afirmacion": "Hayate explica el origen fortuito de su poder, el abandono de patrullas y la sensación extraña del bosque.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1397199198906224690",
+      "afirmacion": "Hayate propone consultar a Shirz y a una bruja sin nombre.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1397222668054429878",
+      "afirmacion": "Hayate se ofrece a buscar a Shirz y a informar en la capital en dos días.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1397266827633103109",
+      "afirmacion": "Archi se marcha hacia el portal de Hakahara.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Las causas de la corrupción y su posible relación con Ootakemaru siguen siendo hipótesis.",
+    "El plazo de dos días es un compromiso, sin cumplimiento mostrado en esta unidad.",
+    "No se otorgan facultades adicionales a Hayate por su sensación subjetiva de progreso."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-07-22T09:06:44.699000+00:00",
+  "fin_utc": "2025-07-22T19:30:40.297000+00:00",
+  "fecha_local": "2025-07-22",
+  "intervalo": {
+    "anterior": 139,
+    "siguiente": 140,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1395465783865512070",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1398002060905152542",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 139,
+        "fecha": "2025-07-17",
+        "inicio_referencia_utc": "2025-07-17T18:02:34+00:00",
+        "fin_estimado_utc": "2025-07-17T20:59:56+00:00",
+        "duracion_video_segundos": 10642,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1395465783865512070"
+      },
+      {
+        "capitulo": 140,
+        "fecha": "2025-07-24",
+        "inicio_referencia_utc": "2025-07-24T18:00:50+00:00",
+        "fin_estimado_utc": "2025-07-24T21:10:34+00:00",
+        "duracion_video_segundos": 11384,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1398002060905152542"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1397142814768234608",
+      "fecha_utc": "2025-07-22T09:06:44.699000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": null,
+      "texto": "**ALREDEDORES DEL TEMPLO DEL NORTE ** \n\nArchi: *se ha pasado el tiempo rápido,  hace nada que sufrí ese terrible aterrizaje forzoso*\nEspero que el doctor Hayate <@694971576340447292> este en casa \n**acercándose a la entrada del templo**",
+      "mensaje_sha256": "4c543e3b7a9601f2b3367dcb0cb5ba63801747a2f3882848cc9f0e359f1d553c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1397142814768234608",
+      "texto_sha256": "de7592be6a8e92f253b6ba4e6528254a293b668dc308b48736fbf7e8d54a20cf",
+      "adjuntos": []
+    },
+    {
+      "id": "1397154294993518592",
+      "fecha_utc": "2025-07-22T09:52:21.798000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": "2025-07-22T09:54:17.694000+00:00",
+      "texto": "ALREDEDORES DEL TEMPLO NORTE\n\nEl templo está bajo una tormenta, y los rayos caen contra las montañas cercanas. Al acercarte la tormenta cesa de golpe y el sol ilumina las 4 columnas del templo, donde se encuentra el Aarakocra entrenando \n\nHayate: **Aleteando y sonriente** Archi <@616683133374562304> , eres tu? Bienvenido de nuevo! Traes noticias?",
+      "mensaje_sha256": "1cd0de8684936cc8a5b1ea1f852042c1e9084c956024bf198aa289c38cbd9a3e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1397154294993518592",
+      "texto_sha256": "a215e40d15a436ecab9f5979fd405b067d99e68cdb00a68316f7b6e43335431a",
+      "adjuntos": []
+    },
+    {
+      "id": "1397158170362642523",
+      "fecha_utc": "2025-07-22T10:07:45.758000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": null,
+      "texto": "Archi: Hey Doc ! Vaya tiempo raro hace por aqui siempre mon ami. \nY lo agusto que estas aqui con tus cosas . Menos mal que no te metiste en el lío de dirigir este país **rie un poco mientras se acerca ** \n\nSi mon ami traigo noticias y no todas son buenas. \nEste bosque esta corrompido por algo . Habías visto nigromancia alguna vez por aqui ?",
+      "mensaje_sha256": "6773ae7b7ef2ffff506d87d0769a771863cdd8792d5de31eff00e3beddc9cc1a",
+      "tipo_discord": 19,
+      "referencia": "1397154294993518592",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1397158170362642523",
+      "texto_sha256": "217d8475c3cd2930bc2aa182f2c7c345739228ad38f5e32c108507dcb02637ac",
+      "adjuntos": []
+    },
+    {
+      "id": "1397183719936098414",
+      "fecha_utc": "2025-07-22T11:49:17.251000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": null,
+      "texto": "ALREDEDORES DEL TEMPLO NORTE\n\nHayate: llevo tiempo vigilando los bosques cercanos, pero desde que se abrió la puerta negra solamente he entrenado para subir de poder, y mucho me temo que he descuidado mis patrullas. La nigromancia no es mi fuerte...no recibí una instrucción de clérigo ya que obtuve el poder de forma fortuita entregado por la naturaleza. Aún así, si que últimamente he notado una sensación extraña en la cercanía, pero pensaba que era debido al poder de Otakemaru. No estará relacionado?",
+      "mensaje_sha256": "2f8c340fb120da50de4703ae7c28980d3e6871810d8f66ff58cde21bd0d80652",
+      "tipo_discord": 19,
+      "referencia": "1397158170362642523",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1397183719936098414",
+      "texto_sha256": "18e32e465b0a06f8e67e661d2a375ca833f74cf0e6d0448940cdf69fda4db3f2",
+      "adjuntos": []
+    },
+    {
+      "id": "1397192060628504699",
+      "fecha_utc": "2025-07-22T12:22:25.827000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": "2025-07-22T12:43:10.823000+00:00",
+      "texto": "**TEMPLO DEL NORTE **\nArchi : se lo comenté al maese jelbreg si otra fuerza esta creciendo en el Norte y están relacionadas es un gran problema y si no lo están.. cuanto tiempo tardaran en aliarse ...",
+      "mensaje_sha256": "ded0c7b179b89dcafaa18e4758ef09ebd886bf93eff434840a6151d99892f94e",
+      "tipo_discord": 19,
+      "referencia": "1397183719936098414",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1397192060628504699",
+      "texto_sha256": "83b95355219347b1c2fe8b8346801f2c01680cdfe0ac7cd76b124585b619310b",
+      "adjuntos": []
+    },
+    {
+      "id": "1397199198906224690",
+      "fecha_utc": "2025-07-22T12:50:47.725000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": null,
+      "texto": "**TEMPLO NORTE**\nHayate: Los problemas nunca vienen solos amigo, y estoy casi seguro de que tienen que guardar alguna relación. Deberíamos investigarlo...se me ocurre alguien que seguramente nos pueda dar algo de información al respecto: Shirz. Lo conoces? También hay una bruja a la que no tengo ganas de ver, pero quizás también tiene algún conocimiento de nigromancia dada su naturaleza antagónica con las creencias de la Reina Cuervo \n\n*Se acabó el entrenamiento en el templo, hay temas de los que ocuparse. Aún así, siento que mi poder ha crecido!*",
+      "mensaje_sha256": "846517fcfb6817167f36ca9ee2f0be5e5c3a7ea819aedfedbd086998ae83d7d1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1397199198906224690",
+      "texto_sha256": "2c5ab4accf73bca35bd13a8c278ef5b4399d257a88d276faf1637d63378ed17f",
+      "adjuntos": []
+    },
+    {
+      "id": "1397208569132351578",
+      "fecha_utc": "2025-07-22T13:28:01.761000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": null,
+      "texto": "Archi: si , maese Shirz parece que lleva un tiempo sin pasar por la base . \nHe de ir a Sho a hablar con nuestra Shogun la señorita Kalista.  Le comentaré que una de las prioridades debe ser encontrar a mesier Shirz",
+      "mensaje_sha256": "ab91c6bafe5a6ff225ce6d8c54dba870fdb8f502300bba891d884b4cae5b1363",
+      "tipo_discord": 19,
+      "referencia": "1397199198906224690",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1397208569132351578",
+      "texto_sha256": "04493c6ad7bb789307eec1a5246ac85c90bc13ad1b3ea15d9220d8e666b45820",
+      "adjuntos": []
+    },
+    {
+      "id": "1397222668054429878",
+      "fecha_utc": "2025-07-22T14:24:03.206000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": null,
+      "texto": "**TEMPLO NORTE**\n\nHayate: tenía intención de volver al Sur por si crece otra oleada, pero lo que puedo hacer es buscar a Shirz para que nos ayude con el problema del bosque, al fin y al cabo siento una conexión con él y estoy seguro de poder encontrarlo. Tanto si lo encuentro como si no, en 2 días estaré en la capital para informar y ponerme al día. Te parece bien amigo?",
+      "mensaje_sha256": "803bd35dd25f18d48b162a8f8dc4b79c0b8e9f6e09b88313db68151d8a067bd7",
+      "tipo_discord": 19,
+      "referencia": "1397208569132351578",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1397222668054429878",
+      "texto_sha256": "aea3163afeeebf37aa305b935935f86a70c4760ebd933a1c84c441d4bdf9bb5f",
+      "adjuntos": []
+    },
+    {
+      "id": "1397266827633103109",
+      "fecha_utc": "2025-07-22T17:19:31.670000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": null,
+      "texto": "Archi: gran idea mon ami , me alegra que nos veamos mas a menudo . Hablamos doctor Hayate **se despide y marcha en dirección al portal de hakahara **",
+      "mensaje_sha256": "890a10ed5edf7a620faaebee3ce200937e3789d9d0e355e69432f26ac946123c",
+      "tipo_discord": 19,
+      "referencia": "1397222668054429878",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1397266827633103109",
+      "texto_sha256": "de0f57259e057defeaa8ea8c1bcd75b0ed3739eda12d4f5c7fad8761f6a3f66c",
+      "adjuntos": []
+    },
+    {
+      "id": "1397299831046803569",
+      "fecha_utc": "2025-07-22T19:30:40.297000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "f2cd3be298268b8e1619760127c298b9ffdbe18eaca0656b778c049261527eb7",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1397299831046803569",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

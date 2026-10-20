@@ -1,0 +1,319 @@
+{
+  "id": "x-1480501980714635377",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1480501980714635377",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "Una ducha preparada para el hermano",
+  "resumen": "Una broma abre la conversación sobre recursos y el pasado en Amnem.",
+  "relato": "Tryel prepara una broma mientras Eldrath duerme en una habitación del local de Liz y después se baña junto al muelle. Cuando él se levanta activa el mecanismo: un hilo y una polea le vuelcan encima un cubo de agua fría. Sale enfadado a buscar a su hermana, que se ríe de su éxito. Eldrath promete vengarse, pero también se coloca para proteger su intimidad mientras termina de vestirse.\n\nLos hermanos hablan de sus escasos recursos y del pasado en Amnem. Tryel cree que el conflicto con el Bajá Balil les hizo perder una buena suma; Eldrath responde que pretendía mantenerlos atados a sus servicios y recuerda que quería recuperar su arma. Ambos reconocen que ya la recuperó, sin narrarse aquí aquella operación. Consideran obtener dinero de Patata, a quien dicen haber salvado, o prestar servicios a la jefa del poblado. Eldrath prefiere observar antes de repetir lo ocurrido en una cofradía. Da dinero a Tryel para beber y escuchar noticias en la taberna mientras él busca un baño más discreto.",
+  "participantes": [
+    "Tryel",
+    "Eldrath"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1480536995569733772",
+      "afirmacion": "La trampa de Tryel vuelca agua sobre Eldrath al levantarse.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1480542071017177088",
+      "afirmacion": "Tryel recuerda el conflicto con el Bajá Balil en Amnem y el rescate de Patata.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1480543659257757759",
+      "afirmacion": "Tryel confirma que Eldrath recuperó su arma.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1480544546474688696",
+      "afirmacion": "Eldrath prefiere observar antes de repetir lo ocurrido en la cofradía.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Los hermanos se identifican por sus propios tratamientos y comparten comunicación mental; no se fusionan con otros personajes del mismo autor.",
+    "Los recuerdos de ruina y huida son privados y parcialmente percibidos por Bling, sin lugar, autor ni enemigo identificados.",
+    "Ninguna broma de sacrificio, apariencia de mapache, comparación con moscas o sospecha de liche acredita una identidad literal.",
+    "La lista de Luna contiene burlas, no datos biográficos fiables.",
+    "Los diagnósticos de edad, veneno o maldición continúan sin confirmación.",
+    "Tryel y Eldrath aún no declaran públicamente el objetivo concreto de su búsqueda."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-03-09T09:46:18.599000+00:00",
+  "fin_utc": "2026-03-09T12:55:12.849000+00:00",
+  "fecha_local": "2026-03-09",
+  "intervalo": {
+    "anterior": 14,
+    "siguiente": 15,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1480286934453452832",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1481731102304370731",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 14,
+        "fecha": "2026-03-08",
+        "inicio_referencia_utc": "2026-03-08T19:31:31+00:00",
+        "fin_estimado_utc": "2026-03-08T22:37:35+00:00",
+        "duracion_video_segundos": 11164,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1480286934453452832"
+      },
+      {
+        "capitulo": 15,
+        "fecha": "2026-03-12",
+        "inicio_referencia_utc": "2026-03-12T19:10:03+00:00",
+        "fin_estimado_utc": "2026-03-12T22:12:44+00:00",
+        "duracion_video_segundos": 10961,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1481731102304370731"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1480501980714635377",
+      "fecha_utc": "2026-03-09T09:46:18.599000+00:00",
+      "fecha_local": "2026-03-09",
+      "editado_utc": null,
+      "texto": "Tryel: **Un rayo de sol atravesaba la ventana del local de Liz, iluminando la habitación donde los dos hermanos habían pasado la noche. La elfa dormía a pierna suelta, como siempre: medio cuerpo fuera de la cama, una pierna colgando y la cabeza estampada contra el suelo. Esa cría se movía más durmiendo que peleando. El rayo de luz le dio justo en la cara, obligándola a refunfuñar con fastidio hasta que, finalmente, abrió los ojos con las legañas propias de alguien que no quería estar despierto. Bostezó, se incorporó y miró a su hermano, aún profundamente dormido. Una sonrisa diabólica se dibujó en su cara. Se acercó con sigilo, rebuscó un par de cosas en la habitación… y le preparó una “trampa” muy suya para cuando despertara. <@753394009153732689> Cuando terminó, asintió satisfecha con su obra. Acto seguido salió de la habitación y del local de Liz.** ¡Adiós, guapa! **Le dijo a la dueña al pasar, agitando la mano con alegría mañanera. Se dirigió hacia la costa, junto al muelle, donde dejó su ropa y sus armas hecha un montón encima de una piedra. Sin pensarlo dos veces, se lanzó al mar completamente desnuda, dejándose envolver por el agua fría y salada mientras se aseaba.**",
+      "mensaje_sha256": "0fc4fa07f64ebd0e4cf970017e0625328bdfb068dae3b165609acf9d0c57e48b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1480501980714635377",
+      "texto_sha256": "6ea2972aebeb715a8361df4ac16e1aef015f73097a8687b6e9880e5604781fbc",
+      "adjuntos": []
+    },
+    {
+      "id": "1480536197649666262",
+      "fecha_utc": "2026-03-09T12:02:16.552000+00:00",
+      "fecha_local": "2026-03-09",
+      "editado_utc": null,
+      "texto": "Eldrath: **Los rayos del sol empezaron a molestarle... Trata de ocultarse se ellos pero al fin pero no habia forma. Al final no le quedaba otra que despertar y tanto que desperto al ver q su hermana no esta** Joder donde se ha metido esta idiota ahora",
+      "mensaje_sha256": "27a002f871828694e45c4a112d36e31fedaa47543443ffbbb54420c26b4ec820",
+      "tipo_discord": 19,
+      "referencia": "1480501980714635377",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1480536197649666262",
+      "texto_sha256": "41766472545d32c883c7ce122bdf3623c91fe13f98ae0f20a1403e9d475efbda",
+      "adjuntos": []
+    },
+    {
+      "id": "1480536995569733772",
+      "fecha_utc": "2026-03-09T12:05:26.791000+00:00",
+      "fecha_local": "2026-03-09",
+      "editado_utc": null,
+      "texto": "**Cuando te despiertas y sacas un pie de la cama, ves un hilo atado a tu tobillo. Este se tensa, y mueve una polea que hay en el techo, esta mueve el hilo hacia otro lado y como una máquina de engranajes, ves como se va moviendo el hilo hasta que ves un cubo de agua colgado en el techo que se vierte. El agua fría te cae encima empapandote por completo.**",
+      "mensaje_sha256": "74e7041caf969b2c517994e2cb4037030e283f01d852589ea2bbc288e8cf5bc0",
+      "tipo_discord": 19,
+      "referencia": "1480536197649666262",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1480536995569733772",
+      "texto_sha256": "5b6b1f3d5bff1006e3d28859d0781415f0ae6d200e210ff18c6085dc6b5f49c6",
+      "adjuntos": []
+    },
+    {
+      "id": "1480538530034749511",
+      "fecha_utc": "2026-03-09T12:11:32.636000+00:00",
+      "fecha_local": "2026-03-09",
+      "editado_utc": null,
+      "texto": "Eldrath: **Se escucha un grito que si le preguntais al elfo es el grito mas masculino que habeis oido nunca, segido de un...** TRYEEEEELLLL **Un gruñido que parece reververar por la habitacion. Al cabo de unos minutos sale con el pelo empapado hechandoselo hacia atras... Va gruñendo con el labio levantado ignorando a Liz y al resto de señoras de compañia hacia fuera**",
+      "mensaje_sha256": "2def9bd6b0f84acec89ef39936095603d0c2be94fe96c24a7b34f34c3ae11fc8",
+      "tipo_discord": 19,
+      "referencia": "1480536995569733772",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1480538530034749511",
+      "texto_sha256": "e98fb24ff6869ef51cb454ee1873a726eb6e11bbd7d3e133abbbfb9590b2ac46",
+      "adjuntos": []
+    },
+    {
+      "id": "1480539245302255747",
+      "fecha_utc": "2026-03-09T12:14:23.169000+00:00",
+      "fecha_local": "2026-03-09",
+      "editado_utc": null,
+      "texto": "Tryel: **Ves a tu hermana en la orilla del muelle. Esta secándose como si fuera un perro, revoloteando en el sitio. Cuando empieza a vestirse con la armadura de cuero, te ve venir y sonríe al ver que su trampa ha funcionado** ¡¡¡Ja ja ja ja has picado Eldrath!!!",
+      "mensaje_sha256": "778edded87a65f34728de79e15dc2e491368e1b47d92ccaa4bd6b59e2475e304",
+      "tipo_discord": 19,
+      "referencia": "1480538530034749511",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1480539245302255747",
+      "texto_sha256": "8745f1e38a0617bd41366eb1642ae78ec5be0f5ff3b76a44683612030a86fbe7",
+      "adjuntos": []
+    },
+    {
+      "id": "1480539684827566200",
+      "fecha_utc": "2026-03-09T12:16:07.960000+00:00",
+      "fecha_local": "2026-03-09",
+      "editado_utc": null,
+      "texto": "Eldrath: **Gruñe y va refunfuñando por lo bajo hasta colocarse de espaldas a ti y tapandote un poco para que no te vean** Que sepas que me vengare...¡Y no toques mis cosas!",
+      "mensaje_sha256": "fa211ba7cadcf7a13c115eda432780bbcd45aac353af7a5e5a761cb549dacaa3",
+      "tipo_discord": 19,
+      "referencia": "1480539245302255747",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1480539684827566200",
+      "texto_sha256": "d0f4227c51d93c08bb5713fb5d519054a54563f2fb9a28402dcbc93071e9332a",
+      "adjuntos": []
+    },
+    {
+      "id": "1480540605216981093",
+      "fecha_utc": "2026-03-09T12:19:47.398000+00:00",
+      "fecha_local": "2026-03-09",
+      "editado_utc": null,
+      "texto": "Tryel: Dijiste que necesitabas una ducha, yo solo te la he acercado ja ja ja **Rie mientras agarra su pelo y lo escurre aparentandolo.** ¿Crees que vamos a encontrar información en este sitio? Parecen todos bastante... ¿Raros?",
+      "mensaje_sha256": "727e1d3f8d1c508218de587d1816c06b135ad3cd72d7ef8a78f75335154d5a33",
+      "tipo_discord": 19,
+      "referencia": "1480539684827566200",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1480540605216981093",
+      "texto_sha256": "c0ff84953cf3c7f114894bc14992530faf535eb3971279ab104a62987323f947",
+      "adjuntos": []
+    },
+    {
+      "id": "1480541057887375522",
+      "fecha_utc": "2026-03-09T12:21:35.323000+00:00",
+      "fecha_local": "2026-03-09",
+      "editado_utc": null,
+      "texto": "Eldrath: **Gruñe aun por lo bajo** La verdad lo dudo... Pero necesitamos recursos y estamos bajo minimos",
+      "mensaje_sha256": "ad21589d2f89aa0c848c0265e67a183a156a29a56bf80eb48f91b4385d103be6",
+      "tipo_discord": 19,
+      "referencia": "1480540605216981093",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1480541057887375522",
+      "texto_sha256": "a6ced80d293363391e66102e16495573a7d8c536ea589a6dfce1465b6835666a",
+      "adjuntos": []
+    },
+    {
+      "id": "1480542071017177088",
+      "fecha_utc": "2026-03-09T12:25:36.872000+00:00",
+      "fecha_local": "2026-03-09",
+      "editado_utc": null,
+      "texto": "Tryel: Si no la hubieras liado con el Bajá Balil en Amnem habríamos conseguido una gran suma de dinero... **Dice mientras sigue escurriendose el pelo** Bueno, la patata esa nos debe dinero por haberle salvado la vida, aunque no parece que tenga mucho... **Se tira el pelo para atrás** Pero algo le podemos sacar, no crees?",
+      "mensaje_sha256": "a25ddab6ee3918fdbe2e2650efccc93c06fa2230c3b7a3c042ac09d579e2bfe0",
+      "tipo_discord": 19,
+      "referencia": "1480541057887375522",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1480542071017177088",
+      "texto_sha256": "54340528c6762157c19c49c624a5cbb829bf69f4e335584f4be0ce8c734f04c6",
+      "adjuntos": []
+    },
+    {
+      "id": "1480542864898396262",
+      "fecha_utc": "2026-03-09T12:28:46.148000+00:00",
+      "fecha_local": "2026-03-09",
+      "editado_utc": null,
+      "texto": "Eldrath: ese Baja Balil solo queria mantenernos atados por lo utiles que le eramos... Y yo queria recuperar mi arma **Se lleva una mano allí cinturon** Tal vez podriamos sacar algo de esta gente y despues largarnos",
+      "mensaje_sha256": "5811f9a330b154c867616adc462b40032ecbfe293d936ca0e23f24a6b2c7fc8d",
+      "tipo_discord": 19,
+      "referencia": "1480542071017177088",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1480542864898396262",
+      "texto_sha256": "36b688a577ea1a8dab5aace464626a3b09580a8c869e1e673071e424e4b5cac1",
+      "adjuntos": []
+    },
+    {
+      "id": "1480543659257757759",
+      "fecha_utc": "2026-03-09T12:31:55.538000+00:00",
+      "fecha_local": "2026-03-09",
+      "editado_utc": null,
+      "texto": "Tryel: Suerte que la recuperaste **La elfa mira el cinto de su hermano donde tiene ese arma y se le dibuja una sonrisa. Luego vuelve a mirarte** La patata dijo que la mujer esa tan sexy era la jefa, podemos prestarle nuestros servicios para ganar algo de dinero",
+      "mensaje_sha256": "ba180f578db9cdb3b65958e4398fd20507e48199aea688c781d7712727ce5e67",
+      "tipo_discord": 19,
+      "referencia": "1480542864898396262",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1480543659257757759",
+      "texto_sha256": "5d9cb74331ef5b6bfac68a03f0e2dfa0988ac7a31d39f189db08f41bf224432e",
+      "adjuntos": []
+    },
+    {
+      "id": "1480544546474688696",
+      "fecha_utc": "2026-03-09T12:35:27.067000+00:00",
+      "fecha_local": "2026-03-09",
+      "editado_utc": null,
+      "texto": "Eldrath: ya... No me gustaria repetir lo que nos paso en esa cofradia de Amnem... Quedemonos al margen un tiempo y observemos como funciona este lugar y su gente... Siempre podemos hacer nuestros trucos para ganar dinero",
+      "mensaje_sha256": "990eb77fe49d7a845c47451544f5dad9a8c1da6e71519efdab06f34e8f7ac047",
+      "tipo_discord": 19,
+      "referencia": "1480543659257757759",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1480544546474688696",
+      "texto_sha256": "2fef7b807c7f92da6f0b9f07ad573d5b78d282d17119c0d6dfb6fc15b9f8eecf",
+      "adjuntos": []
+    },
+    {
+      "id": "1480545755142815847",
+      "fecha_utc": "2026-03-09T12:40:15.236000+00:00",
+      "fecha_local": "2026-03-09",
+      "editado_utc": null,
+      "texto": "Tryel: Esta bieeeen... No haremos nada y nos quedaremos aburridos... **Pone cara de puchero, esa que siempre hace cuando no le gusta el plan. Pero ves como mira hacia la taberna y se le iluminan los ojos, ha pensado alguna travesura** Pues sino hay nada que hacer... ¿Vamos a beber?",
+      "mensaje_sha256": "65c6adb6443308e8a4887c174d778ebbd9ce11aadb8b0b261f6ecf771923d854",
+      "tipo_discord": 19,
+      "referencia": "1480544546474688696",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1480545755142815847",
+      "texto_sha256": "13802fd76df1a5edcb7ccae06eab4c18ab11466f8457e94158d6b193b88f66d3",
+      "adjuntos": []
+    },
+    {
+      "id": "1480546796534104246",
+      "fecha_utc": "2026-03-09T12:44:23.523000+00:00",
+      "fecha_local": "2026-03-09",
+      "editado_utc": null,
+      "texto": "Eldrath: adelantate tu, yo voy a darme un baño... Y con la poca decencia que nos queda a los dos lo hare en los limites de la aldea...**Te da un capon** Y tu haz lo mismo la proxima vez, que son marineros y por muy fuerte que seas son muchos y ninguno con buenas intenciones **La reprende un poco**",
+      "mensaje_sha256": "7a583274cbd1493d0e9362c7dc9f5b2302b6b6bd0646e15338590de28551fdda",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1480546796534104246",
+      "texto_sha256": "42dbe20c9384dd1e0beebc00c42c325ea0d60a326699d8665b365a6c42a4da6d",
+      "adjuntos": []
+    },
+    {
+      "id": "1480547373783715933",
+      "fecha_utc": "2026-03-09T12:46:41.150000+00:00",
+      "fecha_local": "2026-03-09",
+      "editado_utc": null,
+      "texto": "Tryel: Ay! **Se queja cuando le das el capón** Esta bien esta bien... Ni que fuera para tanto...  **Se marcha hacia la taberna** ¡Voy pidiendo, pero recuerda que tienes tu el dinero de los dos!",
+      "mensaje_sha256": "c7461787f253bdc31ab5ad7d006315bd57cadc0d759528bfbfc9918a0c7d63c6",
+      "tipo_discord": 19,
+      "referencia": "1480546796534104246",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1480547373783715933",
+      "texto_sha256": "a7df955527cef944019bfefcb94be266e3ce1b634ab37440627b410d6d989038",
+      "adjuntos": []
+    },
+    {
+      "id": "1480547713828393112",
+      "fecha_utc": "2026-03-09T12:48:02.223000+00:00",
+      "fecha_local": "2026-03-09",
+      "editado_utc": null,
+      "texto": "Eldrath: **Suspira, va hacia ella y le da dinero** Pideme otra a mi y aprobecha para escuchar que dicen ¿vale?",
+      "mensaje_sha256": "76df81945ecec56e3fbeab9222555781b00fe17f297db55ac11ad41ff02af8ca",
+      "tipo_discord": 19,
+      "referencia": "1480547373783715933",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1480547713828393112",
+      "texto_sha256": "e492c2c9dffef84b1b22c46b0baf98b2c54f36520b83781d8c0ebcd681b1845f",
+      "adjuntos": []
+    },
+    {
+      "id": "1480548176904851609",
+      "fecha_utc": "2026-03-09T12:49:52.629000+00:00",
+      "fecha_local": "2026-03-09",
+      "editado_utc": "2026-03-09T12:52:32.588000+00:00",
+      "texto": "⚔️Tryel sale de escena⚔️",
+      "mensaje_sha256": "b2e310817995e4ae1a1a9b9ac41e1f83c941375746b80540c7ecc309e189cb22",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1480548176904851609",
+      "texto_sha256": "5db2bf572a9f28a2b1b61e205f4ea4f2c3be840c99779a5b88d05df17e04123f",
+      "adjuntos": []
+    },
+    {
+      "id": "1480549520004747264",
+      "fecha_utc": "2026-03-09T12:55:12.849000+00:00",
+      "fecha_local": "2026-03-09",
+      "editado_utc": null,
+      "texto": "Eldrath: **Se dirige a los limites el pueblo para bañarse. Se quita lo que tiene encima y empieza a quitarse la roña de estas semanas... Sus ojos y oidos estan atentos a posibles alimañas**",
+      "mensaje_sha256": "48a83e0ee11c991b254f46f545b2e43e5d132ccecdadb79e51cb98e55e759e64",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1480549520004747264",
+      "texto_sha256": "c8ef8fe204d5867b2f801acf9f0d70a07ae0d733df3a08b5b1fc30db88043c4d",
+      "adjuntos": []
+    }
+  ]
+}

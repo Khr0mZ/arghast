@@ -1,0 +1,124 @@
+{
+  "id": "k-1406937303426928691",
+  "campana": "kuroto",
+  "unidad_revision": "k-1406937303426928691",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Banzo observa la llegada del ejército tritón",
+  "resumen": "Tropas bien equipadas desembarcan en Sho bajo las órdenes de un joven sin nombre.",
+  "relato": "Después de un encuentro con Vervein no desarrollado en este tramo, Banzo observa desde la terraza de una taberna la llegada de tritones al puerto. Los soldados desembarcan de navíos hechos con conchas y materiales marinos, llevan espadas curvas de un metal especial y armaduras resistentes. Su formación y equipo parecen superiores a los de los samuráis empobrecidos del Shogunato. Entre los oficiales de tridente destaca un joven que da órdenes tanto a los soldados como a los generales. Banzo termina su cerveza, paga y se dirige a la Base, pensando en conocer la opinión de Nomi y hablar con Kurobane. No se presenta al comandante ni se conoce su nombre.",
+  "participantes": [
+    "Banzo",
+    "soldados tritones",
+    "joven comandante tritón"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1406939839701581897",
+      "afirmacion": "Desembarca un ejército tritón equipado y un joven dirige a soldados y generales.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1406956929565331568",
+      "afirmacion": "Banzo paga y marcha a la Base pensando en consultar a Nomi y Kurobane.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No identificar al joven como príncipe o personaje conocido por rango aparente solamente.",
+    "Los nombres Vervein y Nomi aparecen como referencias; no se narran aquí sus encuentros."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-08-18T09:46:32.768000+00:00",
+  "fin_utc": "2025-08-18T12:56:06.777000+00:00",
+  "fecha_local": "2025-08-18",
+  "intervalo": {
+    "anterior": 147,
+    "siguiente": 148,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1406697567479271588",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1408150475005493401",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 147,
+        "fecha": "2025-08-17",
+        "inicio_referencia_utc": "2025-08-17T17:53:35+00:00",
+        "fin_estimado_utc": "2025-08-17T20:19:39+00:00",
+        "duracion_video_segundos": 8764,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1406697567479271588"
+      },
+      {
+        "capitulo": 148,
+        "fecha": "2025-08-21",
+        "inicio_referencia_utc": "2025-08-21T18:06:59+00:00",
+        "fin_estimado_utc": "2025-08-21T21:15:11+00:00",
+        "duracion_video_segundos": 11292,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1408150475005493401"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1406937303426928691",
+      "fecha_utc": "2025-08-18T09:46:32.768000+00:00",
+      "fecha_local": "2025-08-18",
+      "editado_utc": "2025-08-18T09:49:21.044000+00:00",
+      "texto": "Banzo : **después de su encuentro con Vervein se dirigió a Puerto a ver la llegada de los tritones . \n\nEstaría sentando en la terraza una taberna con una jarra ya vacía y otra en la mano mira, y mira sonrriente como los honorables guerreros  llegan a Kuroto**\n\nBienvenidos **dice con una sonrrisa **\n*no sabéis donde os habéis metido* \n\n**banzo se fijaría si los pelotón de tritones están comandados por alguna figura que sobresalga de las demás,  busca signos distintivos y comportamientos que indiquen quien es el líder <@214405113677217793> **",
+      "mensaje_sha256": "7a5a5550499440d04135d8350a272e0f006908320b96ef7034ed4bfc0cbffb02",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1406937303426928691",
+      "texto_sha256": "1744d6c45ceb048be03f52b435d321e5bbd62bebb1873ec8a6050b61dd0703da",
+      "adjuntos": []
+    },
+    {
+      "id": "1406939839701581897",
+      "fecha_utc": "2025-08-18T09:56:37.463000+00:00",
+      "fecha_local": "2025-08-18",
+      "editado_utc": "2025-08-18T09:57:19.038000+00:00",
+      "texto": "**Puedes ver como los soldados tritones salen de esas especie de barcos hechos con conchas gigantes y otras cosas del mar. La mayoría de ellos portan unas espadas curvas hechas de un metal especial y su armadura parece bastante resistente a los golpes. A simple vista, son un ejército bien entrenado y equipado, bastante mejor que los pobres samurais del Shogunato. Entre ellos destacan algunos tritones, que portan tridente y su aspecto parece más importante que los otros. Y entre ellos, destaca un joven tritón, que parece dar órdenes tanto a los soldados como a los demás generales**",
+      "mensaje_sha256": "4793113d252c5e2a49eb18b353c7ba211c0672b00e88e98780d04a4d4950785b",
+      "tipo_discord": 19,
+      "referencia": "1406937303426928691",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1406939839701581897",
+      "texto_sha256": "02eea652d1d2a2cb22c2b021a4760e931ffa0a1db80ebb01892080f671e295a3",
+      "adjuntos": []
+    },
+    {
+      "id": "1406956929565331568",
+      "fecha_utc": "2025-08-18T11:04:32.004000+00:00",
+      "fecha_local": "2025-08-18",
+      "editado_utc": null,
+      "texto": "Banzo : **pega un trago a la cerveza deja el pago en la mesa y marcha en dirección ala base ** \n*quiero saber la opinión del comandante Nomi,  y tendría que hablar con Kurobane <@240564189448503306>  . Espero que esté bien ...*",
+      "mensaje_sha256": "efc5bb3ed0e49c14dffde00744cf595620ef41a2e61c8fd2e43115ad9b85ecb5",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1406956929565331568",
+      "texto_sha256": "8bdd8923f6552f64af36233114479b0b76a07791d021c3d7ca3cba965b7984d0",
+      "adjuntos": []
+    },
+    {
+      "id": "1406985009478504539",
+      "fecha_utc": "2025-08-18T12:56:06.777000+00:00",
+      "fecha_local": "2025-08-18",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "53121f599ede00631cef08879f559f8a367e33d7026daffa98f08ec109deec7f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1406985009478504539",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

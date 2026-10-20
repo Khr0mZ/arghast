@@ -1,0 +1,77 @@
+{
+  "id": "k-1406124729437524008",
+  "campana": "kuroto",
+  "unidad_revision": "k-1406124729437524008",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Sera busca descanso",
+  "resumen": "Seraphina vuelve por el portal y se toma un respiro en Sho.",
+  "relato": "Seraphina atraviesa el portal y regresa a la base. Se sienta, apoya la cabeza en el respaldo y cierra los ojos sonriendo. Expresa que necesita descansar y despejar la mente, y considera buscar después algo que la relaje en el puerto. La escena termina sin mostrar una salida posterior ni especificar qué ha sucedido antes del regreso.",
+  "participantes": [
+    "Seraphina"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1406124729437524008",
+      "afirmacion": "Seraphina vuelve por el portal y descansa en una silla de la base.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Escena mínima completa; la intención de ir al puerto no se convierte en una visita realizada."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-08-16T03:57:40.032000+00:00",
+  "fin_utc": "2025-08-16T03:57:40.032000+00:00",
+  "fecha_local": "2025-08-16",
+  "intervalo": {
+    "anterior": 146,
+    "siguiente": 147,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1405973993948975124",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1406697567479271588",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 146,
+        "fecha": "2025-08-15",
+        "inicio_referencia_utc": "2025-08-15T17:58:25+00:00",
+        "fin_estimado_utc": "2025-08-15T21:02:41+00:00",
+        "duracion_video_segundos": 11056,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1405973993948975124"
+      },
+      {
+        "capitulo": 147,
+        "fecha": "2025-08-17",
+        "inicio_referencia_utc": "2025-08-17T17:53:35+00:00",
+        "fin_estimado_utc": "2025-08-17T20:19:39+00:00",
+        "duracion_video_segundos": 8764,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1406697567479271588"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1406124729437524008",
+      "fecha_utc": "2025-08-16T03:57:40.032000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\n**Pasé aquel portal y llegué a la Base, entré y me senté en una de las sillas**\n\nMerezco un descanso, despejar mi mente por completo... Quizás algo para relajarme, ya veré que hay en el puerto después \n\n**Sonreí mientras cerraba los ojos y recargaba mi cabeza en el respaldo de la silla**\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "86c5c3556a38cab4381c0b3526ca18d877dce4bcf1e81f0ea9ebe2921aa4cc88",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1406124729437524008",
+      "texto_sha256": "748c5319a63cfcb68c7f8e76711706241951dfb87090e9024ef005b43997ad7a",
+      "adjuntos": []
+    }
+  ]
+}

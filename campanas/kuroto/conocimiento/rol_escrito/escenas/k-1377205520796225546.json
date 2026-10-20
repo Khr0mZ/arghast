@@ -1,0 +1,85 @@
+{
+  "id": "k-1377205520796225546",
+  "campana": "kuroto",
+  "unidad_revision": "k-1377205520796225546",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Cristales sobre el mapa",
+  "resumen": "Archi continúa un montaje sin probar su funcionamiento.",
+  "relato": "Archi y Ralph regresan a la base con un pequeño saco de cuarzo rosado y continúan trabajando sobre el mapa. En sus cuatro esquinas ya hay runas y otra está preparada en el centro. El gnomo engarza cristales en los cuatro puntos y reserva uno para sí, al que atribuye la función de enlace. Explica el trabajo al homúnculo mientras oye una discusión en el cuarto que usaba Jelbreg. El montaje queda representado como trabajo de artífice; no se muestra una prueba ni se establece su alcance o utilidad efectiva.",
+  "participantes": [
+    "Archi",
+    "Ralph"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1377205520796225546",
+      "afirmacion": "Archi instala cuarzos en runas del mapa y reserva un cristal de enlace.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Setenta y tres mensajes completos. El montaje del mapa y el interrogatorio se conservan como bloques separados.",
+    "Se representa una voz y un diálogo interior de Osurai y Kurobane; la antigüedad, la cadena de receptáculos y los sucesos de la estatua son relatos de la entidad, sin corroboración independiente aquí.",
+    "Las variantes Osuari y Osurai aparecen en el intercambio; se conserva Osurai como presentación propia. No se equipara sin prueba con Osurei, nombre ofrecido antes por Kurobane.",
+    "Falta el contenido del mensaje privado de Danifae. No se inventa el secreto de Kalista ni se usa la reacción de Kurobane para reconstruirlo.",
+    "Los pensamientos del joven y la entidad son privados; solo se comparte aquello que Osurai repite en voz alta.",
+    "La supuesta muerte del ninja se expresa entre comillas y él continúa presente en el diálogo interno; no se registra su fallecimiento.",
+    "El contrato de cazador queda propuesto y pendiente. No se legitima una posesión permanente, una nueva capacidad de artífice o una ventaja por el montaje del mapa.",
+    "Gur está presente pero no realiza aquí un ataque ni recibe automáticamente la información de otros encuentros."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2025-05-28T08:43:03.399000+00:00",
+  "fin_utc": "2025-05-28T08:43:03.399000+00:00",
+  "fecha_local": "2025-05-28",
+  "intervalo": {
+    "anterior": 121,
+    "siguiente": 122,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1376989881670176889",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1377352831694274650",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 121,
+        "fecha": "2025-05-27",
+        "inicio_referencia_utc": "2025-05-27T18:25:49+00:00",
+        "fin_estimado_utc": "2025-05-27T21:25:03+00:00",
+        "duracion_video_segundos": 10754,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1376989881670176889"
+      },
+      {
+        "capitulo": 122,
+        "fecha": "2025-05-28",
+        "inicio_referencia_utc": "2025-05-28T18:28:05+00:00",
+        "fin_estimado_utc": "2025-05-28T21:58:20+00:00",
+        "duracion_video_segundos": 12615,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1377352831694274650"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1377205520796225546",
+      "fecha_utc": "2025-05-28T08:43:03.399000+00:00",
+      "fecha_local": "2025-05-28",
+      "editado_utc": "2025-05-28T08:43:29.504000+00:00",
+      "texto": "Archi: **llegaría a la base con  Ralph el humunculo cargando un saquito con cristales de cuarzo rosa , llevará unos 4 o 5 **\n**entra a la base descargan los materiales y siguen trabajando en el mapa que hay en la base .\nSe veria que en las 4 esquinas del mapa ya hay gravadas 4 runas de activación y en el medio del mapa otra preparada \nEmpieza a trabajar junto con Ralph en los cristales de cuarzo que ha traído.  \n\nParece que está trabajando en adaptar alguna de sus infusiones de artífice a estos cristales . \nAcerca otra vez la mesa para subir en ella y poder engarzar  estos cristales en cada una de las runas de activación ya colocadas ** \n\nMuy bien 4 cristales para 4 runas , y este para mi . Es el que servirá de enlace Ralph **hablándole al robot **",
+      "mensaje_sha256": "66d48efb7a78731974df9e08e7e93db25f2f04cb576e91ee9cfa6401f7235593",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1377205520796225546",
+      "texto_sha256": "6b3c820eafac3bf6cdfb793b8fbe6c7458012ceba00bd30659e55ca7d489a324",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "k-1373617646821703731",
+  "campana": "kuroto",
+  "unidad_revision": "k-1373617646821703731",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "El descanso de Banzo",
+  "resumen": "Guxi encuentra a Banzo agotado y le propone ir a la Base.",
+  "relato": "Después de sus primeras cuarenta y ocho horas de servicio junto a Rua, Banzo recibe cuatro horas de descanso. Sale de palacio y encuentra a Guxi por el camino de la Base. Al verlo con ojeras, su compañero le propone enseñarle un truco allí. Banzo acepta porque necesita descansar y ambos abandonan la calle. El truco y el descanso efectivo no se representan en este tramo.",
+  "participantes": [
+    "Banzo",
+    "Guxi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1373617646821703731",
+      "afirmacion": "Banzo recibe cuatro horas de descanso después de cuarenta y ocho de servicio.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1373619667880378439",
+      "afirmacion": "Banzo acepta dirigirse con Guxi a la Base.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La versión sobre los terceros responsables procede de Guxi; no se identifican ni se prueban en esta escena.",
+    "Aur es una identidad ficticia propuesta para disfrazar a Rua, no una nueva cazadora incorporada. El paseo no llega a realizarse."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-18T11:06:07.584000+00:00",
+  "fin_utc": "2025-05-18T11:14:51.502000+00:00",
+  "fecha_local": "2025-05-18",
+  "intervalo": {
+    "anterior": 115,
+    "siguiente": 116,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1372641487094808689",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1374091924474040400",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 115,
+        "fecha": "2025-05-15",
+        "inicio_referencia_utc": "2025-05-15T18:26:58+00:00",
+        "fin_estimado_utc": "2025-05-15T21:47:48+00:00",
+        "duracion_video_segundos": 12050,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1372641487094808689"
+      },
+      {
+        "capitulo": 116,
+        "fecha": "2025-05-19",
+        "inicio_referencia_utc": "2025-05-19T18:30:27+00:00",
+        "fin_estimado_utc": "2025-05-19T21:06:27+00:00",
+        "duracion_video_segundos": 9360,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1374091924474040400"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida."
+  },
+  "fuentes": [
+    {
+      "id": "1373617646821703731",
+      "fecha_utc": "2025-05-18T11:06:07.584000+00:00",
+      "fecha_local": "2025-05-18",
+      "editado_utc": "2025-05-18T11:06:29.949000+00:00",
+      "texto": "**PALACIO \n\nTras las primeras 48 h de servicio , ha Banzo le Dan un descanso de 4 h .  ha estado viendo las rutinas diarias de Rua , no se entera de muchas cosas pero parece que está poniendo todo su empeño por aprender . \nsale de palacio y camino por las calles de Sho en dirección a la Base ** \n<@171702246952665098>",
+      "mensaje_sha256": "eb54f3dd945ab47ac2147119a377d8e434c51ac4ce39c41d52680cc480b67899",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1373617646821703731",
+      "texto_sha256": "e5848bf79370d95c3aca43f1ca8a7d923f80951da5264b2b7cf790f527fa3424",
+      "adjuntos": []
+    },
+    {
+      "id": "1373618071666823250",
+      "fecha_utc": "2025-05-18T11:07:48.875000+00:00",
+      "fecha_local": "2025-05-18",
+      "editado_utc": "2025-05-18T11:08:09.093000+00:00",
+      "texto": "guxi: **va de camino de la base y ve a lo lejos a Banzo y le saluda acercandose** hey banzo",
+      "mensaje_sha256": "3fed711c1286862fd20627238e9c9e3caf0ff50f53deef8c7c822d002582f806",
+      "tipo_discord": 19,
+      "referencia": "1373617646821703731",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1373618071666823250",
+      "texto_sha256": "8aaab6845e7c46c033af57a711396d449636f698155afd99e1995a351f6cc9cf",
+      "adjuntos": []
+    },
+    {
+      "id": "1373618314353446982",
+      "fecha_utc": "2025-05-18T11:08:46.736000+00:00",
+      "fecha_local": "2025-05-18",
+      "editado_utc": null,
+      "texto": "Banzo : \nGuxi , como estas compañero hace días que no te veía.",
+      "mensaje_sha256": "5b28c7131976788ce420cc8323776a0191b4a887cf8477f1cde9e2e6079f73f2",
+      "tipo_discord": 19,
+      "referencia": "1373618071666823250",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1373618314353446982",
+      "texto_sha256": "301529e830f587c51c3ffe8d6c72bb46a879e7c3fa7039355f6d33bce5e8b07d",
+      "adjuntos": []
+    },
+    {
+      "id": "1373618689877872752",
+      "fecha_utc": "2025-05-18T11:10:16.268000+00:00",
+      "fecha_local": "2025-05-18",
+      "editado_utc": null,
+      "texto": "Guxi: algo mejor estuve en mi refugio trabajando en algunas , y tu en cambio no te ves muy **se fija en las ojeras que tienes por el sueño** vente a la base y te enseñare un truquito",
+      "mensaje_sha256": "05eee32e5b04f8b3cadd0675de0157b1354c44b0cd2ab705dd328c43e6c7a89c",
+      "tipo_discord": 19,
+      "referencia": "1373618314353446982",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1373618689877872752",
+      "texto_sha256": "fa6a2d5e6aff582564998fbbfd9b5edc99b67b2a3b37928a6128b0b13fe11985",
+      "adjuntos": []
+    },
+    {
+      "id": "1373619667880378439",
+      "fecha_utc": "2025-05-18T11:14:09.442000+00:00",
+      "fecha_local": "2025-05-18",
+      "editado_utc": null,
+      "texto": "Banzo : si... estoy encargándome de la seguridad de Rúa, y bueno si .. me vendría bien descansar.  \nTengo 4h solo Guxi \n**Van de camino a la base ** \n\n🌭 Banzo Sale de escena 🌭",
+      "mensaje_sha256": "69e1446223befe6f70a57e93247881f61813527adcd565d40180807ecc8fe0d9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1373619667880378439",
+      "texto_sha256": "4c6ee059a356cd42fe37ef90c95a05415cf35024c17d49ec0af879f22f8cb2e0",
+      "adjuntos": []
+    },
+    {
+      "id": "1373619844292808837",
+      "fecha_utc": "2025-05-18T11:14:51.502000+00:00",
+      "fecha_local": "2025-05-18",
+      "editado_utc": null,
+      "texto": "🔩 sale de escena🔩",
+      "mensaje_sha256": "e0ce8f928bfa348013bb83e04628a53f87460d53c9fec5951a3db8859839bd34",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1373619844292808837",
+      "texto_sha256": "6bf8a0fd7a598eb18b6b7d09398a24f9c69f2a309f706a427a5649d21933ea4a",
+      "adjuntos": []
+    }
+  ]
+}

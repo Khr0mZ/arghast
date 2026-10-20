@@ -1,0 +1,208 @@
+{
+  "id": "k-1377939014434295848",
+  "campana": "kuroto",
+  "unidad_revision": "k-1377939014434295848",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "El herrero estudia las armas de Gur",
+  "resumen": "Gur recibe una oferta de hacha de tala y plantea recuperar sus armas lanzadas.",
+  "relato": "El herrero responde a Gur que prepara con la plata un hacha mejorada para talar árboles. Al preguntarle el precio, le ofrece hacerla gratis en agradecimiento por la madera y los materiales que le ha llevado. Gur consulta después si puede incorporar a sus armas algo semejante a la cadena que permite a Banzo recoger su arpón tras lanzarlo. Mientras el carro avanza hacia Ukiyo y Banzo duerme, el herrero examina el arma del goliat para estudiar una solución. No termina ni entrega ninguna modificación en este tramo.",
+  "participantes": [
+    "Gur",
+    "Banzo",
+    "herrero de Sho"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1377968155451981944",
+      "afirmacion": "El herrero promete el hacha a Gur como agradecimiento por sus materiales.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1377974553862475880",
+      "afirmacion": "Gur solicita un sistema para recuperar sus armas arrojadas.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1377999573288615946",
+      "afirmacion": "El herrero examina el arma de Banzo durante el viaje a Ukiyo.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Dos escenas independientes separadas en subescenas.",
+    "El hacha mejorada se promete: no hay entrega ni propiedad de retorno demostrada.",
+    "Gur intenta leer pensamientos, pero no se confirma acceso a los sueños de Banzo; el pensamiento del herrero permanece identificado como tal."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2025-05-30T09:17:41.910000+00:00",
+  "fin_utc": "2025-05-30T13:24:48.169000+00:00",
+  "fecha_local": "2025-05-30",
+  "intervalo": {
+    "anterior": 123,
+    "siguiente": 124,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1377714802629283882",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1379890572373790750",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 123,
+        "fecha": "2025-05-29",
+        "inicio_referencia_utc": "2025-05-29T18:26:29+00:00",
+        "fin_estimado_utc": "2025-05-29T21:01:06+00:00",
+        "duracion_video_segundos": 9277,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1377714802629283882"
+      },
+      {
+        "capitulo": 124,
+        "fecha": "2025-06-04",
+        "inicio_referencia_utc": "2025-06-04T18:32:16+00:00",
+        "fin_estimado_utc": "2025-06-04T21:34:59+00:00",
+        "duracion_video_segundos": 10963,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1379890572373790750"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1377939014434295848",
+      "fecha_utc": "2025-05-30T09:17:41.910000+00:00",
+      "fecha_local": "2025-05-30",
+      "editado_utc": null,
+      "texto": "Herrero: Oh, si, si tengo un pequeño proyecto con esa plata. Un hacha para talar árboles mejorada! **Te dice con cara soneiente** ¿Te interesa? <@412279081170763776>",
+      "mensaje_sha256": "402f89d5a8be6e098758d7e83d80de427c486667807984399a84f1ac2615c33e",
+      "tipo_discord": 19,
+      "referencia": "1377699944638578780",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1377939014434295848",
+      "texto_sha256": "06f0cbac742f7d39c6b1107f8410f2443e5d30a676dd78eb57fde5513de215d8",
+      "adjuntos": []
+    },
+    {
+      "id": "1377967629477871729",
+      "fecha_utc": "2025-05-30T11:11:24.268000+00:00",
+      "fecha_local": "2025-05-30",
+      "editado_utc": null,
+      "texto": "Oh si es justo lo que me hace falta !!! Y cuantas monedas serían?",
+      "mensaje_sha256": "ba5858e771f1ba9ddb280f2f2e48ee99537bea1cc4e837c0aab76c312063e215",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1377967629477871729",
+      "texto_sha256": "1b340091bb8c9b0a93af14d48ee8129f7acae453123b501edd61f728a388dda0",
+      "adjuntos": []
+    },
+    {
+      "id": "1377968155451981944",
+      "fecha_utc": "2025-05-30T11:13:29.670000+00:00",
+      "fecha_local": "2025-05-30",
+      "editado_utc": null,
+      "texto": "Herrero: Oh, para ti nada Gur, con lo que me has ayudado trayendo maderas y otros materiales no voy a cobrarte por esto. Además, con esta hacha que haga podrás conseguir mejor y más madera. **Te da una palmadita en los brazos**",
+      "mensaje_sha256": "be2bfff688c8f922c43b8ba7002398c8f127ea23f5605a1daa5d9ce22c6795d7",
+      "tipo_discord": 19,
+      "referencia": "1377967629477871729",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1377968155451981944",
+      "texto_sha256": "b8302c07280ae799846a8c04dee7bdc952969c8af64eb8bd3139ef8aba9a2814",
+      "adjuntos": []
+    },
+    {
+      "id": "1377974036612513915",
+      "fecha_utc": "2025-05-30T11:36:51.848000+00:00",
+      "fecha_local": "2025-05-30",
+      "editado_utc": "2025-05-30T11:37:06.589000+00:00",
+      "texto": "Oh vaya gracias !! Eres un verdadero mago con estas cosas !! _mmm quizá él pueda_ **mientras avanza el viaje**perdona maestro herrero estaba pensando que quizá tú sabrías de algo que tengo en mente",
+      "mensaje_sha256": "71a751d3693e69f009e6528100f5c6cd250e70199fdabb27fe6e7bbfa1014497",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1377974036612513915",
+      "texto_sha256": "0fc781fd94993de8a8df441bb1b6d325b2d9df34a5062892c24b47d4ba89598d",
+      "adjuntos": []
+    },
+    {
+      "id": "1377974553862475880",
+      "fecha_utc": "2025-05-30T11:38:55.170000+00:00",
+      "fecha_local": "2025-05-30",
+      "editado_utc": null,
+      "texto": "Gur: últimamente he estado lanzando mis armas hacia mis enemigos pero claro luego tengo que ir a recogerlas… mi amigo <@616683133374562304> banzo tiene una cadena que recoge la suya , no sé si se puede hacer algo así  para o se te ocurre algo mejor",
+      "mensaje_sha256": "fd88a8dfdacad6afbf1dcb94e13f96cfc76090798f4e74898f5e154aa1860e9d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1377974553862475880",
+      "texto_sha256": "9414e77c48498898c0868c7ecc6ac52add512b9b562d90ef1271ad2970e1a733",
+      "adjuntos": []
+    },
+    {
+      "id": "1377974947376402482",
+      "fecha_utc": "2025-05-30T11:40:28.991000+00:00",
+      "fecha_local": "2025-05-30",
+      "editado_utc": null,
+      "texto": "Herrero: Ummm... **Se queda pensando mientras vais de viaje en la carreta** Podría intentar hacer algo.... ¿Podria ver el arma de tu amigo Banzo para tener una idea? <@616683133374562304>",
+      "mensaje_sha256": "cfb93a9cba89bf56c0cb5753569ed8b408c1fc54e9c39d73219afd8029a5bb04",
+      "tipo_discord": 19,
+      "referencia": "1377974553862475880",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1377974947376402482",
+      "texto_sha256": "8ad4f9d04eb3e73d780473f7830e9cbf9182aca05476e71ec673c5257ce0e5de",
+      "adjuntos": []
+    },
+    {
+      "id": "1377999305616396408",
+      "fecha_utc": "2025-05-30T13:17:16.448000+00:00",
+      "fecha_local": "2025-05-30",
+      "editado_utc": null,
+      "texto": "Banzo : **Banzo estaria durmiendo pero el arpón con la cadena lo ha dejado junto con sus armas al lado suya , podrían cogerlo y ver como es sin problema**",
+      "mensaje_sha256": "b53d3b7df22a12778f4936796b80eb57a5f35211afd6951e647dc9bccdc177a8",
+      "tipo_discord": 19,
+      "referencia": "1377974947376402482",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1377999305616396408",
+      "texto_sha256": "97aae18fa91f967b818def5b0c173b258cf90f40879ebf5c76568ff70e35a770",
+      "adjuntos": []
+    },
+    {
+      "id": "1377999573288615946",
+      "fecha_utc": "2025-05-30T13:18:20.266000+00:00",
+      "fecha_local": "2025-05-30",
+      "editado_utc": "2025-05-30T13:21:15.826000+00:00",
+      "texto": "Herrero: **Durante el largo trayecto al pueblo de Ukiyo, el herrero va examinando el arma con detenimiento mientras Banzo duerme y Gur hace de.... Gur** <@412279081170763776>",
+      "mensaje_sha256": "b196cc6a4a83da6d31ac42b88429915c9a9444104324b86192122de450d14a22",
+      "tipo_discord": 19,
+      "referencia": "1377999305616396408",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1377999573288615946",
+      "texto_sha256": "dceaefde53b3049ebaf4dd1769015fb4dee609041cf3c5161ba5183a366eb329",
+      "adjuntos": []
+    },
+    {
+      "id": "1378000976904192102",
+      "fecha_utc": "2025-05-30T13:23:54.914000+00:00",
+      "fecha_local": "2025-05-30",
+      "editado_utc": null,
+      "texto": "Gur:**está mirando fijamente a banzo intentando leer sus pensamientos más profundos mientras sueña** _que estará soñando mi hermano que se le ve algo agitado_ **mientras escucha lo que piensa el herrero**",
+      "mensaje_sha256": "29f5110e61842f8074c17047e3b789305b629d31fc742a9f74f10bd73453e038",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1378000976904192102",
+      "texto_sha256": "f90b0182e3ce4c92c71e38079dd73edc462e21f2faf20d11cf5e16e0b6572575",
+      "adjuntos": []
+    },
+    {
+      "id": "1378001200271720489",
+      "fecha_utc": "2025-05-30T13:24:48.169000+00:00",
+      "fecha_local": "2025-05-30",
+      "editado_utc": null,
+      "texto": "Herrero: *Con estos dos seguro que no habrá problemas de camino, son enormes y fuertes*",
+      "mensaje_sha256": "5617435ecb7b2afb17284aa4b97a2cd90cb27938eb8ead59ca17eef2bd195e14",
+      "tipo_discord": 19,
+      "referencia": "1378000976904192102",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1378001200271720489",
+      "texto_sha256": "0a377cfbbd2e8a19d1e6a185202f43165f90e2f4d388867371ba48d501d43357",
+      "adjuntos": []
+    }
+  ]
+}

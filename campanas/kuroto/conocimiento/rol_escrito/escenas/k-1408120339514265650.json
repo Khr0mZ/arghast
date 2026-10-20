@@ -1,0 +1,363 @@
+{
+  "id": "k-1408120339514265650",
+  "campana": "kuroto",
+  "unidad_revision": "k-1407966099512889416",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "El acercamiento del ninja",
+  "resumen": "Kurobane expresa su interés y deja a Sera desconcertada.",
+  "relato": "Al salir con el vestido, Seraphina se sobresalta ante Kurobane. Le explica que se lo ha regalado el mismo hombre de las flores y sospecha que busca algo más. El ninja le recomienda cautela, pero se acerca, le acaricia la mano y reafirma que siempre estará para ella. Sera se ruboriza y, cuando él menciona una marca, reconoce haberle dejado una S en el pecho y se ofrece a curarla si duele. Kurobane la sitúa contra la pared y continúa el acercamiento mientras ella protesta nerviosa y lo amenaza con un puñetazo si no se calma. Ella termina besándole el mentón; él la besa brevemente en los labios y se marcha diciendo que continuarán después. Sera queda sentada junto a la pared, preguntándose qué va a hacer. El intercambio no establece una relación formal ni resuelve su situación con Guxi.",
+  "participantes": [
+    "Seraphina",
+    "Kurobane"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1408124918440132689",
+      "afirmacion": "Sera relaciona el regalo con el hombre de las flores.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1408127764120342609",
+      "afirmacion": "Kurobane acaricia la mano de Sera y reitera su apoyo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1408130859864686744",
+      "afirmacion": "Sera reconoce haberle dejado una S y ofrece tratarla si duele.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1408131916061868112",
+      "afirmacion": "Kurobane coloca a Sera entre la pared y él.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1408139000673472552",
+      "afirmacion": "Sera amenaza con darle un puñetazo si no se tranquiliza.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1408143972655960257",
+      "afirmacion": "Sera le da un beso en el mentón.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1408144810547871845",
+      "afirmacion": "Kurobane la besa brevemente en los labios y abandona la base.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1408145574297075873",
+      "afirmacion": "Sera se queda preguntándose qué hacer.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La continuidad y el saludo de Sera vinculan a Igor con el cochero que ya conoce, pero no se añaden otras identidades.",
+    "El baile es una invitación pendiente; no hay asistencia, fecha precisa ni aceptación remitida.",
+    "Las palabras del ninja sobre la mente y el corazón de Sera son parte del coqueteo, no prueba de lectura mental.",
+    "Se conservan los gestos y las protestas tal como aparecen, sin convertirlos en una relación formal ni inventar intimidad adicional."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-08-21T16:07:30.551000+00:00",
+  "fin_utc": "2025-08-21T17:47:46.992000+00:00",
+  "fecha_local": "2025-08-21",
+  "intervalo": {
+    "anterior": 147,
+    "siguiente": 148,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1406697567479271588",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1408150475005493401",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 147,
+        "fecha": "2025-08-17",
+        "inicio_referencia_utc": "2025-08-17T17:53:35+00:00",
+        "fin_estimado_utc": "2025-08-17T20:19:39+00:00",
+        "duracion_video_segundos": 8764,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1406697567479271588"
+      },
+      {
+        "capitulo": 148,
+        "fecha": "2025-08-21",
+        "inicio_referencia_utc": "2025-08-21T18:06:59+00:00",
+        "fin_estimado_utc": "2025-08-21T21:15:11+00:00",
+        "duracion_video_segundos": 11292,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1408150475005493401"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1408120339514265650",
+      "fecha_utc": "2025-08-21T16:07:30.551000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\n**El ninja habría salido de su habitación, se sentaría en una de las sillas cercanas a la mesa, con un rostro pensativo**",
+      "mensaje_sha256": "a03321ff9183f4580440f1e4cd6113e65319e0a6b867c1c94d3d29e35b58c12e",
+      "tipo_discord": 19,
+      "referencia": "1408118965191839774",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1408120339514265650",
+      "texto_sha256": "18b0917ee6c93997f57d7e51a2f2c76de42632ca25d792a879dfc4b122013fb8",
+      "adjuntos": []
+    },
+    {
+      "id": "1408121445141450864",
+      "fecha_utc": "2025-08-21T16:11:54.153000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Después de unos minutos, salí de aquella habitación con el vestido ya puesto**\n\nMmhh, no me quedó para nada mal\n\n**Estaba perdida en mi pensamiento hasta que la presencia de Kurobane me hizo dar un brinco del susto**\n\nPOR LOS DIOSES COPITO!! Te voy a tener que poner un cascabel",
+      "mensaje_sha256": "a4b449210887639fa3a0125d058e7c5571bffdbba2b9875cc93049e7dd28ec68",
+      "tipo_discord": 19,
+      "referencia": "1408120339514265650",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1408121445141450864",
+      "texto_sha256": "cfdc40814d2b32058270fbe2bfeecd5b6f0ddc8becc69373fe1ecb2acdd8f3cf",
+      "adjuntos": []
+    },
+    {
+      "id": "1408122101436649552",
+      "fecha_utc": "2025-08-21T16:14:30.626000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\n**Se giraría en la silla para verte de arriba a abajo**\n\nLe queda muy hermoso ese vestido, señorita Hopps.\n\n**Dice serio mientras se encuentra sorpresa**",
+      "mensaje_sha256": "9f9f706bdc009f903622808e836b92b06bde1940992e13db4af59dbb03b57b97",
+      "tipo_discord": 19,
+      "referencia": "1408121445141450864",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1408122101436649552",
+      "texto_sha256": "e187cfbc20732bc1dd3449f3ebf339efd07e15793bb2cec203e22fe7652e4b2a",
+      "adjuntos": []
+    },
+    {
+      "id": "1408124918440132689",
+      "fecha_utc": "2025-08-21T16:25:42.252000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": null,
+      "texto": "Seraphina: \nNo me asustes de esa manera, apareciendo de la nada por los lugares\n\n**Suspiré tratando de mantenerme tranquila**\n\nGracias, el mismo chico de las flores me lo obsequió, yo creo que quiere algo más, está muy insistente",
+      "mensaje_sha256": "6439617194e8282812fe502ea29d4b6fb5b53fbd5be75806f2fd80d9cfd19eef",
+      "tipo_discord": 19,
+      "referencia": "1408122101436649552",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1408124918440132689",
+      "texto_sha256": "3923e3f867f32642d2e1734007b85db97629bebda6f120cad9d890529c16843b",
+      "adjuntos": []
+    },
+    {
+      "id": "1408126465266155691",
+      "fecha_utc": "2025-08-21T16:31:51.044000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nLe pido disculpas por asustarla. \n\n**Dice sincero mientras se levanta lentamente, se acerca a ella quedándose a centímetros**\n\nEntiendo, pero si me pregunta mi opinión debe tener cuidado. \n\n**Dice sonriente pero percibes preocupación en sus palabras**",
+      "mensaje_sha256": "489a293c6d58354d4c60cdd6cfec916e70cba4ced43460613e68945ce57e1b72",
+      "tipo_discord": 19,
+      "referencia": "1408124918440132689",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1408126465266155691",
+      "texto_sha256": "7842fd9d8935157e993a18398e87dde7f7133d25db9a5a26884a656490ea81e4",
+      "adjuntos": []
+    },
+    {
+      "id": "1408126978527334481",
+      "fecha_utc": "2025-08-21T16:33:53.415000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": null,
+      "texto": "Seraphina: \nSabes muy bien que se cuidarme, Copito\n\n**Sonreí por su proximidad mientras levantaba una ceja**\n\nSabes que nada ni nadie me detiene cuando se trata de dar unos cuantos puñetazos, mucho menos una piel pálida",
+      "mensaje_sha256": "c063e1b82b2bd5fe9235aeb9ab1d6d8b443c144602a7faa4c90a584cc031ab71",
+      "tipo_discord": 19,
+      "referencia": "1408126465266155691",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1408126978527334481",
+      "texto_sha256": "586ec3980401b594be249ffafaffef191775fe453ee9e9ff8a7322b6b6b55479",
+      "adjuntos": []
+    },
+    {
+      "id": "1408127764120342609",
+      "fecha_utc": "2025-08-21T16:37:00.715000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nNo dudo en qué sabe cuidarse bien\n\n**Agarra una de sus manos y la empieza a acariciar**\n\nLa vi en lo más alto y en lo más bajo, y siempre estuve allí.\n\n**Se acerca a su oído**\n\nY siempre lo estaré \n\n\n**Susurra sonriente mientras continua las caricias**",
+      "mensaje_sha256": "76067bea644132e475027a1618b32f88a8ca48c94cb0a5c8a621939a9f3096fa",
+      "tipo_discord": 19,
+      "referencia": "1408126978527334481",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1408127764120342609",
+      "texto_sha256": "4c3b6578339344002b001d28de8c94702788a9bae6e53911c63e1aa294f9674a",
+      "adjuntos": []
+    },
+    {
+      "id": "1408128476954886286",
+      "fecha_utc": "2025-08-21T16:39:50.668000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Me sentí apenada por ese tipo de caricias, mis mejillas se coloraban aún más debido al susurro**\n\nC... Copito, creo que te estás emocionado de más, e..eh.. n..no hay algo que debas hacer o algo parecido?, digo... N..no me incómoda que estés aquí, pe..pero no sé si te estoy interrumpiendo",
+      "mensaje_sha256": "ac37f3e3908441e4117c2c6c2b154e106ee7c1d56e8fd455b12699fe9f348a3a",
+      "tipo_discord": 19,
+      "referencia": "1408127764120342609",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1408128476954886286",
+      "texto_sha256": "162ddd9f07ff1c73932e7dac6f21dc8c3f9adb856ed52bf3f989b72f03e3117a",
+      "adjuntos": []
+    },
+    {
+      "id": "1408129097917267998",
+      "fecha_utc": "2025-08-21T16:42:18.717000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nAún tengo un tiempo libre. Y me gustaría pasarlo con la persona que me marcó \n\n**Susurra sonriente antes de dar un paso atrás, sabes de qué marca habla**",
+      "mensaje_sha256": "dcf58e280ef41088129935052be750dd665c867ea1f323463f7708ce39556b62",
+      "tipo_discord": 19,
+      "referencia": "1408128476954886286",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1408129097917267998",
+      "texto_sha256": "1b15849e733b0585d67394f102e8297aeeadfc581161d2044962d1693a808b6b",
+      "adjuntos": []
+    },
+    {
+      "id": "1408130859864686744",
+      "fecha_utc": "2025-08-21T16:49:18.798000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": null,
+      "texto": "Seraphina:\nEs verdad... Me disculpo por eso, me emocioné un poquito, espero no te esté ardiendo \n\n**Puse mi mano donde había dejado la S**\n\nSi te duele, puedo intentar curarlo",
+      "mensaje_sha256": "9eeab249909256135a1a0df65af35022bbd76602ebc2890156e382ed6878f26a",
+      "tipo_discord": 19,
+      "referencia": "1408129097917267998",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1408130859864686744",
+      "texto_sha256": "73ad76563bde8e18404e68ff5295fcf1f4c2d2786fb7eec8c591895093932a36",
+      "adjuntos": []
+    },
+    {
+      "id": "1408131916061868112",
+      "fecha_utc": "2025-08-21T16:53:30.615000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": "2025-08-21T16:54:41.847000+00:00",
+      "texto": "Kurobane:\n\n**Entrelaza los dedos de su mano, que está en el pecho del ninja, y con un movimiento rápido, ágil y grácil coloca a la coneja entre la pared y él**\n\nSabes que tienes que estar un poco más atenta, mi capitana.\n\n**Susurra sonriente mientras le guiña uno de esos ojos azules como el mar**",
+      "mensaje_sha256": "709967ccded020181b66ed9361388b05dd86324c07c0ee79e155896e26c3011c",
+      "tipo_discord": 19,
+      "referencia": "1408130859864686744",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1408131916061868112",
+      "texto_sha256": "7d0624feda1206ed61ff935fca2454bdadf3574b1c69c8bd2f6c18c82d872271",
+      "adjuntos": []
+    },
+    {
+      "id": "1408132883138478151",
+      "fecha_utc": "2025-08-21T16:57:21.184000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\n**Abrí los ojos de golpe al no preveer su movimiento y encontrarme aprisionada entre la pared y el cuerpo de Kurobane**\n\nCo..COPITO!! D..DEJA DE JUGAR DE ESA MANERA!!\n\n**Cerré los ojos mientras estaba mucho más sonrojada por ese comportamiento coqueto conmigo**",
+      "mensaje_sha256": "bc60547f7ba6a9c2a2d8f695d5fd037f02f7676f4b631af27dd3b717376dcd62",
+      "tipo_discord": 19,
+      "referencia": "1408131916061868112",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1408132883138478151",
+      "texto_sha256": "772efa33b795879df3f7778525cc1057b1ae1de317227769fa44b2fa0caf2e58",
+      "adjuntos": []
+    },
+    {
+      "id": "1408133997275512913",
+      "fecha_utc": "2025-08-21T17:01:46.815000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nJugar? Yo? Con usted, nunca.\n\n**Notas que las palabras son sinceras, pero con un fuego interior encerrado por años**\n\nSabes cuándo paso lo de aquella noche, me quedé pensando. Tus ojos brillaban tan increíbles bajo la luz de la luna. Me quedé embobado.\n\n**Susurro sonriente mientras notas una mano que te acaricia la mejilla**",
+      "mensaje_sha256": "fa587593ac805c9e73c002f44eb4a45f6ab0a974a1b6edc630fd569066514ae7",
+      "tipo_discord": 19,
+      "referencia": "1408132883138478151",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1408133997275512913",
+      "texto_sha256": "156a293b8351f4e7e3ac124c0716503e527889d00007ba9e98bec43f7054e59d",
+      "adjuntos": []
+    },
+    {
+      "id": "1408137235261292717",
+      "fecha_utc": "2025-08-21T17:14:38.811000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": null,
+      "texto": "Seraphina:\nN..no te hagas el gracioso conmigo, Copito, tu sabes que en el juego del gato y el ratón siempre ganó, a..así que no pretendas ser el gato e..está vez q..que no te queda\n\n**Mi corazón latía con bastante rapidez mientras intentaba disimular mi nerviosismo**",
+      "mensaje_sha256": "b320c4503e02b578012d6808eaa07eaf076dadc8a2b663e1a3b895263836a35c",
+      "tipo_discord": 19,
+      "referencia": "1408133997275512913",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1408137235261292717",
+      "texto_sha256": "e94e2af03b984ff5e15d1afb45c787ed50c0530aad352db8b2cf72a93f081b8c",
+      "adjuntos": []
+    },
+    {
+      "id": "1408138122243346483",
+      "fecha_utc": "2025-08-21T17:18:10.284000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nQuiere que pare? Su mente dice que sí, pero en cambio su corazón dice lo contrario.\n\n**Dice con una sonrisa pícara, esa misma sonrisa que viste en la conversación en su base después de hablar con los guardianes, mientras acerca su cara a la tuya lentamente**",
+      "mensaje_sha256": "1be97afbfb6f8625e0a9cb2a7cbf9cbb9e72cddfedfaed511c8bdab11fad2fcb",
+      "tipo_discord": 19,
+      "referencia": "1408137235261292717",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1408138122243346483",
+      "texto_sha256": "95ce24eabe70d5319df2fa9d66eeee3a88b2e4753ae9bdc4659db5d4a8c8d3cd",
+      "adjuntos": []
+    },
+    {
+      "id": "1408139000673472552",
+      "fecha_utc": "2025-08-21T17:21:39.718000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": null,
+      "texto": "Seraphina:\nTe... Te voy a dar un puñetazo s..si n..no te tranqui...li...zas...\n\n**Mi voz se iba haciendo cada vez más lenta y suave al ver su cara acercarse a la mía**\n\nCo... Copito~",
+      "mensaje_sha256": "4f98efd29245f3e65e3b718f5223f92c46aeeded8e646beaac206f67aebcb35f",
+      "tipo_discord": 19,
+      "referencia": "1408138122243346483",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1408139000673472552",
+      "texto_sha256": "070ae63604ad1cb7e9fbeec1a923c486c6bbdf718b8d10f2ac33090824df66f9",
+      "adjuntos": []
+    },
+    {
+      "id": "1408140108787486760",
+      "fecha_utc": "2025-08-21T17:26:03.913000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": "2025-08-21T17:34:09.878000+00:00",
+      "texto": "Kurobane:\n\n**Notas sus labios muy cerca de los tuyos**\n\nDime~\n\n**Susurra el ninja mientras cambia la mano que estaba acariciando su mejilla, pasa a la cadera, haciendo que sus cuerpos se acerquen más**",
+      "mensaje_sha256": "026ab5c6efb1b742aee5d4f77790dde0c362ee077cae43d3b6d516c43f5938ac",
+      "tipo_discord": 19,
+      "referencia": "1408139000673472552",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1408140108787486760",
+      "texto_sha256": "316ada0c1395ca68455364cf77b455d554444e2e33ff3479e36356bec1b54102",
+      "adjuntos": []
+    },
+    {
+      "id": "1408143972655960257",
+      "fecha_utc": "2025-08-21T17:41:25.131000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": null,
+      "texto": "Seraphina:\nAlgún día te vas a arrepentir de esto...\n\n**Suspiré dándole un beso en el mentón**\n\nNo juegues con fuerzas que no vas a poder controlar",
+      "mensaje_sha256": "e99ce2d54c9e420f7b667c7108a0782ecada1d628a2405ca025d752122131ed1",
+      "tipo_discord": 19,
+      "referencia": "1408140108787486760",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1408143972655960257",
+      "texto_sha256": "c049bc28cb2e5834f338abe5749ba498720e5824ab70b0ab1381c6303910cd14",
+      "adjuntos": []
+    },
+    {
+      "id": "1408144810547871845",
+      "fecha_utc": "2025-08-21T17:44:44.900000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nLlevo años jugando con fuerzas que no puedo controlar.\n\n**Comenta sonriente antes de robarte un pequeño beso en los labios**\n\nTerminaremos la conversación después \n\n**Hace una pequeña reverencia besando tu mano y marchándose por la puerta de la base**\n\n\n🌘  Kurobane sale de escena 🌘",
+      "mensaje_sha256": "ab4fa538c6c4b9279bb2c34188f65f6d1b8164deb4117ede906e1bec978694a0",
+      "tipo_discord": 19,
+      "referencia": "1408143972655960257",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1408144810547871845",
+      "texto_sha256": "2999224a5f25ff72d36ab039c7d2e472722b2a82646b181b6cad4cd7fb128135",
+      "adjuntos": []
+    },
+    {
+      "id": "1408145574297075873",
+      "fecha_utc": "2025-08-21T17:47:46.992000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Después de que se fue, me deslicé en la pared hasta caer sentada en el suelo**\n\nAy Dioses... Qué voy a hacer?\n\n🔴Fin de la Escena🔴",
+      "mensaje_sha256": "e85bed9d0eafd0dba28708c900fc588a03695fc25e64750a067ca3dce56c97ba",
+      "tipo_discord": 19,
+      "referencia": "1408144810547871845",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1408145574297075873",
+      "texto_sha256": "7ec17f099d0fc89df582dbd9fe7ad023f930abd2707489bbcdbc42145d37f7cb",
+      "adjuntos": []
+    }
+  ]
+}

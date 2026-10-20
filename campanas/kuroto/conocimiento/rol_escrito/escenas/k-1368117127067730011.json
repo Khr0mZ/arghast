@@ -1,0 +1,103 @@
+{
+  "id": "k-1368117127067730011",
+  "campana": "kuroto",
+  "unidad_revision": "k-1368117127067730011",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "El consejo del pescador de Hakahara",
+  "resumen": "Banzo visita al pescador que lo llevó desde Brunami, conversa con él y recibe una caja marcada con el símbolo del Shogunato.",
+  "relato": "Banzo llega al amanecer a Hakahara, la aldea donde puso por primera vez pie en Kuroto. Recorre los puestos que empiezan a abrir y busca en el muelle al anciano pescador que lo trajo desde Brunami. Lo llama con un silbido y contempla su descenso ágil desde lo alto del barco. Ambos se sientan en la proa, sobre el tajamar con cabeza de jabalí, para conversar largamente. Banzo le cuenta sus dificultades, las de sus compañeros y lo que describe como su nuevo puesto de escolta de Rúa. El pescador lo sermonea ydespués le entrega una caja grande con el símbolo del Shogunato ydos cuerdas para cargarla a la espalda. Tras despedirse, Banzo vuelve hacia la base de Sho al trote, como le ha indicado el anciano. Privadamente se queda con la idea de que, antes de ayudar a otros a encontrar su camino, debe encontrar el suyo.",
+  "participantes": [
+    "Banzo",
+    "Pescador de Hakahara sin identificar"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1368117127067730011",
+      "afirmacion": "Banzo visita en Hakahara al pescador que lo llevó desde Brunami yconversa con él en la proa.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1368132674413400135",
+      "afirmacion": "El anciano entrega una caja con símbolo del Shogunato y Banzo la carga de regreso a Sho.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1368132674413400135",
+      "afirmacion": "Banzo reflexiona sobre encontrar su propio camino antes de guiar a otros.",
+      "tipo": "pensamiento"
+    }
+  ],
+  "notas": [
+    "Aunque el hilo se llamaSho, los dos mensajes sitúan expresamente esta escena en Hakahara. Conservar ese emplazamiento narrativo sin alterar fuentes ni reparto.",
+    "No se identifica al pescador por nombre, no se confirma su pasado pirata y no se revela el contenido de la caja.",
+    "El nuevo puesto de escolta de Rúa aparece dentro de lo que Banzo cuenta; esta escena no representa su nombramiento oficial."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-03T06:49:01.480000+00:00",
+  "fin_utc": "2025-05-03T07:50:48.256000+00:00",
+  "fecha_local": "2025-05-03",
+  "intervalo": {
+    "anterior": 111,
+    "siguiente": 112,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1369742246882054214",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 111,
+        "fecha": "2025-05-01",
+        "inicio_referencia_utc": "2025-05-01T18:30:18+00:00",
+        "fin_estimado_utc": "2025-05-01T21:17:50+00:00",
+        "duracion_video_segundos": 10052,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983"
+      },
+      {
+        "capitulo": 112,
+        "fecha": "2025-05-07",
+        "inicio_referencia_utc": "2025-05-07T18:26:24+00:00",
+        "fin_estimado_utc": "2025-05-07T21:22:03+00:00",
+        "duracion_video_segundos": 10539,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1369742246882054214"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1368117127067730011",
+      "fecha_utc": "2025-05-03T06:49:01.480000+00:00",
+      "fecha_local": "2025-05-03",
+      "editado_utc": "2025-05-03T07:21:39.412000+00:00",
+      "texto": "**(Hakahara) **\n\nBanzo : **entra en la aldea de Hakahara, primer sitio donde puso el pie en Kuroto, se le ve pensativo. \n\nA paso lento va observando como colocan los puestos y la aldea se empiez a a poner en marcha con los primeros atisbos de sol . \nLas gentes de Kuroto no se rinden , son trabajadores . \n\nSe dirige al muelle , en busca del pescador que le trajo desde Brunami . \n\nEs un viejo sabio , huele mal y le quedan pocos dientes , pero cada arruga parece que desprende conocimiento . **\n*Allí está, en lo alto del carajo,que buscará con el catalejo.?\n Menudo colgao estará recordando sus tiempos de pirata o que se yo* \n\n**banzo se acerca y le pega un silbido ** \n**el viejo sonrrie y con un salto ágil agarra un cabo se balancea hasta berga y de ahí salta a una de las velas que lo  desliza suavemente hasta cubierta**\n**Banzo mira sonrriente y se acerca **\n**Los dos se alejan y se sientan en la proa , justo encima del tajamar , en lo que parece la cabeza tallada de un Javalí que gobierna este navío.  ** \n\n**se funden en una larga conversación **",
+      "mensaje_sha256": "467ec921f55aec4c91d8aaf8308867ce6840af02a4d16c5607f6e4e996e4a71b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1368117127067730011",
+      "texto_sha256": "f358ff712b7b7b6deb2f424aa0c9213017496d81bb7210bf320619c0189c77f3",
+      "adjuntos": []
+    },
+    {
+      "id": "1368132674413400135",
+      "fecha_utc": "2025-05-03T07:50:48.256000+00:00",
+      "fecha_local": "2025-05-03",
+      "editado_utc": "2025-05-03T07:53:38.195000+00:00",
+      "texto": "**(HAKAHARA)**\n\n\nBanzo : \nDespués de que se pusieran al día, el goliath contando sus problemas, su nuevo puesto como escolta de Rua ,los de sus compañeros mientras el pescador sermoneandole, este se dirige hacia el interior del barco y saca una cajeton grande con el simbolo del shogunato ycon dos cuerdas para colgar a la espalda . Se lo entrega y los dos se despiden . \n\nBanzo se aleja de Hakahara con la caja a la espalda en dirección a la Base de Sho \n\n*que fuese al trote me dijo el maldito viejo* \n**banzo empieza su largo trote hasta la capital **\n\n*A si que antes de ayudar a los demás a encontrar su camino devo encontrar el mio propio ...* \n\n\n❌ FIN DE LA ESCENA ❌",
+      "mensaje_sha256": "0781ed9b9395c68ee1524c376b28043acdb38f2bb6e6c8bb07657e94fdc83c2e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1368132674413400135",
+      "texto_sha256": "8c9a7ec2c1309d9e4ec83aaba31a93030a9f8a9b274a6ecbc458e2dd1802ab1f",
+      "adjuntos": []
+    }
+  ]
+}

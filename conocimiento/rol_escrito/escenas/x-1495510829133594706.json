@@ -1,0 +1,238 @@
+{
+  "id": "x-1495510829133594706",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1495510829133594706",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "El informe ante la falsa capitana",
+  "resumen": "Poncelot entrega información a Coyote suplantando a Ione.",
+  "relato": "Coyote deambula primero con apariencia de pirata ebrio, sin encontrar conversaciones que le interesen. En un callejón toma la forma de Ione y se dirige al barco. Sir Poncelot lo confunde con la capitana y corre a informarle de los acontecimientos de la noche anterior. Dice haber perdido su armadura para salvar el reino y cuenta un ataque en el local de Liz y junto a Bonny.\n\nSegún el caballero, él, un gigante emplumado, Nox, Luna y Bling lograron expulsar a unas criaturas, pero murieron una mujer y su pequeño perro. Las llama demonios de magos oscuros del sur y asegura que buscaban el mapa de una ciudad oculta por el Garfio. Se conserva como su relato, condicionado por su forma habitual de interpretar el mundo. La ciudad, el mapa y sus atacantes no se verifican mediante esta conversación.\n\nCoyote decide en privado buscar ese mapa y sigue la suplantación. Intenta seducir y distraer al gnomo con caricias y un abrazo. Poncelot se aparta alarmado, recuerda que la verdadera Ione estaba furiosa en su última reunión y se marcha a preparar su equipo y a Merlucilla III, notando algo extraño sin descubrir expresamente al impostor.\n\nSolo de nuevo, Coyote contempla a escondidas una perla y piensa visitar a una amiga acuática sin nombre. Vuelve al callejón, adopta la forma de una joven nativa y se aleja. No se entrega, descifra ni roba todavía el mapa.",
+  "participantes": [
+    "Coyote",
+    "Sir Poncelot"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1495510829133594706",
+      "afirmacion": "Coyote adopta sucesivamente aspecto de pirata e Ione para recabar información.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1495756547429634201",
+      "afirmacion": "Poncelot cuenta el ataque, las pérdidas y el interés de los enemigos por un mapa del Garfio.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1495758919958528043",
+      "afirmacion": "Coyote decide buscar el mapa mientras mantiene la suplantación.",
+      "tipo": "pensamiento"
+    },
+    {
+      "mensaje_id": "1495760253650997400",
+      "afirmacion": "Poncelot percibe que su interlocutora se comporta de modo diferente a Ione en la reunión anterior.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1495802237849440439",
+      "afirmacion": "Poncelot rechaza el acercamiento y se marcha sin identificar al impostor.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1495803093030408283",
+      "afirmacion": "Coyote examina una perla, menciona a una amiga acuática y adopta apariencia de joven nativa.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La verdadera Ione no participa en esta conversación; los actos de su apariencia pertenecen a Coyote.",
+    "El informe del caballero es testimonio: no se inventan identidades de la mujer, el perro, el gigante o los atacantes.",
+    "No se identifica la perla o la amiga acuática con nombres por inferencia.",
+    "La forma de joven nativa es un disfraz sin nombre propio acreditado."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-04-19T19:46:06.913000+00:00",
+  "fin_utc": "2026-04-20T16:23:46.900000+00:00",
+  "fecha_local": "2026-04-19",
+  "intervalo": {
+    "anterior": 25,
+    "siguiente": 26,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1494768689348870237",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1495856349072986122",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 25,
+        "fecha": "2026-04-17",
+        "inicio_referencia_utc": "2026-04-17T18:36:47+00:00",
+        "fin_estimado_utc": "2026-04-17T21:05:13+00:00",
+        "duracion_video_segundos": 8906,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1494768689348870237"
+      },
+      {
+        "capitulo": 26,
+        "fecha": "2026-04-20",
+        "inicio_referencia_utc": "2026-04-20T18:38:45+00:00",
+        "fin_estimado_utc": "2026-04-20T20:58:26+00:00",
+        "duracion_video_segundos": 8381,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1495856349072986122"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1495510829133594706",
+      "fecha_utc": "2026-04-19T19:46:06.913000+00:00",
+      "fecha_local": "2026-04-19",
+      "editado_utc": null,
+      "texto": "Coyote:\n**Me había transformado en uno de esos piratas asquerosos que deambulaban por ahí, pretendiendo estar ebrio para pasar desapercibido, escuchando conversaciones ajenas y recabando mas información**\n\n*Mmhh, no hay nada que me pueda interesar de estos malechores, en verdad que son un asco de persona...*\n\n**Me metía por uno de los callejones y ahora mi apariencia cambio a la de Ione, me acomodé el cabello y caminé rumbo al barco, quizás ahí encontraría rastros de lo que estaba buscando**\n\n*Se supone que ese es su barco?, vaya... Que pinta tiene, un soplo del viento y lo más seguro es que se termine quebrando*",
+      "mensaje_sha256": "ff3bfe47d56c25f069f122cae9aafbb33fa763e34529aa8117bab892acf30b8b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1495510829133594706",
+      "texto_sha256": "a0ff5e1fc30adf1fa0bf5d327e41bb5c26bac37dd9f2cc897ce9f85b3e70b7f5",
+      "adjuntos": []
+    },
+    {
+      "id": "1495715641326440458",
+      "fecha_utc": "2026-04-20T09:19:57.945000+00:00",
+      "fecha_local": "2026-04-20",
+      "editado_utc": "2026-04-20T11:44:06.770000+00:00",
+      "texto": "Sir Poncelot \n\n**El gnomo se encontraba martilleando su cubocasco en un rinconcito del muelle, bajo una loneta bastante estropeada. Al levantar la mirada para secarse el sudor de la calva, vio a lo lejos a la Capitana Ione salir de un callejón.\n\nA corre prisa, recogió sus herramientas, metió en su mochila ese intento de casco y salió corriendo en dirección a la pirata**\n\n- mi señora Ione!! Capitana!! Suerte de verla!!\n\n**El caballero se para en seco frente a ella, se agalla apollandose en sus rodillas para recuperar el aliento y seguidamente pone su ya típica pose militar con la mano en la frente**\n\n- Sir Poncelot se presenta ante usted con alarmantes nuevas!!!",
+      "mensaje_sha256": "a0b47022e6fa8f7301310e70039d9bf2c602c62cf8270f07d58b8fae7b75faef",
+      "tipo_discord": 19,
+      "referencia": "1495510829133594706",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1495715641326440458",
+      "texto_sha256": "583f0de3db5d0cbfe5996ab83844b9f8b13e09fc39e75b663ff1f73197d6e847",
+      "adjuntos": []
+    },
+    {
+      "id": "1495753619369099354",
+      "fecha_utc": "2026-04-20T11:50:52.616000+00:00",
+      "fecha_local": "2026-04-20",
+      "editado_utc": null,
+      "texto": "Coyote:\n**Levanté una ceja al ver a un hombrecito salir corriendo hacia mi, casi expulsando el pulmón, me crucé de brazos y me volví a relamer los labios al verlo cubierto de sudor**\n\n*Vaya vaya, así que no estaba tan drogado, en verdad existe este caballero*\n\nAh, que tal?, pasó algo?\n\n**No dejaba de mirarlo con ganas de clavarle el diente**\n\nAlarmantes nuevas?, qué sucede?",
+      "mensaje_sha256": "d3ebc85f60d5df56940723157395fcb3c29f985c5220c2fd5e6d09468e351d78",
+      "tipo_discord": 19,
+      "referencia": "1495715641326440458",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1495753619369099354",
+      "texto_sha256": "74cc485a2db8fb78337addc5f8a9d2eead401a08706dd5fde6d39cb095cab7b7",
+      "adjuntos": []
+    },
+    {
+      "id": "1495756547429634201",
+      "fecha_utc": "2026-04-20T12:02:30.720000+00:00",
+      "fecha_local": "2026-04-20",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**El caballero se percató del escaneo que le hizo la pirata, se miró a si mismo y volvió a clavar la postura militar**\n\n- veo que se pregunta por qué no llevo mi distinguida y magnífica armadura como de costumbre capitana. Le pido que no sufra por ello, mi señora, ha sido un sacrificio necesario para salvar este reino.\n\n**Retira la mano de su frente pero mantiene la rigidez típica de un soldado**\n\n- creo que debería haber llegado a sus oídos lo acontecido la anterior noche en los juzgados de su señoría Liz y en los portones del castillo de su majestad Happy Bonny.\n\nLos detalles concretos son que unas criaturas endemoniadas seguramente invocadas desde lo más profundo del averno por los magos oscuros del reino del sur nos atacaron cobardemente mientras pernoctabamos cada uno en nuestros aposentos.\n\nLas buenas noticias son que gracias a la pericia de este humilde caballero, con la leve ayuda de un gigante emplumado, la inteligencia de su joven escudero Nox y la joven Luna, y la extraña magia del espíritu maligno del bosque llamado, el cual se sutopercibe como hada, Blink, conseguimos despacharlas.\n\nLas malas noticias son que no conseguimos salvar a una pobre dama y su pequeño perrito que andaban, sin motivo aparente, en los juzgados. Eso y que buscaban el mapa de aquella ciudad escondida situada por el Garfio que usted y yo desciframos.\n\n**El gnomo agacha la cabeza con rostro de vergüenza sin romper la rigidez de su postura**\n\n- como caballero me avergüenzo de haber traído al enemigo a estas nuestras hermosas tierras. Quiero que sepa que me haré cargo de clamar venganza cuando vayamos al lugar marcado en el mapa y encontremos de nuevo a esos magos oscuros y sus viles demonios del inframundo!\n\n**Sir Poncelot miraba directamente al rostro de Ione con los ojos en llamas y apretando el puño con exagerada determinación**",
+      "mensaje_sha256": "6d370057974830a2f4780816187925412a9cd17cee1a27d1aba44b6540525c1f",
+      "tipo_discord": 19,
+      "referencia": "1495753619369099354",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1495756547429634201",
+      "texto_sha256": "963496165d51d18f78154347149ed3fd47e107743b74dc8e9ec582d89f989957",
+      "adjuntos": []
+    },
+    {
+      "id": "1495758919958528043",
+      "fecha_utc": "2026-04-20T12:11:56.375000+00:00",
+      "fecha_local": "2026-04-20",
+      "editado_utc": null,
+      "texto": "Coyote:\n*Mmmhh, así que ahora están buscando una ciudad, tendré que buscar ahora yo ese mapa que tanto menciona*\n\nMe parece bien, liarnos a puños con esos mal nacidos por tocar a mi tripulación\n\n**Le froté un poco la calva**\n\nMucho trabajo?, te ves agotado, no te gustaría descansar un momento?~\n\n**Me inclinaba hasta su altura, casi poniéndole los atributos por la cara**\n\nUn buen Caballerito debería de respirar un momento y descansar, que se te ve muuuuy agotado~",
+      "mensaje_sha256": "eb849d5152b6292cddf5bfca074e5bb866195364005d5e2c5a0c70e5b2061bc2",
+      "tipo_discord": 19,
+      "referencia": "1495756547429634201",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1495758919958528043",
+      "texto_sha256": "0f933c981cfc87295f3f24fc31faa94090048fd14c3da2d07ea60513c6222f0d",
+      "adjuntos": []
+    },
+    {
+      "id": "1495760253650997400",
+      "fecha_utc": "2026-04-20T12:17:14.352000+00:00",
+      "fecha_local": "2026-04-20",
+      "editado_utc": "2026-04-20T12:17:24.618000+00:00",
+      "texto": "Sir Poncelot \n\n**El gnomo apartó disimuladamente su cara de los pechos de la capitana**\n\n- mi... Mi señora... Agradezco su preocupación. Pero el trabajo de un caballero nunca termina! Tengo que encontrar una armadura de repuesto, terminar mi yelmo y pertrechar a mí fiel Merlucilla III.\n\n**El caballero se fija por un segundo en las palabras de Ione**\n\n- mi Capitana... Se encuentra usted mejor en el día de hoy? Recuerdo que en nuestra ultima reunión estaba más furiosa que una arpía a la que le han robado los huevos del nido... Y hoy le noto mejor tono de voz... Incluso divertido diría yo...",
+      "mensaje_sha256": "8306ae1b46eb87b9aebf55f1ef37735de2ef466fd0b3430e8f600839a125e940",
+      "tipo_discord": 19,
+      "referencia": "1495758919958528043",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1495760253650997400",
+      "texto_sha256": "35107929d63b5e0c0fe5be6d2973515746ab37d79ecda5f9e6c080f523672cb0",
+      "adjuntos": []
+    },
+    {
+      "id": "1495799733510476108",
+      "fecha_utc": "2026-04-20T14:54:07.084000+00:00",
+      "fecha_local": "2026-04-20",
+      "editado_utc": null,
+      "texto": "Coyote:\nSi, ya estoy mucho mejor, hasta me hicieron ducharme, menos mal no lo recuerdo bien...\n\n**No iba a dar más información que la necesaria en estos casos, aun no conocía por completo a Ione y no me iba a arriesgar a que me atraparan**\n\nPobre de mi caballero, tan trabajador y nadie es capaz de notarlo, pobre de tí~\n\n**Le abracé, hundiendole su cabeza en mi pecho, no había mejor distracción que esa**",
+      "mensaje_sha256": "dcd73e5c52572ef0afbb7b1bead67b247e11a783613c618392aee9decd4c74d5",
+      "tipo_discord": 19,
+      "referencia": "1495760253650997400",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1495799733510476108",
+      "texto_sha256": "07204474377c8520ad82d4b8a5b803f39682a312145be053d0f883435bbe472a",
+      "adjuntos": []
+    },
+    {
+      "id": "1495802237849440439",
+      "fecha_utc": "2026-04-20T15:04:04.165000+00:00",
+      "fecha_local": "2026-04-20",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**El gnomo se apartó ipso facto de Ione entre nervioso y alarmado**\n\n- por el amor santa Dulcinea!!! Ha perdido su dignidad?? Un caballero no debe actuar tan lascivamente!!!\n\n**Sir Poncelot se acomoda la lanza y el escudo y da unos pasos atrás para marcharse**\n\n- hagaselo mirar mi señora... Comprendo que debe estar abrumada de sentimientos dada su maldición y lo sucedido con el joven escudero Nox, pero eso no le escusa de comprotarse como una dama de moral distraída...\n\n**Vuelve a marcarse un saludo militar**\n\n- con su permiso me retiro a preparar la marcha.\n\n**En lo que el caballero se dirigía a donde reposaba su fiel montura, no podía evitar sentir algo extraño con el comportamiento de su tan admirada Capitana**",
+      "mensaje_sha256": "445841b25df2acd0f40b6600292869b6cc10339d4e0b0a8e5dd2d464b0e4e0da",
+      "tipo_discord": 19,
+      "referencia": "1495799733510476108",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1495802237849440439",
+      "texto_sha256": "25384ccff73d053aae171fddf741b00625f41d7078fe9b124c9c7868e25975e2",
+      "adjuntos": []
+    },
+    {
+      "id": "1495803093030408283",
+      "fecha_utc": "2026-04-20T15:07:28.056000+00:00",
+      "fecha_local": "2026-04-20",
+      "editado_utc": "2026-04-20T15:32:59.176000+00:00",
+      "texto": "Coyote:\n**Me levanté y me crucé de brazos mientras lo veía marcharse**\n\nMmmhh, interesante~, no cause el efecto de siempre\n\n**Levanté los hombros y saqué aquella perla de entre mis cosas, procurando verla a escondidas porque enseguida note que este no sería un lugar seguro para nadie**\n\nQuizás tenga que dar una visita a mi querida amiga acuática~\n\n**Espere el momento indicado para meterme al callejón de nuevo y tomar ahora una nueva forma más \"natural\", una joven nativa para \"nada llamativa\", me acomodé la ropa y salí caminando del callejón con normalidad**",
+      "mensaje_sha256": "ab15eb3a7537995a01ee72ac49ea3d8314f9cc0241d2d84a5644134d14938d1e",
+      "tipo_discord": 19,
+      "referencia": "1495802237849440439",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1495803093030408283",
+      "texto_sha256": "fb8d07d3ea04b4e1cef6d45420612ba53161de7cb418933d7c2411cef25bf8f6",
+      "adjuntos": []
+    },
+    {
+      "id": "1495809790922850474",
+      "fecha_utc": "2026-04-20T15:34:04.958000+00:00",
+      "fecha_local": "2026-04-20",
+      "editado_utc": null,
+      "texto": "https://tenor.com/view/chel-hair-fabulous-gif-14843646",
+      "mensaje_sha256": "9a1d4b5549d63654a2337af83e0c60635f17111cfddb887c217c3598bf5bb86d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1495809790922850474",
+      "texto_sha256": "68a61039c79d9029210da5acafe962b772642a7d28b16cb97b3b50b69ce69462",
+      "adjuntos": [],
+      "no_narrativo": true,
+      "nota_editorial": "Contexto o marcador no narrativo; conservado en la exportación íntegra."
+    },
+    {
+      "id": "1495822298094108743",
+      "fecha_utc": "2026-04-20T16:23:46.900000+00:00",
+      "fecha_local": "2026-04-20",
+      "editado_utc": null,
+      "texto": "🔴 Fin de la escena🔴",
+      "mensaje_sha256": "935c6ea307f413790d4d9e01b1c28ce6b12771b595319df5013339cf450a89b2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1495822298094108743",
+      "texto_sha256": "b93d96fc98225847a40f1d626c9ccbc5d1dcb6c0ca05e80c2bc26f4ae38acac0",
+      "adjuntos": []
+    }
+  ]
+}

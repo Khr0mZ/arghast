@@ -1,0 +1,159 @@
+{
+  "id": "x-1527455379028574428",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1527455379028574428",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "Tessa recoge a Leo y rechaza su chantaje",
+  "resumen": "La humana llega tarde por un aviso demorado, recoge al niño empapado y se niega a ocultar sus partes escolares.",
+  "relato": "Tessa corre bajo la lluvia hacia el colegio después de enterarse por la tabernera de que debía recoger a Leo. El aviso le ha llegado casi dos horas tarde. Lo encuentra empapado, lo cubre con su chaqueta y se presenta como tita Tessa antes de proponer volver a la taberna para calentarse y hacer los deberes.\n\nEl niño le entrega una larga lista de rutinas de Naór y cuatro partes de expulsión o sanción por contestar, pelearse, faltar a clase y repetir una expresión vulgar. Tessa decide aplazar las actividades por la tormenta y hablar de las notas con su madre. Leo intenta pactar silencio: si ella no cuenta los partes, él no contará que faltó a las extraescolares.\n\nLa humana se enfada y rechaza el trato. Le ordena acompañarla, bañarse, terminar las tareas y escribir quinientas veces que no volverá a chantajear adultos. La escena acaba con esa decisión; no muestra que haya realizado la copia, recibido un castigo físico o hablado ya con Naór.",
+  "participantes": [
+    "Tessa",
+    "Leo"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1527455379028574428",
+      "afirmacion": "Tessa recoge a Leo empapado tras recibir tarde el aviso.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1527456867213643777",
+      "afirmacion": "Leo entrega la lista de actividades y cuatro partes escolares.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1527459146222538824",
+      "afirmacion": "El niño propone ocultar los partes a cambio de su propio silencio.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1527970956356620339",
+      "afirmacion": "Tessa rechaza el chantaje y manda tareas y una copia como castigo.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Las actividades peligrosas de la lista se conocen por la lectura y el juicio de Tessa; no se recrean como acciones de esta recogida.",
+    "La indignación sobre la custodia es pensamiento de Tessa, no una resolución de las autoridades."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-07-16T23:22:21.109000+00:00",
+  "fin_utc": "2026-07-20T06:51:33.454000+00:00",
+  "fecha_local": "2026-07-17",
+  "intervalo": {
+    "anterior": 45,
+    "siguiente": 46,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527375684333338644",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1529917702439698493",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 45,
+        "fecha": "2026-07-16",
+        "inicio_referencia_utc": "2026-07-16T18:02:20+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527375684333338644"
+      },
+      {
+        "capitulo": 46,
+        "fecha": "2026-07-23",
+        "inicio_referencia_utc": "2026-07-23T18:26:16+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1529917702439698493"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1527455379028574428",
+      "fecha_utc": "2026-07-16T23:22:21.109000+00:00",
+      "fecha_local": "2026-07-17",
+      "editado_utc": null,
+      "texto": "Tessa\n\n**La humana iba corriendo por la calle principal principal de Iktan mientras caía la mundial, tapándose con una chaqueta**\n\n*La madre que trajo a la leona aquella... Que es eso de dejarme a mí como responsable de recoger a su niño? Y para colmo me lo tiene que decir la tabernera casi dos horas tarde!!*\n\n**Tessa llega frente al colegio y ve al pobre conejo calado hasta las orejas**\n\n- ay pobre criatura!!! \n\n**Lo cubre junto a ella bajo la chaquetaz al menos lo que da de si la prenda de abrigo**\n\n- hola pequeñajo. Soy la tía Tessara. Me puedes llamar tita Tessa. Soy amiga... De momento... De tu madre y al parecer no va a poder venir a por ti... Así que vámonos corriendo a la taberna antes de que pillemos un catarrazo... Nos daremos un bañito caliente y luego te ayudo con los deberes. Te parece?",
+      "mensaje_sha256": "542419f429f3806827018093b071a9578729b77d9e89a31da2f62f43e4a85750",
+      "tipo_discord": 19,
+      "referencia": "1527444416187596951",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1527455379028574428",
+      "texto_sha256": "a8289bc7509eb6dd0d4321848821bb833baa6dd61743647b3547a79c2412a027",
+      "adjuntos": []
+    },
+    {
+      "id": "1527456867213643777",
+      "fecha_utc": "2026-07-16T23:28:15.920000+00:00",
+      "fecha_local": "2026-07-17",
+      "editado_utc": null,
+      "texto": "Leo: **esta con las orejas agachadas ** \n\nHola Tessa ... \nNaór me ha dado esta lista de cosas \n**te entrega un largo pergamino (ya sabes sus extraescolares y rutinas) ** \n\nY la profesora me ha dado esto . Me lo firmas tu a que si ? \n**te sonrrie y pone ojitos tipo gato con botas ** \n\n**son 4 partes de expulsion\nUno por contestar en clase \nOtro por pelearse \nOtro por saltarse una clase \nY otro por decir tacos pone entre comillas : se dirigio a otro alumno con la expresión ,\" comeme el coño de leona que tengo \"**",
+      "mensaje_sha256": "941e89f0f94fa7802b98b8ad3ad3049d9ab07c993ed6d86f3dd62e17941d36be",
+      "tipo_discord": 19,
+      "referencia": "1527455379028574428",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1527456867213643777",
+      "texto_sha256": "afdfaad7065b82e305930c0204a969db0d55ad6e9f6e46a50aac408d94052abf",
+      "adjuntos": []
+    },
+    {
+      "id": "1527458478099267626",
+      "fecha_utc": "2026-07-16T23:34:39.985000+00:00",
+      "fecha_local": "2026-07-17",
+      "editado_utc": null,
+      "texto": "Tessa\n\n**Se cubre todo lo que puede de la lluvia y mira por encima la lista de extraescolares**\n\n*Si hombre... En serio? Esta loca hace luchar al pequeño contra cocodrilos salvajes? Lo que tienen que hacer es quitarle la custodia...*\n\n**Se guarda el papel y coge al pequeño de la mano**\n\n- bueno, lo de la extraescolares lo vamos a aplazar por qué con este tiempo no sé puede hacer mucho. Y las notitas de la directora lo hablaremos con tu madre vale? Ahora vamos antes de que nos ahoguemos con tanta agua... Ya tendré una conversación con tu madre cuando vuelva...",
+      "mensaje_sha256": "9604c30fd21863ab9c42a774457d8bcf6b95f16dd70d03bf06f704559d930013",
+      "tipo_discord": 19,
+      "referencia": "1527456867213643777",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1527458478099267626",
+      "texto_sha256": "abe837537fef73242deec7fd94ed929f9580657d322233396684e68fa5e0fa81",
+      "adjuntos": []
+    },
+    {
+      "id": "1527459146222538824",
+      "fecha_utc": "2026-07-16T23:37:19.278000+00:00",
+      "fecha_local": "2026-07-17",
+      "editado_utc": "2026-07-16T23:37:29.925000+00:00",
+      "texto": "Leo : vale Tessa . \nMama se enfadara un poquito si se entera pero como tu no le dirás nada de estos partes yo no le dire que no he ido a extraescolares . \n\nA que no ? \n**se sube a tu hombro y te mira con mirada picara  y sonrisa de medio lado digna de un genio del mal **",
+      "mensaje_sha256": "75b325f62c71d8148016c4b91729cb07f8475a97136e63ec350f357b5aca5073",
+      "tipo_discord": 19,
+      "referencia": "1527458478099267626",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1527459146222538824",
+      "texto_sha256": "eb0ec62a5caf3d4eb2e78e563144b8944adf1517af617c0e6268059f7ea0a047",
+      "adjuntos": []
+    },
+    {
+      "id": "1527970956356620339",
+      "fecha_utc": "2026-07-18T09:31:04.323000+00:00",
+      "fecha_local": "2026-07-18",
+      "editado_utc": null,
+      "texto": "Tessa\n\n**Una vena se el hinchó en la frente a la humana. Cogió al conejo del pellejo y se lo puso delante de la cara**\n\n- escucha bien amiguito... No soy tú \"mamá\", así que no pienso lanzarte a las fauces de unos cocodrilos gigantes, y mira que ahora mismo ganas no me faltan. Haremos lo siguiente: te vienes conmigo a la taberna, te vas a dar un baño para quitarte todo ese barro que llevas, te sentaras conmigo en una mesa y, cuando acabes todas tus tareas del colegio, vas a escribir en tu cuaderno 500 veces \"no volveré a chantajear a ningún adulto nunca de los jamases\"\n\n**La mirada de Tessa era intimidante. Algo raro en ella ya que casi siempre estaba de buen humor, y más con los niños**\n\n- así que ya estás andando delante de mi pequeño...",
+      "mensaje_sha256": "632ee6b8ff5e73184c6ddd75f2ed72a1a48c4e6319f9752dae6ff50caf093d06",
+      "tipo_discord": 19,
+      "referencia": "1527459146222538824",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1527970956356620339",
+      "texto_sha256": "4db20a4bdcc63d545989f7223b29ed982f5ec247b98076c77c382577858cc7d9",
+      "adjuntos": []
+    },
+    {
+      "id": "1528655588953948200",
+      "fecha_utc": "2026-07-20T06:51:33.454000+00:00",
+      "fecha_local": "2026-07-20",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "95295638d78b1b57646888523896402e9ef07882bb87d0ad6f4f5508b483acde",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528655588953948200",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "x-1484320379274002692",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1484320379274002692",
+  "hilo_id": "1482149664131383316",
+  "hilo_nombre": "Cuicapalli - La villa tranquila",
+  "titulo": "Citlali se aparta de la celebración",
+  "resumen": "Descubre que ha rejuvenecido algo y se derrumba por una culpa que no explica al resto.",
+  "relato": "Mientras la villa celebra la eliminación de un grupo de serpientes, Citlali se aleja hasta un río para lavar su blusa. Al mirarse en el agua advierte que algunas arrugas han desaparecido y varias heridas han terminado de cerrarse. Se aparta del reflejo, convencida de que aquello está mal.\n\nApoyada en un árbol y abrazada a sus piernas, llora en silencio. Se siente culpable de haber dañado a quienes debía proteger y sigue oyendo cascabeles de serpientes en su cabeza. La escena muestra su rejuvenecimiento parcial y angustia privada; no revela el mecanismo que los provoca ni demuestra un daño concreto fuera de lo que ella teme.",
+  "participantes": [
+    "Citlali"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1484320379274002692",
+      "afirmacion": "Citlali percibe menos arrugas y heridas cerradas y llora por su sentimiento de culpa.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El sonido de cascabeles se sitúa en su cabeza.",
+    "No convertir la culpa en confesión de un hecho cuya causa no está narrada."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-03-19T22:39:15.758000+00:00",
+  "fin_utc": "2026-03-19T22:39:15.758000+00:00",
+  "fecha_local": "2026-03-19",
+  "intervalo": {
+    "anterior": 18,
+    "siguiente": 19,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1484269313027342427",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1486449682648666252",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 18,
+        "fecha": "2026-03-19",
+        "inicio_referencia_utc": "2026-03-19T19:16:02+00:00",
+        "fin_estimado_utc": "2026-03-19T22:01:31+00:00",
+        "duracion_video_segundos": 9929,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1484269313027342427"
+      },
+      {
+        "capitulo": 19,
+        "fecha": "2026-03-25",
+        "inicio_referencia_utc": "2026-03-25T19:40:04+00:00",
+        "fin_estimado_utc": "2026-03-25T21:54:24+00:00",
+        "duracion_video_segundos": 8060,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1486449682648666252"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1484320379274002692",
+      "fecha_utc": "2026-03-19T22:39:15.758000+00:00",
+      "fecha_local": "2026-03-19",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\n**La noche estaba cayendo sobre esta villa, se les veía a todos muy animados y celebrando que al menos un grupo de serpientes fue eliminado**\n\n**Me había alejado de ese jolgorio hacia uno de los ríos de aquel lugar, llendome lo más lejos que podría**\n\n**Al llegar a ese cuerpo de agua, me quité la blusa para limpiarla y al reflejarme en el agua, podría ver que efectivamente, algunas arrugas se habían quitado y unas cuantas heridas se habían cerrado al fin, rápidamente me quité del agua mientras negaba con la cabeza**\n\n*No No No... Esto no está bien, no está nada bien*\n\n**Me recargué en uno de los árboles mientras abrazaba mis piernas, ahogandome en llanto silencioso, sintiéndome una vez más culpable de dañar a aquellos que se suponía tenía que proteger mientras que en mi cabeza seguía escuchándose los cascabeles de las serpientes a mi alrededor**\n\n🔴Fin de la escena 🔴",
+      "mensaje_sha256": "c0daf92064af21174e1bf075f576d5af041351509bd5d599694bce23efc2f666",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1484320379274002692",
+      "texto_sha256": "a29e02ae3eec64a70046a541d71584d6f5580c9d01787a24fcc9d1ead42da030",
+      "adjuntos": []
+    }
+  ]
+}

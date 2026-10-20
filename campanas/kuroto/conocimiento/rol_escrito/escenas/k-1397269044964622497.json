@@ -1,0 +1,140 @@
+{
+  "id": "k-1397269044964622497",
+  "campana": "kuroto",
+  "unidad_revision": "k-1397269044964622497",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Arwen ensaya recordar los olores de la guardia",
+  "resumen": "Banzo propone un juego de identificación al acercarse a palacio.",
+  "relato": "Banzo y Arwen llegan a Sho después de bañarse y jugar en el lago. Caminan limpios, aunque mojados, hacia palacio mientras ella cuenta con entusiasmo las zanjas y trampas que ha hecho en el sur. El goliat le propone memorizar los olores de los guardias para intentar reconocerlos otro día. En privado piensa que también podría servir para detectar a quien no pertenezca allí. Arwen acepta intentarlo. La escena no muestra la prueba, un reconocimiento logrado ni la detección de un infiltrado.",
+  "participantes": [
+    "Banzo",
+    "Arwen"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1397271842397491250",
+      "afirmacion": "Arwen cuenta sus trabajos defensivos del sur.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1397288916859752631",
+      "afirmacion": "Banzo le pide recordar olores de los guardias y piensa en detectar impostores.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1397289721021075476",
+      "afirmacion": "Arwen acepta intentarlo.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "El objetivo de descubrir infiltrados es pensamiento de Banzo, no información que él explique expresamente a la niña."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-07-22T17:28:20.323000+00:00",
+  "fin_utc": "2025-07-22T19:25:06.352000+00:00",
+  "fecha_local": "2025-07-22",
+  "intervalo": {
+    "anterior": 139,
+    "siguiente": 140,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1395465783865512070",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1398002060905152542",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 139,
+        "fecha": "2025-07-17",
+        "inicio_referencia_utc": "2025-07-17T18:02:34+00:00",
+        "fin_estimado_utc": "2025-07-17T20:59:56+00:00",
+        "duracion_video_segundos": 10642,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1395465783865512070"
+      },
+      {
+        "capitulo": 140,
+        "fecha": "2025-07-24",
+        "inicio_referencia_utc": "2025-07-24T18:00:50+00:00",
+        "fin_estimado_utc": "2025-07-24T21:10:34+00:00",
+        "duracion_video_segundos": 11384,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1398002060905152542"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1397269044964622497",
+      "fecha_utc": "2025-07-22T17:28:20.323000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": null,
+      "texto": "Banzo : **Banzo y Arwen llegan a la capital después de pasar por el lago , entre juegos y risas para el que están algo mas presentables . Mojados pero limpios \n\nCaminan en dirección a palacio **",
+      "mensaje_sha256": "0a923be22a984a8896f63ec9508c3aa4bcf2b2e859be820e692c935e43a625ba",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1397269044964622497",
+      "texto_sha256": "698c8da416def1086d6716dd73a658f9587cfa2b02bfe3ea3f04aa755a5e9923",
+      "adjuntos": []
+    },
+    {
+      "id": "1397271842397491250",
+      "fecha_utc": "2025-07-22T17:39:27.283000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": "2025-07-22T17:39:50.625000+00:00",
+      "texto": "Arwen: **Va contandote tooooodooo lo que ha hecho en el sur. Todo todo, cada zanja y cada trampa llena de caca que ha hecho**",
+      "mensaje_sha256": "c1a595e22c48f86e967725331ec462d45cacf8bfa5ca40a873bc77baf1e06e0c",
+      "tipo_discord": 19,
+      "referencia": "1397269044964622497",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1397271842397491250",
+      "texto_sha256": "028362d371b405bc74cc267946f2451b8cea0b63b4dd1e92c15c8a59294fea69",
+      "adjuntos": []
+    },
+    {
+      "id": "1397288916859752631",
+      "fecha_utc": "2025-07-22T18:47:18.152000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": "2025-07-22T18:51:49.789000+00:00",
+      "texto": "Banzo : en cuanto entremos a ver si eres capaz de identificar y recordar el olor de los guardias de palacio el próximo dia te preguntaré a ver si eres capaz de identificar a cada uno *o de pillar al que no sea ...* <@753394009153732689>",
+      "mensaje_sha256": "b7489775fc556a82d44789fb9bdbc70a73b5c6c86411150934bcf3326974864a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1397288916859752631",
+      "texto_sha256": "f3e180b460917274c106f170eda4f2a124b4d739ab203dc52defad4358ec08b3",
+      "adjuntos": []
+    },
+    {
+      "id": "1397289721021075476",
+      "fecha_utc": "2025-07-22T18:50:29.879000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": null,
+      "texto": "Arwen: mmmmhhh Arwen intentar",
+      "mensaje_sha256": "bf4d72911cc63f02802ad58a8ea36599cfcb4f52a931727d2f3c09f405da596b",
+      "tipo_discord": 19,
+      "referencia": "1397288916859752631",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1397289721021075476",
+      "texto_sha256": "ab4a3675975a7a1c11cf5d1af36d752d3fd3971473ee9e8cbd32193bd2ea59ad",
+      "adjuntos": []
+    },
+    {
+      "id": "1397298430379950121",
+      "fecha_utc": "2025-07-22T19:25:06.352000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "acb170817ffe22780817e63105b59e0ee585a680f93ac7bd223c1b9249652981",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1397298430379950121",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

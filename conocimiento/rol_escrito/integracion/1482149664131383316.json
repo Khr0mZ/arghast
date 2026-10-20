@@ -1,0 +1,932 @@
+{
+  "hilo_id": "1482149664131383316",
+  "hilo": "Cuicapalli - La villa tranquila",
+  "campana": "xoltacan",
+  "unidades_leidas": 20,
+  "alcance": "Veintiuna partes leídas completas; plano y tres ilustraciones inspeccionados. Apertura y FIN aislado excluidos como escenas. Viñetas independientes separadas; sin reconstruir combates de vídeo.",
+  "identidades": [
+    {
+      "nombre": "Edahi",
+      "alias": [
+        "Guayacán",
+        "Guayacán Epinayú"
+      ],
+      "pruebas": [
+        "1497211210574073927",
+        "1502440723562369095"
+      ],
+      "nota": "Nombre revelado privadamente a Leona. Hombre bajo un traje emplumado; su identificación aviar es una vivencia declarada, sin cambio de especie demostrado.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1497211210574073927",
+          "escena": "x-1497126880858607700",
+          "fecha_utc": "2026-04-24T12:22:49.440000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1497211210574073927"
+        },
+        {
+          "mensaje_id": "1502440723562369095",
+          "escena": "x-1502430369985855568",
+          "fecha_utc": "2026-05-08T22:43:02.496000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1502440723562369095"
+        }
+      ]
+    },
+    {
+      "nombre": "Leona Longhop",
+      "alias": [
+        "Leona",
+        "Futura líder"
+      ],
+      "pruebas": [
+        "1497215460184162325",
+        "1502423112824913990",
+        "1525546459913519115"
+      ],
+      "nota": "Tratamiento aspiracional y confianza del líder, sin nombramiento de sucesión formal.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1497215460184162325",
+          "escena": "x-1497126880858607700",
+          "fecha_utc": "2026-04-24T12:39:42.626000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1497215460184162325"
+        },
+        {
+          "mensaje_id": "1502423112824913990",
+          "escena": "x-1502416387870556191",
+          "fecha_utc": "2026-05-08T21:33:03.769000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1502423112824913990"
+        },
+        {
+          "mensaje_id": "1525546459913519115",
+          "escena": "x-1525362897662906398",
+          "fecha_utc": "2026-07-11T16:56:59.326000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1525546459913519115"
+        }
+      ]
+    },
+    {
+      "nombre": "Luna",
+      "alias": [
+        "Lunaria Salada",
+        "Gran chamán"
+      ],
+      "pruebas": [
+        "1486717524392415373"
+      ],
+      "nota": "Nueva presentación de la misma kender.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1486717524392415373",
+          "escena": "x-1486621029311975574",
+          "fecha_utc": "2026-03-26T13:24:39.691000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1486717524392415373"
+        }
+      ]
+    },
+    {
+      "nombre": "Zippo",
+      "alias": [
+        "Salamandra de fuego"
+      ],
+      "pruebas": [
+        "1484148247600824471",
+        "1500067860217597993"
+      ],
+      "nota": "El narrador también la denomina elemental; cría de dragón es la interpretación de Poncelot.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1484148247600824471",
+          "escena": "x-1484138901583953951",
+          "fecha_utc": "2026-03-19T11:15:16.369000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1484148247600824471"
+        },
+        {
+          "mensaje_id": "1500067860217597993",
+          "escena": "x-1500067860217597993",
+          "fecha_utc": "2026-05-02T09:34:07.789000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1500067860217597993"
+        }
+      ]
+    },
+    {
+      "nombre": "Eztli",
+      "alias": [
+        "Eztil"
+      ],
+      "pruebas": [
+        "1511524474162384936",
+        "1511609971555438592"
+      ],
+      "nota": "Nombre que Citlali pone al pequeño dinosaurio; Eztil es variante escrita del narrador.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1511524474162384936",
+          "escena": "x-1511524474162384936",
+          "fecha_utc": "2026-06-03T00:18:37.407000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1511524474162384936"
+        },
+        {
+          "mensaje_id": "1511609971555438592",
+          "escena": "x-1511609971555438592",
+          "fecha_utc": "2026-06-03T05:58:21.574000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1511609971555438592"
+        }
+      ]
+    },
+    {
+      "nombre": "Āyōtōchtli Tonatiuh",
+      "alias": [
+        "Ayoto",
+        "Ayato"
+      ],
+      "pruebas": [
+        "1485221493045465139",
+        "1527241315186774116",
+        "1528783643185516614"
+      ],
+      "nota": "Continuidad del guerrero de chimalli y Tonatiuh; conservar grafías de los originales.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1485221493045465139",
+          "escena": "x-1485221493045465139",
+          "fecha_utc": "2026-03-22T10:19:58.023000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1485221493045465139"
+        },
+        {
+          "mensaje_id": "1527241315186774116",
+          "escena": "x-1527241315186774116",
+          "fecha_utc": "2026-07-16T09:11:44.312000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1527241315186774116"
+        },
+        {
+          "mensaje_id": "1528783643185516614",
+          "escena": "x-1528783643185516614",
+          "fecha_utc": "2026-07-20T15:20:23.962000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1528783643185516614"
+        }
+      ]
+    },
+    {
+      "nombre": "Tlaxcaltecuthli",
+      "alias": [
+        "Tlaxca",
+        "Tlāxca"
+      ],
+      "pruebas": [
+        "1527249742055079996",
+        "1527262541938430013",
+        "1527274629474029629"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1527249742055079996",
+          "escena": "x-1527241315186774116",
+          "fecha_utc": "2026-07-16T09:45:13.434000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1527249742055079996"
+        },
+        {
+          "mensaje_id": "1527262541938430013",
+          "escena": "x-1527241315186774116",
+          "fecha_utc": "2026-07-16T10:36:05.164000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1527262541938430013"
+        },
+        {
+          "mensaje_id": "1527274629474029629",
+          "escena": "x-1527241315186774116",
+          "fecha_utc": "2026-07-16T11:24:07.057000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1527274629474029629"
+        }
+      ]
+    },
+    {
+      "nombre": "Parroter",
+      "alias": [
+        "Parrotier"
+      ],
+      "pruebas": [
+        "1505625395201048637",
+        "1525820723434618981"
+      ],
+      "nota": "Chamán kenku y alquimista de la villa; variantes del mismo nombre en el diálogo.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1505625395201048637",
+          "escena": "x-1505604450889371892",
+          "fecha_utc": "2026-05-17T17:37:47.383000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1505625395201048637"
+        },
+        {
+          "mensaje_id": "1525820723434618981",
+          "escena": "x-1525362897662906398",
+          "fecha_utc": "2026-07-12T11:06:48.845000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1525820723434618981"
+        }
+      ]
+    },
+    {
+      "nombre": "Pinky",
+      "alias": [
+        "Pucky",
+        "Picky"
+      ],
+      "pruebas": [
+        "1486722133433254021",
+        "1500151620120612995",
+        "1500166046181626149"
+      ],
+      "nota": "La referencia a la pistola y a cubrir la aldea de cáñamo acredita los intentos de recordar su nombre.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1486722133433254021",
+          "escena": "x-1486621029311975574",
+          "fecha_utc": "2026-03-26T13:42:58.572000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1486722133433254021"
+        },
+        {
+          "mensaje_id": "1500151620120612995",
+          "escena": "x-1500067860217597993",
+          "fecha_utc": "2026-05-02T15:06:57.706000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1500151620120612995"
+        },
+        {
+          "mensaje_id": "1500166046181626149",
+          "escena": "x-1500067860217597993",
+          "fecha_utc": "2026-05-02T16:04:17.147000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1500166046181626149"
+        }
+      ]
+    }
+  ],
+  "arcos": [
+    {
+      "nombre": "Eromov y el veneno",
+      "avance": "Enferma tras reuniones y permanece estable al principio. Parroter contiene la aflicción y pide muestra auténtica. Después empeora. Leona trae viales y recetas de Iktan; el chamán trabaja y más tarde confirma mejoría tras el antídoto, aún sin recuperación completa.",
+      "pruebas": [
+        "1500133436214739096",
+        "1505629017657573550",
+        "1525819395765698701",
+        "1525820723434618981",
+        "1528736218324664411",
+        "1528738073813455023"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1500133436214739096",
+          "escena": "x-1500067860217597993",
+          "fecha_utc": "2026-05-02T13:54:42.325000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1500133436214739096"
+        },
+        {
+          "mensaje_id": "1505629017657573550",
+          "escena": "x-1505604450889371892",
+          "fecha_utc": "2026-05-17T17:52:11.044000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1505629017657573550"
+        },
+        {
+          "mensaje_id": "1525819395765698701",
+          "escena": "x-1525362897662906398",
+          "fecha_utc": "2026-07-12T11:01:32.304000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1525819395765698701"
+        },
+        {
+          "mensaje_id": "1525820723434618981",
+          "escena": "x-1525362897662906398",
+          "fecha_utc": "2026-07-12T11:06:48.845000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1525820723434618981"
+        },
+        {
+          "mensaje_id": "1528736218324664411",
+          "escena": "x-1528730818372178051",
+          "fecha_utc": "2026-07-20T12:11:56.994000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1528736218324664411"
+        },
+        {
+          "mensaje_id": "1528738073813455023",
+          "escena": "x-1528730818372178051",
+          "fecha_utc": "2026-07-20T12:19:19.377000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1528738073813455023"
+        }
+      ]
+    },
+    {
+      "nombre": "Advertir a Iktan",
+      "avance": "Eromov teme que los yuan-ti repitan su infiltración en el Festival del Anciano de Piedra. Encarga a Leona advertir a Walulu y proteger la ciudad, precisando que no es una orden de rastreo. Ella deja a Guayacán cuidando la aldea, viaja y regresa con ayuda.",
+      "pruebas": [
+        "1521816753926045776",
+        "1521820342790787132",
+        "1521838642698387478",
+        "1525799864405983272"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1521816753926045776",
+          "escena": "x-1521808344829132881",
+          "fecha_utc": "2026-07-01T09:56:28.124000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1521816753926045776"
+        },
+        {
+          "mensaje_id": "1521820342790787132",
+          "escena": "x-1521808344829132881",
+          "fecha_utc": "2026-07-01T10:10:43.776000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1521820342790787132"
+        },
+        {
+          "mensaje_id": "1521838642698387478",
+          "escena": "x-1521808344829132881",
+          "fecha_utc": "2026-07-01T11:23:26.814000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1521838642698387478"
+        },
+        {
+          "mensaje_id": "1525799864405983272",
+          "escena": "x-1525362897662906398",
+          "fecha_utc": "2026-07-12T09:43:55.665000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1525799864405983272"
+        }
+      ]
+    },
+    {
+      "nombre": "Edahi y su identidad de luchador",
+      "avance": "Las roturas revelan humanidad bajo el traje. En privado explica su infancia enfermiza y admiración por luchadores aviares, entrega su nombre a Leona y empieza a entrenar como su alumno. No se narra transformación literal ni solución total de su conflicto.",
+      "pruebas": [
+        "1497209241407193230",
+        "1502428817195532329",
+        "1502430369985855568",
+        "1502440723562369095",
+        "1502442143061381160",
+        "1502444557508546590"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1497209241407193230",
+          "escena": "x-1497126880858607700",
+          "fecha_utc": "2026-04-24T12:14:59.954000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1497209241407193230"
+        },
+        {
+          "mensaje_id": "1502428817195532329",
+          "escena": "x-1502416387870556191",
+          "fecha_utc": "2026-05-08T21:55:43.797000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1502428817195532329"
+        },
+        {
+          "mensaje_id": "1502430369985855568",
+          "escena": "x-1502430369985855568",
+          "fecha_utc": "2026-05-08T22:01:54.011000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1502430369985855568"
+        },
+        {
+          "mensaje_id": "1502440723562369095",
+          "escena": "x-1502430369985855568",
+          "fecha_utc": "2026-05-08T22:43:02.496000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1502440723562369095"
+        },
+        {
+          "mensaje_id": "1502442143061381160",
+          "escena": "x-1502430369985855568",
+          "fecha_utc": "2026-05-08T22:48:40.931000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1502442143061381160"
+        },
+        {
+          "mensaje_id": "1502444557508546590",
+          "escena": "x-1502430369985855568",
+          "fecha_utc": "2026-05-08T22:58:16.580000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1502444557508546590"
+        }
+      ]
+    },
+    {
+      "nombre": "La investigación de las serpientes",
+      "avance": "El grupo pasa de seguir huellas y siseos a preguntar por la infiltración. Ayoto propone defensa colectiva e investigación metódica. Los guardias informan de cambios de apariencia y accesos oeste y sur, pero no conocen la causa exacta del envenenamiento. Guayacán sospecha de un guardia; sigue siendo hipótesis. Preparan consultar Iktan.",
+      "pruebas": [
+        "1528783643185516614",
+        "1528821338247270460",
+        "1529407627132670032",
+        "1529415987789697034",
+        "1529474933925740755",
+        "1529499896003166218",
+        "1529501430363455549"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1528783643185516614",
+          "escena": "x-1528783643185516614",
+          "fecha_utc": "2026-07-20T15:20:23.962000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1528783643185516614"
+        },
+        {
+          "mensaje_id": "1528821338247270460",
+          "escena": "x-1528783643185516614",
+          "fecha_utc": "2026-07-20T17:50:11.165000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1528821338247270460"
+        },
+        {
+          "mensaje_id": "1529407627132670032",
+          "escena": "x-1528783643185516614",
+          "fecha_utc": "2026-07-22T08:39:53.328000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1529407627132670032"
+        },
+        {
+          "mensaje_id": "1529415987789697034",
+          "escena": "x-1528783643185516614",
+          "fecha_utc": "2026-07-22T09:13:06.664000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1529415987789697034"
+        },
+        {
+          "mensaje_id": "1529474933925740755",
+          "escena": "x-1528783643185516614",
+          "fecha_utc": "2026-07-22T13:07:20.518000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1529474933925740755"
+        },
+        {
+          "mensaje_id": "1529499896003166218",
+          "escena": "x-1528783643185516614",
+          "fecha_utc": "2026-07-22T14:46:31.941000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1529499896003166218"
+        },
+        {
+          "mensaje_id": "1529501430363455549",
+          "escena": "x-1528783643185516614",
+          "fecha_utc": "2026-07-22T14:52:37.761000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1529501430363455549"
+        }
+      ]
+    },
+    {
+      "nombre": "Citlali y sus pérdidas",
+      "avance": "Percibe rejuvenecimiento y heridas cerradas tras el encuentro con serpientes, con culpa privada. Regresa a Shiaru con Pinky y Luna para cuidar el huevo. Más tarde protege al dinosaurio Eztli, recuerda a Jim bebé y vela por él en una cueva que resulta llena de veneno y serpientes.",
+      "pruebas": [
+        "1484320379274002692",
+        "1490769386221469876",
+        "1491471304816328766",
+        "1511524474162384936",
+        "1511609971555438592"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1484320379274002692",
+          "escena": "x-1484320379274002692",
+          "fecha_utc": "2026-03-19T22:39:15.758000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1484320379274002692"
+        },
+        {
+          "mensaje_id": "1490769386221469876",
+          "escena": "x-1490769386221469876",
+          "fecha_utc": "2026-04-06T17:45:18.831000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1490769386221469876"
+        },
+        {
+          "mensaje_id": "1491471304816328766",
+          "escena": "x-1490769386221469876",
+          "fecha_utc": "2026-04-08T16:14:29.265000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1491471304816328766"
+        },
+        {
+          "mensaje_id": "1511524474162384936",
+          "escena": "x-1511524474162384936",
+          "fecha_utc": "2026-06-03T00:18:37.407000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1511524474162384936"
+        },
+        {
+          "mensaje_id": "1511609971555438592",
+          "escena": "x-1511609971555438592",
+          "fecha_utc": "2026-06-03T05:58:21.574000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1511609971555438592"
+        }
+      ]
+    },
+    {
+      "nombre": "Pinky y Luna",
+      "avance": "Luna cambia una pistola JH por una plantación. Pinky toma el falso disparo de una ilusión sonora como prueba de inmunidad. Con Citlali aclara el reparto de venta de chocolates y acepta acompañarla para mantener el suministro.",
+      "pruebas": [
+        "1486720637576810556",
+        "1486722133433254021",
+        "1486722859786178560",
+        "1486723997810032761",
+        "1490811625270284323",
+        "1490817221482647632"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1486720637576810556",
+          "escena": "x-1486621029311975574",
+          "fecha_utc": "2026-03-26T13:37:01.932000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1486720637576810556"
+        },
+        {
+          "mensaje_id": "1486722133433254021",
+          "escena": "x-1486621029311975574",
+          "fecha_utc": "2026-03-26T13:42:58.572000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1486722133433254021"
+        },
+        {
+          "mensaje_id": "1486722859786178560",
+          "escena": "x-1486621029311975574",
+          "fecha_utc": "2026-03-26T13:45:51.748000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1486722859786178560"
+        },
+        {
+          "mensaje_id": "1486723997810032761",
+          "escena": "x-1486621029311975574",
+          "fecha_utc": "2026-03-26T13:50:23.074000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1486723997810032761"
+        },
+        {
+          "mensaje_id": "1490811625270284323",
+          "escena": "x-1490769386221469876",
+          "fecha_utc": "2026-04-06T20:33:09.405000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1490811625270284323"
+        },
+        {
+          "mensaje_id": "1490817221482647632",
+          "escena": "x-1490769386221469876",
+          "fecha_utc": "2026-04-06T20:55:23.646000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1490817221482647632"
+        }
+      ]
+    },
+    {
+      "nombre": "La comida y la recompensa",
+      "avance": "Guayacán carga a Ayoto agotado y pide comida vegetariana a Tlaxca. El picante le sienta mal; Leona le presta agua y la invitación posterior se aplaza. Cuando va a su casa, la recompensa concreta son bolas de arroz.",
+      "pruebas": [
+        "1527253287773012088",
+        "1527274629474029629",
+        "1527658638166982786",
+        "1527975629486555208",
+        "1528715473024319518"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1527253287773012088",
+          "escena": "x-1527241315186774116",
+          "fecha_utc": "2026-07-16T09:59:18.799000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1527253287773012088"
+        },
+        {
+          "mensaje_id": "1527274629474029629",
+          "escena": "x-1527241315186774116",
+          "fecha_utc": "2026-07-16T11:24:07.057000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1527274629474029629"
+        },
+        {
+          "mensaje_id": "1527658638166982786",
+          "escena": "x-1527615427444871301",
+          "fecha_utc": "2026-07-17T12:50:01.864000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1527658638166982786"
+        },
+        {
+          "mensaje_id": "1527975629486555208",
+          "escena": "x-1527615427444871301",
+          "fecha_utc": "2026-07-18T09:49:38.484000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1527975629486555208"
+        },
+        {
+          "mensaje_id": "1528715473024319518",
+          "escena": "x-1528714214393516133",
+          "fecha_utc": "2026-07-20T10:49:30.929000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1528715473024319518"
+        }
+      ]
+    }
+  ],
+  "pendientes": [
+    {
+      "pregunta": "¿Se recupera completamente Eromov y qué información proporciona después?",
+      "pruebas": [
+        "1528738073813455023",
+        "1529014770873929768"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1528738073813455023",
+          "escena": "x-1528730818372178051",
+          "fecha_utc": "2026-07-20T12:19:19.377000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1528738073813455023"
+        },
+        {
+          "mensaje_id": "1529014770873929768",
+          "escena": "x-1528783643185516614",
+          "fecha_utc": "2026-07-21T06:38:49.097000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1529014770873929768"
+        }
+      ],
+      "cotejo_posterior": {
+        "estado": "parcial",
+        "respuesta": "La mejoría observada en Cuicapalli no es su estado final: Jungla muestra después el traslado del cuerpo sin vida de Eromov hacia Iktan, con Leona presente.",
+        "pendiente": "El transporte confirma la muerte posterior, sin establecer aquí su mecanismo exacto ni convertir la mejoría anterior en una mentira o un fallo médico demostrado.",
+        "pruebas": [
+          "1552234324106149940"
+        ],
+        "orden_temporal": "posterior",
+        "fuentes_rol": [
+          {
+            "mensaje_id": "1552234324106149940",
+            "escena": "x-1552234324106149940",
+            "fecha_utc": "2026-09-23T08:25:01.986000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1552234324106149940"
+          }
+        ]
+      }
+    },
+    {
+      "pregunta": "¿Quién, cómo y por dónde introdujo el veneno? ¿Hay un infiltrado entre los guardias?",
+      "pruebas": [
+        "1529407627132670032",
+        "1529474933925740755"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1529407627132670032",
+          "escena": "x-1528783643185516614",
+          "fecha_utc": "2026-07-22T08:39:53.328000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1529407627132670032"
+        },
+        {
+          "mensaje_id": "1529474933925740755",
+          "escena": "x-1528783643185516614",
+          "fecha_utc": "2026-07-22T13:07:20.518000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1529474933925740755"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Se hace el viaje de Guayacán y Ayoto a Iktan y qué pistas comparan?",
+      "pruebas": [
+        "1529499896003166218",
+        "1529501430363455549"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1529499896003166218",
+          "escena": "x-1528783643185516614",
+          "fecha_utc": "2026-07-22T14:46:31.941000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1529499896003166218"
+        },
+        {
+          "mensaje_id": "1529501430363455549",
+          "escena": "x-1528783643185516614",
+          "fecha_utc": "2026-07-22T14:52:37.761000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1529501430363455549"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Se autoriza y realiza el entrenamiento colectivo de los defensores?",
+      "pruebas": [
+        "1528783643185516614",
+        "1528787886332317951"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1528783643185516614",
+          "escena": "x-1528783643185516614",
+          "fecha_utc": "2026-07-20T15:20:23.962000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1528783643185516614"
+        },
+        {
+          "mensaje_id": "1528787886332317951",
+          "escena": "x-1528783643185516614",
+          "fecha_utc": "2026-07-20T15:37:15.607000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1528787886332317951"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Recibe Ayoto el nuevo chimalli de escamas del Escupelodo?",
+      "pruebas": [
+        "1527241315186774116"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1527241315186774116",
+          "escena": "x-1527241315186774116",
+          "fecha_utc": "2026-07-16T09:11:44.312000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1527241315186774116"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué causa el rejuvenecimiento de Citlali y qué peligro real tiene la cueva de Eztli?",
+      "pruebas": [
+        "1484320379274002692",
+        "1511609971555438592"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1484320379274002692",
+          "escena": "x-1484320379274002692",
+          "fecha_utc": "2026-03-19T22:39:15.758000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1484320379274002692"
+        },
+        {
+          "mensaje_id": "1511609971555438592",
+          "escena": "x-1511609971555438592",
+          "fecha_utc": "2026-06-03T05:58:21.574000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1511609971555438592"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién es Jim dentro de los recuerdos de Citlali y cómo enlaza con su historia?",
+      "pruebas": [
+        "1511524474162384936"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1511524474162384936",
+          "escena": "x-1511524474162384936",
+          "fecha_utc": "2026-06-03T00:18:37.407000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1511524474162384936"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿A quién pertenecía la pistola con iniciales JH?",
+      "pruebas": [
+        "1486720637576810556"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1486720637576810556",
+          "escena": "x-1486621029311975574",
+          "fecha_utc": "2026-03-26T13:37:01.932000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1486720637576810556"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿A quién ve Guayacán como sus hermanos y llega a obtener respuesta?",
+      "pruebas": [
+        "1489533834339811389"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1489533834339811389",
+          "escena": "x-1489533834339811389",
+          "fecha_utc": "2026-04-03T07:55:40.307000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1489533834339811389"
+        }
+      ]
+    }
+  ],
+  "relaciones": [
+    {
+      "personas": [
+        "Leona",
+        "Edahi / Guayacán"
+      ],
+      "desarrollo": "Maestra y alumno explícitos, secreto confiado, encargos, cuidados y afecto creciente. Halagos, abrazo y pensamientos de atracción no equivalen a una pareja declarada.",
+      "pruebas": [
+        "1502442143061381160",
+        "1521843408623112203",
+        "1525806661653102592",
+        "1528715473024319518"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1502442143061381160",
+          "escena": "x-1502430369985855568",
+          "fecha_utc": "2026-05-08T22:48:40.931000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1502442143061381160"
+        },
+        {
+          "mensaje_id": "1521843408623112203",
+          "escena": "x-1521808344829132881",
+          "fecha_utc": "2026-07-01T11:42:23.099000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1521843408623112203"
+        },
+        {
+          "mensaje_id": "1525806661653102592",
+          "escena": "x-1525362897662906398",
+          "fecha_utc": "2026-07-12T10:10:56.255000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1525806661653102592"
+        },
+        {
+          "mensaje_id": "1528715473024319518",
+          "escena": "x-1528714214393516133",
+          "fecha_utc": "2026-07-20T10:49:30.929000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1528715473024319518"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Eromov",
+        "Leona"
+      ],
+      "desarrollo": "Afecto y confianza desde su infancia, mandato de proteger otra ciudad y preocupación recíproca. Niña mía no prueba paternidad biológica.",
+      "pruebas": [
+        "1521814154384511116",
+        "1521816753926045776",
+        "1525546459913519115"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1521814154384511116",
+          "escena": "x-1521808344829132881",
+          "fecha_utc": "2026-07-01T09:46:08.345000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1521814154384511116"
+        },
+        {
+          "mensaje_id": "1521816753926045776",
+          "escena": "x-1521808344829132881",
+          "fecha_utc": "2026-07-01T09:56:28.124000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1521816753926045776"
+        },
+        {
+          "mensaje_id": "1525546459913519115",
+          "escena": "x-1525362897662906398",
+          "fecha_utc": "2026-07-11T16:56:59.326000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1525546459913519115"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Citlali",
+        "Eztli"
+      ],
+      "desarrollo": "Cuidado maternal explícito, alimentación, nombre y vigilancia nocturna; dinosaurio sin parentesco humano literal.",
+      "pruebas": [
+        "1511524474162384936"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1511524474162384936",
+          "escena": "x-1511524474162384936",
+          "fecha_utc": "2026-06-03T00:18:37.407000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1511524474162384936"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Citlali",
+        "Pinky",
+        "Luna"
+      ],
+      "desarrollo": "Acuerdo comercial con Pinky y compañía de viaje con Luna. Los apelativos de abuela no prueban parentesco.",
+      "pruebas": [
+        "1490811625270284323",
+        "1490826475559981199",
+        "1491471304816328766"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1490811625270284323",
+          "escena": "x-1490769386221469876",
+          "fecha_utc": "2026-04-06T20:33:09.405000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1490811625270284323"
+        },
+        {
+          "mensaje_id": "1490826475559981199",
+          "escena": "x-1490769386221469876",
+          "fecha_utc": "2026-04-06T21:32:09.990000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1490826475559981199"
+        },
+        {
+          "mensaje_id": "1491471304816328766",
+          "escena": "x-1490769386221469876",
+          "fecha_utc": "2026-04-08T16:14:29.265000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1491471304816328766"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Sir Poncelot",
+        "Zippo"
+      ],
+      "desarrollo": "El gnomo intenta contratarla con comida sin que lo entienda. Zippo lo transporta para huir de un espinosauro.",
+      "pruebas": [
+        "1484154289147478118",
+        "1484171165663760422"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1484154289147478118",
+          "escena": "x-1484138901583953951",
+          "fecha_utc": "2026-03-19T11:39:16.786000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1484154289147478118"
+        },
+        {
+          "mensaje_id": "1484171165663760422",
+          "escena": "x-1484138901583953951",
+          "fecha_utc": "2026-03-19T12:46:20.461000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1484171165663760422"
+        }
+      ]
+    }
+  ],
+  "precauciones_editoriales": [
+    "No conceder poderes por entrenar, comer, practicar respiración o reparar el traje.",
+    "La inmunidad al disparo de Pinky es una conclusión errónea tras una broma sonora.",
+    "Las escenas posteriores al catálogo mantienen su posición junto a directos sin crear vídeos ficticios.",
+    "Jim es un recuerdo sin identidad pública completa en este hilo.",
+    "La recompensa se concreta como comida y no debe erotizarse por conjetura.",
+    "Los testimonios sobre ataques previos no sustituyen su transcripción de vídeo.",
+    "Los distintos venenos y la amenaza del dragón de Iktan no se fusionan automáticamente con los yuan-ti."
+  ],
+  "estado_seguimiento": "al_cierre_del_hilo",
+  "nota_seguimiento": "Cada cuestión conserva el contexto de sus mensajes originales. Los cotejos enlazan las respuestas halladas en otras escenas; la ausencia de un cotejo no demuestra que siga abierta después de otros capítulos.",
+  "fecha_hasta_utc": "2026-07-22T15:13:45.215000+00:00"
+}

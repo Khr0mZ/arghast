@@ -1,0 +1,78 @@
+{
+  "id": "x-1544846174010343455",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1544846174010343455",
+  "hilo_id": "1524091803647741996",
+  "hilo_nombre": "Jungla - En alguna parte de Xoltacán",
+  "titulo": "Citlali recibe otra marca y recuerda a Luna",
+  "resumen": "Un episodio doloroso deja un nuevo tatuaje; la cuidadora continúa cazando para Eztli tras lamentar la pérdida.",
+  "relato": "Eztli está creciendo y ya necesita algo más que los pequeños bichos que Citlali recolectaba. Ella sale de Iktan para cazar cuando un ardor en el pecho se extiende, le corta la respiración y hace brillar los tatuajes. Cae al suelo y, al recuperarse, descubre una nueva marca.\n\nUna chispa pasa ante sus ojos y pronuncia el nombre de Luna. La mujer interpreta la pérdida como otro fracaso de su cuidado. Llora, promete que esas muertes no serán en vano y vuelve a internarse en la jungla con su arco.\n\nContinúa porque Eztli aún depende de ella. La escena muestra el dolor y la marca nueva, pero no prueba que su actuación causara la desaparición de Luna ni explica la ley exacta de la maldición.",
+  "participantes": [
+    "Citlali"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1544846174010343455",
+      "afirmacion": "Un episodio doloroso produce un nuevo tatuaje y Citlali lo relaciona con Luna antes de seguir cazando para Eztli.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La culpa es su interpretación, sin causalidad demostrada.",
+    "No se completa aquí la cacería ni se nombra el diseño de la marca."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-09-02T23:07:09.738000+00:00",
+  "fin_utc": "2026-09-02T23:07:09.738000+00:00",
+  "fecha_local": "2026-09-03",
+  "intervalo": {
+    "anterior": 56,
+    "siguiente": 57,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1541149597714350182",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1545132987136344065",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 56,
+        "fecha": "2026-08-23",
+        "inicio_referencia_utc": "2026-08-23T18:12:54+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1541149597714350182"
+      },
+      {
+        "capitulo": 57,
+        "fecha": "2026-09-03",
+        "inicio_referencia_utc": "2026-09-03T18:02:12+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1545132987136344065"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1544846174010343455",
+      "fecha_utc": "2026-09-02T23:07:09.738000+00:00",
+      "fecha_local": "2026-09-03",
+      "editado_utc": null,
+      "texto": "Citlali:\n**Eztli poco a poco empezaba a crecer, ya no solo le bastaban los bichitos que le conseguía para comer, así que decidí salir un momento de Iktan y cazar algo más sustancioso para el.**\n\n**El olor de la tierra y las plantas a mi alrededor me daban un poco de calma hasta que el ardor en mi pecho empezó a extenderse, nuevamente esa punzada en medio de mis costillas, el desgarrador dolor que me impedía gritar mientras caía al suelo de rodillas, tratando de respirar con urgencia, la piel me quemaba y mis tatuajes empezaban a brillar con intensidad.**\n\n**El tiempo se detuvo un momento hasta que al fin di una bocanada de aire, mi cuerpo se encontraba en el suelo mientras que un nuevo tatuaje se formaba en mi cuerpo.**\n\n*No... No... Otro más no...*\n\n**Poco a poco levantaba la vista y una chispita que parecía ser de una braza apagándose se cruzó con mi mirada**\n\nMi pequeña Luna...\n\n**Me reincorporé tambaleante, sosteniendome de los árboles que se encontraban a mi alrededor**\n\nTe fallé, les he fallado a todos\n\n**Las lágrimas caían por mi rostro, mientras sostenía mi arco**\n\nSus muertes no serán en vano, lo juro\n\n**Con la cara en alto y limpiandome las lágrimas, continue caminando, adentrandome aún más para cazar la comida de Eztli, aún el me necesita y no puedo fallarle, no puedo fallarle a nadie más**\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "5d3fd17f2a5b4529f997d08d0dac1bbbb150ca44d3a1d9bfcdba78022717ba24",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1544846174010343455",
+      "texto_sha256": "c018426a23bbadcb74e0cf9ec1fa81e86eb6e8e451751465440cd64c962f52bf",
+      "adjuntos": []
+    }
+  ]
+}

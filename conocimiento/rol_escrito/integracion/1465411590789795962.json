@@ -1,0 +1,1151 @@
+{
+  "hilo_id": "1465411590789795962",
+  "hilo": "Shiaru - El ron de Bonny",
+  "campana": "xoltacan",
+  "unidades_leidas": 32,
+  "alcance": "Lectura íntegra de todas las partes y adjuntos del hilo asignado. Se separan relatos de vídeo, pensamientos privados, ficción metanarrativa y testimonios retrospectivos.",
+  "identidades": [
+    {
+      "nombre": "Happy Bonny",
+      "alias": [
+        "Angry Bonny",
+        "Bonny"
+      ],
+      "pruebas": [
+        "1468628611706781927",
+        "1477654857967210661"
+      ],
+      "nota": "Variantes de humor de una misma capitana; reina pirata no convierte Shiaru en una corte feudal real.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1468628611706781927",
+          "escena": "x-1468619012509536378",
+          "fecha_utc": "2026-02-04T15:25:46.831000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1468628611706781927"
+        },
+        {
+          "mensaje_id": "1477654857967210661",
+          "escena": "x-1477623178846273671",
+          "fecha_utc": "2026-03-01T13:12:51.639000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1477654857967210661"
+        }
+      ]
+    },
+    {
+      "nombre": "Nox",
+      "alias": [],
+      "pruebas": [
+        "1466883318048886844",
+        "1505203995038191706"
+      ],
+      "nota": "Segundo al mando según Ione. Jim aparece en sus autoexhortaciones sin presentación nominal suficiente para fijar alias independiente.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1466883318048886844",
+          "escena": "x-1466700090918965396",
+          "fecha_utc": "2026-01-30T19:50:36.397000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1466883318048886844"
+        },
+        {
+          "mensaje_id": "1505203995038191706",
+          "escena": "x-1505136569097650276",
+          "fecha_utc": "2026-05-16T13:43:17.755000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1505203995038191706"
+        }
+      ]
+    },
+    {
+      "nombre": "Citlali",
+      "alias": [
+        "Mamá Citlali",
+        "Mamá"
+      ],
+      "pruebas": [
+        "1480556159092916427"
+      ],
+      "nota": "Titania/reina de las hadas son interpretaciones erróneas de Poncelot.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1480556159092916427",
+          "escena": "x-1480548648877031537",
+          "fecha_utc": "2026-03-09T13:21:35.731000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1480556159092916427"
+        }
+      ]
+    },
+    {
+      "nombre": "Sir Poncelot",
+      "alias": [
+        "Sir Poncelot de la Lanza"
+      ],
+      "pruebas": [
+        "1477642130988990595"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1477642130988990595",
+          "escena": "x-1477623178846273671",
+          "fecha_utc": "2026-03-01T12:22:17.291000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1477642130988990595"
+        }
+      ]
+    },
+    {
+      "nombre": "Aerendriel",
+      "alias": [
+        "Aerendriel Xalathor"
+      ],
+      "pruebas": [
+        "1476590554837155951"
+      ],
+      "nota": "La firma y su confirmación de nobleza respaldan la casa; no asumir la veracidad del supuesto hallazgo redactado bajo presión.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1476590554837155951",
+          "escena": "x-1476494777800458351",
+          "fecha_utc": "2026-02-26T14:43:41.999000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1476590554837155951"
+        }
+      ]
+    },
+    {
+      "nombre": "Jacky Jackson",
+      "alias": [
+        "Jackie Jackson",
+        "Jacky",
+        "Jackie"
+      ],
+      "pruebas": [
+        "1468619012509536378",
+        "1479831457106100224"
+      ],
+      "nota": "Exmarino convertido en tripulante y mensajero.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1468619012509536378",
+          "escena": "x-1468619012509536378",
+          "fecha_utc": "2026-02-04T14:47:38.204000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1468619012509536378"
+        },
+        {
+          "mensaje_id": "1479831457106100224",
+          "escena": "x-1479828448095768588",
+          "fecha_utc": "2026-03-07T13:21:53.313000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479831457106100224"
+        }
+      ]
+    },
+    {
+      "nombre": "Picks",
+      "alias": [],
+      "pruebas": [
+        "1468551770530648137",
+        "1475458615182884899"
+      ],
+      "nota": "Mono de la taberna protegido por Bonny.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1468551770530648137",
+          "escena": "x-1468551353885261954",
+          "fecha_utc": "2026-02-04T10:20:26.467000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1468551770530648137"
+        },
+        {
+          "mensaje_id": "1475458615182884899",
+          "escena": "x-1475458615182884899",
+          "fecha_utc": "2026-02-23T11:45:46.555000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1475458615182884899"
+        }
+      ]
+    },
+    {
+      "nombre": "Nadie",
+      "alias": [],
+      "pruebas": [
+        "1472602086037258301",
+        "1472609577127383353"
+      ],
+      "nota": "Compañero de Aerendriel; los términos iguana, cuervo o lagarto varían según observador y no fijan especie.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1472602086037258301",
+          "escena": "x-1472552556910612541",
+          "fecha_utc": "2026-02-15T14:34:56.935000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1472602086037258301"
+        },
+        {
+          "mensaje_id": "1472609577127383353",
+          "escena": "x-1472552556910612541",
+          "fecha_utc": "2026-02-15T15:04:42.950000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1472609577127383353"
+        }
+      ]
+    },
+    {
+      "nombre": "Diálogo",
+      "alias": [],
+      "pruebas": [
+        "1493282490780094574",
+        "1493283120395583760"
+      ],
+      "nota": "Bate de Ione; no espada ni una conversación abstracta.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1493282490780094574",
+          "escena": "x-1493245724471726171",
+          "fecha_utc": "2026-04-13T16:11:29.649000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1493282490780094574"
+        },
+        {
+          "mensaje_id": "1493283120395583760",
+          "escena": "x-1493245724471726171",
+          "fecha_utc": "2026-04-13T16:13:59.761000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1493283120395583760"
+        }
+      ]
+    },
+    {
+      "nombre": "Eleanor",
+      "alias": [
+        "Eleanor Roosevelt"
+      ],
+      "pruebas": [
+        "1524704855631859802"
+      ],
+      "nota": "Erandi la presenta como duquesa de la casa Roosevelt; Erandi es su escudera.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1524704855631859802",
+          "escena": "x-1523910607592493128",
+          "fecha_utc": "2026-07-09T09:12:45.229000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1524704855631859802"
+        }
+      ]
+    },
+    {
+      "nombre": "Tryel",
+      "alias": [],
+      "pruebas": [
+        "1480557515774234844"
+      ],
+      "nota": "Se presenta y da el nombre de Eldrath como hermano. La escena anterior de hermanos sin nombres se enlaza con cautela por continuidad, no por autor de Discord.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1480557515774234844",
+          "escena": "x-1480548648877031537",
+          "fecha_utc": "2026-03-09T13:26:59.189000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1480557515774234844"
+        }
+      ]
+    },
+    {
+      "nombre": "Mingo",
+      "alias": [],
+      "pruebas": [
+        "1508464935007555644"
+      ],
+      "nota": "Uno de los trillizos hipopótamos; se declara primer oficial. No fijar nombres para sus dos hermanos sin prueba.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1508464935007555644",
+          "escena": "x-1507311901221060748",
+          "fecha_utc": "2026-05-25T13:41:06.429000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1508464935007555644"
+        }
+      ]
+    }
+  ],
+  "arcos": [
+    {
+      "nombre": "El equilibrio Bonny–Molly",
+      "avance": "Se revela un pacto y un diezmo para evitar el ataque de la Marina. Las acciones del grupo elevan la deuda. Bonny luego pierde contacto con Molly y manda a Nox investigarla. En el tramo final aparece viva, ex-capitana y aliada de la defensa, sin explicar aquí la transición.",
+      "pruebas": [
+        "1468628611706781927",
+        "1471509713307963454",
+        "1508828441657737236",
+        "1524686697109917726"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1468628611706781927",
+          "escena": "x-1468619012509536378",
+          "fecha_utc": "2026-02-04T15:25:46.831000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1468628611706781927"
+        },
+        {
+          "mensaje_id": "1471509713307963454",
+          "escena": "x-1471472414809653332",
+          "fecha_utc": "2026-02-12T14:14:14.981000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1471509713307963454"
+        },
+        {
+          "mensaje_id": "1508828441657737236",
+          "escena": "x-1508758741682622495",
+          "fecha_utc": "2026-05-26T13:45:33.168000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1508828441657737236"
+        },
+        {
+          "mensaje_id": "1524686697109917726",
+          "escena": "x-1523910607592493128",
+          "fecha_utc": "2026-07-09T08:00:35.900000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1524686697109917726"
+        }
+      ]
+    },
+    {
+      "nombre": "Las gemas y el control económico",
+      "avance": "Liz revela un pago del hombre patata con una gema. Bonny exige recuperarlas y Nox devuelve una. El equipo rescatado permite imponer a Patata un diez por ciento de tesoros y veinte por ciento de huerto. Aerendriel obtiene dos semanas para producir oro bajo amenaza.",
+      "pruebas": [
+        "1470728082959892555",
+        "1476603598485065768",
+        "1479408929950929042",
+        "1476602406828507237"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1470728082959892555",
+          "escena": "x-1470728082959892555",
+          "fecha_utc": "2026-02-10T10:28:19.784000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1470728082959892555"
+        },
+        {
+          "mensaje_id": "1476603598485065768",
+          "escena": "x-1476494777800458351",
+          "fecha_utc": "2026-02-26T15:35:31.847000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1476603598485065768"
+        },
+        {
+          "mensaje_id": "1479408929950929042",
+          "escena": "x-1479387576749260852",
+          "fecha_utc": "2026-03-06T09:22:54.989000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479408929950929042"
+        },
+        {
+          "mensaje_id": "1476602406828507237",
+          "escena": "x-1476494777800458351",
+          "fecha_utc": "2026-02-26T15:30:47.734000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1476602406828507237"
+        }
+      ]
+    },
+    {
+      "nombre": "Cartas de Aerendriel",
+      "avance": "Redacta una carta familiar con un hallazgo como argumento bajo presión; después da sobres para Veramont y Lunebris a Jacky. Le consigue billete y el marino parte. Regresa más tarde con una carta diferente para Bonny, sin demostrar las respuestas de aquellos nobles.",
+      "pruebas": [
+        "1476590554837155951",
+        "1479835895271129269",
+        "1481320941383323689",
+        "1481342719610716342",
+        "1492176792763760711"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1476590554837155951",
+          "escena": "x-1476494777800458351",
+          "fecha_utc": "2026-02-26T14:43:41.999000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1476590554837155951"
+        },
+        {
+          "mensaje_id": "1479835895271129269",
+          "escena": "x-1479828448095768588",
+          "fecha_utc": "2026-03-07T13:39:31.454000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479835895271129269"
+        },
+        {
+          "mensaje_id": "1481320941383323689",
+          "escena": "x-1481320941383323689",
+          "fecha_utc": "2026-03-11T16:00:34.038000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1481320941383323689"
+        },
+        {
+          "mensaje_id": "1481342719610716342",
+          "escena": "x-1481320941383323689",
+          "fecha_utc": "2026-03-11T17:27:06.372000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1481342719610716342"
+        },
+        {
+          "mensaje_id": "1492176792763760711",
+          "escena": "x-1492176792763760711",
+          "fecha_utc": "2026-04-10T14:57:50.699000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1492176792763760711"
+        }
+      ]
+    },
+    {
+      "nombre": "El rescate de Picks",
+      "avance": "Su rastro llega al pantano del norte entre hombres lagarto. Poncelot informa del rescate y devuelve equipo; el mono está de nuevo presente. No se reconstruye el combate o rescate ausente.",
+      "pruebas": [
+        "1476502740241743893",
+        "1477642130988990595",
+        "1477685209464832070"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1476502740241743893",
+          "escena": "x-1476494777800458351",
+          "fecha_utc": "2026-02-26T08:54:45.368000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1476502740241743893"
+        },
+        {
+          "mensaje_id": "1477642130988990595",
+          "escena": "x-1477623178846273671",
+          "fecha_utc": "2026-03-01T12:22:17.291000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1477642130988990595"
+        },
+        {
+          "mensaje_id": "1477685209464832070",
+          "escena": "x-1477623178846273671",
+          "fecha_utc": "2026-03-01T15:13:28+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1477685209464832070"
+        }
+      ]
+    },
+    {
+      "nombre": "Los tatuajes y el cautiverio de Citlali",
+      "avance": "Citlali reconoce símbolos locales en Nox. Después Bonny la retiene, y Poncelot intenta hallarla sin éxito. La pirata desata sus manos y relata un ritual parcial activado con Molly que provocó locura y muertes. Nox propone que los tatuajes opuestos sean llaves, sin confirmar el mecanismo.",
+      "pruebas": [
+        "1467565043372658882",
+        "1501220172042866839",
+        "1504962795366776953",
+        "1504969212240592937",
+        "1505187814319325264"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1467565043372658882",
+          "escena": "x-1467485757097639938",
+          "fecha_utc": "2026-02-01T16:59:32.380000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1467565043372658882"
+        },
+        {
+          "mensaje_id": "1501220172042866839",
+          "escena": "x-1501220172042866839",
+          "fecha_utc": "2026-05-05T13:53:00.337000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1501220172042866839"
+        },
+        {
+          "mensaje_id": "1504962795366776953",
+          "escena": "x-1504953926569558127",
+          "fecha_utc": "2026-05-15T21:44:51.272000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1504962795366776953"
+        },
+        {
+          "mensaje_id": "1504969212240592937",
+          "escena": "x-1504969212240592937",
+          "fecha_utc": "2026-05-15T22:10:21.174000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1504969212240592937"
+        },
+        {
+          "mensaje_id": "1505187814319325264",
+          "escena": "x-1505136569097650276",
+          "fecha_utc": "2026-05-16T12:38:59.971000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1505187814319325264"
+        }
+      ]
+    },
+    {
+      "nombre": "El pasado de Nox",
+      "avance": "Dice que su antiguo capitán lo encontró en un cofre en una isla de otro plano y tatuó manuscritos en su piel. Citlali recuerda en privado una persecución y mano de seis dedos. Aquí no da una identificación abierta completa ni se resuelve dónde está el capitán.",
+      "pruebas": [
+        "1505203995038191706",
+        "1505205378143621312"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1505203995038191706",
+          "escena": "x-1505136569097650276",
+          "fecha_utc": "2026-05-16T13:43:17.755000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1505203995038191706"
+        },
+        {
+          "mensaje_id": "1505205378143621312",
+          "escena": "x-1505136569097650276",
+          "fecha_utc": "2026-05-16T13:48:47.513000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1505205378143621312"
+        }
+      ]
+    },
+    {
+      "nombre": "Los Cinco",
+      "avance": "Bonny recibe una carta con ese sello. Nox piensa en ella como miembro y exige asistir con Ione a su reunión. Tras paralizar a Citlali y amenazar con una pistola vacía, consigue una concesión condicionada al silencio y obediencia; la reunión no se celebra en el hilo.",
+      "pruebas": [
+        "1492176792763760711",
+        "1495805737018986706",
+        "1505215472885436476",
+        "1505222070374629467",
+        "1505223250471424092"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1492176792763760711",
+          "escena": "x-1492176792763760711",
+          "fecha_utc": "2026-04-10T14:57:50.699000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1492176792763760711"
+        },
+        {
+          "mensaje_id": "1495805737018986706",
+          "escena": "x-1495803939105407148",
+          "fecha_utc": "2026-04-20T15:17:58.432000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1495805737018986706"
+        },
+        {
+          "mensaje_id": "1505215472885436476",
+          "escena": "x-1505136569097650276",
+          "fecha_utc": "2026-05-16T14:28:54.287000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1505215472885436476"
+        },
+        {
+          "mensaje_id": "1505222070374629467",
+          "escena": "x-1505136569097650276",
+          "fecha_utc": "2026-05-16T14:55:07.251000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1505222070374629467"
+        },
+        {
+          "mensaje_id": "1505223250471424092",
+          "escena": "x-1505136569097650276",
+          "fecha_utc": "2026-05-16T14:59:48.608000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1505223250471424092"
+        }
+      ]
+    },
+    {
+      "nombre": "La fractura de la tripulación",
+      "avance": "Ione expulsa a quienes no la auxiliaron durante el ataque. Los trillizos regresan y castigan a Babs, Mugre y Ojoausente. Ella decide reparar y armar el Zampaolas con su propio criterio, mientras Nox conserva planes separados. No hay readmisión explícita.",
+      "pruebas": [
+        "1508463239045058642",
+        "1508521479850033253",
+        "1508523095693197573",
+        "1508524954260607007",
+        "1508855670202695751"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1508463239045058642",
+          "escena": "x-1507311901221060748",
+          "fecha_utc": "2026-05-25T13:34:22.080000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1508463239045058642"
+        },
+        {
+          "mensaje_id": "1508521479850033253",
+          "escena": "x-1507311901221060748",
+          "fecha_utc": "2026-05-25T17:25:47.770000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1508521479850033253"
+        },
+        {
+          "mensaje_id": "1508523095693197573",
+          "escena": "x-1507311901221060748",
+          "fecha_utc": "2026-05-25T17:32:13.017000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1508523095693197573"
+        },
+        {
+          "mensaje_id": "1508524954260607007",
+          "escena": "x-1507311901221060748",
+          "fecha_utc": "2026-05-25T17:39:36.134000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1508524954260607007"
+        },
+        {
+          "mensaje_id": "1508855670202695751",
+          "escena": "x-1508758741682622495",
+          "fecha_utc": "2026-05-26T15:33:44.959000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1508855670202695751"
+        }
+      ]
+    },
+    {
+      "nombre": "La defensa de Shiaru",
+      "avance": "Bonny y Molly preparan posiciones terrestres y flota. Eleanor ofrece un plan tardío, Erandi modera el desacuerdo y ambas reciben un cuello de botella bajo mando de Molly. Salen a reconocerlo; no se cuenta aquí el resultado del ataque.",
+      "pruebas": [
+        "1524084404606078996",
+        "1524686697109917726",
+        "1524713606589972510",
+        "1524766104944250900"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1524084404606078996",
+          "escena": "x-1523910607592493128",
+          "fecha_utc": "2026-07-07T16:07:18.177000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1524084404606078996"
+        },
+        {
+          "mensaje_id": "1524686697109917726",
+          "escena": "x-1523910607592493128",
+          "fecha_utc": "2026-07-09T08:00:35.900000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1524686697109917726"
+        },
+        {
+          "mensaje_id": "1524713606589972510",
+          "escena": "x-1523910607592493128",
+          "fecha_utc": "2026-07-09T09:47:31.620000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1524713606589972510"
+        },
+        {
+          "mensaje_id": "1524766104944250900",
+          "escena": "x-1523910607592493128",
+          "fecha_utc": "2026-07-09T13:16:08.203000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1524766104944250900"
+        }
+      ]
+    }
+  ],
+  "pendientes": [
+    {
+      "pregunta": "¿Qué ritual y entidad se despertaron, qué falta y qué abren o cierran los tatuajes?",
+      "pruebas": [
+        "1504969212240592937",
+        "1505187814319325264"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1504969212240592937",
+          "escena": "x-1504969212240592937",
+          "fecha_utc": "2026-05-15T22:10:21.174000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1504969212240592937"
+        },
+        {
+          "mensaje_id": "1505187814319325264",
+          "escena": "x-1505136569097650276",
+          "fecha_utc": "2026-05-16T12:38:59.971000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1505187814319325264"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Dónde está el capitán que crió a Nox y cuál es su relación completa con Citlali?",
+      "pruebas": [
+        "1505203995038191706",
+        "1505205378143621312"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1505203995038191706",
+          "escena": "x-1505136569097650276",
+          "fecha_utc": "2026-05-16T13:43:17.755000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1505203995038191706"
+        },
+        {
+          "mensaje_id": "1505205378143621312",
+          "escena": "x-1505136569097650276",
+          "fecha_utc": "2026-05-16T13:48:47.513000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1505205378143621312"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Se celebra la reunión de los Cinco y cumplen Ione y Nox las condiciones?",
+      "pruebas": [
+        "1505222070374629467"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1505222070374629467",
+          "escena": "x-1505136569097650276",
+          "fecha_utc": "2026-05-16T14:55:07.251000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1505222070374629467"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué contiene la carta con sello de los Cinco y qué remitente tenía el barco de la banana?",
+      "pruebas": [
+        "1492176792763760711"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1492176792763760711",
+          "escena": "x-1492176792763760711",
+          "fecha_utc": "2026-04-10T14:57:50.699000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1492176792763760711"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué ocurrió con los destinatarios de las cartas de Aerendriel y se paga el oro exigido?",
+      "pruebas": [
+        "1479835895271129269",
+        "1481342719610716342"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1479835895271129269",
+          "escena": "x-1479828448095768588",
+          "fecha_utc": "2026-03-07T13:39:31.454000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479835895271129269"
+        },
+        {
+          "mensaje_id": "1481342719610716342",
+          "escena": "x-1481320941383323689",
+          "fecha_utc": "2026-03-11T17:27:06.372000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1481342719610716342"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Bonny ejecutó al elfo como insinúa después, o cuál es su destino? Aquí solo hay una amenaza retrospectiva, sin escena del hecho.",
+      "pruebas": [
+        "1495809307818856559"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1495809307818856559",
+          "escena": "x-1495803939105407148",
+          "fecha_utc": "2026-04-20T15:32:09.777000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1495809307818856559"
+        }
+      ],
+      "cotejo_posterior": {
+        "estado": "parcial",
+        "respuesta": "Shiaru muestra el cuerpo de Aerendriel expuesto. Por tanto, su muerte deja de depender solo de la amenaza retrospectiva de Bonny.",
+        "pendiente": "La exposición del cadáver no determina quién dio el golpe mortal ni autoriza atribuir la ejecución a quienes lo cuelgan.",
+        "pruebas": [
+          "1481920577970114692"
+        ],
+        "orden_temporal": "entre_hilos",
+        "fuentes_rol": [
+          {
+            "mensaje_id": "1481920577970114692",
+            "escena": "x-1481920577970114692",
+            "fecha_utc": "2026-03-13T07:43:18.541000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1481920577970114692"
+          }
+        ]
+      }
+    },
+    {
+      "pregunta": "¿Qué objeto contempla Bonny en el chaleco de Picks?",
+      "pruebas": [
+        "1475458615182884899"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1475458615182884899",
+          "escena": "x-1475458615182884899",
+          "fecha_utc": "2026-02-23T11:45:46.555000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1475458615182884899"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Se recuperan las demás gemas y se pagan los porcentajes de Patata?",
+      "pruebas": [
+        "1476604957208870962",
+        "1479410577821405276"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1476604957208870962",
+          "escena": "x-1476494777800458351",
+          "fecha_utc": "2026-02-26T15:40:55.792000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1476604957208870962"
+        },
+        {
+          "mensaje_id": "1479410577821405276",
+          "escena": "x-1479387576749260852",
+          "fecha_utc": "2026-03-06T09:29:27.872000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479410577821405276"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Se realiza la expedición secreta al lugar marcado tres días al norte de Fuerte Aurora?",
+      "pruebas": [
+        "1493288788997439709",
+        "1493290930151886948"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1493288788997439709",
+          "escena": "x-1493245724471726171",
+          "fecha_utc": "2026-04-13T16:36:31.261000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1493288788997439709"
+        },
+        {
+          "mensaje_id": "1493290930151886948",
+          "escena": "x-1493245724471726171",
+          "fecha_utc": "2026-04-13T16:45:01.752000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1493290930151886948"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué criminal puede proporcionar refugio y logra Nox contactar con él?",
+      "pruebas": [
+        "1505206845084536993",
+        "1505209527543529472"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1505206845084536993",
+          "escena": "x-1505136569097650276",
+          "fecha_utc": "2026-05-16T13:54:37.259000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1505206845084536993"
+        },
+        {
+          "mensaje_id": "1505209527543529472",
+          "escena": "x-1505136569097650276",
+          "fecha_utc": "2026-05-16T14:05:16.807000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1505209527543529472"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué ocurre con el equipo de infiltración solicitado a Jacky y la investigación de Molly?",
+      "pruebas": [
+        "1506325343621873737",
+        "1508832389026156555"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1506325343621873737",
+          "escena": "x-1506323491224424640",
+          "fecha_utc": "2026-05-19T15:59:08.091000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1506325343621873737"
+        },
+        {
+          "mensaje_id": "1508832389026156555",
+          "escena": "x-1508758741682622495",
+          "fecha_utc": "2026-05-26T14:01:14.294000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1508832389026156555"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quiénes son los tentáculos que arrastraron a Merlucilla II y existe posibilidad de recuperación?",
+      "pruebas": [
+        "1472585538266599658"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1472585538266599658",
+          "escena": "x-1472552556910612541",
+          "fecha_utc": "2026-02-15T13:29:11.639000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1472585538266599658"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuándo cobra Kilzer el favor ganado a Ione y se produce una segunda cita?",
+      "pruebas": [
+        "1479152805880140050",
+        "1479180269872218346"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1479152805880140050",
+          "escena": "x-1479032390113558528",
+          "fecha_utc": "2026-03-05T16:25:10.252000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479152805880140050"
+        },
+        {
+          "mensaje_id": "1479180269872218346",
+          "escena": "x-1479032390113558528",
+          "fecha_utc": "2026-03-05T18:14:18.178000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479180269872218346"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Se desencalla y refuerza el Zampaolas y cómo termina la defensa asignada a Eleanor y Erandi?",
+      "pruebas": [
+        "1508523095693197573",
+        "1524766104944250900"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1508523095693197573",
+          "escena": "x-1507311901221060748",
+          "fecha_utc": "2026-05-25T17:32:13.017000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1508523095693197573"
+        },
+        {
+          "mensaje_id": "1524766104944250900",
+          "escena": "x-1523910607592493128",
+          "fecha_utc": "2026-07-09T13:16:08.203000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1524766104944250900"
+        }
+      ],
+      "cotejo_posterior": {
+        "estado": "parcial",
+        "respuesta": "Shiaru ya sitúa al Zampaolas a flote, y Nox lo observa desencallado desde Fuerte Aurora. Más tarde el narrador de Fuerte Aurora confirma que Ione readmitió a los compañeros expulsados y que el sacrificio de Nox impidió la victoria de Tórtola.",
+        "pendiente": "Esto confirma reflotamiento, readmisión y resultado general mencionado; no reconstruye todas las reparaciones ni la defensa asignada a Eleanor y Erandi.",
+        "pruebas": [
+          "1516333698348224512",
+          "1516347955882229931",
+          "1526863765306474568"
+        ],
+        "orden_temporal": "entre_hilos",
+        "fuentes_rol": [
+          {
+            "mensaje_id": "1516333698348224512",
+            "escena": "x-1516328473982013461",
+            "fecha_utc": "2026-06-16T06:48:45.804000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516333698348224512"
+          },
+          {
+            "mensaje_id": "1516347955882229931",
+            "escena": "x-1516347955882229931",
+            "fecha_utc": "2026-06-16T07:45:25.065000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1516347955882229931"
+          },
+          {
+            "mensaje_id": "1526863765306474568",
+            "escena": "x-1526863765306474568",
+            "fecha_utc": "2026-07-15T08:11:29.406000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1526863765306474568"
+          }
+        ]
+      }
+    }
+  ],
+  "relaciones": [
+    {
+      "personas": [
+        "Ione",
+        "Nox"
+      ],
+      "desarrollo": "Capitana y segundo al mando con ayuda explícita en la luna llena y secretos compartidos. Después ella se distancia de sus planes; no asumir ruptura total o reconciliación.",
+      "pruebas": [
+        "1466883318048886844",
+        "1508524954260607007"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1466883318048886844",
+          "escena": "x-1466700090918965396",
+          "fecha_utc": "2026-01-30T19:50:36.397000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1466883318048886844"
+        },
+        {
+          "mensaje_id": "1508524954260607007",
+          "escena": "x-1507311901221060748",
+          "fecha_utc": "2026-05-25T17:39:36.134000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1508524954260607007"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Citlali",
+        "Pinky"
+      ],
+      "desarrollo": "Pactan suministro de hierba y elaboración de xocolatl, aún sin negocio rentable mostrado.",
+      "pruebas": [
+        "1468621250908917810",
+        "1468622530381086932"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1468621250908917810",
+          "escena": "x-1468551353885261954",
+          "fecha_utc": "2026-02-04T14:56:31.880000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1468621250908917810"
+        },
+        {
+          "mensaje_id": "1468622530381086932",
+          "escena": "x-1468551353885261954",
+          "fecha_utc": "2026-02-04T15:01:36.930000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1468622530381086932"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Ione",
+        "Kilzer"
+      ],
+      "desarrollo": "Una cita, apoyo ante Picks y favor pendiente; invitación a otra salida y posible reclutamiento, sin compromiso estable.",
+      "pruebas": [
+        "1479123106797977660",
+        "1479152805880140050",
+        "1479180269872218346"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1479123106797977660",
+          "escena": "x-1479032390113558528",
+          "fecha_utc": "2026-03-05T14:27:09.439000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479123106797977660"
+        },
+        {
+          "mensaje_id": "1479152805880140050",
+          "escena": "x-1479032390113558528",
+          "fecha_utc": "2026-03-05T16:25:10.252000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479152805880140050"
+        },
+        {
+          "mensaje_id": "1479180269872218346",
+          "escena": "x-1479032390113558528",
+          "fecha_utc": "2026-03-05T18:14:18.178000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479180269872218346"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Nox",
+        "Aerendriel Xalathor"
+      ],
+      "desarrollo": "Nox lo protege de los disparos convirtiéndolo en fuente potencial de ingresos y propone cartas engañosas; ayuda interesada y bajo coacción.",
+      "pruebas": [
+        "1476503551273603133",
+        "1476588038162485421"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1476503551273603133",
+          "escena": "x-1476494777800458351",
+          "fecha_utc": "2026-02-26T08:57:58.733000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1476503551273603133"
+        },
+        {
+          "mensaje_id": "1476588038162485421",
+          "escena": "x-1476494777800458351",
+          "fecha_utc": "2026-02-26T14:33:41.977000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1476588038162485421"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Happy Bonny",
+        "Citlali"
+      ],
+      "desarrollo": "De cautiverio a revelación, disculpa y protección ofrecida. La colaboración no borra la retención anterior.",
+      "pruebas": [
+        "1501220172042866839",
+        "1504985295387492412",
+        "1505228040895074434"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1501220172042866839",
+          "escena": "x-1501220172042866839",
+          "fecha_utc": "2026-05-05T13:53:00.337000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1501220172042866839"
+        },
+        {
+          "mensaje_id": "1504985295387492412",
+          "escena": "x-1504969212240592937",
+          "fecha_utc": "2026-05-15T23:14:15.695000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1504985295387492412"
+        },
+        {
+          "mensaje_id": "1505228040895074434",
+          "escena": "x-1505136569097650276",
+          "fecha_utc": "2026-05-16T15:18:50.734000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1505228040895074434"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Sir Poncelot",
+        "Citlali"
+      ],
+      "desarrollo": "Ella lo consuela por su montura; él intenta rescatarla creyéndola reina de las hadas.",
+      "pruebas": [
+        "1472610457503142009",
+        "1501515481855823963"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1472610457503142009",
+          "escena": "x-1472552556910612541",
+          "fecha_utc": "2026-02-15T15:08:12.848000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1472610457503142009"
+        },
+        {
+          "mensaje_id": "1501515481855823963",
+          "escena": "x-1501136594319441992",
+          "fecha_utc": "2026-05-06T09:26:27.683000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1501515481855823963"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Happy Bonny",
+        "Picks"
+      ],
+      "desarrollo": "Protección y afecto explícitos junto al objeto secreto; no fijar parentesco u origen sin prueba.",
+      "pruebas": [
+        "1475458615182884899"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1475458615182884899",
+          "escena": "x-1475458615182884899",
+          "fecha_utc": "2026-02-23T11:45:46.555000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1475458615182884899"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Eleanor Roosevelt",
+        "Erandi"
+      ],
+      "desarrollo": "Señora y escudera; protección afectuosa y función diplomática de Erandi al cuestionar y moderar propuestas.",
+      "pruebas": [
+        "1524075138759524394",
+        "1524512538702909612",
+        "1524704855631859802"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1524075138759524394",
+          "escena": "x-1523910607592493128",
+          "fecha_utc": "2026-07-07T15:30:29.027000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1524075138759524394"
+        },
+        {
+          "mensaje_id": "1524512538702909612",
+          "escena": "x-1523910607592493128",
+          "fecha_utc": "2026-07-08T20:28:33.300000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1524512538702909612"
+        },
+        {
+          "mensaje_id": "1524704855631859802",
+          "escena": "x-1523910607592493128",
+          "fecha_utc": "2026-07-09T09:12:45.229000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1524704855631859802"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Jacky Jackson",
+        "Mujer de Jacky"
+      ],
+      "desarrollo": "El marino busca reencontrarse con su esposa y acepta viajes por ese motivo. La esposa no interviene ni se demuestra el reencuentro.",
+      "pruebas": [
+        "1479837145807192186",
+        "1481337241988235428"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1479837145807192186",
+          "escena": "x-1479828448095768588",
+          "fecha_utc": "2026-03-07T13:44:29.605000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479837145807192186"
+        },
+        {
+          "mensaje_id": "1481337241988235428",
+          "escena": "x-1481320941383323689",
+          "fecha_utc": "2026-03-11T17:05:20.405000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1481337241988235428"
+        }
+      ]
+    }
+  ],
+  "precauciones_editoriales": [
+    "Las metáforas de corte de Poncelot no crean instituciones reales ni títulos concedidos.",
+    "Los porcentajes acordados y las condiciones del acceso a los Cinco se distinguen de ofertas rechazadas.",
+    "Las cartas presentes se conservan; no completar contenido de sobres cerrados o mensajes no transcritos.",
+    "No tratar cuadros, retratos o GIF de reacción como combates ocurridos.",
+    "No identificar parentescos o campañas a partir del autor de Discord."
+  ],
+  "estado_seguimiento": "al_cierre_del_hilo",
+  "nota_seguimiento": "Cada cuestión conserva el contexto de sus mensajes originales. Los cotejos enlazan las respuestas halladas en otras escenas; la ausencia de un cotejo no demuestra que siga abierta después de otros capítulos.",
+  "fecha_hasta_utc": "2026-07-09T22:45:16.888000+00:00"
+}

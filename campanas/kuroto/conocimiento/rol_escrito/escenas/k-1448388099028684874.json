@@ -1,0 +1,268 @@
+{
+  "id": "k-1448388099028684874",
+  "campana": "kuroto",
+  "unidad_revision": "k-1448388099028684874",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Un encuentro camino de palacio",
+  "resumen": "Guxi y Seraphina hablan de acompañar a Wukong ante los Guardianes.",
+  "relato": "Seraphina pasea entre los hogares que se reconstruyen y las personas que lloran sus pérdidas. Guxi, cargado de documentos para Kazuki, tropieza con ella al doblar una esquina. La irritación inicial de Seraphina se convierte en afecto al reconocerlo y ayudarle a recoger los papeles. Cuenta que acaba de pedir ayuda a Kazuki porque pronto visitarán a los otros Guardianes y prevé un nuevo enfrentamiento. Guxi se ofrece a acompañarla si puede; ella explica que irán probablemente los compañeros habituales y que quiere apoyar a Wukong, aunque agradece unas manos adicionales. Intercambian caricias, bromas y besos antes de separarse. Guxi continúa hacia palacio y Seraphina acepta preparar la cena. La visita a los Guardianes queda como plan, sin partida ni combate representados.",
+  "participantes": [
+    "Seraphina",
+    "Guxi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1448407141802184815",
+      "afirmacion": "Seraphina informa de su petición de ayuda a Kazuki para visitar a los Guardianes.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1448407404411883712",
+      "afirmacion": "Guxi se ofrece a acompañarla si puede.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1448408972015964362",
+      "afirmacion": "Seraphina quiere acompañar a Wukong y espera que vaya el grupo habitual.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-12-10T18:57:12.558000+00:00",
+  "fin_utc": "2025-12-10T21:00:44.297000+00:00",
+  "fecha_local": "2025-12-10",
+  "intervalo": {
+    "anterior": 172,
+    "siguiente": 173,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1448031934176428145",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1448753461364785172",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 172,
+        "fecha": "2025-12-09",
+        "inicio_referencia_utc": "2025-12-09T19:21:35+00:00",
+        "fin_estimado_utc": "2025-12-09T22:35:47+00:00",
+        "duracion_video_segundos": 11652,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1448031934176428145"
+      },
+      {
+        "capitulo": 173,
+        "fecha": "2025-12-11",
+        "inicio_referencia_utc": "2025-12-11T19:08:42+00:00",
+        "fin_estimado_utc": "2025-12-11T22:37:42+00:00",
+        "duracion_video_segundos": 12540,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1448753461364785172"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1448388099028684874",
+      "fecha_utc": "2025-12-10T18:57:12.558000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Caminando nuevamente por las calles de Kuroto, veo como poco a poco la gente empieza a regresar a su vida cotidiana, algunos reconstruyen sus hogares, otros lloran sus pérdidas**\n\nBien dicen que las cosas siguen su curso, no?... \n\n**Suspiré mientras seguía caminando sin rumbo alguno**",
+      "mensaje_sha256": "5558187ee42ea0590e5975124b418e7256aec52c891b0a5dc2352a3338cc3557",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1448388099028684874",
+      "texto_sha256": "765931d86fd449ea969b07ddf32c8e3e6f9399451f4bf05ed37b10cf872a1165",
+      "adjuntos": []
+    },
+    {
+      "id": "1448395277936627907",
+      "fecha_utc": "2025-12-10T19:25:44.143000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "Guxi:\n**Lo ves cargando con documentos y muchas cosas se dirigía al palacio para ayudar a kazuki cuando por no mirar se choca contigo al cruzar una esquina**\nVaya golpe perdon",
+      "mensaje_sha256": "afc91673551b6b9dca1df377701a32f875bf8d8ef97842e8a06af6d6b00c3a9e",
+      "tipo_discord": 19,
+      "referencia": "1448388099028684874",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1448395277936627907",
+      "texto_sha256": "9c96a690db692b779868c1dae257a644e656a6d39849c0b0189bede03233aca6",
+      "adjuntos": []
+    },
+    {
+      "id": "1448397465001660587",
+      "fecha_utc": "2025-12-10T19:34:25.580000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "Seraphina:\nCARAJO!! FIJATE POR DÓNDE... oh, hola amor~\n\n**Le sonreí ayudándole a levantar los papeles que había tirado al chocar**",
+      "mensaje_sha256": "c3a09a076dfb1322fbec6da8bcdfeb32c1a55b998f966196e03f51d2ea5eb31c",
+      "tipo_discord": 19,
+      "referencia": "1448395277936627907",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1448397465001660587",
+      "texto_sha256": "195acff5145b1cc7ed401ade1bb22b92967a5d729df92e06b005c3c2c6a339ad",
+      "adjuntos": []
+    },
+    {
+      "id": "1448397822054629477",
+      "fecha_utc": "2025-12-10T19:35:50.708000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "Guxi:\nComo duele \n**Se toca la cabeza y al ver a sera se le cambia la cara a una sonrisa**\nGracias voy a darle unas cosas a kazuki",
+      "mensaje_sha256": "fc94e274b5b783ef077772be00cd6bb8e3f33cc8943a471263ffd8941397a1fa",
+      "tipo_discord": 19,
+      "referencia": "1448397465001660587",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1448397822054629477",
+      "texto_sha256": "7c971ca3deee0c63ccb726cf51f4ea0cd8435d7409e725d79dfb93898a705903",
+      "adjuntos": []
+    },
+    {
+      "id": "1448407141802184815",
+      "fecha_utc": "2025-12-10T20:12:52.709000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "Seraphina:\nJustamente acabo de verlo, que le fui a pedir su ayuda porque no tardamos en ir a \"Visitar\" a los otros guardianes, así que toca nuevo enfrentamiento \n\n**Le puse los papeles en su lugar**",
+      "mensaje_sha256": "c4f376613740a82534f0c234c8e80813cf733b93228b75e7e0c502d2471c16d6",
+      "tipo_discord": 19,
+      "referencia": "1448397822054629477",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1448407141802184815",
+      "texto_sha256": "17a00d7ce71fa1b6cbf3c7a013159ea96e79d18a2b7192f069230361433bd4d3",
+      "adjuntos": []
+    },
+    {
+      "id": "1448407404411883712",
+      "fecha_utc": "2025-12-10T20:13:55.320000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "guxi:\nsi puedo os acompañare no te quiero dejar ir sola \n**ya tenia los papeles listos para no caerse otra vez**",
+      "mensaje_sha256": "e048307a45fb5b4422387693f069874aa2ff8c73eb6150b431a4aeb77b5ca566",
+      "tipo_discord": 19,
+      "referencia": "1448407141802184815",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1448407404411883712",
+      "texto_sha256": "f1b372c2d3c0cc75e418d34efe91da246555ec5811ed2c9a18c9a5871e438892",
+      "adjuntos": []
+    },
+    {
+      "id": "1448408972015964362",
+      "fecha_utc": "2025-12-10T20:20:09.066000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "Seraphina:\nNo creo ir sola, lo más seguro es que iremos los de siempre, sobre todo tengo que acompañar a Wukong a hacer todo eso, no puedo dejarlo solo\n\n**Levanté los hombros**\n\nPero no está de más unas lindas manos extras",
+      "mensaje_sha256": "1946dc668010ef1d14f026c4c112c1dac56355ae178b60d9436162e189b4e19d",
+      "tipo_discord": 19,
+      "referencia": "1448407404411883712",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1448408972015964362",
+      "texto_sha256": "06785172910547274fccd8eae5e26f3ac8936f327a457758f8c7f173353b870f",
+      "adjuntos": []
+    },
+    {
+      "id": "1448409336475816037",
+      "fecha_utc": "2025-12-10T20:21:35.960000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "guxi:\n**deja las cosas a un lado y pone sus manos por encima de su cadera**\nSiempre tendras estas manos para ti a tu completo servicio",
+      "mensaje_sha256": "f29b6a284df24d5751fa9141f7affcf48a2db737c4e307757bc0651a480442b3",
+      "tipo_discord": 19,
+      "referencia": "1448408972015964362",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1448409336475816037",
+      "texto_sha256": "5fa7e14338a228b9ae54881b969cd75962ce7812248773ab285c2e7a95e95a7b",
+      "adjuntos": []
+    },
+    {
+      "id": "1448409593569873980",
+      "fecha_utc": "2025-12-10T20:22:37.256000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "Seraphina:\nSsshhh!, Guxi!~ aquí nooo\n\n**Le dí unos pequeños golpecitos en el pecho**\n\nQue estamos en plena calle",
+      "mensaje_sha256": "1021b1e2a251fc02d687c379163dd95a49b5be901e2c9fcbddbc00caa9bf564e",
+      "tipo_discord": 19,
+      "referencia": "1448409336475816037",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1448409593569873980",
+      "texto_sha256": "c0716f70778f058c5ed30c5326f31fd6accd227db7f1e3d404308af33d9310d2",
+      "adjuntos": []
+    },
+    {
+      "id": "1448409868141854820",
+      "fecha_utc": "2025-12-10T20:23:42.719000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "guxi:\nentonces me conformare con esto\n**le da un beso y coge las cosas**\nbueno me estan esperando\n¿haces tu la cena?",
+      "mensaje_sha256": "88cdb8a5b1c00ee5867aacaf533a81725f879bd79db3ff5bf7b8d46d7f191b6f",
+      "tipo_discord": 19,
+      "referencia": "1448409593569873980",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1448409868141854820",
+      "texto_sha256": "67b1d6fe4583abb14efdb803da6a91f5af35ca8ac192fb670ccdc9271c0a6471",
+      "adjuntos": []
+    },
+    {
+      "id": "1448418567342002216",
+      "fecha_utc": "2025-12-10T20:58:16.770000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "Seraphina:\nQuieres de nuevo conejo al vino?~ jajaja, no es cierto, yo me encargo de la cena\n\n**Le dejo un beso en la mejilla**\n\nVe amor~",
+      "mensaje_sha256": "ea78093ca9a2959b666208fd93a85b2723487993be09e2773f4257dab5aecf5d",
+      "tipo_discord": 19,
+      "referencia": "1448409868141854820",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1448418567342002216",
+      "texto_sha256": "4e72fbc2d5eccaf5266d35dbfa48ab76382e7b0b383908e40dc0bbf16908b49a",
+      "adjuntos": []
+    },
+    {
+      "id": "1448418851116159016",
+      "fecha_utc": "2025-12-10T20:59:24.427000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "guxi:\nhasta luego cariño \n**te sonrie levantando las pestañas y alejandose mirandote hasta que cruza la esquina**",
+      "mensaje_sha256": "c5d94ba6db0bbea8d7fffe9f77b1c3b877210021cc8081c948b92d07d553cb2b",
+      "tipo_discord": 19,
+      "referencia": "1448418567342002216",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1448418851116159016",
+      "texto_sha256": "da1133ce6ca2d4a6c3c96319389982737f424437dbee1bb80a98f0163c6b9e00",
+      "adjuntos": []
+    },
+    {
+      "id": "1448418898931220644",
+      "fecha_utc": "2025-12-10T20:59:35.827000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "🔩 guxi sale de escena🔩",
+      "mensaje_sha256": "f01f3145b88545479df8459cf98d776cb1c068f7384f66728f7f37612fa24fbc",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1448418898931220644",
+      "texto_sha256": "e684c549af93a258b115f68a37386a6f33541b453519e2877a0cc24cd84938f3",
+      "adjuntos": []
+    },
+    {
+      "id": "1448419151323594984",
+      "fecha_utc": "2025-12-10T21:00:36.002000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "🏴‍☠️ Seraphina sale de escena🏴‍☠️",
+      "mensaje_sha256": "cd9fbbbf7fad0b3fef629c0666cdbf9a1524f587e7589c0276899235c5285861",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1448419151323594984",
+      "texto_sha256": "00851caf7ff4b2ea2b5c415952dd8386fce551b2fa06d68bbb1174718493e8f7",
+      "adjuntos": []
+    },
+    {
+      "id": "1448419186115219519",
+      "fecha_utc": "2025-12-10T21:00:44.297000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena 🔴",
+      "mensaje_sha256": "002da2382d51a56c054349eb4a1bf46cd2241f8c7971364814bf062ece64d98c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1448419186115219519",
+      "texto_sha256": "298fa93bf0457633e2be1e0841043d853cccb9548c7ae2d8426119f0cb0a929e",
+      "adjuntos": []
+    }
+  ]
+}

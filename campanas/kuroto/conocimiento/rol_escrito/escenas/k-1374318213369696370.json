@@ -1,0 +1,161 @@
+{
+  "id": "k-1374318213369696370",
+  "campana": "kuroto",
+  "unidad_revision": "k-1374318213369696370",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "Kurobane ofrece ayuda a Guxi en el puerto",
+  "resumen": "El ninja deja el libro oculto y parte hacia el puerto de Sho para ayudar a Guxi con una construcción destinada a viajar a una isla.",
+  "relato": "Kurobane contacta con Guxi porque Kalista le ha dicho que necesita ayuda. El artesano responde cansado: está construyendo algo para viajar a una isla y, aunque tiene constructos, le resulta difícil mover todos los materiales solo. Confirma que trabaja en el puerto. Kurobane se ofrece a ir, esconde el libro que estaba estudiando y abandona el refugio rumbo al puerto de Sho. La construcción y el encuentro no se muestran todavía.",
+  "participantes": [
+    "Kurobane",
+    "Guxi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1374319015710687303",
+      "afirmacion": "Guxi pide ayuda para mover materiales de una construcción con la que pretende viajar a una isla.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1374320251189067788",
+      "afirmacion": "Kurobane oculta el libro y sale hacia el puerto de Sho.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La conversación se mantiene por la piedra. No se identifica aquí el tipo de embarcación o vehículo en construcción."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-20T09:29:55.665000+00:00",
+  "fin_utc": "2025-05-20T09:39:28.063000+00:00",
+  "fecha_local": "2025-05-20",
+  "intervalo": {
+    "anterior": 116,
+    "siguiente": 117,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1374091924474040400",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1374452181180354571",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 116,
+        "fecha": "2025-05-19",
+        "inicio_referencia_utc": "2025-05-19T18:30:27+00:00",
+        "fin_estimado_utc": "2025-05-19T21:06:27+00:00",
+        "duracion_video_segundos": 9360,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1374091924474040400"
+      },
+      {
+        "capitulo": 117,
+        "fecha": "2025-05-20",
+        "inicio_referencia_utc": "2025-05-20T18:22:02+00:00",
+        "fin_estimado_utc": "2025-05-20T21:21:18+00:00",
+        "duracion_video_segundos": 10756,
+        "tipo_referencia": "aviso_de_contraste",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1374452181180354571"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida. Una hora tomada de un aviso con título discrepante se utiliza solo como referencia aproximada de ese día."
+  },
+  "fuentes": [
+    {
+      "id": "1374318213369696370",
+      "fecha_utc": "2025-05-20T09:29:55.665000+00:00",
+      "fecha_local": "2025-05-20",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nGuxi <@171702246952665098> , Kalista me ha comentado que necesitas ayuda. Donde se encuentra? Cambio\n\n**Pregunta serio mientras mira al libro**",
+      "mensaje_sha256": "abaec43aec6544a9750452dd8b36426cf0564ecea77bc6bf18c299f3c83ae049",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1374318213369696370",
+      "texto_sha256": "cb92baaf97a3a9b41c8434c99a2350c65daa0f6a1c62c515c55796c369048e86",
+      "adjuntos": []
+    },
+    {
+      "id": "1374319015710687303",
+      "fecha_utc": "2025-05-20T09:33:06.958000+00:00",
+      "fecha_local": "2025-05-20",
+      "editado_utc": null,
+      "texto": "Guxi: hola kurobane estoy construyendo algo para ir una isla necesitaria ayuda son muchas cosas que mover y aunque tengo algunos constructos es algo dificil de hacerlo solo **se nota cansancio en su voz y astio**",
+      "mensaje_sha256": "b4d983e5d66bd211a8938a2eb17d5293105cb55958a18c4c901b21f2c4ce15c9",
+      "tipo_discord": 19,
+      "referencia": "1374318213369696370",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1374319015710687303",
+      "texto_sha256": "835071276402daf48310d3fdfaa5dfb4665231935beea784021f02bc35b598d2",
+      "adjuntos": []
+    },
+    {
+      "id": "1374319357844389939",
+      "fecha_utc": "2025-05-20T09:34:28.529000+00:00",
+      "fecha_local": "2025-05-20",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nSe encuentra en el puerto? Cambio",
+      "mensaje_sha256": "1b3575cbee06741f153c4da0ddb40fa19a38a6f9e469fa3ae5196655af511ce7",
+      "tipo_discord": 19,
+      "referencia": "1374319015710687303",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1374319357844389939",
+      "texto_sha256": "258843466fbb261d3c02dc4372d121b39e0b8d2128733299519a00b268114413",
+      "adjuntos": []
+    },
+    {
+      "id": "1374319551596068944",
+      "fecha_utc": "2025-05-20T09:35:14.723000+00:00",
+      "fecha_local": "2025-05-20",
+      "editado_utc": null,
+      "texto": "Guxi: si estoy allí cambio",
+      "mensaje_sha256": "0a31433f25e710b5f81c848adb2c0d351e65212cd425c8dcdd6d8fa557a100f6",
+      "tipo_discord": 19,
+      "referencia": "1374319357844389939",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1374319551596068944",
+      "texto_sha256": "0accc19460dc81cd7617e3e9dceaa140a56a3ba592236ab4612aed32ed26f260",
+      "adjuntos": []
+    },
+    {
+      "id": "1374320251189067788",
+      "fecha_utc": "2025-05-20T09:38:01.519000+00:00",
+      "fecha_local": "2025-05-20",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nVoy. Tardaré un poco. Cambio y corto.\n\n**Dice serio mientras deja escondido el libro y se pone de camino al puerto de sho**",
+      "mensaje_sha256": "e17241d8fe276fdf84c39bbd3a39c77b4bce2832dc861fc9b54f62f81313eb76",
+      "tipo_discord": 19,
+      "referencia": "1374319551596068944",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1374320251189067788",
+      "texto_sha256": "d0ba451642febc4337a7f74f892c788f2f5843e9772465afc05ad575bf05093e",
+      "adjuntos": []
+    },
+    {
+      "id": "1374320303781576744",
+      "fecha_utc": "2025-05-20T09:38:14.058000+00:00",
+      "fecha_local": "2025-05-20",
+      "editado_utc": null,
+      "texto": "🌘  Kurobane sale de escena 🌘",
+      "mensaje_sha256": "3ba0fa681a1d255debc9612c2ddf64fe1ee7f5c50085dbffd82d5cc0528dd81a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1374320303781576744",
+      "texto_sha256": "c95c2d2144e50caef4db8a65812f7e48d8f1d17ec38631b3a00505e2759d70d5",
+      "adjuntos": []
+    },
+    {
+      "id": "1374320614180917290",
+      "fecha_utc": "2025-05-20T09:39:28.063000+00:00",
+      "fecha_local": "2025-05-20",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "2d36541da61b3bf835b053f0e8ffa47b05c940ff54386e394afdc7c0d72e982f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1374320614180917290",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

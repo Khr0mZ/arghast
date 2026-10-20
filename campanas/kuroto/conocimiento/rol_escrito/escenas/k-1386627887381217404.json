@@ -1,0 +1,198 @@
+{
+  "id": "k-1386627887381217404",
+  "campana": "kuroto",
+  "unidad_revision": "k-1385809829695848478",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "Corko sueña con un pico de colmillo de dragón",
+  "resumen": "Banzo encuentra al viejo semiorco mejorando las trincheras y le ofrece un nuevo pico y un equipo de excavación.",
+  "relato": "Después de compartir un rato con los reclutas, Banzo busca a Corko y lo encuentra cavando junto al campamento. El semiorco se sobresalta al oírlo y lo llama Gonzo, una confusión con la que ambos siguen bromeando. El goliat le agradece una ayuda anterior con plata y le cuenta que guarda un diente de dragón grande como un brazo.\n\nCorko explica que está corrigiendo las mediocres trincheras que encontró al llegar. Banzo propone usar el colmillo para fabricarle un nuevo pico y conseguir autorización de Hati para ponerlo al frente de soldados que excaven un foso alrededor del campamento.\n\nEl viejo se emociona ante la posibilidad de retirar su maltrecho Rompedrolos y dirigir su propio grupo de trabajo. Se acerca con los brazos abiertos y Banzo lo abraza antes de marcharse. Son promesas y propuestas: todavía no se forja el nuevo pico ni aparece una orden del comandante otorgándole el mando.",
+  "participantes": [
+    "Banzo",
+    "Corko"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1386642037700562986",
+      "afirmacion": "Corko explica que mejora las trincheras del campamento.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1386664958091329576",
+      "afirmacion": "Banzo ofrece un pico de colmillo de dragón y propone pedir un equipo de excavación para Corko.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1386722138915868753",
+      "afirmacion": "Corko se emociona ante la posibilidad de sustituir a Rompedrolos.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Leídas completas las cinco partes y los tres adjuntos. La imagen del pánico es ilustrativa; el dibujo final de Banzo es una referencia humorística del disfraz.",
+    "La inscripción gráfica del diario de Kurobane se conserva como original. Su escritura no se traduce ni se inventa un contenido a partir del dibujo.",
+    "La unidad original reúne varias interacciones con cierres y salidas; las subescenas conservan cobertura exacta sin duplicar mensajes.",
+    "Las cifras de atención médica son las que Banzo comunica, sin elevarlas a un balance general de la batalla.",
+    "La apariencia de Brythya que Banzo cree ver sobre Danifae se presenta como percepción del goliat, no como transformación física confirmada.",
+    "La promesa de Danifae se refiere a sus armas frente a Ootakemaru y no equivale a afiliación ni contrato firmado.",
+    "No se realiza todavía la visita a los templos ni se elimina la condición de Kurobane."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-23T08:44:10.652000+00:00",
+  "fin_utc": "2025-06-23T15:13:46.911000+00:00",
+  "fecha_local": "2025-06-23",
+  "intervalo": {
+    "anterior": 130,
+    "siguiente": 131,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1385318614470496400",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387130423632724151",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 130,
+        "fecha": "2025-06-19",
+        "inicio_referencia_utc": "2025-06-19T18:01:24+00:00",
+        "fin_estimado_utc": "2025-06-19T21:47:20+00:00",
+        "duracion_video_segundos": 13556,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1385318614470496400"
+      },
+      {
+        "capitulo": 131,
+        "fecha": "2025-06-24",
+        "inicio_referencia_utc": "2025-06-24T18:00:45+00:00",
+        "fin_estimado_utc": "2025-06-24T21:04:44+00:00",
+        "duracion_video_segundos": 11039,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387130423632724151"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1386627887381217404",
+      "fecha_utc": "2025-06-23T08:44:10.652000+00:00",
+      "fecha_local": "2025-06-23",
+      "editado_utc": null,
+      "texto": "Banzo : **después de descansar algo salió con energía de la tienda , se vería como ha salido de la tienda de los novatos.  Se quedó unas horas charlando con ellos haciendo ver que el también es joven e inexperto en muchas cosas y dándoles apoyo para lo que se viene . **\n*a ver si encuentro a ese viejo loco por aquí* <@220602485977382912>",
+      "mensaje_sha256": "b84b90bec17977b41f42748cd34e9c099ff94078f189a7cad71eb3f5afa3ee54",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386627887381217404",
+      "texto_sha256": "d3561388dd3c15478d13a68c1037578d29b9af3cdc7e653da6cd826a3ad0446b",
+      "adjuntos": []
+    },
+    {
+      "id": "1386630885671174248",
+      "fecha_utc": "2025-06-23T08:56:05.500000+00:00",
+      "fecha_local": "2025-06-23",
+      "editado_utc": null,
+      "texto": "Corko:\n\n**El campamento se encontraba en silencio mientras las primeras luces llegaban a las tiendas de los soldados. Solo el ruido intermitente de un pico golpeando la tierra y la roca rompía esa calma.\n\nJusto fuera del campamento, en las barricadas más cercanas a la entrada principal, se encontraba el origen del ruido. Podía verse tierra y piedras saltar del interior de la barricada con cada golpe.**",
+      "mensaje_sha256": "9e750d97105490afa9efcf27ef3722360911033032cfc43dace8e05afc21cbf1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386630885671174248",
+      "texto_sha256": "15e346607d63bf941f0cdb4d59ce85711c711fe2703bd04c1f68b483e4f9a61d",
+      "adjuntos": []
+    },
+    {
+      "id": "1386632855492231188",
+      "fecha_utc": "2025-06-23T09:03:55.142000+00:00",
+      "fecha_local": "2025-06-23",
+      "editado_utc": null,
+      "texto": "Banzo : **se acerca y Se asoma al interior de la barricada **\n\nVIEJOOOO ! \nQue piensas comunicar todas las trincheras con túneles? \n**se asoma sonrriente **",
+      "mensaje_sha256": "b32a5529512dbe13c4304926965eb4b7aad9e270fd9daf3c11865ebb55d02ba5",
+      "tipo_discord": 19,
+      "referencia": "1386630885671174248",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386632855492231188",
+      "texto_sha256": "9a0a67769a12d825908e7bd93561107049d87b931ed589557ffbc097409d0b1c",
+      "adjuntos": []
+    },
+    {
+      "id": "1386633741031440425",
+      "fecha_utc": "2025-06-23T09:07:26.271000+00:00",
+      "fecha_local": "2025-06-23",
+      "editado_utc": null,
+      "texto": "Corko:\n\n**El viejo deja lentamente de mover el pico. Mira hacia los lados, como si hubiera escuchado algo pero no supiera que y de donde... Se rasca la cabeza hasta que le da por mirar hacia arriba**\n\n- Gonzo!!! La horda que te trajo...  **Grita sobresaltado con la mano en el pecho al ver al goliath** - no vas a parar hasta que me de un jamacuco?",
+      "mensaje_sha256": "0c860003e13987afdad61aedfb0b377e4bc2cdcb32f65f6270aaed4bacb8defa",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386633741031440425",
+      "texto_sha256": "e1fbec4860e52fc159d5ec21dd32f5217ceff00543f1aa1eefae61ab2c0bf612",
+      "adjuntos": []
+    },
+    {
+      "id": "1386635649179975720",
+      "fecha_utc": "2025-06-23T09:15:01.209000+00:00",
+      "fecha_local": "2025-06-23",
+      "editado_utc": null,
+      "texto": "Gonzo : ven aquí viejo topo ! **le da un abrazo y un choque de cabezas a modo de saludo ** \nTe vi pelear amigo . \nOye tu plata sirvió perfectamente.  Todo fue de lujo . Muchas gracias corko. \nTenemos que ir a la base , te enseñaré lo que tengo para ti . Un diente entero de dragón amigo es así **te señala un tamñana grande como un brazo de largo** \nPor cierto,  que estas haciendo ? Cavar sin más o buscas algo ? \n**usmea entre el polvo y la roca **",
+      "mensaje_sha256": "2932a964a19e73de0a96f023c2edbaa0bcb8108e2aecd211446bbc56a663b775",
+      "tipo_discord": 19,
+      "referencia": "1386633741031440425",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386635649179975720",
+      "texto_sha256": "e05a29195699c9df9e4608d4a54989e772aab0d522929bf8d8aab4a836938901",
+      "adjuntos": []
+    },
+    {
+      "id": "1386642037700562986",
+      "fecha_utc": "2025-06-23T09:40:24.351000+00:00",
+      "fecha_local": "2025-06-23",
+      "editado_utc": "2025-06-23T09:42:25.727000+00:00",
+      "texto": "Corko:\n\n**Tras recuperarse del susto, el semiorco acepta la mano de Banzo para salir del hoyo. No se esperaba la efusividad del saludo que le iba a dar el goliath. Se pudo escuchar un pequeño crujir de huesos durante el abrazo y un sonido hueco en el cabezazo... Por el casco del grandullón o por la cabeza del anciano?**\n\n- que dices que le ha pasado a tu pata? Y que has conocido un cliente en un vagón?\n\n**Tras aclarar la típica confusión sonora que ocurre con el viejo sordo prosigue la conversación**\n\n- un diente de dragón? Hace décadas que no veo un bicho de esos... Que pretendes hacer con el? No te cabe en el colgante...\n\n**Mira la zanja tras la pregunta de Banzo**\n\n- esos canijos no saben hacer trincheras... Apenas me trajiste casi me da un parraque al ver algo tan mediocre... Así que decidí hacerlas como Grummsh manda.\n\n**Esto último lo dice con cara de orgullo**",
+      "mensaje_sha256": "08ab7a6cca6440b196663865384a196187fd6b44048bf2ccb65e05f553b24b3e",
+      "tipo_discord": 19,
+      "referencia": "1386635649179975720",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386642037700562986",
+      "texto_sha256": "020e3356f2549b9a3c9e78041b9acfdb1f3f10dd1e122cd8f93fa00600fcdf4b",
+      "adjuntos": []
+    },
+    {
+      "id": "1386664958091329576",
+      "fecha_utc": "2025-06-23T11:11:28.998000+00:00",
+      "fecha_local": "2025-06-23",
+      "editado_utc": null,
+      "texto": "Gonzo: pienso hacerte un pico de diente de dragón que vas a flipar ! \n\nPues tu habilidad para cavar nos vendría genial . \nQue te parece la idea de hacer un foso rodeando al campamento? Podría hablar con el comandante Hati <@214405113677217793>  y que te ponga al cargo de un grupo de soldados que puedan cavar . \nQue te parece ?",
+      "mensaje_sha256": "5441038e2f93d91a26ea225ead17262fbc3357da4b2597d5458565b3b5055edf",
+      "tipo_discord": 19,
+      "referencia": "1386642037700562986",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386664958091329576",
+      "texto_sha256": "6909f0a286c01f5576dab81f4ea28f2592bfe2facd180f6fe87aafb3fc3b1e8c",
+      "adjuntos": []
+    },
+    {
+      "id": "1386722138915868753",
+      "fecha_utc": "2025-06-23T14:58:41.969000+00:00",
+      "fecha_local": "2025-06-23",
+      "editado_utc": "2025-06-23T15:01:32.994000+00:00",
+      "texto": "Corko:\n\n**Para tú sorpresa, te da la impresión de que el viejo lo ha escuchado todo a la primera... Su cara es la imagen misma de la emoción. Por un momento sus ancianos ojos podrían haberse visto cristalinos.**\n\n- un pico... Un pico nuevo... De... De colmillo de dragón... Por fin mi querido Rompedrolos podrá descansar...\n\n**Corko mira su pico mientras dice esto último. El arma está en las ultimas... Soldaduras, parches, grietas...**\n\n- y dices que tendré mi propio equipo de excavación... Y les podré dar órdenes... Y podré hacer las barricadas y los fosos como yo quiera...\n\n**Ves a corko acercarse a ti, con pasitos temblorosos y cara de emoción, con los brazos abiertos...**",
+      "mensaje_sha256": "5feae6faed78599dbe0498787c77dc96c7eb0cabf8a04feb64bde3548b4075b2",
+      "tipo_discord": 19,
+      "referencia": "1386664958091329576",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386722138915868753",
+      "texto_sha256": "b2b36ef32d31cc2b67a5abc89d509f2701c0cc68d9ffedcb086d51d2f281a4b2",
+      "adjuntos": []
+    },
+    {
+      "id": "1386725934517977201",
+      "fecha_utc": "2025-06-23T15:13:46.911000+00:00",
+      "fecha_local": "2025-06-23",
+      "editado_utc": "2025-06-23T15:16:58.183000+00:00",
+      "texto": "Gonzo :Eso espero amigo eso espero.  **le da un abrazo y sale de la trinchera en busca de <@240564189448503306> **",
+      "mensaje_sha256": "507b7250455f235bfa5880297ec208678782a92945a72d2415f0e750924b49b8",
+      "tipo_discord": 19,
+      "referencia": "1386722138915868753",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386725934517977201",
+      "texto_sha256": "e227844193ed901d20c4a5f5193f8115af9179090b77b7ce26352b2525f72c0d",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "x-1467354350086131712",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1466700090918965396",
+  "hilo_id": "1465411590789795962",
+  "hilo_nombre": "Shiaru - El ron de Bonny",
+  "titulo": "Citlali teme volver a perder a sus hijos",
+  "resumen": "Despierta de una pesadilla en el camarote de los visitantes.",
+  "relato": "Citlali duerme inquieta en la cama que le han ofrecido. Sueña con cuerpos de sus hijos entre sus brazos y después bajo tierra, acompañados por voces que la culpan de no salvarlos. Despierta sudando, se dice que debe seguir buscando y consigue calmarse antes de acostarse de nuevo. La escena expresa duelo y temor sin mostrar muertes nuevas ni resolver el objeto de su búsqueda.",
+  "participantes": [
+    "Citlali"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1467354350086131712",
+      "afirmacion": "Citlali despierta de una pesadilla sobre hijos perdidos y decide continuar buscando.",
+      "tipo": "pensamiento"
+    }
+  ],
+  "notas": [
+    "Bandera y retrato de Zippo vistos completos; no hacer del emblema un cadáver real ni del gorro de enfermero un cargo.",
+    "Las garras y la luna permiten enlazar la condición de Ione, pero la transformación completa no se muestra directamente aquí.",
+    "Las imágenes de hijos muertos son una pesadilla de Citlali, no nuevas muertes presentes.",
+    "Los nombres y hechos balbuceados por Nox durante el sueño no acreditan todavía un naufragio revisado.",
+    "Se conserva separado el vínculo materno posterior de Citlali con Nox de este primer trato hospitalario."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-02-01T03:02:19.186000+00:00",
+  "fin_utc": "2026-02-01T03:02:19.186000+00:00",
+  "fecha_local": "2026-02-01",
+  "intervalo": {
+    "anterior": 1,
+    "siguiente": 2,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1466153128880771253",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1467580544283054092",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 1,
+        "fecha": "2026-01-28",
+        "inicio_referencia_utc": "2026-01-28T19:28:45+00:00",
+        "fin_estimado_utc": "2026-01-28T21:58:17+00:00",
+        "duracion_video_segundos": 8972,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1466153128880771253"
+      },
+      {
+        "capitulo": 2,
+        "fecha": "2026-02-01",
+        "inicio_referencia_utc": "2026-02-01T18:00:53+00:00",
+        "fin_estimado_utc": "2026-02-01T20:49:58+00:00",
+        "duracion_video_segundos": 10145,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1467580544283054092"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1467354350086131712",
+      "fecha_utc": "2026-02-01T03:02:19.186000+00:00",
+      "fecha_local": "2026-02-01",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\n**El sueño me había invadido en el momento en el que mi cuerpo cayó en la cama de aquel pirata ojo alegre**\n\n**Se podía notar que mi cuerpo se movía de un lado a lado, sin poder descansar, mi respiración se agitaba y mis débiles músculos se tensaban, una pesadilla se adueñaba de mi cabeza**\n\n**Los cuerpos de mis hijos cayendo sobre mis brazos y después siendo reclamados por la tierra, escuchándose gritos desgarradores de fondo, culpandome de no poder hacer más por ellos, llorandoles en los huecos de tierra que estaban a mis pies hasta que al fin me desperté, sudando y con el corazón saliéndose de mi pecho**\n\nTengo que seguir buscando...\n\n**Respiré hasta que al fin la calma volvió y me volví a acostar, arropandome con un mal sabor de boca y temiendo a lo que pudiera pasar al día siguiente**",
+      "mensaje_sha256": "1589688ea56f258cc84205f7d97134a83e957f352f0f77dd0ab9e89b5aac8a03",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1467354350086131712",
+      "texto_sha256": "99cd233982c707c2642370db2ab0068eafb22e2a03d03a714e177118c40f0fc1",
+      "adjuntos": []
+    }
+  ]
+}

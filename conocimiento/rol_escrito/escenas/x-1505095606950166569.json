@@ -1,0 +1,263 @@
+{
+  "id": "x-1505095606950166569",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1505095606950166569",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "Una ayuda que termina en sobresalto",
+  "resumen": "Erandi intenta hablar con Armin durante la retirada de cadáveres.",
+  "relato": "Después del ataque de los marines, Erandi busca vecinos con quienes hablar para reunir información para Lady Roosevelt, de quien es escudera. Ve a piratas desvalijando cadáveres y a un hombre enorme sacándolos de la herrería. Se acerca a ofrecer ayuda. El narrador lo identifica como Armin, aunque ella no aprende su nombre en el encuentro.\n\nArmin responde con sonidos guturales y gestos. La kender intenta entenderlos, preocupada por los dientes que le faltan, hasta que él la aparta de la puerta y arroja dos cuerpos fuera. Ella supone que es el herrero y se presenta como Erandin, Eri o Maya. Armin le pone en las manos una cabeza de marine y señala el pozo, como parte de la retirada de los restos. Erandi grita, la suelta y sale corriendo. No presencia una decapitación ni descubre por esta escena la profesión o historia completas del hombre.",
+  "participantes": [
+    "Erandi",
+    "Armin"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1505095606950166569",
+      "afirmacion": "Erandi se identifica como escudera de Lady Roosevelt y busca contactos.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1505138308307619860",
+      "afirmacion": "Los piratas desvalijan cadáveres de marines tras el ataque.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1505142604160045186",
+      "afirmacion": "Armin aparta a la kender y saca dos cadáveres de la herrería.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1505145650562732163",
+      "afirmacion": "Se presenta como Erandin y ofrece los apelativos Eri o Maya.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1505146501175971952",
+      "afirmacion": "Armin le entrega una cabeza y señala el pozo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1505146951065272370",
+      "afirmacion": "Erandi deja caer la cabeza y huye asustada.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Erandi/Erandin y Eri/Maya son equivalencias declaradas por la propia participante en ambos encuentros.",
+    "La apariencia infantil no sustituye su afirmación explícita de mayoría de edad.",
+    "La atribución de herrero a Armin es deducción de Erandi, sin ficha profesional completa en esta escena.",
+    "La petición OOC de dados y su corrección no se convierten en sucesos narrativos.",
+    "La ayuda médica queda ofrecida y prevista, sin recuperación de Ione o cura efectuada."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-05-16T06:32:36.021000+00:00",
+  "fin_utc": "2026-05-16T09:56:37.412000+00:00",
+  "fecha_local": "2026-05-16",
+  "intervalo": {
+    "anterior": 32,
+    "siguiente": 33,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1504914757835030579",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1506363085538201671",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 32,
+        "fecha": "2026-05-15",
+        "inicio_referencia_utc": "2026-05-15T18:33:44+00:00",
+        "fin_estimado_utc": "2026-05-15T20:47:23+00:00",
+        "duracion_video_segundos": 8019,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1504914757835030579"
+      },
+      {
+        "capitulo": 33,
+        "fecha": "2026-05-19",
+        "inicio_referencia_utc": "2026-05-19T18:28:49+00:00",
+        "fin_estimado_utc": "2026-05-19T21:10:39+00:00",
+        "duracion_video_segundos": 9710,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1506363085538201671"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1505095606950166569",
+      "fecha_utc": "2026-05-16T06:32:36.021000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Erandi:\n**Tras aquella hazaña de sobrevivir el ataque de unos soldados de aspecto intimidante y ver la fuerza de quien lidera el cotarro, no hay cosa mejor que hacer nuevos contactos. Quizas su mandamás le ha dado una orden mas que sugerencia... pero en la mente de una Kender ingenua del mundo horrible en el que vive una nueva amistad se podrá convertir en nuevas alianzas.**\n-Veamos quienes están por aquí, quizas pueda familiarizarme con los lugareños! Quien mejor que la escudera de Lady Roosevelt para aunar la información que mi señora necesita! \n**Dibuja una inocente sonrisa**\n-Incluso me halague! Y me ofrezca una galleta!\n**No puede evitar esbozar una ligera risa**\n-Mmmmh...en especial una deliciosa galletita de moras! Deliciosas! \n**Comienza a caminar por el lugar, buscando a la primera persona con quien charlar**",
+      "mensaje_sha256": "8a7c195f3f60a23670eee9a5339b846865077c5b6cb63605ef380ab606c06527",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505095606950166569",
+      "texto_sha256": "be1760f87b9da5063feaf385877f5da4d061b9a82f0d08e0e9881b5cb1ebc61b",
+      "adjuntos": []
+    },
+    {
+      "id": "1505138308307619860",
+      "fecha_utc": "2026-05-16T09:22:16.818000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "**Mientras andas por el poblado, puedes ver como la mayoría de piratas estan registrando los cuerpos de los marines muertos. Algunos les roban la ropa, el sombrero o incluso las armas. Rapiñan lo que sea y luego lanzan el cuerpo al mar o incluso lo dejan ahí para que se pudra. El que mas te llama la atención es un hombre enorme con tatuajes que esta arrastrando un par de marines muertos de la herrería.**",
+      "mensaje_sha256": "c825c25ab7039c1f45d8cd7b22de2ed4e2d738e9223e4de3c1cd1d09788d657a",
+      "tipo_discord": 19,
+      "referencia": "1505095606950166569",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505138308307619860",
+      "texto_sha256": "dc5c1b67dc5dd2f82e4008dcace97211fa71b663dfe957fa33b697dbc0208c45",
+      "adjuntos": []
+    },
+    {
+      "id": "1505138931631394857",
+      "fecha_utc": "2026-05-16T09:24:45.430000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Erandin:\n-Oh? Uuuh...\n**Le entra un ligero escalofrío**\n-\"Ay...dioses del sol, denme su sabiduría...\"\n**Tomo una profunda bocanada de aire, acercándose al hombre tatuado**\n-Buen dia mi señor! Espero no molestarlo luego de esta ardua contienda! ¿Necesita ayuda?\n**Le sonríe de modo amable, moviéndose de arriba a abajo apoyandose desde las yemas de los dedos de los pies**",
+      "mensaje_sha256": "cc760edb1a2ee9a093c397abe89fb3593e2be22039ec0363de968c928ee0fa4f",
+      "tipo_discord": 19,
+      "referencia": "1505138308307619860",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505138931631394857",
+      "texto_sha256": "1fc43c07e02cd4d355a5b64cf890d6814878432d14185ae49616092448b3e4a3",
+      "adjuntos": []
+    },
+    {
+      "id": "1505139925656277032",
+      "fecha_utc": "2026-05-16T09:28:42.424000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Armin: **El hombre de tres metros de alto y casi un metro de ancho con el cuerpo lleno de tatuajes extraños e intimudantes se gira a mirarte. Sus ojos muy muy pequeños se clavan en ti** Mmgggrrrr Rrrgggg mmmgggg **Escuchas esos ruidos guturales mientras abre la boca y ves que le faltan la mayoría de dientes** Gggrrr mmmgggg Rrrrgggg",
+      "mensaje_sha256": "485d35729bd3b016b7168e8dbbb7b57d0bd82e22a449dc90b8adb2bbb316b2b4",
+      "tipo_discord": 19,
+      "referencia": "1505138931631394857",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505139925656277032",
+      "texto_sha256": "9ad4788158d8f1b21fbe56816249cf47e07e9886f1dc36d4f672ed53ff146e9a",
+      "adjuntos": []
+    },
+    {
+      "id": "1505140369506041948",
+      "fecha_utc": "2026-05-16T09:30:28.246000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Erandin:\n-Ay no!\n**Ve con preocupación la falta de sus dientes**\n-Como ha terminado su dentadura de esa manera? Las chamanes de mi pueblo me decían que eso ocurre cuando comes demasiada fruta dulce\n**Traga algo de saliva**\n-Y...los balbuseos..es que le duele la tripita?\n**Baja algo las orejas, algo nerviosa**",
+      "mensaje_sha256": "63cc62b12a30b3e898a4d2638c83fb798e527bba774b0d14730eaf83ed45c93a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505140369506041948",
+      "texto_sha256": "0637fde3b3d783eb928eff7a01a5f51c70945db15efdd6bc161cb097717004a2",
+      "adjuntos": []
+    },
+    {
+      "id": "1505140868594536509",
+      "fecha_utc": "2026-05-16T09:32:27.238000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Armin: Gggrrrmmmmm **Gruñe mientras hace gestos con las manos muy exagerados** Mmmmggggrrrr **Ves que agacha la cabeza para colocarse a tu altura y mirarte**",
+      "mensaje_sha256": "5ccefc37a3e86f8f05c8de345a3dfdbaae235abe362b56b8bf5629de12149819",
+      "tipo_discord": 19,
+      "referencia": "1505140369506041948",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505140868594536509",
+      "texto_sha256": "2a671c2d760ec8336831401b6e46bba72eb1929f8eed0edbb70a48729d3cf516",
+      "adjuntos": []
+    },
+    {
+      "id": "1505142604160045186",
+      "fecha_utc": "2026-05-16T09:39:21.029000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Armin: **El hombre sigue con esos sonidos guturales y ves como te agarra de la cintura y como sino pesaras nada te mueve unos cuantos pies hacia un lado apartandote de la puerta de la herrería.** Mmmrgggg Ggrrrrmmm **Ves que luego agarra los pies de dos marines y los lanza volando por la puerta de la herrería. Uno cae encima de un puesto de venta y este se derrumba, el otro, cae encima de los restos del caimán que hay en el pozo**\n(no tiramos dados en escrito, pregunta y ya. Igualmente sería perspicacia y no interpretación jeje)",
+      "mensaje_sha256": "c761107663e6da6ff0e9496d0500657470a89d231fcb1fde5766ed9637872a7c",
+      "tipo_discord": 19,
+      "referencia": "1505141267766579407",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505142604160045186",
+      "texto_sha256": "d657fceb393df746729d922009a353167c8dc790fb12cef8dd4134f1d3577859",
+      "adjuntos": []
+    },
+    {
+      "id": "1505142767435907184",
+      "fecha_utc": "2026-05-16T09:39:59.957000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Erandin:\n-Ick!\n**Lo ve detenidamente a los ojos**\n-.....\n**Entrecierra los ojos, intentando entender los gestos de sus manos**\n(podria intentar lanzar interpretación a ver si logro sacar algo de lo que dice?)",
+      "mensaje_sha256": "b15df91fc9067d01e8082f42bea8d380922477d3375f85c84055a8823cb0b55c",
+      "tipo_discord": 19,
+      "referencia": "1505140868594536509",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505142767435907184",
+      "texto_sha256": "eb2802811473c2d6d08ba5359eb65e929b297b1fa7b984ae55e8edbecfb62a92",
+      "adjuntos": []
+    },
+    {
+      "id": "1505144285589405738",
+      "fecha_utc": "2026-05-16T09:46:01.913000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Erandin:\n-....oh! Lo siento!\n**Se rie dulce, de haber analizado sus alrededores habría caido en la conclusión**\n-No queria obstruir la entrada de su morada!\n**Ve la fuerza y facilidad con la que lanza esos hombres, asombrada**\n-Wow!! Que fuerza!\n**Voltea a ver el interior de la herrería**\n-Entonces debe ser el herrero, supondre",
+      "mensaje_sha256": "07e9c955ae6e5411cc965426bfd62d5d655709723084cc831143fd93562257df",
+      "tipo_discord": 19,
+      "referencia": "1505142604160045186",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505144285589405738",
+      "texto_sha256": "34ba5ad7ae5cdc2b819aa764a1cd571e9864d81bf4dfb5383fee38625f8225e9",
+      "adjuntos": []
+    },
+    {
+      "id": "1505145238921023489",
+      "fecha_utc": "2026-05-16T09:49:49.205000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Armin: Gggrrrmmmmm Rrrrrggg **Pone los ojos en blanco y se da la vuelta para agarrar otra cosa del interior de la herrería que no ves bien por el enorme tamaño de ese hombre**",
+      "mensaje_sha256": "5069eb6bb27dfe78ca240cc4684c5e495d7a463abdf8fbf33a91a8c33abb5af6",
+      "tipo_discord": 19,
+      "referencia": "1505144285589405738",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505145238921023489",
+      "texto_sha256": "4128ad26a7a01df1a120fcf1a3a55dff7839de5e6d824e61e4f435e18519b646",
+      "adjuntos": []
+    },
+    {
+      "id": "1505145650562732163",
+      "fecha_utc": "2026-05-16T09:51:27.348000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Erandin: **trata de abrirse paso en algun agujero, buscando que pueda estar tan interesado**\n-Soy Erandin! Pero me dicen Eri! O Maya! Como prefiera usted mi señor!\n**Le sonríe amigable, sin notar su incordio, si es que siquiera esta**",
+      "mensaje_sha256": "c93ea389b94f114064ed42a46f5851c7f23964ece51795157e23c8f8367b3994",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505145650562732163",
+      "texto_sha256": "90007a4089594caba0e3240d5e9e763d7d4cbb2fa707cf81f8464dbc9ca1b73b",
+      "adjuntos": []
+    },
+    {
+      "id": "1505146501175971952",
+      "fecha_utc": "2026-05-16T09:54:50.150000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Armin: Mmmmmmgggg **Se da la vuelta para ponerte en las manos eso que estaba agarrando para luego señalar el pozo** Gggrrrmmmmm Rrrgggg **Cuando miras eso que te ha dado, puedes ver la cabeza de uno de los marines con la lengua fuera y los ojos pálidos**",
+      "mensaje_sha256": "711989cab921172a9823156b0b7553a3dd2b4170f4d7fe2aef8bbdd9df9c40a5",
+      "tipo_discord": 19,
+      "referencia": "1505145650562732163",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505146501175971952",
+      "texto_sha256": "a36867587dc5033b0323e03691177b0e7ea34bf68082dd8fb002a22b452383ba",
+      "adjuntos": []
+    },
+    {
+      "id": "1505146951065272370",
+      "fecha_utc": "2026-05-16T09:56:37.412000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Erandin:\n**Da un grito, soltandolo por la sorpresa**\n-AY!!! \n**ve la cabeza detenidamente, dándose media vuelta y saliendo por patas, buscando la próxima persona**\n-WAAAAAAHHHHHH!!!!",
+      "mensaje_sha256": "bb2415a8e4d5b8572fd4253c347fe2a970eb535c39cb5ffcb6249201ba63f37a",
+      "tipo_discord": 19,
+      "referencia": "1505146501175971952",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505146951065272370",
+      "texto_sha256": "341fb8258b912a23326676c7312565e82b38aa3dc2287488f4c313a3ed6d674e",
+      "adjuntos": []
+    }
+  ]
+}

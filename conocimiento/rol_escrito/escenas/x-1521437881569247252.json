@@ -1,0 +1,255 @@
+{
+  "id": "x-1521437881569247252",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1521415101553442837",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "Jackie pide ayudar como amigo",
+  "resumen": "Una disculpa sincera consigue que Ione acepte trabajo de sus antiguos compañeros.",
+  "relato": "Ione descubre a Jackie, Mugre, Ojoausente y Babs escondidos mientras observan la reparación. Se acerca amenazante y les concede una oportunidad de hablar. El exmarine toma la palabra y reconoce que el alcohol y las apuestas los apartaron de lo importante.\n\nDescribe la amistad que ha encontrado junto al Zampaolas, distinta de la rivalidad por ascensos que conoció en la Marina. Aunque no espera readmisión, pide ayudar a reparar el barco como un amigo. El narrador confirma la sinceridad de Jackie.\n\nIone lo deja entrar a trabajar y exige a los demás una disculpa propia. Los tres admiten su falta y ofrecen ayuda. La capitana acepta que aprendan trabajando y los pone a cargar. La cooperación se reanuda con entusiasmo, pero el cierre conserva la duda de si han vuelto formalmente a la tripulación.",
+  "participantes": [
+    "Ione",
+    "Jackie Jackson",
+    "Mugre",
+    "Ojoausente",
+    "Babs"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1521442802720833617",
+      "afirmacion": "Jackie pide reparar el barco por amistad y ofrece disculpas.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1521445166727303208",
+      "afirmacion": "El narrador presenta su ofrecimiento como sincero.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1521448815725379585",
+      "afirmacion": "Ione permite trabajar a los demás bajo sus órdenes.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1521449706130247781",
+      "afirmacion": "Se ponen a cargar sin saber si están readmitidos formalmente.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El narrador confirma la sinceridad de Jackie, no una excusa oportunista.",
+    "Los nombres Jackie/Jacky Jackson se refieren al mismo exmarine en estos intercambios.",
+    "La admisión de ayuda no se convierte en perdón completo o readmisión formal.",
+    "El plan explosivo se anuncia sin detallar aquí su ejecución."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-06-30T08:50:57.915000+00:00",
+  "fin_utc": "2026-06-30T09:55:27.792000+00:00",
+  "fecha_local": "2026-06-30",
+  "intervalo": {
+    "anterior": 39,
+    "siguiente": 40,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1517589464363434048",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149383024690/1521166880503758919",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 39,
+        "fecha": "2026-06-19",
+        "inicio_referencia_utc": "2026-06-19T17:58:26+00:00",
+        "fin_estimado_utc": "2026-06-19T20:14:22+00:00",
+        "duracion_video_segundos": 8156,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1517589464363434048"
+      },
+      {
+        "capitulo": 40,
+        "fecha": "2026-07-02",
+        "inicio_referencia_utc": "2026-07-02T18:00:00+00:00",
+        "fin_estimado_utc": "2026-07-02T20:53:10+00:00",
+        "duracion_video_segundos": 10390,
+        "tipo_referencia": "programacion",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149383024690/1521166880503758919"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida."
+  },
+  "fuentes": [
+    {
+      "id": "1521437881569247252",
+      "fecha_utc": "2026-06-30T08:50:57.915000+00:00",
+      "fecha_local": "2026-06-30",
+      "editado_utc": null,
+      "texto": "**Va contigo hacia la costa para seguir llevando materiales y cajas a la bodega del Zampaolas. Cuando estáis cargando algunas cajas, puedes ver que a pocos metros de ahí, escondidos (muy mal por cierto) al resto de tu antigua tripulación. Están ahí, observando mientras se da codazos unos a otros para buscar al valiente que salga a hablar con la Capitana**",
+      "mensaje_sha256": "dc7d11c3307c8eb272aa4c36be897f670bf6c3fdd602e6a1a9f5b43b3b65001a",
+      "tipo_discord": 19,
+      "referencia": "1521437054012100618",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1521437881569247252",
+      "texto_sha256": "79b76502c325e12f050b89f95b1a489f7245639efa3bac7e7c540ae0e211ffa1",
+      "adjuntos": []
+    },
+    {
+      "id": "1521438144967348305",
+      "fecha_utc": "2026-06-30T08:52:00.714000+00:00",
+      "fecha_local": "2026-06-30",
+      "editado_utc": null,
+      "texto": "Ione: Seguir trabajando... Yo voy a cazar a unas ratas... **Se cruje los nudillos y va para alla**",
+      "mensaje_sha256": "2c63c78b61f578fcdadd10958406ba2352b0fd7ec7fcffb18ad386c7eb3d572c",
+      "tipo_discord": 19,
+      "referencia": "1521437881569247252",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1521438144967348305",
+      "texto_sha256": "714d56b8994378e52d43e6dc0c1bea81489f15ab4f840867a37282431bb9f048",
+      "adjuntos": []
+    },
+    {
+      "id": "1521438833646764034",
+      "fecha_utc": "2026-06-30T08:54:44.908000+00:00",
+      "fecha_local": "2026-06-30",
+      "editado_utc": null,
+      "texto": "Mugre: Oye, ves tu que le caes mejor.\n\nOjoausente: Yo? Pero si nunca mi mira a los ojos. Bueno, al ojo... Aunque lo tengo tapado con el parche...\n\nBabs: Yo seguro que no pq siempre me mete la broca por mearme en su camarote... Es que huele fuerte a loba y... Ya sabéis... Marcar territorio...\n\nJackie: Chicos, creo que nos a visto...\n\n**Los cuatro asoman la cabeza y ven a Ione acercarse mientras se cruje los nudillos. Traigan saliva aterrorizados**",
+      "mensaje_sha256": "392b875ef29eb5b42018fd0a1f3f0a157cdda1e900837be27ef42ff0bad0eee9",
+      "tipo_discord": 19,
+      "referencia": "1521438144967348305",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1521438833646764034",
+      "texto_sha256": "96071e7a6e987c5dcc156eec811d7105d1b5019edebbf47805269267ca8c6810",
+      "adjuntos": []
+    },
+    {
+      "id": "1521439569193599068",
+      "fecha_utc": "2026-06-30T08:57:40.276000+00:00",
+      "fecha_local": "2026-06-30",
+      "editado_utc": null,
+      "texto": "Ione: Una palabra antes de lanzaros por la borda **Sonrie** ¿Quien empieza?",
+      "mensaje_sha256": "9a9cd25bc06718d606b3ef0bfc4a1fa2b909295bbb1584661752eb5430607823",
+      "tipo_discord": 19,
+      "referencia": "1521438833646764034",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1521439569193599068",
+      "texto_sha256": "9a59b0d9b5e9314857d9fbbd8089cc76cb58af826636c1f56877f9add3124a2a",
+      "adjuntos": []
+    },
+    {
+      "id": "1521442802720833617",
+      "fecha_utc": "2026-06-30T09:10:31.209000+00:00",
+      "fecha_local": "2026-06-30",
+      "editado_utc": null,
+      "texto": "**Todos empiezan a tartamudear al unísono, diciendo cosas como \"yo pasaba por aquí\" \"que tal esta capitana Ione?\" y todo de frases para aparentar que estaban aquí por otra cosa. Pero son peores mentirosos que la Capitana Ione**\n\nJackie: Emmm... Ca... Capitana Ione... **Dice Jackie, algo raro ya que no es el más valiente** Los chicos y yo le debemos una... una disculpa. La cerveza de Picks, el calor de Shiaru y el subidon de las apuestas en la taberna nos ha hecho olvidar quienes somos y... y que es lo realmente importantes **Jackie habla como si fuera un miembro de la tripulación desde el principio. Ha estado desde que Nox lo \"liberó\" junto a estos tres hombres y ha escuchado batallas, broncas, bromas y momentos felices de la tripulación del Zampaolas surcando los mares de Arghast tomándolos como casi suyos** Se que no soy un miembro de su tripulación pero, desde que llegué junto a estos hombres, junto al señor Nox y a usted... Digo, a la Capitana Ione. He visto algo que no he notado en todos mis años en la Marina... **Hace una pausa** Amistad. No os peleais por querer un puesto mayor en el barco, o demostrar que sois mejores que el Capitán para que os den un barco... Os peleais por lo que realmente importa. Porque un amigo no ha ayudado, por que un amigo ha hecho una burrada que pone en peligro al resto... Parece extraño, pero noto que esos enfados son, no por lo ocurrido, sino porque os afecta por igual lo que hace uno de vosotros. Y creo que eso es realmente la amistad... **Mira a los tres idiotas agazapados** Entenderé que no nos quiera más en el Zampaolas, Capitana Ione, pero almenos déjenos ayudarla a reparar el barco. Déjenos ayudar a una... A una amiga",
+      "mensaje_sha256": "232248446be5425b3cfce4cff41b9ddbf24e8b382a2e8fb103c3ab3115d676be",
+      "tipo_discord": 19,
+      "referencia": "1521439569193599068",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1521442802720833617",
+      "texto_sha256": "4fe1ff830e1b56256abf272036bc3ca21a966f095de0088e784f854c10b9fffa",
+      "adjuntos": []
+    },
+    {
+      "id": "1521443806505865276",
+      "fecha_utc": "2026-06-30T09:14:30.530000+00:00",
+      "fecha_local": "2026-06-30",
+      "editado_utc": null,
+      "texto": "Ione: **Su sonrisa malvada desaparece, quedandose... Aturdida... Esperaba cualquier excusa menos eso... Le mira a los ojos fijamente para ver si esta hablando un hombre o un pirata**",
+      "mensaje_sha256": "73e9ce732cbd2f7619219b438636a58c18264ecd3ddf924e3473f0066d3f878d",
+      "tipo_discord": 19,
+      "referencia": "1521442802720833617",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1521443806505865276",
+      "texto_sha256": "8a021701253760f1273c14105e9407b59e0683540dbd9e901a5268f7727961ef",
+      "adjuntos": []
+    },
+    {
+      "id": "1521445166727303208",
+      "fecha_utc": "2026-06-30T09:19:54.832000+00:00",
+      "fecha_local": "2026-06-30",
+      "editado_utc": "2026-06-30T09:20:23.497000+00:00",
+      "texto": "Jackie: **No ves ni a un hombre ni a un pirata. Solo ves a Jackie. Ese Marine que Nox se llevó de esas minas. Ese Marine que al principio parecia asustado, aterrorizado pero, que poco a poco se fue adaptando a la vida que llevais en Shiaru. Ya no es un chaqueta azul. Pero tampoco es un pirata como estos apestosos que llenan las calles de Shiaru. Y mucho menos un hombre, que hombre se dejaria secuestrar por un pirata idiota y maloliente como Nox...? No. Solo ves a Jackie Jackson. Un chaval que te ofrece ayuda por simple amistad**",
+      "mensaje_sha256": "94015bd41d41c6dd7357c34ad56bb868b0f652b256bffc95bc95620dc22a5336",
+      "tipo_discord": 19,
+      "referencia": "1521443806505865276",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1521445166727303208",
+      "texto_sha256": "e45711d010da308b827f4bcc8893c5002575d3819c94ef1d46f63bfeb9e341c6",
+      "adjuntos": []
+    },
+    {
+      "id": "1521447424181145690",
+      "fecha_utc": "2026-06-30T09:28:53.051000+00:00",
+      "fecha_local": "2026-06-30",
+      "editado_utc": null,
+      "texto": "Ione: **Sus ojos se ablandan y suelta el aire que estaba conteniendo** Tu a dentro... Hay mucho trabajo que hacer **Mira a los otros** Algo que decir sin cagaros encima? Como digais lo mismo que el chaval os hecho al mar con \"Dialogo\"",
+      "mensaje_sha256": "3029d2e27d7509261fe0b2168bf5efb2bc8f2def147be08b69c333b8426463c4",
+      "tipo_discord": 19,
+      "referencia": "1521445166727303208",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1521447424181145690",
+      "texto_sha256": "f1f5cb9892eebcfcccea7e5446cae2983d4864b2a60881c7894e0d0713eebab3",
+      "adjuntos": []
+    },
+    {
+      "id": "1521448327982354564",
+      "fecha_utc": "2026-06-30T09:32:28.534000+00:00",
+      "fecha_local": "2026-06-30",
+      "editado_utc": null,
+      "texto": "Los tres al unisono: Eh.... bueno.... amistad... Jackie.... Nox idiota... yo.... ayudar... **No paran de tartamudear viendo como la cara de la Capitana empezaba otra vez a mostrar esos dientes afilados cuando todos agachan la cabeza y dicen a la vez** Lo sentimos Capitana Ione. No merecemos su perdón, pero permitanos ayudarla...\n\nJackie: **Mira a Ione y con una sonrisa de medio lado le dice al oido** No saben hacerlo mejor, mi Capitana.",
+      "mensaje_sha256": "992ec95d0f669119ca0eb2d6da608ce97085f359bc79eb51d5a0a9114bcbaab3",
+      "tipo_discord": 19,
+      "referencia": "1521447424181145690",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1521448327982354564",
+      "texto_sha256": "b428aea67671c8327be741ee886c85dfcd3298ae377e1165e0eecbc3004a8c13",
+      "adjuntos": []
+    },
+    {
+      "id": "1521448815725379585",
+      "fecha_utc": "2026-06-30T09:34:24.821000+00:00",
+      "fecha_local": "2026-06-30",
+      "editado_utc": null,
+      "texto": "Ione: **Sus ojos se vuelven una fina linea** Pues tendran q aprender mientras se curren el lomo **Sonrie** Y si os veo vagear ya sabes vuestro destino... ¡En marcha!",
+      "mensaje_sha256": "cf05e8f2fa36451e7eaa15b20d388ef404c570fa0c7639e37a1ed85a6e8135b0",
+      "tipo_discord": 19,
+      "referencia": "1521448327982354564",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1521448815725379585",
+      "texto_sha256": "014536c07c638e1f77726c2b54212093a78bcf6e882bc5df1d6e7c5101469687",
+      "adjuntos": []
+    },
+    {
+      "id": "1521449706130247781",
+      "fecha_utc": "2026-06-30T09:37:57.110000+00:00",
+      "fecha_local": "2026-06-30",
+      "editado_utc": null,
+      "texto": "Todos a la vez: A sus ordenes mi Capitana! **Salen de detras de las cajas y empiezan a levantarlas para llevarlas a la bodega del barco. No saben si estan de vuelta en el Zampaolas pero, parece que estan motivados por el futuro evento contra la Marina. Y es normal. ¿Que buen pirata rechazaria un combate contra los tocanarices de la Marina?**",
+      "mensaje_sha256": "6de4bac17ef6d7e0c3a669ecffa08d5e6264a0b9bd4bb38af39497919aa9b0f0",
+      "tipo_discord": 19,
+      "referencia": "1521448815725379585",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1521449706130247781",
+      "texto_sha256": "a0d4109f819e664013500641c803ea30c70294976caafc250871b61104122c33",
+      "adjuntos": []
+    },
+    {
+      "id": "1521450177947500655",
+      "fecha_utc": "2026-06-30T09:39:49.600000+00:00",
+      "fecha_local": "2026-06-30",
+      "editado_utc": null,
+      "texto": "Ione: **Sonrie y se pone a trabajar... Ella no va a ser menos que estos hombres**",
+      "mensaje_sha256": "f3aef905f4cdb4838415993273186e02b18ad6d1a31fad605970f81efe5e7802",
+      "tipo_discord": 19,
+      "referencia": "1521449706130247781",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1521450177947500655",
+      "texto_sha256": "e1486d3534e99f03ff6b1fb93b18af18a8ac03f3e7c6db2ea191a79988407092",
+      "adjuntos": []
+    },
+    {
+      "id": "1521454113009696898",
+      "fecha_utc": "2026-06-30T09:55:27.792000+00:00",
+      "fecha_local": "2026-06-30",
+      "editado_utc": null,
+      "texto": "🔴 Fin de la Escena 🔴",
+      "mensaje_sha256": "abc06fbd1cb389e494b35c4220b07ab8d43c2d79e638efb3f9b99155271e8c1f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1521454113009696898",
+      "texto_sha256": "d6243d093543ca91ea2f79f33ebf7492cbcbdd299d5f534314670df263e276e0",
+      "adjuntos": []
+    }
+  ]
+}

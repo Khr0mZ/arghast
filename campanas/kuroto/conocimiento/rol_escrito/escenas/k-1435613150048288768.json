@@ -1,0 +1,91 @@
+{
+  "id": "k-1435613150048288768",
+  "campana": "kuroto",
+  "unidad_revision": "k-1435613150048288768",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Un robo en la tienda de pergaminos",
+  "resumen": "Una figura diminuta entra por una ventana y saquea el establecimiento.",
+  "relato": "De madrugada, una figura pequeña y encapuchada abre un hueco en el cristal de la tienda de pergaminos. Se introduce, desvalija el local y escapa con rapidez. La narración sugiere experiencia por su eficacia, pero no revela su identidad, el botín exacto ni su destino. La ciudad despierta horas después sin que se muestre la investigación del robo.",
+  "participantes": [
+    "figura encapuchada sin identificar"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1435613150048288768",
+      "afirmacion": "Una figura diminuta entra por la ventana y saquea la tienda de pergaminos.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No identificar a Archi u otro personaje por tamaño, autor del mensaje o experiencia aparente.",
+    "El tiempo narrado es madrugada, diferente de la hora de publicación."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-11-05T12:54:07.374000+00:00",
+  "fin_utc": "2025-11-06T10:14:34.249000+00:00",
+  "fecha_local": "2025-11-05",
+  "intervalo": {
+    "anterior": 164,
+    "siguiente": 165,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1433532919066136698",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1436069852543586424",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 164,
+        "fecha": "2025-10-30",
+        "inicio_referencia_utc": "2025-10-30T19:07:43+00:00",
+        "fin_estimado_utc": "2025-10-30T22:23:56+00:00",
+        "duracion_video_segundos": 11773,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1433532919066136698"
+      },
+      {
+        "capitulo": 165,
+        "fecha": "2025-11-06",
+        "inicio_referencia_utc": "2025-11-06T19:08:37+00:00",
+        "fin_estimado_utc": "2025-11-06T22:46:55+00:00",
+        "duracion_video_segundos": 13098,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1436069852543586424"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1435613150048288768",
+      "fecha_utc": "2025-11-05T12:54:07.374000+00:00",
+      "fecha_local": "2025-11-05",
+      "editado_utc": "2025-11-05T12:54:21.001000+00:00",
+      "texto": "???: ** a altas horas de la madrugada vemos como una diminuta figura encapuchada , hace un pequeño boquete en el cristal de a ventana de la tienda de pergaminos . Lo suficiente como para entrar desvalijar la tienda y largarse en mnos de 3 minuto . \nLa noche le guarece y la rapidez y efectividad denotan que no es su primer robo ... \nLas horas pasan el sol sale y la ciudad empieza a despertar . ** <@&1333414291306708992>",
+      "mensaje_sha256": "6035da302ee9d5321f9ab233938a3c4d8ec9a76dd93405197531f13c76cdfe59",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1435613150048288768",
+      "texto_sha256": "ac68085de9dda19daeac80e24a73086c26c2feeb575075043b7eeae97bf1e1e8",
+      "adjuntos": []
+    },
+    {
+      "id": "1435935385317544017",
+      "fecha_utc": "2025-11-06T10:14:34.249000+00:00",
+      "fecha_local": "2025-11-06",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "81071201c5e6e0b1f05da67506052b8a6686aee9fe6875360423390633f2cdbf",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1435935385317544017",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

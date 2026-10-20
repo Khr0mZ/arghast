@@ -1,0 +1,79 @@
+{
+  "id": "k-1461008419245789371",
+  "campana": "kuroto",
+  "unidad_revision": "k-1460885744435597458",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "Vespera lamenta la caída de su rey",
+  "resumen": "Mientras busca desertores, la general expresa su culpa y su esperanza de salvar a los suyos.",
+  "relato": "Vespera sobrevuela los alrededores en busca de desertores y yokais dispuestos a abandonar la guerra. Su aspecto sereno oculta una culpa intensa por haberse vuelto contra su señor. Aterriza en un peñasco, se quita el casco y contempla las tierras marchitas entre lágrimas de fuego. Lamenta no haber impedido que el antiguo rey aceptara aquel poder y recuerda que ha visto yokais vivir en armonía con los recién llegados. Todavía desea que exista esperanza para él y para su pueblo. No encuentra desertores ni persuade a nadie en los mensajes de este bloque.",
+  "participantes": [
+    "Vespera"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1461008419245789371",
+      "afirmacion": "Vespera busca desertores y lamenta no haber detenido el cambio de su rey.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Dos partes leídas completas. Adjunto Banzo.png visto: ojos de Kalista y Jelbreg con la frase Siempre estaremos contigo, grandullón; apoyo a la despedida, sin probar su presencia física.",
+    "La última intervención de Carulla es un comentario del jugador sobre una campaña futura, no la caída consumada de una diosa.",
+    "La pequeña criatura de ocho patas sale sin que nadie lo perciba; no asignarle nombre, genealogía ni propósito por inferencia."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-01-14T14:45:51.372000+00:00",
+  "fin_utc": "2026-01-14T14:45:51.372000+00:00",
+  "fecha_local": "2026-01-14",
+  "intervalo": {
+    "anterior": 179,
+    "siguiente": 180,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1458905021985853695",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1461435221806284870",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 179,
+        "fecha": "2026-01-08",
+        "inicio_referencia_utc": "2026-01-08T19:27:25+00:00",
+        "fin_estimado_utc": "2026-01-08T21:59:18+00:00",
+        "duracion_video_segundos": 9113,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1458905021985853695"
+      },
+      {
+        "capitulo": 180,
+        "fecha": "2026-01-15",
+        "inicio_referencia_utc": "2026-01-15T19:01:30+00:00",
+        "fin_estimado_utc": "2026-01-15T22:02:29+00:00",
+        "duracion_video_segundos": 10859,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1461435221806284870"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1461008419245789371",
+      "fecha_utc": "2026-01-14T14:45:51.372000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": null,
+      "texto": "**En las afueras del campamento**\n\n**Vespera sobrevuela los alrededores a las tierras de su señor en busca de desertores o de yokais que huyen dispuestos a no pelear mas... Pero aunque por fuera su semblante sea tranquilo por dentro algo esta retorciendose: la culpa que lleva pesando en su corazon desde que se volvio la mayor traidora de su señor.**\n**Aterriza en lo alto de un peñasco con la respiracion acelerada y el corazon optimido. Los recuerdos del buen rey que fue una vez la torturan**\nLo siento...lo siento mi señor, esto no debia acabar asi... Si tan solo te hubieramos impedido tomar ese poder, si hubieramos sido mas valientes... Tal vez hubiera visto lo que yo vi, yokais viviendo en armonia con aquellos que llegaron a la isla...\n**Se quita el casco mirando hacia esas tierras marchitas, revelando unos ojos hundidos en lagrimas de fuego**\nOjala aun haya una esperanza para usted y para el resto de los mios tras todo esto.",
+      "mensaje_sha256": "1a4efb947fc95be865045ffad8b594e80feeaf4996c3fe51792c50cf1a7359a3",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1461008419245789371",
+      "texto_sha256": "66989cbdfbb6c5f4ed1f37e4bc3369e6a5a72c4f56dc43c4e22267e33209ba9e",
+      "adjuntos": []
+    }
+  ]
+}

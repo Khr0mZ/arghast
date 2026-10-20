@@ -1,0 +1,199 @@
+{
+  "id": "x-1523224925190750248",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1523224925190750248",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "Poncelot acepta defender Shiaru desde el mar",
+  "resumen": "Ione explica que no pueden estar en todos los frentes y el gnomo se suma a la preparación del plan.",
+  "relato": "Poncelot acepta inicialmente el juicio de Ione, pero pide poder volver a tierra si peligra la defensa de los ciudadanos. Deja de hablar como un personaje de libro y explica que, por encima de títulos y profecías, su deber es proteger a cada habitante.\n\nLa capitana responde que el ataque vendrá por mar y tierra y que no pueden estar en todos los lugares. Ella también querría combatir en la costa, pero pocos tienen barco y necesita a toda su tripulación en él. El caballero se siente honrado de pertenecer a su grupo y acepta quedarse a bordo, deseando auxiliar después a los de tierra si hace falta.\n\nIone lo tranquiliza y le pide colaborar con los barriles que está preparando para el plan explosivo. El gnomo saluda militarmente y obedece. La escena cierra los preparativos; no se lanza el ataque ni se garantiza que puedan salvar a todos.",
+  "participantes": [
+    "Ione",
+    "Sir Poncelot"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1523224925190750248",
+      "afirmacion": "Poncelot solicita acudir a tierra si la defensa peligra.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1523680188813017178",
+      "afirmacion": "Ione explica que necesita a toda la tripulación para el frente naval.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1523681485058605138",
+      "afirmacion": "El caballero acepta el puesto y agradece ser parte del grupo.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1523682348636573848",
+      "afirmacion": "Se dispone a colaborar en la preparación.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Continúa la conversación del embarque anterior, separada por el intervalo asignado.",
+    "El contenido explosivo pertenece al plan ficticio y se resume sin instrucciones de fabricación.",
+    "La inclusión de Poncelot como compañero es explícita; no convierte al grupo en orden feudal real."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-07-05T07:12:02.316000+00:00",
+  "fin_utc": "2026-07-06T13:38:49.614000+00:00",
+  "fecha_local": "2026-07-05",
+  "intervalo": {
+    "anterior": 41,
+    "siguiente": 42,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1522672340213694706",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1524846150652264642",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 41,
+        "fecha": "2026-07-03",
+        "inicio_referencia_utc": "2026-07-03T18:35:58+00:00",
+        "fin_estimado_utc": "2026-07-03T21:07:42+00:00",
+        "duracion_video_segundos": 9104,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1522672340213694706"
+      },
+      {
+        "capitulo": 42,
+        "fecha": "2026-07-09",
+        "inicio_referencia_utc": "2026-07-09T18:30:59+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1524846150652264642"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1523224925190750248",
+      "fecha_utc": "2026-07-05T07:12:02.316000+00:00",
+      "fecha_local": "2026-07-05",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**El gnomo se queda dubitativo unos segundos**\n\n- confiaré en su buen juicio capitana... Pero solicito permiso para volver a tierra en el caso de que las unidades apostadas en la ciudad estén en peligro.\n\n**Mira seriamente a la pirata. Su tono ya no es el de alguien que imita las palabras bonitas d euna libro de aventuras. En su voz hay decisión**\n\n- soy el protector de shiaru, proclamado por lord Mirlín como el babuino metálico de culo rojo, elegido como salvador y defensor del reino. Pero antes de todo eso... Soy el caballero de todos y cada uno de sus ciudadanos. Y como caballero mi deber es mantenerlos a salvo",
+      "mensaje_sha256": "737491026d75a237f7467bfa77c0570169addd10fea7492d28f388749fb1cc0a",
+      "tipo_discord": 19,
+      "referencia": "1522654265959776286",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1523224925190750248",
+      "texto_sha256": "f427fbe2048ff0da03d03919e03dce35d498219a6d428b2dcc263bc1a39d507a",
+      "adjuntos": []
+    },
+    {
+      "id": "1523678012183285780",
+      "fecha_utc": "2026-07-06T13:12:26.673000+00:00",
+      "fecha_local": "2026-07-06",
+      "editado_utc": null,
+      "texto": "Ione: ...**Suspira dejando los barriles por el momento** ¿Sabes que nos van a atacar por tierra y mar? ¿Que puede causar mas muertes? ¿Una pistola o un cañon?",
+      "mensaje_sha256": "40ab0f287f50c4a9d8398cd806b43ccdf5190574ef9e6cb4cc0ad6853b184a79",
+      "tipo_discord": 19,
+      "referencia": "1523224925190750248",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1523678012183285780",
+      "texto_sha256": "594fb812236d05eaedc239cee10798feee7400474428d66da350c9c8105ab85d",
+      "adjuntos": []
+    },
+    {
+      "id": "1523679693675565076",
+      "fecha_utc": "2026-07-06T13:19:07.572000+00:00",
+      "fecha_local": "2026-07-06",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Agacha la mirada y aprieta los puños**\n\n- es cruel tener que elegir solo una forma de proteger algo...",
+      "mensaje_sha256": "cfc8ea5220c8f4e99141f2ff49e783cef40b4ef6b61d7266118fbc985d7b30df",
+      "tipo_discord": 19,
+      "referencia": "1523678012183285780",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1523679693675565076",
+      "texto_sha256": "50d87c2ce4105a6de28ba29012c7c7041e9e46bd7952aaff4c2af4d24e7e8aa1",
+      "adjuntos": []
+    },
+    {
+      "id": "1523680188813017178",
+      "fecha_utc": "2026-07-06T13:21:05.622000+00:00",
+      "fecha_local": "2026-07-06",
+      "editado_utc": null,
+      "texto": "Ione: no puedes estar en todos sitios... Creme a mi tambien me gustaria pelear en tierra... Pero en el mar tambien necesitan gente y no todos tienen un barco... Y necesito a toda mi tripulacion para poder luchar...",
+      "mensaje_sha256": "fd4f2782d62a84623aaa35e9bc5f8d4e5ab65ad05e7f2286f86d7e21ab103ab0",
+      "tipo_discord": 19,
+      "referencia": "1523679693675565076",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1523680188813017178",
+      "texto_sha256": "6e4d478d4ae110950adb0f5fab09ea010f32e1be0025f7336c402d024206cb6c",
+      "adjuntos": []
+    },
+    {
+      "id": "1523681485058605138",
+      "fecha_utc": "2026-07-06T13:26:14.671000+00:00",
+      "fecha_local": "2026-07-06",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Sin dejar de apretar los puños mira a la capitana pirata**\n\n- me honra que considere a un simple caballero herrante como parte de su grupo...\n\n**El gnomo suspira**\n\n- está bien... Aceptaré mi sino... Solo rezo a los hados para que los valerosos combatientes que se queden en tierra puedan aguantar hasta mi llegada! Pues juro que los rescataré en las horas más oscuras!",
+      "mensaje_sha256": "73f4aea59495985f7b7e47d31c597bde16a9a4b6757529075597b1c5d867f291",
+      "tipo_discord": 19,
+      "referencia": "1523680188813017178",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1523681485058605138",
+      "texto_sha256": "92a139f07ea6461b4b313bfc2e8550bcc94b7533bb6b63f44f10193e26fa7160",
+      "adjuntos": []
+    },
+    {
+      "id": "1523682113818329191",
+      "fecha_utc": "2026-07-06T13:28:44.579000+00:00",
+      "fecha_local": "2026-07-06",
+      "editado_utc": null,
+      "texto": "Ione: **Sonrie** Seguro q si, ellos se preparan como nosotros... Ahora... Tienes que ayudarme a llenar esos barriles de un polvo magico muy especial",
+      "mensaje_sha256": "c1a688630ce43eb3449b4f1e04fee61a0f58a90511a64980671889d91f75ff80",
+      "tipo_discord": 19,
+      "referencia": "1523681485058605138",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1523682113818329191",
+      "texto_sha256": "6a2becc2f10dcd5164e47d3ef4fc26922e0836c58b64d954be01c3aae57b48f8",
+      "adjuntos": []
+    },
+    {
+      "id": "1523682348636573848",
+      "fecha_utc": "2026-07-06T13:29:40.564000+00:00",
+      "fecha_local": "2026-07-06",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Levanta su mano hasta la frente a modo de saludo militar**\n\n- como ordene lady Ione!",
+      "mensaje_sha256": "08e4be72c11735f8c9b357530b041603cee04b4416cc7c2f06287a03bce5e8f7",
+      "tipo_discord": 19,
+      "referencia": "1523682113818329191",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1523682348636573848",
+      "texto_sha256": "f52729faba8e5b3b3f85c4a2f26a5d1193c03c86ccaab9817716729f56ab5070",
+      "adjuntos": []
+    },
+    {
+      "id": "1523682552957767760",
+      "fecha_utc": "2026-07-06T13:30:29.278000+00:00",
+      "fecha_local": "2026-07-06",
+      "editado_utc": null,
+      "texto": "Ione: Bien, pues agarra mecha y polvora... Ya veras... Vamos a enseñarlos a volar",
+      "mensaje_sha256": "64d98a9ac036e253703ece8b1ba840d2aa4a2b9fd6249038a518e0da033ebb8a",
+      "tipo_discord": 19,
+      "referencia": "1523682348636573848",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1523682552957767760",
+      "texto_sha256": "b382c293abc0695614752c4913785ab68eeee156cf7fad410ac1362ff0b16b16",
+      "adjuntos": []
+    },
+    {
+      "id": "1523684651518918726",
+      "fecha_utc": "2026-07-06T13:38:49.614000+00:00",
+      "fecha_local": "2026-07-06",
+      "editado_utc": null,
+      "texto": "🔴 **Fin de la escena, q quiero dormir**🔴",
+      "mensaje_sha256": "453a1545c846d9631eec0864162d0b643dcda5ebfef30efd09629c018ee3a713",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1523684651518918726",
+      "texto_sha256": "7deb38122da412fcd0eb4e0fc97e9c453eb9c38e2eb632d47d5520bd4d0189f8",
+      "adjuntos": []
+    }
+  ]
+}

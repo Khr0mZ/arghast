@@ -1,0 +1,440 @@
+{
+  "hilo_id": "1502317868253970632",
+  "hilo": "Perlasal - La ciudad de las Sirenas",
+  "campana": "xoltacan",
+  "unidades_leidas": 5,
+  "alcance": "112 mensajes, seis partes de lectura y siete adjuntos completos. Seguimiento limitado a lo que este hilo muestra o declara.",
+  "identidades": [
+    {
+      "nombre": "Maris",
+      "alias": [],
+      "pruebas": [
+        "1503262978970091620"
+      ],
+      "nota": "Se identifica como hija de la suma sacerdotisa de Perlasal.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1503262978970091620",
+          "escena": "x-1503179517689069712",
+          "fecha_utc": "2026-05-11T05:10:23.462000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1503262978970091620"
+        }
+      ]
+    },
+    {
+      "nombre": "Archi",
+      "alias": [
+        "Archie"
+      ],
+      "pruebas": [
+        "1553104513739526145",
+        "1553327086549340271"
+      ],
+      "nota": "Ambas grafías designan al interlocutor que proyecta su imagen mediante el tiburón mecánico; es evidencia de Xoltacan.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1553104513739526145",
+          "escena": "x-1553099916652454060",
+          "fecha_utc": "2026-09-25T18:02:51.362000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553104513739526145"
+        },
+        {
+          "mensaje_id": "1553327086549340271",
+          "escena": "x-1553099916652454060",
+          "fecha_utc": "2026-09-26T08:47:16.855000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553327086549340271"
+        }
+      ]
+    },
+    {
+      "nombre": "Oghma",
+      "alias": [
+        "La vieja Boga"
+      ],
+      "pruebas": [
+        "1555256562002559017"
+      ],
+      "nota": "La vieja Boga es un disfraz de anciana tritona que Oghma emplea en la taberna, no una segunda persona independiente.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1555256562002559017",
+          "escena": "x-1554089252814454795",
+          "fecha_utc": "2026-10-01T16:34:19.651000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1555256562002559017"
+        }
+      ]
+    }
+  ],
+  "arcos": [
+    {
+      "nombre": "La confianza de Perlasal",
+      "avance": "Āyōtōchtli presenta un enemigo muerto y ofrece entrenamiento conjunto; no se representa una respuesta de los habitantes.",
+      "pruebas": [
+        "1502321492468433017"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1502321492468433017",
+          "escena": "x-1502317868253970632",
+          "fecha_utc": "2026-05-08T14:49:15.588000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1502321492468433017"
+        }
+      ]
+    },
+    {
+      "nombre": "Coyote y Maris",
+      "avance": "Se muestran afecto, ella teme por los visitantes y él promete ayudar y regresar tras sus asuntos en la superficie.",
+      "pruebas": [
+        "1503636561106047056",
+        "1503771694282838157",
+        "1504486125593690366"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1503636561106047056",
+          "escena": "x-1503179517689069712",
+          "fecha_utc": "2026-05-12T05:54:52.384000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1503636561106047056"
+        },
+        {
+          "mensaje_id": "1503771694282838157",
+          "escena": "x-1503179517689069712",
+          "fecha_utc": "2026-05-12T14:51:50.644000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1503771694282838157"
+        },
+        {
+          "mensaje_id": "1504486125593690366",
+          "escena": "x-1504486125593690366",
+          "fecha_utc": "2026-05-14T14:10:44.342000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1504486125593690366"
+        }
+      ]
+    },
+    {
+      "nombre": "El concilio y la Llave del Sol",
+      "avance": "Naór explica la necesidad de unir las reliquias de los líderes. Coyote y Tortas proponen ayudar a Perlasal para negociar su colaboración; no se abre la Cámara ni se declara una guerra en la escena.",
+      "pruebas": [
+        "1527449224642433127",
+        "1527455882735255724"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1527449224642433127",
+          "escena": "x-1527436690531029186",
+          "fecha_utc": "2026-07-16T22:57:53.789000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1527449224642433127"
+        },
+        {
+          "mensaje_id": "1527455882735255724",
+          "escena": "x-1527436690531029186",
+          "fecha_utc": "2026-07-16T23:24:21.202000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1527455882735255724"
+        }
+      ]
+    },
+    {
+      "nombre": "Preparar la lucha con el kraken",
+      "avance": "Patata habla de proteger el refugio; el grupo recibe los trajes de Archi y un maletín para Chopito. Tenta busca ayuda y Coyote intenta reparar una caracola. La batalla no se juega en este hilo.",
+      "pruebas": [
+        "1553053080000405608",
+        "1553446502506954823",
+        "1553462393806258228",
+        "1555249209073082368"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1553053080000405608",
+          "escena": "x-1552821125669453849",
+          "fecha_utc": "2026-09-25T14:38:28.603000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553053080000405608"
+        },
+        {
+          "mensaje_id": "1553446502506954823",
+          "escena": "x-1553099916652454060",
+          "fecha_utc": "2026-09-26T16:41:47.838000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553446502506954823"
+        },
+        {
+          "mensaje_id": "1553462393806258228",
+          "escena": "x-1553099916652454060",
+          "fecha_utc": "2026-09-26T17:44:56.619000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553462393806258228"
+        },
+        {
+          "mensaje_id": "1555249209073082368",
+          "escena": "x-1554089252814454795",
+          "fecha_utc": "2026-10-01T16:05:06.576000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1555249209073082368"
+        }
+      ]
+    }
+  ],
+  "pendientes": [
+    {
+      "pregunta": "¿Acepta el pueblo de Perlasal la oferta de entrenamiento de Āyōtōchtli?",
+      "pruebas": [
+        "1502321492468433017"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1502321492468433017",
+          "escena": "x-1502317868253970632",
+          "fecha_utc": "2026-05-08T14:49:15.588000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1502321492468433017"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Acepta Perlasal colaborar en el concilio y se reúnen las reliquias de la Llave del Sol?",
+      "pruebas": [
+        "1527449224642433127",
+        "1527455882735255724"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1527449224642433127",
+          "escena": "x-1527436690531029186",
+          "fecha_utc": "2026-07-16T22:57:53.789000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1527449224642433127"
+        },
+        {
+          "mensaje_id": "1527455882735255724",
+          "escena": "x-1527436690531029186",
+          "fecha_utc": "2026-07-16T23:24:21.202000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1527455882735255724"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Se repara la caracola y puede realmente controlar al kraken?",
+      "pruebas": [
+        "1554567036015878205",
+        "1555249209073082368"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1554567036015878205",
+          "escena": "x-1554089252814454795",
+          "fecha_utc": "2026-09-29T18:54:23.845000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1554567036015878205"
+        },
+        {
+          "mensaje_id": "1555249209073082368",
+          "escena": "x-1554089252814454795",
+          "fecha_utc": "2026-10-01T16:05:06.576000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1555249209073082368"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué efecto tiene el maletín de Chopito y cómo se cumplen las condiciones de Archi, incluido el examen de Patata?",
+      "pruebas": [
+        "1553446502506954823",
+        "1553462393806258228"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1553446502506954823",
+          "escena": "x-1553099916652454060",
+          "fecha_utc": "2026-09-26T16:41:47.838000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553446502506954823"
+        },
+        {
+          "mensaje_id": "1553462393806258228",
+          "escena": "x-1553099916652454060",
+          "fecha_utc": "2026-09-26T17:44:56.619000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553462393806258228"
+        }
+      ],
+      "cotejo_posterior": {
+        "estado": "parcial",
+        "respuesta": "La continuación en Jungla muestra que Archi recibe el ojo. Queda cumplida esa condición material del intercambio.",
+        "pendiente": "No acredita por sí sola el efecto del maletín ni que Patata aceptara o recibiera el examen solicitado.",
+        "pruebas": [
+          "1556021550019387513"
+        ],
+        "orden_temporal": "posterior",
+        "fuentes_rol": [
+          {
+            "mensaje_id": "1556021550019387513",
+            "escena": "x-1555995330401800234",
+            "fecha_utc": "2026-10-03T19:14:07.007000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1556021550019387513"
+          }
+        ]
+      }
+    },
+    {
+      "pregunta": "¿Se juega el enfrentamiento con el kraken y se entrega la recompensa que Oghma reclama?",
+      "pruebas": [
+        "1553052516294332567",
+        "1555256562002559017"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1553052516294332567",
+          "escena": "x-1552821125669453849",
+          "fecha_utc": "2026-09-25T14:36:14.205000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553052516294332567"
+        },
+        {
+          "mensaje_id": "1555256562002559017",
+          "escena": "x-1554089252814454795",
+          "fecha_utc": "2026-10-01T16:34:19.651000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1555256562002559017"
+        }
+      ],
+      "cotejo_posterior": {
+        "estado": "parcial",
+        "respuesta": "Jungla conserva el regreso con el ojo del kraken, el testimonio de la victoria y su entrega a Archi. Se documenta ese resultado posterior, aunque la lucha no esté representada en el hilo de Perlasal.",
+        "pendiente": "La recompensa concreta reclamada por Oghma y la ejecución completa del combate no quedan resueltas por la entrega del ojo a Archi.",
+        "pruebas": [
+          "1555995330401800234",
+          "1556014467836416011",
+          "1556021550019387513"
+        ],
+        "orden_temporal": "posterior",
+        "fuentes_rol": [
+          {
+            "mensaje_id": "1555995330401800234",
+            "escena": "x-1555995330401800234",
+            "fecha_utc": "2026-10-03T17:29:55.763000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1555995330401800234"
+          },
+          {
+            "mensaje_id": "1556014467836416011",
+            "escena": "x-1555995330401800234",
+            "fecha_utc": "2026-10-03T18:45:58.483000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1556014467836416011"
+          },
+          {
+            "mensaje_id": "1556021550019387513",
+            "escena": "x-1555995330401800234",
+            "fecha_utc": "2026-10-03T19:14:07.007000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1556021550019387513"
+          }
+        ]
+      }
+    }
+  ],
+  "relaciones": [
+    {
+      "personas": [
+        "Coyote",
+        "Maris"
+      ],
+      "desarrollo": "Se cortejan y descansan juntos; Coyote promete regresar. No se muestra una boda.",
+      "pruebas": [
+        "1503636561106047056",
+        "1503798667977560236"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1503636561106047056",
+          "escena": "x-1503179517689069712",
+          "fecha_utc": "2026-05-12T05:54:52.384000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1503636561106047056"
+        },
+        {
+          "mensaje_id": "1503798667977560236",
+          "escena": "x-1503179517689069712",
+          "fecha_utc": "2026-05-12T16:39:01.674000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1503798667977560236"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Naór",
+        "Coyote",
+        "Tortas"
+      ],
+      "desarrollo": "Discuten una solución diplomática para el concilio; Coyote rechaza actuar precipitadamente y Tortas ofrece ayudar.",
+      "pruebas": [
+        "1527445922362032280",
+        "1527455882735255724"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1527445922362032280",
+          "escena": "x-1527436690531029186",
+          "fecha_utc": "2026-07-16T22:44:46.464000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1527445922362032280"
+        },
+        {
+          "mensaje_id": "1527455882735255724",
+          "escena": "x-1527436690531029186",
+          "fecha_utc": "2026-07-16T23:24:21.202000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1527455882735255724"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Archi",
+        "Patata",
+        "Coyote",
+        "Zelda"
+      ],
+      "desarrollo": "Archi pide un ojo del kraken y examinar a Patata a cambio de ayuda. Coyote acepta el ojo; no se registra consentimiento expreso de Patata para el examen.",
+      "pruebas": [
+        "1553446502506954823",
+        "1553453187976011787",
+        "1553462995940675685"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1553446502506954823",
+          "escena": "x-1553099916652454060",
+          "fecha_utc": "2026-09-26T16:41:47.838000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553446502506954823"
+        },
+        {
+          "mensaje_id": "1553453187976011787",
+          "escena": "x-1553099916652454060",
+          "fecha_utc": "2026-09-26T17:08:21.778000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553453187976011787"
+        },
+        {
+          "mensaje_id": "1553462995940675685",
+          "escena": "x-1553099916652454060",
+          "fecha_utc": "2026-09-26T17:47:20.179000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553462995940675685"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Tenta",
+        "Chopito"
+      ],
+      "desarrollo": "Tenta actúa como asistente e intérprete de los deseos de Chopito; son interlocutores distintos, aunque los escriba la misma persona.",
+      "pruebas": [
+        "1553101951816826915",
+        "1554089252814454795"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1553101951816826915",
+          "escena": "x-1553099916652454060",
+          "fecha_utc": "2026-09-25T17:52:40.552000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553101951816826915"
+        },
+        {
+          "mensaje_id": "1554089252814454795",
+          "escena": "x-1554089252814454795",
+          "fecha_utc": "2026-09-28T11:15:51.453000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1554089252814454795"
+        }
+      ]
+    }
+  ],
+  "precauciones_editoriales": [
+    "No deducir parentesco literal del chiste sobre el kraken como hijo de Zelda.",
+    "Las explicaciones de Naór sobre reliquias y guerras se atribuyen a su voz.",
+    "El rol posterior al catálogo no certifica que se hayan revisado los vídeos intermedios."
+  ],
+  "estado_seguimiento": "al_cierre_del_hilo",
+  "nota_seguimiento": "Cada cuestión conserva el contexto de sus mensajes originales. Los cotejos enlazan las respuestas halladas en otras escenas; la ausencia de un cotejo no demuestra que siga abierta después de otros capítulos.",
+  "fecha_hasta_utc": "2026-10-03T11:53:28.206000+00:00"
+}

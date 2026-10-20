@@ -1,0 +1,78 @@
+{
+  "id": "x-1511660935931236402",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1511660935931236402",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "Poncelot deja Shiaru para pertrecharse",
+  "resumen": "Sale con Merlucilla IV tras dejar una nota en el despacho de Ione.",
+  "relato": "Al amanecer, Poncelot cruza la cubierta del Zampaolas entre los compañeros dormidos después de la fiesta. Lleva la armadura en un petate y deja una nota en el escritorio de Ione. Luego prepara a Merlucilla IV, aún algo herida, y se marcha de Shiaru con intención de ausentarse solo unos días para equiparse. No se transcribe la nota ni se muestra aquí su destino.",
+  "participantes": [
+    "Sir Poncelot",
+    "Merlucilla IV"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1511660935931236402",
+      "afirmacion": "El gnomo prepara la montura y deja una nota antes de partir.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La marcha de Poncelot es una escena independiente de la petición de Erandi."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-06-03T09:20:52.428000+00:00",
+  "fin_utc": "2026-06-03T09:20:52.428000+00:00",
+  "fecha_local": "2026-06-03",
+  "intervalo": {
+    "anterior": 36,
+    "siguiente": 37,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1511430616145723484",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1512525575573475348",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 36,
+        "fecha": "2026-06-02",
+        "inicio_referencia_utc": "2026-06-02T18:05:24+00:00",
+        "fin_estimado_utc": "2026-06-02T20:38:28+00:00",
+        "duracion_video_segundos": 9184,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1511430616145723484"
+      },
+      {
+        "capitulo": 37,
+        "fecha": "2026-06-05",
+        "inicio_referencia_utc": "2026-06-05T18:36:17+00:00",
+        "fin_estimado_utc": "2026-06-05T20:56:06+00:00",
+        "duracion_video_segundos": 8389,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1512525575573475348"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1511660935931236402",
+      "fecha_utc": "2026-06-03T09:20:52.428000+00:00",
+      "fecha_local": "2026-06-03",
+      "editado_utc": "2026-06-03T09:53:13.808000+00:00",
+      "texto": "Sir Poncelot \n\n**Con los primeros rayos de sol, se ve una pequeña figura andando a hurtadillas por la cubierta del Zampaolas. Iba con sumo cuidado esquivando brazos y piernas de gente roncando en el suelo. En los brazos se le veia un bulto enorme, un petate casi tan grande como el, que emitía un pequeñísimo tintineo metálico**\n\n*Un piececito por aquí... Ahora por allá... Cuidado con la mano de ese señor... Diantres, le faltan dos dedos... Con calma... No pises ese... Que es... Ese caballero se ha dejado la verga al aire? Si es que el alcohol saca lo peor del hombre de bien...*\n\n**El gnomo termina de cruzar la cubierta llena de borrachos roncando y llega a la entrada de los camarotes cargando su petate con su armadura**\n\n- bueno, la fiesta ha sido sublime pero es hora de que este humilde caballero se ponga en marcha. Debo aprovechar raudo está efímera calma que hemos conseguido...\n\n**Se cuelga a la espalda el petate y se dirige al despacho de la capitana Ione. Donde le deja una nota en el escritorio <@753394009153732689> . Tras esto baja la podrida escalera de madera que da a la taberna: situación clavada a la de la cubierta del barco. Borrachos por el suelo y encima de la barra y mesas.\n\nEl caballero sale del local, va en dirección a donde descansa Merlucilla IV aún un poco herido, le acaricia mientras le coloca las riendas y la silla y lo dirige a la salida de Shiaru. Para un segundo y echa la mirada atrás**\n\n- no sufras por mí mi valerosa Capitana. Este humilde le caballero herrante se ausentará apenas unos días pues debe pertrecharse como es debido. La dejo en buenas manos entre sus valerosos hombres. Nos volveremos a ver muy pronto.\n\n**Con rostro melancólico, Sir Poncelot lanza un beso al aire en dirección al barco pirata y mantiene la postura unos segundos. Cómo si posara para un cuadro, creando una escena de un dramatismo exageradamente innecesario. Acabada la teatral escena, el gnomo sabandona Shiaru**\n\n🐴 Sir Poncelot sale de escena 🐴",
+      "mensaje_sha256": "28e10bc30cf184833244eaf48b1af642f37d6ab0a7079f0c594f80a0bdc3c737",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511660935931236402",
+      "texto_sha256": "d7b663d3a1454260178e1983c05a9ed122acc8d32425517a86c72b7c30c5dfd4",
+      "adjuntos": []
+    }
+  ]
+}

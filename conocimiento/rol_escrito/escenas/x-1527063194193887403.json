@@ -1,0 +1,191 @@
+{
+  "id": "x-1527063194193887403",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1527063194193887403",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "Tortas busca cómo llegar a Perlasal",
+  "resumen": "El maestro teme que su capacidad de apnea no baste para acompañar a Naór y considera las sirenas mencionadas por Coyote.",
+  "relato": "Desde su roca, Tortas contempla el horizonte y piensa en la profundidad de Perlasal. No conoce un camino que le permita alcanzarla con seguridad. Considera recurrir a su respiración, pero teme que cualquier contratiempo lo haga ahogarse y lamenta no ser más joven. Su compromiso con Naór pesa más que la comodidad: ella le ha pedido ayuda y no quiere defraudarla. Recuerda entonces que Coyote habló de sirenas y adoptó la forma de una. El monólogo termina mientras sigue buscando una posibilidad; no conversa todavía con el cambiante, obtiene un medio para respirar ni emprende el viaje.",
+  "participantes": [
+    "Tortas"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1527063853320372294",
+      "afirmacion": "Tortas teme que su respiración no baste ante un contratiempo.",
+      "tipo": "pensamiento"
+    },
+    {
+      "mensaje_id": "1527064567505616957",
+      "afirmacion": "Quiere cumplir la ayuda que Naór le ha pedido.",
+      "tipo": "pensamiento"
+    },
+    {
+      "mensaje_id": "1527065692057370795",
+      "afirmacion": "Recuerda la transformación de Coyote en sirena mientras busca una alternativa.",
+      "tipo": "pensamiento"
+    }
+  ],
+  "notas": [
+    "Es un monólogo interior: Naór y Coyote no conocen automáticamente sus dudas o su idea."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2026-07-15T21:23:56.958000+00:00",
+  "fin_utc": "2026-07-15T21:33:52.495000+00:00",
+  "fecha_local": "2026-07-15",
+  "intervalo": {
+    "anterior": 43,
+    "siguiente": 44,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1525209204300841101",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527010759236653109",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 43,
+        "fecha": "2026-07-10",
+        "inicio_referencia_utc": "2026-07-10T18:35:33+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1525209204300841101"
+      },
+      {
+        "capitulo": 44,
+        "fecha": "2026-07-15",
+        "inicio_referencia_utc": "2026-07-15T17:55:09+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527010759236653109"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1527063194193887403",
+      "fecha_utc": "2026-07-15T21:23:56.958000+00:00",
+      "fecha_local": "2026-07-15",
+      "editado_utc": "2026-07-15T21:25:34.754000+00:00",
+      "texto": "**Tortas está mirando al horizonte en su roca**\n\nY dice:\n\nMmmmmmm....\n\nPerlasal\n\nEso tiene que estar muy profundo\n\nY piensa:",
+      "mensaje_sha256": "77b581504d539133bea56cfbf76d131cee319e5af88a2757348c780b764d96d1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1527063194193887403",
+      "texto_sha256": "2dc846686b5aad08e48919dd4f25ccfedd9c2e88d73672215dc4734563eec673",
+      "adjuntos": []
+    },
+    {
+      "id": "1527063390025945188",
+      "fecha_utc": "2026-07-15T21:24:43.648000+00:00",
+      "fecha_local": "2026-07-15",
+      "editado_utc": null,
+      "texto": "*No conozco ningún camino que me permita llegar hasta allí*",
+      "mensaje_sha256": "d1ac145dd2eb5db1592bcdc03db04342f76f27d7dc2adfce7e4a0590a644a50a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1527063390025945188",
+      "texto_sha256": "af50c5bbbc0363c0f975b91de42c709566bd39ace4266add04e5ea825b1b4690",
+      "adjuntos": []
+    },
+    {
+      "id": "1527063675121176616",
+      "fecha_utc": "2026-07-15T21:25:51.620000+00:00",
+      "fecha_local": "2026-07-15",
+      "editado_utc": null,
+      "texto": "*tal vez el camino de la respiración*",
+      "mensaje_sha256": "270c4b7adc46beb817ecd321b944868090cc5e2c5bb1677672a663a5c21482a4",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1527063675121176616",
+      "texto_sha256": "625eab628a6a0b82c261aa7ead8d7d96554b1447a4c2d2b336a2606e5dfc4f9c",
+      "adjuntos": []
+    },
+    {
+      "id": "1527063853320372294",
+      "fecha_utc": "2026-07-15T21:26:34.106000+00:00",
+      "fecha_local": "2026-07-15",
+      "editado_utc": null,
+      "texto": "*pero no sería suficiente, si existe algún contratiempo moriré ahogado*",
+      "mensaje_sha256": "bfe4fa7f80b06d73aada5358036259066697fce92e41a9706cec5fb0e9670871",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1527063853320372294",
+      "texto_sha256": "063558e34415d0e709931c1e7acfcfe1470f2c20d47244ba5adfce5ad74cb78b",
+      "adjuntos": []
+    },
+    {
+      "id": "1527064228119449789",
+      "fecha_utc": "2026-07-15T21:28:03.465000+00:00",
+      "fecha_local": "2026-07-15",
+      "editado_utc": null,
+      "texto": "**Los ojos de Tortas se entrecierran un poco y frunce un poco el ceño de tortuga que tiene** \n\n**Está en el camino del problema**",
+      "mensaje_sha256": "7099f9e211dc2b15cf5a6b221f11e5a9f1483c16f9f3cb9fc0ac855add5ab22e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1527064228119449789",
+      "texto_sha256": "f08f2cb8a9dcda783c3d0bd84ea9dff175471fa42659525f567c6e9473369863",
+      "adjuntos": []
+    },
+    {
+      "id": "1527064382842994729",
+      "fecha_utc": "2026-07-15T21:28:40.354000+00:00",
+      "fecha_local": "2026-07-15",
+      "editado_utc": null,
+      "texto": "*Si tan solo fuera un poco más joven aguantaría algo más bajo el agua*",
+      "mensaje_sha256": "0eea186c6dc8645043ff4622978b4c00e32ee102aad91b263092a46aa74523bf",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1527064382842994729",
+      "texto_sha256": "b23113ea16bc55474a0c30acf0f4bf342f9649b8b0aa7877876aa5e8f28b42a3",
+      "adjuntos": []
+    },
+    {
+      "id": "1527064567505616957",
+      "fecha_utc": "2026-07-15T21:29:24.381000+00:00",
+      "fecha_local": "2026-07-15",
+      "editado_utc": null,
+      "texto": "*y bigotitos me ha pedido ayuda no puedo defraudarla*",
+      "mensaje_sha256": "5507465286b8530895787a294c6f6292c925b2e8f62c1630791497363aebbad6",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1527064567505616957",
+      "texto_sha256": "546d386963a491b6aa9cd7267ce6e6bd5717f4d2e9bb023dbfcb8817e31620c9",
+      "adjuntos": []
+    },
+    {
+      "id": "1527064807495172167",
+      "fecha_utc": "2026-07-15T21:30:21.599000+00:00",
+      "fecha_local": "2026-07-15",
+      "editado_utc": null,
+      "texto": "*porque claro me ve como una figura en la que apoyarse en sus momentos de conflictos*",
+      "mensaje_sha256": "4995da11fe9625155b3acde76bacbfa5f3091b3d215ea3f90b60d15fbbd2881a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1527064807495172167",
+      "texto_sha256": "e198f0866af35fffc5c5613bdd368adfa9af54318079d2ad62bd34ab44351ed3",
+      "adjuntos": []
+    },
+    {
+      "id": "1527065692057370795",
+      "fecha_utc": "2026-07-15T21:33:52.495000+00:00",
+      "fecha_local": "2026-07-15",
+      "editado_utc": null,
+      "texto": "*y ese coyote dijo algo de unas sirenas y de hecho se convirtió en una.......*\n\n**Y Tortas se quedaría envuelto en sus pensamientos buscando alguna opción para ayudar a Bigotitos**\n\n🔴Fin del monólogo interno de Tortas (más o menos)🔴",
+      "mensaje_sha256": "bb41f71bd4492ff0a679ccb83d1affb0d1cc86e93b28b1c48d76e15bbab50932",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1527065692057370795",
+      "texto_sha256": "6221d696a290de89e71660af6fda5286b034167fe9c4c7fba16a8808b979fa7d",
+      "adjuntos": []
+    }
+  ]
+}

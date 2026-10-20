@@ -1,0 +1,217 @@
+{
+  "id": "x-1528714214393516133",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1528714214393516133",
+  "hilo_id": "1482149664131383316",
+  "hilo_nombre": "Cuicapalli - La villa tranquila",
+  "titulo": "La recompensa son bolas de arroz",
+  "resumen": "Edahi desayuna con Leona antes de visitar al jefe.",
+  "relato": "Después de recuperarse del picante, Guayacán llama a la puerta usando su nombre Edahi y entra sin máscara. Leona le ofrece bolas de arroz de su tierra como recompensa. Él las disfruta y agradece conmovido. Ella observa su pelo largo y ofrece cortarlo más tarde, pero ambos prefieren ir a conocer el estado de Eromov. Al admitir él su intolerancia al picante, Leona le da una medicina ficticia para el estómago y se preparan para salir. No se lleva a cabo el corte de pelo.",
+  "participantes": [
+    "Guayacán / Edahi",
+    "Leona"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1528715473024319518",
+      "afirmacion": "Leona entrega bolas de arroz como recompensa.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1528725567203967088",
+      "afirmacion": "Ofrece una medicina para el estómago antes de salir.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La mejoría no se confunde con recuperación completa ni con fin de la amenaza.",
+    "La aprobación del entrenamiento de guardias no llega a formalizarse ni se muestran ejercicios.",
+    "La sospecha contra un guardia queda sin prueba.",
+    "Ayoto recuerda Iktan por olores y cree poder guiarse; no se acredita un viaje realizado.",
+    "El ofrecimiento de corte de pelo no se lleva a cabo aquí."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-07-20T10:44:30.848000+00:00",
+  "fin_utc": "2026-07-20T11:46:53.660000+00:00",
+  "fecha_local": "2026-07-20",
+  "intervalo": {
+    "anterior": 45,
+    "siguiente": 46,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527375684333338644",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1529917702439698493",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 45,
+        "fecha": "2026-07-16",
+        "inicio_referencia_utc": "2026-07-16T18:02:20+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527375684333338644"
+      },
+      {
+        "capitulo": 46,
+        "fecha": "2026-07-23",
+        "inicio_referencia_utc": "2026-07-23T18:26:16+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1529917702439698493"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1528714214393516133",
+      "fecha_utc": "2026-07-20T10:44:30.848000+00:00",
+      "fecha_local": "2026-07-20",
+      "editado_utc": null,
+      "texto": "Guayacan: \n**tras unos dias de dolor y sufrimiento por comida picante que, a sabiendas de su cuerpo, no lo podria tolerar. Ya recomfortado y al salir el alba, como otro dia mas listo para la contienda se dirige hacia el hogar de Leona, tocando la puerta como todo buen caballero ¿que creen que entraria sin mas? nada de eso**\n-Maestra! Edahi reportandose! \n**le menciona sin vacilar, mostrandose firme**\n<@171702246952665098>",
+      "mensaje_sha256": "4c212da600c24316f443c388aabbe482cf3b1d3ba8e5d39c676c31d4775412ca",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1528714214393516133",
+      "texto_sha256": "fa4a7a9ac1a5c22e0cee1d0e100af2c3001db235903c350a996550bb8f286adf",
+      "adjuntos": []
+    },
+    {
+      "id": "1528714574591819876",
+      "fecha_utc": "2026-07-20T10:45:56.726000+00:00",
+      "fecha_local": "2026-07-20",
+      "editado_utc": null,
+      "texto": "Leona:\n!puedes pasar estoy preparando unas cosas!\n**se le veria en la cocina preparando unas bolas de arroz**",
+      "mensaje_sha256": "fa2b35424e16b44a2d71404f7cdf8485c4c7be6e20c4f566c360295fc6bff523",
+      "tipo_discord": 19,
+      "referencia": "1528714214393516133",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1528714574591819876",
+      "texto_sha256": "b3618ea900e1255ef802e291ba54facb68fef31075e81477a1082ad1977c4393",
+      "adjuntos": []
+    },
+    {
+      "id": "1528715045049991278",
+      "fecha_utc": "2026-07-20T10:47:48.892000+00:00",
+      "fecha_local": "2026-07-20",
+      "editado_utc": null,
+      "texto": "Guayacan: \n**entra en su humilde morada, cerrando la puerta tras de si. Tras unos minutos contemplando la entrada, detallaria a Leona en la cocina, aproximandose mientras se retira la mascara de su cabeza**\n-Huele bien...\n**la observa detenidamente, manteniendo el respeto**\n-Buena mañana Maestra, espero se encuentre bien. \n**detalla las bolas de arroz, y luego a ella**\n-Huh..desayuno ligero, astuto",
+      "mensaje_sha256": "86687fc881a943abcd18113e46ee69456692070f678e9b7bc78d62abe086f1b7",
+      "tipo_discord": 19,
+      "referencia": "1528714574591819876",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1528715045049991278",
+      "texto_sha256": "768590bea1e260c2d69fa8b4f12eb5c68a854e7f5fa9dfa602df400e2a40c6aa",
+      "adjuntos": []
+    },
+    {
+      "id": "1528715473024319518",
+      "fecha_utc": "2026-07-20T10:49:30.929000+00:00",
+      "fecha_local": "2026-07-20",
+      "editado_utc": null,
+      "texto": "Leona:\nToma\n**le ofrece las bolas de arroz cubiertas en una hoja**\nEspero que te valgan como recompensa es de las pocas cosas que se hacer de mi tierra natal",
+      "mensaje_sha256": "78c13da5065096cb85a6a795dae80dd3823a37ba24bf16baaa8200b6177e3f28",
+      "tipo_discord": 19,
+      "referencia": "1528715045049991278",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1528715473024319518",
+      "texto_sha256": "5d8a6681dad5b20a0fa71e3a8276d27f1b7269b098cefa323f694203e6f6af99",
+      "adjuntos": []
+    },
+    {
+      "id": "1528717045611626556",
+      "fecha_utc": "2026-07-20T10:55:45.863000+00:00",
+      "fecha_local": "2026-07-20",
+      "editado_utc": null,
+      "texto": "Guayacan: \n-...!!\n**toma uno, viendolo por unos instantes, para luego verla a ella**\n-......\n**la observa conmovido, para luego ascentir, tomando un bocado con mucha ilusion**\n-....Mmmmmhhh! Esta exquishitoh! \n**dibuja una sonrisa gustosa en el rostro, acabandolo en un instante**\n-Muchas gracias Leona! no tendrias porque haberte molestado..no he hecho tanto como usted...\n**se rasca la nuca, sonriendole con un aire humilde, incluso apenado, a pesar que bien sabe que ha estado dando todo de si para mostrar lo contrario**",
+      "mensaje_sha256": "bdc1ae3a5abb2fe1bebd4c774feefc8da2a85445d42e7acce1048841155059c9",
+      "tipo_discord": 19,
+      "referencia": "1528715473024319518",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1528717045611626556",
+      "texto_sha256": "e28d61f5b20c2cf31d44e718e6b6adb3be64ca5a1c944d6f98e134335b0faf8e",
+      "adjuntos": []
+    },
+    {
+      "id": "1528717545409089636",
+      "fecha_utc": "2026-07-20T10:57:45.024000+00:00",
+      "fecha_local": "2026-07-20",
+      "editado_utc": null,
+      "texto": "Leona:\nme alegro que te guste.\n**le toca el pelo largo y descuidado**\nTienes que recortartelo un poco o te molestara.\n**se queda un rato pensando**\nY tenemos que ver como esta el jefe",
+      "mensaje_sha256": "52af93f144f1f457ba0040b1e7e64ffc858d24ab576d7780b509cb0e85e48948",
+      "tipo_discord": 19,
+      "referencia": "1528717045611626556",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1528717545409089636",
+      "texto_sha256": "50a0dc3eb1571382b37a39131678c631e37e4ee9fcd9e2e7930c2caa22b3fb7d",
+      "adjuntos": []
+    },
+    {
+      "id": "1528718557825990686",
+      "fecha_utc": "2026-07-20T11:01:46.403000+00:00",
+      "fecha_local": "2026-07-20",
+      "editado_utc": null,
+      "texto": "Guayacan: \n**observa su cabellera, tomandose un momento para pensar**\n-...ahora que lo menciona...si suele provocar que el calor aumente en el traje...y luego mantenerlo es complicado al estar tan pegajoso...\n**reacciona ante esto ultimo asintiendo**\n-De hecho he venido por esto ultimo Maestra! quizas el curandero ya tenga resultados",
+      "mensaje_sha256": "380b1a687f044eaa3b79eee925c8ca1c123b623941025c67dc0eb27cc67a9e06",
+      "tipo_discord": 19,
+      "referencia": "1528717545409089636",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1528718557825990686",
+      "texto_sha256": "181e5c16bfe4eba6dab0491b429679480269e0853a7d692f641217dda45b4688",
+      "adjuntos": []
+    },
+    {
+      "id": "1528720880790802472",
+      "fecha_utc": "2026-07-20T11:11:00.241000+00:00",
+      "fecha_local": "2026-07-20",
+      "editado_utc": null,
+      "texto": "Leona:\nLuego te recorto el pelo si quieres.\ndime por favor como esta?",
+      "mensaje_sha256": "23cdf3c21875f88dc4dbde3c5855897ea4f2cf3621bacadcefa17c943761fa82",
+      "tipo_discord": 19,
+      "referencia": "1528718557825990686",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1528720880790802472",
+      "texto_sha256": "095f40c2123d45972bae24c49e47a879b49b8651c8297a0cd516af747042dc4d",
+      "adjuntos": []
+    },
+    {
+      "id": "1528721652085690460",
+      "fecha_utc": "2026-07-20T11:14:04.132000+00:00",
+      "fecha_local": "2026-07-20",
+      "editado_utc": null,
+      "texto": "Guayacan: \n-..Ah! n-no lo...he visto personalmente hasta la ultima vez, iba...a buscarle para ver su estado...el...picante...\n**muestra una cara palida y larga**\n-....no me ha sentado bien...\n**dice con suma verguenza, recordandose que no volveria a probar nada picante que Toru cocine**\n-...no tengo tolerancia al picante...",
+      "mensaje_sha256": "57555213a521a376b1b971a2ce8a5cb4c8790746e81cf8dba53321a8ecbe11a7",
+      "tipo_discord": 19,
+      "referencia": "1528720880790802472",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1528721652085690460",
+      "texto_sha256": "0da08be61c134c0b0fb5c28a0463bafcce37fa8beb4d8a7f1c4af9226b17db3a",
+      "adjuntos": []
+    },
+    {
+      "id": "1528725567203967088",
+      "fecha_utc": "2026-07-20T11:29:37.569000+00:00",
+      "fecha_local": "2026-07-20",
+      "editado_utc": null,
+      "texto": "Leona:\nCreo que tengo algo para eso\n**le ofrece algun tipo de medicina para el estomago**\nTomatelo y vamos a por el jefe",
+      "mensaje_sha256": "621c0c9d909ef9c980e1282ea849e4df63f7c7b145728234e380c5084cd99120",
+      "tipo_discord": 19,
+      "referencia": "1528721652085690460",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1528725567203967088",
+      "texto_sha256": "c2401e5d815ee7d5ef19a4a3dadf6133552d19b40da1acc60492de571e94ae8a",
+      "adjuntos": []
+    },
+    {
+      "id": "1528729912884592801",
+      "fecha_utc": "2026-07-20T11:46:53.660000+00:00",
+      "fecha_local": "2026-07-20",
+      "editado_utc": null,
+      "texto": "Guayacan: \n**toma la medicina, ingiriendola de una sola vez**\n-vayamos!",
+      "mensaje_sha256": "907dcabedb9e1ca639af1ea70a3d8cbe33c5854e83816abdf995994530b809e7",
+      "tipo_discord": 19,
+      "referencia": "1528725567203967088",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1528729912884592801",
+      "texto_sha256": "075f06027dfbccecb6d8acd43b99704db0be307a14e7c9c2b9dbc19937947fb6",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "id": "k-1441371937627443342",
+  "campana": "kuroto",
+  "unidad_revision": "k-1441371937627443342",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "La noticia que interrumpe el baile",
+  "resumen": "Sera informa a Wukong de la muerte de Kalista y ambos corren hacia palacio.",
+  "relato": "Tras bañarse, Wukong encuentra Sho silenciosa y se permite disfrutar de la libertad recuperada. Activa una caja de música y baila con toallas y gafas, hasta que descubre a Seraphina observándolo. Ella había preparado herramientas para reconstruir el palacio y le pide que vaya a ayudar. El mono, avergonzado por haber tenido público, pregunta por qué no basta el servicio de la shogun y si se trata de una novatada. Sera responde que ya no hay shogun y que ahora deben asumir más responsabilidad. También confirma su decisión de acompañar su entrenamiento, de acuerdo con lo prometido a Tang.\n\nWukong deja la broma al notar la gravedad y le exige saber qué ha ocurrido. Sera dice que Danifae asesinó a Kalista, consiguió todas las esferas y escapó; añade que Jelbreg perdió el control, quiso matarlos y también se marchó. El mono queda conmocionado, controla su respiración y se viste de inmediato con ropa vieja de la base. Recoge su cayado y anuncia que correrá a palacio sin detenerse hasta encontrar a sus compañeros. Sera ya tiene la bolsa de herramientas y acepta seguir el ritmo. Ambos salen a toda velocidad, sin que esta unidad muestre el estado del palacio ni los acontecimientos que ella acaba de relatar.",
+  "participantes": [
+    "Wukong",
+    "Seraphina"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1441371937627443342",
+      "afirmacion": "Wukong baila en la sala tras el baño, disfrutando de su libertad.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1441400576947781762",
+      "afirmacion": "Sera prepara herramientas para la reconstrucción y lo llama a ayudar.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1441454952953282762",
+      "afirmacion": "Sera anuncia que ya no hay shogun y asume acompañar su entrenamiento.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1441477291916923033",
+      "afirmacion": "Sera atribuye a Danifae la muerte de Kalista y el robo de esferas, y relata la violencia y marcha de Jelbreg.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1441561756966322406",
+      "afirmacion": "Wukong se viste y se dispone a ir inmediatamente al palacio.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1441564307107352648",
+      "afirmacion": "Wukong sale corriendo hacia sus compañeros.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1441564870033150011",
+      "afirmacion": "Seraphina corre tras él hacia palacio.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La muerte de Kalista, la conducta de Jelbreg y la fuga de Danifae se conservan como informe explícito de Sera; los actos no se representan aquí.",
+    "El GIF es una referencia visual humorística para el baile; no introduce personas o acontecimientos externos al rol.",
+    "El canto se resume sin reproducir letras de canciones.",
+    "No se inventa nuevo gobernante, recuperación de esferas ni resultado de la reconstrucción."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-11-21T10:17:29.326000+00:00",
+  "fin_utc": "2025-11-21T23:04:23.366000+00:00",
+  "fecha_local": "2025-11-21",
+  "intervalo": {
+    "anterior": 168,
+    "siguiente": 169,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1442596662206922943",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 168,
+        "fecha": "2025-11-20",
+        "inicio_referencia_utc": "2025-11-20T19:03:40+00:00",
+        "fin_estimado_utc": "2025-11-20T22:00:36+00:00",
+        "duracion_video_segundos": 10616,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816"
+      },
+      {
+        "capitulo": 169,
+        "fecha": "2025-11-24",
+        "inicio_referencia_utc": "2025-11-24T19:23:51+00:00",
+        "fin_estimado_utc": "2025-11-24T22:32:50+00:00",
+        "duracion_video_segundos": 11339,
+        "tipo_referencia": "aviso_de_contraste",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1442596662206922943"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida. Una hora tomada de un aviso con título discrepante se utiliza solo como referencia aproximada de ese día."
+  },
+  "fuentes": [
+    {
+      "id": "1441371937627443342",
+      "fecha_utc": "2025-11-21T10:17:29.326000+00:00",
+      "fecha_local": "2025-11-21",
+      "editado_utc": "2025-11-21T10:39:10.051000+00:00",
+      "texto": "Wukong\n\n**La base está en silencio. Se puede observar la puerta del baño entre abrirse lentamente dejando salir bastante vapor. A cámara lenta se asoma una cabeza peluda: Wukong hace un escaneo al salón principal**\n\n*Perfecto. No hay moros en la costa*\n\n**Vuelve a meter la cabeza hacia dentro para seguidamente abrir la puerta de golpe. se puede ver al mono saliendo de entre el vapor con una toalla en la cintura y otra colgándole de los hombros. Su paso es rítmico. Se contonea. Observa una cómoda justo al lado de la puerta del baño y ve una cajita sonora**\n\n*Vamos a hacerlo épico*\n\n**Wukong le da unos toquecitos a la caja y empieza a sonar música. Bastante animada. De repente el monje saca (no se sabe de dónde 🤷) unas gafas de sol y se las coloca mientras pone una expresión chulesca. Aceleara el paso en dirección a la gran mesa del salón y, de un salto, sube y se desliza por la superficie de madera mientras se contonea y hace que toca un instrumento imaginario**\n\n*Que gusto el ser libreeeeeee 🎶*",
+      "mensaje_sha256": "b848aebe7b7e4aa9de4ed5eb794fc724a83f17489e0aa72e7a8c2864cf3e3bcf",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1441371937627443342",
+      "texto_sha256": "ead5bb388e5395017e658fb816e58d9a9f44c748a1495703e976b3903e73ae9c",
+      "adjuntos": [
+        {
+          "id": "1441371937291894865",
+          "nombre": "image0.gif",
+          "tipo": "image/gif",
+          "archivo": "adjuntos/1441371937291894865.gif",
+          "url": "rol_escrito/adjuntos/1441371937291894865.gif",
+          "bytes": 62523,
+          "sha256": "d3f763ae4c1f34babe352a0e9cd7b0bae3ac7a653d4e0b69f6a8038b28f86723"
+        }
+      ]
+    },
+    {
+      "id": "1441400576947781762",
+      "fecha_utc": "2025-11-21T12:11:17.472000+00:00",
+      "fecha_local": "2025-11-21",
+      "editado_utc": "2025-11-21T12:23:41.296000+00:00",
+      "texto": "Seraphina:\n**Alcancé a escuchar la música mientras estaba en la habitación de Guxi, preparando unas cuantas herramientas que sabía que tendría que necesitar para la reconstrucción del palacio**\n\n**Salí para ver qué era lo que pasaba y pude ver detenidamente a Wukong bailando, esperé pacientemente a que terminara de contonear las caderas mientras yo estaba recargada en uno de los pilares con los brazos cruzados y una ceja levantada**\n\nSe te dá bien el baile, a ver qué tal se te dá el ir a ayudar a limpiar el palacio",
+      "mensaje_sha256": "fed5bf12fecae96f385f957734c7d2d927ed41c08b11896393406be950436911",
+      "tipo_discord": 19,
+      "referencia": "1441371937627443342",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1441400576947781762",
+      "texto_sha256": "f2e56636923681e13543af5cf3f2c936266e8424de7be2bcdf31e00e91de8731",
+      "adjuntos": []
+    },
+    {
+      "id": "1441431049237172325",
+      "fecha_utc": "2025-11-21T14:12:22.632000+00:00",
+      "fecha_local": "2025-11-21",
+      "editado_utc": "2025-11-21T14:14:12.120000+00:00",
+      "texto": "Wukong\n\n**El monje se lo estaba pasando pipa en mitad de la sala, completamente solo. Hacia meses que no sntía esa libertad. Desde que lo dejaron atrapado privado de luz y cualquier tipo de movimiento bajo la montaña de los 5 elementos. En esa oscuridad solo podía meditar. Rezar. Recitar los sutras que le enseñó el Monje Tang. Una y otra vez. Repitiendo todo de nuevo. Ahora era libre y, aunque era completamente consciente del motivo de su libertad y su compromiso con la causa, ahora solo quería moverse hasta caer rendido**\n\n- It might sound crazy but it ain't no lie. Bye, bye, bye 🎶\n\n**El moviento final de su coreografía acabó siendo un giro sobre si mismo. Dejandolo frente a una espectadora sorpresa. El mono se quedó helado al oírle hablar de su \"espectáculo\"**\n\n- querida Sera... Desde cuándo estás ahí... No mucho espero... Juraría que no había nadie en la base...\n\n*Tapate mono desvergonzado. Que ha sido de tu discurso sobre los deseos terranales y todo eso?*\n\n**Wukong se ajustó mejor la toalla de la cintura, asegurandose que todo estuviera en su sitio y que no se hubiera escapado nada. Luego se cubrió el torso con la otra toalla y bajó de la mesa**\n\n- limpiar el palacio? Por qué? La señora shogun no tiene suficiente servicio de limpieza? O es que me vais a hacer una \"novatada\" por qué acabo de llegar y aun hay resquemores conmigo en el gremio?",
+      "mensaje_sha256": "ce20eae42c46d729c3c25f353666ee5d7aebf386ffc5f33f0d3a995eb4d06d5b",
+      "tipo_discord": 19,
+      "referencia": "1441400576947781762",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1441431049237172325",
+      "texto_sha256": "8ab9e6b792102b067956773b8d218f717a7713b2ff958bc71f677fefe843b66c",
+      "adjuntos": []
+    },
+    {
+      "id": "1441454952953282762",
+      "fecha_utc": "2025-11-21T15:47:21.722000+00:00",
+      "fecha_local": "2025-11-21",
+      "editado_utc": "2025-11-21T15:51:18.265000+00:00",
+      "texto": "Seraphina:\nLo suficiente para percatarme de todo, Wukong \n\n**Se me hizo un nudo de nuevo en la garganta cuando hizo mención a Kalista**\n\nYa.. ya no hay Shogun...\n\n**Me puse de nuevo seria**\n\nEs por eso que ahora tenemos que encargarnos mucho más de Kuroto, así que ve a cambiarte que he decidido ser tu \"Compañera\" de entrenamiento, no quiero que ninguno de mis amigos se vaya de nuevo y le prometí al Monje Tang que daría lo mejor de mi contigo, así que ve a cambiarte que no tenemos tiempo",
+      "mensaje_sha256": "c5fe73b6b52e2b6d96095bed3a9cd2102b2f16a424e1a4c26674e7be45c8a6ec",
+      "tipo_discord": 19,
+      "referencia": "1441431049237172325",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1441454952953282762",
+      "texto_sha256": "6c0a4369915769234be9022f14e584cabf9ce21f08a76de49ba7e42cab5fc0ba",
+      "adjuntos": []
+    },
+    {
+      "id": "1441464617678409829",
+      "fecha_utc": "2025-11-21T16:25:45.972000+00:00",
+      "fecha_local": "2025-11-21",
+      "editado_utc": null,
+      "texto": "Wukong\n\n**La expresión del mono, que hasta hace unos minutos solo mostraba felicidad y picaresca, ahora solo mostraba estupefacción. Se acercó a la harengon y la cogió por los hombros**\n\n- Seraphina... Que has querido decir con eso? Que ha pasado en palacio? Como que ya no hay...\n\n**Las manos del monje apretaron un poco más a Sera**\n\n- están todos bien??? Cuentame que ha pasado!!\n\n**Su voz solo denotaba nerviosismo y miedo. Apenas llevaba un día en la capital y ya había ocurrido una catástrofe**",
+      "mensaje_sha256": "5f5036031f788b779542472ae51f66a4ee457d6411207560b86efbd0bfd9a3b9",
+      "tipo_discord": 19,
+      "referencia": "1441454952953282762",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1441464617678409829",
+      "texto_sha256": "5a79ebbf2d87f3d0fd6d62b2f1a33d5e9dcf450b6500638753aff9aa349999f6",
+      "adjuntos": []
+    },
+    {
+      "id": "1441477291916923033",
+      "fecha_utc": "2025-11-21T17:16:07.746000+00:00",
+      "fecha_local": "2025-11-21",
+      "editado_utc": "2025-11-21T17:18:52.423000+00:00",
+      "texto": "Seraphina:\nKalista murió, Danifae la asesinó, Jelbreg perdió el control y quiso matarnos a todos... \n\n**Le dije en seco, soltando todo lo que había pasado**\n\nDanifae consiguió todas las esferas y se fué, escapó y Jelbreg se fué, no hay nadie más...\n\n**Le iba quitando las manos de mis hombros para sostenerlas con las mías**\n\nPor eso tenemos que apurarnos, no tenemos tiempo que perder",
+      "mensaje_sha256": "1098aa79c7c3b957116b05df1dcfe1b425a618c5f51749a5139b9ac6517df48e",
+      "tipo_discord": 19,
+      "referencia": "1441464617678409829",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1441477291916923033",
+      "texto_sha256": "d3242dcab062b24ea41d1efae6a160e8ecf2ed73faa9d5cd8dc5608a2d8a9943",
+      "adjuntos": []
+    },
+    {
+      "id": "1441561756966322406",
+      "fecha_utc": "2025-11-21T22:51:45.783000+00:00",
+      "fecha_local": "2025-11-21",
+      "editado_utc": null,
+      "texto": "Wukong\n\n**El monje se quedó mirando fijamente sus manos junto a las de su conpañera**\n\n- esto es una locura... \n\n**Soltó las manos de Sera y se cubrió la cara con la suyas. Parecía hiperventilar... A los pocos segundos consiguió controlar su respiración, miro con seriedad a la coneja y se dio la vuelta**\n\n- coge lo que necesites de la base Seraphina. En menos de un minuto salimos hacia el palacio. Y espero que esas patas tuyas sean veloces. No pienso decelerar el paso hasta llegar hasta donde están mis nuestros amigos...\n\n**Su voz parecía otra. De una seriedad apabullante. Cogió algo de ropa vieja que había guardada en la base y se la puso. Recogió el cayado improvisado con el que llegó a la sho y se dispuso a salir por la puerta de la base**",
+      "mensaje_sha256": "88a8cc35ed8baceaea9051eb26e689ad7cb3c1dfe8c48b034ba3ddf7f2db26e5",
+      "tipo_discord": 19,
+      "referencia": "1441477291916923033",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1441561756966322406",
+      "texto_sha256": "b799cdc0190f99f0125bb72be909b8b384394035cb86e9a9112dab3d5b925830",
+      "adjuntos": []
+    },
+    {
+      "id": "1441563200008224882",
+      "fecha_utc": "2025-11-21T22:57:29.831000+00:00",
+      "fecha_local": "2025-11-21",
+      "editado_utc": null,
+      "texto": "Seraphina:\nYo ya tengo todo listo desde que llegué \n\n**Señalé la bolsa de herramientas para después montarmela en la espalda**\n\nMas bien, yo esperaba que me siguieras el paso porque no tengo intenciones de detenerme \n\n**Caminé hacia la puerta de la base mientras me ponía en posición para salir corriendo**",
+      "mensaje_sha256": "ed807d6b7d39401454b055d34b4d026fc4c155a4391b9f3331552a79e10eeaf6",
+      "tipo_discord": 19,
+      "referencia": "1441561756966322406",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1441563200008224882",
+      "texto_sha256": "4f87f77957826256efc5824c8bb4534b71b40450ca406967461dd6ffce9ba9bd",
+      "adjuntos": []
+    },
+    {
+      "id": "1441564307107352648",
+      "fecha_utc": "2025-11-21T23:01:53.784000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": "2025-11-21T23:02:05.231000+00:00",
+      "texto": "Wukong\n\n- no esperaba menos de la elegida del Monje Tang... Y de mi custodia...\n\n**La mirada del mono no sé despega de la dirección donde está el palacio. Da un par de saltitos cortos y en una décima de segundo sale disparado como un rayo en busca de sus compañeros. Solo espera no dejar a la coneja atrás**\n\n🐒 Wukong sale de escena🐒",
+      "mensaje_sha256": "7f4e48d918b178ad3216da018766460a5187ed0a87d1bbf80b0f682a13467fb9",
+      "tipo_discord": 19,
+      "referencia": "1441563200008224882",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1441564307107352648",
+      "texto_sha256": "3cf7cbad99719531d7f79f265f2920ab57e8d90f817f20c3d4bec857f225c5a6",
+      "adjuntos": []
+    },
+    {
+      "id": "1441564870033150011",
+      "fecha_utc": "2025-11-21T23:04:07.996000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Salí corriendo a toda velocidad en dirección al palacio, intercalando saltos para agarrar mayor velocidad**\n\n🏴‍☠️ Seraphina sale de escena 🏴‍☠️",
+      "mensaje_sha256": "83f3ccbba498df5ab79813061257d5ac1589e6f05e51c696703805f8d5f4f701",
+      "tipo_discord": 19,
+      "referencia": "1441564307107352648",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1441564870033150011",
+      "texto_sha256": "968987aed71ad54112a55520a0dc18a0e74a9fc4c2ad27134830ec6a8c16c026",
+      "adjuntos": []
+    },
+    {
+      "id": "1441564934499602443",
+      "fecha_utc": "2025-11-21T23:04:23.366000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": null,
+      "texto": "🔴 **Fin de la escena**🔴",
+      "mensaje_sha256": "158e3e90ea909f531cb95b1a6d2b89959e389b8aacb3fc0ff4056e50e9bca724",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1441564934499602443",
+      "texto_sha256": "fd9ba154471f616e08e81ad46f897a8652de315aed1179fd89ee2346342a76e7",
+      "adjuntos": []
+    }
+  ]
+}

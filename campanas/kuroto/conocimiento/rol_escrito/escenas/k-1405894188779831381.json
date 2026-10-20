@@ -1,0 +1,122 @@
+{
+  "id": "k-1405894188779831381",
+  "campana": "kuroto",
+  "unidad_revision": "k-1405894188779831381",
+  "hilo_id": "1387915737502580886",
+  "hilo_nombre": "Sho, Palacio del Shogunato - Capital de Kuroto",
+  "titulo": "El compañero que permanece",
+  "resumen": "Kalista y Jelbreg culminan su reconciliación con palabras de confianza y un beso.",
+  "relato": "Kalista responde que no necesita que Jelbreg cambie para estar a su altura: valora que permanezca con ella y esté dispuesto a apoyarla. La proximidad y el roce de sus narices acompañan esa declaración. Él le devuelve una frase que ella suele usar, le acaricia la mejilla y la besa; Kalista rodea su cuello y corresponde, feliz de recuperar la agitación afectuosa de su compañía. El cierre completa la reconciliación iniciada con la visita de Banzo, sin añadir una decisión militar o administrativa.",
+  "participantes": [
+    "Kalista",
+    "Jelbreg"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1405894188779831381",
+      "afirmacion": "Kalista expresa que desea a alguien que permanezca a su lado y reconoce que él ya lo hace.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1405897880983703574",
+      "afirmacion": "Corresponde al beso y lo abraza.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Continuación directa de k-1405171574054588496 pese a la división temporal de la exportación; no inventar una nueva presentación."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-08-15T12:41:34.856000+00:00",
+  "fin_utc": "2025-08-15T13:12:58+00:00",
+  "fecha_local": "2025-08-15",
+  "intervalo": {
+    "anterior": 145,
+    "siguiente": 146,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1405610480659202078",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1405973993948975124",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 145,
+        "fecha": "2025-08-14",
+        "inicio_referencia_utc": "2025-08-14T17:53:54+00:00",
+        "fin_estimado_utc": "2025-08-14T21:52:01+00:00",
+        "duracion_video_segundos": 14287,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1405610480659202078"
+      },
+      {
+        "capitulo": 146,
+        "fecha": "2025-08-15",
+        "inicio_referencia_utc": "2025-08-15T17:58:25+00:00",
+        "fin_estimado_utc": "2025-08-15T21:02:41+00:00",
+        "duracion_video_segundos": 11056,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1405973993948975124"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1405894188779831381",
+      "fecha_utc": "2025-08-15T12:41:34.856000+00:00",
+      "fecha_local": "2025-08-15",
+      "editado_utc": null,
+      "texto": "Kalista: **Te sonrie de esa forma tan imperfecta pero autentica** No tienes que mejorar algo que ya es perfecto, eres el unico q puede y esta a mi altura **Roza su nariz con la tuya en una caricia pequeña pero intima entre los dos** No hay hombre en toda la existencia tan capaz y tan dispuesto a todo por mi...y eso es todo lo que quiero...alguien que se quede a mi lado...y tu ya lo haces siempre",
+      "mensaje_sha256": "e9ca5e6e059eb263443d6eaac5a92444800398d7b02f07317da3c1cf622155e6",
+      "tipo_discord": 19,
+      "referencia": "1405608030392815790",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1405894188779831381",
+      "texto_sha256": "127e432c615d6f994ea4141f50a43af85e21cf65a99d761dcb5ac00fe4871c83",
+      "adjuntos": []
+    },
+    {
+      "id": "1405896239576252547",
+      "fecha_utc": "2025-08-15T12:49:43.804000+00:00",
+      "fecha_local": "2025-08-15",
+      "editado_utc": null,
+      "texto": "Jelbreg: No tienes remedio.. **Dice el el drow con una gran sonrisa divertida ya que esa es tu frase. Te acaricia la mejilla y antes de que le contestes de da un suave y pasional beso**",
+      "mensaje_sha256": "656d8144a7354a676dc70d8366d1f6351ce5ec783287d3c90fd97849f765b818",
+      "tipo_discord": 19,
+      "referencia": "1405894188779831381",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1405896239576252547",
+      "texto_sha256": "bde762d65147c13957d708ceb30f86649e6bcc41d4125f4e8d92df766e610608",
+      "adjuntos": []
+    },
+    {
+      "id": "1405897880983703574",
+      "fecha_utc": "2025-08-15T12:56:15.146000+00:00",
+      "fecha_local": "2025-08-15",
+      "editado_utc": null,
+      "texto": "Kalista: **No hay nada que contestar, ya ha sido honesta contigo. Sonrie mientras te besa, sus brazos rodean tu cuello. Su corazon late a toda velocidad sientiendo una explosion en su pecho... Ya era hora de que el caos volviera a ella para agitar su mundo demasiado ordenado**",
+      "mensaje_sha256": "ffe54be08c881bdfaa1fb6c4a9201001f1add5da111fd03079c7d7bd6921b98d",
+      "tipo_discord": 19,
+      "referencia": "1405896239576252547",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1405897880983703574",
+      "texto_sha256": "2cf35ed65ad5056087f14ac9562bf51ea4eea8ac9bdd450747b3c7fbbc1f0332",
+      "adjuntos": []
+    },
+    {
+      "id": "1405902087258112221",
+      "fecha_utc": "2025-08-15T13:12:58+00:00",
+      "fecha_local": "2025-08-15",
+      "editado_utc": null,
+      "texto": "🔴  **Fin de escena** 🔴",
+      "mensaje_sha256": "98a558e95b09583f48ebb7d19e729327c80d38b07456922de16f6273597f9329",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1405902087258112221",
+      "texto_sha256": "d6d734de8e04b821109816b8968db2356bdaefdbbf159250785bf9dc2080f2c7",
+      "adjuntos": []
+    }
+  ]
+}

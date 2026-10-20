@@ -1,0 +1,82 @@
+{
+  "id": "x-1552353179503427617",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1552280972878155787",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "Archi observa el consejo desde su choza",
+  "resumen": "Un aparato le permite seguir la conversación y decide echarles una mano al día siguiente.",
+  "relato": "Desde la choza, Archi toma té y sigue la conversación del grupo en una especie de tabla. Sus intentos de planear le recuerdan a otras personas a las que no identifica. Decide ayudarlos, aunque lo aplaza hasta el día siguiente y llama a sus robots para un baño de aceite. La observación es real dentro de esta intervención; el mecanismo, sus límites y la ayuda prometida no se explican todavía.",
+  "participantes": [
+    "Archi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1552353179503427617",
+      "afirmacion": "Archi observa a distancia la conversación y aplaza su ayuda hasta mañana.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El relato sobre Aztlán es testimonio de Ilikar; Naór no está presente para responder o confirmar detalles.",
+    "La mención de curación por Walulu permite enlazar el tratamiento de Tessa sin inventar un resultado en las fuentes anteriores.",
+    "Las capacidades atribuidas al dragón son conocimientos y evaluaciones de los personajes, no todas se demuestran aquí.",
+    "La propuesta de fingir una entrega no equivale a traición real.",
+    "Tortas se trata en femenino según la conversación; Norma, Olga, Marlena o Isildur son confusiones de nombres de Tessa y no nuevas personas.",
+    "La frase mental de Eldrath se presenta como telepatía explícita, distinta de pensamientos privados."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2026-09-23T16:17:19.321000+00:00",
+  "fin_utc": "2026-09-23T16:17:19.321000+00:00",
+  "fecha_local": "2026-09-23",
+  "intervalo": {
+    "anterior": 66,
+    "siguiente": 69,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 66,
+        "fecha": "2026-09-22",
+        "inicio_referencia_utc": "2026-09-22T18:20:03+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241"
+      },
+      {
+        "capitulo": 69,
+        "fecha": "2026-10-08",
+        "inicio_referencia_utc": "2026-10-08T18:17:02+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1552353179503427617",
+      "fecha_utc": "2026-09-23T16:17:19.321000+00:00",
+      "fecha_local": "2026-09-23",
+      "editado_utc": null,
+      "texto": "**Choza de Archi** \n\n**El gnomo se encontraría tomando el te mientras observa la conversación del grupo desde una especie de tabla ** \n<@753394009153732689> <@210947008716996609> <@297459767117611008> <@220602485977382912> \n\nSi... me recuerdan mucho a ellos ... igual de insensatos... igual de desinteresados ... igual de malos haciendo planes ... \n\nCreo que les echaré una mano . \n\nPero ya mañana si eso ... \n\nQueridas , os toca baño de aceite \n**las robots miran todas a la vez a Archi **",
+      "mensaje_sha256": "1a4f66340d5a99576bbe0f7de09411eec270942aba34742bbc4c5700b1dd6395",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552353179503427617",
+      "texto_sha256": "6092c1ea6eeb90c2300961964a7cfcc47318d6bfcb417667a3422c309ea56b44",
+      "adjuntos": []
+    }
+  ]
+}

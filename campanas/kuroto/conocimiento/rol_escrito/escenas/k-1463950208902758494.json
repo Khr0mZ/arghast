@@ -1,0 +1,406 @@
+{
+  "id": "k-1463950208902758494",
+  "campana": "kuroto",
+  "unidad_revision": "k-1463807432684863501",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "El funeral de Kurobane",
+  "resumen": "Guxi y Chani encienden la pira y la población acompaña el homenaje.",
+  "relato": "Guxi deja anémonas rojas junto al cuerpo de Kurobane, lamenta no haber cumplido su promesa y se despide deseando encontrarlo como amigo en otra vida. Después organiza con Banzo una pira de troncos, flores y hierbas aromáticas. Chani se resiste a despedirse: teme que Tezca tenga frío sin ella. El artificiero la abraza y le explica que solo queda honrar su partida. La pequeña se acerca al féretro, le dice cuánto lo quiere y pide que la levanten para apoyar la frente contra la suya. Pronuncia una despedida en su lengua y deja que Guxi la baje.\n\nAmbos sostienen una antorcha; Chani vacila, pero finalmente la suelta y la pira prende. Banzo marca el ritmo golpeando el suelo con el reverso del hacha, y el herrero, los ciudadanos y la multitud lo siguen como agradecimiento colectivo. La pequeña acompaña con su tambor hasta que vuelve el silencio. Cuando el fuego se apaga, Guxi guarda parte de las cenizas en una bolsa de cuero y se ofrece a permanecer a su lado. La cremación y el duelo cierran aquí la despedida de Kurobane, sin retorno narrado del personaje.",
+  "participantes": [
+    "Guxi",
+    "Chanecuxtli",
+    "Banzo",
+    "Kurobane fallecido",
+    "Herrero de Sho",
+    "Ciudadanos de Sho"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1463950208902758494",
+      "afirmacion": "Guxi deja flores y se despide ante el cuerpo de Kurobane.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1464619847399768207",
+      "afirmacion": "Guxi prepara la pira con troncos, flores y hierbas.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1464629841218375963",
+      "afirmacion": "Chani apoya su frente junto a Kurobane y pronuncia su despedida.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1464632640312181033",
+      "afirmacion": "Chani suelta la antorcha junto a Guxi.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1464634398186930269",
+      "afirmacion": "La pira de Kurobane se enciende.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1464646768770679057",
+      "afirmacion": "Banzo marca el ritmo que sigue la población como homenaje.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1464661877240889589",
+      "afirmacion": "Guxi recoge parte de las cenizas tras apagarse el fuego.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El narrador confirma expresamente la derrota de Ootakemaru y la muerte de Kurobane; no son solo rumores. Su cremación queda representada.",
+    "Wukong no estaba muerto según la vigilia y despierta en escena; no describirlo como una resurrección equivalente a la de Shirz.",
+    "La experiencia del Palacio de Jade y la prueba están representadas; los episodios del camino que no aparecen directamente se atribuyen al relato posterior del mono.",
+    "La afirmación consoladora de Banzo de que Arwen y Wukong no pueden morir no se convierte en regla de invulnerabilidad.",
+    "Tang Sanzang queda acreditado como nombre del monje Tang; Eerlang/Erlang son variantes del nombre de Shen en la misma conversación. No se añaden deidades externas ni poderes no representados.",
+    "La ficha visual de Sempereia se ha leído íntegra. Solo el nombre y la historia están en el papel según la aclaración del autor; la etimología y la apariencia poética adicional no son un texto que Sera haya leído necesariamente.",
+    "El relato de origen de la flor se conserva como leyenda del regalo, no como demostración histórica de una unión divina.",
+    "El afecto tras la entrega no constituye por sí mismo nueva pareja o ruptura del vínculo simbólico con Guxi.",
+    "La paternidad afectiva de Jhin y Shizzuka se explicita mutuamente, sin inventar filiación biológica.",
+    "Las exageraciones de Shizzuka sobre la guerra y su liderazgo no sustituyen la crónica completa de la batalla.",
+    "Se omiten las bromas sexuales asociadas al bastón en la redacción editorial sin alterar los originales; se conserva la secuencia narrativa de robo, persecución, recuperación e inundación.",
+    "El estado automático proponía abierta, pero el último mensaje declara el fin del rol escrito del grupo. Se cierra esta ficha, conservando pendientes de campaña en el informe del hilo."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-01-22T17:35:28.682000+00:00",
+  "fin_utc": "2026-01-24T17:14:58.018000+00:00",
+  "fecha_local": "2026-01-22",
+  "intervalo": {
+    "anterior": 181,
+    "siguiente": 182,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1463611734899167390",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1465425150315991041",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 181,
+        "fecha": "2026-01-21",
+        "inicio_referencia_utc": "2026-01-21T19:10:08+00:00",
+        "fin_estimado_utc": "2026-01-21T22:02:01+00:00",
+        "duracion_video_segundos": 10313,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1463611734899167390"
+      },
+      {
+        "capitulo": 182,
+        "fecha": "2026-01-26",
+        "inicio_referencia_utc": "2026-01-26T19:16:02+00:00",
+        "fin_estimado_utc": "2026-01-26T21:44:10+00:00",
+        "duracion_video_segundos": 8888,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1465425150315991041"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1463950208902758494",
+      "fecha_utc": "2026-01-22T17:35:28.682000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "Guxi:\n**Había llegado a la base con un ramo de flores de anémona roja (buscad el significado) para colocarlas al lado del cuerpo de kurobane**\nHola kuro al final nos volvemos a ver y... Te perdí otra vez.\n**Las lágrimas empezaron a caer sobre aquel ramo de flores que ahora yacía en el suelo**\nNo pude cumplir mi promesa.\nLo siento de verdad.\nTenía tantas cosas que decirte cuando volvieras.\nPero ahora te has ido otra vez está vez para siempre al menos espero que haya donde vaya tú alma encuentres la paz.\nEspero nos volamos a encontrar en otra vida y pueda darte ese abrazo y esa amistad que te mereces.\n**Mira a su alrededor viendo a sus compañeros que han venido por kurobane**\nTambién los cambiaste a ellos y a mí también.\nHasta luego kuro",
+      "mensaje_sha256": "61c9d9dd369c49c4d4fb45efa31b4168b22a3506f7cdfbcbda8c05c572e6bceb",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1463950208902758494",
+      "texto_sha256": "e8e4e7bf938d537b00580fa08373353854c010e1713a2667348238c5395e3efa",
+      "adjuntos": []
+    },
+    {
+      "id": "1464614798334365779",
+      "fecha_utc": "2026-01-24T13:36:19.150000+00:00",
+      "fecha_local": "2026-01-24",
+      "editado_utc": null,
+      "texto": "Banzo : <@171702246952665098>  Guxi , crees que lo tenemos todo listo ? Espero que el lo hubiese querido asi ... \n**Mira el féretro de Kurobane <@240564189448503306> **",
+      "mensaje_sha256": "ec7ff1ac2dfe97167cc770edcb71081cc1d16eaf9d37e113bf5595c7ad8727d2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1464614798334365779",
+      "texto_sha256": "39cbace2a11d5f1662138a07249598c8f4d9c31872b98bfb7e22de237514858a",
+      "adjuntos": []
+    },
+    {
+      "id": "1464619847399768207",
+      "fecha_utc": "2026-01-24T13:56:22.941000+00:00",
+      "fecha_local": "2026-01-24",
+      "editado_utc": null,
+      "texto": "Guxi:\ncasi todo esta listo ya, Me ayudas a poner los troncos por favor?\n**estaba preparando la pira funeraria que constaba de unos troncos adornados por unas flores y hierbas que convertiran el rito en algo mas placentero para el olfato (nadie quiere oler a ninja calcinado)**\n<@240564189448503306> <@408026114548695061>",
+      "mensaje_sha256": "39a04b2299096f2da45d7dd119e87656eb47681d3857ce25bce2a9ab55f71a00",
+      "tipo_discord": 19,
+      "referencia": "1464614798334365779",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1464619847399768207",
+      "texto_sha256": "b5b4bf796f34ba44262f1b9d02dae7edf6034da38f30f4a63bc406d7f1e956c8",
+      "adjuntos": []
+    },
+    {
+      "id": "1464621923081392178",
+      "fecha_utc": "2026-01-24T14:04:37.822000+00:00",
+      "fecha_local": "2026-01-24",
+      "editado_utc": null,
+      "texto": "Banzo : **empieza a cargar los troncos y ponerlos en la forma en que Guxi le indica**",
+      "mensaje_sha256": "8856e0e386d730489bb902b8f5fceb6825128337f6d55a4eeb9988556dc12880",
+      "tipo_discord": 19,
+      "referencia": "1464619847399768207",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1464621923081392178",
+      "texto_sha256": "d71861b948130db82f93437f4b1011ff18ddb4af2fedfe684c64e975054fe1e6",
+      "adjuntos": []
+    },
+    {
+      "id": "1464622829763952701",
+      "fecha_utc": "2026-01-24T14:08:13.992000+00:00",
+      "fecha_local": "2026-01-24",
+      "editado_utc": null,
+      "texto": "guxi:\n**cuando esta todo listo se para unos segundos delante de la pira antes de encender la antorcha**\nAhora habria que decir unas palabras de despedida \n**mira a chani y se agacha para ponerse a su altura**\nLo siento chani pero es momento de despedirse dile ahora todo lo que tengas que decir \n<@408026114548695061>",
+      "mensaje_sha256": "5c016e51137c31690c58d7df339248de7959d660f15a8d64c27cddf49d1d6637",
+      "tipo_discord": 19,
+      "referencia": "1464621923081392178",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1464622829763952701",
+      "texto_sha256": "17b79169157e489ce932ae1c7493c9d977ed3f4cf3cd094f11b3a537b4062f87",
+      "adjuntos": []
+    },
+    {
+      "id": "1464625949512433717",
+      "fecha_utc": "2026-01-24T14:20:37.798000+00:00",
+      "fecha_local": "2026-01-24",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n**La forma de aguila había desaparecido y ahora solo quedaba un pequeño pollo con ojos cristalinos**\n\nPe..pero... No se quedaría más tiempo aquí? Pío? N..no lo dejaríamos d.. dormir aquí? pío?.. te..tendrá frío si..si no estoy con el, pío...",
+      "mensaje_sha256": "0f2f4489dc4ce3d89ac70cd78f3690cfb157c6643e0a7161cf1777c8d3cfcb9f",
+      "tipo_discord": 19,
+      "referencia": "1464622829763952701",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1464625949512433717",
+      "texto_sha256": "a572f33be1f92b06686ebdb82eeacef29de612974c32c60b0f30d7b709240798",
+      "adjuntos": []
+    },
+    {
+      "id": "1464627467691229205",
+      "fecha_utc": "2026-01-24T14:26:39.760000+00:00",
+      "fecha_local": "2026-01-24",
+      "editado_utc": null,
+      "texto": "Guxi:\n**Estaba al borde del llanto pero intenta ser fuerte por chani muestra una sonrisa mientras la abraza**\n\nSi alma ya se ha ido chani.solo nos queda despedirnos de el.\nAquí acostumbra el hablar con el como si estuviera con nosotros.\nQuieres empezar?",
+      "mensaje_sha256": "ee342092cf0ccc528597094320fa92391eb4e7f9891fc3c69a6fd74ddf6d1b99",
+      "tipo_discord": 19,
+      "referencia": "1464625949512433717",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1464627467691229205",
+      "texto_sha256": "4f2cbffdbde600628953651f831755590417987c436981633f5415dfbbecc02e",
+      "adjuntos": []
+    },
+    {
+      "id": "1464628802456916173",
+      "fecha_utc": "2026-01-24T14:31:57.993000+00:00",
+      "fecha_local": "2026-01-24",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n\n**Afirmé con la cabeza y me acerqué al féretro**\n\nTezca pío... Yo.. yo sé que hice cosas malas pío, pero no quise lastimarte pío, yo... Yo te quiero mucho pío y siempre te voy a querer, pío... \n\n**Bajé poco a poco la cabeza y me alejé a paso lento hasta quedar frente a Guxi y alzar mis alitas**\n\nPuedes levantarme para que quede frente a Tezca pío?, por favor, pío...",
+      "mensaje_sha256": "10779472daa13c722b4cf26ecd8fac750e16abf32ddbcdc8a94d98f9d210d194",
+      "tipo_discord": 19,
+      "referencia": "1464627467691229205",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1464628802456916173",
+      "texto_sha256": "940ca0786a0924f93028580607000decc8fc1751163de19389c8612e291de97a",
+      "adjuntos": []
+    },
+    {
+      "id": "1464629273683038312",
+      "fecha_utc": "2026-01-24T14:33:50.342000+00:00",
+      "fecha_local": "2026-01-24",
+      "editado_utc": null,
+      "texto": "Guxi:\n**Agarrá a chani para acercarla a kurobane**\nAquí estamos",
+      "mensaje_sha256": "fbf463c63b47b5ba012c5bcabc4e518ed3767f18341837d255f6f1dec005ec41",
+      "tipo_discord": 19,
+      "referencia": "1464628802456916173",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1464629273683038312",
+      "texto_sha256": "494f72b7d33f6432165156065fbaa3f91699f041f972888611c299009b1953cb",
+      "adjuntos": []
+    },
+    {
+      "id": "1464629841218375963",
+      "fecha_utc": "2026-01-24T14:36:05.653000+00:00",
+      "fecha_local": "2026-01-24",
+      "editado_utc": "2026-01-24T14:36:17.256000+00:00",
+      "texto": "Chanecuxtli:\n\n**solté un suave pío al acercarme lo suficiente a su rostro y sentir su frente con la mía**\n\nYehuatl on nictlepanitlaniz nimiquiz itech iten itztli mopampa...\n\n(Será un honor morir al filo de la obsidiana por tí)\n\n**Después de decir esto, voltee a ver a Guxi para que ya pudiera bajarme**",
+      "mensaje_sha256": "7bfb8d3aaafb07228882b00898bbf1a7d918b55171fb05fd03addf25676da356",
+      "tipo_discord": 19,
+      "referencia": "1464629273683038312",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1464629841218375963",
+      "texto_sha256": "b87abba9bcbbee22c450ca8366e1c6c38798a001d451426e14a8e4aab0d4a9f1",
+      "adjuntos": []
+    },
+    {
+      "id": "1464630495920001107",
+      "fecha_utc": "2026-01-24T14:38:41.746000+00:00",
+      "fecha_local": "2026-01-24",
+      "editado_utc": null,
+      "texto": "Guxi:\nKuro sonreíste hasta el final espero que si nos vemos en otra vida seamos amigos.\n**Toca por última vez el rostro de kuro para después coger a Chani en brazos**\nQuieres que lo hagamos juntos?",
+      "mensaje_sha256": "ac2ed8787d29230765788d3a30664663bf68b15a920a38e189938f1f6dbf3ff9",
+      "tipo_discord": 19,
+      "referencia": "1464629841218375963",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1464630495920001107",
+      "texto_sha256": "c1d7b99baa6d67989ca7529353c7cd1ad11634f2d5294f81dbd45381a5772f4a",
+      "adjuntos": []
+    },
+    {
+      "id": "1464631749517770972",
+      "fecha_utc": "2026-01-24T14:43:40.627000+00:00",
+      "fecha_local": "2026-01-24",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n\n**Volví a afirmar con la cabeza**\n\nSi, pío...",
+      "mensaje_sha256": "83062b9b156d4172182a7cdcee7bcf1c2cc75c87a06103f23b79878494f4bff7",
+      "tipo_discord": 19,
+      "referencia": "1464630495920001107",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1464631749517770972",
+      "texto_sha256": "c173b5a5c44d05ccdb8be2486ac64a8670b2b18f8322811b7e6586b851d0aed9",
+      "adjuntos": []
+    },
+    {
+      "id": "1464632192511770840",
+      "fecha_utc": "2026-01-24T14:45:26.245000+00:00",
+      "fecha_local": "2026-01-24",
+      "editado_utc": null,
+      "texto": "Guxi:\n**Enciende esa antorcha y la pone en su mano agarra la patita de chani**\nSolo hay que soltar chani",
+      "mensaje_sha256": "73646946fe0a75dee618e5d11d35f349f3c8a76854ed606d06b6b883e9a0a243",
+      "tipo_discord": 19,
+      "referencia": "1464631749517770972",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1464632192511770840",
+      "texto_sha256": "0ef4b0ff8beb5384544b7288059bf4dfd110d842908d340f96df447567cd9032",
+      "adjuntos": []
+    },
+    {
+      "id": "1464632640312181033",
+      "fecha_utc": "2026-01-24T14:47:13.009000+00:00",
+      "fecha_local": "2026-01-24",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n\n**Estaba dudando mucho si soltar aquella antorcha, pero era momento de dejarlo descansar**\n\nDuerme bien, Kurobane Pío...\n\n**Solté la antorcha**",
+      "mensaje_sha256": "4b74b37465dc34c074617db5faa1c1a0cd31bcfc34b9f2592029f342f7fb259e",
+      "tipo_discord": 19,
+      "referencia": "1464632192511770840",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1464632640312181033",
+      "texto_sha256": "439ddac6d2e6089a663a5f509a20b3e88ab3b57e2650fbbebf75407ca4d5458d",
+      "adjuntos": []
+    },
+    {
+      "id": "1464634398186930269",
+      "fecha_utc": "2026-01-24T14:54:12.119000+00:00",
+      "fecha_local": "2026-01-24",
+      "editado_utc": null,
+      "texto": "Guxi:\n**La pira se encendió el olor de las plantas llenaban el ambiente y unas lágrimas caían del rostro de guxi**\nHasta luego kuro",
+      "mensaje_sha256": "b23d3dd053ce631c20f52a3c52e76bab16b9e1d297112bcc263e2d5637da8d0a",
+      "tipo_discord": 19,
+      "referencia": "1464632640312181033",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1464634398186930269",
+      "texto_sha256": "bed9b625d940261af771e461e2882e90c999a6915c6bfa913da249f62c65842d",
+      "adjuntos": []
+    },
+    {
+      "id": "1464641101855199397",
+      "fecha_utc": "2026-01-24T15:20:50.398000+00:00",
+      "fecha_local": "2026-01-24",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n\n**Escondí mi cabeza en el cuello de Guxi, no quería ver eso, era demasiado doloroso para mi**\n\nPío...",
+      "mensaje_sha256": "003f282226e90b9280d95ea6962e24c2e697a61acb85457a842c5dfba6a57c5a",
+      "tipo_discord": 19,
+      "referencia": "1464634398186930269",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1464641101855199397",
+      "texto_sha256": "aa5e20db2cd39af4c9140935fcbb802b5e9c24fd88cfb52082cee3df122a75e1",
+      "adjuntos": []
+    },
+    {
+      "id": "1464646768770679057",
+      "fecha_utc": "2026-01-24T15:43:21.496000+00:00",
+      "fecha_local": "2026-01-24",
+      "editado_utc": "2026-01-24T15:44:19.666000+00:00",
+      "texto": "Banzo : observa respetuoso callado \n*ha sido un verdadero honor compartir batalla contigo* \n**coge su hacha da un golpe con el reverso de esta en el suelo..\nLuego otro ..\n\nLuego otro..\nEl herrero de Sho hace lo propio con la bara que lleva para apollarse \nY le sigue \nUn par de ciudadanos se adelantan y golpean con los pies en el suelo \nAl mismo ritmo de .. PUM ..\nPUM..PUM...PUM \n\npoco a poco la inmensidad de la población que se ha reunido para rendir respeto empieza a seguirles con la misma sintonia .. \nTODO KUROTO SE FUNDE EN UN SILENCIO TOTAL , SOLO SE ESCUCHA EL RITMO MARCADO POR EL GOLIATH \nPUM ...\nPUM.. \nPUM ...\n\nBanzo : sonrrie**\n\n<@240564189448503306> \nTODO UN PAIS TE DA LAS GRACIAS POR TU SERVICIO \n\nTodos se despiden de aquel que venció a la sombra \n\nHasta pronto amigo ... \nDescansa en paz",
+      "mensaje_sha256": "d910c86f9f05ef4e020914022bf8bb3cc075248bfb17a28b76a7ac18c7becaf7",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1464646768770679057",
+      "texto_sha256": "6ad64c20d64e01773355d11eb23eec7f35455d493ef952eb23e550d34518e7fb",
+      "adjuntos": []
+    },
+    {
+      "id": "1464654492879421481",
+      "fecha_utc": "2026-01-24T16:14:03.067000+00:00",
+      "fecha_local": "2026-01-24",
+      "editado_utc": null,
+      "texto": "Guxi:\n**La abraza entre lágrimas**\nNo te preocupes estará con nosotros siempre.\n**Ve aquella despedida por todo kuroto**\nVes chani?\nEstá con todos",
+      "mensaje_sha256": "77e14ac4afa8524aa956563505e264ea27799e77c16959c6003759ae9c38f105",
+      "tipo_discord": 19,
+      "referencia": "1464641101855199397",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1464654492879421481",
+      "texto_sha256": "0ed1297cfa8a68996ee6d79840f219c136b20f5e7d340f0b817f554a60e5bb36",
+      "adjuntos": []
+    },
+    {
+      "id": "1464658922928472259",
+      "fecha_utc": "2026-01-24T16:31:39.273000+00:00",
+      "fecha_local": "2026-01-24",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n\n**El sonido era parecido a los latidos de un corazón, acompañé la despedida con mi pequeño tambor, golpeando mis alitas hasta que empezarán a arder y después todo quedara en silencio**\n\nHasta volvernos a encontrar... Pío~",
+      "mensaje_sha256": "bd8a899ff275f6e0e396c97c58379737d1df764353e7555947cfa276fdc8fa65",
+      "tipo_discord": 19,
+      "referencia": "1464654492879421481",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1464658922928472259",
+      "texto_sha256": "eb52bf60c496c61142577b2fea249ae7da58b0aa1fbc126859e24fd23ac02378",
+      "adjuntos": []
+    },
+    {
+      "id": "1464661877240889589",
+      "fecha_utc": "2026-01-24T16:43:23.636000+00:00",
+      "fecha_local": "2026-01-24",
+      "editado_utc": null,
+      "texto": "Guxi:\n**Se quedó en silencio observando como el cuerpo de kurobane era consumido mientras abraza a chani cuando el fuego se apagó cogió parte de las cenizas y lo guarda en una bolsa de cuero**\nChani estaré aquí para lo que necesites.",
+      "mensaje_sha256": "77a8a5b24a44fd9d6032143191bb0647510fb2ec9e58c3e1175973d94427ea11",
+      "tipo_discord": 19,
+      "referencia": "1464658922928472259",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1464661877240889589",
+      "texto_sha256": "4a480a9956fd4175ca32e21ca05abd7c5610cfb698a69fcc1d1415fa1ca9987c",
+      "adjuntos": []
+    },
+    {
+      "id": "1464662157869187418",
+      "fecha_utc": "2026-01-24T16:44:30.543000+00:00",
+      "fecha_local": "2026-01-24",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n\nGracias Guxi Pío, eres un buen amigo, pío \n\n**Le sonreí contenta**",
+      "mensaje_sha256": "2710a93978e9eb02b7f95e51c01345bd7c0ffcdd1ddbb80a71920538570900df",
+      "tipo_discord": 19,
+      "referencia": "1464661877240889589",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1464662157869187418",
+      "texto_sha256": "99c4da4c7c66e1cb7e522835913789878a98a2409731787e3ce67cd70d248a8f",
+      "adjuntos": []
+    },
+    {
+      "id": "1464669822854893706",
+      "fecha_utc": "2026-01-24T17:14:58.018000+00:00",
+      "fecha_local": "2026-01-24",
+      "editado_utc": "2026-01-24T17:15:19.278000+00:00",
+      "texto": "<@240564189448503306>",
+      "mensaje_sha256": "f17af4af65660a0739bc89931410a8efc220be16ea34922ecaf5008918d66e31",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1464669822854893706",
+      "texto_sha256": "c68be3b7cbd0e49dc4cbf37131905ffb2c086043727946e7ded5cf378e152b26",
+      "adjuntos": [
+        {
+          "id": "1464669822397976770",
+          "nombre": "file_000000000dc8722f9e649e6a042a8a38.png",
+          "tipo": "image/png",
+          "archivo": "adjuntos/1464669822397976770.png",
+          "url": "rol_escrito/adjuntos/1464669822397976770.png",
+          "bytes": 2622987,
+          "sha256": "5570fa7fb491c5997c34b6cde4c014a297939c9d226d580b44ad07085292dc67"
+        }
+      ]
+    }
+  ]
+}

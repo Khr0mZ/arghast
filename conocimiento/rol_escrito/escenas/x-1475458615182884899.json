@@ -1,0 +1,78 @@
+{
+  "id": "x-1475458615182884899",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1475458615182884899",
+  "hilo_id": "1465411590789795962",
+  "hilo_nombre": "Shiaru - El ron de Bonny",
+  "titulo": "Bonny contempla un objeto que guarda Picks",
+  "resumen": "La capitana muestra afecto al mono y examina fugazmente algo oculto en su chaleco.",
+  "relato": "Bonny observa la taberna desde su mesa reservada. Al pasar Picks, lo llama con un silbido y lo acaricia detrás de las orejas con una amabilidad poco habitual. Mediante un rápido juego de manos extrae un objeto del chaleco del mono, lo contempla con una sonrisa casi nostálgica y vuelve a guardarlo allí. Nadie alcanza a distinguir de qué se trata. Después deja a Picks continuar sus tareas y retoma la vigilancia del local. El gesto sugiere importancia personal, sin revelar todavía identidad, origen o función del objeto.",
+  "participantes": [
+    "Happy Bonny",
+    "Picks"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1475458615182884899",
+      "afirmacion": "Bonny examina un objeto no identificado del chaleco de Picks y lo devuelve.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No identificar el objeto por pistas futuras ni inventar parentesco a partir de la nostalgia."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-02-23T11:45:46.555000+00:00",
+  "fin_utc": "2026-02-23T11:45:46.555000+00:00",
+  "fecha_local": "2026-02-23",
+  "intervalo": {
+    "anterior": 9,
+    "siguiente": 10,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1474483152939516034",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1476293643718361240",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 9,
+        "fecha": "2026-02-20",
+        "inicio_referencia_utc": "2026-02-20T19:09:18+00:00",
+        "fin_estimado_utc": "2026-02-20T22:22:01+00:00",
+        "duracion_video_segundos": 11563,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1474483152939516034"
+      },
+      {
+        "capitulo": 10,
+        "fecha": "2026-02-25",
+        "inicio_referencia_utc": "2026-02-25T19:03:39+00:00",
+        "fin_estimado_utc": "2026-02-25T21:43:11+00:00",
+        "duracion_video_segundos": 9572,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1476293643718361240"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1475458615182884899",
+      "fecha_utc": "2026-02-23T11:45:46.555000+00:00",
+      "fecha_local": "2026-02-23",
+      "editado_utc": "2026-02-24T12:28:20.557000+00:00",
+      "texto": "Happy Bonny: **La temible Capitana pirata del pueblo de Shiaru descansaba en la mesa reservada únicamente para ella y su tripulación. Reclinada en la que sin duda era la mejor silla de madera del local, observaba a cada uno de los presentes en la taberna con ojos afilados y juzgadores, como un halcón vigilando su territorio.**\n**Cuando el mono Picks pasó por delante, su mente volvió al presente. Con un suave silbido lo llamó, y la pequeña criatura acudió al instante, obediente como siempre. Bonny acarició al monete detrás de las orejas, dedicándole una sonrisa sorprendentemente amable para alguien de su reputación.**\n**Con un movimiento rápido y experto juego de manos, demasiado fluido como para no despertar sospechas, la capitana extrajo algo del pequeño chalequito rojo de Picks. Nadie alcanzó a ver qué era. Bonny lo sostuvo un segundo entre los dedos, observándolo con una sonrisa casi nostálgica, antes de guardarlo de nuevo en las ropas del mono.**\n**Le dio un par de palmaditas a Picks para liberarlo y permitir que continuara sus quehaceres por el local.**\n**Acto seguido, los ojos de la capitana volvieron a recorrer la taberna… siempre atentos, siempre alertas.**\n**En Shiaru, nada escapaba a la mirada de Bonny.**\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "a91003878c1f69f3fde390d30f6c8e51064f2e460c0fcb7811ab93c6ddba4d21",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1475458615182884899",
+      "texto_sha256": "2eca85c74e80b1bd081917bffb39cb5dae6cd2a178aacd1ddc9549e36569b24d",
+      "adjuntos": []
+    }
+  ]
+}

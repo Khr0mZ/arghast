@@ -1,0 +1,109 @@
+{
+  "id": "k-1444034444431331461",
+  "campana": "kuroto",
+  "unidad_revision": "k-1444034444431331461",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Flores, incienso y una muerte confesada",
+  "resumen": "Banzo visita el mausoleo y piensa en alguien que ha matado tras una misión en el sur.",
+  "relato": "Después de cruzar el portal, Banzo sube al pico del lago para recoger las flores azules y las lleva a la cala. Ante el mausoleo de Kalista piensa que una misión en el sur ha retrasado su visita. En ese diálogo interior afirma que un hombre ha pagado por lo que le hizo a ella y ya no pronunciará su nombre; asegura no sentir remordimiento y haberse mantenido sereno. Se pregunta en qué lo convierte matar como un drow, sin nombrar al muerto ni describir aquí la acción. Deja las flores y enciende incienso. Más tarde anuncia que hablará con «la amargada esa de la perla» porque no quiere repercusiones para los demás. Toca el mausoleo aún en construcción y se despide hasta el día siguiente.",
+  "participantes": [
+    "Banzo"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1444034444431331461",
+      "afirmacion": "Deposita flores e incienso mientras piensa que un hombre ha pagado por lo que hizo a Kalista.",
+      "tipo": "pensamiento"
+    },
+    {
+      "mensaje_id": "1444040419389345923",
+      "afirmacion": "Declara su intención de hablar con la mujer de la perla para evitar repercusiones al grupo.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "El fallecido y la mujer de la perla no son identificados por nombre en esta unidad; no completar con suposiciones.",
+    "La muerte se refiere desde el pensamiento de Banzo; aquí no se representa la misión ni su desenlace directamente."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-11-28T18:37:20.415000+00:00",
+  "fin_utc": "2025-11-30T10:17:41.695000+00:00",
+  "fecha_local": "2025-11-28",
+  "intervalo": {
+    "anterior": 170,
+    "siguiente": 171,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1443679606723838074",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1446214322580881569",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 170,
+        "fecha": "2025-11-27",
+        "inicio_referencia_utc": "2025-11-27T19:07:07+00:00",
+        "fin_estimado_utc": "2025-11-27T22:32:48+00:00",
+        "duracion_video_segundos": 12341,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1443679606723838074"
+      },
+      {
+        "capitulo": 171,
+        "fecha": "2025-12-04",
+        "inicio_referencia_utc": "2025-12-04T18:59:08+00:00",
+        "fin_estimado_utc": "2025-12-04T21:35:38+00:00",
+        "duracion_video_segundos": 9390,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1446214322580881569"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1444034444431331461",
+      "fecha_utc": "2025-11-28T18:37:20.415000+00:00",
+      "fecha_local": "2025-11-28",
+      "editado_utc": null,
+      "texto": "Banzo : **tras pasar por el portal banzo ha subido la colina que llega al pico del lago , donde creces esas flores azules  antes de llegar a esa cala**\n\n*siento haber tardado, tuvimos una mision en el sur sabes , el ya no esta , ha pagado por lo que te hizo , tu nombre no saldra mas por su boca.\nno siento remordimiento,  no fue acto de rabia , estaba sereno , si mato como un drow en que me convierte eso Kalista* \n\nSi esto es ser egoísta acepto lo que soy ahora . \n**deja las flores y pone un par de barillas de incienso **",
+      "mensaje_sha256": "9b25622c39451fccfba8154f16b7286c839071d3c1ae278cc2de3f4a986b423a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1444034444431331461",
+      "texto_sha256": "698cde820719311ba27239d8526cae6f91d379d1e0b7794ab1908add90643660",
+      "adjuntos": []
+    },
+    {
+      "id": "1444040419389345923",
+      "fecha_utc": "2025-11-28T19:01:04.956000+00:00",
+      "fecha_local": "2025-11-28",
+      "editado_utc": null,
+      "texto": "Banzo : **pasado un buen rato Banzo se levanta **\nvoy a hablar con la amargada esa de la perla , no quiero repercusiones para los demás . Algún consejo pececillo? \n**sonrrie y pone la mano en el mausoleo en construcción ** \nBueno , mañana nos vemos <@753394009153732689>",
+      "mensaje_sha256": "0bf428f1a530d40c3365f3775f8d21307ff8933d9cd3d3d1e4250ce974d49d3b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1444040419389345923",
+      "texto_sha256": "2359e7f10397eb7dfc5da1b79d1bf589a8755c7fa8f2b02b653d4cc8e23edf60",
+      "adjuntos": []
+    },
+    {
+      "id": "1444633480297185361",
+      "fecha_utc": "2025-11-30T10:17:41.695000+00:00",
+      "fecha_local": "2025-11-30",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "75076a51b8cc1b952fb6ab622ea27be33e91f64e459830a6a51af71cc8baef65",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1444633480297185361",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "id": "k-1383476682907848727",
+  "campana": "kuroto",
+  "unidad_revision": "k-1383413039260241960",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "El barril de Mosto",
+  "resumen": "Seraphina encuentra sake mientras Kurobane supervisa a los trabajadores.",
+  "relato": "En cuanto se queda a cargo, Seraphina cierra el jardín para mantener dentro a Glu-Glu y deja a los obreros trabajando mientras busca el alcohol. Entra en el cuarto polvoriento de Ikaari. Ve panfletos de El Tanuki Feliz y un dibujo de un drow marcado por dagas, sin que se identifique expresamente al retratado. El folleto ofrece un mapa de Sho con la dirección de la taberna. Detrás de la puerta encuentra a Mosto, primo de Ikaari, dormido y abrazado a un barril. Logra despertarlo lo suficiente para que le ofrezca sake; ella acepta y bebe a su lado. Mientras tanto, Kurobane vuelve a la sala y asume la vigilancia de los trabajadores. Seraphina termina dormida por la bebida y no vuelve a supervisar hasta el día siguiente. No obtiene una respuesta de Mosto sobre la taberna ni sale a visitarla en este tramo.",
+  "participantes": [
+    "Seraphina Longhop",
+    "Mosto",
+    "Kurobane"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1383506661247029340",
+      "afirmacion": "Seraphina encuentra el cuarto de Ikaari con panfletos y un dibujo atravesado por dagas.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1383522673019322398",
+      "afirmacion": "Se identifica a Mosto como primo de Ikaari, dormido con un barril.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1383530108198846615",
+      "afirmacion": "Mosto ofrece sake a Seraphina y vuelve a dormirse.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1383529023489179810",
+      "afirmacion": "Kurobane se hace cargo de vigilar a los obreros.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Doscientos quince mensajes íntegros y tres partes completas. Se conservan cuatro fases con cobertura de todos los IDs. Los obreros participan como colectivo sin nombres propios.",
+    "La marcha de Banzo y la de Guxi son informes de Kalista y Seraphina, respectivamente; no se inventan bando militar, barco, ubicación precisa o desenlace.",
+    "La espada llega a presionar el pecho de Kurobane y la escena muestra intimidación física, pero no detalla una herida, una decapitación o un combate posterior. No se oculta la agresión bajo una declaración de ausencia total de violencia.",
+    "El control de Osurai fluctúa y se refleja en ojos y voz. No se atribuye a Kurobane una liberación definitiva ni se convierte todo su comportamiento en voluntad autónoma.",
+    "Las amenazas contra Tip y Top no se consuman en muertes, desollamientos o alimento para otros animales. Ambos siguen actuando.",
+    "Jelbreg y Seraphina declaran no entender silvano. Sus respuestas no les conceden automáticamente el contenido de las bromas de Kalista y Lord Miau.",
+    "Mosto ofrece voluntariamente el sake, aunque Seraphina entró buscando las reservas sin permiso explícito. No se registra un barril robado.",
+    "La nueva supervisión de Kurobane deja la base renovada, pero los papeles posteriores indican remates por acabar. No se afirma reconstrucción integral de toda infraestructura ni expansión del edificio.",
+    "La primera visita de Kurobane sí es referida por él, sin revelar el lugar ni el hallazgo. La segunda nota no se abre en las fuentes y su misión permanece sin definir.",
+    "La fábula de Danifae es una versión interesada de relaciones conocidas, no prueba de cada motivo o cronología que insinúa.",
+    "Copito, Hopps y Sera aparecen como apelativos del ninja y Seraphina dentro del intercambio; no son nuevas identidades. La conversación sobre hijos de Kalista y Jelbreg es especulación jocosa.",
+    "Kalista llama expresamente cazador a Jelbreg y él corrige su propia protesta, sin que se reproduzca la firma del contrato en esta unidad."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-14T16:02:24.959000+00:00",
+  "fin_utc": "2025-06-14T19:48:50.730000+00:00",
+  "fecha_local": "2025-06-14",
+  "intervalo": {
+    "anterior": 127,
+    "siguiente": 128,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1382781538868920370",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1384592935672086533",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 127,
+        "fecha": "2025-06-12",
+        "inicio_referencia_utc": "2025-06-12T17:59:57+00:00",
+        "fin_estimado_utc": "2025-06-12T20:38:52+00:00",
+        "duracion_video_segundos": 9535,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1382781538868920370"
+      },
+      {
+        "capitulo": 128,
+        "fecha": "2025-06-17",
+        "inicio_referencia_utc": "2025-06-17T17:57:43+00:00",
+        "fin_estimado_utc": "2025-06-17T20:42:20+00:00",
+        "duracion_video_segundos": 9877,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1384592935672086533"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1383476682907848727",
+      "fecha_utc": "2025-06-14T16:02:24.959000+00:00",
+      "fecha_local": "2025-06-14",
+      "editado_utc": null,
+      "texto": "Seraphina: \nMmhhhh~, segunda habitación desde la izquierda o la sexta~\n\n**Con una sonrisa maliciosa, cerré la puerta del jardín para dejar a Glu Glu en dónde estaba, alejándome de puntillas hacia donde estan las habitaciones, no sin antes pasar por donde se encuentran los obreros**\n\nMuy bien señores, que buen trabajo están haciendo, sigan así!!, cualquier cosa que necesiten, estaré al pendiente!! Si como no...\n\n**Les mencioné con tono firme y de aprobación para seguir mi camino y empezar a ver las habitaciones con bastante detenimiento**\n\nDe acuerdo, a la izquierda y ahora a la segunda habitación \n\n**Caminando de puntillas, me dirigí a la izquierda y conté la segunda habitación, me puse enfrente de la puerta y la abrí con mucho cuidado, esperando a que no hubiera nadie o alguna sorpresa inesperada**",
+      "mensaje_sha256": "8f328b5fa59a2732897f0b0f6c1ab270d5c4e315c3ad40ad596c1be1402fea14",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1383476682907848727",
+      "texto_sha256": "770f6c50c34424268a56f9e88071fd2cb71852bb603319208cb7f28403de812e",
+      "adjuntos": []
+    },
+    {
+      "id": "1383479676076560404",
+      "fecha_utc": "2025-06-14T16:14:18.586000+00:00",
+      "fecha_local": "2025-06-14",
+      "editado_utc": null,
+      "texto": "(<@694971576340447292> **Ikaari, están entrando en tu habitación para \"robarte\" alcohol**)",
+      "mensaje_sha256": "2f29788755429815e8752065947ae4d9bae74869918a01615fa585e600b780fc",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1383479676076560404",
+      "texto_sha256": "910a83415214d9ed6de56074e2280608f86b24f6de08453536b7baf691a0221f",
+      "adjuntos": [],
+      "no_narrativo": true,
+      "nota_editorial": "Contexto o marcador no narrativo; conservado en la exportación íntegra."
+    },
+    {
+      "id": "1383481566105440367",
+      "fecha_utc": "2025-06-14T16:21:49.204000+00:00",
+      "fecha_local": "2025-06-14",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Dejándome guiar por mi naríz, entré a la habitación y comencé a olfatear a los alrededores, esperando encontrar al menos un indicio de alcohol**\n\n**Olfatee por los muebles, por la cama, debajo de ella, cada rincón que mi vista me permitiera, como un sabueso cazando a su presa**",
+      "mensaje_sha256": "6fb93edc04925870a372ffffc9a2bc540da6c316b5a99993cbe251b193eef84b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1383481566105440367",
+      "texto_sha256": "8ae991bbd42d5eb8be82ee213032ca1df50e8cdeb65c9335bb74b0839b1d6e99",
+      "adjuntos": []
+    },
+    {
+      "id": "1383506661247029340",
+      "fecha_utc": "2025-06-14T18:01:32.352000+00:00",
+      "fecha_local": "2025-06-14",
+      "editado_utc": null,
+      "texto": "Habitación Ikaari:\n**Te encuentras en una habitación sombría con signos de no haber sido ocupada en unas semanas. En un rincón hay un catre con un colchón sin sábanas, y al lado una mesita acumulando polvo con algunos panfletos de 'El Tanuki Feliz '. En una de las oscuras paredes hay un papel ensartado con dagas con un dibujo de un drow, que puede recordar a un cazador conocido. No hay signos de alcohol, pero si una dirección**",
+      "mensaje_sha256": "403cc50e47dce312728aa584b5dfb1e7c308e26a7fe4d6ab73291c66ef37cf5e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1383506661247029340",
+      "texto_sha256": "b6069d181c4fc2cfd9e53c8b427d45cae6646bf98ed2c27db0ed55293ee03469",
+      "adjuntos": []
+    },
+    {
+      "id": "1383508898916466798",
+      "fecha_utc": "2025-06-14T18:10:25.854000+00:00",
+      "fecha_local": "2025-06-14",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Solté unos cuantos estornudos debido al polvo acumulado, no encontré nada y con algo de esfuerzo podía ver al rededor, cogí uno de los panfletos sintiendo bastante curiosidad de que se trataba**\n\n\"El Tanuki felíz\"... Ya veo~\n\n**Al alzar la mirada y ver con un poco más de detenimiento, me dí cuenta del dibujo y las dagas a su alrededor, esto le provocó bastante risa**\n\nComo se vé que quieren mucho al señor gruñiditos, si estaría bien hacer un asado para juntarlos a todos y ver cómo se desata el caos\n\n**Volví a bajar la mirada hacia el panfleto, leyendo con detenimiento su contenido tratando de encontrar algo que me pudiera ser útil**",
+      "mensaje_sha256": "2a3b8ca7fb434115d5f77ea00a61755d72e6d569889635e7f40def135deab756",
+      "tipo_discord": 19,
+      "referencia": "1383506661247029340",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1383508898916466798",
+      "texto_sha256": "78f121f7c19afb0b73ae8663f2692b34bd4fbca0c0b4dc299a4606e12bac72eb",
+      "adjuntos": []
+    },
+    {
+      "id": "1383522673019322398",
+      "fecha_utc": "2025-06-14T19:05:09.856000+00:00",
+      "fecha_local": "2025-06-14",
+      "editado_utc": null,
+      "texto": "Habitación Ikaari:\n**En de atrás del panfleto del Tanuki Feliz hay un pequeño mapa de Sho con la dirección de la taberna. Al bajar la mirada ves a Mosto, el primo de Ikaari, dormido detrás de la puerta de la habitación abrazado a lo que parece un barrilete**",
+      "mensaje_sha256": "d627c59bd0b4111b63d593adbba83be926d3c3068533ce13818a060c19dc3ef7",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1383522673019322398",
+      "texto_sha256": "bfb1eee31bcb3546694fd35c039c7c96e6097bc8dcce3246fcc2f4db42c15f13",
+      "adjuntos": []
+    },
+    {
+      "id": "1383524514465579089",
+      "fecha_utc": "2025-06-14T19:12:28.891000+00:00",
+      "fecha_local": "2025-06-14",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Después de ver el mapa, me dispuse a salir de la habitación, pero al dar la vuelta me sorprendió ver a un Tanuki dormido con el barrilete en las manos**\n\nAY HIJO DE LA CHINGADA!!, Que pinche susto...\n\n**Me acerqué con cautela para ver si aún la criatura estaba con vida**\n\nPpsss... Pppsss... Oye...",
+      "mensaje_sha256": "08bf89ac5c0fb0b6f74da027ef01aafc757404d584961bda3c36ec1a7ab518e7",
+      "tipo_discord": 19,
+      "referencia": "1383522673019322398",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1383524514465579089",
+      "texto_sha256": "d4392021765ceaee3bfa9b2edf5b8d140de6474828f98d8b3a34b855eb061d49",
+      "adjuntos": []
+    },
+    {
+      "id": "1383525653965439048",
+      "fecha_utc": "2025-06-14T19:17:00.569000+00:00",
+      "fecha_local": "2025-06-14",
+      "editado_utc": null,
+      "texto": "Mosto: **El tanuki parece estar dormido de la cogorza que lleva, mientras hace varios ruidos casi ininteligibles** ghmmmh quieres fiesta? La que te va a dar esta! gmhhff",
+      "mensaje_sha256": "e6b264e8daf7070761d9ee14f0379d926fdd8c585ce329139311fdf095ef0601",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1383525653965439048",
+      "texto_sha256": "e0d01640dc383287437b3763b8e44541c2aa71f608d0f683e593dc4a3068d9b9",
+      "adjuntos": []
+    },
+    {
+      "id": "1383527860232523856",
+      "fecha_utc": "2025-06-14T19:25:46.584000+00:00",
+      "fecha_local": "2025-06-14",
+      "editado_utc": null,
+      "texto": "Seraphina: \n**Casi me río de lo que alcancé a escuchar de lo que dijo**\n\nNo pues este barco está a la deriva\n\n**Le piqué la mejilla tratandolo de hacer reaccionar**\n\nAl menos comparte un poco de la fiesta, no me dejes sobria aquí",
+      "mensaje_sha256": "b401777d99d18819c725f7728757f648d13d20f473e5973fe92bc7219a36cb84",
+      "tipo_discord": 19,
+      "referencia": "1383525653965439048",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1383527860232523856",
+      "texto_sha256": "1fb6dfc7f57029bfd43ca09348318ef8b4cc6deebd53ae0ac646e1d9bc485e52",
+      "adjuntos": []
+    },
+    {
+      "id": "1383529023489179810",
+      "fecha_utc": "2025-06-14T19:30:23.926000+00:00",
+      "fecha_local": "2025-06-14",
+      "editado_utc": "2025-06-14T19:32:24.809000+00:00",
+      "texto": "(SALA PRINCIPAL)\n\nKurobane:\n\n**Al ver que Glu Glu está tranquilo vuelve a entrar a la sala para vigilar a los trabajadores, quedándose observando cada movimiento de ellos mientras se queda sentado en una de las sillas**",
+      "mensaje_sha256": "7ef70d4adcc6389f2041fb3b82eeb043b496d5771d905b4a4b1a699d08bbc340",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1383529023489179810",
+      "texto_sha256": "bccf95326d0d5d7349db26c493979f9c3492e68c715e28bd048e8b1fb427e815",
+      "adjuntos": []
+    },
+    {
+      "id": "1383530108198846615",
+      "fecha_utc": "2025-06-14T19:34:42.541000+00:00",
+      "fecha_local": "2025-06-14",
+      "editado_utc": "2025-06-14T19:35:03.229000+00:00",
+      "texto": "Mosto: **Abriendo solamente el ojo del lado pellizcado, su primera reacción será abrazar más el barril, pero se te quedará mirando unos segundos antes de articular** Eh! Que pasa? Quieres sake? **Y ofrecerá el barril antes de empezar a tambalearse y quedarse otra vez dormido**",
+      "mensaje_sha256": "a19014b2a68de6b6d6d6195ef692ba2a7b2dab897853b731c3435fb146647c19",
+      "tipo_discord": 19,
+      "referencia": "1383527860232523856",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1383530108198846615",
+      "texto_sha256": "99fb00b8f80aa7981a0b1242f229c3d55c3a25b1561c123ce9eede2ea76756e7",
+      "adjuntos": []
+    },
+    {
+      "id": "1383533665761624116",
+      "fecha_utc": "2025-06-14T19:48:50.730000+00:00",
+      "fecha_local": "2025-06-14",
+      "editado_utc": "2025-06-15T15:09:52.971000+00:00",
+      "texto": "Seraphina:\nPa' preguntar es tarde\n\n**Cogí el barril antes de que se quedara dormido de nuevo**\n\nGracias Dioses del alcohol, que me bendicen con este manjar~\n\n**Bebí del barril, sintiendo el ardor del sake correr por mi garganta, poniéndome a lado del Tanuki**\n\nOye... Pppsss... Tu sabes bien en dónde queda \"el Tanuki felíz\", para ir a ver si la reserva de alcohol sigue completo, no para otra cosa, jejeje~",
+      "mensaje_sha256": "1bd6166f3e234acf586617425eb361ff5f0924ccbec120a0b36b9b27c1d6a966",
+      "tipo_discord": 19,
+      "referencia": "1383530108198846615",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1383533665761624116",
+      "texto_sha256": "175e17782ef379c96096415c1e43901e2cb38a77e3da58e69edca6d22325d165",
+      "adjuntos": []
+    }
+  ]
+}

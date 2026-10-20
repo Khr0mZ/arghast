@@ -1,0 +1,90 @@
+{
+  "id": "k-1406292768774426744",
+  "campana": "kuroto",
+  "unidad_revision": "k-1406215565936300054",
+  "hilo_id": "1387915737502580886",
+  "hilo_nombre": "Sho, Palacio del Shogunato - Capital de Kuroto",
+  "titulo": "Picor en las aletas",
+  "resumen": "Un apunte corporal de Kalista sin explicación adicional.",
+  "relato": "Kalista siente que le pican las aletas. El apunte no identifica qué lo provoca ni una acción posterior para aliviarlo.",
+  "participantes": [
+    "Kalista"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1406292768774426744",
+      "afirmacion": "Se describe picor en las aletas de Kalista.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No hay vínculo causal demostrado entre ambos apuntes ni fabricación terminada en esta unidad."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-08-16T15:05:23.732000+00:00",
+  "fin_utc": "2025-08-16T21:15:42.014000+00:00",
+  "fecha_local": "2025-08-16",
+  "intervalo": {
+    "anterior": 146,
+    "siguiente": 147,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1405973993948975124",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1406697567479271588",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 146,
+        "fecha": "2025-08-15",
+        "inicio_referencia_utc": "2025-08-15T17:58:25+00:00",
+        "fin_estimado_utc": "2025-08-15T21:02:41+00:00",
+        "duracion_video_segundos": 11056,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1405973993948975124"
+      },
+      {
+        "capitulo": 147,
+        "fecha": "2025-08-17",
+        "inicio_referencia_utc": "2025-08-17T17:53:35+00:00",
+        "fin_estimado_utc": "2025-08-17T20:19:39+00:00",
+        "duracion_video_segundos": 8764,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1406697567479271588"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1406292768774426744",
+      "fecha_utc": "2025-08-16T15:05:23.732000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": null,
+      "texto": "Kalista: **La pican las aletas** <@214405113677217793> <@616683133374562304>",
+      "mensaje_sha256": "f0131ccd9ae34da9487253a1faee03b0a8f45ee1e7d45672883e85203a368af2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1406292768774426744",
+      "texto_sha256": "39dfa8e8ee59c46ce0a1c6c54762077fbd5e4afe22003e25408b792cf8243714",
+      "adjuntos": []
+    },
+    {
+      "id": "1406385959003488468",
+      "fecha_utc": "2025-08-16T21:15:42.014000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "89f7ccc3e79d4e45b5b8b6a7feab7ba7da01581b1ed9798988606a80db3f9ff1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1406385959003488468",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

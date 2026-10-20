@@ -1,0 +1,329 @@
+{
+  "id": "k-1436361344386338957",
+  "campana": "kuroto",
+  "unidad_revision": "k-1436361344386338957",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Un altar para despedirse de Archi",
+  "resumen": "Guxi y Seraphina lloran al inventor mientras Shirz guarda para sí lo percibido durante su trance.",
+  "relato": "Guxi prepara en el cementerio de Sho un altar de piedra con el nombre de Archi para despedirlo. Seraphina permanece a su lado y Shirz llega tras leer la nota de la Base. El inventor promete continuar el legado de su maestro, cuidar a R3 y aprovechar el camino que les abrió; ofrece sake sobre el monumento. Seraphina alterna lágrimas y reproches afectuosos por los planes que no podrán compartir. Shirz deja que se desahogue y después toca el altar, entrando en trance mientras busca al gnomo entre las almas. Al volver solo les habla de esperanza y de cumplir el deber hacia Kuroto y los compañeros perdidos, sin describir lo que encontró. Guxi nota desaparecer la magia de un objeto recibido de los guardianes y concluye que los han abandonado. Seraphina propone avanzar con las armaduras y él menciona visitar a Frankenvolt, supuesto antiguo compañero de Archi. Se marchan con R3. Shirz queda ante el altar vacío, sonríe y piensa en el gnomo, sin que su reacción revele un destino concreto para Archi.",
+  "participantes": [
+    "Guxi",
+    "Seraphina",
+    "Shirz",
+    "R3"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1436361344386338957",
+      "afirmacion": "Guxi prepara un altar con el nombre de Archi para una despedida.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1436367411355058268",
+      "afirmacion": "Guxi promete seguir el legado y cuidar a R3.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1436374424218505246",
+      "afirmacion": "Shirz toca el altar y busca entre las almas.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1436377811303534703",
+      "afirmacion": "Shirz anima a los demás con esperanza sin contar una visión concreta.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1436379336394539028",
+      "afirmacion": "Guxi interpreta la pérdida de una bendición como abandono de los guardianes.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1436384448399544521",
+      "afirmacion": "Shirz permanece sonriendo ante el altar vacío y piensa en Archi.",
+      "tipo": "pensamiento"
+    }
+  ],
+  "notas": [
+    "Se representa un duelo por Archi, sin cadáver ni causa de muerte mostrados aquí. La sonrisa de Shirz no demuestra resurrección, supervivencia o contacto confirmado.",
+    "R3 no se fusiona con Ralph, R2 u otros constructos por numeración o cercanía.",
+    "Frankenvolt es el nombre que Guxi recuerda con duda; la visita y las armaduras quedan pendientes.",
+    "La desaparición de la magia de un objeto es una percepción concreta de Guxi; no prueba que todos los guardianes hayan abandonado Kuroto."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-11-07T14:27:10.805000+00:00",
+  "fin_utc": "2025-11-07T17:50:34.845000+00:00",
+  "fecha_local": "2025-11-07",
+  "intervalo": {
+    "anterior": 165,
+    "siguiente": 166,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1436069852543586424",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438244036996628491",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 165,
+        "fecha": "2025-11-06",
+        "inicio_referencia_utc": "2025-11-06T19:08:37+00:00",
+        "fin_estimado_utc": "2025-11-06T22:46:55+00:00",
+        "duracion_video_segundos": 13098,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1436069852543586424"
+      },
+      {
+        "capitulo": 166,
+        "fecha": "2025-11-12",
+        "inicio_referencia_utc": "2025-11-12T19:07:55+00:00",
+        "fin_estimado_utc": "2025-11-12T22:08:14+00:00",
+        "duracion_video_segundos": 10819,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438244036996628491"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1436361344386338957",
+      "fecha_utc": "2025-11-07T14:27:10.805000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "(cementerio de sho)\nGuxi:\n**ha preparado una especie de tumba japonesa que es basicamente un especia de altar de piedra donde esta grabado el nombre de archi**\nEstamos aqui reunidos para dar una despedida a nuestro compañero archi \n<@408026114548695061>",
+      "mensaje_sha256": "126be5ecad123e561990417e8398be874833d93385503398458fb6a24025145c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1436361344386338957",
+      "texto_sha256": "d8f2b1a692963a038de8b7b5762a23662a6aea45a6804f24d8c068dae9c661f8",
+      "adjuntos": []
+    },
+    {
+      "id": "1436362898250268743",
+      "fecha_utc": "2025-11-07T14:33:21.275000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Permanecí a lado de Guxi todo el tiempo, sentía un enorme nudo en la garganta y la vista borrosa, ese cabrón se fue con una sonrisa pero nos dejó el corazón roto**",
+      "mensaje_sha256": "bbe191392a74d3173e94a4a58ed01eff65a7a6e0ae8e880be4beeb5d3f100489",
+      "tipo_discord": 19,
+      "referencia": "1436361344386338957",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1436362898250268743",
+      "texto_sha256": "dbaed01e6ef96a473c17878a596ad5191b5dc801f82eafef5f52990892b756ac",
+      "adjuntos": []
+    },
+    {
+      "id": "1436365967658717314",
+      "fecha_utc": "2025-11-07T14:45:33.079000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "Shirz: **El shadar-kai llega junto a sus compañeros después de leer la nota en la base de los Cazadores. Sin decir nada, asiente a Guxi y Seraphina <@408026114548695061> en modo de respeto y permanece a la espera del discurso del humano**",
+      "mensaje_sha256": "9ceaaf70fc3860de564daf96e5133586f3de0ea3cddf9924d8852a322c348709",
+      "tipo_discord": 19,
+      "referencia": "1436361344386338957",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1436365967658717314",
+      "texto_sha256": "5d57a07df75b08cf3a9d2c5b8d641e06b191f6745c596545bc60c33531a3b534",
+      "adjuntos": []
+    },
+    {
+      "id": "1436367411355058268",
+      "fecha_utc": "2025-11-07T14:51:17.283000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "guxi:\nAqui cariño tenemos la costumbre de visitar las tumbas y hablar con el difunto como si estuviera aun con nosotros\n**le coge de las manos y la mira a los ojos**\nes hora de despedirnos de el cariño\n**se agacha apoyandose en sus piernas y mira a la tumba**\nArchi o deberia decir maestro no? \nSiempre pense que deberia proteger la sonrisa de cada uno para que cuando termine esta guerra podamos sonreir pero hoy me he dado cuenta de que no he sido capaz de proteger la tuya \n**le caen unas lagrimas de los ojos**\nKuroto es maravilloso nos ha cambiado a todos aqui hemos encontrado un motivo para vivir todos \n**mira a seraphina con una sonrisa**\nY se que tu tambien fuiste cambiado por kuroto \nMaestro seguire con tu legado \n**pone la mano sobre la tumba tocandola**\nCuidare lo que dejaste mira a r3 lo cuidare por ti \nEl camino que nos abriste nos dara la esperanza que necesitamos para terminar esta guerra\n**coge un cazo de sake y lo hecha encima de esa tumba**\nNo se si te gustara el sake pero espero que lo disfrutes donde sea que estes\n<@616683133374562304>",
+      "mensaje_sha256": "1fa194235fcecaad6297af41a3481812af9d26c36553448d5d4cca872d760320",
+      "tipo_discord": 19,
+      "referencia": "1436362898250268743",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1436367411355058268",
+      "texto_sha256": "19853b10a56c1cdcdc56c1df31b89286dc61f6f20939801c31d1c8fa568d8188",
+      "adjuntos": []
+    },
+    {
+      "id": "1436371253307899986",
+      "fecha_utc": "2025-11-07T15:06:33.276000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": "2025-11-07T15:21:15.560000+00:00",
+      "texto": "Seraphina:\n\n**Me senté en la misma posición en la que se había puesto Guxi**\n\nArchi, eres un cabrón... CÓMO TE ATREVISTE, HIJO DE PUTA!!\n\n**Mientras gritaba, unas cuantas lágrimas caían por mis mejillas**\n\nCómo te atreviste a irte?... Aún teníamos muchas cosas que hacer, todavía teníamos que ir a todos los bares de Kuroto y ponernos ebrios, quedamos en que... Que estaríamos todos juntos...\n\n**No dejaba de golpear el suelo mientras seguía hablando**\n\nEres un Cabrón Archi, un cabrón que no me arrepiento de haber conocido, espero que estés rodeado de todas las \"bellezas\" que te gustaban... Nos vamos a volver a encontrar",
+      "mensaje_sha256": "7ae74c3fbc75952bd92d461f449406707d518ca8d857322c61d86284ed70542c",
+      "tipo_discord": 19,
+      "referencia": "1436367411355058268",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1436371253307899986",
+      "texto_sha256": "546b88965fbe5ae3e8e4e82c037ccfce7ce0c09d0a878d234ee532357d03771f",
+      "adjuntos": []
+    },
+    {
+      "id": "1436373008376926411",
+      "fecha_utc": "2025-11-07T15:13:31.717000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "guxi:\n**la abraza para consolarla aunque lagrimas caen encima suya**\nSolo nos queda seguir adelante cariño lo tenemos que hacer por el tambien",
+      "mensaje_sha256": "0ebb5a6920519f24567924f6f770bea03fb2c8d3a06d13a2f31108aa0fdd1a9b",
+      "tipo_discord": 19,
+      "referencia": "1436371253307899986",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1436373008376926411",
+      "texto_sha256": "e5fb9eb3ad477ab88b9f510250a438a049bdbced3a4de9bab09606312061574e",
+      "adjuntos": []
+    },
+    {
+      "id": "1436374424218505246",
+      "fecha_utc": "2025-11-07T15:19:09.280000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": "2025-11-07T15:19:34.855000+00:00",
+      "texto": "Shirz: **El clerigo os ve muy destrozados por el compañero perdido e intenta ir a detener a Seraphina cuando empieza a golpear la tumba. Pero al ver su cara, puede entender lo que siente realmente y la deja para que se desahogue. El shadar-kai comprende muy bien la muerte para saber que cada uno pasa su duelo de una manera u otra. Cuando la muchacha va con Guxi, el clérigo se acerca y posa una mano sobre el altar. Cierra los ojos y empieza a buscar entre las almas a ese gnomo tan extraño**",
+      "mensaje_sha256": "f083d8e8f0c242294cdc93bbfb8f22c6db74b99a2bdca8a40184c866c21906b8",
+      "tipo_discord": 19,
+      "referencia": "1436371253307899986",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1436374424218505246",
+      "texto_sha256": "0322930ae094103f57576de067009cefdf95d308473142ce8ea4645387d73492",
+      "adjuntos": []
+    },
+    {
+      "id": "1436374822622855218",
+      "fecha_utc": "2025-11-07T15:20:44.267000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "Seraphina: \nLo se, amor, lo se..\n\n**Me limpio las lágrimas**\n\nLa vida continúa y no podemos detenernos...\n\n**Miré a Shirz y dejé que hiciera lo que estaba haciendo, no sabía si estaba rezando o haciendo cualquier otra cosa, aun no lo conocía bien**\n\n<@214405113677217793>",
+      "mensaje_sha256": "aee536e7e470480eed7d296b0d6d662efc78e9255ece190bd5f6013e021d6ded",
+      "tipo_discord": 19,
+      "referencia": "1436373008376926411",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1436374822622855218",
+      "texto_sha256": "292fa1837e55f35e37622cb9bfe9fd47c4ff4d1faeadf75e6a4f18b616d73dac",
+      "adjuntos": []
+    },
+    {
+      "id": "1436375251746422905",
+      "fecha_utc": "2025-11-07T15:22:26.578000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "guxi:\ncada uno tenemos un papel \n**nota la magia del objeto que le dio el guardian desaparecer**\ny se acerca el final ya tenemos que aguantar y ganar",
+      "mensaje_sha256": "72326a3eaf78a6eb988d07d0d74978bbb5a13fc84fdac969bf6a8515fb9488bb",
+      "tipo_discord": 19,
+      "referencia": "1436374822622855218",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1436375251746422905",
+      "texto_sha256": "91cb3e4824fbfb5af23a29dee7d44c76f0361fa097f7064fd96c961a8f65dbbb",
+      "adjuntos": []
+    },
+    {
+      "id": "1436376006410633338",
+      "fecha_utc": "2025-11-07T15:25:26.504000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "Shirz: **El shadar-kai parece en una especie de trance, sus ojos brillan en un color blanquecino como si su vida se hubiera apagado. Esta así un largo rato mientras os despedís de vuestro compañero. Parpadea unas cuantas veces y vuelve a su estado normal mientras tiene la mano aun en el altar. Una imperceptible sonrisa se dibuja en su rostro**",
+      "mensaje_sha256": "f0f6f0b92a07862c0a181a2386b229602e45983879130777f4f59a77e654d3e2",
+      "tipo_discord": 19,
+      "referencia": "1436374822622855218",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1436376006410633338",
+      "texto_sha256": "9145a511ff46f634ee6eef0163f0c7364d9f8b51e24a65c9b09708af199c8576",
+      "adjuntos": []
+    },
+    {
+      "id": "1436376222266294272",
+      "fecha_utc": "2025-11-07T15:26:17.968000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "guxi:\nHas visto algo shirz?",
+      "mensaje_sha256": "0e1e3d0e69fb9c9ea1b52f1b4b6ee9389357363f002438f2c415a52d8988769c",
+      "tipo_discord": 19,
+      "referencia": "1436376006410633338",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1436376222266294272",
+      "texto_sha256": "829acc1b9b22c8b9960b0c9ace7b848ec74aaf96a4c9a59a14f334de7c9a7744",
+      "adjuntos": []
+    },
+    {
+      "id": "1436377811303534703",
+      "fecha_utc": "2025-11-07T15:32:36.824000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "Shirz: **Te mira con una sonrisa y se acerca a ti para posarte la mano en el hombro** Esperanza, mi amigo Guxi. Esperanza que ahora recae en ti... **Mira a Seraphina** Y en ti... En todos nosotros. Debemos hacer lo que juramos por estas tierras y por el respeto a nuestros compañeros que... que ya no están. Es el momento de dar lo mejor de nosotros. Por ellos y por la gente de Kuroto",
+      "mensaje_sha256": "dc6b63e026712b1e123b783f7b3219b3fef5f8bb5ed1010870b46d6b727237de",
+      "tipo_discord": 19,
+      "referencia": "1436376222266294272",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1436377811303534703",
+      "texto_sha256": "1356432412572604e9e7fe193fc9aeb3929ad28516b42143ddb8a348b406f151",
+      "adjuntos": []
+    },
+    {
+      "id": "1436379336394539028",
+      "fecha_utc": "2025-11-07T15:38:40.434000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "guxi:\nespero que tengas razon shirz \n**se quita el gorro que estaba bendecido por los guardianes**\nLos guardianes nos han abandonado estamos solos",
+      "mensaje_sha256": "f697046dafafb692e53dca28d90fc52b9ff02c15ec1eeef815d1453d4e8c9741",
+      "tipo_discord": 19,
+      "referencia": "1436377811303534703",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1436379336394539028",
+      "texto_sha256": "4fac5a19d03d3c2f237db656070074efdcf44e191f260b59cf3c412613a857e5",
+      "adjuntos": []
+    },
+    {
+      "id": "1436382729150136481",
+      "fecha_utc": "2025-11-07T15:52:09.330000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "Seraphina:\nVamos cariño, entonces tenemos que hacer las armaduras lo más pronto posible \n\n**Tomé a R3 en brazos**\n\nGracias por tus palabras Shirz, te lo agradezco mucho",
+      "mensaje_sha256": "0e7a9cba6aa5429b88d6c9d06a37f7c983908f968c8aa390476a1867c42224b0",
+      "tipo_discord": 19,
+      "referencia": "1436379336394539028",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1436382729150136481",
+      "texto_sha256": "ab2b5912d877ad743db07709bc3aaa602d02b7ff5504fd33190c491743ba6aa8",
+      "adjuntos": []
+    },
+    {
+      "id": "1436383063700668558",
+      "fecha_utc": "2025-11-07T15:53:29.093000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "guxi:\nSi tendre que ir a visitar a su antiguo compañero frankenvolt creo que se llamaba\n**se despide de shirz y se va junto con seraphina**",
+      "mensaje_sha256": "4f90290dbc9a6e2f9c3334f9cae3baffe410a4621f36ef02e1a11e4afdc7fdc0",
+      "tipo_discord": 19,
+      "referencia": "1436382729150136481",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1436383063700668558",
+      "texto_sha256": "b7776d50cff5bd13d134d055b68d44f83ab23ebe752cb65755e6d171ffbedb82",
+      "adjuntos": []
+    },
+    {
+      "id": "1436384448399544521",
+      "fecha_utc": "2025-11-07T15:58:59.231000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "Shirz: **El clerigo de la muerte se queda junto al altar que ha hecho Guxi para su compañero Archi. Ve como la pareja se marcha hacia las calles de la capital quedándose él junto a ese altar vacío. Mira ese altar y sonríe de oreja a oreja** *Gnomo cabroncete... ja ja ja ja*",
+      "mensaje_sha256": "76c0697eca5e56c79b06b3a8b05614454ba6f4a716f89e13586c1ce47e873982",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1436384448399544521",
+      "texto_sha256": "e716a8ee7d3873033eaccc4580a09044ac6a1d1f58d8efab05479ce07ba3da25",
+      "adjuntos": []
+    },
+    {
+      "id": "1436385127755419862",
+      "fecha_utc": "2025-11-07T16:01:41.202000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "🔩 guxi y seraphina salen de escena🏴‍☠️",
+      "mensaje_sha256": "f56dcb9068fd5db22e4a1a24719353b2467b817e635c6d20c0f3e2ed46d9ed1d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1436385127755419862",
+      "texto_sha256": "14ae7c3f7e75f66fd1344f00956403741ecd27bdafccdfa5c5ac658a16302e69",
+      "adjuntos": []
+    },
+    {
+      "id": "1436412531840254134",
+      "fecha_utc": "2025-11-07T17:50:34.845000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena 🔴",
+      "mensaje_sha256": "0823c26e9cf5fbd0412955d702f3554765e9e54592cb815be1134084b078ac13",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1436412531840254134",
+      "texto_sha256": "298fa93bf0457633e2be1e0841043d853cccb9548c7ae2d8426119f0cb0a929e",
+      "adjuntos": []
+    }
+  ]
+}

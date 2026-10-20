@@ -1,0 +1,118 @@
+{
+  "id": "x-1553735210586349669",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1553735210586349669",
+  "hilo_id": "1495828307843747971",
+  "hilo_nombre": "??? - En alguna parte",
+  "titulo": "Vhaer'Ryl llega al fuerte y retiene a Jacky",
+  "resumen": "Nistra combina la captura del Zin-Carla y su objetivo con un encargo sobre un tiefling; el grupo encuentra al marine escondido.",
+  "relato": "Nistra, Dimleila, Greya y Velkyn desembarcan junto a un fuerte de la Marina que parece abandonado. La duergar se queja de la arena y de la superficie, mientras su líder disfruta de unas botas mágicas que apenas dejan huella y pueden volverla muy ligera. Nistra cree fiable la información obtenida en Carnan y atribuye el abandono a algún cambio que puede favorecerlos.\n\nDimleila reprocha que al encargo de la matrona hayan añadido la búsqueda de un tiefling para una cofradía de Carnan. Nistra precisa su misión principal: observar al Zin-Carla, descubrir a su objetivo y capturarlos a los dos. Considera que los contactos ganados con otros trabajos forman parte de ese propósito. No da el nombre del tiefling.\n\nCuando avanzan hacia la jungla oyen un ruido. Velkyn lanza una flecha de advertencia junto a la cobertura y una monje cierra la huida del hombre escondido. Es Jacky Jackson, solo y aterrorizado en los alrededores del fuerte.\n\nNistra se presenta ante él, interpreta su tartamudeo como Yoyoyo y anuncia que le será útil. La escena termina con el marine retenido y sin interrogatorio completo. No localizan aquí al Zin-Carla ni capturan al tiefling.",
+  "participantes": [
+    "Nistra",
+    "Dimleila",
+    "Greya",
+    "Velkyn",
+    "Jacky Jackson"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1553735210586349669",
+      "afirmacion": "El grupo llega al fuerte y Nistra declara las dos capturas previstas y el trabajo adicional de Carnan.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1553735344120143884",
+      "afirmacion": "Velkyn fuerza la salida del escondido y el grupo retiene a Jacky Jackson.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El año largo de viaje es tiempo narrativo declarado por Dimleila, sin alterar la fecha de publicación.",
+    "Yoyoyo es la broma de Nistra por el tartamudeo, sin identidad nueva.",
+    "La monje que bloquea el paso no recibe nombre explícito en ese párrafo.",
+    "La mención a un usuario no basta para identificar al tiefling.",
+    "La situación anterior de Jacky requiere otras fuentes; aquí solo se lo encuentra en el fuerte."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-09-27T11:49:01.208000+00:00",
+  "fin_utc": "2026-09-27T11:49:33.045000+00:00",
+  "fecha_local": "2026-09-27",
+  "intervalo": {
+    "anterior": 66,
+    "siguiente": 69,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 66,
+        "fecha": "2026-09-22",
+        "inicio_referencia_utc": "2026-09-22T18:20:03+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241"
+      },
+      {
+        "capitulo": 69,
+        "fecha": "2026-10-08",
+        "inicio_referencia_utc": "2026-10-08T18:17:02+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1553735210586349669",
+      "fecha_utc": "2026-09-27T11:49:01.208000+00:00",
+      "fecha_local": "2026-09-27",
+      "editado_utc": null,
+      "texto": "**Sus pies se hundieron ligeramente cuando bajó del bote y sus pesadas botas tocaron la arena húmeda. Dimleila hizo una mueca de desagrado mientras contemplaba el terreno que se extendía ante ella. No le gustaba la arena. No le gustaba el mar. Y, sobre todo, no le gustaba la superficie.**\n\nNistra: Alegra esa cara, mi querida amiga. Después de un largo viaje, por fin hemos llegado.\n\nDimleila: **Levantó la mirada hacia la drow. Nistra le dedicó una sonrisa burlona, claramente divertida por el disgusto de su rostro. La duergar volvió a mirar sus pies. Cada paso hacía que sus botas se hundieran un poco más en la arena. Nistra, en cambio, avanzaba sin dificultad. Sus botas mágicas apenas dejaban huella y, cuando ella lo deseaba, podían hacerla más ligera que una pluma.** Si yo tuviera todos tus objetos mágicos, los vendería y me haría rica para vivir una vida de lujos. **Lo dijo entre dientes mientras comenzaba a avanzar por la costa.**\n\nNistra: Podría. **La sonrisa de la drow se ensanchó ligeramente.** Pero entonces la vida no sería tan divertida.\n\n**Detrás de ellas, Greya bajó del bote de un salto. No dijo nada. Como siempre, sus ojos se movieron de un lado a otro, examinando cuanto la rodeaba. Finalmente, su atención se detuvo en el enorme fuerte que se alzaba sobre el peñasco, dominando aquella parte de la costa.**\n\nVelkyn: Ese debe ser el Fuerte de la Marina. Aunque parece abandonado. **El explorador drow bajó del bote detrás de Greya y contempló también la fortaleza.** La información que nos dieron en Carnan no debía ser cierta.\n\nNistra: Lo era, te lo aseguro. **Nistra caminó hasta reunirse con Dimleila, que se había detenido bajo una palmera.** Pocos pueden llegar a mentirme. **Se llevó una mano al cabello y tocó uno de sus broches. Después sonrió. Dimleila reconoció inmediatamente el objeto mágico y dejó escapar un suspiro.** Habrá pasado algo. Y ya sabéis que, cuando pasa algo, es una oportunidad para Vhaer'Ryl.\n\nDimleila: Ya tenemos suficientes trabajos en este lugar para inmiscuirnos en otro. **El humor de la duergar empeoraba por momentos. El sol, el calor, la arena... Todo en la superficie parecía empeñado en ponerla de mal humor.** Venimos por un trabajo de la Madre Matrona y has aceptado un trabajo de una cofradía de Carnan para buscar a un tiefling <@401738213850480643>. Creo que ya tenemos suficiente trabajo. No quiero pasarme meses en la superficie... Llevamos más de un año de viaje desde que salimos de Ches Farak...\n\n**Nadie respondió. Los demás se limitaron a mirarla durante unos largos segundos. Finalmente, Dimleila soltó un gruñido y pateó una piedra. La roca salió despedida y se hizo añicos al chocar contra el suelo.**\n\nNistra: Venimos a observar a un Zin-Carla y descubrir cuál es su objetivo para luego capturarlos a los dos. **La sonrisa desapareció del rostro de Nistra. Su mirada se volvió seria mientras recorría a sus compañeros uno por uno. Compañeros. Una palabra extraña para los drow.** No será un trabajo fácil. Estamos muy lejos de casa y necesitamos contactos en este lado de Arghast. Si un trabajo simple, como capturar a un tiefling que huye, nos favorece en ello, significa que pertenece al mismo trabajo que el de la Madre Matrona. **Nistra levantó la mirada hacia el fuerte.** Debemos averiguar todo lo que podamos de este lugar.",
+      "mensaje_sha256": "b36297cf7a051f54976cb68088cff65cb1de96f90320d12acb34b75fef238bf9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1553735210586349669",
+      "texto_sha256": "f97ce1ce43051e713ce8c513ff2358facd73f1fe74ff6f73da7f432503a5f3e9",
+      "adjuntos": []
+    },
+    {
+      "id": "1553735344120143884",
+      "fecha_utc": "2026-09-27T11:49:33.045000+00:00",
+      "fecha_local": "2026-09-27",
+      "editado_utc": null,
+      "texto": ".\n**Los demás escucharon en silencio. En Vhaer'Ryl podían decir lo que pensaban. Podían discutir, quejarse y cuestionar las decisiones de Nistra. Pero, al final, ella era quien mandaba. Y todos sabían que no le gustaba que le llevaran la contraria.**\n\n**El grupo comenzó a dirigirse hacia la jungla. Apenas habían avanzado unos pasos cuando un crujido rompió el silencio. Todos se detuvieron.**\n**Nistra no hizo ninguna señal. No fue necesario. Velkyn ya había tensado el arco. La flecha salió disparada hacia el lugar de donde había venido el ruido y pasó rozando una roca que servía de cobertura para aquello que se escondía detrás. No acertó. Pero no era eso lo que pretendía.**\n**Fuera lo que fuese, se había sobresaltado. Algo se movió detrás de la roca y, un instante después, unos pasos apresurados delataron que intentaba escapar.**\n**Pero apenas había comenzado a girarse cuando una drow vestida con una toga de monje apareció frente a él. Le cerraba el paso. La mujer simplemente negó con la cabeza.**\n\nNistra: **Avanzó tranquilamente por la arena. No tenía prisa. Se acercó hasta la roca y se asomó detrás de ella.** Vaya, vaya, vaya... ¿Qué tenemos aquí? **Sus ojos se encontraron con los del hombre que permanecía escondido al otro lado.** ¿Quién eres tú?\n\nJacky Jackson: Yo... Yo... Yo... **El marine estaba completamente aterrorizado. No sabía cuánto tiempo llevaba solo en los alrededores del Fuerte. Y ahora, después de tanto tiempo, se encontraba frente a un grupo de drow.**\n\nNistra: Bien, Yoyoyo. Creo que me vas a ser de utilidad. **La drow sonrió. Era una sonrisa amable, casi tranquilizadora. Y, precisamente por eso, resultaba todavía más aterradora.**\n\n🔴 Fin de la Escena 🔴",
+      "mensaje_sha256": "78544675865cf18ce1176df6dde208309eeeca52d4612f74ef02feb2571fad44",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1553735344120143884",
+      "texto_sha256": "3675231aec490896c597bdb1ca09b6cfea892ccc5106346325758f17a331b19f",
+      "adjuntos": []
+    },
+    {
+      "id": "1553735369688621208",
+      "fecha_utc": "2026-09-27T11:49:39.141000+00:00",
+      "fecha_local": "2026-09-27",
+      "editado_utc": null,
+      "texto": "<@&1439948653996409004>",
+      "mensaje_sha256": "94b87cb4e1a795aaafd7615b6cb78b393663977184404cd50ca9bb8a77163656",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1553735369688621208",
+      "texto_sha256": "da30f7935aa0d4816050ad4be8cdd81862f2db9e65bacabcf5ab7773a5e78e8a",
+      "adjuntos": [],
+      "no_narrativo": true,
+      "nota_editorial": "Mención aislada sin acciones ni diálogo."
+    }
+  ]
+}

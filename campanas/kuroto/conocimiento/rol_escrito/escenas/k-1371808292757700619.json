@@ -1,0 +1,347 @@
+{
+  "id": "k-1371808292757700619",
+  "campana": "kuroto",
+  "unidad_revision": "k-1371808292757700619",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "Banzo advierte a Kurobane del peligro de entrometerse",
+  "resumen": "Banzo visita al ninja para disculparse por su agresión e intenta disuadirlo de enfrentarse a Danifae. La conversación, acompañada de alcohol y frustración, termina sin acuerdo.",
+  "relato": "Banzo llega al refugio de Kurobane seguido a distancia por un cuervo cuya identidad no se aclara. Una vez dentro, se sienta con una botella de sake y se disculpa por haber intentado atacarlo durante la huida de Kalista. Después pregunta por qué contó a Danifae que la tritón había abierto el sello. Kurobane responde que busca una solución, aunque todavía sospecha que la drow participó en su ataque.\n\nEl goliat le muestra sus propias marcas y le pide que no se entrometa en los asuntos de Danifae. Considera que el peligro los supera y que exponerse podría empeorar la situación de Kalista. El ninja rechaza retirarse: asegura tener un plan y querer llegar al fondo del asunto, con ayuda o sin ella. Le entrega otra botella antes de encerrarse en la casa.\n\nBanzo, que ha bebido mucho, grita y lanza la botella contra la puerta. Kurobane reaparece en el balcón para reiterar que luchará por sus compañeros aunque muera. El goliat se marcha con una última advertencia sobre la araña que atrapa a quien la acecha. Sus pensamientos de huir de la isla quedan solo para sí.",
+  "participantes": [
+    "Banzo",
+    "Kurobane"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1371840666019172392",
+      "afirmacion": "Banzo se disculpa por la agresión y cuestiona que Kurobane haya informado a Danifae.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1371842986169860208",
+      "afirmacion": "Kurobane afirma que necesita a Danifae para resolver las marcas aunque sospecha de ella.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1371859238908985405",
+      "afirmacion": "Banzo muestra sus marcas y advierte al ninja de no interferir en los asuntos de Danifae.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1371866992142975008",
+      "afirmacion": "Banzo arroja una botella contra la puerta del refugio.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1371868349323018260",
+      "afirmacion": "Kurobane declara que continuará su misión y luchará por el grupo incluso sin ayuda.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "No se identifica al cuervo ni se atribuye a un personaje por el autor de Discord que lo describe.",
+    "La intervención de Danifae en el ataque a Kalista sigue siendo una sospecha de Kurobane.",
+    "El deseo de Banzo de marcharse de la isla se expresa como pensamiento privado, no como un plan comunicado."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-13T11:16:23.959000+00:00",
+  "fin_utc": "2025-05-13T15:26:35.488000+00:00",
+  "fecha_local": "2025-05-13",
+  "intervalo": {
+    "anterior": 113,
+    "siguiente": 114,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1370105319824298084",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1372279071790338181",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 113,
+        "fecha": "2025-05-08",
+        "inicio_referencia_utc": "2025-05-08T18:29:07+00:00",
+        "fin_estimado_utc": "2025-05-08T20:45:14+00:00",
+        "duracion_video_segundos": 8167,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1370105319824298084"
+      },
+      {
+        "capitulo": 114,
+        "fecha": "2025-05-14",
+        "inicio_referencia_utc": "2025-05-14T18:26:52+00:00",
+        "fin_estimado_utc": "2025-05-14T21:26:47+00:00",
+        "duracion_video_segundos": 10795,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1372279071790338181"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1371808292757700619",
+      "fecha_utc": "2025-05-13T11:16:23.959000+00:00",
+      "fecha_local": "2025-05-13",
+      "editado_utc": null,
+      "texto": "Banzo : **aparece por el portal del campamento y se dirige hacia la choza de Kurobane <@240564189448503306> **",
+      "mensaje_sha256": "dbffcbca963cc39011a183967f8a07eb57eb5252203d1b90565e93b6cf2c9a2a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1371808292757700619",
+      "texto_sha256": "a31ed4686992db4c16bcc377011d10485173f7a1f2ec8f2f283a6d15b404b1d4",
+      "adjuntos": []
+    },
+    {
+      "id": "1371808913544056972",
+      "fecha_utc": "2025-05-13T11:18:51.966000+00:00",
+      "fecha_local": "2025-05-13",
+      "editado_utc": null,
+      "texto": "**Un cuervo te sigue de lejos, pero te das cuenta de ello**",
+      "mensaje_sha256": "8f12038974c2dcf07490c344d51b600a8c253e434a1de12425f0ec459791ea54",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1371808913544056972",
+      "texto_sha256": "2955ad669801f755c8610bd8125756f092c3d2cfea94bbd32cd0b141c403444a",
+      "adjuntos": []
+    },
+    {
+      "id": "1371810983928004628",
+      "fecha_utc": "2025-05-13T11:27:05.584000+00:00",
+      "fecha_local": "2025-05-13",
+      "editado_utc": "2025-05-13T11:31:36.559000+00:00",
+      "texto": "Kurobane:\n\n**Se encuentra dentro investigando los papeles que le dió Danifae en el balcón**",
+      "mensaje_sha256": "b8c20ae5cb485d8252123fbbdfb16acf3565540a38d8460fc36f388bc05d1082",
+      "tipo_discord": 19,
+      "referencia": "1371808292757700619",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1371810983928004628",
+      "texto_sha256": "f855f4307eee6b795d76dd660eee3057b5250b0c9752c4d4b132e7d420f601e1",
+      "adjuntos": []
+    },
+    {
+      "id": "1371812001566822441",
+      "fecha_utc": "2025-05-13T11:31:08.208000+00:00",
+      "fecha_local": "2025-05-13",
+      "editado_utc": null,
+      "texto": "Banzo : **le hecho un ojo mientras anda , se siente curiosamente cómodo con el cuervo vigilando **",
+      "mensaje_sha256": "53ed99e95776e6b9b92625d72b3b2af77ced77312cbc9c92b47647e90104853a",
+      "tipo_discord": 19,
+      "referencia": "1371808913544056972",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1371812001566822441",
+      "texto_sha256": "0174157e9fdce31cae19f8be9ea03c13b1db439bded6a9c2e117ca2ee5861599",
+      "adjuntos": []
+    },
+    {
+      "id": "1371835904372637729",
+      "fecha_utc": "2025-05-13T13:06:07.081000+00:00",
+      "fecha_local": "2025-05-13",
+      "editado_utc": null,
+      "texto": "Banzo : ** cree que sabe donde está pero anda un poco perdido **\nKURO?? \nSoy Banzo estas por ahí? \n*maldita ilusion no se si estaba aquí la choza*",
+      "mensaje_sha256": "8f3ce2605e9920700d2e139fba9218742a1c32cd5a620b612b8dccdcee82859a",
+      "tipo_discord": 19,
+      "referencia": "1371810983928004628",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1371835904372637729",
+      "texto_sha256": "ba092acf7276348ab2f34ccd25dcbf49b364d21ec57fb205991cd308c957bc2a",
+      "adjuntos": []
+    },
+    {
+      "id": "1371836530754191360",
+      "fecha_utc": "2025-05-13T13:08:36.422000+00:00",
+      "fecha_local": "2025-05-13",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\n**Guarda los papeles antes de salir por la puerta de la base**\n\nSigue mi voz, Banzo \n\n**Dice serio mientras mira al goliath detrás de la ilusión**",
+      "mensaje_sha256": "f5f00bc333ec0039b6447174065b0242cfb84b101b7fea612302304c6c289d04",
+      "tipo_discord": 19,
+      "referencia": "1371835904372637729",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1371836530754191360",
+      "texto_sha256": "2b6bf5ec52834610d89da8091eae6f030e23624ebe4767918c7950c5afd9c860",
+      "adjuntos": []
+    },
+    {
+      "id": "1371837108842397696",
+      "fecha_utc": "2025-05-13T13:10:54.249000+00:00",
+      "fecha_local": "2025-05-13",
+      "editado_utc": null,
+      "texto": "Banzo : **sigue la voz y traspasa la ilusión hasta ver a kurobane saliendo por la puerta ** \n\nTienes un rato para charlar ?",
+      "mensaje_sha256": "9d43240fed132970007db62c05573a53050a1dde696df31e2627e0cc1eb2826f",
+      "tipo_discord": 19,
+      "referencia": "1371836530754191360",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1371837108842397696",
+      "texto_sha256": "cf61d726d7d973d246ccb1d7d7ba97a511c4f2c89eb26e5bc0f9b2d0421bf3b4",
+      "adjuntos": []
+    },
+    {
+      "id": "1371837780724027517",
+      "fecha_utc": "2025-05-13T13:13:34.438000+00:00",
+      "fecha_local": "2025-05-13",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nClaro, Banzo. Que necesita usted?\n\n**Pregunta serio pero sonriente mientras ves que sus manos están en la espalda**",
+      "mensaje_sha256": "adae3562df71ad457173b19173c3959a7c00839d1987ca260abda2ad149a4a37",
+      "tipo_discord": 19,
+      "referencia": "1371837108842397696",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1371837780724027517",
+      "texto_sha256": "ad5ff73253c03e25dce8a2ad2879b21e993063142146762161941fb412fb7562",
+      "adjuntos": []
+    },
+    {
+      "id": "1371838355054002228",
+      "fecha_utc": "2025-05-13T13:15:51.369000+00:00",
+      "fecha_local": "2025-05-13",
+      "editado_utc": null,
+      "texto": "Banzo : permiso ... **se sienta y saca una botella de saque . \n\nLe da un trago largo **\nCreo que no hemos estado solos desde que intenté estampar la cabeza en el suelo cuando kalista escapó\n** te ofrece la botella **",
+      "mensaje_sha256": "6f64d73db99373a9163f4ea52578fad6bad89f0b546cfb61b88cb74dec917021",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1371838355054002228",
+      "texto_sha256": "7fcad1ecc8e05aad7585e40d00adc7729fd12c4abd3dca228492ba251b5d4ddf",
+      "adjuntos": []
+    },
+    {
+      "id": "1371839627303850075",
+      "fecha_utc": "2025-05-13T13:20:54.697000+00:00",
+      "fecha_local": "2025-05-13",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nAsí es. \n\n**Niega con la cabeza a la botella mientras sigue de pie**",
+      "mensaje_sha256": "e6bbdabe2ac14d235293f4f9723d4512b469db146c3b6d6deabb1952337cfeb0",
+      "tipo_discord": 19,
+      "referencia": "1371838355054002228",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1371839627303850075",
+      "texto_sha256": "661812215b08a773b45f8ca5299237502c83f0c2dc42394ccd683d352fb6762e",
+      "adjuntos": []
+    },
+    {
+      "id": "1371840666019172392",
+      "fecha_utc": "2025-05-13T13:25:02.346000+00:00",
+      "fecha_local": "2025-05-13",
+      "editado_utc": null,
+      "texto": "Banzo : **ves como le pega otro trago largo , nunca lo has visto beber tanto ** \nLo siento por aquello \n\nSe que tu también aprecias a kalista y se que eres mucho más inteligente que yo ... \n\nEntonces porque decirle a Danifae que kalista ha abierto el sello . \nOpción 1 , la quieres proteger bajo cualquier concepto \nOpción 2 , eres un débil sin sentido del peligro \n\nOoo \nOpción 3 . Tienes algo en mente y piensas actuar contra quien sea con tal de salvarla . \n\nSea lo que sea , quiero saber tu opinión.  \n**bebe una vez más **",
+      "mensaje_sha256": "ec29c60bc560bfe8d0500a0f75a8ec2fcb3a14c6782741ba0c165276b976ae1c",
+      "tipo_discord": 19,
+      "referencia": "1371839627303850075",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1371840666019172392",
+      "texto_sha256": "f34dca078bbe23b4c680f2811abb341f333adcb6636715d7b22c5c182b8c1730",
+      "adjuntos": []
+    },
+    {
+      "id": "1371842986169860208",
+      "fecha_utc": "2025-05-13T13:34:15.513000+00:00",
+      "fecha_local": "2025-05-13",
+      "editado_utc": "2025-05-13T13:56:03.168000+00:00",
+      "texto": "Kurobane:\n\nLa tercera opción es la más cercana. Siempre tengo algo en mente. Sigo pensando que Danifae atacó a Kalista. Pero, necesito su ayuda para buscar la solución de esas marcas, Banzo.\n\n**Comenta serio mientras camina de lado a lado hasta terminar delante de él**",
+      "mensaje_sha256": "6853d7df976cb5e617ab5b4aeccdb0a3394687b9d7a82d2791befc6d04b4c035",
+      "tipo_discord": 19,
+      "referencia": "1371840666019172392",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1371842986169860208",
+      "texto_sha256": "74722781a6f528b2ab3c01362af790e4837f60b2ff70bb2311c0c93ca929c0bc",
+      "adjuntos": []
+    },
+    {
+      "id": "1371859238908985405",
+      "fecha_utc": "2025-05-13T14:38:50.468000+00:00",
+      "fecha_local": "2025-05-13",
+      "editado_utc": "2025-05-13T14:55:07.490000+00:00",
+      "texto": "Banzo : Hazte un favor amigo ..  no te entrometas . \n\nNo te lo digo a malas . \nPero no quiero te salpique este asunto .\nMantente alejado de Danifae mientras observas su movimientos pero por lo más sagrado kuro , no te interpongas en su camino . Eso no nos pertoca a ti ni ami . \n**se desabrocha uno de los guantes y le muestra un poco las marcas ** \n\nEsto nos supera amigo . Si de verdad le tienes estima a kalista serán inteligente . \n\n**se levanta le da otro trago a la botella hasta acavarla , se estira de brazos  ** \n\nNo tendrás algo líquido por aquí no ?",
+      "mensaje_sha256": "a6ff80ca6de876fdc5881f7717568acaf5f8085b771a7e22e8e030a0a9993460",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1371859238908985405",
+      "texto_sha256": "defaf28937962716c8b497422121f521b3e0123f72db372656a5567d48d757ef",
+      "adjuntos": []
+    },
+    {
+      "id": "1371863503874293841",
+      "fecha_utc": "2025-05-13T14:55:47.315000+00:00",
+      "fecha_local": "2025-05-13",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nBanzo, le voy a ser sincero, yo tengo un plan. Y a veces, hay que unirse con la oscuridad para encontrar la luz.\n\n**Dice serio con un tono como si fuera un maestro**\n\nMe dice que no me salpique el asunto, cuando usted bien sabe que esa carta se le entregó aquí.\n\n**Dice serio mientras alza la mano para realizar una panorámica del lugar**\n\nInterferir en su camino? Me enseñaron que los problemas no se solucionan huyendo o tomando alcohol. Se soluciona llegando a lo profundo del asunto.\n\n**Dice serio con un tono de seriedad que nunca habías escuchado mientras sube las escaleras, y después de un tiempo, baja con una pequeña botella, la cual le entrega**\n\nBanzo, tengo pensado luchar con todo. Les guste a ustedes o no.\n\n**Dice serio antes de subir las escaleras y cerrar, quedando el ninja dentro**",
+      "mensaje_sha256": "767756deb79ba9a14b846b074207fb766a8c4fbe02a1b27fc8e756816657a0b5",
+      "tipo_discord": 19,
+      "referencia": "1371859238908985405",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1371863503874293841",
+      "texto_sha256": "9182b934e8dedbbb2fa0b65616a55fd92acc93b671669b144e5557bc12e68363",
+      "adjuntos": []
+    },
+    {
+      "id": "1371866992142975008",
+      "fecha_utc": "2025-05-13T15:09:38.983000+00:00",
+      "fecha_local": "2025-05-13",
+      "editado_utc": null,
+      "texto": "Banzo : **coge la botella y le pega un trago . Empieza a a reír a carcajadas**\n\nLuchar con todo dices ... \n**mientras lo ve subir por las escaleras ** \nMorir como un perro guardián es lo que vas hacer ! \n** lo ve entrar y cerrar la puerta ** \nEee tuu  te eztoy hablando!\n**le pega un trago más a la botella y la tira contra la puerta ** \n\nME OYEEEES NINJA !!! MUERTOOOOO !!!! \n\n**se vuelve a sentar y le sale una pequeña risa ** \n*que pretendes banzo estúpido, deja de preocuparte por la gente*",
+      "mensaje_sha256": "3d392345343ccc563f646770b3a36b7f7829681822ad2901a6a85311611079ff",
+      "tipo_discord": 19,
+      "referencia": "1371863503874293841",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1371866992142975008",
+      "texto_sha256": "f538940f1aa05fc728e9022c11004e0452588df0bc9b29dce7061fb015f6259f",
+      "adjuntos": []
+    },
+    {
+      "id": "1371868349323018260",
+      "fecha_utc": "2025-05-13T15:15:02.560000+00:00",
+      "fecha_local": "2025-05-13",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\n**Banzo vería que el ninja sale por el balcón**\n\nMoriré luchando por vosotros, Banzo. Debo seguir con mis cosas. Terminaré con la misión con vuestra ayuda o sin ella. \n\n**Dice serio mientras ves que esos ojos rojos pasan lentamente a unos ojos negros que si lo miras son como si mirases al abismo**",
+      "mensaje_sha256": "8c8955c23755ee4caa28c58d025d5648ef26f81c85b1d4e7aa4df48b3901da82",
+      "tipo_discord": 19,
+      "referencia": "1371866992142975008",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1371868349323018260",
+      "texto_sha256": "0f3565880b6f6e949110c728fcd412be75a4f2e23a4fe39b4964cb47e78d1a85",
+      "adjuntos": []
+    },
+    {
+      "id": "1371870173296066690",
+      "fecha_utc": "2025-05-13T15:22:17.429000+00:00",
+      "fecha_local": "2025-05-13",
+      "editado_utc": null,
+      "texto": "Banzo : Haz lo que quieras con tus planes .  \n\n*El mejor plan es coger un barco desaparecer de esta condenada isla* \n**va pensando mientras refunfuña y se acerca hasta el límite de la ilusión ** \n\nLa araña vigila kuro , si la acechas acabarás enredado y creeme te va comer.  \n**dice antes de irse del todo**\n*se astuto amigo , no te acerques ...*",
+      "mensaje_sha256": "69a22660b0b900bc2b099485a5ba43c41fecfaf1d18ae809d0e9f91821dde8c5",
+      "tipo_discord": 19,
+      "referencia": "1371868349323018260",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1371870173296066690",
+      "texto_sha256": "a07c219e757cd16ab2a65534355e118071ed701f8b1b6fb1314c51c22f5f392b",
+      "adjuntos": []
+    },
+    {
+      "id": "1371870405454725160",
+      "fecha_utc": "2025-05-13T15:23:12.780000+00:00",
+      "fecha_local": "2025-05-13",
+      "editado_utc": null,
+      "texto": "🌘  Kurobane sale de escena 🌘",
+      "mensaje_sha256": "2dddd4bcf64e8f4d39a369c8880f0a1a808b6b8d23f5c99dd8b4c263e5f10dc3",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1371870405454725160",
+      "texto_sha256": "c95c2d2144e50caef4db8a65812f7e48d8f1d17ec38631b3a00505e2759d70d5",
+      "adjuntos": []
+    },
+    {
+      "id": "1371870908003913778",
+      "fecha_utc": "2025-05-13T15:25:12.597000+00:00",
+      "fecha_local": "2025-05-13",
+      "editado_utc": null,
+      "texto": "🌭 Banzo sale de escena 🌭",
+      "mensaje_sha256": "b5891b6ae6d7ef131501cd823a1419909c3ae886800622cb14995eca3a1141ec",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1371870908003913778",
+      "texto_sha256": "6e99cb8b06aabc0c4de4d1226b06bd2afa4e3ec69f73ec1fdd2b7379fe69a357",
+      "adjuntos": []
+    },
+    {
+      "id": "1371871255673962528",
+      "fecha_utc": "2025-05-13T15:26:35.488000+00:00",
+      "fecha_local": "2025-05-13",
+      "editado_utc": null,
+      "texto": "🔴 Fin de escena 🔴",
+      "mensaje_sha256": "d006c6ba6e955a1375f87a5213b6643331f7ea946f10e262e256e06ab0840504",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1371871255673962528",
+      "texto_sha256": "59be10f99de1a12e909467a3fb1cc63ddd66555484b2a0ef8da0afc00fb16608",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "id": "x-1554089252814454795",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1552821125669453849",
+  "hilo_id": "1502317868253970632",
+  "hilo_nombre": "Perlasal - La ciudad de las Sirenas",
+  "titulo": "La espera de Pota y la caracola que Coyote intenta reparar",
+  "resumen": "Mientras Tenta busca ayuda, Coyote propone reparar la caracola que había controlado a Maris y Oghma se hace pasar por La vieja Boga para escuchar noticias.",
+  "relato": "Tenta anuncia que irá a buscar a Pota, un colaborador de Chopito que podría ayudar con el conocimiento de la zona. Mientras esperan, Coyote admite su preocupación y Zelda trata de animarlo con la promesa de salvar Perlasal. Oghma también expresa confianza ante sus compañeros, aunque sus pensamientos muestran que necesita convencerse de ella.\n\nAl preguntarle cómo conoció a Maris, Coyote explica que la rescató y muestra fragmentos de la caracola con la que, según cuenta, la estaban controlando. Se pregunta si podrían utilizarla contra el kraken y decide intentar repararla. Oghma apoya la idea, pero ninguno demuestra todavía que el objeto pueda dominar a esa criatura. Tenta y Chopito regresan días después y hablan de haber dejado un encargo a Pota; no traen al colaborador consigo.\n\nCoyote continúa trabajando con una lupa y se queja de lo difícil que resulta arreglar la caracola. Oghma alterna visitas al palacio, donde deja caer que espera una recompensa, con estancias en la taberna. Allí escucha noticias del kraken mientras se hace pasar por una anciana tritona extranjera, La vieja Boga, sirviente de un conde de océanos lejanos. El cierre de la escena no muestra que la caracola haya quedado reparada ni que el grupo haya derrotado al kraken.",
+  "participantes": [
+    "Tenta",
+    "Chopito",
+    "Oghma",
+    "Coyote",
+    "Zelda"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1554089252814454795",
+      "afirmacion": "Tenta anuncia que buscará a Pota.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1554567036015878205",
+      "afirmacion": "Coyote muestra los fragmentos de la caracola y propone intentar usarla contra el kraken.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1555240893668401287",
+      "afirmacion": "Tenta y Chopito regresan y hablan de haber dejado un encargo a Pota.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1555249209073082368",
+      "afirmacion": "Coyote sigue reparando la caracola sin mostrar el trabajo terminado.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1555256562002559017",
+      "afirmacion": "Oghma se hace pasar por La vieja Boga en la taberna y espera una recompensa de la reina.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Archi y Archie son las grafías usadas para el mismo interlocutor en esta conversación de Xoltacan; no se mezcla su identidad con personajes de Kuroto.",
+    "Las bromas de Coyote sobre que el kraken sea hijo de Zelda no se convierten en una relación familiar acreditada.",
+    "Los pensamientos privados de Oghma y Coyote no se atribuyen como conocimientos de sus compañeros.",
+    "El examen de Patata, la eficacia de los trajes, la activación del maletín y el control del kraken quedan sin comprobar en esta escena.",
+    "Se han inspeccionado los seis adjuntos ilustrados. No se deducen capacidades ni sucesos adicionales de sus imágenes."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-09-28T11:15:51.453000+00:00",
+  "fin_utc": "2026-10-03T11:53:28.206000+00:00",
+  "fecha_local": "2026-09-28",
+  "intervalo": {
+    "anterior": 66,
+    "siguiente": 69,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 66,
+        "fecha": "2026-09-22",
+        "inicio_referencia_utc": "2026-09-22T18:20:03+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241"
+      },
+      {
+        "capitulo": 69,
+        "fecha": "2026-10-08",
+        "inicio_referencia_utc": "2026-10-08T18:17:02+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1554089252814454795",
+      "fecha_utc": "2026-09-28T11:15:51.453000+00:00",
+      "fecha_local": "2026-09-28",
+      "editado_utc": "2026-09-28T11:16:00.924000+00:00",
+      "texto": "Tenta: creo que si, conozco a alguien que trabaja para nuestro señor chopito. Hace tiempo que no lo vemos. Pero me ausentare para buscarlo. \n\nChopito: Ahh, hablas de Pota? Me gusta que seas atenta, Tenta, de no haberlo dicho te hubiera dado una reprimenda.\n\nTenta: lo se mi señor. Hago su voluntad, mis ideas son las tuyas \n\nChopito: Asi me gusta **junta los tentaculos complacido**",
+      "mensaje_sha256": "b0d93341729bb1d8b00d5f0f945cc561c854d052c1a40913d070e4aa0a602ef5",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1554089252814454795",
+      "texto_sha256": "77b9fdca76efa7aa4bed0faa354c7c09ca475209f4ebdb54b13e09d2d810b2d3",
+      "adjuntos": []
+    },
+    {
+      "id": "1554134499959509083",
+      "fecha_utc": "2026-09-28T14:15:39.213000+00:00",
+      "fecha_local": "2026-09-28",
+      "editado_utc": "2026-09-28T14:18:39.518000+00:00",
+      "texto": "Oghma:\n**Tras un largo rato en silencio suelta una risilla para si misma**\n\nMientras esperamos hay algo mas que querais hacer? En la taberna no hay nada que hacer, me han dicho que todas las bebidas estan aguadas.\n\n**Comienza a reirse ella sola como si fuera una ocurrencia genial**",
+      "mensaje_sha256": "c548c151926fbb524ba704d97eb1de5dc0f00efcb24dc4d8baa7bb221e0fe7ab",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1554134499959509083",
+      "texto_sha256": "351a7d3fdbf116aabc67a0ab8efea9ce69eddfe86d3d62e82a1f6cb699f37c6a",
+      "adjuntos": []
+    },
+    {
+      "id": "1554135491606224998",
+      "fecha_utc": "2026-09-28T14:19:35.640000+00:00",
+      "fecha_local": "2026-09-28",
+      "editado_utc": null,
+      "texto": "Coyote:\nNo estoy seguro de que hacer, la verdad, tengo la cabeza llena de muchas cosas que no puedo concentrarme en una sola...\n\n**Me paso la mano por el casco**\n\n*Necesito que todo salga bien, todo tiene que salir bien, no puedo dejar que le pase algo a Maris...*",
+      "mensaje_sha256": "1f8de99d27939414ae892de3b9ec8cbb0b93bc5081cb905d20e50419119a34d7",
+      "tipo_discord": 19,
+      "referencia": "1554134499959509083",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1554135491606224998",
+      "texto_sha256": "11b010d6398abebba55af9361793ff59a153f334323d0464aaf813c98a97c426",
+      "adjuntos": []
+    },
+    {
+      "id": "1554157659391791228",
+      "fecha_utc": "2026-09-28T15:47:40.852000+00:00",
+      "fecha_local": "2026-09-28",
+      "editado_utc": null,
+      "texto": "Zelda:\n\n**Se para junto a Coyote y le pone una mano en el hombro**\n\n– No te preocupes, seguro que todo está bien con tus peces y que están a salvo. Mataremos a ese estúpido calamar y salvaremos Perlasal.",
+      "mensaje_sha256": "53b9bd1152c0140ea2fa5cbb06ab8a15ba1411a28db742187f827f5cdb8faf33",
+      "tipo_discord": 19,
+      "referencia": "1554135491606224998",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1554157659391791228",
+      "texto_sha256": "e04c4e28e273fba17dad3c08226f79ef32976719feaf2922fbf4d7189a50688c",
+      "adjuntos": []
+    },
+    {
+      "id": "1554161968800071752",
+      "fecha_utc": "2026-09-28T16:04:48.295000+00:00",
+      "fecha_local": "2026-09-28",
+      "editado_utc": null,
+      "texto": "Coyote:\nEso espero, en verdad si estoy preocupado...\n\n**Suspiro tratando de quitarme el mal sabor de boca**\n\nPero bueno, hay que continuar",
+      "mensaje_sha256": "85ff383cedbda2979e606eaa6de8a23099916cc290cfcec147b68a0be5be9423",
+      "tipo_discord": 19,
+      "referencia": "1554157659391791228",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1554161968800071752",
+      "texto_sha256": "c4d32b7558f257b38c0d9009f5980bb1d1ad2335a16eab46a90bedd55d3fa435",
+      "adjuntos": []
+    },
+    {
+      "id": "1554163928685351083",
+      "fecha_utc": "2026-09-28T16:12:35.568000+00:00",
+      "fecha_local": "2026-09-28",
+      "editado_utc": null,
+      "texto": "Zelda:\n\n– Ustedes digan, yo no sé por dónde es. Primero aseguremos que vamos bien preparados antes de enfrentarnos a esa cosa.",
+      "mensaje_sha256": "29cc454cbbfa378ded3903f85424b7096cc56895308c94208cc96514a24d9e32",
+      "tipo_discord": 19,
+      "referencia": "1554161968800071752",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1554163928685351083",
+      "texto_sha256": "b541ff77689972bad1eac56f1a54f8922bc4425822ca1490e2c2550d795b522d",
+      "adjuntos": []
+    },
+    {
+      "id": "1554168210155114567",
+      "fecha_utc": "2026-09-28T16:29:36.350000+00:00",
+      "fecha_local": "2026-09-28",
+      "editado_utc": null,
+      "texto": "Oghma:\nNo os preocupeis, ya vereis como todo va a estar bien\n\n*Claro que va a estar bien. Todo va a estar bien. Solo tienes que confiar en ~~ti misma~~ MI*\n\n**Sacude la cabeza como si le hubiera dado un escalofrio**\n\nTenta ha ido a por alguien que supongo que conocera la zona, sera mejor esperarla antes de irnos.",
+      "mensaje_sha256": "46cbdbedd6f1adf918548e6360cf0002938eb5d930e771dc746758495d88506e",
+      "tipo_discord": 19,
+      "referencia": "1554163928685351083",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1554168210155114567",
+      "texto_sha256": "3d9f60ba98d5dddea49b4ef10e6a0fe3f92eeefb7eaf0984fe6d1a48e54918b5",
+      "adjuntos": []
+    },
+    {
+      "id": "1554169003759374367",
+      "fecha_utc": "2026-09-28T16:32:45.560000+00:00",
+      "fecha_local": "2026-09-28",
+      "editado_utc": null,
+      "texto": "Zelda:\n\n**Asiente con la cabeza y nada en círculos amplios para hacer tiempo**",
+      "mensaje_sha256": "fdcdcc8d2f966d2dbed5da912292d1035d24fbfe8ee66fc11ed2794b84c140fe",
+      "tipo_discord": 19,
+      "referencia": "1554168210155114567",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1554169003759374367",
+      "texto_sha256": "e9a82b98bcfea239301487664c8e0d279d71d6e45e2246b42643aaf3b58e1456",
+      "adjuntos": []
+    },
+    {
+      "id": "1554191246858264647",
+      "fecha_utc": "2026-09-28T18:01:08.728000+00:00",
+      "fecha_local": "2026-09-28",
+      "editado_utc": null,
+      "texto": "Oghma:\nOye Coyote, no te lo he preguntado antes, ¿como conociste a tu pececillo?",
+      "mensaje_sha256": "04ca0046e0f7b8df599352a9714901b42cd5d8280d5c56999623304ba8024721",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1554191246858264647",
+      "texto_sha256": "4d1ad085a9d1ef4b51a484966b8fca666d4b64ab05b3eb9d85bcfc7a9e9500f9",
+      "adjuntos": []
+    },
+    {
+      "id": "1554567036015878205",
+      "fecha_utc": "2026-09-29T18:54:23.845000+00:00",
+      "fecha_local": "2026-09-29",
+      "editado_utc": null,
+      "texto": "Coyote:\nLa rescaté, estaba siendo controlada con esto\n\n**Saqué de mi bolsillo aquellos trozos de caracola que había recuperado**\n\nY si... Podemos controlarlo con esto?, voy a intentar repararlo, espero tengamos suerte",
+      "mensaje_sha256": "191bd5bc321c535ea77b4b5848074d8777fbfb97f4a10085417fa2a3d448d148",
+      "tipo_discord": 19,
+      "referencia": "1554191246858264647",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1554567036015878205",
+      "texto_sha256": "5aaf3a0d1b5527e20d01a28c2247b0711d7ef0e66e9048b29e53debaec22fc82",
+      "adjuntos": []
+    },
+    {
+      "id": "1554568729331769535",
+      "fecha_utc": "2026-09-29T19:01:07.563000+00:00",
+      "fecha_local": "2026-09-29",
+      "editado_utc": "2026-09-29T19:02:40.978000+00:00",
+      "texto": "Oghma:\n**Se acerca y mira los trozos de caracola en la mano de Coyote**\n\nEsa es una idea magnifica, a lo mejor se deja sacar el ojo que le prometimos a Archie",
+      "mensaje_sha256": "9e98341bc3d4680a8550f3060b35e9eeae416d7b07a172bfab1965c3a298f7c3",
+      "tipo_discord": 19,
+      "referencia": "1554567036015878205",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1554568729331769535",
+      "texto_sha256": "6b83e5bf602c6fe34777ce63ea7bf62b8801f6312a92101b9969f88ab13a121e",
+      "adjuntos": []
+    },
+    {
+      "id": "1554569406191894559",
+      "fecha_utc": "2026-09-29T19:03:48.939000+00:00",
+      "fecha_local": "2026-09-29",
+      "editado_utc": null,
+      "texto": "Coyote:\nDe acuerdo, entonces hay que buscar la manera de mantenerlo acorralado y poder tocar la caracola, voy a encargarme de arreglar esto y rezar de que funcione",
+      "mensaje_sha256": "b43f5b09f5c07f648363ef5faa8efd1a5dcbde9ef794bf184dc89299f04449d3",
+      "tipo_discord": 19,
+      "referencia": "1554568729331769535",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1554569406191894559",
+      "texto_sha256": "9cb846a2c19e46e8b3d869e126ecebed2be60f13f2aaf079fe8b888a785a1f29",
+      "adjuntos": []
+    },
+    {
+      "id": "1555240893668401287",
+      "fecha_utc": "2026-10-01T15:32:04.029000+00:00",
+      "fecha_local": "2026-10-01",
+      "editado_utc": null,
+      "texto": "Chopito y tenta:\n\n**Vuelven a perlasal tras estar un par de dias fuera**\n\nChopito:Vale Tenta, Pota ya estara manos a la obra. Pero no podemos volver asi sin nada, dirian \"nosotros creiamos en ti gran y poderoso chopito ahora ya no\" y romperan fotos mias que se que adoran a la noche. No eso no puede pasar Tenta\n\nTenta: no se preocupe mi señor. Dire que usted me mandó a buscar a Pota y le deje el encargo, mientras su malevolencia usaba el obsequio que le dio aquel tipo tan diminuto\n\nChopito: Que sirviente tan leal",
+      "mensaje_sha256": "21e522e1cf59a21a1fbae4049940bad9c6f0b5f1aa10b5b37371f10628284486",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1555240893668401287",
+      "texto_sha256": "47a20b1b04f30737dbf5781d6b8b0453c3c0d4a47559288451a1d39cac9f3f50",
+      "adjuntos": []
+    },
+    {
+      "id": "1555249209073082368",
+      "fecha_utc": "2026-10-01T16:05:06.576000+00:00",
+      "fecha_local": "2026-10-01",
+      "editado_utc": null,
+      "texto": "Coyote:\n**Me había quedado toda la noche en vela arreglando la caracola**\n\nUn poquito más... Solo un poquito más y ya quedaría\n\n**Estaba bastante concentrado con una especie de lupa**\n\nPor qué tenían que romperla?, me lleva la chingada...",
+      "mensaje_sha256": "ae9df2eec4f0c55fcda2848a8688db5d4211afc008522e5a207b84bc4ac7d52f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1555249209073082368",
+      "texto_sha256": "aab4f34947102bca524fac9f94a2e9d2a440ebc5facadb4c7cbcf8b6e30ddfc8",
+      "adjuntos": []
+    },
+    {
+      "id": "1555256562002559017",
+      "fecha_utc": "2026-10-01T16:34:19.651000+00:00",
+      "fecha_local": "2026-10-01",
+      "editado_utc": null,
+      "texto": "Oghma:\n**Durante estos dias se ha dejado ver por el palacio alguna vez esperando que las indirectas que soltaba al ~~aire~~ agua fueran suficiente para recordarle a la reina que aun no habia soltado ni una triste recompensa**\n\n\"Pues parece que cuando acabemos con el kraken tendremos sitio de sobra en las mochilas para un tesoro, recompensa o agüinaldo...\"\n\n**Pero la mayoria del tiempo lo ha pasado en la taberna bebiendo, escuchando noticias del kraken y haciendose pasar por una vieja tritona extranjera sirviente de un conde de los oceanos lejanos, La vieja Boga**",
+      "mensaje_sha256": "ac657ce06819945746f8f6c21c737d00121c3fecd825b9ffa6376c31c54f1692",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1555256562002559017",
+      "texto_sha256": "b5165b1a090bd5c37bafad863fb8c708332020a101e6992eddb64b358a0f3e0c",
+      "adjuntos": [
+        {
+          "id": "1555256559947485244",
+          "nombre": "7bd4674e-531d-4d60-b740-264bfb7b1be7.png",
+          "tipo": "image/png",
+          "archivo": "adjuntos/1555256559947485244.png",
+          "url": "rol_escrito/adjuntos/1555256559947485244.png",
+          "bytes": 3487177,
+          "sha256": "b3ca191351732c8e84abe225de85dd030446bcf491eea6a73ce7878597788fda"
+        }
+      ]
+    },
+    {
+      "id": "1555910657650724916",
+      "fecha_utc": "2026-10-03T11:53:28.206000+00:00",
+      "fecha_local": "2026-10-03",
+      "editado_utc": null,
+      "texto": "🔴 Fin de la Escena 🔴",
+      "mensaje_sha256": "e9cc60332d49a4e618bde370e83c680e28b9a68ec48955092de5dfc9cad1c89a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1555910657650724916",
+      "texto_sha256": "d6243d093543ca91ea2f79f33ebf7492cbcbdd299d5f534314670df263e276e0",
+      "adjuntos": []
+    }
+  ]
+}

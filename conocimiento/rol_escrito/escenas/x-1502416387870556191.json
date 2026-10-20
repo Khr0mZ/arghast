@@ -1,0 +1,290 @@
+{
+  "id": "x-1502416387870556191",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1502416387870556191",
+  "hilo_id": "1482149664131383316",
+  "hilo_nombre": "Cuicapalli - La villa tranquila",
+  "titulo": "Guayacán pide una mentora y se quita la máscara",
+  "resumen": "Leona acepta enseñarle su fuerza instintiva y él le revela en privado su rostro humano.",
+  "relato": "Guayacán, abatido por un fracaso anterior no desarrollado aquí, pregunta a Leona de dónde obtiene su fuerza. Ella habla de entrenar, saltar y cazar rivales cada vez mayores, guiándose por la furia y los instintos. Él le pide que sea su mentora y promete honrar su enseñanza.\n\nLeona empieza preguntando a quién odia. Guayacán mira su propio cuerpo y solicita hablar a solas. Ella lo lleva de la mano a la jungla y lo tranquiliza. El luchador aclara que su temblor no es miedo, sino pesar.\n\nCuando ya están apartados del pueblo, se quita la máscara: aparece un hombre pálido, de ojos verdes, barba negra y cabellera larga, con el rostro hundido. Dice que no hay nada que odie más que vivir con ese martirio. La conversación continúa en la unidad siguiente; todavía no pronuncia su nombre íntimo ni explica por completo la infancia que motivó su identidad de luchador.",
+  "participantes": [
+    "Guayacán",
+    "Leona"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1502422382474825760",
+      "afirmacion": "Leona ofrece enseñarle a canalizar los instintos y la furia.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1502423112824913990",
+      "afirmacion": "Guayacán le pide que sea su mentora.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1502423777093357568",
+      "afirmacion": "Pide hablar en privado antes de explicar su odio.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1502428817195532329",
+      "afirmacion": "Se retira la máscara, revela su aspecto humano y expresa sufrimiento con su cuerpo.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Continuación directa en x-1502430369985855568; mantener la división temporal del coordinador.",
+    "Futura líder es el tratamiento de los dos, sin nombramiento consumado.",
+    "No convertir las explicaciones ficticias de entrenamiento extremo en recomendaciones reales."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-05-08T21:06:20.415000+00:00",
+  "fin_utc": "2026-05-08T21:55:43.797000+00:00",
+  "fecha_local": "2026-05-08",
+  "intervalo": {
+    "anterior": 30,
+    "siguiente": 31,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1502370548246642719",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1504543985379840030",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 30,
+        "fecha": "2026-05-08",
+        "inicio_referencia_utc": "2026-05-08T18:03:57+00:00",
+        "fin_estimado_utc": "2026-05-08T20:19:56+00:00",
+        "duracion_video_segundos": 8159,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1502370548246642719"
+      },
+      {
+        "capitulo": 31,
+        "fecha": "2026-05-14",
+        "inicio_referencia_utc": "2026-05-14T18:00:24+00:00",
+        "fin_estimado_utc": "2026-05-14T21:15:40+00:00",
+        "duracion_video_segundos": 11716,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1504543985379840030"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1502416387870556191",
+      "fecha_utc": "2026-05-08T21:06:20.415000+00:00",
+      "fecha_local": "2026-05-08",
+      "editado_utc": null,
+      "texto": "Guayacán:\n**Tras esa decepción, pero a su vez una merecida cachetada de humildad en su intento fallido de grandeza, continuaría dando esos bocados, pensativo de todo lo acontecido**\n-.....\n**Traga un pedazo de su fruta, girando la mirada a Leona**\n-Mmmmh...Futura Lider...¿Puedo hacer una pregunta a usted...?\n|| <@171702246952665098> ||",
+      "mensaje_sha256": "5b55fcb933f8d37788b5fc2763b10fcdc107dd91f35483c1cf5e5cd6ab9fbf79",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1502416387870556191",
+      "texto_sha256": "b2ca0df3fa84f7b6090d02c35ff9b8ea0ba1610e12279744a3864bf38d707d02",
+      "adjuntos": []
+    },
+    {
+      "id": "1502419445769961634",
+      "fecha_utc": "2026-05-08T21:18:29.475000+00:00",
+      "fecha_local": "2026-05-08",
+      "editado_utc": null,
+      "texto": "Leona:\n**se le llena el pecho de aire al escuchar esas palabras**\nDime",
+      "mensaje_sha256": "d7a8e8d0e4098be251300a00d1217b4c4ed5262ccf22fdf6777ebb08cffff129",
+      "tipo_discord": 19,
+      "referencia": "1502416387870556191",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1502419445769961634",
+      "texto_sha256": "4c4aff8cde8d76fce47f812124fb358d5eee99cca1f9fab5f61871e70cd3f87c",
+      "adjuntos": []
+    },
+    {
+      "id": "1502419999917342861",
+      "fecha_utc": "2026-05-08T21:20:41.594000+00:00",
+      "fecha_local": "2026-05-08",
+      "editado_utc": null,
+      "texto": "Guayacán:\n**Observa fijamente a Leona, que aunque no se pueda percibir por su traje su tono de voz y mirada transmite respeto**\n-...como..ha podido aunar..esta fuerza descomunal?",
+      "mensaje_sha256": "6d99d002d4b0e19d48785a336d2632fb2f0f0551e347b90febc9e29cd47a5cdd",
+      "tipo_discord": 19,
+      "referencia": "1502419445769961634",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1502419999917342861",
+      "texto_sha256": "2a8b911a2e4f713ab90e03391efa4f4280bb6bf35a933fcefadb1b3f584bd342",
+      "adjuntos": []
+    },
+    {
+      "id": "1502420545042386975",
+      "fecha_utc": "2026-05-08T21:22:51.562000+00:00",
+      "fecha_local": "2026-05-08",
+      "editado_utc": null,
+      "texto": "Leona:\n**flexiono mis musculos enseñando para poco despues dar tremendo salto**\nSaltando y entrenando contra todo lo que me encuentre",
+      "mensaje_sha256": "b5d65f3f8e5234f87bd8122da2fc1d63cb382ce5823f11b4319db759631ef51e",
+      "tipo_discord": 19,
+      "referencia": "1502419999917342861",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1502420545042386975",
+      "texto_sha256": "f010ae85c975000d923aad3d88f35d18ef82d689c8cafef18a77fecd9e899353",
+      "adjuntos": []
+    },
+    {
+      "id": "1502421020039053312",
+      "fecha_utc": "2026-05-08T21:24:44.810000+00:00",
+      "fecha_local": "2026-05-08",
+      "editado_utc": "2026-05-08T21:24:52.265000+00:00",
+      "texto": "Guayacán:\n **Observa su musculatura, para luego fijarse en ella, sabía que tendría que haber algo mas que solo saltos y entrenamiento fisico**\n-..su fuerza es.. diferente! Es como una bestia sin control, como....como un volcán que erupciona con la fuerza de un Mastodonte! Como ha podido ser su entrenamiento? Como es que canaliza esa...esa... energía desbordante?",
+      "mensaje_sha256": "19ee6a4966e0ceb35017d091cd4921947f210355d1aafe0625a710eb664fc71a",
+      "tipo_discord": 19,
+      "referencia": "1502420545042386975",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1502421020039053312",
+      "texto_sha256": "8f3cf1cf0bbe643227d806ff295b4c3b0d20dccb82c645343d0419d4d09f4701",
+      "adjuntos": []
+    },
+    {
+      "id": "1502422382474825760",
+      "fecha_utc": "2026-05-08T21:30:09.640000+00:00",
+      "fecha_local": "2026-05-08",
+      "editado_utc": null,
+      "texto": "Leona:\nQuieres que te enseñe? te hace falta llevarte por tus instintos por tu furia buscar una presa cada vez mas grande y fuerte sin importar que te duela cada hueso del cuerpo\n**se la veia cada vez mas emocionada**",
+      "mensaje_sha256": "fcdf9e3bcd3d478e285798ba25b40ef9ecd2590f2248fe92465ca8db97ded6a7",
+      "tipo_discord": 19,
+      "referencia": "1502421020039053312",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1502422382474825760",
+      "texto_sha256": "3470d98d967e5d3c1d4a069329491bce64f024e23506e0f02b0a2ff34b68b402",
+      "adjuntos": []
+    },
+    {
+      "id": "1502423112824913990",
+      "fecha_utc": "2026-05-08T21:33:03.769000+00:00",
+      "fecha_local": "2026-05-08",
+      "editado_utc": "2026-05-08T21:33:11.255000+00:00",
+      "texto": "Guayacán:\n-...\n**Ve sus manos, fijandose en sus garras de ave, apretando con una fuerza intensa, mas decidido que nunca**\n-.... porfavor..\n**La observa con determinacion, bajando la cabeza**\n-Pido que usted...Lider y mentora...sea quien me conceda este honor...",
+      "mensaje_sha256": "06bfaf2add956d89b9d09a49d6c6266227eacecc1d773b29707257fd1863d1b6",
+      "tipo_discord": 19,
+      "referencia": "1502422382474825760",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1502423112824913990",
+      "texto_sha256": "5f55aa4f8662660204be1b2a64f956868bcaaca1d8d7776e395d01ec6440c25e",
+      "adjuntos": []
+    },
+    {
+      "id": "1502423449325535494",
+      "fecha_utc": "2026-05-08T21:34:23.997000+00:00",
+      "fecha_local": "2026-05-08",
+      "editado_utc": null,
+      "texto": "Guayacán:\n-Juro por mi nombre que no haré que su bondad se vea manchada, daré todo de mi para aprender sus pasos y ganarme su orgullo y respeto",
+      "mensaje_sha256": "22101940d08378b6246fe58c0c469552bd104f664f2fc54cbd1b9ac847dcdafd",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1502423449325535494",
+      "texto_sha256": "201cddb9f394de81e83e6b130661f2f62b6faafbc0921350f41c2fc1d087b921",
+      "adjuntos": []
+    },
+    {
+      "id": "1502423610470694982",
+      "fecha_utc": "2026-05-08T21:35:02.417000+00:00",
+      "fecha_local": "2026-05-08",
+      "editado_utc": null,
+      "texto": "Leona:\npues empezemos primero por decirme a quien odias?\n**te mira sonriendo de una forma casi maquiavelica**",
+      "mensaje_sha256": "77e8f9ddbef74c4e67ba51bc62a0a7a1418d9508567cf204a77c8066f18a4dc5",
+      "tipo_discord": 19,
+      "referencia": "1502423112824913990",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1502423610470694982",
+      "texto_sha256": "00aac369baa821e9eafefe81f95e33e1e5ecfdb3409a5f10d5d6179b56cdf6c4",
+      "adjuntos": []
+    },
+    {
+      "id": "1502423777093357568",
+      "fecha_utc": "2026-05-08T21:35:42.143000+00:00",
+      "fecha_local": "2026-05-08",
+      "editado_utc": null,
+      "texto": "Guayacán:\n-....\n**Se ve a si mismo, para luego verla a ella**\n-..... podrá...ser a solas...?",
+      "mensaje_sha256": "a8d804d01c72f71d85aebe8c32b23172e19c224c126b4e10fde0fc3a8b8f1ee8",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1502423777093357568",
+      "texto_sha256": "286519adcef071f556bc08695f8657b60922e18e0d165d76007f44ac7183470c",
+      "adjuntos": []
+    },
+    {
+      "id": "1502424204564500521",
+      "fecha_utc": "2026-05-08T21:37:24.060000+00:00",
+      "fecha_local": "2026-05-08",
+      "editado_utc": null,
+      "texto": "Leona:\nAdelante vamos a la jungla \n**le da la mano para ayudarle y que la siga**",
+      "mensaje_sha256": "901e3f6498d93b38a83c8a0350bc991c1bd05c0eabaeff624ea399ae550200b7",
+      "tipo_discord": 19,
+      "referencia": "1502423777093357568",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1502424204564500521",
+      "texto_sha256": "9b540947f9354ede6ed397ca5654167cdf8cf9c0621018907980fef5ab3146f1",
+      "adjuntos": []
+    },
+    {
+      "id": "1502424412144668842",
+      "fecha_utc": "2026-05-08T21:38:13.551000+00:00",
+      "fecha_local": "2026-05-08",
+      "editado_utc": null,
+      "texto": "Guayacán: \n**Toma su mano, pudiéndose apreciar un ligero temblor en esta**\n-....",
+      "mensaje_sha256": "970dc63c2302cef1ab9dd6a478365e772b44c042d00a4d83d01e7528dfa4b5bc",
+      "tipo_discord": 19,
+      "referencia": "1502424204564500521",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1502424412144668842",
+      "texto_sha256": "9ddc426929d90ccd6e3ef2cef4a5205f276ae1919cd491ba8052c2da4cedd1ae",
+      "adjuntos": []
+    },
+    {
+      "id": "1502425089482948638",
+      "fecha_utc": "2026-05-08T21:40:55.041000+00:00",
+      "fecha_local": "2026-05-08",
+      "editado_utc": null,
+      "texto": "Leona:\nNo tengas miedo con la futura lider leona no pasara nada",
+      "mensaje_sha256": "228637b43f0f8dea95bc7dd8fb91ded64ba3a21b5c44080915ede5ccd59f2dd7",
+      "tipo_discord": 19,
+      "referencia": "1502424412144668842",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1502425089482948638",
+      "texto_sha256": "41de9f34d27f55ef49dc09a0ab6c2ab4cfb12e4becedd5e5552397cfd55da3bd",
+      "adjuntos": []
+    },
+    {
+      "id": "1502426491164561438",
+      "fecha_utc": "2026-05-08T21:46:29.228000+00:00",
+      "fecha_local": "2026-05-08",
+      "editado_utc": null,
+      "texto": "Guayacán:\n-No...no es miedo...\n**Se podía sentir en su voz sinceridad, y sobretodo, pesar**\n-...pero cuando se lo explique..entenderá \n**Toma su mano con mayor firmeza**",
+      "mensaje_sha256": "a3d56de0cc19c0e2ae897a7a4f447fc7d864674840750c43e65d7cc878f6b481",
+      "tipo_discord": 19,
+      "referencia": "1502425089482948638",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1502426491164561438",
+      "texto_sha256": "77e501b9d4025a0331e2b122935f220c7bc04db20e970e0e28af5799a0a7c53f",
+      "adjuntos": []
+    },
+    {
+      "id": "1502427660654088202",
+      "fecha_utc": "2026-05-08T21:51:08.056000+00:00",
+      "fecha_local": "2026-05-08",
+      "editado_utc": null,
+      "texto": "Leona:\n**cuando ya estaban algo mas alejado del pueblo se gira a verlo**\nEntonces que es?\n**la miro extrañada**",
+      "mensaje_sha256": "8b3642ff2c5b27429cdbba9ca4c4209f460d609e5efe5105ea883677d49b56d4",
+      "tipo_discord": 19,
+      "referencia": "1502426491164561438",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1502427660654088202",
+      "texto_sha256": "1dff3dbcb1fddea1da652459e62acc57f3cb2b8ca325cb9eefea48ade57167c0",
+      "adjuntos": []
+    },
+    {
+      "id": "1502428817195532329",
+      "fecha_utc": "2026-05-08T21:55:43.797000+00:00",
+      "fecha_local": "2026-05-08",
+      "editado_utc": null,
+      "texto": "Guayacán: \n**Ve a todos lados, para luego retirarse la máscara, revelándose el aspecto de un hombre palido, con una barba espesa de color azabache, ojos verdes, con un aspecto hundido, parecido a una calavera, y una cabellera negra larga que se deja caer y que por su aspecto, se nota que esta algo enredado, pero manejable. Su cabellera es ondulada y voluminosa**\n-....para mi...no hay cosa que odie mas...que vivir con este martirio",
+      "mensaje_sha256": "ed00b7c4942be0c2ccec634e18b8e4b52734fe2af003f959c7760733116806f7",
+      "tipo_discord": 19,
+      "referencia": "1502427660654088202",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1502428817195532329",
+      "texto_sha256": "e0347be9354d89751fe04345ccad0f05bcdaa9c508d92784220a55e07de11032",
+      "adjuntos": []
+    }
+  ]
+}

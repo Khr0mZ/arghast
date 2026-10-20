@@ -1,0 +1,147 @@
+{
+  "id": "k-1362182504068546802",
+  "campana": "kuroto",
+  "unidad_revision": "k-1362182504068546802",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Ikaari despierta entre ruidos del jardín",
+  "resumen": "Ikaari descubre que ha dormido durante la reunión y oye movimientos que se aproximan entre los arbustos.",
+  "relato": "Ikaari despierta en el jardín, desconcertado porque creía estar asistiendo a una reunión. Mira su botella de sake, recoge unas herramientas y se encamina hacia la oscuridad, pensando que necesitará que alguien le explique lo hablado mientras dormía. Un movimiento entre los arbustos lo detiene. Se vuelve y pregunta si queda alguien; sin recibir respuesta verbal, oye que algo se dirige hacia él. Banzo permanece tendido en el césped, medio adormilado. El fragmento termina antes de identificar lo que se acerca.",
+  "participantes": [
+    "Ikaari",
+    "Banzo"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1362182504068546802",
+      "afirmacion": "Ikaari despierta, recoge herramientas y se pregunta en privado qué ocurrió en la reunión.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1362183322427461834",
+      "afirmacion": "Ikaari pregunta por el origen del ruido.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1362185306425659633",
+      "afirmacion": "Algo se aproxima sin que se identifique en esta unidad.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1362185580338741330",
+      "afirmacion": "Banzo sigue tumbado y medio dormido en el césped.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Leídos completos los cinco mensajes. Sin cierre explícito.",
+    "Continúa directamente en k-1362186703955296436: el corte automático coincide con el cambio de fecha local y de intervalo entre capítulos, no con un final narrativo. Se recomienda vincular ambos fragmentos como continuación, manteniéndolos separados con sus respectivos intervalos y fechas de fuente.",
+    "No se identifica al emisor de los ruidos hasta el fragmento siguiente. El deseo de ponerse al día es pensamiento privado de Ikaari."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2025-04-16T21:46:57.097000+00:00",
+  "fin_utc": "2025-04-16T21:59:10.537000+00:00",
+  "fecha_local": "2025-04-16",
+  "intervalo": {
+    "anterior": 104,
+    "siguiente": 105,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1362136567187112247",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1362497195252650075",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 104,
+        "fecha": "2025-04-16",
+        "inicio_referencia_utc": "2025-04-16T18:44:04+00:00",
+        "fin_estimado_utc": "2025-04-16T21:31:29+00:00",
+        "duracion_video_segundos": 10045,
+        "tipo_referencia": "aviso_de_contraste",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1362136567187112247"
+      },
+      {
+        "capitulo": 105,
+        "fecha": "2025-04-17",
+        "inicio_referencia_utc": "2025-04-17T18:37:08+00:00",
+        "fin_estimado_utc": "2025-04-17T20:54:16+00:00",
+        "duracion_video_segundos": 8228,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1362497195252650075"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida. Una hora tomada de un aviso con título discrepante se utiliza solo como referencia aproximada de ese día."
+  },
+  "fuentes": [
+    {
+      "id": "1362182504068546802",
+      "fecha_utc": "2025-04-16T21:46:57.097000+00:00",
+      "fecha_local": "2025-04-16",
+      "editado_utc": null,
+      "texto": "Ikaari **se despierta en el jardín, confundido ya que pensaba que estaba en una reunión. Se mira la botella de sake, extrañado, mientras se va a un rincón del jardín a recoger unas herramientas y desaparece en la oscuridad mientras piensa** \n*espero que alguien me cuente de qué iba la reunión ya que no me han despertado*",
+      "mensaje_sha256": "5acbaa38d66a292fa810634af6a68a15c82326f0b76806dbf8bc88ed61a73c2f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1362182504068546802",
+      "texto_sha256": "7d7de94abf468e3bb4410cb5676a9442e16b52f13dd59c59de75867b447eee89",
+      "adjuntos": []
+    },
+    {
+      "id": "1362182898261823548",
+      "fecha_utc": "2025-04-16T21:48:31.080000+00:00",
+      "fecha_local": "2025-04-16",
+      "editado_utc": null,
+      "texto": "**Escuchas algo moviendose entre los arbustos**",
+      "mensaje_sha256": "fc90fe84f9406bec1aa7439f01f7c8cb9bd7e0d87209801c3e0c68c459b6e5bd",
+      "tipo_discord": 19,
+      "referencia": "1362182504068546802",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1362182898261823548",
+      "texto_sha256": "49b47f27f6b32165baa8220b2f9ae8823eab3ec2fb70d7fb27df9006d535c51d",
+      "adjuntos": []
+    },
+    {
+      "id": "1362183322427461834",
+      "fecha_utc": "2025-04-16T21:50:12.209000+00:00",
+      "fecha_local": "2025-04-16",
+      "editado_utc": null,
+      "texto": "Ikaari **se gira hacia el ruido** Queda alguien por ahí?",
+      "mensaje_sha256": "0c0714fd6245d8e2610355f28156afc3d829af2890e7c9ea8ed88b329f9b7dc2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1362183322427461834",
+      "texto_sha256": "60f1cc0f0c92077c89a5ad121e8a7cbb5b9499db1933ee6fe3252bc9692ba1d4",
+      "adjuntos": []
+    },
+    {
+      "id": "1362185306425659633",
+      "fecha_utc": "2025-04-16T21:58:05.231000+00:00",
+      "fecha_local": "2025-04-16",
+      "editado_utc": null,
+      "texto": "**Escuchas como algo se dirige a por ti**",
+      "mensaje_sha256": "be143c64f449edea3658f74ea94f38627daca8a92211ed7d0d1b5d32c3122aa7",
+      "tipo_discord": 19,
+      "referencia": "1362183322427461834",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1362185306425659633",
+      "texto_sha256": "cb99cd7b83234eb012159d470d08c7703590272d51e03ccb3ec70613f4e6f006",
+      "adjuntos": []
+    },
+    {
+      "id": "1362185580338741330",
+      "fecha_utc": "2025-04-16T21:59:10.537000+00:00",
+      "fecha_local": "2025-04-16",
+      "editado_utc": null,
+      "texto": "Banzo : **se le vería tumbado en el césped mirando al cielo medio adormilado **",
+      "mensaje_sha256": "951b77d781abe8b2824217bb879df353f5d7e6edcfe8546c1fc89fab75f0afbc",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1362185580338741330",
+      "texto_sha256": "f576de2a391114225d4de8e05b0bc11b82064566ea6a13b8c89f8056ef5bd815",
+      "adjuntos": []
+    }
+  ]
+}

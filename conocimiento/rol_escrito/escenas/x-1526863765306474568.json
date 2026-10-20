@@ -1,0 +1,113 @@
+{
+  "id": "x-1526863765306474568",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1526863765306474568",
+  "hilo_id": "1481938373894738061",
+  "hilo_nombre": "Fuerte Aurora - Base de la Marina",
+  "titulo": "Una voz ofrece paz a Jackie Jackson tras el sacrificio de Nox",
+  "resumen": "Jackie llega al fuerte vacío, abrumado por la pérdida. Una presencia mental suaviza su dolor a cambio de que la saque de allí.",
+  "relato": "Jackie Jackson corre por la jungla después de los sucesos de Shiaru, culpándose por su viaje a Puerto de las Espadas. Recuerda que Nox lo sacó de la Marina, a sus compañeros del Zampaolas y a Ione. La narración aclara que ella permitió volver al barco a quienes no la habían ayudado en el enfrentamiento anterior.\n\nLlega sin darse cuenta a Fuerte Aurora, desierto porque Tórtola movilizó toda la guarnición. El narrador afirma que el capitán habría vencido de no ser por el sacrificio de Nox. Jackie cree que el pirata seguiría vivo si no lo hubiera rescatado; su culpa expresa su dolor, no demuestra ser el causante único de la pérdida. El combate y el sacrificio no se reconstruyen.\n\nUna voz sibilante entra en su mente y ofrece ayudarlo si la saca de allí. Las visiones sustituyen su angustia por una calma extraña. Jackie acepta buscarla y liberarla, con la sensación de haber olvidado algo o a alguien. La identidad de la voz, su lugar exacto y el cumplimiento de la petición quedan sin revelar.",
+  "participantes": [
+    "Jackie Jackson",
+    "Voz sibilante no identificada"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1526863765306474568",
+      "afirmacion": "La narración confirma el fuerte vacío, la readmisión de la tripulación y el sacrificio de Nox.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1526863866720419944",
+      "afirmacion": "Una voz mental ofrece calma y Jackie acepta sacarla del lugar.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El narrador confirma el sacrificio y el recuerdo trata a Nox como muerto, sin describir el mecanismo del desenlace.",
+    "No se identifica la voz con el Ojo de Serpiente, una deidad o una persona por compartir siseos.",
+    "La readmisión del grupo en el Zampaolas se conoce aquí retrospectivamente; no se inventa su escena completa."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-07-15T08:11:29.406000+00:00",
+  "fin_utc": "2026-07-15T08:11:53.585000+00:00",
+  "fecha_local": "2026-07-15",
+  "intervalo": {
+    "anterior": 43,
+    "siguiente": 44,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1525209204300841101",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527010759236653109",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 43,
+        "fecha": "2026-07-10",
+        "inicio_referencia_utc": "2026-07-10T18:35:33+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1525209204300841101"
+      },
+      {
+        "capitulo": 44,
+        "fecha": "2026-07-15",
+        "inicio_referencia_utc": "2026-07-15T17:55:09+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527010759236653109"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1526863765306474568",
+      "fecha_utc": "2026-07-15T08:11:29.406000+00:00",
+      "fecha_local": "2026-07-15",
+      "editado_utc": null,
+      "texto": "**Jackie Jackson llevaba horas corriendo por la jungla. Quizá incluso días. Sus piernas apenas respondían y la cabeza le daba vueltas sin descanso mientras revivía una y otra vez todo lo ocurrido. No dejaba de culparse.**\n**Había sido un idiota cuando viajó a Puerto de las Espadas. Había querido hacerse el valiente cuando los piratas abordaron el barco. Quería parecerse a Nox, el pirata que lo había sacado de la Marina y le había enseñado lo que significaba la libertad. Le había enseñado que no siempre las buenas personas eran tan buenas... ni las malas tan malas.**\n**Había conocido a Babs, Mugre, Ojoausente, Sir Poncelot e Ilikar. En mucho menos tiempo del que había pasado en la Marina, todos ellos se habían convertido en auténticos compañeros. Y luego estaba la capitana Ione. Nunca había conocido a un capitán que se preocupara tanto por su tripulación. Era cierto que la última vez habían discutido porque no la habían ayudado a defender el *Zampaolas*... Pero, aun así, les permitió volver al barco.**\n\n**Jackie ni siquiera se dio cuenta de que había llegado al Fuerte Aurora. El lugar estaba completamente desierto. El capitán Tortola Jhones no había dejado allí ni un solo pelotón. Estaba tan convencido de su victoria que no creyó necesario mantener una guarnición. Y la habría conseguido... de no haber sido por el sacrificio de Nox.**",
+      "mensaje_sha256": "3565ad9af87a75ce841a4744cb4454685c11adb13e4db74abe47dc37e2d91e6b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1526863765306474568",
+      "texto_sha256": "267967c4f20e62cbbfdc26ec238e5c45a68d95e7f57379209edd8933a9cfc6f1",
+      "adjuntos": []
+    },
+    {
+      "id": "1526863866720419944",
+      "fecha_utc": "2026-07-15T08:11:53.585000+00:00",
+      "fecha_local": "2026-07-15",
+      "editado_utc": null,
+      "texto": "**El muchacho se detuvo en seco en mitad del fuerte. Y volvió a romper a llorar. Había sido culpa suya. Todo había sido culpa suya. Si Nox no lo hubiera rescatado de la Marina... Ahora seguiría vivo.**\n\n???: No essstés trissste... **La voz resonó directamente en su mente. No venía de ninguna parte... y de todas a la vez.** Yo puedo ayudarssste... **Hubo un breve silencio.** Ssssssolo tienes que sssacarme de aquí...\n\n**Jackie levantó la cabeza y miró a su alrededor, completamente desconcertado. No había nadie. Solo las ruinas del fuerte y el sonido del viento. Pero aquella sensación apenas duró unos segundos. Las visiones comenzaron a inundar su mente. El dolor, la culpa y la desesperación empezaron a disiparse, sustituidos por una calma cálida y reconfortante. Era una paz imposible.**\n\nJackie Jackson: Cla... claro... ¿Dónde estás? Te sacaré de ahí... **Su voz ya no temblaba. Su mente estaba en calma. Se sentía bien. Muy bien. Solo había una pequeña sensación en el fondo de su memoria. Como si hubiera olvidado algo... o a alguien. Pero... ¿qué importaba? Seguro que no era importante. Ahora estaba en paz.**\n\n**Y su nuevo amigo le ofrecía una tranquilidad... terriblemente acogedora.**\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "26abe1d187241f5e4d80b56191f8233dbccafa494e1cbcf85e2e2998ed56d0b9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1526863866720419944",
+      "texto_sha256": "bd8e75c727189261275e24b44c39b42b78855845d78225403c3706976e1b04d4",
+      "adjuntos": []
+    },
+    {
+      "id": "1526863893564096542",
+      "fecha_utc": "2026-07-15T08:11:59.985000+00:00",
+      "fecha_local": "2026-07-15",
+      "editado_utc": null,
+      "texto": "<@&1439948653996409004>",
+      "mensaje_sha256": "963066baca1c234ba4dc4f6e3d0ae82b783b5323f65b8b3d9319659fad48c15a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1526863893564096542",
+      "texto_sha256": "da30f7935aa0d4816050ad4be8cdd81862f2db9e65bacabcf5ab7773a5e78e8a",
+      "adjuntos": [],
+      "no_narrativo": true,
+      "nota_editorial": "Mención de aviso sin contenido narrativo, preservada junto a la escena anterior."
+    }
+  ]
+}

@@ -1,0 +1,1267 @@
+{
+  "hilo_id": "1379945696089604209",
+  "hilo": "Sho, Barrios bajos - Capital de Kuroto",
+  "campana": "kuroto",
+  "unidades_leidas": 38,
+  "alcance": "Lectura íntegra de las 38 unidades, 971 mensajes, 40 partes, once adjuntos ilustrados y un suplemento reenviado del hilo. Los avances se limitan a estas fuentes: las declaraciones se distinguen de hechos mostrados, y los pendientes se cotejan con otros hilos cuando hay una respuesta acreditada.",
+  "identidades": [
+    {
+      "nombre": "Archi",
+      "alias": [
+        "Leopold von Bergen",
+        "Leopold la Balanza",
+        "Augustus Archival Frederick Patrick Daniel OSullivan de Von Vergen"
+      ],
+      "pruebas": [
+        "1380105272336580618",
+        "1381290252982943754",
+        "1381295251976749166",
+        "1389561262962380911"
+      ],
+      "nota": "El propio gnomo distingue su nombre del apodo comercial y dice usar el de un primo. No mezclar con un personaje homónimo de Xoltacan.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1380105272336580618",
+          "escena": "k-1379945696089604209",
+          "fecha_utc": "2025-06-05T08:45:38.041000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1380105272336580618"
+        },
+        {
+          "mensaje_id": "1381290252982943754",
+          "escena": "k-1381204106512961618",
+          "fecha_utc": "2025-06-08T15:14:19.443000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1381290252982943754"
+        },
+        {
+          "mensaje_id": "1381295251976749166",
+          "escena": "k-1381204106512961618",
+          "fecha_utc": "2025-06-08T15:34:11.296000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1381295251976749166"
+        },
+        {
+          "mensaje_id": "1389561262962380911",
+          "escena": "k-1389544087333507093",
+          "fecha_utc": "2025-07-01T11:00:21.890000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1389561262962380911"
+        }
+      ]
+    },
+    {
+      "nombre": "Viktor Frankenbolt",
+      "alias": [
+        "Viktor"
+      ],
+      "pruebas": [
+        "1380106864221749268",
+        "1380124990384373801"
+      ],
+      "nota": "Ingeniero de Tunriel, en Urdar. Las deformaciones cómicas de su apellido no representan personas distintas.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1380106864221749268",
+          "escena": "k-1379945696089604209",
+          "fecha_utc": "2025-06-05T08:51:57.576000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1380106864221749268"
+        },
+        {
+          "mensaje_id": "1380124990384373801",
+          "escena": "k-1379945696089604209",
+          "fecha_utc": "2025-06-05T10:03:59.190000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1380124990384373801"
+        }
+      ]
+    },
+    {
+      "nombre": "Guxi",
+      "alias": [
+        "John Smith"
+      ],
+      "pruebas": [
+        "1384217552674361486",
+        "1384218566114676907",
+        "1384260308154974441"
+      ],
+      "nota": "John es el papel transformado que Guxi interpreta durante la investigación del mediano.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1384217552674361486",
+          "escena": "k-1384216667143405690",
+          "fecha_utc": "2025-06-16T17:06:22.076000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1384217552674361486"
+        },
+        {
+          "mensaje_id": "1384218566114676907",
+          "escena": "k-1384216667143405690",
+          "fecha_utc": "2025-06-16T17:10:23.699000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1384218566114676907"
+        },
+        {
+          "mensaje_id": "1384260308154974441",
+          "escena": "k-1384216667143405690",
+          "fecha_utc": "2025-06-16T19:56:15.777000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1384260308154974441"
+        }
+      ]
+    },
+    {
+      "nombre": "Kazuki",
+      "alias": [
+        "Dante"
+      ],
+      "pruebas": [
+        "1384219628993118218",
+        "1384260548069294150"
+      ],
+      "nota": "La transformación en Dante y el regreso a Kazuki son explícitos y privados. No adjudicar todo acto de un autor de Discord a esa identidad.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1384219628993118218",
+          "escena": "k-1384216667143405690",
+          "fecha_utc": "2025-06-16T17:14:37.109000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1384219628993118218"
+        },
+        {
+          "mensaje_id": "1384260548069294150",
+          "escena": "k-1384216667143405690",
+          "fecha_utc": "2025-06-16T19:57:12.977000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1384260548069294150"
+        }
+      ]
+    },
+    {
+      "nombre": "Vervein",
+      "alias": [
+        "Vervain"
+      ],
+      "pruebas": [
+        "1404444043462840372",
+        "1415354592581124147",
+        "1415360100364718192"
+      ],
+      "nota": "La misma cazadora pelirroja de armadura verde en las conversaciones de Arwen, Banzo y Kalista.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1404444043462840372",
+          "escena": "k-1404347731325091942",
+          "fecha_utc": "2025-08-11T12:39:13.270000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1404444043462840372"
+        },
+        {
+          "mensaje_id": "1415354592581124147",
+          "escena": "k-1415341003325444231",
+          "fecha_utc": "2025-09-10T15:13:50.888000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1415354592581124147"
+        },
+        {
+          "mensaje_id": "1415360100364718192",
+          "escena": "k-1415341003325444231",
+          "fecha_utc": "2025-09-10T15:35:44.046000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1415360100364718192"
+        }
+      ]
+    },
+    {
+      "nombre": "Coizzy",
+      "alias": [
+        "Cozzy",
+        "Coizzy"
+      ],
+      "pruebas": [
+        "1401320383491342396",
+        "1401323041195036812",
+        "1410938059519823903"
+      ],
+      "nota": "Las grafías alternan en una conversación continua; no prueban una segunda persona.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1401320383491342396",
+          "escena": "k-1401312581834244216",
+          "fecha_utc": "2025-08-02T21:46:54.698000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1401320383491342396"
+        },
+        {
+          "mensaje_id": "1401323041195036812",
+          "escena": "k-1401312581834244216",
+          "fecha_utc": "2025-08-02T21:57:28.344000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1401323041195036812"
+        },
+        {
+          "mensaje_id": "1410938059519823903",
+          "escena": "k-1410921440395399221",
+          "fecha_utc": "2025-08-29T10:44:07.351000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1410938059519823903"
+        }
+      ]
+    },
+    {
+      "nombre": "Frank",
+      "alias": [
+        "Franky",
+        "Franc"
+      ],
+      "pruebas": [
+        "1394272452514676937",
+        "1394273932676173994",
+        "1395394054396842118"
+      ],
+      "nota": "Carlino mecánico recibido de Viktor. No se confunde con el ingeniero.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1394272452514676937",
+          "escena": "k-1394239071420809269",
+          "fecha_utc": "2025-07-14T11:00:57.009000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1394272452514676937"
+        },
+        {
+          "mensaje_id": "1394273932676173994",
+          "escena": "k-1394239071420809269",
+          "fecha_utc": "2025-07-14T11:06:49.907000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1394273932676173994"
+        },
+        {
+          "mensaje_id": "1395394054396842118",
+          "escena": "k-1395394054396842118",
+          "fecha_utc": "2025-07-17T13:17:47.736000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1395394054396842118"
+        }
+      ]
+    },
+    {
+      "nombre": "Wilson",
+      "alias": [],
+      "pruebas": [
+        "1423726317710344324",
+        "1425116154812305468"
+      ],
+      "nota": "Bota con ojos y boca dibujados, interlocutor imaginado por Archi durante el aislamiento.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1423726317710344324",
+          "escena": "k-1423726317710344324",
+          "fecha_utc": "2025-10-03T17:40:05.698000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1423726317710344324"
+        },
+        {
+          "mensaje_id": "1425116154812305468",
+          "escena": "k-1424663394299940884",
+          "fecha_utc": "2025-10-07T13:42:48.685000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1425116154812305468"
+        }
+      ]
+    },
+    {
+      "nombre": "Strug",
+      "alias": [
+        "Stug",
+        "Srug",
+        "Steug"
+      ],
+      "pruebas": [
+        "1382011376549105738",
+        "1389547276623544321",
+        "1409465409958318211",
+        "1409473112059285595"
+      ],
+      "nota": "Variaciones del portero deforme de un ojo en el mismo acceso de la cofradía. No se inventa una familia de porteros.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1382011376549105738",
+          "escena": "k-1382001340594651289",
+          "fecha_utc": "2025-06-10T14:59:48.699000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1382011376549105738"
+        },
+        {
+          "mensaje_id": "1389547276623544321",
+          "escena": "k-1389544087333507093",
+          "fecha_utc": "2025-07-01T10:04:47.287000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1389547276623544321"
+        },
+        {
+          "mensaje_id": "1409465409958318211",
+          "escena": "k-1409463453537665024",
+          "fecha_utc": "2025-08-25T09:12:20.335000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1409465409958318211"
+        },
+        {
+          "mensaje_id": "1409473112059285595",
+          "escena": "k-1409463453537665024",
+          "fecha_utc": "2025-08-25T09:42:56.659000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1409473112059285595"
+        }
+      ]
+    }
+  ],
+  "arcos": [
+    {
+      "nombre": "La máscara de susurros y la alianza con Thiary",
+      "avance": "Archi pasa de ofrecer planos a probar la máscara. La demostración termina en dos muertes provocadas por Thiary y sus hombres. Ella conserva el aparato y pacta información política a cambio de suministros de inventos. El anillo se entrega mediante R2 sin colocación explícita ni prueba de sus efectos sobre Archi.",
+      "pruebas": [
+        "1382286634585690122",
+        "1389568685554925579",
+        "1389902341511319563",
+        "1389907434952458301",
+        "1395709577202499715"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1382286634585690122",
+          "escena": "k-1382001340594651289",
+          "fecha_utc": "2025-06-11T09:13:35.329000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1382286634585690122"
+        },
+        {
+          "mensaje_id": "1389568685554925579",
+          "escena": "k-1389544087333507093",
+          "fecha_utc": "2025-07-01T11:29:51.574000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1389568685554925579"
+        },
+        {
+          "mensaje_id": "1389902341511319563",
+          "escena": "k-1389544087333507093",
+          "fecha_utc": "2025-07-02T09:35:41.353000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1389902341511319563"
+        },
+        {
+          "mensaje_id": "1389907434952458301",
+          "escena": "k-1389544087333507093",
+          "fecha_utc": "2025-07-02T09:55:55.724000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1389907434952458301"
+        },
+        {
+          "mensaje_id": "1395709577202499715",
+          "escena": "k-1395700594198577263",
+          "fecha_utc": "2025-07-18T10:11:34.235000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1395709577202499715"
+        }
+      ]
+    },
+    {
+      "nombre": "Archivolt y la mejora de las armaduras",
+      "avance": "Archi acuerda con Viktor repartir al cincuenta por ciento y usar el taller especial. La prueba sobre madera falla; la realizada sobre el propio gnomo funciona. Tras los daños del portal, Guxi negocia seguir el trabajo y declara terminado el primer lote con ayuda de Seraphina y R3. Al final retoma los planos de combate del autómata; no queda acabado ese nuevo prototipo.",
+      "pruebas": [
+        "1394272452514676937",
+        "1394991595232825365",
+        "1395397937500127302",
+        "1436420523033624716",
+        "1437523566009516145",
+        "1459508186397544569"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1394272452514676937",
+          "escena": "k-1394239071420809269",
+          "fecha_utc": "2025-07-14T11:00:57.009000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1394272452514676937"
+        },
+        {
+          "mensaje_id": "1394991595232825365",
+          "escena": "k-1394991595232825365",
+          "fecha_utc": "2025-07-16T10:38:33.994000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1394991595232825365"
+        },
+        {
+          "mensaje_id": "1395397937500127302",
+          "escena": "k-1395394054396842118",
+          "fecha_utc": "2025-07-17T13:33:13.540000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1395397937500127302"
+        },
+        {
+          "mensaje_id": "1436420523033624716",
+          "escena": "k-1436393525649346621",
+          "fecha_utc": "2025-11-07T18:22:20.094000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1436420523033624716"
+        },
+        {
+          "mensaje_id": "1437523566009516145",
+          "escena": "k-1437523566009516145",
+          "fecha_utc": "2025-11-10T19:25:26.033000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1437523566009516145"
+        },
+        {
+          "mensaje_id": "1459508186397544569",
+          "escena": "k-1459236140199444742",
+          "fecha_utc": "2026-01-10T11:24:27.988000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1459508186397544569"
+        }
+      ]
+    },
+    {
+      "nombre": "El tesoro y los documentos perdidos",
+      "avance": "Guxi como John Smith y Seraphina buscan un mediano pelirrojo; el contacto interpretado por Dante no da una localización verificable. Maroxi no consigue ayuda de Thiary para sustituir a un trabajador de la casa del tesoro. Ninguna de esas visitas recupera aquí los papeles ni ejecuta la infiltración.",
+      "pruebas": [
+        "1384228159473320038",
+        "1384254669987123290",
+        "1393226977137262724",
+        "1393264219033436280"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1384228159473320038",
+          "escena": "k-1384216667143405690",
+          "fecha_utc": "2025-06-16T17:48:30.934000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1384228159473320038"
+        },
+        {
+          "mensaje_id": "1384254669987123290",
+          "escena": "k-1384216667143405690",
+          "fecha_utc": "2025-06-16T19:33:51.533000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1384254669987123290"
+        },
+        {
+          "mensaje_id": "1393226977137262724",
+          "escena": "k-1393221512885964850",
+          "fecha_utc": "2025-07-11T13:46:36.255000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1393226977137262724"
+        },
+        {
+          "mensaje_id": "1393264219033436280",
+          "escena": "k-1393221512885964850",
+          "fecha_utc": "2025-07-11T16:14:35.415000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1393264219033436280"
+        }
+      ]
+    },
+    {
+      "nombre": "Vervein y la amenaza vampírica",
+      "avance": "Arwen la conduce hacia Jelbreg después de encontrarla en un callejón ensangrentado. Banzo ve después cómo destruye una criatura y consigue la promesa de preparación. Ante el rapto de Jelbreg relatado por Kalista, Thiary acepta actuar en superficie y la cazadora asiente a reunirse en palacio. El rescate no ocurre en este hilo.",
+      "pruebas": [
+        "1404444043462840372",
+        "1406278296559419504",
+        "1406309648755196035",
+        "1415346842241204274",
+        "1415351665631952997",
+        "1415364137550086154"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1404444043462840372",
+          "escena": "k-1404347731325091942",
+          "fecha_utc": "2025-08-11T12:39:13.270000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1404444043462840372"
+        },
+        {
+          "mensaje_id": "1406278296559419504",
+          "escena": "k-1406260446297592020",
+          "fecha_utc": "2025-08-16T14:07:53.287000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1406278296559419504"
+        },
+        {
+          "mensaje_id": "1406309648755196035",
+          "escena": "k-1406260446297592020",
+          "fecha_utc": "2025-08-16T16:12:28.233000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1406309648755196035"
+        },
+        {
+          "mensaje_id": "1415346842241204274",
+          "escena": "k-1415341003325444231",
+          "fecha_utc": "2025-09-10T14:43:03.063000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1415346842241204274"
+        },
+        {
+          "mensaje_id": "1415351665631952997",
+          "escena": "k-1415341003325444231",
+          "fecha_utc": "2025-09-10T15:02:13.049000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1415351665631952997"
+        },
+        {
+          "mensaje_id": "1415364137550086154",
+          "escena": "k-1415341003325444231",
+          "fecha_utc": "2025-09-10T15:51:46.586000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1415364137550086154"
+        }
+      ]
+    },
+    {
+      "nombre": "Los dos tritones y el miedo de Jelbreg",
+      "avance": "Una atacante de ojos ámbar mata a dos soldados tras exigir acceso al palacio. Jelbreg relaciona las heridas con una mujer que volvió de otro plano con él y Kalista. Por miedo a que aparten a la Shogun, desintegra los cuerpos pese a las objeciones de Banzo. El nombre de la atacante no se confirma aquí.",
+      "pruebas": [
+        "1407656796973305946",
+        "1407689730392330341",
+        "1407701485214765063",
+        "1407704577871974401"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1407656796973305946",
+          "escena": "k-1407656796973305946",
+          "fecha_utc": "2025-08-20T09:25:33.397000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1407656796973305946"
+        },
+        {
+          "mensaje_id": "1407689730392330341",
+          "escena": "k-1407656796973305946",
+          "fecha_utc": "2025-08-20T11:36:25.336000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1407689730392330341"
+        },
+        {
+          "mensaje_id": "1407701485214765063",
+          "escena": "k-1407656796973305946",
+          "fecha_utc": "2025-08-20T12:23:07.904000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1407701485214765063"
+        },
+        {
+          "mensaje_id": "1407704577871974401",
+          "escena": "k-1407656796973305946",
+          "fecha_utc": "2025-08-20T12:35:25.251000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1407704577871974401"
+        }
+      ]
+    },
+    {
+      "nombre": "Kurobane, la vigilancia y la pérdida de confianza",
+      "avance": "Investiga una vivienda y deja que indicios ambiguos alimenten su rencor hacia Kalista y Jelbreg. Acepta espiarlos para Thiary, luego vende a Danifae la posición de dos esferas. Tras ser atendido herido, cuenta que Kalista le quitó el collar y admite su trabajo de informante ante Seraphina y Banzo. Acepta buscar una vía de reparación con Wukong. Thiary finalmente recupera el anillo y lo expulsa.",
+      "pruebas": [
+        "1383135348204240906",
+        "1409504540847247493",
+        "1409511309690536018",
+        "1436755286861021314",
+        "1439309402984157356",
+        "1439315245137920291",
+        "1442527922874355807"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1383135348204240906",
+          "escena": "k-1382959933406056449",
+          "fecha_utc": "2025-06-13T17:26:04.424000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1383135348204240906"
+        },
+        {
+          "mensaje_id": "1409504540847247493",
+          "escena": "k-1409463453537665024",
+          "fecha_utc": "2025-08-25T11:47:49.866000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1409504540847247493"
+        },
+        {
+          "mensaje_id": "1409511309690536018",
+          "escena": "k-1409463453537665024",
+          "fecha_utc": "2025-08-25T12:14:43.684000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1409511309690536018"
+        },
+        {
+          "mensaje_id": "1436755286861021314",
+          "escena": "k-1436748752965603480",
+          "fecha_utc": "2025-11-08T16:32:34.010000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1436755286861021314"
+        },
+        {
+          "mensaje_id": "1439309402984157356",
+          "escena": "k-1439300036537352193",
+          "fecha_utc": "2025-11-15T17:41:42.747000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1439309402984157356"
+        },
+        {
+          "mensaje_id": "1439315245137920291",
+          "escena": "k-1439300036537352193",
+          "fecha_utc": "2025-11-15T18:04:55.625000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1439315245137920291"
+        },
+        {
+          "mensaje_id": "1442527922874355807",
+          "escena": "k-1442517717654700032",
+          "fecha_utc": "2025-11-24T14:50:57.686000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442527922874355807"
+        }
+      ]
+    },
+    {
+      "nombre": "Chanecuxtli y el espionaje de la cofradía",
+      "avance": "Busca alojamiento durante su duelo y acaba reclutada para observar a los tritones y Whell. Informa a Thiary de lo que dice haber escuchado a Banzo. Después presencia la muerte de un prisionero, devuelve el anillo y rechaza espiar a su familia. Thiary revela que nunca activó su vínculo y ambas conservan el afecto.",
+      "pruebas": [
+        "1442540145348841473",
+        "1443138765689454635",
+        "1443142145048449134",
+        "1444471021322113116",
+        "1448717398109589698",
+        "1448724205758713908"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1442540145348841473",
+          "escena": "k-1442532355909746748",
+          "fecha_utc": "2025-11-24T15:39:31.751000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442540145348841473"
+        },
+        {
+          "mensaje_id": "1443138765689454635",
+          "escena": "k-1443126666833432630",
+          "fecha_utc": "2025-11-26T07:18:13.962000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1443138765689454635"
+        },
+        {
+          "mensaje_id": "1443142145048449134",
+          "escena": "k-1443126666833432630",
+          "fecha_utc": "2025-11-26T07:31:39.664000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1443142145048449134"
+        },
+        {
+          "mensaje_id": "1444471021322113116",
+          "escena": "k-1444463793894588447",
+          "fecha_utc": "2025-11-29T23:32:08.457000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1444471021322113116"
+        },
+        {
+          "mensaje_id": "1448717398109589698",
+          "escena": "k-1448706404402856068",
+          "fecha_utc": "2025-12-11T16:45:43.577000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1448717398109589698"
+        },
+        {
+          "mensaje_id": "1448724205758713908",
+          "escena": "k-1448706404402856068",
+          "fecha_utc": "2025-12-11T17:12:46.647000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1448724205758713908"
+        }
+      ]
+    },
+    {
+      "nombre": "El secreto de Archi, el cofre y el encierro",
+      "avance": "Archi prepara una sala secreta y estudia un cofre robado lleno de símbolos enlazados, sin abrirlo. Más tarde aparece dentro de una filacteria; no se representa aquí cómo llegó a ella. Mete a Wilson y a sí mismo en un baúl para intentar escapar. La causa de su pérdida posterior y el resultado de la fuga no se reconstruyen con estos fragmentos.",
+      "pruebas": [
+        "1416365953410662401",
+        "1416371292189233285",
+        "1423726317710344324",
+        "1425116154812305468",
+        "1436401927096238080"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1416365953410662401",
+          "escena": "k-1416365953410662401",
+          "fecha_utc": "2025-09-13T10:12:38.100000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1416365953410662401"
+        },
+        {
+          "mensaje_id": "1416371292189233285",
+          "escena": "k-1416365953410662401",
+          "fecha_utc": "2025-09-13T10:33:50.964000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1416371292189233285"
+        },
+        {
+          "mensaje_id": "1423726317710344324",
+          "escena": "k-1423726317710344324",
+          "fecha_utc": "2025-10-03T17:40:05.698000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1423726317710344324"
+        },
+        {
+          "mensaje_id": "1425116154812305468",
+          "escena": "k-1424663394299940884",
+          "fecha_utc": "2025-10-07T13:42:48.685000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1425116154812305468"
+        },
+        {
+          "mensaje_id": "1436401927096238080",
+          "escena": "k-1436393525649346621",
+          "fecha_utc": "2025-11-07T17:08:26.477000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1436401927096238080"
+        }
+      ]
+    },
+    {
+      "nombre": "R3 y el relevo del inventor",
+      "avance": "R3 ayuda en la fallida captura del rayo, acompaña búsquedas y proyecta una imagen de Archi tras acabar el primer lote de armaduras. Guxi y Seraphina lo adoptan en su trato familiar. Recupera los planos y dirige constructos para el nuevo proyecto contra Ootakemaru, todavía en fabricación.",
+      "pruebas": [
+        "1410929652947615846",
+        "1437541141972258996",
+        "1437560215024435280",
+        "1437573813440090283",
+        "1459517097947304131"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1410929652947615846",
+          "escena": "k-1410921440395399221",
+          "fecha_utc": "2025-08-29T10:10:43.068000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1410929652947615846"
+        },
+        {
+          "mensaje_id": "1437541141972258996",
+          "escena": "k-1437523566009516145",
+          "fecha_utc": "2025-11-10T20:35:16.469000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1437541141972258996"
+        },
+        {
+          "mensaje_id": "1437560215024435280",
+          "escena": "k-1437523566009516145",
+          "fecha_utc": "2025-11-10T21:51:03.839000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1437560215024435280"
+        },
+        {
+          "mensaje_id": "1437573813440090283",
+          "escena": "k-1437523566009516145",
+          "fecha_utc": "2025-11-10T22:45:05.954000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1437573813440090283"
+        },
+        {
+          "mensaje_id": "1459517097947304131",
+          "escena": "k-1459236140199444742",
+          "fecha_utc": "2026-01-10T11:59:52.667000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1459517097947304131"
+        }
+      ]
+    }
+  ],
+  "pendientes": [
+    {
+      "pregunta": "¿Se recuperan los papeles robados por el mediano pelirrojo y se identifica el destino de su venta?",
+      "pruebas": [
+        "1384228159473320038",
+        "1384247921536401548"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1384228159473320038",
+          "escena": "k-1384216667143405690",
+          "fecha_utc": "2025-06-16T17:48:30.934000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1384228159473320038"
+        },
+        {
+          "mensaje_id": "1384247921536401548",
+          "escena": "k-1384216667143405690",
+          "fecha_utc": "2025-06-16T19:07:02.577000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1384247921536401548"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Maroxi encuentra otra vía de entrada a la casa del tesoro y qué busca exactamente?",
+      "pruebas": [
+        "1393226977137262724",
+        "1393264219033436280"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1393226977137262724",
+          "escena": "k-1393221512885964850",
+          "fecha_utc": "2025-07-11T13:46:36.255000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1393226977137262724"
+        },
+        {
+          "mensaje_id": "1393264219033436280",
+          "escena": "k-1393221512885964850",
+          "fecha_utc": "2025-07-11T16:14:35.415000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1393264219033436280"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué información política entrega Thiary a Archi a cambio de la máscara y de sus inventos?",
+      "pruebas": [
+        "1389902341511319563",
+        "1389907434952458301"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1389902341511319563",
+          "escena": "k-1389544087333507093",
+          "fecha_utc": "2025-07-02T09:35:41.353000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1389902341511319563"
+        },
+        {
+          "mensaje_id": "1389907434952458301",
+          "escena": "k-1389544087333507093",
+          "fecha_utc": "2025-07-02T09:55:55.724000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1389907434952458301"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué es la araña que Thiary extrae del cofre protegido y qué truco de Danifae reconoce?",
+      "pruebas": [
+        "1395724248047157330"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1395724248047157330",
+          "escena": "k-1395700594198577263",
+          "fecha_utc": "2025-07-18T11:09:52.037000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1395724248047157330"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Se imparte la preparación contra vampiros y cómo termina la operación para rescatar a Jelbreg?",
+      "pruebas": [
+        "1406311920595636355",
+        "1415364137550086154"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1406311920595636355",
+          "escena": "k-1406260446297592020",
+          "fecha_utc": "2025-08-16T16:21:29.882000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1406311920595636355"
+        },
+        {
+          "mensaje_id": "1415364137550086154",
+          "escena": "k-1415341003325444231",
+          "fecha_utc": "2025-09-10T15:51:46.586000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1415364137550086154"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién es la atacante de ojos ámbar y qué información obtuvo de los tritones y del guardia?",
+      "pruebas": [
+        "1407656796973305946",
+        "1407689730392330341",
+        "1417123966019178588"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1407656796973305946",
+          "escena": "k-1407656796973305946",
+          "fecha_utc": "2025-08-20T09:25:33.397000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1407656796973305946"
+        },
+        {
+          "mensaje_id": "1407689730392330341",
+          "escena": "k-1407656796973305946",
+          "fecha_utc": "2025-08-20T11:36:25.336000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1407689730392330341"
+        },
+        {
+          "mensaje_id": "1417123966019178588",
+          "escena": "k-1417123966019178588",
+          "fecha_utc": "2025-09-15T12:24:42.389000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1417123966019178588"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué guarda el cofre robado, quién es la voz de Archi y cómo se relacionan el escondite, el portal y su encierro?",
+      "pruebas": [
+        "1416366584909267076",
+        "1416371292189233285",
+        "1423726317710344324"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1416366584909267076",
+          "escena": "k-1416365953410662401",
+          "fecha_utc": "2025-09-13T10:15:08.661000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1416366584909267076"
+        },
+        {
+          "mensaje_id": "1416371292189233285",
+          "escena": "k-1416365953410662401",
+          "fecha_utc": "2025-09-13T10:33:50.964000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1416371292189233285"
+        },
+        {
+          "mensaje_id": "1423726317710344324",
+          "escena": "k-1423726317710344324",
+          "fecha_utc": "2025-10-03T17:40:05.698000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1423726317710344324"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Dónde acaba Archi al entrar en el baúl y cuál es el recorrido hasta su pérdida comunicada después?",
+      "pruebas": [
+        "1425116154812305468",
+        "1436401927096238080"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1425116154812305468",
+          "escena": "k-1424663394299940884",
+          "fecha_utc": "2025-10-07T13:42:48.685000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1425116154812305468"
+        },
+        {
+          "mensaje_id": "1436401927096238080",
+          "escena": "k-1436393525649346621",
+          "fecha_utc": "2025-11-07T17:08:26.477000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1436401927096238080"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Se completa el detector de energía inusual encargado por Danifae?",
+      "pruebas": [
+        "1381285586165436527"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1381285586165436527",
+          "escena": "k-1381204106512961618",
+          "fecha_utc": "2025-06-08T14:55:46.787000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1381285586165436527"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Se termina y prueba en combate la nueva armadura de R3 y cuál es su fuente de energía?",
+      "pruebas": [
+        "1459508186397544569",
+        "1459508889379934229",
+        "1459518235375566900"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1459508186397544569",
+          "escena": "k-1459236140199444742",
+          "fecha_utc": "2026-01-10T11:24:27.988000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1459508186397544569"
+        },
+        {
+          "mensaje_id": "1459508889379934229",
+          "escena": "k-1459236140199444742",
+          "fecha_utc": "2026-01-10T11:27:15.592000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1459508889379934229"
+        },
+        {
+          "mensaje_id": "1459518235375566900",
+          "escena": "k-1459236140199444742",
+          "fecha_utc": "2026-01-10T12:04:23.851000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1459518235375566900"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué se dijeron Jelbreg y Thiary después de la irrupción en la cofradía?",
+      "pruebas": [
+        "1438984633743314965"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1438984633743314965",
+          "escena": "k-1438984633743314965",
+          "fecha_utc": "2025-11-14T20:11:11.726000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1438984633743314965"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué gobernador del Puerto de las Espadas recibe información y se ejecuta la operación que anuncia Thiary?",
+      "pruebas": [
+        "1448712500127203390",
+        "1448731410683662437"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1448712500127203390",
+          "escena": "k-1448706404402856068",
+          "fecha_utc": "2025-12-11T16:26:15.807000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1448712500127203390"
+        },
+        {
+          "mensaje_id": "1448731410683662437",
+          "escena": "k-1448706404402856068",
+          "fecha_utc": "2025-12-11T17:41:24.435000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1448731410683662437"
+        }
+      ]
+    }
+  ],
+  "relaciones": [
+    {
+      "personas": [
+        "Archi",
+        "Viktor Frankenbolt"
+      ],
+      "desarrollo": "Desconfianza inicial, colaboración pactada y taller compartido; luego Viktor reprocha al ausente el desastre del portal. Guxi negocia reconstruir y continuar sin borrar esa tensión.",
+      "pruebas": [
+        "1380133214638575657",
+        "1394272452514676937",
+        "1436398639428796446",
+        "1436420523033624716"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1380133214638575657",
+          "escena": "k-1379945696089604209",
+          "fecha_utc": "2025-06-05T10:36:40.005000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1380133214638575657"
+        },
+        {
+          "mensaje_id": "1394272452514676937",
+          "escena": "k-1394239071420809269",
+          "fecha_utc": "2025-07-14T11:00:57.009000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1394272452514676937"
+        },
+        {
+          "mensaje_id": "1436398639428796446",
+          "escena": "k-1436393525649346621",
+          "fecha_utc": "2025-11-07T16:55:22.636000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1436398639428796446"
+        },
+        {
+          "mensaje_id": "1436420523033624716",
+          "escena": "k-1436393525649346621",
+          "fecha_utc": "2025-11-07T18:22:20.094000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1436420523033624716"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Archi",
+        "Thiary"
+      ],
+      "desarrollo": "Interés comercial, demostración violenta de la máscara y pacto condicionado. Las bromas y halagos no convierten el negocio en un romance acreditado.",
+      "pruebas": [
+        "1381305054866440252",
+        "1389568685554925579",
+        "1389902341511319563"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1381305054866440252",
+          "escena": "k-1381204106512961618",
+          "fecha_utc": "2025-06-08T16:13:08.487000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1381305054866440252"
+        },
+        {
+          "mensaje_id": "1389568685554925579",
+          "escena": "k-1389544087333507093",
+          "fecha_utc": "2025-07-01T11:29:51.574000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1389568685554925579"
+        },
+        {
+          "mensaje_id": "1389902341511319563",
+          "escena": "k-1389544087333507093",
+          "fecha_utc": "2025-07-02T09:35:41.353000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1389902341511319563"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Banzo",
+        "Jelbreg",
+        "Kalista"
+      ],
+      "desarrollo": "Banzo se opone a ocultar los cadáveres y confronta la sobreprotección de Jelbreg. El drow expresa miedo a perder a su pareja; el goliat reafirma que son más que compañeros, sin parentesco biológico probado.",
+      "pruebas": [
+        "1407696239486828564",
+        "1407701485214765063",
+        "1407721099784880189"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1407696239486828564",
+          "escena": "k-1407656796973305946",
+          "fecha_utc": "2025-08-20T12:02:17.225000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1407696239486828564"
+        },
+        {
+          "mensaje_id": "1407701485214765063",
+          "escena": "k-1407656796973305946",
+          "fecha_utc": "2025-08-20T12:23:07.904000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1407701485214765063"
+        },
+        {
+          "mensaje_id": "1407721099784880189",
+          "escena": "k-1407656796973305946",
+          "fecha_utc": "2025-08-20T13:41:04.382000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1407721099784880189"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Kurobane",
+        "Seraphina",
+        "Guxi"
+      ],
+      "desarrollo": "Lo atienden herido, pero la amenaza de revelar un secreto daña su confianza en Seraphina. El apoyo continúa sin que se borre la disputa.",
+      "pruebas": [
+        "1438672996125507614",
+        "1438683112849801269",
+        "1439304888419881031",
+        "1439352579858370802"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1438672996125507614",
+          "escena": "k-1438670475021783091",
+          "fecha_utc": "2025-11-13T23:32:51.528000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1438672996125507614"
+        },
+        {
+          "mensaje_id": "1438683112849801269",
+          "escena": "k-1438670475021783091",
+          "fecha_utc": "2025-11-14T00:13:03.543000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1438683112849801269"
+        },
+        {
+          "mensaje_id": "1439304888419881031",
+          "escena": "k-1439300036537352193",
+          "fecha_utc": "2025-11-15T17:23:46.391000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1439304888419881031"
+        },
+        {
+          "mensaje_id": "1439352579858370802",
+          "escena": "k-1439300036537352193",
+          "fecha_utc": "2025-11-15T20:33:16.916000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1439352579858370802"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Kurobane",
+        "Thiary"
+      ],
+      "desarrollo": "De reclutamiento como informante y anillo colocado a denuncia del incumplimiento, devolución del vínculo y expulsión. No se mantiene al personaje como agente activo al cierre.",
+      "pruebas": [
+        "1409504540847247493",
+        "1409511309690536018",
+        "1442527922874355807",
+        "1442529722750996511"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1409504540847247493",
+          "escena": "k-1409463453537665024",
+          "fecha_utc": "2025-08-25T11:47:49.866000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1409504540847247493"
+        },
+        {
+          "mensaje_id": "1409511309690536018",
+          "escena": "k-1409463453537665024",
+          "fecha_utc": "2025-08-25T12:14:43.684000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1409511309690536018"
+        },
+        {
+          "mensaje_id": "1442527922874355807",
+          "escena": "k-1442517717654700032",
+          "fecha_utc": "2025-11-24T14:50:57.686000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442527922874355807"
+        },
+        {
+          "mensaje_id": "1442529722750996511",
+          "escena": "k-1442517717654700032",
+          "fecha_utc": "2025-11-24T14:58:06.810000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442529722750996511"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Chanecuxtli",
+        "Thiary"
+      ],
+      "desarrollo": "Alojamiento y afecto mezclados con uso de sus capacidades y amenazas. Chani fija un límite al negarse a espiar a su familia; devuelve el anillo y la relación personal continúa.",
+      "pruebas": [
+        "1442540145348841473",
+        "1443144915327385690",
+        "1448717398109589698",
+        "1448727867570655292"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1442540145348841473",
+          "escena": "k-1442532355909746748",
+          "fecha_utc": "2025-11-24T15:39:31.751000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442540145348841473"
+        },
+        {
+          "mensaje_id": "1443144915327385690",
+          "escena": "k-1443126666833432630",
+          "fecha_utc": "2025-11-26T07:42:40.150000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1443144915327385690"
+        },
+        {
+          "mensaje_id": "1448717398109589698",
+          "escena": "k-1448706404402856068",
+          "fecha_utc": "2025-12-11T16:45:43.577000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1448717398109589698"
+        },
+        {
+          "mensaje_id": "1448727867570655292",
+          "escena": "k-1448706404402856068",
+          "fecha_utc": "2025-12-11T17:27:19.691000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1448727867570655292"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Guxi",
+        "Seraphina",
+        "R3"
+      ],
+      "desarrollo": "Trabajo compartido y cuidado familiar elegido del autómata. La imagen holográfica de Archi no se interpreta como su resurrección.",
+      "pruebas": [
+        "1437541141972258996",
+        "1437541744479834223",
+        "1437560215024435280",
+        "1437573813440090283"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1437541141972258996",
+          "escena": "k-1437523566009516145",
+          "fecha_utc": "2025-11-10T20:35:16.469000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1437541141972258996"
+        },
+        {
+          "mensaje_id": "1437541744479834223",
+          "escena": "k-1437523566009516145",
+          "fecha_utc": "2025-11-10T20:37:40.118000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1437541744479834223"
+        },
+        {
+          "mensaje_id": "1437560215024435280",
+          "escena": "k-1437523566009516145",
+          "fecha_utc": "2025-11-10T21:51:03.839000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1437560215024435280"
+        },
+        {
+          "mensaje_id": "1437573813440090283",
+          "escena": "k-1437523566009516145",
+          "fecha_utc": "2025-11-10T22:45:05.954000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1437573813440090283"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Arwen",
+        "Vervein"
+      ],
+      "desarrollo": "Encuentro desconfiado, intercambio de ayuda para los caramelos y Jelbreg, y vuelo al palacio. El trato no equivale a una tutela estable.",
+      "pruebas": [
+        "1404444043462840372",
+        "1404453652843991070",
+        "1404463184709943377"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1404444043462840372",
+          "escena": "k-1404347731325091942",
+          "fecha_utc": "2025-08-11T12:39:13.270000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1404444043462840372"
+        },
+        {
+          "mensaje_id": "1404453652843991070",
+          "escena": "k-1404347731325091942",
+          "fecha_utc": "2025-08-11T13:17:24.325000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1404453652843991070"
+        },
+        {
+          "mensaje_id": "1404463184709943377",
+          "escena": "k-1404347731325091942",
+          "fecha_utc": "2025-08-11T13:55:16.899000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1404463184709943377"
+        }
+      ]
+    }
+  ],
+  "precauciones_editoriales": [
+    "Las identidades pertenecen a Kuroto. El nombre Archi o un mismo autor de Discord no enlazan campañas.",
+    "No convertir pensamientos, celos o amenazas en pruebas de culpabilidad o de desenlaces.",
+    "Las trampas y el cabello no demuestran por sí solos la propiedad de la vivienda ni una traición de Kalista.",
+    "El intento de revivir a Archi tras el rayo y las alarmas del robot no acreditan una muerte certificada: el texto contiene correcciones y estados contradictorios.",
+    "Se conservan todos los mensajes, incluido el único enlace reenviado de música y los marcadores de FIN tardíos, sin usarlos como cortes de nuevas acciones.",
+    "Los once adjuntos se han inspeccionado. No se deducen poderes de ilustraciones ni contenido de cartas cerradas.",
+    "No completar sucesos que el hilo publica solo como referencias: portal, secuestro, regreso de la filacteria, muerte de Archi, muerte de Kalista o actuaciones de otros capítulos.",
+    "La inactividad del anillo de Chani es explícita al cierre; no se extiende ese estado a todos los anillos."
+  ],
+  "estado_seguimiento": "al_cierre_del_hilo",
+  "nota_seguimiento": "Cada cuestión conserva el contexto de sus mensajes originales. Los cotejos enlazan las respuestas halladas en otras escenas; la ausencia de un cotejo no demuestra que siga abierta después de otros capítulos.",
+  "fecha_hasta_utc": "2026-01-10T13:08:06.879000+00:00"
+}

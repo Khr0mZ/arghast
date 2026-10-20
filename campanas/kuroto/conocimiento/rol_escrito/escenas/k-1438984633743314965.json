@@ -1,0 +1,78 @@
+{
+  "id": "k-1438984633743314965",
+  "campana": "kuroto",
+  "unidad_revision": "k-1438984633743314965",
+  "hilo_id": "1379945696089604209",
+  "hilo_nombre": "Sho, Barrios bajos - Capital de Kuroto",
+  "titulo": "Jelbreg irrumpe en la cofradía para hablar con Thiary",
+  "resumen": "La oscuridad sorprende a los Cuchillas Negras. Jelbreg inmoviliza a su líder, pero la conversación no se transcribe.",
+  "relato": "La cofradía juega y bebe cuando una oscuridad repentina cubre el local. Thiary escucha los movimientos de un intruso e intenta atacarlo con su katana, que choca contra metal. Antes de que pueda repetir la carga, el adversario le sujeta el brazo a la espalda. Jelbreg se identifica al exigir una conversación. El cierre llega ahí: no se muestran sus preguntas, las respuestas de Thiary ni las consecuencias de la irrupción.",
+  "participantes": [
+    "Jelbreg",
+    "Thiary"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1438984633743314965",
+      "afirmacion": "Jelbreg inmoviliza a Thiary y exige hablar.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No se completa la conversación que el texto deja fuera."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-11-14T20:11:11.726000+00:00",
+  "fin_utc": "2025-11-14T20:11:11.726000+00:00",
+  "fecha_local": "2025-11-14",
+  "intervalo": {
+    "anterior": 167,
+    "siguiente": 168,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438607930604781589",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 167,
+        "fecha": "2025-11-13",
+        "inicio_referencia_utc": "2025-11-13T19:14:04+00:00",
+        "fin_estimado_utc": "2025-11-13T22:25:02+00:00",
+        "duracion_video_segundos": 11458,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438607930604781589"
+      },
+      {
+        "capitulo": 168,
+        "fecha": "2025-11-20",
+        "inicio_referencia_utc": "2025-11-20T19:03:40+00:00",
+        "fin_estimado_utc": "2025-11-20T22:00:36+00:00",
+        "duracion_video_segundos": 10616,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida."
+  },
+  "fuentes": [
+    {
+      "id": "1438984633743314965",
+      "fecha_utc": "2025-11-14T20:11:11.726000+00:00",
+      "fecha_local": "2025-11-14",
+      "editado_utc": "2025-11-14T20:12:59.291000+00:00",
+      "texto": "**La cofradía de los Cuchillas Negras se encontraba como siempre. Los shinobis jugaban a juegos de azar mientras bebían y las monedas de oro se movían de una mano a otra. De repente, la oscuridad inundó todo el lugar... Los miembros de la cofradía empuñaron sus armas rápidamente a pesar de no ver absolutamente nada. \nSu líder, Thiary, fue la primera en colocarse en posición de ataque con su katana corta. Cerraba los ojos intentando percibir algún ruido que no conocía y encontrar al atacante.\nLa katana de la shinobi corto el aire hasta que se detuvo haciendo un ruido metálico. Sabía que era el metal del enemigo que había entrado en sus dominios, así que giro sobre sus talones para separarse y volver a cargar con la punta de su arma.\nPero algo se movió más rápido que ella, le agarro el brazo de la katana por detrás de la espalda para inmobiliaria. Soltó un gruñido de impotencia**\nJelbreg: Creo que tenemos que hablar....shinobi....\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "d9839192d5eafc09254cf4f0901835a39d6cd259f4da8fa2c0fe2899c3be40a5",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1438984633743314965",
+      "texto_sha256": "37c3c48bd89ba7d07804ee921ea46005c2cb15e3b5343f4bdaf6ca7a7f3942dd",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "id": "k-1436393525649346621",
+  "campana": "kuroto",
+  "unidad_revision": "k-1436393525649346621",
+  "hilo_id": "1379945696089604209",
+  "hilo_nombre": "Sho, Barrios bajos - Capital de Kuroto",
+  "titulo": "Guxi negocia con Viktor la continuación de las armaduras",
+  "resumen": "Viktor exige reparar el taller arruinado. Acepta colaborar si Guxi puede obtener el respaldo del Shogunato.",
+  "relato": "Guxi y Seraphina llegan con R3 al taller de Archivolt. En el camino ven a shinobis interceptar a quienes los seguían. Viktor no quiere abrir: culpa a Archi de los daños provocados por el portal y cree que ha vuelto a desaparecer dejando encargos a otros. Seraphina, afectada, le dice que no volverá a verlo, sin relatar aquí la causa de su pérdida.\n\nGuxi presenta la última voluntad de Archi y pide ayuda para terminar las armaduras. El taller sigue tan dañado que ni los hornos se sostienen. Promete colaborar en la reparación y hablar con la Shogun para lograr una compensación. Viktor se interesa por que el gobierno lo reconstruya y mejore, y estrecha la mano de Guxi condicionado a que pueda hablar en nombre de Kalista. El permiso de trabajo queda ligado a reparar el lugar; estos mensajes no muestran una aprobación de la Shogun ni las obras terminadas.",
+  "participantes": [
+    "Guxi",
+    "Seraphina",
+    "Viktor Frankenbolt",
+    "R3"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1436398639428796446",
+      "afirmacion": "Viktor responsabiliza a Archi de los daños.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1436416872588251156",
+      "afirmacion": "Guxi ofrece reconstrucción y gestionar compensación.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1436420523033624716",
+      "afirmacion": "Viktor acepta condicionado a la representación de la Shogun.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La pérdida de Archi se comunica, pero la escena no representa su muerte.",
+    "La voluntad mostrada no permite reconstruir cláusulas o herencias que no se transcriben."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-11-07T16:35:03.416000+00:00",
+  "fin_utc": "2025-11-07T18:25:01.092000+00:00",
+  "fecha_local": "2025-11-07",
+  "intervalo": {
+    "anterior": 165,
+    "siguiente": 166,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1436069852543586424",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438244036996628491",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 165,
+        "fecha": "2025-11-06",
+        "inicio_referencia_utc": "2025-11-06T19:08:37+00:00",
+        "fin_estimado_utc": "2025-11-06T22:46:55+00:00",
+        "duracion_video_segundos": 13098,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1436069852543586424"
+      },
+      {
+        "capitulo": 166,
+        "fecha": "2025-11-12",
+        "inicio_referencia_utc": "2025-11-12T19:07:55+00:00",
+        "fin_estimado_utc": "2025-11-12T22:08:14+00:00",
+        "duracion_video_segundos": 10819,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438244036996628491"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1436393525649346621",
+      "fecha_utc": "2025-11-07T16:35:03.416000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "guxi:\n**estaba adentrandose en aquel lugar junto con seraphina en busca del taller archivolt acompañado de r3 llama a aquella puerta**\nAbre frankenvolt\n<@214405113677217793> <@408026114548695061>",
+      "mensaje_sha256": "aefbdaaf9dd7eb8686ea34f3e3a01b6a9f1c61557342cc640352cef340d3c369",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1436393525649346621",
+      "texto_sha256": "287a0733eabb1bee11a9a5dc82ba7b0eca584424b476a791787246ec070b4d15",
+      "adjuntos": []
+    },
+    {
+      "id": "1436397346857681018",
+      "fecha_utc": "2025-11-07T16:50:14.463000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "**Las miradas se posan en vosotros. Las calles de los barrios bajos no son lugar para gente vestida sin arapos y desaliñados. Notáis incluso como algunos indigentes, os siguen a cierta distancia durante un largo rato... Pero también os dais cuenta que aparecen algunos Shinobis con la marca de Los Cuchillas Negras interceptando a esos malechores que os siguen. Parece que los ojos de Thiary os observan y os protegen... O eso parece.**\n\nViktor: **Al llegar a la puerta y tocar en ella en lo de lo que era Archivolt Industries, os podéis dar cuenta que el lugar sigue aún un tanto destartalado. Parece que los arreglos después de los sucesos del Portal, aún no han acabado** Si? ¿Quien es? **Grita desde el interior sin abrir**",
+      "mensaje_sha256": "fe8b8a3a390a2a97093b1f819b3b177babef844b3de04cefc24052dce8d4c617",
+      "tipo_discord": 19,
+      "referencia": "1436393525649346621",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1436397346857681018",
+      "texto_sha256": "bde554fb7d461be40ee4ccfc2e40d19fe411e04f5561221352d50479948751ba",
+      "adjuntos": []
+    },
+    {
+      "id": "1436398087898660885",
+      "fecha_utc": "2025-11-07T16:53:11.141000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "guxi:\nVengo de parte de archi \n**le ofrece la ultima voluntad de archi**\nTengo que terminar lo que el hizo y me gustaria que me ayudaras",
+      "mensaje_sha256": "53640ed638be1482ae66bdbeb9940e2269ba1c48454f067b617ccc87e5ca4ddd",
+      "tipo_discord": 19,
+      "referencia": "1436397346857681018",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1436398087898660885",
+      "texto_sha256": "052f76ff6c74b0f98206e3683475f3f654a5506d7cae1eab4a3469fab4f56b47",
+      "adjuntos": []
+    },
+    {
+      "id": "1436398639428796446",
+      "fecha_utc": "2025-11-07T16:55:22.636000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "Viktor: ¿Archi? Ese desgraciado... ¡Mira lo que le ha hecho a mi taller! **Dice desde el interior sin abrir la puerta** Se metió con criaturas demoníacas y lo destrozo todo... Y encima va y luego desaparece... Como lo vea....",
+      "mensaje_sha256": "2164ce21ba1b4c30e90af16c20a2380074846fc0033640152bf3e3bd834b24a5",
+      "tipo_discord": 19,
+      "referencia": "1436398087898660885",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1436398639428796446",
+      "texto_sha256": "db44dad79ff62c1ca1b8dae72f6737df9956490f881bdde3b390ef21032fbb88",
+      "adjuntos": []
+    },
+    {
+      "id": "1436401927096238080",
+      "fecha_utc": "2025-11-07T17:08:26.477000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": "2025-11-07T17:08:41.651000+00:00",
+      "texto": "Seraphina:\nYa no... Ya no lo podrás ver de nuevo \n\n**Desvíe la mirada tratando de no llorar de nuevo mientras apretaba los puños**\n\nDejó a Guxi a cargo de unas armaduras y en verdad necesitamos tu ayuda para lograrlo, también estoy aquí para ayudar con lo que pueda del taller, no quiero quedarme de brazos cruzados",
+      "mensaje_sha256": "1a50974880f53c64e4acc2861252c846f031ff2b619d3f0e0fbccdd5b6039c3c",
+      "tipo_discord": 19,
+      "referencia": "1436398639428796446",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1436401927096238080",
+      "texto_sha256": "be672c243be71dcbb4d4e3ec4200e10dfea8b7cbc738d8429b490323f6a983d1",
+      "adjuntos": []
+    },
+    {
+      "id": "1436410660505260104",
+      "fecha_utc": "2025-11-07T17:43:08.684000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "Viktor: **El hombre abre la puerta de golpe malhumorado** Ah, se va vuelto a escapar ese vil timador eh... Y como no... Ha dejado al cargo de sus cosas a otro... Eso hacia con los encargos que recibíamos **Levanta las manos haciendo una burla** Don Vikor, haga usted esto que yo tengo lío con los Cazadores decía siempre... Ja!",
+      "mensaje_sha256": "0b6b5c8bbaba419b9a71ffa01bfa5eeec6712f6dda24b785f45d4dfc44d1a737",
+      "tipo_discord": 19,
+      "referencia": "1436401927096238080",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1436410660505260104",
+      "texto_sha256": "44867f8c326c4f50343373840c52b1f5fe4542d8434701cad6f7e2b28393cdb1",
+      "adjuntos": []
+    },
+    {
+      "id": "1436415695964344360",
+      "fecha_utc": "2025-11-07T18:03:09.231000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "guxi:\nTipico del maestro eso seguro \nPero le necesitamos el me dejo su taller para terminar sus armaduras pero esto es un trabajo de dos si puedo hacer algo para convencerlo de que nos ayude digamelo",
+      "mensaje_sha256": "5f959faed6a51c37107164142866a49001796d0289003ec469891c14c3818693",
+      "tipo_discord": 19,
+      "referencia": "1436410660505260104",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1436415695964344360",
+      "texto_sha256": "09b8f2d057b97ba1c4a8b333360cf725226fbd7a11c846129357be17300fdab4",
+      "adjuntos": []
+    },
+    {
+      "id": "1436416413811081269",
+      "fecha_utc": "2025-11-07T18:06:00.379000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "Viktor: Si las Armaduras... Eso decía él. Se pasaba ahí abajo en su taller haciendo esas armaduras **Dice colocándose las gafas bien** Pero dudo que hiciera algo, ya visteis lo que construyó ahí abajo.... Y ahora está todo hecho un desastre... Llevo semanas arreglandolo y nadie a venido a ayudar...",
+      "mensaje_sha256": "c95e2e6a404f73078afcd804708a46efc76dd5d4a3964fde1c06f21e9d7a36b0",
+      "tipo_discord": 19,
+      "referencia": "1436415695964344360",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1436416413811081269",
+      "texto_sha256": "29083a2e017fbfa71336d01a8cc0ac378d1ef0457b9dfcc3c3a246374d3ad198",
+      "adjuntos": []
+    },
+    {
+      "id": "1436416872588251156",
+      "fecha_utc": "2025-11-07T18:07:49.760000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "guxi:\nPara eso estoy aqui para coger su testigo le prometo a ayudar a reconstruir su taller y hablare con la shogun para compensarle en la medida de lo posible",
+      "mensaje_sha256": "b9e12e3a03c7f202f15572c3eba9deb585c89fcaeba0f1b994e35c7909a28fac",
+      "tipo_discord": 19,
+      "referencia": "1436416413811081269",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1436416872588251156",
+      "texto_sha256": "773fee26891f9aea42e53fa1a1a40fce163d46660f1c314ef4c05329b5b188f3",
+      "adjuntos": []
+    },
+    {
+      "id": "1436418426301321338",
+      "fecha_utc": "2025-11-07T18:14:00.194000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "Viktor: ¿La Shogun? **Te mira algo nervioso** ¿El Shogunato reconstruirá mi taller?",
+      "mensaje_sha256": "d945499778321d6f9b31ba17a500cc55526ba6179be96f1d4f4bc1ef8757c3ed",
+      "tipo_discord": 19,
+      "referencia": "1436416872588251156",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1436418426301321338",
+      "texto_sha256": "d9ca8b754f838cba70e96bee2db93fa16b5aad732a3baea02f64bc621907d31f",
+      "adjuntos": []
+    },
+    {
+      "id": "1436418619805405185",
+      "fecha_utc": "2025-11-07T18:14:46.329000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "guxi:\nHare todo lo posible pero el tiempo corre",
+      "mensaje_sha256": "f48298da6e8d8b6cb600437bd026f32ffb7bbc40986358901d9028c14c7697d8",
+      "tipo_discord": 19,
+      "referencia": "1436418426301321338",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1436418619805405185",
+      "texto_sha256": "4efd1424cadfb36ef861aa465c253d1b6c93977727215f9f86fb061e9e28c50e",
+      "adjuntos": []
+    },
+    {
+      "id": "1436419302529171517",
+      "fecha_utc": "2025-11-07T18:17:29.103000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "Viktor: Oh... bueno... si... claro... si el Shogunato reconstuye mi taller... **Lo ves algo mas propenso a ayudar, parece ser que la mención de que los líderes le hagan un taller mejor le parece interesante** Si es asi... ¿Y podría mejorar mi taller?",
+      "mensaje_sha256": "79feb477faccc9672d018e8a996eb36d610adc51cccaa14449410b014d26351a",
+      "tipo_discord": 19,
+      "referencia": "1436418619805405185",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1436419302529171517",
+      "texto_sha256": "5693f47b0d8fee9e3951cd037afdd99afea7fccb594b69853b211d1b7fc9a71f",
+      "adjuntos": []
+    },
+    {
+      "id": "1436419606796304524",
+      "fecha_utc": "2025-11-07T18:18:41.646000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "guxi:\nCuando termine con las armaduras me encargare personalmente de que quede mejor que antes por cierto no me presente\nmi nombre es guxi un placer viktor",
+      "mensaje_sha256": "5f58018e963c3341d63ea2ed941b926f1be7a8bde2719478ae786b84361ecc1f",
+      "tipo_discord": 19,
+      "referencia": "1436419302529171517",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1436419606796304524",
+      "texto_sha256": "409deda739f81f215889da6f5c28e6c80c901e4fd388be6099e8534a66d08a78",
+      "adjuntos": []
+    },
+    {
+      "id": "1436420059005194401",
+      "fecha_utc": "2025-11-07T18:20:29.461000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "Viktor: Bueno... si pretendes hacer algo en ese taller totalmente destruido te va a ser difícil... **Dice en un tono sincero** No se aguantan ni los hornos...",
+      "mensaje_sha256": "c90dfe5414564dd5c0258d11be2b54e8272ea2705eec009d1d8c8bb7bf49d03b",
+      "tipo_discord": 19,
+      "referencia": "1436419606796304524",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1436420059005194401",
+      "texto_sha256": "c4394a5c7da6d155efebdb3188e0115a350ce45cc282ec28ffacdc6f191762c6",
+      "adjuntos": []
+    },
+    {
+      "id": "1436420325381509161",
+      "fecha_utc": "2025-11-07T18:21:32.970000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "guxi: lo repararemos pero debemos darnos prisa \ntenemos un trato entonces?\n**le ofrece la mano**",
+      "mensaje_sha256": "2e3e0f3f698a6a24a898416c5bf60790b71c6c6ca41f20b3b479bd805b1a8955",
+      "tipo_discord": 19,
+      "referencia": "1436420059005194401",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1436420325381509161",
+      "texto_sha256": "2a49a9afdcab08726a2a3249fd1a2c458d992dc1bcb27306777884ef7b4af529",
+      "adjuntos": []
+    },
+    {
+      "id": "1436420523033624716",
+      "fecha_utc": "2025-11-07T18:22:20.094000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "Viktor: Si usted puede hablar en favor de la Shogun por supuesto señor... Guxi era? **Te da la mano**",
+      "mensaje_sha256": "7d968cba48022ca9c59379dee1cd9edef76ab1ad534a5f3dbc3ca6cac201015e",
+      "tipo_discord": 19,
+      "referencia": "1436420325381509161",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1436420523033624716",
+      "texto_sha256": "fce2878bbd8811888967ce2803f7d664d522747cfe55e1288f5ece2ebc66f61c",
+      "adjuntos": []
+    },
+    {
+      "id": "1436420764621475911",
+      "fecha_utc": "2025-11-07T18:23:17.693000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": null,
+      "texto": "guxi:\nno creo que ponga inconvenientes dada la situacion",
+      "mensaje_sha256": "7f08693233dc2724086aa564c496238d101661d0340be4f8be0408e19e0c9550",
+      "tipo_discord": 19,
+      "referencia": "1436420523033624716",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1436420764621475911",
+      "texto_sha256": "b1c585c87eb98992acc918a21c15da6db11508a8b4193feb0c1900693ecde8bb",
+      "adjuntos": []
+    },
+    {
+      "id": "1436421198308315308",
+      "fecha_utc": "2025-11-07T18:25:01.092000+00:00",
+      "fecha_local": "2025-11-07",
+      "editado_utc": "2025-11-07T18:44:17.084000+00:00",
+      "texto": "Viktor: Bien bien bien, pues cuando vengan a reparar esto tiene mi permiso para sus cosas señor Guxi **Dice el hombre volviendo al interior de su taller**\n\n🔴Fin de la escena 🔴",
+      "mensaje_sha256": "e75b47d379da1ca4fbc24eddef72eba79ca379e4e3b789428aa230a858f9bb64",
+      "tipo_discord": 19,
+      "referencia": "1436420764621475911",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1436421198308315308",
+      "texto_sha256": "7c3cbcfcdd8c91d443832fd3e3eb7e4691a23cdbce6a320bb53ad6011922572b",
+      "adjuntos": []
+    }
+  ]
+}

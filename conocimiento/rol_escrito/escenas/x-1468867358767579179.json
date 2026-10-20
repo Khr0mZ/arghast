@@ -1,0 +1,182 @@
+{
+  "id": "x-1468867358767579179",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1468515963455410250",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "El corcel sin cuadra",
+  "resumen": "Poncelot confunde el poblado con una corte y Merlucilla acaba en la jungla.",
+  "relato": "Sir Poncelot llega a la entrada del poblado y pierde de vista a sus acompañantes, absorto en lo que imagina una ciudad majestuosa. Confunde a un pirata ahorcado con un guardia disciplinado: el narrador aclara que el cadáver lleva un cartel según el cual miró mal a Happy Bonny. El gnomo se presenta ceremoniosamente y, al no obtener respuesta, entra con Merlucilla, el dinosaurio al que trata como un fiel corcel. Busca una cuadra y audiencia con el señor de la ciudad.\n\nUnas cuerdas de tender le parecen el cercado adecuado y toma una silla con ropa sucia por un mozo al que encarga el cuidado de su montura. Tras despedirse con un beso al animal, se marcha a admirar la arquitectura que solo él percibe así. Merlucilla sigue comiendo fruta y acaba saliendo del poblado para buscar más. En la maleza lo acecha Ione, todavía loba, que lo considera alimento. El cierre señala su muerte con una fruta rodando, un alarido y sangre. Poncelot ya se ha alejado y no presencia el destino de su montura.",
+  "participantes": [
+    "Sir Poncelot",
+    "Merlucilla",
+    "Ione"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1468873067441819708",
+      "afirmacion": "El supuesto guardia es un ahorcado con un cartel sobre Happy Bonny.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1468877355614470195",
+      "afirmacion": "Poncelot deja al dinosaurio en lo que cree una cuadra con mozo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1468882233128648852",
+      "afirmacion": "El narrador aclara que son cuerdas y ropa sucia; el dinosaurio sale del pueblo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1468972006782537810",
+      "afirmacion": "Ione observa al animal como presa y el texto anuncia su muerte.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1468972517527130283",
+      "afirmacion": "El alarido y la sangre cierran la captura de Merlucilla.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Nox es aquí un personaje de Xoltacan; no se fusiona con menciones al Nox de otras campañas o a sustancias con ese nombre.",
+    "Los pensamientos del prisionero son accesibles a Bling por la acción narrada; solo lo que verbaliza llega al resto del grupo.",
+    "Los datos de la Marina son declaraciones del cautivo: no se verifica el fuerte mediante visita ni se inventa un recuento de barcos.",
+    "No se valida un código legal de Parlamento fuera de lo que acuerdan los personajes.",
+    "La ciudad, el guardia y la cuadra vistos por Poncelot son interpretaciones expresamente desmentidas por el narrador.",
+    "La muerte de Merlucilla queda narrada para el lector, sin conocimiento automático del caballero."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-02-05T07:14:28.566000+00:00",
+  "fin_utc": "2026-02-05T14:12:20.368000+00:00",
+  "fecha_local": "2026-02-05",
+  "intervalo": {
+    "anterior": 3,
+    "siguiente": 4,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1468327704360390872",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1469044877005160624",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 3,
+        "fecha": "2026-02-03",
+        "inicio_referencia_utc": "2026-02-03T19:29:48+00:00",
+        "fin_estimado_utc": "2026-02-03T22:20:47+00:00",
+        "duracion_video_segundos": 10259,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1468327704360390872"
+      },
+      {
+        "capitulo": 4,
+        "fecha": "2026-02-05",
+        "inicio_referencia_utc": "2026-02-05T18:59:34+00:00",
+        "fin_estimado_utc": "2026-02-05T21:22:17+00:00",
+        "duracion_video_segundos": 8563,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1469044877005160624"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1468867358767579179",
+      "fecha_utc": "2026-02-05T07:14:28.566000+00:00",
+      "fecha_local": "2026-02-05",
+      "editado_utc": "2026-02-05T07:14:51.060000+00:00",
+      "texto": "Sir Poncelot \n\n**Tras llegar a la entrada del poblado pirata, Sir Poncelot se queda ensimismado con las vistas. Hasta el punto que pierde de vista a sus acompañantes.\n\nLo que era una empalizada cutre con agujeros por los que cabría un niño, el lo veía como una majestuoso muralla con alemanas y un portón elegante**\n\n- pardiez Merlucilla... Mira que maravilla. Seguro que dentro hay un pueblo la mar de bonito y un enorme castillo con decoraciones exquisitas...\n\n**El gnomo llegó a la puerta del poblado estirando de su \"elegante corcel\" y se quedó mirando a un pirata que había en la entrada**\n\n- disculpe mi buen señor guardia. Soy nuevo en el lugar y desearía acceder a su ciudad. Mi nombre es Sir Poncelot: caballero andante. Y este maravilloso corcel es Merlucilla, mi fiel amigo. Busco una cuadra donde poder dejar a mi amigo y pueda ser atendido como se merece y una audiencia con el señor de la ciudad para presentarle mis respetos.\n\n<@214405113677217793>",
+      "mensaje_sha256": "6df916039bc507ef8298e321e3dcca1b95bf846aaec019aad70c267b79796369",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468867358767579179",
+      "texto_sha256": "45eafe20aecd9dd720f2144606a6fbf05ee6b740f02322eb456b5e1d3cd41438",
+      "adjuntos": []
+    },
+    {
+      "id": "1468873067441819708",
+      "fecha_utc": "2026-02-05T07:37:09.620000+00:00",
+      "fecha_local": "2026-02-05",
+      "editado_utc": null,
+      "texto": "**Lo que crees que es un fornido Guardia de una ciudad, con su reluciente armadura y un porte rudo pero confiable, es en realidad un pirata colgado de una soga con un cartel en el pecho, que se sujeta con una daga y pone: \"Miró mal a Happy Bonny\".**",
+      "mensaje_sha256": "29cf21eb5815d275b8684597d38ac523499d148b0e876f0f4e5164d54bd666a0",
+      "tipo_discord": 19,
+      "referencia": "1468867358767579179",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468873067441819708",
+      "texto_sha256": "aad2b213eaaabba5cf63ad34be560dfdafd12b6c9b18e117ca6d14a18493a0b1",
+      "adjuntos": []
+    },
+    {
+      "id": "1468877355614470195",
+      "fecha_utc": "2026-02-05T07:54:12+00:00",
+      "fecha_local": "2026-02-05",
+      "editado_utc": "2026-02-05T07:54:41.416000+00:00",
+      "texto": "Sir Poncelot \n\n**Mira admirado al guardia**\n\n- por los bigotes de Cervantes... Esto si que es disciplina... Es uno de esos guardias que no puede moverse del puesto ni hablar con nadie durante su turno...\n\n**El gnomo le hace una reverencia exagerada**\n\n- mi buen señor, no le molesto en sus quehaceres. Dejaré a mi fiel caballo amarrado en el primer poste que vea y buscaré yo mismo a un mozo de cuadra para que se encargue de el. Tenga buen día.\n\n**El caballero entra por la entrada de la empalizada tirando del dinosaurio, aún mascando una fruta. Al entrar ve una vaya de una cabaña con un cubo al lado**\n\n- pero que ven mis ojos. Si aquí mismo hay una pequeña cuadra para mi fiel Merlucilla.\n\n**Ata al bicho y se fija que hay alguien sentado a un par de metros**\n\n- disculpe que le interrumpa. Usted debe ser el mozo de cuadras de por aquí. Quiero dejarle a cargo de mi fiel montura Merlucilla. Mi nombre es Sir Poncelot, caballero andante. Que no le falte de nada a este precioso animal: agua, forraje, cepillados... Yo me hago cargo de los costes.\n\n**Le da un beso en el hocico al reptil, le hace una reverencia a la figura sentada a su lado y procede a pasear por las calles en busca del \"castillo del señor\" mientras mira embobado la \"magnífica arquitectura\" de la \"ciudad\"... Os pueden parecer demasiadas comillas para un paseo, pero creedme que aún pueden haber más**",
+      "mensaje_sha256": "05d2c1116cd451e47a01e8b4559c3d39ae3c027846bf75df12b637cbbeb08767",
+      "tipo_discord": 19,
+      "referencia": "1468873067441819708",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468877355614470195",
+      "texto_sha256": "757de31a1c5e6bc900d5f2dfe8eb725803169a20899ff38aa69eb7ed4b2a1329",
+      "adjuntos": []
+    },
+    {
+      "id": "1468882233128648852",
+      "fecha_utc": "2026-02-05T08:13:34.890000+00:00",
+      "fecha_local": "2026-02-05",
+      "editado_utc": "2026-02-05T08:15:45.434000+00:00",
+      "texto": "**Lo que el gnomo ve como una valla de una cuadra, es unas simples cuerdas puestas de una palmera a otra para tender la ropa. Cerca, lo que veía como a un mozo de cuadra sentado, es una silla con un montón de ropa sucia.**\n\nDinosaurio: **El animal sigue masticando la fruta cuando el gnomo se marcha. Al cabo de un rato, cuando acaba de comer, se dirige hacia una palmera para coger otra fruta y seguir comiendo. Sigue así, hasta salir del poblado. Pero parece que algo le acecha entre la maleza de la jungla...**\n<@753394009153732689>",
+      "mensaje_sha256": "f23ab71c25efae21b721297186e4a2b7f8c462f4de3ef5e17a7cb778fcaaa13d",
+      "tipo_discord": 19,
+      "referencia": "1468877355614470195",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468882233128648852",
+      "texto_sha256": "7f2b81fd65e3477e63f34e91d864f290a3c3afc048182a7424f87c45e6ef5db2",
+      "adjuntos": []
+    },
+    {
+      "id": "1468882704287400000",
+      "fecha_utc": "2026-02-05T08:15:27.223000+00:00",
+      "fecha_local": "2026-02-05",
+      "editado_utc": null,
+      "texto": "🛡️ Sir Poncelot cambia de escena 🛡️",
+      "mensaje_sha256": "d3e82f43c3481439836ec636d2ea3ed376f5f62bf7efee940eb5618e88a8c0fa",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468882704287400000",
+      "texto_sha256": "8b45b4f4eb29ccfed38dbb0c21515bcc891a99461b4e0b9d0d53781c520c635a",
+      "adjuntos": []
+    },
+    {
+      "id": "1468972006782537810",
+      "fecha_utc": "2026-02-05T14:10:18.597000+00:00",
+      "fecha_local": "2026-02-05",
+      "editado_utc": null,
+      "texto": "Ione: **Siendo aun loba mira al suculento y no muy listo animal... Esto llenara su estomago** **RIP MERLUCILLA siempre te recordaremos**",
+      "mensaje_sha256": "87ea0da8fe78f73b251095ef6cf564c3b8310b564df46963a8253976f26fe641",
+      "tipo_discord": 19,
+      "referencia": "1468882233128648852",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468972006782537810",
+      "texto_sha256": "d6bbae77a17a4a0f1f14935f5613f7b5e4b1aa6e8ad92560a7899a5578f3c417",
+      "adjuntos": []
+    },
+    {
+      "id": "1468972517527130283",
+      "fecha_utc": "2026-02-05T14:12:20.368000+00:00",
+      "fecha_local": "2026-02-05",
+      "editado_utc": null,
+      "texto": "**Podríamos ver como el animal abre mucho los ojos. Luego la pieza de fruta rueda por el suelo y se detiene en el momento que se escucha un alarido y un chorro de sangre mancha la fruta**\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "5f58fa9947edd6c24d01113f769dd73ef3b92c3209e0a91fc81581e340a31850",
+      "tipo_discord": 19,
+      "referencia": "1468972006782537810",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468972517527130283",
+      "texto_sha256": "7ff4567e05d708c7589776b1e3c41e7f2a87b8fb2b6fd1d2e924d6f3ff9f76a1",
+      "adjuntos": []
+    }
+  ]
+}

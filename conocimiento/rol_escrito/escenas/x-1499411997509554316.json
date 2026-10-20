@@ -1,0 +1,175 @@
+{
+  "id": "x-1499411997509554316",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1499340631514943589",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "Diez monedas por información",
+  "resumen": "Liz revela la habitación de los hermanos.",
+  "relato": "Nox entra al local de Liz y deja cinco monedas para preguntar por los hermanos pálidos. Ella describe el carácter de ambos, admite que ignora por qué llegaron y dice que salen a la jungla durante días. Sugiere que tal vez buscan tesoros, una conjetura que no satisface al pirata.\n\nÉl añade otras cinco monedas y pide saber en qué habitación se alojan. Liz afirma proteger la privacidad de sus clientes mientras señala discretamente la número dos y recoge el dinero. Nox conoce así los aposentos, pero todavía no entra. La compra de información sí consume diez monedas, sin que el precio pruebe que todo lo dicho por la casera sea conocimiento de primera mano.",
+  "participantes": [
+    "Nox",
+    "Liz"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1499411997509554316",
+      "afirmacion": "Nox deja cinco monedas para preguntar por los elfos.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1499415776556224673",
+      "afirmacion": "Liz admite desconocer su objetivo y dice que suelen ir a la jungla.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1499416605493301350",
+      "afirmacion": "Nox paga otras cinco monedas para localizar la habitación.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1499417515455942686",
+      "afirmacion": "Liz señala la habitación dos y recoge las monedas.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La sangre ajena no prueba vampirismo, un animal concreto devorado ni quién fue herido.",
+    "El recuerdo del cofre hace plausible una pregunta de origen, pero no identifica al bebé de la visión de Citlali con Jim.",
+    "El degüello recordado por Tryel queda privado; no se traslada al conocimiento de Nox o Liz.",
+    "Titania es tratamiento de Poncelot para Citlali en esta conversación, no prueba de que sea una entidad feérica.",
+    "El futuro de la piedra, el miedo atribuido a Bonny, el amuleto y el registro siguen como interpretación o planes."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-04-30T14:07:57.934000+00:00",
+  "fin_utc": "2026-04-30T14:31:42.802000+00:00",
+  "fecha_local": "2026-04-30",
+  "intervalo": {
+    "anterior": 28,
+    "siguiente": 29,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1499123028947370107",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1502008201464250389",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 28,
+        "fecha": "2026-04-29",
+        "inicio_referencia_utc": "2026-04-29T18:59:27+00:00",
+        "fin_estimado_utc": "2026-04-29T21:04:36+00:00",
+        "duracion_video_segundos": 7509,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1499123028947370107"
+      },
+      {
+        "capitulo": 29,
+        "fecha": "2026-05-07",
+        "inicio_referencia_utc": "2026-05-07T18:04:02+00:00",
+        "fin_estimado_utc": "2026-05-07T20:45:23+00:00",
+        "duracion_video_segundos": 9681,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1502008201464250389"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1499411997509554316",
+      "fecha_utc": "2026-04-30T14:07:57.934000+00:00",
+      "fecha_local": "2026-04-30",
+      "editado_utc": "2026-04-30T14:08:08.982000+00:00",
+      "texto": "Nox : ey Liz  <@214405113677217793> como estas cariño . El negocio bien? . \n\nOye me podrías hacer un favor .. \n**deja sutilmente 5 monedas en el mostrador ** \n\nEsos dos ... los elfos . Los hermanos . Que me podrías decir de ellos ?",
+      "mensaje_sha256": "e337b7c38c6a0cab941e9478585892e4a684c5e03e26aa54ee5d29acbda52153",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1499411997509554316",
+      "texto_sha256": "ab0c590c40aaa47a627841a57102c8a7b7a1ce829909d4db0be84a59af1ccc50",
+      "adjuntos": []
+    },
+    {
+      "id": "1499412701531734087",
+      "fecha_utc": "2026-04-30T14:10:45.786000+00:00",
+      "fecha_local": "2026-04-30",
+      "editado_utc": null,
+      "texto": "Liz: ¿Los pálidos esos? **Mira las cinco monedas y te mira con una sonrisa** Bueno, se varias cosas. ¿Que te gustaría saber?",
+      "mensaje_sha256": "53090762f465dbb78ce02c0c5f9cc530f567dec84d6ec5d90556f1857c634ed3",
+      "tipo_discord": 19,
+      "referencia": "1499411997509554316",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1499412701531734087",
+      "texto_sha256": "6c250dc57789da054889317667f47ee1d0c69d577dc5dbe3a627b1e8e10eed95",
+      "adjuntos": []
+    },
+    {
+      "id": "1499414166329495572",
+      "fecha_utc": "2026-04-30T14:16:35.021000+00:00",
+      "fecha_local": "2026-04-30",
+      "editado_utc": null,
+      "texto": "Nox: ya sabes .. me gusta saber de quien estamos rodeados .. motivos tendrán los propios como todos para venir a este apestoso y glorioso pueblo . \n\nLlegaron hace mucho ?",
+      "mensaje_sha256": "1c9ef936cc29ac11469ea651380acf411a6f93c4575091994c26a279e2f1b5a0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1499414166329495572",
+      "texto_sha256": "3e03424a7232cf3a75bf137e327cfe7c913cbd191bc62db2530d04981d9fe081",
+      "adjuntos": []
+    },
+    {
+      "id": "1499415776556224673",
+      "fecha_utc": "2026-04-30T14:22:58.929000+00:00",
+      "fecha_local": "2026-04-30",
+      "editado_utc": null,
+      "texto": "Liz: Pues la verdad no estoy muy segura. El chico es un borde que siempre gruñe por todo, pero es mono **Hace una sonrisa traviesa** La chica es mucho más... intensa... La verdad es que no sé qué hacen aquí, pero los veo salir a la jungla, a veces incluso tardan días en volver. Algo andarán buscando, supongo que tesoros, como todos los de aquí, no? **Levanta los hombros** ¿Te preocupan? Nunca había visto al pirata Nox \"preocupado\" ja ja ja",
+      "mensaje_sha256": "2481a7bc5be044c96fa1f95b0ddead8cec495afd826dfcc70a8d4591ff510663",
+      "tipo_discord": 19,
+      "referencia": "1499414166329495572",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1499415776556224673",
+      "texto_sha256": "90311bf29a7533e57929d089f795dcb6a68b6735640afc9c83352f9a740cc9dc",
+      "adjuntos": []
+    },
+    {
+      "id": "1499416605493301350",
+      "fecha_utc": "2026-04-30T14:26:16.563000+00:00",
+      "fecha_local": "2026-04-30",
+      "editado_utc": "2026-04-30T14:26:57.340000+00:00",
+      "texto": "Nox : no querida no diria preocupación pero si intriga . \nSe bien cuando alguien es estupido y cuando se lo hace . \nY no tienen pinta de cazatesoros . \n\n*y con las cosas que están pasando últimamente mejor estar bien precavido de quien busca que en esta maldita isla* \n\nGracias Liz , me podrias decir cuales son sus aposentos ? Tengo entendido que se alojan aqui \n**deja otras 5 monedas ** \n(Me las apunto las 10 para quitármelas)",
+      "mensaje_sha256": "f6bd34ad693fd41fa054197d99fee4ffc722f729a3f1ec736c11eb3110eea469",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1499416605493301350",
+      "texto_sha256": "a5b91c793a9ff0c619b93dda09097809c6bb1b719a6264d6377c9dd84ada4b7f",
+      "adjuntos": []
+    },
+    {
+      "id": "1499417515455942686",
+      "fecha_utc": "2026-04-30T14:29:53.515000+00:00",
+      "fecha_local": "2026-04-30",
+      "editado_utc": null,
+      "texto": "Liz: Oh! Vaya... Pero eso sería una negligencia como buena casera. No puedo comprometer la privacidad de mis clientes que se hospedan aquí... **Te señala con la cabeza la número dos mientras recoge las otras monedas** Tengo una reputación",
+      "mensaje_sha256": "f38c0b56d9d7641abd053c658c55a5bf00be9e0518af1aaaf85f7368d740ed0b",
+      "tipo_discord": 19,
+      "referencia": "1499416605493301350",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1499417515455942686",
+      "texto_sha256": "9b9c421f9be487844cdd2a1da432769b27888c658f1cb4d59ee6694913a95e23",
+      "adjuntos": []
+    },
+    {
+      "id": "1499417973838975177",
+      "fecha_utc": "2026-04-30T14:31:42.802000+00:00",
+      "fecha_local": "2026-04-30",
+      "editado_utc": null,
+      "texto": "Nox: por supuesto querida , que indecoroso por mi parte . Mea culpa \n\n**mira hacia las habitaciones **",
+      "mensaje_sha256": "34c9005772fc467d67edba861066e8b2421a897b39bb6f5e70602a9912e5dfad",
+      "tipo_discord": 19,
+      "referencia": "1499417515455942686",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1499417973838975177",
+      "texto_sha256": "6d1e560aaae3f8540f2e88c44ca3600e47eeeb0fb6085e16033a7ac6f56e9982",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "id": "x-1484138901583953951",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1484138901583953951",
+  "hilo_id": "1482149664131383316",
+  "hilo_nombre": "Cuicapalli - La villa tranquila",
+  "titulo": "Zippo saca a Poncelot de las fauces del espinosauro",
+  "resumen": "El gnomo intenta contratar a la salamandra con pan y queso, pero termina huyendo sobre ella de un dinosaurio.",
+  "relato": "Sir Poncelot recorre Bala'an K'aax buscando a Luna y a la señora Mamá, a quienes considera una nieta y una abuela perdidas. El narrador sitúa esta jungla entre Uriki Peten y Otoch K'aax. Tras días entre vegetación, el gnomo se sienta en un claro para comer pan y queso.\n\nLa criatura presentada con solemnidad infernal resulta ser Zippo, una salamandra de fuego con gorro de explorador. Se lleva su almuerzo y lo devora chamuscado. Poncelot la amenaza y luego cree reconocer a la cría de dragón cuya vida Nox le pidió respetar. Baja la lanza y ofrece una tregua si lo ayuda a encontrar a las mujeres. Zippo no entiende sus palabras y solo espera más comida.\n\nMientras el caballero agita otro trozo, la salamandra mira algo detrás de él. Las gotas que le caen sobre la calva son la saliva de un enorme espinosauro. Zippo se desliza bajo sus piernas y lo lleva a toda velocidad, quemándole un poco las posaderas, para escapar de la persecución.\n\nPoncelot protesta porque desea domar al dinosaurio como montura digna de un caballero. No lo consigue ni encuentran a las mujeres en estos mensajes.",
+  "participantes": [
+    "Sir Poncelot",
+    "Zippo"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1484138901583953951",
+      "afirmacion": "El narrador sitúa la búsqueda en Bala'an K'aax y delimita las junglas vecinas.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1484148247600824471",
+      "afirmacion": "Zippo es presentada como salamandra de fuego con gorro de explorador.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1484154289147478118",
+      "afirmacion": "La salamandra no comprende la propuesta y espera más comida.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1484171165663760422",
+      "afirmacion": "Zippo lleva al gnomo encima mientras escapan de un espinosauro.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Retrato de Zippo inspeccionado.",
+    "Cría de dragón es la clasificación de Poncelot; el narrador dice salamandra.",
+    "Abuela y nieta son su interpretación de Citlali y Luna, sin parentesco acreditado.",
+    "La persecución no concluye con doma ni combate."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-03-19T10:38:08.105000+00:00",
+  "fin_utc": "2026-03-19T16:47:40.484000+00:00",
+  "fecha_local": "2026-03-19",
+  "intervalo": {
+    "anterior": 17,
+    "siguiente": 18,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1483903081971187732",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1484269313027342427",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 17,
+        "fecha": "2026-03-18",
+        "inicio_referencia_utc": "2026-03-18T19:00:44+00:00",
+        "fin_estimado_utc": "2026-03-18T21:59:05+00:00",
+        "duracion_video_segundos": 10701,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1483903081971187732"
+      },
+      {
+        "capitulo": 18,
+        "fecha": "2026-03-19",
+        "inicio_referencia_utc": "2026-03-19T19:16:02+00:00",
+        "fin_estimado_utc": "2026-03-19T22:01:31+00:00",
+        "duracion_video_segundos": 9929,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1484269313027342427"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1484138901583953951",
+      "fecha_utc": "2026-03-19T10:38:08.105000+00:00",
+      "fecha_local": "2026-03-19",
+      "editado_utc": null,
+      "texto": "**EN LA JUNGLA CERCA DE CUICAPALLI**\n\n**La jungla de Bala'an K'aax es el territorio selvático más al norte de Xoltacán, delimitado por las pantanosas tierras de Uriki Peten al norte y por la jungla de Otoch K'aax al sur. Los caminos están llenos de peligros, y grandes criaturas de inmenso poder acechan a los pobres viajeros que no estén experimentados en las junglas de Xoltacán.**\n**En uno de esos caminos, podríamos ver a nuestro caballeresco gnomo, Sir Poncelot, en busca de la pobre Luna y, según él, de la señora Mamá, que se perdieron hace unos días de camino a Cuicapalli. Paseando mientras silba, nuestro querido gnomo no se da cuenta de que, cerca de él, entre la espesura de la jungla, una poderosa criatura salida del mismísimo infierno lo acecha…**\n<@220602485977382912>",
+      "mensaje_sha256": "08f56acdf9adc4b79bb247fdb88fe0156c2b8817bdcdb32d20778e999c13d39f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1484138901583953951",
+      "texto_sha256": "fdd1649d7076e31585590c5e949d28d6d0cb7d3ac78484fb74e1948be70db347",
+      "adjuntos": []
+    },
+    {
+      "id": "1484141131024433223",
+      "fecha_utc": "2026-03-19T10:46:59.645000+00:00",
+      "fecha_local": "2026-03-19",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Se podría ver una calva grisácea y una lanza asomar entre los matorrales, avanzando al son de un silbido alegre. Los arbustos y las hojas se mueven a su paso, sin nada de sigilo, mientras esa calva brillante se movía en direcciones aleatorias... Hasta que al final consigue salir a un pequeño claro donde puede respirar**\n\n- por lo más sagrado! Al fin encuentro un sendero despejado! \n\n**Se le vería lleno de barro, hojas pegadas y algún que otro bicho estampado en su armadura**\n\n- creo que este humilde caballero se ha ganado un momento de descanso tras varios días investigando estás espesas selvas! Por los bigotes de Cervantes... La fauna de la zona es cuanto menos peculiar... No imaginaba ver animales tan normales como canes, gallinaceos y algún que otro minino... Aunque todos de tamaño bastante peculiar...\n\n**Clava la lanza en el suelo, planta el culo y de su mochila saca un mantel que extiende elegantemente, para luego colocar un vaso de madera y un paquete de papel del que desenvuelve una ración de pan y queso**\n\n- un tentempié rápido y seguiremos buscando a esa abuela y su nieta extraviadas... Ñam Ñam... Bon apetit...",
+      "mensaje_sha256": "2d92f826a9bc14c31118e39675827d4f0c5dc2c4ceb394305ae31200cbc451c1",
+      "tipo_discord": 19,
+      "referencia": "1484138901583953951",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1484141131024433223",
+      "texto_sha256": "add54bc8c7247ee2810e9cc2a4b6fa5de8e5850b6f831c947fd89d56f10debfc",
+      "adjuntos": []
+    },
+    {
+      "id": "1484142541640306718",
+      "fecha_utc": "2026-03-19T10:52:35.962000+00:00",
+      "fecha_local": "2026-03-19",
+      "editado_utc": "2026-03-19T10:54:12.392000+00:00",
+      "texto": "???: **La criatura infernal observa a su presa: ese pequeño gnomo que prepara una mesa improvisada para tomarse un tentempié. Desde la oscuridad de la maleza, la bestia se relame, atenta al momento idóneo para salir de su escondrijo y lanzarse sobre él.**\n**Y es en ese momento, cuando el gomo saca ese trozo de pan y ese queso, cuando el ser salido de los siete infieron sale de un salto y ¡ZAS! parece que ha mordido a su presa...**\n**Si, su presa, ese trozo de pan con queso.**\n**En ese momento puedes ver a esa criatura de fuego y llamas, esa criatura infernal, esa criatura que lleva un gorrito y te saluda con la manita cuando la miras mientras se come tu comida**",
+      "mensaje_sha256": "264978ad2524d503d4d86af0612910bea4d76a075bd0d5ab9f5469e748e0d8db",
+      "tipo_discord": 19,
+      "referencia": "1484141131024433223",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1484142541640306718",
+      "texto_sha256": "7b9bb00ea304a4c295300f245921c35658eb9be3f6c0a4f07ad3c854f68ba2ca",
+      "adjuntos": []
+    },
+    {
+      "id": "1484144897626738731",
+      "fecha_utc": "2026-03-19T11:01:57.673000+00:00",
+      "fecha_local": "2026-03-19",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Mientras se ataba al cuello una servilleta como mandaban los cánones, ve como una sombra salida de la nada pasa corriendo y se lleva la comida del mantel. Totalmente alarmado, da un salto para ponerse pie y coge torpemente su lanza apuntando al ladrón**\n\n- tú! Bribón indeseable! Suelta esa camisa ahora mismo si no quieres que te ensarte con mi lanza! Un trozo de queso no es motivo suficiente para que te convierta en otra muesca en mi escudo junto a las de las incontables cruaturas infernales que he dado muerte!\n\n**Mira fijamente al bicho mientras mstica el queso y saluda**\n\n- tú simulada simpatía no encaja con tu aspecto terrorífico ni tu tamaño desproporcionado! Nunca podrás engañar a este noble y valiente caballero!!!",
+      "mensaje_sha256": "4e2f6e87602a21a29d9540986f6ab2728ce75b84788fa07dc1a449f20f44e926",
+      "tipo_discord": 19,
+      "referencia": "1484142541640306718",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1484144897626738731",
+      "texto_sha256": "3d52737874e38c5a0bb921d837688a5fd9ed90b57226702dddb010660cc4d9f2",
+      "adjuntos": []
+    },
+    {
+      "id": "1484148247600824471",
+      "fecha_utc": "2026-03-19T11:15:16.369000+00:00",
+      "fecha_local": "2026-03-19",
+      "editado_utc": "2026-03-19T11:15:33.937000+00:00",
+      "texto": "Zippo: **Ves a la salamandra de fuego comiendose el trozo de pan y el queso que literalmente se chamuscan antes de llegar a su boca y desaparecer en ella. ¡ÑAM! Despues del bocado, ladea la cabeza y te vuelve a saludar y ves que lleva un gorrito de explorador**",
+      "mensaje_sha256": "20a6d40703e04b8a12b6085ed529211fce3b9f620ee990d71e5fa9d40532246e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1484148247600824471",
+      "texto_sha256": "0f18981d501bb0bb04cb49a204d2be5b8c20766520b5f315957c1d998cd46986",
+      "adjuntos": []
+    },
+    {
+      "id": "1484148522616885400",
+      "fecha_utc": "2026-03-19T11:16:21.938000+00:00",
+      "fecha_local": "2026-03-19",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "8a4ac8f4faa9308dc621dbbb205d055a6d83bc752e3d909bd342da5163844bc5",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1484148522616885400",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1484148522281336983",
+          "nombre": "Gemini_Generated_Image_npasovnpasovnpas.png",
+          "tipo": "image/png",
+          "archivo": "adjuntos/1484148522281336983.png",
+          "url": "rol_escrito/adjuntos/1484148522281336983.png",
+          "bytes": 1589519,
+          "sha256": "698c9e41732bbab777c68de9104c1748509ab0d130b8c32665a8f4e661e0d0f8"
+        }
+      ]
+    },
+    {
+      "id": "1484148641928183890",
+      "fecha_utc": "2026-03-19T11:16:50.384000+00:00",
+      "fecha_local": "2026-03-19",
+      "editado_utc": null,
+      "texto": "<@220602485977382912>",
+      "mensaje_sha256": "867c4858e5355dfa2a45caaf2d0a5c7f53c0e1220d795d76eb60be83718e7055",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1484148641928183890",
+      "texto_sha256": "0c9f16ea9555d0e42c6ade8b087422b1996288499187cee194eee13f579322de",
+      "adjuntos": []
+    },
+    {
+      "id": "1484153417721970810",
+      "fecha_utc": "2026-03-19T11:35:49.022000+00:00",
+      "fecha_local": "2026-03-19",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Arquea una ceja viendo. La criatura y baja la lanza lentamente**\n\n- vaya vaya... Si es aquella cría de dragón que el joven Nox me pidió que no diera muerte... Tienes suerte de que ese buen escudero intercediera por ti... Si no ahora estarías ensartada en mi lanza...\n\n**Observa la pasimonia del bicho y se mesa la barba**\n\n- podría sacar provecho de esta situación... Con casi toda certeza has nacido en esta isla... Podrías ayudarme a encontrar a una abuela y una niña.perdidas... y yo podría perdonarte la vida por hoy... Que dices vil sierpe? Hacemos una tregua?",
+      "mensaje_sha256": "7b5ed9bf05cee35eff72ccc1d0abf8f616fbce6207fdf6305cd21244ec5f5165",
+      "tipo_discord": 19,
+      "referencia": "1484148247600824471",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1484153417721970810",
+      "texto_sha256": "9994bcec7bafc87cca60b7f9b628fde9b97e90b3969aae56e70c5ca3721a8bd8",
+      "adjuntos": []
+    },
+    {
+      "id": "1484154289147478118",
+      "fecha_utc": "2026-03-19T11:39:16.786000+00:00",
+      "fecha_local": "2026-03-19",
+      "editado_utc": null,
+      "texto": "Zippo: **Te mira sin entender ni una sola palabra de lo que le dices; incluso parpadea, pero con cada ojo a destiempo. Suelta un tremendo eructo al terminar de zamparse tu pan y tu queso, y luego se sienta delante de ti como un perrito moviendo la cola. Lo más probable es que quiera más comida.**",
+      "mensaje_sha256": "2f5a4136dc3266c0852b35532282d7d5be91b4d35c1fd7d05671d78499238613",
+      "tipo_discord": 19,
+      "referencia": "1484153417721970810",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1484154289147478118",
+      "texto_sha256": "bce0ef8c33eb47e5a182bea07f8faff0f458fec39ece03071bda47385a006275",
+      "adjuntos": []
+    },
+    {
+      "id": "1484167840868339743",
+      "fecha_utc": "2026-03-19T12:33:07.768000+00:00",
+      "fecha_local": "2026-03-19",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Mira fijamente al lagarto**\n\n- veo que eres un buen negociador... En fin... Me queda esto...\n\n**Saca otro chico de pan y se lo enseña a Zippo. Le sigue hablando lentamente**\n\n- tú me ayudas a encontrar a esas pobres aldeanas extraviadas y yo te doy más pan y amas queso... Guíame y yo te sigo\n\n**Mientras le habla va agitando el pan para llamar si atención**",
+      "mensaje_sha256": "9e86f051e81c7ef6b77443380d19b915819d345370801f54dfc491e66da84e82",
+      "tipo_discord": 19,
+      "referencia": "1484154289147478118",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1484167840868339743",
+      "texto_sha256": "147b0a401900d33235ce175907cc345cf40f65b088e0ec7eeae4e1bc2ecc7229",
+      "adjuntos": []
+    },
+    {
+      "id": "1484168616479031297",
+      "fecha_utc": "2026-03-19T12:36:12.688000+00:00",
+      "fecha_local": "2026-03-19",
+      "editado_utc": null,
+      "texto": "Zippo: **La lagartija mira fijamente el queso y lo sigue con la mirada. Mientras le cuentas el trato, notas que de repente se fija en algo detrás tuyo y pone una cara de confusión**\n**En ese momento, Sir Poncelot, notas como si cayeran grandes gotarrones encima de tu calva... Y no parece que esté lloviendo...**",
+      "mensaje_sha256": "6d315ea39b3f5cab1994d32662bb0d82f685382fda50ee4d1591e88ae1d9392d",
+      "tipo_discord": 19,
+      "referencia": "1484167840868339743",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1484168616479031297",
+      "texto_sha256": "93c7d5502f000764ce2eba942cee56ffb7abf42658dc276010695c2d288e4928",
+      "adjuntos": []
+    },
+    {
+      "id": "1484169547551346751",
+      "fecha_utc": "2026-03-19T12:39:54.673000+00:00",
+      "fecha_local": "2026-03-19",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Nota unas gotas en la calva y se toca. Mira para arriba confuso**\n\n- pero si hace un sol de narices...",
+      "mensaje_sha256": "146f0540440b7917c753d394067e35e04f937c2f216dcde4dae1c57612e111fd",
+      "tipo_discord": 19,
+      "referencia": "1484168616479031297",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1484169547551346751",
+      "texto_sha256": "978fdea32f651f74dc2115358e2228042ad6c104ca5d51be1fe5f263c6fe2a24",
+      "adjuntos": []
+    },
+    {
+      "id": "1484171165663760422",
+      "fecha_utc": "2026-03-19T12:46:20.461000+00:00",
+      "fecha_local": "2026-03-19",
+      "editado_utc": null,
+      "texto": "**Al mirar, puedes ver a una enorme criatura con grandes fauces. Un Espinosauro relamiendose mientras te mira y ruge**\n\nZippo: **Se le abren mucho los ojitos. Se desliza por debajo de tus piernas y empieza a correr contigo encima como si fuera una montura. Se te quema un poco el culo, pero los dos salís a toda prisa perseguidors por ese enorme dinosaurio**",
+      "mensaje_sha256": "01586dce20bfdf9b7c52ccac69a104317dfe85c0905c8cbbd52fe1004ffbf95f",
+      "tipo_discord": 19,
+      "referencia": "1484169547551346751",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1484171165663760422",
+      "texto_sha256": "e1879fb87d7a3c73e311868a6ee89f9ec91a99a2027caad26d6539548c208cbb",
+      "adjuntos": []
+    },
+    {
+      "id": "1484227947702521877",
+      "fecha_utc": "2026-03-19T16:31:58.354000+00:00",
+      "fecha_local": "2026-03-19",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**El gnomo sale a toda velocidad con un ardor intermitente en las posaderas y una sorpresa mayúscula. Cuando reacciona, mira al lagarto bajo y luego al monstruo que deja atrás**\n\n- maldita sierpe traicionera! Déjame! Acaba de aparecer un jamelgo de una calidad impresionante!!! Tengo que domarlo! Eso sí es un corcel digno de un caballero como yo!!",
+      "mensaje_sha256": "04e7916ceee67ac213b427b3231c8bb0641758fa05df6f1dabe6a8230578433d",
+      "tipo_discord": 19,
+      "referencia": "1484171165663760422",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1484227947702521877",
+      "texto_sha256": "ab428f5606e90f1b642d89a4333df10b86142e9902f0dfa35feb78f6cdb02eef",
+      "adjuntos": []
+    },
+    {
+      "id": "1484231899281887232",
+      "fecha_utc": "2026-03-19T16:47:40.484000+00:00",
+      "fecha_local": "2026-03-19",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "63e90faa06a898007a80f176ad1d62580ad025ac4c7df26ed9d84725019472be",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1484231899281887232",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

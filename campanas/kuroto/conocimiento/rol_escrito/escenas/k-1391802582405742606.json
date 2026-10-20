@@ -1,0 +1,194 @@
+{
+  "id": "k-1391802582405742606",
+  "campana": "kuroto",
+  "unidad_revision": "k-1391802582405742606",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Un pergamino del Círculo de Verdad",
+  "resumen": "Banzo, Kalista y Jelbreg compran un pergamino mágico y buscan una hacienda en Hakahara.",
+  "relato": "Banzo recorre la capital con Kalista y Jelbreg buscando un pergamino del Círculo de Verdad. El drow propone acudir al alquimista, que también vende pergaminos, y Kalista les señala el camino. Tras una larga espera, salpicada de protestas de Jelbreg, reprimendas de Kalista y risas de Banzo, los tres consiguen comprarlo y salen de nuevo a la calle. Más adelante, Banzo recuerda que alguien tenía una hacienda en Hakahara; Kalista cree conocer la dirección y Jelbreg la sigue. La escena termina sin identificar aquí al dueño de la hacienda, mostrar su llegada ni utilizar el pergamino.",
+  "participantes": [
+    "Banzo",
+    "Kalista",
+    "Jelbreg"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1391802582405742606",
+      "afirmacion": "Banzo pide localizar un pergamino del Círculo de Verdad.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1391804764798320661",
+      "afirmacion": "El grupo compra el pergamino en la tienda del alquimista.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1392178277615145030",
+      "afirmacion": "Banzo plantea buscar una hacienda en Hakahara sin nombrar a su propietario.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "La compra está realizada; no se muestra interrogatorio ni resultado mágico.",
+    "El contexto anterior permite relacionar la búsqueda con el interés por obtener declaraciones, pero este fragmento no nombra al destinatario."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-07-07T15:26:34.087000+00:00",
+  "fin_utc": "2025-07-08T18:12:01.235000+00:00",
+  "fecha_local": "2025-07-07",
+  "intervalo": {
+    "anterior": 135,
+    "siguiente": 136,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1390391136719212627",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1392568138104832013",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 135,
+        "fecha": "2025-07-03",
+        "inicio_referencia_utc": "2025-07-03T17:57:37+00:00",
+        "fin_estimado_utc": "2025-07-03T22:24:15+00:00",
+        "duracion_video_segundos": 15998,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1390391136719212627"
+      },
+      {
+        "capitulo": 136,
+        "fecha": "2025-07-09",
+        "inicio_referencia_utc": "2025-07-09T18:08:23+00:00",
+        "fin_estimado_utc": "2025-07-09T21:01:59+00:00",
+        "duracion_video_segundos": 10416,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1392568138104832013"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1391802582405742606",
+      "fecha_utc": "2025-07-07T15:26:34.087000+00:00",
+      "fecha_local": "2025-07-07",
+      "editado_utc": null,
+      "texto": "**Banzo kalista y Jelbreg anda por las calles de la capital **\nBanzo : vale me pareció ver un dia una tienda que vendían pergaminos mágicos.  Sabéis donde podemos encontrar un pergamino de círculo de la verdad ? <@214405113677217793> <@753394009153732689>",
+      "mensaje_sha256": "b599f0f1a59e820939a3544928217b8b3649559bc5e2cd2e2d72a85f3ee0a3cb",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1391802582405742606",
+      "texto_sha256": "6c2b6ae2aca12a520ffc5a116bbca8e339f3ed4f1862a937ac02e07ba4e77216",
+      "adjuntos": []
+    },
+    {
+      "id": "1391802991853441124",
+      "fecha_utc": "2025-07-07T15:28:11.707000+00:00",
+      "fecha_local": "2025-07-07",
+      "editado_utc": null,
+      "texto": "Jelbreg: Como no sea el alquimista... **Dice el drow colocándose bien la capucha para que no le moleste el sol** Suele vender algun que otro pergamino",
+      "mensaje_sha256": "13a843ad519e7a37bb757d43712abb6e792df7a1ccecacc0171aee863d00317d",
+      "tipo_discord": 19,
+      "referencia": "1391802582405742606",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1391802991853441124",
+      "texto_sha256": "39b3827897ab3c209cbfcef5781b37a3906540fb0c6e51b6796a443d16be4c71",
+      "adjuntos": []
+    },
+    {
+      "id": "1391803280807563484",
+      "fecha_utc": "2025-07-07T15:29:20.599000+00:00",
+      "fecha_local": "2025-07-07",
+      "editado_utc": null,
+      "texto": "Banzo : al alquimista entonces ** se adelantado y se frena para girarse ** \nPor donde ?",
+      "mensaje_sha256": "b44cf8d3c994a2018e4edfeeb0781db99aa3d6cbc1f990b1cfa3e130607a19d4",
+      "tipo_discord": 19,
+      "referencia": "1391802991853441124",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1391803280807563484",
+      "texto_sha256": "7889108f82c036ee974b59a3b4a0d15db790612f512d4c1ab88b025ae987cfce",
+      "adjuntos": []
+    },
+    {
+      "id": "1391803590246666331",
+      "fecha_utc": "2025-07-07T15:30:34.375000+00:00",
+      "fecha_local": "2025-07-07",
+      "editado_utc": null,
+      "texto": "Kalista: por aqui **Te guia**",
+      "mensaje_sha256": "09818b17ec83a6b61a7275231deebb1d909ea7de15be8fbe27f264013d84bca8",
+      "tipo_discord": 19,
+      "referencia": "1391803280807563484",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1391803590246666331",
+      "texto_sha256": "f8cc6e4c2f9cb580de66253f2340bc297dcf9448467bf23562b66ecac889c93e",
+      "adjuntos": []
+    },
+    {
+      "id": "1391804764798320661",
+      "fecha_utc": "2025-07-07T15:35:14.410000+00:00",
+      "fecha_local": "2025-07-07",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Los tres os dirigís a la tienda del alquimista donde después de pasar un largo rato esperando al tendero, los gruñidos de Jelbreg, alguna que otra reprimenda de Kalista al drow por su comportamiento y las risitas de Banzo, lográis comprar un pergamino del Circulo de Verdad. Con esto en mano, salir a las calles otra vez**",
+      "mensaje_sha256": "e29905ae321e895e29b7cfb36476ac09924d2a3caecf937d6bd884b41ca9b668",
+      "tipo_discord": 19,
+      "referencia": "1391803590246666331",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1391804764798320661",
+      "texto_sha256": "ba28c2dd16413cf4edb3387dd690003be689e6342366acc7cc720489b6870e06",
+      "adjuntos": []
+    },
+    {
+      "id": "1392178277615145030",
+      "fecha_utc": "2025-07-08T16:19:26.805000+00:00",
+      "fecha_local": "2025-07-08",
+      "editado_utc": null,
+      "texto": "Banzo : Creo recordar que tenía una hacienda en Hakahara quizá este por allí? \n<@214405113677217793> <@753394009153732689> <@240564189448503306>",
+      "mensaje_sha256": "c91dfa425f6b82b5fe36f1def9d7075310871476f968876d66ff6989a0c4c673",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1392178277615145030",
+      "texto_sha256": "3cb41dbde60b06eeaca1f7e98a138e6296cac9d25154607a78c81b92ff606bff",
+      "adjuntos": []
+    },
+    {
+      "id": "1392179309518782516",
+      "fecha_utc": "2025-07-08T16:23:32.830000+00:00",
+      "fecha_local": "2025-07-08",
+      "editado_utc": null,
+      "texto": "Kalista: si, creo que es por aqui",
+      "mensaje_sha256": "102f34a754649a158ba49628f6a9e620fe248b6b2ca2a2b60b44c73a70eeebf0",
+      "tipo_discord": 19,
+      "referencia": "1392178277615145030",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1392179309518782516",
+      "texto_sha256": "d1ec3bc33fe808559be1aa4df7da682665c2f05b6e1416568136791e833ac8ac",
+      "adjuntos": []
+    },
+    {
+      "id": "1392180056226398228",
+      "fecha_utc": "2025-07-08T16:26:30.859000+00:00",
+      "fecha_local": "2025-07-08",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Os sigue**",
+      "mensaje_sha256": "888e13b15221c20b9c2792385bc43792864968d7db8cbf538ef573a19249c83b",
+      "tipo_discord": 19,
+      "referencia": "1392178277615145030",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1392180056226398228",
+      "texto_sha256": "c7c547c5b394cdad725108e8a4c482642dacd6e695903c37085a8f2458362892",
+      "adjuntos": []
+    },
+    {
+      "id": "1392206607747780618",
+      "fecha_utc": "2025-07-08T18:12:01.235000+00:00",
+      "fecha_local": "2025-07-08",
+      "editado_utc": null,
+      "texto": "🔴Fin de la Escena🔴",
+      "mensaje_sha256": "df4e1140f681a484872d2ffb117e2131c157ca3c10598cdf3db8af0fec2a21f6",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1392206607747780618",
+      "texto_sha256": "7b48f784e7d27f7d504591e65457ee8f6f5f093e0fa68b31981cee30b6cd3584",
+      "adjuntos": []
+    }
+  ]
+}

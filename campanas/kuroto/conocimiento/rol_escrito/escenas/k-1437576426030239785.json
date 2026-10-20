@@ -1,0 +1,381 @@
+{
+  "id": "k-1437576426030239785",
+  "campana": "kuroto",
+  "unidad_revision": "k-1437576426030239785",
+  "hilo_id": "1387915737502580886",
+  "hilo_nombre": "Sho, Palacio del Shogunato - Capital de Kuroto",
+  "titulo": "Seraphina trae armaduras y ánimo",
+  "resumen": "La entrega parcial de Guxi alivia a Kalista, que llama a prepararse para el frente sur.",
+  "relato": "Seraphina llega al palacio con R3, confeti y fuegos artificiales. Bromea con José Luis, que les permite entrar pese a la vigilancia de los tritones. En la sala del trono interrumpe una reunión y anuncia que Guxi ha terminado las armaduras. R3 no ejecuta la celebración preparada y ella arroja el confeti por su cuenta. Kalista recibe la noticia con alivio y piensa en distribuirlas a Cazadores y soldados. Seraphina precisa enseguida que solo están listas unas cuantas esenciales: Guxi sigue trabajando en el resto. La Shogun explica que Ukiyo está en situación crítica y que los demonios del sur se organizan bajo líderes, perdiéndose la ventaja que suponía su caos. Seraphina se ofrece a avisar a los estrategas; Kalista responde que la preparación está en marcha y les pide acudir al campamento sur bien dispuestos para un conflicto demoledor. Seraphina la abraza y le aconseja descansar y compartir la carga. Kalista sostiene que debe mantener el reino mientras los demás combaten, lidiando con la retaguardia. Seraphina insiste en que Jelbreg y otros la apoyan. Tras prometer informar de novedades, sale con R3 y bromea sobre su bloqueo en la presentación.",
+  "participantes": [
+    "Seraphina",
+    "R3",
+    "Kalista",
+    "José Luis",
+    "Cónsules"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1437695800942792765",
+      "afirmacion": "José Luis permite a Seraphina entrar en el palacio.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1437807024074391602",
+      "afirmacion": "Seraphina anuncia las armaduras y se ocupa del confeti al no responder R3.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1437809185327943710",
+      "afirmacion": "Precisa que Guxi solo ha concluido parte de las armaduras y sigue trabajando.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1437811673548460193",
+      "afirmacion": "Kalista pide a los Cazadores presentarse en el campamento sur.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1437815520861884447",
+      "afirmacion": "Kalista explica su papel en sostener la retaguardia del reino.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1437816915111448689",
+      "afirmacion": "Seraphina y R3 salen del palacio.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El primer anuncio general de entrega queda corregido en la conversación: no están terminadas todas las armaduras.",
+    "No se representa el reparto de armaduras, la llegada al campamento ni el lanzamiento de los fuegos artificiales.",
+    "La unidad dice R3; no añade por sí sola una identificación técnica más concreta."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-11-10T22:55:28.844000+00:00",
+  "fin_utc": "2025-11-11T14:51:36.889000+00:00",
+  "fecha_local": "2025-11-10",
+  "intervalo": {
+    "anterior": 165,
+    "siguiente": 166,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1436069852543586424",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438244036996628491",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 165,
+        "fecha": "2025-11-06",
+        "inicio_referencia_utc": "2025-11-06T19:08:37+00:00",
+        "fin_estimado_utc": "2025-11-06T22:46:55+00:00",
+        "duracion_video_segundos": 13098,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1436069852543586424"
+      },
+      {
+        "capitulo": 166,
+        "fecha": "2025-11-12",
+        "inicio_referencia_utc": "2025-11-12T19:07:55+00:00",
+        "fin_estimado_utc": "2025-11-12T22:08:14+00:00",
+        "duracion_video_segundos": 10819,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438244036996628491"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1437576426030239785",
+      "fecha_utc": "2025-11-10T22:55:28.844000+00:00",
+      "fecha_local": "2025-11-10",
+      "editado_utc": "2025-11-10T22:56:34.274000+00:00",
+      "texto": "Seraphina:\n**Llegué a las puertas del palacio con R3 en brazos, habíamos comprado fuegos artificiales y bastante confeti**\n\nBuenas José Luis!!, hoy te ves distinto, te hiciste algo en el pelo?, no... Algo en la barba, te queda muy bien\n\n<@214405113677217793> <@616683133374562304>",
+      "mensaje_sha256": "99533e1539e14c5225bdcd37d92d8e53b5362947dd118a31149457751687be00",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1437576426030239785",
+      "texto_sha256": "e7daf143ea048cd2e6fd7e2e527906ee6d5994ad6c7713ab2bf9e9647893d704",
+      "adjuntos": []
+    },
+    {
+      "id": "1437695800942792765",
+      "fecha_utc": "2025-11-11T06:49:50.041000+00:00",
+      "fecha_local": "2025-11-11",
+      "editado_utc": null,
+      "texto": "José Luís: **El soldado esboza una pequeña sonrisa al escuchar tus bromas, pero pronto vuelve a su seriedad al notar la mirada de los tritones. Con un movimiento de su mano, te da acceso al palacio**",
+      "mensaje_sha256": "a7eea940cb6be4c64d93e7245489359b993e8ad671b8e9e9282f6e0bc124f7c0",
+      "tipo_discord": 19,
+      "referencia": "1437576426030239785",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1437695800942792765",
+      "texto_sha256": "da0a598e371cec3bb7577145753e6defd5973a05f648951bee19d0732bf8d72e",
+      "adjuntos": []
+    },
+    {
+      "id": "1437805758531109105",
+      "fecha_utc": "2025-11-11T14:06:45.973000+00:00",
+      "fecha_local": "2025-11-11",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Me despido de José Luis agitando mi mano para después entrar al palacio directamente a la sala del trono para ver a Kalista**\n\nDe acuerdo mi niño, como lo ensayamos, cuando yo diga: Armaduras, tu lanzas los fuegos artificiales y el confeti, te parece bien?\n\n**Le susurré a R3 con algo de emoción**\n\nBuen día Shogun y presentes\n\n<@214405113677217793> <@753394009153732689> <@616683133374562304>",
+      "mensaje_sha256": "e9236003f3d6add4fd074ea0e28f585c67ca4d4e437e7b6d1fb50e0a284a6b2e",
+      "tipo_discord": 19,
+      "referencia": "1437695800942792765",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1437805758531109105",
+      "texto_sha256": "a966bc2444eb80267d7c60e36a1ad160635d83d54a3d8048360333803fde2813",
+      "adjuntos": []
+    },
+    {
+      "id": "1437806135620141187",
+      "fecha_utc": "2025-11-11T14:08:15.878000+00:00",
+      "fecha_local": "2025-11-11",
+      "editado_utc": null,
+      "texto": "Kalista: **La pillas en una reunion con los consules. Esta los mira y los pide que se retiren antes de acercarse a ti** ¿Ha ocurrido algo? **Ya no dice buenos dias, si alguien viene es porque ha sucedido algo**",
+      "mensaje_sha256": "8cee86875bc5195c65dd784c99f7ded54e9130f7e39b5a1879c1d21519f1662e",
+      "tipo_discord": 19,
+      "referencia": "1437805758531109105",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1437806135620141187",
+      "texto_sha256": "c00c433e1dfca41a8264ad9555b811f43f4142c4d5aa0377509eb3c2839814d9",
+      "adjuntos": []
+    },
+    {
+      "id": "1437807024074391602",
+      "fecha_utc": "2025-11-11T14:11:47.702000+00:00",
+      "fecha_local": "2025-11-11",
+      "editado_utc": null,
+      "texto": "Seraphina:\nVaya, la encontré en un mal momento, pero bueno\n\n**Puse a R3 en el suelo**\n\nEs de mi agrado informarles que su encargo ya ha sido completado, Guxi ha terminado las armaduras \n\n**Miraba a R3 esperando la lluvia de confetis y fuegos artificiales, pero parecía que se estaba reiniciando o algo así después del ajuste que le había dado Guxi**\n\nOh, fallas técnicas, yo lo hago por ti, pequeño \n\n**Tomé un puño de confeti y lo lanzo al aire**\n\nYeeeeiii",
+      "mensaje_sha256": "4c3b0cdb6348f452137a99e632bccf3c389344d3a03609c1d0f676ceb4eac745",
+      "tipo_discord": 19,
+      "referencia": "1437806135620141187",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1437807024074391602",
+      "texto_sha256": "d77cef5483919dba6cd1e804e36e8b0990db300a32151220bce38a3c7be4c7bc",
+      "adjuntos": []
+    },
+    {
+      "id": "1437808577937932311",
+      "fecha_utc": "2025-11-11T14:17:58.172000+00:00",
+      "fecha_local": "2025-11-11",
+      "editado_utc": null,
+      "texto": "Kalista: **Se lleva una mano al pecho y suelta el aire que estaba conteniendo. El confeti le cae en la cara y se la enreda por el pelo** Es la unica buena noticia que he recibido en dias... Perfecto las distribuire a cada cazador y soldado.",
+      "mensaje_sha256": "c1e223142e5dd01b3da00eb2e68653353a3097adf033640e67f42c57d3362266",
+      "tipo_discord": 19,
+      "referencia": "1437807024074391602",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1437808577937932311",
+      "texto_sha256": "a06e4372591e6a4c3a2f092d587d4dcd1a6c8174353714087683985bde71045c",
+      "adjuntos": []
+    },
+    {
+      "id": "1437809185327943710",
+      "fecha_utc": "2025-11-11T14:20:22.985000+00:00",
+      "fecha_local": "2025-11-11",
+      "editado_utc": null,
+      "texto": "Seraphina:\nBueno, no son todas, terminó unas cuantas, las mas esenciales al menos, pero todavía sigue trabajando en eso, no se ha detenido \n\n**Tomé a R3 en brazos**\n\nPor lo que veo, las cosas siguen estando intensas, no es así?",
+      "mensaje_sha256": "38ec14b263d469b5b70377e516deeb06a4e512c3d088fd95c4381fdf62a6de93",
+      "tipo_discord": 19,
+      "referencia": "1437808577937932311",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1437809185327943710",
+      "texto_sha256": "1f455955a9736db2afac9fd7264154cda920fd1b550d11c2e3637e85ecf5b85a",
+      "adjuntos": []
+    },
+    {
+      "id": "1437809597183426681",
+      "fecha_utc": "2025-11-11T14:22:01.179000+00:00",
+      "fecha_local": "2025-11-11",
+      "editado_utc": null,
+      "texto": "Kalista: no hay tregua, el sur se esta complicando y la situacion de Ukiyo es critica",
+      "mensaje_sha256": "d75c47c2becffac1dd558db163078f4bb09591ad87dc56a19ed24e6b2549f832",
+      "tipo_discord": 19,
+      "referencia": "1437809185327943710",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1437809597183426681",
+      "texto_sha256": "3878ca1f7c0d1ee542569998d658e8ffb326559c5a6f6350ef0d25897ca06ab1",
+      "adjuntos": []
+    },
+    {
+      "id": "1437810089141469286",
+      "fecha_utc": "2025-11-11T14:23:58.471000+00:00",
+      "fecha_local": "2025-11-11",
+      "editado_utc": null,
+      "texto": "Seraphina: \nAlgo que deba de saber para al menos informarselo a los pocos cazadores que tenemos por aquí?",
+      "mensaje_sha256": "b3401ab5a5df4f6d179c72b43a6d9c95f8f92e07aaf424b75114c0b73a4e336d",
+      "tipo_discord": 19,
+      "referencia": "1437809597183426681",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1437810089141469286",
+      "texto_sha256": "ccec19c3c36785147ad5757a49ad5b52ac449bd4075704080c4a69339de4cf76",
+      "adjuntos": []
+    },
+    {
+      "id": "1437810994901553304",
+      "fecha_utc": "2025-11-11T14:27:34.421000+00:00",
+      "fecha_local": "2025-11-11",
+      "editado_utc": null,
+      "texto": "Kalista: los demonios parecen estar organizandose en el sur... Parece que tienen lideres y las oleadas antes caoticas, ahora son  organizadas... Nuestra mejor baza era el caos y ahora no la tenemos....",
+      "mensaje_sha256": "b280f4ce74fbe33c245bc2ecf12f03043443daa0bd904e25698b1e5eda1951f7",
+      "tipo_discord": 19,
+      "referencia": "1437810089141469286",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1437810994901553304",
+      "texto_sha256": "be27863fd1aa4e428acb776bbf9c637c73bcf7bb07c05d26b34e86042a23aba8",
+      "adjuntos": []
+    },
+    {
+      "id": "1437811484343144691",
+      "fecha_utc": "2025-11-11T14:29:31.113000+00:00",
+      "fecha_local": "2025-11-11",
+      "editado_utc": null,
+      "texto": "Seraphina:\nYa veo... Eso sí es un problema, tendremos que organizarnos aun mejor que ellos para poder hacerles frente \n\n**Suspiré tratando de idear algo**\n\nLes daré aviso, sobre todo a los estrategas para que se pueda idear algo lo más pronto posible",
+      "mensaje_sha256": "8ea81399066c9317bab8ae5e02ed6582950810e7419d665a3235246fb985cac4",
+      "tipo_discord": 19,
+      "referencia": "1437810994901553304",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1437811484343144691",
+      "texto_sha256": "857754e839acb076421dc5f25303d2d588394f212d8916987d07433a4809e852",
+      "adjuntos": []
+    },
+    {
+      "id": "1437811673548460193",
+      "fecha_utc": "2025-11-11T14:30:16.223000+00:00",
+      "fecha_local": "2025-11-11",
+      "editado_utc": null,
+      "texto": "Kalista: ya estamos en ello... Solo presentaos en el campamento sur",
+      "mensaje_sha256": "692c71693ebcf6043e68dcb5dacf32535be07f5762a1b16bd2c206becb28d5bc",
+      "tipo_discord": 19,
+      "referencia": "1437811484343144691",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1437811673548460193",
+      "texto_sha256": "aa47761597435d85fd1b67a0922656612d7fd0bac844598d7608ec8dca6e4388",
+      "adjuntos": []
+    },
+    {
+      "id": "1437812315180372169",
+      "fecha_utc": "2025-11-11T14:32:49.200000+00:00",
+      "fecha_local": "2025-11-11",
+      "editado_utc": null,
+      "texto": "Seraphina:\nDe acuerdo, entonces estaremos allá \n\n**Le hice una pequeña reverencia a Kalista**\n\nTodavía esto no es el final, tenemos que ver el inicio de un nuevo amanecer \n\n**Me levanté acomodandome la ropa con la mano que tenía libre**",
+      "mensaje_sha256": "c718a95c9b76749bae91f6eb2652dcb6ce1b1c5805dd59c39bd4d91cac7a81c6",
+      "tipo_discord": 19,
+      "referencia": "1437811673548460193",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1437812315180372169",
+      "texto_sha256": "8547fe590b9100fe5938d14b0fbd5587820ef2a3f4acc0d210300bc5347de06f",
+      "adjuntos": []
+    },
+    {
+      "id": "1437812719234449568",
+      "fecha_utc": "2025-11-11T14:34:25.534000+00:00",
+      "fecha_local": "2025-11-11",
+      "editado_utc": null,
+      "texto": "Kalista: **La ves seria** Preparaos antes de ir al sur... Se avecina un conflicto demoledor",
+      "mensaje_sha256": "629ae3e6fd1f72414badc16bf5122f2980c1897c16424d333acdec182d6ddd18",
+      "tipo_discord": 19,
+      "referencia": "1437812315180372169",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1437812719234449568",
+      "texto_sha256": "d6a42c0549d439c7218f22b694f13336be60c8697a511f4bb1f611532272c5aa",
+      "adjuntos": []
+    },
+    {
+      "id": "1437813078325727392",
+      "fecha_utc": "2025-11-11T14:35:51.148000+00:00",
+      "fecha_local": "2025-11-11",
+      "editado_utc": null,
+      "texto": "Seraphina:\nEstaremos preparados \n\n**Le doy un abrazo**\n\nSe que no me haras caso, pero intenta descansar antes de que esto se salga de control, también es necesario que estés estable para que esto logre funcionar",
+      "mensaje_sha256": "58b56b64e8785c637130b179f88d555e7a5b1b02f5ab0b5e5a5dcf5a82737f08",
+      "tipo_discord": 19,
+      "referencia": "1437812719234449568",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1437813078325727392",
+      "texto_sha256": "fb90787f7c589fbf397e682b0cc664612cbc8a72652f4141af82febb765425f1",
+      "adjuntos": []
+    },
+    {
+      "id": "1437814228000968734",
+      "fecha_utc": "2025-11-11T14:40:25.252000+00:00",
+      "fecha_local": "2025-11-11",
+      "editado_utc": null,
+      "texto": "Kalista: **Notas como se sorprende por el abrazo** Descansare cuando esto pase, ahora un reino depende de mi",
+      "mensaje_sha256": "ffbe8ca4551afbb7f885b9a57f6d92ead4f2ea019583599801d072182d3d5699",
+      "tipo_discord": 19,
+      "referencia": "1437813078325727392",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1437814228000968734",
+      "texto_sha256": "1f888f97c696e9ce6341c180ed1278995c8fd336251e19a2930f90dd25bd355d",
+      "adjuntos": []
+    },
+    {
+      "id": "1437814905955815434",
+      "fecha_utc": "2025-11-11T14:43:06.889000+00:00",
+      "fecha_local": "2025-11-11",
+      "editado_utc": null,
+      "texto": "Seraphina:\nEl peso no debe de caerte solo a ti, recuerda que tienes un equipo, todo pesa menos si todos cargamos un poquito \n\n**Le suelta del abrazo**\n\nDebes de confiar un poco más en nosotros",
+      "mensaje_sha256": "8f2d432dabd3b7a598a379cce18a0b9806a9681938339c54374c751e3e540cdd",
+      "tipo_discord": 19,
+      "referencia": "1437814228000968734",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1437814905955815434",
+      "texto_sha256": "a8156396e993e640d99cfdab50488170fda6bb9dfdcac27fe928e9c59f2469b2",
+      "adjuntos": []
+    },
+    {
+      "id": "1437815520861884447",
+      "fecha_utc": "2025-11-11T14:45:33.494000+00:00",
+      "fecha_local": "2025-11-11",
+      "editado_utc": null,
+      "texto": "Kalista: hay cosas que debo hacer sola, mi deber es apoyar a todos los frentes. Mientras peleais en el sur, debo hacer que el reino siga funcionando y sosteniendose... Mientras luchais en el frentre lidio con otras batallas en la retaguardia para que no os distraigan",
+      "mensaje_sha256": "358e3bf6e895247958cce0a3dd85aa3495a91a1d968d612888e934c6ac120d4a",
+      "tipo_discord": 19,
+      "referencia": "1437814905955815434",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1437815520861884447",
+      "texto_sha256": "f317075fcbe3d510d31924e69ebc393e02ef75925bde155b909495eaa63b9b9d",
+      "adjuntos": []
+    },
+    {
+      "id": "1437816226134098001",
+      "fecha_utc": "2025-11-11T14:48:21.644000+00:00",
+      "fecha_local": "2025-11-11",
+      "editado_utc": null,
+      "texto": "Seraphina:\nTienes a Jelbreg, ese duende gruñón estaría dispuesto a dar su gruñona vida por verte feliz, apoyate en ese desgraciado \n\n**Dí unos pasos hacia atrás**\n\nEn verdad no estás sola, muchos te apoyamos, es hora de que nos retiremos, estaremos informando cualquier situación o novedad",
+      "mensaje_sha256": "632fbb726210be36c40a91d498b66982f4946fa8264abef3bd9934ec77a2ee7f",
+      "tipo_discord": 19,
+      "referencia": "1437815520861884447",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1437816226134098001",
+      "texto_sha256": "9036311398e0ac7476469fb7c2503db098a68c5cb804d102fcbb1709078d1fe1",
+      "adjuntos": []
+    },
+    {
+      "id": "1437816509035712602",
+      "fecha_utc": "2025-11-11T14:49:29.093000+00:00",
+      "fecha_local": "2025-11-11",
+      "editado_utc": null,
+      "texto": "Kalista: **Asiente** Tened cuidado",
+      "mensaje_sha256": "543e7fd5058780aa8c1ff6c86165f4d8c19d976309636002667f68c76e0d7299",
+      "tipo_discord": 19,
+      "referencia": "1437816226134098001",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1437816509035712602",
+      "texto_sha256": "27983f112363d22261023a30339dea72f7dad7c3a0bc3b127863d65f3c97b3d7",
+      "adjuntos": []
+    },
+    {
+      "id": "1437816915111448689",
+      "fecha_utc": "2025-11-11T14:51:05.909000+00:00",
+      "fecha_local": "2025-11-11",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Salgo del palacio**\n\nTe dió pánico escénico pequeñin?, vamos a tener que arreglar eso, no puedes quedarte quieto siempre que tenemos que dar una presentación muy importante, aunque sea la primera vez \n\n🏴‍☠️ Seraphina y R3 salen de escena ⚙️",
+      "mensaje_sha256": "4feaa7cd1decd3d3aa3eaaeb737e1046d8b007e0e54eb1edb3ae419e879cfb02",
+      "tipo_discord": 19,
+      "referencia": "1437816509035712602",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1437816915111448689",
+      "texto_sha256": "eef934d7c026f18345576cf87377f6f052c9146da52c98da348b3a4b34def16d",
+      "adjuntos": []
+    },
+    {
+      "id": "1437817045050855576",
+      "fecha_utc": "2025-11-11T14:51:36.889000+00:00",
+      "fecha_local": "2025-11-11",
+      "editado_utc": null,
+      "texto": "🔴 **Fin de escena**🔴",
+      "mensaje_sha256": "dd907eede9c5819c4903b4e51f5dd95519e0afb18199503faca1543fe69045d9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1437817045050855576",
+      "texto_sha256": "0e513b9a495850850524d0965f55df051cd0b6a138120693016da3f3ffd42ccd",
+      "adjuntos": []
+    }
+  ]
+}

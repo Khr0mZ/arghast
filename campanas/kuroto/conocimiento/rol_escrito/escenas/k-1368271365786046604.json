@@ -1,0 +1,338 @@
+{
+  "id": "k-1368271365786046604",
+  "campana": "kuroto",
+  "unidad_revision": "k-1367820195527262350",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Tras el olor de Kalista",
+  "resumen": "Banzo y Arwen buscan a Kalista para pedir consejo sobre flores.",
+  "relato": "Después de descansar, Banzo despierta a Arwen y la anima a salir de excursión para buscar flores. Primero quiere consultar a Kalista qué variedad conviene llevar a Fukami. La niña no la ha visto, así que el goliat convierte la búsqueda en una aventura de rastreo. Le indica el lugar donde suele estudiar Kalista, pero allí se mezclan demasiados olores. Después se acercan a la puerta de su habitación, con la advertencia de no entrar porque la gente se desmaya. Arwen olfatea por debajo y reconoce el olor de la mujer pez junto con otro que le resulta familiar, sin identificarlo en voz alta. Banzo supone en privado de quién puede ser, pero no lo comunica. Cuando pregunta si el rastro va hacia la ciudad, Arwen lo llama y echa a correr; él la sigue. La búsqueda continúa fuera de esta escena, sin encontrar aún a Kalista ni recolectar las flores.",
+  "participantes": [
+    "Banzo",
+    "Arwen"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1368282530163462215",
+      "afirmacion": "Banzo decide buscar a Kalista para preguntarle por flores.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1368286216205766737",
+      "afirmacion": "Arwen no puede aislar el olor de Kalista en la mesa común.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1368290437617549484",
+      "afirmacion": "Arwen reconoce el olor de Kalista y otro familiar bajo su puerta, sin nombrarlo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1368292793780404237",
+      "afirmacion": "Arwen echa a correr siguiendo el rastro y llama a Banzo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1368292896343724143",
+      "afirmacion": "Banzo sigue a Arwen al terminar el encuentro.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Leídos íntegramente 143 mensajes y ambas partes. El cierre de la primera escena precede al encuentro del día siguiente; la búsqueda final queda abierta pese al marcador de cierre.",
+    "La naturaleza de la relación entre Kalista y Jelbreg y lo sucedido la noche anterior no se explican por completo aquí. El miedo, la orden mágica y las amenazas sí se representan. No se fabrica un motivo adicional.",
+    "Las dos bases cultistas son una conclusión de Kalista apoyada en mapas e informantes, no una expedición confirmada en esta escena. El ritual detenido y los samuráis no muertos aparecen como informes verbales.",
+    "Ikaari esconde un plano de Sho con caras sonrientes. No se revela su finalidad ni se atribuye ese conocimiento a otros personajes.",
+    "La muerte aludida y el luto del Shogunato no se asignan a una identidad concreta a partir de estas líneas.",
+    "La caja de Banzo queda guardada sin abrirse; no se inventa contenido. La visita a Fukami y la elección de flores siguen pendientes.",
+    "Arwen detecta un segundo olor pero no lo identifica; la hipótesis de Banzo permanece privada."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2025-05-03T17:01:54.856000+00:00",
+  "fin_utc": "2025-05-03T19:08:01.057000+00:00",
+  "fecha_local": "2025-05-03",
+  "intervalo": {
+    "anterior": 111,
+    "siguiente": 112,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1369742246882054214",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 111,
+        "fecha": "2025-05-01",
+        "inicio_referencia_utc": "2025-05-01T18:30:18+00:00",
+        "fin_estimado_utc": "2025-05-01T21:17:50+00:00",
+        "duracion_video_segundos": 10052,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983"
+      },
+      {
+        "capitulo": 112,
+        "fecha": "2025-05-07",
+        "inicio_referencia_utc": "2025-05-07T18:26:24+00:00",
+        "fin_estimado_utc": "2025-05-07T21:22:03+00:00",
+        "duracion_video_segundos": 10539,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1369742246882054214"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1368271365786046604",
+      "fecha_utc": "2025-05-03T17:01:54.856000+00:00",
+      "fecha_local": "2025-05-03",
+      "editado_utc": null,
+      "texto": "Banzo : le empieza a rascar la cabecilla a la niña <@753394009153732689>  y asoma un poco la mirada a ver si esta dormida",
+      "mensaje_sha256": "f74e70c25e4a3cbfbcde0e3654c539015f7724ff92be375bab679edf1945a920",
+      "tipo_discord": 19,
+      "referencia": "1368219231484907540",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368271365786046604",
+      "texto_sha256": "bb0eb14d3dcb7a5fd13655b443436cc5772aa4bdee374efd145a5947bb7d198d",
+      "adjuntos": []
+    },
+    {
+      "id": "1368278313096712212",
+      "fecha_utc": "2025-05-03T17:29:31.224000+00:00",
+      "fecha_local": "2025-05-03",
+      "editado_utc": "2025-05-03T17:37:55.571000+00:00",
+      "texto": "Arwen: **Bosteza y abre los ojitos**",
+      "mensaje_sha256": "3ea026fdbc40b32475959d08b764cedd330623677aacff1b1bb5bbe0a4b40693",
+      "tipo_discord": 19,
+      "referencia": "1368271365786046604",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368278313096712212",
+      "texto_sha256": "456722ec88cb845cb9d6fb40313bf6c492ea3bac862dc499cdbfdcb3e0cdf0a7",
+      "adjuntos": []
+    },
+    {
+      "id": "1368280957785866311",
+      "fecha_utc": "2025-05-03T17:40:01.767000+00:00",
+      "fecha_local": "2025-05-03",
+      "editado_utc": null,
+      "texto": "Banzo:  **empieza  a balancear la amaca poco a poco y cada vez más fuerte **",
+      "mensaje_sha256": "467d8139dcc4f0739c4edb828da6db794292f20cc4f97fb0312a0fdcf165fdc3",
+      "tipo_discord": 19,
+      "referencia": "1368278313096712212",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368280957785866311",
+      "texto_sha256": "a959f7f752594c99051312cc8143d6c9e220723096523bb7686ea79d71826f78",
+      "adjuntos": []
+    },
+    {
+      "id": "1368281065608708157",
+      "fecha_utc": "2025-05-03T17:40:27.474000+00:00",
+      "fecha_local": "2025-05-03",
+      "editado_utc": null,
+      "texto": "Arwen: **Rie** Wiiiiii wiiiiii wiiiiii",
+      "mensaje_sha256": "801ed0a57ad8a5c9990b04c5a94fa16309687108ce2e3bec9eb8c76f06fb5c19",
+      "tipo_discord": 19,
+      "referencia": "1368280957785866311",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368281065608708157",
+      "texto_sha256": "aac6144946d7faf74cbaf2979d922afb37f744058b7e5d71f835773e5b4ecce4",
+      "adjuntos": []
+    },
+    {
+      "id": "1368281752484843612",
+      "fecha_utc": "2025-05-03T17:43:11.238000+00:00",
+      "fecha_local": "2025-05-03",
+      "editado_utc": "2025-05-03T17:43:39.754000+00:00",
+      "texto": "Banzo: **rie** preparada para la excursión pequeña?",
+      "mensaje_sha256": "3593502973c98942cfaf5d207edb10565f1955dd2a43bc533bed6892b856c8fb",
+      "tipo_discord": 19,
+      "referencia": "1368281065608708157",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368281752484843612",
+      "texto_sha256": "43c909933ade75ffbd4c07ba04bc427080ebd0ca5037556c93926ac2516b826d",
+      "adjuntos": []
+    },
+    {
+      "id": "1368281985788809278",
+      "fecha_utc": "2025-05-03T17:44:06.862000+00:00",
+      "fecha_local": "2025-05-03",
+      "editado_utc": null,
+      "texto": "Arwen: listaaaa",
+      "mensaje_sha256": "350ac93eb35da8a609c460cb261176a7675dd26a0e0964b485d8ea5beefb32d1",
+      "tipo_discord": 19,
+      "referencia": "1368281752484843612",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368281985788809278",
+      "texto_sha256": "0f2f8a4388d5035313e7ef48b9e4460a16f15444be985bb8ba126b62703344af",
+      "adjuntos": []
+    },
+    {
+      "id": "1368282530163462215",
+      "fecha_utc": "2025-05-03T17:46:16.651000+00:00",
+      "fecha_local": "2025-05-03",
+      "editado_utc": null,
+      "texto": "Banzo: bien \nPrimer paso,  escoger el tipo de flor en eso Kalista seguro que nos puede ayudar . \nTu la has visto peque?",
+      "mensaje_sha256": "e87d2022351ab0c6bf8462e7ec51c06c5ace3200505b44df7875e6ecf52cf784",
+      "tipo_discord": 19,
+      "referencia": "1368281985788809278",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368282530163462215",
+      "texto_sha256": "3f623c657f990776198841f006b3fec24bbf33604d56f9d831f0096a12c60a24",
+      "adjuntos": []
+    },
+    {
+      "id": "1368282639798374520",
+      "fecha_utc": "2025-05-03T17:46:42.790000+00:00",
+      "fecha_local": "2025-05-03",
+      "editado_utc": null,
+      "texto": "Arwen: **Niega** No ver mujer pez",
+      "mensaje_sha256": "f3b5fbc450fbf2544e67de364cd3580d82196ca4adcaea7b5243354382e44260",
+      "tipo_discord": 19,
+      "referencia": "1368282530163462215",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368282639798374520",
+      "texto_sha256": "d43540df6c61fb18ef75498338f2b6f808804cf9f9f5f473824b8bfa1072cd38",
+      "adjuntos": []
+    },
+    {
+      "id": "1368283346303586394",
+      "fecha_utc": "2025-05-03T17:49:31.234000+00:00",
+      "fecha_local": "2025-05-03",
+      "editado_utc": null,
+      "texto": "Banzo : mmmm vale , vayamos dentro de la base a ver si hay algo suyo que podamos usar para rastrear . \n\nEmpieza la aventura! \nPrimer objetivo buscar mujer pez \n**agarra a Arwen se la pone en la cabeza y se acercan a la base **",
+      "mensaje_sha256": "9cbf9f0df3728244d497dff748f3eac4b3e1b685045932e634a2204aba4166e0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368283346303586394",
+      "texto_sha256": "ae30b26aa003d50ee941e649db0ccb6ccde3ff7a7a6e5dfd9a092af1fbe679ef",
+      "adjuntos": []
+    },
+    {
+      "id": "1368283966590943342",
+      "fecha_utc": "2025-05-03T17:51:59.122000+00:00",
+      "fecha_local": "2025-05-03",
+      "editado_utc": null,
+      "texto": "Arwen: wiiiiiiiii",
+      "mensaje_sha256": "26aadbeb32ba4c96afcc8f227deb4e0d01923d90a25affb52a227f0d5d7e150c",
+      "tipo_discord": 19,
+      "referencia": "1368283346303586394",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368283966590943342",
+      "texto_sha256": "bd3512cd2bf367886daa2c917c4816a88c4af3b8a0ef6f96eb18e72d0069965b",
+      "adjuntos": []
+    },
+    {
+      "id": "1368284576782483496",
+      "fecha_utc": "2025-05-03T17:54:24.603000+00:00",
+      "fecha_local": "2025-05-03",
+      "editado_utc": null,
+      "texto": "**Os acercais a las dos ¿Pero en que parte de la base?**",
+      "mensaje_sha256": "1902926555b73b469b14d7418932cc622d90c17185a73dc173db4153f68d181e",
+      "tipo_discord": 19,
+      "referencia": "1368283346303586394",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368284576782483496",
+      "texto_sha256": "262248bfc4b5294dbda8315eff2934b7a8873b3a53e04dfd7cc1ac5a92fe3302",
+      "adjuntos": []
+    },
+    {
+      "id": "1368284964080320563",
+      "fecha_utc": "2025-05-03T17:55:56.942000+00:00",
+      "fecha_local": "2025-05-03",
+      "editado_utc": null,
+      "texto": "Banzo:** banzo señala el sitio donde siempre se sienta Kalista a estudiar cuando estamos en el salón **",
+      "mensaje_sha256": "73b245b2b78e2016dc9b0d75a02a266403c4d7a5b99ef067c9d0d968b70c1159",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368284964080320563",
+      "texto_sha256": "6d63d0f7a12c012b4d10b1c7c4bac76d065d534a9667265e4bb60e364c180d41",
+      "adjuntos": []
+    },
+    {
+      "id": "1368286216205766737",
+      "fecha_utc": "2025-05-03T18:00:55.472000+00:00",
+      "fecha_local": "2025-05-03",
+      "editado_utc": null,
+      "texto": "Arwen: **Lo mira, va alli olfatea** Mmmmm huele a demasiadas cosas....Necesito mas olor de la mujer pez",
+      "mensaje_sha256": "d5a76697be0a3282b0b09c37519904b1f02837363473f22806bb0cbb078c32c5",
+      "tipo_discord": 19,
+      "referencia": "1368284964080320563",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368286216205766737",
+      "texto_sha256": "5faac17b034f511fd71bf1f7ccc29f1ac4e879c9d6478611c7779b6716ccd0b3",
+      "adjuntos": []
+    },
+    {
+      "id": "1368287238751912016",
+      "fecha_utc": "2025-05-03T18:04:59.266000+00:00",
+      "fecha_local": "2025-05-03",
+      "editado_utc": null,
+      "texto": "Banzo : mmmm vayamos a la puerta de su cuarto,  pero no entres que la gente se desmaya **rie**",
+      "mensaje_sha256": "35796c91c6b24209366a20524a487df8d4e7f45e621823b20e82558a91602701",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368287238751912016",
+      "texto_sha256": "294e0f3e4e26eaf013245bf754851ea4cb10d31ffb299e8a84476e1565c28339",
+      "adjuntos": []
+    },
+    {
+      "id": "1368290437617549484",
+      "fecha_utc": "2025-05-03T18:17:41.935000+00:00",
+      "fecha_local": "2025-05-03",
+      "editado_utc": null,
+      "texto": "Arwen: **Asiente, va a la habitacion y empieza a olfatear bajo la raja de la puerta, ves como cierra los ojos** Mmmmhhhh huele a mujer pez y mmmmhhhh este olor....me suena....",
+      "mensaje_sha256": "73c7dd26dc2b7b808e77cf3c4fd94d76fc03b257a0a9f60db5c1c8fea39f80a3",
+      "tipo_discord": 19,
+      "referencia": "1368287238751912016",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368290437617549484",
+      "texto_sha256": "bbb21640df4d175dbf0aec9a4f84f95365feceb7e6e34bc0a19098de08c2b0ca",
+      "adjuntos": []
+    },
+    {
+      "id": "1368291828717322333",
+      "fecha_utc": "2025-05-03T18:23:13.599000+00:00",
+      "fecha_local": "2025-05-03",
+      "editado_utc": null,
+      "texto": "Banzo : Eso es bien Arwen ! Ves que el rastro vaya hacia la ciudad o algo ?? \n*el otro rastro debe ser de el,  no vi entrar nadie a su habitación sino ..*",
+      "mensaje_sha256": "cf66468841a83b907a4743e572e2787f974e2ff2065094ef034d352849a0ab38",
+      "tipo_discord": 19,
+      "referencia": "1368290437617549484",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368291828717322333",
+      "texto_sha256": "1d4f1bbffb5e32a86e4994c771043175f500055c60529f821d5e8c288a20a482",
+      "adjuntos": []
+    },
+    {
+      "id": "1368292793780404237",
+      "fecha_utc": "2025-05-03T18:27:03.688000+00:00",
+      "fecha_local": "2025-05-03",
+      "editado_utc": "2025-05-03T18:27:14.423000+00:00",
+      "texto": "Arwen: si si si si ven ven ven ven **Va corriendo**",
+      "mensaje_sha256": "c5b0f073b7fe972b4ed7d1e927fc82a19b2f2a02ba657633e67fc646631c357a",
+      "tipo_discord": 19,
+      "referencia": "1368291828717322333",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368292793780404237",
+      "texto_sha256": "0f1bdf46d835b874e749a30b6d2cf69d7878d4aed48c670a5d165275707a268b",
+      "adjuntos": []
+    },
+    {
+      "id": "1368292896343724143",
+      "fecha_utc": "2025-05-03T18:27:28.141000+00:00",
+      "fecha_local": "2025-05-03",
+      "editado_utc": null,
+      "texto": "Banzo **le sigue**",
+      "mensaje_sha256": "9ed912d4248f6af90391a8e04e54f5e3bcf5905ac32e920791d1cc9aa5195ae6",
+      "tipo_discord": 19,
+      "referencia": "1368292793780404237",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368292896343724143",
+      "texto_sha256": "78d5b4699f6344c4c6964deba6fe3f671d5f4fda08f23186ec14ce29723fb9e7",
+      "adjuntos": []
+    },
+    {
+      "id": "1368303100733161586",
+      "fecha_utc": "2025-05-03T19:08:01.057000+00:00",
+      "fecha_local": "2025-05-03",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena 🔴",
+      "mensaje_sha256": "0e491b2f7c1f686a095657f4a304546d5203a725f1f847dd6500f6551526f1ff",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368303100733161586",
+      "texto_sha256": "298fa93bf0457633e2be1e0841043d853cccb9548c7ae2d8426119f0cb0a929e",
+      "adjuntos": []
+    }
+  ]
+}

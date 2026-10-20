@@ -1,0 +1,110 @@
+{
+  "id": "k-1456652468044693658",
+  "campana": "kuroto",
+  "unidad_revision": "k-1456652468044693658",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Ki en los ojos y hojas al vuelo",
+  "resumen": "Wukong convierte sus dudas sobre la cúpula en un ejercicio de concentración y reflejos.",
+  "relato": "Wukong medita bajo un árbol detrás de Sho e intenta ordenar lo ocurrido con los Guardianes, sus reproches y las visiones de quienes retiraron los artefactos incrustados. En privado supone que esos objetos contienen recuerdos o parte del poder de Ootakemaru y que su rencor los ha contaminado; teme que el dragón dorado tampoco sea una excepción. No comprueba esa explicación. La inquietud le impide seguir quieto: recuerda golpes fallidos y daños accidentales a sus compañeros cuando derrumbó un techo durante una pelea.\n\nGolpea el árbol y recoge las hojas que caen, satisfecho al menos con sus reflejos. Entonces decide repetir lo probado en un entrenamiento anterior con Seraphina: concentrar ki en los ojos para intentar anticipar los movimientos del rival. Pasa horas golpeando el tronco y atrapando hojas, con pausas para descansar la vista y refrescarse con agua cuando no sostiene el esfuerzo. La escena cierra su práctica, sin demostrar una nueva capacidad predictiva, una barrera restaurada o una respuesta definitiva sobre los artefactos.",
+  "participantes": [
+    "Wukong"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1456652468044693658",
+      "afirmacion": "Wukong formula en privado una hipótesis sobre artefactos y contaminación y comienza a recoger hojas.",
+      "tipo": "pensamiento"
+    },
+    {
+      "mensaje_id": "1456652991259082882",
+      "afirmacion": "Wukong repite durante horas el ejercicio de ki en los ojos con descansos.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La hipótesis sobre el origen de la corrupción sigue siendo del personaje.",
+    "Entrenar para anticiparse no equivale a adquirir lectura del futuro, mejora mecánica ni técnica validada.",
+    "El hombre que inquieta al mono no recibe nombre en esta unidad; no se lo identifica por conjetura."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-01-02T14:16:51.676000+00:00",
+  "fin_utc": "2026-01-02T14:19:30.695000+00:00",
+  "fecha_local": "2026-01-02",
+  "intervalo": {
+    "anterior": 178,
+    "siguiente": 179,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1455641515153162354",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1458905021985853695",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 178,
+        "fecha": "2025-12-30",
+        "inicio_referencia_utc": "2025-12-30T19:19:26+00:00",
+        "fin_estimado_utc": "2025-12-30T21:38:38+00:00",
+        "duracion_video_segundos": 8352,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1455641515153162354"
+      },
+      {
+        "capitulo": 179,
+        "fecha": "2026-01-08",
+        "inicio_referencia_utc": "2026-01-08T19:27:25+00:00",
+        "fin_estimado_utc": "2026-01-08T21:59:18+00:00",
+        "duracion_video_segundos": 9113,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1458905021985853695"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1456652468044693658",
+      "fecha_utc": "2026-01-02T14:16:51.676000+00:00",
+      "fecha_local": "2026-01-02",
+      "editado_utc": "2026-01-02T14:17:17.923000+00:00",
+      "texto": "Wukong\n\n**El mono se encontraba en la parte de atrás de la base de Sho, meditando bajo un árbol. Intentaba repasar mentalmente las batallas contra los guardianes corruptos, sus palabras y reproches, y esas visiones que tuvieron sus compañeros al arrancarles el artefacto que tenían clavados en sus cuerpos**\n\n*Todo cuadra. Que los guardianes hayan cambiado su favor, esas formas grotescas, esas visiones... Esos artefactos deben contener recuerdos o parte del poder de ootakemaru, y su ira y rencor ha debido contaminarlos... Y por la sensación que tuve al salir del templo del fénix y la voz que escuchamos... El dragón dorado parece que tampoco será una excepción*\n\n**Al recordar esos ojos dorados y esa voz imponente, la calma del Monje empezó a marcharse. Recordando los anteriores combates... Si, se había vuelto más fuerte, pero había perdido eficacia... Golpes al aire, incluso daños colaterales a sus compañeros como cuando derrumbó el techo del templo de fuego encima del fénix, dañando a algunos compañeros accidentalmente**\n\n- mierda así no hay quien se concentre... El Monje Tang ya me habría arreado dos bastonazos mínimo...\n\n**Wukong se puso en pie y miró la copa del árbol bajo el que estaba. Lanzó un golpe al tronco haciéndolo temblar**\n\n- así no conseguiré ni restaurar la barrera ni convertirme en un monje santo como el maestro Tang... Y luego está el loco aquel... Maldito zumbado, egocéntrico, prepotente, pretencioso y malnacido... \n\n**Un buen número de hojas empezaron a caer por el golpe. El mono las miró caer y con movimientos rápidos fue cogiéndolas una a una con ambas manos**\n\n- al menos los reflejos los tengo intactos...\n\n**La cara se le iluminó al verse las manos con las hojas**\n\n*Un segundo. Y si sigo probando lo que hice en el entrenamiento con Seraphina? Lo de cargar ki en los ojos... A lo mejor si llego a acostumbrarme puedo adelantarme a los movimientos del rival*\n\n**Soltó las hojas, se puso en posición de ataque y repitió el golpe de antes**",
+      "mensaje_sha256": "f0394842dce2088f31b3b6cde04608b7bc82771c2e51763794c389b3c013723b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1456652468044693658",
+      "texto_sha256": "7850d320b59e4ab7156b29f64270cc356d9c683a077a557e9b9d19a823eab8b9",
+      "adjuntos": []
+    },
+    {
+      "id": "1456652991259082882",
+      "fecha_utc": "2026-01-02T14:18:56.420000+00:00",
+      "fecha_local": "2026-01-02",
+      "editado_utc": null,
+      "texto": "**cargó el ki en los ojos como había hecho en el anterior entrenamiento y comenzó a coger hojas al aire. Estuvo repitiendo ese ejercicio por horas, descansando la vista y echándose agua cuando no podía aguantar más el ki, y volviendo a empezar cuando se encontraba recuperado**",
+      "mensaje_sha256": "6896b3c5ac9580ac082a8862cd9935de6b55dbbcc59a4e73f39abfca6701c9c4",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1456652991259082882",
+      "texto_sha256": "517183cb5d69fb615df23212e3b1aec5a13833981816cfb3d80d29c68f86734b",
+      "adjuntos": []
+    },
+    {
+      "id": "1456653135018721351",
+      "fecha_utc": "2026-01-02T14:19:30.695000+00:00",
+      "fecha_local": "2026-01-02",
+      "editado_utc": null,
+      "texto": "🙈fin de escena🙈",
+      "mensaje_sha256": "795cb3da235854eadcb4bbbd8e87b3670fbc0d4880ba35b0f9ca779597d84d8b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1456653135018721351",
+      "texto_sha256": "f70cb552bd1dc4899c9aa7a645fe608cccafb776293f35bfd21711e6a3bf1c1a",
+      "adjuntos": []
+    }
+  ]
+}

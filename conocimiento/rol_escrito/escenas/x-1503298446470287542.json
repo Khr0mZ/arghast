@@ -1,0 +1,79 @@
+{
+  "id": "x-1503298446470287542",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1503285689469636658",
+  "hilo_id": "1495828307843747971",
+  "hilo_nombre": "??? - En alguna parte",
+  "titulo": "Deyvon exige un nombre al informante",
+  "resumen": "Un guardia confirma la exhumación, pero no identifica a la hija.",
+  "relato": "Oculto en los hongos, Deyvon atrae a un guardia de la Casa Rheydyn y le recuerda su trato. El hombre confirma que Miz'lin sacó a una hija de las fosas y se encerró con el cadáver, sacerdotisas y Aunfaere. No sabe cuál es. Deyvon exige que lo averigüe para su madre Unthuar y se aleja, dejando al informante con miedo y resentimiento.",
+  "participantes": [
+    "Deyvon Unthuar",
+    "Guardia de Rheydyn"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1503298446470287542",
+      "afirmacion": "Deyvon ordena identificar el cadáver exhumado.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "La hija aún no recibe nombre en estos mensajes.",
+    "El ritual y la conversación de espionaje son viñetas distintas."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-05-11T07:31:19.573000+00:00",
+  "fin_utc": "2026-05-11T07:31:19.573000+00:00",
+  "fecha_local": "2026-05-11",
+  "intervalo": {
+    "anterior": 30,
+    "siguiente": 31,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1502370548246642719",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1504543985379840030",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 30,
+        "fecha": "2026-05-08",
+        "inicio_referencia_utc": "2026-05-08T18:03:57+00:00",
+        "fin_estimado_utc": "2026-05-08T20:19:56+00:00",
+        "duracion_video_segundos": 8159,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1502370548246642719"
+      },
+      {
+        "capitulo": 31,
+        "fecha": "2026-05-14",
+        "inicio_referencia_utc": "2026-05-14T18:00:24+00:00",
+        "fin_estimado_utc": "2026-05-14T21:15:40+00:00",
+        "duracion_video_segundos": 11716,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1504543985379840030"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1503298446470287542",
+      "fecha_utc": "2026-05-11T07:31:19.573000+00:00",
+      "fecha_local": "2026-05-11",
+      "editado_utc": null,
+      "texto": "**Uno de los guardias de la casa Rheydyn patrullaba los jardines de setas traseros, un laberinto de hongos gigantes donde cualquiera con la habilidad suficiente podía ocultarse entre sombras y tallos. Deyvon, envuelto en su piwawfi, era precisamente ese tipo de drow. Invisible para ojos torpes como los del guardia, imitó el chasquido húmedo de arañas devorando carne. El guardia se sobresaltó, miró alrededor inquieto y, creyéndose solo, avanzó hacia el sonido entre la espesura.**\n**Deyvon surgió de entre los hongos como si la oscuridad lo hubiera escupido.**\n\nDeyvon: ¿Y bien? ¿Novedades sobre la Matrona Miz’lin? Recuerda nuestro trato, guardia.\n\nGuardia: Lo recuerdo… **Masculló, con los dientes apretados. Tras asegurarse de que nadie escuchaba, continuó** La Matrona Miz’lin ordenó sacar el cuerpo de una de sus hijas de las fosas nobles. Se ha encerrado en el templo con varias sacerdotisas y con Aunfaere.\n\n**Deyvon lo observó en silencio, leyendo en su postura el miedo sincero. Eso le satisfacía.**\n\nDeyvon: ¿Cuál de sus hijas? Mi madre, la Matrona Unthuar, quiere cada detalle.\n\nGuardia: No llegué a ver el cuerpo… Lo siento, mi señor. **No recibió reprimenda.**\n\nDeyvon: Averígualo. **Dijo, cubriéndose de nuevo con el piwawfi** No querrás desobedecer a la Matrona de la Primera Casa, ¿verdad?\n\n**Se desvaneció entre los hongos, dejando al guardia solo, con la mandíbula tensa y el resentimiento ardiendo en silencio.**\n\n🔴Fin de la Escena🔴",
+      "mensaje_sha256": "93c381ded800f359cf2b1e5e69af3e68b1981a2a1a739dd5367d2f3be4334747",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1503298446470287542",
+      "texto_sha256": "d727bd19e907c9d430b53fbb12c41bbb4aac9d7b47ed702dd55f747b9c594b90",
+      "adjuntos": []
+    }
+  ]
+}

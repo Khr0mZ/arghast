@@ -1,0 +1,228 @@
+{
+  "id": "k-1426860457356038197",
+  "campana": "kuroto",
+  "unidad_revision": "k-1426204378229899315",
+  "hilo_id": "1387915737502580886",
+  "hilo_nombre": "Sho, Palacio del Shogunato - Capital de Kuroto",
+  "titulo": "Kalista deja de confiar en Banzo",
+  "resumen": "La colaboración con Danifae abre una herida entre amigos.",
+  "relato": "Cuando Banzo y Danifae salen, Jelbreg abraza a Kalista y le pide no caer en provocaciones. Ella afirma que ya no ocultará sus advertencias ni confiará en el goliat: interpreta que acudir a su enemiga en vez de a ella es una traición. Jelbreg intenta matizarlo; cree que Banzo está desesperado, apagado y perdido como líder ante el deterioro de los Cazadores, no que haya querido traicionarla. Kalista responde que preferiría luchar sola antes que aliarse con una araña. La pareja reafirma su confianza mutua y vuelve para informar al consejo. La relación con Banzo no se repara en esta conversación.",
+  "participantes": [
+    "Kalista",
+    "Jelbreg"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1426862789561155645",
+      "afirmacion": "Kalista declara retirada su confianza en Banzo.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1426864446722015374",
+      "afirmacion": "Jelbreg interpreta la conducta del goliat como desesperación y no traición.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1426871603891011695",
+      "afirmacion": "Kalista reafirma que sí confía en Jelbreg.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1426883211908350103",
+      "afirmacion": "Deciden volver e informar al consejo.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Dos fases: entrega e interrogatorio con planificación, y conversación privada posterior.",
+    "Wilson es el nombre que repite Archi durante su alteración; no se confirma una persona o entidad independiente presente.",
+    "Locura abisal, fiebre o trauma son hipótesis de Kalista, no diagnósticos definitivos de la narración.",
+    "La destrucción de la filacteria se anuncia para después, sin ejecutarse aquí.",
+    "Las afirmaciones sobre la ruptura de la cúpula, visitas de cultistas a Guardianes y duración del destierro proceden de Danifae; no se ven esos hechos directamente.",
+    "La declaración de Kalista de haber cerrado definitivamente la crisis de filacterias expresa su conclusión, no garantiza que no existan otras."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-10-12T09:14:02.819000+00:00",
+  "fin_utc": "2025-10-13T06:41:16.047000+00:00",
+  "fecha_local": "2025-10-12",
+  "intervalo": {
+    "anterior": 162,
+    "siguiente": 163,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1425912631637835917",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1428443861126086666",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 162,
+        "fecha": "2025-10-09",
+        "inicio_referencia_utc": "2025-10-09T18:27:25+00:00",
+        "fin_estimado_utc": "2025-10-09T21:37:40+00:00",
+        "duracion_video_segundos": 11415,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1425912631637835917"
+      },
+      {
+        "capitulo": 163,
+        "fecha": "2025-10-16",
+        "inicio_referencia_utc": "2025-10-16T18:05:34+00:00",
+        "fin_estimado_utc": "2025-10-16T21:30:31+00:00",
+        "duracion_video_segundos": 12297,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1428443861126086666"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1426860457356038197",
+      "fecha_utc": "2025-10-12T09:14:02.819000+00:00",
+      "fecha_local": "2025-10-12",
+      "editado_utc": null,
+      "texto": "Danifae: **Asiente con la cabeza y va contigo. No sin antes ofrecerle una sonrisa a su hermano**\n\nJelbreg: **Se acerca a Kalista y la rodea con los brazos cuando se marchan esos dos** No caigas en sus provocaciones\n<@753394009153732689>",
+      "mensaje_sha256": "f0220e0165f71136ec22b00d7cbff20b4a3ff8f3e11d2ae225e939355de3e048",
+      "tipo_discord": 19,
+      "referencia": "1426822379220369479",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1426860457356038197",
+      "texto_sha256": "58a4a494e96381e253d73b1efb6bb0afc19ee73fe907ec6060a2ec294e89f732",
+      "adjuntos": []
+    },
+    {
+      "id": "1426862789561155645",
+      "fecha_utc": "2025-10-12T09:23:18.860000+00:00",
+      "fecha_local": "2025-10-12",
+      "editado_utc": null,
+      "texto": "Kalista: no voy a ocultar mas mis advertencias... Ni tampoco confiare mas en Banzo... No hay cosa que mas odie que la traicion....**Se deja abrazar apoyando su cabeza en ti**",
+      "mensaje_sha256": "b82dcc864d76093cfbeac48b59035de2428ed183e2bae2c36ffc53d0ad770971",
+      "tipo_discord": 19,
+      "referencia": "1426860457356038197",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1426862789561155645",
+      "texto_sha256": "222eb9dff1dad68256e5b01c86fa94c77a926f752c8246e9f8dae631c180017f",
+      "adjuntos": []
+    },
+    {
+      "id": "1426864446722015374",
+      "fecha_utc": "2025-10-12T09:29:53.958000+00:00",
+      "fecha_local": "2025-10-12",
+      "editado_utc": null,
+      "texto": "Jelbreg: Ummm... El grandullón hace lo que puede para hacer algo con los problemas. No creo que te haya traicionado, solo que parece algo desesperado por acabar con esto **Te da besos en la cabeza**",
+      "mensaje_sha256": "48719fadb4646aadfe911c63ae6c44c53d277fd4c0d8fe6b3894f7fc95b73c20",
+      "tipo_discord": 19,
+      "referencia": "1426862789561155645",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1426864446722015374",
+      "texto_sha256": "f12e9095013a2844df495b42324f6111769cc5d46e8af40b37edb66a37ef8199",
+      "adjuntos": []
+    },
+    {
+      "id": "1426865446224920646",
+      "fecha_utc": "2025-10-12T09:33:52.258000+00:00",
+      "fecha_local": "2025-10-12",
+      "editado_utc": null,
+      "texto": "Kalista: que haya buscado ayuda en ella en vez de en mi habla mucho por el... **Cierra los ojos abrazandote tambien**",
+      "mensaje_sha256": "613a4635a9cf27f38c2c02fa1c3a7d41b530bc092d6432475de620f238bbd8c0",
+      "tipo_discord": 19,
+      "referencia": "1426864446722015374",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1426865446224920646",
+      "texto_sha256": "2520b11ccdeb17631a60acb5304039239cb2c59ba47d086fa67ae0cfb1c2debc",
+      "adjuntos": []
+    },
+    {
+      "id": "1426866616628674643",
+      "fecha_utc": "2025-10-12T09:38:31.304000+00:00",
+      "fecha_local": "2025-10-12",
+      "editado_utc": null,
+      "texto": "Jelbreg: Lo se, pero parece algo apagado. Los Cazadores de desmorona y el como líder está perdido **Te abraza más fuerte** Hace cosas sin pensar, al igual que alguien que yo me se cuando está en su misma situación",
+      "mensaje_sha256": "0cce19a361dbf1ac1f55d1de8040b3ce10a73193c92e979033fc9d83d9ed6d60",
+      "tipo_discord": 19,
+      "referencia": "1426865446224920646",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1426866616628674643",
+      "texto_sha256": "24bf7b8e0170d14f01e5bbff1104d517b8e1571c18b4f8b41d099b44e81a1448",
+      "adjuntos": []
+    },
+    {
+      "id": "1426867778211549284",
+      "fecha_utc": "2025-10-12T09:43:08.247000+00:00",
+      "fecha_local": "2025-10-12",
+      "editado_utc": null,
+      "texto": "Kalista: **Cierra los ojos** Antes preferiria luchar sola que aliarme con una araña",
+      "mensaje_sha256": "9927336bf535703a8a296b2488e6ea2db48fb554c641f483e625b0fb356d5ea6",
+      "tipo_discord": 19,
+      "referencia": "1426866616628674643",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1426867778211549284",
+      "texto_sha256": "5d78e6a7e5bb8dddbff37233ec27c92cca1388095c67a486cc59f96d5ed09e3d",
+      "adjuntos": []
+    },
+    {
+      "id": "1426869019381731358",
+      "fecha_utc": "2025-10-12T09:48:04.165000+00:00",
+      "fecha_local": "2025-10-12",
+      "editado_utc": null,
+      "texto": "Jelbreg: Lo se **Apoya su cabeza en la tuya** Y estaré a tu lado. No dejaré que te pase nada esta vez.",
+      "mensaje_sha256": "f0ca06892604b935f599e7e17f6ddd7a148875beef3a5204777904b56d8918a8",
+      "tipo_discord": 19,
+      "referencia": "1426867778211549284",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1426869019381731358",
+      "texto_sha256": "6c1eb026f230de675e8b62ffaf7c0027d45cb0952db04b3b4af4db80ac41af2f",
+      "adjuntos": []
+    },
+    {
+      "id": "1426871603891011695",
+      "fecha_utc": "2025-10-12T09:58:20.360000+00:00",
+      "fecha_local": "2025-10-12",
+      "editado_utc": null,
+      "texto": "Kalista: ....lo se...en ti puedo confiar **Se acurruca contra ti**",
+      "mensaje_sha256": "e84f962ec0f27dd9684c2fd2dca7f8c5337f2b8662663a77b6a705e8fccb4f32",
+      "tipo_discord": 19,
+      "referencia": "1426869019381731358",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1426871603891011695",
+      "texto_sha256": "10ded7df58019b681333611744c3b2327a1d9610c340d9c2ac00b53f4fb23de5",
+      "adjuntos": []
+    },
+    {
+      "id": "1426883211908350103",
+      "fecha_utc": "2025-10-12T10:44:27.927000+00:00",
+      "fecha_local": "2025-10-12",
+      "editado_utc": null,
+      "texto": "Jelbreg: Siempre **Te da un achuchón** Volvamos a palacio e informemos al consejo",
+      "mensaje_sha256": "07985590c018a7015e96130cf0427dbb01176ea3be67d4596758ec5d23d98b46",
+      "tipo_discord": 19,
+      "referencia": "1426871603891011695",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1426883211908350103",
+      "texto_sha256": "7c793ed072e4be02c167d78f6eec79315d8e4139e616b30de4fba874f86d2731",
+      "adjuntos": []
+    },
+    {
+      "id": "1426883360290246677",
+      "fecha_utc": "2025-10-12T10:45:03.304000+00:00",
+      "fecha_local": "2025-10-12",
+      "editado_utc": null,
+      "texto": "Kalista: **Asiente y va contigo**",
+      "mensaje_sha256": "6e1874794a9bfc4a06c5c39c16c132889ccbdefed2417fb000098c57651e3315",
+      "tipo_discord": 19,
+      "referencia": "1426883211908350103",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1426883360290246677",
+      "texto_sha256": "a310f72ff8b8c9f06e2c6a160d2e87df7ba1a4e950c1a1368b0d32c3073829e3",
+      "adjuntos": []
+    },
+    {
+      "id": "1427184396993298535",
+      "fecha_utc": "2025-10-13T06:41:16.047000+00:00",
+      "fecha_local": "2025-10-13",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "cb886ef26489c41d216cf66753a8d0b7e77a73b3b57e9b4b69ba5fe41eed6dfa",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1427184396993298535",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

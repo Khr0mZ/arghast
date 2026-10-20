@@ -1,0 +1,296 @@
+{
+  "id": "k-1387778544066625577",
+  "campana": "kuroto",
+  "unidad_revision": "k-1387778544066625577",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Un botiquín para el ninja y respuestas pendientes de Kazuki",
+  "resumen": "Kalista ofrece cuidados a Kurobane pese a desconfiar; Kazuki llega después para explicar lo sucedido.",
+  "relato": "Kalista trabaja en la base cuando Kurobane vuelve del portal exhausto, con una herida de garra en la cara y un ojo rojo y otro azul. Ella duda de quién controla el cuerpo y le recomienda descansar y curarse. El ninja afirma que no es Osurai, pero la tritón quiere pruebas antes de confiar. Se retira al dormitorio. En su diálogo interno, la entidad le reprocha conocer a Kalista, lo castiga cuando sus tatuajes se iluminan y lo amenaza con arrastrarlo consigo si fracasa en la búsqueda. Fuera solo se oye un grito ahogado. Kalista deja el trabajo y entra con un botiquín: no quiere participar en sus discusiones, pero facilita que se trate. Kurobane utiliza los materiales para atender las heridas, vuelve junto a ella en silencio y se despide con una reverencia antes de salir hacia el bosque y un lago. En la puerta deja entrar a Kazuki. El noble ofrece ayuda y la administradora le recuerda que le debe respuestas. Él admite haber venido precisamente a dárselas por lo ocurrido el día anterior, pero el intercambio se cierra antes de explicarlas.",
+  "participantes": [
+    "Kalista",
+    "Kurobane",
+    "Osurai",
+    "Kazuki"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1387782544325607545",
+      "afirmacion": "Kurobane vuelve agotado con una herida de garra y los ojos de distinto color.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1387786120019836968",
+      "afirmacion": "El joven afirma que no es Osurai y su voz coincide con la propia.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1387786996574982229",
+      "afirmacion": "Kalista mantiene la duda hasta ver pruebas y aconseja reposo.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1387788896968114177",
+      "afirmacion": "Osurai reprende y amenaza al joven en el diálogo interior; se iluminan tatuajes y se oye un grito.",
+      "tipo": "pensamiento"
+    },
+    {
+      "mensaje_id": "1387789917530095647",
+      "afirmacion": "Kalista deja un botiquín en el cuarto del ninja.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1387792268303532073",
+      "afirmacion": "Kurobane atiende sus heridas y sale; Kazuki entra después.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1387793365101187132",
+      "afirmacion": "Kazuki admite que debe explicar lo ocurrido y se dispone a responder.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Quince mensajes íntegros. La voz del joven y la presencia parcial de la sombra se distinguen en la narración; la duda de Kalista sobre el control se conserva.",
+    "Kalista oye el grito, pero no el contenido íntegro del diálogo interno. No recibe automáticamente la amenaza o los detalles del castigo.",
+    "La finalidad y el objeto de la búsqueda que Osurai exige no se explican. La imagen de ruptura de una ilusión no permite reconstruir qué vio antes el ninja.",
+    "Se realizan primeros cuidados, sin confirmar recuperación completa ni origen de la herida facial. Las recomendaciones médicas se conservan solo como palabras del personaje, no como indicaciones reales.",
+    "La llegada de Kazuki no es una transformación del ninja: se cruzan como personajes distintos. Sus respuestas sobre la identidad Dante/Kazuha siguen sin darse en este cierre."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2025-06-26T12:56:28.584000+00:00",
+  "fin_utc": "2025-06-26T18:05:05.269000+00:00",
+  "fecha_local": "2025-06-26",
+  "intervalo": {
+    "anterior": 132,
+    "siguiente": 133,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387494015813030079",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387857477848141979",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 132,
+        "fecha": "2025-06-25",
+        "inicio_referencia_utc": "2025-06-25T18:05:33+00:00",
+        "fin_estimado_utc": "2025-06-25T20:47:07+00:00",
+        "duracion_video_segundos": 9694,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387494015813030079"
+      },
+      {
+        "capitulo": 133,
+        "fecha": "2025-06-26",
+        "inicio_referencia_utc": "2025-06-26T18:09:52+00:00",
+        "fin_estimado_utc": "2025-06-26T20:54:04+00:00",
+        "duracion_video_segundos": 9852,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387857477848141979"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1387778544066625577",
+      "fecha_utc": "2025-06-26T12:56:28.584000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": null,
+      "texto": "Kalista: **Llega a la base cargada de varias bolsas y documentos y los deja en la mesa**",
+      "mensaje_sha256": "b20ec487a1be304d711c25c15d7e66e770e636301495bb310f5d1de71536450a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387778544066625577",
+      "texto_sha256": "90c90bfc9d74e4608628bacec7dfdaf5719ab85b166a1763507647c7a1cd539d",
+      "adjuntos": []
+    },
+    {
+      "id": "1387780436440121405",
+      "fecha_utc": "2025-06-26T13:03:59.761000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": "2025-06-26T13:05:56.404000+00:00",
+      "texto": "**Se escucha el portal crepitar, saliendo una sombra de allí, la cual se mueve hacia la puerta, la cual toca**\n\nSe puede....?\n\n**Se escucha una voz cansada parece que ha perdido todo el atisvo de vida que tenia**",
+      "mensaje_sha256": "5a27ffe39594f2474a66a28a855265b58461155392d690b1a3aa2d3f35221d0c",
+      "tipo_discord": 19,
+      "referencia": "1387778544066625577",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387780436440121405",
+      "texto_sha256": "36a9fe67ade9c44dfc6b1b82297df5b1a41fba10348ac2960b74d47aa432fc8d",
+      "adjuntos": []
+    },
+    {
+      "id": "1387781501063528599",
+      "fecha_utc": "2025-06-26T13:08:13.587000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": null,
+      "texto": "Kalista: **Se sorprende y de gira** Si, adelante",
+      "mensaje_sha256": "11bc3c2e647aa692891ecc39efb1ce20f7aad5000ad860b9f36eeddc89134287",
+      "tipo_discord": 19,
+      "referencia": "1387780436440121405",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387781501063528599",
+      "texto_sha256": "5c615bdc14a5ca530b2a5ca9d73130866f7d4193b14cdaef2095cbac6c776296",
+      "adjuntos": []
+    },
+    {
+      "id": "1387782544325607545",
+      "fecha_utc": "2025-06-26T13:12:22.320000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": "2025-06-26T13:14:17.254000+00:00",
+      "texto": "**La puerta se abre poco a poco, como si el que la abre no tuviera fuerzas, la persona a la que ves es al ninja, sin la capucha puesta, a causa de tener que hacer mas fuerza de lo habitual, ves en su cara esos dos ojos, uno rojo y uno azul, cansados, una marca de garrazo que le traspasa en diagonal la cara, que poco mas y se queda sin el ojo rojo, conjuntamente con su pelo alborotado, en pocas palabras un chico destrozado**\n\nKurobane:\n\nGracias....\n\n**Agradece con un hilo de voz de cansancio, dejando que el aire cierre la puerta detrás suya**",
+      "mensaje_sha256": "5ad04cf0169eaec1568c9397b02bf6ba15d8b570ad9febd3e8c868d8e89834d3",
+      "tipo_discord": 19,
+      "referencia": "1387781501063528599",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387782544325607545",
+      "texto_sha256": "6fb80961d6816d63ffd7c2cc76103c2f60a0a970bdfa70250fff62b2c98c6b89",
+      "adjuntos": []
+    },
+    {
+      "id": "1387783136007688263",
+      "fecha_utc": "2025-06-26T13:14:43.388000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": "2025-06-26T13:16:12.848000+00:00",
+      "texto": "Kalista: **Se lo queda mirando unos segundos** Creo que deberias descansar, te diria de descansar en tu habitacion...pero sin puertas y sin privacidad poco descansaras",
+      "mensaje_sha256": "c927d2d282c573838cfb0abee2e661ab3891b8f8ce9358595344d89d38868cfc",
+      "tipo_discord": 19,
+      "referencia": "1387782544325607545",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387783136007688263",
+      "texto_sha256": "a506fcf78ce72ad1a2be1533e6033347288b6e31c5fff260d30b0f4db5910d68",
+      "adjuntos": []
+    },
+    {
+      "id": "1387784203919425659",
+      "fecha_utc": "2025-06-26T13:18:57.998000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": "2025-06-26T13:21:42.894000+00:00",
+      "texto": "Kurobane:\n\nAgradezco su consejo... Pero solo estoy aquí para descansar un poco... Y volver a mis cosas... Disculpa las molestias...\n\n**Se acerca poco a poco a la mesa central, ves sus pasos son lentos y patosos en comparación a antes, después de unos pocos segundos, se sienta en una de las sillas**",
+      "mensaje_sha256": "f4cab59718945802f7ff3443e48c42345900eff586578ccc1e899c4ba4182767",
+      "tipo_discord": 19,
+      "referencia": "1387783136007688263",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387784203919425659",
+      "texto_sha256": "cebd103168e39f5c1eff0258f027ee0efbf8122d4a4464d7390b8a7d8504eee0",
+      "adjuntos": []
+    },
+    {
+      "id": "1387785387983765517",
+      "fecha_utc": "2025-06-26T13:23:40.301000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": null,
+      "texto": "Kalista: **Te mira** Tienes un cuerpo humano, si no descansa y curas sus heridas sera menos efectivo...Y no creo que te convenga, ahora solo tienes una vida, no puedes volver a tu estatua **Abre su pergamino** No se con quien hablo pero deberias usar mas la cabeza",
+      "mensaje_sha256": "d81ae0074ec5255c0d2a216924f4556ea8018342cb7e4caeccb6af95bb6fc9d5",
+      "tipo_discord": 19,
+      "referencia": "1387784203919425659",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387785387983765517",
+      "texto_sha256": "cfade46c76cc3e76ec1ed4a6b0c583c915930e279dca25517427be4d63e0fd0c",
+      "adjuntos": []
+    },
+    {
+      "id": "1387786120019836968",
+      "fecha_utc": "2025-06-26T13:26:34.832000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nNo soy él, Kalista...\n\n**Notas que efectivamente no es Osurai, lo único que notas de la sombra es ese ojo azul**\n\nPero agradezco su preocupación...\n\n**La voz es la suya, pero sin esa sonrisa o \"felicidad\" que conoces de él, cuando habla contigo**",
+      "mensaje_sha256": "c79de915fc55fe07e796b4a84aa0c0ed789349f55d88d6e179623f10db137c74",
+      "tipo_discord": 19,
+      "referencia": "1387785387983765517",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387786120019836968",
+      "texto_sha256": "5a30ebad23a2dab5a2ed4b01503c6fa16b2e5e2b41f5f19b69a03b1c6128235f",
+      "adjuntos": []
+    },
+    {
+      "id": "1387786996574982229",
+      "fecha_utc": "2025-06-26T13:30:03.819000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": null,
+      "texto": "Kalista: eso lo juzgare cuando vea pruebas concruyentes de quien eres en realidad, hasta entonces dudare de ello**Anota algo en el pergamino** Pues si la agradeces mejor que sigas mis consejos",
+      "mensaje_sha256": "29db5e539eb2490c13aa1ea809d631d417914d54ac003fcd0b42627d2d9941f7",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387786996574982229",
+      "texto_sha256": "5252f5ebc945ed8216012eff85e83b5990dce3f4770136431b26ef234efea437",
+      "adjuntos": []
+    },
+    {
+      "id": "1387788896968114177",
+      "fecha_utc": "2025-06-26T13:37:36.908000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\n**Se levanta con dificultad, hace una pequeña reverencia, a altura media y procede a entrar en su habitación, se queda sentado en el borde de la cama, pensativo**\n\nOsurai:\n\n*Si nunca hubieras conocido a esa chica, no estarías así, pupilo. Y si no hubieras roto la ilusión, no necesitarías ser disciplinado*\n\nKurobane:\n\n**Se escucha un pequeño grito ahogado mientras esos tatuajes se \"encienden\"**\n\nOsurai:\n\n*Como tu trabajo de buscar lo que quiere salga mal y yo muera, TU te vienes conmigo*\n\n**Después de ese pequeño grito ahogado hay silencio**",
+      "mensaje_sha256": "73adbf210264f1d564b4458e94ae4061ee59c7f3eeba45cc5c430b37fec02832",
+      "tipo_discord": 19,
+      "referencia": "1387786996574982229",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387788896968114177",
+      "texto_sha256": "9aa94b086c7d19ffa4f3893c2bbc8899fe6fb3e55c9f2633776ffaace2871a17",
+      "adjuntos": []
+    },
+    {
+      "id": "1387789917530095647",
+      "fecha_utc": "2025-06-26T13:41:40.229000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": "2025-06-26T13:45:47.540000+00:00",
+      "texto": "Kalista: **Levanta un poco la vista del pegamino y suspira. Toma el botiquin de la base y entra sin permiso en tu habitacion y te lo deja cerca** No voy a meterme en vuestras discusiones, pero el alcohol sobre las heridas abiertas duele bastante y al menos las desinfecta. Dos por el precio de uno, os haceis daño y os curais a la vez. **Lo deja ahi y sale para volver a hacer las cuentas de los cazadores**",
+      "mensaje_sha256": "934454dd7ede9116230237240e1d1cc4354408e013fc1d91544e5aa0bedbd828",
+      "tipo_discord": 19,
+      "referencia": "1387788896968114177",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387789917530095647",
+      "texto_sha256": "6b5c82d7a4882ad51a99897a1097e1842c6cb95283180b154497ef9c39e90f19",
+      "adjuntos": []
+    },
+    {
+      "id": "1387792268303532073",
+      "fecha_utc": "2025-06-26T13:51:00.697000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\n**Toma ese botiquín y se empieza a curar poco a poco, se hecha el alcohol en una tela, la cual coloca en las heridas, después de un tiempo, se levanta del borde de la cama con el botiquín, a un lado de la tritón, totalmente en silencio, le hace una reverencia y procede a irse de la base, al abrir la puerta de la base, vería a ese noble con ropajes rojos, le dejaría pasar y se iría primero al bosque a ese lago cercano**\n\n🌘  Kurobane sale de escena 🌘 \n\nKazuki:\n\nOh gracias, joven encapuchado. \n\n**Escucha la voz del noble acercarse**\n\nLe puedo echar una mano, señorita Kalista.\n\n**Dice serio pero sincero mientras la ve inviscuirse en esos papeles**",
+      "mensaje_sha256": "f87a65a6fe39852192fcdbef6e67dfb80f25c1610229eeb3f2c798ef49e23c96",
+      "tipo_discord": 19,
+      "referencia": "1387789917530095647",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387792268303532073",
+      "texto_sha256": "36e9a86e04b5c7743fbfbe6874cdbd2c3795d9af412a88a7972988f86e3a0e66",
+      "adjuntos": []
+    },
+    {
+      "id": "1387792985608945735",
+      "fecha_utc": "2025-06-26T13:53:51.716000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": null,
+      "texto": "Kalista: **Mira detras de ella...piensa que hoy es el dia nacional de los que tienen mas de una personalidad...¿Si no por que hoy se toparia con tantos asi?** Creo que conoce mi respuesta y usted me debia varias",
+      "mensaje_sha256": "5094bb07b49558651c539130d36b5f1714ce5255c44a6914e4d93fdeb5493880",
+      "tipo_discord": 19,
+      "referencia": "1387792268303532073",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387792985608945735",
+      "texto_sha256": "32ca95f4dc49b8faa34e0dd3163eb0ea93ce5bafb113ea868d0e359e6a5d5bf9",
+      "adjuntos": []
+    },
+    {
+      "id": "1387793365101187132",
+      "fecha_utc": "2025-06-26T13:55:22.194000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": "2025-06-26T13:59:45.986000+00:00",
+      "texto": "Kazuki:\n\nPor ello, me hayo aquí, señorita Kalista. Porque le debo respuestas, tras lo ocurrido el otro día.\n\n**Dice serio pero ves que en su tono es de disculpas sinceras**",
+      "mensaje_sha256": "4499813ab547080cf36f6b3899672099b4250e34fb4859b4063c63046da16ec3",
+      "tipo_discord": 19,
+      "referencia": "1387792985608945735",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387793365101187132",
+      "texto_sha256": "39e3de1623f120f8345f789a90e17656fbad1c37e9cfecaa6c2de030721592c4",
+      "adjuntos": []
+    },
+    {
+      "id": "1387856208672718908",
+      "fecha_utc": "2025-06-26T18:05:05.269000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "b3c359ef603bd959115da32142e19cd7fb04c21e332bedc5be1600ba6489dc98",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387856208672718908",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

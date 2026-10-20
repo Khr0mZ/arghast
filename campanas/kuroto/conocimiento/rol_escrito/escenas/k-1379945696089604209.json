@@ -1,0 +1,347 @@
+{
+  "id": "k-1379945696089604209",
+  "campana": "kuroto",
+  "unidad_revision": "k-1379945696089604209",
+  "hilo_id": "1379945696089604209",
+  "hilo_nombre": "Sho, Barrios bajos - Capital de Kuroto",
+  "titulo": "Archi conoce al inventor Viktor Frankenbolt",
+  "resumen": "Unas gafas revelan a Archi cuando vigila el taller invisible. Viktor acepta presentarse, pero mantiene su desconfianza y vuelve al trabajo.",
+  "relato": "Archi espera invisible frente a una casa de los barrios bajos de Sho de la que salen chirridos metálicos. Un humano cubierto de hollín aparece a desahogar su frustración contra unos engranajes. El gnomo no reconoce su rostro de ningún gremio y decide atraerlo con una tuerca de mecanismo inverso. El hombre recoge la pieza y ajusta sus gafas: su brillo amarillo le permite ver al intruso invisible. La tuerca despliega patas y vuelve hasta Archi, que saluda y cancela su ocultación.\n\nTres animales mecánicos —perro, pantera y gorila— salen del taller para proteger a su dueño. Este sospecha un robo y afirma que ni los Cuchillas Negras se atreverían. Archi levanta las manos, se presenta como Leopold von Bergen y deja que Ralph se muestre. El otro acaba ofreciendo la mano y da su nombre: Viktor Frankenbolt. Archi reivindica una larga tradición familiar de artífices de Cono Sur y elogia lo que Viktor ha conseguido con los recursos locales.\n\nViktor explica que procede de Tunriel, ciudad del continente de Urdar. Reconoce la escasez de recursos de Kuroto, aunque le interesan su poder mágico y los yokais. Archi dice percibir una disminución de esa magia, señala que sus inventos necesitan cuarzo rosa y atribuye su estancia a una avería del aerotransporte. Viktor no abandona la cautela: se retira con sus animales y da por terminada la conversación para volver a colocar engranajes.",
+  "participantes": [
+    "Archi",
+    "Viktor Frankenbolt",
+    "Ralph"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1380085515700666419",
+      "afirmacion": "Las gafas del inventor permiten localizar a Archi invisible.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1380106864221749268",
+      "afirmacion": "Viktor Frankenbolt se presenta al supuesto Leopold von Bergen.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1380124990384373801",
+      "afirmacion": "Viktor declara proceder de Tunriel, en Urdar.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "La ilustración inicial sirve de contexto del barrio y ha sido inspeccionada; no identifica por sí sola cada edificio.",
+    "Leopold von Bergen es el nombre que Archi usa aquí. Su declaración sobre el cuarzo rosa y la avería se conserva como testimonio."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-04T22:11:32.099000+00:00",
+  "fin_utc": "2025-06-05T16:28:42.410000+00:00",
+  "fecha_local": "2025-06-05",
+  "intervalo": {
+    "anterior": 124,
+    "siguiente": 125,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1379890572373790750",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1380253520841805875",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 124,
+        "fecha": "2025-06-04",
+        "inicio_referencia_utc": "2025-06-04T18:32:16+00:00",
+        "fin_estimado_utc": "2025-06-04T21:34:59+00:00",
+        "duracion_video_segundos": 10963,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1379890572373790750"
+      },
+      {
+        "capitulo": 125,
+        "fecha": "2025-06-05",
+        "inicio_referencia_utc": "2025-06-05T18:34:23+00:00",
+        "fin_estimado_utc": "2025-06-05T21:51:33+00:00",
+        "duracion_video_segundos": 11830,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1380253520841805875"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1379945696089604209",
+      "fecha_utc": "2025-06-04T22:11:32.099000+00:00",
+      "fecha_local": "2025-06-05",
+      "editado_utc": "2025-06-04T22:13:34.395000+00:00",
+      "texto": "*Pobredumbre, basura, mal olor, ratas, ratas con navajas... Ay que seria de una ciudad sin uno de sus mas encantadores barrios. El olor a hierro de la sangre y desechos es el mal de cada dia.**\n**Tened precaucion para no conocer de cerca a sus habitantes mientras haceis esos negocios... Tan enturviados como estas calles*",
+      "mensaje_sha256": "db33cffd5ed3779bbdbb64c441cfc1be7489a7bb5340095235dae9cc60c32510",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1379945696089604209",
+      "texto_sha256": "15ac1f677d6dcb4fe71118311eb47eada6845eee8753f1e26a310022741275a0",
+      "adjuntos": [
+        {
+          "id": "1379945697318666470",
+          "nombre": "Barrios_Bajos.jpg",
+          "tipo": "image/jpeg",
+          "archivo": "adjuntos/1379945697318666470.jpg",
+          "url": "rol_escrito/adjuntos/1379945697318666470.jpg",
+          "bytes": 3211266,
+          "sha256": "e0b57eccc5d6d0eebe09e6534210501703f0aae13bfcc17e96cda23dd275d1a7"
+        }
+      ]
+    },
+    {
+      "id": "1379947340923670588",
+      "fecha_utc": "2025-06-04T22:18:04.258000+00:00",
+      "fecha_local": "2025-06-05",
+      "editado_utc": "2025-06-05T06:26:10.369000+00:00",
+      "texto": "Archi : **estaría en invisible esperando en un callejón a ver si sale alguien de la casa del artificiero**",
+      "mensaje_sha256": "0e481938970e80142ec940fffb8a28d07db4cb956ad026baee8e684b76efe8a2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1379947340923670588",
+      "texto_sha256": "fcc87fc4a1f1cc513b9f70d2067d6e0f563cf0a1b2f704c299b99054f4cf668e",
+      "adjuntos": []
+    },
+    {
+      "id": "1380051643818709093",
+      "fecha_utc": "2025-06-05T05:12:32.006000+00:00",
+      "fecha_local": "2025-06-05",
+      "editado_utc": "2025-06-05T06:27:38.636000+00:00",
+      "texto": "???: **Esperas en el callejón, mientras escuchas ruidos metálicos y chirridos extraños que sale del interior de esa casa que te llamó tanto la atención la noche anterior. Después de un largo rato que casi hace que sucumbas al sueño, sale un hombre lleno de hollín mientras blasfema al aire enfurruñado** ¡Malditos engranajes de los demonios!",
+      "mensaje_sha256": "06c4af50ded16bd6433827f8578124de5bd8091a95063276f21e8e5c59b22d42",
+      "tipo_discord": 19,
+      "referencia": "1379947340923670588",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1380051643818709093",
+      "texto_sha256": "df6651ad8770beb1720739cb240d79c8cf1b2544d0e1f7b069509a0f3ef77d87",
+      "adjuntos": []
+    },
+    {
+      "id": "1380070745841078302",
+      "fecha_utc": "2025-06-05T06:28:26.283000+00:00",
+      "fecha_local": "2025-06-05",
+      "editado_utc": null,
+      "texto": "Archi:** le sigue manteniendo las distancias , intenta buscar ver su rostro para ver si lo conoce de algún antiguo gremio de ingenieros o algo así **",
+      "mensaje_sha256": "cb7b2f9d6f1c0e5ab8eb6b5ecf544498a18fa34848a1676644b70610ca9c8fd6",
+      "tipo_discord": 19,
+      "referencia": "1380051643818709093",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1380070745841078302",
+      "texto_sha256": "c0f101eb71f24c0b9c0735887d46a51f2d12c676b70b1c0ebe49d2ee2c7ed08b",
+      "adjuntos": []
+    },
+    {
+      "id": "1380072978217173094",
+      "fecha_utc": "2025-06-05T06:37:18.523000+00:00",
+      "fecha_local": "2025-06-05",
+      "editado_utc": null,
+      "texto": "??? **Es un humano algo rechoncho, con manos grandes y parece no tener cara de buenos amigos. No pareces conocerle de ningún gremio, es más, parece un hombre que ha aprendido por su propia cuenta...** Estoy harto, ya verás la próxima, te voy a construir! **Dice gritando al aire**",
+      "mensaje_sha256": "069d9a37d5df066a15afdb46a19e6b55ca2fa54a574ae4534274029e3bb2ca4a",
+      "tipo_discord": 19,
+      "referencia": "1380070745841078302",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1380072978217173094",
+      "texto_sha256": "4b1257a057d38ae683444c5e2bf9ae868c808bc96fc214aa476d48241cb3b35c",
+      "adjuntos": []
+    },
+    {
+      "id": "1380081044086325310",
+      "fecha_utc": "2025-06-05T07:09:21.576000+00:00",
+      "fecha_local": "2025-06-05",
+      "editado_utc": null,
+      "texto": "Archi:** va en alguna dirección en concreto? Hacia fuera de los barrios hacia algún comercio? O simplemente está en la calle ? **",
+      "mensaje_sha256": "81d2c7215ca5ad528e93e1db0cc255755a470388cbfbde8fdaec7a7e12325701",
+      "tipo_discord": 19,
+      "referencia": "1380072978217173094",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1380081044086325310",
+      "texto_sha256": "0a89e1d64620ca74615778bfd76eddb2f48b40b3f48535bbae4dbac1116b952d",
+      "adjuntos": []
+    },
+    {
+      "id": "1380081748767146035",
+      "fecha_utc": "2025-06-05T07:12:09.585000+00:00",
+      "fecha_local": "2025-06-05",
+      "editado_utc": null,
+      "texto": "???: **El hombre simplemente esta delante de su puerta blasfemando y dándole patadas a la pared. Parece frustrado por algo. Después de desahogarse un rato, se coloca unas gafas y se mete otra vez en el interior de la casa** Bueno....otra vez... al lío...",
+      "mensaje_sha256": "09279e7b00cf918a94220685d92e602e21e6cc08887daa87de0f87da7da69f01",
+      "tipo_discord": 19,
+      "referencia": "1380081044086325310",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1380081748767146035",
+      "texto_sha256": "266a26aea7cbb29ca8c520516e554b4755bfc040751dfd49033adbe11d60a725",
+      "adjuntos": []
+    },
+    {
+      "id": "1380082589900996681",
+      "fecha_utc": "2025-06-05T07:15:30.127000+00:00",
+      "fecha_local": "2025-06-05",
+      "editado_utc": "2025-06-05T07:16:49.453000+00:00",
+      "texto": "Archi: **antes de que se meta quiero lanzar hacia la puerta una de las tuercas más extrañas que tengo , a la vista es una simple tuerca pero alguien con conocimientos podría detectar que es una tuerca de de mecanismo inverso.  Se usa para invertir el funcionamiento de maquinaria . ( la intención es llamar su atención )**",
+      "mensaje_sha256": "3e4823a3530a059d2856e05a4c4c75d4c3c44bb5b1c2cb7b8797406a88841593",
+      "tipo_discord": 19,
+      "referencia": "1380081748767146035",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1380082589900996681",
+      "texto_sha256": "7f4b0a8ffe96110b426d7893f9e5ae16e29c06735186570902b4204f53a1fe5c",
+      "adjuntos": []
+    },
+    {
+      "id": "1380085515700666419",
+      "fecha_utc": "2025-06-05T07:27:07.692000+00:00",
+      "fecha_local": "2025-06-05",
+      "editado_utc": "2025-06-05T07:27:50.086000+00:00",
+      "texto": "???: **El hombre ve la pieza que has lanzado rodar cerca de él** ¿Pero que tuercas.. ? **Se agacha a recogerla y se gira en la dirección de donde ha venido. Gira unas pequeñas palancas de sus gafas haciendo que estas brillen en un tono amarillento y viendo al pequeño gnomo oculto (ver invisibilidad)** Eh tu! Que haces ahí... Vete o sacaré a los perros!",
+      "mensaje_sha256": "34d726042a7502f2b4d7482953fb3e41924cbbdb9c47c509c43b13f9ac615f9b",
+      "tipo_discord": 19,
+      "referencia": "1380082589900996681",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1380085515700666419",
+      "texto_sha256": "e7b864d12b53e8a177bdc54a4d8f220538fa76792fadd5226b25936da712bde1",
+      "adjuntos": []
+    },
+    {
+      "id": "1380086622745526314",
+      "fecha_utc": "2025-06-05T07:31:31.632000+00:00",
+      "fecha_local": "2025-06-05",
+      "editado_utc": "2025-06-05T07:31:49.338000+00:00",
+      "texto": "Archi: **vería al gnomo sonriendo y saludandole con la mano ** \n\n**De la tuerca que le ha tirado salen unas pequeñas patitas de araña , le da un rodeo al hombre y vuelve en dirección acia donde está archi .\n\nArchi sigue sonrriendode forma picara ,levanta la manos y se quita invisibilidad.**",
+      "mensaje_sha256": "55da4accb06b99ed1f8eb75ecf380af1d0f79c13b86e72338e0dc4db968435e1",
+      "tipo_discord": 19,
+      "referencia": "1380085515700666419",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1380086622745526314",
+      "texto_sha256": "6f219d208b94ebb89b720c1d605f1025b45f00c555b6d2d448d14834e740278e",
+      "adjuntos": []
+    },
+    {
+      "id": "1380092976335945778",
+      "fecha_utc": "2025-06-05T07:56:46.446000+00:00",
+      "fecha_local": "2025-06-05",
+      "editado_utc": null,
+      "texto": "???: **Ves que de dentro de la puerta aparecen tres especie de robots a cuatro patas con forma animal, un perro, una pantera y un gorila. Sacan chispas de la boca a causa de sus mandíbula metálica que hacen rechinar mientras se colocan al lado del hombre** ¿Quién eres? Si vienes a intentar robarme lo llevas claro... ni los Cuchillas Negras se atreven a eso...",
+      "mensaje_sha256": "afb536b681d18c38687e5f4554898cc51ec8a3766b3e7d4936b9d77413539694",
+      "tipo_discord": 19,
+      "referencia": "1380086622745526314",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1380092976335945778",
+      "texto_sha256": "c44c38a62724f1cf07ae277a259c954e3d91342096390e9d9367df7c0bd1e0b9",
+      "adjuntos": []
+    },
+    {
+      "id": "1380105272336580618",
+      "fecha_utc": "2025-06-05T08:45:38.041000+00:00",
+      "fecha_local": "2025-06-05",
+      "editado_utc": null,
+      "texto": "Archi : no hay nada peor que un inventor que roba a otro de su mismo gremio . \n**se acerca poco a poco con las manos en alto ** \nLeopold von bergen . \n**Mira a los \"animales\",**\n mira Ralph ves a jugar con ellos \n**archi se hace a un lado para que Ralph ses visible para el hombre **",
+      "mensaje_sha256": "d3fa8b278d9c818256108cd4d58d891db3090ea958e47a28db4263d7f3654d32",
+      "tipo_discord": 19,
+      "referencia": "1380092976335945778",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1380105272336580618",
+      "texto_sha256": "5ac8733bd657a639e2c67620664d0f44019f6c8973d328bc84becbdb9ca93346",
+      "adjuntos": []
+    },
+    {
+      "id": "1380106864221749268",
+      "fecha_utc": "2025-06-05T08:51:57.576000+00:00",
+      "fecha_local": "2025-06-05",
+      "editado_utc": null,
+      "texto": "???: **El hombre te mira desconfiado, analizándote de arriba abajo y observando esos aparatitos que tienes. Sin mucha confianza en ti, te acerca la mano** Viktor Frankenbolt... ¿Es usted ingeniero?",
+      "mensaje_sha256": "d38fe46fdb5dc772dc79669d20240f2aab765da5f4ecada892f9e83f56a0c9db",
+      "tipo_discord": 19,
+      "referencia": "1380105272336580618",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1380106864221749268",
+      "texto_sha256": "b917b164023793afe0d5f95620669cdd2d6e2f5d2b68a8666cff44275223320b",
+      "adjuntos": []
+    },
+    {
+      "id": "1380108240343273502",
+      "fecha_utc": "2025-06-05T08:57:25.669000+00:00",
+      "fecha_local": "2025-06-05",
+      "editado_utc": null,
+      "texto": "Archi: se escupe en la mano y se la ofrece . De los pies a la cabeza , familia de artífices de Cono Sur  desde hace casi 1000 años .",
+      "mensaje_sha256": "98b0e559b4650777d6492cba06ff652d48dae1b1ea21b9c908514c332176bd77",
+      "tipo_discord": 19,
+      "referencia": "1380106864221749268",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1380108240343273502",
+      "texto_sha256": "a73a3b02c10e4403cbcba42bb43b613e0e9e99b3a83b9cb2c842c2ed60a72f77",
+      "adjuntos": []
+    },
+    {
+      "id": "1380109708949458945",
+      "fecha_utc": "2025-06-05T09:03:15.812000+00:00",
+      "fecha_local": "2025-06-05",
+      "editado_utc": null,
+      "texto": "Viktor: Ajá... ¿Y que hacía allí en invisible espiando? **Te mira aún desconfiado**",
+      "mensaje_sha256": "6d2df4b4459a43bd07f7d15c5d1b423c6b202647e7d0ab05381a4e527f125d4a",
+      "tipo_discord": 19,
+      "referencia": "1380108240343273502",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1380109708949458945",
+      "texto_sha256": "a6b9af422f2299258bb41e958abf0c320501d939bf41f6c6408b9869bc35013a",
+      "adjuntos": []
+    },
+    {
+      "id": "1380123700074123335",
+      "fecha_utc": "2025-06-05T09:58:51.556000+00:00",
+      "fecha_local": "2025-06-05",
+      "editado_utc": null,
+      "texto": "Archi: esperando a que saliese usted por supuesto . Ayer le piqué a la puerta pero el cartel de cerrado y el ruido me convencieron para desistir . \nEres de aquí Viktor? Me sorprende que con los recursos de este país hayas podido hacer cosas como las que veo , fascinante mi enhorabuena",
+      "mensaje_sha256": "25ca03e03b58c0691da461271c1ebf5b4e400792ae4ce6dab812d963b0975895",
+      "tipo_discord": 19,
+      "referencia": "1380109708949458945",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1380123700074123335",
+      "texto_sha256": "84c5b5468d39a52bb59a0e1a3bec851c233679921c6b0a1548b13610ed73e735",
+      "adjuntos": []
+    },
+    {
+      "id": "1380124990384373801",
+      "fecha_utc": "2025-06-05T10:03:59.190000+00:00",
+      "fecha_local": "2025-06-05",
+      "editado_utc": null,
+      "texto": "Viktor: No, soy de otro lugar, de Tunriel, una ciudad del continente de Urdar **Aún te mira desconfiado junto a sus animales robóticos** Y como usted bien dice... No es que haya muchos recursos en Kuroto, pero es una isla con un gran poder magico... Incluso en su fauna, esos yokais son bastante curiosos...",
+      "mensaje_sha256": "fc44d4fa4135951a0009ab0f3784fa373156eccc061eadf0bf7ad9e26c7c4ffd",
+      "tipo_discord": 19,
+      "referencia": "1380123700074123335",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1380124990384373801",
+      "texto_sha256": "ec588034ba1b6ec6c501c62671bac8aa09d53708081ec90aaa120dee74df724b",
+      "adjuntos": []
+    },
+    {
+      "id": "1380126911010701383",
+      "fecha_utc": "2025-06-05T10:11:37.103000+00:00",
+      "fecha_local": "2025-06-05",
+      "editado_utc": null,
+      "texto": "Archi: siii... cierto .pero últimamente veo disminución de esa magia .  Mis invenciones de vez en cuando necesitan de los cristales de cuarzo rosa . Por eso estoy aquí...  mi aerotransporte sufrió una avería y ahora estoy aquí.  \nEstaré aquí una temporada es bueno saber que por lo menos hay una persona con las manos y el cerebro a la altura de llamarse ingeniero.",
+      "mensaje_sha256": "0d68a3ff6653df5023e775ba9f470f342bae9ab56362e64c58fcd18a783c23ce",
+      "tipo_discord": 19,
+      "referencia": "1380124990384373801",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1380126911010701383",
+      "texto_sha256": "f146a0e330826a196a8cf4563e28a43e7e6c91e79bd45704e9c8053a55a59f30",
+      "adjuntos": []
+    },
+    {
+      "id": "1380133214638575657",
+      "fecha_utc": "2025-06-05T10:36:40.005000+00:00",
+      "fecha_local": "2025-06-05",
+      "editado_utc": null,
+      "texto": "Viktor: Si... claro... Ha sido un placer señor Leopold Von Bergen.... **No te quita ojo mientras retrocede junto a sus animales hasta la puerta** Si me disculpa.... tengo trabajo... y esos engranajes no se colocan solos....",
+      "mensaje_sha256": "b89b117b99f29a2f8e063a2b61db91422b0922f73d0510388459e95505bb9296",
+      "tipo_discord": 19,
+      "referencia": "1380126911010701383",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1380133214638575657",
+      "texto_sha256": "37bd600087860fd2980e6e1bb6fb0d23c0890924c43c0a06084427200169066d",
+      "adjuntos": []
+    },
+    {
+      "id": "1380221808426356821",
+      "fecha_utc": "2025-06-05T16:28:42.410000+00:00",
+      "fecha_local": "2025-06-05",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "650965e40cd919d35ba5b7163d005fefede2d5481798817304d19cd37b8310cf",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1380221808426356821",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

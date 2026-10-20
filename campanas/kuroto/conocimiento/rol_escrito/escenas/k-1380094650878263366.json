@@ -1,0 +1,85 @@
+{
+  "id": "k-1380094650878263366",
+  "campana": "kuroto",
+  "unidad_revision": "k-1380094650878263366",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Un ritual terminado entre sueños",
+  "resumen": "Inugami vuelve al trabajo de instalar la piedra.",
+  "relato": "Inugami despierta junto al portal después de más de doce horas aparentando continuar su mantra. Se da cuenta de que se había quedado dormido y explica que el ritual solo requería unos minutos. Recoge el cristal y se dirige al mecanismo para terminar de instalarlo. Esta breve intervención no muestra todavía el portal funcionando ni a nadie atravesándolo.",
+  "participantes": [
+    "Inugami"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1380094650878263366",
+      "afirmacion": "Inugami despierta tras dormirse durante la espera y se dispone a terminar de instalar el cristal.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Ciento cuarenta y ocho mensajes íntegros en dos partes; tres bloques de acción.",
+    "Chile y Xyllya quedan asociados explícitamente por las preguntas y respuestas del encuentro; Xillya, Xyllya y Miautriska/Miautruska presentan variantes de grafía en sus respectivas líneas. Se conserva la presentación más repetida sin crear identidades nuevas.",
+    "La transferencia de una entidad desde Maroxi a Shirz es una afirmación de Xyllya acompañada de cambios observables en Maroxi; no se reconstruye un ritual ni se identifica a la criatura por cuenta propia.",
+    "El libro de Bhaal y la Biblia de Ōtakemaru son objetos distintos presentes en el intercambio. No se mezclan sus contenidos o propiedades.",
+    "La repetición de desmayos de Xyllya no equivale a varias muertes definitivas. La aclaración de su rasgo de juego no se incorpora como un nuevo poder universal de los personajes.",
+    "No se nombra la lengua y no se convierten las descripciones de tentáculos y ojos en una identificación inequívoca de especie.",
+    "El pensamiento hostil de Jhin es privado y contrasta con la ayuda que promete. No agrede a Maroxi en la escena.",
+    "Los papeles de papa malo, mama loca, hija y abuelo son un juego propuesto por Xyllya, no parentescos reales.",
+    "Las curaciones estabilizan y mejoran a Shirz, pero el cierre deja todavía dolor y heridas pendientes. La propuesta de buscar seres capaces de leer la biblia no completa esa misión."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2025-06-05T08:03:25.688000+00:00",
+  "fin_utc": "2025-06-05T08:03:25.688000+00:00",
+  "fecha_local": "2025-06-05",
+  "intervalo": {
+    "anterior": 124,
+    "siguiente": 125,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1379890572373790750",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1380253520841805875",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 124,
+        "fecha": "2025-06-04",
+        "inicio_referencia_utc": "2025-06-04T18:32:16+00:00",
+        "fin_estimado_utc": "2025-06-04T21:34:59+00:00",
+        "duracion_video_segundos": 10963,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1379890572373790750"
+      },
+      {
+        "capitulo": 125,
+        "fecha": "2025-06-05",
+        "inicio_referencia_utc": "2025-06-05T18:34:23+00:00",
+        "fin_estimado_utc": "2025-06-05T21:51:33+00:00",
+        "duracion_video_segundos": 11830,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1380253520841805875"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1380094650878263366",
+      "fecha_utc": "2025-06-05T08:03:25.688000+00:00",
+      "fecha_local": "2025-06-05",
+      "editado_utc": "2025-06-05T08:04:18.629000+00:00",
+      "texto": "Inugami: **El hombre-perro sigue sentado de rodillas con el cristal en las manos mientras recita lo que parece un mantra desde hace más de 12 horas. Acaba con un ruidoso estornudo y se levanta...** Vaya, me he quedado dormido... ¿Que hora es? **Se frota los ojos para quitarse las legañas, el ritual duraba solo 5 minutos pero se ha dormido. Se dirige al portal para acabar de instalar el cristal** Será mejor que me ponga a arreglar el esto...",
+      "mensaje_sha256": "387756784859a0d712be0f9fe5208490d72c3053d6a0980b483ae7ea212adfaa",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1380094650878263366",
+      "texto_sha256": "4249bf8e1a78d2790976be9f4fe33412acad83f53d55540f92c70af93b7afd6c",
+      "adjuntos": []
+    }
+  ]
+}

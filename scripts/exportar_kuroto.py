@@ -29,6 +29,8 @@ def export(data):
         source = 'una transcripción local del audio con Whisper' if chapter.get('fuente_transcripcion') else 'los subtítulos automáticos de YouTube'
         lines = [f'# Kuroto · Capítulo {chapter["capitulo"]}: {chapter["titulo"]}', '',
                  f'Estado: revisado a partir de {source}; sin cotejo completo de cada palabra con el audio.', '']
+        from fechas_emision import markdown_dates
+        lines += markdown_dates(chapter.get('emision'))
         lines += story(chapter['history'])
         lines += ['## Evidencias', '']
         for key in chapter['registros']:

@@ -1,0 +1,399 @@
+{
+  "version": 1,
+  "zona_horaria": "Europe/Madrid",
+  "criterio": "Estimaciones a partir de anuncios, orden de capítulos y calendarios leídos completos. La programación se conserva por separado; no confirma realización ni modifica las fechas acreditadas por los avisos.",
+  "supuesto_general": "El catálogo conserva el orden de las sesiones originales; no intercala grabaciones fuera de secuencia.",
+  "campanas": {
+    "xoltacan": {
+      "21": {
+        "desde": "2026-04-01",
+        "hasta": "2026-04-02",
+        "fecha_probable": "2026-04-01",
+        "confianza": "media",
+        "fundamento": "El calendario programa el 21 para el 1 de abril y el 22 para el 2. Los dos avisos de directo conservan el número 21: se favorece el primer día, sin descartar continuación o cambio del programa.",
+        "fuentes": [
+          "1486810041481957547",
+          "1488971383768744069",
+          "1489323212452925664",
+          "1491864574310223892"
+        ],
+        "sirve_como_corte_exacto": false,
+        "fuentes_programacion": [
+          "1488132418945945750"
+        ]
+      },
+      "22": {
+        "desde": "2026-03-26",
+        "hasta": "2026-04-09",
+        "fecha_probable": "2026-04-02",
+        "confianza": "baja",
+        "fundamento": "Programado para el 2 de abril. El aviso de ese día repite el número y título del 21; la correspondencia con el 22 sigue siendo una inferencia.",
+        "fuentes": [
+          "1486810041481957547",
+          "1488971383768744069",
+          "1489323212452925664",
+          "1491864574310223892"
+        ],
+        "sirve_como_corte_exacto": false,
+        "fuentes_programacion": [
+          "1488132418945945750"
+        ]
+      },
+      "38": {
+        "desde": "2026-06-05",
+        "hasta": "2026-06-19",
+        "fecha_probable": "2026-06-15",
+        "confianza": "media",
+        "fundamento": "Programado para el 15 de junio. El aviso de directo de ese día conserva Dragonlance y el título del día 12: podría estar desactualizado, pero no acredita por sí solo Xoltacan 38.",
+        "fuentes": [
+          "1512525575573475348",
+          "1517589464363434048"
+        ],
+        "sirve_como_corte_exacto": false,
+        "fuentes_programacion": [
+          "1515976737605816332"
+        ]
+      },
+      "40": {
+        "desde": "2026-06-19",
+        "hasta": "2026-07-03",
+        "fecha_probable": "2026-07-02",
+        "confianza": "media",
+        "fundamento": "Programado para el 2 de julio. El aviso de ese día repite Campaña IV 21 del 30 de junio: podría estar desactualizado. El aviso del 18 de junio y el calendario siguiente descartan partidas previstas de Xoltacan del 22 al 28 de junio.",
+        "fuentes": [
+          "1517589464363434048",
+          "1522672340213694706"
+        ],
+        "sirve_como_corte_exacto": false,
+        "fuentes_programacion": [
+          "1521166880503758919"
+        ]
+      }
+    },
+    "kuroto": {
+      "11": {
+        "desde": "2024-04-24",
+        "hasta": "2024-05-07",
+        "fecha_probable": "2024-04-30",
+        "confianza": "media",
+        "fundamento": "El calendario programa Kuroto 11 para el 30 de abril, a las 20:30. No se conserva un aviso de directo que confirme la realización. Kuroto 12 pasa del 2 al 7 de mayo entre calendarios: un plan puede cambiar.",
+        "fuentes": [
+          "1232761073086500925",
+          "1237472580286414849"
+        ],
+        "sirve_como_corte_exacto": false,
+        "fuentes_programacion": [
+          "1234431410828480553"
+        ]
+      },
+      "42": {
+        "desde": "2024-08-27",
+        "hasta": "2024-09-04",
+        "fecha_probable": "2024-09-03",
+        "confianza": "media",
+        "fundamento": "El calendario preveía el 2 de septiembre, pero el aviso de directo Kuroto 42 es del día 3. Se mantiene el 3 como hipótesis de emisión; el título Entrando en Decadencia difiere de El Instructor del catálogo.",
+        "fuentes": [
+          "1278062034831020133",
+          "1280958939164446721",
+          "1280597605725769893"
+        ],
+        "sirve_como_corte_exacto": false,
+        "fuentes_programacion": [
+          "1280053378537492500"
+        ]
+      },
+      "45": {
+        "desde": "2024-09-09",
+        "hasta": "2024-09-11",
+        "fecha_probable": "2024-09-09",
+        "confianza": "media",
+        "fundamento": "Programado para el 9 de septiembre, con un aviso Kuroto 45 ese mismo día. El día 11 vuelve a anunciarse el 45, aunque el calendario prevé el 46. Se favorece el 9 sin resolver definitivamente el segundo aviso.",
+        "fuentes": [
+          "1281320642674688003",
+          "1286036392551514164",
+          "1282770957101961343",
+          "1283495922839588918",
+          "1285668823847927940"
+        ],
+        "sirve_como_corte_exacto": false,
+        "fuentes_programacion": [
+          "1280053378537492500",
+          "1282607529343451228"
+        ]
+      },
+      "46": {
+        "desde": "2024-09-05",
+        "hasta": "2024-09-18",
+        "fecha_probable": "2024-09-11",
+        "confianza": "media",
+        "fundamento": "Programado para el 11 de septiembre. El aviso de ese día repite Kuroto 45; el calendario refuerza la hipótesis de título anterior sin actualizar.",
+        "fuentes": [
+          "1281320642674688003",
+          "1286036392551514164",
+          "1285668823847927940",
+          "1282770957101961343",
+          "1283495922839588918"
+        ],
+        "sirve_como_corte_exacto": false,
+        "fuentes_programacion": [
+          "1282607529343451228"
+        ]
+      },
+      "47": {
+        "desde": "2024-09-05",
+        "hasta": "2024-09-18",
+        "fecha_probable": "2024-09-17",
+        "confianza": "media",
+        "fundamento": "Programado para el 17 de septiembre. El aviso conserva el número 46, pero su título Los Cerezos coincide con el vídeo 47. La concordancia refuerza el día, conservando el conflicto de numeración.",
+        "fuentes": [
+          "1281320642674688003",
+          "1286036392551514164",
+          "1285668823847927940"
+        ],
+        "sirve_como_corte_exacto": false,
+        "fuentes_programacion": [
+          "1285160254442573884"
+        ]
+      },
+      "49": {
+        "desde": "2024-09-18",
+        "hasta": "2024-09-25",
+        "fecha_probable": "2024-09-24",
+        "confianza": "baja",
+        "fundamento": "Se adopta el 24 de septiembre de 2024: el calendario programa Kuroto 49 ese día y el 50 se anuncia el 25. Existe un directo el 24 a las 20:30, pero rotulado Zaland 5. Se asume una rotulación anterior; se conserva como alternativa que Zaland sustituyera la partida prevista. El aviso sigue clasificado como Zaland.",
+        "fuentes": [
+          "1286036392551514164",
+          "1288568241610035201"
+        ],
+        "sirve_como_corte_exacto": false,
+        "fuentes_programacion": [
+          "1287675461807247442"
+        ],
+        "fuentes_contraste": [
+          "1288206046950588457"
+        ]
+      },
+      "55": {
+        "desde": "2024-10-03",
+        "hasta": "2024-10-16",
+        "fecha_probable": "2024-10-09",
+        "confianza": "baja",
+        "fundamento": "Se adopta el 9 de octubre de 2024 junto con Kuroto 56 el día 10, según el calendario. El aviso del 9 repite exactamente Campaña III 2 del día 8; el del 10 anuncia Kuroto 55. La hipótesis conjunta es que ambos avisos arrastran títulos anteriores. El aviso literal del 55 sigue fechado el 10 y se conserva: se corrige su correspondencia con el capítulo, no su timestamp. No se utiliza una inferencia como confirmación de la otra.",
+        "fuentes": [
+          "1291469617927028947",
+          "1294002567352811644",
+          "1296177964698042378"
+        ],
+        "sirve_como_corte_exacto": false,
+        "fuentes_programacion": [
+          "1292727022279331872"
+        ],
+        "fuentes_contraste": [
+          "1293280246023585843",
+          "1293642162625577123",
+          "1294002567352811644"
+        ],
+        "caso_conjunto": [
+          55,
+          56
+        ]
+      },
+      "56": {
+        "desde": "2024-10-10",
+        "hasta": "2024-10-16",
+        "fecha_probable": "2024-10-10",
+        "confianza": "baja",
+        "fundamento": "Se adopta el 10 de octubre de 2024, previsto expresamente para Kuroto 56. El calendario sitúa el 55 el día 9. Se asume que el aviso del 9 conservó Campaña III 2 y el del 10 conservó el número y título del 55. Ambas fechas son inferencias vinculadas; la alternativa es un cambio del programa. Kuroto 57 se anuncia el día 16.",
+        "fuentes": [
+          "1294002567352811644",
+          "1296177964698042378"
+        ],
+        "sirve_como_corte_exacto": false,
+        "fuentes_programacion": [
+          "1292727022279331872"
+        ],
+        "fuentes_contraste": [
+          "1293280246023585843",
+          "1293642162625577123",
+          "1294002567352811644"
+        ],
+        "caso_conjunto": [
+          55,
+          56
+        ]
+      },
+      "81": {
+        "desde": "2025-01-22",
+        "hasta": "2025-01-23",
+        "fecha_probable": "2025-01-22",
+        "confianza": "media",
+        "fundamento": "Programado para el 22 de enero. Los días 22 y 23 tienen avisos Kuroto 81, mientras el calendario prevé Rebeldes 11 para el 23. Se favorece el 22, sin descartar cambios del programa o continuación.",
+        "fuentes": [
+          "1326997021193797674",
+          "1336781257832665139",
+          "1331704696188043414",
+          "1332069759700963339"
+        ],
+        "sirve_como_corte_exacto": false,
+        "fuentes_programacion": [
+          "1330799874500722689"
+        ]
+      },
+      "103": {
+        "desde": "2025-04-15",
+        "hasta": "2025-04-16",
+        "fecha_probable": "2025-04-15",
+        "confianza": "media",
+        "fundamento": "Programado para el 15 de abril y anunciado con ese número ese día. El aviso del 16 repite Kuroto 103 mientras el calendario prevé el 104: se favorece el 15.",
+        "fuentes": [
+          "1361407482689355806",
+          "1362497195252650075",
+          "1361769205715702022",
+          "1362136567187112247"
+        ],
+        "sirve_como_corte_exacto": false,
+        "fuentes_programacion": [
+          "1361286459952332891"
+        ]
+      },
+      "104": {
+        "desde": "2025-04-14",
+        "hasta": "2025-04-17",
+        "fecha_probable": "2025-04-16",
+        "confianza": "media",
+        "fundamento": "Programado para el 16 de abril. El aviso de ese día repite Kuroto 103; su asociación al 104 continúa siendo una hipótesis de título anterior.",
+        "fuentes": [
+          "1361407482689355806",
+          "1362497195252650075",
+          "1361769205715702022",
+          "1362136567187112247"
+        ],
+        "sirve_como_corte_exacto": false,
+        "fuentes_programacion": [
+          "1361286459952332891"
+        ]
+      },
+      "107": {
+        "desde": "2025-04-22",
+        "hasta": "2025-04-23",
+        "fecha_probable": "2025-04-22",
+        "confianza": "media",
+        "fundamento": "Programado para el 22 de abril y anunciado con ese número ese día. El aviso del 23 repite Kuroto 107 mientras el calendario prevé el 108: se favorece el 22.",
+        "fuentes": [
+          "1363944514846326895",
+          "1365035149171101736",
+          "1364309009938645093",
+          "1364670948451811419"
+        ],
+        "sirve_como_corte_exacto": false,
+        "fuentes_programacion": [
+          "1363854954103832728"
+        ]
+      },
+      "108": {
+        "desde": "2025-04-21",
+        "hasta": "2025-04-24",
+        "fecha_probable": "2025-04-23",
+        "confianza": "media",
+        "fundamento": "Programado para el 23 de abril. El aviso de ese día repite Kuroto 107; su asociación al 108 continúa siendo una hipótesis de título anterior.",
+        "fuentes": [
+          "1363944514846326895",
+          "1365035149171101736",
+          "1364309009938645093",
+          "1364670948451811419"
+        ],
+        "sirve_como_corte_exacto": false,
+        "fuentes_programacion": [
+          "1363854954103832728"
+        ]
+      },
+      "116": {
+        "desde": "2025-05-19",
+        "hasta": "2025-05-20",
+        "fecha_probable": "2025-05-19",
+        "confianza": "media",
+        "fundamento": "El calendario sitúa el 116 el 19 de mayo y el 117 el 20. Los dos avisos repiten Kuroto 116: se favorece el 19. El calendario se publicó el día 20, después de la fecha prevista del 116.",
+        "fuentes": [
+          "1372641487094808689",
+          "1374814627057373194",
+          "1374091924474040400",
+          "1374452181180354571"
+        ],
+        "sirve_como_corte_exacto": false,
+        "fuentes_programacion": [
+          "1374299324820885625"
+        ]
+      },
+      "117": {
+        "desde": "2025-05-15",
+        "hasta": "2025-05-21",
+        "fecha_probable": "2025-05-20",
+        "confianza": "media",
+        "fundamento": "Programado para el 20 de mayo. El aviso de ese día repite Kuroto 116; su asociación al 117 continúa siendo una hipótesis de título anterior.",
+        "fuentes": [
+          "1372641487094808689",
+          "1374814627057373194",
+          "1374091924474040400",
+          "1374452181180354571"
+        ],
+        "sirve_como_corte_exacto": false,
+        "fuentes_programacion": [
+          "1374299324820885625"
+        ]
+      },
+      "134": {
+        "desde": "2025-06-26",
+        "hasta": "2025-07-03",
+        "fecha_probable": "2025-07-02",
+        "confianza": "media",
+        "fundamento": "Se adopta el 2 de julio de 2025: el calendario programa Kuroto 134 el miércoles 2 y el 135 el jueves 3, cuyo aviso sí coincide. El directo del día 2 repite exactamente Campaña III, Tierras Salvajes 49, del día 1. Se asume un título sin actualizar y se conserva la campaña original de ambos avisos; el calendario no acredita por sí solo la realización.",
+        "fuentes": [
+          "1387857477848141979",
+          "1390391136719212627"
+        ],
+        "sirve_como_corte_exacto": false,
+        "fuentes_programacion": [
+          "1389137334297165834"
+        ],
+        "fuentes_contraste": [
+          "1389677071042609152",
+          "1390030497551487016"
+        ]
+      },
+      "168": {
+        "desde": "2025-11-20",
+        "hasta": "2025-11-24",
+        "fecha_probable": "2025-11-20",
+        "confianza": "media",
+        "fundamento": "Programado para el 20 de noviembre y anunciado con ese número ese día. El aviso del 24 repite Kuroto 168 mientras el calendario prevé el 169: se favorece el 20.",
+        "fuentes": [
+          "1438607930604781589",
+          "1441142043761180816",
+          "1442596662206922943",
+          "1443679606723838074"
+        ],
+        "sirve_como_corte_exacto": false,
+        "fuentes_programacion": [
+          "1439977270830825644"
+        ]
+      },
+      "169": {
+        "desde": "2025-11-13",
+        "hasta": "2025-11-27",
+        "fecha_probable": "2025-11-24",
+        "confianza": "baja",
+        "fundamento": "Programado para el 24 de noviembre. El aviso de ese día repite Kuroto 168; el calendario refuerza la hipótesis de que se conservó el título anterior.",
+        "fuentes": [
+          "1438607930604781589",
+          "1441142043761180816",
+          "1442596662206922943",
+          "1443679606723838074"
+        ],
+        "sirve_como_corte_exacto": false,
+        "fuentes_programacion": [
+          "1442488131373760623"
+        ]
+      }
+    }
+  }
+}

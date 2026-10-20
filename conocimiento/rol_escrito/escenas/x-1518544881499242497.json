@@ -1,0 +1,244 @@
+{
+  "id": "x-1518544881499242497",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1518544881499242497",
+  "hilo_id": "1481938373894738061",
+  "hilo_nombre": "Fuerte Aurora - Base de la Marina",
+  "titulo": "Gamba Pelada convierte a Poncelot en mensajero de la defensa",
+  "resumen": "Nox usa un disfraz y visiones fingidas para advertir al gnomo del cerco y proponer trampas, evacuación y emboscadas navales.",
+  "relato": "Nox se aparta del campamento de la expedición, vigilado hasta entonces por el oficial Backer, y oye a Poncelot perdido en la jungla con Merlucilla IV. Se disfraza como Gamba Pelada y representa un discurso de espíritus, hojas y cocos que lo designan salvador de Shiaru. El caballero cree reconocer al sabio Mirlín de sus leyendas; esa identificación es su fantasía, no la aparición de otra persona.\n\nNox lo lleva a una cueva y crea sobre un lago imágenes del ataque que ha visto preparar: infantería por la selva y flota cerrando el mar. Después representa una posible respuesta con trampas y golpes de guerrilla, una aldea vacía preparada para sorprender al invasor y barcos que atraen a la Marina hacia arrecifes. En la imagen, un buque cambia la bandera y dispara contra los marines. Son planes ilustrados, no victorias ocurridas.\n\nPoncelot jura avisar y salvar el reino. Nox le da una hoja de bananero enrollada para que, si no le creen, la lleve a la Guardiana de la Aldea Pestilente. El gnomo se marcha hacia Shiaru con el paquete. No se abre el mensaje ni se muestra aquí que los defensores acepten todas las tácticas.",
+  "participantes": [
+    "Nox",
+    "Sir Poncelot",
+    "Merlucilla IV"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1518544881499242497",
+      "afirmacion": "Nox se disfraza como Gamba Pelada.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1518603064616030328",
+      "afirmacion": "La imagen del lago se crea mediante ilusión mayor.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1518609454847758407",
+      "afirmacion": "Proyecta una defensa y una traición naval posibles.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1518662639620849756",
+      "afirmacion": "Entrega el paquete para la Guardiana.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1519240640318144522",
+      "afirmacion": "Poncelot parte hacia Shiaru.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Dos escenas separadas por el regreso de la expedición.",
+    "Las imágenes del lago son ilusiones creadas por Nox, no profecías verificadas.",
+    "El retrato adjunto funciona como referencia humorística del comentario de Tórtola; no incorpora a ese personaje visual a la campaña."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-06-22T09:15:12.949000+00:00",
+  "fin_utc": "2026-06-24T07:19:54.778000+00:00",
+  "fecha_local": "2026-06-22",
+  "intervalo": {
+    "anterior": 39,
+    "siguiente": 40,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1517589464363434048",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149383024690/1521166880503758919",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 39,
+        "fecha": "2026-06-19",
+        "inicio_referencia_utc": "2026-06-19T17:58:26+00:00",
+        "fin_estimado_utc": "2026-06-19T20:14:22+00:00",
+        "duracion_video_segundos": 8156,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1517589464363434048"
+      },
+      {
+        "capitulo": 40,
+        "fecha": "2026-07-02",
+        "inicio_referencia_utc": "2026-07-02T18:00:00+00:00",
+        "fin_estimado_utc": "2026-07-02T20:53:10+00:00",
+        "duracion_video_segundos": 10390,
+        "tipo_referencia": "programacion",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149383024690/1521166880503758919"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida."
+  },
+  "fuentes": [
+    {
+      "id": "1518544881499242497",
+      "fecha_utc": "2026-06-22T09:15:12.949000+00:00",
+      "fecha_local": "2026-06-22",
+      "editado_utc": null,
+      "texto": "Nox:\n\n**La expedición hacia unas antiguas ruinas de la selva partió al alba.\nNox avanzaba junto a la cabeza de la columna, acompañado por varios marines y bajo las constantes miradas de desconfianza del oficial Backer.  Tras horas de marcha, el grupo alcanzó un campamento donde pasarían la noche.\nMientras los soldados levantaban tiendas, preparaban la cena y organizaban las guardias, Nox aprovechó el ajetreo para desaparecer silenciosamente entre la espesura de la selva.\n\nSe le podía ver sentado sobre una roca elevada, guardando unas notas en el interior de su abrigo. De vez en cuando alzaba la vista, sobresaltado por los rugidos lejanos de las criaturas nativas que habitaban aquel lugar salvaje.\nHasta que, entre los sonidos de la selva, una pequeña vocecilla llegó hasta sus oídos.\n\nNox alzó la cabeza de golpe. Aquella voz... le resultaba extrañamente familiar. <@220602485977382912> \n\n*perfecto*\n\n**Una sonrisa apareció en su rostro bajó de la roca y se empezó a disfrazar de su alter ego , el indio de nombre Gamba Pelada **",
+      "mensaje_sha256": "9947521e2a71e4c7687e2602d31b5432ef4d027b675574bf662f23b10db4aa9a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1518544881499242497",
+      "texto_sha256": "bbf6e97c3614f1041a98225218fdfbf2c63edc96b7f9df9e2a578cf062a8a77b",
+      "adjuntos": []
+    },
+    {
+      "id": "1518545762697482241",
+      "fecha_utc": "2026-06-22T09:18:43.043000+00:00",
+      "fecha_local": "2026-06-22",
+      "editado_utc": "2026-06-22T10:21:47.483000+00:00",
+      "texto": "Sir Poncelot \n\n**El gnomo estaba sentado con la piernas cruzadas sobre su fiel montura felina Merlucilla IV, mirando un mapa. Se lo acercaba, lo alejaba, le daba la vuelta y se lo volvía a acercar**\n\n- abrase visto jamelgo insensato... Te dije hace cuatro secuollas que había que girar hacia nuestr diestra. Pero no! El señor decidió confiar en su plenitud de facultades de su cerebro equino y tomar algo el camino contrario!",
+      "mensaje_sha256": "408f6b18e537c2a5c634e212c946a9cee28418a460d2185c2f860918ebd59861",
+      "tipo_discord": 19,
+      "referencia": "1518544881499242497",
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1518545762697482241",
+      "texto_sha256": "1920238c9d970a540f03f15cce4adb7f5762fc6f6482546ddc05944cfbeeed98",
+      "adjuntos": []
+    },
+    {
+      "id": "1518548818831085568",
+      "fecha_utc": "2026-06-22T09:30:51.682000+00:00",
+      "fecha_local": "2026-06-22",
+      "editado_utc": "2026-06-22T09:31:18.020000+00:00",
+      "texto": "Nox Gamba Pelada : **giraba en círculos en mitad del camino agitando unas hojas de cocotero mientras balbuceaba sonidos incomprensibles.**\nUnga bunga... chiqui chiqui... waka waka... ¡Hopa!\n\n**Gamba Pelada observó al pequeño jinete y a su montura durante unos segundos antes de inclinar ligeramente la cabeza.**\n\nCaminos de selva ser traicioneros. Árboles engañar ojos y espíritus jugar bromas a viajeros.\n**Se llevó una mano al pecho.**\n\nPero yo reconocer espíritu fuerte en ti. Espíritu de babuino de culo rojo. Espíritu de amistad. Espíritu  bomdadoso yace en ti .\n\nDecidme, aventurero de tierras lejanas... ¿cuál ser tu nombre? ¿Cómo llamar tribus a guerrero que cabalgar feroz montura ? <@220602485977382912>",
+      "mensaje_sha256": "a5494d85e7d373ec29367986b07d5448446b78080f161a6deedf14732930421a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1518548818831085568",
+      "texto_sha256": "1542c1de3a5b0cb7ae2d913f3dd635d0960ccefd582870979e3995f082508efd",
+      "adjuntos": []
+    },
+    {
+      "id": "1518563379197902929",
+      "fecha_utc": "2026-06-22T10:28:43.144000+00:00",
+      "fecha_local": "2026-06-22",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Al escuchar esos cánticos extraños, el gnomo asomó los ojos por encima del mapa y, al ver tan extraña figura danzando, no pudo evitar dar un salto soltando el mapa alarmado, y sacando con torpeza su escudo y su lanza**\n\n- atrás! Atrás criatura extraña! No sigas esos melodiosos cánticos u obligaras a este caballero a arremeter contra ti preventivamente! Quien sabe si eres un brujo o un hechicero que quiere embrujar al noble Sir Poncelot de la lanza por miedo a mi excelsa valentía y mi juramento de combatir a los malvados!\n\n**Al terminar de escuchar al extraño hombre, el caballero se relajó un poco pero no bajó su escudo ni su lanza**\n\n- habláis extraño maese hechicero... Como con enigmas... Y no parece que queráis atacarnos... De momento os brindaré un voto de confianza.\n\n**Sir Poncelot hincha el pecho, dio un golpe con la lanza, olvidado que se encontraba sobre Merlucilla, haciendo que el tigre soltara un pequeño quejido y mirara mal a su jinete**\n\n- mi nombre, buen señor, es Sir Poncelot de la lanza! Rescatador de princesas, castigo de gigantes y azote de dragones!!!",
+      "mensaje_sha256": "7716abe55bbca029df562bb1c7b16c9592b7dd8495fcd9de460d820b27767a9f",
+      "tipo_discord": 19,
+      "referencia": "1518548818831085568",
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1518563379197902929",
+      "texto_sha256": "82214c5e508115150814674706d690f48b2d21fdd92c23f196ba00ead748ae31",
+      "adjuntos": []
+    },
+    {
+      "id": "1518576965844471839",
+      "fecha_utc": "2026-06-22T11:22:42.453000+00:00",
+      "fecha_local": "2026-06-22",
+      "editado_utc": "2026-06-22T11:23:10.965000+00:00",
+      "texto": "Nox:** chupa una hoja que tebia colocada en la cabeza  y se la pega en la frente. Después cierra los ojos y comienza a balancearse de un lado a otro.**\n\n🎶 Waka nuva kai naaa waka nuva kai hulaaaaaa !\n\nlos espíritus de la selva hablan ...\n\n**Se agacha lentamente, recoge un coco del suelo y se lo pega a la oreja. Permanece unos segundos completamente inmóvil, asintiendo con gravedad.**\n\nSí... sí... Gamba pelada escucha...**le dice al coco**\n\n**Abre los ojos de golpe y señala a Sir Poncelot.**\n\n¡Es tú! ¡Tú ser elegido! ¡Gran guerrero de lanza y montura rayada! Selva dice que serás protector del reino de Shiaru cuando lleguen los tenebrosos Chaquetas Azules.\n\n**Vuelve a escuchar el coco y frunce el ceño.**\n\nOh no... espíritus muestran visión terrible. Reino de Shiaru teñirse de rojo. Mucho rojo... rojo en tierra , rojo en mar ...\n\n\nSolo hombre metalico de espiritu de babuino de culo rojo poder impedirlo. Selva lo sabe. Coco lo sabe. Incluso hoja mágica de la frente lo sabe.\n**Se acerca un poco y baja la voz dramáticamente.**\n\nPero primero  debe escuchar advertencia. Chaquetas Azules ya caminar entre sombras. Ya preparar maldades. Polvo negro de bum bum . Grandes canoas de madera con telas en palos venir . \n** mira al horizonte con expresión profunda.**\n\ncuando hombre con ropa azul llegar...problemas venir.\n\nVenir con Gamba Pelada , el mostar vision de futuro a ti Babuino metalico de culo rojo \n**se golpea el pecho y empieza a caminar hacia um desvio del camimo **",
+      "mensaje_sha256": "344cfb255187335758dc7d36ca53fcc81b93852b3278550bd4fef8495ef4111a",
+      "tipo_discord": 19,
+      "referencia": "1518563379197902929",
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1518576965844471839",
+      "texto_sha256": "2ee45783db5100ab9348a92bdcf8e3d746ba82a99e06b54e6f5b2c50ed9d30de",
+      "adjuntos": []
+    },
+    {
+      "id": "1518600180792819782",
+      "fecha_utc": "2026-06-22T12:54:57.328000+00:00",
+      "fecha_local": "2026-06-22",
+      "editado_utc": "2026-06-22T13:08:03.115000+00:00",
+      "texto": "Sir Poncelot \n\n**El gnomo comienza mirar al estrafalario hombre, primero con cierta indiferencia, pero conforme avanza su discurso, Sir Poncelot comienza a ponerse nervioso y a tensarse conforme la historia se va tornando más oscura**\n\n- no... Es imposible... Tan aciago destino se cierne sobre este humilde caballero y este reino...?\n\n**Cuando el extraño individuo acaba y le tiende la mano al caballero, este se pone la mano en el pecho y se emociona**\n\n- yo? El elegido? El salvador del reino? Como en las leyendas artoricas? No...\n\n**En se momento, un rayo de luz de luna traspasó las copas de los árboles iluminando al indígena a la vez que algunas aves locales graznaban. En la cabeza del gnomo la escena era ligeramente diferente: contemplaba a un hombre rodeado de magia, expeliendo una luz divina y angelical mientras un coro de voces pseudoangelicales sonaba de fondo**\n\n- es imposible... No será usted... El legendario sabio Mirlín? El poderoso mentor del legendario Rey Artorio? Y... Y me ha... Elegido a mí? \n\n**El caballero bajó lentamente del tigre y fue andando torpemente hacia el hombre**",
+      "mensaje_sha256": "59b2e50822d6b962e03eb44321ba3dd1a31642102978218afe86f7e6ffffe818",
+      "tipo_discord": 19,
+      "referencia": "1518576965844471839",
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1518600180792819782",
+      "texto_sha256": "20e8c29c3acbb37e07436a41dff2a8c354fb61fdd08279035fc8b9ae42b4aa19",
+      "adjuntos": []
+    },
+    {
+      "id": "1518603064616030328",
+      "fecha_utc": "2026-06-22T13:06:24.885000+00:00",
+      "fecha_local": "2026-06-22",
+      "editado_utc": null,
+      "texto": "Nox : *esta usted siempre donde debe estar Sir Poncelot* \n\n**Finalmente, Nox te condujo hasta un claro oculto en la selva. Allí, entre raíces y roca cubierta de musgo, se abría la entrada de una cueva.\n\nAl adentraros, el sonido del exterior desapareció. En el interior había un pequeño lago de aguas oscuras y tranquilas.\n\nNox señaló la superficie.**\n\nObservar abajo, babuino...\n\n**De pronto, las aguas comenzaron a iluminarse. (Con ilusion mayor)\n\nSobre ellas apareció la imagen de Shiaru vista desde el cielo. Decenas de marines avanzaban entre la jungla, rodeando lentamente la aldea desde distintos frentes.\n\nLa visión cambió.\n\nAhora mostraba el mar. Una gran flota de la Marina navegaba hacia la isla, cerrando el paso por las costas.\n\nFinalmente ambas imágenes se unieron sobre la superficie del lago: tropas por tierra y barcos por mar, avanzando al mismo tiempo sobre Shiaru.**",
+      "mensaje_sha256": "bd5de914d02190d86944cc42856ac9b9244c3001e0d0ba2883e2691a0fd00817",
+      "tipo_discord": 19,
+      "referencia": "1518600180792819782",
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1518603064616030328",
+      "texto_sha256": "4cba051e9585f366231a76f815377e0feffbee6176ada729ddc76878562dc30f",
+      "adjuntos": []
+    },
+    {
+      "id": "1518604995589705749",
+      "fecha_utc": "2026-06-22T13:14:05.265000+00:00",
+      "fecha_local": "2026-06-22",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**El caballero siguió al hombre todo el camino en silencio, tirando de las riendas de Merlucilla pero sin dejar de mirar con admiración la espalda del supuesto Sabio.\n\nCuando empezaron a verse las imágenes sobre el agua, Sir Poncelot comenzó a observarlas como un niño que ve un truco de magia, pero luego su expresión fue cambiando gradualmente a miedo y después a furia. Al acabar el espectáculo, dirigió lentamente la mirada hacia el indígena**\n\n- mi señor... Doy las gracias a los hados por ser el elegido del gran Sabio que formó a uno de los mayores reyes de la historia. No creo ser digno de tal honor pero usaré cada gota de sangre de mi cuerpo para estar a la altura de sus expectativas. Aquí y ahora, delante de tan poderosa figura y tan mágico lago, juro por mi lanza, mi honor y mi vida que no descansaré hasta cambiar el destino del reino que los endemoniados hechiceros de túnica azul han elegido para el reino!!!",
+      "mensaje_sha256": "7f6494dd5a5b0519f80be38dfde29346207115d23a18d4be9c0a6622ffaa0271",
+      "tipo_discord": 19,
+      "referencia": "1518603064616030328",
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1518604995589705749",
+      "texto_sha256": "da7eac5d059cdcc480fc8e03362a2645bba44fb2a80ad29cf332a82addf7b32f",
+      "adjuntos": []
+    },
+    {
+      "id": "1518609454847758407",
+      "fecha_utc": "2026-06-22T13:31:48.435000+00:00",
+      "fecha_local": "2026-06-22",
+      "editado_utc": "2026-06-22T13:33:33.698000+00:00",
+      "texto": "Nox: **Gamba Pelada volvió a señalar la superficie del lago.\nLas aguas se iluminaron una vez más.Primero aparecieron los senderos que conducían a Shiaru. Los marines avanzaban por la jungla cuando, de pronto, caían en fosos ocultos, trampas de cuerda y caminos bloqueados. Desde la espesura surgían guerreros que lanzaban ataques y desaparecían antes de que la Marina pudiera responder.\n\nLa visión mostró una y otra vez el mismo patrón.\nGolpear.\nDesaparecer.\nLa imagen cambió.Shiaru apareció completamente desierta.\nCalles vacías.Puertas abiertas.Ni un alma a la vista.\n\nLos marines avanzaban confiados hasta la plaza central.Entonces los barriles ocultos entre las construcciones comenzaron a encenderse.\nExplosiones.Humo.Caos.\nguerreros surgían desde los flancos para atrapar a las tropas dentro de la aldea.\n\nLas aguas volvieron a agitarse.\n\nAhora mostraban el mar.\n\nVarios barcos piratas huían ante la flota de la Marina, atrayéndola hacia una estrecha zona de arrecifes.\n\nLos navíos de guerra los perseguían sin descanso.\n\nDe repente, uno de los barcos que navegaba junto a la Marina arrió su bandera.\n\nDurante un instante ondeó e\nBandera de la Marina.Después apareció una  gran bela negra con una calabera blanca de un lobo con pelo trenzado y dos huesos cruzados. \n\nSus cañones dispararon contra los propios marines mientras varios navíos encallaban contra los arrecifes ocultos.\n\nLas explosiones iluminaron el océano.\nY la flota quedó atrapada en medio del caos.**\n\nPosibilidades de victoria , pocas si babuino no conseguir apoyo de todo el reino .",
+      "mensaje_sha256": "5059e35edd1f0021fc81a2531861ba9ec34c131b61dfe2030124b6fa1a888c50",
+      "tipo_discord": 19,
+      "referencia": "1518604995589705749",
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1518609454847758407",
+      "texto_sha256": "aff43e139649e158e15a6ed6c386a1275c943f7e6210df55feb24dd00fcdda3e",
+      "adjuntos": []
+    },
+    {
+      "id": "1518660274784174373",
+      "fecha_utc": "2026-06-22T16:53:44.852000+00:00",
+      "fecha_local": "2026-06-22",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Vuelve a observar las imágenes que el hombre le mostraba en el lago. Mientras sucedía todo, el gnomo animaba y celebraba como quien veía una obra de teatro. Vitoreaba y aplaudía a los vencedores. Daba indicaciones en valde a los hombrecillos que aparecían en la vision. Incluso se santiguaba cuando veía a alguno de los buenos caer**\n\n- oh mi gran Sabio...\n\n**Comenzó a hablar sind espegar la vista del lago**\n\n- ahora se lo que debo hacer. Me ha tocado con su mano y me ha convertido en el salvador del reino. Me ha .ostrafo el camino. Me ha entregado las llaves de la salvación. Y todo sin pedir nada a cambio, confiando en un simple y humilde caballero herrante pmcon tan pocos méritos como yo...\n\n**Dirige su mirada al indígena**\n\n- yo le juro, mi señor Mirlín el Sabio, maestro del Rey Artorios el Dorado, que usaré todo lo que me ha entregado para salvar este buen reino!\n\n**Le hace una reverencia**\n\n- creo que debo marcharme raudo. Pues debo avisar sin dilación a su majestad. Sus hombres para preparar la defensa del reino!",
+      "mensaje_sha256": "31e4091c0e79198e08240529263f9dce0bb9127661c538a682a9902e10e27996",
+      "tipo_discord": 19,
+      "referencia": "1518609454847758407",
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1518660274784174373",
+      "texto_sha256": "fae7ee03b58035f8eb14fc258f26b233b3d0a0cd47a213e8f190eb7a3f58293a",
+      "adjuntos": []
+    },
+    {
+      "id": "1518662639620849756",
+      "fecha_utc": "2026-06-22T17:03:08.673000+00:00",
+      "fecha_local": "2026-06-22",
+      "editado_utc": null,
+      "texto": "Nox : \nLas risas de los condenados resonaran en sendero a la salvación, el espíritu del Babuino de Culo rojo \n\nMuchos burlarse cuando no entienden. Babuino no detenerse. Babuino seguir.\n\n**Le entrega una hoja de bananero enrollada y atada con un cordel**\n\nSi oídos de la aldea están cerrados, llevar esto a la Guardiana de la Aldea Pestilente. Ella verá verdad donde otros ven locura.\n\nAhora correr, babuino metálico. Río no llega al mar quedándose quieto.\n\n**le hace gestos para que marche**",
+      "mensaje_sha256": "5779339b9d2b2c2b3b852e321d1636d0ea2dc8fe50bcb46c95657f14326c00c7",
+      "tipo_discord": 19,
+      "referencia": "1518660274784174373",
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1518662639620849756",
+      "texto_sha256": "a774da57e54ffe0f559b65fbd5898be9d0dae74c4384d9037bc08240e73a067d",
+      "adjuntos": []
+    },
+    {
+      "id": "1519240640318144522",
+      "fecha_utc": "2026-06-24T07:19:54.778000+00:00",
+      "fecha_local": "2026-06-24",
+      "editado_utc": "2026-06-25T09:03:24.897000+00:00",
+      "texto": "Sir Poncelot \n\n**El gnomo coge el paquete de hoja de bananero con una rodilla en el suelo y la cabeza gacha**\n\n- juro solemnemente, oh gran Sabio de Carmelot, que cumpliré mi papel de salvador en esta épica misión que con tanta fé ha depositado sobre mis hombros...\n\n**El caballero se levanta, mete el paquete en su zurrón, y le hace una última reverencia al extraño hombre. Luego sale corriendo marcando la cueva con un gran ruido metálico y sube a toda prisa a su \"corcel\"**\n\n- espero volvamos a cruzar nuestros caminos maese sabio, pues si de verdad mi destino es tan glorioso como me ha mostrado, necesitaré de su guía en un futuro cercano. Ya que, si debo convertirme en una leyenda como el gran rey Artorios, nadie mejor que su gran maestre para seguir ese sendero tan brillante!!\n\n**Se dio un golpe en el pecho, espoleó a Merlucilla y salió a toda velocidad en dirección a Shiaru con una importante misión sobre su espalda**\n\n🛡️Sir Poncelot sale de escena 🛡️",
+      "mensaje_sha256": "68ebedb5f64c9e88e176fc3be5a95e3b5e8b22d6597e43ae3e2cbeb795f68013",
+      "tipo_discord": 19,
+      "referencia": "1518662639620849756",
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1519240640318144522",
+      "texto_sha256": "9ab7bbba1cffd4dcdd2e0c2558cd17ec3db24cc535399f026d0e59ad03c054e9",
+      "adjuntos": []
+    }
+  ]
+}

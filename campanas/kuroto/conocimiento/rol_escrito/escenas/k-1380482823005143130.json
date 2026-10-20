@@ -1,0 +1,262 @@
+{
+  "id": "k-1380482823005143130",
+  "campana": "kuroto",
+  "unidad_revision": "k-1380482823005143130",
+  "hilo_id": "1362071806441160834",
+  "hilo_nombre": "Base Ukyio - Sala principal",
+  "titulo": "Jhin abastece al herrero y consulta una garra lunar",
+  "resumen": "Su donación evita un cierre inmediato, pero la pieza de dragón requiere al forjador del shogunato.",
+  "relato": "Jhin visita al herrero y le entrega hierro, cobre y carbón de sus trabajos de mina. El artesano agradece la cantidad, pues la escasez lo hacía pensar en cerrar. A cambio de su tiempo, el cazador pregunta qué podría hacer con un enorme fragmento de garra que atribuye a un dragón lunar.\n\nEl herrero lo examina y reconoce que supera sus conocimientos. No quiere arriesgarse a estropearlo y le recomienda consultar al forjador que hacía las armaduras del shogun. Jhin guarda de nuevo el fragmento y piensa buscarlo en palacio. Se despide ofreciendo volver a ayudar con materiales. La donación se recibe, pero no se transforma la garra en arma ni se produce todavía el encuentro con el especialista.",
+  "participantes": [
+    "Jhin",
+    "Herrero de Ukyio"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1380486107241906218",
+      "afirmacion": "Jhin entrega hierro, cobre y carbón al herrero.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1380488588650872932",
+      "afirmacion": "Identifica el fragmento como parte de la garra de un dragón lunar.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1380489278135603230",
+      "afirmacion": "El artesano remite la pieza al forjador del shogunato.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1380492142790840402",
+      "afirmacion": "Agradece el material que le permitirá seguir trabajando.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "La pieza conserva su atribución a Jhin; no añadir un objeto forjado nuevo."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-06T09:45:53.135000+00:00",
+  "fin_utc": "2025-06-06T10:24:13.269000+00:00",
+  "fecha_local": "2025-06-06",
+  "intervalo": {
+    "anterior": 125,
+    "siguiente": 126,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1380253520841805875",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1382420384158056601",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 125,
+        "fecha": "2025-06-05",
+        "inicio_referencia_utc": "2025-06-05T18:34:23+00:00",
+        "fin_estimado_utc": "2025-06-05T21:51:33+00:00",
+        "duracion_video_segundos": 11830,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1380253520841805875"
+      },
+      {
+        "capitulo": 126,
+        "fecha": "2025-06-11",
+        "inicio_referencia_utc": "2025-06-11T18:04:52+00:00",
+        "fin_estimado_utc": "2025-06-11T20:51:16+00:00",
+        "duracion_video_segundos": 9984,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1382420384158056601"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1380482823005143130",
+      "fecha_utc": "2025-06-06T09:45:53.135000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": "2025-06-06T09:46:22.143000+00:00",
+      "texto": "jhin: **sale del portal y se dirige hacia afuera toca la puerta del herrero** buenas estas ahi? <@214405113677217793>",
+      "mensaje_sha256": "691170a005fba9894f4da2b1333f1271a23018d2c670372b6ce185be0cb03090",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380482823005143130",
+      "texto_sha256": "28e86b987d3c0fbf9099913b3f071c30de51e95fd1d1752265974089748621bb",
+      "adjuntos": []
+    },
+    {
+      "id": "1380485662154821652",
+      "fecha_utc": "2025-06-06T09:57:10.041000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "Herrero: Si, adelante",
+      "mensaje_sha256": "d9204823945d3797a61523aea505f62b7e1f7df8db18f5708eafa57180231f4f",
+      "tipo_discord": 19,
+      "referencia": "1380482823005143130",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380485662154821652",
+      "texto_sha256": "0d835e685e048dfa0b6ef67066ae5d94daa7399610900c1f4dbfcb4fcedd28c2",
+      "adjuntos": []
+    },
+    {
+      "id": "1380486107241906218",
+      "fecha_utc": "2025-06-06T09:58:56.158000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "jhin: buenas vengo a darte unas cosas y ver si puedes hacer algo con una cosilla que tengo ** saca de su bolsa todo el hierro cobre y carbon que ha sacado** se que tienes escasez de materiales espero esto ayude",
+      "mensaje_sha256": "0f954c9c5186a0e64a56ff67449176c100142ed968e652e77fa2365de10f1354",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380486107241906218",
+      "texto_sha256": "b350178765ad86f683bb9ffc3a1583ad826ad2f13de4231a289e7b4d7e4ebf2b",
+      "adjuntos": []
+    },
+    {
+      "id": "1380486413409062992",
+      "fecha_utc": "2025-06-06T10:00:09.154000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "Herrero: **Pone los ojos como platos** Oooooh! Aquí hay mucho material! Muchas gracias Jhin! Claro claro, que necesitas amigo",
+      "mensaje_sha256": "6ff403311fc2eb6f3f0b319ae9bd5e56171c614953c0638fe5f8eb42e2217045",
+      "tipo_discord": 19,
+      "referencia": "1380486107241906218",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380486413409062992",
+      "texto_sha256": "5a4def5ed64a08fb8633f6535989ad1deda4a444e1125f6645d4500ddab19031",
+      "adjuntos": []
+    },
+    {
+      "id": "1380486550265004062",
+      "fecha_utc": "2025-06-06T10:00:41.783000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "jhin: que podrias hacer con esto **saca el dedo del dragon colosal**",
+      "mensaje_sha256": "5cb20be34d355b70315ebc9c86d082469203da67f671da95d50fbcd692ed272a",
+      "tipo_discord": 19,
+      "referencia": "1380486413409062992",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380486550265004062",
+      "texto_sha256": "aea4559368d4279b8d831bc9c41f9d95779024f576b758ca3408a7f5b98da568",
+      "adjuntos": []
+    },
+    {
+      "id": "1380488231254097972",
+      "fecha_utc": "2025-06-06T10:07:22.562000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "Herrero: **Se sorprende** Uff, que es eso... Nunca había visto nada así... Es enooooorme...",
+      "mensaje_sha256": "1eb428aa1a55499db5c958201248bf9c4c8fac97dd6de3e9150498ba35d4098d",
+      "tipo_discord": 19,
+      "referencia": "1380486550265004062",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380488231254097972",
+      "texto_sha256": "18917f025fdf9f69be6b3dc0ffeac473304ed6bedc3efc19e71cd4cf68795477",
+      "adjuntos": []
+    },
+    {
+      "id": "1380488588650872932",
+      "fecha_utc": "2025-06-06T10:08:47.772000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "jhin: es un trozo de la garra de un dragon lunar , eres uno de los mejores herreros que he conocido bueno que te parece , puedes darle uso",
+      "mensaje_sha256": "9446279303de81529f414bff1e30f2ffef8a0795a0a76865673c88e0291b8bf5",
+      "tipo_discord": 19,
+      "referencia": "1380488231254097972",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380488588650872932",
+      "texto_sha256": "ce0b423361219c8762fa080a6e69328a71e74275b67e9a6109487979694a4d4b",
+      "adjuntos": []
+    },
+    {
+      "id": "1380489278135603230",
+      "fecha_utc": "2025-06-06T10:11:32.158000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "Herrero: Mmmmmh, no se que hacer con esto la verdad... Supera mis conocimientos.. No se ni como tratarlo para no deatrozarlo **Se queda observando el enorme dedo con la sangre coagulada** ¿Creo que en el Shogunato había un forjador muy distinto, es que que hacía las armaduras del Shogun. Quizá el pueda ayudarte con ello.",
+      "mensaje_sha256": "464ee570e0c84afd688617cbbe00080ec6559e522143eddd231a7e31318383b5",
+      "tipo_discord": 19,
+      "referencia": "1380488588650872932",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380489278135603230",
+      "texto_sha256": "0d3753e54b302c74855e920c67d692b11015fb66b9d1c01ac98852d4f761dfc2",
+      "adjuntos": []
+    },
+    {
+      "id": "1380489672739786814",
+      "fecha_utc": "2025-06-06T10:13:06.239000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "jhin: vaya no se que decir **se queda un rato pensando** me podrias decir como encontrarlo amigo si no es mucha molestia",
+      "mensaje_sha256": "7dac97ad5bf114779420f12a03bd32c562308102d1703835335339e41d6e8dff",
+      "tipo_discord": 19,
+      "referencia": "1380489278135603230",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380489672739786814",
+      "texto_sha256": "99eff463282dd804d33c5364252bfa7de41520b7d154994d2ca5dda23fac61e3",
+      "adjuntos": []
+    },
+    {
+      "id": "1380491079282987019",
+      "fecha_utc": "2025-06-06T10:18:41.585000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "Herrero: Es el herrero del Shogunato, no te costará mucho encontrarle por allí **Dice mientras recoge los materiales de encima de la mesa**",
+      "mensaje_sha256": "fff8f0857526b02d9f96a68788ac0e2917716811df76eaf339f9d6ed61404fbd",
+      "tipo_discord": 19,
+      "referencia": "1380489672739786814",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380491079282987019",
+      "texto_sha256": "2a703af127f7ee651500d62c41795a5960e1d02f9b1ccaea309ce021800ed5f8",
+      "adjuntos": []
+    },
+    {
+      "id": "1380491415574020228",
+      "fecha_utc": "2025-06-06T10:20:01.763000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "jhin: supongo que lo encontrare en palacio **recoge aquel dedo de dragon** muchas gracias siempre eres una ayuda para todos los cazadores cuidate",
+      "mensaje_sha256": "b8a5eb95b0d3b4dad7806609867f9f0750ac3771472bdecf7067a33405667e4e",
+      "tipo_discord": 19,
+      "referencia": "1380491079282987019",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380491415574020228",
+      "texto_sha256": "998915da0fd54fc12ab27d079778a32edd3f866805aa073d07e38de360cf9e61",
+      "adjuntos": []
+    },
+    {
+      "id": "1380492142790840402",
+      "fecha_utc": "2025-06-06T10:22:55.145000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "Herrero: Muchas gracias a ti Jhin! Con todo esto que me has traído podré aguantar... Yo ya pensaba que debía cerrar.... Esta maldita crisis...",
+      "mensaje_sha256": "fb641a433a06e27e5e464e2323cf9a9a5d04b81e868f2a5ce291cda040d3c3b1",
+      "tipo_discord": 19,
+      "referencia": "1380491415574020228",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380492142790840402",
+      "texto_sha256": "f3ebe2d4a1a27be067141d35d7b1d661f1aef44fd195011e3e2edb978716f573",
+      "adjuntos": []
+    },
+    {
+      "id": "1380492409653432370",
+      "fecha_utc": "2025-06-06T10:23:58.770000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "jhin: **le sonrie un poco** para eso estamos si necesitas ayuda con los materiales cuenta conmigo me paso la mitad del tiempo en la mina , Hasta luego",
+      "mensaje_sha256": "d019dc0eb354663861a710a7bb62db45164d5f2194c3337cfabec942e8607736",
+      "tipo_discord": 19,
+      "referencia": "1380492142790840402",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380492409653432370",
+      "texto_sha256": "7ffec23806dcae7ab495074745cea150d8c4e6739c59e09fc0c0bd1b2e8a7134",
+      "adjuntos": []
+    },
+    {
+      "id": "1380492470466383943",
+      "fecha_utc": "2025-06-06T10:24:13.269000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "⚔️ jhin sale de escena⚔️",
+      "mensaje_sha256": "986862808e1b2dbf6d0556c37ef22aff16da12222534a6b47b373dd4e3687476",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380492470466383943",
+      "texto_sha256": "2fa50041b42fd61489206b41eab7d45b6b7fda060f5f91c3c9aad3ffea0793b2",
+      "adjuntos": []
+    }
+  ]
+}

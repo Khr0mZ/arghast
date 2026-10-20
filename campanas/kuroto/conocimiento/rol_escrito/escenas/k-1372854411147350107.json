@@ -1,0 +1,225 @@
+{
+  "id": "k-1372854411147350107",
+  "campana": "kuroto",
+  "unidad_revision": "k-1372854411147350107",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "La primera guardia de Banzo junto a Rua",
+  "resumen": "Kataraki Mushido instruye a Banzo sobre su deber y Rua lo admite en sus aposentos mientras continúa el trabajo de gobierno.",
+  "relato": "Tras la fiesta de Fukami, Banzo se presenta en palacio para comenzar su ronda nocturna. El veterano Kataraki Mushido le explica que su deber consiste en vigilar y proteger a Rua, incluso a costa de su vida. Banzo acepta y estudia accesos, ventanas y movimientos del pasillo. Los samuráis reconocen su collar y, tras solicitar permiso, lo dejan entrar en los aposentos, donde unas sirvientas peinan a Rua. El goliat anuncia que vigilará fuera, pero ella le pide quedarse dentro porque así se siente más segura. Mientras inspecciona las ventanas, Banzo piensa que el mayor riesgo podría proceder del interior del palacio; esa conclusión permanece como sospecha privada. Después acompaña a Rua a la sala principal y escucha parte de sus informes con los economistas: la ayuda de los cazadores sostiene recursos básicos en varios puntos de Kuroto, aunque los comercios siguen sufriendo dificultades graves.",
+  "participantes": [
+    "Banzo",
+    "Kataraki Mushido",
+    "Rua"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1372856531275485288",
+      "afirmacion": "Kataraki Mushido instruye a Banzo sobre su obligación de proteger a Rua.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1372870742173290507",
+      "afirmacion": "Rua pide que Banzo permanezca dentro para sentirse más segura.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1372877373455990847",
+      "afirmacion": "Banzo sospecha en privado de una amenaza procedente del interior.",
+      "tipo": "pensamiento"
+    },
+    {
+      "mensaje_id": "1372879998653960202",
+      "afirmacion": "Rua trabaja con economistas mientras Banzo escucha los informes sobre recursos y comercio.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La escena se declara nocturna aunque los mensajes se publicaron por la mañana; conservar la distinción entre tiempo narrado y publicación.",
+    "No confirma una conspiración ni la causa de la muerte del shogun."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-16T08:33:18.019000+00:00",
+  "fin_utc": "2025-05-16T11:05:37.681000+00:00",
+  "fecha_local": "2025-05-16",
+  "intervalo": {
+    "anterior": 115,
+    "siguiente": 116,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1372641487094808689",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1374091924474040400",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 115,
+        "fecha": "2025-05-15",
+        "inicio_referencia_utc": "2025-05-15T18:26:58+00:00",
+        "fin_estimado_utc": "2025-05-15T21:47:48+00:00",
+        "duracion_video_segundos": 12050,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1372641487094808689"
+      },
+      {
+        "capitulo": 116,
+        "fecha": "2025-05-19",
+        "inicio_referencia_utc": "2025-05-19T18:30:27+00:00",
+        "fin_estimado_utc": "2025-05-19T21:06:27+00:00",
+        "duracion_video_segundos": 9360,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1374091924474040400"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida."
+  },
+  "fuentes": [
+    {
+      "id": "1372854411147350107",
+      "fecha_utc": "2025-05-16T08:33:18.019000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": "2025-05-16T09:04:44.785000+00:00",
+      "texto": "**(PALACIO DE SHO -NOCHE)**\n\nBanzo: **después de la fiesta de Fukami se dirige a Palacio para iniciar su ronda**\n\n**al llegar buscaría al cargo más alto que pueda ver y se presentaría. ** <@&946730692430143519>pol",
+      "mensaje_sha256": "312d9e7f94ff2f7931bb266432304ed6977d6c21cdff08a52433797eab5e8ef4",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1372854411147350107",
+      "texto_sha256": "65781d241df9a99214d71a128f410106383e35a21847a98e4d5adc1128622e51",
+      "adjuntos": []
+    },
+    {
+      "id": "1372856531275485288",
+      "fecha_utc": "2025-05-16T08:41:43.497000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": null,
+      "texto": "**El guardia del Shogunato se presenta ante ti con voz firme: Kataraki Mushido. Es un hombre de edad avanzada, de mirada endurecida por los años y rasgos tallados por la disciplina. Su porte impone respeto, y no necesitas muchas palabras para saber que ha servido en la Guardia durante décadas. Cada uno de sus movimientos habla de experiencia y autoridad. Te observa con detenimiento, escrutándote como si pudiera leer tu alma. Finalmente, con una mueca seca y sin rastro de cordialidad, te informa de tu destino. Tu labor, desde hoy y hasta el último de tus días, será vigilar a Rua. Deberás observar cada detalle a su alrededor, protegerla ante cualquier amenaza externa… y, si es necesario, dar la vida por ella. No es una elección. Es un deber.**",
+      "mensaje_sha256": "2fc024f7d856e3d2510f0d7ca95faaeb3426a56f8df3e47bcca69c74c12247d8",
+      "tipo_discord": 19,
+      "referencia": "1372854411147350107",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1372856531275485288",
+      "texto_sha256": "cfc67f28426c0be272fbaa0410363061f307cad77cd19d7de4eda3a19d7c8a00",
+      "adjuntos": []
+    },
+    {
+      "id": "1372860396289130537",
+      "fecha_utc": "2025-05-16T08:57:04.988000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": "2025-05-16T09:04:02.162000+00:00",
+      "texto": "**(PALACIO DE SHO -NOCHE)**\n\nBanzo : **Le presenta un saludo militar **\nServire con honor señor.\n\n**se retira con un saludo militar y se dirige hacia los aposentos de Rúa.  **\n\n**de camino,  empezaria a fijarse en cuantas ventanas tiene ese pasillo, accesos escaleras ,puertas , número de soldados ...**\n**Hasta que llega a la puerta y se detiene vuelve a observar su alrededor y espera unos minutos ,viendo a que zonas dan las ventanas y que tipo de personas suelen pasar por allí (alguna sirvienta , quizá algún emisario perdido ,algún guardia o simplemente nadie )**",
+      "mensaje_sha256": "bbef246d562262f80ceee7f82aa32ac8f5ec43db812dbf4b361de68b74818bf5",
+      "tipo_discord": 19,
+      "referencia": "1372856531275485288",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1372860396289130537",
+      "texto_sha256": "c3573a03156cbfbd825d64ac30185d8bd3468f785bed7eb76d63dc46b208a0f9",
+      "adjuntos": []
+    },
+    {
+      "id": "1372863010447691837",
+      "fecha_utc": "2025-05-16T09:07:28.252000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": null,
+      "texto": "**En el pasillo de los aposentos te encuentras a dos Samurais vigilando la puerta con seguridad. Nada más verte con el collar te hacen un saludo y te permiten el paso al interior después de llamar y pedir permiso. Abren la puerta y te encuentras a Rua con un par de sirvientas que la están peinando suavemente. Te mira con una sonrisa**",
+      "mensaje_sha256": "311a4bbbf7abcaf4ed0feb0f8ef4a08c4516a1f61967c987af5a9877f0493812",
+      "tipo_discord": 19,
+      "referencia": "1372860396289130537",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1372863010447691837",
+      "texto_sha256": "664e084754ad24e424c7071304551dfae5c3988b5b94fb99a5f6a55fc5b77dcc",
+      "adjuntos": []
+    },
+    {
+      "id": "1372864436964163685",
+      "fecha_utc": "2025-05-16T09:13:08.360000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": "2025-05-16T09:19:31.791000+00:00",
+      "texto": "Banzo : buenas noches señora Rua\n **le hace una reverencia ,esta vez si que parece que es una bien hecha ,tal y como Guxi y Kalista le enseñaron ,por fin ** \nPerdón por molestar , solo quería informar que si necesita algo estaré fuera .\n\nvigilando y eso .. ya sabe ..**sonrrie** **esa última frase se le nota un poco nervioso en la voz **",
+      "mensaje_sha256": "75abdd803356991c9b1b094e1995dd9cf5d49be783a0f207f174da29ed97f07b",
+      "tipo_discord": 19,
+      "referencia": "1372863010447691837",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1372864436964163685",
+      "texto_sha256": "d163968e547a12bf3eaef013b9b830831d548114481e8901ca8d598d49abd8d5",
+      "adjuntos": []
+    },
+    {
+      "id": "1372870742173290507",
+      "fecha_utc": "2025-05-16T09:38:11.639000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": null,
+      "texto": "Rua: Tranquilo, puedes estar dentro... así me siento más segura. **Te hace una señal con la mano para que pases**",
+      "mensaje_sha256": "e8e75b9c5de3e528fc1d2b9f5ae7cd05dde72f76fb3063167d02c0c45726737c",
+      "tipo_discord": 19,
+      "referencia": "1372864436964163685",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1372870742173290507",
+      "texto_sha256": "23d2ca75e69ba1bd7f2933c5c623047b690e1d3f889560c900e737b5272446bd",
+      "adjuntos": []
+    },
+    {
+      "id": "1372872044789760030",
+      "fecha_utc": "2025-05-16T09:43:22.207000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": "2025-05-16T09:44:27.940000+00:00",
+      "texto": "Banzo : Si,  por supuesto . \n\n**va caminando todo lo recto que puede, hacia una de las ventanas del cuarto . Pero tropieza con una alfombra y da un pequeño brinco . Observará a través de ella ,igual que antes, mirando a que zonas da y que posibles accesos hay ** \nCasi con seguridad podré estar con usted hasta la semana próxima.\n\n*como me llamen para alguna urgencia los cazadores ya veremos ...*",
+      "mensaje_sha256": "fa238cc92e3fb6cebeb0a94340fa4d512d128715b4b2b786ff87a3f846795131",
+      "tipo_discord": 19,
+      "referencia": "1372870742173290507",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1372872044789760030",
+      "texto_sha256": "e3f55d274a3301e57afe31267b68b3410c183d06d44d38903f0f446f4c66ebc0",
+      "adjuntos": []
+    },
+    {
+      "id": "1372875012255776828",
+      "fecha_utc": "2025-05-16T09:55:09.706000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": null,
+      "texto": "Rua: **Suelta una risita al verte tropezar** Será un placer que estés por aquí, Banzo",
+      "mensaje_sha256": "721edfd2cdb553b7df0731fbd070819d7e92885608560a73338c4a4110226505",
+      "tipo_discord": 19,
+      "referencia": "1372872044789760030",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1372875012255776828",
+      "texto_sha256": "215760ffca12eb5eb075eb7fb416d56a59b2ff4c6070a28c64141ccb7f26af60",
+      "adjuntos": []
+    },
+    {
+      "id": "1372877373455990847",
+      "fecha_utc": "2025-05-16T10:04:32.660000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": null,
+      "texto": "Banzo : **Le mira y sonrrie tímidamente ** \n**permanece en silencio dejando que las criadas la peinen, mientras mira por la ventana la lejanía ** \n*esto está muy protegido , un ataque directo seeia imposible,  quien quiera atacar lo haría desde dentro . \nKalista Guxi y muchos de los cazadores pensaban que algo más le pasaba al viejo ... \nDeberé estar atento el peligro sin duda estará dentro de palacio...*",
+      "mensaje_sha256": "f0e4e304f834d0879396b2ae656e61aac02d4c423b100510234f8d2a7044b266",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1372877373455990847",
+      "texto_sha256": "3aa67509d42ca76f2227efe635ea83b38e89ea9226f40035b316cdbc1c092d60",
+      "adjuntos": []
+    },
+    {
+      "id": "1372879998653960202",
+      "fecha_utc": "2025-05-16T10:14:58.556000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": "2025-05-16T10:58:17.919000+00:00",
+      "texto": "**Permaneces en la habitación un largo rato mientras acaban de arreglarla. Al acabar, Rua se dirige a la sala principal del castillo donde se sienta para empezar a redactar los informes con algunos de los economistas de palacio. Tu no entiendes mucho de eso pero, puedes llegar a escuchar que gracias a la ayuda de los Cazadores en algunos puntos de Kuroto, la gente no esta desprovista de recursos de primera necesidad... pero los comercios se resienten por diversas razones bastante graves.**",
+      "mensaje_sha256": "e8715dc6806f2e284f0662dd0a4f3cff324f4fb0f5d2c249f31b1764be94ee6c",
+      "tipo_discord": 19,
+      "referencia": "1372877373455990847",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1372879998653960202",
+      "texto_sha256": "34080da423308390aaa78ee5088b0709d9ccd6446ba6cdec3a7dc5fa2ef8bb08",
+      "adjuntos": []
+    },
+    {
+      "id": "1372892745668231289",
+      "fecha_utc": "2025-05-16T11:05:37.681000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "03cd9a64703474a810960c28de020adcbca40b9a3af8719a6598c42e4dbf19d1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1372892745668231289",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

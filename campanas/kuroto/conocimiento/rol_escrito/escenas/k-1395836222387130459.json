@@ -1,0 +1,219 @@
+{
+  "id": "k-1395836222387130459",
+  "campana": "kuroto",
+  "unidad_revision": "k-1395672470543142923",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "El anillo devuelto a Guxi",
+  "resumen": "Seraphina intenta poner fin a su compromiso por sentirse incapaz de proteger a sus compañeros.",
+  "relato": "Guxi entra en la sala y encuentra a Seraphina mirando el té y sujetando su collar de cazadora. Ella confiesa que está replanteándose su pertenencia al grupo y la relación, porque no pudo protegerlo ni ayudar como esperaba. Mira el anillo azul que lleva y dice que no se siente válida como pareja ni futura esposa. Guxi intenta convencerla de su valor y afirma que la elegiría incluso antes que Kuroto. Seraphina responde que lo ama, pero no quiere arrastrarlo; se quita el anillo, lo deposita en sus manos y le pide que no la espere si encuentra a otra persona. Él insiste en acompañarla, la abraza llorando y reafirma su amor. Ella le pide que pare y termina llorando sobre su hombro. Guxi vuelve a ponerle el anillo y la besa. La escena termina sin una respuesta posterior de Seraphina que permita dar por acordada la continuidad de la relación o su ruptura definitiva.",
+  "participantes": [
+    "Guxi",
+    "Seraphina"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1395837684563443874",
+      "afirmacion": "Guxi muestra su insignia y dice ser ya cazador.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1395838605770883082",
+      "afirmacion": "Seraphina expresa dudas sobre seguir como pareja y futura esposa.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1395841176539762859",
+      "afirmacion": "Seraphina entrega el anillo y pide liberar a Guxi del compromiso.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1395844239463678173",
+      "afirmacion": "Seraphina pide que se detenga y llora sobre su hombro.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1395844670453583963",
+      "afirmacion": "Guxi recoloca el anillo y la besa.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Se distinguen el anillo verde feérico que Kazuki regala a Kalista y el anillo azul de Seraphina y Guxi.",
+    "El posible envenenamiento es la información transmitida a Kazuki; en este tramo aún no hay resultado analítico ni culpable.",
+    "El relato del ataque y la muerte procede de Seraphina; no se reconstruye la batalla ni se identifica a la víctima llamada mona.",
+    "La identificación del Gashadokuro se apoya en la guía de Maroxi y el reconocimiento de Seraphina, sin añadir facultades externas.",
+    "La discusión de pareja no se marca como reconciliación plenamente acordada: tras pedir separarse ella llora, y las últimas acciones son de Guxi."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2025-07-18T18:34:48.800000+00:00",
+  "fin_utc": "2025-07-18T19:13:06.090000+00:00",
+  "fecha_local": "2025-07-18",
+  "intervalo": {
+    "anterior": 139,
+    "siguiente": 140,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1395465783865512070",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1398002060905152542",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 139,
+        "fecha": "2025-07-17",
+        "inicio_referencia_utc": "2025-07-17T18:02:34+00:00",
+        "fin_estimado_utc": "2025-07-17T20:59:56+00:00",
+        "duracion_video_segundos": 10642,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1395465783865512070"
+      },
+      {
+        "capitulo": 140,
+        "fecha": "2025-07-24",
+        "inicio_referencia_utc": "2025-07-24T18:00:50+00:00",
+        "fin_estimado_utc": "2025-07-24T21:10:34+00:00",
+        "duracion_video_segundos": 11384,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1398002060905152542"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1395836222387130459",
+      "fecha_utc": "2025-07-18T18:34:48.800000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "guxi: **despues de que Tara le diga donde pasar entra en la sala donde seraphina**\nhola sera te fuiste antes de que pudieramos hablar\n**se sienta al lado suyo**\nno te hacia de Te la verdad jeje",
+      "mensaje_sha256": "c1f42c418af9572bb70db6c4f7f9d3d575b0cd79a54ec883daaa6cb76e74cac6",
+      "tipo_discord": 19,
+      "referencia": "1395831174646988893",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1395836222387130459",
+      "texto_sha256": "94fd232e398e9f51de416e7ce8aad42ccae86f5a8cad7e47ee2d3ce2a1e83a9b",
+      "adjuntos": []
+    },
+    {
+      "id": "1395836989504487465",
+      "fecha_utc": "2025-07-18T18:37:51.695000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\n**Mantuve mi mirada hacia abajo, viendo el té en las tazas, moviéndose suavemente**\n\nSabes... Me estoy replanteando esto...\n\n**Saqué el collar de los cazadores que tenía en el pecho**\n\nMe estoy replanteando muchas cosas Guxi... Y no estoy pensando bien...",
+      "mensaje_sha256": "dca097e8a4600a1ff90c7931d08417ee6b999b6585d6dfeb0d2340fdc9c7f392",
+      "tipo_discord": 19,
+      "referencia": "1395836222387130459",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1395836989504487465",
+      "texto_sha256": "c13b6b4b5b8135eee152929fc7de3926dbacd69f987c44d33e0bcc86b3fe5b30",
+      "adjuntos": []
+    },
+    {
+      "id": "1395837684563443874",
+      "fecha_utc": "2025-07-18T18:40:37.410000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "guxi: **la acerca aun mas poniendo su brazo encima de su hombro**\ncuentame lo que ha pasado prometimos que lo pasariamos todos juntos\nademas ahora yo tambien soy un cazador por fin\n**se ve el colgante colgando de su cuello**",
+      "mensaje_sha256": "b1c09b2ead52cabfab56d7901919e729872b1b047dbcc15eaa6a9b6a0eaee3c7",
+      "tipo_discord": 19,
+      "referencia": "1395836989504487465",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1395837684563443874",
+      "texto_sha256": "5c66ad3b655a22680b3b61f21b6fe61d87dc55b41a5f76015014e5ac24fbb552",
+      "adjuntos": []
+    },
+    {
+      "id": "1395838605770883082",
+      "fecha_utc": "2025-07-18T18:44:17.043000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\n**Apreté el dije fuertemente con mi mano, sintiendo como se incrustaba en mi piel**\n\nCreo que... Que ya alcancé mi límite, no pude protegerte, no pude salvar a nadie y solo estoy estorbando, así que creo que es mejor que esto termine...\n\n**Mire el anillo de mi mano izquierda, esa hermosa joya azul que me recordaba la calma del mar**\n\nGuxi... No puedo estar contigo si no sirvo, no te pude proteger como tú lo haces conmigo, no sirvo como pareja y mucho menos serviré como esposa...",
+      "mensaje_sha256": "98cfa40a22a5adbe7968a45edfa4cde9926890e241b4171bf6c059e8a43b75bd",
+      "tipo_discord": 19,
+      "referencia": "1395837684563443874",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1395838605770883082",
+      "texto_sha256": "859eabb2d129dee32b1a70ca64a4ad8e4fa4ba253c602d02d43cbcb0e26aaed6",
+      "adjuntos": []
+    },
+    {
+      "id": "1395839708537290865",
+      "fecha_utc": "2025-07-18T18:48:39.963000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": "2025-07-18T18:50:22.638000+00:00",
+      "texto": "guxi:se lo que sientes seraphina no sentirse suficiente pensar que no vales nada \n**la mira a los ojos**\nmirame eres fuerte eres la mujer mas fuerte y valiente que conozco alguien que seria capaz de darle la vuelta al mismisimo oceano si se lo propone y sin ti no quiero nada mas \neste collar no me importa tanto como me importa tanto  como lo haces tu\nque demonios si tuviera que elegir entre kuroto y tu te elegiria mil veces",
+      "mensaje_sha256": "e764f2649bc710f15f5f555da7a4de124029cc882c475a50323a85ea31af6e69",
+      "tipo_discord": 19,
+      "referencia": "1395838605770883082",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1395839708537290865",
+      "texto_sha256": "3a7e2068320af54d9e4e5ad8bb231bca112a9494e7ed00d15f078b71d865e383",
+      "adjuntos": []
+    },
+    {
+      "id": "1395841176539762859",
+      "fecha_utc": "2025-07-18T18:54:29.962000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\nGuxi, no quiero anclarte a un lugar que no es para tí, te amo... Pero no quiero maldecirte, no mereces esto... No te merezco \n\n**Con dolor en mi corazón, me quité el anillo del dedo y lo puse en sus manos**\n\nGuxi, por el amor que te tengo, te libero de mis ataduras, e..eres libre de este navío a la perdición, tu... Tu mereces ser feliz \n\n**No quise mirarlo a los ojos porque sabía que me derrumbaría**\n\nTu tienes un futuro por delante y... Y yo quiero ser digna de ti, así que si llego a serlo, me lo devolveras, si encuentras a alguien que si lo sea, dáselo, no quiero que me esperes...",
+      "mensaje_sha256": "b8040a132f7deffb945fbb067ba34d89e9e224f4839dfd04f0930b54f193c3f3",
+      "tipo_discord": 19,
+      "referencia": "1395839708537290865",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1395841176539762859",
+      "texto_sha256": "170812c9fb41be6469eb17629e2b4bbb554ef5a7f560b2ff17b7beada70fe330",
+      "adjuntos": []
+    },
+    {
+      "id": "1395842655954538656",
+      "fecha_utc": "2025-07-18T19:00:22.682000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "guxi: mi lugar esta contigo no se que quieres hacer pero te acompañare si vas al mismisimo infierno te sacare de el \n**le estan cayendo lagrimas de los ojos**\nsi me abandonas no podre hacer nada eres mi brujula por favor no eres una maldicion eres lo que me hace levantarme cada mañana mejorar y no quiero ver a la persona que amo portarse asi que piensa que no es suficiente \n**la abraza sus lagrimas caen sobre sus hombros**\nSera te amo siempre lo hare",
+      "mensaje_sha256": "c380bee20f827e73530c825e58edbbe5bd83d7547a8c1a0a820c9e3365dd2dab",
+      "tipo_discord": 19,
+      "referencia": "1395841176539762859",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1395842655954538656",
+      "texto_sha256": "b0a749d91c9d6b45e2a9a79189a264627b32c6d2ade5d9094831779c1ddeca32",
+      "adjuntos": []
+    },
+    {
+      "id": "1395844239463678173",
+      "fecha_utc": "2025-07-18T19:06:40.220000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\nGuxi, n..no lo hagas, BASTA!! DE... DETENTE!!, DE...DEja..me...\n\n**Me quebré al sentir su abrazo, mis lágrimas no paraban de salir, solo recargué mi cabeza sobre su hombro y seguí llorando, lloré y lloré hasta que ya no quedara más lágrimas dentro de mi, hasta que se acabará todo ese dolor**",
+      "mensaje_sha256": "4988458043a2b08034e3fc0f33642011a2f98a6b01536d7d8dac6449b0a9734d",
+      "tipo_discord": 19,
+      "referencia": "1395842655954538656",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1395844239463678173",
+      "texto_sha256": "2cfc0050bed00c0676fddba06b22f9a82db8b40cadd9d9dc391cedee0ff990fd",
+      "adjuntos": []
+    },
+    {
+      "id": "1395844670453583963",
+      "fecha_utc": "2025-07-18T19:08:22.976000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "guxi:\nTe amo sera lo que sea que nos pase lo haremos juntos\n**le pone el anillo en el dedo**\njuntos sera siempre\n**termina con un beso**",
+      "mensaje_sha256": "fd546c7d6822c7662da003b2cad8bbed9d4b333686685b9891b0f895f12dbbbf",
+      "tipo_discord": 19,
+      "referencia": "1395844239463678173",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1395844670453583963",
+      "texto_sha256": "649d4169d2f983696c590cf8643ff36e9f8a886224328cf677ef0a0332bb7f5c",
+      "adjuntos": []
+    },
+    {
+      "id": "1395845857919631452",
+      "fecha_utc": "2025-07-18T19:13:06.090000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "🔴 Fin de la escena 🔴",
+      "mensaje_sha256": "4730f305024a9a32ac78fa86733ef95f7a73e3b1a1fc7c49cf80643b15308814",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1395845857919631452",
+      "texto_sha256": "17de8d95942b0fb6967047c232c2803aac08862ce9732e9e4ad54f0347d72b95",
+      "adjuntos": []
+    }
+  ]
+}

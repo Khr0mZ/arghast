@@ -1,0 +1,80 @@
+{
+  "id": "x-1555211670056599685",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1555211670056599685",
+  "hilo_id": "1524091803647741996",
+  "hilo_nombre": "Jungla - En alguna parte de Xoltacán",
+  "titulo": "Naór sigue el pasadizo en busca de verdad",
+  "resumen": "No convierte la ausencia del tío en una condena y busca supervivientes.",
+  "relato": "Naór recuerda la palabra de traición junto al cuerpo de Kema'ar y sigue el pasadizo fuera de Aztlán. Quiere hallar supervivientes y saber quién permitió entrar al enemigo. Aunque no encontraron a Ichte, se niega a sentenciarlo solo por la duda. Continúa entre esperanza y venganza, sin descubrir aquí un culpable o un grupo de supervivientes.",
+  "participantes": [
+    "Naór"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1555211670056599685",
+      "afirmacion": "Naór sigue buscando y se niega a condenar a Ichte sin certeza.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Separar las tres viñetas; sus protagonistas no comparten una conversación.",
+    "La sospecha de una traición interior es conclusión de Naór, sin identificación probada.",
+    "El ojo buscado por Archi no se muestra extraído aquí.",
+    "La muerte de Ilikar no se explica por el mero traslado; las escenas posteriores sí la confirman."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-10-01T13:35:56.577000+00:00",
+  "fin_utc": "2026-10-01T13:35:56.577000+00:00",
+  "fecha_local": "2026-10-01",
+  "intervalo": {
+    "anterior": 66,
+    "siguiente": 69,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 66,
+        "fecha": "2026-09-22",
+        "inicio_referencia_utc": "2026-09-22T18:20:03+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241"
+      },
+      {
+        "capitulo": 69,
+        "fecha": "2026-10-08",
+        "inicio_referencia_utc": "2026-10-08T18:17:02+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1555211670056599685",
+      "fecha_utc": "2026-10-01T13:35:56.577000+00:00",
+      "fecha_local": "2026-10-01",
+      "editado_utc": null,
+      "texto": "Naór: \n**Después de lo sucedido en Aztlan, y tras pasar tres días y tres noches velando a su familia, Naor descubrió algo que cambiaría el rumbo de su camino.\n\nOculto entre las entrañas del palacio existía un antiguo pasadizo que conducía hasta las murallas, más allá de las fronteras de Aztlán. Pero aquel camino estaba custodiado por el cadáver de su abuelo.\n\nJunto a él había un mensaje.\n\nEscrito con sangre.\n\n«TRAIDOR».\n\nNaor se adentró en la oscuridad sin dudarlo, con un único pensamiento consumiendo su mente:\n\n¿Quién era el traidor?\n\nSe negaba a pensar que su tío formara parte de aquello. Nunca había encontrado su cadáver. Mientras existiera esa posibilidad, mientras no hubiera una certeza, no permitiría que la duda se convirtiera en una sentencia.\n\nSus pensamientos se entremezclaban entre la esperanza y la venganza.\n\nEsperanza… porque quizá aún quedasen leoninos con vida en Xoltacán. Quizá algunos hubieran conseguido escapar. Quizá, en algún lugar más allá de aquellas fronteras, alguien estuviera esperando ser encontrado.\n\nY venganza… por todos aquellos que habían sido traicionados.\n\nPorque Naor sabía algo que pocos comprendían: ningún ejército yuan-ti, ningún ejército humano, habría podido atravesar las fronteras de Aztlán sin que alguien desde dentro hubiese abierto el camino.\n\nAquello no había sido una simple invasión.\n\nAlguien había permitido que sucediera.\n\nLa princesa continuó avanzando por el sendero, dejando atrás la luz de Aztlán y adentrándose cada vez más en la oscuridad.\n\nCon el corazón roto.\n\nCon el alma ardiendo.\n\nY con una única promesa consumiéndola por dentro:\n\nEncontraría la verdad.\n\nY cuando la encontrase…\n\nel traidor pagaría por cada vida que había sido arrebatada.**\n<@214405113677217793>",
+      "mensaje_sha256": "907849ddf90e6376f5e93fedc50128ef4d05952ea2f32c40f496d25c3f75a7d8",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1555211670056599685",
+      "texto_sha256": "5d023aa630bd540aef6aceb1e624fa1dc494bdc32c5e58b2cf1a37bb4b7c2659",
+      "adjuntos": []
+    }
+  ]
+}

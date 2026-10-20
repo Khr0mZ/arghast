@@ -1,0 +1,97 @@
+{
+  "id": "k-1409800550920228896",
+  "campana": "kuroto",
+  "unidad_revision": "k-1409800550920228896",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Alaister devuelve a Sera a Sho",
+  "resumen": "El noble acompaña a Sera a la base y se disculpa por los incidentes de una fiesta.",
+  "relato": "Alaister acompaña a Seraphina hasta la puerta de la base de los Cazadores. Se disculpa porque la fiesta no haya resultado de su agrado y porque se colaran personas que despertaron recuerdos desagradables. Ella responde que sí se divirtió, le quita responsabilidad y lamenta haberlo apartado de la celebración para acompañarla. El intercambio queda abierto, sin nombrar a los intrusos ni explicar qué recuerdos suscitaron.",
+  "participantes": [
+    "Alaister",
+    "Seraphina"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1409800550920228896",
+      "afirmacion": "Alaister acompaña a Sera a la base y se disculpa por la fiesta.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1409905097361719366",
+      "afirmacion": "Sera afirma que se divirtió y no culpa al noble.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Continuación directa en k-1410184083476189306, conservando por separado los intervalos.",
+    "La participación en la fiesta se acredita por su conversación; no se inventa lo ocurrido en ella."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2025-08-26T07:24:04.167000+00:00",
+  "fin_utc": "2025-08-26T14:19:29.981000+00:00",
+  "fecha_local": "2025-08-26",
+  "intervalo": {
+    "anterior": 150,
+    "siguiente": 151,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1409597246030483518",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1409961127210909958",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 150,
+        "fecha": "2025-08-25",
+        "inicio_referencia_utc": "2025-08-25T17:56:00+00:00",
+        "fin_estimado_utc": "2025-08-25T20:50:48+00:00",
+        "duracion_video_segundos": 10488,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1409597246030483518"
+      },
+      {
+        "capitulo": 151,
+        "fecha": "2025-08-26",
+        "inicio_referencia_utc": "2025-08-26T18:01:52+00:00",
+        "fin_estimado_utc": "2025-08-26T21:13:53+00:00",
+        "duracion_video_segundos": 11521,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1409961127210909958"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1409800550920228896",
+      "fecha_utc": "2025-08-26T07:24:04.167000+00:00",
+      "fecha_local": "2025-08-26",
+      "editado_utc": null,
+      "texto": "Alaister: **El hombre acompañó a la joven Seraphina hasta la base de los Cazadores. Se quedó en la puerta y posó su mirada en ella.** Siento que la fiesta no haya sido de su agrado... y siento que se haya colado gente que no le ha traído buenos recuerdos... lo siento mucho. **Dice el hombre agachando la cabeza para pedir perdón** <@408026114548695061>",
+      "mensaje_sha256": "3b93503506e2fd5b4e9f87a8978ab19618c2c53f65490b45989f88c8bde6638e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1409800550920228896",
+      "texto_sha256": "d1b7fcc9816ae81958bd48b3b7d3383d7701784b585d705f587f9f08e0fb642e",
+      "adjuntos": []
+    },
+    {
+      "id": "1409905097361719366",
+      "fecha_utc": "2025-08-26T14:19:29.981000+00:00",
+      "fecha_local": "2025-08-26",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\nNo debe de disculparse, no fue su culpa, si me divertí, así que no se lamente \n\n**Le sonreí un poco**\n\nYo soy la que debería de disculparme por traerlo aquí en vez de que siga disfrutando de la fiesta",
+      "mensaje_sha256": "7b7423b0d1af413041446e04b76e7c8541759664ffad1179ce24883d870dab79",
+      "tipo_discord": 19,
+      "referencia": "1409800550920228896",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1409905097361719366",
+      "texto_sha256": "5c49ac1b9e342466987fb0c9cbbf43155d61d38241cb91f38a1eaf205270e7a4",
+      "adjuntos": []
+    }
+  ]
+}

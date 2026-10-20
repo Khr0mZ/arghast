@@ -1,0 +1,322 @@
+{
+  "id": "k-1446170012598669333",
+  "campana": "kuroto",
+  "unidad_revision": "k-1446170012598669333",
+  "hilo_id": "1387915737502580886",
+  "hilo_nombre": "Sho, Palacio del Shogunato - Capital de Kuroto",
+  "titulo": "Una cometa y tres espadas para las niñas",
+  "resumen": "Wukong agradece la ayuda de Arwen con juguetes hechos a mano y deja un regalo de paz para Shizzuka.",
+  "relato": "Arwen y Shizzuka juegan en el palacio, aparentemente planeando una represalia contra los Cazadores. Wukong llega como lobo siguiendo el olor de Arwen y se cuela por un agujero de la reconstrucción. La niña lo abraza como a un perro antes de que deshaga su transformación. Cuando ella le advierte que Shizzuka no debe verlo, sale a hurtadillas con Arwen y abre su bolsa: ha fabricado una cometa de tela blanca y perchas y tres espadas de madera para agradecer la ayuda recibida. Explica que dio una pelota de tela a Chani y propone que las tres amigas jueguen a ser Cazadores. Arwen disfruta el regalo y se ofrece a devolverle el favor. Él no pide nada; ella sugiere pagarle por recoger hierbas, para que tenga dinero y pueda regalarle comida. Wukong recibe la propuesta con cariño. Arwen solicita ir a la base y anuncia otro favor todavía sin explicar. Antes de partir, el monje deja las espadas con una nota para Shizzuka pidiéndole que no se enfade con él. Se transforma de nuevo en lobo, permite que Arwen suba y ambos salen hacia la base. La respuesta de Shizzuka y el nuevo favor quedan pendientes.",
+  "participantes": [
+    "Wukong",
+    "Arwen",
+    "Shizzuka"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1446202054648402003",
+      "afirmacion": "Wukong muestra sus regalos hechos a mano y agradece la ayuda de Arwen.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1446203923965673726",
+      "afirmacion": "Distribuye verbalmente los juguetes entre las niñas y propone jugar a Cazadores.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1446205392613802108",
+      "afirmacion": "Arwen ofrece trabajo de recoger hierbas a cambio de dinero.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1446208493689245777",
+      "afirmacion": "Deja las espadas y la nota para Shizzuka y vuelve a transformarse en lobo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1446212003969499338",
+      "afirmacion": "Arwen y Wukong parten hacia la base.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Lectura visual completa de 1446202054354796635.jpg: ilustración de la cometa blanca con insecto dibujado, espadas de madera y soportes; no añade efectos mágicos a los juguetes.",
+    "La entrega previa de la pelota a Chani se conoce por la declaración de Wukong.",
+    "No se firma ni ejecuta aquí el trabajo de recogida de hierbas.",
+    "La partida cierra esta interacción, aunque el marcador FIN quede en la unidad posterior k-1446286471454658672."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-12-04T16:03:19.543000+00:00",
+  "fin_utc": "2025-12-04T18:50:11.066000+00:00",
+  "fecha_local": "2025-12-04",
+  "intervalo": {
+    "anterior": 170,
+    "siguiente": 171,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1443679606723838074",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1446214322580881569",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 170,
+        "fecha": "2025-11-27",
+        "inicio_referencia_utc": "2025-11-27T19:07:07+00:00",
+        "fin_estimado_utc": "2025-11-27T22:32:48+00:00",
+        "duracion_video_segundos": 12341,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1443679606723838074"
+      },
+      {
+        "capitulo": 171,
+        "fecha": "2025-12-04",
+        "inicio_referencia_utc": "2025-12-04T18:59:08+00:00",
+        "fin_estimado_utc": "2025-12-04T21:35:38+00:00",
+        "duracion_video_segundos": 9390,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1446214322580881569"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1446170012598669333",
+      "fecha_utc": "2025-12-04T16:03:19.543000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": null,
+      "texto": "Arwen: **Esta jugando con Shizzuka en la habitacion... Parecen planear q tunda le van a dar a los cazadores** <@214405113677217793> <@220602485977382912>",
+      "mensaje_sha256": "b0aab035c3ff1f9a3a917aaf508b162eb6f3685edacae9fa33f47b05c8285f5c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1446170012598669333",
+      "texto_sha256": "853355d71409c1343bed08fe22458568eccd047f56cce7534a965f1f9806df1c",
+      "adjuntos": []
+    },
+    {
+      "id": "1446191545333186580",
+      "fecha_utc": "2025-12-04T17:28:53.347000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": null,
+      "texto": "Wukong \n\n**Transformado en lobo y con la bolsa a la espalda, wukong recorre las calles de Sho siguiendo el rastro de Arwen cruzándose con algunas miradas de extrañeza. Al llegar al palacio intenta esquivar a la gente que aún trabaja allí, hace guardia o aún está con la reconstrucción. Sigue el olor de la bolita de pelo escabuyendose por un agujero de la pared y llegar a una habitación del primer piso**\n\n*Escucho dos voces. Estará con Shizzuka... Espera... Shizzuka no vino a la reunión... Como a Shirtz se le olvidara avisarla nos vendrá una buena...*\n\n**El lobo empuja la puerta de la habitación lentamente con la cabeza y mira al interior**",
+      "mensaje_sha256": "928d1237250cd1b3b70d4471b151eebd4a4b64ac38849024b5465f0355274018",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1446191545333186580",
+      "texto_sha256": "a5f0971d3b8d0fcec8ab9431cbd0659c91953c863300197408328f99debafcef",
+      "adjuntos": []
+    },
+    {
+      "id": "1446192511080202343",
+      "fecha_utc": "2025-12-04T17:32:43.599000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": null,
+      "texto": "Arwen: **Con un casco militar escuchando a Shizzuka**",
+      "mensaje_sha256": "ae409aee907d7effe4f3496a801d9e02330ffbf31100a162d0e5a89d4c894e33",
+      "tipo_discord": 19,
+      "referencia": "1446191545333186580",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1446192511080202343",
+      "texto_sha256": "a3570ef755345b781eb7d45553677444e4990305a0fcee0b970cc02638c25590",
+      "adjuntos": []
+    },
+    {
+      "id": "1446196388873375986",
+      "fecha_utc": "2025-12-04T17:48:08.137000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": null,
+      "texto": "Wukong\n\n*Bueno va de perdidos al río. Además llevo regalos para las dos. Seguro que con eso me libro por mi parte*\n\n**El lobo entra a la habitación gruñendo simpáticamente para llamar la atención de las niñas**",
+      "mensaje_sha256": "8df8c3d68604efbd7a3d5fc42d6b0ee4407c1989312e5664828a24c9a601a522",
+      "tipo_discord": 19,
+      "referencia": "1446192511080202343",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1446196388873375986",
+      "texto_sha256": "22cbc5206b3a892d3104cdc128b627b4c4e9930a15a9d0fa2da0c26e3f0a374c",
+      "adjuntos": []
+    },
+    {
+      "id": "1446198750736289874",
+      "fecha_utc": "2025-12-04T17:57:31.249000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": null,
+      "texto": "Arwen: UUUUUUHHHH Perritoooooooo **Se lanza a abrazarte y achucharte cual peluche**",
+      "mensaje_sha256": "0922bb3857b03e3728a9a0b7c170be83385656041ec90f97efcbd52274eb579b",
+      "tipo_discord": 19,
+      "referencia": "1446196388873375986",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1446198750736289874",
+      "texto_sha256": "f316dcca719d3211171fc47371c1e8075fadef27813b65fb7c11437dfb736c26",
+      "adjuntos": []
+    },
+    {
+      "id": "1446201022182592552",
+      "fecha_utc": "2025-12-04T18:06:32.804000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": null,
+      "texto": "Wukong\n\n**Deshace la transformación y aparece sentado en el suelo con las piernas cruzadas y la pequeña arwen en su cabeza**\n\n- vaya vaya... Pues si que sois difíciles de localizar. Que hacéis aquí? Preparando alguna gamberrada?",
+      "mensaje_sha256": "faee04f2b89602f6f9ec64abe444fb1d43c29282b88639e349d8842226834583",
+      "tipo_discord": 19,
+      "referencia": "1446198750736289874",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1446201022182592552",
+      "texto_sha256": "4371b31e944997f87f5d7690c2b71fa76224a1074ee08048f711b4b684a2093c",
+      "adjuntos": []
+    },
+    {
+      "id": "1446201342090809497",
+      "fecha_utc": "2025-12-04T18:07:49.076000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": null,
+      "texto": "Arwen: Wukooooonggg **Se calla un poco y te tira de los pelos cual ratatui** Mejor que no te vea....¿Uy que es eso?",
+      "mensaje_sha256": "2e20a3234da618ef6c79f194910e2ca3be5f045ff0ac7fd07b110f4944cf9f73",
+      "tipo_discord": 19,
+      "referencia": "1446201022182592552",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1446201342090809497",
+      "texto_sha256": "77627bdb5923732f83583545fea6f9b4104b481f6b3b997f89a50a1f82b16da7",
+      "adjuntos": []
+    },
+    {
+      "id": "1446202054648402003",
+      "fecha_utc": "2025-12-04T18:10:38.963000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": null,
+      "texto": "Wukong\n\n**Coge a la pequeña y sale a hurtadillas del cuarto viendo que Shizzuka aún no se ha percatado**\n\n- vale, ya no hay peligro... Hablé os bajito vale? Te he traído un regalo para agradecerte que me ayudaras el otro día. Quería comprarte algo bonito pero el tito wukong no tiene dinero ahora mismo... Así que te he hecho una cosa yo mismo...\n\n**Abre el paquete blanco y se ve una cometa hecha con tela blanca y perchas, y tres espadas de madera hechas a mano**",
+      "mensaje_sha256": "f553f625031af280013f0fc4e11aeddcaaa6c9b970e13f8cce8a47fe4735f32c",
+      "tipo_discord": 19,
+      "referencia": "1446201342090809497",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1446202054648402003",
+      "texto_sha256": "b87b7da09a48f796718ad7125d1ec15d9d15bcbf6d28906f68ec3e39ed83cdc7",
+      "adjuntos": [
+        {
+          "id": "1446202054354796635",
+          "nombre": "1764182186103.jpg",
+          "tipo": "image/jpeg",
+          "archivo": "adjuntos/1446202054354796635.jpg",
+          "url": "rol_escrito/adjuntos/1446202054354796635.jpg",
+          "bytes": 163514,
+          "sha256": "1fa4d8d8bc762d852169b9a600893fb4d6893551892fbe74a59624df5d314d86"
+        }
+      ]
+    },
+    {
+      "id": "1446202504055492658",
+      "fecha_utc": "2025-12-04T18:12:26.110000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": null,
+      "texto": "Arwen: Uuuuuuhhhhh que chulooooo **Lo agarra, lo toma y lo examina con una sonria** Mmmmhhhh tengo que ser buena...¿Quieres algo? Puedo devolverte el favor con otro",
+      "mensaje_sha256": "a1c74a313b3d245250508f874720a1f19d30949f4897da97c978d79ddf50fc0b",
+      "tipo_discord": 19,
+      "referencia": "1446202054648402003",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1446202504055492658",
+      "texto_sha256": "9f424ea88db735add095c3170b346ff232ecf7c30de0a078cf1e28c62a73b8c5",
+      "adjuntos": []
+    },
+    {
+      "id": "1446203923965673726",
+      "fecha_utc": "2025-12-04T18:18:04.643000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": "2025-12-04T18:19:07.212000+00:00",
+      "texto": "Wukong\n\n- Mientras no hagas travesuras malas serás una niña buena. A Chani le di una pelota de tela para que juguéis todas juntas.  Así que la cometa con el escarabajo pintado es para ti, a ver si entre las tres aprendéis a volar la. Y para Shizzuka, que parece enfadada, le das estás espadas de madera. Así podréis jugar a los cazadores. Chani puede ser Kuro , Shizzuka puede ser Shirtz y tú puedes ser banzo. Te gusta?\n\n**El mono mira con ternura a la niña**\n\n- no tienes que darme nada cosita. Esto por lo del otro día. Te prometo que a la próxima, el tito wukong ganará dinero y te comprará algo muy bonito y que no sea viejo como esto.",
+      "mensaje_sha256": "b23471194e6085863dda815f03310a861934f35cad0fa349878d0b391af9a87a",
+      "tipo_discord": 19,
+      "referencia": "1446202504055492658",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1446203923965673726",
+      "texto_sha256": "c137ed6c09afbd95bd89d793064192a11ed2dffdec6d5415b8a18824f6f980b8",
+      "adjuntos": []
+    },
+    {
+      "id": "1446205392613802108",
+      "fecha_utc": "2025-12-04T18:23:54.796000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": null,
+      "texto": "Arwen: Deberias darselo tu, asi te perdonaria. **Te sonrie** Arwen tiene dinero... ¿Y si ayudas a Arwen a recoger hiervas y asi tienes dinero para regalarme comida?",
+      "mensaje_sha256": "e139c2f390f334369e2eaf586285720f166510ac26f7d1d8e4050656562f7c0f",
+      "tipo_discord": 19,
+      "referencia": "1446203923965673726",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1446205392613802108",
+      "texto_sha256": "afeecde7f5ba1f6145e21743b6777691bc6dcba2996c970dba4bfcd6bbd7ed42",
+      "adjuntos": []
+    },
+    {
+      "id": "1446206925091111013",
+      "fecha_utc": "2025-12-04T18:30:00.167000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": null,
+      "texto": "Wukong\n\n*Un mono adulto recorriendo la senda de la espiritualidad trabajando para una niña pequeña... Wow wukong... Que giro ha dado tu vida eh?*\n\n- de verdad harías eso por mi canija? Si es que... Cuando no haces trastadas eres un amor...\n\n**El.mono empieza a cogerle de los carrillos**\n\n- si es que te como yo esa cara gorrina que tú tienes 🎶",
+      "mensaje_sha256": "dfe90d81f6d540f104f9c8a056ead38f1985899484a8172fb85efc4423e38e16",
+      "tipo_discord": 19,
+      "referencia": "1446205392613802108",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1446206925091111013",
+      "texto_sha256": "55a7f90ae7b6bf71eee6e70dc99829578369a469d9c7dd199902735219777a18",
+      "adjuntos": []
+    },
+    {
+      "id": "1446207604748714184",
+      "fecha_utc": "2025-12-04T18:32:42.210000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": null,
+      "texto": "Arwen: **Rie** Oyeee te vuelves lobo y me llevas a la base... tengo otro favor que quiero pedirte...",
+      "mensaje_sha256": "0d307fcaaeaa03ae3fb45de3020fbb5d847c2707c8c4d854f48fb1c5b54f5699",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1446207604748714184",
+      "texto_sha256": "5d318609c86efbb3dec21c0a75dc59cd3d150485b5e7ef81377e67cf602dede9",
+      "adjuntos": []
+    },
+    {
+      "id": "1446208493689245777",
+      "fecha_utc": "2025-12-04T18:36:14.150000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": "2025-12-04T18:36:48.757000+00:00",
+      "texto": "Wukong\n\n- vale, pero dame un segundo...\n\n**El.mono le da la cometa a arwen y deja las espadas en la bolsa de tela con una nota para Shizzuka colgado de la puerta del cuarto**\n\n*Un regalo (las tres espadas de madera) de parte de tu mono favorito para que no te enfades con el y juegues con tus amigas.\n\nFdo. Wukong* <@214405113677217793> \n\n- ale... Listo. Agarrate fuerte fuerte que el tito corre muy rápido eh?\n\n**Wukong vuelve a coger unos pelillos de su cola, hace un cántico y al despejarse el humo vuelve a aparecer en su forma de lobo. Se sacude, mira a arwen y le hace un gesto para que suba**",
+      "mensaje_sha256": "6b87906c76e139330743c1bd8966722a66594e3793e156af92ccbedff4110da8",
+      "tipo_discord": 19,
+      "referencia": "1446207604748714184",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1446208493689245777",
+      "texto_sha256": "31999de1196f5a30fe21428ae9a47c1afc574b1e6b42457c992bbbeabaa8ec81",
+      "adjuntos": []
+    },
+    {
+      "id": "1446209275633598530",
+      "fecha_utc": "2025-12-04T18:39:20.580000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": null,
+      "texto": "Arwen: **Rie y se aferra a ti. Esta acostumbrada a ir montada sobre gente o animales**",
+      "mensaje_sha256": "67a9d3e14fddf57ba633f985ed7a6e853ef26059f75c96199dc7647290b9f7a2",
+      "tipo_discord": 19,
+      "referencia": "1446208493689245777",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1446209275633598530",
+      "texto_sha256": "2400920fd801f40744a81668614930b325479de6d46f2836b3d2954e4a34f5c7",
+      "adjuntos": []
+    },
+    {
+      "id": "1446212003969499338",
+      "fecha_utc": "2025-12-04T18:50:11.066000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": null,
+      "texto": "**Y juntos, no revueltos os largais a la base**",
+      "mensaje_sha256": "38c059286fb2ca89f243772b364de369e256132b987f1a9a1eb4a16a69b8a1c2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1446212003969499338",
+      "texto_sha256": "9efdeb780160af744522f6bcd738db1b936e9536cb888a2d6d53197d2e00fd01",
+      "adjuntos": []
+    },
+    {
+      "id": "1446286471454658672",
+      "fecha_utc": "2025-12-04T23:46:05.498000+00:00",
+      "fecha_local": "2025-12-05",
+      "editado_utc": null,
+      "texto": "🔴 **Fin de escena**🔴",
+      "mensaje_sha256": "532f5fc4acd1187394af313482f299ec4fd887425f95f1aa0f48a3b0c95ab3ef",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1446286471454658672",
+      "texto_sha256": "0e513b9a495850850524d0965f55df051cd0b6a138120693016da3f3ffd42ccd",
+      "adjuntos": [],
+      "no_narrativo": true,
+      "nota_editorial": "Marcador de cierre conservado junto a la conversación."
+    }
+  ]
+}

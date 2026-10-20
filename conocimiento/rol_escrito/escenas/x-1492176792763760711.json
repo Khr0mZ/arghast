@@ -1,0 +1,80 @@
+{
+  "id": "x-1492176792763760711",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1492176792763760711",
+  "hilo_id": "1465411590789795962",
+  "hilo_nombre": "Shiaru - El ron de Bonny",
+  "titulo": "Jacky entrega una carta con el sello de los Cinco",
+  "resumen": "Relata que un navío de bandera de banana lo abordó y dejó el mensaje para Bonny.",
+  "relato": "Jacky regresa al ron de Bonny, compra una botella y saluda con cierta sequedad a sus antiguos compañeros antes de acercarse a la mesa de la capitana. Nervioso, cuenta que lo abordó un navío con una banana en su bandera y que le ordenaron entregar una carta. La coloca sobre la mesa con el sello de los Cinco. Bonny cambia de expresión y permite que se marche. No se transcribe el mensaje ni se identifica aquí al remitente por nombre.",
+  "participantes": [
+    "Jacky Jackson",
+    "Happy Bonny",
+    "Picks"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1492176792763760711",
+      "afirmacion": "Jacky entrega a Bonny una carta con el sello de los Cinco tras un abordaje que relata.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El símbolo de la bandera y el sello se conservan sin inventar contenido de la carta ni nombre de capitán.",
+    "Su regreso no confirma qué sucedió con las cartas de Aerendriel."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-04-10T14:57:50.699000+00:00",
+  "fin_utc": "2026-04-10T14:57:50.699000+00:00",
+  "fecha_local": "2026-04-10",
+  "intervalo": {
+    "anterior": 23,
+    "siguiente": 24,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1491864574310223892",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1494397729080873092",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 23,
+        "fecha": "2026-04-09",
+        "inicio_referencia_utc": "2026-04-09T18:16:51+00:00",
+        "fin_estimado_utc": "2026-04-09T21:10:57+00:00",
+        "duracion_video_segundos": 10446,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1491864574310223892"
+      },
+      {
+        "capitulo": 24,
+        "fecha": "2026-04-16",
+        "inicio_referencia_utc": "2026-04-16T18:02:47+00:00",
+        "fin_estimado_utc": "2026-04-16T20:50:50+00:00",
+        "duracion_video_segundos": 10083,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1494397729080873092"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1492176792763760711",
+      "fecha_utc": "2026-04-10T14:57:50.699000+00:00",
+      "fecha_local": "2026-04-10",
+      "editado_utc": null,
+      "texto": "Jackie Jackson: **El ex-Marine entra al Ron de Bonny para dirigirse a la barra y pedir una botella a Picks. Cuando pasa al lado de la mesa de la tripulación de Ione y Nox, simplemente los saluda con un movimiento de cabeza algo seco. Le entrega una moneda al mono cuando esté le trae la botella y se dirige a la mesa de Happy Bonny** Ho... Hola, Happy Bonny, pu...puedo hablar con usted?\n\nHappy Bonny: **Mira al muchacho mientras la tripulación pirata empieza a rodearlo**\n\nJackie Jackson: Cu... Cuando venía hacia aquí nos abordó un navio, tenía una bandera con una Banana **En ese momento Happy Bonny detiene a su tripulación y deja que el muchacho hable** Me... Me dijo que le entregará esta carta... **Coloca una carta encima de la mesa. La expresión de Happy Bonny cambia por completo y deja marchar al muchacho. En la carta está el sello de los Cinco**\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "7d8e624f3b713421ae8718e9c247ca72fc6b72b737c2d6cd2c9dd169e8755c4c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1492176792763760711",
+      "texto_sha256": "d3c231fb5fe30535bd9363c7b1d8badd6b51c1cb2dc611d43e680d36ff1b5437",
+      "adjuntos": []
+    }
+  ]
+}

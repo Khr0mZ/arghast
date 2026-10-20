@@ -1,0 +1,173 @@
+{
+  "id": "k-1418351132497150124",
+  "campana": "kuroto",
+  "unidad_revision": "k-1418351132497150124",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Kurobane vuelve con Chani",
+  "resumen": "El ninja regresa herido y afirma que Osurai ya no está.",
+  "relato": "Chanecuxtli despierta de una pesadilla de sangre, sombras y ojos azules. Corre fuera del dormitorio, resbala en sangre y llama angustiada a Tezca. Kurobane aparece con una sonrisa cálida; la magia necrótica se disipa a su alrededor, aunque todavía está herido. Chani lo abraza y explica que soñó que algo le hacía daño. Él responde que el hombre feo ya no está y que solo queda él, tomándola con cuidado en el regazo. La criatura se ofrece a curarlo al descubrir sangre propia del ninja, una herida de flecha y otra lesión de la que salen pequeñas líneas verdes. Kurobane asegura que bastará descansar y ella celebra aliviada su regreso. El intercambio continúa en la unidad siguiente.",
+  "participantes": [
+    "Chanecuxtli",
+    "Kurobane"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1418351132497150124",
+      "afirmacion": "Chani despierta de una pesadilla y encuentra sangre al salir del dormitorio.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1418351939145433098",
+      "afirmacion": "Kurobane regresa herido, con calidez y la magia necrótica disipándose.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1418353345579585536",
+      "afirmacion": "El ninja afirma que ya solo está él y que el hombre feo ha desaparecido.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1418354872230875217",
+      "afirmacion": "Se describen sangre propia y heridas; Kurobane dice necesitar descanso.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La afirmación de liberación es de Kurobane y su cambio de conducta es visible; el procedimiento de separación no se representa aquí.",
+    "No se identifica a quienes le causaron las heridas ni se reconstruyen hechos del capítulo intermedio.",
+    "Continuación en k-1418356867662614559, sin unir sus intervalos."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2025-09-18T21:41:01.677000+00:00",
+  "fin_utc": "2025-09-18T21:58:44.819000+00:00",
+  "fecha_local": "2025-09-18",
+  "intervalo": {
+    "anterior": 158,
+    "siguiente": 159,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1418299599050899618",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1420832479270408274",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 158,
+        "fecha": "2025-09-18",
+        "inicio_referencia_utc": "2025-09-18T18:15:55+00:00",
+        "fin_estimado_utc": "2025-09-18T20:58:06+00:00",
+        "duracion_video_segundos": 9731,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1418299599050899618"
+      },
+      {
+        "capitulo": 159,
+        "fecha": "2025-09-25",
+        "inicio_referencia_utc": "2025-09-25T18:00:44+00:00",
+        "fin_estimado_utc": "2025-09-25T20:59:58+00:00",
+        "duracion_video_segundos": 10754,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1420832479270408274"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1418351132497150124",
+      "fecha_utc": "2025-09-18T21:41:01.677000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n\n**Un sueño extraño se estaba apoderando de mi, sangre, sombras, miedo, y unos ojos azules que me miraban fijamente, mis latidos se volvían irregulares y mis alitas se agitaban demasiado hasta que me desperté de golpe**\n\nTEZCA PÍO!!\n\n**Me baje de la cama casi de un brinco, piando de preocupación, intenté correr lo más rápido que podía, resbalandome en el piso**\n\n**Abrí la puerta y corrí hasta la puerta pero algo hizo que mis patitas se resbalaran**\n\nS..sangre... Pío... Tezca... TEZCA!! TEZCA PÍO!!\n\n<@240564189448503306>",
+      "mensaje_sha256": "173a5a131bfb6f9256089cc45947b74ccfb54470b8071dfccfe35a42b587b245",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418351132497150124",
+      "texto_sha256": "716d2ef72c6c00666711f9394071fd55576f4943e77b534dda2bdb748bec018c",
+      "adjuntos": []
+    },
+    {
+      "id": "1418351939145433098",
+      "fecha_utc": "2025-09-18T21:44:13.997000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": "2025-09-18T21:46:05.713000+00:00",
+      "texto": "Kurobane:\n\nBuenas noches, Chani.\n\n**Dice sonriente, notas que ya no hay frio cerca suyo ni en sus palabras y esa sonrisa está mal hecha pero es genuina, mientras camina lentamente esa magia necrótica se haya disipando pero sigue dañado, en dirección a una de las sillas**",
+      "mensaje_sha256": "7fa626c08b2a98a4d97160c59450bcc8593c904e1e2292575225ea8254e3c3a4",
+      "tipo_discord": 19,
+      "referencia": "1418351132497150124",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418351939145433098",
+      "texto_sha256": "2395d29a0ef48f9a48f2bf7d3a2ed14e8945205bb3df888eeed99a6f90879957",
+      "adjuntos": []
+    },
+    {
+      "id": "1418352707286339745",
+      "fecha_utc": "2025-09-18T21:47:17.136000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n\nTezca?... TEZCA PÍO!! TEZCA PÍO!!\n\n**Salí corriendo mientras lloraba, lo abracé a la pierna**\n\nSoñe feo, pío, ojos azules, pío, era malo, no me gustaba, me asustó, q..que te hacía daño, pío...",
+      "mensaje_sha256": "3b802b96a9743a9fb40e69c353f21b41f4ec64fb8c9abfee99171ce30cd0e1ec",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418352707286339745",
+      "texto_sha256": "c2d3c9b01d176348012554cf6aa4f992e5927c5552e9c92782e9601205dd623d",
+      "adjuntos": []
+    },
+    {
+      "id": "1418353345579585536",
+      "fecha_utc": "2025-09-18T21:49:49.317000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": "2025-09-18T21:50:45.391000+00:00",
+      "texto": "Kurobane:\n\nYa no está ese señor feo. Ya solo soy yo. Solo está Tezca.\n\n**Dice por primera vez de forma tranquila mientras agarra con cuidado a Chani para ponerla en su regazo y empezar a acariciarlo (como típico gato del villano de James Bond)**",
+      "mensaje_sha256": "e58fc9da120f29456f8dfa0d6ff54e72dadfca60c3c64ea4ed7c18e06003de72",
+      "tipo_discord": 19,
+      "referencia": "1418352707286339745",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418353345579585536",
+      "texto_sha256": "5d3e3058e9c63cd34863b94dc85192dee147cd50fc9b3d67a93bd17963f78887",
+      "adjuntos": []
+    },
+    {
+      "id": "1418354000713220127",
+      "fecha_utc": "2025-09-18T21:52:25.513000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n\nTezca está bien?, Tezca está lastimado?, había sangre, tu estás bien?, pío?\n\n**Empecé a moverme de un lado a otro, tratando de ver si tenía alguna herida**\n\nYo te puedo curar, pío, yo puedo",
+      "mensaje_sha256": "cdf671f499944b3e1e331d3609c42f3df69cf80a5464ae6f0151ecb8b390547a",
+      "tipo_discord": 19,
+      "referencia": "1418353345579585536",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418354000713220127",
+      "texto_sha256": "6f8369befe9db2f1ef5662537bc8cd0d673a2645c9edcfe3f3870391399fe470",
+      "adjuntos": []
+    },
+    {
+      "id": "1418354872230875217",
+      "fecha_utc": "2025-09-18T21:55:53.299000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\n**Está manchado de sangre, se puede ver que es la suya, tiene una herida de flecha clavada y una especie de dedo desde donde salen pequeñas líneas verdes**\n\nEstoy mejor que bien, pequeña. Estoy lastimado pero nada que un buen descanso no lo pueda sanar.\n\n**Dice sonriente sientes un aura cálida cuando te nombra pequeña, notas que en sus palabras hay calidez y relajación**",
+      "mensaje_sha256": "adc275cfbf820b643eaa09ba03dd6a51360c724f86a550648cdab8ab3cd2951b",
+      "tipo_discord": 19,
+      "referencia": "1418354000713220127",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418354872230875217",
+      "texto_sha256": "e1f200c1341b72f3881f237348ec7c1e5c615b251f86902109ec1a9b7665c21b",
+      "adjuntos": []
+    },
+    {
+      "id": "1418355591637897277",
+      "fecha_utc": "2025-09-18T21:58:44.819000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n\n**Mis ojos se abren por el asombro, lo abracé con \"fuerza\", estaba mas que contenta de que el estuviera bien, al menos dentro de lo que cabe**\n\nQue bueno pío, que bueno pío, Tezca está bien, Pío \n\n**Me restregaba contenta en su pecho**",
+      "mensaje_sha256": "cbb7993f7d888b1c1a6e990cbf4c1bbb6baec95ac426ec2672e0fde47492305f",
+      "tipo_discord": 19,
+      "referencia": "1418354872230875217",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418355591637897277",
+      "texto_sha256": "a1adfb0529e2255837409c28ffe79699abb960e136832ddc75ba25240ddf9c40",
+      "adjuntos": []
+    }
+  ]
+}

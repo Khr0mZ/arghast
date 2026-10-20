@@ -1,0 +1,96 @@
+{
+  "id": "k-1424468729718247574",
+  "campana": "kuroto",
+  "unidad_revision": "k-1423726317710344324",
+  "hilo_id": "1379945696089604209",
+  "hilo_nombre": "Sho, Barrios bajos - Capital de Kuroto",
+  "titulo": "Una araña lleva a Banzo el mensaje de Danifae",
+  "resumen": "Tras buscar al gnomo sin éxito, Banzo decide atender una invitación.",
+  "relato": "Banzo recorre los callejones con R3 buscando a Archi sin hallar indicios. La narración recuerda que ya recuperó su mano gracias a Arwen, sin representar aquí esa curación. Una araña aparece entre escombros y teje un mensaje: Danifae lo invita a verla. El goliat considera peligroso involucrarla, pero cree que quizá sepa algo y se dirige al palacio. La entrevista queda pendiente.",
+  "participantes": [
+    "Banzo",
+    "R3"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1424468729718247574",
+      "afirmacion": "La araña teje una invitación firmada por Danifae.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1424653577455927376",
+      "afirmacion": "Banzo decide ir a palacio pese a sus reservas.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Dos viñetas paralelas, sin comunicación de Archi con Banzo."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-10-05T18:50:10.514000+00:00",
+  "fin_utc": "2025-10-06T07:04:41.649000+00:00",
+  "fecha_local": "2025-10-05",
+  "intervalo": {
+    "anterior": 160,
+    "siguiente": 161,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1423373613540573317",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1425183138606219264",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 160,
+        "fecha": "2025-10-02",
+        "inicio_referencia_utc": "2025-10-02T18:18:19+00:00",
+        "fin_estimado_utc": "2025-10-02T21:07:14+00:00",
+        "duracion_video_segundos": 10135,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1423373613540573317"
+      },
+      {
+        "capitulo": 161,
+        "fecha": "2025-10-07",
+        "inicio_referencia_utc": "2025-10-07T18:08:41+00:00",
+        "fin_estimado_utc": "2025-10-07T20:58:07+00:00",
+        "duracion_video_segundos": 10166,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1425183138606219264"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1424468729718247574",
+      "fecha_utc": "2025-10-05T18:50:10.514000+00:00",
+      "fecha_local": "2025-10-05",
+      "editado_utc": null,
+      "texto": "**El enorme goliat, que ya había recuperado su mano gracias a la magia de la pequeña Arwen, recorría los barrios bajos de la capital en busca de alguna pista sobre aquel gnomo problemático. Sin embargo, por más que rastreaba entre callejones y escombros, no lograba hallar ni un solo indicio, ni siquiera con la ayuda de R3, el autómata que lo acompañaba.**\n**De pronto, el robot se iluminó de un rojo intenso y lanzó un aviso de alarma. El goliat giró la cabeza justo a tiempo para ver cómo una pequeña araña emergía de entre los restos de una pared derruida. La criatura avanzó unos pasos hasta situarse a cierta distancia de ellos, moviéndose con extraña agilidad. Luego comenzó a lanzar hilos de seda, tejiendo rápidamente su obra en el aire.**\n**Cuando terminó, la tela quedó extendida en la esquina del callejón. El goliat entrecerró los ojos: entre los delicados hilos plateados se podía leer un mensaje claro y burlón.** *Ven a verme, grandullón. Danifae.*\n<@616683133374562304>",
+      "mensaje_sha256": "6450bf8c5a164d610537ce0230f60cc6cec3410a0e3c550bb3d6b1ab0ad4bdd8",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1424468729718247574",
+      "texto_sha256": "dac3ebe06fe28bc3221e529d241d456bb6c7a33c43ef6b6f6f8225c471d44aa9",
+      "adjuntos": []
+    },
+    {
+      "id": "1424653577455927376",
+      "fecha_utc": "2025-10-06T07:04:41.649000+00:00",
+      "fecha_local": "2025-10-06",
+      "editado_utc": null,
+      "texto": "Banzo : **chasquea los dientes cuando ve eso y gruñe** \n\nTssss que quiere ahora ... \nTodo lo que sea involucrarla es una bomba de relojería. \n\nQuizá es la única que sabe algo , el demonio pareció.. reconocerla quiza..? \n\n\n**se dirige a palacio ** \n\n<:Redflag:1071855288610717848> FIN DE LA ESCENA <:Redflag:1071855288610717848>",
+      "mensaje_sha256": "76df7951ca9f810f8e5b8255d5331515bc560e0703523e67eb195b48e78503bf",
+      "tipo_discord": 19,
+      "referencia": "1424468729718247574",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1424653577455927376",
+      "texto_sha256": "20530d957f3731a13a7e68e392f8f0037d6b227a1fa2f7e6768cea2baf6c9eab",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "x-1549847511047602250",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1549847511047602250",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "Jivirix traza un encargo para el deudor de Oghma",
+  "resumen": "El patrón pide confianza entre los habitantes y dibuja el destino de una recogida cuyo objeto no revela.",
+  "relato": "Oghma invoca la espada negra y solicita audiencia a Jivirix, que responde mediante un eco de su apariencia. El patrón le pide integrarse en Iktan y ganarse la confianza de sus habitantes. Celebra la liberación de un kraken como una ocasión para sembrar caos; ella oculta que buscaba salvar a Zelda y obtener una recompensa.\n\nAl preguntar por qué teme a Chopito, recibe una afirmación posesiva de su señor. Después solicita ayuda para el cabraball y Jivirix propone poner a prueba al elfo al que considera su deudor. Tendrá que reunir ayuda con fuerza e inteligencia para recoger algo. Oghma no debe acompañarlo. El eco dibuja un mapa con la espada y desaparece, dejando el objeto y la misión sin desarrollar en esta fuente.",
+  "participantes": [
+    "Oghma",
+    "Jivirix"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1549847511047602250",
+      "afirmacion": "Jivirix ordena ganarse la confianza local y encarga una recogida al deudor de Oghma.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "El patrón llama suyo al deudor en sentido de dominio; no convierte la vida de Zelda en propiedad objetiva o contrato aceptado por él.",
+    "La razón del terror a Chopito es la respuesta interesada de Jivirix.",
+    "No identificar el objeto dibujado en el mapa ni afirmar que esta misión ya se inició.",
+    "Las miradas de Archi hacia Coyote mantienen el misterio, sin revelar qué hizo mientras estaba inconsciente."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2026-09-16T18:20:41.408000+00:00",
+  "fin_utc": "2026-09-16T18:20:41.408000+00:00",
+  "fecha_local": "2026-09-16",
+  "intervalo": {
+    "anterior": 61,
+    "siguiente": 62,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1548030716158152747",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1550205538032422963",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 61,
+        "fecha": "2026-09-11",
+        "inicio_referencia_utc": "2026-09-11T18:00:47+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1548030716158152747"
+      },
+      {
+        "capitulo": 62,
+        "fecha": "2026-09-17",
+        "inicio_referencia_utc": "2026-09-17T18:01:47+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1550205538032422963"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1549847511047602250",
+      "fecha_utc": "2026-09-16T18:20:41.408000+00:00",
+      "fecha_local": "2026-09-16",
+      "editado_utc": "2026-09-16T19:00:45.707000+00:00",
+      "texto": "Oghma:\n**Se dirige a las afueras, buscando un sitio aislado para contactar con su patron**\n\n*No me dijo que hacer, solo que fuera yo misma, y me dejo aqui tirada. Seguro que todo esta bien*\n\n**Se concentra, invocando la espada negra. Deja reposar el peso de la hoja sobre el suelo mientras sostiene la empuñadura en equilibrio**\n\nJivirix, filo de las medias verdades, hoja de las estafas, señor sonriente del embaucamiento... Con una mentira y una reverencia, esta humilde sierva solicita audiencia\n\n**Hace una reverencia. Un eco con su misma apariencia se materializa frente a ella y coloca tambien una mano sobre la empuñadura**\n\nPEQUEÑA MIA. VEO QUE ESTAS INTEGRANDOTE ENTRE LA POBLACION LOCAL. CONTINUA. GANATE SU CONFIANZA\n\nClaro, jefe. Ahora soy una heroina. Todos me quieren. Hay muchos heroes en Iktan y ahora soy como ellos\n\nTUS AVENTURAS TE HAN LLEVADO LEJOS. LIBERAR AL KRAKEN PARA SEMBRAR EL CAOS EN PERLASAL FUE UNA ELECCION DELICIOSA. TU SENTIDO COMUN ES INVERSAMENTE PROPORCIONAL A TU CAPACIDAD PARA SORPRENDERME\n\n*Yo solo queria salvar a Zelda y la recompensa de una reina...*\n\nPor supuesto, jefe. Siempre pensando en servirte\n\nAHORA LA VIDA DEL ELFO TE PERTENECE. BUENA CHICA\n\nUna pregunta, jefe. ¿Por que Chopito me aterroriza?\n\nPORQUE ERES MIA Y NO HAY SITIO PARA NADIE MAS EN ESA CABECITA LOCA\n\nEso se avisa, jefe. Una ultima cosa. Tengo algo importante que pedirte. La gente esta como loca con el cabraball, un deporte nordico para salvajes de musculos enormes. ¿Puedes ayudarme a participar?\n\nCLARO QUE SI. SERA DIVERTIDO. VAMOS A PONER A PRUEBA A TU DEUDOR. LO USAREMOS PARA QUE RECOJA ALGO POR NOSOTROS. QUE BUSQUE AYUDA CON MUSCULOS Y CEREBRO\n\n¿Y donde tenemos que ir?\n\nTU NO VAS. HE DICHO CON MUSCULOS Y CEREBRO\n\n*Hi dichi cin miscilos y ciribri...*\n\nClaro, jefe. Como tu digas\n\n**El eco araña un mapa en la tierra con la punta de la espada que ambas sostienen y se esfuma tan rapido como aparecio**\n\n*La musculosa y gigantesca Oghma...*",
+      "mensaje_sha256": "85e9cbe07440020c079f82cb8f74719d299044f27eb9778efd444860c7ac4b22",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1549847511047602250",
+      "texto_sha256": "3f39e44c76ffb8f283b83d8dfac8bafe9ad5dc59a9bcaa6f06b3e5bb9f6f1bdb",
+      "adjuntos": []
+    }
+  ]
+}

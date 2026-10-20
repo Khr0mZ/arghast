@@ -1,0 +1,354 @@
+{
+  "id": "x-1555995330401800234",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1555995330401800234",
+  "hilo_id": "1524091803647741996",
+  "hilo_nombre": "Jungla - En alguna parte de Xoltacán",
+  "titulo": "Coyote entrega el ojo del kraken a Archi",
+  "resumen": "El gnomo recibe el trofeo en su taller y la conversación deriva en una celebración con Oghma y su eco.",
+  "relato": "Coyote vuelve a Iktan con el ojo del kraken y Oghma. Quiere entregarlo a Archi e informar a Walulu y Naór de que una líder está lista para el concilio. El aviso político es su intención, sin entrevista desarrollada en estos mensajes.\n\nEl inventor los recibe por cámara y abre una trampilla que los lleva por un tobogán hasta butacas del taller. Robots ofrecen bebidas mientras él deja una disección de restos verdes y escamosos. Oghma cuenta la operación de Perlasal con Patata, Zelda transformado en cachalote y Chopito en una gran armadura. Es su relato retrospectivo, sin reproducir el combate.\n\nArchi reconoce el tamaño adecuado del ojo y una robot lo toma. La visita se llena de coqueteos y dobles sentidos. Oghma bromea con llamarse Irveta esa noche; no cambia por ello de identidad. Coyote intenta retirarse por incomodidad, pero termina aceptando quedarse para un juego.\n\nDurante la invitación del gnomo, cree ver por un instante ojos parecidos a los de una sirena y el propio texto deja abierta la explicación entre magia, humo o percepción. Robots ponen música y bebidas; Oghma invoca un eco mediano y forman un juego de manos y pies sobre colores. Coyote se suma. El cierre no describe actos sexuales ni confirma el uso de poderes para obligarlo.",
+  "participantes": [
+    "Coyote",
+    "Oghma",
+    "Archi",
+    "Eco mediano de Oghma",
+    "Robots de Archi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1556007758422089878",
+      "afirmacion": "Archi los introduce en el taller mediante trampilla y tobogán.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1556014467836416011",
+      "afirmacion": "Una robot toma el ojo entregado por Coyote.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1556021550019387513",
+      "afirmacion": "Oghma relata el combate de Perlasal y bromea con el nombre Irveta.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1556034551233388605",
+      "afirmacion": "Coyote percibe fugazmente un cambio en los ojos de Archi de explicación incierta.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1556069573218803734",
+      "afirmacion": "Oghma y su eco comienzan un juego sobre colores.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1556077014274936884",
+      "afirmacion": "Coyote acepta participar en el juego.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Ilustración del taller y juego inspeccionada.",
+    "No fijar una capacidad de hipnosis o cambio de forma a partir de una percepción expresamente ambigua.",
+    "Los dobles sentidos no autorizan añadir actos íntimos.",
+    "Irveta es una broma y no alias biográfico acreditado de Oghma.",
+    "La derrota del kraken es testimonio retrospectivo acompañado por el ojo recibido."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-10-03T17:29:55.763000+00:00",
+  "fin_utc": "2026-10-05T21:50:35.790000+00:00",
+  "fecha_local": "2026-10-03",
+  "intervalo": {
+    "anterior": 66,
+    "siguiente": 69,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 66,
+        "fecha": "2026-09-22",
+        "inicio_referencia_utc": "2026-09-22T18:20:03+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241"
+      },
+      {
+        "capitulo": 69,
+        "fecha": "2026-10-08",
+        "inicio_referencia_utc": "2026-10-08T18:17:02+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1555995330401800234",
+      "fecha_utc": "2026-10-03T17:29:55.763000+00:00",
+      "fecha_local": "2026-10-03",
+      "editado_utc": null,
+      "texto": "Coyote:\n**Entrando a Iktan con el ojo del Kraken, llegué a lado de Oghma, tenía bastante nerviosismo pero al menos habíamos logrado hacer algo bueno y algo bien, primero iría a entregarle el ojo al Gnomo y después a informarle a Walulu y a Naór sobre lo que había pasado en Perlasal y así decirle que ya teníamos a una de los lideres lista para la reunión en Tutukan**\n\nSi estará en su guardia?\n\n**Voltee a ver a Oghma**\n\n<@277455010571223040>",
+      "mensaje_sha256": "c435424fa2c892811ffe46c7a92c26166c474390a52b4ab27efc08eab2bdd3fa",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1555995330401800234",
+      "texto_sha256": "32c5c344664156ce15cf9ff15391d1db426f48c2fb8ae4532079706ee1529973",
+      "adjuntos": []
+    },
+    {
+      "id": "1555998985259585757",
+      "fecha_utc": "2026-10-03T17:44:27.149000+00:00",
+      "fecha_local": "2026-10-03",
+      "editado_utc": null,
+      "texto": "Oghma:\n**Va contenta junto a Coyote mientras lleva la mochila al pecho bien abrazada y mantiene dentro una de sus manos.**\n\nPuede que tengamos suerte, ha tenido mucho trabajo ultimamente asi que su cabaña me parece una buena apuesta para encontrarlo. Te sigo\n\n<@408026114548695061> <@616683133374562304>",
+      "mensaje_sha256": "5059df7d2a907d876770f2b119b93fec50576dbc13547c842fec1490c0fbf934",
+      "tipo_discord": 19,
+      "referencia": "1555995330401800234",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1555998985259585757",
+      "texto_sha256": "de92a391841dddb7d4da307dc1f70b9fdae45598246db39efc6d1d5d2fe56fff",
+      "adjuntos": []
+    },
+    {
+      "id": "1556000938496626691",
+      "fecha_utc": "2026-10-03T17:52:12.837000+00:00",
+      "fecha_local": "2026-10-03",
+      "editado_utc": null,
+      "texto": "Coyote:\n**Levanté los hombros y camine hacia la cabaña de Archi, aún seguía sin entender como es que tenía tantas cosas metálicas pegadas ahí**\n\n**Toqué la puerta tres veces**\n\nArchi!!, ya llegamos, te trajimos el ojo del Kraken!!\n\n<@616683133374562304>",
+      "mensaje_sha256": "aa3026e4f289e89abfc21dd1b79502e0db786aa62799b5990d28b3b2fef9d9a1",
+      "tipo_discord": 19,
+      "referencia": "1555998985259585757",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1556000938496626691",
+      "texto_sha256": "ca7a399c2eb4e0e391d022910f38972e555a6b3d4c41dc9b8923084df9363d41",
+      "adjuntos": []
+    },
+    {
+      "id": "1556007758422089878",
+      "fecha_utc": "2026-10-03T18:19:18.834000+00:00",
+      "fecha_local": "2026-10-03",
+      "editado_utc": "2026-10-03T18:20:30.345000+00:00",
+      "texto": "Archi: **De la puerta sale la ya típica camarita, que más bien parece un ojo mecánico, y observa a los recién llegados.**\n\nOooooh... sois vosotros.\nBien. Los dos grupos parece que habéis cumplido con vuestros designios.\n\n**Se escucha desde un pequeño interfono**\n\nHe instalado algo divertido. Agarraos.\n\n**CLANK.\n\nUn mecanismo empieza a funcionar bajo vuestros pies.\nDe repente, el suelo se abre y una trampilla os hace caer por un oscuro tobogán.\n\nDescendéis a toda velocidad por la oscuridad.\n\nUna curva.Otra.\nY finalmente...\nLlegáis al taller de Archi\n\nCaéis directamente en dos enormes butacas acolchadas.\n\nA vuestro lado os esperan varias de las robots, perfectamente alineadas, ofreciendo bebidas y una cachimba como si esto fuera la recepción de un hotel particularmente extraño.**\n\n¡Bienvenidos!\n\n**Al levantar la vista, descubrís que estáis frente a una sala que parece un quirofano \n\nHay instrumental por todas partes, máquinas funcionando y, sobre una mesa, los restos de algo que algún día fue verde y escamoso.\n\nArchi se quita los guantes, las lentes , la bata y finalmente la mascarilla.**\nUn momento.\n\n**Se mete en una especie de ducha\n\nUna nube de gas lo envuelve durante unos segundos.\nLa puerta se abre.\nArchi sale completamente limpio, cruza la sala con absoluta tranquilidad y se planta delante de vosotros.**\n¿Qué? ¿Cómo ha ido?\n**una de las robots le trae una pipa y se la enciende **  <@277455010571223040> <@408026114548695061>",
+      "mensaje_sha256": "1b47119478fe62060d6133b8a6ef9812c45147f3adb71ecce41aa03d311463f1",
+      "tipo_discord": 19,
+      "referencia": "1556000938496626691",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1556007758422089878",
+      "texto_sha256": "e832e6bc6312db6b0f60446e8c43b519dde1cd3bc4027f2d52f48a3710ded496",
+      "adjuntos": []
+    },
+    {
+      "id": "1556010718745333763",
+      "fecha_utc": "2026-10-03T18:31:04.630000+00:00",
+      "fecha_local": "2026-10-03",
+      "editado_utc": null,
+      "texto": "Oghma:\n**Saca la mano de la mochila y asiente sonriendo por la calida bienvenida mientras se arregla el pelo con un chasquido y va recogiendo una bebida con la otra**\n\nTodo salio bien, incluso mejor de lo esperado. La cria de kraken casi ni se resistio. Coyote tiene el ojo.\n\n**Levantando la mirada hacia la pulpa sangrienta de la mesa**\n\nEspero que eso no sea la cena",
+      "mensaje_sha256": "36ffae06389784549a76fa5e98587fcf0e79d338515318a5ec2d152087b6991b",
+      "tipo_discord": 19,
+      "referencia": "1556007758422089878",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1556010718745333763",
+      "texto_sha256": "e3eba363637ed410b05107561c161c918b6deedbcd5e9f876ddbde45aedb38f6",
+      "adjuntos": []
+    },
+    {
+      "id": "1556011798874816643",
+      "fecha_utc": "2026-10-03T18:35:22.153000+00:00",
+      "fecha_local": "2026-10-03",
+      "editado_utc": null,
+      "texto": "Coyote:\n**Terminé con el pelaje erizado y la cara en completa sorpresa**\n\nNunca me voy a acostumbrar a esto...\n\n**Le enseñé el ojo de Kraken aún con cara de asco**",
+      "mensaje_sha256": "d447ef66cf477305549058d7a3386fa8013e0f87d4ad02fcab589693792a5e9e",
+      "tipo_discord": 19,
+      "referencia": "1556007758422089878",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1556011798874816643",
+      "texto_sha256": "63a1397a9a552903fc0a73bacecaf47f6f018cf21d76b2a0e911d32f0db388b6",
+      "adjuntos": []
+    },
+    {
+      "id": "1556012283430441081",
+      "fecha_utc": "2026-10-03T18:37:17.680000+00:00",
+      "fecha_local": "2026-10-03",
+      "editado_utc": null,
+      "texto": "Archi : aaaaaaaah aquí esta , gracias gracias querido Coyote , **te sonrrie de medio lado ** \n\nEra una cria entonces ? \n\nBueno aun puede servir,  es del tamaño adecuado",
+      "mensaje_sha256": "561e3820f58989a40d4e44ce6ad9210e252be70a2292dc5a9da79852433b022a",
+      "tipo_discord": 19,
+      "referencia": "1556011798874816643",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1556012283430441081",
+      "texto_sha256": "9160fbd2210383531f0c32a87066b2e00ddd09758418c1ef6b52c752fec74144",
+      "adjuntos": []
+    },
+    {
+      "id": "1556012877352276039",
+      "fecha_utc": "2026-10-03T18:39:39.282000+00:00",
+      "fecha_local": "2026-10-03",
+      "editado_utc": null,
+      "texto": "Coyote:\nY aun así nos costó trabajo, fue una misión bastante estresante\n\n**Negué con la cabeza**\n\nMenos mal pudimos con el y cumplimos nuestra palabra",
+      "mensaje_sha256": "d62e37d9d8509ae29e898f1ce01965026e61e3077a27d8e435f55a6864f4821e",
+      "tipo_discord": 19,
+      "referencia": "1556012283430441081",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1556012877352276039",
+      "texto_sha256": "9d1f04114658dd357163f6c73b83eacf405fa58177472d0f32837445d11d695f",
+      "adjuntos": []
+    },
+    {
+      "id": "1556014467836416011",
+      "fecha_utc": "2026-10-03T18:45:58.483000+00:00",
+      "fecha_local": "2026-10-03",
+      "editado_utc": "2026-10-03T18:46:39.986000+00:00",
+      "texto": "Archi : estoy muy seguro de que te esforzaste mucho  Coyote y sacaste lo mejor de ti ** te sigue mirando con esa sonrisa de medio lado ** \n\n*aunque yo se que es lo mejor que se puede sacar de ti*\n\nCon permiso **chasquea los dedos y le hace una señal a una de las robots para que tome el ojo ** \n\nLady Oghma <@277455010571223040>  usted tan bella como siempre . \n\nCuéntenme detalles seria fantástico escuchar ese relato de una mujer ... como usted .. se le ve que es una mujer con clase ... \n**ya ignora a Coyote y se le chasquea los dedos a otra de las robots para que le acerque una butaca **",
+      "mensaje_sha256": "f4cadee9ffe5e803e0d914359ddff73bb4158ca9fa105069cc37008253e60ddc",
+      "tipo_discord": 19,
+      "referencia": "1556012877352276039",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1556014467836416011",
+      "texto_sha256": "1fa458f9e96b4d1b63f4beb8721632672a05a37034fda54eb4466b1e0daa0a4d",
+      "adjuntos": []
+    },
+    {
+      "id": "1556021550019387513",
+      "fecha_utc": "2026-10-03T19:14:07.007000+00:00",
+      "fecha_local": "2026-10-03",
+      "editado_utc": "2026-10-03T19:17:07.124000+00:00",
+      "texto": "Oghma:\n**Se acomoda dando una calada profunda a la pipa mientras se gira para mirarlo cara a cara dejando escapar el humo de entre sus labios en forma un hilo que se entreteje en el bigote de Archi formando una redecilla antes de deshacerse**\n\nPara alguien tan impresionable como Coyote es normal que ver como una patata separa las aguas como un mesias para luego ser devorado por el kraken, un elfo transformado en cachalote dando coletazos en los charcos restantes de las aguas separadas o un pulpito montado en una armadura gigante partiendo al kraken por la mitad sean algo impresionante, pero para nosotros que ya tenemos experiencia eso no es mas que otro viernes noche...\n\n**Parece perderse en sus pensamientos para volver con una mirada jugetona**\n\nAunque si lo que quieres son detalles, tal vez pueda darte algunos\n\n**Se acerca mas y suelta un susurro ahogado**\n\nPuedes llamarme Irveta esta noche, por que la tengo gorda como una perla y aun me sabe a sal",
+      "mensaje_sha256": "255d0928e9d50056ab24025f4939ec3199d30c084eabe32e011802c87fa05dd9",
+      "tipo_discord": 19,
+      "referencia": "1556014467836416011",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1556021550019387513",
+      "texto_sha256": "b2a316a9dd5af1234e1001797bd9c6f458eaba8fd968bb463f58d25eceb1591c",
+      "adjuntos": []
+    },
+    {
+      "id": "1556022650919325801",
+      "fecha_utc": "2026-10-03T19:18:29.482000+00:00",
+      "fecha_local": "2026-10-03",
+      "editado_utc": null,
+      "texto": "Coyote:\nOK!! OK!!, ESTO YA DE POR SÍ ERA INCÓMODO PARA MI Y AHORA LO ES MUCHO PEOR!!\n\n**Levanté las dos patas mientras caminaba hacia atrás**\n\nAdemás que se notan las preferencias desde lejos, así que no quiero ser la tercera rueda de esta carreta y retirarme lentamente",
+      "mensaje_sha256": "bef6ac05d40ea80b2b7700bc3832631d47d60755465bb045872326ec11581fe5",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1556022650919325801",
+      "texto_sha256": "7ae836ab5d60e01d759308d8c2c1ee4735d4443f1ded8ef4b2a5d028417a9138",
+      "adjuntos": []
+    },
+    {
+      "id": "1556023498609270975",
+      "fecha_utc": "2026-10-03T19:21:51.587000+00:00",
+      "fecha_local": "2026-10-03",
+      "editado_utc": null,
+      "texto": "Oghma:\n**Le apoya una mano en el regazo a Coyote**\n\n¿Donde crees que vas? ¿Es que los amigos ya no celebran las victorias o por ese pececillo vas a hacerte ahora el estrecho?",
+      "mensaje_sha256": "b6dc803fb8d1a82779ab1a39baafd184887aef2a2ba6db99e66b52130c7b8738",
+      "tipo_discord": 19,
+      "referencia": "1556022650919325801",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1556023498609270975",
+      "texto_sha256": "88c2936cce8464af73ea4d7f683934d17bb35f744c30da5ada613e64c3e027de",
+      "adjuntos": []
+    },
+    {
+      "id": "1556026729062080614",
+      "fecha_utc": "2026-10-03T19:34:41.787000+00:00",
+      "fecha_local": "2026-10-03",
+      "editado_utc": null,
+      "texto": "Coyote:\n**Pasé saliva**\n\n*Esto me va a doler y me va a dejar secuelas muy cabronas*",
+      "mensaje_sha256": "4e57444f2e2997ebd1ac388c58960297c8b236899eb19623f3d00bf11aa441f0",
+      "tipo_discord": 19,
+      "referencia": "1556023498609270975",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1556026729062080614",
+      "texto_sha256": "4eabf46a4d1de8167c879858b98bda8cf5a72fab0ee7360eed9895009fd7ca22",
+      "adjuntos": []
+    },
+    {
+      "id": "1556034551233388605",
+      "fecha_utc": "2026-10-03T20:05:46.738000+00:00",
+      "fecha_local": "2026-10-03",
+      "editado_utc": "2026-10-03T20:25:25.546000+00:00",
+      "texto": "Archi : a festejar se ha dicho pues . \nChicas , prepararlo todo  \n**las robots empiezan a cambiar las luces , poner algo de música de ambiente una ya empieza a preparar bebidas **\n\nVamos te lo pasaras bien \n**Archi se acerca a ti Coyote ** \nTe lo aseguro \n**Se acerca mucho a tu cara y te sonríe** \nSolo un par de copas \n**cuando lo tienes tan cerca ves como sus ojos empiezan a cambiar , se empiezan a parecer a los de cierta sirena . Pero al instante desaparecen a sido solo un momento  . \n\nPero no , no puede ser verdad Coyote ? Como iba a conseguir hacer eso un viejo inventor ... \nAlucinaciones o demasiado humo en ese sótano...\nA no ser que ... \nNo no .. imposible \n\nArchi se aleja de ti sonriendo y se acerca a Oghma ** \n\nRonda de chupitooooooos !!!",
+      "mensaje_sha256": "2dba25f3d2efb41b48fd5d751cd44b25b932064f4a874d603a443268a4bb6c8f",
+      "tipo_discord": 19,
+      "referencia": "1556026729062080614",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1556034551233388605",
+      "texto_sha256": "ca8570bc9b78969ed5909241f60bc3d966852bf7ffdb338d094a01b9493bb801",
+      "adjuntos": []
+    },
+    {
+      "id": "1556069573218803734",
+      "fecha_utc": "2026-10-03T22:24:56.630000+00:00",
+      "fecha_local": "2026-10-04",
+      "editado_utc": "2026-10-03T22:25:20.945000+00:00",
+      "texto": "Oghma:\n**Va derramando pekeños charcos de diferentes colores en el suelo y con una palmada aparece la eco con forma de mediana**\n\nVenga unios, mano derecha al amarillo y pierna izquierda al verde!\n\n**Oghma y la mediana empiezan a contorsionarse de forma sexy para alcanzar los colores adecuados**",
+      "mensaje_sha256": "9ca02ba465dd61ace5ab7e9fa713beba7c2f80eecdfd84c53bc72fd6fa07ef84",
+      "tipo_discord": 19,
+      "referencia": "1556034551233388605",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1556069573218803734",
+      "texto_sha256": "fad6f621822c3028cdccc1b84e7684c6755c337462d227534022addeffc8ea23",
+      "adjuntos": []
+    },
+    {
+      "id": "1556073619455606855",
+      "fecha_utc": "2026-10-03T22:41:01.328000+00:00",
+      "fecha_local": "2026-10-04",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "e5bd7b75f6b13b75021fd4fc6b1780a41db357693d112aa8a5eb164622663dd7",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1556073619455606855",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1556073617970700348",
+          "nombre": "7f710c3f-737f-41a0-9705-e7bbd60eceb5.png",
+          "tipo": "image/png",
+          "archivo": "adjuntos/1556073617970700348.png",
+          "url": "rol_escrito/adjuntos/1556073617970700348.png",
+          "bytes": 3927799,
+          "sha256": "b23a592dbfea98c7d5e547fe0f44e258fed13df419d7dad31553f86984320b0f"
+        }
+      ]
+    },
+    {
+      "id": "1556073660618383451",
+      "fecha_utc": "2026-10-03T22:41:11.142000+00:00",
+      "fecha_local": "2026-10-04",
+      "editado_utc": null,
+      "texto": "<@408026114548695061> <@616683133374562304>",
+      "mensaje_sha256": "09f6484ab2ca4b3f9b6d410d16b63b2ff414e58ad7232c209c9956d708018ae9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1556073660618383451",
+      "texto_sha256": "63caa9697b5c4e04cfd220356506d08755576cc36821e7ae9914b6f34f2ab5e5",
+      "adjuntos": []
+    },
+    {
+      "id": "1556077014274936884",
+      "fecha_utc": "2026-10-03T22:54:30.716000+00:00",
+      "fecha_local": "2026-10-04",
+      "editado_utc": null,
+      "texto": "Coyote:\nBueeeno, un juego no me matará \n\n**Levanté nuevamente los hombros y me dispuse a jugar también, quizás era la paranoia que tenía de la batalla y me hacia falta relajarme también**\n\nVavava, ahora voy yo, nada más cuidado porque yo muerdo",
+      "mensaje_sha256": "af53351b5ee9fa168933adb752c98b15fc26a0d628a5958d82af4b9058a9377f",
+      "tipo_discord": 19,
+      "referencia": "1556069573218803734",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1556077014274936884",
+      "texto_sha256": "aa0d7b5ea345467707b22c13ba7fd670cd19a0d4864e1c6892a55832be3efc87",
+      "adjuntos": []
+    },
+    {
+      "id": "1556785705160671313",
+      "fecha_utc": "2026-10-05T21:50:35.790000+00:00",
+      "fecha_local": "2026-10-05",
+      "editado_utc": "2026-10-05T21:50:55.835000+00:00",
+      "texto": "🔴  Fin de la Escena  🔴",
+      "mensaje_sha256": "e5646675bf3daf88d76884c92449a1ed9f8fbd5b4d49d0b4b4627199a0898521",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1556785705160671313",
+      "texto_sha256": "9c806361cc79509cf3003e3076234dcfe302651c351f978336f44d9cd98c8ac4",
+      "adjuntos": []
+    }
+  ]
+}

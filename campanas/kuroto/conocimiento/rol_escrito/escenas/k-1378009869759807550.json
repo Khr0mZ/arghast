@@ -1,0 +1,218 @@
+{
+  "id": "k-1378009869759807550",
+  "campana": "kuroto",
+  "unidad_revision": "k-1377915643013107847",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Notas rumbo a la biblioteca",
+  "resumen": "Jelbreg recoge los papeles de Kalista y la acompaña a investigar.",
+  "relato": "Mientras Kalista sigue distraída, Jelbreg se acerca y la asusta con un grito. Ella deja caer los papeles y reacciona con rapier y abanico antes de reconocerlo. El drow la ayuda a recoger sus notas y pregunta si ha localizado aquello que les indicaron en un encuentro anterior relacionado con Eilistraee. Kalista todavía no sabe dónde encontrarlo y quiere investigar en la biblioteca. Jelbreg decide acompañarla, le devuelve los documentos y ambos salen juntos. No se describe qué buscan exactamente ni se obtiene una respuesta en esta escena.",
+  "participantes": [
+    "Kalista",
+    "Jelbreg"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1378012150538174517",
+      "afirmacion": "Kalista anuncia que quiere buscar información en la biblioteca.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1378012601128058960",
+      "afirmacion": "Jelbreg devuelve las notas y decide acompañarla.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Noventa y tres mensajes íntegros en dos partes. Tres encuentros consecutivos con fuentes separadas.",
+    "El secreto susurrado por Danifae no se reconstruye; esta conversación posterior sí establece expresamente el afecto de Kalista por Jelbreg y sus límites con Kurobane.",
+    "Las restricciones que Osurai alega podrían provenir de hechos anteriores fuera de este bloque; no se inventa la firma ni el texto de un contrato. Su afirmación sobre la muerte como única salida no se convierte en una regla indiscutible.",
+    "La daga permanece confiada al ninja; promete devolverla, pero no hay entrega en esta escena.",
+    "La procedencia y técnica de reparación del cristal son explicaciones de Inugami. No se realiza un viaje a Ashenoth ni se restaura el portal. La advertencia de explosión es un riesgo que describe, no un suceso.",
+    "Las notas lunares y la referencia a Eilistraee no permiten inventar el objeto buscado o las instrucciones previas. La investigación en biblioteca queda abierta."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2025-05-30T13:59:15.136000+00:00",
+  "fin_utc": "2025-05-30T14:14:25.410000+00:00",
+  "fecha_local": "2025-05-30",
+  "intervalo": {
+    "anterior": 123,
+    "siguiente": 124,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1377714802629283882",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1379890572373790750",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 123,
+        "fecha": "2025-05-29",
+        "inicio_referencia_utc": "2025-05-29T18:26:29+00:00",
+        "fin_estimado_utc": "2025-05-29T21:01:06+00:00",
+        "duracion_video_segundos": 9277,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1377714802629283882"
+      },
+      {
+        "capitulo": 124,
+        "fecha": "2025-06-04",
+        "inicio_referencia_utc": "2025-06-04T18:32:16+00:00",
+        "fin_estimado_utc": "2025-06-04T21:34:59+00:00",
+        "duracion_video_segundos": 10963,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1379890572373790750"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1378009869759807550",
+      "fecha_utc": "2025-05-30T13:59:15.136000+00:00",
+      "fecha_local": "2025-05-30",
+      "editado_utc": "2025-05-30T13:59:33.592000+00:00",
+      "texto": "**Una figura se acerca por tu espalda mientras estás despistada suspirando. Se acerca a ti lentamente de manera sigilosa... Y cuando está a pocos céntimos de ti...** ¡BU!",
+      "mensaje_sha256": "553b594a0a71c57cebbbbe1e337098c9ecd2c589e0de1f880572ac5c18e63507",
+      "tipo_discord": 19,
+      "referencia": "1378009257026392205",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378009869759807550",
+      "texto_sha256": "7d61e7a4c3ab44db157ce577074f098e2ed59f1fd7b72dc4881f33f0e0c7219f",
+      "adjuntos": []
+    },
+    {
+      "id": "1378010100043612243",
+      "fecha_utc": "2025-05-30T14:00:10.040000+00:00",
+      "fecha_local": "2025-05-30",
+      "editado_utc": null,
+      "texto": "Kalista: **Suelta sus papeles, saca su rapier con una de sus manos y el abanico en la otra apuntando a la figura**",
+      "mensaje_sha256": "19f705ca564772d6f1d4c3eebf6e3ae3c77fecb7346fa061cbb99c6bf81c2443",
+      "tipo_discord": 19,
+      "referencia": "1378009869759807550",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378010100043612243",
+      "texto_sha256": "f8d400c95dba08818f73af387590b9b11e600b7764a7a99a59ff457c93e4fc58",
+      "adjuntos": []
+    },
+    {
+      "id": "1378010423361802290",
+      "fecha_utc": "2025-05-30T14:01:27.125000+00:00",
+      "fecha_local": "2025-05-30",
+      "editado_utc": null,
+      "texto": "Jelbreg: Eh eh eh eh! ¡Cuidado! Le vas a sacar un ojo a alguien con eso... **El drow levanta las manos por encima de la cabeza mientras tiene una sonrisa en su rostro**",
+      "mensaje_sha256": "86f02b22e4fa56b5401a66e473169f05f125aa9205698542b07a10622d4d8970",
+      "tipo_discord": 19,
+      "referencia": "1378010100043612243",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378010423361802290",
+      "texto_sha256": "facf22be79d831bc0033bd1715ac760eb8d7bb896d4f483a2df60728af856a2f",
+      "adjuntos": []
+    },
+    {
+      "id": "1378010698122137713",
+      "fecha_utc": "2025-05-30T14:02:32.633000+00:00",
+      "fecha_local": "2025-05-30",
+      "editado_utc": null,
+      "texto": "Kalista: **Ve que eres tu, vuelve a suspirar y se guarda el rapier y el abanico** No hagas eso...**Mira sus papeles por el suelo y empieza a tratar de recogerlos todos**",
+      "mensaje_sha256": "5ca19eddee15abf808ca7e43dd8d9914c4a519e78e393a698884d33bbeafbb78",
+      "tipo_discord": 19,
+      "referencia": "1378010423361802290",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378010698122137713",
+      "texto_sha256": "b2b97b0fc2c49fe54eee01f8ac30011892c0082b8378ca4b9180d85b1c770856",
+      "adjuntos": []
+    },
+    {
+      "id": "1378011230819844156",
+      "fecha_utc": "2025-05-30T14:04:39.638000+00:00",
+      "fecha_local": "2025-05-30",
+      "editado_utc": null,
+      "texto": "Jelbreg: Es que es fácil asustarte, se me da bien. **Mira los papeles por el suelo y se agacha a recogerlos mientras los mira** ¿Y todo esto? Es para...",
+      "mensaje_sha256": "fa70315afa3e2911dcb54bb40d2a78312b894b8a045a7b00881e08925fb46f30",
+      "tipo_discord": 19,
+      "referencia": "1378010698122137713",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378011230819844156",
+      "texto_sha256": "5f7082008da325943251a0930564aa0fc17a118429f32929e8901439a5291e81",
+      "adjuntos": []
+    },
+    {
+      "id": "1378011405093048444",
+      "fecha_utc": "2025-05-30T14:05:21.188000+00:00",
+      "fecha_local": "2025-05-30",
+      "editado_utc": null,
+      "texto": "Kalista: mis notas sobre lo que vimos en...si...por si se me olvida...**Los va recogiendo**",
+      "mensaje_sha256": "63d3d1a3de30d70b60b0ba9750ab3217533d0ba7454a763b5121bcbe15752362",
+      "tipo_discord": 19,
+      "referencia": "1378011230819844156",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378011405093048444",
+      "texto_sha256": "077582ed0b3963d5ab6640d7889dd73f6d634cf3447c8846ddfcd81533e41de5",
+      "adjuntos": []
+    },
+    {
+      "id": "1378011960540532908",
+      "fecha_utc": "2025-05-30T14:07:33.617000+00:00",
+      "fecha_local": "2025-05-30",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Recoge los últimos papeles del suelo mientras los ojea** ¿Has descubierto donde podemos encontrar eso que nos dijo... esa...? **Pone una cara de mueca al recordar a Eilistraee y como Banzo hablo en su nombre ante ella**",
+      "mensaje_sha256": "7e82293b170f4705f5251877428f03d85b2461fc346e3aff825ddb7bb02ea290",
+      "tipo_discord": 19,
+      "referencia": "1378011405093048444",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378011960540532908",
+      "texto_sha256": "e700c9bb5fe8952022e83e9e6c0608eb3786d9453027711425426d37f9681cd6",
+      "adjuntos": []
+    },
+    {
+      "id": "1378012150538174517",
+      "fecha_utc": "2025-05-30T14:08:18.916000+00:00",
+      "fecha_local": "2025-05-30",
+      "editado_utc": null,
+      "texto": "Kalista: no...quiero ir a ver si encuentro algo en la biblioteca **Extiende la mano pidiendotelos**",
+      "mensaje_sha256": "573308a10b1a50d9b1f3683221b1374d58d8bcc2dcd10e0e3c13e86d0b6e9078",
+      "tipo_discord": 19,
+      "referencia": "1378011960540532908",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378012150538174517",
+      "texto_sha256": "0e0659f67991744a396e81fdf1cbf4c948ec9aedd650712750ccb6d9cd0341e1",
+      "adjuntos": []
+    },
+    {
+      "id": "1378012601128058960",
+      "fecha_utc": "2025-05-30T14:10:06.345000+00:00",
+      "fecha_local": "2025-05-30",
+      "editado_utc": "2025-05-30T14:10:18.915000+00:00",
+      "texto": "Jelbreg: Te acompaño **Decidido mientras te entrega los papeles y se dispone a moverse** ¿Vamos?",
+      "mensaje_sha256": "21a4fc4f3eedd00bd0fbe471967126bc95b0ea495344359867a91ce9fb8ff654",
+      "tipo_discord": 19,
+      "referencia": "1378012150538174517",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378012601128058960",
+      "texto_sha256": "93d657b4bb709cce60ada97afaa07cb88860107a2241bd7ec8ced79c5bbdffae",
+      "adjuntos": []
+    },
+    {
+      "id": "1378012852660731974",
+      "fecha_utc": "2025-05-30T14:11:06.315000+00:00",
+      "fecha_local": "2025-05-30",
+      "editado_utc": null,
+      "texto": "Kalista: **Te asiente levemente y va contigo abrazando sus notas**",
+      "mensaje_sha256": "72b4014dbe360cf1489e12de9bf189f2a7a5faf62be64ca31cee58a878c27c5a",
+      "tipo_discord": 19,
+      "referencia": "1378012601128058960",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378012852660731974",
+      "texto_sha256": "655d902b91b95b032ed2b94a9c2baf45eb59d34a5b7021febb7230c430301506",
+      "adjuntos": []
+    },
+    {
+      "id": "1378013687725686865",
+      "fecha_utc": "2025-05-30T14:14:25.410000+00:00",
+      "fecha_local": "2025-05-30",
+      "editado_utc": null,
+      "texto": "🔴 **Fin de escena** 🔴",
+      "mensaje_sha256": "5ffdf4a7a0289cea0c656a4fc76fc0cc2cba3392ba7c0393e1d7fef85a23cc73",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378013687725686865",
+      "texto_sha256": "01f60a608407a9976ecfd6c172368754c52b5008ed5ce58d0995b8d735a8961d",
+      "adjuntos": []
+    }
+  ]
+}

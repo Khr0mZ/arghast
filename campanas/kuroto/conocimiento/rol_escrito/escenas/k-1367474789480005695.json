@@ -1,0 +1,170 @@
+{
+  "id": "k-1367474789480005695",
+  "campana": "kuroto",
+  "unidad_revision": "k-1367439525911199764",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Del portal a la floristería",
+  "resumen": "Una transición hacia el sur precede al paseo de Kurobane, Kalista y Jelbreg.",
+  "relato": "Un goliat, un drow y Kalista atraviesan juntos un portal rumbo al campamento sur, en una breve transición descrita sin conversación. Más tarde, Kurobane sale de un portal y espera a que aparezcan Kalista y Jelbreg. Ella le pide que los guíe y él los conduce hasta una pequeña floristería de la capital próxima a la casa de té. Kalista lo sigue, mientras el drow marcha a una distancia que le permite escucharlos y continúa leyendo el libro de los cultistas. El encuentro termina con ese desplazamiento: la compra de flores o su destino todavía no se representan aquí.",
+  "participantes": [
+    "Banzo",
+    "Kalista",
+    "Jelbreg",
+    "Kurobane"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1367474789480005695",
+      "afirmacion": "Un goliat, un drow y Kalista cruzan un portal hacia el campamento sur.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1367517500086157513",
+      "afirmacion": "Kurobane guía a Kalista y Jelbreg a una floristería cercana a la casa de té.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1367517804630118440",
+      "afirmacion": "Jelbreg los sigue leyendo el libro de los cultistas.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Doce mensajes completos; dos hilos de acción intercalados, conservados en subescenas.",
+    "El goliat y el drow de la transición se entienden por el contexto inmediato como Banzo y Jelbreg; la propia línea los designa por aspecto. No se inventan acciones de su viaje.",
+    "Las preocupaciones privadas de Jhin no se comunican automáticamente. No se identifica aquí una muerte ni la razón de las campanas."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-01T12:16:36.265000+00:00",
+  "fin_utc": "2025-05-01T15:07:56.496000+00:00",
+  "fecha_local": "2025-05-01",
+  "intervalo": {
+    "anterior": 110,
+    "siguiente": 111,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367206327377727518",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 110,
+        "fecha": "2025-04-30",
+        "inicio_referencia_utc": "2025-04-30T18:29:35+00:00",
+        "fin_estimado_utc": "2025-04-30T20:53:27+00:00",
+        "duracion_video_segundos": 8632,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367206327377727518"
+      },
+      {
+        "capitulo": 111,
+        "fecha": "2025-05-01",
+        "inicio_referencia_utc": "2025-05-01T18:30:18+00:00",
+        "fin_estimado_utc": "2025-05-01T21:17:50+00:00",
+        "duracion_video_segundos": 10052,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1367474789480005695",
+      "fecha_utc": "2025-05-01T12:16:36.265000+00:00",
+      "fecha_local": "2025-05-01",
+      "editado_utc": null,
+      "texto": "**Un goliat grandullon, un drow gruñon y una merluza pija cruzan juntos un portal...No, no es el comienzo de un chiste que podria. Van juntos hacia el campamento sur** <@214405113677217793> <@616683133374562304>",
+      "mensaje_sha256": "d9ac1bd33e26a18bf98057168657544261c607660f584976b71e9b0329741dcd",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1367474789480005695",
+      "texto_sha256": "df921a216f5b0be8895d5dbcc48cf0c5b8818cdf7d10b5f50287e71d66ef93d6",
+      "adjuntos": []
+    },
+    {
+      "id": "1367516944970027151",
+      "fecha_utc": "2025-05-01T15:04:06.917000+00:00",
+      "fecha_local": "2025-05-01",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\n**Sale del portal y se coloca a un lado**",
+      "mensaje_sha256": "4f84c618a1ed56b4115fcadd56d2bfdce64d64c02196950b6e485aaeec82bc21",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1367516944970027151",
+      "texto_sha256": "81b043a9d7032381e8a0b39e0a6e9df6ac1226aa95abe1f7b2225e309aba9df1",
+      "adjuntos": []
+    },
+    {
+      "id": "1367517042114297927",
+      "fecha_utc": "2025-05-01T15:04:30.078000+00:00",
+      "fecha_local": "2025-05-01",
+      "editado_utc": null,
+      "texto": "Kalista: **Aparece con el que va de negro y el que es negro** Bien guiame <@214405113677217793>",
+      "mensaje_sha256": "5cec9bb23970cbf72e265e2ee8d6a26f51b10a799ec8845a64c843cd709485f3",
+      "tipo_discord": 19,
+      "referencia": "1367516944970027151",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1367517042114297927",
+      "texto_sha256": "7cd629bcb7f92764613114d707a64983bc6d87939d273dc1fa5f1b3ee9f58903",
+      "adjuntos": []
+    },
+    {
+      "id": "1367517500086157513",
+      "fecha_utc": "2025-05-01T15:06:19.267000+00:00",
+      "fecha_local": "2025-05-01",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nPor aquí, señorita.\n\n**Acompaña a la pez y al drow a la capital, a una pequeña floristería cercana a la casa de té**",
+      "mensaje_sha256": "a5c644b8f80f1b6ce1a7ddbf467b509524a1ff1b607f6be2b1d2507591498a55",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1367517500086157513",
+      "texto_sha256": "8d006f8eb87df7f696822c576938549e2c5db83eaeecba416b39fcab251c6a7f",
+      "adjuntos": []
+    },
+    {
+      "id": "1367517602213134447",
+      "fecha_utc": "2025-05-01T15:06:43.616000+00:00",
+      "fecha_local": "2025-05-01",
+      "editado_utc": null,
+      "texto": "Kalista: **te sigue**",
+      "mensaje_sha256": "eef7bcc79e9501cf77e001b64757a8b1668b1e869d80f883ce8d8d52a160de84",
+      "tipo_discord": 19,
+      "referencia": "1367517500086157513",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1367517602213134447",
+      "texto_sha256": "82bee5ba1da532458030e3ca5c2ce5998793e2c74888a9fe966eadf63624e8cb",
+      "adjuntos": []
+    },
+    {
+      "id": "1367517804630118440",
+      "fecha_utc": "2025-05-01T15:07:31.876000+00:00",
+      "fecha_local": "2025-05-01",
+      "editado_utc": null,
+      "texto": "Jelbreg: **El drow os sigue a una distancia que os pueda escuchar mientras lee el libro de los cultistas**",
+      "mensaje_sha256": "f306b7fd90048ae954fee59cf9b87af87c40e27930b27d2470f4c5df5d2160c3",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1367517804630118440",
+      "texto_sha256": "4625e38e9b7ca3e557ea5bce6241e4e8870387c6380f6f8b51d37c6ed605552d",
+      "adjuntos": []
+    },
+    {
+      "id": "1367517907893882971",
+      "fecha_utc": "2025-05-01T15:07:56.496000+00:00",
+      "fecha_local": "2025-05-01",
+      "editado_utc": null,
+      "texto": "🔴 Fin de la escena 🔴",
+      "mensaje_sha256": "ad873b60f8e4bfe48b76255a9895cd6d3fdf16e07cbc9dbaab28eda34dd30545",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1367517907893882971",
+      "texto_sha256": "17de8d95942b0fb6967047c232c2803aac08862ce9732e9e4ad54f0347d72b95",
+      "adjuntos": []
+    }
+  ]
+}

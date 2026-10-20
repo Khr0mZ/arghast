@@ -1,0 +1,548 @@
+{
+  "id": "k-1378318356779630703",
+  "campana": "kuroto",
+  "unidad_revision": "k-1378318356779630703",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "La financiación que ofrece Danifae",
+  "resumen": "Tras una prueba fallida de la carreta, Archi y Danifae negocian contactos a cambio de un localizador todavía por concretar.",
+  "relato": "Archi encuentra una carreta vieja bajo una lona del jardín y empieza a repararla. Danifae lo sorprende probándola: solo avanza unos metros antes de perder ruedas y una ventana. El gnomo estalla de frustración por los materiales y el dinero, pero vuelve a mostrarse cortés al verla. Cuenta que Yuichi no aceptó bien sus proyectos y considera buscar financiación fuera de la nobleza. Danifae ofrece presentarle contactos adinerados que no rinden cuentas a los nobles. Ralph reproduce una advertencia grabada por el propio Archi contra prestamistas, bajos fondos y drows, pero él la desoye y muestra interés. La drow pide como pago un invento especial. El artífice le propone un vehículo mecánico ilustrado en sus planos, pero ella quiere algo más concreto: un aparato para localizar objetos semejantes y saber dónde están. No identifica cuáles son. Exige además secreto sobre el encargo y los posibles inversores. Archi finge que su escuela obliga a preservar el anonimato del cliente; ella advierte la mentira y le sigue el juego. Antes de comprometerse, el gnomo pide peticiones, pagos y cláusulas por escrito. Danifae promete entregarlos a su debido tiempo, él le besa la mano y se despiden. Archi continúa reparando la carreta. No recibe fondos, no conoce aún al inversor y no fabrica el localizador.",
+  "participantes": [
+    "Archi",
+    "Ralph",
+    "Danifae"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1378318356779630703",
+      "afirmacion": "Archi descubre una carreta deteriorada en el jardín y empieza a repararla.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1378347759437873233",
+      "afirmacion": "La carreta se desmonta durante la prueba tras avanzar unos cuatro metros.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1378352715834593280",
+      "afirmacion": "Archi cuenta su insatisfactoria visita al noble Yuichi.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1378353643773886585",
+      "afirmacion": "Danifae ofrece contactos adinerados al margen de la nobleza.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1378354726487326771",
+      "afirmacion": "Ralph reproduce una advertencia previa del propio Archi sobre prestamistas y bajos fondos.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1378366089821425745",
+      "afirmacion": "Danifae solicita un invento personal a cambio de los contactos.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1378432577492484257",
+      "afirmacion": "Danifae pide un aparato para localizar ciertos objetos.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1378440229416865832",
+      "afirmacion": "Danifae concreta que quiere seguir objetos similares y mantener en secreto el encargo.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1378440922387452185",
+      "afirmacion": "Archi miente sobre un supuesto juramento de anonimato de su escuela.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1378445574155534560",
+      "afirmacion": "Archi pide por escrito todas las peticiones, pagos y cláusulas antes de proceder.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1378446120602308648",
+      "afirmacion": "Danifae promete entregar sus peticiones por escrito más adelante.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1378447072750993569",
+      "afirmacion": "Archi vuelve a la reparación de la carreta tras la despedida.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Treinta y un mensajes completos. Vistas íntegramente las imágenes 1378347564985880646.png y 1378419212761960468.jpg: una casa-carreta y un vehículo de orugas y rueda, respectivamente. Son apoyos visuales del prototipo y la propuesta, no pruebas de funcionamiento.",
+    "Los objetos que Danifae quiere localizar no se nombran. No se sustituyen automáticamente por las esferas aunque el contexto general lo haga plausible.",
+    "La negociación queda pendiente de condiciones escritas y de presentar al inversor. No se registra financiación recibida, contrato firmado o dispositivo construido.",
+    "El estallido de Archi sobre detonar la isla es una exclamación de frustración, no una acción o plan ejecutado.",
+    "La confidencialidad escolar se declara falsa en la propia fuente; no se incorpora como regla real de una institución."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-31T10:25:04.173000+00:00",
+  "fin_utc": "2025-05-31T19:10:41.612000+00:00",
+  "fecha_local": "2025-05-31",
+  "intervalo": {
+    "anterior": 123,
+    "siguiente": 124,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1377714802629283882",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1379890572373790750",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 123,
+        "fecha": "2025-05-29",
+        "inicio_referencia_utc": "2025-05-29T18:26:29+00:00",
+        "fin_estimado_utc": "2025-05-29T21:01:06+00:00",
+        "duracion_video_segundos": 9277,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1377714802629283882"
+      },
+      {
+        "capitulo": 124,
+        "fecha": "2025-06-04",
+        "inicio_referencia_utc": "2025-06-04T18:32:16+00:00",
+        "fin_estimado_utc": "2025-06-04T21:34:59+00:00",
+        "duracion_video_segundos": 10963,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1379890572373790750"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1378318356779630703",
+      "fecha_utc": "2025-05-31T10:25:04.173000+00:00",
+      "fecha_local": "2025-05-31",
+      "editado_utc": null,
+      "texto": "Archi : **ha estado toda la mañana husmeando por la base buscando alguna cosa de utilidad .\nEn una de las zonas del jardín parece que hay algo tapado con una tela ** \nQue diantres será esto \n**lo destapa y encuentra una vieja carreta algo deteriorada **\n\nOooooooooh algo roto que reparar **con los ojos abiertos y una sonrrisa ** \n**vuelve a la base para coger su herramientas y empieza a trabajar en las reparaciones de la carreta **",
+      "mensaje_sha256": "c065172266c0e6bd6178c06fadad988bf02295871969ad9b410046a2466ea182",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378318356779630703",
+      "texto_sha256": "99879f235019a65a32d52445dcf3cf1af432554a8f5223f7d56ffe3f73cce095",
+      "adjuntos": []
+    },
+    {
+      "id": "1378346218681405491",
+      "fecha_utc": "2025-05-31T12:15:46.968000+00:00",
+      "fecha_local": "2025-05-31",
+      "editado_utc": null,
+      "texto": "Danifae: **La drow llega a la base de los Cazadores, pero antes de llegar escucha un gran ruido en el jardín y va a echar un ojo. Ve al gnomo con un montón de cachivaches** Oh, hola? ¿Que estas haciendo?",
+      "mensaje_sha256": "403004b602e7b5b9adaa6553e575840dcfa1c63d36924c6c60b5551db9b8a4a2",
+      "tipo_discord": 19,
+      "referencia": "1378318356779630703",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378346218681405491",
+      "texto_sha256": "cb093afa994871c1e621aff7f589d4eeefa9a68c1428efc9320b00c619c7b803",
+      "adjuntos": []
+    },
+    {
+      "id": "1378347520555749418",
+      "fecha_utc": "2025-05-31T12:20:57.359000+00:00",
+      "fecha_local": "2025-05-31",
+      "editado_utc": null,
+      "texto": "Archi : **Se veria al gnomo acabando de poner una de las puertas y subiéndose encima de la carreta **",
+      "mensaje_sha256": "00a9d0db30d543e3cba933786de5f38dafb0a0bffe2e719846a33a956ce33d9e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378347520555749418",
+      "texto_sha256": "e5cabd6aed972066e17107d8321665e9e21877752ecc8e1807b6376b0d2343d8",
+      "adjuntos": []
+    },
+    {
+      "id": "1378347564939612253",
+      "fecha_utc": "2025-05-31T12:21:07.941000+00:00",
+      "fecha_local": "2025-05-31",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "dd0b0ee357ce751a7128ab59867cd8004bb9498fd4147a0bde149fcd2514b34b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378347564939612253",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1378347564985880646",
+          "nombre": "file_00000000afdc61f4a33bfd0ea34c82d8.png",
+          "tipo": "image/png",
+          "archivo": "adjuntos/1378347564985880646.png",
+          "url": "rol_escrito/adjuntos/1378347564985880646.png",
+          "bytes": 1575804,
+          "sha256": "c0da4584fae5767c064db66459e74faed8ac5d0c44e1dfe1e7fe56d065e5f331"
+        }
+      ]
+    },
+    {
+      "id": "1378347759437873233",
+      "fecha_utc": "2025-05-31T12:21:54.313000+00:00",
+      "fecha_local": "2025-05-31",
+      "editado_utc": "2025-05-31T12:22:12.234000+00:00",
+      "texto": "Archi: arranca!!\n**La carreta empieza a avanzar y a los 4 metros se desmontan las ruedas se cae una ventana y una rueda se desencaja **",
+      "mensaje_sha256": "a34dfb879e0b623fda2b1378e884ad48eeabdec5428b2f1597e153e3fcfa6145",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378347759437873233",
+      "texto_sha256": "a6d97d18ee6bfb7df6449fa22f6991af1325cdae7fc9e3aa29190260353fadcc",
+      "adjuntos": []
+    },
+    {
+      "id": "1378348349631234139",
+      "fecha_utc": "2025-05-31T12:24:15.026000+00:00",
+      "fecha_local": "2025-05-31",
+      "editado_utc": null,
+      "texto": "Danifae: **Se aparta de la trayectoria de la máquina del gnomo cuando está empieza a andar. Cuando ve que se desmonta, se mueve un poco de lado para esquivar una rueda perdida... Mira al gnomo y sonríe** Parece que necesita algunos ajustes",
+      "mensaje_sha256": "9e8b1c2dc9060f14a49f83410c06dd686dda711156e657b2f68e9b717193a5d5",
+      "tipo_discord": 19,
+      "referencia": "1378347759437873233",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378348349631234139",
+      "texto_sha256": "9f0c4949af6c774a8c2ab36d2829bf6744da533d1ab49062b2b138ad45ff30f3",
+      "adjuntos": []
+    },
+    {
+      "id": "1378349393895358554",
+      "fecha_utc": "2025-05-31T12:28:23.998000+00:00",
+      "fecha_local": "2025-05-31",
+      "editado_utc": null,
+      "texto": "Archi: **verías al gnomo con la cara completamente roja y los bigotes de punta ** \n**le pega una patada a la carreta **\n\nAAAAAARGGGG!!! VOY A DETONAR ESTA ISLA !!!\nEs imposible hacer nada decente con los recursos y la tecnología de este país de involucionados ! \n\n**ve a danifae **\nDisculpe señorita Danifae , no la había visto .\nMmmm siii , ajustes y unas cuantas monedas de oro",
+      "mensaje_sha256": "cead1e281e7b0fe4aa725fc5d1585fe5d9a89b64f894c4035482492641dd7b47",
+      "tipo_discord": 19,
+      "referencia": "1378348349631234139",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378349393895358554",
+      "texto_sha256": "aa85c2f74eb64610413122dd2d2ba449dc5664380589aa64474d98f1b9f1d7d0",
+      "adjuntos": []
+    },
+    {
+      "id": "1378350126417973401",
+      "fecha_utc": "2025-05-31T12:31:18.645000+00:00",
+      "fecha_local": "2025-05-31",
+      "editado_utc": null,
+      "texto": "Danifae: **Recoje una pieza de la carreta y se la entrega al gnomo con una amplia sonrisa** El dinero es siempre es un problema. Sobretodo para los que no lo tienen",
+      "mensaje_sha256": "3f5fce01f9964f9505c98fbd5c3f9eda4c2b8cf5abb7eda7919261d76282c612",
+      "tipo_discord": 19,
+      "referencia": "1378349393895358554",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378350126417973401",
+      "texto_sha256": "01644d224679cdde8b96d2a188c932ca10cd4bd68fddad61c142d7e73f4ff5f5",
+      "adjuntos": []
+    },
+    {
+      "id": "1378351517605826691",
+      "fecha_utc": "2025-05-31T12:36:50.330000+00:00",
+      "fecha_local": "2025-05-31",
+      "editado_utc": "2025-05-31T12:37:16.280000+00:00",
+      "texto": "Archi : si estuviéramos en mi ciudad ya habría engañado a 4 magnates con la cabeza metida en su propio trasero o algún primo lejano para financiarme \nUy disculpe por decir eso en voz alta , no se habla así delante de una señorrita \n**te hace una reverencia con una sonrrisa y reconociéndose uno de los bigotes **",
+      "mensaje_sha256": "d5f694312f055bf99453b209ba1451fa7e0df703e4a47ed92d33972b62722373",
+      "tipo_discord": 19,
+      "referencia": "1378350126417973401",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378351517605826691",
+      "texto_sha256": "f51ed33b4b2096ecea28ee3e920dd1a7044cba0c5b1487e85e65edd66622fbf2",
+      "adjuntos": []
+    },
+    {
+      "id": "1378352142204665886",
+      "fecha_utc": "2025-05-31T12:39:19.246000+00:00",
+      "fecha_local": "2025-05-31",
+      "editado_utc": null,
+      "texto": "Danifae: **Sonríe ampliamente mirando de reojo al gnomo** Bueno, aquí en Kuroto hay otras maneras de financiarse...",
+      "mensaje_sha256": "c5f7e19e7f0f83dbc4210fa16939e0ad58cf16ca011395969bb2d212b966b47d",
+      "tipo_discord": 19,
+      "referencia": "1378351517605826691",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378352142204665886",
+      "texto_sha256": "97c0548a57477f7eb22654ca71777985fb37196486e3f714694c5838caec07e4",
+      "adjuntos": []
+    },
+    {
+      "id": "1378352715834593280",
+      "fecha_utc": "2025-05-31T12:41:36.010000+00:00",
+      "fecha_local": "2025-05-31",
+      "editado_utc": null,
+      "texto": "Archi : Hace unos días visite la casa de un tal señor Yuichi , menudo fantasmon lady Danifae. \nIntenté explicarle algún proyecto pero creo que el ser un gnomo le hizo infravalorarme... \nParecen muy suyos en esta isla",
+      "mensaje_sha256": "fa19dde35f687c7de5284c9452a55bd42c3338d73d47579e171a2b2decf32e7b",
+      "tipo_discord": 19,
+      "referencia": "1378352142204665886",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378352715834593280",
+      "texto_sha256": "47055846653b6559d508c9890d84145a5958654333942f4eb04e64435cf28d0b",
+      "adjuntos": []
+    },
+    {
+      "id": "1378353080965271637",
+      "fecha_utc": "2025-05-31T12:43:03.064000+00:00",
+      "fecha_local": "2025-05-31",
+      "editado_utc": null,
+      "texto": "Pero había pensado que si por parte de la nobleza no veo una buena aceptación siempre me queda recurrir a la otra cara del poder ** se frota el bigote **",
+      "mensaje_sha256": "f3302c8d0fe6e14cb72cec70b9504be651f653d3046becc58f49b6c4aa6490ee",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378353080965271637",
+      "texto_sha256": "5067b10152eaa082f61f79c68963a950a6a758d34e30eba23614ce14e5eb9c6f",
+      "adjuntos": []
+    },
+    {
+      "id": "1378353643773886585",
+      "fecha_utc": "2025-05-31T12:45:17.248000+00:00",
+      "fecha_local": "2025-05-31",
+      "editado_utc": null,
+      "texto": "Danifae: Yo tengo algunos contactos en algunas esferas de la ciudad que tienen bastante dinero y no rinden cuentas a la nobleza **Te mira con esa sonrisa amplia**",
+      "mensaje_sha256": "463cfd3e6b486a57ec8e864a56411dbc70e3260719a9e2be9e1ebbfa1143495b",
+      "tipo_discord": 19,
+      "referencia": "1378353080965271637",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378353643773886585",
+      "texto_sha256": "65d6c4aa22c315a1072c3b281827f01972bb3f94c04230dc2020866e8c0546da",
+      "adjuntos": []
+    },
+    {
+      "id": "1378354726487326771",
+      "fecha_utc": "2025-05-31T12:49:35.387000+00:00",
+      "fecha_local": "2025-05-31",
+      "editado_utc": null,
+      "texto": "Archi : **Se acerca Ralph y le envía un mensaje, es la misma voz de archi diciendo , no más prestamistas no más bajos fondos y sobretodo no más drows** \n\nArchi mira a Ralph y  le da una patada . \nAcaba de montar esa rueda anda . \n**mira a danifae y le sonrrie ** \nOooh me gustaría tomar un té con alguno de esos contactos seguro que sería una conversación muy beneficiosa",
+      "mensaje_sha256": "720c950e568a4f89a57934943ea81499c80524277f8a03f05642cf000ee61d53",
+      "tipo_discord": 19,
+      "referencia": "1378353643773886585",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378354726487326771",
+      "texto_sha256": "266916a48d635e58998366dcf7c81d43b76ffb8b2d3effb9b56066474b651243",
+      "adjuntos": []
+    },
+    {
+      "id": "1378357152682348664",
+      "fecha_utc": "2025-05-31T12:59:13.837000+00:00",
+      "fecha_local": "2025-05-31",
+      "editado_utc": null,
+      "texto": "Danifae: **Sonrie más ampliamente** Claro, eso sería muy beneficioso...pero...a mi me gustaría algo a cambio de esos contactos",
+      "mensaje_sha256": "086c12bc71ddff6973209265fde002f03f329ce32082ffa84a7a37ab22ffdd15",
+      "tipo_discord": 19,
+      "referencia": "1378354726487326771",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378357152682348664",
+      "texto_sha256": "fca42aaf10916cf289615f37f9330f76ee44a54c623f8d7deb2f86d43b9feb75",
+      "adjuntos": []
+    },
+    {
+      "id": "1378362029651398696",
+      "fecha_utc": "2025-05-31T13:18:36.597000+00:00",
+      "fecha_local": "2025-05-31",
+      "editado_utc": null,
+      "texto": "Archi : oh por supuesto un trato a de ser beneficiario para ambas partes y usted no será una excepción.",
+      "mensaje_sha256": "b15ba83aa3c3e98fbd01473d86ae4fe3fb4ad9fc3518a86cb59b479b6b8dd5d1",
+      "tipo_discord": 19,
+      "referencia": "1378357152682348664",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378362029651398696",
+      "texto_sha256": "472c4886909f95cc679f00187bf8a275a7b0951d0aab16c01ebe84f2640cde4c",
+      "adjuntos": []
+    },
+    {
+      "id": "1378366089821425745",
+      "fecha_utc": "2025-05-31T13:34:44.617000+00:00",
+      "fecha_local": "2025-05-31",
+      "editado_utc": null,
+      "texto": "Danifae: Le podría presentar a mis contactos a cambio de uno de sus inventos. Uno especial para mi. ¿Que me dice?",
+      "mensaje_sha256": "c11d3ee7ac099a8b076ac84c64b5df211af62018030123c0f9d7e6a8ab8aa16b",
+      "tipo_discord": 19,
+      "referencia": "1378362029651398696",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378366089821425745",
+      "texto_sha256": "0eb05f4a83300a43a06dd8eb896d3dedd6fece9aac4ba39f516f897d096fbc8f",
+      "adjuntos": []
+    },
+    {
+      "id": "1378418460094234816",
+      "fecha_utc": "2025-05-31T17:02:50.663000+00:00",
+      "fecha_local": "2025-05-31",
+      "editado_utc": null,
+      "texto": "Archi : uno para usted señorita.  Por supuesto tiene algo en mente ? .\n**la mira de arriba abajo , saca un metro le mide las piernas y las caderas **\nCon permiso \n**saca unos plano de la mochila ** \nAlgo así le quedaría genial lady danifae \n**le muestra los planos **",
+      "mensaje_sha256": "c78d446e45ea202fda01a62765d09a35717a6c3efe4cb2addef596636046ee0e",
+      "tipo_discord": 19,
+      "referencia": "1378366089821425745",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378418460094234816",
+      "texto_sha256": "af75dc1291d093e183085c95a70be8ef77b761b25fa8e6cc60360a200dbf47d0",
+      "adjuntos": []
+    },
+    {
+      "id": "1378419212992643295",
+      "fecha_utc": "2025-05-31T17:05:50.168000+00:00",
+      "fecha_local": "2025-05-31",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "da4641d6804ee9c8028cd545744fbf5936f3e0b42f04a229b67a45983fbff2a1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378419212992643295",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1378419212761960468",
+          "nombre": "Screenshot_20250531_190427_Pinterest.jpg",
+          "tipo": "image/jpeg",
+          "archivo": "adjuntos/1378419212761960468.jpg",
+          "url": "rol_escrito/adjuntos/1378419212761960468.jpg",
+          "bytes": 46359,
+          "sha256": "7870f6a5e11da8e796fcf547d14dbc7497fa2b9d679b2bde30da37a823e6994e"
+        }
+      ]
+    },
+    {
+      "id": "1378419505763582062",
+      "fecha_utc": "2025-05-31T17:06:59.970000+00:00",
+      "fecha_local": "2025-05-31",
+      "editado_utc": null,
+      "texto": "Archi: creo que con unos retoques en color morado y tonos oscuros le quedaría estupendamente .",
+      "mensaje_sha256": "2ba48dd95c852f1eb598aedb44d70ff28a2d93fecd13d3baaca20f3115e7f9d4",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378419505763582062",
+      "texto_sha256": "c659a2ff1de89c297ac1e78bb4998aa5886fe9be3390785c28ce1632d912c1bc",
+      "adjuntos": []
+    },
+    {
+      "id": "1378432577492484257",
+      "fecha_utc": "2025-05-31T17:58:56.513000+00:00",
+      "fecha_local": "2025-05-31",
+      "editado_utc": null,
+      "texto": "Danifae: Oh, quiero algo más específico. **Esa sonrisa sigue dibujada en su cara** Sería un aparatiro para poder localizar ciertos... objetos...",
+      "mensaje_sha256": "0645ec8d6e21010d13a4ae38ff11324a4e8886a3fc8b9e04048dc90a6fff928c",
+      "tipo_discord": 19,
+      "referencia": "1378419505763582062",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378432577492484257",
+      "texto_sha256": "ba496886ffc6d81b56b67cab9cc1b692efdcce6e5bcc5f10807ae2ac55684aa2",
+      "adjuntos": []
+    },
+    {
+      "id": "1378438236942110771",
+      "fecha_utc": "2025-05-31T18:21:25.831000+00:00",
+      "fecha_local": "2025-05-31",
+      "editado_utc": null,
+      "texto": "Archi : oooo una especie de localizador . Y que le gustaría saber donde está en cada momento ese objeto , localizar donde se allan objetos similares ?",
+      "mensaje_sha256": "6464161a5885ea3a81fc5016f30300467750717550f8ba1b1c3f034b8ba0849d",
+      "tipo_discord": 19,
+      "referencia": "1378432577492484257",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378438236942110771",
+      "texto_sha256": "85ad830078a29d5d5d2a440c15dc2a4ee1f5adf60b909f4ad49d5ee260aa105c",
+      "adjuntos": []
+    },
+    {
+      "id": "1378440229416865832",
+      "fecha_utc": "2025-05-31T18:29:20.874000+00:00",
+      "fecha_local": "2025-05-31",
+      "editado_utc": null,
+      "texto": "Danifae: Exacto, eso mismo. Me gustaría saber donde estan en cada momento unos objetos similares **Mira a los lados buscando ojos indeseados. Te mira y con una cara entrañable dice** Me gustaría que esto quedara en secreto, al igual que su inversión de los bajos fondos. Ya sabe, a esta gente no le gustan las cosas fuera del Shogunato",
+      "mensaje_sha256": "bcfcdd1d82998dda0ac27d203d8d33775ee0884aaa6fd0b9bd98363936ffecc1",
+      "tipo_discord": 19,
+      "referencia": "1378438236942110771",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378440229416865832",
+      "texto_sha256": "22137ba758819893f632c55f5ce08907fd208a2c2358abf4ecc7db542d649059",
+      "adjuntos": []
+    },
+    {
+      "id": "1378440922387452185",
+      "fecha_utc": "2025-05-31T18:32:06.091000+00:00",
+      "fecha_local": "2025-05-31",
+      "editado_utc": null,
+      "texto": "Archi : ni lo dude señora , en la escuela de ingeniería arcana nos hacen firmar un juramento en el cual el cliente siempre tiene derecho al anonimato (percepción pasiva de Danifar ve que miente )",
+      "mensaje_sha256": "fdc4a3358df47a1abc25c88a87e0c282373533ec5ff5a49388595fd399c97654",
+      "tipo_discord": 19,
+      "referencia": "1378440229416865832",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378440922387452185",
+      "texto_sha256": "ba181557eb15faab9ce875606fc29e691ff84a42cf91d2137613f28e433aa0ca",
+      "adjuntos": []
+    },
+    {
+      "id": "1378441766805700649",
+      "fecha_utc": "2025-05-31T18:35:27.416000+00:00",
+      "fecha_local": "2025-05-31",
+      "editado_utc": null,
+      "texto": "Danifae: Esa es una buena cláusula **Sabe que mientes pero te sigue el juego** Pues... iré a buscarle a un inversor \"respetable\". Cuando se haya reunido con él y tenga ya su inversión para sus...inventos, podremos hablar más detenidamente de mi pago. ¿Le parece bien? **Tiende la mano para cerrar el trato**",
+      "mensaje_sha256": "e2681f141a8b8e24363416f28754e2b41bb1f0d225303909539bfe5d6bf7df60",
+      "tipo_discord": 19,
+      "referencia": "1378440922387452185",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378441766805700649",
+      "texto_sha256": "dd883e44406b66b3fa3687d19a92dde84a5fca4c8564fca712d979a21b3880bc",
+      "adjuntos": []
+    },
+    {
+      "id": "1378445574155534560",
+      "fecha_utc": "2025-05-31T18:50:35.159000+00:00",
+      "fecha_local": "2025-05-31",
+      "editado_utc": null,
+      "texto": "Archi : bueno quizás alguna vez me lo he saltado cuando vivía en Cono Sur . Ya sabe el típico enano traficante del 3 al cuarto que creía que podría darme gato por liebre . \nPues con archi no se juega \n**se frota el bigote ** \nMe encantaría señorita pero me gustaría cerrar y concretar todas y cada una  de las cláusulas antes de proceder , no es que no me fie de usted pero entienda me soy un gnomo civilizado forma parte de mis valores el desconfiar \n**te hace una reverencia y una sonrrisa ** \nPáseme por escrito sus peticionesy lo vincularemos con los pagos y cláusulas que decidamos le parece bien señorita ?",
+      "mensaje_sha256": "5d04c4d0593b8adad6264cd6a467b19607478a2935e63b03a297b92fa3e68a3c",
+      "tipo_discord": 19,
+      "referencia": "1378441766805700649",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378445574155534560",
+      "texto_sha256": "74e5b88246f5d09fc72ad3a24d1f838fe67b4efa9e0fa27fd9e96778f481321d",
+      "adjuntos": []
+    },
+    {
+      "id": "1378446120602308648",
+      "fecha_utc": "2025-05-31T18:52:45.442000+00:00",
+      "fecha_local": "2025-05-31",
+      "editado_utc": null,
+      "texto": "Danifae: Bien... Pues le pasaré por escrito mis peticiones. A su debido tiempo. **Sigue con la mano tendida**",
+      "mensaje_sha256": "cae2d9764c02ba3032ef53bf4ee017394f391fb4f246ebef5d890153c9234de6",
+      "tipo_discord": 19,
+      "referencia": "1378445574155534560",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378446120602308648",
+      "texto_sha256": "3d650f0a53db4a834175df847fa9faecf6c2254555522f8d5271195e031736ab",
+      "adjuntos": []
+    },
+    {
+      "id": "1378446502678106163",
+      "fecha_utc": "2025-05-31T18:54:16.536000+00:00",
+      "fecha_local": "2025-05-31",
+      "editado_utc": null,
+      "texto": "Archi : **Se acerca a la mano la coge suavemente y le da un beso ** \nSiempre es un placer hablar con usted",
+      "mensaje_sha256": "8c7621ec1da04849381d578da32e4f482b15bb63bca27c0fd2a381b7cdc58a15",
+      "tipo_discord": 19,
+      "referencia": "1378446120602308648",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378446502678106163",
+      "texto_sha256": "258348adb2f8497a224cd73caf76e4e753ab1e9267c5e381d23dd3a570504e36",
+      "adjuntos": []
+    },
+    {
+      "id": "1378446831385579552",
+      "fecha_utc": "2025-05-31T18:55:34.906000+00:00",
+      "fecha_local": "2025-05-31",
+      "editado_utc": "2025-05-31T18:55:49.093000+00:00",
+      "texto": "Danifae: Un placer, señor Archi. Nos vemos! **Te sonríe y se pierde en las calles de la capital**\n\n🕸️Danifae sale de escena🕸️",
+      "mensaje_sha256": "0529f3d9c868479c327b1beb96686dca64101c4299741967dfb50fddf2f448e3",
+      "tipo_discord": 19,
+      "referencia": "1378446502678106163",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378446831385579552",
+      "texto_sha256": "8f025685d86d7845822e9841e7caae47b2acf2557b61b4017bcb676f038f260c",
+      "adjuntos": []
+    },
+    {
+      "id": "1378447072750993569",
+      "fecha_utc": "2025-05-31T18:56:32.452000+00:00",
+      "fecha_local": "2025-05-31",
+      "editado_utc": null,
+      "texto": "Archi : **Se concentra en las reparaciones de la carreta **\n\n⚙️ Archi sale de escena ⚙️",
+      "mensaje_sha256": "8eaf1ff0cfc4ba88f37f7515b7c553b7409ba189a2d6f5d321751da7e6b6fea5",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378447072750993569",
+      "texto_sha256": "8c18d87a78047d8b182f7ac9285a63f5acf34e8108d870e6e42325c46fba0a44",
+      "adjuntos": []
+    },
+    {
+      "id": "1378450634386182196",
+      "fecha_utc": "2025-05-31T19:10:41.612000+00:00",
+      "fecha_local": "2025-05-31",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "831e5bc17d0682786cde674769e3e45e60f463f599c507baf068d219b8cdcf4c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1378450634386182196",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

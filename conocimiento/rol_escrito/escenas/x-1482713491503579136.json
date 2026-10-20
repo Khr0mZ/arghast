@@ -1,0 +1,113 @@
+{
+  "id": "x-1482713491503579136",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1482713491503579136",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "La cuarta incursión del caballero",
+  "resumen": "Poncelot abandona el local de Liz buscando otra hazaña.",
+  "relato": "Sir Poncelot sale del baño del local de Liz con el cubo como casco y la fregona al hombro. Anuncia a la dueña su cuarta incursión victoriosa en lo que cree conductos de mensajería judiciales: dice haber vencido un enorme limo negro y restablecido los canales. Liz, ocupada revisando gemas y oro, apenas le presta atención. Él confunde sus objetos con pruebas de un caso y sale a buscar nuevas personas a quienes ayudar. El relato de hazaña se mantiene ligado a su percepción de las alcantarillas y los utensilios de limpieza, sin convertirlos en reliquias sagradas.",
+  "participantes": [
+    "Sir Poncelot",
+    "Liz"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1482713491503579136",
+      "afirmacion": "Poncelot anuncia su cuarta incursión con cubo y fregona como equipo.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1482719271711801495",
+      "afirmacion": "El caballero interpreta el trabajo de Liz como labor judicial y sale del local.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El gigante, el dragón o el limo de los títulos y relatos de Poncelot no prueban monstruos derrotados en esta escena.",
+    "Bob es un apodo explícito para Sir Poncelot y no una persona nueva.",
+    "No se identifica a la guerrera por la especie o el hacha solamente, ni se afirma un viaje a una aldea a partir de un nombre deformado.",
+    "No se da por muerta a Luna ni por perdida a Citlali.",
+    "La discrepancia entre la promesa de Eldrath y su acción final se conserva."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-03-15T12:14:03.859000+00:00",
+  "fin_utc": "2026-03-15T12:37:01.968000+00:00",
+  "fecha_local": "2026-03-15",
+  "intervalo": {
+    "anterior": 16,
+    "siguiente": 17,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1482097192952008844",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1483903081971187732",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 16,
+        "fecha": "2026-03-13",
+        "inicio_referencia_utc": "2026-03-13T19:24:52+00:00",
+        "fin_estimado_utc": "2026-03-13T21:51:11+00:00",
+        "duracion_video_segundos": 8779,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1482097192952008844"
+      },
+      {
+        "capitulo": 17,
+        "fecha": "2026-03-18",
+        "inicio_referencia_utc": "2026-03-18T19:00:44+00:00",
+        "fin_estimado_utc": "2026-03-18T21:59:05+00:00",
+        "duracion_video_segundos": 10701,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1483903081971187732"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1482713491503579136",
+      "fecha_utc": "2026-03-15T12:14:03.859000+00:00",
+      "fecha_local": "2026-03-15",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**El gnomo saldría del baño principal del local de Lyz, con el cubo que le dió en la cabeza a modo de casco y la fregona al hombro como si de una lanza se tratase. Obviamente el olor no er muy agradable y la visión del caballero cubierto de veré a saber que mucho menos**\n\n- mi señoria Lyz! Le comunico que mi cuarta incursión a los conductos de mensajería de los juzgados ha sido otro gran éxito! Aunque debo decir que ha sido la más horrenda y peligrosa de todas... Un limo negro gigante obstruía la salida y me ha costado horrores reducirlo! Pero con el casco y lanza sagrados que me proporcionó en su día, he podido cumplir mi cometido! Los canales vuelven a estar libres de influencias malignas!\n\n**Sir Poncelot se cuadra delante de Lyz cual soldado, y al hacer el saludo con la mano en la cabeza el cubo se le baja con un gracioso \"clonk\" tapándole parte de la cabeza y haciendo que su voz resuene con eco**\n\n<@214405113677217793>",
+      "mensaje_sha256": "9c78d17d203bacde7c2ff60de9cf0b1066734a5072a50b16eb8356836b855fcd",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1482713491503579136",
+      "texto_sha256": "d432b4953252c524394cab5d051ce014a4f14819ffcfcad2337a725d4f2f4d7e",
+      "adjuntos": []
+    },
+    {
+      "id": "1482717311784980682",
+      "fecha_utc": "2026-03-15T12:29:14.685000+00:00",
+      "fecha_local": "2026-03-15",
+      "editado_utc": null,
+      "texto": "Liz: **La mujer está detrás del mostrador, con una lupa, observa unas gemas y objetos de oro minuciosamente. No parece hacerte mucho caso** Ajá, ya... Si si si... Mandaré a una de las chicas... **Levanta una gema y la pone a trasluz**",
+      "mensaje_sha256": "5a27d004a37ac2a4d81fded17e35ba2d732ad105319a4d5c2116b8e7d67ec55b",
+      "tipo_discord": 19,
+      "referencia": "1482713491503579136",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1482717311784980682",
+      "texto_sha256": "8f8879ae5d2b838e3830668605773d0071222bb94faec3c542da97c517bf52dd",
+      "adjuntos": []
+    },
+    {
+      "id": "1482719271711801495",
+      "fecha_utc": "2026-03-15T12:37:01.968000+00:00",
+      "fecha_local": "2026-03-15",
+      "editado_utc": "2026-03-15T13:05:29.821000+00:00",
+      "texto": "Sir Poncelot \n\n**Se levanta el cubo y ve a la mujer con las gema**\n\n- mis más sinceras disculpas su señorita! No quería importunarle. Parece que la pillo investigando las pruebas de algún caso importante... Me retiro pues...\n\n**El gnomo hace una reverencia y se retira intentando no molestar a Lyz. En su camino a la salida va saludando cordialmente a las \"abogadas\" y sus \"clientes\". Una vez en la calle respira hondo observa el poblado**\n\n- otro hermoso día en este hermoso reino rodeado de esta hermosa gente! Veamos si encontramos trabajo para este humilde caballero andante!\n\n**El caballero se dispone a recorrer la aldea buscando a qi n necesite de su heroica ayuda**\n\n<@&1439948653996409004>",
+      "mensaje_sha256": "d6fba0721cd2fce477edd2f652968f204760b033fdc1eee5c2b37c23a50f32da",
+      "tipo_discord": 19,
+      "referencia": "1482717311784980682",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1482719271711801495",
+      "texto_sha256": "a05b99fdf2b46e373b9d96c18db790dba62e08e4479fa0a657d6a65508645580",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "id": "k-1395671848733118525",
+  "campana": "kuroto",
+  "unidad_revision": "k-1395671848733118525",
+  "hilo_id": "1387915737502580886",
+  "hilo_nombre": "Sho, Palacio del Shogunato - Capital de Kuroto",
+  "titulo": "Una pausa bajo las capuchas",
+  "resumen": "Kalista deja el papeleo para pasear de incógnito con Jelbreg.",
+  "relato": "Kalista lleva horas ocupada en desviar productos fuera de Kuroto para aliviar la saturación del mercado. El cansancio amenaza con hacerle cometer errores y Jelbreg le pide descansar. Él aún siente una punzada en el pecho por un episodio no descrito, aunque salta y mueve los brazos para demostrar que está bien. Ambos se reprochan con cariño la tendencia a sobrecargarse. Kalista acepta un paseo por la ciudad, con la condición de no llamar la atención. Se cubre con una capa y pide que Jelbreg haga lo mismo; él saca la suya de la bolsa mágica que ahora pertenece a Kalista. Abandonan juntos el palacio y el guardián impide que se sume otra escolta. El paseo continúa fuera de esta unidad; no se demuestra todavía un efecto económico de las medidas.",
+  "participantes": [
+    "Kalista",
+    "Jelbreg"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1395671848733118525",
+      "afirmacion": "Kalista trabaja en sacar productos de la isla para desaturar el mercado.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1395677791667617915",
+      "afirmacion": "Propone pasear de incógnito.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1395680201656107093",
+      "afirmacion": "Jelbreg saca su capa de la bolsa mágica ahora de Kalista.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1395684701615689749",
+      "afirmacion": "Salen sin escolta adicional porque Jelbreg la detiene.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La lesión del pecho de Jelbreg no tiene origen descrito aquí; no completarlo por asociación con otras escenas.",
+    "Continuidad de situación con el paseo leído en el hilo de Sho, pero esta ficha conserva únicamente sus mensajes propios."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-07-18T07:41:39.067000+00:00",
+  "fin_utc": "2025-07-18T08:32:43.433000+00:00",
+  "fecha_local": "2025-07-18",
+  "intervalo": {
+    "anterior": 139,
+    "siguiente": 140,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1395465783865512070",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1398002060905152542",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 139,
+        "fecha": "2025-07-17",
+        "inicio_referencia_utc": "2025-07-17T18:02:34+00:00",
+        "fin_estimado_utc": "2025-07-17T20:59:56+00:00",
+        "duracion_video_segundos": 10642,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1395465783865512070"
+      },
+      {
+        "capitulo": 140,
+        "fecha": "2025-07-24",
+        "inicio_referencia_utc": "2025-07-24T18:00:50+00:00",
+        "fin_estimado_utc": "2025-07-24T21:10:34+00:00",
+        "duracion_video_segundos": 11384,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1398002060905152542"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1395671848733118525",
+      "fecha_utc": "2025-07-18T07:41:39.067000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Kalista: **Suspira, los papeles parecen acumularse sobre su escritorio amenazando con sepultarla. Lleva desde temprano ocupandose de desviar productos fuera de Kuroto para sacarlos lo mas rapido posible y asi desatirizar el mercado para que la economia pueda volver a fluir con normalidad. Se separa de su escritorio frotandose los ojos...ya hasta los numeros la parecen que bailan de la cantidad de papeleo** <@214405113677217793>",
+      "mensaje_sha256": "7de9a89972a1f75efca537e8ab34d71ecf9353b19e62f435605b6de5cb7c1340",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395671848733118525",
+      "texto_sha256": "682924f79c3ba941b36249f4aeeefba91368e257c3bb979da9e152a310db2f13",
+      "adjuntos": []
+    },
+    {
+      "id": "1395672799447744522",
+      "fecha_utc": "2025-07-18T07:45:25.735000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Jelbreg: **El drow postrado al lado de la Shogun la observa. Puede ver la cara de cansancio que tiene** ¿No deberías descansar un poco?",
+      "mensaje_sha256": "c382f69a6e8700b5e4a06d5f05746c57c6491f8f1d8f5d140eda144a48cfdbbd",
+      "tipo_discord": 19,
+      "referencia": "1395671848733118525",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395672799447744522",
+      "texto_sha256": "fb0e1ca7a96e39031329ed9bb67bede88063649ea7af724c8db76fd71f9714b2",
+      "adjuntos": []
+    },
+    {
+      "id": "1395673102297333822",
+      "fecha_utc": "2025-07-18T07:46:37.940000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Kalista: Deberia...antes de que pueda liarla con los documentos... No pense que seria tan complicado",
+      "mensaje_sha256": "d37c9b588df3c3cb1b125dbb073778cdc512b39c4117f6f94eccc4e8dd68b2f8",
+      "tipo_discord": 19,
+      "referencia": "1395672799447744522",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395673102297333822",
+      "texto_sha256": "0f412e3ce6b4dec772757f9a399afaed6dad08f0ee2ff6d8372ce5c3a97183a4",
+      "adjuntos": []
+    },
+    {
+      "id": "1395674295761375303",
+      "fecha_utc": "2025-07-18T07:51:22.484000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Jelbreg: Desde que volvimos llevas con el papeleo sin parar. Deberías descansar un poco **Te mira con una pequeña sonrisa. Puedes notar que aun tiene el pecho dolorido de lo ocurrido**",
+      "mensaje_sha256": "5bcc840638acc5c8ae6c2e302db55152a1e9d20521a8b59cec9be5a889e5e477",
+      "tipo_discord": 19,
+      "referencia": "1395673102297333822",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395674295761375303",
+      "texto_sha256": "978974371cd348e0fe7fd5694cd28afd10e53205858aaa6c839110b637165c1d",
+      "adjuntos": []
+    },
+    {
+      "id": "1395674629166727208",
+      "fecha_utc": "2025-07-18T07:52:41.974000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Kalista: **Te mira unos segundos antes de apartarse de su escritorio** Esta bien **Te sonrie suave**",
+      "mensaje_sha256": "3712a1fd1b5ba95d35858a166a3f11a7f7aca4df107f28d300713c7f1f9c6337",
+      "tipo_discord": 19,
+      "referencia": "1395674295761375303",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395674629166727208",
+      "texto_sha256": "1f15d4222189b8d57cb0c19fd5276e4c5570f1862fbef4eb191f9dcd36544542",
+      "adjuntos": []
+    },
+    {
+      "id": "1395675217719857162",
+      "fecha_utc": "2025-07-18T07:55:02.296000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Jelbreg: Si... solo que aun noto la punzada... pero estoy bien. Mira... **Ves que deja de estar en su posición de Guardian y empieza a mover los brazos, saltar y hacer el idiota para que veas que esta bien** Como nuevo",
+      "mensaje_sha256": "bc7ea5e153ef9f1f06611cb1c56a2e8eadaae59ad1bccf840ebb64355addcf99",
+      "tipo_discord": 19,
+      "referencia": "1395674629166727208",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395675217719857162",
+      "texto_sha256": "b5591dc779010b00e3fc5388405dc373b7e40697ff114129bf3a8ffa6a879971",
+      "adjuntos": []
+    },
+    {
+      "id": "1395675491746189312",
+      "fecha_utc": "2025-07-18T07:56:07.629000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Kalista: **Pone sus ojos en blanco, se levanta y va a ti** No te sobrexfuerces",
+      "mensaje_sha256": "069de6dc83a273cb242c5212a432fd50515de130540f5fe3a08b9bc78f538c9c",
+      "tipo_discord": 19,
+      "referencia": "1395675217719857162",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395675491746189312",
+      "texto_sha256": "51ca9d9e3d25ccea0ef8a0611b1717c82947388b28d873662c7d78f381b46d8c",
+      "adjuntos": []
+    },
+    {
+      "id": "1395676083550158890",
+      "fecha_utc": "2025-07-18T07:58:28.726000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Jelbreg: ¿Y me lo dice la que lleva con ese horrible y pesado papeleo desde ayer casi sin descansar? **Levanta una ceja**",
+      "mensaje_sha256": "90dd959292b44822c7967845cd93f6bc9ff09898fc102af7a7112d48879d0a8a",
+      "tipo_discord": 19,
+      "referencia": "1395675491746189312",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395676083550158890",
+      "texto_sha256": "1b17ab628f0100394e1552f717a6dafc5eac2326db15b7fc1028efcf7065c4ce",
+      "adjuntos": []
+    },
+    {
+      "id": "1395676392792002610",
+      "fecha_utc": "2025-07-18T07:59:42.455000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Kalista: bien jugado...**Admite**",
+      "mensaje_sha256": "2d6120c813e58d796ce01fab7e44b4cffb3e9ac5f9cd9a930cceeb8dcb83f231",
+      "tipo_discord": 19,
+      "referencia": "1395676083550158890",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395676392792002610",
+      "texto_sha256": "16e7fcc596724a7d0dcd9be25ceeb84698a961b72e311572f12787e67404f37c",
+      "adjuntos": []
+    },
+    {
+      "id": "1395676840776958038",
+      "fecha_utc": "2025-07-18T08:01:29.263000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Sonríe victorioso. Mira alrededor, a los guardias, cónsules y sirvientas, cuando ve que ninguno les observa, se acerca a Kalista y le susurra** ¿Quieres ir a dar una vuelta?",
+      "mensaje_sha256": "9e3ed8953d306e2abbd811bff0c6b39dda591cb62a0e01db98baf0261d40a804",
+      "tipo_discord": 19,
+      "referencia": "1395676392792002610",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395676840776958038",
+      "texto_sha256": "6e438ac22e8ee346445d3350fcfada8186e07c9874755266004c834491e0a1e8",
+      "adjuntos": []
+    },
+    {
+      "id": "1395677019223883807",
+      "fecha_utc": "2025-07-18T08:02:11.808000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Kalista: me vendria bien para despejarme",
+      "mensaje_sha256": "65840e5a6ee99a6b6880fe1d878f8624047bd454e5606c79bbd8c3d95735bce6",
+      "tipo_discord": 19,
+      "referencia": "1395676840776958038",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395677019223883807",
+      "texto_sha256": "846c9f126e37ae9d3bcebd5dd3ec4c568df236c2bf90219b12e3eae39e58862c",
+      "adjuntos": []
+    },
+    {
+      "id": "1395677541188112455",
+      "fecha_utc": "2025-07-18T08:04:16.254000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Te extiende la mano mientras se arrodilla ante ti con una sonrisa burlona** Mi reina, ¿A dónde le apetece ir?",
+      "mensaje_sha256": "af6b2ae6b5b8bb76c3bbb2c76949ddb33af93a42ddb2b9ad4336821c229a5bf4",
+      "tipo_discord": 19,
+      "referencia": "1395677019223883807",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395677541188112455",
+      "texto_sha256": "515bbe9a72c0d9407f883d4b347cb37deb9afe594f282386ce31143fa234c714",
+      "adjuntos": []
+    },
+    {
+      "id": "1395677791667617915",
+      "fecha_utc": "2025-07-18T08:05:15.973000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Kalista: **Sonrie entregandote su mano** Un paseo por la ciudad... **Te susurra** De incognito claro",
+      "mensaje_sha256": "b963c7cbae2b5eed6a7faab80ea7730fd4d1d1075e8a90c6c32d1f7539d05120",
+      "tipo_discord": 19,
+      "referencia": "1395677541188112455",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395677791667617915",
+      "texto_sha256": "cd5dcdee647afbd5532341b9ef169e8ef468743685647e88cc21bb64b30bb03c",
+      "adjuntos": []
+    },
+    {
+      "id": "1395678160074571876",
+      "fecha_utc": "2025-07-18T08:06:43.808000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Jelbreg: ¿La reina no quiere que la reconozcan? **Sonríe** Bien, puede ser divertido. Cuando usted desee",
+      "mensaje_sha256": "331b2264782cf8b5944db7548224165e440eb5efb0bf6e24b2e6be3a86c5d535",
+      "tipo_discord": 19,
+      "referencia": "1395677791667617915",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395678160074571876",
+      "texto_sha256": "5f261ba1f2253dc8f98fd28a09deec37a921fc505dfd2ea7ba9eabe90f82a5c8",
+      "adjuntos": []
+    },
+    {
+      "id": "1395678436051390544",
+      "fecha_utc": "2025-07-18T08:07:49.606000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Kalista: **Te sonrie** No quiero llamar la atencion **Va contigo, sacando su capa de camino para cubrirse**",
+      "mensaje_sha256": "8aea700f58b66c4f5a66c78410c8d2638967e1874b490e73bd8b87a4507443e3",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395678436051390544",
+      "texto_sha256": "96c10ce5981d5f0f9742bd5f706cd8d8f19e8c3b646e89ca97d995c2003ce58f",
+      "adjuntos": []
+    },
+    {
+      "id": "1395679089167171604",
+      "fecha_utc": "2025-07-18T08:10:25.321000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Jelbreg: ¿Yo debería ir de incógnito igual?",
+      "mensaje_sha256": "e481c0cff6cb477a624f87db0f6cd5d5753166fe7d897a7a6e14b78686099499",
+      "tipo_discord": 19,
+      "referencia": "1395678436051390544",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395679089167171604",
+      "texto_sha256": "7173c79dc9721568d54731815e4c84fb44666b302a29918013b057c05553a955",
+      "adjuntos": []
+    },
+    {
+      "id": "1395679304070856735",
+      "fecha_utc": "2025-07-18T08:11:16.558000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Kalista: Deberias",
+      "mensaje_sha256": "22956a4e5a6da71b96d013dd86602ff5d47319418cc83156dc9d6bf49dce7884",
+      "tipo_discord": 19,
+      "referencia": "1395679089167171604",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395679304070856735",
+      "texto_sha256": "3d624d49c69636cdc98909910f9a3040873a2e66c166bf98615927bee4805af4",
+      "adjuntos": []
+    },
+    {
+      "id": "1395680201656107093",
+      "fecha_utc": "2025-07-18T08:14:50.559000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Jelbreg: **El drow levanta los hombros, mete la mano en la bolsa mágica que ahora es de Kalista y saca su capa negra con capucha. Atándosela te mira y mueve la cabeza en dirección a la puerta** ¿Vamos? **Te ofrece su mano**",
+      "mensaje_sha256": "c30512da03fbe606f29816a96248de7160b6ae5b2758cdb99f0fa2dc5cf3fc31",
+      "tipo_discord": 19,
+      "referencia": "1395679304070856735",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395680201656107093",
+      "texto_sha256": "fadaceb0b0d68e9fc9f0ad35f21a0728b8609f3a07d3f64a46c0349cbc2a83b1",
+      "adjuntos": []
+    },
+    {
+      "id": "1395680323714416711",
+      "fecha_utc": "2025-07-18T08:15:19.660000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Kalista: **la toma y sale contigo**",
+      "mensaje_sha256": "a21d978ca179af354c7a794e005514c065d3f0c034f10b5f3aa1da42250bc450",
+      "tipo_discord": 19,
+      "referencia": "1395680201656107093",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395680323714416711",
+      "texto_sha256": "5bc8f666a0288e4ccd0e7ad0da798a1ab434b252913ef82ffdc3041562ea5a6a",
+      "adjuntos": []
+    },
+    {
+      "id": "1395684701615689749",
+      "fecha_utc": "2025-07-18T08:32:43.433000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": "2025-07-18T10:22:20.410000+00:00",
+      "texto": "Jelbreg: **El drow y la tritón cruzan el pasillo de palacio mientras los guardias y sirvientes con los que se cruzan hacen una reverencia. Algunos de ellos se acercan para acompañar a su majestad fuera de palacio, pero el drow les da el alto con la mano. Irá solo él con ella. **\n\n💙Kalista y Jelbreg salen de escena👻\n🔴Fin de la Escena🔴",
+      "mensaje_sha256": "85be15ae4fcaa8c8c419b04abf7df7e9d83c66ff8ca1e5e6e3950935361451c3",
+      "tipo_discord": 19,
+      "referencia": "1395680323714416711",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395684701615689749",
+      "texto_sha256": "95948ecbcd32804282ca32cbb2691357ac4e2de849e35c163fe347aa03dd82a7",
+      "adjuntos": []
+    }
+  ]
+}

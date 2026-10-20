@@ -1,0 +1,283 @@
+{
+  "id": "x-1479420727064006696",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1479371105306279997",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "La disputa por dormir en el Zampaolas",
+  "resumen": "Ione reprocha a Aerendriel su conducta y él abandona el barco.",
+  "relato": "Aerendriel deja a su dragón descansando junto al huevo y se acerca a los liberados. Button permanece al lado de Bling y Nelli se refugia tras Ione cuando el elfo intenta acercarse. La capitana descubre que Aerendriel duerme en su barco y protesta: acusa al elfo de ignorar sus indicaciones en el campamento, no cubrir el flanco de Bling y demorarse revisando cuerpos cuando debía avisar a Nox.\n\nAerendriel admite que debió obedecer la primera orden, pero dice que quiso ayudar porque Ione estaba herida y que informó a Nox cuando terminó de escribir. También afirma haber enviado al dragón a proteger a Bling. La discusión no permite reconstruir como hechos neutrales todas esas versiones del combate. Ione insiste en que el barco no es un albergue gratuito y le exige pagar o irse.\n\nEl elfo responde que todos salieron vivos y que se marchará si ella lo desea. Despierta a su compañero y abandona el Zampaolas. Ione contiene su ira recordando a Nox y luego piensa en voz baja que cobrar alojamiento mientras el barco sigue encallado podría ser un buen negocio. La idea de albergue aún no se ejecuta.",
+  "participantes": [
+    "Aerendriel",
+    "Ione",
+    "Button",
+    "Nelli",
+    "Bling",
+    "Dragón de Aerendriel"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1479425370246742101",
+      "afirmacion": "Ione reprocha a Aerendriel su actuación y el alojamiento sin permiso.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1479426835631706163",
+      "afirmacion": "Aerendriel da su versión de las órdenes y el aviso a Nox.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1479432305251581952",
+      "afirmacion": "Aerendriel recoge al dragón y se marcha del barco.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1479436327366819922",
+      "afirmacion": "Ione propone convertir el Zampaolas encallado en albergue.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Las escenas de vigilancia y compraventa se intercalan; cada mensaje se asigna una sola vez.",
+    "Las indicaciones OOC para elegir una prenda del sastre acompañan los regalos narrativos y no crean sucesos adicionales.",
+    "La aparente licantropía de Nelli no identifica su especie transformada, mordedor ni parentesco con Ione.",
+    "Los testimonios enfrentados del campamento no equivalen a una revisión de la sesión audiovisual.",
+    "La tasación interna de Nox no es el precio de venta; el pago efectivo es doscientos veinte oros."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-03-06T10:09:47.640000+00:00",
+  "fin_utc": "2026-03-06T11:11:47.042000+00:00",
+  "fecha_local": "2026-03-06",
+  "intervalo": {
+    "anterior": 12,
+    "siguiente": 13,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1479193258008772802",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1479570997991706655",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 12,
+        "fecha": "2026-03-05",
+        "inicio_referencia_utc": "2026-03-05T19:05:36+00:00",
+        "fin_estimado_utc": "2026-03-05T22:20:15+00:00",
+        "duracion_video_segundos": 11679,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1479193258008772802"
+      },
+      {
+        "capitulo": 13,
+        "fecha": "2026-03-06",
+        "inicio_referencia_utc": "2026-03-06T20:06:30+00:00",
+        "fin_estimado_utc": "2026-03-06T22:22:52+00:00",
+        "duracion_video_segundos": 8182,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1479570997991706655"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1479420727064006696",
+      "fecha_utc": "2026-03-06T10:09:47.640000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": null,
+      "texto": "Aerendriel:\n\n**Habría metido a su dragón en la habitación donde está el huevo y le ha dicho que descansará, para acto seguido dirigirse al ruido**\n\nMe alegro mucho de que estéis recuperadas\n\n**Dice sonriente mientras se que en el alféizar de la puerta**\n\n<@214405113677217793>",
+      "mensaje_sha256": "73e2a09e6cdc7c862ac2328fa1da8855a3f1fc9dfcf86af656cfb4e00ec18b48",
+      "tipo_discord": 19,
+      "referencia": "1479417553729097729",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479420727064006696",
+      "texto_sha256": "a36281f98f26b917e0d80951aceb812749dbadd5e4febdbc28965f27e5486f15",
+      "adjuntos": []
+    },
+    {
+      "id": "1479421761518047263",
+      "fecha_utc": "2026-03-06T10:13:54.273000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": null,
+      "texto": "**Los dos indigenas te miran mientas estan junto a Ione y Bling, miran a sus dos rescatadores y luego te miran a ti para hacerte una pequeña reverencia extraña**",
+      "mensaje_sha256": "bc5270d8b2a1bbc0922031f5cfe7c7aa3a4b1cedee0988bf7e9167ae534248a7",
+      "tipo_discord": 19,
+      "referencia": "1479420727064006696",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479421761518047263",
+      "texto_sha256": "99a448f53b4f92123594b36df22f7cc911d2825bdf15673f1c1ba151bc604af2",
+      "adjuntos": []
+    },
+    {
+      "id": "1479422843870642361",
+      "fecha_utc": "2026-03-06T10:18:12.326000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": "2026-03-06T10:18:30.935000+00:00",
+      "texto": "Aerendriel:\n\nNo hace falta que me tratéis con una reverencia. \n\n**Dice sonriente mientras se adentra a la habitación**\n\nHabéis luchado de forma formidable.\n\n**Comenta sonriente y observa como están las heridas de ambas con mucho cuidado y respeto**",
+      "mensaje_sha256": "dcb379253e64efbc5be97b1341735debee40fb1cab772402faddb4fdcadfe341",
+      "tipo_discord": 19,
+      "referencia": "1479421761518047263",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479422843870642361",
+      "texto_sha256": "b0fd8c60f939d466f867675a8909e444d648b7c223beeb5a9e3315f2c8417e17",
+      "adjuntos": []
+    },
+    {
+      "id": "1479423131511951370",
+      "fecha_utc": "2026-03-06T10:19:20.905000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": null,
+      "texto": "Nelli: **Ves que cuando te acercas, la mujer se aparta de ti y se coloca detras de Ione**\n\nButton: **El tabaxi no esta herido, pero permanece al lado de la hada que la liberó**",
+      "mensaje_sha256": "d6f0d03e397de86ca6c4c74d56375af723ad34819d05697b032bac0e0db53c50",
+      "tipo_discord": 19,
+      "referencia": "1479422843870642361",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479423131511951370",
+      "texto_sha256": "ee15b1c3cd5d0d489a9561a2104c88e0915af290fe155877c0bb7135ddf9939f",
+      "adjuntos": []
+    },
+    {
+      "id": "1479423319349395517",
+      "fecha_utc": "2026-03-06T10:20:05.689000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": null,
+      "texto": "Ione: **Entrecierra los ojos...** ¿Has...dormido en mi barco?",
+      "mensaje_sha256": "34790ca23c624d97dc7b6d6cfbb38fd4589fd6e07e060e077eefc87a464e8efa",
+      "tipo_discord": 19,
+      "referencia": "1479422843870642361",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479423319349395517",
+      "texto_sha256": "ab3e2964a6ecabe124e2300920c879f91d4ce58146549c69228820701020130a",
+      "adjuntos": []
+    },
+    {
+      "id": "1479424011896225842",
+      "fecha_utc": "2026-03-06T10:22:50.805000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": "2026-03-06T10:23:19.784000+00:00",
+      "texto": "Aerendriel:\n\n**Levanta lentamente las manos como un mensaje silencioso de no pasa nada mientras da un par de pasos hacia atrás**\n\nY si, he descansado a veces por aquí, espero que no te haya molestado, Ione.\n\n<@753394009153732689>",
+      "mensaje_sha256": "34b4b889893be6f6eb8492772f52cd2cf6e3c2b22f58d8922d6e2f57ccdb3113",
+      "tipo_discord": 19,
+      "referencia": "1479423131511951370",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479424011896225842",
+      "texto_sha256": "066bf03e9559a175dd60481740e8e65e80825a66a15422661a4256aa87f06a7d",
+      "adjuntos": []
+    },
+    {
+      "id": "1479425370246742101",
+      "fecha_utc": "2026-03-06T10:28:14.661000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": null,
+      "texto": "Ione: ¿Q soy ahora? ¿Un alberge? Vale la abuela es el capricho de Nox, el mosquito nos ha ayudado y ellas dos bueno las ayude yo **Te señala con el dedo** Pero tu ni me hiciste caso en aquel campamento cuando te dije q te fueras por el otro lado y cuando te pedi que fueras a avisar a Nox te pusiste de una a revisar cuerpos que te vi mientras marchaba con estas heridas **Parece molesta**",
+      "mensaje_sha256": "526ec449f869263dae2640e516440209be48e1efd196c2ac652953d5ca55cf94",
+      "tipo_discord": 19,
+      "referencia": "1479424011896225842",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479425370246742101",
+      "texto_sha256": "417f28938009de027957a222c0dce41c60877ec0def9d9f421c000f3df0f71f3",
+      "adjuntos": []
+    },
+    {
+      "id": "1479426835631706163",
+      "fecha_utc": "2026-03-06T10:34:04.036000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": "2026-03-06T10:34:41.561000+00:00",
+      "texto": "Aerendriel:\n\nEn lo primero que has dicho, tienes razón, debí hacerte caso, pero estabas herida.  Y en lo segundo, Nox estaba escribiendo algo en un papel y no quería molestarlo. Pero cuando termino de escribir, se lo notifique. \n\n**Habla tranquilo y sin molestia mientras sigue alzando las manos**",
+      "mensaje_sha256": "65b2da4225e2ebe5dfa5ca323d57726ba6fe7d9920c4017a152ef9f4af167ca8",
+      "tipo_discord": 19,
+      "referencia": "1479425370246742101",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479426835631706163",
+      "texto_sha256": "1c1a5666b2364fadb29659199195b76b683243288436c7e190f35cc9689d5c2d",
+      "adjuntos": []
+    },
+    {
+      "id": "1479427296501825576",
+      "fecha_utc": "2026-03-06T10:35:53.916000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": "2026-03-06T10:37:07.569000+00:00",
+      "texto": "Ione: ¿Yo herida? Estaba donde debia estar pero Blink quedo expuesta por el otro franco ¿Y por que te cuelas en mi barco a dormir? Os voy a acabar cobrando lo juro por mi apellido",
+      "mensaje_sha256": "58e4b4884641920117c8b35448e8120b562861c08f7b73dc98a5e43da0dd445d",
+      "tipo_discord": 19,
+      "referencia": "1479426835631706163",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479427296501825576",
+      "texto_sha256": "d0bbf61b12685fbf9796a9650c8347b86adf066be39496f91673c79070a4eaa8",
+      "adjuntos": []
+    },
+    {
+      "id": "1479429750199029915",
+      "fecha_utc": "2026-03-06T10:45:38.923000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": null,
+      "texto": "Aerendriel:\n\nEnvíe a mi pequeño amigo a proteger a Blink. Ahora ese pequeño amigo está descansando.\n\n**Mira por un momento en dirección al cuarto del huevo para luego volverles a mirar a los ojos**\n\nTu barco es mejor que dormir en la calle, Ione.",
+      "mensaje_sha256": "355523de0ebe5fb204bcd549fbbd1ebd056f8218ec47206d2929edefaa07e2e8",
+      "tipo_discord": 19,
+      "referencia": "1479427296501825576",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479429750199029915",
+      "texto_sha256": "40ed15b0240cabc4e27bfdc88caf4409d155616134024298ba0358678456a131",
+      "adjuntos": []
+    },
+    {
+      "id": "1479431210848751616",
+      "fecha_utc": "2026-03-06T10:51:27.169000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": null,
+      "texto": "Ione: da igual, podia encargarme de los de esa zona yo sola, no necesitaba apoyo... Si tu me viste cargarme a dos sin despeinarme **Frunce el ceño** Pero por el otro lado habia gente peleando que no podian esquivar tan rapido como yo... Ademas te vi atacar con arco, podias haberte colocado en un sitio alto y cubrir todo, no me mientas diciendo que es porque estaba herida, no quisiste y punto **Te señala con el dedito acusador** ¡Esto no es un alberge! ¡Si duermes minimo pagas! ¡Si no puedes irte a dormir a cualquier cobertizo como hacen muchos!",
+      "mensaje_sha256": "c2941ba6b27b8d6eb402c807dddb1b6f3b627c4f39298a71b5297cc87a537a89",
+      "tipo_discord": 19,
+      "referencia": "1479429750199029915",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479431210848751616",
+      "texto_sha256": "daff034ce0a073907359840616ba464f4399fed20185761cf1689c8763c0d2e5",
+      "adjuntos": []
+    },
+    {
+      "id": "1479432305251581952",
+      "fecha_utc": "2026-03-06T10:55:48.095000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": "2026-03-06T11:06:05.827000+00:00",
+      "texto": "Aerendriel:\n\nLo que tú digas, todos los que querías han salido con vida. Si quieres que nos vayamos, nos iremos.\n\n**Me vuelvo a la habitación donde se está cuidando al huevo y se quedaría hay acariciando la espalda a su compañero dormido, lo despierta y se van del barco**",
+      "mensaje_sha256": "849ab2d8b632e87c188febc28e69f541d47958da134ac2578c76a1e4d2b4a0da",
+      "tipo_discord": 19,
+      "referencia": "1479431210848751616",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479432305251581952",
+      "texto_sha256": "0990df3ed2052d9ce6a67ececa38fa2f01d1887a3daf0c2ac8f24d680fcec268",
+      "adjuntos": []
+    },
+    {
+      "id": "1479433277105242293",
+      "fecha_utc": "2026-03-06T10:59:39.803000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": null,
+      "texto": "Ione: **Se escucha un crack crack** No no Ione... Recuerda lo q dijo Nox...**Sonrie pero se le nota una vena hinchada en su frente** ¿Sales de mi barco o quieres que solucione esto con \"dialogo\"?",
+      "mensaje_sha256": "8e5e27047eb4b931651e98db9709c84ebc5491d458a4e6554b74653e309da1e3",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479433277105242293",
+      "texto_sha256": "13201286006009ba8cc9c81f5df61d8e9cd3c5aa293c168713681c5fc533616c",
+      "adjuntos": []
+    },
+    {
+      "id": "1479435357257859073",
+      "fecha_utc": "2026-03-06T11:07:55.750000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": null,
+      "texto": "🌲  Aerendriel sale de escena 🌲",
+      "mensaje_sha256": "eac4d9eadc91327f965f50a6cf673799e8671c38f974e1c01dcf1f42f4295b6d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479435357257859073",
+      "texto_sha256": "30500f8ae70800866a3f026d18f3b1505559fdd1e55f52bec4458aae17715771",
+      "adjuntos": []
+    },
+    {
+      "id": "1479436327366819922",
+      "fecha_utc": "2026-03-06T11:11:47.042000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": null,
+      "texto": "Ione: **Suspira... Tratando de relajarse... Pero murmura por lo bajo** Pues no seria mala idea hacer un alberge...asi ganamos dinero mientras tengamos el barco encallado... Alberge Zampaolas... Y la ubicacion es buena...uy si si si esto tengo q decirselo a Nox... Seguro que dice que soy buena chica y todo si si si si si",
+      "mensaje_sha256": "99d4ccdbdff6f53034b3862006a9e7081baa15e2207c8df9939af568ea9d1908",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479436327366819922",
+      "texto_sha256": "d578f857ae1bed6e28cb73a622e216e334a1459e0beab47ecebfa1fb68ecb135",
+      "adjuntos": []
+    }
+  ]
+}

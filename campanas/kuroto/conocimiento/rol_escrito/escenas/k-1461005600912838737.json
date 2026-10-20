@@ -1,0 +1,212 @@
+{
+  "id": "k-1461005600912838737",
+  "campana": "kuroto",
+  "unidad_revision": "k-1459223985194664079",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "El Rompeolas como testigo",
+  "resumen": "Seraphina y Guxi celebran su unión privada antes del peligro esperado.",
+  "relato": "Guxi recorre el puerto dejando preparado su puesto y agradece al Rompeolas el cambio que ha traído a su vida. Seraphina llega vestida de blanco con un velo y le pregunta si está listo. Él transforma sus ropas en un traje y suben juntos al barco, elegido como único testigo de su unión. Guxi besa el anillo de compromiso y se arrodilla para prometer felicidad y compañía hasta el final de sus días. Seraphina responde que ha disfrutado el tiempo juntos y que, si sobreviven para tener más, lo disfrutarán todavía más. Ambos declaran su amor mientras la escena se aleja con el atardecer. No hay despedida definitiva ni resultado del peligro del día siguiente.",
+  "participantes": [
+    "Guxi",
+    "Seraphina"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1461010920817033327",
+      "afirmacion": "Seraphina define al Rompeolas como único testigo de la unión.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1461012388831559761",
+      "afirmacion": "Guxi se arrodilla y promete acompañarla hasta el final de sus días.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1461019179942416571",
+      "afirmacion": "Seraphina declara su amor y esperanza en el futuro compartido.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Cuatro situaciones diferentes separadas como subescenas con cobertura completa de los mensajes.",
+    "Visualizadas completas las imágenes 1461007603227431156.png, 1461010952722976891.png y 1461019179321917482.png: traje, vestido y pareja de la unión.",
+    "No afirmar boda legal o religiosa con oficiante: el barco es el único testigo que se menciona.",
+    "Las alusiones a encuentros con dos mujeres y a una anterior divinidad de Wukong no se reconstruyen fuera de lo contado aquí."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-01-14T14:34:39.429000+00:00",
+  "fin_utc": "2026-01-14T15:29:19.322000+00:00",
+  "fecha_local": "2026-01-14",
+  "intervalo": {
+    "anterior": 179,
+    "siguiente": 180,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1458905021985853695",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1461435221806284870",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 179,
+        "fecha": "2026-01-08",
+        "inicio_referencia_utc": "2026-01-08T19:27:25+00:00",
+        "fin_estimado_utc": "2026-01-08T21:59:18+00:00",
+        "duracion_video_segundos": 9113,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1458905021985853695"
+      },
+      {
+        "capitulo": 180,
+        "fecha": "2026-01-15",
+        "inicio_referencia_utc": "2026-01-15T19:01:30+00:00",
+        "fin_estimado_utc": "2026-01-15T22:02:29+00:00",
+        "duracion_video_segundos": 10859,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1461435221806284870"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1461005600912838737",
+      "fecha_utc": "2026-01-14T14:34:39.429000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": null,
+      "texto": "guxi:\n**estaba dando una vuelta por el puerto dejando todo listo para poder dejar su puesto cuando esto termine cuando ve el rompeolas el barco de seraphina **\ngracias.\nEn parte te debo a ti el haberme cambiado la vida y que ahora tenga esperanzas \n**tocaba el casco de aquel barco con una mezcla de agradecimiento y un nudo en la garganta por todo lo que nos espera mañana**\n<@408026114548695061>",
+      "mensaje_sha256": "72f6a77ae98549c103e6e6cb8f1b709920b09b0135e10fa8f2fbc7d89ec35df6",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1461005600912838737",
+      "texto_sha256": "51f72120bd0d16359ab58a2e9d16c09f75e19f8821848b0866bfbe1eaaac9dd5",
+      "adjuntos": []
+    },
+    {
+      "id": "1461006955555455170",
+      "fecha_utc": "2026-01-14T14:40:02.401000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Una silueta blanca se acercaba hacia el puerto, dejando una estela de diminutos brillos por el velo que se arrastraba sobre la arena hasta llegar frente a frente de quien la esperaba con tantas ansias**\n\nYa estás listo?",
+      "mensaje_sha256": "ff749cbfb43282dce2f01a1da567a63594f2d526150488f62a5d2d67cd0f1439",
+      "tipo_discord": 19,
+      "referencia": "1461005600912838737",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1461006955555455170",
+      "texto_sha256": "0a67bc7de9f616b601d65d3ef833cc9187b4c072159d7248835ae385c0140e0a",
+      "adjuntos": []
+    },
+    {
+      "id": "1461007603588010178",
+      "fecha_utc": "2026-01-14T14:42:36.904000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": null,
+      "texto": "Guxi:\n**una sonrisa como nunca se ha visto llena de felicidad**\nsi, lo estoy\n**con movimiento de manos su ropa cambia a un traje**",
+      "mensaje_sha256": "4f98ea1348b8049b9e6b6d7fc3189f34d8e6dab341fb0d0c95fc5495c3c0d70a",
+      "tipo_discord": 19,
+      "referencia": "1461006955555455170",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1461007603588010178",
+      "texto_sha256": "63986fd4e29047397e20c9702275a1f7486e8afbd445e1ace72b3f6db322a255",
+      "adjuntos": [
+        {
+          "id": "1461007603227431156",
+          "nombre": "1dacc44e-ae45-4368-a6fb-18fc009c19fa.png",
+          "tipo": "image/png",
+          "archivo": "adjuntos/1461007603227431156.png",
+          "url": "rol_escrito/adjuntos/1461007603227431156.png",
+          "bytes": 2884822,
+          "sha256": "5de9a443908086dee44a85e9820223a433af0429f55d694cbabc0f832e9230e0"
+        }
+      ]
+    },
+    {
+      "id": "1461010920817033327",
+      "fecha_utc": "2026-01-14T14:55:47.793000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": null,
+      "texto": "Seraphina:\nEn verdad que cada día me sorprendes más \n\n**Lo tomé de la mano y le ayude a subir al \"Rompe Olas\", mi compañero de aventuras y predicciones, ese será el único testigo de esta unión**\n\nBueno, pues aquí estamos\n\n**Le mire cara a cara, sentía los nervios en todo el cuerpo**\n\nNo sé que decirte, tu tienes algo que decir?",
+      "mensaje_sha256": "7da1bd24106f735c553cdd90c20648fcb3a0f838c6e998bb344e110332ce642e",
+      "tipo_discord": 19,
+      "referencia": "1461007603588010178",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1461010920817033327",
+      "texto_sha256": "641fcc24f2c076a00fbfdcfc1124983b3d5d2af04fb79dcaf4b12536c4497e30",
+      "adjuntos": []
+    },
+    {
+      "id": "1461010952790212814",
+      "fecha_utc": "2026-01-14T14:55:55.416000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "a67b07fcea44a4ea417ffbaf0183d473cf4726a8f0a8d38e740619cd975d6601",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1461010952790212814",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1461010952722976891",
+          "nombre": "file_00000000027871f5a132760d65c6042f.png",
+          "tipo": "image/png",
+          "archivo": "adjuntos/1461010952722976891.png",
+          "url": "rol_escrito/adjuntos/1461010952722976891.png",
+          "bytes": 2002448,
+          "sha256": "8c04bd6b5fa2bb63c5fbd3c8b113b88a61a824f4a2a0c59ced095c708bc205b7"
+        }
+      ]
+    },
+    {
+      "id": "1461012388831559761",
+      "fecha_utc": "2026-01-14T15:01:37.795000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": null,
+      "texto": "guxi:\nllevo mucho tiempo pensando en este momento y ahora veo a la mujer que mas amo en este mundo y la verdad..\nestoy en blanco\n**cogía su mano con delicadeza y besaba ese anillo de compromiso que le regalo**\nTe amo seraphina longhop fuiste de verdad una tempestad sacudiste mi mundo oscuro y tranquilo como si el mismo destino te hubiera mandado para sacarme de mi miseria.\n**se arrodilla mirándola a la cara con una expresión llena de decisión y un amor inquebrantable hacia ella**\nPrometo hacerte feliz y prometo estar contigo hasta el final de nuestros dias",
+      "mensaje_sha256": "88c91733412051d2d1b5c7d47d2277fa3d6ac67704db1d1b8c887f4902d01f35",
+      "tipo_discord": 19,
+      "referencia": "1461010920817033327",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1461012388831559761",
+      "texto_sha256": "da7470119ce9db45576ad23e422c8237621e558693c4b4dc5710e69a025887b6",
+      "adjuntos": []
+    },
+    {
+      "id": "1461019179942416571",
+      "fecha_utc": "2026-01-14T15:28:36.922000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": null,
+      "texto": "Seraphina:\nNo hay palabras que no te haya dicho antes, mi tonta máquina de sentimentalismo\n\n**Suspiré**\n\nQuiero que sepas que si este es nuestro último día juntos, lo he disfrutado como no tienes una idea, y si aún nos queda mucho por vivir, estoy segura de que disfrutaremos aún más \n\n**Sonreí con ternura**\n\nTe amo Guxi~\n\n**La cámara se empieza a alejar, mostrando a la pareja en el barco con el atardecer en sus espaldas**",
+      "mensaje_sha256": "2f74d2bf0de25743896a4e16606091089bf33bafd61064e790c090cb677d2e54",
+      "tipo_discord": 19,
+      "referencia": "1461012388831559761",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1461019179942416571",
+      "texto_sha256": "001d050bfcca7585f443c580cfe5842774843d280bda1237217acc963e451b0a",
+      "adjuntos": [
+        {
+          "id": "1461019179321917482",
+          "nombre": "file_000000004e5871f789d852ff31f019bf.png",
+          "tipo": "image/png",
+          "archivo": "adjuntos/1461019179321917482.png",
+          "url": "rol_escrito/adjuntos/1461019179321917482.png",
+          "bytes": 2190345,
+          "sha256": "f8721342f7b549d4ab2638e327f60f8966029efddce6dc2a82aec7938c1ff056"
+        }
+      ]
+    },
+    {
+      "id": "1461019357780906188",
+      "fecha_utc": "2026-01-14T15:29:19.322000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": null,
+      "texto": "🔴 fin de escena🔴",
+      "mensaje_sha256": "a3d9259cacfa0c8edee08bc198b7b39ffff1e4e7348cc0e5c255ce13bb8ec23f",
+      "tipo_discord": 19,
+      "referencia": "1461019179942416571",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1461019357780906188",
+      "texto_sha256": "906cd6a490f27f6a27bf957ba49b4845aca936431f5924262141d6e0dea25762",
+      "adjuntos": []
+    }
+  ]
+}

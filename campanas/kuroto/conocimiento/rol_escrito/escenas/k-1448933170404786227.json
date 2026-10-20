@@ -1,0 +1,79 @@
+{
+  "id": "k-1448933170404786227",
+  "campana": "kuroto",
+  "unidad_revision": "k-1448933170404786227",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Vogthar encuentra a Shizzuka",
+  "resumen": "El visitante se presenta como amigo de Banzo mientras la niña busca al grupo por la base.",
+  "relato": "Shizzuka recorre las habitaciones de Sho quejándose de que sus compañeros ya no vienen a dormir y siempre la dejan al margen. La puerta se abre y entra Vogthar. El goliat se presenta como amigo de Banzo y pregunta si lo conoce. La niña no se intimida, afirma que Banzo es su mejor amigo y bromea con que ella le permite ser líder, aunque ahora los demás quieren dejar de ser Cazadores. Vogthar ríe al conocer el puesto del goliat y se declara su mejor amigo de la infancia. Coloca una mano en el hombro de Shizzuka y anuncia que lo ayudará a encontrarlo. Después la base queda en silencio. El texto no representa todavía qué hace con ella ni el lugar adonde podría llevarla.",
+  "participantes": [
+    "Shizzuka",
+    "Vogthar"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1448933170404786227",
+      "afirmacion": "Vogthar se presenta como amigo de Banzo, obtiene la confianza de Shizzuka y la escena termina en silencio tras tocarle el hombro.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La amistad alegada por Vogthar no se acepta como relación verdadera frente al contexto de hostilidad previo.",
+    "El cierre sugiere peligro, pero no describe por sí mismo un método de secuestro, heridas o muerte."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-12-12T07:03:07.701000+00:00",
+  "fin_utc": "2025-12-12T07:03:07.701000+00:00",
+  "fecha_local": "2025-12-12",
+  "intervalo": {
+    "anterior": 173,
+    "siguiente": 174,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1448753461364785172",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1450566665669443760",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 173,
+        "fecha": "2025-12-11",
+        "inicio_referencia_utc": "2025-12-11T19:08:42+00:00",
+        "fin_estimado_utc": "2025-12-11T22:37:42+00:00",
+        "duracion_video_segundos": 12540,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1448753461364785172"
+      },
+      {
+        "capitulo": 174,
+        "fecha": "2025-12-16",
+        "inicio_referencia_utc": "2025-12-16T19:13:46+00:00",
+        "fin_estimado_utc": "2025-12-16T21:24:41+00:00",
+        "duracion_video_segundos": 7855,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1450566665669443760"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1448933170404786227",
+      "fecha_utc": "2025-12-12T07:03:07.701000+00:00",
+      "fecha_local": "2025-12-12",
+      "editado_utc": null,
+      "texto": "Shizzuka: Dónde se meten... Ya ni vienen a dormir a la base... **La niña kender estaba buscando por todas las habitaciones mientras se quejaba.** Siempre me dejan a parte... **Se escucha la puerta abrirse y la niña se gira para ver quien llega** Ajá, como os atreve... Eh? ¿Quien eres tu?\n\nVogthar: Esta debe ser la base de los Cazadores... **El enorme goliat entra en la base  y mira a la niña desde arriba con su imponente tamaño** Oh, yo? Soy un amigo de Banzo, lo conoces?\n\nShizzuka: Banzo? Si, es mi amigo. **Dice la niña sin intimidarse por el aspecto del bárbaro** Le dejo ser el líder de los Cazadores, pero ahora los muy tontos quieren dejar de serlo...\n\nVogthar: Líder? El pequeño Banzito es líder? **El goliat ríe un rato** Y dices que eres su amiga?\n\nShizzuka: Si, soy su amiga. Mejor dicho, soy su mejor amiga. **Dice la niña muy segura de si misma**\n\nVogthar: Que curioso... Yo soy su mejor amigo de cuando eramos pequeños **Coloca una mano en el hombro de Shizzuka** Lo estoy buscando y creo que tu me vas a ayudar... \n\n**La base de los Cazadores quedó en silencio después de ese gesto. No volvieron a escucharse las quejas de la pequeña kender, ni ningún otro sonido procedente de su interior.**\n\n🔴Fin de la escena 🔴",
+      "mensaje_sha256": "7264e652aec6c84ec09fa2af492390ef8aca1502e35ded5f530417f7099345a7",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1448933170404786227",
+      "texto_sha256": "61af1488d35e4a87bd696159373ca0c29de2dcfa50eaab8f2d627fd62ca10db7",
+      "adjuntos": []
+    }
+  ]
+}

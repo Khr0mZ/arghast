@@ -1,0 +1,78 @@
+{
+  "id": "k-1427946005361332337",
+  "campana": "kuroto",
+  "unidad_revision": "k-1427946005361332337",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Una desconocida se interesa por el torneo",
+  "resumen": "Una mujer de ojos ámbar arranca un anuncio y piensa aprovechar la ocasión.",
+  "relato": "Una figura femenina se detiene ante un cartel del nuevo Torneo de Sho, anunciado como espectáculo de combate y magia de los cazadores. Lo arranca de la pared y sonríe con los ojos ámbar. Considera la oportunidad interesante y declara que deberá aprovecharla. No se revela su nombre, su propósito concreto ni una acción posterior contra el torneo.",
+  "participantes": [
+    "mujer sin identificar"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1427946005361332337",
+      "afirmacion": "Una mujer desconocida arranca el anuncio y expresa interés en aprovechar el torneo.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No se identifica como Danifae por el color de ojos o la conducta solamente.",
+    "El cartel acredita que el torneo está anunciado, no su celebración ni resultado."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-10-15T09:07:37.632000+00:00",
+  "fin_utc": "2025-10-15T09:07:37.632000+00:00",
+  "fecha_local": "2025-10-15",
+  "intervalo": {
+    "anterior": 162,
+    "siguiente": 163,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1425912631637835917",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1428443861126086666",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 162,
+        "fecha": "2025-10-09",
+        "inicio_referencia_utc": "2025-10-09T18:27:25+00:00",
+        "fin_estimado_utc": "2025-10-09T21:37:40+00:00",
+        "duracion_video_segundos": 11415,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1425912631637835917"
+      },
+      {
+        "capitulo": 163,
+        "fecha": "2025-10-16",
+        "inicio_referencia_utc": "2025-10-16T18:05:34+00:00",
+        "fin_estimado_utc": "2025-10-16T21:30:31+00:00",
+        "duracion_video_segundos": 12297,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1428443861126086666"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1427946005361332337",
+      "fecha_utc": "2025-10-15T09:07:37.632000+00:00",
+      "fecha_local": "2025-10-15",
+      "editado_utc": "2025-10-15T10:22:28.110000+00:00",
+      "texto": "???: **Una figura femenina se detuvo delante de unos anuncios colgados en una de las paredes de las casas de la ciudad. En el se podia leer: \"¡Presentamos en Nuevo Torneo de Sho! Nuestros amados Cazadores nos ofrecerán un emocionante espectáculo con sus habilidades de combate y su poderosa magia. ¡No te lo pierdas!\"\nLa mujer arranca el anuncio mientras se le dibuja una sonrisa y sus ojos ámbar relucen en su rostro** Esto es muy interesante... Deberé aprovechar esta oportunidad\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "883e230d4bc35fe1202a2256fd8ac1907b4b82fd255fcc80baf551e8ad4dffdd",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1427946005361332337",
+      "texto_sha256": "c998cadf02a9d19056c94bed5b24fda17f380d0c7e675dc6e99ac96655d79d5b",
+      "adjuntos": []
+    }
+  ]
+}

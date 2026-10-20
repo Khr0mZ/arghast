@@ -1,0 +1,94 @@
+{
+  "id": "k-1438081709764509707",
+  "campana": "kuroto",
+  "unidad_revision": "k-1438081709764509707",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "Una advertencia que alcanza a Kurobane",
+  "resumen": "Banzo permanece meditando ante la Puerta Negra y Kurobane percibe una presión y una advertencia suya a distancia.",
+  "relato": "Al amanecer, Banzo sigue inmóvil ante la Puerta Negra. La narración permite al lector ver un aura que deforma el aire a su alrededor, aunque no establece que los demás personajes puedan verla. Kurobane siente una presión en el pecho o en el espíritu sin comprender su origen. El silencio de la meditación se rompe cuando el goliat pronuncia una advertencia: está avisado. El mensaje afirma que Kurobane la oye o la siente con claridad, pero deja sin explicar el mecanismo y no muestra su respuesta.",
+  "participantes": [
+    "Banzo",
+    "Kurobane"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1438081709764509707",
+      "afirmacion": "La narración muestra a Banzo meditando y a Kurobane percibiendo una presión y sus palabras de advertencia.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Es percepción a distancia narrada expresamente, no presencia física de Kurobane ni un poder explicado o identificado.",
+    "La breve escena continúa la meditación anterior; el cierre aparece aislado en la unidad siguiente."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-11-12T08:23:17.874000+00:00",
+  "fin_utc": "2025-11-12T08:23:17.874000+00:00",
+  "fecha_local": "2025-11-12",
+  "intervalo": {
+    "anterior": 165,
+    "siguiente": 166,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1436069852543586424",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438244036996628491",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 165,
+        "fecha": "2025-11-06",
+        "inicio_referencia_utc": "2025-11-06T19:08:37+00:00",
+        "fin_estimado_utc": "2025-11-06T22:46:55+00:00",
+        "duracion_video_segundos": 13098,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1436069852543586424"
+      },
+      {
+        "capitulo": 166,
+        "fecha": "2025-11-12",
+        "inicio_referencia_utc": "2025-11-12T19:07:55+00:00",
+        "fin_estimado_utc": "2025-11-12T22:08:14+00:00",
+        "duracion_video_segundos": 10819,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438244036996628491"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1438081709764509707",
+      "fecha_utc": "2025-11-12T08:23:17.874000+00:00",
+      "fecha_local": "2025-11-12",
+      "editado_utc": "2025-11-12T08:26:44.871000+00:00",
+      "texto": "Banzo : ** el sol se alza de nuevo en Kuroto , la luz empieza a iluminar por el este el rostro del goliath que ha permanecido inmóvil meditando ante la puerta \n\n<@240564189448503306> Kurobane , no sabes como ni porque , pero notas una pequeña presión en el pecho , mas que en el pecho , en tu espíritu tal vez..\n\nVolviendo a la escena del goliath podríamos ver como de el sale un aura cargada . \nNosotros que tenemos una vista privilegiada podríamos ver ese aura, sabéis esos dias de calor intenso en que el horizonte se difumina en esas olas provocadas por el calor ? Eso es lo que veríamos viendo al carismático gordito líder de  nada .\n\nEl silencio y la quietud se rompen con unas palabras**\n\nEstas avisado ...\n\n **Ni yo se como , pero , Kurobane ...\nLas escuchas claramente ,o mas bien , las sientes...  **",
+      "mensaje_sha256": "838ee94b350e1cac168e6945adfa6262a6afe9295be79c2240283906ba2feebc",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1438081709764509707",
+      "texto_sha256": "63237e7c7b2cd9617ef2cc3fab059e30a7111b139a33daacaaaceb39429a93f3",
+      "adjuntos": []
+    },
+    {
+      "id": "1438457736084983879",
+      "fecha_utc": "2025-11-13T09:17:29.535000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena 🔴",
+      "mensaje_sha256": "9a219fbc1e8951a990e05be8bb8393f1992f2dd6e62d99d02dbe3d07ab7db561",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1438457736084983879",
+      "texto_sha256": "298fa93bf0457633e2be1e0841043d853cccb9548c7ae2d8426119f0cb0a929e",
+      "adjuntos": [],
+      "no_narrativo": true,
+      "nota_editorial": "Marcador de cierre conservado junto a la conversación."
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "id": "k-1444463793894588447",
+  "campana": "kuroto",
+  "unidad_revision": "k-1444463793894588447",
+  "hilo_id": "1379945696089604209",
+  "hilo_nombre": "Sho, Barrios bajos - Capital de Kuroto",
+  "titulo": "Chani entrega su informe sobre los tritones",
+  "resumen": "Cuenta a Thiary lo que dice haber oído a Banzo. La ladrona se prepara para actuar, mientras la niña sigue angustiada por Kurobane.",
+  "relato": "Chanecuxtli regresa de su forma de mosca y entra a la cofradía. Tras una larga explicación sobre el viaje, Thiary le pide concretar lo escuchado. La niña relata una conversación de Banzo con un hombre cuyo nombre pronuncia de manera imprecisa. Según su versión, hablaron de la Puerta Negra libre, de la ausencia del general y de apartar a Perla para conseguir que los tritones se marchen.\n\nThiary escucha, le ofrece semillas y piensa que deberá visitar al goliat. Va a su baúl de objetos mágicos como preparándose para algo, sin que se ejecute una operación en estos mensajes. Chani pregunta si ha ayudado bien y vuelve a la cama de la cofradía, donde la satisfacción deja paso a sollozos al recordar a Kurobane. El relato del espionaje se conserva como lo que ella comunica, sin completar con suposiciones los hechos originales.",
+  "participantes": [
+    "Chanecuxtli",
+    "Thiary",
+    "Strug"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1444471021322113116",
+      "afirmacion": "Chani relata la conversación que dice haber oído.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1444474202299039885",
+      "afirmacion": "Thiary piensa en visitar a Banzo.",
+      "tipo": "pensamiento"
+    },
+    {
+      "mensaje_id": "1444476046895353859",
+      "afirmacion": "Chani vuelve a la cama y llora al recordar a Kurobane.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No se identifica al interlocutor por la deformación «Yasucola» sin cotejo adicional.",
+    "La frase sobre sacar de en medio al general es un informe de Chani; no se fabrica una escena de asesinato."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-11-29T23:03:25.304000+00:00",
+  "fin_utc": "2025-11-30T10:17:23.157000+00:00",
+  "fecha_local": "2025-11-30",
+  "intervalo": {
+    "anterior": 170,
+    "siguiente": 171,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1443679606723838074",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1446214322580881569",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 170,
+        "fecha": "2025-11-27",
+        "inicio_referencia_utc": "2025-11-27T19:07:07+00:00",
+        "fin_estimado_utc": "2025-11-27T22:32:48+00:00",
+        "duracion_video_segundos": 12341,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1443679606723838074"
+      },
+      {
+        "capitulo": 171,
+        "fecha": "2025-12-04",
+        "inicio_referencia_utc": "2025-12-04T18:59:08+00:00",
+        "fin_estimado_utc": "2025-12-04T21:35:38+00:00",
+        "duracion_video_segundos": 9390,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1446214322580881569"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1444463793894588447",
+      "fecha_utc": "2025-11-29T23:03:25.304000+00:00",
+      "fecha_local": "2025-11-30",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n**La Mosquita llegó al fin a los barrios bajos y volvió a su forma habitual al llegar a la puerta de los Cuchillas Negras, pero no le calculó bien y se fue a estampar por completo ahí**\n\nAuch!! Pío!! Dolió!! Pío!!\n\n**Me levanté, me sacudí el polvo y toque la puerta**\n\nYA LLEGUÉ PÍO!!\n\n<@214405113677217793>",
+      "mensaje_sha256": "327e30fc4d71726fe2fc12241f56efe8cba323bf889d513eae17401673565d35",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1444463793894588447",
+      "texto_sha256": "1fcd25f6af246378dfbe95461fafb2ccc6b00f05eb2480ab31d4e647261efb02",
+      "adjuntos": []
+    },
+    {
+      "id": "1444464325443194890",
+      "fecha_utc": "2025-11-29T23:05:32.035000+00:00",
+      "fecha_local": "2025-11-30",
+      "editado_utc": "2025-11-29T23:06:35.020000+00:00",
+      "texto": "Strug: **Ves al viejo ciego de un ojo abrir la puerta** ¿Quien es?",
+      "mensaje_sha256": "1b47e06514e4ea9f8346065f75ebd67799bfad566184e13333220981b7db3c1d",
+      "tipo_discord": 19,
+      "referencia": "1444463793894588447",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1444464325443194890",
+      "texto_sha256": "2fdf2a44a7ec64c00d535f6fbd73aec40e1bd6261376fcc0f2786d2e6e91dd0e",
+      "adjuntos": []
+    },
+    {
+      "id": "1444464940927815690",
+      "fecha_utc": "2025-11-29T23:07:58.778000+00:00",
+      "fecha_local": "2025-11-30",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\nHola!! Pío, vengo a ver a Thiary, Pío, soy su amiga \n\n**Le sonreí moviendo las alitas**",
+      "mensaje_sha256": "4841e4e213f83df6aebce5544ad3942e8794b28251ec9a4b218807b057f03048",
+      "tipo_discord": 19,
+      "referencia": "1444464325443194890",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1444464940927815690",
+      "texto_sha256": "47d73710fc3a9f3d430b7d6352c67b794564f9011b01284ff4ddd30ca1a8d995",
+      "adjuntos": []
+    },
+    {
+      "id": "1444465471431639040",
+      "fecha_utc": "2025-11-29T23:10:05.260000+00:00",
+      "fecha_local": "2025-11-30",
+      "editado_utc": null,
+      "texto": "Strug: Ummm... Tu que eres? **Te mira agachandose mucho que hasta se escucha un crack de su espalda**Ay ay ay... Ah la niña pollo esa que me dijo la jefa... Si si por la trampilla",
+      "mensaje_sha256": "9074109eb1037afb4ec49faaeb1d9aef8d472e5165d297375a6e46fefd11f5ed",
+      "tipo_discord": 19,
+      "referencia": "1444464940927815690",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1444465471431639040",
+      "texto_sha256": "0aa3da91a09a822dbe6aee43211a84f8cdc0db78c6e36ec8c0fffe8a5173e977",
+      "adjuntos": []
+    },
+    {
+      "id": "1444465854484975678",
+      "fecha_utc": "2025-11-29T23:11:36.587000+00:00",
+      "fecha_local": "2025-11-30",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\nGracias Pío!!\n\n**Saqué unas cuantas moneditas junto con unas semillas y se las dí**\n\nNo sé si te sirvan, pío, pero te las regalo, tienes que plantarlas y hablarles bonito para que crezcan, pío \n\n**Entré al lugar y caminé hacia la trampilla**",
+      "mensaje_sha256": "243b3de2227defa9fc91fc3424ca441be428955f937c1a46489899558ab47123",
+      "tipo_discord": 19,
+      "referencia": "1444465471431639040",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1444465854484975678",
+      "texto_sha256": "b56ca89828de36f3724de0311f92977bb36df9cb23917166cebf9d5312b187f7",
+      "adjuntos": []
+    },
+    {
+      "id": "1444466780780367963",
+      "fecha_utc": "2025-11-29T23:15:17.433000+00:00",
+      "fecha_local": "2025-11-30",
+      "editado_utc": null,
+      "texto": "Strug: **Muerde las monedas**\n\nThiary: Oh! Mi preciosa espía! **Dice la líder de los ladrones detrás de la barra** ¿Como estas? ¿Me traes algo?",
+      "mensaje_sha256": "63d760d24546a21eb1736ed939a27ddd1f04e83d230eb63f662781d8fd0622ee",
+      "tipo_discord": 19,
+      "referencia": "1444465854484975678",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1444466780780367963",
+      "texto_sha256": "468784252c1cbd0fc3fb5486e757b016df6a68286f66966f0d81aa9013719958",
+      "adjuntos": []
+    },
+    {
+      "id": "1444467521276346398",
+      "fecha_utc": "2025-11-29T23:18:13.981000+00:00",
+      "fecha_local": "2025-11-30",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\nTHIARY PÍO!!!, SISISISI, traigo muchas cosas \n\n**Me puse a lado de ella**\n\nMe transforme en mosquita y volé y volé hasta el palacio, le hice fiuuuuu!!, hice woooooo!!, y luego una araña me quiso comer y le dije: \"NO SEÑORA ARAÑA!!, NO ME VA A COMER!!\", y me hizo Hiiiiizzzz y yo le saqué la lengua, nos golpeamos, pero después pidió perdón y ahora somos amigas\n\n**Le decía todo esto mientras movía mis alitas para representar todo lo que estaba diciendo**",
+      "mensaje_sha256": "b6538b76a5146454f970323cf38bbfac94c7eebba754bf77ccd67b5e1896851a",
+      "tipo_discord": 19,
+      "referencia": "1444466780780367963",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1444467521276346398",
+      "texto_sha256": "6f82dee8dba0f2b262a7d01eec42766f9a8e77627a3d9093cc923c102f5a4b18",
+      "adjuntos": []
+    },
+    {
+      "id": "1444469175560044697",
+      "fecha_utc": "2025-11-29T23:24:48.393000+00:00",
+      "fecha_local": "2025-11-30",
+      "editado_utc": null,
+      "texto": "Thiary: Si... si... **Pone cara de aburrimiento mientras saca un plato con semillas, un montón de semillas de varios tipos** Al grano, cuéntale a Thiary lo que has escuchado allí",
+      "mensaje_sha256": "35a11f5d783613ff6ef985b5fa62d5193c34b0d41e5e9a069bc6697e43b418da",
+      "tipo_discord": 19,
+      "referencia": "1444467521276346398",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1444469175560044697",
+      "texto_sha256": "47e845a7485a5f0653c67e703f67cbd5a38e053ad643eaf276d4dce4d5c630c3",
+      "adjuntos": []
+    },
+    {
+      "id": "1444471021322113116",
+      "fecha_utc": "2025-11-29T23:32:08.457000+00:00",
+      "fecha_local": "2025-11-30",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n**Agarré unas cuantas semillas y empecé a comer**\n\nBanzo Pío llegó, todos los hombres azules están raros, se sentía una vibra extraña, me subí a su espalda y escuché que hablaba con un hombre, Yasucola, algo así, el le preguntó a Banzo Pío del viaje que tuvo y dijo que la puerta negra está libre\n\n**Movía mis patitas con alegría**\n\nY dijo que los azules están raros porque el otro azul que también tenía que espiar no regresó del viaje, y Banzo Pío dijo que \"Lo sacó de enmedio\" y que el Yasucola tenía que hacer lo mismo con una perla, quieren que los hombres azules se vayan y nos dejen en paz y que van a hacer lo necesario para que eso pase, pío",
+      "mensaje_sha256": "347f306ad106b824a830c438b8eb398ebed24e348a7eb223de11c6086d23f428",
+      "tipo_discord": 19,
+      "referencia": "1444469175560044697",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1444471021322113116",
+      "texto_sha256": "02f12aef65cee59591602733f06f43931d09412ed33438ee6b7d685a34f3b360",
+      "adjuntos": []
+    },
+    {
+      "id": "1444474202299039885",
+      "fecha_utc": "2025-11-29T23:44:46.861000+00:00",
+      "fecha_local": "2025-11-30",
+      "editado_utc": "2025-11-30T02:16:56.756000+00:00",
+      "texto": "Thiary: Ajá... **Sin hacerte mucho más caso, saca otro plato de semillas y te lo da** *Ese goliat... Tendré que hacerle una visita* <@616683133374562304>",
+      "mensaje_sha256": "b4e59f34d49c205318ecace475a4bd41d9205404d2aae6baf7b359039c192247",
+      "tipo_discord": 19,
+      "referencia": "1444471021322113116",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1444474202299039885",
+      "texto_sha256": "839babfc29f6a6fde1c0aee4d0687ec85c498fe33e9e689e8835d4f450fe840c",
+      "adjuntos": []
+    },
+    {
+      "id": "1444474972650078373",
+      "fecha_utc": "2025-11-29T23:47:50.527000+00:00",
+      "fecha_local": "2025-11-30",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\nEs todo lo que dijeron, no hubo más, pero si hay más, yo te lo diré, pío \n\n**Le sonreí llenandome el pico de semillas y guardando unas más entre mis hojitas**\n\nLo hice bien?, pío?",
+      "mensaje_sha256": "85dc4f7375d5ffc5d7686d55ce37dac6d7660210afef52989d280e0950ea0069",
+      "tipo_discord": 19,
+      "referencia": "1444474202299039885",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1444474972650078373",
+      "texto_sha256": "1a293daa69fb37a5e6dcac8311af131ccb89dc854c8a8f4a89aa253a372ef992",
+      "adjuntos": []
+    },
+    {
+      "id": "1444475232185221165",
+      "fecha_utc": "2025-11-29T23:48:52.405000+00:00",
+      "fecha_local": "2025-11-30",
+      "editado_utc": null,
+      "texto": "Thiary: Si si, muy bien **Se gira y va hacia su baúl de objetos mágicos, parece que se va a preparar para algo importante** Puedes irte, te llamaré si necesito algo más",
+      "mensaje_sha256": "0abb899170c3cdba9543f180a2d5757dc23320bea405c7baa6d55a14f745d0d5",
+      "tipo_discord": 19,
+      "referencia": "1444474972650078373",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1444475232185221165",
+      "texto_sha256": "6aa2b592830118191b1231222312ec0684bc5ddbde52432ec5be52a07aa286dd",
+      "adjuntos": []
+    },
+    {
+      "id": "1444476046895353859",
+      "fecha_utc": "2025-11-29T23:52:06.647000+00:00",
+      "fecha_local": "2025-11-30",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n\n**Me guardé lo que me quedaba de semillas para irme a dónde estaba la camita que me habían dado y dormir un ratito**\n\n**Al llegar a la camita, me dí varias vueltas para poder acomodarme, y al acostarme al fin, solté un pequeño Pío de alegría al ser de ayuda, pero después recordé la cara de Kurobane y sentí una presión fea en el pecho que me hizo querer llorar, tomé mi sombrerito y me lo puse en la cara, y atrás de ese sombrerito, se escuchaban pequeños sollozos**\n\nPío...",
+      "mensaje_sha256": "b5c90f282bc52b1d8fff5d96b3c44f934df216c6de6b41a2c3c34fce55363ca2",
+      "tipo_discord": 19,
+      "referencia": "1444475232185221165",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1444476046895353859",
+      "texto_sha256": "7a6c6632f9b5fe98e2849e3cd9fdf08ea532c3f2cb6bf0327e5befb51bc8925e",
+      "adjuntos": []
+    },
+    {
+      "id": "1444633402543444008",
+      "fecha_utc": "2025-11-30T10:17:23.157000+00:00",
+      "fecha_local": "2025-11-30",
+      "editado_utc": null,
+      "texto": "🔴Fin de la Escena🔴",
+      "mensaje_sha256": "d10ec2df35d6edc379191d3835ac2454f5d979c141b907380802bfe566824db0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1444633402543444008",
+      "texto_sha256": "7b48f784e7d27f7d504591e65457ee8f6f5f093e0fa68b31981cee30b6cd3584",
+      "adjuntos": []
+    }
+  ]
+}

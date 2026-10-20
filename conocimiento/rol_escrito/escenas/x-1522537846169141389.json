@@ -1,0 +1,361 @@
+{
+  "id": "x-1522537846169141389",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1522537846169141389",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "Poncelot pregona la defensa y lleva madera al Zampaolas",
+  "resumen": "La capitana ayuda con la carga y lo reserva para la batalla naval, pese a sus deseos de combatir en tierra.",
+  "relato": "Ione sigue reparando el barco y pregunta por la proa. Un trillizo cuenta que Poncelot confundió un encargo de tablones, así que fue de nuevo al pueblo. Esta vez llega con Merlucilla y un carro de madera, pero retrasa el regreso para recorrer Shiaru con campanilla y un cartel del fin cercano. Presenta a Bonny, Ione y a sí mismo como salvadores y llama a los valientes a defender el poblado.\n\nLa capitana lo encuentra en el puerto y ayuda a cargar. Él reconoce el escepticismo de algunos vecinos y espera que otros se unan, sin aportar reclutas confirmados. Cuenta además su supuesta justicia contra un noble ladrón; un aparte del narrador la contradice con una historia de goblins y un molinero al que acusó por error. Esa versión no se comunica a Ione.\n\nCargan tablones y barriles y dejan al tigre alimentado a la sombra antes de volver al Zampaolas. Poncelot pregunta si debe quedarse en tierra con su montura. Ione le explica que necesita a los fuertes para el ataque naval y considera posible que el tigre salte entre barcos. Él no ha tomado todavía su decisión definitiva. Los materiales llegan y la conversación continúa en la siguiente unidad.",
+  "participantes": [
+    "Ione",
+    "Sir Poncelot",
+    "Trillizos del Zampaolas",
+    "Merlucilla"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1522563952142323812",
+      "afirmacion": "Poncelot pregona el ataque y llama a la defensa mientras lleva madera al puerto.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1522613243305132084",
+      "afirmacion": "Reconoce escepticismo y solo espera conseguir más voluntarios.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1522616631526686722",
+      "afirmacion": "Un aparte del narrador contradice su versión heroica con un error contra un molinero.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1522652725475541093",
+      "afirmacion": "Poncelot cuestiona su puesto naval y desea proteger la entrada en tierra.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1522654265959776286",
+      "afirmacion": "Ione pide a los más fuertes para el barco y entregan la madera.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Ilustración del pregón inspeccionada.",
+    "La parte de la historia llamada versión real procede del narrador y no del conocimiento declarado de Ione.",
+    "Merlucilla es un tigre; equino y percherón son la interpretación del caballero.",
+    "La llamada a las armas no demuestra reclutamiento efectivo.",
+    "La discusión continúa directamente en x-1523224925190750248."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-07-03T09:41:49.912000+00:00",
+  "fin_utc": "2026-07-03T17:24:26.553000+00:00",
+  "fecha_local": "2026-07-03",
+  "intervalo": {
+    "anterior": 40,
+    "siguiente": 41,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149383024690/1521166880503758919",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1522672340213694706",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 40,
+        "fecha": "2026-07-02",
+        "inicio_referencia_utc": "2026-07-02T18:00:00+00:00",
+        "fin_estimado_utc": "2026-07-02T20:53:10+00:00",
+        "duracion_video_segundos": 10390,
+        "tipo_referencia": "programacion",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149383024690/1521166880503758919"
+      },
+      {
+        "capitulo": 41,
+        "fecha": "2026-07-03",
+        "inicio_referencia_utc": "2026-07-03T18:35:58+00:00",
+        "fin_estimado_utc": "2026-07-03T21:07:42+00:00",
+        "duracion_video_segundos": 9104,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1522672340213694706"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida."
+  },
+  "fuentes": [
+    {
+      "id": "1522537846169141389",
+      "fecha_utc": "2026-07-03T09:41:49.912000+00:00",
+      "fecha_local": "2026-07-03",
+      "editado_utc": null,
+      "texto": "Ione: **Jadea un poco... Lleva ya un puñado de dias trabajando en el barco para que todo este a punto** ¿Como vas por aqui? Necesitas mas tablones <@214405113677217793>",
+      "mensaje_sha256": "7faba7a90bb175d56549d3f5c11de963a32256767d6014b79aada8ac91ef7ef7",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1522537846169141389",
+      "texto_sha256": "4749b8dea6e38e37b2a5c3131f8d9f6b67af83a53f7f5e678c51e3bb5ff85944",
+      "adjuntos": []
+    },
+    {
+      "id": "1522544917438533763",
+      "fecha_utc": "2026-07-03T10:09:55.834000+00:00",
+      "fecha_local": "2026-07-03",
+      "editado_utc": "2026-07-03T10:10:21.974000+00:00",
+      "texto": "Trillizos: Estamos bien Capitana! Acabando de arreglar la proa, ya avisamos al señor Sir Poncelot <@220602485977382912> que nos trajera mas tablones, pero no ha regresado aun... **El trillizo esta colgado de los mástiles con una cuerda mientras martillea tablones** ¿Esta bien ese señor, Capitana? Le he pedido tablones y me ha traído condones.... por eso lo he vuelto a enviar a buscarlos al pueblo",
+      "mensaje_sha256": "659c77abd4c4d1de24ce14408bdf9b1abeee4774f443183f093d878087f4453e",
+      "tipo_discord": 19,
+      "referencia": "1522537846169141389",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1522544917438533763",
+      "texto_sha256": "3bb090c4e38dceb2208db430aa2b9a23ff159c10f73090518d9bb408ef7ab3e0",
+      "adjuntos": []
+    },
+    {
+      "id": "1522558472934133790",
+      "fecha_utc": "2026-07-03T11:03:47.716000+00:00",
+      "fecha_local": "2026-07-03",
+      "editado_utc": null,
+      "texto": "Ione: es... Mas trovador q listillo, se le da mejor fingir  que es un caballero ire a hecharle una mano",
+      "mensaje_sha256": "aae909369e4e5a6b98714039e8b3b636525fe2a6d428671245a3fea95d8f7ecd",
+      "tipo_discord": 19,
+      "referencia": "1522544917438533763",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1522558472934133790",
+      "texto_sha256": "19b33aae05e6c03b67d6f4f68f768b446dca9e529d14a28826a10685ed7e495f",
+      "adjuntos": []
+    },
+    {
+      "id": "1522563952142323812",
+      "fecha_utc": "2026-07-03T11:25:34.061000+00:00",
+      "fecha_local": "2026-07-03",
+      "editado_utc": "2026-07-03T13:14:56.310000+00:00",
+      "texto": "Sir Poncelot \n\n**El gnomo entraba en shiaru a lomos de su fiel Merlucilla, tirando de un carro lleno de madera. Una vez pisó la calle principal, se puso de pié sobre el tigre, se puso un cartel en el pecho que rezaba \"the end is near\" y se aclaro la garganta. Acto seguido sacó de su zurrón una campanita y la comenzó a sacudir**\n\n- conciudadanos de shiaru! El fin de acerca! El final se aproxima! Los malvados hechiceros oscuros de casaca azul quierem exterminar este precioso reino!!! Más nosufrais ni desesperéis! Pues hay salvación! Y la salvación viene de la mano de tres grandes nombres! Vuestros salvadores! Vuestra reina y soberana Happy Bonny moverá cielo y tierra para salvar a su gente! La capitana de los caballeros reales del Zampaolas arremeterá sin temor contra sus enemigos! Y yo! El humilde caballero herrante Sir Poncelot de la lanza! Asesino de gigantes, azote de dragones y rescatador de reinos! Elegido personalmente por el gran Sabio Mirlín como salvador de la gente de shiaru!\n\n**El caballero iba pregonando todo esto a grito pelado con tono trovadoresco mientras caminaba en dirección al puerto**\n\n- os insto además, valientes de shiaru, a qué si entre vosotros se encuentran valerosos guerreros y luchadores, que deis un paso al frente y os unáis a vuestros héroes para salvaguardar la integridad del reino y proteger a los indefensos! Vuestra valentía y arrojo servirá para que nadie más ose perturbar vuestra paz! Y vuestros nombres resonarán en generaciones futuras!!!",
+      "mensaje_sha256": "1314b811027a41e28990be1bbd1b6c18a5cd3ed06cbda9238506be3185be0684",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1522563952142323812",
+      "texto_sha256": "0f1f7504ffbc8aac1a3fb79307e720a31fc97589ef695d9043350ab17ce196cf",
+      "adjuntos": []
+    },
+    {
+      "id": "1522575161130352860",
+      "fecha_utc": "2026-07-03T12:10:06.492000+00:00",
+      "fecha_local": "2026-07-03",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "f2fdb42da4c2d7f1596be16b52b52321132086fab7a679284a9face0f76474dc",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1522575161130352860",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1522575160794812519",
+          "nombre": "1783080574775.png",
+          "tipo": "image/png",
+          "archivo": "adjuntos/1522575160794812519.png",
+          "url": "rol_escrito/adjuntos/1522575160794812519.png",
+          "bytes": 1751409,
+          "sha256": "62c3deba09c0cf340e46dd44fd91fec198a2f527180900ccb0d651f0961ea630"
+        }
+      ]
+    },
+    {
+      "id": "1522587701134626878",
+      "fecha_utc": "2026-07-03T12:59:56.262000+00:00",
+      "fecha_local": "2026-07-03",
+      "editado_utc": null,
+      "texto": "Ione: **Escucha el berreo del gnomo** Y se le olvidaron los tablones... Bueno <@214405113677217793> Seguir trabajando yo me encargo **Se dirige al puerto con barquita. Cuando llega al puerto amarra la barca y se acerca al gnomo que tiene mas de trovador q de caballero**",
+      "mensaje_sha256": "9cb7e5de8e8df1ebb887754a6e3169133a31d93640bd9bd8fc142202e5a0748a",
+      "tipo_discord": 19,
+      "referencia": "1522563952142323812",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1522587701134626878",
+      "texto_sha256": "e6e8434be10f1c328c314e19a33703941267692b66ec3090581afa33c87dccd7",
+      "adjuntos": []
+    },
+    {
+      "id": "1522610915042791594",
+      "fecha_utc": "2026-07-03T14:32:10.889000+00:00",
+      "fecha_local": "2026-07-03",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Ya en el puerto, el caballero se estaba despidiendo de algunos lugareños**\n\n- y recuerden valientes! Si están dispuestos a engrosar las filas de los que vamos a defender este reino con nuestra sangre, solo deben solicitar su ingreso a la capitana real o a vuestro humilde caballero de confianza Sir Poncelot!\n\n**Se despide de ellos y se baja de Merlucilla dispuesto a cargar la madera en un bote. Cuando llesta en pleno proceso ve venir hacia el a su amiga la capitana Ione**\n\n- dichoso es verla de nuevo mi querida capitana! Me pilla justamente preparándo la carga que me han solicitado sus golems ayudantes!",
+      "mensaje_sha256": "38cbc679c79a88cd7c7861fb28f8f1c91993af4b0dfc5290fc44cbef0bb15719",
+      "tipo_discord": 19,
+      "referencia": "1522587701134626878",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1522610915042791594",
+      "texto_sha256": "9096b6bf1f4b6be4fdfa0dff011bee147278b784ede3738c95682eebb975840e",
+      "adjuntos": []
+    },
+    {
+      "id": "1522611739051688119",
+      "fecha_utc": "2026-07-03T14:35:27.348000+00:00",
+      "fecha_local": "2026-07-03",
+      "editado_utc": null,
+      "texto": "Ione: **Sonrie** Te tardaste un poco haciendo de pregonero del fin del mundo **Se acerca q ti y te ayuda a cargar los tablones** ¿Como has visto a la gente?",
+      "mensaje_sha256": "cd6cad6a05546cb0f3ddb3ae73929b0e0369b9dc8201babd135d9abb812f1f84",
+      "tipo_discord": 19,
+      "referencia": "1522610915042791594",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1522611739051688119",
+      "texto_sha256": "7388714abf5fa054b55a07ecd96bc221aeb46f9d70e38616d8ed38937e979ea0",
+      "adjuntos": []
+    },
+    {
+      "id": "1522613243305132084",
+      "fecha_utc": "2026-07-03T14:41:25.990000+00:00",
+      "fecha_local": "2026-07-03",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Se mesa la barba mientras pone cara de interesante**\n\n- estimada capitana... Un caballero debe tener una pequeña parte de juglar. No debemos llegar a montar un circo, pero hay que ser lo suficientemente atractivo comomoara que nuestro carisma llegue al pueblo llano. Hay que ganarse el corazón de la gente a la que debemos proteger, si no nunca podrían confiarnos sus tribulaciones y pesares, y nosotros no podríamos ayudarlos.\n\n**El caballero se carga un fajo de maderos como el de la pirata y camina a su lado**\n\n- bueno mi señora. La verdad es que hay mucho escepticismo en las calles. La seguridad proporcionada por su majestad hasta ahora ha sido sublime. Es lógico y normal que haya gente que le cueste creer que haya una mínima posibilidad de que la destrucción del reino llegue a pasar... En cambio mi llamada a las armas creo que ha calado en el corazón de algunos valientes... Con suerte puede que engrosemos filas...",
+      "mensaje_sha256": "4ae6d212d856ff90a19541b1a98a3811ebd5a29bcae64dbc25e74b56402b90b8",
+      "tipo_discord": 19,
+      "referencia": "1522611739051688119",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1522613243305132084",
+      "texto_sha256": "0864fdd732c349c8e87ea8ba7c78cec17942347e3275ff8489904e52a44eb81a",
+      "adjuntos": []
+    },
+    {
+      "id": "1522614181877125263",
+      "fecha_utc": "2026-07-03T14:45:09.763000+00:00",
+      "fecha_local": "2026-07-03",
+      "editado_utc": null,
+      "texto": "Ione: ya... Yo soy mas de tomarme una cerveza despues de partir alguna cara **Dices eso y mira alrededor... Sip todos tan borrachos como siempre** No todos estan hechos para plantar cara y luchar Sir Poncelot, suerte q estanos nosotros para eso **Carga las tablas**",
+      "mensaje_sha256": "cd6d24969013108c9e71519cf0b625dbd575d392f6e478c10b2fa058b5e81667",
+      "tipo_discord": 19,
+      "referencia": "1522613243305132084",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1522614181877125263",
+      "texto_sha256": "a7a9767a10dad2744d81cd3456f1513bfa7d0ffb03206f6efd576f0162185f7c",
+      "adjuntos": []
+    },
+    {
+      "id": "1522616631526686722",
+      "fecha_utc": "2026-07-03T14:54:53.805000+00:00",
+      "fecha_local": "2026-07-03",
+      "editado_utc": "2026-07-03T14:59:50.442000+00:00",
+      "texto": "Sir Poncelot \n\n**Emula a la pirata y vuelve a por más madera al carro**\n\n- obviamente señora mía! Somos sus escudos! Sus muros infranqueables! Sus defensores! Es el cometido principal del caballero. El código de caballeros así lo indica. Además, este humilde caballero nunca a tenido hombres a su cargo. Nunca me he visto digno de ello. Todo se lo he dejado a mi lanza, mi corazón y al destino, y de momento los hados me favorecen!\n\n**Al pasar por al lado del tigre le rasca un poco la mejilla y le hace una carantoña, luego se carga otro fajo**\n\n- una vez, en una ciudad bastante próspera, se estaban cometiendo unos robos misteriosos. Los vecinos insistieron en ponerse bajo mi mando para acelerar la investigación. Pero obviamente no podía ponerlos en peligro. El caso duró unos días más de lo esperado pero di con el culpable: un noble avaricioso tenía un grupo de ladrones a su servicio y robaba a los pobres ciudadanos...\n\n**El gnomo deja el fardo en la balsa y s segura a Ione**\n\n- la justicia quiso que la ciudad juzgara a ese noble y quemara su mansión! Por desgracia el noble huyó, maldiciendo a este humilde caballero que solo estaba protegiendo a los desfavorecidos!\n\n*(Versión real: unos goblins robaban en una aldea. El gnomo no daba pie con bola y los aldeanos solo querían que se fuera. Al final pilló a los goblins robando a un molinero al cual acusó de ser un noble avaro con ladrones en nómina. Al intentar huir los goblins, estos incendiaron el molino. El pobre molinero enloqueció y juró vengarse del caballero mientras perseguía a los goblins)*",
+      "mensaje_sha256": "885dde78f7f87522d3d0dc90229e4caad3a85138ef91c9713c0de451386df840",
+      "tipo_discord": 19,
+      "referencia": "1522614181877125263",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1522616631526686722",
+      "texto_sha256": "131281c00555865eaf360672642d2661952839174629c362419c9751653b7607",
+      "adjuntos": []
+    },
+    {
+      "id": "1522620610834862122",
+      "fecha_utc": "2026-07-03T15:10:42.546000+00:00",
+      "fecha_local": "2026-07-03",
+      "editado_utc": null,
+      "texto": "Ione: **Rie, la verdad es que esta empezando a apreciar las historias del gnomo... Aunque no entienda ni papa** Oye agarra algunos barriles y cargalos en la otra barca que los vamos a necesitar **Sigue cargando mas tablas hasta que la barca no puede mas**",
+      "mensaje_sha256": "4a6a0e077a9cd762ef33aaa2623154e6018d6eba52205e184989733f15dc4075",
+      "tipo_discord": 19,
+      "referencia": "1522616631526686722",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1522620610834862122",
+      "texto_sha256": "a78f5cafb7f774dfab37035191cbfe2ee7a8ac7c66e305eba3264d3506a8344a",
+      "adjuntos": []
+    },
+    {
+      "id": "1522631730484215838",
+      "fecha_utc": "2026-07-03T15:54:53.677000+00:00",
+      "fecha_local": "2026-07-03",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Busca nervioso los barriles**\n\n- barriles... Eh si... Donde hay... Ah sí! Ahí se encuentran!\n\n**Carga los barriles en el otro bote para luego volver a donde está Merlucilla. Le desengancha el carro, lo amarra a un poste del puerto, bajo un techadito para que tenga sombra y le pone un cubo de pescado que ha encontrado por ahí abandonado**\n\n- muy bien mi fiero corcel! Descansa. Te lo has ganado. Cuando cabemos de prepararnos vendré a por ti. Un caballero no es nada sin su noble montura a qué no?\n\n**Le hace unas caricias al tigre y vuelve con Ione para llevar la carga al Zampaolas**",
+      "mensaje_sha256": "6d98d1de786f4e7b4fda13ec0f17231c3ef58404a3b5e4d83f1f4f50a3d005a7",
+      "tipo_discord": 19,
+      "referencia": "1522620610834862122",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1522631730484215838",
+      "texto_sha256": "d2b1e0698c7cc6ce527b8286865a4919205e5e29639fad1d4b94980133bc349f",
+      "adjuntos": []
+    },
+    {
+      "id": "1522633606692999298",
+      "fecha_utc": "2026-07-03T16:02:21+00:00",
+      "fecha_local": "2026-07-03",
+      "editado_utc": null,
+      "texto": "Ione: **Mira al tigre** Oye... no le estas dando mucha comida? Esta empezando a parecerse a un gato gordo",
+      "mensaje_sha256": "d46ce605e3966d1cb3253265becc8873e7217cf94a09e566dd1a9d60954b0629",
+      "tipo_discord": 19,
+      "referencia": "1522631730484215838",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1522633606692999298",
+      "texto_sha256": "411833de3eb2d6d04ebd1589f5ea45fcf01c0639263d54bd4148c5fe19df6d01",
+      "adjuntos": []
+    },
+    {
+      "id": "1522634920110063868",
+      "fecha_utc": "2026-07-03T16:07:34.143000+00:00",
+      "fecha_local": "2026-07-03",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Mira hacia atrás mientras sube al bote**\n\n- mi señora. De verdad que no sé dónde le ve la semejanza entre un gato y un equino más allá de las curiosas rayas negras de su pelaje... Y en cuanto a su constitución... Es probable que se deba a su raza de percherón... Si, se debe a eso!",
+      "mensaje_sha256": "bc72d34959bab1aa07f01da1bb0c3865d581edfb5b90930958d33401a2cedfc2",
+      "tipo_discord": 19,
+      "referencia": "1522633606692999298",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1522634920110063868",
+      "texto_sha256": "9bb165191def813b76fe10adee586478d068805359e9c6193cf7c92c3c999520",
+      "adjuntos": []
+    },
+    {
+      "id": "1522635427410870412",
+      "fecha_utc": "2026-07-03T16:09:35.093000+00:00",
+      "fecha_local": "2026-07-03",
+      "editado_utc": null,
+      "texto": "Ione: **Se encoge de hombros** Es tu mascota tu veras **Se sube a la barca** AL NAVIO MI CABALLERO **Ella lleva la otra barca**",
+      "mensaje_sha256": "63c6d5b56949f73fca33f73257ddc022f0684b93dec4344d0459a4afede72978",
+      "tipo_discord": 19,
+      "referencia": "1522634920110063868",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1522635427410870412",
+      "texto_sha256": "0dc92279cf12cc134c1479f1653f2a92f4be3e6a46b7313f3886a8626abedac3",
+      "adjuntos": []
+    },
+    {
+      "id": "1522651957825769493",
+      "fecha_utc": "2026-07-03T17:15:16.251000+00:00",
+      "fecha_local": "2026-07-03",
+      "editado_utc": null,
+      "texto": "**Rema, rema hasta llegar al barco** \nIone: Subamos todo... Y ayudame, tenemos que preparar nuestra contienda",
+      "mensaje_sha256": "8ab791b736ee12ecc1088df14f5289537d13b0c0ed7ff3329143b0bad0e28c49",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1522651957825769493",
+      "texto_sha256": "2cba8f7b2daa7e037fdfa70d1bc684fc061eaf915aa3131d5031d9a3da9de892",
+      "adjuntos": []
+    },
+    {
+      "id": "1522652032434045018",
+      "fecha_utc": "2026-07-03T17:15:34.039000+00:00",
+      "fecha_local": "2026-07-03",
+      "editado_utc": null,
+      "texto": "<@214405113677217793> <@220602485977382912>",
+      "mensaje_sha256": "3131fb694a5c5f82601fd99304a2443e6b0c58e395b1a6288dc207d25d49bf9f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1522652032434045018",
+      "texto_sha256": "508174430ac6ded8f67a40a3b30951aba73cfdd9f0de37a001c5e746aff3789c",
+      "adjuntos": []
+    },
+    {
+      "id": "1522652725475541093",
+      "fecha_utc": "2026-07-03T17:18:19.273000+00:00",
+      "fecha_local": "2026-07-03",
+      "editado_utc": "2026-07-04T22:21:09.190000+00:00",
+      "texto": "Sir Poncelot \n\n**El gnomo ayuda a mover los fardos de madera y los barriles mientras inspecciona el barco**\n\n- lady Ione... Quiere decir que yo lucharé desde su... Fortaleza flotante? No debería estar en primera linea de tierra protegiendo la entrada de la ciudad?\n\n**Se asoma por la borda**\n\n- digamos que Merlucilla y yo no somos tan efectivos rodeados de agua como rodeados de tierra... Ya sabe, los jinetes necesitamos movilidad ...",
+      "mensaje_sha256": "1c2bd2071e2d84e39d432d78090e8f8cbba1fa850974fa6a0dd381f905c86474",
+      "tipo_discord": 19,
+      "referencia": "1522651957825769493",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1522652725475541093",
+      "texto_sha256": "934916106b55b54939cc2e5c203af714259403c39f7fbc67e4a66ba034b41bf9",
+      "adjuntos": []
+    },
+    {
+      "id": "1522654265959776286",
+      "fecha_utc": "2026-07-03T17:24:26.553000+00:00",
+      "fecha_local": "2026-07-03",
+      "editado_utc": null,
+      "texto": "Ione: **Te ayuda a subir todo** No, necesitaremos a los mar fuertes para el ataque... Ademas hay peleas que se dan en los barcos... Y creo que tu tigre podria saltar de un barco a otro de ser necesario **Subis las cosas y le dejais los tablones a los Trillizos. Despues ves a Ione rodando los barriles abajo**",
+      "mensaje_sha256": "08b7bfed58156b137a96e54a25d4566458c1d1fe7f7a7c911979ffda715f50f6",
+      "tipo_discord": 19,
+      "referencia": "1522652725475541093",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1522654265959776286",
+      "texto_sha256": "a0082033650a49108027f6c4ddde3fee8b6f3e0da8c8478d7c807c32c847b05a",
+      "adjuntos": []
+    }
+  ]
+}

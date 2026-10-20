@@ -1,0 +1,78 @@
+{
+  "id": "k-1362541597115416586",
+  "campana": "kuroto",
+  "unidad_revision": "k-1362541597115416586",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Un despertar mareado para Gur",
+  "resumen": "La narración anuncia a Gur un efecto extraño que parte de su pierna derecha al despertar.",
+  "relato": "Al despertar, Gur siente que una sensación extraña le recorre desde la pierna derecha. Se encuentra desinhibido, mareado y con visión doble, como si hubiera consumido alguna sustancia inusual. El fragmento no identifica la causa ni muestra cómo responde o cuándo desaparece el efecto.",
+  "participantes": [
+    "Gur"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1362541597115416586",
+      "afirmacion": "Se describe mareo, desinhibición y visión doble al despertar, sin explicar su origen.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Leído íntegro el único mensaje. La instrucción parentética de jugar con el efecto al día siguiente es OOC y queda excluida del relato.",
+    "Es una transición tras el sueño de k-1362186703955296436 y antes de la mañana de k-1362685222117834772; no tiene cierre ni resolución autónoma. No se identifica veneno, responsable o duración exacta."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2025-04-17T21:33:51.551000+00:00",
+  "fin_utc": "2025-04-17T21:33:51.551000+00:00",
+  "fecha_local": "2025-04-17",
+  "intervalo": {
+    "anterior": 105,
+    "siguiente": 106,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1362497195252650075",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1363944514846326895",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 105,
+        "fecha": "2025-04-17",
+        "inicio_referencia_utc": "2025-04-17T18:37:08+00:00",
+        "fin_estimado_utc": "2025-04-17T20:54:16+00:00",
+        "duracion_video_segundos": 8228,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1362497195252650075"
+      },
+      {
+        "capitulo": 106,
+        "fecha": "2025-04-21",
+        "inicio_referencia_utc": "2025-04-21T18:28:19+00:00",
+        "fin_estimado_utc": "2025-04-21T20:39:25+00:00",
+        "duracion_video_segundos": 7866,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1363944514846326895"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1362541597115416586",
+      "fecha_utc": "2025-04-17T21:33:51.551000+00:00",
+      "fecha_local": "2025-04-17",
+      "editado_utc": null,
+      "texto": "** <@412279081170763776> cuando despiertes, sientes como una sensacion extraña que te recorre desde la pierna derecha. Te sientes deshibibido, mareado, viendo doble....Como si te hubieras fumado algo raro** (Ahi te lo dejo para mañana rey, estaras con este efecto un ratito, diviertete)",
+      "mensaje_sha256": "52486332b5410f2de33dcd3d34ac1293170e1064a85feea96fba11679bf5f2be",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1362541597115416586",
+      "texto_sha256": "a303107664cd69a52f8427a5fc6eafa5244e262054d8cdadaec7791e7ef036c8",
+      "adjuntos": []
+    }
+  ]
+}

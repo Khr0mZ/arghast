@@ -1,0 +1,79 @@
+{
+  "id": "k-1417123966019178588",
+  "campana": "kuroto",
+  "unidad_revision": "k-1417123966019178588",
+  "hilo_id": "1379945696089604209",
+  "hilo_nombre": "Sho, Barrios bajos - Capital de Kuroto",
+  "titulo": "Un guardia revela que su objetivo está en palacio",
+  "resumen": "Una figura amenaza a un guardia que ya ha identificado a la Shogun. Un disparo cierra la escena sin mostrar el resultado.",
+  "relato": "Un guardia del Shogunato huye aterrado por un callejón. Al caer entre escombros ve acercarse a una figura oscura y suplica que respete su promesa: dice haber contado ya que la persona buscada está en palacio y es la Shogun. La figura rechaza el valor de las promesas de su raza. Un estampido de disparo cierra el texto, sin que se narre dónde impacta ni el destino del guardia.",
+  "participantes": [
+    "Guardia del Shogunato",
+    "Figura armada no identificada"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1417123966019178588",
+      "afirmacion": "El guardia identifica a la Shogun y la figura responde con una amenaza y un estampido.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No se atribuye un nombre al atacante por el arma, la raza insinuada o la similitud con otras escenas.",
+    "El disparo no basta para registrar una muerte cuyo resultado no aparece."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-09-15T12:24:42.389000+00:00",
+  "fin_utc": "2025-09-15T12:24:42.389000+00:00",
+  "fecha_local": "2025-09-15",
+  "intervalo": {
+    "anterior": 156,
+    "siguiente": 157,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1415765542228332665",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1417940586811363481",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 156,
+        "fecha": "2025-09-11",
+        "inicio_referencia_utc": "2025-09-11T18:26:34+00:00",
+        "fin_estimado_utc": "2025-09-11T22:04:21+00:00",
+        "duracion_video_segundos": 13067,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1415765542228332665"
+      },
+      {
+        "capitulo": 157,
+        "fecha": "2025-09-17",
+        "inicio_referencia_utc": "2025-09-17T18:29:21+00:00",
+        "fin_estimado_utc": "2025-09-17T21:15:50+00:00",
+        "duracion_video_segundos": 9989,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1417940586811363481"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1417123966019178588",
+      "fecha_utc": "2025-09-15T12:24:42.389000+00:00",
+      "fecha_local": "2025-09-15",
+      "editado_utc": "2025-09-15T15:47:12.085000+00:00",
+      "texto": "**Un guardia del Shogunato corre a toda prisa por un angosto callejón de los barrios bajos de la ciudad. Sus pasos resuenan sobre las piedras húmedas mientras su respiración entrecortada delata el pánico que lo consume. El rostro desencajado, bañado en sudor y miedo, apenas logra ocultar su desesperación. Tropieza con un montón de escombros y cae pesadamente al suelo. Gime, forcejea, y al fin consigue incorporarse, solo para alzar la mirada… y encontrar, a unos metros de distancia, una figura humanoide que avanza lentamente hacia él, oscura y amenazante.**\n\nGuardia del Shogunato: ¡No, no, por favor…! Ya le he dicho todo lo que quería saber… Está en Palacio… es… es la Shogun… ¡Me-me lo prometió…!\n\n??: ¿Promesas…? ¿Nunca te dijeron que no debes confiar en nadie de mi raza? **Una sonrisa retorcida se dibuja en el rostro de la oscura silueta, una mueca cargada de amenaza. Y entonces, un estruendo sacude el callejón: un rugido como de trueno, un estallido seco, un BANG.**\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "5b1a97812d144d6ffbd75e2c78c17798d225806ab6b3c60e08458bde65e195d8",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1417123966019178588",
+      "texto_sha256": "e6f590e44a4bb205198b811a88bee146475b48ba882a931487f188e9a1bb0c67",
+      "adjuntos": []
+    }
+  ]
+}

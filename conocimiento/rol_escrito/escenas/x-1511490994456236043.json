@@ -1,0 +1,192 @@
+{
+  "id": "x-1511490994456236043",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1511490994456236043",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "Nox renuncia y abandona Shiaru después de usar a Jacky como escudo",
+  "resumen": "Ione ataca una ilusión del pirata. Él presenta a Jacky como sustituto sin aceptación y huye aprovechando que el muchacho recibe el golpe.",
+  "relato": "Ione responde que la víctima fue la mascota de Poncelot y que ese asunto ya no concierne a Nox. Anuncia que seguirá su propio rumbo y controlará a la bestia, antes de golpearle el estómago con Diálogo para arrojarlo por la borda. La figura atacada se desvanece: era otra ilusión.\n\nEl Nox real baja desde el timón, coloca su sombrero a Jacky y declara que renuncia y deja nuevo segundo al mando. Ione rechaza esa designación, aclara que el muchacho ni siquiera es de la tripulación y carga contra ambos. Nox lo empuja para que reciba el golpe y usa un cabo para lanzarse a la costa. Cae al agua cerca de la orilla; Ione manda también a Jacky al mar y les exige no volver.\n\nEl pirata se aleja bajo las burlas del poblado. En privado piensa que así Ione estará más segura y prepara los siguientes pasos: recuperar la piedra e ir a Fuerte Aurora. Saca la brújula y deja Shiaru. Su justificación protectora es un pensamiento suyo; no cambia la agresión al muchacho ni demuestra que la capitana conozca o acepte el plan.",
+  "participantes": [
+    "Ione",
+    "Nox",
+    "Jacky Jackson"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1511494376692388032",
+      "afirmacion": "Ione golpea la figura de Nox.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1511496992445169865",
+      "afirmacion": "La ilusión se desvanece y Nox anuncia su renuncia.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1511498995330191450",
+      "afirmacion": "Ione rechaza al supuesto sustituto y carga.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1511502128982655196",
+      "afirmacion": "Nox empuja a Jacky para recibir el golpe y huye con un cabo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1511502593673793568",
+      "afirmacion": "Ione lanza también a Jacky al agua.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No se registra a Jacky como segundo al mando: la propuesta no es aceptada.",
+    "El bate atraviesa una ilusión, sin herida abdominal real de Nox.",
+    "La escena conserva el rechazo de Ione y la acción de Nox contra Jacky, sin convertir la huida en una reconciliación."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-06-02T22:05:35.223000+00:00",
+  "fin_utc": "2026-06-02T22:54:11.576000+00:00",
+  "fecha_local": "2026-06-03",
+  "intervalo": {
+    "anterior": 36,
+    "siguiente": 37,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1511430616145723484",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1512525575573475348",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 36,
+        "fecha": "2026-06-02",
+        "inicio_referencia_utc": "2026-06-02T18:05:24+00:00",
+        "fin_estimado_utc": "2026-06-02T20:38:28+00:00",
+        "duracion_video_segundos": 9184,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1511430616145723484"
+      },
+      {
+        "capitulo": 37,
+        "fecha": "2026-06-05",
+        "inicio_referencia_utc": "2026-06-05T18:36:17+00:00",
+        "fin_estimado_utc": "2026-06-05T20:56:06+00:00",
+        "duracion_video_segundos": 8389,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1512525575573475348"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1511490994456236043",
+      "fecha_utc": "2026-06-02T22:05:35.223000+00:00",
+      "fecha_local": "2026-06-03",
+      "editado_utc": null,
+      "texto": "Ione: ¿mio? La mascota de Sir Poncelot **Agarra el bate con firmeza y levanta la mirada** Aunque ese ya no es tu asunto... Es mas ya no es de nadie mas que mio **Camina hacia ti despacio**",
+      "mensaje_sha256": "61fbe1a5d0d9e57ea18f4d77304f83556c08ec4456a84d9d0a0996d2344eb885",
+      "tipo_discord": 19,
+      "referencia": "1511489568950587563",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511490994456236043",
+      "texto_sha256": "16bf070097386648bdc62a5f4ca5c1f638e9cff7416e202325a958a16ea51dcd",
+      "adjuntos": []
+    },
+    {
+      "id": "1511492254596857967",
+      "fecha_utc": "2026-06-02T22:10:35.664000+00:00",
+      "fecha_local": "2026-06-03",
+      "editado_utc": "2026-06-02T22:11:00.921000+00:00",
+      "texto": "Nox : **Nox baja la mirada hacia el bate y después vuelve a mirarla a los ojos mientras se acerca.**\nClaroo claroo.. ya entendi..\n**Asiente despacio.**\nIgual que el barco. Igual que la tripulación.Todo tuyo . \n**Una sonrisa amarga cruza su rostro.\nNo retrocede.**\nY ahora qué, Notley? \nQue vas hacer ?",
+      "mensaje_sha256": "3ab831c4ba4a27e63abc3387f5c32d3c0643e6c4d75490157c9bba8bd6be1688",
+      "tipo_discord": 19,
+      "referencia": "1511490994456236043",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511492254596857967",
+      "texto_sha256": "949f94ca1fc50ff5f62c874ce12c5767d3d5f252ab1b18e44145109b7e16935d",
+      "adjuntos": []
+    },
+    {
+      "id": "1511494376692388032",
+      "fecha_utc": "2026-06-02T22:19:01.611000+00:00",
+      "fecha_local": "2026-06-03",
+      "editado_utc": null,
+      "texto": "Ione: Ahora facil **Se escucha el crujir de la madera de dialogo** Tomar por lo cuernos mi propio rumbo **Levanta el bate hasta detras de la cabeza**  Cumplir lo que yo siempre he querido **Se le escapa una sonrisa sarcastica** Y controlar de una vez a la bestia **Baja el bate a toda velocidad para golpearte en el estomago y continua la trayectoria para tirarte por la borda** ¡Y ya estoy a punto de cumplir una de esas cosas sin tu ayuda! ¡Asi que vete a comerles la cabeza a los peces!",
+      "mensaje_sha256": "c0b3fd389d6375ed6942ba664a116f11b11379837032d6091ff5bf61c28ae42c",
+      "tipo_discord": 19,
+      "referencia": "1511492254596857967",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511494376692388032",
+      "texto_sha256": "c5397fd7ffe916288a17207bf44b098b7b04437ef94854b375f4b8742ab47137",
+      "adjuntos": []
+    },
+    {
+      "id": "1511496992445169865",
+      "fecha_utc": "2026-06-02T22:29:25.255000+00:00",
+      "fecha_local": "2026-06-03",
+      "editado_utc": "2026-06-02T22:30:28.866000+00:00",
+      "texto": "Nox : **ves como ese bate atraviesa el estomago de Nox y su cuerpo se difumina en humo hasta que desparece ** \n\nPrevisible , impulsiva y sin ningún plan como siempre ...\n\nMe decepcionas \n\n**escuchas el sonido  de un arma cargandose y de las botas bajar las escaleras desde la parte del timón **\n\nUna cria enfadada porque ha tenido que defender sola su barco ... \n\n**baja a cubierta se quita su sombrero y se lo pone a Jackie .** \n\nNo tengo mas que añadir supongo... \n\nRenuncio \n\nYa tienes un nuevo segundo al mando",
+      "mensaje_sha256": "4c8ade66d0e133ea02274c4f0b9c0712b583eca40b8bf084604b3d2c00c3a562",
+      "tipo_discord": 19,
+      "referencia": "1511494376692388032",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511496992445169865",
+      "texto_sha256": "26e203233200a8c358c83deda9953649bd3ca677537ac1de77a5f8f6258df57f",
+      "adjuntos": []
+    },
+    {
+      "id": "1511498995330191450",
+      "fecha_utc": "2026-06-02T22:37:22.780000+00:00",
+      "fecha_local": "2026-06-03",
+      "editado_utc": null,
+      "texto": "Ione: **Gruñe** Aun piensas que es por eso... Si que eres idiota **y se gira bate en mano** ¿Segundo?No me hagas reir, esa basura no me sirve ni como palillo para los dientes **Se impulsa sin miedo bate en mano** Y yo  al menos cumplo lo que digo **Sale corriendo hacia los dos** ¡FUERA DE MI NAVIO! **Que Jacky no es de la tripulacion 🤣 **",
+      "mensaje_sha256": "ba1cc690fd062bd0f8f0ddfea4db147031099c53b5099cf98a2f707776a912e9",
+      "tipo_discord": 19,
+      "referencia": "1511496992445169865",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511498995330191450",
+      "texto_sha256": "fa9ba970c97d5ebdc72033eb8d865f39c1a77b0add83763b637be8a5a37a8408",
+      "adjuntos": []
+    },
+    {
+      "id": "1511502128982655196",
+      "fecha_utc": "2026-06-02T22:49:49.901000+00:00",
+      "fecha_local": "2026-06-03",
+      "editado_utc": "2026-06-02T22:53:22.004000+00:00",
+      "texto": "Nox:**abre mucho los ojos y espera hasta el último momento para girar sobre si mismo y empujar a Jacky para que el reciba el golpe , corre hasta la barandilla de estrivor y agarra uno de los cabos para impulsarse hacia la costa , no llega del todo y cae en la orilla del agua empapandose . \n\nAl salir los piratas de Shiaru se burlan y rien ** \n\n*esto es lo mejor capitana ... \nAsi estarás mas segura .. últimamete todo lo que esta a mi alrededor acaba mal.*\n\n**Nox no se detiene al salir de la orilla . Se escurre la ropa y  continúa caminando como si todo hubiera salido exactamente según lo planeado.**\nBien...\n\n*Primer paso hecho*\n\n**Mira hacia el horizonte donde se encuentra su próximo destino.**\n*Segundo paso: recoger la piedra ...*\n**Una sonrisa astuta aparece en la comisura de sus labios**\n*Y después... poner rumbo al Fuerte Aurora.*\n**Sus ojos se entrecierran**\n*Veamos cuánto interés tiene realmente ese almirante...*\n\n**saca la brújula y abandona Shiaru**",
+      "mensaje_sha256": "5790e5eb901cd61b056febcf3fd4f3eb5e832d4020e56761f623537504a355cb",
+      "tipo_discord": 19,
+      "referencia": "1511498995330191450",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511502128982655196",
+      "texto_sha256": "7a3f87b718b866737ffbc6cd825e978283e60fee227d93f22848c3afeb4257c2",
+      "adjuntos": []
+    },
+    {
+      "id": "1511502593673793568",
+      "fecha_utc": "2026-06-02T22:51:40.692000+00:00",
+      "fecha_local": "2026-06-03",
+      "editado_utc": null,
+      "texto": "Ione: **Manda al pobre muchacho al mar** ¡Y NO VOLVAIS!",
+      "mensaje_sha256": "8508752bc23583d6fe7a1bde00077120808e37b3911eaa89d6bd43eb21e281b0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511502593673793568",
+      "texto_sha256": "ffc5f85fc9bc6bf526a4d2a54e8b35dfc6f13b30d8d7ac94fb9080d2f9ac8648",
+      "adjuntos": []
+    },
+    {
+      "id": "1511503226527289395",
+      "fecha_utc": "2026-06-02T22:54:11.576000+00:00",
+      "fecha_local": "2026-06-03",
+      "editado_utc": null,
+      "texto": "💔 🔴 FIN DE LA ESCENA 🔴 💔",
+      "mensaje_sha256": "08833494305f7064b75982e893ccb9a1f41343222c4e8aeb561df07a79f7f58a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511503226527289395",
+      "texto_sha256": "135d3f1cf96632ecf841d0b08b981d7406f780ddaba2906a00af104453c0675a",
+      "adjuntos": []
+    }
+  ]
+}

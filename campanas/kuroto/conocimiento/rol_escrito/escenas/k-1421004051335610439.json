@@ -1,0 +1,180 @@
+{
+  "id": "k-1421004051335610439",
+  "campana": "kuroto",
+  "unidad_revision": "k-1421004051335610439",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "La chispa en el corazón de Jhin",
+  "resumen": "Tras tocar una esfera de fuego, Jhin sufre una manifestación de calor que termina absorbida en su pecho.",
+  "relato": "Hayate, Banzo, Seraphina y Jhin vuelven a Sho después de combatir a los demonios que atacaron los barrios bajos. El guerrero humano siente ardor en la mano con la que había tocado una esfera de fuego. Sus dedos y la palma se envuelven en llamas, pero él no siente dolor: el calor le resulta reconfortante. Para los demás, en cambio, la temperatura se vuelve sofocante. Antes de que pueda comprenderlo, su cuerpo absorbe las llamas y unas líneas incandescentes recorren sus venas hacia el corazón.\n\nJhin se lleva la mano al pecho, sobresaltado. Hayate intenta analizar la energía y le pide mantener el control, pero lo único que se observa es el avance de las líneas rojas hasta apagarse. Sera se seca el sudor y recuerda en privado una conversación sobre las esferas y la identidad de una persona encarcelada, sin aclarar ese recuerdo ante el grupo. La manifestación termina sin diagnóstico, explicación del vínculo ni capacidad nueva demostrada a voluntad.",
+  "participantes": [
+    "Jhin",
+    "Hayate",
+    "Banzo",
+    "Seraphina"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1421004051335610439",
+      "afirmacion": "Las llamas nacidas de la mano de Jhin se absorben hacia el corazón tras su contacto previo con la esfera.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1421042561086128199",
+      "afirmacion": "El fenómeno sigue siendo desconocido para Jhin.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1421059107561013348",
+      "afirmacion": "Hayate intenta analizar la energía y pide calma al guerrero.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1421060556780998687",
+      "afirmacion": "Las líneas rojas alcanzan el pecho y se apagan.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1421151366050742302",
+      "afirmacion": "Seraphina reflexiona en privado sobre las esferas y una persona encerrada.",
+      "tipo": "pensamiento"
+    }
+  ],
+  "notas": [
+    "La manifestación está narrada de forma explícita, pero no demuestra dominio voluntario de un elemento ni inmunidades generales.",
+    "El intento de Hayate de detectar malignidad no recibe resultado afirmativo ni negativo.",
+    "El pensamiento de Sera no identifica de manera suficiente a la persona ni resuelve la cuestión de la prisión."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-09-26T05:22:46.817000+00:00",
+  "fin_utc": "2025-09-28T12:56:23.764000+00:00",
+  "fecha_local": "2025-09-26",
+  "intervalo": {
+    "anterior": 159,
+    "siguiente": 160,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1420832479270408274",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1423373613540573317",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 159,
+        "fecha": "2025-09-25",
+        "inicio_referencia_utc": "2025-09-25T18:00:44+00:00",
+        "fin_estimado_utc": "2025-09-25T20:59:58+00:00",
+        "duracion_video_segundos": 10754,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1420832479270408274"
+      },
+      {
+        "capitulo": 160,
+        "fecha": "2025-10-02",
+        "inicio_referencia_utc": "2025-10-02T18:18:19+00:00",
+        "fin_estimado_utc": "2025-10-02T21:07:14+00:00",
+        "duracion_video_segundos": 10135,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1423373613540573317"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1421004051335610439",
+      "fecha_utc": "2025-09-26T05:22:46.817000+00:00",
+      "fecha_local": "2025-09-26",
+      "editado_utc": "2025-09-26T05:23:52.084000+00:00",
+      "texto": "**Mientras Hayate <@694971576340447292> , Banzo <@616683133374562304> , Seraphina <@408026114548695061>  y Jhin <@171702246952665098>  regresáis a la base de los Cazadores tras el combate contra los demonios que asolaron los barrios bajos, el guerrero humano siente un leve ardor en la mano con la que tocó aquella extraña esfera de fuego. El escozor se intensifica hasta que, de pronto, su mano estalla en llamas. El fuego envuelve los dedos y la palma de Jhin, pero no hay dolor: al contrario, el calor resulta reconfortante. **\n**Sin embargo, para sus compañeros la experiencia es muy distinta. El aire se vuelve sofocante, y pronto empiezan a sudar bajo la intensa oleada de calor que emana de su mano.**\n**Antes de que Jhin pueda reaccionar, las llamas que envuelven su mano comienzan a ser absorbidas por su propio cuerpo. Sus venas se iluminan con un resplandor rojo e incandescente, como si el fuego recorriera cada fibra de su ser hasta llegar a su corazón. Es como si la esfera hubiera dejado en él una chispa ardiente… y ahora su corazón la reclamara como propia.**",
+      "mensaje_sha256": "be41c3e8a3609c7fad1091b10dbeca47840b30572adce21fa94aa5595b3692d0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1421004051335610439",
+      "texto_sha256": "b334ee89703adf24365c3bfb3dc6fbbefab54038e7eaf25263b175259ca9f5ae",
+      "adjuntos": []
+    },
+    {
+      "id": "1421037536406536233",
+      "fecha_utc": "2025-09-26T07:35:50.280000+00:00",
+      "fecha_local": "2025-09-26",
+      "editado_utc": null,
+      "texto": "jhin: \n**sorprendido por lo que estaba pasando se sobresalta hasta que nota esa calor proveniente de su corazon con una mano en el pecho intenta analizar lo que estaba pasando**",
+      "mensaje_sha256": "f03c524770cd22d2c1700c2c7d11c22980827649c6c0a5ba46426caafc6e1d16",
+      "tipo_discord": 19,
+      "referencia": "1421004051335610439",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1421037536406536233",
+      "texto_sha256": "beff72e44a78aba1e14ee3d422a56a3eafe610cf065a26f7773d5114e7805ab2",
+      "adjuntos": []
+    },
+    {
+      "id": "1421042561086128199",
+      "fecha_utc": "2025-09-26T07:55:48.257000+00:00",
+      "fecha_local": "2025-09-26",
+      "editado_utc": "2025-09-26T07:56:11.529000+00:00",
+      "texto": "**Notas como si todo ese fuego entrara por tus venas hasta tu corazón. Colocándote la mano en el pecho no va a servir para saber que le ocurre a tu cuerpo y menos con algo totalmente desconocido para ti como son esas esferas y ese poder que tienen**",
+      "mensaje_sha256": "45a30d85548e3b1787e9eb40fe0a5aef80a4e8d538680cb5ffd0f09cd1fdee95",
+      "tipo_discord": 19,
+      "referencia": "1421037536406536233",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1421042561086128199",
+      "texto_sha256": "a91c3082546a4cc44ac95f2b8b9622e3d5a979b86370232bb97ac8ff981e9aca",
+      "adjuntos": []
+    },
+    {
+      "id": "1421059107561013348",
+      "fecha_utc": "2025-09-26T09:01:33.244000+00:00",
+      "fecha_local": "2025-09-26",
+      "editado_utc": null,
+      "texto": "Hayate: Tranquilo <@171702246952665098>  Jin, trata de no perder el control**Acto seguido intenta analizar la naturaleza de  la energía que emana de Jin para saber si se trata de energía elemental o si hay rastro de malignidad**",
+      "mensaje_sha256": "7e95601ca68a9adb92736669725b9d91d551b0b0becdffebeccf479df0698131",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1421059107561013348",
+      "texto_sha256": "9c5eb278a5e72feaa62e4c15848eb247cf45d688f7cd1226948b1d9af71ddea3",
+      "adjuntos": []
+    },
+    {
+      "id": "1421060556780998687",
+      "fecha_utc": "2025-09-26T09:07:18.765000+00:00",
+      "fecha_local": "2025-09-26",
+      "editado_utc": null,
+      "texto": "**A simple vista ves como esas líneas rojas en sus venas, se mueven en dirección a su pecho (corazón) hasta apagarse**",
+      "mensaje_sha256": "2e4a677ba3f307e59ce02533513f9dd1447c65b28a21398fdd23670838c1fc6b",
+      "tipo_discord": 19,
+      "referencia": "1421059107561013348",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1421060556780998687",
+      "texto_sha256": "471857f0fdba8637c5909b435e29839828bd3bab492489b7203d64a79d139c11",
+      "adjuntos": []
+    },
+    {
+      "id": "1421151366050742302",
+      "fecha_utc": "2025-09-26T15:08:09.382000+00:00",
+      "fecha_local": "2025-09-26",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\nQ.. qué carajo fue eso?!\n\n**Me secaba algo del sudor con la manga de mi gabardina**\n\n*Entonces esas son las esferas que me había dicho... Pero qué significa que no era ella la que estaba ahí encerrada?*\n\n**Me quedé pensando por unos segundos**",
+      "mensaje_sha256": "ec62ad8228a3cef9d2630a94fead9fa6d8a15a2c04c6bc200a646d48f4b8f255",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1421151366050742302",
+      "texto_sha256": "866ea38be5f52719a773d6fd64627b4cb9f4c5fe993caef1429b5502dcb958b5",
+      "adjuntos": []
+    },
+    {
+      "id": "1421842983216746587",
+      "fecha_utc": "2025-09-28T12:56:23.764000+00:00",
+      "fecha_local": "2025-09-28",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "7b14cf8818c2b68812de812fcce290d10831c81dce1124984a06ab43fa2bb3ba",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1421842983216746587",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

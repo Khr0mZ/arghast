@@ -1,0 +1,409 @@
+{
+  "id": "x-1497126880858607700",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1497126880858607700",
+  "hilo_id": "1482149664131383316",
+  "hilo_nombre": "Cuicapalli - La villa tranquila",
+  "titulo": "Leona invita a cazar a Guayacán",
+  "resumen": "Lo encuentra reparando su traje tras pelear con marines; intercambian desafíos y parten juntos a la selva.",
+  "relato": "Guayacán remienda con angustia el traje emplumado roto y ensangrentado. Leona lo ve desde los edificios y le pregunta qué necesita curar. La brecha en el pico deja ver dientes humanos, pero él insiste en ser un arakocra formidable y llama maldición a lo que revela el disfraz. Dice que unos marines lo dañaron y que se han encargado de ellos, aunque podrían volver. No se representa ese combate.\n\nLeona, entusiasmada por la posibilidad de luchar, quiere saber dónde están. Ambos comparan fuerza, músculos, hacha y presas de lucha entre carcajadas y amenazas competitivas. Ella se presenta como Leona Longhop y él reconoce en ella a una oponente digna. Sus afirmaciones sobre detener balas o vencer a cualquiera son fanfarronadas, sin demostración universal.\n\nGuayacán acaba admitiendo que la tarea y el entrenamiento lo han dejado torpe, aunque le cuesta reconocer el cansancio. Leona le propone salir a cazar para comprobar mutuamente sus habilidades. Él acepta su mano pese al dolor y ambos se internan en el bosque. La cacería no se desarrolla aquí.",
+  "participantes": [
+    "Guayacán",
+    "Leona Longhop"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1497209241407193230",
+      "afirmacion": "La rotura del pico deja ver dientes humanos tras el traje.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1497211210574073927",
+      "afirmacion": "Guayacán atribuye las heridas a marines y se presenta como Guayacán Epinayú.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1497215460184162325",
+      "afirmacion": "Leona declara su nombre Longhop y acepta la rivalidad de fuerza.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1497220934677823582",
+      "afirmacion": "Invita a Guayacán a cazar juntos para observar sus habilidades.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1497221833458581574",
+      "afirmacion": "Ambos salen hacia el bosque.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Retrato de Leona inspeccionado.",
+    "La especie que afirma Guayacán entra en tensión con los rasgos humanos observados; la revelación nominal completa llegará después.",
+    "No convertir la rivalidad en victoria de ninguno ni el relato del combate pasado en una escena nueva."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-04-24T06:47:43.669000+00:00",
+  "fin_utc": "2026-04-24T13:06:05.725000+00:00",
+  "fecha_local": "2026-04-24",
+  "intervalo": {
+    "anterior": 27,
+    "siguiente": 28,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1496936435889213451",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1499123028947370107",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 27,
+        "fecha": "2026-04-23",
+        "inicio_referencia_utc": "2026-04-23T18:10:37+00:00",
+        "fin_estimado_utc": "2026-04-23T21:02:18+00:00",
+        "duracion_video_segundos": 10301,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1496936435889213451"
+      },
+      {
+        "capitulo": 28,
+        "fecha": "2026-04-29",
+        "inicio_referencia_utc": "2026-04-29T18:59:27+00:00",
+        "fin_estimado_utc": "2026-04-29T21:04:36+00:00",
+        "duracion_video_segundos": 7509,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1499123028947370107"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1497126880858607700",
+      "fecha_utc": "2026-04-24T06:47:43.669000+00:00",
+      "fecha_local": "2026-04-24",
+      "editado_utc": "2026-04-24T06:51:45.997000+00:00",
+      "texto": "**Guayacan:** \n***tras tantas frustraciones (mas que nada provocadas por un taburete que no se inmuta con nada), revisa su cuerpo, notando las heridas abiertas, la piel en carne viva, la sangre brotar y su bello plumaje manchado por algo que no es suyo, que no le pertenece***\n\n-No...no! NO NO NO! \n\n***toma de modo nervioso sus herramientas de peletero, cociendo con torpeza y ansia cada descocido de su identidad, de su mas preciado tesoro***\n\n-NO! DE-DE-DE-BO...DEBO...CURAR-...CURARME! SI! SI!",
+      "mensaje_sha256": "a510410d13ff79eb67d92d4e002c3555063d2279d4529017fbd9ea6ec6cefffe",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1497126880858607700",
+      "texto_sha256": "8a828686b449031ce6e0502525e73bc3615bad3d4aec3a0d120a970c049f6607",
+      "adjuntos": []
+    },
+    {
+      "id": "1497205611597926410",
+      "fecha_utc": "2026-04-24T12:00:34.540000+00:00",
+      "fecha_local": "2026-04-24",
+      "editado_utc": null,
+      "texto": "Leona:\n**Una sombra moviéndose pasa por encima varias hasta que se para saltando en uno de los edificios cercanos de rodillas como si se preparara para saltar**\nQue debes curar?",
+      "mensaje_sha256": "c986d1e073433ea68cb161032ae1ef5ca137735c6044ac8fe1ab588e51920242",
+      "tipo_discord": 19,
+      "referencia": "1497126880858607700",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1497205611597926410",
+      "texto_sha256": "79704aab3170b48439414062276d2f343f17de6fc3c5322ad0c8a0b3772be52c",
+      "adjuntos": []
+    },
+    {
+      "id": "1497207925498970294",
+      "fecha_utc": "2026-04-24T12:09:46.217000+00:00",
+      "fecha_local": "2026-04-24",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "341fd1bc6166453b4f8576e019fdf46b3bfaa9db91ed00fc79a09ca39fe31685",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1497207925498970294",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1497207925142323220",
+          "nombre": "ChatGPT_Image_26_feb_2026_23_57_50.png",
+          "tipo": "image/png",
+          "archivo": "adjuntos/1497207925142323220.png",
+          "url": "rol_escrito/adjuntos/1497207925142323220.png",
+          "bytes": 1613932,
+          "sha256": "d146886d2ae1fbe3b46cf3513f9156848bfca6adc117d15578f57322477ef661"
+        }
+      ]
+    },
+    {
+      "id": "1497208555759997079",
+      "fecha_utc": "2026-04-24T12:12:16.483000+00:00",
+      "fecha_local": "2026-04-24",
+      "editado_utc": null,
+      "texto": "Guayacan: \n**deja escapar un ligero quejido, volteando a ver a la chica**\n-...!!! Mmmmh...\n**ve su cuerpo, sin poder evitar tener la mirada doble a causa de los nervios**\n-Mi bello plumaje! Mi hermoso plumaje! Maldita suerte la mia! \n**continua cosiendo el traje, haciendo puntadas maltrechas y desprolijas, al igual que con cada puntada sus plumas continuan manchandose de sangre, al tener sus manos aun mugrientas de la sangre de sus enemigos**",
+      "mensaje_sha256": "18b5d0cf6f89e4de266aa51f8b0ad4673e5cda4f9bf174c6f42073919f7aaeca",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1497208555759997079",
+      "texto_sha256": "3fab04f090b7540873550d56b73ef4c850a296603da4ce4066878080586c09d2",
+      "adjuntos": []
+    },
+    {
+      "id": "1497209241407193230",
+      "fecha_utc": "2026-04-24T12:14:59.954000+00:00",
+      "fecha_local": "2026-04-24",
+      "editado_utc": null,
+      "texto": "-Esos malnacidos me las pagaran! Nadie se atreve a poner una mano en un Epinayú sin sufrir las consecuencias! \n**asiento frenetico, histerico con lo que sus ojos observan**\n-Si si...si...si!! ME LAS PAGARAN! **ESOS MALDITOS NO LA VAN A CONTAR!**\n***se puede apreciar una ligera sonrisilla maniatica por la brecha de su pico destruido (concretamente en la zona inferior derecha del pico), revelandose dientes humanos detras de ese traje finamente elaborado***",
+      "mensaje_sha256": "93826180c2c451025f13be3dc7aa4a6a0d538e15603309a893899f268a2c5d6b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1497209241407193230",
+      "texto_sha256": "3e0a9405c8cc5094891cad6f2db4fc31e575910b3626b9aac95942ca84f1c184",
+      "adjuntos": []
+    },
+    {
+      "id": "1497209912340774934",
+      "fecha_utc": "2026-04-24T12:17:39.917000+00:00",
+      "fecha_local": "2026-04-24",
+      "editado_utc": null,
+      "texto": "Leona:\nEntonces no eres un pájaro?\n**Se fija en la sangre que tiene en las plumas**\nHabéis tenido una fiesta y no me invitas?\nA quien habéis matado a una serpiente un lobo o quizá alguno de los lagartos grandes \n**Se le ve emocionada cada vez que habla del combate**",
+      "mensaje_sha256": "b3852e70a592565eff4f0fd7299f542030739b9df4df57c8b91c174132bbc274",
+      "tipo_discord": 19,
+      "referencia": "1497208555759997079",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1497209912340774934",
+      "texto_sha256": "9532e90ec7c0bf1b874bf621794965e16863d5ff849776da9195f992c02b9ae7",
+      "adjuntos": []
+    },
+    {
+      "id": "1497211210574073927",
+      "fecha_utc": "2026-04-24T12:22:49.440000+00:00",
+      "fecha_local": "2026-04-24",
+      "editado_utc": null,
+      "texto": "Guayacan: \n-Unos hombres trajeados, marines dicen..! pfft! UNOS GRANUJAS SIN VALOR! \n**ve a la chica, viendole con una seriedad que muestra el fervor en cada palabra enunciada**\n-**LO SOY MUJER! SOY EL MAGNIFICO GUAYACÁN EPINAYÚ! GUERRERO MARCIAL DE LA FINA LUCHA LIBRE DE LOS EPINAYÚ!**\n**ve las aperturas que le quedan, riendo de los nervios**\n-Esta....eEs-..Es-..Es-..Esta es...s-s-solo una maldicion! SI! SI SI! una maldicion! \n**ve a la mujer**\n-Porque claramente soy una Arakocra formidable! EL MEJOR DE ENTRE LOS MEJORES!",
+      "mensaje_sha256": "dbc2997d4de725a74f3acca0da70a561df848fa030ae6366f8a489faad52adb8",
+      "tipo_discord": 19,
+      "referencia": "1497209912340774934",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1497211210574073927",
+      "texto_sha256": "e34501b2bc33558435ecfd2deb694da2ca6d67725229236faeaa0d2b11aaa96a",
+      "adjuntos": []
+    },
+    {
+      "id": "1497211608651399178",
+      "fecha_utc": "2026-04-24T12:24:24.349000+00:00",
+      "fecha_local": "2026-04-24",
+      "editado_utc": null,
+      "texto": "-Solo...hay que...m..m-m-m-mudar las plumas! si..si..SI SI! MUDARLAS! Unas nuevas y mas fuertes saldran! claro...\n***deja escapar una sonrisilla mal rollera, se nota que este muy bien de la cabeza no esta***\n-Hay...que...dejarlo todo...como nuevo....",
+      "mensaje_sha256": "61a927c0598d7722c3385c53a2149f4a860ada71449abb86d75b92b10d833ae1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1497211608651399178",
+      "texto_sha256": "cc3c9272f3f570ad998e712aebc78b9c15f75ad5ff5ec946d72d7d57f8f3fdc7",
+      "adjuntos": []
+    },
+    {
+      "id": "1497212348434354248",
+      "fecha_utc": "2026-04-24T12:27:20.727000+00:00",
+      "fecha_local": "2026-04-24",
+      "editado_utc": null,
+      "texto": "Leona:\nUhh hombres trajeados.\n**Se le ve una sonrisa macabra dibujarse en su rostro**\nY eran fuertes?\nY lo más importante \n¿Donde están?\nNecesito salir a cazar\n**Se que un rato \"pensando\"**\nUn aracroka?\n¿Que es eso?",
+      "mensaje_sha256": "1cfeb75e7ac483a2d8c7357c641f6ad55eabb0174b4f465d4d930264eacb56c6",
+      "tipo_discord": 19,
+      "referencia": "1497211210574073927",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1497212348434354248",
+      "texto_sha256": "9dbcbbe5dde84cc6c0dd96b7ea0e0665f69a33aabf70f7b60a5bf98ff96aa941",
+      "adjuntos": []
+    },
+    {
+      "id": "1497213215367761950",
+      "fecha_utc": "2026-04-24T12:30:47.420000+00:00",
+      "fecha_local": "2026-04-24",
+      "editado_utc": null,
+      "texto": "Guayacan: \n-Aves humanoides, aves pensantes y con una fuerza e agilidad sin igual..\n**continua haciendo puntadas sin mucha gracia, notandose que sus cocidos, bien sea por el cansancio o por el combate, no son los mas prolijos**\n-Nos hemos encargado de ellos...PERO PODRIAN REGRESAR! y...cuando los vean...desearan no haber pisado estas tierras! no lo olvidaran! no olvadaran mi nombre! \n**ve a la mujer**\n-Mencionaron el nombre de un tal capitan...uno por encima del que moli a golpes..\n**tensa los dientes**\n-Piratas o soldados me son igual! Nadie toca a los Epinayu sin un merecido castigo! nadie!",
+      "mensaje_sha256": "fbbb54df3464eeb71528e686d3c261322c76e190297f13f1e2858a949aa00ab6",
+      "tipo_discord": 19,
+      "referencia": "1497212348434354248",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1497213215367761950",
+      "texto_sha256": "b8024ce1e85787fc2c8fe50d933c4c85b4c086949c183e7ca1ddf4fcbcbff16d",
+      "adjuntos": []
+    },
+    {
+      "id": "1497214148650602496",
+      "fecha_utc": "2026-04-24T12:34:29.932000+00:00",
+      "fecha_local": "2026-04-24",
+      "editado_utc": null,
+      "texto": "Leona:\nAves?\nSaben volar?\nPor qué yo salgo mucho pero volar todavía no puedo.\n**Salta y se un salto se pone delante tuyo mirándote a la cara a escasos centímetros**\nPero la más fuerte soy yo y cuando vuelvan los sacaré a patadas yo misma",
+      "mensaje_sha256": "a1105a7853b6f1049c86f15361d3bbc3db5186363e56340aac177936a35c00de",
+      "tipo_discord": 19,
+      "referencia": "1497213215367761950",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1497214148650602496",
+      "texto_sha256": "a109331555895e4bc876dbd2eaec691601d80aee9c619b021ce5357a749c7b1e",
+      "adjuntos": []
+    },
+    {
+      "id": "1497214697961947256",
+      "fecha_utc": "2026-04-24T12:36:40.898000+00:00",
+      "fecha_local": "2026-04-24",
+      "editado_utc": null,
+      "texto": "Guayacan: \n**la observa fijamente, sin inmutarse de su marcada musculatura**\n-JA! Eso esta por verse..! \n**le sonrie con decision**\n-Tu...cuando este...sanado por completo...te demostrare..la gran fuerza de los Epinayu! Si! QUE MAS SEPAN DE LA GLORIA DE MI ESTIRPE! \n**alza la cabeza, riendo con la fuerza de sus pulmones, llenandose en ese extasis que implica poder mostrarle a otros quien manda**",
+      "mensaje_sha256": "c12ef3bfb668eac91d3fcb4d7ec2c30d524b2a8d539502ad9a6c4c717001a49a",
+      "tipo_discord": 19,
+      "referencia": "1497214148650602496",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1497214697961947256",
+      "texto_sha256": "f4741cfb34c0503ad72faadb5e684369a80241de67e11e5ecde95e37c8d8e853",
+      "adjuntos": []
+    },
+    {
+      "id": "1497215460184162325",
+      "fecha_utc": "2026-04-24T12:39:42.626000+00:00",
+      "fecha_local": "2026-04-24",
+      "editado_utc": null,
+      "texto": "Leona:\nEso me gustaría verlo pequeño y ver lo equivocado que estás **se pone a reírse y ambas risas resuenan por el pueblo**\nYo leona longhop soy la más fuerte",
+      "mensaje_sha256": "bcca28efac1fc201c16ee3570dee917e7e0fac01d8e34c2ef3ff632feb3bf942",
+      "tipo_discord": 19,
+      "referencia": "1497214697961947256",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1497215460184162325",
+      "texto_sha256": "eaeb7b07f6dbb0daa8d17765747e502dd968757554eba610709f00ce8ebaf04a",
+      "adjuntos": []
+    },
+    {
+      "id": "1497216460223680583",
+      "fecha_utc": "2026-04-24T12:43:41.054000+00:00",
+      "fecha_local": "2026-04-24",
+      "editado_utc": null,
+      "texto": "Guayacan: \n-La fuerza no se mide en su grandeza! sino en el poder de sus puños! \n**se levanta con torpeza, soltando sus herramientas de peletero, dejando revelar sus humildes 1.68 centimetros de altura**\n-Puedo hacer caer a la montaña mas espinada y robusta ante mi!! \n**hace un flexeo pobre de sus musculos, la lucha es lo que le mantiene vigoroso**",
+      "mensaje_sha256": "5a2038585e2ba385951d61781d5cb8bd9738fbe69f89bfc980cd692b19fef92f",
+      "tipo_discord": 19,
+      "referencia": "1497215460184162325",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1497216460223680583",
+      "texto_sha256": "0ef1f7a104679916fabe387f2657f7b3081d1dbcf69ef028b4bd545b73a145d7",
+      "adjuntos": []
+    },
+    {
+      "id": "1497217015411118241",
+      "fecha_utc": "2026-04-24T12:45:53.421000+00:00",
+      "fecha_local": "2026-04-24",
+      "editado_utc": null,
+      "texto": "Leona:\nEstá bien tus puños pero **deja caer su gran hacha golpeando el suelo**\nCon esto puedes cortar\n**Lo imita haciendo poses enseñando sus músculos tonificados**",
+      "mensaje_sha256": "b802beed169515849c594e9087b246fdb7ab9173078badee8d8dad937262f38e",
+      "tipo_discord": 19,
+      "referencia": "1497216460223680583",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1497217015411118241",
+      "texto_sha256": "a169b41231854d4e32f100d2a99942d9e65c73b3a9d8c0b7789bc17e9dcb8d68",
+      "adjuntos": []
+    },
+    {
+      "id": "1497217528815026227",
+      "fecha_utc": "2026-04-24T12:47:55.826000+00:00",
+      "fecha_local": "2026-04-24",
+      "editado_utc": null,
+      "texto": "Guayacan: \n-***JA!!!***\n**le ve con aire desafiante**\n-No si te tengo aprisionado en estos cañones! \n**besa sus brazos, esas si que son armas de verdad**\n-No habra dios que te rescate de esas cadenas!",
+      "mensaje_sha256": "0e8b1eac1a4e712b98d292e45001a80cfa1df91361a2908fea287e5f44908bf1",
+      "tipo_discord": 19,
+      "referencia": "1497217015411118241",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1497217528815026227",
+      "texto_sha256": "de0fa64da9f5a51acff434c6e1d06a52d94d770ae2d597bf990a69a7cc38a44a",
+      "adjuntos": []
+    },
+    {
+      "id": "1497217885926461522",
+      "fecha_utc": "2026-04-24T12:49:20.968000+00:00",
+      "fecha_local": "2026-04-24",
+      "editado_utc": null,
+      "texto": "Leona:\nNo si te doy con estás\n**Golpea sus muslos capaz de aplastar un coco**",
+      "mensaje_sha256": "42250e8ffc7004ce4a5be6955d392e5acba8def7ada209735d35ea6202ea5075",
+      "tipo_discord": 19,
+      "referencia": "1497217528815026227",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1497217885926461522",
+      "texto_sha256": "5d5a2d4d8860c5d6114a0e21858167c1509ec1d22a0a9e2f5316787c8c3e1c5f",
+      "adjuntos": []
+    },
+    {
+      "id": "1497218640108458076",
+      "fecha_utc": "2026-04-24T12:52:20.779000+00:00",
+      "fecha_local": "2026-04-24",
+      "editado_utc": "2026-04-24T12:52:30.687000+00:00",
+      "texto": "Guayacan: \n-De que te serviran esas piernas si estas bajo mi prision implacable! \n**deja escapar una sonrisilla altanera**\n-No solo son capaces de detener balas, sino que habre el cocico de las mas feroces bestias! \n***Truena los huesos de su cuerpo, buscando marcar mas los musculos en ese flexeo, si es que la biologia puede permitir tal hazaña***\n-Y quien me haga caer, tiene la muerte asegurada...\n**ve a la dama, viendo a alguien tana apasionado en la lucha como tu**\n-Incluso mujeres formidables como usted! Lady Leona, Bestia entre Bestias! Guerrera entre Guerreras de la madre tierra!",
+      "mensaje_sha256": "4208db10f6d80fba2db6dce30d81590dc81cdf34c27ecff3cc6d5cc0c9fe95a8",
+      "tipo_discord": 19,
+      "referencia": "1497217885926461522",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1497218640108458076",
+      "texto_sha256": "8974a2b49c47c3a6bb9960fb471054d7f38681b096f0bb2cb5e4e430b869f6d0",
+      "adjuntos": []
+    },
+    {
+      "id": "1497219378117345332",
+      "fecha_utc": "2026-04-24T12:55:16.734000+00:00",
+      "fecha_local": "2026-04-24",
+      "editado_utc": null,
+      "texto": "Leona:\nTienes mucha determinación lo reconozco pequeño pero no te equivoques.\nSoy capaz de aguantar todo lo que me echen. Aunque las dichosas serpientes son una molestia y esos lobos \n**Se le escucha gruñir al decirlo**\nY gracias por reconocer mi fuerza",
+      "mensaje_sha256": "89afe92615f886fb171d682ad70435fe48c89193baa19df7e90aaeb259c1a0a3",
+      "tipo_discord": 19,
+      "referencia": "1497218640108458076",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1497219378117345332",
+      "texto_sha256": "a9a975b0ca7d857a5e89a9f85e097b1bd1aceecd05fae8715c1171861d4b87cc",
+      "adjuntos": []
+    },
+    {
+      "id": "1497220209080139806",
+      "fecha_utc": "2026-04-24T12:58:34.851000+00:00",
+      "fecha_local": "2026-04-24",
+      "editado_utc": null,
+      "texto": "Guayacan: \n-Se distinguir un oponente digno de los....menos agraciados\n**deja escapar un resoplido, torciendo esos ojos de ave, aunque como que mucho no se mueven**\n-Quien es digno de un duelo, merece mi respeto! \n**se deja caer en el tronco, escapando un suspiro**\n-Lo que he admitir...es que aquella tarea me ha dejado hecho polvo...y mi arduo entrenamiento aunque haya rendido frutos, me ha dejado...torpe\n**muerde ligeramente la lengua ante esta ultima palabra, en su vida reconocera que esta cansado**",
+      "mensaje_sha256": "ac4e3bd83aed7a329f802fe77059a18ef81c361763f7d37d2f4d30e3ad93bcb1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1497220209080139806",
+      "texto_sha256": "7585596fbcaa0001912f608b40a263f2ec376e0c386e00d705e4aff97c61b195",
+      "adjuntos": []
+    },
+    {
+      "id": "1497220934677823582",
+      "fecha_utc": "2026-04-24T13:01:27.847000+00:00",
+      "fecha_local": "2026-04-24",
+      "editado_utc": null,
+      "texto": "Leona:\nMe alhagas pequeño.\nTe propongo una cosa\n¿Vienes a cazar a conmigo así puedo ver tus habilidades y tú las mías?\nAsí también te ejercitas \n**Te ofrece la mano**",
+      "mensaje_sha256": "9b8b2419a3b16da9fdecf3b7f82f33960bc966baa13a217ad43b6fe4ea983b5b",
+      "tipo_discord": 19,
+      "referencia": "1497220209080139806",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1497220934677823582",
+      "texto_sha256": "ad5d828fd97ba663516f456afcc179d0e39e1289c015eb654b797b93a1a7e4a2",
+      "adjuntos": []
+    },
+    {
+      "id": "1497221509742067742",
+      "fecha_utc": "2026-04-24T13:03:44.953000+00:00",
+      "fecha_local": "2026-04-24",
+      "editado_utc": null,
+      "texto": "Guayacan: \n**toma su mano, asintiendo con la cabeza**\n-De acuerdo! \n**deja escapar un ligero quejido, tratando de ser lo menos ruidoso posible**\n-Tsk...",
+      "mensaje_sha256": "0c423ab78a9d7dc01e8ae2a47ed905ccfac1b341f995823aa3580ce2bac2fd19",
+      "tipo_discord": 19,
+      "referencia": "1497220934677823582",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1497221509742067742",
+      "texto_sha256": "048fe2009a66641889acf3c76665d90f5fbbd48a4a87ed6e6b8bff0a7b8198cb",
+      "adjuntos": []
+    },
+    {
+      "id": "1497221833458581574",
+      "fecha_utc": "2026-04-24T13:05:02.133000+00:00",
+      "fecha_local": "2026-04-24",
+      "editado_utc": null,
+      "texto": "Leona:\n**Junto con el \"aracroka\" se dirige al bosque y se pierden en el**",
+      "mensaje_sha256": "751c14262ebe227c8da876d64685bc7a29f9a1fd497c3daf3eead47492f127ea",
+      "tipo_discord": 19,
+      "referencia": "1497221509742067742",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1497221833458581574",
+      "texto_sha256": "ccaca6102f77b9d40e167bb637f256e9a63129c674624693603fa3b97dd4176b",
+      "adjuntos": []
+    },
+    {
+      "id": "1497222100182765709",
+      "fecha_utc": "2026-04-24T13:06:05.725000+00:00",
+      "fecha_local": "2026-04-24",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "ca9b3d1197810326fd0ea83adc90fa8344227c2d564c87537e0a425b1446171a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1497222100182765709",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

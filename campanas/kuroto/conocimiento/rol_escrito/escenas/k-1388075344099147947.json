@@ -1,0 +1,277 @@
+{
+  "id": "k-1388075344099147947",
+  "campana": "kuroto",
+  "unidad_revision": "k-1388075344099147947",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "Jelbreg alcanza a Banzo para devolverlo a la lucha común",
+  "resumen": "El drow encuentra al goliat abatido y lo convence de convocar una reunión urgente sobre el futuro de los Cazadores y del gobierno de Kuroto.",
+  "relato": "Jelbreg alcanza a Banzo después de una larga carrera y le asegura que Kalista está en palacio tratando con nobles y consejeros. Se disculpa por unos sucesos previos que la conversación no reconstruye. El goliat le ofrece agua, pero está profundamente abatido y sostiene con una sonrisa vacía su resentimiento hacia el shogunato, los nobles y los intereses particulares de los Cazadores.\n\nLlega a fantasear con incendiar la isla y promete arrancar el corazón de aquello que considera responsable de su dolor. Jelbreg no respalda abandonar a la población. Le recuerda que quienes sufren los juegos de los poderosos son los indefensos y que pueden intentar cambiar las cosas. Le devuelve también el libro de las leyendas.\n\nBanzo acepta pensar en el futuro político del grupo: quieren impedir que desaparezcan los Cazadores, ganar la guerra y proteger a Kuroto. No eligen candidato al poder ni toman el control de ninguna institución. Acuerdan regresar a la base y convocar una reunión urgente, avisando de camino a quienes estén en el campamento. Jelbreg lo sigue preocupado por sus primeras palabras.",
+  "participantes": [
+    "Jelbreg",
+    "Banzo"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1388080146623238185",
+      "afirmacion": "Jelbreg informa de que Kalista negocia con nobles y consejeros en palacio.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1388088114597330996",
+      "afirmacion": "Jelbreg apela a la protección de la población para que Banzo no abandone la lucha.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1388093800659816479",
+      "afirmacion": "Banzo plantea conseguir poder para proteger al grupo y a Kuroto, sin elegir quién lo ejercerá.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1388096713692282941",
+      "afirmacion": "Ambos acuerdan volver a la base y convocar a los compañeros.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "La conversación alude a lo ocurrido con Rua sin narrarlo ni explicarlo; no se añade una muerte, transformación o identidad no demostrada aquí.",
+    "Las amenazas de Banzo son expresiones de su dolor; no se ejecuta un incendio ni una venganza.",
+    "Las propuestas políticas no se convierten en un cambio de gobierno consumado."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-27T08:35:51.226000+00:00",
+  "fin_utc": "2025-06-27T10:08:57.815000+00:00",
+  "fecha_local": "2025-06-27",
+  "intervalo": {
+    "anterior": 133,
+    "siguiente": 134,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387857477848141979",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1390030497551487016",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 133,
+        "fecha": "2025-06-26",
+        "inicio_referencia_utc": "2025-06-26T18:09:52+00:00",
+        "fin_estimado_utc": "2025-06-26T20:54:04+00:00",
+        "duracion_video_segundos": 9852,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387857477848141979"
+      },
+      {
+        "capitulo": 134,
+        "fecha": "2025-07-02",
+        "inicio_referencia_utc": "2025-07-02T18:04:40+00:00",
+        "fin_estimado_utc": "2025-07-02T20:03:03+00:00",
+        "duracion_video_segundos": 7103,
+        "tipo_referencia": "aviso_de_contraste",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1390030497551487016"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida. Una hora tomada de un aviso con título discrepante se utiliza solo como referencia aproximada de ese día."
+  },
+  "fuentes": [
+    {
+      "id": "1388075344099147947",
+      "fecha_utc": "2025-06-27T08:35:51.226000+00:00",
+      "fecha_local": "2025-06-27",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Despues de gastar gran parte de sus conjuros y otra gran parte de su aliento, el drow sigue el rastro que había encontrado hasta ver a una figura humanoide enorme avanzar lentamente** E-Ey... Uff ufff... B-Ba... Ufff ufff Banzo!\n<@616683133374562304>",
+      "mensaje_sha256": "f7fc34993cd493b40f25b2e6c1282360360944f6435efc20d4f6c57ecb43b650",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1388075344099147947",
+      "texto_sha256": "2f43c6b7a003e3a7f2b5b90bdcdfd5c20949e27d9ddc8eb97c8c9443407a2022",
+      "adjuntos": []
+    },
+    {
+      "id": "1388076253114011681",
+      "fecha_utc": "2025-06-27T08:39:27.952000+00:00",
+      "fecha_local": "2025-06-27",
+      "editado_utc": null,
+      "texto": "Banzo : **Se gira al escuchar a jelbreg ** \nJelbreg ... \n**se fija en que vienes a toda prisa **\nHa pasado algo ??? Y kalista \n**ya se teme la peor**",
+      "mensaje_sha256": "96e1eb3d24bcee2f8b112efc487e2f56ce67a51679b1f66b3b58a4a0ac3cda82",
+      "tipo_discord": 19,
+      "referencia": "1388075344099147947",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1388076253114011681",
+      "texto_sha256": "500d51d9a8a0fd086425d332620637d9b0d32c82e881f19e16c533fc0691c55e",
+      "adjuntos": []
+    },
+    {
+      "id": "1388080146623238185",
+      "fecha_utc": "2025-06-27T08:54:56.237000+00:00",
+      "fecha_local": "2025-06-27",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Llega jadeando de todo el camino corriendo a toda velocidad** E-eh, uff uff K-Kalista esta uff uff esta en palacio hablando con los nobles y consejeros uff uff **Va recuperando el aliento** P-Para que no se descontrole todo esto después de lo... **Hace una pausa y te mira** Lo siento, grandullón...siento lo que ha ocurrido...yo...",
+      "mensaje_sha256": "e592b208d02063e5cd5a6d9aaee5ea941d8b77d3200e99172322e45a72c15b57",
+      "tipo_discord": 19,
+      "referencia": "1388076253114011681",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1388080146623238185",
+      "texto_sha256": "5dfd9db6c589967d0ff5ebdb754c5ac1a55cdf4ac7254e09b92eb78da29a45aa",
+      "adjuntos": []
+    },
+    {
+      "id": "1388081450468773970",
+      "fecha_utc": "2025-06-27T09:00:07.098000+00:00",
+      "fecha_local": "2025-06-27",
+      "editado_utc": "2025-06-27T09:01:10.404000+00:00",
+      "texto": "Banzo : **Se tranquiliza un poco y saca una calabaza con agua para dársela a jelbreg y se sienta en una roca al lado del camino ** \nNo pasa nada . **dice sonrriendo**\n**te hace la peor de todas las sonrrisas que has visto nunca . Ches Farak de seguro es una de las cunas de risas falsas sin duda . Pero esta que acabas de ver es de las más vacía y rota que Jelbreg a visto . Por lo menos de alguien de la superficie \n\nSe coloca el yelmo porque las lágrimas no tardarán en aparecer **",
+      "mensaje_sha256": "5dfd28d0d07228d04c65a8c2a04433694304e66fa0bafb6460894ec56761e0c7",
+      "tipo_discord": 19,
+      "referencia": "1388080146623238185",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1388081450468773970",
+      "texto_sha256": "3363b97e5328e2de27389d4716907755d93089ea64f2d3d35527622cde83505b",
+      "adjuntos": []
+    },
+    {
+      "id": "1388082772543012985",
+      "fecha_utc": "2025-06-27T09:05:22.305000+00:00",
+      "fecha_local": "2025-06-27",
+      "editado_utc": "2025-06-27T09:06:07.720000+00:00",
+      "texto": "Jelbreg: **Coge la calabaza de agua y le da un largo trago. Ve la expresión del goliat y devia la mirada para que no veas su mueca de enfado mientras aprieta el puño** Debería haberme dado cuenta... Yo podría... **Se calla cuando te colocas el casco. Se acerca a ti para sentarse a tu lado mientras te coloca una mano en el brazo** ¿Que quieres que haga?",
+      "mensaje_sha256": "eb3bd09c7df0c114c4d432aa519ef1e209217ae1b56efb22e9e1807b5053d115",
+      "tipo_discord": 19,
+      "referencia": "1388081450468773970",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1388082772543012985",
+      "texto_sha256": "badab7bff3c8fe009a392b3ffbe930fb91cc9c83cb38b61e37dc8f3a6a2e00f3",
+      "adjuntos": []
+    },
+    {
+      "id": "1388084992868876309",
+      "fecha_utc": "2025-06-27T09:14:11.672000+00:00",
+      "fecha_local": "2025-06-27",
+      "editado_utc": null,
+      "texto": "Banzo : Le prendemos fuego a la isla y tu y kalista os vais lo más lejos posible . **dice en tono de resignación después de suspirar** \n\nEstaría bien ... **vuelve a suspirar y suelta un jeje falso y vacio**\n\nLe voy arrancar su corazón de demonio y me lo voy a comer jelbreg . **te dice en otro tono mucho más serio **\nAhora todos van a buscar ocupar el sitio que ha dejado Ru... que ha dejado esa cosa . \nEs todo una broma . El shogunato , ootakemaru , los guardianes y la historia de este estúpido goliat. Hay que acabar con todo . \nPorque solo una persona ha de ser válida para el trono? \n**se levanta de la roca ** \n\nQuien es más que nadie ? \nHipocritas nobles ... y cazadores con interéses propios \n**escupe al suelo **\nTodo la misma broma .",
+      "mensaje_sha256": "71b059f9a567c88a8b8ff2fb3a8da47055449969ecbc8986df394892c603056f",
+      "tipo_discord": 19,
+      "referencia": "1388082772543012985",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1388084992868876309",
+      "texto_sha256": "46e2ea8cc15259363829b3e329675a78d02003758cbf16f69b5c28b85daadce4",
+      "adjuntos": []
+    },
+    {
+      "id": "1388088114597330996",
+      "fecha_utc": "2025-06-27T09:26:35.950000+00:00",
+      "fecha_local": "2025-06-27",
+      "editado_utc": "2025-06-27T09:28:28.991000+00:00",
+      "texto": "Jelbreg: **El drow abre los ojos, se queda descolocado por tus palabras** Banzo... Escucha... Bajaré al Abismo contigo si hace falta, te ayudaré a arrancarle al corazón a esa cosa... **Ves que aprieta la mano que tiene en tu brazo** Pero...pero...lo que dices... **Suspira y saca el libro de las leyendas para entregártelo**...es cierto...es todo una broma... En Ches Farak es lo mismo...nobles y poderosos en busca de poder, apuñaladose entre hermanos para poder conseguir una mínima parte de poder...mentiras, traiciones...todo es igual, es una broma... **Se levanta para colocarse enfrente de ti** Pero no son los poderosos quienes sufren esa broma... Sino los que no tienen nada y viven bajo el mandato de los poderosos... ¡Banzo! ¡Mírame! ¿Vamos a dejar que cualquier noble obtenga el poder? Ya has visto lo que buscan... ¿Vas a dejar que la gente de esta isla sufra? ¿En mitad de un conflicto como este? ¡Y una mierda! Tu no eres así... ¡Banzo, tu eres mejor que eso!",
+      "mensaje_sha256": "e1216d7d869e4f929cef3fc2f01a1219cc8d705b2f7c8cff054d7b1e81489074",
+      "tipo_discord": 19,
+      "referencia": "1388084992868876309",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1388088114597330996",
+      "texto_sha256": "8bcdc04b5849318cff5888e545732ce5dca4e198155861ca6e94e8e34c82d514",
+      "adjuntos": []
+    },
+    {
+      "id": "1388090729666187324",
+      "fecha_utc": "2025-06-27T09:36:59.431000+00:00",
+      "fecha_local": "2025-06-27",
+      "editado_utc": null,
+      "texto": "Banzo : **recoge el libro y lo mira con una sonrrisa de medio lado falsa**\n*lo conservaré*\n**lo guarda mientras acabas tus palabras ** \nVoy entendiendo el juego . \nY si quieren jugar jugaremos sucio . \n**te mira **",
+      "mensaje_sha256": "7024819542e8bd507672d514fcdad130ed38b97e5bb25f785e4a11c3478c310a",
+      "tipo_discord": 19,
+      "referencia": "1388088114597330996",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1388090729666187324",
+      "texto_sha256": "ba9bc963947c74ff39fdf8d5e4bb69815c1ea6ff5e329f80218f084b995c31a4",
+      "adjuntos": []
+    },
+    {
+      "id": "1388091410359779438",
+      "fecha_utc": "2025-06-27T09:39:41.721000+00:00",
+      "fecha_local": "2025-06-27",
+      "editado_utc": null,
+      "texto": "Jelbreg: Jugaremos sucio si hace falta **Te sonríe** Ahora tenemos la oportunidad de cambiar las cosas",
+      "mensaje_sha256": "54407ada233cabeeff82baee451761e156642547f39acd12e242d5c8c02de485",
+      "tipo_discord": 19,
+      "referencia": "1388090729666187324",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1388091410359779438",
+      "texto_sha256": "49902332473b6888d3eb8cc9503eb07ed98be93150966cb003f287bbb98d9c8a",
+      "adjuntos": []
+    },
+    {
+      "id": "1388093800659816479",
+      "fecha_utc": "2025-06-27T09:49:11.613000+00:00",
+      "fecha_local": "2025-06-27",
+      "editado_utc": "2025-06-27T09:49:42.785000+00:00",
+      "texto": "Banzo: kalista puede convencer a algunos nobles , yo creo que puedo convencer algunos altos cargos militares . \nLa cuestión es , quien quiere asumir ese cargo que sea de los nuestros . \nDime . \nTu ? Kalista y ponerla en el foco de todo ? Gur , Wukong ,Yo ? \n**vuelve a reír sarcasticamente ** \nSi yo llegase a ese sitio lo primero que haría sería destruirlo . \n**resopla**\n\nKuroto debe ser gestionado , protegido y amado por todos y cada uno . Yokais,  aldeanos , militares , y cazadores . \n\nCreo que debemos llegar al poder como sea aunque solo sea para que no desaparezcan los cazadores , ganar esta guerra y salvar kuroto . Luego ... se verá.",
+      "mensaje_sha256": "4900144e7a32ce0f79e55757ee90b202a08059351b6317eb481177d1854a1ef8",
+      "tipo_discord": 19,
+      "referencia": "1388091410359779438",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1388093800659816479",
+      "texto_sha256": "becd062c813f5c9ff121a1022239bc2f3396dacd0caae1f3419acee5d1c2e501",
+      "adjuntos": []
+    },
+    {
+      "id": "1388095075476836473",
+      "fecha_utc": "2025-06-27T09:54:15.553000+00:00",
+      "fecha_local": "2025-06-27",
+      "editado_utc": null,
+      "texto": "Jelbreg: No lo se grandullón... Pero deberíamos elegir a alguien capacitado de los nuestros.... Alguien que pueda controlar la situación **Te mira** Sea quien sea, es uno nuestros y le protegeremos. Pero hay que hacer algo...",
+      "mensaje_sha256": "99271b95176dbf0f130f3ee43df65aae71754c77e32243442de9a3236322f763",
+      "tipo_discord": 19,
+      "referencia": "1388093800659816479",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1388095075476836473",
+      "texto_sha256": "fbe64c2caaf5e87038cdb8d4f0e4df49ab3948469670fdb70213e6bf2430d1a8",
+      "adjuntos": []
+    },
+    {
+      "id": "1388095694551650336",
+      "fecha_utc": "2025-06-27T09:56:43.152000+00:00",
+      "fecha_local": "2025-06-27",
+      "editado_utc": null,
+      "texto": "Banzo : me ayudas a convocar una reunión? \nLo necesitamos urgente creo .",
+      "mensaje_sha256": "365533d23adedd11d5c18e10172d84621bed3bec032d9bab0f7b8361026aaf31",
+      "tipo_discord": 19,
+      "referencia": "1388095075476836473",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1388095694551650336",
+      "texto_sha256": "01b143043f9f2c81c0dbea8c9487235ab2c03422fb09384a6cead6f2e27e9e53",
+      "adjuntos": []
+    },
+    {
+      "id": "1388096713692282941",
+      "fecha_utc": "2025-06-27T10:00:46.134000+00:00",
+      "fecha_local": "2025-06-27",
+      "editado_utc": null,
+      "texto": "Jelbreg: Claro, grandullón **Te tiende la mano para \"ayúdate\" a levantarte** Vamos, volvamos a la base. Demostremos a esos nobles quienes son los cazadores y luego le daremos una paliza a ese Ootakemaru y su ejército.",
+      "mensaje_sha256": "02e69f9dacc8e27752bea580d4daf84bc5b6ccc2ec0f0c16d71a47df650dc27c",
+      "tipo_discord": 19,
+      "referencia": "1388095694551650336",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1388096713692282941",
+      "texto_sha256": "1667054365a23c7337caae121eff90ef90541f014f6896cb4d7c85d0133ef765",
+      "adjuntos": []
+    },
+    {
+      "id": "1388097767175487548",
+      "fecha_utc": "2025-06-27T10:04:57.304000+00:00",
+      "fecha_local": "2025-06-27",
+      "editado_utc": null,
+      "texto": "Banzo : **te coge la mano y se levanta **\nBien ... \n**no notas entusiasmo**\nPasemos de camino por el campamento. Le diré algún oficial que avise a los cazadores que están allí para que acudan . <@694971576340447292> Phalathier Archi y compañía. \nY Gur ... Gur <@412279081170763776> ha de estar por algún lado . \n\nEn marcha? \n**empieza a caminar **",
+      "mensaje_sha256": "df30ca3b914e8a4d4367b7db6c37cbec56162bfbac0966099da49177364fa248",
+      "tipo_discord": 19,
+      "referencia": "1388096713692282941",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1388097767175487548",
+      "texto_sha256": "5a9e9e762a796ce3746dd0d75c984c8cafb6484d57841c67e309349591f4a31f",
+      "adjuntos": []
+    },
+    {
+      "id": "1388098775951868045",
+      "fecha_utc": "2025-06-27T10:08:57.815000+00:00",
+      "fecha_local": "2025-06-27",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Asiente. Durante todo el camino va por detrás tuyo observandote, parece preocupado por tus palabras al principio.**\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "c6089f90a2fec4c490e533fc57cf272580666c38b1fec6f02d1ba5807188b70d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1388098775951868045",
+      "texto_sha256": "d95c486e7ece26c6aa4c0cf5f8e151253336bf204a8277fef61621a792f1ce03",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "id": "k-1364168286438297622",
+  "campana": "kuroto",
+  "unidad_revision": "k-1364168286438297622",
+  "hilo_id": "1362071806441160834",
+  "hilo_nombre": "Base Ukyio - Sala principal",
+  "titulo": "Wukong propone compartir los recursos de su isla",
+  "resumen": "El inventario del Monte de los Melocotoneros busca aliviar la crisis, pero Inugami advierte de errores y de posibles consecuencias políticas.",
+  "relato": "Wukong vuelve con cálculos e inventarios del Monte de los Melocotoneros. Explica a Inugami, mientras ambos atienden al bebé, que su hogar produce frutos, madera y cultivos con abundancia y rapidez. La historia del origen de la isla en la unión de espíritus es tradición que le contaron de niño. Ha obtenido permiso del consejo de bestias para ofrecer excedentes al shogunato y aliviar la crisis de los pueblos, aunque no cree poder resolverla por completo.\n\nInugami se alarma al saber que la isla cercana mantiene autogobierno y que la capital apenas la conocía. Le advierte de posibles acusaciones por ocultar recursos, además de señalar que los números no cuadran. Son previsiones suyas, no una acusación oficial ya formulada.\n\nEl monje insiste en ayudar a Ukyio pese al riesgo y pide asistencia con las cuentas. El yokai se niega por estar ocupado sintonizando portales y le aconseja concentrarse en reparar la bendición y seguir el camino de Tang. Wukong termina brindando con té junto a un tanuki y rechaza el sake. La propuesta no se presenta todavía a Rúa ni sale cargamento alguno.",
+  "participantes": [
+    "Wukong",
+    "Inugami",
+    "Tanuki"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1364172528708354078",
+      "afirmacion": "Wukong plantea compartir excedentes del Monte para aliviar la crisis.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1364179945437397074",
+      "afirmacion": "Dice tener permiso del consejo de bestias para la propuesta.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1364180383314350090",
+      "afirmacion": "Inugami advierte del riesgo político y de errores en las cuentas.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1364184167205568604",
+      "afirmacion": "Inugami no se compromete a revisar los números y remite al camino de Tang.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "No imponer la interpretación de soberanía de Inugami como ley comprobada fuera del diálogo.",
+    "La explicación de fertilidad combina observaciones de Wukong y mito de origen atribuido.",
+    "Los documentos y rutas serán un objeto de seguimiento, sin publicación oficial en esta escena."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-04-22T09:17:44.508000+00:00",
+  "fin_utc": "2025-04-22T13:26:44.398000+00:00",
+  "fecha_local": "2025-04-22",
+  "intervalo": {
+    "anterior": 106,
+    "siguiente": 107,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1363944514846326895",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1364309009938645093",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 106,
+        "fecha": "2025-04-21",
+        "inicio_referencia_utc": "2025-04-21T18:28:19+00:00",
+        "fin_estimado_utc": "2025-04-21T20:39:25+00:00",
+        "duracion_video_segundos": 7866,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1363944514846326895"
+      },
+      {
+        "capitulo": 107,
+        "fecha": "2025-04-22",
+        "inicio_referencia_utc": "2025-04-22T18:36:39+00:00",
+        "fin_estimado_utc": "2025-04-22T20:27:04+00:00",
+        "duracion_video_segundos": 6625,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1364309009938645093"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida."
+  },
+  "fuentes": [
+    {
+      "id": "1364168286438297622",
+      "fecha_utc": "2025-04-22T09:17:44.508000+00:00",
+      "fecha_local": "2025-04-22",
+      "editado_utc": null,
+      "texto": "Wukong: **el portal de la base vibra mientras se ve como Sun Wukong sale de el leyendo en voz alta unas notas que tiene en la mano**\n\n- pues a ver, si esta cantidad está bien... Todo lo demás sería viable. Pero de la madera habría que buscar más de una zona... Hay especies que se molestarían...\n\n**Se queda parado frente al portal mirando fijamente los papeles pegando seguidamente un suspiro**\n\n- los números no son lo mio... Tendré que darle otra vuelta al tema antes de proponérselo a nadie...\n\n**El mono entra a la sala y busca con la mirada al Inugami**\n\n- ah, Inugami <@214405113677217793>. Disculpa que te haya engarbado con el bebé. Ya me encargo yo ahora. Alguna novedad?",
+      "mensaje_sha256": "9b6c56e4291a7b2f1a11e5ecf2cf00a69e8e8593017a12fba0172a4bad665a6e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1364168286438297622",
+      "texto_sha256": "68363bab39d0c8b8822b9dad24909d12d9ed9e16908bc32f7cdab723fe27929c",
+      "adjuntos": []
+    },
+    {
+      "id": "1364169976038166580",
+      "fecha_utc": "2025-04-22T09:24:27.340000+00:00",
+      "fecha_local": "2025-04-22",
+      "editado_utc": null,
+      "texto": "Inugami: **Mira a Sun Wukong mientras pelea con el bebe para ponerle bien el pañal** ¿A parte de que no para de cagar este niño? No, ninguna novedad... **Mira lo que lleva y sigue** ¿Que es eso que llevas ahí?",
+      "mensaje_sha256": "8e13fab3a1bfbf991e8e06321e7ba9e76387208b11a11ef4e3a0cd0a1101f759",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1364169976038166580",
+      "texto_sha256": "621cb7d7f7c5b4d6578862dbd813349b304e697fc581ae3a705555fc3ecd9120",
+      "adjuntos": []
+    },
+    {
+      "id": "1364172528708354078",
+      "fecha_utc": "2025-04-22T09:34:35.944000+00:00",
+      "fecha_local": "2025-04-22",
+      "editado_utc": null,
+      "texto": "Wukong: **ve el percal, sonríe a modo de \"nada nuevo bajo el sol\" y mira los papeles de nuevo tras la pregunta del Yokai**\n\n- esto? Pues... Como lo explico. **El mono se frota la barbilla** - básicamente una especie de números e inventario de recursos del Monte de los Melocotoneros.\n\n**El monje se guarda los papeles dentro de la túnica y se dirige a ayudar a Inugami con el bebé**\n\n- tanto en ukio como en hakara no para de hablarse crisis y de falta de recursos. Pues verás, en mi hogar tanto el clima como la tierra son diferentes. Siempre hace buen tiempo, la tierra es mucho más fértil que cualquier otra que haya visto... De pequeños nos contaron que un espiritu de la tierra tuvo un romance con un espíritu del mar, y de esa unión casi divina surgió el monte de donde vengo. Por eso los árboles crecen tan rápido, los frutos están presentes casi todo el año y lo que plantamos en el suelo brota casi en días.\n\n**Wukong para un momento y mira hacia arriba**\n\n- por eso pensé en hacer números y hablar con la asamblea de bestias que dejé allí para dirigir el monto tras mi marcha para ver si era viable destinar todos los recursos que nos sobran como madera, fruta, piedra, verduras... Al shogunato para que la distribuya entre las zonas afectadas por esa crisis... No seremos capaces de eliminar dicha crisis pero al menos intentar que sea menos dura... Tú que opinas colega? Tienes más cerebro que yo para estas cosas seguro.",
+      "mensaje_sha256": "c6978e27125a784f2b884a3c1eaeddb4529e03fc87bca0c4cbf6761147e2dce0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1364172528708354078",
+      "texto_sha256": "08cd43b3e040f148eda474c04b3d64aadbccca155fe7e606b69c9e5e5c2fcfe4",
+      "adjuntos": []
+    },
+    {
+      "id": "1364174615546429483",
+      "fecha_utc": "2025-04-22T09:42:53.485000+00:00",
+      "fecha_local": "2025-04-22",
+      "editado_utc": null,
+      "texto": "Inugami: Ummmm... **Se queda pensando un rato** ¿Y ese lugar al que llamas hogar esta en Kuroto?",
+      "mensaje_sha256": "38640636cecc23bf81108a3675e903b8f83d1b028c46ac8e94cf381dfda01c7a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1364174615546429483",
+      "texto_sha256": "3d108b294fbeb590b664b57e157bb5bbbbc3a913e93e84aacff63ce2b9bcf407",
+      "adjuntos": []
+    },
+    {
+      "id": "1364176353016156181",
+      "fecha_utc": "2025-04-22T09:49:47.730000+00:00",
+      "fecha_local": "2025-04-22",
+      "editado_utc": null,
+      "texto": "Wukong: \n\n- relativamente cerca. No debería considerarse parte de kuroto por qué ni el mismo shogunato sabía de la existencia de esa isla... Es más. Según nos contaban los ancianos, nunca han visto presencia humana en la isla. Además que siempre hemos tenido autogobierno. Pero claro... La política sabes?",
+      "mensaje_sha256": "93aad9dc77bbb3b8fc6396c0814c346ee1fe405c4c0098e2baa2c340bf94541a",
+      "tipo_discord": 19,
+      "referencia": "1364174615546429483",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1364176353016156181",
+      "texto_sha256": "a6e2d543570b0817d22cbf33b610f43f8e3f9f4804adec17a4b7fa26805dd263",
+      "adjuntos": []
+    },
+    {
+      "id": "1364177085903667262",
+      "fecha_utc": "2025-04-22T09:52:42.464000+00:00",
+      "fecha_local": "2025-04-22",
+      "editado_utc": null,
+      "texto": "Inugami: **Mira extrañado** ¿Autogobierno en una isla anexa a Kuroto? Como se entere el Shogunato te traerá problemas, su gobierno controla toda la isla y las islas cercanas. Si se dan cuenta que una de ellas con tantos recursos ha sido ocultada por otro gobierno...",
+      "mensaje_sha256": "75768891e27307493c0eabc935a1f1b0ee1110934f6732d09a3eb6b5dd11590e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1364177085903667262",
+      "texto_sha256": "c4c2285ab02e4f6f983d5ee2896fe07b49c758daa823ea92d9de62bd6fa3fae1",
+      "adjuntos": []
+    },
+    {
+      "id": "1364177991894302780",
+      "fecha_utc": "2025-04-22T09:56:18.469000+00:00",
+      "fecha_local": "2025-04-22",
+      "editado_utc": null,
+      "texto": "Wukong:\n\n- ves? Política? **Hace un facpalm** - hasta que no llegue a la capital nadie sabía de la existencia de la isla o el monte. Hemos estado siempre protegidos por la niebla marina... Que si, que tal y como son los humanos con su politiqueo y demás es posible que empiecen a buscarle tres pies al nekomata. Pero bueno, nuestras tradiciones han sido así desde el nacimiento de la isla... De todas formas les voy a proponer compartir recursos... Antaño fui el señor de esa isla y ahora soy un habitante más de kuroto. Creo que se lo debo",
+      "mensaje_sha256": "5c6c81b438cc4b60a3b2423fe8068b669ae8416301b1f9c4e405927030f1e8c5",
+      "tipo_discord": 19,
+      "referencia": "1364177085903667262",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1364177991894302780",
+      "texto_sha256": "7e1dfee42822ad45c9c62e917c1628fb6a52bf421ea3296e72b5b0beb9aa5abf",
+      "adjuntos": []
+    },
+    {
+      "id": "1364178687033081978",
+      "fecha_utc": "2025-04-22T09:59:04.203000+00:00",
+      "fecha_local": "2025-04-22",
+      "editado_utc": null,
+      "texto": "Inugami: **Te mira frunciendo el cejo** Como vayas al Shogunato y le enseñes que ha habido una isla con tantos recursos y tenias conocimiento de ella y no se lo has comentado, te vas a buscar mas problemas que los que tienes, muchacho... ¿Por que has ocultado algo así?",
+      "mensaje_sha256": "a27c8b878b2cba8f3bbd7db29cf81e43b238838eadbd6b0c8aac77cbb5705679",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1364178687033081978",
+      "texto_sha256": "6feb30c0fa171d11f4044c5f6779818e591f2d86d93697bbc0189cc75aeae602",
+      "adjuntos": []
+    },
+    {
+      "id": "1364179945437397074",
+      "fecha_utc": "2025-04-22T10:04:04.230000+00:00",
+      "fecha_local": "2025-04-22",
+      "editado_utc": null,
+      "texto": "Wukong: **mira extrañado al Yokai**\n\n- pues por qué hasta hace unos días no era conocedor de la crisis que estaban sufriendo los pueblos del país... Mientras ayudaba a los aldeanos de ukio me fueron contando lo de la falta de suministros y comida. Así que se me ocurrió ir al Monte a hablar con el consejo y pedirles ayuda en este asunto. Tengo el permiso, ahora solo necesito sacarle punta a la propuesta y hacérsela llegar a su majestad Rúa...",
+      "mensaje_sha256": "b16d5269cd391f476cf302059709b07b74e482d7a28611b175cb10a0c6e152ae",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1364179945437397074",
+      "texto_sha256": "11abe3bcd8bae3d1302bd993af652ba843f3dfeacf78065647d86f3f766ade2c",
+      "adjuntos": []
+    },
+    {
+      "id": "1364180383314350090",
+      "fecha_utc": "2025-04-22T10:05:48.628000+00:00",
+      "fecha_local": "2025-04-22",
+      "editado_utc": "2025-04-22T10:05:57.654000+00:00",
+      "texto": "Inugami: **Te devuelve los papeles** Tu mismo muchacho, yo solo te aviso que no les va a gustar que hayas ocultado algo tan importante durante tanto tiempo. No solo por la crisis... Además, deberías echarle un ojo a esos números, no cuadran... Se nota que no eres diestro en ello",
+      "mensaje_sha256": "b391a233d97edf8541517ca73bb9e0cfa5b4b2a83865b226370a9ebd4ceb4186",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1364180383314350090",
+      "texto_sha256": "64697d1271c4b10fbb55f1b01d910c5a4c25ac394c87593b449a4a203b2b78cf",
+      "adjuntos": []
+    },
+    {
+      "id": "1364182553422073906",
+      "fecha_utc": "2025-04-22T10:14:26.022000+00:00",
+      "fecha_local": "2025-04-22",
+      "editado_utc": null,
+      "texto": "Wukong: **mira con frustración los papeles de nuevo**\n\n- lo sé lo sé... Nunca he destacado en los números o en letras... Siempre he pensado que ser diestro en las artes marciales era lo único que necesitaba para que la gente me reconociera.\n\n**Se vuelve a guardar los papeles**\n\n- puede que lo que digas sea cierto y que me acusen de nuevo... Pero no voy a quedarme quieto viendo cómo hay un mal cerca de mi y tengo una manera de mitigarlo aunque sea un poco. Ukio ha sido un hogar para mí, y si gente como una familia... Sho también pero bueno... La gran ciudad es más cruel que el pueblo jajaja... En fin, que me hagan lo que quieran mientras pueda ayudar a la gente que tengo cerca. Total, puede que no salga vivo de mi \"cita\" con byako...\n\n**El mono coge al bebé y lo lleva a su cuna** \n\n- si me ayudas con estos números te lo agradeceré Inugami. Ya acarrearé con lo que venga después.",
+      "mensaje_sha256": "b357986b821677942f7fa8f3e1b929b447e1263855037f344e20d7cd2ee1fea0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1364182553422073906",
+      "texto_sha256": "bc999b4888587ae9364ca251f9a33d71ce05ce576d651abd95e7eb6c4509add6",
+      "adjuntos": []
+    },
+    {
+      "id": "1364184167205568604",
+      "fecha_utc": "2025-04-22T10:20:50.778000+00:00",
+      "fecha_local": "2025-04-22",
+      "editado_utc": "2025-04-22T10:23:02.617000+00:00",
+      "texto": "Inugami: Lo que deberías hacer es intentar recuperar eso que rompiste, seguir el camino de Tang Sanzang y dejar los números a gente que sepa de ellos, chico. Ya tienes suficientes problemas como para meterte en otros embrollo, pero bueno, tu sabrás. **Dice girandose al bebé para acabar de cambiarle el pañal** Yo ahora estoy ocupado acabando de sintonizar los portales, no tengo tiempo para números... Y tampoco que me incluyan en acusaciones cuando se entere el Shogunato de esto...",
+      "mensaje_sha256": "12562bbce2f4b9d0ffe792c257aa097b914907fff8dd84edb38acd85aa340fe1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1364184167205568604",
+      "texto_sha256": "66051fbd0c52218aeac59ef452a953eca48d3e16971455c621794f842fe8ad77",
+      "adjuntos": []
+    },
+    {
+      "id": "1364229983068754010",
+      "fecha_utc": "2025-04-22T13:22:54.131000+00:00",
+      "fecha_local": "2025-04-22",
+      "editado_utc": "2025-04-22T13:23:04.457000+00:00",
+      "texto": "Tanuki: ** Ve al mono <@220602485977382912>  en estado de shock sin contestar y le ofrece sake **\n Guuu rej trikakes ( quieres un trago )",
+      "mensaje_sha256": "1313249ae0627c957f3a9d081c7181ffde5a00ade25de18b15b4c75d31939eec",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1364229983068754010",
+      "texto_sha256": "dfefcf149cf2655f132ff8d67df37e1a6ac81a363dfa192f573d79ae7da5fea7",
+      "adjuntos": []
+    },
+    {
+      "id": "1364230948878553231",
+      "fecha_utc": "2025-04-22T13:26:44.398000+00:00",
+      "fecha_local": "2025-04-22",
+      "editado_utc": "2025-04-22T18:30:25.027000+00:00",
+      "texto": "Wukong: **absorto en sus pensamientos ve por el rabillo del ojo una botella acercarse**\n\n- perdona colega, no te había visto. Se agradece la invitación pero en el camino del monje no entra el alcohol...\n\n**El mono coge su taza de te y la acerca a la botella del tanuki a modo de brindis**\n\n- en fin. Brindemos para que salga todo bien no? Kampai...\n\n🔴 Wukong sale de escena 🔴",
+      "mensaje_sha256": "209b6b00cbb9105470c034811fedcdaba8a53f728e00e714847f8563031823bc",
+      "tipo_discord": 19,
+      "referencia": "1364229983068754010",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1364230948878553231",
+      "texto_sha256": "5c13a10addd7ddd6a6f4f98945c0dd04733da1492b83cb8101da03871755829d",
+      "adjuntos": []
+    }
+  ]
+}

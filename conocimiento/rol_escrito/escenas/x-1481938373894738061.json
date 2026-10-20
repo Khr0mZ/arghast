@@ -1,0 +1,103 @@
+{
+  "id": "x-1481938373894738061",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1481938373894738061",
+  "hilo_id": "1481938373894738061",
+  "hilo_nombre": "Fuerte Aurora - Base de la Marina",
+  "titulo": "Una carta provoca la salida de Molly",
+  "resumen": "Thomas vuelve de las ruinas del norte sin orden de retirada. Molly lee su aviso, culpa a Nox y ordena preparar un regimiento.",
+  "relato": "En el despacho de Fuerte Aurora, la capitana Molly trabaja irritada entre informes y permisos destinados a Puerto de las Espadas. El marine Smith llega con una nota urgente del subcomandante Thomas, que ha regresado de las ruinas del norte. Molly no había autorizado dejar la avanzada y exige una explicación.\n\nLa capitana lee la carta, se enfurece, grita el nombre de Nox y manda preparar un regimiento para salir de inmediato. No se transcribe el contenido del aviso ni se representa en estos mensajes la expedición posterior.",
+  "participantes": [
+    "Molly",
+    "Smith"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1481942678307602492",
+      "afirmacion": "Smith entrega el aviso y Molly ordena preparar un regimiento.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El plano adjunto de Fuerte Aurora ha sido inspeccionado y se conserva como contexto.",
+    "La apertura satírica sobre condenas de piratas caracteriza el lugar; no identifica una ejecución concreta de un personaje.",
+    "El grito contra Nox no acredita por sí solo qué hizo ni que la carta lo pruebe."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-03-13T08:54:01.420000+00:00",
+  "fin_utc": "2026-03-13T09:11:07.672000+00:00",
+  "fecha_local": "2026-03-13",
+  "intervalo": {
+    "anterior": 15,
+    "siguiente": 16,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1481731102304370731",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1482097192952008844",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 15,
+        "fecha": "2026-03-12",
+        "inicio_referencia_utc": "2026-03-12T19:10:03+00:00",
+        "fin_estimado_utc": "2026-03-12T22:12:44+00:00",
+        "duracion_video_segundos": 10961,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1481731102304370731"
+      },
+      {
+        "capitulo": 16,
+        "fecha": "2026-03-13",
+        "inicio_referencia_utc": "2026-03-13T19:24:52+00:00",
+        "fin_estimado_utc": "2026-03-13T21:51:11+00:00",
+        "duracion_video_segundos": 8779,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1482097192952008844"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1481938373894738061",
+      "fecha_utc": "2026-03-13T08:54:01.420000+00:00",
+      "fecha_local": "2026-03-13",
+      "editado_utc": null,
+      "texto": "***Sus muros de piedra se alzan sobre el mar rugiente como una burla artificial hacia la propia naturaleza.***\n***Alli encuentran su cautiverio y posterior condena a muerte a los soñadores de la libertad. Y tambien un hedor odioso, peculiar, repugnante  a croissant podrido...***\n*Bonjeur, señoj pijrata* **Sonido de horca** *Ar revoir, señoj pijrata. Que traijan al sijiente mentejgato*",
+      "mensaje_sha256": "2233806223aa1cba92e56e569ab28bc12e8ba1e9d847347ea537acfba865eb9e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1481938373894738061",
+      "texto_sha256": "2925b7c3b0d93d8f34f33913cebd7611e9a861a55cc5c15c27c0b5ad8a64032c",
+      "adjuntos": [
+        {
+          "id": "1481938374255317126",
+          "nombre": "image-9.png",
+          "tipo": "image/png",
+          "archivo": "adjuntos/1481938374255317126.png",
+          "url": "rol_escrito/adjuntos/1481938374255317126.png",
+          "bytes": 1424845,
+          "sha256": "04fad68c08df78d7cc7cf0d061e5e7c270c960b506a2dec703131cafbc1ae411"
+        }
+      ]
+    },
+    {
+      "id": "1481942678307602492",
+      "fecha_utc": "2026-03-13T09:11:07.672000+00:00",
+      "fecha_local": "2026-03-13",
+      "editado_utc": "2026-03-15T10:39:36.055000+00:00",
+      "texto": "Capitana Molly: **La humana estaba en el despacho del Fuerte de la Marina sobrepasada por la documentación que debía enviar semanalmente a Puerto de las Espadas. Era algo agotador y no le gustaba nada...** *Ufff, que tontería de informes y permisos, si nos dejarán a los capitanes solucionar lo de los piratas ya los habríamos echado a todos del mar...* **En ese momento llega uno de los marines a entregarle una nota**\n\nSmith: Capitana Molly **Hace un saludo oficial y deja una carta en la mesa** El Subcomandante Thomas ha regresado de la avanzada en las ruinas del norte... Dice que esa carta es urgente para usted\n\nCapitana Molly: No he dado la orden de que volvieran ¿Porque ha dejado su puesto? **Lo mira algo molesta y recoge la carta. Se la queda leyendo un largo rato mientras su rostro se va oscureciendo de rabia. El marinero Smith traga saliva acojonado** ¡ME CAGO EN TU... NOOOOX! **Arruga la carta y la lanza contra el suelo** ¡PREPARAR UN REGIMIENTO AHORA MISMO! ¡SALIMOS AHOR AMISMO!\n<@616683133374562304>\n\n🔴Fin de la Escena🔴",
+      "mensaje_sha256": "59da59d208f02c4d1b0b7b5c48cc5cedd54b1d5c6cfd3e638b561ae60cd62904",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1481942678307602492",
+      "texto_sha256": "d48154cd4eeae9cdf1c280857d672df40e95ebd5d5b89f5d07bcb4df5fbb6da0",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "id": "k-1386410023013322905",
+  "campana": "kuroto",
+  "unidad_revision": "k-1385809829695848478",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "Un momento de afecto junto a la artillería",
+  "resumen": "Seraphina visita a Guxi mientras trabaja en el Camaro, pero se pone nerviosa y decide buscar a Kurobane.",
+  "relato": "Seraphina encuentra a Guxi trabajando en una rueda del Camaro y escuchando música. El sobresalto de verla le hace soltar el martillo sobre su pie. Ella se ríe, lo abraza por detrás y pregunta por Archi, que continúa debajo del vehículo.\n\nLa pareja comparte afecto y habla de las curas que Seraphina podría necesitar cuando vuelva al frente. Guxi nota que está más pegada y nerviosa que de costumbre y le pregunta si ocurre algo. Ella lo niega de forma atropellada, atribuye su conducta al alcohol y desvía la conversación diciendo que Banzo necesita ayuda.\n\nSe despiden con un beso y quedan en verse por la noche. Guxi vuelve al trabajo, aliviado de verla más animada. Seraphina, en cambio, recuerda para sí que estuvo a punto de decir algo que no debía y detecta el rastro del ninja. No llega a revelar aquí qué secreto o preocupación provoca ese nerviosismo.",
+  "participantes": [
+    "Seraphina",
+    "Guxi",
+    "Archi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1386410023013322905",
+      "afirmacion": "Guxi deja caer el martillo al sorprenderse ante la llegada de Seraphina.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1386413918192275536",
+      "afirmacion": "Guxi pregunta por el nerviosismo de Seraphina.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1386416256353308804",
+      "afirmacion": "Seraphina piensa en privado que casi dijo algo que no debía y empieza a detectar el rastro de Kurobane.",
+      "tipo": "pensamiento"
+    }
+  ],
+  "notas": [
+    "Leídas completas las cinco partes y los tres adjuntos. La imagen del pánico es ilustrativa; el dibujo final de Banzo es una referencia humorística del disfraz.",
+    "La inscripción gráfica del diario de Kurobane se conserva como original. Su escritura no se traduce ni se inventa un contenido a partir del dibujo.",
+    "La unidad original reúne varias interacciones con cierres y salidas; las subescenas conservan cobertura exacta sin duplicar mensajes.",
+    "Las cifras de atención médica son las que Banzo comunica, sin elevarlas a un balance general de la batalla.",
+    "La apariencia de Brythya que Banzo cree ver sobre Danifae se presenta como percepción del goliat, no como transformación física confirmada.",
+    "La promesa de Danifae se refiere a sus armas frente a Ootakemaru y no equivale a afiliación ni contrato firmado.",
+    "No se realiza todavía la visita a los templos ni se elimina la condición de Kurobane."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-22T18:18:27.739000+00:00",
+  "fin_utc": "2025-06-22T18:46:04.567000+00:00",
+  "fecha_local": "2025-06-22",
+  "intervalo": {
+    "anterior": 130,
+    "siguiente": 131,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1385318614470496400",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387130423632724151",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 130,
+        "fecha": "2025-06-19",
+        "inicio_referencia_utc": "2025-06-19T18:01:24+00:00",
+        "fin_estimado_utc": "2025-06-19T21:47:20+00:00",
+        "duracion_video_segundos": 13556,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1385318614470496400"
+      },
+      {
+        "capitulo": 131,
+        "fecha": "2025-06-24",
+        "inicio_referencia_utc": "2025-06-24T18:00:45+00:00",
+        "fin_estimado_utc": "2025-06-24T21:04:44+00:00",
+        "duracion_video_segundos": 11039,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387130423632724151"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1386410023013322905",
+      "fecha_utc": "2025-06-22T18:18:27.739000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "guxi: **cuando te acercas escuchas una melodia** si volviera a vivir me encontraria contigo aunque pasen 12000 años nos volveriamos a ver **esta absorto en la rueda del carro que esta reparando hasta que al acercarte se le cae el martillo por la sorpresa y se hace daño en un pie** auch como duele por todos los yokais , hola sera me llamo banzo y archi para unas cosas y aqui estoy",
+      "mensaje_sha256": "a92435ad99044a3a1519970232eef9fb36b8efd65ab2b0b7ab84eeb6d0b22634",
+      "tipo_discord": 19,
+      "referencia": "1386408192346427614",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386410023013322905",
+      "texto_sha256": "648957f943dc6c0a1a6c092c64cfbb6757dd99147bdf65ee1932f3db367c231e",
+      "adjuntos": []
+    },
+    {
+      "id": "1386410903104127097",
+      "fecha_utc": "2025-06-22T18:21:57.569000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "Seraphina:\nJAJAJAJAJA, ya tan pronto te estás haciendo daño?~\n\n**Le abracé por detrás, agitando mi nariz por la felicidad, tratando de que nada escapara de mi boca**\n\nArchi?\n\n**Mis orejas se ladearon un poco**\n\nEn verdad que necesito conocer a todos, que al parecer no son pocos",
+      "mensaje_sha256": "0680573a69fa68ef9c7a4b77057276dfea8251cc59823cfebb47b0ee10401416",
+      "tipo_discord": 19,
+      "referencia": "1386410023013322905",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386410903104127097",
+      "texto_sha256": "7ab1123365e5c45e250f8642e839193e084af775c5fe1c48c41181e7133ce15d",
+      "adjuntos": []
+    },
+    {
+      "id": "1386411236974923817",
+      "fecha_utc": "2025-06-22T18:23:17.170000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "guxi: **se gira para responderle el abrazo** bueno esta ahi debajo del carro \"arreglandolo\" sera mejor no molestarle",
+      "mensaje_sha256": "08185db8a403ab407b28e71fccd47cd43a3e8c6948f841c1d890ef3ad86f589b",
+      "tipo_discord": 19,
+      "referencia": "1386410903104127097",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386411236974923817",
+      "texto_sha256": "28ccba95baebdd335b784bc8f2b0182a459e7eb52b8cd1e3844cbd911ae76cd8",
+      "adjuntos": []
+    },
+    {
+      "id": "1386413413584076850",
+      "fecha_utc": "2025-06-22T18:31:56.114000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "Seraphina:\nAaahh, entiendo, entiendo \n\n**Escondía mi cabeza en su pecho, inhalando con profundidad su aroma**\n\nBanzo me dijo que necesita que esté en el frente, así que probablemente regrese algo lastimadita y cansada, para que tengas a la mano el cofre de curación y me puedas dar un buen masaje~",
+      "mensaje_sha256": "46a618c7dd960309ee92e13c4c29862787def3a6ea4ec96b943df296947f3947",
+      "tipo_discord": 19,
+      "referencia": "1386411236974923817",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386413413584076850",
+      "texto_sha256": "6204f7c72c09cefc94b049c691d2de6ea216e0674fdf207658d45410af5cf814",
+      "adjuntos": []
+    },
+    {
+      "id": "1386413918192275536",
+      "fecha_utc": "2025-06-22T18:33:56.422000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "guxi: no te preocupes estare siempre para atender tus heridas **le acaricia la cabeza** te pasa algo? te veo incluso mas pegada de lo habitual no es que me queje me gustas asi incluso mas",
+      "mensaje_sha256": "2ffe2b6d96c26430d4a6e99fc89424099213587b2c9fc1ba0348d8179018f5fe",
+      "tipo_discord": 19,
+      "referencia": "1386413413584076850",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386413918192275536",
+      "texto_sha256": "5634081d00bdbb3310b3686ae25955a93d669b3e258f76430d363914180bf623",
+      "adjuntos": []
+    },
+    {
+      "id": "1386414620893253703",
+      "fecha_utc": "2025-06-22T18:36:43.959000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": "2025-06-22T18:37:36.794000+00:00",
+      "texto": "Seraphina:\nNO NO NO NO! P..por nada especial, je... jejejeje, yo estoy bien, tu estás bien?, yo te veo bien, así que significa que estamos bien, no?, aayy que calor... Eehhh... Aahh Banzo!, que necesitas de mi ayuda?, ahí voy!!\n\n**Me hacía la \"tranquila\" al momento en que me preguntó eso, así que simplemente quise desviar la atención**",
+      "mensaje_sha256": "94abf0b7000b0e9cabed42018a76b2c01bf29c6158f4e827c65801d384a0edb3",
+      "tipo_discord": 19,
+      "referencia": "1386413918192275536",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386414620893253703",
+      "texto_sha256": "c66b674a159b98a84e2af4e183c4093525bcc76bcd0ab24cbf862e6e13dcedc4",
+      "adjuntos": []
+    },
+    {
+      "id": "1386415125069566133",
+      "fecha_utc": "2025-06-22T18:38:44.164000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "guxi: calmate anda **le acaricia la mejilla** si vas a ver a banzo dile que venga a verme si tiene un momento ¿nos vemos esta noche?",
+      "mensaje_sha256": "55776a2d699b23509c8d03f4e134ea03c5b2c6c9a6fa8ccfc5f2fec4d031e6e1",
+      "tipo_discord": 19,
+      "referencia": "1386414620893253703",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386415125069566133",
+      "texto_sha256": "71ffc17cd5bd5968706976762f6c2d3197e96c69e66920f2c344e93b2e7a842e",
+      "adjuntos": []
+    },
+    {
+      "id": "1386416256353308804",
+      "fecha_utc": "2025-06-22T18:43:13.883000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "Seraphina: \nSisisisi, claro, y..yo le digo, e..es solo el alcohol, así que no te preocupes, estoy bien\n\n**Le dí un beso en la mejilla y me alejé de el**\n\n*Ay Dioses... Casi digo algo que no debía, tengo que tranquilizarme*\n\n**Durante mi trayecto, pase cerca de Kurobane y mi nariz detectó algo extraño, por lo que me acerqué a olfatearle**\n\nMmmhhh~",
+      "mensaje_sha256": "4f23f4bd0d5269dbba5aa399a72a9ddf8257019448dd689d69ca4dd0fac80ad8",
+      "tipo_discord": 19,
+      "referencia": "1386415125069566133",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386416256353308804",
+      "texto_sha256": "e0b015a102ff246a3b4a96cedc756d2fec59efb23d7aa56842122cd4505818fc",
+      "adjuntos": []
+    },
+    {
+      "id": "1386416780637110292",
+      "fecha_utc": "2025-06-22T18:45:18.882000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "**Notas que el ninja dejó el campamento del sur, puedes determinar que se dirige al sur por tu olfato**",
+      "mensaje_sha256": "05a7bc794cfa91277d8658ff57607c80c056385d73f2bca0e2def40ee9277785",
+      "tipo_discord": 19,
+      "referencia": "1386416256353308804",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386416780637110292",
+      "texto_sha256": "844f906d067352b8aa1abfc32da12f87405d9e3b78e8ff50e8a70e0f979bd532",
+      "adjuntos": []
+    },
+    {
+      "id": "1386416972253888703",
+      "fecha_utc": "2025-06-22T18:46:04.567000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "guxi: hasta luego Sera **le sonrie antes de irse como si no se enterara de nada** bueno de vuelta al trabajo *parece que ya esta mas animada estaba preocupado*",
+      "mensaje_sha256": "a91de24eddab66bca661028f77391946f6565d4d5a1b524301951df4341c69c8",
+      "tipo_discord": 19,
+      "referencia": "1386416256353308804",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386416972253888703",
+      "texto_sha256": "6e962f782bfe590da7dde33f06d67af4bdcf301590599ff0485671a010faacfd",
+      "adjuntos": []
+    }
+  ]
+}

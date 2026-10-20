@@ -1,0 +1,155 @@
+{
+  "id": "k-1377665907526209547",
+  "campana": "kuroto",
+  "unidad_revision": "k-1377665907526209547",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Banzo y Gur suben al carro del herrero",
+  "resumen": "Los dos guerreros cargan el carro rumbo a Ukiyo; Gur deja pendiente una pregunta sobre su hacha y una madera.",
+  "relato": "Banzo y Gur llegan a la herrería después de un episodio del circo mencionado, pero no representado aquí. El herrero termina de cargar su carro y ambos guerreros le ayudan a subir las últimas cajas. Él agradece sus músculos y los invita a montar para partir. Banzo sube y anuncia el destino de Ukiyo, donde quiere buscar al último integrante del equipo bárbaro. Antes de marcharse, Gur pregunta si el herrero ha podido hacer algo con el hacha o con la madera de un árbol de playa. La respuesta, la salida efectiva del carro y la llegada a Ukiyo no se muestran en este tramo.",
+  "participantes": [
+    "Banzo",
+    "Gur",
+    "herrero de Sho"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1377666958308151418",
+      "afirmacion": "Banzo y Gur ayudan a cargar las cajas.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1377668544027693056",
+      "afirmacion": "Banzo anuncia que viajarán a Ukiyo a buscar a otro integrante del equipo.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1377699944638578780",
+      "afirmacion": "Gur pregunta por el hacha y la madera de árbol de playa.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "La explosión del circo aparece solo como antecedente; no se reconstruye su desarrollo.",
+    "No identificar al herrero por nombre ni afirmar la reparación del hacha sin su respuesta."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2025-05-29T15:12:28.149000+00:00",
+  "fin_utc": "2025-05-29T17:27:43.229000+00:00",
+  "fecha_local": "2025-05-29",
+  "intervalo": {
+    "anterior": 122,
+    "siguiente": 123,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1377352831694274650",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1377714802629283882",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 122,
+        "fecha": "2025-05-28",
+        "inicio_referencia_utc": "2025-05-28T18:28:05+00:00",
+        "fin_estimado_utc": "2025-05-28T21:58:20+00:00",
+        "duracion_video_segundos": 12615,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1377352831694274650"
+      },
+      {
+        "capitulo": 123,
+        "fecha": "2025-05-29",
+        "inicio_referencia_utc": "2025-05-29T18:26:29+00:00",
+        "fin_estimado_utc": "2025-05-29T21:01:06+00:00",
+        "duracion_video_segundos": 9277,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1377714802629283882"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1377665907526209547",
+      "fecha_utc": "2025-05-29T15:12:28.149000+00:00",
+      "fecha_local": "2025-05-29",
+      "editado_utc": null,
+      "texto": "Banzo : **Gur y Banzo llegan al herrero después de haberse lamido las heridas de la explosión del circo ** \n\nBuenas señor <@214405113677217793>  esta lista la carreta para partir ? Al final seremos dos , más seguro no ha a ir en su vida **rie**\n**señala a Gur**\n<@412279081170763776>",
+      "mensaje_sha256": "16e5fdec1f654c799a3ffd47022d18cf309d3262574ca88556e58c8c7bf6b9f5",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1377665907526209547",
+      "texto_sha256": "51d373da8dba8b93895e12891e00496b24f26851a3bcf77104f694e509f2a5b1",
+      "adjuntos": []
+    },
+    {
+      "id": "1377666525875404931",
+      "fecha_utc": "2025-05-29T15:14:55.575000+00:00",
+      "fecha_local": "2025-05-29",
+      "editado_utc": null,
+      "texto": "Herrero: **Os mira mientras acaba de cargar unas cajas en el carro** Oh, buenas muchachos. Si, si, tengo listo el carro, solo he de cargar estas cajas y nos vamos",
+      "mensaje_sha256": "b5fb37a6461867b4bcf7d53f769621eae268c50f26bede1f7a575b21968031bf",
+      "tipo_discord": 19,
+      "referencia": "1377665907526209547",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1377666525875404931",
+      "texto_sha256": "a4dc444cb89fc06b54d65da3e6314bc21a84b2b185196305dcd0c1dc418bdf33",
+      "adjuntos": []
+    },
+    {
+      "id": "1377666958308151418",
+      "fecha_utc": "2025-05-29T15:16:38.675000+00:00",
+      "fecha_local": "2025-05-29",
+      "editado_utc": null,
+      "texto": "Banzo : **Entre banzo y Gur acaban de subir esas cajas a la carreta **",
+      "mensaje_sha256": "7dfd425b43383306582a97f2b33978e9aff7419e5f4bff3e941119e4c854d0d5",
+      "tipo_discord": 19,
+      "referencia": "1377666525875404931",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1377666958308151418",
+      "texto_sha256": "7f699187a3377142a2eca57178e718f02ead1ca68c83415ce72b067f24ee971b",
+      "adjuntos": []
+    },
+    {
+      "id": "1377667989222064259",
+      "fecha_utc": "2025-05-29T15:20:44.464000+00:00",
+      "fecha_local": "2025-05-29",
+      "editado_utc": null,
+      "texto": "Herrero: Muchas gracias! Con vuestros músculos y vuestro tamaño este trabajo sería más simple **Dice con una sonrisa subiendo al carro.** Venga, subir, que nos vamos!",
+      "mensaje_sha256": "189f84fc4813dc3bc4a85ba3bcc8fd8ef1ef5567e4b0cf247134ad4c72bf4173",
+      "tipo_discord": 19,
+      "referencia": "1377666958308151418",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1377667989222064259",
+      "texto_sha256": "3280aa69adfa84b313bc74b7b0760f167b53291b63a9177b2008502dfe9cc550",
+      "adjuntos": []
+    },
+    {
+      "id": "1377668544027693056",
+      "fecha_utc": "2025-05-29T15:22:56.740000+00:00",
+      "fecha_local": "2025-05-29",
+      "editado_utc": null,
+      "texto": "Banzo : Alehop! \n**sube al carro y levanta los brazos ** \nHacia Ukyio !!! \na por el último integrante del  barbarian team !! <@220602485977382912>",
+      "mensaje_sha256": "ab46c340bb5f7da0c06c1bccbce0ef0ade14dc001a3aee989254f297ec4ba507",
+      "tipo_discord": 19,
+      "referencia": "1377667989222064259",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1377668544027693056",
+      "texto_sha256": "52e1dfca086d600f788a9671c05a8ff75776654f2e7d3385dea47d036b544287",
+      "adjuntos": []
+    },
+    {
+      "id": "1377699944638578780",
+      "fecha_utc": "2025-05-29T17:27:43.229000+00:00",
+      "fecha_local": "2025-05-29",
+      "editado_utc": null,
+      "texto": "Gur: Disculpe señor herrero antes de irme quería preguntarte , pudiste hacer algo con el hacha o la leña esa de árbol de playa ?",
+      "mensaje_sha256": "65bf20e35e40afb792c3d3e7613dcf0d2bfd4efea21873ae6f418e2a352b743b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1377699944638578780",
+      "texto_sha256": "0a2ee5e22ec70b477e6bb0d3a4d438088b0508925215d34e5fa9e0a35884b220",
+      "adjuntos": []
+    }
+  ]
+}

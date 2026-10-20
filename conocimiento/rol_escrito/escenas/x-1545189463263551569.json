@@ -1,0 +1,84 @@
+{
+  "id": "x-1545189463263551569",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1545189463263551569",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "Oghma agradece a Tessa que la protegiera",
+  "resumen": "Al encontrarla aún inconsciente entre las raíces, deja una oferta de ayuda y formula en privado una promesa de homenaje.",
+  "relato": "Oghma despierta contenta en la taberna, pero al tocarse el pecho recuerda que Tessa recibió por ella el aguijón de un wyvern. Decide ir al templo de Walulu sin pensar esta vez en una recompensa. Había supuesto que la poción bastaría, y le preocupa encontrar a la joven todavía pálida, dormida y envuelta en raíces.\n\nLe acaricia la mejilla y le susurra que le debe la vida. Promete aprovecharla y, si Tessa no despierta, llevar su rostro como el mayor de sus honores. La promesa no implica que ya la suplante ni que la paciente haya muerto. Antes de salir deja una nota ofreciendo ayuda para cualquier cosa e indicando que estará en la taberna. La escena termina con esa disposición a colaborar, mientras el resultado del tratamiento continúa pendiente.",
+  "participantes": [
+    "Oghma",
+    "Tessa"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1545189463263551569",
+      "afirmacion": "Oghma visita a Tessa aún inconsciente entre raíces y deja por escrito su ofrecimiento de ayuda.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1545189463263551569",
+      "afirmacion": "Oghma promete en voz baja honrarla llevando su rostro si no despierta.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Tessa no despierta en esta fuente y no consta que escuche los susurros.",
+    "La promesa condicional de adoptar su rostro no es una suplantación ejecutada ni una confirmación de fallecimiento."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-09-03T21:51:16.274000+00:00",
+  "fin_utc": "2026-09-03T21:51:16.274000+00:00",
+  "fecha_local": "2026-09-03",
+  "intervalo": {
+    "anterior": 56,
+    "siguiente": 57,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1541149597714350182",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1545132987136344065",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 56,
+        "fecha": "2026-08-23",
+        "inicio_referencia_utc": "2026-08-23T18:12:54+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1541149597714350182"
+      },
+      {
+        "capitulo": 57,
+        "fecha": "2026-09-03",
+        "inicio_referencia_utc": "2026-09-03T18:02:12+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1545132987136344065"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1545189463263551569",
+      "fecha_utc": "2026-09-03T21:51:16.274000+00:00",
+      "fecha_local": "2026-09-03",
+      "editado_utc": null,
+      "texto": "Oghma:\n**Desperezandose se despierta en su cama de la taberna, retozando un poco sonrie por la suerte que esta teniendo mientras desliza su mano hasta su pecho, donde no hay una enorme cavidad causada por un agijon, entonces su expresion cambia completamente, como si hubiera recordado algo importante. Rapidamente y de un salto se levanta de la cama, se ajusta las enaguas y sale de su habitacion en direccion al templo de Walulu**\n*Seguro que esta bien, le di la pocion, la pocion deberia haberla curado*\n**Al llegar al templo, esta vez sin la cabeza llena de recompensas imaginarias, puede ver a Tessa como dormida, palida y envuelta por raices.**\n*Pero, pero la pocion...*\n**Se inclina al lado de Tessa y acerca una mano temblorosa hasta acariciar su mejilla**\nA penas me conoces y aun asi te pusiste entre el agijon y yo, la gente no suele hacer eso por desconocidos.\n**Se acerca mas y baja el volumen hasta convertirlo en un susurro**\nTe debo la vida, asi que no te preocupes, de una forma o de otra tendras una buena vida, si no despiertas, portare tu cara como el mayor de los honores y todos te recordaran por tu heroismo.\n**Escribe algunas palabras sobre una nota hecha con un trozo de pergamino, la deja sobre el cuerpo de Tessa y se marcha silenciosa**\n\"Si se puede hacer algo, cuenta con mi ayuda, para lo que sea. Estoy en la taberna. Oghma\"\n🔴 FIN DE LA ESCENA 🔴",
+      "mensaje_sha256": "4eb897482777186c608dd8d55d491844b554b75e227ea2ba84a60c2ea0dcb351",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1545189463263551569",
+      "texto_sha256": "6155cc1c532f26a49ead3c29241b9ce173a5d3fc3abb316335ac05938061efb4",
+      "adjuntos": []
+    }
+  ]
+}

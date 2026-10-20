@@ -1,0 +1,959 @@
+{
+  "hilo_id": "1495828307843747971",
+  "hilo": "??? - En alguna parte",
+  "campana": "xoltacan",
+  "unidades_leidas": 20,
+  "alcance": "Veinte partes leídas completas y la imagen de Ches Farak inspeccionada. Dos menciones aisladas excluidas de escenas. Ritual e informante, y encargo de Brythya y conversación de mercenarias separados en subescenas.",
+  "identidades": [
+    {
+      "nombre": "Brythya Unthuar",
+      "alias": [
+        "Madre Matrona Unthuar",
+        "Señora del Consejo"
+      ],
+      "pruebas": [
+        "1495828393718059110",
+        "1515764851010441447"
+      ],
+      "nota": "Regente de Ches Farak y cabeza de la Primera Casa. Su condición de avatar es proclamada por Viztya, sin acto nuevo que la demuestre aquí.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1495828393718059110",
+          "escena": "x-1495828307843747971",
+          "fecha_utc": "2026-04-20T16:48:00.210000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1495828393718059110"
+        },
+        {
+          "mensaje_id": "1515764851010441447",
+          "escena": "x-1515764851010441447",
+          "fecha_utc": "2026-06-14T17:08:22.030000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1515764851010441447"
+        }
+      ]
+    },
+    {
+      "nombre": "Miz'lin Rheydyn",
+      "alias": [
+        "Matrona Rheydyn"
+      ],
+      "pruebas": [
+        "1495828393718059110",
+        "1561659564057698385"
+      ],
+      "nota": "Tercera Casa; muere explícitamente a manos de Aunfaere.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1495828393718059110",
+          "escena": "x-1495828307843747971",
+          "fecha_utc": "2026-04-20T16:48:00.210000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1495828393718059110"
+        },
+        {
+          "mensaje_id": "1561659564057698385",
+          "escena": "x-1561659442070560880",
+          "fecha_utc": "2026-10-19T08:37:34.303000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1561659564057698385"
+        }
+      ]
+    },
+    {
+      "nombre": "Aunfaere",
+      "alias": [
+        "Aunfaere Rheydyn",
+        "Aunfaere Unthuar"
+      ],
+      "pruebas": [
+        "1495828393718059110",
+        "1561659676020703266"
+      ],
+      "nota": "Hija superviviente de Miz'lin. Título público Rheydyn al final, con pertenencia secreta impuesta a Unthuar.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1495828393718059110",
+          "escena": "x-1495828307843747971",
+          "fecha_utc": "2026-04-20T16:48:00.210000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1495828393718059110"
+        },
+        {
+          "mensaje_id": "1561659676020703266",
+          "escena": "x-1561659442070560880",
+          "fecha_utc": "2026-10-19T08:38:00.997000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1561659676020703266"
+        }
+      ]
+    },
+    {
+      "nombre": "Deyvon Unthuar",
+      "alias": [
+        "Consorte de Aunfaere"
+      ],
+      "pruebas": [
+        "1503298446470287542",
+        "1516341525163016312",
+        "1516685883649032414"
+      ],
+      "nota": "Hijo de Brythya y hermano de Jelbreg según su afirmación explícita. No se fusionan evidencias de Kuroto.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1503298446470287542",
+          "escena": "x-1503298446470287542",
+          "fecha_utc": "2026-05-11T07:31:19.573000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1503298446470287542"
+        },
+        {
+          "mensaje_id": "1516341525163016312",
+          "escena": "x-1516341525163016312",
+          "fecha_utc": "2026-06-16T07:19:51.862000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1516341525163016312"
+        },
+        {
+          "mensaje_id": "1516685883649032414",
+          "escena": "x-1516685883649032414",
+          "fecha_utc": "2026-06-17T06:08:13.323000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1516685883649032414"
+        }
+      ]
+    },
+    {
+      "nombre": "Viztya",
+      "alias": [
+        "Suma sacerdotisa Viztya"
+      ],
+      "pruebas": [
+        "1513461921104269442",
+        "1543267129707471010"
+      ],
+      "nota": "Hija de Brythya y enviada a Xhuldriss.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1513461921104269442",
+          "escena": "x-1513461604342038629",
+          "fecha_utc": "2026-06-08T08:37:20.754000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1513461921104269442"
+        },
+        {
+          "mensaje_id": "1543267129707471010",
+          "escena": "x-1542790265864065034",
+          "fecha_utc": "2026-08-29T14:32:36.239000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1543267129707471010"
+        }
+      ]
+    },
+    {
+      "nombre": "Lyriel",
+      "alias": [
+        "Archimaga de Ches Farak"
+      ],
+      "pruebas": [
+        "1516341634638417920"
+      ],
+      "nota": "Primera hija de Brythya; su autoridad sobre la madre es observada, sin explicación completa del origen.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1516341634638417920",
+          "escena": "x-1516341525163016312",
+          "fecha_utc": "2026-06-16T07:20:17.963000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1516341634638417920"
+        }
+      ]
+    },
+    {
+      "nombre": "Hudey Rheydyn",
+      "alias": [
+        "Hudey Car'Xelar"
+      ],
+      "pruebas": [
+        "1520741469005021325",
+        "1520742062440583250"
+      ],
+      "nota": "Adoptado de una casa absorbida y maestro de armas de Rheydyn.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1520741469005021325",
+          "escena": "x-1520741447748419594",
+          "fecha_utc": "2026-06-28T10:43:40.221000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1520741469005021325"
+        },
+        {
+          "mensaje_id": "1520742062440583250",
+          "escena": "x-1520741447748419594",
+          "fecha_utc": "2026-06-28T10:46:01.707000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1520742062440583250"
+        }
+      ]
+    },
+    {
+      "nombre": "Jalak Xarven",
+      "alias": [],
+      "pruebas": [
+        "1520741469005021325"
+      ],
+      "nota": "Hijo de sangre de Miz'lin, vinculado al tráfico familiar de esclavos; no equiparar a Hudey.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1520741469005021325",
+          "escena": "x-1520741447748419594",
+          "fecha_utc": "2026-06-28T10:43:40.221000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1520741469005021325"
+        }
+      ]
+    },
+    {
+      "nombre": "Nistra",
+      "alias": [
+        "Jefa de Vhaer'Ryl"
+      ],
+      "pruebas": [
+        "1529725213242298398",
+        "1529725461595295795"
+      ],
+      "nota": "Declara a Jely hermano favorito y haberlo ayudado a escapar. Jely probablemente remite al Jelbreg del arco familiar, pero el nombre completo no se pronuncia en la misma frase; cotejar antes de fijar alias definitivo.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1529725213242298398",
+          "escena": "x-1529725213242298398",
+          "fecha_utc": "2026-07-23T05:41:51.757000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1529725213242298398"
+        },
+        {
+          "mensaje_id": "1529725461595295795",
+          "escena": "x-1529725326790496439",
+          "fecha_utc": "2026-07-23T05:42:50.969000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1529725461595295795"
+        }
+      ]
+    },
+    {
+      "nombre": "Greya",
+      "alias": [],
+      "pruebas": [
+        "1529725461595295795"
+      ],
+      "nota": "Drow muda desde pequeña, habla mediante signos. La cursiva de sus signos es diálogo comunicado.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1529725461595295795",
+          "escena": "x-1529725326790496439",
+          "fecha_utc": "2026-07-23T05:42:50.969000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1529725461595295795"
+        }
+      ]
+    },
+    {
+      "nombre": "Dimleila",
+      "alias": [],
+      "pruebas": [
+        "1529725461595295795",
+        "1553735210586349669"
+      ],
+      "nota": "Duergar de Vhaer'Ryl, armadura con pinchos.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1529725461595295795",
+          "escena": "x-1529725326790496439",
+          "fecha_utc": "2026-07-23T05:42:50.969000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1529725461595295795"
+        },
+        {
+          "mensaje_id": "1553735210586349669",
+          "escena": "x-1553735210586349669",
+          "fecha_utc": "2026-09-27T11:49:01.208000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1553735210586349669"
+        }
+      ]
+    },
+    {
+      "nombre": "Velkyn",
+      "alias": [],
+      "pruebas": [
+        "1553735210586349669",
+        "1553735344120143884"
+      ],
+      "nota": "Explorador y arquero de Vhaer'Ryl.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1553735210586349669",
+          "escena": "x-1553735210586349669",
+          "fecha_utc": "2026-09-27T11:49:01.208000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1553735210586349669"
+        },
+        {
+          "mensaje_id": "1553735344120143884",
+          "escena": "x-1553735210586349669",
+          "fecha_utc": "2026-09-27T11:49:33.045000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1553735344120143884"
+        }
+      ]
+    },
+    {
+      "nombre": "Zin-Carla de Miz'lin",
+      "alias": [],
+      "pruebas": [
+        "1503285689469636658",
+        "1524293923940335717",
+        "1542789464588423252"
+      ],
+      "nota": "Hija muerta retornada y sometida inicialmente a Miz'lin; sigue sin nombre propio en este hilo.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1503285689469636658",
+          "escena": "x-1503285689469636658",
+          "fecha_utc": "2026-05-11T06:40:38.067000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1503285689469636658"
+        },
+        {
+          "mensaje_id": "1524293923940335717",
+          "escena": "x-1524293375191289978",
+          "fecha_utc": "2026-07-08T05:59:51.479000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1524293923940335717"
+        },
+        {
+          "mensaje_id": "1542789464588423252",
+          "escena": "x-1542789464588423252",
+          "fecha_utc": "2026-08-28T06:54:32+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1542789464588423252"
+        }
+      ]
+    },
+    {
+      "nombre": "Zissta",
+      "alias": [
+        "Madre Matrona de Xhuldriss"
+      ],
+      "pruebas": [
+        "1543267129707471010",
+        "1543267248565780640"
+      ],
+      "nota": "No asignar casa concreta por el encargo previo de visitar Xorlarrynis si no queda vinculada nominalmente.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1543267129707471010",
+          "escena": "x-1542790265864065034",
+          "fecha_utc": "2026-08-29T14:32:36.239000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1543267129707471010"
+        },
+        {
+          "mensaje_id": "1543267248565780640",
+          "escena": "x-1542790265864065034",
+          "fecha_utc": "2026-08-29T14:33:04.577000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1543267248565780640"
+        }
+      ]
+    },
+    {
+      "nombre": "Jacky Jackson",
+      "alias": [
+        "Yoyoyo"
+      ],
+      "pruebas": [
+        "1553735344120143884"
+      ],
+      "nota": "Yoyoyo es una burla de Nistra por su tartamudeo, no identidad real nueva.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1553735344120143884",
+          "escena": "x-1553735210586349669",
+          "fecha_utc": "2026-09-27T11:49:33.045000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1553735344120143884"
+        }
+      ]
+    }
+  ],
+  "arcos": [
+    {
+      "nombre": "La venganza de Miz'lin y el Zin-Carla",
+      "avance": "Pide el favor a las yochlol con precio aplazado; Yiccardaria inicia el retorno sobre una hija. El caminante mata a un neogi, desobedece órdenes sobre svirfneblin y luego mata a diez duergars. Kiaransalee desplaza la voz de la madre y obtiene un asentimiento a una petición desconocida. Al final Miz'lin ha perdido la conexión.",
+      "pruebas": [
+        "1495828523816849509",
+        "1503285689469636658",
+        "1524293923940335717",
+        "1525644061778645023",
+        "1542789464588423252",
+        "1561659442070560880"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1495828523816849509",
+          "escena": "x-1495828307843747971",
+          "fecha_utc": "2026-04-20T16:48:31.228000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1495828523816849509"
+        },
+        {
+          "mensaje_id": "1503285689469636658",
+          "escena": "x-1503285689469636658",
+          "fecha_utc": "2026-05-11T06:40:38.067000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1503285689469636658"
+        },
+        {
+          "mensaje_id": "1524293923940335717",
+          "escena": "x-1524293375191289978",
+          "fecha_utc": "2026-07-08T05:59:51.479000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1524293923940335717"
+        },
+        {
+          "mensaje_id": "1525644061778645023",
+          "escena": "x-1525644061778645023",
+          "fecha_utc": "2026-07-11T23:24:49.424000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1525644061778645023"
+        },
+        {
+          "mensaje_id": "1542789464588423252",
+          "escena": "x-1542789464588423252",
+          "fecha_utc": "2026-08-28T06:54:32+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1542789464588423252"
+        },
+        {
+          "mensaje_id": "1561659442070560880",
+          "escena": "x-1561659442070560880",
+          "fecha_utc": "2026-10-19T08:37:05.219000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1561659442070560880"
+        }
+      ]
+    },
+    {
+      "nombre": "El espionaje de Deyvon",
+      "avance": "Interroga a un guardia sobre la exhumación. El informante es descubierto y torturado; Miz'lin lo presenta al Consejo. Brythya convierte la acusación en matrimonio político y Lyriel transforma al consorte en espía mediante un anillo telepático. Deyvon recibe la confidencia de Aunfaere y Brythya aparece luego informada.",
+      "pruebas": [
+        "1503298446470287542",
+        "1515766246547919006",
+        "1515767207752110091",
+        "1516341687604084766",
+        "1525644097757384794",
+        "1527609013494222929"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1503298446470287542",
+          "escena": "x-1503298446470287542",
+          "fecha_utc": "2026-05-11T07:31:19.573000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1503298446470287542"
+        },
+        {
+          "mensaje_id": "1515766246547919006",
+          "escena": "x-1515764851010441447",
+          "fecha_utc": "2026-06-14T17:13:54.752000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1515766246547919006"
+        },
+        {
+          "mensaje_id": "1515767207752110091",
+          "escena": "x-1515764851010441447",
+          "fecha_utc": "2026-06-14T17:17:43.921000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1515767207752110091"
+        },
+        {
+          "mensaje_id": "1516341687604084766",
+          "escena": "x-1516341525163016312",
+          "fecha_utc": "2026-06-16T07:20:30.591000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1516341687604084766"
+        },
+        {
+          "mensaje_id": "1525644097757384794",
+          "escena": "x-1525644061778645023",
+          "fecha_utc": "2026-07-11T23:24:58.002000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1525644097757384794"
+        },
+        {
+          "mensaje_id": "1527609013494222929",
+          "escena": "x-1527609013494222929",
+          "fecha_utc": "2026-07-17T09:32:50.420000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1527609013494222929"
+        }
+      ]
+    },
+    {
+      "nombre": "Unión impuesta y ascenso de Aunfaere",
+      "avance": "La unión no tiene ceremonia y ninguno de los consortes puede negarse. Ambos intentan utilizar al otro. Tras ser humillada durante años, Aunfaere mata a Miz'lin cuando Deyvon la deja vulnerable y Brythya ofrece la sucesión. Se convierte en matrona pública Rheydyn, subordinada realmente a Unthuar bajo un proyecto de descendencia.",
+      "pruebas": [
+        "1516685883649032414",
+        "1516686014960373760",
+        "1525644104112013384",
+        "1561659564057698385",
+        "1561659676020703266"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1516685883649032414",
+          "escena": "x-1516685883649032414",
+          "fecha_utc": "2026-06-17T06:08:13.323000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1516685883649032414"
+        },
+        {
+          "mensaje_id": "1516686014960373760",
+          "escena": "x-1516685883649032414",
+          "fecha_utc": "2026-06-17T06:08:44.630000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1516686014960373760"
+        },
+        {
+          "mensaje_id": "1525644104112013384",
+          "escena": "x-1525644061778645023",
+          "fecha_utc": "2026-07-11T23:24:59.517000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1525644104112013384"
+        },
+        {
+          "mensaje_id": "1561659564057698385",
+          "escena": "x-1561659442070560880",
+          "fecha_utc": "2026-10-19T08:37:34.303000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1561659564057698385"
+        },
+        {
+          "mensaje_id": "1561659676020703266",
+          "escena": "x-1561659442070560880",
+          "fecha_utc": "2026-10-19T08:38:00.997000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1561659676020703266"
+        }
+      ]
+    },
+    {
+      "nombre": "La usurpación de Kiaransalee",
+      "avance": "Ocupa el Trono de las Telarañas ante Yiccardaria y somete por fuerza a Selvetarm, sin que acepte servirla. Responde a Brythya en lugar de Eskavidne y culpa a Unthuar del silencio de Lolth. Las acusaciones y sus explicaciones no equivalen a hechos verificados por todos. Vhaeraun busca a Eilistraee para hablar de la madre, pero la conversación se corta antes del contenido.",
+      "pruebas": [
+        "1517047493186027550",
+        "1526554349164040302",
+        "1527609083862061056",
+        "1528736840025243711"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1517047493186027550",
+          "escena": "x-1517047264676286604",
+          "fecha_utc": "2026-06-18T06:05:07.755000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1517047493186027550"
+        },
+        {
+          "mensaje_id": "1526554349164040302",
+          "escena": "x-1526554335436341368",
+          "fecha_utc": "2026-07-14T11:41:58.849000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1526554349164040302"
+        },
+        {
+          "mensaje_id": "1527609083862061056",
+          "escena": "x-1527609013494222929",
+          "fecha_utc": "2026-07-17T09:33:07.197000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1527609083862061056"
+        },
+        {
+          "mensaje_id": "1528736840025243711",
+          "escena": "x-1528736821545144380",
+          "fecha_utc": "2026-07-20T12:14:25.219000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1528736840025243711"
+        }
+      ]
+    },
+    {
+      "nombre": "El frente diplomático de Xhuldriss",
+      "avance": "Brythya manda a Viztya hablar con Xorlarrynis antes de informar al Consejo propio. La enviada llega ante Zissta y pronuncia Kiaransalee como asunto. No llega a formularse una alianza ni respuesta concreta.",
+      "pruebas": [
+        "1527609187033682051",
+        "1543267129707471010",
+        "1543267248565780640"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1527609187033682051",
+          "escena": "x-1527609013494222929",
+          "fecha_utc": "2026-07-17T09:33:31.795000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1527609187033682051"
+        },
+        {
+          "mensaje_id": "1543267129707471010",
+          "escena": "x-1542790265864065034",
+          "fecha_utc": "2026-08-29T14:32:36.239000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1543267129707471010"
+        },
+        {
+          "mensaje_id": "1543267248565780640",
+          "escena": "x-1542790265864065034",
+          "fecha_utc": "2026-08-29T14:33:04.577000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1543267248565780640"
+        }
+      ]
+    },
+    {
+      "nombre": "Vhaer'Ryl y la superficie",
+      "avance": "Nistra acepta seguir y capturar al Zin-Carla para Unthuar en secreto. En la costa precisa que también tomarán a su objetivo y añade un encargo de una cofradía de Carnan sobre un tiefling sin nombre. Su banda encuentra al marine Jacky junto a un fuerte aparentemente abandonado y lo retiene como fuente de utilidad.",
+      "pruebas": [
+        "1529725229059018862",
+        "1553735210586349669",
+        "1553735344120143884"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1529725229059018862",
+          "escena": "x-1529725213242298398",
+          "fecha_utc": "2026-07-23T05:41:55.528000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1529725229059018862"
+        },
+        {
+          "mensaje_id": "1553735210586349669",
+          "escena": "x-1553735210586349669",
+          "fecha_utc": "2026-09-27T11:49:01.208000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1553735210586349669"
+        },
+        {
+          "mensaje_id": "1553735344120143884",
+          "escena": "x-1553735210586349669",
+          "fecha_utc": "2026-09-27T11:49:33.045000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1553735344120143884"
+        }
+      ]
+    }
+  ],
+  "pendientes": [
+    {
+      "pregunta": "¿Qué hija es el Zin-Carla, a quién persigue y qué pide Kiaransalee a cambio de libertad?",
+      "pruebas": [
+        "1524293923940335717",
+        "1542789464588423252"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1524293923940335717",
+          "escena": "x-1524293375191289978",
+          "fecha_utc": "2026-07-08T05:59:51.479000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1524293923940335717"
+        },
+        {
+          "mensaje_id": "1542789464588423252",
+          "escena": "x-1542789464588423252",
+          "fecha_utc": "2026-08-28T06:54:32+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1542789464588423252"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué precio cobrarán las yochlol por el Zin-Carla?",
+      "pruebas": [
+        "1495828523816849509"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1495828523816849509",
+          "escena": "x-1495828307843747971",
+          "fecha_utc": "2026-04-20T16:48:31.228000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1495828523816849509"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Dónde está Lolth y cuál fue el papel completo de Danifae como recipiente?",
+      "pruebas": [
+        "1527609083862061056"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1527609083862061056",
+          "escena": "x-1527609013494222929",
+          "fecha_utc": "2026-07-17T09:33:07.197000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1527609083862061056"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué acuerdan Vhaeraun y Eilistraee y cuál es el destino de Selvetarm?",
+      "pruebas": [
+        "1528736840025243711",
+        "1526554349164040302"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1528736840025243711",
+          "escena": "x-1528736821545144380",
+          "fecha_utc": "2026-07-20T12:14:25.219000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1528736840025243711"
+        },
+        {
+          "mensaje_id": "1526554349164040302",
+          "escena": "x-1526554335436341368",
+          "fecha_utc": "2026-07-14T11:41:58.849000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1526554349164040302"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué obtiene Viztya de Zissta y de las casas de Xhuldriss?",
+      "pruebas": [
+        "1543267248565780640"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1543267248565780640",
+          "escena": "x-1542790265864065034",
+          "fecha_utc": "2026-08-29T14:33:04.577000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1543267248565780640"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Vhaer'Ryl captura al Zin-Carla y su objetivo, y qué ocurre con Jacky y el tiefling?",
+      "pruebas": [
+        "1553735210586349669",
+        "1553735344120143884"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1553735210586349669",
+          "escena": "x-1553735210586349669",
+          "fecha_utc": "2026-09-27T11:49:01.208000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1553735210586349669"
+        },
+        {
+          "mensaje_id": "1553735344120143884",
+          "escena": "x-1553735210586349669",
+          "fecha_utc": "2026-09-27T11:49:33.045000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1553735344120143884"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién es exactamente Jely en el testimonio de Nistra y qué ayuda de fuga le dio?",
+      "pruebas": [
+        "1529725461595295795"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1529725461595295795",
+          "escena": "x-1529725326790496439",
+          "fecha_utc": "2026-07-23T05:42:50.969000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1529725461595295795"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Se transforma a la acólita inocente en draña y qué ocurre con el gobierno real de Rheydyn?",
+      "pruebas": [
+        "1561659676020703266"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1561659676020703266",
+          "escena": "x-1561659442070560880",
+          "fecha_utc": "2026-10-19T08:38:00.997000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1561659676020703266"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué descendencia anuncia Brythya y qué margen de decisión tendrán Aunfaere y Deyvon?",
+      "pruebas": [
+        "1561659676020703266"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1561659676020703266",
+          "escena": "x-1561659442070560880",
+          "fecha_utc": "2026-10-19T08:38:00.997000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1561659676020703266"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué poder y posición permiten a Lyriel frenar a Brythya?",
+      "pruebas": [
+        "1516341634638417920"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1516341634638417920",
+          "escena": "x-1516341525163016312",
+          "fecha_utc": "2026-06-16T07:20:17.963000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1516341634638417920"
+        }
+      ]
+    }
+  ],
+  "relaciones": [
+    {
+      "personas": [
+        "Brythya",
+        "Deyvon",
+        "Viztya",
+        "Lyriel"
+      ],
+      "desarrollo": "Familia noble con violencia materna y fraterna, control político y espionaje. Lyriel mantiene una autoridad observada sobre la madre; no asumir afecto ni protección incondicional.",
+      "pruebas": [
+        "1513461921104269442",
+        "1516341525163016312",
+        "1516341634638417920"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1513461921104269442",
+          "escena": "x-1513461604342038629",
+          "fecha_utc": "2026-06-08T08:37:20.754000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1513461921104269442"
+        },
+        {
+          "mensaje_id": "1516341525163016312",
+          "escena": "x-1516341525163016312",
+          "fecha_utc": "2026-06-16T07:19:51.862000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1516341525163016312"
+        },
+        {
+          "mensaje_id": "1516341634638417920",
+          "escena": "x-1516341525163016312",
+          "fecha_utc": "2026-06-16T07:20:17.963000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1516341634638417920"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Deyvon",
+        "Aunfaere"
+      ],
+      "desarrollo": "Consortes impuestos con resentimientos comunes y estrategias de utilización mutua. Confidencias y aparente defensa pública no acreditan amor ni consentimiento libre.",
+      "pruebas": [
+        "1516686014960373760",
+        "1520742062440583250",
+        "1525644104112013384"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1516686014960373760",
+          "escena": "x-1516685883649032414",
+          "fecha_utc": "2026-06-17T06:08:44.630000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1516686014960373760"
+        },
+        {
+          "mensaje_id": "1520742062440583250",
+          "escena": "x-1520741447748419594",
+          "fecha_utc": "2026-06-28T10:46:01.707000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1520742062440583250"
+        },
+        {
+          "mensaje_id": "1525644104112013384",
+          "escena": "x-1525644061778645023",
+          "fecha_utc": "2026-07-11T23:24:59.517000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1525644104112013384"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Miz'lin",
+        "Aunfaere"
+      ],
+      "desarrollo": "Madre e hija bajo humillación y amenaza de sacrificio; la hija termina matando a la madre y aceptando la oferta de sucesión de Brythya.",
+      "pruebas": [
+        "1495828393718059110",
+        "1561659564057698385"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1495828393718059110",
+          "escena": "x-1495828307843747971",
+          "fecha_utc": "2026-04-20T16:48:00.210000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1495828393718059110"
+        },
+        {
+          "mensaje_id": "1561659564057698385",
+          "escena": "x-1561659442070560880",
+          "fecha_utc": "2026-10-19T08:37:34.303000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1561659564057698385"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Brythya",
+        "Nistra"
+      ],
+      "desarrollo": "Contratos y necesidad mutua bajo desprecio, provocación y amenaza de represalias por una fuga anterior.",
+      "pruebas": [
+        "1529725213242298398",
+        "1529725461595295795"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1529725213242298398",
+          "escena": "x-1529725213242298398",
+          "fecha_utc": "2026-07-23T05:41:51.757000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1529725213242298398"
+        },
+        {
+          "mensaje_id": "1529725461595295795",
+          "escena": "x-1529725326790496439",
+          "fecha_utc": "2026-07-23T05:42:50.969000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1529725461595295795"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Nistra",
+        "Dimleila",
+        "Greya",
+        "Velkyn"
+      ],
+      "desarrollo": "Banda de mercenarios que permite quejas y discusión, con mando final de Nistra. Sin parentescos inferidos por mi pequeña amiga.",
+      "pruebas": [
+        "1529725461595295795",
+        "1553735344120143884"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1529725461595295795",
+          "escena": "x-1529725326790496439",
+          "fecha_utc": "2026-07-23T05:42:50.969000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1529725461595295795"
+        },
+        {
+          "mensaje_id": "1553735344120143884",
+          "escena": "x-1553735210586349669",
+          "fecha_utc": "2026-09-27T11:49:33.045000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1553735344120143884"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Vhaeraun",
+        "Eilistraee"
+      ],
+      "desarrollo": "Hermanos que aceptan conversar sobre su madre pese a la barrera que rechaza al primero.",
+      "pruebas": [
+        "1528736840025243711"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1528736840025243711",
+          "escena": "x-1528736821545144380",
+          "fecha_utc": "2026-07-20T12:14:25.219000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1528736840025243711"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Kiaransalee",
+        "Zin-Carla"
+      ],
+      "desarrollo": "Promesa condicionada de libertad e influencia que desplaza las órdenes maternas; no independencia plena demostrada.",
+      "pruebas": [
+        "1542789464588423252"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1542789464588423252",
+          "escena": "x-1542789464588423252",
+          "fecha_utc": "2026-08-28T06:54:32+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1542789464588423252"
+        }
+      ]
+    }
+  ],
+  "precauciones_editoriales": [
+    "Ches Farak, Xhuldriss y los planos divinos se presentan como escenarios de narración escrita; sus escenas no convierten a todos los protagonistas en testigos.",
+    "La Casa Unth'Ur de Vandree no se confunde con Unthuar.",
+    "No asignar nombre al Zin-Carla ni al tiefling mediante menciones a usuarios.",
+    "No completar la conversación de los hermanos divinos ni las condiciones aplazadas de las yochlol.",
+    "La muerte de Miz'lin sí ocurre; la transformación de la acólita y el nacimiento de la nieta no.",
+    "La intimidad coercitiva se resume sin convertirla en romance consentido.",
+    "Los tiempos internos de un mes o un año de viaje no sustituyen la fecha documental de publicación.",
+    "La telepatía del anillo, los signos de Greya, los pensamientos de Deyvon y las acusaciones políticas conservan su modalidad y ámbito.",
+    "Los datos compartidos del mundo no autorizan fusionar evidencias entre campañas."
+  ],
+  "estado_seguimiento": "al_cierre_del_hilo",
+  "nota_seguimiento": "Cada cuestión conserva el contexto de sus mensajes originales. Los cotejos enlazan las respuestas halladas en otras escenas; la ausencia de un cotejo no demuestra que siga abierta después de otros capítulos.",
+  "fecha_hasta_utc": "2026-10-19T08:38:00.997000+00:00"
+}

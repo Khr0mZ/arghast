@@ -1,0 +1,129 @@
+{
+  "id": "x-1561659442070560880",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1561659442070560880",
+  "hilo_id": "1495828307843747971",
+  "hilo_nombre": "??? - En alguna parte",
+  "titulo": "Aunfaere mata a Miz'lin y toma Rheydyn bajo Unthuar",
+  "resumen": "La pérdida de control del Zin-Carla precipita la intervención de Brythya y Deyvon; la nueva matrona queda subordinada en secreto.",
+  "relato": "Miz'lin castiga a una acólita por la pérdida de conexión con el Zin-Carla, aunque la joven no es responsable. Aunfaere contempla el abuso y recuerda sus propias cicatrices. Brythya entra sobre un disco flotante y aparenta estar sola. Advierte sobre la fe debilitada y las bendiciones contaminadas por diosas usurpadoras, mientras la anfitriona calcula cómo matarla.\n\nMiz'lin prepara un rayo necrótico, convencida de que derribar a la regente permitiría reclamar el favor de Lolth. Antes de lanzarlo, pierde la mano de un tajo. Deyvon aparece al deshacerse su invisibilidad y le pone una daga al cuello. Los guardias desenfundan y Aunfaere empieza un conjuro, pero Brythya le ofrece otra salida: la muerte de su madre como accidente y su propia elevación a matrona.\n\nLa sacerdotisa recuerda años de humillación, comparaciones y palizas. Golpea a Miz'lin con el látigo de serpientes y el veneno termina matándola. Brythya celebra la elección y la reconoce como Aunfaere Rheydyn ante las demás casas, pero le impone en privado la pertenencia real a Unthuar. Mira su vientre al hablar de una futura nieta que deberá hacerse cargo.\n\nAunfaere acepta la nueva subordinación. Brythya le ordena convertir a la acólita inocente en una draña como castigo ejemplar. La escena termina en la orden y el terror de la joven, sin mostrar la transformación. Se consuma la muerte de Miz'lin y la sucesión impuesta, no la libertad de su hija ni la resolución del Zin-Carla.",
+  "participantes": [
+    "Miz'lin Rheydyn",
+    "Aunfaere",
+    "Brythya Unthuar",
+    "Deyvon",
+    "Acólita de Rheydyn"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1561659442070560880",
+      "afirmacion": "Miz'lin castiga a una acólita inocente por perder la conexión con el Zin-Carla y llega Brythya.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1561659463704772739",
+      "afirmacion": "Miz'lin intenta atacar a Brythya con un conjuro.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1561659564057698385",
+      "afirmacion": "Deyvon cercena la mano de Miz'lin y Aunfaere la mata con su látigo envenenado.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1561659676020703266",
+      "afirmacion": "Brythya impone a la nueva matrona subordinación secreta a Unthuar y ordena castigar a la acólita convirtiéndola en draña.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "La muerte de Miz'lin está narrada explícitamente; no es una amenaza o una visión.",
+    "El nombre público Rheydyn y la subordinación Unthuar son ámbitos distintos de la imposición política.",
+    "La futura nieta es anunciada por Brythya con una mirada al vientre; no se añaden nombre, nacimiento ni detalles no presentes.",
+    "La conversión de la acólita queda ordenada, sin ejecución mostrada.",
+    "La causa completa de la pérdida de conexión se desarrolla en otras viñetas, sin comunicación pública demostrada a todos los presentes."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-10-19T08:37:05.219000+00:00",
+  "fin_utc": "2026-10-19T08:38:00.997000+00:00",
+  "fecha_local": "2026-10-19",
+  "intervalo": {
+    "anterior": 72,
+    "siguiente": null,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236",
+    "siguiente_fuente": null,
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 72,
+        "fecha": "2026-10-16",
+        "inicio_referencia_utc": "2026-10-16T18:28:13+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1561659442070560880",
+      "fecha_utc": "2026-10-19T08:37:05.219000+00:00",
+      "fecha_local": "2026-10-19",
+      "editado_utc": null,
+      "texto": "**Miz’lin Rheydyn, Matrona de la Tercera Casa de Ches Farak, acababa de abofetear a una de sus acólitas. Los anillos de ónice que adornaban su mano, rematados en finas puntas que imitaban las patas de una araña, habían dejado profundas marcas en el rostro de la muchacha. Sin embargo, esta no se inmutó. Tampoco podía permitírselo. Cualquier respuesta que no fuera una disculpa podía costarle la vida o, incluso, algo peor: ser transformada en una draña y perder para siempre su libertad.**\n\n**Aunfaere permanecía junto a su madre, presenciando la violenta escena. La joven acólita no era culpable de lo ocurrido; lo más probable era que ni siquiera supiera qué había sucedido. Pero eso daba igual. Alguien debía pagar por la pérdida de la conexión con el Zin-Carla, y aquella drow había tenido la desgracia de encontrarse en el lugar equivocado en el peor momento posible. ¿Cuántas veces había recibido ella misma aquella lección de su madre? De manera instintiva, Aunfaere se llevó una mano a la cicatriz que tenía en el brazo. Solo entonces se percató de que la otra descansaba sobre la empuñadura de su látigo de serpientes.**\n\n???: No me imagino qué puede haber hecho una joven acólita para enfurecer tanto a una Matrona. **La voz procedía de la entrada de la sala de audiencias de la Casa Rheydyn. Las tres mujeres y los guardias presentes se volvieron hacia el umbral. Por instinto, todos, excepto Miz’lin, agacharon la cabeza ante la recién llegada. La Madre Matrona Brythya Unthuar atravesó la sala sobre su disco flotante. Su presencia bastó para cambiar el ambiente de la estancia. Avanzó sin prisa hasta detenerse junto a la acólita arrodillada al pie de las escaleras que conducían al trono de Miz’lin.** No debes ofender a tu Matrona, niña. Fracasar en algo que te ha pedido tu Matrona es fracasar en algo que te ha pedido Lady Lolth. **La drow más poderosa de Ches Farak ni siquiera se dignó a mirar a la muchacha. Aunque sus palabras parecían dirigidas a ella, su verdadero destinatario era otro.**\n\nMiz’lin: Madre Matrona Unthuar, es una bendición tener entre nuestras paredes a la voz de la diosa. **La Matrona de la Casa Rheydyn apretó los puños, conteniendo su rabia. ¿Quién había permitido que aquella mujer entrara en su casa sin avisarla? Más de un guardia pagaría por semejante negligencia.** Supongo que es algo importante para que haya venido en persona... **Mientras hablaba, examinó el espacio a espaldas de Brythya, buscando soldados o alguna acólita de la Casa Unthuar. Sabía que Viztya había partido meses atrás hacia la ciudad de Xhuldriss y que Lyriel, su hija mayor y la más temible de todas, podía encontrarse en cualquier lugar.**",
+      "mensaje_sha256": "2ec74b1abb4e9a0d5b839fbb8b6b12ab38b002ab851a607c0b59d9c3d55cd2ef",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1561659442070560880",
+      "texto_sha256": "fc23cb7d9e783c0ef031536c3144b01f692d3023e614ad920fa98e013823d63e",
+      "adjuntos": []
+    },
+    {
+      "id": "1561659463704772739",
+      "fecha_utc": "2026-10-19T08:37:10.377000+00:00",
+      "fecha_local": "2026-10-19",
+      "editado_utc": null,
+      "texto": "Brythya: Sola. **La Madre Matrona respondió sin apartar la mirada de Miz’lin, sentada en su trono. Aunfaere contempló a Brythya con curiosidad. Sabía que era una poderosa sacerdotisa de Lolth y que su casa gozaba de las bendiciones de la Señora del Caos. Pero presentarse sin escolta en una Casa Noble drow era una imprudencia, incluso para alguien como ella. Brythya seguía siendo mortal, y enfrentarse a una Matrona en su propio hogar era una locura. Aunque la Madre Matrona Unthuar no era una mujer que actuara sin pensar. Aunfaere miró a su madre. Miz’lin parecía desconcertada, pero su expresión revelaba algo más. La joven conocía bien aquella mirada: su madre ya estaba calculando las innumerables maneras de acabar con Brythya.** Hay ciertas cuestiones que ponen en peligro nuestra posición. **La Madre Matrona habló sin rodeos.** Como ya habrá notado una Matrona tan devota como usted, nuestros rezos son respondidos por las sirvientas de nuestra Señora del Caos, en vez de por ella misma. Lady Lolth está ocupada y no tiene tiempo de ocuparse de simples rezos. **Su mirada se endureció.** Pero eso no es motivo para que nuestra fe se debilite. Solo aquellas débiles de fe dejan de confiar en nuestra Señora por tan poco, ¿no es así, sacerdotisa Aunfaere? **La pregunta pilló desprevenida a la joven. Aunfaere no supo qué responder, pero tampoco tuvo ocasión de hacerlo. Brythya continuó hablando sin esperar una respuesta.** Y solo las estúpidas utilizan bendiciones contaminadas por diosas usurpadoras.\n\nMiz’lin: ¿Qué está insinuando, Madre Matrona? **Miz’lin comenzó a removerse, incómoda, en su asiento. Bajo la capa, sus dedos empezaron a trazar los movimientos necesarios para preparar un conjuro que pudiera lanzar contra Brythya. Sabía que no bastaría para acabar con ella, pero quizá le daría a su hija y a los guardias el tiempo necesario para reaccionar antes de que la Madre Matrona contraatacara.** ¿Cree que alguna de las Casas que se sientan en el Consejo Regente es una traidora?\n\nBrythya: Tal vez... **Brythya respondió con una expresión que no dejaba entrever si había advertido los movimientos de Miz’lin.** Aunque no creo que sea traición. Ninguna Casa sería tan estúpida como para oponerse al Consejo dirigido por la Casa elegida por la mismísima Lady Lolth, ¿no cree?\n\nMiz’lin: Elegida... **La Matrona Rheydyn repitió la palabra en voz baja. En su interior, la rabia crecía con cada segundo que pasaba. Por culpa de aquella mujer y de su familia había perdido a sus hijas. Y, como si eso no fuera suficiente, habían tratado a su Casa como a un animal herido que necesitaba los cuidados de su amo. Como si los Rheydyn debieran agradecer eternamente la misericordia de los Unthuar. Se había cansado de aquello. Acabar con Brythya supondría un riesgo. El Consejo Regente podría acusarla de traición y volverse contra su Casa. Pero ¿quién se atrevería a imponerse a ella si lograba matar a la Madre Matrona? ¿Y si la muerte de Brythya significaba que Lady Lolth había elegido a otra? La idea comenzó a tomar forma en su mente. Miz’lin se convenció de que aquella era su oportunidad. Sus dedos terminaron de trazar el conjuro. Entonces, sin apartar los ojos de Brythya, movió la mano y desató su magia contra la Madre Matrona de Ches Farak.**",
+      "mensaje_sha256": "144304fc62ba3256a79688a062cea76d2b302f3e0a1780aa9dda0fa69edcbd04",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1561659463704772739",
+      "texto_sha256": "1a19995c31e021161fe230a810139eb0fa08fd8676a9646d6d7fb14c65de4a7b",
+      "adjuntos": []
+    },
+    {
+      "id": "1561659564057698385",
+      "fecha_utc": "2026-10-19T08:37:34.303000+00:00",
+      "fecha_local": "2026-10-19",
+      "editado_utc": null,
+      "texto": ".\n**La Matrona Rheydyn sintió un dolor terrible. La mano con la que debería haber lanzado un poderoso rayo de energía necrótica cayó al suelo, cercenada de un solo tajo. La sangre brotó a borbotones de la herida mientras Miz’lin comenzaba a gritar de dolor. Los guardias, desconcertados, desenfundaron sus armas por puro instinto. La acólita que permanecía junto a la Madre Matrona Brythya dejó escapar un chillido de terror. La única que reaccionó a tiempo fue la sacerdotisa Aunfaere, que comenzó a recitar un conjuro con rapidez. A espaldas de Miz’lin, una figura empezó a materializarse cuando se disipó la magia de invisibilidad. Una fría daga se apoyó contra el cuello de la Matrona Rheydyn. Deyvon Unthuar sonreía con picardía mientras observaba las reacciones de los presentes.**\n\nMiz'lin: ¡¿Cómo te atreves?! **Vociferó Miz’lin, apretándose el muñón mientras trataba de conjurar una magia curativa para cerrar la herida.** Cuando las demás Casas se enteren de esto… ¡No van a permitir que…!\n\nBrythya: ¿Que se enteren de que la pobre Matrona Miz’lin sufrió un desafortunado accidente que le costó la vida? **La poderosa Matrona Unthuar dirigió una mirada a la sacerdotisa Aunfaere, acompañada de una sonrisa maliciosa.** ¿Y de que su única hija viva se ha convertido en la nueva Matrona de la Casa Rheydyn? Son cosas que pasan, ¿no crees?\n\n**Aunfaere se quedó petrificada, escuchando las palabras de la Madre Matrona de Ches Farak. Miró a su madre, ahora vulnerable, con una mano cercenada y una daga amenazándole el cuello. Después, sus ojos se desviaron hacia su marido, Deyvon, que la mantenía a su merced.**\n**Recordó todos los momentos que había compartido con su madre: las enseñanzas, las humillaciones y las palizas que recibía por no estar a la altura de sus hermanas. Siempre se había odiado a sí misma por no ser lo bastante buena, por no cumplir las expectativas que se le exigían y por quedarse siempre atrás, incluso cuando sus hermanas ya habían muerto. Miz’lin se había encargado de recordarle una y otra vez que era inferior a ellas.**\n**Pero ahora ya no. Sus hermanas estaban muertas. Y su madre también podía estarlo.**\n\n**Cuando Aunfaere se dio cuenta de lo que había hecho, su látigo de serpientes ya había golpeado a Miz’lin. Las criaturas se aferraban al rostro de la Matrona y hundían sus colmillos en su carne con una violencia despiadada. Miz’lin gritó, retorciéndose de dolor mientras las serpientes la mordían una y otra vez. Pero aquello no era más que el principio. Cuando el veneno comenzó a extenderse por su cuerpo, sus gritos se transformaron en horribles gorgoteos. Poco después, empezó a vomitar espuma verdosa hasta que, finalmente, su cuerpo quedó inerte en el suelo.**\n\nBrythya: Buena elección, Matrona Aunfaere **Dijo con una sonrisa de satisfacción.**",
+      "mensaje_sha256": "c9ee4e1d0f1c248fcf7e21282d063ddf3878d091fcb65ceee7c2b80b8353c3f3",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1561659564057698385",
+      "texto_sha256": "11684baf30de043aac1b41580bb82b62e88b5ed864ebc8811d0eb701d1c907c1",
+      "adjuntos": []
+    },
+    {
+      "id": "1561659676020703266",
+      "fecha_utc": "2026-10-19T08:38:00.997000+00:00",
+      "fecha_local": "2026-10-19",
+      "editado_utc": "2026-10-19T08:38:19.124000+00:00",
+      "texto": ".\nAunfaere: Yo… Yo… **Tartamudeó durante unos segundos la nueva Matrona de la Casa Rheydyn.** \n\nBrythya: Tú eres la Matrona de la Tercera Casa de Ches Farak **Dijo mientras la observaba.** La Matrona Aunfaere Rheydyn. **Su mirada se endureció.** Pero eso solo será así ante las demás Casas y el Consejo Regente. **Antes de que Aunfaere pudiera preguntar, Brythya continuó.** Porque lo que eres en realidad es la Matrona Aunfaere Unthuar. Un título que espero que mantengas hasta que mi nueva nieta pueda hacerse cargo. **Su mirada descendió hasta el vientre de Aunfaere, dejando clara la razón de sus palabras.** ¿Ha quedado claro, Matrona Aunfaere?\n\nAunfaere: Sí, Madre Matrona **Respondió unos segundos después, cuando por fin comprendió lo que estaba ocurriendo.**\n\nBrythya: Bien. Ahora, haz algo con esta acólita **Ordenó, desviando por primera vez la mirada hacia la joven que permanecía a su lado.** Ha ofendido a la antigua Matrona de la Casa y eso merece un castigo ejemplar. Conviértela en una horrible draña.\n\n**Los ojos de la joven acólita se abrieron de par en par. Su mirada pasó del cadáver de Miz’lin a la Madre Matrona de Ches Farak, cuyo rostro no dejaba lugar a dudas. No había súplicas que pudieran salvarla de aquel destino.**\n\n🔴 Fin de la escena 🔴",
+      "mensaje_sha256": "77389086a2073e96819dba5d63af6e6acc1358d19cb4d131fe47cf10ab30952c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1561659676020703266",
+      "texto_sha256": "e61162e292c70f77c094bf91d8907777695c691b0799525172c2b9155c496477",
+      "adjuntos": []
+    }
+  ]
+}

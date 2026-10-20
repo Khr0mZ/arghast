@@ -1,0 +1,227 @@
+{
+  "id": "x-1476353945050943620",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1476353945050943620",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "La noticia de los compañeros presos",
+  "resumen": "Aerendriel regresa y lleva su petición a la taberna.",
+  "relato": "Aerendriel llega maltrecho al Zampaolas acompañado de su dragoncito. Nox le ofrece carne para la criatura, agua y una ración, y escucha que la misión encargada por Bonnie para buscar al mono terminó mal: Patata, la hada y el otro muchacho quedaron capturados. Citlali duerme junto al huevo y Nox decide no despertarla.\n\nEl elfo describe a los captores como seres pequeños, bípedos y escamosos que conviven con caimanes en el pantano del norte. Dice que también regresó Ayoto, a quien identifica como el hombre que habla con el Sol. Nox sospecha de su vuelta en solitario; Aerendriel niega haber traicionado al grupo y precisa que necesita un hallazgo importante para salvar a su familia. Admite que teme a Bonnie. El pirata lo insta a actuar y acudir a la taberna. Antes de bajar al Ron de Bonny, Aerendriel se disculpa en dracónico con el pequeño dragón y le indica que busque a alguien como la abuela si él no regresa. La conversación se traslada explícitamente a otro hilo.",
+  "participantes": [
+    "Aerendriel",
+    "Nox",
+    "Dragón de Aerendriel"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1476355647309353152",
+      "afirmacion": "Aerendriel comunica que Patata, la hada y el otro muchacho quedaron capturados.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1476483640904122428",
+      "afirmacion": "Describe captores escamosos asociados con caimanes al norte.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1476487121396301936",
+      "afirmacion": "Identifica a Ayoto como otro retornado y dice buscar un hallazgo para salvar a su familia.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1476490063914336298",
+      "afirmacion": "Aerendriel deja indicaciones al dragón y baja a la taberna.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La acción en el Ron de Bonny no se duplica ni se inventa entre ambos tramos.",
+    "Las exigencias económicas de Nox constan como un acuerdo obtenido bajo amenaza; no se suponen cobros posteriores.",
+    "El acompañante de Aerendriel es llamado explícitamente dragón en esta unidad.",
+    "No se afirma que la advertencia sobre los nahuales pruebe el contenido completo del libro."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-02-25T23:03:29.830000+00:00",
+  "fin_utc": "2026-02-26T08:46:00.156000+00:00",
+  "fecha_local": "2026-02-26",
+  "intervalo": {
+    "anterior": 10,
+    "siguiente": 11,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1476293643718361240",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1476657677277991027",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 10,
+        "fecha": "2026-02-25",
+        "inicio_referencia_utc": "2026-02-25T19:03:39+00:00",
+        "fin_estimado_utc": "2026-02-25T21:43:11+00:00",
+        "duracion_video_segundos": 9572,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1476293643718361240"
+      },
+      {
+        "capitulo": 11,
+        "fecha": "2026-02-26",
+        "inicio_referencia_utc": "2026-02-26T19:10:07+00:00",
+        "fin_estimado_utc": "2026-02-26T22:26:48+00:00",
+        "duracion_video_segundos": 11801,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1476657677277991027"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1476353945050943620",
+      "fecha_utc": "2026-02-25T23:03:29.830000+00:00",
+      "fecha_local": "2026-02-26",
+      "editado_utc": null,
+      "texto": "Aerendriel:\n\n**Subo las escaleras con dificultad acompañado por el dragoncito y se quedaría sentado apoyado en el mástil del barco**",
+      "mensaje_sha256": "fd6876443146129d60bcc742dee93b0b449bd9fa8d18c054c8a4cba19a9dd161",
+      "tipo_discord": 19,
+      "referencia": "1476350865458597999",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476353945050943620",
+      "texto_sha256": "119501e9c54b95279e61e80866bdfab6e0c2d57be3e75ae7324aefeaa70ef3b5",
+      "adjuntos": []
+    },
+    {
+      "id": "1476354498879291462",
+      "fecha_utc": "2026-02-25T23:05:41.873000+00:00",
+      "fecha_local": "2026-02-26",
+      "editado_utc": null,
+      "texto": "Nox: **sube a cubierta **\nVaya vaya... una fiesta que se ha ido de madre ?\n**se acerca al dragon y le da un trozo de carne seca ** \nQue te ha pasado elfo ?",
+      "mensaje_sha256": "00cffd4a2392b2edc5b7b4b1add7a97634833f249907e535080ef50b5bc35254",
+      "tipo_discord": 19,
+      "referencia": "1476353945050943620",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476354498879291462",
+      "texto_sha256": "4c8a358179c976968d0adf0eaec94063ee8116fa438568b9b9a5953e6455ef47",
+      "adjuntos": []
+    },
+    {
+      "id": "1476355647309353152",
+      "fecha_utc": "2026-02-25T23:10:15.680000+00:00",
+      "fecha_local": "2026-02-26",
+      "editado_utc": null,
+      "texto": "**El dragón se pondría a comer el trozo de carne**\n\nAerendriel:\n\nBonnie nos mandó buscar al mono ese y ha salido todo muy mal. Se han quedado con la patata, con la hada y con el otro chico. Necesito hablar con Bonnie pero no creo que esté de buenas.\n\n**Dice con una mirada vacía como si tuviera la mirada de las mil yardas**",
+      "mensaje_sha256": "f5f14cd47cb8b2b495fe181331827e53032459144aed1f1845e2d58b0c7fa8da",
+      "tipo_discord": 19,
+      "referencia": "1476354498879291462",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476355647309353152",
+      "texto_sha256": "3f19521ec0c96dc6625a9bb641c420855f1d3b774d390bb30404261c7cb25e32",
+      "adjuntos": []
+    },
+    {
+      "id": "1476360912217575587",
+      "fecha_utc": "2026-02-25T23:31:10.932000+00:00",
+      "fecha_local": "2026-02-26",
+      "editado_utc": "2026-02-26T07:31:39.878000+00:00",
+      "texto": "Nox: si estuviese a malas no hubieses podido ni subir a la cubierta del barco \nIré a por Citlali tu espera y ara nos cuentas .. \n**te da algo de agua y una racion y baja las escaleras para avisar a <@408026114548695061>**",
+      "mensaje_sha256": "47a34d0068a988ea143774e80fa37bb1514440cefc249ea201bd0c03871c21d6",
+      "tipo_discord": 19,
+      "referencia": "1476355647309353152",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476360912217575587",
+      "texto_sha256": "f1e6d7fc8492359c21f43b37c551c428b28ee8b80c6833fc500c8c2afbd7cb8f",
+      "adjuntos": []
+    },
+    {
+      "id": "1476482337578549290",
+      "fecha_utc": "2026-02-26T07:33:40.994000+00:00",
+      "fecha_local": "2026-02-26",
+      "editado_utc": null,
+      "texto": "Nox: ** al llegar , ve que Citlali esta descansando al lado del huevo,  prefiere no despertarla y sube nuevamente ** \n\nDijiste que se han quedado con la patata el hada y el chico . \nA quien te refieres con ellos ? <@240564189448503306>",
+      "mensaje_sha256": "09a4bfd1814f3069ffce7c797954abd67b5a12163e2f2192c7e1194c7cb70535",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476482337578549290",
+      "texto_sha256": "81227085f5114208ab8912a910972ef1692b6ffbb3e2426c925d6f281eca6084",
+      "adjuntos": []
+    },
+    {
+      "id": "1476483640904122428",
+      "fecha_utc": "2026-02-26T07:38:51.731000+00:00",
+      "fecha_local": "2026-02-26",
+      "editado_utc": "2026-02-26T07:39:21.928000+00:00",
+      "texto": "Aerendriel:\n\nEran como unos seres con piel escamosa, bipedos y pequeños. Y se llevaban bien con los caimanes de la zona del pantano al norte de aquí.\n\n**Mira de vez en cuando en dirección al bar de bonnie**",
+      "mensaje_sha256": "9982dea2851e6b96b7c11a164fb2371b12c2e4691a28cb256af0bc98453d3d0e",
+      "tipo_discord": 19,
+      "referencia": "1476482337578549290",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476483640904122428",
+      "texto_sha256": "c045ca1c297d062ff0f4ebb35c36564301f9eb04f418f05fbeb36a8a02054b8a",
+      "adjuntos": []
+    },
+    {
+      "id": "1476484332754567290",
+      "fecha_utc": "2026-02-26T07:41:36.681000+00:00",
+      "fecha_local": "2026-02-26",
+      "editado_utc": "2026-02-26T07:42:00.324000+00:00",
+      "texto": "Nox: y has regresado solo tu ? Que me impide pensar que los has traicionado y abandonado a su surte \n**mira en la dirección que estás mirando ** \n\nLe tienes miedo ?",
+      "mensaje_sha256": "f26e1dc0cf7e6c73a745d3b54c79d9388cda9df99ca2d319eee5c382565af7f3",
+      "tipo_discord": 19,
+      "referencia": "1476483640904122428",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476484332754567290",
+      "texto_sha256": "9a974a0d5c0a77dd18ca8310ad83a4fc19f266d4992812eaf489964c93e7c120",
+      "adjuntos": []
+    },
+    {
+      "id": "1476487121396301936",
+      "fecha_utc": "2026-02-26T07:52:41.545000+00:00",
+      "fecha_local": "2026-02-26",
+      "editado_utc": null,
+      "texto": "Aerendriel:\n\nHa vuelto también el hombre que habla con el Sol\n\n**Hace la descripción de Ayoto**\n\nNo vengo aquí a mentir, Nox, vengo a buscar o investigar algo lo suficientemente importante para salvar a mi familia.\n\n**Dice con miedo, casi desesperación, creciente, como si estuviera traumatizado**\n\nY si, le tengo miedo.",
+      "mensaje_sha256": "1a697ba362129dae15a478e001ec032ca02a2a406d0a801f158501a71f299d04",
+      "tipo_discord": 19,
+      "referencia": "1476484332754567290",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476487121396301936",
+      "texto_sha256": "7bf62f1ea768b0de8943bf8ad25dbaa7f684a6f5e5c99080a594b1d1729a8bfd",
+      "adjuntos": []
+    },
+    {
+      "id": "1476488562458234962",
+      "fecha_utc": "2026-02-26T07:58:25.121000+00:00",
+      "fecha_local": "2026-02-26",
+      "editado_utc": null,
+      "texto": "Nox: Haces bien el miedo nos mantiene vivos,  pero la indecisión te puede matar.  \nMira chico desde el día en que decidiste poner un pie en el Zampaolas te convertiste en un pirata . \nY el código lo dice bien claro . Cualquier hombre que se queda atrás... se deja atras . \nPero un verdadero hombre lucha por lo que quiere . Así que levanta lávate esa cara de elfo asustado y mueve el culo hasta la taberna . \n**se da la vuelta y camina hacia proa para ir a la taberna ** \nSeguramente nos esté buscando a Ione y ami para pasarnos el marrón.  No tardes te espero en la taberna .",
+      "mensaje_sha256": "d701774c91c9574b200f92d2761c26732cdbe90c8bf596b9bc55cd30d01b2dd6",
+      "tipo_discord": 19,
+      "referencia": "1476487121396301936",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476488562458234962",
+      "texto_sha256": "cd9941f5937a0eba9f05e61a80eb36c2c67ef4278f15c6ddc5ab1937585d40c0",
+      "adjuntos": []
+    },
+    {
+      "id": "1476490063914336298",
+      "fecha_utc": "2026-02-26T08:04:23.096000+00:00",
+      "fecha_local": "2026-02-26",
+      "editado_utc": null,
+      "texto": "Aerendriel:\n\n**Se levantaría y se iria a algun sitio del barco para limpiarse la cara, saldría sin la capucha puesta, se agacharia al dragoncito**\n\nEn Draconico: Lo siento pequeño. Te estaré cuidando siempre que pueda, si ves que no vuelvo. Busca a alguien como la abuela.\n\n**Se levanta, sale de la sala y baja al ron de bonnie**",
+      "mensaje_sha256": "94565288b08f8410f7a46c761aa3bb71f0487dee6228a91b8b1b6a0996780102",
+      "tipo_discord": 19,
+      "referencia": "1476488562458234962",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476490063914336298",
+      "texto_sha256": "3bb62b270aebcf18ac7bc846730e7d3bab9880df38c45db5be4b436a3c40b5de",
+      "adjuntos": []
+    },
+    {
+      "id": "1476500537343082596",
+      "fecha_utc": "2026-02-26T08:46:00.156000+00:00",
+      "fecha_local": "2026-02-26",
+      "editado_utc": null,
+      "texto": "🔴La escena sigue en el Ron de Bonny 🔴",
+      "mensaje_sha256": "73877f1a3563a3769fd4559ebbe76815b6607e814b8f4f8000c5b5d0b3401b67",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476500537343082596",
+      "texto_sha256": "adab33a1bae21d3caa479d484b2a1c4e0c84139a7c846d27463a83bdb078709e",
+      "adjuntos": []
+    }
+  ]
+}

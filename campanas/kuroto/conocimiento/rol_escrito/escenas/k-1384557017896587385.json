@@ -1,0 +1,288 @@
+{
+  "id": "k-1384557017896587385",
+  "campana": "kuroto",
+  "unidad_revision": "k-1384557017896587385",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Seraphina cuenta la amenaza a Guxi",
+  "resumen": "La capitana revela su encuentro con Osurai y Guxi decide hablar con él después de comprar provisiones.",
+  "relato": "Guxi despierta y trabaja en diagramas que parecen de armas. Seraphina se levanta dolorida y él le da una pomada antes de proponer ir a Sho por papel y provisiones para seguir investigando. La capitana acepta y comenta que la salida con Danifae la dejó sin dinero; Guxi ofrece invitarla y comprarle otro pastel de zanahoria. Ella explica entonces que se encontró con la sombra, que le ofreció vino y le exigió no intervenir en sus asuntos. El artífice reconoce a Osurai y decide hablar seriamente con él. Seraphina aclara que condicionó su respuesta a que no pusiera en peligro a Guxi, aunque sabe que él no dejará de ayudar a su amigo. El joven la besa, agradece su apoyo y dice que prefiere evitar la violencia salvo necesidad. Ambos salen juntos a hacer las compras antes de buscar a la entidad, cuyo paradero en el sur es solo una suposición.",
+  "participantes": [
+    "Guxi",
+    "Seraphina Longhop"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1384557017896587385",
+      "afirmacion": "Guxi trabaja en diagramas que parecen de armas.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1384558072130834579",
+      "afirmacion": "Guxi entrega una pomada a Seraphina y propone comprar provisiones.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1384561854868750386",
+      "afirmacion": "Seraphina cuenta el vino y la exigencia de neutralidad de la sombra.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1384562110771757176",
+      "afirmacion": "Guxi identifica a Osurai y quiere hablar con él.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1384563180134600904",
+      "afirmacion": "Guxi besa a Seraphina y decide comprar materiales antes de buscar a la entidad.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1384564761861165198",
+      "afirmacion": "Guxi dice que desea evitar la violencia si no es necesaria.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Quince mensajes íntegros. El informe de Seraphina comparte ahora con Guxi el encuentro de k-1383092480375001108.",
+    "Los diagramas no son armas construidas ni prueban un cambio completo de los principios de Guxi. No se les atribuyen capacidades.",
+    "La pomada no se identifica con los viales que tomó del cuarto de Maroxi. No se inventan ingredientes o procedencia.",
+    "La ubicación de Osurai no se confirma y la conversación con él queda pendiente. Las alusiones a robar dinero o dar golpes no se consuman en esta escena."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-17T15:35:16.892000+00:00",
+  "fin_utc": "2025-06-17T16:10:34.147000+00:00",
+  "fecha_local": "2025-06-17",
+  "intervalo": {
+    "anterior": 127,
+    "siguiente": 128,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1382781538868920370",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1384592935672086533",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 127,
+        "fecha": "2025-06-12",
+        "inicio_referencia_utc": "2025-06-12T17:59:57+00:00",
+        "fin_estimado_utc": "2025-06-12T20:38:52+00:00",
+        "duracion_video_segundos": 9535,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1382781538868920370"
+      },
+      {
+        "capitulo": 128,
+        "fecha": "2025-06-17",
+        "inicio_referencia_utc": "2025-06-17T17:57:43+00:00",
+        "fin_estimado_utc": "2025-06-17T20:42:20+00:00",
+        "duracion_video_segundos": 9877,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1384592935672086533"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1384557017896587385",
+      "fecha_utc": "2025-06-17T15:35:16.892000+00:00",
+      "fecha_local": "2025-06-17",
+      "editado_utc": null,
+      "texto": "guxi: **se despierta y se pone a trabajar en su escritorio parece que esta trabajando en lo que parecen un diagramas de armas **<@408026114548695061> hop estas despierta?",
+      "mensaje_sha256": "67ead6557a7cca39d52729c5dc92263947574385d94e992c95dba4e86c1d6e5b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1384557017896587385",
+      "texto_sha256": "366b7880219e8cb41e17f94a8ac700ed7a3d828261a40e506ff1ea3238130458",
+      "adjuntos": []
+    },
+    {
+      "id": "1384557635423961089",
+      "fecha_utc": "2025-06-17T15:37:44.122000+00:00",
+      "fecha_local": "2025-06-17",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Me levanté con lentitud, moviendome con mucho cuidado**\n\nSi, si estoy despierta... Necesito un ungüento para el dolor...\n\n**Me acerqué hasta el para ver qué era lo que estaba haciendo**\n\nOooooohhhh~ se ve bastante bien",
+      "mensaje_sha256": "3d08bae6723f0b32cbae0fcb6cf359bf6148c4ecd26fe73381b72834ca1ee5d4",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1384557635423961089",
+      "texto_sha256": "3df6d7112760519ebb5cd40d3aa923efff4a0714b126e9334172c889a9593d30",
+      "adjuntos": []
+    },
+    {
+      "id": "1384558072130834579",
+      "fecha_utc": "2025-06-17T15:39:28.241000+00:00",
+      "fecha_local": "2025-06-17",
+      "editado_utc": null,
+      "texto": "guxi: toma esto **le da una pomada** estaba pensando en ir a comprar a sho necesito algunos viveres para seguir mi investigacion",
+      "mensaje_sha256": "1b2d62051bfe763ce530b7aca3b5b7e5a07f4f395ff37ec14d0026116b4ea583",
+      "tipo_discord": 19,
+      "referencia": "1384557635423961089",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1384558072130834579",
+      "texto_sha256": "154e0bbe0d17a4f0c6f00981849daabed8eb2fdf799a2bc5588daad76734ad49",
+      "adjuntos": []
+    },
+    {
+      "id": "1384558627351953568",
+      "fecha_utc": "2025-06-17T15:41:40.616000+00:00",
+      "fecha_local": "2025-06-17",
+      "editado_utc": null,
+      "texto": "Seraphina:\nDame unos 5 minutos para reponerme y te acompaño, sirve que no vas solo y platicamos un poco \n\n**Me estiré, la espalda me estaba matando**\n\nSirve de que veo a quien le robó unas cuantas moneditas, porque Danifae me dejó en quiebra ese día que salimos",
+      "mensaje_sha256": "1d8da2f5de655c2e1648156e1bc71246105b50613ed31664755896dfe556e7fc",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1384558627351953568",
+      "texto_sha256": "4d5b05b811bd90327b1ace835fd3ccdb99ff2f21d9091e1fa8fe1b80150791f8",
+      "adjuntos": []
+    },
+    {
+      "id": "1384559074254917763",
+      "fecha_utc": "2025-06-17T15:43:27.166000+00:00",
+      "fecha_local": "2025-06-17",
+      "editado_utc": null,
+      "texto": "guxi: no te preocupes tengo algo de dinero para invitarte a algo **te dedica una sonrisa** ademas vi que no te comiste el pastel de zanahoria habra que comprar otro",
+      "mensaje_sha256": "e3659bb955c19a749de1da5097fc721a5fec7b2e909bb6a436b32b6ea46d69da",
+      "tipo_discord": 19,
+      "referencia": "1384558627351953568",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1384559074254917763",
+      "texto_sha256": "fc67f52d1ae969768be981290c8eaad884b6fa7a49b36cc55837b4fff5a89635",
+      "adjuntos": []
+    },
+    {
+      "id": "1384561854868750386",
+      "fecha_utc": "2025-06-17T15:54:30.116000+00:00",
+      "fecha_local": "2025-06-17",
+      "editado_utc": null,
+      "texto": "Seraphina: \n\nSucedieron bastantes cosas... \n\n**Volví a sentir ese escalofrío**\n\nMe topé con una sombra muy extraña, algo de Osu...no se qué, me dió un vino y me dijo que no me metiera en sus asuntos y que nada malo pasaría",
+      "mensaje_sha256": "6dc660754d02b3e837dcfffd772e133e6bf6405a8c0f901fda7fd4fd33c71ab7",
+      "tipo_discord": 19,
+      "referencia": "1384559074254917763",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1384561854868750386",
+      "texto_sha256": "40a324727bc59ce99280860f338798e0848c63ebd04df0369e2a9ff06feeab4a",
+      "adjuntos": []
+    },
+    {
+      "id": "1384562110771757176",
+      "fecha_utc": "2025-06-17T15:55:31.128000+00:00",
+      "fecha_local": "2025-06-17",
+      "editado_utc": null,
+      "texto": "guxi: osurai **su expresion se apaga un poco al decir ese nombre** tendre que hablar con el seriamente",
+      "mensaje_sha256": "68af976d8b4a8d61e1cb69d4a8d65eced2617cd16f154e89ad035e10aafe4264",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1384562110771757176",
+      "texto_sha256": "58dc7b8c6035ef051f4a9195959b7f26758d9123be2515d0ee20745412ac0f68",
+      "adjuntos": []
+    },
+    {
+      "id": "1384562617154277456",
+      "fecha_utc": "2025-06-17T15:57:31.859000+00:00",
+      "fecha_local": "2025-06-17",
+      "editado_utc": null,
+      "texto": "Seraphina:\nPero tú tranquilo que le dije que si no te tocaba, todo iba a estar tranquilo, pero no te vas a quedar quieto... Verdad?\n\n**Me terminé de vestir después de haberme puesto el ungüento para el dolor muscular**",
+      "mensaje_sha256": "21a8ee16b79f0e269eb815264337375eb2c8d8a07f0abd05a609063c9645c2fb",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1384562617154277456",
+      "texto_sha256": "d4bb986d5e74afcfb7d86c3a1d81abcdaf52c5ce41a9e4f7ef7cb8b32c0f16da",
+      "adjuntos": []
+    },
+    {
+      "id": "1384563180134600904",
+      "fecha_utc": "2025-06-17T15:59:46.084000+00:00",
+      "fecha_local": "2025-06-17",
+      "editado_utc": null,
+      "texto": "guxi: por supuesto seguramente este en el sur pero quiero hacer estas compras primero me he quedado sin papel y algunas cosas basicas **cuando termina de vestirse se levanta y le da un beso a hop** esa es mi chica",
+      "mensaje_sha256": "a805cba9a4bd16b983e0e59bcd5a80386a93f02a048fa621751ca3586e6d5588",
+      "tipo_discord": 19,
+      "referencia": "1384562617154277456",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1384563180134600904",
+      "texto_sha256": "52c7042826d799cc11a5fef6cda550c49904bde8045e75f2ff44f29f029a4728",
+      "adjuntos": []
+    },
+    {
+      "id": "1384564379110084691",
+      "fecha_utc": "2025-06-17T16:04:31.942000+00:00",
+      "fecha_local": "2025-06-17",
+      "editado_utc": null,
+      "texto": "Seraphina: \nLastima, no quería meterme en problemas pero tocará dar unos cuantos golpes \n\n**Levanté los hombros resignada**",
+      "mensaje_sha256": "2907c803865e04c8362998ca55d180198e82a2a90049cfa12cc59292bfb40604",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1384564379110084691",
+      "texto_sha256": "88414c66f893b2005ec8abe28f83a7d08167274f3f9a5dd0d1687ab106c19d30",
+      "adjuntos": []
+    },
+    {
+      "id": "1384564761861165198",
+      "fecha_utc": "2025-06-17T16:06:03.197000+00:00",
+      "fecha_local": "2025-06-17",
+      "editado_utc": null,
+      "texto": "guxi: no quiero recurrir a la violencia si no es necesario **se pone su chaqueta y la mochila ** nos vamos?",
+      "mensaje_sha256": "42bc1fa6605e98379d48f925b33d62ecf6f3d3c3cf9a7617c090493230bb3e3e",
+      "tipo_discord": 19,
+      "referencia": "1384564379110084691",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1384564761861165198",
+      "texto_sha256": "7004617e7ee299f6cc691e7fb8e342ba1576dce7a2a1a02fa6da85a9061e29aa",
+      "adjuntos": []
+    },
+    {
+      "id": "1384565092372451338",
+      "fecha_utc": "2025-06-17T16:07:21.997000+00:00",
+      "fecha_local": "2025-06-17",
+      "editado_utc": null,
+      "texto": "Seraphina:\nLa violencia no resuelve nada, pero a veces se necesita para calmar las cosas, si no, pregúntale al señor gruñiditos \n\n**Pasé mi mano por su brazo**\n\nVamonos~",
+      "mensaje_sha256": "84504057ed2689a762dfac210f6a80b34dd45b81386617fd78ba5b052c87a251",
+      "tipo_discord": 19,
+      "referencia": "1384564761861165198",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1384565092372451338",
+      "texto_sha256": "2632fd0d00ec8ddd8f461932003601c495b9b2fecfac1a3c22e12f336818b0ea",
+      "adjuntos": []
+    },
+    {
+      "id": "1384565454760181851",
+      "fecha_utc": "2025-06-17T16:08:48.397000+00:00",
+      "fecha_local": "2025-06-17",
+      "editado_utc": null,
+      "texto": "🔩 guxi sale de escena🔩",
+      "mensaje_sha256": "fa00219b2f441961e15119d9511f568d3edadd35bf2279dbb7e3138d5e5329b0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1384565454760181851",
+      "texto_sha256": "e684c549af93a258b115f68a37386a6f33541b453519e2877a0cc24cd84938f3",
+      "adjuntos": []
+    },
+    {
+      "id": "1384565696150900866",
+      "fecha_utc": "2025-06-17T16:09:45.949000+00:00",
+      "fecha_local": "2025-06-17",
+      "editado_utc": null,
+      "texto": "🏴‍☠️ Seraphina sale de escena 🏴‍☠️",
+      "mensaje_sha256": "93fca29c563a7a6fb203808145e97174eccf0627d271967c907666e35135545f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1384565696150900866",
+      "texto_sha256": "40c163f83664f99db128352b7dfac8e53645c6353561699ca3d8df6b74bc6a34",
+      "adjuntos": []
+    },
+    {
+      "id": "1384565898307698708",
+      "fecha_utc": "2025-06-17T16:10:34.147000+00:00",
+      "fecha_local": "2025-06-17",
+      "editado_utc": null,
+      "texto": "🔴 fin de escena🔴",
+      "mensaje_sha256": "12ef61213863ed2fb731fd62ede290a42ee9dbb1b69f64153eb67766d271f195",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1384565898307698708",
+      "texto_sha256": "906cd6a490f27f6a27bf957ba49b4845aca936431f5924262141d6e0dea25762",
+      "adjuntos": []
+    }
+  ]
+}

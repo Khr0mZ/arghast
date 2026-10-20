@@ -1,0 +1,295 @@
+{
+  "id": "k-1414979817077604364",
+  "campana": "kuroto",
+  "unidad_revision": "k-1414979817077604364",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Banzo consulta a Yasuoka sobre los tritones",
+  "resumen": "Ambos reconocen la fuerza de los aliados, pero discrepan sobre cómo afrontar el riesgo que teme el goliat.",
+  "relato": "Banzo camina hacia la mansión de Yasuoka atento a posibles abusos de los tritones. No observa ninguno: ciudadanos y extranjeros se ignoran, salvo por la vigilancia firme de las nuevas tropas. El noble lo recibe como líder de los cazadores y escucha sus dudas. Banzo reconoce que el comercio ha aliviado la crisis, pero pregunta por la presencia militar extranjera. Yasuoka recuerda el aislamiento de su juventud, admira la preparación de los tritones y cree necesaria su fuerza, aunque duda de que se sacrifiquen por Kuroto como los soldados locales. Banzo teme que su superioridad y obediencia a un dragón desemboquen en una ocupación, esclavitud o explotación. Son riesgos que plantea, no hechos que presencie. Ante la pregunta sobre su confianza en la shogun, distingue la amistad con Kalista de su valoración política. Propone prepararse por si ocurre lo peor. Yasuoka no ofrece un plan y recomienda hablar con ella, a quien considera razonable y la mejor esperanza disponible. Ambos acuerdan mantener el contacto y el noble reafirma su lealtad a Kuroto. No se forma una conspiración ni se aprueba una acción contra los tritones.",
+  "participantes": [
+    "Banzo",
+    "Yasuoka"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1414980660770111498",
+      "afirmacion": "Banzo no ve abusos ni trato directo entre ciudadanos y tritones.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1414982037361787084",
+      "afirmacion": "Yasuoka recibe a Banzo como líder de los cazadores.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1414992473859817552",
+      "afirmacion": "Banzo teme una futura apropiación de la isla por los tritones.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1414994865619730462",
+      "afirmacion": "Banzo distingue su confianza personal en Kalista de la política.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1414995768133161095",
+      "afirmacion": "Yasuoka recomienda hablar con Kalista y confiar en ella.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "La valoración sobre la lealtad de tropas extranjeras es de Yasuoka; no se convierte en rasgo universal de los tritones.",
+    "La superioridad militar percibida no prueba ocupación, esclavitud ni un plan del dragón.",
+    "La biografía del primer extranjero que vio Yasuoka no lo identifica por nombre ni lo fusiona con Kazuki u otro personaje."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-09-09T14:24:37.445000+00:00",
+  "fin_utc": "2025-09-09T16:12:12.360000+00:00",
+  "fecha_local": "2025-09-09",
+  "intervalo": {
+    "anterior": 155,
+    "siguiente": 156,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1413222713035587615",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1415765542228332665",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 155,
+        "fecha": "2025-09-04",
+        "inicio_referencia_utc": "2025-09-04T18:02:08+00:00",
+        "fin_estimado_utc": "2025-09-04T21:26:26+00:00",
+        "duracion_video_segundos": 12258,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1413222713035587615"
+      },
+      {
+        "capitulo": 156,
+        "fecha": "2025-09-11",
+        "inicio_referencia_utc": "2025-09-11T18:26:34+00:00",
+        "fin_estimado_utc": "2025-09-11T22:04:21+00:00",
+        "duracion_video_segundos": 13067,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1415765542228332665"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1414979817077604364",
+      "fecha_utc": "2025-09-09T14:24:37.445000+00:00",
+      "fecha_local": "2025-09-09",
+      "editado_utc": "2025-09-09T14:25:37.766000+00:00",
+      "texto": "Banzo : **se acerca a la inmediaciones de la haciendo Yasuoka \nCamina por la ciudad observando que ningún triton se sobrepase con el trato a los nativos . **<@214405113677217793>",
+      "mensaje_sha256": "6c7306f660300935dde08316f845e37218b90070007cdd033443662ce4e78ab6",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1414979817077604364",
+      "texto_sha256": "ab010bca866a09443085a6b433e9761bb1ab3ac85af100e1419d1c1b0faa834e",
+      "adjuntos": []
+    },
+    {
+      "id": "1414980660770111498",
+      "fecha_utc": "2025-09-09T14:27:58.597000+00:00",
+      "fecha_local": "2025-09-09",
+      "editado_utc": null,
+      "texto": "**Como es habitual, no ves ningún tipo de trato entre los tritones y los ciudadanos de Kuroto. Se ignoran entre ellos a excepción de los Guardias Tritón que vigilan firmemente la ciudad. Los ves mucho más preparados que los cansados e inexpertos samurais del Shogunato.**",
+      "mensaje_sha256": "269c8c9b4c4d8ec0782b5364a929552e9bd61fbe303cf6b8b24ccfc1eb12347f",
+      "tipo_discord": 19,
+      "referencia": "1414979817077604364",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1414980660770111498",
+      "texto_sha256": "7fbf01b381113fb9bff6240e3efbe1cc3791bd9304afd93c83ebbb0f69d06951",
+      "adjuntos": []
+    },
+    {
+      "id": "1414981035766321163",
+      "fecha_utc": "2025-09-09T14:29:28.003000+00:00",
+      "fecha_local": "2025-09-09",
+      "editado_utc": null,
+      "texto": "Banzo: **llega a las puertas de la hacienda , si viese algún trabajador o guardia saludaria y le preguntaría si el señor se encuentra en la hacienda , si no , picaria a la puerta **",
+      "mensaje_sha256": "17ec18dc4a88eb8934d5649757ea410909f88753c496a1ec4f0130556aaeba32",
+      "tipo_discord": 19,
+      "referencia": "1414980660770111498",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1414981035766321163",
+      "texto_sha256": "ed8991751e9a5d8602a78de77345429675f6423c2d59eecb9f58704bc1207be8",
+      "adjuntos": []
+    },
+    {
+      "id": "1414982037361787084",
+      "fecha_utc": "2025-09-09T14:33:26.802000+00:00",
+      "fecha_local": "2025-09-09",
+      "editado_utc": null,
+      "texto": "Sirvienta: **Una mujer de mediana edad te abre la puerta y hace una gran reverencia al ver quien eres. Te deja entrar sin problema alguno y te acompaña hasta el despecho del señor Yasuoka donde se encuentra plácidamente tomando un té**\nYasuoka: Vaya, hoy no esperaba compañia. Y menos del líder de los Cazadores **Te hace un gesto con la mano para que te sientes y le aconpañes**",
+      "mensaje_sha256": "92e82c9242edf87f100bfb547509a854f335a9a8b4d6ef9fec5176f241c7c733",
+      "tipo_discord": 19,
+      "referencia": "1414981035766321163",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1414982037361787084",
+      "texto_sha256": "8ffa32412cae7d17fd1f30c47ad37a940e68a4e16423f6c7dcd60d07d516d72b",
+      "adjuntos": []
+    },
+    {
+      "id": "1414983624222179501",
+      "fecha_utc": "2025-09-09T14:39:45.139000+00:00",
+      "fecha_local": "2025-09-09",
+      "editado_utc": null,
+      "texto": "Banzo : siento venir sin avisar , no quisiera venir en mal momento **dice con tono serio desde la puerta justo después hace una reverencia , ya entiende como van las reverencias asi que aposta la hace tan inclinada como si el cargo de yasuoka fuese Shogun **",
+      "mensaje_sha256": "bd73ac44152ab60c8ebb579f6fe4e168dfc4aa086259a3b3755fce3ec3046890",
+      "tipo_discord": 19,
+      "referencia": "1414982037361787084",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1414983624222179501",
+      "texto_sha256": "85bbecbff719a8be203f0339c420fbadf390d2126a4c9117cd55790407a4270d",
+      "adjuntos": []
+    },
+    {
+      "id": "1414983948659851344",
+      "fecha_utc": "2025-09-09T14:41:02.491000+00:00",
+      "fecha_local": "2025-09-09",
+      "editado_utc": null,
+      "texto": "Yasuoka: **Ves como te sirve te en una de las tazas y te la ofrece** Y bien, ¿a que debo esta visita del gran líder Banzo?",
+      "mensaje_sha256": "842d15c6558f2244d6541de8a7b60c47d996b75cc1d12d45b0847c6ee2c34133",
+      "tipo_discord": 19,
+      "referencia": "1414983624222179501",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1414983948659851344",
+      "texto_sha256": "422c3a976a51b126546ea98e63cd5c0b9eaa260b2d3957a7f51c0f4d86982f9c",
+      "adjuntos": []
+    },
+    {
+      "id": "1414988829265363147",
+      "fecha_utc": "2025-09-09T15:00:26.118000+00:00",
+      "fecha_local": "2025-09-09",
+      "editado_utc": null,
+      "texto": "Banzo : queria saber su opinión.  \nSu familia lleva cientos de años en kuroto . \nEsta expansión comercial sin duda nos ha sacado de la crisis . Pero y el tema de los tritones ... \nQuisiera saber su honesta opinión.  No como señor yasuoka sino como habitantes de kuroto",
+      "mensaje_sha256": "05c8ed7a42a17c63a5c5e09043fd96911d481d07e88b56be7dacb9f1701469e9",
+      "tipo_discord": 19,
+      "referencia": "1414983948659851344",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1414988829265363147",
+      "texto_sha256": "a72a38fa400d4167a2d19b3303f7e9fa9709499a64e81b3b46124c2f4a0f5f20",
+      "adjuntos": []
+    },
+    {
+      "id": "1414991053953564732",
+      "fecha_utc": "2025-09-09T15:09:16.525000+00:00",
+      "fecha_local": "2025-09-09",
+      "editado_utc": null,
+      "texto": "Yasuoka: **Ves que deja la taza de té para luego hacer un largo suspiro. Se levanta y con las manos detrás de la espalda se acerca a la ventana** Sabe, cuando yo era niño, el bloqueo de la isla era mucho más estricto. Hasta que no llegue a mis 25 años, no vi a ningún extranjero. Me acuerdo de ese día, era un hombre enorme, con fuertes brazos y una reluciente armadura blanca. Me acuerdo que me pareció un ser extraordinario sacado de las fábulas de los cuentos. **Se gira a ti** Al igual que cuando era niño, me he maravillado con esos tritones. Su experiencia en combate es extraordinaria y nos supera por completo. Pero, al igual que pasó con ese extranjero, ellos no son de Kuroto. No darán la vida por estas tierras como harán nuestros soldados. No me gustan, al igual que no le deben gustar a usted. Pero su fuerza es necesaria, almenos por ahora.",
+      "mensaje_sha256": "67ba27c903f0a249afe70f01ba7c6944b72699eaaa2dd32aac5b1946295b33f4",
+      "tipo_discord": 19,
+      "referencia": "1414988829265363147",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1414991053953564732",
+      "texto_sha256": "32f16f74862cb273494c5350109f06ae5c6259bc49b59626fe320c77b9d7f40a",
+      "adjuntos": []
+    },
+    {
+      "id": "1414992473859817552",
+      "fecha_utc": "2025-09-09T15:14:55.057000+00:00",
+      "fecha_local": "2025-09-09",
+      "editado_utc": null,
+      "texto": "Banzo : **le escucha con gran interés ** \nSi , son un pueblo fuerte sin duda . \nY la balanza quiza se decante por su ayuda . \nLo que me preocupa es la ambición de ese pueblo . \nYa he conocido a otras razas que estas sujetas a los caprichos de una entidad superior . Y ellos siguen al dragón. \nPiénselo,  ya saben que militarmente nos pueden ocupar cuando quieran , incluso yo diría que ya lo han hecho . Que les impedirá mñana apropiarse de la isla por completo ? \nEsclavizar a su gente ... explotar su recursos ... **ves que va apretando los puños **",
+      "mensaje_sha256": "4280f596f9df0ea704b32d63d326348526214316d7d8d0a469837309f845b9e3",
+      "tipo_discord": 19,
+      "referencia": "1414991053953564732",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1414992473859817552",
+      "texto_sha256": "b7031ad3c6ff100ce4bd755c920ab4306e7828768f2f580ae2535c467ea64ae9",
+      "adjuntos": []
+    },
+    {
+      "id": "1414992877355929681",
+      "fecha_utc": "2025-09-09T15:16:31.258000+00:00",
+      "fecha_local": "2025-09-09",
+      "editado_utc": null,
+      "texto": "Yasuoka: **Te analiza mientras hablas y ve como aprietas los puños** ¿No confías en tu Shogun?",
+      "mensaje_sha256": "99571a4c61f0335a6f084d89ba4511943fef6a672f551095516c6987b9ecc20d",
+      "tipo_discord": 19,
+      "referencia": "1414992473859817552",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1414992877355929681",
+      "texto_sha256": "2c04a6a0d71c04604cb24625bd4c4916ed92a274efa3f8e620f654194cda9c49",
+      "adjuntos": []
+    },
+    {
+      "id": "1414994865619730462",
+      "fecha_utc": "2025-09-09T15:24:25.297000+00:00",
+      "fecha_local": "2025-09-09",
+      "editado_utc": null,
+      "texto": "Banzo : **hace una larga pausa mirando por la misma ventana que ha mirado el ** \nEn la Shogun no.  \nEn mi amiga si . \n**rie y niega con la cabeza **\nQue contradicción verdad ? \n\nYasuoka , debemos prepararnos . Si pasa lo que me temo , debemos estar preparados . \nY se que usted siempre mirara por el bien de kuroto .",
+      "mensaje_sha256": "39b379a58a93666c73dc21a23eb189cd2f865e70404ea4d2482fe90cde87550d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1414994865619730462",
+      "texto_sha256": "648724b04fca8d9c95c2e5f2e0d90c5f0ca04a4b763baa5894635f7fd94be572",
+      "adjuntos": []
+    },
+    {
+      "id": "1414995768133161095",
+      "fecha_utc": "2025-09-09T15:28:00.473000+00:00",
+      "fecha_local": "2025-09-09",
+      "editado_utc": null,
+      "texto": "Yasuoka: ¿Y no debería hablar con su amiga de sus preocupaciones? **Te sonríe** Entiendo su miedo, Banzo, pero como podemos prepararnos para algo así? Son superiores en todo a nosotros y sirven a un dragon. Nuestra única esperanza es confiar en nuestra Shogun, en su amiga Kalista",
+      "mensaje_sha256": "9887559185db07bbf948db0f55671ecdde1f65fe15fe58fead74f16f17a9797b",
+      "tipo_discord": 19,
+      "referencia": "1414994865619730462",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1414995768133161095",
+      "texto_sha256": "22b69a42d9996a84b3882eb40bd564bc3b95f80ad7399ee016605ad07b024822",
+      "adjuntos": []
+    },
+    {
+      "id": "1414997613177995285",
+      "fecha_utc": "2025-09-09T15:35:20.366000+00:00",
+      "fecha_local": "2025-09-09",
+      "editado_utc": null,
+      "texto": "Banzo : si he venido ha hablar con usted es por algo .\n\nQuizá llegue el momento que usted tenga la clave para la supervivencia de kuroto como lo ha conocido hasta ahora.  \n\nSi no es asi y todo va bien .. me alegraré como el que mas . Pero me temo que no sera tan fácil \nMantendremos el contacto señor . \nNo le ocuparé mas tiempo .",
+      "mensaje_sha256": "d051e268a5b81b3f8487d028bc7dd4bd029a2b759126a73c5b27ada0e5dfee60",
+      "tipo_discord": 19,
+      "referencia": "1414995768133161095",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1414997613177995285",
+      "texto_sha256": "fac141fd5fc7200f24627d619ead22a0a8b5bb0a89db3325aaa8dcf0a432f476",
+      "adjuntos": []
+    },
+    {
+      "id": "1415000635496988732",
+      "fecha_utc": "2025-09-09T15:47:20.943000+00:00",
+      "fecha_local": "2025-09-09",
+      "editado_utc": "2025-09-09T15:47:52.915000+00:00",
+      "texto": "Yasuoka: Estaré siempre  del lado de Kuroto, señor Banzo. No tenga duda de eso. **Te hace una reverencia como se la haría a un noble** Le recomiendo que hable con su amiga. Kalista siempre ha sido razonable",
+      "mensaje_sha256": "c71a64ac83eeb58dca9b474f1b1142cf67c0d0febb90f95a2ac885c9a4f3a4a1",
+      "tipo_discord": 19,
+      "referencia": "1414997613177995285",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1415000635496988732",
+      "texto_sha256": "f641f190126ca0902dc65011f479614ddf1662a1275d698719b1b88a8713f8c7",
+      "adjuntos": []
+    },
+    {
+      "id": "1415000926015721522",
+      "fecha_utc": "2025-09-09T15:48:30.208000+00:00",
+      "fecha_local": "2025-09-09",
+      "editado_utc": null,
+      "texto": "Banzo : gracias a usted señor por el tiempo . ** se despide con una reverencia y se dirige a la salida **",
+      "mensaje_sha256": "526b91c60af9066f32e0d2838a5b17c27cdfef87be3f91075d7213eb7db873af",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1415000926015721522",
+      "texto_sha256": "ef4764c57ae2eafa306f56474f038454ab76f5b060cf50e29e0d565f961f3a7f",
+      "adjuntos": []
+    },
+    {
+      "id": "1415006890953539645",
+      "fecha_utc": "2025-09-09T16:12:12.360000+00:00",
+      "fecha_local": "2025-09-09",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena 🔴",
+      "mensaje_sha256": "a2624e200a6081d76232240844de8348c4f81a788b3fbf8981a3bd1cb05e322b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1415006890953539645",
+      "texto_sha256": "298fa93bf0457633e2be1e0841043d853cccb9548c7ae2d8426119f0cb0a929e",
+      "adjuntos": []
+    }
+  ]
+}

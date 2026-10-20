@@ -1,0 +1,321 @@
+{
+  "id": "k-1428652835859464283",
+  "campana": "kuroto",
+  "unidad_revision": "k-1428652835859464283",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Sho celebra a Arwen como nueva campeona",
+  "resumen": "El desfile reconoce su victoria y reúne a los cazadores, mientras Banzo se aparta hacia Danifae.",
+  "relato": "Sho celebra con carrozas y flores la victoria de Arwen en el Gran Torneo. Banzo la lleva sobre los hombros en la carroza principal y la multitud la aclama como Guardiana de la Naturaleza y los Animales y nueva Campeona de Kuroto. La niña disfruta del cariño, aunque no entiende del todo el revuelo por haber derribado a sus amigos. Archi dibuja en el cielo una figura femenina sonriente con nubes para sumarse al homenaje; Arwen se emociona y siente que vuelve a tener una familia entre los cazadores. Xyllya observa el collar que Banzo le acaba de entregar y descubre una sensación agradable al ver la celebración. Chani anima con entusiasmo, Seraphina aplaude y Jhin y Guxi también expresan su orgullo. Banzo localiza a Danifae entre la gente; ella observa a Arwen y la esfera que lleva en el estómago. El goliat deja a la campeona sobre la carreta y se dirige hacia el callejón donde está la drow, pensando en cuánto la echará de menos, sin revelar sus planes. Arwen lo invita a cenar en la Base y acuerda echar después un pulso con Jhin. Ninguno de esos encuentros posteriores se muestra en el desfile.",
+  "participantes": [
+    "Arwen",
+    "Banzo",
+    "Archi",
+    "Xyllya",
+    "Chanecuxtli",
+    "Seraphina",
+    "Danifae",
+    "Jhin",
+    "Guxi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1428652835859464283",
+      "afirmacion": "La narración confirma a Arwen como vencedora del Gran Torneo y nueva Campeona de Kuroto.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1428744043646419003",
+      "afirmacion": "Archi crea con nubes una figura femenina sonriente para el homenaje.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1428746411889131571",
+      "afirmacion": "Xyllya lleva un collar recién entregado por Banzo y siente agrado ante la celebración.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1428750032508686528",
+      "afirmacion": "Danifae observa el desfile y dirige la mirada a Arwen y su esfera.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1428751962588971008",
+      "afirmacion": "Banzo deja la carroza y se interna en un callejón hacia Danifae.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1428752374071296071",
+      "afirmacion": "Arwen invita a Banzo a cenar en la Base.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "El resultado del torneo se confirma, pero los combates anteriores no se reconstruyen.",
+    "La figura de nubes no recibe identidad explícita; no se declara madre, diosa o aparición real.",
+    "El pensamiento de despedida de Banzo no prueba muerte, huida o sacrificio ya realizados.",
+    "El collar de Xyllya se entrega como antecedente inmediato, sin especificar aquí su significado institucional."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-10-17T07:56:19.155000+00:00",
+  "fin_utc": "2025-10-18T09:33:02.108000+00:00",
+  "fecha_local": "2025-10-17",
+  "intervalo": {
+    "anterior": 163,
+    "siguiente": 164,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1428443861126086666",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1433532919066136698",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 163,
+        "fecha": "2025-10-16",
+        "inicio_referencia_utc": "2025-10-16T18:05:34+00:00",
+        "fin_estimado_utc": "2025-10-16T21:30:31+00:00",
+        "duracion_video_segundos": 12297,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1428443861126086666"
+      },
+      {
+        "capitulo": 164,
+        "fecha": "2025-10-30",
+        "inicio_referencia_utc": "2025-10-30T19:07:43+00:00",
+        "fin_estimado_utc": "2025-10-30T22:23:56+00:00",
+        "duracion_video_segundos": 11773,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1433532919066136698"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1428652835859464283",
+      "fecha_utc": "2025-10-17T07:56:19.155000+00:00",
+      "fecha_local": "2025-10-17",
+      "editado_utc": null,
+      "texto": "**Las calles de la capital se hallaban desbordadas de vida y júbilo. Multitudes se agolpaban a ambos lados del camino mientras grandes carrozas avanzaban entre flores, estandartes y cintas de colores. Era el día de la celebración, el desfile en honor a la vencedora del Gran Torneo.**\n**En la carroza principal, tirada por majestuosos caballos pura sangre de los establos del Shogunato, marchaba Banzo <@616683133374562304> , llevando sobre sus hombros a la pequeña Arwen <@753394009153732689> . La joven, aún con la inocencia brillando en sus ojos, alzaba la mano saludando al pueblo que la aclamaba con entusiasmo. \"¡La Guardiana de la Naturaleza y los Animales!\" gritaban, mientras una lluvia de pétalos de flores caía desde los balcones.**\n**Los niños observaban embelesados a aquella diminuta cazadora, la más fuerte de todos los Cazadores, y en sus miradas se encendía una chispa de sueño. Soñaban con el día en que ellos también podrían ser tan valientes, tan poderosos… como la nueva Campeona de Kuroto.**",
+      "mensaje_sha256": "59ff3800899c029a1d60ab5089a8fe128952b4cbf05ef7f9b2f0087ca7393f0e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1428652835859464283",
+      "texto_sha256": "7588cceaf96d04fde074b293c29f193928b3b907cfdaff17d14459431feceb02",
+      "adjuntos": []
+    },
+    {
+      "id": "1428653758799155230",
+      "fecha_utc": "2025-10-17T07:59:59.201000+00:00",
+      "fecha_local": "2025-10-17",
+      "editado_utc": null,
+      "texto": "Arwen: **No entiende muy bien del todo porque tanto jolgorio por derribar a sus amigos con kame kame rayo solar. Pero esta feliz de ver a todo el mundo sonriendo y celebrando a la par que gritando su nombre. En el corazon de la niña tanto cariño hace que la pena de no haber podido ayudar se disipe un poco** <@616683133374562304> BANZO BANZO ESTAN GRITANDO MI NOMBRE **Dice euforica la pequeña**",
+      "mensaje_sha256": "cbfa166628755425a1e7c9f5db51314b1416cb2f0c2788056fc6fae886100c9a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1428653758799155230",
+      "texto_sha256": "2b1f2aaa443d9f007d1bda1412004fdd79ab1da5c7bb48d9dd44e169d246b037",
+      "adjuntos": []
+    },
+    {
+      "id": "1428744043646419003",
+      "fecha_utc": "2025-10-17T13:58:44.786000+00:00",
+      "fecha_local": "2025-10-17",
+      "editado_utc": null,
+      "texto": "Banzo : claro que si ,y  mira fijate,   que felices están todos . \n\nSabes por que ? Porque ahora saben que les vas a proteger . Ahora todos conocen a Arwen . \n\nAparte seguro que hay alguien mas allí arriba que tambien esta mirando con felicidad . \n\n**banzo mira a archi complicemente, este le hace un saludo militar ,  agradecido con la niña por curarle quiere participar \n\nCon skywrite el gnomo dibuja el en el cielo una figura femenina  creada con nubes que mira desde el cielo con una gran sonrrisa **",
+      "mensaje_sha256": "b592032f0ac265f02d228415e3452d3747496844ba8c14fed885f0c214d6abbd",
+      "tipo_discord": 19,
+      "referencia": "1428653758799155230",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1428744043646419003",
+      "texto_sha256": "d0c6d8b45ea4f342a44fb3e046561a32183c64aa7e92e5a897f37953a5d49aef",
+      "adjuntos": []
+    },
+    {
+      "id": "1428745734517166214",
+      "fecha_utc": "2025-10-17T14:05:27.921000+00:00",
+      "fecha_local": "2025-10-17",
+      "editado_utc": null,
+      "texto": "Arwen: **Los ojos de la niña se iluminan y se ponen algo llorosos, no por tristeza si no de felicidad. Desde que llego aqui y conocio a los cazadores ya no se siente tan sola. Ha conocido q mucha gente y ha hecho toda clase de amigos.... En su corazoncito... siente que tiene una familia de nuevo... Y eso era el deseo mas grande que tenia la pequeña. Su sonrisa es amplia igual que el amor que siente por todos los cazadores (aunque por Archi no lo va a decir en alto)**",
+      "mensaje_sha256": "9bc2c30e66b803a1c405edb499102513fc0a6be4fc442a7350b98ffef1aae788",
+      "tipo_discord": 19,
+      "referencia": "1428744043646419003",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1428745734517166214",
+      "texto_sha256": "28d7bbf00e99222cd05fef8717af1ed6c0e5b90ab6d2349661d6021e0e20be4a",
+      "adjuntos": []
+    },
+    {
+      "id": "1428746411889131571",
+      "fecha_utc": "2025-10-17T14:08:09.419000+00:00",
+      "fecha_local": "2025-10-17",
+      "editado_utc": null,
+      "texto": "Xyllya: **La shadar-kai estaba sentada en el carromato donde estaban los Cazadores celebrando la victoria de la niña. Esta, miraba el collar que le acababa de dar ese goliat rechoncho y no entendía muy bien el porqué. Entonces ve a Arwen con esos ojos llorosos rodeada de los Cazadores y nota como algo en su pecho, no entiende lo que es, pero parece agradable**",
+      "mensaje_sha256": "82276fedef841ac11673ae3cf3ebbceca92c530cf6aa351694bfbf7fc8e7bc1d",
+      "tipo_discord": 19,
+      "referencia": "1428745734517166214",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1428746411889131571",
+      "texto_sha256": "d25c28cdc1ff624a8563a9af27b1cf9482922924096aee8d31ea92547c0ea8cd",
+      "adjuntos": []
+    },
+    {
+      "id": "1428746771936575500",
+      "fecha_utc": "2025-10-17T14:09:35.261000+00:00",
+      "fecha_local": "2025-10-17",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n\n**No dejaba de piar y aletear con fuerza, muy contenta por mi amiga, gritaba su nombre con todas las fuerzas que me permitían mis pulmones**\n\nARWEN PÍO!! LA MÁS FUERTE PÍO!!, ARWEN PÍO!! LA MÁS FUERTE PÍO!!\n\n**Mientras repetía en coro, movía mis patitas como si estuviera bailando**",
+      "mensaje_sha256": "a1a7bb07a46a9d5827d263e9443249dba8672e27d4eb15be36cb3180dbcb5ac7",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1428746771936575500",
+      "texto_sha256": "fa4d473b796b95457c1b71e408900851fb54b9e929ad53f53525d7bd9fc1c425",
+      "adjuntos": []
+    },
+    {
+      "id": "1428748440430710955",
+      "fecha_utc": "2025-10-17T14:16:13.061000+00:00",
+      "fecha_local": "2025-10-17",
+      "editado_utc": "2025-10-17T14:16:30.607000+00:00",
+      "texto": "-----\n\nSeraphina:\n\n**Me mantenía aplaudiendo durante todo el festín, estaba bastante contenta por la pequeña de qué hubiese logrado algo tan grande como esto**",
+      "mensaje_sha256": "3ea7b1f61e2f99c436a57df832c4cc2f05153a73d2d56fd80a9eff3076afe1c6",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1428748440430710955",
+      "texto_sha256": "7f32b948850ebbd613a985c187c2d20563c321f74467821f3ed3fb4fb66d681b",
+      "adjuntos": []
+    },
+    {
+      "id": "1428749427862012108",
+      "fecha_utc": "2025-10-17T14:20:08.483000+00:00",
+      "fecha_local": "2025-10-17",
+      "editado_utc": null,
+      "texto": "Banzo : **entre sonrrisas y gritos busca a una figura entre la multitud , seguramente en callejones oscuros , mira detenidamente **",
+      "mensaje_sha256": "4f53a66a66f719b8e5b1c3393a70c21c90e80e0fae7ee4844ca5b04f23c4ccd4",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1428749427862012108",
+      "texto_sha256": "7e4f6a45299a8a162cd6a211a0ce185006da5568fe66601a84d1177019366d79",
+      "adjuntos": []
+    },
+    {
+      "id": "1428750032508686528",
+      "fecha_utc": "2025-10-17T14:22:32.642000+00:00",
+      "fecha_local": "2025-10-17",
+      "editado_utc": null,
+      "texto": "Danifae: **Entre la multidud puedes ver a la drow con los brazos cruzados observando el desfile. Tiene los ojos clavados en ti con una sonrisa, luego ves que sus ojos ámbar se desvían a la niña que portas encima, la niña que lleva una de esas esferas en su estómago** <@753394009153732689>",
+      "mensaje_sha256": "79ef8945b084815ce1a6f3c2bb7fb525a97c598197b7e6de932c8c7cab53e68a",
+      "tipo_discord": 19,
+      "referencia": "1428749427862012108",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1428750032508686528",
+      "texto_sha256": "99c978b6669ea13c9feb879667fbc3a28ec6aa84db37e345059ed6c6a203a703",
+      "adjuntos": []
+    },
+    {
+      "id": "1428751962588971008",
+      "fecha_utc": "2025-10-17T14:30:12.809000+00:00",
+      "fecha_local": "2025-10-17",
+      "editado_utc": "2025-10-17T14:31:31.423000+00:00",
+      "texto": "Banzo : **ve a la drow y le hace un gesto con la cabeza **\nArwen <@753394009153732689>  sigue pasándolo bien , toda esta gente esta esperando a verte , he de ir a hacer unas cosas vale... **te sonrrie y te deja en lo alto de la carreta para animar a la multitud gritando : ** que viva Arweeeewn ! \n\n**Mira la escena orgulloso** \n\n\n*si... kuroto estará bien ... pase lo que pase ya tienen en quien depositar sus esperanzas. \n\nNo sabes cuanto te voy a hechar de menos pequeña*\n\n**Mira la escena una vez mas y baja de la carreta para perderse entre la gente , llegar donde estaba la drow y se adentra en el callejon oscuro ** <@214405113677217793>",
+      "mensaje_sha256": "e7e45964f90fa827ebc82ccee11c87beea7a8b205ba59fceeb14b0f169972059",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1428751962588971008",
+      "texto_sha256": "ff48158d493022e234e1ec0ec03d89eca811dfed86af2063188fabd154fda66b",
+      "adjuntos": []
+    },
+    {
+      "id": "1428752374071296071",
+      "fecha_utc": "2025-10-17T14:31:50.914000+00:00",
+      "fecha_local": "2025-10-17",
+      "editado_utc": null,
+      "texto": "Arwen: BANZOOO ESTA NOCHE VENIR A LA BASEEEE, QUE OS HAGO LA CENAAAA **Trata de gritar por encima de la multitud**",
+      "mensaje_sha256": "8616ad7c0b4b6955d5b335c69f0239179c72f92585316893fceaee0c795d9c69",
+      "tipo_discord": 19,
+      "referencia": "1428751962588971008",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1428752374071296071",
+      "texto_sha256": "b35ad587b51dec87e6ef3d118c948410b7180945aa54df9e1da5224429a95861",
+      "adjuntos": []
+    },
+    {
+      "id": "1428753625567592459",
+      "fecha_utc": "2025-10-17T14:36:49.294000+00:00",
+      "fecha_local": "2025-10-17",
+      "editado_utc": null,
+      "texto": "jhin:\n**esta ahi saludando a arwen y a banzo con una sonrisa en boca**\nARWEN ERES LA MEJOR!",
+      "mensaje_sha256": "2b22dfc1b84a4576f8cbc94c60c6539db9af888c1d4df4cb34dcf8c0cadfcdc0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1428753625567592459",
+      "texto_sha256": "9d4563d15c2c116f094da14314b023f535e1f70274384f8b65d2bd71c9700a52",
+      "adjuntos": []
+    },
+    {
+      "id": "1428753975531798580",
+      "fecha_utc": "2025-10-17T14:38:12.732000+00:00",
+      "fecha_local": "2025-10-17",
+      "editado_utc": null,
+      "texto": "guxi:\n**estaba con sera a su lado viendo como alguien tan pequeño es capaz de motivar los corazones de todos y sonrie al ver a todo el pueblo feliz**\nCazadores sois el futuro de kuroto",
+      "mensaje_sha256": "7205fb5838aa0cc0bebdc8c6501f97f8ae71a85a7447fea18736c2906a0aa00b",
+      "tipo_discord": 19,
+      "referencia": "1428748440430710955",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1428753975531798580",
+      "texto_sha256": "d07c13ae2cb4f36f27ff6039af16dc3744f355b33d1181f026df89c4ead83cdb",
+      "adjuntos": []
+    },
+    {
+      "id": "1428754314699997195",
+      "fecha_utc": "2025-10-17T14:39:33.596000+00:00",
+      "fecha_local": "2025-10-17",
+      "editado_utc": null,
+      "texto": "Arwen: JHIN ¿LUEGO HECHAMOS UN PULSOOOO?",
+      "mensaje_sha256": "478e0584c132033fe54d7fec7ea18667cde3d3225ddf20789988e2bd25eaea64",
+      "tipo_discord": 19,
+      "referencia": "1428753625567592459",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1428754314699997195",
+      "texto_sha256": "45842c66d85cf5efaba1e617863849e8dd45e1b83bf08c54117dbbc46707db15",
+      "adjuntos": []
+    },
+    {
+      "id": "1428755808266489970",
+      "fecha_utc": "2025-10-17T14:45:29.690000+00:00",
+      "fecha_local": "2025-10-17",
+      "editado_utc": null,
+      "texto": "jhin:\n!por supuesto pero no te voy a dejar ganar eh!",
+      "mensaje_sha256": "90e3c1ab8ddb5ccaf672c7cd9d2c6f0df30d0cdccc9fd017fe70a89d69f97fde",
+      "tipo_discord": 19,
+      "referencia": "1428754314699997195",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1428755808266489970",
+      "texto_sha256": "c1bb97dbb49d4616049253e2ae28b848c0f68042f3546ebf0579d264430bb603",
+      "adjuntos": []
+    },
+    {
+      "id": "1428756168838353046",
+      "fecha_utc": "2025-10-17T14:46:55.657000+00:00",
+      "fecha_local": "2025-10-17",
+      "editado_utc": null,
+      "texto": "Arwen: valeeeeeee espero que no te importe que suelte mucho peloooooo",
+      "mensaje_sha256": "a7558f3abe1c2d918f35c5e62e6c7af96f0d26141a48f15a4b52b5c7fcd6fc0b",
+      "tipo_discord": 19,
+      "referencia": "1428755808266489970",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1428756168838353046",
+      "texto_sha256": "fa8d98b706e01b76931b321d9202770eceba2981a8545f0007db34c9f99dae7c",
+      "adjuntos": []
+    },
+    {
+      "id": "1429039563074043996",
+      "fecha_utc": "2025-10-18T09:33:02.108000+00:00",
+      "fecha_local": "2025-10-18",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "428b00893bf9101c6cc51f9f39a3b12760f4341fb5b340823297b175aeb1673c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1429039563074043996",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

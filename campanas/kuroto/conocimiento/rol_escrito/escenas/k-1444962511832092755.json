@@ -1,0 +1,294 @@
+{
+  "id": "k-1444962511832092755",
+  "campana": "kuroto",
+  "unidad_revision": "k-1444962511832092755",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "Palathier propone a Vespera un camino hacia la paz",
+  "resumen": "La paladina ofrece protección y una futura incursión guiada por la prisionera, que acepta ayudar sin comprometerse a matar a Ootakemaru.",
+  "relato": "Tras leer una carta del clérigo de la muerte, Palathier vuelve a la tienda de Vespera con comida, agua y una manta. Le comunica que el tanuki al que protegió está sano y va hacia la capital para reunirse con Ikaari. La conversación ya no parte de un ultimátum de ejecución: la paladina pregunta por otros disidentes, por el control de Ootakemaru y por una posible reversión de la transformación.\n\nVespera distingue entre demonios sometidos por poder y yokais que lo siguen por lealtad, venganza o rituales de subyugación. Recuerda haberse presentado voluntaria a un ritual doloroso, pero no sus detalles ni casos de reversión. Quiere proteger a los suyos y abrir paso hacia los caudillos mientras intenta que depongan las armas; todavía no puede combatir directamente a quien fue su rey ni se siente digna de un nuevo juramento.\n\nPalathier promete que no le exigirá matarlo, aunque advierte que no tolerará que se interponga en su propio cometido. Preparará una incursión y ofrecerá custodia digna a quienes abandonen la guerra, sin conceder aún su libertad. Acepta proveer al corcel de Vespera, desancla su cadena del poste para darle movilidad y deja dos guardias fuera. Shirz y Banzo reciben informes; la expedición queda por realizar.",
+  "participantes": [
+    "Palathier",
+    "Vespera"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1445012187486621758",
+      "afirmacion": "Vespera recuerda un ritual voluntario y doloroso, desconoce su reversión y distingue formas de obediencia a su señor.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1445059911707791452",
+      "afirmacion": "Vespera ofrece abrir paso y persuadir a los suyos, pero no puede aún ayudar a matar a su rey.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1445067732994490562",
+      "afirmacion": "Palathier propone preparar una incursión, promete no exigirle ese combate directo y mantiene la custodia.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1445075847521505396",
+      "afirmacion": "Palathier desancla la cadena del poste, dispone guardias y acepta atender al corcel.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1445079440915697865",
+      "afirmacion": "Shirz y Banzo reciben informes de Palathier.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No hay ritual de redención, reversión de la transformación ni liberación consumados.",
+    "Los datos de los rituales son el conocimiento limitado de Vespera, no un procedimiento completo."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-12-01T08:05:08.926000+00:00",
+  "fin_utc": "2025-12-01T17:21:57.740000+00:00",
+  "fecha_local": "2025-12-01",
+  "intervalo": {
+    "anterior": 170,
+    "siguiente": 171,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1443679606723838074",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1446214322580881569",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 170,
+        "fecha": "2025-11-27",
+        "inicio_referencia_utc": "2025-11-27T19:07:07+00:00",
+        "fin_estimado_utc": "2025-11-27T22:32:48+00:00",
+        "duracion_video_segundos": 12341,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1443679606723838074"
+      },
+      {
+        "capitulo": 171,
+        "fecha": "2025-12-04",
+        "inicio_referencia_utc": "2025-12-04T18:59:08+00:00",
+        "fin_estimado_utc": "2025-12-04T21:35:38+00:00",
+        "duracion_video_segundos": 9390,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1446214322580881569"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1444962511832092755",
+      "fecha_utc": "2025-12-01T08:05:08.926000+00:00",
+      "fecha_local": "2025-12-01",
+      "editado_utc": "2025-12-01T08:05:32.016000+00:00",
+      "texto": "Palathier: **Llega a las inmediaciones del campamento sur después de ausentarse una noche atraída por el brillo de la luna llena, se escabulle a través del campamento hasta entrar a su tienda. \nEncima de su cama encuentra una carta cuyo sello reconoce del clérigo de la muerte. Después de leerla sale por la puerta y se dirige donde se está realizando la custodia de la demonio**",
+      "mensaje_sha256": "5fa2779d27e31b08b75ab242df565ebd4f3cbbf86cd5e7af623533918cd612a9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1444962511832092755",
+      "texto_sha256": "7b5e710b6157f6dbd0519627375361b7e06a5d7c97b37755df8c7914e9bca1c6",
+      "adjuntos": []
+    },
+    {
+      "id": "1444963126209679432",
+      "fecha_utc": "2025-12-01T08:07:35.405000+00:00",
+      "fecha_local": "2025-12-01",
+      "editado_utc": null,
+      "texto": "Vespera: **Permanece dentro envuelta en sus alas en el suelo. Sobresalen sus manos pues permanece encadenada... Al oir que alguien se acerca las abre levemente**",
+      "mensaje_sha256": "bb199e61812a7e08426b63fd98d3c3768f2cbc914754cc3a5ea32446b9e5a52f",
+      "tipo_discord": 19,
+      "referencia": "1444962511832092755",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1444963126209679432",
+      "texto_sha256": "34d4ba4a800e73d76e63877f5cbb991ac7c2aed852974ad41e12553b55c0ca0d",
+      "adjuntos": []
+    },
+    {
+      "id": "1444997003062018164",
+      "fecha_utc": "2025-12-01T10:22:12.276000+00:00",
+      "fecha_local": "2025-12-01",
+      "editado_utc": null,
+      "texto": "Palathier: **Saluda y da el relevo a los soldados de la entrada, y se adentra en la tienda cerrando la puerta tras de si\nSe acerca en silencio para dejar una jarra con agua y una bolsa donde hay un trozo de pan, pescado seco, una manzana y una manta**\nEspero que te hayan tratado con dignidad, y que hayas pensado en lo que te pregunté. Pero antes de que hablemos, come un poco",
+      "mensaje_sha256": "32ec03861a5e81a52cc8ddcb3be5eafbf9a195e7fa958c52bd5d1e883e707579",
+      "tipo_discord": 19,
+      "referencia": "1444963126209679432",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1444997003062018164",
+      "texto_sha256": "81c600899e0e99876ee0cc6bff9c498ebaf199ae822da0543f6e713c0e4c1530",
+      "adjuntos": []
+    },
+    {
+      "id": "1444997935782694953",
+      "fecha_utc": "2025-12-01T10:25:54.654000+00:00",
+      "fecha_local": "2025-12-01",
+      "editado_utc": null,
+      "texto": "Vespera: **Mira las cosas, toma la jarra y la comida y la olfatea antes de deborarla...** Tratais de forma extraña a los prisioneros... Este es de los tratos que mas normales que he tenido estos dias...",
+      "mensaje_sha256": "dd3806b193af14eb88b3747924391d5d5763551b8e37b691578925741e111c10",
+      "tipo_discord": 19,
+      "referencia": "1444997003062018164",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1444997935782694953",
+      "texto_sha256": "c969e53a8784a24ede60fc3acc1252b478c2bfffb6875da213a40e129ce8d2bb",
+      "adjuntos": []
+    },
+    {
+      "id": "1445003691915739156",
+      "fecha_utc": "2025-12-01T10:48:47.023000+00:00",
+      "fecha_local": "2025-12-01",
+      "editado_utc": null,
+      "texto": "Palathier: En este campamento convergemos muchas culturas, y muchos no han sido instruidos en funciones que se les han asignado.\nEl tanuki al que ayudaste está en buen estado de salud, de camino a la capital para que se encuentre con Ikaari, un compañero de su misma raza para que le ayude.\nTe he querido dar tiempo, y te agradezco que no hayas intentado escapar ni hacer daño a mis compañeros, se muy bien de lo que es capaz una criatura de tu nivel.\nQuiero hablar y proponer una iniciativa a mis compañeros, pero antes me falta información, mucha información. Por esto estoy aquí",
+      "mensaje_sha256": "1765206acdba9e319afe4eddfff71f3e67d4a4608a659e2f4d9beb9e476f7ad9",
+      "tipo_discord": 19,
+      "referencia": "1444997935782694953",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1445003691915739156",
+      "texto_sha256": "3f0874f310d66101e0a697546b3e87e07afe82c360bf090b39ff19f4a1ae5f5e",
+      "adjuntos": []
+    },
+    {
+      "id": "1445004315344375839",
+      "fecha_utc": "2025-12-01T10:51:15.660000+00:00",
+      "fecha_local": "2025-12-01",
+      "editado_utc": null,
+      "texto": "Vespera: **Deja la jarra y el plato a un lado para ponerse de pie** Comprendo, pregunta pues y tratare de responder.",
+      "mensaje_sha256": "0c9f99c33a94cd62b4c5455a9eb0b3ef14792cc36bb853e430ec33224f988319",
+      "tipo_discord": 19,
+      "referencia": "1445003691915739156",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1445004315344375839",
+      "texto_sha256": "40308d607a36f82d7bcac9054cb5586be3c162922008ae6a5b30ea2453ebca8e",
+      "adjuntos": []
+    },
+    {
+      "id": "1445008300977553541",
+      "fecha_utc": "2025-12-01T11:07:05.909000+00:00",
+      "fecha_local": "2025-12-01",
+      "editado_utc": null,
+      "texto": "Palathier: **Deja el escudo y el mayal apoyados en un extremo de la tienda y se acerca a Vespera**. Hay más demonios como tu, que están en contra de los actos de Otakemaru? Qué tipo de control ejerce sobre vosotros? También comentaste que en su día fuiste un yokai, crees que esta transformación a la que os ha sometido es reversible o recuerdas el ritual?\nEstoy dispuesta a ayudarte a reunir a todos los demonios **se siente una tensión controlada y una pequeña pausa** que quieran retirarse de esta guerra, siempre que crean en la paz. También estoy dispuesta a proponer un nuevo tratado en cuanto a la convivencia con los yokais de Kuroto",
+      "mensaje_sha256": "9060cb0e66acae240eb449d9e1079937482c98c6c5a7f4b7e5aecdea07a215d5",
+      "tipo_discord": 19,
+      "referencia": "1445004315344375839",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1445008300977553541",
+      "texto_sha256": "ea6da2158026fa6b5c4031201059e292d2a14c7226b31e3aec6c19c8fb53f632",
+      "adjuntos": []
+    },
+    {
+      "id": "1445012187486621758",
+      "fecha_utc": "2025-12-01T11:22:32.525000+00:00",
+      "fecha_local": "2025-12-01",
+      "editado_utc": null,
+      "texto": "Vespera: **Te mira fijamente a los ojos, sintiendo esa misma tension** No se si hay mas demonio o yokais con el don que piensen de la misma forma que yo... En su momento pensaba que esta clase de pensamientos eran una afrenta a mi juramento... Y asi eran. Mi señor controla a los demonios con su abrumador poder y  los yokais con el don le siguen por lealtad o por asuntos relacionados con la venganza y la ira de siglos... Otros fueron obligados a participar en rituales para subyugarse **Se queda pensativa y desvia la mirada**No recuerdo nada del ritual salvo que me presente voluntaria... Fue algo doloroso y no he visto ningun caso que haya vuelto a su forma anterior...\n**Vuelve a hacer coincidir su mirada contigo** Sabes tan bien como yo que el camino no sera tan sencillo y aun habra rencillas que solucionar **Se lleva un dedo bajo la armadura donde muestra un cascabel ritual avegentado con el tiempo que ya has visto a un yokai en concreto de la base... Sabes que habla de tu juramento y palabra hacia tu deidad o señor** Y estoy dispuesta a mostrar que las palabras que le dije a tu compañero no son mentiras",
+      "mensaje_sha256": "7df2c944c1cd4877af28ce54057b506445b6ba1680987a1553818d22a632ecc1",
+      "tipo_discord": 19,
+      "referencia": "1445008300977553541",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1445012187486621758",
+      "texto_sha256": "9430fbc517bb32807dc650da9a90e03503e4c24f0026437d6bf4f60e1b860f0d",
+      "adjuntos": []
+    },
+    {
+      "id": "1445055714077708329",
+      "fecha_utc": "2025-12-01T14:15:30.073000+00:00",
+      "fecha_local": "2025-12-01",
+      "editado_utc": null,
+      "texto": "Palathier: Después de siglos con Otakemaru fuera de nuestras tierras, seguimos limpiando los restos de su poder nigromántico, y sus cultos siguen usando a yokais para para invocar demonios. No se quien fue para ti, y desconozco su promesa, pero su mera existencia es incompatible para la vida misma. \nNo te culpo por el juramento de lealtad que le hiciste, comprendo las circunstancias y te compadezco por haberlo roto. **Se acerca aún más a la demonio** Yo no puedo imaginar encontrar sentido a mi existencia si no es cumpliendo mi designio, sin brindar amor a mi diosa Elistrae. Necesitas juramentarte de nuevo, necesitas encontrar tu nuevo camino. He intentado guiarte al pedirte la reflexión en las preguntas que te hice, y me ofrezco a seguir guiándote en este camino. \n**Después de unos segundos de silencio y reflexión**\nPero tienes que saber que yo sí cumpliré mi juramento, y tu ayuda puede ser muy importante para el futuro de Kuroto. Necesito encontrar a Otakemaru y acabar con él para poder empezar a sanar esta tierra",
+      "mensaje_sha256": "065172a915106efd8a2d143728d9a0a91fd9b9f3b8a0ab5fb8f63792a4f654a9",
+      "tipo_discord": 19,
+      "referencia": "1445012187486621758",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1445055714077708329",
+      "texto_sha256": "c8a2eaad2574a659b5efc82867b189fd50f86741248c1c300964ad112e6bb61c",
+      "adjuntos": []
+    },
+    {
+      "id": "1445059911707791452",
+      "fecha_utc": "2025-12-01T14:32:10.866000+00:00",
+      "fecha_local": "2025-12-01",
+      "editado_utc": null,
+      "texto": "Vespera: **Tensa la mandibula... No con ira si no con impotencia** Aun no... Me veo capaz de de alzar mi arma directamente hacia mi señor aun sabiendo que se desvio de su camino... Pero si la alzare para proteger a los mios y a mi tierra **Desvia la mirada hacia un lado** Aun no me siento digna de poder juramentarme de nuevo despues de mi traicion... Necesito...tiempo... **Cuando hablas de ponerlo fin cierra los ojos frunciendo levemente el ceño** Ayudare a la paz... Pero aun hay mucho que debeis hacer antes de poder llegar hasta mi señor... Sus sirvientes demoniacos no permitiran que llegeis a el... Tendreis que luchar aun contra ellos...**Abre los ojos** Os abrire paso mientras convezco a los mios de que dejen sus armas...pero no se si estoy lista para ayudar a matar a mi señor **Sus hombros se hunden levemente**",
+      "mensaje_sha256": "9c3938172d583c82903a6d29330fca38098b00047e118974b897d9f0fbea1077",
+      "tipo_discord": 19,
+      "referencia": "1445055714077708329",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1445059911707791452",
+      "texto_sha256": "fdeba645ad304ce9fe1fde84cb9ef384df3743e5f8229a8fe7fad2ac39869620",
+      "adjuntos": []
+    },
+    {
+      "id": "1445067732994490562",
+      "fecha_utc": "2025-12-01T15:03:15.606000+00:00",
+      "fecha_local": "2025-12-01",
+      "editado_utc": null,
+      "texto": "Palathier: La decisión de enfrentarte a él no me corresponde a mi. Ni te lo estoy pidiendo ni te lo voy a pedir, te lo prometo por mi diosa. Pero ahora que ya conoces mi disignio, te pido que no te interpongas sin antes asumir las consecuencias. \n**Se queda pensativa en silencio**\nPrepararé una incursión. Nos guiarás por las tierras baldías más allá de la puerta negra hasta sus caudillos y acabaremos con ellos uno por uno hasta que lleguemos a Otakemaru o venga él a por nosotros. Te prometo protección a los tuyos, yo misma me encargaré de su custodia. \nPero tienes que saber, y espero que lo comprendas, que seáis lo que seáis, seguis siendo demonios a los ojos de los míos, y de momento no puedo permitir ni tu libertad ni la de los vuestros si conseguimos liberarlos. Ganaros nuestra confianza, sed últiles,ayudadnos a acabar con esto y con el tiempo seguro que lo podremos solucionar.\nSeguramente vengan a visitarte compañeros míos, has causado mucho revuelo y tienen muchas preguntas. Querrán saber si dices la verdad y pueden confiar en ti, ya que algunos nos adentraremos contigo en territorio hostil. Ten por sentado que se te someterá a algunas pruebas para saber si dices la verdad, porfavor colabora con ellos. Yo me encargaré de preparar la incursión e iré controlando tu custodia, no temas por tu seguridad. \nTienes alguna pregunta o alguna petición?",
+      "mensaje_sha256": "db0f9775b092a29b999a682cbf00f05baca0602ef9674aee0b9778af8884d036",
+      "tipo_discord": 19,
+      "referencia": "1445059911707791452",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1445067732994490562",
+      "texto_sha256": "8c66a0fffc62cf986eead09609c7bc660503bacfd1f1bd35b07e421afca63142",
+      "adjuntos": []
+    },
+    {
+      "id": "1445068948163924110",
+      "fecha_utc": "2025-12-01T15:08:05.325000+00:00",
+      "fecha_local": "2025-12-01",
+      "editado_utc": null,
+      "texto": "Vespera: ...Si he de permanece aqui en mi cautiverio, al menos pido suministros para mi corcel, pues esta bajo mi cuidado... Por el resto soy consciente de mi actual condicion... Y espero que si alguno de los mios se une a mi le proporcioneis condiciones dignas.",
+      "mensaje_sha256": "d9b24455dfc408e0f8e4c33ebdf6b2a48f09b4fa7926e28ff51c6acb13fd55f8",
+      "tipo_discord": 19,
+      "referencia": "1445067732994490562",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1445068948163924110",
+      "texto_sha256": "a5a097540253e7371bad92d5014cf0d7cc4d6df1d69df326f39a2f84cf2ccb20",
+      "adjuntos": []
+    },
+    {
+      "id": "1445075847521505396",
+      "fecha_utc": "2025-12-01T15:35:30.260000+00:00",
+      "fecha_local": "2025-12-01",
+      "editado_utc": null,
+      "texto": "Palathier: Así se hará.\nNuestra relación ha empezado con mal pie, pero con paciencia seguro que nos podamos acabar comprendiendo y encontrar una solución para los días venideros. \n**Se acerca para desanclar la cadena del poste, de manera que sigue engrilletada pero le permite más comodidad**\nIré pasando a verte, no estaré lejos.\n**Recoge el mayal y el escudo, y hace una seña desde la puerta a 2 soldados que pasan cerca, que se quedan haciendo guardia fuera de la cabaña. Palathier se dirige a ver a Shirz y a escribir una carta a Banzo**",
+      "mensaje_sha256": "60d9d15123bca94a81efa121644ddc1e8268088661bdfa34045c0582f7ffd6f5",
+      "tipo_discord": 19,
+      "referencia": "1445068948163924110",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1445075847521505396",
+      "texto_sha256": "a526839169e620110fa7b5599eb4c2a910852a42ead55b61ac1da046d462a679",
+      "adjuntos": []
+    },
+    {
+      "id": "1445076221410148513",
+      "fecha_utc": "2025-12-01T15:36:59.402000+00:00",
+      "fecha_local": "2025-12-01",
+      "editado_utc": null,
+      "texto": "Vespera: **No te despide, deja que te vayas y aprobecha para estirarse... Algo mas comoda al no estas atada a un poster**",
+      "mensaje_sha256": "50ec4e09cbc68da6e07e3241438b20ef4e4191f9ab30d7f5ce67bb6a7277dfda",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1445076221410148513",
+      "texto_sha256": "41759e53bdad3f4a84c277f2a9bc4c9d7699ac64f1ae9e5ba70257043f3a4075",
+      "adjuntos": []
+    },
+    {
+      "id": "1445079440915697865",
+      "fecha_utc": "2025-12-01T15:49:46.992000+00:00",
+      "fecha_local": "2025-12-01",
+      "editado_utc": null,
+      "texto": "Shirz y Banzo reciben informes de Palathier \n\n<:ARTIFICER:1075754811586248724> Palathier SALE DE ESCENA<:ARTIFICER:1075754811586248724>",
+      "mensaje_sha256": "87c6b8294bb2a14a844180f0a16fbdee9215c9bf4f4b0f581b250d6071145eeb",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1445079440915697865",
+      "texto_sha256": "094e7398b516438887f8e20c4cd4295620164bf8687dc9d0e9d25573d1073815",
+      "adjuntos": []
+    },
+    {
+      "id": "1445102638554288229",
+      "fecha_utc": "2025-12-01T17:21:57.740000+00:00",
+      "fecha_local": "2025-12-01",
+      "editado_utc": null,
+      "texto": "🔴 Fin de la escena 🔴",
+      "mensaje_sha256": "8dba1336d5de64a45f8d86ea3bac0ab1a909f4f33127ac41b521ed2681e3d4ac",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1445102638554288229",
+      "texto_sha256": "17de8d95942b0fb6967047c232c2803aac08862ce9732e9e4ad54f0347d72b95",
+      "adjuntos": []
+    }
+  ]
+}

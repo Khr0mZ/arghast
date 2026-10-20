@@ -1,0 +1,93 @@
+{
+  "id": "k-1369369307926106255",
+  "campana": "kuroto",
+  "unidad_revision": "k-1368711266256031755",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Banzo se cubre el rostro",
+  "resumen": "El goliat se prepara en privado con armadura y vendas.",
+  "relato": "Después, Banzo vuelve por el portal y recoge la caja que, según su propia referencia, le dio un pescador. Se encierra en su habitación y se coloca una armadura tradicional de Kuroto que le cubre por completo el rostro. Antes de ponerse los guantes, venda las manos y los brazos para taparlos. La preparación termina ahí: no se explica el motivo de ocultarse ni se representa una actuación posterior con esa indumentaria.",
+  "participantes": [
+    "Banzo"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1369369307926106255",
+      "afirmacion": "Banzo recoge una caja y se coloca armadura, vendas y guantes para cubrirse por completo.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Veintitrés mensajes completos con tres encuentros separados. El relato de Kurobane es retrospectivo y parcial; no sustituye las fuentes de la escena que cuenta.",
+    "La muerte del shogun se menciona expresamente en el diálogo de Guxi. No se deduce aquí su causa.",
+    "La figura que cruza el portal no se identifica con Wasabi ni con otro participante por proximidad.",
+    "No se aclara a cuáles dos compañeros dirige Jelbreg su declaración de confianza. La armadura de Banzo no demuestra una infiltración ni una misión nueva."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-06T17:44:44.661000+00:00",
+  "fin_utc": "2025-05-06T17:53:51.081000+00:00",
+  "fecha_local": "2025-05-06",
+  "intervalo": {
+    "anterior": 111,
+    "siguiente": 112,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1369742246882054214",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 111,
+        "fecha": "2025-05-01",
+        "inicio_referencia_utc": "2025-05-01T18:30:18+00:00",
+        "fin_estimado_utc": "2025-05-01T21:17:50+00:00",
+        "duracion_video_segundos": 10052,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983"
+      },
+      {
+        "capitulo": 112,
+        "fecha": "2025-05-07",
+        "inicio_referencia_utc": "2025-05-07T18:26:24+00:00",
+        "fin_estimado_utc": "2025-05-07T21:22:03+00:00",
+        "duracion_video_segundos": 10539,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1369742246882054214"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1369369307926106255",
+      "fecha_utc": "2025-05-06T17:44:44.661000+00:00",
+      "fecha_local": "2025-05-06",
+      "editado_utc": null,
+      "texto": "Banzo : **Sale del portal coje la caja que le dio el pescador y se encierra en su cuarto ** \n**se estaria colocando una armadura tradicional de kuroto , le tapa el rostro por completo y antes de ponerse los guantes se tapa las manos y el brazo por completo con vendas ** \n\n\n❌ Banzo sale de escena ❌",
+      "mensaje_sha256": "9b7e29889084fb91f39944f92ffaa5f570bc1f706101b1502fb2edbdf47e20f3",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369369307926106255",
+      "texto_sha256": "dff81c1f8c64e308b16de203ba233f762afa94cfc968ba2477a6aed81fb16e9f",
+      "adjuntos": []
+    },
+    {
+      "id": "1369371599777693806",
+      "fecha_utc": "2025-05-06T17:53:51.081000+00:00",
+      "fecha_local": "2025-05-06",
+      "editado_utc": null,
+      "texto": "❌ Fin de la escena ❌",
+      "mensaje_sha256": "8d59d6940789925b5748c99f632bc1607a413935e0da9cf321307196dbb8627c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369371599777693806",
+      "texto_sha256": "01e9459fcf510dafc14cd5e54318196cc6f72f0718cd81b1aa5c48bf44580121",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "k-1387332708870520843",
+  "campana": "kuroto",
+  "unidad_revision": "k-1387332708870520843",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Jelbreg carga con la compra",
+  "resumen": "El drow sale del mercado refunfuñando entre bolsas.",
+  "relato": "Jelbreg abandona el mercado de Sho con la capucha muy baja y varias bolsas mal sujetas. Mientras camina entre la gente intenta evitar que se rompan o se le caigan y protesta por tener que ocuparse de la tarea. La frase sobre otras dos personas queda incompleta; no se identifica el contenido de las bolsas ni se muestra su entrega.",
+  "participantes": [
+    "Jelbreg"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1387332708870520843",
+      "afirmacion": "Jelbreg sale del mercado cargado de bolsas y quejándose.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No se deduce la compra exacta ni la identidad de esos dos solo por el comentario incompleto."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-25T07:24:53.190000+00:00",
+  "fin_utc": "2025-06-25T09:29:28.843000+00:00",
+  "fecha_local": "2025-06-25",
+  "intervalo": {
+    "anterior": 131,
+    "siguiente": 132,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387130423632724151",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387494015813030079",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 131,
+        "fecha": "2025-06-24",
+        "inicio_referencia_utc": "2025-06-24T18:00:45+00:00",
+        "fin_estimado_utc": "2025-06-24T21:04:44+00:00",
+        "duracion_video_segundos": 11039,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387130423632724151"
+      },
+      {
+        "capitulo": 132,
+        "fecha": "2025-06-25",
+        "inicio_referencia_utc": "2025-06-25T18:05:33+00:00",
+        "fin_estimado_utc": "2025-06-25T20:47:07+00:00",
+        "duracion_video_segundos": 9694,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387494015813030079"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1387332708870520843",
+      "fecha_utc": "2025-06-25T07:24:53.190000+00:00",
+      "fecha_local": "2025-06-25",
+      "editado_utc": null,
+      "texto": "Jelbreg: **El drow sale del mercado con la capucha calada hasta los ojos y varias bolsas colgando torpemente de sus brazos. Refunfuña por lo bajo mientras intenta evitar que se le rompa alguna o que se le caiga todo por el suelo, resoplando con fastidio cada vez que una se tambalea peligrosamente. Ajusta la capucha con el hombro, sin dejar de andar con paso firme entre la gente.** Maldita sea...no se porque tengo que hacer yo esto si esos dos...",
+      "mensaje_sha256": "69b797c84ad4d5c7c64294155237cb3210c2c250bbf3da702b5cb4df52abd5da",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1387332708870520843",
+      "texto_sha256": "17a61413016dbf8e5f3cba4e757bb7f6eb7498d20a52e7522b0e4b95cecc1d25",
+      "adjuntos": []
+    },
+    {
+      "id": "1387364064031801445",
+      "fecha_utc": "2025-06-25T09:29:28.843000+00:00",
+      "fecha_local": "2025-06-25",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "2f7d3613ec3a0f4380ac24e3f89776fc73302ddbc5975171ae67d1a799a699fa",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1387364064031801445",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

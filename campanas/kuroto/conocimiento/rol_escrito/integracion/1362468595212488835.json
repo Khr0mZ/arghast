@@ -1,0 +1,1132 @@
+{
+  "hilo_id": "1362468595212488835",
+  "hilo": "Campamento Sur - Sur de Kuroto",
+  "campana": "kuroto",
+  "unidades_leidas": 66,
+  "alcance": "Fuentes completas del hilo incluidas en asignacion_interfaz.json. Los acontecimientos se integran solo como rol escrito y no acreditan una revisión de vídeos.",
+  "identidades": [
+    {
+      "nombre": "Kurobane",
+      "alias": [
+        "Kuro"
+      ],
+      "pruebas": [
+        "1444455674213040213",
+        "1444464637729837218"
+      ],
+      "nota": "El ninja se presenta por nombre en su segunda visita a Vespera y remite a su primer encuentro rotulado ???.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1444455674213040213",
+          "escena": "k-1444452595379732631",
+          "fecha_utc": "2025-11-29T22:31:09.421000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1444455674213040213"
+        },
+        {
+          "mensaje_id": "1444464637729837218",
+          "escena": "k-1444452595379732631",
+          "fecha_utc": "2025-11-29T23:06:46.490000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1444464637729837218"
+        }
+      ]
+    },
+    {
+      "nombre": "Osurai",
+      "alias": [
+        "Osurei"
+      ],
+      "pruebas": [
+        "1372521895039205407",
+        "1372556974603894844",
+        "1444465852039692380"
+      ],
+      "nota": "Entidad que habla desde Kurobane en la escena con Kalista. No fusionar a Osurai con Kazuki por compartir autor de Discord: ambos actúan separadamente en la segunda oleada.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1372521895039205407",
+          "escena": "k-1372515417976995892",
+          "fecha_utc": "2025-05-15T10:32:00.001000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1372521895039205407"
+        },
+        {
+          "mensaje_id": "1372556974603894844",
+          "escena": "k-1372515417976995892",
+          "fecha_utc": "2025-05-15T12:51:23.621000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1372556974603894844"
+        },
+        {
+          "mensaje_id": "1444465852039692380",
+          "escena": "k-1444452595379732631",
+          "fecha_utc": "2025-11-29T23:11:36.004000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1444465852039692380"
+        }
+      ]
+    },
+    {
+      "nombre": "Seraphina",
+      "alias": [
+        "Sera",
+        "Seraphina La Tempestad Longhop"
+      ],
+      "pruebas": [
+        "1438663770250678394",
+        "1440714740832927884"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1438663770250678394",
+          "escena": "k-1438661410484912249",
+          "fecha_utc": "2025-11-13T22:56:11.908000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1438663770250678394"
+        },
+        {
+          "mensaje_id": "1440714740832927884",
+          "escena": "k-1439381101369098311",
+          "fecha_utc": "2025-11-19T14:46:01.400000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1440714740832927884"
+        }
+      ]
+    },
+    {
+      "nombre": "Wukong",
+      "alias": [
+        "Sun Wukong"
+      ],
+      "pruebas": [
+        "1440028403268059277",
+        "1440757330634346516",
+        "1448716419972993209"
+      ],
+      "nota": "Tang explica que Sun es un título vacante; Erlang usa después el nombre completo. No tomar el cambio de tratamiento como mecánica de ascensión explicada.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1440028403268059277",
+          "escena": "k-1439381101369098311",
+          "fecha_utc": "2025-11-17T17:18:45.773000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1440028403268059277"
+        },
+        {
+          "mensaje_id": "1440757330634346516",
+          "escena": "k-1439381101369098311",
+          "fecha_utc": "2025-11-19T17:35:15.600000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1440757330634346516"
+        },
+        {
+          "mensaje_id": "1448716419972993209",
+          "escena": "k-1448610187974807654",
+          "fecha_utc": "2025-12-11T16:41:50.371000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448716419972993209"
+        }
+      ]
+    },
+    {
+      "nombre": "Vespera",
+      "alias": [],
+      "pruebas": [
+        "1443951706755825745",
+        "1443905619500339321",
+        "1448374706733318256"
+      ],
+      "nota": "No recuerda su nombre anterior. Shirz detecta rasgos yokai y concede a Banzo visión de una forma felina de dos colas; no afirmar que se transformó físicamente en la taberna.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1443951706755825745",
+          "escena": "k-1443875766013267968",
+          "fecha_utc": "2025-11-28T13:08:34.216000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1443951706755825745"
+        },
+        {
+          "mensaje_id": "1443905619500339321",
+          "escena": "k-1443875766013267968",
+          "fecha_utc": "2025-11-28T10:05:26.158000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1443905619500339321"
+        },
+        {
+          "mensaje_id": "1448374706733318256",
+          "escena": "k-1448091630677524502",
+          "fecha_utc": "2025-12-10T18:03:59.586000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448374706733318256"
+        }
+      ]
+    },
+    {
+      "nombre": "Jezebel",
+      "alias": [],
+      "pruebas": [
+        "1444331401431351467",
+        "1445361778555883530"
+      ],
+      "nota": "Corcel alado convocado por Vespera; dialoga en abisal.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1444331401431351467",
+          "escena": "k-1444280724793594020",
+          "fecha_utc": "2025-11-29T14:17:20.481000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1444331401431351467"
+        },
+        {
+          "mensaje_id": "1445361778555883530",
+          "escena": "k-1445351104589205598",
+          "fecha_utc": "2025-12-02T10:31:41.531000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1445361778555883530"
+        }
+      ]
+    },
+    {
+      "nombre": "Ignacio",
+      "alias": [],
+      "pruebas": [
+        "1444309324179443834",
+        "1444410621302149230"
+      ],
+      "nota": "Familiar búho de Jhin, dejado como compañía a Vespera.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1444309324179443834",
+          "escena": "k-1444280724793594020",
+          "fecha_utc": "2025-11-29T12:49:36.854000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1444309324179443834"
+        },
+        {
+          "mensaje_id": "1444410621302149230",
+          "escena": "k-1444280724793594020",
+          "fecha_utc": "2025-11-29T19:32:07.970000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1444410621302149230"
+        }
+      ]
+    },
+    {
+      "nombre": "John",
+      "alias": [
+        "Jhon"
+      ],
+      "pruebas": [
+        "1383769704253886596"
+      ],
+      "nota": "Variación de grafía del constructo de Guxi, sin crear dos entidades.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1383769704253886596",
+          "escena": "k-1383385262163230720",
+          "fecha_utc": "2025-06-15T11:26:46.692000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1383769704253886596"
+        }
+      ]
+    }
+  ],
+  "arcos": [
+    {
+      "nombre": "La guerra del sur",
+      "avance": "La primera oleada se resiste; Mezuki y Gozuki son derrotados al cerrar la segunda. Alfonso muere al dar indirectamente la alarma de la tercera. Más adelante la Puerta Negra ofrece una abertura y se anuncia una marcha final, sin resolver aquí la guerra.",
+      "pruebas": [
+        "1385923757864128594",
+        "1393889407479578625",
+        "1438477444284809339",
+        "1443598010906054677",
+        "1460885744435597458"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1385923757864128594",
+          "escena": "k-1385809829695848478",
+          "fecha_utc": "2025-06-21T10:06:13.093000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1385923757864128594"
+        },
+        {
+          "mensaje_id": "1393889407479578625",
+          "escena": "k-1393150458050379937",
+          "fecha_utc": "2025-07-13T09:38:51.956000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1393889407479578625"
+        },
+        {
+          "mensaje_id": "1438477444284809339",
+          "escena": "k-1438477444284809339",
+          "fecha_utc": "2025-11-13T10:35:48.336000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1438477444284809339"
+        },
+        {
+          "mensaje_id": "1443598010906054677",
+          "escena": "k-1443598010906054677",
+          "fecha_utc": "2025-11-27T13:43:06.554000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1443598010906054677"
+        },
+        {
+          "mensaje_id": "1460885744435597458",
+          "escena": "k-1460885744435597458",
+          "fecha_utc": "2026-01-14T06:38:23.418000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1460885744435597458"
+        }
+      ]
+    },
+    {
+      "nombre": "Las esferas y Danifae",
+      "avance": "Danifae muestra dos esferas y atribuye a Kurobane su recuperación del palacio. Él confiesa a Seraphina que se infiltró y proporcionó la información. Kalista informa del robo. Banzo y Danifae apuestan secretos según si el ninja afrontará su falta.",
+      "pruebas": [
+        "1437816712211861657",
+        "1438663770250678394",
+        "1438664838581588029",
+        "1438970064119271435",
+        "1438949444711354378"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1437816712211861657",
+          "escena": "k-1437364019362136157",
+          "fecha_utc": "2025-11-11T14:50:17.534000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1437816712211861657"
+        },
+        {
+          "mensaje_id": "1438663770250678394",
+          "escena": "k-1438661410484912249",
+          "fecha_utc": "2025-11-13T22:56:11.908000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1438663770250678394"
+        },
+        {
+          "mensaje_id": "1438664838581588029",
+          "escena": "k-1438664838581588029",
+          "fecha_utc": "2025-11-13T23:00:26.618000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1438664838581588029"
+        },
+        {
+          "mensaje_id": "1438970064119271435",
+          "escena": "k-1438954035804897360",
+          "fecha_utc": "2025-11-14T19:13:18.057000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1438970064119271435"
+        },
+        {
+          "mensaje_id": "1438949444711354378",
+          "escena": "k-1438847037612490804",
+          "fecha_utc": "2025-11-14T17:51:22.007000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1438949444711354378"
+        }
+      ]
+    },
+    {
+      "nombre": "Kurobane y la oscuridad",
+      "avance": "Las curas de Kalista cierran una herida sin expulsar a Osurai. Guxi busca sin éxito una solución en el monasterio y la aparente destrucción del techo se revela subjetiva. Vespera reconoce una magia semejante y luego extrae el poder de Kurobane en una escena aceptada por su respuesta, sin explicar consecuencias permanentes ni resolver por completo a Osurai.",
+      "pruebas": [
+        "1372553212434845808",
+        "1383769704253886596",
+        "1383782696429293660",
+        "1448287865611223070",
+        "1448444034627407933",
+        "1448446621447749870"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1372553212434845808",
+          "escena": "k-1372515417976995892",
+          "fecha_utc": "2025-05-15T12:36:26.650000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1372553212434845808"
+        },
+        {
+          "mensaje_id": "1383769704253886596",
+          "escena": "k-1383385262163230720",
+          "fecha_utc": "2025-06-15T11:26:46.692000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1383769704253886596"
+        },
+        {
+          "mensaje_id": "1383782696429293660",
+          "escena": "k-1383385262163230720",
+          "fecha_utc": "2025-06-15T12:18:24.268000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1383782696429293660"
+        },
+        {
+          "mensaje_id": "1448287865611223070",
+          "escena": "k-1448091630677524502",
+          "fecha_utc": "2025-12-10T12:18:55.049000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448287865611223070"
+        },
+        {
+          "mensaje_id": "1448444034627407933",
+          "escena": "k-1448428744267137235",
+          "fecha_utc": "2025-12-10T22:39:28.644000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448444034627407933"
+        },
+        {
+          "mensaje_id": "1448446621447749870",
+          "escena": "k-1448428744267137235",
+          "fecha_utc": "2025-12-10T22:49:45.390000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448446621447749870"
+        }
+      ]
+    },
+    {
+      "nombre": "La redención de Vespera",
+      "avance": "Pasa de prisionera hostil a colaboradora bajo condiciones: afirma proteger a yokais contrarios a la guerra, marca campamentos y recibe informes favorables y hostiles tras una incursión. Shirz le entrega anillos de vigilancia y permite su circulación dentro del campamento. Banzo empieza a aceptarla y acaba invitándola a su familia elegida.",
+      "pruebas": [
+        "1444390424696590396",
+        "1445381861550460939",
+        "1448205141072281632",
+        "1448226110948118581",
+        "1448302695059558461",
+        "1448413006701789366",
+        "1455581234439651411"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1444390424696590396",
+          "escena": "k-1444280724793594020",
+          "fecha_utc": "2025-11-29T18:11:52.724000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1444390424696590396"
+        },
+        {
+          "mensaje_id": "1445381861550460939",
+          "escena": "k-1445351104589205598",
+          "fecha_utc": "2025-12-02T11:51:29.690000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1445381861550460939"
+        },
+        {
+          "mensaje_id": "1448205141072281632",
+          "escena": "k-1448091630677524502",
+          "fecha_utc": "2025-12-10T06:50:11.982000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448205141072281632"
+        },
+        {
+          "mensaje_id": "1448226110948118581",
+          "escena": "k-1448091630677524502",
+          "fecha_utc": "2025-12-10T08:13:31.590000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448226110948118581"
+        },
+        {
+          "mensaje_id": "1448302695059558461",
+          "escena": "k-1448091630677524502",
+          "fecha_utc": "2025-12-10T13:17:50.665000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448302695059558461"
+        },
+        {
+          "mensaje_id": "1448413006701789366",
+          "escena": "k-1448091630677524502",
+          "fecha_utc": "2025-12-10T20:36:11.010000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448413006701789366"
+        },
+        {
+          "mensaje_id": "1455581234439651411",
+          "escena": "k-1455571659573559347",
+          "fecha_utc": "2025-12-30T15:20:09.682000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1455581234439651411"
+        }
+      ]
+    },
+    {
+      "nombre": "Wukong, Tang y Erlang",
+      "avance": "Seraphina obtiene la confianza de Tang, percibe la montaña y libera a Wukong. Un visitante sin nombre hace desaparecer a Tang y se lleva nube y báculo. Erlang se identifica después en otro encuentro con Wukong, al que desafía mediante los dados y una visión pasajera. En el último bloque Tang y Erlang lo despiden hacia el camino de la serpiente, sin mostrar la llegada.",
+      "pruebas": [
+        "1440106295851090012",
+        "1440601638636359722",
+        "1442209906655498390",
+        "1442214874485883150",
+        "1448690908563243081",
+        "1448708499117834262",
+        "1463869492429066343"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1440106295851090012",
+          "escena": "k-1439381101369098311",
+          "fecha_utc": "2025-11-17T22:28:16.812000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1440106295851090012"
+        },
+        {
+          "mensaje_id": "1440601638636359722",
+          "escena": "k-1439381101369098311",
+          "fecha_utc": "2025-11-19T07:16:35.735000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1440601638636359722"
+        },
+        {
+          "mensaje_id": "1442209906655498390",
+          "escena": "k-1442193465487396875",
+          "fecha_utc": "2025-11-23T17:47:16.711000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1442209906655498390"
+        },
+        {
+          "mensaje_id": "1442214874485883150",
+          "escena": "k-1442193465487396875",
+          "fecha_utc": "2025-11-23T18:07:01.134000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1442214874485883150"
+        },
+        {
+          "mensaje_id": "1448690908563243081",
+          "escena": "k-1448610187974807654",
+          "fecha_utc": "2025-12-11T15:00:27.977000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448690908563243081"
+        },
+        {
+          "mensaje_id": "1448708499117834262",
+          "escena": "k-1448610187974807654",
+          "fecha_utc": "2025-12-11T16:10:21.892000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448708499117834262"
+        },
+        {
+          "mensaje_id": "1463869492429066343",
+          "escena": "k-1463862062630310061",
+          "fecha_utc": "2026-01-22T12:14:44.375000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1463869492429066343"
+        }
+      ]
+    },
+    {
+      "nombre": "El duelo con Vogthar",
+      "avance": "Banzo entrena con Jhin y Vespera para afrontar a un goliat de su pasado. Pierde el primer punto por dejar aperturas y reformula su objetivo como dejar atrás el pasado, no vengarse. No se juega el duelo con Vogthar.",
+      "pruebas": [
+        "1448956491699585067",
+        "1449123554053329153",
+        "1449803953192829121",
+        "1449805238763524147"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1448956491699585067",
+          "escena": "k-1448956491699585067",
+          "fecha_utc": "2025-12-12T08:35:47.931000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448956491699585067"
+        },
+        {
+          "mensaje_id": "1449123554053329153",
+          "escena": "k-1448956491699585067",
+          "fecha_utc": "2025-12-12T19:39:38.700000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1449123554053329153"
+        },
+        {
+          "mensaje_id": "1449803953192829121",
+          "escena": "k-1448956491699585067",
+          "fecha_utc": "2025-12-14T16:43:18.496000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1449803953192829121"
+        },
+        {
+          "mensaje_id": "1449805238763524147",
+          "escena": "k-1448956491699585067",
+          "fecha_utc": "2025-12-14T16:48:25+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1449805238763524147"
+        }
+      ]
+    },
+    {
+      "nombre": "La pérdida y el futuro de Banzo",
+      "avance": "El sueño con Kalista y Jelbreg ofrece una despedida y una unión simbólica; al despertar se aclara que Kalista ya no está y Jelbreg se fue lejos. Palathier recibe en una experiencia devocional palabras sobre una nueva vida en su interior y vuelve a acostarse con Banzo.",
+      "pruebas": [
+        "1460987139616538634",
+        "1461370733631639563",
+        "1461380631350214666"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1460987139616538634",
+          "escena": "k-1460987139616538634",
+          "fecha_utc": "2026-01-14T13:21:17.913000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1460987139616538634"
+        },
+        {
+          "mensaje_id": "1461370733631639563",
+          "escena": "k-1461010606026133636",
+          "fecha_utc": "2026-01-15T14:45:33.853000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1461370733631639563"
+        },
+        {
+          "mensaje_id": "1461380631350214666",
+          "escena": "k-1461010606026133636",
+          "fecha_utc": "2026-01-15T15:24:53.653000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1461380631350214666"
+        }
+      ]
+    },
+    {
+      "nombre": "Los informes sobre Nox",
+      "avance": "Jelbreg recuerda cultistas junto a una posible fábrica y emblemas de mercaderes del Puerto de las Espadas. Quiere consultar a Kazuki por su contacto con el Feywild; no se prueba que los ingredientes procedan de allí.",
+      "pruebas": [
+        "1408807022438252674",
+        "1408810575928230039",
+        "1408881107444695102"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1408807022438252674",
+          "escena": "k-1408751157182070784",
+          "fecha_utc": "2025-08-23T13:36:08.518000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1408807022438252674"
+        },
+        {
+          "mensaje_id": "1408810575928230039",
+          "escena": "k-1408751157182070784",
+          "fecha_utc": "2025-08-23T13:50:15.736000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1408810575928230039"
+        },
+        {
+          "mensaje_id": "1408881107444695102",
+          "escena": "k-1408751157182070784",
+          "fecha_utc": "2025-08-23T18:30:31.760000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1408881107444695102"
+        }
+      ]
+    }
+  ],
+  "pendientes": [
+    {
+      "pregunta": "¿Cuál es la función de las esferas, dónde está la última y cómo las manipula Danifae?",
+      "pruebas": [
+        "1438949444711354378",
+        "1438977328519712912"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1438949444711354378",
+          "escena": "k-1438847037612490804",
+          "fecha_utc": "2025-11-14T17:51:22.007000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1438949444711354378"
+        },
+        {
+          "mensaje_id": "1438977328519712912",
+          "escena": "k-1438954035804897360",
+          "fecha_utc": "2025-11-14T19:42:10.025000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1438977328519712912"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Se resolvió y cobró la apuesta de Banzo y Danifae sobre la respuesta de Kurobane? El ninja declara que afrontará su falta, pero aquí no se liquida la apuesta.",
+      "pruebas": [
+        "1438949779727057130",
+        "1439684134929829999"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1438949779727057130",
+          "escena": "k-1438847037612490804",
+          "fecha_utc": "2025-11-14T17:52:41.881000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1438949779727057130"
+        },
+        {
+          "mensaje_id": "1439684134929829999",
+          "escena": "k-1439381101369098311",
+          "fecha_utc": "2025-11-16T18:30:45.805000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1439684134929829999"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué plan compartieron Banzo y Kalista y qué secreto sostuvo su pacto de amistad? La fuente oculta expresamente el contenido.",
+      "pruebas": [
+        "1439036077745897624"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1439036077745897624",
+          "escena": "k-1438954035804897360",
+          "fecha_utc": "2025-11-14T23:35:36.932000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1439036077745897624"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué efectos posteriores tiene la extracción sombría y qué sucede con Osurai?",
+      "pruebas": [
+        "1448444034627407933",
+        "1448446621447749870"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1448444034627407933",
+          "escena": "k-1448428744267137235",
+          "fecha_utc": "2025-12-10T22:39:28.644000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448444034627407933"
+        },
+        {
+          "mensaje_id": "1448446621447749870",
+          "escena": "k-1448428744267137235",
+          "fecha_utc": "2025-12-10T22:49:45.390000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448446621447749870"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Puede revertirse el don de Ootakemaru en los yokais y podrá Vespera recuperar su forma anterior o un nuevo juramento?",
+      "pruebas": [
+        "1445012187486621758",
+        "1445059911707791452",
+        "1445358870859092074"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1445012187486621758",
+          "escena": "k-1444962511832092755",
+          "fecha_utc": "2025-12-01T11:22:32.525000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1445012187486621758"
+        },
+        {
+          "mensaje_id": "1445059911707791452",
+          "escena": "k-1444962511832092755",
+          "fecha_utc": "2025-12-01T14:32:10.866000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1445059911707791452"
+        },
+        {
+          "mensaje_id": "1445358870859092074",
+          "escena": "k-1445351104589205598",
+          "fecha_utc": "2025-12-02T10:20:08.282000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1445358870859092074"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Se verifican las posiciones de los campamentos y qué resultado tienen las siguientes incursiones?",
+      "pruebas": [
+        "1445383664904179732"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1445383664904179732",
+          "escena": "k-1445351104589205598",
+          "fecha_utc": "2025-12-02T11:58:39.643000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1445383664904179732"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Vespera logra convencer a desertores y qué destino tiene su rey? Sigue sin sentirse capaz de matarlo y desea esperanza para él.",
+      "pruebas": [
+        "1445059911707791452",
+        "1461008419245789371"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1445059911707791452",
+          "escena": "k-1444962511832092755",
+          "fecha_utc": "2025-12-01T14:32:10.866000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1445059911707791452"
+        },
+        {
+          "mensaje_id": "1461008419245789371",
+          "escena": "k-1461008419245789371",
+          "fecha_utc": "2026-01-14T14:45:51.372000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1461008419245789371"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Dónde acaba el viaje de Wukong por el sendero y qué significan exactamente su comentario sobre estar muerto y el destino mencionado por Tang?",
+      "pruebas": [
+        "1463864380453159006",
+        "1463869492429066343"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1463864380453159006",
+          "escena": "k-1463862062630310061",
+          "fecha_utc": "2026-01-22T11:54:25.585000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1463864380453159006"
+        },
+        {
+          "mensaje_id": "1463869492429066343",
+          "escena": "k-1463862062630310061",
+          "fecha_utc": "2026-01-22T12:14:44.375000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1463869492429066343"
+        }
+      ],
+      "cotejo_posterior": {
+        "estado": "parcial",
+        "respuesta": "Base Sho muestra que Wukong convalece por haber agotado su ki en la batalla. Tras la experiencia del sendero, despierta de nuevo junto a sus compañeros. Su comentario sobre estar muerto durante aquella vivencia no representa una muerte física confirmada.",
+        "pendiente": "El despertar fija el regreso a la vigilia, sin resolver todas las interpretaciones espirituales del viaje y de las palabras de Tang.",
+        "pruebas": [
+          "1463807432684863501",
+          "1464772097799753831",
+          "1465091312624730118"
+        ],
+        "orden_temporal": "entre_hilos",
+        "fuentes_rol": [
+          {
+            "mensaje_id": "1463807432684863501",
+            "escena": "k-1463807432684863501",
+            "fecha_utc": "2026-01-22T08:08:08.179000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1463807432684863501"
+          },
+          {
+            "mensaje_id": "1464772097799753831",
+            "escena": "k-1464772097799753831",
+            "fecha_utc": "2026-01-25T00:01:22.265000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1464772097799753831"
+          },
+          {
+            "mensaje_id": "1465091312624730118",
+            "escena": "k-1464772097799753831",
+            "fecha_utc": "2026-01-25T21:09:49.010000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1465091312624730118"
+          }
+        ]
+      }
+    },
+    {
+      "pregunta": "¿Se produce el enfrentamiento prometido a Erlang y cómo recupera Wukong nube y báculo? Hay una toma anterior de los objetos y usos posteriores, sin detallar aquí todas las transiciones.",
+      "pruebas": [
+        "1442214874485883150",
+        "1448712596067713034",
+        "1448718655683821689"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1442214874485883150",
+          "escena": "k-1442193465487396875",
+          "fecha_utc": "2025-11-23T18:07:01.134000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1442214874485883150"
+        },
+        {
+          "mensaje_id": "1448712596067713034",
+          "escena": "k-1448610187974807654",
+          "fecha_utc": "2025-12-11T16:26:38.681000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448712596067713034"
+        },
+        {
+          "mensaje_id": "1448718655683821689",
+          "escena": "k-1448610187974807654",
+          "fecha_utc": "2025-12-11T16:50:43.406000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448718655683821689"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Se envía y contesta la misiva a Kazuki sobre el Nox y el Puerto de las Espadas?",
+      "pruebas": [
+        "1408881107444695102"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1408881107444695102",
+          "escena": "k-1408751157182070784",
+          "fecha_utc": "2025-08-23T18:30:31.760000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1408881107444695102"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Se celebra el duelo de Banzo y Vogthar y quién sobrevivió realmente al ataque de su tribu?",
+      "pruebas": [
+        "1449803953192829121",
+        "1449805238763524147"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1449803953192829121",
+          "escena": "k-1448956491699585067",
+          "fecha_utc": "2025-12-14T16:43:18.496000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1449803953192829121"
+        },
+        {
+          "mensaje_id": "1449805238763524147",
+          "escena": "k-1448956491699585067",
+          "fecha_utc": "2025-12-14T16:48:25+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1449805238763524147"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué consecuencia y comunicación tiene la revelación de embarazo de Palathier? No se muestra que Banzo la conozca.",
+      "pruebas": [
+        "1460987139616538634"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1460987139616538634",
+          "escena": "k-1460987139616538634",
+          "fecha_utc": "2026-01-14T13:21:17.913000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1460987139616538634"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué es la pequeña criatura de ocho patas que sale de las sábanas sin ser vista?",
+      "pruebas": [
+        "1461381786029527176"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1461381786029527176",
+          "escena": "k-1461010606026133636",
+          "fecha_utc": "2026-01-15T15:29:28.950000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1461381786029527176"
+        }
+      ]
+    }
+  ],
+  "relaciones": [
+    {
+      "personas": [
+        "Banzo",
+        "Vespera"
+      ],
+      "desarrollo": "De rechazo y amenazas a una aceptación como familia elegida y defensa de un hogar compartido.",
+      "pruebas": [
+        "1448226110948118581",
+        "1448413006701789366",
+        "1455581234439651411"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1448226110948118581",
+          "escena": "k-1448091630677524502",
+          "fecha_utc": "2025-12-10T08:13:31.590000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448226110948118581"
+        },
+        {
+          "mensaje_id": "1448413006701789366",
+          "escena": "k-1448091630677524502",
+          "fecha_utc": "2025-12-10T20:36:11.010000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448413006701789366"
+        },
+        {
+          "mensaje_id": "1455581234439651411",
+          "escena": "k-1455571659573559347",
+          "fecha_utc": "2025-12-30T15:20:09.682000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1455581234439651411"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Shirz",
+        "Vespera"
+      ],
+      "desarrollo": "Apoya su redención, la interroga y permite colaboración bajo vigilancia, sin confianza incondicional.",
+      "pruebas": [
+        "1443964026865455366",
+        "1448299466380546291",
+        "1448302695059558461"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1443964026865455366",
+          "escena": "k-1443875766013267968",
+          "fecha_utc": "2025-11-28T13:57:31.559000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1443964026865455366"
+        },
+        {
+          "mensaje_id": "1448299466380546291",
+          "escena": "k-1448091630677524502",
+          "fecha_utc": "2025-12-10T13:05:00.888000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448299466380546291"
+        },
+        {
+          "mensaje_id": "1448302695059558461",
+          "escena": "k-1448091630677524502",
+          "fecha_utc": "2025-12-10T13:17:50.665000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448302695059558461"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Jhin",
+        "Vespera"
+      ],
+      "desarrollo": "Hospitalidad y compañía del familiar, con imprudencias de custodia que Shirz reprende.",
+      "pruebas": [
+        "1444305006726484073",
+        "1444410621302149230",
+        "1444369926465781870"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1444305006726484073",
+          "escena": "k-1444280724793594020",
+          "fecha_utc": "2025-11-29T12:32:27.493000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1444305006726484073"
+        },
+        {
+          "mensaje_id": "1444410621302149230",
+          "escena": "k-1444280724793594020",
+          "fecha_utc": "2025-11-29T19:32:07.970000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1444410621302149230"
+        },
+        {
+          "mensaje_id": "1444369926465781870",
+          "escena": "k-1444280724793594020",
+          "fecha_utc": "2025-11-29T16:50:25.565000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1444369926465781870"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Seraphina",
+        "Guxi"
+      ],
+      "desarrollo": "Seraphina se declara prometida de Guxi; no se muestra una boda en este hilo.",
+      "pruebas": [
+        "1440768593242489028"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1440768593242489028",
+          "escena": "k-1439381101369098311",
+          "fecha_utc": "2025-11-19T18:20:00.815000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1440768593242489028"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Seraphina",
+        "Kurobane"
+      ],
+      "desarrollo": "Secreto compartido y asistencia tras la batalla; después discuten con dureza y ella jura apartarse de su vida tras completar su ayuda. No fabricar reconciliación completa.",
+      "pruebas": [
+        "1438667910561398944",
+        "1439437228723015763"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1438667910561398944",
+          "escena": "k-1438664838581588029",
+          "fecha_utc": "2025-11-13T23:12:39.035000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1438667910561398944"
+        },
+        {
+          "mensaje_id": "1439437228723015763",
+          "escena": "k-1439381101369098311",
+          "fecha_utc": "2025-11-16T02:09:38.778000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1439437228723015763"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Seraphina",
+        "Wukong",
+        "Tang Sanzang"
+      ],
+      "desarrollo": "Tang confía a Seraphina acompañar al monje; ella lo encuentra y libera de la montaña.",
+      "pruebas": [
+        "1440106295851090012",
+        "1440601638636359722"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1440106295851090012",
+          "escena": "k-1439381101369098311",
+          "fecha_utc": "2025-11-17T22:28:16.812000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1440106295851090012"
+        },
+        {
+          "mensaje_id": "1440601638636359722",
+          "escena": "k-1439381101369098311",
+          "fecha_utc": "2025-11-19T07:16:35.735000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1440601638636359722"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Banzo",
+        "Palathier"
+      ],
+      "desarrollo": "La narración describe intimidad y afecto, seguido por una revelación devocional de nueva vida; no hay ceremonia matrimonial ni noticia entregada al goliat.",
+      "pruebas": [
+        "1460987139616538634",
+        "1461380631350214666"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1460987139616538634",
+          "escena": "k-1460987139616538634",
+          "fecha_utc": "2026-01-14T13:21:17.913000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1460987139616538634"
+        },
+        {
+          "mensaje_id": "1461380631350214666",
+          "escena": "k-1461010606026133636",
+          "fecha_utc": "2026-01-15T15:24:53.653000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1461380631350214666"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Kalista",
+        "Jelbreg",
+        "Banzo"
+      ],
+      "desarrollo": "Amistad y afecto explícitos, culminados en un sueño de despedida. La unión que Banzo oficia allí es simbólica y soñada.",
+      "pruebas": [
+        "1461370733631639563",
+        "1461375260208398437",
+        "1461380631350214666"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1461370733631639563",
+          "escena": "k-1461010606026133636",
+          "fecha_utc": "2026-01-15T14:45:33.853000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1461370733631639563"
+        },
+        {
+          "mensaje_id": "1461375260208398437",
+          "escena": "k-1461010606026133636",
+          "fecha_utc": "2026-01-15T15:03:33.073000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1461375260208398437"
+        },
+        {
+          "mensaje_id": "1461380631350214666",
+          "escena": "k-1461010606026133636",
+          "fecha_utc": "2026-01-15T15:24:53.653000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1461380631350214666"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Kalista",
+        "Whell"
+      ],
+      "desarrollo": "Ella rechaza sus acercamientos y lo reprende por las bajas; el entrenamiento termina con violencia del general y una amenaza contra Jelbreg.",
+      "pruebas": [
+        "1408327588874686475",
+        "1408366294599733310",
+        "1408370939837808741"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1408327588874686475",
+          "escena": "k-1408323096125112330",
+          "fecha_utc": "2025-08-22T05:51:02.649000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1408327588874686475"
+        },
+        {
+          "mensaje_id": "1408366294599733310",
+          "escena": "k-1408323096125112330",
+          "fecha_utc": "2025-08-22T08:24:50.813000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1408366294599733310"
+        },
+        {
+          "mensaje_id": "1408370939837808741",
+          "escena": "k-1408323096125112330",
+          "fecha_utc": "2025-08-22T08:43:18.324000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1408370939837808741"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Hayate",
+        "Hermano de Hayate"
+      ],
+      "desarrollo": "El hermano de linaje real le cede la Pluma Ancestral antes de la marcha de guerra.",
+      "pruebas": [
+        "1460959342336544955"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1460959342336544955",
+          "escena": "k-1460959342336544955",
+          "fecha_utc": "2026-01-14T11:30:50.525000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1460959342336544955"
+        }
+      ]
+    }
+  ],
+  "precauciones_editoriales": [
+    "Los sueños, pensamientos, evocaciones, testimonios e informes se mantienen diferenciados de hechos materiales presenciados.",
+    "No fusionar autores de Discord con personajes: Kazuki y Osurai son distintos en las fuentes.",
+    "No reconstruir contenido de cartas no transcritas, inscripciones ilegibles, planes secretos ni escenas de vídeo no leídas.",
+    "Los cierres FIN aislados conservan su función de marcador y no añaden aventuras."
+  ],
+  "estado_seguimiento": "al_cierre_del_hilo",
+  "nota_seguimiento": "Cada cuestión conserva el contexto de sus mensajes originales. Los cotejos enlazan las respuestas halladas en otras escenas; la ausencia de un cotejo no demuestra que siga abierta después de otros capítulos.",
+  "fecha_hasta_utc": "2026-01-26T18:26:19.422000+00:00"
+}

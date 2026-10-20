@@ -1,0 +1,268 @@
+{
+  "id": "k-1385258891805200414",
+  "campana": "kuroto",
+  "unidad_revision": "k-1385134883978088489",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "Kalista obtiene la espada demoníaca para Jelbreg",
+  "resumen": "En medio de la alarma, Kalista negocia con Hati la retirada de la espada custodiada. El grupo parte con la vitrina hacia la capital.",
+  "relato": "Jelbreg, Kalista y Banzo llegan al campamento en plena movilización. El drow pide la espada demoníaca, pero deja a Kalista solicitarla para no tener que robarla. En la tienda de mando encuentran a Hati organizando los puestos avanzados y el muro defensivo del campamento. La tritón se identifica como administrativa de los Cazadores y del shogunato, mostrando su insignia.\n\nHati recuerda que Aka ordenó mantener el arma allí por su peligro. Kalista argumenta que quienes no combaten en primera línea necesitan otros medios para ayudar. Además, tras observar el mapa, propone dividir la oleada con un grupo fuerte en formación de tridente para facilitar la acción de infantería y arqueros.\n\nEl general aprueba el consejo y autoriza la retirada, aunque pide prudencia. Kalista vuelve con sus compañeros y Jelbreg introduce la vitrina completa en la bolsa mágica. Los tres salen con Wasabi para buscar a Palathier y dirigirse a la capital. El motivo concreto por el que Jelbreg necesita el arma todavía no se revela ni se ejecuta aquí.",
+  "participantes": [
+    "Jelbreg",
+    "Kalista",
+    "Banzo",
+    "Hati",
+    "Wasabi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1385263350098956401",
+      "afirmacion": "Hati recuerda la prohibición anterior de sacar la espada por ser peligrosa.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1385265385753935994",
+      "afirmacion": "Kalista propone una formación de tridente y justifica la necesidad de llevarse la espada.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1385266124115021834",
+      "afirmacion": "Hati autoriza que se lleven el arma.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1385267731485692026",
+      "afirmacion": "Jelbreg guarda la vitrina en la bolsa y el grupo sale de escena.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Se conserva el desenlace abierto de la batalla; las aportaciones de combate no resuelven por sí mismas la trama de Ootakemaru.",
+    "La apertura se describe expresamente por la narración del director del hilo, no se deduce solo de la alarma de Kurobane.",
+    "Se separa como subescena la obtención de la espada, que tiene salida explícita de sus participantes.",
+    "El relato identifica las acciones confirmadas en el texto, sin sumar resultados de combate o bajas que no se narran."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-19T14:04:16.672000+00:00",
+  "fin_utc": "2025-06-19T14:39:24.216000+00:00",
+  "fecha_local": "2025-06-19",
+  "intervalo": {
+    "anterior": 129,
+    "siguiente": 130,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1384958659062403102",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1385318614470496400",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 129,
+        "fecha": "2025-06-18",
+        "inicio_referencia_utc": "2025-06-18T18:10:58+00:00",
+        "fin_estimado_utc": "2025-06-18T20:18:17+00:00",
+        "duracion_video_segundos": 7639,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1384958659062403102"
+      },
+      {
+        "capitulo": 130,
+        "fecha": "2025-06-19",
+        "inicio_referencia_utc": "2025-06-19T18:01:24+00:00",
+        "fin_estimado_utc": "2025-06-19T21:47:20+00:00",
+        "duracion_video_segundos": 13556,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1385318614470496400"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1385258891805200414",
+      "fecha_utc": "2025-06-19T14:04:16.672000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": null,
+      "texto": "Jelbreg: **El grupo sale del portal del Campamento Sur y pueden observar todo el caos y movimiento de soldados de arriba abajo. El drow mira hacia la tienda de los generales. También está hecha un caos, soldados pidiendo instrucciones, generales organizando defensas y demás** Necesitamos la espada demoníaca que encontraron los cazadores.\n<@753394009153732689> <@616683133374562304>",
+      "mensaje_sha256": "d7f48a468241b6e8d5edae9cfd714b0791884c412cf65d6fcd15b8bddd42b77b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1385258891805200414",
+      "texto_sha256": "dcef7c12d37c9267fcf0f9f585d0fcf4f2de6ce082459ac7f0929d0226b58b4c",
+      "adjuntos": []
+    },
+    {
+      "id": "1385259112580911154",
+      "fecha_utc": "2025-06-19T14:05:09.309000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": null,
+      "texto": "Kalista: ¿La espada? ¿Para que?",
+      "mensaje_sha256": "0153b2e5ecffeca45d2181b6693d80128eb1ce8b3328588fd40250eab4a8697c",
+      "tipo_discord": 19,
+      "referencia": "1385258891805200414",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1385259112580911154",
+      "texto_sha256": "723f4d166061e68c48a6f99665dde0daaace8e1779510fc0b2a2e95eddcb624c",
+      "adjuntos": []
+    },
+    {
+      "id": "1385259316533268582",
+      "fecha_utc": "2025-06-19T14:05:57.935000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": null,
+      "texto": "Jelbreg: Confía en mi **Te sonríe de esa manera que te gusta tanto y te da un beso en la mejilla mientras te lleva de la mano hacia la tienda**",
+      "mensaje_sha256": "89c647aa4c19980152b9a26ceddbe7c548a547006053b931cc1bd5c35eed39de",
+      "tipo_discord": 19,
+      "referencia": "1385259112580911154",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1385259316533268582",
+      "texto_sha256": "e385e5f0c230b9e6e88315bfe19091c3247649bd155e039050bdc3e958bcb0ea",
+      "adjuntos": []
+    },
+    {
+      "id": "1385259457017286676",
+      "fecha_utc": "2025-06-19T14:06:31.429000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": null,
+      "texto": "Kalista: **Lo mira con confusion...pero se deja llevar por el**",
+      "mensaje_sha256": "196e3cfb29ec767beb2b69324beee79d5c99a7fe6d50a4c3118ed735709a22a2",
+      "tipo_discord": 19,
+      "referencia": "1385259316533268582",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1385259457017286676",
+      "texto_sha256": "f2eebfc84388a51223a82962431a907e21c26c9cd0824f64731612a1eaafef13",
+      "adjuntos": []
+    },
+    {
+      "id": "1385259473521873057",
+      "fecha_utc": "2025-06-19T14:06:35.364000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": null,
+      "texto": "Banzo : **te mira kalista y afirma con la mirada **",
+      "mensaje_sha256": "8b8e63005ef892cfd83deaffebc73a6d7633d2ba7f9a53e572a24aa908e66e94",
+      "tipo_discord": 19,
+      "referencia": "1385259316533268582",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1385259473521873057",
+      "texto_sha256": "832e1c43e1015dbe4d403fc0ea0a8fcfdefb06b7d33fe7ebcecbaeca8dadcb59",
+      "adjuntos": []
+    },
+    {
+      "id": "1385260522647191663",
+      "fecha_utc": "2025-06-19T14:10:45.495000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": "2025-06-19T14:11:12.188000+00:00",
+      "texto": "Jelbreg: **Entrais por la puerta de la tienda y veis a Hati con varios generales. Están enfrascado con un mapa de la zona organizando defensas bajo la montaña para detener el avance de los demonios. Veis la vitrina de la espada en la parte de atrás. Jelbreg os mira a los dos y os susurra** Tu tienes más tacto con la gente, cariño. ¿Se la puedes pedir? Así no tengo que...robarla **Sonríe**\n<@616683133374562304>",
+      "mensaje_sha256": "e0ac111dfee475e42d452c9ce474bc722e658845fe5ee967d55b08d14b25b2ea",
+      "tipo_discord": 19,
+      "referencia": "1385259457017286676",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1385260522647191663",
+      "texto_sha256": "6542f7fa517759449ae49ea0fb74d16e310da75ee84c86bbcd12b051ca4f3acd",
+      "adjuntos": []
+    },
+    {
+      "id": "1385261062189744259",
+      "fecha_utc": "2025-06-19T14:12:54.132000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": null,
+      "texto": "Kalista: lo intentare....pero con el estado de alerta...no prometo nada **Se acerca el rapido, sacando su collar de Shogun** General",
+      "mensaje_sha256": "c9681c79cfb3f60912fbe44bcd81fa047ca05ab7926fdffbb45fd49e4440adcd",
+      "tipo_discord": 19,
+      "referencia": "1385260522647191663",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1385261062189744259",
+      "texto_sha256": "f48065bad131e2dcbc492fde663831c79646feec0cbeaa7c28c10bc1cf45f192",
+      "adjuntos": []
+    },
+    {
+      "id": "1385261442285965393",
+      "fecha_utc": "2025-06-19T14:14:24.754000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": null,
+      "texto": "Hati: **Sin levantar la cara del mapa mientras organiza tropas con unas figuras de madera, te contesta** Si? Que ocurre ahora? No van a parar de aparecer problemas?",
+      "mensaje_sha256": "9ff8358d5c7e69fab4f105d749dc44e1a88685d0c810f25517cb7c3367e3b83e",
+      "tipo_discord": 19,
+      "referencia": "1385261062189744259",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1385261442285965393",
+      "texto_sha256": "dbcbd1671c4ea909a459e785d313025ed3f2178260825667ad2e30477e904c19",
+      "adjuntos": []
+    },
+    {
+      "id": "1385262394074333194",
+      "fecha_utc": "2025-06-19T14:18:11.678000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": null,
+      "texto": "Kalista: **Niega, observa el mapa** Soy Kalista, administrativa de los cazadores y el Shogunato, venia a pedirle la espada maldita que guarda con urgencia (Dime que veo en el mapa y como veo las posiciones de los distintos ejercitos)",
+      "mensaje_sha256": "f15de054d7da05fec380e41c30ef986facddcae60b149324a3549b055c5d7520",
+      "tipo_discord": 19,
+      "referencia": "1385261442285965393",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1385262394074333194",
+      "texto_sha256": "72298035a4a06d58671fba07fc5d51d20cfdbd34c4bfb3569223badd8888b041",
+      "adjuntos": []
+    },
+    {
+      "id": "1385263350098956401",
+      "fecha_utc": "2025-06-19T14:21:59.612000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": null,
+      "texto": "Hati: **Levanta la cabeza para ver su collar del Shogunato. Te hace una reverencia adecuada a tu rango** Oh, señorita Kalista, encantado. Soy el general Hati. ¿La espada maldita? Para que la quieren? La Comandante Aka me informo de que no debía salir de aquí, es peligrosa\n(El mapa ves el campamento sur a unas cuantas millas de la cordillera de montañas de Wakare No Yama. En las montañas hay puntos marcados con el sello del Shogunato. Puestos de avanzada que hizo construir Aka para la defensa. También ves algunas marcas en forma de hoja que son trampas colocadas por una niña cazadora muy salvaje y otros soldados. El general está distribuyendo a las tropas en esos puestos de avanzada y haciendo un muro defensivo en la entrada del Campamento Sur)",
+      "mensaje_sha256": "f42820ba39be4b1b6a3c3a1d2c430759cbd1d1f0c5fe3f1320dd5b30a96a755c",
+      "tipo_discord": 19,
+      "referencia": "1385262394074333194",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1385263350098956401",
+      "texto_sha256": "1ea0118a443f4469b1390de45863f2219ddbd4c123ac8b8399445328aebd5722",
+      "adjuntos": []
+    },
+    {
+      "id": "1385265385753935994",
+      "fecha_utc": "2025-06-19T14:30:04.950000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": null,
+      "texto": "Kalista: soy consciente de las ordenes de la Comandante Aka, pero los momentos desesperados merecen medidas desesperadas... Aquellos cazadores que no son buenos en el frente estan intentando luchar tambien a su manera...y para ello necesitan de la espada ¿Si es tan amable podria por favor llevarmela? **Mira el mapa...** Le recomiendo usar a los cazadores mas fuertes como un peloton de fuerza especial que rompa por la mitad la oleada que se avecina...con una oleada dividida sera mas facil acabar con ella usando a la infanteria y los arqueros...en los libros se le llama formacion del tridente...buena en casos de pocos numeros",
+      "mensaje_sha256": "c66141602f5b0b4955847afc509828db810722ff0af99b474b7b57f664d4c14f",
+      "tipo_discord": 19,
+      "referencia": "1385263350098956401",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1385265385753935994",
+      "texto_sha256": "60d8dfda4c0b614fa18d86a0e4db41bab1ead0d98cf625518c45863246b794bf",
+      "adjuntos": []
+    },
+    {
+      "id": "1385266124115021834",
+      "fecha_utc": "2025-06-19T14:33:00.989000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": null,
+      "texto": "Hati: **El comandante te mira y levanta una ceja cuando le das esas instrucciones. Mira el mapa, se lleva los dedos a la barbilla y sonríe** Bien consejo, señorita Kalista. Es una buena técnica, no la había oído nunca. **Mira la espada, vuelve a mirarte a ti** Adelante, toda suya señorita, pero tengan cuidado por favor.",
+      "mensaje_sha256": "30a28a96e3d4778dea712f149a2b80d71869e4ea06d0dd53c03a681d8572bdbb",
+      "tipo_discord": 19,
+      "referencia": "1385265385753935994",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1385266124115021834",
+      "texto_sha256": "0ac2afecc6ac2c9d0c6eaaca91baa3d2d4b79d125861eeebe405eb52842fee82",
+      "adjuntos": []
+    },
+    {
+      "id": "1385266492018393159",
+      "fecha_utc": "2025-06-19T14:34:28.704000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": null,
+      "texto": "Kalista: **Asiente** Gracias, les dejare que sigan con el consejo de guerra...si me necesitan estare por aqui **Va con Jelbreg y banzo** <@616683133374562304> Toma la urna entera",
+      "mensaje_sha256": "d4dad4197a15ba41a8bee377f515f3add83d0eb454955f8d25f5107548371e2d",
+      "tipo_discord": 19,
+      "referencia": "1385266124115021834",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1385266492018393159",
+      "texto_sha256": "60abb474b9cc148c74de494b6389a049c0bfe039e8e29dc1556a8c70f8b40c4c",
+      "adjuntos": []
+    },
+    {
+      "id": "1385267731485692026",
+      "fecha_utc": "2025-06-19T14:39:24.216000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Saca la bolsa mágica que ahora es de Kalista (🤷) y literalmente mete toda la vitrina en su interior.** Bien, vamos. **Le da un beso a Kalista en la mejilla y un goloecito con el codo a Banzo** Vamos a buscar a Palathier y vamos a la capital.\n\n💙👻Kalista, Jelbreg, Banzo y Wasabi salen de escena🌭🐍",
+      "mensaje_sha256": "8b9c9bde34f140f61ca5a5a75117886901c6249b6ecb13eb7a4f33788fa62061",
+      "tipo_discord": 19,
+      "referencia": "1385266492018393159",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1385267731485692026",
+      "texto_sha256": "e6a4f22b815233f2b63fb1d70c5e4f44071171a7826a96c8915d225d27f80629",
+      "adjuntos": []
+    }
+  ]
+}

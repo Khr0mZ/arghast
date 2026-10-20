@@ -1,0 +1,170 @@
+{
+  "id": "k-1391738386326491136",
+  "campana": "kuroto",
+  "unidad_revision": "k-1390629247789563944",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "La reparación interrumpida",
+  "resumen": "Archi abandona el tejado con R2 al recibir Jelbreg una llamada.",
+  "relato": "Días después, Archi repara el tejado mientras escucha una caracola y piensa, sin compartirlo, en una conversación de la que otro no habría conseguido información. Jelbreg entra encapuchado y esquiva un madero que cae desde arriba; protesta por el peligro y el gnomo se atribuye cómicamente el aviso. Cuando suena la caracola del drow, Archi orienta una trompetilla hacia abajo. Su pensamiento revela que quiere evitar a alguien que se aproxima, aunque no lo identifica por nombre. Ordena despegar a R2 y ambos se alejan volando, dejando sin mostrar el resultado de las reparaciones ni la conversación telefónica.",
+  "participantes": [
+    "Archi",
+    "Jelbreg",
+    "R2"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1391738386326491136",
+      "afirmacion": "Archi trabaja en el tejado y mantiene pensamientos privados sobre una conversación.",
+      "tipo": "pensamiento"
+    },
+    {
+      "mensaje_id": "1391741694025924608",
+      "afirmacion": "Jelbreg esquiva una madera caída de la obra.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1391743751197560914",
+      "afirmacion": "Archi escucha con una trompetilla y se marcha volando con R2.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Las intenciones demoníacas y la situación jurídica de Suichiro se presentan según sus interlocutores, sin confesión ni comprobación aquí.",
+    "La aparición del tío de Banzo es perceptible solo para él y no hiere a Jelbreg.",
+    "La caracola presenta una discrepancia: Jelbreg niega lo que Banzo acaba de oírle decir al despedirse. No se identifica un impostor ni se resuelve la contradicción.",
+    "No se muestra interrogatorio, perdón de Guxi ni solución comprobada y permanente de la infestación."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-07-07T11:11:28.549000+00:00",
+  "fin_utc": "2025-07-07T11:38:28.580000+00:00",
+  "fecha_local": "2025-07-07",
+  "intervalo": {
+    "anterior": 135,
+    "siguiente": 136,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1390391136719212627",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1392568138104832013",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 135,
+        "fecha": "2025-07-03",
+        "inicio_referencia_utc": "2025-07-03T17:57:37+00:00",
+        "fin_estimado_utc": "2025-07-03T22:24:15+00:00",
+        "duracion_video_segundos": 15998,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1390391136719212627"
+      },
+      {
+        "capitulo": 136,
+        "fecha": "2025-07-09",
+        "inicio_referencia_utc": "2025-07-09T18:08:23+00:00",
+        "fin_estimado_utc": "2025-07-09T21:01:59+00:00",
+        "duracion_video_segundos": 10416,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1392568138104832013"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1391738386326491136",
+      "fecha_utc": "2025-07-07T11:11:28.549000+00:00",
+      "fecha_local": "2025-07-07",
+      "editado_utc": "2025-07-07T11:13:35.196000+00:00",
+      "texto": "Archi: **Se veria al gnomo en el tejado de la base arreglando el techo mientras tiene una caracola pegada a la oreja** *ese gordinflon no ha logrado sacarle nada . Tenía que haber ido yo . Aunque ese tipo no parece estar equivocado en las cosas que dice* \n**sigue trabajando **",
+      "mensaje_sha256": "2ba41f8e239a889d049d7575707eed33ee36da49e3da595776004c81e9f95b3c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1391738386326491136",
+      "texto_sha256": "23b9f23b758b6ebdfcfc4990637581fa6664528405aecfe2e7bf1bf9ad0edea0",
+      "adjuntos": []
+    },
+    {
+      "id": "1391741694025924608",
+      "fecha_utc": "2025-07-07T11:24:37.166000+00:00",
+      "fecha_local": "2025-07-07",
+      "editado_utc": null,
+      "texto": "Jelbreg: **El drow entra en la base de los Cazadores con la capucha puesta. Mira a su alrededor y escucha fuertes ruidos en su cabeza, antes de que pueda mirar arriba, un trozo de madera cae directo a su cabeza que logra esquivar en el ultimo momento** Pero que demonios... Eh! Vigilar ahí arriba...!",
+      "mensaje_sha256": "567e5a14de3f4b96ab86aca7fc2c91e98497a54ec41caf092a77a3b1527c8339",
+      "tipo_discord": 19,
+      "referencia": "1391738386326491136",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1391741694025924608",
+      "texto_sha256": "4fd50f54cb152dae1b56d2b6267b7294172033ddc43b578c452a0781b4070ba5",
+      "adjuntos": []
+    },
+    {
+      "id": "1391742880879612034",
+      "fecha_utc": "2025-07-07T11:29:20.134000+00:00",
+      "fecha_local": "2025-07-07",
+      "editado_utc": null,
+      "texto": "Archi: **Se asoma y se quita las gafas de soldar ** \nMaese Jelbreg cuidado ! Suerte que está archi atento para avisar mesier.",
+      "mensaje_sha256": "79208a57e770f34443633df5a2432666304d83eb57e201b2f2c108799374e269",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1391742880879612034",
+      "texto_sha256": "b844e9a7e7b0a034ef4f0587a091ca9e39225443e93cc0b9a125a85be3ffb62f",
+      "adjuntos": []
+    },
+    {
+      "id": "1391743040028283022",
+      "fecha_utc": "2025-07-07T11:29:58.078000+00:00",
+      "fecha_local": "2025-07-07",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Va a soltar algunos improperios al gnomo pero algo le suena en el bolsillo y saca la caracola**",
+      "mensaje_sha256": "a5b482d9ddb1927984c6750c3d1b28dc065f4c51241b1d4ea2a2201dd08ce104",
+      "tipo_discord": 19,
+      "referencia": "1391742880879612034",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1391743040028283022",
+      "texto_sha256": "4764a7da5d742a7c7c076b1e07177bdb7f035505b9b38eb22a6b75c37c2587fb",
+      "adjuntos": []
+    },
+    {
+      "id": "1391743751197560914",
+      "fecha_utc": "2025-07-07T11:32:47.634000+00:00",
+      "fecha_local": "2025-07-07",
+      "editado_utc": "2025-07-07T11:33:18.928000+00:00",
+      "texto": "Archj : **saca una pequeña trompeta se la pone en la oreja y apunta hacia abajo ** \n*mierda es el gordito viene hacia aquí,  mejor me voy... jeje* \nR2 despega el vuelo , nos vamos.\n r2: destino? \nEl avance pequeño amigo el avance siempre ** se aleja volando con R2 mientras rie de forma maniaca **",
+      "mensaje_sha256": "480a7d38dbcb4d8da423b33b759dd1985754ce7968843b6413a626e60678ca28",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1391743751197560914",
+      "texto_sha256": "024186b676bf0f3dc786c03ac3e5a927d1fdd035c21cccdf697ef0ddd265dfd0",
+      "adjuntos": []
+    },
+    {
+      "id": "1391744189414510664",
+      "fecha_utc": "2025-07-07T11:34:32.113000+00:00",
+      "fecha_local": "2025-07-07",
+      "editado_utc": null,
+      "texto": "⚙️ ARCHI Y R2 SALEN DE ESCENA ⚙️",
+      "mensaje_sha256": "a7bae222d46787346814e2ee5432da465a152bdec57ce31093cfbb1b55fd3a0f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1391744189414510664",
+      "texto_sha256": "8de5e2ab17e7b0a9f084aeba8ac8201da07d76a06d833f6f0a00fc57d28ea1c7",
+      "adjuntos": []
+    },
+    {
+      "id": "1391745181228859392",
+      "fecha_utc": "2025-07-07T11:38:28.580000+00:00",
+      "fecha_local": "2025-07-07",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "6f4f8575ef200906bba15766b92c0cbbed2f8138de8d708239348af6beeb28e1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1391745181228859392",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

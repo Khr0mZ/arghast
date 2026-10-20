@@ -1,0 +1,256 @@
+{
+  "id": "x-1560943405993820192",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1560943405993820192",
+  "hilo_id": "1558234683177963582",
+  "hilo_nombre": "Tutucan - La ciudad de los Elementos",
+  "titulo": "Vak pone a prueba a Naór en el templo",
+  "resumen": "El líder Ayin provoca a Naór recordando una promesa de Kamar. Ella lo ataca y termina inconsciente.",
+  "relato": "Naór recorre el Templo de los Clanes Elementales tras pasar tiempo con Leo y visitar el templo anexo. Ante los murales encuentra a Vak, líder de los Ayin, que le muestra la gran cicatriz que le dejó Kamar Tar’Khuan. Naór recuerda haber oído muchas veces a su padre contar aquel combate, que no ganó, y se dispone a marcharse porque no se considera a su altura.\n\nVak la detiene y llama mentiroso a Kamar. La provocación hace que Naór lo ataque con el hacha, pero el golpe no atraviesa sus escamas y astilla el filo. El líder explica que su padre había prometido que su hija lograría vencerlo algún día. Enfurecida, Naór vuelve a lanzarse contra él con todas sus fuerzas. Vak la intercepta por la cara y la golpea contra el suelo hasta dejarla inconsciente. Después la carga sobre los hombros y la lleva a descansar, recordando con afecto a su antiguo amigo. La prueba no termina con una victoria de Naór.",
+  "participantes": [
+    "Naór",
+    "Vak"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1560987031352377356",
+      "afirmacion": "Naór recuerda los relatos de su padre sobre el combate con Vak.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1561005658772480143",
+      "afirmacion": "El hacha de Naór se astilla sin herir a Vak; él menciona la promesa de Kamar.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1561015798032629815",
+      "afirmacion": "Naór pierde el conocimiento tras el golpe contra el suelo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1561023577753387060",
+      "afirmacion": "Vak lleva a Naór a descansar y recuerda a Kamar como antiguo amigo.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Los recuerdos y apariciones de la familia de Naór se distinguen del encuentro material con Vak y los demás líderes. No acreditan una resurrección.",
+    "Las grafías Tar’Khuan, Tar’Kuan y Tar’kuan aparecen en la misma identificación de Naór; se conservan en el texto original.",
+    "Chanecuxtli = Chani está acreditado expresamente por su presentación en este hilo de Xoltacan. La alusión a recuerdos de Kuroto no autoriza a fusionar sus evidencias entre campañas.",
+    "El collar de Oghma queda entregado; no se inventan poderes, ceremonias ni una respuesta a su pregunta final.",
+    "Se ha inspeccionado la ilustración familiar y se conserva como adjunto, sin deducir sucesos adicionales de ella."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-10-17T09:11:48.915000+00:00",
+  "fin_utc": "2026-10-17T14:30:23.352000+00:00",
+  "fecha_local": "2026-10-17",
+  "intervalo": {
+    "anterior": 72,
+    "siguiente": null,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236",
+    "siguiente_fuente": null,
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 72,
+        "fecha": "2026-10-16",
+        "inicio_referencia_utc": "2026-10-16T18:28:13+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1560943405993820192",
+      "fecha_utc": "2026-10-17T09:11:48.915000+00:00",
+      "fecha_local": "2026-10-17",
+      "editado_utc": "2026-10-17T09:12:44.448000+00:00",
+      "texto": "Naór: ** Naór fue a sorprender a Leo de su llegada , pasaron el dia juntos y agradeció a Citlali <@408026114548695061> una vez mas por todo . Una vez llegada la noche cuando el pequeño ya dormia Naór se dirigió hacia el Templo de Tutukan donde descansaba <@210947008716996609> .\nTras unas horas junto a el empezó a caminar hasta el templo anexo .\nEl Templo de los Clanes Elementales .  \nAvanzaba por los oscuros pasillos del templo, sosteniendo una antorcha que iluminaba los antiguos murales. En ellos se narraban las mayores gestas de Xoltacán y todos sus líderes de antaño.\n\nSe detuvo frente a uno de ellos, observando las figuras desgastadas por el tiempo mientras reflexionaba.**\n\n*No tengo tiempo para estas cosas*\n\n**Apretó el mango de la antorcha y apartó la mirada, con la cabeza todavía llena de preguntas sin respuesta**.\n<@214405113677217793>",
+      "mensaje_sha256": "25b1245c7497b8193e085ef4d77c02a0a4bd443c90cd082346e6830f08aafcfd",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1560943405993820192",
+      "texto_sha256": "2dbe13f8a5ee5f08ed5ce47585fdecff81b7c51779d313f42f127a357eda17f8",
+      "adjuntos": []
+    },
+    {
+      "id": "1560966286215749715",
+      "fecha_utc": "2026-10-17T10:42:43.985000+00:00",
+      "fecha_local": "2026-10-17",
+      "editado_utc": null,
+      "texto": "Vak: **Una enorme figura de casi tres metros de altura y tan ancho como las misimisas puertas dobles del Templo Elemental estaba frente a ti. Su piel escamosa emitía pequeños brillos a la luz de tu antorcha, y sus ojos amarillento, forzaron sus pupilas para fijarse en ti** Naór Tar'Khuan **Dijo finalmente.**",
+      "mensaje_sha256": "d4d0be700ae80912497d51d919ed561b119a162c29d602c4e3723a278acaeec9",
+      "tipo_discord": 19,
+      "referencia": "1560943405993820192",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1560966286215749715",
+      "texto_sha256": "3f6d5d7e45690afaf5d0e6bc2d73e9727791d307d08b4c02ca4c518456f46db5",
+      "adjuntos": []
+    },
+    {
+      "id": "1560971875348381787",
+      "fecha_utc": "2026-10-17T11:04:56.538000+00:00",
+      "fecha_local": "2026-10-17",
+      "editado_utc": "2026-10-17T11:05:26.291000+00:00",
+      "texto": "Naór: **se gira hacia el , la leona levanta la cabeza ya que la figura del líder del clan del cocodrilo supera su altura con creces ** \n\n*El Viejo ... !!!\nese collar .. \naun sigue siendo líder? Pero como...? Aun no le ha ganado nadie ?*\n\nVak de los Ayin ... \n**baja levante la cabeza en señal de respeto**",
+      "mensaje_sha256": "88f11f283188f1557ceaa85a79279a7e9d0d0d77376bc2a1546c10a364af124d",
+      "tipo_discord": 19,
+      "referencia": "1560966286215749715",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1560971875348381787",
+      "texto_sha256": "880cdbd68ec56c2c91dceb651a79cfd774ef54c42bb47ea453e098d636ab8f23",
+      "adjuntos": []
+    },
+    {
+      "id": "1560981994186346589",
+      "fecha_utc": "2026-10-17T11:45:09.057000+00:00",
+      "fecha_local": "2026-10-17",
+      "editado_utc": null,
+      "texto": "Vak: **El enorme hombre-lagarto, enseña su enorme hilera de dientes afilados mientras con un dedo señala su enorme pecho escamado. Ves que todo su cuerpo está llano de cicatrices de todo tipo; escamas chamuscadas por la magia, cortes y surcos hechos por armas marciales e incluso escamas destrozadas por golpes condundentes. Por su sonrisa entiendes que cada una de esas marcas es un enemigo vencido por el enorme bárbaro. Entonces pasa su dedo por una enorme cicatriz, una que destaca más que cualquier otra. Una cicatriz que va del cuello hasta más abajo de la barriga.** Kamar Tar'Khuan **Su sonrisa se amplia aún mas**",
+      "mensaje_sha256": "2b692a6640e643b32ac7d38995e60c5b53b85409968bcad92463747440c6ece0",
+      "tipo_discord": 19,
+      "referencia": "1560971875348381787",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1560981994186346589",
+      "texto_sha256": "8515c00e734dd198c8a75654dda40938999b374b8fd0d1aca003c415778d50ce",
+      "adjuntos": []
+    },
+    {
+      "id": "1560987031352377356",
+      "fecha_utc": "2026-10-17T12:05:10.011000+00:00",
+      "fecha_local": "2026-10-17",
+      "editado_utc": "2026-10-17T12:07:15.645000+00:00",
+      "texto": "Naór: **contempla la enorme cicatriz , ha escuchado tantas veces la historia de como fue ese combate que es como si lo estuviese viendo . \n\nSu padre repetía la historia orgulloso aunque no saliese con victoria de ese encuentro .\n\nTras unos segundos contemplando la cicatriz mientras el danzar de la llama de la antorcha hacia un juego de sombras en los murales de los clanes que parecían un combate..\n\nNaór bajaba la mirada y pasa al lado de Vak con intención de irse **",
+      "mensaje_sha256": "3dd08d99ce8d2d428697bcf52a8b397e9144e11404517753ff4096fe6ab6eb7f",
+      "tipo_discord": 19,
+      "referencia": "1560981994186346589",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1560987031352377356",
+      "texto_sha256": "9ddbf8b3451cf6fddf8a3b70190b2a84019de5dbf9c8625f1a8ddcfeb41badea",
+      "adjuntos": []
+    },
+    {
+      "id": "1560991483484704902",
+      "fecha_utc": "2026-10-17T12:22:51.482000+00:00",
+      "fecha_local": "2026-10-17",
+      "editado_utc": null,
+      "texto": "Vak: **Cuando pasas por al lado del hombre-lagarto, este te coloca una mano en el hombro. A pesar del aspecto del bárbaro, la mano, se posa con suavidad.** ¿Marchar?",
+      "mensaje_sha256": "13229f20ba6d5836109752ea31cf6772a1dbc44541c08c24b5a68b451d81ca4f",
+      "tipo_discord": 19,
+      "referencia": "1560987031352377356",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1560991483484704902",
+      "texto_sha256": "72c5d4537782b994a12393248b46ab6dca0b5a0138149d969c65fa0fa4c5d5d1",
+      "adjuntos": []
+    },
+    {
+      "id": "1560994166874312867",
+      "fecha_utc": "2026-10-17T12:33:31.252000+00:00",
+      "fecha_local": "2026-10-17",
+      "editado_utc": null,
+      "texto": "Naór: **frena al sentir la mano del líder .**\n\nNo me corresponde estar en este lugar . \nYo no soy mi padre .. y nunca lo seré,  usted lo conoció bien ya tendría que saberlo ...",
+      "mensaje_sha256": "480324a15ab6024cc4ccd4af40657e0fedd2eb63cb04859dedf02b73004b9ed1",
+      "tipo_discord": 19,
+      "referencia": "1560991483484704902",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1560994166874312867",
+      "texto_sha256": "69058abbf8bf0c69dcfe9aecf35303bb0164aa9f80de3965b261bf01c6193552",
+      "adjuntos": []
+    },
+    {
+      "id": "1560999556865335317",
+      "fecha_utc": "2026-10-17T12:54:56.326000+00:00",
+      "fecha_local": "2026-10-17",
+      "editado_utc": null,
+      "texto": "Vak: **Te mira fijamente sin apartar la mano de tu hombro** Entonces Kamar Tar'Khuan ser un mentiroso **Cuando dice esa última palabra sus dientes brillan con la luz de la antorcha**",
+      "mensaje_sha256": "0b7bd2c1639620b42f36908c87412514084c071e172df2bceb25967614e7d703",
+      "tipo_discord": 19,
+      "referencia": "1560994166874312867",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1560999556865335317",
+      "texto_sha256": "deb64ab5b10c239490b7e4c54d50fd0e8b5567cd4f67dd6bcc87f3665cca1b2f",
+      "adjuntos": []
+    },
+    {
+      "id": "1561002879681044572",
+      "fecha_utc": "2026-10-17T13:08:08.547000+00:00",
+      "fecha_local": "2026-10-17",
+      "editado_utc": null,
+      "texto": "Naór : **tras pasar de largo con intención de irse  escucha esas palabras y sin pensarlo agarra su hacha da un giro sobre si misma y lanza su ataque contra Vak gritando ! **\n\nTU QUE SABRÁS !!!!!",
+      "mensaje_sha256": "dbb1adce434cf461f597d41c13c4934cd92cd73f932672f4d0949439e6ea8551",
+      "tipo_discord": 19,
+      "referencia": "1560999556865335317",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561002879681044572",
+      "texto_sha256": "22b5c08f5b1f8985900acf2dd7acf17ea1b9bea24dc7e5fdb47400e2ed579910",
+      "adjuntos": []
+    },
+    {
+      "id": "1561005658772480143",
+      "fecha_utc": "2026-10-17T13:19:11.134000+00:00",
+      "fecha_local": "2026-10-17",
+      "editado_utc": null,
+      "texto": "Vak: **El enorme bárbaro ni se mueve. Tu hacha va directa al cuello pero, él ni se mueve. ZAS! Notas el impacto de tu hacha contra tu objetivo. CRACK! Notas el ruido de algo romperse. El enorme bárbaro ni se mueve** Ummmmm... **Gruñe como si eso le aburrira. Cuando te fijas, tu hacha ha dado en el blanco, justo en el cuello pero, no hay herida alguna. Tu ataque no ha logrado romper las escamas que cubren a Vak y se ha astillado el filo al no poder atravesar esa poderosa armadura natural** El prometer que su hija conseguir vencerme algún día. Pero tu ser débil. No ser verdad lo que él decirme...",
+      "mensaje_sha256": "43df122fdb8c88785563d3ec495a6f6cba98f62beb1caaa9b6658ff10f2d7add",
+      "tipo_discord": 19,
+      "referencia": "1561002879681044572",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561005658772480143",
+      "texto_sha256": "93e701c5e184b4f86486b82db17619563c052ed809b7b5f4f14c67fb453a4505",
+      "adjuntos": []
+    },
+    {
+      "id": "1561008678210117773",
+      "fecha_utc": "2026-10-17T13:31:11.024000+00:00",
+      "fecha_local": "2026-10-17",
+      "editado_utc": "2026-10-17T13:32:53.336000+00:00",
+      "texto": "Naór: **abre mucho los ojos ** \n\n*pero que !!!!* \n\n**retrocede de una zancada **\n\n*ni lo ha esquivado ...pero clase de monstruo..*\n\n**Naór frunce el ceño y saca las garras inclina un poco las rodillas para asentar bien su centro de gravedad.\nSu melena empieza a elevarse mientras sus músculos se van hinchando **\n\nNo... \nLlames ... \n\n**empieza a girar el hacha dándole vueltas **\n\nMentiroso ...\n\n**el hacha da vueltas cada vez mas rápido ** \n\nA ..\nMi... \n**y mas y mas rápido **\n\nPADREEEEEE!!!! \n\n**Naór sale disparada como un rayo hacia Vak . \nPega un salto y apoya una de sus piernas en la pared, donde están los murales y los antiguos grabados . \nSe impulsa y veriamos como coge altura para propinas un golpe con absolutamente toda su fuerza . La trayectoria de golpe es clara . Sigue la misma línea que esa antigua cicatriz que porta el líder del clan Ayin **",
+      "mensaje_sha256": "24a7ee9bb29cd36fb569764a53f69905047768f3cb080e78109aded826bff893",
+      "tipo_discord": 19,
+      "referencia": "1561005658772480143",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561008678210117773",
+      "texto_sha256": "7327abf97904199745fb09f0830a6b67065e9328ea3d34f9e0ced5fccabf7e04",
+      "adjuntos": []
+    },
+    {
+      "id": "1561010733783715941",
+      "fecha_utc": "2026-10-17T13:39:21.111000+00:00",
+      "fecha_local": "2026-10-17",
+      "editado_utc": null,
+      "texto": "Vak: **El enorme bárbaro ni se mueve. Cuando estás a punto de golpearlo, simplemente levanta el brazo y te detiene agarrandote la cara. El enorme bárbaro usa tú propio impulso para mover el brazo hacia arriba y luego bajarlo de golpe. BOOM! Notas tu cara golpear el suelo con una fuerza sobrenatural** Ummm.... ¿Tu no saber luchar? Ummm... No saber usar tu rabia... Ser débil... Kamar Tar'Khuan ser mentiroso... Ummm...",
+      "mensaje_sha256": "c75cd134b99eeb5ffb08177ed3f064576f56f10d2a9c3f1c5954f68b9f860400",
+      "tipo_discord": 19,
+      "referencia": "1561008678210117773",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561010733783715941",
+      "texto_sha256": "56957ef9945e36e526c90eafda28038f9a31ae02bcb4a111974e0e66d3613613",
+      "adjuntos": []
+    },
+    {
+      "id": "1561015798032629815",
+      "fecha_utc": "2026-10-17T13:59:28.522000+00:00",
+      "fecha_local": "2026-10-17",
+      "editado_utc": null,
+      "texto": "Naór: ** la cabeza de la leona parte las milenaria piedras que forman el suelo del templo y la cabeza queda hundida en el piso . \n\nLa melena de la leona cae ,los músculos vuelven a su estado original y Naór pierde el conocimiento **",
+      "mensaje_sha256": "191b6ddb5c5187541dc6848853b993b1563f3a2e684b299a8d8791b3695342ec",
+      "tipo_discord": 19,
+      "referencia": "1561010733783715941",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561015798032629815",
+      "texto_sha256": "2e9d6af19c4a1f34f3ac3adbc0ec360ef7d064665b33a7d39aa717eccc4c06ac",
+      "adjuntos": []
+    },
+    {
+      "id": "1561023577753387060",
+      "fecha_utc": "2026-10-17T14:30:23.352000+00:00",
+      "fecha_local": "2026-10-17",
+      "editado_utc": null,
+      "texto": "Vak: Ummm... **Mira a la leona en el suelo. Después de suspirar, la levanta y la coloca encima de sus hombros.** Kamar Tar'Khuan... **Susurra mientras se toca la enorme cicatriz que le dejó hace años el rey de Aztlan. Una sonrisa divertida se le asoma entre la hilera de dientes** Como no cumplir tu promesa yo ir a buscar dónde muertos y pegar paliza a tu espíritu **Su sonrisa se amplia recordado a su antiguo amigo mientras lleva a la hija de este a descansar en algún lugar cómodo de la base de los Clanes Elementales**",
+      "mensaje_sha256": "6e04583bcc599660269bf76548858bd91d4955bcb8a69d2ce830754a8aef1f36",
+      "tipo_discord": 19,
+      "referencia": "1561015798032629815",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561023577753387060",
+      "texto_sha256": "92dc4b7db6a935490d3d61a286e792c2f2d40a571bd83bf9ea133eaf2fe35373",
+      "adjuntos": []
+    }
+  ]
+}

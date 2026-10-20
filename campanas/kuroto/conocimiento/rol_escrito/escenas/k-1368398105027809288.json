@@ -1,0 +1,242 @@
+{
+  "id": "k-1368398105027809288",
+  "campana": "kuroto",
+  "unidad_revision": "k-1368398105027809288",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "La habitación protegida por el sueño",
+  "resumen": "Guxi y Kurobane vuelven exhaustos y caen dormidos al entrar en la habitación de Kalista.",
+  "relato": "Guxi y Kurobane regresan volando y caen al suelo agotados al aterrizar. El humano quiere marcharse por el portal para descansar, pero Guxi lo conduce a la base: cree posible que Kalista haya vuelto mientras él dormía. Llama a su puerta y no obtiene respuesta. A pesar del desaliento de Kurobane, el artesano abre para comprobarlo. Al dar un paso dentro, una luz revela un símbolo bajo sus pies y ambos sienten un sueño irresistible. Caen dormidos en el suelo, donde la narración indica que amanecerán al día siguiente. La entrada no permite averiguar si Kalista está allí y no se resuelve su búsqueda.",
+  "participantes": [
+    "Guxi",
+    "Kurobane"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1368398105027809288",
+      "afirmacion": "Guxi y Kurobane llegan volando y aterrizan exhaustos.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1368399399390150727",
+      "afirmacion": "Guxi propone comprobar si Kalista volvió a su habitación mientras él dormía.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1368399578054918155",
+      "afirmacion": "Nadie responde a la llamada.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1368400176854728704",
+      "afirmacion": "Guxi abre la puerta de Kalista.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1368401430679126077",
+      "afirmacion": "Un símbolo luminoso duerme a ambos al entrar; quedan en el suelo hasta la mañana.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Doce mensajes completos. La despedida a los jugadores del narrador se excluye del relato, conservando el efecto narrativo del símbolo.",
+    "La búsqueda de Kalista no concluye aunque el encuentro tenga cierre explícito. No se añade un registro del cuarto que el sueño impide."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-04T01:25:31.846000+00:00",
+  "fin_utc": "2025-05-04T01:39:31.775000+00:00",
+  "fecha_local": "2025-05-04",
+  "intervalo": {
+    "anterior": 111,
+    "siguiente": 112,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1369742246882054214",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 111,
+        "fecha": "2025-05-01",
+        "inicio_referencia_utc": "2025-05-01T18:30:18+00:00",
+        "fin_estimado_utc": "2025-05-01T21:17:50+00:00",
+        "duracion_video_segundos": 10052,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983"
+      },
+      {
+        "capitulo": 112,
+        "fecha": "2025-05-07",
+        "inicio_referencia_utc": "2025-05-07T18:26:24+00:00",
+        "fin_estimado_utc": "2025-05-07T21:22:03+00:00",
+        "duracion_video_segundos": 10539,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1369742246882054214"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1368398105027809288",
+      "fecha_utc": "2025-05-04T01:25:31.846000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "**guxi y kurobane llegan volando del cansancio y el esfuerzo justo al llegar al suelo se caen ambos al suelo** <@240564189448503306>",
+      "mensaje_sha256": "52794f8fa34c252a559da35f5661fa40ca3bf14bb2271163dd2943b2bc50c7f4",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368398105027809288",
+      "texto_sha256": "efceb672c3192f04fa5d061521cefef5861d8ce1224750727585873d4298e677",
+      "adjuntos": []
+    },
+    {
+      "id": "1368398110421680198",
+      "fecha_utc": "2025-05-04T01:25:33.132000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": "2025-05-04T01:26:25.280000+00:00",
+      "texto": "Kurobane:\n\nGracias por el viaje....\n\n**Ves que se levanta lentamente**",
+      "mensaje_sha256": "f331fd83c30d082d68e5acff8d7ad65b8953cc1296599ca10510423bad2e7499",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368398110421680198",
+      "texto_sha256": "6c934052acf74e044fa2da361cb750c7ec807e3ff181d81eaabbda9d48481f95",
+      "adjuntos": []
+    },
+    {
+      "id": "1368398261135605881",
+      "fecha_utc": "2025-05-04T01:26:09.065000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "guxi: espera espera **dice mientras coge aliento** y se mira la mas manos que estan rojas",
+      "mensaje_sha256": "d7d134750af7b2e0bf5a6e06a4556f8f5107db93b851148e04e20d8f31d2b1c1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368398261135605881",
+      "texto_sha256": "8f9eef2e5d9d97981194d8b267e4bbba9be3645a9a187891ef278fe703dc3e3c",
+      "adjuntos": []
+    },
+    {
+      "id": "1368398551767580774",
+      "fecha_utc": "2025-05-04T01:27:18.357000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nDime, Guxi....\n\n**Dice de espaldas antes de andar en dirección al portal**",
+      "mensaje_sha256": "9880fe29390ffc2ac64b169732a616b1ec337a3fb263249cd8a3f43a96837f5c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368398551767580774",
+      "texto_sha256": "44d25d424bbe0bd714f08b7673578d4243b780109cacd863a786112f364000e7",
+      "adjuntos": []
+    },
+    {
+      "id": "1368398747570274396",
+      "fecha_utc": "2025-05-04T01:28:05.040000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "guxi: **ya respirando un poco mejor ** sigueme **te coje del brazo y te lleva dentro de la base**",
+      "mensaje_sha256": "816c2b2b5287e5d6388a612a65940fd7bdcba7f54551413fd2c09af427744342",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368398747570274396",
+      "texto_sha256": "e03e9ae5ba72c65e2b5ad5eee6201274652db45e38ac18a8b49e1097312e5998",
+      "adjuntos": []
+    },
+    {
+      "id": "1368399170552991795",
+      "fecha_utc": "2025-05-04T01:29:45.887000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nQue quiere....?",
+      "mensaje_sha256": "9c9ac0d9ae302667152efe4d6f1e5e29a517b0b0d3fcb38a09b1a1f3fb9f2a22",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368399170552991795",
+      "texto_sha256": "380cb2b692ad8bffd55b8cb89f1201255f411eec30bfb0bb86d355a0d3e430d3",
+      "adjuntos": []
+    },
+    {
+      "id": "1368399399390150727",
+      "fecha_utc": "2025-05-04T01:30:40.446000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "guxi: nos falta un sitio yo estaba durmiendo pudo haber llegado antes de que me despertara **se acerca a la puerta y llama** <@753394009153732689>",
+      "mensaje_sha256": "e9f6decdc2461c3f6278b60e8a1a86769b9ec9ef8e8d1277b12eacd6a3c28eb2",
+      "tipo_discord": 19,
+      "referencia": "1368399170552991795",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368399399390150727",
+      "texto_sha256": "05e436bf30a4be31fecaee20878e30e126176f118b317d66b0ff947bbeca3892",
+      "adjuntos": []
+    },
+    {
+      "id": "1368399578054918155",
+      "fecha_utc": "2025-05-04T01:31:23.043000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "**Nadie responde**",
+      "mensaje_sha256": "9b23469e0d90e209ba3e66fbeb4254f96b92c257c3a7f09a69a0167de2bc3f4f",
+      "tipo_discord": 19,
+      "referencia": "1368399399390150727",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368399578054918155",
+      "texto_sha256": "90f865ef5cf14f6c79bd8a3b0f2370587c594afd9f35e7449e906b3f013b018b",
+      "adjuntos": []
+    },
+    {
+      "id": "1368399981127667783",
+      "fecha_utc": "2025-05-04T01:32:59.143000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nGuxi, no estoy de humor.... Y quiero intentar descansar.... Por favor... Dejamé irme....\n\n**Dice destrozado mientras se dirije a la puerta**",
+      "mensaje_sha256": "1e071f5c55aaf170f0ba25d1a8ab2bc6c1c955984cc7f43a6673142f2d9c584e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368399981127667783",
+      "texto_sha256": "819a863e5f332fe53d8a96940435e3047692db43d0f82dae8159ffd3ffd17460",
+      "adjuntos": []
+    },
+    {
+      "id": "1368400176854728704",
+      "fecha_utc": "2025-05-04T01:33:45.808000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "guxi: *espero no ver nada indecente lo siento kalista* **abre la puerta**  no perdemos nada por intentarlo",
+      "mensaje_sha256": "bab7473ed0c38d704e0df550b6ab9084276dd4a9adcb27ac86b875fc2900156c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368400176854728704",
+      "texto_sha256": "f05f12e4bcdcaf0869cf387abccc5dc55a7c29bf49725679e7cd075570ebc44d",
+      "adjuntos": []
+    },
+    {
+      "id": "1368401430679126077",
+      "fecha_utc": "2025-05-04T01:38:44.743000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "**Maravilloso jugadores. <@240564189448503306> <@171702246952665098> Al entrar por la puerta y dar un paso dentro, una luz os ilumina bajo vuestros pies. Podeis leer un simbolo en ella y en ese momento empezais a sentir un cansancio que os recorre el cuerpo...Vuestros ojos pesan como losas cerrandose por si solos. Morfeo os llama a su mundo y ambos caeis desplomados en el suelo dormidos. Buenas noches jugadores y gracias por el rol de hoy. Mañana amaneceis aqui los dos**",
+      "mensaje_sha256": "6315bbc22d660db5541a5b4a44fc4369c94434e454707047c42947c9eea973b4",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368401430679126077",
+      "texto_sha256": "5b6e3dd80c80fa0b51736f3c58bd814ecbc1fc175951bf72d66bec29c794f279",
+      "adjuntos": []
+    },
+    {
+      "id": "1368401627945504848",
+      "fecha_utc": "2025-05-04T01:39:31.775000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena 🔴",
+      "mensaje_sha256": "f09b9bd71846a4c2a6eab2f1cd528c2bb4e2443eec77ac37cfe25222fafe6ae9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368401627945504848",
+      "texto_sha256": "298fa93bf0457633e2be1e0841043d853cccb9548c7ae2d8426119f0cb0a929e",
+      "adjuntos": []
+    }
+  ]
+}

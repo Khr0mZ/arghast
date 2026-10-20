@@ -1,0 +1,80 @@
+{
+  "id": "x-1511524474162384936",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1511524474162384936",
+  "hilo_id": "1482149664131383316",
+  "hilo_nombre": "Cuicapalli - La villa tranquila",
+  "titulo": "Citlali da a la cría el nombre de Eztli",
+  "resumen": "Se refugia con el pequeño dinosaurio y pasa la noche vigilándolo, atormentada por sus pérdidas.",
+  "relato": "Citlali sigue las indicaciones de un enano hasta una cueva, sin saber si es exactamente la que le señaló. Reúne algunos bichos para alimentar al pequeño dinosaurio y enciende una hoguera. Cuando lo ve dormirse, recuerda a los niños a los que cuidó y después vio muertos en sus brazos. La imagen de Jim como bebé se superpone a la cría.\n\nNo quiere repetir aquella pérdida y se disculpa por traer problemas. Decide llamarlo Eztli: relaciona la sangre con purificación y cambio. En vez de dormir, permanece toda la noche pendiente de que siga respirando.\n\nEl mensaje cierra su vigilia, pero la siguiente respuesta describe las condiciones peligrosas de ese mismo refugio. El recuerdo de Jim no identifica por sí solo al personaje con otro nombre público.",
+  "participantes": [
+    "Citlali",
+    "Eztli"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1511524474162384936",
+      "afirmacion": "Citlali alimenta al dinosaurio, lo llama Eztli y vela toda la noche por su respiración.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Jim aparece como recuerdo infantil, sin fijar aquí alias con Nox.",
+    "Los niños muertos son memoria de Citlali, no sucesos desarrollados en la cueva.",
+    "Continúa la misma estancia en x-1511609971555438592."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-06-03T00:18:37.407000+00:00",
+  "fin_utc": "2026-06-03T00:18:37.407000+00:00",
+  "fecha_local": "2026-06-03",
+  "intervalo": {
+    "anterior": 36,
+    "siguiente": 37,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1511430616145723484",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1512525575573475348",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 36,
+        "fecha": "2026-06-02",
+        "inicio_referencia_utc": "2026-06-02T18:05:24+00:00",
+        "fin_estimado_utc": "2026-06-02T20:38:28+00:00",
+        "duracion_video_segundos": 9184,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1511430616145723484"
+      },
+      {
+        "capitulo": 37,
+        "fecha": "2026-06-05",
+        "inicio_referencia_utc": "2026-06-05T18:36:17+00:00",
+        "fin_estimado_utc": "2026-06-05T20:56:06+00:00",
+        "duracion_video_segundos": 8389,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1512525575573475348"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1511524474162384936",
+      "fecha_utc": "2026-06-03T00:18:37.407000+00:00",
+      "fecha_local": "2026-06-03",
+      "editado_utc": "2026-06-03T00:19:31.053000+00:00",
+      "texto": "Mamá Citlali:\n**Había hablado lo suficiente con aquel enano para que me señalará la cueva que me había mencionado para poder esconderme ahí con el bebé**\n\n**No sabía a ciencia cierta si era esa misma o era una parecida, pero al menos encontré ese pequeño refugio para pasar la noche, había recolectado uno que otro bicho para darle de comer a la cría mientras encendía una fogata**\n\nBueno mi niño, creo que está vez seremos solo tu y yo\n\n**Al terminar de encender la fogata y ver cómo aquel bebé se dormía cerca del calor, me hizo recordar a todos mis niños, una sonrisa se mostró en mi rostro hasta que recordé sus cadáveres frente a mi, como todos terminaban muertos en estos mismos brazos que les ayudaban a dormir**\n\n*No quiero que pase lo mismo contigo...*\n\n**La imagen de un bebé Jim se reflejaba donde estaba el pequeño dinosaurio**\n\nMi pequeño... \n\n**Suspiré poniéndome a lado del pequeño mientras le acariciaba con suavidad su cabeza**\n\nMi pequeño... Lo siento tanto, solo traigo problemas...\n\n**Pretendia dormir a su lado pero me quedé toda la noche en vela, revisando que siguiera respirando**\n\nTu nombre será... Eztli, la sangre, no solo se derrama si no que purifica, y tú harás ese cambio\n\n🔴Fin de la Escena🔴\n\n<@214405113677217793>",
+      "mensaje_sha256": "d4f5f807f500dfc9b808562e079359dfb89ce2a8e344357a1d61c008e620f1f2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1511524474162384936",
+      "texto_sha256": "e089445188af9fc22e98189cadca6a68af8b691f42a0a5003e6cb75e6cbce5ee",
+      "adjuntos": []
+    }
+  ]
+}

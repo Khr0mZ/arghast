@@ -1,0 +1,169 @@
+{
+  "id": "k-1410787857081171968",
+  "campana": "kuroto",
+  "unidad_revision": "k-1410787857081171968",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Guxi se queda dormido",
+  "resumen": "Sera ayuda al artificiero e insiste en que descanse.",
+  "relato": "Guxi acompaña a Seraphina de vuelta a la base después de beber. Ambos están mareados y el artificiero tiene dificultades para mantenerse en pie. Sera recuerda que ella carece de habitación propia, lo lleva hasta la suya y lo acuesta. Él le pide que se quede, pero ella responde que necesita arreglar otras cosas. Le quita el sombrero, le besa la frente y lo arropa. Guxi acaba dormido, murmurando que no lo abandone, mientras Sera sale y vuelve a sentarse en la sala. La salida del personaje corresponde a su retirada del intercambio, no a que abandone físicamente Sho.",
+  "participantes": [
+    "Seraphina",
+    "Guxi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1410788809800679455",
+      "afirmacion": "Guxi tiene dificultades por la embriaguez al volver con Sera.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1410789754579980329",
+      "afirmacion": "Sera rechaza quedarse en la cama y le pide que duerma.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1410790541725143173",
+      "afirmacion": "Sera arropa a Guxi y sale de la habitación.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Se conservan las negativas expresas, la embriaguez y la narración de indefensión; no se infiere consentimiento a partir de la falta de resistencia.",
+    "No se añade detalle íntimo a lo que queda fuera de escena ni se convierte el cierre en formación de pareja.",
+    "Los pensamientos de Sera no son conocimiento declarado a Kurobane ni a Guxi.",
+    "La historia del ritual se atribuye al relato de Kurobane; no se identifican los compañeros fallecidos."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-08-29T00:47:16.299000+00:00",
+  "fin_utc": "2025-08-29T00:57:56.368000+00:00",
+  "fecha_local": "2025-08-29",
+  "intervalo": {
+    "anterior": 152,
+    "siguiente": 153,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1410686619970699395",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1412135728854339686",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 152,
+        "fecha": "2025-08-28",
+        "inicio_referencia_utc": "2025-08-28T18:04:44+00:00",
+        "fin_estimado_utc": "2025-08-28T21:13:03+00:00",
+        "duracion_video_segundos": 11299,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1410686619970699395"
+      },
+      {
+        "capitulo": 153,
+        "fecha": "2025-09-01",
+        "inicio_referencia_utc": "2025-09-01T18:02:52+00:00",
+        "fin_estimado_utc": "2025-09-01T21:02:25+00:00",
+        "duracion_video_segundos": 10773,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1412135728854339686"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1410787857081171968",
+      "fecha_utc": "2025-08-29T00:47:16.299000+00:00",
+      "fecha_local": "2025-08-29",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Llegamos a la entrada de la base**\n\nGracias por acompañarme, pirata Guxi\n\n**Le sonreí soltandole del brazo, aún estaba algo mareada**\n\n<@171702246952665098>",
+      "mensaje_sha256": "d3cdd00fac5ee2af1b621212266943afc28946a019184adac33d3d7188215ab1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1410787857081171968",
+      "texto_sha256": "a6e677662c496cf8f7041c29426b9db66e94de029b0308bfb2d1f05f44fb3151",
+      "adjuntos": []
+    },
+    {
+      "id": "1410788809800679455",
+      "fecha_utc": "2025-08-29T00:51:03.445000+00:00",
+      "fecha_local": "2025-08-29",
+      "editado_utc": "2025-08-29T00:51:50.617000+00:00",
+      "texto": "Guxi:\n**Le ayudaba tampoco era de mucha ayuda pues el estaba incluso peor**\nDéjame llevarla a su habitación por favor\n**Mira hacia atrás su cuerpo le fallaba seguramente no iba a poder llegar a su casa en ese estado**",
+      "mensaje_sha256": "67f901c8e6bb0fecec4c3f25a3528cb4b198d775e34f29e718e4bf816988e95c",
+      "tipo_discord": 19,
+      "referencia": "1410787857081171968",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1410788809800679455",
+      "texto_sha256": "d72d6a2ca5f6763d7baca59531682794717cf40940a2da703e1a3cf1bbc60a19",
+      "adjuntos": []
+    },
+    {
+      "id": "1410789219789574254",
+      "fecha_utc": "2025-08-29T00:52:41.194000+00:00",
+      "fecha_local": "2025-08-29",
+      "editado_utc": null,
+      "texto": "Seraphina:\nRecuerda que yo no tengo habitación, pero tú si tienes una\n\n**Lo empujé llevándolo hasta su habitación y acostandolo en su cama**\n\nAnda, duerme",
+      "mensaje_sha256": "2f0d5a0aaca11be11dee262b82a2fd3d9343b4258e763ad7d08a6ac61ebac8f4",
+      "tipo_discord": 19,
+      "referencia": "1410788809800679455",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1410789219789574254",
+      "texto_sha256": "4cb51ffad71abaed9fc3aa322fd1f640afe432ae638843be8b60babd73c23f8c",
+      "adjuntos": []
+    },
+    {
+      "id": "1410789506960851036",
+      "fecha_utc": "2025-08-29T00:53:49.661000+00:00",
+      "fecha_local": "2025-08-29",
+      "editado_utc": null,
+      "texto": "Guxi:\nHace mucho frío está noche no me acompañará así podrá dormir en una cama\n**Le sonreía de forma pícara con doble intención**",
+      "mensaje_sha256": "58363bc521ef19623764f38bca3279ecb495ef192685d6b818dd8a069934520c",
+      "tipo_discord": 19,
+      "referencia": "1410789219789574254",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1410789506960851036",
+      "texto_sha256": "fe12e4e607340aedeb7f311a71c415796e7ed4a9be5e8705f4b5b0fb09674d06",
+      "adjuntos": []
+    },
+    {
+      "id": "1410789754579980329",
+      "fecha_utc": "2025-08-29T00:54:48.698000+00:00",
+      "fecha_local": "2025-08-29",
+      "editado_utc": null,
+      "texto": "Seraphina:\nNo puedo, necesito arreglar unas cosas, así que tú debes de dormir \n\n**Le quite el sombrero y le dí un beso en la frente**\n\nAnda... Duerme~",
+      "mensaje_sha256": "66dda97dbddcd81baa59651bafbc14e792511332730019ba56506a22c4be9585",
+      "tipo_discord": 19,
+      "referencia": "1410789506960851036",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1410789754579980329",
+      "texto_sha256": "14a4acdbae504a201749a3934250f5dc832734b41579aec340ed6233fba835da",
+      "adjuntos": []
+    },
+    {
+      "id": "1410790199381852180",
+      "fecha_utc": "2025-08-29T00:56:34.747000+00:00",
+      "fecha_local": "2025-08-29",
+      "editado_utc": null,
+      "texto": "Guxi: \nPero perooo...\n**Ese último beso lo dejo rendido y el alcohol le hizo efecto de golpe**\nNo me dejes será\n**Decía de forma inconsciente**",
+      "mensaje_sha256": "f225fc179342a8845edf4ff159c833fd8cbd603d7c34991b3a799027f1741463",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1410790199381852180",
+      "texto_sha256": "46120a23fdf769b26ac74cec5e95201929a7208c1bf76106956a6224457ccb3f",
+      "adjuntos": []
+    },
+    {
+      "id": "1410790541725143173",
+      "fecha_utc": "2025-08-29T00:57:56.368000+00:00",
+      "fecha_local": "2025-08-29",
+      "editado_utc": null,
+      "texto": "Seraphina:\nDescansa Guxi~\n\n**Después de arroparlo, lo deje dormir y salí de la habitación, volviendome a sentar en esa silla**\n\nCómo se le ocurrió hacer eso?, en verdad que le falta un tornillo~",
+      "mensaje_sha256": "9af10d249272b00ed01b2cf3a7db994c38235881aac9642861d1d213faf202ec",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1410790541725143173",
+      "texto_sha256": "3cb417bdbc0a6972f25b68abd71bec28261a7969f2ea0b2e208531e20741f0ab",
+      "adjuntos": []
+    }
+  ]
+}

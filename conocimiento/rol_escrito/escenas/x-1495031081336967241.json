@@ -1,0 +1,78 @@
+{
+  "id": "x-1495031081336967241",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1495031081336967241",
+  "hilo_id": "1465411590789795962",
+  "hilo_nombre": "Shiaru - El ron de Bonny",
+  "titulo": "Bonny encuentra destrozos en los locales",
+  "resumen": "Tras ver a Picks con la cara pintada y oír noticias del negocio de Liz, grita el nombre de Nox.",
+  "relato": "Bonny entra en su bar y encuentra un estropicio que parece obra de gamberros. Picks tiene la cara pintada y un subordinado le cuenta que el local de Liz también sufrió daños. La capitana limpia al mono y, al oír lo que le dice, se enfurece y llama a Nox a gritos. No se reproduce la explicación de Picks ni se muestra quién causó cada destrozo o qué castigo sigue.",
+  "participantes": [
+    "Happy Bonny",
+    "Picks"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1495031081336967241",
+      "afirmacion": "Bonny encuentra daños y a Picks pintado, y después grita a Nox.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La sospecha o llamada no prueba por sí sola la autoría de todos los destrozos."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-04-18T11:59:46.125000+00:00",
+  "fin_utc": "2026-04-18T11:59:46.125000+00:00",
+  "fecha_local": "2026-04-18",
+  "intervalo": {
+    "anterior": 25,
+    "siguiente": 26,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1494768689348870237",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1495856349072986122",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 25,
+        "fecha": "2026-04-17",
+        "inicio_referencia_utc": "2026-04-17T18:36:47+00:00",
+        "fin_estimado_utc": "2026-04-17T21:05:13+00:00",
+        "duracion_video_segundos": 8906,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1494768689348870237"
+      },
+      {
+        "capitulo": 26,
+        "fecha": "2026-04-20",
+        "inicio_referencia_utc": "2026-04-20T18:38:45+00:00",
+        "fin_estimado_utc": "2026-04-20T20:58:26+00:00",
+        "duracion_video_segundos": 8381,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1495856349072986122"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1495031081336967241",
+      "fecha_utc": "2026-04-18T11:59:46.125000+00:00",
+      "fecha_local": "2026-04-18",
+      "editado_utc": "2026-04-20T09:30:36.794000+00:00",
+      "texto": "Happy Bonny: **La líder de los piratas y de toda Shiaru, entra en su bar cuando ve todo el estropicio. Parece como si unos gamberros hubieran entrado aquí y hubieran hecho de las suyas, incluso le han PINTADO LA CARA A PICKS! Con cara de pocos amigos va cruzando el bar mientras uno de sus esbirros le cuenta que Liz también ha tenido un estropicio en su local. Al llegar junto a Picks, lo agarra y le limpia un poco la cara. Mientras el monito le dice algo, la cara de Bonny se enfurece aún más** Nooooooooooox!!!!\n<@616683133374562304>\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "a3ad80e56f7ebd725363ae3f9979475459693b315a8f4aabec32cbc34299b2d2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1495031081336967241",
+      "texto_sha256": "6c9b6394b239362427a794111074e71422577a76c1a84f8fd189d111956e5f6b",
+      "adjuntos": []
+    }
+  ]
+}

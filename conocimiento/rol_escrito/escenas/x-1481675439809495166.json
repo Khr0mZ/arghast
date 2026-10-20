@@ -1,0 +1,389 @@
+{
+  "id": "x-1481675439809495166",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1481637221940334603",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "Un duelo rechazado y una acusación mental",
+  "resumen": "Nox se niega al reto y ofende a Citlali.",
+  "relato": "Nox llega consultando un mapa y pensando en un punto de encuentro y posibles posiciones de hombres. No se describe todavía una operación. Tryel desenfunda y lo reta por el barco, presentándose como la Cortacolas. Él declina y aclara que el Zampaolas es de Ione y la tripulación puede servir a quien quiera. Citlali describe a la capitana y dice que aún no ha visitado a los nativos de la taberna.\n\nTryel se presenta de nuevo y cuenta que, cuando tenía setenta u ochenta años, unos piratas capturaron a los hermanos, ella peleó con varios y acabó nombrada capitana. Habla de los nueve mares sin recordar sus nombres. Se conserva como relato de la elfa, no como conquista verificada. Nox considera en privado que su edad podría hacerla conocedora de una etapa anterior del poder pirata.\n\nMientras conversa con Tryel, envía a Citlali un mensaje mental cruel: culpa a su indiscreción de haber tenido que enterrar a tantos hijos. La anciana cambia a una mirada fría, profundamente herida. Cuando Nox pregunta el motivo de su llegada, Tryel casi revela lo que busca; vuelve a callar tras una conversación mental con su hermano y corre al local de Liz. Nox descubre que son dos y Citlali le exige una disculpa. La discusión queda abierta.",
+  "participantes": [
+    "Tryel",
+    "Nox",
+    "Citlali"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1481676597848178728",
+      "afirmacion": "Tryel se llama la Cortacolas y reta a Nox por el barco.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1481688621064130733",
+      "afirmacion": "Nox rechaza el duelo y atribuye el barco a Ione.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1481699430145986703",
+      "afirmacion": "Tryel relata su antigua capitanía y captura junto a su hermano.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1481704084976308325",
+      "afirmacion": "Nox culpa mentalmente a Citlali por la muerte de sus hijos.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1481704786779836568",
+      "afirmacion": "Citlali reacciona herida ante el mensaje.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1481717473207386276",
+      "afirmacion": "Tryel interrumpe lo que iba a revelar y se marcha tras comunicarse con su hermano.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1481720975853883494",
+      "afirmacion": "Citlali exige a Nox disculparse por lo dicho.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Tyel, Tyriel y Tryel son grafías del mismo interlocutor en esta conversación, no personajes añadidos.",
+    "La condena de Nox sobre los hijos es una acusación privada; no acredita la causa de sus muertes.",
+    "La perla no se compra ni se devuelve a Bling.",
+    "El mapa, el duelo y las expectativas de capitanía son planes, sin operación o victoria."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-03-12T15:29:13.049000+00:00",
+  "fin_utc": "2026-03-12T18:30:09.688000+00:00",
+  "fecha_local": "2026-03-12",
+  "intervalo": {
+    "anterior": 14,
+    "siguiente": 15,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1480286934453452832",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1481731102304370731",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 14,
+        "fecha": "2026-03-08",
+        "inicio_referencia_utc": "2026-03-08T19:31:31+00:00",
+        "fin_estimado_utc": "2026-03-08T22:37:35+00:00",
+        "duracion_video_segundos": 11164,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1480286934453452832"
+      },
+      {
+        "capitulo": 15,
+        "fecha": "2026-03-12",
+        "inicio_referencia_utc": "2026-03-12T19:10:03+00:00",
+        "fin_estimado_utc": "2026-03-12T22:12:44+00:00",
+        "duracion_video_segundos": 10961,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1481731102304370731"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1481675439809495166",
+      "fecha_utc": "2026-03-12T15:29:13.049000+00:00",
+      "fecha_local": "2026-03-12",
+      "editado_utc": null,
+      "texto": "Nox: **llegaría consultando uno de sus mapas **\n\n*este es el punto de encuentro .. conociéndola apostará hombres aqui y aqui ...*\n\n\n**al llegar ve a Tyriel y a Mama **\n\ny tu ahora de que te has disfrazado ? <@408026114548695061> \n**mira a Tyriel **\nOoo \nUna cara nueva por aqui ... \nMenos mal que algo alegra la vista en ese sitio de mala muerte . \nEncantado señorita <@214405113677217793> \nMi nombre es Nox \n**se saca el sombrero a modo de saludo **",
+      "mensaje_sha256": "5d990d69a0f76bb3ea21aed48ce72d2dd78bea8999fe809d8ad2adbef71a68c5",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1481675439809495166",
+      "texto_sha256": "d330905627434445903699a9b7802fb0b5410577e026af6cbe4cbe7eae91fb45",
+      "adjuntos": []
+    },
+    {
+      "id": "1481676597848178728",
+      "fecha_utc": "2026-03-12T15:33:49.147000+00:00",
+      "fecha_local": "2026-03-12",
+      "editado_utc": null,
+      "texto": "Tryel: Pues a mi me molestaría ese palo clavado en mi... Eh? **Se gira al escucharte y te ve, abre los ojos y sonríe.** Tuuuuuuu.... **Su voz suena de ultratumba, parece una amenaza. Desenfunda sus dos espadas cortas y te apunta con esa que tiene un brillo azulado, notas como salen chispitas de ella** Eres el Capitán!! ¡Te reto a un duelo por tu barco y tripulación! Yo Tryel, la...la...la...ummm a si, yo Tryel, la Cortacolas, te vencere!!!",
+      "mensaje_sha256": "4354cf5bb8eea904c719dcc065a4457eebea72b422af15464c13ec0a3abbf0bd",
+      "tipo_discord": 19,
+      "referencia": "1481675439809495166",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1481676597848178728",
+      "texto_sha256": "2b67a86e09d02ba2582e53b6fde340d4f3505dad45360294871f1ebfcc80b288",
+      "adjuntos": []
+    },
+    {
+      "id": "1481680521120448602",
+      "fecha_utc": "2026-03-12T15:49:24.528000+00:00",
+      "fecha_local": "2026-03-12",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\n**Me agachó para recoger mis cosas**\n\nNo me clavo nada en ningún lugar, si pesa un poco pero aún así me muevo lento, así que no hay mucha diferencia \n\n**Al ver llegar a Nox, me reincorporo teniendo varias cosas entre los brazos**\n\nTomé prestadas algunas prendas porque necesitaba lavar las mías ya que cierto joven hizo que me sangrara más las heridas \n\n**Ahora mire a Tryel**\n\nAh mira, aquí lo tienes, pueden empezar a pelear",
+      "mensaje_sha256": "d10a9b16997649f6a9b8460c3243b4b90ebb7021d1b7842dabd733ee763e4b47",
+      "tipo_discord": 19,
+      "referencia": "1481669310698225827",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1481680521120448602",
+      "texto_sha256": "bbf427f9bf6c551a094214375f2391bab29d0215e0fa9071317d1825c4beae31",
+      "adjuntos": []
+    },
+    {
+      "id": "1481688621064130733",
+      "fecha_utc": "2026-03-12T16:21:35.705000+00:00",
+      "fecha_local": "2026-03-12",
+      "editado_utc": "2026-03-12T16:38:01.861000+00:00",
+      "texto": "Nox:**pasa al lado vuestro y se tumba en unas cajas** \nUfff me pilla mal la verdad \n\nAdemás el barco es de Ione y la tripulación es libre de servir a quien quiera . Creo que si les invitas a un par de rondas se amotinan seguro \n**dice sin mucho interés mientras mira el mapa tumbado ** \n\nHablaste con los nativos **le dice a Citlali** <@408026114548695061>",
+      "mensaje_sha256": "c118dcde9fe273c3d0d24528b7813f5b54763e809c2646384ca74a7e0b9753b8",
+      "tipo_discord": 19,
+      "referencia": "1481676597848178728",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1481688621064130733",
+      "texto_sha256": "3096184d5526b41a4e8c5fd61e206f4346abb1409c6ccd2d7d33d1348d98bd18",
+      "adjuntos": []
+    },
+    {
+      "id": "1481689181259567267",
+      "fecha_utc": "2026-03-12T16:23:49.266000+00:00",
+      "fecha_local": "2026-03-12",
+      "editado_utc": "2026-03-12T16:24:19.134000+00:00",
+      "texto": "Tryel: De verdad este es el Capitán, señora? Se acaba de tumbar en un montón de cajas de huevos... **Mira a la señora que está junto a ella en la orilla del Puerto de Shiaru (No estamos en el barco🤣)** Así que Ione eh... Tengo que encontrarla... ¿Como es?",
+      "mensaje_sha256": "2576ec3dcb850f6d1d26aeb70db8174b61df8849810171156be5f1a972e4e84d",
+      "tipo_discord": 19,
+      "referencia": "1481688621064130733",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1481689181259567267",
+      "texto_sha256": "3cff197f37e6c80f590857a69d6bc80a72aa4176e1b2ba978a0a54408e7d0656",
+      "adjuntos": []
+    },
+    {
+      "id": "1481689196287623289",
+      "fecha_utc": "2026-03-12T16:23:52.849000+00:00",
+      "fecha_local": "2026-03-12",
+      "editado_utc": null,
+      "texto": "<@408026114548695061>",
+      "mensaje_sha256": "7ef0d4dbe6c0d4461b5621873159888b8d38ad07bd32f07ee53463cb9d1bc01a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1481689196287623289",
+      "texto_sha256": "064c98ed2014d1c9b55f7e741f13511f00b99fd9ff97e23f4c4de3674f6de3c6",
+      "adjuntos": [],
+      "no_narrativo": true,
+      "nota_editorial": "Contexto o marcador no narrativo; conservado en la exportación íntegra."
+    },
+    {
+      "id": "1481689720990863390",
+      "fecha_utc": "2026-03-12T16:25:57.948000+00:00",
+      "fecha_local": "2026-03-12",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\nApenas voy saliendo del barco, me cosí las heridas, además que no tengo muchas intenciones de ir a la taberna \n\n**Miro a Tryel**\n\nEs una mujer algo ruda, testaruda, tiene el cabello como entrelazado, le gusta golpear a todo lo que se mueva, huele mucho a alcohol y aparte ahuya",
+      "mensaje_sha256": "d9891ad5ee6bc9fa1ff27670161d257798d637d4ced4336da36ac09dcc17d2da",
+      "tipo_discord": 19,
+      "referencia": "1481688621064130733",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1481689720990863390",
+      "texto_sha256": "b521ea443f63b8a0d5dc77f3cb2261353f8934f98953a1bcf05fe041ceec9b67",
+      "adjuntos": []
+    },
+    {
+      "id": "1481696510860333219",
+      "fecha_utc": "2026-03-12T16:52:56.779000+00:00",
+      "fecha_local": "2026-03-12",
+      "editado_utc": null,
+      "texto": "Nox: tu que eres ahora la de información al turista en Shiaru Citlali ? \n**guarda el mapa , se le nota mas serio que de costumbre** \n\nPara preguntar tanto y desenvainar tus armas no me ha dicho ni su nombre señorita\n**dice a Tyriel acomodando los pies en una caja** \n<@214405113677217793>",
+      "mensaje_sha256": "831ae3bfedfe084798652c3c269fb4a2f29a142e547809f812946d6d5aaff2c6",
+      "tipo_discord": 19,
+      "referencia": "1481689720990863390",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1481696510860333219",
+      "texto_sha256": "7ef455dfe11c3507fed11293bfad2c1f2b3af82ba9b0b1f268d69edd0ea5d0a7",
+      "adjuntos": []
+    },
+    {
+      "id": "1481697125745295400",
+      "fecha_utc": "2026-03-12T16:55:23.379000+00:00",
+      "fecha_local": "2026-03-12",
+      "editado_utc": "2026-03-12T16:56:30.455000+00:00",
+      "texto": "Tryel: Uy, perdón **Enfunda la espada azulada y, con una sonrisa de oreja a oreja, te da la mano** Soy Tryel, encantada. Un vez fui una capitana pirata, era Tryel la Cortacolas, la mejor pirata de los nueve mares",
+      "mensaje_sha256": "5886085d4b5867e30951b245afe8e3b3c8e04d673aa747cde30a1559ab18cc0c",
+      "tipo_discord": 19,
+      "referencia": "1481696510860333219",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1481697125745295400",
+      "texto_sha256": "e26b94f78f05c7c8498ee19fb228bfe599f8d525dc174e51fc7038acc9c90a18",
+      "adjuntos": []
+    },
+    {
+      "id": "1481698605973770534",
+      "fecha_utc": "2026-03-12T17:01:16.293000+00:00",
+      "fecha_local": "2026-03-12",
+      "editado_utc": "2026-03-12T17:01:40.456000+00:00",
+      "texto": "Nox: **le da la mano y levanta una ceja**\nEncantado señorita Tyriel\nA si ?? \nPirata ? \nUna mujer de su porte ? \nNo huele a pirata señorita \nPor que mares frecuentaba ?",
+      "mensaje_sha256": "1013fcd5114a8415b95a4bbc501ab55458fa9f829049761c1645b31be5e83c99",
+      "tipo_discord": 19,
+      "referencia": "1481697125745295400",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1481698605973770534",
+      "texto_sha256": "3099ef5e6259e4339f83da0becf968ec3b5f7bb649493fec13aa9757e136728f",
+      "adjuntos": []
+    },
+    {
+      "id": "1481699220569461020",
+      "fecha_utc": "2026-03-12T17:03:42.824000+00:00",
+      "fecha_local": "2026-03-12",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\nTe molesta que ahora le de información a los nuevos en vez de a cierta persona?\n\n**Negué con la cabeza**\n\nHay mucha mamá para todos, no pienses que solo tengo un hijo",
+      "mensaje_sha256": "4550d01b2a8b81d5aea7f98c800333ae2093dc7387d62db1f307702f465219fc",
+      "tipo_discord": 19,
+      "referencia": "1481696510860333219",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1481699220569461020",
+      "texto_sha256": "fffa68d95314bf4c0afafe0f665fb97ad58197b2fbbfffc78109c0af748ac2a8",
+      "adjuntos": []
+    },
+    {
+      "id": "1481699430145986703",
+      "fecha_utc": "2026-03-12T17:04:32.791000+00:00",
+      "fecha_local": "2026-03-12",
+      "editado_utc": null,
+      "texto": "Tryel: Si, si, era pirata y... Ummm.... No me acuerdo como se llamaban los mares esos, no les prestaba mucha atención, pero se que eran nueve... Creo **Se queda ahí con el dedo en los labios pensando** La verdad es que era pequeña, no si si debería tener unos 70 u 80 años... La cuestión es que nos atraparon unos piratas y molaban un montón con sus pistolas y su barco y sus cañones. Así que les di una buena paliza a algunos y me nombraron capitana **Sonríe** Fue súper divertido",
+      "mensaje_sha256": "8eb842bb7e65bd3aadf2bc08172ce2fa5e57290105a66abfa073db063e588aa4",
+      "tipo_discord": 19,
+      "referencia": "1481698605973770534",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1481699430145986703",
+      "texto_sha256": "792291ceb524b7c3b86a032c60c5bf8c639d977aeff936cc99045d2750cfbb6c",
+      "adjuntos": []
+    },
+    {
+      "id": "1481704084976308325",
+      "fecha_utc": "2026-03-12T17:23:02.589000+00:00",
+      "fecha_local": "2026-03-12",
+      "editado_utc": "2026-03-12T17:27:47.586000+00:00",
+      "texto": "Nox:**le envía mensaje mental a Citlali ** \n*Quizás si no dieses tanta información a alguien que acabas de conocer no tendrías que enterrar a tantos hijos no crees ? Es un pequeño detalle que alomejor se te escapa querida* \n\nCreo que te llevarás mas que bien con Ione entonces .. \nTienes algún tipo de alergia al pelo animal ? <@214405113677217793>",
+      "mensaje_sha256": "806495a847a68a46ca7a7992287b9be6ac6c2859454d616c4ea7d2a091e16d53",
+      "tipo_discord": 19,
+      "referencia": "1481699220569461020",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1481704084976308325",
+      "texto_sha256": "9438a17f55913ceb5b563b170838523bbd467bc8bfbf946b3eb0d03257698561",
+      "adjuntos": []
+    },
+    {
+      "id": "1481704786779836568",
+      "fecha_utc": "2026-03-12T17:25:49.912000+00:00",
+      "fecha_local": "2026-03-12",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\n**El semblante amable que siempre suelo tener, cambia a una mirada fija y fría hacia Nox, como un Jaguar a punto de lanzarse al ataque, diste en un punto demasiado sensible y más doloroso que cualquier herida física**",
+      "mensaje_sha256": "86acc98fbf84255203cde8fb5e09ae1687f43372ed1a00deb9263a61cc0935b9",
+      "tipo_discord": 19,
+      "referencia": "1481704084976308325",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1481704786779836568",
+      "texto_sha256": "484ccd022d651913c05ec5a59ee2d751dec1750a2d1481e6572d3db5120dd987",
+      "adjuntos": []
+    },
+    {
+      "id": "1481706928202584105",
+      "fecha_utc": "2026-03-12T17:34:20.467000+00:00",
+      "fecha_local": "2026-03-12",
+      "editado_utc": null,
+      "texto": "Tryel: ...y entonces nos metimos por unas cuevas que había unos bichos escarabajos enormes que... Eh? ¿Alergia al pelo de animal? No que yo sepa... **Piensa** Bueno, si el pelo de enano cuenta, pues una vez... **Sigue contando sus mierdas a su bola**",
+      "mensaje_sha256": "7af3a30d7f0d59c67b767021cba8002b4e7abfa8d83cf106835253146153d144",
+      "tipo_discord": 19,
+      "referencia": "1481704084976308325",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1481706928202584105",
+      "texto_sha256": "37807f90d968926db2164ce917b849cb1b8ca079453b9a61477544104fa77937",
+      "adjuntos": []
+    },
+    {
+      "id": "1481713404875116655",
+      "fecha_utc": "2026-03-12T18:00:04.626000+00:00",
+      "fecha_local": "2026-03-12",
+      "editado_utc": "2026-03-12T18:01:39.207000+00:00",
+      "texto": "Nox: **la mirada de Nox es fria como de una serpiente enroscada en la rama esperando a que pase la presa ** \n\n**deja de mirar a Citlali y pasa a Tyriel** \n\n70 u 80 uau fue hace mucho entonces ? \ncomo envidio eso de los elfos .. \nNosotros los humanos tenemos una vida muy corta por eso solemos vivirla mas \nintensamente que otras razas . \nAunque yo no creo que llegue a esa edad .. y menos a este paso \n**se hecha a reír **",
+      "mensaje_sha256": "d3a6c1790b451618604a221837063f1abb18657b02c69e7ed849461795d737f2",
+      "tipo_discord": 19,
+      "referencia": "1481704786779836568",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1481713404875116655",
+      "texto_sha256": "a9b0ee30339db8aeee3db1752e44b2a79c4b3709b17d307704bc930d0045ada6",
+      "adjuntos": []
+    },
+    {
+      "id": "1481714687933681695",
+      "fecha_utc": "2026-03-12T18:05:10.531000+00:00",
+      "fecha_local": "2026-03-12",
+      "editado_utc": null,
+      "texto": "Tryel: ...PLAS! y le di e todas las pelotas. Deberías haberle visto la ca... **Estaba contando sus cosas y te mira** No mucho, hace como veinte o treinta años, pocos la verdad. **Te mira, luego mira a la señora y la señala descaradamente** Pues ella parece que tenga como 300 o así",
+      "mensaje_sha256": "774983cc77316cdcab131e1e926151709b73aaece0f3bce10bf67f347ca13819",
+      "tipo_discord": 19,
+      "referencia": "1481713404875116655",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1481714687933681695",
+      "texto_sha256": "dda5dc471bc1aab9fa98088e4b323664874ba9f62e2efa0eeda75591a150981e",
+      "adjuntos": []
+    },
+    {
+      "id": "1481714714500403292",
+      "fecha_utc": "2026-03-12T18:05:16.865000+00:00",
+      "fecha_local": "2026-03-12",
+      "editado_utc": null,
+      "texto": "<@408026114548695061>",
+      "mensaje_sha256": "33721e449ef36948207ee780969404beca4759e6a1db80320a68ff888f1e9870",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1481714714500403292",
+      "texto_sha256": "064c98ed2014d1c9b55f7e741f13511f00b99fd9ff97e23f4c4de3674f6de3c6",
+      "adjuntos": [],
+      "no_narrativo": true,
+      "nota_editorial": "Contexto o marcador no narrativo; conservado en la exportación íntegra."
+    },
+    {
+      "id": "1481716062302240911",
+      "fecha_utc": "2026-03-12T18:10:38.206000+00:00",
+      "fecha_local": "2026-03-12",
+      "editado_utc": "2026-03-12T18:14:05.157000+00:00",
+      "texto": "Nox: *deberá tener unos 100 años. \nHace 100 años los reyes piratas tenían mas dominio que en los mares que ahora .. desde la formación de la marina cada vez tenemos menos rango de acción.. esta tipa quizás sepa mas de alguna cosa interesante* \n\n**mira a la mama **\nNo se conserva del todo mal , cuanto mas vieja es la gallina mejor caldo hace dicen \n\nY que te trae por aquí querida  ?",
+      "mensaje_sha256": "bef16f96420a6ae153b245d1314a90f0abe6936526da37ac55fe82933f23fafb",
+      "tipo_discord": 19,
+      "referencia": "1481714687933681695",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1481716062302240911",
+      "texto_sha256": "81b997bd3790b2cbf9c316d8f4ca591ff7062ac5675f755aa10c8e71a7d9b828",
+      "adjuntos": []
+    },
+    {
+      "id": "1481717473207386276",
+      "fecha_utc": "2026-03-12T18:16:14.592000+00:00",
+      "fecha_local": "2026-03-12",
+      "editado_utc": null,
+      "texto": "Tryel: Pues venimos a buscar u... **Se queda callada y mira hacia el local de Liz un momento, es como si estuviera teniendo una conversación** *Que vale, que vale... No iba a decir nada... Anda, callate...* **Os vuelve a mirar a los dos** Uy, tengo que ir a buscar a mi hermano.. que... que... tenemos que... Bueno, que me voy! Chau chau! **La elfa se marcha a toda prisa hacia el local de Liz**\n\n⚔️Tryel sale de escena⚔️",
+      "mensaje_sha256": "ab92d0032e2c85f5705433bd2b4a74bcfd58d62b07a77a0f0e1b514246a647ba",
+      "tipo_discord": 19,
+      "referencia": "1481716062302240911",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1481717473207386276",
+      "texto_sha256": "cdf3c283a9106834208d2772ffdcf173436c8f11556b6bb57b6158b22cbd74aa",
+      "adjuntos": []
+    },
+    {
+      "id": "1481718174020800553",
+      "fecha_utc": "2026-03-12T18:19:01.679000+00:00",
+      "fecha_local": "2026-03-12",
+      "editado_utc": null,
+      "texto": "Nox: **sonrie y se despide con un saludo con el sombrero** \nChau Chau \n\n**se incorpora y se pone de pie frente a Citlali** \n\nHermano ...? \nSon dos ? <@408026114548695061>",
+      "mensaje_sha256": "43c55e41312d8f903860a228f83ac0f8ccab84b7519d317a850432f411191f1c",
+      "tipo_discord": 19,
+      "referencia": "1481717473207386276",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1481718174020800553",
+      "texto_sha256": "748eec63949b4e244f1a0479cd956b65df2678eb8913f3eae8061234f69f2a35",
+      "adjuntos": []
+    },
+    {
+      "id": "1481720975853883494",
+      "fecha_utc": "2026-03-12T18:30:09.688000+00:00",
+      "fecha_local": "2026-03-12",
+      "editado_utc": "2026-03-12T18:32:56.686000+00:00",
+      "texto": "Mamá Citlali:\n**Veo irse a Tryel y me quedo de pie frente a Nox con los brazos cruzados**\n\nY bien?, no vas a disculparte por lo que has dicho?",
+      "mensaje_sha256": "cdb5bbe328ccc8edd3c8e0eb6b05f12afff27f1c60512db10069d163b1860113",
+      "tipo_discord": 19,
+      "referencia": "1481718174020800553",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1481720975853883494",
+      "texto_sha256": "ff7c168883ca4ce1bef5e838055ca08dc5997f3cf0d2c418774068d5091b3c2a",
+      "adjuntos": []
+    }
+  ]
+}

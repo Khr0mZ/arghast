@@ -1,0 +1,160 @@
+{
+  "id": "x-1537944402897674381",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1537944402897674381",
+  "hilo_id": "1524091803647741996",
+  "hilo_nombre": "Jungla - En alguna parte de Xoltacán",
+  "titulo": "Una despedida y un beso bajo el lago",
+  "resumen": "Naór acepta repetir la salida y ambos comparten un momento romántico en el refugio luminoso de Ilikar.",
+  "relato": "Naór explica que ha olvidado algo, sin revelar a Ilikar que llega tarde a recoger a Leo. Él la invita a marcharse antes de que ocurra nada. Ella lo detiene, dice que ha disfrutado y propone repetir la salida; le da un beso en la mejilla.\n\nEl goliat la atrae hacia sí y le pide que la próxima vez sea ella quien escoja el lugar y comparta un secreto. La princesa, ruborizada, acepta. Ilikar se deja caer con ella a las profundidades del lago.\n\nLas plantas bioluminiscentes iluminan el descenso y unas burbujas forman un espacio de aire a su alrededor. Dentro de ese refugio, ambos se abrazan y se besan hasta que cae el telón narrativo. La escena muestra acercamiento romántico recíproco, sin describir actos posteriores ni afirmar un compromiso formal. Tampoco se narra que Naór llegue a recoger al niño.",
+  "participantes": [
+    "Naór",
+    "Ilikar"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1537946089468989480",
+      "afirmacion": "Naór propone repetir y besa a Ilikar en la mejilla.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1537949951441510560",
+      "afirmacion": "Ilikar pide que la próxima salida la elija ella.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1537951048319377438",
+      "afirmacion": "Naór acepta la propuesta.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1537960945828241529",
+      "afirmacion": "Descienden al refugio luminoso y comparten un abrazo y un beso antes del cierre.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La música OOC solo acompaña el tono, sin fuente de hechos añadidos.",
+    "La burbuja submarina es recurso fantástico narrado, sin explicar capacidades generales nuevas.",
+    "El encuentro es romántico con cierre de telón, sin actos íntimos añadidos."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-08-14T22:01:59.276000+00:00",
+  "fin_utc": "2026-08-14T23:07:43.418000+00:00",
+  "fecha_local": "2026-08-15",
+  "intervalo": {
+    "anterior": 53,
+    "siguiente": 54,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1537882794368180227",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1540061401966575799",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 53,
+        "fecha": "2026-08-14",
+        "inicio_referencia_utc": "2026-08-14T17:54:11+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1537882794368180227"
+      },
+      {
+        "capitulo": 54,
+        "fecha": "2026-08-20",
+        "inicio_referencia_utc": "2026-08-20T18:10:47+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1540061401966575799"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1537944402897674381",
+      "fecha_utc": "2026-08-14T22:01:59.276000+00:00",
+      "fecha_local": "2026-08-15",
+      "editado_utc": null,
+      "texto": "Naór : Emmm no no es que acabo de recordar que me olvide de algo .. \n** se rasca la cabeza y sonríe tímida disimulando ** \n*espero que Citlali me haga el favor una vez más porque esta vez si que no llego*",
+      "mensaje_sha256": "6b5b8f62eb7302f48ff58cd294806162b748b3a4c5fa1426c87a107713cd46c1",
+      "tipo_discord": 19,
+      "referencia": "1537943856832848004",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1537944402897674381",
+      "texto_sha256": "18070c9e068aa85575c6f725754467489438fb87f41e73b4d2746957f4df47e0",
+      "adjuntos": []
+    },
+    {
+      "id": "1537944935951507627",
+      "fecha_utc": "2026-08-14T22:04:06.366000+00:00",
+      "fecha_local": "2026-08-15",
+      "editado_utc": "2026-08-14T22:05:58.776000+00:00",
+      "texto": "¡Oh! No te preocupes entonces... deberías ir antes de que pase nada.\n\n**Las manos de Ilikar comenzaron a alejarse de la leona, mientras se comenzó a alejar de ella**",
+      "mensaje_sha256": "82d567af86496dc3347971707e7a6039334c34c7ef3b2c143b8cf958b4ad799c",
+      "tipo_discord": 19,
+      "referencia": "1537944402897674381",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1537944935951507627",
+      "texto_sha256": "37e42f9878416f24cc0203abcc3df891494177089038689ccc5dc744e6aa94ed",
+      "adjuntos": []
+    },
+    {
+      "id": "1537946089468989480",
+      "fecha_utc": "2026-08-14T22:08:41.386000+00:00",
+      "fecha_local": "2026-08-15",
+      "editado_utc": null,
+      "texto": "Naór: **te agarra del brazo antes de alejarte ** \n\noye.. me lo he pasado muy bien , podríamos repetirlo de vez en cuando , Ilikar el errante . \n\n**se acerca y te da un beso en mejilla , antes de irse a toda prisa a por el pobre Leo que sale de extraescolar , hoy le tocaba excursión al alquimista y clases de abisal  ** \n**se dejaría Ilikar??**",
+      "mensaje_sha256": "fbab78253004b83978ce3fb48dadf5aede1cef13cfab8cb887c60cff7510b5f2",
+      "tipo_discord": 19,
+      "referencia": "1537944935951507627",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1537946089468989480",
+      "texto_sha256": "2af630441cb246d1f0218264906a4e727b8a443ae7a7f2715d399de52d3ecb87",
+      "adjuntos": []
+    },
+    {
+      "id": "1537949951441510560",
+      "fecha_utc": "2026-08-14T22:24:02.152000+00:00",
+      "fecha_local": "2026-08-15",
+      "editado_utc": null,
+      "texto": "**Por un instante, Naor creyó que aquella sería la despedida. Pero Ilikar tenía guardada una última sorpresa.**\n\n**En cuanto ella volvió a buscar sus manos, tiró con firmeza de sus brazos hasta pegarla a su pecho, obligándola a mirarlo a los ojos.**\n\nLa próxima vez espero que seas tu la que elija el lugar, hoy compartiré mi secreto contigo, la próxima, serás tu. ¿De acuerdo?",
+      "mensaje_sha256": "ad117185a35eb79aea33b1993d24ffbdc6d0f97e44a9bd45e232899668e2470d",
+      "tipo_discord": 19,
+      "referencia": "1537946089468989480",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1537949951441510560",
+      "texto_sha256": "90b022b0004ab2b9b46eddbebf8ddbc95cc258c59b0bc5ceba2f8421322db7c6",
+      "adjuntos": []
+    },
+    {
+      "id": "1537951048319377438",
+      "fecha_utc": "2026-08-14T22:28:23.668000+00:00",
+      "fecha_local": "2026-08-15",
+      "editado_utc": null,
+      "texto": "Naor:\n** se quedó completamente paralizada al sentir el tirón y encontrarse frente a él. El calor le subió de golpe hasta las orejas, poniéndose roja como un tomate. Sus pupilas se dilataron mientras intentaba mantener la compostura, aunque la sonrisa de tonta que se le escapaba la delataba por completo.**\n\nS-si... sí.\n\n**Apartó la mirada durante un instante, demasiado avergonzada para sostenerle los ojos, antes de volver a mirarlo con una pequeña sonrisa.**",
+      "mensaje_sha256": "96bacb3c85d19b1ef6fe4e66481b7366441a72c1a27f207105db9758f33a7818",
+      "tipo_discord": 19,
+      "referencia": "1537949951441510560",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1537951048319377438",
+      "texto_sha256": "0bbdafe9d0a85907ef099d25b619bfe660b7c9987c047f3c39e39494900ac30f",
+      "adjuntos": []
+    },
+    {
+      "id": "1537960945828241529",
+      "fecha_utc": "2026-08-14T23:07:43.418000+00:00",
+      "fecha_local": "2026-08-15",
+      "editado_utc": "2026-08-15T15:48:05.902000+00:00",
+      "texto": "**OOC Dejo cancion para ayudar con el mood de la escena: https://www.youtube.com/watch?v=5rERWilFPa4&list=RD5rERWilFPa4&start_radio=1**\n\n**Sin decir una palabra más, Ilikar se dejó caer hacia atrás, arrastrando a Naor consigo hacia las profundidades del lago.**\n\n**Al sumergirse, el lago helado los acogió como un ángel de terciopelo. Sobre aquel enorme lago, la bóveda celeste comenzó a despedirse y sus miles de estrellas formaron un velo de luz y penumbra para cuidar su intimidad y protegerlos de cualquier mirada ajena.** (la de la peruana)\n\n**Tras unos metros de completa oscuridad y penumbra, el abismo volvió a brillar. Las corolas abrieron sus pétalos púrpura liberando un suave polvo de luz violeta, mientras las elodeas pulsaban en un turquesa brillante que perfilaba la curva de sus cuerpos, iluminando el espacio, como si quisieran que esta escena se quedase grabada en sus retinas. **\n\n**De entre las rocas brotaron varios juncos, gruesas plantas oxigenadoras que comenzaron a proyectar diminutas perlas de aire y... como si la propia naturaleza del lago respondiera a la pasión, cientos de esas pequeñas perlas ascendieron y comenzaron a fusionarse entre sí, formando una enorme burbuja de aire limpio y cálido que los envolvió por completo, creando un santuario en medio de la profundidad.**\n\n**Las manos de Ilikar recorrieron la curva de la cadera y la espalda de Naor con lentitud y ella respondió chocando el cuerpo contra el suyo, enredando las piernas entre las de él, mientras la corriente les acariciaba.**\n\n**Se buscaron los ojos. Naor sostenía una chispa salvaje en la mirada e Ilikar la devoraba con la suya.**\n\n**Se buscaron los labios. Mientras las palmas de Ilikar aprisionaban su cintura y los dedos de Naor se perdían en su cabello.**\n\n**Allí abajo no existía nada más. **\n\n**Permanecieron aferrados el uno al otro en la calma del abismo, envueltos por la luz tenue de las plantas, ocultos tras el manto de la noche, mientras el telón caía definitivamente sobre ellos.**\n\n🔴 Fin de la escena 🔴",
+      "mensaje_sha256": "f7fdf9146b46055c8cba1359a88855099639330cf5ffc308c55e73510ce30f9f",
+      "tipo_discord": 19,
+      "referencia": "1537951048319377438",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1537960945828241529",
+      "texto_sha256": "b5be66ec3bdb1798fa51e19e983719d2efd75f7001ea18c3a3a3f09829761c3d",
+      "adjuntos": []
+    }
+  ]
+}

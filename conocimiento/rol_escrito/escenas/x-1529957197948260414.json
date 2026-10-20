@@ -1,0 +1,100 @@
+{
+  "id": "x-1529957197948260414",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1529957197948260414",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "Eleanor encuentra a Erandi en Iktan",
+  "resumen": "La guerrera abraza a la kender tras una búsqueda angustiosa; Erandi despierta mareada sin aclarar aún su estado.",
+  "relato": "Eleanor entra en la taberna de Iktan con la armadura marcada por la jungla y busca rostros conocidos. Al ver a Erandi, aparta con urgencia a Ione y Zoltan, llega a su mesa y la abraza con fuerza. Le pide que no vuelva a desaparecer así y la examina en busca de heridas. Su pensamiento enlaza la búsqueda con varias amenazas pasadas, pero esos encuentros no se representan en estos dos mensajes.\n\nLa guerrera admite que la echó de menos, le da un beso en la frente y vuelve a abrazarla. Erandi estaba dormida sobre la mesa. Despierta desorientada al ser levantada, dice que le da vueltas la cabeza y se acurruca en el hombro de Eleanor antes de reconocerla. El reencuentro queda abierto: no explica todavía la causa del mareo, qué ocurrió durante la separación ni si tiene lesiones.",
+  "participantes": [
+    "Eleanor",
+    "Erandi",
+    "Ione",
+    "Zoltan"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1529957197948260414",
+      "afirmacion": "Eleanor encuentra a Erandi, la abraza y expresa que la ha echado de menos.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1529959568187068486",
+      "afirmacion": "Erandi despierta mareada y desorientada, y reconoce a Eleanor.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Ione y Zoltan solo aparecen al ser apartados, sin diálogo propio.",
+    "El afecto y la preocupación son explícitos, pero no se deduce un parentesco o vínculo romántico concreto.",
+    "Las amenazas recordadas interiormente por Eleanor no se convierten en un relato nuevo de combate."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-07-23T21:03:41.221000+00:00",
+  "fin_utc": "2026-07-23T21:13:06.330000+00:00",
+  "fecha_local": "2026-07-23",
+  "intervalo": {
+    "anterior": 45,
+    "siguiente": 46,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527375684333338644",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1529917702439698493",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 45,
+        "fecha": "2026-07-16",
+        "inicio_referencia_utc": "2026-07-16T18:02:20+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527375684333338644"
+      },
+      {
+        "capitulo": 46,
+        "fecha": "2026-07-23",
+        "inicio_referencia_utc": "2026-07-23T18:26:16+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1529917702439698493"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1529957197948260414",
+      "fecha_utc": "2026-07-23T21:03:41.221000+00:00",
+      "fecha_local": "2026-07-23",
+      "editado_utc": null,
+      "texto": "Eleanor:\n\n**Entro en la taberna de Iktan con el barro de la jungla aún pegado a las botas y la armadura marcada por ramas, sangre de bestia y cansancio. Mi mirada recorre el lugar con rapidez, buscando rostros conocidos entre el ruido, el humo y el olor a bebida caliente.**\n*Iktan, Por fin.*\n**Entonces la veo, Erandi, el mundo entero parece detenerse durante un instante.**\n*Está aquí.*\n**No pienso. No pido permiso. Simplemente avanzo, empujo a ione y a zoltan que se interpone en mi camino con el hombro, aparto una silla con la pierna y atravieso la taberna como si el resto del mundo hubiera dejado de tener importancia.**\n-Apártese.\n**Mi voz no suena furiosa. Suena peor. Suena urgente, cuando llego hasta ella, me arrodillo lo justo para rodearla con ambos brazos y atraerla contra mi pecho. La abrazo con fuerza, cubriéndola casi por completo entre mi armadura y mi capa.**\n*Por todos los dioses... Está viva.*\n**Permanezco así unos segundos más de lo apropiado, sin importarme quién mire.**\n-No vuelvas a desaparecer así.\n**Mi voz sale baja, contenida, la separo apenas lo suficiente para mirarla de arriba abajo, buscando heridas, mordiscos, cortes o cualquier señal de que la jungla haya intentado arrebatármela también.**\n-¿Estás herida?\n**Mi mirada se endurece, aunque mis manos siguen sujetándola con cuidado.**\n-Respóndeme antes de que empiece a revisar cada centímetro por mi cuenta. **Alzo la vista hacia el grupo que la acompaña durante un instante.**\n-Con suerte acabaste con gente que conocía el camino. **Vuelvo a mirarla.**\n-Y con menos suerte, probablemente tuviste que evitar que todos murieran tres veces antes de llegar aquí.\n**Dejo escapar un suspiro lento, todavía sin soltarla.**\n*Triceratops. Caníbales. Un prisionero que lanza rayos. Dos bestias enormes con dientes capaces de partir un caballo, y lo único que me importaba era encontrarla.*\n**Apoyo una mano sobre su cabeza, firme pero suave.**\n-Te extrañé.\n**La frase sale seca, casi incómoda, como si me molestara haberla dicho en voz alta, aclaro la garganta y recupero parte de mi compostura.**\n-Y antes de que digas algo absurdo como que no querías preocuparme...\n**Entorno ligeramente los ojos.**\n-Ya es tarde.\n**Le doy un beso en la frente y la abrazo**\n<@256567764171489292>",
+      "mensaje_sha256": "230968fac279b66135a41dc4d11fb6014c47cc75571219836203e79e8cced63b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529957197948260414",
+      "texto_sha256": "c46d070b2212d289280438627c6b21f36308c6e6694f827dbd0865da9601911f",
+      "adjuntos": []
+    },
+    {
+      "id": "1529959568187068486",
+      "fecha_utc": "2026-07-23T21:13:06.330000+00:00",
+      "fecha_local": "2026-07-23",
+      "editado_utc": null,
+      "texto": "Erandi:\n**Se podria apreciar a la Kender recostada en una mesa, con los pequeños bracitos a modo de almohada que soportan y confortan su cabeza. Al cogerla en brazos esta abriría lentamente los ojos, atontada tras tanto esfuerzo y tiempo que ha empleado en dormir**\n-MNHghnn...\n**Ve a Eleanor desorientada, sin entender que ocurre, ni que ruidos escucha, ni quienes están allí**\n-GhNm...M..M-Mi...cabe..za...da..vueltas..\n**Me acurruco en su hombro, logrando poco a poco enfocar la mirada para apreciar su rostro**\n-S-Se..ñora...bue..nos d-dias...",
+      "mensaje_sha256": "486f8e4d18d3a337b331b4621e4929cd769ad5ebf52491923a0fce2d1796d35f",
+      "tipo_discord": 19,
+      "referencia": "1529957197948260414",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529959568187068486",
+      "texto_sha256": "79b2a7d28760b767ba00ffeed9e1e4402c591c447db6fe3140e6cec7bc0904a9",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "k-1415369159675744327",
+  "campana": "kuroto",
+  "unidad_revision": "k-1415369159675744327",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Seraphina compra provisiones para la casa",
+  "resumen": "La harengon recorre las tiendas mientras persiste un dolor de cabeza.",
+  "relato": "Seraphina pasea por Sho y compra comida, bebida y herramientas para el trabajo de Guxi, además de otros materiales para completar la casa. Tararea contenta, aunque sigue notando un dolor de cabeza menos intenso pero persistente. No se indica el precio ni el detalle completo de las compras, y el mensaje no resuelve el origen de la molestia.",
+  "participantes": [
+    "Seraphina"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1415369159675744327",
+      "afirmacion": "Seraphina compra provisiones y herramientas mientras continúa con dolor de cabeza.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No se diagnostica la causa de la cefalea ni se afirma recuperación completa de la herida previa."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2025-09-10T16:11:43.954000+00:00",
+  "fin_utc": "2025-09-10T16:11:43.954000+00:00",
+  "fecha_local": "2025-09-10",
+  "intervalo": {
+    "anterior": 155,
+    "siguiente": 156,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1413222713035587615",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1415765542228332665",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 155,
+        "fecha": "2025-09-04",
+        "inicio_referencia_utc": "2025-09-04T18:02:08+00:00",
+        "fin_estimado_utc": "2025-09-04T21:26:26+00:00",
+        "duracion_video_segundos": 12258,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1413222713035587615"
+      },
+      {
+        "capitulo": 156,
+        "fecha": "2025-09-11",
+        "inicio_referencia_utc": "2025-09-11T18:26:34+00:00",
+        "fin_estimado_utc": "2025-09-11T22:04:21+00:00",
+        "duracion_video_segundos": 13067,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1415765542228332665"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1415369159675744327",
+      "fecha_utc": "2025-09-10T16:11:43.954000+00:00",
+      "fecha_local": "2025-09-10",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\n**Me encontraba comprando unas cuantas cosas por la capital, tarareando con alegría aunque de vez en cuando me seguía doliendo la cabeza, ya era menos pero el dolor era persistente**\n\nDe acuerdo, tengo que comprar esto... Aquello, unas cuantas cosas que nos hace falta completar para la casa... Ok, no hay problema \n\n**Paseaba por todas las tiendas comprando comida, bebida y herramientas que necesitaba Guxi para su trabajo diario**",
+      "mensaje_sha256": "97ac927b9c96c08963f7b4a758d384522fcbf892c1240ce35cd550f0fb399934",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1415369159675744327",
+      "texto_sha256": "c9e775c65f5d104d53a4b2306bacd5122f8283b29cf22eb65a318fdaf1664762",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "id": "k-1438664838581588029",
+  "campana": "kuroto",
+  "unidad_revision": "k-1438664838581588029",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "Seraphina lleva a Kurobane a Sho",
+  "resumen": "Seraphina guarda el secreto del ninja y busca mejores curas para sus quemaduras.",
+  "relato": "Kurobane concreta su confesión: se infiltró en palacio y entregó información a una de las personas que la Shogun más odia. Está convencido de que morirá si ella lo descubre. Seraphina intenta hacerle ver que otros también han desobedecido y promete no revelar su falta, del mismo modo que él guardó un secreto suyo. Sus quemaduras empeoran y ella reconoce que no puede curarlo con sus propios medios. Aunque Kurobane insiste en volver a combatir hasta el último aliento, Seraphina lo carga de nuevo, lo protege de la lluvia con las capas de ambos y atraviesa el portal hacia Sho para buscar ayuda.",
+  "participantes": [
+    "Kurobane",
+    "Seraphina"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1438664838581588029",
+      "afirmacion": "Kurobane admite haberse infiltrado en palacio y entregado la información.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1438667910561398944",
+      "afirmacion": "Seraphina promete guardar su secreto y reconoce que necesita otras curas.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1438669994924703815",
+      "afirmacion": "Seraphina atraviesa el portal con Kurobane.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La conversación de Seraphina continúa la confesión de la unidad precedente.",
+    "Hay un cierre explícito antes de que empiece la escena de Banzo y Danifae."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-11-13T23:00:26.618000+00:00",
+  "fin_utc": "2025-11-13T23:22:35.609000+00:00",
+  "fecha_local": "2025-11-14",
+  "intervalo": {
+    "anterior": 167,
+    "siguiente": 168,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438607930604781589",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 167,
+        "fecha": "2025-11-13",
+        "inicio_referencia_utc": "2025-11-13T19:14:04+00:00",
+        "fin_estimado_utc": "2025-11-13T22:25:02+00:00",
+        "duracion_video_segundos": 11458,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438607930604781589"
+      },
+      {
+        "capitulo": 168,
+        "fecha": "2025-11-20",
+        "inicio_referencia_utc": "2025-11-20T19:03:40+00:00",
+        "fin_estimado_utc": "2025-11-20T22:00:36+00:00",
+        "duracion_video_segundos": 10616,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida."
+  },
+  "fuentes": [
+    {
+      "id": "1438664838581588029",
+      "fecha_utc": "2025-11-13T23:00:26.618000+00:00",
+      "fecha_local": "2025-11-14",
+      "editado_utc": null,
+      "texto": "Kuro:\n\nNo lo entiendes, Sera... Me he tenido que infiltrar en Palacio... Y le he dado la información... A una de las personas que más odia...\n\n**Susurra entre pequeños quejidos por las curas**",
+      "mensaje_sha256": "4bf31687b1d709dd823da53f72674b9ade302582de8cfb267ae13b7b4d6cf7f6",
+      "tipo_discord": 19,
+      "referencia": "1438664297776681041",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1438664838581588029",
+      "texto_sha256": "4124c03e17d38ba904270356bb9ab9016391bd5ddddd95474ed96f3a7055e503",
+      "adjuntos": []
+    },
+    {
+      "id": "1438665710380515380",
+      "fecha_utc": "2025-11-13T23:03:54.471000+00:00",
+      "fecha_local": "2025-11-14",
+      "editado_utc": null,
+      "texto": "Seraphina:\nYo le desobedecí y tú ño sabes, Guxi me ayudó, Banzo al parecer hizo algo que también no le pareció y también tiene algo que ver con Danifae, Archi... \n\n**Sentí un nudo en la garganta**\n\nLo más probable es que también hiciera algo, todos aquí estamos señalados por hacer lo mismo de diferente manera, así que habrá alguna solución",
+      "mensaje_sha256": "bcca88ae5d84befa9080f92509421ba38bf5c506007a88e0fa5bfe90a87783fd",
+      "tipo_discord": 19,
+      "referencia": "1438664838581588029",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1438665710380515380",
+      "texto_sha256": "5038344f6130f655bf9488cb3e0fa2689973954317636590bff3dc78f6d8025a",
+      "adjuntos": []
+    },
+    {
+      "id": "1438666561203474503",
+      "fecha_utc": "2025-11-13T23:07:17.323000+00:00",
+      "fecha_local": "2025-11-14",
+      "editado_utc": null,
+      "texto": "Kuro:\n\nNo creo... Solo pido que no se entere... Porque si se entera terminaré desintegrado...\n\n**Susurra cayendo de rodillas por el cansancio, al parecer no aguanta mucho de pie**",
+      "mensaje_sha256": "f45a78cab1a7d5321536d537868c6b3a0be281008b0961ca40956d620055127b",
+      "tipo_discord": 19,
+      "referencia": "1438665710380515380",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1438666561203474503",
+      "texto_sha256": "b93d3bb187d0ff92c8f899aca583b5c53af92d9ea0ec8f12c7fa567c799d6008",
+      "adjuntos": []
+    },
+    {
+      "id": "1438667910561398944",
+      "fecha_utc": "2025-11-13T23:12:39.035000+00:00",
+      "fecha_local": "2025-11-14",
+      "editado_utc": null,
+      "texto": "Seraphina:\nTu no revelaste lo mío, yo no voy a revelar lo tuyo, así que no te preocupes por eso\n\n**No podía apartar la mirada de sus heridas**\n\nTengo que llevarte a otro lugar, no puedo curarte yo, pero quizás alguien más si pueda",
+      "mensaje_sha256": "6cea2c58cba7a9a9b4541377ab489195dcb677045b91b61e2f4b975aaa7c7c8c",
+      "tipo_discord": 19,
+      "referencia": "1438666561203474503",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1438667910561398944",
+      "texto_sha256": "d1ca71aeec0b340cdc8e6d066a380f2fe5b0331072099bda2d05da0ad87505de",
+      "adjuntos": []
+    },
+    {
+      "id": "1438668626273112196",
+      "fecha_utc": "2025-11-13T23:15:29.674000+00:00",
+      "fecha_local": "2025-11-14",
+      "editado_utc": null,
+      "texto": "Kuro:\n\n**De rodillas en el suelo**\n\nNo pienso moverme... Tengo que seguir lu... chan... do...\n\n**Comenta adolorido sintiendo más daño por las quemaduras, poco a poco, son más grandes**",
+      "mensaje_sha256": "eb01c21d029ce50cb41b1284feff07ab330287549569375edf932bb6fb469257",
+      "tipo_discord": 19,
+      "referencia": "1438667910561398944",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1438668626273112196",
+      "texto_sha256": "541dcb23d607f6269c142e55c6fec5c2e79300f98449512f4dfb481ec65c0334",
+      "adjuntos": []
+    },
+    {
+      "id": "1438669322951327854",
+      "fecha_utc": "2025-11-13T23:18:15.775000+00:00",
+      "fecha_local": "2025-11-14",
+      "editado_utc": null,
+      "texto": "Seraphina:\nEs que eres un necio\n\n**Lo volví a cargar en mi espalda, procurando cubrirlo de la lluvia con su capa y la mía**\n\nNo vas a luchar así hasta que te mejores, entendiste?\n\n**Me lo llevé al portal para dirigirnos a Sho**",
+      "mensaje_sha256": "e14da422fd21be5a2246c316e0f59f9c437fc9bbe765ec2dfa5ea26b3784b9da",
+      "tipo_discord": 19,
+      "referencia": "1438668626273112196",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1438669322951327854",
+      "texto_sha256": "b0e3627a727cf884c0eb51745a7e99801c670776ae75215b292241403c930fb9",
+      "adjuntos": []
+    },
+    {
+      "id": "1438669831321817218",
+      "fecha_utc": "2025-11-13T23:20:16.980000+00:00",
+      "fecha_local": "2025-11-14",
+      "editado_utc": null,
+      "texto": "Kuro:\n\nNo soy un necio... Soy un guerrero... Y un guerrero sigue en combate hasta el último aliento...\n\n**Dice serio pero cansado, lo llevas como si fuera una hoja, no pesa nada**",
+      "mensaje_sha256": "830d606ae7b5c053d30e6db3255b31d84ac29cb0962d574d7852611c866f05e0",
+      "tipo_discord": 19,
+      "referencia": "1438669322951327854",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1438669831321817218",
+      "texto_sha256": "9a2c9d9d820b13133a9edbff612f38d408cbb4b5e102ed3fa58501e72233d190",
+      "adjuntos": []
+    },
+    {
+      "id": "1438669994924703815",
+      "fecha_utc": "2025-11-13T23:20:55.986000+00:00",
+      "fecha_local": "2025-11-14",
+      "editado_utc": null,
+      "texto": "Seraphina: \n**Atravieso el portal junto con Kurobane**",
+      "mensaje_sha256": "a8cc2fc694a99839809a65739b0b1fdcf8a8931f077159f80757c9506c9354c3",
+      "tipo_discord": 19,
+      "referencia": "1438669831321817218",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1438669994924703815",
+      "texto_sha256": "ae18c19f0878f3650aba6d0c97a95ce46ed1e2d0b8d0e85376535cad3a950aec",
+      "adjuntos": []
+    },
+    {
+      "id": "1438670062394282067",
+      "fecha_utc": "2025-11-13T23:21:12.072000+00:00",
+      "fecha_local": "2025-11-14",
+      "editado_utc": null,
+      "texto": "🏴‍☠️ Seraphina sale de escena🏴‍☠️",
+      "mensaje_sha256": "2f67553d016a3d08cfb1c223fdc5d07c7de85a72906ca014abf0e0c194e901d5",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1438670062394282067",
+      "texto_sha256": "00851caf7ff4b2ea2b5c415952dd8386fce551b2fa06d68bbb1174718493e8f7",
+      "adjuntos": []
+    },
+    {
+      "id": "1438670412774117417",
+      "fecha_utc": "2025-11-13T23:22:35.609000+00:00",
+      "fecha_local": "2025-11-14",
+      "editado_utc": null,
+      "texto": "🔴  Final de escena 🔴",
+      "mensaje_sha256": "7803313ed4fe6700fe31ef4b3a8760d8ec0bbe19f3bcb71d2941a464f60a962b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1438670412774117417",
+      "texto_sha256": "2d951a88aefa391a493c42f6b69315b97b488451d8ef0802371598f1f0254083",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "id": "k-1372602791108804629",
+  "campana": "kuroto",
+  "unidad_revision": "k-1372602791108804629",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Una sombra del pasado de Jhin",
+  "resumen": "Jhin habla de un antiguo proyecto de soldados y Archi le ofrece ayuda mientras muestra sus propios diseños.",
+  "relato": "Archi vuelve de colaborar en las reparaciones de Sho y visita a Jhin, que ya está despierto y puede hablar, aunque conserva dolor en la herida. El espejo de su habitación está roto, sin explicación. El guerrero agradece la ayuda del gnomo y de Kaniza, y describe a su agresor como una sombra del pasado que debería estar muerta. Teme poner a los cazadores en peligro y duda de que puedan enfrentarse a ella. Archi insiste en que contar con aliados mejoraría sus posibilidades. Jhin alude entonces a un proyecto de su lugar de origen para crear soldados perfectos y sospecha conexiones con los cultistas. El inventor se entusiasma, muestra dos ilustraciones de diseños mecánicos humanoides y dice que representan su sueño desde la infancia. Jhin aclara que los responsables deberían estar muertos y le aconseja alejarse de ese asunto. Mirando la máscara de hierro y su espada, decide descansar y pregunta si podrá contar con él; Archi acepta. El gnomo afirma además que la ciudad está casi reparada, y Jhin pide que comunique su mejoría a Shizuka. Cuando el paciente se duerme, Archi le toma medidas y las anota, pensando en privado que algo podría funcionar. No se revela qué construirá ni obtiene permiso para un nuevo procedimiento.",
+  "participantes": [
+    "Archi",
+    "Jhin"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1372610906458165349",
+      "afirmacion": "Jhin atribuye su herida a una sombra del pasado.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1372613181813297253",
+      "afirmacion": "Jhin cree que el agresor debería estar muerto y teme poner en peligro a sus compañeros.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1372622147167584326",
+      "afirmacion": "Jhin habla de un proyecto de soldados perfectos en su lugar de origen y de posibles conexiones.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1372624108784975913",
+      "afirmacion": "Archi presenta diseños de su proyecto soñado.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1372624366705053837",
+      "afirmacion": "Los dos adjuntos muestran conceptos ilustrados de constructos o armaduras mecánicas humanoides, no un artefacto terminado en juego.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1372624570707873882",
+      "afirmacion": "Jhin afirma que los responsables deberían estar muertos y recomienda alejarse.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1372630920561037365",
+      "afirmacion": "Archi promete ayuda y dice que las reparaciones de la ciudad están casi terminadas.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1372631596846284862",
+      "afirmacion": "Jhin pide que comuniquen su mejoría a Shizuka.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1372638288426434640",
+      "afirmacion": "Archi toma medidas a Jhin cuando este se duerme.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Veinticuatro mensajes completos. Vistas íntegramente ambas imágenes locales: 1372624365858066462.jpg y 1372624366424293507.jpg. Son dibujos de diseños mecánicos; no prueban construcción, funcionalidad ni nuevas capacidades de Jhin.",
+    "El mensaje 1372610184194560095 lleva la etiqueta Jhin pero lo escribe el autor de Archi y continúa sus preguntas; se interpreta como intervención de Archi con error de rótulo, dejando constancia.",
+    "Las conexiones con cultistas y la supervivencia de alguien supuestamente muerto son declaraciones e hipótesis de Jhin. No se identifica al atacante ni se acredita un proyecto operativo actual.",
+    "La mejoría no equivale a curación completa. La reparación casi terminada de Sho es un informe de Archi.",
+    "Las medidas que Archi toma en secreto no autorizan una modificación corporal ni conceden equipo o ventajas. El proyecto queda pendiente."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-15T15:53:27.127000+00:00",
+  "fin_utc": "2025-05-15T18:14:30.347000+00:00",
+  "fecha_local": "2025-05-15",
+  "intervalo": {
+    "anterior": 114,
+    "siguiente": 115,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1372279071790338181",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1372641487094808689",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 114,
+        "fecha": "2025-05-14",
+        "inicio_referencia_utc": "2025-05-14T18:26:52+00:00",
+        "fin_estimado_utc": "2025-05-14T21:26:47+00:00",
+        "duracion_video_segundos": 10795,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1372279071790338181"
+      },
+      {
+        "capitulo": 115,
+        "fecha": "2025-05-15",
+        "inicio_referencia_utc": "2025-05-15T18:26:58+00:00",
+        "fin_estimado_utc": "2025-05-15T21:47:48+00:00",
+        "duracion_video_segundos": 12050,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1372641487094808689"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1372602791108804629",
+      "fecha_utc": "2025-05-15T15:53:27.127000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": "2025-05-15T15:53:45.877000+00:00",
+      "texto": "Archi : **llega de las reparaciones de la ciudad ** \n*por todos los pelos del bigote de mi padre , que se acabe ya esta faena* \n\n**pica en la habitación de Jhin ** <@171702246952665098> \nMaese Jhin !!!! Mantiene constantes vitales señorrrr ?",
+      "mensaje_sha256": "e8ae3cc6d775e40771e667019c92f8e8eb176952efcfa57cf2890e7f7da5a94b",
+      "tipo_discord": 19,
+      "referencia": "1372242421961986160",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372602791108804629",
+      "texto_sha256": "6e24839844cb9af2751f8c5708f2ec4de6e95a425a8576da6bc1b0b2a246c638",
+      "adjuntos": []
+    },
+    {
+      "id": "1372602974504878090",
+      "fecha_utc": "2025-05-15T15:54:10.852000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Jhin: pasa esta abierto",
+      "mensaje_sha256": "e920048bcc824ec54863525fad1dcabb7b0a1a0675364b72900c4b71ad54e0ba",
+      "tipo_discord": 19,
+      "referencia": "1372602791108804629",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372602974504878090",
+      "texto_sha256": "c774ceae8a9113a1fc5416991f180d31a1c88fdff2c8dc5e9bfe3d395147e869",
+      "adjuntos": []
+    },
+    {
+      "id": "1372604372126662786",
+      "fecha_utc": "2025-05-15T15:59:44.071000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": "2025-05-15T16:00:36.566000+00:00",
+      "texto": "Archi : oooo, mon ami me alegro verte vivito y culeando\n\n *no se si es así la expresion...*\n\nTienes mejor aspecto . Como te encuentras ?",
+      "mensaje_sha256": "9a08d54fae2accba9c2e516d43628b0344de3a1eb9ee86971af66bf662d1fcc6",
+      "tipo_discord": 19,
+      "referencia": "1372602974504878090",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372604372126662786",
+      "texto_sha256": "0cdbe7f5505a2086647f5a9268b471a3e5db3d4877f152f2d941bf3e829e61a1",
+      "adjuntos": []
+    },
+    {
+      "id": "1372606500408922235",
+      "fecha_utc": "2025-05-15T16:08:11.493000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Jhin : **le mira algo extrañado** archi gracias por la ayuda tengo que agradecerselo a kaniza también **no puedes evitar fijarte en qué está el espejo de la habitación roto**",
+      "mensaje_sha256": "7c4c10e2d85c7ee3d8f86a1f4a89e16771d35ab3779c61842e501e8d95f43e12",
+      "tipo_discord": 19,
+      "referencia": "1372604372126662786",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372606500408922235",
+      "texto_sha256": "821d6be993d96f3acd600cf163149c992bfe4e639a51b92adfd4e3a7fb4e8f7c",
+      "adjuntos": []
+    },
+    {
+      "id": "1372610184194560095",
+      "fecha_utc": "2025-05-15T16:22:49.776000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Jhin : aaa no no mon ami no hay que agradeser! \nQue fue lo que te atacó,  tenias un corte bastante profundo",
+      "mensaje_sha256": "5d165c5177a4b0ac24d1b57f7b871f0d8d139583062ccd41f85f819798ded400",
+      "tipo_discord": 19,
+      "referencia": "1372606500408922235",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372610184194560095",
+      "texto_sha256": "be6f03db5046391119245f2d08ef6cb37ecd78070e47b459c346c0d45841f67a",
+      "adjuntos": []
+    },
+    {
+      "id": "1372610906458165349",
+      "fecha_utc": "2025-05-15T16:25:41.977000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Jhin: **se agarra al pecho donde tiene la herida** una sombra de mi pasado me confíe y salió mal",
+      "mensaje_sha256": "fb69fe5893bb26c6662da84242afaa4c3c484d351ede25ed61226140d395193b",
+      "tipo_discord": 19,
+      "referencia": "1372610184194560095",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372610906458165349",
+      "texto_sha256": "4274aa4fa446bd58a485c4f2e2804f679aa772a43791808299e7e05329ea19f7",
+      "adjuntos": []
+    },
+    {
+      "id": "1372611555400876042",
+      "fecha_utc": "2025-05-15T16:28:16.697000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Archi: uuu compañerro las sombras son más alargadas cuanto más tiempo pasa . \nNecesita ayuda ?",
+      "mensaje_sha256": "48466aa94e0ba2cedc9ffc3262a31fc672ac62b0041484ff98b4a00e6e8719be",
+      "tipo_discord": 19,
+      "referencia": "1372610906458165349",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372611555400876042",
+      "texto_sha256": "85cfffd90dc3808d7b0f4591ae061193a985d47c787af3559769e91330394156",
+      "adjuntos": []
+    },
+    {
+      "id": "1372613181813297253",
+      "fecha_utc": "2025-05-15T16:34:44.464000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Jhin: el debería estar muerto yo .. **se agarra la herida** no quiero que estéis en peligro por mi culpa",
+      "mensaje_sha256": "89a12cf15fef7e3d93753b006e4e9fb144b36580dea3e38af39cdb21af6b18ef",
+      "tipo_discord": 19,
+      "referencia": "1372611555400876042",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372613181813297253",
+      "texto_sha256": "516ee0178697e502a3489746f3a96f21c5157fb9fab2cc21ef290b83afd25406",
+      "adjuntos": []
+    },
+    {
+      "id": "1372613474286309420",
+      "fecha_utc": "2025-05-15T16:35:54.195000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Archi : pero mon ami , tu perteneces a los cazadores , esa sombra no tendrá nada que hacer si pides su ayuda",
+      "mensaje_sha256": "8d754f1c7e606b8e8591e81cfc9bd5ab57a0fb114f33f671107c347002cae9ed",
+      "tipo_discord": 19,
+      "referencia": "1372613181813297253",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372613474286309420",
+      "texto_sha256": "0ebcffe83cd7c50cf9bea90ad9418ad9b0222255026e7672b3e43ab9f24fd5f6",
+      "adjuntos": []
+    },
+    {
+      "id": "1372615270627278949",
+      "fecha_utc": "2025-05-15T16:43:02.476000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Jhin: es más peligroso de lo que parece no creo que nadie tenga oportunidad contra el",
+      "mensaje_sha256": "afdc60014998f2d7a8bdf2af4c19daccff16c3cc7db30afe60d2190873433703",
+      "tipo_discord": 19,
+      "referencia": "1372613474286309420",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372615270627278949",
+      "texto_sha256": "385ef52c22bd4abb280527e8e6c8f3033d83a51231bab89e111d1dbdf34f93f0",
+      "adjuntos": []
+    },
+    {
+      "id": "1372619750601134090",
+      "fecha_utc": "2025-05-15T17:00:50.585000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Arxhi : estadísticamente si dices que no tienes opción el mero hecho de incrementar tus aliados hace que tu poder  aumente subiendo a si las estadísticas de victoria mon ami . No sé trata de lo que pienses se trata de lógica pura . \nPor el momento descansa y cicatriza maese guerrero , descansa y cicatriza \n**le da unos toquecitos en la herida vendada **",
+      "mensaje_sha256": "356970b785d0f3d76db92d57a0b41478807afc26a56a2c676159526315218b6b",
+      "tipo_discord": 19,
+      "referencia": "1372615270627278949",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372619750601134090",
+      "texto_sha256": "72580e590fc3b6aeea2f6069ee93ef69d1cf807fbf9264966e903283360671dd",
+      "adjuntos": []
+    },
+    {
+      "id": "1372620587188486275",
+      "fecha_utc": "2025-05-15T17:04:10.043000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Jhin: **se queja del dolor un poco** quizá tengas razón seguiré investigando no esperaba que las garras de los cultistas llegarán tan lejos .",
+      "mensaje_sha256": "aba93588040c87d4757e75144b6be9eb7f99762d4493928626895cb8741f984c",
+      "tipo_discord": 19,
+      "referencia": "1372619750601134090",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372620587188486275",
+      "texto_sha256": "ab14fe48f9fceed23eeea840d6df7920f19a407d3483f9ee051a6ff3ad3f1bc2",
+      "adjuntos": []
+    },
+    {
+      "id": "1372621100416237579",
+      "fecha_utc": "2025-05-15T17:06:12.406000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Archi : intrigante sin duda .\nA que te refieres ? \n**te sonrrie y se toca el bigote, no oara de moverse por todo el cuarto toqueteando todo **",
+      "mensaje_sha256": "6af26cac221453d8a7605323d9cdca8d0de7ac1520ecb00cb0e2b69fbdbc2c8f",
+      "tipo_discord": 19,
+      "referencia": "1372620587188486275",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372621100416237579",
+      "texto_sha256": "03272a74081f62d72950ae0e2bda3083d37d7a04b6fc90d13ff60e21bcd38872",
+      "adjuntos": []
+    },
+    {
+      "id": "1372622147167584326",
+      "fecha_utc": "2025-05-15T17:10:21.971000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Jhin: eeh bueno del lugar en el que vengo tenían un proyecto para crear soldados perfectos parecen que estaban conectados y bueno fantasmas aparecen",
+      "mensaje_sha256": "6506cf5bab1b8cc7ab6bafaa4fa4b72bc488577d6225bd98e190f879e1a0f765",
+      "tipo_discord": 19,
+      "referencia": "1372621100416237579",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372622147167584326",
+      "texto_sha256": "4bf6476e74e68354da87a8b0715a759025b946dd606db67bc479c49dae9ec758",
+      "adjuntos": []
+    },
+    {
+      "id": "1372624108784975913",
+      "fecha_utc": "2025-05-15T17:18:09.657000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Archi : **abre los ojos como platos ** \nComo que soldados perfectos . Pero eso es fantástico mon ami , cuando me podrías presentar a esa gente? \nMira mira \n**ves que se va corriendo y vuelve con varios planos **\nEste es mi sueño desde que me salio bigote a los 7 años .\n**te enseña estos planos **",
+      "mensaje_sha256": "7ca2f31a6bc9d03851b16d82307e0338cf4c52d3f9a2113263b59340af00c5fd",
+      "tipo_discord": 19,
+      "referencia": "1372622147167584326",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372624108784975913",
+      "texto_sha256": "e405cb286e750d555108a4b77b5a2c8f264d98d8d0f7234f72c2df1c06ade21d",
+      "adjuntos": []
+    },
+    {
+      "id": "1372624366705053837",
+      "fecha_utc": "2025-05-15T17:19:11.150000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "cbf42d74ff18e14a407b50d07dca6f3cd115a29d1891e36049583a8a71b54d12",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372624366705053837",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1372624365858066462",
+          "nombre": "Screenshot_20250502_085330_Pinterest.jpg",
+          "tipo": "image/jpeg",
+          "archivo": "adjuntos/1372624365858066462.jpg",
+          "url": "rol_escrito/adjuntos/1372624365858066462.jpg",
+          "bytes": 140257,
+          "sha256": "b95527acd7d68aa6a204ccc7bd0014a74051b20745267215fef1bd448fd7ebae"
+        },
+        {
+          "id": "1372624366424293507",
+          "nombre": "Screenshot_20250502_085401_Pinterest.jpg",
+          "tipo": "image/jpeg",
+          "archivo": "adjuntos/1372624366424293507.jpg",
+          "url": "rol_escrito/adjuntos/1372624366424293507.jpg",
+          "bytes": 213915,
+          "sha256": "8a1c201029de1bb691ccbea7e2309c4a1d75c88421169360b200e41d55e8c275"
+        }
+      ]
+    },
+    {
+      "id": "1372624570707873882",
+      "fecha_utc": "2025-05-15T17:19:59.788000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Jhin : están todos muertos o al menos deberían estarlo aunque creo no es lo buscas y si así fuera te recomiendo alejarte",
+      "mensaje_sha256": "d72a194e3259d8a20e548335af123a9744cafcbe1b098759241877f4532a5ed4",
+      "tipo_discord": 19,
+      "referencia": "1372624108784975913",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372624570707873882",
+      "texto_sha256": "b6fc767fa5757ab8ffc992aef89e5d9597f0268131feb1dbbd6776fbc19acd97",
+      "adjuntos": []
+    },
+    {
+      "id": "1372629533022355457",
+      "fecha_utc": "2025-05-15T17:39:42.896000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Archi : entiendo entiendo ...",
+      "mensaje_sha256": "34fb57e556884b17c5b8407d5e178e0630d5d5db2340f3e5209d7733dec5b191",
+      "tipo_discord": 19,
+      "referencia": "1372624570707873882",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372629533022355457",
+      "texto_sha256": "15a0b2d0bf09fc5bf6a1ba5b02bdf1596407ce4c4873dc4115a89809564b1e77",
+      "adjuntos": []
+    },
+    {
+      "id": "1372630530285109280",
+      "fecha_utc": "2025-05-15T17:43:40.662000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Jhin :**mira a la mascara de hierro que está en la mesa y su espada unos segundos ** creo que debería descansar entonces cuánto contigo cuando esté mejor?",
+      "mensaje_sha256": "3023581af8d9bd0ecc490b773c6f1b06a1cc490d639ec60199fce9653535d149",
+      "tipo_discord": 19,
+      "referencia": "1372629533022355457",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372630530285109280",
+      "texto_sha256": "d5d0311ecaccd38b39cd9fb9f27abda5a63615b7fbccf756748e9de8dd708a9f",
+      "adjuntos": []
+    },
+    {
+      "id": "1372630920561037365",
+      "fecha_utc": "2025-05-15T17:45:13.711000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Archi : sin dudarlo  mon ami , por cierto la ciudad ya casi está reparada",
+      "mensaje_sha256": "e6dd41232ae88059bdb7afcd476c7cb7cc0f01a8a8f65a6311ab9d08aa10349e",
+      "tipo_discord": 19,
+      "referencia": "1372630530285109280",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372630920561037365",
+      "texto_sha256": "5c38ed8a3b6b20591ff96b4fcfe47a11e9251e940e59e008d375ca78296e2a66",
+      "adjuntos": []
+    },
+    {
+      "id": "1372631596846284862",
+      "fecha_utc": "2025-05-15T17:47:54.950000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Jhin: me alegro guxi estará menos estresado cuando vuelva y si ves a Shizuka dile que estoy mejor gracias .. archi **su rostro no muestra ningún tipo de expresión excepto cuando dice el nombre de Shizuka que parece sonreír**",
+      "mensaje_sha256": "121f1c1c20515f07d0671d0f8014b08d1cc6c10e02c73cf987200dbb343c3140",
+      "tipo_discord": 19,
+      "referencia": "1372630920561037365",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372631596846284862",
+      "texto_sha256": "ba1839666336df4960eb81c22f3b8777317f7e41d0f8853380cfb43646f38500",
+      "adjuntos": []
+    },
+    {
+      "id": "1372633287213715537",
+      "fecha_utc": "2025-05-15T17:54:37.965000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Archi: descansa pequeño guerrero descansa ** se frota el bigote **",
+      "mensaje_sha256": "4d8d360209c2a94a198bea711c862a95baa786364dfe8aa65742dfc204d0657f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372633287213715537",
+      "texto_sha256": "726117c01e4b4503d27bd6bbfe754f485986d0d59825454338bbc3fa0848154c",
+      "adjuntos": []
+    },
+    {
+      "id": "1372634140335145131",
+      "fecha_utc": "2025-05-15T17:58:01.365000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "✖️ jhin sale de escena✖️",
+      "mensaje_sha256": "52a1e6d9f08ea0a80629af57467f948fe03188bc84e44a3ded1f1c7fba67b0d8",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372634140335145131",
+      "texto_sha256": "198a393de44ad4da86cb5b556c4b1992526b89867663040e932a2d6627547e97",
+      "adjuntos": []
+    },
+    {
+      "id": "1372638288426434640",
+      "fecha_utc": "2025-05-15T18:14:30.347000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Archi : **cuando jhin se duerme archi saca un metro y empieza a tomarle medidas y apuntar **\n\n*mmmm podria funsionar*\n\n\n🔧 Archi sale de escena 🔧 \n\n❌  FIN DE LA ESCENA ❌",
+      "mensaje_sha256": "06b00683164224c7092ad8d21ff6376639dce562cf1f316f86a356de37ab3954",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372638288426434640",
+      "texto_sha256": "70acf2b316a077b977f5bb8093c3f7a666d0405b533711e8e4643c2461a4d5d4",
+      "adjuntos": []
+    }
+  ]
+}

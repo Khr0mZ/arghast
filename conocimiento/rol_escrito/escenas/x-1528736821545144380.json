@@ -1,0 +1,97 @@
+{
+  "id": "x-1528736821545144380",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1528736821545144380",
+  "hilo_id": "1495828307843747971",
+  "hilo_nombre": "??? - En alguna parte",
+  "titulo": "Vhaeraun busca a Eilistraee para hablar de Lolth",
+  "resumen": "Soporta el rechazo de la bendición del dominio de su hermana y ella acepta escucharlo.",
+  "relato": "Una pequeña araña atraviesa las telarañas abisales hasta un enclave de hierba y árboles. Al tocar la tierra bendecida muere y Vhaeraun aplasta su cuerpo. El dios enmascarado se encuentra ante el antiguo dominio que Eilistraee conserva dentro del plano de Lolth, protegido contra la corrupción de los Seldarine Oscuros.\n\nSabe que la barrera lo rechazará, pero entra y soporta el dolor. Eilistraee aparece primero como proyección, mientras su esencia permanece en la Corte de la Danza, y le advierte del peligro de avanzar.\n\nVhaeraun insiste en que deben hablar de su madre. La diosa observa su esfuerzo, suaviza la expresión y vuelve más sólida su manifestación antes de aceptar conversar. La escena se detiene en esa disposición: todavía no se conoce la propuesta del hermano ni se demuestra un acuerdo entre ambos.",
+  "participantes": [
+    "Vhaeraun",
+    "Eilistraee"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1528736821545144380",
+      "afirmacion": "La bendición mata a la araña y causa dolor a Vhaeraun al entrar en el dominio.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1528736840025243711",
+      "afirmacion": "Eilistraee acepta hablar cuando su hermano menciona a Lolth.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Proyección y presencia espiritual se describen según el texto, sin fijar desplazamientos del cuerpo divino no explicitados.",
+    "La aceptación de hablar no anticipa el contenido ni resultado de la negociación."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-07-20T12:14:20.813000+00:00",
+  "fin_utc": "2026-07-20T12:14:25.219000+00:00",
+  "fecha_local": "2026-07-20",
+  "intervalo": {
+    "anterior": 45,
+    "siguiente": 46,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527375684333338644",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1529917702439698493",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 45,
+        "fecha": "2026-07-16",
+        "inicio_referencia_utc": "2026-07-16T18:02:20+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527375684333338644"
+      },
+      {
+        "capitulo": 46,
+        "fecha": "2026-07-23",
+        "inicio_referencia_utc": "2026-07-23T18:26:16+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1529917702439698493"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1528736821545144380",
+      "fecha_utc": "2026-07-20T12:14:20.813000+00:00",
+      "fecha_local": "2026-07-20",
+      "editado_utc": null,
+      "texto": "**Una pequeña araña de un color blanquecino, casi transparente, avanzaba por la inmensa telaraña de la Red de los Pozos Demoníacos.**\n**Los demonios menores con los que se cruzaba se apartaban inmediatamente de su camino. Algunos manes, deformes y miserables, incluso se arrojaban al vacío antes que rozarla. Era lo natural. ¿Qué demonio se atrevería siquiera a tocar a una hija de Lolth?**\n**La diminuta exploradora continuó alejándose hacia los confines más remotos del plano. Poco a poco, las interminables telarañas comenzaron a desaparecer, dando paso a algo completamente impropio de aquel lugar. Hierba. Árboles. Vida.**\n**La araña avanzó con cautela hasta apoyar una de sus patas sobre aquella tierra extraña.**\n**Un pequeño destello blanco recorrió su cuerpo.**\n**La criatura comenzó a retorcerse violentamente mientras sus patas se contraían en espasmos de dolor. Apenas unos segundos después, quedó inmóvil, boca arriba, con las patas encogidas. Muerta.** \n\n**Una bota negra aplastó su diminuto cadáver.**\n\n**Vhaeraun, dios de los varones drow e hijo de Lolth, permanecía inmóvil frente al límite del pequeño dominio que su hermana Eilistraee había levantado dentro del plano de su madre.**\n**Ya había estado allí en otra ocasión. Aunque el lugar llevaba siglos abandonado, la Bailarina Oscura lo había bendecido para impedir que la corrupción de los Seldarine Oscuros lo reclamara.**\n**El dios enmascarado chasqueó la lengua con fastidio. Sabía perfectamente lo que iba a ocurrir. Dio un paso. En cuanto su bota tocó la hierba, apretó los dientes. Una punzada abrasadora recorrió todo su cuerpo. La bendición de su hermana rechazaba su presencia, quemándole la piel como si caminara sobre brasas divinas.**",
+      "mensaje_sha256": "abb5094f52da7e7b6b3452eb0431cbdd1637c57c6d68e524af99267a8249ae10",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1528736821545144380",
+      "texto_sha256": "9fdde3ca020fdd3a8dc762e4e244d4498cb667d3948b6a16cb7e4ccbce70d6b2",
+      "adjuntos": []
+    },
+    {
+      "id": "1528736840025243711",
+      "fecha_utc": "2026-07-20T12:14:25.219000+00:00",
+      "fecha_local": "2026-07-20",
+      "editado_utc": "2026-07-20T12:14:49.164000+00:00",
+      "texto": "**Apenas había dado un segundo paso cuando escuchó una voz tan hermosa como melancólica.**\n\nEilistraee: Hermano... Sabes que no puedes entrar aquí. La bendición podría... **La figura de la diosa comenzó a materializarse frente a él. No era su verdadero cuerpo, sino una proyección espiritual. Su esencia permanecía en la Corte de la Danza, su reino dentro de los dominios de los Seldarine.**\n\nVhaeraun: Tenemos que hablar... **El dios continuó avanzando un paso más, soportando el dolor sin apartar la mirada.** ...Es sobre madre.\n\n**La representación de la Bailarina Oscura permaneció unos instantes observando a su hermano mientras este resistía el castigo de su bendición.**\n**Cuando sus miradas se encontraron, la expresión de Eilistraee se suavizó.**\n**Suspiró levemente y su manifestación se volvió más sólida, descendiendo por completo a aquel rincón olvidado del reino de Lolth.**\n\nEilistraee: Entonces... hablemos.\n\n🔴Fin de la escena 🔴",
+      "mensaje_sha256": "62e8808e23a7c8d2c16f6cda0a09b59f6b362ba0c4b86e6e1537b36157d5f661",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1528736840025243711",
+      "texto_sha256": "1563eaf952524e54eb14a15a860e1df42b0ed02f7675c9931f9b1d84612ea05f",
+      "adjuntos": []
+    }
+  ]
+}

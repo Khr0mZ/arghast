@@ -1,0 +1,241 @@
+{
+  "id": "k-1458717528669950094",
+  "campana": "kuroto",
+  "unidad_revision": "k-1458717528669950094",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "El rugido dorado sobre Kuroto",
+  "resumen": "El anuncio de una era yokai reúne a Wukong, Banzo y Arwen; Vespera cruza la ciudad hacia el sur.",
+  "relato": "La narración sitúa el suceso en el día quince de la Temporada de las Flores del año 1383 ddc: un rugido descomunal ilumina de oro el cielo y anuncia el fin de la edad de los hombres. Wukong interrumpe sus abluciones y sutras. Había conseguido concentrar el ki en la vista durante casi un minuto, todavía con visión borrosa después, y entiende el rugido como una convocatoria del dragón dorado. Se dirige a la base para esperar a sus compañeros. Banzo y Arwen aparecen por sorpresa, deseosos de acompañarlo. Él aclara que no pretendía acudir solo. A lo lejos pasa Vespera con ropa de turista y un helado, provocando que los ciudadanos huyan. Explica que iba al campamento del sur y se estaba aprovisionando; interpreta los objetos que dejaban caer al escapar como colaboración con ese frente. Tras la breve conversación cruza el portal. El grupo aún no parte hacia el dragón ni se representa su enfrentamiento.",
+  "participantes": [
+    "Wukong",
+    "Banzo",
+    "Arwen",
+    "Vespera"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1458717528669950094",
+      "afirmacion": "Un rugido vuelve dorado el cielo en la fecha interna indicada y anuncia una era yokai.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1458828350092214364",
+      "afirmacion": "Wukong interrumpe su práctica y se dirige a la base.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1458832534656913420",
+      "afirmacion": "Aclara que está esperando al resto antes de ir contra el dragón dorado.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1458891062482571388",
+      "afirmacion": "Vespera afirma dirigirse al sur y cruza el portal.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La proclamación sobre el fin de la era humana no demuestra que ese dominio ya se haya consumado.",
+    "Conservar separadas fecha diegética y fecha de publicación de Discord.",
+    "El mensaje de mención al rol es administrativo y el cierre de Vespera incluye comentario OOC, conservados en las fuentes.",
+    "La interpretación de Vespera sobre los objetos abandonados no equivale a donaciones voluntarias confirmadas."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-01-08T07:02:40.496000+00:00",
+  "fin_utc": "2026-01-08T18:32:40.657000+00:00",
+  "fecha_local": "2026-01-08",
+  "intervalo": {
+    "anterior": 178,
+    "siguiente": 179,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1455641515153162354",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1458905021985853695",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 178,
+        "fecha": "2025-12-30",
+        "inicio_referencia_utc": "2025-12-30T19:19:26+00:00",
+        "fin_estimado_utc": "2025-12-30T21:38:38+00:00",
+        "duracion_video_segundos": 8352,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1455641515153162354"
+      },
+      {
+        "capitulo": 179,
+        "fecha": "2026-01-08",
+        "inicio_referencia_utc": "2026-01-08T19:27:25+00:00",
+        "fin_estimado_utc": "2026-01-08T21:59:18+00:00",
+        "duracion_video_segundos": 9113,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1458905021985853695"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1458717528669950094",
+      "fecha_utc": "2026-01-08T07:02:40.496000+00:00",
+      "fecha_local": "2026-01-08",
+      "editado_utc": null,
+      "texto": "**El día 15 de la Temporada de las Flores del año 1383 ddc, la isla de Kuroto despertó con un gruñido descomunal que rasgó el silencio y tiñó el cielo de un dorado abrasador.\nAquel rugido primigenio hizo recordar a los habitantes de la isla a quién pertenecían realmente esas tierras, y advirtió a los invasores de que su tiempo había llegado a su fin.**\n\n*La edad de los hombres ha terminado. La era del yokai comienza.*",
+      "mensaje_sha256": "35ac0572316e1eee679b55b4cd1605bbb988c4c4c49478cc7cd1097a638d0265",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1458717528669950094",
+      "texto_sha256": "a6f07bbc453d2183cd0f8ba8ccf032f482bc9e9f11aeaee5dfa9110f4dc2abc7",
+      "adjuntos": []
+    },
+    {
+      "id": "1458717558092988417",
+      "fecha_utc": "2026-01-08T07:02:47.511000+00:00",
+      "fecha_local": "2026-01-08",
+      "editado_utc": null,
+      "texto": "<@&1219989260787253278>",
+      "mensaje_sha256": "0d3d2ceaa6b565f66c62522a01d4debdbfd24a921425ead1112ef317715d196a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1458717558092988417",
+      "texto_sha256": "4b713069b7d3977c92ad427a0f64d4c461caac254513ff484f9e1c3948216972",
+      "adjuntos": []
+    },
+    {
+      "id": "1458828350092214364",
+      "fecha_utc": "2026-01-08T14:23:02.382000+00:00",
+      "fecha_local": "2026-01-08",
+      "editado_utc": null,
+      "texto": "Wukong\n\n**El monje había madrugado. Más de lo normal. Se encontraba en la parte trasera de la base, al lado de la fuente, sentado en el suelo y meditando.\n\nRecitaba en voz muy baja un sutra y al acabarlo llenaba un barreño de madera con el agua de la fuente y se lo echaba por encima y volvía a recitar el siguiente sutra. Era un ejercicio que vio hacer al Monje Tang muchas veces. Decía que templaba mente y cuerpo, y Wukong necesitaba templar mucho ambas cosas**\n\n*Me estoy acostumbrando a enfocar el ki en la vista, pero apenas consigo aguantarlo un minuto... Luego mi vista queda borrosa... Debería dominarlo antes de...*\n\n**Un descomunal rugido interrumpió sus pensamientos. Venía de todas partes. El cielo se iluminó... Y no era por el amanecer, aún quedaban unos minutos**\n\n- maldito lagarto con complejo de gargantilla cara... Veo que te has cansado de esperar...\n\n**El mono se levantó, se secó un poco el cuerpo y volvió a vestirse con la parte de arriba de su túnica**\n\n- vale... Es lo que hay... Es de mala educación hacer esperar a los mayores...\n\n**Agarró su báculo, el cual estaba apoyado en un árbol cercano y se dirigió a la base**",
+      "mensaje_sha256": "9841f99748ca71411b394b29c00dd565930f0b4d7a3413824442e1ccef5e9fe5",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1458828350092214364",
+      "texto_sha256": "46e00df9a85f46e313d066171ffce80e161d53b34ccb75104a19c5354b6b9241",
+      "adjuntos": []
+    },
+    {
+      "id": "1458829763513684019",
+      "fecha_utc": "2026-01-08T14:28:39.368000+00:00",
+      "fecha_local": "2026-01-08",
+      "editado_utc": "2026-01-08T14:29:08.332000+00:00",
+      "texto": "Banzo : eeeeee ! \n**te tiran una piedrecita a la cabeza**\n\nNo pensaras ir a patear al culo a la lagartija sin avisarme no ? \n\nYo tambien quiero divertirme \n** te dice Banzo desde atras con una gram sonrrisa en la cara y uno de los bocadillos que preparo Sera **",
+      "mensaje_sha256": "10bf1bd258f5f64df1c8417f92f3729150eebd27fd16ee0b542194c76ddcc4e2",
+      "tipo_discord": 19,
+      "referencia": "1458828350092214364",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1458829763513684019",
+      "texto_sha256": "86ee1c08e8522d0a381e9359247f3462e087da3c9e806f621f9856929f9e4fe0",
+      "adjuntos": []
+    },
+    {
+      "id": "1458830506505404560",
+      "fecha_utc": "2026-01-08T14:31:36.511000+00:00",
+      "fecha_local": "2026-01-08",
+      "editado_utc": null,
+      "texto": "Arwen: **Saliendo como una arañita de la habitacion y callendo sobre la cabeza del mono** ¿Uy vamos a darle una paliza a un lagarto? ¿Puedo meterle las manos frias? Jejejeje eso siempre lo odian esos sangre fria",
+      "mensaje_sha256": "bf74b895121bed8b2cd0e7908543f4b23979483e20bdd8cd9cc49ade626f30ad",
+      "tipo_discord": 19,
+      "referencia": "1458828350092214364",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1458830506505404560",
+      "texto_sha256": "af6dbe5631448170b47e5f7d54f26d2bb0e7b1d0214a6338a60b667d7db34090",
+      "adjuntos": []
+    },
+    {
+      "id": "1458832534656913420",
+      "fecha_utc": "2026-01-08T14:39:40.060000+00:00",
+      "fecha_local": "2026-01-08",
+      "editado_utc": "2026-01-08T14:39:49.265000+00:00",
+      "texto": "Wukong\n\n- pero que dian... De donde salís vosotros?\n\n**Wukong dio un pequeño saltito por semejante asalto sorpresa a dos bandas, rompiendo la épica escena del Monje entrando lentamente a la base en plano contrapicado**\n\n- no soy tan suicida sabes grandullón? Nunca has oído que el cementerio está lleno de valientes?\n\n**Le guiña un ojo al goliath mientras levanta un poco el brazo izquierdo para que Arwen baje de su cabeza**\n\n- obviamente venía a esperar al resto... Un segundo Banzo... Tú no deberías estar ocupándote del tema del sur? Que se te ha perdido con el dragón dorado este?",
+      "mensaje_sha256": "98e9e1352e1a6527bba0057e8d06507ed2a79781d8536228b07f14b76620440b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1458832534656913420",
+      "texto_sha256": "dab28ac1defadb45fdea8c7dd15dbb9d7ec6c4c9118afd13c25f25d5f8afe635",
+      "adjuntos": []
+    },
+    {
+      "id": "1458833367255617679",
+      "fecha_utc": "2026-01-08T14:42:58.567000+00:00",
+      "fecha_local": "2026-01-08",
+      "editado_utc": null,
+      "texto": "Vespera: **A lo lejos se escucha un estornudo enorme... Un demonio vestido comp turista, con una gorra de \"I ❤️ Kuroto\", una camiseta se soy sexyjonante y unas sandalias de tanukitos se la ve pasar mientras todos huyen aterrados... Ella solo pasa contemplandolos comiendose un helado de vainilla** *¿Me he enfermado?*",
+      "mensaje_sha256": "71b29c94d779d054b16a5ce34de703b393258f9aafdfc1285aa10bfc1449ed74",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1458833367255617679",
+      "texto_sha256": "af1543f6107adbe705d41b72ccf867e794ec956f83b69c0ce753ca4b1ba7bc38",
+      "adjuntos": []
+    },
+    {
+      "id": "1458840014686519458",
+      "fecha_utc": "2026-01-08T15:09:23.438000+00:00",
+      "fecha_local": "2026-01-08",
+      "editado_utc": null,
+      "texto": "Wukong\n\n**Con cara de perplejidad absoluta**\n\n- pero que demonios... Y nunca mejor dicho...\n\n**Se gira a Banzo <@616683133374562304> **\n\n- colega, tú qué la conoces más que yo... Eso es normal en ella...?\n\n**Se asoma por la puerta y le levanta la mano tímidamente a la demonio intentando aguantar la risa**\n\n- ey... Señorita sexyjonante... Que haces por la capital...? Te imaginaba en el campamento del sur... Pff...",
+      "mensaje_sha256": "67dd6e92138d7a05cb0a5287d5a72b59742215c31458089fdac41e4844d4f29c",
+      "tipo_discord": 19,
+      "referencia": "1458833367255617679",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1458840014686519458",
+      "texto_sha256": "e75c70c7d6d5d087eff231becb6762cc3e4e2c611a27fbf6c711edf7a1e0d92b",
+      "adjuntos": []
+    },
+    {
+      "id": "1458844413240283268",
+      "fecha_utc": "2026-01-08T15:26:52.135000+00:00",
+      "fecha_local": "2026-01-08",
+      "editado_utc": null,
+      "texto": "Banzo : ya he hecho un par de visitas a ese escamao  \n\n**se alegra al.ver que Arwen aparece en plan escena vengadores \n\n\nPero arruga el.morro cuando ve llegar a Vespera a lo lejos ** \n\nYo me he escaqueado un poco del Sur pero aquella ?? \nQue pintas se supone que lleva , mira como corre la gente jajaja \n\n**se rie mientras se acerca a Wukong y Arwen **",
+      "mensaje_sha256": "4291c7162b48394b6c3d0a61cf831147241b034624bb1982cbfedd9beca2ddf8",
+      "tipo_discord": 19,
+      "referencia": "1458840014686519458",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1458844413240283268",
+      "texto_sha256": "0a2c7504029eee49818e8a23866fcf69bb6b47c261cfe8e05a83b47eb93da989",
+      "adjuntos": []
+    },
+    {
+      "id": "1458857442690596956",
+      "fecha_utc": "2026-01-08T16:18:38.598000+00:00",
+      "fecha_local": "2026-01-08",
+      "editado_utc": null,
+      "texto": "Arwen: mmmmhhhh huele a huevo podrido",
+      "mensaje_sha256": "69617760f769e72052ca6e7bf6c0aae921463103582e5d2cae80e82accc5e6e8",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1458857442690596956",
+      "texto_sha256": "49c04097cc950d171684e61c4cf614ed9e9d024e891302a4d206297efbfc64fa",
+      "adjuntos": []
+    },
+    {
+      "id": "1458891062482571388",
+      "fecha_utc": "2026-01-08T18:32:14.181000+00:00",
+      "fecha_local": "2026-01-08",
+      "editado_utc": null,
+      "texto": "Vespera: iba para alla, estaba pertrechandome...muchos cuando pasaba iban tirando cosas, supongo que estan muy involucrados con lo que esta sucediendo en el sur... De todos modos nos vemos en otro momento tengo tantas cosas ahora que he de conseguir una alforja en el campamento **Se despide con la mano y entra en el portal**",
+      "mensaje_sha256": "534eac888e8293ac9dcc983f05455818f6ba21a00f54d9bd0f623f6229f38e3f",
+      "tipo_discord": 19,
+      "referencia": "1458840014686519458",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1458891062482571388",
+      "texto_sha256": "e9b6e406511549aed778d4d22bd329c940490cef3def843f5cc3c0eb6afb73fa",
+      "adjuntos": []
+    },
+    {
+      "id": "1458891173530959974",
+      "fecha_utc": "2026-01-08T18:32:40.657000+00:00",
+      "fecha_local": "2026-01-08",
+      "editado_utc": null,
+      "texto": "👹 **Vespi fuera q esta no es tu partida**👹",
+      "mensaje_sha256": "0da87585d6da0d35bc694935f0cd3e816a91d4e86ee7351f94d6fe9eeb86d7ed",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1458891173530959974",
+      "texto_sha256": "0266f618f4fd80f8460a42540e6219e9a879f39f3b5fe95690573e63152a1ef3",
+      "adjuntos": []
+    }
+  ]
+}

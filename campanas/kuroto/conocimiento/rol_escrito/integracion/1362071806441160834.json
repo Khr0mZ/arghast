@@ -1,0 +1,970 @@
+{
+  "hilo_id": "1362071806441160834",
+  "hilo": "Base Ukyio - Sala principal",
+  "campana": "kuroto",
+  "unidades_leidas": 31,
+  "alcance": "Todas las partes del hilo asignado leídas completas y sus imágenes inspeccionadas. Apertura cartográfica excluida de acciones. Separación temporal aplicada a k-1366821829154705428 en tres subescenas sin mezclar grupos.",
+  "identidades": [
+    {
+      "nombre": "Xyllya",
+      "alias": [
+        "Chile",
+        "Chilia",
+        "Xyllya de Vol"
+      ],
+      "pruebas": [
+        "1372516005741330506",
+        "1446470493434675200",
+        "1423582281704018064"
+      ],
+      "nota": "Chile y Chilia son pronunciaciones de Arwen. De Vol es el apelativo de Illmarrow; no completar genealogía.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1372516005741330506",
+          "escena": "k-1372516005741330506",
+          "fecha_utc": "2025-05-15T10:08:35.883000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1372516005741330506"
+        },
+        {
+          "mensaje_id": "1446470493434675200",
+          "escena": "k-1446468715582324768",
+          "fecha_utc": "2025-12-05T11:57:19.757000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1446470493434675200"
+        },
+        {
+          "mensaje_id": "1423582281704018064",
+          "escena": "k-1423582281704018064",
+          "fecha_utc": "2025-10-03T08:07:44.838000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1423582281704018064"
+        }
+      ]
+    },
+    {
+      "nombre": "Casiopea",
+      "alias": [],
+      "pruebas": [
+        "1372545618521751583",
+        "1372550088072626187"
+      ],
+      "nota": "Madre fallecida de Arwen que habla mediante el contacto de Xyllya, sin resurrección física.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1372545618521751583",
+          "escena": "k-1372516005741330506",
+          "fecha_utc": "2025-05-15T12:06:16.120000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1372545618521751583"
+        },
+        {
+          "mensaje_id": "1372550088072626187",
+          "escena": "k-1372516005741330506",
+          "fecha_utc": "2025-05-15T12:24:01.744000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1372550088072626187"
+        }
+      ]
+    },
+    {
+      "nombre": "Cozzy",
+      "alias": [
+        "Coizzy",
+        "Cursi"
+      ],
+      "pruebas": [
+        "1378818353195385044",
+        "1378854762992238683"
+      ],
+      "nota": "Bufona que se recompone tras golpes; inmortal es interpretación de Banzo, no prueba universal.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1378818353195385044",
+          "escena": "k-1378812764230914190",
+          "fecha_utc": "2025-06-01T19:31:52.608000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1378818353195385044"
+        },
+        {
+          "mensaje_id": "1378854762992238683",
+          "escena": "k-1378812764230914190",
+          "fecha_utc": "2025-06-01T21:56:33.380000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1378854762992238683"
+        }
+      ]
+    },
+    {
+      "nombre": "Kim",
+      "alias": [],
+      "pruebas": [
+        "1365242192767094846"
+      ],
+      "nota": "Nombre del bebé al que atiende Danifae.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1365242192767094846",
+          "escena": "k-1365228537895714898",
+          "fecha_utc": "2025-04-25T08:25:03.729000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1365242192767094846"
+        }
+      ]
+    },
+    {
+      "nombre": "Rompedrolos",
+      "alias": [],
+      "pruebas": [
+        "1378433071191298199"
+      ],
+      "nota": "Pico de Corko, no personaje.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1378433071191298199",
+          "escena": "k-1378017405070082229",
+          "fecha_utc": "2025-05-31T18:00:54.220000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1378433071191298199"
+        }
+      ]
+    },
+    {
+      "nombre": "Nox",
+      "alias": [],
+      "pruebas": [
+        "1414886925239717898",
+        "1414917257724690563"
+      ],
+      "nota": "Droga de Kuroto. Mantener completamente separada del personaje de Xoltacan.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1414886925239717898",
+          "escena": "k-1414884529839144991",
+          "fecha_utc": "2025-09-09T08:15:30.305000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1414886925239717898"
+        },
+        {
+          "mensaje_id": "1414917257724690563",
+          "escena": "k-1414884529839144991",
+          "fecha_utc": "2025-09-09T10:16:02.133000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1414917257724690563"
+        }
+      ]
+    },
+    {
+      "nombre": "Yiccardaria",
+      "alias": [],
+      "pruebas": [
+        "1438418459686862858"
+      ],
+      "nota": "Yochlol que adopta formas viscosa, drow y araña.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1438418459686862858",
+          "escena": "k-1438418459686862858",
+          "fecha_utc": "2025-11-13T06:41:25.312000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1438418459686862858"
+        }
+      ]
+    }
+  ],
+  "arcos": [
+    {
+      "nombre": "Wukong y la exclusión de Rúa",
+      "avance": "Se explicitan expulsión y restricciones de las bendiciones. El dragón no las repara hasta que siga el camino de Tang. Wukong pierde mapas y documentos del monte; encuentra ayuda y teorías, sin localizar al ladrón.",
+      "pruebas": [
+        "1362365023296552981",
+        "1362862647829201117",
+        "1364518847050154085",
+        "1364894440053018645",
+        "1365302645375635476"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1362365023296552981",
+          "escena": "k-1362327089637752893",
+          "fecha_utc": "2025-04-17T09:52:13.072000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1362365023296552981"
+        },
+        {
+          "mensaje_id": "1362862647829201117",
+          "escena": "k-1362766931131629740",
+          "fecha_utc": "2025-04-18T18:49:36.006000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1362862647829201117"
+        },
+        {
+          "mensaje_id": "1364518847050154085",
+          "escena": "k-1364511914800971796",
+          "fecha_utc": "2025-04-23T08:30:44.671000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1364518847050154085"
+        },
+        {
+          "mensaje_id": "1364894440053018645",
+          "escena": "k-1364886891161325602",
+          "fecha_utc": "2025-04-24T09:23:13.021000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1364894440053018645"
+        },
+        {
+          "mensaje_id": "1365302645375635476",
+          "escena": "k-1365228537895714898",
+          "fecha_utc": "2025-04-25T12:25:16.754000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1365302645375635476"
+        }
+      ]
+    },
+    {
+      "nombre": "Escasez y sospechas políticas",
+      "avance": "Gur recupera armas reparadas y deja dinero adicional. Se habla de limitación de recursos. La investigación de Kalista propone veneno acumulativo y recibe informes de Danifae, sin demostrar en este hilo que el shogun fuera envenenado. Más tarde se confirma su muerte.",
+      "pruebas": [
+        "1363478569065648179",
+        "1363837844451491840",
+        "1367072038677647370",
+        "1367089919628939326",
+        "1367152978141777942",
+        "1367794491720990762"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1363478569065648179",
+          "escena": "k-1363253850307559665",
+          "fecha_utc": "2025-04-20T11:37:03.072000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1363478569065648179"
+        },
+        {
+          "mensaje_id": "1363837844451491840",
+          "escena": "k-1363832402232741998",
+          "fecha_utc": "2025-04-21T11:24:40.999000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1363837844451491840"
+        },
+        {
+          "mensaje_id": "1367072038677647370",
+          "escena": "k-1367062267602010122",
+          "fecha_utc": "2025-04-30T09:36:12.991000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1367072038677647370"
+        },
+        {
+          "mensaje_id": "1367089919628939326",
+          "escena": "k-1367062267602010122",
+          "fecha_utc": "2025-04-30T10:47:16.142000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1367089919628939326"
+        },
+        {
+          "mensaje_id": "1367152978141777942",
+          "escena": "k-1367062267602010122",
+          "fecha_utc": "2025-04-30T14:57:50.463000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1367152978141777942"
+        },
+        {
+          "mensaje_id": "1367794491720990762",
+          "escena": "k-1367794491720990762",
+          "fecha_utc": "2025-05-02T09:26:59.219000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1367794491720990762"
+        }
+      ]
+    },
+    {
+      "nombre": "Comunicación entre bases",
+      "avance": "El repetidor de Archi y Ralph alcanza a Guxi un momento antes de quemarse. Una prueba posterior de Guxi funciona y transmite accidentalmente el coqueteo de Archi y Cozzy. Las instalaciones de palacio y sur siguen planeadas.",
+      "pruebas": [
+        "1374376721456824351",
+        "1374380643936505968",
+        "1402272417166135346",
+        "1402280837227221042"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1374376721456824351",
+          "escena": "k-1374313364607598612",
+          "fecha_utc": "2025-05-20T13:22:25.080000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1374376721456824351"
+        },
+        {
+          "mensaje_id": "1374380643936505968",
+          "escena": "k-1374313364607598612",
+          "fecha_utc": "2025-05-20T13:38:00.272000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1374380643936505968"
+        },
+        {
+          "mensaje_id": "1402272417166135346",
+          "escena": "k-1402262741057671258",
+          "fecha_utc": "2025-08-05T12:49:57.214000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1402272417166135346"
+        },
+        {
+          "mensaje_id": "1402280837227221042",
+          "escena": "k-1402262741057671258",
+          "fecha_utc": "2025-08-05T13:23:24.713000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1402280837227221042"
+        }
+      ]
+    },
+    {
+      "nombre": "Plata, garra y brújula",
+      "avance": "Corko encuentra plata suficiente y acepta ayudar si puede probar la brújula en busca del Osotopo. Jhin entrega materiales y consulta una garra atribuida a un dragón lunar; el herrero lo remite al forjador del shogunato.",
+      "pruebas": [
+        "1378433071191298199",
+        "1378449981341569054",
+        "1380488588650872932",
+        "1380489278135603230"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1378433071191298199",
+          "escena": "k-1378017405070082229",
+          "fecha_utc": "2025-05-31T18:00:54.220000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1378433071191298199"
+        },
+        {
+          "mensaje_id": "1378449981341569054",
+          "escena": "k-1378017405070082229",
+          "fecha_utc": "2025-05-31T19:08:05.914000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1378449981341569054"
+        },
+        {
+          "mensaje_id": "1380488588650872932",
+          "escena": "k-1380482823005143130",
+          "fecha_utc": "2025-06-06T10:08:47.772000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380488588650872932"
+        },
+        {
+          "mensaje_id": "1380489278135603230",
+          "escena": "k-1380482823005143130",
+          "fecha_utc": "2025-06-06T10:11:32.158000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380489278135603230"
+        }
+      ]
+    },
+    {
+      "nombre": "Arwen, Xyllya e Illmarrow",
+      "avance": "Arwen rechaza que su alma pertenezca a Xyllya y ambas pactan amistad. Xyllya canaliza a Casiopea. Durante el ritual del bosque una presencia la controla; Arwen la libera y crea una barrera. Illmarrow luego llama a Xyllya de Vol y Arwen escucha órdenes para buscar a la portadora de la Marca como nuevo cuerpo. La pesadilla de Xyllya no acredita una muerte real de Arwen. Después del combate ausente, Jhin y la niña entierran a Xyllya; de la tumba brota una raíz. El último mensaje muestra a Arwen cuidando un manzano.",
+      "pruebas": [
+        "1372530629027037266",
+        "1372558986674438185",
+        "1412460805915414578",
+        "1412493683298668656",
+        "1423582281704018064",
+        "1425120146065723535",
+        "1437437542982221845",
+        "1446471677281308822",
+        "1446484044635181328",
+        "1461012747494883432"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1372530629027037266",
+          "escena": "k-1372516005741330506",
+          "fecha_utc": "2025-05-15T11:06:42.346000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1372530629027037266"
+        },
+        {
+          "mensaje_id": "1372558986674438185",
+          "escena": "k-1372516005741330506",
+          "fecha_utc": "2025-05-15T12:59:23.336000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1372558986674438185"
+        },
+        {
+          "mensaje_id": "1412460805915414578",
+          "escena": "k-1412450155902275657",
+          "fecha_utc": "2025-09-02T15:34:58.383000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1412460805915414578"
+        },
+        {
+          "mensaje_id": "1412493683298668656",
+          "escena": "k-1412450155902275657",
+          "fecha_utc": "2025-09-02T17:45:36.962000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1412493683298668656"
+        },
+        {
+          "mensaje_id": "1423582281704018064",
+          "escena": "k-1423582281704018064",
+          "fecha_utc": "2025-10-03T08:07:44.838000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1423582281704018064"
+        },
+        {
+          "mensaje_id": "1425120146065723535",
+          "escena": "k-1425102416080015422",
+          "fecha_utc": "2025-10-07T13:58:40.274000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1425120146065723535"
+        },
+        {
+          "mensaje_id": "1437437542982221845",
+          "escena": "k-1437437542982221845",
+          "fecha_utc": "2025-11-10T13:43:36.545000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1437437542982221845"
+        },
+        {
+          "mensaje_id": "1446471677281308822",
+          "escena": "k-1446468715582324768",
+          "fecha_utc": "2025-12-05T12:02:02.008000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1446471677281308822"
+        },
+        {
+          "mensaje_id": "1446484044635181328",
+          "escena": "k-1446468715582324768",
+          "fecha_utc": "2025-12-05T12:51:10.615000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1446484044635181328"
+        },
+        {
+          "mensaje_id": "1461012747494883432",
+          "escena": "k-1461012747494883432",
+          "fecha_utc": "2026-01-14T15:03:03.307000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1461012747494883432"
+        }
+      ]
+    },
+    {
+      "nombre": "Investigación del Nox",
+      "avance": "Jan identifica raíz de Medianoche y esporas de setas Susurrantes. Lady Irisse propone por el olor polvo de hada élfica y obliga a Kazuki a pensar en la red de distribución. No hay antídoto ni responsable capturado.",
+      "pruebas": [
+        "1414886925239717898",
+        "1414917257724690563",
+        "1414928201083256895",
+        "1414934590585307146"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1414886925239717898",
+          "escena": "k-1414884529839144991",
+          "fecha_utc": "2025-09-09T08:15:30.305000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1414886925239717898"
+        },
+        {
+          "mensaje_id": "1414917257724690563",
+          "escena": "k-1414884529839144991",
+          "fecha_utc": "2025-09-09T10:16:02.133000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1414917257724690563"
+        },
+        {
+          "mensaje_id": "1414928201083256895",
+          "escena": "k-1414884529839144991",
+          "fecha_utc": "2025-09-09T10:59:31.233000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1414928201083256895"
+        },
+        {
+          "mensaje_id": "1414934590585307146",
+          "escena": "k-1414884529839144991",
+          "fecha_utc": "2025-09-09T11:24:54.609000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1414934590585307146"
+        }
+      ]
+    },
+    {
+      "nombre": "La amenaza del bosque",
+      "avance": "Arwen no puede revertir la miasma y descubre una horda. Los soldados evacuan a habitantes y yokais por orden de la shogun; Chanecuxtli lleva suministros y pide ayuda. Danifae aparece mutilada y dependiente de Yiccardaria, culpando a la lich de Vol.",
+      "pruebas": [
+        "1425112417939226685",
+        "1425119057014816799",
+        "1437869885588766873",
+        "1437872265869000734",
+        "1438418459686862858"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1425112417939226685",
+          "escena": "k-1425102416080015422",
+          "fecha_utc": "2025-10-07T13:27:57.745000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1425112417939226685"
+        },
+        {
+          "mensaje_id": "1425119057014816799",
+          "escena": "k-1425102416080015422",
+          "fecha_utc": "2025-10-07T13:54:20.624000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1425119057014816799"
+        },
+        {
+          "mensaje_id": "1437869885588766873",
+          "escena": "k-1437865614000787658",
+          "fecha_utc": "2025-11-11T18:21:35.055000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1437869885588766873"
+        },
+        {
+          "mensaje_id": "1437872265869000734",
+          "escena": "k-1437865614000787658",
+          "fecha_utc": "2025-11-11T18:31:02.558000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1437872265869000734"
+        },
+        {
+          "mensaje_id": "1438418459686862858",
+          "escena": "k-1438418459686862858",
+          "fecha_utc": "2025-11-13T06:41:25.312000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1438418459686862858"
+        }
+      ]
+    },
+    {
+      "nombre": "Otra historia de Kuroto",
+      "avance": "Seraphina relaciona una visión de yokais y barcos con la sospecha de que alguien divide al grupo. Ella y Guxi consideran preguntar a yokais, iglesia o espíritus antiguos; no resuelven la historia ni quién está detrás de Ootakemaru.",
+      "pruebas": [
+        "1444002241341292544",
+        "1444003652875456622",
+        "1444007969921437737"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1444002241341292544",
+          "escena": "k-1443995155228135525",
+          "fecha_utc": "2025-11-28T16:29:22.600000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1444002241341292544"
+        },
+        {
+          "mensaje_id": "1444003652875456622",
+          "escena": "k-1443995155228135525",
+          "fecha_utc": "2025-11-28T16:34:59.136000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1444003652875456622"
+        },
+        {
+          "mensaje_id": "1444007969921437737",
+          "escena": "k-1443995155228135525",
+          "fecha_utc": "2025-11-28T16:52:08.400000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1444007969921437737"
+        }
+      ]
+    }
+  ],
+  "pendientes": [
+    {
+      "pregunta": "¿Quién tomó los documentos del monte y con qué propósito?",
+      "pruebas": [
+        "1364894440053018645",
+        "1365311551313018933"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1364894440053018645",
+          "escena": "k-1364886891161325602",
+          "fecha_utc": "2025-04-24T09:23:13.021000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1364894440053018645"
+        },
+        {
+          "mensaje_id": "1365311551313018933",
+          "escena": "k-1365228537895714898",
+          "fecha_utc": "2025-04-25T13:00:40.095000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1365311551313018933"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Se demuestra la hipótesis de envenenamiento o el vínculo de los recortes con la crisis política?",
+      "pruebas": [
+        "1367072038677647370",
+        "1367089919628939326"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1367072038677647370",
+          "escena": "k-1367062267602010122",
+          "fecha_utc": "2025-04-30T09:36:12.991000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1367072038677647370"
+        },
+        {
+          "mensaje_id": "1367089919628939326",
+          "escena": "k-1367062267602010122",
+          "fecha_utc": "2025-04-30T10:47:16.142000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1367089919628939326"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué revelan exactamente los informes de Danifae y por qué Jelbreg interrumpe a Kalista?",
+      "pruebas": [
+        "1367152978141777942",
+        "1367245981565063310"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1367152978141777942",
+          "escena": "k-1367062267602010122",
+          "fecha_utc": "2025-04-30T14:57:50.463000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1367152978141777942"
+        },
+        {
+          "mensaje_id": "1367245981565063310",
+          "escena": "k-1367245401073389599",
+          "fecha_utc": "2025-04-30T21:07:24.207000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1367245981565063310"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Puede recuperarse a Shirz con el artefacto, y dónde está la brújula o cómo funciona?",
+      "pruebas": [
+        "1367853346962014452",
+        "1378439174138495027"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1367853346962014452",
+          "escena": "k-1367811819233738752",
+          "fecha_utc": "2025-05-02T13:20:51.402000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1367853346962014452"
+        },
+        {
+          "mensaje_id": "1378439174138495027",
+          "escena": "k-1378017405070082229",
+          "fecha_utc": "2025-05-31T18:25:09.276000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1378439174138495027"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Se busca al Osotopo y se transforma la plata o la garra lunar?",
+      "pruebas": [
+        "1378449981341569054",
+        "1380489278135603230"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1378449981341569054",
+          "escena": "k-1378017405070082229",
+          "fecha_utc": "2025-05-31T19:08:05.914000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1378449981341569054"
+        },
+        {
+          "mensaje_id": "1380489278135603230",
+          "escena": "k-1380482823005143130",
+          "fecha_utc": "2025-06-06T10:11:32.158000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380489278135603230"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué es Cozzy, quién reclama su cabeza y cumple su promesa sobre las mentes de los amigos?",
+      "pruebas": [
+        "1378831960746492005",
+        "1378854981129601066"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1378831960746492005",
+          "escena": "k-1378812764230914190",
+          "fecha_utc": "2025-06-01T20:25:56.901000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1378831960746492005"
+        },
+        {
+          "mensaje_id": "1378854981129601066",
+          "escena": "k-1378812764230914190",
+          "fecha_utc": "2025-06-01T21:57:25.388000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1378854981129601066"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué pasó con Kalista y Jelbreg antes de la conversación de Hakahara?",
+      "pruebas": [
+        "1380453818969489449",
+        "1380460119367880704"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1380453818969489449",
+          "escena": "k-1380432044462575617",
+          "fecha_utc": "2025-06-06T07:50:38.034000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380453818969489449"
+        },
+        {
+          "mensaje_id": "1380460119367880704",
+          "escena": "k-1380432044462575617",
+          "fecha_utc": "2025-06-06T08:15:40.166000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1380460119367880704"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Se amplía la red y se celebra la cita de Archi y Cozzy?",
+      "pruebas": [
+        "1402266795498536981",
+        "1402280837227221042"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1402266795498536981",
+          "escena": "k-1402262741057671258",
+          "fecha_utc": "2025-08-05T12:27:36.904000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1402266795498536981"
+        },
+        {
+          "mensaje_id": "1402280837227221042",
+          "escena": "k-1402262741057671258",
+          "fecha_utc": "2025-08-05T13:23:24.713000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1402280837227221042"
+        }
+      ],
+      "cotejo_posterior": {
+        "estado": "parcial",
+        "respuesta": "Base Sho muestra el 15 de agosto de 2025 una prueba de comunicación de voz: Guxi pregunta si Banzo lo oye y el goliat lo confirma. Queda acreditado ese enlace concreto.",
+        "pendiente": "La prueba no demuestra cobertura universal ni todas las instalaciones planeadas. Tampoco resuelve por sí sola si se celebró la cita concreta anunciada por Archi y Cozzy.",
+        "pruebas": [
+          "1405950095035338772",
+          "1405962101503299705"
+        ],
+        "orden_temporal": "posterior",
+        "fuentes_rol": [
+          {
+            "mensaje_id": "1405950095035338772",
+            "escena": "k-1405870033955061823",
+            "fecha_utc": "2025-08-15T16:23:43.946000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1405950095035338772"
+          },
+          {
+            "mensaje_id": "1405962101503299705",
+            "escena": "k-1405870033955061823",
+            "fecha_utc": "2025-08-15T17:11:26.511000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1405962101503299705"
+          }
+        ]
+      }
+    },
+    {
+      "pregunta": "¿Cuál es la composición definitiva del Nox, su antídoto y su red de tráfico?",
+      "pruebas": [
+        "1414917257724690563",
+        "1414928201083256895"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1414917257724690563",
+          "escena": "k-1414884529839144991",
+          "fecha_utc": "2025-09-09T10:16:02.133000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1414917257724690563"
+        },
+        {
+          "mensaje_id": "1414928201083256895",
+          "escena": "k-1414884529839144991",
+          "fecha_utc": "2025-09-09T10:59:31.233000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1414928201083256895"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién es la figura de tres ojos y encuentra a Tang o Wukong?",
+      "pruebas": [
+        "1441527231854805033"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1441527231854805033",
+          "escena": "k-1441527231854805033",
+          "fecha_utc": "2025-11-21T20:34:34.355000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1441527231854805033"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué función tiene el caldero de Arwen y cómo evoluciona el manzano protegido?",
+      "pruebas": [
+        "1461012747494883432"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1461012747494883432",
+          "escena": "k-1461012747494883432",
+          "fecha_utc": "2026-01-14T15:03:03.307000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1461012747494883432"
+        }
+      ]
+    }
+  ],
+  "relaciones": [
+    {
+      "personas": [
+        "Arwen",
+        "Xyllya"
+      ],
+      "desarrollo": "Amistad expresamente aceptada en vez de propiedad del alma. Contacto con Casiopea, cuidados mutuos y posterior duelo de Arwen.",
+      "pruebas": [
+        "1372530629027037266",
+        "1372558986674438185",
+        "1412493683298668656",
+        "1446473461781368918"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1372530629027037266",
+          "escena": "k-1372516005741330506",
+          "fecha_utc": "2025-05-15T11:06:42.346000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1372530629027037266"
+        },
+        {
+          "mensaje_id": "1372558986674438185",
+          "escena": "k-1372516005741330506",
+          "fecha_utc": "2025-05-15T12:59:23.336000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1372558986674438185"
+        },
+        {
+          "mensaje_id": "1412493683298668656",
+          "escena": "k-1412450155902275657",
+          "fecha_utc": "2025-09-02T17:45:36.962000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1412493683298668656"
+        },
+        {
+          "mensaje_id": "1446473461781368918",
+          "escena": "k-1446468715582324768",
+          "fecha_utc": "2025-12-05T12:09:07.466000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1446473461781368918"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Jhin",
+        "Arwen"
+      ],
+      "desarrollo": "Apoyo protector y cariño recíproco durante el entierro. Papá Jhin no prueba parentesco biológico.",
+      "pruebas": [
+        "1446475528604225668",
+        "1446478411982704791"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1446475528604225668",
+          "escena": "k-1446468715582324768",
+          "fecha_utc": "2025-12-05T12:17:20.235000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1446475528604225668"
+        },
+        {
+          "mensaje_id": "1446478411982704791",
+          "escena": "k-1446468715582324768",
+          "fecha_utc": "2025-12-05T12:28:47.686000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1446478411982704791"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Guxi",
+        "Seraphina"
+      ],
+      "desarrollo": "Pareja que expresa afecto, celos y futuro compartido mientras prepara investigar. Los golpes y amenazas son conductas narradas, no criterio de vínculo sano.",
+      "pruebas": [
+        "1443997726885810226",
+        "1444017125793468619",
+        "1444019118692106240"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1443997726885810226",
+          "escena": "k-1443995155228135525",
+          "fecha_utc": "2025-11-28T16:11:26.270000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1443997726885810226"
+        },
+        {
+          "mensaje_id": "1444017125793468619",
+          "escena": "k-1443995155228135525",
+          "fecha_utc": "2025-11-28T17:28:31.330000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1444017125793468619"
+        },
+        {
+          "mensaje_id": "1444019118692106240",
+          "escena": "k-1443995155228135525",
+          "fecha_utc": "2025-11-28T17:36:26.474000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1444019118692106240"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Archi",
+        "Cozzy"
+      ],
+      "desarrollo": "Coqueteo y cita aceptada, sin mostrar su realización.",
+      "pruebas": [
+        "1402266486164291695",
+        "1402266795498536981"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1402266486164291695",
+          "escena": "k-1402262741057671258",
+          "fecha_utc": "2025-08-05T12:26:23.153000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1402266486164291695"
+        },
+        {
+          "mensaje_id": "1402266795498536981",
+          "escena": "k-1402262741057671258",
+          "fecha_utc": "2025-08-05T12:27:36.904000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1402266795498536981"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Gur",
+        "Cozzy"
+      ],
+      "desarrollo": "Oferta de ayuda a cambio de diversión, condicionada a no manipular las mentes de sus amigos. No se narran actos íntimos.",
+      "pruebas": [
+        "1378854353011474544",
+        "1378854762992238683",
+        "1378854981129601066"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1378854353011474544",
+          "escena": "k-1378812764230914190",
+          "fecha_utc": "2025-06-01T21:54:55.633000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1378854353011474544"
+        },
+        {
+          "mensaje_id": "1378854762992238683",
+          "escena": "k-1378812764230914190",
+          "fecha_utc": "2025-06-01T21:56:33.380000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1378854762992238683"
+        },
+        {
+          "mensaje_id": "1378854981129601066",
+          "escena": "k-1378812764230914190",
+          "fecha_utc": "2025-06-01T21:57:25.388000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1378854981129601066"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Danifae",
+        "Yiccardaria"
+      ],
+      "desarrollo": "Rescate bajo amenaza y dependencia; Danifae piensa privadamente en matarla.",
+      "pruebas": [
+        "1438418459686862858"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1438418459686862858",
+          "escena": "k-1438418459686862858",
+          "fecha_utc": "2025-11-13T06:41:25.312000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1438418459686862858"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Kazuki",
+        "Lady Irisse"
+      ],
+      "desarrollo": "Antiguo alumno y maestra, que lo orienta mediante preguntas sin resolver su investigación.",
+      "pruebas": [
+        "1414900320278024262",
+        "1414933665938411650"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1414900320278024262",
+          "escena": "k-1414884529839144991",
+          "fecha_utc": "2025-09-09T09:08:43.931000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1414900320278024262"
+        },
+        {
+          "mensaje_id": "1414933665938411650",
+          "escena": "k-1414884529839144991",
+          "fecha_utc": "2025-09-09T11:21:14.156000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1414933665938411650"
+        }
+      ]
+    }
+  ],
+  "precauciones_editoriales": [
+    "La localización escrita prevalece frente al nombre del hilo cuando se declara otro lugar.",
+    "No completar batallas ni muertes a partir de recuerdos o secuelas.",
+    "La genealogía de Xyllya se conserva como afirmación de Illmarrow, sin añadir ascendientes.",
+    "La pesadilla de Arwen no convierte su muerte en un hecho.",
+    "El entierro y la raíz no equivalen a resurrección.",
+    "La magia dorada, la voz final y los pensamientos privados no se atribuyen al conocimiento de todos.",
+    "La figura de tres ojos no se identifica usando mitología externa.",
+    "Las teorías de veneno, tráfico e historia antigua conservan su grado de certeza."
+  ],
+  "estado_seguimiento": "al_cierre_del_hilo",
+  "nota_seguimiento": "Cada cuestión conserva el contexto de sus mensajes originales. Los cotejos enlazan las respuestas halladas en otras escenas; la ausencia de un cotejo no demuestra que siga abierta después de otros capítulos.",
+  "fecha_hasta_utc": "2026-01-14T15:03:03.307000+00:00"
+}

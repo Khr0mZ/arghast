@@ -1,0 +1,373 @@
+{
+  "id": "k-1408751157182070784",
+  "campana": "kuroto",
+  "unidad_revision": "k-1408751157182070784",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "Sospechas sobre las esferas y el Nox",
+  "resumen": "Banzo comparte con Jelbreg sus temores sobre una marca y las esferas; ambos plantean recurrir a Kazuki para investigar el Nox.",
+  "relato": "De camino al campamento, Banzo pregunta a Jelbreg por unos ojos afilados y una marca de araña muerta que asegura haber visto en las celdas. Relaciona ambos detalles con las esferas y con un posible plan de Brithya contra Kalista, pero no logra demostrar esa conexión. Jelbreg intenta calmarlo, atribuye la percepción al agotamiento como posibilidad y propone averiguar primero para qué sirven los objetos. Su propia inquietud se deja notar, igual que su resentimiento contra un tritón por acercarse a Kalista.\n\nLa conversación deriva hacia el Nox. Jelbreg recuerda los cultistas encontrados junto a una posible fábrica y los emblemas de cajas que, según Kalista, pertenecían a mercaderes del Puerto de las Espadas. Quiere consultar a Kazuki por sus contactos y por su relación con el Feywild: la procedencia feérica de los ingredientes es una hipótesis, no un hallazgo. Acuerda enviarle una misiva y pide a Banzo que lo avise si lo encuentra.\n\nAntes de cerrar, pregunta por la expresión que Banzo mostró durante un combate anterior. El goliat responde que aquello no ha desaparecido, aunque puede dirigirlo contra el enemigo, y bromea con conservar la otra mano. No se identifica de forma explícita la naturaleza de ese problema.",
+  "participantes": [
+    "Banzo",
+    "Jelbreg"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1408757208056987770",
+      "afirmacion": "Banzo interpreta unos ojos y una marca como posibles indicios de un plan relacionado con las esferas.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1408807022438252674",
+      "afirmacion": "Jelbreg recuerda informes de cajas con emblemas de mercaderes junto a una posible fábrica de Nox.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1408810575928230039",
+      "afirmacion": "Jelbreg plantea una procedencia feérica de los ingredientes como hipótesis.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1408881107444695102",
+      "afirmacion": "Jelbreg anuncia que enviará una misiva a Kazuki.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1409198086244536463",
+      "afirmacion": "Banzo afirma que el problema aludido continúa, aunque puede focalizarlo en el enemigo.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "No se identifica el objeto al que Banzo señala ni se convierte su sospecha sobre la marca en una maldición comprobada.",
+    "El envío efectivo de la misiva y el origen del Nox no se muestran.",
+    "El pensamiento de Banzo sobre el enfado de Jelbreg permanece privado."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-08-23T09:54:09.203000+00:00",
+  "fin_utc": "2025-08-24T17:17:52.032000+00:00",
+  "fecha_local": "2025-08-23",
+  "intervalo": {
+    "anterior": 149,
+    "siguiente": 150,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1408510610769182751",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1409597246030483518",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 149,
+        "fecha": "2025-08-22",
+        "inicio_referencia_utc": "2025-08-22T17:58:06+00:00",
+        "fin_estimado_utc": "2025-08-22T21:18:32+00:00",
+        "duracion_video_segundos": 12026,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1408510610769182751"
+      },
+      {
+        "capitulo": 150,
+        "fecha": "2025-08-25",
+        "inicio_referencia_utc": "2025-08-25T17:56:00+00:00",
+        "fin_estimado_utc": "2025-08-25T20:50:48+00:00",
+        "duracion_video_segundos": 10488,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1409597246030483518"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1408751157182070784",
+      "fecha_utc": "2025-08-23T09:54:09.203000+00:00",
+      "fecha_local": "2025-08-23",
+      "editado_utc": null,
+      "texto": "**Jelbreg y Banzo se quedaron algo mas atras del grupo para ir comentando algo antes de llegar al campamento ** \n\nBanzo : Nunca le había visto esos ojos Jel ... te fijaste ? En las celdas digo ...",
+      "mensaje_sha256": "0a40ec5886057f6d834e1ad34492623268a81717c6cbac05b6ba7fe4ac8af9d0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1408751157182070784",
+      "texto_sha256": "f2910011a095d377dbcd7d5f0656ddb6830543637e84a7d31e686cfbea718359",
+      "adjuntos": []
+    },
+    {
+      "id": "1408752849248190566",
+      "fecha_utc": "2025-08-23T10:00:52.623000+00:00",
+      "fecha_local": "2025-08-23",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Levanta una ceja extrañado mientras los dos avanzan caminando hacia el campamento sur** ¿Los ojos?",
+      "mensaje_sha256": "273959c3b2a5c34e2ff548520d43eeeb5fcf4e70a9f983e15a2409153fd268a4",
+      "tipo_discord": 19,
+      "referencia": "1408751157182070784",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1408752849248190566",
+      "texto_sha256": "ef8d3b7413a7b52a414aa47fd09ce450e90d623bd5baf43ebaf262f5f9fc7e68",
+      "adjuntos": []
+    },
+    {
+      "id": "1408757208056987770",
+      "fecha_utc": "2025-08-23T10:18:11.844000+00:00",
+      "fecha_local": "2025-08-23",
+      "editado_utc": "2025-08-23T10:21:37.635000+00:00",
+      "texto": "Banzo : Afilados Jel ... \nComo los de ... losnde un dragón, una serpiente , un demonio ... \nY esa marca ... esa araña muerta ... que es eso . \nLa habrán marcado , una maldicion? Una puerta ...?  por eso la han mandado aqui ?  Cual es  la relación con la esferas ... \n\nArrrrrg **hace un pequeño rugido llevándose las manos a la cabeza ** \nTodo tiene relación.  Brithya tenia prisa por que consiga las esferas , o sea que están relacionadas 100 por 100 con la diosa araña . \nEsa bruja tiene un plan . No me la creo . \nIrá a por kalista primero y luego ira por nosotros ....\n**su cara es de ira ** \nCuanto control tiene ella sobre ... \nSobre ... sobre eso? . **vemos que banzo señala algo , pero si esto fuese una peli,  la cámara no nos enseñaría el que , solo algunos podrían atisbar a que se refiere **",
+      "mensaje_sha256": "62cbacd7c754bdb15bba9ff0517be17d9f0703439263f2154086af05c8bc4c8f",
+      "tipo_discord": 19,
+      "referencia": "1408752849248190566",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1408757208056987770",
+      "texto_sha256": "80720b6506c858f3927ffb094739da4f72f8466e2f49c703b90bfbd290b14b0b",
+      "adjuntos": []
+    },
+    {
+      "id": "1408759563733438526",
+      "fecha_utc": "2025-08-23T10:27:33.481000+00:00",
+      "fecha_local": "2025-08-23",
+      "editado_utc": null,
+      "texto": "Jelbreg: Eh eh! Tranquilo **Dice el drow intentando calmarte pero lo ves algo preocupado** Estas agotado, quizá el cansancio te ha jugado una mala pasada y has visto cosas que no son así **Ves que niega con la cabeza** No sabemos nada de las esferas por el momento y va siendo hora de que empezamos a ocuparnos de ello. Primero averigüemos para que sirven, y con ello tendremos más pistas para que los puede necesitar Danifae",
+      "mensaje_sha256": "b1b3550fdfab856401c28b1587deb6391884029b0f3f972694ee7f8b24650b68",
+      "tipo_discord": 19,
+      "referencia": "1408757208056987770",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1408759563733438526",
+      "texto_sha256": "421449267717143e76a8d7e99aeb1f27d5441f1bc90f6527ae4a177418f0fd89",
+      "adjuntos": []
+    },
+    {
+      "id": "1408762351808942201",
+      "fecha_utc": "2025-08-23T10:38:38.210000+00:00",
+      "fecha_local": "2025-08-23",
+      "editado_utc": null,
+      "texto": "Banzo : sisi ... es cierto . \nEntonces... no te dice nada eso de los ojos verdad ..  \nSerá mejor que vayamos bajando ya al campamento . Al fin y al cabo eres el guardian **te sonrrie **",
+      "mensaje_sha256": "5f6b8c40483804193f1125529f716f0def103fcdc2cff422a989df34eda685d2",
+      "tipo_discord": 19,
+      "referencia": "1408759563733438526",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1408762351808942201",
+      "texto_sha256": "9fc085ef2192ad2715f8491acc6897d3651970513fc9a1383b566e8e136d0942",
+      "adjuntos": []
+    },
+    {
+      "id": "1408765511797444648",
+      "fecha_utc": "2025-08-23T10:51:11.610000+00:00",
+      "fecha_local": "2025-08-23",
+      "editado_utc": null,
+      "texto": "Jelbreg: No se que puede ser... Seguro que estás bien? Se te ve cansado y quizá ves cosas... **Dice el drow mientras te coloca una mano en el brazo para calmarte, o quizá para calmarse él mismo** Si vayamos para allí... **Mira hacia delante pero te percata de que está apretando el puño y se le frunce un poco el ceño**",
+      "mensaje_sha256": "2681e3170865a285b25cd7f11828d201c51f7b5b5292b03d835973fb24289ba4",
+      "tipo_discord": 19,
+      "referencia": "1408762351808942201",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1408765511797444648",
+      "texto_sha256": "bb62efbf2f8589b17fffd1d30ea1c4b5e5e81b23c7a4a62a4de90e0d29c08aa1",
+      "adjuntos": []
+    },
+    {
+      "id": "1408779002604425227",
+      "fecha_utc": "2025-08-23T11:44:48.069000+00:00",
+      "fecha_local": "2025-08-23",
+      "editado_utc": null,
+      "texto": "Banzo : *se habrá enfadado por no dejarle ir con kalista...y entretenerle por tonterias... quizá tengas razón estoy algo cansado*",
+      "mensaje_sha256": "8eaf1c719dec93955ecdf2ee37a2f17488c9331019ac8d5afb48b9ea455ae55f",
+      "tipo_discord": 19,
+      "referencia": "1408765511797444648",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1408779002604425227",
+      "texto_sha256": "ac8cca8619759ff4ff7a8d6e9f14d719d99d554a241ef7c8ab2338572ab19866",
+      "adjuntos": []
+    },
+    {
+      "id": "1408779420726071336",
+      "fecha_utc": "2025-08-23T11:46:27.757000+00:00",
+      "fecha_local": "2025-08-23",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Lo escuchas refunfuñar en voz baja mientras vais al campamento** Maldito tritón...la próxima vez...como te acerques a Kalista...haré pez a la brasa....",
+      "mensaje_sha256": "ef2f794254fa73cf227400d900516d84452370fd98b437032b83735be4929a35",
+      "tipo_discord": 19,
+      "referencia": "1408779002604425227",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1408779420726071336",
+      "texto_sha256": "9684381f2ec61936235130fa6735446c0d539e9ce0f9575c30b69375f54957b9",
+      "adjuntos": []
+    },
+    {
+      "id": "1408780621576409089",
+      "fecha_utc": "2025-08-23T11:51:14.062000+00:00",
+      "fecha_local": "2025-08-23",
+      "editado_utc": null,
+      "texto": "Banzo : Gente curiosa estos tritones . Pensamientos parecidos en culturas tan diferentes no crees ? **haciendo referencia a drows y tritones **",
+      "mensaje_sha256": "b251571efcd49b4fdb5d09fcad4d7fca099596cd7388d3b7bb7e1662f3e3156c",
+      "tipo_discord": 19,
+      "referencia": "1408779420726071336",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1408780621576409089",
+      "texto_sha256": "0623be4064c62b067e39aa5ae8c728b0a42d21cf0d6e995963d5d7f5fc86ffe2",
+      "adjuntos": []
+    },
+    {
+      "id": "1408782831966228621",
+      "fecha_utc": "2025-08-23T12:00:01.060000+00:00",
+      "fecha_local": "2025-08-23",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Te mira saliendo de sus pensamientos y hace un gesto de desagrado** Tritones, drows, humanos... goliats. Al final son todos lo mismo si el poder y el dominio se ponen por delante **Hace una pasua pensativo, parece que ha recordado algo** Oye, el noble cambiaformas... Kazuki... ¿Sabes donde está? Tengo algo que preguntarle, quizá el pueda ayudarnos con el problema de la droga esa...el Nox. <@240564189448503306>",
+      "mensaje_sha256": "52496b3a9a6c224d766939a94a5d21bec53908bbaac53ea8f2c89a61c4f05b97",
+      "tipo_discord": 19,
+      "referencia": "1408780621576409089",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1408782831966228621",
+      "texto_sha256": "eadcd459565139551d43d39ab5667fb9a216c2c221cd0bd90f8b1e429f626961",
+      "adjuntos": []
+    },
+    {
+      "id": "1408783201282953338",
+      "fecha_utc": "2025-08-23T12:01:29.112000+00:00",
+      "fecha_local": "2025-08-23",
+      "editado_utc": null,
+      "texto": "Banzo: Hace días que no le veo , quizás este en su haciendo en Hakahara",
+      "mensaje_sha256": "2f28ca56a0ba78add1e7e97a13ef15040b14fcfb2e5338e01f83ac4b8f9e5c63",
+      "tipo_discord": 19,
+      "referencia": "1408782831966228621",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1408783201282953338",
+      "texto_sha256": "52d4a143f28345b82b74c9f0d8f7662222167f96ae887696e28519868483433d",
+      "adjuntos": []
+    },
+    {
+      "id": "1408783898002849813",
+      "fecha_utc": "2025-08-23T12:04:15.223000+00:00",
+      "fecha_local": "2025-08-23",
+      "editado_utc": "2025-08-23T12:04:27.095000+00:00",
+      "texto": "Jelbreg: Le enviaré una misiva entonces **Sigue andando hacia el campamento** Si los Cultistas tienen negocios con los dirigentes del Puerta de las Espadas puede ser un gran problema. ¿Sabes lo que pasó?",
+      "mensaje_sha256": "bfe88cef3c568be5251d34b53ea3f8830e099e39ca57056fe585ecf24e73c1cb",
+      "tipo_discord": 19,
+      "referencia": "1408783201282953338",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1408783898002849813",
+      "texto_sha256": "38db8712f6a9c000be3302b012098a7b36e5464b77edcd2f3b4aea9a1059f413",
+      "adjuntos": []
+    },
+    {
+      "id": "1408806056985104556",
+      "fecha_utc": "2025-08-23T13:32:18.336000+00:00",
+      "fecha_local": "2025-08-23",
+      "editado_utc": null,
+      "texto": "Banzo : lo de la droga esa fueron los cultistas ?",
+      "mensaje_sha256": "f2e75dfdfc4ae454a08955f55f510b5360f3e8519005e260c47a86bb2f9ad6fa",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1408806056985104556",
+      "texto_sha256": "25583eb7d24b6fcc4a0de31516c5554c12f1513522a350633c8ebddf405cf59e",
+      "adjuntos": []
+    },
+    {
+      "id": "1408807022438252674",
+      "fecha_utc": "2025-08-23T13:36:08.518000+00:00",
+      "fecha_local": "2025-08-23",
+      "editado_utc": "2025-08-23T13:36:20.904000+00:00",
+      "texto": "Jelbreg: ¿No encontrasteis Cultistas en los Bajos Fondos junto a una especie de fábrica del Nox? Además en los informes se nombraba unos emblemas marcados en las cajas, que Kalista recuerda de un Clan de Mercaderes del Puerto de las Espadas",
+      "mensaje_sha256": "5c031ec1fd564bf70ba281cad44a21f01569ee7fcc8d27361165eb0b34e676da",
+      "tipo_discord": 19,
+      "referencia": "1408806056985104556",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1408807022438252674",
+      "texto_sha256": "350c4413db3eb29a0b085f753c50849a123f3b3e900e42017e9f2f7a7d7c1b21",
+      "adjuntos": []
+    },
+    {
+      "id": "1408809705190592513",
+      "fecha_utc": "2025-08-23T13:46:48.136000+00:00",
+      "fecha_local": "2025-08-23",
+      "editado_utc": null,
+      "texto": "Banzo : sii .. estaban allí pero entonces eran ellos los que la producían...? Puede ser un problema . Si será buena idea avisar a kazuki <@240564189448503306>  quizás el te ganas mas mano que yo para hablar con los mercaderes y recopilar información",
+      "mensaje_sha256": "798259a2d2075577164c68c0d4fe5f84892e3fdb49e087ee771b063aa4cac3bd",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1408809705190592513",
+      "texto_sha256": "4978622af2c4653dba22b2b0492a4a4f3d0ff18507b8d8ec2319d3fb856d3fcf",
+      "adjuntos": []
+    },
+    {
+      "id": "1408810575928230039",
+      "fecha_utc": "2025-08-23T13:50:15.736000+00:00",
+      "fecha_local": "2025-08-23",
+      "editado_utc": null,
+      "texto": "Jelbreg: Si... aunque lo que mas me interesa de él es su contacto con el feywild. **Dice pensativo** ¿Drogas alucinógenas? Que mejor lugar para conseguir ingredientes para eso que en el mundo de las hadas, no crees?",
+      "mensaje_sha256": "ea0b613dc41dabf023036396e408716d775a0339a2d68a6c94372bf3a7ef9862",
+      "tipo_discord": 19,
+      "referencia": "1408809705190592513",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1408810575928230039",
+      "texto_sha256": "224d4fd43b606916d03d3fbc403e6fb21046c98975f00ffa33095c2d902289db",
+      "adjuntos": []
+    },
+    {
+      "id": "1408812020551385128",
+      "fecha_utc": "2025-08-23T13:56:00.161000+00:00",
+      "fecha_local": "2025-08-23",
+      "editado_utc": null,
+      "texto": "Banzo : He leído alguna historia sobre eso y mi abuelo me contó que estuvo allí.  Todo es hermoso pero a la misma vez mortal (la Australia de dnd )",
+      "mensaje_sha256": "726e0a5169a390aa528921e187700408e9d522bb98dc2f13b998003d2dd5a88d",
+      "tipo_discord": 19,
+      "referencia": "1408810575928230039",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1408812020551385128",
+      "texto_sha256": "39563527de856f2928fc1a6bdf9cb176d251a30d68fe355b4c8f37baf5ddddb7",
+      "adjuntos": []
+    },
+    {
+      "id": "1408812816911171646",
+      "fecha_utc": "2025-08-23T13:59:10.028000+00:00",
+      "fecha_local": "2025-08-23",
+      "editado_utc": null,
+      "texto": "Jelbreg: Un lugar horrible... Te lo aseguro **Ves que le entra un escalofrío al recordar su estancia allí** Quizá el noble Kazuki pueda saber algo o almenos alguno de sus contactos allí.",
+      "mensaje_sha256": "6d26fd7d79967fe4a3019fd37c98a2d0d6a8f273d5c486e15c0b40bd39b7839d",
+      "tipo_discord": 19,
+      "referencia": "1408812020551385128",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1408812816911171646",
+      "texto_sha256": "dee25afa493668a6e7c590a0b50d11912fcaafc5e6c3f6b3356b44284f682390",
+      "adjuntos": []
+    },
+    {
+      "id": "1408880498981208266",
+      "fecha_utc": "2025-08-23T18:28:06.691000+00:00",
+      "fecha_local": "2025-08-23",
+      "editado_utc": null,
+      "texto": "Banzo : pues si , contacta con el o le aviso yo como prefieras",
+      "mensaje_sha256": "08899e237fab1d14d7c30d7147147346abdd900c191fd6dc9f1072e497d8b0fa",
+      "tipo_discord": 19,
+      "referencia": "1408812816911171646",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1408880498981208266",
+      "texto_sha256": "0a4823a96962f3e4376e8efe2f23157304b7ebe56f952257900b376a82691ecb",
+      "adjuntos": []
+    },
+    {
+      "id": "1408881107444695102",
+      "fecha_utc": "2025-08-23T18:30:31.760000+00:00",
+      "fecha_local": "2025-08-23",
+      "editado_utc": "2025-08-23T18:30:54.226000+00:00",
+      "texto": "Jelbreg: Enviaré una misiva. Tu igualmente infórmale si le ves **Te mira de reojo** Eh oye... estas bien? Antes, en el combate, se te ha puesto una cara como... como... como aquella vez...",
+      "mensaje_sha256": "15805c7b413e05a69dc25a18260597a3e20b33657799df24f22190efb7b30fe9",
+      "tipo_discord": 19,
+      "referencia": "1408880498981208266",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1408881107444695102",
+      "texto_sha256": "3a2783175fed42adf5cc5da3456ed27669e55afa4b9244561d208898ea0634cb",
+      "adjuntos": []
+    },
+    {
+      "id": "1409198086244536463",
+      "fecha_utc": "2025-08-24T15:30:05.395000+00:00",
+      "fecha_local": "2025-08-24",
+      "editado_utc": null,
+      "texto": "Banzo: Parece que no ha desaparecido, pero puedo focalizarla en el enemigo.  Conservaré la otra mano de momento **rie**",
+      "mensaje_sha256": "0326fe8fbf8e01ddba031ee9b75f86d67a58a5e00d3aed8090119f5e0262d1de",
+      "tipo_discord": 19,
+      "referencia": "1408881107444695102",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1409198086244536463",
+      "texto_sha256": "911d04318c546019dbb3ef4d4553d9ad182c02215db680842289479aaa5b15e5",
+      "adjuntos": []
+    },
+    {
+      "id": "1409225209285836850",
+      "fecha_utc": "2025-08-24T17:17:52.032000+00:00",
+      "fecha_local": "2025-08-24",
+      "editado_utc": null,
+      "texto": "🔴 **Fin de escena**🔴",
+      "mensaje_sha256": "3875277291ea6c2d78bdba9eb69576b03e4934eee6f27c257a39c2b8f8722e1a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1409225209285836850",
+      "texto_sha256": "0e513b9a495850850524d0965f55df051cd0b6a138120693016da3f3ffd42ccd",
+      "adjuntos": []
+    }
+  ]
+}

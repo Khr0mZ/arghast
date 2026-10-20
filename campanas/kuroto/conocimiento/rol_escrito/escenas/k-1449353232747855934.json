@@ -1,0 +1,223 @@
+{
+  "id": "k-1449353232747855934",
+  "campana": "kuroto",
+  "unidad_revision": "k-1449353232747855934",
+  "hilo_id": "1387915737502580886",
+  "hilo_nombre": "Sho, Palacio del Shogunato - Capital de Kuroto",
+  "titulo": "Kazuki y Guxi acuerdan compartir la carga",
+  "resumen": "Guxi ofrece compartir provisionalmente el puesto y dejarlo a Kazuki después de la guerra.",
+  "relato": "Guxi llega al palacio con documentos y encuentra a Kazuki pensando ante la mesa del consejo. Ambos querían hablar. Kazuki pregunta si puede quedarse con el puesto porque desea proteger la nación. Guxi acepta la idea de que lo ocupe al terminar la guerra, cuando él pensaba renunciar, pero propone compartir el poder hasta entonces para que la carga no recaiga en una sola persona. Kazuki responde de acuerdo y empieza una carta para informar a cada participante del consejo. Se estrechan las manos y expresan el deseo de que el país y sus habitantes tengan un futuro mejor. El acuerdo entre los dos queda explícito; la escena no muestra la entrega de las cartas ni la aceptación del resto del consejo.",
+  "participantes": [
+    "Guxi",
+    "Kazuki"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1449370907049988189",
+      "afirmacion": "Kazuki pide quedarse con el puesto.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1449371727501987881",
+      "afirmacion": "Guxi propone compartirlo hasta el final de la guerra y dejarlo después a Kazuki.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1449372500017283214",
+      "afirmacion": "Kazuki acepta y escribe para notificar al consejo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1449373569313280041",
+      "afirmacion": "Estrecha la mano de Guxi y promete luchar por el bienestar común.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El pacto bilateral de compartir poder se matiza después ante el consejo, en k-1451349328173072538, donde Kazuki se presenta como portavoz y Guxi como ayuda."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-12-13T10:52:18.368000+00:00",
+  "fin_utc": "2025-12-13T12:25:57.066000+00:00",
+  "fecha_local": "2025-12-13",
+  "intervalo": {
+    "anterior": 173,
+    "siguiente": 174,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1448753461364785172",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1450566665669443760",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 173,
+        "fecha": "2025-12-11",
+        "inicio_referencia_utc": "2025-12-11T19:08:42+00:00",
+        "fin_estimado_utc": "2025-12-11T22:37:42+00:00",
+        "duracion_video_segundos": 12540,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1448753461364785172"
+      },
+      {
+        "capitulo": 174,
+        "fecha": "2025-12-16",
+        "inicio_referencia_utc": "2025-12-16T19:13:46+00:00",
+        "fin_estimado_utc": "2025-12-16T21:24:41+00:00",
+        "duracion_video_segundos": 7855,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1450566665669443760"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1449353232747855934",
+      "fecha_utc": "2025-12-13T10:52:18.368000+00:00",
+      "fecha_local": "2025-12-13",
+      "editado_utc": null,
+      "texto": "Guxi:\n**Había llegado al palacio con algunos papeles buscando a kazuki**\n<@240564189448503306>",
+      "mensaje_sha256": "04bc755f7b597cb2c090bcb21db770b1cde6a2a0438bc6b6d83a6ed9aac2a37f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1449353232747855934",
+      "texto_sha256": "44d4c1abc64d69871021ebcb7362f75c68ad64fbc45a8fdd780e9cd8e97eae6e",
+      "adjuntos": []
+    },
+    {
+      "id": "1449368795520045190",
+      "fecha_utc": "2025-12-13T11:54:08.822000+00:00",
+      "fecha_local": "2025-12-13",
+      "editado_utc": null,
+      "texto": "Kazuki:\n\n**Estaría de pie delante de la mesa del consejo, pensativo**",
+      "mensaje_sha256": "776f2a253062115c5b68e164cf5077889d5e9962bb5de496654978d07c2e6e86",
+      "tipo_discord": 19,
+      "referencia": "1449353232747855934",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1449368795520045190",
+      "texto_sha256": "6674d634b37983f4d0a1f5384bfb7f41665b37fd0862996682a5e620437d11f2",
+      "adjuntos": []
+    },
+    {
+      "id": "1449369216552534086",
+      "fecha_utc": "2025-12-13T11:55:49.204000+00:00",
+      "fecha_local": "2025-12-13",
+      "editado_utc": null,
+      "texto": "guxi:\nBuenas kazuki\n**se sienta delante suya y le mira**\nsacaste algo en claro despues de varios dias?",
+      "mensaje_sha256": "8caa62db7cbf515f59ead0283f6b39b931f074ad09f17bd985d8c8c9656d2241",
+      "tipo_discord": 19,
+      "referencia": "1449368795520045190",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1449369216552534086",
+      "texto_sha256": "d20dd4188af32765af33d43b7dd871a1358bd5bb21ecb484b935bae1fda954b8",
+      "adjuntos": []
+    },
+    {
+      "id": "1449369684871876760",
+      "fecha_utc": "2025-12-13T11:57:40.860000+00:00",
+      "fecha_local": "2025-12-13",
+      "editado_utc": null,
+      "texto": "Kazuki:\n\nOh, Guxi. Iba a buscarte ahora mismo.\n\n**,Dice serio mientras se sienta en una de las sillas de la mesa del consejo**",
+      "mensaje_sha256": "5eea27e4ff53342c1cecc757862581b39f24d7e589bdc62b543e50a067b80bd9",
+      "tipo_discord": 19,
+      "referencia": "1449369216552534086",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1449369684871876760",
+      "texto_sha256": "332e21e236ca9b3dd1a2ded046641b5ddc245e7668c7c55e52b4defa49ceee2a",
+      "adjuntos": []
+    },
+    {
+      "id": "1449369932428218428",
+      "fecha_utc": "2025-12-13T11:58:39.882000+00:00",
+      "fecha_local": "2025-12-13",
+      "editado_utc": null,
+      "texto": "guxi:\nestaba repasando algunas cosas de cuando trabaja por aqui perdon por la tardanza",
+      "mensaje_sha256": "eedd838d9f8797e8fa291e8ca15758a50373759466596e2e175eb0252d9250d7",
+      "tipo_discord": 19,
+      "referencia": "1449369684871876760",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1449369932428218428",
+      "texto_sha256": "155aadc148e57fec9070d3d5cfa67aaaaa1eddd255d31ce82e392913643550bd",
+      "adjuntos": []
+    },
+    {
+      "id": "1449370907049988189",
+      "fecha_utc": "2025-12-13T12:02:32.250000+00:00",
+      "fecha_local": "2025-12-13",
+      "editado_utc": "2025-12-13T12:03:00.586000+00:00",
+      "texto": "Kazuki: \n\nHe estado pensando y me gustaría saber si me dejarías quedarme con el puesto. Te lo pregunto por que yo quiero proteger a esta nación tanto como tú.\n\n** Dice serio pero ves una pequeña sonrisa mientras observa los papeles que le ha traído Guxi**",
+      "mensaje_sha256": "f4afc2f81f35ed876ccc65500a76122e478201a229cac788930dc197fa003a81",
+      "tipo_discord": 19,
+      "referencia": "1449369932428218428",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1449370907049988189",
+      "texto_sha256": "a30b5fc7b9f894eba7d704c61546c1821868885ccec66c2298474a8c1580bf06",
+      "adjuntos": []
+    },
+    {
+      "id": "1449371727501987881",
+      "fecha_utc": "2025-12-13T12:05:47.861000+00:00",
+      "fecha_local": "2025-12-13",
+      "editado_utc": null,
+      "texto": "guxi:\nNo me importaria , Pues cuando terminara la guerra pensaba renunciar igualmente pero...\nno vas a hacer esto solo este peso es demasiado para llevarlo una sola persona \n**lo dice con algo de resignacion pero ves tambien determinacion en sus palabras**\npodemos compartir el poder al menos hasta que esta guerra termine luego el puesto sera tuyo",
+      "mensaje_sha256": "9e5832caa4e1f1d1611a2d6ec0b25457eb46522ad22de5f9ae182f731964153c",
+      "tipo_discord": 19,
+      "referencia": "1449370907049988189",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1449371727501987881",
+      "texto_sha256": "e79e5ac3481ce5893dd787ada4921a74bc64e4e041ded54f537274d2e59412b8",
+      "adjuntos": []
+    },
+    {
+      "id": "1449372500017283214",
+      "fecha_utc": "2025-12-13T12:08:52.043000+00:00",
+      "fecha_local": "2025-12-13",
+      "editado_utc": null,
+      "texto": "Kazuki:\n\nPerfecto, Guxi. Se lo notificaré a cada participante del consejo.\n\n**Dice sonriente un poco más tranquilo mientras ves que escribe una carta**",
+      "mensaje_sha256": "be7598661da11e3b558a52db0bd088e143ad1b50fe27beda7c1cde34518b0d0d",
+      "tipo_discord": 19,
+      "referencia": "1449371727501987881",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1449372500017283214",
+      "texto_sha256": "8a61f3cae8c114c95e1e60ead073d17a8e8a3d47d21dde6cb34b6dfb9ee3c519",
+      "adjuntos": []
+    },
+    {
+      "id": "1449372841832353822",
+      "fecha_utc": "2025-12-13T12:10:13.538000+00:00",
+      "fecha_local": "2025-12-13",
+      "editado_utc": null,
+      "texto": "guxi:\nnos queda mucho trabajo por delante hare todo lo posible para que mi pais y mi gente vean un mañana mejor\n**se acerca para estrecharle la mano**\nSera un honor trabajar contigo kazuki",
+      "mensaje_sha256": "1bf0887df32071b90e0461acf40a012b30c249a036f4b4ed03b5d121fd730a18",
+      "tipo_discord": 19,
+      "referencia": "1449372500017283214",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1449372841832353822",
+      "texto_sha256": "206fa79c66b4f596caf295e8f39a1f2cf986ec87627d2a2035150f8365730e0a",
+      "adjuntos": []
+    },
+    {
+      "id": "1449373569313280041",
+      "fecha_utc": "2025-12-13T12:13:06.983000+00:00",
+      "fecha_local": "2025-12-13",
+      "editado_utc": "2025-12-13T12:16:28.157000+00:00",
+      "texto": "Kazuki:\n\n**Estrecha la mano de Guxi**\n\nAunque no sea de aquí, pero también lucharé hasta el final, para que todos estemos bien\n\n**Comenta sonriente mientras sigue escribiendo la carta**",
+      "mensaje_sha256": "d12987e119fc4b697c52cb08ad9801219f767edb77b7e365ad47cd32af9ebfb7",
+      "tipo_discord": 19,
+      "referencia": "1449372841832353822",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1449373569313280041",
+      "texto_sha256": "58c555dd19dd96a2126f7ae9ce77329cc2619c9049378797e7cf891713b413d0",
+      "adjuntos": []
+    },
+    {
+      "id": "1449376799275614388",
+      "fecha_utc": "2025-12-13T12:25:57.066000+00:00",
+      "fecha_local": "2025-12-13",
+      "editado_utc": null,
+      "texto": "🔴 fin de escena🔴",
+      "mensaje_sha256": "9c2f60db15d59523c93d0d7c1f39ecac0fd5578f05c7745558903d19ead3110d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1449376799275614388",
+      "texto_sha256": "906cd6a490f27f6a27bf957ba49b4845aca936431f5924262141d6e0dea25762",
+      "adjuntos": []
+    }
+  ]
+}

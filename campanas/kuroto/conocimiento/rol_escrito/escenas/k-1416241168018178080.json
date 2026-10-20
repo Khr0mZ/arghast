@@ -1,0 +1,199 @@
+{
+  "id": "k-1416241168018178080",
+  "campana": "kuroto",
+  "unidad_revision": "k-1416241168018178080",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Chani no quiere quedarse atrás",
+  "resumen": "Kurobane se marcha y mantiene el encargo de información para Chani.",
+  "relato": "Kurobane se sienta en las escaleras con Chanecuxtli en el regazo. La pequeña advierte su sufrimiento y se ofrece a aliviarlo, pero él insiste en que debe cuidar el bosque y se dirige al portal. Chani corre detrás y tira de su capa, reclamando ir con él: dice ser Cazadora y haber firmado un contrato. El ninja le pide que permanezca allí para seguir consiguiendo información sobre la mujer pez amable y los otros asuntos. Añade que podrá encontrarlo siguiendo su olor y reafirma su confianza antes de continuar hacia el portal. Chani acepta entre lágrimas y vuelve a la base, donde entra en su cuarto y se acomoda en la almohada acostumbrada, triste y sin saber si podrá dormir. La partida no revela destino ni resuelve el encargo.",
+  "participantes": [
+    "Kurobane",
+    "Chanecuxtli"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1416241419131293846",
+      "afirmacion": "Chani ofrece ayudar al ninja a quitar su dolor.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1416242429513830510",
+      "afirmacion": "Chani pide acompañarlo y afirma haber firmado el contrato de Cazadora.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1416244088482697281",
+      "afirmacion": "Kurobane la deja encargada de obtener información sobre la mujer pez amable.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1416246089576743033",
+      "afirmacion": "Chani se acurruca en la almohada del cuarto de Kurobane.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La firma de Chani se conoce por su afirmación; no se representa aquí el documento ni quién lo autorizó.",
+    "Se conserva el encargo previo, sin atribuir identidades por descripción ni inventar información conseguida.",
+    "El original cierra la escena aunque la misión continúe abierta."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-09-13T01:56:46.944000+00:00",
+  "fin_utc": "2025-09-13T02:19:22.680000+00:00",
+  "fecha_local": "2025-09-13",
+  "intervalo": {
+    "anterior": 156,
+    "siguiente": 157,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1415765542228332665",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1417940586811363481",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 156,
+        "fecha": "2025-09-11",
+        "inicio_referencia_utc": "2025-09-11T18:26:34+00:00",
+        "fin_estimado_utc": "2025-09-11T22:04:21+00:00",
+        "duracion_video_segundos": 13067,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1415765542228332665"
+      },
+      {
+        "capitulo": 157,
+        "fecha": "2025-09-17",
+        "inicio_referencia_utc": "2025-09-17T18:29:21+00:00",
+        "fin_estimado_utc": "2025-09-17T21:15:50+00:00",
+        "duracion_video_segundos": 9989,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1417940586811363481"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1416241168018178080",
+      "fecha_utc": "2025-09-13T01:56:46.944000+00:00",
+      "fecha_local": "2025-09-13",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\n**Se sienta encima de una de las escaleras y coloca a Chani <@408026114548695061>  en su regazo**",
+      "mensaje_sha256": "f0571a7bac733b00aa3426912ea18339d12041e1e6593965ff55973d8f52e4d5",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1416241168018178080",
+      "texto_sha256": "12b343894a8217a453762f7087b6ecb5f0bbe5ca8ed93ea0183ec57d7941ec4a",
+      "adjuntos": []
+    },
+    {
+      "id": "1416241419131293846",
+      "fecha_utc": "2025-09-13T01:57:46.814000+00:00",
+      "fecha_local": "2025-09-13",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\nTezca...\n\n**Lo volteaba a ver con preocupación**\n\nYo.. yo puedo ayudar Pío, yo..yo te ayudo, te puedo quitar tu dolor, pío",
+      "mensaje_sha256": "3395031cd5ceca2f11e7e72c8a36c9857a2239526f27b42b6f497b3061da2009",
+      "tipo_discord": 19,
+      "referencia": "1416241168018178080",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1416241419131293846",
+      "texto_sha256": "79d1aa17af97303dfaeed75c0a93a1caed67be547dde802627a712f16fb61c0a",
+      "adjuntos": []
+    },
+    {
+      "id": "1416241670369841283",
+      "fecha_utc": "2025-09-13T01:58:46.714000+00:00",
+      "fecha_local": "2025-09-13",
+      "editado_utc": "2025-09-13T01:59:48.156000+00:00",
+      "texto": "Kurobane:\n\nDebe cuidar el bosque, Chani. \n\n**Comenta seriamente mientras coloca a un lado su a Chani, para después levantarse y dirigirse lentamente al portal**",
+      "mensaje_sha256": "c15e56cb966afca587f66d26262ecece11f9a660a34d08dbd5354f4941a61331",
+      "tipo_discord": 19,
+      "referencia": "1416241419131293846",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1416241670369841283",
+      "texto_sha256": "de2a0ddc6bd4e949a77ae54aa2428843891d66641151d32f62dbad05e4f702e8",
+      "adjuntos": []
+    },
+    {
+      "id": "1416242429513830510",
+      "fecha_utc": "2025-09-13T02:01:47.708000+00:00",
+      "fecha_local": "2025-09-13",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n\nTEZCA!! PÍO!! TEZCA!!\n\n**Sali corriendo detrás de el, tomándolo de la capa para que no se fuera**\n\nME IRE CONTIGO TEZCA!! YO QUIERO AYUDARTE, PÍO, ES MI TRABAJO COMO CAZADORA, PÍO!! FIRME UN CONTRATO PÍO!!",
+      "mensaje_sha256": "cf06f6e39933855ceaf56de626d084f5bee83ff1576fa4938c3a45346d35311e",
+      "tipo_discord": 19,
+      "referencia": "1416241670369841283",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1416242429513830510",
+      "texto_sha256": "87f2eb7d150c749cb434f57ea6bd378e0db9b82deab5c6642310e8be97eb9294",
+      "adjuntos": []
+    },
+    {
+      "id": "1416244088482697281",
+      "fecha_utc": "2025-09-13T02:08:23.237000+00:00",
+      "fecha_local": "2025-09-13",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\n**Se pone de cuclillas**\n\nDebe quedarse aquí, Chani. Necesito que me sigas consiguiendo información sobre la mujer pez amable y lo demás. \n\n**Dice serio mientras extiende la mano a su pico**\n\nSi sigues mi olor, me podrás encontrar fácilmente. Confio en ti.\n\n**Se vuelve a levantar y vuelve a partir hacia el portal**",
+      "mensaje_sha256": "ca0b6a6b71c8ef51aa19770507fa8303507d49e66173be046d0a80043efa8030",
+      "tipo_discord": 19,
+      "referencia": "1416242429513830510",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1416244088482697281",
+      "texto_sha256": "c67eefc55aee83ab4ff015ddea07703d0809fe953650b49f7aed73cd07d140cb",
+      "adjuntos": []
+    },
+    {
+      "id": "1416244515458650175",
+      "fecha_utc": "2025-09-13T02:10:05.036000+00:00",
+      "fecha_local": "2025-09-13",
+      "editado_utc": "2025-09-13T02:12:21.557000+00:00",
+      "texto": "Chanecuxtli:\n\nE..está bien Tezca, Pío...\n\n**Me limpié las pocas lágrimas que salieron de mis ojitos**\n\nPrometo no fallar, pío \n\n**Entre a la base con paso lento y arrastrando las alas de la tristeza**\n\n**En cuanto entré, caminé directo a la puerta de Kurobane, intentando abrirla para quedarme a dormir en su habitación**",
+      "mensaje_sha256": "6ba0dc2619a06f9a2ca4ef45ea99b12816380546417a8d382c69d7c2b57d2961",
+      "tipo_discord": 19,
+      "referencia": "1416244088482697281",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1416244515458650175",
+      "texto_sha256": "291335b6d1ef439a1aa77f66d6b82595ca523efadf3f69c4836b02a531e78d5f",
+      "adjuntos": []
+    },
+    {
+      "id": "1416245620884111401",
+      "fecha_utc": "2025-09-13T02:14:28.590000+00:00",
+      "fecha_local": "2025-09-13",
+      "editado_utc": null,
+      "texto": "**La puerta estaba entornada, con un poco de fuerzas, abres la habitación**",
+      "mensaje_sha256": "434d29d4a85474d1242634f00a552d2c1ae0c06e106b31e7f432e2fc75a57e29",
+      "tipo_discord": 19,
+      "referencia": "1416244515458650175",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1416245620884111401",
+      "texto_sha256": "4909414757b9948f92325da620813e4b2ac602629a6d516ae374163c50426deb",
+      "adjuntos": []
+    },
+    {
+      "id": "1416246089576743033",
+      "fecha_utc": "2025-09-13T02:16:20.335000+00:00",
+      "fecha_local": "2025-09-13",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n\n**En cuanto logré abrir la puerta, aletee lo más que pude para subir a la cama y dormirme en la almohada de siempre, dando pequeños pios tristes al no ver a Kurobane a lado**\n\nPío...\n\n**Me hice bolita y me quedé quieta, tratando de dormir, aunque no estaba segura si lo iba a lograr**",
+      "mensaje_sha256": "730b47d5539174171fc140bb7181c2623285d418852ee1e3db44e1a799c2099b",
+      "tipo_discord": 19,
+      "referencia": "1416245620884111401",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1416246089576743033",
+      "texto_sha256": "c3f60be9c7e8d2a0cb2281d84e528f348b06e2fb9054af334dfd6c633f213690",
+      "adjuntos": []
+    },
+    {
+      "id": "1416246854386974791",
+      "fecha_utc": "2025-09-13T02:19:22.680000+00:00",
+      "fecha_local": "2025-09-13",
+      "editado_utc": null,
+      "texto": "🔴  Final de escena 🔴",
+      "mensaje_sha256": "94e3b195ecfbf2eaf512ce8675bd53d8ac922a7774a48d5e8032f6d5bf6f1b8c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1416246854386974791",
+      "texto_sha256": "2d951a88aefa391a493c42f6b69315b97b488451d8ef0802371598f1f0254083",
+      "adjuntos": []
+    }
+  ]
+}

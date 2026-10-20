@@ -1,0 +1,119 @@
+{
+  "id": "x-1516341525163016312",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1516341525163016312",
+  "hilo_id": "1495828307843747971",
+  "hilo_nombre": "??? - En alguna parte",
+  "titulo": "Lyriel manda a Deyvon espiar desde su matrimonio",
+  "resumen": "La archimaga impone la unión con Aunfaere y le entrega un anillo para informar telepáticamente a Brythya.",
+  "relato": "Deyvon rechaza casarse con Aunfaere y recibe una bofetada de Viztya. Su madre le reprocha haber dejado vivo al informante. Cuando culpa a Jelbreg y a una tritón de lo ocurrido, Brythya pierde la calma y lo derriba con un rayo violeta. Su furia hace retroceder incluso a Viztya.\n\nLyriel entra y obliga a recuperar el control. La primera hija, archimaga de Ches Farak, mantiene la mirada de su madre hasta que esta la aparta. Viztya percibe un respeto o temor que no comprende. Lyriel ordena a Deyvon disculparse y aceptar la boda: pasará a Rheydyn, perderá privilegios y protección de Unthuar y deberá informar directamente a Brythya de los movimientos de Miz'lin.\n\nLe coloca un anillo negro de araña que permite comunicación telepática con su madre a una milla. Le exige aprovechar la cercanía de su futura esposa para obtener información y deja abierta la posibilidad de recuperar privilegios si resulta útil. Son planes de manipulación, sin cooperación consentida de Aunfaere.\n\nUna vez recupera fuerzas, Deyvon se retira a un escondite, estudia el anillo y descubre cómo activar el vínculo. Golpea una pared hasta sangrar y culpa en silencio a Jelbreg. Todavía no se celebra la boda ni envía un informe desde Rheydyn.",
+  "participantes": [
+    "Deyvon Unthuar",
+    "Viztya Unthuar",
+    "Brythya Unthuar",
+    "Lyriel Unthuar"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1516341525163016312",
+      "afirmacion": "Brythya ataca a Deyvon cuando menciona a Jelbreg y la tritón.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1516341634638417920",
+      "afirmacion": "Lyriel impone la boda, el cambio de casa y el espionaje directo para Brythya.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1516341687604084766",
+      "afirmacion": "Le entrega el anillo telepático de una milla y Deyvon averigua su activación antes de expresar odio privado hacia Jelbreg.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Jelbreg queda explícitamente acreditado como hermano de Deyvon dentro de este relato de Xoltacan.",
+    "La tritón no recibe nombre aquí.",
+    "La capacidad del anillo se explica y su activación se aprende; no se transcribe una comunicación enviada.",
+    "La reacción de Viztya no explica el origen del poder de Lyriel."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-06-16T07:19:51.862000+00:00",
+  "fin_utc": "2026-06-16T07:20:30.591000+00:00",
+  "fecha_local": "2026-06-16",
+  "intervalo": {
+    "anterior": 38,
+    "siguiente": 39,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149383024690/1515976737605816332",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1517589464363434048",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 38,
+        "fecha": "2026-06-15",
+        "inicio_referencia_utc": "2026-06-15T18:00:00+00:00",
+        "fin_estimado_utc": "2026-06-15T20:23:29+00:00",
+        "duracion_video_segundos": 8609,
+        "tipo_referencia": "programacion",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149383024690/1515976737605816332"
+      },
+      {
+        "capitulo": 39,
+        "fecha": "2026-06-19",
+        "inicio_referencia_utc": "2026-06-19T17:58:26+00:00",
+        "fin_estimado_utc": "2026-06-19T20:14:22+00:00",
+        "duracion_video_segundos": 8156,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1517589464363434048"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida."
+  },
+  "fuentes": [
+    {
+      "id": "1516341525163016312",
+      "fecha_utc": "2026-06-16T07:19:51.862000+00:00",
+      "fecha_local": "2026-06-16",
+      "editado_utc": null,
+      "texto": "Deyvon: ¡Me niego! ¡Esa hembra es el hazmerreír de la academ...! **No pudo terminar la frase. Una fuerte bofetada le cruzó el rostro, dejando varios cortes provocados por los anillos de su hermana Viztya.**\n\nViztya: Tú no puedes negarte a nada, varón. **Dijo la sacerdotisa, de pie junto a él en los aposentos de su madre.**\n\nBrythya: Dejaste al guardia con vida. **La Matrona habló con tranquilidad mientras rebuscaba entre sus objetos de valor.** Un error del que debes aprender una lección.\n\nDeyvon: El guardia debía darme más información antes de ejecutarlo. **Masculló el drow. Al no recibir una reprimenda inmediata, se envalentonó.** Esto no ha sido culpa mía. Miz'lin te la ha jugado por culpa de lo que hizo mi hermano Jelbreg y esa tritón... **Grave error. Antes siquiera de que Viztya pudiera levantar la mano, un rayo violeta brotó de los dedos de Brythya y golpeó de lleno a su hijo. Deyvon apretó los dientes mientras caía de rodillas. Sentía como si toda la fuerza hubiera sido arrancada de su cuerpo. No podía ni levantar la cabeza.**\n\nBrythya: Insolente niñato. ¿Cómo te atreves a pronunciar ese nombre en mi presencia? ¡¿Cómo te atreves a mencionar a esa MUJER?! **La fría y calculadora Matrona Unthuar parecía completamente fuera de sí. Sus envejecidos ojos brillaban de furia mientras observaban al aterrorizado Deyvon. Incluso Viztya retrocedió un paso y llevó instintivamente la mano a su látigo de serpientes. No le serviría de nada contra su madre, pero el gesto fue involuntario.** No eres más que un inútil. Debería haberte cortado el cuello el día que vi que eras un varón en lugar de tu...\n\n???: Todos debemos hacer sacrificios por el bien de la familia, Deyvon. **La voz llegó desde la entrada de la estancia.**",
+      "mensaje_sha256": "61b6c723b4d206876502ec895739c73e4c6180424cae9f58a87cc5711b119181",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1516341525163016312",
+      "texto_sha256": "5a545749ead4186da98d90436f420adecff7ac92f79524e3aaeb9b06213c8ca7",
+      "adjuntos": []
+    },
+    {
+      "id": "1516341634638417920",
+      "fecha_utc": "2026-06-16T07:20:17.963000+00:00",
+      "fecha_local": "2026-06-16",
+      "editado_utc": null,
+      "texto": "Lyriel: **Viztya ni siquiera se había dado cuenta de que alguien había entrado. Cuando la figura pasó junto a ella y sintió aquella aplastante presencia, apartó rápidamente la mano del látigo e intentó recuperar la compostura.** Y deberías dirigirte a las miembros del Consejo Regente por su título. Es una blasfemia contra Lady Lolth, y más aún para un varón. Discúlpate ante madre por tu falta de respeto hacia la Matrona Miz'lin.\n\n**Brythya giró la cabeza para mirar a quien había osado interrumpirla. Sin embargo, al ver a su primera hija, la Archimaga de Ches Farak, su furia pareció disiparse. Madre e hija se sostuvieron la mirada durante largos segundos. Deyvon permaneció inmóvil en el suelo, observando la escena de reojo.**\n**Finalmente, Brythya fue la primera en apartar la vista.**\n**Para Viztya aquello era una auténtica demostración de poder. No entendía cómo lo hacía. Lyriel había abandonado los caminos de Lolth para entregarse por completo a la magia arcana, algo que debería haber enfurecido a Brythya. Y aun así, su madre parecía sentir hacia ella algo muy cercano al respeto... o quizá al temor.**\n\nLyriel: Te casarás con la sacerdotisa Aunfaere. **Continuó mientras Brythya volvía a rebuscar entre sus pertenencias.** Y, como dicta el orden de Lady Lolth, pasarás a formar parte de la Casa Rheydyn. Perderás todos los privilegios de la Casa Unthuar. **Deyvon no podía, ni quería, protestar.** Conservarás los derechos propios de un noble de la Casa Rheydyn, así que seguirás ocupando una buena posición en la ciudad. Mientras estés allí, tendrás acceso a información sobre los movimientos de la Matrona Miz'lin. **La archimaga miró directamente a su hermano. No había ni rastro de una sonrisa.** Y cualquier cosa que haga, se la comunicarás a madre directamente. Sin intermediarias.",
+      "mensaje_sha256": "333cd6c20aa9e6ded0d7b7c3c7d8f9c11d5a9d9f7410c2c56d4ed2448ba137bc",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1516341634638417920",
+      "texto_sha256": "b5ccf9d5b5f4f6acd65bcf2773b05004dc554085504bcd2bedef96b6ae1626af",
+      "adjuntos": []
+    },
+    {
+      "id": "1516341687604084766",
+      "fecha_utc": "2026-06-16T07:20:30.591000+00:00",
+      "fecha_local": "2026-06-16",
+      "editado_utc": "2026-06-16T07:20:53.455000+00:00",
+      "texto": "Lyriel: **Extendió la mano. Brythya acababa de encontrar lo que buscaba y se lo entregó. Lyriel se acercó a Deyvon y le colocó un anillo negro con forma de araña.** Este anillo de bodas te permitirá hablar con madre de forma telepática hasta una milla de distancia. Procura que no te descubran. Ya no perteneces a esta casa, ni gozarás de nuestra protección.\n\nDeyvon: No creo que la Matrona Miz'lin confíe en mí para darme información relevante después de lo ocurrido...\n\nLyriel: Usa a tu futura esposa. la Matrona Miz'lin no desperdiciará la oportunidad de engendrar un nuevo miembro para su familia. Obligará a Aunfaere a acercarse a ti emocionalmente. Aprovecha eso y obtén información. **La mirada de la archimaga seguía clavada en él.** Si demuestras ser útil, tal vez regreses a casa. Y tal vez recuperes algunos privilegios.\n\n**El silencio se apoderó de la estancia.**\n**Cuando Deyvon recuperó las fuerzas suficientes para ponerse en pie, le permitieron marcharse. Atravesó varios corredores de la casa hasta llegar a un rincón apartado que utilizaba como escondite.**\n**Allí examinó el anillo durante largo rato, estudiando los encantamientos que lo recorrían. No tardó en descubrir el gesto exacto necesario para activar la conexión mental con su madre.**\n**Cuando estuvo seguro de que nadie podía oírle, estalló. Gritó de rabia y comenzó a golpear una de las paredes del corredor. Algunos esclavos se asomaron para ver qué ocurría, pero al reconocer al joven noble se alejaron de inmediato. Deyvon siguió golpeando la piedra durante varios minutos. Sus nudillos se abrieron y la sangre empezó a manchar la pared. Cuando finalmente se detuvo, tenía los ojos húmedos y el pecho agitado. Un destello de odio cruzó su mirada.** *Te odio, todo es por tu culpa, Jelbreg...* **Maldijo en silencio.**\n\n🔴 Fin de la escena 🔴",
+      "mensaje_sha256": "e5d3857a06bc31a2b0c042b80dd53292136d13b009b105bbd11f143cb1aa47fc",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1516341687604084766",
+      "texto_sha256": "d0208be20b869ef09cc713ae7ed4c21e61a87b46a8617f2f93707167197ce60e",
+      "adjuntos": []
+    }
+  ]
+}

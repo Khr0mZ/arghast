@@ -1,0 +1,117 @@
+{
+  "id": "x-1527609013494222929",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1527609013494222929",
+  "hilo_id": "1495828307843747971",
+  "hilo_nombre": "??? - En alguna parte",
+  "titulo": "Kiaransalee responde a la invocación de Brythya",
+  "resumen": "La diosa acusa a Unthuar de silenciar a Lolth y la matrona envía a Viztya a Xhuldriss antes de informar al Consejo.",
+  "relato": "Brythya ya ha recibido de Deyvon la noticia de las desobediencias del Zin-Carla. Con Viztya invoca a Eskavidne en la sala de Unthuar, pero responde una voz distinta. La regente reconoce a Kiaransalee, que se burla de su devoción y anuncia ocupar el Trono de las Telarañas.\n\nLa diosa afirma que Lolth no puede oírlas, que las ha abandonado y que las acciones de Unthuar hicieron posible su ascenso. Amenaza con el daño político que causaría esa noticia entre las casas. Viztya protesta que cumplieron las órdenes de la Reina Araña y llama a su madre avatar de Lolth. Brythya la hace callar.\n\nLa matrona repasa en privado los posibles sentidos del gran designio: el ascenso de su casa, Danifae como recipiente o la propagación del caos. Es una reflexión abierta, sin explicación definitiva del plan divino. Kiaransalee se despide exigiendo respeto.\n\nTras el silencio, Brythya ordena a Viztya viajar a Xhuldriss y hablar con la matrona de Xorlarrynis. Rechaza informar primero al Consejo: quiere impedir que otras casas aprovechen lo ocurrido para formar una alianza contra ella. Viztya acepta el encargo, sin partir todavía en escena.",
+  "participantes": [
+    "Brythya Unthuar",
+    "Viztya Unthuar",
+    "Kiaransalee"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1527609013494222929",
+      "afirmacion": "Brythya ha recibido el informe de Deyvon y Kiaransalee responde a la llamada destinada a Eskavidne.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1527609083862061056",
+      "afirmacion": "La diosa atribuye a Unthuar el silencio de Lolth y Brythya se pregunta por el papel de Danifae como recipiente.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1527609187033682051",
+      "afirmacion": "Viztya recibe la misión secreta de contactar con Xorlarrynis en Xhuldriss antes de informar al Consejo.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Las acusaciones de Kiaransalee mantienen su atribución.",
+    "La condición de avatar se proclama por Viztya; no se demuestra con un acto nuevo.",
+    "El viaje queda encargado, no realizado en este fragmento."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-07-17T09:32:50.420000+00:00",
+  "fin_utc": "2026-07-17T09:33:31.795000+00:00",
+  "fecha_local": "2026-07-17",
+  "intervalo": {
+    "anterior": 45,
+    "siguiente": 46,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527375684333338644",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1529917702439698493",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 45,
+        "fecha": "2026-07-16",
+        "inicio_referencia_utc": "2026-07-16T18:02:20+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527375684333338644"
+      },
+      {
+        "capitulo": 46,
+        "fecha": "2026-07-23",
+        "inicio_referencia_utc": "2026-07-23T18:26:16+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1529917702439698493"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1527609013494222929",
+      "fecha_utc": "2026-07-17T09:32:50.420000+00:00",
+      "fecha_local": "2026-07-17",
+      "editado_utc": "2026-07-17T11:10:49.360000+00:00",
+      "texto": "**En el barrio de Vel'wundruss, asentado sobre la cumbre más alta de la ciudad de Ches Farak, se alzan las residencias de las casas más influyentes de la sociedad drow. La más prominente de todas, erigida sobre una gigantesca estalagmita que proyecta su sombra sobre el resto de mansiones nobles, pertenece a la Primera Casa: la Casa Unthuar.**\n\n**La poderosa Madre Matrona Brythya había sido informada por su hijo Deyvon de que la Matrona Miz'lin estaba perdiendo el control sobre su Zin-Carla. En la sala de audiencias de la Casa Unthuar, la anciana drow se encontraba junto a su hija Viztya recitando antiguos salmos dedicados a la Diosa del Caos para llamar a una sirvienta.**\n**Mientras ambas permanecían absortas en la plegaria, una voz irrumpió en la estancia.**\n\n???: Madre Matrona Brythya Unthuar... **Se escuchó una risa mientras pronunciaba aquel nombre.** Es un placer conocer a una de las siervas más devotas de nuestra Señora del Caos.\n\nBrythya: ¡¿Quién eres y cómo osas responder a una llamada dirigida a Lady Lolth?! **Respondió la Matrona con furia, mientras Viztya llevaba instintivamente la mano a la empuñadura de su látigo de serpientes.**\n\n???: Oh... Nuestra señora no puede atender a tus ruegos, Matrona. **La risa siguió resonando por toda la sala.** Está ocupada... y ahora soy yo quien se sienta en el Trono de Telarañas.\n\nViztya: ¡Blasfemia! ¡¿Quién eres y cómo osas...?! **Exclamó la fanática suma sacerdotisa.**\n\nBrythya: Kiaransalee... **La interrumpió la Madre Matrona con voz grave.**\n\nKiaransalee: **La diosa rió con más fuerza.** Me siento honrada de que una de las más fieles adoradoras de Lolth conozca mi nombre.\n\nBrythya: Hemos invocado a Eskavidne. ¿Dónde está la sirvienta? **Preguntó la poderosa drow sin alterar su semblante.**\n\nViztya: ¡No somos tus sirvientas! **Gritó la suma sacerdotisa al escuchar la burla de la diosa hereje.**",
+      "mensaje_sha256": "fb5a40e1d332ef57a20a59e6d7cae491b248930fea45b374b2891f8c5e164ae3",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1527609013494222929",
+      "texto_sha256": "d1843881998406e311207981cb10f04c1798a4407b2206ffa57aeae0f2c88709",
+      "adjuntos": []
+    },
+    {
+      "id": "1527609083862061056",
+      "fecha_utc": "2026-07-17T09:33:07.197000+00:00",
+      "fecha_local": "2026-07-17",
+      "editado_utc": null,
+      "texto": "Kiaransalee: No os quedará más remedio que serlo, niña. **Su voz se volvió fría al dirigirse a Viztya.** Lady Lolth ya no puede escucharos. Os ha abandonado. **Su tono seguía siendo burlón, pero cada palabra era una acusación.** Y ha sido gracias a la Casa Unthuar. ¿Qué crees que pensarán las demás casas nobles cuando descubran que vuestras acciones han silenciado a la Reina Araña... y me han permitido alzarme ante los drow?\n\nViztya: ¡Hicimos lo que Lady Lolth nos ordenó! ¡Somos su voz! ¡Madre es el avatar de la Reina en este plano! **La sacerdotisa apenas podía contener su rabia.**\n\nBrythya: **No respondió. Con un leve movimiento de la mano hizo callar a su hija. Permaneció inmóvil, con el ceño fruncido y la mirada perdida, repasando cada uno de los actos que había llevado a cabo desde que la propia Lolth la bendijo con su gran designio.**\n**Pero... ¿cuál era realmente ese designio ¿Elevar a la Casa Unthuar por encima de todas las demás? ¿Convertir a Danifae en el recipiente perfecto? ¿O simplemente sembrar el caos?**\n**La Madre Matrona chasqueó la lengua. Más que ninguna otra sacerdotisa, ella sabía que los planes de la Reina Araña nunca seguían un único camino.**\n\nKiaransalee: Pronto volveremos a hablar, Madre Matrona. **Su voz sonaba divertida.** Y espero que para entonces hayas enseñado a tu hija el respeto que merece una diosa. **La risa fue apagándose poco a poco hasta desaparecer por completo, dejando a madre e hija solas en el más absoluto silencio.**\n\nViztya: ¡Esto es intolerable! ¡¿Cómo es posible?! ¡¿Dónde está Lady Lolth?!",
+      "mensaje_sha256": "e33064bc1a5ebefb12eeef010c3880b9d01b6cfd807b593054f897fc333736c3",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1527609083862061056",
+      "texto_sha256": "eb09b6af19e61558e94564889f62ea17ad8c9204450ece84c32a2031f1fd1e85",
+      "adjuntos": []
+    },
+    {
+      "id": "1527609187033682051",
+      "fecha_utc": "2026-07-17T09:33:31.795000+00:00",
+      "fecha_local": "2026-07-17",
+      "editado_utc": null,
+      "texto": "Brythya: Tengo una tarea para ti, Suma Sacerdotisa Viztya. **La Matrona habló tras un largo silencio, ignorando por completo las protestas de su hija.**\n\nViztya: **La drow se quedó callada de inmediato, sorprendida por el cambio de tema.** \n\nBrythya: Serás enviada a la ciudad de Xhuldriss. Hablarás con la Madre Matrona de la Casa Xorlarrynis.\n\nViztya: Pero, Madre Matrona... antes deberíamos informar al Consejo Regente...\n\nBrythya: No. **La interrumpió con firmeza.** Debemos hablar con las casas de Xhuldriss antes de que las demás casas de Ches Farak descubran lo ocurrido. **Su mirada se endureció.** No pienso arriesgarme a que utilicen esto para formar una alianza y arrebatarnos nuestra posición. Irás a Xhuldriss. **No admitía discusión.**\n\nViztya: Sí, madre. **Respondió la suma sacerdotisa mientras inclinaba respetuosamente la cabeza ante la Madre Matrona.**\n\n🔴 Fin de la escena 🔴",
+      "mensaje_sha256": "42a237cc83a3e1bc65584dfde5188ed9e301fb128b3190b7beeb7f18a83dc2e4",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1527609187033682051",
+      "texto_sha256": "bebadc72af796ed0a45a444899381c64068bf27316f72519c1ef12448559ca54",
+      "adjuntos": []
+    }
+  ]
+}

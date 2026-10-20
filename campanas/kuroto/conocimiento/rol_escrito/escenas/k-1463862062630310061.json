@@ -1,0 +1,166 @@
+{
+  "id": "k-1463862062630310061",
+  "campana": "kuroto",
+  "unidad_revision": "k-1463862062630310061",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "Wukong parte por el camino de la serpiente",
+  "resumen": "Erlang y Tang despiden al monje, que inicia corriendo un sendero de longitud desconocida.",
+  "relato": "La escena retoma una conversación anterior sin reproducir lo sucedido antes. Erlang Shen empuja a Wukong hasta el inicio de un camino y se despide entre bromas sobre Tang y los establos. El monje Tang lo mira con satisfacción y piensa que por fin ha alcanzado su destino, aunque todavía le queda trabajo.\n\nWukong se queja del golpe y comenta que no sabía que los muertos pudieran sentir dolor. Al contemplar el enorme recorrido protesta por su longitud, pero no recibe una distancia ni una explicación de sus reglas. Se despide respetuosamente de Tang e invita a Erlang a visitar a sus compañeros, mencionando a Arwen. Finalmente se vuelve hacia el camino de la serpiente, respira y echa a correr hasta perderse de vista. No se muestra que alcance el otro extremo ni que regrese a Kuroto.",
+  "participantes": [
+    "Wukong",
+    "Erlang Shen",
+    "Tang Sanzang"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1463862800794517564",
+      "afirmacion": "Erlang empuja a Wukong al principio del sendero y se despide.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1463864380453159006",
+      "afirmacion": "Tang considera interiormente que Wukong ha alcanzado su destino, aunque le queda trabajo.",
+      "tipo": "pensamiento"
+    },
+    {
+      "mensaje_id": "1463869492429066343",
+      "afirmacion": "Wukong se despide y comienza a correr por el camino de la serpiente.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Imagen vista: sendero serpentino entre nubes hacia edificios; no proporciona distancias ni completa el trayecto.",
+    "El comentario de Wukong sobre estar muerto se mantiene atribuido; esta escena no muestra su muerte ni explica las condiciones del lugar.",
+    "Camino del Dragón y camino de la serpiente aparecen como rótulos del mismo recorrido dentro del intercambio; no crear dos viajes."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-01-22T11:45:12.973000+00:00",
+  "fin_utc": "2026-01-26T18:26:19.422000+00:00",
+  "fecha_local": "2026-01-22",
+  "intervalo": {
+    "anterior": 181,
+    "siguiente": 182,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1463611734899167390",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1465425150315991041",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 181,
+        "fecha": "2026-01-21",
+        "inicio_referencia_utc": "2026-01-21T19:10:08+00:00",
+        "fin_estimado_utc": "2026-01-21T22:02:01+00:00",
+        "duracion_video_segundos": 10313,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1463611734899167390"
+      },
+      {
+        "capitulo": 182,
+        "fecha": "2026-01-26",
+        "inicio_referencia_utc": "2026-01-26T19:16:02+00:00",
+        "fin_estimado_utc": "2026-01-26T21:44:10+00:00",
+        "duracion_video_segundos": 8888,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1465425150315991041"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1463862062630310061",
+      "fecha_utc": "2026-01-22T11:45:12.973000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "<@616683133374562304> <@220602485977382912> (Seguimos por aquí) 😜",
+      "mensaje_sha256": "d1320f7574b545cf2440314cb28ed8e7450100518c7c4653b5a591445705479b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1463862062630310061",
+      "texto_sha256": "83b119058cc7fbd6779cecdd2b6c03cc820190ba6b83716b2c16202788c0f067",
+      "adjuntos": []
+    },
+    {
+      "id": "1463862180695900357",
+      "fecha_utc": "2026-01-22T11:45:41.122000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "422e8254c347ea33943525032e4f8184f1269cc31c726f2f036452f72cca894d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1463862180695900357",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1463862180440178774",
+          "nombre": "90be0b24211e68839e0573456c875107.jpg",
+          "tipo": "image/jpeg",
+          "archivo": "adjuntos/1463862180440178774.jpg",
+          "url": "rol_escrito/adjuntos/1463862180440178774.jpg",
+          "bytes": 111383,
+          "sha256": "5df2b8455b96edfb52ea099c173fbd4f9f0bb39a74d68793b5e13dc66383d414"
+        }
+      ]
+    },
+    {
+      "id": "1463862800794517564",
+      "fecha_utc": "2026-01-22T11:48:08.965000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": "2026-01-22T11:50:59.596000+00:00",
+      "texto": "Erlang Shen : Hasta mas ver Sun Wukong <@220602485977382912> \n**te da un empujón y caes al principio del sendero . \nCon una última mirada Shen se despide de ti ** \n\nQue sii que si !! Que ya voy .. madre mia entre el monge calvo y los caballos que no paran de cagar me va salir mi primera cana despues de 3 milenios ..",
+      "mensaje_sha256": "d2462526d83ec98100399b5a41acd9b259cfc5004f8832cd6048bc0e25544a60",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1463862800794517564",
+      "texto_sha256": "84d9d5f3324b498c48a5f2f972e9c29b77670f76c1053ff0117b3aef91432f8f",
+      "adjuntos": []
+    },
+    {
+      "id": "1463864380453159006",
+      "fecha_utc": "2026-01-22T11:54:25.585000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "Tang Sanzang: **Mira a Wukong como cae al camino del Dragon de cabeza. Se le dibuja una sonrida afable en el rostro** *Vamos Gran Sun Wukong, al fin has conseguido tu verdadero destino* **Bonk!** Anda, vamos mozo de cuadra, aún te queda trabajo",
+      "mensaje_sha256": "ce4700f4d6b133d3f50240fed825f4e8ec914211e43ef36956bcc23b05e7a6ef",
+      "tipo_discord": 19,
+      "referencia": "1463862800794517564",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1463864380453159006",
+      "texto_sha256": "76402811f8a1ff64dfb3954d32b1d7617506cb236b8e1c9c410f824c0b7d965b",
+      "adjuntos": []
+    },
+    {
+      "id": "1463869492429066343",
+      "fecha_utc": "2026-01-22T12:14:44.375000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "Wukong\n\n**Se queja del golpe mientras sigue a Shen y al Monje Tang**\n\n- no sabía que los muertos sentían dolor...\n\n**Al llegar a su destino la cara se le desencaja**\n\n- pero que coj... Que no se ve el final locos!!! Y vosotros queréis que corra hasta final de eso??? Cuantos kilómetros tiene??? Definitivamente aquí arriba no tenéis dos dedos de frente...\n\n**Se hace tremendo facepalm para luego girarse a ambos con cara de resignación**\n\n- más os vale que no haya más sorpresas por dios... Bastante tengo con lo que me espera abajo...\n\n**Le hace una reverencia al monje tang y luego mira a Shen**\n\n- tú... A ver si te dejas ver por allí abajo alguna vez... Arwen seguro que se alegra de jugar contigo... Y podemos competir de vez en cuando...\n\n**Se despide con la mano y se gira hacia el camino de la serpiente. Inspira fuertemente y exhala lentamente. Da unos saltitos y se lanza hacia el camino, esprintando a máxima velocidad nada más tocar el suelo hasta desaparecer en la distancia**\n\n<@214405113677217793> <@616683133374562304>",
+      "mensaje_sha256": "e90c1a665fc45a8aede3ae0ec4e23694482d19f3c91300671ad0f7330db1effd",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1463869492429066343",
+      "texto_sha256": "3c888aec8f48ec25cb6ba2f05f64e7721b29968dd226ce28200185ce0aaae29f",
+      "adjuntos": []
+    },
+    {
+      "id": "1465412556096147541",
+      "fecha_utc": "2026-01-26T18:26:19.422000+00:00",
+      "fecha_local": "2026-01-26",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "c37ef26674d34713def848149bda8c6eb90889d1e5443dcf425fdce13f615a9d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1465412556096147541",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

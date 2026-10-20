@@ -1,0 +1,130 @@
+{
+  "id": "x-1541875578326753473",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1541875578326753473",
+  "hilo_id": "1524091803647741996",
+  "hilo_nombre": "Jungla - En alguna parte de Xoltacán",
+  "titulo": "Luna se entrega al ritual del volcán",
+  "resumen": "La kender ofrece su propia chispa y su cuerpo se deshace en luz, sin que se confirme la purga que buscaba.",
+  "relato": "Luna asciende por la selva con un pergamino y tinta tomada al chamán. Interpreta la sangre de voluntad incandescente como una ofrenda de sí misma y espera atraer a la princesa de fuego para purgar el volcán. Recuerda la gentileza de Nox y se presenta ante el cráter con los brazos abiertos.\n\nEl calor empieza a brotar de su cuerpo. Sus pies y dedos se deshacen en partículas luminosas y el torso se vuelve translúcido. La memoria reúne el cuidado de Citlali, las bromas del campamento y un polluelo nacido de un huevo encontrado en una cueva. Aparece además una figura que el texto llama Shiaru, descrita como un pirata que intenta llegar hasta ella. No se identifica por otras fuentes en esta unidad.\n\nUna luz antigua, distinta de la princesa esperada, emerge del volcán. Luna hace un último guiño a la figura y termina deshaciéndose en chispas. El relato cierra con su desaparición corporal. No se muestra que haya purificado el lugar ni que haya logrado convocar a quien pretendía.",
+  "participantes": [
+    "Luna",
+    "Figura llamada Shiaru"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1541875578326753473",
+      "afirmacion": "Luna interpreta el ritual como una entrega personal para llamar a la princesa de fuego.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1541875637298536509",
+      "afirmacion": "Su cuerpo comienza a deshacerse mientras recuerda a sus compañeros.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1541875669611585576",
+      "afirmacion": "Surge otra luz y la sonrisa de Luna termina deshaciéndose en chispas.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Texto narrativo publicado por la jugadora sin respuesta de DM en esta unidad; conservar la desaparición como lo escrito, sin adjudicar una resolución mayor al ritual.",
+    "La purga del volcán y la identidad de la luz no se confirman.",
+    "Shiaru es aquí el nombre de una figura de pirata, aunque también nombra el pueblo; no corregirlo silenciosamente a otro personaje.",
+    "La posterior escena de Citlali reacciona a la pérdida de Luna, sin explicar el efecto ritual."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-08-25T18:23:04.536000+00:00",
+  "fin_utc": "2026-08-25T18:23:39.682000+00:00",
+  "fecha_local": "2026-08-25",
+  "intervalo": {
+    "anterior": 56,
+    "siguiente": 57,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1541149597714350182",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1545132987136344065",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 56,
+        "fecha": "2026-08-23",
+        "inicio_referencia_utc": "2026-08-23T18:12:54+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1541149597714350182"
+      },
+      {
+        "capitulo": 57,
+        "fecha": "2026-09-03",
+        "inicio_referencia_utc": "2026-09-03T18:02:12+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1545132987136344065"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1541875578326753473",
+      "fecha_utc": "2026-08-25T18:23:04.536000+00:00",
+      "fecha_local": "2026-08-25",
+      "editado_utc": null,
+      "texto": "Luna:\n**(La selva se cierra a su alrededor como una garganta verde y húmeda, cada raíz un tendón que intenta retenerla, cada liana un brazo que la acaricia con indiferencia vegetal.) Luna respira hondo, el pergamino sudado contra el pecho, y sus dedos kender—siempre inquietos, siempre listos para \"encontrar\" lo que otros pierden—se aferran al frasco de tinta que robó (tomó prestado, corrige en su mente) del chamán mayor. **\n\n- El ritual dice \"sangre de voluntad incandescente\", y yo soy la cosa más incandescente que conozco, claro, más que ese lagarto perezoso que ronca en el altar, más que el propio Xoltacan con sus escamas de ceniza. \n\n**El suelo se vuelve pedregoso, caliente, y el olor a azufre araña su garganta mientras asciende; recuerda a Nox, el pirata que apestaba a ron y a pez podrido, pero que nunca la llamó \"ladrona\" ni le arrebató un \"hallazgo\" sin preguntar—una rareza entre humanos, esa torpe gentileza suya, ahora tan lejana como la marea. Cuando la princesa de fuego vea mi ofrenda, mi propia chispa, tendrá que bajar a purgar este volcán, porque esto es lo único que sé dar que nadie más da: todo. El sendero se quiebra en una cornisa de roca negra, y abajo, el cráter ruge su aliento de magma; Luna se detiene, no por miedo, sino por respeto al eco de sus propios pasos, que suenan a despedida, y sonríe con esa alegría kender que confunde a los dioses, porque si algo aprendió de Nox—que olía a tormento pero hablaba como un ancla—es que el valor no huele bien, pero se reconoce en la mano que no tiembla al soltar. Cierra los ojos y extiende los brazos, el pergamino en alto como una vela rota, y susurra: **\n\n- Aquí estoy, princesa, ven a cobrar la cuenta que yo mismo escribí.",
+      "mensaje_sha256": "62d508c97b93a3591cd1d63cb5c4ba50a68e3c55f6c0ca2aec18b6d37da77f61",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1541875578326753473",
+      "texto_sha256": "5eee55006fb777179c7e087d3d4c79cfcb386d4095e967cd380a88f2ca253e78",
+      "adjuntos": []
+    },
+    {
+      "id": "1541875637298536509",
+      "fecha_utc": "2026-08-25T18:23:18.596000+00:00",
+      "fecha_local": "2026-08-25",
+      "editado_utc": null,
+      "texto": "**El calor ya no es externo, sino que brota de sus propios huesos como un latido prestado; Luna siente cómo sus pies se vuelven brasa, cómo sus dedos—esos que nunca pudieron quedarse quietos—se deshacen en partículas de luz anaranjada que el viento del cráter se lleva hacia arriba, hacia el cielo que se oscurece de ceniza.**\n\n*Ah, qué bonito es desaparecer, casi como cuando me escondía detrás de la falda de la abuela Citlali y ella fingía no verme, aunque su mano siempre encontraba mi oreja para tirarme con cariño. *\n\n**Y entonces lo ve, entre las volutas de humo: una silueta recortada contra el sol muriente, una figura que avanza con el balanceo de quien ha caminado sobre cubiertas podridas y ha escupido sal al océano; es Shiaru, el pirata maloliente, con su barba enmarañada y su parche en el ojo, llegando tarde como siempre, con su olor a bacalao rancio y pólvora mojada que ahora, en este momento final, le parece el perfume más familiar del mundo.** \n\n*Nox siempre decía que Shiaru apestaba a \"tesoro hundido\", pero él también olía a algo—a tabaco barato y a respeto mal disimulado, y cuando me convertía en oso—qué osos más torpes hacíamos, rodando por el campamento mientras él reía con esa tos de viejo lobo—y el polluelo gigante, ese bicho ridículo que salió del huevo que encontramos en la cueva de los murciélagos, picoteaba mi trasero de peluche mientras yo rugía de risa, ¿quién iba a decir que esas mañanas tontas serían mi última cosecha de recuerdos?*",
+      "mensaje_sha256": "55c8bc42c3e64b55f8bfdb4385aaa2586716f4c245be56811073d3c7b2844834",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1541875637298536509",
+      "texto_sha256": "0b1d9c21c58f12260d750bb59ac40d3cb801dc449746ee588eaaa2277c7ab4ad",
+      "adjuntos": []
+    },
+    {
+      "id": "1541875669611585576",
+      "fecha_utc": "2026-08-25T18:23:26.300000+00:00",
+      "fecha_local": "2026-08-25",
+      "editado_utc": null,
+      "texto": "**Su torso ya es translúcido, una linterna de carne que parpadea, y desde el fondo del volcán asoma una luz más antigua, más roja, que no es la princesa de fuego sino algo que la precede; Luna alza la mirada hacia Shiaru, que extiende un brazo inútil desde la orilla de la cornisa, y le dedica el último gesto kender que le queda: un guiño y una mueca de \"lo siento, pero ya es tarde para el rescate\", mientras su sonrisa se deshace en chispas que ascienden como luciérnagas borrachas, llevándose consigo el eco de la risa del polluelo, el regaño tierno de Citlali, y el olor a Nox que nunca se fue del todo, porque algunos olores—como ciertos piratas y ciertas decisiones—se quedan pegados al alma aunque el cuerpo se vuelva ceniza.**",
+      "mensaje_sha256": "ae68dbb1124eab91281bf27fa2cb0fe67f68dee4f1ace00c048016e385e8f50a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1541875669611585576",
+      "texto_sha256": "775e43e324b13e55b6c936e171f1cecb5729422a3d28f4627891fca03ec51c56",
+      "adjuntos": []
+    },
+    {
+      "id": "1541875725739491339",
+      "fecha_utc": "2026-08-25T18:23:39.682000+00:00",
+      "fecha_local": "2026-08-25",
+      "editado_utc": null,
+      "texto": "🔴 Fin de la escena 🔴",
+      "mensaje_sha256": "d5c7b1efd9c3b253529295123b9b27dd3b2e7e9d1d2165528fa17d78a96ce9e1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1541875725739491339",
+      "texto_sha256": "17de8d95942b0fb6967047c232c2803aac08862ce9732e9e4ad54f0347d72b95",
+      "adjuntos": []
+    }
+  ]
+}

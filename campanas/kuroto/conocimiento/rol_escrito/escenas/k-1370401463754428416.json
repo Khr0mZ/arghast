@@ -1,0 +1,104 @@
+{
+  "id": "k-1370401463754428416",
+  "campana": "kuroto",
+  "unidad_revision": "k-1370401463754428416",
+  "hilo_id": "1362071806441160834",
+  "hilo_nombre": "Base Ukyio - Sala principal",
+  "titulo": "Jhin marcha al norte",
+  "resumen": "Un paso por el portal deja su objetivo sin revelar.",
+  "relato": "Jhin sale del portal y se dirige al norte sin distraerse. La breve intervención lo muestra decidido, pero no identifica su destino concreto, propósito o llegada.",
+  "participantes": [
+    "Jhin"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1370401701135384656",
+      "afirmacion": "Jhin marcha hacia el norte.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El primer rótulo hakahara es una localización fuera de personaje, sin nueva identidad.",
+    "No inventar motivos de Jhin ni el informe aún no recibido."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-09T14:06:09.787000+00:00",
+  "fin_utc": "2025-05-09T15:00:20.138000+00:00",
+  "fecha_local": "2025-05-09",
+  "intervalo": {
+    "anterior": 113,
+    "siguiente": 114,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1370105319824298084",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1372279071790338181",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 113,
+        "fecha": "2025-05-08",
+        "inicio_referencia_utc": "2025-05-08T18:29:07+00:00",
+        "fin_estimado_utc": "2025-05-08T20:45:14+00:00",
+        "duracion_video_segundos": 8167,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1370105319824298084"
+      },
+      {
+        "capitulo": 114,
+        "fecha": "2025-05-14",
+        "inicio_referencia_utc": "2025-05-14T18:26:52+00:00",
+        "fin_estimado_utc": "2025-05-14T21:26:47+00:00",
+        "duracion_video_segundos": 10795,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1372279071790338181"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1370401463754428416",
+      "fecha_utc": "2025-05-09T14:06:09.787000+00:00",
+      "fecha_local": "2025-05-09",
+      "editado_utc": null,
+      "texto": "(hakahara)",
+      "mensaje_sha256": "cac4fab429b6548fd653bef9e9394af2d0c90d763afb7ca3005cbd74f8257b4c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1370401463754428416",
+      "texto_sha256": "9a1ad19532656b0ffdfa7a316d20dba20e92e9f1fb6464047c63763a8e294266",
+      "adjuntos": []
+    },
+    {
+      "id": "1370401701135384656",
+      "fecha_utc": "2025-05-09T14:07:06.383000+00:00",
+      "fecha_local": "2025-05-09",
+      "editado_utc": null,
+      "texto": "jhin : **sale del portal decidido sin perder mucho rato se va hacia el norte parece que tiene algo en mente y no se distrae**",
+      "mensaje_sha256": "104cbbe9ceac7614ad4d3cd811810c99a67561ed6e675e45b9f3346382b2c272",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1370401701135384656",
+      "texto_sha256": "15e421f9a126a18c772e8889c8b5be0ba393a0650914125ce1a78f28295b9f76",
+      "adjuntos": []
+    },
+    {
+      "id": "1370415096714756270",
+      "fecha_utc": "2025-05-09T15:00:20.138000+00:00",
+      "fecha_local": "2025-05-09",
+      "editado_utc": null,
+      "texto": "✖️jhin sale de escena ✖️",
+      "mensaje_sha256": "7640458825970c7f5d80517448e1f40788cf0242535ba1f36bc468236014764a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1370415096714756270",
+      "texto_sha256": "79142b415941f0cd5ceebf5228cce07e0197fefa4526bfe4b31a62ce0936d862",
+      "adjuntos": []
+    }
+  ]
+}

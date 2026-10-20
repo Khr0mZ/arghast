@@ -1,0 +1,115 @@
+{
+  "id": "k-1366056450643853483",
+  "campana": "kuroto",
+  "unidad_revision": "k-1366056450643853483",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Banzo deja una cita sin lugar",
+  "resumen": "Banzo parte al sur después de dejar a Jelbreg una nota que solo dice que deben hablar.",
+  "relato": "Banzo abandona la base rumbo al campamento del sur. Antes desliza bajo la puerta de Jelbreg una nota con el mensaje «tenemos que hablar»; en privado, pretende contarle lo sucedido con su hermana el día anterior. Cuando el drow regresa, reconoce la letra infantil y deja el papel sobre la mesilla. No sabe qué quiere Banzo y lamenta que ni siquiera haya indicado dónde encontrarlo. El intercambio queda reducido al aviso: no se celebra ninguna conversación entre ellos.",
+  "participantes": [
+    "Banzo",
+    "Jelbreg"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1366056450643853483",
+      "afirmacion": "Banzo deja la nota y parte hacia el campamento del sur.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1366056450643853483",
+      "afirmacion": "Quiere contar en privado a Jelbreg lo sucedido con su hermana.",
+      "tipo": "pensamiento"
+    },
+    {
+      "mensaje_id": "1366060195163148400",
+      "afirmacion": "Jelbreg encuentra la nota y reconoce la letra, pero no conoce el tema ni el lugar de la cita.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Leídos íntegros los tres mensajes y el cierre explícito.",
+    "El contenido que Banzo quiere comunicar es pensamiento privado; la nota no lo expresa y Jelbreg no lo conoce todavía. No se inventa una reunión posterior."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-04-27T14:20:37.935000+00:00",
+  "fin_utc": "2025-04-27T14:35:30.698000+00:00",
+  "fecha_local": "2025-04-27",
+  "intervalo": {
+    "anterior": 109,
+    "siguiente": 110,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1365035149171101736",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367206327377727518",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 109,
+        "fecha": "2025-04-24",
+        "inicio_referencia_utc": "2025-04-24T18:42:06+00:00",
+        "fin_estimado_utc": "2025-04-24T21:37:07+00:00",
+        "duracion_video_segundos": 10501,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1365035149171101736"
+      },
+      {
+        "capitulo": 110,
+        "fecha": "2025-04-30",
+        "inicio_referencia_utc": "2025-04-30T18:29:35+00:00",
+        "fin_estimado_utc": "2025-04-30T20:53:27+00:00",
+        "duracion_video_segundos": 8632,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367206327377727518"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1366056450643853483",
+      "fecha_utc": "2025-04-27T14:20:37.935000+00:00",
+      "fecha_local": "2025-04-27",
+      "editado_utc": null,
+      "texto": "Banzo: **Abandona la base en direccion al campamento sur , habria deja un mensaje por debajo de la puerta de Jelbreg <@214405113677217793> , en el pondría tenemos que hablar ** \n*tengo que contarle lo de ayer con su hermana*",
+      "mensaje_sha256": "d22e77445085b76d175ae05731e9f6cc75197affab9e4c8826aab819e5b791b5",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1366056450643853483",
+      "texto_sha256": "32851a868ea290465ad8641ed7283e6fd0c53b2d887e466ca4361709e02ed69c",
+      "adjuntos": []
+    },
+    {
+      "id": "1366056599952687165",
+      "fecha_utc": "2025-04-27T14:21:13.533000+00:00",
+      "fecha_local": "2025-04-27",
+      "editado_utc": null,
+      "texto": "❌  Banzo sale de la escena ❌",
+      "mensaje_sha256": "a2251147c2b3ba3444c587c736ccc91c5e00cbea6dff14f95927cb23c2e48e82",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1366056599952687165",
+      "texto_sha256": "d609d442a60c18bc1c50154ae524dfe0a2c1a35d4791f349c2ab23940e793acd",
+      "adjuntos": []
+    },
+    {
+      "id": "1366060195163148400",
+      "fecha_utc": "2025-04-27T14:35:30.698000+00:00",
+      "fecha_local": "2025-04-27",
+      "editado_utc": "2025-04-27T16:59:57.389000+00:00",
+      "texto": "Jelbreg: **El drow llega a la base de Sho y atraviesa el salón para abrir la puerta de su habitación. Mira al suelo y levanta una ceja al ver un papelito...** *\"Tenemos que hablar...\" Esta letra tan infantil... es la de Banzo... seguro, ¿Qué quiere ahora?* **Deja el papel encima de la mesilla de noche** *Almenos podría haber puesto donde podría encontrarle...*\n\n🔴 Fin de escena🔴",
+      "mensaje_sha256": "966409eb046d7e7c7fc89d608af2ae97e5b4bea402a62d19b5bad628d0ee89b1",
+      "tipo_discord": 19,
+      "referencia": "1366056450643853483",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1366060195163148400",
+      "texto_sha256": "311612407969c745f4e816ab964e2ceffcd4adf8207fa25be08f1d6e2643e8a8",
+      "adjuntos": []
+    }
+  ]
+}

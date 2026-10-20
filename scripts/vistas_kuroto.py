@@ -14,7 +14,7 @@ def refresh(data):
     through = progress.get('revision_continua_hasta', max((chapter['capitulo'] for chapter in reviewed), default=0))
     complete = len(reviewed) == len(chapters)
     scope = (f'Las {len(chapters)} sesiones disponibles tienen relato revisado, con numeración hasta el capítulo 182. '
-             'El capítulo 92 no figura en las fuentes recuperadas.' if complete else
+             'No se dispone del vídeo ni de la transcripción del capítulo 92.' if complete else
              f'{len(reviewed)} de {len(chapters)} sesiones con relato revisado. '
              f'Revisión continua desde el inicio hasta el capítulo {through}; '
              'los otros capítulos revisados pueden pertenecer a bloques posteriores. '
@@ -93,7 +93,7 @@ def refresh(data):
 
 Kuroto y Xoltacan son campañas diferentes del mundo Arghast. Comparten interfaz y tipos de ficha, manteniendo separados capítulos, identidades y evidencias. La presencia de un nombre o lugar parecido no permite trasladar hechos entre ambas campañas sin contraste.
 
-El catálogo de la lista oficial contiene {len(chapters)} vídeos numerados hasta el 182. El 92 no se ha localizado ni en la lista ni en los 507 vídeos del catálogo público del canal consultado el 14 de octubre de 2026. Esto no demuestra que nunca existiera.
+El catálogo de la lista oficial contiene {len(chapters)} vídeos numerados hasta el 182. El vídeo 92 no se ha localizado ni en la lista ni en los 507 vídeos del catálogo público del canal consultado el 14 de octubre de 2026. Un anuncio de Twitch documenta el directo del episodio 92 el 13 de marzo de 2025; no se dispone de su vídeo ni de su transcripción y no se marca como sesión revisada.
 
 Hay {len(available)} transcripciones disponibles: {len(available)-len(local)} proceden de pistas de YouTube y {len(local)} se generaron localmente del audio con Whisper. Los capítulos 96, 135 y 136 no ofrecen subtítulos manuales ni automáticos en YouTube; su procedencia local se identifica en la lectura. Los VTT conservan hashes; las fuentes locales registran además modelo, parámetros y hash del audio.
 
@@ -107,11 +107,22 @@ Las declaraciones conservan su atribución. Las teorías y las bromas no se conv
 
 Las {len(data['seguimiento']['preguntas'])} preguntas se cotejan con evidencias posteriores, manteniendo el origen y la respuesta. No se cierra un misterio por falta de menciones. El estado de cada entrada indica hasta dónde llega su cotejo. {'Todas las entradas están cotejadas hasta el epílogo del capítulo 182; las preguntas pendientes o parciales conservan lo que sigue sin respuesta en el catálogo disponible.' if not data['seguimiento']['por_actualizar'] else str(data['seguimiento']['por_actualizar'])+' entradas necesitan cotejar las sesiones posteriores.'}
 
+## Fechas de emisión y publicación
+
+Cada capítulo distingue el directo original de Twitch, la publicación posterior en YouTube y el aviso de Discord. Se cotejan campaña, número y título; los títulos contradictorios y los avisos repetidos en días distintos quedan pendientes. Las tarjetas de YouTube sin marca temporal solo acreditan que el vídeo estaba disponible cuando se anunció. El enlace Twitch de la descripción promocional de YouTube no convierte el aviso en un directo.
+
+Las fechas civiles se muestran en Europe/Madrid. Se conserva por separado la hora del aviso y la marca temporal de su tarjeta. La apertura del directo no fija el comienzo exacto de la partida, especialmente en los directos mixtos 72–74 con Diceland. Esta cronología civil no establece fechas del calendario ficticio; las escenas de rol escrito conservan su propia lectura y fuentes.
+
+La cronología de Kuroto tiene fecha para sus 181 capítulos catalogados: 163 documentadas y 18 asumidas, con estimaciones de origen, fuentes y discrepancias conservadas. El cotejo de información y anuncios adopta el 49 el 24 de septiembre de 2024, el 56 el 10 de octubre de 2024 y el 134 el 2 de julio de 2025. Los avisos rotulados Zaland o Campaña III se conservan como contradicciones; no se reclasifican como pruebas directas de Kuroto. Los títulos repetidos pueden ser continuaciones, intentos cancelados o avisos sin actualizar. Aceptar un día no fija una hora ni un corte exacto para el rol escrito. El orden de capítulos se usa como hipótesis de orden de emisión.
+
+Los calendarios de información se conservan como programación prevista, con lectura visual completa, hashes y marcas de publicación y edición. Se muestran separados del aviso de directo y de las subidas de YouTube. Un plan puede cambiar: Kuroto 12 pasa del 2 al 7 de mayo entre calendarios. Kuroto 55 y 56 adoptan el 9 y 10 de octubre como hipótesis conjunta del calendario y de dos avisos con títulos anteriores. El aviso literal del 55 del día 10 y la antigua correspondencia se conservan en el registro de corrección. Las inferencias no se confirman entre sí ni modifican el canon narrativo.
+
 ## Preparación local
 
 Las entregas de los bloques se integran tras comprobar hashes, citas, relatos, horizontes de revisión y cobertura de entidades. Los cambios permanecen en local. No se publica ni se hace git push sin aprobación expresa del usuario sobre la versión revisada.
 '''
-    document('metodo','Fuentes y método de Kuroto','METODO.md',method)
+    from rol_escrito import ROLE_METHOD
+    document('metodo','Fuentes y método de Kuroto','METODO.md',method + '\n' + ROLE_METHOD)
     status = (f'**Estado de Kuroto:** {len(chapters)} vídeos catalogados; {len(available)} transcripciones '
               f'({len(available)-len(local)} de YouTube y {len(local)} locales). '
               f'{len(reviewed)} sesiones con relato revisado, {len(data["facts"])} evidencias y '

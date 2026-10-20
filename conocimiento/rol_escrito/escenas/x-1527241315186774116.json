@@ -1,0 +1,232 @@
+{
+  "id": "x-1527241315186774116",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1527241315186774116",
+  "hilo_id": "1482149664131383316",
+  "hilo_nombre": "Cuicapalli - La villa tranquila",
+  "titulo": "Ayoto cae agotado y Tlaxca prepara comida",
+  "resumen": "Guayacán lo carga hasta los demás y pide una alternativa vegetariana, pero el picante lo sobrepasa.",
+  "relato": "Tras un combate anterior, Ayoto y Tlaxca vuelven a Cuicapalli y despellejan al Escupelodo. Mientras uno prepara la carne, Ayoto lleva escamas al herrero y pide otro chimalli para proteger a su tribu. Antes de terminar, cae inconsciente por agotamiento. La fabricación del escudo no se muestra.\n\nGuayacán lo sostiene y lo carga hasta el resto, furioso por el peso y por el dolor que aún le causa el ácido. Después lo deja en el suelo y busca comida. El olor del asado despierta poco a poco a Ayoto, que empieza a arrastrarse hacia él.\n\nEl luchador pide algo vegetariano y Tlaxcaltecuthli prepara aguachiles con fruta de Xoltacan. Guayacán explica su dieta y considera comer pescado o marisco, pero rechaza los huevos por su identificación aviar. Al probar el plato se ahoga en el picante.\n\nAyoto come carne sin dificultad, prueba la fruta y anima al compañero a alimentarse para hacerse fuerte. Guayacán continúa su plato sudando y llorando, empeñado en mantener la compostura. El intercambio queda abierto para la llegada de Leona en la siguiente unidad.",
+  "participantes": [
+    "Ayoto",
+    "Guayacán",
+    "Tlaxcaltecuthli"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1527241315186774116",
+      "afirmacion": "Ayoto pide un chimalli de escamas del Escupelodo y cae inconsciente por agotamiento.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1527253287773012088",
+      "afirmacion": "Guayacán lo carga hasta los demás.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1527274629474029629",
+      "afirmacion": "Tlaxca prepara una comida vegana para Guayacán.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1527285810758422570",
+      "afirmacion": "El picante sobrepasa la tolerancia del luchador.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1527294520264495244",
+      "afirmacion": "Ayoto se incorpora y come sin mostrar el mismo problema.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Ayoto, Ayato y Āyōtōchtli Tonatiuh aparecen en el mismo arco de los chimalli; conservar variantes sin inventar otro portador.",
+    "La preparación anterior del Escupelodo es retrospectiva; no recrear su combate.",
+    "Las afirmaciones nutricionales pertenecen al diálogo ficticio.",
+    "Tlaxca es abreviatura explícita de Tlaxcaltecuthli."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-07-16T09:11:44.312000+00:00",
+  "fin_utc": "2026-07-16T12:50:56.363000+00:00",
+  "fecha_local": "2026-07-16",
+  "intervalo": {
+    "anterior": 44,
+    "siguiente": 45,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527010759236653109",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527375684333338644",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 44,
+        "fecha": "2026-07-15",
+        "inicio_referencia_utc": "2026-07-15T17:55:09+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527010759236653109"
+      },
+      {
+        "capitulo": 45,
+        "fecha": "2026-07-16",
+        "inicio_referencia_utc": "2026-07-16T18:02:20+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527375684333338644"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1527241315186774116",
+      "fecha_utc": "2026-07-16T09:11:44.312000+00:00",
+      "fecha_local": "2026-07-16",
+      "editado_utc": null,
+      "texto": "**Después de un buen combate y habiendo cumplido el cometido de Ayoto, atraer sobre sí los golpes para proteger a su tribu, regresa agotado a Cuicapali junto a Tlaxca. Entre ambos despellejan al Escupelodo. Mientras Tlaxca comienza a preparar la carne de la bestia, Ayoto toma las gruesas escamas y camina lentamente hacia la herrería. Cada paso pesa más que el anterior.**\n\n**Al llegar, deja el pesado montón de escamas frente al herrero. Sus brazos tiemblan por el esfuerzo, la sangre seca cubre parte de su cuerpo y su respiración es profunda y entrecortada.**\n**Con la poca fuerza que aún le queda, apoya un Chimalli contra la puerta para no caer.**\n-...Qui... querer hacer... otro Chimalli... con escamas... cualli... fuerte... para proteger tribu...\n**Una leve sonrisa aparece en su rostro al imaginar el nuevo escudo.**\n-Tonatiuh... querer...\n\n**Antes de poder terminar la frase, las piernas dejan de sostenerlo. Su enorme cuerpo se desploma pesadamente en la entrada de la herrería, quedando inconsciente por el agotamiento.**\n<@256567764171489292> <@226504798978048000> <@171702246952665098>",
+      "mensaje_sha256": "8d378651591102820bc70b29e87e333ad2040b4ba8a7ce695c92f54531593096",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1527241315186774116",
+      "texto_sha256": "ac348080ed0409117f818b0a2f9ef7914b90d4dd9335c6f5b54a884bb1db20e4",
+      "adjuntos": []
+    },
+    {
+      "id": "1527242355093278841",
+      "fecha_utc": "2026-07-16T09:15:52.245000+00:00",
+      "fecha_local": "2026-07-16",
+      "editado_utc": "2026-07-16T09:16:18.972000+00:00",
+      "texto": "Guayacan: \n**observa de reojo a Ayoto, entrecerrando los ojos**\n-*\"Yo....no me vere asi de ridiculo...¿verdad?...\"*\n**piensa para si mismo, siendo que le tenia sostenido desde el brazo y ahora esta pendido en sus brazos**\n-Maldita sea Ayoto...\n**tensa los dientes con desden, pensando en la fuerza inumada de Leona como inspiracion para sostenerlo, enojandose al saber que tiene un saco de papas encima**\n-RRRGGgGG...MALDITO CABEZA DE ALCORNOQUE!! QUE ERES UN JODIDO GUERRERO! \n**comienza a andar en direccion al resto, sin importar lo que le cueste tomara esta tarea como entrenamiento, aunque su cuerpo este sumido en dolor por el acido**\n-ESTO...NO...ME DENTENDRA!!! CRRAAAAWR!!",
+      "mensaje_sha256": "de8d67ffe78d8eae92f10deeaef77e51b243bf5d4d5e3e2db65f241b71308893",
+      "tipo_discord": 19,
+      "referencia": "1527241315186774116",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1527242355093278841",
+      "texto_sha256": "6d226f96d6f6597851fd48fa8029a92d07bdfb9d4add9e24c09b5d5ba9110af1",
+      "adjuntos": []
+    },
+    {
+      "id": "1527249742055079996",
+      "fecha_utc": "2026-07-16T09:45:13.434000+00:00",
+      "fecha_local": "2026-07-16",
+      "editado_utc": null,
+      "texto": "Tlaxcaltecuthli:\n\n*Pinta los gambones con la salsa picante y empieza a comerlo a grandes bocados*\n\nMhm mrom ñom la carne esta dura pero el picante le da su gustillo. Pura proteina papa, alimento para el musculo",
+      "mensaje_sha256": "edb693c2c8a41a1cb05b74dde423fae0ca16530e250748e3c0d7a2e2bbc546f9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1527249742055079996",
+      "texto_sha256": "b8dcab6b1aca7458a60432281f072373e4126e3842943e6c54a46e7dd872960d",
+      "adjuntos": []
+    },
+    {
+      "id": "1527253287773012088",
+      "fecha_utc": "2026-07-16T09:59:18.799000+00:00",
+      "fecha_local": "2026-07-16",
+      "editado_utc": null,
+      "texto": "Guayacán:\n**Tomandose su tiempo llega hasta el resto, teniendo a Ayoto a cuestas y con la mascara del traje humedo del sudor**\n-Rghgg!! HUUFFF!! HmMMMMh!!!\n**Dejo a Ayoto en el suelo, dejando escapar un graznido de guerrero mezclado con molestia**\n-CRAAAAAAWWWW!!! AYOTO MALAGRADECIDO!!! A VER QUIÉN SERÁ EL QUE TE AYUDE A EXTRAER PIEL PARA COMER TU MUGROSA CARNE!!!\n**Se sienta de golpe, escuchando su estómago rugir con una fuerza igual a su graznido, calmandose por el cansancio**\n-....mierda...hace hambre...\n**Dice mas persona que ave, buscando algo de comer que un vegetariano pueda consumir**",
+      "mensaje_sha256": "3aa7bc5ed75c33c950ec04cf96394585f5e25c1554534f39864b97e080c580f0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1527253287773012088",
+      "texto_sha256": "b89e53427cf59d35ec89600452131ddc9cac8a1da8965de190e9c8b3dbb9d451",
+      "adjuntos": []
+    },
+    {
+      "id": "1527262541938430013",
+      "fecha_utc": "2026-07-16T10:36:05.164000+00:00",
+      "fecha_local": "2026-07-16",
+      "editado_utc": null,
+      "texto": "**El aroma de la carne asada y el picante llega hasta Ayoto incluso estando medio inconsciente. Sus fosas nasales se mueven una y otra vez mientras olisquea el aire como una enorme bestia buscando comida. Poco a poco, sus dedos empiezan a moverse y un fino hilo de baba cae por la comisura de sus labios.**\n-Co... comida...\n**Su estómago ruge con tanta fuerza que parece responder al graznido de Guayacán. Sin abrir aún los ojos, estira torpemente un brazo hacia donde percibe el olor, palpando el suelo hasta aferrarse a la pierna del primero que encuentra.**\n-Tlāxca... ¿carne... lista...?\n**Abre un ojo apenas una rendija y olisquea otra vez con insistencia. Una pequeña sonrisa cansada aparece en su rostro.**\n-Mmmm... picante... cualli...\n**Sin incorporarse siquiera, intenta arrastrarse lentamente en dirección al olor de la comida, dejando un surco sobre la tierra mientras sigue olisqueando como un enorme oso hambriento.**\n-Tonatiuh... decir... primero comer... luego dormir...\n<@256567764171489292>",
+      "mensaje_sha256": "76c5d68fbd67828db448813ec2e0f4014e6a7ebaf635046a8a7ec89caf1fb0e2",
+      "tipo_discord": 19,
+      "referencia": "1527249742055079996",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1527262541938430013",
+      "texto_sha256": "cc7d7a3c6597a5624c6b0c3112f3fdaf42635b2f4133b3ffafa364ce3e1bb3b9",
+      "adjuntos": []
+    },
+    {
+      "id": "1527263456556879943",
+      "fecha_utc": "2026-07-16T10:39:43.226000+00:00",
+      "fecha_local": "2026-07-16",
+      "editado_utc": "2026-07-16T10:40:13.224000+00:00",
+      "texto": "Guayacan: \n**voltea a ver a Tlāxca, suponiendo que es el cocinero designado de este lugar**\n-No...tendras...algo para...un vegetariano..? No soy una ave carroñera ni rapiña...Mi dieta es rica en vegetales, frutas, tuberculos y legumbres...\n<@226504798978048000>",
+      "mensaje_sha256": "a52d173fdacaaa45f77600486a57346ec013462aa780fffe9ddd6a41c24d2a2d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1527263456556879943",
+      "texto_sha256": "d900017328efae4b2e851669f2f41ac06f38d6c7aa62ab242f57be3425a4ac6d",
+      "adjuntos": []
+    },
+    {
+      "id": "1527274629474029629",
+      "fecha_utc": "2026-07-16T11:24:07.057000+00:00",
+      "fecha_local": "2026-07-16",
+      "editado_utc": "2026-07-16T11:24:55.741000+00:00",
+      "texto": "Tlaxcaltecuthli:\n\nMhmm solo con verdura vas a necesitar comer mucho para mantener esa pose herculea Guayacan, pero algo seguro que hay \n\n*Prepara unos aguachiles veganos con fruta de xoltacan*\n\nY si, bien lista y cocinada hermano, espero que te recomponga\n\n<@449688546580627476> <@256567764171489292>",
+      "mensaje_sha256": "8cea928625e2a987aa9d0edb88b32d2cae1e4b754122c014eb41a37a7585da53",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1527274629474029629",
+      "texto_sha256": "f495e523a21fea6bed9097bd1e593378e0d45c5a0e3a5ab469675f1bd4d1358b",
+      "adjuntos": []
+    },
+    {
+      "id": "1527283662242975965",
+      "fecha_utc": "2026-07-16T12:00:00.637000+00:00",
+      "fecha_local": "2026-07-16",
+      "editado_utc": null,
+      "texto": "Guayacan: \n**siente los olores haciendosele agua a la boca, tomando el platillo**\n-Oh! Hay fuente proteica en varias plantas. Los hongos, por ejemplo, son una fuente proteica sana y efectiva! O las legumbres y cereales...\n**voltea a ver a Tlaxca**\n-...aunque...podria abrirme al pescado y mariscos...pero nada de huevos! eso es canibalismo!",
+      "mensaje_sha256": "76537f2a43f2836b591ac5383fc41964a33e60a0613fcb11a5887eac49fca6cb",
+      "tipo_discord": 19,
+      "referencia": "1527274629474029629",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1527283662242975965",
+      "texto_sha256": "24ad2f9a4cc26be09fa472f3834d60b2d17b37e1ad12a16438b37878e75c1bcd",
+      "adjuntos": []
+    },
+    {
+      "id": "1527285810758422570",
+      "fecha_utc": "2026-07-16T12:08:32.883000+00:00",
+      "fecha_local": "2026-07-16",
+      "editado_utc": null,
+      "texto": "Guayacan: \n**da un bocado del Aguachili, sin percatarse de algo esencial, basico si se puede decir....y es el picor endemoniado que un pobre diablo vegetariano no estaria del todo acostumbrado**\n-...???!!!\n**suelta fuego de su boca, sacando la lengua del pico cual perro**\n-CRAAAAAA CRAAA!!! QUEEEEEMAAAAAAAHHHH!!",
+      "mensaje_sha256": "f019e6e638885f7650edfa1c110088e32aeb395d5d91c42aafc3125c6efa1577",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1527285810758422570",
+      "texto_sha256": "21210ab99bf81b9be2ae94aa5c2cb6ebed0b740764fcec3eeebaca3e3364adba",
+      "adjuntos": []
+    },
+    {
+      "id": "1527294520264495244",
+      "fecha_utc": "2026-07-16T12:43:09.391000+00:00",
+      "fecha_local": "2026-07-16",
+      "editado_utc": null,
+      "texto": "**El rugido de Guayacán hace que Ayoto, todavía tumbado en el suelo, abra lentamente un ojo. Olisquea el aire una vez más antes de incorporarse con evidente esfuerzo. Sin decir una palabra, toma un enorme trozo del Escupelodo aún humeante y le da un mordisco descomunal, como si el picante ni siquiera existiera. Mastica unos segundos antes de mirar al ave con una expresión completamente seria.**\n-...¿Quemar...?\n**Mastica otro bocado.**\n-Mmm... no quemar.\n**Se acerca lentamente a Guayacán, aún con el plato en la mano, y le ofrece un trozo de carne cubierto de salsa.**\n-Comer carne.\n**Asiente con total convicción.**\n-Carne hacer cuerpo fuerte. Tonatiuh gustar guerrero fuerte.\n**Se queda unos instantes pensativo, mirando el plato vegetariano de Guayacán con auténtica curiosidad. Después toma una fruta del aguachile y la prueba. La mastica despacio, frunce ligeramente el ceño y termina tragándola.**\n-Mmm... Fruta cualli...\n**Da otro enorme mordisco a la carne.**\n-...pero carne más cualli.\n**Con absoluta naturalidad, se sienta junto a Guayacán y continúa devorando el Escupelodo mientras el picante le resbala por la barbilla sin que parezca afectarle lo más mínimo.**",
+      "mensaje_sha256": "645122aca7a9167466f3fa923aa8225dc10d11ebf4cc0ef1db2eeaeee6933268",
+      "tipo_discord": 19,
+      "referencia": "1527285810758422570",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1527294520264495244",
+      "texto_sha256": "f2cca94cc3f33496aa89f66a063f82d2e7329d238c60ec47d81e0863943fe99e",
+      "adjuntos": []
+    },
+    {
+      "id": "1527296478886887576",
+      "fecha_utc": "2026-07-16T12:50:56.363000+00:00",
+      "fecha_local": "2026-07-16",
+      "editado_utc": null,
+      "texto": "Guayacan: \n**observa al gigante que antes habia cargado, algo no estaba bien en su cabeza, pero quien es el realmente para juzgar nada?**\n-......RghNmm...! \n**ve el platillo, ahora comiendolo aguantandose el dolor del picante, cosa que se arrepentiria luego**\n-RRghmMMMM..:!!!\n**se ven la baba y lagrimillas correr de sus ojitos mascarados, al igual que sus plumas se mojan en sudor, ahora era algo personal**\n-Esh...tah....De...li...shiuo...sho..\n**dice en dolor, pero manteniendose igual de estoico**",
+      "mensaje_sha256": "c56af91958dbe550d1b2827e185ff0f9fc7d10948ae6d31715abfc0c7ea7c123",
+      "tipo_discord": 19,
+      "referencia": "1527294520264495244",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1527296478886887576",
+      "texto_sha256": "2e392860dfc010760249e35c80ad11ebc9a391731f4e35791ee7fc58f34da226",
+      "adjuntos": []
+    }
+  ]
+}

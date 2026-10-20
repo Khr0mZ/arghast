@@ -1,0 +1,250 @@
+{
+  "id": "x-1497619131359559731",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1497619131359559731",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "La escama y la amenaza de Bonny",
+  "resumen": "Citlali tiene una visión aterradora de Tutucan antes de que Bonny la interrumpa y le apunte.",
+  "relato": "Citlali despierta adolorida, revisa el huevo y descubre que en el Zampaolas faltan Ione, Bling y Nox. También falta el bastón Diálogo. Buscando indicios encuentra una pequeña escama verdosa y teme por sus compañeros. Considera pedir ayuda sin dejar desatendido el huevo.\n\nAl sostener la escama la envuelve un siseo. Sus ojos y tatuajes brillan verdes, el cuerpo se mueve sin voluntad y su boca recita un idioma siseante. Ve Tutucan arrasada, llena de muertos y criaturas incomprensibles, bajo el control de una figura pirata humanoide. La ciudad pertenece a la visión: no se afirma que haya quedado destruida materialmente en ese momento.\n\nCitlali se acerca a la figura y le suplica que reaccione, convencida de que no es así. El ser muestra tentáculos en la espalda, le toca la mejilla y dentro de la experiencia le devuelve juventud. Ella lo rechaza y queda rígida. Cuando intenta engullirla siente un tirón doloroso y vuelve a la vejez y al barco.\n\nBonny está delante jugando con la escama. Dice que Molly le avisó de los tatuajes en uno de los compañeros de Nox, saca la pistola y apunta a Citlali mientras lamenta tener que matar viejecitas. La escena termina bajo amenaza, sin disparo, muerte ni explicación de la visión.",
+  "participantes": [
+    "Citlali",
+    "Happy Bonny",
+    "Figura pirata de la visión"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1497625763837382686",
+      "afirmacion": "Citlali encuentra ausentes a sus compañeros y al bastón Diálogo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1497633472863408149",
+      "afirmacion": "Una escama verdosa aparece como indicio en el barco.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1497641926390714478",
+      "afirmacion": "La escama desencadena brillo de tatuajes y una visión de Tutucan arrasada por criaturas controladas por un pirata.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1497647520833081405",
+      "afirmacion": "La figura le devuelve juventud dentro de la experiencia visionaria.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1497650557651914813",
+      "afirmacion": "La amenaza de ser engullida se interrumpe y Citlali vuelve al barco envejecida.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1497652201332539656",
+      "afirmacion": "Bonny relaciona los tatuajes con un aviso de Molly y apunta a Citlali.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "La edad renovada y la destrucción de Tutucan pertenecen a la visión, sin convertirlas en hechos actuales o fecha histórica confirmada.",
+    "La figura pirata no recibe nombre en este fragmento; no se identifica solo por tatuajes o el comentario posterior sobre Nox.",
+    "No se descifra el idioma siseante ni se atribuye la visión a una deidad concreta.",
+    "La pistola apunta, pero aquí no se dispara ni se confirma una muerte."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-04-25T15:23:45.334000+00:00",
+  "fin_utc": "2026-04-25T17:35:09.830000+00:00",
+  "fecha_local": "2026-04-25",
+  "intervalo": {
+    "anterior": 27,
+    "siguiente": 28,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1496936435889213451",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1499123028947370107",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 27,
+        "fecha": "2026-04-23",
+        "inicio_referencia_utc": "2026-04-23T18:10:37+00:00",
+        "fin_estimado_utc": "2026-04-23T21:02:18+00:00",
+        "duracion_video_segundos": 10301,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1496936435889213451"
+      },
+      {
+        "capitulo": 28,
+        "fecha": "2026-04-29",
+        "inicio_referencia_utc": "2026-04-29T18:59:27+00:00",
+        "fin_estimado_utc": "2026-04-29T21:04:36+00:00",
+        "duracion_video_segundos": 7509,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1499123028947370107"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1497619131359559731",
+      "fecha_utc": "2026-04-25T15:23:45.334000+00:00",
+      "fecha_local": "2026-04-25",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\n**Un nuevo día, un nuevo comienzo, me despierto adolorida del cuerpo, como si extrañamente me hubiesen movido mientras dormía**\n\n**Me levanté de la cama, acaricié el huevo y revisé que todo estuviera en orden con el**\n\n**Después caminé fuera del camarote y sentí que algo estaba extraño, no estaba el mismo ajetreo, a pesar de que seguían los mismos borrachos y mal vivientes de siempre, pero faltaba algo**\n\nQue extraño...\n\n<@214405113677217793>",
+      "mensaje_sha256": "dbce0c3d8cbbecc6eae9dd2a24e09fb087d433dffa4f62d6cf46145d31d3cccc",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1497619131359559731",
+      "texto_sha256": "e4b84142edcbb96170c2dba1e04cc7bd32776393b80d53ce5c6ca7816aef228d",
+      "adjuntos": []
+    },
+    {
+      "id": "1497625763837382686",
+      "fecha_utc": "2026-04-25T15:50:06.640000+00:00",
+      "fecha_local": "2026-04-25",
+      "editado_utc": null,
+      "texto": "**Mientras caminas por el barco, vas observando el lugar, tienes esa sensación de que algo no está bien. El barco está demasiado tranquilo de lo habitual; no se escuchan los ronquidos de Ione, ni el tintinieo de la hada Bling revolotear cerca del huevo y tampoco al despreciable de Nox durmiendo la mona en la cofia del barco. Al ir a ver el camarote de la Capitana Ione, a pesar del desorden de esta muchacha, notas que falta su preciado bastón llamado \"diálogo\" que se lleva siempre que hay problemas**",
+      "mensaje_sha256": "eff8ce1bf3e2feb1dde4698ec14a600b946efa5b2d94fdff966d13598dd8cc9d",
+      "tipo_discord": 19,
+      "referencia": "1497619131359559731",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1497625763837382686",
+      "texto_sha256": "a788899d8c368cb2d547e2c4adaddbf9aedea99528ee0018ee1d606ebffa07d6",
+      "adjuntos": []
+    },
+    {
+      "id": "1497626997516402768",
+      "fecha_utc": "2026-04-25T15:55:00.772000+00:00",
+      "fecha_local": "2026-04-25",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\n**Fruncí el ceño al no ver a los niños de siempre, un mal presentimiento me recorre la cabeza al no ver a \"Diálogo\" en su lugar**\n\nEstos niños, en qué líos se han metido ahora?, en dónde estarán?...\n\n**Reviso exhaustivamente, buscando algún indicio en el barco que me ayude a saber que ha sido de ellos**",
+      "mensaje_sha256": "cd918dc049d872d084f6184cc28e28e44928366f43d9807a7533ab9dc4d00068",
+      "tipo_discord": 19,
+      "referencia": "1497625763837382686",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1497626997516402768",
+      "texto_sha256": "1ebe04a5b26c7bfe0df0d7ce9c47c64df962ffa821d90b0125d15943233f8560",
+      "adjuntos": []
+    },
+    {
+      "id": "1497633472863408149",
+      "fecha_utc": "2026-04-25T16:20:44.615000+00:00",
+      "fecha_local": "2026-04-25",
+      "editado_utc": null,
+      "texto": "**A parte de suciedad, botellas de alcohol vacías, utensilios rotos y demás basura, no parece haber mucho más. Sigues buscando sin mucha más esperanza cuando notas algo en el suelo. Es lo que parece una pequeña escama verdosa.**",
+      "mensaje_sha256": "516ca841e7f9da99cce8ac6af784d16a5a5642b4c02370457140736fd15e93b7",
+      "tipo_discord": 19,
+      "referencia": "1497626997516402768",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1497633472863408149",
+      "texto_sha256": "bfb72f1a4e3d9677a7ec5c1f50568a3023f9a6b71db41919af172844ecddbbed",
+      "adjuntos": []
+    },
+    {
+      "id": "1497638686567956580",
+      "fecha_utc": "2026-04-25T16:41:27.659000+00:00",
+      "fecha_local": "2026-04-25",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\n**Estaba perdiendo las esperanzas y simplemente resignandome de que se habían ido a alguna excursión hasta que esa escama llamó mi atención**\n\n**Agarré aquella escama con mucho cuidado, mirándola detenidamente hasta que sentí ese frío en la espalda de que algo no estaba bien**\n\nAy no... Mis niños...\n\n**Me acomodé la ropa, e inclusive estaba tentada en llevarme el huevo a Cuicapalli, necesitaba pedir ayuda**\n\nNecesito moverme, no puedo quedarme quieta aquí sin hacer nada...",
+      "mensaje_sha256": "10ee782787142fbe6077d9d23f9b1623dbcf7cc3c051b0649d20ca6f3f28a99b",
+      "tipo_discord": 19,
+      "referencia": "1497633472863408149",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1497638686567956580",
+      "texto_sha256": "0913fac3ba087a2061f3fa33556d4f777d699e47cadcc637b05e1cdd098571df",
+      "adjuntos": []
+    },
+    {
+      "id": "1497641926390714478",
+      "fecha_utc": "2026-04-25T16:54:20.093000+00:00",
+      "fecha_local": "2026-04-25",
+      "editado_utc": null,
+      "texto": "**Empiezas a escuchar un siseo que llena la habitación, envolviendo todo como una sombra, mientras mantienes la escama en tu mano. El escalofrío vuelve a ti, pero esta vez tu cabeza se dobla hacia atrás y tus ojos se iluminan de un verde venenoso, al igual que tus tatuajes.\nTu boca se mueve sola mientras empiezas a hablar en ese idioma siseante sin parar; pareces recitar una especie de oración. Mientras tu cuerpo inerte se mueve sin tu voluntad, tú ves algo, algo aterrador, algo que ni tu mente puede llegar a comprender... Criaturas sin forma, sacadas de las peores pesadillas de un ser demoníaco, deambulan por las ruinas de una ciudad esplendorosa, una ciudad en la que tú ya has estado: Tutucan. Las criaturas parecen haber arrasado con todo a su alrededor; la gente yace muerta, con expresiones desencajadas de miedo y terror... Y en el centro de ese caos... una figura humanoide... un pirata controlando a todas esas criaturas de pesadillas cósmicas.\nEntonces, esa figura te ve. Te mira directa a los ojos y sientes el caos en tu cabeza**",
+      "mensaje_sha256": "576b343808d485a50359c4bb7d47286a87184766607433504e50c5bf9c2180d8",
+      "tipo_discord": 19,
+      "referencia": "1497638686567956580",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1497641926390714478",
+      "texto_sha256": "9556190f7a2c507e28e373388fe4380588173b3849d41f774da63f091f96ceab",
+      "adjuntos": []
+    },
+    {
+      "id": "1497645751147430009",
+      "fecha_utc": "2026-04-25T17:09:31.986000+00:00",
+      "fecha_local": "2026-04-25",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\n**Me acerco a aquella figura, tratando de mantenerme lo más serena posible pero era inevitable, podía sentir mi cuerpo temblando a cada paso que daba**\n\nTu... Tu no puedes hacer esto, tu no eres así, yo.. yo lo ví, tu no eres esto, ellos te están engañando, por favor.. reacciona",
+      "mensaje_sha256": "7022783635326fdb3e10b68dd9613731d69d27d9cc4aa7134708d3dc2d6d1d43",
+      "tipo_discord": 19,
+      "referencia": "1497641926390714478",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1497645751147430009",
+      "texto_sha256": "ef707f673647a3d7d25d2a66acc1c4cb88059942369ab7616aaabaf2d71765af",
+      "adjuntos": []
+    },
+    {
+      "id": "1497647520833081405",
+      "fecha_utc": "2026-04-25T17:16:33.912000+00:00",
+      "fecha_local": "2026-04-25",
+      "editado_utc": null,
+      "texto": "???: Slashsss sresss ssfraaaneresss s'ha sascrafteesss **El humanoide se acerca a ti, su forma es tan caótica que casi no puedes distinguir su aspecto, pero ves como de su espalda, miles de tentáculos sobresalen como látigos del caos. En un abrir y cerrar de ojos, ese ser esta frente a ti. Su mano te toca la mejilla y en ese momento sientes como todo el dolor de tus huesos se disipa, tu vista cansada vuelve a tener un brillo reluciente, tu cabello fino y grisáceo vuelve a tener ese color vivo y tu piel arrugada se tensa haciendo desaparecer el peso de la edad. Vuelves a ser joven, vuelves a ser...Tú**",
+      "mensaje_sha256": "466ab409ca88b9c0cbd75074b7c910a3429a8b67d657681e2a4db5085cbd6668",
+      "tipo_discord": 19,
+      "referencia": "1497645751147430009",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1497647520833081405",
+      "texto_sha256": "5d875b0034938f433341b2a7d6662d50d42b65f1a7f4708f49095637fc9105b2",
+      "adjuntos": []
+    },
+    {
+      "id": "1497648383282774147",
+      "fecha_utc": "2026-04-25T17:19:59.536000+00:00",
+      "fecha_local": "2026-04-25",
+      "editado_utc": null,
+      "texto": "Citlali:\n**Mi mirada no se apartaba de el, podía sentir el cambio en mi cuerpo, todo aquello que me pesaba ahora ya no estaba, bajé la mirada hacia mis manos y pude notar que la juventud había vuelto a mí**\n\nN..no, e..esto n..no está bien, no, yo..yo no soy así, yo... yo no...\n\n**Quería dar unos pasos hacia atrás, pero mi cuerpo estaba completamente rígido**\n\nNo.. nonononononono...",
+      "mensaje_sha256": "e42e08cf1adf9087c56e3a4e3b30839bda007cc00a45ae38863d5539690302bb",
+      "tipo_discord": 19,
+      "referencia": "1497647520833081405",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1497648383282774147",
+      "texto_sha256": "f417fbc478eda5691247ba16c8e00331d5b8387884ba66dbb759f3aa85c798c5",
+      "adjuntos": []
+    },
+    {
+      "id": "1497650557651914813",
+      "fecha_utc": "2026-04-25T17:28:37.946000+00:00",
+      "fecha_local": "2026-04-25",
+      "editado_utc": "2026-04-25T17:29:13.494000+00:00",
+      "texto": "???: **Notas una sonrisa aterradora en la figura que tienes delante. Su boca se desencaja como la de una serpiente, abriendola para engullirte de un bocado...**\n\n**Pero entonces notas un tirón, como si te arrancaran una parte de tu cuerpo. Gritas de dolor y vuelves a notar todo el peso de la edad volviendo a ti, mientras tu piel vuelve a arrugarse, tu cabello se cae y tu visión se cansa, escuchas una voz.**\n\n???: Vaya, así que eras tú? **Mientras tus ojos se vuelven a acostumbrar a la luz del barco, notas a alguien frente a ti jugueteando con la escama que habías encontrado**",
+      "mensaje_sha256": "c85eba4b6b5369f7034a9e41f18177fc82087b30cf4e55f18abf062cda33c096",
+      "tipo_discord": 19,
+      "referencia": "1497648383282774147",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1497650557651914813",
+      "texto_sha256": "e643a72715e6549d7fbb85ebd615c35c32e4de662a9f05fc13fdfeb00ec2cdd5",
+      "adjuntos": []
+    },
+    {
+      "id": "1497651284965199983",
+      "fecha_utc": "2026-04-25T17:31:31.351000+00:00",
+      "fecha_local": "2026-04-25",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\n**Abrí los ojos de golpe, parpadeando unas cuantas veces hasta poder ver quien me había ayudado**\n\nQ.. qué pasó?, mi cabeza...",
+      "mensaje_sha256": "c2bcd11b08484eb0e5835374c1696618598247f8661f4591e1019767de4fb52b",
+      "tipo_discord": 19,
+      "referencia": "1497650557651914813",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1497651284965199983",
+      "texto_sha256": "afc6aafb1eda65c614c1807eb778819a8f9c9a2c7adad199be5fb25d3d73d4ba",
+      "adjuntos": []
+    },
+    {
+      "id": "1497652201332539656",
+      "fecha_utc": "2026-04-25T17:35:09.830000+00:00",
+      "fecha_local": "2026-04-25",
+      "editado_utc": null,
+      "texto": "Happy Bonny: Ya me dijo Molly que uno de los compañeros de Nox tenía los tatuajes... **Lanza la escama al aire como una moneda y antes de volver a agarrarla, saca su pistola y te apunta a la cabeza** Nunca me ha gustado matar viejecitas... una pena... \n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "8483c3fa19ef3211dbe46a3c3928d2067161715641be0641b4eb3fc0e857c06e",
+      "tipo_discord": 19,
+      "referencia": "1497651284965199983",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1497652201332539656",
+      "texto_sha256": "640f182e7eec012716f9ab361260da7d0e8c6010dd4ca1c28506903fdfcd88f1",
+      "adjuntos": []
+    }
+  ]
+}

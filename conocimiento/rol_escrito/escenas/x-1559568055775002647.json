@@ -1,0 +1,279 @@
+{
+  "id": "x-1559568055775002647",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1559189680812068915",
+  "hilo_id": "1558234683177963582",
+  "hilo_nombre": "Tutucan - La ciudad de los Elementos",
+  "titulo": "Oghma explica a Ione su pacto con Jivirix",
+  "resumen": "Ione y Oghma hablan de la búsqueda de Jacky y del patrón que llevó a la anciana hasta Xoltacan.",
+  "relato": "Con Citlali dormida, Oghma pregunta por el estado en que encontraron a Jacky Jackson. Ione reconoce que lo buscaron en la jungla en lugar de la costa y considera aquello un error suyo. Quiere hablar con el grumete, aunque decide no presionarlo de inmediato. Después pregunta por el señor al que obedece Oghma.\n\nLa anciana identifica a Jivirix como su patrón y lo describe como una espada con la que pactó hace muchos años. Según cuenta, él le enseña recursos mágicos y ella le hace favores; entre bromas dice que negoció tres cuartas partes de su alma, su verdadero nombre y algunas condiciones que no comprende. Ione admite esa segunda lealtad mientras la espada no amenace a su gente y pide conocer al patrón.\n\nOghma añade que Jivirix la llevó a la isla durante unos problemas económicos, aunque no sabe qué espera de ella allí. Celebra los amigos y aventuras que ha encontrado. Ambas terminan bromeando sobre las posibles recompensas por sus cabezas, sin fijar una cifra para Oghma ni mostrar una reunión con Jivirix.",
+  "participantes": [
+    "Ione",
+    "Oghma"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1559571892640419861",
+      "afirmacion": "Ione reconoce que buscaron a Jacky en la jungla y decide posponer el interrogatorio.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1559574127579365408",
+      "afirmacion": "Oghma identifica a Jivirix como su patrón y lo describe como una espada.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1559579757799284737",
+      "afirmacion": "Oghma relata en tono humorístico las condiciones de su pacto.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1559586408706867221",
+      "afirmacion": "Oghma dice que su patrón la llevó a Xoltacan y que desconoce qué espera de ella.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Las noticias de Nistra sobre Jacky y Shiaru son un testimonio retrospectivo, no escenas representadas aquí.",
+    "Las condiciones del pacto se atribuyen a la explicación humorística de Oghma; no se añaden reglas mágicas que el texto no demuestra.",
+    "El pensamiento de Oghma sobre ser dos no acredita por sí solo un embarazo ni una identidad adicional.",
+    "Esta escena no establece por sí sola que Amaru y Nox sean nombres de una misma persona; se conservan las expresiones originales sin fusionar identidades.",
+    "La mención del McKuroto y de Tsugami dentro de Xoltacan no mezcla las evidencias ni las fichas de la campaña Kuroto."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-10-13T14:06:39.870000+00:00",
+  "fin_utc": "2026-10-13T15:56:40.681000+00:00",
+  "fecha_local": "2026-10-13",
+  "intervalo": {
+    "anterior": 70,
+    "siguiente": 71,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1558177942457028612",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560352956941865032",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 70,
+        "fecha": "2026-10-09",
+        "inicio_referencia_utc": "2026-10-09T18:01:52+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1558177942457028612"
+      },
+      {
+        "capitulo": 71,
+        "fecha": "2026-10-15",
+        "inicio_referencia_utc": "2026-10-15T18:02:01+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560352956941865032"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1559568055775002647",
+      "fecha_utc": "2026-10-13T14:06:39.870000+00:00",
+      "fecha_local": "2026-10-13",
+      "editado_utc": null,
+      "texto": "Ione: **Miro a Mama y suspiro... A ella la dolia la muerte de Nox pero tenia muchas cosas entre manos.**\n\n<@277455010571223040> Lo siento porque hayas tenido que aguantar los llantos de Mama.",
+      "mensaje_sha256": "f0cb2fd5c9a9711607b8c1fc92a47e44c9683dbb2b60f16f1dbddce98a733d99",
+      "tipo_discord": 19,
+      "referencia": "1559566079963959478",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559568055775002647",
+      "texto_sha256": "dfe17d75c6eacd02193e6d9d6118c3ed49a3ce0ed177503ec3bd4c419e431fd8",
+      "adjuntos": []
+    },
+    {
+      "id": "1559570834404802563",
+      "fecha_utc": "2026-10-13T14:17:42.347000+00:00",
+      "fecha_local": "2026-10-13",
+      "editado_utc": "2026-10-13T14:17:53.228000+00:00",
+      "texto": "Oghma:\n**Mira a Ione algo sorprendida mientras sigue acariciandole el pelo a Citlali y comenta en voz baja para no despertarla**\n\nAguantar? Que cosas tiene capitana! que lloro lo que necesite, pa eso estamos. Por cierto capitana, que le paso a ese Jacky Jackson? Por lo que dijo la drow estaba aterrado, como acabaria alli solito?\n<@753394009153732689>",
+      "mensaje_sha256": "eb50f4cd54aded8249cdf8e7a950000c8b2e610b58b4ad328249aee1f06ea515",
+      "tipo_discord": 19,
+      "referencia": "1559568055775002647",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559570834404802563",
+      "texto_sha256": "80f22c223aac3119fffefde88fda126d76e0395fe33672fcb49143f506e045fb",
+      "adjuntos": []
+    },
+    {
+      "id": "1559571892640419861",
+      "fecha_utc": "2026-10-13T14:21:54.650000+00:00",
+      "fecha_local": "2026-10-13",
+      "editado_utc": null,
+      "texto": "Ione: Lo que paso antes del viaje a Iktan y el mismo... Fue complicado como minimo. Tambien he de decir lo buscamos en la jungla y no en costa... Eso fue fallo mio.\n\n**Dejo la cerveza en la barra.**\n\nTengo que hablar con ese grumete. \n\n**Miro de reojo a su tripulacion.** \n\nPero no voy a presionarlo por el momento. Al menos no por unas horas mas.\n\n**Volvio a sonreir.**\n\nAunque... No sabia que compartia grumete. ¿Quien es tu señor?",
+      "mensaje_sha256": "e783c458454e9fd54129244f34d3fb970c4e26dd6416c908c9c3e6fffe487b0d",
+      "tipo_discord": 19,
+      "referencia": "1559570834404802563",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559571892640419861",
+      "texto_sha256": "80c1618b93c004e49314a55a43cfc1e7ff9f9ef9f4701997d7ec26955a6425d2",
+      "adjuntos": []
+    },
+    {
+      "id": "1559574127579365408",
+      "fecha_utc": "2026-10-13T14:30:47.501000+00:00",
+      "fecha_local": "2026-10-13",
+      "editado_utc": null,
+      "texto": "Oghma:\n**Mira a Ione y sonrie orgullosa**\n\nJivirix es mi patron, hicimos un pacto hace muchos años y desde entonces estamos juntos. Es una espada muy especial, tiene mucho caracter y me ha enseñado algunos truquitos para salir del paso\n\n**Sigue acariando el pelo de Citlali mientras con la otra mano da un sorbito al vino**\n\nPero no se preocupe capitana, en to lo de ser pirata usted manda, ahora eso si, en lo de ser una espada el tiene ventaja",
+      "mensaje_sha256": "74f979f03f74f6a5dc468c386729553fc51cfc46ae67b6743c21c4784e1c8bc4",
+      "tipo_discord": 19,
+      "referencia": "1559571892640419861",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559574127579365408",
+      "texto_sha256": "44f8351bbb87525cc7b4d2fa9e1abfbfb373145dab1e830f1429a8a04e6d0976",
+      "adjuntos": []
+    },
+    {
+      "id": "1559575165233397771",
+      "fecha_utc": "2026-10-13T14:34:54.897000+00:00",
+      "fecha_local": "2026-10-13",
+      "editado_utc": null,
+      "texto": "Ione: Mientras no dirijas la espada a mi o a mi gente no habra problema en compartir grumete.\n\n**Miro al tabernero.**\n\n¡OTRA RONDA! ¡QUE OREJAS NEGRAS TIENE GANAS DE INVITAR!\n\n**Rio levemente y volvio s mirar a la ancina.**\n\nAunque no sabia que las espadas hacian tratos ¿Como se siente eso? Quiero decir... Que una espada te mande hacer cosas...",
+      "mensaje_sha256": "069a518e17253f79f7171ec52cb2d163a337173349b42378e5d76c236b3f734d",
+      "tipo_discord": 19,
+      "referencia": "1559574127579365408",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559575165233397771",
+      "texto_sha256": "e3fffd8ec1d43938425d16ab8011daa2b4d182b575be5ef24225f02b4596b62e",
+      "adjuntos": []
+    },
+    {
+      "id": "1559579757799284737",
+      "fecha_utc": "2026-10-13T14:53:09.850000+00:00",
+      "fecha_local": "2026-10-13",
+      "editado_utc": null,
+      "texto": "Oghma:\n**Mira a Ione con fingida indignacion**\n\nPero capitana, una servidora podra ser mentirosa, ladrona y traidora, pero jamas desleal!\n\n**Vuelve a sonreir**\n\nVera, lo del pacto es como un trabajo cualquiera, al principio quieren quedarse tu alma entera, pero yo soy lista, capitana, solo se quedo 3/4, algunas cosillas administrativas que no tengo muy claras y mi nombre verdadero y encima consegui dos tardes libres al mes para mi sola!\n\n**Da otro sorbo de vino**\n\nComo un matrimonio capitana, a veces hay que ceder un poco para conseguir las tierras del noble, ya me entiende\n\n**Sonrie y se encoge de hombros**\n\nPues con Jivirix igual, el me enseña sus truquitos y yo le hago algun favorcillo de vez en cuando, no me pide que le chupe nada y todos tan contentos, casi mejor que un matrimonio",
+      "mensaje_sha256": "b71f74285a2342c3bdb27ebf5daf6051bfad92bd819b54d570bb50c2788b2c72",
+      "tipo_discord": 19,
+      "referencia": "1559575165233397771",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559579757799284737",
+      "texto_sha256": "9e096efd25fb9fb990b1efc9a257e0e8507976709dacfee91066c4e4900c3e51",
+      "adjuntos": []
+    },
+    {
+      "id": "1559580701081210943",
+      "fecha_utc": "2026-10-13T14:56:54.746000+00:00",
+      "fecha_local": "2026-10-13",
+      "editado_utc": null,
+      "texto": "Ione: **Rio a carcajada limpia.**\n\nMientras no seas una asesina a sangre fria...\n\n**Nego con la cabeza aun con una sonrisa.**\n\nLo haces pintar muy facil, yo no podria soy demasiado caotica a veces para obedecer ordenes... Si tuviera un señor ya me hubiera lanzado por la borda varias veces como castigo.",
+      "mensaje_sha256": "497cf5ca812344bd4c239bbb09a0a4eded7cdf5ba08c6af769982793d9869d0f",
+      "tipo_discord": 19,
+      "referencia": "1559579757799284737",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559580701081210943",
+      "texto_sha256": "f07f09cefcbc5d3359703d41785ba3aa49b0f250dff145949b104289ce30cc55",
+      "adjuntos": []
+    },
+    {
+      "id": "1559583346827198657",
+      "fecha_utc": "2026-10-13T15:07:25.541000+00:00",
+      "fecha_local": "2026-10-13",
+      "editado_utc": null,
+      "texto": "Oghma:\n**Se rie bajito**\n\nCapitana, si el jefe se enfadara cada vez que la he liado parda estaria en serios problemas. A Jivirix le gustan los lios tanto como a mi, el me dice lo que quiere y yo ya me apaño como pueda, casi siempre nos echamos unas risas",
+      "mensaje_sha256": "d1d89556902829fd2918960f0f5d7fc568bd8f968d08963bc48f6fef6240c6cf",
+      "tipo_discord": 19,
+      "referencia": "1559580701081210943",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559583346827198657",
+      "texto_sha256": "03b1398b30da579b7f19758c10ca6f6a51e2a580336441dd913d6cee100eac97",
+      "adjuntos": []
+    },
+    {
+      "id": "1559583932570149009",
+      "fecha_utc": "2026-10-13T15:09:45.193000+00:00",
+      "fecha_local": "2026-10-13",
+      "editado_utc": null,
+      "texto": "Ione: Tienes que presentarmelo. Si es la mitad de divertido que tu que caera bien.\n\n**Tomo la cerveza que le trazo el tabernero y bebio un poco.**\n\nNo te lo pregunte cuando nos conocimos ¿Pero que te trajo a Xoltacan? ¿Tu señor te lo pidio?",
+      "mensaje_sha256": "80bfe470053fb76525eb132cb561dad7c4223658f7644b15576dbf820aca7766",
+      "tipo_discord": 19,
+      "referencia": "1559583346827198657",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559583932570149009",
+      "texto_sha256": "b3fe26a0cf338c1651579c8165de58462d3f551075eeadec2e330ac20448f390",
+      "adjuntos": []
+    },
+    {
+      "id": "1559586408706867221",
+      "fecha_utc": "2026-10-13T15:19:35.550000+00:00",
+      "fecha_local": "2026-10-13",
+      "editado_utc": null,
+      "texto": "Oghma:\n**Sonrie de oreja a oreja**\n\nPor supuesto capitana, seguro que se llevan bien\n\nY si, el fue el que me trajo a Xoltacan. Yo estaba pasando por unos pequeños apuros economicos, nada grave, unos malentendidos por unas decenas de miles de oros, ya sabe como son estas cosas\n\n**Se encoge de hombros**\n\nEl caso es que el jefe me trajo aqui y no tengo muy claro que es lo que espera de mi, pero nadie ha venido a pedirme nada ni hay carteles de se busca con mi cara, asi que no parece un mal sitio\n\n**Sonrie divertida**\n\nY mireme ahora, heroina de perlasal, matrona de krakens, con amigos, vino de sobra y hasta soy pirata sin haber pisado nunca un barco. Tengo una vida que algunos solo leen en libros, creo que el pacto merecio la pena",
+      "mensaje_sha256": "8b101b050c5a5b731ba5bd59ffdda85b0098fe2db905becce35d46420ebce66d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559586408706867221",
+      "texto_sha256": "6f7f7f5e6623eea534699cf33db52dc3ea8e22d15e583edd9451ab99732512a9",
+      "adjuntos": []
+    },
+    {
+      "id": "1559586468731686973",
+      "fecha_utc": "2026-10-13T15:19:49.861000+00:00",
+      "fecha_local": "2026-10-13",
+      "editado_utc": null,
+      "texto": "<@753394009153732689>",
+      "mensaje_sha256": "e619a9c8d9c03b493ed793b19c127c24aaf9139f96be48a73ce543da42696b15",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559586468731686973",
+      "texto_sha256": "890c9f37aeb3816906cf21c151cf25684b672d2a4159ba4e6fe706ef8e206891",
+      "adjuntos": []
+    },
+    {
+      "id": "1559587778365358091",
+      "fecha_utc": "2026-10-13T15:25:02.102000+00:00",
+      "fecha_local": "2026-10-13",
+      "editado_utc": null,
+      "texto": "Ione: **Rio levemente, unos pequeños caninos algo desarroyados destacaron entre sus dientes.**\n\nBueno lo de no pisar un barco cambiara pronto, pero me alegra escuchar cosas alegres y que estes encontrando cosas buenas aqui.\n\n**Se rasco las rastas y agito la cabeza.**\n\n ¿Cuanto vale tu cabeza? A ver si va a valer mas que la mia.",
+      "mensaje_sha256": "08bead65cd2a8fbe93f06d410699fe6b778644f68cb9d4a97fb38f2a3c7bceb4",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559587778365358091",
+      "texto_sha256": "9677bcd4fc21d19e9c4af419321b696e1620cefa54b1fa58ee9bd2174f902233",
+      "adjuntos": []
+    },
+    {
+      "id": "1559589279263367264",
+      "fecha_utc": "2026-10-13T15:30:59.944000+00:00",
+      "fecha_local": "2026-10-13",
+      "editado_utc": null,
+      "texto": "Oghma:\n**Suelta una risita**\n\nNo sea ridicula capitana, quien va a pagar una fortuna por la cabeza de una vieja como yo? Seguro que la de una temible capitana pirata como usted vale por lo menos 10 veces mas!\n\n**Se encoge de hombros con una sonrisa picara**\n\nAunque la verdad es que ahora que lo dice no tengo ni idea, nunca me pare a mirar los carteles mientras corria, tenia que haber preguntado...",
+      "mensaje_sha256": "748f36edac17d55d36bd6741d5d1e0a86f5c4ded106df76db09fa266c6bd0012",
+      "tipo_discord": 19,
+      "referencia": "1559587778365358091",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559589279263367264",
+      "texto_sha256": "6058092f08f62645ee5f894ccc8d7863ed7bee2200c2e568acaa81dbca68981f",
+      "adjuntos": []
+    },
+    {
+      "id": "1559590172834664590",
+      "fecha_utc": "2026-10-13T15:34:32.988000+00:00",
+      "fecha_local": "2026-10-13",
+      "editado_utc": null,
+      "texto": "Ione: Bueno, si aparece un cazarecompensas despues de una paliza le sacamos cuanto vales. Yo lo saque asi porque no se leer.\n\n**Sonrio divertida.**",
+      "mensaje_sha256": "888446073eeed126eadfa361560b4d17c5e448911e04240a9dc0c4cb03b6762e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559590172834664590",
+      "texto_sha256": "94f79432cfcc11021a2fd19e0ff34dc468d07e3e5865957bdc92b74802fd48b1",
+      "adjuntos": []
+    },
+    {
+      "id": "1559595741582725271",
+      "fecha_utc": "2026-10-13T15:56:40.681000+00:00",
+      "fecha_local": "2026-10-13",
+      "editado_utc": null,
+      "texto": "🔴 **Fin de escena**🔴",
+      "mensaje_sha256": "e52c7e2d5225629848f97cbd0b5ba47c1580e83d852974552279955cc85b1123",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559595741582725271",
+      "texto_sha256": "0e513b9a495850850524d0965f55df051cd0b6a138120693016da3f3ffd42ccd",
+      "adjuntos": []
+    }
+  ]
+}

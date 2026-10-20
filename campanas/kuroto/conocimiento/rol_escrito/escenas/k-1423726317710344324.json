@@ -1,0 +1,77 @@
+{
+  "id": "k-1423726317710344324",
+  "campana": "kuroto",
+  "unidad_revision": "k-1423726317710344324",
+  "hilo_id": "1379945696089604209",
+  "hilo_nombre": "Sho, Barrios bajos - Capital de Kuroto",
+  "titulo": "Wilson acompaña el aislamiento de Archi",
+  "resumen": "El gnomo habla con una bota dentro de la filacteria.",
+  "relato": "Archi permanece encerrado en la filacteria, desaliñado y sin una noción clara del paso del tiempo. Ha dibujado ojos y boca en una bota y la llama Wilson. Le ofrece un té imaginario y representa también su respuesta. La narración atribuye esa conversación a la soledad; no demuestra que el calzado esté vivo.",
+  "participantes": [
+    "Archi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1423726317710344324",
+      "afirmacion": "Archi habla con una bota dibujada durante su encierro.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Dos viñetas paralelas, sin comunicación de Archi con Banzo."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2025-10-03T17:40:05.698000+00:00",
+  "fin_utc": "2025-10-03T17:40:05.698000+00:00",
+  "fecha_local": "2025-10-03",
+  "intervalo": {
+    "anterior": 160,
+    "siguiente": 161,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1423373613540573317",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1425183138606219264",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 160,
+        "fecha": "2025-10-02",
+        "inicio_referencia_utc": "2025-10-02T18:18:19+00:00",
+        "fin_estimado_utc": "2025-10-02T21:07:14+00:00",
+        "duracion_video_segundos": 10135,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1423373613540573317"
+      },
+      {
+        "capitulo": 161,
+        "fecha": "2025-10-07",
+        "inicio_referencia_utc": "2025-10-07T18:08:41+00:00",
+        "fin_estimado_utc": "2025-10-07T20:58:07+00:00",
+        "duracion_video_segundos": 10166,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1425183138606219264"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1423726317710344324",
+      "fecha_utc": "2025-10-03T17:40:05.698000+00:00",
+      "fecha_local": "2025-10-03",
+      "editado_utc": null,
+      "texto": "Archi : **encerrado en la Filacteria las horas y los dias pasan sin ser consciente del aso del tiempo , vemos al gnomo con una barba desaliñada, mas crecida pero lo que llama la atención es que le falta una bota **\n\nBueno Wilson como te ha ido la tarde,  quiere que le sirva un poco de te ? \n**le dice a la bota , que parece que tiene pintada dos ojos y una boca sonrriente ** \nOh si por supuesto,  solo una cuchara de azúcar \n** empieza a servir un te que no existe a un zapato . \nLa soledad no le esta sentando bien **",
+      "mensaje_sha256": "7ea4e0aa0ffba03cd91239699e050cb9b8b9d4730881711616f5a93f820a2bc0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1423726317710344324",
+      "texto_sha256": "23a4da73a820d3018d1a53d0589d7c3c61630ca6022bfac737f332735f1c0616",
+      "adjuntos": []
+    }
+  ]
+}

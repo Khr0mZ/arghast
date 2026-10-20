@@ -1,0 +1,255 @@
+{
+  "id": "k-1363238018080575650",
+  "campana": "kuroto",
+  "unidad_revision": "k-1363238018080575650",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Pan y noticias del Abismo antes de partir al sur",
+  "resumen": "Banzo muestra a Kurobane la escasez de Sho y recuerda la puerta del Abismo; Shiretsu se abastece de pan y acepta acompañarlos al sur.",
+  "relato": "Banzo entra en Sho con Kurobane y señala que escasean alimentos, telas y materiales. Shiretsu los acompaña con un baúl sobre la cabeza. Cuando llegan a la panadería, lo llena de pan, bollos y otros víveres. Kurobane pide noticias de lo sucedido al sur. Banzo describe una gran puerta que enloquecía a quienes se aproximaban y cuenta que, al tocarla, fueron transportados al Abismo, lucharon contra monstruos y regresaron. Según él, ahora la puerta ya no provoca locura, aunque lo presenta como algo teórico. Kurobane reacciona al saber que la tocaron. Banzo pregunta a Shiretsu si irá al sur o volverá a la base e intenta cogerle un pan. Shiretsu lo invita a compartir y acepta seguirlos; Kurobane continúa hacia el sur y se cierra la escena.",
+  "participantes": [
+    "Banzo",
+    "Kurobane",
+    "Shiretsu"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1363238018080575650",
+      "afirmacion": "Banzo señala la falta de suministros en Sho.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1363242077512794112",
+      "afirmacion": "Shiretsu llena el baúl de pan y víveres.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1363243090290278672",
+      "afirmacion": "Banzo relata el paso al Abismo al tocar la puerta y cree que ya no causa locura.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1363256089776230700",
+      "afirmacion": "Shiretsu comparte el pan y acepta ir al sur.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "La unidad contiene un cierre explícito en 1363269671339426013 y la segunda escena comienza en 1363821604496343254. Ambas quedan separadas en subescenas con sus fuentes completas; la ubicación cronológica la integra el coordinador.",
+    "La descripción de la puerta del sur y la aparente curación de su influencia son testimonio de Banzo, no comprobación durante esta escena.",
+    "Jhin aparece llamado Jin por Banzo y por su propia despedida; la equivalencia está acreditada dentro de este intercambio, sin extenderla a otras campañas.",
+    "Las aspiraciones privadas de Gur respecto a Grutha y los pensamientos de Tsugami no se atribuyen como conocimiento compartido.",
+    "Las historias sobre una mujer rica de Hakahara son chismes de Tsugami; no verifican identidad ni hechos de esa persona.",
+    "No hay entrega final de batines ni resultado del torneo en el texto."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-04-19T19:41:11.248000+00:00",
+  "fin_utc": "2025-04-19T21:46:57.973000+00:00",
+  "fecha_local": "2025-04-19",
+  "intervalo": {
+    "anterior": 105,
+    "siguiente": 106,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1362497195252650075",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1363944514846326895",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 105,
+        "fecha": "2025-04-17",
+        "inicio_referencia_utc": "2025-04-17T18:37:08+00:00",
+        "fin_estimado_utc": "2025-04-17T20:54:16+00:00",
+        "duracion_video_segundos": 8228,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1362497195252650075"
+      },
+      {
+        "capitulo": 106,
+        "fecha": "2025-04-21",
+        "inicio_referencia_utc": "2025-04-21T18:28:19+00:00",
+        "fin_estimado_utc": "2025-04-21T20:39:25+00:00",
+        "duracion_video_segundos": 7866,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1363944514846326895"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1363238018080575650",
+      "fecha_utc": "2025-04-19T19:41:11.248000+00:00",
+      "fecha_local": "2025-04-19",
+      "editado_utc": null,
+      "texto": "**se vería a Banzo y <@240564189448503306>  Kurobane llegando a la ciudad ** \nPues como te iba diciendo , esa fue mi primer misión como cazador y ahora pues estaba las cosas así.  ** y te  señala diferentes puntos de la ciudad en los que ves que escasea comida , telas , materiales **",
+      "mensaje_sha256": "180b3483d8804c42ea6d0a51c85b3a791f8182069f53a21dfbc2291fb9d6e201",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1363238018080575650",
+      "texto_sha256": "631635c97d06ae28f7619ff4012d0238f89341fba7dbe053b76e5080c571093c",
+      "adjuntos": []
+    },
+    {
+      "id": "1363238243730198714",
+      "fecha_utc": "2025-04-19T19:42:05.047000+00:00",
+      "fecha_local": "2025-04-19",
+      "editado_utc": null,
+      "texto": "Shiretsu:\n\n**Acompaña a banzo y kurobane con el baul en la cabeza**",
+      "mensaje_sha256": "7b63c58da4b0817fcea2d993d3d393ff7c89472a47f17548de4f93a873c5e366",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1363238243730198714",
+      "texto_sha256": "1afc68e38b6e911f8a56e916aaba54ba2ee959541a3b3c02287df823fb4d83a1",
+      "adjuntos": []
+    },
+    {
+      "id": "1363238640507027456",
+      "fecha_utc": "2025-04-19T19:43:39.646000+00:00",
+      "fecha_local": "2025-04-19",
+      "editado_utc": null,
+      "texto": "Kurobane: \n\nMe comentaron que había una crisis muy grande\n\n**caminaría con las manos en la espalda**",
+      "mensaje_sha256": "91e187489063395e4b9e39feb0d61cecb6f2abc485e0c7a771979f23717dc341",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1363238640507027456",
+      "texto_sha256": "0eb3a2f37fc9384d8e0839f6279e4ebd3446af50aa7a525600ed12a63372aa98",
+      "adjuntos": []
+    },
+    {
+      "id": "1363240543131275416",
+      "fecha_utc": "2025-04-19T19:51:13.267000+00:00",
+      "fecha_local": "2025-04-19",
+      "editado_utc": "2025-04-19T19:53:17.408000+00:00",
+      "texto": "Banzo : pero aquí nuestro amigo **señalando a Shiretsu** es un ejemplo de cómo aprender a sacarse las castañas de fuego y sobrevivir",
+      "mensaje_sha256": "1a8b3b068d288e0be6955f10b50c62a0a5f6d1b64ac35bfd25c83b868d3065b0",
+      "tipo_discord": 19,
+      "referencia": "1363238243730198714",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1363240543131275416",
+      "texto_sha256": "49f70aa73e658432da5309423c8ff9b4e5d6a506723e599de3e19c82dd26d8a3",
+      "adjuntos": []
+    },
+    {
+      "id": "1363240742625087709",
+      "fecha_utc": "2025-04-19T19:52:00.830000+00:00",
+      "fecha_local": "2025-04-19",
+      "editado_utc": null,
+      "texto": "** seguirían andando por la capital hasta llegar hasta la panaderia**",
+      "mensaje_sha256": "5ce09d0c81203d4656e65cc5e855d9faaad34bcd46ad0b28519e8ae3004ab720",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1363240742625087709",
+      "texto_sha256": "9c29921769d0409a07047259585fb2ace5483ba1048d61eec98ba46fb6928f52",
+      "adjuntos": []
+    },
+    {
+      "id": "1363241285569347835",
+      "fecha_utc": "2025-04-19T19:54:10.278000+00:00",
+      "fecha_local": "2025-04-19",
+      "editado_utc": null,
+      "texto": "Kurobane: **realiza una pequeña reverencia a Shiretsu**\n\nMe puede ir contando lo que vio en el sur, Banzo?\n\n**se le nota serio pero sereno**",
+      "mensaje_sha256": "3e4443f81174c325e4de43a6150a80a426705a6f155fe56ca500aa2b74947d93",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1363241285569347835",
+      "texto_sha256": "d3830a296726077cbf9732bc43efc6ffba12819c41912b52063a645f05d0af6d",
+      "adjuntos": []
+    },
+    {
+      "id": "1363242077512794112",
+      "fecha_utc": "2025-04-19T19:57:19.092000+00:00",
+      "fecha_local": "2025-04-19",
+      "editado_utc": null,
+      "texto": "Shiretsu:\n\nEs lo que me iba enseñando mi abuelita Fifi\n\n**Procede a entrar en la panaderia y a llenar el baul con panes bollos y otros viveres tipicos de panificadoras, y sale de la tienda con el baul ahora pesando todavia mas**",
+      "mensaje_sha256": "ca8a5022344a244fba5c7d324d37fa3246ae94df8b07fff62a41fa02d88a3b94",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1363242077512794112",
+      "texto_sha256": "c11fa974ed8eeafaf018c9adeca985f94f21557dba1885f550617797fe7aeaad",
+      "adjuntos": []
+    },
+    {
+      "id": "1363243090290278672",
+      "fecha_utc": "2025-04-19T20:01:20.557000+00:00",
+      "fecha_local": "2025-04-19",
+      "editado_utc": null,
+      "texto": "Banzo : me cuesta describirlo con palabras , a ver es una puerta así to grande que volvía loco a todo aquel que se acercaba . Al tocarla nos llevó al plano del Abismo . Allí peleamos con un par de monstruos y volvimos a la puerta . Ahora en teoría ya no vuelve loco a nadie",
+      "mensaje_sha256": "65f14d285e93cce7fb2897199397f6dc84f7e7828bf78c7314373b407a957e12",
+      "tipo_discord": 19,
+      "referencia": "1363241285569347835",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1363243090290278672",
+      "texto_sha256": "dbb6b67b4abc59d27e7e40ac1d445468a9a402dc57a8a39d7cc2bafc1719907a",
+      "adjuntos": []
+    },
+    {
+      "id": "1363243521724780697",
+      "fecha_utc": "2025-04-19T20:03:03.419000+00:00",
+      "fecha_local": "2025-04-19",
+      "editado_utc": null,
+      "texto": "Kurobane: Espere un momento, ha dicho que han tocado la puerta?\n\n**ladea un poco la cabeza**",
+      "mensaje_sha256": "82025468f0f674196b4fab5b8e01cfb9125e40cd211382565d8f7a65e78e8c55",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1363243521724780697",
+      "texto_sha256": "22e0ca548f5860159e425f96825a0aa076a26c9b000cff20d5038b10ad60f68f",
+      "adjuntos": []
+    },
+    {
+      "id": "1363243595112644809",
+      "fecha_utc": "2025-04-19T20:03:20.916000+00:00",
+      "fecha_local": "2025-04-19",
+      "editado_utc": null,
+      "texto": "Banzo : Shiretsu <@226504798978048000>  vamos hacia el sur , tu vienes, vuelves a la base o tienes algo que hacer quiza? \n** alarga la mano e intenta coger un pan del baúl sin que se dé cuenta **",
+      "mensaje_sha256": "17c268576f6ec320670f16ac03f15105f110d1b8a39ca382b69e385e58bf9151",
+      "tipo_discord": 19,
+      "referencia": "1363242077512794112",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1363243595112644809",
+      "texto_sha256": "e2116cd3ee9dfefa72f6ced1f5b14c25821ca207d03326dae233dc79135a35f2",
+      "adjuntos": []
+    },
+    {
+      "id": "1363256089776230700",
+      "fecha_utc": "2025-04-19T20:52:59.876000+00:00",
+      "fecha_local": "2025-04-19",
+      "editado_utc": null,
+      "texto": "Shiretsu:\n\nCoge coge, compartir es vivir. Supongo que puedo ir al sur",
+      "mensaje_sha256": "2e4216318294214c721fc84f0b081d9340144ce72c58f65ec37d047c5ad1b76b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1363256089776230700",
+      "texto_sha256": "1bb0e7c1e725dde22bcd28625ba8e83090d24591f22d8884d151392cd9e5bd03",
+      "adjuntos": []
+    },
+    {
+      "id": "1363256272685891766",
+      "fecha_utc": "2025-04-19T20:53:43.485000+00:00",
+      "fecha_local": "2025-04-19",
+      "editado_utc": null,
+      "texto": "Kurobane: **habría seguido hacia el sur**",
+      "mensaje_sha256": "cb8e12b0313bfccc9d31c465d425391f9aa22f4e3206327c99dc4577d1aebb15",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1363256272685891766",
+      "texto_sha256": "2311ce479357ee8fe11b4520e9ff99cf8811d6727455dde6b828f1f8b5e01d3c",
+      "adjuntos": []
+    },
+    {
+      "id": "1363269671339426013",
+      "fecha_utc": "2025-04-19T21:46:57.973000+00:00",
+      "fecha_local": "2025-04-19",
+      "editado_utc": null,
+      "texto": "🔴 Se cierra escena 🔴",
+      "mensaje_sha256": "b343b9763a373cf13bae7e631b76b27eee130baa42bdcffa7e1b3f885f0c60ce",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1363269671339426013",
+      "texto_sha256": "63334b7ddfb0ade8e32a769ee467edfcf52f39cf8b6415e159f6950fb0b5bba3",
+      "adjuntos": []
+    }
+  ]
+}

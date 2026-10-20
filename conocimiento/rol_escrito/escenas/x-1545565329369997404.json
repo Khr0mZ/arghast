@@ -1,0 +1,79 @@
+{
+  "id": "x-1545565329369997404",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1545565329369997404",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "El grupo sale en busca de Ilikar",
+  "resumen": "Una breve continuación cierra la partida de Naór y los pequeños para encontrar al goliat.",
+  "relato": "Naór y los pequeños continúan buscando a Ilikar para iniciar el aprendizaje del vuelo. El marcador final cierra este breve desplazamiento; no ofrece una llegada, ejercicios ni resultados de la enseñanza.",
+  "participantes": [
+    "Naór",
+    "Leo",
+    "Eztli"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1545565329369997404",
+      "afirmacion": "El grupo parte en busca del goliat y de las clases de vuelo.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Continuación de la recogida escolar anterior, dividida por el intervalo de publicación."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-09-04T22:44:49.737000+00:00",
+  "fin_utc": "2026-09-04T22:44:49.737000+00:00",
+  "fecha_local": "2026-09-05",
+  "intervalo": {
+    "anterior": 58,
+    "siguiente": 59,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1545494409435680809",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1546226980192649230",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 58,
+        "fecha": "2026-09-04",
+        "inicio_referencia_utc": "2026-09-04T18:01:23+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1545494409435680809"
+      },
+      {
+        "capitulo": 59,
+        "fecha": "2026-09-06",
+        "inicio_referencia_utc": "2026-09-06T18:28:05+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1546226980192649230"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1545565329369997404",
+      "fecha_utc": "2026-09-04T22:44:49.737000+00:00",
+      "fecha_local": "2026-09-05",
+      "editado_utc": null,
+      "texto": "Naór : naor y el escuadrón neurodivergente van en busca del Goliat para buscar el camino de aprendizaje del vuelo \n\n🔴 FIN DE LA ESCENA 🔴",
+      "mensaje_sha256": "77235f017438055062199e121a830a025e7a49dded29e37c7fba40b1e3332471",
+      "tipo_discord": 19,
+      "referencia": "1545551670535135303",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1545565329369997404",
+      "texto_sha256": "b9f396c3bf70774997921075aee32cc1299e31b5a4e5adf646896db03bcea5d4",
+      "adjuntos": []
+    }
+  ]
+}

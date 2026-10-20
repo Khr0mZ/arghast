@@ -1,0 +1,298 @@
+{
+  "id": "x-1526619340940509205",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1525484008106889297",
+  "hilo_id": "1524091803647741996",
+  "hilo_nombre": "Jungla - En alguna parte de Xoltacán",
+  "titulo": "Zippo guía la marcha hacia la ciudad oculta",
+  "resumen": "Ilikar ofrece un refugio posible mientras una amenaza submarina avanza fuera de la vista del grupo.",
+  "relato": "Ilikar oye hablar de nativos y recuerda la ciudad oculta y a su maestro Tortas. Interpreta una hoja caída sobre su pecho como una señal de él, sin confirmación externa. Ofrece llevar al grupo a pedir ayuda y llama a Zippo, que sale del fuego de la comida.\n\nLuna lo desafía jugando en forma de osa y el elemental la saluda antes de subir al goliat con su disfraz de SúperZippo. Su convicción de ser la última esperanza es una fantasía cómica, sin poderes nuevos concedidos. Eleanor sigue atendiendo a Erandi, que entre sueños susurra que todo arde y duele.\n\nLos aventureros parten a la jungla buscando ayuda. En una coda ajena a su conocimiento, una gran silueta bajo el mar se acerca a la costa al ritmo de un sonar. No se identifica aún el vehículo o su tripulación.",
+  "participantes": [
+    "Ilikar",
+    "Zippo",
+    "Luna",
+    "Eleanor",
+    "Erandi",
+    "Grupo de viajeros"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1526619340940509205",
+      "afirmacion": "Ilikar ofrece la ciudad oculta como posible refugio y ayuda.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1526632025555996833",
+      "afirmacion": "Erandi balbucea un sueño de fuego.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1526639467501322363",
+      "afirmacion": "Zippo sube a Ilikar con su nuevo disfraz.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1526844018334371880",
+      "afirmacion": "El grupo parte mientras el narrador muestra el avance submarino.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Leídas las cuatro partes completas y vistas las imágenes de Citlali rejuvenecida y SúperZippo.",
+    "La barca contiene trenzas y tributos; no se recupera ni se entierra el cadáver de Nox.",
+    "Mirlín se vincula con Nox por las trenzas reconocidas y la explicación de sus engaños, sin desplegar una biografía nueva.",
+    "Citlali se llama madre y describe un rescate y adopción, sin afirmar vínculo biológico. Amaru es el nombre que le dio; Molly usa Jim para el mismo hombre en la pregunta posterior.",
+    "El mecanismo de sangre y llave es explicación de Citlali. Ya se han narrado heridas y sangrado: no inventar un umbral o clase de sangre que concilie la formulación literal.",
+    "La zona de la verdad se conjura, pero no se narra aceptación o efecto individual; no eleva automáticamente todo testimonio a hecho probado.",
+    "La Batida Salvaje es teoría de Poncelot basada en sus libros; Titánia es su clasificación errónea de Citlali.",
+    "La acusación de abandono y la culpa de los supervivientes no demuestran responsabilidad causal en la muerte.",
+    "Los gruñidos de Luna en forma de osa no son comprendidos como palabras por el grupo.",
+    "La silueta y el sonar son una coda del narrador, sin conocimiento de los viajeros ni identificación del vehículo."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-07-14T16:00:14.096000+00:00",
+  "fin_utc": "2026-07-15T06:53:01.361000+00:00",
+  "fecha_local": "2026-07-14",
+  "intervalo": {
+    "anterior": 43,
+    "siguiente": 44,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1525209204300841101",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527010759236653109",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 43,
+        "fecha": "2026-07-10",
+        "inicio_referencia_utc": "2026-07-10T18:35:33+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1525209204300841101"
+      },
+      {
+        "capitulo": 44,
+        "fecha": "2026-07-15",
+        "inicio_referencia_utc": "2026-07-15T17:55:09+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527010759236653109"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1526619340940509205",
+      "fecha_utc": "2026-07-14T16:00:14.096000+00:00",
+      "fecha_local": "2026-07-14",
+      "editado_utc": "2026-07-14T16:01:50.945000+00:00",
+      "texto": "**Durante la noche Ilikar había decidido descansar a la orilla de la playa, alejado de todo el ruido y la gente.**\n\n**El momento se rompe por un segundo, cuando escucha a algunos de los piratas comentar sobre los nativos y sobre una ciudad oculta. Parece que alguien está buscando información...**\n\nIlikar: *Que impresionante debe ser ciudad oculta en selva tan grande... Algun dia Ilikar descubirá ciudades ocultas también... *- **Guarda silencio durante unos segundos y antes de volver a cerrar los ojos, ve algo en el aire**\n\n**Una hoja emerge de la espesura de la jungla. La brisa la sostiene en un lento y elegante baile mientras sobrevuela la playa hasta llegar a Ilikar, donde termina reposando suavemente sobre su pecho. En ese preciso instante, un recuerdo despierta en su mente. Él conoce un lugar... una ciudad oculta que pocos saben que existe.**\n\nIlikar: Maestro Tortas, esto es un mensaje de ti ¿verdad?... En tu reino podrá estar segura tripulación... Bien, ¡hora de ayudar Ilikar!\n\n**Ilikar se levanta rápidamente, se sacude la arena del cuerpo y se dirige hacia donde están Molly, Ione y Citlali**\n\nIlikar: Ilikar tiene informacion importante, mujeres. Ilikar sabe de sitio seguro en jungla. Debemos ir a pedir ayuda ahí, buenos amigos esperan. Guardián de ciudad oculta es gran amigo de Ilikar, el ayudará y dará lugar a tripulación. <@214405113677217793> <@408026114548695061> <@753394009153732689>",
+      "mensaje_sha256": "870f4b829a948f7845a23de6b4f0683ca4fa643428ef009585c64371b11e5631",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1526619340940509205",
+      "texto_sha256": "cb460dad8ad34dd78f0e160c20ff83d16b783770301436de129e462a2fc6bdbb",
+      "adjuntos": []
+    },
+    {
+      "id": "1526621223461716098",
+      "fecha_utc": "2026-07-14T16:07:42.924000+00:00",
+      "fecha_local": "2026-07-14",
+      "editado_utc": null,
+      "texto": "Molly: **Te mira de arriba abajo. Nunca había visto a un goliat** ¿Y sabes donde está?",
+      "mensaje_sha256": "61bb8470b144bf49f6a6a0d0a6350d9537ca17b7aeeeb5245889489d0c6e112a",
+      "tipo_discord": 19,
+      "referencia": "1526619340940509205",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1526621223461716098",
+      "texto_sha256": "53dd8d2ea9d105b0b4551f801dd075616d052dea474838559a88597adc140308",
+      "adjuntos": []
+    },
+    {
+      "id": "1526621626337202326",
+      "fecha_utc": "2026-07-14T16:09:18.977000+00:00",
+      "fecha_local": "2026-07-14",
+      "editado_utc": "2026-07-14T16:09:46.561000+00:00",
+      "texto": "Ilikar: ¡Claro! ¡ZIPPOOOOOOOOO HORA DE TRABAJAR! - **lanza un grito que hace temblar hasta al fuego de la fogata**",
+      "mensaje_sha256": "8c4c4547f953b672a67462a514522685895300fd0b132ad3ec66aff221e1d502",
+      "tipo_discord": 19,
+      "referencia": "1526621223461716098",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1526621626337202326",
+      "texto_sha256": "be79a3bcf3c3c46f53e87079e387f60b34a07c221286410eb3ebb881cbdb05d9",
+      "adjuntos": []
+    },
+    {
+      "id": "1526629823760437371",
+      "fecha_utc": "2026-07-14T16:41:53.395000+00:00",
+      "fecha_local": "2026-07-14",
+      "editado_utc": null,
+      "texto": "Zippo: **El elemental sale de dentro de la fogata donde se estaba cocinando la comida y mira todo el percal. Ladea la cabeza sin entender nada**",
+      "mensaje_sha256": "b935533a534085701170a594212a2f6a902f1f167467763fe847fde161d4deb2",
+      "tipo_discord": 19,
+      "referencia": "1526621626337202326",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1526629823760437371",
+      "texto_sha256": "dc2323729fccf2ffa33b898e7e872e9bc37072affc69779f9ac2196ca6d3507f",
+      "adjuntos": []
+    },
+    {
+      "id": "1526630805789741156",
+      "fecha_utc": "2026-07-14T16:45:47.529000+00:00",
+      "fecha_local": "2026-07-14",
+      "editado_utc": null,
+      "texto": "Luna: ** Al ver a zippo aparecer, le ruge y se planta frente a él para comenzar una pequeña batalla, con las garras delanteras hace un ademan de provocación **",
+      "mensaje_sha256": "8688b7748db7f61d4178fa726981cd27de175869f676fdf33edb6716a1e8e915",
+      "tipo_discord": 19,
+      "referencia": "1526629823760437371",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1526630805789741156",
+      "texto_sha256": "1d222de2518f6791791264183ca5811f59282ec04e392abd56edfc07d5f709e8",
+      "adjuntos": []
+    },
+    {
+      "id": "1526631119301251234",
+      "fecha_utc": "2026-07-14T16:47:02.276000+00:00",
+      "fecha_local": "2026-07-14",
+      "editado_utc": null,
+      "texto": "Erandi:\n**Se retuerce un poco en Eleanor, balbuceando palabras sin sentido**\n<@449688546580627476>",
+      "mensaje_sha256": "74a0f7ca36ef000814c4a494ceb4e091721eb90bd7f49a06d3afff31868d7d38",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1526631119301251234",
+      "texto_sha256": "e741d9c1f6daa44163b1a3fea08355327ec5b9bff24cab4602fcba1e31e5298d",
+      "adjuntos": []
+    },
+    {
+      "id": "1526631443202048011",
+      "fecha_utc": "2026-07-14T16:48:19.500000+00:00",
+      "fecha_local": "2026-07-14",
+      "editado_utc": null,
+      "texto": "Eleanor: \n**acerco mi oído a Erandi para entender que dice**",
+      "mensaje_sha256": "c8818ab937d99f86772759c9654b66f41e811483f4f0180a6168f95010346c31",
+      "tipo_discord": 19,
+      "referencia": "1526631119301251234",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1526631443202048011",
+      "texto_sha256": "03c473537e92f5d97a0fe8cd6cad94828d0aa84cc611c2f56e38c569706a6585",
+      "adjuntos": []
+    },
+    {
+      "id": "1526632025555996833",
+      "fecha_utc": "2026-07-14T16:50:38.344000+00:00",
+      "fecha_local": "2026-07-14",
+      "editado_utc": null,
+      "texto": "Erandi:\n**La escuchas decir entre dientes, como si viviera una pesadilla**\n-*Ma...ma...todho...ar...de...ma...ma....*",
+      "mensaje_sha256": "e8f3cd4be34f308916cdcbedfe09d072bd7b9ab051f98fac83426614a1ffffc6",
+      "tipo_discord": 19,
+      "referencia": "1526631443202048011",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1526632025555996833",
+      "texto_sha256": "9621f9897cef41ef91d50d9eacdb89822e7f733e0d4fcaafe65d205b9981409b",
+      "adjuntos": []
+    },
+    {
+      "id": "1526632654710247615",
+      "fecha_utc": "2026-07-14T16:53:08.346000+00:00",
+      "fecha_local": "2026-07-14",
+      "editado_utc": null,
+      "texto": "Eleanor:\n**me acerco mas para entender que dice y me concentro para escuchar**\n-Que dices?",
+      "mensaje_sha256": "96ddd4068797d8c82ec1dc4516e2ec801efcc9097251bb0571a1e738e4c24924",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1526632654710247615",
+      "texto_sha256": "4e0c81cc60511d5c90019c852577c793c4fa1ae405f3afa2c303091c06d341b7",
+      "adjuntos": []
+    },
+    {
+      "id": "1526633406862200853",
+      "fecha_utc": "2026-07-14T16:56:07.673000+00:00",
+      "fecha_local": "2026-07-14",
+      "editado_utc": null,
+      "texto": "Erandi:\n**Gruñe ligeramente de dolor, acurrucandose en su hombro**\n-Ar...de...due...le..\n**Dice entre susurros, notandose en su rostro la incomodidad**",
+      "mensaje_sha256": "942fb93b9de1df0d53992ed5437a2cf247248827bedfe523cf5524e652b99a0b",
+      "tipo_discord": 19,
+      "referencia": "1526632654710247615",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1526633406862200853",
+      "texto_sha256": "9dcd974452c57ba1d3f841354a462ebc9350d57700672e5a58aec21d22b5ffb8",
+      "adjuntos": []
+    },
+    {
+      "id": "1526636395286892625",
+      "fecha_utc": "2026-07-14T17:08:00.169000+00:00",
+      "fecha_local": "2026-07-14",
+      "editado_utc": null,
+      "texto": "**Ilikar se acerca a Zippo al ver al oso rugirle**\n\nIlikar: ¡Zippo! Sube a Ilikar, debes guiarnos de nuevo a ciudad oculta. Es importante encontrar para poner a salvo a tripulación.\n\n**Gira su mirada al oso, sonriente**\n\nIlikar: No preocupes oso, Zippo es amigo, no es peligroso.",
+      "mensaje_sha256": "1e468964f4f02c163ce06a622713a471c8a9b500285d3b4466744cc186c1d315",
+      "tipo_discord": 19,
+      "referencia": "1526629823760437371",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1526636395286892625",
+      "texto_sha256": "997008d17e872ac2cb2beaae416e00cb5674842882a49cebb855ba7429baab96",
+      "adjuntos": []
+    },
+    {
+      "id": "1526639467501322363",
+      "fecha_utc": "2026-07-14T17:20:12.642000+00:00",
+      "fecha_local": "2026-07-14",
+      "editado_utc": "2026-07-14T17:21:46.377000+00:00",
+      "texto": "Zippo: **El elemental mira al oso y simplemente le saluda con la manita. Luego mira a Ilikar y escucha lo que le dice mientras pestañea a dispar. En su cabeza, las palabras del goliat, suenan mucho más épico, como una película. Creyéndose que todos los aquí presentes le están suplicando su ayuda como: *\"Oh, Zippo, te necesitamos, eres nuestra última esperanza!\"*. Así que se sube de un salto al enorme goliat y saca su nuevo gorrito. Y por fin conocemos que en realidad Zippo era, el famoso superhero SúperZippo. ¿Quien lo diría eh?**",
+      "mensaje_sha256": "b8f50b85c67ea3e5da3b53b7a961c3ad3765f0e2335f16760d35d22b0f61a58d",
+      "tipo_discord": 19,
+      "referencia": "1526636395286892625",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1526639467501322363",
+      "texto_sha256": "31088b22afb372cb5f772138e2668f4b4619b99395b701bf10ed592878940136",
+      "adjuntos": [
+        {
+          "id": "1526639467362783304",
+          "nombre": "file_00000000ef8071f48ac0325d80edc051.png",
+          "tipo": "image/png",
+          "archivo": "adjuntos/1526639467362783304.png",
+          "url": "rol_escrito/adjuntos/1526639467362783304.png",
+          "bytes": 1818193,
+          "sha256": "592933c960ba121b5c6b83c3a768d3c55a56801d8a987a3cf8aea237442d60db"
+        }
+      ]
+    },
+    {
+      "id": "1526640940217925763",
+      "fecha_utc": "2026-07-14T17:26:03.765000+00:00",
+      "fecha_local": "2026-07-14",
+      "editado_utc": null,
+      "texto": "Ilikar: ¡Seguid mis pasos, jovenes! Ilikar y Zippo os llevará a Ciudad Oculta, donde nos esperan nuestros camaradas y aún más importante, mucha cerveza!\n\n**El goliath anima al resto a seguirle dentro del bosque y espera pacientemente a que todos se reúnan al lado de la fogata**",
+      "mensaje_sha256": "7ef948c32c321b07f0faadf326de2cce85ea791f2ce0961ed0c9df5a08895049",
+      "tipo_discord": 19,
+      "referencia": "1526639467501322363",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1526640940217925763",
+      "texto_sha256": "4c2b58a70a39dd126063530f7fd094269b7d2946802f0b0e8e2eef517dc26b39",
+      "adjuntos": []
+    },
+    {
+      "id": "1526641820631695381",
+      "fecha_utc": "2026-07-14T17:29:33.672000+00:00",
+      "fecha_local": "2026-07-14",
+      "editado_utc": null,
+      "texto": "Luna: **Viendo que Zippo salta sobre el Goliath, cree que es un juego y lo sigue... olvidando nuevamente que esta en forma de oso**",
+      "mensaje_sha256": "c5746aeed50c0d17ba1ea604cc61c0b7a8decd1205fea7857e5d70b76f9f30d0",
+      "tipo_discord": 19,
+      "referencia": "1526639467501322363",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1526641820631695381",
+      "texto_sha256": "aaaf1ef4571fc51a7de0b189f2eba769ff339de3e7a731e7095ec53e29a736a8",
+      "adjuntos": []
+    },
+    {
+      "id": "1526844018334371880",
+      "fecha_utc": "2026-07-15T06:53:01.361000+00:00",
+      "fecha_local": "2026-07-15",
+      "editado_utc": null,
+      "texto": "**Y con la ayuda de SuperZippo y un nuevo objetivo, nuestros aventureros se adentran en la jungla de Xoltacan en busca de ayuda de los nativos**\n\n**Pero.... Mientras tanto, en las profundidades marinas de Xoltacán...**\n\n**Algo se acercaba lentamente a la costa.**\n**En la oscuridad del océano, una inmensa silueta avanzaba en silencio, oculta bajo las aguas.**\n\n**Solo un sonido rompía aquella calma.**\n\n**Bip...**\n\n**Bip...**\n\n**Bip...**\n\n**El eco metálico del sonar resonaba en el interior de la sala mientras continuaba el avance hacia el continente.**\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "c9e12ba55d179e534ddc47a242b0b1e2331af313f26bf1d1c7e56b1550e59f10",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1526844018334371880",
+      "texto_sha256": "54145b1682048db5e7b05d5ebbbbe17684287ea51b589f1a6110d24ee0b5efb0",
+      "adjuntos": []
+    }
+  ]
+}

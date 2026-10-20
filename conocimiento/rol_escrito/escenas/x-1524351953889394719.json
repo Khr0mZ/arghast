@@ -1,0 +1,94 @@
+{
+  "id": "x-1524351953889394719",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1524351953889394719",
+  "hilo_id": "1481938373894738061",
+  "hilo_nombre": "Fuerte Aurora - Base de la Marina",
+  "titulo": "Nox recuerda el objeto que dejó a Citlali",
+  "resumen": "A bordo del Invictus, antes del asedio, evoca una entrega secreta hecha al salir del refugio. Harrison lo llama al trabajo.",
+  "relato": "Nox está en el mástil del Invictus, galeón desde el que partirá el asedio, y recuerda la noche junto a Citlali. El relato vuelve a la madrugada en que la observó dormir y dejó entre sus pertenencias un objeto pequeño y cuadrado antes de marcharse sin hablar. No se describe qué era ni que ella lo encontrara.\n\nDe nuevo en el presente, el contramaestre Harrison le exige bajar y trabajar. El pirata obedece con una sonrisa desgana. Una nota indica que la escena continúa en el hilo de Iktan; no añade una acción de viaje o encuentro por sí sola.",
+  "participantes": [
+    "Nox",
+    "Citlali",
+    "Harrison"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1524351953889394719",
+      "afirmacion": "El recuerdo muestra el objeto cuadrado dejado a Citlali y el presente en el Invictus.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La entrega es retrospectiva: ocurre al salir del refugio y se narra después desde el barco.",
+    "No se identifica el objeto a partir de su forma ni se da por recibido conscientemente.",
+    "La fecha de publicación conserva la posición del mensaje; su recuerdo queda señalado en el relato."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-07-08T09:50:26.897000+00:00",
+  "fin_utc": "2026-07-08T09:51:06.413000+00:00",
+  "fecha_local": "2026-07-08",
+  "intervalo": {
+    "anterior": 41,
+    "siguiente": 42,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1522672340213694706",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1524846150652264642",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 41,
+        "fecha": "2026-07-03",
+        "inicio_referencia_utc": "2026-07-03T18:35:58+00:00",
+        "fin_estimado_utc": "2026-07-03T21:07:42+00:00",
+        "duracion_video_segundos": 9104,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1522672340213694706"
+      },
+      {
+        "capitulo": 42,
+        "fecha": "2026-07-09",
+        "inicio_referencia_utc": "2026-07-09T18:30:59+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1524846150652264642"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1524351953889394719",
+      "fecha_utc": "2026-07-08T09:50:26.897000+00:00",
+      "fecha_local": "2026-07-08",
+      "editado_utc": null,
+      "texto": "Nox:\n\n**Nox se encuentra a bordo del Invictus, el galeón insignia desde el que partirá el asedio contra Shiaru. Permanece sentado en lo alto del mástil, con la mirada perdida en el horizonte.\n\nUn recuerdo invade su mente.\n\nAquella noche en la selva junto a Citlali <@408026114548695061>  La nativa se mostraba extraña, como si algo la atormentara. Incluso llegó a llorar... y, entre susurros, llamó a Nox por otro nombre.\n\nAmaru.\n\nDespués de compartir unos tragos, ambos terminaron quedándose dormidos junto al fuego.\nPero Nox despertó antes del amanecer.\nSe levantó en silencio, dispuesto a marcharse. Antes de hacerlo, se acercó a Citlali. La observó durante unos instantes mientras dormía y, con una seriedad poco habitual en él, dejó entre las pertenencias de la nativa un pequeño objeto cuadrado.\n\nSin decir una sola palabra, se dio la vuelta y desapareció entre la selva.\n\nEl recuerdo se desvanece.\n\nDe nuevo en el presente, una voz rompe sus pensamientos.**\n\n¡Eh, rata de mar! ¡Baja de una vez y ponte a trabajar!\n**Nox suspira y sonríe con desgana.**\nVoy, voy... señor Harrison.\n**El marine resopla con desprecio.**\n\nContramaestre Harrison: \nEste desgraciado se cree que puede holgazanear todo el maldito día...",
+      "mensaje_sha256": "51b7e90979e666a25b2fb206c40b94c2962084a2336180532f23dc8845faa2f8",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1524351953889394719",
+      "texto_sha256": "7e5a986276a4d9d3df832f1894bccabc6450cd2f8e7da6fa14874e4a9b7e2bbc",
+      "adjuntos": []
+    },
+    {
+      "id": "1524352119631642644",
+      "fecha_utc": "2026-07-08T09:51:06.413000+00:00",
+      "fecha_local": "2026-07-08",
+      "editado_utc": "2026-07-08T09:51:36.777000+00:00",
+      "texto": "🏴‍☠️  **La escena sigue en <#1504602363728756846> ** 🏴‍☠️",
+      "mensaje_sha256": "5a78f6f08d35092027a3bbffe0f0d34c3a7c50deac2039d644c9e63b133ffcd6",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1524352119631642644",
+      "texto_sha256": "551bf81bc3847295f8ae9ed387ffd582329dff519480b807d85c6afbe34435b1",
+      "adjuntos": []
+    }
+  ]
+}

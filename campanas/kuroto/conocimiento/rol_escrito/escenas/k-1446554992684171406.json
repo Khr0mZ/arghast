@@ -1,0 +1,140 @@
+{
+  "id": "k-1446554992684171406",
+  "campana": "kuroto",
+  "unidad_revision": "k-1446554992684171406",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Wukong recoge a Banzo",
+  "resumen": "Banzo despierta tras la paliza e intenta advertir del peligro; Wukong lo lleva a la base.",
+  "relato": "Banzo pasa horas inconsciente, reviviendo humillaciones de Vogthar y recuerdos de una sociedad que sentía ajena: asaltos, expediciones balleneras y matanzas de grifos. Sueña con liberarlos de sus establos hasta que los picotazos de una gaviota lo despiertan. Gravemente hinchado y con la visión nublada, corre como puede hacia Sho para avisar a los demás. Wukong, que está ayudando a un vecino a reparar una ventana, lo encuentra al salir de un callejón y lo sienta en una caja. Banzo apenas consigue decir que todos corren peligro y pedir que lo lleve a la base. Al desplomarse de nuevo, Wukong decide transformarse: se arranca unos pelos de la cola, reza y adopta forma de oso, conservando sus vendas y juzu. Así arrastra al goliat hasta la base de Sho. No se representa todavía la advertencia al resto ni una curación.",
+  "participantes": [
+    "Banzo",
+    "Wukong"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1446554992684171406",
+      "afirmacion": "Banzo despierta y corre a la ciudad para avisar del peligro.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1446562361069797418",
+      "afirmacion": "Pide ayuda a Wukong y afirma que todos están en peligro.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1446565600167203041",
+      "afirmacion": "Wukong se transforma en oso y lo arrastra hacia la base.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Los episodios de infancia se presentan como sueños y recuerdos de Banzo; no se adjudican nuevas fechas."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-12-05T17:33:05.948000+00:00",
+  "fin_utc": "2025-12-05T18:23:56.316000+00:00",
+  "fecha_local": "2025-12-05",
+  "intervalo": {
+    "anterior": 171,
+    "siguiente": 172,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1446214322580881569",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1448031934176428145",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 171,
+        "fecha": "2025-12-04",
+        "inicio_referencia_utc": "2025-12-04T18:59:08+00:00",
+        "fin_estimado_utc": "2025-12-04T21:35:38+00:00",
+        "duracion_video_segundos": 9390,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1446214322580881569"
+      },
+      {
+        "capitulo": 172,
+        "fecha": "2025-12-09",
+        "inicio_referencia_utc": "2025-12-09T19:21:35+00:00",
+        "fin_estimado_utc": "2025-12-09T22:35:47+00:00",
+        "duracion_video_segundos": 11652,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1448031934176428145"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1446554992684171406",
+      "fecha_utc": "2025-12-05T17:33:05.948000+00:00",
+      "fecha_local": "2025-12-05",
+      "editado_utc": null,
+      "texto": "Banzo : ** el goliath ha estado inconsciente durante horas , en sus sueños reviviria esos tiempos en su aldea , humillaciones por parte de Vogthar , asaltos a aldeas , expediciones balleneras,  matanzas de grifos que no eran aptos para domesticar , vuelve a revivir muchas de las cosas que le hicieron pensar que nació en la sociedad equivocada .\n\nAhora veríamos a un Banzo pequeño,  escondido en los establos de los grifos aun siempre con una sonrrisa **\nPara .. estate quieto , os voy a liberar no me piques la cabezota **dice dormido \n\nEsos picoteos hacen que se despierte y vea que en realidad es una gaviota que le esta picoteando la calva \n\nDa una gran bocanada de aire **\n\nMierda ! Nonono tengo que avisarles ! \n\n** sale corriendo a duras penas tropezando y con la visión muy nublada por el hinchazón de la paliza .\n\nLlegaría a la inmediaciones de la ciudad **",
+      "mensaje_sha256": "4947d2e473ea68e9166303147ff08b00afa6a3be3682c7c968ae8bf1d3440040",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1446554992684171406",
+      "texto_sha256": "6e1da884fc96e9735c5b46cbd37f6f95e796128de057e2384251a26a75f6118c",
+      "adjuntos": []
+    },
+    {
+      "id": "1446560578851045577",
+      "fecha_utc": "2025-12-05T17:55:17.794000+00:00",
+      "fecha_local": "2025-12-05",
+      "editado_utc": null,
+      "texto": "Wukong\n\n**El monje estaría paseando por la ciudad. A veces lo hace, para ver quién necesita una mano. Alguna abuela despistada, algún tendero que necesita cargar mercancía, algún que otro vecino haciendo alguna reparación en la fachada de su casa... \"Ayudar al próximo desinteresadamente es ayudar a tu alma encarecidamente\" decía el monje Tang**\n\n- pues bien señor. Con esto la ventana ya aguantaría unos meses largos más. Ahora sí me dis...\n\n**Justo a su derecha, de un callejón, aparece una masa de músculos ensangrentados, amoratados e hinchados**\n\n- LA MADRE QUE TE... !!! BANZO??? COLEGA ERES TU??? Tío... No sé si quiero que seas tú...\n\n**El.mono corre para aguantar como puede y a duras penas a si compañero y lo deja, con un gran esfuerzo para no deslomarse, sentado en una caja en la salida callejón**\n\n- pero Banzo... Que ha pasado? Dime qué el otro está bajo tierra... Solo eso puede superar tu estado...",
+      "mensaje_sha256": "034b771e3715ed03d3acbf51493cf93989f338089006ef5856b91edb3bbf5ca6",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1446560578851045577",
+      "texto_sha256": "1803ea17ac45b799b8caded7cf1747922248760e7132c496eb8514dc8d083d1b",
+      "adjuntos": []
+    },
+    {
+      "id": "1446562361069797418",
+      "fecha_utc": "2025-12-05T18:02:22.708000+00:00",
+      "fecha_local": "2025-12-05",
+      "editado_utc": null,
+      "texto": "Banzo : Wu ..Wukong  \nTenemoz que abizad a todoz,  eztais en peligro.  \n\nVamoz ayudame podfavod,  a la baze  a la baze . \n**te dice hablando con la boca hinchada y la cara descompuesta **",
+      "mensaje_sha256": "88d05c31ec569c335fce917b58a852dfda1caf592b0f80b7629779f36f15bebf",
+      "tipo_discord": 19,
+      "referencia": "1446560578851045577",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1446562361069797418",
+      "texto_sha256": "4146828327ca80162affc5b12c5b59a9fea509aae3344fa775ff77dae5477ef5",
+      "adjuntos": []
+    },
+    {
+      "id": "1446565600167203041",
+      "fecha_utc": "2025-12-05T18:15:14.969000+00:00",
+      "fecha_local": "2025-12-05",
+      "editado_utc": null,
+      "texto": "Wukong \n\n- en peligro de que banzo? Eh! Eh! No me cierres los ojos! No!!! No te desplomes!!! Que no puedo contigo pedazo de...!!!!\n\n**Wukong se echa las manos a la cabeza**\n\n- y ahora como te muevo yo mastodonte tatuado?\n\n**Piensa un rato y decide probar a transformarse. Se quita unos pelitos de la cola, musita un pequeño rezo y entre una nube de humo sale un oso con las vendas en las patas y el juzu en el cuello. Coge el brazo del goliath y lo lleva arrastrando a la base de sho**\n\n🐒Wukong y banzo salen de escena☠️",
+      "mensaje_sha256": "27bc3e9f9e613707907636f7c00bfdf2c126054e931de87dbf1cdf6efeca5da8",
+      "tipo_discord": 19,
+      "referencia": "1446562361069797418",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1446565600167203041",
+      "texto_sha256": "4cb40f0997013cebb819a0c83e7ca7898f0f3517d8e00b084f804922106768b4",
+      "adjuntos": []
+    },
+    {
+      "id": "1446567786854875279",
+      "fecha_utc": "2025-12-05T18:23:56.316000+00:00",
+      "fecha_local": "2025-12-05",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena 🔴",
+      "mensaje_sha256": "b0495c2177f3c06aaea6ba8bf6226bbc098cb90c7cf33ffba5e23c731b94491d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1446567786854875279",
+      "texto_sha256": "298fa93bf0457633e2be1e0841043d853cccb9548c7ae2d8426119f0cb0a929e",
+      "adjuntos": []
+    }
+  ]
+}

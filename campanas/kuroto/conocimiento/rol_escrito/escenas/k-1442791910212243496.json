@@ -1,0 +1,96 @@
+{
+  "id": "k-1442791910212243496",
+  "campana": "kuroto",
+  "unidad_revision": "k-1442791910212243496",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Un memorial en la cala",
+  "resumen": "Banzo intenta construir un altar para Kalista y regresa a la reconstrucción.",
+  "relato": "Banzo se aparta por unas horas de sus responsabilidades para apilar piedras en la playa de Sho. Piensa en Kalista y admite para sí que no sabe construir un altar, aunque quiere dar forma al lugar donde está su tumba sin nombre. Después vuelve a ayudar en las reparaciones de la ciudad, consciente de que incluso animar a los trabajadores y a los niños puede sostener el esfuerzo colectivo. Un cónsul le avisa de la reunión convocada por Guxi. Aunque duda de cuánto podrá aportar, se dirige a palacio.",
+  "participantes": [
+    "Banzo"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1442791910212243496",
+      "afirmacion": "Trabaja con piedras en la tumba sin nombre de Kalista.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1442892582043517050",
+      "afirmacion": "Recibe el aviso de la reunión de Guxi y se dirige a palacio.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Las afirmaciones cosmológicas y sobre vidas anteriores proceden de Erlang Shen; esta conversación no las demuestra independientemente.",
+    "Las referencias a una visión y a Guardianes que los llaman traidores no contienen aquí la visión completa."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-11-25T08:19:57.172000+00:00",
+  "fin_utc": "2025-11-25T14:59:59.207000+00:00",
+  "fecha_local": "2025-11-25",
+  "intervalo": {
+    "anterior": 169,
+    "siguiente": 170,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1442596662206922943",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1443679606723838074",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 169,
+        "fecha": "2025-11-24",
+        "inicio_referencia_utc": "2025-11-24T19:23:51+00:00",
+        "fin_estimado_utc": "2025-11-24T22:32:50+00:00",
+        "duracion_video_segundos": 11339,
+        "tipo_referencia": "aviso_de_contraste",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1442596662206922943"
+      },
+      {
+        "capitulo": 170,
+        "fecha": "2025-11-27",
+        "inicio_referencia_utc": "2025-11-27T19:07:07+00:00",
+        "fin_estimado_utc": "2025-11-27T22:32:48+00:00",
+        "duracion_video_segundos": 12341,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1443679606723838074"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida. Una hora tomada de un aviso con título discrepante se utiliza solo como referencia aproximada de ese día."
+  },
+  "fuentes": [
+    {
+      "id": "1442791910212243496",
+      "fecha_utc": "2025-11-25T08:19:57.172000+00:00",
+      "fecha_local": "2025-11-25",
+      "editado_utc": "2025-11-25T08:20:14.626000+00:00",
+      "texto": "**Playa de Sho ** \nBanzo : **huyendo un poco de sus responsabilidades para con los cazadores y con la reparación de palacio y la ciudad el goliat se le vería apilando un gran número de piedras **\n\n*pffff por donde empiezo ... yo no se construir un altar kalista <@753394009153732689>  , pero supongo que algo podré hacer*\n\n**se queda pensando en cómo colocar las rocas y de que forma podría hacer algo para esa tumba sin nombre **",
+      "mensaje_sha256": "3b34d8c27e3137eb8f5aa1202740ad6c0be885b17a6c6334c76995cb53626f59",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1442791910212243496",
+      "texto_sha256": "334b32b5ffa53b1fad55403d4bce26b1e8c577aa731ce0de7eecdd50782cf3c3",
+      "adjuntos": []
+    },
+    {
+      "id": "1442892582043517050",
+      "fecha_utc": "2025-11-25T14:59:59.207000+00:00",
+      "fecha_local": "2025-11-25",
+      "editado_utc": "2025-11-25T16:29:56.353000+00:00",
+      "texto": "Banzo : **tras horas de trabajo el goliath de dirige a seguir con la jornada de trabajo ayudando en la reparación y en lo que se le necesite , es consciente que una simple palmadita en la espalda de un trabajador o una broma a los niños que corretean dan fuerzas de seguir .\n\nUno de los consuls se dirige a el dándole la información de la reunion convocada por Guxi <@171702246952665098> ** \n\nGracias . Pero creo que yo poco puedo hacer por allí.  \n**se dirige a palacio sin estar muy convencido **",
+      "mensaje_sha256": "7bfb958a06466f5fd3f731dcaa0f2eed90dbea230854b6042e0b30d9bf1c19e8",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1442892582043517050",
+      "texto_sha256": "593cf1fd39a0db05cd3106394bace2e8bfe68a2e23625ef62f3d3570f74956bc",
+      "adjuntos": []
+    }
+  ]
+}

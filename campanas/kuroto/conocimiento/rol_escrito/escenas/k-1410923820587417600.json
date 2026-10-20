@@ -1,0 +1,90 @@
+{
+  "id": "k-1410923820587417600",
+  "campana": "kuroto",
+  "unidad_revision": "k-1410923820587417600",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Guxi busca a Sera",
+  "resumen": "El artificiero despierta sobresaltado y sale a buscarla.",
+  "relato": "Guxi se despierta gritando el nombre de Sera. Al comprobar que no está a su lado, se preocupa y la busca por la base sin encontrarla. Después sale a continuar la búsqueda. Su temor a que vuelva a abandonarlo permanece en un pensamiento privado; el fragmento no revela que conozca lo sucedido durante la noche ni muestra un reencuentro.",
+  "participantes": [
+    "Guxi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1410923820587417600",
+      "afirmacion": "Guxi despierta, busca a Sera sin éxito y sale para seguir buscándola.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No atribuirle conocimiento de la escena anterior ni fijar el destino de su búsqueda."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-08-29T09:47:32.525000+00:00",
+  "fin_utc": "2025-08-29T10:23:31.856000+00:00",
+  "fecha_local": "2025-08-29",
+  "intervalo": {
+    "anterior": 152,
+    "siguiente": 153,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1410686619970699395",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1412135728854339686",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 152,
+        "fecha": "2025-08-28",
+        "inicio_referencia_utc": "2025-08-28T18:04:44+00:00",
+        "fin_estimado_utc": "2025-08-28T21:13:03+00:00",
+        "duracion_video_segundos": 11299,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1410686619970699395"
+      },
+      {
+        "capitulo": 153,
+        "fecha": "2025-09-01",
+        "inicio_referencia_utc": "2025-09-01T18:02:52+00:00",
+        "fin_estimado_utc": "2025-09-01T21:02:25+00:00",
+        "duracion_video_segundos": 10773,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1412135728854339686"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1410923820587417600",
+      "fecha_utc": "2025-08-29T09:47:32.525000+00:00",
+      "fecha_local": "2025-08-29",
+      "editado_utc": null,
+      "texto": "Guxi: \n**Se levanta de un grito asustado\"*\nSerá! \n**Al ver que no estába a su lado se preocupa mucho y empieza a buscarla sin mucho éxito hasta que se dirige afuera para buscarla**\n*Será donde estás por favor no me dejes otra vez*",
+      "mensaje_sha256": "70f2567522d42aca1f09efe64f83c12f571d6075cd25100e3a51ebfed0e773d3",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1410923820587417600",
+      "texto_sha256": "c1b4b848fcb3867fc1b231a8a38ad6afc9cc529357f4ddd2f7d2978da089ea7a",
+      "adjuntos": []
+    },
+    {
+      "id": "1410932877478072381",
+      "fecha_utc": "2025-08-29T10:23:31.856000+00:00",
+      "fecha_local": "2025-08-29",
+      "editado_utc": null,
+      "texto": "🔴 fin de escena🔴",
+      "mensaje_sha256": "6bb13b6ff52198d492452d18773b24a5c4a5fc89eae21570ea49fceb81be720e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1410932877478072381",
+      "texto_sha256": "906cd6a490f27f6a27bf957ba49b4845aca936431f5924262141d6e0dea25762",
+      "adjuntos": []
+    }
+  ]
+}

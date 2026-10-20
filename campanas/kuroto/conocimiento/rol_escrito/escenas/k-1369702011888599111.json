@@ -1,0 +1,83 @@
+{
+  "id": "k-1369702011888599111",
+  "campana": "kuroto",
+  "unidad_revision": "k-1369303524629807277",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Una aproximación al puerto sin aclarar",
+  "resumen": "Un breve mensaje de Arwen alude a un oso y a una aproximación peligrosa al borde del puerto.",
+  "relato": "Arwen introduce una referencia muy breve a un oso y a alguien que se acerca peligrosamente al límite del puerto. La redacción no permite precisar con seguridad quién realiza el movimiento ni cómo termina. No se añade rescate, caída ni encuentro con los otros grupos.",
+  "participantes": [
+    "Arwen"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1369702011888599111",
+      "afirmacion": "El mensaje de Arwen menciona un oso y una aproximación peligrosa al límite del puerto, sin desarrollo posterior.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Dos partes completas,132 mensajes. Se divide en cinco subescenas por conversación, cambio de jornada y ubicación; no se modifican fuentes ni intervalos del coordinador.",
+    "La identidad de quien supuestamente mataría a Kalista si habla no se dice. Guxi relaciona su estado con Jelbreg, pero es su interpretación.",
+    "El efecto sobre la memoria se corrige dentro del intercambio: el artefacto impide el borrado completo. No dar por perdida de forma permanente la memoria ni por recuperados todos los detalles.",
+    "Las aparentes citas Banzo/Palathier y el trabajo de papeles de Guxi son excusas ante Danifae; no se convierten en relación romántica o tarea administrativa demostrada.",
+    "El lugar donde Guxi aborda a los dos individuos no recibe nombre. Banzo visita primero el Gato Tuerto sin encontrarlo y luego otra taberna; no fusionar ambos locales.",
+    "Se usa piedra de mensaje y después el relato llama caracola al objeto que toma Banzo. Conservar la discrepancia de denominación sin crear dos comunicaciones confirmadas.",
+    "El plan solo se describe por su objetivo: no se muestra íntegro el croquis ni la ejecución. Ikaari escucha y asiente, sin prometer de forma explícita una acción concreta."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2025-05-07T15:46:47.467000+00:00",
+  "fin_utc": "2025-05-07T15:46:47.467000+00:00",
+  "fecha_local": "2025-05-07",
+  "intervalo": {
+    "anterior": 111,
+    "siguiente": 112,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1369742246882054214",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 111,
+        "fecha": "2025-05-01",
+        "inicio_referencia_utc": "2025-05-01T18:30:18+00:00",
+        "fin_estimado_utc": "2025-05-01T21:17:50+00:00",
+        "duracion_video_segundos": 10052,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983"
+      },
+      {
+        "capitulo": 112,
+        "fecha": "2025-05-07",
+        "inicio_referencia_utc": "2025-05-07T18:26:24+00:00",
+        "fin_estimado_utc": "2025-05-07T21:22:03+00:00",
+        "duracion_video_segundos": 10539,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1369742246882054214"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1369702011888599111",
+      "fecha_utc": "2025-05-07T15:46:47.467000+00:00",
+      "fecha_local": "2025-05-07",
+      "editado_utc": null,
+      "texto": "Arwen: **Va un oso y <@366293034847174657> se acerca peligrosamente hacia el limite del puerto**",
+      "mensaje_sha256": "aa38caed173d6ae33475e75f772a86b8db22544b70e8d540daa55f2cf0e9e708",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1369702011888599111",
+      "texto_sha256": "bb499b77ce958d5a7e1b137292ece7c6fb42304630fd1609857c8cfdfe07f096",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "x-1516482233697959968",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1516482233697959968",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "Un momento de calma para Coyote",
+  "resumen": "Sin acceso a la taberna, Coyote disfruta por un momento de la tranquilidad de Iktan.",
+  "relato": "Después de pasear por Iktan y de que le nieguen entrar en la taberna, Coyote se queda fuera observando a quienes van y vienen. Oye comentarios sobre los recién llegados, pero no se detalla su contenido. Sin nadie gritándole ni molestándolo en ese momento, se estira y se acomoda satisfecho. Expresa su deseo de que haya más días así. El breve mensaje no muestra respuesta de otro personaje ni resuelve sus restricciones anteriores.",
+  "participantes": [
+    "Coyote"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1516482233697959968",
+      "afirmacion": "Coyote permanece fuera de la taberna y expresa su satisfacción por la tranquilidad.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No se deduce una paz duradera en la ciudad ni el levantamiento definitivo del castigo."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2026-06-16T16:38:59.391000+00:00",
+  "fin_utc": "2026-06-16T16:38:59.391000+00:00",
+  "fecha_local": "2026-06-16",
+  "intervalo": {
+    "anterior": 38,
+    "siguiente": 39,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149383024690/1515976737605816332",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1517589464363434048",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 38,
+        "fecha": "2026-06-15",
+        "inicio_referencia_utc": "2026-06-15T18:00:00+00:00",
+        "fin_estimado_utc": "2026-06-15T20:23:29+00:00",
+        "duracion_video_segundos": 8609,
+        "tipo_referencia": "programacion",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149383024690/1515976737605816332"
+      },
+      {
+        "capitulo": 39,
+        "fecha": "2026-06-19",
+        "inicio_referencia_utc": "2026-06-19T17:58:26+00:00",
+        "fin_estimado_utc": "2026-06-19T20:14:22+00:00",
+        "duracion_video_segundos": 8156,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1517589464363434048"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida."
+  },
+  "fuentes": [
+    {
+      "id": "1516482233697959968",
+      "fecha_utc": "2026-06-16T16:38:59.391000+00:00",
+      "fecha_local": "2026-06-16",
+      "editado_utc": null,
+      "texto": "Coyote:\n**Después de rondar por Iktan y que me negaran la entrada a la tabernita, me quedé afuera mientras veía a todos ir y venir, despreocupados de la vida, algunos cuchicheando sobre los nuevos y yo... Disfrutaaaando de la paz que se respiraba**\n\nEsto es vida, no hay tantos gritos, nadie me está molestando, que felicidad estoy sintiendo \n\n**Estiraba mis patas traseras mientras me acostaba a mis anchas**\n\nOjalá hubiese más días así~\n\n<@753394009153732689>",
+      "mensaje_sha256": "570b506311732588f9d3a4a9c8655ee2a47f8c910f0526988684bc13fd72f4f5",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1516482233697959968",
+      "texto_sha256": "5bce2479cce65ac07b412c029b63e66348333a79ef5023aa1b1ae546040e669c",
+      "adjuntos": []
+    }
+  ]
+}

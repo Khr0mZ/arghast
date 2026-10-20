@@ -1,0 +1,90 @@
+{
+  "id": "k-1381989770963587173",
+  "campana": "kuroto",
+  "unidad_revision": "k-1381989770963587173",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Guxi lleva pequeñas jaulas a la base",
+  "resumen": "Una breve entrada de Guxi deja sin explicar su carga.",
+  "relato": "Guxi entra en la base con varios objetos parecidos a pequeñas jaulas y deja la puerta entreabierta. No se describe qué contienen, para qué los trae o dónde termina guardándolos. El marcador posterior cierra la intervención sin añadir sucesos.",
+  "participantes": [
+    "Guxi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1381989770963587173",
+      "afirmacion": "Guxi entra llevando objetos semejantes a pequeñas jaulas.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Dos mensajes completos. Se conserva la incertidumbre del aspecto y función de los objetos, sin asociarlos por cuenta propia con rituales, mascotas o invenciones anteriores."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-10T13:33:57.526000+00:00",
+  "fin_utc": "2025-06-11T07:47:38.961000+00:00",
+  "fecha_local": "2025-06-10",
+  "intervalo": {
+    "anterior": 125,
+    "siguiente": 126,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1380253520841805875",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1382420384158056601",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 125,
+        "fecha": "2025-06-05",
+        "inicio_referencia_utc": "2025-06-05T18:34:23+00:00",
+        "fin_estimado_utc": "2025-06-05T21:51:33+00:00",
+        "duracion_video_segundos": 11830,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1380253520841805875"
+      },
+      {
+        "capitulo": 126,
+        "fecha": "2025-06-11",
+        "inicio_referencia_utc": "2025-06-11T18:04:52+00:00",
+        "fin_estimado_utc": "2025-06-11T20:51:16+00:00",
+        "duracion_video_segundos": 9984,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1382420384158056601"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1381989770963587173",
+      "fecha_utc": "2025-06-10T13:33:57.526000+00:00",
+      "fecha_local": "2025-06-10",
+      "editado_utc": null,
+      "texto": "Guxi: **entra en la base con varias cosas parecidas a jaulas pequeñas y deja la puerta semiabierta**",
+      "mensaje_sha256": "11c81310ada9d66e2797cabb7d923e5e74dc13740ca0afb46cded31c57bde1a7",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1381989770963587173",
+      "texto_sha256": "63de50a76019439bf6bec17a802b8bc04091e7920810371ce4cf4a74f4d908db",
+      "adjuntos": []
+    },
+    {
+      "id": "1382265007211024446",
+      "fecha_utc": "2025-06-11T07:47:38.961000+00:00",
+      "fecha_local": "2025-06-11",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "0adf88ca98d94735d436a66a6f642ecf8f3bde28c68af5db5b12668350958c4b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1382265007211024446",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

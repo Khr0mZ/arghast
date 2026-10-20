@@ -1,0 +1,214 @@
+{
+  "id": "x-1557886002498896003",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1557886002498896003",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "Oghma y Coyote imaginan el Final Feliz",
+  "resumen": "Aceptan asociarse y bromean con títulos, joyas y el disfraz del conde, sin abrir aún el local.",
+  "relato": "Coyote acepta participar en el negocio que Oghma quiere montar en Tutucan, con la condición de que no se entere su señora. Ella contrapone la perla de la princesa al rubí de la reina y propone una visita del conde para la inauguración. La conversación remite a su juego previo con ese personaje: no acredita un patrocinador noble real.\n\nFantasean con fama, dinero y nuevos títulos. Oghma se prueba el tratamiento de madame y anima a Coyote a encontrar una apariencia y ropa acordes; él pregunta qué hombres le gustan para buscar un rostro semejante. Entre bromas sobre Archi, ambos terminan agradeciéndose la compañía. Coyote reconoce que hacía años que no se divertía así, pero deja sin explicar el pasado al que alude. El local, la inauguración y los otros posibles socios siguen siendo planes.",
+  "participantes": [
+    "Oghma",
+    "Coyote"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1557886002498896003",
+      "afirmacion": "Coyote acepta participar mientras su señora no se entere.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1557886904249090099",
+      "afirmacion": "Oghma propone que el conde visite una futura inauguración.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1557892702899667037",
+      "afirmacion": "Oghma agradece a Coyote su compañía.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1557901164450943041",
+      "afirmacion": "Coyote corresponde al agradecimiento sin explicar una pérdida anterior.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Las joyas se mencionan por los personajes; esta conversación no narra su obtención ni confirma sus títulos de propiedad.",
+    "Madame y el título sugerido para Coyote son aspiraciones o juego de rol, no cargos consolidados.",
+    "Continuación de la espera de Naór, sin mostrar su regreso."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-10-08T22:42:47.118000+00:00",
+  "fin_utc": "2026-10-08T23:43:02.009000+00:00",
+  "fecha_local": "2026-10-09",
+  "intervalo": {
+    "anterior": 69,
+    "siguiente": 70,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1558177942457028612",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 69,
+        "fecha": "2026-10-08",
+        "inicio_referencia_utc": "2026-10-08T18:17:02+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265"
+      },
+      {
+        "capitulo": 70,
+        "fecha": "2026-10-09",
+        "inicio_referencia_utc": "2026-10-09T18:01:52+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1558177942457028612"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1557886002498896003",
+      "fecha_utc": "2026-10-08T22:42:47.118000+00:00",
+      "fecha_local": "2026-10-09",
+      "editado_utc": null,
+      "texto": "Coyote:\nSiempre y cuando no le digan a mi señora, todo bien \n\n**Le hago una señal de ok con la pata**\n\nPero no me habías dicho, que te lo tienes bien guardado todo eh?",
+      "mensaje_sha256": "a8541a06b0b0c90c4a6eafac3ea5474370b9758369b8200dd7541db8746f25eb",
+      "tipo_discord": 19,
+      "referencia": "1557870343308181547",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1557886002498896003",
+      "texto_sha256": "9823f57a8eb2175d26bd4bdcb4ff9296014ac87a8f8a3d72f73ba98d1e51b524",
+      "adjuntos": []
+    },
+    {
+      "id": "1557886904249090099",
+      "fecha_utc": "2026-10-08T22:46:22.112000+00:00",
+      "fecha_local": "2026-10-09",
+      "editado_utc": null,
+      "texto": "Oghma:\nTu te llevaste la perla de la princesa, yo el rubi de la reina\n\n**Le guiña un ojo**\n\nParece que el conde sera generoso con nosotras, creo que podria hacernos una visita para la inaguracion, que te parece?",
+      "mensaje_sha256": "bccd9771feaaacb513244704575f2ddaf0ddeb3f5a0707b4ec2bf7c9fe33e0f5",
+      "tipo_discord": 19,
+      "referencia": "1557886002498896003",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1557886904249090099",
+      "texto_sha256": "4e47cfe5290a51efffb81e60c51042203a47c418d90f09a833298dbe376081bf",
+      "adjuntos": []
+    },
+    {
+      "id": "1557887141990895626",
+      "fecha_utc": "2026-10-08T22:47:18.794000+00:00",
+      "fecha_local": "2026-10-09",
+      "editado_utc": null,
+      "texto": "Coyote:\nMe parece un excelente plan~\n\n**Me relamía el hocico**\n\nFama, dinero y mucho vicio, nada mejor que eso",
+      "mensaje_sha256": "f23ed8f19899568aa12ebf10cd6688487f796c38eca961a81b2c85e38de0edad",
+      "tipo_discord": 19,
+      "referencia": "1557886904249090099",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1557887141990895626",
+      "texto_sha256": "0f6309f26eed294067e8a37ecbc2790876c8c742f82c13963078a287c91daeba",
+      "adjuntos": []
+    },
+    {
+      "id": "1557887346811347037",
+      "fecha_utc": "2026-10-08T22:48:07.627000+00:00",
+      "fecha_local": "2026-10-09",
+      "editado_utc": null,
+      "texto": "Oghma:\n\nMe gusta como suena Madamme Oghma\n\n**Se rie a carcajadas**",
+      "mensaje_sha256": "a4f8f8d3b8766107a830b823ce7d3a89d0aa4ae90408df44f51b7c182a7586f0",
+      "tipo_discord": 19,
+      "referencia": "1557887141990895626",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1557887346811347037",
+      "texto_sha256": "c744a3d2797c14dc3b1f1b6153b7d9ea36c5ed8029ab102d2783e107e808fa82",
+      "adjuntos": []
+    },
+    {
+      "id": "1557888045041066035",
+      "fecha_utc": "2026-10-08T22:50:54.098000+00:00",
+      "fecha_local": "2026-10-09",
+      "editado_utc": null,
+      "texto": "Coyote:\nSerá todo un honor llamarte así, Madamme Oghma~\n\n**Le volteo a ver de reojo con esa sonrisa pícara**",
+      "mensaje_sha256": "54251c1632383f27e158e80fe3bde31c34c275ec0b496d6e5194a99e92064c83",
+      "tipo_discord": 19,
+      "referencia": "1557887346811347037",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1557888045041066035",
+      "texto_sha256": "f2712504cd5a291b72e1e2db0d66641de15dc872483b945b9f8d85f97c0f76ee",
+      "adjuntos": []
+    },
+    {
+      "id": "1557890085175693313",
+      "fecha_utc": "2026-10-08T22:59:00.504000+00:00",
+      "fecha_local": "2026-10-09",
+      "editado_utc": "2026-10-08T22:59:35.666000+00:00",
+      "texto": "Oghma:\n*Si nos hubieramos conocido antes ya seriamos ricos, ~~incluso sin la espada~~*\n\nDeberias buscarte un titulo rimbombante, Lord Maestre Coyote, Sumo Proxeneta? No se, ya se te ocurrira algo, y tenemos que conseguirte unos trapitos nuevos a juego...",
+      "mensaje_sha256": "b5a095ac0426e2dcebff2bba59158c26b978d4c914d61ac608b489ed1e3b8efd",
+      "tipo_discord": 19,
+      "referencia": "1557888045041066035",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1557890085175693313",
+      "texto_sha256": "787742e72f132ef3a0993b37e21be71ee5689109a4da06ce838e10efa40223f6",
+      "adjuntos": []
+    },
+    {
+      "id": "1557890551104282765",
+      "fecha_utc": "2026-10-08T23:00:51.590000+00:00",
+      "fecha_local": "2026-10-09",
+      "editado_utc": null,
+      "texto": "Coyote:\nTendré que ver a quien puedo robarle un poquito de todo y sobre todo el rostro, cómo te gustan los hombres?, quizás pueda buscar algo similar",
+      "mensaje_sha256": "b5bee538c7f510dd12c60576cbe6c26577a2f86409e9a764ba6a0afc74b4172a",
+      "tipo_discord": 19,
+      "referencia": "1557890085175693313",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1557890551104282765",
+      "texto_sha256": "7d4b6ecaa820a8391e7bd59d82e0f04807f7c2d9f4191412e00c6566ff7b76e9",
+      "adjuntos": []
+    },
+    {
+      "id": "1557892702899667037",
+      "fecha_utc": "2026-10-08T23:09:24.618000+00:00",
+      "fecha_local": "2026-10-09",
+      "editado_utc": "2026-10-08T23:10:07.704000+00:00",
+      "texto": "Oghma:\nA mi me gustan los caballeros que no tengan miedo de probar cosas nuevas, y cuantas mas patitas mejor.\n\n**Se lleva la mano a la frente como una pobre anciana desvalida**\n\n Ojala Archi me eche una mano con todos esos numeros tan dificiles, especialmente sus unos y mis ceros.\n\n**Se rie ruidosamente y por un segundo parece perdida en sus pensamientos mientras te mira a los ojos**\n\nGracias por estar aqui",
+      "mensaje_sha256": "6564e1766cc53671a2523b4a175f5db93c999b0dc5613d4f95546be220c7f468",
+      "tipo_discord": 19,
+      "referencia": "1557890551104282765",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1557892702899667037",
+      "texto_sha256": "cabcab81e8dbade96a3e9e846758a17ba78edcd16f38c676982e30ef519dde8b",
+      "adjuntos": []
+    },
+    {
+      "id": "1557901164450943041",
+      "fecha_utc": "2026-10-08T23:43:02.009000+00:00",
+      "fecha_local": "2026-10-09",
+      "editado_utc": null,
+      "texto": "Coyote:\nTambién tengo que agradecerte, en verdad no me había divertido tanto en años desde que pasó... Bueno, cosas mías \n\n**Sonreí aliviado poniéndole una pata sobre el hombro**",
+      "mensaje_sha256": "87d5a4e1d7f370ae8d26d90a190a1c3d72cb032a31b687e494d7f4c46d8c7057",
+      "tipo_discord": 19,
+      "referencia": "1557892702899667037",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1557901164450943041",
+      "texto_sha256": "a648a2a479593b428155f47e982254903f99941a967c2fcf80756bf2d3fdfaa6",
+      "adjuntos": []
+    },
+    {
+      "id": "1558399591072800849",
+      "fecha_utc": "2026-10-10T08:43:36.176000+00:00",
+      "fecha_local": "2026-10-10",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena 🔴",
+      "mensaje_sha256": "6cb75a779e69361c231a63d566401d08cf0b284563706188567fedc1f6aa7b3b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1558399591072800849",
+      "texto_sha256": "298fa93bf0457633e2be1e0841043d853cccb9548c7ae2d8426119f0cb0a929e",
+      "adjuntos": [],
+      "no_narrativo": true,
+      "nota_editorial": "Marcador de cierre conservado junto a la conversación."
+    }
+  ]
+}

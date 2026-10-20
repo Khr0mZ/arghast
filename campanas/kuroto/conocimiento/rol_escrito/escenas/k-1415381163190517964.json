@@ -1,0 +1,127 @@
+{
+  "id": "k-1415381163190517964",
+  "campana": "kuroto",
+  "unidad_revision": "k-1415381163190517964",
+  "hilo_id": "1387915737502580886",
+  "hilo_nombre": "Sho, Palacio del Shogunato - Capital de Kuroto",
+  "titulo": "Las dos luces del mapa",
+  "resumen": "Kalista localiza una marca bajo la ciudad y comprueba que la de Danifae permanece en la cárcel.",
+  "relato": "Kalista vuelve al palacio jadeando y pide a los sirvientes preparar frascos de agua para arrojar. Sube a su habitación y activa el mapa de Archi, buscando las marcas que había colocado. Una luz morada aparece en los barrios bajos, por debajo de la ciudad. La luz roja identificada como Danifae sigue en la cárcel del Shogunato, lo que la alivia. Kalista concentra su atención en el punto morado y promete destruir a Alaister por haber tocado a los suyos. La consulta da una localización de marca; no muestra aún el encuentro, una recuperación del consorte o una muerte.",
+  "participantes": [
+    "Kalista"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1415381163190517964",
+      "afirmacion": "Pide frascos de agua y activa el mapa de marcas.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1415384499365085337",
+      "afirmacion": "La narración sitúa una luz morada bajo los barrios bajos y la roja de Danifae en la cárcel.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1415385305715970131",
+      "afirmacion": "Kalista jura acabar con Alaister mientras mira el punto morado.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "El color morado y su posición se describen; el texto no etiqueta expresamente en ese mensaje a quién pertenece la marca.",
+    "La referencia amenazante a un ataúd no basta por sí sola para definir especie o confirmar un final."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-09-10T16:59:25.815000+00:00",
+  "fin_utc": "2025-09-10T17:16:12.569000+00:00",
+  "fecha_local": "2025-09-10",
+  "intervalo": {
+    "anterior": 155,
+    "siguiente": 156,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1413222713035587615",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1415765542228332665",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 155,
+        "fecha": "2025-09-04",
+        "inicio_referencia_utc": "2025-09-04T18:02:08+00:00",
+        "fin_estimado_utc": "2025-09-04T21:26:26+00:00",
+        "duracion_video_segundos": 12258,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1413222713035587615"
+      },
+      {
+        "capitulo": 156,
+        "fecha": "2025-09-11",
+        "inicio_referencia_utc": "2025-09-11T18:26:34+00:00",
+        "fin_estimado_utc": "2025-09-11T22:04:21+00:00",
+        "duracion_video_segundos": 13067,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1415765542228332665"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1415381163190517964",
+      "fecha_utc": "2025-09-10T16:59:25.815000+00:00",
+      "fecha_local": "2025-09-10",
+      "editado_utc": "2025-09-10T17:03:48.808000+00:00",
+      "texto": "Kalista: **Vuelva al palacio jadeando, se tiene que apoyar en umbral del palacio** Maldita sea....**Entra y ordena a los sirvientes buscar y preparar frascos de agua para arrojar mientras sube arriba a la habitacion. Va a su bolsa y la abre sacando el invento de mapa del gnomo y lo abre para ver la ubicacion de las marcas que coloco** <@214405113677217793>",
+      "mensaje_sha256": "fd7b14cad7d23f1701d5adaca8c8640b95fb6d117d4b13c7671780a072a48924",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1415381163190517964",
+      "texto_sha256": "c4b90cdfdb73ad563d6dc165e5914fcd893bf8a6ef8983073a328cc4e8f3a6e0",
+      "adjuntos": []
+    },
+    {
+      "id": "1415384499365085337",
+      "fecha_utc": "2025-09-10T17:12:41.221000+00:00",
+      "fecha_local": "2025-09-10",
+      "editado_utc": null,
+      "texto": "**Al abrir el mapa y activarlo, ves como una luz morada se ilumina en una parte de los barrios bajos de la ciudad, por debajo de la ciudad. Luego te fijas en la otra luz, esa de color rojo... la luz de Danifae. Para tu alivio, se encuentra iluminando la cárcel del Shogunato.**",
+      "mensaje_sha256": "2694d215224bc95bd7b3b1571bc422603cad1aa7bd63a542bd110f7b6a5eafa5",
+      "tipo_discord": 19,
+      "referencia": "1415381163190517964",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1415384499365085337",
+      "texto_sha256": "248b8433476c91446b9cd71622dd024b03f9d3bb2085cc65235eae223a6eea1f",
+      "adjuntos": []
+    },
+    {
+      "id": "1415385305715970131",
+      "fecha_utc": "2025-09-10T17:15:53.470000+00:00",
+      "fecha_local": "2025-09-10",
+      "editado_utc": null,
+      "texto": "Kalista: **Suspira y se fija en el punto morado** Acabare contigo Alaister, acabaras hundiendote en en tu ataud en el fondo del mar para que agonices ... Nadie toca lo que es mio y sale vivo....Aunque sea lo ultimo que haga....",
+      "mensaje_sha256": "99e1b42311e06e702ff36ccde138f4cae19cc9d9f446710676dc449f3edb46fb",
+      "tipo_discord": 19,
+      "referencia": "1415384499365085337",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1415385305715970131",
+      "texto_sha256": "bcb6ab6b1f77237527ecad606ef2ace861c84526a6fb3de3dbe34ea9d9fdec36",
+      "adjuntos": []
+    },
+    {
+      "id": "1415385385822851155",
+      "fecha_utc": "2025-09-10T17:16:12.569000+00:00",
+      "fecha_local": "2025-09-10",
+      "editado_utc": null,
+      "texto": "🔴 **Fin de escena**🔴",
+      "mensaje_sha256": "f67f77d28bda35f0ac906a0a0326f135f2f86f286a6c5a89ec6ad2b22843cc99",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1415385385822851155",
+      "texto_sha256": "0e513b9a495850850524d0965f55df051cd0b6a138120693016da3f3ffd42ccd",
+      "adjuntos": []
+    }
+  ]
+}

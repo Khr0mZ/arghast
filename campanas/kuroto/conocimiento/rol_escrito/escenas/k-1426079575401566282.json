@@ -1,0 +1,214 @@
+{
+  "id": "k-1426079575401566282",
+  "campana": "kuroto",
+  "unidad_revision": "k-1426079575401566282",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Danifae advierte de la cúpula que se rompe",
+  "resumen": "Una conversación en Hakahara menciona al balor Taz'Gorath y una nueva amenaza sobre Kuroto.",
+  "relato": "En Hakahara, Banzo se hiere con su arpón para detener la marcha de Danifae, que reacciona también con dolor. El texto no explica el vínculo entre ambos. Ella dice que iba a cumplir parte de un trato y que el balor no era su único problema. A las preguntas del goliat, identifica al demonio como Taz'Gorath, señor de la vigésimo octava capa del Abismo, y considera que no le interesan los planes de Ootakemaru. Después señala al cielo y afirma que la cúpula se está rompiendo. Banzo mira arriba y decide que deben actuar, aludiendo a llevar a alguien a los calabozos antes de hacer lo pendiente. Danifae recomienda avisar a la shogun y ambos se disponen a hacerlo; ella recoge el látigo cuyas serpientes se enroscan en su cintura. El aviso, el traslado y la medida contra la cúpula no se muestran.",
+  "participantes": [
+    "Banzo",
+    "Danifae",
+    "gnomo sin identificar"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1426092670199271485",
+      "afirmacion": "Danifae reacciona con dolor y menciona un trato aún incompleto.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1426112023812505660",
+      "afirmacion": "Danifae identifica a Taz'Gorath y lo sitúa en la vigésimo octava capa del Abismo.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1426113123328331797",
+      "afirmacion": "Danifae afirma que la cúpula se rompe.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1426117167488696330",
+      "afirmacion": "Sugiere informar a la shogun.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Hakahara es la localización explícita. No situar la conversación físicamente en Sho por el nombre del hilo.",
+    "Los datos sobre Taz'Gorath y la cúpula proceden de Danifae; no se desarrolla aquí una comprobación independiente.",
+    "Banzo mira a un gnomo sin nombre. El referente de nos lo llevamos a los calabozos no queda inequívoco; no identificar preso ni dar por efectuado el traslado.",
+    "La reacción al dolor no basta para reconstruir el ritual o pacto que la produce."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-10-10T05:31:06.053000+00:00",
+  "fin_utc": "2025-10-10T13:43:36.794000+00:00",
+  "fecha_local": "2025-10-10",
+  "intervalo": {
+    "anterior": 162,
+    "siguiente": 163,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1425912631637835917",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1428443861126086666",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 162,
+        "fecha": "2025-10-09",
+        "inicio_referencia_utc": "2025-10-09T18:27:25+00:00",
+        "fin_estimado_utc": "2025-10-09T21:37:40+00:00",
+        "duracion_video_segundos": 11415,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1425912631637835917"
+      },
+      {
+        "capitulo": 163,
+        "fecha": "2025-10-16",
+        "inicio_referencia_utc": "2025-10-16T18:05:34+00:00",
+        "fin_estimado_utc": "2025-10-16T21:30:31+00:00",
+        "duracion_video_segundos": 12297,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1428443861126086666"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1426079575401566282",
+      "fecha_utc": "2025-10-10T05:31:06.053000+00:00",
+      "fecha_local": "2025-10-10",
+      "editado_utc": "2025-10-10T05:32:03.901000+00:00",
+      "texto": "HAKAHARA : \n\n\nBANZO :  **se clava el arpon en la pierna en un gesto rápido \n\nSuelta un gruñido reteniendo el dolor y pega un grito a Danifae ** <@214405113677217793> \nTu donde vas , no tengas tanta prisa y pasemos un poco de tiempo juntos",
+      "mensaje_sha256": "c9a6f82ce1b90f40a98a2e511ecb69b0d43aabdcf6907426a544d735ae8f48ff",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1426079575401566282",
+      "texto_sha256": "85723f7f1df9a7b785b88e5040f2bc6e9d80ef9bcf61eb1e8ccec0e37eefc926",
+      "adjuntos": []
+    },
+    {
+      "id": "1426092670199271485",
+      "fecha_utc": "2025-10-10T06:23:08.096000+00:00",
+      "fecha_local": "2025-10-10",
+      "editado_utc": null,
+      "texto": "Danifae: **La drow aprieta los dientes en una mueca de dolor** Iba a cumplir con parte del trato... El balor no era vuestro único problema...",
+      "mensaje_sha256": "014235d66d890e16cae9a8c028b5fd4d0de4fe4a9d4f75d9c773c3f7c6d4e744",
+      "tipo_discord": 19,
+      "referencia": "1426079575401566282",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1426092670199271485",
+      "texto_sha256": "cbc56da8aa82d8b23d07587c2d21b9229eee90d18804e4d7878cce0f52d6476f",
+      "adjuntos": []
+    },
+    {
+      "id": "1426105956089069638",
+      "fecha_utc": "2025-10-10T07:15:55.699000+00:00",
+      "fecha_local": "2025-10-10",
+      "editado_utc": null,
+      "texto": "Banzo : **saca el arpon de su pierna  la sangre brota  y se acerca a ella **\n\nNo corras tanto . A que te refieres . Balor es el tipo de demonio cierto ? \n\nEse no estaba ligado a ootakemsru por lo que me dijo . \nA problemas mas te refieres",
+      "mensaje_sha256": "803ad707da7c4db81a0b1fa5ac88f5ee2d41a5fe5272d0253072af6c5cd0f47b",
+      "tipo_discord": 19,
+      "referencia": "1426092670199271485",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1426105956089069638",
+      "texto_sha256": "255e32379655a7ba5342b72e5fbb92467d30607de81f31e2969c891fe8162bd0",
+      "adjuntos": []
+    },
+    {
+      "id": "1426112023812505660",
+      "fecha_utc": "2025-10-10T07:40:02.357000+00:00",
+      "fecha_local": "2025-10-10",
+      "editado_utc": null,
+      "texto": "Danifae: Si, ese demonio era un balor. **Dice con una mueca en la cara de la herida que acabas de hacer** Taz'Gorath es un señor demoniaco de la vigésimo octava capa del Abismo, no creo que le interesen los planes de Ootakemaru. **Ves que te mira y señala al cielo en respuesta a tu última pregunta** Ni os habéis fijado, no?",
+      "mensaje_sha256": "6c119310445858ef9b09701070fc59b7ea07f2f6e1bda6c1db963e5c7b2983b0",
+      "tipo_discord": 19,
+      "referencia": "1426105956089069638",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1426112023812505660",
+      "texto_sha256": "11a58dd6649b0b937b4f2facbf5b9266f4ba9600220367159f36c565f1580d30",
+      "adjuntos": []
+    },
+    {
+      "id": "1426112273671389195",
+      "fecha_utc": "2025-10-10T07:41:01.928000+00:00",
+      "fecha_local": "2025-10-10",
+      "editado_utc": null,
+      "texto": "Banzo : **Mira al cielo ** *la cúpula?*",
+      "mensaje_sha256": "dc0b3b739b03a7cc0a71f8e975638dc69e87621cb6338241fbc60b9049544f53",
+      "tipo_discord": 19,
+      "referencia": "1426112023812505660",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1426112273671389195",
+      "texto_sha256": "f7d32e896179eb1b4e2842cb998eb34ea111dc30a5ae0759bb6db1506e5fb358",
+      "adjuntos": []
+    },
+    {
+      "id": "1426113123328331797",
+      "fecha_utc": "2025-10-10T07:44:24.502000+00:00",
+      "fecha_local": "2025-10-10",
+      "editado_utc": null,
+      "texto": "Danifae: La Cúpula **Te dice como si te hubiera leído la mente** Se rompe",
+      "mensaje_sha256": "a652a6cce40003a140c6cea94c3835032b5b5487723240dd582c6ea9a2fc2e72",
+      "tipo_discord": 19,
+      "referencia": "1426112273671389195",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1426113123328331797",
+      "texto_sha256": "6a2b8276d7d53ae50cc08bf095637086488f1c0bec1e804fa23e46099dfff1a8",
+      "adjuntos": []
+    },
+    {
+      "id": "1426115665135276162",
+      "fecha_utc": "2025-10-10T07:54:30.516000+00:00",
+      "fecha_local": "2025-10-10",
+      "editado_utc": null,
+      "texto": "Banzo: **chasquea los dientes ** \nEl final esta cada vez mas cerca\n\n*decantemos la balanza a nuestro favor pues* \n\n** Mira al gnomo ** \nNos lo llevamos a los calabozos y vamos hacer lo que tenias que hacer.",
+      "mensaje_sha256": "09f7d0d82c5fab46d762d97840f54805a10e3dadbb7385c0c5c2cb789148d842",
+      "tipo_discord": 19,
+      "referencia": "1426113123328331797",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1426115665135276162",
+      "texto_sha256": "7ab49c5cb8efd2286714548831c2878b30abe3b1dfba83ff71e189f84c44b80c",
+      "adjuntos": []
+    },
+    {
+      "id": "1426117167488696330",
+      "fecha_utc": "2025-10-10T08:00:28.705000+00:00",
+      "fecha_local": "2025-10-10",
+      "editado_utc": "2025-10-10T08:17:36.073000+00:00",
+      "texto": "Danifae: Debería informar a la Shogun de la Cúpula, no crees? **Sonríe amablemente mientras ladea la cabeza**",
+      "mensaje_sha256": "9e43302c20feb6e9a40a175f2f87156c058548f42e901883a22b679bc8af7e39",
+      "tipo_discord": 19,
+      "referencia": "1426115665135276162",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1426117167488696330",
+      "texto_sha256": "1c9fffd4e4fa61b5569dfb498b963f4f79c7f5eff7e37cc2a3df7af31915bf25",
+      "adjuntos": []
+    },
+    {
+      "id": "1426202914803941517",
+      "fecha_utc": "2025-10-10T13:41:12.458000+00:00",
+      "fecha_local": "2025-10-10",
+      "editado_utc": null,
+      "texto": "Banzo : si , aparte , seguro que le hace ilusión que se lo digas tú.  \nVamos ?",
+      "mensaje_sha256": "5fdc20d9c79114c7d7983eb400d6ea8014b4d0297574a3d6d26c566e5d1fc8b2",
+      "tipo_discord": 19,
+      "referencia": "1426117167488696330",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1426202914803941517",
+      "texto_sha256": "6fe870211eb7bc9c306a5e97d6e70e7421f176476824eb20e97325ebe6443844",
+      "adjuntos": []
+    },
+    {
+      "id": "1426203520192745656",
+      "fecha_utc": "2025-10-10T13:43:36.794000+00:00",
+      "fecha_local": "2025-10-10",
+      "editado_utc": "2025-10-10T13:44:57.260000+00:00",
+      "texto": "Danifae: Seguro que si **Sonríe mientras se guarda el látigo detrás de la espalda y las serpientes se le enrollan en la cintura**\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "5c668212635906f2477cc30c6a551f9ceef48874296dabc352950df384c1ea67",
+      "tipo_discord": 19,
+      "referencia": "1426202914803941517",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1426203520192745656",
+      "texto_sha256": "e9d2142a4219cf5dfe5b75532c635b73a6a0459db532a7c447b7ab3a9f7082ba",
+      "adjuntos": []
+    }
+  ]
+}

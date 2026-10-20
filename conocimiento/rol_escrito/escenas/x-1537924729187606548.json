@@ -1,0 +1,349 @@
+{
+  "id": "x-1537924729187606548",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1537924729187606548",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "Walulu atiende el veneno de Tessa y Eldrath",
+  "resumen": "La chamana busca antitoxinas mientras el elfo intenta mantener despierta a su compañera, pese a estar herido también.",
+  "relato": "Eldrath llega al templo con una herida que aún sangra y pide a Walulu que revise a Tessa. La chamana examina el daño de un wyvern y advierte del peligro de su aguijón. Da a la humana una mezcla de hierbas para masticar y ofrece otra al elfo, también afectado por el veneno. Después sale a buscar antitoxinas y le encarga que la mantenga despierta.\n\nÉl cumple mediante provocaciones sobre robar su látigo. Tessa se retuerce de dolor y le aprieta el antebrazo con fuerza; Eldrath soporta el apretón mientras sigue hablándole. Discuten sobre el impulso de proteger a una anciana durante el encuentro anterior: ella lo defiende como deber y él recuerda sus propios fracasos al intentar salvar a otros. Ni el ataque del wyvern ni esas pérdidas se reproducen en esta conversación.\n\nArchi aparece un momento, formula una interpretación burlona de su relación y se marcha. Tessa cree que quizá alucina por las hierbas, pero el elfo confirma que el gnomo estaba allí. El dolor parece ceder algo y el cansancio se impone. Eldrath insiste en que no cierre los ojos hasta que vuelva Walulu. La escena continúa sin que aún haya una curación.",
+  "participantes": [
+    "Tessa",
+    "Eldrath",
+    "Walulu",
+    "Archi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1537926766595801199",
+      "afirmacion": "Walulu examina el daño del wyvern y da hierbas a Tessa.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1537931649520771122",
+      "afirmacion": "La chamana encarga a Eldrath mantener despierta a Tessa mientras busca antitoxinas.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1537937132474077315",
+      "afirmacion": "Tessa explica que se interpuso para proteger a una anciana.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1537940579655229582",
+      "afirmacion": "Eldrath admite que ha intentado proteger a otros y fracasado, y que eso afecta a su sueño.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1537943444415193158",
+      "afirmacion": "Eldrath sigue intentando evitar que Tessa se duerma.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Las hierbas y el veneno son elementos de una cura ficticia, sin establecer eficacia fuera de lo narrado.",
+    "La previsión romántica de Archi es una burla suya, no una relación consumada o confirmada.",
+    "Esta conversación continúa en la siguiente unidad; el corte temporal no supone un alta médica."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-08-14T20:43:48.698000+00:00",
+  "fin_utc": "2026-08-14T21:58:10.756000+00:00",
+  "fecha_local": "2026-08-14",
+  "intervalo": {
+    "anterior": 52,
+    "siguiente": 53,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1537533079118155877",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1537882794368180227",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 52,
+        "fecha": "2026-08-13",
+        "inicio_referencia_utc": "2026-08-13T18:44:44+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1537533079118155877"
+      },
+      {
+        "capitulo": 53,
+        "fecha": "2026-08-14",
+        "inicio_referencia_utc": "2026-08-14T17:54:11+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1537882794368180227"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1537924729187606548",
+      "fecha_utc": "2026-08-14T20:43:48.698000+00:00",
+      "fecha_local": "2026-08-14",
+      "editado_utc": null,
+      "texto": "Eldrath: **Se sienta en el banco al lado de <@220602485977382912> sujetandose el costado derecho donde su herida aun sangra. Parece serio.**\n\n<@214405113677217793> Walulu, puedes revisarla... El veneno escuece como el infierno.",
+      "mensaje_sha256": "812987d6cdeeae7392429ba43528a6174646ce38862418d1272aa9af46ec8d7e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537924729187606548",
+      "texto_sha256": "9f4ef786000e8d5824bccc3cf4b99b7e04c4ba9ae07478978664071548e991b5",
+      "adjuntos": []
+    },
+    {
+      "id": "1537926766595801199",
+      "fecha_utc": "2026-08-14T20:51:54.454000+00:00",
+      "fecha_local": "2026-08-14",
+      "editado_utc": null,
+      "texto": "Walulu: **Esta revistando la herida del Wyvern.** Estas bestias draconidas tienen un aguijón muy peligroso. Ha tenido suerte de no dar a un sitio mortal y recibir una curación rápidamente **Se lleva la mano debajo la mascara y mezcla unas hierbas con su saliva** La piel sensible de los humanos es bastante vulnerable al veneno. Toma, mastica esto. **Y le da el pringue a Tessa para que se lo meta en la boca**\n<@220602485977382912>",
+      "mensaje_sha256": "f109cf197e78c386163fc4a1409b6a2aac20a0a9dfb3cb6683ebed2c46456c25",
+      "tipo_discord": 19,
+      "referencia": "1537924729187606548",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537926766595801199",
+      "texto_sha256": "1dcb9634595e8f9ac4a01b217b51b941e37b59e3f47ec990946197c600eacd71",
+      "adjuntos": []
+    },
+    {
+      "id": "1537928320035987628",
+      "fecha_utc": "2026-08-14T20:58:04.823000+00:00",
+      "fecha_local": "2026-08-14",
+      "editado_utc": null,
+      "texto": "Eldrath: **Tensa la mandibula mientras observa a Walulu como trata de curar a la estirada** Si te mueres estirada me quedo con tu latigo... **Bromea, pero te habla para q asi tengas otra cosa en la que centrarte en vez de el dolor y que te mantengas despierta** <@220602485977382912>",
+      "mensaje_sha256": "130336916ed71a3d7222d73580ec31be9a9c3c963fed789bca8e1dd548a36c33",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537928320035987628",
+      "texto_sha256": "719296ba656740c74ac4015afd5eb75cfefde967104a2932fb65dc529d6bd0b3",
+      "adjuntos": []
+    },
+    {
+      "id": "1537929565450797076",
+      "fecha_utc": "2026-08-14T21:03:01.753000+00:00",
+      "fecha_local": "2026-08-14",
+      "editado_utc": null,
+      "texto": "Tessa\n\n**Desde que la han tumbado, Tessa no ha parado de retorcerse y de quejarse. La herida dolía, pero el veneno le ardía las entrañas. No sé parecía en nada al envenenamiento que sufrió en la caverna del dragón. Quizá por qué estaba diluido por el tiempo y solo lo inhaló**\n\n- arde!!! Me quema el cuerpo!!!\n\n**Sin apenas darse cuenta, mastica y traga la pata que Walulu le introduce en la boca.**\n\n- por... Encima de mi... Aaahh... Cadáver elfo gruñón!!! Joder...!!",
+      "mensaje_sha256": "8cbff9c3b927800b03cf2b19c0cf00713e5f9a7878076af73aae72442ce5ad9d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537929565450797076",
+      "texto_sha256": "c8b8c68711904df2bc76fa375f3184a28a868a300e50c3b22b41ccee5818cb33",
+      "adjuntos": []
+    },
+    {
+      "id": "1537930730116747304",
+      "fecha_utc": "2026-08-14T21:07:39.431000+00:00",
+      "fecha_local": "2026-08-14",
+      "editado_utc": null,
+      "texto": "Eldrath: Si... Añadire tu latigo a mi coleccion de armas asi no vuelves a usarlo conmigo\n\n**Mira a Walulu <@214405113677217793> **\n\nNo te fies de la energia que tiene ahora... Esa criatura le dio dos golpes y la hizo perder la consciencia... Si tienes algo fuerte usalo porque el veneno este arde como el infierno... \n\n**Se incorpora algo lento y se acerca.**\n\n¿Como la ayudo?",
+      "mensaje_sha256": "cf91eaa6a0878d0b439949836accfe419ef8b1c33fab23de1af6b70ea56f73ec",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537930730116747304",
+      "texto_sha256": "b363d72ae9379044cd64202be0d509e9ec4dc4b058cc8955e9620436a0b738a3",
+      "adjuntos": []
+    },
+    {
+      "id": "1537931649520771122",
+      "fecha_utc": "2026-08-14T21:11:18.634000+00:00",
+      "fecha_local": "2026-08-14",
+      "editado_utc": null,
+      "texto": "Walulu: **Saca otra mezcla de hojas y saliva de su boca para ofrecertela** Mastica tu también. Si te ha picado, esto ayudará a menguar la fuerza del veneno. **Se levanta y mira a Eldrath** Mantente junto a ella y hablale. Que no pierda la conciencia. Voy a por antitoxinas **Sale del templo en dirección al alquimista**",
+      "mensaje_sha256": "305e548f6066e2ea5e0ac978748becd49f7858cd6cb24b50bfc3a49af54feeaf",
+      "tipo_discord": 19,
+      "referencia": "1537930730116747304",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537931649520771122",
+      "texto_sha256": "f2e242a4dd5ea8a5bce05923bb08302b35aa7d64df72f1599033ef50ed02a722",
+      "adjuntos": []
+    },
+    {
+      "id": "1537932463278661753",
+      "fecha_utc": "2026-08-14T21:14:32.649000+00:00",
+      "fecha_local": "2026-08-14",
+      "editado_utc": null,
+      "texto": "Eldrath: **La toma y las mastica, pone cara agria... Pero el dolor es mucho peor que el sabor de las hiervas. Se sienta en la cama donde estas <@220602485977382912>**\n\nYa... ¿Y que haras estirada si te quito ahora el latigo?\n\n**Trata de distraerla aunque no parede divertido ni sonriente si no que esta con el ceño fruncido.**",
+      "mensaje_sha256": "2058513e0750df1c8243a3f931918ae92079b950cb56a20a780547d4ed05f79b",
+      "tipo_discord": 19,
+      "referencia": "1537931649520771122",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537932463278661753",
+      "texto_sha256": "9838cecbc43ba16369b247d19f647bdfa36d2861c7b6595b0f9493a5e74f6b46",
+      "adjuntos": []
+    },
+    {
+      "id": "1537933296489603206",
+      "fecha_utc": "2026-08-14T21:17:51.302000+00:00",
+      "fecha_local": "2026-08-14",
+      "editado_utc": null,
+      "texto": "Tessa\n\n**En uno de esos espasmos, acaba girada hacia el elfo, y mientras se encoge por el dolor, le agarra el antebrazo con mucha fuerza. Hasta el punto de empezar a hacer daño**\n\n- te pienso... Hacer... Aaaaahhh... Otro agujero en ese cuerpo monocro... Matico tuyo... uuuughhh...",
+      "mensaje_sha256": "778de6f5376a4b1bd087252cfce373d3c2dcd4783578634a6e9769f7a2bd07d2",
+      "tipo_discord": 19,
+      "referencia": "1537932463278661753",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537933296489603206",
+      "texto_sha256": "1191aba34bf59368eb989098023ad7035bcb533d36733e31ceded1f43ab05729",
+      "adjuntos": []
+    },
+    {
+      "id": "1537934113158332446",
+      "fecha_utc": "2026-08-14T21:21:06.011000+00:00",
+      "fecha_local": "2026-08-14",
+      "editado_utc": null,
+      "texto": "Eldrath: **Tensa la mandibula pero la deja que lo apriete**\n\nYa... Con lo lenta que eres no llegarias ni a verme, estirada",
+      "mensaje_sha256": "b7b1bccc37c593091d79b8d45e6ccbef3f5d01979d06c787610c5367ced71b9e",
+      "tipo_discord": 19,
+      "referencia": "1537933296489603206",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537934113158332446",
+      "texto_sha256": "4254d01a0817e6f90620b596ba398749b771644880ae6adf75b1fbfd802c9019",
+      "adjuntos": []
+    },
+    {
+      "id": "1537935212812443668",
+      "fecha_utc": "2026-08-14T21:25:28.189000+00:00",
+      "fecha_local": "2026-08-14",
+      "editado_utc": null,
+      "texto": "Tessa\n\n**Va apretando cada vez un poco más, mientras se va encogiendo hasta hacerse un ovillo**\n\n- esa bocaza tuya... Algún día... Aaahh... Te la coseré... Y así dejes de ser tan fanfa... rron... \n\n**Cuando acaba la frase, Tessa parece que va perdiendo fuerza y va liberando poco a poco el antebrazo de Eldrath. A su vez la respiración va volviéndose más lenta: puede que las hierbas estén haciendo efecto**",
+      "mensaje_sha256": "9b618066499c052375d45710d1a92b7414bc77bf48f82572cb15f0a777553925",
+      "tipo_discord": 19,
+      "referencia": "1537934113158332446",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537935212812443668",
+      "texto_sha256": "61be541230eb8af8c7bbdeeee74db00e065224c2ac6d9a08f7528cf7564e06d8",
+      "adjuntos": []
+    },
+    {
+      "id": "1537935991862464572",
+      "fecha_utc": "2026-08-14T21:28:33.929000+00:00",
+      "fecha_local": "2026-08-14",
+      "editado_utc": null,
+      "texto": "Eldrath: **Se inclina un poco de dolor pero no se queja de ello.**\n\nPues no cierres los ojos o entonces te lo robare.\n\n**La mira**\n\nNo deberias haberte puesto delante de la vieja, ha sido estupido de tu parte.",
+      "mensaje_sha256": "ac7f20d5d1d061ae99934dbed5c8294c66bd43c56db6e20b4254870c66c1c326",
+      "tipo_discord": 19,
+      "referencia": "1537935212812443668",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537935991862464572",
+      "texto_sha256": "b5300ec87364768570bacbfd615a9df8d2e7d4efa75072de422b57438b42cdbe",
+      "adjuntos": []
+    },
+    {
+      "id": "1537937132474077315",
+      "fecha_utc": "2026-08-14T21:33:05.872000+00:00",
+      "fecha_local": "2026-08-14",
+      "editado_utc": null,
+      "texto": "Tessa\n\n**Mantiene la postura de ovillo pero ya no se retuerce. Ahora solo está intentando recuperar el aliento entre jadeos mientras el flequillo le oculta parte de la cara, cubierta de sudor**\n\n- era una simple... Anciana... No podía ver cómo recibía ese golpe... Ah... Ah... Uno debe cuidar... A sus... mayores...",
+      "mensaje_sha256": "cc9417726455f7ea13dc8d067b6845befc767ea07b7bd688b470b5787efe7c7e",
+      "tipo_discord": 19,
+      "referencia": "1537935991862464572",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537937132474077315",
+      "texto_sha256": "9932bd7ad3508787232dbaf862a4718054759d5a0418555c7f0eb135be5a4cca",
+      "adjuntos": []
+    },
+    {
+      "id": "1537937969271414904",
+      "fecha_utc": "2026-08-14T21:36:25.380000+00:00",
+      "fecha_local": "2026-08-14",
+      "editado_utc": "2026-08-14T21:36:50.014000+00:00",
+      "texto": "Eldrath: no puedes cuidar de nadie, mejor que no lo intentes o acabaras peor.\n\n**Trata de incorporarse y ponerse recto mientras sus ojos grises te miran tu rostro y despues tu costado.**",
+      "mensaje_sha256": "48a1fb5b4af4f73d5c5693bd5bcc1e10dbfbcef4d85abeb09fe3bb484221446d",
+      "tipo_discord": 19,
+      "referencia": "1537937132474077315",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537937969271414904",
+      "texto_sha256": "658c8affd9c392ee647b27267b1b59d8cc679a892290c2a77300bcfdb01552c7",
+      "adjuntos": []
+    },
+    {
+      "id": "1537939748923113502",
+      "fecha_utc": "2026-08-14T21:43:29.682000+00:00",
+      "fecha_local": "2026-08-14",
+      "editado_utc": null,
+      "texto": "Tessa\n\n**Deja caer la mano cuando el elfo retira el antebrazo donde estaba apoyada. Su respiración va normalizándose pero aún jadea. Se queda inmóvil en la cama manteniendo esa postura fetal**\n\n- que triste... De verdad que... A veces siento pena por ti Eldrim... Ah... ah... El mundo... El mundo es más grande que tú y tu hermana...\n\n**Con esfuerzo, Tessa levanta unos centímetros la mirada, haciendo que el flequillo se mueva y se puedan ver sus ojos, vidriosos y cansados y con ojeras moradas. Los clava en el elfo**\n\n- me da pena... Ah... Que pienses que podrías dormir... Por las noches... Sabiendo que podrías haber protegido a alguien... Uff... Y lugar de eso... Priorizaste tu vida...",
+      "mensaje_sha256": "8d1efac120365bb59852e65053dc67df39fbfc06628bac489da8e272b97da902",
+      "tipo_discord": 19,
+      "referencia": "1537937969271414904",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537939748923113502",
+      "texto_sha256": "de3a67346e3488ae0192173ea6b786afdc9919793eb08788ed42d9ba37deb297",
+      "adjuntos": []
+    },
+    {
+      "id": "1537940579655229582",
+      "fecha_utc": "2026-08-14T21:46:47.744000+00:00",
+      "fecha_local": "2026-08-14",
+      "editado_utc": null,
+      "texto": "Eldrath: **Sus ojos grises se clavan en los tuyos... Pero no hay pena en ellos.**\n\nLo intente y no lo consegui, por eso estoy aqui... Y no una vez, si no varias... Y no no duermo bien por las noches por eso. Por algo te digo esto.",
+      "mensaje_sha256": "989df06a4ab9da8cd8ef0f868ed9ade18b0d4a3750c0cd2a52a85ddd36c1b91e",
+      "tipo_discord": 19,
+      "referencia": "1537939748923113502",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537940579655229582",
+      "texto_sha256": "977cc47b96a0986fefaf819e8efbf2e319f83a3df24bbff9f616a0e494fc21be",
+      "adjuntos": []
+    },
+    {
+      "id": "1537940794642669629",
+      "fecha_utc": "2026-08-14T21:47:39.001000+00:00",
+      "fecha_local": "2026-08-14",
+      "editado_utc": null,
+      "texto": "Archi :\n**apareció tranquilamente, con las manos entrelazadas a la espalda y una expresión de absoluta superioridad intelectual. Carraspeó, acomodándose las gafas mientras observaba a ambos con una sonrisa de científico loco.**\n\nVosotros dos tenéis... discusiones. Fascinante. He realizado una exhaustiva evaluación de vuestra dinámica interpersonal y, estadísticamente hablando, estas discusiones llevarán, tarde o temprano, a la cópula.\n\n**Hace una pausa dramática, levantando un dedo.**\n\nNo va a ser bonito. Posiblemente uno de vosotros disfrutará considerablemente más que otro. Pero, por favor... si podéis reducir volumen de vuestra confrontación verbal, os lo agradecería. Aquí hay gente intentando disfrutar de sus vacaciones.\n\n**Archi suspira y vuelve a mirar hacia otro lado.**\n\nMalditos románticos... siempre interfiriendo con la tranquilidad científica.\n⚙️ **le pega un sorbo al mojito y sale de escena ** ⚙️",
+      "mensaje_sha256": "384104cc229ddfd7340f539125f9958454efa9becddd1bb5ce53cb4606df57c7",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537940794642669629",
+      "texto_sha256": "3cac1711b4220cd08e6513bc9612e758cc38b89ca4da16436b6bf768f5d3afd8",
+      "adjuntos": []
+    },
+    {
+      "id": "1537941520546529381",
+      "fecha_utc": "2026-08-14T21:50:32.070000+00:00",
+      "fecha_local": "2026-08-14",
+      "editado_utc": "2026-08-14T21:50:42.176000+00:00",
+      "texto": "Tessa\n\n**Observa la escena en silencio con esos ojos agotados. Luego mira a Eldrath**\n\n- Eldrim... Creo que las hierbas no funcionan... Veo... Gnomos metálicos...\n\n<@753394009153732689>",
+      "mensaje_sha256": "f1fa28b25a58753d23be441e6fc1c7ccb22b51a0eb163ca51133e0bbc20c9564",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537941520546529381",
+      "texto_sha256": "00e6df690ebf48f5e601b01b7db2e0a8da6b42b006d38dd56f2d42dfb8d9c792",
+      "adjuntos": []
+    },
+    {
+      "id": "1537941766836191355",
+      "fecha_utc": "2026-08-14T21:51:30.790000+00:00",
+      "fecha_local": "2026-08-14",
+      "editado_utc": null,
+      "texto": "Eldrath: **Pone los ojos en blanco**\n\nNo son las hiervas, es otro loco que ha venido a la ciudad... A ese en cuanto se descuide le desmonto las patas por la noche para que se raspe el culo",
+      "mensaje_sha256": "f1090755c0ed6a60b860daab4c6602fc2371dcd610385bddc67a569dc35ee1d6",
+      "tipo_discord": 19,
+      "referencia": "1537941520546529381",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537941766836191355",
+      "texto_sha256": "511c24af1ae5396f65130b1b08c9176919183e5c1c9f8c99eb877747b012609c",
+      "adjuntos": []
+    },
+    {
+      "id": "1537942667361783948",
+      "fecha_utc": "2026-08-14T21:55:05.492000+00:00",
+      "fecha_local": "2026-08-14",
+      "editado_utc": null,
+      "texto": "Tessa\n\n- ja ja... Coff cofff... Eres malísimo para los chistes... Ah... Tú sentido del humor... Apesta... Coff...\n\n**Intenta reír por el comentario del elfo, pero empieza a toser. Cuando se calma parece que respira mejor y que empieza a relajarse**\n\n- me pesan los ojos... El cuerpo me quema... Pero estoy muy cansada...",
+      "mensaje_sha256": "c7699a88937e79859e708ba082573b9c13ede12f92cce9f7a2872a508e9be7d7",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537942667361783948",
+      "texto_sha256": "422abdc1f67428b6509cfc8d0e9f533bb5e43228f06ec02b4afe2f0df56471a9",
+      "adjuntos": []
+    },
+    {
+      "id": "1537943444415193158",
+      "fecha_utc": "2026-08-14T21:58:10.756000+00:00",
+      "fecha_local": "2026-08-14",
+      "editado_utc": null,
+      "texto": "Eldrath: Era una amenaza... Pero si tomatela con hunor cuando veas al gnomo mañana \n\n**Toma dos dedos y te pellizcan la mejilla y tira.**\n\nPero no te duermas o no podras reirte.",
+      "mensaje_sha256": "47a10aa62240ef07786379ac0b754bc9c45974f6dcbe0af9883a2d094cf44c04",
+      "tipo_discord": 19,
+      "referencia": "1537942667361783948",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537943444415193158",
+      "texto_sha256": "4ce9092ae68428cba58db6c52d3c8526db38480154044fd824043cb91e2db6ca",
+      "adjuntos": []
+    }
+  ]
+}

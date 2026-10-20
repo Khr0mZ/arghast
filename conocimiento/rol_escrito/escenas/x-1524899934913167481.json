@@ -1,0 +1,138 @@
+{
+  "id": "x-1524899934913167481",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1524899934913167481",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "Citlali corre hacia Shiaru con Eztli",
+  "resumen": "La urgencia lleva a Citlali a romper una promesa y a revivir imágenes de su juventud durante la marcha.",
+  "relato": "Citlali llama a Eztli y sale con él hacia Shiaru sin detenerse a pensar. La necesidad de regresar pesa más que la promesa que había hecho a Bonny, cuyo contenido no se desarrolla en estos mensajes. Mientras atraviesa la selva, el cansancio se mezcla con recuerdos de voces, gritos y una persecución anterior.\n\nEn un charco no ve su reflejo actual, sino el de una Citlali joven que sostiene a un bebé envuelto en una sábana maltrecha. Una ondulación rompe la imagen y devuelve su rostro presente. La narración vuelve a instarla a correr, pero no muestra su llegada, un rescate ni el desenlace de aquello que teme. El intercambio se pausa por la emoción de la jugadora. Después aparecen un breve parpadeo de Tortas y un marcador de final, sin conversación ni encuentro que lo vinculen al viaje.",
+  "participantes": [
+    "Citlali",
+    "Eztli"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1524899934913167481",
+      "afirmacion": "Citlali parte con Eztli hacia Shiaru pese a la promesa hecha a Bonny.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1524907091674791996",
+      "afirmacion": "Durante la carrera, el reflejo muestra a Citlali joven con un bebé antes de volver a su aspecto actual.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Continúa directamente la urgencia y la marca de la unidad anterior, conservando su fecha de publicación.",
+    "Los perseguidores pertenecen a recuerdos y la imagen del bebé es un reflejo visionario; no se añaden perseguidores actuales ni un cambio físico de Eztli.",
+    "El parpadeo de Tortas (1525092216081485874) carece de enlace narrativo con Citlali: no prueba que la vea o viaje con ella.",
+    "Hay cierre formal, pero el viaje y la situación de Amaru permanecen sin desenlace aquí."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-07-09T22:07:55.754000+00:00",
+  "fin_utc": "2026-07-10T10:52:29.552000+00:00",
+  "fecha_local": "2026-07-10",
+  "intervalo": {
+    "anterior": 42,
+    "siguiente": 43,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1524846150652264642",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1525209204300841101",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 42,
+        "fecha": "2026-07-09",
+        "inicio_referencia_utc": "2026-07-09T18:30:59+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1524846150652264642"
+      },
+      {
+        "capitulo": 43,
+        "fecha": "2026-07-10",
+        "inicio_referencia_utc": "2026-07-10T18:35:33+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1525209204300841101"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1524899934913167481",
+      "fecha_utc": "2026-07-09T22:07:55.754000+00:00",
+      "fecha_local": "2026-07-10",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\n**No lo pensé más y llamé a Eztli con mayor desesperación, llevandomelo casi a rastras, no había tiempo, mi pecho me lo decía, tenía que correr a el aún rompiendo lo que le había prometido a Bonny, ya no me importaba, tenía que regresar a Shiaru**",
+      "mensaje_sha256": "0c4a0288f7e2c1da0b91cf13affb51c353744fd141fd748d72eddf05c6794200",
+      "tipo_discord": 19,
+      "referencia": "1524896902540296242",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1524899934913167481",
+      "texto_sha256": "b0c7efbacdf0dfa8f57ff2be38a4871d1b6e8cdc8a5f67e59654ffda268f042f",
+      "adjuntos": []
+    },
+    {
+      "id": "1524907091674791996",
+      "fecha_utc": "2026-07-09T22:36:22.059000+00:00",
+      "fecha_local": "2026-07-10",
+      "editado_utc": null,
+      "texto": "Nox: \n\n**Citlali...\n\nCorres por la selva en dirección a Shiaru. El viaje es largo, y lo sabes. Cada zancada pesa más que la anterior, mientras la espesura parece cerrarse a tu alrededor.\n\nPero no solo corres por la selva.\n\nCorres también por tus recuerdos.\n\nLos mismos instantes vuelven una y otra vez, como si el tiempo hubiese decidido romperse. Escuchas voces a tu espalda. Gritos. Gente persiguiéndote. El miedo vuelve a apoderarse de tu pecho y tus piernas se mueven por puro instinto.\n\nCorres.\n\nY corres.\n\nHasta que llegas a un pequeño charco.\n\nAl mirar su superficie, el reflejo no es el tuyo.\n\nVes a una Citlali joven, sin las arrugas que hoy marca el tiempo. En sus brazos ya no descansa esa pequeña criatura que conoces... sino un bebé envuelto en una sábana vieja y maltrecha.\n\nEntonces, una ondulación rompe el agua.\n\nEl reflejo desaparece.\n\nSolo queda tu rostro.\n\nCorre, Citlali... corre.**",
+      "mensaje_sha256": "d6a8c8ec6627163332b1c693c0fc04d1245907817b09959b6a081e9cec135c74",
+      "tipo_discord": 19,
+      "referencia": "1524899934913167481",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1524907091674791996",
+      "texto_sha256": "3101a3e691301ddd9b0fcfa79674cb39d45536e1813804766aecca2c021c7dda",
+      "adjuntos": []
+    },
+    {
+      "id": "1524908876548276315",
+      "fecha_utc": "2026-07-09T22:43:27.606000+00:00",
+      "fecha_local": "2026-07-10",
+      "editado_utc": null,
+      "texto": "🔴 pausa por llorera de la jugadora 🔴",
+      "mensaje_sha256": "64133205f183d36363e077a21c820e9e85fe3ceea41da0871f433c2e7efae8ce",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1524908876548276315",
+      "texto_sha256": "612c93f306696deffb0bcb21158f43f2771a91ef5bc187d183795355ed6f3b44",
+      "adjuntos": []
+    },
+    {
+      "id": "1525092216081485874",
+      "fecha_utc": "2026-07-10T10:51:59.157000+00:00",
+      "fecha_local": "2026-07-10",
+      "editado_utc": null,
+      "texto": "**Tortas pestañea**",
+      "mensaje_sha256": "06563d3ab85e24c82b277a512162343bae63ae013327d456ad53a0432b930848",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1525092216081485874",
+      "texto_sha256": "1a5e3c4b13446ee83200cc5ae8b0148c53717584d51da0d567fdc8661a03a410",
+      "adjuntos": []
+    },
+    {
+      "id": "1525092343567613992",
+      "fecha_utc": "2026-07-10T10:52:29.552000+00:00",
+      "fecha_local": "2026-07-10",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "31524ee41e3dd5b709f887fc0e679ef607627cfaaf47bce864e50967f6ca9c37",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1525092343567613992",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

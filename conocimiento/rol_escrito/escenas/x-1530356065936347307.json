@@ -1,0 +1,158 @@
+{
+  "id": "x-1530356065936347307",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1530356065936347307",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "Ilikar pide ayuda para su tripulación",
+  "resumen": "El goliat entrega la hoja a Tortas y explica que los suyos buscan refugio y necesitan fortalecerse.",
+  "relato": "Tortas reconoce a Ilikar a su regreso y recibe la hoja que demuestra su avance en la lección de paciencia. El goliat cuenta que ayudó a su capitana durante un ataque naval, pero que su hogar fue arrasado y el barco quedó abandonado. Ha llevado a la tripulación a Iktan esperando que encuentre refugio y cree que permanecerán allí un tiempo. Quiere que todos se fortalezcan para recuperar lo perdido y afrontar al dragón. El maestro lamenta su situación y se queda pensando qué camino puede servirles. Ilikar vuelve con barriles para compartir una pausa de cerveza y se sienta a meditar con él. El entrenamiento no comienza todavía.",
+  "participantes": [
+    "Ilikar",
+    "Tortas"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1530360558971256873",
+      "afirmacion": "Ilikar entrega a Tortas la hoja y relata su participación en el ataque naval.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1530566731804840168",
+      "afirmacion": "El goliat informa del hogar arrasado, el barco abandonado y la necesidad de refugio.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1530573646836400320",
+      "afirmacion": "Ilikar ofrece cerveza y se sienta a meditar con Tortas.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Cuatro partes leídas completas. Los episodios navales y la incursión submarina son relatos retrospectivos, no combates reconstruidos aquí.",
+    "Las interpretaciones de los espías sobre un beso o noviazgo entre Tessa y Eldrath son erróneas y negadas en el intercambio.",
+    "Malena es el nombre que Tessa aplica a la líder del mismo pueblo a quien Naór llama Walulu; mantener el error de memoria en las fuentes sin crear una segunda jefa.",
+    "La identidad del dragón que pagaría por los hermanos y su relación con la destrucción de su hogar siguen como sospecha de Eldrath.",
+    "Los detalles del camino de confianza no se transcriben: no inventar ejercicios ni resultados.",
+    "El deseo privado de Naór de atacar a Citlali no llega a ejecutarse."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-07-24T23:28:38.760000+00:00",
+  "fin_utc": "2026-07-25T13:53:14.089000+00:00",
+  "fecha_local": "2026-07-25",
+  "intervalo": {
+    "anterior": 47,
+    "siguiente": 48,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1530274670023278874",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1532095200023937216",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 47,
+        "fecha": "2026-07-24",
+        "inicio_referencia_utc": "2026-07-24T18:01:14+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1530274670023278874"
+      },
+      {
+        "capitulo": 48,
+        "fecha": "2026-07-29",
+        "inicio_referencia_utc": "2026-07-29T18:34:59+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1532095200023937216"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1530356065936347307",
+      "fecha_utc": "2026-07-24T23:28:38.760000+00:00",
+      "fecha_local": "2026-07-25",
+      "editado_utc": null,
+      "texto": "**Tortas abre los ojos y se gira y ve al Goliath observándole**\n\nTortas: cuánto tiempo joven Goliath, que tal ha ido tu viaje? Reuniste a tus amigos? Te veo más maduro <@210947008716996609>",
+      "mensaje_sha256": "fd2c03f54860a3f58f1cffc6a65e157d32c925e0d8a1930b71502d7f44dc55a5",
+      "tipo_discord": 19,
+      "referencia": "1530316770995339374",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1530356065936347307",
+      "texto_sha256": "28b4d3b954a3e5da169b1a813abe0c441c5a9a657bb72179274d9ada91413303",
+      "adjuntos": []
+    },
+    {
+      "id": "1530360558971256873",
+      "fecha_utc": "2026-07-24T23:46:29.983000+00:00",
+      "fecha_local": "2026-07-25",
+      "editado_utc": "2026-07-24T23:46:56.135000+00:00",
+      "texto": "Ilikar: Viejo amigo, ha pasado tiempo! \n\n**Ilikar mira alrededor**\n\nIlikar: La tripulación ya esta aqui pero tenian problemas, mas grandes que los de Ilikar. \n\n**Ilikar saca la hoja que se habia guardado y se la entrega a Tortas**\n\nIlikar: Ahora Ilikar es mas fuerte, he ayudado a la capitana en el mar. Nos atacaron muchos barcos pero fuimos poderosos, maestro Tortas. Ya te contare alguna noche.",
+      "mensaje_sha256": "21b03dff281a87ee821caa789953d9a73502d68740aa9d938496b6ea25a4bbf7",
+      "tipo_discord": 19,
+      "referencia": "1530356065936347307",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1530360558971256873",
+      "texto_sha256": "9e03d37021b1188503711ad4e6dede73a0897cbc62a5b1c5786e7d7fc4ee2b1b",
+      "adjuntos": []
+    },
+    {
+      "id": "1530495309019480187",
+      "fecha_utc": "2026-07-25T08:41:56.898000+00:00",
+      "fecha_local": "2026-07-25",
+      "editado_utc": null,
+      "texto": "Tortas: que alegría verte de vuelta por Iktan, por aquí esta señora ha estado entretenida también. Hicimos el camino de no saltar a la palmera cuando tocas el agua y terminamos en una ciudad en el Mar. \n\n**Se acerca a Ilikar y toma la hoja con la mano sonriéndole**\n\nCuéntame joven, qué camino debes o deseas realizar ahora?\n\nOs quedaréis por Iktan más tiempo?",
+      "mensaje_sha256": "044fb00f27c9368e8e0702581a8d634b67b6c31adaf0aa2b93d302a3b537c02b",
+      "tipo_discord": 19,
+      "referencia": "1530360558971256873",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1530495309019480187",
+      "texto_sha256": "c14a97d17d720f579da83458d776d1ad8946697884b19af74b2f6f769709b8dd",
+      "adjuntos": []
+    },
+    {
+      "id": "1530566731804840168",
+      "fecha_utc": "2026-07-25T13:25:45.417000+00:00",
+      "fecha_local": "2026-07-25",
+      "editado_utc": null,
+      "texto": "Ilikar: Oh maestro Tortas, creo que nos quedaremos bastante tiempo... El hogar de mi capitana ha sido arrasado, nuestro barco abandonado... No tenemos donde quedarnos, asi que les traje aquí esperando que puedan refugiarse.\n\n**Ilikar mira hacia el suelo pensativo**\n\nIlikar: Maestro Tortas, la tripulacion necesita ser mas fuerte... Debemos recuperar hogar y tambien hay que cazar ese dragon... Ilikar necesita consejo...",
+      "mensaje_sha256": "b19521a00724f8ecc8888b71bbe34c97063e2662ab8c927f15e33f25c4abdb91",
+      "tipo_discord": 19,
+      "referencia": "1530495309019480187",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1530566731804840168",
+      "texto_sha256": "c812d5457669e712020aae2358317886fc1ebe78fc5b0580f898976174f9f464",
+      "adjuntos": []
+    },
+    {
+      "id": "1530568513503363315",
+      "fecha_utc": "2026-07-25T13:32:50.207000+00:00",
+      "fecha_local": "2026-07-25",
+      "editado_utc": null,
+      "texto": "Tortas: Lo lamento por el hogar de su capitana y su barco. Seguro serán bienvenidos en esta aldea.\n\nDéjame que lo sopese un momento Ilikar \n\n🔴Tortas se queda pensando el camino más adecuado para el grupo de Ilikar🔴",
+      "mensaje_sha256": "bdaf1d915f7761e5b46dca283f1c87888ac5dc96c655b225a7bcbd2af1569810",
+      "tipo_discord": 19,
+      "referencia": "1530566731804840168",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1530568513503363315",
+      "texto_sha256": "720cf13c9a3073e338109c949b4ef58501dd36e6b21ae9d97065f112e1ff0ad3",
+      "adjuntos": []
+    },
+    {
+      "id": "1530573646836400320",
+      "fecha_utc": "2026-07-25T13:53:14.089000+00:00",
+      "fecha_local": "2026-07-25",
+      "editado_utc": "2026-07-25T13:54:33.734000+00:00",
+      "texto": "**​Ilikar le dedica una sonrisa a su viejo amigo antes de ponerse en pie y caminar hacia la trastienda.**\n\n**​A mitad de camino siente un cosquilleo en la nuca, esa corazonada de sentirse observado. Se gira justo a tiempo para ver la silueta de Eleanor... Alejándose de la taberna.**\n**Parpadea, sacude la cabeza para quitarse la duda de encima y continúa con lo que iba a hacer.** \n\n**​Vuelve al rato cargando un par de barriles de cerveza y los deja caer con cuidado cerca de Tortas.**\n\n​Ilikar: Con tu permiso, viejo... Para la pausa de hidratación - **murmura mientras acomoda los barriles a un lado y se cruza de piernas en el suelo para meditar con él.**\n\n🔴 Cierro la escena 🔴",
+      "mensaje_sha256": "6ad245dd2bee6716a1a319b7febb336cc9c4424e629fb83813696e8fb0ab8df5",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1530573646836400320",
+      "texto_sha256": "553bc9f257fbddf527b2afaaeaf4d6aeb48c6a050c6ce27d9522316859c8216f",
+      "adjuntos": []
+    }
+  ]
+}

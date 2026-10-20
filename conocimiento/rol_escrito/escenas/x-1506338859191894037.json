@@ -1,0 +1,223 @@
+{
+  "id": "x-1506338859191894037",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1505862190089900063",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "Axi teme una maldición tras una noche sin recuerdos",
+  "resumen": "Citlali encuentra un rastro de animales muertos y compara las marcas con las de Ione.",
+  "relato": "Citlali encuentra a Axi dormido junto a un jabalí destrozado al final de un rastro de sangre y animales devorados. El joven despierta sin la parte superior de su ropa y no recuerda haber comido ni bebido. Ella compara las heridas con las de una pirata, aunque más inexpertas. Axi recuerda que Ione lo mordió durante un combate y pregunta si su condición se contagia.\n\nCitlali no sabe si la maldición es hereditaria o adquirida y no puede confirmarlo. Le advierte que tendrá que recordar y controlar lo que ocurre para no herir a otros. Él recupera su ropa, promete más cuidado y se marcha angustiado. El texto conserva una sospecha fundada en indicios, sin representar una transformación ni diagnosticarla como definitiva.",
+  "participantes": [
+    "Axi",
+    "Citlali"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1506338859191894037",
+      "afirmacion": "Axi duerme junto al jabalí y el rastro de depredación.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1506349034317680832",
+      "afirmacion": "Citlali compara el patrón de mordidas.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1506349551919960136",
+      "afirmacion": "Axi recuerda la mordedura de Ione.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1506349995526324458",
+      "afirmacion": "Citlali expresa incertidumbre sobre el origen y contagio.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Dos viñetas independientes, con cambio de lugar y fecha."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-05-19T16:52:50.454000+00:00",
+  "fin_utc": "2026-05-19T17:50:19.464000+00:00",
+  "fecha_local": "2026-05-19",
+  "intervalo": {
+    "anterior": 32,
+    "siguiente": 33,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1504914757835030579",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1506363085538201671",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 32,
+        "fecha": "2026-05-15",
+        "inicio_referencia_utc": "2026-05-15T18:33:44+00:00",
+        "fin_estimado_utc": "2026-05-15T20:47:23+00:00",
+        "duracion_video_segundos": 8019,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1504914757835030579"
+      },
+      {
+        "capitulo": 33,
+        "fecha": "2026-05-19",
+        "inicio_referencia_utc": "2026-05-19T18:28:49+00:00",
+        "fin_estimado_utc": "2026-05-19T21:10:39+00:00",
+        "duracion_video_segundos": 9710,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1506363085538201671"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1506338859191894037",
+      "fecha_utc": "2026-05-19T16:52:50.454000+00:00",
+      "fecha_local": "2026-05-19",
+      "editado_utc": null,
+      "texto": "**en la jungla de xoltacan un rastro de sangre y varía naturaleza forman un camino hacia lo más profundo de esta**\n\n**conforme el camino avanza animales muertos van dejando una clara señal, peligro; poco a poco los animales se van viendo más destrozados y deborados por unas fauces que parecen de un lobo**\n\n**al final del camino esta axi, en el suelo y con la parte de arriba de su vestimenta desaparecida, acostado durmiendo plácidamente junto al cadáver de un jabalí, el cual no solo se ve destrozado, si no que parece estar devorado casi por completo**\n\n<@408026114548695061>",
+      "mensaje_sha256": "14074f9fea29f925af066cc0c2e499cfe6adf97327ec4e61a79612a0f8664838",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1506338859191894037",
+      "texto_sha256": "c0ed829ef3d87c6972c946a8e0fc209b86d91cee5ebbc9135c33c4f96e755c65",
+      "adjuntos": []
+    },
+    {
+      "id": "1506342039128641559",
+      "fecha_utc": "2026-05-19T17:05:28.610000+00:00",
+      "fecha_local": "2026-05-19",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\n**Estaba caminando de regreso a Shiaru, tratando de pasar desapercibida, hasta que me topé con ese jovencito, le dí unos golpecitos en el brazo**\n\nBuenos días mi niño, ya amaneció",
+      "mensaje_sha256": "92ec464db467b6b9553ec0189ae0875d6a4965b08c5835393496d562934462e0",
+      "tipo_discord": 19,
+      "referencia": "1506338859191894037",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1506342039128641559",
+      "texto_sha256": "4f85ff17db7ac44a7a4dfb8e0307ec4fcf9ca7a4dc2543033f38e83ae18f24f5",
+      "adjuntos": []
+    },
+    {
+      "id": "1506346947538321512",
+      "fecha_utc": "2026-05-19T17:24:58.866000+00:00",
+      "fecha_local": "2026-05-19",
+      "editado_utc": null,
+      "texto": "**axi que estaba somnoliento abrió los ojos poco a poco, notando el animal a su lado**\n\n¿P...pero que paso?, en que momento....\n\n**al levantarse noto que estaba sin la parte superior de su traje**\n\nVaya... ¿Quien tomó el privilegio la noche anterior?",
+      "mensaje_sha256": "2c020eb1c93c73938f5bb9681bf1229f34485c55bf1568eab90ee51701ceb179",
+      "tipo_discord": 19,
+      "referencia": "1506342039128641559",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1506346947538321512",
+      "texto_sha256": "e723ec76bf5652f3e8a1307870394db8bdf4c97e4131984d810c1fbf3ab80bf9",
+      "adjuntos": []
+    },
+    {
+      "id": "1506348086744715428",
+      "fecha_utc": "2026-05-19T17:29:30.474000+00:00",
+      "fecha_local": "2026-05-19",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\nNo se y no quiero enterarme \n\n**Negué con la cabeza**\n\nPero bien que cenaste",
+      "mensaje_sha256": "4b8d4bd7ec4750641c917bafb16a1d1d6cea3ffffe7e031115ef0b08061f06e4",
+      "tipo_discord": 19,
+      "referencia": "1506346947538321512",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1506348086744715428",
+      "texto_sha256": "96c6b69f54950eeff077a199065175f829346206bac96cfa57426e63fcd33342",
+      "adjuntos": []
+    },
+    {
+      "id": "1506348449497485474",
+      "fecha_utc": "2026-05-19T17:30:56.961000+00:00",
+      "fecha_local": "2026-05-19",
+      "editado_utc": null,
+      "texto": "**axi miro el cuerpo del animal a su lado y su cara perdió todo color, completamente confundido**\n\nYo... no recuerdo haber comido nada... en realidad \n\n**axi se quedó pensando un momento, buscando de forma desesperada los recuerdos de la noche anterior en su memoria**\n\nNo recuerdo nada... y juro por xipe totec que no e bebido nada",
+      "mensaje_sha256": "365089eb7140fc4e79556662d324443021ea2860f2f69ad47fa6284f05a33143",
+      "tipo_discord": 19,
+      "referencia": "1506348086744715428",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1506348449497485474",
+      "texto_sha256": "4257f904cf65ea00e22e20ef9e21d73fcf0224709969ae1517e27d044202a0df",
+      "adjuntos": []
+    },
+    {
+      "id": "1506349034317680832",
+      "fecha_utc": "2026-05-19T17:33:16.393000+00:00",
+      "fecha_local": "2026-05-19",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\nTampoco se lo que hayas estado haciendo, aunque estás mordidas ya las he visto de una jovencita que es pirata\n\n**Me quedé viendo el cuerpo del jabalí despedazado**\n\nSip, casi el mismo patrón, pero más inexperto, como si aprendiera un cachorro a cazar",
+      "mensaje_sha256": "ac5db15c0b1e60eba06fe423623ecf6b6b2a5a7c6445c73635f36ed2b801d069",
+      "tipo_discord": 19,
+      "referencia": "1506348449497485474",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1506349034317680832",
+      "texto_sha256": "79edafdc07be4df7b3125273206ac318b78a6c34135ce162236d32271fd9c786",
+      "adjuntos": []
+    },
+    {
+      "id": "1506349551919960136",
+      "fecha_utc": "2026-05-19T17:35:19.799000+00:00",
+      "fecha_local": "2026-05-19",
+      "editado_utc": null,
+      "texto": "¿Disculpa que? \n\n**Axi estaba completamente confundido, en parte el también reconocía que las mordidas eran de un cachorro, pero no podía pensar en la cría de un animal cazando solo**\n\nPirata... ¿Ione dices?\n\n**axi recordó aquella vez que lucharon contra piratas, y ione se convirtió en hombre lobo, conectando las piezas**\n\nEse dia... ella me mordió, ¿Eso se contagia?",
+      "mensaje_sha256": "1537d0e41cd385918f314b92f84caa265af67700c9de8b6fc615d742af26cfd2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1506349551919960136",
+      "texto_sha256": "80760cd9aefbb36721efae5fbf2ee955a43fb623b0aecdbad99cf18e89edebf3",
+      "adjuntos": []
+    },
+    {
+      "id": "1506349995526324458",
+      "fecha_utc": "2026-05-19T17:37:05.563000+00:00",
+      "fecha_local": "2026-05-19",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\nNo estoy muy segura la verdad, no he tenido la oportunidad de verlo tan de cerca, se supone que es una maldición pero no sé si hereditaria o adquirida\n\n**Me levanté y me acomodé la falda**\n\nBueno, vas a tener que empezar a recordar quieras o no si quieres controlarlo",
+      "mensaje_sha256": "bbed5185f9e8ffa369ad4b0f11f996c184eadef9a0d8fed189f1115189384e53",
+      "tipo_discord": 19,
+      "referencia": "1506349551919960136",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1506349995526324458",
+      "texto_sha256": "87bfb8f262293c5ba3baeb10caaff7983044bd45e436c979e32181dbff0d63f7",
+      "adjuntos": []
+    },
+    {
+      "id": "1506350653193195540",
+      "fecha_utc": "2026-05-19T17:39:42.363000+00:00",
+      "fecha_local": "2026-05-19",
+      "editado_utc": null,
+      "texto": "**axi estaba completamente arrazado por la noticia, aunque no estaba confirmado, la posibilidad era suficiente como para que su conciencia pesará como 10 soles**\n\nEspero... que si haya estado ebrio y esto solo sea coincidencia \n\n**tras mirar un poco por la zona a su alrededor encontró la parte de arriba de su traje, teniendo un recuerdo muy leve de él quitándosela de forma desesperado**\n\nB...bueno, supongo que gracias abuela, de todos eres la mejor que me pudo encontrar",
+      "mensaje_sha256": "c55ea6d29e45ca1b18b5e11a086b47831718a8ea6c58c9f1bb00596e8d1d1a78",
+      "tipo_discord": 19,
+      "referencia": "1506349995526324458",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1506350653193195540",
+      "texto_sha256": "773b4375d65bca54ec8742f1aec2e46c9238d67322f2eaa8bb77e4894fcd2373",
+      "adjuntos": []
+    },
+    {
+      "id": "1506352387961393292",
+      "fecha_utc": "2026-05-19T17:46:35.964000+00:00",
+      "fecha_local": "2026-05-19",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\nYo lo se, más te vale irte con cuidado, no queremos accidentes de la nada y que muerdas a algún aliado, así que... \n\n**Le pongo una mano en el hombro**\n\nNo mueras y no mates a nadie que conozcas\n\n**Después procedí a darle un zape**\n\nDEJA DE DEJAR TODO A LA MERA HORA Y PONTE LAS PILAS!!, PINCHE CHAMACO \n\n**después del encuentro con Nox y Bonny, ya no era tan frágil como antes**",
+      "mensaje_sha256": "a0fc74882ec6c9be053409b4a317f1e3e5dba5fe7706803ef915a856d7e41e12",
+      "tipo_discord": 19,
+      "referencia": "1506350653193195540",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1506352387961393292",
+      "texto_sha256": "7dfd4917bf0a1be491751b3d7ac9918b5e68893c60fac0084acb0721fba472d9",
+      "adjuntos": []
+    },
+    {
+      "id": "1506353325388337242",
+      "fecha_utc": "2026-05-19T17:50:19.464000+00:00",
+      "fecha_local": "2026-05-19",
+      "editado_utc": null,
+      "texto": "**el zape tomo desprevenido a axi, que solo se froto la cabeza con mueca de dolor**\n\n¡ay!, esta bien... prometo ya no hacerlo \n\n**el chico tomó la parte superior de su traje y comenzó a alejarse con su cabeza trabajando a 1000 por hora y una conciencia que estaba pesada y sucia como motor de camión**\n\n\n🔴fin de la escena🗣🔥🔴",
+      "mensaje_sha256": "4970110c843534100a358423ae678e7da13f5a8b23509134ec5ffccee59caa4a",
+      "tipo_discord": 19,
+      "referencia": "1506352387961393292",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1506353325388337242",
+      "texto_sha256": "f4ac2a3f54c285c3d539ce1edd6a00f99969cb1bbd10777b83992f464a713914",
+      "adjuntos": []
+    }
+  ]
+}

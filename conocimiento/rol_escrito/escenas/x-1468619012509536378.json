@@ -1,0 +1,275 @@
+{
+  "id": "x-1468619012509536378",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1468551353885261954",
+  "hilo_id": "1465411590789795962",
+  "hilo_nombre": "Shiaru - El ron de Bonny",
+  "titulo": "Nox descubre el pacto de Bonny con Molly",
+  "resumen": "La noticia sobre Fuerte Aurora lo pone bajo las amenazas de su anfitriona.",
+  "relato": "Nox deja a Jacky Jackson junto a su tripulación y se presenta ante Happy Bonny. Para captar su atención clava un mapa en la mesa y le dice que la Marina ya ha llegado, dirigida por Molly. Identifica Fuerte Aurora como un asentamiento en construcción al sur del Garfio y señala al marino como fuente de esa información.\n\nBonny pasa del coqueteo a la furia. Lo inmoviliza, le apunta y revela que mantiene un acuerdo con la capitana que permite la vida tranquila de los piratas. Capturar a uno de sus hombres puede hacer que le exijan explicaciones. Dispara contra un cliente que se levanta, toma el mapa y ordena a Nox encargarse de los implicados y dejar de actuar.\n\nÉl calla su intención privada de robar un navío. No se muestra que cumpla el encargo ni se resuelve el pacto con la Marina. La escena sí establece que la convivencia de ambas fuerzas tiene un acuerdo previo, según la propia Bonny.",
+  "participantes": [
+    "Nox",
+    "Happy Bonny",
+    "Jacky Jackson"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1468625911556341987",
+      "afirmacion": "Nox informa de Fuerte Aurora y el marino capturado.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1468628611706781927",
+      "afirmacion": "Bonny revela su pacto con Molly.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1468630768124428584",
+      "afirmacion": "Bonny dispara contra un cliente y da sus órdenes a Nox.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Los efectos y recetas del xocolatl son ficción del rol, sin equivalencia médica fiable.",
+    "La visión de unicornio pertenece a Pinky; Citlali no cambia de especie.",
+    "La corte, el castillo y los chambelanes son interpretaciones de Poncelot, no cargos de los piratas.",
+    "El enano aparece como Argathor/Aegathor y una atribución repite Gorodack por error; conservar dos atacantes distintos.",
+    "La escala y resultado de la pelea los confirma la respuesta del otro jugador; no añadir más víctimas."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-02-04T14:47:38.204000+00:00",
+  "fin_utc": "2026-02-04T17:16:48.841000+00:00",
+  "fecha_local": "2026-02-04",
+  "intervalo": {
+    "anterior": 3,
+    "siguiente": 4,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1468327704360390872",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1469044877005160624",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 3,
+        "fecha": "2026-02-03",
+        "inicio_referencia_utc": "2026-02-03T19:29:48+00:00",
+        "fin_estimado_utc": "2026-02-03T22:20:47+00:00",
+        "duracion_video_segundos": 10259,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1468327704360390872"
+      },
+      {
+        "capitulo": 4,
+        "fecha": "2026-02-05",
+        "inicio_referencia_utc": "2026-02-05T18:59:34+00:00",
+        "fin_estimado_utc": "2026-02-05T21:22:17+00:00",
+        "duracion_video_segundos": 8563,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1469044877005160624"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1468619012509536378",
+      "fecha_utc": "2026-02-04T14:47:38.204000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": "2026-02-04T14:48:47.141000+00:00",
+      "texto": "Nox : **entraría a la taberna junto con su nuevo \"amigo\" Jacky Jackson y le quita la capucha **\nBIENVENIDO AL RON DE BOONY JACKY!! \n**le acompaña hasta la mesa domde están Babs y el resto de la tripulación ** \nTu espérate aqui voy a negociar tu viaje de vuelta a casa **le guiña el ojo y deja alguna moneda en la mesa ** \nChicos pediros algo de bebercio y que le traigan una copa bien llena a este hombre se la ha ganado .\n\n**Le tira un besito a Mamá y se acerca a la mesa de Bony ** \n<@408026114548695061> <@214405113677217793>",
+      "mensaje_sha256": "3e60365972bf2cbba8961a3447d622ba25a5d2998c9376de5d1e0a73dc63351d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1468619012509536378",
+      "texto_sha256": "f0fbf6109f24c9578486ff16ef489642b7d793fe408ffcb44421c00a4cca22d3",
+      "adjuntos": []
+    },
+    {
+      "id": "1468620808187281591",
+      "fecha_utc": "2026-02-04T14:54:46.327000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": null,
+      "texto": "Happy Bonny: **Llegas a la mesa de Bonny donde la mujer está con los pies encima de la mesa mientras bebe su copa (si te fijas, esta copa si lleva cerveza de verdad)**",
+      "mensaje_sha256": "516dc71f603804d1973173982efacbbe6d6d8f16a7a614f0ac3ac0d9b2961b52",
+      "tipo_discord": 19,
+      "referencia": "1468619012509536378",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1468620808187281591",
+      "texto_sha256": "6f8875deda77f95d4e39a658f0c266d70e8f41c282d938cdaf389c941e12006c",
+      "adjuntos": []
+    },
+    {
+      "id": "1468621364955975927",
+      "fecha_utc": "2026-02-04T14:56:59.071000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": null,
+      "texto": "Nox : **le hace gestitos con los dedos de la sanos  a uno de esos piratas para que se aparte y toma asiento **\nCreo que me he ganado una copa querida Boney \n**se sienta y se acomoda en la silla **",
+      "mensaje_sha256": "39ac29be184a0a06ac8ca20c64a38b4cc9183508af4a750022d3d4e0fc376f10",
+      "tipo_discord": 19,
+      "referencia": "1468620808187281591",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1468621364955975927",
+      "texto_sha256": "b4eed4946f073cfa9a314d37772faac10edd1ea34576f928a39deadd1033eccb",
+      "adjuntos": []
+    },
+    {
+      "id": "1468621664010113045",
+      "fecha_utc": "2026-02-04T14:58:10.371000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": null,
+      "texto": "Happy Bonny: Que quieres Nox? **Te mira mientras le mete un trago a la cerveza**",
+      "mensaje_sha256": "d12ab207859c4bba94f303d2c2f48fa15bce994dc50639c85044810426bc6aeb",
+      "tipo_discord": 19,
+      "referencia": "1468621364955975927",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1468621664010113045",
+      "texto_sha256": "9a380a2b0a97c61ea064b6194c7484f0ab1033ee8e97b968f870bc0e9e67220b",
+      "adjuntos": []
+    },
+    {
+      "id": "1468622287782805718",
+      "fecha_utc": "2026-02-04T15:00:39.090000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": "2026-02-04T15:02:15.695000+00:00",
+      "texto": "Nox : **viendo que no despierta gran interés,  se incorpora y hace un rápido gesto de manos y clava uno de los cuchillos de la mesa en esta misma , clavando asi el mapa que lleva a cueva donde decía el marino que buscaban riquezas \nJusto después sonrrie con sarcasmo a los piratas que le rodean seguramente ya apuntándole con sus pistolas **",
+      "mensaje_sha256": "9a78016749791de2d3023b8bccdc186d341fe05c046ccf8ffb7f254a8d397e0b",
+      "tipo_discord": 19,
+      "referencia": "1468621664010113045",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1468622287782805718",
+      "texto_sha256": "9f8fee92ebc170f1aeec32728fffc0765b07750829152f87854e298b888be07c",
+      "adjuntos": []
+    },
+    {
+      "id": "1468623044384915456",
+      "fecha_utc": "2026-02-04T15:03:39.478000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": null,
+      "texto": "Happy Bonny: **Notas un tubo frío y metálico en tu entrepierna** Algún problema, Noxi? Sabes que no me gusta que me molesten con tonterías...",
+      "mensaje_sha256": "093f08954ffab941c22f8abc59cfd7ca21244885e7c49a6ba40cd7b8e6bb942e",
+      "tipo_discord": 19,
+      "referencia": "1468622287782805718",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1468623044384915456",
+      "texto_sha256": "a4a7accc994b5b1b7b79918a6a94ae976103b9712725656820c84561c0900d60",
+      "adjuntos": []
+    },
+    {
+      "id": "1468623637316636743",
+      "fecha_utc": "2026-02-04T15:06:00.844000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": "2026-02-04T15:06:34.898000+00:00",
+      "texto": "Nox : mmmmm aqui mismo Bony , no hace falta delante de tus gañanes .. **te sonrrie ** \nManda algunos de estos patanes a explorar esta zona . \nSeguramente encuentren bastantes riquezas , y que no tarden o la Marina ira pronto y lo tomará. \nBonito detalle se te ha olvidado decirnos . \n**se pone serio ** \nYa han llegado. \nY con Molly al frente , van enserio",
+      "mensaje_sha256": "c746e4f896bad3e57b59f36b23144b465d456f4a69936e51f6d34a3ffaccc78e",
+      "tipo_discord": 19,
+      "referencia": "1468623044384915456",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1468623637316636743",
+      "texto_sha256": "8731288036ac04479c6ab3967d0862b5c4228f5712914fc2c793ca4d94b2479f",
+      "adjuntos": []
+    },
+    {
+      "id": "1468624931318267935",
+      "fecha_utc": "2026-02-04T15:11:09.358000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": null,
+      "texto": "Happy Bonny: Como me has llamado? **Notas más presión en la entrepierna y los demás piratas te ponen la pistola en la cabeza. La mujer levanta una ceja al escuchar lo de la Marina y a Molly. Mira el mapa para luego mirarte a ti** Y como has descubierto eso? Cuéntame... Noxi... **Se le dibuja una sonrisa que sabes que no es nada buena**",
+      "mensaje_sha256": "efede1dd37816e58ef8add7dee6f7b2052a4f37d3e82e3dd8877a1a2880a28a4",
+      "tipo_discord": 19,
+      "referencia": "1468623637316636743",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1468624931318267935",
+      "texto_sha256": "8fc570f0834bec5af4b039ef4464f2dcf74702acf6994bdc140ce5b8a483c189",
+      "adjuntos": []
+    },
+    {
+      "id": "1468625911556341987",
+      "fecha_utc": "2026-02-04T15:15:03.065000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": "2026-02-04T15:16:41.099000+00:00",
+      "texto": "Nox : **Mira a su alrededor moviendo los ojos ** \nChicos chicos calmaos , oye tu tienes algo entre lo dientes dile a ese que te lo quite ** les deja de hacer caso y acerca su silla a la Bony dando saltitos ridículos ** \nMira ves .. señorita Happy Bonny... ves ese tipo de la mesa del fondo \n**saluda con una sonrrisa a Jacky que el pobre esta en una taberna de piratas siendo un hombre de honor ** \nEse era uno de los marines que andaban por este lugar ..**le señala el mapa ** \n\nFuerte Aurora .. así se llama , están construyendo un asentamiento en el Sur del Garfio",
+      "mensaje_sha256": "54279228c08157d8c6b2586d9d7342ee68f3cff7b60fbf6c044cdb62895ed615",
+      "tipo_discord": 19,
+      "referencia": "1468624931318267935",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1468625911556341987",
+      "texto_sha256": "c2d4e0f01f618731636152625e6a7f4774ce0e76f93cd57aeb43a706c8794c8a",
+      "adjuntos": []
+    },
+    {
+      "id": "1468626990990102539",
+      "fecha_utc": "2026-02-04T15:19:20.422000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": null,
+      "texto": "Happy Bonny: **Cuando escucha el nombre con el que le gusta que la llamen, se le cambia la cara a algo más amistosa. Pero.... Cuando mira al hombr de la Marina y hablas del Fuerte Aurora vuelve a endurecerse. Te pasa el brazo por la nuca y te aprieta fuerte inmobilizandote** ¿Que has hecho? Como conoces el Fuerte Aurora?",
+      "mensaje_sha256": "a2b2294d8d4270aaf0c7e1d7b29a92eb41158323be3e6eec0ecc5de14a7f7fe6",
+      "tipo_discord": 19,
+      "referencia": "1468625911556341987",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1468626990990102539",
+      "texto_sha256": "13860cfd5b84b022932f6af054228e47b65f4ae76275dea7b8067cb3a5cf4ce9",
+      "adjuntos": []
+    },
+    {
+      "id": "1468627229071376517",
+      "fecha_utc": "2026-02-04T15:20:17.185000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": null,
+      "texto": "Nox : yo nada **levanta las manos **\nMe lo ha dicho mi nuevo tripulante \n**sonrrie con ese diente de oro asomando **",
+      "mensaje_sha256": "602c8997b06d924d3f2b7e8c5082ebfc9ec23646f034c545e4b178e61731024e",
+      "tipo_discord": 19,
+      "referencia": "1468626990990102539",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1468627229071376517",
+      "texto_sha256": "9739cdce58516e7badea2f88d11d59a7429f27867ebc31fc33fb852cc319ab0e",
+      "adjuntos": []
+    },
+    {
+      "id": "1468628611706781927",
+      "fecha_utc": "2026-02-04T15:25:46.831000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": null,
+      "texto": "Angry Bonny: **Te acerca sus labios a tu oído, y susurrando de manera sensual te dice** Noxi, cariño mio, creo que tu \"nuevo tripulante\" la ha cagado y mucho... Tengo un trato con la Capitana Molly, pero ahora, si se entera de que uno de los míos le ha fastidiado y además se ha llevado a uno de sus chicos... **En ese momento se separa de ti, y con una voz que hace temblar toda la taberna, te chilla** ¡VOY A TENER A ESA ESTÚPIDA MERLUZA DE MOLLY PIDIÉNDOME EXPLICACIONES!",
+      "mensaje_sha256": "127ac2a3c2da34cdede553051f2199cb56da691d025f1f1982fbd82142b61307",
+      "tipo_discord": 19,
+      "referencia": "1468627229071376517",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1468628611706781927",
+      "texto_sha256": "72865236b40ffc54732d5e79191185bfe4d09dfd10373480e7f7ddd5ac1e5839",
+      "adjuntos": []
+    },
+    {
+      "id": "1468629298520002582",
+      "fecha_utc": "2026-02-04T15:28:30.580000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": null,
+      "texto": "Nox : **se caga vivo y su mirada no demuestra otra cosa \n\nMira a la mesa de jack y los demas y les hace gestos como que no pasa nada que todo bien \n\nSe mete el dedo en las orejas porque se ha quedado medio sordo ** \n\nY ese pacto hay que respetarlo verdad ? \n**sonrrie timidamente**",
+      "mensaje_sha256": "a537317031290582ddc8a9f365da6f60dc0f1a1adc92a228e34762f9330f893b",
+      "tipo_discord": 19,
+      "referencia": "1468628611706781927",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1468629298520002582",
+      "texto_sha256": "7459c1c4987f6acfa7a4ba80d66bb9d44b6dd94f2db5ce8573f6401b18448a73",
+      "adjuntos": []
+    },
+    {
+      "id": "1468630768124428584",
+      "fecha_utc": "2026-02-04T15:34:20.961000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": "2026-02-04T15:45:23.356000+00:00",
+      "texto": "Angry Bonny: **Te fulmina con la mirada, es como una tormenta en mitad del océano. Suelta varios improperios que no sería adecuado escribir aquí para luego disparar con su pistola a un notas que se levanta de su silla en ese momento para pedir una cerveza. El hombre cae a plomo en el suelo** Ese pacto es lo que nos permite estar aquí y tener esta vida tan placentera... JODER!... Así que ahora, te vas a \"encargar\" de ese que me has traído y supongo que \"tu nuevo tripulante\" recibirá el mismo \"encargo\" que el chico de la Marina. **Se sienta dando una patada a la mesa en la que se caen las copas y los vasos que ruedan hasta el mapa que ha dejado Nox. Lo agarra y lo mira con una sonrisa** De esto me encargo yo... Y por todos los oleajes de los siete mares... ¡Quedate quieto y no hagas nada!",
+      "mensaje_sha256": "ed544afe191f7143d01ce863b493fdbcf3be2fa16f9cf2d1ba8c831700d48d56",
+      "tipo_discord": 19,
+      "referencia": "1468629298520002582",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1468630768124428584",
+      "texto_sha256": "246d12562539feaf80ad291cd4fdb09b0fe2031437f96a870c588ac326e2e7f1",
+      "adjuntos": []
+    },
+    {
+      "id": "1468656554201841806",
+      "fecha_utc": "2026-02-04T17:16:48.841000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": "2026-02-05T08:14:54.132000+00:00",
+      "texto": "Nox: *creo que no es buen momento para decirle que tengo pensado robarles el navío...*\nA ese tío le debía dinero \n**se saca el sombrero en modo de respeto por el caído **",
+      "mensaje_sha256": "f55136d13721ac1c9e83a340ce649130113642e018eb7b5437c300e5d9ca0434",
+      "tipo_discord": 19,
+      "referencia": "1468630768124428584",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1468656554201841806",
+      "texto_sha256": "f02d08d82bf6dfe2f170f413478c11fa318c0baaec0e891430f4bcd521194637",
+      "adjuntos": []
+    }
+  ]
+}

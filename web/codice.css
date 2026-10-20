@@ -274,6 +274,122 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { transition: none !important; animation: none !important; }
 }
+.chapter-dates { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:20px; padding:18px 24px; margin:0 0 12px; background:var(--parchment); border:1px solid var(--edge); border-radius:3px 14px 3px 14px; color:var(--ink); }
+.chapter-dates dt { font-size:13px; font-weight:bold; margin-bottom:5px; }
+.chapter-dates dd { margin:0; font-size:19px; line-height:1.4; }
+.date-sources { margin-bottom:24px; }
+.date-sources .document { font-size:14px; }
+.date-sources li { overflow-wrap:anywhere; margin-bottom:12px; }
+.date-sources small { display:block; margin-top:4px; }
+.chapter-dates-compact { display:grid; gap:4px; font-size:12px; color:var(--quiet); line-height:1.5; }
+@media (max-width:560px) { .chapter-dates { grid-template-columns:1fr; gap:14px; padding:17px 20px; } .chapter-dates dd { font-size:17px; } }
+/* Written scenes retain their Discord sources and their position around a live session. */
+.role-interlude { grid-column:1 / -1; min-width:0; margin:7px 0 15px; padding:0; border:1px solid var(--edge); border-radius:3px 14px 3px 14px; background:var(--deep); color:var(--light); }
+.role-interlude > summary { cursor:pointer; padding:18px 22px; line-height:1.65; }
+.role-interlude > summary strong { font-family:var(--font-ui,var(--font-display)); font-size:17px; font-weight:400; color:var(--accent-soft); }
+.role-interlude > summary > span { display:block; margin:6px 0 0 16px; font-size:11px; color:var(--quiet); }
+.role-interlude[open] > summary { border-bottom:1px solid var(--edge-soft); }
+.role-cards { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:15px; min-width:0; }
+.role-interlude > .role-cards { padding:19px; }
+.role-interlude > .role-placement-note { margin:18px 20px 0; }
+.role-block { margin:25px 0 30px; min-width:0; }
+.role-block > h2 { margin:0 0 17px; color:var(--light); font:24px/1.4 var(--font-ui,var(--font-display)); }
+.role-block .section-head { align-items:center; }
+.role-card { min-width:0; }
+.role-card .card-title { font-size:23px; }
+.role-card .card-meta { justify-content:space-between; }
+.role-participants { font:italic 12px/1.8 Georgia,serif; color:var(--quiet); overflow-wrap:anywhere; }
+.role-placement-note { padding:14px 17px; border:1px solid var(--edge); border-left:4px solid var(--accent); background:var(--deep); color:var(--light); font-size:13px; line-height:1.8; overflow-wrap:anywhere; }
+.role-after-catalogue { border-top:2px solid var(--accent); }
+.role-scene-context { margin-bottom:27px; }
+.role-scene-context .role-interval { font-size:16px; color:var(--link); padding-bottom:15px; border-bottom:1px solid var(--edge-soft); }
+.role-scene-context .role-prose { margin:22px 0 8px; font:16px/1.95 Georgia,serif; max-width:85ch; }
+.role-participant { display:inline-block; margin:3px 4px 3px 0; padding:3px 9px; border:1px solid var(--edge-soft); border-radius:3px; background:var(--chip); color:var(--link); font-size:12px; }
+.role-transcript { min-width:0; border:1px solid var(--edge); border-radius:3px 16px 3px 16px; background:var(--parchment); color:var(--ink); overflow:hidden; }
+.role-message { padding:24px 29px; border-bottom:1px solid var(--edge-soft); scroll-margin-top:115px; }
+.role-message:last-child { border-bottom:0; }
+.role-message > header { display:flex; flex-wrap:wrap; align-items:baseline; gap:7px 16px; margin-bottom:13px; font-size:11px; color:var(--muted); }
+.role-message > header strong { color:var(--link); font-size:15px; }
+.role-message > header a { margin-left:auto; color:var(--link); text-decoration:underline; text-underline-offset:3px; }
+.role-message-text { white-space:pre-wrap; overflow-wrap:anywhere; font:15px/1.9 Georgia,serif; }
+.role-action { font-weight:700; }
+.role-thought { font-style:italic; }
+.role-attachments { padding-left:18px; margin:15px 0 0; font-size:12px; overflow-wrap:anywhere; }
+.role-attachments a { color:var(--link); text-decoration:underline; }
+.role-empty-message { color:var(--muted); font-style:italic; }
+.role-source-note { color:var(--muted); font:italic 12px/1.8 Georgia,serif; }
+.role-audio-transcript > summary small { display:block; margin:5px 0 0 15px; font:11px/1.7 Georgia,serif; }
+.role-editorial-notes { font-size:13px; }
+.role-forwarded { margin:15px 0; padding:10px 17px; border-left:3px solid var(--edge); }
+.role-forwarded > p { color:var(--muted); font-size:11px; }
+.section-head > div { min-width:0; max-width:100%; }
+.role-followup .document { margin:0; }
+.role-followup-group + .role-followup-group { margin-top:35px; padding-top:25px; border-top:1px solid var(--edge); }
+.role-followup-entry { margin:24px 0; }
+.role-followup-entry h4 { margin:0 0 8px; font:700 16px/1.6 Georgia,serif; }
+.role-followup-sources { font-size:11px; overflow-wrap:anywhere; }
+.chronicle-views { display:flex; gap:24px; align-items:center; margin:0 0 28px; border-bottom:1px solid var(--edge); }
+.chronicle-views a { display:inline-flex; align-items:center; min-height:48px; padding:10px 0; border-bottom:3px solid transparent; margin-bottom:-1px; color:var(--quiet); font:16px/1.5 var(--font-ui,var(--font-display)); text-decoration:none; }
+.chronicle-views a:hover,.chronicle-views a[aria-current] { color:var(--accent-soft); border-bottom-color:var(--accent); }
+.chronicle-views a:focus-visible { outline:2px solid var(--accent); outline-offset:5px; }
+.reading-stream { max-width:850px; margin:0 auto; border:1px solid var(--edge); border-radius:3px 16px 3px 16px; color:var(--ink); background:var(--parchment); box-shadow:var(--shadow); overflow-wrap:anywhere; }
+.reading-entry { padding:clamp(24px,5vw,64px); scroll-margin-top:115px; }
+.reading-entry + .reading-entry { border-top:3px double var(--edge); }
+.reading-heading { padding-bottom:26px; margin-bottom:32px; border-bottom:3px double var(--edge); }
+.reading-heading .eyebrow { color:var(--muted); line-height:1.8; }
+.reading-heading .reading-title { margin:13px 0 20px; font:clamp(29px,3.8vw,43px)/1.25 var(--font-display,Georgia); color:var(--ink); }
+.reading-title:focus { outline:none; }
+.reading-date { margin:9px 0 0; font:italic 13px/1.8 Georgia,serif; color:var(--muted); }
+.reading-prose { font:17px/1.95 Georgia,serif; }
+.reading-prose p { margin:0 0 1.25em; }
+.reading-stage + .reading-stage { margin-top:36px; }
+.reading-prose h3 { margin:0 0 17px; font:24px/1.4 Georgia,serif; color:var(--ink); }
+.reading-context { margin-top:38px; padding-top:20px; border-top:1px solid var(--edge-soft); font:13px/1.85 Georgia,serif; }
+.reading-context > summary { color:var(--link); }
+.reading-context a { color:var(--link); text-decoration:underline; text-underline-offset:3px; }
+.reading-context > .chapter-dates { margin-top:20px; }
+.reading-references { overflow-wrap:anywhere; }
+.reading-status { max-width:850px; min-height:28px; margin:18px auto 0; color:var(--quiet); text-align:center; font:13px/1.8 Georgia,serif; }
+.reading-jump { position:fixed; right:24px; bottom:calc(20px + env(safe-area-inset-bottom,0px)); z-index:30; display:flex; flex-direction:column; align-items:flex-end; gap:12px; pointer-events:none; }
+.reading-jump > * { pointer-events:auto; }
+.reading-jump-panel { display:flex; flex-direction:column; gap:12px; width:min(420px,calc(100vw - 32px)); max-height:min(62vh,540px,calc(100dvh - 180px)); padding:18px; border:1px solid var(--edge); border-radius:3px 14px 3px 14px; background:var(--deep); color:var(--light); box-shadow:0 10px 35px #0007; }
+.reading-jump-panel[hidden] { display:none; }
+.reading-jump-panel header { display:flex; align-items:center; justify-content:space-between; gap:12px; }
+.reading-jump-panel h2 { min-width:0; margin:0; font:19px/1.5 var(--font-ui,var(--font-display)); color:var(--accent-soft); }
+.reading-jump-close { flex-shrink:0; width:36px; height:36px; padding:0; background:transparent; border:1px solid var(--edge-soft); border-radius:3px; color:var(--light); font:24px/1 Georgia,serif; }
+.reading-jump-panel label { font:13px/1.5 var(--font-ui,var(--font-display)); color:var(--quiet); }
+.reading-jump-panel input { width:100%; min-width:0; flex-shrink:0; padding:10px 12px; border:1px solid var(--edge); border-radius:3px; background:var(--surface); color:var(--ink); font:14px/1.5 Georgia,serif; }
+.reading-jump-results { min-height:0; overflow:auto; overscroll-behavior:contain; scrollbar-width:thin; scrollbar-color:var(--edge) var(--deep); }
+.reading-jump-results a { display:block; padding:11px 7px; border-bottom:1px solid var(--edge-soft); color:var(--light); font:14px/1.6 Georgia,serif; overflow-wrap:anywhere; }
+.reading-jump-results a span { display:block; font-size:11px; color:var(--quiet); }
+.reading-jump-results a:hover,.reading-jump-results a:focus-visible { color:var(--ink); background:var(--chip); }
+.reading-jump-results a:hover span,.reading-jump-results a:focus-visible span { color:var(--muted); }
+.reading-jump-count { margin:0; font:12px/1.5 Georgia,serif; color:var(--quiet); }
+#sidebar.open ~ .workspace .reading-jump { visibility:hidden; }
+@media print { .reading-jump { display:none; } }
+@media (max-width:700px) {
+  .chronicle-views { gap:22px; margin-bottom:23px; }
+  .chronicle-views a { font-size:15px; }
+  .reading-entry { padding:27px 23px; }
+  .reading-prose { font-size:16px; line-height:1.9; }
+  .reading-heading { margin-bottom:26px; padding-bottom:20px; }
+  .reading-prose h3 { font-size:22px; }
+  .reading-jump { right:16px; bottom:calc(16px + env(safe-area-inset-bottom,0px)); }
+}
+@media (max-width:700px) { .role-cards { grid-template-columns:1fr; } }
+@media (max-width:560px) {
+  .role-interlude > summary { padding:16px; }
+  .role-interlude > summary strong { font-size:15px; }
+  .role-interlude > .role-cards { padding:13px; }
+  .role-interlude > .role-placement-note { margin:13px 13px 0; }
+  .role-card .card-title { font-size:23px; }
+  .role-message { padding:19px 17px; }
+  .role-message > header { gap:5px 12px; }
+  .role-message > header a { margin-left:0; }
+  .role-message-text { font-size:14px; line-height:1.85; }
+  .role-scene-context .role-prose { font-size:15px; }
+  .role-original-heading h2 { font-size:22px; }
+}
 @media print {
   body { color: #222; background: white; }
   .section-head h1, .section-head h2, .section-head p, .archive-note, #page-title { color: #222; text-shadow: none; }

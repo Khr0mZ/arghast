@@ -1,0 +1,96 @@
+{
+  "id": "k-1370308976129998868",
+  "campana": "kuroto",
+  "unidad_revision": "k-1370308976129998868",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Materiales para reparar Sho",
+  "resumen": "Archi parte con una carreta y deja una nota a Guxi.",
+  "relato": "Archi termina de desmantelar su invento fallido para aprovechar materiales del gólem de hierro. Con ellos forma una especie de carreta y se dispone a llevar los recursos a Sho para colaborar en las reparaciones. Antes deja a Guxi una nota en la que lo anima a asearse y reunirse con él en la ciudad, atribuyéndole una gran responsabilidad sobre el futuro del país. Firma con su largo nombre, Augustus Archivald Frédéric Patrick Daniel O Sullivan de Von Bergen. La escena muestra su salida con los materiales y el mensaje, sin dar por reconstruida la ciudad ni por realizado el encuentro con Guxi.",
+  "participantes": [
+    "Archi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1370308976129998868",
+      "afirmacion": "Archi reaprovecha su invento en una carreta y deja una nota para Guxi antes de ir a la ciudad.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Sesenta y siete mensajes completos. Tres escenas o bloques de acción con fuentes separadas. Guxi es destinatario de la nota, no presencia física en el encuentro.",
+    "Las grafías Von Bergen y Von Vergen pertenecen a las presentaciones de Archi en estas fuentes; no se crean identidades diferentes.",
+    "La cirugía improvisada y sus comparaciones médicas son acciones y opiniones de personajes, no indicaciones sanitarias. La propuesta de transfusión no se lleva a cabo.",
+    "La narración confirma que cierran la herida y cesa el peligro inmediato, pero no una recuperación completa. No se determina quién hirió a Jhin ni dónde ocurrió.",
+    "La mención de Batosai por el herido no prueba que su hermano esté presente ni que haya aparecido una entidad. La máscara se conserva como objeto sin análisis mágico concluido.",
+    "Hay una discrepancia de colocación entre referencias al suelo y al lecho. Kaniza afirma y representa finalmente su cuidado en una cama; no se añade otro traslado ni otra lesión.",
+    "Los pensamientos de Kaniza sobre Shizzuka y los de Archi sobre prototipos permanecen privados. La llegada de Arwen como sanadora queda pendiente."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-09T07:58:39.019000+00:00",
+  "fin_utc": "2025-05-09T08:06:51.891000+00:00",
+  "fecha_local": "2025-05-09",
+  "intervalo": {
+    "anterior": 113,
+    "siguiente": 114,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1370105319824298084",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1372279071790338181",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 113,
+        "fecha": "2025-05-08",
+        "inicio_referencia_utc": "2025-05-08T18:29:07+00:00",
+        "fin_estimado_utc": "2025-05-08T20:45:14+00:00",
+        "duracion_video_segundos": 8167,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1370105319824298084"
+      },
+      {
+        "capitulo": 114,
+        "fecha": "2025-05-14",
+        "inicio_referencia_utc": "2025-05-14T18:26:52+00:00",
+        "fin_estimado_utc": "2025-05-14T21:26:47+00:00",
+        "duracion_video_segundos": 10795,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1372279071790338181"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1370308976129998868",
+      "fecha_utc": "2025-05-09T07:58:39.019000+00:00",
+      "fecha_local": "2025-05-09",
+      "editado_utc": null,
+      "texto": "Archi: ** ha estado durante un tiempo desbalijando el invento fallido , su intención es aprovechar la mayor cantidad de recursos para formar apartir del golem de hierro una especie de carreta en la cual llevar los materiales ala ciudad para empezar con la reparación **\n\nPues ya estarria **se sacude las manos se estira el bigote y se dirige a la ciudad **\n**habría dejado una nota con destino a guxi <@171702246952665098> en la que pone ** el destino de tu país está en tus manos joven inventor , aseate y nos vemos en la ciudad , firmado Augustus Archivald Frédéric Patrick Daniel O Sullivan de Von Bergen**",
+      "mensaje_sha256": "383cbbe7c6254a2cff3e2ec58b1fcc9d991ad727ad79fad9d58381378aadab64",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1370308976129998868",
+      "texto_sha256": "6c433b97e1e39431b99392071d3b5627935235cca87769e749c3e18f70eb32c6",
+      "adjuntos": []
+    },
+    {
+      "id": "1370311043385004053",
+      "fecha_utc": "2025-05-09T08:06:51.891000+00:00",
+      "fecha_local": "2025-05-09",
+      "editado_utc": null,
+      "texto": "⚙️  ARCHI SALE ESCENA 🔧",
+      "mensaje_sha256": "9ea2f047dff5c464ae7a3197ad8e3017db64c7423680ceca21469b50d40452ea",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1370311043385004053",
+      "texto_sha256": "fc84a04fac5c7943aefda7d2cc1f7a8abbb5067ecc33b5c693655bff00877c84",
+      "adjuntos": []
+    }
+  ]
+}

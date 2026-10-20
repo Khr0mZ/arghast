@@ -1,0 +1,91 @@
+{
+  "id": "k-1441527231854805033",
+  "campana": "kuroto",
+  "unidad_revision": "k-1441527231854805033",
+  "hilo_id": "1362071806441160834",
+  "hilo_nombre": "Base Ukyio - Sala principal",
+  "titulo": "Una figura de tres ojos busca a Sun Wukong",
+  "resumen": "Un desconocido parte el monte de los Melocotoneros y decide buscar a Tang al no encontrar al mono.",
+  "relato": "En la isla del monte de los Melocotoneros, al noroeste de Kuroto, se abre una tormenta y cae una pluma de faisán. Una figura desciende sobre una nube con armadura plateada y jade, una corona de plumas y una gran lanza. Se dirige a Sun Wukong y dice que el Emperador de Jade necesita un nuevo mozo de cuadras.\n\nLa figura agita su arma y parte el monte en dos. Abre un pequeño tercer ojo y advierte que Wukong no está allí. Se quita la corona y desciende hacia Kuroto con la intención de hablar con el monje Tang, anticipando diversión.\n\nEl texto no le da nombre ni muestra que encuentre a ninguno de los dos. Sus rasgos visuales se conservan sin identificarlos automáticamente con una figura mitológica externa.",
+  "participantes": [
+    "Figura desconocida de tres ojos"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1441527231854805033",
+      "afirmacion": "La figura parte el monte, abre un tercer ojo y anuncia que buscará a Tang para localizar a Wukong.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Wukong, Tang y el Emperador de Jade son mencionados; no aparecen físicamente en esta escena.",
+    "No asignar un nombre por semejanza con relatos externos."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-11-21T20:34:34.355000+00:00",
+  "fin_utc": "2025-11-23T17:05:40.693000+00:00",
+  "fecha_local": "2025-11-21",
+  "intervalo": {
+    "anterior": 168,
+    "siguiente": 169,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1442596662206922943",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 168,
+        "fecha": "2025-11-20",
+        "inicio_referencia_utc": "2025-11-20T19:03:40+00:00",
+        "fin_estimado_utc": "2025-11-20T22:00:36+00:00",
+        "duracion_video_segundos": 10616,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816"
+      },
+      {
+        "capitulo": 169,
+        "fecha": "2025-11-24",
+        "inicio_referencia_utc": "2025-11-24T19:23:51+00:00",
+        "fin_estimado_utc": "2025-11-24T22:32:50+00:00",
+        "duracion_video_segundos": 11339,
+        "tipo_referencia": "aviso_de_contraste",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1442596662206922943"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida. Una hora tomada de un aviso con título discrepante se utiliza solo como referencia aproximada de ese día."
+  },
+  "fuentes": [
+    {
+      "id": "1441527231854805033",
+      "fecha_utc": "2025-11-21T20:34:34.355000+00:00",
+      "fecha_local": "2025-11-21",
+      "editado_utc": null,
+      "texto": "NORD-OESTE DE KUROTO \n\n(ISLA DEL MONTE DE LOS MELOCOTONEROS)\n\n**Las nubes se arremolinan , formando una pequeña tormenta , un rayo cae del cielo formando un agujero del cual cae una pluma de faisán.  \n\nUna nube blanca baja lentamente y deja ver una figura subida en ella . \n\nPorta una armadura plateada con retoques de jade , una corona con plumas de faisán y una lanza 2 veces el tamaño de una persona . ** \n\n???: A si que has decidido despertar en este plano ... \n\nSun Wukong ... <@220602485977382912> \n\nEl emperador de Jade necesita un nuevo mozo de cuadras ... \n**su mirada se centra en esa montaña y agitando esa lanza en su dirección. \n\nHace que el monte se parta en dos \n\nDe la figura podemos ver como se abre un pequeño tercer ojo de la frente .**\n\n???:Así que no estás aquí ... \nJe je.\nHablare con ese monje Tang . \nMe parece que me voy a divertir \n\n**se quita la corona de plumas de faisán y la nube voladora desparece . \nPerdemos de vista esa figura que desciende a toda velocidad en picado hasta Kuroto**",
+      "mensaje_sha256": "fb7c20be5158f87fbc7a79844b412a7c61c615135ca21e1266f327b04fb485c6",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1441527231854805033",
+      "texto_sha256": "d5946dd97e6120333ce0b36ce975083f5c3ed3ec7dc4244ee80a191250fc227a",
+      "adjuntos": []
+    },
+    {
+      "id": "1442199437597348032",
+      "fecha_utc": "2025-11-23T17:05:40.693000+00:00",
+      "fecha_local": "2025-11-23",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "0d198678a719aab2e05f52942d9e5348e22aca664c0b27d2e272925a7903120c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1442199437597348032",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

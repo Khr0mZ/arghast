@@ -1,0 +1,231 @@
+{
+  "id": "x-1558113345444253847",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1558113345444253847",
+  "hilo_id": "1524091803647741996",
+  "hilo_nombre": "Jungla - En alguna parte de Xoltacán",
+  "titulo": "Tryel devuelve el Palopalo al cuerpo de Ilikar",
+  "resumen": "Eldrath admite haber actuado con miedo y sostiene a su hermana durante el duelo.",
+  "relato": "Eldrath se arrodilla junto a Tryel y la abraza para que deje descansar a Ilikar. Ella le pregunta por qué lo hizo. El hermano admite que solo quería protegerla, que no pensó y que actuó con miedo. Dice que no deseaba matarlo ni que el goliat matara a los demás. No ofrece una reconstrucción del enfrentamiento ni una excusa.\n\nTryel lo aparta débilmente. Sus ojos cambian de color, la piel se agrieta y crujen huesos, pero el intento de cambio se ahoga en dolor y agotamiento. Cae contra su hermano deseando que todo vuelva a ser como antes. Eldrath comparte el deseo y la sostiene.\n\nCuando se apaga el llanto, la elfa encuentra la piedra que había devuelto a Ilikar. La coloca en su pecho y pide que se la devuelva cuando vuelvan a encontrarse. Es una despedida afectiva, sin promesa sobrenatural de reencuentro.\n\nEldrath evita mirar al muerto, toma en brazos a Tryel y propone llevarla con Walulu. Ella acepta y se duerme poco a poco. El duelo no se resuelve ni se expresa un perdón definitivo.",
+  "participantes": [
+    "Tryel",
+    "Eldrath",
+    "Ilikar"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1558117805331583098",
+      "afirmacion": "Eldrath admite que quería proteger a su hermana y no pensó.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1558122833157292032",
+      "afirmacion": "Reconoce actuar con miedo y no querer matar al goliat.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1558125183792062475",
+      "afirmacion": "Tryel no soporta el cambio que intenta y cae agotada.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1558128360876413021",
+      "afirmacion": "Coloca el Palopalo sobre el pecho de Ilikar como despedida.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1558129110545465457",
+      "afirmacion": "Eldrath la carga para llevarla con Walulu.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Las palabras del hermano acreditan su responsabilidad reconocida sin describir todavía el ataque exacto.",
+    "No identificar la forma intentada por Tryel a partir del crujido de huesos.",
+    "La petición de recuperar la piedra no es una resurrección o comunicación con el muerto."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-10-09T13:46:09.900000+00:00",
+  "fin_utc": "2026-10-09T14:51:52.722000+00:00",
+  "fecha_local": "2026-10-09",
+  "intervalo": {
+    "anterior": 69,
+    "siguiente": 70,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1558177942457028612",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 69,
+        "fecha": "2026-10-08",
+        "inicio_referencia_utc": "2026-10-08T18:17:02+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265"
+      },
+      {
+        "capitulo": 70,
+        "fecha": "2026-10-09",
+        "inicio_referencia_utc": "2026-10-09T18:01:52+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1558177942457028612"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1558113345444253847",
+      "fecha_utc": "2026-10-09T13:46:09.900000+00:00",
+      "fecha_local": "2026-10-09",
+      "editado_utc": null,
+      "texto": "Eldrath: **Siente un frio en la espina dorsal que hace que sienta entumecidos los dedos. Se queda parado viendo la escena como si fuera un mero espectador que no tiene derecho a estar alli. Un recuerdo desagradable taladra su mente llevandose la mano al pecho aferrandose a algo bajo su ropa. Despacio empieza a caminar hacia ella. Se arrodilla a su lado y con una suavidad y lentitud que no encaja con él, la atrae a él para abrazarla y rodearla con sus brazos.**\n\nYa...esta bien Tryel... Dejalo descansar...",
+      "mensaje_sha256": "f19791ebaaeeb3d6db86881178eb77116ff1237c422eefb065844d5db68d5093",
+      "tipo_discord": 19,
+      "referencia": "1557769669132419147",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1558113345444253847",
+      "texto_sha256": "b7a71eedde92df33d38fedd460491f9d63dd37aa8e028d64e851c1d340a21a4a",
+      "adjuntos": []
+    },
+    {
+      "id": "1558116621304987651",
+      "fecha_utc": "2026-10-09T13:59:10.926000+00:00",
+      "fecha_local": "2026-10-09",
+      "editado_utc": null,
+      "texto": "Tryel: P... Porque.... Porque lo hiciste...? **Dice mientras esta abrazada por ti** Porque...",
+      "mensaje_sha256": "15f5338faebdb84bde7d0ad2047c82ba30b8efc2f520efb226df4367750d35cd",
+      "tipo_discord": 19,
+      "referencia": "1558113345444253847",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1558116621304987651",
+      "texto_sha256": "06a6599a4477afb57805b69e37236771e27d8e478659decea61d05d7f20bb694",
+      "adjuntos": []
+    },
+    {
+      "id": "1558117805331583098",
+      "fecha_utc": "2026-10-09T14:03:53.220000+00:00",
+      "fecha_local": "2026-10-09",
+      "editado_utc": null,
+      "texto": "Eldrath: **Abre la boca pero la siente seca.**\n\nNo...lo se...solo queria protegerte...no...no estaba pensando...\n\n**No tiene ninguna excusa. No queria matar a nadie... Y no queria que su hermana se sintiera como él...**\n\nL-lo siento...",
+      "mensaje_sha256": "5c7d0519024757bedb90319038c7372242db8c101561a0405aee54e51876e465",
+      "tipo_discord": 19,
+      "referencia": "1558116621304987651",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1558117805331583098",
+      "texto_sha256": "b982ecce6c1dc382919dee76ed4744cc1d0a2e3689f63fecc48fb68bd84e5d0a",
+      "adjuntos": []
+    },
+    {
+      "id": "1558119303281381500",
+      "fecha_utc": "2026-10-09T14:09:50.359000+00:00",
+      "fecha_local": "2026-10-09",
+      "editado_utc": null,
+      "texto": "Tryel: **Notas como se tensa un momento y te empuja. Pero esta tan débil que no tiene casi fuerza para apartarte** ¡¿POR QUE?! NO tenias que ... **Los ojos grises de tu hermana empiezan a cambiar de color. Su piel empieza a agrietarse poco a poco mientras su cara mezcla un sentimiento de rabia y dolor**...yo debería haber...",
+      "mensaje_sha256": "138cf29b1726bdb8450b9d51a758f7e5ab7b1e24ce4b6b3414894265ffaf8839",
+      "tipo_discord": 19,
+      "referencia": "1558117805331583098",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1558119303281381500",
+      "texto_sha256": "7079364e9b190181a2d3ddced46a34604f64c2efedbd2c3823dd29774e3d786c",
+      "adjuntos": []
+    },
+    {
+      "id": "1558122833157292032",
+      "fecha_utc": "2026-10-09T14:23:51.947000+00:00",
+      "fecha_local": "2026-10-09",
+      "editado_utc": null,
+      "texto": "Eldrath: **La separa despacio para mirarla a los ojos... No tiene esa mascara de elfo gruñon, engreido y cabron. Solo es tu hermano.**\n\nLo siento... No tengo excusa...actue con miedo...\n\n**No quiere aplacar tu ira... Porque sabe que se la merece.**\n\nNo queria matarlo, ni tampoco que matara al resto... \n\n**Su voz se vuelve un hilo.**\n\nY mucho menos queria que sintieras esto... Porque se lo que es perder un amigo... Porque es un dolor y una culpa que me persigue desde niño...\n\n**Toma a Tryel de las muñecas y las coloca contra su pecho.**\n\nNo quiero que me perdones porque se que no lo merezco... Si tienes que desquitarte hazlo... Gritame y golpeame. Me dejare propinar todos los golpes que quieras hasta que tu corazon este satisfecho.",
+      "mensaje_sha256": "c575a498b64eb0924f6d07945bd8d04668ee77a6320321b86d4d3d731251cd09",
+      "tipo_discord": 19,
+      "referencia": "1558119303281381500",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1558122833157292032",
+      "texto_sha256": "ae659b04d5cfe7c71f329ec3ba4db572292c466c3302bc57541e264c837aeb76",
+      "adjuntos": []
+    },
+    {
+      "id": "1558125183792062475",
+      "fecha_utc": "2026-10-09T14:33:12.382000+00:00",
+      "fecha_local": "2026-10-09",
+      "editado_utc": null,
+      "texto": "Tryel: **Te sigue mirando con esa expresión cuando empiezas a escuchar el crujir de los huesos. Pero, ese sonido, viene acompañado de gruñidos de dolor. En el estado que se encuentra ahora mismo, no aguanta tanta presión y puedes ver como lo intenta una y otra vez pero, solo consigue grita y grita de dolor.** ¡¡¡AAAAAAAAAAAAAAAAH!!! **Al final no logra aguantar más y cae encima de ti, apoyando su cabeza en tu pecho** Qui... Quiero que... las cosas sean como antes, Eldrath...",
+      "mensaje_sha256": "4d9d8a0005331f532c31bdcb5464ab4c878456306d108f5f76f22dd278e2a834",
+      "tipo_discord": 19,
+      "referencia": "1558122833157292032",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1558125183792062475",
+      "texto_sha256": "b1219a256e68c40604b3aad16418390c1b76143d841d8400e8af62d75c16c653",
+      "adjuntos": []
+    },
+    {
+      "id": "1558126324072316951",
+      "fecha_utc": "2026-10-09T14:37:44.246000+00:00",
+      "fecha_local": "2026-10-09",
+      "editado_utc": null,
+      "texto": "Eldrath: **Le destroza el alma. La rodea con sus brazos.**\n\nYo tambien... Tryel...\n\n**Acaricia tu cabeza suavemente.**",
+      "mensaje_sha256": "a7cd82c6ae04e7c893a4c4328ffdcc46886f16d525cc76a5c086d5e8463c71af",
+      "tipo_discord": 19,
+      "referencia": "1558125183792062475",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1558126324072316951",
+      "texto_sha256": "21a377bd41d58c95e15fc60cc534b03a5dad1100d9783e68fac102b2c3691fba",
+      "adjuntos": []
+    },
+    {
+      "id": "1558128360876413021",
+      "fecha_utc": "2026-10-09T14:45:49.858000+00:00",
+      "fecha_local": "2026-10-09",
+      "editado_utc": null,
+      "texto": "Tryel: **Te abraza con fuerza mientras sus gritos de rabia resuenan por todo el lugar, alrededor del cuerpo del goliat. No hay nadie más que su hermano y los restos de su amigo para escucharla.**\n\n**Cuando los sollozos empiezan a apagarse, la elfa abre los ojos y descubre una pequeña piedra junto a donde están arrodillados los dos hermanos. Mientras se seca las lágrimas, extiende el brazo para recogerla. Con suavidad y el pulso tembloroso, la coloca sobre el pecho del goliat.** De... Devuélvemela... Devuélvemela cuando nos volvamos a encontrar... ¿Vale?\n\n**Se lo dice a Ilikar mientras fuerza una sonrisa, aunque las lágrimas siguen resbalando por sus mejillas. Finalmente, mira a su hermano y vuelve a abrazarlo con fuerza.**",
+      "mensaje_sha256": "62c692ace13b42ec56aab97d3f824ef867e24d1773df202d35a037b22eaa051e",
+      "tipo_discord": 19,
+      "referencia": "1558126324072316951",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1558128360876413021",
+      "texto_sha256": "f3db0429a80133914d8db56171e453866e93f7019919f4a4e93b87be72c9ceaa",
+      "adjuntos": []
+    },
+    {
+      "id": "1558128398566695086",
+      "fecha_utc": "2026-10-09T14:45:58.844000+00:00",
+      "fecha_local": "2026-10-09",
+      "editado_utc": null,
+      "texto": "<@210947008716996609>",
+      "mensaje_sha256": "43fb39745cbcd6f98cd47a8230da8d4692f2d15e2d7de6a71b0d07e3cd347c7f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1558128398566695086",
+      "texto_sha256": "6bca5e6804d052b7bcf51d57ae41c0351242ca3e7acb6145c8e7cf82ce55808e",
+      "adjuntos": []
+    },
+    {
+      "id": "1558129110545465457",
+      "fecha_utc": "2026-10-09T14:48:48.593000+00:00",
+      "fecha_local": "2026-10-09",
+      "editado_utc": null,
+      "texto": "Eldrath: **No se atreve a mirar al goliat.**\n\nVamos Tryel... Te llevare con Walulu...\n\n**Pasa un brazo por debajo de las rodillas de su hermana y otro lo pone en tu espalda. Y con algo de dificultad te levanta.**",
+      "mensaje_sha256": "56fa4e4a63f7795dce1dcf36cbb367208502fbf91cf063ea332a9728c247aae0",
+      "tipo_discord": 19,
+      "referencia": "1558128360876413021",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1558129110545465457",
+      "texto_sha256": "ae4a859fa07318921f55b73a8e8c4e33ffbab3f81e51c3125d83c53dba07ca98",
+      "adjuntos": []
+    },
+    {
+      "id": "1558129882838597734",
+      "fecha_utc": "2026-10-09T14:51:52.722000+00:00",
+      "fecha_local": "2026-10-09",
+      "editado_utc": null,
+      "texto": "Tryel: **La elfa simplemente asiente mientras se deja ayudar por su hermano. Apoya su cabeza en tu pecho y notas como poco a poco empieza a caer dormida otra vez**\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "8860151737134749a8f0110c2eb471667ca8d55dc70ac5786eb195ee846d7740",
+      "tipo_discord": 19,
+      "referencia": "1558129110545465457",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1558129882838597734",
+      "texto_sha256": "4c3e54ccfd8dbe46cc244206fa9912aa7da18c2ef632551e5f3c7d791e28a6b4",
+      "adjuntos": []
+    }
+  ]
+}

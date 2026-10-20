@@ -1,0 +1,78 @@
+{
+  "id": "k-1390652214879715399",
+  "campana": "kuroto",
+  "unidad_revision": "k-1390652214879715399",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Danifae abandona la apariencia de Jelbreg",
+  "resumen": "La ilusión de un supuesto Jelbreg revela a Danifae en un callejón.",
+  "relato": "Una figura presentada con duda como Jelbreg sale de la Base de los Cazadores y busca un callejón apartado. Allí se apaga la ilusión que la cubría y queda visible el rostro sonriente de Danifae, que se pierde después por el callejón. No se revela qué hizo dentro de la Base ni con quién habló mientras llevaba esa apariencia.",
+  "participantes": [
+    "Danifae"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1390652214879715399",
+      "afirmacion": "La ilusión de Jelbreg se desvanece y revela a Danifae.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Jelbreg es la identidad suplantada, no un segundo participante ni un alias verdadero de Danifae.",
+    "No se atribuyen a Danifae otras intervenciones anteriores de Jelbreg sin anclas adicionales."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-07-04T11:15:25.096000+00:00",
+  "fin_utc": "2025-07-04T11:15:25.096000+00:00",
+  "fecha_local": "2025-07-04",
+  "intervalo": {
+    "anterior": 135,
+    "siguiente": 136,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1390391136719212627",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1392568138104832013",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 135,
+        "fecha": "2025-07-03",
+        "inicio_referencia_utc": "2025-07-03T17:57:37+00:00",
+        "fin_estimado_utc": "2025-07-03T22:24:15+00:00",
+        "duracion_video_segundos": 15998,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1390391136719212627"
+      },
+      {
+        "capitulo": 136,
+        "fecha": "2025-07-09",
+        "inicio_referencia_utc": "2025-07-09T18:08:23+00:00",
+        "fin_estimado_utc": "2025-07-09T21:01:59+00:00",
+        "duracion_video_segundos": 10416,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1392568138104832013"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1390652214879715399",
+      "fecha_utc": "2025-07-04T11:15:25.096000+00:00",
+      "fecha_local": "2025-07-04",
+      "editado_utc": "2025-07-04T14:15:31.216000+00:00",
+      "texto": "¿Jelbreg?: **El drow sale de la base de los Cazadores y se adentra en las calles de la capital, se introduce en un callejón apartado de la vista de todos y un brillo a su alrededor empieza a apagarse. La ilusión que le cubría desaparece y se puede ver la cara de Danifae sonriente que desaparece en el callejón**\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "9471e984419e6c0b21dfe91f358365c6bbede4058e908b22f90b725e0ce2887a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1390652214879715399",
+      "texto_sha256": "4744e652f0125df1e73bbf0654aa3de9c067e25676f365b686f5c2b76f3aff8a",
+      "adjuntos": []
+    }
+  ]
+}

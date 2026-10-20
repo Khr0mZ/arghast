@@ -1,0 +1,135 @@
+{
+  "id": "x-1513461604342038629",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1513461604342038629",
+  "hilo_id": "1495828307843747971",
+  "hilo_nombre": "??? - En alguna parte",
+  "titulo": "Deyvon informa entre los latigazos de Viztya",
+  "resumen": "Brythya le exige averiguar qué hija exhumaron y ordena a Viztya investigar en la academia.",
+  "relato": "Deyvon entra orgulloso en la sala de su madre para informar sobre Rheydyn y desafía con la mirada a Viztya. Su hermana lo castiga con el látigo de serpientes hasta derribarlo. Brythya no lo protege: aconseja usar veneno la próxima vez y solo detiene el castigo cuando necesita escuchar las noticias.\n\nEl drow consigue contar que Miz'lin extrajo a una hija de las fosas familiares, pero ignora su nombre. La matrona le exige descubrirlo y lo manda salir con novicias que atienden sus heridas. El texto alterna una primera pausa en los golpes con la orden definitiva de detenerlos; el resultado es un interrogatorio coercitivo, no un informe cómodo.\n\nA solas, Viztya empieza a expresar una sospecha y Brythya la corta. Reivindica el favor de Lolth y el sacrificio de una hija aceptado por la diosa. Cree que Rheydyn no se atreverá a desafiar a la casa que favoreció su ascenso, pero aun así ordena a la sacerdotisa permanecer alerta e investigar en Vel'xundruss Valsharess.\n\nNo se revela aún qué teme Viztya ni la identidad de la exhumada. La conversación privada de madre e hija ocurre después de la salida de Deyvon.",
+  "participantes": [
+    "Deyvon Unthuar",
+    "Viztya Unthuar",
+    "Brythya Unthuar"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1513461604342038629",
+      "afirmacion": "Viztya azota a Deyvon por su actitud ante las mujeres de la casa.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1513461921104269442",
+      "afirmacion": "Brythya respalda el castigo y aconseja emplear veneno otra vez.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1513473966235451452",
+      "afirmacion": "Ordena a Deyvon averiguar qué hija de Miz'lin fue exhumada.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1513473977241047072",
+      "afirmacion": "A solas con Viztya, reivindica un sacrificio anterior y le encarga investigar en la academia.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "El sacrificio es afirmación de Brythya; no se reconstruye aquí.",
+    "La sospecha interrumpida de Viztya no recibe contenido explícito.",
+    "El conocimiento de la última conversación se restringe a madre e hija."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-06-08T08:36:05.232000+00:00",
+  "fin_utc": "2026-06-08T09:25:15.161000+00:00",
+  "fecha_local": "2026-06-08",
+  "intervalo": {
+    "anterior": 37,
+    "siguiente": 38,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1512525575573475348",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149383024690/1515976737605816332",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 37,
+        "fecha": "2026-06-05",
+        "inicio_referencia_utc": "2026-06-05T18:36:17+00:00",
+        "fin_estimado_utc": "2026-06-05T20:56:06+00:00",
+        "duracion_video_segundos": 8389,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1512525575573475348"
+      },
+      {
+        "capitulo": 38,
+        "fecha": "2026-06-15",
+        "inicio_referencia_utc": "2026-06-15T18:00:00+00:00",
+        "fin_estimado_utc": "2026-06-15T20:23:29+00:00",
+        "duracion_video_segundos": 8609,
+        "tipo_referencia": "programacion",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149383024690/1515976737605816332"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida."
+  },
+  "fuentes": [
+    {
+      "id": "1513461604342038629",
+      "fecha_utc": "2026-06-08T08:36:05.232000+00:00",
+      "fecha_local": "2026-06-08",
+      "editado_utc": null,
+      "texto": "**El pícaro versado en magia arcana atravesaba los pasillos de la Primera Casa de Ches Farak, su hogar, con la barbilla bien alta. Los soldados y guardias apartaban la mirada a su paso, e incluso las novicias hacían lo mismo, pues sabían que el arrogante e irascible Deyvon podía descargar su frustración sobre cualquiera que osara sostenerle la mirada.**\n\n**Al llegar ante la cámara principal de la Casa Unthuar, donde su madre recibía visitas y se reunía con los demás miembros de la familia, los guardias abrieron la puerta en cuanto lo reconocieron.**\n\nDeyvon: Madre, traigo noticias sobre la Casa Rheydyn **Dijo sin agachar la mirada, con una sonrisa cargada de soberbia.**\n**Antes de que pudiera continuar, sintió la fría mirada de su hermana Viztya, clavándose en él en cuanto entró, como si fuera alguien importante… y no un simple varón. El drow le mantuvo la mirada desafiándola. Grave error.**\n\n**El látigo chasqueó al salir de la mano de la sacerdotisa de Lolth. El varón drow volvió a sentir los dolorosos colmillos de las serpientes morder su piel, como tantas otras veces en su infancia, cuando su hermana le enseñaba las costumbres de su raza y de su casa.**",
+      "mensaje_sha256": "30af03293417d0c3a8a0221ba6bb24d894ca2771f325090d9e846417aca21a05",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1513461604342038629",
+      "texto_sha256": "ec8e71b4ab32424703b6bd64593b71fd9378371623a365a3dfac81a4bdcf02e8",
+      "adjuntos": []
+    },
+    {
+      "id": "1513461921104269442",
+      "fecha_utc": "2026-06-08T08:37:20.754000+00:00",
+      "fecha_local": "2026-06-08",
+      "editado_utc": null,
+      "texto": "Viztya: ¿Con quién crees que estás hablando, niñato? **La voz de la sacerdotisa sonaba profunda, cargada de autoridad y poder. Había dedicado toda su vida a alcanzar el rango de Sacerdotisa de Lolth. Había soportado burlas, torturas, pruebas mortales y largas horas de plegarias hasta ganarse aquel título. Ahora, con su casa situada la primera de la ciudad, la mayoría de las sacerdotisas de Vel’xundruss Valsharess la respetaban… e incluso le mostraban devoción. No iba a permitir que un simple varón, aunque fuera de su familia, le hablara o siquiera la mirara de aquella manera.**\n\n**Deyvon gruñó al recibir los latigazos de su hermana. Los soportó con toda la fuerza de su voluntad para no mostrarse débil, pero tras varios impactos, sus rodillas terminaron cediendo. No era el veneno de las serpientes lo que lo derribaba; Viztya no se atrevería a matar a un miembro de la familia por una simple insolencia… al menos no ante su madre. Y Deyvon lo sabía. Buscó entonces la mirada de su madre, pero…**\n\nBrythya: **Matrona de la Primera Casa de Ches Farak, observaba la escena con una expresión de absoluto desinterés. Su piel había envejecido durante los últimos doscientos años, marcada por arrugas y manchas de decrepitud. Sus ojos, ahora más pequeños y entrecerrados, habían perdido parte de su brillo ámbar… pero aún latía en ellos un poder innegable. Esos ojos se clavaron en Deyvon cuando él la miró.** No debes mostrar clemencia ante un varón que desconoce su lugar, Viztya **Dijo con calma la Matrona**. La próxima vez, usa el veneno de tus serpientes.\n\n**La sacerdotisa detuvo los latigazos y se inclinó ante su madre en una breve reverencia, aceptando el consejo sin dudar.**\n\n**Deyvon, en cambio, apenas pudo contener el gesto de rabia. Mostró los dientes por un instante… pero la mirada de su madre bastó para que bajara la cabeza de inmediato, sin atreverse a replicar.**",
+      "mensaje_sha256": "bffdd916332714fefda34fb6b024ca882036921916ff6f04d378a1e9a70f230d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1513461921104269442",
+      "texto_sha256": "c8cf0b7d4e5fe069f90c2498aa43c6c6bcf78a37c1eb47bd8c53e913d6ba7186",
+      "adjuntos": []
+    },
+    {
+      "id": "1513473966235451452",
+      "fecha_utc": "2026-06-08T09:25:12.537000+00:00",
+      "fecha_local": "2026-06-08",
+      "editado_utc": null,
+      "texto": "Brythya: **Observó durante un largo instante cómo su hija continuaba con los latigazos sobre Deyvon, que gruñía de dolor. Finalmente, levantó una mano, ordenando a Viztya que se detuviera. Ya había sido suficiente… y, además, necesitaba a su único hijo en condiciones para que le informara de su trabajo.** Habla.\n\nDeyvon: **Intentó incorporarse, pero los latigazos le habían dejado profundas y dolorosas marcas, impidiéndole siquiera levantar las rodillas del suelo.** La… la Matrona Rheydyn… **Gruñó entre dolor** Ha sacado a una de sus hijas de las fosas familiares… **Miró de reojo a su hermana, que aún sostenía el látigo preparado.**\n\nViztya: ¿Cuál de sus hijas, niño? **Preguntó con tono intimidante.**\n\nDeyvon: Aún… aún no lo sé… **Respondió, bajando la cabeza, consciente de que se avecinaba otra ronda de castigo. Pero antes de que Viztya pudiera volver a golpearlo…**\n\nBrythya: **La detuvo con un nuevo gesto de mano.** Averígualo **Dijo secamente, mientras hacía una señal a unas novicias para que atendieran las heridas de su hijo** Ahora márchate, y no vuelvas hasta saber cuál de las hijas de la Matrona Miz’lin han sacado de su tumba.",
+      "mensaje_sha256": "4fe5de0699baa35c7efb671a870911f03feb716a545266cb3d06b6dc8fea9bb5",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1513473966235451452",
+      "texto_sha256": "006fa40b2c73a4ba8f8a67b6cec9142969e3a9e85b2055b182da1069e417a425",
+      "adjuntos": []
+    },
+    {
+      "id": "1513473977241047072",
+      "fecha_utc": "2026-06-08T09:25:15.161000+00:00",
+      "fecha_local": "2026-06-08",
+      "editado_utc": "2026-06-08T09:27:33.347000+00:00",
+      "texto": "Viztya: **Cuando Deyvon y las novicias abandonaron la sala de audiencias, Brythya y Viztya quedaron a solas.** Madre… ¿crees que…? **Empezó a decir la sacerdotisa.**\n\nBrythya: No seas estúpida, Viztya **La interrumpió Brythya con frialdad** Nuestra casa goza del favor de Lady Lolth. Fuimos nosotras quienes entregamos una hija en sacrificio… y ella fue aceptada. **Sus dedos repiquetearon contra el reposabrazos del trono de araña.** Y aunque fuera posible, la Casa Rheydyn nos debe su posición en la ciudad. La Matrona Miz’lin no será tan estúpida como para desafiarnos. **Clavó su mirada en su hija.** Mantente alerta. Y averigua todo lo que puedas en Vel’xundruss Valsharess.\n\nViztya: Sí, madre… **Respondió la sacerdotisa, inclinándose en una reverencia antes de guardar su látigo de cabezas de serpiente. Sin más, abandonó la sala de audiencias de la Casa Unthuar.**\n\n🔴Fin de la Escena🔴",
+      "mensaje_sha256": "ae3724c5e36f20468136005bbcb80e7ea447111021cb2a482daa7b4fa0d5c3aa",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1513473977241047072",
+      "texto_sha256": "dc76fe9d2b925f49b95a58340b83190082d5e8fddd76f12624bc764eb9ab87c9",
+      "adjuntos": []
+    }
+  ]
+}

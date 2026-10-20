@@ -1,0 +1,96 @@
+{
+  "id": "x-1502338558827167976",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1502338558827167976",
+  "hilo_id": "1465411590789795962",
+  "hilo_nombre": "Shiaru - El ron de Bonny",
+  "titulo": "Citlali intenta comprender la Serpiente y el nido del Águila",
+  "resumen": "El encierro agrava su angustia mientras relaciona una frase de la libreta de Bonny con los susurros y sus tatuajes.",
+  "relato": "Los días de cautiverio se vuelven insoportables para Citlali. Camina en círculos y repasa lo leído en la libreta de Bonny, buscando su relación con los susurros que oye y las palabras grabadas en su piel. Recuerda una frase sobre el fin de la vida cuando la Serpiente llegue al nido del Águila y devore a sus crías. No entiende qué tiene que ver con ella ni con la otra persona en la que piensa, a quien no nombra aquí.\n\nLa frustración se convierte en gritos y se rasguña los tatuajes hasta abrirse la piel. La fuente termina en esa desesperación, sin respuesta al enigma ni una nueva revelación del texto. El cierre posterior pertenece a esta misma conversación y no añade una escena después de la partida.",
+  "participantes": [
+    "Citlali"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1502338558827167976",
+      "afirmacion": "Citlali relaciona la libreta, los susurros y los tatuajes sin comprender aún el aviso sobre Serpiente y Águila.",
+      "tipo": "pensamiento"
+    },
+    {
+      "mensaje_id": "1502338558827167976",
+      "afirmacion": "Se rasguña la piel en su angustia por el cautiverio y las preguntas sin respuesta.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No convertir la frase en una profecía cumplida ni fijar la identidad del él no nombrado.",
+    "El FIN tardío se mantiene con la conversación, conforme a la revisión de cortes horarios del coordinador."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-05-08T15:57:04.525000+00:00",
+  "fin_utc": "2026-05-08T20:35:50.300000+00:00",
+  "fecha_local": "2026-05-08",
+  "intervalo": {
+    "anterior": 29,
+    "siguiente": 30,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1502008201464250389",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1502370548246642719",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 29,
+        "fecha": "2026-05-07",
+        "inicio_referencia_utc": "2026-05-07T18:04:02+00:00",
+        "fin_estimado_utc": "2026-05-07T20:45:23+00:00",
+        "duracion_video_segundos": 9681,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1502008201464250389"
+      },
+      {
+        "capitulo": 30,
+        "fecha": "2026-05-08",
+        "inicio_referencia_utc": "2026-05-08T18:03:57+00:00",
+        "fin_estimado_utc": "2026-05-08T20:19:56+00:00",
+        "duracion_video_segundos": 8159,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1502370548246642719"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1502338558827167976",
+      "fecha_utc": "2026-05-08T15:57:04.525000+00:00",
+      "fecha_local": "2026-05-08",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\n**Los días seguían pasado y se hacía cada vez mas lenta la espera, la tortura de la incertidumbre era lo que me estaba matando, quedarme en un solo lugar sin moverme con libertad me estaba cansando**\n\n**Me levanté de la cama y caminé en círculos, repasando en mi cabeza lo que estaba escrito en la libreta de Bonny y como concordaba esas palabras con lo que escuchaba en mi cabeza y al parecer... Lo que también tenía plasmado en la piel**\n\n*\"La vida terminará en el momento en que la Serpiente llegue al nido del Águila y devore a sus crías\", esas malditas serpientes... Pero qué tiene que ver conmigo?, y sobre todo... Qué tiene que ver con él?*\n\n**Me ponía las manos en la cabeza**\n\nNO PUEDO SER TAN TONTA Y NO RECORDAR!!, QUÉ FUE LO QUE HICE MAL PARA QUE ME HAGAN ESTO!?\n\n**Me rasguñaba los tatuajes de mis brazos, abriéndome la piel por la desesperación**\n\nPor qué?... Por qué nosotros?... Por qué?...",
+      "mensaje_sha256": "86035188987e0d78a6b45c5cbafd5ecb253aa2b25c4fb3a1c7d817e7c5d2a83e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1502338558827167976",
+      "texto_sha256": "7452904cdef7c27db9993bf21703608ae82de74d24fc0315ec785fbd284a2776",
+      "adjuntos": []
+    },
+    {
+      "id": "1502408711812153374",
+      "fecha_utc": "2026-05-08T20:35:50.300000+00:00",
+      "fecha_local": "2026-05-08",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "336a9ea87c918cbf3dfbc0b4f2f0463d03a2c43ce4ab238963f8712e6274623d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1502408711812153374",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

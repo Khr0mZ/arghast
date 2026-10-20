@@ -1,0 +1,142 @@
+{
+  "id": "k-1380546434335506593",
+  "campana": "kuroto",
+  "unidad_revision": "k-1380546434335506593",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Documentos para Wasabi",
+  "resumen": "Kalista prepara papeles y Osurai sale al jardín.",
+  "relato": "Kalista llega con documentos y Wasabi al hombro, hablando con la serpiente sin parecer animada. Se calla cuando Osurai sale de su cuarto. La entidad le ofrece sus servicios y anuncia que estará entrenando fuera; se sienta a meditar en el jardín. La tritón permanece en la sala con los papeles. Al entrar después otros compañeros, se la oye pedir a Wasabi que guarde documentos firmados que pueden demostrar que son suyos, sin que se identifique su contenido.",
+  "participantes": [
+    "Kalista",
+    "Wasabi",
+    "Osurai"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1380546434335506593",
+      "afirmacion": "Kalista llega con documentos y Wasabi al hombro, conversando con la serpiente.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1380548388419932253",
+      "afirmacion": "Osurai sale al jard?n a meditar tras ofrecer sus servicios.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Setenta y ocho mensajes completos. Dos fases del encuentro, con un epílogo explícito de escucha por Osurai.",
+    "El avance de las figuras y sus efectos se conocen por los testimonios de los afectados; no se inventan nuevos recuerdos perdidos ni control efectivo ejercido durante esta escena.",
+    "Las pérdidas de recuerdos sobre padres y crianza no borran automáticamente el historial previo del catálogo ni autorizan sustituirlo por datos nuevos; se registran como estado actual de los personajes.",
+    "La ciudad submarina no recibe nombre aquí y el tamaño del Rey Dragón es la descripción de Kalista. El viaje para visitarla queda propuesto.",
+    "La carta se entrega a Kalista, no a Rúa. Su contenido literal no aparece, y no se afirma una confesión amorosa ni reciprocidad de la gobernante.",
+    "La última intervención acredita que Osurai ha escuchado; no se considera enteramente privada la conversación respecto a él.",
+    "No se reconstruye el encuentro previo con el dragón ni se da por resuelta la maldición."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-06T13:58:39.258000+00:00",
+  "fin_utc": "2025-06-06T14:08:28.010000+00:00",
+  "fecha_local": "2025-06-06",
+  "intervalo": {
+    "anterior": 125,
+    "siguiente": 126,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1380253520841805875",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1382420384158056601",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 125,
+        "fecha": "2025-06-05",
+        "inicio_referencia_utc": "2025-06-05T18:34:23+00:00",
+        "fin_estimado_utc": "2025-06-05T21:51:33+00:00",
+        "duracion_video_segundos": 11830,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1380253520841805875"
+      },
+      {
+        "capitulo": 126,
+        "fecha": "2025-06-11",
+        "inicio_referencia_utc": "2025-06-11T18:04:52+00:00",
+        "fin_estimado_utc": "2025-06-11T20:51:16+00:00",
+        "duracion_video_segundos": 9984,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1382420384158056601"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1380546434335506593",
+      "fecha_utc": "2025-06-06T13:58:39.258000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "Kalista: **Llega con un monton de papeles y Wasabi al hombro. Estan hablando de algo...No parece muy animada por ello**",
+      "mensaje_sha256": "61cb1e6981aad4bef71829f2146ab086ceb1fddfb554c9dd339317c3737bdddb",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1380546434335506593",
+      "texto_sha256": "0ef786de5ea7e8e0ca9c9c12dfac946a6196ef7b54398ba9b8664889f3ce372e",
+      "adjuntos": []
+    },
+    {
+      "id": "1380547457741750282",
+      "fecha_utc": "2025-06-06T14:02:43.257000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "Osurai:\n\n**Saldría de la habitación**\n\nQue tenga un buen día, si necesita de mis servicios estaré fuera, entrenando.\n\n**Dice serio mientras se coloca la mascara mirándola**",
+      "mensaje_sha256": "b0aa2397da10d8dd918f6a66b1cee3227ceb16cd799fd6fd2c45c33a91e1c63a",
+      "tipo_discord": 19,
+      "referencia": "1380546434335506593",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1380547457741750282",
+      "texto_sha256": "a88e3690ff7c83bd7cc9fb00d9110b0d22f79ec214ddcd8b8c0f8d08afc8c18a",
+      "adjuntos": []
+    },
+    {
+      "id": "1380547643079659531",
+      "fecha_utc": "2025-06-06T14:03:27.445000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "Kalista: **Se calla, te mira unos segundos y despues vuelve a hablar con su serpiente**",
+      "mensaje_sha256": "e8d4dbb8fafc7075cfe96dc583b2f6e8f0c0b5e964812c107fed6cd0525ca7b3",
+      "tipo_discord": 19,
+      "referencia": "1380547457741750282",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1380547643079659531",
+      "texto_sha256": "64cdb4be7ff03c9b34c7a4a3d20248e1f523d96047484ca2d85ceed48db81e33",
+      "adjuntos": []
+    },
+    {
+      "id": "1380548388419932253",
+      "fecha_utc": "2025-06-06T14:06:25.148000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "Osurai: \n\n**Saldría al jardín, se sentaría en una piedra y estaría meditando adiestrando sus sentidos**",
+      "mensaje_sha256": "ba84fb1685eda89465ba1efec4a4d72092c81ddca1633f8a6b51ded40fcb9fb6",
+      "tipo_discord": 19,
+      "referencia": "1380547643079659531",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1380548388419932253",
+      "texto_sha256": "6e40c213637e5b1a468b2bb72103665c4eb6aa40af845545746da9b615de7d9a",
+      "adjuntos": []
+    },
+    {
+      "id": "1380548903740506203",
+      "fecha_utc": "2025-06-06T14:08:28.010000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "Kalista: **Se queda dentro de la base**",
+      "mensaje_sha256": "39e996648df96c7c2cb12e8619fb09732d01e7e4a1ada4ce9e26bdfc960f828d",
+      "tipo_discord": 19,
+      "referencia": "1380548388419932253",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1380548903740506203",
+      "texto_sha256": "34ab2c794fb44d35a4c7858537c0f279da9d37058f7088f740b3a1d387ef64d0",
+      "adjuntos": []
+    }
+  ]
+}

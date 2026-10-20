@@ -1,0 +1,154 @@
+{
+  "id": "k-1385261068502437928",
+  "campana": "kuroto",
+  "unidad_revision": "k-1385261068502437928",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "La almenara moviliza a Guxi y Seraphina",
+  "resumen": "Al ver la señal de ataque, ambos vuelven apresuradamente a la Base.",
+  "relato": "De regreso desde el refugio de las montañas, Guxi y Seraphina ven una almenara encendida. Él queda paralizado un momento y la interpreta como señal de que el sur está bajo ataque. Seraphina toma su bastón y su mano, le recuerda que afrontarán juntos lo que venga y lo besa para tranquilizarlo. Guxi la carga y vuela hacia la Base a toda velocidad, aunque el esfuerzo le resulta doloroso. Se marchan decididos a ayudar; el tramo no muestra su incorporación a una batalla ni el resultado del conflicto.",
+  "participantes": [
+    "Guxi",
+    "Seraphina"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1385261068502437928",
+      "afirmacion": "Guxi ve la almenara y anuncia un ataque en el sur.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1385261653364441138",
+      "afirmacion": "Seraphina reafirma que afrontarán el peligro juntos.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1385262040234590322",
+      "afirmacion": "Guxi lleva a Seraphina volando hacia la Base.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Seraphine Longhop aparece como variante explícita con la que Guxi nombra a Seraphina.",
+    "La confianza en que no perderán expresa determinación, no victoria ya conseguida."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-19T14:12:55.637000+00:00",
+  "fin_utc": "2025-06-19T14:31:55.121000+00:00",
+  "fecha_local": "2025-06-19",
+  "intervalo": {
+    "anterior": 129,
+    "siguiente": 130,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1384958659062403102",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1385318614470496400",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 129,
+        "fecha": "2025-06-18",
+        "inicio_referencia_utc": "2025-06-18T18:10:58+00:00",
+        "fin_estimado_utc": "2025-06-18T20:18:17+00:00",
+        "duracion_video_segundos": 7639,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1384958659062403102"
+      },
+      {
+        "capitulo": 130,
+        "fecha": "2025-06-19",
+        "inicio_referencia_utc": "2025-06-19T18:01:24+00:00",
+        "fin_estimado_utc": "2025-06-19T21:47:20+00:00",
+        "duracion_video_segundos": 13556,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1385318614470496400"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1385261068502437928",
+      "fecha_utc": "2025-06-19T14:12:55.637000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": null,
+      "texto": "guxi: **estaba volviendo de su casa en las montañas junto con <@408026114548695061> seraphine longhop cuando se da cuenta de una especie de almenara ardiendo en una de las montañas cercana se queda completamente en blanco y paralizado** El sur esta siendo atacado hay que darse prisa",
+      "mensaje_sha256": "09f19a4d80d094327f65b5f1ba1e47e8b29cbbc016ca1d5610c159a677ab78e6",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1385261068502437928",
+      "texto_sha256": "c668d5602581d954f225191033a6691492f96e5d1091af461e85b7878d2ad6b8",
+      "adjuntos": []
+    },
+    {
+      "id": "1385261653364441138",
+      "fecha_utc": "2025-06-19T14:15:15.079000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": null,
+      "texto": "Seraphina:\nHay que ir a apoyar, al menos en lo que esté en nuestras manos \n\n**Tomé mi bastón con fuerza en una de mis manos y en la otra tomé a Guxi**\n\nDijimos que haríamos esto juntos y así va a hacer, hasta el final...\n\n**Le dí un suave beso en los labios, tratando de calmar sus nervios**",
+      "mensaje_sha256": "d53a155dcf8f0cfc3fd71f008903f0b7f5d980724320d8c56e342a382cc2eed2",
+      "tipo_discord": 19,
+      "referencia": "1385261068502437928",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1385261653364441138",
+      "texto_sha256": "896924f9049d43bcd73a131796d4a04be48f78cfe46087308643424120213344",
+      "adjuntos": []
+    },
+    {
+      "id": "1385262040234590322",
+      "fecha_utc": "2025-06-19T14:16:47.316000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": null,
+      "texto": "guxi: gracias no pienso perder algo mas agarrate ** te agarra para llevarte volando a toda velocidad (princess carry) aunque le cuesta parece que la adrelanina del momento ignora el dolor y te lleva hacia la base **",
+      "mensaje_sha256": "aaced2196038b2218152ac6d7c3dab6c304ed362ba2d51d2c84f8eca77f6df0c",
+      "tipo_discord": 19,
+      "referencia": "1385261653364441138",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1385262040234590322",
+      "texto_sha256": "609a6dbf187c894a99f87d33c54dda65714cd2922f8637e301738a3f7a5c720a",
+      "adjuntos": []
+    },
+    {
+      "id": "1385262151249297490",
+      "fecha_utc": "2025-06-19T14:17:13.784000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": null,
+      "texto": "🔩 guxi sale de escena🔩",
+      "mensaje_sha256": "7d380c9b9ffb71c73ab2983e7a26a9570ad8cfe62e86d4b47814846ed3acc0fa",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1385262151249297490",
+      "texto_sha256": "e684c549af93a258b115f68a37386a6f33541b453519e2877a0cc24cd84938f3",
+      "adjuntos": []
+    },
+    {
+      "id": "1385262812259024960",
+      "fecha_utc": "2025-06-19T14:19:51.381000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": null,
+      "texto": "Seraphina:\nNo lo harás, ahora estamos los dos y no vamos a perder~\n\n**Me sonroje al momento en que me cargó de esa manera y salimos corriendo hacia la base, estábamos dispuestos a todo y la palabra \"Derrota\" no llegaría hoy**\n\n🏴‍☠️ Seraphina sale de escena 🏴‍☠️",
+      "mensaje_sha256": "627cd6ece45f0461300f148accf348f628528bd0c83d0c361e8b5a6e05cebdcc",
+      "tipo_discord": 19,
+      "referencia": "1385262040234590322",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1385262812259024960",
+      "texto_sha256": "d0b7f209bd83824765e08d456214ed04232d7f1f0bc5b3cff4c6c15702a3cf1b",
+      "adjuntos": []
+    },
+    {
+      "id": "1385265847844733019",
+      "fecha_utc": "2025-06-19T14:31:55.121000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": null,
+      "texto": "🔴 fin de escena🔴",
+      "mensaje_sha256": "0b330a901e24bee9c22e11ddb0a653e1836bde5316dd06a41b309c351d497a8f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1385265847844733019",
+      "texto_sha256": "906cd6a490f27f6a27bf957ba49b4845aca936431f5924262141d6e0dea25762",
+      "adjuntos": []
+    }
+  ]
+}

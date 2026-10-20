@@ -1,0 +1,83 @@
+{
+  "id": "k-1386678793741144114",
+  "campana": "kuroto",
+  "unidad_revision": "k-1385809829695848478",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "Arwen honra a los animales caídos",
+  "resumen": "La niña reúne los cuerpos de animales muertos y se ocupa de sus almas para que continúe el ciclo.",
+  "relato": "Arwen se acerca al conjunto de cadáveres llevando a los animales que han caído. Uno por uno realiza un cuidado de sus almas para que encuentren paz y renazcan dentro del ciclo natural. El mensaje no describe que los cuerpos recuperen la vida ni muestra una conversación con otros personajes; conserva un gesto de duelo por los compañeros animales de la defensa.",
+  "participantes": [
+    "Arwen"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1386678793741144114",
+      "afirmacion": "Arwen se ocupa ritualmente de las almas de los animales caídos.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Leídas completas las cinco partes y los tres adjuntos. La imagen del pánico es ilustrativa; el dibujo final de Banzo es una referencia humorística del disfraz.",
+    "La inscripción gráfica del diario de Kurobane se conserva como original. Su escritura no se traduce ni se inventa un contenido a partir del dibujo.",
+    "La unidad original reúne varias interacciones con cierres y salidas; las subescenas conservan cobertura exacta sin duplicar mensajes.",
+    "Las cifras de atención médica son las que Banzo comunica, sin elevarlas a un balance general de la batalla.",
+    "La apariencia de Brythya que Banzo cree ver sobre Danifae se presenta como percepción del goliat, no como transformación física confirmada.",
+    "La promesa de Danifae se refiere a sus armas frente a Ootakemaru y no equivale a afiliación ni contrato firmado.",
+    "No se realiza todavía la visita a los templos ni se elimina la condición de Kurobane."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-23T12:06:27.674000+00:00",
+  "fin_utc": "2025-06-23T12:06:27.674000+00:00",
+  "fecha_local": "2025-06-23",
+  "intervalo": {
+    "anterior": 130,
+    "siguiente": 131,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1385318614470496400",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387130423632724151",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 130,
+        "fecha": "2025-06-19",
+        "inicio_referencia_utc": "2025-06-19T18:01:24+00:00",
+        "fin_estimado_utc": "2025-06-19T21:47:20+00:00",
+        "duracion_video_segundos": 13556,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1385318614470496400"
+      },
+      {
+        "capitulo": 131,
+        "fecha": "2025-06-24",
+        "inicio_referencia_utc": "2025-06-24T18:00:45+00:00",
+        "fin_estimado_utc": "2025-06-24T21:04:44+00:00",
+        "duracion_video_segundos": 11039,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387130423632724151"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1386678793741144114",
+      "fecha_utc": "2025-06-23T12:06:27.674000+00:00",
+      "fecha_local": "2025-06-23",
+      "editado_utc": null,
+      "texto": "Arwen: **Se acerca al conjunto de cadaveres...ha traido con sigo los cuerpos de los animales que han caido...uno a uno se dedica a engargarse de que sus almas renazcan...para que encuentren paz en otra vida y el ciclo continue**",
+      "mensaje_sha256": "46af60922048f64a05eb6fd753ae4b00db94b92c710bcc359ead916a013247de",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386678793741144114",
+      "texto_sha256": "07532673407c4c515e86566f00665d0437f972b94e6c3dd13e06115a892ec92e",
+      "adjuntos": []
+    }
+  ]
+}

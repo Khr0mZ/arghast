@@ -1,0 +1,183 @@
+{
+  "id": "k-1394243970166554677",
+  "campana": "kuroto",
+  "unidad_revision": "k-1393150458050379937",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "Banzo encarga a Osurai seguir la cabeza de los cultistas",
+  "resumen": "Después de la oleada, el goliat entrega a la sombra la nota del sur y le pide que trabaje con Kurobane para encontrar a quien organiza al enemigo.",
+  "relato": "Banzo se acerca al árbol desde el que Osurai vigila el sur. Le cuenta que un cultista y un yokai intentaron atacar a la shogun durante una coronación anterior y sugiere que alguien está organizando esas acciones. Le entrega la nota en abisal hallada en la aldea, la que indica el sur, y le pide investigar.\n\nOsurai acepta continuar con las pesquisas sobre los cultistas y pregunta quién puede dirigirlos. Mientras lanzan piedras a un árbol, el goliat usa la diferencia entre sus fallos y la precisión de la sombra como metáfora: quiere que Kurobane sea el proyectil y Osurai quien lo impulse, trabajando juntos para alcanzar la cabeza de la serpiente.\n\nNo aportan una identidad nueva ni un descubrimiento. Banzo espera un informe de las montañas y ofrece avisarlo; Osurai seguirá investigando y vigilando las puertas desde su base. Se separan con el acuerdo de mantenerse alertas, sin ejecutar aquí una persecución ni confirmar la autoría del atentado relatado.",
+  "participantes": [
+    "Banzo",
+    "Osurai"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1394248970171322378",
+      "afirmacion": "Banzo relata el atentado previo, entrega la nota y pide a Osurai investigar la organización cultista.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1394251693172195369",
+      "afirmacion": "Osurai acepta continuar la investigación y pregunta por sus dirigentes.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1394258486753497179",
+      "afirmacion": "Osurai mantendrá la investigación y la vigilancia mientras espera el informe de Banzo.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Leídas completas las tres partes. La batalla y la conversación posterior se separan en subescenas.",
+    "Kazuki y Osurai actúan simultáneamente y en lugares distintos pese a compartir autor de Discord; no se identifican como un mismo personaje.",
+    "Gur permanece vivo después de su explosión. El director precisa que los Nue quedan heridos, todavía en pie; no se convierte esa explosión en exterminio de todas las bestias.",
+    "Las bajas aliadas no se sustituyen por una victoria sin coste: Gur muestra tres soldados muertos y siguen las tareas de recogida y reparación.",
+    "La victoria cierra esta oleada, no la guerra ni la trama de Ootakemaru."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-07-14T09:07:46.288000+00:00",
+  "fin_utc": "2025-07-14T10:27:22.080000+00:00",
+  "fecha_local": "2025-07-14",
+  "intervalo": {
+    "anterior": 137,
+    "siguiente": 138,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1392928697199104071",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1395103349975552102",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 137,
+        "fecha": "2025-07-10",
+        "inicio_referencia_utc": "2025-07-10T18:00:57+00:00",
+        "fin_estimado_utc": "2025-07-10T20:45:41+00:00",
+        "duracion_video_segundos": 9884,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1392928697199104071"
+      },
+      {
+        "capitulo": 138,
+        "fecha": "2025-07-16",
+        "inicio_referencia_utc": "2025-07-16T18:02:21+00:00",
+        "fin_estimado_utc": "2025-07-16T21:05:27+00:00",
+        "duracion_video_segundos": 10986,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1395103349975552102"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1394243970166554677",
+      "fecha_utc": "2025-07-14T09:07:46.288000+00:00",
+      "fecha_local": "2025-07-14",
+      "editado_utc": null,
+      "texto": "Banzo : **Se acerca al árbol en el cual está Osurai. <@240564189448503306> \nY se apoya con la espalda en el tronco **\n\nTengo que comentarte algo",
+      "mensaje_sha256": "be58d5f2a122a498ab36a506550b27866d347b7c9fb00a1a5d06f4cd30a96eb2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1394243970166554677",
+      "texto_sha256": "f1d252081baa3920c6a1c949976a5c3b3533ee952a8717a6c237762d405f7240",
+      "adjuntos": []
+    },
+    {
+      "id": "1394245610642608241",
+      "fecha_utc": "2025-07-14T09:14:17.408000+00:00",
+      "fecha_local": "2025-07-14",
+      "editado_utc": null,
+      "texto": "Osurai:\n\nQue me tienes que comentar?\n\n**Pregunta con una voz cansada y sin su sonrisa características, ahora está con una cara de odio, la sombra apostada en la rama mientras deja de observar hacia el sur para mirar a Banzo**",
+      "mensaje_sha256": "30e6b799ac95b725d38e53179bf0b0baf4793f8879ec747519069b7cd3d67a6d",
+      "tipo_discord": 19,
+      "referencia": "1394243970166554677",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1394245610642608241",
+      "texto_sha256": "95eba0b2550024200b6d9aeaa95b76be9dfce85ed839d24747aea02f660ce196",
+      "adjuntos": []
+    },
+    {
+      "id": "1394248970171322378",
+      "fecha_utc": "2025-07-14T09:27:38.382000+00:00",
+      "fecha_local": "2025-07-14",
+      "editado_utc": null,
+      "texto": "Banzo : El otro día en la coronación un cultista y un yokai intentaron atentar contra la Shogun . ** va lanzando piedrecitas a un árbol lejano , te pasa alguna para que lances tu también.  Banzo falla no le da al arbol** \n\nNo espero que hagas nada para protegerla pero ambos sabemos que no te gusta esperar verdad sombra ? \n\nSe están organizando Osurai  Los cultistas ... \n\nSin duda eres el más adecuado para el trabajo . Necesito que vayas tras ellos . Algo traman **te da la nota que encontraste en la aldea,  la que pone \"sud\" en abisal ** \nPodrías hacer eso ? Ocuparte tu .. como lo ves ? \n**sigue lanzando piedras al arbol fallando **",
+      "mensaje_sha256": "0183a61a3c78da249254081c53cbf17f4aff8366738d9743b81605dc95f4b29c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1394248970171322378",
+      "texto_sha256": "e1ded2d7e9ade701abc96450ba8610fff152944fd3296953f70e8d043617dce2",
+      "adjuntos": []
+    },
+    {
+      "id": "1394251693172195369",
+      "fecha_utc": "2025-07-14T09:38:27.596000+00:00",
+      "fecha_local": "2025-07-14",
+      "editado_utc": "2025-07-14T09:42:14.226000+00:00",
+      "texto": "Osurai:\n\nLo sé, Banzo. Pero quién los estará organizando? \n\n**Ves que se pone al revés, como un murciélago, cojo el papelito y se vuelve a sentar bien en la rama**\n\nSi te refieres a investigar sobre los cultistas, seguiré con la investigación. Llevo ocupando mi tiempo en esos malnacidos desde que empezó a entrenar\n\n**Ves que lanza la piedra con una furia que deja la piedra incrustada en el árbol**",
+      "mensaje_sha256": "4f2725d3954df484b0abcdfe02bc9f5305f553a0c0754a1bcf04d5105aff052a",
+      "tipo_discord": 19,
+      "referencia": "1394248970171322378",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1394251693172195369",
+      "texto_sha256": "a2f48f483a504289537233c70c97b28bc2a5ce89c1170990b373ed66adc22594",
+      "adjuntos": []
+    },
+    {
+      "id": "1394256117013418004",
+      "fecha_utc": "2025-07-14T09:56:02.322000+00:00",
+      "fecha_local": "2025-07-14",
+      "editado_utc": "2025-07-14T09:56:58.731000+00:00",
+      "texto": "Banzo : Je **hace una leve sonrrisa viendo tu habilidad demostrada en  ese lanzamiento ** \nMis lanzamientos con la piedra han sido un poco lo que hemos estado haciendo hasta ahora.\nTiros sin sentido , acercándonos si . Pero sin llegar a nada. \nQuiero que el chico sea esa piedra . (La que tus has lanzado)\n**se separa del árbol y te mira ** \nY tu sombra quien ha de lanzarla . \nTrabajar juntos . Y estoy seguro que daremos con la cabeza de la serpiente . \nYa derrote a uno de sus generales...**hace una pausa recordando la abominación que fue Rua** \nNo me extrañaría que tuviese más.  \n**se aleja poco a poco en dirección al campamento **\n\nMás tarde recibiré un informe  sobre las montañas . Si hay algún  rastro y quieres ocuparte tu ven a buscarme . \n*vendrás amigo ...?*\n\nNo t quiero robar más tiempo . Parecías ocupado ..  \n**Mira en la dirección a la que mirabas **\ncon algo importante . \n**se aleja lento por si contestas poder oírte **",
+      "mensaje_sha256": "3e23626c5bcf21aec3cc8f3a44d2df8dee64f56e9f3559b2d0feed1ead5b2100",
+      "tipo_discord": 19,
+      "referencia": "1394251693172195369",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1394256117013418004",
+      "texto_sha256": "188f978118fa59229a4a0c0adf625ae66aaa0141fb86baf3f6f0633a2906d7ff",
+      "adjuntos": []
+    },
+    {
+      "id": "1394258486753497179",
+      "fecha_utc": "2025-07-14T10:05:27.312000+00:00",
+      "fecha_local": "2025-07-14",
+      "editado_utc": null,
+      "texto": "Osurai:\n\nSi vas al palacio, necesitais estar alerta. Yo estaré investigando aquí y vigilando las puertas. Cuando recibas esa información estaré en mi base.\n\n**Ves que se levanta y se queda de pie en la rama**",
+      "mensaje_sha256": "ace2c5d4a9e2ac6c8661b3a08d1b751255cb73e2ff3a911167ba8a634bc0a1b1",
+      "tipo_discord": 19,
+      "referencia": "1394256117013418004",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1394258486753497179",
+      "texto_sha256": "bbb847fd9db5f66817264623e406cdf5a7f269bd62db55d8b32f9c07c8d06ee3",
+      "adjuntos": []
+    },
+    {
+      "id": "1394260918254178307",
+      "fecha_utc": "2025-07-14T10:15:07.027000+00:00",
+      "fecha_local": "2025-07-14",
+      "editado_utc": null,
+      "texto": "Banzo : **Se aleja con el brazo en alto en señal de ,oído!**",
+      "mensaje_sha256": "2b0bab8c0ac7afaa6c956dc3ac0c0df487dfa8c04bc6e2da83feef506f44e90a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1394260918254178307",
+      "texto_sha256": "e1b1e8d0909c70e9e9ee0e967e216b6283400bf22b45a5f6bb4234c946f75feb",
+      "adjuntos": []
+    },
+    {
+      "id": "1394264001290047522",
+      "fecha_utc": "2025-07-14T10:27:22.080000+00:00",
+      "fecha_local": "2025-07-14",
+      "editado_utc": null,
+      "texto": "🔴 FIN DE LA ESCENA 🔴",
+      "mensaje_sha256": "ac0d3728691e51f1dda7c9c696e17907c33bdb3a94afacfc0e35210be986e02b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1394264001290047522",
+      "texto_sha256": "776a5af778b870b89da08c1173ed9efad5b08c79aabb5222072e6ca413e33a3c",
+      "adjuntos": []
+    }
+  ]
+}

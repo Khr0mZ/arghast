@@ -1,0 +1,180 @@
+{
+  "id": "x-1549169601684701335",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1549169601684701335",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "Naór cuida de Ilikar y lo invita a Aztlán",
+  "resumen": "Una pesadilla sobre su hermano da paso a una conversación de duelo, recuerdos familiares y una promesa de viajar juntos.",
+  "relato": "Ilikar sueña que guía a su hermano Ilikan por un lago helado del Valle Blanco. El viaje se transforma en una visión de hambre y mutilación familiar que lo despierta gritando. No hay noticia presente de que su hermano haya sufrido esos daños. Naór, que había llegado por indicación de Walulu tras enterarse del ataque a la aldea, lo cubre con una manta y se ofrece a cuidarlo.\n\nÉl acepta el abrazo y llama fantasmas del norte a lo soñado. Naór comparte la pérdida de su hermano mayor, al que en esta conversación llama Draktan, y la culpa de su padre por haber acogido extranjeros a quienes se atribuyó la enfermedad. Recuerda unas palabras de su madre sobre cómo la lucha constante puede convertir el descanso en otra batalla.\n\nIlikar pide entonces una historia alegre. Naór cuenta cómo liberó de niña a un raptor y obligó a su padre, Kamar Tarkuan, a perseguirlo de noche por los jardines del palacio. El castigo fue limpiar establos durante un mes. Entusiasmada, le propone visitar Aztlán aunque sus normas excluyan a los forasteros. Ilikar acepta si van juntos. La noche acaba entre recuerdos y cercanía bajo la manta; no se narra el viaje ni actos posteriores de intimidad.",
+  "participantes": [
+    "Ilikar",
+    "Naór",
+    "Ilikan"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1549169601684701335",
+      "afirmacion": "Ilikar despierta de una pesadilla sobre su hermano en el norte.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1549330141124235395",
+      "afirmacion": "Naór lo cubre con una manta y se ofrece a cuidarlo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1549475227812241511",
+      "afirmacion": "Naór recuerda la muerte infantil de su hermano y la culpa paterna.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1549496240721494067",
+      "afirmacion": "Identifica a su padre como Kamar Tarkuan y propone llevar a Ilikar a Aztlán.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1549502291516854455",
+      "afirmacion": "Ilikar acepta acompañarla.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Ilikan participa únicamente dentro de la pesadilla.",
+    "Hay variantes respecto de la conversación anterior: Draktar/Draktan, dos/tres años y Naór no nacida/bebé. Conservar la discrepancia hasta aclaración; no fijar una edad única.",
+    "El cargo de Kamar y la anécdota del raptor proceden del relato de Naór.",
+    "La cortina final implica intimidad sin describirla; no añadir actos concretos."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-09-14T21:26:55.221000+00:00",
+  "fin_utc": "2026-09-15T19:28:54.658000+00:00",
+  "fecha_local": "2026-09-14",
+  "intervalo": {
+    "anterior": 61,
+    "siguiente": 62,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1548030716158152747",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1550205538032422963",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 61,
+        "fecha": "2026-09-11",
+        "inicio_referencia_utc": "2026-09-11T18:00:47+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1548030716158152747"
+      },
+      {
+        "capitulo": 62,
+        "fecha": "2026-09-17",
+        "inicio_referencia_utc": "2026-09-17T18:01:47+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1550205538032422963"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1549169601684701335",
+      "fecha_utc": "2026-09-14T21:26:55.221000+00:00",
+      "fecha_local": "2026-09-14",
+      "editado_utc": "2026-09-15T01:22:23.817000+00:00",
+      "texto": "**El viento del norte aullaba con furia, arrancando trozos de escarcha y tragándose el sonido en el Valle Blanco. Sobre la costra de aquel lago helado, los pasos de Ilikar eran pesados, lentos y calculados al milímetro. Detrás de él, envuelto en un fardo de pieles y temblando, avanzaba su hermano pequeño.**\n\n**Ilikar clavaba la bota en la corteza con cautela, midiendo cada palmo del camino.**\n\nIlikar: Pisa donde pisa hermano, Ilikan. No desvíes pie. Hay ventisca hoy, rocas engañan ojos.\n\n*Ilikan*: Ya lo seee, hermano... Pisar donde pisas tú... - **balbuceó el chiquillo, arrastrando las botas sobre las huellas del gigante.**\n\n*Ilikan*: ¿Falta mucho para la tienda? Hace tanto frío... - **su voz sonó como la de un animal enfermo entre el vendaval** -  no siento los pies, Ilikar. Me queman por dentro...\n\nIlikar: Ya casi salimos del hielo, hermano. Resiste. La carne del refugio espera.\n\n*Ilikan*: ¿Crees que mamá ha vuelto a hacer sopa hoy? No quiero... No me gusta cuando hierve los huesos de padre. Saben agrios... y el caldo sale gris.\n\n**La ventisca enmudeció en seco, como si el propio aire se hubiese atragantado. La sangre de Ilikar se congeló. Tardó una eternidad en girar el cuello, negándose a aceptar lo que acababa de escuchar.**\n\n**Cuando sus ojos encontraron la silueta de Ilikan, el estómago se le encogió en una arcada.**\n\n**Aquello ya no era un niño. Era el despojo de una carnicería. Las pieles que lo cubrían estaban empapadas en una grasa rancia y oscura. A Ilikan le faltaban ambos brazos, de los hombros solo asomaban muñones carcomidos a dentelladas humanas, con las astillas de los húmeros pelados sobresaliendo entre carne viva y escarchada.**\n\n**Al alzar la cabeza, la mitad de su rostro ya no existía. La cuenca de su ojo izquierdo estaba vacía, hundiéndose en un agujero negro donde la mejilla había sido rebanada a cuchillo hasta dejar los dientes y la mandíbula al descubierto. Con el único labio que le quedaba, partido y tembloroso, forzó una sonrisa grotesca.**\n\n*Ilikan*: Mamá dijo que tú tardabas demasiado... Dijo que teníamos que alimentarnos para poder esperarte. Hoy me tocaban los dedos a mí, Ilikar...\n\n**El sonido del crujido fue seco, como el estallido de un tendón al romperse. Las grietas se abrieron bajo la superficie, y el grito desgarró el silencio como un trueno..**\n\nIlikar: ¡¡ILIKAN!! ¡¡HERMANO!! ¡¡ILIKAAAAAAN!!\n\n**El goliath se incorporó de golpe de forma violenta, lanzando un manotazo ciego al aire, en busca de su hermano...**\n\n**Solo había sido un mal sueño...**",
+      "mensaje_sha256": "956750d5e30c194d9f94dffe42ae2635a7300f54a97d3f075d4d1834b4e3971a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1549169601684701335",
+      "texto_sha256": "bb062284d473246d28559dc5f3b9a450ddd112e4283f0f55c0699459ab428486",
+      "adjuntos": []
+    },
+    {
+      "id": "1549330141124235395",
+      "fecha_utc": "2026-09-15T08:04:50.806000+00:00",
+      "fecha_local": "2026-09-15",
+      "editado_utc": null,
+      "texto": "Naór: \n**La leonina había llegado hacía un rato, siguiendo las indicaciones de Walulu. Le había dicho sobre 3l ataque a la aldea mientras ella estaba fuera con leo y que Ilikar estaba descansando en aquel lugar y, aunque en un principio solo pretendía asegurarse de que estuviera bien, terminó quedándose.\n\nNo había encontrado ninguna razón convincente para marcharse.\n\nAsí que se había sentado cerca, haciendo una hoguera mientras vigilaba de reoj al enorme goliath dormido.\n\nHasta que escuchó el grito.\n\nNaor se puso en pie inmediatamente.**\n\nIlikar...\n\n**Su voz salió mucho más suave de lo habitual.\nse acercó unos pasos, pero se detuvo antes de tocarlo. Lo observó durante un instante, con las orejas ligeramente inclinadas hacia atrás.\n\nNo sabía exactamente qué había soñado. Solo sabía que había sido algo horrible.\n\nAgarró una manta y se la paso por encima **\n\nEstas temblando ...\n\n**Después se sentó nuevamente junto a él. Esta vez, un poco más cerca.**\n\nWalulu me dijo que estabas aquí.\n\n**Una pequeña pausa.**\nPronto estaréis juntos ... \nTranquilo  \n**Naor volvió la vista hacia el fuego **\nSiempre cuidas de todos ...\nMe dejas que por esta vez te cuide yo a ti ? \n**apoya la cabeza en el hombro del goliat**",
+      "mensaje_sha256": "3d13320a2e577793d1b47e67374f9518e818077b70f118fad12caf608ee92f82",
+      "tipo_discord": 19,
+      "referencia": "1549169601684701335",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1549330141124235395",
+      "texto_sha256": "b56902ec763a80ef42971ef64d8b929ebaa6dc2bd674f453f4637db35d670a50",
+      "adjuntos": []
+    },
+    {
+      "id": "1549468968303984661",
+      "fecha_utc": "2026-09-15T17:16:29.785000+00:00",
+      "fecha_local": "2026-09-15",
+      "editado_utc": "2026-09-15T17:24:26.626000+00:00",
+      "texto": "**El goliath se quedó quieto durante un instante, al ver que delante de su mano no habia nada. La brisa aquella noche fue como un alivio, las palabras de Naor, como un fuego encendido ante aquella ventisca.**\n\n**Ilikar bajó la mirada hacia la manta que cubría sus hombros heridos y, muy despacio, sintió el peso suave de la cabeza de Naor apoyada contra él. El temblor de sus manos no se detuvo de inmediato, pero el aire por fin volvió a entrar en sus pulmones sin evenenarle.**\n\nIlikar: Solo eran fantasmas del norte... - **su voz sonó firme y pausada, habiendo recuperado el control** - pero ya se han ido.\n\n**Ilikar pasó su brazo por detras de la espalda de la leonina y apoyó su mano con cuidado sobre su hombro, abrazándola, y clavó la vista en las brasas.**",
+      "mensaje_sha256": "55ecfe23cb620e37f0be41ed31e87bc1374273b35e42d55f3c727fd314e4f19b",
+      "tipo_discord": 19,
+      "referencia": "1549330141124235395",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1549468968303984661",
+      "texto_sha256": "c7b5d0af81b5edc16763e0957ccfb6b88c8421862ef0636faa687fa4c51de207",
+      "adjuntos": []
+    },
+    {
+      "id": "1549475227812241511",
+      "fecha_utc": "2026-09-15T17:41:22.168000+00:00",
+      "fecha_local": "2026-09-15",
+      "editado_utc": "2026-09-15T17:44:00.222000+00:00",
+      "texto": "Naor: **no respondió inmediatamente.\nSintió el peso de la mano de Ilikar sobre su hombro y permaneció quieta, mirando las brasas. Durante unos segundos solo se escuchó el crepitar de la madera y el viento meciendo las palmeras de Iktan  **\nCuando era pequeña ... me encantaba escapar de palacio , pero padre siempre siempre me pillaba... \nParecía que nunca dormía.  \nEso fue desde que perdieron a mi hermano mayor . Draktan ... **ves que deja el hacha cerca del fuego , alguna vez la has escuchado llamar al hacha con ese nombre** \nYo aún era un bebé,  no lo conocí.  Se fue a los 3 añitos por una enfermedad que ... supuestamente trajo alguien del extranjero.  Mi padre fue quien le dio asilo a esa gente y ... bueno . Se culpa su muerte desde entonces  . \n\nEsto no lo entendí hasta pasados los años ... pero cuando le pregunte a madre , ella me dijo : \n\n\" cuando uno lleva demasiado tiempo luchando contra algo... llega un momento en que hasta descansar parece otra batalla.\"\n\nNo quiero que eso te pase a ti ... \n\n**te abraza fuerte **",
+      "mensaje_sha256": "444819b495a20fbb76271684c831cb55528a25a22db863359d4dfbaa444b74a3",
+      "tipo_discord": 19,
+      "referencia": "1549468968303984661",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1549475227812241511",
+      "texto_sha256": "f1d2252aff968f32e6a20337057f321ba61f4ab6aa5087bb4b712902fb80c3d2",
+      "adjuntos": []
+    },
+    {
+      "id": "1549487717635592205",
+      "fecha_utc": "2026-09-15T18:30:59.974000+00:00",
+      "fecha_local": "2026-09-15",
+      "editado_utc": null,
+      "texto": "**Ilikar escuchó en silencio. La historia de su padre y la culpa por el hermano perdido no le eran ajenas, entendía demasiado bien ese veneno. Cuando ella lo abrazó con fuerza, rodeó su espalda con un brazo enorme y firme, devolviéndole el calor del gesto sin perder la compostura.**\n\n**Dejó que el silencio volviera a asentarse un segundo. Luego, con una media sonrisa tranquila, rompió la pesadez del momento.**\n\nIlikar: Tu madre es una mujer sabia... - **su voz sonó aún mas tranquila**\n\n**Aflojó un poco el agarre para mirarla de reojo, con un brillo curioso y sereno en los ojos.**\n\nIlikar: Pero ya hemos hablado bastante de fantasmas y culpas por esta noche. Si te escapabas tanto de ese palacio... no creo que fuera solo para que te pillaran.\n\n**Ilikar ladeó la cabeza, acomodando mejor la manta sobre ambos.**\n\nIlikar: Cuéntame una buena historia de ese palacio, Naor. Algo tuyo.",
+      "mensaje_sha256": "24544cabfc93b7eeb3c7a44761a8a61d242f915309c5a5c0f7d5c485814cd839",
+      "tipo_discord": 19,
+      "referencia": "1549475227812241511",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1549487717635592205",
+      "texto_sha256": "dd0612b76d085b061b517d63e8d5c8153a36a14d92b5e20ebcf37e2ffed79158",
+      "adjuntos": []
+    },
+    {
+      "id": "1549496240721494067",
+      "fecha_utc": "2026-09-15T19:04:52.036000+00:00",
+      "fecha_local": "2026-09-15",
+      "editado_utc": "2026-09-15T19:15:16.942000+00:00",
+      "texto": "Naor: Bueno... alguna hay .\nCuando era pequeña, me encantaba colarme en la zona donde criaban a los raptores. Los que mas tamaño alcanzaban los utilizan como montura . Me fascinaban. Los soldados decían que eran animales peligrosos y que no debía acercarme a ellos sin supervisión.\nAsí que, naturalmente, una noche me colé.\n\n**Sonrió con cierta vergüenza.**\n Esperé a que cambiaran la guardia, salí de palacio por una ventana y crucé medio recinto sin que nadie me viera. Cuando llegué, había un raptor joven que siempre estaba separado de los demás.\nEra un pequeño desastre. Mordía todo lo que encontraba y no dejaba que nadie se acercara.\n\nDecidí que aquello significaba que necesitaba una amiga.\nAsí que abrí su recinto.\nSolo un poquito.\nEl problema fue que él decidió salir del todo.\n**ves que se incorpora y te empieza a contar la historia emocionada **\nRecuerdo correr por los establos detrás de él mientras media guardia intentaba atraparlo. Peró acabó entrando directamente en los jardines del palacio.\nY entonces apareció mi padre.\n**La sonrisa de Naor se hizo enorme. No deja de gesticular  y pone voz grabe de forma cómica **\nQuincuagésimo  primer rey de Aztlan. Kamar Tarkuan **se rie ** para verlo ...en mitad de la noche, descalzo,en calzones y con el pelo completamente revuelto... persiguiendo un raptor por los jardines.\n\n**Bajó la voz, imitando el tono de su padre.**\n\n \"Naor Tarkuan ven aquí ara mismo !\"\n\n**Volvió a su tono normal.**\nLo peor es que el raptor terminó escondiéndose detrás de mí.\n\nMi padre se quedó mirándonos a los dos durante unos segundos y dijo: **imita ese tono grabe** \"tanto te gustan ? pues  aprenderás a limpiar un establo\"\n**se ríe a carcajadas** \nAsí que estuve un mes limpiando mierda de raptores , pero valió la pena.\n\nIlikar **se acerca a ti emocionada y te coge de las manos ** \n\nQuiero llevarte ... \na la mierda la normas . \nQuiero que veas como es aquello . \n\nQuerrías... emmm... Te gustaría venir conmigo a Aztlan?",
+      "mensaje_sha256": "be1c7bc6851db888c6c49abe13d79bab9cfd229d3bd1a6d84578ee3fb434e347",
+      "tipo_discord": 19,
+      "referencia": "1549487717635592205",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1549496240721494067",
+      "texto_sha256": "d49b76c105cd6677d3ad7c426559b0954631274169521fbade65f264f45f832d",
+      "adjuntos": []
+    },
+    {
+      "id": "1549502291516854455",
+      "fecha_utc": "2026-09-15T19:28:54.658000+00:00",
+      "fecha_local": "2026-09-15",
+      "editado_utc": "2026-09-15T19:44:15.854000+00:00",
+      "texto": "**Naor contó su historia, e Ilikar apenas pudo apartar los ojos de ella. La miraba en silencio, fascinado por las emociones que mostraba, por el brillo en sus ojos y por como compartía esos recuerdos con él.**\n\n**Nunca habia visto a Naor reir con tantas ganas, sin miedos, y... por unos minutos, el peso que ambos cargaban se disolvió en el aire.**\n\n**Una risa ronca y contenida se le escapó al imaginar la escena de Naor y el rey, pero cuando naor se acercó y tomó sus manos, el gesto lo pilló totalmente desprevenido.**\n\n**Ilikar bajó la vista hacia sus manos. Sus dedos grises, cubiertos de callos y cicatrices, quedaron envueltos por la calidez de ella.**\n\nIlikar: Extrañas tu tierra, ¿verdad? - **dijo en un tono suave y tierno**\n\nNo sé si este bloque de piedra sabrá comportarse entre muros dorados y telas finas... pero si estás a mi lado... iré contigo. Me gustaría ver ese lugar del que vienes, princesa Naor.\n\n**Las horas pasaron entre risas cómplices, historias cruzadas y la calidez compartida de las brasas. Poco a poco, el frío del lago y las sombras de la pesadilla se fueron disolviendo en el aire del muelle, sepultados bajo la misma manta.**\n\n**Las palabras terminaron cediendo el paso al silencio, a las miradas lentas y... la noche se volvió demasiado íntima como para contarla.**\n\n🔴 FIN DE LA ESCENA🔴",
+      "mensaje_sha256": "4284809edab2db8654aadd39c994789f001b09b9dd26937be9d8409df404959e",
+      "tipo_discord": 19,
+      "referencia": "1549496240721494067",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1549502291516854455",
+      "texto_sha256": "e4605a724c76c5a0f9595c11fdec6e3c892d4f2848f8049530a666dc829e6228",
+      "adjuntos": []
+    }
+  ]
+}

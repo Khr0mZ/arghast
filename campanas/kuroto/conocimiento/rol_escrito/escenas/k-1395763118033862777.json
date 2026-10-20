@@ -1,0 +1,352 @@
+{
+  "id": "k-1395763118033862777",
+  "campana": "kuroto",
+  "unidad_revision": "k-1395681340422225960",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "La culpa de Seraphina",
+  "resumen": "Kazuki intenta acompañar a Sera tras su relato del control; Banzo plantea investigar el norte.",
+  "relato": "Seraphina sale dolorida y abatida del cuarto de Guxi, buscando alcohol. Explica a Kazuki que durante el ataque un esqueleto la controló: dice haber matado a una persona atravesándole el pecho y haber ido después contra Archi. Le pesa no haber protegido a sus compañeros y teme lo cerca que estuvo de convertirse en su enemiga. Kazuki intenta tranquilizarla, insiste en que actuó bajo control y se ofrece como amigo, pero ella no acepta consuelo en ese momento y abandona Sho para estar sola. El relato no identifica a la víctima.\n\nBanzo queda largo rato inmóvil mirando hacia la ciudad, inquieto por algo que no explica. Al reanudar el trabajo pregunta a Kazuki por el ataque desde el norte. Este considera posible una maniobra para dividir fuerzas y recuerda que perdió a su escuadrón cuando se separó durante la guerra, por lo que recomienda consultar a los responsables militares. Banzo decide buscar a Arwen y reunir un equipo para investigar el bosque, además de hablar con Jhin y Jelbreg. Los presentes se marchan sin que la expedición comience aquí.",
+  "participantes": [
+    "Seraphina",
+    "Kazuki",
+    "Banzo",
+    "Guxi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1395764355618046083",
+      "afirmacion": "Kazuki informa que la pesquisa sobre el impostor ha llegado a un callejón sin salida.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1395765314058457191",
+      "afirmacion": "Seraphina cuenta que fue controlada, mató a alguien y atacó a Archi.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1395775500244353034",
+      "afirmacion": "Sera rechaza participar ese día y abandona la base.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1395787849969700864",
+      "afirmacion": "Kazuki recomienda consultar a militares y recuerda la pérdida de su escuadrón al dividirse.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1395790012573945917",
+      "afirmacion": "Banzo se marcha a buscar a Arwen y preparar una investigación.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La readmisión de Guxi y su firma ocurren en escena; no equivalen a una confesión de Suichiro ni a una exoneración judicial.",
+    "Kalista aparece mencionada como shogun en este punto; su elección o investidura no se representa en estos mensajes.",
+    "Los sucesos del combate de Ukiyo se conservan como relatos de sus participantes. No se identifica a la víctima de Sera ni se concreta su edad.",
+    "El aparte «Todos mirando a Danifae» es una broma fuera del desarrollo narrativo; no coloca a Danifae en la habitación.",
+    "El presunto nigromante y la coordinación entre frentes son hipótesis discutidas, sin autor identificado.",
+    "La ausencia de Shirz no demuestra por sí misma captura o muerte."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-07-18T13:44:19.364000+00:00",
+  "fin_utc": "2025-07-18T16:34:52.941000+00:00",
+  "fecha_local": "2025-07-18",
+  "intervalo": {
+    "anterior": 139,
+    "siguiente": 140,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1395465783865512070",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1398002060905152542",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 139,
+        "fecha": "2025-07-17",
+        "inicio_referencia_utc": "2025-07-17T18:02:34+00:00",
+        "fin_estimado_utc": "2025-07-17T20:59:56+00:00",
+        "duracion_video_segundos": 10642,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1395465783865512070"
+      },
+      {
+        "capitulo": 140,
+        "fecha": "2025-07-24",
+        "inicio_referencia_utc": "2025-07-24T18:00:50+00:00",
+        "fin_estimado_utc": "2025-07-24T21:10:34+00:00",
+        "duracion_video_segundos": 11384,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1398002060905152542"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1395763118033862777",
+      "fecha_utc": "2025-07-18T13:44:19.364000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Seraphina: \n**Desperté bastante desanimada por lo que sucedió ayer, salí del \"Cuarto\" de Guxi con dolor, como si hubiese tenido moretones pero el pelo no lo permite ver**\n\nBuenos días...\n\n**Pasé de largo y empecé a buscar el licor que estuviera cerca, no quería estar consiente en estos momentos**",
+      "mensaje_sha256": "ecf1dce7d7dbbe95cc7f85cd6e8cd29a664a86788f4afb89316bed1416d5892c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1395763118033862777",
+      "texto_sha256": "7613a814e96c94144d8760a53268bad4e9d43b806b7c0f799346edffb29b8e83",
+      "adjuntos": []
+    },
+    {
+      "id": "1395764355618046083",
+      "fecha_utc": "2025-07-18T13:49:14.427000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Kazuki:\n\nMe temo que he llegado a un callejón sin salida, Banzo. \n\n**Dice un tanto apenado**\n\nPero seguiré investigando, aunque puedo hacerte un par de preguntas.\n\n**Comenta mientras le pasa esos tablones con dificultad, no es muy fuerte**\n\nHa ocurrido algo, señorita Longhop <@408026114548695061> ?\n\n**Cuestiona al mirar la moral de los demás**",
+      "mensaje_sha256": "8ae82e2f47e9e2ea71dac26a758cb213f2fd5a3e4b5867197735af0fc54b20ad",
+      "tipo_discord": 19,
+      "referencia": "1395758679994798230",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1395764355618046083",
+      "texto_sha256": "82e872301fc0b2959e57bd67f173e4a829d2db58374ddbc54a6cab54d5d10289",
+      "adjuntos": []
+    },
+    {
+      "id": "1395765314058457191",
+      "fecha_utc": "2025-07-18T13:53:02.937000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": "2025-07-18T13:53:15.563000+00:00",
+      "texto": "Seraphina:\n\nLo de ayer me dejó fatal Kazuki, un puto esqueleto me controló y... y... Mate a alguien... Le..le clavé mi puño por el pecho... Y.. y luego fui tras Archi... Yo... Yo no quería lastimarlo...\n\n**Empecé a agarrarme la cabeza**\n\nAlguien trae licor, sake o cualquier bebida embriagante?, necesito beber antes de que empiece a escuchar las voces...",
+      "mensaje_sha256": "3fa5a4e35eb32bd365730d2833bcbaa650e772ea51d9054436c091bda6348b93",
+      "tipo_discord": 19,
+      "referencia": "1395764355618046083",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1395765314058457191",
+      "texto_sha256": "facd49882d874d0ec5088d731a864c06356c5cf9c43e38c87c479311cdb63390",
+      "adjuntos": []
+    },
+    {
+      "id": "1395766285165396101",
+      "fecha_utc": "2025-07-18T13:56:54.467000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Kazuki:\n\n**Se sienta a un lado de la coneja, le acaricia la espalda suavemente**\n\nSe que es difícil pasar por eso. Pero aquí estamos para que te recuperes. \n\n**Comenta sonriendo para intentarla tranquilizar**\n\nPodría ir a la habitación de ese tanuki, yo ahora mismo no tengo nada de alcohol encima.",
+      "mensaje_sha256": "7c7f42cc34b4cee89fc87bceacb1bfcb64bd6da911a5466607a92bd2c6bb880a",
+      "tipo_discord": 19,
+      "referencia": "1395765314058457191",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1395766285165396101",
+      "texto_sha256": "cc010e15fe67ae3bab52d82f648df1a7e8cead8c9c2f39fd8e606c6b83bb3880",
+      "adjuntos": []
+    },
+    {
+      "id": "1395767062340571206",
+      "fecha_utc": "2025-07-18T13:59:59.760000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\nYa busqué en el cuarto del Tanuki, no tiene nada y si lo tiene... Lo tiene muy bien escondido \n\n**Suspiré apoyando mi espalda en la silla**\n\nHabía matado a monstruos, seres de otros lugares, pero eran malos... Nunca toqué alguna mujer o un niño, jamás en mi vida... Hasta... Hasta ayer...\n\n**Mantenía mi mirada hacia abajo**\n\nEl calor de su sangre en mi puño... Su mirada de pánico al acercarme...",
+      "mensaje_sha256": "51c9f6fb9cf19cfde2445f37cdb41153aa122e4462728de1071a0c32b633d55d",
+      "tipo_discord": 19,
+      "referencia": "1395766285165396101",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1395767062340571206",
+      "texto_sha256": "ffaa71f3f3fdea158e4acc9dd54e6080a2d1e692c8cae181daad23880a41c4a9",
+      "adjuntos": []
+    },
+    {
+      "id": "1395767608678154341",
+      "fecha_utc": "2025-07-18T14:02:10.017000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Kazuki:\n\nNo ha sido tu culpa, seguramente haya sido por el esqueleto. \n\n**Le mira sonriente pero se ve que está preocupado por ella mientras le coloca la mano en el hombro**",
+      "mensaje_sha256": "3c42003efdd087a4fab1dfd110dfbaf0008224e472ccb7cce496747495ad0979",
+      "tipo_discord": 19,
+      "referencia": "1395767062340571206",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1395767608678154341",
+      "texto_sha256": "ff0ef7fbf1933ac4e0786fb3205963571634ef0b1194b2a805749ed24086d123",
+      "adjuntos": []
+    },
+    {
+      "id": "1395768529890050058",
+      "fecha_utc": "2025-07-18T14:05:49.651000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\nCLARO QUE LO FUE!!\n\n**me levanté de golpe de mi asiento**\n\nNO HICE MAS QUE ESTORBAR!!, NO PUDE PROTEGER A GUXI, NO PUDE PROTEGER A ARCHI!!, MENOS MAL KUROBANE SE ALEJÓ A TIEMPO O TAMBIÉN LE HUBIESE HECHO ALGO!!\n\n**Mis ojos se empezaron a cristalizar y un nudo en mi garganta se estaba formando**\n\nEstuve a punto de ser parte de la perdición de ese lugar... Estuve a nada de... De ser su enemiga... QUÉ CLASE DE CAZADOR HARIA ALGO TAN CRUEL COMO ESO?!, QUIÉN SE ATREVERÍA A TRAICIONAR A SU PROPIO EQUIPO?!\n\n(**Todos mirando a Danifae**)",
+      "mensaje_sha256": "fff92749b5712702dd3cef32af32f5f5a24deb886abf0cde9f13a56b090eeb61",
+      "tipo_discord": 19,
+      "referencia": "1395767608678154341",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1395768529890050058",
+      "texto_sha256": "6f1f71ee5e8b23c705dbb8c5a177ea5b7b422c590d05dd54f5e5638ba22a865b",
+      "adjuntos": []
+    },
+    {
+      "id": "1395769354053881878",
+      "fecha_utc": "2025-07-18T14:09:06.147000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Kazuki:\n\nPero no fue por su culpa, te había controlado o algo parecido, como usted ha dicho. \n\n**Intenta acercarse lentamente para relajarla, se vería unos ojos de preocupación**",
+      "mensaje_sha256": "5e4d91585caa0a4cf3fd385c49e301accc8928cc40db7e93e4d5ba73284682cc",
+      "tipo_discord": 19,
+      "referencia": "1395768529890050058",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1395769354053881878",
+      "texto_sha256": "306af163e137b4b89dcca3d1af33490e227d0deeba977808492ae6e9c009060e",
+      "adjuntos": []
+    },
+    {
+      "id": "1395770837163839498",
+      "fecha_utc": "2025-07-18T14:14:59.748000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Seraphina: \n\nNo Kazuki, aún así... No hice nada... No pude resistirme, no hice nada \n\n**Le quité la mano de mi hombro**\n\nNo intentes alegrarme ahora, porque no lo vas a lograr, me disculpo contigo pero no quiero lastimarte a ti tampoco...",
+      "mensaje_sha256": "3095923663451e690561d133f9b58108033b1b5432730576fecdad79a5d7bdd8",
+      "tipo_discord": 19,
+      "referencia": "1395769354053881878",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1395770837163839498",
+      "texto_sha256": "b35c6016041605aaab27d1393883525d3fff88ebcca1235e2acf342b02650e97",
+      "adjuntos": []
+    },
+    {
+      "id": "1395772178858901596",
+      "fecha_utc": "2025-07-18T14:20:19.633000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": "2025-07-18T14:20:24.533000+00:00",
+      "texto": "Kazuki:\n\nYo elijo ayudarla, la considero una compañera y una amiga. Acepto las disculpas y quiero que sepa que seguiré aquí para apoyarla en lo que le pase. \n\n**Comenta seriamente y con una voz tensa, pero con un tono de preocupación**",
+      "mensaje_sha256": "1c4708ea9e7e180079b33703f3e5913ea80f5eaed84490f6c0e70311650dbe35",
+      "tipo_discord": 19,
+      "referencia": "1395770837163839498",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1395772178858901596",
+      "texto_sha256": "605e1b875aeedf825dbdb8da41b515dea97b482c59341240486e2b457d1c1339",
+      "adjuntos": []
+    },
+    {
+      "id": "1395775500244353034",
+      "fecha_utc": "2025-07-18T14:33:31.513000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": "2025-07-18T14:33:40.587000+00:00",
+      "texto": "Seraphina:\n\nSolo... Solo no me siento bien hoy, no les seré de mucha ayuda en estás condiciones, así que si tienen algo planeado, no cuenten conmigo está vez... Lo siento \n\n**Salí a paso lento de la base, no quería ver a nadie en ese momento, estaba completamente cabizbaja y sentí que no era justo contaminar a los demás de mi pésimo humor**\n\n🏴‍☠️ Seraphina sale de escena 🏴‍☠️",
+      "mensaje_sha256": "9c081c27417961ca16bcdb05e2c6d6aa8da668331de63706e87f8d8f8f8ace7d",
+      "tipo_discord": 19,
+      "referencia": "1395772178858901596",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1395775500244353034",
+      "texto_sha256": "d0a34adb0ccc75ccc8fbc9f858fa5877f8d48352aef14526a72abaa204b5c75a",
+      "adjuntos": []
+    },
+    {
+      "id": "1395783819373576303",
+      "fecha_utc": "2025-07-18T15:06:34.948000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": "2025-07-18T15:07:29.219000+00:00",
+      "texto": "Banzo : **para de trabajar y se queda mirando hacia fuera ensimismado. Pasados unos segundo se sienta en el suelo y respira acelerado , mira su caracola **\n*que ha sido eso .. deberia avisar?* \n\n**se levanta tras un instante,  o quizá unos segundos , no . La realidad es que banzo lleva asi quizá una hora mirando fijamente en una dirección concreta en la ciudad . **",
+      "mensaje_sha256": "adbe9520482a7e7fce25228fcfa3259991ed7466cacab73519f79e8f8408f52c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1395783819373576303",
+      "texto_sha256": "a1f4abb64db8c997cd17de136ecb50de76d802e536bd62431665ef4a94cb75bc",
+      "adjuntos": []
+    },
+    {
+      "id": "1395784253282713713",
+      "fecha_utc": "2025-07-18T15:08:18.400000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Kazuki:\n\nTodo bien, Banzo?\n\n**Pregunta serio mientras ves que se encuentra leyendo ese libro que sabes en que tiene sus hechizos**",
+      "mensaje_sha256": "973f5daae2206c683e7c9cb035d68c3661ac96ab398a2b6ece0d39836f87dd84",
+      "tipo_discord": 19,
+      "referencia": "1395783819373576303",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1395784253282713713",
+      "texto_sha256": "c13edcd3d9c870c75b02200bf6cfa23b1eb940b662cc1c8b87a2399f7b97ac12",
+      "adjuntos": []
+    },
+    {
+      "id": "1395784777302540350",
+      "fecha_utc": "2025-07-18T15:10:23.336000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Banzo: sisi. **coge el martillo y un tablon y sigue trabajando ** \nAndo un poco paranoico últimamente.  Que opinas del ataque Ukyio? Vinieron desde el norte esta vez .",
+      "mensaje_sha256": "3d17f1adac332af1ae85bb2040e85753f81a2d0acb20998b7f35cc09f97a8d0a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1395784777302540350",
+      "texto_sha256": "a57d3050d9a1372c70bcb6c77825f1b22066e356c0d3f900eadc6b4086dda699",
+      "adjuntos": []
+    },
+    {
+      "id": "1395785611465461760",
+      "fecha_utc": "2025-07-18T15:13:42.216000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Kazuki:\n\nNo se mucho, Banzo, creo que fueron, el señorito Kurobane, el señorito Archi, el señorito Guxi y la señorita Longhop. Creo que deberá preguntarle a esas personas.",
+      "mensaje_sha256": "29d8a6d8a2e1e3380a607540505d0735911f1edc768443fb0bbb18731481b410",
+      "tipo_discord": 19,
+      "referencia": "1395784777302540350",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1395785611465461760",
+      "texto_sha256": "7c1c8b778090582a9950f1afa7d6f6afc3cceb66e4483c913bd6ee6a534d2f53",
+      "adjuntos": []
+    },
+    {
+      "id": "1395786211133620345",
+      "fecha_utc": "2025-07-18T15:16:05.188000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Banzo : ya me han explicado.  Me refiero a que opinas de que ataquen por el norte . \nQuieren dividir los frentes ? \nPerdona que te pregunte tu has estado en la guerra verdad ?",
+      "mensaje_sha256": "812d0ff82289a5a84c46da2e77e3300ccd4f52a590712fba47c4392029c43a29",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1395786211133620345",
+      "texto_sha256": "9e9e92c1e083174cc61baf1dd9b96b5c89114cfeb53f8f528352bf31b4ddeb9c",
+      "adjuntos": []
+    },
+    {
+      "id": "1395787849969700864",
+      "fecha_utc": "2025-07-18T15:22:35.917000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Kazuki:\n\nSabiendo que están organizando a los demonios, muy posiblemente. Pero no lo recomiendo, y si he estado en la guerra. La vez que mi escuadrón se separó, terminaron con ellos. Pero yo creo que eso debe hablarlo con los generales o con Jhin o con la noble estratega.",
+      "mensaje_sha256": "e877384eaf28c736fd1fd464987287269eb79e15a679ef57f570e6e1c94e89bf",
+      "tipo_discord": 19,
+      "referencia": "1395786211133620345",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1395787849969700864",
+      "texto_sha256": "335378779cb625c45cd8c46845a0aa4232adc6997e3b98714ca5116cca8ca718",
+      "adjuntos": []
+    },
+    {
+      "id": "1395790012573945917",
+      "fecha_utc": "2025-07-18T15:31:11.522000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Banzo: creo que deberíamos investigar ese bosque . \nSi tienes razón kazuki lo hablaré con ellos \n**se aleja hacia la salida de la base ** *jelbreg sabrá algo de la nigromancia , después he de buscar a Arwen <@753394009153732689> no voy a ese bosque sin ella . Reunir un equipo e investigar* \nGracias Kazuki le diré a Jhin <@171702246952665098> \n\nNos vemos pronto voy a la ciudad y a buscar a arwen . Hace unos días que no la veo . \n\n🌭 Banzo sale de escena 🌭",
+      "mensaje_sha256": "a998463d2baeec77bc421a4b2828cb71edd62d4ec619356eaabb0d320e6cf9b9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1395790012573945917",
+      "texto_sha256": "f7d1ec53f5d2ca365ac74979caf9f14e5090d7b6d28046fafc5cac17389b2bb2",
+      "adjuntos": []
+    },
+    {
+      "id": "1395794606200717382",
+      "fecha_utc": "2025-07-18T15:49:26.728000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "🏹  Kazuki sale de escena 🏹",
+      "mensaje_sha256": "e0773e3db0b5b50767e251a499b373c0ef1e8dc77b63474e36bb2e5a634ae9d7",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1395794606200717382",
+      "texto_sha256": "49afd647352566f435f99c33ac0c249bbe8912096e57ee0907005a052ce15fe3",
+      "adjuntos": []
+    },
+    {
+      "id": "1395806040766939248",
+      "fecha_utc": "2025-07-18T16:34:52.941000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "🔩 guxi sale de escena",
+      "mensaje_sha256": "39fe0fb3adf33e7c01387378ec87b33bf52c7c84400bc1b3d922cba933097afb",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1395806040766939248",
+      "texto_sha256": "973997f4292859236c0dc13401d9ec8df0f3daaa9cdb3e616d129b26a1f41349",
+      "adjuntos": []
+    }
+  ]
+}

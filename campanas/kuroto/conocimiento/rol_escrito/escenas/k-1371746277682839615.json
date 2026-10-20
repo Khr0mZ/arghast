@@ -1,0 +1,78 @@
+{
+  "id": "k-1371746277682839615",
+  "campana": "kuroto",
+  "unidad_revision": "k-1370401463754428416",
+  "hilo_id": "1362071806441160834",
+  "hilo_nombre": "Base Ukyio - Sala principal",
+  "titulo": "Hayate busca la información de los shinobis",
+  "resumen": "Deja su templo para acudir a Ukyio.",
+  "relato": "Después de recibir a su hermano, Hayate abandona el templo y parte hacia Ukyio. Allí espera reunirse con los shinobis para obtener información que había solicitado. La fuente no incluye la reunión ni lo que descubrirá.",
+  "participantes": [
+    "Hayate"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1371746277682839615",
+      "afirmacion": "Hayate sale hacia una reunión con shinobis.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El primer rótulo hakahara es una localización fuera de personaje, sin nueva identidad.",
+    "No inventar motivos de Jhin ni el informe aún no recibido."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2025-05-13T07:09:58.413000+00:00",
+  "fin_utc": "2025-05-13T07:09:58.413000+00:00",
+  "fecha_local": "2025-05-13",
+  "intervalo": {
+    "anterior": 113,
+    "siguiente": 114,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1370105319824298084",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1372279071790338181",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 113,
+        "fecha": "2025-05-08",
+        "inicio_referencia_utc": "2025-05-08T18:29:07+00:00",
+        "fin_estimado_utc": "2025-05-08T20:45:14+00:00",
+        "duracion_video_segundos": 8167,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1370105319824298084"
+      },
+      {
+        "capitulo": 114,
+        "fecha": "2025-05-14",
+        "inicio_referencia_utc": "2025-05-14T18:26:52+00:00",
+        "fin_estimado_utc": "2025-05-14T21:26:47+00:00",
+        "duracion_video_segundos": 10795,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1372279071790338181"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1371746277682839615",
+      "fecha_utc": "2025-05-13T07:09:58.413000+00:00",
+      "fecha_local": "2025-05-13",
+      "editado_utc": null,
+      "texto": "**Templo Hayate:\nDespués de llegar su hermano, Hayate abandona el templo y se dirige a Ukyio, donde se reunirá con los shinobis para recibir cierta información que había solicitado anteriormente**",
+      "mensaje_sha256": "7a9c25f31ef4be46d3524c09e76ce97b5c4eb3d4572715dcebe79f837ef19ad7",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1371746277682839615",
+      "texto_sha256": "6f0e1367180597369f5a3bfbdc9beeadef7f581ebfa82e9d7ee85fc9d5a546b3",
+      "adjuntos": []
+    }
+  ]
+}

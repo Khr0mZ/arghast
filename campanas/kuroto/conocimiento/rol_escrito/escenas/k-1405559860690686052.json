@@ -1,0 +1,302 @@
+{
+  "id": "k-1405559860690686052",
+  "campana": "kuroto",
+  "unidad_revision": "k-1405559860690686052",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Kurobane ofrece enseñar armas a Seraphina",
+  "resumen": "Durante un paseo a la herrería, el ninja muestra preocupación y propone entrenar en la Base.",
+  "relato": "Kurobane acompaña a Seraphina hacia la herrería y pregunta por las flores que ha recibido. Ella identifica a Alaister y cuenta que la llevó hasta la Base después de salir del bar. El ninja le aconseja cautela por las noches y ofrece protegerla desde las sombras. Seraphina agradece su preocupación, aunque recuerda que todavía puede defenderse. En la herrería ella observa las armas y piensa en probar una espada para ampliar su experiencia. Kurobane sale con una ofrenda no descrita y, al oír su interés, se ofrece a enseñarle lo que sabe cuando vuelvan. Lleva dos estoques, uno oculto bajo la capa. Ella acepta la posibilidad, advirtiendo que puede fallar porque quiere experimentar. Como ninguno necesita hacer más recados, regresan juntos hacia la Base, con Seraphina todavía decaída. No se compra una espada ni se representa el entrenamiento.",
+  "participantes": [
+    "Kurobane",
+    "Seraphina"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1405560672544096398",
+      "afirmacion": "Seraphina cuenta que Alaister la acompañó desde el bar hasta la Base.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1405562972797010030",
+      "afirmacion": "Kurobane ofrece protegerla desde las sombras.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1405583074674212985",
+      "afirmacion": "Kurobane ofrece enseñarle y se describen sus dos estoques.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1405599651033383052",
+      "afirmacion": "Ambos deciden regresar a la Base.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Copito es el apelativo que Seraphina dirige a Kurobane; capitana Hopps se dirige a ella.",
+    "La ofrenda de Kurobane carece de descripción; no identificarla como arma, joya o regalo concreto."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-08-14T14:33:04.828000+00:00",
+  "fin_utc": "2025-08-14T17:26:47.080000+00:00",
+  "fecha_local": "2025-08-14",
+  "intervalo": {
+    "anterior": 144,
+    "siguiente": 145,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1403438861371310241",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1405610480659202078",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 144,
+        "fecha": "2025-08-08",
+        "inicio_referencia_utc": "2025-08-08T18:04:41+00:00",
+        "fin_estimado_utc": "2025-08-08T20:55:52+00:00",
+        "duracion_video_segundos": 10271,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1403438861371310241"
+      },
+      {
+        "capitulo": 145,
+        "fecha": "2025-08-14",
+        "inicio_referencia_utc": "2025-08-14T17:53:54+00:00",
+        "fin_estimado_utc": "2025-08-14T21:52:01+00:00",
+        "duracion_video_segundos": 14287,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1405610480659202078"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1405559860690686052",
+      "fecha_utc": "2025-08-14T14:33:04.828000+00:00",
+      "fecha_local": "2025-08-14",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\n**Se le veria al ninja paseando de la coneja <@408026114548695061>  en camino al herrero de Sho**\n\nY bien, quien es el afortunado que te da esas flores, capitana?\n\n**Lo ves relajado camindo a tu lado con las manos en la espalada**",
+      "mensaje_sha256": "c80ab5aea4412fee23eb5f93573d7969c82f57a1a859c3fd9a6edb2699f8b774",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1405559860690686052",
+      "texto_sha256": "b15599df4b791147309774dabc3894ec407933872721b4d01c1cc5766aafabf3",
+      "adjuntos": []
+    },
+    {
+      "id": "1405560672544096398",
+      "fecha_utc": "2025-08-14T14:36:18.389000+00:00",
+      "fecha_local": "2025-08-14",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Sonreí avergonzada**\n\nLo ví a medias cuando salí del bar ayer, Alaister, me acompañó hasta la base para que no me lastimara porque en verdad estaba por los suelos en cuanto salí",
+      "mensaje_sha256": "e607c974adc2b355715eca6c4ff03be3389ed7383a3e6a162e33465cca61c844",
+      "tipo_discord": 19,
+      "referencia": "1405559860690686052",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1405560672544096398",
+      "texto_sha256": "c0adb8f72b91509c20d4f0a2025dfb26505a350871284e4421da4c877701480e",
+      "adjuntos": []
+    },
+    {
+      "id": "1405561772072636488",
+      "fecha_utc": "2025-08-14T14:40:40.537000+00:00",
+      "fecha_local": "2025-08-14",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nDebe de tener un ojo cuando salga de noche, son bastante hostiles.\n\n**Dice serio pero encuentras en el preocupación y sabes que se refiere a aquella noche del esqueleto**",
+      "mensaje_sha256": "ec442abd34ab6a8aaa70cef95fe905b0085ec2fdb21d277f6f74c91e66684e20",
+      "tipo_discord": 19,
+      "referencia": "1405560672544096398",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1405561772072636488",
+      "texto_sha256": "707c58cfc1770f3c9e9217e36075b0436ede1d93e7aa3fbe8357d31120ad4c8b",
+      "adjuntos": []
+    },
+    {
+      "id": "1405562284943872030",
+      "fecha_utc": "2025-08-14T14:42:42.815000+00:00",
+      "fecha_local": "2025-08-14",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**En cuanto mencionó eso, me puse pálida y me quedé de pie por unos segundos, viendo flashazos en mi mente de todo lo que ocurrió**\n\nCreeme... No sé me olvida...\n\n**Sentí de nuevo esa presión en el pecho**",
+      "mensaje_sha256": "15f05b3e207973dfdea4401b2be41cc50d3921c05589cc31c2601c7a1ead2cfd",
+      "tipo_discord": 19,
+      "referencia": "1405561772072636488",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1405562284943872030",
+      "texto_sha256": "269c9b88a08e82749f101636fe5277bafecb0d16dcff9847f91f61894ed04f42",
+      "adjuntos": []
+    },
+    {
+      "id": "1405562972797010030",
+      "fecha_utc": "2025-08-14T14:45:26.812000+00:00",
+      "fecha_local": "2025-08-14",
+      "editado_utc": "2025-08-14T14:51:02.321000+00:00",
+      "texto": "Kurobane:\n\n**Notas que el ninja se te coloca delante**\n\nActuaré entre las sombras para protegerla\n\n**Sus palabras son cálidas y sinceras, notas que no hay mentira solo un sentimiento de \"luz\" dentro de la oscuridad que porta**",
+      "mensaje_sha256": "603e96367e7f96a0aab7cbb08b08d526dc9b98f9dff1a01089f6142a4801dd62",
+      "tipo_discord": 19,
+      "referencia": "1405562284943872030",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1405562972797010030",
+      "texto_sha256": "beb5044aadb64f0b70a9c51a437d67a1c881215c9cd600a0728824f26c9c71c3",
+      "adjuntos": []
+    },
+    {
+      "id": "1405578690435485799",
+      "fecha_utc": "2025-08-14T15:47:54.189000+00:00",
+      "fecha_local": "2025-08-14",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\nJajajaja, que lindo eres Copito, pero aún puedo dar golpes, en el momento que no pueda, tu lo sabrás \n\n**Le sonreí con normalidad, agradeciéndole la preocupación**\n\nTodo va a mejorar, ya lo verás",
+      "mensaje_sha256": "1d0490f233ecafd6e871bcc9fadba266276156a982b7d4ba4c7da2cacb507027",
+      "tipo_discord": 19,
+      "referencia": "1405562972797010030",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1405578690435485799",
+      "texto_sha256": "06c1473791b95f85fe59792f5d2820395162bba96ff0eb63e024d53f4ecb6c80",
+      "adjuntos": []
+    },
+    {
+      "id": "1405579311569698869",
+      "fecha_utc": "2025-08-14T15:50:22.279000+00:00",
+      "fecha_local": "2025-08-14",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nEso espero. \n\n**Dice sonriente pero ves que sin darse cuenta se coloca la mano en la mitad del pecho y mira al cielo, para después seguir caminando hasta llegar al herrero**",
+      "mensaje_sha256": "3d49794285332fca983602c342dbef338519f27ec5e50bfaa05b7c02c1ebd0ee",
+      "tipo_discord": 19,
+      "referencia": "1405578690435485799",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1405579311569698869",
+      "texto_sha256": "7ab756300040b6d7d6b6ebb2970e73f95e3b182ece0c87e86d3fe83a230f7713",
+      "adjuntos": []
+    },
+    {
+      "id": "1405579982138245184",
+      "fecha_utc": "2025-08-14T15:53:02.155000+00:00",
+      "fecha_local": "2025-08-14",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\n**En cuanto llegamos con el herrero, me puse a observar todo lo que estaba a mi alrededor**\n\n**Me preguntaba si tendría la habilidad de manejar alguna espada o algún arma que pudiera funcionarme, no estaba inconforme con mis puños, pero sería interesante probar algo más**",
+      "mensaje_sha256": "35d17cbadfc7dad5c4d7bf678fd9f1ec2b26067e43bb29937e69df10eb143894",
+      "tipo_discord": 19,
+      "referencia": "1405579311569698869",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1405579982138245184",
+      "texto_sha256": "97da8e7fc96261dcc46767a5afc2826be14dae2aeea38f899af1853ceeb970e5",
+      "adjuntos": []
+    },
+    {
+      "id": "1405580744356659372",
+      "fecha_utc": "2025-08-14T15:56:03.882000+00:00",
+      "fecha_local": "2025-08-14",
+      "editado_utc": "2025-08-14T16:02:03.296000+00:00",
+      "texto": "Kurobane:\n\n**Después de un tiempo, ves que sale el ninja con una ofrenda**\n\nTodo bien, capitana Hopps? Disculpa la demora \n\n**Pregunta sonriente**",
+      "mensaje_sha256": "85731713a825e2716ca5a47bc8c1682c87cbcd30949469fee4a2597f202e3f5c",
+      "tipo_discord": 19,
+      "referencia": "1405579982138245184",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1405580744356659372",
+      "texto_sha256": "affce6ca419990c88fd880299501f52ac3d154a69a79af9fb0062e67b6af02c0",
+      "adjuntos": []
+    },
+    {
+      "id": "1405582612365316218",
+      "fecha_utc": "2025-08-14T16:03:29.250000+00:00",
+      "fecha_local": "2025-08-14",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\n**La voz de Kurobane hizo que saliera de mis pensamientos**\n\nSi, todo bien Copito, solo se me hizo interesante lo que hay ahí, probablemente un día me compre una espada o algo similar, estaría bien ampliar mi conocimiento en combate",
+      "mensaje_sha256": "9a2cbdf8b6d5f711c06973db1f87b76a956c1f6c6fe0b8b5cd05e31d16e9bf77",
+      "tipo_discord": 19,
+      "referencia": "1405580744356659372",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1405582612365316218",
+      "texto_sha256": "6cd31e02b6a62003f7156efb0591939bec74adfd4e61e9eced2460f5835cdbc9",
+      "adjuntos": []
+    },
+    {
+      "id": "1405583074674212985",
+      "fecha_utc": "2025-08-14T16:05:19.473000+00:00",
+      "fecha_local": "2025-08-14",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nSi quieres cuando volvamos a la base, te puedo enseñar lo que sé.\n\n**Dice sonriente mientras te puedes dar cuenta que va con dos estoques, uno se encuentra escondido debajo de la capa y el otro al otro lado**",
+      "mensaje_sha256": "8b2c91aaec8f73956c0129c244e29e2e40b8fb45cb34f4204e59ee62058e2435",
+      "tipo_discord": 19,
+      "referencia": "1405582612365316218",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1405583074674212985",
+      "texto_sha256": "f004710429feddfee37af3c2f4abbc076c37dfc376f802cda6c7ca99da784ddb",
+      "adjuntos": []
+    },
+    {
+      "id": "1405593140877983854",
+      "fecha_utc": "2025-08-14T16:45:19.443000+00:00",
+      "fecha_local": "2025-08-14",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\nMe parece bien, solo es para experimentar, no te defraudes si fallo jajaja\n\n**Sonreí tomándole del brazo**\n\nHay algo más que tengamos que hacer por estos rumbos?",
+      "mensaje_sha256": "7267d07a01c6a68ae511f8b1b8258bd1a0e28643e377822df7e3fa3d443f4ba2",
+      "tipo_discord": 19,
+      "referencia": "1405583074674212985",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1405593140877983854",
+      "texto_sha256": "706e5c7be2fcf5ce0adb15429af7fc9d9fb80397d50c4010959e8d3f64573fac",
+      "adjuntos": []
+    },
+    {
+      "id": "1405593787669151915",
+      "fecha_utc": "2025-08-14T16:47:53.650000+00:00",
+      "fecha_local": "2025-08-14",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nNo se preocupes si fallas, estoy para enseñarle\n\n**Ves que sonríe al sentir que le tomas del brazo**\n\nPor mi parte, no. Quiere hacer algo usted?\n\n**Comenta sonriente mientras niega con la cabeza**",
+      "mensaje_sha256": "85b2887c9171c868769d5e17e8b3e2f9cbc045e19ce4954b4b2560d317be8f71",
+      "tipo_discord": 19,
+      "referencia": "1405593140877983854",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1405593787669151915",
+      "texto_sha256": "82b19cb0359f2a898de3b479e0a9a595ffc7e6a19a7ee08eb7ea13059dc04831",
+      "adjuntos": []
+    },
+    {
+      "id": "1405598490888765520",
+      "fecha_utc": "2025-08-14T17:06:34.985000+00:00",
+      "fecha_local": "2025-08-14",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\nTampoco se me ocurre algo, estoy todavía decaída, así que tengo la mente en blanco \n\n**Me recargue en su hombro**\n\nHay que esperar a que algo bueno pase",
+      "mensaje_sha256": "46684d235339c050fca80aa7657f551e66fe267cff1618446c08f025f62a7aec",
+      "tipo_discord": 19,
+      "referencia": "1405593787669151915",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1405598490888765520",
+      "texto_sha256": "07cb9a021e285aa9762a9bd5ea0fd9bd07e2d05ca4eaf39fc769035e40a84ff1",
+      "adjuntos": []
+    },
+    {
+      "id": "1405599651033383052",
+      "fecha_utc": "2025-08-14T17:11:11.585000+00:00",
+      "fecha_local": "2025-08-14",
+      "editado_utc": "2025-08-14T17:13:19.407000+00:00",
+      "texto": "Kurobane:\n\nPues volvemos a la base. \n\n**Dice decidido mientras inclina la cabeza hacia el hombro donde se ha recargado la coneja y empezamos a caminar**",
+      "mensaje_sha256": "47ecc7408c4896a9945780b285466bded94d5edfbdeeba50d6de7dc315bec0f5",
+      "tipo_discord": 19,
+      "referencia": "1405598490888765520",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1405599651033383052",
+      "texto_sha256": "f388981711c30606320e5605ba0b2d1a8d95f5e15a70620126a22d15eeb367ba",
+      "adjuntos": []
+    },
+    {
+      "id": "1405603550364434583",
+      "fecha_utc": "2025-08-14T17:26:41.258000+00:00",
+      "fecha_local": "2025-08-14",
+      "editado_utc": null,
+      "texto": "🌘  Kurobane y Seraphina salen de escena 🏴‍☠️",
+      "mensaje_sha256": "3e7011ecabebea2ebee19effbe27e809945a3c32b94e8a0aa28dca5aa65c9373",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1405603550364434583",
+      "texto_sha256": "5ee7fa4ac7809ae97380b49f08a752c33746964c6a0966170653527a929d5d04",
+      "adjuntos": []
+    },
+    {
+      "id": "1405603574783803453",
+      "fecha_utc": "2025-08-14T17:26:47.080000+00:00",
+      "fecha_local": "2025-08-14",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "181738303e088981c5970473c62a1be6e61da89c801ec56fdf2fe18f2e86bdc4",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1405603574783803453",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "k-1439354006517317773",
+  "campana": "kuroto",
+  "unidad_revision": "k-1439354006517317773",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Banzo y Seraphina hablan de guiar a Kurobane",
+  "resumen": "Los tres vuelven de los barrios bajos mientras discuten cómo ayudar al ninja a valorarse.",
+  "relato": "Banzo, Seraphina y Kurobane salen de los barrios bajos y cruzan unas calles vacías por el temor que sigue a una reciente oleada. El ninja se quita las vendas, dejando visibles grandes cicatrices de quemaduras, y evita las miradas. Banzo sostiene que no es tonto aunque haya elegido mal en ocasiones. Seraphina cree que necesita escuchar a alguien que lo ayude a reconocer su valor y no se considera la persona adecuada. El goliat acepta guiarlo, pero insiste en que el camino deberá recorrerlo él mismo. La conversación termina al acercarse a la Base. No se describe cómo sufrió las quemaduras ni una resolución de sus problemas.",
+  "participantes": [
+    "Banzo",
+    "Seraphina",
+    "Kurobane"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1439357336769532017",
+      "afirmacion": "Kurobane retira vendas y muestra cicatrices de quemaduras.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1439361714180198540",
+      "afirmacion": "Seraphina cree que el ninja necesita ayuda para reconocer su valor.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1439369041541337310",
+      "afirmacion": "Banzo ofrece guiarlo sin sustituir su propio esfuerzo.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "La escena continúa una conversación previa de los barrios bajos; no reconstruir sus hechos solo por estas conclusiones."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-11-15T20:38:57.058000+00:00",
+  "fin_utc": "2025-11-15T21:54:28.011000+00:00",
+  "fecha_local": "2025-11-15",
+  "intervalo": {
+    "anterior": 167,
+    "siguiente": 168,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438607930604781589",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 167,
+        "fecha": "2025-11-13",
+        "inicio_referencia_utc": "2025-11-13T19:14:04+00:00",
+        "fin_estimado_utc": "2025-11-13T22:25:02+00:00",
+        "duracion_video_segundos": 11458,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438607930604781589"
+      },
+      {
+        "capitulo": 168,
+        "fecha": "2025-11-20",
+        "inicio_referencia_utc": "2025-11-20T19:03:40+00:00",
+        "fin_estimado_utc": "2025-11-20T22:00:36+00:00",
+        "duracion_video_segundos": 10616,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida."
+  },
+  "fuentes": [
+    {
+      "id": "1439354006517317773",
+      "fecha_utc": "2025-11-15T20:38:57.058000+00:00",
+      "fecha_local": "2025-11-15",
+      "editado_utc": null,
+      "texto": "Banzo: el chico no es tonto .  \nNo ha tomado las mejores decisiones es cierto...\n pero quien le puede decir nada a un tuerto en un país de ciegos . <@408026114548695061> \n**salen de los barrios bajos y camina por las calles vacías de la capital,  el miedo de la última oleada aun perdura **",
+      "mensaje_sha256": "a55bf6200e9141c3e5dd1d0ffe84c551600e901ae95d0936b3cf8e8460194ee9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1439354006517317773",
+      "texto_sha256": "a53f5ae5ffd92cd6a65fdf9191ecd2d3a055ad8496379c6e633d1632f523320f",
+      "adjuntos": []
+    },
+    {
+      "id": "1439357336769532017",
+      "fecha_utc": "2025-11-15T20:52:11.052000+00:00",
+      "fecha_local": "2025-11-15",
+      "editado_utc": "2025-11-15T20:55:23.079000+00:00",
+      "texto": "Kuro:\n\n**Veis que poco a poco se va quitando los vendajes de las curas y se ven unas cicatrices grandes por las quemaduras, veis que no hay dolor en su vista por quitárselas, sigue en silencio, cuando le miráis os evade la mirada**\n\n<@408026114548695061>",
+      "mensaje_sha256": "f86cde2f2a5e02afb5fec88a3f5b56ee33499ec5a6eb7e6c2b80f108b990bb4a",
+      "tipo_discord": 19,
+      "referencia": "1439354006517317773",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1439357336769532017",
+      "texto_sha256": "c9ce202b45fb54290e8867e5c393cda292ea00dd453b185b8af9f5913b329d2d",
+      "adjuntos": []
+    },
+    {
+      "id": "1439361714180198540",
+      "fecha_utc": "2025-11-15T21:09:34.708000+00:00",
+      "fecha_local": "2025-11-15",
+      "editado_utc": null,
+      "texto": "Seraphina:\nYo sé que no lo es, solo que a veces hay que hacerselo saber, le cuesta trabajo darse cuenta de lo que vale\n\n**Miraba todo alrededor, el silencio era sofocante y las calles vacías provocaban frío**\n\nEl necesita escuchar a alguien de valor y yo no soy la indicada para eso",
+      "mensaje_sha256": "714696741c4231f7a2ad809297993561342c8f447546a4049f027cdce9582047",
+      "tipo_discord": 19,
+      "referencia": "1439354006517317773",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1439361714180198540",
+      "texto_sha256": "2c5ef66f9e7e4fe5ba35a91ae6f9200bf59971b48f765c3979b2df37a677a661",
+      "adjuntos": []
+    },
+    {
+      "id": "1439369041541337310",
+      "fecha_utc": "2025-11-15T21:38:41.687000+00:00",
+      "fecha_local": "2025-11-15",
+      "editado_utc": null,
+      "texto": "Banzo: **aunque camina mirando al frente podrías ver que le da vueltas a lo que has dicho ** \n\nEs algo que ha de descubrir el solo . \nLe guiaré, pero el camino lo ha de recorrer el .",
+      "mensaje_sha256": "895df9231f983bcf6ddb8fe1e6705e5f1698be85c04c6350fbc72419d17d6c51",
+      "tipo_discord": 19,
+      "referencia": "1439361714180198540",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1439369041541337310",
+      "texto_sha256": "986e5b84f2ba23b84d024d6bea0f9536669281e2c68d2eff0848c376782f8a5c",
+      "adjuntos": []
+    },
+    {
+      "id": "1439370647263248525",
+      "fecha_utc": "2025-11-15T21:45:04.521000+00:00",
+      "fecha_local": "2025-11-15",
+      "editado_utc": null,
+      "texto": "Seraphina:\nEstá bien, está bien, ya lo entendí \n\n**Rodeé los ojos**\n\nEl tiene que descubrirlo, entonces vamos metiendo prisa",
+      "mensaje_sha256": "26c572edaca509e17706fdebed3c40e981c51b47620bfca9c576b446f0c544e7",
+      "tipo_discord": 19,
+      "referencia": "1439369041541337310",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1439370647263248525",
+      "texto_sha256": "4f48705ea56a99a3efe35d01841a723be712e3f8fe93f7ab79ac3e3a989f3ac1",
+      "adjuntos": []
+    },
+    {
+      "id": "1439372248795582697",
+      "fecha_utc": "2025-11-15T21:51:26.356000+00:00",
+      "fecha_local": "2025-11-15",
+      "editado_utc": null,
+      "texto": "Banzo : \nGrrrr ** gruñe sutilmente y se pone el yelmo ** \n**Mira de reojo a kurobane pensando en lo que le ha dicho Sera ** \n\nSi..\n\n**saliendo de la ciudad nos acercamos ya a la base de los cazadores **",
+      "mensaje_sha256": "b5bc6dc465d10822103a81e17923d9c4b29eedd39abda9244ff2ce1103be74ca",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1439372248795582697",
+      "texto_sha256": "92b482694c1a17762d2d49f98aeb66e325eef22d7bcb32175dad896f14c8532e",
+      "adjuntos": []
+    },
+    {
+      "id": "1439373010711740447",
+      "fecha_utc": "2025-11-15T21:54:28.011000+00:00",
+      "fecha_local": "2025-11-15",
+      "editado_utc": null,
+      "texto": "🔴  FIN DE ESCENA 🔴",
+      "mensaje_sha256": "bb30921a175f273ec6fe492c1b6de3455e38318c292aac96d1587ef80dfbee0f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1439373010711740447",
+      "texto_sha256": "bf7bb428dc62bc04ad4f3599c47e751a2f425559cadabfba666d1fe38caf33e0",
+      "adjuntos": []
+    }
+  ]
+}

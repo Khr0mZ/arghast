@@ -1,0 +1,300 @@
+{
+  "id": "k-1442655425441828874",
+  "campana": "kuroto",
+  "unidad_revision": "k-1442655425441828874",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "El dibujo de un Kuroto anterior",
+  "resumen": "Sera busca un testigo local para entender una visión de yokais y barcos; Jhin le propone consultar a Guxi.",
+  "relato": "Seraphina vuelve a Sho perturbada por lo que vio al retirar un objeto a un Guardián. Dibuja como puede a una figura situada sobre una montaña y se pregunta quién es y qué ocurrió en Kuroto. Jhin regresa cansado y se sienta a su lado; ella, absorta, tarda en advertir su presencia. Cuando pide hablar con alguien nacido en la isla, él propone a Guxi, uno de los pocos Cazadores locales según explica.\n\nSera comparte la imagen que la inquieta: un Kuroto lleno de vida, donde los yokais vivían en armonía junto a aquel ser, seguido de la llegada de barcos. Se pregunta si alguien conquistó una tierra que les pertenecía. Jhin admite que la historia no es su especialidad y recomienda investigar, consultar a Guxi o buscar en la religión de la isla. Sus obligaciones con el ejército le impiden sumarse de inmediato, pero deja su ayuda disponible en el sur y se retira a descansar. Sera permanece frente al dibujo, preocupada, y recuerda también que Wukong la ayudó a elevarse cuando caía; decide que deberá agradecerle ese gesto. No identifica a la figura ni confirma la hipótesis de conquista.",
+  "participantes": [
+    "Seraphina",
+    "Jhin"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1442655425441828874",
+      "afirmacion": "Sera dibuja la figura de una visión obtenida al retirar un objeto al Guardián.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1442660685170610307",
+      "afirmacion": "Jhin recomienda consultar a Guxi como persona originaria de Kuroto.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1442662603787604160",
+      "afirmacion": "Sera relata una visión de convivencia de yokais seguida de la llegada de barcos.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1442663819217207307",
+      "afirmacion": "Sera plantea como pregunta una posible conquista de la isla.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1442664209778475159",
+      "afirmacion": "Jhin ofrece apoyo desde el sur, condicionado por su trabajo militar.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1442666399981109349",
+      "afirmacion": "Sera recuerda en privado la ayuda de Wukong durante una caída.",
+      "tipo": "pensamiento"
+    }
+  ],
+  "notas": [
+    "La visión y su significado siguen bajo interpretación de Sera; no se identifica al personaje dibujado ni se confirma una historia completa de colonización.",
+    "No se representa aquí la retirada del objeto ni el rescate durante la caída; son recuerdos del personaje.",
+    "La recomendación de Jhin no equivale a una investigación terminada ni a información ya obtenida de Guxi."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-11-24T23:17:36.667000+00:00",
+  "fin_utc": "2025-11-25T00:01:13.201000+00:00",
+  "fecha_local": "2025-11-25",
+  "intervalo": {
+    "anterior": 169,
+    "siguiente": 170,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1442596662206922943",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1443679606723838074",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 169,
+        "fecha": "2025-11-24",
+        "inicio_referencia_utc": "2025-11-24T19:23:51+00:00",
+        "fin_estimado_utc": "2025-11-24T22:32:50+00:00",
+        "duracion_video_segundos": 11339,
+        "tipo_referencia": "aviso_de_contraste",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1442596662206922943"
+      },
+      {
+        "capitulo": 170,
+        "fecha": "2025-11-27",
+        "inicio_referencia_utc": "2025-11-27T19:07:07+00:00",
+        "fin_estimado_utc": "2025-11-27T22:32:48+00:00",
+        "duracion_video_segundos": 12341,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1443679606723838074"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida. Una hora tomada de un aviso con título discrepante se utiliza solo como referencia aproximada de ese día."
+  },
+  "fuentes": [
+    {
+      "id": "1442655425441828874",
+      "fecha_utc": "2025-11-24T23:17:36.667000+00:00",
+      "fecha_local": "2025-11-25",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Llegué hasta la base, estaba inmersa en mis pensamientos y en lo que había visto al momento de retirarle aquel objeto al Guardian**\n\n**Me recargué sobre la mesa tomándome de la cabeza**\n\n*Qué mierda fue lo que hicieron?, necesito hablar con alguien de aquí, necesito saber la verdad...*\n\n**Me levantaba de golpe y tomé una hoja y un lápiz y empecé a dibujar a aquel ser que estaba encima de la montaña, al menos con mis muchas o nulas habilidades de dibujo**\n\nQuién eres?...\n\n**Me quedé viendo el dibujo por varios minutos**",
+      "mensaje_sha256": "99a5e1d7a7095ba71e75e5f8d0bef00eff767631dd69f07f41a7fce0498c4d44",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442655425441828874",
+      "texto_sha256": "399b76da5d6e03b9e79cb9863973fb03c72764fedbf5864ec748c309c2758420",
+      "adjuntos": []
+    },
+    {
+      "id": "1442656730935853088",
+      "fecha_utc": "2025-11-24T23:22:47.921000+00:00",
+      "fecha_local": "2025-11-25",
+      "editado_utc": "2025-11-24T23:23:27.734000+00:00",
+      "texto": "Jhin:\n**Volvía después de un rato crujiendose la espalda**\nDios mío que cansancio \nAh hola seraphina como estás?",
+      "mensaje_sha256": "cea1d2b0802501c1ae685d7a247d115f4cac2c282db17f5b6036196ea4a273a4",
+      "tipo_discord": 19,
+      "referencia": "1442655425441828874",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442656730935853088",
+      "texto_sha256": "2654626b9b38c7c78a052ce5acd73ada1c07be7f002ecf6cee9e435691fff04c",
+      "adjuntos": []
+    },
+    {
+      "id": "1442659512824762459",
+      "fecha_utc": "2025-11-24T23:33:51.175000+00:00",
+      "fecha_local": "2025-11-25",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**No hice caso a su saludo, seguía viendo el dibujo mientras que mis dedos chocaban contra la mesa**\n\nCuál es el secreto?, qué fué lo que pasó?, quién es?...",
+      "mensaje_sha256": "ffc2c5952d139407e307828952f901d06c2d345c1032866812b1f18cb6d6bfe9",
+      "tipo_discord": 19,
+      "referencia": "1442656730935853088",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442659512824762459",
+      "texto_sha256": "cb128350d4dbf083db99ea1f2ee5a353482cb2ffa8fd7a5b9ee2298a48d402ed",
+      "adjuntos": []
+    },
+    {
+      "id": "1442659720862236844",
+      "fecha_utc": "2025-11-24T23:34:40.775000+00:00",
+      "fecha_local": "2025-11-25",
+      "editado_utc": null,
+      "texto": "Jhin:\n**Se sentó al lado suya sin hacer mucho ruido intentando ver que estába haciendo**",
+      "mensaje_sha256": "657205b1a4df2c26ba38eb5da1917908a7b458e639b318be2c819f95d2b2cf4b",
+      "tipo_discord": 19,
+      "referencia": "1442659512824762459",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442659720862236844",
+      "texto_sha256": "4e4be63f166f530c3eb02015f56e62c23f9b3f1f5e6da766acd0a58f9ede6dbb",
+      "adjuntos": []
+    },
+    {
+      "id": "1442660412234534984",
+      "fecha_utc": "2025-11-24T23:37:25.611000+00:00",
+      "fecha_local": "2025-11-25",
+      "editado_utc": null,
+      "texto": "Seraphina:\nEs que esto no puede estar pasando... Por qué ví eso?\n\n**Seguía chocando mis dedos en la mesa**\n\nNecesito a alguien de aquí... Alguien que haya nacido aquí",
+      "mensaje_sha256": "bf038dba7362da5dc555e427018bbc5aa63e37fc3f70a957771686cda4ec4c20",
+      "tipo_discord": 19,
+      "referencia": "1442659720862236844",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442660412234534984",
+      "texto_sha256": "40f9916b0b93e3eb07727c237fb3663da663621630f3d438c219c8bab220619a",
+      "adjuntos": []
+    },
+    {
+      "id": "1442660685170610307",
+      "fecha_utc": "2025-11-24T23:38:30.684000+00:00",
+      "fecha_local": "2025-11-25",
+      "editado_utc": null,
+      "texto": "Jhin:\nBueno si buscas gente local hay varios \nQuizá guxi te ayude es el de los pocos cazadores que son de kuroto",
+      "mensaje_sha256": "49a1a95a05b4216f331f683ef0e7555fdeb84f1efb39ab8b4de277fce3e933e2",
+      "tipo_discord": 19,
+      "referencia": "1442660412234534984",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442660685170610307",
+      "texto_sha256": "b7366ab9d4497076df30fbcf798f36afd1bff62f20f9ccc72ced2cca6b06c6c8",
+      "adjuntos": []
+    },
+    {
+      "id": "1442661230664880239",
+      "fecha_utc": "2025-11-24T23:40:40.740000+00:00",
+      "fecha_local": "2025-11-25",
+      "editado_utc": null,
+      "texto": "Seraphina:\nQUE CHING.... ah.. Jhin, no vuelvas a hacer eso!!\n\n**Puse mi mano sobre mi pecho, me había asustado**\n\nGuxi?\n\n**Mire a Jhin con una sonrisa en los labios**\n\nES VERDAD!!",
+      "mensaje_sha256": "9564b04273453383d1d9233b6cb8f6786542cae61e9aff01ab39cb129ab4feb5",
+      "tipo_discord": 19,
+      "referencia": "1442660685170610307",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442661230664880239",
+      "texto_sha256": "9d77377d642e0f4a77c87c24fb9d23fb0e8591b540790982cc7913f77a2fcf92",
+      "adjuntos": []
+    },
+    {
+      "id": "1442661519639707798",
+      "fecha_utc": "2025-11-24T23:41:49.637000+00:00",
+      "fecha_local": "2025-11-25",
+      "editado_utc": null,
+      "texto": "Jhin:\nPerdón que coste que salude \n**Le devuelve la sonrisa**\nEspero que te vaya bien yo voy a descansar un poco y vuelvo al sur que la situación es complicada",
+      "mensaje_sha256": "96972daead7105432d172d3878b5be397d802444b0db5627e9430e6a65acbe2b",
+      "tipo_discord": 19,
+      "referencia": "1442661230664880239",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442661519639707798",
+      "texto_sha256": "e7cb207e51ae348fc98a4fe5d75cd7e21f47e5967e833872d3e25222c0751c90",
+      "adjuntos": []
+    },
+    {
+      "id": "1442662603787604160",
+      "fecha_utc": "2025-11-24T23:46:08.118000+00:00",
+      "fecha_local": "2025-11-25",
+      "editado_utc": null,
+      "texto": "Seraphina:\nJhin... Algo no está bien \n\n**Señalé el dibujo**\n\nVi algo, un Kuroto lleno de vida, de alegría, los Yokais estaban felices y vivían en armonía y el estaba ahí... Pero luego llegaron Barcos",
+      "mensaje_sha256": "cf343bc0b7c356c54c866b4ce8e72ec604eaf1894ac4e69c950b945f8038a045",
+      "tipo_discord": 19,
+      "referencia": "1442661519639707798",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442662603787604160",
+      "texto_sha256": "a50fc61996dab78338f2d0b2485559d06c09e2bfe2410a6e736e22384a584b28",
+      "adjuntos": []
+    },
+    {
+      "id": "1442663165040263189",
+      "fecha_utc": "2025-11-24T23:48:21.931000+00:00",
+      "fecha_local": "2025-11-25",
+      "editado_utc": null,
+      "texto": "Jhin:\nNo se que decirte la historia no es mi fuerte \nPero a veces la historia es deformada quizá si guxi no resuelve tus dudas debas buscar en otro lugar la religión de este lugar está centrada en los yokais",
+      "mensaje_sha256": "d73171e2ca2d7ef7b18b47a6563e2b1bfeefb3ab435971fbd6607c95bf94bef3",
+      "tipo_discord": 19,
+      "referencia": "1442662603787604160",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442663165040263189",
+      "texto_sha256": "73b37be99999337d3ad8e1b5484f1cffc60b176b3b83eaee7de17a61dfd429d6",
+      "adjuntos": []
+    },
+    {
+      "id": "1442663819217207307",
+      "fecha_utc": "2025-11-24T23:50:57.899000+00:00",
+      "fecha_local": "2025-11-25",
+      "editado_utc": null,
+      "texto": "Seraphina:\nY si en verdad.. Kuroto era tierra de Yokais y alguien vino a conquistarlos?...\n\n**No le apartaba la mirada al dibujo**\n\nAlgo no está bien, Jhin... Algo no está bien",
+      "mensaje_sha256": "69656660314f6a803e966ba18ee96fff4364045a6e6280a9985e002996f52f83",
+      "tipo_discord": 19,
+      "referencia": "1442663165040263189",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442663819217207307",
+      "texto_sha256": "3acab481f377a6fcd4c1cfaf4d303017e65d74ae40a691dfebf48d15d4cd41c8",
+      "adjuntos": []
+    },
+    {
+      "id": "1442664209778475159",
+      "fecha_utc": "2025-11-24T23:52:31.016000+00:00",
+      "fecha_local": "2025-11-25",
+      "editado_utc": null,
+      "texto": "Jhin:\nHabrá que investigar pero yo estoy ahora mismo bastante atado con el ejercito\nSi necesitas algo estaré en el sur seraphina",
+      "mensaje_sha256": "908f4d0a11a8aa94093ea69fc964e8ae39e8551c3958ba927d0c5c82a800e814",
+      "tipo_discord": 19,
+      "referencia": "1442663819217207307",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442664209778475159",
+      "texto_sha256": "d8f7ae02602f9dfde6d7c888394b9878360aedd8061aebb53a80169fb2120e2e",
+      "adjuntos": []
+    },
+    {
+      "id": "1442664692907770027",
+      "fecha_utc": "2025-11-24T23:54:26.203000+00:00",
+      "fecha_local": "2025-11-25",
+      "editado_utc": null,
+      "texto": "Seraphina:\nGracias Jhin, yo seguiré un rato más aquí, necesito aclarar mis pensamientos \n\n**Me volví a sentar a mirar el dibujo**",
+      "mensaje_sha256": "3123ff7f79e299fa1d10a9c34a225d91faf2cd42d81cd80b6d353bb92e048ee1",
+      "tipo_discord": 19,
+      "referencia": "1442664209778475159",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442664692907770027",
+      "texto_sha256": "2123d4d2768734c430c380e39b55ea50d26ed680314ba0f4745edcde847e88a7",
+      "adjuntos": []
+    },
+    {
+      "id": "1442664877712736457",
+      "fecha_utc": "2025-11-24T23:55:10.264000+00:00",
+      "fecha_local": "2025-11-25",
+      "editado_utc": null,
+      "texto": "Jhin:\nEspero que te vaya bien seraphina \n**Se despide y se mete en su habitación a descansar un poco**",
+      "mensaje_sha256": "01a2278d9029945774e561545b6da284f31ab03bf3f2054fa10ddb504c542970",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442664877712736457",
+      "texto_sha256": "2edd332b42d7f129719901e28f1374502b8ef5e17b195193190ecd7710597cb5",
+      "adjuntos": []
+    },
+    {
+      "id": "1442664963234598913",
+      "fecha_utc": "2025-11-24T23:55:30.654000+00:00",
+      "fecha_local": "2025-11-25",
+      "editado_utc": null,
+      "texto": "⚔️ jhin sale de escena⚔️",
+      "mensaje_sha256": "0fa9733dd1f702661b71df0ab5e3884e09a0b08bfd19dd34af2cffaa07686cd1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442664963234598913",
+      "texto_sha256": "2fa50041b42fd61489206b41eab7d45b6b7fda060f5f91c3c9aad3ffea0793b2",
+      "adjuntos": []
+    },
+    {
+      "id": "1442666399981109349",
+      "fecha_utc": "2025-11-25T00:01:13.201000+00:00",
+      "fecha_local": "2025-11-25",
+      "editado_utc": "2025-11-25T00:04:14.898000+00:00",
+      "texto": "Seraphina:\n**No le aparté la vista al dibujo mientras que todo lo que pasó el día de hoy recorrió mi mente**\n\nTraidores... Por qué?..\n\n**Luego un pequeño pensamiento se cruzó en mi cabeza, la escena en dónde me estaba cayendo y Wukong me ayudó a elevarme, esto hizo que se erizara mi pelaje mientras hacía una mueca de disgusto pero mis mejillas estaban un poco rojas**\n\nPor los Dioses... Tengo que agradecerle también ese gesto, ojalá no vuelva a ocurrir \n\n🔴Fin de la escena 🔴",
+      "mensaje_sha256": "a128b0e59b742dcc675ede96cca7edb6860828b31bd40ab4c9bc165047690bcf",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442666399981109349",
+      "texto_sha256": "57e4adfdc727b02c12ae704fb8ec36feb3dcc603c16f152563749fa1ed22c9f7",
+      "adjuntos": []
+    }
+  ]
+}

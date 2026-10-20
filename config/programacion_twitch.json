@@ -1,0 +1,1222 @@
+{
+  "version": 1,
+  "zona_horaria": "Europe/Madrid",
+  "interpretacion_zona": "Zona asumida por el contexto del canal; no figura impresa en los calendarios.",
+  "criterio": "Programación prevista leída visualmente. No acredita por sí sola emisión realizada ni hora real de inicio.",
+  "archivo_original": {
+    "manifest_sha256": "bc225c053e3c7cb3e696b713672f51e1fa8e004813dafdfcaf363b82fc629baa",
+    "mensajes": 193,
+    "adjuntos_revisados": 43,
+    "completitud_imagenes": "43 de los 149 adjuntos, seleccionados por las ventanas de los 21 casos pendientes."
+  },
+  "fuentes": {
+    "1229357688580739183": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1229357688580739183",
+      "aviso_utc": "2024-04-15T09:08:33.319000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "941be50d4fb6132e6dfb937392a4984e2d0960fe209a7a49c26eedf97c589957",
+      "adjunto": {
+        "id": "1229357688291459163",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/046_1229357688580739183_1229357688291459163.png",
+        "sha256": "fee3f62e93ff6bd00c538d373c7935e393ce08b7dc7fb14091ba5617036b37f1"
+      },
+      "sesiones": [
+        {
+          "campana": "kuroto",
+          "capitulo": 7,
+          "fecha": "2024-04-16",
+          "hora": "20:30"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 8,
+          "fecha": "2024-04-17",
+          "hora": "20:30"
+        }
+      ]
+    },
+    "1231939871476678688": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1231939871476678688",
+      "aviso_utc": "2024-04-22T12:09:13.696000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "65f7e2dc6ba0b7146a9d4c5e64b5a91b19f818161b0811c12f1816d07ea1b8e1",
+      "adjunto": {
+        "id": "1231939871556505620",
+        "nombre": "Calendario_Semanal_22-28.png",
+        "archivo": "adjuntos/047_1231939871476678688_1231939871556505620.png",
+        "sha256": "7aa0a5a213144b92e35a5b2edd590b67a0e4ca6dcd259de1b08bf95100b78f2b"
+      },
+      "sesiones": [
+        {
+          "campana": "kuroto",
+          "capitulo": 9,
+          "fecha": "2024-04-23",
+          "hora": "20:30"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 10,
+          "fecha": "2024-04-24",
+          "hora": "20:30"
+        }
+      ]
+    },
+    "1234431410828480553": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1234431410828480553",
+      "aviso_utc": "2024-04-29T09:09:42.968000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "fffc93876c6b1707ee28c3dc8afd9d3f3e6455986815aca175df8139bc8799a8",
+      "adjunto": {
+        "id": "1234431410224369776",
+        "nombre": "Calendario_Semanal_29-5.png",
+        "archivo": "adjuntos/048_1234431410828480553_1234431410224369776.png",
+        "sha256": "2d448d3160319975cc9280849b66c47e8f73a90b8653f67ddf16431f4990a62c"
+      },
+      "sesiones": [
+        {
+          "campana": "kuroto",
+          "capitulo": 11,
+          "fecha": "2024-04-30",
+          "hora": "20:30"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 12,
+          "fecha": "2024-05-02",
+          "hora": "20:30"
+        }
+      ]
+    },
+    "1236991978651258940": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1236991978651258940",
+      "aviso_utc": "2024-05-06T10:44:29.910000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "d64eed6e2129094de54270ceab8551154a158d4023c56ce0b88fe35c8f7e456d",
+      "adjunto": {
+        "id": "1236991978328035428",
+        "nombre": "Calendario_Semanal_6-12.png",
+        "archivo": "adjuntos/049_1236991978651258940_1236991978328035428.png",
+        "sha256": "9b2cf34cfcf3b81f6ce269746bd0ca58bdfd6657b82a9358bbcaf37de6ea1ec8"
+      },
+      "sesiones": [
+        {
+          "campana": "kuroto",
+          "capitulo": 12,
+          "fecha": "2024-05-07",
+          "hora": "20:30"
+        }
+      ]
+    },
+    "1275141225053294603": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1275141225053294603",
+      "aviso_utc": "2024-08-19T17:15:59.031000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "523a2d8d6b0972ca2dd6a37cc5302c19feefc4c51474759e046e32abd7d4e7b3",
+      "adjunto": {
+        "id": "1275141224625606656",
+        "nombre": "Calendario_Semanal_19-25.png",
+        "archivo": "adjuntos/065_1275141225053294603_1275141224625606656.png",
+        "sha256": "2c8a311487c244d42f0a6aee4bf741fd8c5ae9a63c33d1e1edd69837d42c4410"
+      },
+      "sesiones": [
+        {
+          "campana": "kuroto",
+          "capitulo": 38,
+          "fecha": "2024-08-20",
+          "hora": "20:30"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 39,
+          "fecha": "2024-08-21",
+          "hora": "20:30"
+        }
+      ]
+    },
+    "1277618648642486294": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1277618648642486294",
+      "aviso_utc": "2024-08-26T13:20:22.843000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "1d7a6b8cdafa0fa965cd2b6f4bc8eff240ffb67a01aa63a4b3169c8b50235ca7",
+      "adjunto": {
+        "id": "1277618648516923502",
+        "nombre": "Calendario_Semanal_26-01.jpg",
+        "archivo": "adjuntos/066_1277618648642486294_1277618648516923502.jpg",
+        "sha256": "0b8236e09536b876e89240910d2f0f802640d87d9ad618665d1f82980825bf97"
+      },
+      "sesiones": [
+        {
+          "campana": "kuroto",
+          "capitulo": 40,
+          "fecha": "2024-08-26",
+          "hora": "20:30"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 41,
+          "fecha": "2024-08-27",
+          "hora": "20:30"
+        }
+      ]
+    },
+    "1280053378537492500": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1280053378537492500",
+      "aviso_utc": "2024-09-02T06:35:07.685000+00:00",
+      "editado_utc": "2024-09-21T10:16:25.465000+00:00",
+      "mensaje_sha256": "6bf48275d3a1223b6a4e2707d05655a98ce5eb0d06c3769e01a9421d48f7460e",
+      "adjunto": {
+        "id": "1280053378239430706",
+        "nombre": "Calendario_Semanal_02-08.jpg",
+        "archivo": "adjuntos/067_1280053378537492500_1280053378239430706.jpg",
+        "sha256": "ee60d86bd5aa7387ffce7833676a4b918f7ad985d1a21f2c943860670c7250fe"
+      },
+      "sesiones": [
+        {
+          "campana": "kuroto",
+          "capitulo": 42,
+          "fecha": "2024-09-02",
+          "hora": "20:30"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 43,
+          "fecha": "2024-09-03",
+          "hora": "20:30"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 44,
+          "fecha": "2024-09-04",
+          "hora": "20:30"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 45,
+          "fecha": "2024-09-05",
+          "hora": "20:30"
+        }
+      ]
+    },
+    "1282607529343451228": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1282607529343451228",
+      "aviso_utc": "2024-09-09T07:44:24.691000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "6b39232adc7942f567c3600efb8ae2ae6c7b36ef2d5fc78199ead0231095a8de",
+      "adjunto": {
+        "id": "1282607529108439040",
+        "nombre": "Calendario_Semanal_9-15.jpg",
+        "archivo": "adjuntos/068_1282607529343451228_1282607529108439040.jpg",
+        "sha256": "940568928c6b97ec0b5949f045b7ddb592dd7863233bc71f64027b1399c3677e"
+      },
+      "sesiones": [
+        {
+          "campana": "kuroto",
+          "capitulo": 45,
+          "fecha": "2024-09-09",
+          "hora": "20:30"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 46,
+          "fecha": "2024-09-11",
+          "hora": "20:30"
+        }
+      ]
+    },
+    "1285160254442573884": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1285160254442573884",
+      "aviso_utc": "2024-09-16T08:48:01.782000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "cbd72e6e89e2b796a686552008bd0317889c21c9635d37c6d44e026da8e3f915",
+      "adjunto": {
+        "id": "1285160254161817712",
+        "nombre": "Calendario_Semanal_19-22.jpg",
+        "archivo": "adjuntos/069_1285160254442573884_1285160254161817712.jpg",
+        "sha256": "b401c9057da039fcefcdd49808053a3cefce43c26acee1eb72b2abbfc8050e2d"
+      },
+      "sesiones": [
+        {
+          "campana": "kuroto",
+          "capitulo": 47,
+          "fecha": "2024-09-17",
+          "hora": "20:30"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 48,
+          "fecha": "2024-09-18",
+          "hora": "20:30"
+        }
+      ]
+    },
+    "1287675461807247442": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1287675461807247442",
+      "aviso_utc": "2024-09-23T07:22:33.948000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "334556a1003e27f08a211d253c510559e5dffa5473c69242653607db81e3aa1f",
+      "adjunto": {
+        "id": "1287675461970952224",
+        "nombre": "Calendario_Semanal_23-29.jpg",
+        "archivo": "adjuntos/070_1287675461807247442_1287675461970952224.jpg",
+        "sha256": "af7f8adf0e8fc22bb4cde1790f5c5ab46fc7be6836ac873c43e1a88f29dfaed7"
+      },
+      "sesiones": [
+        {
+          "campana": "kuroto",
+          "capitulo": 49,
+          "fecha": "2024-09-24",
+          "hora": "20:30"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 50,
+          "fecha": "2024-09-25",
+          "hora": "20:30"
+        }
+      ]
+    },
+    "1290205023376113674": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1290205023376113674",
+      "aviso_utc": "2024-09-30T06:54:08.423000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "1f91298cd7e5c6a76e273c8c963ab8dddc8c3f4c3f221670e6e2195b60520c73",
+      "adjunto": {
+        "id": "1290205022960750674",
+        "nombre": "Calendario_Semanal_30-06.png",
+        "archivo": "adjuntos/071_1290205023376113674_1290205022960750674.png",
+        "sha256": "af2fafa19e35c90c310a697fe8f9fb59d7a1d98c309524d2c772801559ac527c"
+      },
+      "sesiones": [
+        {
+          "campana": "kuroto",
+          "capitulo": 51,
+          "fecha": "2024-09-30",
+          "hora": "20:30"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 52,
+          "fecha": "2024-10-01",
+          "hora": "20:30"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 53,
+          "fecha": "2024-10-02",
+          "hora": "20:30"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 54,
+          "fecha": "2024-10-03",
+          "hora": "20:30"
+        }
+      ]
+    },
+    "1292727022279331872": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1292727022279331872",
+      "aviso_utc": "2024-10-07T05:55:39.818000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "db26bed5441e5fed72e7e7486b95fb111f985b6deddd43e0ab8c37a5d21c0b25",
+      "adjunto": {
+        "id": "1292727022036189246",
+        "nombre": "Calendario_Semanal_06-13.jpg",
+        "archivo": "adjuntos/072_1292727022279331872_1292727022036189246.jpg",
+        "sha256": "67a10106dc2ff9ec3301889e6e9d7f8f857572adc62ebf8e90de83dcf033c3b7"
+      },
+      "sesiones": [
+        {
+          "campana": "kuroto",
+          "capitulo": 55,
+          "fecha": "2024-10-09",
+          "hora": "20:30"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 56,
+          "fecha": "2024-10-10",
+          "hora": "20:30"
+        }
+      ]
+    },
+    "1295322984201982014": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1295322984201982014",
+      "aviso_utc": "2024-10-14T09:51:05.371000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "cca537ee04b9957be4aeca2b24bd46a73ab7a377f2dd3beb49e7ae56e3940ebc",
+      "adjunto": {
+        "id": "1295322983933673553",
+        "nombre": "Calendario_Semanal.jpg",
+        "archivo": "adjuntos/073_1295322984201982014_1295322983933673553.jpg",
+        "sha256": "5d287f34ab5a4cf668fd5f69dbbf6c3a6c40f436b02d68c7a12a81a1c2c55b45"
+      },
+      "sesiones": [
+        {
+          "campana": "kuroto",
+          "capitulo": 57,
+          "fecha": "2024-10-16",
+          "hora": "20:30"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 58,
+          "fecha": "2024-10-17",
+          "hora": "20:30"
+        }
+      ]
+    },
+    "1328339086381023274": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1328339086381023274",
+      "aviso_utc": "2025-01-13T12:25:17.540000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "5ec86e681eb82288ed910cfddd00f3392ea5fecbe4ffbc8caa8c0d58eb834757",
+      "adjunto": {
+        "id": "1328339086364377158",
+        "nombre": "Calendario_Semanal_13-19.png",
+        "archivo": "adjuntos/093_1328339086381023274_1328339086364377158.png",
+        "sha256": "ebd011b21b6e2f7ca03b167603ec87c8e75bf3391e90a984ac3ab53a703cd2f1"
+      },
+      "sesiones": []
+    },
+    "1330799874500722689": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1330799874500722689",
+      "aviso_utc": "2025-01-20T07:23:35.147000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "5c9e9ca1d82d0a48144bacafd91a3dabd3525e9aa0c8062956112425da3e1879",
+      "adjunto": {
+        "id": "1330799874177896490",
+        "nombre": "Calendario_Semanal_20-26.png",
+        "archivo": "adjuntos/094_1330799874500722689_1330799874177896490.png",
+        "sha256": "d4bcc24ee0af78a76ab84ed9be3936440d6f6fbfec38c66e2be04f8454e6e3bc"
+      },
+      "sesiones": [
+        {
+          "campana": "kuroto",
+          "capitulo": 81,
+          "fecha": "2025-01-22",
+          "hora": "20:30"
+        }
+      ]
+    },
+    "1333342133985345548": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1333342133985345548",
+      "aviso_utc": "2025-01-27T07:45:37.041000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "6a5304e71f981769f98d5de1623e92fea73e55cda787b1f5c292a520d48e416a",
+      "adjunto": {
+        "id": "1333342133695807518",
+        "nombre": "Calendario_Semanal_20-26.png",
+        "archivo": "adjuntos/095_1333342133985345548_1333342133695807518.png",
+        "sha256": "53cd54703f520016ce49e8b82eb43fb441afea940deea13950cfbfef0254490d"
+      },
+      "sesiones": []
+    },
+    "1358694267194839161": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1358694267194839161",
+      "aviso_utc": "2025-04-07T06:45:56.618000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "897abbd986ac7ef59092e4820f9ecb952c9ba7fdf25be098da8aaa3f40dba1df",
+      "adjunto": {
+        "id": "1358694266838454373",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/107_1358694267194839161_1358694266838454373.png",
+        "sha256": "9a41f37f2ac39f46be5fff291cc58c2a565d6a2dba93689052df887dbfc9f2c5"
+      },
+      "sesiones": [
+        {
+          "campana": "kuroto",
+          "capitulo": 99,
+          "fecha": "2025-04-08",
+          "hora": "20:30"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 100,
+          "fecha": "2025-04-09",
+          "hora": "20:30"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 101,
+          "fecha": "2025-04-10",
+          "hora": "20:30"
+        }
+      ]
+    },
+    "1361286459952332891": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1361286459952332891",
+      "aviso_utc": "2025-04-14T10:26:23.532000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "39cf8740c6908835aff2dde811457e6f8238213da809bef9def160c45318a16b",
+      "adjunto": {
+        "id": "1361286459662794834",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/108_1361286459952332891_1361286459662794834.png",
+        "sha256": "b6dbfc938dfc03dfd972ecfc15185af91ed3d6f886b5c3b77bab618ce80314ca"
+      },
+      "sesiones": [
+        {
+          "campana": "kuroto",
+          "capitulo": 102,
+          "fecha": "2025-04-14",
+          "hora": "20:30"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 103,
+          "fecha": "2025-04-15",
+          "hora": "20:30"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 104,
+          "fecha": "2025-04-16",
+          "hora": "20:30"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 105,
+          "fecha": "2025-04-17",
+          "hora": "20:30"
+        }
+      ]
+    },
+    "1363854954103832728": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1363854954103832728",
+      "aviso_utc": "2025-04-21T12:32:40.258000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "704798a376460aea705ed36537b82972a345ea08be0dbd36851ca25d12b2142c",
+      "adjunto": {
+        "id": "1363854953604448429",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/109_1363854954103832728_1363854953604448429.png",
+        "sha256": "f0aaa54124c49b0622f6c15631f3ddae4f7eaaad8c9e3f77e9a385b774adb706"
+      },
+      "sesiones": [
+        {
+          "campana": "kuroto",
+          "capitulo": 106,
+          "fecha": "2025-04-21",
+          "hora": "20:30"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 107,
+          "fecha": "2025-04-22",
+          "hora": "20:30"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 108,
+          "fecha": "2025-04-23",
+          "hora": "20:30"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 109,
+          "fecha": "2025-04-24",
+          "hora": "20:30"
+        }
+      ]
+    },
+    "1366320938869723199": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1366320938869723199",
+      "aviso_utc": "2025-04-28T07:51:36.842000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "065ba05df82c897152d858089f8d9e2bbfd9d76df10f64cdb4f4e033e30126a1",
+      "adjunto": {
+        "id": "1366320938903146567",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/110_1366320938869723199_1366320938903146567.png",
+        "sha256": "6b3f453b3fda760b3ca9179f008c8c237b3185614a8470b89e07bf250a684de3"
+      },
+      "sesiones": [
+        {
+          "campana": "kuroto",
+          "capitulo": 110,
+          "fecha": "2025-04-30",
+          "hora": "20:30"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 111,
+          "fecha": "2025-05-01",
+          "hora": "20:30"
+        }
+      ]
+    },
+    "1368988340686163968": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1368988340686163968",
+      "aviso_utc": "2025-05-05T16:30:54.993000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "f48008f3b74be7c44f99bf36bdc755e508a991a81d685cf9007e87e25cc79537",
+      "adjunto": {
+        "id": "1368988340052955350",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/111_1368988340686163968_1368988340052955350.png",
+        "sha256": "a2343fbd7fbb3f77909cf82a54c05fc532da85106b6203a9031e509c3ed8188a"
+      },
+      "sesiones": [
+        {
+          "campana": "kuroto",
+          "capitulo": 112,
+          "fecha": "2025-05-07",
+          "hora": "20:30"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 113,
+          "fecha": "2025-05-08",
+          "hora": "20:30"
+        }
+      ]
+    },
+    "1371601138415046739": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1371601138415046739",
+      "aviso_utc": "2025-05-12T21:33:14.515000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "c030cc9e2dc1d9f4fddaa0e351e414729008defd22f874c17c8010c76fe28617",
+      "adjunto": {
+        "id": "1371601138058661888",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/112_1371601138415046739_1371601138058661888.png",
+        "sha256": "dfa23ff9cabb2e1ad4dc8bc0d763075e7bfe2a5f6a0ea254df85e3bf17666ef5"
+      },
+      "sesiones": [
+        {
+          "campana": "kuroto",
+          "capitulo": 114,
+          "fecha": "2025-05-14",
+          "hora": "20:30"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 115,
+          "fecha": "2025-05-15",
+          "hora": "20:30"
+        }
+      ]
+    },
+    "1374299324820885625": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1374299324820885625",
+      "aviso_utc": "2025-05-20T08:14:52.284000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "7a9c6694e2f171d0366366e8b5f0d6634ba65667458e2703b1c47e73f5b37920",
+      "adjunto": {
+        "id": "1374299324787327017",
+        "nombre": "Calendario_Semanal-1.png",
+        "archivo": "adjuntos/113_1374299324820885625_1374299324787327017.png",
+        "sha256": "c02f44e5789b5647b5e727e8688ec33b6e0ab8343667ea19a4aee23a2a7455a3"
+      },
+      "sesiones": [
+        {
+          "campana": "kuroto",
+          "capitulo": 116,
+          "fecha": "2025-05-19",
+          "hora": "20:30"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 117,
+          "fecha": "2025-05-20",
+          "hora": "20:30"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 118,
+          "fecha": "2025-05-21",
+          "hora": "20:30"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 119,
+          "fecha": "2025-05-22",
+          "hora": "20:30"
+        }
+      ]
+    },
+    "1384154502873088112": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1384154502873088112",
+      "aviso_utc": "2025-06-16T12:55:49.832000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "076ba75afd305aff81f93fab6dbc134db45855a692c58c0b072d48f30959369c",
+      "adjunto": {
+        "id": "1384154502352998470",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/118_1384154502873088112_1384154502352998470.png",
+        "sha256": "111a2334d66993e0060f3a04a51b68c9cc7f99c2415618a31475d58337ec5b1f"
+      },
+      "sesiones": [
+        {
+          "campana": "kuroto",
+          "capitulo": 128,
+          "fecha": "2025-06-17",
+          "hora": "20:00"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 129,
+          "fecha": "2025-06-18",
+          "hora": "20:00"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 130,
+          "fecha": "2025-06-19",
+          "hora": "20:00"
+        }
+      ]
+    },
+    "1387027563213230221": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1387027563213230221",
+      "aviso_utc": "2025-06-24T11:12:20.796000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "0ae41672ec825262342cfa3bbb46553f489fa17da681fbdd9d95df16fdb24838",
+      "adjunto": {
+        "id": "1387027562685005947",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/119_1387027563213230221_1387027562685005947.png",
+        "sha256": "32808e27d1545907b2c190eb701d4f00f6d73ae56ae05dd96566c6f169c22cad"
+      },
+      "sesiones": [
+        {
+          "campana": "kuroto",
+          "capitulo": 131,
+          "fecha": "2025-06-24",
+          "hora": "20:00"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 132,
+          "fecha": "2025-06-26",
+          "hora": "20:00"
+        }
+      ]
+    },
+    "1389137334297165834": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1389137334297165834",
+      "aviso_utc": "2025-06-30T06:55:49.420000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "13d81ff7468c8a7f092c93d53d95a0cadfb14a59d6d38888db96ad21138e4082",
+      "adjunto": {
+        "id": "1389137333680476260",
+        "nombre": "Calendario_Semanal-3.png",
+        "archivo": "adjuntos/120_1389137334297165834_1389137333680476260.png",
+        "sha256": "0381f9a0ff64aa4209f75cb5eebccead19c8b133b5c55bef5c22d70338d7244b"
+      },
+      "sesiones": [
+        {
+          "campana": "kuroto",
+          "capitulo": 134,
+          "fecha": "2025-07-02",
+          "hora": "20:00"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 135,
+          "fecha": "2025-07-03",
+          "hora": "20:00"
+        }
+      ]
+    },
+    "1391756886138687598": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1391756886138687598",
+      "aviso_utc": "2025-07-07T12:24:59.248000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "e2d382c5d39f29ad6c57978f8274beb115a71291a6177eeca376c4a3e63f93a2",
+      "adjunto": {
+        "id": "1391756885790691410",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/121_1391756886138687598_1391756885790691410.png",
+        "sha256": "74a15cfb67b60c0ecbea63450d879ba87ebbe73c736dea98626599e458111441"
+      },
+      "sesiones": [
+        {
+          "campana": "kuroto",
+          "capitulo": 136,
+          "fecha": "2025-07-09",
+          "hora": "20:00"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 137,
+          "fecha": "2025-07-10",
+          "hora": "20:00"
+        }
+      ]
+    },
+    "1434785689584537610": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1434785689584537610",
+      "aviso_utc": "2025-11-03T06:06:05.426000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "2eb0a259b42238c51434908a7ae57b6b382b359d3564082efa21fbcfb3d3209c",
+      "adjunto": {
+        "id": "1434785689287000154",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/140_1434785689584537610_1434785689287000154.png",
+        "sha256": "75481c5b93b54d5987956fbc1ef2063628b0830ac1d359186e5621b29280afeb"
+      },
+      "sesiones": [
+        {
+          "campana": "kuroto",
+          "capitulo": 165,
+          "fecha": "2025-11-06",
+          "hora": "20:00"
+        }
+      ]
+    },
+    "1437332167846920293": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1437332167846920293",
+      "aviso_utc": "2025-11-10T06:44:53.155000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "88ccf726f6f27b7ca3df900be2cd884e916b7c87209d16a1df07e6f2738325a8",
+      "adjunto": {
+        "id": "1437332167280820344",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/141_1437332167846920293_1437332167280820344.png",
+        "sha256": "9b95fa7b7be136ff40ef7d678cf4bc6732c0a5ccce2a8ae84221571fecda1647"
+      },
+      "sesiones": [
+        {
+          "campana": "kuroto",
+          "capitulo": 166,
+          "fecha": "2025-11-12",
+          "hora": "20:00"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 167,
+          "fecha": "2025-11-13",
+          "hora": "20:00"
+        }
+      ]
+    },
+    "1439977270830825644": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1439977270830825644",
+      "aviso_utc": "2025-11-17T13:55:34.850000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "730742ab3e7dac354d46b73f1fb26a8b704a0e2d4a53dbc93c61d5651e0509ea",
+      "adjunto": {
+        "id": "1439977270516125868",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/142_1439977270830825644_1439977270516125868.png",
+        "sha256": "6230491233d209b740396d88da1a930806b44940c5cc0c370d6f49eec563e2bf"
+      },
+      "sesiones": [
+        {
+          "campana": "kuroto",
+          "capitulo": 168,
+          "fecha": "2025-11-20",
+          "hora": "20:00"
+        }
+      ]
+    },
+    "1442488131373760623": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1442488131373760623",
+      "aviso_utc": "2025-11-24T12:12:50.653000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "2145cde6e529b8866560b623d53e4358f9a519a5deba749e98ae22bdeac4001d",
+      "adjunto": {
+        "id": "1442488130929295431",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/143_1442488131373760623_1442488130929295431.png",
+        "sha256": "9bd2b470ab53bb68d885c77cde827b76e2e0c3b64731de10fce59041bce46e4d"
+      },
+      "sesiones": [
+        {
+          "campana": "kuroto",
+          "capitulo": 169,
+          "fecha": "2025-11-24",
+          "hora": "20:00"
+        },
+        {
+          "campana": "kuroto",
+          "capitulo": 170,
+          "fecha": "2025-11-27",
+          "hora": "20:00"
+        }
+      ]
+    },
+    "1445094223966896169": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1445094223966896169",
+      "aviso_utc": "2025-12-01T16:48:31.546000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "2d1ea9be8a750658493a0aeb42f33cd357ea63340aa7cfdeceeb52456547c6a4",
+      "adjunto": {
+        "id": "1445094223597670500",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/144_1445094223966896169_1445094223597670500.png",
+        "sha256": "ac1ad9b554923abe4babf7b429f59a925f960cd92895565d69abe14d8d73f632"
+      },
+      "sesiones": [
+        {
+          "campana": "kuroto",
+          "capitulo": 171,
+          "fecha": "2025-12-04",
+          "hora": "20:00"
+        }
+      ]
+    },
+    "1483001952114704456": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1483001952114704456",
+      "aviso_utc": "2026-03-16T07:20:18.228000+00:00",
+      "editado_utc": "2026-03-23T08:38:55.977000+00:00",
+      "mensaje_sha256": "ad4f0132a294bd62d5a640c692092972bd1b01bc892498f206bcbb8ffb9c1358",
+      "adjunto": {
+        "id": "1483001951649009664",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/159_1483001952114704456_1483001951649009664.png",
+        "sha256": "0af06aed382ec6fcee082594e0b7c5bd9b55beb12762fa61ba1f5d4d6052371e"
+      },
+      "sesiones": [
+        {
+          "campana": "xoltacan",
+          "capitulo": 17,
+          "fecha": "2026-03-18",
+          "hora": "20:00"
+        },
+        {
+          "campana": "xoltacan",
+          "capitulo": 18,
+          "fecha": "2026-03-19",
+          "hora": "20:00"
+        }
+      ]
+    },
+    "1485558352745599057": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1485558352745599057",
+      "aviso_utc": "2026-03-23T08:38:31.634000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "f644484000ef013d8f362e71e1b68f8e788283475ea9a545174f9bb2b7c8f3c6",
+      "adjunto": {
+        "id": "1485558352313454712",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/160_1485558352745599057_1485558352313454712.png",
+        "sha256": "048e433ae75b6e992276d7e991fd1424f37df44c4453796a080c5db033dcb6a8"
+      },
+      "sesiones": [
+        {
+          "campana": "xoltacan",
+          "capitulo": 19,
+          "fecha": "2026-03-25",
+          "hora": "20:00"
+        },
+        {
+          "campana": "xoltacan",
+          "capitulo": 20,
+          "fecha": "2026-03-26",
+          "hora": "20:00"
+        }
+      ]
+    },
+    "1488132418945945750": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1488132418945945750",
+      "aviso_utc": "2026-03-30T11:06:56.840000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "39175160c2e5310d9bec956ee7857bea4de51f5f6d3f2149dbf0d18f183338f2",
+      "adjunto": {
+        "id": "1488132418551550092",
+        "nombre": "Calendario_Semanal-1.png",
+        "archivo": "adjuntos/161_1488132418945945750_1488132418551550092.png",
+        "sha256": "a1be1356d1b483866dba46b03c127dfd4b4dd3131224e50762884e480d4580b9"
+      },
+      "sesiones": [
+        {
+          "campana": "xoltacan",
+          "capitulo": 21,
+          "fecha": "2026-04-01",
+          "hora": "20:00"
+        },
+        {
+          "campana": "xoltacan",
+          "capitulo": 22,
+          "fecha": "2026-04-02",
+          "hora": "20:00"
+        }
+      ]
+    },
+    "1490638432735596594": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1490638432735596594",
+      "aviso_utc": "2026-04-06T09:04:57.087000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "1afcf18d0596ab2ab5c7c60a1f015dcb886ae4591fa607376050a1a9544f84af",
+      "adjunto": {
+        "id": "1490638432442122370",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/162_1490638432735596594_1490638432442122370.png",
+        "sha256": "1b877838c483ca3f0209ee6075ca1c62673ad5d66fa7eb969b85db5805dcb290"
+      },
+      "sesiones": [
+        {
+          "campana": "xoltacan",
+          "capitulo": 23,
+          "fecha": "2026-04-09",
+          "hora": "20:00"
+        }
+      ]
+    },
+    "1493275295677943821": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1493275295677943821",
+      "aviso_utc": "2026-04-13T15:42:54.203000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "fb1382fa7587c8b013d39a46340a64d95a6588a267897e1ff016e3a6e4658a51",
+      "adjunto": {
+        "id": "1493275295438999583",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/163_1493275295677943821_1493275295438999583.png",
+        "sha256": "35bfb1f3fc7d84a70813c3dae553b17692773083362eb5d029e69d09de604d17"
+      },
+      "sesiones": [
+        {
+          "campana": "xoltacan",
+          "capitulo": 24,
+          "fecha": "2026-04-16",
+          "hora": "20:00"
+        },
+        {
+          "campana": "xoltacan",
+          "capitulo": 25,
+          "fecha": "2026-04-17",
+          "hora": "20:00"
+        }
+      ]
+    },
+    "1510974245105172622": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1510974245105172622",
+      "aviso_utc": "2026-06-01T11:52:12.577000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "2ee3f6b660cfb590f8c34049d546a6443a90953aff2408962a5b390d45983224",
+      "adjunto": {
+        "id": "1510974244740137102",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/170_1510974245105172622_1510974244740137102.png",
+        "sha256": "21283d8be3342c6336d0a56da9cb07013ee2a1690e0ab6c9c37873cdc3d0ee4f"
+      },
+      "sesiones": [
+        {
+          "campana": "xoltacan",
+          "capitulo": 36,
+          "fecha": "2026-06-02",
+          "hora": "20:00"
+        },
+        {
+          "campana": "xoltacan",
+          "capitulo": 37,
+          "fecha": "2026-06-05",
+          "hora": "20:00"
+        }
+      ]
+    },
+    "1513560047119237322": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1513560047119237322",
+      "aviso_utc": "2026-06-08T15:07:15.819000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "0d0d1aee104151242f029a881d698f677bff2fe45c867fe16bf04616345616b4",
+      "adjunto": {
+        "id": "1513560046716326139",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/171_1513560047119237322_1513560046716326139.png",
+        "sha256": "76d206f4b62d6f54fa1d7e97122a6f133d6c35586ebfa698d68c6d52ea5da207"
+      },
+      "sesiones": []
+    },
+    "1515976737605816332": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1515976737605816332",
+      "aviso_utc": "2026-06-15T07:10:19.731000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "80b7ba29f333685459aecb0823e7aca62d94ce1f090f1e275abaaad8a11d42df",
+      "adjunto": {
+        "id": "1515976737341702215",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/172_1515976737605816332_1515976737341702215.png",
+        "sha256": "541dbf16c78d6f96b369aaa3ecc5a53cc15682d6a5a1378b6058286155486b65"
+      },
+      "sesiones": [
+        {
+          "campana": "xoltacan",
+          "capitulo": 38,
+          "fecha": "2026-06-15",
+          "hora": "20:00"
+        },
+        {
+          "campana": "xoltacan",
+          "capitulo": 39,
+          "fecha": "2026-06-19",
+          "hora": "20:00"
+        }
+      ]
+    },
+    "1518558985655943299": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1518558985655943299",
+      "aviso_utc": "2026-06-22T10:11:15.642000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "0621b67e855b38cfc682afddeb07a438d450ba08aa7bafa61cd8f2657187bc4d",
+      "adjunto": {
+        "id": "1518558985282912347",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/174_1518558985655943299_1518558985282912347.png",
+        "sha256": "846260564ea14a787ee6232fafd873249fc2e02c3df7687997dd41025d89302e"
+      },
+      "sesiones": []
+    },
+    "1521166880503758919": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1521166880503758919",
+      "aviso_utc": "2026-06-29T14:54:06.226000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "6e2a1434dbcfda52cf25b9e65c55567007b72de35ad8a16742f0d6c3b4088293",
+      "adjunto": {
+        "id": "1521166880092590110",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/175_1521166880503758919_1521166880092590110.png",
+        "sha256": "8b5c9cd30a81de709a4b82d81aa34033ffd3522b2a7458301b1f8a34df1fe6ce"
+      },
+      "sesiones": [
+        {
+          "campana": "xoltacan",
+          "capitulo": 40,
+          "fecha": "2026-07-02",
+          "hora": "20:00"
+        },
+        {
+          "campana": "xoltacan",
+          "capitulo": 41,
+          "fecha": "2026-07-03",
+          "hora": "20:00"
+        }
+      ]
+    },
+    "1523607783088324668": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1523607783088324668",
+      "aviso_utc": "2026-07-06T08:33:22.752000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "8f8f5cb9600ab1cedc7ca83b3d0469ac055b30f78868b1ff242711e3c360c0c5",
+      "adjunto": {
+        "id": "1523607782765625466",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/176_1523607783088324668_1523607782765625466.png",
+        "sha256": "f047b338764a811c71e518296229637ccfea0b58695501b9f9a23b165547ff97"
+      },
+      "sesiones": [
+        {
+          "campana": "xoltacan",
+          "capitulo": 42,
+          "fecha": "2026-07-09",
+          "hora": "20:00"
+        },
+        {
+          "campana": "xoltacan",
+          "capitulo": 43,
+          "fecha": "2026-07-10",
+          "hora": "20:00"
+        }
+      ]
+    }
+  },
+  "avisos": {
+    "1517104663785111613": {
+      "tipo": "cancelacion_programacion",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1517104663785111613",
+      "aviso_utc": "2026-06-18T09:52:18.288000+00:00",
+      "editado_utc": "2026-06-18T15:12:09.286000+00:00",
+      "mensaje_sha256": "7406a6a7ca0de23f576f9990a28a77e3247dfa40792e5a8593741fe8baa5cba3",
+      "desde": "2026-06-22",
+      "hasta": "2026-06-28",
+      "campanas": [
+        "xoltacan"
+      ],
+      "lectura": "El autor anuncia que no habrá partidas de Xoltacan ni Rebeldes del 22 al 28 de junio; mantiene Campaña el lunes 22. Una eventual partida de fin de semana requeriría otro aviso."
+    }
+  },
+  "advertencias": {
+    "kuroto": {
+      "55": "Discrepancia conservada: el calendario programa Kuroto 55 el 9 de octubre y el 56 el 10. Se adopta esa secuencia como dos fechas asumidas. El aviso del día 9 dice Campaña III 2 y el del día 10 dice Kuroto 55; se asumen títulos anteriores sin modificar los mensajes ni sus marcas temporales. La antigua correspondencia del 55 con el 10 de octubre se conserva en el registro de corrección."
+    }
+  }
+}

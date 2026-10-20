@@ -1,0 +1,79 @@
+{
+  "id": "x-1511609971555438592",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1511609971555438592",
+  "hilo_id": "1482149664131383316",
+  "hilo_nombre": "Cuicapalli - La villa tranquila",
+  "titulo": "El refugio de Citlali está lleno de pozas de veneno",
+  "resumen": "La cueva ofrece restos chamuscados, olor amargo y pequeñas serpientes que impiden descansar.",
+  "relato": "La respuesta describe la cueva indicada por el enano: sus pasillos serpentean hacia callejones sin salida y pozos de veneno. En la cámara principal queda una tienda chamuscada, herramientas medio fundidas y un techo ennegrecido por un fuego anterior. Grandes pozas verdosas reflejan la piedra y desprenden un olor amargo.\n\nCitlali y Eztli oyen siseos y pequeñas serpientes ocultas que los hacen sentirse vigilados. El lugar no es el refugio cómodo que parecía al principio. El cierre no narra un ataque ni una huida; deja las condiciones de aquella noche como contrapunto a la vigilia maternal.",
+  "participantes": [
+    "Citlali",
+    "Eztli"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1511609971555438592",
+      "afirmacion": "El narrador describe pozas de veneno, restos quemados y serpientes alrededor del refugio.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Complementa directamente la escena anterior, sin una nueva llegada independiente.",
+    "La sensación de vigilancia no identifica un observador concreto ni confirma un ataque."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-06-03T05:58:21.574000+00:00",
+  "fin_utc": "2026-06-03T05:58:21.574000+00:00",
+  "fecha_local": "2026-06-03",
+  "intervalo": {
+    "anterior": 36,
+    "siguiente": 37,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1511430616145723484",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1512525575573475348",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 36,
+        "fecha": "2026-06-02",
+        "inicio_referencia_utc": "2026-06-02T18:05:24+00:00",
+        "fin_estimado_utc": "2026-06-02T20:38:28+00:00",
+        "duracion_video_segundos": 9184,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1511430616145723484"
+      },
+      {
+        "capitulo": 37,
+        "fecha": "2026-06-05",
+        "inicio_referencia_utc": "2026-06-05T18:36:17+00:00",
+        "fin_estimado_utc": "2026-06-05T20:56:06+00:00",
+        "duracion_video_segundos": 8389,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1512525575573475348"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1511609971555438592",
+      "fecha_utc": "2026-06-03T05:58:21.574000+00:00",
+      "fecha_local": "2026-06-03",
+      "editado_utc": null,
+      "texto": "**La cueva que te había nombrado el enano, no es tan acogedora como creías. Los pasillos de piedra serpenteaban en la roca llegando a callejones sin salida o hasta pozos de veneno. Al llegar a la gran cámara principal, una tienda reposaba chamuscada en un lateral de la cueva junto a materiales y herramientas medio fundidas. Parecía que habían hecho una fogata. El techo enegrecido por ello, se reflejaba en el líquido verdoso de las pozas enormes de veneno que reposaban en la fría piedra. El olor amargo se intoducia en el fondo de la nariz obligando a arrugarla de vez en cuando pero, eso no era lo peor. Los siseos y las pequeñas serpientes que se escondías de los ojos de Mama y Eztil, hacian que no pudieran descansar a gusto y se sintieran... Vigiladas.**\n\n🔴Ahora si, fin de escena🔴",
+      "mensaje_sha256": "c8f0397bce64a36da69dc29946388e0f595a95d4dabcd887902c7249006b5ee6",
+      "tipo_discord": 19,
+      "referencia": "1511524474162384936",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1511609971555438592",
+      "texto_sha256": "afbb3768f7507320ed60b517869a7787d4aef219e41fd1e71cbcf369d058d298",
+      "adjuntos": []
+    }
+  ]
+}

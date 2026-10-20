@@ -1,0 +1,224 @@
+{
+  "id": "k-1386739239219101807",
+  "campana": "kuroto",
+  "unidad_revision": "k-1385809829695848478",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "Jhin y Seraphina se conocen entre los preparativos",
+  "resumen": "Seraphina observa entrenar a Jhin y ambos intercambian impresiones sobre los Cazadores, Guxi y la guerra.",
+  "relato": "Seraphina sale de la tienda cansada y encuentra a Jhin practicando con una larga nodachi en una colina. Le sorprenden la precisión y fluidez de sus movimientos. Él termina el ejercicio y se presenta: Guxi ya le ha hablado de ella.\n\nSe saludan con un fuerte apretón de manos. Jhin se ofrece a ayudarla y bromea sobre la mejoría de ánimo del artesano. Seraphina responde con complicidad y pregunta por la antigüedad de los miembros del grupo. Jhin dice ser uno de los veteranos todavía activos y lamenta los tiempos en que solo debían ocuparse del yokai que se descontrolaba.\n\nAmbos reconocen la dureza del presente y el futuro que quieren defender. Antes de volver a ayudar a cavar las trincheras, Jhin pide a Seraphina que no suelte a Guxi, porque la necesita. Ella se despide proponiendo coincidir algún día con una bebida y continúa sus propias tareas. No se produce aquí la conversación de Banzo sobre Gur.",
+  "participantes": [
+    "Seraphina",
+    "Jhin"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1386741534552096809",
+      "afirmacion": "Jhin se presenta a Seraphina después de practicar con la nodachi.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1386744664589074562",
+      "afirmacion": "Jhin se considera uno de los Cazadores activos más antiguos.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1386746341404966922",
+      "afirmacion": "Jhin pide a Seraphina que acompañe a Guxi y se marcha a ayudar en las trincheras.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Leídas completas las cinco partes y los tres adjuntos. La imagen del pánico es ilustrativa; el dibujo final de Banzo es una referencia humorística del disfraz.",
+    "La inscripción gráfica del diario de Kurobane se conserva como original. Su escritura no se traduce ni se inventa un contenido a partir del dibujo.",
+    "La unidad original reúne varias interacciones con cierres y salidas; las subescenas conservan cobertura exacta sin duplicar mensajes.",
+    "Las cifras de atención médica son las que Banzo comunica, sin elevarlas a un balance general de la batalla.",
+    "La apariencia de Brythya que Banzo cree ver sobre Danifae se presenta como percepción del goliat, no como transformación física confirmada.",
+    "La promesa de Danifae se refiere a sus armas frente a Ootakemaru y no equivale a afiliación ni contrato firmado.",
+    "No se realiza todavía la visita a los templos ni se elimina la condición de Kurobane."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-23T16:06:38.999000+00:00",
+  "fin_utc": "2025-06-23T16:37:31.887000+00:00",
+  "fecha_local": "2025-06-23",
+  "intervalo": {
+    "anterior": 130,
+    "siguiente": 131,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1385318614470496400",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387130423632724151",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 130,
+        "fecha": "2025-06-19",
+        "inicio_referencia_utc": "2025-06-19T18:01:24+00:00",
+        "fin_estimado_utc": "2025-06-19T21:47:20+00:00",
+        "duracion_video_segundos": 13556,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1385318614470496400"
+      },
+      {
+        "capitulo": 131,
+        "fecha": "2025-06-24",
+        "inicio_referencia_utc": "2025-06-24T18:00:45+00:00",
+        "fin_estimado_utc": "2025-06-24T21:04:44+00:00",
+        "duracion_video_segundos": 11039,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387130423632724151"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1386739239219101807",
+      "fecha_utc": "2025-06-23T16:06:38.999000+00:00",
+      "fecha_local": "2025-06-23",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Salí de la tienda, con el pelo alborotado y una mirada de cansancio, también un poco de sangre seca en el pelo de su boca**\n\nAy Dioses... Tengo que dejar de ser tan impulsiva...\n\n**Caminé hacia la orilla del campamento, dejando que la tenue brisa húmeda me empape, suspirando agotada**\n\nEn verdad que espero que esto acabe pronto...",
+      "mensaje_sha256": "985e6a17e31647eba9f1e1959cabffd32f3030e0eceedc5406678d693e1c42be",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386739239219101807",
+      "texto_sha256": "6b78205645e536294ef241325f99c4ea9c486793b6e48a1777069ded580dbdbf",
+      "adjuntos": []
+    },
+    {
+      "id": "1386739822571421737",
+      "fecha_utc": "2025-06-23T16:08:58.081000+00:00",
+      "fecha_local": "2025-06-23",
+      "editado_utc": null,
+      "texto": "jhin: **cuando vas andando por el campamento no puedes evitar fijarte en un hombre subido a una de las colinas con una katana muy larga (nodachi) con los ojos cerrados para segundos despues lanzar varias estocadas precisas al aire como si luchara con un objetivo invisible**",
+      "mensaje_sha256": "7409d881651dadf76e9285882b56f6690080d4401e4838d49254fb495396f7a0",
+      "tipo_discord": 19,
+      "referencia": "1386739239219101807",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386739822571421737",
+      "texto_sha256": "3adcb74c0c4571a6cb711eb650e6ae19f6f0df375f67bea102c4d8ad41c668af",
+      "adjuntos": []
+    },
+    {
+      "id": "1386740829422616737",
+      "fecha_utc": "2025-06-23T16:12:58.133000+00:00",
+      "fecha_local": "2025-06-23",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Me le quedé mirando con curiosidad y no hablar de lo sorprendida que quedé al ver sus movimientos tan fluidos pero precisos**\n\n*Ya veo... Si que hay talento en este lugar*\n\n**Me crucé de brazos sin quitarle la mirada de encima**",
+      "mensaje_sha256": "13d666f9e2717225ef0a69d521e36336ea469b9462b7f24064ae61e750d8089d",
+      "tipo_discord": 19,
+      "referencia": "1386739822571421737",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386740829422616737",
+      "texto_sha256": "670f5c99fa6be4bc979c5d147989e5f0bcc0050278f832c11374938a9946e484",
+      "adjuntos": []
+    },
+    {
+      "id": "1386741534552096809",
+      "fecha_utc": "2025-06-23T16:15:46.249000+00:00",
+      "fecha_local": "2025-06-23",
+      "editado_utc": null,
+      "texto": "jhin: **abre los ojos despues de dar unas cuantas estocadas en la ultima sientes como si hubiera derrotado a ese enemigo invisible** oh tu debes ser seraphina , Guxi me ha hablado mucho de ti . me presento soy jhin simplemente jhin",
+      "mensaje_sha256": "b80de3c2cde1b8520b109c75df9512ad29d76a22f94ef087c7a4ce1d6566a6ce",
+      "tipo_discord": 19,
+      "referencia": "1386740829422616737",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386741534552096809",
+      "texto_sha256": "95c17d444af9ae0cbd7cf81adbda367d6fb13ac538adbcb46e45c7cdef5767a0",
+      "adjuntos": []
+    },
+    {
+      "id": "1386742549439316059",
+      "fecha_utc": "2025-06-23T16:19:48.217000+00:00",
+      "fecha_local": "2025-06-23",
+      "editado_utc": null,
+      "texto": "Seraphina:\nQué platicador resultó Guxi~\n\n**Le estiro la mano para estrecharsela**\n\nUn gusto Jhin, a mi me hace falta hablar con la mayoría de aquí, casi no los conozco pero veo que hay bastantes fortalezas en el equipo",
+      "mensaje_sha256": "33c5267439475ddbae2b92cd09bb474f2c1ce617c400684264b50f063e2b199f",
+      "tipo_discord": 19,
+      "referencia": "1386741534552096809",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386742549439316059",
+      "texto_sha256": "b00b033807071520b390d22cc47593be2d21ba9aa86b6f6d6fbe3d3a6b37f73a",
+      "adjuntos": []
+    },
+    {
+      "id": "1386743303810056324",
+      "fecha_utc": "2025-06-23T16:22:48.073000+00:00",
+      "fecha_local": "2025-06-23",
+      "editado_utc": null,
+      "texto": "jhin: **se la estrecha con fuerza** oh buen agarre seguro que si atrapas a alguien no le dejas escapar , soy uno de los cazadores que mas tiempo llevan por aqui en activo al menos , si necesita algo aviseme le ayudare si es posible . Y con respecto a guxi le veo mas animado ultimamente me pregunto por que sera **te mira sonriendo**",
+      "mensaje_sha256": "0526f37bd64bc2ed792b1e38130c7e72c554a75af0523f2e1fc05cc3f2a1e4a8",
+      "tipo_discord": 19,
+      "referencia": "1386742549439316059",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386743303810056324",
+      "texto_sha256": "68df7452ff786fa808bf56261410e5df3b6ca909e800f12e692d6d94a8dbe72a",
+      "adjuntos": []
+    },
+    {
+      "id": "1386743929764053114",
+      "fecha_utc": "2025-06-23T16:25:17.312000+00:00",
+      "fecha_local": "2025-06-23",
+      "editado_utc": null,
+      "texto": "Seraphina: \nDigamos que ha estado mucho más relajado, quién sabe por qué será?, cosas que dejan con la duda~\n\n**Me reí un poco**\n\nYa veo, ya veo, entonces uno de los más antiguos, supongo que a la par del señor ggrrr, o él es el maaaas antiguo?",
+      "mensaje_sha256": "3b9f9238356b66400dab34c9c6fa4db2e576a17c23fa9093729490d3038ce3e9",
+      "tipo_discord": 19,
+      "referencia": "1386743303810056324",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386743929764053114",
+      "texto_sha256": "231db63106c962ef47d06716422a87d1439a5daa1dc039e46e6fe31a56885ade",
+      "adjuntos": []
+    },
+    {
+      "id": "1386744664589074562",
+      "fecha_utc": "2025-06-23T16:28:12.508000+00:00",
+      "fecha_local": "2025-06-23",
+      "editado_utc": null,
+      "texto": "jhin: jejejaje **se rie de forma rara como si no se hubiera reido mucho en su vida y no estuviera acostumbrado* quien sabe si , y si soy de los que siguen en activo soy el mas antiguo por que wukong esta desaparecido añoro los tiempos en la unica preocupacion era matar al yokai de turno que se volvia loco",
+      "mensaje_sha256": "e7c325f485eed63d5159b5e386a146b813b58613c503ba3f41f1936c419830ac",
+      "tipo_discord": 19,
+      "referencia": "1386743929764053114",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386744664589074562",
+      "texto_sha256": "c84a8759ce6a5088a23d04e7146c4a4507abefc00d76b395a2d51e28aee537ef",
+      "adjuntos": []
+    },
+    {
+      "id": "1386745327842758788",
+      "fecha_utc": "2025-06-23T16:30:50.640000+00:00",
+      "fecha_local": "2025-06-23",
+      "editado_utc": null,
+      "texto": "Seraphina:\nSi lo creo, ahora toca derrotar demonios a lo loco y esperar a que salgan muchos más \n\n**Suspiré pesadamente**\n\nY con respecto al agarre, creeme que lo que agarro, no lo vuelvo a soltar, al menos no se vuelve a mover por unas horas",
+      "mensaje_sha256": "e956b7e61d6fe4514ab3d8f6545fcfb8195b06119c6f24988df72355fc0a92c9",
+      "tipo_discord": 19,
+      "referencia": "1386744664589074562",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386745327842758788",
+      "texto_sha256": "03497d50ea88c99e191b100576fdfe2acce2996a92f8ed0a8a6a108b7757d074",
+      "adjuntos": []
+    },
+    {
+      "id": "1386746341404966922",
+      "fecha_utc": "2025-06-23T16:34:52.292000+00:00",
+      "fecha_local": "2025-06-23",
+      "editado_utc": null,
+      "texto": "jhin: todo sea por ese futuro del cual guxi no para de hablar no? **envaina la espada** creo que deberia ayudar en las trincheras a cavarlas al menos , no lo sueltes seraphina el te necesita mas de lo que crees **se despide con la mano mientras se va dando la vuelta y iendose lentamente**",
+      "mensaje_sha256": "23879fd2a3267575ad85147ac9bb3e1e48fe2c9b8fe49008ffd74f910552a5a1",
+      "tipo_discord": 19,
+      "referencia": "1386745327842758788",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386746341404966922",
+      "texto_sha256": "0c27488ac069f5862c294f1988b2c731d453baadf15dcec4f7869ace10ba8530",
+      "adjuntos": []
+    },
+    {
+      "id": "1386747010794913792",
+      "fecha_utc": "2025-06-23T16:37:31.887000+00:00",
+      "fecha_local": "2025-06-23",
+      "editado_utc": null,
+      "texto": "Seraphina: \nAnda, con cuidado Jhin, espero que podamos coincidir y beber un rato entre todos \n\n**Me despedí igualmente, dirigiendome hacia las trincheras para poder ayudar**\n\nA ver, a quien mas conoceré?",
+      "mensaje_sha256": "5344f363bd7cb93e7ca9cfcc03d552f6f4384c69b58fbc8dcf5671051413ab28",
+      "tipo_discord": 19,
+      "referencia": "1386746341404966922",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386747010794913792",
+      "texto_sha256": "8e0c0cb58a9d93b7cc0e83b3b727efadbd89a4d1bb033c423c6b5253b33e8ff8",
+      "adjuntos": []
+    }
+  ]
+}

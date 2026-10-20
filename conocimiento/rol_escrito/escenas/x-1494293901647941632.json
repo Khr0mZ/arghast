@@ -1,0 +1,79 @@
+{
+  "id": "x-1494293901647941632",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1494293901647941632",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "La salida matinal de Tryel",
+  "resumen": "Tryel decide buscar a Eldrath.",
+  "relato": "Tryel sale del casino de Kilzer por un tablón de la pared, bostezando. Dice que ya no quedan botellas de vino y que le avisará para que compre más. Después se dispone a buscar a Eldrath para que no vuelva a reprocharle marcharse sin avisar. No se muestra que lo encuentre.",
+  "participantes": [
+    "Tryel"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1494293901647941632",
+      "afirmacion": "Tryel sale del casino sin vino y se dispone a buscar a Eldrath.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Cada subescena conserva un único mensaje de uno de los dos grupos temporales de cortes_horarios_historicos.",
+    "Coyote no se identifica con Citlali por compartir autor.",
+    "Las formas imitadas no acreditan identidades de los transeúntes, lectura mental ni transformación completa."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-04-16T11:10:28.791000+00:00",
+  "fin_utc": "2026-04-16T11:10:28.791000+00:00",
+  "fecha_local": "2026-04-16",
+  "intervalo": {
+    "anterior": 23,
+    "siguiente": 24,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1491864574310223892",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1494397729080873092",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 23,
+        "fecha": "2026-04-09",
+        "inicio_referencia_utc": "2026-04-09T18:16:51+00:00",
+        "fin_estimado_utc": "2026-04-09T21:10:57+00:00",
+        "duracion_video_segundos": 10446,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1491864574310223892"
+      },
+      {
+        "capitulo": 24,
+        "fecha": "2026-04-16",
+        "inicio_referencia_utc": "2026-04-16T18:02:47+00:00",
+        "fin_estimado_utc": "2026-04-16T20:50:50+00:00",
+        "duracion_video_segundos": 10083,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1494397729080873092"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1494293901647941632",
+      "fecha_utc": "2026-04-16T11:10:28.791000+00:00",
+      "fecha_local": "2026-04-16",
+      "editado_utc": null,
+      "texto": "Tryel: **La elfa paliducha sale del interior del casino de Kilzer por uno de los tablones de la pared. Va bostezando mientras se frota los ojitos y estos se adaptan a la luz de la mañana en el pueblo pirata** Cuernos-serrados se ha quedado sin botellas de vino, le avisaré para que compre más... Pero bueno, voy a buscar a Eldrath. Que luego siempre dice que me voy sin avisar...",
+      "mensaje_sha256": "3df6e9ce47c6d8a2c2468eb557e97b1f304a79385922a80b9d0eece8ca49a4e8",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1494293901647941632",
+      "texto_sha256": "95cb5d52b1229b8f0c7d3b624a05613e3212249651f3f649131de62f217b7762",
+      "adjuntos": []
+    }
+  ]
+}

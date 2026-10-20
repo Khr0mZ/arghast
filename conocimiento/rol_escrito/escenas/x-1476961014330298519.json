@@ -1,0 +1,189 @@
+{
+  "id": "x-1476961014330298519",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1476961014330298519",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "Calor para la pequeña hada",
+  "resumen": "Citlali y Bling descansan heridas mientras Nox vela desde fuera.",
+  "relato": "Citlali sostiene a Bling en el camarote, angustiada porque apenas reacciona. La hada está fría, sin su brillo habitual y con las alas débiles. Citlali la acomoda cuidadosamente contra su pecho y la cubre para darle calor. Bling se tranquiliza lo suficiente para enviarle mentalmente unas palabras: sabía que Mamá vendría y necesita descansar.\n\nLa anciana promete protegerla y ambas se duermen. También Citlali está agotada y herida, con mordidas y arañazos que le duelen bajo la ropa; no obstante, prioriza a la pequeña. Al día siguiente Nox escucha desde el pasillo, preocupado por las dos, y prefiere dejarlas descansar. Sube a esperar su cita con Bonny. En privado relaciona su presencia en la isla con los Cinco Reyes Piratas y con el interés de Molly, pero sus conjeturas no explican todavía qué buscan.",
+  "participantes": [
+    "Citlali",
+    "Bling",
+    "Nox"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1476967114806919189",
+      "afirmacion": "Bling yace fría y debilitada en manos de Citlali.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1476977501665366139",
+      "afirmacion": "Bling comunica mentalmente a Citlali que necesita descansar.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1476986741310095444",
+      "afirmacion": "Citlali se duerme también, con mordidas y arañazos dolorosos.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1477275646450335957",
+      "afirmacion": "Nox escucha sin despertarlas y considera en privado la posición de Bonny entre los Cinco.",
+      "tipo": "pensamiento"
+    }
+  ],
+  "notas": [
+    "El mensaje mental de Bling está dirigido explícitamente a Citlali; sus palabras no son pensamientos conocidos por toda la tripulación.",
+    "La noche y tormenta son tiempo diegético; las horas de publicación no lo sustituyen.",
+    "Se conserva la cadencia semanal introducida por Bonny en la negociación, sin inventar importes de ingresos o rentabilidad.",
+    "No se identifica al socio mediante la mención de Discord ni se da por abierta la casa de juego.",
+    "No se describe un rescate omitido ni una recuperación médica completa."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-02-27T15:15:46.425000+00:00",
+  "fin_utc": "2026-02-28T12:06:00.568000+00:00",
+  "fecha_local": "2026-02-27",
+  "intervalo": {
+    "anterior": 11,
+    "siguiente": 12,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1476657677277991027",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1479193258008772802",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 11,
+        "fecha": "2026-02-26",
+        "inicio_referencia_utc": "2026-02-26T19:10:07+00:00",
+        "fin_estimado_utc": "2026-02-26T22:26:48+00:00",
+        "duracion_video_segundos": 11801,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1476657677277991027"
+      },
+      {
+        "capitulo": 12,
+        "fecha": "2026-03-05",
+        "inicio_referencia_utc": "2026-03-05T19:05:36+00:00",
+        "fin_estimado_utc": "2026-03-05T22:20:15+00:00",
+        "duracion_video_segundos": 11679,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1479193258008772802"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1476961014330298519",
+      "fecha_utc": "2026-02-27T15:15:46.425000+00:00",
+      "fecha_local": "2026-02-27",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\n**Estando dentro del camarote, aún se me veía una cara de total angustia al tener en mis manos a la pobre hada sin reaccionar**\n\nMi niña, despierta por favor, ya estás de nuevo conmigo, por favor... No te vayas mi niña, despierta mijita\n\n**Trataba de moverla con mucho cuidado con la punta de mi dedo, procurando no hacer mucha presión o podría lastimarla**\n\n<@694971576340447292>",
+      "mensaje_sha256": "12008763493d18debb78c12e53df4dac66e5226dfe18a818194c50c172493599",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476961014330298519",
+      "texto_sha256": "4cab31c69c7e1c9d4feab0516bbdeb2bac6680b547e0bc7993fc2f8580f7b328",
+      "adjuntos": []
+    },
+    {
+      "id": "1476967114806919189",
+      "fecha_utc": "2026-02-27T15:40:00.892000+00:00",
+      "fecha_local": "2026-02-27",
+      "editado_utc": null,
+      "texto": "Bling: **Su característico brilli-brilli está apagado, y su cuerpo, frío y liviano, yace en las manos de Mamá. Sus alas tiemblan sin fuerza, vibrando en espasmos irregulares, y su rostro se contrae en intermitentes muecas de dolor.\nAl sentir el aliento de Citlali, reconoce su presencia… pero no logra reunir las fuerzas necesarias, saliendo un hilo de aire al intentar hablar**",
+      "mensaje_sha256": "744726d18d743d44042c68a167762b0e2b92305d5ce26162054ed5e790e3e101",
+      "tipo_discord": 19,
+      "referencia": "1476961014330298519",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476967114806919189",
+      "texto_sha256": "1244026d43ef63b9ea7f58a0566cc6059dc2f872cfb3585e665ce9b5f076867f",
+      "adjuntos": []
+    },
+    {
+      "id": "1476968543315820689",
+      "fecha_utc": "2026-02-27T15:45:41.475000+00:00",
+      "fecha_local": "2026-02-27",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\n**Sonreí un poco al ver que se estaba moviendo, empecé a buscar un lugar a dónde ponerla pero el nido sería muy incómodo y sin calor, así que decidí ponerla en mi escote con mucho cuidado y cubrirla con mi blusa**\n\nAquí estoy, mamá está aquí, mamá te va a cuidar, te voy a dar calorcito para que reacciones, es más, voy a ver qué te hago de comer para que repongas fuerzas",
+      "mensaje_sha256": "83f320218b8d9ed31c2623096a7dc7602e5b821ddc2bdb67a3a335a398b6c17d",
+      "tipo_discord": 19,
+      "referencia": "1476967114806919189",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476968543315820689",
+      "texto_sha256": "3ff65be716f82fd85a2a678d548e3b6f426e3e5b0374dcb86a3f52851292cda1",
+      "adjuntos": []
+    },
+    {
+      "id": "1476977501665366139",
+      "fecha_utc": "2026-02-27T16:21:17.312000+00:00",
+      "fecha_local": "2026-02-27",
+      "editado_utc": null,
+      "texto": "Bling: **Al sentir el calor, se estremece acurrucándose contra la piel tibia, dejando ir un ligero suspiro. El temblor disminuye, y sus alas dejan caer un polvo tenue que no brilla como antes, pero ya no es gris. Sigue sin fuerzas para moverse, pero si suficientes para hacer llegar unas palabras en los pensamientos de Citlali**\n*S..sabía que vendrías Ma..má..Ne..cesito descansar un poco..*",
+      "mensaje_sha256": "292765f541613e8df51e83586d5af9a13984b67bd01e4b9a3cce644d7488638f",
+      "tipo_discord": 19,
+      "referencia": "1476968543315820689",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476977501665366139",
+      "texto_sha256": "26b227d9204a9b9ff3ebc90f0759331e385780eb8a1da4b0be005f65bf970ddf",
+      "adjuntos": []
+    },
+    {
+      "id": "1476980668188590160",
+      "fecha_utc": "2026-02-27T16:33:52.270000+00:00",
+      "fecha_local": "2026-02-27",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\nDescansa mi niña, aquí te vas a quedar conmigo, no voy a dejar que nadie te vuelva a lastimar, te lo juro...\n\n**Rodeaba con mis brazos mi pecho**\n\nYa estás de nuevo a salvo y pronto volverás a estar libre",
+      "mensaje_sha256": "0be5a30bd34b910eeeaa5128dcf6ad1db4b250798052df2104d67247e79833de",
+      "tipo_discord": 19,
+      "referencia": "1476977501665366139",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476980668188590160",
+      "texto_sha256": "09025fce47e3db73ae05724f765661bf4e4ea74ff3dcd1a8cd22b561429aaddd",
+      "adjuntos": []
+    },
+    {
+      "id": "1476985019611480155",
+      "fecha_utc": "2026-02-27T16:51:09.730000+00:00",
+      "fecha_local": "2026-02-27",
+      "editado_utc": null,
+      "texto": "Bling: **Se queda dormida, agarrando la tela con poca fuerza, pero sin soltarla más**",
+      "mensaje_sha256": "35d400e193243aa2581be0aadc4a21bdbe25358bdcd408b0dd01aa88061a2315",
+      "tipo_discord": 19,
+      "referencia": "1476980668188590160",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476985019611480155",
+      "texto_sha256": "87dfafab0f121a11b0aa9d3eab78602449d0066099425c4324c32476bc8388e0",
+      "adjuntos": []
+    },
+    {
+      "id": "1476986741310095444",
+      "fecha_utc": "2026-02-27T16:58:00.215000+00:00",
+      "fecha_local": "2026-02-27",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\n**Con mucho cuidado, me subí a la cama y me recargué en la pared de aquel camarote, yo también estaba agotada y herida, pero me importaba más poder ayudar a la pequeña, traté de no moverme mucho mientras mis ojos también se cerraban**\n\nVas a estar bien... Vamos a estar bien, no vamos a morir, aún no es nuestro tiempo\n\n**Mis ojos se cerraron por completo, mi respiración seguía pesada, las mordidas y arañazos me punzaban con el roce de mi ropa**\n\nVamos...a..estar..bi..e..n...",
+      "mensaje_sha256": "93a0a84ea1cffd5afdd277cf8b434f9a524455319806b9da5150a8920e046b5b",
+      "tipo_discord": 19,
+      "referencia": "1476985019611480155",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476986741310095444",
+      "texto_sha256": "9750bbc6b14ced3d0e3dc4c056c6d357071aa680f2e712bc1734b065791db2fc",
+      "adjuntos": []
+    },
+    {
+      "id": "1477275646450335957",
+      "fecha_utc": "2026-02-28T12:06:00.568000+00:00",
+      "fecha_local": "2026-02-28",
+      "editado_utc": "2026-02-28T12:07:21.745000+00:00",
+      "texto": "Nox:**estaría apoyado en la pared del pasillo , fuera del camarote , escuchando , parece que ha ido a ver como estaba tanto Bling <@694971576340447292>  como las heridas de Citlali.\nDurante la misión no mostró interés en si la anciana estaba bien pero parece que si le ha preocupado .\n\nIntuyendo que ambas duermen sube a cubierta para hacer tiempo hasta que llegue la hora de quedar con Bonny . <@214405113677217793> \nJuguetea con una de sus monedas lanzándola al aire . \nEn uno de esos lanzamientos parece que la moneda cambia de forma a la de Bonny , parece que a Nox le están engañando los sentidos. **\n\n*Una de los 5 ... eh Bonny...\nQue haces aquí en esta isla ....\n\nQue se esconde en estas tierras para que uno de los 5 las custodie ... y por no hablar de Molly ... esa bruja no da puntada sin hilo . \nY esta claro que tiene interés en la isla.  \n\nLas piezas se están moviendo , habrá que buscar la mejor posición para ver como se desarrolla la partida.*",
+      "mensaje_sha256": "ae1aa17e577c5eb730d6c27b001bdce4aadd0dea9f3437aec639fa1071f8cf6f",
+      "tipo_discord": 19,
+      "referencia": "1476986741310095444",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1477275646450335957",
+      "texto_sha256": "60050ab077fa07197e8de2d22dc41be91230e779e6b46a0fd3433ca674536bd9",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "x-1506323491224424640",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1506323491224424640",
+  "hilo_id": "1465411590789795962",
+  "hilo_nombre": "Shiaru - El ron de Bonny",
+  "titulo": "Nox encarga a Jacky reunir un equipo",
+  "resumen": "Pide especialistas de infiltración, rastreo y combate, pero el mensajero aún no consigue reclutas.",
+  "relato": "Nox llama a Jacky cuando juega a las cartas. El sobresalto hace caer una carta escondida en su manga y provoca que los demás busquen las armas; acercarse al pirata le permite escapar de esa tensión. Recibe la orden de reunir a los mejores de Shiaru en infiltración, rastreo y fuerza de combate. Nox afirma estar ocupado en un asunto importante y le susurra que tiene una cita en el local de Liz.\n\nJacky acepta intentarlo pese a que alrededor solo ve borrachos. Se fija en un hombre de aspecto fuerte, pero descubre que está muerto, sentado con varias dagas en la espalda. El encargo termina sin nadie reclutado ni una misión de campo iniciada.",
+  "participantes": [
+    "Nox",
+    "Jacky Jackson"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1506325343621873737",
+      "afirmacion": "Nox pide reunir especialistas y admite en privado su cita en el local de Liz.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1506333154334474280",
+      "afirmacion": "El primer candidato observado por Jacky está muerto y no puede ser reclutado.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No crear un equipo constituido a partir de la orden."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-05-19T15:51:46.445000+00:00",
+  "fin_utc": "2026-05-19T16:30:10.310000+00:00",
+  "fecha_local": "2026-05-19",
+  "intervalo": {
+    "anterior": 32,
+    "siguiente": 33,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1504914757835030579",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1506363085538201671",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 32,
+        "fecha": "2026-05-15",
+        "inicio_referencia_utc": "2026-05-15T18:33:44+00:00",
+        "fin_estimado_utc": "2026-05-15T20:47:23+00:00",
+        "duracion_video_segundos": 8019,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1504914757835030579"
+      },
+      {
+        "capitulo": 33,
+        "fecha": "2026-05-19",
+        "inicio_referencia_utc": "2026-05-19T18:28:49+00:00",
+        "fin_estimado_utc": "2026-05-19T21:10:39+00:00",
+        "duracion_video_segundos": 9710,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1506363085538201671"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1506323491224424640",
+      "fecha_utc": "2026-05-19T15:51:46.445000+00:00",
+      "fecha_local": "2026-05-19",
+      "editado_utc": null,
+      "texto": "Nox : JACKYYYYY ! \ndonde estás mi querido zarrapastroso <@214405113677217793>",
+      "mensaje_sha256": "9aa3e8463cc5bed6a9b238269e0972922b0226dcc3917a8a572e8f8c74e1e8a0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1506323491224424640",
+      "texto_sha256": "e25fcbe57828d1c715bb49eeece8f2e03663de0edb6addbac700281790edb1c5",
+      "adjuntos": []
+    },
+    {
+      "id": "1506324364713398294",
+      "fecha_utc": "2026-05-19T15:55:14.701000+00:00",
+      "fecha_local": "2026-05-19",
+      "editado_utc": null,
+      "texto": "Jackie: **Se sobresalta cuando chillas. Estaba jugando a las cartas con los demás miembros de la ex-tripulación del Zampaolas y se le cae una carta de debajo de la manga** Ca... Capi... Emmm... No.. Nox **Los demás miembros de la mesa ven la carta y empiezan a desenfundar sus armas... En ese momento Jackie va corriendo donde Nox mientras mira de reojo a la mesa** Di.. Dime, que necesitas?",
+      "mensaje_sha256": "fd9825f5ae94f2d5d464f6d19c71307d1fa1bcf2b742f3ec2fbabd79788e1c8a",
+      "tipo_discord": 19,
+      "referencia": "1506323491224424640",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1506324364713398294",
+      "texto_sha256": "6ad635be1d2712ba344aeb00b98676e9b23c407cae1771642d2ee653e646c65b",
+      "adjuntos": []
+    },
+    {
+      "id": "1506325343621873737",
+      "fecha_utc": "2026-05-19T15:59:08.091000+00:00",
+      "fecha_local": "2026-05-19",
+      "editado_utc": null,
+      "texto": "Nox : a ver , tengo una mision de alto prestigio que solo puedes cumplir tu . \nEste grupo de mentecatos no sabria buscar ni una colilla en su apestoso ombligo . \n\nNecesito que me reunas a lo mejor de lo mejor de Shiaru . \nInfiltracion , rastreo y por supuesto fuerza de combate has oido ? \n\nJaks , confio en ti , yo mismo no puedo ocuparme ya que tengo un asunto importante entre manos . \n**se acerca  a su oreja ** \n\nTengo hora en el local de Liz hijo ... \nBIEN ! no se diga mas . \nA trabajar !",
+      "mensaje_sha256": "03cf43674af4996b02d21c8d51f33c995db60451053e1548cfb1c7b2ea1ff608",
+      "tipo_discord": 19,
+      "referencia": "1506324364713398294",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1506325343621873737",
+      "texto_sha256": "34b41d8e0f6f31dbc179f65d4d3abd580a95644ec749646770b6c6e2cb0fda8e",
+      "adjuntos": []
+    },
+    {
+      "id": "1506325978924978236",
+      "fecha_utc": "2026-05-19T16:01:39.559000+00:00",
+      "fecha_local": "2026-05-19",
+      "editado_utc": null,
+      "texto": "Jackie: P...pero...¿lo mejor? **Mia alrededor y solo ve borrachos y gente por el suelo que no se aguanta ni los pedos** Emmm... Lo... Lo intentaré...",
+      "mensaje_sha256": "828f29944ab2cd4f582647c5cff1888c867f4040a2b68c9a1d2a7ba2adf6ea54",
+      "tipo_discord": 19,
+      "referencia": "1506325343621873737",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1506325978924978236",
+      "texto_sha256": "903fb7a839864c28fa5b0633c32dac18ac814bf5b186fc186b5069136131909f",
+      "adjuntos": []
+    },
+    {
+      "id": "1506332238030311485",
+      "fecha_utc": "2026-05-19T16:26:31.846000+00:00",
+      "fecha_local": "2026-05-19",
+      "editado_utc": "2026-05-19T16:35:13.985000+00:00",
+      "texto": "Nox : **lo coje de los hombros y con la misma mirada que aquel dia en el que se conocieron le dice ** \n\nLo mejor de lo mejor chico .",
+      "mensaje_sha256": "efe2045747d6c6a845999c96f255459fac0a09dd1f23288b619e0ad27f0cf3a6",
+      "tipo_discord": 19,
+      "referencia": "1506325978924978236",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1506332238030311485",
+      "texto_sha256": "7c67f420b485605e247806f3b7cedf686735e4637ee0cac674c66ffa97befe2b",
+      "adjuntos": []
+    },
+    {
+      "id": "1506333154334474280",
+      "fecha_utc": "2026-05-19T16:30:10.310000+00:00",
+      "fecha_local": "2026-05-19",
+      "editado_utc": "2026-05-19T16:53:46.447000+00:00",
+      "texto": "Jackie: E.. Esta bien... **Mira hacia los lados y se fija en un hombre con una complexión fuerte. Esta sentado en la barra con una cara ruda y poderosa. El problema es que tiene siete dagas clavadas en la espalda y se ha muerto sentado...**\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "a5a7a07c2ddb55a5b0421d9a83deaee6ab2824ce5f7c76ce1f403976d3dd2074",
+      "tipo_discord": 19,
+      "referencia": "1506332238030311485",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1506333154334474280",
+      "texto_sha256": "67bfa7b85d68c5e889445293451b0adc0a2526e5a0d046532c6cb2925ded28ce",
+      "adjuntos": []
+    }
+  ]
+}

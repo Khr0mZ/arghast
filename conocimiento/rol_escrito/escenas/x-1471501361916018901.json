@@ -1,0 +1,308 @@
+{
+  "id": "x-1471501361916018901",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1471453926686589032",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "La magistrada y el canal",
+  "resumen": "Liz recibe las monedas y envía al gnomo a un trabajo disfrazado de hazaña.",
+  "relato": "Sir Poncelot llega agotado al poblado arrastrando a los piratas cautivos. Jenny le señala que Liz está dentro del local, que el caballero interpreta como juzgado. Expone la captura y la historia del loro de Nox. Liz advierte el engaño y decide seguirlo para sacar provecho: acepta a los prisioneros como si fuera jueza y ofrece gestionar una audiencia con la supuesta reina Bonny a cambio de diez monedas de oro. El gnomo duda por un momento, pero entrega las últimas monedas de su monedero y pregunta por una recompensa o un trabajo que le dé cama y alimento.\n\nLiz le propone limpiar los canales atascados del local, disfrazando el encargo de restaurar unas comunicaciones reales acosadas por monstruos. Poncelot promete resolverlo. Ella le entrega una fregona y un cubo como si fueran lanza mágica y casco, que él recibe arrodillado. Lo conduce tirando del cubo y lo arroja por el canal, donde cae entre residuos. El caballero se levanta convencido de estar en una mazmorra y comienza a narrar en voz alta sus combates contra monstruos que interpreta a partir de lo que encuentra. El cierre no demuestra limpieza terminada, paga, alojamiento ni audiencia conseguida.",
+  "participantes": [
+    "Sir Poncelot",
+    "Jenny",
+    "Liz"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1471507751707349135",
+      "afirmacion": "Liz reconoce la fantasía creada por Nox y decide aprovecharla.",
+      "tipo": "pensamiento"
+    },
+    {
+      "mensaje_id": "1471515004510535885",
+      "afirmacion": "Liz pide diez monedas para la supuesta audiencia con Bonny.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1471526267000983795",
+      "afirmacion": "Poncelot entrega sus últimas monedas y solicita trabajo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1471527055794639021",
+      "afirmacion": "Liz convierte la limpieza de desagües en una misión de canales del reino.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1471532937861136395",
+      "afirmacion": "Liz entrega un cubo y una fregona como falsas reliquias.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1471535224742744227",
+      "afirmacion": "Liz empuja al caballero al canal.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1471538610787455120",
+      "afirmacion": "Poncelot comienza a recorrerlo narrando su interpretación monstruosa de los residuos.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La realeza, el juzgado y las reliquias son el engaño que Liz sostiene ante Poncelot, no instituciones o magia acreditadas.",
+    "La captura cambia de recuento entre fragmentos; no se inventan piratas adicionales ni se asigna a cada cuerpo una identidad no mostrada.",
+    "No se determina si el pirata al que Nox quita las armas está dormido o muerto.",
+    "Las hazañas anteriores del caballero son sus proclamas, sin aventuras añadidas.",
+    "La limpieza y la audiencia son encargos o promesas, sin desenlace aquí."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-02-12T13:41:03.854000+00:00",
+  "fin_utc": "2026-02-13T10:59:44.687000+00:00",
+  "fecha_local": "2026-02-12",
+  "intervalo": {
+    "anterior": 5,
+    "siguiente": 6,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1469407509797408869",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1471947631876903063",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 5,
+        "fecha": "2026-02-06",
+        "inicio_referencia_utc": "2026-02-06T19:00:35+00:00",
+        "fin_estimado_utc": "2026-02-06T21:58:33+00:00",
+        "duracion_video_segundos": 10678,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1469407509797408869"
+      },
+      {
+        "capitulo": 6,
+        "fecha": "2026-02-13",
+        "inicio_referencia_utc": "2026-02-13T19:14:05+00:00",
+        "fin_estimado_utc": "2026-02-13T22:31:58+00:00",
+        "duracion_video_segundos": 11873,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1471947631876903063"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1471501361916018901",
+      "fecha_utc": "2026-02-12T13:41:03.854000+00:00",
+      "fecha_local": "2026-02-12",
+      "editado_utc": "2026-02-12T13:49:56.343000+00:00",
+      "texto": "Sir Poncelot \n\n**El gnomo entraría a la ciudad arrastrando esas hojas gigantes con los piratas noqueados encima. Se le ve agotado. Es fuerte pero su tamaño limita que pueda tirar con eficiencia de 4 cuerpos humanos adultos**\n\n- gallardía Sir Poncelot! Uff... Un poco más... Esto no es nada más que una minucia comparado con los dragones y gigantes a los que ha dado muerte... Arff...\n\n**Llegaría frente a un edificio colorido y llamativo y ve a una chica de dudosa moralidad fumando apollada en la pared**\n\n- disculpe la osadía de dirigirme a usted sin conocerla honorable señorita, pero me han ordenado buscar a su Señoría Liz... Me sabría indicar su ubicación actual si es tan amable?\n\n**Le pregunta haciendo una reverencia**\n\n<@214405113677217793>",
+      "mensaje_sha256": "ced18d44e15fe9def7f53e7237e71d8c93b370572ad5616d88d1114a597d9d15",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1471501361916018901",
+      "texto_sha256": "b8e0c6211345f55877b10c521689af63deb74223c304b751d228a4aea09e317b",
+      "adjuntos": []
+    },
+    {
+      "id": "1471503906830942210",
+      "fecha_utc": "2026-02-12T13:51:10.609000+00:00",
+      "fecha_local": "2026-02-12",
+      "editado_utc": null,
+      "texto": "Pilingui Jenny: **La mujer esta ahí fumando, cuando te acercas a ella, la tía está arrancandose un par de pelos de la entrepierna por debajo de la falda (como la de Torrente). Escupe en el suelo** Liz? La jefa está dentro",
+      "mensaje_sha256": "715151e719b0a56ec05ec536cc874fc9cf7755ee3560089a5368aeb1f0b64354",
+      "tipo_discord": 19,
+      "referencia": "1471501361916018901",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1471503906830942210",
+      "texto_sha256": "0fa4ca546457229e0febbd807832517a3b9997a552d0107530389109c6519935",
+      "adjuntos": []
+    },
+    {
+      "id": "1471505963528884382",
+      "fecha_utc": "2026-02-12T13:59:20.964000+00:00",
+      "fecha_local": "2026-02-12",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Se le ilumina la cara**\n\n- que agraciada sorpresa! He ido a dar justo con el juzgado de su Señoria. Acepte uste, delicada damisela, mi más sincera gratitud.\n\n**Le dedica otra reverencia. Luego empieza a subir los escalones arrastrando a los piratas. Con cada escalón que subía se escuchaba un golpetazo procedente de esos desgraciados golpeándose con los escalones que Poncelot iba dejando atrás. Abre la puerta y observa buscando a su Señoría**\n\n- que me aspen. Es un juzgado cuanto menos diferente. Aunque se respueta ese aire a justicia que debe tener une difícil tan solemne. Ahora a ver... Le preguntaré a esa agradable dama que está en la recepción \n\n**Sigue arrastrando a los piratas en dirección a la barra ignorando las posibles miradas de sorpresa que podría levantar esa escena**\n\n- tenga usted un agradable saludo señorita! Mi nombre es Sir Poncelot! Rescatador de princesas, castigo de dragones y erradicador de gigantes! Vengo por petición del joven escudero Nox. Ha sido el quien me ha pedido que ponga a disposición de su Señoría la Jueza Liz estos malhechores, los cuales le han intentado robar su valioso loro amaestrado!",
+      "mensaje_sha256": "a3deb229a38afba83d584cdeda19ee7b7618287a65c0f79a072faea2d0205c30",
+      "tipo_discord": 19,
+      "referencia": "1471503906830942210",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1471505963528884382",
+      "texto_sha256": "f75d6611663925b7cc85facb9174d9e384b74aafc23993f0fe8bc678f58adc68",
+      "adjuntos": []
+    },
+    {
+      "id": "1471507751707349135",
+      "fecha_utc": "2026-02-12T14:06:27.299000+00:00",
+      "fecha_local": "2026-02-12",
+      "editado_utc": null,
+      "texto": "Liz: **Te ha seguido con la mirada desde el momento en el que has entrado. Si cara es de confusión, pero luego de recitarle toda tu charla, se le dibuja una sonrisa pícara** Oh, si claro claro. Este es el juzgado de la señorita Liz, y esa soy yo. Encantada **Hace una leve inclinación de cabeza, pero es más burlona que otra cosa** Así que esos maleantes intentaron robarle el loro a Noxi eh? Eso es un crimen que no se puede permitir... *Vaya, parece que Nox ha liado a otro... Veamos si puedo sacar algo de provecho*",
+      "mensaje_sha256": "97c56d497e20311e665a368d2db0c2d4f9b741e90563325af43dd951921a7172",
+      "tipo_discord": 19,
+      "referencia": "1471505963528884382",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1471507751707349135",
+      "texto_sha256": "836dea0e201a169494ba9c5f99a6ce321bbd622b34db207ea341422bd9ef6b57",
+      "adjuntos": []
+    },
+    {
+      "id": "1471511127182803027",
+      "fecha_utc": "2026-02-12T14:19:52.075000+00:00",
+      "fecha_local": "2026-02-12",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Pone cara de orguyo y resopla por la nariz**\n\n- correcto mi honorable señora! Así que aquí mismo le hago entrega de tan horrendos malhechores para que caiga sobre ellos todo el peso de la justicia!\n\n**El gnomo suelta las hojas, dejando los cuerpos cerca de la barra**\n\n- y una vez cumplida tan importante misión, querría hacerle una petición, si no es demasiada osadía por mi parte su Señoría. Sería viable que usted, en calidad de majistrada de esta ciudad, le comunica a su majestad Happy Bonnie que yo, Sir Poncelot de la Lanza, ha obrazo con justicia en sus tierras con el único fin de hacer honor a la paz que aquí se respira?\n\n**El caballero inclina la cabeza y de pone una mano en el pecho**\n\n- he intentado solicitar una audiencia con ella para mostrarle mis respetos y poder empezar mis heroicas andanzas caballerescas con su beneplácito. Pero me han comunicado que no está disponible, así que mi única esperanza es que usted interceda por mi, oh mi honorable jueza!",
+      "mensaje_sha256": "f6b45c25dfa1c14684d681fa2e44fedd8601a854ae38d741cd0bfdd32c03cede",
+      "tipo_discord": 19,
+      "referencia": "1471507751707349135",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1471511127182803027",
+      "texto_sha256": "daa31ffead50d1ab63c029e8139595209045e613ea4ab75e5e90d7383e726612",
+      "adjuntos": []
+    },
+    {
+      "id": "1471515004510535885",
+      "fecha_utc": "2026-02-12T14:35:16.502000+00:00",
+      "fecha_local": "2026-02-12",
+      "editado_utc": null,
+      "texto": "Liz: Una audiencia con Bonny? **Abre mucho los ojos** *Eso sería divertido de ver* Claro que podría ayudarle gran caballero de la lanza. Pero sabe, la reina Bonny es algo... Agarrada. Y no suele dar audiencia a cualquiera que se le acerque, para evitar gente que busca aprovecharse de ella o de malechores. Así que cobra un pequeño diezmo de 10 monedas de oro por audiencia. Si esta le es se su agrado, devuelve el diezmo a su propietario. **Levanta los hombros** Si quiere, puede pagarme a mi y yo le organizo la reunión",
+      "mensaje_sha256": "c13538894683a2da516bdc613bfaf10193fe8e58407ac7d439b0dc2250e756a4",
+      "tipo_discord": 19,
+      "referencia": "1471511127182803027",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1471515004510535885",
+      "texto_sha256": "af7311149ac022473988060235ef23c7554bbf852d2bf8ad4daa5adbcbd8fca7",
+      "adjuntos": []
+    },
+    {
+      "id": "1471522404663558196",
+      "fecha_utc": "2026-02-12T15:04:40.836000+00:00",
+      "fecha_local": "2026-02-12",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Se queda pensando**\n\n*De verdad es extraña esa solicitud. Nunca escuché de un soberano que pidiera un diezmo para conceder una audiencia y que luego lo devuelva si es de su agrado... Pero que diantres? Parece ser que es la única oportunidad de presentarle mis respetos a su Majestad*\n\n**El gnomo mira a Liz**\n\n- está bien su Señoría. Te ha usted el pago solicitado para obtener tan deseada audiencia. Cuanto cree usted que tardará en darme respuesta?",
+      "mensaje_sha256": "0176d1ffcdac15e1a6ba271e7de208ece338ec60714f8257ee8a5a6de0faba9b",
+      "tipo_discord": 19,
+      "referencia": "1471515004510535885",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1471522404663558196",
+      "texto_sha256": "9f3a33753b2b257f8fc644c9fe3ab98a567a97e96ab9469e4c78654258fc19f6",
+      "adjuntos": []
+    },
+    {
+      "id": "1471522963776999720",
+      "fecha_utc": "2026-02-12T15:06:54.139000+00:00",
+      "fecha_local": "2026-02-12",
+      "editado_utc": null,
+      "texto": "Liz: Bueno, eso depende de lo ocupada que esté la reina Bonny. Pero no creo que tarde mucho, le encantará hablar con un caballero de renombre como el gran Sir Pomcelot de la Lanza **Pone la manita para que le pagues**",
+      "mensaje_sha256": "e3d950afc3b22ead6db6fd642a7159dcd5931ce1f14d8e1292baf70a070ebb43",
+      "tipo_discord": 19,
+      "referencia": "1471522404663558196",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1471522963776999720",
+      "texto_sha256": "0f0c75174aac9ceeaa8c23fc40580bb2784f852cfacc567e3913398aaa224efb",
+      "adjuntos": []
+    },
+    {
+      "id": "1471526267000983795",
+      "fecha_utc": "2026-02-12T15:20:01.689000+00:00",
+      "fecha_local": "2026-02-12",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Mete su mano en su espesa y frondosa barba blanca y saca un menederito con dos bolitas metálicas como cierre. Lo abre haciendo un pequeño chas y lo vuelva por completo en la mano de Liz**\n\n- ahí tiene mi noble dama.\n\n**Cierra el monedero con otro chas metálico y luego vuelve a guardar dentro de su barba**\n\n- bueno... Puede que sea una osadía digna de unos latigazos que le pregunté algo así pero... Por un casual no habrá una recompensa por la captura de estos gañanes verdad? Acabo de mis ultimas monedas y me vendrían bien para un par de raciones y una cama, al menos hasta que su majestad me reciba.\n\n**De pronto se le abren los ojos y mira de lado a lado por la sala**\n\n- o si en este magnifico juzgado tuvieran un tablón de peticiones donde pued ganarme con el sudor de mi frente dichas monedas para subsistir un par de días, sería también de buen agradecer por parte de este humilde caballero.",
+      "mensaje_sha256": "6c5bccef42d116de4cf288008b2d10502f3d2843c36641d348f21cd2c72fc165",
+      "tipo_discord": 19,
+      "referencia": "1471522963776999720",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1471526267000983795",
+      "texto_sha256": "1cc949213f48419727a47c4b624d4d5d39e577f35b4eb2643fd9b2048d29ef05",
+      "adjuntos": []
+    },
+    {
+      "id": "1471527055794639021",
+      "fecha_utc": "2026-02-12T15:23:09.752000+00:00",
+      "fecha_local": "2026-02-12",
+      "editado_utc": null,
+      "texto": "Liz: *Ummm.... Es pequeño... Puede que quepa en los desagües de los baños para limpiarlos* Bueno, puedo ofrecerle un trabajito **Sonríe** Los canales donde enviamos los informes a los diferentes lugares del reino, parecen estar atascados. Dicen que hay criaturas horribles... Si un gran caballero pudiera acabar con ellas y limpiar los canales....",
+      "mensaje_sha256": "4557d25e33073e60d0ab853e4b11f1a3c6f6827ad470b447d3ab6425c1308ec2",
+      "tipo_discord": 19,
+      "referencia": "1471526267000983795",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1471527055794639021",
+      "texto_sha256": "8a83a056bc21afce2a1ae1b80f0d5d6d1daff4ec3031c940e71193d60c34684d",
+      "adjuntos": []
+    },
+    {
+      "id": "1471532116826394708",
+      "fecha_utc": "2026-02-12T15:43:16.396000+00:00",
+      "fecha_local": "2026-02-12",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Saca su lanza y da un golpe en el suelo**\n\n- un caballero que se precie nunca podrá negarle su heroica ayuda a una dama en apuros! Yo, Sir Poncelot de la lanza, juro restaurar el orden en esos canales infestados de maléficas criaturas! Por el bien de este reino! De su Majestad! De vos, bella Liz! Y de un techo bajo el que dormir!",
+      "mensaje_sha256": "ab2f81d62c246292f2489ff75d5da545fd2fd5453e76bc8a079a0426dec9e0c8",
+      "tipo_discord": 19,
+      "referencia": "1471527055794639021",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1471532116826394708",
+      "texto_sha256": "af34824fb8b09251c78b5514abcea8ce98c539539a6840a8fc9b3897c9180710",
+      "adjuntos": []
+    },
+    {
+      "id": "1471532937861136395",
+      "fecha_utc": "2026-02-12T15:46:32.146000+00:00",
+      "fecha_local": "2026-02-12",
+      "editado_utc": null,
+      "texto": "Liz: Si si si... **Dice desapareciendo tras el mostrador. Vuelve a salir con un mocho y un cubo.** Tome mi gran caballero, esta es la lanza mágica del reino de Bonny y esto es.... *Joder, que me invento... Bah, da igual, si parece tontito* Esto es el gran casco del caballero del reino de Bonny",
+      "mensaje_sha256": "a1e61beac9f21fbed1f1c16dfcb681565f17a7964314f73f64dd60257637700b",
+      "tipo_discord": 19,
+      "referencia": "1471532116826394708",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1471532937861136395",
+      "texto_sha256": "8dbf1baa54faf60504665f6bc3586855565fd13516d0e1882c6883fd0de77299",
+      "adjuntos": []
+    },
+    {
+      "id": "1471534444631429351",
+      "fecha_utc": "2026-02-12T15:52:31.388000+00:00",
+      "fecha_local": "2026-02-12",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Clava rápidamente la rodilla en el suelo**\n\n- no soy digno de recibir tamaños obsequios mi lady...\n\n**Guarda su lanza y coge la fregona como si fuera una, y el cubo se lo coloca en la cabeza**\n\n- guieme al lugar de mi sagrada misión mi señora! Con semejantes reliquias en mi poder, ni un dragón de tres cabezas sería rival para el gran Sir Poncelot!",
+      "mensaje_sha256": "bf5d7f9bd2190e7e84b19dca3723740bc3cc56629ef514cf85ccb4078f6669aa",
+      "tipo_discord": 19,
+      "referencia": "1471532937861136395",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1471534444631429351",
+      "texto_sha256": "239a114da1264c51e97c50189b74b6ac684e41364acb5a59ac258657f2211556",
+      "adjuntos": []
+    },
+    {
+      "id": "1471535224742744227",
+      "fecha_utc": "2026-02-12T15:55:37.381000+00:00",
+      "fecha_local": "2026-02-12",
+      "editado_utc": null,
+      "texto": "Liz: Por aquí gran señor **Agarra de la anilla del cubo y estira de él. Al tener metida la cabeza dentro, eres arrastrado e incluso se te descoloca el \"casco\" dejándote totalmente cubierto. No ves nada, pero de repente notas un pequeño empujón y notas como ruedas hacia abajo durmate un rato hasta hacer Chof! (Liz te ha tirado por el canal)** Confío en usted, mi gran caballero Poncemot!",
+      "mensaje_sha256": "c6e638952227c1867e19aa8c296ce1fabe56782cdd634f95da1b55696c4f7cc0",
+      "tipo_discord": 19,
+      "referencia": "1471534444631429351",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1471535224742744227",
+      "texto_sha256": "a3567c6d31f8b4598542b068ba310dd286e983bba7c74082f654c9e21347eee5",
+      "adjuntos": []
+    },
+    {
+      "id": "1471538610787455120",
+      "fecha_utc": "2026-02-12T16:09:04.677000+00:00",
+      "fecha_local": "2026-02-12",
+      "editado_utc": "2026-02-12T16:09:10.493000+00:00",
+      "texto": "Sir Poncelot \n\n**Una vez abajo se levanta el cubo para poder ver**\n\n- por la panza del prior Sancho! No se ve tres en un rocín! Debo bendecir a mí sagrada madre que me dió estos ojos para ver hasta en las mazmorras más oscuras!\n\n**Acto seguido se levanta, se recoloca el casco, empuña la lanza y comienza su aventura en la mazmorra de los canales de comunicación.\n\nPodría escucharse al caballero narrando en voz alta su batalla contra mojones gigantes y jaurías de profilácticos salvajes. Se alzará victorioso nuestro gallardo caballero?**",
+      "mensaje_sha256": "0b82668d0bda4533b2391be35189310730f1537285defc9b537e943e802cc755",
+      "tipo_discord": 19,
+      "referencia": "1471535224742744227",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1471538610787455120",
+      "texto_sha256": "4993b620322587290d3e1e13fac2eae593c44c4b023b495cda1766a7567f567c",
+      "adjuntos": []
+    },
+    {
+      "id": "1471823152412622848",
+      "fecha_utc": "2026-02-13T10:59:44.687000+00:00",
+      "fecha_local": "2026-02-13",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "22676544b13aab39b8dd3c741aae19d57aaea18d510bd8abb359ca10530f5b80",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1471823152412622848",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

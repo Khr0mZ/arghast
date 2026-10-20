@@ -1,0 +1,188 @@
+{
+  "id": "x-1495803939105407148",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1495803939105407148",
+  "hilo_id": "1465411590789795962",
+  "hilo_nombre": "Shiaru - El ron de Bonny",
+  "titulo": "Nox presenta documentos y descubre a un infiltrado",
+  "resumen": "Marca Fuerte Aurora y Zz’lath en el mapa; Bonny vacía la taberna y lo obliga a escuchar una explicación que aún no se revela.",
+  "relato": "Nox se asoma a la taberna preguntando a Jacky por Bonny e Ione. Piensa en Bonny como una de los Cinco, un conocimiento que esta conversación no explica cómo obtuvo. La encuentra absorta ante un gran mapa. Toma las dagas de un subordinado y las lanza para señalar Fuerte Aurora y la zona de Zz’lath. Los hombres de la capitana lo rodean con sus armas.\n\nBonny amenaza con colgarlo como al elfo al que le presentó. La frase es su afirmación, sin mostrar aquí aquel ahorcamiento ni resolver su alcance. Nox neutraliza a un pirata, lo sienta y descubre en su pecho el emblema del barco del almirante Tórtola Jones. Deposita documentos que dice haber robado del despacho de la capitana del fuerte y afirma que las órdenes del ataque de serpientes contra Shiaru salieron del punto señalado. El contenido íntegro de los documentos no se transcribe.\n\nBonny no discute delante de los demás. Ordena vaciar el bar, incluido Picks, y recuerda a Nox que le prohibió entrometerse. Lo hace sentarse para escuchar. La escena termina antes de esa revelación: no acredita aún toda la cadena de mando del ataque ni el siguiente acuerdo entre ambos.",
+  "participantes": [
+    "Nox",
+    "Jacky Jackson",
+    "Happy Bonny"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1495807912180715531",
+      "afirmacion": "Nox señala Fuerte Aurora y Zz’lath con dagas en el mapa.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1495809307818856559",
+      "afirmacion": "Bonny amenaza con colgarlo y alude al elfo.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1495815390096392373",
+      "afirmacion": "Nox expone un tatuaje de la Marina y presenta documentos atribuidos al despacho del fuerte.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1495819718408274171",
+      "afirmacion": "Bonny vacía la taberna y exige que Nox se siente a escuchar.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La pertenencia de Bonny a los Cinco aparece en la perspectiva de Nox; cotejar su revelación en fuentes apropiadas antes de generalizar quién lo sabe.",
+    "No afirmar la ejecución de Aerendriel solo por una amenaza retrospectiva de Bonny.",
+    "La procedencia de las órdenes es la interpretación de Nox apoyada en documentos no transcritos; conservar el carácter de evidencia presentada.",
+    "El subordinado cae tras un golpe o estruendo, sin muerte confirmada."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-04-20T15:10:49.776000+00:00",
+  "fin_utc": "2026-04-20T16:13:31.855000+00:00",
+  "fecha_local": "2026-04-20",
+  "intervalo": {
+    "anterior": 25,
+    "siguiente": 26,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1494768689348870237",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1495856349072986122",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 25,
+        "fecha": "2026-04-17",
+        "inicio_referencia_utc": "2026-04-17T18:36:47+00:00",
+        "fin_estimado_utc": "2026-04-17T21:05:13+00:00",
+        "duracion_video_segundos": 8906,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1494768689348870237"
+      },
+      {
+        "capitulo": 26,
+        "fecha": "2026-04-20",
+        "inicio_referencia_utc": "2026-04-20T18:38:45+00:00",
+        "fin_estimado_utc": "2026-04-20T20:58:26+00:00",
+        "duracion_video_segundos": 8381,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1495856349072986122"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1495803939105407148",
+      "fecha_utc": "2026-04-20T15:10:49.776000+00:00",
+      "fecha_local": "2026-04-20",
+      "editado_utc": null,
+      "texto": "Nox: **Entra a la taberna desde el Zampaolas , se asoma primero ya no sabiendo ni de que esconderse  hombres serpientes ,picks,Bonny,Ione , los frentes se le van abriendo cada vez mas .** \n\nPssss pssss , Jacky .. pssss\n**intenta llamar la atención del tripulante** \n\nEsta Bonny o Ione ?",
+      "mensaje_sha256": "8bc5fb6879c73e1965b591ec7fff2f46c5bd5295175ac9a4cdc405fd14510e34",
+      "tipo_discord": 19,
+      "referencia": "1495031081336967241",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1495803939105407148",
+      "texto_sha256": "d7b202c88e1a5447dc17403bd676fd46348931a0914dfca1be46b554ec099d6e",
+      "adjuntos": []
+    },
+    {
+      "id": "1495804649318650037",
+      "fecha_utc": "2026-04-20T15:13:39.104000+00:00",
+      "fecha_local": "2026-04-20",
+      "editado_utc": null,
+      "texto": "Jacky: **Estaba explicando algo a Babs y los demás cuando escucha esa llamada** Eh!! Nox! Si, esta Bonny ahí, te estaba buscando, ¿quieres que la avise?",
+      "mensaje_sha256": "819651ac1f8158adaa8d2d0cac9e06aaa324f4be08feeb3d05f6f0f43637e2d0",
+      "tipo_discord": 19,
+      "referencia": "1495803939105407148",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1495804649318650037",
+      "texto_sha256": "79a2344a715f203b96b7f6c627033b659058a98f3f3b035d3d1587a2b0313a84",
+      "adjuntos": []
+    },
+    {
+      "id": "1495805737018986706",
+      "fecha_utc": "2026-04-20T15:17:58.432000+00:00",
+      "fecha_local": "2026-04-20",
+      "editado_utc": "2026-04-20T15:18:23.192000+00:00",
+      "texto": "Nox : *ya ha tenido que gritar...* \n**despues de un facepalm procede a andar y asoma la cabecita tímidamente por la esquina mirando hacia la mesa de la que antes pensaba que seria un bache mas en el camino pero recién descubierta \"una de los 5\" Happy Bonny **.",
+      "mensaje_sha256": "d180ca18285c875bbdee851ae865969e6072e2473c20fa2ba5d336a2b37d33ca",
+      "tipo_discord": 19,
+      "referencia": "1495804649318650037",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1495805737018986706",
+      "texto_sha256": "b0e50736f79db0dc79334160ff032c84d16372418da91c0cde782445880f0ae7",
+      "adjuntos": []
+    },
+    {
+      "id": "1495806798614102088",
+      "fecha_utc": "2026-04-20T15:22:11.536000+00:00",
+      "fecha_local": "2026-04-20",
+      "editado_utc": null,
+      "texto": "Happy Bonny: **La pirata esta en su silla, recostada hacia delante en un enorme mapa de Xoltacan. A su lado, uno de sus esbirros está explicado alguna cosa pero, Bonny no parece prestarle mucha atención, más bien parece perdida en sus pensamientos mientras juega con una daga. Esta tan ensimismada, que no parece ni haberse dado cuenta del grito de Jacky**",
+      "mensaje_sha256": "db9147acd8aefdfa503b49e1ee7a88fddb3ab31d4334df1d119758f54c2d2a6d",
+      "tipo_discord": 19,
+      "referencia": "1495805737018986706",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1495806798614102088",
+      "texto_sha256": "5e948ae0edfb57913dd163750af5e556f9625fe42cf858329a4c88d4c6a4c129",
+      "adjuntos": []
+    },
+    {
+      "id": "1495807912180715531",
+      "fecha_utc": "2026-04-20T15:26:37.031000+00:00",
+      "fecha_local": "2026-04-20",
+      "editado_utc": "2026-04-20T15:27:03.781000+00:00",
+      "texto": "Nox : *uy... algo pasa* \n**se acerca sin dar mucha explicación ,al cruzarse con uno de los subordinados ,le roba las dagas y las lanza en el mapa . \nParece que ha sido preciso , una daga marca el Fuerte Aurora en el sur del Garfio y la otra la zona donde se encuentra Zz'lath **",
+      "mensaje_sha256": "ea48c12784dc359831174ecb83b3efa663ca2c6f0a75d7c317156d0b49cd5127",
+      "tipo_discord": 19,
+      "referencia": "1495806798614102088",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1495807912180715531",
+      "texto_sha256": "209b2c4f657c79f36ea05fb1bb2540711bc8922b8529bccd97b1a618d3409345",
+      "adjuntos": []
+    },
+    {
+      "id": "1495809307818856559",
+      "fecha_utc": "2026-04-20T15:32:09.777000+00:00",
+      "fecha_local": "2026-04-20",
+      "editado_utc": null,
+      "texto": "**En ese momento, los esbirros de Happy Bonny se ponen alerta y desenfunda sus armas apuntando al lanzador de las dagas. Te quedas totalmente rodeados por pistolas y cimitarras que apuntan tu fino y sensible cuello**\n\nHappy Bonny: ¿Dame una sola razón por la que no debería colgarte de la entrada del pueblo como al elfo ese que me presentaste? **La pirata ni ha movido un musculo. Se ha quedado mirando el mapa y no te ha mirado hasta que no ha pronunciado la última palabra**",
+      "mensaje_sha256": "faec5d28c773331ab515c70b7690289c18aa893ebb24d2523134ace41d442a3c",
+      "tipo_discord": 19,
+      "referencia": "1495807912180715531",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1495809307818856559",
+      "texto_sha256": "a3f962b09a1c00b9f2943b8009616b2a4a52b1911d078fd76deba706528157cd",
+      "adjuntos": []
+    },
+    {
+      "id": "1495815390096392373",
+      "fecha_utc": "2026-04-20T15:56:19.905000+00:00",
+      "fecha_local": "2026-04-20",
+      "editado_utc": "2026-04-20T15:57:17.819000+00:00",
+      "texto": "Nox: **retira la silla de la mesa y se escucha un PUUUM\nUno de los piratas va a caer desplomado pero Nox lo coge de la solapa y lo sienta en la silla , le pega un tiron a la camisa mostrando un tatuaje con el emblema del barco del almirante tórtola Jones . **\n\nLas órdenes del ataque a Shiaru de las serpientes  vinieron desde ese punto . \n**suelta unos documentos en la mesa ** \nLa capitana del fuerte tenia esto en su despacho \n**le muestra los documentos robados del despacho. \nLa cara de seriedad de Nox es bastante inaudita en el ** \n\nLas piezas están listas , la partida a empezado . Y he escogido el bando ganador .",
+      "mensaje_sha256": "77e90753a034a6dac7ed900133fa61da50e06eff5c940b2394cfba9d76a6e610",
+      "tipo_discord": 19,
+      "referencia": "1495809307818856559",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1495815390096392373",
+      "texto_sha256": "05d062c048a80c13aa2a088b6e19e9c6f8f04a7c701040e215c7c87da6ab5339",
+      "adjuntos": []
+    },
+    {
+      "id": "1495819718408274171",
+      "fecha_utc": "2026-04-20T16:13:31.855000+00:00",
+      "fecha_local": "2026-04-20",
+      "editado_utc": null,
+      "texto": "Happy Bonny: **No deja de mirar a Nox, no parpadea ni cuando ese \"pirata\" a sido descubierto ni cuando le ha mostrado el tatuaje de la Marina** Fuera. Todos. Ahora.\n\n**La orden de Happy Bonny es como una gran alarma que suena por todo el bar. Los secuaces de la pirata empiezan a vaciar el local de otros piratas como la tripulación de Ione y otros borrachuzos. En menos de un minuto el bar a quedado totalmente vacío, incluso Picks ha salido fuera**\n\nHappy Bonny: Te dije que no metieras las narices donde no debías... **Se levanta de la silla y se acerca a ti** ¿Quieres jugarte la vida Noxie? Bien, pues ahora siéntate y escucha.\n\n🔴Fin de la escena 🔴",
+      "mensaje_sha256": "e32c7f425929131c26a0deb892eeeed1464ba5eb111eacb14007b2310de719d6",
+      "tipo_discord": 19,
+      "referencia": "1495815390096392373",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1495819718408274171",
+      "texto_sha256": "ab28c3c8144048fdd36c36dae38f2f142c98fdd11d94b7019e2247c402aaae4a",
+      "adjuntos": []
+    }
+  ]
+}

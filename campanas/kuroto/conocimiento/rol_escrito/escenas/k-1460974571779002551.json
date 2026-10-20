@@ -1,0 +1,81 @@
+{
+  "id": "k-1460974571779002551",
+  "campana": "kuroto",
+  "unidad_revision": "k-1459223985194664079",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "La voluntad de Ikaari",
+  "resumen": "El tanuki se despide de los suyos en una fiesta de un día.",
+  "relato": "La taberna de Ikaari sigue cerrada desde el incidente de Jelbreg, pero en las cavernas excavadas bajo ella sus familiares y amigos celebran una fiesta tradicional de un día. Ikaari recuerda su salida de Hijeku no Mori para entrenar en el plano de las sombras y una misión fallida en la que perdió todo. Piensa que esta vez protegerá el futuro de los pequeños. Mosto percibe su preocupación y le ofrece un brebaje especial. Ikaari lo bebe, lo abraza y le entrega pergaminos y una bolsa que contienen un plan de huida y su voluntad por si no regresa. Después baila en trance con la música. No se representa todavía la aventura ni su resultado.",
+  "participantes": [
+    "Ikaari",
+    "Mosto"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1460974571779002551",
+      "afirmacion": "Ikaari entrega a Mosto un plan de huida y su voluntad durante la despedida.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Cuatro situaciones diferentes separadas como subescenas con cobertura completa de los mensajes.",
+    "Visualizadas completas las imágenes 1461007603227431156.png, 1461010952722976891.png y 1461019179321917482.png: traje, vestido y pareja de la unión.",
+    "No afirmar boda legal o religiosa con oficiante: el barco es el único testigo que se menciona.",
+    "Las alusiones a encuentros con dos mujeres y a una anterior divinidad de Wukong no se reconstruyen fuera de lo contado aquí."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2026-01-14T12:31:21.507000+00:00",
+  "fin_utc": "2026-01-14T12:31:21.507000+00:00",
+  "fecha_local": "2026-01-14",
+  "intervalo": {
+    "anterior": 179,
+    "siguiente": 180,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1458905021985853695",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1461435221806284870",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 179,
+        "fecha": "2026-01-08",
+        "inicio_referencia_utc": "2026-01-08T19:27:25+00:00",
+        "fin_estimado_utc": "2026-01-08T21:59:18+00:00",
+        "duracion_video_segundos": 9113,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1458905021985853695"
+      },
+      {
+        "capitulo": 180,
+        "fecha": "2026-01-15",
+        "inicio_referencia_utc": "2026-01-15T19:01:30+00:00",
+        "fin_estimado_utc": "2026-01-15T22:02:29+00:00",
+        "duracion_video_segundos": 10859,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1461435221806284870"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1460974571779002551",
+      "fecha_utc": "2026-01-14T12:31:21.507000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": null,
+      "texto": "**TABERNA DE IKAARI**\n\nDesde el incidente de Jelbreg en la gran ciudad, la maltrecha taberna ha permanecido cerrada. Dentro se oyen ruidos casi inperceptibles que provienen de las cavernas y pasillos excavados furtivamente durante meses por la familia y amigos del tanuki. Dentro, muy adentro, se está celebrando una gran fiesta, que durará 1 día entero como marca la tradición. Quizás es el último día que pueden estar en compañía, ya que Ikaari podría no volver nunca de esta aventura. \nAún con los festejos, los pensamientos de Ikaari le llevan a otro sitio: Se acuerda de la primera vez que abandonó la aldea del bosque de Hijeku no Mori, enviado a entrenar al plano de las sombras después de que su maestro previera todo la calamidad que recibirían los tanukis en estos tiempos. Aquella vez no pudo cumplir su misión y lo perdió todo, pero siente que esta vez será diferente. Ikaari ya no es el mismo.\nMirando a los más pequeños, ajenos a todo problema, jugando y corriendo por toda la sala los mira y piensa:\n*Ésta vez no os fallaré, y pondremos fin a esto! El futuro os pertenece y no voy a permitir que os lo arrebaten igual que me lo arrebataron a mí*\n\nMosto, que lo conoce mejor que nadie y sabe que no está festejando como se debe, se le acerca y le ofrece un brebaje especial. Se lo bebe de un trago mientras lo abraza y le entrega unos pergaminos enrollados y una bolsa. Un plan de huída, y su voluntad por si no puede volver.  Después de beberlo, empieza a danzar y perder el oremus, entrando en un trance embriagador al son de la música de tambores, panderetas y harmónicas",
+      "mensaje_sha256": "9393989fc49129084632123ae2561a4e8037bfb31826364507484398be4a1acd",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1460974571779002551",
+      "texto_sha256": "7f3ee3b64e0459e22606beb2f6f639761a6fa0b7d792efdb342ffb299f11f0ec",
+      "adjuntos": []
+    }
+  ]
+}

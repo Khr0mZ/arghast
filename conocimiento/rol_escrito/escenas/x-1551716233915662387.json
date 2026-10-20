@@ -1,0 +1,321 @@
+{
+  "id": "x-1551716233915662387",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1551716233915662387",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "Un consejo de guerra y un entrenamiento peligroso",
+  "resumen": "Ilikar y Tortas proponen repartir cazadores y defensores, y ponen a prueba sus límites con ácido y veneno junto al lago.",
+  "relato": "Tortas contempla su aspecto renovado, sus brazaletes y el colgante que lo vincula a Iktan. Ilikar se acerca con las manos ensangrentadas tras otro ataque y expresa su frustración por no poder proteger a todos. Ambos hablan de la destrucción y de las aldeas amenazadas. El goliat propone reunir información, dividirse entre cazadores del dragón y protectores de Iktan, y celebrar un consejo con Walulu, Tessa, Eldrath y quienes quieran luchar. Tortas acepta la idea; el consejo todavía no se celebra.\n\nEmpiezan entonces un entrenamiento para volverse más fuertes. Ilikar busca encadenar cinco golpes en cinco segundos y usa restos de ácido y veneno de una serpiente caída para endurecer la práctica. Tortas bloquea una salpicadura con su brazalete y responde entrando en su guardia. Intercambian golpes que hacen sangrar al goliat y agrietan el caparazón de su maestro.\n\nLa furia aumenta el tamaño de Ilikar; Tortas proyecta un gran tronco astral que lo arroja al lago. Desde unas rocas, el discípulo devuelve un tajo de ácido y veneno. Tortas alarga su defensa para evitar que la salpicadura alcance la aldea y acaba quemado. Ilikar llega a un islote bajo la tormenta y lo reta a cruzar. La pausa deja el duelo en marcha, sin ganador ni preparación contra el veneno acreditada como dominio completo.",
+  "participantes": [
+    "Ilikar",
+    "Tortas"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1551724758754795562",
+      "afirmacion": "Ilikar propone separar cazadores y protectores y convocar un consejo de guerra.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1551728186386153523",
+      "afirmacion": "Tortas acepta hablar con los demás para formar el consejo.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1551730337250545695",
+      "afirmacion": "Ilikar usa ácido y veneno en el entrenamiento.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1551741917329367051",
+      "afirmacion": "Tortas amplía su defensa astral para proteger la aldea y recibe quemaduras.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1551746157917634601",
+      "afirmacion": "Ilikar reta a Tortas desde el islote y la escena queda en pausa.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El ataque anterior y el destino del hogar de Naór se citan, pero no se reconstruyen fuera de lo mostrado.",
+    "La espectacularidad del entrenamiento no concede habilidades mecánicas permanentes ni inmunidad al veneno.",
+    "Continúa en la unidad siguiente; no inventar vencedor."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-09-21T22:06:19.659000+00:00",
+  "fin_utc": "2026-09-22T00:05:14.097000+00:00",
+  "fecha_local": "2026-09-22",
+  "intervalo": {
+    "anterior": 65,
+    "siguiente": 66,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1551657228354719810",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 65,
+        "fecha": "2026-09-21",
+        "inicio_referencia_utc": "2026-09-21T18:10:46+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1551657228354719810"
+      },
+      {
+        "capitulo": 66,
+        "fecha": "2026-09-22",
+        "inicio_referencia_utc": "2026-09-22T18:20:03+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1551716233915662387",
+      "fecha_utc": "2026-09-21T22:06:19.659000+00:00",
+      "fecha_local": "2026-09-22",
+      "editado_utc": "2026-09-21T22:06:35.774000+00:00",
+      "texto": "Tortas:\n\n**Se baja de la roca y se acerca a la orilla del lago para verse reflejada en el agua, con su nueva apariencia. \n\nEsos brazaletes le recordarán el propósito que tiene después de haber presenciado tanta muerte y destrucción por parte de las serpientes. Y el colgante del soldado el lugar que vio construirse desde 0, que ha visto a su gente cuidarla y respetarla**",
+      "mensaje_sha256": "27b2a57d17ae1123e354ea9b0f6dd2c99d866cc8c1e320810c6e2b2ab39fbc13",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1551716233915662387",
+      "texto_sha256": "3856d0e7e534c54ff17ac0b2070039c0cc6778ff923071cf7b958c4545be72be",
+      "adjuntos": []
+    },
+    {
+      "id": "1551717813377572896",
+      "fecha_utc": "2026-09-21T22:12:36.232000+00:00",
+      "fecha_local": "2026-09-22",
+      "editado_utc": null,
+      "texto": "**A un par de metros de donde el maestro tortas estaba, llegó Ilikar...**\n\n**Las manos ensangrentadas del goliath trazaron un camino que unía el cuerpo de aquella gran serpiente con el lago. Se arrodilló frente a la orilla, introdujo sus manos dentro del agua y las lavó.**\n\nIlikar: Han habido menos bajas... Pero hemos vuelto a fallar a tu gente... \n\nEs frustrante... no poder estar tranquilo un dia, sin que nada malo pase.\n\nDebemos... - **sus manos se acercaron a su cara, para lavarse** - ...hacer algo antes de que sea demasiado tarde.",
+      "mensaje_sha256": "35b86f15f47821f6d9273308098f35884df6424610eae962207079195ab75e08",
+      "tipo_discord": 19,
+      "referencia": "1551716233915662387",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1551717813377572896",
+      "texto_sha256": "433b7bac346a81b677eff849ed63f5768ce9347295f200ba35fd44931ae1c680",
+      "adjuntos": []
+    },
+    {
+      "id": "1551718708018413589",
+      "fecha_utc": "2026-09-21T22:16:09.531000+00:00",
+      "fecha_local": "2026-09-22",
+      "editado_utc": null,
+      "texto": "**Tortas se gira y te mira Ilikar, apenado y frustrado a la vez**\n\nSon muchos años de paz en los que he visto a la gente de este pueblo crecer divertirse celebrar despedirse y querer...\n\nAcabábamos de volver de la aldea de bigotitos... Y otra vez recibimos un asalto........\n\nEfectivamente joven, debemos acabar con todo esto",
+      "mensaje_sha256": "ec6e3bcfaf912ea4eddabbfd76f6212d27ffb48c1af5b0dffc9800c0ec62ade0",
+      "tipo_discord": 19,
+      "referencia": "1551717813377572896",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1551718708018413589",
+      "texto_sha256": "4a21105e2ebd126ac58e4b842666d47ffaec66000581e112f2fd67f477785b18",
+      "adjuntos": []
+    },
+    {
+      "id": "1551720271986167809",
+      "fecha_utc": "2026-09-21T22:22:22.410000+00:00",
+      "fecha_local": "2026-09-22",
+      "editado_utc": null,
+      "texto": "**Ilikar miró a Tortas, algo preocupado.**\n\nIlikar: No sabemos nada de ese dragón, no se ni como es su apariencia, como actúa, como defendernos... ¿Que hemos estado haciendo todo este tiempo? ¿De verdad solo estamos esperandole como cobardes?",
+      "mensaje_sha256": "7c28842c1c07910b9be7e58192536a3bd0b207cec14f4156ca176d6a06400491",
+      "tipo_discord": 19,
+      "referencia": "1551718708018413589",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1551720271986167809",
+      "texto_sha256": "ea5f1b8fb19cf3de6ed7b3a626e789d7dd10097085441e9e143950a77ca7c9af",
+      "adjuntos": []
+    },
+    {
+      "id": "1551720610906775674",
+      "fecha_utc": "2026-09-21T22:23:43.215000+00:00",
+      "fecha_local": "2026-09-22",
+      "editado_utc": null,
+      "texto": "Tortas: \n\nIlikar si no fuese por los viajeros que han ido llegando a Iktan, esta aldea habría tenido el mismo destino que el hogar de Naor.\n\nQuién sabe cómo estarán el resto de aldeas de la isla..... Debemos unir fuerzas lo antes posible y hacernos más fuertes, más rápido, más caminos.\n\nPero si marchamos de Iktan quedará desprotegida........",
+      "mensaje_sha256": "83d34dea1c6de9708448a437fc458c3ec49776150c80e1c447dbdeeee0048660",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1551720610906775674",
+      "texto_sha256": "2a260278ec3365a8da740358a4a4691285489269473ea916a373dd4b449d07c4",
+      "adjuntos": []
+    },
+    {
+      "id": "1551724758754795562",
+      "fecha_utc": "2026-09-21T22:40:12.139000+00:00",
+      "fecha_local": "2026-09-22",
+      "editado_utc": "2026-09-21T22:42:02.698000+00:00",
+      "texto": "**Ilikar se levantó decidido, clavando a su Empujagigantes en el suelo.**\n\nIlikar: No tengo autoridad para hacer nada aquí maestro, pero te aseguro que de cazar dragones algo he aprendido. \n\nDeberiamos reunir información, trazar un plan y dividirnos en dos grupos... Los cazadores y los protectores...\n\nHay suficiente gente nueva aqui que puede proteger Iktan. Ione y su tripulación, Naor, aquel viejo loco araña... Podrán cubrirnos la espalda mientras un pequeño grupo marchamos hacia ese lagarto.\n\nMaestro... necesito pedirte un favor... Debes convocar un consejo de guerra. - **dijo el goliath con los ojos de aquel que ha decidido luchar.**",
+      "mensaje_sha256": "c715625154b849e51391b9f1a8dae2b020284ef9237c9382ed37406123ca7a3d",
+      "tipo_discord": 19,
+      "referencia": "1551720610906775674",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1551724758754795562",
+      "texto_sha256": "40372da97a9264aa05a0a26a5bef2561ec9e6107b13d273162c6870305b4c266",
+      "adjuntos": []
+    },
+    {
+      "id": "1551725601541595167",
+      "fecha_utc": "2026-09-21T22:43:33.075000+00:00",
+      "fecha_local": "2026-09-22",
+      "editado_utc": "2026-09-22T09:17:41.985000+00:00",
+      "texto": "Tortas:\n\nSólo sabemos que quiere a los elfos, y cada horda que manda es una amenaza y alarde de su poder... \n\nSi hoy casi fallecemos a pesar de las trampas que protegían la aldea, Ilikar debemos hacernos más fuertes lo antes posible si queremos tener éxito en nuestra misión",
+      "mensaje_sha256": "8136d681e9ed774da52cb54df774e73db8e347ad445e9c6ff95c89ffc1b42af9",
+      "tipo_discord": 19,
+      "referencia": "1551724758754795562",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1551725601541595167",
+      "texto_sha256": "7d06cb1ab3337fb606ca9292d7c77872fd2deec7a23a6dd7a0e8ca167f545543",
+      "adjuntos": []
+    },
+    {
+      "id": "1551727269507108935",
+      "fecha_utc": "2026-09-21T22:50:10.749000+00:00",
+      "fecha_local": "2026-09-22",
+      "editado_utc": "2026-09-21T22:50:38.103000+00:00",
+      "texto": "Ilikar: Dame la oportunidad de hablar con todos ellos mañana,  Walulu, Tessa, Eldrath, y quien quiera luchar... y haremos que todos se vuelvan fuertes.\n\nEso si... nosotros vamos a empezar hoy maestro... Esta vez hagamos el camino juntos, espero que tus músculos sigan calientes tras la batalla - ** dijo el goliath mientras introdujo su guja en la boca de uno de los cadáveres que había en la zona** - Ilikar necesita ser más ágil, necesito encontrar la manera de golpear 5 veces en 5 segundos...",
+      "mensaje_sha256": "f92bf2b545cff54c8aa16a0ac015fe05ee5f908bfddaf91b5a69d3c6ad3aab96",
+      "tipo_discord": 19,
+      "referencia": "1551725601541595167",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1551727269507108935",
+      "texto_sha256": "cc95dbf05fac30ca300ab42c072ca1d3a89349b0120f3744c4318e869416be03",
+      "adjuntos": []
+    },
+    {
+      "id": "1551728186386153523",
+      "fecha_utc": "2026-09-21T22:53:49.350000+00:00",
+      "fecha_local": "2026-09-22",
+      "editado_utc": null,
+      "texto": "Tortas:\n\nMe parece bien hablar con ellos y formar una especie de consejo de guerra joven.\n\n**Tortas se incorpora en la orilla del lago y estira sus brazos hacia los lados haciendo crujir algunos huesos**\n\n5 veces en 5 segundos.... **Se queda pensativa**",
+      "mensaje_sha256": "ed42d62054b657a11ecc25cd5dec2c44592c278cfbbb9024e52242e1d6003f54",
+      "tipo_discord": 19,
+      "referencia": "1551727269507108935",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1551728186386153523",
+      "texto_sha256": "7a86ffb5ef344ebd048fc0b88d6faaa7a78418b02be7b9f183300ddddef9e839",
+      "adjuntos": []
+    },
+    {
+      "id": "1551730337250545695",
+      "fecha_utc": "2026-09-21T23:02:22.156000+00:00",
+      "fecha_local": "2026-09-22",
+      "editado_utc": "2026-09-21T23:06:31.978000+00:00",
+      "texto": "Ilikar: Mi padre me enseñó, que a veces el entrenamiento debe ser duro, crudo y a muerte. Es la única manera de sobrepasar nuestros límites.\n\nSi la única manera de derrotarle, es acostumbrarnos a sus trucos, hagamos de sus trucos parte de nuestro entrenamiento maestro...\n\n**Ilikar alzó la lanza salpicando veneno y ácido en dirección a tortas**\n\n*Siempre he usado el elemento de hielo y de fuego, toca usar ese elemento que nunca pensé usar* - **Ilikar observó como el veneno de la seripiente corría por la lanza juntándose con aquel ácido creando una mezcla viscosa, putrefacta y letal.**",
+      "mensaje_sha256": "ed7ac507f05144334a19efa1ae0cda2995eeae009199d400edc8e4c1cb5af33c",
+      "tipo_discord": 19,
+      "referencia": "1551728186386153523",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1551730337250545695",
+      "texto_sha256": "e9a1b8c737af35de45c3b151c2ab0ebf8aade1914293deeeebab9aa37bc65de7",
+      "adjuntos": []
+    },
+    {
+      "id": "1551731660205326437",
+      "fecha_utc": "2026-09-21T23:07:37.573000+00:00",
+      "fecha_local": "2026-09-22",
+      "editado_utc": null,
+      "texto": "**El ácido y el veneno salpicaron hacia Tortas.\nTortas giró el antebrazo.\nEl brazalete yuan-ti recibió el impacto**\n\n\"Tu padre....\n\n**Un paso y ya estaba dentro de la guardia de Ilikar, la palma abierta directo al centro de su pecho, no para dañar, para desestabilizar, para que el gigante sintiera que de repente el suelo no estaba donde debía estar.**\n\nTenía razón\"",
+      "mensaje_sha256": "aa6b7721ba61018a4f4062a07231218ea0c8fb6eca4b66f240a0b82880e7844a",
+      "tipo_discord": 19,
+      "referencia": "1551730337250545695",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1551731660205326437",
+      "texto_sha256": "fd72640bba9aff5c0e4920b2e9d9d31910406e89053ee61c168a36bc05a0557d",
+      "adjuntos": []
+    },
+    {
+      "id": "1551733371800125491",
+      "fecha_utc": "2026-09-21T23:14:25.649000+00:00",
+      "fecha_local": "2026-09-22",
+      "editado_utc": "2026-09-21T23:18:24.499000+00:00",
+      "texto": "**El gigante dejó que Tortas le golpease. Bajó un poco el cuerpo y esperó pacientemente a que su palma estuviese lo suficientemente hundida en su pecho.**\n\n*Tu me lo enseñaste.*\n\n**Aprovechó para bajar la guja e intentó golpear la cara del mestro girando el asta de forma brutal, ante la osadía de Tortas.**",
+      "mensaje_sha256": "f3b0abe14c96ec4cd81051f224c64f8d3a547f76784be1b06045df49ea236ee8",
+      "tipo_discord": 19,
+      "referencia": "1551731660205326437",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1551733371800125491",
+      "texto_sha256": "ec4eab7d0362015da042a755fb2e1ff5d648e6a2f68af8489a2c96532e340609",
+      "adjuntos": []
+    },
+    {
+      "id": "1551734369482186766",
+      "fecha_utc": "2026-09-21T23:18:23.515000+00:00",
+      "fecha_local": "2026-09-22",
+      "editado_utc": null,
+      "texto": "**El mango conectó.\nDirecto a la mandíbula.**\n\nHas mejorado\n\n**Tortas giró con el impacto en lugar de resistirlo, usando la rotación para liberar la palma hundida en el pecho de Ilikar y convertirla en un gancho al costado mientras giraba.**",
+      "mensaje_sha256": "4d26d21cdac165cf35a827a3183e870b34b909ff3b4916e218e20b6cb32ec0d9",
+      "tipo_discord": 19,
+      "referencia": "1551733371800125491",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1551734369482186766",
+      "texto_sha256": "81a72927bdfe8caf5b4ab9cc418a1faf543bf06e88b94f393d26b0473817b083",
+      "adjuntos": []
+    },
+    {
+      "id": "1551735457379778582",
+      "fecha_utc": "2026-09-21T23:22:42.890000+00:00",
+      "fecha_local": "2026-09-22",
+      "editado_utc": null,
+      "texto": "**Ilikar encajó el golpe, escupiendo un hilo de sangre, pero la sonrisa en su rostro solo se hizo más salvaje.**\n\n**El rugido de Ilikar sacudió la tierra del claro.  La Furia se desató y en un instante, su cuerpo creció hasta cubrir al maestro con una sombra el doble de grande**\n\nIlikar: No lo suficiente.\n\n**Agarró el arma con ambas manos en intentó pegar varios tajos seguidos en horizontal**\n\n*Uno, dos, trés...*",
+      "mensaje_sha256": "3e2f317c543da09fc147b856fecdb94a4dea3c17e6feb494dd9bf39ec3c3c7dd",
+      "tipo_discord": 19,
+      "referencia": "1551734369482186766",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1551735457379778582",
+      "texto_sha256": "0b093b4d1e9350855e4fc1b6f153d896221214778074657552c01f373fb87556",
+      "adjuntos": []
+    },
+    {
+      "id": "1551736529028911228",
+      "fecha_utc": "2026-09-21T23:26:58.391000+00:00",
+      "fecha_local": "2026-09-22",
+      "editado_utc": null,
+      "texto": "**Tortas mira hacia arriba y siente la presencia imponente del Goliath, desvía los dos primeros golpes con sus palmas pero ante la fuerza de Ilikar en furia, se forman dos cortes en su caparazón**\n\n**Tortas da un salto hacia atrás**\n\nVeo que se acabo el calentamiento.\n\n**Pega un pisotón en el suelo y un tronco enorme astral aparece a su espalda, que va a ser proyectado hacia Ilikar como si de un bate se tratase**",
+      "mensaje_sha256": "175f475ff9e97beb188278f5429ececd99764a802455ddbf2baa0eeb71d652bb",
+      "tipo_discord": 19,
+      "referencia": "1551735457379778582",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1551736529028911228",
+      "texto_sha256": "c3263c5e41c0ef8f0a7fcc12782b6fa3ed57cdc3a63ac7a0ddcef50fe51b2064",
+      "adjuntos": []
+    },
+    {
+      "id": "1551739532699766786",
+      "fecha_utc": "2026-09-21T23:38:54.522000+00:00",
+      "fecha_local": "2026-09-22",
+      "editado_utc": "2026-09-21T23:40:41.129000+00:00",
+      "texto": "**Ilikar había madurado con sus peleas, esta vez fué más complicado pillarle por sorpresa.**\n\n**Por un instante logró sentir la enorme masa que se acercaba a él y decidió chocar el acero de la guja, ante el descomunal tronco.**\n\n**La fuerza de aquel tronco fue abrumadora y pese al tamaño colosal de Ilikar, el gigante fué arrancado del suelo y viajó a la velocidad de una flecha, estrellandose contra el lago múltiples veces, cortándole el cuerpo en cada impacto.**\n\n**Pasaron unos segundos hasta que entre la densa niebla que se había creado, se partió en dos.**\n\n** Ilikar había logrado mantenerse de pie sobre dos rocas que sobresalían, cargó un tajo potente, quemandose las manos y cortó el aire.**\n\n**Un tajo con forma de media luna, un haz de ácido y veneno se dirigía a la orilla desde la distancia abarcando desde el muelle hasta la piedra de Tortas.**",
+      "mensaje_sha256": "d8b277225de55f80333eaf19a95bdcbf84713b8f8b12bf2a75753f6e2cf8b8e8",
+      "tipo_discord": 19,
+      "referencia": "1551736529028911228",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1551739532699766786",
+      "texto_sha256": "3780a51889d089a901ef1e018c25a7e5e24ed4ee745e311b50bf027798263459",
+      "adjuntos": []
+    },
+    {
+      "id": "1551741917329367051",
+      "fecha_utc": "2026-09-21T23:48:23.062000+00:00",
+      "fecha_local": "2026-09-22",
+      "editado_utc": null,
+      "texto": "Tortas:\n\n_Debo aprender el camino del veneno si quiero enfrentarme al dragón_\n\n**El arbol astral se puso en horizontal y Tortas hizo un gran esfuerzo por ampliarlo lo máximo posible en longitud para proteger la aldea de la salpicadura, para poder abarcar más distancia prescindió del grosor en la parte que ella tenía delante**\n\n**Todo el veneno impactó y se disipó en el agua y en el tronco astral y en el centro se formó una nube de humo y vapor**\n\n**Cuando se disipó Tortas seguía de pie frente a su piedra. Quemado. Corroído. El caparazón con tres grietas nuevas. Los brazos con la piel del color del ácido.\n\nEl agua del lago seguía corroyéndose alrededor de las rocas donde Ilikar estaba de pie. El veneno flotaba en la superficie como aceite.**",
+      "mensaje_sha256": "c498fe6da3c7bc08253ace09a6ea1ad9e1e7e98cebf91db092374554bf512f0e",
+      "tipo_discord": 19,
+      "referencia": "1551739532699766786",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1551741917329367051",
+      "texto_sha256": "2fa749099958ac3139ba6bb4d1f4d83595d08280aaac4f84977e5e23f64ad1fc",
+      "adjuntos": []
+    },
+    {
+      "id": "1551746157917634601",
+      "fecha_utc": "2026-09-22T00:05:14.097000+00:00",
+      "fecha_local": "2026-09-22",
+      "editado_utc": "2026-09-22T00:08:25.744000+00:00",
+      "texto": "**Ilikar ignoró las quemaduras de su propia técnica y caminó, con el agua a la cintura, hasta emerger en un pequeño islote de roca en el centro del lago.**\n\n**Clavó la guja en la piedra y levantó la vista.**\n\n**El cielo comenzaba a oscurecerse rápidamente, las nubes se agruparon y los primeros truenos retumbaron a lo lejos mientras un aguacero denso y pesado comenzaba a golpear la superficie del agua.**\n\n**Lentamente, bajó la mirada a través de la cortina de lluvia, fijando sus ojos en la figura de Tortas en la orilla.**\n\n**Ilikar alzó una mano enorme, desafiante, y con un gesto seco le retó a cruzar.**\n\n*Aquí te espero, maestro.*\n\n🔴 PAUSA 🔴",
+      "mensaje_sha256": "31f788bca102c581b4669d3ad6676d9fa663e9a8b11283c5426160673163cc5f",
+      "tipo_discord": 19,
+      "referencia": "1551743449429184523",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1551746157917634601",
+      "texto_sha256": "46855158de5944fc02c289c1430f408ff19c58e64e8ffa5b7268ef7bed327a9b",
+      "adjuntos": []
+    }
+  ]
+}

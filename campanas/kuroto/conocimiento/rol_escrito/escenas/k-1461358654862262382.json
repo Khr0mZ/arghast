@@ -1,0 +1,387 @@
+{
+  "id": "k-1461358654862262382",
+  "campana": "kuroto",
+  "unidad_revision": "k-1461053420592173320",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Antes de la ceremonia",
+  "resumen": "El rechazo amoroso deja a Wukong con su regalo sin entregar.",
+  "relato": "Al día siguiente, Wukong espera junto al portal con una caja de madera y una botella costosa. Se pone nervioso cuando llega Sera y comprueba que viene sin Guxi. Le propone compartir una última copa antes de marchar al sur. Ambos se agradecen el camino recorrido: ella dice que el mono la ayudó a recuperar su equilibrio entre paz y tempestad, y él expresa que ha preferido permanecer con sus compañeros antes que aceptar una vida divina. La conversación deja entrever su interés amoroso, aunque intenta ocultarlo en brindis torpes sobre decisiones importantes.\n\nCuando por fin anuncia que necesita decir algo antes de que Sera se case, ella explica que ya celebró con Guxi una unión simbólica previa a la batalla, dejando la ceremonia para después de vencer a Ootakemaru. Añade que no quiere romperle el corazón. Wukong queda abatido, esconde la caja y presenta la botella como regalo de boda. Sera lo abraza y declara que lo quiere, pero no como él desea. El mono se aparta con cuidado y niega haber pretendido otra cosa, aunque su pensamiento y su llanto contenido revelan el dolor. Recoge la caja con el nombre de Seraphina grabado, sin entregarla ni mostrar su interior. Ella se despide y cruza el portal, dejando una amistad herida y la conversación sin resolver.",
+  "participantes": [
+    "Wukong",
+    "Seraphina"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1461358654862262382",
+      "afirmacion": "El mono espera con la caja y una botella antes de dar un regalo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1461378280807596255",
+      "afirmacion": "Wukong agradece sus errores pasados y la llegada de Sera a su vida.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1461381663455055933",
+      "afirmacion": "Sera agradece su influencia sobre la recuperación de su origen y equilibrio.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1461383317810053337",
+      "afirmacion": "Wukong explica que decidió quedarse con sus compañeros y con ella.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1461389642673950882",
+      "afirmacion": "El mono anuncia que quiere decir algo antes de la boda.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1461393287847088272",
+      "afirmacion": "Sera relata una unión simbólica previa y deja la ceremonia para después de la guerra.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1461395775547244716",
+      "afirmacion": "Wukong oculta su dolor y transforma la botella en un regalo de boda.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1461400385985052803",
+      "afirmacion": "Sera expresa que no corresponde a su interés amoroso.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1461402955386454192",
+      "afirmacion": "Wukong recoge la caja con el nombre de Sera sin entregarla.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1461406456988438611",
+      "afirmacion": "Seraphina cruza el portal después de despedirse.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La destrucción de la montaña se conoce por Wukong y no se asigna una autoría no identificada en ese primer mensaje.",
+    "La renuncia a una vida divina forma parte del relato del mono; no implica poderes nuevos otorgados en esta escena.",
+    "La unión simbólica de Guxi y Sera es un testimonio explícito de ella, distinto de la ceremonia futura.",
+    "El interior de la caja permanece oculto; no se inventa anillo, propuesta de matrimonio ni otro regalo concreto.",
+    "Los sentimientos y pensamientos privados no equivalen a declaraciones o acuerdos que el otro conozca íntegramente."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-01-15T13:57:34.050000+00:00",
+  "fin_utc": "2026-01-15T17:09:21.183000+00:00",
+  "fecha_local": "2026-01-15",
+  "intervalo": {
+    "anterior": 179,
+    "siguiente": 180,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1458905021985853695",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1461435221806284870",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 179,
+        "fecha": "2026-01-08",
+        "inicio_referencia_utc": "2026-01-08T19:27:25+00:00",
+        "fin_estimado_utc": "2026-01-08T21:59:18+00:00",
+        "duracion_video_segundos": 9113,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1458905021985853695"
+      },
+      {
+        "capitulo": 180,
+        "fecha": "2026-01-15",
+        "inicio_referencia_utc": "2026-01-15T19:01:30+00:00",
+        "fin_estimado_utc": "2026-01-15T22:02:29+00:00",
+        "duracion_video_segundos": 10859,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1461435221806284870"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1461358654862262382",
+      "fecha_utc": "2026-01-15T13:57:34.050000+00:00",
+      "fecha_local": "2026-01-15",
+      "editado_utc": null,
+      "texto": "Wukong\n\n**El mono estaría medio recostado bajo un árbol al lado del portal de la base, jugueteando con una caja de madera del tamaño de un zapato**\n\n- debería seguir en la capital, con lo que tendría que venir para usar el portal...\n\n**Se sienta con las piernas cruzadas, apoya la caja en su regazo y la mira tenso. Deshace el cordel que ata la caja, la abre un poquito, mira por la rendija el interior y vuelve a cerrarla y atarla**\n\n- hostia... Y si viene con el? No voy a darle la caja con el delante...\n\n**Se rasca la cabeza nervioso y se tira al suelo resoplando. Se echa la mano a la bolsa y saca una botella de alcohol. Parece buena**\n\n- Vaya plan de mierda Wukong... Una copa y un regalo... Lo más original del mundo... Te vas a comer los mocos...\n\n**Ahí se quedó el monje mirando a las nubes, nervioso y preocupado**\n\n<@408026114548695061>",
+      "mensaje_sha256": "4445cb5df9c2bc809c1238534fab006c4a3b45cfac02c27d54b919bf8eac6fd6",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461358654862262382",
+      "texto_sha256": "4ee039dbafe5c4a92e4e7d5accf00cfd8e4aa5f99642652e270ce369bf72fd12",
+      "adjuntos": []
+    },
+    {
+      "id": "1461366031921582141",
+      "fecha_utc": "2026-01-15T14:26:52.878000+00:00",
+      "fecha_local": "2026-01-15",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Entré a aquella base, teniendo una sonrisa de oreja a oreja, ya no tardaba en partir al sur, así que era momento de empacar lo poco o mucho que aún tenía guardado en la base (sobre todo el alcohol)**\n\n**No dejaba de tararear hasta que ví a Wukong mirando al cielo**\n\nYa estás preparando mi querido Sun Wukong?, o todavía estás esperando que el chino loco venga?",
+      "mensaje_sha256": "0894306e75da1fac49ce537380da8ce20712bd720b1f45c46e18b3d087e0bf8e",
+      "tipo_discord": 19,
+      "referencia": "1461358654862262382",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461366031921582141",
+      "texto_sha256": "f27d2952cb166cee4ef5f3cd932a583f2bce607ed7da416136d643b3ac290aa5",
+      "adjuntos": []
+    },
+    {
+      "id": "1461369010888245604",
+      "fecha_utc": "2026-01-15T14:38:43.119000+00:00",
+      "fecha_local": "2026-01-15",
+      "editado_utc": null,
+      "texto": "Wukong\n\n**Sobresaltado, el.mono se reincorporó, otra vez sentado con las piernas en cruz y miró nervioso a Seraphina**\n\n- ho...hola Sera. Como lo llevas? No te veo desde la fiesta en la taberna... Menudo desmadre eh? \n\n**Intentaba hacerse el gracioso y poner normalidad a la conversación. Miró alrededor de Seraphina buscando algo**\n\n- vienes sola? Donde te ha dejado. Tú prometido?\n\n**Cuando la vio sola, apretó un poquito la caja de madera que tenía en la mano**",
+      "mensaje_sha256": "9ceb9346d305d492a46ec3720c05a763dd54e2a76f078b1c1ba5908342c81eae",
+      "tipo_discord": 19,
+      "referencia": "1461366031921582141",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461369010888245604",
+      "texto_sha256": "1dc6e0c3040c5e35d1b9d3740b0ddc19c62863e68825d1e9579642b93b24f4d2",
+      "adjuntos": []
+    },
+    {
+      "id": "1461372429229097177",
+      "fecha_utc": "2026-01-15T14:52:18.115000+00:00",
+      "fecha_local": "2026-01-15",
+      "editado_utc": null,
+      "texto": "Seraphina:\nJajaja, vaya que si fue una locura, esa resaca fue de las mejores que he tenido en mi vida \n\n**Miré de arriba a abajo a Wukong, podía percibir de nuevo ese nerviosismo de cuando lo conocí, a diferencia del Wukong de la taberna**\n\nGuxi está alistando lo último para partir al sur, tu también deberías de hacer lo mismo, ya es momento de irnos, pero hay algo que me parece curioso.... Mmmhh? Qué escondes Monito?~\n\n**Me incliné hasta quedar cara a cara con el**\n\nEstás asustado?~",
+      "mensaje_sha256": "3c1995013132ac65617bbdcc33218c853a3c95d08603dd7477339f846dd6761e",
+      "tipo_discord": 19,
+      "referencia": "1461369010888245604",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461372429229097177",
+      "texto_sha256": "8314ba2c60780a2b13b158393ad7b35584f6f9e11c6c6f5b7cd76ac694e0b097",
+      "adjuntos": []
+    },
+    {
+      "id": "1461374305395806208",
+      "fecha_utc": "2026-01-15T14:59:45.428000+00:00",
+      "fecha_local": "2026-01-15",
+      "editado_utc": null,
+      "texto": "Wukong\n\n**Aguantando la distancia pero apartando la mirada**\n\n- que tendría que esconderte yo? \n\n*Piensa en algo piensa en algo piensa en algo*\n\n- es solo... Ah! Que me quedé con las ganas de echarme la última copa a solas contigo...\n\n**Escondió disimuladamente la caja de madera entre sus piernas y echo mano de la botella que tenía para ella. Parecía buena. Valía sus monedas. Para ocasiones especiales**",
+      "mensaje_sha256": "b7fdb99bea022d0803655e24e6db01338e96cf342379402883c2cc57f31b2977",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461374305395806208",
+      "texto_sha256": "570744ba788c14330bdb4447edb78b34521f4d2ad9bdf530a190850a2e942262",
+      "adjuntos": []
+    },
+    {
+      "id": "1461376845307052154",
+      "fecha_utc": "2026-01-15T15:09:50.990000+00:00",
+      "fecha_local": "2026-01-15",
+      "editado_utc": "2026-01-15T15:29:07.316000+00:00",
+      "texto": "Seraphina:\n**Sonreí nuevamente al ver la botella**\n\nNo debiste de gastar tanto, ahora que ya has roto tu pacto se ve que entraras de nuevo en el vicio, y lo peor es que yo también \n\n**Me senté a su lado y agarré la botella, inspeccionandola y sorprendiendome**\n\n*Vaya... Se ve que ha gastado bastante, después tendré que reponersela*\n\n**La abrí y le pase la botella a el**\n\nHázme los honores, Monito",
+      "mensaje_sha256": "5f95bde7e19a2b79a9aa368df05fde06d5ae12c62b6480284f8a368a1078d394",
+      "tipo_discord": 19,
+      "referencia": "1461374305395806208",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461376845307052154",
+      "texto_sha256": "8366ea1b1c52e62bbaac63724c56d2943d87ea1d89d0ebe5c0ae42d011169df9",
+      "adjuntos": []
+    },
+    {
+      "id": "1461378280807596255",
+      "fecha_utc": "2026-01-15T15:15:33.240000+00:00",
+      "fecha_local": "2026-01-15",
+      "editado_utc": "2026-01-15T15:16:58.550000+00:00",
+      "texto": "Wukong\n\n**Coge la botella y la levanta**\n\n- doy las gracias al Wukong del pasado. Si no hubiera sido por todas sus meteduras de pata no habría acabado bajo la montaña de los 5 elementos... no habría podido convertirme en lo que soy ahora... Ni habría podido conocer al amo... A la mejor de las compañeras... \n\n**La mira de reojo disimulando y le da un trago a la botella**\n\n<@408026114548695061>",
+      "mensaje_sha256": "3c0b088d0b68030f40545ed6ade2d766ef1bc9a7e1c927f1e19a545e465ca753",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461378280807596255",
+      "texto_sha256": "5c7e2624454b43c227aafb7f4420b8a976ac1017a189a429970b27feca2f49ab",
+      "adjuntos": []
+    },
+    {
+      "id": "1461381663455055933",
+      "fecha_utc": "2026-01-15T15:28:59.726000+00:00",
+      "fecha_local": "2026-01-15",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Solté una pequeña carcajada mientras decía eso**\n\nJamás me hubiese imaginado que literalmente estabas en una montaña\n\n**Suspiré mirando al cielo**\n\nWukong... Se que te lo dije antes pero aún así quiero decírtelo de nuevo y se que es cursi, trillado y todos los adjetivos que quieras ponerle, pero en verdad te agradezco tanto que aparecieras, me diste ese impulso para volver a mi origen, para ser esa mezcla entre la paz y la tempestad, quizás no haya tiempo en esta vida para agradecer lo que hiciste por mi sin siquiera saberlo, pero así fue... \n\n**Voltee a verlo, con unas cuantas lágrimas en los ojos**\n\nTe agradezco por haberme dejado ser tu maestra y gracias por seguir aquí",
+      "mensaje_sha256": "60f4daabfa5fb261cbd65de41bc61c8c7586dab78e74ce1962fc4465e6acb546",
+      "tipo_discord": 19,
+      "referencia": "1461378280807596255",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461381663455055933",
+      "texto_sha256": "f1312451b30ea167bd036911023a33611d88680b8b5c93f8b6b19b65f440db1a",
+      "adjuntos": []
+    },
+    {
+      "id": "1461383317810053337",
+      "fecha_utc": "2026-01-15T15:35:34.155000+00:00",
+      "fecha_local": "2026-01-15",
+      "editado_utc": null,
+      "texto": "Wukong\n\n*Ay madre... Está tremendamente sexi... Como puede estar tan sexi mientras llora y ríe a la vez? Relaja mono relaja...*\n\n- no he hecho nada. Solo soy un mono mete matas con aires de grandeza y más boca que cerebro... Soy yo el que debería darte a ti la gracias por literalmente todo... Por conseguirme la redención, por guiarme, por ponerme obstáculos que me han hecho mejor... Por ser tu... Por tu dualidad... Por tu Yin y tu Yan... Por enseñarme cosas son saber que me estabas enseñando nada... Por qué si... Banzo, Shirtz y el resto me han dado fuerzas... Pero es que... Tú me has dado la vida Seraphina...\n\n**El mono deja la botella en el suelo y la coloca encima de la mano de la harengon**\n\n- podría estar arriba. En un palacio cristalino. Rodeado de bardos, cortesanas y emperadores. Dirigiendo soldados. Bebiendo y comiendo... Siendo un Dios... Pero si estoy aquí abajo es por vosotros... Y por ti... Por qué tú me has enseñado el camino que quiero seguir...",
+      "mensaje_sha256": "337dce3b2b58b57dd3e7cc87628be8a1ec4810487aad4fda5c6574fe76e8e061",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461383317810053337",
+      "texto_sha256": "d88c3541cbf0947dff556fd47c5f04310336f14b4f692fef5b658650f6fb5f27",
+      "adjuntos": []
+    },
+    {
+      "id": "1461385012741148890",
+      "fecha_utc": "2026-01-15T15:42:18.258000+00:00",
+      "fecha_local": "2026-01-15",
+      "editado_utc": null,
+      "texto": "Seraphina:\nSolo te enseñé lo poco o mucho que yo se, aceptar tu oscuridad como tú luz, no hacer de menos alguna de las dos\n\n**Le dí un buen trago a la botella, el licor era exquisito**\n\nNo puedes ser completamente puro o completamente harapos, siempre hay un equilibrio para todo pero encontrarlo es lo que cuesta trabajo, y no es correcto tampoco buscar remediar eso el último día de vida, cuando el cuerpo ya no puede más y el tiempo se termina \n\n**Me limpié las pocas lágrimas con mi antebrazo devolviendole la botella**\n\nY lo que te hacía falta era sentir que creen en tí, pero lo más importante es que tu mismo creas en ti, y ahora ya lo sabes",
+      "mensaje_sha256": "d73ee9c727715f2fd402bda1803fcb22ee7f042b2d6d2eb506e111a3cf0d8794",
+      "tipo_discord": 19,
+      "referencia": "1461383317810053337",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461385012741148890",
+      "texto_sha256": "42112689d50075e44bf193e60fd6bceffbad279da0965a4bc2dbc796cf2e97f2",
+      "adjuntos": []
+    },
+    {
+      "id": "1461386235892334785",
+      "fecha_utc": "2026-01-15T15:47:09.880000+00:00",
+      "fecha_local": "2026-01-15",
+      "editado_utc": null,
+      "texto": "Wukong\n\n*O yo me explico como el culo o ella se está haciendo la tonta...*\n\n- totalmente de acuerdo Sera...\n\n**Le vuelve a dar otro trago a la botella**\n\n- que tal si está vez brindamos por las decisiones importantes? O por los cambios de decisiones importantes... Por qué es tan importante decidir cosas importantes como cambiar de opinión sobre esas cosas... Que crees?\n\n*La madre que te... Que cojones estás diciendo palurdo???*",
+      "mensaje_sha256": "0352fd7e3f5950485634e11334298be3c684cce9c202edd79df5abc7ddbfb313",
+      "tipo_discord": 19,
+      "referencia": "1461385012741148890",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461386235892334785",
+      "texto_sha256": "95de2cd05f5133689ebca4ebc622f5fc8eadb3b14cca3ec34b531e0f4d1aa93e",
+      "adjuntos": []
+    },
+    {
+      "id": "1461388686473302058",
+      "fecha_utc": "2026-01-15T15:56:54.144000+00:00",
+      "fecha_local": "2026-01-15",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Volví a reírme con sus palabras**\n\nPorque si no son importantes, perderían la importancia que tienen y eso dejaría de importar, no lo crees?\n\n**Tomé de nuevo la botella que se encontraba en sus manos, dándole de nuevo el característico chispazo de siempre**\n\nSalud por las decisiones importantes~",
+      "mensaje_sha256": "c3f127a294c9b37be3e30d434882231ea07559dcc4a0532677c586cee52d04d0",
+      "tipo_discord": 19,
+      "referencia": "1461386235892334785",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461388686473302058",
+      "texto_sha256": "0862d69afd3e56284cba5bb49e1bec3bd14a36bf14d860766d628c65bb89dae2",
+      "adjuntos": []
+    },
+    {
+      "id": "1461389642673950882",
+      "fecha_utc": "2026-01-15T16:00:42.120000+00:00",
+      "fecha_local": "2026-01-15",
+      "editado_utc": null,
+      "texto": "Wukong\n\n*Vale... Lo de no ser el lápiz más afilado del estuche debe de ser por parte de monje...*\n\n- Sera... Lo que te quería decir con lo de que podría estar en el cielo siendo un Dios... De que estoy aquí abajo por varios motivos y uno de ellos eres tú... Que te decía que tú me habías hecho querer un camino en esta vida... Es...\n\n**Al mono a veces le salían gallos y se le trababa la lengua**\n\n- que necesitaba decirte una cosa antes de que decidas tirar palante con la \"decisión importante\" de casarte... De ahí el brindis por las decisiones importantes y poder cambiar de opinion...",
+      "mensaje_sha256": "30f1299cf051f461645f16ee05602612ff0f39e3ed999be36df51d7f4e5aa26c",
+      "tipo_discord": 19,
+      "referencia": "1461388686473302058",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461389642673950882",
+      "texto_sha256": "3bcce9606738b62b284524785ba327cb1801a8564785478efb1ba6b61dca5c74",
+      "adjuntos": []
+    },
+    {
+      "id": "1461390515592368315",
+      "fecha_utc": "2026-01-15T16:04:10.240000+00:00",
+      "fecha_local": "2026-01-15",
+      "editado_utc": null,
+      "texto": "Seraphina:\nOh...\n\n**Voltee a verlo nuevamente con las mejillas un poco sonrojadas**\n\nDe acuerdo, me pondré sería entonces, qué es lo que quieres decirme?, soy todo oídos \n\n**Moví un poco las orejas mientras aún le sonreía**",
+      "mensaje_sha256": "885ed38f8194e58866bce16e92803d2d8e4ac2819bc5d0ffefd8d8740c464f7f",
+      "tipo_discord": 19,
+      "referencia": "1461389642673950882",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461390515592368315",
+      "texto_sha256": "0c403fc8af6631862f75f7b4efa89aea6d1de843b9b8dfb7f11601e83e27fc07",
+      "adjuntos": []
+    },
+    {
+      "id": "1461391359348048081",
+      "fecha_utc": "2026-01-15T16:07:31.407000+00:00",
+      "fecha_local": "2026-01-15",
+      "editado_utc": null,
+      "texto": "Wukong\n\n*Dios... Que monez...*\n\n- verás... Necesitaba decirte esto... Antes de que pases por el altar, te unas a tu novio, hagas cualquier tipo de ritual... O lo que sea que hagáis los marineros para formalizar una unión de por vida...\n\n**El mono empieza meter la mano disimuladamente por detrás de el para alcanzar la caja que había escondido**",
+      "mensaje_sha256": "26887004148fef41a6ce9b88d39bc02fc45098a8a03aa9ffd2ad733a4b6d3fb9",
+      "tipo_discord": 19,
+      "referencia": "1461390515592368315",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461391359348048081",
+      "texto_sha256": "65a254401e030202559f1150d5a7cbf7c667aac239378e3daf5682a46dfebb3f",
+      "adjuntos": []
+    },
+    {
+      "id": "1461393287847088272",
+      "fecha_utc": "2026-01-15T16:15:11.197000+00:00",
+      "fecha_local": "2026-01-15",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Puse mi mano sobre su pierna**\n\nDe hecho... ya sucedió, fue algo simbólico para antes de entrar a batalla, pero la ceremonia como tal la haremos después de vencer a Ootakemaru \n\n**Bajé la mirada sonrojada**\n\nMonito... No quiero romperte el corazón, no lo mereces",
+      "mensaje_sha256": "2a8c83d4605c8244b67c400e5f5b3edc410cbfa4fc1c5a81dc701005e82a1751",
+      "tipo_discord": 19,
+      "referencia": "1461391359348048081",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461393287847088272",
+      "texto_sha256": "df06968eaf0ef0ed23c5356db070d562b78c443d41df0078b564857a6199ec9f",
+      "adjuntos": []
+    },
+    {
+      "id": "1461395775547244716",
+      "fecha_utc": "2026-01-15T16:25:04.311000+00:00",
+      "fecha_local": "2026-01-15",
+      "editado_utc": "2026-01-15T16:30:59.145000+00:00",
+      "texto": "Wukong\n\n**En ese segundo, el mundo se estuvo para wukong. Escucho un sonido sordo... Como si algo se rompiera. Una sensación familiar se apoderó de el: esa oscuridad y esa presión de cuando estaba atrapado bajo la montaña. Volvía a sentirla al escuchar las palabras de Seraphina. Un dolor agudo en el pecho que lo atravesaba hasta la espalda. Un mar de lágrimas quería salir, pero usó toda su fuerza para tenerlas, aunque sin evitar que sus ojos se humedecieran claramente.\n\nToda esa electricidad entre ambos. Toda la complicidad. Toda la tensión entre ellos. Los momentos intimos... todo ahora era como veneno que le quemaba.\n\nDibujó una falsa y torcida sonrisa en su cara bajo esos ojos llorosos. Volvió a esconder la caja tras el. Y volvió a usar todas sus fuerzas para hablar sin dejar salir el dolor**\n\n- romp... Romperme el cor...corazón? Por qué ibas... A rompermelo...?\n\n**Rápidamente observó la botella en su otra mano**\n\n- yo lo único que quería... Era... Era... Darte tu regalo de bo... Boda antes que nadie... Ya sabes... Por si ootakemaru me da matarile... Hehe... He...\n\n**El monje le puso la botella en las manos a Seraphina y se puso de pie, siempre evitando que la caja quedara a la vista**",
+      "mensaje_sha256": "deca040b216ed8006add05bba56a5cb73873d762d688c5a24f83dea3a9ca65ca",
+      "tipo_discord": 19,
+      "referencia": "1461393287847088272",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461395775547244716",
+      "texto_sha256": "c696b88cc74fbd28a02418b3866e29e689e43a5b344218894544bc263807ec44",
+      "adjuntos": []
+    },
+    {
+      "id": "1461400385985052803",
+      "fecha_utc": "2026-01-15T16:43:23.525000+00:00",
+      "fecha_local": "2026-01-15",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Dejé la botella a un lado y me levanté a la par de el, sabía lo que estaba pasando, no era la primera vez que veía esa sonrisa rota y esos ojos cristalinos en alguien**\n\nDemasiado tarde, verdad?...\n\n**Con suavidad lo envolví entre mis brazos, dándole un sincero abrazo**\n\nNo quiero perderte y tú no me perderás, saldremos vivos de esto Wukong, aún te queda mucho por vivir y una niña a quien proteger...\n\n**Mis ojos también se estaban humedeciendo, me estaba doliendo hacer esto pero era necesario**\n\nTe quiero Wukong, pero no como tú quisieras, eres muy importante para los guardianes y seguirás siendo importante para mí",
+      "mensaje_sha256": "07bb9555604c7fafba0e50e4c9e4ae721cf7933ccb7f9517f5bdf6a677cc6745",
+      "tipo_discord": 19,
+      "referencia": "1461395775547244716",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461400385985052803",
+      "texto_sha256": "d82aae39db4f1c3f3c0f01cca2cda9eca921027d9f81233f75a9355a6a3fd710",
+      "adjuntos": []
+    },
+    {
+      "id": "1461402955386454192",
+      "fecha_utc": "2026-01-15T16:53:36.118000+00:00",
+      "fecha_local": "2026-01-15",
+      "editado_utc": null,
+      "texto": "Wukong\n\n*No me abraces Sera... Duele... Mucho...*\n\n**Wukong aparta suavemente a la harengon. Con cuidado**\n\n- te repito Seraphina que lo.has entendido mal... Solo quería darte tu regalo de boda antes que nadie... Como buen... Amigo tuyo que soy...\n\n**Coge sus cosas del suelo y se acomoda el zurrón antes de coger su bastón apoyado en el árbol**\n\n- y por supuesto que no voy a morir... Soy el gran Sun Wukong. Azote de guardianes. Terror de dragones. Rival de Erlang Shen. Y protector de la guardiana de Kuroto... Que cosas dices...\n\n*Eso no te lo crees ni tú tío mierda*\n\n**Para su sorpresa ve en el el suelo la caja de madera con el nombre de Seraphina grabado en la tapa y apresuradamente lo recoge para guardarlo en la bolsa antes de que la capitana lo viera. Tras eso, intenta recompense pero le es imposible cambiar esa sonrisa que rada y esos ojos vidriosos**\n\n- en fin... Mejor me adelanto. Imagino que te quedarás a esperar a tu... Marido... Ya me dirás que le parece el vino que os he regalado...",
+      "mensaje_sha256": "e3818e8d6a37e733074f432274fdfd4ee112c522ec912cfbb12523411eccb02d",
+      "tipo_discord": 19,
+      "referencia": "1461400385985052803",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461402955386454192",
+      "texto_sha256": "d0b9f12524474e02f1109539c21bf66b603e47cc7206d9813877811497c127e6",
+      "adjuntos": []
+    },
+    {
+      "id": "1461406456988438611",
+      "fecha_utc": "2026-01-15T17:07:30.965000+00:00",
+      "fecha_local": "2026-01-15",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Era innegable, dos corazones se habían roto ese día, uno más que el otro pero el dolor seguía presente**\n\nWukong... \n\n**Alcancé a ver qué había recogido algo del suelo, no quería presionarlo a enseñarme aquello que escondía con tanto recelo**\n\nNos vemos en el sur...\n\n**Se me había olvidado por completo a que había ido a la base, tenía un nudo en el pecho y una botella en los brazos**\n\n*Bien hecho Seraphina, bien hecho...*\n\n**Pase a lado de Wukong, saliendo de la base y entrando al portal, no sin antes dar una mirada hacia la base, sabiendo que dejaba algo roto que no podía reparar**\n\n🏴‍☠️ Seraphina sale de escena 🏴‍☠️",
+      "mensaje_sha256": "da0da5cf7c5cd716bbdebf1eaca4ccd2c8d03c1759a75261dba2d3848338f680",
+      "tipo_discord": 19,
+      "referencia": "1461402955386454192",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461406456988438611",
+      "texto_sha256": "41a5a556c535eccf51ff6097df6c5105b3f98edfdaa1ec122d1ffb674d8e8e75",
+      "adjuntos": []
+    },
+    {
+      "id": "1461406919276368118",
+      "fecha_utc": "2026-01-15T17:09:21.183000+00:00",
+      "fecha_local": "2026-01-15",
+      "editado_utc": null,
+      "texto": "💔wukong sale de escena💔",
+      "mensaje_sha256": "51a397700513452a280c7d119a56a86f94c3c709877c9aabfe8ab2276239c51f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461406919276368118",
+      "texto_sha256": "634bc22c462b1a4a05a990c6d6b7707d71728f3e7f16d5c1d636d5b9a9586d81",
+      "adjuntos": []
+    }
+  ]
+}

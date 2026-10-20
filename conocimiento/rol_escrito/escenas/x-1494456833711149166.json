@@ -1,0 +1,79 @@
+{
+  "id": "x-1494456833711149166",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1494293901647941632",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "Las apariencias de Coyote",
+  "resumen": "Coyote se entretiene cambiando parte de su cuerpo.",
+  "relato": "Coyote se aleja del poblado tras pasar el día siguiendo a una mujer a la que no nombra. Se queda entre los árboles y hace cambiar su apariencia de cintura para abajo, reproduciendo sucesivamente un enano, un hombre con armadura, una patata y una mujer. Termina satisfecho con el entretenimiento que encuentra allí. No se transforma por completo en cada individuo ni se identifica a la mujer seguida.",
+  "participantes": [
+    "Coyote"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1494456833711149166",
+      "afirmacion": "Coyote cambia sucesivamente la apariencia de la parte inferior de su cuerpo entre los árboles.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Cada subescena conserva un único mensaje de uno de los dos grupos temporales de cortes_horarios_historicos.",
+    "Coyote no se identifica con Citlali por compartir autor.",
+    "Las formas imitadas no acreditan identidades de los transeúntes, lectura mental ni transformación completa."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2026-04-16T21:57:54.822000+00:00",
+  "fin_utc": "2026-04-16T21:57:54.822000+00:00",
+  "fecha_local": "2026-04-16",
+  "intervalo": {
+    "anterior": 24,
+    "siguiente": 25,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1494397729080873092",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1494768689348870237",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 24,
+        "fecha": "2026-04-16",
+        "inicio_referencia_utc": "2026-04-16T18:02:47+00:00",
+        "fin_estimado_utc": "2026-04-16T20:50:50+00:00",
+        "duracion_video_segundos": 10083,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1494397729080873092"
+      },
+      {
+        "capitulo": 25,
+        "fecha": "2026-04-17",
+        "inicio_referencia_utc": "2026-04-17T18:36:47+00:00",
+        "fin_estimado_utc": "2026-04-17T21:05:13+00:00",
+        "duracion_video_segundos": 8906,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1494768689348870237"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1494456833711149166",
+      "fecha_utc": "2026-04-16T21:57:54.822000+00:00",
+      "fecha_local": "2026-04-16",
+      "editado_utc": null,
+      "texto": "Coyote:\n**Después de pasar el día detrás de aquella morenaza, decidí alejarme del poblado, llegando hasta la entrada y quedarme entre los árboles**\n\n**Miré mis patas y las hice cambiar, cada persona con la que me crucé hoy se reflejaba en mi apariencia de la cintura hacia abajo, pasando de ser un enano a un hombre con armadura, después una patata y la cintura de una mujer hasta terminar en la última**\n\n**Una sonrisa burlona y satisfactoria se mostraba en mis hocico, mostrando los colmillos mientras salivaba demasiado**\n\nQue lugar mas divertido, después de tanto tiempo, al fin algo de entretenimiento~",
+      "mensaje_sha256": "f0892d8005fb779df515708d44198bd4fa5b2ec447a664c9673d28c928f7bd89",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1494456833711149166",
+      "texto_sha256": "a0773eab1988ce93d37073c88cc762febc30de1bb9b83c827233c263910c6250",
+      "adjuntos": []
+    }
+  ]
+}

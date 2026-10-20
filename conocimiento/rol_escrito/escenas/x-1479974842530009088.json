@@ -1,0 +1,329 @@
+{
+  "id": "x-1479974842530009088",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1479936809256620233",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "El examen del huevo y las heridas",
+  "resumen": "El huevo parece cuidado, pero la curación de Citlali falla.",
+  "relato": "Ya en el camarote, Citlali pide a Patata que revise primero el huevo. Él lo observa a contraluz y escucha su interior. Reconoce que no sabe mucho de la especie, pero encuentra buena temperatura y respuesta a los estímulos, por lo que considera que está bien cuidado. La tranquilidad de Citlali se mezcla con tristeza al oír la comparación con una madre y su polluelo.\n\nDespués muestra la espalda arañada y mordida. La nueva curación mágica de Patata tampoco cierra las heridas. Citlali las atribuye a los lagartos y a una serpiente de aquel encuentro; supone que su edad puede dificultar la recuperación. Patata considera un veneno, alguna sustancia local o magia y propone buscar una planta para un antídoto si fuera necesario. Ella objeta que no tiene fiebre ni otros síntomas de veneno. Ninguna de estas ideas se confirma como diagnóstico. Patata promete mantenerse disponible y se despide; Citlali vuelve a acomodarse para descansar, todavía sin curación eficaz.",
+  "participantes": [
+    "Citlali",
+    "Patata"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1479979816068583657",
+      "afirmacion": "Patata considera que el huevo está bien, admitiendo su desconocimiento de la especie.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1479986679506014249",
+      "afirmacion": "Un nuevo intento de curación no surte efecto en las heridas de Citlali.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1479988274331127868",
+      "afirmacion": "Citlali atribuye mordeduras y arañazos a lagartos y una serpiente.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1479992613074505869",
+      "afirmacion": "Patata plantea magia como otra hipótesis y ofrece seguir ayudando.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "No se diagnostica veneno ni maldición por las hipótesis de los participantes.",
+    "La ayuda para recolectar especias queda prometida, sin salida de búsqueda.",
+    "El nombre Nadie se conserva tal como aparece; esta unidad por sí sola no acredita una identidad nueva."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-03-07T22:51:39.062000+00:00",
+  "fin_utc": "2026-03-08T00:11:27.388000+00:00",
+  "fecha_local": "2026-03-07",
+  "intervalo": {
+    "anterior": 13,
+    "siguiente": 14,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1479570997991706655",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1480286934453452832",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 13,
+        "fecha": "2026-03-06",
+        "inicio_referencia_utc": "2026-03-06T20:06:30+00:00",
+        "fin_estimado_utc": "2026-03-06T22:22:52+00:00",
+        "duracion_video_segundos": 8182,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1479570997991706655"
+      },
+      {
+        "capitulo": 14,
+        "fecha": "2026-03-08",
+        "inicio_referencia_utc": "2026-03-08T19:31:31+00:00",
+        "fin_estimado_utc": "2026-03-08T22:37:35+00:00",
+        "duracion_video_segundos": 11164,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1480286934453452832"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1479974842530009088",
+      "fecha_utc": "2026-03-07T22:51:39.062000+00:00",
+      "fecha_local": "2026-03-07",
+      "editado_utc": null,
+      "texto": "**ambos llegan al barco**\n\nMamá Citlali:\n**Me senté a la orilla de la cama y señalaba el huevo con la mano extendida**\n\nRevísalo a el primero",
+      "mensaje_sha256": "ab87ed5147f6bb036feadaae1d4cbf85de3a6c94f90a2baca13a366c1dab594c",
+      "tipo_discord": 19,
+      "referencia": "1479972791544582246",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479974842530009088",
+      "texto_sha256": "306f3ed4c0b4fd35e13d33accf89684300a8b04778719dc7ba47225c8b9ec40c",
+      "adjuntos": []
+    },
+    {
+      "id": "1479976110627229696",
+      "fecha_utc": "2026-03-07T22:56:41.400000+00:00",
+      "fecha_local": "2026-03-07",
+      "editado_utc": null,
+      "texto": "patata:\nVale voy a ver como esta el bebe\n**me acerco al huevo con una luz en la mano para ver un poco del interior lo examino tambien poniendo mis oidos**",
+      "mensaje_sha256": "d8852ceb7ac41bb9f2452c3757c29581588c8dac55732673b5b27654a577f198",
+      "tipo_discord": 19,
+      "referencia": "1479974842530009088",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479976110627229696",
+      "texto_sha256": "c1038c5771162b80e4c8de8f8c6afd6ed76d4c29913f950ff74e33a38a9785d5",
+      "adjuntos": []
+    },
+    {
+      "id": "1479979467131588640",
+      "fecha_utc": "2026-03-07T23:10:01.653000+00:00",
+      "fecha_local": "2026-03-08",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\nCómo lo ves?, todo bien?\n\n**Le miré un poco preocupada**",
+      "mensaje_sha256": "97db79778928eda0d6af5246400c551f34ecabea7399d93454d3c86c78540208",
+      "tipo_discord": 19,
+      "referencia": "1479976110627229696",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479979467131588640",
+      "texto_sha256": "14f8c00245fcd6939b222ad2594ff1dc12c5f5fffe31b6159c665a04ded8c2b3",
+      "adjuntos": []
+    },
+    {
+      "id": "1479979816068583657",
+      "fecha_utc": "2026-03-07T23:11:24.846000+00:00",
+      "fecha_local": "2026-03-08",
+      "editado_utc": null,
+      "texto": "patata:\nNo se mucho sobre esta especie pero parece estar bien tiene una buena temperatura y parece moverse a los estimulos deberia estar bien",
+      "mensaje_sha256": "157811fc0a60553d859831a28577eb1a71391aa7fcb53fc1465729eb4eb2f99e",
+      "tipo_discord": 19,
+      "referencia": "1479979467131588640",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479979816068583657",
+      "texto_sha256": "1752c5ba88fca6b4c87cf81a88dd419b31f8a17737a4093105b35105828f7480",
+      "adjuntos": []
+    },
+    {
+      "id": "1479980518501253183",
+      "fecha_utc": "2026-03-07T23:14:12.319000+00:00",
+      "fecha_local": "2026-03-08",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\n**Suspiré aliviada**\n\nMenos mal, me estaba preocupando que lo estuviera haciendo mal",
+      "mensaje_sha256": "74ad6e153f5f623331321cdd9386c3106551796d8df8f4929923f12e510614eb",
+      "tipo_discord": 19,
+      "referencia": "1479979816068583657",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479980518501253183",
+      "texto_sha256": "6fb2a4beb44c5eeaa5872cc7aedcb05fad236ee1c86a3eb09d9dd9ae5b47d213",
+      "adjuntos": []
+    },
+    {
+      "id": "1479981731955216454",
+      "fecha_utc": "2026-03-07T23:19:01.629000+00:00",
+      "fecha_local": "2026-03-08",
+      "editado_utc": null,
+      "texto": "patata:\nLo has cuidado bien señorita como una madre cuidaria a su polluelo\n**le sonrio con aprovacion**",
+      "mensaje_sha256": "3e6d6fbe8c62b33b79255271377b5189a826fce30a8a9331b5a13895ddb16e73",
+      "tipo_discord": 19,
+      "referencia": "1479980518501253183",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479981731955216454",
+      "texto_sha256": "eacc98dea8895c9bd79c894040bfdb9bbb665fa7d46e84842a1b6134ca2926cd",
+      "adjuntos": []
+    },
+    {
+      "id": "1479982556601647256",
+      "fecha_utc": "2026-03-07T23:22:18.240000+00:00",
+      "fecha_local": "2026-03-08",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\n**Mi sonrisa de alivio poco a poco se esfumó, mirando hacia el suelo y frotándome de nuevo los tatuajes de mis brazos**\n\nMe alegra mucho saberlo...",
+      "mensaje_sha256": "b53cda1fe8cc4fc017c5b34a696811bcb58f74e8d27a9ac4f22dadfa32cc5366",
+      "tipo_discord": 19,
+      "referencia": "1479981731955216454",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479982556601647256",
+      "texto_sha256": "15daecd2aa11085334790e5633aeca3f16ff3461c314c46ef685fb8febfd7fff",
+      "adjuntos": []
+    },
+    {
+      "id": "1479983129262428240",
+      "fecha_utc": "2026-03-07T23:24:34.773000+00:00",
+      "fecha_local": "2026-03-08",
+      "editado_utc": null,
+      "texto": "Patata:\nLo está haciendo bien \n**Me acerqué a ella y le puse la mano en el hombro parece que estaba pasando por algo y quería apoyarla**",
+      "mensaje_sha256": "f4a698a59f2eaf208992f4b02750d7d5376cb0cdfd85803763c5ce7d614cb8ec",
+      "tipo_discord": 19,
+      "referencia": "1479982556601647256",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479983129262428240",
+      "texto_sha256": "9fad14ec8f07cedc158af8d11f932a26ff954411655d96b5c6c244664743011e",
+      "adjuntos": []
+    },
+    {
+      "id": "1479986221827625030",
+      "fecha_utc": "2026-03-07T23:36:52.098000+00:00",
+      "fecha_local": "2026-03-08",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\n\nEstoy bien\n\n**Me dí la vuelta, dándole la espalda y levantándome la blusa, mostrándole mi espalda con los arañazos y mordiscos**",
+      "mensaje_sha256": "db6c83e1e6b260a7af52e5dd756cc45927a00ab46e455da251e422db82044ff5",
+      "tipo_discord": 19,
+      "referencia": "1479983129262428240",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479986221827625030",
+      "texto_sha256": "b8390de615fdab565bf96c23ad4b1400dfee798e5d11625378bc5ef90e2f4cde",
+      "adjuntos": []
+    },
+    {
+      "id": "1479986679506014249",
+      "fecha_utc": "2026-03-07T23:38:41.217000+00:00",
+      "fecha_local": "2026-03-08",
+      "editado_utc": null,
+      "texto": "Patata:\nVale aunque no debería mentirle a su médico\n**Examinó las heridas y intento curarlas con magia pero no parece hacer efecto**\nEsto es muy feo",
+      "mensaje_sha256": "b0e55bdefb66e1529070a2352a1b30e3e66bcf4df730adf947ee5aa36dfd6af9",
+      "tipo_discord": 19,
+      "referencia": "1479986221827625030",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479986679506014249",
+      "texto_sha256": "d0f1145b0b2552924cad76a7b9a4c5e5b6570a2eb1bf4348d61185ab21780610",
+      "adjuntos": []
+    },
+    {
+      "id": "1479987271964033208",
+      "fecha_utc": "2026-03-07T23:41:02.470000+00:00",
+      "fecha_local": "2026-03-08",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\nSupongo que es mi cuerpo que ya no aguanta como antes, los años pasan factura \n\n**Levanté los hombros**",
+      "mensaje_sha256": "a47644af2298af44cb62b17c4e1dc04309b8a8e5559374d948f4eae0d7a6bf30",
+      "tipo_discord": 19,
+      "referencia": "1479986679506014249",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479987271964033208",
+      "texto_sha256": "8840a62340be17e92be8185b14d762ec50f0c7495eb1170313cc4c81b2532f52",
+      "adjuntos": []
+    },
+    {
+      "id": "1479987398870958342",
+      "fecha_utc": "2026-03-07T23:41:32.727000+00:00",
+      "fecha_local": "2026-03-08",
+      "editado_utc": null,
+      "texto": "Patata:\nQue le hizo esto?",
+      "mensaje_sha256": "14d9bb29092f46da672e38fb2be91bd4951e09ee6cc560e44606653dac30162b",
+      "tipo_discord": 19,
+      "referencia": "1479987271964033208",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479987398870958342",
+      "texto_sha256": "661a73fa757893e69f16c86b0039da94fdbdd9c796268d2479242e8eb2e1e652",
+      "adjuntos": []
+    },
+    {
+      "id": "1479988274331127868",
+      "fecha_utc": "2026-03-07T23:45:01.453000+00:00",
+      "fecha_local": "2026-03-08",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\nYa te lo he dicho, fueron los lagartos, también tengo una que otra mordida de serpiente, que buen chancletazo le metí a ese bicho\n\n**Empecé a bajarme la blusa**\n\nPues solo bastará con vendar las heridas y esperar a que sanen solas",
+      "mensaje_sha256": "510a5bb09b4bfb9a6d00abddee291ecdfd9dcec13f49dacf4b08d7b7ec1631ac",
+      "tipo_discord": 19,
+      "referencia": "1479987398870958342",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479988274331127868",
+      "texto_sha256": "41be4078e4defaf9cc1d2a5790537e358c60a5fb8a091a465445e14ea9d028df",
+      "adjuntos": []
+    },
+    {
+      "id": "1479988900448436294",
+      "fecha_utc": "2026-03-07T23:47:30.731000+00:00",
+      "fecha_local": "2026-03-08",
+      "editado_utc": null,
+      "texto": "Patata:\n*Será algún tipo de veneno?*\nNo hace falta que la baje más tengo que averiguar que las provoca quizá alguna planta o alguna sustancia.\n quizá si es algún veneno de la zona en el mismo lugar puede que haya alguna planta para hacer un antídoto",
+      "mensaje_sha256": "31ccf8a7f186e6955ba9a17acef8b06fa2c212ed225afeb70bd96dc169741d00",
+      "tipo_discord": 19,
+      "referencia": "1479988274331127868",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479988900448436294",
+      "texto_sha256": "a68d5eaa4245ec1679490adb24ee4078373c32e2bed5247a41fffcd662191f18",
+      "adjuntos": []
+    },
+    {
+      "id": "1479992260467626125",
+      "fecha_utc": "2026-03-08T00:00:51.822000+00:00",
+      "fecha_local": "2026-03-08",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\nMe la acomodé porque tengo frío \n\n**Negué con la cabeza**\n\nSi hubiese sido algún veneno, ya lo hubiera sentido, no tengo fiebre ni otras cosas",
+      "mensaje_sha256": "1ffb6296c6121ec2bacea2f068dceeaf29610a7e72422072a7ce2e057a9f0640",
+      "tipo_discord": 19,
+      "referencia": "1479988900448436294",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479992260467626125",
+      "texto_sha256": "9b91efa77e8824740428ecd686d9bbf9aa946a42b55bdff1a317259a843c7937",
+      "adjuntos": []
+    },
+    {
+      "id": "1479992613074505869",
+      "fecha_utc": "2026-03-08T00:02:15.890000+00:00",
+      "fecha_local": "2026-03-08",
+      "editado_utc": null,
+      "texto": "Patata:\nSerá algún tipo de magia estaré cerca si necesitas de mi ayuda búscame haré lo que esté en mi mano para ayudar",
+      "mensaje_sha256": "d224540a811b80aa999d99cd6a23c616618d96d3f45b1bb65a141cc631395f81",
+      "tipo_discord": 19,
+      "referencia": "1479992260467626125",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479992613074505869",
+      "texto_sha256": "40470465618e7b4d43dd329224e800f1fcbc40488bf019c7368a0bb2d856a604",
+      "adjuntos": []
+    },
+    {
+      "id": "1479994703226339515",
+      "fecha_utc": "2026-03-08T00:10:34.221000+00:00",
+      "fecha_local": "2026-03-08",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\n\nTe lo agradezco mucho mijo, yo voy a intentar descansar un rato más \n\n**Volví a acomodarme sobre la cama pero sin acostarme por completo**",
+      "mensaje_sha256": "2ed9490049fed9bcc3a0cfeaca48ccc61f7c19be7cbcc8b98c7f40425a1cf0b1",
+      "tipo_discord": 19,
+      "referencia": "1479992613074505869",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479994703226339515",
+      "texto_sha256": "e01d2843a023040b056064b1602980b5876ce5e61e3b606cf89498d11d4e8143",
+      "adjuntos": []
+    },
+    {
+      "id": "1479994870738456607",
+      "fecha_utc": "2026-03-08T00:11:14.159000+00:00",
+      "fecha_local": "2026-03-08",
+      "editado_utc": null,
+      "texto": "Patata:\nHasta luego señorita",
+      "mensaje_sha256": "791b97f9b7c0334325f44f91bf716e5995d490f6f8fbf4a9c105bcfa2272cf12",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479994870738456607",
+      "texto_sha256": "e03485e94b8ace7de5e1695312ed6f9415dd4150be1bb3b66eeeddf911eea6c7",
+      "adjuntos": []
+    },
+    {
+      "id": "1479994926224773453",
+      "fecha_utc": "2026-03-08T00:11:27.388000+00:00",
+      "fecha_local": "2026-03-08",
+      "editado_utc": null,
+      "texto": "🔴 fin de escena 🔴",
+      "mensaje_sha256": "5ffe56049afed20a2e5bb092264f1938e20aeec20994023b8d41b9508c384c44",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479994926224773453",
+      "texto_sha256": "6af455b187ffab96d443179a0fef0281bcd0ea8ac59b020f74e54ac0e799e4e4",
+      "adjuntos": []
+    }
+  ]
+}

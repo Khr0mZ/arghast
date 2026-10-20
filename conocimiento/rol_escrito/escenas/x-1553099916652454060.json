@@ -1,0 +1,503 @@
+{
+  "id": "x-1553099916652454060",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1552821125669453849",
+  "hilo_id": "1502317868253970632",
+  "hilo_nombre": "Perlasal - La ciudad de las Sirenas",
+  "titulo": "El tiburón mecánico de Archi y los trajes submarinos",
+  "resumen": "Archi se comunica mediante un tiburón mecánico y ofrece trajes de nado a cambio del ojo del kraken y de examinar a Patata.",
+  "relato": "Un enorme tiburón metálico se acerca al grupo y provoca alarma. Desde la máquina se oye a Archi, que después aparece como una proyección surgida de un cristal. La imagen lo muestra descansando en una hamaca de Iktan con una copa en la mano: no se ha convertido en pez ni se encuentra físicamente dentro del vehículo. Dice que lleva regalos para ayudar en la expedición.\n\nInteresado por la naturaleza de Patata, Archi formula dos peticiones: que le traigan un ojo del kraken y que el tubérculo le permita examinar su cuerpo. Abre un compartimento con maletines y presenta trajes que, según explica, permiten nadar como criaturas subacuáticas y compensar la presión de las profundidades. Coyote acepta el encargo del ojo y Zelda se muestra conforme. Patata se prueba su traje, sin que se registre una respuesta expresa a la solicitud del examen. Archi entrega además un maletín especial para Chopito, con la instrucción de pulsar un botón rojo llegado el momento.\n\nCoyote, Oghma y Zelda también se equipan. Entre bromas y agradecimientos, vuelven a preguntar cómo localizarán y acorralarán al enemigo. Oghma recupera la propuesta de Patata y solicita que Tenta los guíe por las cuevas de la zona. La utilidad de los trajes aún no se prueba en una lucha.",
+  "participantes": [
+    "Archi",
+    "Oghma",
+    "Zelda",
+    "Coyote",
+    "Patata",
+    "Tenta",
+    "Chopito"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1553327086549340271",
+      "afirmacion": "El tiburón proyecta la imagen de Archi, que permanece en Iktan.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1553446502506954823",
+      "afirmacion": "Archi pide un ojo del kraken y examinar a Patata; presenta los trajes y sus funciones.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1553453187976011787",
+      "afirmacion": "Coyote acepta entregar el ojo del kraken.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1553462393806258228",
+      "afirmacion": "Archi entrega el maletín para Chopito e indica que debe pulsar el botón rojo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1553462995940675685",
+      "afirmacion": "Patata se prueba el traje.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1553499795610665091",
+      "afirmacion": "Oghma pide a Tenta que los guíe por las cuevas de la zona.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Archi y Archie son las grafías usadas para el mismo interlocutor en esta conversación de Xoltacan; no se mezcla su identidad con personajes de Kuroto.",
+    "Las bromas de Coyote sobre que el kraken sea hijo de Zelda no se convierten en una relación familiar acreditada.",
+    "Los pensamientos privados de Oghma y Coyote no se atribuyen como conocimientos de sus compañeros.",
+    "El examen de Patata, la eficacia de los trajes, la activación del maletín y el control del kraken quedan sin comprobar en esta escena.",
+    "Se han inspeccionado los seis adjuntos ilustrados. No se deducen capacidades ni sucesos adicionales de sus imágenes."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-09-25T17:44:35.331000+00:00",
+  "fin_utc": "2026-09-26T20:13:33.904000+00:00",
+  "fecha_local": "2026-09-25",
+  "intervalo": {
+    "anterior": 66,
+    "siguiente": 69,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 66,
+        "fecha": "2026-09-22",
+        "inicio_referencia_utc": "2026-09-22T18:20:03+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241"
+      },
+      {
+        "capitulo": 69,
+        "fecha": "2026-10-08",
+        "inicio_referencia_utc": "2026-10-08T18:17:02+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1553099916652454060",
+      "fecha_utc": "2026-09-25T17:44:35.331000+00:00",
+      "fecha_local": "2026-09-25",
+      "editado_utc": null,
+      "texto": "Archi: **Estaría tumbado tranquilamente en su hamaca, en la choza de Iktan. Con una mano sujetaría una especie de mando o joystick mientras mira una pantalla colocada en la palmera, mientras con la otra daría pequeños sorbos a una copa de caipirinha.\n\nMientras tanto, en las inmediaciones de Perlasal, algo muy distinto comenzaría a acercarse.\n\nEntre las aguas podría distinguirse una enorme máquina metálica con la silueta de un tiburón. Sus placas de metal reflejarían la luz mientras avanzaba lentamente hacia las inmediaciones , emitiendo un leve sonido mecánico bajo el agua.\n\nA primera vista, resultaría difícil saber si se trataba de algún tipo de vehículo, arma o invento. Pero una cosa estaba clara: aquello no era un tiburón normal.**",
+      "mensaje_sha256": "b14e67780afb3f5b9de96d16a70846bc0266fa1aadd95cf5047aa174e7e39427",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553099916652454060",
+      "texto_sha256": "71d26f3b8016e7377dc1e6b0ecb9a320014e6e6dff49f1399c64a7e98dfbcf99",
+      "adjuntos": []
+    },
+    {
+      "id": "1553101599042441328",
+      "fecha_utc": "2026-09-25T17:51:16.444000+00:00",
+      "fecha_local": "2026-09-25",
+      "editado_utc": null,
+      "texto": "Coyote:\n**Aplaudiendo por el espectáculo que nos ha brindado nuestro amigo tentaculoso**\n\nNo entiendo tus burbujitas pero estoy bastante sorprendido de esta entrada\n\n**Voltee a ver a Zelda**\n\nBueno, ya que estamos todos reunidos, podemos ir a...\n\n**Empecé a ver la sombra acercarse y cubrir gran parte del lugar**\n\nA la madre...",
+      "mensaje_sha256": "76524b08f68dae176bf8188c10125ad213b2760b2355bb6deedfae050f74db41",
+      "tipo_discord": 19,
+      "referencia": "1553099631658008699",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553101599042441328",
+      "texto_sha256": "b6af702c6a31fd6375c53fdb07a4b17f6e75b92132dba48b871fca64c63bd0e1",
+      "adjuntos": []
+    },
+    {
+      "id": "1553101951816826915",
+      "fecha_utc": "2026-09-25T17:52:40.552000+00:00",
+      "fecha_local": "2026-09-25",
+      "editado_utc": null,
+      "texto": "Tenta: Mi gran señor dice que ha leido su nota de auxilio y ha venido par amplificar tu deuda de lacayo",
+      "mensaje_sha256": "1622f89809d6327175301c74ee727d0eccd3e2aa371adafd3008fcf23cf45049",
+      "tipo_discord": 19,
+      "referencia": "1553101599042441328",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553101951816826915",
+      "texto_sha256": "83aa8c2e0754a9aaee2d2064623be3d42b046d20953e99d981d7ceabbf3e800d",
+      "adjuntos": []
+    },
+    {
+      "id": "1553102470304239727",
+      "fecha_utc": "2026-09-25T17:54:44.169000+00:00",
+      "fecha_local": "2026-09-25",
+      "editado_utc": null,
+      "texto": "Coyote:\nMe alegra bastante que si se haya entendido el mensaje, fuerte y claro, ahora, ese también es un amigo de ustedes?\n\n**Señalaba aquello que se iba acercando hacia Perlasal**\n\n<@616683133374562304>",
+      "mensaje_sha256": "5d8374e3d5429893ad3a6c77f058ac2764c6938e3083c1082b54a8a744c173ab",
+      "tipo_discord": 19,
+      "referencia": "1553101951816826915",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553102470304239727",
+      "texto_sha256": "ca4dc3d7f677b06f10af1e226ecf895c75a1d19ae47c76cc248e2f5b8ecf1acd",
+      "adjuntos": []
+    },
+    {
+      "id": "1553103712292048907",
+      "fecha_utc": "2026-09-25T17:59:40.282000+00:00",
+      "fecha_local": "2026-09-25",
+      "editado_utc": null,
+      "texto": "Oghma:\nLa primera vez que lo veo, pero mira como le resplandecen las escamas\n\n**Mira a sus compañeros encogiendose de hombros**",
+      "mensaje_sha256": "57ce5b40657929c28be997295bcaca2187aa813377d199745a0e96e923357345",
+      "tipo_discord": 19,
+      "referencia": "1553102470304239727",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553103712292048907",
+      "texto_sha256": "c30ae88923af478fb1a4b15fbccfe632c26574c21c1419df9b0faa5c455bd40a",
+      "adjuntos": []
+    },
+    {
+      "id": "1553104513739526145",
+      "fecha_utc": "2026-09-25T18:02:51.362000+00:00",
+      "fecha_local": "2026-09-25",
+      "editado_utc": null,
+      "texto": "Archie : **Desde el interior de aquella máquina metálica submarina se escucharía entonces la característica voz de Archi, acompañada de una ligera risa.**\n\nPor fin os encuentro. Llevaba un rato buscándoos... **se escucharía una nueva carcajada al otro lado del metal.**Parece que teníais prisa.",
+      "mensaje_sha256": "32124c67dd1369d8dabf8e4e10b8135ab13dda3171540880afabe448fba1d508",
+      "tipo_discord": 19,
+      "referencia": "1553103712292048907",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553104513739526145",
+      "texto_sha256": "8ceb765bcc876f1ed92abea5ecc9cd672cfdef33f4776bbaa2863abe6cf0d75c",
+      "adjuntos": []
+    },
+    {
+      "id": "1553180700235014225",
+      "fecha_utc": "2026-09-25T23:05:35.638000+00:00",
+      "fecha_local": "2026-09-26",
+      "editado_utc": null,
+      "texto": "Oghma:\n**Ojiplatica y con la boca abierta de la sorpresa**\n\nArchie?! Asi que esto es lo que te tenia ocupado, te has transformado en pez!!",
+      "mensaje_sha256": "ad0b09df9fc1a89f6634eb8a9a154e7efab5329afc4fc781c446dd0001a770f7",
+      "tipo_discord": 19,
+      "referencia": "1553104513739526145",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553180700235014225",
+      "texto_sha256": "be5e43201b607bb6ab730a3e7155de90a5c7dec585c690f6a072bfe91ba81a2a",
+      "adjuntos": []
+    },
+    {
+      "id": "1553327086549340271",
+      "fecha_utc": "2026-09-26T08:47:16.855000+00:00",
+      "fecha_local": "2026-09-26",
+      "editado_utc": null,
+      "texto": "Archi: \nTu ingenuidad resalta aún más tu belleza, mi queridísima Lady Oghma.\n\n**El tiburón metálico submarino se va acercando lentamente hasta la posición del grupo. Cuando finalmente llega, podéis ver cómo, desde su aleta dorsal, se abre un pequeño compartimento.\n\nDe su interior emerge un cristal que comienza a emitir un intenso brillo azulado. La luz se proyecta frente a vosotros, formando poco a poco la imagen holográfica de un gnomo.\n\nArchi aparece tumbado tranquilamente en la hamaca de la choza de Iktan, con una copa en la mano y una sonrisa despreocupada.**\n\nNo soy mucho de mojarme en el mar… El salitre irrita mis delicadas pantorrillas.\n\n**Hace una pequeña pausa, acomodándose en la hamaca.**\n\nPero traigo regalos útiles para vuestra hazaña tentaculesca.\n<@408026114548695061> <@660950599269089281> <@226504798978048000> <@171702246952665098> <@277455010571223040>",
+      "mensaje_sha256": "8b6b72e2e501436b5c46b9dd536f3b164dd7e0d710516bdc5e2c25a6cc60f660",
+      "tipo_discord": 19,
+      "referencia": "1553180700235014225",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553327086549340271",
+      "texto_sha256": "20801ad6abc8ed40c510cbc3930c9ee54a9a326d7165d6b4a77953aca6852972",
+      "adjuntos": []
+    },
+    {
+      "id": "1553329414748504147",
+      "fecha_utc": "2026-09-26T08:56:31.941000+00:00",
+      "fecha_local": "2026-09-26",
+      "editado_utc": null,
+      "texto": "Zelda:\n\n**Se queda mirando al tiburón metálico, y al ver el holograma le da un escalofrío del susto, cubriéndose detrás de Coyote.**\n\n– *Vale, esto sí que no me lo esperaba... Pero cualquier ayuda es poca.*\n\n– Gracias por los regalos señor holograma. Si con ellos ganamos le invitaré a sushi de kraken. \n**Se acerca al tiburón de metal despacio**",
+      "mensaje_sha256": "c37f3512446efbe4402ca0ea2e75d16c9b51b25fe1da70a61e216d1e0b611922",
+      "tipo_discord": 19,
+      "referencia": "1553327086549340271",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553329414748504147",
+      "texto_sha256": "70ac9ed872e4f82ba1e36db31a48d70b6d8d32d1c757f61a807e388146d9be6c",
+      "adjuntos": []
+    },
+    {
+      "id": "1553343448881565707",
+      "fecha_utc": "2026-09-26T09:52:17.939000+00:00",
+      "fecha_local": "2026-09-26",
+      "editado_utc": "2026-09-26T10:18:15.494000+00:00",
+      "texto": "Oghma:\n*Primero el palo y ahora mas regalos, debe ser el mejor dia de mi vida*\n\nEres un bribon que sabe como sorprender a una dama, cuando volvamos tendre un regalo para ti\n\n**Le guiña un ojo al holograma sonriendo de forma sugerente**",
+      "mensaje_sha256": "096fe26efd5b4e998bf89108bdb31e7ececd60254085edc1f706eea0be63723f",
+      "tipo_discord": 19,
+      "referencia": "1553327086549340271",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553343448881565707",
+      "texto_sha256": "de64118408f1df1442d9794d73169eb249d4dbe520aa350756a5064639ed278f",
+      "adjuntos": []
+    },
+    {
+      "id": "1553350035473956887",
+      "fecha_utc": "2026-09-26T10:18:28.305000+00:00",
+      "fecha_local": "2026-09-26",
+      "editado_utc": null,
+      "texto": "patata:\nAh eres el famoso archi un poco mas luminoso de lo que esperaba.\nToda ayuda es bienvenida.\n**hace una pequeña reverencia de gratitud**\n¿con tus inventos podrias encontrar una cueva apropiada para luchar contra la bestia?",
+      "mensaje_sha256": "9a926c4c0e2fc25c2cf4f6f7074991bd40ffb18b5385a48b6701615980fe26aa",
+      "tipo_discord": 19,
+      "referencia": "1553327086549340271",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553350035473956887",
+      "texto_sha256": "5f07d891d94802cae0f90709c3b0a1187759554991ca2ce64b3a5dc483f69bab",
+      "adjuntos": []
+    },
+    {
+      "id": "1553360567979343934",
+      "fecha_utc": "2026-09-26T11:00:19.450000+00:00",
+      "fecha_local": "2026-09-26",
+      "editado_utc": null,
+      "texto": "Archi : \n\nQuerida que diantres es eso que habla ? \n\nUn Tubérculo!!\n\nInteresantisimo… un organismo con forma de patata y capacidad de desplazamiento y comunicación autónoma.\n\nQuerido <@171702246952665098>  eres  científicamente fascinante. Y culinariamente preocupante.\n\nHorrendamente magnífico  sin lugar a duda . \n\nBien este acontecimiento cambia por completo el paradigma de mis deseos para con vosotros . \n\nOs ayudaré a cambio de dos cosas . \n** veis el holograma del gnomo que mira muy interesado a la patata y os hace el gesto de 2 con el dedo mientras se frota la perilla y el bigote **",
+      "mensaje_sha256": "82efe78d8f1f268aab05d52cc3600a870dd355ccdc2ec2f0558cb312df6a0564",
+      "tipo_discord": 19,
+      "referencia": "1553343448881565707",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553360567979343934",
+      "texto_sha256": "777ed2fce4892ca0e5ebe337a4ad812a2b82b12aed715b0fba25a2b587e7b5a4",
+      "adjuntos": []
+    },
+    {
+      "id": "1553366644053647413",
+      "fecha_utc": "2026-09-26T11:24:28.099000+00:00",
+      "fecha_local": "2026-09-26",
+      "editado_utc": null,
+      "texto": "Patata:\nsoy una patata si puedes llamarme señor patata si quieres o patata a secas.\n(lo dice como ser patata fuera algo completamente normal)\nGracias por tu alagos gnomo araña.\n¿que es lo que necesita?",
+      "mensaje_sha256": "9c7d7ba130970fdf4779aa710e2732134a1cd28f4b05d65028e90f257bc3e136",
+      "tipo_discord": 19,
+      "referencia": "1553360567979343934",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553366644053647413",
+      "texto_sha256": "f1b7e98415c51a57452ac0108ab09fbdbbac1cba28313dd9ce84fee4d35bde07",
+      "adjuntos": []
+    },
+    {
+      "id": "1553433276251644036",
+      "fecha_utc": "2026-09-26T15:49:14.453000+00:00",
+      "fecha_local": "2026-09-26",
+      "editado_utc": null,
+      "texto": "Coyote:\n**Veo que Zelda se pone detras de mi como si yo fuese un escudo**\n\nAH NO, NI MADRES, ESCONDETE EN OTRO LUGAR!!\n\n**Lo empujó a un lado mío**\n\nY qué clase de favores?\n\n**Vuelvo a tener escalofríos al ver la imagen de Archi**\n\n<@616683133374562304>",
+      "mensaje_sha256": "caccf05aa6470ca844fbc68d1b7eb95caec211890bdcd018e1fcdb8a24eed73f",
+      "tipo_discord": 19,
+      "referencia": "1553329414748504147",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553433276251644036",
+      "texto_sha256": "638c7dd1a2a42d10d5ff81131f850be8a823b5162bb59165d993ebfe8f481422",
+      "adjuntos": []
+    },
+    {
+      "id": "1553434060519637043",
+      "fecha_utc": "2026-09-26T15:52:21.437000+00:00",
+      "fecha_local": "2026-09-26",
+      "editado_utc": "2026-09-26T15:52:37.278000+00:00",
+      "texto": "Chopito: *analiza esa maquina y le susurra cosas a tenta*\n\nTenta: dice mi señor que si es capaz de construir un gigante con su forma para combatir al pagano. Que con su fuerza normal podria sin problemas pero que tiene que morir entre terrible sufrimiento\n\n<@616683133374562304>",
+      "mensaje_sha256": "055c45fd08f3e2efa9068d54d3124db181a496abc141a8f17a03dab0c6b0f62d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553434060519637043",
+      "texto_sha256": "b0e24769ec377d7cb76a8379983ba99e85cf962970f5f7f6a1985fc247d3aa0f",
+      "adjuntos": []
+    },
+    {
+      "id": "1553437456848650381",
+      "fecha_utc": "2026-09-26T16:05:51.185000+00:00",
+      "fecha_local": "2026-09-26",
+      "editado_utc": "2026-09-26T16:13:29.476000+00:00",
+      "texto": "Oghma:\nBueno, si solo son dos cosas tampoco es para tanto, ¿que necesitas que podamos ofrecerte?\n\n**Parece perdida en sus pensamientos cual lechera del cuento**\n\n*Nos ofrece ayuda a los 5 y solo nos pide 2 cosas a cambio, o no sabe negociar o es todo un encanto.\nY seguro que una de esas 2 es que sea su concubina, que honor tan refinado. Aunque no tengo claro si entre tanta pata tendra palanquita o solo un interruptor de encendido... clik clak clik clak*",
+      "mensaje_sha256": "c1c9eb2cad8cb60c98fb7e94fc8c4e88e621d551f200be8829379b00ea3d3cdb",
+      "tipo_discord": 19,
+      "referencia": "1553360567979343934",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553437456848650381",
+      "texto_sha256": "b2cfbda371962b2771d769a99c5d3b65dfeca4ba682f2ef22c6eaddbeec2e75e",
+      "adjuntos": []
+    },
+    {
+      "id": "1553446502506954823",
+      "fecha_utc": "2026-09-26T16:41:47.838000+00:00",
+      "fecha_local": "2026-09-26",
+      "editado_utc": "2026-09-26T16:42:27.138000+00:00",
+      "texto": "Archi : Solo necesito que me traigáis el ojo del kraken  <@408026114548695061> <@660950599269089281>  <@277455010571223040> , y que tu me dejes examinar tu tuberculoso cuerpo . <@171702246952665098> \n\n**de la barriga del tiburón mecánico se abre una especie de compartimento con varios maletines metálicos**\n\nSon unos trajes especiales , con ellos podréis tener una velocidad de nado igual a cualquier criatura subacuatica , también disponen de un dispositivo de despresurizacion , ese kraken es posible que pueda bajar hasta las fosas mas profundas ... \n\nY para ti compañero tentaculesco tengo algo especial .",
+      "mensaje_sha256": "49f2f897cf0251f705f9ea6ac331656c65013604b7e3e81b8345608dd02c147e",
+      "tipo_discord": 19,
+      "referencia": "1553434060519637043",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553446502506954823",
+      "texto_sha256": "4ac39444b1e88bc57f398271e86d3d721a3a607491b73f91fe246dadc64e946f",
+      "adjuntos": []
+    },
+    {
+      "id": "1553448787748327478",
+      "fecha_utc": "2026-09-26T16:50:52.682000+00:00",
+      "fecha_local": "2026-09-26",
+      "editado_utc": null,
+      "texto": "Tenta: mi señor es poderoso. Le gusta que sus subditos le den obsequios, es una buena muestra de lealtad a su malevolencia.\n\nChopito: dile que incluya pizza, quiero probar la que tiene anchoas\n\nTenta: Sabe si podria incluir algun manhar marino?",
+      "mensaje_sha256": "b1a337e3812d82fbe947af169fdc0fe2b0a0e3bb3e1b95ba96a38f13e2ca010e",
+      "tipo_discord": 19,
+      "referencia": "1553446502506954823",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553448787748327478",
+      "texto_sha256": "df943f1ebfa75ee48329c396b06608b358453e0fc7edc95a79fedc22ee5af9e8",
+      "adjuntos": []
+    },
+    {
+      "id": "1553453187976011787",
+      "fecha_utc": "2026-09-26T17:08:21.778000+00:00",
+      "fecha_local": "2026-09-26",
+      "editado_utc": null,
+      "texto": "Coyote:\nSin problema, tendrás el ojo del Kraken, no te importará que dejen tuerto a tu hijo?, o ciego en las peores condiciones \n\n**Le sonreí un poco burlón**\n\n<@660950599269089281>",
+      "mensaje_sha256": "6bdf1ed357930d893334b4543a647b554b816a679e12d2cf3415957547f34968",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553453187976011787",
+      "texto_sha256": "b525ce1dea105239ff5bae76be77f4e0df5724d9bd6218f0e059547a50eadff5",
+      "adjuntos": []
+    },
+    {
+      "id": "1553455923010478191",
+      "fecha_utc": "2026-09-26T17:19:13.861000+00:00",
+      "fecha_local": "2026-09-26",
+      "editado_utc": null,
+      "texto": "Zelda:\n\n– Para nada, por mí que se lo quede completo pero fuera del agua. \n**Se acerca a por el traje**",
+      "mensaje_sha256": "a3cdf966f9152b341980cde4a5f4fd83ef711074224006c7a6bd78ba3147bd56",
+      "tipo_discord": 19,
+      "referencia": "1553453187976011787",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553455923010478191",
+      "texto_sha256": "8233835fd3b1983639e77f67435adab6afdef2026e52104d4811b56cbaa92495",
+      "adjuntos": []
+    },
+    {
+      "id": "1553462393806258228",
+      "fecha_utc": "2026-09-26T17:44:56.619000+00:00",
+      "fecha_local": "2026-09-26",
+      "editado_utc": null,
+      "texto": "Archi : Bien bien perfecto entonces,  a falta de la confirmación del tuberculino <@171702246952665098> \n\nUn manjar dice ? Justo por ahí van los tiros , acabar con ese bicho y celebraremos en mi humilde choza .\n\nEsto es para tu amo <@226504798978048000> \n**sale otro maletin del compartimento ** \n\nCuando llegue el momento dile que aprete el botón rojo .",
+      "mensaje_sha256": "21dba9266e3ddd5c5153ee476b2fdbba2249247bcddc839355c0e25d51325242",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553462393806258228",
+      "texto_sha256": "83d692da3b4ae213a8e8cc64d9090bed85f1023816c89ca248c23bc80adf3053",
+      "adjuntos": []
+    },
+    {
+      "id": "1553462995940675685",
+      "fecha_utc": "2026-09-26T17:47:20.179000+00:00",
+      "fecha_local": "2026-09-26",
+      "editado_utc": null,
+      "texto": "Patata:\nEspero me quede bien tu artilugio\n**se aparta un momento para despues volver con el traje puesto**\nAprieta un poco pero esta bien",
+      "mensaje_sha256": "cc15029b853f00c61238df76fedcaace6159e3f4a397499f210655e73399da60",
+      "tipo_discord": 19,
+      "referencia": "1553446502506954823",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553462995940675685",
+      "texto_sha256": "ce31a03f7d5275989ebe8d3e8cd31bea034b102515ff1e18bc04511b947b6dac",
+      "adjuntos": [
+        {
+          "id": "1553462995458334920",
+          "nombre": "ChatGPT_Image_26_sept_2026_19_46_55.png",
+          "tipo": "image/png",
+          "archivo": "adjuntos/1553462995458334920.png",
+          "url": "rol_escrito/adjuntos/1553462995458334920.png",
+          "bytes": 2668444,
+          "sha256": "21913f0724327c9c184b583b0b1ec10c7dc63f317ed3d677481a7e5cde54bf6a"
+        }
+      ]
+    },
+    {
+      "id": "1553475715058507958",
+      "fecha_utc": "2026-09-26T18:37:52.653000+00:00",
+      "fecha_local": "2026-09-26",
+      "editado_utc": null,
+      "texto": "Coyote: \n**Sin pudor alguno, empecé a \"desvesrirme\" frente a los presentes y poderme poner el traje**\n\nBueno, es cómodo, debo decirlo \n\n**Se ponía sus joyas encima del traje**\n\nEstás importan mucho, no quiero perderlas, y bueno... Entonces cuál es el plan?",
+      "mensaje_sha256": "cb2178f064ed5e9a52f38d764cf6835d4778d1b31bb23a91f7117679438904a9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553475715058507958",
+      "texto_sha256": "e364e6cdd52511f50c281d9b6442d7a5336fe93f9426a127f10c5e17873bec67",
+      "adjuntos": [
+        {
+          "id": "1553475714878144562",
+          "nombre": "file_0000000037ec81f6b295e5864364d616.png",
+          "tipo": "image/png",
+          "archivo": "adjuntos/1553475714878144562.png",
+          "url": "rol_escrito/adjuntos/1553475714878144562.png",
+          "bytes": 3521120,
+          "sha256": "edf77f5c4dfd99a77755b2e8371dfd36852c942a5642a88a975a273fce7cc06c"
+        }
+      ]
+    },
+    {
+      "id": "1553484472324853790",
+      "fecha_utc": "2026-09-26T19:12:40.548000+00:00",
+      "fecha_local": "2026-09-26",
+      "editado_utc": null,
+      "texto": "Oghma:\n**Se acerca al maletin que lleva escrito su nombre. Con un moviento y un susurro se vuelve invisible para reaparecer instantes despues con el traje puesto**\n\nQue maravilla, Archie si que conoce el cuerpo de una mujer!",
+      "mensaje_sha256": "8769df546fcd9e06cd193cf3ea279c964128c21dbf544e0153f8bb42974f6eeb",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553484472324853790",
+      "texto_sha256": "eaaf7f7ce026160f43be8f8bcc82ce7d3a6ef1965f3bfa13362294567cb80bf4",
+      "adjuntos": [
+        {
+          "id": "1553484471888511066",
+          "nombre": "c289b8b5-da6c-4bbe-a905-3e4bd4336512.png",
+          "tipo": "image/png",
+          "archivo": "adjuntos/1553484471888511066.png",
+          "url": "rol_escrito/adjuntos/1553484471888511066.png",
+          "bytes": 3492439,
+          "sha256": "aa5bc610b65f31318a7625fb8e8b579c807743b330d92a110fd8882cba2a8e84"
+        }
+      ]
+    },
+    {
+      "id": "1553488018336129027",
+      "fecha_utc": "2026-09-26T19:26:45.983000+00:00",
+      "fecha_local": "2026-09-26",
+      "editado_utc": null,
+      "texto": "Chopito: fijate tenta lo que necesitan para imitar una fraccion de nuestro poder\n\nTenta: Dice mi señor que asi estais bien preparados para su cruzada",
+      "mensaje_sha256": "db881d08a0da1ac1f47cff4a73ecbc706736fff327d0b2ad17591fa140840068",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553488018336129027",
+      "texto_sha256": "0a2fc490a888ba06581fbcb9fee1acad228aa295b733a0efa2e24545a957ec87",
+      "adjuntos": []
+    },
+    {
+      "id": "1553492544263032944",
+      "fecha_utc": "2026-09-26T19:44:45.048000+00:00",
+      "fecha_local": "2026-09-26",
+      "editado_utc": null,
+      "texto": "Zelda: \n\n**Agarra su traje y intenta usar una aleta del tiburón para cubrirse y cambiarse de ropa, dejando sus herramientas por fuera para tener acceso a ellas**\n\n– Esto... ¿Me queda bien? **le pregunta a Oghma <@277455010571223040> **",
+      "mensaje_sha256": "51fb366a253039202aa1d6cd563a918f1ad0a6de02324a9ef831b9932f5a369f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553492544263032944",
+      "texto_sha256": "2771a1e9fd37ac966362b67e49204374c464a7d2a06b0da76e8c5c2143c28bd6",
+      "adjuntos": [
+        {
+          "id": "1553492543856181268",
+          "nombre": "file_0000000017a481f6b0f36c5235812f21.png",
+          "tipo": "image/png",
+          "archivo": "adjuntos/1553492543856181268.png",
+          "url": "rol_escrito/adjuntos/1553492543856181268.png",
+          "bytes": 3060131,
+          "sha256": "9ad39258d3bf7ea77530a465086a8afd3e1955bb5a49a0e2c8d7e22649f5ec6e"
+        }
+      ]
+    },
+    {
+      "id": "1553493026662518857",
+      "fecha_utc": "2026-09-26T19:46:40.061000+00:00",
+      "fecha_local": "2026-09-26",
+      "editado_utc": null,
+      "texto": "Coyote:\nVaya vaya, no sabía que tenías todo eso escondidito debajo de la ropa\n\n**Me relamo el hocico**\n\nPero bueno, vuelvo a reformular mi pregunta, cuál es el plan?, que no nos queda mucho tiempo",
+      "mensaje_sha256": "daccc3edbae18cdf228cfde2e768711d3b0e00a5c0ce1062395dc2d79537febe",
+      "tipo_discord": 19,
+      "referencia": "1553484472324853790",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553493026662518857",
+      "texto_sha256": "b99cfb988479bb6d81009da17a4367404d60445115aa2b446a74e50ca5c5fd47",
+      "adjuntos": []
+    },
+    {
+      "id": "1553499795610665091",
+      "fecha_utc": "2026-09-26T20:13:33.904000+00:00",
+      "fecha_local": "2026-09-26",
+      "editado_utc": null,
+      "texto": "Oghma:\nTe queda bastante bien Zelda, pero obviamente estais usando modelos inferiores, los vuestros abultan mucho mas para conseguir lo mismo\n\n**Mira a sus compañeros**\n\nCoyote tiene razon, no hay tiempo que perder. Deberiamos empezar siguendo el consejo de Patata. Tenta, puedes guiarnos por las mejores cuevas de la zona?",
+      "mensaje_sha256": "ff1e7c628ff74be469b79cda81a6df45d4501025857d5ca363e47a63c0e6f922",
+      "tipo_discord": 19,
+      "referencia": "1553492544263032944",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1553499795610665091",
+      "texto_sha256": "bbdc40ab23c2197b6eba3abd1f584fd1b2f4719d45fa62a125e570d1085b3813",
+      "adjuntos": []
+    }
+  ]
+}

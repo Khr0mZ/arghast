@@ -1,0 +1,404 @@
+{
+  "id": "x-1467785008793124950",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1467785008793124950",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "Pinky busca a su mechero",
+  "resumen": "Patata intenta frenar un robo y termina atrapado brevemente por las raíces de Pinky.",
+  "relato": "Pinky recorre la plaza de los piratas buscando a Zippo para encender su cigarrillo apagado. Intenta despertar a patadas a un borracho y, al no conseguirlo, le roba cuatro monedas. Patata, que acaba de salir de un establecimiento tras dormir, le reprocha el robo y ofrece ayudar si devuelve el dinero. La anciana cree al principio que ver una patata parlante es efecto de lo que fuma y después lo ignora entre insultos.\n\nPatata comprende que busca a la criatura de fuego y trata de rastrearla por el olor, pero el salitre, el alcohol y el sudor del poblado dificultan cualquier pista. Al proponer buscar en otra parte, Pinky lo acusa de sacar conclusiones apresuradas y lo inmoviliza con raíces de cáñamo. Él intenta soltarse sin éxito hasta que ella lo libera por su cuenta y continúa llamando a Zippo. Patata decide marcharse, conteniendo en privado su enfado. Pinky interpreta su conducta de forma absurda como un intento de cortejo. El cierre no devuelve las monedas ni encuentra al ausente.",
+  "participantes": [
+    "Pinky",
+    "Patata",
+    "Pirata borracho"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1467865536510558253",
+      "afirmacion": "Pinky roba cuatro monedas al borracho que no despierta.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1467869888470319195",
+      "afirmacion": "Patata condiciona su ayuda a que devuelva el dinero.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1467873542585585765",
+      "afirmacion": "El narrador describe olores intensos que impiden un rastro claro.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1467874422114226248",
+      "afirmacion": "Pinky atrapa a Patata mediante raíces.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1467875582741315758",
+      "afirmacion": "La anciana lo suelta y continúa la búsqueda.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1467876040901918804",
+      "afirmacion": "Patata abandona la escena.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Zippo no aparece; su condición de criatura de fuego se conoce por la conversación.",
+    "El pensamiento agresivo de Patata no se ejecuta ni se comunica como amenaza.",
+    "No se da por inexistente un rastro ni por probada la ausencia de Zippo solo porque el olfato no sirva."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-02-02T07:33:36.223000+00:00",
+  "fin_utc": "2026-02-02T13:39:37.193000+00:00",
+  "fecha_local": "2026-02-02",
+  "intervalo": {
+    "anterior": 2,
+    "siguiente": 3,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1467580544283054092",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1468327704360390872",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 2,
+        "fecha": "2026-02-01",
+        "inicio_referencia_utc": "2026-02-01T18:00:53+00:00",
+        "fin_estimado_utc": "2026-02-01T20:49:58+00:00",
+        "duracion_video_segundos": 10145,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1467580544283054092"
+      },
+      {
+        "capitulo": 3,
+        "fecha": "2026-02-03",
+        "inicio_referencia_utc": "2026-02-03T19:29:48+00:00",
+        "fin_estimado_utc": "2026-02-03T22:20:47+00:00",
+        "duracion_video_segundos": 10259,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1468327704360390872"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1465410265544921190",
+      "fecha_utc": "2026-01-26T18:17:13.312000+00:00",
+      "fecha_local": "2026-01-26",
+      "editado_utc": "2026-01-26T18:32:24.386000+00:00",
+      "texto": "***Inspira*** *Nada mejor que el olor a salitre y borracho por la mañana. Disfruta y despéjate paseando por su plaza embarrada mientras esquivas bucaneros borrachos, mendigos enfermizos y algún que otro maleante que amablemente te pregunta la hora.*\n*Si, ni las ratas aquí están sobrias y cuerdas ¿pero a quien le importa eso? ¡Yoohooo!*",
+      "mensaje_sha256": "ee92b5abb823882bda1964a44f231e594451e51ddfc284e2edc6d75ecf0af8be",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1465410265544921190",
+      "texto_sha256": "fdbe82a54f61b1610275acd8c87c823f614c74ecab575c75d54a7afa657b6301",
+      "adjuntos": [
+        {
+          "id": "1465410267427901470",
+          "nombre": "Shirau.jpg",
+          "tipo": "image/jpeg",
+          "archivo": "adjuntos/1465410267427901470.jpg",
+          "url": "rol_escrito/adjuntos/1465410267427901470.jpg",
+          "bytes": 5458491,
+          "sha256": "3f8119d13323695a512824a827e79825aadb615a5dfed8235ddd885876bc6dde"
+        }
+      ],
+      "no_narrativo": true,
+      "nota_editorial": "Presentación ambiental y mapa de apertura, sin acciones jugadas."
+    },
+    {
+      "id": "1467785008793124950",
+      "fecha_utc": "2026-02-02T07:33:36.223000+00:00",
+      "fecha_local": "2026-02-02",
+      "editado_utc": null,
+      "texto": "Pinky: **La vieja sigue dando vueltas por la plaza de los piratas, mientras intenta dar caladas a su cigarrillo de la risa que está totalmente apagado** ZIPPO! ¿DONDE ESTAS BICHO RARO?! Se me ha apagado esta mierda otra vez...",
+      "mensaje_sha256": "87ddd335ba1e67158b2139b696dc8fce419737176143dbb7c72d9fc73df9596b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1467785008793124950",
+      "texto_sha256": "ef507e52b9dc601eb60f44c78e1341a7dec00739a20946d91f2d37fa9effea99",
+      "adjuntos": []
+    },
+    {
+      "id": "1467832566244442153",
+      "fecha_utc": "2026-02-02T10:42:34.803000+00:00",
+      "fecha_local": "2026-02-02",
+      "editado_utc": null,
+      "texto": "Patata:\n**Salía de aquel establecimiento mientras bostezaba**\nAl menos dormí bien",
+      "mensaje_sha256": "123e11a1ce85127c46e2ba280d9fa2255b6b291d3c69a586a673169052c882b4",
+      "tipo_discord": 19,
+      "referencia": "1467785008793124950",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1467832566244442153",
+      "texto_sha256": "e38469c1f753b09bd11b3d1e6eace57022e323a56d71f0d4fd4479303d3da955",
+      "adjuntos": []
+    },
+    {
+      "id": "1467865536510558253",
+      "fecha_utc": "2026-02-02T12:53:35.527000+00:00",
+      "fecha_local": "2026-02-02",
+      "editado_utc": null,
+      "texto": "Pinky: **Se acerca a un pirata borracho que había tirado por ahí.** Oye tú, has visto mi mechero? Oye! Oyeeeeee!! **Le empieza a dar patadas, pero al ver que no despierta, le mete la mano en los bolsillos y le roba las cuatro monedas que tenía**",
+      "mensaje_sha256": "95ec31ee051da4ec32e11004d58450410ddf3ff30dc4c2ea5f80fc5b9e10273e",
+      "tipo_discord": 19,
+      "referencia": "1467832566244442153",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1467865536510558253",
+      "texto_sha256": "20e035da6265ed72ee4c93531682efce40a7b4ad21bc2cb1af7e2e204248b5a1",
+      "adjuntos": []
+    },
+    {
+      "id": "1467868499195072696",
+      "fecha_utc": "2026-02-02T13:05:21.886000+00:00",
+      "fecha_local": "2026-02-02",
+      "editado_utc": null,
+      "texto": "patata:\n**ve la escena de la vieja robandole al pobre borracho y se acerca**\ncreo que eso no te pertenece",
+      "mensaje_sha256": "af4f43e185ee753a5718ed727d4f4b7432c470aac184cca7b00ed874d2428838",
+      "tipo_discord": 19,
+      "referencia": "1467865536510558253",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1467868499195072696",
+      "texto_sha256": "28cb04d70d996a0c574281c1d460f6f058b4a7ea11e3b3ec99469cc75e607b20",
+      "adjuntos": []
+    },
+    {
+      "id": "1467868952905383957",
+      "fecha_utc": "2026-02-02T13:07:10.059000+00:00",
+      "fecha_local": "2026-02-02",
+      "editado_utc": null,
+      "texto": "Pinky: **Te mira con cara de vieja, mira su cigarro, luego mira a la patata** Vaya, si que está fuerte esto, veo patatas que hablan",
+      "mensaje_sha256": "17fa06d9f1973dece67e641d4e7c26b8f8b3d1cdbd4613c47936460d30e8e59c",
+      "tipo_discord": 19,
+      "referencia": "1467868499195072696",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1467868952905383957",
+      "texto_sha256": "3070db457e4fe1ffb4098ff77cf3c3865971668322546c74c081dfde3fbfacfb",
+      "adjuntos": []
+    },
+    {
+      "id": "1467869444247257220",
+      "fecha_utc": "2026-02-02T13:09:07.204000+00:00",
+      "fecha_local": "2026-02-02",
+      "editado_utc": null,
+      "texto": "patata:\nno dudo de lo fuerte de lo que se esta fumando pero lo que ves es real",
+      "mensaje_sha256": "dcdb18889fdc4479adecd315fb5bb34ddb5ec6465bf4bd842086b3ee895aa670",
+      "tipo_discord": 19,
+      "referencia": "1467868952905383957",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1467869444247257220",
+      "texto_sha256": "002660b88ec1b7a0bc46f225bc3c36bf4dfe3cf68d380d53475af7ccaa710b31",
+      "adjuntos": []
+    },
+    {
+      "id": "1467869707821650267",
+      "fecha_utc": "2026-02-02T13:10:10.045000+00:00",
+      "fecha_local": "2026-02-02",
+      "editado_utc": null,
+      "texto": "Pinky: Ajá **Ves que te ignora y sigue buscando su mechero** Donde narices se ha metido?",
+      "mensaje_sha256": "301a0a1dc30c7300952cc4fdbe1831564452bf0bb2feb2df3306252bbe5c664b",
+      "tipo_discord": 19,
+      "referencia": "1467869444247257220",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1467869707821650267",
+      "texto_sha256": "433aa02a58bda026a14c381036dda3bf9ab03aa2c120e03682164d8c52d0481c",
+      "adjuntos": []
+    },
+    {
+      "id": "1467869888470319195",
+      "fecha_utc": "2026-02-02T13:10:53.115000+00:00",
+      "fecha_local": "2026-02-02",
+      "editado_utc": null,
+      "texto": "patata:\ndeberias devolverle el dinero y si lo haces te ayudare\n**mira a la anciana con cara seria**",
+      "mensaje_sha256": "a93beab6c39d052a533ba2a6ed9653f244553622ea8af53c8d2f3ead85bbb3f2",
+      "tipo_discord": 19,
+      "referencia": "1467869707821650267",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1467869888470319195",
+      "texto_sha256": "3dbb49bc244e4f83da558b41a20e61a0fea3368a039abc0f4b88b857332b6f78",
+      "adjuntos": []
+    },
+    {
+      "id": "1467870339748073625",
+      "fecha_utc": "2026-02-02T13:12:40.708000+00:00",
+      "fecha_local": "2026-02-02",
+      "editado_utc": null,
+      "texto": "Pinky: Que me harás? Unas patatas fritas? **Va andando mientras levanta una madera del suelo, mira debajo de unas lonas o dentro de un bote** ZIPPO! Sal ya leches! Que esto está apagado!",
+      "mensaje_sha256": "72bc3ec62b3c6a1a301f6d0b6f4375dc3cfec7129cb5108bff385a939d8be9bc",
+      "tipo_discord": 19,
+      "referencia": "1467869888470319195",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1467870339748073625",
+      "texto_sha256": "8236654446fb3683f8e0d0b5d1f64331aa08618a3c5715eee51bcae34a18e9d7",
+      "adjuntos": []
+    },
+    {
+      "id": "1467870739699994748",
+      "fecha_utc": "2026-02-02T13:14:16.064000+00:00",
+      "fecha_local": "2026-02-02",
+      "editado_utc": null,
+      "texto": "patata:\n*no es mi casa y no quiero hacer de guardia en un pueblo sin ley que pereza*\nLas hago bastante buenas , Puedo saber que busca?",
+      "mensaje_sha256": "68837dce8750b94d14498bc5ecbcbc6c94304279c157f32793383ea76e3ae96b",
+      "tipo_discord": 19,
+      "referencia": "1467870339748073625",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1467870739699994748",
+      "texto_sha256": "702f7ff70dfa33675c1868f399cdfd1d29f0ef25ae44600db69967be9fff94cf",
+      "adjuntos": []
+    },
+    {
+      "id": "1467871473170649201",
+      "fecha_utc": "2026-02-02T13:17:10.937000+00:00",
+      "fecha_local": "2026-02-02",
+      "editado_utc": null,
+      "texto": "Pinky: Eh? Pues a Zippo, que crees que busco? **Sigue sin mirarte rebuscando por todos lados** Tu cerebro también es una patata o es una coliflor?",
+      "mensaje_sha256": "536eb150743eca3f6f1f9a1a9721ae847f54e48e7b7b53c8d075564114e51eb9",
+      "tipo_discord": 19,
+      "referencia": "1467870739699994748",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1467871473170649201",
+      "texto_sha256": "a08009108a41f5c7339b67c319c7263741eb7489ff273cd3b9bb8201aef081b1",
+      "adjuntos": []
+    },
+    {
+      "id": "1467871812334653633",
+      "fecha_utc": "2026-02-02T13:18:31.800000+00:00",
+      "fecha_local": "2026-02-02",
+      "editado_utc": null,
+      "texto": "Patata:\nAl bicho ese de fuego que todos le tenían miedo?",
+      "mensaje_sha256": "23f9740b7494cc0d45a30bb78af1633a5adb3bc329237f3daeae504028cd06c2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1467871812334653633",
+      "texto_sha256": "a7dccbed3d75e4040e0054a4bed93f6aa58b5fd2aa6f773e56cbeff573e24d68",
+      "adjuntos": []
+    },
+    {
+      "id": "1467872419594113126",
+      "fecha_utc": "2026-02-02T13:20:56.582000+00:00",
+      "fecha_local": "2026-02-02",
+      "editado_utc": null,
+      "texto": "Pinky: Preguntas mucho tu, no? **Sale de dentro de una caja y te mira con una cara como si tu tuvieras que saber estas cosas** Si, claro, Zippo... Ya te lo he dicho tres veces! Estas sordo o que?",
+      "mensaje_sha256": "5476716e586c997409d2594e4f92f58d7a4bf193ec6839053e4fac809daa8178",
+      "tipo_discord": 19,
+      "referencia": "1467871812334653633",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1467872419594113126",
+      "texto_sha256": "78ab189a15b2a5cc03edfb34abd434291b2798919e4dc2e6d654985c438c5cd2",
+      "adjuntos": []
+    },
+    {
+      "id": "1467872990799724546",
+      "fecha_utc": "2026-02-02T13:23:12.768000+00:00",
+      "fecha_local": "2026-02-02",
+      "editado_utc": "2026-02-02T13:23:18.317000+00:00",
+      "texto": "Patata:\n*Si la ayudo quizá deje de dar problemas*\nEs lógico si no lo se preguntar\n**Afina su olfato un bicho como ese tiene que echar una peste azufre y quemado graciosa**",
+      "mensaje_sha256": "455e818bdeb2002767fc009269c59a2e8c2ba3aa827c73c72147edaa33043afc",
+      "tipo_discord": 19,
+      "referencia": "1467872419594113126",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1467872990799724546",
+      "texto_sha256": "90b860dd56e945974bfd9416ee7ce5f2c5b4685fd6b3b064adbca03c69030814",
+      "adjuntos": []
+    },
+    {
+      "id": "1467873542585585765",
+      "fecha_utc": "2026-02-02T13:25:24.324000+00:00",
+      "fecha_local": "2026-02-02",
+      "editado_utc": null,
+      "texto": "**El poblado pirata tiene un olor a salitre, con un fuerte olor a alcohol y sobretodo a mucho, pero mucho olor a sudor. Suerte si quieres encontrar algo con el olfato**",
+      "mensaje_sha256": "0cd642872699a5b61a2541a3e6b518dab2b9a495a7261cfe624e29e423b31451",
+      "tipo_discord": 19,
+      "referencia": "1467872990799724546",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1467873542585585765",
+      "texto_sha256": "d69040bf5d2ec8f0b100abd2eb171d351d40880228caebaaffde46a6cbf87d71",
+      "adjuntos": []
+    },
+    {
+      "id": "1467873886044422348",
+      "fecha_utc": "2026-02-02T13:26:46.211000+00:00",
+      "fecha_local": "2026-02-02",
+      "editado_utc": null,
+      "texto": "Patata:\nQue peste.\nZippo no parece estar por aquí busquemolo en otro sitio",
+      "mensaje_sha256": "fd17a3d2a11a34230f4f8da2869d50baf615d720b5d18f092c7b9d6369febea0",
+      "tipo_discord": 19,
+      "referencia": "1467873542585585765",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1467873886044422348",
+      "texto_sha256": "88561dbe55e8a28ef3e515000608383a91abbb059e42ca26187cf7d01269c801",
+      "adjuntos": []
+    },
+    {
+      "id": "1467874422114226248",
+      "fecha_utc": "2026-02-02T13:28:54.020000+00:00",
+      "fecha_local": "2026-02-02",
+      "editado_utc": null,
+      "texto": "Pinky: **Te mira levantando una ceja** Y como sabes que no està por aquí? Sabes donde está? Dímelo ahora mismo cara patata!! **Ves que unas raíces salen del suelo y te atrapan. Si, son raíces de una planta de cáñamo**",
+      "mensaje_sha256": "ac6eb458ffc00d5fd711d64b356caebf88747cfca6900b78f5dfe6ffb01b6149",
+      "tipo_discord": 19,
+      "referencia": "1467873886044422348",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1467874422114226248",
+      "texto_sha256": "18b0776506ab7f76cd62205fa563772913a309903cda6da1c2f7d6106854d8f4",
+      "adjuntos": []
+    },
+    {
+      "id": "1467874851250376755",
+      "fecha_utc": "2026-02-02T13:30:36.334000+00:00",
+      "fecha_local": "2026-02-02",
+      "editado_utc": null,
+      "texto": "Patata:\nHe mirado y no está\n**Cuando se siente atrapado por unas raíces intenta soltarse sin mucho éxito**\n*Genial la vieja loca tiene poderes*",
+      "mensaje_sha256": "4472bd28964cedfcf0aa24810fe292bbd9e119c63b1e420e51044d3963cbbcac",
+      "tipo_discord": 19,
+      "referencia": "1467874422114226248",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1467874851250376755",
+      "texto_sha256": "d742a322d0d80d927ad078b9c5f4d22fb46abdf5b073c922c06277c0fe3bbafe",
+      "adjuntos": []
+    },
+    {
+      "id": "1467875582741315758",
+      "fecha_utc": "2026-02-02T13:33:30.735000+00:00",
+      "fecha_local": "2026-02-02",
+      "editado_utc": null,
+      "texto": "Pinky: Has mirado? El que? Tu ombligo? **Te mira con cara de incrédula** Has mirado por la plaza dos minutos, has olido a saber que y con eso llegas a la conclusión que no está aquí? Lo que decía, tu cerebro es una coliflor **Ves que te suelta y se da la vuelta siguendo con su búsqueda** ZIPPO! VEN AHORA MISMO!",
+      "mensaje_sha256": "96ef4dc67ff41a28c9e6dc4910bc9e0de523f1fee8909ee725b670a900ba5500",
+      "tipo_discord": 19,
+      "referencia": "1467874851250376755",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1467875582741315758",
+      "texto_sha256": "354efd76e1ec81109823356e8a1ea997aa325703716b2c5a18949daf9ded7906",
+      "adjuntos": []
+    },
+    {
+      "id": "1467875935801053279",
+      "fecha_utc": "2026-02-02T13:34:54.911000+00:00",
+      "fecha_local": "2026-02-02",
+      "editado_utc": null,
+      "texto": "Patata:\n*Eres un hombre de paz recuerda aunque si le clavo mi maza en su cabeza habrá más paz por aquí*\nHaz lo que quieras me voy",
+      "mensaje_sha256": "706ac603ec44aa4ddea540de092bf73363be14b24453225a511a3c3f32f3992d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1467875935801053279",
+      "texto_sha256": "848bfa2aa608b5d6023bc6947afbf054c93ae1f9565c3414df19c65f1c208be9",
+      "adjuntos": []
+    },
+    {
+      "id": "1467876040901918804",
+      "fecha_utc": "2026-02-02T13:35:19.969000+00:00",
+      "fecha_local": "2026-02-02",
+      "editado_utc": null,
+      "texto": "🥔 patata sale de escena 🥔",
+      "mensaje_sha256": "c21f2d2032ef4a1e68ff1cfc05dfedc227503b2b3d186d0f9deb02e4e87fe262",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1467876040901918804",
+      "texto_sha256": "7cbafdc14b250bfea37e9c28f39dd360d731b75746cf752039cc5b12c1fa85c1",
+      "adjuntos": []
+    },
+    {
+      "id": "1467877119777575138",
+      "fecha_utc": "2026-02-02T13:39:37.193000+00:00",
+      "fecha_local": "2026-02-02",
+      "editado_utc": "2026-02-03T10:31:21.470000+00:00",
+      "texto": "Pinky: Joder que cosa mas rara... Viene a quejarse, luego dice que me ayuda, luego se pone a oler la plaza con la peste que pega este pueblo y ahora se marcha enfadado... **Levanta los hombros** Creo que esta ligando conmigo... ¿Las patatas tienen colita?\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "817a0b1f8d73fc806643ba05b2a6a8c6a8c6ac00d616e5b58ce3366fde578233",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1467877119777575138",
+      "texto_sha256": "1dfb5dcc46d9ec74a3d4522292f471bcc23642e2760224a70326d79761291f19",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "id": "x-1559256808684658861",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1559256808684658861",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "Naór regresa a una Iktan casi vacía",
+  "resumen": "Walulu y Tortas la acompañan en el duelo y preparan la marcha a Tutucan; la maestra la invita a seguirla a la selva.",
+  "relato": "Naór regresa a Iktan tras acompañar parte de la travesía hacia Tutucan. Encuentra tiendas y taberna cerradas y guardias comprobando las casas. Sigue absorbida por Aztlán: se sienta en silencio, rasga la tierra y revive imágenes de serpientes y cadáveres. Walulu se acerca, la toca con calma y tararea una canción que aprendió de ella cuando eran niñas, acompañándola de pequeñas luces. La leonin logra volver a la conversación y confiesa lagunas de memoria y culpa por no haber protegido al grupo.\n\nTortas aparece seria tras varios días de luto y comparte ese sentimiento de haber fallado. Naór agradece que la ayudara y pregunta si partirán juntos. La maestra plantea permanecer, dado que el dragón ya no está, pero Walulu explica que los yuan-ti conocen el acceso y no puede exponer a su pueblo a otro ataque.\n\nLa leonin expresa que necesita cerca a sus viejas amigas y admite sentir algo fuerte por Ilikar. Desea volver a ver a él y a Tryel. Tortas se emociona al hablar de su primer alumno y le pide que la acompañe un momento. Walulu las deja ir mientras acaba de atender heridos. Naór sigue a la maestra hacia la selva, creyendo que buscarán al goliat. El contenido de esa visita y el destino de Ilikar no se muestran aquí.",
+  "participantes": [
+    "Naór",
+    "Walulu",
+    "Tortas"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1559258876258558003",
+      "afirmacion": "Iktan está casi evacuada y sus establecimientos cerrados.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1559268801789300849",
+      "afirmacion": "Walulu canta una canción de su infancia compartida con Naór.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1559293718433894411",
+      "afirmacion": "Walulu mantiene la evacuación por la amenaza yuan-ti pese al fin del dragón.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1559299863550754908",
+      "afirmacion": "Naór confiesa sus sentimientos fuertes por Ilikar.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1559310178791460997",
+      "afirmacion": "Tortas se emociona al recordar a su primer alumno y pide que Naór la acompañe.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1559336751602860123",
+      "afirmacion": "Naór y Tortas parten hacia la selva.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El luto de Tortas y sus lágrimas no revelan por sí solos a Naór ni al lector el destino del goliat en esta unidad.",
+    "La salida continúa fuera de este hilo; no fabricar un reencuentro ni un cierre del duelo.",
+    "Tutukan, Tutukán y Tutucan son variantes gráficas del destino en los mensajes, sin crear ciudades distintas."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2026-10-12T17:29:52.781000+00:00",
+  "fin_utc": "2026-10-12T22:47:32.658000+00:00",
+  "fecha_local": "2026-10-12",
+  "intervalo": {
+    "anterior": 70,
+    "siguiente": 71,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1558177942457028612",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560352956941865032",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 70,
+        "fecha": "2026-10-09",
+        "inicio_referencia_utc": "2026-10-09T18:01:52+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1558177942457028612"
+      },
+      {
+        "capitulo": 71,
+        "fecha": "2026-10-15",
+        "inicio_referencia_utc": "2026-10-15T18:02:01+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560352956941865032"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1559256808684658861",
+      "fecha_utc": "2026-10-12T17:29:52.781000+00:00",
+      "fecha_local": "2026-10-12",
+      "editado_utc": null,
+      "texto": "Naór: **tras acompañar al  grupo durante la travesía hacia Tutukan ,Naór regresa a Iktan .\nLa conversación con Walulu la dejo algo pensativa en si había sucedido algo . \n\nAún con la mente puesta en tragedia de Aztlan se veria a la leona entrando a la ciudad ya casi vacía de Iktan ** <@297459767117611008>  <@214405113677217793>",
+      "mensaje_sha256": "7787929b96be9e887ecdf890cc42a7604a2dcbd474ee97cbb9b5975d2d4a2bbb",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1559256808684658861",
+      "texto_sha256": "d3917ce53c91bc3b7ddbb5ebbe90ca7eeabe152c1013ac52192e9334ec9ab886",
+      "adjuntos": []
+    },
+    {
+      "id": "1559258876258558003",
+      "fecha_utc": "2026-10-12T17:38:05.729000+00:00",
+      "fecha_local": "2026-10-12",
+      "editado_utc": null,
+      "texto": "**Como ya has visto, la ciudad está ya casi vacía, patrullada por algunos guardias que se ocupan de ver si no ha quedado nadie en sus casas. La taberna de Angelic, la tienda de pociones de Frogger e incluso la herrería de Reotra están ya totalmente cerradas. Al pasar por la calle principal, ves la entrada del colegio. ¿Habrán llegado bien a Tutucan? ¿Quienes son ese grupo que apareció para ayudar? ¿Hiciste bien en confiar en ellos?**\n\nWalulu: Naór, ya has vuelto?",
+      "mensaje_sha256": "6e9733e53306f9039919b0297ff7ae7a2eb9308cf4843a6d82aa7dd4c5f759fa",
+      "tipo_discord": 19,
+      "referencia": "1559256808684658861",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1559258876258558003",
+      "texto_sha256": "07e4f9b3ac8ebaf5a2eef336d4aee8ab251abf513a0c6548e05d530969ed71b7",
+      "adjuntos": []
+    },
+    {
+      "id": "1559263661736984618",
+      "fecha_utc": "2026-10-12T17:57:06.676000+00:00",
+      "fecha_local": "2026-10-12",
+      "editado_utc": null,
+      "texto": "Naór: **se acerca a Walulu y se sienta en una roca a tu lado sin decir nada \n\nPasan unos segundos incómodos mientras la leona permanece callada , ves que su respiración se acelera un poco , las zarpas de los pies rasgan la arena del suelo una y otra vez , el crugir de la madera del mango del hacha se mezcla con el graznido de algún pajaro que junto al silencio de un Iktan vacío y la mirada perdida de Naór hacen que la escena sea algo tensa **",
+      "mensaje_sha256": "e71279e71d44f50e4484bc98f31aa9e9e0bf9b1fb67987da0d7cc2020897d9ce",
+      "tipo_discord": 19,
+      "referencia": "1559258876258558003",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1559263661736984618",
+      "texto_sha256": "c72f40ad6cef9023c68ca4f1590bbc5c6f6ad2b18d8b7cebe8762175a1b0bfa9",
+      "adjuntos": []
+    },
+    {
+      "id": "1559266436612886760",
+      "fecha_utc": "2026-10-12T18:08:08.258000+00:00",
+      "fecha_local": "2026-10-12",
+      "editado_utc": null,
+      "texto": "Walulu: **Se acerca para sentarse junto a ti. Lo hace con suavidad y calma, como siempre ha hecho las cosas la líder de Iktan. No necesita decir nada, solo te coloca una mano en tu hombro y te mira**",
+      "mensaje_sha256": "728497f907bf1ebfbb876c92a921f9c654d9456101d8f6710dcb8954504a67b6",
+      "tipo_discord": 19,
+      "referencia": "1559263661736984618",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1559266436612886760",
+      "texto_sha256": "71f87eac45c90d198225571b08827c0d1e1d6760b6c71bcb734ec6314718f282",
+      "adjuntos": []
+    },
+    {
+      "id": "1559267409284825109",
+      "fecha_utc": "2026-10-12T18:12:00.161000+00:00",
+      "fecha_local": "2026-10-12",
+      "editado_utc": null,
+      "texto": "Naór : ** la ves ida , la respiración se va acelerando cada vez mas , los arañazos en el suelo se intensifican , y la vista parece fija hacia delante sin mirar a nada mientras alguna lagrima cae sin que el rostro cambie **",
+      "mensaje_sha256": "99f83f45f5edb1626daf7819b34eed9942e00304acb570332fda6e4db0dfe58a",
+      "tipo_discord": 19,
+      "referencia": "1559266436612886760",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1559267409284825109",
+      "texto_sha256": "53d548f33088706a8e9048e1b297ecb3d2c39c3b606692cd300542ef6580eee2",
+      "adjuntos": []
+    },
+    {
+      "id": "1559268801789300849",
+      "fecha_utc": "2026-10-12T18:17:32.160000+00:00",
+      "fecha_local": "2026-10-12",
+      "editado_utc": null,
+      "texto": "Walulu: **Su mano empieza a iluminarse de un color verdoso. Entonces, unas luces de colores cálidos empiezan a brillar alrededor de Naor y la druida (Prestidigitation). Junto a ellas, Walulu empieza a tararear una canción que conoces muy bien. Una canción que le enseñaste tú cuando herais aún unas niñas, una canción de las lejanas tierras de Aztlan.**",
+      "mensaje_sha256": "94e81afc267e81652d00816ea1416193e446d3f46d144ee01ed4f40393d4fc79",
+      "tipo_discord": 19,
+      "referencia": "1559267409284825109",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1559268801789300849",
+      "texto_sha256": "b0d0685d2a77b1265ef8a60c1c7ce142ea826898547cadca0a3938e3610d655f",
+      "adjuntos": []
+    },
+    {
+      "id": "1559271220527243295",
+      "fecha_utc": "2026-10-12T18:27:08.832000+00:00",
+      "fecha_local": "2026-10-12",
+      "editado_utc": null,
+      "texto": "Naór : ** Naór no deja de ver una y otra vez imágenes de esas bocas grotescas abriendose con colmillos venenosos , esos ojos afilados de serpiente y la montaña de cadáveres a su paso . \n\nAl escuchar la canción es como si Walulu entrase en esa visión haciendo desaparecer una a una las serpientes y haciendo que Naor vuelva en si ** \n\nWalu ... \n\n**te mira y baja la mirada ** \n\nNo no ... no se que me esta pasando.. \nLes acompañe para protegerlos y no fui capaz ni de detectar al enemigo ni de razonar en combate ... no me acuerdo ni de lo que pasó en batalla ...",
+      "mensaje_sha256": "cc3298d9272bc672ffa027c95de16187be376e00a3e86c62fbc3bf70a6d40c2f",
+      "tipo_discord": 19,
+      "referencia": "1559268801789300849",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1559271220527243295",
+      "texto_sha256": "b7bb5ddeba714c3d4b94da6490fe9a5b647901abd0229a8afc93815fb4da396f",
+      "adjuntos": []
+    },
+    {
+      "id": "1559273410922553546",
+      "fecha_utc": "2026-10-12T18:35:51.063000+00:00",
+      "fecha_local": "2026-10-12",
+      "editado_utc": null,
+      "texto": "Walulu: **Deja de tararear mientras su mano aún emite esas luces de colores** Y yo no me di cuenta cuando atacaron Iktan... Ni supe que hacer en ese momento... **Suspira** Vaya dos estamos hechas, eh... **Lo dice con tristeza**",
+      "mensaje_sha256": "201fb0a874f3cd2ee68d3936b667990601493017a8a35f9b44b9296f974f5825",
+      "tipo_discord": 19,
+      "referencia": "1559271220527243295",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1559273410922553546",
+      "texto_sha256": "7ca893dac83917fce66058f6cc310ff4c88d4cb9c547db8ec2457567449a90b4",
+      "adjuntos": []
+    },
+    {
+      "id": "1559274909346041907",
+      "fecha_utc": "2026-10-12T18:41:48.315000+00:00",
+      "fecha_local": "2026-10-12",
+      "editado_utc": null,
+      "texto": "**Por un lateral escucháis**\n\nPues ya somos tres...\n\n**Tortas aparece cabizbaja volviendo de sus días de luto. Pone la mano en el hombro de Walulu con un gesto de cariño, avanza y se sienta al lado de Naor**",
+      "mensaje_sha256": "ec4ebff2e661d78289d149c920e6cb23bb0f709728aa72c6440e98e71bee3a0a",
+      "tipo_discord": 19,
+      "referencia": "1559273410922553546",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1559274909346041907",
+      "texto_sha256": "69793948802c3f5b98137d946a817c7001ae50837f14f4d512dd8fb5e01e2cb7",
+      "adjuntos": []
+    },
+    {
+      "id": "1559279241512886383",
+      "fecha_utc": "2026-10-12T18:59:01.184000+00:00",
+      "fecha_local": "2026-10-12",
+      "editado_utc": null,
+      "texto": "Naór: Tortas ... me.. alegra verte . aun no he podido agradecerte por ayudarme aquel dia.",
+      "mensaje_sha256": "109c15c26579cec59f07871b7caf0c58ab177729c280bb2937b608e05b06c232",
+      "tipo_discord": 19,
+      "referencia": "1559274909346041907",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1559279241512886383",
+      "texto_sha256": "148084d141dcdd1ac81c2187743f8911fc10f3de01655e01fa4456cb6104c2eb",
+      "adjuntos": []
+    },
+    {
+      "id": "1559286578461806723",
+      "fecha_utc": "2026-10-12T19:28:10.449000+00:00",
+      "fecha_local": "2026-10-12",
+      "editado_utc": null,
+      "texto": "Tortas:\nNo tienes que agradecerme nada bigotitos.... Yo también me alegro mucho de verte....\n\n**Notas a la maestra muy seria y triste**\n\n**Pone su mano encima de tu rodilla**",
+      "mensaje_sha256": "1b05d6ca8a33a3ef08849a2b7764823eb052f4a12dc20d71f0f7898813df1c93",
+      "tipo_discord": 19,
+      "referencia": "1559279241512886383",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1559286578461806723",
+      "texto_sha256": "adba6cbdbdf663122cf438005fd703bb48682dedb42c01e3a34528638a8d5995",
+      "adjuntos": []
+    },
+    {
+      "id": "1559291672595140783",
+      "fecha_utc": "2026-10-12T19:48:24.985000+00:00",
+      "fecha_local": "2026-10-12",
+      "editado_utc": null,
+      "texto": "Naór : Que haras maestra Tortas ? Partiras con Walulu y conmigo hacia Tutukán ? creo que Tryel <@214405113677217793>  e ilikar <@210947008716996609>  aun no han salino no es cierto ? Podríamos ir juntos ...",
+      "mensaje_sha256": "2e58923342dffaf4ea75f55e4fe8e7a6afe007980b615ce678f0f63cc2921378",
+      "tipo_discord": 19,
+      "referencia": "1559286578461806723",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1559291672595140783",
+      "texto_sha256": "fa61cc916087f64f4c43b2ca886205fc954366abea51a3737a7f1e67fd3eecfd",
+      "adjuntos": []
+    },
+    {
+      "id": "1559292754742214777",
+      "fecha_utc": "2026-10-12T19:52:42.989000+00:00",
+      "fecha_local": "2026-10-12",
+      "editado_utc": null,
+      "texto": "Tortas: Es cierto... La reunión, lo había olvidado..... Walulu, es seguro que marchemos de Iktan? Ahora que ya no está el dragón, algo de tregua tendremos en la aldea.... <@214405113677217793>",
+      "mensaje_sha256": "e30683ec14a0c1e380eea7d55a4f670c29b5a161eb301be6cf6e1297aa0d4b81",
+      "tipo_discord": 19,
+      "referencia": "1559291672595140783",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1559292754742214777",
+      "texto_sha256": "86d519f3fc157648be4bcfadfc420c415f253c78bc37f376db87241b7e4cd0f5",
+      "adjuntos": []
+    },
+    {
+      "id": "1559293718433894411",
+      "fecha_utc": "2026-10-12T19:56:32.751000+00:00",
+      "fecha_local": "2026-10-12",
+      "editado_utc": null,
+      "texto": "Walulu: **Sigue moviendo la mano creando esas lucecitas pero poco a poco las apaga** Eso me gustaría maestra... Pero los Yuan-Ti ya han encontrado como llegar a la aldea y no puedo arriesgar a mi pueblo a otro ataque. Ya viste lo que pasó. El dragon era el menor de nuestros problemas **Mira a Tortas y le asiente suavemente**",
+      "mensaje_sha256": "b79d099614ee7089c943a9195ffda30a77e04c0c977ee6101e5ba70289c2a613",
+      "tipo_discord": 19,
+      "referencia": "1559292754742214777",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1559293718433894411",
+      "texto_sha256": "14ff1ed1f8de56a6c93d36e2cd8d6b6bc377378999ac3b068446973d38de1685",
+      "adjuntos": []
+    },
+    {
+      "id": "1559296639607378053",
+      "fecha_utc": "2026-10-12T20:08:09.213000+00:00",
+      "fecha_local": "2026-10-12",
+      "editado_utc": null,
+      "texto": "Tortas: Bigotitos, Te Acompañare hasta allí entonces... Necesitarás mi compañía <@616683133374562304>",
+      "mensaje_sha256": "3011eac387bccbf56e61b89062de815c789225e9a48da045bbdd58b5a896e6a0",
+      "tipo_discord": 19,
+      "referencia": "1559293718433894411",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1559296639607378053",
+      "texto_sha256": "ae9168ba96709ca6bb1cde8cec9a012be69f1961456820695216f15997fe263c",
+      "adjuntos": []
+    },
+    {
+      "id": "1559299863550754908",
+      "fecha_utc": "2026-10-12T20:20:57.861000+00:00",
+      "fecha_local": "2026-10-12",
+      "editado_utc": null,
+      "texto": "Naór: ¿Entonces ya derrotasteis a la serpiente gorda? ¿Al dragón del que hablaba Tryel? **Sonríe con alivio** Me alegro… Y gracias otra vez, Tortas. Ahora os necesito cerca, a ti y a Walulu. Sois lo que mantiene mi cordura en pie. Os conozco desde siempre… aunque de pequeñas pensáramos que eras una estatua. **Mira a Walulu con una sonrisa leve que rapido desaparece**.\n\nLa llegada de Tryel ha sido un regalo para mí, pero… también está Ilikar. Creo que siento algo fuerte por él, algo que no sé explicar. Las charlas junto al fuego, los días en el lago, verle con Leo… **Se señala la boca del estómago, algo avergonzada.**Se me hace un nudo aquí. Es extraño… y creo que me asusta un poquito. Tengo ganas de verles",
+      "mensaje_sha256": "4061eca5167d791221003c3e4618b62b452aec733826249ce4aeb832e158091b",
+      "tipo_discord": 19,
+      "referencia": "1559296639607378053",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1559299863550754908",
+      "texto_sha256": "0d7e725ff48852990006993a2e845da7368d136d46c981167f47125a3da92e45",
+      "adjuntos": []
+    },
+    {
+      "id": "1559310178791460997",
+      "fecha_utc": "2026-10-12T21:01:57.206000+00:00",
+      "fecha_local": "2026-10-12",
+      "editado_utc": null,
+      "texto": "Tortas: Si.... Clolgendranx no nos molestará más.... \n\nIlikar.....\n\nEse joven..... Goliath \n\n**traga saliva**\n\nMi primer alumno...... **mira hacia el cielo para contener la lágrima que estaba por desprenderse de sus párpados**\n\nNaor, creo que debes acompañarme si nos permite Walulu ausentarnos un momento",
+      "mensaje_sha256": "b8341ecd68598bc17ef861a2c4aecf07a7c32ca0b51cc5445963420c30cda556",
+      "tipo_discord": 19,
+      "referencia": "1559299863550754908",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1559310178791460997",
+      "texto_sha256": "ad2860c5f061d563dc875d2468754a1951374684625a32171b79f93ee54f2e5f",
+      "adjuntos": []
+    },
+    {
+      "id": "1559312576305831967",
+      "fecha_utc": "2026-10-12T21:11:28.818000+00:00",
+      "fecha_local": "2026-10-12",
+      "editado_utc": "2026-10-12T21:11:40.896000+00:00",
+      "texto": "Walulu: **La druida asiente con la cabeza y luego acariciar a su amiga de Aztlan, se dirige al templo** Acabaré algunas cosas antes de nuestra marcha. Aún quedan algunos heridos. **Mira a Tortas** Os esperaré",
+      "mensaje_sha256": "f703a48e3c1777662552a1c6a74ec7b1f0ef567188ccf62f7eebc6b1d354a049",
+      "tipo_discord": 19,
+      "referencia": "1559310178791460997",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1559312576305831967",
+      "texto_sha256": "960105054e6a619727221eb8a10cab47e596d2d0fdee864e892cff016ce8b407",
+      "adjuntos": []
+    },
+    {
+      "id": "1559313672239583243",
+      "fecha_utc": "2026-10-12T21:15:50.109000+00:00",
+      "fecha_local": "2026-10-12",
+      "editado_utc": "2026-10-12T21:16:07.131000+00:00",
+      "texto": "Naór: **Naór  mira a ambos **\nDe acuerdo , iremos a buscar a ese cabezón de Ilikar y volveremos a ayudarte con los preparativos \n**mira a tortas y se extraña un poco,  pero bueno es tortas , quiza se le ha olvidado algo o lo que sea , no le da mas importancia ** \n\nTe sigo pues ... \n\n*que será lo que quiere enseñarme* <@297459767117611008>",
+      "mensaje_sha256": "6860b0853f16da6beea890a7516cd384fdbaf3b86e8aa539a79af5c59b52df2b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1559313672239583243",
+      "texto_sha256": "155c7de9e852b643404596ceb892468601656e3234b6e31a94571caf44163679",
+      "adjuntos": []
+    },
+    {
+      "id": "1559336751602860123",
+      "fecha_utc": "2026-10-12T22:47:32.658000+00:00",
+      "fecha_local": "2026-10-13",
+      "editado_utc": null,
+      "texto": "🔴Nos vamos pa la jungla🔴",
+      "mensaje_sha256": "f49e5d438fd1c099ecd20d750a1b7f4160876d5479d3d2b6796c09d77752d7dc",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1559336751602860123",
+      "texto_sha256": "d0c0ae795a2fcd67c93f3eefe0a8866dad5888318f5b861747c96a43d1e8f7d7",
+      "adjuntos": []
+    }
+  ]
+}

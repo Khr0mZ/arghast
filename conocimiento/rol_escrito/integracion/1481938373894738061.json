@@ -1,0 +1,868 @@
+{
+  "hilo_id": "1481938373894738061",
+  "hilo": "Fuerte Aurora - Base de la Marina",
+  "campana": "xoltacan",
+  "unidades_leidas": 12,
+  "alcance": "Lectura íntegra de doce partes, 133 mensajes y dos adjuntos inspeccionados. Se distinguen nueve unidades narrativas y tres avisos o cierres conservados como contexto. La unidad de los planes navales contiene dos escenas; los recuerdos se señalan expresamente. El relato no sustituye batallas ausentes de estas fuentes.",
+  "identidades": [
+    {
+      "nombre": "Nox",
+      "alias": [
+        "Jim Hawkins",
+        "Jim",
+        "Gamba Pelada"
+      ],
+      "pruebas": [
+        "1484252810412560415",
+        "1516360724849365004",
+        "1518544881499242497"
+      ],
+      "nota": "Molly y Tórtola lo llaman Jim Hawkins. Gamba Pelada es un disfraz explícito para engañar a Poncelot, que lo confunde con Mirlín. Amaru es la identificación de Citlali, que Nox todavía cuestiona.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1484252810412560415",
+          "escena": "x-1484222155477614603",
+          "fecha_utc": "2026-03-19T18:10:46.086000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1484252810412560415"
+        },
+        {
+          "mensaje_id": "1516360724849365004",
+          "escena": "x-1516347955882229931",
+          "fecha_utc": "2026-06-16T08:36:09.424000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1516360724849365004"
+        },
+        {
+          "mensaje_id": "1518544881499242497",
+          "escena": "x-1518544881499242497",
+          "fecha_utc": "2026-06-22T09:15:12.949000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1518544881499242497"
+        }
+      ]
+    },
+    {
+      "nombre": "Molly",
+      "alias": [
+        "Capitana Molly",
+        "Mari Anne",
+        "Mery Anne"
+      ],
+      "pruebas": [
+        "1484222155477614603",
+        "1487422564845490217"
+      ],
+      "nota": "Mari Anne y Mery Anne son las formas en que Jim se dirige a la capitana. Aquí no se narra un cambio oficial de nombre.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1484222155477614603",
+          "escena": "x-1484222155477614603",
+          "fecha_utc": "2026-03-19T16:08:57.380000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1484222155477614603"
+        },
+        {
+          "mensaje_id": "1487422564845490217",
+          "escena": "x-1486994030767378563",
+          "fecha_utc": "2026-03-28T12:06:14.434000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1487422564845490217"
+        }
+      ]
+    },
+    {
+      "nombre": "Tórtola Jones",
+      "alias": [
+        "Capitán Tórtola",
+        "Tortola Jhones"
+      ],
+      "pruebas": [
+        "1495716479587319899",
+        "1526863765306474568"
+      ],
+      "nota": "Capitán y líder de la Marina según narración; Nox lo trata de almirante en sus negociaciones, sin ascenso formal demostrado.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1495716479587319899",
+          "escena": "x-1495716479587319899",
+          "fecha_utc": "2026-04-20T09:23:17.802000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1495716479587319899"
+        },
+        {
+          "mensaje_id": "1526863765306474568",
+          "escena": "x-1526863765306474568",
+          "fecha_utc": "2026-07-15T08:11:29.406000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1526863765306474568"
+        }
+      ]
+    },
+    {
+      "nombre": "Jackie Jackson",
+      "alias": [
+        "Jackie"
+      ],
+      "pruebas": [
+        "1526863765306474568",
+        "1526863866720419944"
+      ],
+      "nota": "Antiguo marine que sigue a Nox y forma parte de la tripulación de Ione. Sus recuerdos finales lo identifican expresamente.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1526863765306474568",
+          "escena": "x-1526863765306474568",
+          "fecha_utc": "2026-07-15T08:11:29.406000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1526863765306474568"
+        },
+        {
+          "mensaje_id": "1526863866720419944",
+          "escena": "x-1526863765306474568",
+          "fecha_utc": "2026-07-15T08:11:53.585000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1526863866720419944"
+        }
+      ]
+    },
+    {
+      "nombre": "Eztli",
+      "alias": [
+        "Eztil"
+      ],
+      "pruebas": [
+        "1513592375950315684",
+        "1513901609082552332"
+      ],
+      "nota": "Misma cría de dinosaurio a la que Citlali cuida y enseña mediante silbidos.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1513592375950315684",
+          "escena": "x-1513583476257984624",
+          "fecha_utc": "2026-06-08T17:15:43.613000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1513592375950315684"
+        },
+        {
+          "mensaje_id": "1513901609082552332",
+          "escena": "x-1513583476257984624",
+          "fecha_utc": "2026-06-09T13:44:30.537000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1513901609082552332"
+        }
+      ]
+    },
+    {
+      "nombre": "Harrison",
+      "alias": [
+        "Contramaestre Harrison"
+      ],
+      "pruebas": [
+        "1524351953889394719"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1524351953889394719",
+          "escena": "x-1524351953889394719",
+          "fecha_utc": "2026-07-08T09:50:26.897000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1524351953889394719"
+        }
+      ]
+    },
+    {
+      "nombre": "John Bones",
+      "alias": [
+        "Capitán Bones"
+      ],
+      "pruebas": [
+        "1521458513149165658",
+        "1521478847869223033"
+      ],
+      "nota": "Nox lo recuerda como capitán de los Mil Soles que lo crió. No se fija su localización actual ni se convierte la evocación al sol en una aparición.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1521458513149165658",
+          "escena": "x-1521450189230051438",
+          "fecha_utc": "2026-06-30T10:12:56.867000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1521458513149165658"
+        },
+        {
+          "mensaje_id": "1521478847869223033",
+          "escena": "x-1521450189230051438",
+          "fecha_utc": "2026-06-30T11:33:45.042000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1521478847869223033"
+        }
+      ]
+    }
+  ],
+  "arcos": [
+    {
+      "nombre": "Molly, la Marina y Jim",
+      "avance": "Una nota de las ruinas provoca su salida con un regimiento. Después Molly captura a Nox cuando su cita se convierte en una emboscada. Lo mantiene en la Torre-Prisión y busca información sobre un símbolo que el lector relaciona con Citlali. La llegada de Tórtola la desplaza del despacho. Más adelante ambos la llaman traidora y ex-capitana; la transición no se juega aquí.",
+      "pruebas": [
+        "1481942678307602492",
+        "1484252810412560415",
+        "1487425258125398197",
+        "1495716479587319899",
+        "1516360724849365004",
+        "1521470199591866448"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1481942678307602492",
+          "escena": "x-1481938373894738061",
+          "fecha_utc": "2026-03-13T09:11:07.672000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1481942678307602492"
+        },
+        {
+          "mensaje_id": "1484252810412560415",
+          "escena": "x-1484222155477614603",
+          "fecha_utc": "2026-03-19T18:10:46.086000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1484252810412560415"
+        },
+        {
+          "mensaje_id": "1487425258125398197",
+          "escena": "x-1486994030767378563",
+          "fecha_utc": "2026-03-28T12:16:56.562000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1487425258125398197"
+        },
+        {
+          "mensaje_id": "1495716479587319899",
+          "escena": "x-1495716479587319899",
+          "fecha_utc": "2026-04-20T09:23:17.802000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1495716479587319899"
+        },
+        {
+          "mensaje_id": "1516360724849365004",
+          "escena": "x-1516347955882229931",
+          "fecha_utc": "2026-06-16T08:36:09.424000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1516360724849365004"
+        },
+        {
+          "mensaje_id": "1521470199591866448",
+          "escena": "x-1521450189230051438",
+          "fecha_utc": "2026-06-30T10:59:23.132000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1521470199591866448"
+        }
+      ]
+    },
+    {
+      "nombre": "El símbolo, la visión y Amaru",
+      "avance": "Nox reconoce la inscripción de las ruinas como el tatuaje de Citlali, sin informarle de ella a Molly. En la cueva, Citlali sufre una visión ritual y cuenta que un niño sobrevivió a sus pérdidas. Lo llamó Amaru y cree reconocerlo en Jim; él duda en privado. Un recuerdo posterior muestra un objeto cuadrado que le dejó antes de partir, sin identificarlo.",
+      "pruebas": [
+        "1487425258125398197",
+        "1513957210554630225",
+        "1514040036704649306",
+        "1514049003828936824",
+        "1514051269218533497",
+        "1524351953889394719"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1487425258125398197",
+          "escena": "x-1486994030767378563",
+          "fecha_utc": "2026-03-28T12:16:56.562000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1487425258125398197"
+        },
+        {
+          "mensaje_id": "1513957210554630225",
+          "escena": "x-1513583476257984624",
+          "fecha_utc": "2026-06-09T17:25:26.961000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1513957210554630225"
+        },
+        {
+          "mensaje_id": "1514040036704649306",
+          "escena": "x-1513583476257984624",
+          "fecha_utc": "2026-06-09T22:54:34.254000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1514040036704649306"
+        },
+        {
+          "mensaje_id": "1514049003828936824",
+          "escena": "x-1513583476257984624",
+          "fecha_utc": "2026-06-09T23:30:12.183000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1514049003828936824"
+        },
+        {
+          "mensaje_id": "1514051269218533497",
+          "escena": "x-1513583476257984624",
+          "fecha_utc": "2026-06-09T23:39:12.294000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1514051269218533497"
+        },
+        {
+          "mensaje_id": "1524351953889394719",
+          "escena": "x-1524351953889394719",
+          "fecha_utc": "2026-07-08T09:50:26.897000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1524351953889394719"
+        }
+      ]
+    },
+    {
+      "nombre": "El orbe y el favor anómalo de Tórtola",
+      "avance": "Nox se infiltra con ilusiones y negocia el Ojo de Serpiente junto con ayuda contra los Reyes Pirata. Un marine lo toma sin efecto visible. El orbe sisea y cambia la actitud del capitán, que parece olvidar parte de la conversación al ser cubierto. Su deferencia posterior facilita el acceso de Nox, pero no prueba control absoluto ni patentes de corso emitidas.",
+      "pruebas": [
+        "1516494333837181099",
+        "1516511500066357339",
+        "1516672131109224558",
+        "1516714895016726528"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1516494333837181099",
+          "escena": "x-1516347955882229931",
+          "fecha_utc": "2026-06-16T17:27:04.289000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1516494333837181099"
+        },
+        {
+          "mensaje_id": "1516511500066357339",
+          "escena": "x-1516347955882229931",
+          "fecha_utc": "2026-06-16T18:35:17.037000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1516511500066357339"
+        },
+        {
+          "mensaje_id": "1516672131109224558",
+          "escena": "x-1516347955882229931",
+          "fecha_utc": "2026-06-17T05:13:34.462000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1516672131109224558"
+        },
+        {
+          "mensaje_id": "1516714895016726528",
+          "escena": "x-1516347955882229931",
+          "fecha_utc": "2026-06-17T08:03:30.172000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1516714895016726528"
+        }
+      ]
+    },
+    {
+      "nombre": "Los dos planes para Shiaru",
+      "avance": "Nox ve el cerco de la Marina en los mapas. Disfrazado como Gamba Pelada muestra a Poncelot ilusiones de ese peligro y de una respuesta posible, con trampas, evacuación, arrecifes y un barco que traiciona a la flota. Luego presenta a Tórtola una ruta entre arrecifes y consigue que sitúe allí sus tres mejores buques. La batalla queda fuera de escena.",
+      "pruebas": [
+        "1517079866774913096",
+        "1518603064616030328",
+        "1518609454847758407",
+        "1518662639620849756",
+        "1521474822310203503"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1517079866774913096",
+          "escena": "x-1516347955882229931",
+          "fecha_utc": "2026-06-18T08:13:46.220000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1517079866774913096"
+        },
+        {
+          "mensaje_id": "1518603064616030328",
+          "escena": "x-1518544881499242497",
+          "fecha_utc": "2026-06-22T13:06:24.885000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1518603064616030328"
+        },
+        {
+          "mensaje_id": "1518609454847758407",
+          "escena": "x-1518544881499242497",
+          "fecha_utc": "2026-06-22T13:31:48.435000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1518609454847758407"
+        },
+        {
+          "mensaje_id": "1518662639620849756",
+          "escena": "x-1518544881499242497",
+          "fecha_utc": "2026-06-22T17:03:08.673000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1518662639620849756"
+        },
+        {
+          "mensaje_id": "1521474822310203503",
+          "escena": "x-1521450189230051438",
+          "fecha_utc": "2026-06-30T11:17:45.274000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1521474822310203503"
+        }
+      ]
+    },
+    {
+      "nombre": "El regreso del Zampaolas y la pérdida de Nox",
+      "avance": "Nox observa que Ione ha desencallado el barco y recuerda a su familia elegida. Al final, el narrador confirma que readmitió a los compañeros expulsados y que el sacrificio de Nox impidió la victoria de Tórtola. Jackie llora su pérdida, sin que se represente el mecanismo del sacrificio.",
+      "pruebas": [
+        "1516347955882229931",
+        "1521458513149165658",
+        "1521478847869223033",
+        "1526863765306474568",
+        "1526863866720419944"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1516347955882229931",
+          "escena": "x-1516347955882229931",
+          "fecha_utc": "2026-06-16T07:45:25.065000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1516347955882229931"
+        },
+        {
+          "mensaje_id": "1521458513149165658",
+          "escena": "x-1521450189230051438",
+          "fecha_utc": "2026-06-30T10:12:56.867000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1521458513149165658"
+        },
+        {
+          "mensaje_id": "1521478847869223033",
+          "escena": "x-1521450189230051438",
+          "fecha_utc": "2026-06-30T11:33:45.042000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1521478847869223033"
+        },
+        {
+          "mensaje_id": "1526863765306474568",
+          "escena": "x-1526863765306474568",
+          "fecha_utc": "2026-07-15T08:11:29.406000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1526863765306474568"
+        },
+        {
+          "mensaje_id": "1526863866720419944",
+          "escena": "x-1526863765306474568",
+          "fecha_utc": "2026-07-15T08:11:53.585000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1526863866720419944"
+        }
+      ]
+    },
+    {
+      "nombre": "La oferta de la voz a Jackie",
+      "avance": "En el fuerte abandonado, una voz mental sibilante ofrece aliviar el duelo si Jackie la libera. Las visiones calman su dolor y él acepta, con una sensación de olvido. La presencia no recibe nombre ni sale de su encierro en el texto.",
+      "pruebas": [
+        "1526863866720419944"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1526863866720419944",
+          "escena": "x-1526863765306474568",
+          "fecha_utc": "2026-07-15T08:11:53.585000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1526863866720419944"
+        }
+      ]
+    }
+  ],
+  "pendientes": [
+    {
+      "pregunta": "¿Qué contiene la carta de Thomas y qué ocurrió en la salida del regimiento?",
+      "pruebas": [
+        "1481942678307602492"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1481942678307602492",
+          "escena": "x-1481938373894738061",
+          "fecha_utc": "2026-03-13T09:11:07.672000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1481942678307602492"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién atacó y saqueó las ruinas del norte y qué significa exactamente el símbolo común al tatuaje?",
+      "pruebas": [
+        "1487414251378446417",
+        "1487425258125398197"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1487414251378446417",
+          "escena": "x-1486994030767378563",
+          "fecha_utc": "2026-03-28T11:33:12.349000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1487414251378446417"
+        },
+        {
+          "mensaje_id": "1487425258125398197",
+          "escena": "x-1486994030767378563",
+          "fecha_utc": "2026-03-28T12:16:56.562000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1487425258125398197"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cómo sale Nox de la Torre-Prisión y cómo acaba Molly como ex-capitana aliada de los piratas?",
+      "pruebas": [
+        "1487514319750172773",
+        "1495716479587319899",
+        "1516360724849365004",
+        "1521470199591866448"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1487514319750172773",
+          "escena": "x-1486994030767378563",
+          "fecha_utc": "2026-03-28T18:10:50.508000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1487514319750172773"
+        },
+        {
+          "mensaje_id": "1495716479587319899",
+          "escena": "x-1495716479587319899",
+          "fecha_utc": "2026-04-20T09:23:17.802000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1495716479587319899"
+        },
+        {
+          "mensaje_id": "1516360724849365004",
+          "escena": "x-1516347955882229931",
+          "fecha_utc": "2026-06-16T08:36:09.424000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1516360724849365004"
+        },
+        {
+          "mensaje_id": "1521470199591866448",
+          "escena": "x-1521450189230051438",
+          "fecha_utc": "2026-06-30T10:59:23.132000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1521470199591866448"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué guardó Nox en el cofre de la caverna y qué es el objeto cuadrado dejado a Citlali?",
+      "pruebas": [
+        "1513583476257984624",
+        "1524351953889394719"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1513583476257984624",
+          "escena": "x-1513583476257984624",
+          "fecha_utc": "2026-06-08T16:40:21.761000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1513583476257984624"
+        },
+        {
+          "mensaje_id": "1524351953889394719",
+          "escena": "x-1524351953889394719",
+          "fecha_utc": "2026-07-08T09:50:26.897000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1524351953889394719"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Se corrobora completamente el reconocimiento de Amaru y se cumple o evita la visión ritual de Citlali?",
+      "pruebas": [
+        "1513957210554630225",
+        "1514049003828936824",
+        "1514051269218533497"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1513957210554630225",
+          "escena": "x-1513583476257984624",
+          "fecha_utc": "2026-06-09T17:25:26.961000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1513957210554630225"
+        },
+        {
+          "mensaje_id": "1514049003828936824",
+          "escena": "x-1513583476257984624",
+          "fecha_utc": "2026-06-09T23:30:12.183000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1514049003828936824"
+        },
+        {
+          "mensaje_id": "1514051269218533497",
+          "escena": "x-1513583476257984624",
+          "fecha_utc": "2026-06-09T23:39:12.294000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1514051269218533497"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién o qué actúa a través del Ojo de Serpiente, a quién afecta y con qué límites?",
+      "pruebas": [
+        "1516494333837181099",
+        "1516511500066357339",
+        "1516672131109224558"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1516494333837181099",
+          "escena": "x-1516347955882229931",
+          "fecha_utc": "2026-06-16T17:27:04.289000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1516494333837181099"
+        },
+        {
+          "mensaje_id": "1516511500066357339",
+          "escena": "x-1516347955882229931",
+          "fecha_utc": "2026-06-16T18:35:17.037000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1516511500066357339"
+        },
+        {
+          "mensaje_id": "1516672131109224558",
+          "escena": "x-1516347955882229931",
+          "fecha_utc": "2026-06-17T05:13:34.462000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1516672131109224558"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué contiene la hoja de bananero y qué parte del plan llega a ejecutar Shiaru?",
+      "pruebas": [
+        "1518609454847758407",
+        "1518662639620849756"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1518609454847758407",
+          "escena": "x-1518544881499242497",
+          "fecha_utc": "2026-06-22T13:31:48.435000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1518609454847758407"
+        },
+        {
+          "mensaje_id": "1518662639620849756",
+          "escena": "x-1518544881499242497",
+          "fecha_utc": "2026-06-22T17:03:08.673000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1518662639620849756"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cómo se desarrolla el sacrificio de Nox y qué destino tienen el Invictus, el orbe y Tórtola?",
+      "pruebas": [
+        "1524351953889394719",
+        "1526863765306474568"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1524351953889394719",
+          "escena": "x-1524351953889394719",
+          "fecha_utc": "2026-07-08T09:50:26.897000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1524351953889394719"
+        },
+        {
+          "mensaje_id": "1526863765306474568",
+          "escena": "x-1526863765306474568",
+          "fecha_utc": "2026-07-15T08:11:29.406000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1526863765306474568"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién es la voz que habla a Jackie y logra él sacarla de Fuerte Aurora?",
+      "pruebas": [
+        "1526863866720419944"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1526863866720419944",
+          "escena": "x-1526863765306474568",
+          "fecha_utc": "2026-07-15T08:11:53.585000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1526863866720419944"
+        }
+      ]
+    }
+  ],
+  "relaciones": [
+    {
+      "personas": [
+        "Nox",
+        "Molly"
+      ],
+      "desarrollo": "Pasado afectivo declarado por ambos y abandono que ella reprocha. Los halagos conviven con engaños, disparo contra una ilusión, captura y presión para colaborar. No se presenta como reconciliación.",
+      "pruebas": [
+        "1484228061464629399",
+        "1484250473740374016",
+        "1487514319750172773"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1484228061464629399",
+          "escena": "x-1484222155477614603",
+          "fecha_utc": "2026-03-19T16:32:25.477000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1484228061464629399"
+        },
+        {
+          "mensaje_id": "1484250473740374016",
+          "escena": "x-1484222155477614603",
+          "fecha_utc": "2026-03-19T18:01:28.980000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1484250473740374016"
+        },
+        {
+          "mensaje_id": "1487514319750172773",
+          "escena": "x-1486994030767378563",
+          "fecha_utc": "2026-03-28T18:10:50.508000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1487514319750172773"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Nox",
+        "Citlali"
+      ],
+      "desarrollo": "Burlas, ayuda material, temor por las visiones y reconocimiento maternal de Citlali. Nox se muestra torpe al consolarla y duda en privado de ser su niño. El objeto dejado en secreto no demuestra que ella lo encontrara.",
+      "pruebas": [
+        "1513911214529446060",
+        "1514044294464536847",
+        "1514049003828936824",
+        "1514051269218533497",
+        "1524351953889394719"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1513911214529446060",
+          "escena": "x-1513583476257984624",
+          "fecha_utc": "2026-06-09T14:22:40.654000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1513911214529446060"
+        },
+        {
+          "mensaje_id": "1514044294464536847",
+          "escena": "x-1513583476257984624",
+          "fecha_utc": "2026-06-09T23:11:29.383000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1514044294464536847"
+        },
+        {
+          "mensaje_id": "1514049003828936824",
+          "escena": "x-1513583476257984624",
+          "fecha_utc": "2026-06-09T23:30:12.183000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1514049003828936824"
+        },
+        {
+          "mensaje_id": "1514051269218533497",
+          "escena": "x-1513583476257984624",
+          "fecha_utc": "2026-06-09T23:39:12.294000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1514051269218533497"
+        },
+        {
+          "mensaje_id": "1524351953889394719",
+          "escena": "x-1524351953889394719",
+          "fecha_utc": "2026-07-08T09:50:26.897000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1524351953889394719"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Nox",
+        "Tórtola Jones"
+      ],
+      "desarrollo": "Desconfianza, detención breve y negociación interesada, con deferencia anómala relacionada con el orbe. El pirata solicita corso y plantea objetivos comunes sin garantías de cumplimiento.",
+      "pruebas": [
+        "1516471292579287080",
+        "1516494333837181099",
+        "1516672131109224558",
+        "1521472108515950723"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1516471292579287080",
+          "escena": "x-1516347955882229931",
+          "fecha_utc": "2026-06-16T15:55:30.825000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1516471292579287080"
+        },
+        {
+          "mensaje_id": "1516494333837181099",
+          "escena": "x-1516347955882229931",
+          "fecha_utc": "2026-06-16T17:27:04.289000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1516494333837181099"
+        },
+        {
+          "mensaje_id": "1516672131109224558",
+          "escena": "x-1516347955882229931",
+          "fecha_utc": "2026-06-17T05:13:34.462000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1516672131109224558"
+        },
+        {
+          "mensaje_id": "1521472108515950723",
+          "escena": "x-1521450189230051438",
+          "fecha_utc": "2026-06-30T11:06:58.255000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1521472108515950723"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Nox",
+        "Sir Poncelot"
+      ],
+      "desarrollo": "El pirata aprovecha las fantasías caballerescas del gnomo para convertirlo en mensajero. Poncelot cree servir al sabio Mirlín, sin conocer el disfraz ni recibir poderes.",
+      "pruebas": [
+        "1518544881499242497",
+        "1518600180792819782",
+        "1519240640318144522"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1518544881499242497",
+          "escena": "x-1518544881499242497",
+          "fecha_utc": "2026-06-22T09:15:12.949000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1518544881499242497"
+        },
+        {
+          "mensaje_id": "1518600180792819782",
+          "escena": "x-1518544881499242497",
+          "fecha_utc": "2026-06-22T12:54:57.328000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1518600180792819782"
+        },
+        {
+          "mensaje_id": "1519240640318144522",
+          "escena": "x-1518544881499242497",
+          "fecha_utc": "2026-06-24T07:19:54.778000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1519240640318144522"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Nox",
+        "Ione",
+        "Jackie Jackson"
+      ],
+      "desarrollo": "Nox reconoce en privado a Ione como capitana y evoca al Zampaolas como familia. Jackie recuerda a quien le mostró la libertad y siente culpa por su pérdida, sin que esa culpa determine la autoría del desenlace.",
+      "pruebas": [
+        "1516347955882229931",
+        "1521458513149165658",
+        "1526863765306474568",
+        "1526863866720419944"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1516347955882229931",
+          "escena": "x-1516347955882229931",
+          "fecha_utc": "2026-06-16T07:45:25.065000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1516347955882229931"
+        },
+        {
+          "mensaje_id": "1521458513149165658",
+          "escena": "x-1521450189230051438",
+          "fecha_utc": "2026-06-30T10:12:56.867000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1521458513149165658"
+        },
+        {
+          "mensaje_id": "1526863765306474568",
+          "escena": "x-1526863765306474568",
+          "fecha_utc": "2026-07-15T08:11:29.406000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1526863765306474568"
+        },
+        {
+          "mensaje_id": "1526863866720419944",
+          "escena": "x-1526863765306474568",
+          "fecha_utc": "2026-07-15T08:11:53.585000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1526863866720419944"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Citlali",
+        "Eztli"
+      ],
+      "desarrollo": "Cuidado maternal y entrenamiento con paciencia. La cría comprende la cercanía emocional antes que todas las instrucciones; los intentos de ataque no la convierten en combatiente entrenado.",
+      "pruebas": [
+        "1513592375950315684",
+        "1513901609082552332",
+        "1513912331992568019"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1513592375950315684",
+          "escena": "x-1513583476257984624",
+          "fecha_utc": "2026-06-08T17:15:43.613000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1513592375950315684"
+        },
+        {
+          "mensaje_id": "1513901609082552332",
+          "escena": "x-1513583476257984624",
+          "fecha_utc": "2026-06-09T13:44:30.537000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1513901609082552332"
+        },
+        {
+          "mensaje_id": "1513912331992568019",
+          "escena": "x-1513583476257984624",
+          "fecha_utc": "2026-06-09T14:27:07.078000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1513912331992568019"
+        }
+      ]
+    }
+  ],
+  "precauciones_editoriales": [
+    "Todas las fuentes pertenecen a Xoltacan; no mezclar a Nox con la droga de Kuroto ni a homónimos por autor.",
+    "Las ilusiones de Nox y las fantasías de Poncelot no se convierten en visiones proféticas, personajes materiales o combates ejecutados.",
+    "El ritual visto por Citlali permanece como visión y su reconocimiento de Amaru conserva la duda del propio Nox.",
+    "Los recuerdos y la entrega retrospectiva del objeto se señalan; no se convierten en encuentros nuevos por su fecha de publicación.",
+    "No completar cartas, objetos ocultos o conversación mental que la fuente deja sin contenido.",
+    "La muerte evocada de Nox y la readmisión del Zampaolas están confirmadas retrospectivamente; el combate y la escena de readmisión no se fabrican.",
+    "Los cambios de Tórtola tienen relación narrativa con el orbe, sin mecanismo, alcance ilimitado o identidad de la presencia demostrados.",
+    "La imagen humorística no incorpora al personaje de la película al mundo narrativo."
+  ],
+  "estado_seguimiento": "al_cierre_del_hilo",
+  "nota_seguimiento": "Cada cuestión conserva el contexto de sus mensajes originales. Los cotejos enlazan las respuestas halladas en otras escenas; la ausencia de un cotejo no demuestra que siga abierta después de otros capítulos.",
+  "fecha_hasta_utc": "2026-07-15T08:11:59.985000+00:00"
+}

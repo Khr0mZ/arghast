@@ -1,0 +1,139 @@
+{
+  "id": "k-1380459315886030869",
+  "campana": "kuroto",
+  "unidad_revision": "k-1380459315886030869",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Dos viales del cuarto de Maroxi",
+  "resumen": "Guxi entra en la habitación vacía de Maroxi y sale con dos viales sin identificar.",
+  "relato": "Guxi llama a la puerta de Maroxi porque necesita un favor. Tras esperar sin obtener respuesta, abre, encuentra la habitación vacía y entra cerrando detrás de sí. Después de buscar durante un rato, sale con un par de viales y los guarda en su mochila antes de abandonar la base. No se describe su contenido, su uso previsto ni una autorización de Maroxi para llevárselos.",
+  "participantes": [
+    "Guxi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1380459315886030869",
+      "afirmacion": "Guxi busca a Maroxi para pedirle un favor.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1380461958431641750",
+      "afirmacion": "Guxi entra en la habitación tras no obtener respuesta.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1380465842596085760",
+      "afirmacion": "Guxi se lleva dos viales sin identificar y sale de la base.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Cinco mensajes íntegros. No se otorgan propiedades, efectos ni procedencia concreta a los viales. La aprobación o conocimiento de Maroxi no aparece."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-06T08:12:28.601000+00:00",
+  "fin_utc": "2025-06-06T08:38:48.181000+00:00",
+  "fecha_local": "2025-06-06",
+  "intervalo": {
+    "anterior": 125,
+    "siguiente": 126,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1380253520841805875",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1382420384158056601",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 125,
+        "fecha": "2025-06-05",
+        "inicio_referencia_utc": "2025-06-05T18:34:23+00:00",
+        "fin_estimado_utc": "2025-06-05T21:51:33+00:00",
+        "duracion_video_segundos": 11830,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1380253520841805875"
+      },
+      {
+        "capitulo": 126,
+        "fecha": "2025-06-11",
+        "inicio_referencia_utc": "2025-06-11T18:04:52+00:00",
+        "fin_estimado_utc": "2025-06-11T20:51:16+00:00",
+        "duracion_video_segundos": 9984,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1382420384158056601"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1380459315886030869",
+      "fecha_utc": "2025-06-06T08:12:28.601000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "guxi: **abre la puerta de la base y se dirige a la habitacion de <@412279081170763776> maroxi y toca la puerta ** estas ahi? necesito un favor",
+      "mensaje_sha256": "d0bb7cb478163f67f5654f7719fb26c6f326f1588781a51b559003ac5d4eab5a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1380459315886030869",
+      "texto_sha256": "93c890818deb812cacd199eacf13800a58913ce5698de1bb21de0ac4daf06c9b",
+      "adjuntos": []
+    },
+    {
+      "id": "1380461958431641750",
+      "fecha_utc": "2025-06-06T08:22:58.633000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": "2025-06-06T08:24:56.099000+00:00",
+      "texto": "guxi: **al estar un rato y no ver respuesta abre la puerta y no ve a nadie entra y la cierra tras de si** *espero encontrar lo que necesito*",
+      "mensaje_sha256": "7bfc724eae02763940fd404561754dd10c2336d5ff7115a8e2f65edea27c181c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1380461958431641750",
+      "texto_sha256": "7e0f231eaf0d63eef581c255df3b1a763d21345f23bc26ad64775af44ce5510b",
+      "adjuntos": []
+    },
+    {
+      "id": "1380465842596085760",
+      "fecha_utc": "2025-06-06T08:38:24.690000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "guxi:**despues de un rato buscando sale con un par de viales se los guarda en la mochila y sale por la puerta**",
+      "mensaje_sha256": "7388be43f2bd6a1290692f5b0f024ae2e29a58945869eeb2c30f86507398195b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1380465842596085760",
+      "texto_sha256": "66f4021e7c9a35b2d97d95df23d9f0e720563636892453577011ae8a74951954",
+      "adjuntos": []
+    },
+    {
+      "id": "1380465895704367165",
+      "fecha_utc": "2025-06-06T08:38:37.352000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "🔩 guxi sale de escena🔩",
+      "mensaje_sha256": "6926c2fe3df3d474d8244741a227c60b0865f05f6627c58e0bf184ef5f7be983",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1380465895704367165",
+      "texto_sha256": "e684c549af93a258b115f68a37386a6f33541b453519e2877a0cc24cd84938f3",
+      "adjuntos": []
+    },
+    {
+      "id": "1380465941124616212",
+      "fecha_utc": "2025-06-06T08:38:48.181000+00:00",
+      "fecha_local": "2025-06-06",
+      "editado_utc": null,
+      "texto": "🔴 fin de escena🔴",
+      "mensaje_sha256": "39548f953327021c375fb845c14cdeba56841aa5a4740932a9d7213e451fbea2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1380465941124616212",
+      "texto_sha256": "906cd6a490f27f6a27bf957ba49b4845aca936431f5924262141d6e0dea25762",
+      "adjuntos": []
+    }
+  ]
+}

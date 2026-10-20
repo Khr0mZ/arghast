@@ -1,0 +1,289 @@
+{
+  "id": "k-1410943614846107709",
+  "campana": "kuroto",
+  "unidad_revision": "k-1410943614846107709",
+  "hilo_id": "1387915737502580886",
+  "hilo_nombre": "Sho, Palacio del Shogunato - Capital de Kuroto",
+  "titulo": "Una escapada sin aviso",
+  "resumen": "Kalista y Jelbreg regresan inquietos por Puerto de las Espadas y deciden ocultar su vuelta para descansar.",
+  "relato": "Una luz blanca ilumina la habitación al regresar Kalista y Jelbreg. Hablan de una mujer y un gnomo no identificados en esta unidad, de un rayo y de una amenaza que atribuyen al gobernador de Puerto de las Espadas. La Shogun teme que Kuroto no pueda responder si actúa contra ellos y se siente agotada por los problemas. Jelbreg la abraza y sostiene que podrán resolverlos para cumplir su sueño. Kalista expresa el deseo de marcharse y ser libre. Pide no anunciar que han vuelto, de modo que no la reclamen durante unos días. Como el barco aún tardaría una semana en llegar, él propone escapar a un lugar conocido por ambos. Ella acepta con entusiasmo. Se besan y desaparecen juntos dentro de otra luz blanca. El destino exacto, lo ocurrido fuera de Kuroto y la respuesta al gobernador no se desarrollan aquí.",
+  "participantes": [
+    "Kalista",
+    "Jelbreg"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1410944566785474611",
+      "afirmacion": "Jelbreg expresa preocupación por el gobernador de Puerto de las Espadas.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1410949818959925278",
+      "afirmacion": "Kalista dice estar cansada y querer libertad.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1410951961951342634",
+      "afirmacion": "Pide ocultar que han vuelto para evitar nuevas llamadas.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1410953023332548618",
+      "afirmacion": "Ambos desaparecen entre luz blanca tras aceptar una escapada.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No identificar a la mujer o al gnomo por la descripción vaga ni inferir una muerte del comentario sobre rayo y amenazas.",
+    "La futura llegada del barco es una referencia de los personajes; no fija por sí sola una duración completa del viaje anterior."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-08-29T11:06:11.844000+00:00",
+  "fin_utc": "2025-08-29T11:44:16.669000+00:00",
+  "fecha_local": "2025-08-29",
+  "intervalo": {
+    "anterior": 152,
+    "siguiente": 153,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1410686619970699395",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1412135728854339686",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 152,
+        "fecha": "2025-08-28",
+        "inicio_referencia_utc": "2025-08-28T18:04:44+00:00",
+        "fin_estimado_utc": "2025-08-28T21:13:03+00:00",
+        "duracion_video_segundos": 11299,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1410686619970699395"
+      },
+      {
+        "capitulo": 153,
+        "fecha": "2025-09-01",
+        "inicio_referencia_utc": "2025-09-01T18:02:52+00:00",
+        "fin_estimado_utc": "2025-09-01T21:02:25+00:00",
+        "duracion_video_segundos": 10773,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1412135728854339686"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1410943614846107709",
+      "fecha_utc": "2025-08-29T11:06:11.844000+00:00",
+      "fecha_local": "2025-08-29",
+      "editado_utc": null,
+      "texto": "**Una luz blanca ilumina la habitacion de la shogun**\n\nKalista: joder...¿Que hacia esa loca alli? ¿Y que relacion tiene con el gnomo ese?",
+      "mensaje_sha256": "2de8269cb6e0ec7a6071f3d6d06b9111f1347e25f16d180f6fb3a18dcd73860b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1410943614846107709",
+      "texto_sha256": "5ae090e81105e92cde8bc4bdca82cd8fda38a85700cffcae733fb93f570b1366",
+      "adjuntos": []
+    },
+    {
+      "id": "1410943638405648465",
+      "fecha_utc": "2025-08-29T11:06:17.461000+00:00",
+      "fecha_local": "2025-08-29",
+      "editado_utc": null,
+      "texto": "<@214405113677217793>",
+      "mensaje_sha256": "89ab9b5ec9cc597b9120f1110a029b813791302a4d6557a0cb22a3ce6fd7af04",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1410943638405648465",
+      "texto_sha256": "ac93d358c181353378177a6cb49577e35ef8406127fe712a70490ca6135fb57d",
+      "adjuntos": []
+    },
+    {
+      "id": "1410943976999092224",
+      "fecha_utc": "2025-08-29T11:07:38.188000+00:00",
+      "fecha_local": "2025-08-29",
+      "editado_utc": null,
+      "texto": "Jelbreg: No lo se pero no me gusta nada... **Te mira** Te dije que mejor dejarlo muerto...",
+      "mensaje_sha256": "f7391d7364e18fd475d9c2841e54ce474195c0b4900bb3c4f7467aa39418fc6f",
+      "tipo_discord": 19,
+      "referencia": "1410943614846107709",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1410943976999092224",
+      "texto_sha256": "a7e4b4c1434040ab9f284c6063509c0be92c61f1e74fbf94a2c0e792a9038b86",
+      "adjuntos": []
+    },
+    {
+      "id": "1410944151159177347",
+      "fecha_utc": "2025-08-29T11:08:19.711000+00:00",
+      "fecha_local": "2025-08-29",
+      "editado_utc": null,
+      "texto": "Kalista: yo ni lo toque... Bueno si no lo mato el rayo lo hara esa loca",
+      "mensaje_sha256": "c81ce14679e82b20c507371751da2b88394c980010f99312e9ea6fafaad3e167",
+      "tipo_discord": 19,
+      "referencia": "1410943976999092224",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1410944151159177347",
+      "texto_sha256": "014e1677a4e1739526efb29af11a7a25c6e9b6761b7f85beff99ba4570a6da6e",
+      "adjuntos": []
+    },
+    {
+      "id": "1410944566785474611",
+      "fecha_utc": "2025-08-29T11:09:58.804000+00:00",
+      "fecha_local": "2025-08-29",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Suelta un gruñido para luego mirarte con una cara algo preocupada** Parece que ese gobernador de Puerto de las Espadas nos la tiene bien jurada...",
+      "mensaje_sha256": "3d78b9c66a816c96b44107f474031f6525ff658dbd0674b8d8446686294a6af4",
+      "tipo_discord": 19,
+      "referencia": "1410944151159177347",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1410944566785474611",
+      "texto_sha256": "6310cbd1e7fd75aff2dbb28fff83fee7564c8bbb3ea6415f6d9acf07acf6f72e",
+      "adjuntos": []
+    },
+    {
+      "id": "1410946343442055219",
+      "fecha_utc": "2025-08-29T11:17:02.392000+00:00",
+      "fecha_local": "2025-08-29",
+      "editado_utc": null,
+      "texto": "Kalista: ...si y preocupa... Kuroto no tiene forma de responderle si intenta algo...**Suspira y se sienta en la cama** ¿Por que no para de surgir problemas?",
+      "mensaje_sha256": "26a89a5d9fc7b556c793eb2e30cadcb076346cfab54d06cfb91614c6edfd3d36",
+      "tipo_discord": 19,
+      "referencia": "1410944566785474611",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1410946343442055219",
+      "texto_sha256": "c0dc11be00662a99739beb03eae4c2559a1fc12001488a527285dd43d026ddf6",
+      "adjuntos": []
+    },
+    {
+      "id": "1410947160920559729",
+      "fecha_utc": "2025-08-29T11:20:17.294000+00:00",
+      "fecha_local": "2025-08-29",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Se sienta contigo en la cama y te da un pequeño beso en el hombro** Eres la líder de un reino. Es lo que suelen hacer, enfrentarse a problemas... **Te mira con esa sonrisa que solo te hace a ti** Pero los resolveremos, como hacemos siempre. Para poder cumplir nuestro sueño",
+      "mensaje_sha256": "3b8f8316b96790a96a64f7436e0bae709f28093fc4b9176f29f9869cd432c132",
+      "tipo_discord": 19,
+      "referencia": "1410946343442055219",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1410947160920559729",
+      "texto_sha256": "cd33584757dfbfaa4e2569f4be2fbda41765978157f597d6912a4c6c9964cf11",
+      "adjuntos": []
+    },
+    {
+      "id": "1410948354808086528",
+      "fecha_utc": "2025-08-29T11:25:01.939000+00:00",
+      "fecha_local": "2025-08-29",
+      "editado_utc": null,
+      "texto": "Kalista: **Apoya su cabeza  en tu hombro** Quiero irme cuanto antes...",
+      "mensaje_sha256": "06735295b22d60f9b3b0e2c713ab77b9e44340ef7e7caf500f48ff4d2a95d293",
+      "tipo_discord": 19,
+      "referencia": "1410947160920559729",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1410948354808086528",
+      "texto_sha256": "73bc0d00899e2035697bba6c39ffbc2612a2579dce7c40d756412762362fffa6",
+      "adjuntos": []
+    },
+    {
+      "id": "1410948878131396619",
+      "fecha_utc": "2025-08-29T11:27:06.709000+00:00",
+      "fecha_local": "2025-08-29",
+      "editado_utc": null,
+      "texto": "Jelbreg: Nos iremos, solo haya que resolver algunos problemas **Te acaricia la mejilla y apoya su cabeza en la tuya** Pronto",
+      "mensaje_sha256": "3e83cad15fed137e641265173a987778e742788c489118af0f53e06857c9bd64",
+      "tipo_discord": 19,
+      "referencia": "1410948354808086528",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1410948878131396619",
+      "texto_sha256": "c5481722ebba23ee1b689b78ac2682bba686dc7e03764ef40c259e746334c12b",
+      "adjuntos": []
+    },
+    {
+      "id": "1410949818959925278",
+      "fecha_utc": "2025-08-29T11:30:51.020000+00:00",
+      "fecha_local": "2025-08-29",
+      "editado_utc": null,
+      "texto": "Kalista: **Cierra sus ojos dejandose reconfortar** Me siento cansada...quiero ser libre",
+      "mensaje_sha256": "50cb8eb64bd301e0a0682f0e7dfda9dbf3725ace8b5146e6644e77aa83365f7f",
+      "tipo_discord": 19,
+      "referencia": "1410948878131396619",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1410949818959925278",
+      "texto_sha256": "6692d921ad76129279a19567dc7e8f5995e941c40d42a63855d3a6e26701796a",
+      "adjuntos": []
+    },
+    {
+      "id": "1410950757494296667",
+      "fecha_utc": "2025-08-29T11:34:34.784000+00:00",
+      "fecha_local": "2025-08-29",
+      "editado_utc": null,
+      "texto": "Jelbreg: Lo serás... **El drow acaricia a la tritón mientras mira por la ventana de la habitación, hacia el mar. Lo observa fijamente, con rabia, con odio** Te lo prometo",
+      "mensaje_sha256": "dd77e95e1bd9cb6352652257dcd3bcd9e89ae8c45ad58de7a53400924ee13e1e",
+      "tipo_discord": 19,
+      "referencia": "1410949818959925278",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1410950757494296667",
+      "texto_sha256": "eb94ac2f3d43b06812e9323b79782aeda0641e52483f46124eed63504ed68ba7",
+      "adjuntos": []
+    },
+    {
+      "id": "1410951961951342634",
+      "fecha_utc": "2025-08-29T11:39:21.949000+00:00",
+      "fecha_local": "2025-08-29",
+      "editado_utc": null,
+      "texto": "Kalista: **Suelta un suspiro, acurrucandose en el hueco de tu cuello. Tu calor, tu presencia y tus caricias la reconfortan y relajan, sientes como se abraza a ti** No digamos a nadie que hemos vuelto...asi no me llamaran durante unos dias",
+      "mensaje_sha256": "9363f14cac715f889e294c116c37549d00d404e91edd470b4707d438f2aa5ff8",
+      "tipo_discord": 19,
+      "referencia": "1410950757494296667",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1410951961951342634",
+      "texto_sha256": "4c8e0cf29298a769c5ee1de0b1cc47c1cabd7dc49c0a8f3ce9bcbdc355d90d4a",
+      "adjuntos": []
+    },
+    {
+      "id": "1410952313454985357",
+      "fecha_utc": "2025-08-29T11:40:45.754000+00:00",
+      "fecha_local": "2025-08-29",
+      "editado_utc": null,
+      "texto": "Jelbreg: Bueno, el barco aún tardará una semana en volver... Podemos hacer una escapada. Ya sabes a donde. **Acepta tu abrazo y te llena de besos** ¿Te apetece?",
+      "mensaje_sha256": "169c4e1e77a3fed13ed0c2f4b2870c7f268d6b19b41d6ca9590637bc58a11b5b",
+      "tipo_discord": 19,
+      "referencia": "1410951961951342634",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1410952313454985357",
+      "texto_sha256": "e51da91ead975303019d3c289608b7e0dd27875146fd410b72391170dcf18640",
+      "adjuntos": []
+    },
+    {
+      "id": "1410952625989615750",
+      "fecha_utc": "2025-08-29T11:42:00.268000+00:00",
+      "fecha_local": "2025-08-29",
+      "editado_utc": null,
+      "texto": "Kalista: **Eleva su cabeza para mirarte y sonreirte** Me apetece mas que nada en el mundo.",
+      "mensaje_sha256": "67aeea8d6f293c95028593dd2120cf7fc55bbdc8dcf84ef8c9cc927f3ed3f81b",
+      "tipo_discord": 19,
+      "referencia": "1410952313454985357",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1410952625989615750",
+      "texto_sha256": "d49606edd30d902166e0aab6d0ec2e71b07ec96370acdf6611cf4620ecc14e5f",
+      "adjuntos": []
+    },
+    {
+      "id": "1410953023332548618",
+      "fecha_utc": "2025-08-29T11:43:35.002000+00:00",
+      "fecha_local": "2025-08-29",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Te devuelve la sonrisa. Se acerca a ti para darte un largo y cálido beso en los labios. Mientras eso ocurre, una luz blanca os envuelve a ambos y desapareces de allí**",
+      "mensaje_sha256": "abdc151f0ddc3a51fb83cca232f1254e0da317b51931cf31149b9a1dea8daaab",
+      "tipo_discord": 19,
+      "referencia": "1410952625989615750",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1410953023332548618",
+      "texto_sha256": "c93d28fd7354226eb5b14aea93a09fc4a4c3628aaad5a073d83d5329ffc72426",
+      "adjuntos": []
+    },
+    {
+      "id": "1410953198096617512",
+      "fecha_utc": "2025-08-29T11:44:16.669000+00:00",
+      "fecha_local": "2025-08-29",
+      "editado_utc": null,
+      "texto": "🔴 **Fin de escena**🔴",
+      "mensaje_sha256": "1a2e3a2b439736d5eb856f3ddbdb24bb76c9e748cc9e3f48c37f4f9f3ed7e38c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1410953198096617512",
+      "texto_sha256": "0e513b9a495850850524d0965f55df051cd0b6a138120693016da3f3ffd42ccd",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,2783 @@
+{
+  "id": "x-1525998683902967951",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1525998683902967951",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "Naór aprende a nadar entre los caminos de Tortas",
+  "resumen": "Un entrenamiento somnámbulo asombra a Eldrath. Tras desayunar y discutir el viaje a Perlasal, Tortas y Coyote ayudan de forma accidentada a que Naór nade.",
+  "relato": "Eldrath intenta preguntar a Tortas por su origen, pero el maestro está entrenando dormido. Una figura astral reproduce su golpe y una onda de aire abre el agua del lago; después vuelve a reposar sin responder. El estruendo despierta a Naór en el escondite de Coyote, donde él la había dejado tras el baño y le ha quitado la ropa para secarla. Ella exige sus prendas y acaba persiguiéndolo por hambre hasta chocar con Tortas, que interrumpe la carrera.\n\nEl grupo decide desayunar. Eldrath aprovecha para pintar una burla en el caparazón del maestro y oculta las manos manchadas. Naór cuenta el encargo del rey leonin de reunir a los líderes para un encuentro en Tutucan. Necesita ir a Perlasal, pero sigue temiendo el agua y espera a un emisario que se retrasa. Coyote dice conocer la ruta; Tortas admite no conocer el lugar y solo recuerda un sueño de una ciudad submarina. Sus intervenciones de voz completan también la conversación humorística sobre caminos, edades y compañía.\n\nNaór pide ayuda para dejar de refugiarse en una palmera cuando toca el agua. En la orilla, Tortas convierte la expresión en una solución literal: derriba las palmeras y ella lo ayuda. Aun así apenas avanza. La leona pide a Coyote que la enfade; el maestro la sostiene con manos astrales y la deja caer donde el agua la cubre.\n\nLas provocaciones del cambiante despiertan su furia y Naór empieza a nadar para perseguirlo. Coyote adopta forma de sirena y huye; la narración afirma que ella aprende a nadar y combatir bajo el agua. Tortas se retira satisfecho. Eldrath sigue a ambos de lejos, todavía sin las explicaciones que quería obtener del anciano.",
+  "participantes": [
+    "Tortas",
+    "Eldrath",
+    "Naór",
+    "Coyote"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1526003593478406397",
+      "afirmacion": "El golpe astral de Tortas produce una onda que divide el agua del lago.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1526005383724793949",
+      "afirmacion": "La narración revela que Tortas estaba sonámbulo y vuelve a dormir.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1526016840533545102",
+      "afirmacion": "Naór relata el encargo de su rey de convocar a los líderes para la reunión en Tutucan.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1526021030362222642",
+      "afirmacion": "En su nota de voz, Tortas distingue un sueño de ciudad submarina de su desconocimiento de Perlasal.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1526032290541469871",
+      "afirmacion": "Tortas derriba las palmeras como parte de su lección.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1526034367472730275",
+      "afirmacion": "La nota de voz describe que Tortas sostiene a Naór con sus manos astrales y la acerca al agua.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1526037205343010956",
+      "afirmacion": "Naór empieza a nadar movida por su furia contra Coyote.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1526038922042409152",
+      "afirmacion": "La narración presenta la persecución como aprendizaje de natación y combate acuático.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Dos partes de texto y suplemento completo de 17 notas de voz leídos. Las transcripciones son automáticas locales; no se han creado alias a partir de errores como Rolga o nahor.",
+    "La primera exhibición de Tortas produce efectos materiales pese a su estado sonámbulo; no confundirla con el sueño de ciudad submarina que cuenta después.",
+    "No interpretar el despertar de Naór sin ropa como relación sexual con Coyote: la fuente solo describe que él la desvistió para secar las prendas y su reacción al despertar.",
+    "Las alusiones provocadoras sobre Leo se resumen como amenazas para enfadar a Naór; no se narra ningún daño de ese tipo al niño.",
+    "El aprendizaje acuático está narrado, pero no garantiza superar todo miedo futuro, respirar bajo el agua ni haber llegado a Perlasal.",
+    "La transcripción del audio 1526019065129341129 es incierta y no fundamenta hechos nuevos; se conserva con su original.",
+    "Eldrath pinta el caparazón, pero no se muestra que Tortas descubra la broma."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-07-12T22:53:57.927000+00:00",
+  "fin_utc": "2026-07-13T01:39:55.025000+00:00",
+  "fecha_local": "2026-07-13",
+  "intervalo": {
+    "anterior": 43,
+    "siguiente": 44,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1525209204300841101",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527010759236653109",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 43,
+        "fecha": "2026-07-10",
+        "inicio_referencia_utc": "2026-07-10T18:35:33+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1525209204300841101"
+      },
+      {
+        "capitulo": 44,
+        "fecha": "2026-07-15",
+        "inicio_referencia_utc": "2026-07-15T17:55:09+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527010759236653109"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1525998683902967951",
+      "fecha_utc": "2026-07-12T22:53:57.927000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "**Las piedras del suelo empiezan a temblar en la aldea de Iktan**\n\n**Algunas partes más blandas empiezan a resquebrajarse**\n\n**El origen es la roca de la aldea**\n\n**Tortas se levanta en bipedestación muy despacio y mira hacia el horizonte**\n\n**Coge aire un segundo respirando profundo**\n\n**Parece que el tiempo se detiene por la concentración de Tortas**",
+      "mensaje_sha256": "a95be12157e4e972ea0319cc909208c31fe64c85b06d3bac36fcea600771ca94",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1525998683902967951",
+      "texto_sha256": "8f98ab4f389df169e19e5f1d220df293fb113259d8de64b1a28fa46c8e6c5462",
+      "adjuntos": []
+    },
+    {
+      "id": "1525999733330415747",
+      "fecha_utc": "2026-07-12T22:58:08.130000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: **Nota las piedras temblar y sus orejas se agitan. Su mirada recorre la escena hasta verte** *¿Se cree tanto piedra q las mueve con la mente o que? **Niega con la cabeza** Señor... Tortuga...¿Tiene un momento?",
+      "mensaje_sha256": "e06205b490c09d925222a9ad5d61d669c8354ea6626df669a4e4e34374ed7a7a",
+      "tipo_discord": 19,
+      "referencia": "1525998683902967951",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1525999733330415747",
+      "texto_sha256": "3e3dc769cc47742aeb5978dd9f2cf5f5ca0b88327668a478a589186c021f87fc",
+      "adjuntos": []
+    },
+    {
+      "id": "1526000133328601231",
+      "fecha_utc": "2026-07-12T22:59:43.497000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "**La silueta de Tortas se empieza a iluminar, la luz se expande por detrás de tortas y sale un ente que triplica el tamaño de Tortas**\n\n**Tortas está con los ojos cerrados, cierra su puño con fuerza y adelanta su mano izquierda mientras su brazo derecho se flexiona y retrocede**\n\n**El monstruo Astral simula el movimiento, está cargando un puñetazo estilo Kárate**\n\n**Tanto el puño de Tortas como el del Maestro Tortas Supremo Astral se iluminan**\n\n**El suelo de Iktan tiembla mucho más**",
+      "mensaje_sha256": "a578f542c7c4052f8e43a936a78e2cc6caa13b6e5f1e29ffaec351a06d689de1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526000133328601231",
+      "texto_sha256": "5f9b317d9ea51e1942c6cfd1c4130b1b36b96e42f9f2caf5e223ec23ee04cebc",
+      "adjuntos": []
+    },
+    {
+      "id": "1526000655913844836",
+      "fecha_utc": "2026-07-12T23:01:48.091000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-12T23:02:19.318000+00:00",
+      "texto": "Eldrath: **Por instinto y acto reflejo se hecha de forma agil dando espacio al viejo con los ojos abiertos. Abre sus piernas para no perder el equilibrio** *Joder... no me acostumbro a eso...* Emmmm ¿Señor? Querria... preguntarle algo...",
+      "mensaje_sha256": "4ac91045cacef7f71aa2a790496685b1fdb6d786da878227b9ae12e27519ebb0",
+      "tipo_discord": 19,
+      "referencia": "1526000133328601231",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526000655913844836",
+      "texto_sha256": "df2bed89187e668646e68eeb49b8750aa24fd8fd8a732db98b8d9afc076af13b",
+      "adjuntos": []
+    },
+    {
+      "id": "1526001162325725324",
+      "fecha_utc": "2026-07-12T23:03:48.829000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "**El temblor se acentúa hasta que en un momento en seco, todo cesa, la luz del puño se apaga, no hay ruido, no hay movimiento pero tortas se queda en esa posición inmóvil y el ente también**",
+      "mensaje_sha256": "dd6d8e98895fec929f5582a9b2bf247b3125cca2b779e47d6e333d628a8fbdc9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526001162325725324",
+      "texto_sha256": "5acb4ebc42ade001ca017c9b8d500270987f7c268ec5193cd7465ad90046cfb3",
+      "adjuntos": []
+    },
+    {
+      "id": "1526001587418435695",
+      "fecha_utc": "2026-07-12T23:05:30.179000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-12T23:05:40.562000+00:00",
+      "texto": "Eldrath: **Cuando se acentua cae de culo ante tal seismo... Hasta que frena y gruñe** Joder... ¿de donde mierda sacas... esa maldita cosa? No es nada magico ni nada que conozca... Joder solo queria preguntarle de donde viene **Dice mosqueado**",
+      "mensaje_sha256": "600815cc1ef4723e9a186dc790fff3ba1cccf1e2cbbbfe9160fafa8a9e18a657",
+      "tipo_discord": 19,
+      "referencia": "1526001162325725324",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526001587418435695",
+      "texto_sha256": "bc139fca99d60aed7172ef66b8e5ce46baf7e2bf630ab5cefa6a9adab1781eee",
+      "adjuntos": []
+    },
+    {
+      "id": "1526003593478406397",
+      "fecha_utc": "2026-07-12T23:13:28.461000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "**Tortas abre sus ojos de golpe, los tiene blancos completamente iluminados, sus músculos jóvenes se tensan tan fuerte que se puede hasta escuchar el sonido**\n\n**En un instante todo vuelve a iluminarse, el viento se acentúa alrededor de Tortas, y en cuestion de una fracción de segundo lanza su puño hacia delante, mientras su palma izquierda se cierra e invierte la posición entre sus brazos, todo esto la forma Astral también lo replica\n\nCuando el brazo del golpe se estira del todo sale una onda de choque.\n\nHa roto la barrera del sonido.\n\nUna carga de aire super potente se dirige hacia el lago a velocidad descomunal.\n\nTanto, que el agua se divide con su paso.\n\n**",
+      "mensaje_sha256": "98ddcc35efe5d178a1a5d0f18df941fd951157bfdfb37133c552808570e22f61",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526003593478406397",
+      "texto_sha256": "e838e2271ae9f9f8731e4a7a5ac8c5d2561297c7e89d0aa03ee645c332c9d995",
+      "adjuntos": []
+    },
+    {
+      "id": "1526004461837750313",
+      "fecha_utc": "2026-07-12T23:16:55.494000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: **Se tapa los oidos y junta los ojos. Su capucha de siempre se quita y se hecha hacia atras... Despues de eso escucha un piiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii....** JODER... VAYA BESTIA **grita porque es incapaz de escucharse** ¿DE DONDE HAS SACADO ESO? ¿VIENE DE ALGO COMO UN OBJETO? ¿ES ALGO QUE HAGAN LAS TORTUGAS? ¿O ES QUE UN DIOS TE HA DADO ALGO ASI? **la verdad es que al joven le ha picado la curiosidad**",
+      "mensaje_sha256": "a04b2c55b3b215ce0ef274e5b6db97264912b52ae33d5bddee8320fa329867d9",
+      "tipo_discord": 19,
+      "referencia": "1526003593478406397",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526004461837750313",
+      "texto_sha256": "787416803b3bc801774d6c70c6ae2376f108d7e549228ed887dbbaa68487e0d3",
+      "adjuntos": []
+    },
+    {
+      "id": "1526005383724793949",
+      "fecha_utc": "2026-07-12T23:20:35.289000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "**Tortas vuelve a cerrar los ojos, la figura astral desaparece, y resopla con calma el aire que había cogido antes de lanzar el puño**\n\n**Tortas estaba en el camino del sonámbulo**\n\n**Asi que se vuelve a posar en cuadrupedia en su roca y continúa durmiendo como si nada hubiera pasado**",
+      "mensaje_sha256": "897a403ea82fa6c8a8033eb67a47ecfd24f1b3a7d03235aaafe24bc427a57e80",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526005383724793949",
+      "texto_sha256": "94ca680a9bcee337c6289922972021a4e2445780e10a214f9de2eda28c37e21a",
+      "adjuntos": []
+    },
+    {
+      "id": "1526005630182097059",
+      "fecha_utc": "2026-07-12T23:21:34.049000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Naór : \n**mueve la orejita con ese estruendo y poco a poco se va despertanto .\n\nEs un rostro afable , ha dormido muy agusto parace un gatito tierno . Abre un ojo y dice ** \n\nCAAAAAAAAAAAAARNEEEEEEE!!!!!!!!!!!!!!!! \nME MUERO DE HAMBRE JODEEEEEEEEEEER  !!!!!!!",
+      "mensaje_sha256": "3198c7ce0816afb5491e2a0034b2b684fdd7e12a630695bc5fabf21aca05e916",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526005630182097059",
+      "texto_sha256": "8505dc54a38a68248c3339e060e240ead3357091688fd48bfaaffa6f74e58855",
+      "adjuntos": []
+    },
+    {
+      "id": "1526006256559456289",
+      "fecha_utc": "2026-07-12T23:24:03.389000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-12T23:25:45.166000+00:00",
+      "texto": "Eldrath: **Frunce el ceño y se levanta gruñiendo** Y esto me pasa por querer hablar... **Escucha a ese grito** Oh no... **Mira lentamente hacia donde ha venido el grito con los ojos abiertos...**",
+      "mensaje_sha256": "dc1d4e57e3319c6e59f99d28759d9869c7fff86cbf011ba1d48d833d75f12a91",
+      "tipo_discord": 19,
+      "referencia": "1526005630182097059",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526006256559456289",
+      "texto_sha256": "73235d7c3e1ecfcef5531d8d4377106af4f8eb7c9d364cb437485ef9d869870c",
+      "adjuntos": []
+    },
+    {
+      "id": "1526006412298420276",
+      "fecha_utc": "2026-07-12T23:24:40.520000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Coyote:\n**Volteo de golpe a ver a Naór, la había puesto en un especie de nido cómodo**\n\nAH SU PUTA MADRE!!, QUÉ CHINGADOS TE PASA?!\n\n**Me agarraba el pecho asustado por el grito**\n\nMenos mal ya te despertaste, gata loca\n\n**Naór podía ver qué estaba escurriendo tu ropa como la mía**",
+      "mensaje_sha256": "e5417ff30e5a198f8fb772ce823a4ff1ba123c6698cfaecf69de64541707d239",
+      "tipo_discord": 19,
+      "referencia": "1526005630182097059",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526006412298420276",
+      "texto_sha256": "57d6bf696279a79b61037f7e162a7c4a46aa329a2236ee163f982194e58b5646",
+      "adjuntos": []
+    },
+    {
+      "id": "1526006615382298675",
+      "fecha_utc": "2026-07-12T23:25:28.939000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Naór : \nTuuuuu.... 😒",
+      "mensaje_sha256": "cefd745a8dec6966a40ac4d26980d1d8484482c70602b8c2023090176239d3c0",
+      "tipo_discord": 19,
+      "referencia": "1526006412298420276",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526006615382298675",
+      "texto_sha256": "8116c7a7fd76e7d0b47d0d0a95bce897369dbca602bdefb550e90b9fa6b939b7",
+      "adjuntos": []
+    },
+    {
+      "id": "1526006991011451011",
+      "fecha_utc": "2026-07-12T23:26:58.496000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Coyote:\nEstás a salvo, te traje aquí para que descansaras y se secara tu ropa\n\n**Puse los ojos en blanco mientras trataba de no mirar a Naór desnuda, le había quitado toda la ropa para que no se resfriara**",
+      "mensaje_sha256": "1c0669d8dcbb28dfa0828cfa84d20296de9c6225414e376b5a9b23a9eb9f560d",
+      "tipo_discord": 19,
+      "referencia": "1526006615382298675",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526006991011451011",
+      "texto_sha256": "f6c1f7a320bdfa49ec7836da188970dc4b27ceedaed74627c38b974c30086ba7",
+      "adjuntos": []
+    },
+    {
+      "id": "1526007771395395747",
+      "fecha_utc": "2026-07-12T23:30:04.554000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-12T23:30:15.819000+00:00",
+      "texto": "Naór : a salvo de que ? Yo me valgo por mi misma sabes ! \n\n**mira alrededor y be que es verdad ** \n\n*quizá me estoy pasando , padre me diria que fuese mas respetuosa con hueleculos...* \n\nYa bueno ... gracias supongo . \n\nMi ropa \n**extiene la mano **",
+      "mensaje_sha256": "1ffd2dbd8f7d4dc70efaa0bc32c811f6d0a9ad424852745622cee6478768f2ab",
+      "tipo_discord": 19,
+      "referencia": "1526006991011451011",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526007771395395747",
+      "texto_sha256": "77bce438b9d51db76fae28f447184474b16c612ed12f4a74a06c452ada026636",
+      "adjuntos": []
+    },
+    {
+      "id": "1526008129593282672",
+      "fecha_utc": "2026-07-12T23:31:29.955000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Coyote:\n**Le aviento la ropa, no tenía intenciones de voltear**\n\nSi le tienes miedo al agua, puedo ayudarte con eso, también conozco a la gente de Perlasal, estuve ahí no hace mucho",
+      "mensaje_sha256": "6e9aa77d4de929ecc889bb9c8bfcdf222693461f1b7b8db0b1f457efc9f5da43",
+      "tipo_discord": 19,
+      "referencia": "1526007771395395747",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526008129593282672",
+      "texto_sha256": "32d78f3b8fef6baffeca663c4d5b7c303fa06e545d2f608d64117c05a154f4fb",
+      "adjuntos": []
+    },
+    {
+      "id": "1526008697581735976",
+      "fecha_utc": "2026-07-12T23:33:45.374000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-12T23:34:00.955000+00:00",
+      "texto": "Naór : ya te dije que se me encrespa el pelo . \nMira ves . \n**me pongo delante de el y le enseño que se me riza el pelo y me empiezo a vestir ** \nPodrias ayudarme con lo de perlasal . Tenta es de alli y el anciano Tortas seguro que tiene conoci... \n\n** se te queda mirando . No termina la frase **",
+      "mensaje_sha256": "7df01869fa76a8eab2d5a53831f4ab78b75450b1e022eca479d2a36f370c6d0f",
+      "tipo_discord": 19,
+      "referencia": "1526008129593282672",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526008697581735976",
+      "texto_sha256": "306b23ea49a111ed306a3f7248b82459b2d8729b995baf77aed96ddb9d684af3",
+      "adjuntos": []
+    },
+    {
+      "id": "1526008875680006276",
+      "fecha_utc": "2026-07-12T23:34:27.836000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: **Frunce el ceño y mira a la tortuga... Entonces se le ocurre una idea y sonrie de forma malvada... Mete su mano en su bolsa y saca unas pinturas... Aprobecha el momento de que el anciano volvio a dormir y con cuidado... Le empieza a escribir en el caparazon** *¿Cómo llamas a una tortuga que es rápida? Fraudu-lenta* <@297459767117611008> **No... no se le dan bien los chistes... Pero es mucho peor dibujando asique agradecelo**",
+      "mensaje_sha256": "f5af65e3f56c7a7e008c1f484ca08c2c1bcd974b2f84367eea33dcc28af6d61a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526008875680006276",
+      "texto_sha256": "e6c118bea0d21acf6b74073e6b66fdec294d30067c1730be148ae0cc03bf1fb9",
+      "adjuntos": []
+    },
+    {
+      "id": "1526009070669135902",
+      "fecha_utc": "2026-07-12T23:35:14.325000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Coyote:\nMe deberás una si te ayudo, pero ya después fijaremos el precio \n\n**Voltee a verla ya que al fin se había vestido**\n\nQué pasa?, te comió la lengua el ratón o por qué tan callada?~",
+      "mensaje_sha256": "23dd39c0a6e6ca65914a20650ef06105cb591e17d6fc50553aae8fefa55b9063",
+      "tipo_discord": 19,
+      "referencia": "1526008697581735976",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526009070669135902",
+      "texto_sha256": "846255d50077fb9f5fc88827df9af1491d4a9c1844025f74f547052bd7be48f1",
+      "adjuntos": []
+    },
+    {
+      "id": "1526009595754057843",
+      "fecha_utc": "2026-07-12T23:37:19.515000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-12T23:38:16.445000+00:00",
+      "texto": "Naór : **ves que sus ojos han cambiado , poco a poco se va afilando lapupila ** \n\nCa.. \nCa..\nCarneee... \n\n**Naór lo que ve delante suya es un gran filete enorme . \n\nSaca las garras y se relame el hocico babeando**",
+      "mensaje_sha256": "1730e01cc43c2ec0ccac441cdb8b8f8d29007b3194c61ace7b53e042e406e082",
+      "tipo_discord": 19,
+      "referencia": "1526009070669135902",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526009595754057843",
+      "texto_sha256": "12006e879c4259d1a637c6cac6702e8c63743a9322e34ac6c4faf94fdc44080e",
+      "adjuntos": []
+    },
+    {
+      "id": "1526009930363043951",
+      "fecha_utc": "2026-07-12T23:38:39.292000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Coyote:\nAh no, ni madres, te voy a aventar al agua, gata to.. tonta...\n\n**Poco a poco empezaba a acercarme a la salida de mi escondite, moviendome con lentitud**\n\nNi se te ocurra, te mojo, eh?!",
+      "mensaje_sha256": "74791b4b45afdb85a5971846272fb5e933986a2f3d93110429d27a005f70c7f9",
+      "tipo_discord": 19,
+      "referencia": "1526009595754057843",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526009930363043951",
+      "texto_sha256": "8a0e29285ae3964bef68182a978fafa0cb643c0003c3263aeb315f618f6e8c59",
+      "adjuntos": []
+    },
+    {
+      "id": "1526010080900681840",
+      "fecha_utc": "2026-07-12T23:39:15.183000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Naór: **se pone a cuatro patas y empieza a correr hacia ti**",
+      "mensaje_sha256": "2d1956c183c392db28b448e60859951b6150bf7565bf479786fd527b2dd29eee",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526010080900681840",
+      "texto_sha256": "c02075377566e65e2dfab65cc0ed1c7566b328aed35ece187832a63944269235",
+      "adjuntos": []
+    },
+    {
+      "id": "1526010273704575140",
+      "fecha_utc": "2026-07-12T23:40:01.151000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "**Las enredaderas de la entrada se separan**",
+      "mensaje_sha256": "d0b6b2277c10236b427b2a8e69ab9d8c0e27035f34863c2c417b096f6edb1118",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526010273704575140",
+      "texto_sha256": "580e6185a08dd7f71059095fdcb0ddb2c2045043ebaf4388f70800bd491b3283",
+      "adjuntos": []
+    },
+    {
+      "id": "1526010369313738975",
+      "fecha_utc": "2026-07-12T23:40:23.946000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "**Naor te chocas con el caparazón de Tortas**",
+      "mensaje_sha256": "40a8d4685c549187401d3e9509325ec43394d7f82a72dfb0ad716d59d5e0035d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526010369313738975",
+      "texto_sha256": "94a731c4e7ac6f01581d87a07f36fe20745420ae313224f1abee629973275d1c",
+      "adjuntos": []
+    },
+    {
+      "id": "1526010495021355018",
+      "fecha_utc": "2026-07-12T23:40:53.917000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Coyote:\nAAAAAAAAAAAAAHHHHHH \n\n**Iba a salir corriendo hasta que pasé por debajo de las patas de esa tortuga**\n\nME QUIERE COMER!!, AYUDA!!",
+      "mensaje_sha256": "303156cb60c4a851969bc9ef2067da00e678eaf235fce7815d6189ec24ad8ef6",
+      "tipo_discord": 19,
+      "referencia": "1526010273704575140",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526010495021355018",
+      "texto_sha256": "4a5d58743bed2953e5d4aa3925c7c7a6d12d4a209ef90a3ec9469d33de2a45df",
+      "adjuntos": []
+    },
+    {
+      "id": "1526010525052440736",
+      "fecha_utc": "2026-07-12T23:41:01.077000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Tortas: Bigotitos! Estas bien? Te he escuchado gritar",
+      "mensaje_sha256": "7c1b5512aa57ed7e8507007b37d7729d82cbdb70fd0e214e0ea27f7041a04b85",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526010525052440736",
+      "texto_sha256": "ef49139378f816287c83e772e93be3a11cc1ac13e2d4ef75163cd806e6aa9949",
+      "adjuntos": []
+    },
+    {
+      "id": "1526010765117751439",
+      "fecha_utc": "2026-07-12T23:41:58.313000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-12T23:43:20.442000+00:00",
+      "texto": "Eldrath: **Da un brinquito y se guarda las pinturas... Entonces ve a Coyote y arruga el gesto** <@408026114548695061> Tio... si vas a salir a correr ponte pantalones joder... te veo la campanita repicar... que asco **Se tapa con una mano**",
+      "mensaje_sha256": "88caf620ca560f2b5852b3a4f47140a9c8cea3c51bebd901e68416ec0ebcb876",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526010765117751439",
+      "texto_sha256": "e2ddb136bd759e30d3de9ce3d5bf8d4f0c5114cf0614cb8d4a9611d6d4b1e2f1",
+      "adjuntos": []
+    },
+    {
+      "id": "1526010930050236518",
+      "fecha_utc": "2026-07-12T23:42:37.636000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-12T23:45:54.042000+00:00",
+      "texto": "Naór: **se choca y sale de ese estado de trance . \n\nPero la veis chupando el caparazon como un gato una lata de atún ** \n\nZiiii por ? \n\nUy ... perdon anciano tortas \n**retrocede y se pone toda digna ella **",
+      "mensaje_sha256": "b33201134471af8f5f97913793700aa8485b2ee1b15844235044c0c887829cd1",
+      "tipo_discord": 19,
+      "referencia": "1526010525052440736",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526010930050236518",
+      "texto_sha256": "43c1d2a96d98deb6ca8ace908773b1c4605771df433a3ae10b17894a2b6a3e2b",
+      "adjuntos": []
+    },
+    {
+      "id": "1526011362587836417",
+      "fecha_utc": "2026-07-12T23:44:20.761000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: ...Emmm gato?",
+      "mensaje_sha256": "b066521914fb326b3ef3307d00643325bf8194fd484d039b74012f990bcebac9",
+      "tipo_discord": 19,
+      "referencia": "1526010930050236518",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526011362587836417",
+      "texto_sha256": "28a70c817acd1109d9ad0e3d96f663cb7d52ef6706196a235af80381632dd84b",
+      "adjuntos": []
+    },
+    {
+      "id": "1526011462471127121",
+      "fecha_utc": "2026-07-12T23:44:44.575000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Coyote:\nESTARIA VESTIDO SI ESA LOCA NO QUISIERA COMERME!!\n\n**Señalé a Naór**\n\nNO VUELVO A HACERLE NINGÚN PUTO FAVOR!!",
+      "mensaje_sha256": "e3fe464dbddda5632c8807d2bf86040a924dc0949ed8cacc86c3a96fe9cdcec6",
+      "tipo_discord": 19,
+      "referencia": "1526010765117751439",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526011462471127121",
+      "texto_sha256": "df8bf4d988e680559890d5dca68553f4f5034e0cb7380caf95ba8d31b9a82975",
+      "adjuntos": []
+    },
+    {
+      "id": "1526011938436546611",
+      "fecha_utc": "2026-07-12T23:46:38.054000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-12T23:47:05.418000+00:00",
+      "texto": "Eldrath: La verdad... Estabas muy lanzado deseando que te coma alguien ¿Y ahora te quejas de que te coma alguien con tanto pelo como tu? No te entiendo tio",
+      "mensaje_sha256": "6f2318e9c210d5d4185c3ad134ec076e22bcbbfe70d41bdf27c8c2cf22888eae",
+      "tipo_discord": 19,
+      "referencia": "1526011462471127121",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526011938436546611",
+      "texto_sha256": "3ef5866dcf019d565d3872e955962afcf22b6de23a8d58c6ee2ad549db67500e",
+      "adjuntos": []
+    },
+    {
+      "id": "1526012473856102601",
+      "fecha_utc": "2026-07-12T23:48:45.708000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Naór : no se de que hablais . \n Vamos a la taberna a desayunar ? \n\nAnciano Tortas le gustaria compartir asiento con nosotros ? \n\n(**ara va de educada la gata gitana ** )",
+      "mensaje_sha256": "8ff4347a957059bc73d85e46f27d8e132bc55fe7d6bb4541921116ec655f982e",
+      "tipo_discord": 19,
+      "referencia": "1526011938436546611",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526012473856102601",
+      "texto_sha256": "88565925e4b6f794f1b089e1e601c67c861c3a128c4062af9d35d19f928b3063",
+      "adjuntos": []
+    },
+    {
+      "id": "1526012664399134820",
+      "fecha_utc": "2026-07-12T23:49:31.137000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Coyote:\nA ver, es muy distinto Comer~\n\n**Tono seductor**\n\nY COMER!!\n\n**Le chillo**\n\nSe lo que se cuando lo veo, así que eso ya no está bien",
+      "mensaje_sha256": "322246e4285957dbd98d4bdea82accc500a62120283c9d32a30cb0b6f24eee61",
+      "tipo_discord": 19,
+      "referencia": "1526011938436546611",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526012664399134820",
+      "texto_sha256": "32b61d13b569cbd998cd98438d72e03191b72161b08aa4942c9422af7677c670",
+      "adjuntos": []
+    },
+    {
+      "id": "1526012674838630460",
+      "fecha_utc": "2026-07-12T23:49:33.626000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: **Se encoge de hombros** Si, siempre que no sea fruta",
+      "mensaje_sha256": "34dae3f53d48629505b6a50dc825882ba2b05850acf99a04b628340cd2727c81",
+      "tipo_discord": 19,
+      "referencia": "1526012473856102601",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526012674838630460",
+      "texto_sha256": "9acc8f8f349d8d1fbdb4b5bfb300a2d74396ca8659be45eb859ec46567db938d",
+      "adjuntos": []
+    },
+    {
+      "id": "1526012751133151293",
+      "fecha_utc": "2026-07-12T23:49:51.816000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Tortas: Me apetece hacer el camino del desayuno Bigotitos",
+      "mensaje_sha256": "69a9e9ebc1095dc95a961c64a438365db5dbff0dd4cebfe49f4bf4c646882211",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526012751133151293",
+      "texto_sha256": "e5f50a0ecf32e1e4ea346f2547b4cb6e2885eccaaf0dfeac196bd929b790554d",
+      "adjuntos": []
+    },
+    {
+      "id": "1526013239232692306",
+      "fecha_utc": "2026-07-12T23:51:48.188000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-12T23:52:15.691000+00:00",
+      "texto": "Eldrath: **Arruga el gesto y se limpia un poco el oido... El pobre va a quedar sordo** Pues no te vayas a acostar con alguien que te puede comer a mi que me cuentas **Sonrie burlon** Por cierto... Mucho gritar pero aun veo a la serpiente de dos centimetros moverse... Y ahora por lo que veo no quiere devorarte el gatito... ¿Nos haces un favor a todos y te vistes?",
+      "mensaje_sha256": "690b7961e57929b445c2223f8f98c0a76cf0b39a10398c8a56e5be67c5afc9a4",
+      "tipo_discord": 19,
+      "referencia": "1526012664399134820",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526013239232692306",
+      "texto_sha256": "04312f0962d5000d537349fc95cbbdbcced2f5c602ec7064fe7cfe5fb2a18a16",
+      "adjuntos": []
+    },
+    {
+      "id": "1526013896379469996",
+      "fecha_utc": "2026-07-12T23:54:24.864000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-12T23:54:44.456000+00:00",
+      "texto": "Coyote:\n**Puse los ojos en blanco**\n\nEstá serpiente se vuelve anaconda si le dan motivación \n\n**Agarré una hoja del suelo y me la puse**\n\nVamos a desayunar, me muero de hambre \n\n**Le doy unas palmaditas en el caparazón a Tortas**\n\nBuenas mi amigo Tortas, se te ve animado\n\n<@297459767117611008>",
+      "mensaje_sha256": "7d2adaa43d5a142c655fcc5f22b52200f4c3068b42567f504847ced5b2b12998",
+      "tipo_discord": 19,
+      "referencia": "1526013239232692306",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526013896379469996",
+      "texto_sha256": "b1d8fbb13291bf0a0a91cbbeff9560662602ccf500b848421c71a9efcdd5a9b5",
+      "adjuntos": []
+    },
+    {
+      "id": "1526014349808762900",
+      "fecha_utc": "2026-07-12T23:56:12.970000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Tortas: Como estás jovenzuelo? Ya estás menos travieso?\n\nHe tenido un buen sueño hoy, me siento muy liberado",
+      "mensaje_sha256": "dd68cc1f923693027cc3c39aae484e75eff815afcbfb933f27b9012172e4bfdb",
+      "tipo_discord": 19,
+      "referencia": "1526013896379469996",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526014349808762900",
+      "texto_sha256": "093dfc06959a29f1ede0915e684b644d30dd800b05c7758d2a325472d5612c44",
+      "adjuntos": []
+    },
+    {
+      "id": "1526014657331069080",
+      "fecha_utc": "2026-07-12T23:57:26.289000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: **Sonrie, hasta q nota la pintura en sus manos y rapido le cambia la expresion. Mete las manos en los bolsillos para disimular** Aja... Entiendo complejo de inferiodidad, vamos **Mira a <@297459767117611008> ** Ya vi tu... liberacion... y deseo no escucharla la proxima vez desde tan cerca **Va llendo a la taberna <@616683133374562304> **",
+      "mensaje_sha256": "a0595c6012007aba041c31ee952cd1b98d60ddf5e9e6d39a1c6c7a569feba9e0",
+      "tipo_discord": 19,
+      "referencia": "1526013896379469996",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526014657331069080",
+      "texto_sha256": "7893f95b530703ea6afcf37f5e50b6efa767135e0a0b4c2ea20b96d38caed271",
+      "adjuntos": []
+    },
+    {
+      "id": "1526015061284356179",
+      "fecha_utc": "2026-07-12T23:59:02.599000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-12T23:59:51.716000+00:00",
+      "texto": "Naór : Eldrath .. \nEl hueleculos queria meterle lengua a Tryel \n**te susurra y pone cara de asco \n\nAgarra a Tortas del brazo de forma delicada y le dice** , ya veras hay una sopa de tort..\n\nEmmm... hay tostadas . \n*mierda naor como va comer la sopa de tortuga imbecil*",
+      "mensaje_sha256": "e42b7313a77855ba56fe8ffb4a5ce0931f1950c5591a798edf2b052ebb581e43",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526015061284356179",
+      "texto_sha256": "97f6f6f5a03712e0e616f0552e68209a1a8791654eb014c9e7dea12d500d1074",
+      "adjuntos": []
+    },
+    {
+      "id": "1526015434145533992",
+      "fecha_utc": "2026-07-13T00:00:31.496000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Coyote:\nNunca dejo de estar de travieso, ese es mi trabajo~\n\n**Me relamí el hocico para después mirar a Naór con algo de molestia**\n\nA ver, que no lo hice, la iba a salvar de ahogarse\n\n**Negué con la cabeza**\n\nYa quisiera la paliduchita sentir estos labios~",
+      "mensaje_sha256": "ef4ef1f9db02764a168f45cd876ae893a17b934b1aae9ff3618e94b9d1d11208",
+      "tipo_discord": 19,
+      "referencia": "1526014349808762900",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526015434145533992",
+      "texto_sha256": "6ae0d82c49baade218028c23858930adab055d965cf90d11fc5bd80f1022dbbe",
+      "adjuntos": []
+    },
+    {
+      "id": "1526015466152394842",
+      "fecha_utc": "2026-07-13T00:00:39.127000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "0fab2a15add5df7eaf71f3d82d5c889debee1ad01a25d6bba419adf426bb882d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526015466152394842",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1526015465896415483",
+          "nombre": "voice-message.ogg",
+          "tipo": "audio/ogg",
+          "archivo": "adjuntos/1526015465896415483.ogg",
+          "url": "rol_escrito/adjuntos/1526015465896415483.ogg",
+          "bytes": 58385,
+          "sha256": "d671312f4fb2db3fdd81d3224babb1efb25c0d93e3af3fe6846d6eb55d3a7f29"
+        }
+      ],
+      "transcripciones_audio": [
+        {
+          "mensaje_id": "1526015466152394842",
+          "campana": "xoltacan",
+          "audio_sha256": "d671312f4fb2db3fdd81d3224babb1efb25c0d93e3af3fe6846d6eb55d3a7f29",
+          "archivo_audio": "adjuntos/1526015465896415483.ogg",
+          "modelo": "faster-whisper-large-v3-turbo",
+          "motor": "faster-whisper",
+          "version_motor": "1.2.1",
+          "dispositivo": "cuda",
+          "idioma": "es",
+          "duracion": 15.3,
+          "segmentos": [
+            {
+              "inicio": 0.56,
+              "fin": 14.36,
+              "texto": "Ahora que dices lo de las tostadas, bigotitos, también hay una cosa en la taberna que está muy rica, sí, sí, y es la sopa de tortuga, mmm, delicioso."
+            }
+          ],
+          "texto": "Ahora que dices lo de las tostadas, bigotitos, también hay una cosa en la taberna que está muy rica, sí, sí, y es la sopa de tortuga, mmm, delicioso.",
+          "nota": "Transcripción automática local de una nota de voz; puede contener errores y no identifica hablantes por sí sola."
+        }
+      ]
+    },
+    {
+      "id": "1526015516333052035",
+      "fecha_utc": "2026-07-13T00:00:51.091000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: **Arruga el gesto...** Que mala suerte para... el... **Mira el caparazon de la tortuga y se le escapa una sonrisita**",
+      "mensaje_sha256": "ded6a885b0e7ded59dbd48239b5a9356a4df92d17f4a0c03de54ed6ca30f8197",
+      "tipo_discord": 19,
+      "referencia": "1526015061284356179",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526015516333052035",
+      "texto_sha256": "b5a4ce2d65727873410ac03c7dd0bedd65bb881040edc48155751fcada7954af",
+      "adjuntos": []
+    },
+    {
+      "id": "1526015843131985980",
+      "fecha_utc": "2026-07-13T00:02:09.006000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: **Levanta un dedo... pero decide callarse... ¿Quien era el para oponerse a un anciano que ha roto la velocidad del sonido hace unos minutos?**",
+      "mensaje_sha256": "89d7b3ad114b0514d1055c7f61c48d8f0bea4420660bf4fdd122f78bf6c89d58",
+      "tipo_discord": 19,
+      "referencia": "1526015466152394842",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526015843131985980",
+      "texto_sha256": "c4bd9b424e8cc95e7270221d3e41c132c7cbdaaef330866375759cea80173458",
+      "adjuntos": []
+    },
+    {
+      "id": "1526016135701725297",
+      "fecha_utc": "2026-07-13T00:03:18.760000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Naór : sabe anciano Tortas , es usted la puta caña . Es justo lo que le hacia falta a este pueblo . \n\nPues a desayunar !!!!! \n\nY a planear lo de perlasal",
+      "mensaje_sha256": "dea2656eb26898f48b53059345fca7a57d7f6a273e3a83803a8694964c9a7ab3",
+      "tipo_discord": 19,
+      "referencia": "1526015466152394842",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526016135701725297",
+      "texto_sha256": "3b3c0c129b175922c4980f7360e87cc2cdc66bc6b2b19f34e303c6ba513e15c7",
+      "adjuntos": []
+    },
+    {
+      "id": "1526016172783566921",
+      "fecha_utc": "2026-07-13T00:03:27.601000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-13T00:03:38.529000+00:00",
+      "texto": "Coyote:\nEl viejo tiene razón, la sopa de Tortuga está muy buena\n\n**Me quedo en blanco por unos segundos hasta que reaccioné**\n\nMendigo viejo carnívoro... COMO PUEDES DECIR ESO?!",
+      "mensaje_sha256": "8ffb32bc4daa62c7ea68b56ec947946457f323a32525a0ea7c4dff3131de8aef",
+      "tipo_discord": 19,
+      "referencia": "1526015466152394842",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526016172783566921",
+      "texto_sha256": "9fb76c2b9e097f9e3edf87ef0e01431eee9c7648bc5e26e1e34e1cdcacfc5dfb",
+      "adjuntos": []
+    },
+    {
+      "id": "1526016328279003346",
+      "fecha_utc": "2026-07-13T00:04:04.674000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Tortas: Todavía me tienes que contar Bigotitos que asuntos tienes allí",
+      "mensaje_sha256": "4ee8380b809150c482503698a472c35094f082bfcdde6f506438c4b79b15c32b",
+      "tipo_discord": 19,
+      "referencia": "1526016135701725297",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526016328279003346",
+      "texto_sha256": "6184fde7a9d7519e265ea05d2f21ae9d97126da79e7c690fc411214e33b7c79a",
+      "adjuntos": []
+    },
+    {
+      "id": "1526016594470502421",
+      "fecha_utc": "2026-07-13T00:05:08.139000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "7c13e41ab8297d88df6159dee1a082b1a24ead07cb44009272da40ca9f829b20",
+      "tipo_discord": 19,
+      "referencia": "1526016172783566921",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526016594470502421",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1526016594310987786",
+          "nombre": "voice-message.ogg",
+          "tipo": "audio/ogg",
+          "archivo": "adjuntos/1526016594310987786.ogg",
+          "url": "rol_escrito/adjuntos/1526016594310987786.ogg",
+          "bytes": 89357,
+          "sha256": "4a361916f96f00450cc3465d7d32bff5411e416e1da392dc9a72e7462176506c"
+        }
+      ],
+      "transcripciones_audio": [
+        {
+          "mensaje_id": "1526016594470502421",
+          "campana": "xoltacan",
+          "audio_sha256": "4a361916f96f00450cc3465d7d32bff5411e416e1da392dc9a72e7462176506c",
+          "archivo_audio": "adjuntos/1526016594310987786.ogg",
+          "modelo": "faster-whisper-large-v3-turbo",
+          "motor": "faster-whisper",
+          "version_motor": "1.2.1",
+          "dispositivo": "cuda",
+          "idioma": "es",
+          "duracion": 24.66,
+          "segmentos": [
+            {
+              "inicio": 0.62,
+              "fin": 9.98,
+              "texto": "Mira, joven coyote, en los años que he vivido, solo te puedo asegurar que todos tenemos un camino."
+            },
+            {
+              "inicio": 9.98,
+              "fin": 22.2,
+              "texto": "Y si a esas tortugas les ha tocado el camino de la sopa, yo no soy quién para no darle su objetivo final."
+            },
+            {
+              "inicio": 23.16,
+              "fin": 24.38,
+              "texto": "Que se los coman."
+            }
+          ],
+          "texto": "Mira, joven coyote, en los años que he vivido, solo te puedo asegurar que todos tenemos un camino. Y si a esas tortugas les ha tocado el camino de la sopa, yo no soy quién para no darle su objetivo final. Que se los coman.",
+          "nota": "Transcripción automática local de una nota de voz; puede contener errores y no identifica hablantes por sí sola."
+        }
+      ]
+    },
+    {
+      "id": "1526016727408971826",
+      "fecha_utc": "2026-07-13T00:05:39.834000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-13T00:05:51.176000+00:00",
+      "texto": "Eldrath: **Pone la oreja sin querer... ¿Le interesa? No , pero todos sabemos que nadie va a preguntarle al elfo gruñon por su opinion de si quiere escuchar o no**",
+      "mensaje_sha256": "32136c16b22e3d8b4fc85c0cdb9ffbaff3dbc423d8d5a0ea701224f9d08c6d01",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526016727408971826",
+      "texto_sha256": "21e6374604a6472b9cffb07c5057eeacc75ce3f800a77f2ad710881c8794588d",
+      "adjuntos": []
+    },
+    {
+      "id": "1526016840533545102",
+      "fecha_utc": "2026-07-13T00:06:06.805000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Naór: tu te has comido mas de un rabo que olia a perro y nadie te dice nada . \nPerturbado . Deja al anciano que coma lo que quiera . \n\n\nPues verá gran sabio . <@297459767117611008> \n(Te empieza a contar toda la movida que le mando el rey de los leonin de hablar con los jefes de los clanes para la reunion en tutucan )",
+      "mensaje_sha256": "61b2e80ba4d6d1a1c9f9cbe52caed18cb9e64c7ed641d5c19d8e5763a1d1acd0",
+      "tipo_discord": 19,
+      "referencia": "1526016172783566921",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526016840533545102",
+      "texto_sha256": "6da46c51a6d7e2347a70dcec38700f3253cdb9466e12b75e7fbb97c03451e49b",
+      "adjuntos": []
+    },
+    {
+      "id": "1526017134956904638",
+      "fecha_utc": "2026-07-13T00:07:17.001000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-13T00:07:51.138000+00:00",
+      "texto": "Eldrath: **Vuelve a levantar el dedo... Pero se vuelve a callar... Si el anciano siendo roca no ha visto como va el ciclo de la vida no se va a arriesgar a explicarselo por si le da una clase practica el viejo de este**",
+      "mensaje_sha256": "13edb2205a8d32d5a90046043cfe21964da6314ebfa6f833cd75806ca63f8542",
+      "tipo_discord": 19,
+      "referencia": "1526016594470502421",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526017134956904638",
+      "texto_sha256": "bc5edf07f9b27100e26e471f3cfbdd63af4789a6cc39bb384c688fb1e06f84f8",
+      "adjuntos": []
+    },
+    {
+      "id": "1526017327496167424",
+      "fecha_utc": "2026-07-13T00:08:02.906000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Coyote:\nPor el amor de los Dioses...\n\n**Volví a negar con la cabeza para después mirar a Naór**\n\nPero esos rabos aun siguen con vida, no cuenta\n\n**Me acerqué a Eldrath**\n\nEstás muy calladito, acaso no tienes nada que decir al respecto?~\n\n**Empezaba a chincharlo con esa sonrisa burlona que me cargo**\n\n<@753394009153732689>",
+      "mensaje_sha256": "7e2242b401f8168c1b8b44d731d90bee109bb758bebfb87911e4d7b49f3bfbd0",
+      "tipo_discord": 19,
+      "referencia": "1526016594470502421",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526017327496167424",
+      "texto_sha256": "4e82ac560ac2432c13fc43db355dc31f6513446c2c82bf60b3babad34bdda488",
+      "adjuntos": []
+    },
+    {
+      "id": "1526017355958845632",
+      "fecha_utc": "2026-07-13T00:08:09.692000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Tortas:\n\nDisculpa un momentito Bigotitos, creo que el joven elfo quiere decir algo",
+      "mensaje_sha256": "bd2a9cf3e3ed3b5f2e3f75178b3647c2ee492ea5b790717133cf83c38cf7d465",
+      "tipo_discord": 19,
+      "referencia": "1526016840533545102",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526017355958845632",
+      "texto_sha256": "0ab13388a90e309c21ec63820af7c398966186c2ba075cd76186ea1563298bc9",
+      "adjuntos": []
+    },
+    {
+      "id": "1526017731806105792",
+      "fecha_utc": "2026-07-13T00:09:39.301000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-13T00:10:15.461000+00:00",
+      "texto": "Eldrath: ¿De que? ¿De una reunion de jefes de una isla que no es la mia? ¿O de que la hoja te queda demasiado grande? **Sonrie burlon devolviendote el chinche**",
+      "mensaje_sha256": "b0055808b5e1f0d02ef4cd3af8c5217fba405333edfdc50259d4db22e1234ed7",
+      "tipo_discord": 19,
+      "referencia": "1526017327496167424",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526017731806105792",
+      "texto_sha256": "c3fbebf9eee6881a002aa246dadffba0c426bb0ff080d3dd0e1d931cf875e210",
+      "adjuntos": []
+    },
+    {
+      "id": "1526018156815061155",
+      "fecha_utc": "2026-07-13T00:11:20.631000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: A si... Bonito caparazon ¿Te lo pules todas las mañanas querido anciano? **Sonrie con diversion**",
+      "mensaje_sha256": "ef7fc77db5b8b55c3e2cda22fae35a0c324e0ec95461b4ceefda013bd8f92038",
+      "tipo_discord": 19,
+      "referencia": "1526017355958845632",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526018156815061155",
+      "texto_sha256": "3369bc753235000761c1fd85ed13661ec51f9e3d133f00e788ccf03a8660cf23",
+      "adjuntos": []
+    },
+    {
+      "id": "1526018279636992051",
+      "fecha_utc": "2026-07-13T00:11:49.914000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Coyote:\nQuédate conmigo una noche y verás que el cuello del viejo no se compara a lo que tengo aquí escondido \n\n**Me crucé de brazos sin sentirme ofendido**",
+      "mensaje_sha256": "551d5f1ff0f8a84211ba19e73065a2015ad7d0856939daa6f05360e296d7ddb2",
+      "tipo_discord": 19,
+      "referencia": "1526017731806105792",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526018279636992051",
+      "texto_sha256": "009d2826fe0fd6a84609a46ffe16b63f7659d067f446a23d5544db4381b5aac2",
+      "adjuntos": []
+    },
+    {
+      "id": "1526018293197181020",
+      "fecha_utc": "2026-07-13T00:11:53.147000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "671c78358cbd61a8a06f86a5c5700c14815c16aae0fd03932b870d3455280172",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526018293197181020",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1526018293276610611",
+          "nombre": "voice-message.ogg",
+          "tipo": "audio/ogg",
+          "archivo": "adjuntos/1526018293276610611.ogg",
+          "url": "rol_escrito/adjuntos/1526018293276610611.ogg",
+          "bytes": 41053,
+          "sha256": "ed06bb014da738eb46d6c620152330baa18aa82afccf2af2db78838fc962d66d"
+        }
+      ],
+      "transcripciones_audio": [
+        {
+          "mensaje_id": "1526018293197181020",
+          "campana": "xoltacan",
+          "audio_sha256": "ed06bb014da738eb46d6c620152330baa18aa82afccf2af2db78838fc962d66d",
+          "archivo_audio": "adjuntos/1526018293276610611.ogg",
+          "modelo": "faster-whisper-large-v3-turbo",
+          "motor": "faster-whisper",
+          "version_motor": "1.2.1",
+          "dispositivo": "cuda",
+          "idioma": "es",
+          "duracion": 11.62,
+          "segmentos": [
+            {
+              "inicio": 0.59,
+              "fin": 9.95,
+              "texto": "Jóven elfo, mi caparazón está lleno de plantas deterioradas y de musgo. ¿Tiene pinta acaso de que lo pulo?"
+            }
+          ],
+          "texto": "Jóven elfo, mi caparazón está lleno de plantas deterioradas y de musgo. ¿Tiene pinta acaso de que lo pulo?",
+          "nota": "Transcripción automática local de una nota de voz; puede contener errores y no identifica hablantes por sí sola."
+        }
+      ]
+    },
+    {
+      "id": "1526018460675735664",
+      "fecha_utc": "2026-07-13T00:12:33.077000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: **Levanta una ceja** ¿Y que me decepciones como al gatito? Gracias pero paso",
+      "mensaje_sha256": "6dc986682afce79d763f401442add9017b414d3c907ad07436b29fb4695427ec",
+      "tipo_discord": 19,
+      "referencia": "1526018279636992051",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526018460675735664",
+      "texto_sha256": "6598183d18e83423375716d40fdf7ed76848ac4f03fd8cca024cd2a1d5b2bfad",
+      "adjuntos": []
+    },
+    {
+      "id": "1526018904328110212",
+      "fecha_utc": "2026-07-13T00:14:18.852000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: Bueno... Se camuflan tan bien entre el color verde de sus placas que al rocio de la mañana parece relucir **Sonrie** Eso o los golpes que has dado al lago ademas de dejarme sordo han terminado de dejarme ciego",
+      "mensaje_sha256": "fb7db8831f3e2cdbf810df28b0704abb23d41e16db2205cd98597b7370e2ab99",
+      "tipo_discord": 19,
+      "referencia": "1526018293197181020",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526018904328110212",
+      "texto_sha256": "2434630dde865359a754a47de1335179b0e511fd7e24dee23f2de02095adc5c5",
+      "adjuntos": []
+    },
+    {
+      "id": "1526019065129341129",
+      "fecha_utc": "2026-07-13T00:14:57.190000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "d8ef62fa901b5b6f8e962c7b7742e462c4e5a0bd25138639b26d4539dfa1a305",
+      "tipo_discord": 19,
+      "referencia": "1526018904328110212",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526019065129341129",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1526019064810700920",
+          "nombre": "voice-message.ogg",
+          "tipo": "audio/ogg",
+          "archivo": "adjuntos/1526019064810700920.ogg",
+          "url": "rol_escrito/adjuntos/1526019064810700920.ogg",
+          "bytes": 7932,
+          "sha256": "13044c77f3e5671bbf6e8e2723119294a854fdbf49cabddd5f19cfa997314530"
+        }
+      ],
+      "transcripciones_audio": [
+        {
+          "mensaje_id": "1526019065129341129",
+          "campana": "xoltacan",
+          "audio_sha256": "13044c77f3e5671bbf6e8e2723119294a854fdbf49cabddd5f19cfa997314530",
+          "archivo_audio": "adjuntos/1526019064810700920.ogg",
+          "modelo": "faster-whisper-large-v3-turbo",
+          "motor": "faster-whisper",
+          "version_motor": "1.2.1",
+          "dispositivo": "cuda",
+          "idioma": "es",
+          "duracion": 2.5,
+          "segmentos": [
+            {
+              "inicio": 0.98,
+              "fin": 2.22,
+              "texto": "¿Qué rol pesce?"
+            }
+          ],
+          "texto": "¿Qué rol pesce?",
+          "nota": "Transcripción automática local de una nota de voz; puede contener errores y no identifica hablantes por sí sola."
+        }
+      ]
+    },
+    {
+      "id": "1526019409900998697",
+      "fecha_utc": "2026-07-13T00:16:19.390000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: **Levanta una tercera y ultima vez... Mierda la demencia que se le olvida que chochea** A nada te confundi con una de esas tortugas Kunfu que han hechado esta mañana a la sopa. Vamos a la taberna",
+      "mensaje_sha256": "2c650ddcf28ae54cbb1c9f5aab3dbff015fde0c83e074f58aa89cd08068baefd",
+      "tipo_discord": 19,
+      "referencia": "1526019065129341129",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526019409900998697",
+      "texto_sha256": "c06b13dc96bc90ae5a6e6cbc4119fcc08328c2577241719d8ea1bf7eac35b434",
+      "adjuntos": []
+    },
+    {
+      "id": "1526019562204696646",
+      "fecha_utc": "2026-07-13T00:16:55.702000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Coyote:\nDéjalo Viejo, que el pobre ya está alucinando, no sabe lo que dice \n\n**Volvía a darle unos golpecitos en el caparazón**",
+      "mensaje_sha256": "8e358397e275e22af60d628815f90532e3700064a41e7f83737d5817ab865a0f",
+      "tipo_discord": 19,
+      "referencia": "1526019065129341129",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526019562204696646",
+      "texto_sha256": "5bf625742def3bb0d4322c8edfa215effbb95cc20239f45a09a381212adff329",
+      "adjuntos": []
+    },
+    {
+      "id": "1526019719113605230",
+      "fecha_utc": "2026-07-13T00:17:33.112000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "**Te los devuelve en la espalda y ves que tiene bastante fuerza que incluso te echa hacia delante un poco**",
+      "mensaje_sha256": "c4221b3801f57e7eb825bb83580614bda918aa30e0a163c1cdb610d66952a99f",
+      "tipo_discord": 19,
+      "referencia": "1526019562204696646",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526019719113605230",
+      "texto_sha256": "9ed3821a6910fbf0f065a85d762ac239f83f20edd789e6f1764bcf93e0e7c8a2",
+      "adjuntos": []
+    },
+    {
+      "id": "1526019828563841064",
+      "fecha_utc": "2026-07-13T00:17:59.207000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-13T00:18:31.505000+00:00",
+      "texto": "Eldrath: tilin tilin tilin tilin tilin **Hace el sonido de un cascabel** Deja de hablar y ponte unos pantalones q hay niños en la aldea",
+      "mensaje_sha256": "c340e9469e85a46eafb8a8caeed943fc88d9d489eeaa8a6628ca9d9deefe8078",
+      "tipo_discord": 19,
+      "referencia": "1526019562204696646",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526019828563841064",
+      "texto_sha256": "8f37457ee7a816c0bb5ddaa7170713cddccee73caa7261b595d15513b907d964",
+      "adjuntos": []
+    },
+    {
+      "id": "1526020008956661931",
+      "fecha_utc": "2026-07-13T00:18:42.216000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-13T00:19:18.066000+00:00",
+      "texto": "Naór: recuerda que si estas aqui y Tryel esta viva es por una de esas lideres de una isla que no es la tuya . \n\nRespeta el lugar que pisas . \n\nSi . Mejor vayamos a desayunar .",
+      "mensaje_sha256": "6f01fca46661d0dcf37c3ceb7020fd944985eed652e9e5aa16eb05aaae6de506",
+      "tipo_discord": 19,
+      "referencia": "1526017731806105792",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526020008956661931",
+      "texto_sha256": "4199993d88785e125ef1ce72545c84561840b55712c78332b0fd08a26079a125",
+      "adjuntos": []
+    },
+    {
+      "id": "1526020204436394024",
+      "fecha_utc": "2026-07-13T00:19:28.822000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-13T00:19:42.644000+00:00",
+      "texto": "Eldrath: **Gruñe por lo bajo... Pero no dice nada ante el rapapolvo y entra en la taberna**",
+      "mensaje_sha256": "8876519069602bcc07bd98261e6e524b8bf139ba32176d7116636adf6be9e8bf",
+      "tipo_discord": 19,
+      "referencia": "1526020008956661931",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526020204436394024",
+      "texto_sha256": "6198fa0b238bc4e699b5908bfec6c9bc9baf372d1e5dd8f3f9c57ab74064e468",
+      "adjuntos": []
+    },
+    {
+      "id": "1526020516522229892",
+      "fecha_utc": "2026-07-13T00:20:43.229000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "7756d38c796cf01db25e07bf185dc6afb4d44ed2d078d2a1663886da389a726f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526020516522229892",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1526020516240949258",
+          "nombre": "voice-message.ogg",
+          "tipo": "audio/ogg",
+          "archivo": "adjuntos/1526020516240949258.ogg",
+          "url": "rol_escrito/adjuntos/1526020516240949258.ogg",
+          "bytes": 45123,
+          "sha256": "cc49306d4eec168fff190cb8c5265ee05e3d7824eca5ab2917bc4e7a70d974b2"
+        }
+      ],
+      "transcripciones_audio": [
+        {
+          "mensaje_id": "1526020516522229892",
+          "campana": "xoltacan",
+          "audio_sha256": "cc49306d4eec168fff190cb8c5265ee05e3d7824eca5ab2917bc4e7a70d974b2",
+          "archivo_audio": "adjuntos/1526020516240949258.ogg",
+          "modelo": "faster-whisper-large-v3-turbo",
+          "motor": "faster-whisper",
+          "version_motor": "1.2.1",
+          "dispositivo": "cuda",
+          "idioma": "es",
+          "duracion": 12.42,
+          "segmentos": [
+            {
+              "inicio": 0.5,
+              "fin": 12.42,
+              "texto": "tabernero buenos días mesa para cuatro por favor y pónganos el desayuno especial del camino de las tortas"
+            }
+          ],
+          "texto": "tabernero buenos días mesa para cuatro por favor y pónganos el desayuno especial del camino de las tortas",
+          "nota": "Transcripción automática local de una nota de voz; puede contener errores y no identifica hablantes por sí sola."
+        }
+      ]
+    },
+    {
+      "id": "1526020598973599805",
+      "fecha_utc": "2026-07-13T00:21:02.887000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-13T00:21:16.638000+00:00",
+      "texto": "Naór: \n\nBien .. \nAlguno de vosotros a estado antes en Perlasal ? \nYo solo fui con mi padre a una reunion en las costas pero era una cria . No me acuerdo de mucho de la gente del mar",
+      "mensaje_sha256": "dfb2ef71b0a710e402aa985fd260cc8e676ebb0388318dbce8b7ea414edea10c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526020598973599805",
+      "texto_sha256": "79d3cc5ba6d94e2b0de46834e1b83b904d2820e5568086670aaa18c91b09078e",
+      "adjuntos": []
+    },
+    {
+      "id": "1526020924317634692",
+      "fecha_utc": "2026-07-13T00:22:20.455000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: **Niega con la cabeza y toma asiento. Reparte las bebidas a todos** <@408026114548695061> <@297459767117611008>",
+      "mensaje_sha256": "eea1629cc7b197ac12f3a302a6b7bb90de4fce337680c91b77958ba6ccd7dc4f",
+      "tipo_discord": 19,
+      "referencia": "1526020598973599805",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526020924317634692",
+      "texto_sha256": "2141270056168b4975b055560a06f119e342454eada3f6a8ea679b3dfa6b8e22",
+      "adjuntos": []
+    },
+    {
+      "id": "1526021030362222642",
+      "fecha_utc": "2026-07-13T00:22:45.738000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "2cd4d2f563a57a9b5516f4eb15514a2590953bb78954b7d329edb8c605e02296",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526021030362222642",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1526021030093783151",
+          "nombre": "voice-message.ogg",
+          "tipo": "audio/ogg",
+          "archivo": "adjuntos/1526021030093783151.ogg",
+          "url": "rol_escrito/adjuntos/1526021030093783151.ogg",
+          "bytes": 116822,
+          "sha256": "e4bec6b1ae0a8bbac7356ffc44edbcd0f70cb4ccb2c1b087f96cb83c04662097"
+        }
+      ],
+      "transcripciones_audio": [
+        {
+          "mensaje_id": "1526021030362222642",
+          "campana": "xoltacan",
+          "audio_sha256": "e4bec6b1ae0a8bbac7356ffc44edbcd0f70cb4ccb2c1b087f96cb83c04662097",
+          "archivo_audio": "adjuntos/1526021030093783151.ogg",
+          "modelo": "faster-whisper-large-v3-turbo",
+          "motor": "faster-whisper",
+          "version_motor": "1.2.1",
+          "dispositivo": "cuda",
+          "idioma": "es",
+          "duracion": 29.66,
+          "segmentos": [
+            {
+              "inicio": 0.37,
+              "fin": 17.59,
+              "texto": "Ah, sí, es ese lugar como debajo del agua con edificios y mucha fauna, marina y sirenas. Había sirenas, sí, sí, sí. Y como unas ruinas y un montón de cosas."
+            },
+            {
+              "inicio": 19.05,
+              "fin": 29.05,
+              "texto": "Fue muy interesante el sueño ese que tuve. No conozco el sitio que estaba preguntando, perdón. ¿Perlasal dices? No, no lo conozco."
+            }
+          ],
+          "texto": "Ah, sí, es ese lugar como debajo del agua con edificios y mucha fauna, marina y sirenas. Había sirenas, sí, sí, sí. Y como unas ruinas y un montón de cosas. Fue muy interesante el sueño ese que tuve. No conozco el sitio que estaba preguntando, perdón. ¿Perlasal dices? No, no lo conozco.",
+          "nota": "Transcripción automática local de una nota de voz; puede contener errores y no identifica hablantes por sí sola."
+        }
+      ]
+    },
+    {
+      "id": "1526021308205371472",
+      "fecha_utc": "2026-07-13T00:23:51.981000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Coyote:\nNaór, antes de que te me lanzaras te dije que yo conozco Perlasal, que estuve ahí hace un tiempo y tengo a una chiquita esperándome~\n\n**Me relamí de nuevo el hocico**\n\nHuuuy, sisisi viejo, esas sirenas son unas loquillas",
+      "mensaje_sha256": "bdc0f7f219fb1c49f9558cf3c078e52ebc24a8938a5c52ad022dfbc1a1420964",
+      "tipo_discord": 19,
+      "referencia": "1526020598973599805",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526021308205371472",
+      "texto_sha256": "b7cafc2c84e4d11e66b718c820558114f5723ec34dce279f89a799541a4d4e14",
+      "adjuntos": []
+    },
+    {
+      "id": "1526021728394805369",
+      "fecha_utc": "2026-07-13T00:25:32.162000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Edrath: **Ya no voy a repetir el chiste** ¿Y siendo una tortuga no sabes de una aldea del mar que esta en tu propia isla? **Bebe un poco de cafe... Mira la taza** *Joder... aqui si saben preparar cafe*",
+      "mensaje_sha256": "67bd722f1deffe32f12ae8a50b2acbe4bd0a26ed646cc7ffa729acc1e223f32f",
+      "tipo_discord": 19,
+      "referencia": "1526021030362222642",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526021728394805369",
+      "texto_sha256": "1a804caa15ceda31e09ab64d4ce8e92daf3f55bbb0bc9e56ebb91b044613fefb",
+      "adjuntos": []
+    },
+    {
+      "id": "1526021869445316639",
+      "fecha_utc": "2026-07-13T00:26:05.791000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: A ti ni te pregunto",
+      "mensaje_sha256": "f6086bd4f0ccdd99d4c7fcdb435ef209d80248528e18895efabfd3a5dae4c872",
+      "tipo_discord": 19,
+      "referencia": "1526021308205371472",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526021869445316639",
+      "texto_sha256": "3aa572783f32ebe60e182f3ff0fcb5aedde2d9771261546c42502b6decd8dc2d",
+      "adjuntos": []
+    },
+    {
+      "id": "1526021965951926472",
+      "fecha_utc": "2026-07-13T00:26:28.800000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-13T00:26:38.292000+00:00",
+      "texto": "**El desayuno del camino de las Tortas va con el brebaje que le dió Ilikar a tortas (cerveza)**",
+      "mensaje_sha256": "326cee893d6b046fbe5e574cb134a584d4f4b42fe844036cb5f75109a4f2e71b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526021965951926472",
+      "texto_sha256": "e0145114405df1da32b2bef0f71dc31cc12b6314c7cbd4cb8f84af8156c63b30",
+      "adjuntos": []
+    },
+    {
+      "id": "1526022596372463697",
+      "fecha_utc": "2026-07-13T00:28:59.104000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-13T00:34:30.869000+00:00",
+      "texto": "Naór : entonces tú , **señala a Coyote** \nSabes el camino ? <@408026114548695061>",
+      "mensaje_sha256": "4c5a6a0fecca618b74d8ca006b0fe8724cd00b69d0f999f489e696b38974f782",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526022596372463697",
+      "texto_sha256": "95b81a96520edffcadde1829e9e874fbe5401a444773eb5fac344bbfcf3ca553",
+      "adjuntos": []
+    },
+    {
+      "id": "1526022747417743581",
+      "fecha_utc": "2026-07-13T00:29:35.116000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Coyote:\nSabías que para darle a una sirena tienes que...\n\n**Estaba a nada de explicar lo de la florecita y la abejita marina hasta que recordé**\n\nAh, es cierto, ahí son algo especiales, sobre todo los de alto rango, son demasiado estirados, pobres musculosos que me ayudaron, los ignoraron por completo \n\n**Mire a Naór con esa sonrisa pícara**\n\nSin problema primor~",
+      "mensaje_sha256": "da50992450c0c1dfe980a0d79d104ed9d3050dd4a351cde3f739546a450b9940",
+      "tipo_discord": 19,
+      "referencia": "1526021869445316639",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526022747417743581",
+      "texto_sha256": "e13047f899cf93dcb50a3683f671827964e0076ce28e4b34ea7a2294d8624cab",
+      "adjuntos": []
+    },
+    {
+      "id": "1526022828124536884",
+      "fecha_utc": "2026-07-13T00:29:54.358000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "3267eb69400103952a7026cb3036b7ff344d3b84ec59358199d52ba6c9d92aa8",
+      "tipo_discord": 19,
+      "referencia": "1526021728394805369",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526022828124536884",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1526022828070014986",
+          "nombre": "voice-message.ogg",
+          "tipo": "audio/ogg",
+          "archivo": "adjuntos/1526022828070014986.ogg",
+          "url": "rol_escrito/adjuntos/1526022828070014986.ogg",
+          "bytes": 59396,
+          "sha256": "fc4ca3f5187616f161888fd3bb4db817be5d24bbd063acf6509ddf946f014e32"
+        }
+      ],
+      "transcripciones_audio": [
+        {
+          "mensaje_id": "1526022828124536884",
+          "campana": "xoltacan",
+          "audio_sha256": "fc4ca3f5187616f161888fd3bb4db817be5d24bbd063acf6509ddf946f014e32",
+          "archivo_audio": "adjuntos/1526022828070014986.ogg",
+          "modelo": "faster-whisper-large-v3-turbo",
+          "motor": "faster-whisper",
+          "version_motor": "1.2.1",
+          "dispositivo": "cuda",
+          "idioma": "es",
+          "duracion": 15.34,
+          "segmentos": [
+            {
+              "inicio": 0.14,
+              "fin": 9.9,
+              "texto": "Bueno, tienes que tener en cuenta que yo no soy consciente de las cosas que aparecen y desaparecen si están muy lejos."
+            },
+            {
+              "inicio": 10.86,
+              "fin": 14.98,
+              "texto": "Al final solo llevo un ratito ahí en la piedra."
+            }
+          ],
+          "texto": "Bueno, tienes que tener en cuenta que yo no soy consciente de las cosas que aparecen y desaparecen si están muy lejos. Al final solo llevo un ratito ahí en la piedra.",
+          "nota": "Transcripción automática local de una nota de voz; puede contener errores y no identifica hablantes por sí sola."
+        }
+      ]
+    },
+    {
+      "id": "1526023155536363693",
+      "fecha_utc": "2026-07-13T00:31:12.419000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: **Si el asco tuviera personificacion... Seria ahora ese elfo** No quiero saber tanto de eso... ¿Hiciste algo mas que tirarte peces o q?",
+      "mensaje_sha256": "40901c47b940f7159e12f940f23196cff13ac52a3ff7bf01a4296a70cb154f37",
+      "tipo_discord": 19,
+      "referencia": "1526022747417743581",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526023155536363693",
+      "texto_sha256": "69b1b8a7f3bb828879ee53bb6aa3773af1e2711261e263b8f074dfb1d5fd4bde",
+      "adjuntos": []
+    },
+    {
+      "id": "1526023547024052304",
+      "fecha_utc": "2026-07-13T00:32:45.757000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Coyote:\n**Di un trago a la cerveza pero casi la escupí al escuchar que solo lleva \"un ratito\" en la piedra**\n\nDioses, dice un ratito el viejo milenario \n\n**Me aclaré la garganta**\n\nPara tu información, mi querido caraculo, salvamos a esa pequeña criatura indefensa de unos horribles peces que estaban atormentando su hogar",
+      "mensaje_sha256": "44516f790e06936190415252c50b4357f0df07105f2cba3ccf6db14b56825a05",
+      "tipo_discord": 19,
+      "referencia": "1526022828124536884",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526023547024052304",
+      "texto_sha256": "c8ab658b305f1942e0a99b7dc4f65a184079b00b61dc15c8f5d16b93d07ef606",
+      "adjuntos": []
+    },
+    {
+      "id": "1526023596412113016",
+      "fecha_utc": "2026-07-13T00:32:57.532000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: ...¿No tenias como mas de 1000 años? Que yo teniendo algo mas de 100 estoy mas informado... Tienes que actualizarte asi que escucha",
+      "mensaje_sha256": "0dd703211ae2430be1bf5570151a9ebfa50f9551a72bb1fd8174450dc9ec9e1f",
+      "tipo_discord": 19,
+      "referencia": "1526022828124536884",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526023596412113016",
+      "texto_sha256": "7ac6442fec96e5cae9ed701fc12bd60927eb79409d2c2590f762cb9a33f9d78a",
+      "adjuntos": []
+    },
+    {
+      "id": "1526023712699191356",
+      "fecha_utc": "2026-07-13T00:33:25.257000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "6fe08018656ff9d5eb7946c79ed0196d5a9da31beed76bc4107c6db53dd285e0",
+      "tipo_discord": 19,
+      "referencia": "1526023547024052304",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526023712699191356",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1526023712434946098",
+          "nombre": "voice-message.ogg",
+          "tipo": "audio/ogg",
+          "archivo": "adjuntos/1526023712434946098.ogg",
+          "url": "rol_escrito/adjuntos/1526023712434946098.ogg",
+          "bytes": 63389,
+          "sha256": "98e69a210d990369e981a9bb9b7f0b79ec811296d2e5be7df68790a94b9d5607"
+        }
+      ],
+      "transcripciones_audio": [
+        {
+          "mensaje_id": "1526023712699191356",
+          "campana": "xoltacan",
+          "audio_sha256": "98e69a210d990369e981a9bb9b7f0b79ec811296d2e5be7df68790a94b9d5607",
+          "archivo_audio": "adjuntos/1526023712434946098.ogg",
+          "modelo": "faster-whisper-large-v3-turbo",
+          "motor": "faster-whisper",
+          "version_motor": "1.2.1",
+          "dispositivo": "cuda",
+          "idioma": "es",
+          "duracion": 16.12,
+          "segmentos": [
+            {
+              "inicio": 0.37,
+              "fin": 15.67,
+              "texto": "El otro día estuve hablando con un jovenzuelo que me dijo que también quería ser milenario, pero no entiendo por qué estaba tan centrado en buscar tesoros, si eso no tiene nada que ver."
+            }
+          ],
+          "texto": "El otro día estuve hablando con un jovenzuelo que me dijo que también quería ser milenario, pero no entiendo por qué estaba tan centrado en buscar tesoros, si eso no tiene nada que ver.",
+          "nota": "Transcripción automática local de una nota de voz; puede contener errores y no identifica hablantes por sí sola."
+        }
+      ]
+    },
+    {
+      "id": "1526023912503246858",
+      "fecha_utc": "2026-07-13T00:34:12.894000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: A bien entonces hiciste algo mas que tirarte peces... Y...¿Sabes el por que? ¿Has vuelto alguna vez mas?",
+      "mensaje_sha256": "7999e6a13544c68c728e903eb70a99dc9863cb137f708fb94410185e969099d3",
+      "tipo_discord": 19,
+      "referencia": "1526023547024052304",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526023912503246858",
+      "texto_sha256": "c10dbf85c45edc2a2d5fccad05651f27ffc18b07a3f5d8bd767246f71cd28b80",
+      "adjuntos": []
+    },
+    {
+      "id": "1526024079482818580",
+      "fecha_utc": "2026-07-13T00:34:52.705000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: Millonario viejo, no milenario",
+      "mensaje_sha256": "cd57a16bbf3a02daa5e00317494bc78be82cbcf99a1c35949856bfcf4ecff96d",
+      "tipo_discord": 19,
+      "referencia": "1526023712699191356",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526024079482818580",
+      "texto_sha256": "c60693763725e20ed33f5745634beeb5ba4e65300bce2acc5c92cff573d32499",
+      "adjuntos": []
+    },
+    {
+      "id": "1526024153285787669",
+      "fecha_utc": "2026-07-13T00:35:10.301000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Coyote:\nTenía intenciones de volver pero me amarraron al palo, así que voy a aprovechar esta oportunidad para largarme de aquí \n\n**Me sacudí las patas**",
+      "mensaje_sha256": "8d7d1df6d253076ba9d45191413159ba64370e221f7f659aff8132264df125cb",
+      "tipo_discord": 19,
+      "referencia": "1526023912503246858",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526024153285787669",
+      "texto_sha256": "aede08b32c284ad25d1d52d958292962734f470a1542fba5a3bb3f7d48b14b4f",
+      "adjuntos": []
+    },
+    {
+      "id": "1526024355006386266",
+      "fecha_utc": "2026-07-13T00:35:58.395000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "812971350ce48ac7dbbd5bcf111ba8146de162c223afdeab6c1b3221cdac6062",
+      "tipo_discord": 19,
+      "referencia": "1526024079482818580",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526024355006386266",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1526024354289156137",
+          "nombre": "voice-message.ogg",
+          "tipo": "audio/ogg",
+          "archivo": "adjuntos/1526024354289156137.ogg",
+          "url": "rol_escrito/adjuntos/1526024354289156137.ogg",
+          "bytes": 28720,
+          "sha256": "b1ac2e09ed1723591ce8090872f31f2edf1ad83ed260c60cc4cf5af43531c11b"
+        }
+      ],
+      "transcripciones_audio": [
+        {
+          "mensaje_id": "1526024355006386266",
+          "campana": "xoltacan",
+          "audio_sha256": "b1ac2e09ed1723591ce8090872f31f2edf1ad83ed260c60cc4cf5af43531c11b",
+          "archivo_audio": "adjuntos/1526024354289156137.ogg",
+          "modelo": "faster-whisper-large-v3-turbo",
+          "motor": "faster-whisper",
+          "version_motor": "1.2.1",
+          "dispositivo": "cuda",
+          "idioma": "es",
+          "duracion": 7.54,
+          "segmentos": [
+            {
+              "inicio": 0.3,
+              "fin": 7.28,
+              "texto": "Exacto. Yo ya soy millonario desde que tengo vuestra compañía."
+            }
+          ],
+          "texto": "Exacto. Yo ya soy millonario desde que tengo vuestra compañía.",
+          "nota": "Transcripción automática local de una nota de voz; puede contener errores y no identifica hablantes por sí sola."
+        }
+      ]
+    },
+    {
+      "id": "1526024361864204418",
+      "fecha_utc": "2026-07-13T00:36:00.030000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: Perfecto, tengo vacaciones de verte el hocico **Sonrie** Divertios el gatito y tu",
+      "mensaje_sha256": "27796bc779af5110e4726cb123a843b43a20642e791820fe2803ff584cf06eaa",
+      "tipo_discord": 19,
+      "referencia": "1526024153285787669",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526024361864204418",
+      "texto_sha256": "46e607664c572909b8d875dd07821ad0458bf6ea3c2f54436742b23d443029c7",
+      "adjuntos": []
+    },
+    {
+      "id": "1526024573206925455",
+      "fecha_utc": "2026-07-13T00:36:50.418000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: Ya deje de buscarte el sentido la verdad... **Dice sorprendentemente honesto**",
+      "mensaje_sha256": "8e4b1af71516b8416e72837489ab87b01e957fde67054e34af4f61ffcf51ef8e",
+      "tipo_discord": 19,
+      "referencia": "1526024355006386266",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526024573206925455",
+      "texto_sha256": "64de2ea54d6ae70e23575b4c278be74730ad5e90b26396bba334ba4ef5f9a73b",
+      "adjuntos": []
+    },
+    {
+      "id": "1526024720359755827",
+      "fecha_utc": "2026-07-13T00:37:25.502000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "cacf06c95f43d94be3d55d52318a50fd3b8dbc4224c362be90a6e3c130b38f8b",
+      "tipo_discord": 19,
+      "referencia": "1526024573206925455",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526024720359755827",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1526024720301031495",
+          "nombre": "voice-message.ogg",
+          "tipo": "audio/ogg",
+          "archivo": "adjuntos/1526024720301031495.ogg",
+          "url": "rol_escrito/adjuntos/1526024720301031495.ogg",
+          "bytes": 28008,
+          "sha256": "0de5c87faeac17e8884f9fa79472e28122a3c00d8dba39919d61ab819805b96c"
+        }
+      ],
+      "transcripciones_audio": [
+        {
+          "mensaje_id": "1526024720359755827",
+          "campana": "xoltacan",
+          "audio_sha256": "0de5c87faeac17e8884f9fa79472e28122a3c00d8dba39919d61ab819805b96c",
+          "archivo_audio": "adjuntos/1526024720301031495.ogg",
+          "modelo": "faster-whisper-large-v3-turbo",
+          "motor": "faster-whisper",
+          "version_motor": "1.2.1",
+          "dispositivo": "cuda",
+          "idioma": "es",
+          "duracion": 7.26,
+          "segmentos": [
+            {
+              "inicio": 0.11,
+              "fin": 6.61,
+              "texto": "Oh, estabas haciendo el camino del sentido. Es un camino muy interesante."
+            }
+          ],
+          "texto": "Oh, estabas haciendo el camino del sentido. Es un camino muy interesante.",
+          "nota": "Transcripción automática local de una nota de voz; puede contener errores y no identifica hablantes por sí sola."
+        }
+      ]
+    },
+    {
+      "id": "1526024883979550720",
+      "fecha_utc": "2026-07-13T00:38:04.512000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: **Va a abrir la boca pero rectifica** Si, el camino del sinsentido",
+      "mensaje_sha256": "093f21ef0b3516ecfdbb2c481b9aed7e287c2dcef5dc4f10441acba5d3c1ece0",
+      "tipo_discord": 19,
+      "referencia": "1526024720359755827",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526024883979550720",
+      "texto_sha256": "0d6549ee770a56ee3e2bc057badfdb1ac370e7de43591ea1f45626b4f7658999",
+      "adjuntos": []
+    },
+    {
+      "id": "1526024963008499712",
+      "fecha_utc": "2026-07-13T00:38:23.354000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Coyote:\nTiene mucho sentido que lo digas\n\n**Afirmo con la cabeza mientras tomo de nuevo la cerveza**",
+      "mensaje_sha256": "6b8919466fa08846a7d37796bcb7eb0e58b7b310e788c9e828594f2eb46f0826",
+      "tipo_discord": 19,
+      "referencia": "1526024720359755827",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526024963008499712",
+      "texto_sha256": "f06ce4c32dff840dd6351fe3508f633e4cf535574dc4cdb0520ee9f6a112f164",
+      "adjuntos": []
+    },
+    {
+      "id": "1526025027810627676",
+      "fecha_utc": "2026-07-13T00:38:38.804000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "e586d4ff238c0c5b939e7932334452a969c1856ce0a1dc182afc45537d3f4884",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526025027810627676",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1526025027802103828",
+          "nombre": "voice-message.ogg",
+          "tipo": "audio/ogg",
+          "archivo": "adjuntos/1526025027802103828.ogg",
+          "url": "rol_escrito/adjuntos/1526025027802103828.ogg",
+          "bytes": 52994,
+          "sha256": "b357b5b99b8cc8821d727fb4be957ff6462daf85d72622c15edf50afcf642de8"
+        }
+      ],
+      "transcripciones_audio": [
+        {
+          "mensaje_id": "1526025027810627676",
+          "campana": "xoltacan",
+          "audio_sha256": "b357b5b99b8cc8821d727fb4be957ff6462daf85d72622c15edf50afcf642de8",
+          "archivo_audio": "adjuntos/1526025027802103828.ogg",
+          "modelo": "faster-whisper-large-v3-turbo",
+          "motor": "faster-whisper",
+          "version_motor": "1.2.1",
+          "dispositivo": "cuda",
+          "idioma": "es",
+          "duracion": 14.8,
+          "segmentos": [
+            {
+              "inicio": 0.27,
+              "fin": 3.25,
+              "texto": "¿El camino del sinsentido?"
+            },
+            {
+              "inicio": 5.15,
+              "fin": 7.31,
+              "texto": "Y ves como que tiene mucha atención a la misma."
+            },
+            {
+              "inicio": 8.03,
+              "fin": 12.5,
+              "texto": "No lo conozco."
+            },
+            {
+              "inicio": 12.84,
+              "fin": 14.52,
+              "texto": "Cuéntame más sobre él."
+            }
+          ],
+          "texto": "¿El camino del sinsentido? Y ves como que tiene mucha atención a la misma. No lo conozco. Cuéntame más sobre él.",
+          "nota": "Transcripción automática local de una nota de voz; puede contener errores y no identifica hablantes por sí sola."
+        }
+      ]
+    },
+    {
+      "id": "1526025130319544371",
+      "fecha_utc": "2026-07-13T00:39:03.244000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Naór : **cuando le dices gatito te mira seria ** \nporque en vez de faltar el respeto a los tres que estamos en la mesa no vas a cumolir esa promesa de enfrentarte a esa serpiente verde ? \n\nO es que sin Tryel no te vales por ti solo ..",
+      "mensaje_sha256": "72c2f8025eb0b730657c1901434a104583153b69e2641a00404de06971dcffe7",
+      "tipo_discord": 19,
+      "referencia": "1526024361864204418",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526025130319544371",
+      "texto_sha256": "2dbc2ef6fc5c3b0172eaace0038af085c5954018a0be539f1cc1966e9e696b75",
+      "adjuntos": []
+    },
+    {
+      "id": "1526025279468732528",
+      "fecha_utc": "2026-07-13T00:39:38.804000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: Se trata de creer lo contrario de lo que pensamos",
+      "mensaje_sha256": "e64c148d50955e630dd736efb9cb39478b01dbab4510e0d89f8205178914b9de",
+      "tipo_discord": 19,
+      "referencia": "1526025027810627676",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526025279468732528",
+      "texto_sha256": "bd649d92330752908d05896ec43da3f6006f296c45884cae1f6adfd473a297a9",
+      "adjuntos": []
+    },
+    {
+      "id": "1526025438550429747",
+      "fecha_utc": "2026-07-13T00:40:16.732000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Coyote:\n**Sorbito**\n\nHuuuuuuy~\n\n**Otro sorbito**\n\nMira viejo, ahora viene el camino de los putazos\n\n**Me pongo a lado del Tortas**\n\n<@297459767117611008>",
+      "mensaje_sha256": "1da1ce5a3d16e90d6fc5c2a7d05244bc4be8bac5ad8c15f05b7c8a07b69f74b4",
+      "tipo_discord": 19,
+      "referencia": "1526025130319544371",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526025438550429747",
+      "texto_sha256": "6876946dd79379648e00a7f2cd2986267191fff2922aa7d08f0a1f3c788059d8",
+      "adjuntos": []
+    },
+    {
+      "id": "1526025470380867765",
+      "fecha_utc": "2026-07-13T00:40:24.321000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "cd7d99f957e74f3491c60659bd867ab5f739b78504504156c01a212958bebcb5",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526025470380867765",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1526025470078881813",
+          "nombre": "voice-message.ogg",
+          "tipo": "audio/ogg",
+          "archivo": "adjuntos/1526025470078881813.ogg",
+          "url": "rol_escrito/adjuntos/1526025470078881813.ogg",
+          "bytes": 28559,
+          "sha256": "fad6398314c8eb9b3a02ff196a8acc2f7d97872a51a8014d14d25adc9aafbaa4"
+        }
+      ],
+      "transcripciones_audio": [
+        {
+          "mensaje_id": "1526025470380867765",
+          "campana": "xoltacan",
+          "audio_sha256": "fad6398314c8eb9b3a02ff196a8acc2f7d97872a51a8014d14d25adc9aafbaa4",
+          "archivo_audio": "adjuntos/1526025470078881813.ogg",
+          "modelo": "faster-whisper-large-v3-turbo",
+          "motor": "faster-whisper",
+          "version_motor": "1.2.1",
+          "dispositivo": "cuda",
+          "idioma": "es",
+          "duracion": 7.6,
+          "segmentos": [
+            {
+              "inicio": 0.53,
+              "fin": 7.27,
+              "texto": "No joven, ese es el camino de la contradicción. Te estás confundiendo."
+            }
+          ],
+          "texto": "No joven, ese es el camino de la contradicción. Te estás confundiendo.",
+          "nota": "Transcripción automática local de una nota de voz; puede contener errores y no identifica hablantes por sí sola."
+        }
+      ]
+    },
+    {
+      "id": "1526025864653836409",
+      "fecha_utc": "2026-07-13T00:41:58.323000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Tortas: me gusta el camino de los putazos \n\n**Y le da un sorbo a la cerveza también**",
+      "mensaje_sha256": "2a8ca24054c71e1be05f12a4449a01cc8df54120e3e74014c5320ecffd49349d",
+      "tipo_discord": 19,
+      "referencia": "1526025438550429747",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526025864653836409",
+      "texto_sha256": "7c0321def4fbea53fe246fb74a627f4fe94cb3b2b880ba6c503704c85146bfae",
+      "adjuntos": []
+    },
+    {
+      "id": "1526026147337605251",
+      "fecha_utc": "2026-07-13T00:43:05.720000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: **Te fulmina con la mirada perdiendo la sonrisa de travieso** ¿Por que no has sido capaz aun de reunir a todas las tribus? ¿Por que si es importante estas aqui desayunando tranquila? Si quieres reprenderme hazlo cuando tenga sentido",
+      "mensaje_sha256": "cf66b8f74a8c8a165a05b541ae320cad8efe4f4a703f65b8c96486924bdb5f9d",
+      "tipo_discord": 19,
+      "referencia": "1526025130319544371",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526026147337605251",
+      "texto_sha256": "67aa14e2d4bcb106032748c0d2a9d50b5da6975c44762902027ee235e01751fe",
+      "adjuntos": []
+    },
+    {
+      "id": "1526026819239936270",
+      "fecha_utc": "2026-07-13T00:45:45.914000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Coyote:\nAhora están en el camino de ver quién la tiene más gorda\n\n**Le doy otro sorbito y choco mi tarro con el de Tortas**\n\nQuién crees que pierda el camino de la tranquilidad?",
+      "mensaje_sha256": "63e1deeeedc92e70a3f43b8c3c9f34861b23648d6801525f888cfa7ddd848218",
+      "tipo_discord": 19,
+      "referencia": "1526025864653836409",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526026819239936270",
+      "texto_sha256": "5b4a9156b061687d687351e5a9c0b5cab1065d26f2dcd5aaf5bf20e53380e23d",
+      "adjuntos": []
+    },
+    {
+      "id": "1526026877079261206",
+      "fecha_utc": "2026-07-13T00:45:59.704000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-13T00:46:25.077000+00:00",
+      "texto": "Naór : **sonrie al ver que se te ha quitado la sonrisita de superioridad**\nEntonces Coyote , si tu sabes el camino y Tenta tambien creo que podriamos llegar sin problemas . \n\nAnciano Tortas . \nYo querria pedirle si le gustaria acompañarnos el camino de no agarrarme a una palmera cuando toque el agua ... \n**lo dice con un poco de verguenza **",
+      "mensaje_sha256": "a060c4064badf93e66291e5df2796e1875ab0cb267b106a03074db35295b84aa",
+      "tipo_discord": 19,
+      "referencia": "1526026147337605251",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526026877079261206",
+      "texto_sha256": "2a93e5c5c299566fc8374d53870ca87e253c8d2a265098acee90eff29ecca94b",
+      "adjuntos": []
+    },
+    {
+      "id": "1526027240977207297",
+      "fecha_utc": "2026-07-13T00:47:26.464000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Tortas: por supuesto, cuando quieres empezar? Ese camino es de los del principio, te será fácil",
+      "mensaje_sha256": "521b160fbf7124a674ec6314ca6a54fe09bafb02a9707cdb3c80eaf710da80d1",
+      "tipo_discord": 19,
+      "referencia": "1526026877079261206",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526027240977207297",
+      "texto_sha256": "cd2b36284fbafbc7dee7df54f83df8794756a1214fc89ef69740f5a2c50954c7",
+      "adjuntos": []
+    },
+    {
+      "id": "1526027301127454791",
+      "fecha_utc": "2026-07-13T00:47:40.805000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: **Levanta el labio levemente y toma cafe**",
+      "mensaje_sha256": "64613ceb790554126647e5a10eee3ce356bd1e40c8db4e37ccf267b59901cd0d",
+      "tipo_discord": 19,
+      "referencia": "1526026877079261206",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526027301127454791",
+      "texto_sha256": "2e3eb97cd20969e95f48c98ecce4f7e74847181baf706a1b08224f0031472862",
+      "adjuntos": []
+    },
+    {
+      "id": "1526027592971456532",
+      "fecha_utc": "2026-07-13T00:48:50.386000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "8e3fd487f85a0ceb00a6e323ad6772c35f01cab02766be9c6f16496229ea94a8",
+      "tipo_discord": 19,
+      "referencia": "1526026819239936270",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526027592971456532",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1526027592568799303",
+          "nombre": "voice-message.ogg",
+          "tipo": "audio/ogg",
+          "archivo": "adjuntos/1526027592568799303.ogg",
+          "url": "rol_escrito/adjuntos/1526027592568799303.ogg",
+          "bytes": 87245,
+          "sha256": "ba26052282f3876b83f34d1f7ac35cefd46e272695c986d968edc6313d613add"
+        }
+      ],
+      "transcripciones_audio": [
+        {
+          "mensaje_id": "1526027592971456532",
+          "campana": "xoltacan",
+          "audio_sha256": "ba26052282f3876b83f34d1f7ac35cefd46e272695c986d968edc6313d613add",
+          "archivo_audio": "adjuntos/1526027592568799303.ogg",
+          "modelo": "faster-whisper-large-v3-turbo",
+          "motor": "faster-whisper",
+          "version_motor": "1.2.1",
+          "dispositivo": "cuda",
+          "idioma": "es",
+          "duracion": 23.62,
+          "segmentos": [
+            {
+              "inicio": 0.24,
+              "fin": 11.34,
+              "texto": "Coyote, tus caminos siempre son muy obscenos. No los comparto, la verdad, pero tampoco los juzgo."
+            },
+            {
+              "inicio": 12.44,
+              "fin": 23.1,
+              "texto": "Y bueno, sobre el camino de la tranquilidad, diría que ese elfo no tiene mucha paciencia. Confío más en bigotitos."
+            }
+          ],
+          "texto": "Coyote, tus caminos siempre son muy obscenos. No los comparto, la verdad, pero tampoco los juzgo. Y bueno, sobre el camino de la tranquilidad, diría que ese elfo no tiene mucha paciencia. Confío más en bigotitos.",
+          "nota": "Transcripción automática local de una nota de voz; puede contener errores y no identifica hablantes por sí sola."
+        }
+      ]
+    },
+    {
+      "id": "1526027809829421096",
+      "fecha_utc": "2026-07-13T00:49:42.089000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "**y le mete un buen trago a la cerveza**",
+      "mensaje_sha256": "0370f80ae173923078210ea3eec6cf6cd09e98314146d00d459edc8b3e414088",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526027809829421096",
+      "texto_sha256": "f354a5cb4c9845f8e7f85a753cefa9161c14d9398705f93bfb2276b58a2f0897",
+      "adjuntos": []
+    },
+    {
+      "id": "1526027878334988398",
+      "fecha_utc": "2026-07-13T00:49:58.422000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-13T00:50:44.667000+00:00",
+      "texto": "Naór : cuanto antes ... \nNo debo ausentarme mucho en Iktan . \nEspero la llegada de un emisario de mi rei .\n\nDeberia haber llegado hace semanas ... pero ...",
+      "mensaje_sha256": "a67382477879ef97514a0e1a14a96a6256354d3509bbc94591c172e27291e4fb",
+      "tipo_discord": 19,
+      "referencia": "1526027240977207297",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526027878334988398",
+      "texto_sha256": "20ebd8de88785b0a4bfc6b8dbd65ab4e04463c3807bc134582de7fd7d0140b15",
+      "adjuntos": []
+    },
+    {
+      "id": "1526028341579219125",
+      "fecha_utc": "2026-07-13T00:51:48.868000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: **Gruñe por lo bajo** Vive bajo el mismo techo con mi hermana... Q te toque a ti dormir en el suelo cuando solo hay una cama y te ponga su pie en la cara... **Mas gruñidos sin sentido grrrrrr**",
+      "mensaje_sha256": "593501bbf09debab75b99a4119c88e8b55b15c4928b9a2c483f809d60814feee",
+      "tipo_discord": 19,
+      "referencia": "1526027592971456532",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526028341579219125",
+      "texto_sha256": "bdda76afae48d1e19f55aaf5e94796c5f7679f8027720042f387b2049a9bf261",
+      "adjuntos": []
+    },
+    {
+      "id": "1526028417659572316",
+      "fecha_utc": "2026-07-13T00:52:07.007000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Coyote:\nJe, lo sé \n\n**Me acabo la cerveza de un trago**",
+      "mensaje_sha256": "20faf92b5bfc3c37a082501e8f0ad381723de24a5e527b703b16482bc0fb19be",
+      "tipo_discord": 19,
+      "referencia": "1526027592971456532",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526028417659572316",
+      "texto_sha256": "162ae2b0c7993f0d172ab99a8dda44b924136175ae88c4a067c5b19c78e15707",
+      "adjuntos": []
+    },
+    {
+      "id": "1526028584408584284",
+      "fecha_utc": "2026-07-13T00:52:46.763000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: **Gruñidos gruñidosos de elfo gruñon**",
+      "mensaje_sha256": "e4026789b34a014fca2565de035e1537eb77790191b37a021b2eb067767a86c6",
+      "tipo_discord": 19,
+      "referencia": "1526028417659572316",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526028584408584284",
+      "texto_sha256": "83fd0f6bf1fc30229205ae0edd065fbf71cb9da00db628d705a47219fc61a58e",
+      "adjuntos": []
+    },
+    {
+      "id": "1526028609867747440",
+      "fecha_utc": "2026-07-13T00:52:52.833000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Tortas: muy bien, no hay tiempo que perder entonces.\n\n**Se bebe la sopa de tortuga de un trago**\n\n**Y se levanta y le dice a Naor**\n\nAcompáñame vamos a empezar el camino de no agarrarte a una palmera cuando toques agua",
+      "mensaje_sha256": "1434993bdd3f1ac7eb9e07979f8990e7db37878f1195ae0d22b8577b74de57f2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526028609867747440",
+      "texto_sha256": "6a92e3e41282f3d60c17fa4cb9bad7aa2e8cc7de92dca8ae85854f26113a0c6a",
+      "adjuntos": []
+    },
+    {
+      "id": "1526028909194252328",
+      "fecha_utc": "2026-07-13T00:54:04.198000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Coyote:\n**Intento no reírme muy fuerte, ya que la última vez que lo hizo, Tortas se enojó bastante y no quiero que vuelva a suceder, así que solo se me puede ver una mueca por el esfuerzo que estoy haciendo**",
+      "mensaje_sha256": "ad363cf5ab1ca998fd4d33acffd813dbe90bceb3837b0ca129c0fc6e56148fa5",
+      "tipo_discord": 19,
+      "referencia": "1526028584408584284",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526028909194252328",
+      "texto_sha256": "aac26595b4dba601b0b8f97d0c14c357e804ac081f9788b44310af9b2e6c0759",
+      "adjuntos": []
+    },
+    {
+      "id": "1526029124395597955",
+      "fecha_utc": "2026-07-13T00:54:55.506000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: **Te fulmina con la mirada cruzandose los brazos sobre su pecho**",
+      "mensaje_sha256": "a63dc890c78aba83d4ab930e0108200c1ab537eceb299573bd345d39bf2bfff4",
+      "tipo_discord": 19,
+      "referencia": "1526028909194252328",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526029124395597955",
+      "texto_sha256": "13388238d2c77725189ba9908d875bfaa9b8d81888135a7ee50da2ed3ee0e9da",
+      "adjuntos": []
+    },
+    {
+      "id": "1526029144838897784",
+      "fecha_utc": "2026-07-13T00:55:00.380000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "**se escucharía como tortas va hablando solo entusiasmado fuera de la taberna sobre el camino de no agarrarte a una palmera cuando tocas agua**",
+      "mensaje_sha256": "9cdfcb01cbe8a9a29f4e9ce28c9d2fd542a6758be8e647c3a659233ec665ff28",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526029144838897784",
+      "texto_sha256": "ffbda12de58281f0cbb7a163690f7144b71fab09824dde9a220c48ad4e45ce88",
+      "adjuntos": []
+    },
+    {
+      "id": "1526029517930496025",
+      "fecha_utc": "2026-07-13T00:56:29.332000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "(dando por hecho que <@616683133374562304> le seguiría)",
+      "mensaje_sha256": "3f89dcd65cd8b7c97edf2dab382c7e2e76e23e46eca1369d1d45b9ff0388ad09",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526029517930496025",
+      "texto_sha256": "dc2bf4abded3dbd57635e74b2e4a2d1d7c6efa8e601c50b7ca5d180760841b30",
+      "adjuntos": []
+    },
+    {
+      "id": "1526029618044469378",
+      "fecha_utc": "2026-07-13T00:56:53.201000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Coyote:\n**Dejo el tarro mientras voy intentando salir de la taberna, sigo haciendo gestos de esfuerzo cada vez que piso**\n\nM..m... Miau",
+      "mensaje_sha256": "3ff9b581e9c9f609fdf7eb1f7644d5b940abd04e8e1c7f2ca336e99630debd43",
+      "tipo_discord": 19,
+      "referencia": "1526029124395597955",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526029618044469378",
+      "texto_sha256": "dc3d9464b7d4419ee189958c96edb17332370b718ed075a0524d592d507da2c3",
+      "adjuntos": []
+    },
+    {
+      "id": "1526029779894276217",
+      "fecha_utc": "2026-07-13T00:57:31.789000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: **Se levanta, llevandose otro cuenco de sopa de tortuga, tiene bastante hambre**",
+      "mensaje_sha256": "67d49ab39eca24b31c16ad36663c8f7a13872431a717bd6b482d62d374fe558e",
+      "tipo_discord": 19,
+      "referencia": "1526029144838897784",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526029779894276217",
+      "texto_sha256": "be7ef1363bf7684ae2755abcaa38eecb4585d934c21f77e6a77e2a06da01dbcf",
+      "adjuntos": []
+    },
+    {
+      "id": "1526030041585160313",
+      "fecha_utc": "2026-07-13T00:58:34.181000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: **Cuando sale... se espera a que salgas para pisarte la cola sin que el resto le vean y recupera un poco la sonrisa** ¿Que dijiste no te escuche?",
+      "mensaje_sha256": "db2c3d28592ed18a10007cfc0314db0d79c8125f8c604402fda06b6d31e68366",
+      "tipo_discord": 19,
+      "referencia": "1526029618044469378",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526030041585160313",
+      "texto_sha256": "78981e4ebb9b88d4de3877ddad14d9b96fe3c64b266f4a8200e77603ab198b7a",
+      "adjuntos": []
+    },
+    {
+      "id": "1526030331076018306",
+      "fecha_utc": "2026-07-13T00:59:43.201000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Coyote:\n**Suelto un ahullido por el pisotón en la cola, pero eso no me quita la mueca burlona del rostro**\n\nAparte de todo sordo, dije: Miau",
+      "mensaje_sha256": "972a8377dae6dbd8bd589bd49e22c05d5b5ecee1d30941a96bc661929d568a30",
+      "tipo_discord": 19,
+      "referencia": "1526030041585160313",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526030331076018306",
+      "texto_sha256": "0d520c9b1d7267f46ffd8a9c6211019d92da57cea0c1b7949c00b0458b3079e3",
+      "adjuntos": []
+    },
+    {
+      "id": "1526030389167263914",
+      "fecha_utc": "2026-07-13T00:59:57.051000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "4eb28474ede1d46ec27613acb9b5582fd95efefb604adcc1b8f6c5fd8c4aa92a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526030389167263914",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1526030388873396304",
+          "nombre": "voice-message.ogg",
+          "tipo": "audio/ogg",
+          "archivo": "adjuntos/1526030388873396304.ogg",
+          "url": "rol_escrito/adjuntos/1526030388873396304.ogg",
+          "bytes": 36547,
+          "sha256": "9fcec58863db93d60962edd4c1698974eb8debe927f4f22ffb36e4d7640caa4a"
+        }
+      ],
+      "transcripciones_audio": [
+        {
+          "mensaje_id": "1526030389167263914",
+          "campana": "xoltacan",
+          "audio_sha256": "9fcec58863db93d60962edd4c1698974eb8debe927f4f22ffb36e4d7640caa4a",
+          "archivo_audio": "adjuntos/1526030388873396304.ogg",
+          "modelo": "faster-whisper-large-v3-turbo",
+          "motor": "faster-whisper",
+          "version_motor": "1.2.1",
+          "dispositivo": "cuda",
+          "idioma": "es",
+          "duracion": 13.58,
+          "segmentos": [
+            {
+              "inicio": 0.18,
+              "fin": 2.38,
+              "texto": "Bueno, Rolga, la cosa es muy importante."
+            }
+          ],
+          "texto": "Bueno, Rolga, la cosa es muy importante.",
+          "nota": "Transcripción automática local de una nota de voz; puede contener errores y no identifica hablantes por sí sola."
+        }
+      ]
+    },
+    {
+      "id": "1526030669766066237",
+      "fecha_utc": "2026-07-13T01:01:03.951000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: Si lo se no te salvo de aquel tronco **Levanta el labio y va con la tortuga**",
+      "mensaje_sha256": "bd4c6ffd9b6fb5b4534d6c55c098c8757a9dfc5d2d6afa6c6f528782c4be1271",
+      "tipo_discord": 19,
+      "referencia": "1526030331076018306",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526030669766066237",
+      "texto_sha256": "321f3cab5af89cd6db6a9caa01b5e72d74efce4256ef35a7f2719f51e8a56514",
+      "adjuntos": []
+    },
+    {
+      "id": "1526031122457165945",
+      "fecha_utc": "2026-07-13T01:02:51.881000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: Espera anciano **Corre detras de ti para alcanzarte**",
+      "mensaje_sha256": "7b9c202af1e5c91c583352bf9028bec4a80aca37fda505535563c561deb58d99",
+      "tipo_discord": 19,
+      "referencia": "1526030389167263914",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526031122457165945",
+      "texto_sha256": "95dd3614b63ab60c111552f24368e80b6741c3190fda29425dd39bf36f22bb31",
+      "adjuntos": []
+    },
+    {
+      "id": "1526031352514871476",
+      "fecha_utc": "2026-07-13T01:03:46.731000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "c14c09806fb77a3a164d9216bcb02063a96a5bc04d0531a7f97cc966ea30a244",
+      "tipo_discord": 19,
+      "referencia": "1526031122457165945",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526031352514871476",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1526031352074600629",
+          "nombre": "voice-message.ogg",
+          "tipo": "audio/ogg",
+          "archivo": "adjuntos/1526031352074600629.ogg",
+          "url": "rol_escrito/adjuntos/1526031352074600629.ogg",
+          "bytes": 66402,
+          "sha256": "043c34427d93cde8418ddbb104838a78d306b158cb34154c7e758f9ba5be8acf"
+        }
+      ],
+      "transcripciones_audio": [
+        {
+          "mensaje_id": "1526031352514871476",
+          "campana": "xoltacan",
+          "audio_sha256": "043c34427d93cde8418ddbb104838a78d306b158cb34154c7e758f9ba5be8acf",
+          "archivo_audio": "adjuntos/1526031352074600629.ogg",
+          "modelo": "faster-whisper-large-v3-turbo",
+          "motor": "faster-whisper",
+          "version_motor": "1.2.1",
+          "dispositivo": "cuda",
+          "idioma": "es",
+          "duracion": 17.82,
+          "segmentos": [
+            {
+              "inicio": 0.3,
+              "fin": 9.56,
+              "texto": "Porque claro, esto es una cosa que tienes que tener en cuenta, cuando estás haciendo los caminos, si no tienes en cuenta esto, puedes cometer un fallo horrible."
+            },
+            {
+              "inicio": 9.56,
+              "fin": 17.78,
+              "texto": "Ten en cuenta que los caminos vienen como si estuvieran en el norte, vienen unos más cerca que otros, y luego viene un camino, y luego hay otro camino."
+            }
+          ],
+          "texto": "Porque claro, esto es una cosa que tienes que tener en cuenta, cuando estás haciendo los caminos, si no tienes en cuenta esto, puedes cometer un fallo horrible. Ten en cuenta que los caminos vienen como si estuvieran en el norte, vienen unos más cerca que otros, y luego viene un camino, y luego hay otro camino.",
+          "nota": "Transcripción automática local de una nota de voz; puede contener errores y no identifica hablantes por sí sola."
+        }
+      ]
+    },
+    {
+      "id": "1526031518189879437",
+      "fecha_utc": "2026-07-13T01:04:26.231000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Naór : **llevaria un rato entrando y saliendo del agua , escuchando los consejos de Tortas . Pero le es superior a ella . Por naturaleza le es muy dificil meterse sin tener esa ansiedad **",
+      "mensaje_sha256": "95b51e7049c45c28b18a386345256bb6937e593b7f0911f1c69efecab1f588f4",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526031518189879437",
+      "texto_sha256": "26a3a6042665a295686367f7b62118cf63298b6d7f2d8b908fd8ded41c637b4f",
+      "adjuntos": []
+    },
+    {
+      "id": "1526031642727153826",
+      "fecha_utc": "2026-07-13T01:04:55.923000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Coyote:\n**Voy caminando hacia el lago, sobandome la cola**\n\nTonto elfo alzado, por eso me voy a tirar a su hermana \n\n**Me recargaba en la palmera viendo de nuevo el espectáculo**",
+      "mensaje_sha256": "ea122219ddc31da97e5ae9fc59104ae2417ec451fa71f883b7abe697d3029802",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526031642727153826",
+      "texto_sha256": "52e1b0fd55ec7d39fe4ce4c7014f7fb06d7e60a45c5a7767df4c99edcff02af4",
+      "adjuntos": []
+    },
+    {
+      "id": "1526031963289288754",
+      "fecha_utc": "2026-07-13T01:06:12.351000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: ...**Frunce el ceño levemente cuando ve eso...** ¿Puedo... preguntarte por que haces eso? Se te ve... que tienes miedo al agua",
+      "mensaje_sha256": "88ea00138423c215dbf5e01ebb0993edd25c572ecbd0938dab74874f6935df84",
+      "tipo_discord": 19,
+      "referencia": "1526031518189879437",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526031963289288754",
+      "texto_sha256": "9aab12907f826e581d456ed0f3688742f576ff285e440d673cc69ba710a99543",
+      "adjuntos": []
+    },
+    {
+      "id": "1526032082885677126",
+      "fecha_utc": "2026-07-13T01:06:40.865000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "dd2829b7ecf4c4a5351662395d1f6d342d04a69003367a43b4d90ec63611525b",
+      "tipo_discord": 19,
+      "referencia": "1526031518189879437",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526032082885677126",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1526032082529288202",
+          "nombre": "voice-message.ogg",
+          "tipo": "audio/ogg",
+          "archivo": "adjuntos/1526032082529288202.ogg",
+          "url": "rol_escrito/adjuntos/1526032082529288202.ogg",
+          "bytes": 54043,
+          "sha256": "05d2c711eb45bc98e3ba797d4b8773a897573053139b24e9c3f5324860d211bd"
+        }
+      ],
+      "transcripciones_audio": [
+        {
+          "mensaje_id": "1526032082885677126",
+          "campana": "xoltacan",
+          "audio_sha256": "05d2c711eb45bc98e3ba797d4b8773a897573053139b24e9c3f5324860d211bd",
+          "archivo_audio": "adjuntos/1526032082529288202.ogg",
+          "modelo": "faster-whisper-large-v3-turbo",
+          "motor": "faster-whisper",
+          "version_motor": "1.2.1",
+          "dispositivo": "cuda",
+          "idioma": "es",
+          "duracion": 13.98,
+          "segmentos": [
+            {
+              "inicio": 0.0,
+              "fin": 13.8,
+              "texto": "Mira, bigotitos, uno de los puntos principales en el camino de no subirte a una palmera cuando entras en el agua es que no haya palmeras. Así que dame un segundito."
+            }
+          ],
+          "texto": "Mira, bigotitos, uno de los puntos principales en el camino de no subirte a una palmera cuando entras en el agua es que no haya palmeras. Así que dame un segundito.",
+          "nota": "Transcripción automática local de una nota de voz; puede contener errores y no identifica hablantes por sí sola."
+        }
+      ]
+    },
+    {
+      "id": "1526032290541469871",
+      "fecha_utc": "2026-07-13T01:07:30.374000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "**le va metiendo puñetazos a las palmeras de alrededor para que se caigan los árboles**",
+      "mensaje_sha256": "aa97ee85ab643b1d8f49814688f7ded86fa8555593fc4a5de6cf901e8b1700aa",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526032290541469871",
+      "texto_sha256": "7b7a825080354c4de47beec3feb55a863bd50a25a08708b8b1744fcabb737521",
+      "adjuntos": []
+    },
+    {
+      "id": "1526032408464457933",
+      "fecha_utc": "2026-07-13T01:07:58.489000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "**mientras le iría hablando sobre el camino de no subirse a una palmera cuando entras en el agua**",
+      "mensaje_sha256": "58142441071da7813ee33274500318501df18f7ccbbb4fed78adbeacf7ed50aa",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526032408464457933",
+      "texto_sha256": "1f276220a0f98c874f17f991adac6858d9c24d0f221e669096e729f5ef0623d7",
+      "adjuntos": []
+    },
+    {
+      "id": "1526032712820064546",
+      "fecha_utc": "2026-07-13T01:09:11.053000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-13T01:10:09.605000+00:00",
+      "texto": "Naór : QUE NO ME DA MIEDO !!!\n\nes solo que ... \n**escucha a Tortas y es como si su neurona conectase **\n\nClaroooooo..... \nAnciano tortas  <@297459767117611008> ... gracias por la sabiduria ... \n\n**se une a el a la poda de las palmeras de la costa **",
+      "mensaje_sha256": "5f45a5df70010f07b1095cca37ace6297d3b9dc95c4de8bde2cdec4640aaec08",
+      "tipo_discord": 19,
+      "referencia": "1526031963289288754",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526032712820064546",
+      "texto_sha256": "8403061dad414f564a08aca32598a803a2b7d7599b341184af3925d414be7273",
+      "adjuntos": []
+    },
+    {
+      "id": "1526032944169357502",
+      "fecha_utc": "2026-07-13T01:10:06.211000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Coyote:\nEH!! EH!!, AL MENOS ESPERA QUE ME QUITE!!\n\n**Salgo corriendo al otro lado, alejándome de las palmeras que están cayendo de una en una**",
+      "mensaje_sha256": "11c805a4782bc614293a3e17773247a1491efda2c6b31cebc836cc0ae471e88e",
+      "tipo_discord": 19,
+      "referencia": "1526032290541469871",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526032944169357502",
+      "texto_sha256": "7bf132e72d501ba71c98c62b9574c588edebab4d7ace68b83a410877f3ecf643",
+      "adjuntos": []
+    },
+    {
+      "id": "1526032997969821696",
+      "fecha_utc": "2026-07-13T01:10:19.038000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-13T01:11:28.548000+00:00",
+      "texto": "Tortas: Y bueno Bigotitos ahora que no hay palmeras intenta entrar al agua <@616683133374562304>",
+      "mensaje_sha256": "f10e472e474c3d7d29427652c5cd1ba6633fce691ec8211caaaa2ab6dade39ab",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526032997969821696",
+      "texto_sha256": "a767205ef849bfdbaeeab17ee0abc93a44234b28c047a753ce6fc04acb2eb4f9",
+      "adjuntos": []
+    },
+    {
+      "id": "1526033160905818244",
+      "fecha_utc": "2026-07-13T01:10:57.885000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: ESO ES MIEDO **Dice con un suspiro y despues mira a <@408026114548695061> **",
+      "mensaje_sha256": "479cac83abd1cf6226f5617d570bcd7b93d5a830b717dc447dfe4c1f3cad7637",
+      "tipo_discord": 19,
+      "referencia": "1526032712820064546",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526033160905818244",
+      "texto_sha256": "40fb4db9f652af1e6320842b52d0f84e627db3e0bb3d741d6c175b0ce6e2db7f",
+      "adjuntos": []
+    },
+    {
+      "id": "1526033410290876577",
+      "fecha_utc": "2026-07-13T01:11:57.343000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Coyote:\n\n**Miro a Eldrath y le saco el dedo de enmedio**\n\nQué tanto me ves?",
+      "mensaje_sha256": "67c44473b1b50231664109a0f2deffc92bd647d61b8783a647a2be949315f693",
+      "tipo_discord": 19,
+      "referencia": "1526033160905818244",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526033410290876577",
+      "texto_sha256": "09273fdc4f1420bd5f6e84fcf36ce9954a2f040db9ceac5d72f9b5fbef786aae",
+      "adjuntos": []
+    },
+    {
+      "id": "1526033625663930368",
+      "fecha_utc": "2026-07-13T01:12:48.692000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: La cara de estupido de siempre nada nuevo **Desvia la mirada a Naor y a la tortuga con un semblante serio**",
+      "mensaje_sha256": "dc21109e0e849bbece3432b27dcdacfb1cd3e00c75737423d1248166075f8871",
+      "tipo_discord": 19,
+      "referencia": "1526033410290876577",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526033625663930368",
+      "texto_sha256": "a34591af3edc0b8c6ece4f8e2e33a542210aac132acc541c889ee944e1d7a630",
+      "adjuntos": []
+    },
+    {
+      "id": "1526033755545014362",
+      "fecha_utc": "2026-07-13T01:13:19.658000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Naór : **y lo intenta . Avanza mas que antes pero no se mete por completo ** \n\n*joder naór ...*\n\n\nEspera ... \n\nCOYOTE !! \n\nno pensaba que te diria esto nunca . \n\nPuede entrar al agua e insultarme ?",
+      "mensaje_sha256": "ff1a7f648b2e9c42e0f91b546bab8243085c7af0004a51228b59169d2d0f2aa4",
+      "tipo_discord": 19,
+      "referencia": "1526032944169357502",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526033755545014362",
+      "texto_sha256": "8805396e79a05c1cdcebc0d2e18624ae4231581924c092e82acc0b28355c88d5",
+      "adjuntos": []
+    },
+    {
+      "id": "1526033934360641536",
+      "fecha_utc": "2026-07-13T01:14:02.291000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Coyote:\nY aún así me ves, como se nota que quieres que te dé\n\n**Me quedé hecho piedra y voltee lentamente hacia Naór**\n\nQ..que..que qué?!",
+      "mensaje_sha256": "f1acfead37f62e8dc18a6cf9f7f1f03223b2bd2361a0326ab0e592934489ca3f",
+      "tipo_discord": 19,
+      "referencia": "1526033625663930368",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526033934360641536",
+      "texto_sha256": "632ccabd9b169acaa21ffe51308dcf51fb75078c3699402e7dc38b1ca77ff1b0",
+      "adjuntos": []
+    },
+    {
+      "id": "1526034200577179710",
+      "fecha_utc": "2026-07-13T01:15:05.762000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: No te ha dado suficientemente duro la leona **Ves que se quita la camisa y los zapatos para meterlos en la bolsa y va llendo hacia el agua**",
+      "mensaje_sha256": "918ee7897b11d84824de2fbd502b0a49c81fbea3bd60c19a702046224c354f90",
+      "tipo_discord": 19,
+      "referencia": "1526033934360641536",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526034200577179710",
+      "texto_sha256": "c6e038c5219f6105e8c6189db4e309829dc011fc0360a9d8f8383658938e2517",
+      "adjuntos": []
+    },
+    {
+      "id": "1526034215001657344",
+      "fecha_utc": "2026-07-13T01:15:09.201000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "**Tortas está completamente concentrado en el camino de no subirse a una palmera cuando entras en el agua**",
+      "mensaje_sha256": "c450020388ffe7a54a4905ae19d6dc907aecf5abad22b6f755ccb8d4d654bf45",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526034215001657344",
+      "texto_sha256": "27c75e6575aa8a84da8001eb8e93701d5ada43779248a0ff9f840ce7bc64ee3b",
+      "adjuntos": []
+    },
+    {
+      "id": "1526034223201259571",
+      "fecha_utc": "2026-07-13T01:15:11.156000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Naór: quete metas al agua ... \nY hagas las estupideces de siempre . Dime algo que me enfade lo que sea .. \n\n**dice cabizbaja y sonrojada**",
+      "mensaje_sha256": "27b6a7f8bb86e1f1a6ac39bea4a0d04de836298e507485daee2350521c38fdae",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526034223201259571",
+      "texto_sha256": "9ac4213f33eeb03645b3cb784e54ed62833cf5622b29d96a1f69c25042638242",
+      "adjuntos": []
+    },
+    {
+      "id": "1526034367472730275",
+      "fecha_utc": "2026-07-13T01:15:45.553000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "c9f847395c106ee50e00dcc4aff12d4858d5cb79621329322ea291fd5e49d97b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526034367472730275",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1526034367150035135",
+          "nombre": "voice-message.ogg",
+          "tipo": "audio/ogg",
+          "archivo": "adjuntos/1526034367150035135.ogg",
+          "url": "rol_escrito/adjuntos/1526034367150035135.ogg",
+          "bytes": 122022,
+          "sha256": "9597df7fc8225385e1a0873aafe9eac2ed9b480c786cc0858ae909485b2f0258"
+        }
+      ],
+      "transcripciones_audio": [
+        {
+          "mensaje_id": "1526034367472730275",
+          "campana": "xoltacan",
+          "audio_sha256": "9597df7fc8225385e1a0873aafe9eac2ed9b480c786cc0858ae909485b2f0258",
+          "archivo_audio": "adjuntos/1526034367150035135.ogg",
+          "modelo": "faster-whisper-large-v3-turbo",
+          "motor": "faster-whisper",
+          "version_motor": "1.2.1",
+          "dispositivo": "cuda",
+          "idioma": "es",
+          "duracion": 31.3,
+          "segmentos": [
+            {
+              "inicio": 0.72,
+              "fin": 12.52,
+              "texto": "La segunda parte principal del camino de no subirte a una palmera, cuando entras en el agua, una vez que no tenemos palmeras, sería entrar al agua."
+            },
+            {
+              "inicio": 12.9,
+              "fin": 20.48,
+              "texto": "Entonces ves que sale su forma astral, salen las manos de la forma astral, empezarías como a levitar del suelo, ¿vale?"
+            },
+            {
+              "inicio": 20.72,
+              "fin": 30.5,
+              "texto": "Porque con las manos astrales está enganchado, nahor, y te vas acercando al agua. Esa es la idea."
+            },
+            {
+              "inicio": 30.72,
+              "fin": 31.72,
+              "texto": "Gracias."
+            }
+          ],
+          "texto": "La segunda parte principal del camino de no subirte a una palmera, cuando entras en el agua, una vez que no tenemos palmeras, sería entrar al agua. Entonces ves que sale su forma astral, salen las manos de la forma astral, empezarías como a levitar del suelo, ¿vale? Porque con las manos astrales está enganchado, nahor, y te vas acercando al agua. Esa es la idea. Gracias.",
+          "nota": "Transcripción automática local de una nota de voz; puede contener errores y no identifica hablantes por sí sola."
+        }
+      ]
+    },
+    {
+      "id": "1526034639926464645",
+      "fecha_utc": "2026-07-13T01:16:50.511000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "(Como una grúa)",
+      "mensaje_sha256": "c94de2ad4cd4edfcbc7dc0e60d0eeb9fca05cb76e6de945ca5ee66bb5988b90d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526034639926464645",
+      "texto_sha256": "03a530d06b49b5ec37cb7fd4572c78d798e80a3834066dce7900a2767e57723f",
+      "adjuntos": []
+    },
+    {
+      "id": "1526034867664453744",
+      "fecha_utc": "2026-07-13T01:17:44.808000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: *Esto no va a salir bien...* **Por si las moscas va metiendose al agua por un lado... por si las moscas**",
+      "mensaje_sha256": "91464c5f592f64c32c73798162c87944e88e5a76b31fa5702feec08108a0bd87",
+      "tipo_discord": 19,
+      "referencia": "1526034367472730275",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526034867664453744",
+      "texto_sha256": "769557f8a88f2746ef6cada8b5e29519fe41173634696ddf0de98edfb8fd25ac",
+      "adjuntos": []
+    },
+    {
+      "id": "1526034959159001108",
+      "fecha_utc": "2026-07-13T01:18:06.622000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Naór : **esta acojonada , esta con las patas recogidas para que no toquen el agua y sojetando la cola con la mano **",
+      "mensaje_sha256": "5781fb02986f9bdce164331b1c7b717633acb34e0b7d85a7164e3ba7f61ed460",
+      "tipo_discord": 19,
+      "referencia": "1526034367472730275",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526034959159001108",
+      "texto_sha256": "cc9b05e487c4eab7e52e78d7329355ea7deb1d9828a006507fb0a2d129b3112f",
+      "adjuntos": []
+    },
+    {
+      "id": "1526035133180678235",
+      "fecha_utc": "2026-07-13T01:18:48.112000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "**Y ya cuando llega a una zona que cubre el cuerpo entero de Naor te deja caer al agua**",
+      "mensaje_sha256": "535ae141b4c3f7210bf5744de4ccc55657221a9275904d40678da74a2323ed95",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526035133180678235",
+      "texto_sha256": "6a782891324732f8148482e108a4c72177ce55e0c138570fb0748482e1273545",
+      "adjuntos": []
+    },
+    {
+      "id": "1526035176109375558",
+      "fecha_utc": "2026-07-13T01:18:58.347000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-13T01:19:29.538000+00:00",
+      "texto": "Coyote:\nAh pues bueno\n\n**Justo cuando estaba a punto de entrar al agua, veo a Eldrath haciendo lo mismo y le sonrió**\n\nNo seas celoso Elfito, es que la gatita ya ha probado lo que es bueno~\n\n**Y veo el cuerpo de Naór flotando hacia el agua**\n\nA ver, ahí voy, VIENE VIENE VIENEEEE!!, QUIEBRELE, QUIEBRELE!!\n\n**tal cual como con las grúas, voy indicando que va bajando Naór al agua**",
+      "mensaje_sha256": "5c1802b44b519c1978834c2efb4f023a7d1c5fa69cd2ee56b9d402850337b3a2",
+      "tipo_discord": 19,
+      "referencia": "1526034223201259571",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526035176109375558",
+      "texto_sha256": "d1fb83d6abc03c41eb5523f43ee675574a6312837ba561b7995814c201d1ebc8",
+      "adjuntos": []
+    },
+    {
+      "id": "1526035347530842254",
+      "fecha_utc": "2026-07-13T01:19:39.217000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: **Suspira** Por favor que sepa nadar...",
+      "mensaje_sha256": "29d1c5a555731c65272554e8ad78e815fe57d4dc0e5a024a984da3db3eacd23c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526035347530842254",
+      "texto_sha256": "c1038117f5ae7d2adccf2cb1be3ddf42e26cb3c18e1d6f657c40f5f24e6a4df0",
+      "adjuntos": []
+    },
+    {
+      "id": "1526035466259005472",
+      "fecha_utc": "2026-07-13T01:20:07.524000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Naór : **suelta un maullido enorme y patalea ** \n\nQue no que no que no que no que no que no",
+      "mensaje_sha256": "40f0fd00eb54cdf00a5c8389b102dc9ddda547801bc3b840347cf8f119913844",
+      "tipo_discord": 19,
+      "referencia": "1526035176109375558",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526035466259005472",
+      "texto_sha256": "640179b0c95517a952ef1e8b1fec3a021cad2d667f79a71282892c1380ef31de",
+      "adjuntos": []
+    },
+    {
+      "id": "1526035669775028456",
+      "fecha_utc": "2026-07-13T01:20:56.046000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Coyote:\nNo seas cobarde gatita, baja inmediatamente al agua o me voy a tener que comer a besos a tu amiga la palida\n\n**Empezaba a chincharle**",
+      "mensaje_sha256": "47952aef2ea1481206df79c2c3efb809f5cf6cb9f706cbd652245c79c3ddafc5",
+      "tipo_discord": 19,
+      "referencia": "1526035466259005472",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526035669775028456",
+      "texto_sha256": "a4fe8bc464c6794d28f0d52c502e85aebc2a9e30290bc6b5aef474b68b793034",
+      "adjuntos": []
+    },
+    {
+      "id": "1526035925996535868",
+      "fecha_utc": "2026-07-13T01:21:57.134000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-13T01:22:32.805000+00:00",
+      "texto": "Eldrath: Asi no va superarlo nunca idiotas, segundo no eres su tipo y tercero... no te lo recomiendo... **Mira atenta a la gatita q tiene miedo de lo que viene**",
+      "mensaje_sha256": "25d484530ae996452c64a95aa249c896cb5327b2a96e6616c7ede89f448c19f8",
+      "tipo_discord": 19,
+      "referencia": "1526035669775028456",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526035925996535868",
+      "texto_sha256": "2032814b6315d7a33947b54715ee4f45dc0d55ae71a49226cb647febb91c3b53",
+      "adjuntos": []
+    },
+    {
+      "id": "1526036009190690988",
+      "fecha_utc": "2026-07-13T01:22:16.969000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-13T01:22:35.734000+00:00",
+      "texto": "**La mano suelta a Naor y va cayendo al agua**",
+      "mensaje_sha256": "b778f8cf9533fe307af5c17981b375de7446d9e67552d806046fe9784748c44a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526036009190690988",
+      "texto_sha256": "dea1db6db65722ddbead6eca34e06274010e659b94cec14811de855804e90b5a",
+      "adjuntos": []
+    },
+    {
+      "id": "1526036313449697290",
+      "fecha_utc": "2026-07-13T01:23:29.510000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Coyote:\nNAÓR!!, SI NO APRENDES A NADAR, ME VOY A SECUESTRAR AL CONEJITO QUE TE ACOMPAÑA Y LE VOY A ENSEÑAR A SER TODO UN GIGOLO!!",
+      "mensaje_sha256": "0860efbfc8a70064a2496d61723cb2e883847ccebe201006c46d1efbb24ddc2a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526036313449697290",
+      "texto_sha256": "0ab0915a2b900d705a71b89329a6da48eec9738a6be598c6507b8393b3240262",
+      "adjuntos": []
+    },
+    {
+      "id": "1526037205343010956",
+      "fecha_utc": "2026-07-13T01:27:02.154000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-13T01:27:48.207000+00:00",
+      "texto": "Naór : **la cara es de deseperación  absoluta . Va viendo que cae al agua y agita los brazos como si fuese a volar para no caer hasta que cae al agua y como la otra vez .\n\nEn ese momento antes de caer escucha a coyote y cae sumergiendose . \n\nSe va hundiendo como una roca. \nPero poco a poco desde fuera se ve  el agua agitandose . Poco a poco sale el rostro de Naor del agua con los ojos totalmente afilados clavado en Coyote . \nSuelta un gran rugido y entra en furia . \n\nEmpieza a nadar con la motivacion suficiente y necesaria para hacerlo bien . Las ansias de matar a coyote por sus palabras y que no hay palmeras cerca , hacen que la leona empiece a nadar **",
+      "mensaje_sha256": "d0416f4ea25b36899a15ccfba17220e06f619fe862ce955591ca7c326f2c75d8",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526037205343010956",
+      "texto_sha256": "b1fbd99840a8bde413fa1e734aa9c3238d6e014a58b83e16fc0c22ef58633e77",
+      "adjuntos": []
+    },
+    {
+      "id": "1526037638706888757",
+      "fecha_utc": "2026-07-13T01:28:45.476000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Eldrath: **Suelta un suspiro... No sabe si es de alivio** A HACER EJERCICIO COYOTE METETE AL AGUA Y QUE TE PERSIGA POR ELLA, COMO LLEGE A TIERRA ESTAS MUERTO <@408026114548695061>",
+      "mensaje_sha256": "029a9274b989f2ef5168c65cf60f7f26784ea97329b360fb0a35c943da74269c",
+      "tipo_discord": 19,
+      "referencia": "1526037205343010956",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526037638706888757",
+      "texto_sha256": "b57dce47cfbad109704129ad4a2e50c73682b30ae14c1080509e3fecebab7a34",
+      "adjuntos": []
+    },
+    {
+      "id": "1526037699809644585",
+      "fecha_utc": "2026-07-13T01:29:00.044000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Coyote:\n**Me transformé en una de las sirenas y empecé a nadar con mucha desesperación**\n\nLE VOY A ENSEÑAR DE TODO LO QUE SE TIENE QUE METER Y VA A SER TODO UN PROSTITUTO!!\n\n*NADA COYOTE, NADA!*",
+      "mensaje_sha256": "d3f43ce45647bca000ed3cbdfb15006404ab0e5633ed24f51ce413bff70e3ec5",
+      "tipo_discord": 19,
+      "referencia": "1526037205343010956",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526037699809644585",
+      "texto_sha256": "70a8d0f9dfe5956757c96ae8dcf33c534d657feb95f72214b48cf5ad940f18a0",
+      "adjuntos": []
+    },
+    {
+      "id": "1526038160167927929",
+      "fecha_utc": "2026-07-13T01:30:49.802000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "**Tortas los mira como un padre con los hijos en la piscina a lo lejos y sonrie mientras se retira hacia su piedra, el trabajo está hecho**",
+      "mensaje_sha256": "8dd4747d9049b7fa73a8d5ed7e48699392413c2db94541f1bfb5b42ec87512b6",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526038160167927929",
+      "texto_sha256": "b4f0e058a6a45214adcd5b154eefb4848b28f3bbe64a6b8ea3acfb0ba0642a25",
+      "adjuntos": []
+    },
+    {
+      "id": "1526038581183909939",
+      "fecha_utc": "2026-07-13T01:32:30.180000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-13T01:34:11.561000+00:00",
+      "texto": "Eldrath: **Va llendo con la tortuga a tierra... Porque Naor no matara a Coyote ¿No? Bueno si eso pasa tratara de intervenir** ...¿Oye te gustaria completar otro camino?",
+      "mensaje_sha256": "098bc7bb95c5f39ad7a1b3b0f85a93882d295354ab93ef96dd1fc12a124fa391",
+      "tipo_discord": 19,
+      "referencia": "1526038160167927929",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526038581183909939",
+      "texto_sha256": "beabd535c07878b7fd478540cde7b9b26fcc41e25048fd8e5ad7dcecf01afc08",
+      "adjuntos": []
+    },
+    {
+      "id": "1526038922042409152",
+      "fecha_utc": "2026-07-13T01:33:51.447000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-13T01:35:48.035000+00:00",
+      "texto": "Naór : ** nada toda velocidad con los ojos inyectados en sangre y los colmillos asomando . Obviamente la sirena es muchisimo más rapida y ágil . Aún así las ansias de matar no cesan . Le tira lanzas y hachas bajo el agua , baja al fondo marino y se impulsa con fuerza hacia arriba para coger aire y volver a la persecucion . \n\nSin darse cuenta Naor está aprendiendo tanto a nadar como a combatir bajo el agua . Gracias al camino de no subirse a una palmera cuando toca el agua y al camino del odio al cánido .**",
+      "mensaje_sha256": "8af2e1a2a6fb0b1660e2bdb9c837bc1a1c7bc99cc61761dc76dacea405383e89",
+      "tipo_discord": 19,
+      "referencia": "1526037699809644585",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526038922042409152",
+      "texto_sha256": "89f35d85f9ce85ce876719947fe09aad1f41e1c4169669b89f0520b262d1792c",
+      "adjuntos": []
+    },
+    {
+      "id": "1526039237475041391",
+      "fecha_utc": "2026-07-13T01:35:06.652000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "Tortas: No es recomendable hacer varios caminos sin un poco de meditación entre medias\n\n**(Para tortas un poco son 10 días)**",
+      "mensaje_sha256": "233649dc14cb88912524aa1f0b2f64f17395091e0787fba04cf7f32019f3eb52",
+      "tipo_discord": 19,
+      "referencia": "1526038581183909939",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526039237475041391",
+      "texto_sha256": "a4023f7e7015c89f281548de2087a88cba4b91fbaa659a5dc89f91fe22d6d341",
+      "adjuntos": []
+    },
+    {
+      "id": "1526039997374005338",
+      "fecha_utc": "2026-07-13T01:38:07.826000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": "2026-07-13T01:39:10.124000+00:00",
+      "texto": "Eldrath: **Levanta una ceja** Entiendo... Pero me debes un par de explicaciones... Tengo unas cosas que contrastar contigo **Lo dice... algo mas serio que las veces que ha estado burlon contigo o el resto** Descansa viejo **Vuelve al agua, en su caso se sumerge y trata de seguiros muy por detras** <@616683133374562304> <@408026114548695061>",
+      "mensaje_sha256": "8d9812239fe4fd750d75edfde8159dabaf42f6878c5f8d78a48188e4d77375e4",
+      "tipo_discord": 19,
+      "referencia": "1526039237475041391",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526039997374005338",
+      "texto_sha256": "09542f71d05139e0a5437e43f002e3070a6b1340fbb3abdd25048db9b8fab64c",
+      "adjuntos": []
+    },
+    {
+      "id": "1526040446999072900",
+      "fecha_utc": "2026-07-13T01:39:55.025000+00:00",
+      "fecha_local": "2026-07-13",
+      "editado_utc": null,
+      "texto": "**La cámara se aleja entre todo ese ajetreo, Una tortuga descansando, Un Elfo sin respuestas, una posible cena de pescado si Coyote no nada rápido y una Leona que su impulso es el odio**\n\n🔴 Fin de la escena 🔴",
+      "mensaje_sha256": "08b5aa822e7fd42a98979f7a2e31f837a980fba1e13927272c2a7ad74a16b588",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1526040446999072900",
+      "texto_sha256": "0238bead62aaa51207e2e219a4a44c59764e3864053af1471eb8bfa0a5c936d4",
+      "adjuntos": []
+    }
+  ]
+}

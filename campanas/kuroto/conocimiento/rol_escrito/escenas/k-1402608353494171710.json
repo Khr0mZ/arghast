@@ -1,0 +1,80 @@
+{
+  "id": "k-1402608353494171710",
+  "campana": "kuroto",
+  "unidad_revision": "k-1402608353494171710",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Banzo intenta tomar el control",
+  "resumen": "El goliat vuelve a meditar junto al lago.",
+  "relato": "Después de pasar un rato con unas niñas no identificadas en este mensaje, Banzo se aleja y se sienta sobre una roca del lago de Sho. Piensa que debe tomar el control, cierra los ojos y agita unos huesos mientras intenta meditar. No se describe una respuesta ni un cambio en su situación.",
+  "participantes": [
+    "Banzo"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1402608353494171710",
+      "afirmacion": "Banzo medita con unos huesos y se propone asumir el control.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La conexión inicial está informada por Guxi, sin demostración en esta audiencia.",
+    "Los mercenarios, su lord y la anterior herida de Jelbreg son antecedentes relatados por Kalista; no se escenifican aquí.",
+    "Seraphina es destinataria del encargo por mediación de Guxi, no participante presente.",
+    "El marcador k-1404471513473618011 parece cerrar este tramo previo del hilo; se conserva como cierre aislado pendiente de integración."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2025-08-06T11:04:50.676000+00:00",
+  "fin_utc": "2025-08-06T11:04:50.676000+00:00",
+  "fecha_local": "2025-08-06",
+  "intervalo": {
+    "anterior": 142,
+    "siguiente": 143,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1400539301288349778",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1403077303029989558",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 142,
+        "fecha": "2025-07-31",
+        "inicio_referencia_utc": "2025-07-31T18:02:52+00:00",
+        "fin_estimado_utc": "2025-07-31T21:03:04+00:00",
+        "duracion_video_segundos": 10812,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1400539301288349778"
+      },
+      {
+        "capitulo": 143,
+        "fecha": "2025-08-07",
+        "inicio_referencia_utc": "2025-08-07T18:07:58+00:00",
+        "fin_estimado_utc": "2025-08-07T22:23:43+00:00",
+        "duracion_video_segundos": 15345,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1403077303029989558"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1402608353494171710",
+      "fecha_utc": "2025-08-06T11:04:50.676000+00:00",
+      "fecha_local": "2025-08-06",
+      "editado_utc": null,
+      "texto": "Banzo : **LAGO DE SHO** \n**Después de estar un rato con la niñas Banzo se ha alejado un poco y se ha sentado en una roca a meditar**\n*ellos tienen razón,  debo tomar el control* \n**banzo cierra los ojos y empieza a meditar agitando unos huesos con su mano **",
+      "mensaje_sha256": "431d4f54a29d193d1841cacf9d23b98b12b51cf19718ab753b07f92dacafa877",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1402608353494171710",
+      "texto_sha256": "9e0ee201b9988ca549c949c8bda4ac4ceb98e4fd9ade676c0ae9382d4f1809d5",
+      "adjuntos": []
+    }
+  ]
+}

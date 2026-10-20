@@ -1,0 +1,201 @@
+{
+  "id": "k-1418266414057390161",
+  "campana": "kuroto",
+  "unidad_revision": "k-1418229880730161254",
+  "hilo_id": "1387915737502580886",
+  "hilo_nombre": "Sho, Palacio del Shogunato - Capital de Kuroto",
+  "titulo": "El aviso de Tap",
+  "resumen": "La noticia de un apuñalamiento provoca una orden urgente de búsqueda.",
+  "relato": "Dos soldados sujetan a Tap, el mujina de la base, que logra gritar que Seraphina está herida. Kalista interrumpe el debate y ordena soltarlo. El animal intenta explicar lo ocurrido mediante gestos y, cuando ella le habla en silvano, afirma que el chico ninja le clavó un arma en el costado, dejó mucha sangre y huyó. Jelbreg abandona la mesa para acercarse. Kalista ordena buscar al cazador Kurobane, al que considera peligroso, con permiso de usar violencia y encontrarlo vivo o muerto. Se dirige enseguida a la salida y el drow la sigue. No se representa todavía atención a Seraphina, detención o enfrentamiento.",
+  "participantes": [
+    "Tap",
+    "Kalista",
+    "Jelbreg"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1418266414057390161",
+      "afirmacion": "Tap llega retenido por soldados y anuncia que Seraphina está herida.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1418268897966293166",
+      "afirmacion": "Relata en respuesta al silvano que el ninja la apuñaló y huyó.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1418269730564735016",
+      "afirmacion": "Kalista da la orden de búsqueda de Kurobane vivo o muerto.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1418270757531811980",
+      "afirmacion": "Jelbreg sale tras la Shogun.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Dos fases separadas por la irrupción del mensajero, con fuentes completas.",
+    "La sustitución de un día es un premio y encargo temporal, no una nueva sucesión definitiva.",
+    "El ataque se conoce por testimonio de Tap; aquí no se ve al agresor ni se verifica su estado mental.",
+    "La referencia a un premio previo no permite reconstruir la apuesta que lo produjo."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2025-09-18T16:04:23.227000+00:00",
+  "fin_utc": "2025-09-18T16:22:53.433000+00:00",
+  "fecha_local": "2025-09-18",
+  "intervalo": {
+    "anterior": 157,
+    "siguiente": 158,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1417940586811363481",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1418299599050899618",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 157,
+        "fecha": "2025-09-17",
+        "inicio_referencia_utc": "2025-09-17T18:29:21+00:00",
+        "fin_estimado_utc": "2025-09-17T21:15:50+00:00",
+        "duracion_video_segundos": 9989,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1417940586811363481"
+      },
+      {
+        "capitulo": 158,
+        "fecha": "2025-09-18",
+        "inicio_referencia_utc": "2025-09-18T18:15:55+00:00",
+        "fin_estimado_utc": "2025-09-18T20:58:06+00:00",
+        "duracion_video_segundos": 9731,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1418299599050899618"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1418266414057390161",
+      "fecha_utc": "2025-09-18T16:04:23.227000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": "2025-09-18T16:05:45.132000+00:00",
+      "texto": "**Mientras el tritón y el drow se baten en un duelo de palabras y Kalista los ve desde la mesa del té sonriente, se escucha un alboroto en la entrada de Palacio. Al volveros para mirar, veis a un par de soldados tritón sujetando con fuerza a uno de esos mujinas de la base de los cazadores. El pobre animal intenta zafarse de su agarre mordiendo y arañando, pero los tritones son demasiado fuertes**\nTap: Seraphina herida, Seraphina herida **Grita en un común un poco pobre**",
+      "mensaje_sha256": "510ac7a1606445c52b9688a7f2b7cf76dca743d07c99b43d20c1f4ce2007703b",
+      "tipo_discord": 19,
+      "referencia": "1418266096653438997",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1418266414057390161",
+      "texto_sha256": "8bea2d1994cef471d3e4aae89adec7679d7c532b802a9a32b4d2fe940f740156",
+      "adjuntos": []
+    },
+    {
+      "id": "1418267181866680410",
+      "fecha_utc": "2025-09-18T16:07:26.287000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": null,
+      "texto": "Kalista: **Deja de mirar la disputa de hombres para mirar hacia esos soldados triton. Se levanta rapido y se dirige a ellos** Soltarlo",
+      "mensaje_sha256": "ec529ef730bd5160cb55371b0894e8a471abcc177b83674dfe6e56c9e41fdfeb",
+      "tipo_discord": 19,
+      "referencia": "1418266414057390161",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1418267181866680410",
+      "texto_sha256": "8632b3d1c094ccf8dd2aaaa1213701983e8320b75964e4767900e376d4647a70",
+      "adjuntos": []
+    },
+    {
+      "id": "1418268102860345426",
+      "fecha_utc": "2025-09-18T16:11:05.869000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": null,
+      "texto": "Tap: **Los soldados lo sueltan y el animal sale a toda prisa hasta los pies de Kalista. Te empieza a intentar interpretar lo que ha ocurrido en la base mientras sigue diciendo en comun (lo hace como si fuera una obra de teatro)** Seraphina herida, Seraphina herida",
+      "mensaje_sha256": "e4bde78e4939f11f922be55668a64cda2391322fe4762cacc5f5eeed0dd30b00",
+      "tipo_discord": 19,
+      "referencia": "1418267181866680410",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1418268102860345426",
+      "texto_sha256": "2ab78e73d193ccf0d7e1be5319eee80f396bb6384d319cbcc76cfba6bc147aa4",
+      "adjuntos": []
+    },
+    {
+      "id": "1418268313343102977",
+      "fecha_utc": "2025-09-18T16:11:56.052000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": null,
+      "texto": "Kalista: calma **Habla en silvano** Y dime que ha ocurrido",
+      "mensaje_sha256": "7ac1ebf8cc8515db4d7caa1410b8c8cabdd294764d71074b7ffa83c56d5f876c",
+      "tipo_discord": 19,
+      "referencia": "1418268102860345426",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1418268313343102977",
+      "texto_sha256": "dd9e086ee394bc6e5be3d15844c807692689ef708895febf08ee102df6b0f996",
+      "adjuntos": []
+    },
+    {
+      "id": "1418268897966293166",
+      "fecha_utc": "2025-09-18T16:14:15.437000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": "2025-09-18T16:14:43.418000+00:00",
+      "texto": "Tap: El chico ninja a atacado a Seraphina. Le ha clavado su arma en el costado, estar muy herida. Mucha sangre, ella en peligro. El chico huir **Se le ve nervioso**\n\nJelbreg: **Ha visto la escena e ignorando a toda la mesa y a Whell, se dirige junto a vosotros** ¿Que pasa?",
+      "mensaje_sha256": "5fd27d4e7f221ef3380fb14b556eb029f4ef5524e48291eb9f6ccd1894cca7b8",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1418268897966293166",
+      "texto_sha256": "a8f1dada08117992ae92469a0f7a87b42f398ecb752ea666d54d8e0289b164ac",
+      "adjuntos": []
+    },
+    {
+      "id": "1418269123174994162",
+      "fecha_utc": "2025-09-18T16:15:09.131000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": null,
+      "texto": "<@753394009153732689>",
+      "mensaje_sha256": "7957e6749d7557e712dfe3e8f1b485efc090e7dda6e3701b7e2450a00a1b494f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1418269123174994162",
+      "texto_sha256": "890c9f37aeb3816906cf21c151cf25684b672d2a4159ba4e6fe706ef8e206891",
+      "adjuntos": []
+    },
+    {
+      "id": "1418269730564735016",
+      "fecha_utc": "2025-09-18T16:17:33.944000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": null,
+      "texto": "Kalista: **Abre los ojos como platos** ¡Soldados busquen al cazador Kurobane y encontrarlo! ¡Es peligroso, tienen permiso de usar la violencia si es necesario! ¡Vivo o muerto, pero hallarlo! **Se dirige rapido hacia la salida**",
+      "mensaje_sha256": "cc721645561ea06bf8c649ba01281f05f5a27eea0fff0089e389cc7a83216e38",
+      "tipo_discord": 19,
+      "referencia": "1418268897966293166",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1418269730564735016",
+      "texto_sha256": "f008c985fffc7d6cebb22b95e9354b962bc03f03a07d55b9870c216263c72a40",
+      "adjuntos": []
+    },
+    {
+      "id": "1418270757531811980",
+      "fecha_utc": "2025-09-18T16:21:38.792000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": null,
+      "texto": "Jelbreg: **El drow se sorprende pero esbozan una sonrisa malvada mientras sigue a Kalista** Ya era hora",
+      "mensaje_sha256": "2aebab1220ea5c7b78e879bcb216e90bbaae45cf4d40f919837ed4372da04099",
+      "tipo_discord": 19,
+      "referencia": "1418269730564735016",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1418270757531811980",
+      "texto_sha256": "92ae0b4c4de5062e3326979d54cc88b266f17509b6f2fe5d16cf2c057bbfd5b9",
+      "adjuntos": []
+    },
+    {
+      "id": "1418271070598725752",
+      "fecha_utc": "2025-09-18T16:22:53.433000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "e85b473047fcc6a439e317d7b835a860ebd2f25707cc4a8c13737373a838249a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1418271070598725752",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

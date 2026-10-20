@@ -1,0 +1,246 @@
+{
+  "id": "k-1364520790204350516",
+  "campana": "kuroto",
+  "unidad_revision": "k-1364520790204350516",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "El resentimiento de los soldados contra los Cazadores",
+  "resumen": "Los rumores del torneo provocan una disputa entre Kaniza y un soldado. El general Toyo Msushi corta la discusión y advierte al cazador sobre las tensiones crecientes.",
+  "relato": "Al Campamento Sur llegan historias, cada vez más adornadas, de un enorme semiorco que ayuda a los pueblos y es llamado campeón de Kuroto. Junto a una hoguera, otro rumor despierta indignación: unos soldados consideran un despilfarro el torneo y sus premios mientras ellos sobreviven con pan y carne seca.\n\nKaniza interviene para sugerir que el prestigio de los Cazadores podría atraer contribuciones de los nobles. Un soldado reconoce su emblema y lo acusa de pertenecer a los privilegiados del shogunato. La discusión escala: responsabiliza a los Cazadores de la guerra y repite que enfadaron a un Guardián y dañaron la cúpula protectora. Kaniza pide información concreta, insiste en que también está trabajando en el campamento y explica que acaba de incorporarse al grupo.\n\nEl general Toyo Msushi interrumpe a gritos. Exige respeto hacia los Cazadores y manda a los soldados volver a sus tareas, pero después advierte a Kaniza de que debe evitar disputas. Aunque reconoce su labor, constata que la población empieza a cuestionarla y amenaza con elevar una queja a Aka si vuelve a haber conflictos.",
+  "participantes": [
+    "Kaniza",
+    "Toyo Msushi",
+    "Soldados del Campamento Sur"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1364579765809582121",
+      "afirmacion": "Un soldado atribuye a rumores la responsabilidad de los Cazadores en el daño a la cúpula.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1364587518108110860",
+      "afirmacion": "Kaniza explica su incorporación reciente y las tareas que realiza en el campamento.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1364589814648672266",
+      "afirmacion": "Toyo Msushi detiene la disputa, exige respeto y advierte a Kaniza de posibles quejas a Aka.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Las acusaciones sobre los Guardianes y la cúpula son rumores y reproches de un soldado, no una conclusión demostrada por esta escena.",
+    "Se conserva la grafía Toyo Msushi del mensaje sin imponer una equivalencia externa."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-04-23T08:38:27.955000+00:00",
+  "fin_utc": "2025-04-23T13:12:44.665000+00:00",
+  "fecha_local": "2025-04-23",
+  "intervalo": {
+    "anterior": 107,
+    "siguiente": 108,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1364309009938645093",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1364670948451811419",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 107,
+        "fecha": "2025-04-22",
+        "inicio_referencia_utc": "2025-04-22T18:36:39+00:00",
+        "fin_estimado_utc": "2025-04-22T20:27:04+00:00",
+        "duracion_video_segundos": 6625,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1364309009938645093"
+      },
+      {
+        "capitulo": 108,
+        "fecha": "2025-04-23",
+        "inicio_referencia_utc": "2025-04-23T18:34:49+00:00",
+        "fin_estimado_utc": "2025-04-23T21:43:30+00:00",
+        "duracion_video_segundos": 11321,
+        "tipo_referencia": "aviso_de_contraste",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1364670948451811419"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida. Una hora tomada de un aviso con título discrepante se utiliza solo como referencia aproximada de ese día."
+  },
+  "fuentes": [
+    {
+      "id": "1364520790204350516",
+      "fecha_utc": "2025-04-23T08:38:27.955000+00:00",
+      "fecha_local": "2025-04-23",
+      "editado_utc": null,
+      "texto": "**Ha llegado a oídos del campamento del sur una noticia de un semiorco enorme con una gran maza y un hacha que está reparando casas destruidas por la guerra con madera recién cortada , incluso ha librado a algunos ciudadanos indefensos de ataques ataques, parece que le llaman el campeón de kuroto y cada vez más historias vienen de poblados más cercanos al sur**",
+      "mensaje_sha256": "7c0073d44bcca2ac7658d4781710ded11245972601db47c8ad2cf5ac54e060d1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1364520790204350516",
+      "texto_sha256": "0dac38999bbd86eaf559c73290148f1450f5b7cdf175f94e25ee4d39bb933cd3",
+      "adjuntos": []
+    },
+    {
+      "id": "1364521619325714463",
+      "fecha_utc": "2025-04-23T08:41:45.633000+00:00",
+      "fecha_local": "2025-04-23",
+      "editado_utc": null,
+      "texto": "**Las historias y murmullos recorren el campamento entre los soldados. Y como el telefono escacharrado, muchas ensarzan de mas la figura de dicho semiorco.... Pero seguro eso no sera un problema ¿No?**",
+      "mensaje_sha256": "533e1546b8fb69901acd303f96e1b7e62bfddc1a06beef8676984492445398f3",
+      "tipo_discord": 19,
+      "referencia": "1364520790204350516",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1364521619325714463",
+      "texto_sha256": "72ddc18e264db0e5834d2b7984d00b42399f2c5cd866dd90af4f0cd864230750",
+      "adjuntos": []
+    },
+    {
+      "id": "1364543123354681444",
+      "fecha_utc": "2025-04-23T10:07:12.593000+00:00",
+      "fecha_local": "2025-04-23",
+      "editado_utc": null,
+      "texto": "**Un grupo de soldados esta reunido en su descanso al lado de una pequeña hoguera con pequeños trozos de pan y carne seca** Habéis oído lo del torneo... Se gastan todo ese dinero en montar el torneo mientras nosotros que estamos aquí protegiendo el reino de ese maldito yokai ancestral y solo tenemos carne seca y pan para comer... **El soldado escupe al suelo** Además, se ve que una monstruosidad atacó durante el torneo y se tuvo que cancelar... Pero como participaron esos cazadores, los amigos del Shogun, se ve que les concedieron el título y les ofrecieron regalos... Regalos... Y nosotros pan con carne seca...",
+      "mensaje_sha256": "5dbb00ca405134c83d7a91bcb64b04b11fbfe68468512c5470dd5c5ec6315d55",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1364543123354681444",
+      "texto_sha256": "dc7fa157265e3c9a5b8cfe02360a0a13da45350b9cb41a8f5f745c1b3597e652",
+      "adjuntos": []
+    },
+    {
+      "id": "1364571797286027386",
+      "fecha_utc": "2025-04-23T12:01:08.991000+00:00",
+      "fecha_local": "2025-04-23",
+      "editado_utc": null,
+      "texto": "**Uno de los soldados del grupo (o al menos bastante parecido, teniendo en cuenta que venía a figurar en todas las rotaciones dese hacía unos días ya) estaba ocupado tostando un pan clavado en una rama junto al fuego, porque prefería al menos un toque de ceniza y de calcinado en su comida si podía elegir.**\n\nKaniza: Así es como funcionan los ricos **una mano con un trozo de carne se escurrió dentro de una cesta** *mromf, grmmmf* Tienen que convencer a otros ricos de que suelten la pasta de alguna forma, porque -por supuesto- \"hay que luchar contra literal el Rey Oscuro de los Yokais tratando de conquistar la nación\" no es bastante.\n\n**El ex-monje no escupió en el suelo. Tampoco le hizo falta, si algo solía hacer de vez en cuando era escupir lo que tenía dentro. A veces era necesario y hasta bueno para él y para el mundo, y a veces... eeeeeeeehhhhhhhh**\n\nKaniza: Míralo por el lado bueno. Al menos si los cazadores ganaron y atacó un monstruo, el dinero de la vieja guardia ahora llegará aquí en adelante, aunque sea por \"rendir honores\" y aparentar que todos están \"con la causa\". Grmf.",
+      "mensaje_sha256": "98c0737b98066c9b3551a63ce630b4e7134f9e8f2a0d4ea53af2cf703594e262",
+      "tipo_discord": 19,
+      "referencia": "1364543123354681444",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1364571797286027386",
+      "texto_sha256": "6758cec9b60f5ac9075336c680750a9344856fdf5667bc8fe0b70ca92986c151",
+      "adjuntos": []
+    },
+    {
+      "id": "1364576365327683594",
+      "fecha_utc": "2025-04-23T12:19:18.097000+00:00",
+      "fecha_local": "2025-04-23",
+      "editado_utc": null,
+      "texto": "**El soldado que ha hablado te mira fijamente, no te ha visto antes y no tienes pinta de soldado. Hace una mueca pensando que ya mandan aquí al sur a cualquiera... Te mira detenidamente y ve el símbolo de los Cazadores.** Oh vaya, aquí tenemos a uno de esos \"especiales del Shogunato...\" Seguro que le han dado un sueldo por estar aquí... **Mira a los demás riéndose** ¿Que mire el lado bueno? Se han gastado un dineral en montar el Torneo y además ha sido cancelado... Que dinero y que recursos van a enviar aquí al sur si ya se lo han gastado en esa... Celebración...",
+      "mensaje_sha256": "42c3795ff59bacab99b8222ced0d58b19cbb5b212eabf286d343d39fd39ed8bd",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1364576365327683594",
+      "texto_sha256": "5e2d40d55d5497853e6ebe937fcd4dca4c51b2af4833f9204696ac14a9fae500",
+      "adjuntos": []
+    },
+    {
+      "id": "1364578490195775569",
+      "fecha_utc": "2025-04-23T12:27:44.705000+00:00",
+      "fecha_local": "2025-04-23",
+      "editado_utc": "2025-04-23T12:29:18.109000+00:00",
+      "texto": "**Él sí lo había visto al otro antes, aunque fuera de haber coincicido con él. Y sí que parecía un soldado, llevaba todo el equipo que podía llevar un soldado. Menos la cesta en la cabeza, admitido. La cesta en la cabeza raras veces se consideraba equipo reglamentario.**\n\nKaniza: \"Especiales\", sí... **siguió calentando el pan al fuego, dejándolo un poco más** ¿Llegaba mucho dinero antes de que empezara el torneo? ¿Han cambiado las cosas aquí en ese sentido, con nuestros respetables kuge y honorables damas de la corte lloviéndonos de dinero antes?\n\n**Algunos de los demás sí lo conocían, era el hecho de haber estado ahí rotando desde que había llegado... y, sí, la cesta. Aunque preferiría que si alguien le reconociera fuera por lo primero, \"lleva una cesta en la cabeza\" seguía ayudando en eso.**\n\nKaniza: Ahora los niños ricos de turno tienen una razón para empezar a mover el culo y mandar algo, el hecho de que pueden mirarse mal unos a otros si no lo hacen después de toda esa mamada. Es una razón de mierda pero es una razón **se encogió de hombros**",
+      "mensaje_sha256": "76aa87981f33767ebcfcd4120015f467730eeb9322c12b183046b70d8fba31f8",
+      "tipo_discord": 19,
+      "referencia": "1364576365327683594",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1364578490195775569",
+      "texto_sha256": "0a8c59b8a2ea9c5b016071ae30ee6e88e1c8293472476efad6740c3aec885cc1",
+      "adjuntos": []
+    },
+    {
+      "id": "1364579765809582121",
+      "fecha_utc": "2025-04-23T12:32:48.835000+00:00",
+      "fecha_local": "2025-04-23",
+      "editado_utc": null,
+      "texto": "**El soldado lo mira desafiante** Antes? Para que había que mandar recursos antes a un asentamiento que se ha montado para detener el avance de un yokai que vosotros jurasteis acabar con él? El dinero se debería destinar a ayudar a la población y no en hacer torneos para que se lleven los premios los amigos del Shogunato... **Levanta la cabeza con soberbia** Además, se rumorea que el ataque en la ciudad es culpa vuestra, habéis enfadado a uno de los Guardianes y eso ha afectado a la cúpula que nos protegia... **Sonríe**",
+      "mensaje_sha256": "c483de8b16146f077848709b2647b80044b8da786b43fd485ec06e0867707585",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1364579765809582121",
+      "texto_sha256": "f24084b323bc2e2abc3bc7344106b0a74e7fb05f8dc5e8d55e1f01cb5ddf5bde",
+      "adjuntos": []
+    },
+    {
+      "id": "1364581218565488743",
+      "fecha_utc": "2025-04-23T12:38:35.199000+00:00",
+      "fecha_local": "2025-04-23",
+      "editado_utc": null,
+      "texto": "**Se encogió de hombros **\n\nKaniza: ¿Por qué había que mandar recursos a un asentamiento que te estás quejando de que *no tiene un duro*?\n\n**Hubiera levantado una ceja para responder al tipo, o al menos dirigirle una mirada ceñuda en plan \"a ver si cuidamos mejor la mierda\", pero las sutilezas del lenguaje visual se perdían a veces con un cubo en la cabeza.**\n\nKaniza: Ni idea de los rumores. Estoy muy ocupado tostando mi pan, pillando la sopa y haciendo las rondas para enterarme de eso. Cuéntanos qué es eso de qué ha pasado con los Guardianes...",
+      "mensaje_sha256": "41ee67021cb14d7bb690f2280a8902068bb8bfbafa0939ae13ebb23c16f2a0a9",
+      "tipo_discord": 19,
+      "referencia": "1364579765809582121",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1364581218565488743",
+      "texto_sha256": "e21258c20b59a7345ed85d41d43628680824c0dd8c6b164ddc68c53aed6374bb",
+      "adjuntos": []
+    },
+    {
+      "id": "1364582341036609566",
+      "fecha_utc": "2025-04-23T12:43:02.817000+00:00",
+      "fecha_local": "2025-04-23",
+      "editado_utc": null,
+      "texto": "**Te mira levantando una ceja** Me quejo de que no hay dinero y el poco que hay lo gastan para tonterías... Si hicierais vuestro trabajo ni haría falta este asentamiento y el pueblo no estaría como esta... **Sigue mirándote fijamente** ¿Ni idea de los rumores? ¿Eres Cazador y no sabes lo que hacen los de tu grupo? **Mira a sus compañero soldados señalando a Kaniza** Estos son los Cazadores del Shogunato, esos que nos iban a proteger, esos a los que se les paga para protegernos... Y no saben ni lo que hacen...",
+      "mensaje_sha256": "6ec08663af150bbca93cedcd6ef8503eadc954fe8b28c33e9ef641662c4971d3",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1364582341036609566",
+      "texto_sha256": "03a249d36105ec0431dfd5911175adcea97d0e97402676b56ef92219bd5a1639",
+      "adjuntos": []
+    },
+    {
+      "id": "1364583593057190020",
+      "fecha_utc": "2025-04-23T12:48:01.322000+00:00",
+      "fecha_local": "2025-04-23",
+      "editado_utc": null,
+      "texto": "**Se llevó el pan a la boca, tras mirarlo por unos instantes**\n\nKaniza: Ya. Pero el Rey de los Yokais no está muerto, así que hagan el trabajo o no, el nuestro no cambia. \n\n**Cronch, cronch.**\n\nKaniza: Hey, yo he preguntado. Estoy aquí destinado como tú **miró a los demás, igual que lo había hecho él. Era la hora de ver si en aquellos días había conseguido alguna clase de apoyo o no** ¿No tengo derecho a escuchar lo que pueda haber pasado para estar igual de preparado que los demás o qué?",
+      "mensaje_sha256": "7ef40a0b566b48c027f254f9d65194283675e6e433844f0e4893ea0d019bbc38",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1364583593057190020",
+      "texto_sha256": "acc06d55503cda12e75433182723d65fb8d0150cd53dcb6507e961a021c7091a",
+      "adjuntos": []
+    },
+    {
+      "id": "1364584733765537886",
+      "fecha_utc": "2025-04-23T12:52:33.288000+00:00",
+      "fecha_local": "2025-04-23",
+      "editado_utc": null,
+      "texto": "**El soldado te observa con su mirada de soberbia** Vuestro trabajo es acabar con ese yokai y como bien dices, aun no esta muerto. ¿Que se supone que habeis hecho todo este tiempo? ¿Engordar con el oro del Shogunato? Mires como lo mires, este asentamiento y esta guerra es por vuestra culpa, por no haber hecho vuestro trabajo cuando tocaba... **Sigue mirando a Kaniza** Pregúntale a tus compañeros, yo solo se que la cagasteis y ahora la cúpula esta rota...",
+      "mensaje_sha256": "d24afdc43e111c395ada8d35e3a8c0102fa9b0ceb3e6357ca564c2e23814abcf",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1364584733765537886",
+      "texto_sha256": "ade0f33054d7de867e87ac89822c577b42a806ffe7406519765f27d462ebfe48",
+      "adjuntos": []
+    },
+    {
+      "id": "1364587518108110860",
+      "fecha_utc": "2025-04-23T13:03:37.127000+00:00",
+      "fecha_local": "2025-04-23",
+      "editado_utc": "2025-04-23T13:04:40.393000+00:00",
+      "texto": "**No hay mirada de ese tipo de vuelta.**\n\nKaniza: El trabajo de los Cazadores es proteger a la gente de los yokai, sí. Y todo Kuroto prometió combatir al Rey Oscuro de los Yokai, si no recuerdo mal... **comentó** Pero yo no soy el que dice nada de eso, ni acusaría a soldados de ningún reino de no haber matado al tipo. Porque entiendo que prepararse para una amenaza así es difícil. Y porque no soy un capullo.\n\n*\"Bueno, a matizar eso...\"*\n\nKaniza: Respondiendo a tu pregunta, casi morir varias veces, sobre todo, y ahora sobre todo unirme al campamento. Hacer el trabajo que hay que hacer. Realizar las plegarias y los rituales de vez en cuando para alejar los malos vientos y los malos espíritus **comentó** No mucho más. Llevo en esto desde... eerrrrhhh... dos días antes de llegar al campamento. Y supongo que puedes preguntarle a la gente si quieres saber lo que he estado haciendo. Así que \"qué habéis estado haciendo\" no es una respuesta que te pueda dar\n\n*\"Ni que me importe, tampoco, para ser sincero. Además, probablemente la respuesta no me iba a gustar a mi tampoco, así que... más feliz para los dos\"*\n\nKaniza: Voy a preguntar, voy a preguntar. Pero ahora quiero saber sobre esto de la gente con la que estoy trabajando comentó a los demás ¿Alguien ha oído algo más sobre esto, o lo habíais oído antes...? **miró al tipo, girando la cabeza por unos instantes** Ah. Soy Kaniza.",
+      "mensaje_sha256": "0d571ba195caa6f85e6b697d2700eb9469b05e40b1f0562052577f6977d2041d",
+      "tipo_discord": 19,
+      "referencia": "1364584733765537886",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1364587518108110860",
+      "texto_sha256": "1c828ed7adee77102e1c75743b8f16a7b692f6f02543fcc56fa13c5fb120bd1f",
+      "adjuntos": []
+    },
+    {
+      "id": "1364589814648672266",
+      "fecha_utc": "2025-04-23T13:12:44.665000+00:00",
+      "fecha_local": "2025-04-23",
+      "editado_utc": null,
+      "texto": "¡BASTA! **Una fuerte y profunda voz recorre la zona de descanso, los soldados se levantan rapidamente y se ponen en posición. Es la voz del General Toyo Msushi que se acerca con su cara malhumorada** Cállate ya soldado, los Cazadores hacen mas de lo que estáis haciendo vosotros aquí, así que muestrales algo de respeto o me veré obligado a sacudirte... ¡Levantar, el descanso se ha acabado! **Mira a Kaniza y lo detiene mientas los soldados se marchan** Cazador... me da igual el tiempo que lleves aquí o en los Cazadores, las cosas se están caldeando y la población empieza a preguntarse que es aquello para lo que se os paga **Te mira muy profundamente, notas la mirada de desprecio pero sabes que no hará nada** así que si quieres permanecer aquí no te busques disputas, evítalas o me veré obligado a presentar mi queja a la Comandante Aka y no te va a gustar. Te lo aseguro. **Dicho esto se da la vuelta y se marcha dejando a Kaniza solo en la hoguera**\n🔴 Fin de Escena🔴",
+      "mensaje_sha256": "8ce47c1b5eb0529a9d5c352d499c6f9fe76c5460f129cda66b63505ee8202cec",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1364589814648672266",
+      "texto_sha256": "6601c2886a19e3c69116a17c81f8bf98e4617c153bd6ceba2f315fb124d69f1d",
+      "adjuntos": []
+    }
+  ]
+}

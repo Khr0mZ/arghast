@@ -1,0 +1,411 @@
+{
+  "id": "k-1438531124312936581",
+  "campana": "kuroto",
+  "unidad_revision": "k-1438531124312936581",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Atender a Arwen y decidir qué hacer",
+  "resumen": "El cuidado de la niña enmarca una conversación privada sobre Xyllya.",
+  "relato": "Arwen despierta con dolor abdominal y llama a Chilia. Shirz está a su lado y un sacerdote del shogunato atiende sus heridas. La niña intenta incorporarse porque cree que la Madre Cuervo se ha llevado a su amiga injustamente y que necesita encontrarla. El clérigo explica que Kazuki y Chani le contaron lo sucedido al traerla, y pide que se cure antes de ir a buscar a Xyllya. Kazuki, desde la puerta, apoya la necesidad de reposo. Arwen acepta a disgusto, sin dejar de preocuparse.\n\nFuera de la habitación, Shirz expone a Kazuki su interpretación del peligro: si la Dama Cuervo retiró la inmortalidad a Xyllya por intervenir en la muerte de la niña, su Marca de la Muerte podría haberse activado y ofrecer a Illmarrow un huésped vivo. Considera esa amenaza peor que Ootakemaru y concluye que deben matar a la shadar-kai para evitar una masacre. Kazuki admite que no se siente preparado para semejante adversario. El clérigo reconoce la dificultad, le pide avisar a los demás y espera que Arwen pueda perdonarlos.\n\nKazuki sale a reunir Cazadores, pero ve las almenaras y se inquieta por la coincidencia de amenazas. Shirz vuelve junto a la niña, le promete no dejarla sola y la abraza cuando se lo pide. La intención de matar a Xyllya permanece fuera del conocimiento declarado de Arwen y no se ejecuta aquí.",
+  "participantes": [
+    "Arwen",
+    "Shirz",
+    "Kazuki",
+    "Sacerdote del shogunato"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1438532243663618058",
+      "afirmacion": "Shirz y un sacerdote atienden a Arwen herida.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1438532782321176628",
+      "afirmacion": "Arwen afirma que la Madre Cuervo se llevó a Chilia y quiere buscarla.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1438534120056688722",
+      "afirmacion": "Shirz relaciona su preocupación con Xyllya y pide esperar a que sane.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1438536936129036410",
+      "afirmacion": "Shirz teme que la lich posea a la portadora de la Marca y pide hablar en privado.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1438540262455382037",
+      "afirmacion": "En privado, Shirz explica su hipótesis de inmortalidad retirada, marca activa y huésped de Illmarrow; propone matar a Xyllya.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1438541605156945940",
+      "afirmacion": "Kazuki expresa que no está preparado para combatir esa amenaza.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1438542691129622630",
+      "afirmacion": "Shirz pide avisar al grupo y espera que Arwen pueda perdonarlos.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1438543433265315893",
+      "afirmacion": "Kazuki sale a buscar a los demás y observa las almenaras.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1438544961611235460",
+      "afirmacion": "Shirz abraza a Arwen.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Chilia queda vinculada explícitamente por la conversación a Xyllya, sin crear una identidad diferente.",
+    "La cadena causal sobre la pérdida de inmortalidad, la activación y la posesión se presenta como interpretación de Shirz, no como ritual representado o diagnóstico probado aquí.",
+    "La propuesta de matar a Xyllya es una intención futura; no se inventa muerte ni rescate.",
+    "Arwen no participa en la conversación privada ni recibe una explicación de esa intención."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-11-13T14:09:06.652000+00:00",
+  "fin_utc": "2025-11-13T15:19:02.442000+00:00",
+  "fecha_local": "2025-11-13",
+  "intervalo": {
+    "anterior": 166,
+    "siguiente": 167,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438244036996628491",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438607930604781589",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 166,
+        "fecha": "2025-11-12",
+        "inicio_referencia_utc": "2025-11-12T19:07:55+00:00",
+        "fin_estimado_utc": "2025-11-12T22:08:14+00:00",
+        "duracion_video_segundos": 10819,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438244036996628491"
+      },
+      {
+        "capitulo": 167,
+        "fecha": "2025-11-13",
+        "inicio_referencia_utc": "2025-11-13T19:14:04+00:00",
+        "fin_estimado_utc": "2025-11-13T22:25:02+00:00",
+        "duracion_video_segundos": 11458,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438607930604781589"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1438531124312936581",
+      "fecha_utc": "2025-11-13T14:09:06.652000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": null,
+      "texto": "Arwen: CHILIA **Abre los ojos abruptamente mientas un dolor proveniente del estomago la recorre entera y la obliga a tumbarse de nuevo entre quejidos**",
+      "mensaje_sha256": "39d92bf7379cfc02b4b8b5d6a80cec96db4b5da7a17b858b73b4e6b9e7c7d0b4",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1438531124312936581",
+      "texto_sha256": "9d1cc738697ac1af352e74713b75cdd005ea388c98bb88d928ba4fa87f4092b1",
+      "adjuntos": []
+    },
+    {
+      "id": "1438532243663618058",
+      "fecha_utc": "2025-11-13T14:13:33.526000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": null,
+      "texto": "Shirz: Ey ey, tranquila pequeña, necesitas descansar **El shadar-kai está junto a la pobre niña mientras le agarra la mano. Al otro lado de la cama, un sacerdote del Shogunato pasa un paño húmedo por las heridas de Arwen.** Te pondrás bien **Acaba diciendo el Clérigo de la Muerte**",
+      "mensaje_sha256": "c7e951bba51834d8f46001f0d8e0f5241ab0cde7f072aa23bcc54c5822b2d410",
+      "tipo_discord": 19,
+      "referencia": "1438531124312936581",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1438532243663618058",
+      "texto_sha256": "e48a245b968467073a95c1945a6edaa7b303d6a37384bc21d8973400cfd5a496",
+      "adjuntos": []
+    },
+    {
+      "id": "1438532782321176628",
+      "fecha_utc": "2025-11-13T14:15:41.952000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": null,
+      "texto": "Arwen: Chilia, Chilia, se la ha llevado... Tengo que buscarla... Mama cuervo se enfado con ella... Pero no es justo... No hizo nada malo...**Trata de reincorporarse con lagrimitas en los ojos** Arwen tiene que buscarla",
+      "mensaje_sha256": "d19113d0690ffb577712af3d2df894ddc2410cb3a68e94597373909684597d7a",
+      "tipo_discord": 19,
+      "referencia": "1438532243663618058",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1438532782321176628",
+      "texto_sha256": "4a194fe693d7ccec4d6c6813e289eba548e4d95a35a445141948debeb2922e7c",
+      "adjuntos": []
+    },
+    {
+      "id": "1438534120056688722",
+      "fecha_utc": "2025-11-13T14:21:00.893000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": "2025-11-13T14:25:16.253000+00:00",
+      "texto": "Shirz: **Pone una expresión un poco extraña. Él es un clerigo de la Dama Cuervo y conoce bien los arrebatos de esta, pero no dice nada, es mejor no preocupar a la niña en su estado** Tranquila pequeña, Kazuki y Chani me lo han contado todo cuando te han traído aquí. **Te aprieta la manita** Pero ahora Arwen debe descansar, debe curarse antes de ir a buscar a Xyllya.\n<@240564189448503306> <@408026114548695061>",
+      "mensaje_sha256": "ceca41b40b79f9309fc52e6faf266cb01de35782afe0b901ea5305ab0cbde617",
+      "tipo_discord": 19,
+      "referencia": "1438532782321176628",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1438534120056688722",
+      "texto_sha256": "ddac4ff9201b446507479bc90c019553524d64dbc624fcbf7a7b678a678ad0be",
+      "adjuntos": []
+    },
+    {
+      "id": "1438534615504519229",
+      "fecha_utc": "2025-11-13T14:22:59.017000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": null,
+      "texto": "Arwen: pero Chilia no estar bien.... Necesita ayuda...",
+      "mensaje_sha256": "9d889301dbb76c7a45970a1835fedf734a341db4f5a4d500ab51c7375083524d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1438534615504519229",
+      "texto_sha256": "1ee2bc8793f4f7bf69f53586e89cdde37b8d791e41f88a6cd4d88614c0f5208f",
+      "adjuntos": []
+    },
+    {
+      "id": "1438535085023559791",
+      "fecha_utc": "2025-11-13T14:24:50.959000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": "2025-11-13T14:25:32.092000+00:00",
+      "texto": "Shirz: La buscaremos **Te muestra una sonrisa** Pero tu debes descansar",
+      "mensaje_sha256": "6f193f67634e5a4f991683030f160544414a5c27414b5fdde7b77168a98c7779",
+      "tipo_discord": 19,
+      "referencia": "1438534615504519229",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1438535085023559791",
+      "texto_sha256": "699888f5240a06fa52db0c6b751e83dc6c2dbed7c250a746916210e4f7f24712",
+      "adjuntos": []
+    },
+    {
+      "id": "1438535130774769866",
+      "fecha_utc": "2025-11-13T14:25:01.867000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": null,
+      "texto": "<@240564189448503306> <@408026114548695061>",
+      "mensaje_sha256": "af6b6a495a92903b095f206f87ee710bfa3303d90b9b41ace2655d5fbb9f88c1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1438535130774769866",
+      "texto_sha256": "854279652209f0c112044ac0f73f1a48de5da7589e10f39107afae8fe3e48248",
+      "adjuntos": [],
+      "no_narrativo": true,
+      "nota_editorial": "Contexto o marcador no narrativo; conservado en la exportación íntegra."
+    },
+    {
+      "id": "1438535565728420043",
+      "fecha_utc": "2025-11-13T14:26:45.568000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": null,
+      "texto": "Arwen: **Hace un puchero pero el dolor de estomago no la permite moverse apenas...**",
+      "mensaje_sha256": "f94a155cc63c8e2760498657c4f7efab077acef7b62526c2d0d0a5ae0ad11d54",
+      "tipo_discord": 19,
+      "referencia": "1438535085023559791",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1438535565728420043",
+      "texto_sha256": "504144f037fc0bd4b7683ae7a2a85dd8a077a12bbbe34ed3c2295df9f707e2ee",
+      "adjuntos": []
+    },
+    {
+      "id": "1438536073025290361",
+      "fecha_utc": "2025-11-13T14:28:46.517000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": null,
+      "texto": "Kazuki:\n\nEl señor Shirz <@214405113677217793> tiene razón, iremos a por ella, pero primero tienes que ponerte bien. De acuerdo, Arwen?\n\n**Dice preocupado desde el umbral de la puerta**",
+      "mensaje_sha256": "e996b2a8e9f52031b9f84448d0d7e0851855a9d29f9db8d6b8f72477f8faa32c",
+      "tipo_discord": 19,
+      "referencia": "1438535565728420043",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1438536073025290361",
+      "texto_sha256": "6e2235813ada9ba21892a304b96b5e4e6072fa9e1762b85c1be49991cec9f498",
+      "adjuntos": []
+    },
+    {
+      "id": "1438536936129036410",
+      "fecha_utc": "2025-11-13T14:32:12.297000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": null,
+      "texto": "Shirz: **El shadar-kai te mira fijamente. Puedes leer fácilmente su cara. Lo que le habéis contado sobre lo ocurrido en el bosque es un gran problema. Si esa lich ha poseído a la shadar-kai con la Marca de la Muerte, Ootakemaru es el menor de vuestros problemas. Te hace un gesto con la cabeza para luego hablar contigo en privado.** Ves, los compañeros nos ayudamos entre nosotros. Mientras tu descansas, encontraremos a Xyllya y la... la ayudaremos, vale? <@753394009153732689>",
+      "mensaje_sha256": "c28951e5d841f7861abcb2a700fac2abac2ab7d8ec50e975d02ed9bc5fa05f2f",
+      "tipo_discord": 19,
+      "referencia": "1438536073025290361",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1438536936129036410",
+      "texto_sha256": "00f4229d39ebf84499960a469b18b998691e59d0033b3c7ef075b364304f1613",
+      "adjuntos": []
+    },
+    {
+      "id": "1438537238043693159",
+      "fecha_utc": "2025-11-13T14:33:24.279000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": null,
+      "texto": "Arwen: **Trata de secarse las lagrimas y los moquitos que le caen asintiendo levemente**",
+      "mensaje_sha256": "b51fa97384966bb4b0bf8478242cf663397fafbb319662a6ac0791c8313f3015",
+      "tipo_discord": 19,
+      "referencia": "1438536936129036410",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1438537238043693159",
+      "texto_sha256": "36b2415dcbea9dd9e9a93027cf8ec5174a4e95d220a1e6c54a3c7e3b347e3f7c",
+      "adjuntos": []
+    },
+    {
+      "id": "1438537975532359792",
+      "fecha_utc": "2025-11-13T14:36:20.110000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": null,
+      "texto": "Shirz: **Te seca las lágrimas con un pañuelo y te acaricia las mejillas** No te preocupes, todo saldrá bien **Se levanta y mira al sacerdote del Shogunato y le hace una señal para que siga con las curaciones. Sale de la habitación y cierra la puerta para mirar a Kazuki** Tenemos un problema, joven Kazuki. <@240564189448503306>",
+      "mensaje_sha256": "bd0345dc14318f1ed1dff2d5ea7769e420bd19453a69b46ca89bd57a0841b93e",
+      "tipo_discord": 19,
+      "referencia": "1438537238043693159",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1438537975532359792",
+      "texto_sha256": "eca6baf2172bbff46bf998f1e6a3323028d4fdc278d4b935b4028e299e86c5d5",
+      "adjuntos": []
+    },
+    {
+      "id": "1438538802246320301",
+      "fecha_utc": "2025-11-13T14:39:37.214000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": "2025-11-13T14:40:48.652000+00:00",
+      "texto": "Kazuki:\n\nMe lo imagino, señor Shirz. Sigo sorprendido... Y aterrizado.\n\n**Dice preocupado mientras se sienta en una de las sillas**",
+      "mensaje_sha256": "7966dc0cf16b530e90cbe82a5109e8c6314ce416e68b6c922fdfcb81057c6db0",
+      "tipo_discord": 19,
+      "referencia": "1438537975532359792",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1438538802246320301",
+      "texto_sha256": "d51f8fa0334adbbefd7b96891e30ab0d25643731ad766ae4b437131a5a6ce125",
+      "adjuntos": []
+    },
+    {
+      "id": "1438540262455382037",
+      "fecha_utc": "2025-11-13T14:45:25.355000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": "2025-11-13T14:46:17.333000+00:00",
+      "texto": "Shirz: Si la Dama Cuervo ha expirado su favor a la Parca Xyllya por intervenir en la muerte de la pequeña, le ha privado de su inmortalidad. Y eso a activado su Marca.... Esas marcas necesitan de un huésped vivo para usarse, y era lo que evitaba que esa lich la pudiera usar pero... Ahora tiene un huésped... Y puede moldear la muerte del mundo a sus deseos **Mira a Kazuki mientras entrelaza sus dedos** Hay que matar a la shadar-kai. Ahora es mortal y es nuestra única manera de evitar que Illmarrow haga una masacre",
+      "mensaje_sha256": "877ca202645b426e8d8cd8ae1e99636c961e91561506320406a1e35b4caa6f59",
+      "tipo_discord": 19,
+      "referencia": "1438538802246320301",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1438540262455382037",
+      "texto_sha256": "f2fec172a00158b6f476808b7d2759f45dbb143b4386cc1758e76f2eee23f070",
+      "adjuntos": []
+    },
+    {
+      "id": "1438541605156945940",
+      "fecha_utc": "2025-11-13T14:50:45.480000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": null,
+      "texto": "Kazuki:\n\nTienes razón, señor Shirz. Pero, cómo lo haremos, al menos, yo no soy tan poderoso y no estoy del todo listo para luchar con algo de esa índole...\n\n**Dice preocupado mientras se vería que el cambiaformas abriría ese libro de hechizos viendo su nivel de hechizos**",
+      "mensaje_sha256": "a460b446884dfbe851b40de2851f95e3aa3ae94a8b394cacf9a4d2b06cbacdc4",
+      "tipo_discord": 19,
+      "referencia": "1438540262455382037",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1438541605156945940",
+      "texto_sha256": "5e89ee2c66f594b5e2905ccf4b8a9fa5dcbc287f64933a894bc808ce063a8287",
+      "adjuntos": []
+    },
+    {
+      "id": "1438542691129622630",
+      "fecha_utc": "2025-11-13T14:55:04.396000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": null,
+      "texto": "Shirz: Ni tu ni nadie, joven feerico. Nadie está preparado para enfrentarse a la mismísima Muerte **Ves que se vuelve a levantar para dirigirse a la puerta donde descansa Arwen** Pero es algo a lo que nos enfrentaremos todos al final de nuestro camino. Y no vamos a permitir que otros elijan ese momento por nosotros, verdad? **Agarra el pomo de la puerta y se queda parado** Solo espero que la pequeña pueda perdonarnos... Avisa a los demás, hay que estar preparados **El shadar-kai vuelve al interior de la habitación**",
+      "mensaje_sha256": "cafa24528660fb486394837874d29f51d0b74ce94d3348bf5b728fba496c5776",
+      "tipo_discord": 19,
+      "referencia": "1438541605156945940",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1438542691129622630",
+      "texto_sha256": "8e315b69598e425f3adf039770b65543b3e3951fd2c759f40b0971a61664dadf",
+      "adjuntos": []
+    },
+    {
+      "id": "1438543433265315893",
+      "fecha_utc": "2025-11-13T14:58:01.335000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": null,
+      "texto": "Kazuki:\n\n**Asiente mientras cierra rápidamente el libro, para levantarse y salir de la base para buscar a los demás de los cazadores, pero se da cuenta de las almenaras**\n\n*Ahora no, demonios, ahora no*",
+      "mensaje_sha256": "613e26d68a3e5a1ced37f932629ab78c96e65b73e7feefb98ee7b2b19b458ec1",
+      "tipo_discord": 19,
+      "referencia": "1438542691129622630",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1438543433265315893",
+      "texto_sha256": "4536c9626592f25c936b63a4e3b24692e40d0a8bd4b7e15e8a91ff0b81dcce0a",
+      "adjuntos": []
+    },
+    {
+      "id": "1438544184909762772",
+      "fecha_utc": "2025-11-13T15:01:00.541000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": null,
+      "texto": "Shirz: **El shadar-kai vuelve junto a la pequeña druida. La mira con ojos tiernos mientras se preocupa por lo que va a pasar. Y espera que la pequeña pueda algun dia entenderlo y perdonarlo. Cuando la niña hace una mueca de dolor, el shadar-kai la agarra de la mano** Estoy aquí, no te dejaré sola pequeña. Me quedaré contigo <@753394009153732689>",
+      "mensaje_sha256": "3c41087b76ed0f2257eda6deea5490fd81075722d1ac7436ef47f49a0f8766b5",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1438544184909762772",
+      "texto_sha256": "94db39eb64f336e8d35529c5648795db10b72d0b05cca32d014dabc787f3c032",
+      "adjuntos": []
+    },
+    {
+      "id": "1438544310311325766",
+      "fecha_utc": "2025-11-13T15:01:30.439000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": null,
+      "texto": "Arwen: ¿Puedo pedir un abrazo?",
+      "mensaje_sha256": "205f30e5d2cc7793a27f7041fe4814e427aa6c9b5e8c50db05eaab3312fdcdb8",
+      "tipo_discord": 19,
+      "referencia": "1438544184909762772",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1438544310311325766",
+      "texto_sha256": "9515db6e6c51260b7cb216990cfc439bbc6b71ae4038c460f5dbc7d22b9d94ec",
+      "adjuntos": []
+    },
+    {
+      "id": "1438544502162722838",
+      "fecha_utc": "2025-11-13T15:02:16.180000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": null,
+      "texto": "🏹  Kazuki sale de escena 🏹",
+      "mensaje_sha256": "219df757b9478198afcc48c44cfb989e6d42fc80ed44c5108a1d4ee0867187ff",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1438544502162722838",
+      "texto_sha256": "49afd647352566f435f99c33ac0c249bbe8912096e57ee0907005a052ce15fe3",
+      "adjuntos": []
+    },
+    {
+      "id": "1438544961611235460",
+      "fecha_utc": "2025-11-13T15:04:05.721000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": null,
+      "texto": "Shirz: La Campeona de los Cazadores puede pedir lo que quiera **El clérigo se acerca a la pequeña y le da un fuerte abrazo mientras le rasca la cabeza**",
+      "mensaje_sha256": "6f6961c92b3af327fd5af8e6adca96eb3385600ab7f9f65603afd82274e2f16a",
+      "tipo_discord": 19,
+      "referencia": "1438544310311325766",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1438544961611235460",
+      "texto_sha256": "23afb715528b0e9604077539f0adacbe770408aae41a6f3bf8d40c8966d6c744",
+      "adjuntos": []
+    },
+    {
+      "id": "1438545418886840432",
+      "fecha_utc": "2025-11-13T15:05:54.744000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": null,
+      "texto": "Arwen: **Se acurruca contra ti, sigue siendo una niña pequeña a pesar de todo**",
+      "mensaje_sha256": "7027d35abfb2cef3dbd9100c30b0f4b4dfa5832ecce7761f2ccdc40fe0b7e55a",
+      "tipo_discord": 19,
+      "referencia": "1438544961611235460",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1438545418886840432",
+      "texto_sha256": "0bd746697c40c0f903acf13ebe8abad983b99d5de0b78526b137eb0c0c4e22b2",
+      "adjuntos": []
+    },
+    {
+      "id": "1438548722731581481",
+      "fecha_utc": "2025-11-13T15:19:02.442000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": null,
+      "texto": "🔴 **Fin de escena**🔴",
+      "mensaje_sha256": "08dd65aca7f350b0614f1749bb782b805409cd31bdf08047f19cb2e8f2d439b0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1438548722731581481",
+      "texto_sha256": "0e513b9a495850850524d0965f55df051cd0b6a138120693016da3f3ffd42ccd",
+      "adjuntos": []
+    }
+  ]
+}

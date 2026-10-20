@@ -1,0 +1,168 @@
+{
+  "id": "k-1387380975956131863",
+  "campana": "kuroto",
+  "unidad_revision": "k-1387342242913583235",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Una llamada por Rúa",
+  "resumen": "Banzo alerta a Kalista y ella parte con Jelbreg.",
+  "relato": "La piedra parlante interrumpe a Kalista cuando aún observa confundida la salida del visitante. La llamada es breve y urgente. Ella guarda sus documentos y anuncia que deben ir al palacio porque Banzo afirma que Rúa está en peligro. Jelbreg protesta por las compras y los helados, pero la acompaña con Wasabi. La alarma no se comprueba en esta escena y no se identifica una amenaza ni un desenlace para la gobernante.",
+  "participantes": [
+    "Kalista",
+    "Jelbreg",
+    "Wasabi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1387382862482899015",
+      "afirmacion": "Kalista transmite la alarma de Banzo sobre Rúa y decide ir al palacio.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1387383451807907881",
+      "afirmacion": "Kalista y Jelbreg salen con Wasabi.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Setenta y siete mensajes íntegros. Vista completa la imagen 1387342887838285957.jpg: ilustración de un gnomo vestido para descansar con coco, usada como apoyo humorístico del aspecto de Archi; no sitúa la base junto a una piscina real.",
+    "Kazuha = Dante Okaru queda acreditado en la firma y explicación (1387364359117865072 y 1387365180488417362). Dante Okaru = Kazuki se acredita por la transformación narrada en 1387380960273629308. La identidad conjunta se incorpora sin transferir automáticamente ese conocimiento a Kalista, Jelbreg u otros.",
+    "Sus hazañas anteriores y servicio a Barbatos son afirmaciones del visitante. La teoría de Jelbreg de que todos los demonios provienen del mismo plano no se impone como verdad cosmológica ni prueba que sea aliado de Ōtakemaru.",
+    "Hay firma material, pero Kalista no da por establecida una afiliación válida ni entrega insignia. No se marca como nuevo cazador admitido sin reservas.",
+    "El mapa se entrega, pero no se enumeran aquí sus objetivos o resultados. La recepción no acredita que todas las prestaciones anunciadas antes funcionen.",
+    "La sangre del ninja no se identifica como suya. La alarma sobre Rúa proviene de Banzo por una llamada no transcrita, sin amenaza confirmada en este encuentro.",
+    "La parte administrativa termina con cierre explícito; los asuntos de identidad, contrato y emergencia continúan abiertos."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2025-06-25T10:36:40.960000+00:00",
+  "fin_utc": "2025-06-25T10:47:02.622000+00:00",
+  "fecha_local": "2025-06-25",
+  "intervalo": {
+    "anterior": 131,
+    "siguiente": 132,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387130423632724151",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387494015813030079",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 131,
+        "fecha": "2025-06-24",
+        "inicio_referencia_utc": "2025-06-24T18:00:45+00:00",
+        "fin_estimado_utc": "2025-06-24T21:04:44+00:00",
+        "duracion_video_segundos": 11039,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387130423632724151"
+      },
+      {
+        "capitulo": 132,
+        "fecha": "2025-06-25",
+        "inicio_referencia_utc": "2025-06-25T18:05:33+00:00",
+        "fin_estimado_utc": "2025-06-25T20:47:07+00:00",
+        "duracion_video_segundos": 9694,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387494015813030079"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1387380975956131863",
+      "fecha_utc": "2025-06-25T10:36:40.960000+00:00",
+      "fecha_local": "2025-06-25",
+      "editado_utc": null,
+      "texto": "Kalista: **No parece escucharte, mira a <@240564189448503306> y ves como frunce el ceño y va decir algo cuando le suena la piedra parlanchina y se retira un poco para hablar por esta...pero tiene una expresion de confusion**",
+      "mensaje_sha256": "d4eef01c0b83667cdbb473ccc9ffb5e6a99c313b77ea2f8be348b2d490b0b9a3",
+      "tipo_discord": 19,
+      "referencia": "1387380412413907035",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387380975956131863",
+      "texto_sha256": "ebf408df02fcbb4b681963ff68aa713bc011e5ad26c0284258efeba0c64c4d72",
+      "adjuntos": []
+    },
+    {
+      "id": "1387381571115421707",
+      "fecha_utc": "2025-06-25T10:39:02.857000+00:00",
+      "fecha_local": "2025-06-25",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Se queda allí de pie mientras te ve hablar por esa maldita piedra esperando a que acabes** *Tengo que romper esa cosa, siempre llaman en el peor momento*",
+      "mensaje_sha256": "25a640abc4206dda7de040a0d5058e81e2c4e4260889afa9649dcc59413992ba",
+      "tipo_discord": 19,
+      "referencia": "1387380975956131863",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387381571115421707",
+      "texto_sha256": "1b017ad6c1f4793ad06002f63a4c0b8b7ebde7ee4399bb746eeca03ac3599a75",
+      "adjuntos": []
+    },
+    {
+      "id": "1387382085198811230",
+      "fecha_utc": "2025-06-25T10:41:05.424000+00:00",
+      "fecha_local": "2025-06-25",
+      "editado_utc": null,
+      "texto": "Kalista: **Mientras va hablando abre mucho los ojos...es apenas una conversacion corta...pero ves la urgencia que se le dibuja en su rostro antes de colgar. Va rapido a la mesa y mete todo en su bolsa** Tenemos que irnos al palacio ahora",
+      "mensaje_sha256": "2c39fba1bfbd52ebefd118017816b910a859c95744172c9173fd2c319b0afa9b",
+      "tipo_discord": 19,
+      "referencia": "1387381571115421707",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387382085198811230",
+      "texto_sha256": "1ab3f32d8da4e938d2ff677f7d068f974a7191b43a11b234465b247a8c246509",
+      "adjuntos": []
+    },
+    {
+      "id": "1387382476963315833",
+      "fecha_utc": "2025-06-25T10:42:38.828000+00:00",
+      "fecha_local": "2025-06-25",
+      "editado_utc": "2025-06-25T10:42:52.188000+00:00",
+      "texto": "Jelbreg: Emmm... vale vale... Vamos a palacio.... pero... los helados se van a derretir... **Ves que va con las bolsas de la compra** ¿Se puede saber que pasa?",
+      "mensaje_sha256": "5480db60d17eff72429a949926b78b80059a10a98db6366c14c7746c1b072fc8",
+      "tipo_discord": 19,
+      "referencia": "1387382085198811230",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387382476963315833",
+      "texto_sha256": "5ee467243318f8b94c0401f3c778addaa35c02b14629e2c51cbafc30ce3c568b",
+      "adjuntos": []
+    },
+    {
+      "id": "1387382862482899015",
+      "fecha_utc": "2025-06-25T10:44:10.743000+00:00",
+      "fecha_local": "2025-06-25",
+      "editado_utc": null,
+      "texto": "Kalista: **Toma la compra y la mete a la bolsa** Es Banzo... Dice que Rua esta en peligro **La mete y se dirige rapido a la puerta**",
+      "mensaje_sha256": "15ad2253fab94a0ebf416b1a4db702ac3fc949ad36c6310c18b304ea7cbbbb31",
+      "tipo_discord": 19,
+      "referencia": "1387382476963315833",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387382862482899015",
+      "texto_sha256": "79686c4c4aedec6f1c3c9cf2325016811551d73bfadaca0d115330953a97b5e7",
+      "adjuntos": []
+    },
+    {
+      "id": "1387383451807907881",
+      "fecha_utc": "2025-06-25T10:46:31.249000+00:00",
+      "fecha_local": "2025-06-25",
+      "editado_utc": null,
+      "texto": "Jelbreg: Tres días.... nos vamos tres malditos días y cuando volvemos siempre hay problemas... **Se queja el drow saliendo de la base y acariciando Wasabi en la cabecita**\n\n💙Kalista y Jelbreg salen de escena👻",
+      "mensaje_sha256": "6c279cad13caf18bded5343b3a98523d6e15d43919a8a3315d4f99ecd34c17cb",
+      "tipo_discord": 19,
+      "referencia": "1387382862482899015",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387383451807907881",
+      "texto_sha256": "85c8f40f22030f5d1402ecc7cb54686f6d4d11e57191110069dc09762751ad55",
+      "adjuntos": []
+    },
+    {
+      "id": "1387383583395680316",
+      "fecha_utc": "2025-06-25T10:47:02.622000+00:00",
+      "fecha_local": "2025-06-25",
+      "editado_utc": null,
+      "texto": "🔴  Final de escena 🔴",
+      "mensaje_sha256": "ac134d634d849a466ab38e0aa5d99fd2259af8eb92bfcf2891eefceb7a389f11",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387383583395680316",
+      "texto_sha256": "2d951a88aefa391a493c42f6b69315b97b488451d8ef0802371598f1f0254083",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "k-1406671070433644725",
+  "campana": "kuroto",
+  "unidad_revision": "k-1406671070433644725",
+  "hilo_id": "1387915737502580886",
+  "hilo_nombre": "Sho, Palacio del Shogunato - Capital de Kuroto",
+  "titulo": "La piedra de comunicación queda lista",
+  "resumen": "Guxi termina el trabajo y deja instrucciones para Kalista y los generales.",
+  "relato": "Tras trabajar todo el día anterior y la noche, Guxi da por terminada la piedra de comunicación. Sus ojos muestran cansancio. Deja sobre la mesa instrucciones de uso destinadas a Kalista y los generales, recoge sus cosas y sale a tomar aire. Se narra la finalización, pero aquí no aparece una prueba de alcance, una conversación transmitida ni la revisión de las instrucciones por sus destinatarios.",
+  "participantes": [
+    "Guxi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1406671070433644725",
+      "afirmacion": "La narración da el trabajo por terminado y describe la entrega de instrucciones.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Continúa el intento de k-1406215565936300054; no inventar especificaciones no transcritas del aparato."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-08-17T16:08:37.876000+00:00",
+  "fin_utc": "2025-08-17T16:09:04.600000+00:00",
+  "fecha_local": "2025-08-17",
+  "intervalo": {
+    "anterior": 146,
+    "siguiente": 147,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1405973993948975124",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1406697567479271588",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 146,
+        "fecha": "2025-08-15",
+        "inicio_referencia_utc": "2025-08-15T17:58:25+00:00",
+        "fin_estimado_utc": "2025-08-15T21:02:41+00:00",
+        "duracion_video_segundos": 11056,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1405973993948975124"
+      },
+      {
+        "capitulo": 147,
+        "fecha": "2025-08-17",
+        "inicio_referencia_utc": "2025-08-17T17:53:35+00:00",
+        "fin_estimado_utc": "2025-08-17T20:19:39+00:00",
+        "duracion_video_segundos": 8764,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1406697567479271588"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1406671070433644725",
+      "fecha_utc": "2025-08-17T16:08:37.876000+00:00",
+      "fecha_local": "2025-08-17",
+      "editado_utc": null,
+      "texto": "guxi:\n**ha terminado su trabajo con la piedra de comunicacion ha estado todo el dia anterior y la noche sin parar sus ojos cansados son testigos deja en la mesa unas instrucciones de uso para kalista y los generales**\nDeberia tomar algo de aire\n**recoge sus cosas y se va**\n<@753394009153732689> <@214405113677217793>",
+      "mensaje_sha256": "25f29449b91290072d95c9a0ca0d4caff2ad85cfaf856cb0c0b806725f6b45d2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1406671070433644725",
+      "texto_sha256": "fae680dcfb1033f44ee197063e9e0b0cbdaf8b02517d9eaafb20bd0ec8204738",
+      "adjuntos": []
+    },
+    {
+      "id": "1406671182521958504",
+      "fecha_utc": "2025-08-17T16:09:04.600000+00:00",
+      "fecha_local": "2025-08-17",
+      "editado_utc": null,
+      "texto": "🔩 guxi sale de escena🔩",
+      "mensaje_sha256": "129a0e655305f37cc0d18233f68a8cddbbef840a4c8b31da817872a53207a5a0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1406671182521958504",
+      "texto_sha256": "e684c549af93a258b115f68a37386a6f33541b453519e2877a0cc24cd84938f3",
+      "adjuntos": []
+    },
+    {
+      "id": "1406866244031741983",
+      "fecha_utc": "2025-08-18T05:04:10.888000+00:00",
+      "fecha_local": "2025-08-18",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "dd5f9f04c7e37bf6486b050ba0421a94b64a4991d94b7a526010c719e5c7a7b0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1406866244031741983",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": [],
+      "no_narrativo": true,
+      "nota_editorial": "Marcador de cierre conservado junto a la conversación."
+    }
+  ]
+}

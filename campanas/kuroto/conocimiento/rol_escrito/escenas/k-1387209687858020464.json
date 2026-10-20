@@ -1,0 +1,129 @@
+{
+  "id": "k-1387209687858020464",
+  "campana": "kuroto",
+  "unidad_revision": "k-1387209687858020464",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Seraphina acepta la propuesta de Guxi",
+  "resumen": "Guxi se arrodilla y Seraphina responde con un abrazo y una aceptación emocionada.",
+  "relato": "Seraphina relata el regreso de una aventura en la que perdió pelo y estuvo a punto de ser engullida por una criatura, sin detallar ese episodio. Ve a Guxi arrodillarse y dirigirle una propuesta romántica cuyas palabras previas no aparecen en el archivo. Emocionada, lo abraza y responde que sí, con la petición juguetona de un pastel lleno de licor. El artífice la besa, declara sentirse feliz y promete cumplir lo dicho. Se despiden de los demás y salen a celebrarlo. La aceptación del compromiso queda representada, pero no una boda, la entrega de un anillo o los detalles de una ceremonia.",
+  "participantes": [
+    "Seraphina Longhop",
+    "Guxi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1387209687858020464",
+      "afirmacion": "Seraphina acepta emocionada la propuesta de Guxi arrodillado y lo abraza.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1387210322330517617",
+      "afirmacion": "Guxi la besa, promete cumplir lo dicho y anuncia la celebración.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1387210483798376549",
+      "afirmacion": "La pareja sale junta para celebrar.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Cuatro mensajes completos. La formulación original de la propuesta no figura; se conserva la aceptación y el contexto de compromiso sin inventar sus palabras.",
+    "La aventura anterior solo se evoca por Seraphina. No se añade criatura, lugar o consecuencia corporal permanente.",
+    "La promesa del pastel y la celebración posterior no se dan por cumplidas dentro de la escena. No se registra un matrimonio celebrado."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-24T23:16:02.695000+00:00",
+  "fin_utc": "2025-06-24T23:19:37.777000+00:00",
+  "fecha_local": "2025-06-25",
+  "intervalo": {
+    "anterior": 131,
+    "siguiente": 132,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387130423632724151",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387494015813030079",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 131,
+        "fecha": "2025-06-24",
+        "inicio_referencia_utc": "2025-06-24T18:00:45+00:00",
+        "fin_estimado_utc": "2025-06-24T21:04:44+00:00",
+        "duracion_video_segundos": 11039,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387130423632724151"
+      },
+      {
+        "capitulo": 132,
+        "fecha": "2025-06-25",
+        "inicio_referencia_utc": "2025-06-25T18:05:33+00:00",
+        "fin_estimado_utc": "2025-06-25T20:47:07+00:00",
+        "duracion_video_segundos": 9694,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387494015813030079"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1387209687858020464",
+      "fecha_utc": "2025-06-24T23:16:02.695000+00:00",
+      "fecha_local": "2025-06-25",
+      "editado_utc": null,
+      "texto": "Seraphina: \n**Después de regresar de dicha aventura, quedándome calva y casi engullida por un bichote horrible, veo a Guxi arrodillarse ante mi y decir esa mezcla de palabras tan románticas y divertidas, mi pie empezó a tamborilear de los nervios, mi nariz se agitaba de emoción y mis ojos se llenaban de lágrimas*\n\nGuxi~\n\n**Mencioné con un hilo de voz antes de aventarme sobre él para abrazarlo con fuerza**\n\n¡SÍ, PEDAZO DE LATA ROMÁNTICA!, Pero solo si me haces un pastel que esté lleno de licor, no importa cual sea, pero mi respuesta es si y siempre será si \n\n<@171702246952665098>",
+      "mensaje_sha256": "ec1985d454ce25c3e7586c81de4bc1dcb9742e72d98dd23b9fd22fcaf00c9a99",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387209687858020464",
+      "texto_sha256": "35f6572a1537e6797c9a34760761e7cff35f5a7f0bb7291d86a0b7549f5e2019",
+      "adjuntos": []
+    },
+    {
+      "id": "1387210322330517617",
+      "fecha_utc": "2025-06-24T23:18:33.965000+00:00",
+      "fecha_local": "2025-06-25",
+      "editado_utc": null,
+      "texto": "guxi: gracias me haces el hombre mas feliz de todo kuroto **la besa sonrie feliz euforico como nunca lo ha hecho antes** preparate por que voy a cumplir mi promesa **mira a los demas** nos vemos tenemos que celebrar",
+      "mensaje_sha256": "da7694c75977f2bbd857dd831abcd36b44518fcd4a865dfacce3a8ee50277983",
+      "tipo_discord": 19,
+      "referencia": "1387209687858020464",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387210322330517617",
+      "texto_sha256": "d3c6756eae3ec4ad036172f2de57cbc0ad4a523c67a0553520354fd05f0668b6",
+      "adjuntos": []
+    },
+    {
+      "id": "1387210483798376549",
+      "fecha_utc": "2025-06-24T23:19:12.462000+00:00",
+      "fecha_local": "2025-06-25",
+      "editado_utc": null,
+      "texto": "🔩 guxi y seraphina salen de escena🥕",
+      "mensaje_sha256": "188d04afa93206ac3f5dc1db5c2afebc94fbee2d3309b2bcba4f49f8016385d2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387210483798376549",
+      "texto_sha256": "df5381806d09e02931a53111c3c2ca2cd50e3f9f1a67d10385173744ad7c8b18",
+      "adjuntos": []
+    },
+    {
+      "id": "1387210589977313300",
+      "fecha_utc": "2025-06-24T23:19:37.777000+00:00",
+      "fecha_local": "2025-06-25",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "1c756aca2fb34b1b640d30f9970cabde7db0576c46a5a4892f3083fc05c0e883",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387210589977313300",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

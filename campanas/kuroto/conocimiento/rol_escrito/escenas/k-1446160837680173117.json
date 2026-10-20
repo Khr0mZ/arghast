@@ -1,0 +1,121 @@
+{
+  "id": "k-1446160837680173117",
+  "campana": "kuroto",
+  "unidad_revision": "k-1446160837680173117",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "El lobo sigue el rastro de Arwen",
+  "resumen": "Wukong cambia de forma y busca a la niña por Sho.",
+  "relato": "Wukong baja del altillo donde ha dormido las últimas noches con una pequeña saca blanca a la espalda. En el exterior se arranca unos pelos del brazo y recita un cántico; el humo lo cubre y aparece transformado en un lobo marrón, con el juzu al cuello y las patas vendadas. Sale a olfatear las calles buscando a Arwen. El rastro lo conduce hacia el palacio, sin que se represente todavía el encuentro ni se descubra el contenido de la saca.",
+  "participantes": [
+    "Wukong"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1446160837680173117",
+      "afirmacion": "Wukong se transforma en lobo y sale a buscar a Arwen por el olor.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1446167944101892117",
+      "afirmacion": "El rastro conduce al palacio.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La imagen ilustra la apariencia del lobo; no añade un animal independiente.",
+    "No se muestra llegada ante Arwen ni entrega de un regalo en este fragmento."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-12-04T15:26:52.072000+00:00",
+  "fin_utc": "2025-12-04T15:55:06.375000+00:00",
+  "fecha_local": "2025-12-04",
+  "intervalo": {
+    "anterior": 170,
+    "siguiente": 171,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1443679606723838074",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1446214322580881569",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 170,
+        "fecha": "2025-11-27",
+        "inicio_referencia_utc": "2025-11-27T19:07:07+00:00",
+        "fin_estimado_utc": "2025-11-27T22:32:48+00:00",
+        "duracion_video_segundos": 12341,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1443679606723838074"
+      },
+      {
+        "capitulo": 171,
+        "fecha": "2025-12-04",
+        "inicio_referencia_utc": "2025-12-04T18:59:08+00:00",
+        "fin_estimado_utc": "2025-12-04T21:35:38+00:00",
+        "duracion_video_segundos": 9390,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1446214322580881569"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1446160837680173117",
+      "fecha_utc": "2025-12-04T15:26:52.072000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": null,
+      "texto": "Wukong\n\n**Baja del altillo donde ha estado pasando las ultimas noches. Lleva una saca blanca atada a la espalda. Esta vez es pequeña. Sale al exterior, se arranca unos pelillos del brazo y realiza un cántico inteligible mientras los sostiene frente a su cara con los ojos cerrados. Un humo lo cubre y aparece un lobo de pelaje marrón, con el juzu al cuello, las cuatro patas vendadas y la saca blanca atada a la espalda**\n\n- sniff sniff...\n\n*A ver por dónde te has metido pequeñaja... Siempre desapareces a la mínima de cambio*\n\n**El lobo Wukong sale a las calles de Sho olfateando a Arwen <@753394009153732689> **",
+      "mensaje_sha256": "197c23e0c26de3da6a51be8805549a4e0ab5ed6e51f6d80063af3bf095248722",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1446160837680173117",
+      "texto_sha256": "dd6a1ec08bea5395ed5f045da2abc6c2c5cf7701b066c76d83e1c1c2c0a2a6d5",
+      "adjuntos": [
+        {
+          "id": "1446160837416063006",
+          "nombre": "1764664747638.jpg",
+          "tipo": "image/jpeg",
+          "archivo": "adjuntos/1446160837416063006.jpg",
+          "url": "rol_escrito/adjuntos/1446160837416063006.jpg",
+          "bytes": 83674,
+          "sha256": "494bf386a785e8934166eef6563278bb4993643414320603d95ec000ea8de940"
+        }
+      ]
+    },
+    {
+      "id": "1446167944101892117",
+      "fecha_utc": "2025-12-04T15:55:06.375000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": null,
+      "texto": "**El olor te lleva por las calles hacia el palacio**",
+      "mensaje_sha256": "1bd53e6c2c379f8444940be4a83b7f02403831e898dc7d7f87287683f8ef291c",
+      "tipo_discord": 19,
+      "referencia": "1446160837680173117",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1446167944101892117",
+      "texto_sha256": "84b263a054fa0c5123f6a0cc5f05a051dd80951772654463d1312dc1dca599c4",
+      "adjuntos": []
+    },
+    {
+      "id": "1446286569194389566",
+      "fecha_utc": "2025-12-04T23:46:28.801000+00:00",
+      "fecha_local": "2025-12-05",
+      "editado_utc": null,
+      "texto": "🔴 **Fin de escena**🔴",
+      "mensaje_sha256": "f87be448231289985c54ab4def650f0df32d64f676f01398b2a5b855ca8a5c31",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1446286569194389566",
+      "texto_sha256": "0e513b9a495850850524d0965f55df051cd0b6a138120693016da3f3ffd42ccd",
+      "adjuntos": [],
+      "no_narrativo": true,
+      "nota_editorial": "Marcador de cierre conservado junto a la conversación."
+    }
+  ]
+}

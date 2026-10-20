@@ -1,0 +1,93 @@
+{
+  "id": "x-1544040982084067438",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1544040982084067438",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "El dragón invade un recuerdo de Tessa",
+  "resumen": "Un paseo familiar a la salida del teatro se transforma en una visión amenazadora dominada por la voz del dragón.",
+  "relato": "Tessa revive un paseo con su padre y su hermano Oliver por Puerto Espadas. Acaban de salir del teatro y la plaza está llena de actividad. Su padre propone preguntas sobre la obra y premia las respuestas con helados: Oliver recuerda al autor y Tessa interpreta la decisión final del protagonista como el hallazgo de algo más importante.\n\nLa escena familiar empieza a deformarse. Las palabras de Oliver dejan de oírse, la mano del padre se enfría y el helado se deshace en gusanos negros y líquido verdoso. La voz paterna se convierte en la del dragón, mientras los rostros de sus familiares se vuelven sombras. Ambos sonríen y repiten que lo único importante será sobrevivir a él. El recuerdo termina convertido en amenaza; la fuente no muestra un despertar ni acredita un ataque real contra la familia.",
+  "participantes": [
+    "Tessa",
+    "Oliver",
+    "Padre de Tessa"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1544040982084067438",
+      "afirmacion": "El recuerdo del paseo y los helados se transforma en una visión con la voz amenazadora del dragón.",
+      "tipo": "pensamiento"
+    }
+  ],
+  "notas": [
+    "Escena subjetiva de recuerdo que deriva en pesadilla; no tratar sus transformaciones como hechos sufridos por Oliver o su padre en el presente.",
+    "La amenaza no demuestra que el dragón conozca o haya alcanzado a la familia."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-08-31T17:47:37.023000+00:00",
+  "fin_utc": "2026-08-31T18:03:28.604000+00:00",
+  "fecha_local": "2026-08-31",
+  "intervalo": {
+    "anterior": 56,
+    "siguiente": 57,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1541149597714350182",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1545132987136344065",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 56,
+        "fecha": "2026-08-23",
+        "inicio_referencia_utc": "2026-08-23T18:12:54+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1541149597714350182"
+      },
+      {
+        "capitulo": 57,
+        "fecha": "2026-09-03",
+        "inicio_referencia_utc": "2026-09-03T18:02:12+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1545132987136344065"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1544040982084067438",
+      "fecha_utc": "2026-08-31T17:47:37.023000+00:00",
+      "fecha_local": "2026-08-31",
+      "editado_utc": "2026-08-31T18:08:55.179000+00:00",
+      "texto": "Tessa\n\n**Tessa y el pequeño Oliver caminaban de la mano de su padre mientras bajaban las escaleras del teatro. Puerto de las Espadas bullía de vida bajo las luces de la plaza**\n\n- A ver, pequeños eruditos. Pregunta fácil. Quién escribió la obra?\n\n- Vince Xabeiro!\n\n**Respondió Oliver ipso facto**\n\n- Correcto. Helado asegurado. Ahora tú, Tess. Qué crees que quería decir el autor con el final?\n\n**Tessa frunció el ceño, pensativa, mientras su hermano celebraba la victoria**\n\n- Que... que el héroe no consigue lo que quiere, pero descubre que había algo más importante.\n\n**Su padre sonrió**\n\n- Muy buena respuesta\n\n- Y mi helado?\n\n**Reclamó la niña con voz exigente**\n\n- Te lo has ganado.\n\n**Siguieron caminando. Oliver hablaba sin parar sobre la obra. Tessa sonreía. Entonces notó algo extraño: la plaza estaba en silencio. Oliver seguía moviendo los labios, pero Tessa ya no podía oírlo**\n\n- Papá...\n\n**La niña apretó la mano de su padre asustada, pero este continuó caminando**\n\n- Papá, espera...\n\n**Sus manos comenzaron a enfriarse. Miró hacia abajo. El helado se había derretido entre sus dedos. Negro. Gusanos. Un líquido verde... Una gota cayó al suelo. Después otra**\n\n- Eso es lo que crees?\n\n**Tessa se detuvo. La voz no era la de su padre. Era gutural y con un eco terrorífico**\n\n- Tess?\n\n**Oliver llamó a su hermana asustado, pero cuando se giró hacia él, su rostro estaba cubierto por una sombra que no debería existir bajo las luces de la plaza**\n\n- Que hay algo más importante dices? \n\n**La voz provenía tanto de su padre como de su hermano. Las luces de la plaza se fueron apagando una a una. Su padre seguía avanzando, arrastrándola de la mano**\n\n- Papá! Me haces daño... Tengo miedo... Oliver!\n\n**Ambos se detuvieron. Lentamente, los dos giraron la cabeza al unísono. Como si de dos muñecos se tratasen. Y sonrieron**\n\n- Solo hay una cosa importante...\n\n**La voz del dragón salió por duplicado de sus dos familiares. Tessa intentó soltarle la mano. No pudo**\n\n- Sobrevivir a mí...",
+      "mensaje_sha256": "eb789d8f1c0ce0618ce6c07bb29fcb65534670986775778969ad48b252e50ded",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1544040982084067438",
+      "texto_sha256": "e3c7bee26858738e08ef8e08cc832ab5f2555e0ec64398c9dc34091110bd0597",
+      "adjuntos": []
+    },
+    {
+      "id": "1544044973303799809",
+      "fecha_utc": "2026-08-31T18:03:28.604000+00:00",
+      "fecha_local": "2026-08-31",
+      "editado_utc": null,
+      "texto": "🔴 fin de escena 🔴",
+      "mensaje_sha256": "f267b8bd6f0dd21f189358a56ea438784b6d7ba563de23d85992ac07315544a9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1544044973303799809",
+      "texto_sha256": "6af455b187ffab96d443179a0fef0281bcd0ea8ac59b020f74e54ac0e799e4e4",
+      "adjuntos": []
+    }
+  ]
+}

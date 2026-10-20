@@ -1,0 +1,81 @@
+{
+  "id": "k-1423582281704018064",
+  "campana": "kuroto",
+  "unidad_revision": "k-1423582281704018064",
+  "hilo_id": "1362071806441160834",
+  "hilo_nombre": "Base Ukyio - Sala principal",
+  "titulo": "Illmarrow se dirige a Xyllya junto a la barrera",
+  "resumen": "Una flor se marchita al tocarla Xyllya y una voz le promete acabar con la tristeza, sin que ella acepte ningún pacto.",
+  "relato": "Xyllya recorre la barrera que Arwen levantó alrededor del pueblo buscando huecos. Recuerda a los caballeros no muertos que hirieron a su amiga y descubre cuánto le importa esa niña. Se acerca a una de sus flores doradas; al tocarla, la flor se marchita. Intenta arreglarla sin éxito y teme entristecer a Arwen.\n\nLa voz de Lady Illmarrow le pregunta si ha sido ella. El texto deja abierto si resuena alrededor o dentro de su cabeza. Xyllya pregunta quién habla y explica que Arwen es su amiga y que no quiere verla triste. La voz ofrece hacer que nadie vuelva a estarlo y la llama «Xyllya de Vol».\n\nLa escena termina en esa promesa inquietante. No hay aceptación, pacto ni daño nuevo contra Arwen; tampoco se explica el origen de la voz o de la flor marchita.",
+  "participantes": [
+    "Xyllya",
+    "Lady Illmarrow"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1423582281704018064",
+      "afirmacion": "La flor dorada se marchita al tocarla Xyllya; la voz de Illmarrow le ofrece acabar con la tristeza y la llama Xyllya de Vol.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La voz puede ser interior o ambiental según la propia narración.",
+    "La mención a los caballeros no muertos es un recuerdo, sin combate nuevo en esta escena.",
+    "El apelativo de Vol acredita cómo la llama Illmarrow, sin reconstruir una genealogía.",
+    "No se acepta aquí la oferta ni se demuestra que pueda cumplirse."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-10-03T08:07:44.838000+00:00",
+  "fin_utc": "2025-10-03T08:07:44.838000+00:00",
+  "fecha_local": "2025-10-03",
+  "intervalo": {
+    "anterior": 160,
+    "siguiente": 161,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1423373613540573317",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1425183138606219264",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 160,
+        "fecha": "2025-10-02",
+        "inicio_referencia_utc": "2025-10-02T18:18:19+00:00",
+        "fin_estimado_utc": "2025-10-02T21:07:14+00:00",
+        "duracion_video_segundos": 10135,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1423373613540573317"
+      },
+      {
+        "capitulo": 161,
+        "fecha": "2025-10-07",
+        "inicio_referencia_utc": "2025-10-07T18:08:41+00:00",
+        "fin_estimado_utc": "2025-10-07T20:58:07+00:00",
+        "duracion_video_segundos": 10166,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1425183138606219264"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1423582281704018064",
+      "fecha_utc": "2025-10-03T08:07:44.838000+00:00",
+      "fecha_local": "2025-10-03",
+      "editado_utc": "2025-10-04T21:36:59.709000+00:00",
+      "texto": "Xyllya: **La shadar-kai pasaeaba por las inmediaciones de Ukiyo. Sus ojos recorrían  la protección mágica que Arwen <@753394009153732689> había erigido en torno a la aldea, buscando grietas, fisuras o cualquier rastro de corrupción. Mientras hacia eso, recordaba la cara de tristeza de la pequeña niña salvaje. No entendía muy bien aquello, realmente no entendía muy bien nada de los sentimientos que ahora se despertaban en ella, pero lo que si tenia claro, es que no le gustó nada cuando esos caballeros no-muertos le hicieron daño a Arwen. Sentía algo raro, como una presión en el pecho... Al mirar el suelo, pudo ver esas pequeñas flores que Arwen habia hecho crecer hacia unos dias mientras jugaban las dos juntas. A la shadar-kai se le dibujo una pequeña sonrisa, pero no era de loca como siempre, sino mas bien...una sonrisa afable y cariñosa. Se agacho para tocarla pero, al hacerlo, la flor empezó a marchitarse de una manera horrible** Uy... no no no.... que he hecho.... No quiero que Arwen se ponga triste... **La monje intenta reconstruir la flor, pero ya esta muerta. De repente una voz profunda sacada de ultratumba**\n\nLady Illmarrow: *¿Oh, así que eras tú?* **Una risa envuelve el lugar... ¿o en la cabeza de Xyllya?** *No te preocupes por esas flores... ni por esa niña...*\n\nXyllya: ¿Eh? ¿Quien habla? **La monje se levanta y mira de lado a lado buscando quien le habla** Arwen es mi amiga y... no me gusta que este triste... es como si tuviera algo en el estomago que me aprieta y me incomoda...\n\nLady Illmarrow: *Banalidades... Pero no te preocupes, podemos hacer que no este triste nunca más... podemos hacer que nunca nadie este triste nunca mas, mi querida... Xyllya de Vol* **La risa se incrementa**\n\n🔴 Fin de la escena 🔴",
+      "mensaje_sha256": "25bd818f2e32f6c8f3c151bd8ff596886fca6862b3431a46273afc0962aa71d0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1423582281704018064",
+      "texto_sha256": "ef80925d9f242628ae088cd61ca151371350ae520913a505e4bec007d24e7c77",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "id": "k-1385262357307195412",
+  "campana": "kuroto",
+  "unidad_revision": "k-1385262357307195412",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Herramientas hacia el frente del sur",
+  "resumen": "Guxi y Seraphina no encuentran a Shirz y preparan una salida con suministros y constructos.",
+  "relato": "Guxi entra corriendo y llama a Shirz porque los cazadores lo necesitan. Seraphina ofrece recoger armamento, pero el clérigo no está en la base; la narración solo supone que, si vio la almenara, ya habrá ido al sur. El artífice le pide llevar un baúl con herramientas y ungüentos. Invoca dos pequeños robots vestidos como boinas verdes, a los que llama Alfredo y Jhony, y anuncia que ha llegado su momento. La capitana recoge el equipo y lo acompaña hacia el portal para dirigirse al frente del sur. El cierre no muestra aún una batalla ni el resultado de su ayuda.",
+  "participantes": [
+    "Guxi",
+    "Seraphina Longhop",
+    "Alfredo",
+    "Jhony"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1385262357307195412",
+      "afirmacion": "Guxi busca urgentemente a Shirz.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1385263737132548288",
+      "afirmacion": "Shirz no está; su presencia en el sur se plantea solo como posibilidad.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1385264838649057412",
+      "afirmacion": "Guxi prepara herramientas y ungüentos e invoca a los robots Alfredo y Jhony.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1385265857550090332",
+      "afirmacion": "Seraphina carga los suministros y va con Guxi hacia el portal.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Ocho mensajes completos. No se inventan capacidades militares para los robots ni se unifican con Bob, Ralph u otros constructos.",
+    "La necesidad de ayuda se expresa sin describir el incidente completo. No se da por encontrado a Shirz ni por combatida la invasión."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-19T14:18:02.912000+00:00",
+  "fin_utc": "2025-06-19T14:38:11.431000+00:00",
+  "fecha_local": "2025-06-19",
+  "intervalo": {
+    "anterior": 129,
+    "siguiente": 130,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1384958659062403102",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1385318614470496400",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 129,
+        "fecha": "2025-06-18",
+        "inicio_referencia_utc": "2025-06-18T18:10:58+00:00",
+        "fin_estimado_utc": "2025-06-18T20:18:17+00:00",
+        "duracion_video_segundos": 7639,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1384958659062403102"
+      },
+      {
+        "capitulo": 130,
+        "fecha": "2025-06-19",
+        "inicio_referencia_utc": "2025-06-19T18:01:24+00:00",
+        "fin_estimado_utc": "2025-06-19T21:47:20+00:00",
+        "duracion_video_segundos": 13556,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1385318614470496400"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1385262357307195412",
+      "fecha_utc": "2025-06-19T14:18:02.912000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": null,
+      "texto": "guxi: **llega corriendo buscando a shirz** <@214405113677217793> shirz dime que estas aqui rapido los cazadores te necesitan",
+      "mensaje_sha256": "074c10aa9d6ebba287d633b9dd40f2b65f4e01d09fbb79a5eee8b3f2b3e2e09e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1385262357307195412",
+      "texto_sha256": "5a82b0f5d1498737214965d6824014c25c1951e8de839036bb4cec3976644eca",
+      "adjuntos": []
+    },
+    {
+      "id": "1385263643704430642",
+      "fecha_utc": "2025-06-19T14:23:09.613000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": null,
+      "texto": "Seraphina: \nSe necesita armamento?, dime en dónde está para que nos los llevemos\n\n**Me detuve a punto de entrar al cuarto de Guxi**",
+      "mensaje_sha256": "1b51d60aabd7e119073b56482b6e4cdc3652394be529660bcea79119bdd998e8",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1385263643704430642",
+      "texto_sha256": "57082196afd1e60cc63a5d4998445ff820f8bfda148aaaf6cd97e384c6fd0211",
+      "adjuntos": []
+    },
+    {
+      "id": "1385263737132548288",
+      "fecha_utc": "2025-06-19T14:23:31.888000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": null,
+      "texto": "**No ves al Clérigo de la Muerte por ningún lado, si ha visto las almenara ta estará en el sur**",
+      "mensaje_sha256": "462974756626f15202453733b677b2f83bf9c4d609cf40bdeca19bbe17380cda",
+      "tipo_discord": 19,
+      "referencia": "1385262357307195412",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1385263737132548288",
+      "texto_sha256": "d25f8b7893d8d351c585cf1cd47bd2616537ad93c767b92347fd5b5d51dfe9fd",
+      "adjuntos": []
+    },
+    {
+      "id": "1385264838649057412",
+      "fecha_utc": "2025-06-19T14:27:54.510000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": null,
+      "texto": "guxi: no parece que este coge ese baul tengo herramientas y algunos unguentos serviran para ayudar vamos al portal **le ves lanzar unos encantamientos y al lado suyo aparecen unos robotitos que parecen vestidos de boinas verdes** alfredo y jhony estubimos esperando este momento es nuestra hora , al portal vamos sera ** se van hacia el portal para dirigirse al sur**",
+      "mensaje_sha256": "9491f31d95e4e20f7a67c9e48efd2b214a4e8e16fff93bc11176e50e1afd8eda",
+      "tipo_discord": 19,
+      "referencia": "1385263643704430642",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1385264838649057412",
+      "texto_sha256": "179c48b6c5ebb98a29515f700eec25541971027df44005dac689d4dbe70eab6b",
+      "adjuntos": []
+    },
+    {
+      "id": "1385265785248809143",
+      "fecha_utc": "2025-06-19T14:31:40.197000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": null,
+      "texto": "🔩 guxi sale de escena🔩",
+      "mensaje_sha256": "716d33cc797b97f36b045a6f5f6dc6a3c8ddd3fa56d1a97ccbebb15909a8a9af",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1385265785248809143",
+      "texto_sha256": "e684c549af93a258b115f68a37386a6f33541b453519e2877a0cc24cd84938f3",
+      "adjuntos": []
+    },
+    {
+      "id": "1385265857550090332",
+      "fecha_utc": "2025-06-19T14:31:57.435000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": null,
+      "texto": "Seraphina: \n**Agarro todo lo que me había dicho y me enternecí al ver a los robotsitos**\n\nAaawww, cositas preciosas~\n\n**Caminé directo hacia el portal junto con Guxi**",
+      "mensaje_sha256": "e25457b3c9fc92074a5766d8d22a75d5dec0cee9681a4cc5df700f3a1ceca044",
+      "tipo_discord": 19,
+      "referencia": "1385264838649057412",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1385265857550090332",
+      "texto_sha256": "32a8039abbb29674dfb8f393d4be22c16cd20d32634020bcf6ee8b143c19e0eb",
+      "adjuntos": []
+    },
+    {
+      "id": "1385265909463126177",
+      "fecha_utc": "2025-06-19T14:32:09.812000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": null,
+      "texto": "🏴‍☠️ Seraphina sale de escena 🏴‍☠️",
+      "mensaje_sha256": "0b37379ce6404bd7fc031fa8efc63dd385d26df1dee87b40f22f47f6e20eacdd",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1385265909463126177",
+      "texto_sha256": "40c163f83664f99db128352b7dfac8e53645c6353561699ca3d8df6b74bc6a34",
+      "adjuntos": []
+    },
+    {
+      "id": "1385267426203271438",
+      "fecha_utc": "2025-06-19T14:38:11.431000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": null,
+      "texto": "🔴 fin de escena🔴",
+      "mensaje_sha256": "3244d8aa0e4c1e04aaef93c551f7c9517d5a4c68737d7de823920cf51a603404",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1385267426203271438",
+      "texto_sha256": "906cd6a490f27f6a27bf957ba49b4845aca936431f5924262141d6e0dea25762",
+      "adjuntos": []
+    }
+  ]
+}

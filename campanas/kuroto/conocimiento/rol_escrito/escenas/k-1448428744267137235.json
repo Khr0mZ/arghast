@@ -1,0 +1,357 @@
+{
+  "id": "k-1448428744267137235",
+  "campana": "kuroto",
+  "unidad_revision": "k-1448428744267137235",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "Vespera arranca las sombras de Kurobane",
+  "resumen": "El intento del ninja de recuperar la confianza termina con una extracción dolorosa de su poder sombrío y su huida aterrada.",
+  "relato": "Durante su paseo nocturno, Vespera encuentra a Kurobane meditando. Él agradece la intención de curarlo en la incursión, aunque ella recuerda que rechazó su mano y la amenazó antes. El ninja se disculpa, habla del aislamiento de su monasterio y de haberse sentido utilizado por Osurai. Declara que quiere abandonar la magia sombría y pide su ayuda.\n\nVespera no acepta sus palabras como garantía: le reprocha haber arrancado el corazón a uno de los suyos y compara su inestabilidad con la de un general muerto. Al reconocer sentimientos que teme que desemboquen en otra calamidad, despliega su oscuridad y anuncia que impedirá que ese camino vuelva a empezar. Kurobane abre los brazos y afirma que no luchará contra ella, incluso si decide matarlo.\n\nLa general lo levanta por el cuello y lo rodea de sombras. La narración describe cómo arranca de su cuerpo aquello que lo impregnaba, con un dolor extremo y una sensación de vacío. Lo deja caer; el ninja huye entre tropiezos, dominado por el terror. Vespera aplasta la sombra retorcida que conserva en la mano y continúa su recorrido. El cierre afirma la extracción del poder, pero no desarrolla aquí su alcance permanente, la recuperación posterior del ninja ni una resolución completa de su historia.",
+  "participantes": [
+    "Vespera",
+    "Kurobane"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1448436978759634945",
+      "afirmacion": "Kurobane pide ayuda para abandonar la magia sombría.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1448437647436550325",
+      "afirmacion": "Vespera reprocha al ninja la muerte cruel de un yokai en la incursión.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1448440679536791774",
+      "afirmacion": "Kurobane declara que no se defenderá de Vespera.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1448444034627407933",
+      "afirmacion": "Vespera arranca mediante sombras algo impregnado en el cuerpo del ninja y lo deja caer.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1448446621447749870",
+      "afirmacion": "Vespera destruye la sombra extraída; la narración lo describe como haberle arrancado el poder.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Ilustración vista: figura demoníaca alada de varios ojos rojos; acompaña la manifestación descrita sin aportar una identidad nueva.",
+    "La extracción figura en el texto de rol y es aceptada por la respuesta de Kurobane; no se deduce una ficha mecánica, curación total, muerte de Osurai ni cierre de una gran trama fuera de lo narrado.",
+    "El episodio del corazón arrancado es una acusación retrospectiva de Vespera que Kurobane lamenta, no una acción ejecutada en este paseo."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-12-10T21:38:43.138000+00:00",
+  "fin_utc": "2025-12-10T22:50:00.155000+00:00",
+  "fecha_local": "2025-12-10",
+  "intervalo": {
+    "anterior": 172,
+    "siguiente": 173,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1448031934176428145",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1448753461364785172",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 172,
+        "fecha": "2025-12-09",
+        "inicio_referencia_utc": "2025-12-09T19:21:35+00:00",
+        "fin_estimado_utc": "2025-12-09T22:35:47+00:00",
+        "duracion_video_segundos": 11652,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1448031934176428145"
+      },
+      {
+        "capitulo": 173,
+        "fecha": "2025-12-11",
+        "inicio_referencia_utc": "2025-12-11T19:08:42+00:00",
+        "fin_estimado_utc": "2025-12-11T22:37:42+00:00",
+        "duracion_video_segundos": 12540,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1448753461364785172"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1448428744267137235",
+      "fecha_utc": "2025-12-10T21:38:43.138000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "Vespera: **Camina por el campamento de noche. Ni las estrellas ni la luna se dejan ver por las lluvias que no cesan de azotar estas tierras. Reconoce el perimetro para no necesitar que la guien como la ultima vez**",
+      "mensaje_sha256": "f3a8957d5a02db4d213ed69da4233a3deb7339d6fca4647bbdff1bf76258b2d9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448428744267137235",
+      "texto_sha256": "bafa0b0d14caf29929a62246b00f869166792458724ed60a96240c8378c09115",
+      "adjuntos": []
+    },
+    {
+      "id": "1448429230366134483",
+      "fecha_utc": "2025-12-10T21:40:39.033000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "Kuro:\n\n**Se vería al ninja sentado como un indio, con las piernas cruzadas, con los ojos cerrados, parece que está meditando sentado encima de una roca grande**",
+      "mensaje_sha256": "aa2a4fbcce91fd91ba40a54855a76e1be1e885d3cc325331e51cbc5017bb4c1f",
+      "tipo_discord": 19,
+      "referencia": "1448428744267137235",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448429230366134483",
+      "texto_sha256": "bcd0885f39eaca6f33bf81fb41a737560aff213b9f8f8025388aec4a194c5702",
+      "adjuntos": []
+    },
+    {
+      "id": "1448429475640377576",
+      "fecha_utc": "2025-12-10T21:41:37.511000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "Vespera: **Te ve meditando y decide no molestarte en tus rutinas nocturnas. Continua con su paseo**",
+      "mensaje_sha256": "65ae65e8bff7aaec26cc3db9fe579841373d2ced8c164a073c3cb659acb4aaf2",
+      "tipo_discord": 19,
+      "referencia": "1448429230366134483",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448429475640377576",
+      "texto_sha256": "690deaa05fc0a0b6cf1df680b6eaf4154d0f88d5757d43cd1ba337fc609323ab",
+      "adjuntos": []
+    },
+    {
+      "id": "1448429968236347536",
+      "fecha_utc": "2025-12-10T21:43:34.955000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "Kuro:\n\nAgradezco que hayas querido curarme en ese campamento.\n\n**Dice tranquilo mientras sigue con los ojos cerrados, al parecer te ha escuchado**",
+      "mensaje_sha256": "e280fca409b706dd638ab85afec75a71ac55445cec6868fe640d1f5f32d5bd8b",
+      "tipo_discord": 19,
+      "referencia": "1448429475640377576",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448429968236347536",
+      "texto_sha256": "1122ef025fd488114215a886cf509098b6a7e18d42f79174348df76f7b3e16c7",
+      "adjuntos": []
+    },
+    {
+      "id": "1448430233232474173",
+      "fecha_utc": "2025-12-10T21:44:38.135000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "Vespera: **Se para en seco** ...Apartaste mi mano y negaste mi ayuda... No hace falta que agradezcas un gesto que rechazaste **Te mira**",
+      "mensaje_sha256": "dc08d8ca9229d23ed4d1a62c1a3485705ff2d6974b83750488772376b1c46c5f",
+      "tipo_discord": 19,
+      "referencia": "1448429968236347536",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448430233232474173",
+      "texto_sha256": "84e4caa50789c42cc9dce8be0fc24a2d5455b7d0f9ad9f5c04acadeb01c94a34",
+      "adjuntos": []
+    },
+    {
+      "id": "1448431373189775441",
+      "fecha_utc": "2025-12-10T21:49:09.922000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "Kuro:\n\n**Se levantaría de la roca y de pie, se gira a mirarte**\n\nPero agradezco la intención, Vespera.",
+      "mensaje_sha256": "9da046f6f7005dbad71b8001f218d9382250ab72c438ed84ee481f1bffd5a22a",
+      "tipo_discord": 19,
+      "referencia": "1448430233232474173",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448431373189775441",
+      "texto_sha256": "f6751fa42910c931af01c653c5951a2e060178ddd446518dd33db25a0f2f45b0",
+      "adjuntos": []
+    },
+    {
+      "id": "1448432171298586624",
+      "fecha_utc": "2025-12-10T21:52:20.206000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "Vespera: Tu mismo me dijiste a la cara que no confias en mi **Se gira por completo para que veas su rostro** Y me amenazaste aquella noche... Deja que sea yo ahora la que dude de ti con tales palabras... Estado rodeada de demonios que saben manipular hasta la mas inamobible de las verdades",
+      "mensaje_sha256": "6059cff65fd1cfbf0b15b8f683d036acd2e52352a102f82d43dd518cf6074de4",
+      "tipo_discord": 19,
+      "referencia": "1448431373189775441",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448432171298586624",
+      "texto_sha256": "5f570f48fb6ef8e566ba7a236956d6a105bf52013bdb92e61e5996f727d39b81",
+      "adjuntos": []
+    },
+    {
+      "id": "1448433469200793733",
+      "fecha_utc": "2025-12-10T21:57:29.650000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "Kuro:\n\n**Ves que camina hacia ti, pasando a andar horizontalmente para bajar de la roca**\n\nMe cuesta pillar la confianza incluso de mi mismo, generala Vespera. \n\n**Dice serio pero tranquilo, no hay mentira en él, quedandose medianamente cerca tuya**\n\nY, entiendo perfectamente que dudes de mis palabras. \n\n**Te mira a los ojos, tiene una vista cansada pero sincera**\n\nPero espero que podamos seguir trabajando para los tuyos y los míos tengan un futuro mejor.\n\n**Te extiende una de sus manos**",
+      "mensaje_sha256": "d17ec3d63daffd779fed58f8e4244be0d29a0b404553a812a40839605b9f3ee8",
+      "tipo_discord": 19,
+      "referencia": "1448432171298586624",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448433469200793733",
+      "texto_sha256": "1b769dbe93f7ca6653912524130e525d688b3389ebba32d1a904da476aad7c0f",
+      "adjuntos": []
+    },
+    {
+      "id": "1448434176150732920",
+      "fecha_utc": "2025-12-10T22:00:18.200000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "Vespera: **Cuando te acercas parece tensarse y ponerse alerta** A pesar del comportamiento de tus compañeros... el tuyo es el que mas me descuadra... Eres...tan inestable como el general que murio ayer... Y no pienso volver a quedar tan expuesta como el dia que lo conoci... **Ves que se pone en posicion, extendiendo sus alas por completo**",
+      "mensaje_sha256": "cf9e0f0428d86591b8be5890110478bc04646e2f08a02d20f54d875d794cd1cb",
+      "tipo_discord": 19,
+      "referencia": "1448433469200793733",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448434176150732920",
+      "texto_sha256": "628dc2e36fe3c9351333b15a647abf5bc2e69c64bb6349661fd04f90ffdc0d07",
+      "adjuntos": []
+    },
+    {
+      "id": "1448435436648272002",
+      "fecha_utc": "2025-12-10T22:05:18.726000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "Kuro:\n\n**Sigue con el brazo hacia delante**\n\nDigamos que Shirz tiene razón llevo mucho tiempo sin establecer contacto con otra gente que no sea de mi Monasterio.\n\n**Se queda medio pensativo**\n\nAdemás con el tema de Osurai, me sentí utilizado.\n\n**Dice serio notas que está tranquilo y relajado, y totalmente sincero**",
+      "mensaje_sha256": "a5c1a68398acbda2391a6198131e1ff6b7ff2b48ecc57d65b1c9a141687afd74",
+      "tipo_discord": 19,
+      "referencia": "1448434176150732920",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448435436648272002",
+      "texto_sha256": "146364ff8f79355c2eaa6af8074fd05cc34ea85c601e8b8921461a95adacf715",
+      "adjuntos": []
+    },
+    {
+      "id": "1448435827247153273",
+      "fecha_utc": "2025-12-10T22:06:51.852000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "Vespera: **Sus ojos luminosos como las llamas del abismo se clavan en ti** ¿Como se que no vas a usar ese poder robado en mi contra?",
+      "mensaje_sha256": "3b234a2c933e27f06e2a52fcce27071c4225681ebe28c07dc300af373bac7185",
+      "tipo_discord": 19,
+      "referencia": "1448435436648272002",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448435827247153273",
+      "texto_sha256": "f62f7776bc413ec7e52a3e4ec30e3e92acfbb2924603c6f9456c2763accc2a5f",
+      "adjuntos": []
+    },
+    {
+      "id": "1448436978759634945",
+      "fecha_utc": "2025-12-10T22:11:26.394000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": "2025-12-10T22:12:46.808000+00:00",
+      "texto": "Kuro:\n\n**Te mira a los ojos tranquilos sus ojos rojos no se quitan de los tuyos**\n\nPorque planeo no utilizar esa magia. Quiero volver al camino de la luz. Y, me gustaría que tú me ayudases.\n\n**Dice sincero, no ves mentira ni en sus ojos ni en sus palabras**",
+      "mensaje_sha256": "130fb340ef35314a3235c9329c6e4eb4bc05ac304cd2c1f78486000da5254f57",
+      "tipo_discord": 19,
+      "referencia": "1448435827247153273",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448436978759634945",
+      "texto_sha256": "b5a17aad8a9894bf666b306a13c6d41be31b8f45032c7eb9992cf0b830bae1d6",
+      "adjuntos": []
+    },
+    {
+      "id": "1448437647436550325",
+      "fecha_utc": "2025-12-10T22:14:05.819000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": "2025-12-10T22:15:46.890000+00:00",
+      "texto": "Vespera: **Frunce el ceño** Eso no fue lo que te dijo... Hablasteis delante de mi tienda... **Tensa la mandibula** Ademas vi como de forma cruel e inecesaria le arrancabaste el corazon a uno de los mios... Puedes decir la verdad en tus palabras... Pero demuestras todo lo contrario...",
+      "mensaje_sha256": "4e55dd06a4914188f5334597a5c1058ef1f49b6ac8f0092bad1e8dd7a43bb2af",
+      "tipo_discord": 19,
+      "referencia": "1448436978759634945",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448437647436550325",
+      "texto_sha256": "944485d54199e15582a575e508c0d1f8b6cc9a70d7119095dc5fc6d5d37ae482",
+      "adjuntos": []
+    },
+    {
+      "id": "1448438449026892007",
+      "fecha_utc": "2025-12-10T22:17:16.933000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "Kuro:\n\nY te pido perdón por ello.\n\n**Dice serio ves remordimiento en sus ojos cuando nombras la muerte de ese Yokai**",
+      "mensaje_sha256": "e726146a002afac9d53cf0661ad8779dddf115e88e497f0fab4bec2718527e06",
+      "tipo_discord": 19,
+      "referencia": "1448437647436550325",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448438449026892007",
+      "texto_sha256": "914d487ff219661f8168dce3d074648c8be9f646faa535b6a5a585ccf9900f19",
+      "adjuntos": []
+    },
+    {
+      "id": "1448439672505237616",
+      "fecha_utc": "2025-12-10T22:22:08.633000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "Vespera: **Te mira a los ojos y ve algo en ellos una mezcla de sentimientos que ya vio en otros ojos antes... y sabe como acabo ese camino. De repente ves como las sombras se intensifican y se arremolianan a su alrededor hasta tomar esa forma que viste en batalla... Su aura grita muerte mientras las luces tiemblan levemente en su presencia mientras agonizan** No permitire que nadie mas vuelva a tomar esa senda... Acabare con esto antes de que inicie... **Su voz suena de ultratumba, profunda, temible...sombria**",
+      "mensaje_sha256": "630569f595fe4114e19310a1a7ba1e197b525fc8cc966acf3a7ed7ca772a8406",
+      "tipo_discord": 19,
+      "referencia": "1448438449026892007",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448439672505237616",
+      "texto_sha256": "cf5ed3f96e53ecece06242ac6dfdb6d1dceadc65a763fe0f7aab5b5f9fe8caa1",
+      "adjuntos": [
+        {
+          "id": "1448439671456796672",
+          "nombre": "image.png",
+          "tipo": "image/png",
+          "archivo": "adjuntos/1448439671456796672.png",
+          "url": "rol_escrito/adjuntos/1448439671456796672.png",
+          "bytes": 1226385,
+          "sha256": "a92b516ffff07e13b7028b835167212cbc5d16a9690b825238c42805129f6916"
+        }
+      ]
+    },
+    {
+      "id": "1448440679536791774",
+      "fecha_utc": "2025-12-10T22:26:08.728000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "Kuro:\n\n**Abre los brazos**\n\nSi quieres terminar conmigo, te dejaré hacerlo. Una vida por otra. No voy a pelear contigo, los demás confían en ti y en tu información.\n\n**Dice tranquilo como si aceptará las consecuencias de sus actos**",
+      "mensaje_sha256": "9d416a348d2823cbb2622607d943408f062528e07b2f729042b101e42517affd",
+      "tipo_discord": 19,
+      "referencia": "1448439672505237616",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448440679536791774",
+      "texto_sha256": "7b94ab055617cca281ee23e6543bd6a568e59e6c0c0d05e5e2686da1854c4a45",
+      "adjuntos": []
+    },
+    {
+      "id": "1448444034627407933",
+      "fecha_utc": "2025-12-10T22:39:28.644000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": "2025-12-10T22:42:39.385000+00:00",
+      "texto": "Vespera: **Te toma del cuello y te levanta hasta que quedas a la altura de sus ojos. Su mano te aprieta con fuerza pero no la suficiente para que te ahoges pero si para que agonices y quieras luchar por aire. Las sombras se arremolinan a tu alrededor... Ves copias de ella que parecen emitir sonidos estremecedores sin abrir la boca... No se parecen en nada a las tuyas... Son encarnaciones de una oscuridad tan oscura y prohibida que en tu interior sabes que no deberia tocar este plano... La sombras parecen desgarrar tu piel de forma dolorosa. Y frente a ti...varios faros de un rojo inquietante como la sangre parecen ceñirse sobre ti por momentos. El olor a hierro... a muerte y a una magia prohibida te sobrecoge... Y pronto sientes como algo que estaba impregnado en ti... En cada hueso, en cada organo, celula... Es arrancado de forma cruel y abrupta, probocandote tal dolor que no puedes gritar... solo emitir gemidos lastimeros y agonizantes mientras algo sale de tu cuerpo... No sabes si es tu alma que este demonio reclama o tu propia vida... Pero si sabes lo que todo tu ser grita: ¡ESTO ES LA OSCURIDAD, LA MUERTE, LO QUE NUNCA DEBIO SER LIBERADO...!**\n\nNo permitire que vuelva a surgir otro azote que pueda desolar lo poco que quede de mi tierra **Escuchas una voz que te hiela la sangre**\n\n**Despues de unos agonizantes momentos sintes como tu cuerpo esta apunto de rendirse ante el doliente sentimiento y de un vacio que parece desgarrarte por dentro. Y entonces caes al suelo rodeado de esa oscuridad y de esos ojos rojos que comienzan a desahacerse... Mas el sentiemiento no cesa... un miedo intintivo que te grita que corras lejos de esa oscuridad**",
+      "mensaje_sha256": "6ee6560a83d545f0154949a1d079ff2552ff3027acfe058fd3231757946fe32c",
+      "tipo_discord": 19,
+      "referencia": "1448440679536791774",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448444034627407933",
+      "texto_sha256": "23a52d55ce3c9433f6ac42c96256a0cac0da638df09429a88e8eacedd80cd7a3",
+      "adjuntos": []
+    },
+    {
+      "id": "1448446137924321322",
+      "fecha_utc": "2025-12-10T22:47:50.109000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": "2025-12-10T22:49:54.588000+00:00",
+      "texto": "Kuro:\n\n**Se va corriendo trastabillando en cada paso, cayéndose, adentrándose en el campamento, lo ves alejandose torpemente. Corre sin rumbo fijo**",
+      "mensaje_sha256": "b01a8ee6d26d5964666c344be9eec68f8f947fb6e5e0325f95f83ece6467ed1d",
+      "tipo_discord": 19,
+      "referencia": "1448444034627407933",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448446137924321322",
+      "texto_sha256": "af711adedad523fa0bf1af23bac890d9a7935284d49cf095422071e4dd549248",
+      "adjuntos": []
+    },
+    {
+      "id": "1448446621447749870",
+      "fecha_utc": "2025-12-10T22:49:45.390000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "Vespera: **Ve como huyes y deja que te marches mientras una sombra se arremolina y retuerce en su mano... Justo entonces la aplasta como un insecto deshaciendose... La luz del campamento deja de tintinear y ella continua con su caminata... Como si nunca le hubiera arrancado el poder a alguien**",
+      "mensaje_sha256": "86247b28cfbc853e5782fbb2aee21b343b46266cac061dd2a3843039cde5f955",
+      "tipo_discord": 19,
+      "referencia": "1448446137924321322",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448446621447749870",
+      "texto_sha256": "35160a3b6837411ea650a15a832b284a5975141aeb91362157b4213ccfffd801",
+      "adjuntos": []
+    },
+    {
+      "id": "1448446683376648203",
+      "fecha_utc": "2025-12-10T22:50:00.155000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "🔴 **Fin de escena**🔴",
+      "mensaje_sha256": "f3defb84a960cf7b07516b1ebecba45234d702857a72316c8ca38d6cae49874e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1448446683376648203",
+      "texto_sha256": "0e513b9a495850850524d0965f55df051cd0b6a138120693016da3f3ffd42ccd",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+{
+  "id": "k-1406983166366847147",
+  "campana": "kuroto",
+  "unidad_revision": "k-1406983166366847147",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Las preguntas sobre las esferas",
+  "resumen": "Banzo encomienda a Kurobane investigar las esferas; Jhin solicita después apoyo para preparar tropas.",
+  "relato": "Banzo regresa del puerto tras ver llegar a los tritones y tropieza con Kurobane, que vuelve por el portal. El ninja se disculpa por haber antepuesto sus preguntas a las necesidades de los Cazadores durante el encuentro con los Guardianes. Banzo le pide reparar el error investigando dos cuestiones: encontrar afinidad con un elemento o alguien afín a una esfera, y averiguar cómo una persona podría tocar las cuatro a la vez. Kurobane propone consultar a quien las llevaba; Banzo reserva la conversación con Danifae para el último recurso y promete solicitar acceso a la biblioteca de palacio. También explica que los recién llegados vienen como aliados del reino de Kalista para ayudar contra las oleadas. El ninja mantiene sus recelos, y el goliat le ordena evitar provocaciones antes de marcharse por el portal. Su intención de salvarlo de la sombra queda en un pensamiento privado.\n\nDentro de Sho, Jhin estudia movimientos marciales y un cuaderno rojo. Pide ayuda a Kurobane para diseñar un entrenamiento que aproveche capacidades distintas entre los soldados. El ninja propone meditación, sigilo y ataques desde ocultación. Jhin insiste en identificar pronto a personas con potencial y solicita colaboración efectiva. Kurobane responde que primero debe atender otros asuntos y promete ayudar cuando pueda; Jhin, decepcionado, vuelve a escribir y anuncia que buscará a otra persona. No se inicia el entrenamiento.",
+  "participantes": [
+    "Banzo",
+    "Kurobane",
+    "Jhin"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1406990628180725790",
+      "afirmacion": "Kurobane reconoce haber antepuesto sus preguntas a las de los Cazadores.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1406993251940040784",
+      "afirmacion": "Banzo le encarga investigar la afinidad elemental y el contacto simultáneo con las cuatro esferas.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1406997061198544947",
+      "afirmacion": "Banzo reserva la consulta a Danifae como último recurso y ofrece gestionar la biblioteca.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1406998442877784195",
+      "afirmacion": "Banzo explica la alianza con el reino de Kalista y el apoyo de los tritones.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1407001010404327438",
+      "afirmacion": "Banzo piensa en privado que quiere liberar a Kurobane.",
+      "tipo": "pensamiento"
+    },
+    {
+      "mensaje_id": "1407002861707071621",
+      "afirmacion": "Banzo sale por el portal pidiendo evitar provocaciones.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1407005268365017138",
+      "afirmacion": "Jhin explica su programa de entrenamiento adaptado a habilidades diferentes.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1407006672987357286",
+      "afirmacion": "Kurobane sugiere meditación, sigilo y emboscadas.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1407008732990275688",
+      "afirmacion": "Kurobane pospone su colaboración por otros compromisos.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1407009140546732212",
+      "afirmacion": "Jhin decide solicitar ayuda a otra persona.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Las preguntas sobre las esferas no quedan resueltas, ni se obtiene aquí afinidad elemental.",
+    "La vigilancia atribuida a los tritones es una percepción o sospecha de los interlocutores; su condición de aliados se conoce por Banzo.",
+    "El contenido del cuaderno rojo de Jhin no permite asignarle autoría de su hermano ni identificar a este.",
+    "Las sugerencias militares son propuestas, sin tropas entrenadas ni ventajas adquiridas en esta escena."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-08-18T12:48:47.345000+00:00",
+  "fin_utc": "2025-08-18T19:32:37.851000+00:00",
+  "fecha_local": "2025-08-18",
+  "intervalo": {
+    "anterior": 147,
+    "siguiente": 148,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1406697567479271588",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1408150475005493401",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 147,
+        "fecha": "2025-08-17",
+        "inicio_referencia_utc": "2025-08-17T17:53:35+00:00",
+        "fin_estimado_utc": "2025-08-17T20:19:39+00:00",
+        "duracion_video_segundos": 8764,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1406697567479271588"
+      },
+      {
+        "capitulo": 148,
+        "fecha": "2025-08-21",
+        "inicio_referencia_utc": "2025-08-21T18:06:59+00:00",
+        "fin_estimado_utc": "2025-08-21T21:15:11+00:00",
+        "duracion_video_segundos": 11292,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1408150475005493401"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1406983166366847147",
+      "fecha_utc": "2025-08-18T12:48:47.345000+00:00",
+      "fecha_local": "2025-08-18",
+      "editado_utc": null,
+      "texto": "Banzo : **llega a la base desde el puerto tras ver la llegada de los calamardos **",
+      "mensaje_sha256": "da33be600b2561de6f822eae0f654175ce11eb333ff873a8b966fbc2d7f1b167",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1406983166366847147",
+      "texto_sha256": "50364753f3b0cd38354eadf4df1dfb92940d7a9de5a2e852f263c22bb882c939",
+      "adjuntos": []
+    },
+    {
+      "id": "1406983747621883915",
+      "fecha_utc": "2025-08-18T12:51:05.927000+00:00",
+      "fecha_local": "2025-08-18",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\n**Se escuchar crepitar el portal  de la base de Sho, veríamos al nin nin, pensativo en como podrá arreglar la actitud que tuvo ante los guardianes, se estampa contra el gigante <@616683133374562304>**\n\nDisculpa, no le he visto.",
+      "mensaje_sha256": "4121067164b3a8ae444f2844ea58d37c528e8ab6a578ffbe263f7f6a0cec944e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1406983747621883915",
+      "texto_sha256": "8b403db3471c13701dc73b30cf1aa3d33f6830f9c640b77c2293a6738dbbe321",
+      "adjuntos": []
+    },
+    {
+      "id": "1406984581990580285",
+      "fecha_utc": "2025-08-18T12:54:24.856000+00:00",
+      "fecha_local": "2025-08-18",
+      "editado_utc": null,
+      "texto": "jhin: \n**estaria sentado en una silla mirando un cuaderno de color rojo y con varios papeles en la mesa que parecen mostrar diferentes movimientos marciales**\ncomo lo harias hermano\n**parece que esta concentrado y no os ha visto**",
+      "mensaje_sha256": "545c59bc607412c76d5a022bfd200b2a9beac1514977c4fc5c9f99f863a2123a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1406984581990580285",
+      "texto_sha256": "9ed0d00caef159736495e1bb1d11a6c454283dc2c677ea387c92e79ae39527c2",
+      "adjuntos": []
+    },
+    {
+      "id": "1406989885469884427",
+      "fecha_utc": "2025-08-18T13:15:29.304000+00:00",
+      "fecha_local": "2025-08-18",
+      "editado_utc": null,
+      "texto": "Banzo: kurobane ... \nIba a ir a tu choza a ver si estabas allí.  \n\nHan llegado los tritones los has visto por el sur ?",
+      "mensaje_sha256": "49e3aa6db6eef5cc11bfeb2f1bec71e8cc80563221badd1732cd35b608a6a009",
+      "tipo_discord": 19,
+      "referencia": "1406983747621883915",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1406989885469884427",
+      "texto_sha256": "04f7036e0bdc38f00ccff83a286c9fdec45447697cf30576d4b76208e4257590",
+      "adjuntos": []
+    },
+    {
+      "id": "1406990628180725790",
+      "fecha_utc": "2025-08-18T13:18:26.380000+00:00",
+      "fecha_local": "2025-08-18",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\n**Asiente con la cabeza**\n\nEfectivamente, no me fio nada de ellos. No se a que vienen ni porque. Pero para eso ya iré a ver a la Shogun. \n\n**Comenta serio parece ser que está mejor de lo que pasó la otra vez**\n\nDebo pedirte perdón, Banzo. Por mi comportamiento, interpuse mis preguntas a las de los cazadores.",
+      "mensaje_sha256": "168790093647aa6f3832e7d1f0a32e2408748251b723f1728abec7fc2540ecca",
+      "tipo_discord": 19,
+      "referencia": "1406989885469884427",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1406990628180725790",
+      "texto_sha256": "fe858034219007dfe3d8ae4cab214417f1221e958c4c9eb3fde97a554d24dfd2",
+      "adjuntos": []
+    },
+    {
+      "id": "1406993251940040784",
+      "fecha_utc": "2025-08-18T13:28:51.933000+00:00",
+      "fecha_local": "2025-08-18",
+      "editado_utc": null,
+      "texto": "Banzo : esta bien que te hayas dado cuenta . \nYo se que querias ir a esa mision y fuiste muy paciente.  Eso no quita que quizá ya no tengamos oportunidad de volver hablar con ellos . \nNo te has de disculpar . Enmienda el error . \nNecesitamos saber mas sobre el tema que le pregunte.  \nDeberás encargarte tu de buscar respuesta a dos preguntas . \nPrimera . Dominarás un elemento o encontrarás a alguien que sea afín a una de las esferas . \nSegunda . Como una sola persona puede tocar las 4 a la vez . \nAceptas el reto ?",
+      "mensaje_sha256": "a3c64728d21422a36738781f9a3ef15919f3fcd5af080e04ee33e72a2be393a1",
+      "tipo_discord": 19,
+      "referencia": "1406990628180725790",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1406993251940040784",
+      "texto_sha256": "149ecb42bc373691da128b00aee8653db9e58282a9f36fd8b1c8223902f625ce",
+      "adjuntos": []
+    },
+    {
+      "id": "1406993886588702791",
+      "fecha_utc": "2025-08-18T13:31:23.245000+00:00",
+      "fecha_local": "2025-08-18",
+      "editado_utc": "2025-08-18T13:36:36.535000+00:00",
+      "texto": "Kurobane:\n\nSi son objetos mágicos, no soy muy diestro en ellos, Banzo.  Los trucos mágicos que utilizo es \"gracias\" a quien tu sabes.\n\n**Se queda pensativo por un momento**\n\nSe que es una idea loca, pero y si se lo preguntamos a la que portaba las esferas todo este tiempo?",
+      "mensaje_sha256": "d7a3690e45ac1772bbf05706caa06c94c1a65c00ae19e7ad6fb472c933dbe765",
+      "tipo_discord": 19,
+      "referencia": "1406993251940040784",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1406993886588702791",
+      "texto_sha256": "4fb228a6293592a45839803ef83b37dc644684c158d43f58e821d26ecc0f32ed",
+      "adjuntos": []
+    },
+    {
+      "id": "1406997061198544947",
+      "fecha_utc": "2025-08-18T13:44:00.131000+00:00",
+      "fecha_local": "2025-08-18",
+      "editado_utc": "2025-08-18T13:45:36.755000+00:00",
+      "texto": "Banzo : quiero que sea el último recurso.  Además hay algo que no me cuadra . \nLleva demasiado tiempo encerrada y créeme, se que tiene prisa . \nSea lo que sea lo va a hacer ya . \n\nTe he visto investigando el asunto de la daga de Kalista . Si pones la mitad de empeño en lo de las esferas seguro que algo nuevo descubrimos . \n\nAvisare a Jelbreg para que te den acceso a la biblioteca de palacio si lo necesitas . \n\nPero hablar con la araña será el último recurso.",
+      "mensaje_sha256": "7892d41a6c3046db6e17d1a4adc8eb636d8d61fb398316b8b2faf99f332e8b47",
+      "tipo_discord": 19,
+      "referencia": "1406993886588702791",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1406997061198544947",
+      "texto_sha256": "1d612c508a6e0cd36d675bb69bfcf786172932fc158d45f5708783e0241394fc",
+      "adjuntos": []
+    },
+    {
+      "id": "1406997593438945362",
+      "fecha_utc": "2025-08-18T13:46:07.027000+00:00",
+      "fecha_local": "2025-08-18",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nSi acepto esto, quien vigilará las \"nuevas\" gentes que están en el sur. \n\n**Notas que está molesto de no saber que hacen esas personas allí**",
+      "mensaje_sha256": "1983f84bb14e4e66db87316e7245dda0c765c8e6d477740ab182ad3d5b00668e",
+      "tipo_discord": 19,
+      "referencia": "1406997061198544947",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1406997593438945362",
+      "texto_sha256": "01c5ec4fd50ef961cee226051c2fb84fef7287d4aa6d73fd825e93c55906fe3f",
+      "adjuntos": []
+    },
+    {
+      "id": "1406998442877784195",
+      "fecha_utc": "2025-08-18T13:49:29.549000+00:00",
+      "fecha_local": "2025-08-18",
+      "editado_utc": null,
+      "texto": "Banzo : por el momento mantengamos la distancia con ellos.  \nKuroto y el reino de Kalista han formado una alianza. \nVienen a apoyarnos en las oleadas.",
+      "mensaje_sha256": "ab50c8d83b0fbe6f6db22ac8fb719744e03a89aabbfd3df15a52d67f7281f199",
+      "tipo_discord": 19,
+      "referencia": "1406997593438945362",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1406998442877784195",
+      "texto_sha256": "b2c48b0ec4afd1e0d9b70872f2aea21eea34175b4efbb01f2ab00772b388542b",
+      "adjuntos": []
+    },
+    {
+      "id": "1406998916003528825",
+      "fecha_utc": "2025-08-18T13:51:22.351000+00:00",
+      "fecha_local": "2025-08-18",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\n**Mantiene su mirada de no fiarse de ellos**\n\nEntiendo lo que dices, Banzo, pero les tendré un para de ojos encima.",
+      "mensaje_sha256": "cf9fa98d21b3010ec34b45b23860bc571cccdafad0739694cea39d8dbfb6d24e",
+      "tipo_discord": 19,
+      "referencia": "1406998442877784195",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1406998916003528825",
+      "texto_sha256": "662146618bcaf6c4413f76ce18392a9ea64f0cc6700ba1552ef877a54a89acbe",
+      "adjuntos": []
+    },
+    {
+      "id": "1407001010404327438",
+      "fecha_utc": "2025-08-18T13:59:41.695000+00:00",
+      "fecha_local": "2025-08-18",
+      "editado_utc": null,
+      "texto": "Banzo : si , ellos ya los tienen en nosotros.  \n**hecha un vistazo a los alrededores de la base . No ha visitado a nadie pero tiene la certeza que alguien observa ** \nKuro . He de marchar.  **se queda mirandote\n*voy a ayudarte amigo , de verdad  voy a sacarte eso . Celebraremos juntos en el salón de dragón* \n\nEspero que consigas algo de información.  \nVarios de los cazadores no pasan por su mejor momento personal.  \nSi de verdad entendiste mi enfado . Trabaja para el grupo.  Eres un ninja . \n*lo siento amigo*\nNos vemos pronto kuro . \n**le asiente en señal de despedida y se dirige al portal **",
+      "mensaje_sha256": "214bdea79b025e6a0b00639d998d020e324927c9bf8485a944825a9356bf35ba",
+      "tipo_discord": 19,
+      "referencia": "1406998916003528825",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1407001010404327438",
+      "texto_sha256": "cc68aa7ecfba6474281a19d0e10a365d23ca5db7738e095e0bab8b817547382a",
+      "adjuntos": []
+    },
+    {
+      "id": "1407001638970986601",
+      "fecha_utc": "2025-08-18T14:02:11.557000+00:00",
+      "fecha_local": "2025-08-18",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nQue te vaya bien en aquello que vayas a hacer, Banzo.\n\n**Dice mientras se despide del goliath**",
+      "mensaje_sha256": "40231cc6187b8b3eb5e1d9bbe98c7f5488ff54c124d18c9c7b2d0bea5c537279",
+      "tipo_discord": 19,
+      "referencia": "1407001010404327438",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1407001638970986601",
+      "texto_sha256": "c13f43273d8bab53387cac0a817b01ab864b4b3a91c0df30d8cf8e430984e7dc",
+      "adjuntos": []
+    },
+    {
+      "id": "1407002861707071621",
+      "fecha_utc": "2025-08-18T14:07:03.080000+00:00",
+      "fecha_local": "2025-08-18",
+      "editado_utc": null,
+      "texto": "Banzo : gracias Kuro. recuerda no entrar en provocaciones de los tritones . Me huele que van a buscar bulla . \n**marcha por el portal **",
+      "mensaje_sha256": "da2d2def4c540bf569b9b7505bd17d87284497b59b592132f1e54a5faac360b2",
+      "tipo_discord": 19,
+      "referencia": "1407001638970986601",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1407002861707071621",
+      "texto_sha256": "93575eb1b15bb1bb072d3c4c787b7c3b832c6d0bfad4ce2c2ee137d83036361e",
+      "adjuntos": []
+    },
+    {
+      "id": "1407003214552895519",
+      "fecha_utc": "2025-08-18T14:08:27.205000+00:00",
+      "fecha_local": "2025-08-18",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nLo tengo en cuenta.\n\n**Entra en la base de los cazadores**",
+      "mensaje_sha256": "da910ea38c7516d98c5e9be7c31cca07e29f724b3ddf5e39c3f2ad2d060c82ba",
+      "tipo_discord": 19,
+      "referencia": "1407002861707071621",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1407003214552895519",
+      "texto_sha256": "2f9b4187a75ab46e3be7a4030f3a4935bc23d81344cdc4f6562d56ddd7e1266f",
+      "adjuntos": []
+    },
+    {
+      "id": "1407003664798974053",
+      "fecha_utc": "2025-08-18T14:10:14.552000+00:00",
+      "fecha_local": "2025-08-18",
+      "editado_utc": null,
+      "texto": "jhin:\n**cuando escucha la puerta abrirse levanta la cabeza de esos papeles y cierra esa libreta de color rojo**\nAh hola kurobane llevo tiempo sin verte",
+      "mensaje_sha256": "36a34f273f8c27794e858a36e98d3137f06e7d4aec3690fae87a72a7a8c05686",
+      "tipo_discord": 19,
+      "referencia": "1407003214552895519",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1407003664798974053",
+      "texto_sha256": "daa42ff56afee4717c8d297eb34ef8b7fadecc291481c02c38d475d50d705bfd",
+      "adjuntos": []
+    },
+    {
+      "id": "1407004039215845467",
+      "fecha_utc": "2025-08-18T14:11:43.820000+00:00",
+      "fecha_local": "2025-08-18",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nSaludos, Jhin. Como le va con sus cosas?\n\n**Ves que se sienta en el cofre que está al lado de la puerta**",
+      "mensaje_sha256": "6c8791e4a58b19bcaeb39560b8c13b02077c64710899ba4d208567e6db8185ff",
+      "tipo_discord": 19,
+      "referencia": "1407003664798974053",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1407004039215845467",
+      "texto_sha256": "947102607ab8e21a45ee8d360226e6702db0be4b4f374cc944124650dbe8eb8d",
+      "adjuntos": []
+    },
+    {
+      "id": "1407004243331649657",
+      "fecha_utc": "2025-08-18T14:12:32.485000+00:00",
+      "fecha_local": "2025-08-18",
+      "editado_utc": null,
+      "texto": "jhin: \nDificil quiza tu puedas ayudarme con esto acercate\n**te hace una señal para que te acerques y te sientes a su lado**",
+      "mensaje_sha256": "0349bbd3f9344e9e6e43e12d9d6e592831516b6f6bcbd41127b64b22809dd4f2",
+      "tipo_discord": 19,
+      "referencia": "1407004039215845467",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1407004243331649657",
+      "texto_sha256": "a320c515620062079a513253b4d1e895e8c5eed2b4d5359a9e45bdbefdd3d332",
+      "adjuntos": []
+    },
+    {
+      "id": "1407004636446982294",
+      "fecha_utc": "2025-08-18T14:14:06.211000+00:00",
+      "fecha_local": "2025-08-18",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\n**Se acerca lentamente, hasta colocarse a un lado suyo**\n\nEn que necesita ayuda",
+      "mensaje_sha256": "74c6468e899addbecdf2134a73801c5751391ea9b1037fde13a4cfcabf77c93c",
+      "tipo_discord": 19,
+      "referencia": "1407004243331649657",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1407004636446982294",
+      "texto_sha256": "b1a2a8e97de9714012456f55da106975d5aa42db74cf9ce492bc780a52573460",
+      "adjuntos": []
+    },
+    {
+      "id": "1407005268365017138",
+      "fecha_utc": "2025-08-18T14:16:36.872000+00:00",
+      "fecha_local": "2025-08-18",
+      "editado_utc": null,
+      "texto": "jhin: \nEstoy intentando desarrollar un progama de entrenamiento para los soldados algo que quiza pueda ayudarnos a estabilizar la balanza a nuestro favor\n**te va enseñando alguna de las cosas que esta haciendo se ven varios entrenamientos con armas progamas para entrenar resistencia y fuerza**\nNecesito otra forma de entrenamiento no todos tienen las mismas habilidades quiza algunos sean mas agiles que fuertes",
+      "mensaje_sha256": "51ddf4017099ebaaf60fda0a020ed22fe5abfbb235d73e0d1085fce7e578b335",
+      "tipo_discord": 19,
+      "referencia": "1407004636446982294",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1407005268365017138",
+      "texto_sha256": "9116f21aa39438fcd11e43b3dfe9649945a5e2523489cd2fa8e67f0846f329fb",
+      "adjuntos": []
+    },
+    {
+      "id": "1407006672987357286",
+      "fecha_utc": "2025-08-18T14:22:11.760000+00:00",
+      "fecha_local": "2025-08-18",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nTambién es bueno tener la mente clara y centrada en el campo de batalla, la meditación es una posible opción. Luego, para la gente mas ágil, le diría que entrenarán a escabullirse sin ser vistos, atacar y volver a esconderse, con ese tipo de entrenamiento las posibles emboscadas serán mas efectivas y esos demonios no podrán con ellos.",
+      "mensaje_sha256": "24949c9dd112e91318467082c4498efd9f5cf2f09aa734431c75a4819974edc7",
+      "tipo_discord": 19,
+      "referencia": "1407005268365017138",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1407006672987357286",
+      "texto_sha256": "52e369ec41de24ecfe607c3b6dd18af85b2351f37face14a7c589cc2d942cb62",
+      "adjuntos": []
+    },
+    {
+      "id": "1407007601744547900",
+      "fecha_utc": "2025-08-18T14:25:53.193000+00:00",
+      "fecha_local": "2025-08-18",
+      "editado_utc": null,
+      "texto": "jhin:\nEl problema es que no tenemos tiempo para entrenarlos a todos si queremos que esto funcione gente con experiencia como los cazadores debemos encontrar a gente con potencial y alimentar ese potencial \n**mira a un tablero de ajedrez que esta en la mesa las piezas negras han perdido mucho de sus peones aunque las blancas parecen ser mas numerosas estan desperdigadas sin ningun tipo de control**\nY tenemos que hacerlo rapido o acabaremos muertos \n¿me ayudarias a entrenar a las tropas kurobane?",
+      "mensaje_sha256": "4083eab683e8f0c6cfa47ef0fb77fb15a4b40af2eca46702329f6bc70534163a",
+      "tipo_discord": 19,
+      "referencia": "1407006672987357286",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1407007601744547900",
+      "texto_sha256": "908a482b28a683f115fce46d12f847aa4160f3126f6c38fae5248bd781d57a99",
+      "adjuntos": []
+    },
+    {
+      "id": "1407008732990275688",
+      "fecha_utc": "2025-08-18T14:30:22.903000+00:00",
+      "fecha_local": "2025-08-18",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nMe temo que debo de ayudar en un par de cosas antes, Jhin. Pero cuando pueda no dudaré en bajar para echar una mano en el entrenamiento de las tropas.\n\n**Coloca su mano en el hombro del guerrero y después de un poco tiempo se levantaría para dirigirse a su habitación**",
+      "mensaje_sha256": "f2aa438f257073b4b2fc01306688e1d6b0b0d513d4118970d245c15974eb7c08",
+      "tipo_discord": 19,
+      "referencia": "1407007601744547900",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1407008732990275688",
+      "texto_sha256": "835a7364589bd2f3b0afa9cab7ce2009606d6ea749c13f627bfc334877f7ef6e",
+      "adjuntos": []
+    },
+    {
+      "id": "1407009140546732212",
+      "fecha_utc": "2025-08-18T14:32:00.072000+00:00",
+      "fecha_local": "2025-08-18",
+      "editado_utc": null,
+      "texto": "jhin: \nesperaba que me ayudaras al menos a idear un plan de entrenamiento pero si tienes prisa se lo pedire a otro\n**se vuelve a sus papeles y se pone a escribir**",
+      "mensaje_sha256": "319c3e5fc030ef2438e5f1b0f33ce955d534171bd5f01dbe830fd167c82b9a14",
+      "tipo_discord": 19,
+      "referencia": "1407008732990275688",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1407009140546732212",
+      "texto_sha256": "dd0014097849784e757cca688be5862c4ab245f701b846ceccd07966d4fe7da0",
+      "adjuntos": []
+    },
+    {
+      "id": "1407013887139774596",
+      "fecha_utc": "2025-08-18T14:50:51.748000+00:00",
+      "fecha_local": "2025-08-18",
+      "editado_utc": null,
+      "texto": "🌘  Kurobane sale de escena 🌘",
+      "mensaje_sha256": "c4012dbfa33dc81db96b193baff1d537de3e3b97b3d7ac3c8f95b4d9f0327859",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1407013887139774596",
+      "texto_sha256": "c95c2d2144e50caef4db8a65812f7e48d8f1d17ec38631b3a00505e2759d70d5",
+      "adjuntos": []
+    },
+    {
+      "id": "1407084796475211919",
+      "fecha_utc": "2025-08-18T19:32:37.851000+00:00",
+      "fecha_local": "2025-08-18",
+      "editado_utc": null,
+      "texto": "🔴 fin de escena🔴",
+      "mensaje_sha256": "4e444a335b388406c1d4369c685dd75548eed8d197add9e12f143d5c40961993",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1407084796475211919",
+      "texto_sha256": "906cd6a490f27f6a27bf957ba49b4845aca936431f5924262141d6e0dea25762",
+      "adjuntos": []
+    }
+  ]
+}

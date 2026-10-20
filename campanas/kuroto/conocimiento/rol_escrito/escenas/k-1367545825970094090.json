@@ -1,0 +1,110 @@
+{
+  "id": "k-1367545825970094090",
+  "campana": "kuroto",
+  "unidad_revision": "k-1367545825970094090",
+  "hilo_id": "1362071806441160834",
+  "hilo_nombre": "Base Ukyio - Sala principal",
+  "titulo": "Banzo deja un aviso de muerte para Wukong",
+  "resumen": "Anuncia que el jefe ha muerto, deja un dibujo y sale hacia Sho con un atuendo de monje encontrado por los tanukis.",
+  "relato": "Banzo entra por el portal buscando a Wukong y anuncia que el jefe ha muerto. No recibe respuesta dentro de la breve fuente y no da aquí su nombre ni las circunstancias. Deja uno de sus dibujos explicativos para el monje. Los tanukis encuentran un antiguo atuendo monástico que parece de su talla; el goliat les agradece la ayuda y parte con él por el portal hacia Sho. El contenido del dibujo y el uso del disfraz no se muestran.",
+  "participantes": [
+    "Banzo",
+    "Tanukis"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1367545825970094090",
+      "afirmacion": "Banzo anuncia la muerte del jefe sin nombrarlo.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1367558707772264633",
+      "afirmacion": "Deja un dibujo, obtiene ropa de monje y sale hacia Sho.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No identificar al fallecido solo por el término jefe ni describir una muerte ausente.",
+    "No inventar instrucciones legibles dentro del dibujo."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-01T16:58:52.684000+00:00",
+  "fin_utc": "2025-05-01T18:07:06.611000+00:00",
+  "fecha_local": "2025-05-01",
+  "intervalo": {
+    "anterior": 110,
+    "siguiente": 111,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367206327377727518",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 110,
+        "fecha": "2025-04-30",
+        "inicio_referencia_utc": "2025-04-30T18:29:35+00:00",
+        "fin_estimado_utc": "2025-04-30T20:53:27+00:00",
+        "duracion_video_segundos": 8632,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367206327377727518"
+      },
+      {
+        "capitulo": 111,
+        "fecha": "2025-05-01",
+        "inicio_referencia_utc": "2025-05-01T18:30:18+00:00",
+        "fin_estimado_utc": "2025-05-01T21:17:50+00:00",
+        "duracion_video_segundos": 10052,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1367545825970094090",
+      "fecha_utc": "2025-05-01T16:58:52.684000+00:00",
+      "fecha_local": "2025-05-01",
+      "editado_utc": null,
+      "texto": "Banzo : **aparece banzo por el portal ** \nEy , como estamos tanukis ? \nWukong !!! Traigo noticias \n<@220602485977382912> \nSe ve que el jefe la ha diñao",
+      "mensaje_sha256": "bc778ea6bba85a42b2323360adcb46ba5fbeaf1393a2607e624fc93935c47f01",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1367545825970094090",
+      "texto_sha256": "fc46045cfcf4a807d1bbca238f110925b29852ac7d287143b13b31b3e2d684eb",
+      "adjuntos": []
+    },
+    {
+      "id": "1367558707772264633",
+      "fecha_utc": "2025-05-01T17:50:03.945000+00:00",
+      "fecha_local": "2025-05-01",
+      "editado_utc": null,
+      "texto": "Banzo : **Le deja un dibujo explicativo de los suyos a wukong , los tanukis le han encontrado lo que parece un antiguo atavio de monge que casualmente parece que le va bien **\n\nGracias tanukis esto servirá \n**y se marcha por el portal hacia la base de Sho**",
+      "mensaje_sha256": "b124dbff28f96f9241b5105dfc1a93aa7d68bde6f8c0175f2c1113a94c04aee7",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1367558707772264633",
+      "texto_sha256": "337dc56a7db1cb684038c406619f66c94bf5e71f69d2da1be226edc5ec9e616e",
+      "adjuntos": []
+    },
+    {
+      "id": "1367562997144359053",
+      "fecha_utc": "2025-05-01T18:07:06.611000+00:00",
+      "fecha_local": "2025-05-01",
+      "editado_utc": null,
+      "texto": "🔴 Fin de la escena 🔴",
+      "mensaje_sha256": "7fbd6c0f3c6f90b100d5f106f74dae53af256d424215c1a0ea12367977079d41",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1367562997144359053",
+      "texto_sha256": "17de8d95942b0fb6967047c232c2803aac08862ce9732e9e4ad54f0347d72b95",
+      "adjuntos": []
+    }
+  ]
+}

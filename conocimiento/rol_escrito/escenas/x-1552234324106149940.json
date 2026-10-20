@@ -1,0 +1,220 @@
+{
+  "id": "x-1552234324106149940",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1552234324106149940",
+  "hilo_id": "1524091803647741996",
+  "hilo_nombre": "Jungla - En alguna parte de Xoltacán",
+  "titulo": "Maris localiza al kraken y Coyote reúne ayuda",
+  "resumen": "La llamada llega mientras los supervivientes trasladan el cuerpo de Eromov; Coyote y Zelda planean volver a Perlasal.",
+  "relato": "Los supervivientes avanzan hacia Iktan con el cuerpo de Eromov en un carromato, junto al que camina Leona. Coyote recibe en la piedra marina la imagen de Maris: han encontrado a la criatura. Ella y los suyos se han refugiado en la grieta más profunda de su ciudad, demasiado estrecha para que los siga.\n\nEl hombre promete reunir a los compañeros y le pide que se esconda si pierde el control de la situación. Maris acepta y ofrece enviar las coordenadas de la guarida cuando esté listo. Se llaman con afecto y Coyote le promete no dejarla sola.\n\nDespués informa a Zelda, llamando al kraken su hijo como reproche por el origen de la crisis. El elfo acepta preparar el viaje a Perlasal en cuanto lleguen a Iktan. Se toca la cicatriz del pecho y se culpa por haber aceptado llevar la sopa. Coyote le recuerda que no debía comerla; Zelda replica que abrirlo bajo el agua facilitó la fuga de la criatura.\n\nLos reproches no rompen el acuerdo y aceleran el regreso. No se envían aún las coordenadas ni empieza la operación contra el kraken. La muerte de Eromov es antecedente confirmado por el cuerpo, sin causa desarrollada en estos mensajes.",
+  "participantes": [
+    "Coyote",
+    "Maris",
+    "Zelda",
+    "Leona",
+    "Supervivientes"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1552234324106149940",
+      "afirmacion": "Los viajeros transportan el cuerpo de Eromov y Maris anuncia el hallazgo de la criatura.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1552336182560690227",
+      "afirmacion": "Maris describe el escondite y promete mandar las coordenadas.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1552337262040318113",
+      "afirmacion": "Coyote promete ayuda a Maris e informa a Zelda.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1552340382719807699",
+      "afirmacion": "Zelda acepta partir a Perlasal tras llegar a Iktan.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1552347187357417604",
+      "afirmacion": "El elfo reprocha la extracción bajo el agua y pide activar la comunicación al llegar.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Tu hijo es un apelativo irónico para la cría ingerida, sin parentesco biológico.",
+    "La piedra marina/perla es el medio de comunicación presentado; no identificarla con el Ojo de Serpiente.",
+    "El refugio de Maris se explica por su testimonio, sin visitar aún la grieta."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-09-23T08:25:01.986000+00:00",
+  "fin_utc": "2026-09-24T00:13:11.059000+00:00",
+  "fecha_local": "2026-09-23",
+  "intervalo": {
+    "anterior": 66,
+    "siguiente": 69,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 66,
+        "fecha": "2026-09-22",
+        "inicio_referencia_utc": "2026-09-22T18:20:03+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241"
+      },
+      {
+        "capitulo": 69,
+        "fecha": "2026-10-08",
+        "inicio_referencia_utc": "2026-10-08T18:17:02+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1552234324106149940",
+      "fecha_utc": "2026-09-23T08:25:01.986000+00:00",
+      "fecha_local": "2026-09-23",
+      "editado_utc": null,
+      "texto": "**Mientras el grupo superviviente avanzaba por la jungla de camino a Iktan, Leona permanecía al lado del carromato de madera que llevaba el cuerpo del líder Eromov. No había palabras, solo el silencio de los viajeros, roto únicamente por los ruidos de la jungla profunda de Xoltacan.**\n\n**A unos cuantos pies por detrás del grupo, Coyote los seguía en silencio, cuando algo empezó a emitir unas vibraciones en su bolsillo. Era la piedra marina que le había entregado su amor acuática. Al observarla, vio cómo el rostro de Maris se iba formando en el interior de la esfera, entre aquellas ondas del mar encerradas en su interior.**\n\nMaris: Lo... Lo hemos encontrado, amor mío. Hemos encontrado a la criatura.\n\n<@408026114548695061> (os nombro a los demás para que tengáis contexto, pq estabais ayer y por si queréis hacer algo para el Kraken) <@171702246952665098> <@449688546580627476> <@660950599269089281> <@226504798978048000>",
+      "mensaje_sha256": "2fd78bbcc03f22780920a1c129bfde930f6f9d2e5b487553c99b6c0997e93a06",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1552234324106149940",
+      "texto_sha256": "4eafb5c5276e2a2ee7cd5ed827b020a350c8353466302b36eed201144ea175cd",
+      "adjuntos": []
+    },
+    {
+      "id": "1552334776675868813",
+      "fecha_utc": "2026-09-23T15:04:11.745000+00:00",
+      "fecha_local": "2026-09-23",
+      "editado_utc": null,
+      "texto": "Coyote:\n**Me había quedado sin hablar todo ese tiempo hasta que sentí la vibración de aquella perla**\n\n**La saqué de mi bolsillo y sonreí un poco al ver la cara de mi chica**\n\nHola hermosa, al menos hay una buena noticia dentro de todo este desastre... Iré para allá lo más pronto posible, reuniré a los de siempre, y prométeme algo... Si algo está fuera de control o las cosas no van bien, escondete... Quiero que te escondas y no salgas hasta que yo vaya a buscarte, prométemelo...",
+      "mensaje_sha256": "074053f6c7b150fa37106fe0dfe1d912172bba64d983cccf46d4e5faec16c7e2",
+      "tipo_discord": 19,
+      "referencia": "1552234324106149940",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1552334776675868813",
+      "texto_sha256": "cad2058dace7c5d5a53a8d396ad90497d615c6789fdf04374b5d1e3e32e2c819",
+      "adjuntos": []
+    },
+    {
+      "id": "1552336182560690227",
+      "fecha_utc": "2026-09-23T15:09:46.934000+00:00",
+      "fecha_local": "2026-09-23",
+      "editado_utc": null,
+      "texto": "Maris: Lo haré, te lo prometo. **Te sonríe afable pero preocuoada** Nos hemos escondido en la grieta más profunda de la ciudad. No puede segirnos por ahí, es demasiado grande. Avisame cuando reúnas a tus amigos, te mandaré las latituds de donde se esconde su guarida",
+      "mensaje_sha256": "fde94041d1c460a83d10d51eb4d97c4eeaf5810a6f4d2deb7ad209d271da572f",
+      "tipo_discord": 19,
+      "referencia": "1552334776675868813",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1552336182560690227",
+      "texto_sha256": "c2e1d7fdcd04f61e7c6eae31ba5647609d63967eb2cc53f472ce85190b371d46",
+      "adjuntos": []
+    },
+    {
+      "id": "1552337262040318113",
+      "fecha_utc": "2026-09-23T15:14:04.302000+00:00",
+      "fecha_local": "2026-09-23",
+      "editado_utc": null,
+      "texto": "Coyote: \nTe prometo que no los dejaré solos, no te dejaré sola...\n\n**No había burla en mis palabras ni dobles intenciones, realmente estaba preocupado por lo que estaba sucediendo**\n\nTe mando un besito, mi Princesa hermosa \n\n**Guardé la perla y me acerqué a Zelda**\n\nYa encontraron a tu hijo, tenemos que ir a Perlasal lo más pronto posible, así que empaca tus maletas porque en cuanto lleguemos a Iktan, nos vamos con los demás \n\n<@660950599269089281>",
+      "mensaje_sha256": "06bf8f9d89342f2b628895c273c4acdb6739f8ef0d43a1edde7a0337aa414fa4",
+      "tipo_discord": 19,
+      "referencia": "1552336182560690227",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1552337262040318113",
+      "texto_sha256": "9757150f73b9d3a45010dbbb41b7ff34cda4b001d4da0c0db6d10c60a8dbfd26",
+      "adjuntos": []
+    },
+    {
+      "id": "1552340382719807699",
+      "fecha_utc": "2026-09-23T15:26:28.330000+00:00",
+      "fecha_local": "2026-09-23",
+      "editado_utc": null,
+      "texto": "Zelda:  \n\n**Se detiene cuando Coyote se acerca. No dice nada al principio; solo lo mira, con esa mezcla de agotamiento y preocupación que ya se le nota en los hombros.**\n\n– Me alegra que lo hayan encontrado…  \n\n**La voz le sale baja, como si todavía estuviera procesando todo. Se encoge apenas, sin importancia, como quien acepta la gravedad de la situación sin dramatizarla.**\n\n– Está bien. No hay tiempo que perder.  \n\n**Asiente una vez, firme, y se ajusta la mochila ya mentalizado**\n\n– Empacaré lo que haga falta. En cuanto lleguemos a Iktan, nos vamos a Perlasal. Cuanto antes estemos allí, mejor para todos.",
+      "mensaje_sha256": "efeb78ab56255b025e7cd9cc044c2c5b921c5c3a050c075dc81323754987d76e",
+      "tipo_discord": 19,
+      "referencia": "1552337262040318113",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1552340382719807699",
+      "texto_sha256": "4c7bfa26935784331d80908c2e1f665f2f64f807435c873a219be48c2cf27e29",
+      "adjuntos": []
+    },
+    {
+      "id": "1552340759112318989",
+      "fecha_utc": "2026-09-23T15:27:58.069000+00:00",
+      "fecha_local": "2026-09-23",
+      "editado_utc": null,
+      "texto": "Coyote:\n**Afirmé con la cabeza**\n\nMaris me dijo que me dará las coordenadas para que podamos llegar pronto, ellos están resguardados, así que no hay tanta preocupación, pero si bastante presión",
+      "mensaje_sha256": "f02fd1c17b986292441ccec993d3dc8c40b7916071bbf1f8714a71fabd446c35",
+      "tipo_discord": 19,
+      "referencia": "1552340382719807699",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1552340759112318989",
+      "texto_sha256": "a574464674696ca258b680c82642de1899820f081afa61b105a230182ecdc428",
+      "adjuntos": []
+    },
+    {
+      "id": "1552344345464545401",
+      "fecha_utc": "2026-09-23T15:42:13.122000+00:00",
+      "fecha_local": "2026-09-23",
+      "editado_utc": null,
+      "texto": "Zelda:\n\n**Al escuchar eso, deja escapar un suspiro largo de alivio y preocupación mezclados. La mano va sola a la cicatriz del pecho, como si el corte que le hicieron para sacarle al kraken todavía ardiera.**\n\n– Eso me tranquiliza un poco... Pero deberíamos ir cuanto antes. Me siento responsable por el calamar, debí rechazar la misión de entregar la sopa.\n\n**Los dedos presionan levemente la cicatriz en un gesto automático.**",
+      "mensaje_sha256": "c446adc8a50c914bb165ef56c1b8dd79120dc02f01e9ed6b6c4b392d706f51ea",
+      "tipo_discord": 19,
+      "referencia": "1552340759112318989",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1552344345464545401",
+      "texto_sha256": "88093943587ec55a72976281e30846875d7be07a988786f161a31419e749e3bb",
+      "adjuntos": []
+    },
+    {
+      "id": "1552344911754436630",
+      "fecha_utc": "2026-09-23T15:44:28.136000+00:00",
+      "fecha_local": "2026-09-23",
+      "editado_utc": null,
+      "texto": "Coyote:\nMás bien, no debiste de tragarte la sopa esa, de ahí nos hubiésemos ahorrado muchas cositas",
+      "mensaje_sha256": "b56e5a237b3677885af8b3329429f5a79d7ad668f812df944ef5bc6da3bde0bb",
+      "tipo_discord": 19,
+      "referencia": "1552344345464545401",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1552344911754436630",
+      "texto_sha256": "287aa91a3cbd885fb0d51302b63872139460d58f6ae7bc12411f4c04d7990821",
+      "adjuntos": []
+    },
+    {
+      "id": "1552347187357417604",
+      "fecha_utc": "2026-09-23T15:53:30.682000+00:00",
+      "fecha_local": "2026-09-23",
+      "editado_utc": null,
+      "texto": "Zelda:\n\n**Frunce el ceño un instante, la voz baja y seca.**\n\n— Más bien no debisteis abrirme en canal bajo el agua para liberar un kraken en su hábitat natural. Ya da igual, activa la bola esa en cuanto lleguemos.\n\n**Acelera el paso para llegar cuanto antes a la ciudad, dejando atrás a Coyote y al resto.**",
+      "mensaje_sha256": "4fb54b870a4c369276ade3fdd5cdd536c8520fcb6408002ea1b09a5a22aea076",
+      "tipo_discord": 19,
+      "referencia": "1552344911754436630",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1552347187357417604",
+      "texto_sha256": "f2b095115fa4aaa2571ae7affe1d19b2fc892be557f7b7ae7e6f8bda7e11d445",
+      "adjuntos": []
+    },
+    {
+      "id": "1552472934172332084",
+      "fecha_utc": "2026-09-24T00:13:11.059000+00:00",
+      "fecha_local": "2026-09-24",
+      "editado_utc": null,
+      "texto": "🔴 **Fin de escena**🔴",
+      "mensaje_sha256": "a65f3146471a179a73482e256a32a51ca4c757d3c8ecf561d7a0ce3fcbba6a8c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1552472934172332084",
+      "texto_sha256": "0e513b9a495850850524d0965f55df051cd0b6a138120693016da3f3ffd42ccd",
+      "adjuntos": []
+    }
+  ]
+}

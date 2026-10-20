@@ -1,0 +1,144 @@
+{
+  "id": "k-1367245401073389599",
+  "campana": "kuroto",
+  "unidad_revision": "k-1366821829154705428",
+  "hilo_id": "1362071806441160834",
+  "hilo_nombre": "Base Ukyio - Sala principal",
+  "titulo": "Jelbreg se lleva a Kalista con los documentos",
+  "resumen": "La encuentra pálida y horrorizada después de leer los informes.",
+  "relato": "Jelbreg atraviesa la base apresuradamente después de que el ninja le dijera que Danifae estaba allí. Abre la sala de golpe y encuentra a Kalista estudiando los papeles. Ella lo mira con horror; la fuente no explica qué ha leído. El drow se acerca y exige marcharse de inmediato. Kalista no protesta, guarda los documentos y lo acompaña, todavía pálida. El traslado ocurre después del corte de capítulo calculado por el coordinador, sin mezclar sus fuentes con la reunión anterior.",
+  "participantes": [
+    "Jelbreg",
+    "Kalista"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1367245981565063310",
+      "afirmacion": "Kalista reacciona con horror mientras lee.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1367246543668776981",
+      "afirmacion": "Jelbreg exige marcharse.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1367246884149919857",
+      "afirmacion": "Ella guarda los documentos y sale con él.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El posible envenenamiento y la infiltración de un agente de Ootakemaru son hipótesis de investigación, no culpabilidades comprobadas.",
+    "El efecto acumulativo de la planta pertenece a la medicina ficticia del mundo; no se ofrece identidad botánica real.",
+    "Los rollos de Danifae no se confunden con los documentos robados del Monte.",
+    "No atribuir a Kalista conocimiento de un contenido que la fuente solo muestra por su reacción.",
+    "Las divisiones de esta ficha respetan los dos grupos del corte horario del coordinador, sin alterar IDs o fechas."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-04-30T21:05:05.807000+00:00",
+  "fin_utc": "2025-04-30T21:11:25.232000+00:00",
+  "fecha_local": "2025-04-30",
+  "intervalo": {
+    "anterior": 110,
+    "siguiente": 111,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367206327377727518",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 110,
+        "fecha": "2025-04-30",
+        "inicio_referencia_utc": "2025-04-30T18:29:35+00:00",
+        "fin_estimado_utc": "2025-04-30T20:53:27+00:00",
+        "duracion_video_segundos": 8632,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367206327377727518"
+      },
+      {
+        "capitulo": 111,
+        "fecha": "2025-05-01",
+        "inicio_referencia_utc": "2025-05-01T18:30:18+00:00",
+        "fin_estimado_utc": "2025-05-01T21:17:50+00:00",
+        "duracion_video_segundos": 10052,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1367245401073389599",
+      "fecha_utc": "2025-04-30T21:05:05.807000+00:00",
+      "fecha_local": "2025-04-30",
+      "editado_utc": null,
+      "texto": "Jelbreg: **El drow atraviesa el portal de la base y atraviesa la sala a toda velocidad. Abre la puerta de un fuerte golpe clavando la mirada en los presentes. Sus ojos son rojos con un gran destello negro...** <@753394009153732689>",
+      "mensaje_sha256": "096b2f87968a0df64c310b56f60f5d504194994604c251d00267dfc05a21cfb1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1367245401073389599",
+      "texto_sha256": "b13f5aa7aa354cb33609ea561cd1ca18e228b42cdf36722c220f4706c8c4f8e1",
+      "adjuntos": []
+    },
+    {
+      "id": "1367245981565063310",
+      "fecha_utc": "2025-04-30T21:07:24.207000+00:00",
+      "fecha_local": "2025-04-30",
+      "editado_utc": null,
+      "texto": "Kalista: **ves a Kalista mirando los papeles de Danifae....Te lanza una mirada....solo una mirada...hay horror en sus ojos. Problemas.**",
+      "mensaje_sha256": "fc38fef7e07ebe844c570b37d4950e42d4b924419a5dbfb5c169217643260944",
+      "tipo_discord": 19,
+      "referencia": "1367245401073389599",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1367245981565063310",
+      "texto_sha256": "b9a738e1f2521c4c884448c4891ac2a43665e0f4bebb04c3a83b2c0abdebf70c",
+      "adjuntos": []
+    },
+    {
+      "id": "1367246543668776981",
+      "fecha_utc": "2025-04-30T21:09:38.223000+00:00",
+      "fecha_local": "2025-04-30",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Su mirada se relaja al principio... el ninja le ha dicho que estaba Danifae aquí... Ve tu cara y se acerca rápidamente.** Nos vamos, ¡ya!",
+      "mensaje_sha256": "558873462f8525045676f26523f2e466cf30ada3eab95d9878f48a57168f52a6",
+      "tipo_discord": 19,
+      "referencia": "1367245981565063310",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1367246543668776981",
+      "texto_sha256": "7273172266b2fbed2aa193d9f765fd76046a991e3b4447259140932360ed880b",
+      "adjuntos": []
+    },
+    {
+      "id": "1367246884149919857",
+      "fecha_utc": "2025-04-30T21:10:59.400000+00:00",
+      "fecha_local": "2025-04-30",
+      "editado_utc": null,
+      "texto": "Kalista: **No protesta, toma los documentos los guarda y parte contigo....Esta palida**",
+      "mensaje_sha256": "22427e492a55aea2170b91d5d34bdb13d1ded6a14e469b20ae7d96f82840c715",
+      "tipo_discord": 19,
+      "referencia": "1367246543668776981",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1367246884149919857",
+      "texto_sha256": "091698a98e69a60a9ab761746e7817936bcaa73996cbe0cd7132528fc2e6a97f",
+      "adjuntos": []
+    },
+    {
+      "id": "1367246992497185000",
+      "fecha_utc": "2025-04-30T21:11:25.232000+00:00",
+      "fecha_local": "2025-04-30",
+      "editado_utc": null,
+      "texto": "🔴 Fin de la escena 🔴",
+      "mensaje_sha256": "9290b34f012b3d844b821fb0c86c93312bbd8fdb57c987c13a16ac130acfbded",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1367246992497185000",
+      "texto_sha256": "17de8d95942b0fb6967047c232c2803aac08862ce9732e9e4ad54f0347d72b95",
+      "adjuntos": []
+    }
+  ]
+}

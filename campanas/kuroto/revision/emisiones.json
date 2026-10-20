@@ -1,0 +1,4751 @@
+{
+  "version": 1,
+  "campana": "kuroto",
+  "zona_horaria": "Europe/Madrid",
+  "fuentes": "config/fuentes_anuncios_discord.json",
+  "criterio": "Se cruzan campaña, número y título, con variantes editoriales explícitas. Nunca se emparejan por proximidad de fechas.",
+  "resumen": {
+    "capitulos": 181,
+    "twitch": {
+      "documentada": 164,
+      "sin_anuncio_identificado": 8,
+      "titulo_en_conflicto": 2,
+      "varias_fechas": 6,
+      "numero_en_conflicto": 1
+    },
+    "youtube": {
+      "solo_aviso": 35,
+      "sin_anuncio": 8,
+      "publicacion_documentada": 138
+    }
+  },
+  "capitulos": {
+    "1": {
+      "video_id": "KkZZR81onIw",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-03-20",
+        "fuentes": [
+          "1220094366794780735"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-03-20"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-03-25",
+        "fuentes": [
+          "1221763365307682827"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "2": {
+      "video_id": "5d8fEcawLU0",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-03-26",
+        "fuentes": [
+          "1222268830596993024"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-03-26"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-04-01",
+        "fuentes": [
+          "1224282664509505639"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "3": {
+      "video_id": "-mEoj2WWSjA",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-03-27",
+        "fuentes": [
+          "1222631288671043645"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-03-27"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-04-05",
+        "fuentes": [
+          "1225743640953880666"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "4": {
+      "video_id": "oiAh-3RQeTI",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-04-02",
+        "fuentes": [
+          "1224786784119034011"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-04-02"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-04-11",
+        "fuentes": [
+          "1227915317259276360"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "5": {
+      "video_id": "4TcdDq7NkTY",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-04-03",
+        "fuentes": [
+          "1225151544199090368"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-04-03"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-04-19",
+        "fuentes": [
+          "1230767191347957821"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "6": {
+      "video_id": "WAdmBPD6pVA",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-04-09",
+        "fuentes": [
+          "1227324396650102795"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-04-09"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-04-25",
+        "fuentes": [
+          "1232981511469400165"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "7": {
+      "video_id": "uj2lWOBbsyw",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-04-16",
+        "fuentes": [
+          "1229864368855060611"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-04-16"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-04-29",
+        "fuentes": [
+          "1234432027051294740"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "8": {
+      "video_id": "n99cocUNUVg",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-04-17",
+        "fuentes": [
+          "1230224252083376199"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-04-17"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-05-05",
+        "fuentes": [
+          "1236633637936693278"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "9": {
+      "video_id": "nZD8TnOd1hE",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-04-23",
+        "fuentes": [
+          "1232397711593181275"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-04-23"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-05-12",
+        "fuentes": [
+          "1239214221418434631"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "10": {
+      "video_id": "EX6gizlU8dU",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-04-24",
+        "fuentes": [
+          "1232761073086500925"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-04-24"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-05-26",
+        "fuentes": [
+          "1244224953927077910"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "11": {
+      "video_id": "r_1w6xgShus",
+      "twitch": {
+        "estado": "asumida",
+        "fecha": "2024-04-30",
+        "fuentes": [],
+        "criterio": "fecha_probable_aceptada",
+        "nota": "Fecha asumida para la cronología a partir del día probable aceptado. Se conservan la estimación original, sus fuentes y sus discrepancias.",
+        "asuncion": {
+          "autorizada_por_usuario": true,
+          "criterio": "aceptar_dia_probable",
+          "estado_anterior": "sin_anuncio_identificado",
+          "fecha_anterior": null,
+          "nota_anterior": "No se ha identificado un aviso de Twitch correspondiente a este capítulo en el historial conservado."
+        }
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-06-02",
+        "fuentes": [
+          "1246775574257467487"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "12": {
+      "video_id": "S_l4B7CAJg8",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-05-07",
+        "fuentes": [
+          "1237472580286414849"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-05-07"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-06-16",
+        "fuentes": [
+          "1251862267113373879"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "13": {
+      "video_id": "lN5h9EF5lB4",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-05-14",
+        "fuentes": [
+          "1240009083830927361"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-05-14"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-06-24",
+        "fuentes": [
+          "1254837377340411904"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "14": {
+      "video_id": "Ec7QznsvFS8",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-05-15",
+        "fuentes": [
+          "1240373734293115030"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-05-15"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-06-30",
+        "fuentes": [
+          "1256952675040362536"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "15": {
+      "video_id": "PvQQ7W-JHYQ",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-05-21",
+        "fuentes": [
+          "1242551459892039743"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-05-21"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-07-07",
+        "fuentes": [
+          "1259464542551801856"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "16": {
+      "video_id": "XkRManuPDAk",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-05-28",
+        "fuentes": [
+          "1245083145942864010"
+        ],
+        "criterio": "campana_numero_y_variante_editorial",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": "YouTube abrevia el mismo título.",
+        "fechas_candidatas": [
+          "2024-05-28"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-07-14",
+        "fuentes": [
+          "1262094606183432254"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "17": {
+      "video_id": "rHQYKeZbiXc",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-06-04",
+        "fuentes": [
+          "1247618052502061104"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-06-04"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-07-21",
+        "fuentes": [
+          "1264540882246566003"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "18": {
+      "video_id": "kMj8Pk-iUaY",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-06-07",
+        "fuentes": [
+          "1248708254473912344"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-06-07"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-07-28",
+        "fuentes": [
+          "1267052813733724190"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "19": {
+      "video_id": "Ovsq0HYt87Q",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-06-11",
+        "fuentes": [
+          "1250158466782466092"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-06-11"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-08-04",
+        "fuentes": [
+          "1269656176614838272"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "20": {
+      "video_id": "g5HAPraxs9I",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-06-18",
+        "fuentes": [
+          "1252692327772717106"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-06-18"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-08-11",
+        "fuentes": [
+          "1272302503408697415"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "21": {
+      "video_id": "QH-MrarLKI4",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-06-26",
+        "fuentes": [
+          "1255597148758609920"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-06-26"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-08-18",
+        "fuentes": [
+          "1274654802042687529"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "22": {
+      "video_id": "kW0t7QscswU",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-07-01",
+        "fuentes": [
+          "1257404411370672148"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-07-01"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-09-01",
+        "fuentes": [
+          "1279787603050107032"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "23": {
+      "video_id": "T7q05HCh2tc",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-07-02",
+        "fuentes": [
+          "1257766851040251964"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-07-02"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-09-08",
+        "fuentes": [
+          "1282289195662184478"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "24": {
+      "video_id": "85QQfmnLzRM",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-07-03",
+        "fuentes": [
+          "1258126056653721702"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-07-03"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-09-15",
+        "fuentes": [
+          "1284811178308145174"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "25": {
+      "video_id": "rkbkPQaHQbU",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-07-10",
+        "fuentes": [
+          "1260664151026565201"
+        ],
+        "criterio": "campana_numero_y_variante_editorial",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": "El título de Twitch añade el director de juego.",
+        "fechas_candidatas": [
+          "2024-07-10"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-09-22",
+        "fuentes": [
+          "1287344607809638450"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "26": {
+      "video_id": "Z09oHrpdgBY",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-07-15",
+        "fuentes": [
+          "1262478888697856000"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-07-15"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-09-29",
+        "fuentes": [
+          "1290003992063119464"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "27": {
+      "video_id": "Iwms1OX-Zhw",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-07-16",
+        "fuentes": [
+          "1262841870325649430"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-07-16"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-10-06",
+        "fuentes": [
+          "1292458774602186812"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "28": {
+      "video_id": "K75HeWgUON4",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-07-17",
+        "fuentes": [
+          "1263205247757582411"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-07-17"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-10-13",
+        "fuentes": [
+          "1294954374195576832"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "29": {
+      "video_id": "MLfArRplHC4",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-07-22",
+        "fuentes": [
+          "1265028639880249427"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-07-22"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-10-20",
+        "fuentes": [
+          "1297486549914746881"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "30": {
+      "video_id": "6oAwjgmqtQ0",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-07-23",
+        "fuentes": [
+          "1265377527505879094"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-07-23"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-10-22",
+        "fuentes": [
+          "1298211430280986625"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "31": {
+      "video_id": "aFeIpx7gacg",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-07-24",
+        "fuentes": [
+          "1265738710159327263"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-07-24"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-10-27",
+        "fuentes": [
+          "1300078213866848326"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "32": {
+      "video_id": "8EEKa9NTxdg",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-07-29",
+        "fuentes": [
+          "1267550078709796874"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-07-29"
+        ]
+      },
+      "youtube": {
+        "estado": "sin_anuncio",
+        "fecha": null,
+        "fecha_aviso": null,
+        "fuentes": [],
+        "origen_fecha": null
+      }
+    },
+    "33": {
+      "video_id": "LFPVy1evwoo",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-07-30",
+        "fuentes": [
+          "1267915293229977723"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-07-30"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-11-10",
+        "fuentes": [
+          "1305147382635171951"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "34": {
+      "video_id": "qZ53aIAZQ6g",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-08-05",
+        "fuentes": [
+          "1270087442912907346"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-08-05"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-11-17",
+        "fuentes": [
+          "1307799014116298754"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "35": {
+      "video_id": "-nd_HG4cUB4",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-08-06",
+        "fuentes": [
+          "1270449123652403281"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-08-06"
+        ]
+      },
+      "youtube": {
+        "estado": "sin_anuncio",
+        "fecha": null,
+        "fecha_aviso": null,
+        "fuentes": [],
+        "origen_fecha": null
+      }
+    },
+    "36": {
+      "video_id": "FCbnHRU5wNE",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-08-12",
+        "fuentes": [
+          "1272624462361006103"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-08-12"
+        ]
+      },
+      "youtube": {
+        "estado": "sin_anuncio",
+        "fecha": null,
+        "fecha_aviso": null,
+        "fuentes": [],
+        "origen_fecha": null
+      }
+    },
+    "37": {
+      "video_id": "0cY76YwljL8",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-08-13",
+        "fuentes": [
+          "1272985973671727216"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-08-13"
+        ]
+      },
+      "youtube": {
+        "estado": "sin_anuncio",
+        "fecha": null,
+        "fecha_aviso": null,
+        "fuentes": [],
+        "origen_fecha": null
+      }
+    },
+    "38": {
+      "video_id": "EmLh68qNeGY",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-08-20",
+        "fuentes": [
+          "1275523277829443719"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-08-20"
+        ]
+      },
+      "youtube": {
+        "estado": "sin_anuncio",
+        "fecha": null,
+        "fecha_aviso": null,
+        "fuentes": [],
+        "origen_fecha": null
+      }
+    },
+    "39": {
+      "video_id": "7t6cQMDyNTw",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-08-21",
+        "fuentes": [
+          "1275885685441564786"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-08-21"
+        ]
+      },
+      "youtube": {
+        "estado": "sin_anuncio",
+        "fecha": null,
+        "fecha_aviso": null,
+        "fuentes": [],
+        "origen_fecha": null
+      }
+    },
+    "40": {
+      "video_id": "JG6X3ZgyExY",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-08-26",
+        "fuentes": [
+          "1277698847665291359"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-08-26"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-12-08",
+        "fuentes": [
+          "1315261572800712725"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "41": {
+      "video_id": "Uf-SlAOBejU",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-08-27",
+        "fuentes": [
+          "1278062034831020133"
+        ],
+        "criterio": "campana_numero_y_variante_editorial",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": "El título de Twitch añade el director de juego.",
+        "fechas_candidatas": [
+          "2024-08-27"
+        ]
+      },
+      "youtube": {
+        "estado": "solo_aviso",
+        "fecha": null,
+        "fecha_aviso": "2024-12-08",
+        "fuentes": [
+          "1315273884936835132"
+        ],
+        "origen_fecha": null
+      }
+    },
+    "42": {
+      "video_id": "81i8B_VG_WY",
+      "twitch": {
+        "estado": "asumida",
+        "fecha": "2024-09-03",
+        "fuentes": [
+          "1280597605725769893"
+        ],
+        "criterio": "fecha_probable_aceptada",
+        "nota": "Fecha asumida para la cronología a partir del día probable aceptado. Se conservan la estimación original, sus fuentes y sus discrepancias.",
+        "asuncion": {
+          "autorizada_por_usuario": true,
+          "criterio": "aceptar_dia_probable",
+          "estado_anterior": "titulo_en_conflicto",
+          "fecha_anterior": null,
+          "nota_anterior": "El número del aviso coincide, pero el título corresponde a otro asunto; falta corroborar la asociación."
+        }
+      },
+      "youtube": {
+        "estado": "sin_anuncio",
+        "fecha": null,
+        "fecha_aviso": null,
+        "fuentes": [],
+        "origen_fecha": null
+      }
+    },
+    "43": {
+      "video_id": "LqAq6s_0iA8",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-09-04",
+        "fuentes": [
+          "1280958939164446721"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-09-04"
+        ]
+      },
+      "youtube": {
+        "estado": "sin_anuncio",
+        "fecha": null,
+        "fecha_aviso": null,
+        "fuentes": [],
+        "origen_fecha": null
+      }
+    },
+    "44": {
+      "video_id": "E-jyimjn1_s",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-09-05",
+        "fuentes": [
+          "1281320642674688003"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-09-05"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2024-12-22",
+        "fecha_aviso": "2024-12-22",
+        "fuentes": [
+          "1320330148373074011"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2024-12-22T10:00:21+00:00"
+      }
+    },
+    "45": {
+      "video_id": "fdfaEPWlU5o",
+      "twitch": {
+        "estado": "asumida",
+        "fecha": "2024-09-09",
+        "fuentes": [
+          "1282770957101961343",
+          "1283495922839588918"
+        ],
+        "criterio": "fecha_probable_aceptada",
+        "nota": "Fecha asumida para la cronología a partir del día probable aceptado. Se conservan la estimación original, sus fuentes y sus discrepancias.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-09-09",
+          "2024-09-11"
+        ],
+        "asuncion": {
+          "autorizada_por_usuario": true,
+          "criterio": "aceptar_dia_probable",
+          "estado_anterior": "varias_fechas",
+          "fecha_anterior": null,
+          "nota_anterior": "El mismo número y título aparecen en días distintos; la fecha original sigue por confirmar."
+        }
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2024-12-22",
+        "fecha_aviso": "2024-12-22",
+        "fuentes": [
+          "1320345316003676192"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2024-12-22T11:00:48+00:00"
+      }
+    },
+    "46": {
+      "video_id": "I2LqqLaswkw",
+      "twitch": {
+        "estado": "asumida",
+        "fecha": "2024-09-11",
+        "fuentes": [
+          "1285668823847927940"
+        ],
+        "criterio": "fecha_probable_aceptada",
+        "nota": "Fecha asumida para la cronología a partir del día probable aceptado. Se conservan la estimación original, sus fuentes y sus discrepancias.",
+        "asuncion": {
+          "autorizada_por_usuario": true,
+          "criterio": "aceptar_dia_probable",
+          "estado_anterior": "titulo_en_conflicto",
+          "fecha_anterior": null,
+          "nota_anterior": "El número del aviso coincide, pero el título corresponde a otro asunto; falta corroborar la asociación."
+        }
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2024-12-29",
+        "fecha_aviso": "2024-12-29",
+        "fuentes": [
+          "1322866867978768486"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2024-12-29T10:00:23+00:00"
+      }
+    },
+    "47": {
+      "video_id": "3Z_u61OQvgc",
+      "twitch": {
+        "estado": "asumida",
+        "fecha": "2024-09-17",
+        "fuentes": [
+          "1285668823847927940"
+        ],
+        "criterio": "fecha_probable_aceptada",
+        "nota": "Fecha asumida para la cronología a partir del día probable aceptado. Se conservan la estimación original, sus fuentes y sus discrepancias.",
+        "asuncion": {
+          "autorizada_por_usuario": true,
+          "criterio": "aceptar_dia_probable",
+          "estado_anterior": "numero_en_conflicto",
+          "fecha_anterior": null,
+          "nota_anterior": "El título coincide con Los Cerezos Malditos, pero el aviso anuncia episodio 46; no se reasigna al capítulo 47 sin corroboración."
+        }
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2024-12-29",
+        "fecha_aviso": "2024-12-29",
+        "fuentes": [
+          "1322881949118758924"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2024-12-29T11:00:08+00:00"
+      }
+    },
+    "48": {
+      "video_id": "2bwvGcPZqtI",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-09-18",
+        "fuentes": [
+          "1286036392551514164"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-09-18"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-01-05",
+        "fecha_aviso": "2025-01-05",
+        "fuentes": [
+          "1325403477563801652"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-01-05T10:00:04+00:00"
+      }
+    },
+    "49": {
+      "video_id": "9_hF_yr-548",
+      "twitch": {
+        "estado": "asumida",
+        "fecha": "2024-09-24",
+        "fuentes": [],
+        "criterio": "fecha_probable_aceptada",
+        "nota": "Fecha asumida tras cotejar el calendario y los avisos. Se conservan las discrepancias y los títulos originales.",
+        "asuncion": {
+          "autorizada_por_usuario": true,
+          "criterio": "aceptar_dia_probable",
+          "estado_anterior": "sin_anuncio_identificado",
+          "fecha_anterior": null,
+          "nota_anterior": "No se ha identificado un aviso de Twitch correspondiente a este capítulo en el historial conservado."
+        }
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-01-05",
+        "fecha_aviso": "2025-01-05",
+        "fuentes": [
+          "1325418677822033983"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-01-05T11:00:09+00:00"
+      }
+    },
+    "50": {
+      "video_id": "DlNnTb3yoSU",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-09-25",
+        "fuentes": [
+          "1288568241610035201"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-09-25"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-01-12",
+        "fecha_aviso": "2025-01-12",
+        "fuentes": [
+          "1327940286260842497"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-01-12T10:00:12+00:00"
+      }
+    },
+    "51": {
+      "video_id": "XwI08nwUSGE",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-09-30",
+        "fuentes": [
+          "1290379239534891091"
+        ],
+        "criterio": "campana_numero_y_variante_editorial",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": "Ukiyo/Ukyio, variante ortográfica.",
+        "fechas_candidatas": [
+          "2024-09-30"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-01-12",
+        "fecha_aviso": "2025-01-12",
+        "fuentes": [
+          "1327955467586109492"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-01-12T11:00:40+00:00"
+      }
+    },
+    "52": {
+      "video_id": "QUzLzbYvBFM",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-10-01",
+        "fuentes": [
+          "1290743076133798013"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-10-01"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-01-19",
+        "fecha_aviso": "2025-01-19",
+        "fuentes": [
+          "1330477010677530646"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-01-19T10:00:23+00:00"
+      }
+    },
+    "53": {
+      "video_id": "_XNwCsa6ksI",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-10-02",
+        "fuentes": [
+          "1291106243297022003"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-10-02"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-01-19",
+        "fecha_aviso": "2025-01-19",
+        "fuentes": [
+          "1330492171970674788"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-01-19T11:00:44+00:00"
+      }
+    },
+    "54": {
+      "video_id": "X9zGnhnN5gw",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-10-03",
+        "fuentes": [
+          "1291469617927028947"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-10-03"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-01-26",
+        "fecha_aviso": "2025-01-26",
+        "fuentes": [
+          "1333013733815091271"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-01-26T10:00:27+00:00"
+      }
+    },
+    "55": {
+      "video_id": "f7E7uxoKseE",
+      "twitch": {
+        "estado": "asumida",
+        "fecha": "2024-10-09",
+        "fuentes": [
+          "1294002567352811644"
+        ],
+        "criterio": "correspondencia_corregida_por_calendario",
+        "nota": "Fecha asumida tras cotejar el calendario y los avisos. Se conservan las discrepancias y los títulos originales.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-10-10"
+        ],
+        "asuncion": {
+          "autorizada_por_usuario": true,
+          "criterio": "corregir_correspondencia_por_calendario",
+          "estado_anterior": "documentada",
+          "fecha_anterior": "2024-10-10",
+          "nota_anterior": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+          "motivo": "Se adopta el 9 de octubre de 2024 junto con Kuroto 56 el día 10, según el calendario. El aviso del 9 repite exactamente Campaña III 2 del día 8; el del 10 anuncia Kuroto 55. La hipótesis conjunta es que ambos avisos arrastran títulos anteriores. El aviso literal del 55 sigue fechado el 10 y se conserva: se corrige su correspondencia con el capítulo, no su timestamp. No se utiliza una inferencia como confirmación de la otra."
+        }
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-01-26",
+        "fecha_aviso": "2025-01-26",
+        "fuentes": [
+          "1333028888682434644"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-01-26T11:00:48+00:00"
+      }
+    },
+    "56": {
+      "video_id": "Zu8-wNfvhIY",
+      "twitch": {
+        "estado": "asumida",
+        "fecha": "2024-10-10",
+        "fuentes": [],
+        "criterio": "fecha_probable_aceptada",
+        "nota": "Fecha asumida tras cotejar el calendario y los avisos. Se conservan las discrepancias y los títulos originales.",
+        "asuncion": {
+          "autorizada_por_usuario": true,
+          "criterio": "aceptar_dia_probable",
+          "estado_anterior": "sin_anuncio_identificado",
+          "fecha_anterior": null,
+          "nota_anterior": "No se ha identificado un aviso de Twitch correspondiente a este capítulo en el historial conservado."
+        }
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-02-02",
+        "fecha_aviso": "2025-02-02",
+        "fuentes": [
+          "1335550451994726442"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-02-02T10:00:35+00:00"
+      }
+    },
+    "57": {
+      "video_id": "zS3m1mp3Lto",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-10-16",
+        "fuentes": [
+          "1296177964698042378"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-10-16"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-02-02",
+        "fecha_aviso": "2025-02-02",
+        "fuentes": [
+          "1335565714035183619"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-02-02T11:01:15+00:00"
+      }
+    },
+    "58": {
+      "video_id": "VNS8sTg8jhA",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-10-17",
+        "fuentes": [
+          "1296539169736364042"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-10-17"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-02-09",
+        "fecha_aviso": "2025-02-09",
+        "fuentes": [
+          "1338087167733403750"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-02-09T10:00:34+00:00"
+      }
+    },
+    "59": {
+      "video_id": "lw829ZaVR3Y",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-10-21",
+        "fuentes": [
+          "1297989135155597352"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-10-21"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-02-09",
+        "fecha_aviso": "2025-02-09",
+        "fuentes": [
+          "1338102334961483789"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-02-09T11:00:53+00:00"
+      }
+    },
+    "60": {
+      "video_id": "xCyH1hPbisA",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-10-24",
+        "fuentes": [
+          "1299076117059211445"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-10-24"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-02-16",
+        "fecha_aviso": "2025-02-16",
+        "fuentes": [
+          "1340624000723980328"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-02-16T10:01:04+00:00"
+      }
+    },
+    "61": {
+      "video_id": "LhRWTYPr0BY",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-10-30",
+        "fuentes": [
+          "1301266860133847061"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-10-30"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-02-16",
+        "fecha_aviso": "2025-02-16",
+        "fuentes": [
+          "1340638968865357834"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-02-16T11:00:21+00:00"
+      }
+    },
+    "62": {
+      "video_id": "bC5Ar4E4jSo",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-10-31",
+        "fuentes": [
+          "1301631495680819291"
+        ],
+        "criterio": "campana_numero_y_variante_editorial",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": "YouTube añade Especial Halloween.",
+        "fechas_candidatas": [
+          "2024-10-31"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-02-23",
+        "fecha_aviso": "2025-02-23",
+        "fuentes": [
+          "1343160613303750689"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-02-23T10:00:40+00:00"
+      }
+    },
+    "63": {
+      "video_id": "ru2qijFwRO4",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-11-06",
+        "fuentes": [
+          "1303804220222341130"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-11-06"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-02-23",
+        "fecha_aviso": "2025-02-23",
+        "fuentes": [
+          "1343175841064030218"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-02-23T11:01:08+00:00"
+      }
+    },
+    "64": {
+      "video_id": "eR-G3VU_ZzE",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-11-07",
+        "fuentes": [
+          "1304166857732788274"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-11-07"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-03-02",
+        "fecha_aviso": "2025-03-02",
+        "fuentes": [
+          "1345697342485172327"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-03-02T10:00:41+00:00"
+      }
+    },
+    "65": {
+      "video_id": "dlVv_EeoNmE",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-11-13",
+        "fuentes": [
+          "1306339572480872509"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-11-13"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-03-02",
+        "fecha_aviso": "2025-03-02",
+        "fuentes": [
+          "1345712479841419366"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-03-02T11:00:53+00:00"
+      }
+    },
+    "66": {
+      "video_id": "wlMi2uEBJPc",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-11-14",
+        "fuentes": [
+          "1306701506556330024"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-11-14"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-03-09",
+        "fecha_aviso": "2025-03-09",
+        "fuentes": [
+          "1348234149156360243"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-03-09T10:01:06+00:00"
+      }
+    },
+    "67": {
+      "video_id": "YYdcBYBqZPc",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-11-21",
+        "fuentes": [
+          "1309237401100488797"
+        ],
+        "criterio": "campana_numero_y_variante_editorial",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": "Estafa/Estafas, singular y plural.",
+        "fechas_candidatas": [
+          "2024-11-21"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-03-09",
+        "fecha_aviso": "2025-03-09",
+        "fuentes": [
+          "1348249161480278097"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-03-09T11:00:44+00:00"
+      }
+    },
+    "68": {
+      "video_id": "ub-9MN-jO2o",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-11-27",
+        "fuentes": [
+          "1311414000713596930"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-11-27"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-03-16",
+        "fecha_aviso": "2025-03-16",
+        "fuentes": [
+          "1350770879994400818"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-03-16T10:01:09+00:00"
+      }
+    },
+    "69": {
+      "video_id": "hOLvdfsW_t0",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-11-28",
+        "fuentes": [
+          "1311773309695950859"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-11-28"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-03-16",
+        "fecha_aviso": "2025-03-16",
+        "fuentes": [
+          "1350785943950462976"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-03-16T11:01:01+00:00"
+      }
+    },
+    "70": {
+      "video_id": "KxZIvE_E1uQ",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-12-04",
+        "fuentes": [
+          "1313951016743469138"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-12-04"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-03-23",
+        "fecha_aviso": "2025-03-23",
+        "fuentes": [
+          "1353307453240115200"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-03-23T10:00:22+00:00"
+      }
+    },
+    "71": {
+      "video_id": "COtxYmg-P4Q",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-12-05",
+        "fuentes": [
+          "1314314869503299684"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-12-05"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-03-23",
+        "fecha_aviso": "2025-03-23",
+        "fuentes": [
+          "1353322514574475365"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-03-23T11:00:15+00:00"
+      }
+    },
+    "72": {
+      "video_id": "kZjo-CTsKi4",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-12-09",
+        "fuentes": [
+          "1315740401239457892"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida. El directo anuncia Diceland antes de Kuroto; el rol empieza después de la apertura del directo.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-12-09"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-03-30",
+        "fecha_aviso": "2025-03-30",
+        "fuentes": [
+          "1355829137440243863"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-03-30T09:00:52+00:00"
+      }
+    },
+    "73": {
+      "video_id": "AiEV666lYIw",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-12-10",
+        "fuentes": [
+          "1316103124108185723"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida. El directo anuncia Diceland antes de Kuroto; el rol empieza después de la apertura del directo.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-12-10"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-03-30",
+        "fecha_aviso": "2025-03-30",
+        "fuentes": [
+          "1355844144307769354"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-03-30T10:00:17+00:00"
+      }
+    },
+    "74": {
+      "video_id": "-70ja-LchmA",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-12-11",
+        "fuentes": [
+          "1316462867641405482"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida. El directo anuncia Diceland antes de Kuroto; el rol empieza después de la apertura del directo.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-12-11"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-04-06",
+        "fecha_aviso": "2025-04-06",
+        "fuentes": [
+          "1358365656650743828"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-04-06T09:00:00+00:00"
+      }
+    },
+    "75": {
+      "video_id": "AXeykasKTdY",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-12-12",
+        "fuentes": [
+          "1316847877552865392"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-12-12"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-04-06",
+        "fecha_aviso": "2025-04-06",
+        "fuentes": [
+          "1358380862294724609"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-04-06T10:00:21+00:00"
+      }
+    },
+    "76": {
+      "video_id": "zKxaUDKn8Is",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-12-18",
+        "fuentes": [
+          "1319026772616155167"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-12-18"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-04-13",
+        "fecha_aviso": "2025-04-13",
+        "fuentes": [
+          "1360902661012062399"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-04-13T09:01:15+00:00"
+      }
+    },
+    "77": {
+      "video_id": "EVrmh8UgoHM",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2024-12-19",
+        "fuentes": [
+          "1319385269043986452"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2024-12-19"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-04-13",
+        "fecha_aviso": "2025-04-13",
+        "fuentes": [
+          "1360917583389524039"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-04-13T10:00:20+00:00"
+      }
+    },
+    "78": {
+      "video_id": "L1PpDQmZEqk",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-01-07",
+        "fuentes": [
+          "1326271498364649593"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-01-07"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-04-20",
+        "fecha_aviso": "2025-04-20",
+        "fuentes": [
+          "1363439188422295722"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-04-20T09:00:23+00:00"
+      }
+    },
+    "79": {
+      "video_id": "GkttYEA6EMs",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-01-08",
+        "fuentes": [
+          "1326634926841401385"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-01-08"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-04-20",
+        "fecha_aviso": "2025-04-20",
+        "fuentes": [
+          "1363454308472848575"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-04-20T10:00:32+00:00"
+      }
+    },
+    "80": {
+      "video_id": "096jlr6YCAs",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-01-09",
+        "fuentes": [
+          "1326997021193797674"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-01-09"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-04-27",
+        "fecha_aviso": "2025-04-27",
+        "fuentes": [
+          "1365975825211723786"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-04-27T09:00:01+00:00"
+      }
+    },
+    "81": {
+      "video_id": "KrsB4sxI7WY",
+      "twitch": {
+        "estado": "asumida",
+        "fecha": "2025-01-22",
+        "fuentes": [
+          "1331704696188043414",
+          "1332069759700963339"
+        ],
+        "criterio": "fecha_probable_aceptada",
+        "nota": "Fecha asumida para la cronología a partir del día probable aceptado. Se conservan la estimación original, sus fuentes y sus discrepancias.",
+        "variantes": "Héroe de/del Pueblo; fechas repetidas sin resolver.",
+        "fechas_candidatas": [
+          "2025-01-22",
+          "2025-01-23"
+        ],
+        "asuncion": {
+          "autorizada_por_usuario": true,
+          "criterio": "aceptar_dia_probable",
+          "estado_anterior": "varias_fechas",
+          "fecha_anterior": null,
+          "nota_anterior": "El mismo número y título aparecen en días distintos; la fecha original sigue por confirmar."
+        }
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-04-27",
+        "fecha_aviso": "2025-04-27",
+        "fuentes": [
+          "1365991048081313894"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-04-27T10:00:36+00:00"
+      }
+    },
+    "82": {
+      "video_id": "n3rbvLvJWOQ",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-02-05",
+        "fuentes": [
+          "1336781257832665139"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-02-05"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-05-04",
+        "fecha_aviso": "2025-05-04",
+        "fuentes": [
+          "1368512780918984704"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-05-04T09:01:06+00:00"
+      }
+    },
+    "83": {
+      "video_id": "gEIqc-BgGa4",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-02-06",
+        "fuentes": [
+          "1337145044905234443"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-02-06"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-05-04",
+        "fecha_aviso": "2025-05-04",
+        "fuentes": [
+          "1368527872960233526"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-05-04T10:01:00+00:00"
+      }
+    },
+    "84": {
+      "video_id": "QsmFnE6zOVQ",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-02-12",
+        "fuentes": [
+          "1339317497094209719"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-02-12"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-05-11",
+        "fecha_aviso": "2025-05-11",
+        "fuentes": [
+          "1371049381632938016"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-05-11T09:00:38+00:00"
+      }
+    },
+    "85": {
+      "video_id": "isR0FMgm_DA",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-02-13",
+        "fuentes": [
+          "1339679587826798623"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-02-13"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-05-11",
+        "fecha_aviso": "2025-05-11",
+        "fuentes": [
+          "1371064586488516640"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-05-11T10:01:05+00:00"
+      }
+    },
+    "86": {
+      "video_id": "8zmhv0vxaqs",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-02-19",
+        "fuentes": [
+          "1341852420916903976"
+        ],
+        "criterio": "campana_numero_y_variante_editorial",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": "El título de Twitch añade el director de juego.",
+        "fechas_candidatas": [
+          "2025-02-19"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-05-18",
+        "fecha_aviso": "2025-05-18",
+        "fuentes": [
+          "1373586030636306433"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-05-18T09:00:11+00:00"
+      }
+    },
+    "87": {
+      "video_id": "7gadqHHdn9Y",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-02-20",
+        "fuentes": [
+          "1342216788058046535"
+        ],
+        "criterio": "campana_numero_y_variante_editorial",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": "El título de Twitch añade el director de juego.",
+        "fechas_candidatas": [
+          "2025-02-20"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-05-18",
+        "fecha_aviso": "2025-05-18",
+        "fuentes": [
+          "1373601167531048970"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-05-18T10:00:12+00:00"
+      }
+    },
+    "88": {
+      "video_id": "6KxtCYIz3r8",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-02-26",
+        "fuentes": [
+          "1344390162955632651"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-02-26"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-05-25",
+        "fecha_aviso": "2025-05-25",
+        "fuentes": [
+          "1376122744512446496"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-05-25T09:00:07+00:00"
+      }
+    },
+    "89": {
+      "video_id": "0xjvSrlnFLc",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-02-27",
+        "fuentes": [
+          "1344752443811958845"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-02-27"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-05-25",
+        "fecha_aviso": "2025-05-25",
+        "fuentes": [
+          "1376137774142459975"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-05-25T10:00:03+00:00"
+      }
+    },
+    "90": {
+      "video_id": "GvY3DTfPMPg",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-03-05",
+        "fuentes": [
+          "1346926296348758077"
+        ],
+        "criterio": "campana_numero_y_variante_editorial",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": "El título de Twitch añade el director de juego.",
+        "fechas_candidatas": [
+          "2025-03-05"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-06-01",
+        "fecha_aviso": "2025-06-01",
+        "fuentes": [
+          "1378659499803676756"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-06-01T09:00:31+00:00"
+      }
+    },
+    "91": {
+      "video_id": "R5ynesXzXrM",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-03-12",
+        "fuentes": [
+          "1349467843145502840"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-03-12"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-06-01",
+        "fecha_aviso": "2025-06-01",
+        "fuentes": [
+          "1378674641286987916"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-06-01T10:00:43+00:00"
+      }
+    },
+    "93": {
+      "video_id": "_GY-gOjxQQ8",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-03-19",
+        "fuentes": [
+          "1352000263250120724"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-03-19"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-06-08",
+        "fecha_aviso": "2025-06-08",
+        "fuentes": [
+          "1381196265638989954"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-06-08T09:00:45+00:00"
+      }
+    },
+    "94": {
+      "video_id": "Er5LTXi8lb8",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-03-20",
+        "fuentes": [
+          "1352362719780540458"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-03-20"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-06-08",
+        "fecha_aviso": "2025-06-08",
+        "fuentes": [
+          "1381211308858409030"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-06-08T10:00:16+00:00"
+      }
+    },
+    "95": {
+      "video_id": "ENyfceqGKzY",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-03-26",
+        "fuentes": [
+          "1354538115754098838"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-03-26"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-06-10",
+        "fecha_aviso": "2025-06-10",
+        "fuentes": [
+          "1381920960654999583"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-06-10T09:00:18+00:00"
+      }
+    },
+    "96": {
+      "video_id": "xU1sxIKdRL4",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-03-27",
+        "fuentes": [
+          "1354899941046358248"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-03-27"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-06-15",
+        "fecha_aviso": "2025-06-15",
+        "fuentes": [
+          "1383733128635351093"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-06-15T09:01:19+00:00"
+      }
+    },
+    "97": {
+      "video_id": "d8LqTYGNeBY",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-04-02",
+        "fuentes": [
+          "1357060596490829875"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-04-02"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-06-15",
+        "fecha_aviso": "2025-06-15",
+        "fuentes": [
+          "1383748128229949511"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-06-15T10:00:56+00:00"
+      }
+    },
+    "98": {
+      "video_id": "kdf32OC-7fc",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-04-03",
+        "fuentes": [
+          "1357424071301791745"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-04-03"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-06-17",
+        "fecha_aviso": "2025-06-17",
+        "fuentes": [
+          "1384457866517151847"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-06-17T09:01:10+00:00"
+      }
+    },
+    "99": {
+      "video_id": "JLzBnc_XHHQ",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-04-08",
+        "fuentes": [
+          "1359239284112228513"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-04-08"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-06-22",
+        "fecha_aviso": "2025-06-22",
+        "fuentes": [
+          "1386269643030921327"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-06-22T09:00:32+00:00"
+      }
+    },
+    "100": {
+      "video_id": "4ECaNNUythE",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-04-09",
+        "fuentes": [
+          "1359596611264577676"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-04-09"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-06-22",
+        "fecha_aviso": "2025-06-22",
+        "fuentes": [
+          "1386284733977071626"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-06-22T10:00:13+00:00"
+      }
+    },
+    "101": {
+      "video_id": "2_UCjvOm1IM",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-04-10",
+        "fuentes": [
+          "1359960631821996072"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-04-10"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-06-24",
+        "fecha_aviso": "2025-06-24",
+        "fuentes": [
+          "1386994383622242395"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-06-24T09:00:08+00:00"
+      }
+    },
+    "102": {
+      "video_id": "8DonhV-kQFU",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-04-14",
+        "fuentes": [
+          "1361407482689355806"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-04-14"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-06-29",
+        "fecha_aviso": "2025-06-29",
+        "fuentes": [
+          "1388806322937401356"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-06-29T09:00:11+00:00"
+      }
+    },
+    "103": {
+      "video_id": "Ku5GF9KBwK4",
+      "twitch": {
+        "estado": "asumida",
+        "fecha": "2025-04-15",
+        "fuentes": [
+          "1361769205715702022",
+          "1362136567187112247"
+        ],
+        "criterio": "fecha_probable_aceptada",
+        "nota": "Fecha asumida para la cronología a partir del día probable aceptado. Se conservan la estimación original, sus fuentes y sus discrepancias.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-04-15",
+          "2025-04-16"
+        ],
+        "asuncion": {
+          "autorizada_por_usuario": true,
+          "criterio": "aceptar_dia_probable",
+          "estado_anterior": "varias_fechas",
+          "fecha_anterior": null,
+          "nota_anterior": "El mismo número y título aparecen en días distintos; la fecha original sigue por confirmar."
+        }
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-06-29",
+        "fecha_aviso": "2025-06-29",
+        "fuentes": [
+          "1388821477951934515"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-06-29T10:00:36+00:00"
+      }
+    },
+    "104": {
+      "video_id": "YxxtGfF6CEU",
+      "twitch": {
+        "estado": "asumida",
+        "fecha": "2025-04-16",
+        "fuentes": [],
+        "criterio": "fecha_probable_aceptada",
+        "nota": "Fecha asumida para la cronología a partir del día probable aceptado. Se conservan la estimación original, sus fuentes y sus discrepancias.",
+        "asuncion": {
+          "autorizada_por_usuario": true,
+          "criterio": "aceptar_dia_probable",
+          "estado_anterior": "sin_anuncio_identificado",
+          "fecha_anterior": null,
+          "nota_anterior": "No se ha identificado un aviso de Twitch correspondiente a este capítulo en el historial conservado."
+        }
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-07-01",
+        "fecha_aviso": "2025-07-01",
+        "fuentes": [
+          "1389531231875502080"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-07-01T09:00:55+00:00"
+      }
+    },
+    "105": {
+      "video_id": "k08Xs1o1Hag",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-04-17",
+        "fuentes": [
+          "1362497195252650075"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-04-17"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-07-06",
+        "fecha_aviso": "2025-07-06",
+        "fuentes": [
+          "1391343214761611345"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-07-06T09:01:07+00:00"
+      }
+    },
+    "106": {
+      "video_id": "G-_yXA4Z55k",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-04-21",
+        "fuentes": [
+          "1363944514846326895"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-04-21"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-07-06",
+        "fecha_aviso": "2025-07-06",
+        "fuentes": [
+          "1391358191643656277"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-07-06T10:00:31+00:00"
+      }
+    },
+    "107": {
+      "video_id": "URvFcnBk9j0",
+      "twitch": {
+        "estado": "asumida",
+        "fecha": "2025-04-22",
+        "fuentes": [
+          "1364309009938645093",
+          "1364670948451811419"
+        ],
+        "criterio": "fecha_probable_aceptada",
+        "nota": "Fecha asumida para la cronología a partir del día probable aceptado. Se conservan la estimación original, sus fuentes y sus discrepancias.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-04-22",
+          "2025-04-23"
+        ],
+        "asuncion": {
+          "autorizada_por_usuario": true,
+          "criterio": "aceptar_dia_probable",
+          "estado_anterior": "varias_fechas",
+          "fecha_anterior": null,
+          "nota_anterior": "El mismo número y título aparecen en días distintos; la fecha original sigue por confirmar."
+        }
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-07-08",
+        "fecha_aviso": "2025-07-08",
+        "fuentes": [
+          "1392067919776579664"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-07-08T09:00:49+00:00"
+      }
+    },
+    "108": {
+      "video_id": "Dy6XCYPXBpI",
+      "twitch": {
+        "estado": "asumida",
+        "fecha": "2025-04-23",
+        "fuentes": [],
+        "criterio": "fecha_probable_aceptada",
+        "nota": "Fecha asumida para la cronología a partir del día probable aceptado. Se conservan la estimación original, sus fuentes y sus discrepancias.",
+        "asuncion": {
+          "autorizada_por_usuario": true,
+          "criterio": "aceptar_dia_probable",
+          "estado_anterior": "sin_anuncio_identificado",
+          "fecha_anterior": null,
+          "nota_anterior": "No se ha identificado un aviso de Twitch correspondiente a este capítulo en el historial conservado."
+        }
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-07-13",
+        "fecha_aviso": "2025-07-13",
+        "fuentes": [
+          "1393879772790128710"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-07-13T09:00:17+00:00"
+      }
+    },
+    "109": {
+      "video_id": "gvIEI8-k2Uk",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-04-24",
+        "fuentes": [
+          "1365035149171101736"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-04-24"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-07-13",
+        "fecha_aviso": "2025-07-13",
+        "fuentes": [
+          "1393895039691788380"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-07-13T10:01:07+00:00"
+      }
+    },
+    "110": {
+      "video_id": "fPqw_HmqDEg",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-04-30",
+        "fuentes": [
+          "1367206327377727518"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-04-30"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-07-15",
+        "fecha_aviso": "2025-07-15",
+        "fuentes": [
+          "1394604667828305981"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-07-15T09:00:56+00:00"
+      }
+    },
+    "111": {
+      "video_id": "rcnGwTuQMvs",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-05-01",
+        "fuentes": [
+          "1367568902531317983"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-05-01"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-07-20",
+        "fecha_aviso": "2025-07-20",
+        "fuentes": [
+          "1396416688232333413"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-07-20T09:01:17+00:00"
+      }
+    },
+    "112": {
+      "video_id": "I8I7p3iGiXQ",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-05-07",
+        "fuentes": [
+          "1369742246882054214"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-05-07"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-07-20",
+        "fecha_aviso": "2025-07-20",
+        "fuentes": [
+          "1396431610340966443"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-07-20T10:00:21+00:00"
+      }
+    },
+    "113": {
+      "video_id": "sqIXZp9cQHw",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-05-08",
+        "fuentes": [
+          "1370105319824298084"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-05-08"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-07-22",
+        "fecha_aviso": "2025-07-22",
+        "fuentes": [
+          "1397141487220690975"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-07-22T09:01:22+00:00"
+      }
+    },
+    "114": {
+      "video_id": "Ssu6Oak95nA",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-05-14",
+        "fuentes": [
+          "1372279071790338181"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-05-14"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-07-27",
+        "fecha_aviso": "2025-07-27",
+        "fuentes": [
+          "1398953241307385926"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-07-27T09:00:37+00:00"
+      }
+    },
+    "115": {
+      "video_id": "rRtKxvpqXKQ",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-05-15",
+        "fuentes": [
+          "1372641487094808689"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-05-15"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-07-27",
+        "fecha_aviso": "2025-07-27",
+        "fuentes": [
+          "1398968499837337640"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-07-27T10:01:15+00:00"
+      }
+    },
+    "116": {
+      "video_id": "Ctd_d0vniG8",
+      "twitch": {
+        "estado": "asumida",
+        "fecha": "2025-05-19",
+        "fuentes": [
+          "1374091924474040400",
+          "1374452181180354571"
+        ],
+        "criterio": "fecha_probable_aceptada",
+        "nota": "Fecha asumida para la cronología a partir del día probable aceptado. Se conservan la estimación original, sus fuentes y sus discrepancias.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-05-19",
+          "2025-05-20"
+        ],
+        "asuncion": {
+          "autorizada_por_usuario": true,
+          "criterio": "aceptar_dia_probable",
+          "estado_anterior": "varias_fechas",
+          "fecha_anterior": null,
+          "nota_anterior": "El mismo número y título aparecen en días distintos; la fecha original sigue por confirmar."
+        }
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-07-29",
+        "fecha_aviso": "2025-07-29",
+        "fuentes": [
+          "1399677975154266143"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-07-29T09:00:14+00:00"
+      }
+    },
+    "117": {
+      "video_id": "QMFNM1kP160",
+      "twitch": {
+        "estado": "asumida",
+        "fecha": "2025-05-20",
+        "fuentes": [],
+        "criterio": "fecha_probable_aceptada",
+        "nota": "Fecha asumida para la cronología a partir del día probable aceptado. Se conservan la estimación original, sus fuentes y sus discrepancias.",
+        "asuncion": {
+          "autorizada_por_usuario": true,
+          "criterio": "aceptar_dia_probable",
+          "estado_anterior": "sin_anuncio_identificado",
+          "fecha_anterior": null,
+          "nota_anterior": "No se ha identificado un aviso de Twitch correspondiente a este capítulo en el historial conservado."
+        }
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-08-03",
+        "fecha_aviso": "2025-08-03",
+        "fuentes": [
+          "1401489957620809829"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-08-03T09:00:38+00:00"
+      }
+    },
+    "118": {
+      "video_id": "kHj7GPMrF8s",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-05-21",
+        "fuentes": [
+          "1374814627057373194"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-05-21"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-08-03",
+        "fecha_aviso": "2025-08-03",
+        "fuentes": [
+          "1401505146088849459"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-08-03T10:00:59+00:00"
+      }
+    },
+    "119": {
+      "video_id": "VCNq8vnbJIQ",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-05-22",
+        "fuentes": [
+          "1375179577676267590"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-05-22"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-08-05",
+        "fecha_aviso": "2025-08-05",
+        "fuentes": [
+          "1402214757712265246"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-08-05T09:00:45+00:00"
+      }
+    },
+    "120": {
+      "video_id": "iLzxXL9d8pU",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-05-26",
+        "fuentes": [
+          "1376630112560218362"
+        ],
+        "criterio": "campana_numero_y_variante_editorial",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": "Hilos/Hilo, variante de número en el título.",
+        "fechas_candidatas": [
+          "2025-05-26"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-08-10",
+        "fecha_aviso": "2025-08-10",
+        "fuentes": [
+          "1404026781547237427"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-08-10T09:01:05+00:00"
+      }
+    },
+    "121": {
+      "video_id": "bsoulnOWNKc",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-05-27",
+        "fuentes": [
+          "1376989881670176889"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-05-27"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-08-10",
+        "fecha_aviso": "2025-08-10",
+        "fuentes": [
+          "1404041834090463312"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-08-10T10:00:50+00:00"
+      }
+    },
+    "122": {
+      "video_id": "UKvfF-IoXuY",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-05-28",
+        "fuentes": [
+          "1377352831694274650"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-05-28"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-08-12",
+        "fecha_aviso": "2025-08-12",
+        "fuentes": [
+          "1404751523497377834"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-08-12T09:00:56+00:00"
+      }
+    },
+    "123": {
+      "video_id": "aQkRikfhFGI",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-05-29",
+        "fuentes": [
+          "1377714802629283882"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-05-29"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-08-17",
+        "fecha_aviso": "2025-08-17",
+        "fuentes": [
+          "1406563309976817784"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-08-17T09:00:02+00:00"
+      }
+    },
+    "124": {
+      "video_id": "4cO-E6C8o5w",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-06-04",
+        "fuentes": [
+          "1379890572373790750"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-06-04"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-08-17",
+        "fecha_aviso": "2025-08-17",
+        "fuentes": [
+          "1406578473862041620"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-08-17T10:00:12+00:00"
+      }
+    },
+    "125": {
+      "video_id": "wPckbwoMkdE",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-06-05",
+        "fuentes": [
+          "1380253520841805875"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-06-05"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-08-19",
+        "fecha_aviso": "2025-08-19",
+        "fuentes": [
+          "1407288334790823946"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-08-19T09:01:20+00:00"
+      }
+    },
+    "126": {
+      "video_id": "fc0L1zYHctM",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-06-11",
+        "fuentes": [
+          "1382420384158056601"
+        ],
+        "criterio": "campana_numero_y_variante_editorial",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": "Guricidio/Gur-Icidio, segmentación del nombre.",
+        "fechas_candidatas": [
+          "2025-06-11"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-08-24",
+        "fecha_aviso": "2025-08-24",
+        "fuentes": [
+          "1409100152408641558"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-08-24T09:00:51+00:00"
+      }
+    },
+    "127": {
+      "video_id": "Om1D1IsCPKg",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-06-12",
+        "fuentes": [
+          "1382781538868920370"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-06-12"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-08-24",
+        "fecha_aviso": "2025-08-24",
+        "fuentes": [
+          "1409115216955838534"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-08-24T10:00:37+00:00"
+      }
+    },
+    "128": {
+      "video_id": "gnbMDRne4C4",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-06-17",
+        "fuentes": [
+          "1384592935672086533"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-06-17"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-08-26",
+        "fecha_aviso": "2025-08-26",
+        "fuentes": [
+          "1409824985228251156"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-08-26T09:01:04+00:00"
+      }
+    },
+    "129": {
+      "video_id": "h3xvmTWCzC8",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-06-18",
+        "fuentes": [
+          "1384958659062403102"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-06-18"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-08-31",
+        "fecha_aviso": "2025-08-31",
+        "fuentes": [
+          "1411636886111518863"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-08-31T09:00:55+00:00"
+      }
+    },
+    "130": {
+      "video_id": "bgfjHtjKqqo",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-06-19",
+        "fuentes": [
+          "1385318614470496400"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-06-19"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-08-31",
+        "fecha_aviso": "2025-08-31",
+        "fuentes": [
+          "1411651979679371400"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-08-31T10:00:54+00:00"
+      }
+    },
+    "131": {
+      "video_id": "L2BTgpV3TfI",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-06-24",
+        "fuentes": [
+          "1387130423632724151"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-06-24"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-09-02",
+        "fecha_aviso": "2025-09-02",
+        "fuentes": [
+          "1412361580355780681"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-09-02T09:00:33+00:00"
+      }
+    },
+    "132": {
+      "video_id": "RKJobYkQpQI",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-06-25",
+        "fuentes": [
+          "1387494015813030079"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-06-25"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-09-07",
+        "fecha_aviso": "2025-09-07",
+        "fuentes": [
+          "1414173558548201623"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-09-07T09:00:36+00:00"
+      }
+    },
+    "133": {
+      "video_id": "S4EhEFFTzjQ",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-06-26",
+        "fuentes": [
+          "1387857477848141979"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-06-26"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-09-07",
+        "fecha_aviso": "2025-09-07",
+        "fuentes": [
+          "1414188764170813440"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-09-07T10:00:41+00:00"
+      }
+    },
+    "134": {
+      "video_id": "oWHyl0LIlHA",
+      "twitch": {
+        "estado": "asumida",
+        "fecha": "2025-07-02",
+        "fuentes": [],
+        "criterio": "fecha_probable_aceptada",
+        "nota": "Fecha asumida tras cotejar el calendario y los avisos. Se conservan las discrepancias y los títulos originales.",
+        "asuncion": {
+          "autorizada_por_usuario": true,
+          "criterio": "aceptar_dia_probable",
+          "estado_anterior": "sin_anuncio_identificado",
+          "fecha_anterior": null,
+          "nota_anterior": "No se ha identificado un aviso de Twitch correspondiente a este capítulo en el historial conservado."
+        }
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-09-09",
+        "fecha_aviso": "2025-09-09",
+        "fuentes": [
+          "1414898572318474240"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-09-09T09:01:12+00:00"
+      }
+    },
+    "135": {
+      "video_id": "SyXIdBFD7Os",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-07-03",
+        "fuentes": [
+          "1390391136719212627"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-07-03"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-09-14",
+        "fecha_aviso": "2025-09-14",
+        "fuentes": [
+          "1416710372924063865"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-09-14T09:00:41+00:00"
+      }
+    },
+    "136": {
+      "video_id": "t33F7z6KUNo",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-07-09",
+        "fuentes": [
+          "1392568138104832013"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-07-09"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-09-14",
+        "fecha_aviso": "2025-09-14",
+        "fuentes": [
+          "1416725739046441000"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-09-14T10:01:19+00:00"
+      }
+    },
+    "137": {
+      "video_id": "mGqXl2WaQ-I",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-07-10",
+        "fuentes": [
+          "1392928697199104071"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-07-10"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-09-16",
+        "fecha_aviso": "2025-09-16",
+        "fuentes": [
+          "1417435346739662848"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-09-16T09:01:15+00:00"
+      }
+    },
+    "138": {
+      "video_id": "PXwlFxVaPYk",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-07-16",
+        "fuentes": [
+          "1395103349975552102"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-07-16"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-09-21",
+        "fecha_aviso": "2025-09-21",
+        "fuentes": [
+          "1419247082438660160"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-09-21T09:00:39+00:00"
+      }
+    },
+    "139": {
+      "video_id": "ph7LT7Cny1U",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-07-17",
+        "fuentes": [
+          "1395465783865512070"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-07-17"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-09-21",
+        "fecha_aviso": "2025-09-21",
+        "fuentes": [
+          "1419262417954672692"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-09-21T10:01:16+00:00"
+      }
+    },
+    "140": {
+      "video_id": "WmcQsKzct8E",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-07-24",
+        "fuentes": [
+          "1398002060905152542"
+        ],
+        "criterio": "campana_numero_y_variante_editorial",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": "Mala Hierba en el Bosque/Hierbas en el Bosque; mismo episodio y asunto.",
+        "fechas_candidatas": [
+          "2025-07-24"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-09-23",
+        "fecha_aviso": "2025-09-23",
+        "fuentes": [
+          "1419971983638269972"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-09-23T09:00:48+00:00"
+      }
+    },
+    "141": {
+      "video_id": "rLosf9pZjtg",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-07-30",
+        "fuentes": [
+          "1400176335124693204"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-07-30"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-09-28",
+        "fecha_aviso": "2025-09-28",
+        "fuentes": [
+          "1421784022010564638"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-09-28T09:01:18+00:00"
+      }
+    },
+    "142": {
+      "video_id": "dqWsQA4k2yY",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-07-31",
+        "fuentes": [
+          "1400539301288349778"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-07-31"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-09-28",
+        "fecha_aviso": "2025-09-28",
+        "fuentes": [
+          "1421799085312184421"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-09-28T10:01:05+00:00"
+      }
+    },
+    "143": {
+      "video_id": "B7AY5eJeBJM",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-08-07",
+        "fuentes": [
+          "1403077303029989558",
+          "1403086843431358665"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida. Hay varios avisos del mismo día; se conservan todos.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-08-07"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-09-30",
+        "fecha_aviso": "2025-09-30",
+        "fuentes": [
+          "1422508454362222663"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-09-30T09:00:17+00:00"
+      }
+    },
+    "144": {
+      "video_id": "0hoZvk8fnBI",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-08-08",
+        "fuentes": [
+          "1403438861371310241"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-08-08"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-10-05",
+        "fecha_aviso": "2025-10-05",
+        "fuentes": [
+          "1424320348463038588"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-10-05T09:00:03+00:00"
+      }
+    },
+    "145": {
+      "video_id": "ndpJq8wyxpI",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-08-14",
+        "fuentes": [
+          "1405610480659202078"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-08-14"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-10-05",
+        "fecha_aviso": "2025-10-05",
+        "fuentes": [
+          "1424335649263063091"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-10-05T10:01:16+00:00"
+      }
+    },
+    "146": {
+      "video_id": "5C0kkd2kiBI",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-08-15",
+        "fuentes": [
+          "1405973993948975124"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-08-15"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-10-07",
+        "fecha_aviso": "2025-10-07",
+        "fuentes": [
+          "1425045149880291419"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-10-07T09:00:11+00:00"
+      }
+    },
+    "147": {
+      "video_id": "xnLXOqKTrd4",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-08-17",
+        "fuentes": [
+          "1406697567479271588"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-08-17"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-10-12",
+        "fecha_aviso": "2025-10-12",
+        "fuentes": [
+          "1426857324873781369"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-10-12T09:01:30+00:00"
+      }
+    },
+    "148": {
+      "video_id": "S-dO33xkW3Y",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-08-21",
+        "fuentes": [
+          "1408150475005493401"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-08-21"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-10-12",
+        "fecha_aviso": "2025-10-12",
+        "fuentes": [
+          "1426872234244440096"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-10-12T10:00:43+00:00"
+      }
+    },
+    "149": {
+      "video_id": "CTIT6Tglxog",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-08-22",
+        "fuentes": [
+          "1408510610769182751"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-08-22"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-10-14",
+        "fecha_aviso": "2025-10-14",
+        "fuentes": [
+          "1427581879875538974"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-10-14T09:00:30+00:00"
+      }
+    },
+    "150": {
+      "video_id": "sagfsr_s1Kw",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-08-25",
+        "fuentes": [
+          "1409597246030483518"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-08-25"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-10-19",
+        "fecha_aviso": "2025-10-19",
+        "fuentes": [
+          "1429394113177976862"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-10-19T09:01:22+00:00"
+      }
+    },
+    "151": {
+      "video_id": "Z8jNyingQaA",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-08-26",
+        "fuentes": [
+          "1409961127210909958"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-08-26"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-10-19",
+        "fecha_aviso": "2025-10-19",
+        "fuentes": [
+          "1429409153226506240"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-10-19T10:00:56+00:00"
+      }
+    },
+    "152": {
+      "video_id": "8QTDQbbFjx0",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-08-28",
+        "fuentes": [
+          "1410686619970699395"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-08-28"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-10-21",
+        "fecha_aviso": "2025-10-21",
+        "fuentes": [
+          "1430118567407390851"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-10-21T09:00:10+00:00"
+      }
+    },
+    "153": {
+      "video_id": "SXYizQC9qdk",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-09-01",
+        "fuentes": [
+          "1412135728854339686"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-09-01"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-10-26",
+        "fecha_aviso": "2025-10-26",
+        "fuentes": [
+          "1431945754972393555"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-10-26T10:00:43+00:00"
+      }
+    },
+    "154": {
+      "video_id": "gSVlOQLJXTM",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-09-03",
+        "fuentes": [
+          "1412859898479382548"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-09-03"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-10-26",
+        "fecha_aviso": "2025-10-26",
+        "fuentes": [
+          "1431961055562567771"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-10-26T11:01:10+00:00"
+      }
+    },
+    "155": {
+      "video_id": "wblxt9sFHtU",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-09-04",
+        "fuentes": [
+          "1413222713035587615"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-09-04"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-10-28",
+        "fecha_aviso": "2025-10-28",
+        "fuentes": [
+          "1432686237575286884"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-10-28T11:02:06+00:00"
+      }
+    },
+    "156": {
+      "video_id": "eDmuOZraUFw",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-09-11",
+        "fuentes": [
+          "1415765542228332665"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-09-11"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-11-04",
+        "fecha_aviso": "2025-11-04",
+        "fuentes": [
+          "1435207401836908614"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-11-04T10:01:12+00:00"
+      }
+    },
+    "157": {
+      "video_id": "t2W3FOj1AkE",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-09-17",
+        "fuentes": [
+          "1417940586811363481"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-09-17"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-11-09",
+        "fecha_aviso": "2025-11-09",
+        "fuentes": [
+          "1437019347708018788"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-11-09T10:01:18+00:00"
+      }
+    },
+    "158": {
+      "video_id": "e1AyEOenx1o",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-09-18",
+        "fuentes": [
+          "1418299599050899618"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-09-18"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-11-11",
+        "fecha_aviso": "2025-11-11",
+        "fuentes": [
+          "1437744067105787946"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-11-11T10:01:07+00:00"
+      }
+    },
+    "159": {
+      "video_id": "z3SMO9GC8d4",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-09-25",
+        "fuentes": [
+          "1420832479270408274"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-09-25"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-11-16",
+        "fecha_aviso": "2025-11-16",
+        "fuentes": [
+          "1439556039614664765"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-11-16T10:01:27+00:00"
+      }
+    },
+    "160": {
+      "video_id": "DyF3LM0ZP-U",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-10-02",
+        "fuentes": [
+          "1423373613540573317"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-10-02"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-11-18",
+        "fecha_aviso": "2025-11-18",
+        "fuentes": [
+          "1440280558184693830"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-11-18T10:00:22+00:00"
+      }
+    },
+    "161": {
+      "video_id": "Q3T__V-vSxY",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-10-07",
+        "fuentes": [
+          "1425183138606219264"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-10-07"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-11-23",
+        "fecha_aviso": "2025-11-23",
+        "fuentes": [
+          "1442092626714296464"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-11-23T10:00:40+00:00"
+      }
+    },
+    "162": {
+      "video_id": "GjPZAZBRNmc",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-10-09",
+        "fuentes": [
+          "1425912631637835917"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-10-09"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-11-25",
+        "fecha_aviso": "2025-11-25",
+        "fuentes": [
+          "1442817354873700427"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-11-25T10:00:36+00:00"
+      }
+    },
+    "163": {
+      "video_id": "yVx0Woysozw",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-10-16",
+        "fuentes": [
+          "1428443861126086666"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-10-16"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-11-30",
+        "fecha_aviso": "2025-11-30",
+        "fuentes": [
+          "1444629580089524246"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-11-30T10:01:38+00:00"
+      }
+    },
+    "164": {
+      "video_id": "S35zAQElvdw",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-10-30",
+        "fuentes": [
+          "1433532919066136698"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-10-30"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-12-02",
+        "fecha_aviso": "2025-12-02",
+        "fuentes": [
+          "1445354081718894623"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-12-02T10:00:51+00:00"
+      }
+    },
+    "165": {
+      "video_id": "Q0zqwpvZiWI",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-11-06",
+        "fuentes": [
+          "1436069852543586424"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-11-06"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-12-07",
+        "fecha_aviso": "2025-12-07",
+        "fuentes": [
+          "1447166061580517479"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-12-07T10:00:45+00:00"
+      }
+    },
+    "166": {
+      "video_id": "JjSd_jBupGs",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-11-12",
+        "fuentes": [
+          "1438244036996628491"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-11-12"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-12-09",
+        "fecha_aviso": "2025-12-09",
+        "fuentes": [
+          "1447890920639955076"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-12-09T10:00:37+00:00"
+      }
+    },
+    "167": {
+      "video_id": "rStRApYCXVE",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-11-13",
+        "fuentes": [
+          "1438607930604781589"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-11-13"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-12-14",
+        "fecha_aviso": "2025-12-14",
+        "fuentes": [
+          "1449702847049498736"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-12-14T10:01:26+00:00"
+      }
+    },
+    "168": {
+      "video_id": "mukdua86E_0",
+      "twitch": {
+        "estado": "asumida",
+        "fecha": "2025-11-20",
+        "fuentes": [
+          "1441142043761180816",
+          "1442596662206922943"
+        ],
+        "criterio": "fecha_probable_aceptada",
+        "nota": "Fecha asumida para la cronología a partir del día probable aceptado. Se conservan la estimación original, sus fuentes y sus discrepancias.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-11-20",
+          "2025-11-24"
+        ],
+        "asuncion": {
+          "autorizada_por_usuario": true,
+          "criterio": "aceptar_dia_probable",
+          "estado_anterior": "varias_fechas",
+          "fecha_anterior": null,
+          "nota_anterior": "El mismo número y título aparecen en días distintos; la fecha original sigue por confirmar."
+        }
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-12-21",
+        "fecha_aviso": "2025-12-21",
+        "fuentes": [
+          "1452239542672298038"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-12-21T10:01:23+00:00"
+      }
+    },
+    "169": {
+      "video_id": "UyPZVE4FGDo",
+      "twitch": {
+        "estado": "asumida",
+        "fecha": "2025-11-24",
+        "fuentes": [],
+        "criterio": "fecha_probable_aceptada",
+        "nota": "Fecha asumida para la cronología a partir del día probable aceptado. Se conservan la estimación original, sus fuentes y sus discrepancias.",
+        "asuncion": {
+          "autorizada_por_usuario": true,
+          "criterio": "aceptar_dia_probable",
+          "estado_anterior": "sin_anuncio_identificado",
+          "fecha_anterior": null,
+          "nota_anterior": "No se ha identificado un aviso de Twitch correspondiente a este capítulo en el historial conservado."
+        }
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2025-12-28",
+        "fecha_aviso": "2025-12-28",
+        "fuentes": [
+          "1454776117281030225"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2025-12-28T10:00:45+00:00"
+      }
+    },
+    "170": {
+      "video_id": "ym1Q7gkWXi4",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-11-27",
+        "fuentes": [
+          "1443679606723838074"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-11-27"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2026-01-04",
+        "fecha_aviso": "2026-01-04",
+        "fuentes": [
+          "1457312990809296936"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2026-01-04T10:01:27+00:00"
+      }
+    },
+    "171": {
+      "video_id": "YCgU_17Rt24",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-12-04",
+        "fuentes": [
+          "1446214322580881569"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-12-04"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2026-01-11",
+        "fecha_aviso": "2026-01-13",
+        "fuentes": [
+          "1460574374414389456"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2026-01-11T10:00:50+00:00"
+      }
+    },
+    "172": {
+      "video_id": "JtusYfNy6kU",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-12-09",
+        "fuentes": [
+          "1448031934176428145"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-12-09"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2026-01-18",
+        "fecha_aviso": "2026-01-18",
+        "fuentes": [
+          "1462386250647470132"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2026-01-18T10:00:34+00:00"
+      }
+    },
+    "173": {
+      "video_id": "f3yZ-FzwU28",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-12-11",
+        "fuentes": [
+          "1448753461364785172"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-12-11"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2026-01-25",
+        "fecha_aviso": "2026-01-25",
+        "fuentes": [
+          "1464923014440419422"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2026-01-25T10:00:53+00:00"
+      }
+    },
+    "174": {
+      "video_id": "26jlKzFFHIM",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-12-16",
+        "fuentes": [
+          "1450566665669443760"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-12-16"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2026-02-01",
+        "fecha_aviso": "2026-02-01",
+        "fuentes": [
+          "1467459640890495085"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2026-02-01T10:00:08+00:00"
+      }
+    },
+    "175": {
+      "video_id": "R9Cx2x8O3yw",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-12-18",
+        "fuentes": [
+          "1451296214803812372"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-12-18"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2026-02-08",
+        "fecha_aviso": "2026-02-08",
+        "fuentes": [
+          "1469996382201974795"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2026-02-08T10:00:39+00:00"
+      }
+    },
+    "176": {
+      "video_id": "Oq_iMchjet0",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-12-22",
+        "fuentes": [
+          "1452742746241634425"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-12-22"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2026-02-15",
+        "fecha_aviso": "2026-02-15",
+        "fuentes": [
+          "1472533105624486039"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2026-02-15T10:00:38+00:00"
+      }
+    },
+    "177": {
+      "video_id": "_W5N2dwjqaE",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-12-23",
+        "fuentes": [
+          "1453105577910862044"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-12-23"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2026-02-22",
+        "fecha_aviso": "2026-02-22",
+        "fuentes": [
+          "1475069893480157205"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2026-02-22T10:01:01+00:00"
+      }
+    },
+    "178": {
+      "video_id": "heE30GsaeEM",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2025-12-30",
+        "fuentes": [
+          "1455641515153162354"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2025-12-30"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2026-03-01",
+        "fecha_aviso": "2026-03-01",
+        "fuentes": [
+          "1477606577572937902"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2026-03-01T10:00:52+00:00"
+      }
+    },
+    "179": {
+      "video_id": "fq16KlCjmiU",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2026-01-08",
+        "fuentes": [
+          "1458905021985853695"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2026-01-08"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2026-03-08",
+        "fecha_aviso": "2026-03-08",
+        "fuentes": [
+          "1480143371199578275"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2026-03-08T10:01:04+00:00"
+      }
+    },
+    "180": {
+      "video_id": "7pW0Gna-9ZM",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2026-01-15",
+        "fuentes": [
+          "1461435221806284870"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2026-01-15"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2026-03-15",
+        "fecha_aviso": "2026-03-15",
+        "fuentes": [
+          "1482679953458724904"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2026-03-15T10:00:12+00:00"
+      }
+    },
+    "181": {
+      "video_id": "9OwFNL_KXy0",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2026-01-21",
+        "fuentes": [
+          "1463611734899167390"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2026-01-21"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2026-03-22",
+        "fecha_aviso": "2026-03-22",
+        "fuentes": [
+          "1485216653573755086"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2026-03-22T10:00:08+00:00"
+      }
+    },
+    "182": {
+      "video_id": "iop3TS6EwO8",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2026-01-26",
+        "fuentes": [
+          "1465425150315991041"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "Fecha del directo indicada por la tarjeta de Twitch. Su hora no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2026-01-26"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2026-03-29",
+        "fecha_aviso": "2026-03-29",
+        "fuentes": [
+          "1487738392958599178"
+        ],
+        "origen_fecha": "timestamp_tarjeta_youtube",
+        "publicacion_reportada_utc": "2026-03-29T09:00:55+00:00"
+      }
+    }
+  }
+}

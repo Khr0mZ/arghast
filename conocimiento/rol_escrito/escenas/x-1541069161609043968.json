@@ -1,0 +1,200 @@
+{
+  "id": "x-1541069161609043968",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1541069161609043968",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "Oghma encarga la entrega de la sopa de muerte",
+  "resumen": "Walulu recomienda consultar a la reina Irvette sobre un vial del mar y Oghma transfiere la tarea a Zelda esperando una recompensa.",
+  "relato": "Oghma lleva a Walulu un frasco que llama sopa de muerte, recogido durante una ayuda a una conocida marina de Coyote. Cuenta que cree que intentaban invocar un kraken y que Zelda bebió de esa sustancia, pero aquí no se repite aquella aventura ni se verifica su interpretación. La chamana observa el contenido y reconoce que la reina Irvette de Perlasal podría entender mejor un fenómeno del mar.\n\nPensando en una posible recompensa, Oghma recupera el vial y busca a Zelda, que está preparando sus flechas. Le pone el frasco en las manos y le ordena entregarlo a la reina y traerle lo que reciba. El elfo lo guarda, resta importancia a haberlo probado y pregunta dónde están Perlasal y Chopito.\n\nOghma finge extrañarse de su desconocimiento, aunque interiormente admite que tampoco conoce la ruta. Le propone preguntar a Coyote o Tenta. La entrega queda en sus manos sin un acuerdo de recompensa con Irvette, sin identificar el contenido y sin que todavía haya comenzado el viaje.",
+  "participantes": [
+    "Oghma",
+    "Walulu",
+    "Zelda"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1541096805205409914",
+      "afirmacion": "Oghma entrega el frasco y relata una posible invocación de kraken y que Zelda lo probó.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1541126333495644160",
+      "afirmacion": "Walulu recomienda a la reina Irvette como conocedora de asuntos del mar.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1541141304778686635",
+      "afirmacion": "Oghma encarga a Zelda llevar el vial a Perlasal y devolverle la posible recompensa.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1541201252573118505",
+      "afirmacion": "Oghma le remite a Coyote o Tenta para conocer el camino.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Sopa de muerte es el nombre humorístico de Oghma, no una composición o efecto identificado.",
+    "Irvette no aparece y no promete premio.",
+    "El desconocimiento de Oghma sobre la ruta es privado."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-08-23T12:58:39.808000+00:00",
+  "fin_utc": "2026-08-23T21:43:32.748000+00:00",
+  "fecha_local": "2026-08-23",
+  "intervalo": {
+    "anterior": 55,
+    "siguiente": 56,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1540421346713145396",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1541149597714350182",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 55,
+        "fecha": "2026-08-21",
+        "inicio_referencia_utc": "2026-08-21T18:02:13+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1540421346713145396"
+      },
+      {
+        "capitulo": 56,
+        "fecha": "2026-08-23",
+        "inicio_referencia_utc": "2026-08-23T18:12:54+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1541149597714350182"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1541069161609043968",
+      "fecha_utc": "2026-08-23T12:58:39.808000+00:00",
+      "fecha_local": "2026-08-23",
+      "editado_utc": null,
+      "texto": "Oghma: \n*Voy a llevarle el bote este de sopa de muerte a Walulu, puede que consiga una recompensa o me consideren aun mas heroica*\n**Oghma se dirige a ver a Walulu, afortunadamente el edificio esta cerca de la taberna y es capaz de llegar sin perderse**\nHola?! Walulu estas por aqui?!",
+      "mensaje_sha256": "a955ae8809e52e47e2df36276012ad2f0c138c2634caff8226016d37c2844f8b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1541069161609043968",
+      "texto_sha256": "41d789bbe7e4d51e21ffa5eea768c1817f2beb1799ee2a6fcaf52c31cfdd8561",
+      "adjuntos": []
+    },
+    {
+      "id": "1541095317230063666",
+      "fecha_utc": "2026-08-23T14:42:35.794000+00:00",
+      "fecha_local": "2026-08-23",
+      "editado_utc": null,
+      "texto": "Walulu: Buenos días tenga **Ves a la druida junto al altar preparando unos unguentos** ¿Necesita algo?",
+      "mensaje_sha256": "2d53db36663551f15253af99fcd08b02c3f0b5e5095ef57e6e76b3355d05e19b",
+      "tipo_discord": 19,
+      "referencia": "1541069161609043968",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1541095317230063666",
+      "texto_sha256": "f50b5bfee2ddc6a77c6aa81d442f2a84ca9e8ec6bb927debefe04ffda5be0c57",
+      "adjuntos": []
+    },
+    {
+      "id": "1541096805205409914",
+      "fecha_utc": "2026-08-23T14:48:30.555000+00:00",
+      "fecha_local": "2026-08-23",
+      "editado_utc": null,
+      "texto": "Oghma:\nTe traigo un bote de sopa de muerte que heroicamente recogi cuando estuvimos ayudando a la pez esa amiga de Coyote.\n**Se le abren bien los ojos al recordar algo**\nCreo que intentaban invocar un kraken, ahh, y el elfo nuevo se daria algun golpe en la cabeza, el caso es que le dio un trago a la sopa de muerte esta\n**Le entrega el bote a Walulu y pone cara de cachorrito que espera un premio**",
+      "mensaje_sha256": "7bd3947f04562cd692292a25bfcc97f729974bfc760b3381cb1393c8e402214f",
+      "tipo_discord": 19,
+      "referencia": "1541095317230063666",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1541096805205409914",
+      "texto_sha256": "32b4bd4cccb847c053215ca512cb8e9dfcf5d33b9e1d510c75ac87799c1048d4",
+      "adjuntos": []
+    },
+    {
+      "id": "1541126333495644160",
+      "fecha_utc": "2026-08-23T16:45:50.648000+00:00",
+      "fecha_local": "2026-08-23",
+      "editado_utc": null,
+      "texto": "Walulu: Ummm... **Se queda observando el vial con la sopa de muerte. Le da vueltas, la abre e incluso la mira a trasluz** Podria hacer algunas pruebas... Aunque no soy muy ducha en estas cosas del mar... La Reina Irvette de Perlasal es muy probable que sepa más de estas cosas",
+      "mensaje_sha256": "2f7ada8e706d1b975f7b538d4c11e43dfc40e2eeb3aa357815c0a09256ec6aa5",
+      "tipo_discord": 19,
+      "referencia": "1541096805205409914",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1541126333495644160",
+      "texto_sha256": "e93fab3bc3f72b360891059dc9de5ab7d5456f78d57bb238c008e61a00d24bab",
+      "adjuntos": []
+    },
+    {
+      "id": "1541130834180968602",
+      "fecha_utc": "2026-08-23T17:03:43.695000+00:00",
+      "fecha_local": "2026-08-23",
+      "editado_utc": null,
+      "texto": "Oghma:\n*Una reina...*\n**Recogiendo otra vez el bote**\nA la Reina Irvette entonces, ire a buscar al elfo para ver si puede llevarlo el mismo. Muchas gracias Walulu!\n**Con una reverencia sale apresuradamente y deambula por la ciudad buscando a Zelda a gritos**\nZeldaaaaaaaaaaaaaaaaaaaaa!!! Niñooooooooooooooooooooo!!!",
+      "mensaje_sha256": "01415fde2873b8edba3f72b2b3351dbb05825ed63058feb0dc4e4ef9d1ae78bc",
+      "tipo_discord": 19,
+      "referencia": "1541126333495644160",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1541130834180968602",
+      "texto_sha256": "44a02f95735f5eed21159d9b094bab17508228535d6b13b1c5404ac21b5bb23f",
+      "adjuntos": []
+    },
+    {
+      "id": "1541134938374545628",
+      "fecha_utc": "2026-08-23T17:20:02.211000+00:00",
+      "fecha_local": "2026-08-23",
+      "editado_utc": "2026-08-23T17:52:03.545000+00:00",
+      "texto": "Zelda:\n**Se encuentra sentado en una rama de un árbol, cerca de la taberna. Está afilando la punta de sus flechas y lijando los palos para no clavarse alguna astilla al sacarlas del carcaj. Al oír que lo llaman asoma la cabeza entre las hojas**\n– ¿Sí? ¿Quién me busca? \n**Ve a Ohgma dando voces, guarda las flechas, se carga el arco al hombro y baja de un salto**",
+      "mensaje_sha256": "5f8cddde1aabbda1adcc656ddaff0afd9fa3bb7b6d07f11a2c865e9f586cdbd2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1541134938374545628",
+      "texto_sha256": "826fe73c44f3ffe6900653eb3a280a022cd3ab70f167b57fabfda0e7c79e7669",
+      "adjuntos": []
+    },
+    {
+      "id": "1541141304778686635",
+      "fecha_utc": "2026-08-23T17:45:20.080000+00:00",
+      "fecha_local": "2026-08-23",
+      "editado_utc": null,
+      "texto": "Oghma:\nToma este bote de sopa de muerte, tienes k llevarselo a la Reina Irvette en Perlasal. Puede que te de una recompensa, traemela corriendo. Si necesitas ayuda busca a Chopito pero no le digas que yo he dicho nada.\n**Sin dejarte responder te pone el bote entre las manos**\nCorre hijo, no hay tiempo que perder, Iktan, Perlasal y el mundo dependen de ti.\n*...una recompensa digna de una reina... puede que una tiara de oro o un cetro enjoyado...*",
+      "mensaje_sha256": "4871f6e4a78d4390abbeaae573a32158d6aa699713d02fdb6c82aef87fdcde92",
+      "tipo_discord": 19,
+      "referencia": "1541134938374545628",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1541141304778686635",
+      "texto_sha256": "ca1232859c109cbfccfb94a92d061e173bd82e2456993c8c6863ddc4b7869c30",
+      "adjuntos": []
+    },
+    {
+      "id": "1541142937583489094",
+      "fecha_utc": "2026-08-23T17:51:49.371000+00:00",
+      "fecha_local": "2026-08-23",
+      "editado_utc": "2026-08-23T17:52:14.158000+00:00",
+      "texto": "Zelda:\n**Se queda mirando el bote, reconociendo el parecido con el caldo que tomó**\n– A ver, tanto como sopa de muerte... Solo le faltaba algún condimento, no es para tanto. **Guarda el bote en la mochila** ¿En qué dirección decías que queda Perlasal? ¿Y dónde estará Chopito?",
+      "mensaje_sha256": "0049ad5bbbdb074ac67b86c3515bfea0e0aa8b2729f7543a56c44549b9777f9c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1541142937583489094",
+      "texto_sha256": "28235060745b0090aa8964a5b253ebe35f0d516fc0e1526179f20958bae60326",
+      "adjuntos": []
+    },
+    {
+      "id": "1541201252573118505",
+      "fecha_utc": "2026-08-23T21:43:32.748000+00:00",
+      "fecha_local": "2026-08-23",
+      "editado_utc": null,
+      "texto": "Oghma:\nEs que no sabes donde esta Perlasal? Vaya vergüenza!\n*Otro que tampoco sabe donde esta eso*\n**Parece pensativa durante unos instantes**\nPrueba a preguntarle a Coyote o a Tenta, ellos tienen la respuesta que buscas.\nY no vuelvas hasta que hayas entregado el bote y tengas mi recompensa!",
+      "mensaje_sha256": "e472db1cda1cee05b39fe880630a754e7b67caa7864ddd44c7056bafaec05585",
+      "tipo_discord": 19,
+      "referencia": "1541142937583489094",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1541201252573118505",
+      "texto_sha256": "5046d3d350df3155f28516b74df101ec1812042e5aa5845775be30fade9bcc23",
+      "adjuntos": []
+    }
+  ]
+}

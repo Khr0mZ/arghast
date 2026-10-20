@@ -1,0 +1,219 @@
+{
+  "id": "k-1374672229333209128",
+  "campana": "kuroto",
+  "unidad_revision": "k-1374672229333209128",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Errk busca insectos junto al lago",
+  "resumen": "Banzo conversa con Errk antes de regresar a su guardia de palacio.",
+  "relato": "Banzo se baña en el lago y limpia su armadura antes de entrar de servicio. Entre los juncos encuentra a Errk recogiendo insectos para que Ushi los cocine al día siguiente, una vez limpios por dentro. Errk quiere montar una granja de bichos, aunque todavía no sabe cómo, y considera ampliarla también para Arwen si le gustan. Banzo explica que está protegiendo a Rua y propone acompañarlo hacia la ciudad. Su amigo bromea con su uniforme incompleto y le pregunta si está intentando cortejar a la viuda del shogun. Banzo no responde a esa insinuación antes de que Errk se despida, pidiéndole que cuide de Rua y la salude. El goliat continúa hacia palacio pensando en la broma de los pantalones.",
+  "participantes": [
+    "Banzo",
+    "Errk"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1374772589926551644",
+      "afirmacion": "Errk recoge insectos y plantea construir una granja.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1374778429571858442",
+      "afirmacion": "Errk pregunta si Banzo intenta cortejar a Rua.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1374782800720302175",
+      "afirmacion": "Banzo se despide y toma el camino de palacio.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Panzo y Panzoo son variantes humorísticas de Banzo acreditadas por el diálogo, no personajes diferentes.",
+    "No se construye la granja ni se sirve todavía la comida."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-21T08:56:39.648000+00:00",
+  "fin_utc": "2025-05-21T16:16:01.921000+00:00",
+  "fecha_local": "2025-05-21",
+  "intervalo": {
+    "anterior": 117,
+    "siguiente": 118,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1374452181180354571",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1374814627057373194",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 117,
+        "fecha": "2025-05-20",
+        "inicio_referencia_utc": "2025-05-20T18:22:02+00:00",
+        "fin_estimado_utc": "2025-05-20T21:21:18+00:00",
+        "duracion_video_segundos": 10756,
+        "tipo_referencia": "aviso_de_contraste",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1374452181180354571"
+      },
+      {
+        "capitulo": 118,
+        "fecha": "2025-05-21",
+        "inicio_referencia_utc": "2025-05-21T18:22:18+00:00",
+        "fin_estimado_utc": "2025-05-21T21:21:50+00:00",
+        "duracion_video_segundos": 10772,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1374814627057373194"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida. Una hora tomada de un aviso con título discrepante se utiliza solo como referencia aproximada de ese día."
+  },
+  "fuentes": [
+    {
+      "id": "1374672229333209128",
+      "fecha_utc": "2025-05-21T08:56:39.648000+00:00",
+      "fecha_local": "2025-05-21",
+      "editado_utc": null,
+      "texto": "Banzo : **va en dirección al lago , a darse un baño . Limpiará la armadura le sacará un poco de brillo a base de escupitajos y frotar y se dirige a Palacio para su turno.   **",
+      "mensaje_sha256": "6bdb17db498bd019c5b054d80660b6fb3ca95252fb5ac89fcdafaed998d4622c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1374672229333209128",
+      "texto_sha256": "4800d7675d5c2b16409797ec4baf4c9aa772a535654e43949099f2347cb73b22",
+      "adjuntos": []
+    },
+    {
+      "id": "1374741767739670538",
+      "fecha_utc": "2025-05-21T13:32:58.896000+00:00",
+      "fecha_local": "2025-05-21",
+      "editado_utc": null,
+      "texto": "**Ves a Errk cerca del lago andando entre los juncos y el resto de plantas mientras canturrea algo el celestial**",
+      "mensaje_sha256": "617f048847808f649da747952d969bbb56dc0704dceb62a3fce65bdeb0b8d082",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1374741767739670538",
+      "texto_sha256": "fc2e6e56e23a8632359b17e53c69b7b075fe7dcc4394251d6d9070c0b54515f9",
+      "adjuntos": []
+    },
+    {
+      "id": "1374741783031844934",
+      "fecha_utc": "2025-05-21T13:33:02.542000+00:00",
+      "fecha_local": "2025-05-21",
+      "editado_utc": null,
+      "texto": "<@616683133374562304>",
+      "mensaje_sha256": "3b08f56084ac1b4c1d2eb9b8626b04fc895c9e697c123f03fb906c2bf7743ab9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1374741783031844934",
+      "texto_sha256": "3308bf4e0062fe070e1d9fb755e340dcc6c9d991669c162aed939e118811dd7c",
+      "adjuntos": []
+    },
+    {
+      "id": "1374756319273287730",
+      "fecha_utc": "2025-05-21T14:30:48.252000+00:00",
+      "fecha_local": "2025-05-21",
+      "editado_utc": "2025-05-21T14:41:41.418000+00:00",
+      "texto": "Banzo : **Se acerca dando palmas al ritmo de la canción**\nEhhh Errk !! Cuanto tiempo como estas? <@690840259956572190>",
+      "mensaje_sha256": "c3f5e8bf696b5c3b84db7ea309844dd2371670d9771d67d8b5e456d177256339",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1374756319273287730",
+      "texto_sha256": "5dba586aab839a2ae36d2453a5486caf722449da9de7804f9dded46a7f39f43b",
+      "adjuntos": []
+    },
+    {
+      "id": "1374772589926551644",
+      "fecha_utc": "2025-05-21T15:35:27.478000+00:00",
+      "fecha_local": "2025-05-21",
+      "editado_utc": "2025-05-21T15:36:19.735000+00:00",
+      "texto": "Errk:\n**Ves que alza la mirada entre los juncos**\nEyy Panzooo! <@616683133374562304>  Como estás?? Estoy buscando algunos bichos, que hasta que no tenga mi granja tengo que ir buscando, pero no se como hacerla...\n**Sale de los juncos y te muestra un pequeño saquete que produce diferentes sonidos**\nLuego le diré a Ushi que me los cocine, a ver si me hace el favor... Y tú que haces por aquí?",
+      "mensaje_sha256": "4c68d7d94380ad77a8446592f4c3012acf8d340b85a29ca657b2c0d04a0dbec5",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1374772589926551644",
+      "texto_sha256": "fb43b9a218716ef6f0227cb695df7d0f98eabf8c0fdaeb3533a2ba2781f48c52",
+      "adjuntos": []
+    },
+    {
+      "id": "1374775897105629255",
+      "fecha_utc": "2025-05-21T15:48:35.971000+00:00",
+      "fecha_local": "2025-05-21",
+      "editado_utc": "2025-05-21T15:49:31.679000+00:00",
+      "texto": "Panzo: **asoma la cabeza al saco de bichos ** \nOooo ten cuidado no te cruces como arwen o se come la bolsa entera en un periquete **rie**\nEstaba dándome un baño antes de empezar el turno . Estoy hechando un ojo a Rúa en su seguridad\n\nSi vas hacia la ciudad te puedo acompañar,  el sitio de Ushi no está muy lejos de palacio",
+      "mensaje_sha256": "dae5273f9bca3a5f3fd0cecbdb674bb06c1e6373df069758680d743e1c80e1af",
+      "tipo_discord": 19,
+      "referencia": "1374772589926551644",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1374775897105629255",
+      "texto_sha256": "bc2d8acff4d15f605fa9dbe85e43c90c327aa06d4100e28f80237c35f649bb8d",
+      "adjuntos": []
+    },
+    {
+      "id": "1374777259310714951",
+      "fecha_utc": "2025-05-21T15:54:00.746000+00:00",
+      "fecha_local": "2025-05-21",
+      "editado_utc": null,
+      "texto": "Errk: \nAun tienen que limpiarse por dentro para cocinarlos, hay que esperar un día. Y si a Arwen le gusta... Haré la granja más grande para que también tenga la niña.\n**Gira la cabeza y te mira**\nVas a ir así a ver a Rúa? Deberías comprarte pantalones",
+      "mensaje_sha256": "4f2d6f74efe9c640469353d5502c6901c0d94c1ac626475788d7f8f7de7e514d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1374777259310714951",
+      "texto_sha256": "5a7a5dd9873f37d7ed9480db8e3e5fb4dcde222a394c844c1616158b64969d16",
+      "adjuntos": []
+    },
+    {
+      "id": "1374778083844030654",
+      "fecha_utc": "2025-05-21T15:57:17.330000+00:00",
+      "fecha_local": "2025-05-21",
+      "editado_utc": null,
+      "texto": "Banzo : **rie a carcajadas ** \nYa sabes que no soy de pantalones amiga. Es el antiguo uniforme de un amigo , no me caben todas las partes de la armadurs , la de la barriga no entra ... pero bueno da el pego.  Ami me gusta y a Rúa creo que también",
+      "mensaje_sha256": "e3332b4320a9d44d08df1ffcf8148d279b2b8fac4e2d0cbb7ae590c398262e57",
+      "tipo_discord": 19,
+      "referencia": "1374777259310714951",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1374778083844030654",
+      "texto_sha256": "a99cd43c93a76cee2eb2ff0388a34af5116fb813ce415c637547d85e980383c5",
+      "adjuntos": []
+    },
+    {
+      "id": "1374778429571858442",
+      "fecha_utc": "2025-05-21T15:58:39.758000+00:00",
+      "fecha_local": "2025-05-21",
+      "editado_utc": null,
+      "texto": "Errk:\n**Te mira un poco desafiante**\nNo estarás intentando ligar con Rúa ahora que el Shogun ha fallecido no?\n**Se te acerca mas y te mira entrecerrando los ojos**",
+      "mensaje_sha256": "ee2d601523645a440d66d1efc457b5b7e7370b5a23e19c11c0eed452a344182e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1374778429571858442",
+      "texto_sha256": "bf84ee6225c913dfa8ffcfe2b77dde1f135a53b83db57e370a543811209e55f0",
+      "adjuntos": []
+    },
+    {
+      "id": "1374779607500198018",
+      "fecha_utc": "2025-05-21T16:03:20.598000+00:00",
+      "fecha_local": "2025-05-21",
+      "editado_utc": null,
+      "texto": "Bueno Panzo, me tengo que ir, pasalo bien y cuida mucho de Rúa. Saludale de mi parte.\n🦉 Errk sale de escena🦉",
+      "mensaje_sha256": "9adad08b28e0b3b940ba89dc25aeedfb42319d562a78db5ed5f2855dcab6bb4f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1374779607500198018",
+      "texto_sha256": "c8a2e84218702260607870f1aaf7666d5f2a64cee3d7fb44f7d38e96a8ad3db8",
+      "adjuntos": []
+    },
+    {
+      "id": "1374782800720302175",
+      "fecha_utc": "2025-05-21T16:16:01.921000+00:00",
+      "fecha_local": "2025-05-21",
+      "editado_utc": "2025-05-21T16:18:42.336000+00:00",
+      "texto": "Panzo : CUIDATE ERRK!!! *Este maldito pájaro, lo hechaba de menos*\n\n**coge camino a palacio**\n*habrá dicho enserio lo de los pantalones ...*",
+      "mensaje_sha256": "14057e39da14a26ebf62e4a74f2ca8d42e9b6a9b305cb37041de104234a7a052",
+      "tipo_discord": 19,
+      "referencia": "1374779607500198018",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1374782800720302175",
+      "texto_sha256": "97ba3c9a05415a2e9f47bb4018d78c2f7d7771179cb027a7ed44ca5ba30f7faf",
+      "adjuntos": []
+    }
+  ]
+}

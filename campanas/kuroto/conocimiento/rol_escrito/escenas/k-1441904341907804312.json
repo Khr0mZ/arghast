@@ -1,0 +1,351 @@
+{
+  "id": "k-1441904341907804312",
+  "campana": "kuroto",
+  "unidad_revision": "k-1441872941250773073",
+  "hilo_id": "1387915737502580886",
+  "hilo_nombre": "Sho, Palacio del Shogunato - Capital de Kuroto",
+  "titulo": "La misión de convocar al consejo",
+  "resumen": "Guxi convierte el deseo de ayudar de Chani en un encargo concreto.",
+  "relato": "Arwen localiza a Guxi por el olor y Chani corre escaleras arriba llamándolo. Lo encuentra dormido entre libros y papeles, vencido por el trabajo. Un cacareo no lo despierta del todo: la abraza pensando en su pareja y solo después reconoce a Chani y la suelta. La niña dice que quiere ayudar porque antes no pudo. Guxi explica que casi ha terminado los preparativos, pero falta reunir a la gente. Escribe una lista de cónsules, nobles y Cazadores necesarios para el consejo de guerra y se la entrega. Le pide buscarlos con ayuda de Banzo o Kurobane y decirles que acudan al palacio. Chani guarda la nota, se emociona al oír que el futuro de Kuroto depende de ella y promete intentarlo. Guxi añade un favor personal: que abrace a Kuro, al que ve triste. Ella acepta, saluda como soldado y sale a cumplir la misión, tras tropezar por las escaleras. Guxi vuelve al trabajo; la convocatoria aún no se ha completado.",
+  "participantes": [
+    "Arwen",
+    "Chanecuxtli",
+    "Guxi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1441906397758492756",
+      "afirmacion": "Guxi se ha dormido entre los documentos tras avanzar el trabajo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1441909839642099832",
+      "afirmacion": "Escribe y entrega la lista de personas que deben formar el consejo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1441910864222486629",
+      "afirmacion": "Pide que los convocados vengan al palacio.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1441911510778642523",
+      "afirmacion": "Añade el encargo de abrazar a Kuro.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1441913299561087029",
+      "afirmacion": "Chani sale a buscar a las personas de la lista.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Tres desarrollos sucesivos con relatos y fuentes propios.",
+    "La mención inicial de Kuro es una duda OOC de Banzo y no confirma que esté presente.",
+    "La figura de la meditación es la focalización del dolor de Banzo; no hay presencia o ki de Kalista, según 1442257139690377309. Las palabras posteriores de Wukong sobre un poco de ella son consuelo e interpretación, no una resurrección ni un espíritu confirmado.",
+    "Las vidas y conversaciones de los recuerdos no se reconstruyen con detalles no transcritos.",
+    "Los gritos de Chani por no respirar son incidentes cómicos de abrazos y zarandeo; se recupera y no muere.",
+    "La salida de Wukong cierra su meditación; el FIN aislado posterior de k-1442784569269948489 puede enlazarse sin inventar otro episodio."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2025-11-22T21:33:04.398000+00:00",
+  "fin_utc": "2025-11-22T22:12:28.350000+00:00",
+  "fecha_local": "2025-11-22",
+  "intervalo": {
+    "anterior": 168,
+    "siguiente": 169,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1442596662206922943",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 168,
+        "fecha": "2025-11-20",
+        "inicio_referencia_utc": "2025-11-20T19:03:40+00:00",
+        "fin_estimado_utc": "2025-11-20T22:00:36+00:00",
+        "duracion_video_segundos": 10616,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816"
+      },
+      {
+        "capitulo": 169,
+        "fecha": "2025-11-24",
+        "inicio_referencia_utc": "2025-11-24T19:23:51+00:00",
+        "fin_estimado_utc": "2025-11-24T22:32:50+00:00",
+        "duracion_video_segundos": 11339,
+        "tipo_referencia": "aviso_de_contraste",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1442596662206922943"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida. Una hora tomada de un aviso con título discrepante se utiliza solo como referencia aproximada de ese día."
+  },
+  "fuentes": [
+    {
+      "id": "1441904341907804312",
+      "fecha_utc": "2025-11-22T21:33:04.398000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": null,
+      "texto": "Arwen: **Olfatea el aire y dice** Uhn Uhn Parece que esta arriba... Huele a quemado, colonia y lagrimas <@220602485977382912> <@408026114548695061>",
+      "mensaje_sha256": "8bf305eb0041997029aae3a203c1156402402aa3f7ac66f6bf5caf5e0d8c1647",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441904341907804312",
+      "texto_sha256": "30586a62f778941ea01b7946d8ac2cd1d17eb8e54a1408df601dadd684b70bbb",
+      "adjuntos": []
+    },
+    {
+      "id": "1441905758080991316",
+      "fecha_utc": "2025-11-22T21:38:42.040000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": "2025-11-22T21:40:16.706000+00:00",
+      "texto": "Chanecuxtli:\nVOY PÍO!! VOY PÍO!!\n\n**Pegué la carrera para llegar lo más rápido posible hacia donde había dicho Arwen, subí con rapidez las escaleras aleteando para subir los escalones de en dos**\n\nGUXI PÍO!! GUXI PIO!! DÓNDE ESTAS GUXI PIO?!\n\n**Con estos pulmonsitos (que tienen bastante fuerza), empecé a gritar por todo el pasillo de la parte de arriba**\n\n<@171702246952665098>",
+      "mensaje_sha256": "5cc03b259b4ae878135f53dfe6b25ad5abd211fa514695700fb61e745c1377f0",
+      "tipo_discord": 19,
+      "referencia": "1441904341907804312",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441905758080991316",
+      "texto_sha256": "34e7fefc1fbf99e7a5fddaefeefda11c961eed099e114058b4635250da20dcdd",
+      "adjuntos": []
+    },
+    {
+      "id": "1441906397758492756",
+      "fecha_utc": "2025-11-22T21:41:14.551000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": "2025-11-22T21:41:27.307000+00:00",
+      "texto": "guxi:\n**cuando subes ves la puerta del despacho de kalista medio abierto dentro esta guxi que lleva mucho tiempo trabajando al punto que se ha quedado durmiendo pegado a una estanteria medio caida arropado por papeles y libros parece que ha terminado la mayor parte del trabajo y no pudo mas**\nCariño cinco minutos mas\n<@753394009153732689>",
+      "mensaje_sha256": "0df8c6f789c7eeda8911c5c11b7ecc1b058269568cd8e8ea5cb57cb42ce1f95d",
+      "tipo_discord": 19,
+      "referencia": "1441905758080991316",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441906397758492756",
+      "texto_sha256": "9802c975d65618a4a3527e9be67eb1513dfbea4a741e27144f77d20310b4ab11",
+      "adjuntos": []
+    },
+    {
+      "id": "1441906932935037140",
+      "fecha_utc": "2025-11-22T21:43:22.147000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n**Escuché los ruidos y murmullos de quien estaba dormido, me acerqué a dónde estaba y con mucho cuidado me puse a lado de el, inhale y solté el cacareo más fuerte que no había dado en mi vida**\n\nCOCOROCOCOOOOOOOOOOOOOOOOOOOO!!!",
+      "mensaje_sha256": "1d844b1ae9249c391677825074204deab0688dd745c20a1645e610ff4eda84e5",
+      "tipo_discord": 19,
+      "referencia": "1441906397758492756",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441906932935037140",
+      "texto_sha256": "e6445534e098a98dcc27803905ea4707d91cc9378640df554cd1a4f9297d0884",
+      "adjuntos": []
+    },
+    {
+      "id": "1441907270991740988",
+      "fecha_utc": "2025-11-22T21:44:42.746000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": null,
+      "texto": "guxi:\ncariño no hace que grites ven aqui\n**coge a chani y la abraza**",
+      "mensaje_sha256": "7acb569b37760e24fb2e3ff97c26596e3722914f12ca6fcf85975a9ec11ad6b4",
+      "tipo_discord": 19,
+      "referencia": "1441906932935037140",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441907270991740988",
+      "texto_sha256": "d4418bfbef549af7a7b37a7906c139671d53ea84ac3ab66881ae0d849032b05a",
+      "adjuntos": []
+    },
+    {
+      "id": "1441907613515120750",
+      "fecha_utc": "2025-11-22T21:46:04.410000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n**Sentí el abrazo asfixiante**\n\nNO PÍO!! QUIERO RESPIRAR PÍO!!, NO ME QUIERO MORIR PÍO!! \n\n**Empecé a aletear con bastante fuerza**",
+      "mensaje_sha256": "f33f801704eb94cca085ba8bb9f27af7db6b695892811c87de6b63c796b4942c",
+      "tipo_discord": 19,
+      "referencia": "1441907270991740988",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441907613515120750",
+      "texto_sha256": "a8bffd960001dd7e552071cd285928d26d76630c3858451c0a1659b766fd5e51",
+      "adjuntos": []
+    },
+    {
+      "id": "1441908046514229360",
+      "fecha_utc": "2025-11-22T21:47:47.645000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": null,
+      "texto": "guxi:\nhoy estas muy ruidosa cariño\n**abre los ojos un poco**\n¿chani? que haces aqui?\n**la suelta con cuidado**",
+      "mensaje_sha256": "42bfdd1e8634a6947b038a35670ee132464115aec8ff42e57138d42eb0bee8f2",
+      "tipo_discord": 19,
+      "referencia": "1441907613515120750",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441908046514229360",
+      "texto_sha256": "f23ca7bc3e6ed302922ce9103255b92928cb71e629343620def76a7963cf235e",
+      "adjuntos": []
+    },
+    {
+      "id": "1441908617837023404",
+      "fecha_utc": "2025-11-22T21:50:03.859000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": "2025-11-22T21:50:15.901000+00:00",
+      "texto": "Chanecuxtli:\n**En el momento que me soltó, sacudí mis alitas**\n\nEl mono chistoso me dijo que viniera a ayudar, pío, yo quiero ayudar, pío, porque no pude ayudar... Pío... No.. no pude ayudarlos... Pío...\n\n**Mis alitas poco a poco iban bajando**",
+      "mensaje_sha256": "60a9b585af71d885cd247832677d82fa5329f0651b65f13e6777b92b1e8d7583",
+      "tipo_discord": 19,
+      "referencia": "1441908046514229360",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441908617837023404",
+      "texto_sha256": "25df4af9f2d69122d92f6e1d0dca8cb61224b796d729d9d4039adb5e2fb36cd6",
+      "adjuntos": []
+    },
+    {
+      "id": "1441908919243899074",
+      "fecha_utc": "2025-11-22T21:51:15.720000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": null,
+      "texto": "guxi:\naqui esta casi todo terminado pero falta reunir a la gente \n**se le ocurre una idea**\nSi te doy una mision podrias hacerla?",
+      "mensaje_sha256": "483cf6c10cb3d6afb3f6ef0eebbae6a6ae4eb3d51844c1ce3aa7515889cc60ca",
+      "tipo_discord": 19,
+      "referencia": "1441908617837023404",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441908919243899074",
+      "texto_sha256": "6be09db655ab1dba2871b975c7ba7d91ac2498f8c7467e0abc8ef71be67032f9",
+      "adjuntos": []
+    },
+    {
+      "id": "1441909353266544883",
+      "fecha_utc": "2025-11-22T21:52:59.199000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n**Me puse en posición de firmes en cuanto escuché que me iban a dar una misión**\n\nSI PÍO!!, YO LO PUEDO HACER, PÍO!!",
+      "mensaje_sha256": "01a973c786afdaf5c89206d9b56cbbca7a77a71e313e7cb4d85223419f9b049d",
+      "tipo_discord": 19,
+      "referencia": "1441908919243899074",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441909353266544883",
+      "texto_sha256": "ab17735ecadba3f377bdd05eaad9e840015aade85f04cf10b5735f223f3bfc17",
+      "adjuntos": []
+    },
+    {
+      "id": "1441909839642099832",
+      "fecha_utc": "2025-11-22T21:54:55.160000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": null,
+      "texto": "guxi:\n**empieza a escribir en una lista los consules y nobles cazadores necesarios para hacer aquel consejo de guerra**\nToma tienes que buscar estas personas si buscas a Banzo y A kurobane seguro que te ayudan \n**le da la nota para despues acariciar su cabecita**\nEl futuro de kuroto depende de ti",
+      "mensaje_sha256": "8ea6e756ae7ec4bccdb596b7116284957700e1f61616f6fae1756b457a0dc813",
+      "tipo_discord": 19,
+      "referencia": "1441909353266544883",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441909839642099832",
+      "texto_sha256": "aacc8156313653f560028d7a3d210744a4927ec683c3665fde92d7c051bd4e9e",
+      "adjuntos": []
+    },
+    {
+      "id": "1441910485866778821",
+      "fecha_utc": "2025-11-22T21:57:29.232000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\nBanzo Pío está abajo con el mono chistoso, pío \n\n**Tomé la nota en mis alitas y la guardé entre mis hojas**\n\nA Tezca pío no lo he visto, pío, pero ya veré como encontrarlo, pío \n\n**Mis ojitos se llenaban de lágrimas por esas últimas palabras**\n\nYo.. yo ayudaré a salvar a.. a Kuroto, pío, ya lo verás, pío",
+      "mensaje_sha256": "c07d462dc7a1a59fa34714d9617005ba448e944999321417a10f6c2316726ae7",
+      "tipo_discord": 19,
+      "referencia": "1441909839642099832",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441910485866778821",
+      "texto_sha256": "6bafa2d1e53921c1ee66498a1ad2accbccb40e2d37c82cf170d56faaeda1fa1f",
+      "adjuntos": []
+    },
+    {
+      "id": "1441910864222486629",
+      "fecha_utc": "2025-11-22T21:58:59.439000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": null,
+      "texto": "Guxi:\nconfio en ti chani yo seguire trabajando cuando las veas diles que vengan a palacio \n**le dedica una sonrisa amable a chani**\nY si puedes hacerme otro favor te lo agradecere aun mas",
+      "mensaje_sha256": "4cfcaabb27cc22471dcccd8a8901f5210df6066a393bf986bc0fec0ae72177b4",
+      "tipo_discord": 19,
+      "referencia": "1441910485866778821",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441910864222486629",
+      "texto_sha256": "cd60179ed4a15b8830933bad89001b43f82499629a05fbc7a460fe9a2f04848b",
+      "adjuntos": []
+    },
+    {
+      "id": "1441911114286764226",
+      "fecha_utc": "2025-11-22T21:59:59.059000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\nSi Pío, yo.. yo puedo, pío \n\n**Me limpié las lágrimas con mi alita**\n\nQue más?, pío",
+      "mensaje_sha256": "8242a4792a6a3386a15d5614ef62f64b97248c5dd1f66817b73fd80812af2be1",
+      "tipo_discord": 19,
+      "referencia": "1441910864222486629",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441911114286764226",
+      "texto_sha256": "0bb92a8424c79a036b17e5f2870cd37c0a11ff6dc4710c183eeebfaf8157d485",
+      "adjuntos": []
+    },
+    {
+      "id": "1441911510778642523",
+      "fecha_utc": "2025-11-22T22:01:33.590000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": null,
+      "texto": "guxi:\nSI ves a kuro dale un abrazo de mi parte parece estar muy triste si lo haces te lo agradecere mucho\n**la acaricia otra vez**\nEres una niña muy fuerte y muy valiente",
+      "mensaje_sha256": "da41e6495e5a40ba342188c67961611cb8888147ed5ad917403be92b32c4444a",
+      "tipo_discord": 19,
+      "referencia": "1441911114286764226",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441911510778642523",
+      "texto_sha256": "84763ddee3ad01465f9da15009b27ce05b642bc683586d206e9e425959552e3c",
+      "adjuntos": []
+    },
+    {
+      "id": "1441912207674970275",
+      "fecha_utc": "2025-11-22T22:04:19.743000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": null,
+      "texto": "Chanecuxtli: \nSi, pío, yo le daré un muy fuerte abrazo, pío!!\n\n**Le sonreí para volver a bajar, no sin antes volver a hacer el saludo militar y bajar por las escaleras**\n\nAYUDAR! PÍO!! A AYUDAR!! PÍO!! \n\n**Y antes de dar un paso por las escaleras, termino rodando hacia abajo dando vueltas y tropezones**\n\nPÍOOOOOOOOOO!!",
+      "mensaje_sha256": "b07727ca12885bd74cc9e24f2c4b8fde3344c6ca85d5c99b0d5b1cbf970990d2",
+      "tipo_discord": 19,
+      "referencia": "1441911510778642523",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441912207674970275",
+      "texto_sha256": "a6ef5c880bd59068d35438ca718217ca4ba1a3cfb36a77310b68b81d18fe794a",
+      "adjuntos": []
+    },
+    {
+      "id": "1441912618704044074",
+      "fecha_utc": "2025-11-22T22:05:57.740000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": null,
+      "texto": "guxi:\n**le sonrie y le devuelve el saludo**\nSoldado chani retirese! y que el viento le guie \n**despues de despedirse ve todo el destrozo**\n*bueno ya dormi media hora a seguir trabajando*",
+      "mensaje_sha256": "dbf7587a2fb8fef6db8d9ba761c1d6c2e85ca4e84194a0bd6ee588af97ec2b68",
+      "tipo_discord": 19,
+      "referencia": "1441912207674970275",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441912618704044074",
+      "texto_sha256": "33c509a56c78f16e1e1dcee06388f654d412a3f9e511c1c7d28f26ac82065fc8",
+      "adjuntos": []
+    },
+    {
+      "id": "1441913299561087029",
+      "fecha_utc": "2025-11-22T22:08:40.069000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n**Al llegar hasta el final de las escaleras, me sacudí las alitas, me acomodé mi sombrerito y salí con paso firme a buscar a las personas que Guxi me había encomendado**\n\nVamos a ayudar, pío!, vamos a ayudar, pío!",
+      "mensaje_sha256": "b27054dae75a2363997e4b188d3382fb09458f4d3307ac67de62e3715ad3f976",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441913299561087029",
+      "texto_sha256": "2ceaae38c3f4b7b1f66b5eef3c64ef3d286f1a2d403c7c9298d3d8001b8a4b6b",
+      "adjuntos": []
+    },
+    {
+      "id": "1441913415785382033",
+      "fecha_utc": "2025-11-22T22:09:07.779000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": null,
+      "texto": "🔩 guxi sigue trabajando hasta nuevo aviso🔩",
+      "mensaje_sha256": "058a2f1935513f72bfe47c0f0bf957e0579b1a5ab689435ef50939fce3b7e58a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441913415785382033",
+      "texto_sha256": "cd189b52f39652025ef77954b2bdf4db72c6dce8154ecaf0c854b017103dbc1e",
+      "adjuntos": []
+    },
+    {
+      "id": "1441914257040998560",
+      "fecha_utc": "2025-11-22T22:12:28.350000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": null,
+      "texto": "🐤 Chani sale de escena 🌱",
+      "mensaje_sha256": "9c5e95315d58e50e77d853ff6e910af13467633dd3cc66ed9c4c05a68e3f88a5",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441914257040998560",
+      "texto_sha256": "2a5d4c305ee7f2ef26fefe9519028082228ebdee219166ad398f8bf5be0a96ec",
+      "adjuntos": []
+    }
+  ]
+}

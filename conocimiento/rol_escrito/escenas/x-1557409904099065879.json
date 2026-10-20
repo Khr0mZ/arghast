@@ -1,0 +1,79 @@
+{
+  "id": "x-1557409904099065879",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1557409904099065879",
+  "hilo_id": "1524091803647741996",
+  "hilo_nombre": "Jungla - En alguna parte de Xoltacán",
+  "titulo": "El recuerdo de Leo detiene la furia de Naór",
+  "resumen": "Una pantera con su cría la impulsa a volver a Iktan.",
+  "relato": "La viñeta declara situarse semanas atrás. Naór sigue el pasadizo fuera de Aztlán y busca sin revelar sus hallazgos. El cansancio, las heridas y las imágenes de la masacre la han llenado de rabia. Al acechar otra presa, descubre una pantera alimentando a su cría. Piensa en Leo, rompe a llorar y corre de regreso a Iktan. La llegada y el reencuentro no se muestran aquí.",
+  "participantes": [
+    "Naór"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1557409904099065879",
+      "afirmacion": "Naór recuerda a Leo y vuelve hacia la ciudad.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Ambas ilustraciones del lugar inspeccionadas; son ambiente y disposición espacial.",
+    "La primera viñeta declara retrospectiva; conservar su fecha documental y esa indicación sin mover las unidades.",
+    "Las escamas y vendas no identifican por sí solas al causante de la muerte."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-10-07T15:10:56.414000+00:00",
+  "fin_utc": "2026-10-07T15:10:56.414000+00:00",
+  "fecha_local": "2026-10-07",
+  "intervalo": {
+    "anterior": 66,
+    "siguiente": 69,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 66,
+        "fecha": "2026-09-22",
+        "inicio_referencia_utc": "2026-09-22T18:20:03+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241"
+      },
+      {
+        "capitulo": 69,
+        "fecha": "2026-10-08",
+        "inicio_referencia_utc": "2026-10-08T18:17:02+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1557409904099065879",
+      "fecha_utc": "2026-10-07T15:10:56.414000+00:00",
+      "fecha_local": "2026-10-07",
+      "editado_utc": "2026-10-07T20:09:36.818000+00:00",
+      "texto": "**Unas semanas atrás **\n\nNaór: \n**La leona siguió aquel túnel que se extendía más allá de las fronteras de Aztlán, adentrándose en un territorio que ya no reconocía como suyo. Buscaba cualquier cosa: una pista, un rastro, una señal que le indicara que alguno de los suyos había sobrevivido.\n\nSi encontró algo allí, nadie lo sabe.\n\nSolo podemos verla continuar.\n\nSemanas de búsqueda sin descnaso habían  dejado su cuerpo magullado. Tenía los nudillos ensangrentados, los codos y las rodillas llenos de golpes y heridas. Tras ella quedaba un rastro de piedras partidas, palmeras derribadas y manchas de sangre de alguna que otra pobre criatura con escamas \n\nNaór estaba fuera de sí.\n\nCada vez que cerraba los ojos regresaban las imágenes de Aztlán. Su hogar. Su familia. Su raza.. Todo aquello que había perdido.\n\nY con cada recuerdo, algo más primitivo despertaba dentro de ella.\n\nEl instinto de matar.\n\nUno de aquellos arranques de furia la llevó a seguir un rastro entre la maleza. Se agachó, avanzando en silencio, acechando a su presa. Su respiración se hizo lenta. Sus músculos se tensaron. Preparó su cuerpo y su arma para lanzarse sobre ella.\n\nEntonces ocurrió algo que la detuvo en seco.\n\nUn pequeño maullido.\n\nNaór permaneció inmóvil.\n\nEntre la vegetación pudo distinguir a una pantera.\n\nY junto a ella, su cría.\n\nLa madre estaba alimentándola con un trozo de carne fresca, arrancando pequeños pedazos para dárselos.\n\nNaór no se movió.\n\nPor primera vez en semanas, algo distinto a la rabia apareció en su rostro. Algo vivo.\n\nUna lágrima.\n\nDespués otra.\n\nY, por un instante, todo aquel odio desapareció.\n\nSolo quedó un pensamiento.**\n\nMi Leo...\n\n**Las lágrimas ya no pudieron detenerse.\n\nNaór se dio la vuelta y echó a correr.\n\nCorrió como nunca antes.\n\nAtravesó la selva, ignorando el dolor de sus heridas, tropezando, levantándose y continuando sin detenerse.\n \nEl regreso a Iktan era inminente . **",
+      "mensaje_sha256": "241e135c8c42014d9612346230c1d7212504f3463c107cefa62a44f88f3d95d8",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1557409904099065879",
+      "texto_sha256": "af6a36817cb8a73b8252fe3971bf0521870aca57bf8375fcb10f5993be51c8e4",
+      "adjuntos": []
+    }
+  ]
+}

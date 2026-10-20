@@ -1,0 +1,376 @@
+{
+  "id": "k-1425253309895278623",
+  "campana": "kuroto",
+  "unidad_revision": "k-1425253309895278623",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Juramentos a bordo del Rompeolas",
+  "resumen": "Seraphina despide a los marineros muertos y renueva con Guxi su compromiso mediante anillos.",
+  "relato": "Después de una batalla no narrada aquí, Guxi espera en el puerto la llegada del Rompeolas y sube a buscar a Seraphina. Ella recorre con emoción el barco donde creció, evocando al capitán Dimer. Abraza a Guxi, pero enseguida se derrumba por los marineros de La Flor de Loto que no pudo salvar y teme tener que explicárselo a sus familias. Él la acompaña hasta la borda, donde ella pronuncia los nombres de los muertos, incluido Spock, y promete honrar su valentía. Después Seraphina toma a Guxi de las manos y formula un juramento de vida compartida. Se arrodilla, muestra los anillos que él le dio y le pide navegar juntos hasta el final. Guxi acepta emocionado; ella le coloca un anillo y le entrega el suyo. Él también se arrodilla y promete afrontar con ella sus proyectos y los temores del pasado. Seraphina acepta, lo besa y Guxi vuelve a ponerle el anillo. Terminan juntos, con el compromiso mutuamente expresado y el duelo por la tripulación todavía presente.",
+  "participantes": [
+    "Seraphina",
+    "Guxi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1425256318549364827",
+      "afirmacion": "Seraphina presenta el Rompeolas como el barco donde creció.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1425261374224859189",
+      "afirmacion": "Seraphina despide a los marineros muertos, incluido Spock.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1425264241111466004",
+      "afirmacion": "Seraphina propone un juramento compartido y muestra los anillos.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1425265357337395291",
+      "afirmacion": "Guxi acepta su propuesta.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1425267879154286624",
+      "afirmacion": "Seraphina coloca el anillo a Guxi y entrega el suyo para recibirlo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1425271690027466852",
+      "afirmacion": "Guxi coloca el anillo a Seraphina y la besa.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Imagen 1425271072961593476.png leída completa: pareja de harengon y hombre arrodillado, con manos enlazadas al atardecer. Ilustra el juramento sin añadir testigos o ceremonia oficial.",
+    "No se reconstruyen la batalla, recuperación del barco o destino de Sharky solo por este regreso.",
+    "El intercambio de votos y anillos queda mostrado; la escena no establece un registro legal o ceremonia ante autoridad.",
+    "La hora narrada de ocaso difiere de las horas de publicación."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-10-07T22:47:49.005000+00:00",
+  "fin_utc": "2025-10-08T00:01:56.230000+00:00",
+  "fecha_local": "2025-10-08",
+  "intervalo": {
+    "anterior": 161,
+    "siguiente": 162,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1425183138606219264",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1425912631637835917",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 161,
+        "fecha": "2025-10-07",
+        "inicio_referencia_utc": "2025-10-07T18:08:41+00:00",
+        "fin_estimado_utc": "2025-10-07T20:58:07+00:00",
+        "duracion_video_segundos": 10166,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1425183138606219264"
+      },
+      {
+        "capitulo": 162,
+        "fecha": "2025-10-09",
+        "inicio_referencia_utc": "2025-10-09T18:27:25+00:00",
+        "fin_estimado_utc": "2025-10-09T21:37:40+00:00",
+        "duracion_video_segundos": 11415,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1425912631637835917"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1425253309895278623",
+      "fecha_utc": "2025-10-07T22:47:49.005000+00:00",
+      "fecha_local": "2025-10-08",
+      "editado_utc": "2025-10-07T22:48:02.031000+00:00",
+      "texto": "guxi:\n**despues de esa batalla atraco el barco en el puerto habia llegado el primero esperando sentado en uno de los barriles del puerto miraba al rompe olas llegar con el corazon en un puño**\n<@408026114548695061>",
+      "mensaje_sha256": "c558e754b22c21616426e31bb558641e3dab8195fa92593a3601e9782bf00dda",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425253309895278623",
+      "texto_sha256": "2d42aeffa9bb2f4e81fec61ef6fe8f3163b073a371a90ebead74c5abf3927d21",
+      "adjuntos": []
+    },
+    {
+      "id": "1425254809086328947",
+      "fecha_utc": "2025-10-07T22:53:46.440000+00:00",
+      "fecha_local": "2025-10-08",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\n**Después de que todos bajaron del barco, me quedé otro rato ahí mismo, tocando la madera del timón para después ir al mástil y acariciarlo, sintiendo unas cuantas lágrimas recorrer mis mejillas**\n\nHe vuelto a casa, Capitan Dimer...",
+      "mensaje_sha256": "e9fc91f09522d4088516470f64068802c5fbfb9da53589eb9d22da23c870215f",
+      "tipo_discord": 19,
+      "referencia": "1425253309895278623",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425254809086328947",
+      "texto_sha256": "c4ce43de6c8e8a65662fb58800ff1b456ed87f0f6814cfdbe2521157b2621d19",
+      "adjuntos": []
+    },
+    {
+      "id": "1425255276164153499",
+      "fecha_utc": "2025-10-07T22:55:37.800000+00:00",
+      "fecha_local": "2025-10-08",
+      "editado_utc": null,
+      "texto": "guxi:\n**se acercaba lentamente a la pasarela para subir al barco pensando si debia dar ese paso o no**\nAhi voy\n**respiraba profundamente y empezaba a subir al barco**",
+      "mensaje_sha256": "03ef818495f2218a6c8d61f8c9bd3a9d036c3c924eca76169dab27db98ead9b0",
+      "tipo_discord": 19,
+      "referencia": "1425254809086328947",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425255276164153499",
+      "texto_sha256": "5f95431eaff04f5d6eed7c9a31c570523037d21c2f7bbce06b4fa1d8f4c0ffcd",
+      "adjuntos": []
+    },
+    {
+      "id": "1425256318549364827",
+      "fecha_utc": "2025-10-07T22:59:46.324000+00:00",
+      "fecha_local": "2025-10-08",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\n**Escuché la madera crujir a mis espaldas, así que voltee a ver de quien se trataba**\n\nCorazón, bienvenido a mi \"Madriguera\", aquí fue donde crecí, donde aprendí lo que sé, donde... Donde supe cual era mi destino, o al menos así lo decidió el antiguo Capitán, je..jeje",
+      "mensaje_sha256": "9b1ec70178cda5900c1818341afa09e7bca7d671485f334563c055a38d778ba8",
+      "tipo_discord": 19,
+      "referencia": "1425255276164153499",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425256318549364827",
+      "texto_sha256": "5de98711779ef4238b11f4153e4c3e6685c42460dba0a5d232fa3b7cf7076fd5",
+      "adjuntos": []
+    },
+    {
+      "id": "1425256806929928312",
+      "fecha_utc": "2025-10-07T23:01:42.763000+00:00",
+      "fecha_local": "2025-10-08",
+      "editado_utc": null,
+      "texto": "guxi:\n**la sonreia queria que se alegrara aunque sabia que esto iba a ser dificil para ella**\ncariño bienvenida a casa \n**se acercaba lentamente con la intencion de abrazarla**\nYa estas en casa",
+      "mensaje_sha256": "3767dc0e300a640a0013fe4404822de969a50c73a27472f3a03f91895512aab0",
+      "tipo_discord": 19,
+      "referencia": "1425256318549364827",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425256806929928312",
+      "texto_sha256": "a03312b1ff80773ddd5204e9a73b707a8d434885e2c84eb4c5cc436879ce8ca3",
+      "adjuntos": []
+    },
+    {
+      "id": "1425257459185881170",
+      "fecha_utc": "2025-10-07T23:04:18.273000+00:00",
+      "fecha_local": "2025-10-08",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\n**En cuanto escuché esas palabras, mis ojos se llenaron de lágrimas y sali corriendo hacia el, abrazándolo con fuerza y soltandome a llorar, estaba en un mar de lágrimas**",
+      "mensaje_sha256": "1de1088febddfadc4cab7b916e75153f1001f20a056b731d4e0e883d7d672911",
+      "tipo_discord": 19,
+      "referencia": "1425256806929928312",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425257459185881170",
+      "texto_sha256": "f90cdbdbdce938e31080a89aca9fcf879259bb32db637589b519d7dd77f29d38",
+      "adjuntos": []
+    },
+    {
+      "id": "1425257720352608277",
+      "fecha_utc": "2025-10-07T23:05:20.540000+00:00",
+      "fecha_local": "2025-10-08",
+      "editado_utc": null,
+      "texto": "guxi:\nYa estas en casa sera\n**le acariciaba la mejilla para que lo mire a los ojos**\nMejor estas en tu hogar donde perteneces",
+      "mensaje_sha256": "3efe3ea0f137f8647a8e8e60171e45fdb92e93ef2bed9a3c848e75497e363366",
+      "tipo_discord": 19,
+      "referencia": "1425257459185881170",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425257720352608277",
+      "texto_sha256": "e719e3d4ee228508109ce0cbd716a865c6e9596b86c0d1309b5ff741bbe68130",
+      "adjuntos": []
+    },
+    {
+      "id": "1425258365306802207",
+      "fecha_utc": "2025-10-07T23:07:54.309000+00:00",
+      "fecha_local": "2025-10-08",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\nTodos murieron Guxi, no pude ayudarlos, ellos eran muy jóvenes, qué le voy a decir a sus familias?, que les voy a decir a todos?... E..ellos ellos no merecían morir, ellos no lo merecían.. no.. no pude hacer nada...",
+      "mensaje_sha256": "7c0c31d160f488e28741452dc26f95c10b1d665a112c4dd7801c9002b7f77adb",
+      "tipo_discord": 19,
+      "referencia": "1425257720352608277",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425258365306802207",
+      "texto_sha256": "02db6b3ef36cbb388c325b33503030519c0c2b48882b043cc8f550ebce58c3d9",
+      "adjuntos": []
+    },
+    {
+      "id": "1425259251852644403",
+      "fecha_utc": "2025-10-07T23:11:25.678000+00:00",
+      "fecha_local": "2025-10-08",
+      "editado_utc": null,
+      "texto": "guxi:\nEs dificil sera lo se nunca lo sera pero no debes culparte hiciste lo mejor que pudiste no te culpes por esforzarte nunca \n¿me entiendes?\ntendremos dificultades y las superaremos juntos",
+      "mensaje_sha256": "eabf3406ef525be5da08ce7efe1eaff623a8302e195e27573149090583209ab7",
+      "tipo_discord": 19,
+      "referencia": "1425258365306802207",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425259251852644403",
+      "texto_sha256": "f2ba31c8ddffce9100d6de2ed4d4d2db2420cf990453752fa422477e6970643c",
+      "adjuntos": []
+    },
+    {
+      "id": "1425261374224859189",
+      "fecha_utc": "2025-10-07T23:19:51.691000+00:00",
+      "fecha_local": "2025-10-08",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\n**Me separé del abrazo de Guxi para después tomarlo de la mano y caminar hacia el otro extremo del barco, donde se estaba viendo el ocaso**\n\nQuiero que me acompañes a hacer esto..\n\n**Aún con lágrimas en los ojos, me acerqué al barandal y empecé a gritar el nombre de cada uno de los marineros y hasta el Capitan Spock**\n\nQue sus almas vayan hacia donde los Dioses se encuentran y encuentren paz en sus almas... Lamento mucho no cumplir mi promesa con ustedes, pero honraré sus vidas y su valentía... HASTA QUE NOS VOLVAMOS A VER, MARINEROS!!",
+      "mensaje_sha256": "4b7605dcd0d01e1e82f3853990d87b37096490144826dae29b68827add80ca8c",
+      "tipo_discord": 19,
+      "referencia": "1425259251852644403",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425261374224859189",
+      "texto_sha256": "cf6357117b191fc052c73c1652aa1dcf5640ef11a1d1b1cc4f605009611b433d",
+      "adjuntos": []
+    },
+    {
+      "id": "1425261921887588413",
+      "fecha_utc": "2025-10-07T23:22:02.264000+00:00",
+      "fecha_local": "2025-10-08",
+      "editado_utc": null,
+      "texto": "guxi:\n**la acompañaba sujetando su mano con fuerza**\nPuede que no nos hallamos conocido marineros pero gracias por cuidar de seraphina prometo pagaroslo en esta vida o en la otra",
+      "mensaje_sha256": "40018c748730ed8c60f0fb928e319ccc03631fbf70293e81fac8427e70888aad",
+      "tipo_discord": 19,
+      "referencia": "1425261374224859189",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425261921887588413",
+      "texto_sha256": "57c24204c6001358d0af3dfa4e64f3b802a96bd466312dcf18d37a46163cb8c5",
+      "adjuntos": []
+    },
+    {
+      "id": "1425262672613478561",
+      "fecha_utc": "2025-10-07T23:25:01.251000+00:00",
+      "fecha_local": "2025-10-08",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\nHasta pronto... Pequeños..\n\n**Apreté la mano de Guxi con algo de suavidad**\n\nGuxi, quiero hablar contigo...",
+      "mensaje_sha256": "74f670510764a141f473905e69ecfa82389de8d0783b243fb1b9b86f72a2a0bc",
+      "tipo_discord": 19,
+      "referencia": "1425261921887588413",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425262672613478561",
+      "texto_sha256": "ac487721b39c6bcde84b3a44f32afb8f3f58467e187e119096a21d0609290464",
+      "adjuntos": []
+    },
+    {
+      "id": "1425262855703498841",
+      "fecha_utc": "2025-10-07T23:25:44.903000+00:00",
+      "fecha_local": "2025-10-08",
+      "editado_utc": null,
+      "texto": "guxi:\ndime sera\n**tenia un nudo en la garganta no sabia que esperar**",
+      "mensaje_sha256": "8e0ba46fb83f76c09a6a2145bb5a591c6d414bd32ec20bc9412da7d702dd74bd",
+      "tipo_discord": 19,
+      "referencia": "1425262672613478561",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425262855703498841",
+      "texto_sha256": "0fd3ec5a812b6ee030258962f3e7393a8b76d921d1af5a4185928a4f6750fb0e",
+      "adjuntos": []
+    },
+    {
+      "id": "1425264241111466004",
+      "fecha_utc": "2025-10-07T23:31:15.210000+00:00",
+      "fecha_local": "2025-10-08",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\n**Me voltee a verlo, tomándolo de las manos**\n\nGuxi, he surcado mares embravecidos, desafiado tormentas y cañones, y aun así… nada me ha hecho temblar tanto como mirarte forjar tus sueños entre humo y chispas.\n\nTú, con tus manos manchadas de aceite y tu mente llena de engranajes imposibles, me enseñaste que no todas las riquezas se guardan en cofres, sino en corazones que laten al unísono.\n\nYo, Seraphina Longhop capitana de mi propio destino, ladrona de tesoros y almas, hoy rindo mi bandera ante ti. No por derrota, sino porque encontré en ti el único puerto donde quiero anclar mi vida.\n\nTe ofrezco mis días de viento y mis noches de calma, mis batallas y mis victorias, mis cicatrices y mis risas.\n\nSi tú lo aceptas, artífice de maravillas, hagamos de nuestras vidas una travesía compartida. Tú, con tus inventos que desafían la razón, y yo, con mi brújula que nunca apunta al norte, sino hacia ti.\n\n**Saqué los anillos que el me había dado**\n\nQue estos anillos sean nuestro pacto.\n\n**Me apoyé en una sola rodilla mientras lo miraba a los ojos**\n\nGuxi, ¿Juras navegar conmigo hasta que el último amanecer nos encuentre? Porque yo, por los nueve mares y mil tormentas más, juro que lo haré contigo.",
+      "mensaje_sha256": "82c8c07812c4e261c1d38f6198b7f5c7957b493724aadc89ec1e86282f17ce20",
+      "tipo_discord": 19,
+      "referencia": "1425262855703498841",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425264241111466004",
+      "texto_sha256": "540003369934d396f00acaf665b4d6b15c07aeaef54a02d6eedf3ac5cfe97bbd",
+      "adjuntos": []
+    },
+    {
+      "id": "1425265357337395291",
+      "fecha_utc": "2025-10-07T23:35:41.339000+00:00",
+      "fecha_local": "2025-10-08",
+      "editado_utc": null,
+      "texto": "guxi:\n**lloraba de felicidad al verla agacharse lagrimas caian sin parar de sus ojos**\nSI si si quiero Seraphina te acompañare hasta el fin de nuestros dias mi tempestad navegare contigo hasta que nuestros ojos se cierren \n**le ponia la mano para que le pusiera el anillo**\nRealmente eres una tempestad cambiaste mi mundo como solo la mas fiera tormenta puede hacer",
+      "mensaje_sha256": "4e6a12b80ce64c512f04c6dbe65a8da246c8e9e33d40a6bbd7547ad5ea8ed4c0",
+      "tipo_discord": 19,
+      "referencia": "1425264241111466004",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425265357337395291",
+      "texto_sha256": "ae3e33da9ea13761d99913ec1d1c6922d8b8b7342f1cd23558f4ca94f272126c",
+      "adjuntos": []
+    },
+    {
+      "id": "1425267879154286624",
+      "fecha_utc": "2025-10-07T23:45:42.587000+00:00",
+      "fecha_local": "2025-10-08",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\n**Puse el anillo en su dedo y después le daba mi anillo en sus manos para que el hiciera lo mismo**\n\nYa no romperé este juramento, lo estoy haciendo encima de mi barco, así que ni modo",
+      "mensaje_sha256": "0c279b68cf90ac058a195ee0f113a68996be0b275d4802111829996c72eb6304",
+      "tipo_discord": 19,
+      "referencia": "1425265357337395291",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425267879154286624",
+      "texto_sha256": "37b9677b0843dd643163725c8c559a70f412fd3e81d5970a336c0aa754cfa980",
+      "adjuntos": []
+    },
+    {
+      "id": "1425270049001836554",
+      "fecha_utc": "2025-10-07T23:54:19.919000+00:00",
+      "fecha_local": "2025-10-08",
+      "editado_utc": null,
+      "texto": "guxi:\n**se agacha en una pierna mirandola con amor en sus ojos**\nYo guxi dickinson he cerrado mi corazon muchas veces en mi vida mas veces de las que una persona debe hacer siempre pense que las personas solo estaban para herirte y los sentimientos un estorbo pero que equivocado estaba tu me enseñaste que cerrarse a los demas esta mal \n\nSeraphina longhop puede que el destino nos haya juntado a ambos y lo agradezco al destino por salvarme de mi mismo me enseñaste lo mas importante de mi vida el amor \n\nHare mil inventos nunca parare mi curiosidad y puede que alguna vez los fantasmas del pasado vuelvan a aterrorizarnos una vez mas pero lo soportare todo si tu estas conmigo \n\nEres la tuerca o el tornillo que necesito para estar completo para ser mejor y te lo demostrare si aceptas seguir este camino conmigo juntos se que podremos superar la tormenta mas fiera \n\n**toma un pequeño respiro antes de decir estas palabras**\n¿Seraphina longhop me haras el hombre mas feliz de todos?",
+      "mensaje_sha256": "a92d7997b24abca615e5f523e796f6ba2c5a14b224712bd8e4fad2021ef82d0e",
+      "tipo_discord": 19,
+      "referencia": "1425267879154286624",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425270049001836554",
+      "texto_sha256": "b5da0d2786a0642c4ecd6d391ff6410aeb8c8e30de83daec961d58c1f7f8cc83",
+      "adjuntos": []
+    },
+    {
+      "id": "1425271073435418756",
+      "fecha_utc": "2025-10-07T23:58:24.163000+00:00",
+      "fecha_local": "2025-10-08",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "e3db81848683959994837496440f3ce54b4675a7b99ce5802877053b30713fd3",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425271073435418756",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1425271072961593476",
+          "nombre": "e263cbd7-cbe4-488b-ba42-89cd5f9773c8.png",
+          "tipo": "image/png",
+          "archivo": "adjuntos/1425271072961593476.png",
+          "url": "rol_escrito/adjuntos/1425271072961593476.png",
+          "bytes": 3381057,
+          "sha256": "99e28b8650d37b0b0e07498148d53feb9952a1b942eb6938dd73aa643c145884"
+        }
+      ]
+    },
+    {
+      "id": "1425271239294845009",
+      "fecha_utc": "2025-10-07T23:59:03.707000+00:00",
+      "fecha_local": "2025-10-08",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\nN..no era necesario que también me dijeras un discurso, t..tonta máquina de amor \n\n**Me limpié las lágrimas después de haberlo escuchado**\n\nClaro que te haré el hombre más feliz de todo el mundo si es necesario \n\n**Le dí un beso en la frente y después en los labios**\n\nTe amo Guxi~",
+      "mensaje_sha256": "351b2cbb911e6aa9d2775b31970916f87c5e6c8bd988a01418a75acb44ea251f",
+      "tipo_discord": 19,
+      "referencia": "1425270049001836554",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425271239294845009",
+      "texto_sha256": "027582a1535197644ba64b2cc3241955d25f03082c2743d5eb836064320ebea0",
+      "adjuntos": []
+    },
+    {
+      "id": "1425271690027466852",
+      "fecha_utc": "2025-10-08T00:00:51.170000+00:00",
+      "fecha_local": "2025-10-08",
+      "editado_utc": null,
+      "texto": "guxi:\nTe amo seraphina mas que nada\n**le ponia el anillo suavemente en su dedo**\nSere tu maquina de amor para siempre\n**la besaba con pasion y ternura mientras el sol desaparecia en el horizonte**",
+      "mensaje_sha256": "c26684a784d62069dc3063cc562bc425f3dd8626b5bcbe2962bece2b44053bab",
+      "tipo_discord": 19,
+      "referencia": "1425271239294845009",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425271690027466852",
+      "texto_sha256": "fdb2250a4c6a932eeb7282dbb1b290b22fe5ffb4158aec3f864170623d7d02b5",
+      "adjuntos": []
+    },
+    {
+      "id": "1425271962909020281",
+      "fecha_utc": "2025-10-08T00:01:56.230000+00:00",
+      "fecha_local": "2025-10-08",
+      "editado_utc": null,
+      "texto": "🔴**FIN DE LA ESCENA**🔴",
+      "mensaje_sha256": "fd930f315ad6a3ca382ee3fa99f0d50cb9dc2c5702dae8b1cea7dec0ce2b0a84",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425271962909020281",
+      "texto_sha256": "9f97ef731d8de7882bc98417543cca5550da518a2b99b646de6773b28ae96b63",
+      "adjuntos": []
+    }
+  ]
+}

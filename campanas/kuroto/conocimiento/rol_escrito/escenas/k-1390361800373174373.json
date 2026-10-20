@@ -1,0 +1,78 @@
+{
+  "id": "k-1390361800373174373",
+  "campana": "kuroto",
+  "unidad_revision": "k-1390361800373174373",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Despedida ante el Tanuki Feliz",
+  "resumen": "Varias siluetas se separan después de brindar y abrazarse.",
+  "relato": "Unas figuras cubiertas de harapos salen del Tanuki Feliz. Realizan lo que parece un brindis y un abrazo conjunto antes de separarse y perderse por los callejones. El texto no revela nombres, destino ni motivo de la despedida.",
+  "participantes": [
+    "figuras sin identificar"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1390361800373174373",
+      "afirmacion": "Las siluetas salen, brindan, se abrazan y se dispersan.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Las figuras no se identifican como Ikaari o sus parientes solo por salir de su local.",
+    "No se obtiene la firma de Yasuoka ni se accede aquí a archivos de palacio."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-07-03T16:01:24.882000+00:00",
+  "fin_utc": "2025-07-03T16:01:24.882000+00:00",
+  "fecha_local": "2025-07-03",
+  "intervalo": {
+    "anterior": 134,
+    "siguiente": 135,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1390030497551487016",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1390391136719212627",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 134,
+        "fecha": "2025-07-02",
+        "inicio_referencia_utc": "2025-07-02T18:04:40+00:00",
+        "fin_estimado_utc": "2025-07-02T20:03:03+00:00",
+        "duracion_video_segundos": 7103,
+        "tipo_referencia": "aviso_de_contraste",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1390030497551487016"
+      },
+      {
+        "capitulo": 135,
+        "fecha": "2025-07-03",
+        "inicio_referencia_utc": "2025-07-03T17:57:37+00:00",
+        "fin_estimado_utc": "2025-07-03T22:24:15+00:00",
+        "duracion_video_segundos": 15998,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1390391136719212627"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida. Una hora tomada de un aviso con título discrepante se utiliza solo como referencia aproximada de ese día."
+  },
+  "fuentes": [
+    {
+      "id": "1390361800373174373",
+      "fecha_utc": "2025-07-03T16:01:24.882000+00:00",
+      "fecha_local": "2025-07-03",
+      "editado_utc": "2025-07-03T16:01:57.487000+00:00",
+      "texto": "**Inmediaciones del Tanuki Feliz**\n\n\n**Varias siluetas cubiertas de harapos salen por la puerta de la taberna y después de hacer lo que pareciera un extraño brindis y un abrazo conjunto, se separan y se pierden de vista entre los callejones de la ciudad**",
+      "mensaje_sha256": "d84f9c9b687e1e077f44e6d269df9a5da40999f527d7848cfd7ae5a96fd5d5e1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1390361800373174373",
+      "texto_sha256": "9461e7c2e3bf463c5ec7c12ce9cee9d6fd60515d4922cad1902f45a1c3815035",
+      "adjuntos": []
+    }
+  ]
+}

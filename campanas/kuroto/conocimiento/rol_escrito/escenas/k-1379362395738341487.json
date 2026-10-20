@@ -1,0 +1,293 @@
+{
+  "id": "k-1379362395738341487",
+  "campana": "kuroto",
+  "unidad_revision": "k-1379115541586772029",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Banzo se aparta de Rua por miedo a dañarla",
+  "resumen": "Una visión y la amenaza de la matrona llevan a Banzo a suspender su protección cercana.",
+  "relato": "Banzo corre a palacio para comprobar que Rua sigue bien y entra sin avisar en sus aposentos, asustando a las sirvientas. Ella se alegra de verlo y, al pedirle hablar a solas, despide a las mujeres. Banzo reconoce que está abrumado y teme que sus problemas la pongan en peligro. Entonces siente las hebras de Brythya arrastrar sus manos hasta desenvainar la Espada del Campeón. Horrorizado, cree apartarla y le pide alejarse, proponiendo que Gur y Wukong ayuden a protegerla. La narración corrige su percepción: no tenía ninguna espada en la mano y sus armas siguen en la puerta. Lo que recuerda es la amenaza de la matrona de moverlo cuando su cuerpo esté replicado y usarlo contra Rua. Banzo insiste en marcharse hasta librarse de esa influencia y le confiesa que nadie lo había hecho sentir así. Rua no lo detiene y promete esperarlo. Al salir, él percibe una mano negra y un susurro con voz de la matrona que reclama a Rua; no se muestra una agresión real contra ella.",
+  "participantes": [
+    "Banzo",
+    "Rua"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1379373885753131089",
+      "afirmacion": "Banzo percibe que las hebras lo obligan a desenvainar.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1379379248250359879",
+      "afirmacion": "La narración aclara que la espada nunca estuvo en su mano y reproduce una amenaza recordada.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1379383382307508295",
+      "afirmacion": "Banzo decide apartarse hasta solucionar el peligro que teme.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1379385788223197184",
+      "afirmacion": "Rua promete esperarlo y Banzo percibe después un susurro de la matrona.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Las tres partes y la imagen 1379133912676044891.png se leyeron completas. La imagen representa un carromato con fichas sobre cuadrícula; no demuestra acciones adicionales ni identidades por el retrato.",
+    "La escena de Rua corrige expresamente la percepción de Banzo: no hay ataque real con espada contra ella. La amenaza de futura dominación procede de la matrona y no equivale a posesión consumada.",
+    "No se confirma la acusación de Banzo sobre una matanza de goliats ni su interpretación de las intenciones de Jelbreg.",
+    "Las palabras mentales enviadas por Kazuki a Banzo son comunicación explícita, aunque estén tipográficamente en cursiva.",
+    "El estoque prestado por Kalista se distingue del roto de Jelbreg. Banzo extrae de su cuerpo la hoja rota antes de la curación.",
+    "La prueba de montaña es una acción ficticia arriesgada: no demuestra que el silencio de los ancestros quede resuelto ni valida el cálculo de Banzo sobre cuánto podría aguantar herido."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-03T07:33:42.458000+00:00",
+  "fin_utc": "2025-06-03T09:06:39.661000+00:00",
+  "fecha_local": "2025-06-03",
+  "intervalo": {
+    "anterior": 123,
+    "siguiente": 124,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1377714802629283882",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1379890572373790750",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 123,
+        "fecha": "2025-05-29",
+        "inicio_referencia_utc": "2025-05-29T18:26:29+00:00",
+        "fin_estimado_utc": "2025-05-29T21:01:06+00:00",
+        "duracion_video_segundos": 9277,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1377714802629283882"
+      },
+      {
+        "capitulo": 124,
+        "fecha": "2025-06-04",
+        "inicio_referencia_utc": "2025-06-04T18:32:16+00:00",
+        "fin_estimado_utc": "2025-06-04T21:34:59+00:00",
+        "duracion_video_segundos": 10963,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1379890572373790750"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1379362395738341487",
+      "fecha_utc": "2025-06-03T07:33:42.458000+00:00",
+      "fecha_local": "2025-06-03",
+      "editado_utc": null,
+      "texto": "PALACIO\n\nBanzo : **en cuanto puso un pie en Sho fue corriendo a palacio,  lo en sus sueños hace que sufra por la seguridad de alguien **",
+      "mensaje_sha256": "1a36a6aa1a629ad630cdb8b61ea4304085aaa25aff933c938d1ed6debefece0e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1379362395738341487",
+      "texto_sha256": "d19acf255d4c8bb2187b4cc536798b482181f58b8a64adce3cd6a1421b529669",
+      "adjuntos": []
+    },
+    {
+      "id": "1379363230710763541",
+      "fecha_utc": "2025-06-03T07:37:01.531000+00:00",
+      "fecha_local": "2025-06-03",
+      "editado_utc": null,
+      "texto": "**Entras a toda prisa a palacio, atraviesas los largos corredores llenos de soldados haciendo la guardia y las estancias de los sirvientes. Corres y corres hasta llegar a la habitación de ella.**",
+      "mensaje_sha256": "e31da1366a79de055597630010cf033253f8ff1a29d82f8800a16a3891ffae45",
+      "tipo_discord": 19,
+      "referencia": "1379362395738341487",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1379363230710763541",
+      "texto_sha256": "a41a158c60e0f9f4f9a825e8c17c4a6cddb909e7baae6e937556eea84b7997b1",
+      "adjuntos": []
+    },
+    {
+      "id": "1379364072839184495",
+      "fecha_utc": "2025-06-03T07:40:22.310000+00:00",
+      "fecha_local": "2025-06-03",
+      "editado_utc": "2025-06-03T07:40:35.778000+00:00",
+      "texto": "Banzo : **entro sin picar , abriendo la puerta a toda prisa ,** \n *necesito ver que esta . Que esta aquí y esta bien*",
+      "mensaje_sha256": "623f16ee5cb228796adae75b53ece1d398659f9567b44a2f5654f2ddb6084182",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1379364072839184495",
+      "texto_sha256": "e914d770d7b8cd8a90e09f6e8290c562bc1252c0d814de47734f99612749da94",
+      "adjuntos": []
+    },
+    {
+      "id": "1379365165446856757",
+      "fecha_utc": "2025-06-03T07:44:42.808000+00:00",
+      "fecha_local": "2025-06-03",
+      "editado_utc": null,
+      "texto": "**Entras en el interior y las mujeres de allí se sobresaltan, una deja caer un peine al suelo, otra un camisón de seda mientras sueltan un chillido. Se te quedan mirando asustadas, eres enorme y has entrado de repente en la habitación con esa poderosa armadura. Una voz desde atrás tranquiliza a las mujeres.**\nRua: Tranquilas... ¿Qué pasa Banzo.... estas bien? **Ve a la Shogun recién levantada, lleva el camisón por los hombros, el pelo revoltoso y aun tiene alguna que otra legaña en los ojos**",
+      "mensaje_sha256": "e6d301172e5ff05226ea042cc2447563ea418215577e9e00d33a8eb17c1ea9fd",
+      "tipo_discord": 19,
+      "referencia": "1379364072839184495",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1379365165446856757",
+      "texto_sha256": "5c7f58050063e473c2401d8467289f2c8bf4826eea1cc1a33976a409b0e24375",
+      "adjuntos": []
+    },
+    {
+      "id": "1379366936126951525",
+      "fecha_utc": "2025-06-03T07:51:44.971000+00:00",
+      "fecha_local": "2025-06-03",
+      "editado_utc": "2025-06-03T07:52:24.895000+00:00",
+      "texto": "Banzo : **Se quita el casco , descarga su mochila y sus armas y se acerca a rápidamente a Rúa para ponerse de rodillas en el suelo al  lateral de su cama .**\nEstas bien ... \nSiento haberme ido estos días sin avisar . \n**la mira a los ojos y rápidamente desvía la mirada al suelo ** \n\n**coge consciencia de la situación que acaba de causar y le entra vergüenza ** \n**se levanta y retrocedehasta la puerta con la  mirada en Rúa pero con la cabeza agachada , lo que causa que choque de espaldas con un sillón y casi caiga **\nPerdón perdón mi señora y señoritas ...",
+      "mensaje_sha256": "edd2dd1756b71f1586661c53061b3a3f9b3a8faf370e1f0715cd59749e086bfc",
+      "tipo_discord": 19,
+      "referencia": "1379365165446856757",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1379366936126951525",
+      "texto_sha256": "ab54e955df9652d1d1f5644dbc3a6f3e0c53e59b5f52cd49f057b02867e27239",
+      "adjuntos": []
+    },
+    {
+      "id": "1379367996124037171",
+      "fecha_utc": "2025-06-03T07:55:57.694000+00:00",
+      "fecha_local": "2025-06-03",
+      "editado_utc": null,
+      "texto": "Rua: **Suelta una risita al verte avergonzado, le hace gracia ver como intentas comportarte como dicta el protocolo, mas cuando a ella le gusta que no lo hagas. Que seas libre de estas tontearías de la nobleza...** Te he echado de menos... ¿te has ido a una aventura?",
+      "mensaje_sha256": "7765ca2536493502d02df77bf736a1fbef0556f8995a6e65f81c82863d182d0e",
+      "tipo_discord": 19,
+      "referencia": "1379366936126951525",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1379367996124037171",
+      "texto_sha256": "c4ff8684fce6a3063c636a11bccfff99e19092f16c44613147323455ca5781f1",
+      "adjuntos": []
+    },
+    {
+      "id": "1379369665201176607",
+      "fecha_utc": "2025-06-03T08:02:35.633000+00:00",
+      "fecha_local": "2025-06-03",
+      "editado_utc": null,
+      "texto": "Banzo : emmm . Bueno un asunto de los cazadores me requería en Ukyio y también quería ver como estaba Wukong ... \n\n**Mira alrededor **\nMejor te doy un rato que acabéis me gustaría hablar contigo... a solas majestad. **esto último con la mirada al suelo y voz más baja **",
+      "mensaje_sha256": "2327455aa55e05025abdb19563e506c67aaa2376966ce7fcb6827ba6f829c159",
+      "tipo_discord": 19,
+      "referencia": "1379367996124037171",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1379369665201176607",
+      "texto_sha256": "7a29fe76bc17be8d7e9588a93e1150a252194d491984314af9672813854f21d4",
+      "adjuntos": []
+    },
+    {
+      "id": "1379370110745317498",
+      "fecha_utc": "2025-06-03T08:04:21.859000+00:00",
+      "fecha_local": "2025-06-03",
+      "editado_utc": null,
+      "texto": "Rua: **Te mira algo extrañada. Mueve la mano de un lado para otro a las sirvientas y estas se marchan de la habitación rápidamente cerrando la puerta** Para ti siempre tengo tiempo. Dime que te preocupa. **La mujer se sienta cómodamente mirando en tu dirección. Le ves esos enormes ojos verdes mirándote**",
+      "mensaje_sha256": "4a84b99635a395876503a8b64b9080e0000d8cd2fbc6939826a93acefea6bad8",
+      "tipo_discord": 19,
+      "referencia": "1379369665201176607",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1379370110745317498",
+      "texto_sha256": "b56591eb35da3a7f1642b8bba29daba2d8502975ad8b44364328543e0b940936",
+      "adjuntos": []
+    },
+    {
+      "id": "1379370987937599528",
+      "fecha_utc": "2025-06-03T08:07:50.998000+00:00",
+      "fecha_local": "2025-06-03",
+      "editado_utc": "2025-06-03T08:08:14.245000+00:00",
+      "texto": "Banzo : verás... \n**se acerca a ella se inclina para cogerle la mano y con la otra la posa encima de forma que las dos manos rodean a modo de \"nido\" la pequeña mano de Rúa.  tiene la mirada hacia abajo **\n\nCreo que mi forma de ser me ha causado problemas siempre . Pero últimamente... \n**la mira a los ojos ** \nÚltimamente me he metido en algunos líos gordos Rúa.",
+      "mensaje_sha256": "bd1c6e45214d91dcf72dfe4b332214745963a49962494365b4dca86d30547979",
+      "tipo_discord": 19,
+      "referencia": "1379370110745317498",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1379370987937599528",
+      "texto_sha256": "1b859176610f5862de7f752cdd2bfc5f9f4c13d565c06512732672bf16598f13",
+      "adjuntos": []
+    },
+    {
+      "id": "1379371517212753961",
+      "fecha_utc": "2025-06-03T08:09:57.187000+00:00",
+      "fecha_local": "2025-06-03",
+      "editado_utc": null,
+      "texto": "Rua: **Notas que su pequeña mano te acaricia la tuya desde el interior de ese \"nido\" que has hecho. Te mira fijamente a los ojos** Estas bien? Sabes que puedes contarme lo que quieras",
+      "mensaje_sha256": "72270549174a4c306c426fbb03c205f8e708a2a21abb6ac1a22f525cfc45e7c3",
+      "tipo_discord": 19,
+      "referencia": "1379370987937599528",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1379371517212753961",
+      "texto_sha256": "4bff5fa4fa172a6726b6b2cbc4d48f00e460275b60f2cb202711a15067dc83ef",
+      "adjuntos": []
+    },
+    {
+      "id": "1379372298712252537",
+      "fecha_utc": "2025-06-03T08:13:03.511000+00:00",
+      "fecha_local": "2025-06-03",
+      "editado_utc": null,
+      "texto": "Banzo : Quiero contártelo Rúa te lo prometo.  \nPero estoy abrumado . Siento  como si mi mente poco a poco se fuese haciendo cachos...no quiero hacer nada que te ponga en peligro y no se si contarte todo lo haría aún más...",
+      "mensaje_sha256": "425f0ad5c1bd09fa72a74ceab4eaebb7d1da7729c45fc371ae6b92171cd7f679",
+      "tipo_discord": 19,
+      "referencia": "1379371517212753961",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1379372298712252537",
+      "texto_sha256": "9c45701fa176f3e0bbe0e0b693c4230dda02a47b4c98701e9cfea23bb835f670",
+      "adjuntos": []
+    },
+    {
+      "id": "1379373885753131089",
+      "fecha_utc": "2025-06-03T08:19:21.891000+00:00",
+      "fecha_local": "2025-06-03",
+      "editado_utc": null,
+      "texto": "Rua: Si no estas seguro de contármelo no lo hagas, Banzo. **Se recoge el pelo detrás de la oreja con una sonrisa** Y-yo confío en tu criterio... **Aparta la mirada de ti para mirar al suelo algo avergonzada... pero entonces... lo notas. La presión de Brythya, la presión de esas hebras hechas de telarañas que te tiran... tiran de tus muñecas, tus dedos, tu cuerpo... tiran hasta tener la Espada del Campeón en tus manos... tiran incluso para desenvainarla... Te recompones... ves a Rua delante de ti, mirando al suelo tímida. Parece que todo a sido un pequeño sueño... pero en tu mano esta la Espada del Campeón... desenfundada**",
+      "mensaje_sha256": "c99445c3e66d6124ce50f6ac7d7c20520b4e0898109e52043023188e5fb18247",
+      "tipo_discord": 19,
+      "referencia": "1379372298712252537",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1379373885753131089",
+      "texto_sha256": "fc53706bc697073c6f9a90e6dad45de5ef4601e6281a8587f8457a403ebc5d5b",
+      "adjuntos": []
+    },
+    {
+      "id": "1379378321284136960",
+      "fecha_utc": "2025-06-03T08:36:59.404000+00:00",
+      "fecha_local": "2025-06-03",
+      "editado_utc": null,
+      "texto": "Banzo : *que acaba de pasar*\n**Mira su mano , abre los ojos , ve la espada y la tira al suelo ... **\nRúa soy peligroso . Lo que sea que me está pasando hace que no me controle . \nAhora mismo estar a mi lado es peligroso y más tu .. ella sabe lo que me importas . \n\n**se aleja de ella hasta la puerta la abre y lanza sus armas fuera del cuarto **\nHay 4 personas en las que confiaría mi vida . \n2 de ellas están en la misma situación que yo . \nLas otras dos son Gur y ... y Wukong . <@412279081170763776>  <@220602485977382912> \n\nTe prometo que lograre deshacerme de esto y volver . Pero hasta entonces .. no puedo estar a tu lado . \n**se arrodilla por completo, te pido que dejes que... Wukong y Gur me ayuden y me haga de gancho por si alguien piensa hacerte algo en mi ausencia **",
+      "mensaje_sha256": "3703382691780e3dc7ff592b681ae7ef368aad41f359368f907a0b53708dd501",
+      "tipo_discord": 19,
+      "referencia": "1379373885753131089",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1379378321284136960",
+      "texto_sha256": "3fad9ac1b3b3e3067797aef87560faff2032993d2caa3eead563e237238ba336",
+      "adjuntos": []
+    },
+    {
+      "id": "1379379248250359879",
+      "fecha_utc": "2025-06-03T08:40:40.410000+00:00",
+      "fecha_local": "2025-06-03",
+      "editado_utc": null,
+      "texto": "Rua: **Te mira extrañada... como si estuvieras actuando como un loco... Cuando te das cuenta ves que no llevabas ninguna espada en la mano. Tu equipo esta en la puerta, justo donde las habías dejado... Recuerdas las palabras de la Matrona \"Cuando este todo tu cuerpo replicado, podré moverte como yo desee, incluso puedo hacer que seas tu el que acabe con tu preciosa Rua, goliat.\" y un escalofrío te recorre el cuerpo** P-pero q-que pasa....? M-me vas a dejar..... sola?",
+      "mensaje_sha256": "feb87a6261d55bd354405e5e5329e9734d50acc3d2a70ceb765ac3c49b0f5faf",
+      "tipo_discord": 19,
+      "referencia": "1379378321284136960",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1379379248250359879",
+      "texto_sha256": "851e2730ecf4e5ae040b0126be7814ff150426244c58c58147f6f72c17615761",
+      "adjuntos": []
+    },
+    {
+      "id": "1379383382307508295",
+      "fecha_utc": "2025-06-03T08:57:06.046000+00:00",
+      "fecha_local": "2025-06-03",
+      "editado_utc": "2025-06-03T08:58:57.030000+00:00",
+      "texto": "Banzo : **Se mira las manos con una cara de frustración máxima \nMira a Rúa . **\nLo siento ... **sus ojos reflejan la máxima tristeza que ha demostrado banzo hasta ahora ** \nNo... no puedo... Rúa.. aún no . \n**se la queda mirando y saca una muy leve sonrrisa** \n*quiero cuidarte el resto de mis días , quiero verte sonreír y que pasees feliz por la calles de tu país* \n\nSi confías en mi , sabrás que ganaré y que te contaré todas las aventuras mientras paseamos por Sho . \nPero hasta entonces debo alejarme ... \nConfía en gur y wukong ellos .. son como hermanos también.  \n\n**mirandola a los ojos acaba con una gran sonrisa muy forzada,  banzo esta absolutamente roto por dentro ** \nHe de ir por la cabeza de una diosa o algo así, no te daras cuenta y ya estaré aquí tropezando con alguna cosa . \n**coge el pomo para salir de la habitación mira al suelo** \nRúa... nadie nunca .. \nNadie nunca me había hecho sentir así.  \n**abre la puerta y se dispone a salir **",
+      "mensaje_sha256": "35f9aa91970452f839b736d0aff4053433d8458a478ed46afff5fbfee390d312",
+      "tipo_discord": 19,
+      "referencia": "1379379248250359879",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1379383382307508295",
+      "texto_sha256": "11fea494fe7bcc3dc2ab231d0859f3c3e12fc98204da4cb8986aac21557b06e0",
+      "adjuntos": []
+    },
+    {
+      "id": "1379385788223197184",
+      "fecha_utc": "2025-06-03T09:06:39.661000+00:00",
+      "fecha_local": "2025-06-03",
+      "editado_utc": null,
+      "texto": "Rua: **Escuchas un grito ahogado, no quiere que te marches, pero sabe que tienes que hacerlo y no te detendrá. Te muestra una sonrisa, una sonrisa para que si te marchas, te marches con la imagen de ella sonriendo, alegre.** Te esperaré Banzo....\n\n**Cuando sales de la habitación notas una sombra a tu espalda, una mano se posa en tu hombro. Una mano negra... una mano que conoces bien... y entonces... Un Susurro en la Oscuridad... Y con la voz de la Matrona dice** Ella es mia...",
+      "mensaje_sha256": "60821735ceabc95108767f2aee417820b04e3904906f292243659cbd76236be8",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1379385788223197184",
+      "texto_sha256": "e38e0ba4809f71555ca55b8771df5b872584069dd86c96c4c5b795e7bb2d9717",
+      "adjuntos": []
+    }
+  ]
+}

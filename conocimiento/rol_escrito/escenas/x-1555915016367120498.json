@@ -1,0 +1,112 @@
+{
+  "id": "x-1555915016367120498",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1555211670056599685",
+  "hilo_id": "1524091803647741996",
+  "hilo_nombre": "Jungla - En alguna parte de Xoltacán",
+  "titulo": "Tortas lleva a Ilikar al santuario",
+  "resumen": "Prepara un lecho de flores y permanece junto al alumno.",
+  "relato": "Tortas recoge a Ilikar del escenario de la batalla con brazos astrales y lo lleva a través de la jungla por un camino que conoce desde hace siglos. Cruza la cascada hasta un refugio silencioso, deposita al goliat en el musgo y vuelve con flores de Iktan.\n\nForma un lecho que sustituye el olor de sangre y humo por tierra viva. Después se queda junto a su alumno, con el caparazón agrietado y el collar deshecho. El bosque se muestra libre de la tensión del dragón verde. No se narra una recuperación; las escenas posteriores confirman la muerte.",
+  "participantes": [
+    "Tortas",
+    "Ilikar"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1555915016367120498",
+      "afirmacion": "Tortas transporta el cuerpo y prepara las flores.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1555915187540861079",
+      "afirmacion": "Permanece junto a su alumno en el santuario.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Separar las tres viñetas; sus protagonistas no comparten una conversación.",
+    "La sospecha de una traición interior es conclusión de Naór, sin identificación probada.",
+    "El ojo buscado por Archi no se muestra extraído aquí.",
+    "La muerte de Ilikar no se explica por el mero traslado; las escenas posteriores sí la confirman."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-10-03T12:10:47.405000+00:00",
+  "fin_utc": "2026-10-03T12:26:17.666000+00:00",
+  "fecha_local": "2026-10-03",
+  "intervalo": {
+    "anterior": 66,
+    "siguiente": 69,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 66,
+        "fecha": "2026-09-22",
+        "inicio_referencia_utc": "2026-09-22T18:20:03+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241"
+      },
+      {
+        "capitulo": 69,
+        "fecha": "2026-10-08",
+        "inicio_referencia_utc": "2026-10-08T18:17:02+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1555915016367120498",
+      "fecha_utc": "2026-10-03T12:10:47.405000+00:00",
+      "fecha_local": "2026-10-03",
+      "editado_utc": null,
+      "texto": "**El humo de la batalla todavía flotaba entre los árboles cuando Tortas se arrodilló junto a Ilikar.\n\nLos brazos astrales emergieron sin ceremonia. Se deslizaron bajo el cuerpo del goliath y lo levantaron del suelo.\n\nTortas echó a andar.\n\nLa jungla lo recibió en silencio. Ramas que se apartaban apenas, raíces que sus pies conocían de memoria, un camino que no existía para nadie más. Había tardado trescientos años en aprenderlo y no lo había olvidado ni un día.\n\nEl sonido llegó antes que la imagen. Agua contra piedra, constante, paciente.\n\nLa cascada se abrió ante ellos como una cortina y Tortas la cruzó sin detenerse, con la misma indiferencia con que había cruzado todo lo demás en sus siglos de vida.\n\nAl otro lado el aire era diferente. Más quieto. Más verde. La luz caía oblicua entre los árboles y el río corría manso y claro sobre piedras lisas que nadie había pisado nunca salvo ella.\n\nDepositó a Ilikar sobre el musgo con una precisión que no admitía urgencia.\n\nLos brazos astrales se disolvieron.\n\nEntonces dio media vuelta y desapareció entre los árboles.\n\nRegresó despacio, como siempre, con los brazos cargados de flores de Iktan. Las que crecían junto a su hogar, las que trepaban por las piedras del mercado, las que nadie recogía porque todos las daban por sentadas. Rojas, amarillas, del azul intenso que solo da la humedad de la jungla. Las fue colocando una a una bajo el cuerpo de Ilikar, sobre el musgo, alrededor de él, hasta que el lecho olió a algo que no era sangre ni humo sino tierra viva y flores.\n\nCuando terminó se sentó a su lado.**",
+      "mensaje_sha256": "ddf42cccd86a2ecfead22cfbb6045644d4461679d73e0913e9b61b91e55133d9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1555915016367120498",
+      "texto_sha256": "fb3728e8faa4fd1c4f64ff9a0c1139b3e2b2ddca33b7ff87dc52abf7f1c53946",
+      "adjuntos": []
+    },
+    {
+      "id": "1555915187540861079",
+      "fecha_utc": "2026-10-03T12:11:28.216000+00:00",
+      "fecha_local": "2026-10-03",
+      "editado_utc": null,
+      "texto": "**La jungla estaba tranquila de una manera que llevaba mucho tiempo sin estarlo. Una quietud diferente a la del miedo contenido, a la de los animales que callan cuando algo los acecha. El dragón verde había tejido su presencia sobre cada rincón del bosque durante demasiado tiempo, una tensión invisible que solo se nota cuando desaparece. Ahora los pájaros volvían a moverse sin prisa entre las ramas y el río sonaba como debe sonar un río, sin que nada lo enturbiara.\n\nTortas miró a Ilikar.\n\nNo se movió del sitio.\n\nPermaneció sentado junto al río, con el caparazón agrietado y el collar de plumas deshecho colgando del cuello, guardando a su alumno mientras el bosque, por primera vez en mucho tiempo, respiraba sin miedo.**",
+      "mensaje_sha256": "1e41acf26c530efab6bea83754e388951f033d0f9eca29cd48b7f6a66bb2085a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1555915187540861079",
+      "texto_sha256": "caee157e10677adc64afcd90f18a63f64d330bebc7ed195406117d68b7e9af4d",
+      "adjuntos": []
+    },
+    {
+      "id": "1555918918164545548",
+      "fecha_utc": "2026-10-03T12:26:17.666000+00:00",
+      "fecha_local": "2026-10-03",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena 🔴",
+      "mensaje_sha256": "8ad13dc5d69b2e27108dd480e858aecdd2a78a8f48492e9c5bf2339f5d06c65c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1555918918164545548",
+      "texto_sha256": "298fa93bf0457633e2be1e0841043d853cccb9548c7ae2d8426119f0cb0a929e",
+      "adjuntos": []
+    }
+  ]
+}

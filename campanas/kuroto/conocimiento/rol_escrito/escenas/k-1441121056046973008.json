@@ -1,0 +1,252 @@
+{
+  "id": "k-1441121056046973008",
+  "campana": "kuroto",
+  "unidad_revision": "k-1441121056046973008",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Banzo busca a Arwen y acompaña a Jelbreg",
+  "resumen": "El goliat encuentra rastros de la cocina de la niña y ayuda al drow con un recado para Tsugami.",
+  "relato": "Banzo recorre Sho ayudando en algunos oficios y pregunta por Arwen. El herrero Yuto recuerda haberla visto con la otra niña que presume de ser poderosa. Al caer el sol, el goliat descubre banquetes de insectos que le recuerdan su cocina y empieza a comer. Jelbreg lo encuentra y se extraña de lo que lleva en la boca. Va cargado de ropa que Kalista le ha encargado entregar a Tsugami. Banzo toma las bolsas y se ofrece a acompañarlo mientras siguen buscando a Arwen. El drow pregunta por su salud y escucha que, según Shirz, mejora. También dice que Kalista está en palacio con cónsules revisando suministros para el sur. Banzo bromea con que quizá prepara una sorpresa para su aniversario y ofrece un modo de comprobar si sigue allí. Jelbreg se pone nervioso, prefiere cumplir primero el recado y termina pidiendo un favor. El contenido de la petición queda para otro tramo.",
+  "participantes": [
+    "Banzo",
+    "Yuto",
+    "Jelbreg"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1441121622399516693",
+      "afirmacion": "Yuto recuerda haber visto a Arwen con otra niña.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1441125530794721362",
+      "afirmacion": "Jelbreg lleva ropa de Kalista destinada a Tsugami.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1441126136493903872",
+      "afirmacion": "Banzo toma las bolsas y ofrece acompañarlo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1441129986210795754",
+      "afirmacion": "Jelbreg anuncia que quiere pedir un favor, sin explicarlo aún.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Yuto recibe nombre explícito como herrero aquí; no se fusiona con Youijo o el herrero de viajes sin ancla adicional.",
+    "La presencia de Kalista con cónsules es información de Jelbreg. La sorpresa de aniversario es conjetura de Banzo.",
+    "No se entrega la ropa ni se localiza a Arwen en este tramo."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2025-11-20T17:40:34.496000+00:00",
+  "fin_utc": "2025-11-20T18:16:03.613000+00:00",
+  "fecha_local": "2025-11-20",
+  "intervalo": {
+    "anterior": 167,
+    "siguiente": 168,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438607930604781589",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 167,
+        "fecha": "2025-11-13",
+        "inicio_referencia_utc": "2025-11-13T19:14:04+00:00",
+        "fin_estimado_utc": "2025-11-13T22:25:02+00:00",
+        "duracion_video_segundos": 11458,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438607930604781589"
+      },
+      {
+        "capitulo": 168,
+        "fecha": "2025-11-20",
+        "inicio_referencia_utc": "2025-11-20T19:03:40+00:00",
+        "fin_estimado_utc": "2025-11-20T22:00:36+00:00",
+        "duracion_video_segundos": 10616,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida."
+  },
+  "fuentes": [
+    {
+      "id": "1441121056046973008",
+      "fecha_utc": "2025-11-20T17:40:34.496000+00:00",
+      "fecha_local": "2025-11-20",
+      "editado_utc": null,
+      "texto": "Banzo : **va caminando por las calles , pararía en alguna tienda por ejemplo en el cestero y hecharia una mano , mas tarde en la herrería quizás , y preguntaría **\n\nPor cierto habeis visto a Arwen la campeona de kuroto ?",
+      "mensaje_sha256": "0fcb6f6cd476c6532b7f9a76ea0c9b962d90fe133302b2367a655ddeb2f05d03",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1441121056046973008",
+      "texto_sha256": "453315d57e710b6c0ae4192bc9df789844031fec69af5727a410e79fa0fc6ea1",
+      "adjuntos": []
+    },
+    {
+      "id": "1441121622399516693",
+      "fecha_utc": "2025-11-20T17:42:49.525000+00:00",
+      "fecha_local": "2025-11-20",
+      "editado_utc": null,
+      "texto": "Yuto: Mmmmmh, creo que la vi hace unas horas paseando con esa otra niña, esa que siempre ríe como una loca diciendo que es la más poderosa de Kuroto **El herrero te mira agradecido por la ayuda**",
+      "mensaje_sha256": "f988b67f20c61ae0792ccc38ff87c92feeb3bda0afb6063b6dff0934ee9f161e",
+      "tipo_discord": 19,
+      "referencia": "1441121056046973008",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1441121622399516693",
+      "texto_sha256": "c092eaad0cd31cce9b4c53c8a5d5db6ebac2a5c9966e17e9f7fbd4d3fba02212",
+      "adjuntos": []
+    },
+    {
+      "id": "1441122911812583434",
+      "fecha_utc": "2025-11-20T17:47:56.945000+00:00",
+      "fecha_local": "2025-11-20",
+      "editado_utc": null,
+      "texto": "**Mientras sigues buscando a Arwen el sol empieza a caer poco a poco. Las calles empiezan a quedarse algo más vacías y los negocios empiezan a cerrar, dejando solo aquellos de ocio nocturno.\nTambién te das cuenta, que por  las calles, hay repartidos una especie de banquetes culinarios, lo que están llenos de bichos y los lugareños los repudian. Pero a ti te recuerda a esos banquetes que prepara Arwen. ¿Comerias  alguno?**\n\n???: Grandullón? **Pregunta una voz familiar detrás tuyo**",
+      "mensaje_sha256": "d9083bd85c87374909fc1f3f1f4f8809e5ff5b478e9bfb6a96b620a8b9be5004",
+      "tipo_discord": 19,
+      "referencia": "1441121056046973008",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1441122911812583434",
+      "texto_sha256": "687c80eb85cfe6db7902e040ef476893afe8e2765181e669d9fa4fad2705ea2a",
+      "adjuntos": []
+    },
+    {
+      "id": "1441123211969298554",
+      "fecha_utc": "2025-11-20T17:49:08.508000+00:00",
+      "fecha_local": "2025-11-20",
+      "editado_utc": "2025-11-20T17:50:03.391000+00:00",
+      "texto": "Banzo : **reconozco la voz de la drow antes de girarme??? **",
+      "mensaje_sha256": "2443e467ec54d4c28d26b8b9f8eb98d5b3cf55d64e7f3776a35daefb7ced020f",
+      "tipo_discord": 19,
+      "referencia": "1441122911812583434",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1441123211969298554",
+      "texto_sha256": "62a607512ef2dbaa1b30c8ae39c742169df3005d1eaa2dd74eab1b7228dede24",
+      "adjuntos": []
+    },
+    {
+      "id": "1441123545819385896",
+      "fecha_utc": "2025-11-20T17:50:28.104000+00:00",
+      "fecha_local": "2025-11-20",
+      "editado_utc": null,
+      "texto": "Jelbreg: ¿Que haces con eso en la boca...son gusanos y cucarachas? **El drow te mira con una ceja levantada**",
+      "mensaje_sha256": "7ef44c5e79f4cb51026fe0e043e2b1cace29c437ebfb9651f9c6c37a777225c4",
+      "tipo_discord": 19,
+      "referencia": "1441123211969298554",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1441123545819385896",
+      "texto_sha256": "16205118c487d351122ca71f0626f35b262eb31c262cce8ca74955530781f627",
+      "adjuntos": []
+    },
+    {
+      "id": "1441124710573146234",
+      "fecha_utc": "2025-11-20T17:55:05.803000+00:00",
+      "fecha_local": "2025-11-20",
+      "editado_utc": null,
+      "texto": "Banzo : esto ? **diría con la boca llena sorviendo una cola de lombriz que asomaba por su boca **\nCreo que la niña esta haciendo de las suyas \n\n**se acerca a el ** \nQue dice el tio , como vas ?",
+      "mensaje_sha256": "510924cbbda41851f0dd2b4d0911095d78bfcdf8c024ee4d7fd0c4a5473165f8",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1441124710573146234",
+      "texto_sha256": "b2c2b87612a251c2c638bf46e7e0c2de51621353876e4176244f2db8d7995178",
+      "adjuntos": []
+    },
+    {
+      "id": "1441125530794721362",
+      "fecha_utc": "2025-11-20T17:58:21.359000+00:00",
+      "fecha_local": "2025-11-20",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Ves al drow con unas cuantas bolsas en las manos, parecen estar llenas de ropa. Levanta los hombros en señal de aburrimiento** Kalista me ha mandado a llevarle estas prendas a Tsugami... <@753394009153732689>",
+      "mensaje_sha256": "42dccaccf876ef7e6efb0e3ceb21ecb7aba48fd65c49ccc93821ca5f5c80641f",
+      "tipo_discord": 19,
+      "referencia": "1441124710573146234",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1441125530794721362",
+      "texto_sha256": "9cadc4f180f487e12ff96cf5dca7cbb88ca627d3a583c034403b2a99251baad9",
+      "adjuntos": []
+    },
+    {
+      "id": "1441126136493903872",
+      "fecha_utc": "2025-11-20T18:00:45.769000+00:00",
+      "fecha_local": "2025-11-20",
+      "editado_utc": null,
+      "texto": "Banzo : **te coge todas las bolsas con una mano **\nA vamos , a ver si de camino vemos a Arwen , aunque se esta haciendo tarde , demonos prisa quizás la vieja cierra en breve .\n\nY kalista ? En palacio ?",
+      "mensaje_sha256": "cb590ca37ed675036b8681044b82412f6d955fb395fcc869e3043f116cb70a01",
+      "tipo_discord": 19,
+      "referencia": "1441125530794721362",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1441126136493903872",
+      "texto_sha256": "9845fcddc037134608144e886caf5dac75d5b82832bfa8cc5733198623a7534b",
+      "adjuntos": []
+    },
+    {
+      "id": "1441126709918302361",
+      "fecha_utc": "2025-11-20T18:03:02.484000+00:00",
+      "fecha_local": "2025-11-20",
+      "editado_utc": null,
+      "texto": "Jelbreg: Si, se ha quedado con algunos consules repasando los suministros para el sur **Deja que le cojas las bolsas, le pesaban un poco** ¿La niña? Kalista esta preocupada... ¿Como esta?",
+      "mensaje_sha256": "aa276106fa763d8628870a97b96b1faca85d4e4304371a329fadc51ae154ed6c",
+      "tipo_discord": 19,
+      "referencia": "1441126136493903872",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1441126709918302361",
+      "texto_sha256": "3bb4333b50d15aed06d6b3b8614a39a995fcad2dacee1cb4e8bf9cbdab47f996",
+      "adjuntos": []
+    },
+    {
+      "id": "1441127710641360970",
+      "fecha_utc": "2025-11-20T18:07:01.075000+00:00",
+      "fecha_local": "2025-11-20",
+      "editado_utc": null,
+      "texto": "Banzo : dice Shirz que mejor . Madre mia no saben hacer nada solos ? \nYo creo que se ha escaqueado y te quiere dar una sorpresa o algo asi , pronto es vuestro aniversario no ?",
+      "mensaje_sha256": "80bcdc2de63a4afc6a242e9d04790c5298d7d6596294ddf982a1605caae237f5",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1441127710641360970",
+      "texto_sha256": "32e6710dd060faf7e6ff9765a0a0ee936298137e0eaa5de077a873e8f625a8fe",
+      "adjuntos": []
+    },
+    {
+      "id": "1441128365561221193",
+      "fecha_utc": "2025-11-20T18:09:37.220000+00:00",
+      "fecha_local": "2025-11-20",
+      "editado_utc": null,
+      "texto": "Jelbreg: Eh! **Se sobresalta un poco y le cae la típica gota por el lado de la cara** Si... no se... Emmmm Pues eso... que tengo que ir a Tsugami. ¿Me acompañas?",
+      "mensaje_sha256": "83dcee63850c6f756ddc2dbdc9d383e415f4d9a1d4513de0d3f648c4352dfab9",
+      "tipo_discord": 19,
+      "referencia": "1441127710641360970",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1441128365561221193",
+      "texto_sha256": "0d5d2def1966639bcc6a0facc1242f8154946c39e052b318074238644c735adb",
+      "adjuntos": []
+    },
+    {
+      "id": "1441128749448822824",
+      "fecha_utc": "2025-11-20T18:11:08.746000+00:00",
+      "fecha_local": "2025-11-20",
+      "editado_utc": null,
+      "texto": "Banzo : vamos vamos , **sonrrie ** \nQuieres ver si esta en palacio o no ? Yo se como \nY sin movernos de aqui \n**te dice mientras andáis **",
+      "mensaje_sha256": "ebd7d535e61e3ba87e93e9edd375d6a26b8484c7e6212a3431340022b3e235fa",
+      "tipo_discord": 19,
+      "referencia": "1441128365561221193",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1441128749448822824",
+      "texto_sha256": "1b785e84fc0d54aab60e3264b83e64fdec94d62a81a736920c9d3fda7f41c647",
+      "adjuntos": []
+    },
+    {
+      "id": "1441129986210795754",
+      "fecha_utc": "2025-11-20T18:16:03.613000+00:00",
+      "fecha_local": "2025-11-20",
+      "editado_utc": null,
+      "texto": "Jelbreg: Eh... No, no, no **Abre mucho los ojos asustado** Como vuelva sin haber entregado la ropa me mata.... **Ves que aparta la mirada un momento quedándose en silencio** Oye.... ¿Puedo pedirte un favor?\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "04951de0c8efe9c443c2fde9024c5c4c587cf6102dd99a1de118a07288dc22da",
+      "tipo_discord": 19,
+      "referencia": "1441128749448822824",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1441129986210795754",
+      "texto_sha256": "de84bc8db4f1c2d61e9c689f0daa0355b269b94bb32aa19fb748befbbcc8f372",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "x-1555383366596034593",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1555383366596034593",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "Ilikar deja una carta para Naór",
+  "resumen": "Acude a su casa pese a saber que no ha regresado y se despide en voz baja ante la puerta.",
+  "relato": "De madrugada, Ilikar visita la casa vacía de Naór. Sabe que no ha vuelto, pero lleva una carta que ha doblado y abierto varias veces buscando las palabras adecuadas. La desliza bajo la puerta y permanece allí con la mejilla y la mano apoyadas en la madera, deseando sentir su cercanía pese a la distancia. Le murmura que se cuide y se marcha. El contenido de la carta no se muestra ni consta que ella la reciba o responda.",
+  "participantes": [
+    "Ilikar"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1555383366596034593",
+      "afirmacion": "Ilikar deja una carta bajo la puerta de Naór, aún ausente.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No atribuir palabras concretas a la carta ni dar por producido un reencuentro."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-10-02T00:58:12.222000+00:00",
+  "fin_utc": "2026-10-02T00:58:12.222000+00:00",
+  "fecha_local": "2026-10-02",
+  "intervalo": {
+    "anterior": 66,
+    "siguiente": 69,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 66,
+        "fecha": "2026-09-22",
+        "inicio_referencia_utc": "2026-09-22T18:20:03+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241"
+      },
+      {
+        "capitulo": 69,
+        "fecha": "2026-10-08",
+        "inicio_referencia_utc": "2026-10-08T18:17:02+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1555383366596034593",
+      "fecha_utc": "2026-10-02T00:58:12.222000+00:00",
+      "fecha_local": "2026-10-02",
+      "editado_utc": null,
+      "texto": "**Las huellas inmensas frente a la casa de Naor empezaban a desaparecer bajo el barro. Habían pasado varias horas desde que Ilikar había estado allí.**\n\n**Había llegado de madrugada, cuando la aldea dormía y las calles estaban cubiertas por aquella neblina que apenas dejaba ver más allá de unos metros. Sabía que Naor aún no había vuelto, pero aun así había venido.**\n\n**Se arrodilló frente a la puerta con un pequeño trozo de papel entre los dedos. La hoja había pasado demasiadas veces por sus manos antes de acabar allí. La había doblado, abierto y vuelto a doblar mientras intentaba encontrar la forma de escribir algo que no sonara estúpido.**\n\n**Una vez que la deslizó con cuidado por la rendija bajo la madera, el gigante se quedó inmóvil. Apoyó la mejilla y la palma de su mano contra la madera áspera de la puerta, como si intentara sentir el calor de Naor al otro lado, a pesar de la distancia.**\n\nIlikar: Cuídate... - **murmuró, con una pequeña sonrisa que nadie podía ver.**\n\n**Ilikar se marchó en silencio, dejando atrás una carta que ahora pesaba más que el arma que portaba sobre su hombro.**\n\n🔴 FIN DE LA ESCENA 🔴",
+      "mensaje_sha256": "e626ee9f2be636c926f091abca08c3ab5094b3a47fcbe1907d59e8d226fe1c86",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1555383366596034593",
+      "texto_sha256": "767ecf460e58f46b224a1ad57e0a1a667e7b816ea015f42616126d9214baef27",
+      "adjuntos": []
+    }
+  ]
+}

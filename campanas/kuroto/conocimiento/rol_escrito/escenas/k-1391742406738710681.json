@@ -1,0 +1,181 @@
+{
+  "id": "k-1391742406738710681",
+  "campana": "kuroto",
+  "unidad_revision": "k-1391742406738710681",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Una grabación y una cita en palacio",
+  "resumen": "Archi dice haber registrado la negociación y Banzo acuerda encontrarse con Jelbreg para buscar a Kalista.",
+  "relato": "Por caracola, Banzo pregunta a Archi si tiene lo que buscaban. El inventor responde que ha grabado su conversación con Yasuoka y se burla de sus concesiones. Banzo rechaza llamar enemigo al noble y recuerda que el enemigo permanece en el Abismo, antes de terminar la llamada. Contacta entonces con Jelbreg por otra caracola para recordar una reunión con Kalista. El drow dice que Archi acaba de irse volando y que Kalista ha marchado a palacio. Se ofrece a acompañar a Banzo; acuerdan reunirse allí. El goliat se despide en abisal. No se reproduce ni se escucha una grabación dentro del tramo, ni se muestra todavía el encuentro convenido.",
+  "participantes": [
+    "Banzo",
+    "Archi",
+    "Jelbreg"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1391742406738710681",
+      "afirmacion": "Archi afirma haber grabado la conversación de Banzo con el noble.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1391744536665002005",
+      "afirmacion": "Jelbreg informa de que Kalista está en palacio y ofrece acompañarlo.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1391745072583675905",
+      "afirmacion": "Jelbreg acuerda encontrarse con Banzo en palacio.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "La existencia de la grabación se apoya en la afirmación de Archi; no hay un archivo de audio adjunto en la unidad.",
+    "Kalisa es una variante ocasional de Kalista dentro del mismo intercambio."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-07-07T11:27:27.090000+00:00",
+  "fin_utc": "2025-07-07T11:39:54.144000+00:00",
+  "fecha_local": "2025-07-07",
+  "intervalo": {
+    "anterior": 135,
+    "siguiente": 136,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1390391136719212627",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1392568138104832013",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 135,
+        "fecha": "2025-07-03",
+        "inicio_referencia_utc": "2025-07-03T17:57:37+00:00",
+        "fin_estimado_utc": "2025-07-03T22:24:15+00:00",
+        "duracion_video_segundos": 15998,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1390391136719212627"
+      },
+      {
+        "capitulo": 136,
+        "fecha": "2025-07-09",
+        "inicio_referencia_utc": "2025-07-09T18:08:23+00:00",
+        "fin_estimado_utc": "2025-07-09T21:01:59+00:00",
+        "duracion_video_segundos": 10416,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1392568138104832013"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1391742406738710681",
+      "fecha_utc": "2025-07-07T11:27:27.090000+00:00",
+      "fecha_local": "2025-07-07",
+      "editado_utc": null,
+      "texto": "Banzo : **ring ring ** \nLo tienes Gnomo ? \nArchi: si tengo el que ? Grabado como te bajas los pantalones con el enemigo , si lo tengo . \nBanzo : no es el enemigo gnomo.  El enemigo aún se esconde en el abismo \nArchi: \"aún se esconde en el abismo \"**imita la voz de banzo** cuando te pones siniestro pareces más tonto aún **cuelga **\nBanzo : le voy a sacar la lengua larga esa un dia . \n**cuelga y llama desde la otra caracola ** \nJelbreg ? <@214405113677217793>",
+      "mensaje_sha256": "414a0bfe0055f5614cf633013c7b84631916d923458c1b2f798792e03cc29051",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1391742406738710681",
+      "texto_sha256": "ab13e74a2a88e113f8988afa47a3939a5dcd4b5d0f669258221b54ac388a9949",
+      "adjuntos": []
+    },
+    {
+      "id": "1391742874579636307",
+      "fecha_utc": "2025-07-07T11:29:18.632000+00:00",
+      "fecha_local": "2025-07-07",
+      "editado_utc": null,
+      "texto": "Jelbreg: Mierda de aparato... ¡Eh tu! ¡Ten cuidado ahí arriba... no lo repetiré dos veces... ¿Que quieres, Banzo?",
+      "mensaje_sha256": "39855e40a4325ce69c5fbe727df7aef5feff0bf41cf099665222e73fc4490f32",
+      "tipo_discord": 19,
+      "referencia": "1391742406738710681",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1391742874579636307",
+      "texto_sha256": "0c56b4538d7c395bbcff83e749073941579395851f50bef43c8b4b57cb6cddc3",
+      "adjuntos": []
+    },
+    {
+      "id": "1391743727860711445",
+      "fecha_utc": "2025-07-07T11:32:42.070000+00:00",
+      "fecha_local": "2025-07-07",
+      "editado_utc": "2025-07-07T11:33:53.712000+00:00",
+      "texto": "Banzo : no quedamos en que me llamarías para reunirnos con kalista ? \nDonde andas voy hacia la base \nEsta el gnomo ahí?,  agarralo que quiero decirle un par de cosas",
+      "mensaje_sha256": "477ea91bd0b63289a79ef3e84000e9ccbe2eebd82dae4ad4b2d0c5e1111adf04",
+      "tipo_discord": 19,
+      "referencia": "1391742874579636307",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1391743727860711445",
+      "texto_sha256": "c5824fcdf3e187a7e5f0be3a9f2ef86359d1652eaf59a09de878ca6716518299",
+      "adjuntos": []
+    },
+    {
+      "id": "1391744536665002005",
+      "fecha_utc": "2025-07-07T11:35:54.904000+00:00",
+      "fecha_local": "2025-07-07",
+      "editado_utc": "2025-07-07T11:36:27.075000+00:00",
+      "texto": "Jelbreg: Pues se acaba de ir volando... no pienso ir detrás de ese gnomo... **Se escucha un ruido de un aparato que sale volando con el grito de un gnomo** ¿Reunión con Kalisa? Pues creo que esta en Palacio, o eso me ha dicho cuando se ha despertado ¿Te acompaño a buscarla?",
+      "mensaje_sha256": "265d021dc70967a9ad0073f8455cd35b8088fed012306237fe69c435ea683194",
+      "tipo_discord": 19,
+      "referencia": "1391743727860711445",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1391744536665002005",
+      "texto_sha256": "2bdd526593990c760b9024d79c6a13638d5e557f1bd877f55932cf517e944567",
+      "adjuntos": []
+    },
+    {
+      "id": "1391744902198591488",
+      "fecha_utc": "2025-07-07T11:37:22.054000+00:00",
+      "fecha_local": "2025-07-07",
+      "editado_utc": null,
+      "texto": "Banzo : estoy cerca de la tienda de tsugami  quieres que te espere por aquí? O voy a buscarte a la base ?",
+      "mensaje_sha256": "e12d6afa3183f8e648874ef576a40e1ceb22561904f7555897d667344dab0ac9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1391744902198591488",
+      "texto_sha256": "5108b25a6720e52a4c2cac257e7a32c5113240a68ab18e5072343a7ac7a33ea1",
+      "adjuntos": []
+    },
+    {
+      "id": "1391745072583675905",
+      "fecha_utc": "2025-07-07T11:38:02.677000+00:00",
+      "fecha_local": "2025-07-07",
+      "editado_utc": null,
+      "texto": "Jelbreg: Nada... ya voy yo para allí. Quedamos en Palacio",
+      "mensaje_sha256": "cceeab89ece8f4ff4e4dbbea483d3197a9f4e25852a98ff1c5d1d812f86220ca",
+      "tipo_discord": 19,
+      "referencia": "1391744902198591488",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1391745072583675905",
+      "texto_sha256": "14a24c19df745c48602d15e2dfd1ee4c61081ba61e232cf8beffeb7de64bc150",
+      "adjuntos": []
+    },
+    {
+      "id": "1391745376868106261",
+      "fecha_utc": "2025-07-07T11:39:15.224000+00:00",
+      "fecha_local": "2025-07-07",
+      "editado_utc": null,
+      "texto": "Banzo : fins ara macu** te dice en abisal y cuelga **",
+      "mensaje_sha256": "9bccec70d80d6d5d4297bf729798cf209ad4f67ffa6d78d7271e1fa5dcb1b0f3",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1391745376868106261",
+      "texto_sha256": "e237c04757e531998aeb54928f40882d1965af9e51eddc04247b36cb6272eefe",
+      "adjuntos": []
+    },
+    {
+      "id": "1391745540110155868",
+      "fecha_utc": "2025-07-07T11:39:54.144000+00:00",
+      "fecha_local": "2025-07-07",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "b9a758dd6f998bafd234d5455fa16776a5ac795d1321b57e4918d2aeecdb7e8b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1391745540110155868",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "k-1384141096967475242",
+  "campana": "kuroto",
+  "unidad_revision": "k-1384141096967475242",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Kurobane abre la segunda nota",
+  "resumen": "El ninja lee el nuevo recado de Danifae y sale a buscarla sin revelar su contenido.",
+  "relato": "Kurobane se levanta en silencio para no despertar a la persona que duerme a su lado, se viste y deja el cuarto con cuidado. Se sienta en la sala y abre por fin la nota de Danifae. Tras leerla, la arruga y contiene la ira. Mira hacia su habitación, logra relajarse un poco y sale a buscar a la drow por la ciudad. El texto de la nota y la identidad de quien sigue durmiendo no se explican en esta intervención.",
+  "participantes": [
+    "Kurobane"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1384141096967475242",
+      "afirmacion": "Kurobane lee y arruga la nota de Danifae antes de salir a buscarla.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Dos mensajes íntegros. La segunda nota sí se lee, pero su contenido sigue sin estar transcrito. No se da por cumplido el encargo."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-16T12:02:33.615000+00:00",
+  "fin_utc": "2025-06-16T13:56:30.748000+00:00",
+  "fecha_local": "2025-06-16",
+  "intervalo": {
+    "anterior": 127,
+    "siguiente": 128,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1382781538868920370",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1384592935672086533",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 127,
+        "fecha": "2025-06-12",
+        "inicio_referencia_utc": "2025-06-12T17:59:57+00:00",
+        "fin_estimado_utc": "2025-06-12T20:38:52+00:00",
+        "duracion_video_segundos": 9535,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1382781538868920370"
+      },
+      {
+        "capitulo": 128,
+        "fecha": "2025-06-17",
+        "inicio_referencia_utc": "2025-06-17T17:57:43+00:00",
+        "fin_estimado_utc": "2025-06-17T20:42:20+00:00",
+        "duracion_video_segundos": 9877,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1384592935672086533"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1384141096967475242",
+      "fecha_utc": "2025-06-16T12:02:33.615000+00:00",
+      "fecha_local": "2025-06-16",
+      "editado_utc": "2025-06-16T13:12:27.306000+00:00",
+      "texto": "Kurobane:\n\n**Se levanta lentamente y en sigilo para no molestar a la persona que se encuentra a su lado, se coloca la parte de arriba de su ropa de monje, abre lentamente la puerta, sale y cierra la puerta detrás suya**\n\n*Y bien, que será esta vez?*\n\n**Piensa mientras camina para sentarse en una de las sillas y, finalmente, abre lentamente la notita que Danifae le dio el día anterior, después de leer la notita le hace una pelota**\n\nDonde estás, Danifae?\n\n**Dice tranquilo pero está aguantando la ira, pero mira en dirección a su habitación, se relaja y  sale de la base en dirección a la ciudad para buscar a la drow**\n\n🌘  Kurobane sale de escena 🌘",
+      "mensaje_sha256": "c02d30f0ff81161dbab1aa4b4b997ff50a201d4ca4e8fde52e77fe50875324e9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1384141096967475242",
+      "texto_sha256": "84483e99fdbf12a6c66d831614a3f7c38cd407bb1956e714d747b9a9c4dad1d6",
+      "adjuntos": []
+    },
+    {
+      "id": "1384169773981634590",
+      "fecha_utc": "2025-06-16T13:56:30.748000+00:00",
+      "fecha_local": "2025-06-16",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "f1498b56b22bc8e731fe91ae439ddea5c08c6b2c66ed5d8804a079f9f630d433",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1384169773981634590",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

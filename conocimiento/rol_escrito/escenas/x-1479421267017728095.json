@@ -1,0 +1,298 @@
+{
+  "id": "x-1479421267017728095",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1479421267017728095",
+  "hilo_id": "1465411590789795962",
+  "hilo_nombre": "Shiaru - El ron de Bonny",
+  "titulo": "Dos hermanos se pierden cerca de Shiaru",
+  "resumen": "Sus recuerdos de aventuras y reproches se interrumpen por tres deinonychus; la muchacha paraliza a su hermano para lanzarse sola.",
+  "relato": "A unos diez kilómetros de Shiaru, dos hermanos sin nombre discuten tras días buscando un poblado. Ella asegura haberlo visto cuando rescataba al otro de unas dríadas y encontró a una mujer con rastas. Él recuerda otros peligros a los que lo arrastró, incluida una cueva con un insecto enorme y un coliseo donde sufrió fracturas. Ella insiste en que ganó el premio. Son relatos retrospectivos de sus desacuerdos.\n\nUn abrazo los derriba y relaja por un instante el enfado. Después aparecen tres deinonychus. La joven saca dos espadas cortas, una chisporroteante, y se corta bajo las cejas antes de adoptar posición de ataque. El hermano invoca dagas moradas y recuerda que apostar cervezas no tiene sentido si comparten dinero.\n\nElla pronuncia una orden cargada de magia que lo deja inmóvil y carga contra los animales. La escena termina con el hermano gruñendo impotente. No muestra la lucha resuelta, muertes ni llegada al poblado.",
+  "participantes": [
+    "Hermana sin nombre",
+    "Hermano sin nombre"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1479421267017728095",
+      "afirmacion": "La muchacha relata haber visto el poblado al rescatar a su hermano de dríadas.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1479430009671127092",
+      "afirmacion": "Aparecen tres deinonychus.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1479446590057091143",
+      "afirmacion": "La muchacha paraliza a su hermano con magia y carga contra las criaturas.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No fijar los nombres solo por compartir autores de Discord con personajes de otras unidades; mantener el enlace editorial hasta identificación textual suficiente.",
+    "El corte y la energía de las armas describen el gesto, sin conceder una nueva mecánica permanente.",
+    "Cierre formal antes del resultado del combate."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-03-06T10:11:56.375000+00:00",
+  "fin_utc": "2026-03-06T12:00:42.482000+00:00",
+  "fecha_local": "2026-03-06",
+  "intervalo": {
+    "anterior": 12,
+    "siguiente": 13,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1479193258008772802",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1479570997991706655",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 12,
+        "fecha": "2026-03-05",
+        "inicio_referencia_utc": "2026-03-05T19:05:36+00:00",
+        "fin_estimado_utc": "2026-03-05T22:20:15+00:00",
+        "duracion_video_segundos": 11679,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1479193258008772802"
+      },
+      {
+        "capitulo": 13,
+        "fecha": "2026-03-06",
+        "inicio_referencia_utc": "2026-03-06T20:06:30+00:00",
+        "fin_estimado_utc": "2026-03-06T22:22:52+00:00",
+        "duracion_video_segundos": 8182,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1479570997991706655"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1479421267017728095",
+      "fecha_utc": "2026-03-06T10:11:56.375000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": null,
+      "texto": "**EN LAS AFUERAS DE SHIARU, A UNOS 10 KM...**\n\n???: Te digo que había un poblado por aquí **Dice la muchacha** Lo vi cuando te capturaron esas dríadas y me pidieron un cuerpo a cambio de otro... y encontré a esa borracha con rastas\n<@753394009153732689>",
+      "mensaje_sha256": "f05ae98964f3fffca5231d6f56865779ffada96871ef2ad187bbfbe35596c023",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479421267017728095",
+      "texto_sha256": "21f341045152ebf4dfddc424f45a83f05612d75b88db3075388cda28e70c6b7e",
+      "adjuntos": []
+    },
+    {
+      "id": "1479421860381855896",
+      "fecha_utc": "2026-03-06T10:14:17.844000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": null,
+      "texto": "???: **Pone los ojos en blanco** ¿Seguro no te tomaste una de esas frutas y alucinaste otra vez? Llevamos dias dando vueltas por culpa de ese **Hace comillas con los dedos** Poblado",
+      "mensaje_sha256": "86a206d0d502394e0a3f2fb581c5d9b662a7720280571c3546ac90452815a65e",
+      "tipo_discord": 19,
+      "referencia": "1479421267017728095",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479421860381855896",
+      "texto_sha256": "54fb9206ae2ba79fcaf610c3dbc8a499a61d1b90b60ecd994af6fc3e48d7d82f",
+      "adjuntos": []
+    },
+    {
+      "id": "1479422303585702034",
+      "fecha_utc": "2026-03-06T10:16:03.512000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": null,
+      "texto": "???: Que te digo que vi un poblado... **Refunfuña y pone cara de puchero** Nunca confias en mi, hermanito...",
+      "mensaje_sha256": "d2185575715a7c83ad39b6a7a4e4cdbb9287e7b9841f1be42e0c5d96391884ea",
+      "tipo_discord": 19,
+      "referencia": "1479421860381855896",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479422303585702034",
+      "texto_sha256": "fea7d9fa489dad12d8d759e0db5f8cd66602f25cb88dd1e29f0861dda2c1e00c",
+      "adjuntos": []
+    },
+    {
+      "id": "1479422971646054401",
+      "fecha_utc": "2026-03-06T10:18:42.790000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": "2026-03-06T10:18:52.063000+00:00",
+      "texto": "???: ¿Te recuerdo aquella vez que te metiste sin mirar en una cueva y salio un bicho enorme del que tuvimos que huir por horas? ¿O la vez que me dijiste hermanooo hermanoooo he consegudo un trabajo... Y el trabajo era literalmente meternos en un coliseo de gladiadores?",
+      "mensaje_sha256": "1e6afba9003db07c0f720b52c52128eec10ce906bb543788806ed1298675539c",
+      "tipo_discord": 19,
+      "referencia": "1479422303585702034",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479422971646054401",
+      "texto_sha256": "ec8edcbde24c0da296f16198acb68eefa19198b93236f898ff15b2295d5f5348",
+      "adjuntos": []
+    },
+    {
+      "id": "1479423532025778338",
+      "fecha_utc": "2026-03-06T10:20:56.395000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": null,
+      "texto": "???: Estuvimos huyendo por horas porque no me dejaste pelear con eso.... le habria dado una paliza... Y bueno, lo del coliseo era un trabajo... al final gane y nos dieron el premio",
+      "mensaje_sha256": "7f64d6ed27aa276504a926c855662163ea8f9cc1dcd7997dda388278c40511c6",
+      "tipo_discord": 19,
+      "referencia": "1479422971646054401",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479423532025778338",
+      "texto_sha256": "346f80873f5469ffc8bbea1f4b1ee7a509b0f3e1ac9fbd1d738f94687aaa77e5",
+      "adjuntos": []
+    },
+    {
+      "id": "1479424535068414144",
+      "fecha_utc": "2026-03-06T10:24:55.539000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": null,
+      "texto": "???: ...**Se la queda mirando unos segundos para que reflexione... Pero sabe que no lo hara** Claro... Vas tu a pelearte con un insecto de cinco metros de alto y ganarle... ¡Y lo del coliseo claro que te lo pasastes bien... A ti no te engancharon de una cuerda y arrastraron por toda la arena! ¡Tarde semanas en recuperarme de los huesos rotos!",
+      "mensaje_sha256": "a77f7276de37621c6080f1d7637b73cdb49bc82dfff12e1405737447fb543790",
+      "tipo_discord": 19,
+      "referencia": "1479423532025778338",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479424535068414144",
+      "texto_sha256": "1958312e6cb16c98708ad32b56ece0301724c288853ed9c88e9f4fe848372c12",
+      "adjuntos": []
+    },
+    {
+      "id": "1479425205708390410",
+      "fecha_utc": "2026-03-06T10:27:35.432000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": null,
+      "texto": "???: Jajajajajaja no me acordaba de eso... me reí un monton mientras esos enormes semiorcos te arrastraban por la arena y tu intentavas agarrarte a cualquier cosa jajajajaja**Se seca las lagrimas mientras avanza por la jungla** No hemos enfrentado a cosas mas grandes que ese insecto **Ves que se toca la espada corta que lleva colgada en el cinto, esta chisporrotea un segundo**",
+      "mensaje_sha256": "96b16460e27bd450150fb13068dc6c05d86de3ce3c8f12d9deafeed4c9888ae6",
+      "tipo_discord": 19,
+      "referencia": "1479424535068414144",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479425205708390410",
+      "texto_sha256": "4442522bf191933f41349eeb07eef93331afc51de31c20145bff3c78f65c5f43",
+      "adjuntos": []
+    },
+    {
+      "id": "1479426312849588224",
+      "fecha_utc": "2026-03-06T10:31:59.395000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": null,
+      "texto": "???: Mmmmmmmrrrrrgggg **Gruñe levantando el labio** Ya claro y siempre acabo yo herido de gravedad, claro como a nadie le importo una mierda **Empieza a refunfuñar**",
+      "mensaje_sha256": "695d13c930d55f25983ab3699eb49ef53b5a0a4aa88fcca630a1e00191e0c5a1",
+      "tipo_discord": 19,
+      "referencia": "1479425205708390410",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479426312849588224",
+      "texto_sha256": "be3e621bb8fdc4cafafff377ed2a9cf105659cd85ee23861e40963322d6dfe0a",
+      "adjuntos": []
+    },
+    {
+      "id": "1479427291762135051",
+      "fecha_utc": "2026-03-06T10:35:52.786000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": null,
+      "texto": "???: **Ves que se te queda mirando unos segundos con una sonrisita y salta hacia ti para darte un abrazo que te empuja y os caéis los dos al suelo** ¡A mi si me importas hermanito! Ya sabes que si te hieren, yo te curo jajajajaja",
+      "mensaje_sha256": "826916cd2f158cf7fdceb83cf4a514decb605fda8c0031791082ef0c9a0a90d8",
+      "tipo_discord": 19,
+      "referencia": "1479426312849588224",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479427291762135051",
+      "texto_sha256": "8c06bdcee5007132070ce745cced27df6e5a4706b3315531d266d6f4c556ca04",
+      "adjuntos": []
+    },
+    {
+      "id": "1479428434261446840",
+      "fecha_utc": "2026-03-06T10:40:25.179000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": null,
+      "texto": "???: ¡Ah! ¡Joder! Mmmmmmmrrrrrrggggg...**Empieza otra vez a gruñir... Pero deja de hacerlo al poco y solo pone cara de resignacion ante el castigo divino que le otorgaron al nacer** Ya ya... Anda... Quitate que apestas...Joder necesito yo tambien un baño...",
+      "mensaje_sha256": "bbd5084b5d1390d25ab47feb5cba987282af543d68e44719f51f4a66a157b42c",
+      "tipo_discord": 19,
+      "referencia": "1479427291762135051",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479428434261446840",
+      "texto_sha256": "0570a01ced9c88e98900593a8950fb923cbc529caa977752cb9d240d22d2825d",
+      "adjuntos": []
+    },
+    {
+      "id": "1479430009671127092",
+      "fecha_utc": "2026-03-06T10:46:40.786000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": null,
+      "texto": "???: La verdad es que si apestamos.... puag... **Se levanta de encima de ti mientras se huele el sobaco y pone cara de asco. En ese momento, algo se escucha entre la densa jungla, lo que parece un gruñido amenazante... Al poco, tres Deinonychus aparecen de entre los matorrales. Una sonrisa aparece en el rostro de la muchacha** Creo que tenemos compañia, hermanito",
+      "mensaje_sha256": "983cbfb138b67e621c548b8dc409a04b1bd4f9c851694dedf5bdb7dee43b3efc",
+      "tipo_discord": 19,
+      "referencia": "1479428434261446840",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479430009671127092",
+      "texto_sha256": "186f9051d5986816a094f9e2da6ad3263b8aa89001a78952ede8d2e78ff5d750",
+      "adjuntos": []
+    },
+    {
+      "id": "1479434230907015198",
+      "fecha_utc": "2026-03-06T11:03:27.207000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": null,
+      "texto": "???: **Se levanta viendo a los lagartos** Mierda... ¿Por que no podemos tener un dia tranquilo? **se pone en pie pegando su espalda a la tuya**",
+      "mensaje_sha256": "3e44496c33b4119a86d13efe78b7e061ea0653b89dfbe3b3afb88690d0954be6",
+      "tipo_discord": 19,
+      "referencia": "1479430009671127092",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479434230907015198",
+      "texto_sha256": "b4b04c5b67fb9cf75ff858b87c140d183f3d6f6a4975af7390abeb6f9071c24b",
+      "adjuntos": []
+    },
+    {
+      "id": "1479435575877439631",
+      "fecha_utc": "2026-03-06T11:08:47.873000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": null,
+      "texto": "???: **La muchacha desenfunda dos espadas cortas y se hace un corte por debajo de las cejas. La sangre le cae por el rostro cubriendo sus ojos en un aspecto tenebroso. Mueve las dos espadas con una pirueta y se coloca en posicion de ataque** Quien mate mas bichitos, invita a cerveza, eh hermanito...",
+      "mensaje_sha256": "6f251a815b680290519c1d04bbba3a2d02cd756581c5539a3d3d8a4232d35659",
+      "tipo_discord": 19,
+      "referencia": "1479434230907015198",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479435575877439631",
+      "texto_sha256": "85f12067c4f47b159c2899091ae6a86bbb64959c6d597bae6697b0aef3ad3637",
+      "adjuntos": []
+    },
+    {
+      "id": "1479446083078848563",
+      "fecha_utc": "2026-03-06T11:50:32.985000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": null,
+      "texto": "???: **Pone los ojos en blanco** Compartimos el mismo dinero idiota **En sus manos aparecen unas dagas de un color morado**",
+      "mensaje_sha256": "d0613e51f10e7fbec4fb57d83a3af643f6bb2fceaedea49915371d4004fe1e04",
+      "tipo_discord": 19,
+      "referencia": "1479435575877439631",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479446083078848563",
+      "texto_sha256": "5ae07b0f62df1afbf63184f1931034ecab598d67f962933e027a1e3d3c6e7dd0",
+      "adjuntos": []
+    },
+    {
+      "id": "1479446590057091143",
+      "fecha_utc": "2026-03-06T11:52:33.858000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": "2026-03-06T11:53:06.741000+00:00",
+      "texto": "???: **Sonrie de manera malvada, esa mirada de tu hermana que sabes que te va a chinchar** Bueno, pero tendras que pedirlo tu.... ¡Quieto! **Ves que esa ultima palabra va cargada con magia y te deja paralizado en ese punto mientras ella se lanza como una loca salvaje hacia los tres dinosaurios** Os voy a hacer papilla bichitos!",
+      "mensaje_sha256": "b3d9e4240e7c4a3b8d0025c1f42cd9882352c6f8ee349c9a2f76df8f44b2f447",
+      "tipo_discord": 19,
+      "referencia": "1479446083078848563",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479446590057091143",
+      "texto_sha256": "940294e994509accdf2be1ad06ede7703fefe51cbd316f403b0bfc72efbc2542",
+      "adjuntos": []
+    },
+    {
+      "id": "1479447727275380806",
+      "fecha_utc": "2026-03-06T11:57:04.992000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": null,
+      "texto": "???: **Se queda paralizado... Solo se escucha un...** Mmmmmmmmrrrrrrggggggg **ahogado y como mira con odio a su hermana**",
+      "mensaje_sha256": "e827861091959b8d23771e1662b92237dfc902b9eec890c892963884fe76ab0a",
+      "tipo_discord": 19,
+      "referencia": "1479446590057091143",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479447727275380806",
+      "texto_sha256": "53c95f3d2379dc39cc2201fdc15d8a20e0fad17c6f19a59ffb904788658eb378",
+      "adjuntos": []
+    },
+    {
+      "id": "1479448639494688874",
+      "fecha_utc": "2026-03-06T12:00:42.482000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": null,
+      "texto": "🔴Fin de la Escena🔴",
+      "mensaje_sha256": "617e8a0912d43d238c1593230ed3fe5c5067735f63503404b2ab33121d5d61a4",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479448639494688874",
+      "texto_sha256": "7b48f784e7d27f7d504591e65457ee8f6f5f093e0fa68b31981cee30b6cd3584",
+      "adjuntos": []
+    }
+  ]
+}

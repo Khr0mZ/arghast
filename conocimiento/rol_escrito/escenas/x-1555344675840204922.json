@@ -1,0 +1,99 @@
+{
+  "id": "x-1555344675840204922",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1555211670056599685",
+  "hilo_id": "1524091803647741996",
+  "hilo_nombre": "Jungla - En alguna parte de Xoltacán",
+  "titulo": "Archi disecciona al dragón",
+  "resumen": "Empieza a cortar con sus robots buscando un ojo para la lámpara.",
+  "relato": "Después de la batalla, Archi llega con sus robots y sierras. Dice haber seguido lo ocurrido por una tableta y se propone recuperar un ojo que los demás dejaron atrás para su lámpara de lava. Empieza a cortar y diseccionar al dragón mientras canta. No termina el trabajo ante el lector ni fabrica la lámpara.",
+  "participantes": [
+    "Archi",
+    "Robots de Archi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1555344675840204922",
+      "afirmacion": "Archi llega buscando un ojo y trae sierras y robots.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1555486234896371844",
+      "afirmacion": "Inicia la disección.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Separar las tres viñetas; sus protagonistas no comparten una conversación.",
+    "La sospecha de una traición interior es conclusión de Naór, sin identificación probada.",
+    "El ojo buscado por Archi no se muestra extraído aquí.",
+    "La muerte de Ilikar no se explica por el mero traslado; las escenas posteriores sí la confirman."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2026-10-01T22:24:27.627000+00:00",
+  "fin_utc": "2026-10-02T07:46:57.936000+00:00",
+  "fecha_local": "2026-10-02",
+  "intervalo": {
+    "anterior": 66,
+    "siguiente": 69,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 66,
+        "fecha": "2026-09-22",
+        "inicio_referencia_utc": "2026-09-22T18:20:03+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241"
+      },
+      {
+        "capitulo": 69,
+        "fecha": "2026-10-08",
+        "inicio_referencia_utc": "2026-10-08T18:17:02+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1555344675840204922",
+      "fecha_utc": "2026-10-01T22:24:27.627000+00:00",
+      "fecha_local": "2026-10-02",
+      "editado_utc": "2026-10-01T22:24:54.620000+00:00",
+      "texto": "Archi : **después de la batalla Archi se acerca a la zona , parece que ha visto todo desde tu tableta ** \n\nBueno toca trabajar estos cabrones se han olvidado del ojo , pues no me voy a quedar sin lampara de lava \n\n**se acerca hasta el dragon con todas sus robots y un par de sierras mecánicas en cada mano **",
+      "mensaje_sha256": "ecb0ad540709ed93d88fbcdc56cfc0826d2de4897b30735d3de7e57f7855bd75",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1555344675840204922",
+      "texto_sha256": "68d57e13859a83a6a8551bf413393abdef107e7ee9634b4840db837ec99e4764",
+      "adjuntos": []
+    },
+    {
+      "id": "1555486234896371844",
+      "fecha_utc": "2026-10-02T07:46:57.936000+00:00",
+      "fecha_local": "2026-10-02",
+      "editado_utc": null,
+      "texto": "Archi : 🎵  corta aquí corta allá maquillate maquillate , una el elfa que va palmar , \nY olvidate olvidate 🎵  . \n\nCorta aquí corta allá \n**el gnomo va cortando y diseccionando junto con las robots mientras canta una canción **",
+      "mensaje_sha256": "7eeb9216b7eb6d82cac7d0445067ae4ded1cb27ee5f30339ca546f9721539c0a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1555486234896371844",
+      "texto_sha256": "07eb4ccd8a0cd1ce1e7618cb0afb26a384fcdd448e3d099c7ef71889330330af",
+      "adjuntos": []
+    }
+  ]
+}

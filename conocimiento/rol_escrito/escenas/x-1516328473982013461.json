@@ -1,0 +1,326 @@
+{
+  "id": "x-1516328473982013461",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1516328473982013461",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "Eleanor cuida a Erandi y conoce las palabras de Bonny",
+  "resumen": "El Zampaolas ya flota. La escudera llega nadando y recibe abrigo, junto con una conversación sobre alianzas, fe y confianza.",
+  "relato": "Después de observar a Ilikar e Ione, Erandi descubre que el Zampaolas ya está a unos metros de la costa, sostenido por la estructura que construyeron los trillizos. No sabe bajar por cabos ni hacer equilibrio sobre el soporte, de modo que salta y nada con la armadura. Al llegar está empapada, cansada y temblorosa. Eleanor la ve, abandona una conversación con un pirata y va a recibirla.\n\nSu señora la cubre con la capa, la abraza y la lleva en brazos buscando un lugar seco y comida caliente. Erandi cuenta el esfuerzo para sacar el barco y la pelea con el pulpo gigante, nombrando a quienes ayudaron. Son su testimonio de una acción previa, no una nueva representación del combate. Propone conservar buenas relaciones con Ione y los otros, pero Eleanor distingue una alianza útil de una confianza sin cautelas. Sus opiniones sobre Poncelot son juicios del personaje, no diagnósticos del narrador.\n\nErandi vuelve sobre la búsqueda que pagó a Bonny y enseña un jade hallado con el botín, parecido al que entregó. Eleanor afirma ahora que ninguno de sus hombres fue a buscarla. La escudera explica lo que la pirata insinuó sobre el poco valor de su paga, su posición junto a su señora y su devoción solar. Esas palabras la han hecho dudar y sufrir.\n\nEleanor rechaza que alguien que apenas las conoce pueda juzgar su fe o su historia. Defiende el valor de Erandi y anuncia que hablará con Bonny para entender por qué la trató así, aunque esa conversación no ocurre todavía. La kender se calma y acepta comer. No se atribuye al dios Sol la devolución del jade ni se demuestra que sea la misma pieza.",
+  "participantes": [
+    "Erandi",
+    "Eleanor Roosevelt"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1516333698348224512",
+      "afirmacion": "El barco está a flote sostenido por la estructura.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1516355834534301696",
+      "afirmacion": "Erandi llega a la costa después de nadar.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1516575948252643359",
+      "afirmacion": "Eleanor la abriga y carga.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1516928471564029953",
+      "afirmacion": "Eleanor afirma que nadie de Bonny fue a buscarla.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1517074478968864839",
+      "afirmacion": "Erandi explica el daño causado por aquellas insinuaciones.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1517157377147928626",
+      "afirmacion": "Eleanor reafirma su confianza y anuncia hablar con Bonny.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Las horas de publicación abarcan varios días; el relato conserva la continuidad de la conversación sin inventar varios días caminando.",
+    "El reflotamiento queda confirmado por narración del estado del barco; las partes exactas del combate previo se conocen aquí por Erandi.",
+    "La intención de hablar con Bonny no se convierte en una confrontación ya ocurrida."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-06-16T06:28:00.218000+00:00",
+  "fin_utc": "2026-06-18T13:37:58.422000+00:00",
+  "fecha_local": "2026-06-16",
+  "intervalo": {
+    "anterior": 38,
+    "siguiente": 39,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149383024690/1515976737605816332",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1517589464363434048",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 38,
+        "fecha": "2026-06-15",
+        "inicio_referencia_utc": "2026-06-15T18:00:00+00:00",
+        "fin_estimado_utc": "2026-06-15T20:23:29+00:00",
+        "duracion_video_segundos": 8609,
+        "tipo_referencia": "programacion",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149383024690/1515976737605816332"
+      },
+      {
+        "capitulo": 39,
+        "fecha": "2026-06-19",
+        "inicio_referencia_utc": "2026-06-19T17:58:26+00:00",
+        "fin_estimado_utc": "2026-06-19T20:14:22+00:00",
+        "duracion_video_segundos": 8156,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1517589464363434048"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida."
+  },
+  "fuentes": [
+    {
+      "id": "1516328473982013461",
+      "fecha_utc": "2026-06-16T06:28:00.218000+00:00",
+      "fecha_local": "2026-06-16",
+      "editado_utc": null,
+      "texto": "Erandi:\n**Tras ese despliegue de acción, podría notar que habría algo de tensión para luego ¿Recomponerse? Desde lejos es difícil de distinguir. Habría esperado un par de minutos, solo para asegurarse de que nada no hubiera salido de control, para luego observar que habrían estado desde lo lejos por la.playa, pasándo un buen rato**\n*-\"mmmmh... supongo que está todo mejor...? Estas interacciones entre humanos es difícil de comprender...¿Quizás deba integrarme mejor...? Pero ya lo intento y me sugieren cosas extrañas...\"*\n**Piensa para si misma, buscando la forma de escabullirse de alli ahora viendo que el barco se ha desencajado de la piedra**\n-Ay no! Y ahora como saldré de aquí?!\n**Observa con nerviosismo, intentando localizar alguna salida viable**\n<@214405113677217793> (te tageo mas que nada para ver como se puede safar porque no conoce el barco bien)",
+      "mensaje_sha256": "5cbbc8012395268336d271053c3c10ec1f861e9fbc9cc487a64a2ce80a2ede9b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516328473982013461",
+      "texto_sha256": "71b48c0a8e2a4d70ad007b16ac444135233b372def01021fcf114ded5536d94d",
+      "adjuntos": []
+    },
+    {
+      "id": "1516333698348224512",
+      "fecha_utc": "2026-06-16T06:48:45.804000+00:00",
+      "fecha_local": "2026-06-16",
+      "editado_utc": null,
+      "texto": "**El Zampaolas está a unos metros de la costa. Amarrado por la estructura que montaron los Trillizos bajo el barco, este se sostiene a flote a duras penas.\nEn cubierta ves a esos trizillos limpiando y preparando el lugar para reconteuir la proa.\nAl fijarte como salir del barco hay tres opciones; usar la estructura para llegar a la costa haciendo equilibrio como los trapecistas por encima de un mar del que has visto salir un pulpo gigante. Usar unos cabos colgados para impulasrte hacia la costa pero sin saber donde acabarás estampada o, la última opción, saltar al agua y nadar con la esperanza de que el peso de tu equipo no te hunda.**",
+      "mensaje_sha256": "41af4a61c1b49b6ce3232fbd2e6f94e8575d401a6de9b918a50068e512db6cae",
+      "tipo_discord": 19,
+      "referencia": "1516328473982013461",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516333698348224512",
+      "texto_sha256": "b3875538742cce5fa4318c83c94cdf652574694294e28738ab386c924d96146d",
+      "adjuntos": []
+    },
+    {
+      "id": "1516337875044798604",
+      "fecha_utc": "2026-06-16T07:05:21.606000+00:00",
+      "fecha_local": "2026-06-16",
+      "editado_utc": null,
+      "texto": "Erandi: \n**observa con nervios el agua, luego los cabos, y despues donde tendria que hacer equilibrio**\n-*\"OOOWUU...esto no me gusta nada....a la proxima tendre el hechizo de Recado preparado..asi podre llamar a mi señora para que me saque de estos aprietos\"*\n**traga saliva, observandose el tipo de armadura que tiene**\n(Que por lo que recuerdo es entre media a ligera, no debe ser nada demasiado estrambotico)\n-Mmmmh...ay....\n**toma una enorme bocanada de aire, a sabiendas que al momento en que su cabello toque el agua se le hara mas violento y rizado**\n-*\"Se valiente como tu señora, se valiente como tu señora..!\"*\n**se dice a si misma, dando un salto en el sitio menos riesgoso para emprender su nado hasta la orilla, rezando de que nada raro se le cruce**",
+      "mensaje_sha256": "7dcf1d955779d0d21eef23508ad2a041e85b188d25b7a58ce571d44bc61a0509",
+      "tipo_discord": 19,
+      "referencia": "1516333698348224512",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516337875044798604",
+      "texto_sha256": "126d3d30f9f060cf6509c191a3d74042b0741ad45d33ccdaaf563a89dccffcdd",
+      "adjuntos": []
+    },
+    {
+      "id": "1516355834534301696",
+      "fecha_utc": "2026-06-16T08:16:43.482000+00:00",
+      "fecha_local": "2026-06-16",
+      "editado_utc": null,
+      "texto": "Erandi: \n**tras nadar unos minutos llegaria hasta la orilla, sintiendo por su armadura como el agua le llega hasta la nariz, teniendo unos pocos problemas para su travesia**\n-Huff...buzff...Buff...\n**se ve toda empapada, buscando con la mirada si su señora estaria entrenando como de costumbre**\n-*\"Uf....uffff...m-me..vendria....bien...algo caliente...\"*\n**piensa para si misma, comenzando a caminar por el lugar buscando a Eleanor**\n<@449688546580627476>",
+      "mensaje_sha256": "f773c6a594c7d869bdd5c13a4d0d7df23aac57c4c5403fed34bc3428a74480f0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516355834534301696",
+      "texto_sha256": "c40cd6b2da753995ca4a2f67311b9514dda4462a56e271fc1b63627f57cb14e1",
+      "adjuntos": []
+    },
+    {
+      "id": "1516570464523391168",
+      "fecha_utc": "2026-06-16T22:29:35.259000+00:00",
+      "fecha_local": "2026-06-17",
+      "editado_utc": null,
+      "texto": "Eleanor:\n\n**Me encuentro sentada en una de las mesas exteriores de la taberna, observando el movimiento constante de los muelles de Shiaru. Frente a mí, un viejo pirata habla sin descanso mientras vacía una jarra tras otra mientras mi propia bebida permanece intacta.**\n*Si la mitad de lo que cuenta es cierto, esta isla es más peligrosa de lo que parece, y si la otra mitad es cierta, el ron le ha derretido el cerebro hace años.*\n**Asiento ocasionalmente mientras el hombre continúa relatando historias sobre monstruos marinos, tesoros perdidos y capitanes legendarios.**\n\n**Entonces algo llama mi atención en la costa.**\n\n**Entrecierro ligeramente los ojos.**\n*...No.*\n**Miro de nuevo.**\n*Sí.*\n\n**Una pequeña figura emerge del agua con toda la gracia de un ladrillo arrojado por la borda permanezco observando unos segundos.**\n\n*¿Ha cruzado nadando? ¿on la armadura puesta?*\n\n**Dejo unas monedas sobre la mesa y me pongo en pie.**\n-He escuchado suficiente por hoy. **El viejo pirata sigue hablando. Probablemente ni siquiera ha notado que me he marchado.**\n\n**Camino hacia la playa mientras observo a Erandi avanzar empapada hacia tierra firme.** *Un día desaparecerá durante una semana.* *Otro día cruzará el océano vestida como una olla de hierro flotante.* *Y luego se preguntará por qué me preocupo.*\n**Cuando finalmente llega hasta mí, cruzo los brazos y la observo de arriba abajo.**\n**Agua cayendo del cabello.**\n**Agua cayendo de la armadura.**\n**Agua cayendo de lugares que ni siquiera deberían almacenar agua.**\n**Permanezco en silencio durante varios segundos.**\n-...Necesito hacer una pregunta muy importante. **Inclino ligeramente la cabeza.**\n-¿El océano te atacó?\n**Hago una breve pausa.**\n-¿O fuiste tú quien decidió atacarlo primero?\n**Alzo una ceja mientras continúo examinándola en busca de heridas.**\n*Empapada.*\n*Cansada.*\n*Sin miembros faltantes.*\n\n*Considerando sus antecedentes, podría haber sido mucho peor.*\n\n**La tensión abandona mis hombros casi al instante.** *Bien. Está bien.*\n**Extiendo una mano y retiro una hoja atrapada en su cabello mojado.**\n\n-Aunque debo admitir algo. **Sacudo la hoja antes de dejarla caer.**\n-No esperaba encontrarte regresando del mar. **La observo durante un instante más.**\n-A estas alturas había empezado a apostar por una explosión, un naufragio o alguna maldición antigua. **Mi expresión permanece completamente seria.** *Y lo peor es que ninguna de esas posibilidades era especialmente improbable.*",
+      "mensaje_sha256": "ee3dfd2f6e260837efd2aa9d70b27cca01d3cd640b018da3056c3ed8e36b54ac",
+      "tipo_discord": 19,
+      "referencia": "1516355834534301696",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516570464523391168",
+      "texto_sha256": "b586a3c6376f1f579909e6d90ce41695b55e118ab7ca2264b4117f0f64462c1f",
+      "adjuntos": []
+    },
+    {
+      "id": "1516571376842964992",
+      "fecha_utc": "2026-06-16T22:33:12.773000+00:00",
+      "fecha_local": "2026-06-17",
+      "editado_utc": null,
+      "texto": "Erandi:\n**Hace un resoplido, quitando parte de su flequillo empapado de sus ojos**\n-Puh! Ay! Mi señora! Q-Qu-Que V-V-Ver-Vergüenza...P-P-Prrre..sentarme ante u-u-usted asi...\n**Tiemblo un poco por el frio, aunque haga sol el agua estaba fría**\n-P-P-Pen..saba q-q-que es.. estaría en-en-entrrrenando",
+      "mensaje_sha256": "8ee57c59afc0a16bab1a2bce04190946c8d2df0c09c8a417d82007e43bf3eb08",
+      "tipo_discord": 19,
+      "referencia": "1516570464523391168",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516571376842964992",
+      "texto_sha256": "550cb7b1e4e9b8a962db2d39891e7768f0bb4c0d26806e13abd59155635a57a1",
+      "adjuntos": []
+    },
+    {
+      "id": "1516573444982964374",
+      "fecha_utc": "2026-06-16T22:41:25.856000+00:00",
+      "fecha_local": "2026-06-17",
+      "editado_utc": null,
+      "texto": "**la observa atentamente, bajando ligeramente las orejas**\n-N-N-No es-es-estaba a-a-ayudado a l-l-la C-C-Cap-Capitana Io-Ione a..d-d-de-desencajar su b-b-barco\n**Abrazo mis bracitos, viendola con ojos de borrego moribundo**\n-P-Pe-Per..done..m-m-mi o-o-os-osadia...mi la-la-lady..p-pero..t-t-ten...dra..a-a-algo p-p-para secarme?",
+      "mensaje_sha256": "5fccaa43baa9cc0b4c013982dfa7abe31f91b176430978720f86b0880eb820c3",
+      "tipo_discord": 19,
+      "referencia": "1516570464523391168",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516573444982964374",
+      "texto_sha256": "9d21062c43b35518881f725485739b19abb9e598c0b49b58fc578062acd95a57",
+      "adjuntos": []
+    },
+    {
+      "id": "1516575948252643359",
+      "fecha_utc": "2026-06-16T22:51:22.682000+00:00",
+      "fecha_local": "2026-06-17",
+      "editado_utc": null,
+      "texto": "Eleanor:\n\n**La observo tiritar mientras intenta explicarse. Cuanto más habla, más agua parece caer de su armadura.** *Ha cruzado media isla nadando, está congelándose y aun así le preocupa dar una mala impresión.*\n**Dejo escapar un pequeño suspiro.**\n-La capitana Ione. **Asiento lentamente.**\n-Entonces al menos existe una explicación mejor que \"decidí desafiar al océano por diversión\". **Mi mirada se detiene en las orejas caídas y en el evidente temblor de sus brazos.** *Está helada.* **Sin pensarlo demasiado, me quito la capa de los hombros y la coloco sobre ella. La tela resulta mucho más cálida que la armadura empapada.**\n-Deja de disculparte. **Ajusto la capa para cubrirla mejor.**\n-No has hundido el barco.\n-No has hundido a la capitana.\n-Y aparentemente tampoco te has hundido tú.\n**Inclino ligeramente la cabeza.**\n-Considerando tus antecedentes, diría que es un día bastante exitoso. **Mi expresión permanece completamente seria.** *Aunque probablemente ha estado a una decisión cuestionable de distancia de convertirlo en un desastre.* **La veo temblar de nuevo.** *Increíble. Va a convertirse en un bloque de hielo delante de mí y seguirá preocupándose por el protocolo.*\n**Dejo escapar otro suspiro antes de acercarla hacia mí y la rodeo con los brazos y la abrazo con firmeza, protegiéndola del viento con la propia capa.**\n-Tranquila. **Mi voz suena más suave de lo habitual.**\n-No tienes que pedir permiso para necesitar ayuda. **Permanezco así unos instantes. Lo suficiente para comprobar lo fría que está.** *Definitivamente está congelada.*\n**Niego lentamente con la cabeza.**\n-Por todos los dioses, Erandi... **Antes de que pueda reaccionar, la levanto en brazos con facilidad.**\n**Como si no pesara nada.**\n-Vamos. **Comienzo a caminar en dirección al asentamiento.**\n-Tengo algo para secarte. **La miro de reojo.**\n-Y antes de que empieces a disculparte otra vez...\n-No.\n-No voy a bajarte.\n**Alzo una ceja.**\n-Considera esto una orden directa de tu señora.\n **Continúo avanzando entre las calles de Shiaru mientras la acomodo ligeramente para que la capa la cubra mejor.**\n-Un lugar seco.\n-Comida caliente.\n-Y una silla.\n**Hago una breve pausa.**\n-En ese orden. **La observo un instante. El cabello empapado. Las orejas caídas. La expresión agotada.** *Por todos los dioses...*\n*Parece un gato callejero al que alguien lanzó al mar.*\n**Mi expresión permanece completamente seria.**\n-No pienso permitir que mi escudera muera derrotada por agua fría.\n**Sigo caminando como si aquello fuese la afirmación más razonable del mundo.** *Porque tendría que escuchar las burlas durante el resto de mi vida.*",
+      "mensaje_sha256": "e55b3dd97ae4076b28c0de5c6c79e51e3d853fe6bc5a598cf1026e8420752831",
+      "tipo_discord": 19,
+      "referencia": "1516573444982964374",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516575948252643359",
+      "texto_sha256": "d87689b7293bb146db7cf6f90edea152934489cc9efee3cf237cee881bcc925b",
+      "adjuntos": []
+    },
+    {
+      "id": "1516578539728797747",
+      "fecha_utc": "2026-06-16T23:01:40.538000+00:00",
+      "fecha_local": "2026-06-17",
+      "editado_utc": null,
+      "texto": "Erandi:\n**Se acurruca en el cuerpo de su salvadora, resguardandose en esa sensación tan familiar, tan cercana**\n-Uummm...A-agra..dezco su benevolencia..mi señora\n**Toma parte de la tela para apretar contra su cabellera y secar lo mejor posible la misma, sin dejar de observarle**\n-La Capitana Ione... parecía deseosa de embarcarse en el mar...no se a donde se dirija..pero ha obtenido a un nuevo miembro de tripulación...un Goliath que lanza lanzas congeladas...Ilikar es su nombre mi señora..\n*Agita un poco las orejas, recobrando un poco el calor**\n-El barco estaba encallado... contra la cordillera rocosa de la isla...justo donde da la taberna..\n**Hace un gesto con la cabeza para que observe en dirección al barco**\n-Lo que no contábamos..es que un pulpo gigante nos intentara devorar..aunque entre todos hemos podido con él...estaba Sir Poncelot de la Lanza, caballero real de Lady Happy Bonny...La Capitana Ione..el nuevo Tripulante y un trío de hombres hipopótamo...y yo!",
+      "mensaje_sha256": "9f84a99b0f71890e539850e750b0f6e6d85501e85afd8356b521837bb6f08de9",
+      "tipo_discord": 19,
+      "referencia": "1516575948252643359",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516578539728797747",
+      "texto_sha256": "0cc553fb105e9bb119b3c2e764bd1f55f416e5245365b8974679c7728188b06f",
+      "adjuntos": []
+    },
+    {
+      "id": "1516579025722806272",
+      "fecha_utc": "2026-06-16T23:03:36.408000+00:00",
+      "fecha_local": "2026-06-17",
+      "editado_utc": null,
+      "texto": "-De..no ser por mi magia...la fuerza astronómica del Goliath...y las ocurrencias de Lord Sir Poncelot..dudo que la hubieramos contado..era gigantesca esa bestia! \n**Ladea la cabeza, pensativa**\n-Quiza sería una buena idea...tenerla en buena estima..no necesitamos formar parte de nadie..pero los aliados no vendrán mal para..hacer cumplir su voluntad mi Señora..",
+      "mensaje_sha256": "620a8b6750534a659e5e55faae212332889e6bbe847fea8cfb9ac19317420f25",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516579025722806272",
+      "texto_sha256": "1b489b270e5f77647f9416c239f600512894c6880a5f3adc26388176cce4ebe2",
+      "adjuntos": []
+    },
+    {
+      "id": "1516805730852802774",
+      "fecha_utc": "2026-06-17T14:04:27.123000+00:00",
+      "fecha_local": "2026-06-17",
+      "editado_utc": null,
+      "texto": "Eleanor:\n\n**Continúo caminando por las calles de Shiaru mientras escucho su relato. Mi expresión permanece serena, aunque mi mente ya está ordenando cada detalle que menciona.**\n*Ione ha conseguido sacar el barco, Bien, eso demuestra determinación al menos.*\n**Asiento ligeramente mientras sigo escuchando.**\n-Un barco encallado es un problema, sacar un barco encallado es una demostración de capacidad. **Mi mirada permanece al frente.**\n-La mayoría de personas se habría limitado a esperar ayuda.\n**Escucho en silencio cuando menciona a Ilikar.**\n-Un goliath que lanza lanzas congeladas... **Entorno ligeramente los ojos.**\n-Suena más útil que la mayoría de aventureros que he conocido.\n\n**Luego llega el nombre de Sir Poncelot.**\n**Permanezco callada unos instantes.**\n*Sir Poncelot... Paranoico. Impulsivo. Desconfiado, Exactamente la clase de hombre que sobrevive mucho tiempo.*\n**Desvío la mirada hacia Erandi.**\n-Hay algo que quiero que recuerdes. **Mi tono pierde parte de su ligereza habitual.**\n-No todas las personas peligrosas son monstruos marinos.\n-No todas las amenazas llevan colmillos. **Hago una breve pausa.**\n-Y no todas las personas que luchan a tu lado son tus amigas. **La acomodo ligeramente entre mis brazos mientras seguimos avanzando.**\n-Sir Poncelot puede ser un aliado útil, puede ser un hombre honorable, puede incluso ser alguien digno de confianza. **Niego suavemente con la cabeza.**\n-Pero nunca debes asumir ninguna de esas tres cosas. **Mi mirada se pierde durante un instante en alguna memoria lejana.** *He visto generales vender reinos enteros por una bolsa de monedas, he visto juramentos romperse antes de que la tinta terminara de secarse.*\n**Vuelvo a observarla.**\n-La confianza se gana y se verifica. **Mi voz permanece calmada.**\n-Las personas muestran quiénes son cuando tienen hambre o cuando tienen miedo o cuando creen que pueden obtener algo de ti. **Alzo ligeramente una ceja.**\n-Y los paranoicos suelen ser los primeros en abandonar un acuerdo si creen que eso les permitirá sobrevivir un día más. **Permanezco unos segundos en silencio.**\n-No digo que Sir Poncelot vaya a traicionarte, digo que jamás debes entregar tu espalda a alguien solo porque luchó a tu lado una vez. **Mi expresión se suaviza apenas un instante.**\n\n-Eres demasiado buena para este tipo de gente, Erandi. **Dejo escapar un pequeño suspiro.**\n-Y precisamente por eso necesito que seas más cuidadosa. **La observo de reojo.**\n-Hay personas que verán tu bondad y querrán protegerla, y hay otras que intentarán aprovecharse de ella. **Mi mirada vuelve al frente.**\n-Aprende a distinguir unas de otras, esa lección te mantendrá con vida mucho más tiempo que cualquier espada.",
+      "mensaje_sha256": "ed67e1db680251270bafa4501cccddb417b084382c4e939fa39175f0ee7c3d30",
+      "tipo_discord": 19,
+      "referencia": "1516579025722806272",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516805730852802774",
+      "texto_sha256": "7da3a05b2747f202b4ee7893bc5bf853713fd60fcf06f2d6fab1893a59852043",
+      "adjuntos": []
+    },
+    {
+      "id": "1516808763066159205",
+      "fecha_utc": "2026-06-17T14:16:30.059000+00:00",
+      "fecha_local": "2026-06-17",
+      "editado_utc": null,
+      "texto": "Erandi: \n**escucha con atencion, memorizando cada enseñanza como si escuchase a un profeta**\n-Mmmh...\n**ladeo la cabeza, pensativa**\n-Hmmm...no dudo que hayan personas maliciosas por el mundo, mas no obstante parte de una buena alianza es poder entregar parte de la confianza para cumplir algun fin en comun....emmmm\n**busca alguna manera de conectar las ideas**\n-Si...quisiera retirar una mofeta molesta de mi parcela, podria ayudar a un vecino con una tarea para que me ayude con la otra...quizas si estamos en buenos terminos con la Capitana y Lord Sir Poncelot esta de buen humor ese dia...nos ayude con informacion, o con alguna sugerencia de donde dirigirnos...¿sabe a que me refiero mi señora..?\n**ve a su alrededor**\n-De quien no me fiaria es de quien intente tomar cosas ajenas de otros...aqui las monedas se pierden de la nada...o amaneces con pinchazos en la espalda..aun no se como me habre hecho esa picadura en mi espalda...\n**voltea a verla**\n-Ahora...que lo recuerdo...cuando estaba en su busqueda la señorita Lady Happy Bonny me menciono que llevaria sus hombres..¿alguno le visito? ¿Se lo comunicaron? Espere mucho para verle y estaba tan preocupada que le hicieran algo..\n**le muestra el Jade con cuidado, hablandole de modo que solo ella escuche**\n-Es que al desencajar el cofre encontramos un botin con muchas cosas..un tesoro..! Pero...recuerdo que ella como paga tomo un Jade similar al que le entregue...¿Sera el dios Sol recompensandome por mis penurias..? ¿O una gran coincidencia? \n**baja las orejas**\n-Ella menciono cosas raras de usted...",
+      "mensaje_sha256": "8309d6865473e473e3222b3790a5edd57f8feca84a30631f298d1765f4829251",
+      "tipo_discord": 19,
+      "referencia": "1516805730852802774",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516808763066159205",
+      "texto_sha256": "77beb51ca293e6342bb76ba2fead60f97a834119888825b195aa5aebabf233d9",
+      "adjuntos": []
+    },
+    {
+      "id": "1516928471564029953",
+      "fecha_utc": "2026-06-17T22:12:10.789000+00:00",
+      "fecha_local": "2026-06-18",
+      "editado_utc": null,
+      "texto": "Eleanor:\n\n**La escucho en silencio mientras expone su razonamiento. No la interrumpo. De hecho, una parte de mí se siente ligeramente orgullosa al comprobar que al menos está pensando en alianzas y no únicamente en monstruos, comida o aventuras imposibles.** *Está aprendiendo, aunque sigue confiando demasiado rápido.*\n**Asiento lentamente.**\n-No estás equivocada. **Mi mirada permanece al frente mientras continúo caminando.**\n-Toda alianza requiere cierta confianza, si nadie confiara en nadie, los reinos no existirían, los ejércitos no marcharían, y los barcos jamás abandonarían el puerto. **Dirijo una breve mirada hacia ella.**\n-Pero hay una diferencia entre confiar y bajar la guardia. **Alzo ligeramente una ceja.**\n-Y Sir Poncelot no es precisamente el vecino que viene a ayudarte con una valla rota. **Una pequeña sonrisa aparece en la comisura de mis labios.**\n-Según él, soy una especie de caballero negro que ha venido a destruir su preciado reino. **Hago una pausa.**\n-Lo cual resulta especialmente curioso porque ni siquiera sabía que tenía un reino hasta que él empezó a mencionarlo. **Niego lentamente con la cabeza.**\n-El enano es paranoico, y los paranoicos ven amenazas incluso donde no existen. **Mi expresión se vuelve algo más firme.**\n-Pero precisamente por eso son impredecibles, no porque sean malvados, sino porque el miedo hace que las personas hagan estupideces. **La observo un instante.**\n-Si algún día decide desconfiar de mí, es asunto suyo, pero si alguna vez se le ocurre decir según qué cosas delante de ti... **Mi mirada se endurece apenas un instante.**\n-Le recomendaría que escogiera sus palabras con mucho cuidado. **El gesto desaparece tan rápido como llegó.**\n\n**Cuando menciona a Happy Bonny, vuelvo a prestar atención.**\n-No, ninguno de sus hombres vino a buscarme. **Frunzo ligeramente el ceño.**\n-Aunque eso explicaría algunas cosas. *Así que realmente estaba preocupada.* **La observo unos segundos antes de continuar.**\n-Podrías haberme encontrado simplemente preguntando en la taberna. **Mi tono resulta ligeramente divertido.**\n-Habría sido bastante más sencillo que cruzar medio océano. **Después mi atención se desplaza hacia el jade que sostiene, lo observo durante unos instantes.**\n-Un tesoro encontrado en nuestro combate de bienvenida, cierto? **Inclino ligeramente la cabeza.**\n-No puedo hablar por el dios Sol, aunque sospecho que tiene asuntos más importantes que recompensar a una kender por meterse en problemas. **La observo de reojo.**\n-Pero tampoco descartaría la posibilidad. **Una pequeña sonrisa aparece fugazmente.**\n-Al fin y al cabo, parece haber desarrollado cierta costumbre de vigilarte. **Entonces mi atención se centra en la última parte de sus palabras.**\n**Mi expresión se vuelve más curiosa.**\n\n-¿Cosas raras de mí? **Alzo una ceja.**\n-Eso sí ha conseguido despertar mi interés. **La observo directamente.**\n\n-Dime exactamente qué fue lo que dijo la señorita Happy Bonny.",
+      "mensaje_sha256": "9b8bc7e65f04a58ddb93a0028a22676d960d454454a43d434bf997f4d85e7654",
+      "tipo_discord": 19,
+      "referencia": "1516808763066159205",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516928471564029953",
+      "texto_sha256": "b77ceddb5b5dab49da035af05ad9aceb65fcf7b3aa5513f5634cc3ba448f61eb",
+      "adjuntos": []
+    },
+    {
+      "id": "1517034359905849425",
+      "fecha_utc": "2026-06-18T05:12:56.537000+00:00",
+      "fecha_local": "2026-06-18",
+      "editado_utc": null,
+      "texto": "Erandi:\n**Baja la mirada, tensando ligeramente los labios, el recuerdo le resultaba desagradable**\n-....\n**Se encoge ligeramente de hombros**\n-...Yo...le pedí que..la buscasen mi señora...entre tantas personas y con mi tamaño...me es difícil ver del todo...\n**Muerdo un poco el labio, recordando lo amargo del momento**\n-...tenia..solo algunas monedas de oro...y ese Jade..y me hizo entender que  lo que pudiese ofrecer por su búsqueda...no era suficiente para representar lo importante que es usted para mí...\n**Tenso la mirada, conteniendo las lágrimas**\n-..o...que usted...no tiene el mayor estima al momento de recompensarme... teniendo en cuenta lo que cargaba encima...\n**Bajo mas la cabeza, tensando los dientes**\n-Me dije que no era cierto! Nada de eso es cierto! Son mentiras.. usted no piensa ni hace nada de eso!\n**Siento mis ojos aguarse ligeramente, cerrandolos para no llorar**\n-...pero...lo que..mas me dolió...es que me hizo entender que...por seguirle no tengo la oportunidad de ver al sol...como si no venerase a mi Dios como corresponde...y que al contrario de mí sus hombres si tienen la cabeza en alto...\n**Se queda en silencio, notando un nudo en su garganta**",
+      "mensaje_sha256": "7db34749d7c8770f4a43b6c700eba8f98c40cd65aabb51405b233a3500ed6111",
+      "tipo_discord": 19,
+      "referencia": "1516928471564029953",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1517034359905849425",
+      "texto_sha256": "49bb12ab2038b17bf88a04547901204d32cbbc84b7d42bcf69c461fa3543d896",
+      "adjuntos": []
+    },
+    {
+      "id": "1517074478968864839",
+      "fecha_utc": "2026-06-18T07:52:21.667000+00:00",
+      "fecha_local": "2026-06-18",
+      "editado_utc": null,
+      "texto": "Erandi: \n-...eso no es verdad...yo se que eso no es verdad...el dinero no compra lealtades genuinas...o amistades, tampoco plenitud...habran bienes, servicios, entretenimiento o trabajos que requieran del dinero...pero las conexiones no pueden medirse por el dinero...\n**sujeta su medallon, sintiendo dolor y, muy adentro, rabia**\n-...Mi devocion al Sol y a la naturaleza es sincera...y que yo haya tomado mis propias decisiones..no le da el derecho de cuestionarme mi servicio tanto al dios que sirvo, como a quien guardo en alta estima...\n**mantiene su mirada baja, escuchandose esa mezcla volatil de emociones en su voz**\n-...Como..puede decir cosas tan crueles..mi señora..? Como..me cuestiona de tal manera..? \n**piensa en el hecho de que nadie le haya buscado ¿Acaso le habria avisado que le buscaba..? No podria haberse aprovechado ¿no? ¿Quien en su sano juicio haria eso?**\n-N...No lo entiendo...",
+      "mensaje_sha256": "97b99138bdd3d0334123f159f8e578bd5374ac8bea869fb52f878d4d7da77d59",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1517074478968864839",
+      "texto_sha256": "be46878d0fabec2515375557c3c98ad9b349963b9718a4f81820afd663ee6401",
+      "adjuntos": []
+    },
+    {
+      "id": "1517157377147928626",
+      "fecha_utc": "2026-06-18T13:21:46.133000+00:00",
+      "fecha_local": "2026-06-18",
+      "editado_utc": null,
+      "texto": "Eleanor:\n\n**Mi paso se ralentiza, la escucho sin interrumpirla, ni una sola vez, a medida que habla, mi expresión permanece tranquila, demasiado tranquila.** *Así que eso fue lo que te dijo.*\n**Permanezco varios segundos en silencio después de que termine, los suficientes para escuchar el nudo en su garganta, los suficientes para ver cómo intenta contener las lágrimas.** *Y eso es lo que más me molesta.*\n**Aprieto ligeramente la mandíbula.**\n-No. **Mi respuesta es inmediata.**\n-No, Erandi. **Mi voz es firme.** \n-No voy a permitir que dudes de ti misma por algo así. **La observo directamente.**\n-Si alguien necesita una semana para conocerte y aun así es capaz de cuestionar tu fe... Simplemente no te conoce.\n**Hago una breve pausa.**\n-Y si alguien necesita una semana para conocerme y cree que entiende quién soy... tampoco me conoce. **Mi mirada se dirige al frente.**\n-La señorita Bonny apenas sabe nada de nosotros, no conoce nuestra historia, no conoce nuestras decisiones, no conoce nuestros sacrificios. **Niego lentamente con la cabeza.**\n-Y desde luego no conoce tu corazón. **Mi voz se vuelve algo más dura.**\n-He visto cómo rezas cuando nadie te observa, he visto cómo ayudas a desconocidos sin esperar nada a cambio, he visto la forma en que hablas de tu dios. **La observo nuevamente.**\n-No necesito que nadie venga a explicarme si tu fe es sincera, porque ya conozco la respuesta. **Permanezco unos segundos en silencio, luego dejo escapar un largo suspiro.**\n-Y respecto a mí... **Una pequeña sombra de molestia cruza mi rostro.**\n-Lo que piense de mí me importa bastante poco. **Alzo ligeramente una ceja.**\n-Si cree que soy una tirana, si cree que soy una conquistadora, si cree que soy un monstruo. **Me encojo ligeramente de hombros.**\n-He escuchado cosas peores. **Mi expresión se endurece un poco.**\n-Lo que sí me importa... **Mi mirada baja hacia ella.**\n-Es que haya conseguido hacerte daño. **Durante unos segundos no digo nada más, simplemente continúo caminando.** *Has tenido una semana para conocerla, yo he tenido años.*\n**Finalmente vuelvo a hablar.**\n-Creo que voy a tener una conversación con la señorita Bonny. **Mi tono permanece calmado.**\n-No porque me haya ofendido, no porque necesite justificarme.**Niego lentamente con la cabeza.**\n-Sino porque me gustaría entender por qué creyó apropiado decirle esas cosas a alguien a quien apenas conoce. **Ajusto ligeramente la capa sobre sus hombros.**\n-Y porque la próxima vez que alguien quiera hablarte sobre quién eres... preferiría que se tomara la molestia de conocerte primero. **Mi expresión se suaviza apenas un poco.**\n-No permitas que las dudas de otros se conviertan en las tuyas. \n**La observo un instante.**\n-Y ahora vamos a resolver problemas más urgentes. **Alzo una ceja.**\n-Como evitar que mi escudera termine convertida en una sopa fría. **Mi expresión permanece completamente seria.**\n-Y después vamos a alimentarte antes de que empieces a morder a la gente por hambre.",
+      "mensaje_sha256": "22a2fd10c197d836df49672ad0afe06d0e309560b2788e4c1a7e94377e7433a7",
+      "tipo_discord": 19,
+      "referencia": "1517074478968864839",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1517157377147928626",
+      "texto_sha256": "302b52815a369afdc9b3e3db827dbc0ca6e050c8ff9a945e8c55b8ad8e648c0f",
+      "adjuntos": []
+    },
+    {
+      "id": "1517161245973680249",
+      "fecha_utc": "2026-06-18T13:37:08.533000+00:00",
+      "fecha_local": "2026-06-18",
+      "editado_utc": "2026-06-18T13:37:54.709000+00:00",
+      "texto": "Erandi: \n-.....\n**escucha con detenimiento, dejando caer las lagrimas cuando realiza tal discurso**\n-UUhhh... Ik..\n**cubre su rostro con sus manitas, asintiendo a lo que dice, ya lo sabia de todos modos, pero tener tales palabras de aliento le traian mucho confort**\n-S-Si..mhi..Sheñora...\n**seca rapido mis lagrimas, escuchando su estomago rugir**\n-....!!\n*dibuja una ligera sonrisa, pensando que ese pulpo vendria bien**\n-Je...jeje...cierto...habria que comer algo...\n**Se acurruca en su hombro, confortandose en el calor que transmite..similar al dios que venera**",
+      "mensaje_sha256": "d90c47f62cba934f1deae6c4e43e5bbc4b38b7c66b60f28f9dbcefd0a7a04814",
+      "tipo_discord": 19,
+      "referencia": "1517157377147928626",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1517161245973680249",
+      "texto_sha256": "8c1552cabd991c059ba0d280a6f4a65e6b1bef7dfc57e1ffe17b5d87a546f491",
+      "adjuntos": []
+    },
+    {
+      "id": "1517161455223308310",
+      "fecha_utc": "2026-06-18T13:37:58.422000+00:00",
+      "fecha_local": "2026-06-18",
+      "editado_utc": null,
+      "texto": "🔴 Fin de escena🔴",
+      "mensaje_sha256": "87608ff8427656ec10e60e8d8eb4155e05e5563e1d7d4891b48a3a9414172e29",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1517161455223308310",
+      "texto_sha256": "7aa24b8aa6fd3f35301a7f77b3905a178395ed16125386e060d23c65cafcba7d",
+      "adjuntos": []
+    }
+  ]
+}

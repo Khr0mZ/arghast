@@ -1,0 +1,351 @@
+{
+  "id": "x-1478809294416642139",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1478809294416642139",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "Los supervivientes y la granja de Brunami",
+  "resumen": "Patata y Axi salen del médico sin sus pertenencias y comparten sus orígenes.",
+  "relato": "Patata despierta junto a Axi en la consulta tras la batalla contra los lagartos. Ambos siguen doloridos y descubren que les falta todo el equipo. Patata pregunta qué dijo Axi para provocar al poblado; el joven afirma que solo saludó y lamenta la pérdida del arco. Esa explicación es su testimonio, sin reconstruir la batalla.\n\nPatata decide preguntar a Bonny por las pertenencias, aunque Axi teme que los mate y prefiere volver al camarote. Caminan juntos parte del trayecto, ayudándose por las heridas. Axi dice ser nativo de Xoltacán y recuerda en privado la masacre de su aldea. Patata cuenta que tenía una granja en una zona antes próspera del desierto de Brunami y que un extraño dragón negro la arrasó; cree haberlo oído cantar antes de marcharse. No aporta un nombre para la criatura.\n\nEl granjero ofrece consejo al joven y ambos se desean suerte. Patata entra en el Ron de Bonny; aquí no se ve esa conversación ni la recuperación del equipo.",
+  "participantes": [
+    "Patata",
+    "Axi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1478809294416642139",
+      "afirmacion": "Patata despierta en el médico junto a Axi después del combate.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1478837649144942748",
+      "afirmacion": "Axi afirma que saludó y espera recuperar su arco.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1478846786788524152",
+      "afirmacion": "Axi dice ser nativo de Xoltacán; el recuerdo de la masacre queda privado.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1478847227723124819",
+      "afirmacion": "Patata sitúa su antigua granja en Brunami.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1478849158621429913",
+      "afirmacion": "Patata atribuye la destrucción de la granja a un dragón negro que cree haber oído cantar.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1478856939889758323",
+      "afirmacion": "Patata se despide de Axi y entra en la taberna.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No se identifica al dragón negro con un personaje de otra campaña.",
+    "La entrada en la taberna no equivale a recuperar las pertenencias."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-03-04T17:40:10.737000+00:00",
+  "fin_utc": "2026-03-04T21:07:42.519000+00:00",
+  "fecha_local": "2026-03-04",
+  "intervalo": {
+    "anterior": 11,
+    "siguiente": 12,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1476657677277991027",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1479193258008772802",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 11,
+        "fecha": "2026-02-26",
+        "inicio_referencia_utc": "2026-02-26T19:10:07+00:00",
+        "fin_estimado_utc": "2026-02-26T22:26:48+00:00",
+        "duracion_video_segundos": 11801,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1476657677277991027"
+      },
+      {
+        "capitulo": 12,
+        "fecha": "2026-03-05",
+        "inicio_referencia_utc": "2026-03-05T19:05:36+00:00",
+        "fin_estimado_utc": "2026-03-05T22:20:15+00:00",
+        "duracion_video_segundos": 11679,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1479193258008772802"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1478809294416642139",
+      "fecha_utc": "2026-03-04T17:40:10.737000+00:00",
+      "fecha_local": "2026-03-04",
+      "editado_utc": null,
+      "texto": "Patata:\n(Médico)\n**Me despierto en el medico después de la batalla contra los lagartos y veo a xochi a mí lado**\nDios santo vaya paliza casi no lo cuento\n<@690657110694035536>",
+      "mensaje_sha256": "9b1e93aa048449cccea389940438931b1f7ca37305fbd26389294acd69bb64e8",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1478809294416642139",
+      "texto_sha256": "77e0b487bb9d2b7272501e8fe69e4e83dc5f0332d24dc2f413dcccabab384d87",
+      "adjuntos": []
+    },
+    {
+      "id": "1478828424490516645",
+      "fecha_utc": "2026-03-04T18:56:11.702000+00:00",
+      "fecha_local": "2026-03-04",
+      "editado_utc": null,
+      "texto": "Axi:\n\n**La cabeza me esta matando, el dolor provoco que despierte cada cierto tiempo hasta que escuche a la papa hablar**\n\nVaya... \n\n**Dije para luego levantarme con una mano en la cabeza, mi expresión agotada mezclada con dolor era la presentación que di en ese momento**\n\nPero si es el tanque del equipo... nos dieron una que no tiene nombre ni apellido... ¿Estas bien?",
+      "mensaje_sha256": "6eaff8669982bbd28ee0e7ed360186f498be4c58a9e0ea88bc225e90bde25303",
+      "tipo_discord": 19,
+      "referencia": "1478809294416642139",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1478828424490516645",
+      "texto_sha256": "5c84776526c01eb7fb8a8494fc5900baee7e77ba8b55659c312e5117c6380b6c",
+      "adjuntos": []
+    },
+    {
+      "id": "1478828901861036324",
+      "fecha_utc": "2026-03-04T18:58:05.516000+00:00",
+      "fecha_local": "2026-03-04",
+      "editado_utc": null,
+      "texto": "patata:\nVivo que no es poco aunque no tengo absolutamente nada\n**miro de forma seria a axi**\n¿que le dijiste a ese hombre lagarto para que se nos tirara todo el pueblo encima?",
+      "mensaje_sha256": "732aa19358b951f0c1904e53e358124a029e9c74fb8b591442d307429376fa04",
+      "tipo_discord": 19,
+      "referencia": "1478828424490516645",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1478828901861036324",
+      "texto_sha256": "3a59783517c40e13562f46062ee3bcfafa9b080ee7faa9659d8048b97948be16",
+      "adjuntos": []
+    },
+    {
+      "id": "1478837649144942748",
+      "fecha_utc": "2026-03-04T19:32:51.031000+00:00",
+      "fecha_local": "2026-03-04",
+      "editado_utc": null,
+      "texto": "Axi: \n\n**recordando mis palabras, me encogí de hombros diciendo**\n\nHola, eso le dije... muy sociables no eran, y también desperté sin nada... espero que alguien tenga mi arco",
+      "mensaje_sha256": "118228d96be74e55b79279fdfd3c1d214a5f8b49d5d364264c1f549c9f8bf0bd",
+      "tipo_discord": 19,
+      "referencia": "1478828901861036324",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1478837649144942748",
+      "texto_sha256": "8b08e375037cc901eb4cfd3cbe8ea450322d493edb4fda5b1fc660b85e84bf6b",
+      "adjuntos": []
+    },
+    {
+      "id": "1478838122081943673",
+      "fecha_utc": "2026-03-04T19:34:43.788000+00:00",
+      "fecha_local": "2026-03-04",
+      "editado_utc": null,
+      "texto": "patata:\nTe falta algo de labia chico pero te ayudare a conseguir un poco si eso quieres",
+      "mensaje_sha256": "573d52b03809b47a3c2a919424346c028a36b7ff388637c08df149dcdb745352",
+      "tipo_discord": 19,
+      "referencia": "1478837649144942748",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1478838122081943673",
+      "texto_sha256": "7d42904e39b56f043b8abfe80e28fcfa6e180de31d69fa83a8d037fb033307b4",
+      "adjuntos": []
+    },
+    {
+      "id": "1478842323180720343",
+      "fecha_utc": "2026-03-04T19:51:25.408000+00:00",
+      "fecha_local": "2026-03-04",
+      "editado_utc": null,
+      "texto": "Axi: \n\nNi tiempo me dejaron a hablar... creo que mejor ahora primero mato y luego pregunto \n\n**Dije notando que estoy en tapa rabos**\n\nDe verdad nos robaron todo....",
+      "mensaje_sha256": "31286933e7922ddf113f99911b9092bf08e730c35e52666700540c7aed1b7f30",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1478842323180720343",
+      "texto_sha256": "7b15d13a42775a529ce55954b052af738c93b99ab2f862c57b26cc5c3ac0a695",
+      "adjuntos": []
+    },
+    {
+      "id": "1478843403411390709",
+      "fecha_utc": "2026-03-04T19:55:42.955000+00:00",
+      "fecha_local": "2026-03-04",
+      "editado_utc": null,
+      "texto": "Patata:\nsi claro..\n**me incorporo**\nQuiza bonny sepa algo al final ella nos contrato",
+      "mensaje_sha256": "45841d7ca6a8b86ddbbfe91dbaf57fd378986e4451b78fd974b0f86b71ee8b5e",
+      "tipo_discord": 19,
+      "referencia": "1478842323180720343",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1478843403411390709",
+      "texto_sha256": "d918c48d54a334e59fb456b78d6039142ffe099959ad5de07c4a6825faa6a990",
+      "adjuntos": []
+    },
+    {
+      "id": "1478844716177952850",
+      "fecha_utc": "2026-03-04T20:00:55.943000+00:00",
+      "fecha_local": "2026-03-04",
+      "editado_utc": null,
+      "texto": "Axi: \n\nBonny... ¡Ah!, no ni loco voy con ella \n\n**Dije incorporándome lentamente, el daño no había sanado del todo aún y podía sentir mis músculos protestar por cada movimiento brusco**\n\nNos va a matar, prefiero ir a mi camarote a descansar... aunque puedo acompañarte de camino a la cantina si quieres",
+      "mensaje_sha256": "af16302267796589ec2ffea5e267f1b2edddf686379d4dab491afa004080578c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1478844716177952850",
+      "texto_sha256": "59217ce00e9d728f7815952a0f13fa95966ee4dffb8f77a95020c99fd08f1306",
+      "adjuntos": []
+    },
+    {
+      "id": "1478845281867927609",
+      "fecha_utc": "2026-03-04T20:03:10.814000+00:00",
+      "fecha_local": "2026-03-04",
+      "editado_utc": null,
+      "texto": "patata:\nes eso o ir desnudo por ahi la verdad prefiero no hacer eso\n**le ofrezco la mano para ayudarle**\nvamos de camino anda y cuentame algo de ti",
+      "mensaje_sha256": "7021d4c573bf8e63ad5de557e6f7ffcb17af4ae979e2683ea1efd5121f43e186",
+      "tipo_discord": 19,
+      "referencia": "1478844716177952850",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1478845281867927609",
+      "texto_sha256": "b90f23bdd59e32116284f7a98f21fbe2a7b901dcf6be95b8a528ef49f905b5e1",
+      "adjuntos": []
+    },
+    {
+      "id": "1478845591244243135",
+      "fecha_utc": "2026-03-04T20:04:24.575000+00:00",
+      "fecha_local": "2026-03-04",
+      "editado_utc": null,
+      "texto": "Axi:\n\nNo estoy desnudo... \n\n**mire el taparrabos que solo cubría mis partes nobles y por poco**\n\nBueno, prácticamente si pero no del todo... y dime \n\n**acepte su ayuda listo para comenzar a caminar**\n\n¿Qué quieres saber?",
+      "mensaje_sha256": "cebd09c4b78f9a5b09681d5e9da5c731f2b5a7df6016867b5d82b72608204519",
+      "tipo_discord": 19,
+      "referencia": "1478845281867927609",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1478845591244243135",
+      "texto_sha256": "4ee5c8037acad46de60021bf9afc81729c7fcb75bfdcad85c2335babb99b0ba1",
+      "adjuntos": []
+    },
+    {
+      "id": "1478846205579628829",
+      "fecha_utc": "2026-03-04T20:06:51.044000+00:00",
+      "fecha_local": "2026-03-04",
+      "editado_utc": null,
+      "texto": "patata:\nYa veo que no lo estas no\n**sonrio como si le hiciera gracia**\nVienes de aqui no?",
+      "mensaje_sha256": "10b954fcf88c9ae72841f4fe8e64c66d2b4de851e49045b5f6ecfe81b2fbdf37",
+      "tipo_discord": 19,
+      "referencia": "1478845591244243135",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1478846205579628829",
+      "texto_sha256": "37a924c2f7b1174f2a17e1e2c6399e3aafdd0065c6ca56272b9c79617f10cb17",
+      "adjuntos": []
+    },
+    {
+      "id": "1478846786788524152",
+      "fecha_utc": "2026-03-04T20:09:09.615000+00:00",
+      "fecha_local": "2026-03-04",
+      "editado_utc": null,
+      "texto": "Axi:\n\nSi, nativo de xotalcan...\n\n**Dije recordando la masacre de mi aldea y de mi gente**\n\nTu no te vez  que seas de aquí, ¿De donde vienes?",
+      "mensaje_sha256": "5c0e521416dd4f88adce32c173435cdd93d3cc0d32cf5a6e9d3dc90392d879a8",
+      "tipo_discord": 19,
+      "referencia": "1478846205579628829",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1478846786788524152",
+      "texto_sha256": "dce5ee9f427031f0312cf259e4b0cb9425d093d0b7daeeabad1efee4bc855f33",
+      "adjuntos": []
+    },
+    {
+      "id": "1478847227723124819",
+      "fecha_utc": "2026-03-04T20:10:54.742000+00:00",
+      "fecha_local": "2026-03-04",
+      "editado_utc": null,
+      "texto": "patata:\nVengo del desierto de brunami tenia una granja alli en una pequeña zona que antes era prospera",
+      "mensaje_sha256": "62e734f497c976398ca739ba01aabcc5ec597143badcad8f72bdb7a851387413",
+      "tipo_discord": 19,
+      "referencia": "1478846786788524152",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1478847227723124819",
+      "texto_sha256": "5a9786b73df936f7b6dfe261315467d31e904f6e4a8f81cedae4b17905cf2f08",
+      "adjuntos": []
+    },
+    {
+      "id": "1478848487238930472",
+      "fecha_utc": "2026-03-04T20:15:55.034000+00:00",
+      "fecha_local": "2026-03-04",
+      "editado_utc": null,
+      "texto": "Axi:\n\n¿Granja?, vaya si que tenias buen trabajo... ¿Y que paso?\n\n**nuestros pasos retumbando por el pueblo que ni se percataba de nuestra presencia**",
+      "mensaje_sha256": "7beb90b74f21189704d90b37f91e62dc6948ddccbfc7b8d5cea806f2d6d68fa4",
+      "tipo_discord": 19,
+      "referencia": "1478847227723124819",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1478848487238930472",
+      "texto_sha256": "07fd688c98842385ce6f053bb8029a7ea574fb2305a13fb721aa49d62e83de19",
+      "adjuntos": []
+    },
+    {
+      "id": "1478849158621429913",
+      "fecha_utc": "2026-03-04T20:18:35.104000+00:00",
+      "fecha_local": "2026-03-04",
+      "editado_utc": null,
+      "texto": "patata:\nvino un dragon negro extraño y arraso con todo y creo que lo oi cantar antes de irse",
+      "mensaje_sha256": "db899eaf445fadabe075b055247d48d29029b4d71e74835d4b4a5f7614eb0b9f",
+      "tipo_discord": 19,
+      "referencia": "1478848487238930472",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1478849158621429913",
+      "texto_sha256": "c999d2d45b44efb5306822fbcbd28a77ad4cf095c569ca8f3b1e52ce1330fed4",
+      "adjuntos": []
+    },
+    {
+      "id": "1478849412171301026",
+      "fecha_utc": "2026-03-04T20:19:35.555000+00:00",
+      "fecha_local": "2026-03-04",
+      "editado_utc": null,
+      "texto": "Axi:\n\n... desde que me junto con gente que no es de mis tierras, me e enterado de cosas bastante raras",
+      "mensaje_sha256": "0cade6c7fff64a7af20f293f0c78b34389ad6ccd853d4856b99d178531a10d2f",
+      "tipo_discord": 19,
+      "referencia": "1478849158621429913",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1478849412171301026",
+      "texto_sha256": "3b31353d96f6d5c0668124c16772d120886225d69d3b99e4ec82e82b610f2188",
+      "adjuntos": []
+    },
+    {
+      "id": "1478850312403025991",
+      "fecha_utc": "2026-03-04T20:23:10.187000+00:00",
+      "fecha_local": "2026-03-04",
+      "editado_utc": null,
+      "texto": "patata:\nEs lo normal cuando sales de tu mundo ves lo que esta mas alla yo conoci un pirata hasta que vine aqui\n**le pongo una mano en el hombro**\nSi necesitas algun consejo aqui estare\n*si sobrevivo*",
+      "mensaje_sha256": "da59e6c10700c774183a6b4edf23f3167e0afcbc1fef71431628d8876569d169",
+      "tipo_discord": 19,
+      "referencia": "1478849412171301026",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1478850312403025991",
+      "texto_sha256": "0445c57208ef42591faba70a1d467ea696f07da42e4eb267b7a80272ad67788a",
+      "adjuntos": []
+    },
+    {
+      "id": "1478856639879581777",
+      "fecha_utc": "2026-03-04T20:48:18.775000+00:00",
+      "fecha_local": "2026-03-04",
+      "editado_utc": null,
+      "texto": "Axi:\n\nIgual patata, te deseo suerte en tu encuentro con bonny\n\n**Dije dedicando una sonrisa compasiva**\n\nMucha suerte",
+      "mensaje_sha256": "b7bcb5284713dc42e785590952371173fd7180fd2f226c268c28336d27af969e",
+      "tipo_discord": 19,
+      "referencia": "1478850312403025991",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1478856639879581777",
+      "texto_sha256": "2e7943d8b4cdd52ee8a00d65fffcd3925ce033a4e6eddabdaa6e94e0e5c8c28a",
+      "adjuntos": []
+    },
+    {
+      "id": "1478856939889758323",
+      "fecha_utc": "2026-03-04T20:49:30.303000+00:00",
+      "fecha_local": "2026-03-04",
+      "editado_utc": null,
+      "texto": "patata:\nHasta luego axi cuidate\n**me despido para entrar en el ron de bonny**",
+      "mensaje_sha256": "81f8f4f3d9ed077c843f0e6046aeff6b9ae40c0468399a9e01307fc35d26908f",
+      "tipo_discord": 19,
+      "referencia": "1478856639879581777",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1478856939889758323",
+      "texto_sha256": "53340b093e91b58c0947982d8cfdb85a8e1d00d4c4cb4586949a5032451a3653",
+      "adjuntos": []
+    },
+    {
+      "id": "1478861520975691987",
+      "fecha_utc": "2026-03-04T21:07:42.519000+00:00",
+      "fecha_local": "2026-03-04",
+      "editado_utc": null,
+      "texto": "🔴 fin de escena🔴",
+      "mensaje_sha256": "c8d6dcbde5119e35bbd5788e599a2912e768cd9665e53370e1fbf17010fcd6ca",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1478861520975691987",
+      "texto_sha256": "906cd6a490f27f6a27bf957ba49b4845aca936431f5924262141d6e0dea25762",
+      "adjuntos": []
+    }
+  ]
+}

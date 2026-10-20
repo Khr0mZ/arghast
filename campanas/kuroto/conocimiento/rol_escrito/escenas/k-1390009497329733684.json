@@ -1,0 +1,214 @@
+{
+  "id": "k-1390009497329733684",
+  "campana": "kuroto",
+  "unidad_revision": "k-1390009497329733684",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Compras urgentes y una pregunta sobre el futuro",
+  "resumen": "Guxi compra amoniaco y busca insectos con Seraphina, evitando hablar de posibles hijos.",
+  "relato": "Guxi y Seraphina recorren Sho de la mano mientras él busca materiales para un plan relacionado con insectos. Ella recuerda las plagas de ratas de sus viajes y Guxi compra amoniaco a un precio elevado en una tienda con pocas existencias. Explica que piensa combinarlo con insectos como cebo y confía en que el olor disuada a Arwen de comérselos; el preparado no llega a realizarse ni se prueba su seguridad o eficacia. Seraphina comenta lo inquieta que es la niña y pregunta si los hijos de ambos serían parecidos. Guxi se queda sin palabras y cambia de tema al ver la taberna de Ushi, donde espera comprar los bichos. Entra y saluda al tabernero. La respuesta y la compra quedan fuera del tramo.",
+  "participantes": [
+    "Guxi",
+    "Seraphina"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1390012377222742131",
+      "afirmacion": "Guxi compra amoniaco y expone un plan con cebo, sin ejecutarlo aún.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1390012939439837384",
+      "afirmacion": "Seraphina plantea cómo podrían ser los hijos de ambos.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1390013813168017510",
+      "afirmacion": "Guxi evita responder y señala la taberna de Ushi.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1390015178917150781",
+      "afirmacion": "Guxi entra en la taberna para comprar.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No hay embarazo confirmado ni acuerdo de tener hijos; la pregunta expresa una posibilidad futura.",
+    "No se presenta el preparado ni las estimaciones de sus efectos como hechos probados.",
+    "El cierre está aislado en k-1390203673191256115; se propone enlazarlo."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-07-02T16:41:29.291000+00:00",
+  "fin_utc": "2025-07-02T17:04:03.887000+00:00",
+  "fecha_local": "2025-07-02",
+  "intervalo": {
+    "anterior": 133,
+    "siguiente": 134,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387857477848141979",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1390030497551487016",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 133,
+        "fecha": "2025-06-26",
+        "inicio_referencia_utc": "2025-06-26T18:09:52+00:00",
+        "fin_estimado_utc": "2025-06-26T20:54:04+00:00",
+        "duracion_video_segundos": 9852,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387857477848141979"
+      },
+      {
+        "capitulo": 134,
+        "fecha": "2025-07-02",
+        "inicio_referencia_utc": "2025-07-02T18:04:40+00:00",
+        "fin_estimado_utc": "2025-07-02T20:03:03+00:00",
+        "duracion_video_segundos": 7103,
+        "tipo_referencia": "aviso_de_contraste",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1390030497551487016"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida. Una hora tomada de un aviso con título discrepante se utiliza solo como referencia aproximada de ese día."
+  },
+  "fuentes": [
+    {
+      "id": "1390009497329733684",
+      "fecha_utc": "2025-07-02T16:41:29.291000+00:00",
+      "fecha_local": "2025-07-02",
+      "editado_utc": null,
+      "texto": "guxi: **va andando de la mano de <@408026114548695061> seraphina por las calles de sho** creo que necesito amoniaco y quiza algo para ponerlo de cebo has tenido alguna vez problemas de insectos en el barco?",
+      "mensaje_sha256": "219811bb804903beab8fe08f2b4bc30f3d0fb6587be132de804e8bde19c1827a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1390009497329733684",
+      "texto_sha256": "573d0722a912279def87ba46b1d828ae33d2a4aa120895a4d054b0f7bc52d94a",
+      "adjuntos": []
+    },
+    {
+      "id": "1390010010951618591",
+      "fecha_utc": "2025-07-02T16:43:31.748000+00:00",
+      "fecha_local": "2025-07-02",
+      "editado_utc": null,
+      "texto": "Seraphina:\nAparte de los grumetes?, no, teníamos plagas de ratas, pero de eso se encargaban los gatos\n\n**Levanté los hombros**\n\nEra lo más desagradable, adiós comida, adiós bebida... No sabes lo horrible que es beber un vino con fetos de rata...",
+      "mensaje_sha256": "5249bc98cc36cdce8be1b0b4afb610e35bf576c19a5353a5e703819e9ff56a80",
+      "tipo_discord": 19,
+      "referencia": "1390009497329733684",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1390010010951618591",
+      "texto_sha256": "e17b781bcb0704c7866a8f7e3fe3bd48ce16f3bdafa07f033f0a3e3cd93855e4",
+      "adjuntos": []
+    },
+    {
+      "id": "1390010396806746132",
+      "fecha_utc": "2025-07-02T16:45:03.743000+00:00",
+      "fecha_local": "2025-07-02",
+      "editado_utc": null,
+      "texto": "guxi: **ves que hace unos movimientos demasiado exagerados** uagg que asco yo hubiera vomitado seguro **mira una de las tiendas **creo que ahi encontrare el amoniaco",
+      "mensaje_sha256": "365d00148048c7cce5d71abb61713dff442ebba541042d816dec5359ce8bd648",
+      "tipo_discord": 19,
+      "referencia": "1390010010951618591",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1390010396806746132",
+      "texto_sha256": "d2d0398f5c71e1e713189885635ef09c4966bf608dd7012d5ae773f5d6d8d352",
+      "adjuntos": []
+    },
+    {
+      "id": "1390011438797426919",
+      "fecha_utc": "2025-07-02T16:49:12.173000+00:00",
+      "fecha_local": "2025-07-02",
+      "editado_utc": null,
+      "texto": "Seraphina: \nPero me lo terminé tomando, no es bueno desperdiciar el licor y menos cuando era lo último que quedaba en ese viaje\n\n**Mire hacia la tienda a la que había dicho Guxi**\n\nEntonces vamos para allá",
+      "mensaje_sha256": "b0dbbb6be46ed90a6fc82aa86c0395ca362b259f7b1c6dae1c470f556c424895",
+      "tipo_discord": 19,
+      "referencia": "1390010396806746132",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1390011438797426919",
+      "texto_sha256": "e52f66dbf39586eafa19247ba1cb2f759b6ce7c48d134ff2d3ba4c043df56923",
+      "adjuntos": []
+    },
+    {
+      "id": "1390012377222742131",
+      "fecha_utc": "2025-07-02T16:52:55.911000+00:00",
+      "fecha_local": "2025-07-02",
+      "editado_utc": null,
+      "texto": "guxi: **entra en la tienda no parece haber muchas existencias y los precios son mas caros de lo normal aun asi lo compra y salen de la tienda** espero que con esto valga por que si no ahora falta encontrar insectos los machacaremos y dentro pondremos el amoniaco huele bastante mal asi que no creo que arwen se le ocurra comerselos",
+      "mensaje_sha256": "b67093dfc50d3363ff112e39d942347d8f8cba1f02a9b39f125b3c0ca11fbf91",
+      "tipo_discord": 19,
+      "referencia": "1390011438797426919",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1390012377222742131",
+      "texto_sha256": "9fb8cface6a206df6c7ba17f6a77291d0aefb2005ffcffd86dd1a0227ba8a3b7",
+      "adjuntos": []
+    },
+    {
+      "id": "1390012939439837384",
+      "fecha_utc": "2025-07-02T16:55:09.954000+00:00",
+      "fecha_local": "2025-07-02",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\nYo también espero que no se lo coma... Esa niña si que es un torbellino andante..\n\n**Me quedé mirando al cielo por unos segundos**\n\nCrees que los nuestros vayan a ser así?, o sean más calmados?",
+      "mensaje_sha256": "7469b82c27ebaf3c38f15e6bf9388168ba26b6902fd1583365e7a5a84f8c5fc1",
+      "tipo_discord": 19,
+      "referencia": "1390012377222742131",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1390012939439837384",
+      "texto_sha256": "f74665737decf90f6a233f1d4c342fef114500b84a3ea2d99fb05b1a79641a2f",
+      "adjuntos": []
+    },
+    {
+      "id": "1390013813168017510",
+      "fecha_utc": "2025-07-02T16:58:38.267000+00:00",
+      "fecha_local": "2025-07-02",
+      "editado_utc": "2025-07-02T16:58:54.176000+00:00",
+      "texto": "guxi: yo espero que tampoco igualmente seguramente solo le duela el estomago un momento , ¿los nuestros? **se queda unos segundos pensando** los .. nuestros.. **esta tartamudeando**pueeeeeeeeeeeeees no lo habia pensado hey mira la taberna ushi vendia insectos **señala la taberna** vamos que corre prisa",
+      "mensaje_sha256": "52c4f6bcaeebdfeb9ba75677ed3f09abe20a402372328c9bc062c66880b31fbf",
+      "tipo_discord": 19,
+      "referencia": "1390012939439837384",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1390013813168017510",
+      "texto_sha256": "a14c54b15fdd4d4ed4ee7f25fc400eb67b1903a0d8e4f2d6f2d8affc20f2d6a3",
+      "adjuntos": []
+    },
+    {
+      "id": "1390014265146081462",
+      "fecha_utc": "2025-07-02T17:00:26.027000+00:00",
+      "fecha_local": "2025-07-02",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Sonreí con normalidad y caminé hacia la taberna**\n\nEstá bien, vamos, vamos, que alguien no quiere hablar del tema",
+      "mensaje_sha256": "07947c532f4f62df6bb31c7a299a62cd45b481ac1fe5baf329fc68a2d5618bed",
+      "tipo_discord": 19,
+      "referencia": "1390013813168017510",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1390014265146081462",
+      "texto_sha256": "11594bf5c44fa18988b0ecaa918d49f4d80c0aea0dacb65e6eb845a837b5e321",
+      "adjuntos": []
+    },
+    {
+      "id": "1390015178917150781",
+      "fecha_utc": "2025-07-02T17:04:03.887000+00:00",
+      "fecha_local": "2025-07-02",
+      "editado_utc": "2025-07-02T17:05:52.361000+00:00",
+      "texto": "guxi: **entra a la taberna como si huyera de algo o alguien <@408026114548695061> ** hola ushi <@214405113677217793> vengo a comprarle un par de cosas",
+      "mensaje_sha256": "f2d025d545c0d8bf3e62e1004e365cbaef0d7eb7c7b457de34beb59553e2f400",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1390015178917150781",
+      "texto_sha256": "c8d452840bfe5b057dd1757b50ccf63fcc118cf6ad3e02d23d84b5a51509a7b5",
+      "adjuntos": []
+    },
+    {
+      "id": "1390203673191256115",
+      "fecha_utc": "2025-07-03T05:33:04.424000+00:00",
+      "fecha_local": "2025-07-03",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "22cb1cf5755f1389a6d66faf4b049b2b91f38f920db32fc4167c5543eef092d5",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1390203673191256115",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": [],
+      "no_narrativo": true,
+      "nota_editorial": "Marcador de cierre conservado junto a la conversación."
+    }
+  ]
+}

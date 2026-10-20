@@ -1,0 +1,243 @@
+{
+  "id": "x-1486621029311975574",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1486621029311975574",
+  "hilo_id": "1482149664131383316",
+  "hilo_nombre": "Cuicapalli - La villa tranquila",
+  "titulo": "Luna cambia una pistola por las plantas de Pinky",
+  "resumen": "Pinky hace crecer una plantación y confunde una broma sonora con haber sobrevivido a un disparo.",
+  "relato": "Pinky despierta entre arbustos recordando un sueño extraño y piensa buscar a Citlali para conseguir más chocolates. Luna la encuentra y se presenta como la gran chamán Lunaria Salada, acompañando el nombre con luz e ilusiones. Quiere plantas para ayudar al alquimista.\n\nLa anciana pide algo a cambio. Luna vacía sus saquillos y Pinky escoge una pistola pirata. La kender ve las iniciales JH, no recuerda de dónde la sacó y se la entrega. El texto no identifica al propietario.\n\nPinky responde con Crecimiento Salvaje y convierte parte del poblado en una plantación de cannabis. Luna recoge las plantas mientras la otra juega con el arma y mira por el cañón. La kender produce un ruido de disparo que la sobresalta. Pinky concluye en privado que se ha disparado y es inmune.\n\nNo se ha narrado un tiro real: es una broma sonora de Luna. La falsa deducción de inmunidad queda como pensamiento cómico de la anciana, no como una capacidad acreditada.",
+  "participantes": [
+    "Pinky",
+    "Luna"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1486717524392415373",
+      "afirmacion": "Luna se presenta como Lunaria Salada y pide plantas mediante ilusiones.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1486720637576810556",
+      "afirmacion": "Entrega una pistola con iniciales JH.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1486722133433254021",
+      "afirmacion": "Pinky crea la plantación con Crecimiento Salvaje.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1486722859786178560",
+      "afirmacion": "Luna produce un ruido de disparo mientras Pinky examina el arma.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1486723997810032761",
+      "afirmacion": "Pinky cree equivocadamente haber sobrevivido a dispararse.",
+      "tipo": "pensamiento"
+    }
+  ],
+  "notas": [
+    "Lunaria Salada es la presentación chamánica de Luna.",
+    "JH no basta para fijar a quién pertenecía la pistola.",
+    "El intercambio y la plantación son ficción; no se añaden instrucciones de cultivo ni consumo."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-03-26T07:01:13.471000+00:00",
+  "fin_utc": "2026-03-26T18:03:03.987000+00:00",
+  "fecha_local": "2026-03-26",
+  "intervalo": {
+    "anterior": 19,
+    "siguiente": 20,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1486449682648666252",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1486810041481957547",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 19,
+        "fecha": "2026-03-25",
+        "inicio_referencia_utc": "2026-03-25T19:40:04+00:00",
+        "fin_estimado_utc": "2026-03-25T21:54:24+00:00",
+        "duracion_video_segundos": 8060,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1486449682648666252"
+      },
+      {
+        "capitulo": 20,
+        "fecha": "2026-03-26",
+        "inicio_referencia_utc": "2026-03-26T19:31:58+00:00",
+        "fin_estimado_utc": "2026-03-26T22:20:44+00:00",
+        "duracion_video_segundos": 10126,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1486810041481957547"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1486621029311975574",
+      "fecha_utc": "2026-03-26T07:01:13.471000+00:00",
+      "fecha_local": "2026-03-26",
+      "editado_utc": null,
+      "texto": "Pinky: **La vieja estaba tirada entre unos arbustos en una de las calles de Cuicapalli. Con el ceño fruncido y la mano en la cabeza, se levanta como puede entre crujido de huesos de persona mayor, parece incluso que se vaya a romper, pero mala hierba nunca muerte** Aaaaah... Vaya sueño más raro... Un perro que hablaba, un pavo real que se convirtió en un Godzilla, la mosca esa cojonera y la cria esa disfrazada de conejo.. **Se le dibuja una sonrisa en la cara un poco rara mientras sale de los arbustos** Esa mierda es buena... Tengo que hablar con esa señora mayor para que haga más chocolates. Me voy a hinchar a ver que pasa ja ja ja",
+      "mensaje_sha256": "49d77c1d12c0ec5a5a15a9aba94d7a11573bcf1edaf8cbd7759b2a22ce87fb8c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1486621029311975574",
+      "texto_sha256": "c5369927aeabca4a13fae65d8f1c6efe15bf8b217dc2612155750689cac1a8e5",
+      "adjuntos": []
+    },
+    {
+      "id": "1486711283041570936",
+      "fecha_utc": "2026-03-26T12:59:51.637000+00:00",
+      "fecha_local": "2026-03-26",
+      "editado_utc": null,
+      "texto": "Luna: \n** Mientras recorre las calles de Cuicapalli y piensa en cual será su nuevo ritual, escucha un ruido entre los arbustos...** Heyyy tu no eres la vieja de las plantas raras?? llevo mucho buscándolas, ahora que soy una gran chaman necesito todos los tipos posibles... me ayuda?",
+      "mensaje_sha256": "31661a304fb5f9bb7069dd18cf2c0c530ed2949d9a74c8409333bf2d27e24d41",
+      "tipo_discord": 19,
+      "referencia": "1486621029311975574",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1486711283041570936",
+      "texto_sha256": "a27233ef34d339e6ea57bbb669260b61414af3e132296e9cda66acef850e364e",
+      "adjuntos": []
+    },
+    {
+      "id": "1486716492753145896",
+      "fecha_utc": "2026-03-26T13:20:33.729000+00:00",
+      "fecha_local": "2026-03-26",
+      "editado_utc": null,
+      "texto": "Pinky: **Mete un bote al asustarse de esa niña kender que parece de repente vestida de forma rara** Coño! Pero que? Eh? Plantas raras... No se de que me hablas... **Dice aún rascándose la cabeza por la resaca de estupefacientes** ¿Y quien eres tu?",
+      "mensaje_sha256": "76338922ebd1d7bf8c30ce6ed6bdcbf2cac45856d39223256c2e3413232f835e",
+      "tipo_discord": 19,
+      "referencia": "1486711283041570936",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1486716492753145896",
+      "texto_sha256": "81a0b7c7da356ee5f5fd0687b00e764481e478cfdd123294e7308b2f0093a9dc",
+      "adjuntos": []
+    },
+    {
+      "id": "1486717524392415373",
+      "fecha_utc": "2026-03-26T13:24:39.691000+00:00",
+      "fecha_local": "2026-03-26",
+      "editado_utc": null,
+      "texto": "Luna: \n** Se ajusta su nuevo atuendo ** como que quien soy? soy la gran Chaman Lunaria Salada\n** mueve sus manos y al pronunciar su nombre genera una gran luz tras ella para deslumbrar a la vieja **\nBusco muchas de estas ** muestra con una ilusión las plantas que busca ** tengo que \"ayudar\" al alquimista\n**una pequeña risita se le sale ** me vas a ayudar ** le tiende la mano con ojitos de gato de Shrek**",
+      "mensaje_sha256": "321b4e00bc081c9aa9d9928e49e33fe761f052c0182a2cee35aefa43688936d4",
+      "tipo_discord": 19,
+      "referencia": "1486716492753145896",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1486717524392415373",
+      "texto_sha256": "a38040d210f86dda236f6ff5d833b2e33caad9f2b9f4b7ceef4d4f228431f5e6",
+      "adjuntos": []
+    },
+    {
+      "id": "1486718600906543217",
+      "fecha_utc": "2026-03-26T13:28:56.352000+00:00",
+      "fecha_local": "2026-03-26",
+      "editado_utc": "2026-03-26T13:29:08.624000+00:00",
+      "texto": "Pinky: *Joder, si que habla la cosa està... Espera, no será cosa de que aún voy...* **Ves que te toca con un dedo para comprobar si eres real** *No se yo..* ¿Ayuda? Ummm... Bueno, y que puedes tu ofrecerme a cambio?",
+      "mensaje_sha256": "9f9b0da04fc73a8599b6ba566ad3a9f2100e6c9c49c292d78071ed0655c05ffb",
+      "tipo_discord": 19,
+      "referencia": "1486717524392415373",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1486718600906543217",
+      "texto_sha256": "a7950c74ed1dede370b7ec9e4cb2bf9afb58df9492d84d08083200552b64c525",
+      "adjuntos": []
+    },
+    {
+      "id": "1486719114591342873",
+      "fecha_utc": "2026-03-26T13:30:58.824000+00:00",
+      "fecha_local": "2026-03-26",
+      "editado_utc": null,
+      "texto": "Luna: \n** Al escuchar la petición, Luna comienza a sacar muchas cosas de sus saquillos ** te sirve esto o esto o esto o esto también o esto, puede que esto otro... no no esto es mas adecuado",
+      "mensaje_sha256": "03c464bd52aa85623e94964a9b2f91e6d760f966c3573dd49798377346ad13ad",
+      "tipo_discord": 19,
+      "referencia": "1486718600906543217",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1486719114591342873",
+      "texto_sha256": "3267ef72f576e16cd09c94db2effcd88e099e17c886ab46ab7711c711476b9ba",
+      "adjuntos": []
+    },
+    {
+      "id": "1486719913296003112",
+      "fecha_utc": "2026-03-26T13:34:09.250000+00:00",
+      "fecha_local": "2026-03-26",
+      "editado_utc": null,
+      "texto": "Pinky: Uuuuuh!! Eso eso!! **Señala una pistola pirata... A saber de donde la ha robado la kender** ¡Quiero eso!",
+      "mensaje_sha256": "de1963c2651276964694ed8c21a6b4cfd9d8dc36fbc3ff3cac6b0c55925e0c47",
+      "tipo_discord": 19,
+      "referencia": "1486719114591342873",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1486719913296003112",
+      "texto_sha256": "517e83eaef9ffacbf9daf2915fb792fa0c158a9a0cb4113c4f9d1e20c344d350",
+      "adjuntos": []
+    },
+    {
+      "id": "1486720637576810556",
+      "fecha_utc": "2026-03-26T13:37:01.932000+00:00",
+      "fecha_local": "2026-03-26",
+      "editado_utc": null,
+      "texto": "Luna: \nTuya!!! **Mira las iniciales en ella, JH..** no la recuerdo, pero ya no importa, seguramente alguien ya no la necesitaba.. ** mira a la vieja ** ahora me ayuda?? si si si si si si, verdad que si",
+      "mensaje_sha256": "35e0d7cf3e44a789d371633808a2054fae47d84a8eb430619060a4ee0f7d5656",
+      "tipo_discord": 19,
+      "referencia": "1486719913296003112",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1486720637576810556",
+      "texto_sha256": "8ab7e98bc3e381dbe9a8f5a2b0ecf5e4460895c620b3b2261579b4608afdb19b",
+      "adjuntos": []
+    },
+    {
+      "id": "1486722133433254021",
+      "fecha_utc": "2026-03-26T13:42:58.572000+00:00",
+      "fecha_local": "2026-03-26",
+      "editado_utc": null,
+      "texto": "Pinky: **Agarra la pistola como un tesoro y sin dejar de mirarla dice** Si si, claro, claro, plantas... **Con un sutil movimiento de manos, lanza el conjuro Crecimiento Salvaje y una parte del poblado de Cuicapalli se convierte en una plantación de Canabis** Ahí tienes... *Esto es eso que usan los extranjeros je je je. ¡Pum pum!* **Va jugando con la pistola e incluso mira a través del cañón... Si alguien apretara el gatillo... Adiós vieja... Si estuviera cargada, claro**",
+      "mensaje_sha256": "0548fe8e14ab0dcf651f682787433a4d91a2cf7e15f6cba338d3118f63e9ef3e",
+      "tipo_discord": 19,
+      "referencia": "1486720637576810556",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1486722133433254021",
+      "texto_sha256": "50b61a056c35f13f408db4bf128af2ba19a9079d78a81ee255b23c8990584db8",
+      "adjuntos": []
+    },
+    {
+      "id": "1486722859786178560",
+      "fecha_utc": "2026-03-26T13:45:51.748000+00:00",
+      "fecha_local": "2026-03-26",
+      "editado_utc": null,
+      "texto": "Luna: \n**Mientras mira por el cañón de la pistola, genera el ruido de disparo y ríe con descaro ** si si esas pum!!!! Gracias por las plantas ** Comienza a recolectar recolectar, dando saltitos alrededor de la vieja **",
+      "mensaje_sha256": "ab18dd7834efbb1c5529aaee97ee1bebc41441cdf42351137c4a25fea12d1608",
+      "tipo_discord": 19,
+      "referencia": "1486722133433254021",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1486722859786178560",
+      "texto_sha256": "2560a8bc00eda7b858749161dc438b1343d613ea5f83b2633e6332f1e5330a38",
+      "adjuntos": []
+    },
+    {
+      "id": "1486723997810032761",
+      "fecha_utc": "2026-03-26T13:50:23.074000+00:00",
+      "fecha_local": "2026-03-26",
+      "editado_utc": null,
+      "texto": "Pinky: **Se asusta un poco al escuchar el ruido y mira a todos lados** *Vaya, me he disparado y he sobrevivido... Je, debo ser inmune a esto... Ja ja ja ja*",
+      "mensaje_sha256": "616e3ef8d6c21a024ffc1babe4237ab3fb7fc97f50277e9495ff3ef01675e238",
+      "tipo_discord": 19,
+      "referencia": "1486722859786178560",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1486723997810032761",
+      "texto_sha256": "5bc9fce8886329fc8ed1d2e89aeb0751b08896f4e161dfda341e0444e730c5ac",
+      "adjuntos": []
+    },
+    {
+      "id": "1486787587288076288",
+      "fecha_utc": "2026-03-26T18:03:03.987000+00:00",
+      "fecha_local": "2026-03-26",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "e1d821494e7a63282f0e63ecca2b16e44f1a75f549d01a75cea7c7e1e3fa3d90",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1486787587288076288",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

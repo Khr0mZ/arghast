@@ -1,0 +1,166 @@
+{
+  "id": "k-1394991595232825365",
+  "campana": "kuroto",
+  "unidad_revision": "k-1394991595232825365",
+  "hilo_id": "1379945696089604209",
+  "hilo_nombre": "Sho, Barrios bajos - Capital de Kuroto",
+  "titulo": "La primera prueba de armadura destroza el maniquí",
+  "resumen": "El mecanismo se activa, pero aprieta hasta arrancar las extremidades del muñeco. Archi insiste en mejorar el diseño en lugar de aceptar una solución menos flexible.",
+  "relato": "Archi prueba sobre un maniquí una armadura ligera que se despliega al activar su runa. El mecanismo responde, pero su presión retuerce el muñeco y desprende sus extremidades. El artífice registra el resultado negativo y desmonta la pieza para seguir ajustándola.\n\nViktor propone que las placas envuelvan solo la armadura, evitando calcular la presión sobre todo el individuo a costa de flexibilidad. Archi reconoce haberlo pensado, pero recuerda que prometió mejorar los planos del cliente. Recoge brazos y piernas y vuelve al trabajo. Viktor lo observa un rato y regresa a sus propios inventos; no se obtiene todavía una prueba satisfactoria.",
+  "participantes": [
+    "Archi",
+    "Viktor Frankenbolt"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1394991595232825365",
+      "afirmacion": "La armadura activada destroza el maniquí.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1394993256684716104",
+      "afirmacion": "Viktor propone reducir la presión con un diseño menos flexible.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1394997641863102474",
+      "afirmacion": "Archi insiste en mejorar los planos.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "La víctima de la prueba es un muñeco, no una persona."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-07-16T10:38:33.994000+00:00",
+  "fin_utc": "2025-07-16T17:53:31.524000+00:00",
+  "fecha_local": "2025-07-16",
+  "intervalo": {
+    "anterior": 137,
+    "siguiente": 138,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1392928697199104071",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1395103349975552102",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 137,
+        "fecha": "2025-07-10",
+        "inicio_referencia_utc": "2025-07-10T18:00:57+00:00",
+        "fin_estimado_utc": "2025-07-10T20:45:41+00:00",
+        "duracion_video_segundos": 9884,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1392928697199104071"
+      },
+      {
+        "capitulo": 138,
+        "fecha": "2025-07-16",
+        "inicio_referencia_utc": "2025-07-16T18:02:21+00:00",
+        "fin_estimado_utc": "2025-07-16T21:05:27+00:00",
+        "duracion_video_segundos": 10986,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1395103349975552102"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1394991595232825365",
+      "fecha_utc": "2025-07-16T10:38:33.994000+00:00",
+      "fecha_local": "2025-07-16",
+      "editado_utc": null,
+      "texto": "Archi: ** Se veria un soporte de armaduras como un muñeco de pruebas . Veríamos una armadura ligera cubre un poco del pecho unas pequeñas hombreras y unos brazales \nEl diseño ya estaría preparado falta la prueba ** \n\nMuy bien veamos .** Traza la runa de activación y dice ** \nQue paxa armadura , modo combate . \n\n**la runa se activa y empieza a brillar haciendo que la armadura empiece a expandirse al estilo iron man . Como la de archi . **\nAsí asi , asi asi bien bien \n**de pronto el muñeco de pruebas empieza a retorcerse y tanto los brazos como las piernas saltan por los aires por la fuerza hecha por la armadura **\n\nUy ..  creo que le faltan unos ajustes .... \n\n** la desmonta del maniquí y sigue trabajando con ella **",
+      "mensaje_sha256": "51af74997b23835af0c264d6c2768f88b2d39d97bb9cbcbe18ef09a8389f6de7",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1394991595232825365",
+      "texto_sha256": "fe9b6e26bedd36866cbabf6340fc2baf6dec790a3f4894a458164d666acbbf0f",
+      "adjuntos": []
+    },
+    {
+      "id": "1394992145206612048",
+      "fecha_utc": "2025-07-16T10:40:45.118000+00:00",
+      "fecha_local": "2025-07-16",
+      "editado_utc": null,
+      "texto": "Viktor: **El humano se acerca al gnomo mientras se limpia las manos con un trapo lleno de aceite de motor** Vaya, vaya, señor Archi ¿Como va ese invento?",
+      "mensaje_sha256": "e9d66d315940a3758693414896943f49b77c0757df937954a1c0ff44b95f7f8a",
+      "tipo_discord": 19,
+      "referencia": "1394991595232825365",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1394992145206612048",
+      "texto_sha256": "c5ca6bf69e9c343d03455f5dc3daa7c4cf9f50a90228091c6a64e835df6846f8",
+      "adjuntos": []
+    },
+    {
+      "id": "1394992748511236218",
+      "fecha_utc": "2025-07-16T10:43:08.957000+00:00",
+      "fecha_local": "2025-07-16",
+      "editado_utc": "2025-07-16T10:43:14.682000+00:00",
+      "texto": "Archi: primera prueba con resultados negativos.  **apunta en un pergamino ** \nHe logrado la activación pero no se ha adaptado bien al cuerpo del muñeco y parece que le apretaba un poco ** le señala el muñeco que solo ha quedado torso y cabeza**",
+      "mensaje_sha256": "f5bcb036312c8ed726660de32d8ae617532da713c845cf088295dd07c306048e",
+      "tipo_discord": 19,
+      "referencia": "1394992145206612048",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1394992748511236218",
+      "texto_sha256": "73e21564cea0f496cbc359ffcb6c27fed5114a8a1c330dc0bd7c27d6b4481806",
+      "adjuntos": []
+    },
+    {
+      "id": "1394993256684716104",
+      "fecha_utc": "2025-07-16T10:45:10.115000+00:00",
+      "fecha_local": "2025-07-16",
+      "editado_utc": null,
+      "texto": "Viktor: Ummmmh... **El hombre se lleva los dedos a los labios pensativo** Ya veo... ¿Y si las placas solo envolvieran la armadura y no a todo el individuo? Así al menos no deberías calcular la presión de todo el cuerpo aunque... quiza quedaría una armadura poco flexible...",
+      "mensaje_sha256": "be0c79c98d8177782fb9df7da17357833206d73b63cfe31a20f786dc839444f0",
+      "tipo_discord": 19,
+      "referencia": "1394992748511236218",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1394993256684716104",
+      "texto_sha256": "6a06388b9767fae93cec2869a6c4ca01133409a5b44a9a50730ddd8d26e5ff4e",
+      "adjuntos": []
+    },
+    {
+      "id": "1394997641863102474",
+      "fecha_utc": "2025-07-16T11:02:35.623000+00:00",
+      "fecha_local": "2025-07-16",
+      "editado_utc": null,
+      "texto": "Archi: si... lo he pensado . Pero le dije al cliente que sería capaz de mejorar estos planos .. \nTengo que conseguirlo ... \nOtra vez **recoge las piernas y los brazos del muñeco y sigue trabajando **",
+      "mensaje_sha256": "0b3fa7b923b1210fc8fb16350b938afa45205b60262933aba28a3d945b9ede13",
+      "tipo_discord": 19,
+      "referencia": "1394993256684716104",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1394997641863102474",
+      "texto_sha256": "dcf9f26e0a866d21f4abfa722639497edf7c71971d665097daa7d8ee550cdfdc",
+      "adjuntos": []
+    },
+    {
+      "id": "1394998271201771533",
+      "fecha_utc": "2025-07-16T11:05:05.669000+00:00",
+      "fecha_local": "2025-07-16",
+      "editado_utc": null,
+      "texto": "Viktor: **El humano excéntrico se queda a tu lado un largo rato mirando como trabajas en esos planos y como los intentas mejorar. Luego se le dibuja una sonrisa en la cara y se marcha a seguir con sus inventos locos en el otro lado del taller**",
+      "mensaje_sha256": "35b0ff1e1056c1162f1e607dae0e1dca27053a366c4948e76fd347ff5e874071",
+      "tipo_discord": 19,
+      "referencia": "1394997641863102474",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1394998271201771533",
+      "texto_sha256": "d742ad987de76980639fd906e02d25bac088062fcbb97011899c0b6437ed212c",
+      "adjuntos": []
+    },
+    {
+      "id": "1395101056207159377",
+      "fecha_utc": "2025-07-16T17:53:31.524000+00:00",
+      "fecha_local": "2025-07-16",
+      "editado_utc": null,
+      "texto": "🔴Fin de la Escena🔴",
+      "mensaje_sha256": "6bd7033e852fba01156473465113708f162afb48855614eac7585f729948e207",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1395101056207159377",
+      "texto_sha256": "7b48f784e7d27f7d504591e65457ee8f6f5f093e0fa68b31981cee30b6cd3584",
+      "adjuntos": []
+    }
+  ]
+}

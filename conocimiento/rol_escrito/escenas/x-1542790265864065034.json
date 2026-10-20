@@ -1,0 +1,112 @@
+{
+  "id": "x-1542790265864065034",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1542790265864065034",
+  "hilo_id": "1495828307843747971",
+  "hilo_nombre": "??? - En alguna parte",
+  "titulo": "Viztya lleva el nombre de Kiaransalee al Consejo de Xhuldriss",
+  "resumen": "Se presenta ante Zissta con el favor de Lolth como argumento, pero la anfitriona sospecha objetivos ocultos.",
+  "relato": "Viztya comparece ante el Consejo de Xhuldriss. La matrona Zissta la recibe con una pregunta burlona sobre la importancia o desesperación de su visita. La enviada de Unthuar desprecia en privado a la ciudad por su historia de infiltración de seguidoras de Eilistraee. Los secuestros de hijas nobles son relatos que recuerda, sin nombres ni verificación nueva.\n\nLa suma sacerdotisa responde invocando la voluntad de Lolth y el favor del que presume Ches Farak. No ofrece la reverencia esperada, intentando colocarse simbólicamente por encima de la matrona anfitriona. Zissta recalca su título al pedir que diga por fin el asunto.\n\nViztya pronuncia Kiaransalee y provoca murmullos. Zissta permanece callada, tratando de descubrir qué oculta la visitante, y reconoce su habilidad política. El texto deja la negociación apenas iniciada. No se expone una propuesta concreta, se informa al Consejo de Ches Farak ni se sella alianza alguna.",
+  "participantes": [
+    "Viztya Unthuar",
+    "Zissta",
+    "Consejo de Xhuldriss"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1543267129707471010",
+      "afirmacion": "Viztya comparece ante Zissta y usa el favor de Lolth como argumento de autoridad.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1543267248565780640",
+      "afirmacion": "Presenta Kiaransalee como asunto de la visita y Zissta evalúa sus intenciones.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La mención inicial de Discord es aviso sin acción adicional.",
+    "No identificar a las hijas nobles del pasado mediante una mención a un usuario.",
+    "La reacción privada de Zissta no se convierte en apoyo político concedido."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-08-28T06:57:43.039000+00:00",
+  "fin_utc": "2026-08-29T14:33:04.577000+00:00",
+  "fecha_local": "2026-08-28",
+  "intervalo": {
+    "anterior": 56,
+    "siguiente": 57,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1541149597714350182",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1545132987136344065",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 56,
+        "fecha": "2026-08-23",
+        "inicio_referencia_utc": "2026-08-23T18:12:54+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1541149597714350182"
+      },
+      {
+        "capitulo": 57,
+        "fecha": "2026-09-03",
+        "inicio_referencia_utc": "2026-09-03T18:02:12+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1545132987136344065"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1542790265864065034",
+      "fecha_utc": "2026-08-28T06:57:43.039000+00:00",
+      "fecha_local": "2026-08-28",
+      "editado_utc": null,
+      "texto": "<@&1439948653996409004>",
+      "mensaje_sha256": "3f7d50efac23b5e46777ec30351833060a5526011ce6adbf82d6da18e0ee0d4c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1542790265864065034",
+      "texto_sha256": "da30f7935aa0d4816050ad4be8cdd81862f2db9e65bacabcf5ab7773a5e78e8a",
+      "adjuntos": []
+    },
+    {
+      "id": "1543267129707471010",
+      "fecha_utc": "2026-08-29T14:32:36.239000+00:00",
+      "fecha_local": "2026-08-29",
+      "editado_utc": null,
+      "texto": "Madre Matrona Zissta: Debe ser algo importante para que la Madre Matrona Brythya envíe a su hija más prometedora hasta nuestra ciudad. ¿O es desesperación? **La dirigente de la Ciudad de los Venenos mostraba una enorme sonrisa mientras observaba a la drow que acababa de entrar en la Cámara del Consejo.**\n\n**La Suma Sacerdotisa Viztya apretaba los dientes. Odiaba a estos drows. Odiaba la ciudad de Xhuldriss. Era una ciudad débil, dirigida por Matronas débiles. O eso creía ella. Conocía la historia del fracaso de la ciudad, como todos los drows. Más de tres siglos atrás, las seguidoras de la sucia diosa Eilistraee se infiltraron en la ciudad para, según ellas, liberar a los drows de la telaraña de Lolth. Incluso las casas regentes se vieron afectadas por ello. Se decía que hijas nobles habían sido secuestradas y ahora adoraban a la Bailarina Oscura. <@694971576340447292> Pero para Viztya, aquello solo demostraba la debilidad de sus habitantes. Y por eso Lolth había preferido la ciudad de Ches Farak. Su ciudad**\n\nViztya: Los deseos de Lady Lolth son siempre importantes, Madre Matrona Zissta. **Los murmullos de la sala del Consejo se apagaron. La Suma Sacerdotisa sabía perfectamente cómo poner nerviosas a las Matronas. Solo tenía que dejar claro que sus acciones eran voluntad de la Reina Araña para hacerlas dudar.** Como bien saben, la Casa Unthuar y la ciudad de Ches Farak cuentan con el favor de nuestra Señora del Caos. **Sonrió al ver cómo varias Matronas se removían nerviosas en sus asientos.** Y si estoy aquí como representante de la Casa Unthuar, creo que eso demuestra la importancia de mi presencia en este Consejo, Madre Matrona Zissta.\n.",
+      "mensaje_sha256": "e551ffe4b11412b6419dddd1188d1a160c102cb4e6d8bb2ca6d37de3c9fa794c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1543267129707471010",
+      "texto_sha256": "8f7d411037e9fff91a4f82ae9bbd411e034f2808502d47105f77871a12dafec3",
+      "adjuntos": []
+    },
+    {
+      "id": "1543267248565780640",
+      "fecha_utc": "2026-08-29T14:33:04.577000+00:00",
+      "fecha_local": "2026-08-29",
+      "editado_utc": null,
+      "texto": "Madre Matrona Zissta: **La anciana drow, la mujer más poderosa de la Ciudad de Xhuldriss, esperaba una reverencia de la Suma Sacerdotisa Unthuar. Pero Viztya no se la ofreció. Con aquel gesto dejaba claro que, ante los ojos de Lady Lolth, se consideraba más importante que la Madre Matrona de una ciudad que ya no gozaba del favor de la diosa.** ¿Cuál es entonces la cuestión importante, Suma Sacerdotisa Viztya? **Dijo entre dientes la Madre Matrona, haciendo especial hincapié en el título de su visitante, recordándole así cuál era su posición.**\n\nViztya: Kiaransalee. **Escupió la Sacerdotisa, sabiendo perfectamente que las demás miembros del Consejo se pondrían todavía más nerviosas. También sabía que bastaba con pronunciar aquel nombre para provocar murmullos y protestas en la Cámara del Consejo de las Matronas de Lolth.**\n\n**La Madre Matrona Zissta no se unió a los murmullos. Permaneció en silencio, observando detenidamente a la enviada de la Primera Casa de Ches Farak, intentando discernir qué era lo que realmente escondía.**\n**Viztya le devolvió la sonrisa, y la Madre Matrona Zissta comprendió lo buena que era aquella drow en los juegos de poder. Algo que, algún día, la convertiría en una poderosa Matrona. Una a la que habría que tener en cuenta... y, sobre todo, de su lado.**\n**Pero para eso aún quedaba mucho tiempo. O, al menos, mientras la Madre Matrona Brythya siguiera viva.**\n\n🔴 Fin de la Escena 🔴",
+      "mensaje_sha256": "6f9289785b55e38e67937cbcf7443fed888c54b87601fc657fe33a15e681d861",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1543267248565780640",
+      "texto_sha256": "869195dfb6f8c40436450d30722d57e970a9e64a47ccd07a7fb6d7efd6a8214b",
+      "adjuntos": []
+    }
+  ]
+}

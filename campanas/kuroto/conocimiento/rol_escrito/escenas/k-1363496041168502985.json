@@ -1,0 +1,291 @@
+{
+  "id": "k-1363496041168502985",
+  "campana": "kuroto",
+  "unidad_revision": "k-1363496041168502985",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "Banzo se disculpa antes de volver a Sho",
+  "resumen": "Banzo pregunta por el cultista prisionero y comunica su regreso a Sho, mientras Kaniza espera permiso para patrullar y Kurobane prepara un informe de reconocimiento.",
+  "relato": "Banzo desayuna en el Campamento Sur, preocupado privadamente por Khalista y por su conducta del día anterior. Kaniza lo saluda y pregunta cuándo podrán patrullar. Banzo responde que las patrullas ya están asignadas; Kaniza reconoce que solo dispone de rumores sobre lo que sale de las puertas y que tampoco ha conseguido consultar el libro que buscaba.\n\nDespués de ayudar en la empalizada, Banzo entra en la tienda de Aka para disculparse por acercarse a las puertas sin permiso y preguntar por el cultista que dejó prisionero en palacio. La comandante insiste en el peligro de su influencia y afirma que los cultistas prefieren morir o huir antes que hablar. No aporta resultados concretos del interrogatorio. Banzo anuncia que debe volver a Sho para un torneo y promete preguntar allí por el cautivo. Aka considera que mostrar gente fuerte puede tranquilizar a la población.\n\nKurobane llega con un reconocimiento preparado y espera fuera. Tras despedirse de Banzo intenta presentar su informe, pero no encuentra a la comandante y lo guarda para dirigirse a la base de los Cazadores. Ambos dejan expresamente la escena.",
+  "participantes": [
+    "Banzo",
+    "Kaniza",
+    "Aka",
+    "Kurobane"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1363514726155292813",
+      "afirmacion": "Kaniza distingue los rumores sobre las puertas de información confirmada y dice no haber accedido al libro.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1363619473252290701",
+      "afirmacion": "Banzo se disculpa ante Aka y pregunta por el cultista prisionero.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1363622338922414271",
+      "afirmacion": "Banzo anuncia su regreso a Sho por el torneo y su intención de preguntar por el prisionero.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1363627747938664448",
+      "afirmacion": "Kurobane guarda el informe sin entregarlo al no encontrar a Aka.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El detalle de la ruta 654 aparece como apunte privado de Kurobane; aquí no llega a informar a Aka.",
+    "Hay salidas explícitas de Banzo y Kurobane, pero no un FIN general del hilo; se mantiene como tramo de continuación."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2025-04-20T12:46:28.746000+00:00",
+  "fin_utc": "2025-04-20T21:30:40.249000+00:00",
+  "fecha_local": "2025-04-20",
+  "intervalo": {
+    "anterior": 105,
+    "siguiente": 106,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1362497195252650075",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1363944514846326895",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 105,
+        "fecha": "2025-04-17",
+        "inicio_referencia_utc": "2025-04-17T18:37:08+00:00",
+        "fin_estimado_utc": "2025-04-17T20:54:16+00:00",
+        "duracion_video_segundos": 8228,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1362497195252650075"
+      },
+      {
+        "capitulo": 106,
+        "fecha": "2025-04-21",
+        "inicio_referencia_utc": "2025-04-21T18:28:19+00:00",
+        "fin_estimado_utc": "2025-04-21T20:39:25+00:00",
+        "duracion_video_segundos": 7866,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1363944514846326895"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1363496041168502985",
+      "fecha_utc": "2025-04-20T12:46:28.746000+00:00",
+      "fecha_local": "2025-04-20",
+      "editado_utc": "2025-04-20T12:47:14.040000+00:00",
+      "texto": "Banzo : **Banzo se despereza se coloca su atuendo , escupe al casco y lo frota para abrillantarlo y sale de la tienda ** *Debo volver a la base , quizá khalista <@753394009153732689> se haya recuperado o Jelbreg <@214405113677217793> me pueda decir algo... quizá deba hablar antes con Aka <@226504798978048000>  para disculparme por lo que pasó ayer* **se sienta y empieza a desayunar algo de pan duro que le dio ayer Shiretsu**",
+      "mensaje_sha256": "9888c25e66178152827caaec90236d9c02c39e975a5c846ccc7ad94f7a1a32a3",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1363496041168502985",
+      "texto_sha256": "8601d7efa5521d1f0271bb6907e1a54360be9dcf951d12c0f80de2162d892268",
+      "adjuntos": []
+    },
+    {
+      "id": "1363506539348099103",
+      "fecha_utc": "2025-04-20T13:28:11.707000+00:00",
+      "fecha_local": "2025-04-20",
+      "editado_utc": null,
+      "texto": "**Con la naginata al hombro, viniendo de practicar con el arma, venía el antiguo monje. Aún era muy pronto como para haber estado entrenando en teoría, pero es que tenía unos hábitos regulares de sueño que eran un poco una porquería.**\n\nKaniza: Oh hey Banzo, bienvenido al sitio este\n\n**Se paró un momento para saludar.**\n\nKaniza: ¿Alguna idea de cuándo permiten hacer patrullas?",
+      "mensaje_sha256": "459dec76c6d970aa06a984f83c2290948860879a5facf9e606e2cb02cad62ddc",
+      "tipo_discord": 19,
+      "referencia": "1363496041168502985",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1363506539348099103",
+      "texto_sha256": "a1bb09d9b70d0802c5830f34f106cbd044ad43a58bbd3f09e818f42e079c345a",
+      "adjuntos": []
+    },
+    {
+      "id": "1363510536884453588",
+      "fecha_utc": "2025-04-20T13:44:04.794000+00:00",
+      "fecha_local": "2025-04-20",
+      "editado_utc": null,
+      "texto": "Buenas ,** saluda con la cabeza mientras afila el arma ** Estamos esperando nuevas órdenes por el momento, las patrullas ya están asignadas por lo que se",
+      "mensaje_sha256": "71c8d105e89a716f52b9974e3d070840b14f14d9a1889406b944c8478d4c5483",
+      "tipo_discord": 19,
+      "referencia": "1363506539348099103",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1363510536884453588",
+      "texto_sha256": "b84e8a676d94f40b670542377a54ac50c98216f8125996f6feb789745238ff90",
+      "adjuntos": []
+    },
+    {
+      "id": "1363514726155292813",
+      "fecha_utc": "2025-04-20T14:00:43.594000+00:00",
+      "fecha_local": "2025-04-20",
+      "editado_utc": null,
+      "texto": "Kaniza: Yah, eso es lo que he oído al menos **asintió** Igual que he oído que lo que sea que tienen aquí ha estado chorreando de alguna forma de vez en cuando **pero se encogió de hombros** Rumores, ya sabes. Hasta que no podamos confirmar nada valen como cualquier otra cosa\n\n**Le dirigió un vistazo a la puerta que no estaba demasiado más allá. Desde allí no podía ver gran cosa, y todo lo que podía hacer con ella era seguir realizando los rituales para minimizar lo que fuera que podía suponer estar cerca de eso**\n\nKaniza: Espero que no tarden demasiado. Podría ser útil que algunos de nosotros puedan acercarse para al menos vigilar las inscripciones. He tratado de conseguir acceso al libro ese que decís, para poder ver si podría saber algo al menos, pero no ha habido suerte **dijo, sonando bastante menos preocupado (o tenso) sobre el tema que la última vez** Ah bueno. La vida la mama a veces. ¿Hace algo de sopa para el pan?",
+      "mensaje_sha256": "49d04dad4a7a632448ffb777213c69a0f9c3b9e5cfbe01a71bf8b80331e6efc3",
+      "tipo_discord": 19,
+      "referencia": "1363510536884453588",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1363514726155292813",
+      "texto_sha256": "ced45ec2eff51000f7fb58d3d544a9f62431077590be3256088026efcf75ce1d",
+      "adjuntos": []
+    },
+    {
+      "id": "1363605385235140649",
+      "fecha_utc": "2025-04-20T20:00:58.403000+00:00",
+      "fecha_local": "2025-04-20",
+      "editado_utc": null,
+      "texto": "Banzo: gracias Kaniza pero no tengo mucho apetito ** se le vería como distraído se levanta y se dirige hacia las empalizadas para ayudar a los soldados en los que pueda **",
+      "mensaje_sha256": "61bf6cd38a46e0a4328be311997fcde5cf5f4dac5d24fa139bb1cb885810559d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1363605385235140649",
+      "texto_sha256": "7aae7c9537c5e4438c8e1fb8f946eb669d2b37de2eb2be1b7c8ef689b2ec47e0",
+      "adjuntos": []
+    },
+    {
+      "id": "1363615308245373009",
+      "fecha_utc": "2025-04-20T20:40:24.233000+00:00",
+      "fecha_local": "2025-04-20",
+      "editado_utc": "2025-04-20T20:40:33.668000+00:00",
+      "texto": "Aka: **La general Aka esta recibiendo los informes de los diferentes soldados en los puestos de vigia**",
+      "mensaje_sha256": "4f65c52aa0355331eeb43156e96c9cd66e0e407e48a94aaefb9603f23521c36a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1363615308245373009",
+      "texto_sha256": "efea49b2f248f2a6173b5ba214dd252f883ee150dcc0db9c1037ed020562891a",
+      "adjuntos": []
+    },
+    {
+      "id": "1363617996639043695",
+      "fecha_utc": "2025-04-20T20:51:05.196000+00:00",
+      "fecha_local": "2025-04-20",
+      "editado_utc": null,
+      "texto": "Banzo: ** banzo se aleja un poco de la empalizada , coge un calabaza con agua bebe y se la ofrece al soldado que tiene al lado . Después mira hacia la tienda de la comandante <@226504798978048000> , vuelve a guardar la calabaza y se acerca a la tienda , se queda en la puerta y dice**\nComandante estas ocupada ?",
+      "mensaje_sha256": "40bfa5a5c78483660626b2a04456d47a2fb4a877b7536832681ae2e4edbb3275",
+      "tipo_discord": 19,
+      "referencia": "1363615308245373009",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1363617996639043695",
+      "texto_sha256": "816776fb4884b9d0278244bf033a8ae91e4769fec4b977114cacafaae56b7806",
+      "adjuntos": []
+    },
+    {
+      "id": "1363618960225865819",
+      "fecha_utc": "2025-04-20T20:54:54.933000+00:00",
+      "fecha_local": "2025-04-20",
+      "editado_utc": null,
+      "texto": "Aka:\n\n**Desde la tienda, puedes oir como te permite el paso**\n\nAdelante, pasa Banzo",
+      "mensaje_sha256": "a1a5afb16ea43477d9813c49e9f89c79b16b1f64726a2ddf64de8268dc0404e8",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1363618960225865819",
+      "texto_sha256": "6b6524edb8e186c6c0cb1f958a32d0aad4ef100a4cf68fc631eee0e18c3b0c74",
+      "adjuntos": []
+    },
+    {
+      "id": "1363619473252290701",
+      "fecha_utc": "2025-04-20T20:56:57.248000+00:00",
+      "fecha_local": "2025-04-20",
+      "editado_utc": "2025-04-20T20:57:12.740000+00:00",
+      "texto": "Banzo: Hola Aka , lo primero quería disculparme por lo de ayer , no debí acercarme a la puerta sin permiso . \nQuería preguntarte has tenido tiempo de interrogar al cultista que dejé en palacio ?",
+      "mensaje_sha256": "826d068adc2647413da0e8d408adcf9c3ce585969cdd0d2b210a3c45863a0223",
+      "tipo_discord": 19,
+      "referencia": "1363618960225865819",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1363619473252290701",
+      "texto_sha256": "f823056ff38636a711eb0f13d6bf35cb3367bef131b775b0675681ba5bb47e3e",
+      "adjuntos": []
+    },
+    {
+      "id": "1363620308904575016",
+      "fecha_utc": "2025-04-20T21:00:16.483000+00:00",
+      "fecha_local": "2025-04-20",
+      "editado_utc": null,
+      "texto": "Kurobane: **Después de haber investigado una de las rutas y entrenar estaría subido a un arbol cercano a la tienda de Aka**\n\n*-Ruta 654: Habilitada para empalizada, tener cuidado con los yokais de la montaña, llevar una persona que pueda hablar con ellos, hay una buena visualización de una de las bases de los cultistas.*\n\n**Desciende gracilmente del arbol, se dirige a la tienda pero al escuchar a Banzo y Aka, decide esperar fuera**",
+      "mensaje_sha256": "35d58d2b0f0bbcccf1787b82b0aa1aa83c7a6be3b5f65372ead865da0d706458",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1363620308904575016",
+      "texto_sha256": "8224920f9e15e9c2d71a1edd777bfadf00e71014ad1f489e645198453b0c7d21",
+      "adjuntos": []
+    },
+    {
+      "id": "1363621130392305684",
+      "fecha_utc": "2025-04-20T21:03:32.341000+00:00",
+      "fecha_local": "2025-04-20",
+      "editado_utc": null,
+      "texto": "Aka:\n\nDeberiais tener mas cuidado, esas puertas negras no son cualquier cosa, y su influencia es poderosa. \n\nLos cultistas prefieren morir o huir antes de soltar palabra. No se mucho mas de el, pero espero cualquier noticia sobre ello",
+      "mensaje_sha256": "a1e2ebbf0e61c2ef922eaa023fac56a6042f589b07a6530db84ed0fdad36ff77",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1363621130392305684",
+      "texto_sha256": "93648cb0b7c2d036a2529bcf793b19f6e7a7e792f99be21942a2ab163beccbea",
+      "adjuntos": []
+    },
+    {
+      "id": "1363622338922414271",
+      "fecha_utc": "2025-04-20T21:08:20.477000+00:00",
+      "fecha_local": "2025-04-20",
+      "editado_utc": "2025-04-20T21:08:43.949000+00:00",
+      "texto": "Banzo : mañana he de volver Sho , me esperan para lo que parece una especie de torneo , no se si tengo muchas ganas de un torneo ara mismo , con lo de khalista y lo que tenemos por aquí... \nSi tengo oportunidad preguntaré si le han sacado algo de información al prisionero",
+      "mensaje_sha256": "a89ea76131c146c5b6003171033165ef62456109626864d3752f41ac77b510c0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1363622338922414271",
+      "texto_sha256": "0af9dd87961ce849a000d9a5d8fbbb1ed8443e584fcb76abd60f2e08307ef813",
+      "adjuntos": []
+    },
+    {
+      "id": "1363624212367151276",
+      "fecha_utc": "2025-04-20T21:15:47.141000+00:00",
+      "fecha_local": "2025-04-20",
+      "editado_utc": null,
+      "texto": "Aka: \n\nMe parece bien, ademas, demostrando a la gente que hay personas fuertes les dara una sensacion de estar a salvo",
+      "mensaje_sha256": "36b86e8c0927700b22bf344840843e64a76a852a53c5cb051c014380a9c4df17",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1363624212367151276",
+      "texto_sha256": "8145a541288bfcfe81e1444bc83c7bcd8d2bb2debc9d1ad5a2068ae5b851b557",
+      "adjuntos": []
+    },
+    {
+      "id": "1363627287416668180",
+      "fecha_utc": "2025-04-20T21:28:00.290000+00:00",
+      "fecha_local": "2025-04-20",
+      "editado_utc": "2025-04-20T21:28:26.047000+00:00",
+      "texto": "Banzo : **sonrriena a Aka y la hace un saludo y se dispone a salir de la tienda ** \n**se detiene al ver a kurobane <@240564189448503306> ** Hola kuro , voy dirección a la capital, si vas a quedarte por aqui mantente alerta , llevo unos días con una sensación rara esta todo demasiado .. tranquilo . \n**le hace un gesto con la mano en señal de despedida mientras se aleja dirección a Sho **",
+      "mensaje_sha256": "ae1e2ddbe3ef254f2666f6b2f6aecd3b810eb7c3848fcf8bfb3f072454cd803e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1363627287416668180",
+      "texto_sha256": "7f646710b6427556224d4d4052102149f960ce353dc1c43089f57b9c85740be4",
+      "adjuntos": []
+    },
+    {
+      "id": "1363627747938664448",
+      "fecha_utc": "2025-04-20T21:29:50.087000+00:00",
+      "fecha_local": "2025-04-20",
+      "editado_utc": "2025-04-21T13:37:02.298000+00:00",
+      "texto": "Kurobane: Yo siempre estoy alerta, señor Banzo. Le deseo suerte en el torneo.\n\n**Dice mientras guarda el informe y empieza a entrar en la tienda de Aka**\n\nComandante Aka le tengo listo el informe\n\n**Guarda el informe al no ver a la comandante**\n\n*Iré a la bese de los cazadores*\n\n❌ Kurobane sale de escena❌",
+      "mensaje_sha256": "916fd3b3bb9b9c708e64e685208f19f054027933215f6aba90dad2d7e7448362",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1363627747938664448",
+      "texto_sha256": "0f0c7d1a26004ebdd91be8760390c7795255ec4e6836aabd2e4e9f0627f45c42",
+      "adjuntos": []
+    },
+    {
+      "id": "1363627958333476934",
+      "fecha_utc": "2025-04-20T21:30:40.249000+00:00",
+      "fecha_local": "2025-04-20",
+      "editado_utc": null,
+      "texto": "❌ Banzo sale de escena❌",
+      "mensaje_sha256": "73e51c084b269ffaacc3b2b5f754ed8a2d8907539b78718407be857b5f26efdd",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1363627958333476934",
+      "texto_sha256": "c96295f677bcb06907eca0fab41362e08df2d9b2d31452c4036012946d14e921",
+      "adjuntos": []
+    }
+  ]
+}

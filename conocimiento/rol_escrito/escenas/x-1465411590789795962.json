@@ -1,0 +1,92 @@
+{
+  "id": "x-1465411590789795962",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1465411590789795962",
+  "hilo_id": "1465411590789795962",
+  "hilo_nombre": "Shiaru - El ron de Bonny",
+  "titulo": "Happy Bonny reclama a los del barco estrellado",
+  "resumen": "La apertura de la taberna presenta a su dueña y su exigencia de encontrar a quienes dañaron la despensa.",
+  "relato": "El ron de Bonny se presenta como una taberna de piratas entre bebida, objetos voladores y un equilibrio precario que depende del humor de su dueña. La ilustración de una pelea acompaña esa ambientación; no identifica por sí sola participantes concretos.\n\nLa narración intenta describir a Happy Bonny, su cabello cuidado, su tatuaje, su cigarro y la enorme cimitarra, hasta que dos disparos interrumpen el retrato con una broma al narrador. Ella exige saber quiénes son los presentes y reclama que le traigan a los dos que han estampado un barco en su despensa. La continuación se remite a la sesión siguiente, sin resolver la reclamación en este preámbulo.",
+  "participantes": [
+    "Happy Bonny"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1465954856866021503",
+      "afirmacion": "Bonny exige que le lleven a quienes estrellaron un barco en su despensa.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Imagen de ambientación vista completa: pelea genérica de taberna, sin usarla como registro de una acción individual.",
+    "Happy y Angry son tratamientos del estado de humor de Bonny, no dos personas distintas.",
+    "La interrupción al narrador es una broma metanarrativa, sin víctima confirmada."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-01-26T18:22:29.275000+00:00",
+  "fin_utc": "2026-01-28T06:21:14.001000+00:00",
+  "fecha_local": "2026-01-26",
+  "intervalo": {
+    "anterior": null,
+    "siguiente": 1,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": true,
+    "anterior_fuente": null,
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1466153128880771253",
+    "ambito": "antes_del_primero",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 1,
+        "fecha": "2026-01-28",
+        "inicio_referencia_utc": "2026-01-28T19:28:45+00:00",
+        "fin_estimado_utc": "2026-01-28T21:58:17+00:00",
+        "duracion_video_segundos": 8972,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1466153128880771253"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1465411590789795962",
+      "fecha_utc": "2026-01-26T18:22:29.275000+00:00",
+      "fecha_local": "2026-01-26",
+      "editado_utc": null,
+      "texto": "*¿Qué hay mejor que un pirata borracho? ¡Pues muchos piratas borrachos!*\n*Cuidado con los objetos cortantes y no cortantes que suelen volar por el lugar, las manos muy largas y lo mas importante: haz feliz a \"Happy Bonny\"... Porque no quieres conocer a \"Angry Bonny\".*",
+      "mensaje_sha256": "1001cece32446e42259aedfb1cf4f7adc1db9497b19c488e11597fa0e92fdeca",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1465411590789795962",
+      "texto_sha256": "27b797955abd8b83e2d664cf8a428d5e5b50fd41e298b826126542406c53f9c1",
+      "adjuntos": [
+        {
+          "id": "1465411591129399544",
+          "nombre": "f9c4525212af1fac9c41c44a8317c0b2.png",
+          "tipo": "image/png",
+          "archivo": "adjuntos/1465411591129399544.png",
+          "url": "rol_escrito/adjuntos/1465411591129399544.png",
+          "bytes": 1108190,
+          "sha256": "0d2de8af77fb02c5dc7494ecaf13f4d53e205b3ca0c959957baa05dc961dbc8d"
+        }
+      ]
+    },
+    {
+      "id": "1465954856866021503",
+      "fecha_utc": "2026-01-28T06:21:14.001000+00:00",
+      "fecha_local": "2026-01-28",
+      "editado_utc": null,
+      "texto": "**El pelo corto y castaño le caía por delante de la cara. A pesar de que aquel lugar era un tugurio apestoso, ella siempre llevaba el cabello impecablemente cuidado. Bonny... bueno, mejor dicho Happy Bonny... no era como los demás piratas. Sí, sí, tenía un gran tatuaje en el brazo izquierdo, una mirada capaz de atravesarte el alma, fumaba largos cigarros y manejaba aquella descomunal cimitarra como si fuera una extensión de su brazo… pero era bastante más lista que esos cabeza de gamba que solo sabían chillar y beber. Bonny era mucho… eh, perdón, no, no, no, por favor, Bonny!!.. digo Happy Bonny…\n¡BANG! ¡BANG!**\n\nHappy Bonny: ¿Quién narices sois vosotros? ¿Y por qué este idiota os estaba contando cosas de mí? ¡Fuera de mi taberna!\n¡Y que alguien me traiga a esos dos zoquetes que han estampado el barco en mi despensa!\n\n🔴La escena sigue esta tarde a las 20:00🔴",
+      "mensaje_sha256": "2a4df50dff8b4a8b2f0e34592e70ed7c5e30853b9b1c91eccb24280173080825",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1465954856866021503",
+      "texto_sha256": "a1930fdede4973dccf7093eedd11a52f12efbef710aae02221071d534d31870c",
+      "adjuntos": []
+    }
+  ]
+}

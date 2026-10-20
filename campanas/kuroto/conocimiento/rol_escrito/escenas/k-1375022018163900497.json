@@ -1,0 +1,347 @@
+{
+  "id": "k-1375022018163900497",
+  "campana": "kuroto",
+  "unidad_revision": "k-1375022018163900497",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Libros para el supuesto sobrino",
+  "resumen": "Banzo busca mejorar su lectura y paga voluntariamente por los libros prestados.",
+  "relato": "Al salir de su turno, Banzo lamenta no entender los términos económicos y políticos de las conversaciones de Rua. Va a la biblioteca y pide material sencillo con el pretexto de ayudar a un sobrino. Después de confundir al anciano bibliotecario con una mujer, lo acompaña a buscar libros y sostiene su escalera. Obtiene un volumen de yokais traviesos, con letra grande y desplegables, y otro más avanzado, El Lazarillo de Kuroto. También solicita pergaminos para sus dibujos. El bibliotecario reconoce sus collares y le ofrece los libros sin coste, con obligación de devolverlos, pero Banzo insiste y entrega cinco monedas de oro. Al preguntar por su familia, descubre que su hijo murió contra yokais y su esposa tres veranos atrás. Lo anima asegurando que los cazadores trabajarán por la prosperidad de Kuroto con Rua al mando y se marcha hacia la Base con sus lecturas.",
+  "participantes": [
+    "Banzo",
+    "bibliotecario de Sho"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1375022018163900497",
+      "afirmacion": "Banzo desea entender mejor las conversaciones de Rua.",
+      "tipo": "pensamiento"
+    },
+    {
+      "mensaje_id": "1375028969283522600",
+      "afirmacion": "El bibliotecario le ofrece un cuento ilustrado de yokais.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1375032234939121764",
+      "afirmacion": "El segundo libro es El Lazarillo de Kuroto.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1375035294512054314",
+      "afirmacion": "El bibliotecario acepta el pago voluntario de Banzo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1375035869513125918",
+      "afirmacion": "El bibliotecario cuenta la muerte de su hijo y de su esposa.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Las acusaciones contra Suichiro y la manipulación de los documentos no quedan verificadas en esta audiencia.",
+    "El bibliotecario no proporciona su nombre: Pérez Reverte es la forma con que Banzo lo llama en broma y no se adopta como identidad confirmada.",
+    "El viaje previo a Isla Espejismo no se reconstruye a partir de este regreso."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-22T08:06:35.804000+00:00",
+  "fin_utc": "2025-05-22T09:08:35.205000+00:00",
+  "fecha_local": "2025-05-22",
+  "intervalo": {
+    "anterior": 118,
+    "siguiente": 119,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1374814627057373194",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1375179577676267590",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 118,
+        "fecha": "2025-05-21",
+        "inicio_referencia_utc": "2025-05-21T18:22:18+00:00",
+        "fin_estimado_utc": "2025-05-21T21:21:50+00:00",
+        "duracion_video_segundos": 10772,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1374814627057373194"
+      },
+      {
+        "capitulo": 119,
+        "fecha": "2025-05-22",
+        "inicio_referencia_utc": "2025-05-22T18:32:29+00:00",
+        "fin_estimado_utc": "2025-05-22T22:24:07+00:00",
+        "duracion_video_segundos": 13898,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1375179577676267590"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1375022018163900497",
+      "fecha_utc": "2025-05-22T08:06:35.804000+00:00",
+      "fecha_local": "2025-05-22",
+      "editado_utc": null,
+      "texto": "Banzo : **Tras acavar su turno sale de palacio un poco cabizbajo , no se entera casi de las conversaciones porque no entiende muchos términos técnicos sobre geopolitica , agricultura , economía,  balances económicos...**\n\n*me gustaría poder entender a Rúa por lo menos cuando me cuenta las cosas...*\n\nVa en dirección a la biblioteca de Sho",
+      "mensaje_sha256": "8a5cf077f4c3fe7bdd5bfa8ab2aea21da828caabce2283e5d08d9ec42e3c9e0b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1375022018163900497",
+      "texto_sha256": "53910b5b96855e490ddb89663091e56cec44f201be819fc68872c8a1a2178373",
+      "adjuntos": []
+    },
+    {
+      "id": "1375023785186689035",
+      "fecha_utc": "2025-05-22T08:13:37.095000+00:00",
+      "fecha_local": "2025-05-22",
+      "editado_utc": "2025-05-22T08:14:28.128000+00:00",
+      "texto": ".\n\n\n\n\n\n\nBanzo : **entra a la biblioteca , y se dirige al mostrador . Se quita el yelmo  y ve a la bibliotecaria escribiendo una notas sin inmutarse de su presencia ** \n\nEjem. **tose un poco** . Buenos días señora <@214405113677217793>",
+      "mensaje_sha256": "f665f3b4866a2e4fac58c36d1fb2bca444ae62670fd8b2a766f1cfc4264b48f9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1375023785186689035",
+      "texto_sha256": "2b1585bc2b26dc48ef45960c2ea3a4c65795355ff14b035e126d232af606d0b6",
+      "adjuntos": []
+    },
+    {
+      "id": "1375024646256070789",
+      "fecha_utc": "2025-05-22T08:17:02.390000+00:00",
+      "fecha_local": "2025-05-22",
+      "editado_utc": null,
+      "texto": "Bibliotecario: **Ves un hombre mayor con una larga barba que se gira y te mira mientras se quita unas pequeñas gafas** Como que señorita?",
+      "mensaje_sha256": "7ae6da3d5bd7a3789279d5156582aa74540ac8411cfd46055f9f800d06e4f8d7",
+      "tipo_discord": 19,
+      "referencia": "1375023785186689035",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1375024646256070789",
+      "texto_sha256": "5b5cbdf423344fa641fa1509fd608e5288f3f79dbde804be109e2b9f019d40b1",
+      "adjuntos": []
+    },
+    {
+      "id": "1375025564976549938",
+      "fecha_utc": "2025-05-22T08:20:41.430000+00:00",
+      "fecha_local": "2025-05-22",
+      "editado_utc": null,
+      "texto": "Banzo : *hostia que fea, a no que es un tío...*\nAaah! Emm perdón. No soy de aquí y me cuesta un poco pronunciar . Disculpe . \n\nMira venía buscando unos libros ... \nTengo un sobrino pequeño que está aprendiendo a leer y escribir y quiero que practique para que tenga más fluidez.  \nMe podría ayudar con eso ?",
+      "mensaje_sha256": "02b7aeb6bf2ae139cc6660cb69c3e7e09153d7f8b2faac0ba79a636ff4041398",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1375025564976549938",
+      "texto_sha256": "e48f6b86e31a8a2c2ba84c48d1dd9f3160a6589b349234e49510b14dd049b0a6",
+      "adjuntos": []
+    },
+    {
+      "id": "1375026824458932366",
+      "fecha_utc": "2025-05-22T08:25:41.714000+00:00",
+      "fecha_local": "2025-05-22",
+      "editado_utc": "2025-05-22T08:25:57.670000+00:00",
+      "texto": "Bibliotecario: **El hombre de levanta como puede con un gran gruñido y un crujido de huesos mientras se aproxima a las estanterías** Creo que había algo de eso por aquí... dejame ver... **El hombre se sube a una escalera un poco roñosa que parece que se vaya a romper en cualquier momento**",
+      "mensaje_sha256": "73887ebf873314781875a6e22cec8770d83a99175402b58d3b29e69e1ad77abb",
+      "tipo_discord": 19,
+      "referencia": "1375025564976549938",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1375026824458932366",
+      "texto_sha256": "7ab123b2bad95cdc3634f09de2da30c3002c0d7c6701f1798c752fa85d80d1f4",
+      "adjuntos": []
+    },
+    {
+      "id": "1375027353788616736",
+      "fecha_utc": "2025-05-22T08:27:47.916000+00:00",
+      "fecha_local": "2025-05-22",
+      "editado_utc": null,
+      "texto": "Banzo : **va acompañado al señor, un poco nervioso por su fragilidad parece que va a morir en breve , se coloca junto a él en la escalera y ma aguanta **",
+      "mensaje_sha256": "898df6de300e0f0abb9157cfd350855722d31aea53e03c0ae6a260fc66ef7b30",
+      "tipo_discord": 19,
+      "referencia": "1375026824458932366",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1375027353788616736",
+      "texto_sha256": "5a459fe1815ecc36191c6a9dcb12e46d2a586ddcc4798842fbb237af0f078a40",
+      "adjuntos": []
+    },
+    {
+      "id": "1375028173388906526",
+      "fecha_utc": "2025-05-22T08:31:03.324000+00:00",
+      "fecha_local": "2025-05-22",
+      "editado_utc": null,
+      "texto": "Bibliotecario: **El hombre es más bajito que tu aunque se haya subido a la escalera. Alarga la mano para intentar agarrar un libro en la estantería de arriba, se pone de puntillas pero sus dedos no llegan** Ummmmfff... maldita sea... **Te mira y ve lo grande que eres, que incluso llegas a la estantería de arriba sin alargar el brazo** Me puedes bajar ese libro, el del lomo verde...",
+      "mensaje_sha256": "eb4366353738f2f6d7cfc6f1305666da2bc5ad14c2ee619e52d645618160ac7d",
+      "tipo_discord": 19,
+      "referencia": "1375027353788616736",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1375028173388906526",
+      "texto_sha256": "bcc49954c88d5222f7a85a7c89c69b5143e56a8028d8738d24d6d7265b4c8c59",
+      "adjuntos": []
+    },
+    {
+      "id": "1375028613778243674",
+      "fecha_utc": "2025-05-22T08:32:48.321000+00:00",
+      "fecha_local": "2025-05-22",
+      "editado_utc": null,
+      "texto": "Banzo: sisi por supuesto \n**alarga el brazo y lo coge , moviendo un poco la escalera sin querer **",
+      "mensaje_sha256": "f82b435363f719914e4e53552bc9b0ef1d1c1c5c132d7fb5060b745a480394e0",
+      "tipo_discord": 19,
+      "referencia": "1375028173388906526",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1375028613778243674",
+      "texto_sha256": "da19fa0cfb64b1e9963c15c6352b4a3463980cbba458303aabc4f13cab710248",
+      "adjuntos": []
+    },
+    {
+      "id": "1375028969283522600",
+      "fecha_utc": "2025-05-22T08:34:13.080000+00:00",
+      "fecha_local": "2025-05-22",
+      "editado_utc": null,
+      "texto": "Bibliotecario: Creo que con este libro tu sobrino podrá empezar a leer. **Es un libro colorido de dibujitos de yokais que hacen travesuras. La letra es grande y palabras simples, además tiene desplegables muy divertidos**",
+      "mensaje_sha256": "c68e98212cdc5317a0f21def2b1201d15a80d4491ad8379825b8ceab20d3315c",
+      "tipo_discord": 19,
+      "referencia": "1375028613778243674",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1375028969283522600",
+      "texto_sha256": "44df84da9fc5b813cb4a93d369eacadc74873ed823e4ee946737ed2547bbde95",
+      "adjuntos": []
+    },
+    {
+      "id": "1375029803241177130",
+      "fecha_utc": "2025-05-22T08:37:31.911000+00:00",
+      "fecha_local": "2025-05-22",
+      "editado_utc": null,
+      "texto": "Banzo : **va ojeando el libro , y cuando se abre algún desplegable se sorprende y sonrrie ** \nEsta muy bien , es divertido este me lo llevo . \nTienes alguno otro con un poco más de texto ?",
+      "mensaje_sha256": "dac1ffbacbb07798a7a6a0fd13ae677fc52b87801fca1df15929514e9bf58fd3",
+      "tipo_discord": 19,
+      "referencia": "1375028969283522600",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1375029803241177130",
+      "texto_sha256": "61ecfd35c67b81ba74f8baafd17b77f5ba4ed505c080f2960b8e63d7fc5863de",
+      "adjuntos": []
+    },
+    {
+      "id": "1375032234939121764",
+      "fecha_utc": "2025-05-22T08:47:11.673000+00:00",
+      "fecha_local": "2025-05-22",
+      "editado_utc": null,
+      "texto": "Bibliotecario: **El hombre se lleva el dedo al mentón y se va a otro lado de la biblioteca donde empieza a rebuscar por un montón de libros** Ah, este. Este es para un poco más avanzados, pero puedes llevártelo. **Te da un libro que pone El Lazarillo de Kuroto, es un libro de un cabron que le intenta robar y aprovecharse de un ciego**",
+      "mensaje_sha256": "c387c5fe08f4d8cb9e4bdf1cf65faeeedea0e3d467b06b4427854739c4587f1b",
+      "tipo_discord": 19,
+      "referencia": "1375029803241177130",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1375032234939121764",
+      "texto_sha256": "4369e422339492e4a06df6105bb83fe2ef9e5f8593db189a7307575b029d3f69",
+      "adjuntos": []
+    },
+    {
+      "id": "1375033120897761331",
+      "fecha_utc": "2025-05-22T08:50:42.902000+00:00",
+      "fecha_local": "2025-05-22",
+      "editado_utc": "2025-05-22T08:55:47.144000+00:00",
+      "texto": "Banzo : muchas gracias! \n**se inclina hacia el en agradecimiento , agarra los libros ** \n*me he quedado sin hojas para mis dibujos*\nDeme unos pergaminos en blanco también y ya estará \nCuanto le debo ?",
+      "mensaje_sha256": "055b8256a61f73113e61e26473c780bf78354d92fcf148c1ca05da6d19467a41",
+      "tipo_discord": 19,
+      "referencia": "1375032234939121764",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1375033120897761331",
+      "texto_sha256": "8cbf3a9572adc11060dbb6318a306d89d0eadd1564281833bdb6d2a0a70993e3",
+      "adjuntos": []
+    },
+    {
+      "id": "1375034468053680128",
+      "fecha_utc": "2025-05-22T08:56:04.089000+00:00",
+      "fecha_local": "2025-05-22",
+      "editado_utc": null,
+      "texto": "Bibliotecario: **Levanta la vista y ve tus collares, el de los Cazadores y el del Shogunato.** Oh no no muchacho. Para los caballeros de su categoría no hace falta que abonen nada. Lo único que deberá devolverlos cuando haya acabado con ellos.",
+      "mensaje_sha256": "71a48f31321378d2bad88e435fad18dd6c68069021d745cb5d049da00db187b8",
+      "tipo_discord": 19,
+      "referencia": "1375033120897761331",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1375034468053680128",
+      "texto_sha256": "654bfee6a10ece1556d1e124a0cf9a2fcb811c68e13d44f93767f5ad9820ed40",
+      "adjuntos": []
+    },
+    {
+      "id": "1375034887387742209",
+      "fecha_utc": "2025-05-22T08:57:44.066000+00:00",
+      "fecha_local": "2025-05-22",
+      "editado_utc": null,
+      "texto": "Banzo : **vuelve hacer una reverencia ** \nInsisto señor ... esto es para mi uso . **se pone un poco nervioso ** digo para el de mi sobrino . \nAcepte esto . **le ofrece 5 monedas de oro **",
+      "mensaje_sha256": "185b31943642be7d7f831b0b8067f3b59ecb6153dbcfca33a5d1a5a614565c79",
+      "tipo_discord": 19,
+      "referencia": "1375034468053680128",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1375034887387742209",
+      "texto_sha256": "c5fb23b186c31f9a4e9bdc737381e75d97ad1f4ec300e930b45978c7bc17813d",
+      "adjuntos": []
+    },
+    {
+      "id": "1375035294512054314",
+      "fecha_utc": "2025-05-22T08:59:21.132000+00:00",
+      "fecha_local": "2025-05-22",
+      "editado_utc": null,
+      "texto": "Bibliotecario: **Agradece tus monedas con una reverencia** Gracias muchacho, se lo agradezco. Tal y como están las cosas este dinero me vendrá bien",
+      "mensaje_sha256": "384c5330405df2b4899bb59f55ef1cb8c251dcf7551d2063c6b2aae1b8888eee",
+      "tipo_discord": 19,
+      "referencia": "1375034887387742209",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1375035294512054314",
+      "texto_sha256": "e128cb8e6da159bec96393d6392e68d05d28c61a93ed65956aaba28a2ea7b9ab",
+      "adjuntos": []
+    },
+    {
+      "id": "1375035582337777665",
+      "fecha_utc": "2025-05-22T09:00:29.755000+00:00",
+      "fecha_local": "2025-05-22",
+      "editado_utc": null,
+      "texto": "Banzo : **Le pone la mano en el hombro al anciano **\nUsted tiene familia señor ? Viven aquí?",
+      "mensaje_sha256": "825da0719555d5be97e52db45b0fa045b5bfc6b5901a90c569929ca4c7a28897",
+      "tipo_discord": 19,
+      "referencia": "1375035294512054314",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1375035582337777665",
+      "texto_sha256": "39adb71b7dd3f825da6a070fbfdac300c571a4ce63b0fbb33a4149b6c57433c8",
+      "adjuntos": []
+    },
+    {
+      "id": "1375035869513125918",
+      "fecha_utc": "2025-05-22T09:01:38.223000+00:00",
+      "fecha_local": "2025-05-22",
+      "editado_utc": null,
+      "texto": "Bibliotecario: Uy no muchacho, mi hijo murió hace muchos años ya, contra unos yokais. Y mi mujer... bueno, paso a otra vida hace tres veranos...",
+      "mensaje_sha256": "490c16942f7a1d0b88b32fba065405ef967f7963cff394bcb4167dbc8c95e867",
+      "tipo_discord": 19,
+      "referencia": "1375035582337777665",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1375035869513125918",
+      "texto_sha256": "df8549675479c0b1b9272ad2f017c0911d3914bd5d03af3e1e7970ba67b4beb5",
+      "adjuntos": []
+    },
+    {
+      "id": "1375036477397798956",
+      "fecha_utc": "2025-05-22T09:04:03.154000+00:00",
+      "fecha_local": "2025-05-22",
+      "editado_utc": null,
+      "texto": "Banzo : lo lamento ... , recuerde esto entonces . \nTodo esto saldrá bien . Kuroto volverá a ser próspero, con Rúa al mando no dude que los cazadores de kuroto se dejaran la vida en ello . \n\nTodo saldrá bien . \n**se aleja hacia la puerta ** \nPor cierto,  soy Banzo \n**y le hace un gran sonrrisa **",
+      "mensaje_sha256": "96a5291720f0ceecc093a9e114e55a70a8dce5220ea9fb08e74ea5095563352e",
+      "tipo_discord": 19,
+      "referencia": "1375035869513125918",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1375036477397798956",
+      "texto_sha256": "2fb522883af831620981eb5770ad3ec61febca63ae4d476e6966e7ba7a33326e",
+      "adjuntos": []
+    },
+    {
+      "id": "1375037039514226688",
+      "fecha_utc": "2025-05-22T09:06:17.173000+00:00",
+      "fecha_local": "2025-05-22",
+      "editado_utc": null,
+      "texto": "Bibliotecario: **Te sonríe mostrando un montón de arrugas en la cara** Gracias, se que los cazadores hacéis todo lo que podéis, aunque haya gente que no tenga confianza en vosotros... Yo soy (No me acuerdo del nombre xD)",
+      "mensaje_sha256": "768c9694e2357679e19e21cb484462ba3d003a3e85828af346a1c72e14855fdf",
+      "tipo_discord": 19,
+      "referencia": "1375036477397798956",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1375037039514226688",
+      "texto_sha256": "908eb7f2d47877a4652c8c02919d477a73d3bf82094eb785aa35392a945807c5",
+      "adjuntos": []
+    },
+    {
+      "id": "1375037618462392340",
+      "fecha_utc": "2025-05-22T09:08:35.205000+00:00",
+      "fecha_local": "2025-05-22",
+      "editado_utc": null,
+      "texto": "Banzo : Agradecido señor Pérez Reverte .\n**le saluda con la mano mientras va de camino a la base con los libros \"para su sobrino\"**",
+      "mensaje_sha256": "fc30c92894bef8ff3ece66441b950ab489528824c9fd7e43d7007eb6f5712d7f",
+      "tipo_discord": 19,
+      "referencia": "1375037039514226688",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1375037618462392340",
+      "texto_sha256": "a75670bd8aca8041b42cdcc1117ef17a8f40b36c7ff21d99d2e2ce4fa789ba3a",
+      "adjuntos": []
+    }
+  ]
+}

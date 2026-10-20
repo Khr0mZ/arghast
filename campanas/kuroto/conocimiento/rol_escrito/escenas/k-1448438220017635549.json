@@ -1,0 +1,77 @@
+{
+  "id": "k-1448438220017635549",
+  "campana": "kuroto",
+  "unidad_revision": "k-1448438220017635549",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Shizzuka busca a los ausentes",
+  "resumen": "La kender reclama airadamente a los compañeros que han dejado los collares.",
+  "relato": "Una sombra enorme cubre la base de los Cazadores y el ambiente se carga de ira. Shizzuka exige saber dónde se han metido los compañeros a quienes llama traidores y proclama que nadie abandona el cuerpo sin su permiso. La escena mínima termina con su protesta, sin mostrar a ningún destinatario, una sanción efectiva o una sustitución formal del liderazgo.",
+  "participantes": [
+    "Shizzuka"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1448438220017635549",
+      "afirmacion": "Shizzuka protesta en una manifestación intimidante por la ausencia de los Cazadores.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "La hipérbole amenazante no determina especie, nivel ni autoridad oficial nueva para la niña."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-12-10T22:16:22.333000+00:00",
+  "fin_utc": "2025-12-10T22:16:22.333000+00:00",
+  "fecha_local": "2025-12-10",
+  "intervalo": {
+    "anterior": 172,
+    "siguiente": 173,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1448031934176428145",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1448753461364785172",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 172,
+        "fecha": "2025-12-09",
+        "inicio_referencia_utc": "2025-12-09T19:21:35+00:00",
+        "fin_estimado_utc": "2025-12-09T22:35:47+00:00",
+        "duracion_video_segundos": 11652,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1448031934176428145"
+      },
+      {
+        "capitulo": 173,
+        "fecha": "2025-12-11",
+        "inicio_referencia_utc": "2025-12-11T19:08:42+00:00",
+        "fin_estimado_utc": "2025-12-11T22:37:42+00:00",
+        "duracion_video_segundos": 12540,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1448753461364785172"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1448438220017635549",
+      "fecha_utc": "2025-12-10T22:16:22.333000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": null,
+      "texto": "**La base de los Cazadores se oscurece, una enorme sombra cubre todo el recinto. La sombra de una enorme y terrible ser del que ya habéis notado sus garras y su magia. Mientras avanza hacia la base, se puede sentir un ambiente pesado y lleno de ira**\n\nShizzuka: ¡¿Dónde os habéis metido malditos traidores?! ¡Nadie se va de los Cazadores si no lo digo yo!\n\n🔥Fin de la escena🔥",
+      "mensaje_sha256": "f8292e7ba13709bea00e05045dcb00d16274a50c92692160f093003e74a75763",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1448438220017635549",
+      "texto_sha256": "9817fc3b631f7855e2551eae70c1fa21ff9363b3a72c5c5b978591a1488509d8",
+      "adjuntos": []
+    }
+  ]
+}

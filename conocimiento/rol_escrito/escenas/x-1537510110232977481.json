@@ -1,0 +1,237 @@
+{
+  "id": "x-1537510110232977481",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1537510110232977481",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "Coyote guía a Oghma hasta el arroyo",
+  "resumen": "Una recién llegada con aspecto de anciana pide ayuda para orientarse y devuelve el coqueteo del cambiante.",
+  "relato": "Oghma da vueltas por Iktan sin hallar la salida y se queja de no encontrar un arroyo para refrescarse. Coyote aparece con halagos, la ayuda a levantarse y le ofrece guiarla. La desconocida responde con insinuaciones y una agilidad que contrasta con su aspecto anciano. Al llegar al agua, parte de su piel y su postura parecen rejuvenecer, sin que explique todavía su naturaleza.\n\nOghma cuenta que viene de un lugar lejano, oscuro y nublado, donde había licántropos peligrosos. Pregunta si Coyote es uno y crea un sello en una roca que llama detector, bromeando con que un resultado positivo le haría perder el brazo. Él toca la piedra, finge un calambre y revela enseguida que era una broma. No pierde el brazo ni se confirma una detección mágica. La conversación queda abierta junto al arroyo y continúa en el siguiente grupo de mensajes.",
+  "participantes": [
+    "Oghma",
+    "Coyote"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1537520268631605248",
+      "afirmacion": "Coyote conduce a Oghma al arroyo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1537523681688035451",
+      "afirmacion": "El aspecto de Oghma muestra rasgos más jóvenes al descalzarse y entrar al agua.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1537528309095866548",
+      "afirmacion": "Oghma crea un sello y lo presenta como detector de licántropos.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1537575075715485747",
+      "afirmacion": "Coyote toca la roca y finge una descarga antes de reírse.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El sello no proporciona un diagnóstico de licantropía acreditado.",
+    "La forma anciana no se toma como edad verdadera: la continuación desarrolla la capacidad de cambiar de aspecto."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-08-13T17:16:15.836000+00:00",
+  "fin_utc": "2026-08-13T21:34:24.814000+00:00",
+  "fecha_local": "2026-08-13",
+  "intervalo": {
+    "anterior": 51,
+    "siguiente": 52,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1536091712404066304",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1537533079118155877",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 51,
+        "fecha": "2026-08-09",
+        "inicio_referencia_utc": "2026-08-09T19:15:40+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1536091712404066304"
+      },
+      {
+        "capitulo": 52,
+        "fecha": "2026-08-13",
+        "inicio_referencia_utc": "2026-08-13T18:44:44+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1537533079118155877"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1537510110232977481",
+      "fecha_utc": "2026-08-13T17:16:15.836000+00:00",
+      "fecha_local": "2026-08-13",
+      "editado_utc": "2026-08-13T17:17:31.548000+00:00",
+      "texto": "Oghma:\n**Oghma, un poco perdida y sin tener muy clara aun la geografia del pueblo, pretende salir de el para buscar un arroyo cercano para refrescarse, pero tras dar vueltas durante casi una hora por el pueblo aun no ha encontrado la salida**\n¿Otra vez aqui?! Todos los arboles me parecen iguales y todo esta hecho de arboles, como echo de menos la civilizacion...\n**Con pose dramatica y un crujido de rodillas Oghma se arrodilla y solloza a viva voz**\n¡Ojala alguien fuera tan atento para ayudar a una pobre vieja a llegar a algun arroyuelo a remojarse!",
+      "mensaje_sha256": "44337e54e22a706eff29ae8784464a4c354e1db315ed5eb945dcb3f055533fcd",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537510110232977481",
+      "texto_sha256": "740f67d49fe84b7b8c8cf2b87ca54100a50936b396adc8be4bd01ecd1fde99cb",
+      "adjuntos": []
+    },
+    {
+      "id": "1537511451647025173",
+      "fecha_utc": "2026-08-13T17:21:35.654000+00:00",
+      "fecha_local": "2026-08-13",
+      "editado_utc": null,
+      "texto": "Coyote:\nAcaso he escuchado la voz de una damisela en apuros?~\n\n**De entre los arbustos y árboles frondosos salía un coyote caminando a dos patas, pose de chulería y jugando con una de sus dagas en la pata derecha**\n\nQuién se ha atrevido a dejar a tan hermosa mujer perdida por estos rincones?~",
+      "mensaje_sha256": "4b52bac3ec4a469dab6c520716c358fa373f70d7880db28bd5c3421c4d04b91f",
+      "tipo_discord": 19,
+      "referencia": "1537510110232977481",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537511451647025173",
+      "texto_sha256": "863d99cfe1a3187d264e6834ee3981cffa4b3ee9a9cb4965b6ee1a202f910e71",
+      "adjuntos": []
+    },
+    {
+      "id": "1537513966023213207",
+      "fecha_utc": "2026-08-13T17:31:35.128000+00:00",
+      "fecha_local": "2026-08-13",
+      "editado_utc": "2026-08-13T17:33:06.965000+00:00",
+      "texto": "Oghma:\n*Un calamar, una tortuga y ahora un perrete, y decian en mi tierra que yo era rara*\n**Oghma con la mano en la frente aun, cambia el gesto a un rubor sutil cuando escucha esas palabras, para el ojo entrenado, mas memoria muscular que reaccion verdadera**\nComo me alegro de encontrar a un... ¿caballero? tan educado y gentil en esta tierra tan salvaje ¿Podrias ayudarme a llegar a algun sitio para refrescarme? aunque en la taberna me estan tratando muy bien, una necesita a veces un poco de agua corriente",
+      "mensaje_sha256": "68764496ea7ba4e8db9c746e69582d42cfe031f92efbf854f99ad22fad61066d",
+      "tipo_discord": 19,
+      "referencia": "1537511451647025173",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537513966023213207",
+      "texto_sha256": "75052ec6b8936a44d74dc19c51e738753c4412222c89aa9ae76dd06d1dc6c425",
+      "adjuntos": []
+    },
+    {
+      "id": "1537514481632936026",
+      "fecha_utc": "2026-08-13T17:33:38.059000+00:00",
+      "fecha_local": "2026-08-13",
+      "editado_utc": "2026-08-13T17:33:53.311000+00:00",
+      "texto": "Coyote:\nNo se preocupe que conozco el lugar perfecto para usted, se nota que está muy cansada y que necesita alguien que la procure~\n\n**Coyote se acercó para ofrecerle la pata y ayudarla a levantarse**\n\nEn este momento está en muy buenas manos~",
+      "mensaje_sha256": "b39d230a9201d18c028f19976a03a38d3c13571f432ed24a49c66f8b82335e1f",
+      "tipo_discord": 19,
+      "referencia": "1537513966023213207",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537514481632936026",
+      "texto_sha256": "d46abcce5633b5182cb7b989670748eb9c632f21bcf9e16d404751945fd7962d",
+      "adjuntos": []
+    },
+    {
+      "id": "1537515580326813898",
+      "fecha_utc": "2026-08-13T17:38:00.008000+00:00",
+      "fecha_local": "2026-08-13",
+      "editado_utc": null,
+      "texto": "Oghma:\n**Oghma se agarra a la pata peluda y se levanta, pero parece incluso mas doblada y vieja que antes**\nSi por favor, guiame alegre desconocido, se mi coyote lazarillo en estas lejanas tierras. Por cierto, ¿tienes nombre o basta con un silbido?",
+      "mensaje_sha256": "68745b1709926fb5502b4ec1101d16b861c4a549030d8d0819abba1458ff71b3",
+      "tipo_discord": 19,
+      "referencia": "1537514481632936026",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537515580326813898",
+      "texto_sha256": "14f73496d50af10efb1c3ebbe32d7f23e063794a399002b476e063ac7babdf05",
+      "adjuntos": []
+    },
+    {
+      "id": "1537516430096990300",
+      "fecha_utc": "2026-08-13T17:41:22.609000+00:00",
+      "fecha_local": "2026-08-13",
+      "editado_utc": null,
+      "texto": "Coyote:\nPuede llamarme Coyote, bella Dama, pero si gusta, puede llamarme \"Mi amor\"~\n\n**Descaradamente le tomó de la cintura, apegandola hacia su pecho**\n\nPuedo ser lo que usted guste si así me lo permite, no tengo límite alguno, mi querida Pasita dulce~",
+      "mensaje_sha256": "8e43c4e98956b36e6674cbd827b5dd515017afb29edbb2ec01f0e0f0b4455bb3",
+      "tipo_discord": 19,
+      "referencia": "1537515580326813898",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537516430096990300",
+      "texto_sha256": "9ec2dcb84762fe37a16bc45c9561e0a036e565da15ac8315535496804622670b",
+      "adjuntos": []
+    },
+    {
+      "id": "1537518886780543036",
+      "fecha_utc": "2026-08-13T17:51:08.328000+00:00",
+      "fecha_local": "2026-08-13",
+      "editado_utc": null,
+      "texto": "Oghma:\n**Oghma esboza una sonrisa de oreja a oreja que hace que incluso algunas arrugas desaparezcan, su espalda se endereza con un crujido y se acerca a la oreja de Coyote**\nAsi que eres de ese tipo... Hacia tiempo que no me ofrecian cosas tan entretenidas. Vamos pequeño, enseñame ese arroyo y puede k veas un manantial.\n**Oghma se agarra firmemente a la cintura de Coyote y se deja guiar mientras le hace preguntas socarronas**\n...supongo que al tener tanto pelaje no te molestara tener pelos en la lengua...",
+      "mensaje_sha256": "06bec007d9c9ae177cfb64e72332dff91cc371f1e9eb4f89f1f2782ffbf4f1bb",
+      "tipo_discord": 19,
+      "referencia": "1537516430096990300",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537518886780543036",
+      "texto_sha256": "748f26d437af5a857622f2ce3f22e1a9fa78639c5dbaf94f2b7633a2382db9fe",
+      "adjuntos": []
+    },
+    {
+      "id": "1537520268631605248",
+      "fecha_utc": "2026-08-13T17:56:37.787000+00:00",
+      "fecha_local": "2026-08-13",
+      "editado_utc": null,
+      "texto": "Coyote:\n*Quien come de todo, jamás pasa hambre, gracias Dioses*\n\n**Afirmó Coyote con la cabeza mientras se relamía el osico**\n\nNunca le digo que no a una buena porción de carne, dicen que entre más maduro el jamón, más sabroso es su sabor~\n\n**La conducía hasta el arrollo más cercano del pueblo, tratandola con suavidad, la misma que en su momento iba a desaparecer cuando llegara el momento indicado**\n\nAquí es, mi señora~",
+      "mensaje_sha256": "b78c62c5e010627a5564ace1937c8a27a053c57e16bbe64c7980deae862c1204",
+      "tipo_discord": 19,
+      "referencia": "1537518886780543036",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537520268631605248",
+      "texto_sha256": "0562cffba66e637a405b0eb09bbaf09b6c60c4d26a31fa043df6f0620f95efe1",
+      "adjuntos": []
+    },
+    {
+      "id": "1537523681688035451",
+      "fecha_utc": "2026-08-13T18:10:11.523000+00:00",
+      "fecha_local": "2026-08-13",
+      "editado_utc": null,
+      "texto": "Oghma:\n**Con un agil movimiento, mas propio de una chiquilla que de una venerable anciana, se acerca hacia la orilla y mientras se descalza puede observarse como la piel del pie se va poniendo tersa, firme y blanquecina segun va saliendo del roido zapato para adentrarse en el agua.**\nPor fin un poco de alivio, casi me siento hasta mas joven.\n**Durante un instante su postura se relaja y sus ojos parecen mas brillantes, grandes y jovenes**\nY dime Coyote, ¿llevas mucho tiempo en el pueblo?",
+      "mensaje_sha256": "b60cdde407be52b1fd7c0ddf4238fc8b7390c1304c91c8bf63f82e2fb7bb23ce",
+      "tipo_discord": 19,
+      "referencia": "1537520268631605248",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537523681688035451",
+      "texto_sha256": "5f7de85985dc349c48f78380c6129fa2d0d2b3f8b05684d3b0d76b2b10ac9417",
+      "adjuntos": []
+    },
+    {
+      "id": "1537524560675471402",
+      "fecha_utc": "2026-08-13T18:13:41.090000+00:00",
+      "fecha_local": "2026-08-13",
+      "editado_utc": null,
+      "texto": "Coyote:\nTristemente toda mi vida \n\n**Coyote se acercaba a la orilla, mirándola de arriba a abajo, no le despegaba la mirada ni un segundo**\n\nY por lo visto, usted no es de aquí, porque de ser el caso, jamás me hubiese olvidado de tan lindo rostro~",
+      "mensaje_sha256": "a607dee558d7198d4e5d46eecdaa25a283c4b991b56e82e200f16883624433a4",
+      "tipo_discord": 19,
+      "referencia": "1537523681688035451",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537524560675471402",
+      "texto_sha256": "5e9f6e342188a955365a743a3f500a37a157d4d7e0877dfa3f9da6bdfd30ca3f",
+      "adjuntos": []
+    },
+    {
+      "id": "1537528309095866548",
+      "fecha_utc": "2026-08-13T18:28:34.783000+00:00",
+      "fecha_local": "2026-08-13",
+      "editado_utc": null,
+      "texto": "Oghma:\nOh no, no, soy de un lugar lejano, en cierto modo parecido a este, pero mas oscuro y nublado, tambien habia peludos, pero alli era mejor no acercarse, los licantropos son un peligro si una va sin cuidado y sin protecciones. ¿No eres un licantropo no? No quiero pillar nada raro por estar cerca\n**Oghma coloca un dedo sobre una roca y murmura unas palabras haciendo k sobre la roca aparezca un sello magico de apariencia indeterminada**\nToca esto, es un detector de licantropos, si lo tocas y se te cae el brazo es que es positivo. Tranquilo, no tengas miedo.",
+      "mensaje_sha256": "b7893524a6bf676525bd5f159830b62d76d80814db5c686f55d500077f37d922",
+      "tipo_discord": 19,
+      "referencia": "1537524560675471402",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537528309095866548",
+      "texto_sha256": "6a704b1bb22586cc02580c6fc85170488e498117e5f0c26a74eb97d53a3f1ebd",
+      "adjuntos": []
+    },
+    {
+      "id": "1537575075715485747",
+      "fecha_utc": "2026-08-13T21:34:24.814000+00:00",
+      "fecha_local": "2026-08-13",
+      "editado_utc": null,
+      "texto": "Coyote:\n**Levantó los hombros y tocó la piedra sin problema alguno, fingía que le estaba dando un toque eléctrico pero después soltó una risa burlona**\n\nNop, nada\n\n**Levantó los brazos a la altura de sus hombros**\n\nPero si gustas, puedo ahullarte a la luz de la luna~",
+      "mensaje_sha256": "cfbbeaec7d618b5a4a12c299461853f709f30859cfafbe59ba53e9ed3ef259dd",
+      "tipo_discord": 19,
+      "referencia": "1537528309095866548",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537575075715485747",
+      "texto_sha256": "48cbfae93b124c602ebf076a14fd107e31dd4cb3d9236f076a8e45029ffba04a",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Lugares de Kuroto
 
-Las 181 sesiones disponibles tienen relato revisado, con numeración hasta el capítulo 182. El capítulo 92 no figura en las fuentes recuperadas.
+Las 181 sesiones disponibles tienen relato revisado, con numeración hasta el capítulo 182. No se dispone del vídeo ni de la transcripción del capítulo 92.
 
 Estas vistas reúnen la presentación y el último tramo de los relatos de las fichas. Cada ficha conserva su historia completa y sus fuentes.
 

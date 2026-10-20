@@ -1,0 +1,79 @@
+{
+  "id": "k-1448665977775456428",
+  "campana": "kuroto",
+  "unidad_revision": "k-1448665977775456428",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Vogthar pregunta por el dragón",
+  "resumen": "El goliat intimida a un niño en la plaza dañada por el draa’zekyl.",
+  "relato": "Vogthar, con media cara fundida y cubierto por una capa, llega a la plaza central de Sho, donde el enfrentamiento con el draa’zekyl dejó tierra estéril. Mientras la ciudad continúa reconstruyéndose, agarra a un niño del brazo y pregunta por el dragón de sombras. El pequeño, asustado, dice que Seraphina, Guxi, Arwen, Kurobane y Banzo lo expulsaron de la ciudad. El goliat aprieta hasta hacerle daño y piensa con desprecio que Banzo permitió escapar a su presa. Exige saber quiénes son los Cazadores y dónde encontrarlos. El fragmento termina sin mostrar respuesta ni la liberación del niño.",
+  "participantes": [
+    "Vogthar",
+    "Niño de Sho"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1448665977775456428",
+      "afirmacion": "Vogthar interroga con violencia a un niño por el dragón y los Cazadores en la plaza de Sho.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La lista de combatientes es el testimonio del niño; no se reconstruye la batalla.",
+    "El desprecio hacia Banzo es un pensamiento de Vogthar, no un reproche escuchado por el ausente."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-12-11T13:21:24.014000+00:00",
+  "fin_utc": "2025-12-11T13:21:24.014000+00:00",
+  "fecha_local": "2025-12-11",
+  "intervalo": {
+    "anterior": 172,
+    "siguiente": 173,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1448031934176428145",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1448753461364785172",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 172,
+        "fecha": "2025-12-09",
+        "inicio_referencia_utc": "2025-12-09T19:21:35+00:00",
+        "fin_estimado_utc": "2025-12-09T22:35:47+00:00",
+        "duracion_video_segundos": 11652,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1448031934176428145"
+      },
+      {
+        "capitulo": 173,
+        "fecha": "2025-12-11",
+        "inicio_referencia_utc": "2025-12-11T19:08:42+00:00",
+        "fin_estimado_utc": "2025-12-11T22:37:42+00:00",
+        "duracion_video_segundos": 12540,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1448753461364785172"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1448665977775456428",
+      "fecha_utc": "2025-12-11T13:21:24.014000+00:00",
+      "fecha_local": "2025-12-11",
+      "editado_utc": null,
+      "texto": "Vogthar: **El enorme goliat, con media cara fundida, avanzaba cubierto por una capa y una capucha que apenas lograban disimular su imponente figura. Se detuvo en la plaza central de Sho, escenario del enfrentamiento contra el draa’zekyl, donde la tierra había quedado para siempre estéril. Se inclinó para examinar el suelo muerto mientras, a su alrededor, la ciudad seguía inmersa en sus esfuerzos de reconstrucción. Al incorporarse, Vogthar alzó la mirada, escudriñó el lugar… y de pronto agarró por el brazo a un niño de no más de nueve años.** Tú, pequeño. ¿Qué pasó con el dragón de sombras?\n\nNiño: E... em... Los Cazadores... Los Cazadores pelearon contra él... Seraphina, Guxi, Arwen, Kurobane y Banzo lo echaron de la ciudad... **Dice el pequeño un poco asustado**\n\nVogthar: **El goliat aprieta mas el bracito del niño y este pone una mueca de dolor** *Lo dejaste escapar, pequeño Banzo... Eres un inútil...* ¿Los Cazadores? ¿Qué son los Cazadores y donde puedo encontrarlos? **El goliat se acerca a la cara del pobre niño que traga saliva aterrorizado**\n\n🔴 Fin de la escena 🔴",
+      "mensaje_sha256": "cb98e30af87951aa0ec94869f24b8da02dc1e2f049c216c53e628b715b5f97f3",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1448665977775456428",
+      "texto_sha256": "fe8f089b5609e5d3e6a4c9a19354ba04d0b03cb69aabdc2a2466f479ef39f7c8",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "k-1365350069766983712",
+  "campana": "kuroto",
+  "unidad_revision": "k-1365350069766983712",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Hayate atiende a los cuervos y prepara una visita",
+  "resumen": "Tras dejar al juguetero trabajando, Hayate atiende a los cuervos del templo y piensa en informar de la crisis y encontrar a Maroxi.",
+  "relato": "Hayate deja al gnomo ocupado con sus artilugios y sale a reponer el agua y la comida de los cuervos que parecen haberse instalado en el templo. Mientras atiende a sus huéspedes, piensa que deberá prepararse para ir a la ciudad, informar del posible colapso descrito por el visitante y ocuparse de encontrar a Maroxi. La escena termina con esos propósitos, sin mostrar todavía el viaje ni ningún encuentro.",
+  "participantes": [
+    "Hayate"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1365350069766983712",
+      "afirmacion": "Hayate alimenta a los cuervos y deja al gnomo trabajando.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1365350069766983712",
+      "afirmacion": "Considera en privado ir a la ciudad, informar de un posible colapso y buscar a Maroxi.",
+      "tipo": "pensamiento"
+    }
+  ],
+  "notas": [
+    "Leído íntegro el único mensaje y su cierre explícito. Es epílogo del encuentro del templo contenido en k-1365233291413950485; se vincula como continuidad sin fusionar las unidades.",
+    "El colapso sigue siendo el pronóstico no verificado del juguetero. Los propósitos de Hayate son pensamientos y no acciones ya ejecutadas."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-04-25T15:33:43.610000+00:00",
+  "fin_utc": "2025-04-25T15:33:43.610000+00:00",
+  "fecha_local": "2025-04-25",
+  "intervalo": {
+    "anterior": 109,
+    "siguiente": 110,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1365035149171101736",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367206327377727518",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 109,
+        "fecha": "2025-04-24",
+        "inicio_referencia_utc": "2025-04-24T18:42:06+00:00",
+        "fin_estimado_utc": "2025-04-24T21:37:07+00:00",
+        "duracion_video_segundos": 10501,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1365035149171101736"
+      },
+      {
+        "capitulo": 110,
+        "fecha": "2025-04-30",
+        "inicio_referencia_utc": "2025-04-30T18:29:35+00:00",
+        "fin_estimado_utc": "2025-04-30T20:53:27+00:00",
+        "duracion_video_segundos": 8632,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367206327377727518"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1365350069766983712",
+      "fecha_utc": "2025-04-25T15:33:43.610000+00:00",
+      "fecha_local": "2025-04-25",
+      "editado_utc": null,
+      "texto": "**(TEMPLO)** Hayate: **Deja al gnomo que se ocupe de sus cosas, mientras sale a reponer el agua y la comida de los que parecen los nuevos inquilinos del templo, los cuervos** *Voy a tener que prepararme para ir a la ciudad. Hay que informar de ese posible colapso de la isla...y también me tengo que ocupar de encontrar a Maroxi...*\n\nHayate sale de escena \n\n<:Redflag:1071855288610717848> **FIN DE ESCENA** <:Redflag:1071855288610717848>",
+      "mensaje_sha256": "bfcb65b9aa24592710e3e8a80a9f1110ce1f8079aba09ad39b2f5ece44320a21",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1365350069766983712",
+      "texto_sha256": "abb54856ca232121a89d314de3608ea9745d2205e6e69646cffefdab31326c1f",
+      "adjuntos": []
+    }
+  ]
+}

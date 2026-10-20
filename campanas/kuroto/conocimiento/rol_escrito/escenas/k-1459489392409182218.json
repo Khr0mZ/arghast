@@ -1,0 +1,280 @@
+{
+  "id": "k-1459489392409182218",
+  "campana": "kuroto",
+  "unidad_revision": "k-1459086449063231498",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "La espada y la búsqueda de Jelbreg",
+  "resumen": "Banzo confía a Thiary una reliquia y un proyecto de viaje.",
+  "relato": "Banzo se aparta con Thiary y pregunta por los tritones, Puerto de las Espadas y el dragón marino. Ella explica que la guerra de Brunami consume los recursos del gobernante al que aluden y que ha orientado sus intereses hacia negocios más beneficiosos para que deje de presionar a Kuroto. No da sus términos exactos. Brindan recordando la eficacia de Kalista. El goliat entrega a la ladrona la espada del shogun; ella, sorprendida y tocada por sus recuerdos del antiguo gobernante y de Kalista, acepta custodiarla sin reclamar por ello el título.\n\nBanzo confiesa un propósito para cuando termine la guerra: buscar a Jelbreg y cumplir la promesa hecha a Kalista de no dejarlo caer en las sombras. Dice disponer de la oferta de un barco, pero carece de destino y necesita noticias de un gran dragón negro. A cambio promete mantener a Thiary informada de sus viajes. Ella advierte que seguir a un dragón es peligroso y no garantiza éxito, aunque moverá sus contactos. El precio que pide en voz baja es que dé a Jelbreg un puñetazo de su parte. Banzo lo promete y la abraza con sinceridad. La búsqueda y cualquier pista concreta quedan pendientes.",
+  "participantes": [
+    "Banzo",
+    "Thiary"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1459489392409182218",
+      "afirmacion": "Banzo pregunta por la retirada de la presión de tritones y dragón marino.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1459509724834693194",
+      "afirmacion": "Thiary explica que movió negocios para apartar el interés del gobernante de Kuroto.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1459523318104195134",
+      "afirmacion": "Banzo entrega la espada del shogun y pide ayuda para buscar a Jelbreg después de la guerra.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1459527455437226024",
+      "afirmacion": "Thiary acepta custodiar la espada e intentar obtener pistas sin prometer éxito.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1459534013655154840",
+      "afirmacion": "Thiary pide como precio que Banzo golpee a Jelbreg de su parte.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1459534242978595011",
+      "afirmacion": "Banzo promete hacerlo y abraza a la ladrona.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La bolsa de oro se entrega en escena, sin cuantía inventada ni explicación financiera adicional.",
+    "La explicación sobre la presión exterior favorece una lectura de negociación comercial; no hay relato de asesinatos de tritones.",
+    "Custodiar la espada no convierte a Thiary en shogun ni demuestra una sucesión formal.",
+    "La misión personal de Banzo y la pesquisa de Thiary quedan comprometidas para después, sin localización de Jelbreg ni viaje consumado.",
+    "Wukong reflexiona que ha completado su misión y se considera monje santo; se conserva como su percepción sin inventar aquí ceremonia o facultades.",
+    "El coqueteo y las bromas adultas se resumen sin añadir intimidad no narrada ni reconstruir el susurro sobre R3.",
+    "No se da por entregada la mejora del escudo ni el invento solicitado por Arwen.",
+    "Las comparaciones de Chani con Xochipilli y Tezcatlipoca no fusionan personajes, mundos ni campañas.",
+    "La intención de guardar monedas es de Chani; no se presupone consentimiento de sus dueños ni devolución completada."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-01-10T10:09:47.152000+00:00",
+  "fin_utc": "2026-01-10T13:32:24.608000+00:00",
+  "fecha_local": "2026-01-10",
+  "intervalo": {
+    "anterior": 179,
+    "siguiente": 180,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1458905021985853695",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1461435221806284870",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 179,
+        "fecha": "2026-01-08",
+        "inicio_referencia_utc": "2026-01-08T19:27:25+00:00",
+        "fin_estimado_utc": "2026-01-08T21:59:18+00:00",
+        "duracion_video_segundos": 9113,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1458905021985853695"
+      },
+      {
+        "capitulo": 180,
+        "fecha": "2026-01-15",
+        "inicio_referencia_utc": "2026-01-15T19:01:30+00:00",
+        "fin_estimado_utc": "2026-01-15T22:02:29+00:00",
+        "duracion_video_segundos": 10859,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1461435221806284870"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1459489392409182218",
+      "fecha_utc": "2026-01-10T10:09:47.152000+00:00",
+      "fecha_local": "2026-01-10",
+      "editado_utc": null,
+      "texto": "Banzo : **ha estado durante toda la escena contemplando a sus amigos en silencio , con una gran sonrrisa y cara de satisfacción **\n\n*estos son los momentos que hecharé de menos*\n\n**se acerca a Thiary**\nTengo curiosidad como has conseguido el tema de los tritones y Puerto de la Espada ? \nCrees que ese dragón marino ha desviado su atención de nuestra isla ? <@214405113677217793>",
+      "mensaje_sha256": "82e8eb8fc7d7847c4774f56e33c0eeca0ab9720364e572ec396936a39661330e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1459489392409182218",
+      "texto_sha256": "6dd0db3b6fdf11731e2177ffd57e80ca12f423db063ac2b1f66e02c63bc36e6c",
+      "adjuntos": []
+    },
+    {
+      "id": "1459499961585504257",
+      "fecha_utc": "2026-01-10T10:51:47.040000+00:00",
+      "fecha_local": "2026-01-10",
+      "editado_utc": null,
+      "texto": "Thiary: **Estaba algo más apartada bebiendo y observando. Cuando sus ojos se cruzan con los tuyos te sonríe. Espera que te acerques** Oh, te interesa mi trabajo? **Te acerca una jarra de cerveza**",
+      "mensaje_sha256": "61bb3d12a16cba5e53014b89f4e5ba7e8738663fac5a6778324f3ae90df5933d",
+      "tipo_discord": 19,
+      "referencia": "1459489392409182218",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1459499961585504257",
+      "texto_sha256": "8c873b03bd99c892638d45e14ccf2532ad472f66720a0eb21a42f3cba706f394",
+      "adjuntos": []
+    },
+    {
+      "id": "1459508501393969164",
+      "fecha_utc": "2026-01-10T11:25:43.089000+00:00",
+      "fecha_local": "2026-01-10",
+      "editado_utc": null,
+      "texto": "Banzo : Kalista a pesar de vuestras diferencias mas de una vez me habló de tu... efectividad se dice ?",
+      "mensaje_sha256": "7c4d73624887c9a4adc43ccbeadade3ad84ea47ed57d22610350627f14fa7b42",
+      "tipo_discord": 19,
+      "referencia": "1459499961585504257",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1459508501393969164",
+      "texto_sha256": "ebe7b9e439e24dd4e696f3257e8856ff821a589d5cc75033d3a720e1a253ba9a",
+      "adjuntos": []
+    },
+    {
+      "id": "1459509724834693194",
+      "fecha_utc": "2026-01-10T11:30:34.780000+00:00",
+      "fecha_local": "2026-01-10",
+      "editado_utc": null,
+      "texto": "Thiary: ¿Así que te hablaba de mi? **Te muestra una sonrisa afable** Bueno, ella también era... muy efectiva **Levanta la copa para brindar contigo** Que ese gobernante dejara de agobiar Kuroto fue bastante fácil. La guerra de Brunami les causa muchos gatos y quebraderos de cabeza. Así que solo había que mover ciertos hilos para que dejarán de interesarse por nuestra isla. Ya sabes, plantear negocios que les sean más....beneficiosos. **Deja la copa en la mesa**",
+      "mensaje_sha256": "a3779909913dbf1e3d5182e981d89622aa178131f77ca5573ffb6a04e8bd4b97",
+      "tipo_discord": 19,
+      "referencia": "1459508501393969164",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1459509724834693194",
+      "texto_sha256": "09ea741b84f9488606f151c2a2242072cec9e5a398918ccb4b2f45bbab518281",
+      "adjuntos": []
+    },
+    {
+      "id": "1459516615585431625",
+      "fecha_utc": "2026-01-10T11:57:57.663000+00:00",
+      "fecha_local": "2026-01-10",
+      "editado_utc": null,
+      "texto": "Banzo : bufff hablas parecido a ella con estos asuntos . Lo importante es que lo has conseguido \n**brinda contigo y pega un trago \n\nHace una pausa mirando a sus compañeros ** \n\nTengo una cosa que pedirte, un último favor . \nAunque se que siempre has sido mas de tratos que de favores . \n\nNecesito información sobre alguien . Que muevas esos hilos de los que has hablado .",
+      "mensaje_sha256": "e5384280c75b62d2c240fb8887118e03fd180cf3fc75e8d42f035d17f9971e5e",
+      "tipo_discord": 19,
+      "referencia": "1459509724834693194",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1459516615585431625",
+      "texto_sha256": "b9d65dabfe74717b745915cacf53aab00ccef830535e7c3daf392dc80fd307d0",
+      "adjuntos": []
+    },
+    {
+      "id": "1459521317379244164",
+      "fecha_utc": "2026-01-10T12:16:38.658000+00:00",
+      "fecha_local": "2026-01-10",
+      "editado_utc": null,
+      "texto": "Thiary: Sabes, siempre me has caído bien. Eres un ancla para todos ellos **Señala a los demás** Sin ti, se habían perdido hace tiempo... ¿Que necesitas?",
+      "mensaje_sha256": "f15e5fa7d7a4271e16243af2a784054e6a3a855514b0deb63ed88fdb16380448",
+      "tipo_discord": 19,
+      "referencia": "1459516615585431625",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1459521317379244164",
+      "texto_sha256": "5dbe100ec30c7fa660409e198b3700cc90b5a839a26d4107b2e91a7116b03a00",
+      "adjuntos": []
+    },
+    {
+      "id": "1459523318104195134",
+      "fecha_utc": "2026-01-10T12:24:35.668000+00:00",
+      "fecha_local": "2026-01-10",
+      "editado_utc": "2026-01-10T12:29:07.637000+00:00",
+      "texto": "Banzo : lo primero quiero que esto lo tengas tu , guárdala ya no se necesitara mas  ** te entrega una vaina de espada con símbolos del Shogunato , es la espada del Shogun ** Has actuado de lider en las sombras sin reconocimiento ni esperando el aplauso de nadie . Sabrás que hacer con ella \n\nEn cuanto a eso .. \nCuando todo esto acabe debo cumplir una promesa . \nPartiré en busca de Jelbreg , le prometi a ella que no dejaría que cayese en la sombra . \nPero no se por donde empezar Thiary . He hablado con los constructores y me facilitarán un barco para llevarme,  pero no tengo destino . \nNecesito saber si han habido voces que hablen de un gran dragón negro . Seguiré cualquier pista , solo necesito la chispa que haga que el fuego que tengo en mi arda . Recorrere Arghast de punta a punta y caminare por lo mas oscuro de la infraoscuridad si es necesario.  \n\nTe prometo que encontrare la forma de mantenerte informada de mis viajes , de las noticias que se hablan en el mundo , y que como siempre has hecho sigas yendo un paso por delante de todos",
+      "mensaje_sha256": "86488d6b9304e5ed818ae7f5fa620cdefcdc556d82ac8658571a71518f4ef8eb",
+      "tipo_discord": 19,
+      "referencia": "1459521317379244164",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1459523318104195134",
+      "texto_sha256": "2aba4be617c1396f56aa20299dfb3026c4da93215050e42b5dbb898a6e49f8d6",
+      "adjuntos": []
+    },
+    {
+      "id": "1459527455437226024",
+      "fecha_utc": "2026-01-10T12:41:02.085000+00:00",
+      "fecha_local": "2026-01-10",
+      "editado_utc": "2026-01-10T12:41:39.839000+00:00",
+      "texto": "Thiary: **Se sorprende al ver que le entregas la espada del Shogun. La observa detenidamente ¿cuantas veces ha deseado esto? Pero al verla tan de cerca le vienen recuerdos, del antiguo Shogun y de Kalista. Niega con la cabeza y aparta la espada como si fuera una bararija** Una espada muy ostentosa para mi...pero la guardare. **Su semblante cambia a algo más serio** ¿Harás lo que sea para encontrarle, verdad? **Suspira** Esta bien, esta bien. No te prometo nada, mover los hilos para buscar a un dragon suele ser algo peligroso, pero haré todo lo que pueda. Aunque te va a costar algo",
+      "mensaje_sha256": "8902a5eb858a9dd0aa57d660bf36ee5f0673d12dae0335903ebd72a3f762d942",
+      "tipo_discord": 19,
+      "referencia": "1459523318104195134",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1459527455437226024",
+      "texto_sha256": "cb9cc2bff9422110d3c025289431758a2f9492837dec083303911a02bc409e79",
+      "adjuntos": []
+    },
+    {
+      "id": "1459532625210507264",
+      "fecha_utc": "2026-01-10T13:01:34.655000+00:00",
+      "fecha_local": "2026-01-10",
+      "editado_utc": null,
+      "texto": "Banzo: dime , que necesitas .",
+      "mensaje_sha256": "4f0c02499b4c928a0316c7262e7d3f34f0523a409c197962e89971f316fd843f",
+      "tipo_discord": 19,
+      "referencia": "1459527455437226024",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1459532625210507264",
+      "texto_sha256": "28861b517935b540fb53c88dd99e9b53e4079b5cd28d19b6eba0afe3c70036ec",
+      "adjuntos": []
+    },
+    {
+      "id": "1459534013655154840",
+      "fecha_utc": "2026-01-10T13:07:05.686000+00:00",
+      "fecha_local": "2026-01-10",
+      "editado_utc": null,
+      "texto": "Thiary: **Se acerca a tu oído para susurrarte** Cuando lo encuentres, métele un buen puñetazo de mi parte. **Se separa de ti con una sonrisa**",
+      "mensaje_sha256": "032462476e181330d404403b87f6222de0eddd08d008b5892672e06f1671aa16",
+      "tipo_discord": 19,
+      "referencia": "1459532625210507264",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1459534013655154840",
+      "texto_sha256": "ef1688ae20465c79c1e55de4a6dd0bef87a4c9bb06020975588f89094caf2220",
+      "adjuntos": []
+    },
+    {
+      "id": "1459534242978595011",
+      "fecha_utc": "2026-01-10T13:08:00.361000+00:00",
+      "fecha_local": "2026-01-10",
+      "editado_utc": null,
+      "texto": "Banzo: prometido ** te sonrrie y te da un abrazo enorme , quiza el mas sincero que has recibido nunca **",
+      "mensaje_sha256": "e9a1b8227e1c27022af8d3e166f5b49cf841a18ebef636c6f7da545d68627a2b",
+      "tipo_discord": 19,
+      "referencia": "1459534013655154840",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1459534242978595011",
+      "texto_sha256": "d90c17442dabd4fa1cacc847ee3bef74b6f415e8e872b43fc9e73e1e58f31a00",
+      "adjuntos": []
+    },
+    {
+      "id": "1459535261989077044",
+      "fecha_utc": "2026-01-10T13:12:03.312000+00:00",
+      "fecha_local": "2026-01-10",
+      "editado_utc": null,
+      "texto": "Thiary: Auch! **Nota el enorme abrazo del goliat y la delgada ladrona suelta un gruñido. Una pequeña punta de daga te pincha en un costado mientras te susurra ella** Suelta, que tengo que mantener mi reputación... **Aunque parece relajada en ese sincero abrazo**",
+      "mensaje_sha256": "1b001f6ecf9983f9959a0c33374a2f889d5740ca56ce8e2406256e388b99adea",
+      "tipo_discord": 19,
+      "referencia": "1459534242978595011",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1459535261989077044",
+      "texto_sha256": "58ea6e30de80087d41f1024174c170733d655db6bdceae6a3a554b46ac53b923",
+      "adjuntos": []
+    },
+    {
+      "id": "1459539015832309880",
+      "fecha_utc": "2026-01-10T13:26:58.298000+00:00",
+      "fecha_local": "2026-01-10",
+      "editado_utc": null,
+      "texto": "Banzo : a todos nos hace falta un abrazo de vez en cuando , reina de las cuchillas \n**te sonrrie ,te suelta,  levanta la jarra a modo de brindis y se acerca con el resto a seguir celebrando **",
+      "mensaje_sha256": "80f2f19546f3373f6c1c51c684f36c2d4e404511cacdcffea2f0b6f9054aae4c",
+      "tipo_discord": 19,
+      "referencia": "1459535261989077044",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1459539015832309880",
+      "texto_sha256": "3fc82e05f8eabdef309c2ca44eff6f63da18cbd56135c51fe6dd7c28b4cdc476",
+      "adjuntos": []
+    },
+    {
+      "id": "1459540384475513015",
+      "fecha_utc": "2026-01-10T13:32:24.608000+00:00",
+      "fecha_local": "2026-01-10",
+      "editado_utc": "2026-01-10T13:32:32.303000+00:00",
+      "texto": "Thiary: *Estos deben ser los abrazos que tanto se quejaban Jelbreg y Kalista que les hacia el goliat...* **Piensa mientras se recompone en su sitio y pasa la mirada por las otras mesas por si alguien se ha atrevido a mirar la escena** *¿Ahora como narices hago yo para encontrar a un dragon de sombras drow...?*",
+      "mensaje_sha256": "6139c81a533f7bd166ba9845033355c5fc114d6a56ffe47b63e35d110b7f6b2b",
+      "tipo_discord": 19,
+      "referencia": "1459539015832309880",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1459540384475513015",
+      "texto_sha256": "7a38a55b33c0b9ce1a3bc697863ea4754c2cb4db00d1429eab96804fc89ffa14",
+      "adjuntos": []
+    }
+  ]
+}

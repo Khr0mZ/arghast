@@ -1,0 +1,77 @@
+{
+  "id": "k-1448436606825398353",
+  "campana": "kuroto",
+  "unidad_revision": "k-1448436606825398353",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Erlang sigue a Guxi",
+  "resumen": "Desde un tejado, Erlang observa el encuentro y toma el camino de Guxi.",
+  "relato": "Erlang Shen observa desde un tejado mientras come uvas. Comenta con ironía las ocupaciones cotidianas de Seraphina, a quien llama «la iluminada», e interpreta que tiene varios aprendices. Cuando termina el racimo, sonríe y sigue el camino que ha tomado Guxi. La breve escena no muestra que lo alcance ni que Guxi advierta su presencia.",
+  "participantes": [
+    "Erlang Shen"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1448436606825398353",
+      "afirmacion": "Erlang observa desde el tejado y sigue la ruta de Guxi.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La condición de aprendiz es una insinuación de Erlang, no una relación docente acreditada por este mensaje."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-12-10T22:09:57.718000+00:00",
+  "fin_utc": "2025-12-10T22:09:57.718000+00:00",
+  "fecha_local": "2025-12-10",
+  "intervalo": {
+    "anterior": 172,
+    "siguiente": 173,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1448031934176428145",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1448753461364785172",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 172,
+        "fecha": "2025-12-09",
+        "inicio_referencia_utc": "2025-12-09T19:21:35+00:00",
+        "fin_estimado_utc": "2025-12-09T22:35:47+00:00",
+        "duracion_video_segundos": 11652,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1448031934176428145"
+      },
+      {
+        "capitulo": 173,
+        "fecha": "2025-12-11",
+        "inicio_referencia_utc": "2025-12-11T19:08:42+00:00",
+        "fin_estimado_utc": "2025-12-11T22:37:42+00:00",
+        "duracion_video_segundos": 12540,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1448753461364785172"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1448436606825398353",
+      "fecha_utc": "2025-12-10T22:09:57.718000+00:00",
+      "fecha_local": "2025-12-10",
+      "editado_utc": "2025-12-10T22:10:22.154000+00:00",
+      "texto": "Erlang Shen : interesantes estas cosas banales , parece que la iluminada <@408026114548695061>  tiene varios ... aprendices ... \n** observa desde uno de los tejados de la ciudad mientras come un racimo de uvas ,hasta que se lo acaba  sonrrie de medio lado y sigue el camino que ha tomado Guxi **  <@171702246952665098> \n\n🪷 🔴  FIN DE LA ESCENA 🔴 🪷",
+      "mensaje_sha256": "f848c68776a98e7c6f2e029fedacec0aae7a1d6df6170906381d2be4be72ad30",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1448436606825398353",
+      "texto_sha256": "7ce652ea8f29e1590f71b8b1d5c741053c5e27f68701d43e2c6a236696a5fb61",
+      "adjuntos": []
+    }
+  ]
+}

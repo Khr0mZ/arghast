@@ -1,0 +1,308 @@
+{
+  "id": "k-1412411752179695627",
+  "campana": "kuroto",
+  "unidad_revision": "k-1412411752179695627",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "La tensión del puerto",
+  "resumen": "Banzo evita un enfrentamiento con los tritones y se ofrece a trabajar en los astilleros.",
+  "relato": "Banzo recorre el puerto de Kuroto para observar la convivencia con los tritones. Encuentra distancia y miradas de desagrado entre ambos grupos, que se limitan sobre todo a comerciar. Los ciudadanos aceptan su ayuda con la carga y algunos le dan monedas; los tritones la rechazan. Cuando insiste e intenta tomar una caja, lo apuntan con dos tridentes y le hablan en un idioma que no entiende. Los guardias del shogunato se ponen alerta, pero tienen órdenes de no intervenir, mientras los civiles se apartan. El goliat levanta las manos, bromea y se retira para rebajar la tensión; agradece discretamente a los soldados, que se relajan.\n\nEn capitanía ofrece al encargado del puerto su experiencia construyendo pesqueros y reforzando cascos para el hielo. Explica que aprendió después de un accidente mientras cuidaba grifos. El encargado advierte que le falta una mano y pone en duda la propuesta. Banzo responde con humor, vuelve a ofrecer ayuda si surgen problemas y marcha hacia el astillero. El intercambio no formaliza una contratación ni desemboca en combate.",
+  "participantes": [
+    "Banzo",
+    "Tritones del puerto",
+    "Guardias del shogunato",
+    "Encargado del puerto"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1412414453294829773",
+      "afirmacion": "Tritones y ciudadanos se evitan y muestran desagrado mutuo sin enfrentamiento inicial.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1412419963133755503",
+      "afirmacion": "Los ciudadanos aceptan la ayuda de Banzo y los tritones la rechazan.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1412422727498993757",
+      "afirmacion": "Dos tridentes apuntan a Banzo cuando insiste en ayudar.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1412423665546559628",
+      "afirmacion": "Los soldados están alerta con órdenes de no interferir y los civiles se apartan.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1412425409764786247",
+      "afirmacion": "Banzo se retira y calma a los guardias.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1412428304618750213",
+      "afirmacion": "Banzo ofrece su experiencia de construcción naval y explica su antiguo trabajo.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1412431085081722911",
+      "afirmacion": "Banzo se marcha hacia el astillero manteniendo su ofrecimiento.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La escena acredita tensión local, sin inventar ruptura de la alianza ni hostilidad de todos los tritones.",
+    "El encargado no recibe nombre; su olvido se declara en el original.",
+    "La ausencia de una mano es actual y visible. El accidente con grifos pertenece al pasado laboral relatado y no se identifica aquí con la lesión reciente.",
+    "La última broma sobre Tutucan no se incorpora como suceso jugado de otra campaña."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-09-02T12:20:03.061000+00:00",
+  "fin_utc": "2025-09-02T13:39:54.316000+00:00",
+  "fecha_local": "2025-09-02",
+  "intervalo": {
+    "anterior": 153,
+    "siguiente": 154,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1412135728854339686",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1412859898479382548",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 153,
+        "fecha": "2025-09-01",
+        "inicio_referencia_utc": "2025-09-01T18:02:52+00:00",
+        "fin_estimado_utc": "2025-09-01T21:02:25+00:00",
+        "duracion_video_segundos": 10773,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1412135728854339686"
+      },
+      {
+        "capitulo": 154,
+        "fecha": "2025-09-03",
+        "inicio_referencia_utc": "2025-09-03T18:00:30+00:00",
+        "fin_estimado_utc": "2025-09-03T20:53:35+00:00",
+        "duracion_video_segundos": 10385,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1412859898479382548"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1412411752179695627",
+      "fecha_utc": "2025-09-02T12:20:03.061000+00:00",
+      "fecha_local": "2025-09-02",
+      "editado_utc": "2025-09-02T12:20:11.751000+00:00",
+      "texto": "(PUERTO DE KUROTO ) \nBANZO : **camina por el puerto mirando el movimiento de los tritones y de las gentes como conviven sobretodo como se toleran unos a otros como están las tensiones ? **<@214405113677217793>",
+      "mensaje_sha256": "aff0294af964e52dd29bfcd14a333e3b57fe412ce6cae7b4492e3becf98d2df8",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1412411752179695627",
+      "texto_sha256": "46228f968e6a0849492a29958302b12e5512a9d36921771857928f9ef6ef2b08",
+      "adjuntos": []
+    },
+    {
+      "id": "1412414453294829773",
+      "fecha_utc": "2025-09-02T12:30:47.057000+00:00",
+      "fecha_local": "2025-09-02",
+      "editado_utc": null,
+      "texto": "**Lo que ves es que los tritones y los ciudadanos de Sho no tienen mucha convivencia juntos. La mayoría se evitan y solo hablan para entablar negocios. No se molestan entre ellos aunque ves más de una mirada de desagrado de los dos bandos**",
+      "mensaje_sha256": "908bc5854af6f9b358d4798b8585f885f08fa653853085875763736022ada8fa",
+      "tipo_discord": 19,
+      "referencia": "1412411752179695627",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1412414453294829773",
+      "texto_sha256": "317aa5880d61839cc5d0017c0f6ceae200899cb21a19152a20bbf854a02bbd6a",
+      "adjuntos": []
+    },
+    {
+      "id": "1412419370193256481",
+      "fecha_utc": "2025-09-02T12:50:19.337000+00:00",
+      "fecha_local": "2025-09-02",
+      "editado_utc": null,
+      "texto": "Banzo : *de momento todo esta bien ... pero cual sera el detonante ...\nQuien encenderá la mecha ?*\n**pasearia por los muelles si viese a alguien triton o humano que esté cargado o descargando iría a prestar u ayuda **",
+      "mensaje_sha256": "45dd179b7bb5392e78401bcd8abddbd43f8327c497562bd3ded27ff24356dba7",
+      "tipo_discord": 19,
+      "referencia": "1412414453294829773",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1412419370193256481",
+      "texto_sha256": "a6473cadcce9750392b2ba3f1b8bac1c339ce038064da40cc25d54d97cf15029",
+      "adjuntos": []
+    },
+    {
+      "id": "1412419963133755503",
+      "fecha_utc": "2025-09-02T12:52:40.705000+00:00",
+      "fecha_local": "2025-09-02",
+      "editado_utc": null,
+      "texto": "**Cualquier ciudadano de Sho agradece tu ayuda, incluso te dan alguna moneda de oro por tus esfuerzos. Todos conocen al líder de los Cazadores, el gran Banzo. En cambio... los tritones ignoran tu ayuda e incluso no permiten que lo hagas. Notas cierto recelo en su comportamiento y en sus miradas hacia ti**",
+      "mensaje_sha256": "e4011227053f32abd0782a8bb16edd128d729f00a42ea25dcad9e0396f4ac75d",
+      "tipo_discord": 19,
+      "referencia": "1412419370193256481",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1412419963133755503",
+      "texto_sha256": "a969f6ff13c7445e50432e52d6307b7dabca01d0c24763521f2b991dc3a261db",
+      "adjuntos": []
+    },
+    {
+      "id": "1412422105139515528",
+      "fecha_utc": "2025-09-02T13:01:11.399000+00:00",
+      "fecha_local": "2025-09-02",
+      "editado_utc": null,
+      "texto": "Banzo : **sonrrie ante la actitud de los tritones ** \ncalma calma tranquilos chicos , estáis demasiado tensitos.  Tantas ganas tenéis de volver al mar ? \nEs lo que nos toca no ? Vuestro general si que tiene menos cara de chupar limón.  Pero os entiendo chicos . \nAnda dejarme ayudaros . \n**se adelanta con intención de coger una caja de descargarla **",
+      "mensaje_sha256": "d4657b1c330603c304749f7867e7ab6710be9f3b3e96e877460cea529b8556f3",
+      "tipo_discord": 19,
+      "referencia": "1412419963133755503",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1412422105139515528",
+      "texto_sha256": "0d4f7a948b77410ea0e5968f9fceb883677d51b47bfe12e9fd82bb68d8548663",
+      "adjuntos": []
+    },
+    {
+      "id": "1412422727498993757",
+      "fecha_utc": "2025-09-02T13:03:39.781000+00:00",
+      "fecha_local": "2025-09-02",
+      "editado_utc": null,
+      "texto": "**Ves que un par de tridentes te apuntan. Te hablan en idioma de los tritones que no llegas a entender pero por el contexto de la situación sabes que no aceptan tu ayuda aunque insistas.**",
+      "mensaje_sha256": "28a9cdd86087a8939d6fbc4a937bd952d144edf6fa4df7fa0a5abd4624219ce1",
+      "tipo_discord": 19,
+      "referencia": "1412422105139515528",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1412422727498993757",
+      "texto_sha256": "9ab839acf7843b15a06fbfb776b9bed114fd3c42354b7f613653a3c2d16dc296",
+      "adjuntos": []
+    },
+    {
+      "id": "1412423169754796073",
+      "fecha_utc": "2025-09-02T13:05:25.223000+00:00",
+      "fecha_local": "2025-09-02",
+      "editado_utc": null,
+      "texto": "Banzo : **viendo como levantan los tridentes el goliath mira atentamente de reojo a las gentes de kuroto del puerto , quiere ver su reacción se asuntan o se ponen en guardia ? **",
+      "mensaje_sha256": "ee76df0dc1ab6f77c65ea595cfc7942b0fa4c5b59cc7f2252cbb053a9b815cbb",
+      "tipo_discord": 19,
+      "referencia": "1412422727498993757",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1412423169754796073",
+      "texto_sha256": "f5d05d4aeb77c3f93eb7570f3e58669fc3466f670f81ad0d07814647c3c882af",
+      "adjuntos": []
+    },
+    {
+      "id": "1412423665546559628",
+      "fecha_utc": "2025-09-02T13:07:23.429000+00:00",
+      "fecha_local": "2025-09-02",
+      "editado_utc": null,
+      "texto": "**Ves que los soldados del Shogunato ponen las manos en las empuñadura de sus armas pero se mantienen alerta. Tienen órdenes de no interferir, aunque deseen hacerlo. Te miran y esperan a tu reacción. En cambio, los ciudadanos se apartan del lugar, no quieren problemas**",
+      "mensaje_sha256": "96dd213f3edcb15556c244c4efd4dab4023cf7ff5121728afabd1caa451c9a2c",
+      "tipo_discord": 19,
+      "referencia": "1412423169754796073",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1412423665546559628",
+      "texto_sha256": "8e6076be1401605f9b9ad00577191b66b4a19a4cbec4bf91077b64369b57e654",
+      "adjuntos": []
+    },
+    {
+      "id": "1412425409764786247",
+      "fecha_utc": "2025-09-02T13:14:19.283000+00:00",
+      "fecha_local": "2025-09-02",
+      "editado_utc": "2025-09-02T13:14:50.860000+00:00",
+      "texto": "Banzo : **levanta las manos y empieza a reir para alijersr tensiones . No con los tritones si no para que los guardias se relajen** \nCuriosas vuestras tradiciones . \nNo molestaré pues . \n**les da la espalda a los tritones y camina saliendo del muelle , dirige la mirada a los guardias guiñandoles el ojo y susurrando** \"tranquilos chicos... y gracias \"\n**se aleja poco a poco hacia la zona de capitanía del Puerto **",
+      "mensaje_sha256": "013e0abd6cdb1f0e76766cc6743e910ae1d1e8a3723f46cc0b14054bd2b6efeb",
+      "tipo_discord": 19,
+      "referencia": "1412423665546559628",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1412425409764786247",
+      "texto_sha256": "f901babb0a72b90227160f60027f50f14903be1ee02ad4632abfe1c77f4ad318",
+      "adjuntos": []
+    },
+    {
+      "id": "1412426007977267231",
+      "fecha_utc": "2025-09-02T13:16:41.908000+00:00",
+      "fecha_local": "2025-09-02",
+      "editado_utc": null,
+      "texto": "**Los soldados te miran y se relajan al ver tu comportamiento. Sabes que estarán sienpre contigo pase lo que pase. En cambio, los tritones te siguen observando con las armas en la mano, esperando a que estés a cierta distancia**",
+      "mensaje_sha256": "7f5abffd570684ab9ec87461a2de80aadb11956d7e1aae3ae3f0b06463f9ff6a",
+      "tipo_discord": 19,
+      "referencia": "1412425409764786247",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1412426007977267231",
+      "texto_sha256": "d8668c1dc706276f0335ea6c5e0d417a07c9a5df6fbe82175f40eed7c8ffa5fd",
+      "adjuntos": []
+    },
+    {
+      "id": "1412426696115622031",
+      "fecha_utc": "2025-09-02T13:19:25.973000+00:00",
+      "fecha_local": "2025-09-02",
+      "editado_utc": null,
+      "texto": "Banzo : **se alejaría y entraría a capitanía para hablar con el encargado del Puerto **\nMuy buenas , alguien por aqui ?",
+      "mensaje_sha256": "6de7882584542853c9304a0f4d02e980a73cd26c30208192c8fb5e82e95b3c55",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1412426696115622031",
+      "texto_sha256": "50f944b6edbce9e5629e63e4d88ca359a7a298cd635d9af6b52d7c8ebd1c3513",
+      "adjuntos": []
+    },
+    {
+      "id": "1412427078304923710",
+      "fecha_utc": "2025-09-02T13:20:57.094000+00:00",
+      "fecha_local": "2025-09-02",
+      "editado_utc": null,
+      "texto": "\"El del Puerto\" (no me acuerdo del nombre): Si! Quien es? Que pasa ahora? **Dice el hombre malhumorado saliendo de debajo del mostrador**",
+      "mensaje_sha256": "d1b02ed9004b8e310260623c707875c0ec00b09d9d934f542e6a8c95ddab9044",
+      "tipo_discord": 19,
+      "referencia": "1412426696115622031",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1412427078304923710",
+      "texto_sha256": "e861ccb1404f578dbe773cd12cc0a2665fb96a3cb527c6eabc71972be8aceff7",
+      "adjuntos": []
+    },
+    {
+      "id": "1412428304618750213",
+      "fecha_utc": "2025-09-02T13:25:49.470000+00:00",
+      "fecha_local": "2025-09-02",
+      "editado_utc": null,
+      "texto": "Banzo : que hay viejo , todo bien . Ambiente movidito por el puerto últimamente.  Mucho movimiento . \nHe visto el astillero , vengo como Banzo no como líder de nada ya me conoces . Era por si podía ayudar en algo . \n\nDespués de un accidente cuidando a los grifos me destinaron a la construcción de barcos , pesqueros sobretodo. Ya sabe refuerzo de casco para las zonas de hielo y esas cosas . \nQue opina podría pasarme de vez en cuando por allí",
+      "mensaje_sha256": "8f73830ec8d7a139863e465431548e40f2b22fcd4dc26681f7cbe0e0c7e73102",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1412428304618750213",
+      "texto_sha256": "ab5667d3be0b1127b81bd787dc51a2df3834c5dd5033226a0316593a8deed4af",
+      "adjuntos": []
+    },
+    {
+      "id": "1412428923106496602",
+      "fecha_utc": "2025-09-02T13:28:16.929000+00:00",
+      "fecha_local": "2025-09-02",
+      "editado_utc": null,
+      "texto": "El del Puerto: ¿Ummm tu sabes construir barcos? Bueno, con esas pedazo manos no me extra... **Ves que mira tus manos o mejor dicho...tu mano. Luego te mira extrañado** Emmm... Sabes que te falta una mano, no?",
+      "mensaje_sha256": "9b2d0631a966c208b9c6226f375e7f35ffaeb98220c42c1d4b5c6a6dd633b96f",
+      "tipo_discord": 19,
+      "referencia": "1412428304618750213",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1412428923106496602",
+      "texto_sha256": "f12cda48629dc3b838f7381274bd58ba129974f11763ab3a27548dc99f730bcc",
+      "adjuntos": []
+    },
+    {
+      "id": "1412431085081722911",
+      "fecha_utc": "2025-09-02T13:36:52.384000+00:00",
+      "fecha_local": "2025-09-02",
+      "editado_utc": null,
+      "texto": "Banzo : vaya viejo , gracias no me había dado cuenta . **te sonrrie ** \nSi me pongo un garfio doy el pego verdad . \n**se aleja hasta la puerta . \nNos iremos viendo , cualquier problema por aqui con esta gente nueva no dudes en pedirme ayudare estaré en el astillero seguramente .\nNos vemos viejo observador ** le sonrrie y saluda con la mano del muñon,  luego se va hacia el astillero **",
+      "mensaje_sha256": "a33bd13c34e2e67b26f1cc7aceba90cdab3d05b64f5125e73edee9f6ab9b8e80",
+      "tipo_discord": 19,
+      "referencia": "1412428923106496602",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1412431085081722911",
+      "texto_sha256": "ff4837a0cc574a364a481c3b6072eb410d1c71176ae93a3b1cb9cff94673110a",
+      "adjuntos": []
+    },
+    {
+      "id": "1412431848159576166",
+      "fecha_utc": "2025-09-02T13:39:54.316000+00:00",
+      "fecha_local": "2025-09-02",
+      "editado_utc": "2025-09-02T13:40:31+00:00",
+      "texto": "El del Puerto: Mira que me viene gente rara últimamente... Esos tritones... Ahora un trabajador manco... Creo que me tengo que pedir el traslado a Puerto de las Espadas... O mejor aún. A Tutucan, allí seguro que no hay zopencos como los Cazadores estos... **Lo que no sabe el pobre hombre es que en Tutucan no habrá Cazadores... Sino algo peor**\n\n🔴Fin de la escena 🔴",
+      "mensaje_sha256": "4425968e2734cf4380c03e2a063fc15899aa35cc174c9cc408304bdd8429fc85",
+      "tipo_discord": 19,
+      "referencia": "1412431085081722911",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1412431848159576166",
+      "texto_sha256": "ad25f1d0b436365085d0a864d7c6eb45cc1bb27180a32ca678128b90511127da",
+      "adjuntos": []
+    }
+  ]
+}

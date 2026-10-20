@@ -1,0 +1,157 @@
+{
+  "id": "x-1471453926686589032",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1471453926686589032",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "Actitud de pirata",
+  "resumen": "Nox prepara a Jacky para moverse por Shiaru.",
+  "relato": "En la playa, Nox enseña a Jacky gestos y andares con los que pasar entre piratas. El marino duda de que escupir al suelo sirva, pero el bucanero sostiene que la actitud importa más que robar o beber y define la piratería como perseguir sueños y detectar oportunidades. Le coloca su sombrero y señala el bolsillo donde guarda la imagen de Lucy para compararla con un tesoro. Jacky rechaza la semejanza y presume de tener esposa, casa y todos los dientes. Nox toma una espada y una pistola de un pirata inmóvil, sustituyéndolas por un palo y una botella vacía, y arma al grumete. Ambos se dirigen al Ron de Bonny para un trabajo todavía sin explicar.",
+  "participantes": [
+    "Nox",
+    "Jackson"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1471461206605955134",
+      "afirmacion": "Nox explica su idea de piratería y usa a Lucy como ejemplo de tesoro.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1471462284802134131",
+      "afirmacion": "Jacky rechaza ser como Nox y menciona su esposa y casa.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1471467198928388250",
+      "afirmacion": "Nox roba armas a un pirata inmóvil y se las entrega a Jacky.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La realeza, el juzgado y las reliquias son el engaño que Liz sostiene ante Poncelot, no instituciones o magia acreditadas.",
+    "La captura cambia de recuento entre fragmentos; no se inventan piratas adicionales ni se asigna a cada cuerpo una identidad no mostrada.",
+    "No se determina si el pirata al que Nox quita las armas está dormido o muerto.",
+    "Las hazañas anteriores del caballero son sus proclamas, sin aventuras añadidas.",
+    "La limpieza y la audiencia son encargos o promesas, sin desenlace aquí."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-02-12T10:32:34.414000+00:00",
+  "fin_utc": "2026-02-12T11:46:26.898000+00:00",
+  "fecha_local": "2026-02-12",
+  "intervalo": {
+    "anterior": 5,
+    "siguiente": 6,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1469407509797408869",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1471947631876903063",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 5,
+        "fecha": "2026-02-06",
+        "inicio_referencia_utc": "2026-02-06T19:00:35+00:00",
+        "fin_estimado_utc": "2026-02-06T21:58:33+00:00",
+        "duracion_video_segundos": 10678,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1469407509797408869"
+      },
+      {
+        "capitulo": 6,
+        "fecha": "2026-02-13",
+        "inicio_referencia_utc": "2026-02-13T19:14:05+00:00",
+        "fin_estimado_utc": "2026-02-13T22:31:58+00:00",
+        "duracion_video_segundos": 11873,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1471947631876903063"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1471453926686589032",
+      "fecha_utc": "2026-02-12T10:32:34.414000+00:00",
+      "fecha_local": "2026-02-12",
+      "editado_utc": "2026-02-12T10:34:42.234000+00:00",
+      "texto": "Nox: ** En la playa estaría Nox enseñándole gestos y andares piratescos a Jaks ,cuando ve esa escena y una sonrisa de medio lado surge en su rostro **  <@240564189448503306> <@408026114548695061> <@214405113677217793>",
+      "mensaje_sha256": "7de09a451380ce24645497df76001605f57c8594a79cd50e3547a7de76297a91",
+      "tipo_discord": 19,
+      "referencia": "1471307029778796690",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1471453926686589032",
+      "texto_sha256": "d58b35621a6565bdc74b6e718101492ed18263fcc3f9367dfffd1edd5f2280b2",
+      "adjuntos": []
+    },
+    {
+      "id": "1471459041665618016",
+      "fecha_utc": "2026-02-12T10:52:53.920000+00:00",
+      "fecha_local": "2026-02-12",
+      "editado_utc": null,
+      "texto": "Jacky: Y dices que escupir todo el rato en el suelo me hara pasar desapercibido ante tanto... pirata? **Pregunta el pobre hombre de la marina**",
+      "mensaje_sha256": "857595515636815379ce9033cfc29c47acdc87d94edb5f7373423de4b4467d46",
+      "tipo_discord": 19,
+      "referencia": "1471453926686589032",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1471459041665618016",
+      "texto_sha256": "09b4233fd6f4ba9fd323725bc1094d06270da6e6afe99009a23418e8a04db535",
+      "adjuntos": []
+    },
+    {
+      "id": "1471461206605955134",
+      "fecha_utc": "2026-02-12T11:01:30.082000+00:00",
+      "fecha_local": "2026-02-12",
+      "editado_utc": null,
+      "texto": "Nox : lo que te va diferenciar frente a todos se llama actitud . \nSer pirata no se basa solo en robar saquear y emborracharse . Se basa en perseguir tus sueños .. y sobretodo en .. ver las oportunidades antes que los demás .**mirando al elfo que sube a bordo del Zampaolas** \nJacky aun no lo sabes pero tu y yo no somos tan diferentes . \nAmbos nos embarcamos en un navío,  ambos intentamos esquivar la muerte , y ambos estamos obsesionados con un tesoro **le sonrie y le pone su sombrero de pirata en la cabeza ** \nPorque no todos los tesoros están hechos de oro y plata verdad? \n**le da unos toquecitos en el pecho donde sabe que tiene un bolsillo donde guarda la foto de Lucy ** \nVayamos a la taberna , tenemos un trabajito que hacer ..",
+      "mensaje_sha256": "10ed5aef85c5c58b295fb46d6a5643b37c868d5d35b1fc037dfa597baa8346d5",
+      "tipo_discord": 19,
+      "referencia": "1471459041665618016",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1471461206605955134",
+      "texto_sha256": "b838e40c515a3ed88b56e71c90b884e219167fed0858348cf8f4a8ba44d668ce",
+      "adjuntos": []
+    },
+    {
+      "id": "1471462284802134131",
+      "fecha_utc": "2026-02-12T11:05:47.144000+00:00",
+      "fecha_local": "2026-02-12",
+      "editado_utc": null,
+      "texto": "Jacky: **Se queda un rato pensando en lo que le has dicho, sobretodo sobre el tesoro, su tesoro. Luego empieza a andar detrás tuyo volviendo a la realidad y viendo a todos esos borrachos tirados por las calles** Yo no soy igual que tú! Yo tengo una mujer, una casa y además todos los dientes! Tu no tienes nada de eso... Bueno si... Alitosis!",
+      "mensaje_sha256": "3dff952105ba5a09e6a959a9b09087d17798fe685c67960da24c3d57dca9ca5f",
+      "tipo_discord": 19,
+      "referencia": "1471461206605955134",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1471462284802134131",
+      "texto_sha256": "71cabd4a49af6b680486f1868c2c0ea4eadc61e566d5b9ce51a59fb9edc6bc3c",
+      "adjuntos": []
+    },
+    {
+      "id": "1471467198928388250",
+      "fecha_utc": "2026-02-12T11:25:18.763000+00:00",
+      "fecha_local": "2026-02-12",
+      "editado_utc": null,
+      "texto": "Nox : **se acerca a uno de esos piratas y intercambia la espada de este por un palo y la pistola por una botella vacía , le hace un reverencia al pirata que no se sabe si esta dormido o muerto y le entrega ambas armas a Jacky** \n\nOooo gracias Jacks , me alagas . \n** le sonríe cerca de la cara para que note bien ese aliento a sobaco de babuino.\nAmbos de dirigen a la taberna**",
+      "mensaje_sha256": "24e3151a314acbeb0a42bea23b455fa7ecaa9e1fb8d480c0bc97337160146456",
+      "tipo_discord": 19,
+      "referencia": "1471462284802134131",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1471467198928388250",
+      "texto_sha256": "0f3432df0ff173f49ee159edc386e83c176be1c7e1f770cbe49080c7fa822f46",
+      "adjuntos": []
+    },
+    {
+      "id": "1471472517871829042",
+      "fecha_utc": "2026-02-12T11:46:26.898000+00:00",
+      "fecha_local": "2026-02-12",
+      "editado_utc": null,
+      "texto": "🔴La escena continua en el Ron de Bonny 🔴",
+      "mensaje_sha256": "a1c91fc451b7f9b6c1c6554b68eea624655461f40995e45ba430c39043e1f1ac",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1471472517871829042",
+      "texto_sha256": "e3cc29ffd9052a4bb51b2b72c6ac71a83c13573efb74f73c3e0c9ac9d8a6d8eb",
+      "adjuntos": []
+    }
+  ]
+}

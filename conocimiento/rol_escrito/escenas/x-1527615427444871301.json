@@ -1,0 +1,237 @@
+{
+  "id": "x-1527615427444871301",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1527615427444871301",
+  "hilo_id": "1482149664131383316",
+  "hilo_nombre": "Cuicapalli - La villa tranquila",
+  "titulo": "Leona ayuda a Guayacán con el picante",
+  "resumen": "Le presta agua mientras él intenta disimular el malestar; la recompensa prometida queda aplazada.",
+  "relato": "Guayacán ofrece comida a Leona con dificultad para hablar. Ella prueba un gran bocado y disfruta el picante, mientras él termina el plato con el traje empapado de sudor. Al darse cuenta de su estado, le pasa discretamente el odre.\n\nEl luchador se aparta para beber con desesperación entre tos y ahogos. Regresa intentando guardar la misma discreción y le agradece el agua. Leona lo reconforta con una mano en el hombro.\n\nEl malestar digestivo sigue creciendo. Cuando ella se retira a descansar y le susurra que lo espera en casa para cumplir lo prometido, Guayacán recuerda la recompensa, pero busca un lugar apartado para soportar las consecuencias de la comida. Se lamenta de odiar el picante y deja pasar la invitación. No hay visita íntima ni recompensa entregada en este tramo; su contenido se aclara después.",
+  "participantes": [
+    "Guayacán",
+    "Leona"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1527658638166982786",
+      "afirmacion": "Leona ofrece su odre a Guayacán al verlo sudar.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1527659168574476362",
+      "afirmacion": "Él bebe aparte y agradece el agua.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1527975019454529686",
+      "afirmacion": "Leona lo invita a casa para darle lo prometido.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1527975629486555208",
+      "afirmacion": "Guayacán se aparta por el malestar en vez de acudir.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Continuación de la comida anterior, separada por el intervalo asignado.",
+    "No inferir contenido sexual de la expectativa de recompensa."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-07-17T09:58:19.625000+00:00",
+  "fin_utc": "2026-07-20T06:51:26.485000+00:00",
+  "fecha_local": "2026-07-17",
+  "intervalo": {
+    "anterior": 45,
+    "siguiente": 46,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527375684333338644",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1529917702439698493",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 45,
+        "fecha": "2026-07-16",
+        "inicio_referencia_utc": "2026-07-16T18:02:20+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527375684333338644"
+      },
+      {
+        "capitulo": 46,
+        "fecha": "2026-07-23",
+        "inicio_referencia_utc": "2026-07-23T18:26:16+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1529917702439698493"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1527615427444871301",
+      "fecha_utc": "2026-07-17T09:58:19.625000+00:00",
+      "fecha_local": "2026-07-17",
+      "editado_utc": null,
+      "texto": "Guayacán: \n**Se gira hacía Leona, ofreciéndole un poco**\n-Nho....vha...a...que...rerh...ma...esh..tra...??a\n**Se puede apreciar lo mal que lo pasa, pero los hombres no huyen de los retos**\n<@171702246952665098>",
+      "mensaje_sha256": "234d4909225fbae37b4aa836ac0aa205ba763c15ff05767958b9e54f1b83c034",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1527615427444871301",
+      "texto_sha256": "2bda94eda2cda7f242876527b50d92d99774a5de8765e04484cb3bce1eb819cc",
+      "adjuntos": []
+    },
+    {
+      "id": "1527616855810772992",
+      "fecha_utc": "2026-07-17T10:04:00.174000+00:00",
+      "fecha_local": "2026-07-17",
+      "editado_utc": null,
+      "texto": "Leona:\nUhhh que buena pinta tiene.\n**le da un gran mordisco**\nque rico y como pica al bajar me encanta\n**se le veria como le da un escalofrio y todo**\ncocinas bien \n<@226504798978048000>",
+      "mensaje_sha256": "17146bdf2ffe660b8a36f064bccc296181ac93d114d6ce4569eea9884458feb2",
+      "tipo_discord": 19,
+      "referencia": "1527615427444871301",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1527616855810772992",
+      "texto_sha256": "75bbbea7c0239b75a807fcc0c66f120adb7ee8f80b08f4cbe08fa4eaf42ac5ec",
+      "adjuntos": []
+    },
+    {
+      "id": "1527617207100641392",
+      "fecha_utc": "2026-07-17T10:05:23.928000+00:00",
+      "fecha_local": "2026-07-17",
+      "editado_utc": null,
+      "texto": "Guayacan: \n**termina su plato, dejandolo impecable, pero sintiendo como su estomago le advertia de las consencuencias**\n-S...Shi...M-Mh-Mhuy....Rhi...koh...\n**se podria ver su traje empapado en sudor, y escurrirse parte del vapor por las aperturas de sus plumas**",
+      "mensaje_sha256": "992a688c406d474151345851dd705890d8191455c2f6d3f4ba56dbdd756f1691",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1527617207100641392",
+      "texto_sha256": "32886d88ea1c0b1f6df0015f91f4ca8af7dde208f30d824f5cc3d4cddf4d010f",
+      "adjuntos": []
+    },
+    {
+      "id": "1527658638166982786",
+      "fecha_utc": "2026-07-17T12:50:01.864000+00:00",
+      "fecha_local": "2026-07-17",
+      "editado_utc": null,
+      "texto": "leona:\n**al darse cuenta de como estaba sudando le pasa con algo de discreccion su odre con agua**\nToma",
+      "mensaje_sha256": "b09e3028c12c0aa6cde2267777efc06651508e5ab13e8a5b608b50f403ee1499",
+      "tipo_discord": 19,
+      "referencia": "1527617207100641392",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1527658638166982786",
+      "texto_sha256": "1d68b35e343349dd97dc2d30b4e897624cf3149f30e9bcc0670f58916f641f5d",
+      "adjuntos": []
+    },
+    {
+      "id": "1527659168574476362",
+      "fecha_utc": "2026-07-17T12:52:08.323000+00:00",
+      "fecha_local": "2026-07-17",
+      "editado_utc": null,
+      "texto": "Guayacán:\n-.......\n**Toma con discreción el Odre, levantándose**\n-......\n**Se aparta un segundo, bebiendo con desesperación, escuchandose claramente como se ahogaba con el agua, su tos, sus intentos descongrolados de aliviar este malestar. Tras esto, cierra el tapón de tal elixir, regresando con la misma discreción quirúrgica el Odre a su propietaria**\n-...... gracias",
+      "mensaje_sha256": "231bbd8ec71ce77be56e329ceaedcc4a6a1ebe922952cd9417a6e43027c28d7e",
+      "tipo_discord": 19,
+      "referencia": "1527658638166982786",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1527659168574476362",
+      "texto_sha256": "ca9ed3d52b88eeebbf6bdfc8a7f3254ef541a59b0ca55dc572c9d195c49961af",
+      "adjuntos": []
+    },
+    {
+      "id": "1527659624877133985",
+      "fecha_utc": "2026-07-17T12:53:57.114000+00:00",
+      "fecha_local": "2026-07-17",
+      "editado_utc": null,
+      "texto": "Leona:\n**se guarda el odre y le pone la mano en el hombre para reconfortarlo**\nque rico ya no puedo comer mas",
+      "mensaje_sha256": "3bf6cba020341bb6c1c799e8205d5ef7e0912639b637505c8b860e06061681a3",
+      "tipo_discord": 19,
+      "referencia": "1527659168574476362",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1527659624877133985",
+      "texto_sha256": "08d32b87385f65dfa778f432a13da7705d32f65c0d1ea7178109cb07a56c83c6",
+      "adjuntos": []
+    },
+    {
+      "id": "1527967280640557230",
+      "fecha_utc": "2026-07-18T09:16:27.964000+00:00",
+      "fecha_local": "2026-07-18",
+      "editado_utc": null,
+      "texto": "Guayacan: \n**hace una cara larga, sintiendo conforme pasa los minutos la terrible decision que ha tomado**\n-\"Ay.....ayayayayaaaay...\"\n**dice para sus adentros, viendo a los dos demonios que tiene por compañeros**\n-S-si...si...divino...si...me disculpan...\n**se va retirando lentamente, buscando algun sitio placido donde esperar su tragico destino, uno ardiente, doloroso y apestoso**",
+      "mensaje_sha256": "b218b6cd2219d1daf2c53bd80fbe1d8d5a92a31b2c5a8b34d224ea879dfb105c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1527967280640557230",
+      "texto_sha256": "bb585f442660eb4d6c9cc2d4fe029f38a8452338626acd93c415e45fe1705a40",
+      "adjuntos": []
+    },
+    {
+      "id": "1527975019454529686",
+      "fecha_utc": "2026-07-18T09:47:13.041000+00:00",
+      "fecha_local": "2026-07-18",
+      "editado_utc": null,
+      "texto": "Leona:\nbueno chicos me voy a descansar\n**se acerca al oido de guayacan para susurrale algo**\nTe espero luego en casa para lo que te prometi",
+      "mensaje_sha256": "2b7191622a447b06dbd8e910550d4c93b155f87737de013c96863b41b9a3c9da",
+      "tipo_discord": 19,
+      "referencia": "1527967280640557230",
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1527975019454529686",
+      "texto_sha256": "32423d1059cd2d34040160d6769acaf79eddd98d7718e2ed6cc1b1b43f38e1d5",
+      "adjuntos": []
+    },
+    {
+      "id": "1527975629486555208",
+      "fecha_utc": "2026-07-18T09:49:38.484000+00:00",
+      "fecha_local": "2026-07-18",
+      "editado_utc": null,
+      "texto": "Guayacan: \n-....???!!!!\n**la ve alejarse, recordando su preciada recompensa**\n-A....Ah...! \n**nota algunas burbujas retumbar en su estomago, dejando salir lagrimillas de sus ojos**\n-......ay....ayaya...\n**se busca algun hueco recondito que no lo puedan ver demasiado, habra otro dia mejor para tener su preciado premio**\n-Odio.....el picante..... 😭",
+      "mensaje_sha256": "7a35a0e42387a90fa5eaf6e7a74b81a40ab0a9b51fcc2efb83d650a3ddfaa5af",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1527975629486555208",
+      "texto_sha256": "0936c72c43651d427cf9db7a83a60227871d87a329c759f9024a27967597d6b9",
+      "adjuntos": []
+    },
+    {
+      "id": "1527975905308180500",
+      "fecha_utc": "2026-07-18T09:50:44.245000+00:00",
+      "fecha_local": "2026-07-18",
+      "editado_utc": null,
+      "texto": "🥕 leona sale de escena🥕",
+      "mensaje_sha256": "21162bdfb8fa5e859cfa2dd06ab56a051888b551a2b294ac627bde5bc8b67c31",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1527975905308180500",
+      "texto_sha256": "0218e738f2b2ac97b42889a25c879ee547b4608574aa5438f03899390cf470dc",
+      "adjuntos": []
+    },
+    {
+      "id": "1527976568344023150",
+      "fecha_utc": "2026-07-18T09:53:22.325000+00:00",
+      "fecha_local": "2026-07-18",
+      "editado_utc": null,
+      "texto": "🦜 🚽  Guayacan sale de escena! 🦜 🚽",
+      "mensaje_sha256": "2da8868804a687b7a8ad06571d8144a9c9b5b873a3b12cb6654450916df37d87",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1527976568344023150",
+      "texto_sha256": "a5f9b63549ad7b3352b533308b782bb802620bc768fc60de3cb45c2b0b51f193",
+      "adjuntos": []
+    },
+    {
+      "id": "1528655559723581530",
+      "fecha_utc": "2026-07-20T06:51:26.485000+00:00",
+      "fecha_local": "2026-07-20",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "7ce61f96155e50d7f60ac38cb64500d31b27e89a2b68366021fcdc36a05e2958",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1528655559723581530",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

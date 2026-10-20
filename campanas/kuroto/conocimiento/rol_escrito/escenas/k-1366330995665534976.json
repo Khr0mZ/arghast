@@ -1,0 +1,88 @@
+{
+  "id": "k-1366330995665534976",
+  "campana": "kuroto",
+  "unidad_revision": "k-1366330995665534976",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Una carta para Kalista o Guxi",
+  "resumen": "Una carta destinada a Kalista o Guxi queda en el buzón de los cazadores.",
+  "relato": "En el exterior de la base de Sho hay una carta depositada en el buzón de los cazadores. Se indica que sus destinatarios son Kalista y/o Guxi. La escena se cierra sin mostrar quién la envió, qué dice ni si alguno de los destinatarios la recoge.",
+  "participantes": [],
+  "evidencias": [
+    {
+      "mensaje_id": "1366330995665534976",
+      "afirmacion": "Hay una carta destinada a Kalista o Guxi en el buzón de la base de Sho.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Kalista y Guxi son destinatarios mencionados, no participantes presentes. No se identifica remitente ni se revela el contenido de la carta."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-04-28T08:31:34.569000+00:00",
+  "fin_utc": "2025-04-29T05:31:30.327000+00:00",
+  "fecha_local": "2025-04-28",
+  "intervalo": {
+    "anterior": 109,
+    "siguiente": 110,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1365035149171101736",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367206327377727518",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 109,
+        "fecha": "2025-04-24",
+        "inicio_referencia_utc": "2025-04-24T18:42:06+00:00",
+        "fin_estimado_utc": "2025-04-24T21:37:07+00:00",
+        "duracion_video_segundos": 10501,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1365035149171101736"
+      },
+      {
+        "capitulo": 110,
+        "fecha": "2025-04-30",
+        "inicio_referencia_utc": "2025-04-30T18:29:35+00:00",
+        "fin_estimado_utc": "2025-04-30T20:53:27+00:00",
+        "duracion_video_segundos": 8632,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367206327377727518"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1366330995665534976",
+      "fecha_utc": "2025-04-28T08:31:34.569000+00:00",
+      "fecha_local": "2025-04-28",
+      "editado_utc": "2025-04-28T08:48:03.947000+00:00",
+      "texto": "Exterior base de Sho: **hay depositado una carta en el buzón de los cazadores destinatarios Kalista y / o Guxi**",
+      "mensaje_sha256": "a7e240e6f1db2b68947524d6cf258557a74627844cfc6ab897eda5527c687543",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1366330995665534976",
+      "texto_sha256": "dcc3d5557ec703fdaeaf1c586bc3d4fc12815faf589455165d861da69cfa3fd0",
+      "adjuntos": []
+    },
+    {
+      "id": "1366648067255963761",
+      "fecha_utc": "2025-04-29T05:31:30.327000+00:00",
+      "fecha_local": "2025-04-29",
+      "editado_utc": null,
+      "texto": "🔴 Fin de escena🔴",
+      "mensaje_sha256": "2e222dcbf74f0e0ba5953e981ea4cea2651a5376d79b9f21d341ef1e346886e9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1366648067255963761",
+      "texto_sha256": "7aa24b8aa6fd3f35301a7f77b3905a178395ed16125386e060d23c65cafcba7d",
+      "adjuntos": []
+    }
+  ]
+}

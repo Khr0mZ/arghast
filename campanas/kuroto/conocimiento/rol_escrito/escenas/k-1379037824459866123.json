@@ -1,0 +1,82 @@
+{
+  "id": "k-1379037824459866123",
+  "campana": "kuroto",
+  "unidad_revision": "k-1379037824459866123",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Una nueva prueba por el camino",
+  "resumen": "Archi saca la carreta con Ralph y provisiones.",
+  "relato": "Archi da por acabados los últimos ajustes de la carreta y la carga con comida y camas para probarla en el camino de Ukyio. Ralph sube con él. Tras un par de horas sin problemas aparentes, el gnomo pulsa un botón que incorpora ruedas adicionales y aumenta considerablemente la velocidad. La prueba sigue en marcha fuera de la base: no se muestra su llegada, un accidente o una inspección posterior que confirme la fiabilidad del vehículo.",
+  "participantes": [
+    "Archi",
+    "Ralph"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1379037824459866123",
+      "afirmacion": "Archi y Ralph salen con provisiones en la carreta y prueban un aumento de velocidad.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Diecinueve mensajes completos en dos bloques de acción.",
+    "La prueba de la carreta está representada por su inventor, sin añadir capacidades bélicas o una llegada no mostrada.",
+    "Las propiedades del libro y la visión azul son informes verbales, no experimentos repetidos aquí. Osurai reconoce como conjetura la identidad de un posible primer dueño.",
+    "Maroxi supone que Gur tuvo relación con el incendio del circo; el diálogo no confirma esa responsabilidad.",
+    "Los pensamientos sobre la Reina Cuervo y la entidad de Maroxi son privados. No se deduce que el cofre vacío contuviera una esfera ni se resuelve su anterior desaparición."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2025-06-02T10:03:58.635000+00:00",
+  "fin_utc": "2025-06-02T10:03:58.635000+00:00",
+  "fecha_local": "2025-06-02",
+  "intervalo": {
+    "anterior": 123,
+    "siguiente": 124,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1377714802629283882",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1379890572373790750",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 123,
+        "fecha": "2025-05-29",
+        "inicio_referencia_utc": "2025-05-29T18:26:29+00:00",
+        "fin_estimado_utc": "2025-05-29T21:01:06+00:00",
+        "duracion_video_segundos": 9277,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1377714802629283882"
+      },
+      {
+        "capitulo": 124,
+        "fecha": "2025-06-04",
+        "inicio_referencia_utc": "2025-06-04T18:32:16+00:00",
+        "fin_estimado_utc": "2025-06-04T21:34:59+00:00",
+        "duracion_video_segundos": 10963,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1379890572373790750"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1379037824459866123",
+      "fecha_utc": "2025-06-02T10:03:58.635000+00:00",
+      "fecha_local": "2025-06-02",
+      "editado_utc": null,
+      "texto": "Archi : Parece que ya están hechos los últimos ajustes . \nVoy a probarla \nla he cargado con comida y dentro hay camas . Sube Ralph \n**archi sube a la carreta y coge el camino hacia Ukyio ** \n(Pasadas un par de horas) \nHmmmm parece que todo va bien . \nVamos a probar esto . \n**pulsa un botón rojo en donde serían las riendas de la carreta . \nUn par de ruedas adicionales se anexan a la carreta y esta empieza a aumentar la velocidad de forma considerable **",
+      "mensaje_sha256": "618297bcf8bc6d89b2b1082b656ba402faf45779ac66cdb36d81bc22840e3585",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1379037824459866123",
+      "texto_sha256": "a9f43adff5e6931f08c57ecf54434fb01f32d65661c45acccb8b3f740d3d44c4",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": "k-1375394050525630525",
+  "campana": "kuroto",
+  "unidad_revision": "k-1375394050525630525",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "El laboratorio de revelado de Guxi",
+  "resumen": "Guxi se encierra a revelar sus fotografías y acaba dormido por el agotamiento.",
+  "relato": "Guxi entra con cuidado en la base para no hacer ruido y se encierra en su antigua habitación. Allí adapta un cristal de cuarzo para producir luz roja y prepara un pequeño laboratorio con bandejas, líquidos y papel tratado. Se protege con una máscara de los vapores y trabaja con la lente de su cámara para trasladar al papel las imágenes guardadas en el cristal. Repite el proceso con cada fotografía y las cuelga de una cuerda para que sequen. Cuando termina solo le queda esperar. Agotado física y mentalmente, se acuesta ante la puerta atrancada y se duerme en una postura incómoda. El contenido de las imágenes no se describe y el resultado aún no se examina.",
+  "participantes": [
+    "Guxi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1375394050525630525",
+      "afirmacion": "Guxi entra en silencio y prepara cosas en su antigua habitación.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1375415355987726468",
+      "afirmacion": "Guxi revela las imágenes de su cámara y las cuelga para secarlas bajo luz roja.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1375421042557976708",
+      "afirmacion": "Guxi se queda dormido ante la puerta atrancada mientras espera.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Cinco mensajes completos. La técnica es parte del artefacto ficticio representado; no se presenta como procedimiento fotográfico real.",
+    "Las imágenes no se adjuntan en esta unidad y su contenido queda sin identificar. La escena de revelado continúa en k-1375488890441437194."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-23T08:44:55.231000+00:00",
+  "fin_utc": "2025-05-23T10:34:12.962000+00:00",
+  "fecha_local": "2025-05-23",
+  "intervalo": {
+    "anterior": 119,
+    "siguiente": 120,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1375179577676267590",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1376630112560218362",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 119,
+        "fecha": "2025-05-22",
+        "inicio_referencia_utc": "2025-05-22T18:32:29+00:00",
+        "fin_estimado_utc": "2025-05-22T22:24:07+00:00",
+        "duracion_video_segundos": 13898,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1375179577676267590"
+      },
+      {
+        "capitulo": 120,
+        "fecha": "2025-05-26",
+        "inicio_referencia_utc": "2025-05-26T18:36:20+00:00",
+        "fin_estimado_utc": "2025-05-26T21:36:05+00:00",
+        "duracion_video_segundos": 10785,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1376630112560218362"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1375394050525630525",
+      "fecha_utc": "2025-05-23T08:44:55.231000+00:00",
+      "fecha_local": "2025-05-23",
+      "editado_utc": null,
+      "texto": "guxi: **entra abriendo la puerta con cuidado y se dirige a su habitacion esta preparando varias cosas con cuidado para no hacer ruido por las horas intespestivas**",
+      "mensaje_sha256": "b0cf9b713f5519a9db8aa826f7f6a1c4e77b1593954a947aea2cff39d5df315a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1375394050525630525",
+      "texto_sha256": "41dd0d6ab7db4fcffb3b24e9529f9584f28d3603a02c8485aa93118f748fef92",
+      "adjuntos": []
+    },
+    {
+      "id": "1375415355987726468",
+      "fecha_utc": "2025-05-23T10:09:34.849000+00:00",
+      "fecha_local": "2025-05-23",
+      "editado_utc": null,
+      "texto": "guxi: ** se encierra en su antigua habitacion y se pone a trabajar coge un cristal de cuarzo con unas chispas que saca de su mano junto con un poco de magia arcana de color violeta (eldritch blast) de forma  controlada lo transforma en un cristal que da una luz roja ** bueno ahora la siguiente parte **saca unas bandejas en las cuales vierte un liquido que deja un olor bastante desagradable ** *cierto la mascara* **se pone una especie de mascara para evitar que los gases producidos le afecten** *ahora la lente* **saca con cuidado milimetrico la lente de la camara y saca un tipo de papel mas suave de lo normal recubierto de una especie de capa ligeramente reflectante lo moja en aquella sustancia y lo saca ,Cuando lo hace coge y oprime una de las caras del cristal y una de las imagenes que estaban grabadas en el cristal aparecen cuelga aquel papel de una cuerda para que se seque , Hace lo mismo con cada una de las fotos que habia hecho **",
+      "mensaje_sha256": "0f1c7aca4953bb8c6b96311a29217fad73f4cb7bfb7faa08f92803ed09663e90",
+      "tipo_discord": 19,
+      "referencia": "1375394050525630525",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1375415355987726468",
+      "texto_sha256": "562a81fc773e26e2ab2278d24e855287901eda42d41d56f15efaebc7cfa8b5ee",
+      "adjuntos": []
+    },
+    {
+      "id": "1375421042557976708",
+      "fecha_utc": "2025-05-23T10:32:10.633000+00:00",
+      "fecha_local": "2025-05-23",
+      "editado_utc": null,
+      "texto": "guxi: **con la mascara puesta y el sonido de las fotografias goteando ya solo queda esperar guxi se acuesta delante de la puerta atrancada ** *ahora solo queda esperar mañana estara terminado* **por todo el cansancio fisico y mental no puede evitar dormirse a pesar de lo incomodo de su posicion**",
+      "mensaje_sha256": "c2a2be1ef96d3734ee4adb991dd9ca1d872ef174500b5d9a2992fda965a97b88",
+      "tipo_discord": 19,
+      "referencia": "1375415355987726468",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1375421042557976708",
+      "texto_sha256": "485d48d15e4791ad6a9dbffd0dbdb103a38839fae39b44506ad066fc398e3f96",
+      "adjuntos": []
+    },
+    {
+      "id": "1375421499531464794",
+      "fecha_utc": "2025-05-23T10:33:59.584000+00:00",
+      "fecha_local": "2025-05-23",
+      "editado_utc": null,
+      "texto": "🌙 guxi se queda frito🌙",
+      "mensaje_sha256": "1082efdbd73b3d1d087b37d7c48aaa032261360315776921e790ae504e2b6ede",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1375421499531464794",
+      "texto_sha256": "b962f800b46ac86aca057b67e05cfb179886692c1fde4fcb75c116a375a8006b",
+      "adjuntos": []
+    },
+    {
+      "id": "1375421555642732654",
+      "fecha_utc": "2025-05-23T10:34:12.962000+00:00",
+      "fecha_local": "2025-05-23",
+      "editado_utc": null,
+      "texto": "🔴 fin de escena🔴",
+      "mensaje_sha256": "9e966752c2af719cb8bbfe91da4c030689f8f146ee4304fffd734f010a45362b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1375421555642732654",
+      "texto_sha256": "906cd6a490f27f6a27bf957ba49b4845aca936431f5924262141d6e0dea25762",
+      "adjuntos": []
+    }
+  ]
+}

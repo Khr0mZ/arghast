@@ -1,0 +1,254 @@
+{
+  "id": "k-1369547278054068246",
+  "campana": "kuroto",
+  "unidad_revision": "k-1369547278054068246",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Un plan que no se dice en voz alta",
+  "resumen": "Banzo y Palathier preparan un recado para Kalista.",
+  "relato": "Banzo sale con su nueva armadura, vendado y cubierto para evitar que Danifae le reconozca las manos o el rostro. Busca pintura entre los útiles de Guxi para tapar sus tatuajes, pero solo encuentra barniz; no se confirma que llegue a pintarse. Palathier entra con Wasabi y le cuenta que Guxi los espera en una taberna del puerto, según un mensaje que cree haber recibido por telepatía. El goliat entrega un croquis con un plan cuyos pasos no se reproducen. Palathier lo comprende y cree que puede funcionar, aunque ambos dudan de estar haciendo lo correcto. Se reparten: Banzo buscará a Guxi en la ciudad y Palathier irá a Ukyo para llevar a cabo lo hablado. Quien encuentre antes a Wasabi deberá comunicarle qué decir a Kalista. El contenido exacto del recado permanece reservado. Banzo sale; la serpiente, en una breve intervención, se pone unas gafas y saca un libro.",
+  "participantes": [
+    "Banzo",
+    "Palathier",
+    "Wasabi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1369563376283422881",
+      "afirmacion": "Banzo explica que su atuendo oculta manos y rostro ante un posible encuentro con Danifae.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1369598677957742632",
+      "afirmacion": "Entre los útiles de Guxi no hay pintura; solo barniz.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1369603897580322868",
+      "afirmacion": "Palathier entiende el croquis y cree viable el plan, pero expresa dudas morales.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1369610525184364544",
+      "afirmacion": "Banzo reparte la búsqueda de Guxi y el encargo de avisar a Kalista mediante Wasabi.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Cincuenta y cinco mensajes completos, tres encuentros diferenciados.",
+    "El croquis no se adjunta ni se explica. No se reconstruyen sus pasos por los resultados posteriores.",
+    "La búsqueda de pintura es condicional y se responde que no la hay: no se da por aplicado el barniz ni por ocultos los tatuajes.",
+    "Las afirmaciones sobre el origen, los efectos o la retirada de las marcas siguen sin aclararse. Los pronombres él y ella no bastan aquí para adjudicar responsables.",
+    "La conversación privada final no se comparte con Palathier ni Guxi. El grito a Ōtakemaru es una expresión de Kaniza, no un contacto con el enemigo."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-07T05:31:56.046000+00:00",
+  "fin_utc": "2025-05-07T11:32:42.986000+00:00",
+  "fecha_local": "2025-05-07",
+  "intervalo": {
+    "anterior": 111,
+    "siguiente": 112,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1369742246882054214",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 111,
+        "fecha": "2025-05-01",
+        "inicio_referencia_utc": "2025-05-01T18:30:18+00:00",
+        "fin_estimado_utc": "2025-05-01T21:17:50+00:00",
+        "duracion_video_segundos": 10052,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983"
+      },
+      {
+        "capitulo": 112,
+        "fecha": "2025-05-07",
+        "inicio_referencia_utc": "2025-05-07T18:26:24+00:00",
+        "fin_estimado_utc": "2025-05-07T21:22:03+00:00",
+        "duracion_video_segundos": 10539,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1369742246882054214"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1369547278054068246",
+      "fecha_utc": "2025-05-07T05:31:56.046000+00:00",
+      "fecha_local": "2025-05-07",
+      "editado_utc": null,
+      "texto": "Banzo : **sale de su habitación con su nueva indumentaria** \nEspero que Phalathier <@694971576340447292> siga con wasabi... <@753394009153732689> tengo que explicarles el plan y saber que opina ...",
+      "mensaje_sha256": "de1d44b54205094e7e46d3d161a95b7f56a15389a5ce8b5ce3141ee3fa605125",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369547278054068246",
+      "texto_sha256": "d2d6fa376ca4baacbb6947ae0d3f217ed4de953a06eeedecaf957e91440f5793",
+      "adjuntos": []
+    },
+    {
+      "id": "1369550245251518464",
+      "fecha_utc": "2025-05-07T05:43:43.481000+00:00",
+      "fecha_local": "2025-05-07",
+      "editado_utc": null,
+      "texto": "Banzo : **observando alrededor en la base ve las herramientas y utensilios que ha estado utilizando Guxi <@171702246952665098> . (Si de entre ellos pudiese encontrar algo de pintura ), se pintaría el pecho con ella para tapar sus tatuajes . **\n*tengo que disimular todo lo posible mi aspecto ...*",
+      "mensaje_sha256": "f0913185c6a465720599ce49234ef8f76f0469109b7aac97315ff20b4e8692b7",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369550245251518464",
+      "texto_sha256": "6784eaa1e8a6583949a5401a3fad06aafe1175b1dd0c4782687c076212d724c6",
+      "adjuntos": []
+    },
+    {
+      "id": "1369555959571288134",
+      "fecha_utc": "2025-05-07T06:06:25.881000+00:00",
+      "fecha_local": "2025-05-07",
+      "editado_utc": null,
+      "texto": "Palathier: **Se abre la puerta de la base y se ve entrar a la drow junto con la culebra. Al ver al goliat se acerca**\nEi Banzo,dónde te habías metido? Te he estado buscando por el muelle. Guxi me ha enviado un mensaje, decía que nos esperaba en la taberna",
+      "mensaje_sha256": "386245e15057025079176432dffa0fd500f84eeac5bc54b98d2dfabaafdfbb81",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369555959571288134",
+      "texto_sha256": "edb2bdf0ba20a5bfe34979c02d3563baf444c1e92c6935ca752d3d29b9b012f0",
+      "adjuntos": []
+    },
+    {
+      "id": "1369563376283422881",
+      "fecha_utc": "2025-05-07T06:35:54.163000+00:00",
+      "fecha_local": "2025-05-07",
+      "editado_utc": null,
+      "texto": "Banzo : \nQue te parece , esto es lo que te conté,  se me reconoce? Con el tamaño no puedo hacer nada pero por lo menos no me verán las manos ni la cara si nos topamos con Danifae",
+      "mensaje_sha256": "d378f65e7f15eb6c57f0a797b0b8ca6d3eacc184d89d1c8a6a71815ce92caf04",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369563376283422881",
+      "texto_sha256": "f07fef5b89e92bd9f00ba40346ed329cd167c461ed839f173c50232cb0fb9e08",
+      "adjuntos": []
+    },
+    {
+      "id": "1369563838411964509",
+      "fecha_utc": "2025-05-07T06:37:44.343000+00:00",
+      "fecha_local": "2025-05-07",
+      "editado_utc": "2025-05-07T07:24:42.493000+00:00",
+      "texto": "Banzo : wasabi está contigo ?  **ojea alrededor a ver si esta la serpiente ** <@753394009153732689>",
+      "mensaje_sha256": "78d1c4e707e6cc6cdf6dc3b6a420d4b75b2bdc30aa38eb63fff496168dec1165",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369563838411964509",
+      "texto_sha256": "0baa3587376dd1fe4e8d0f791dfed0f0fb377359b18d6a0d8b1bc319fceb9430",
+      "adjuntos": []
+    },
+    {
+      "id": "1369566499823423539",
+      "fecha_utc": "2025-05-07T06:48:18.873000+00:00",
+      "fecha_local": "2025-05-07",
+      "editado_utc": null,
+      "texto": "Palathier: Bien, eso nos dará algo de tiempo antes de que esa se entere **Dice en voz baja, comprobando si hay alguien más que pueda oírlos**",
+      "mensaje_sha256": "d2cad371dc8a3af2ca60d6b2cd93887a366036a231a3c592092c0232a90f0ba0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369566499823423539",
+      "texto_sha256": "9866ef4e03bbe6a238b4f8696f97049e3baba1748c73db8f669a67bb4fd994d5",
+      "adjuntos": []
+    },
+    {
+      "id": "1369576041064173569",
+      "fecha_utc": "2025-05-07T07:26:13.682000+00:00",
+      "fecha_local": "2025-05-07",
+      "editado_utc": null,
+      "texto": "Banzo : ** banzo le da una hoja con un croquis de los suyos donde se indicaría los pasos de plan **",
+      "mensaje_sha256": "be466b64ca2028f0cbb6ee35caf412abbafe4726d1d9078c818ecfc06e98342b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369576041064173569",
+      "texto_sha256": "3c22c707af16f050d46fc79ef64689abdf35c07a64db81f8883dccca18614c48",
+      "adjuntos": []
+    },
+    {
+      "id": "1369598677957742632",
+      "fecha_utc": "2025-05-07T08:56:10.738000+00:00",
+      "fecha_local": "2025-05-07",
+      "editado_utc": null,
+      "texto": "**entre las cosas que guxi dejo para reparar la base no encuentras pintura lo mas parecido seria barniz**",
+      "mensaje_sha256": "e9b2aaee69516cfe8b1f38b4dfc99882b1ee5827ba14ff3c5a077d39d497f4ab",
+      "tipo_discord": 19,
+      "referencia": "1369550245251518464",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369598677957742632",
+      "texto_sha256": "a450a77b59b08fe31ba5a71455714d2f7246d1dff0624c0f897844b97b42cb16",
+      "adjuntos": []
+    },
+    {
+      "id": "1369603897580322868",
+      "fecha_utc": "2025-05-07T09:16:55.193000+00:00",
+      "fecha_local": "2025-05-07",
+      "editado_utc": "2025-05-07T09:17:11.697000+00:00",
+      "texto": "Palathier: **Coge el croquis de Banzo, y se alivia al ver que está representando de manera que lo puede entender con facilidad. Asiente con la cabeza y le devuelve el papel enrollándolo antes**\nCreo que puede funcionar! Amigo, tengo mis dudas de si estamos haciendo lo correcto, espero que lo entienda...",
+      "mensaje_sha256": "110a6956c15217199e081acb98c722eb65ef5be6dc85e5bdda1d54dfc871b69b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369603897580322868",
+      "texto_sha256": "d984b518a9a0daea8e3d7cfc6275df69ec00db50f07f662e45837418073d8d44",
+      "adjuntos": []
+    },
+    {
+      "id": "1369606437017358366",
+      "fecha_utc": "2025-05-07T09:27:00.642000+00:00",
+      "fecha_local": "2025-05-07",
+      "editado_utc": null,
+      "texto": "Banzo : tengo las mismas dudas que tu... **se lo guarda **\nGuxi dices que nos espera en la taberna ? Vayamos pues , debemos avisar al tanuki también quizá este en Ukyio",
+      "mensaje_sha256": "8aabaa709c34f7fc5d7e3d967711c2d2dbdf7a6b5709fa1d39197bd6bbf342d1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369606437017358366",
+      "texto_sha256": "7042033de9f75c7f974c2e1ff775fdfa91b6cc45cbfb2191e1f623899fb2a650",
+      "adjuntos": []
+    },
+    {
+      "id": "1369610299547844709",
+      "fecha_utc": "2025-05-07T09:42:21.541000+00:00",
+      "fecha_local": "2025-05-07",
+      "editado_utc": null,
+      "texto": "Palathier: Si no fue mi imaginación, creo que me habló por telepatía cuando nos escaqueamos de Danifae. Me dijo que lo buscara en la taberna más cercana. Estábamos en en puerto, seguramente esté por los barrios bajos",
+      "mensaje_sha256": "191bb9a8418ea9898b067a56c77597eba71cd7b5f7ba1820f59848a669ceae61",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369610299547844709",
+      "texto_sha256": "f66554d2fed10424a4cb715d0224b8dc33c75c9d67abc2846803558fa9a7a468",
+      "adjuntos": []
+    },
+    {
+      "id": "1369610525184364544",
+      "fecha_utc": "2025-05-07T09:43:15.337000+00:00",
+      "fecha_local": "2025-05-07",
+      "editado_utc": "2025-05-07T09:44:33.251000+00:00",
+      "texto": "Banzo : voy por el , ves tú a Ukyo para hacer lo hablado \nQuien vea antes a wasabi que le informe de lo que le ha de decir a kalista <@753394009153732689>\n**banzo sale de la base en dirección a la ciudad ** \n\n👌 banzo sale de escena 👌",
+      "mensaje_sha256": "f51657d2c3628e5da80b43e9b5aa02a2c96e01bc33d96aa3fa2ce7aceb2a2e7f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369610525184364544",
+      "texto_sha256": "82e2f902009d5252d2725c97457f339f02801098759d5e46d30ead896cce43c8",
+      "adjuntos": []
+    },
+    {
+      "id": "1369638071901098025",
+      "fecha_utc": "2025-05-07T11:32:42.986000+00:00",
+      "fecha_local": "2025-05-07",
+      "editado_utc": null,
+      "texto": "Wasabi: **Te mira un rato, se encoge de cola porq de hombros no puede. Je je no tener brazos y eso. Se saca unas gafitas y un librito**",
+      "mensaje_sha256": "fdd6f0b4659af799ece47f7583e3731b13746eb53f335d77c995c9735e2ef600",
+      "tipo_discord": 19,
+      "referencia": "1369610299547844709",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369638071901098025",
+      "texto_sha256": "d27531f0dbd91fe2b4749c3c001701f48f5ba89d9c3ef41abd8ec59f39e674ec",
+      "adjuntos": []
+    }
+  ]
+}

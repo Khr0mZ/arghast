@@ -1,0 +1,1913 @@
+{
+  "hilo_id": "1387915737502580886",
+  "hilo": "Sho, Palacio del Shogunato - Capital de Kuroto",
+  "campana": "kuroto",
+  "unidades_leidas": 67,
+  "alcance": "Lectura íntegra de las 67 unidades del hilo, del 26 de junio al 19 de diciembre de 2025, con todas las partes y adjuntos visuales, incluidos los dos suplementos de imágenes reenviadas. Las fichas conservan los mensajes originales leídos, las continuidades y las divisiones narrativas. Los pendientes describen el cierre de este hilo, no el estado global de la campaña.",
+  "identidades": [
+    {
+      "nombre": "Kalista Nautireida",
+      "alias": [
+        "Kalista",
+        "Shogun"
+      ],
+      "pruebas": [
+        "1413536572153790577",
+        "1413531317303246888"
+      ],
+      "nota": "Se identifica con nombre completo al proponer a Jelbreg como consorte. Shogun es su cargo durante esta parte del hilo, no una identidad distinta.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1413536572153790577",
+          "escena": "k-1413503820067246080",
+          "fecha_utc": "2025-09-05T14:49:41.041000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1413536572153790577"
+        },
+        {
+          "mensaje_id": "1413531317303246888",
+          "escena": "k-1413503820067246080",
+          "fecha_utc": "2025-09-05T14:28:48.187000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1413531317303246888"
+        }
+      ]
+    },
+    {
+      "nombre": "Jelbreg Unthuar",
+      "alias": [
+        "Jelbreg",
+        "Consorte"
+      ],
+      "pruebas": [
+        "1413536572153790577",
+        "1413539207531462677"
+      ],
+      "nota": "Kalista usa el nombre completo y él acepta públicamente el vínculo de consorte. No se deduce de ello una ceremonia religiosa posterior.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1413536572153790577",
+          "escena": "k-1413503820067246080",
+          "fecha_utc": "2025-09-05T14:49:41.041000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1413536572153790577"
+        },
+        {
+          "mensaje_id": "1413539207531462677",
+          "escena": "k-1413503820067246080",
+          "fecha_utc": "2025-09-05T15:00:09.364000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1413539207531462677"
+        }
+      ]
+    },
+    {
+      "nombre": "Archi",
+      "alias": [
+        "Augustus Archival Frederick Patrick Daniel OSullivan de Von Vergen"
+      ],
+      "pruebas": [
+        "1427199159336828941"
+      ],
+      "nota": "Shirz pronuncia su nombre completo. No se atribuye a Archi la identidad de un colaborador, ni se confunden sus disfraces con la voz demoníaca.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1427199159336828941",
+          "escena": "k-1427191496578433195",
+          "fecha_utc": "2025-10-13T07:39:55.664000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1427199159336828941"
+        }
+      ]
+    },
+    {
+      "nombre": "Yiccardaria",
+      "alias": [
+        "Yochlol"
+      ],
+      "pruebas": [
+        "1395655167537319986",
+        "1403046619502612521",
+        "1421175394148810865"
+      ],
+      "nota": "La narración identifica la araña vencedora como Yiccardaria y yochlol. Jelbreg también atribuye a ella la figura de combate; no es una aparición directa de Lolth.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1395655167537319986",
+          "escena": "k-1395655167537319986",
+          "fecha_utc": "2025-07-18T06:35:21.960000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395655167537319986"
+        },
+        {
+          "mensaje_id": "1403046619502612521",
+          "escena": "k-1402996987686555700",
+          "fecha_utc": "2025-08-07T16:06:21.435000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1403046619502612521"
+        },
+        {
+          "mensaje_id": "1421175394148810865",
+          "escena": "k-1421029734988644403",
+          "fecha_utc": "2025-09-26T16:43:38.127000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1421175394148810865"
+        }
+      ]
+    },
+    {
+      "nombre": "Kurobane",
+      "alias": [
+        "Kuro"
+      ],
+      "pruebas": [
+        "1439261067782914188",
+        "1439261650560749779",
+        "1439264303537721375"
+      ],
+      "nota": "La conversación lo nombra y su confesión identifica al intruso ninja anterior; no se usa el autor de Discord como prueba.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1439261067782914188",
+          "escena": "k-1439258792247296030",
+          "fecha_utc": "2025-11-15T14:29:38.737000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1439261067782914188"
+        },
+        {
+          "mensaje_id": "1439261650560749779",
+          "escena": "k-1439258792247296030",
+          "fecha_utc": "2025-11-15T14:31:57.682000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1439261650560749779"
+        },
+        {
+          "mensaje_id": "1439264303537721375",
+          "escena": "k-1439258792247296030",
+          "fecha_utc": "2025-11-15T14:42:30.201000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1439264303537721375"
+        }
+      ]
+    },
+    {
+      "nombre": "Chanecuxtli",
+      "alias": [
+        "Chani",
+        "Cuahutepochtle"
+      ],
+      "pruebas": [
+        "1415021649773985812",
+        "1441881617193762927",
+        "1441885820096352326"
+      ],
+      "nota": "Cuahutepochtle es la presentación que hace ante Kalista; Chanecuxtli es el rótulo posterior y Arwen la presenta como Chani. Conservar la variación explícita, sin convertirla en una identidad de otra campaña.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1415021649773985812",
+          "escena": "k-1415011066915721299",
+          "fecha_utc": "2025-09-09T17:10:51.137000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1415021649773985812"
+        },
+        {
+          "mensaje_id": "1441881617193762927",
+          "escena": "k-1441872941250773073",
+          "fecha_utc": "2025-11-22T20:02:46.404000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441881617193762927"
+        },
+        {
+          "mensaje_id": "1441885820096352326",
+          "escena": "k-1441872941250773073",
+          "fecha_utc": "2025-11-22T20:19:28.454000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441885820096352326"
+        }
+      ]
+    },
+    {
+      "nombre": "Sindra Vexblade",
+      "alias": [
+        "Sindra"
+      ],
+      "pruebas": [
+        "1428711837074985063"
+      ],
+      "nota": "El narrador la identifica como la drow del libro mágico. No hay confesión del asesinato de tritones en este hilo.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1428711837074985063",
+          "escena": "k-1428711837074985063",
+          "fecha_utc": "2025-10-17T11:50:46.141000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1428711837074985063"
+        }
+      ]
+    },
+    {
+      "nombre": "Kazuki",
+      "alias": [
+        "Kazuki de Almalenora"
+      ],
+      "pruebas": [
+        "1442883508442763446"
+      ],
+      "nota": "Thiary lo llama señorito Kazuki de Almalenora. Es una atribución explícita en diálogo, no una ampliación inferida de linaje.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1442883508442763446",
+          "escena": "k-1442832015207698555",
+          "fecha_utc": "2025-11-25T14:23:55.892000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442883508442763446"
+        }
+      ]
+    },
+    {
+      "nombre": "Koishi",
+      "alias": [
+        "Koichi"
+      ],
+      "pruebas": [
+        "1442879949017972878",
+        "1442908706789523486"
+      ],
+      "nota": "Variantes de nombre en presentación y reparto del mismo consejo. Yuichi aparece después como otro nombre y no se fusiona sin prueba.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1442879949017972878",
+          "escena": "k-1442832015207698555",
+          "fecha_utc": "2025-11-25T14:09:47.259000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442879949017972878"
+        },
+        {
+          "mensaje_id": "1442908706789523486",
+          "escena": "k-1442832015207698555",
+          "fecha_utc": "2025-11-25T16:04:03.646000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442908706789523486"
+        }
+      ]
+    },
+    {
+      "nombre": "Fukami",
+      "alias": [
+        "Fumaki"
+      ],
+      "pruebas": [
+        "1442879949017972878",
+        "1442888236123947070",
+        "1442908706789523486"
+      ],
+      "nota": "La presentación usa Fumaki y las intervenciones y el cargo Servicios usan Fukami.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1442879949017972878",
+          "escena": "k-1442832015207698555",
+          "fecha_utc": "2025-11-25T14:09:47.259000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442879949017972878"
+        },
+        {
+          "mensaje_id": "1442888236123947070",
+          "escena": "k-1442832015207698555",
+          "fecha_utc": "2025-11-25T14:42:43.059000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442888236123947070"
+        },
+        {
+          "mensaje_id": "1442908706789523486",
+          "escena": "k-1442832015207698555",
+          "fecha_utc": "2025-11-25T16:04:03.646000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442908706789523486"
+        }
+      ]
+    },
+    {
+      "nombre": "Thiary",
+      "alias": [
+        "Líder de los Cuchillas Negras"
+      ],
+      "pruebas": [
+        "1442911720426176636"
+      ],
+      "nota": "El cargo se acredita por narración en su salida del consejo.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1442911720426176636",
+          "escena": "k-1442832015207698555",
+          "fecha_utc": "2025-11-25T16:16:02.153000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442911720426176636"
+        }
+      ]
+    },
+    {
+      "nombre": "Whell",
+      "alias": [
+        "General Whell"
+      ],
+      "pruebas": [
+        "1407351720065105950",
+        "1407367876062744687"
+      ],
+      "nota": "Se identifica al general tritón y Kalista reconoce que fue su pareja.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1407351720065105950",
+          "escena": "k-1407231543377920043",
+          "fecha_utc": "2025-08-19T13:13:17.394000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1407351720065105950"
+        },
+        {
+          "mensaje_id": "1407367876062744687",
+          "escena": "k-1407231543377920043",
+          "fecha_utc": "2025-08-19T14:17:29.284000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1407367876062744687"
+        }
+      ]
+    },
+    {
+      "nombre": "Islyn",
+      "alias": [
+        "La Perla"
+      ],
+      "pruebas": [
+        "1406931063204479128"
+      ],
+      "nota": "Nombre y condición constan en la llegada al palacio. Ise aparece después como Perla; no hay prueba suficiente aquí para fusionar ambos nombres.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1406931063204479128",
+          "escena": "k-1406931063204479128",
+          "fecha_utc": "2025-08-18T09:21:44.983000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1406931063204479128"
+        }
+      ]
+    }
+  ],
+  "arcos": [
+    {
+      "nombre": "De la infiltración de Rua al gobierno de Kalista",
+      "avance": "El contexto inicial identifica por narración a Rua como yokai y amante de Ootakemaru infiltrada en el Shogunato. Kalista sostiene la corte, prepara contingencias y admite que asumir el poder buscaba escapar al Rey Dragón y después retirarse tras un consejo. La documentación de ese consejo se recupera efectivamente después de su muerte.",
+      "pruebas": [
+        "1388033661391077458",
+        "1391789348269199370",
+        "1441358050903724052"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1388033661391077458",
+          "escena": "k-1387915737502580886",
+          "fecha_utc": "2025-06-27T05:50:13.294000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1388033661391077458"
+        },
+        {
+          "mensaje_id": "1391789348269199370",
+          "escena": "k-1391373159583711313",
+          "fecha_utc": "2025-07-07T14:33:58.823000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1391789348269199370"
+        },
+        {
+          "mensaje_id": "1441358050903724052",
+          "escena": "k-1441348895815766016",
+          "fecha_utc": "2025-11-21T09:22:18.473000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441358050903724052"
+        }
+      ]
+    },
+    {
+      "nombre": "El consorte y el refugio compartido",
+      "avance": "La relación de Kalista y Jelbreg atraviesa celos, autonomía y protección excesiva, con una ruptura de conversación que él resuelve marchándose y una reconciliación posterior. Kalista lo propone como consorte y él acepta ante la corte. Su casa junto al lago, fuera de Kuroto, representa un futuro deseado, sin abandono definitivo de las obligaciones durante las escenas domésticas.",
+      "pruebas": [
+        "1404830940278161559",
+        "1405568011288707142",
+        "1413536572153790577",
+        "1413539207531462677",
+        "1440650930528976936",
+        "1440705807087046796"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1404830940278161559",
+          "escena": "k-1404790604130418718",
+          "fecha_utc": "2025-08-12T14:16:36.659000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1404830940278161559"
+        },
+        {
+          "mensaje_id": "1405568011288707142",
+          "escena": "k-1405171574054588496",
+          "fecha_utc": "2025-08-14T15:05:28.082000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1405568011288707142"
+        },
+        {
+          "mensaje_id": "1413536572153790577",
+          "escena": "k-1413503820067246080",
+          "fecha_utc": "2025-09-05T14:49:41.041000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1413536572153790577"
+        },
+        {
+          "mensaje_id": "1413539207531462677",
+          "escena": "k-1413503820067246080",
+          "fecha_utc": "2025-09-05T15:00:09.364000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1413539207531462677"
+        },
+        {
+          "mensaje_id": "1440650930528976936",
+          "escena": "k-1440638642422022238",
+          "fecha_utc": "2025-11-19T10:32:27.838000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1440650930528976936"
+        },
+        {
+          "mensaje_id": "1440705807087046796",
+          "escena": "k-1440638642422022238",
+          "fecha_utc": "2025-11-19T14:10:31.429000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1440705807087046796"
+        }
+      ]
+    },
+    {
+      "nombre": "La rehabilitación limitada de Guxi",
+      "avance": "Kalista muestra documentación que acredita su inocencia, pero limita la colaboración inicial mediante contrato y exige completar trabajo y preparación. Guxi termina piedras de comunicación y más tarde entrega parte de las armaduras solicitadas. La readmisión y los títulos no se deducen de una visita o de una oferta inicial.",
+      "pruebas": [
+        "1395441039346630666",
+        "1397281528186404924",
+        "1406671070433644725",
+        "1437809185327943710"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1395441039346630666",
+          "escena": "k-1395403621096489031",
+          "fecha_utc": "2025-07-17T16:24:29.821000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395441039346630666"
+        },
+        {
+          "mensaje_id": "1397281528186404924",
+          "escena": "k-1397253563255885996",
+          "fecha_utc": "2025-07-22T18:17:56.555000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1397281528186404924"
+        },
+        {
+          "mensaje_id": "1406671070433644725",
+          "escena": "k-1406671070433644725",
+          "fecha_utc": "2025-08-17T16:08:37.876000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1406671070433644725"
+        },
+        {
+          "mensaje_id": "1437809185327943710",
+          "escena": "k-1437576426030239785",
+          "fecha_utc": "2025-11-11T14:20:22.985000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1437809185327943710"
+        }
+      ]
+    },
+    {
+      "nombre": "Archi, ingeniería y vigilancia clandestina",
+      "avance": "El inventor prueba armaduras, negocia recursos, patentes y obligaciones y firma como ingeniero imperial. Acaba una serie de trece armaduras. Su disputa por acceso a las esferas desemboca en amenazas de Kalista y Jelbreg; después observa a la pareja mediante un dispositivo y se infiltra para cambiar un cofre original por una réplica con runas visuales. El hilo no resuelve por sí solo toda la relación entre ese cofre y los posteriores.",
+      "pruebas": [
+        "1397306498656374947",
+        "1397336891564490803",
+        "1398974723555070036",
+        "1415007324568944671",
+        "1415013168203305012",
+        "1416089773541556284"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1397306498656374947",
+          "escena": "k-1397297699954491402",
+          "fecha_utc": "2025-07-22T19:57:09.979000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1397306498656374947"
+        },
+        {
+          "mensaje_id": "1397336891564490803",
+          "escena": "k-1397297699954491402",
+          "fecha_utc": "2025-07-22T21:57:56.213000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1397336891564490803"
+        },
+        {
+          "mensaje_id": "1398974723555070036",
+          "escena": "k-1398966916952887337",
+          "fecha_utc": "2025-07-27T10:26:05.789000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1398974723555070036"
+        },
+        {
+          "mensaje_id": "1415007324568944671",
+          "escena": "k-1413560054598209707",
+          "fecha_utc": "2025-09-09T16:13:55.742000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1415007324568944671"
+        },
+        {
+          "mensaje_id": "1415013168203305012",
+          "escena": "k-1413560054598209707",
+          "fecha_utc": "2025-09-09T16:37:08.973000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1415013168203305012"
+        },
+        {
+          "mensaje_id": "1416089773541556284",
+          "escena": "k-1415935620509077525",
+          "fecha_utc": "2025-09-12T15:55:11.688000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1416089773541556284"
+        }
+      ]
+    },
+    {
+      "nombre": "La voz y la fiebre de Archi",
+      "avance": "Banzo y Danifae entregan al inventor alterado. Kalista lo calma y obtiene fragmentos sobre una voz que prometía grandeza y un demonio en su taller. Danifae muestra una filacteria roja que dice vacía y Kalista la guarda para destruirla después. Shirz interpreta las marcas amarillas como fiebre abisal y consigue que Arwen inicie tratamiento; no se declara aquí una curación definitiva ni la destrucción final del objeto.",
+      "pruebas": [
+        "1426574918920831068",
+        "1426610930820583444",
+        "1426618172995534938",
+        "1426620581566091436",
+        "1428019476342902967",
+        "1428374587464220743"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1426574918920831068",
+          "escena": "k-1426204378229899315",
+          "fecha_utc": "2025-10-11T14:19:25.151000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1426574918920831068"
+        },
+        {
+          "mensaje_id": "1426610930820583444",
+          "escena": "k-1426204378229899315",
+          "fecha_utc": "2025-10-11T16:42:31.057000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1426610930820583444"
+        },
+        {
+          "mensaje_id": "1426618172995534938",
+          "escena": "k-1426204378229899315",
+          "fecha_utc": "2025-10-11T17:11:17.726000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1426618172995534938"
+        },
+        {
+          "mensaje_id": "1426620581566091436",
+          "escena": "k-1426204378229899315",
+          "fecha_utc": "2025-10-11T17:20:51.974000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1426620581566091436"
+        },
+        {
+          "mensaje_id": "1428019476342902967",
+          "escena": "k-1427191496578433195",
+          "fecha_utc": "2025-10-15T13:59:34.479000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1428019476342902967"
+        },
+        {
+          "mensaje_id": "1428374587464220743",
+          "escena": "k-1427191496578433195",
+          "fecha_utc": "2025-10-16T13:30:39.568000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1428374587464220743"
+        }
+      ]
+    },
+    {
+      "nombre": "Danifae, las esferas y el pacto de Banzo",
+      "avance": "Danifae es apresada con dos esferas y una caracola. Yiccardaria la visita y presiona sobre su misión. Banzo negocia interceder por su libertad a cambio de una venganza contra la demonio que se hizo pasar por Rua. En la liberación, Kalista apuñala a Danifae tras quitarle las ataduras y Banzo sufre la herida equivalente; Jelbreg desarma y aparta a Kalista. Danifae sale libre con Banzo. Esa respuesta física acredita el vínculo de ese pacto, sin explicar automáticamente todas las marcas antiguas.",
+      "pruebas": [
+        "1395011379362140190",
+        "1395655167537319986",
+        "1424809820560560191",
+        "1424816415138906193",
+        "1425849910992830559",
+        "1425850583595745380",
+        "1425853027201450087",
+        "1425855684226056192"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1395011379362140190",
+          "escena": "k-1394966566227017808",
+          "fecha_utc": "2025-07-16T11:57:10.898000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395011379362140190"
+        },
+        {
+          "mensaje_id": "1395655167537319986",
+          "escena": "k-1395655167537319986",
+          "fecha_utc": "2025-07-18T06:35:21.960000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395655167537319986"
+        },
+        {
+          "mensaje_id": "1424809820560560191",
+          "escena": "k-1424655984613392395",
+          "fecha_utc": "2025-10-06T17:25:32.908000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1424809820560560191"
+        },
+        {
+          "mensaje_id": "1424816415138906193",
+          "escena": "k-1424655984613392395",
+          "fecha_utc": "2025-10-06T17:51:45.178000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1424816415138906193"
+        },
+        {
+          "mensaje_id": "1425849910992830559",
+          "escena": "k-1425748645986308208",
+          "fecha_utc": "2025-10-09T14:18:29.791000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1425849910992830559"
+        },
+        {
+          "mensaje_id": "1425850583595745380",
+          "escena": "k-1425748645986308208",
+          "fecha_utc": "2025-10-09T14:21:10.152000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1425850583595745380"
+        },
+        {
+          "mensaje_id": "1425853027201450087",
+          "escena": "k-1425748645986308208",
+          "fecha_utc": "2025-10-09T14:30:52.753000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1425853027201450087"
+        },
+        {
+          "mensaje_id": "1425855684226056192",
+          "escena": "k-1425748645986308208",
+          "fecha_utc": "2025-10-09T14:41:26.237000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1425855684226056192"
+        }
+      ]
+    },
+    {
+      "nombre": "Ruptura de confianza entre Kalista y Banzo",
+      "avance": "Kalista considera una traición que Banzo acuda a Danifae y la confronte con su pacto; Jelbreg interpreta desesperación y trata de defender la amistad. Las conversaciones posteriores muestran que no se restablece esa confianza antes de la muerte de la Shogun.",
+      "pruebas": [
+        "1426862789561155645",
+        "1426864446722015374",
+        "1428694212924276806",
+        "1428704399408238652"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1426862789561155645",
+          "escena": "k-1426860457356038197",
+          "fecha_utc": "2025-10-12T09:23:18.860000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1426862789561155645"
+        },
+        {
+          "mensaje_id": "1426864446722015374",
+          "escena": "k-1426860457356038197",
+          "fecha_utc": "2025-10-12T09:29:53.958000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1426864446722015374"
+        },
+        {
+          "mensaje_id": "1428694212924276806",
+          "escena": "k-1428671561191391344",
+          "fecha_utc": "2025-10-17T10:40:44.216000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1428694212924276806"
+        },
+        {
+          "mensaje_id": "1428704399408238652",
+          "escena": "k-1428671561191391344",
+          "fecha_utc": "2025-10-17T11:21:12.863000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1428704399408238652"
+        }
+      ]
+    },
+    {
+      "nombre": "El ninja y la pérdida del collar",
+      "avance": "Un intruso localiza las dos esferas tras sortear guardias y runas y deja el cofre cerrado. Kurobane confiesa después la primera infiltración como pago por información a Danifae. La Shogun juzga que obtuvo datos ya conocidos, le arrebata el collar y lo expulsa. Su posterior declaración de seguir trabajando como Cazador no constituye una readmisión formal.",
+      "pruebas": [
+        "1436744673774534698",
+        "1436745102742650981",
+        "1439264303537721375",
+        "1439276413034299392",
+        "1439293136420601959",
+        "1441599161010094152"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1436744673774534698",
+          "escena": "k-1436368123455344720",
+          "fecha_utc": "2025-11-08T15:50:23.653000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1436744673774534698"
+        },
+        {
+          "mensaje_id": "1436745102742650981",
+          "escena": "k-1436368123455344720",
+          "fecha_utc": "2025-11-08T15:52:05.927000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1436745102742650981"
+        },
+        {
+          "mensaje_id": "1439264303537721375",
+          "escena": "k-1439258792247296030",
+          "fecha_utc": "2025-11-15T14:42:30.201000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1439264303537721375"
+        },
+        {
+          "mensaje_id": "1439276413034299392",
+          "escena": "k-1439258792247296030",
+          "fecha_utc": "2025-11-15T15:30:37.330000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1439276413034299392"
+        },
+        {
+          "mensaje_id": "1439293136420601959",
+          "escena": "k-1439258792247296030",
+          "fecha_utc": "2025-11-15T16:37:04.496000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1439293136420601959"
+        },
+        {
+          "mensaje_id": "1441599161010094152",
+          "escena": "k-1441573083361185873",
+          "fecha_utc": "2025-11-22T01:20:23.602000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441599161010094152"
+        }
+      ]
+    },
+    {
+      "nombre": "Las esferas dejan la tesorería",
+      "avance": "La pareja encuentra un cofre abierto, cadenas en el suelo y marcas de aperturas anteriores. Sospecha de Danifae y de otras manos; la confesión de Kuro explica la localización inicial. Kalista informa además de que la esfera de la niña fue extraída y tomada por Danifae. El robo final y la extracción se conocen por declaraciones en este hilo, sin representar aquí todos sus pasos.",
+      "pruebas": [
+        "1438875282726715404",
+        "1438888654566068255",
+        "1439306038913401032",
+        "1439310229991981107"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1438875282726715404",
+          "escena": "k-1438803594378743869",
+          "fecha_utc": "2025-11-14T12:56:40.412000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1438875282726715404"
+        },
+        {
+          "mensaje_id": "1438888654566068255",
+          "escena": "k-1438803594378743869",
+          "fecha_utc": "2025-11-14T13:49:48.507000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1438888654566068255"
+        },
+        {
+          "mensaje_id": "1439306038913401032",
+          "escena": "k-1439297781247381525",
+          "fecha_utc": "2025-11-15T17:28:20.690000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1439306038913401032"
+        },
+        {
+          "mensaje_id": "1439310229991981107",
+          "escena": "k-1439297781247381525",
+          "fecha_utc": "2025-11-15T17:44:59.921000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1439310229991981107"
+        }
+      ]
+    },
+    {
+      "nombre": "Tritones aliados y autonomía de Kuroto",
+      "avance": "Kalista acepta ayuda militar que vincula al Rey Dragón. Islyn interviene en la corte y Whell conserva autoridad sobre sus soldados; la presencia se negocia, con fricciones por la relación de la Shogun y el drow. Tras la destrucción de palacio, Banzo afirma haber apartado a Whell y valora con Yasuoka presionar para que las tropas se marchen sin otra guerra. Chani escucha como mosca y sale a informar a Thiary.",
+      "pruebas": [
+        "1400811260194586725",
+        "1407354354826084372",
+        "1407359425424916593",
+        "1444425317857890344",
+        "1444449681491890329",
+        "1444456168004124692"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1400811260194586725",
+          "escena": "k-1400775916531224576",
+          "fecha_utc": "2025-08-01T12:03:50.245000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1400811260194586725"
+        },
+        {
+          "mensaje_id": "1407354354826084372",
+          "escena": "k-1407231543377920043",
+          "fecha_utc": "2025-08-19T13:23:45.570000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1407354354826084372"
+        },
+        {
+          "mensaje_id": "1407359425424916593",
+          "escena": "k-1407231543377920043",
+          "fecha_utc": "2025-08-19T13:43:54.495000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1407359425424916593"
+        },
+        {
+          "mensaje_id": "1444425317857890344",
+          "escena": "k-1444006682911834142",
+          "fecha_utc": "2025-11-29T20:30:31.902000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1444425317857890344"
+        },
+        {
+          "mensaje_id": "1444449681491890329",
+          "escena": "k-1444006682911834142",
+          "fecha_utc": "2025-11-29T22:07:20.645000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1444449681491890329"
+        },
+        {
+          "mensaje_id": "1444456168004124692",
+          "escena": "k-1444006682911834142",
+          "fecha_utc": "2025-11-29T22:33:07.150000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1444456168004124692"
+        }
+      ]
+    },
+    {
+      "nombre": "Campañas del sur y cambio de la cúpula",
+      "avance": "Los mandos detectan organización demoníaca y la cúpula protegiendo el territorio tras la Puerta Negra. Kalista prepara evacuación de Ukiyo y acaba partiendo a defender el sur. El diario de Sakura explica pactos de cultistas con los Guardianes de cuatro templos. Al cierre se prepara una nueva organización que aspira también a negociar con yokais, sin que el hilo muestre restaurada la cúpula.",
+      "pruebas": [
+        "1436344603765768335",
+        "1436357787289387230",
+        "1438548577281511474",
+        "1439276413034299392",
+        "1448377579294687424",
+        "1451574353140514887"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1436344603765768335",
+          "escena": "k-1436344603765768335",
+          "fecha_utc": "2025-11-07T13:20:39.530000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1436344603765768335"
+        },
+        {
+          "mensaje_id": "1436357787289387230",
+          "escena": "k-1436344603765768335",
+          "fecha_utc": "2025-11-07T14:13:02.727000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1436357787289387230"
+        },
+        {
+          "mensaje_id": "1438548577281511474",
+          "escena": "k-1438530657864253441",
+          "fecha_utc": "2025-11-13T15:18:27.764000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1438548577281511474"
+        },
+        {
+          "mensaje_id": "1439276413034299392",
+          "escena": "k-1439258792247296030",
+          "fecha_utc": "2025-11-15T15:30:37.330000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1439276413034299392"
+        },
+        {
+          "mensaje_id": "1448377579294687424",
+          "escena": "k-1448361566985785525",
+          "fecha_utc": "2025-12-10T18:15:24.458000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1448377579294687424"
+        },
+        {
+          "mensaje_id": "1451574353140514887",
+          "escena": "k-1451349328173072538",
+          "fecha_utc": "2025-12-19T13:58:14.736000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1451574353140514887"
+        }
+      ]
+    },
+    {
+      "nombre": "El ataque y la pérdida de Kalista",
+      "avance": "La destrucción del palacio y la muerte de Kalista aparecen como consecuencias previas: cadáveres, sangre del forcejeo con Danifae y ruinas. Banzo rompe el trono y encuentra un libro de yokais y un tarro etiquetado Cenizas de Rua; guarda fular y flauta y promete buscar a Jelbreg. Arwen atiende muertos y afirma haber asegurado el regreso de Kalista al ciclo. No se rellena la escena del ataque ausente de este hilo.",
+      "pruebas": [
+        "1441349834945728522",
+        "1441350985355100341",
+        "1441352523536404491",
+        "1441437433387552848",
+        "1441523983441989736"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1441349834945728522",
+          "escena": "k-1441348895815766016",
+          "fecha_utc": "2025-11-21T08:49:39.636000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441349834945728522"
+        },
+        {
+          "mensaje_id": "1441350985355100341",
+          "escena": "k-1441348895815766016",
+          "fecha_utc": "2025-11-21T08:54:13.915000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441350985355100341"
+        },
+        {
+          "mensaje_id": "1441352523536404491",
+          "escena": "k-1441348895815766016",
+          "fecha_utc": "2025-11-21T09:00:20.646000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441352523536404491"
+        },
+        {
+          "mensaje_id": "1441437433387552848",
+          "escena": "k-1441348895815766016",
+          "fecha_utc": "2025-11-21T14:37:44.732000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441437433387552848"
+        },
+        {
+          "mensaje_id": "1441523983441989736",
+          "escena": "k-1441348895815766016",
+          "fecha_utc": "2025-11-21T20:21:39.873000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441523983441989736"
+        }
+      ]
+    },
+    {
+      "nombre": "Banzo y la pérdida ancestral",
+      "avance": "La culpa y las voces desembocan en un ataque contra Jelbreg durante el entrenamiento y la amputación de su propia mano para detenerse. Más tarde relata que una transformación demoníaca le arrebató la fuerza ancestral. Wukong lo guía hasta reconocer que la nueva figura tritón nace de su propio dolor y recuerdos, sin presencia ni ki de Kalista. Banzo termina más sereno y acompañado por la amistad del monje.",
+      "pruebas": [
+        "1401164227124789312",
+        "1401530296364695665",
+        "1442086615915954308",
+        "1442257139690377309",
+        "1442276136179470460",
+        "1442445457098932224"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1401164227124789312",
+          "escena": "k-1401127364594892820",
+          "fecha_utc": "2025-08-02T11:26:24.119000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1401164227124789312"
+        },
+        {
+          "mensaje_id": "1401530296364695665",
+          "escena": "k-1401498009807880274",
+          "fecha_utc": "2025-08-03T11:41:01.827000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1401530296364695665"
+        },
+        {
+          "mensaje_id": "1442086615915954308",
+          "escena": "k-1441940221380919296",
+          "fecha_utc": "2025-11-23T09:37:21.908000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442086615915954308"
+        },
+        {
+          "mensaje_id": "1442257139690377309",
+          "escena": "k-1441940221380919296",
+          "fecha_utc": "2025-11-23T20:54:57.944000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442257139690377309"
+        },
+        {
+          "mensaje_id": "1442276136179470460",
+          "escena": "k-1441940221380919296",
+          "fecha_utc": "2025-11-23T22:10:27.060000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442276136179470460"
+        },
+        {
+          "mensaje_id": "1442445457098932224",
+          "escena": "k-1441940221380919296",
+          "fecha_utc": "2025-11-24T09:23:16.313000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442445457098932224"
+        }
+      ]
+    },
+    {
+      "nombre": "El consejo de cinco cargos",
+      "avance": "La documentación de Kalista motiva la convocatoria de Guxi. La propuesta de cargos compartidos cambia tras la intervención de Thiary. La narración confirma el acuerdo: Koishi en Comercio, Yasuoka en Defensa, Fukami en Servicios, Thiary en Seguridad y una fuerza especial de Cazadores pendiente de portavoz. Kazuki y Guxi pactan inicialmente compartir la carga; ante el consejo Kazuki se presenta como portavoz con Guxi de apoyo.",
+      "pruebas": [
+        "1441909839642099832",
+        "1442908706789523486",
+        "1442911720426176636",
+        "1449371727501987881",
+        "1451585896531886210"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1441909839642099832",
+          "escena": "k-1441904341907804312",
+          "fecha_utc": "2025-11-22T21:54:55.160000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441909839642099832"
+        },
+        {
+          "mensaje_id": "1442908706789523486",
+          "escena": "k-1442832015207698555",
+          "fecha_utc": "2025-11-25T16:04:03.646000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442908706789523486"
+        },
+        {
+          "mensaje_id": "1442911720426176636",
+          "escena": "k-1442832015207698555",
+          "fecha_utc": "2025-11-25T16:16:02.153000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442911720426176636"
+        },
+        {
+          "mensaje_id": "1449371727501987881",
+          "escena": "k-1449353232747855934",
+          "fecha_utc": "2025-12-13T12:05:47.861000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1449371727501987881"
+        },
+        {
+          "mensaje_id": "1451585896531886210",
+          "escena": "k-1451349328173072538",
+          "fecha_utc": "2025-12-19T14:44:06.895000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1451585896531886210"
+        }
+      ]
+    },
+    {
+      "nombre": "Los Guardianes como puente con los yokais",
+      "avance": "Kazuki anuncia la organización sucesora de los Cazadores, con protección para humanos y yokais que no deseen seguir la guerra. Guxi aporta borradores de leyes y planes de transición. Los nobles aceptan la nueva organización y estudiarán las propuestas. Yuichi rechaza asumir nuevos sueldos con las cuentas en rojo, y Thiary ofrece financiación que los portavoces dejan para consultar al grupo.",
+      "pruebas": [
+        "1451350871421096068",
+        "1451577840637050950",
+        "1451590723383328920",
+        "1451592536110927974",
+        "1451596328307134585",
+        "1451601581744197642"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1451350871421096068",
+          "escena": "k-1451349328173072538",
+          "fecha_utc": "2025-12-18T23:10:12.542000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1451350871421096068"
+        },
+        {
+          "mensaje_id": "1451577840637050950",
+          "escena": "k-1451349328173072538",
+          "fecha_utc": "2025-12-19T14:12:06.220000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1451577840637050950"
+        },
+        {
+          "mensaje_id": "1451590723383328920",
+          "escena": "k-1451349328173072538",
+          "fecha_utc": "2025-12-19T15:03:17.706000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1451590723383328920"
+        },
+        {
+          "mensaje_id": "1451592536110927974",
+          "escena": "k-1451349328173072538",
+          "fecha_utc": "2025-12-19T15:10:29.894000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1451592536110927974"
+        },
+        {
+          "mensaje_id": "1451596328307134585",
+          "escena": "k-1451349328173072538",
+          "fecha_utc": "2025-12-19T15:25:34.024000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1451596328307134585"
+        },
+        {
+          "mensaje_id": "1451601581744197642",
+          "escena": "k-1451349328173072538",
+          "fecha_utc": "2025-12-19T15:46:26.541000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1451601581744197642"
+        }
+      ]
+    },
+    {
+      "nombre": "Ayuda y afectos de las pequeñas",
+      "avance": "Arwen cura, juega y acompaña a quienes sufren; Chani obtiene contrato real de Cazadora pese al collar previo de juego. Tras la catástrofe, las niñas ayudan y Guxi confía a Chani la convocatoria. Wukong les entrega juguetes hechos a mano. La suprema líder Shizzuka es una pretensión lúdica y su enfado por quedar fuera no acredita una jefatura institucional.",
+      "pruebas": [
+        "1411043303096582246",
+        "1415023691367976990",
+        "1415023891570491453",
+        "1441882053078421555",
+        "1441909839642099832",
+        "1444837766679756832",
+        "1446208493689245777"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1411043303096582246",
+          "escena": "k-1411035053164724406",
+          "fecha_utc": "2025-08-29T17:42:19.375000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1411043303096582246"
+        },
+        {
+          "mensaje_id": "1415023691367976990",
+          "escena": "k-1415011066915721299",
+          "fecha_utc": "2025-09-09T17:18:57.891000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1415023691367976990"
+        },
+        {
+          "mensaje_id": "1415023891570491453",
+          "escena": "k-1415011066915721299",
+          "fecha_utc": "2025-09-09T17:19:45.623000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1415023891570491453"
+        },
+        {
+          "mensaje_id": "1441882053078421555",
+          "escena": "k-1441872941250773073",
+          "fecha_utc": "2025-11-22T20:04:30.327000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441882053078421555"
+        },
+        {
+          "mensaje_id": "1441909839642099832",
+          "escena": "k-1441904341907804312",
+          "fecha_utc": "2025-11-22T21:54:55.160000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441909839642099832"
+        },
+        {
+          "mensaje_id": "1444837766679756832",
+          "escena": "k-1444837279527997590",
+          "fecha_utc": "2025-11-30T23:49:27.364000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1444837766679756832"
+        },
+        {
+          "mensaje_id": "1446208493689245777",
+          "escena": "k-1446170012598669333",
+          "fecha_utc": "2025-12-04T18:36:14.150000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1446208493689245777"
+        }
+      ]
+    },
+    {
+      "nombre": "Sindra y la posibilidad de retorno planar",
+      "avance": "La drow apresada declara que quería vengarse de Kalista por traerla desde su mundo. Kalista propone a la niña ganadora del torneo para abrir un portal, pero la deja encerrada. Su nombre queda confirmado; su posible autoría de las muertes de tritones sigue siendo sospecha en estas fuentes.",
+      "pruebas": [
+        "1407733551104917525",
+        "1428711837074985063",
+        "1428714065634656338",
+        "1428723481540825151",
+        "1428728033195593728"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1407733551104917525",
+          "escena": "k-1407724475599945729",
+          "fecha_utc": "2025-08-20T14:30:33.008000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1407733551104917525"
+        },
+        {
+          "mensaje_id": "1428711837074985063",
+          "escena": "k-1428711837074985063",
+          "fecha_utc": "2025-10-17T11:50:46.141000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1428711837074985063"
+        },
+        {
+          "mensaje_id": "1428714065634656338",
+          "escena": "k-1428711837074985063",
+          "fecha_utc": "2025-10-17T11:59:37.471000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1428714065634656338"
+        },
+        {
+          "mensaje_id": "1428723481540825151",
+          "escena": "k-1428711837074985063",
+          "fecha_utc": "2025-10-17T12:37:02.398000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1428723481540825151"
+        },
+        {
+          "mensaje_id": "1428728033195593728",
+          "escena": "k-1428711837074985063",
+          "fecha_utc": "2025-10-17T12:55:07.597000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1428728033195593728"
+        }
+      ]
+    }
+  ],
+  "pendientes": [
+    {
+      "pregunta": "¿Qué texto legal definitivo y qué derechos concretos se aprobarán para los yokais tras las correcciones de Yasuoka?",
+      "pruebas": [
+        "1451578873211912375",
+        "1451581555477581907",
+        "1451601581744197642"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1451578873211912375",
+          "escena": "k-1451349328173072538",
+          "fecha_utc": "2025-12-19T14:16:12.405000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1451578873211912375"
+        },
+        {
+          "mensaje_id": "1451581555477581907",
+          "escena": "k-1451349328173072538",
+          "fecha_utc": "2025-12-19T14:26:51.907000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1451581555477581907"
+        },
+        {
+          "mensaje_id": "1451601581744197642",
+          "escena": "k-1451349328173072538",
+          "fecha_utc": "2025-12-19T15:46:26.541000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1451601581744197642"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Aceptarán los Guardianes la financiación de Thiary y con qué contraprestaciones? El hilo termina antes de consultar al grupo.",
+      "pruebas": [
+        "1451592536110927974",
+        "1451594327158554724",
+        "1451596328307134585"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1451592536110927974",
+          "escena": "k-1451349328173072538",
+          "fecha_utc": "2025-12-19T15:10:29.894000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1451592536110927974"
+        },
+        {
+          "mensaje_id": "1451594327158554724",
+          "escena": "k-1451349328173072538",
+          "fecha_utc": "2025-12-19T15:17:36.913000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1451594327158554724"
+        },
+        {
+          "mensaje_id": "1451596328307134585",
+          "escena": "k-1451349328173072538",
+          "fecha_utc": "2025-12-19T15:25:34.024000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1451596328307134585"
+        }
+      ],
+      "cotejo_posterior": {
+        "estado": "parcial",
+        "respuesta": "En Sho, Guxi acepta verbalmente el mecenazgo de Thiary. Base Sho conserva después la carta que anuncia un adelanto y la entrega de una bolsa de monedas de oro para equipar al grupo.",
+        "pendiente": "La aceptación y el adelanto constan; no se fija el importe ni se completa aquí un contrato con todas las contraprestaciones.",
+        "pruebas": [
+          "1453845065935098016",
+          "1453850828141236357",
+          "1455590049922945126",
+          "1459090908359299150",
+          "1459097242861436980",
+          "1459108023925604385"
+        ],
+        "orden_temporal": "posterior",
+        "fuentes_rol": [
+          {
+            "mensaje_id": "1453845065935098016",
+            "escena": "k-1453825547581788297",
+            "fecha_utc": "2025-12-25T20:21:14.854000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1453845065935098016"
+          },
+          {
+            "mensaje_id": "1453850828141236357",
+            "escena": "k-1453825547581788297",
+            "fecha_utc": "2025-12-25T20:44:08.671000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1453850828141236357"
+          },
+          {
+            "mensaje_id": "1455590049922945126",
+            "escena": "k-1455583151702409246",
+            "fecha_utc": "2025-12-30T15:55:11.457000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1455590049922945126"
+          },
+          {
+            "mensaje_id": "1459090908359299150",
+            "escena": "k-1459086449063231498",
+            "fecha_utc": "2026-01-09T07:46:21.151000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1459090908359299150"
+          },
+          {
+            "mensaje_id": "1459097242861436980",
+            "escena": "k-1459086449063231498",
+            "fecha_utc": "2026-01-09T08:11:31.414000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1459097242861436980"
+          },
+          {
+            "mensaje_id": "1459108023925604385",
+            "escena": "k-1459086449063231498",
+            "fecha_utc": "2026-01-09T08:54:21.820000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1459108023925604385"
+          }
+        ]
+      }
+    },
+    {
+      "pregunta": "¿Cómo se estabilizarán las cuentas del Shogunato y se pagarán servicios de la fuerza de élite durante la guerra?",
+      "pruebas": [
+        "1451589420477055090",
+        "1451590723383328920"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1451589420477055090",
+          "escena": "k-1451349328173072538",
+          "fecha_utc": "2025-12-19T14:58:07.069000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1451589420477055090"
+        },
+        {
+          "mensaje_id": "1451590723383328920",
+          "escena": "k-1451349328173072538",
+          "fecha_utc": "2025-12-19T15:03:17.706000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1451590723383328920"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cómo se recuperará la protección de la cúpula y qué acuerdos se alcanzarán con los Guardianes de los templos?",
+      "pruebas": [
+        "1439276413034299392",
+        "1448377579294687424",
+        "1448385395711676518"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1439276413034299392",
+          "escena": "k-1439258792247296030",
+          "fecha_utc": "2025-11-15T15:30:37.330000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1439276413034299392"
+        },
+        {
+          "mensaje_id": "1448377579294687424",
+          "escena": "k-1448361566985785525",
+          "fecha_utc": "2025-12-10T18:15:24.458000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1448377579294687424"
+        },
+        {
+          "mensaje_id": "1448385395711676518",
+          "escena": "k-1448361566985785525",
+          "fecha_utc": "2025-12-10T18:46:28.037000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1448385395711676518"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Se retirarán las tropas tritones y qué respuesta dará el Rey Dragón? Las medidas de presión solo se discuten.",
+      "pruebas": [
+        "1444428142226968617",
+        "1444449681491890329",
+        "1444452067203879055"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1444428142226968617",
+          "escena": "k-1444006682911834142",
+          "fecha_utc": "2025-11-29T20:41:45.284000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1444428142226968617"
+        },
+        {
+          "mensaje_id": "1444449681491890329",
+          "escena": "k-1444006682911834142",
+          "fecha_utc": "2025-11-29T22:07:20.645000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1444449681491890329"
+        },
+        {
+          "mensaje_id": "1444452067203879055",
+          "escena": "k-1444006682911834142",
+          "fecha_utc": "2025-11-29T22:16:49.443000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1444452067203879055"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué hará Thiary con la información que Chani sale a comunicar sobre Banzo, Whell y la Perla?",
+      "pruebas": [
+        "1444455317596278866",
+        "1444456168004124692"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1444455317596278866",
+          "escena": "k-1444006682911834142",
+          "fecha_utc": "2025-11-29T22:29:44.397000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1444455317596278866"
+        },
+        {
+          "mensaje_id": "1444456168004124692",
+          "escena": "k-1444006682911834142",
+          "fecha_utc": "2025-11-29T22:33:07.150000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1444456168004124692"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Dónde está Jelbreg y podrá cumplirse la promesa de Banzo de buscarlo? No hay rescate en este hilo.",
+      "pruebas": [
+        "1441437433387552848",
+        "1442445457098932224"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1441437433387552848",
+          "escena": "k-1441348895815766016",
+          "fecha_utc": "2025-11-21T14:37:44.732000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441437433387552848"
+        },
+        {
+          "mensaje_id": "1442445457098932224",
+          "escena": "k-1441940221380919296",
+          "fecha_utc": "2025-11-24T09:23:16.313000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442445457098932224"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál es el resultado definitivo del tratamiento de Archi y de la destrucción anunciada de la filacteria?",
+      "pruebas": [
+        "1426620581566091436",
+        "1428019476342902967",
+        "1428374587464220743"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1426620581566091436",
+          "escena": "k-1426204378229899315",
+          "fecha_utc": "2025-10-11T17:20:51.974000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1426620581566091436"
+        },
+        {
+          "mensaje_id": "1428019476342902967",
+          "escena": "k-1427191496578433195",
+          "fecha_utc": "2025-10-15T13:59:34.479000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1428019476342902967"
+        },
+        {
+          "mensaje_id": "1428374587464220743",
+          "escena": "k-1427191496578433195",
+          "fecha_utc": "2025-10-16T13:30:39.568000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1428374587464220743"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Regresará Sindra a su plano y quién resolverá su situación en la celda?",
+      "pruebas": [
+        "1428723481540825151",
+        "1428728033195593728"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1428723481540825151",
+          "escena": "k-1428711837074985063",
+          "fecha_utc": "2025-10-17T12:37:02.398000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1428723481540825151"
+        },
+        {
+          "mensaje_id": "1428728033195593728",
+          "escena": "k-1428711837074985063",
+          "fecha_utc": "2025-10-17T12:55:07.597000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1428728033195593728"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué resultado dará el análisis de la muestra de Nox que Jelbreg entrega a Kazuki?",
+      "pruebas": [
+        "1409515726070349906",
+        "1409517480488992829"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1409515726070349906",
+          "escena": "k-1409512335315308604",
+          "fecha_utc": "2025-08-25T12:32:16.631000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1409515726070349906"
+        },
+        {
+          "mensaje_id": "1409517480488992829",
+          "escena": "k-1409512335315308604",
+          "fecha_utc": "2025-08-25T12:39:14.917000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1409517480488992829"
+        }
+      ],
+      "cotejo_posterior": {
+        "estado": "parcial",
+        "respuesta": "En Base Ukyio, Jan identifica raíz de Medianoche y esporas de setas Susurrantes. Lady Irisse propone polvo de hada élfica a partir del olor y pide pensar en la distribución.",
+        "pendiente": "Se mantienen separados los dos componentes identificados y la tercera propuesta. No se obtiene aquí un antídoto definitivo ni se desmantela la red.",
+        "pruebas": [
+          "1414886925239717898",
+          "1414917257724690563",
+          "1414928201083256895",
+          "1414934590585307146"
+        ],
+        "orden_temporal": "posterior",
+        "fuentes_rol": [
+          {
+            "mensaje_id": "1414886925239717898",
+            "escena": "k-1414884529839144991",
+            "fecha_utc": "2025-09-09T08:15:30.305000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1414886925239717898"
+          },
+          {
+            "mensaje_id": "1414917257724690563",
+            "escena": "k-1414884529839144991",
+            "fecha_utc": "2025-09-09T10:16:02.133000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1414917257724690563"
+          },
+          {
+            "mensaje_id": "1414928201083256895",
+            "escena": "k-1414884529839144991",
+            "fecha_utc": "2025-09-09T10:59:31.233000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1414928201083256895"
+          },
+          {
+            "mensaje_id": "1414934590585307146",
+            "escena": "k-1414884529839144991",
+            "fecha_utc": "2025-09-09T11:24:54.609000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1414934590585307146"
+          }
+        ]
+      }
+    },
+    {
+      "pregunta": "¿Qué acuerdo concreto vincula los cofres, sus sustituciones y las esferas fuera de la tesorería? Las escenas del hilo no muestran toda la cadena material.",
+      "pruebas": [
+        "1416089773541556284",
+        "1436744673774534698",
+        "1438875282726715404",
+        "1439310229991981107"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1416089773541556284",
+          "escena": "k-1415935620509077525",
+          "fecha_utc": "2025-09-12T15:55:11.688000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1416089773541556284"
+        },
+        {
+          "mensaje_id": "1436744673774534698",
+          "escena": "k-1436368123455344720",
+          "fecha_utc": "2025-11-08T15:50:23.653000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1436744673774534698"
+        },
+        {
+          "mensaje_id": "1438875282726715404",
+          "escena": "k-1438803594378743869",
+          "fecha_utc": "2025-11-14T12:56:40.412000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1438875282726715404"
+        },
+        {
+          "mensaje_id": "1439310229991981107",
+          "escena": "k-1439297781247381525",
+          "fecha_utc": "2025-11-15T17:44:59.921000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1439310229991981107"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cómo concluirá el distanciamiento entre Seraphina y Kurobane y sus propósitos de alejarse después de la guerra?",
+      "pruebas": [
+        "1441596194131542066",
+        "1441599161010094152"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1441596194131542066",
+          "escena": "k-1441573083361185873",
+          "fecha_utc": "2025-11-22T01:08:36.243000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441596194131542066"
+        },
+        {
+          "mensaje_id": "1441599161010094152",
+          "escena": "k-1441573083361185873",
+          "fecha_utc": "2025-11-22T01:20:23.602000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441599161010094152"
+        }
+      ]
+    }
+  ],
+  "relaciones": [
+    {
+      "personas": [
+        "Kalista",
+        "Jelbreg"
+      ],
+      "desarrollo": "Pareja que reconoce amor, se reconcilia tras conflictos de protección y autonomía, acepta públicamente el vínculo de consorte y construye un refugio y futuro compartidos.",
+      "pruebas": [
+        "1405568011288707142",
+        "1413539207531462677",
+        "1440650930528976936",
+        "1440664771862204456"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1405568011288707142",
+          "escena": "k-1405171574054588496",
+          "fecha_utc": "2025-08-14T15:05:28.082000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1405568011288707142"
+        },
+        {
+          "mensaje_id": "1413539207531462677",
+          "escena": "k-1413503820067246080",
+          "fecha_utc": "2025-09-05T15:00:09.364000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1413539207531462677"
+        },
+        {
+          "mensaje_id": "1440650930528976936",
+          "escena": "k-1440638642422022238",
+          "fecha_utc": "2025-11-19T10:32:27.838000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1440650930528976936"
+        },
+        {
+          "mensaje_id": "1440664771862204456",
+          "escena": "k-1440638642422022238",
+          "fecha_utc": "2025-11-19T11:27:27.869000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1440664771862204456"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Kalista",
+        "Banzo"
+      ],
+      "desarrollo": "La alianza de Banzo con Danifae y su pacto rompen la confianza de Kalista. Ella interpreta traición; Jelbreg intenta mediar sin que se narre una reparación completa.",
+      "pruebas": [
+        "1426862789561155645",
+        "1426864446722015374",
+        "1428704399408238652"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1426862789561155645",
+          "escena": "k-1426860457356038197",
+          "fecha_utc": "2025-10-12T09:23:18.860000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1426862789561155645"
+        },
+        {
+          "mensaje_id": "1426864446722015374",
+          "escena": "k-1426860457356038197",
+          "fecha_utc": "2025-10-12T09:29:53.958000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1426864446722015374"
+        },
+        {
+          "mensaje_id": "1428704399408238652",
+          "escena": "k-1428671561191391344",
+          "fecha_utc": "2025-10-17T11:21:12.863000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1428704399408238652"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Banzo",
+        "Wukong"
+      ],
+      "desarrollo": "Wukong percibe su dolor, guía una meditación y se ofrece como hermano tras las pérdidas. Banzo agradece y recupera paz.",
+      "pruebas": [
+        "1441879430006968361",
+        "1442276136179470460",
+        "1442445457098932224"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1441879430006968361",
+          "escena": "k-1441872941250773073",
+          "fecha_utc": "2025-11-22T19:54:04.938000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441879430006968361"
+        },
+        {
+          "mensaje_id": "1442276136179470460",
+          "escena": "k-1441940221380919296",
+          "fecha_utc": "2025-11-23T22:10:27.060000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442276136179470460"
+        },
+        {
+          "mensaje_id": "1442445457098932224",
+          "escena": "k-1441940221380919296",
+          "fecha_utc": "2025-11-24T09:23:16.313000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442445457098932224"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Banzo",
+        "Danifae",
+        "Yiccardaria"
+      ],
+      "desarrollo": "La negociación de libertad y venganza genera un vínculo cuya respuesta física se ve al apuñalamiento de Danifae. Banzo sale con ella tras la liberación.",
+      "pruebas": [
+        "1424809820560560191",
+        "1424812160864882719",
+        "1425850583595745380",
+        "1425855684226056192"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1424809820560560191",
+          "escena": "k-1424655984613392395",
+          "fecha_utc": "2025-10-06T17:25:32.908000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1424809820560560191"
+        },
+        {
+          "mensaje_id": "1424812160864882719",
+          "escena": "k-1424655984613392395",
+          "fecha_utc": "2025-10-06T17:34:50.880000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1424812160864882719"
+        },
+        {
+          "mensaje_id": "1425850583595745380",
+          "escena": "k-1425748645986308208",
+          "fecha_utc": "2025-10-09T14:21:10.152000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1425850583595745380"
+        },
+        {
+          "mensaje_id": "1425855684226056192",
+          "escena": "k-1425748645986308208",
+          "fecha_utc": "2025-10-09T14:41:26.237000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1425855684226056192"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Kalista",
+        "Whell"
+      ],
+      "desarrollo": "Kalista reconoce que el general fue su pareja. La cooperación militar se mezcla con fricción por su relación con Jelbreg y por quién manda a los tritones.",
+      "pruebas": [
+        "1407354354826084372",
+        "1407367876062744687",
+        "1413532125436842199"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1407354354826084372",
+          "escena": "k-1407231543377920043",
+          "fecha_utc": "2025-08-19T13:23:45.570000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1407354354826084372"
+        },
+        {
+          "mensaje_id": "1407367876062744687",
+          "escena": "k-1407231543377920043",
+          "fecha_utc": "2025-08-19T14:17:29.284000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1407367876062744687"
+        },
+        {
+          "mensaje_id": "1413532125436842199",
+          "escena": "k-1413503820067246080",
+          "fecha_utc": "2025-09-05T14:32:00.861000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1413532125436842199"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Arwen",
+        "Shirz",
+        "Archi"
+      ],
+      "desarrollo": "Shirz solicita a Arwen ayuda curativa pese a la hostilidad de la niña hacia el inventor. La convence mediante deber de compañera y hamburguesas; ella inicia el tratamiento.",
+      "pruebas": [
+        "1428033173803241482",
+        "1428037405587280104",
+        "1428040512144674887",
+        "1428374587464220743"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1428033173803241482",
+          "escena": "k-1427191496578433195",
+          "fecha_utc": "2025-10-15T14:54:00.208000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1428033173803241482"
+        },
+        {
+          "mensaje_id": "1428037405587280104",
+          "escena": "k-1427191496578433195",
+          "fecha_utc": "2025-10-15T15:10:49.144000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1428037405587280104"
+        },
+        {
+          "mensaje_id": "1428040512144674887",
+          "escena": "k-1427191496578433195",
+          "fecha_utc": "2025-10-15T15:23:09.805000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1428040512144674887"
+        },
+        {
+          "mensaje_id": "1428374587464220743",
+          "escena": "k-1427191496578433195",
+          "fecha_utc": "2025-10-16T13:30:39.568000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1428374587464220743"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Arwen",
+        "Chanecuxtli",
+        "Shizzuka"
+      ],
+      "desarrollo": "Amistad de juegos, cuidados y planes compartidos; el collar que Shizzuka regala a Chani precede al contrato formal con Kalista.",
+      "pruebas": [
+        "1411043303096582246",
+        "1415023691367976990",
+        "1416126361625428180",
+        "1441881617193762927"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1411043303096582246",
+          "escena": "k-1411035053164724406",
+          "fecha_utc": "2025-08-29T17:42:19.375000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1411043303096582246"
+        },
+        {
+          "mensaje_id": "1415023691367976990",
+          "escena": "k-1415011066915721299",
+          "fecha_utc": "2025-09-09T17:18:57.891000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1415023691367976990"
+        },
+        {
+          "mensaje_id": "1416126361625428180",
+          "escena": "k-1416115203485208806",
+          "fecha_utc": "2025-09-12T18:20:34.967000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1416126361625428180"
+        },
+        {
+          "mensaje_id": "1441881617193762927",
+          "escena": "k-1441872941250773073",
+          "fecha_utc": "2025-11-22T20:02:46.404000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441881617193762927"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Guxi",
+        "Kazuki"
+      ],
+      "desarrollo": "Acuerdan compartir la carga política y después Guxi sirve de apoyo al portavoz reconocido, ofreciéndose a formarlo en asuntos de la corte.",
+      "pruebas": [
+        "1449371727501987881",
+        "1451585896531886210",
+        "1451605792024301618"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1449371727501987881",
+          "escena": "k-1449353232747855934",
+          "fecha_utc": "2025-12-13T12:05:47.861000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1449371727501987881"
+        },
+        {
+          "mensaje_id": "1451585896531886210",
+          "escena": "k-1451349328173072538",
+          "fecha_utc": "2025-12-19T14:44:06.895000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1451585896531886210"
+        },
+        {
+          "mensaje_id": "1451605792024301618",
+          "escena": "k-1451349328173072538",
+          "fecha_utc": "2025-12-19T16:03:10.350000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1451605792024301618"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Seraphina",
+        "Kurobane"
+      ],
+      "desarrollo": "Colaboran entre los muertos, pero él busca distancia y ella reafirma afecto familiar y el juramento de marcharse de su vida cuando mejore la situación.",
+      "pruebas": [
+        "1441592350378823691",
+        "1441596194131542066",
+        "1441599161010094152"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1441592350378823691",
+          "escena": "k-1441573083361185873",
+          "fecha_utc": "2025-11-22T00:53:19.821000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441592350378823691"
+        },
+        {
+          "mensaje_id": "1441596194131542066",
+          "escena": "k-1441573083361185873",
+          "fecha_utc": "2025-11-22T01:08:36.243000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441596194131542066"
+        },
+        {
+          "mensaje_id": "1441599161010094152",
+          "escena": "k-1441573083361185873",
+          "fecha_utc": "2025-11-22T01:20:23.602000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441599161010094152"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Arwen",
+        "Erlang Shen"
+      ],
+      "desarrollo": "Arwen le propone amistad y diversión; después de su desconcierto comparten una travesura en forma de aves.",
+      "pruebas": [
+        "1443619350534684844",
+        "1443634585052123137",
+        "1443642338588098602"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1443619350534684844",
+          "escena": "k-1442950480773779506",
+          "fecha_utc": "2025-11-27T15:07:54.318000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1443619350534684844"
+        },
+        {
+          "mensaje_id": "1443634585052123137",
+          "escena": "k-1442950480773779506",
+          "fecha_utc": "2025-11-27T16:08:26.510000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1443634585052123137"
+        },
+        {
+          "mensaje_id": "1443642338588098602",
+          "escena": "k-1442950480773779506",
+          "fecha_utc": "2025-11-27T16:39:15.097000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1443642338588098602"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Seraphina",
+        "Kazuki"
+      ],
+      "desarrollo": "Ella pide apoyo frente a nuevas pérdidas y él se compromete a ayudar en la recuperación de la cúpula.",
+      "pruebas": [
+        "1448384891573112862",
+        "1448385395711676518",
+        "1448386192243556559"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1448384891573112862",
+          "escena": "k-1448361566985785525",
+          "fecha_utc": "2025-12-10T18:44:27.841000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1448384891573112862"
+        },
+        {
+          "mensaje_id": "1448385395711676518",
+          "escena": "k-1448361566985785525",
+          "fecha_utc": "2025-12-10T18:46:28.037000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1448385395711676518"
+        },
+        {
+          "mensaje_id": "1448386192243556559",
+          "escena": "k-1448361566985785525",
+          "fecha_utc": "2025-12-10T18:49:37.945000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1448386192243556559"
+        }
+      ]
+    }
+  ],
+  "precauciones_editoriales": [
+    "Pensamientos privados, signos drow y mensajes mágicos se distinguen según comunicación explícita. No atribuir a interlocutores lo que solo piensa un personaje.",
+    "La figura tritón de la meditación no es Kalista presente: 1442257139690377309 niega su presencia y ki. La interpretación afectuosa de Wukong no revoca esa descripción.",
+    "No asociar a toda araña con Yiccardaria: Arwen también se transforma, y la identidad requiere texto explícito.",
+    "Islyn/Ise y Koishi/Yuichi no se fusionan sin prueba. Variantes Fumaki/Fukami y Koichi/Koishi se conservan con sus contextos.",
+    "Sindra permanece sospechosa de los asesinatos por la interpretación de las marcas, sin confesión ni escena que lo pruebe en este hilo.",
+    "La documentación hallada tras la muerte de Kalista se convierte en un acuerdo concreto de cinco cargos; el reparto inicial compartido de Guxi no es el resultado final.",
+    "Guardianes de Kuroto como organización sucesora y Guardianes de los templos son referentes diferentes.",
+    "Las órdenes de castigar y matar al guardia que difundió rumores, la sedación de Danifae, el análisis de Nox y la destrucción de la filacteria no se convierten en hechos ejecutados por haberse propuesto.",
+    "Los dos mensajes idénticos de entrada de Jelbreg, 1439297781247381525 y 1439297811089854547, se conservan sin duplicar el acontecimiento.",
+    "Los originales, partes de lectura, audios y suplementos permanecen intactos. La ubicación respecto a capítulos debe usar los intervalos verificados por el coordinador, no las cabeceras provisionales de lectura.",
+    "1397310819187953736 pide reconocimiento tanto para Archi como para el doctor Viktor Frankenvolt; son nombres de colaboradores distintos, no un alias del gnomo."
+  ],
+  "estado_seguimiento": "al_cierre_del_hilo",
+  "nota_seguimiento": "Cada cuestión conserva el contexto de sus mensajes originales. Los cotejos enlazan las respuestas halladas en otras escenas; la ausencia de un cotejo no demuestra que siga abierta después de otros capítulos.",
+  "fecha_hasta_utc": "2025-12-19T16:11:38.431000+00:00"
+}

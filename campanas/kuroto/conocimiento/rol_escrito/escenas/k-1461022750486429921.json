@@ -1,0 +1,312 @@
+{
+  "id": "k-1461022750486429921",
+  "campana": "kuroto",
+  "unidad_revision": "k-1461022750486429921",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "La capa del ausente",
+  "resumen": "Kazuki ayuda a Chani a recoger una prenda de Kurobane para buscarlo.",
+  "relato": "Chani intenta equiparse para la próxima avanzada cubriéndose de metal, pero las placas le pesan tanto que apenas puede moverse. Kazuki, ya preparado con armas y ropa de coronel, le propone buscar un objeto con olor de Kurobane. La ayuda a entrar en su habitación y abrir el armario, donde ella señala una capa. El noble la recoge y se la entrega; la pequeña la abraza y expresa cuánto extraña a Tezca. Kazuki la lleva de vuelta a la sala y trata de tranquilizarla.\n\nChani duda de si debe buscarlo cuando quizá no quiera ser encontrado, una idea que atribuye a Thiary. El cambiaformas responde que sus deseos son asunto suyo, pero promete intentar convencerlo de regresar a casa. Ella se envuelve en la capa y llora suavemente. Él la abraza antes de continuar los preparativos. No se comienza una búsqueda efectiva ni se descubre el paradero del ninja.",
+  "participantes": [
+    "Chanecuxtli",
+    "Kazuki"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1461022750486429921",
+      "afirmacion": "Las placas improvisadas impiden a Chani moverse con soltura.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1461027686414684334",
+      "afirmacion": "Kazuki propone una prenda con el olor del ninja.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1461029909714698526",
+      "afirmacion": "El cambiaformas entrega la capa elegida por Chani.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1461032417002262662",
+      "afirmacion": "Chani expresa dudas sobre si Kurobane desea ser encontrado.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1461033487955005646",
+      "afirmacion": "Kazuki promete intentar hacerlo volver.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1461034365835411600",
+      "afirmacion": "Kazuki abraza a la pequeña y retoma los preparativos.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Las placas no constituyen una armadura validada ni una ventaja defensiva adquirida.",
+    "No se muestra que Thiary conozca el paradero del ninja; la frase recordada no demuestra que haya intervenido en su ausencia."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-01-14T15:42:48.206000+00:00",
+  "fin_utc": "2026-01-14T16:51:47.636000+00:00",
+  "fecha_local": "2026-01-14",
+  "intervalo": {
+    "anterior": 179,
+    "siguiente": 180,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1458905021985853695",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1461435221806284870",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 179,
+        "fecha": "2026-01-08",
+        "inicio_referencia_utc": "2026-01-08T19:27:25+00:00",
+        "fin_estimado_utc": "2026-01-08T21:59:18+00:00",
+        "duracion_video_segundos": 9113,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1458905021985853695"
+      },
+      {
+        "capitulo": 180,
+        "fecha": "2026-01-15",
+        "inicio_referencia_utc": "2026-01-15T19:01:30+00:00",
+        "fin_estimado_utc": "2026-01-15T22:02:29+00:00",
+        "duracion_video_segundos": 10859,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1461435221806284870"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1461022750486429921",
+      "fecha_utc": "2026-01-14T15:42:48.206000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n**Empezaba a rebuscar entre las cosas algo que me pudiera servir para protegerme, se veía que todos estaban alterados y yo quería ser de a-pollo**\n\nPío \n\n**Jamás se hubiesen imaginado un pollo táctico, cubierto de cosas de metal que ni siquiera le daban oportunidad de moverme**\n\nPÍO!! AHORA SI ESTOY PROTEGIDA PÍO!!\n\n**quería dar un paso pero ni eso podía, todo ese metal me pesaba**\n\nAhora qué hago?, pío...",
+      "mensaje_sha256": "e19fe38648d55ac8c15b1d022fdc13618d8d833b70b550e22b9b1f1e0dc94412",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461022750486429921",
+      "texto_sha256": "4cad694e19dbca8d2e84b17e6fa7be5610e8d24a90a4cbedb91bdbf5f9e5e0be",
+      "adjuntos": []
+    },
+    {
+      "id": "1461023549778039016",
+      "fecha_utc": "2026-01-14T15:45:58.772000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": null,
+      "texto": "Kazuki:\n\n**Se veria al noble feerico con su rapier en la guardia, su arco en la espalda, con la ropa de coronel, con todo lo necesario esparcido en la mesa, al escuchar a la pollo se gira**\n\nDeberias pillar algo de tu amigo, para buscarle, no crees?\n\n**Comentaba sonriente mientras se ponia de cuclillas**",
+      "mensaje_sha256": "160102c948a14310f2956e91a8734e2652d0ab35e8c07eca59bf21e9aa0d0a9e",
+      "tipo_discord": 19,
+      "referencia": "1461022750486429921",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461023549778039016",
+      "texto_sha256": "54b3e63f519568c2bc3b1c1d52134a2ad2c4f0f36b9d96f9f78f40d7a8159f5f",
+      "adjuntos": []
+    },
+    {
+      "id": "1461025384840823000",
+      "fecha_utc": "2026-01-14T15:53:16.285000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n**Saqué el pico de entre todo ese metal**\n\nPío?, es verdad Pío!!\n\n**Levanté como pude todas esas placas, haciendo ruidos de esfuerzo y con paso pequeño y lento llegué hasta la habitación de Kurobane**\n\nMe ayudas a abrir Xochipio?",
+      "mensaje_sha256": "2a78aa1a08a542e1aef472cf640b9c90f15b7396eb208dc4868e921af434756b",
+      "tipo_discord": 19,
+      "referencia": "1461023549778039016",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461025384840823000",
+      "texto_sha256": "b273a970de06563ea0d6de20461841ae95698cfb66e6b5b270e9c16bcca485bf",
+      "adjuntos": []
+    },
+    {
+      "id": "1461025671743668438",
+      "fecha_utc": "2026-01-14T15:54:24.688000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": null,
+      "texto": "Kazuki:\n\n**Asiente con la cabeza y le abre la puerta de la habitación**",
+      "mensaje_sha256": "a4dc46026bf535a3329c9c5b453bc8ef8555cc4d7541d7a121fdee5a5dd73143",
+      "tipo_discord": 19,
+      "referencia": "1461025384840823000",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461025671743668438",
+      "texto_sha256": "549b50a0d6273cd7eb766f72fb3147476c05845b2c93e3e522d44874a0753d3f",
+      "adjuntos": []
+    },
+    {
+      "id": "1461026995268882485",
+      "fecha_utc": "2026-01-14T15:59:40.241000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n**Levanté de nuevo las placas, caminando hasta la cama pero sin poder subirme**\n\nPío... Pío...\n\n**Me puse a buscar a los alrededores de la habitación para ver si encontraba algo que pudiese ser de ayuda**",
+      "mensaje_sha256": "0aec283193d9ca0f85a919a4ce2faa82d998ef15772f80037e757e3d970d4374",
+      "tipo_discord": 19,
+      "referencia": "1461025671743668438",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461026995268882485",
+      "texto_sha256": "df83d5ccbd4056ddb06dbfbaf0c0986d606e891d3f6e0fdca95fc2eadc84ea39",
+      "adjuntos": []
+    },
+    {
+      "id": "1461027686414684334",
+      "fecha_utc": "2026-01-14T16:02:25.023000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": null,
+      "texto": "**Encontrarías la habitación como el ninja la dejó**\n\nKazuki:\n\nDeberías coger algo que tenga su olor para buscarlo mejor, no crees, pequeña?\n\n**Comenta sonriente desde el arco de la puerta**",
+      "mensaje_sha256": "f7b993db2e4bfcc86100a27d2833a1e800ef421d177afb2b89dfa7845865011f",
+      "tipo_discord": 19,
+      "referencia": "1461026995268882485",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461027686414684334",
+      "texto_sha256": "d7b69ab8790cde023104403a221e661ec4196687c397a6f06df85d80b497bfd8",
+      "adjuntos": []
+    },
+    {
+      "id": "1461028482078216253",
+      "fecha_utc": "2026-01-14T16:05:34.724000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n**Aún con pasos pequeños, caminé hasta el closet de Kurobane**\n\nMe ayudas pío?, ahí debe de haber algo que ayude, pío",
+      "mensaje_sha256": "44769a3f0b849ab33e16c602365149a89a6e1c6153ab96b1c74c457a1836900a",
+      "tipo_discord": 19,
+      "referencia": "1461027686414684334",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461028482078216253",
+      "texto_sha256": "e986599a29c111646d9fb540098a70a899a8351af51b48c91f706adebca3f3d8",
+      "adjuntos": []
+    },
+    {
+      "id": "1461028927433871546",
+      "fecha_utc": "2026-01-14T16:07:20.905000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": null,
+      "texto": "Kazuki:\n\n**Se pone detrás de Chani y abriría la puerta del armario**",
+      "mensaje_sha256": "5bdb73aac3d7318243ad06e45a3d19636a5d34431e8ae9728838db28c7cb335d",
+      "tipo_discord": 19,
+      "referencia": "1461028482078216253",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461028927433871546",
+      "texto_sha256": "846e099b4927e304efa2f75e6cc2d0dfd6e3f3bdf43ff9fdc16220d94292019f",
+      "adjuntos": []
+    },
+    {
+      "id": "1461029357874188409",
+      "fecha_utc": "2026-01-14T16:09:03.530000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n**Saqué mi alita y señalé una de sus capas**\n\nEs esa, pío!!, la capa, pío!!",
+      "mensaje_sha256": "eb75cd75982fcc2511dba7f6e4aa6e2e87738de4be5d0b320139a6c8a8b03309",
+      "tipo_discord": 19,
+      "referencia": "1461028927433871546",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461029357874188409",
+      "texto_sha256": "be1f85ee7c35f3793bf8cb5505f0db9416c9e47a5a1aae99f8888019ab8595d8",
+      "adjuntos": []
+    },
+    {
+      "id": "1461029909714698526",
+      "fecha_utc": "2026-01-14T16:11:15.099000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": null,
+      "texto": "Kazuki:\n\n**Toma la capa, la pliega y se la entrega a Chani**\n\n*Espero que el chico siga vivo, porque si no la pequeña se pondrá muy mal*",
+      "mensaje_sha256": "e1107098842ba9a403e7d1d7651615b57361d7ccb1f6e98fc22f2e8a446c7f94",
+      "tipo_discord": 19,
+      "referencia": "1461029357874188409",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461029909714698526",
+      "texto_sha256": "d6fbd2dab8cbfc6f09cd92f147658208e97866f5493a869f1f69ff6a22b01bba",
+      "adjuntos": []
+    },
+    {
+      "id": "1461030896856600752",
+      "fecha_utc": "2026-01-14T16:15:10.452000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n**Con lo poco que podía estirar las alas, tomé la capa**\n\nTezca Pío...\n\n**Metí la capa adentro de las placas de metal para después abrazar la capa y soltar un pío de tristeza**\n\nTe extraño pío...",
+      "mensaje_sha256": "808814c11a6d1f24ba9480a70c478afedde48bce7d87c8f14f65cb350a7130f4",
+      "tipo_discord": 19,
+      "referencia": "1461029909714698526",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461030896856600752",
+      "texto_sha256": "9c8a0c0185d55aee8befefbb393be4ad1f8cfbc5a71812f8c515278ea9108294",
+      "adjuntos": []
+    },
+    {
+      "id": "1461031865103290554",
+      "fecha_utc": "2026-01-14T16:19:01.300000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": null,
+      "texto": "Kazuki:\n\n**Toma poco a poco a Chani, salimos de la habitación, cerrando la puerta, finalmente coloco a Chani encima de la mesa**\n\nSeguro que él también te extraña, Chani.\n\n**Dice serio pero con una sonrisa apacible mientras le acaricia el pico**",
+      "mensaje_sha256": "468a89ad5fce2bff3406bf4502ed97098b0dc749cf1a164a324e8d5395a38733",
+      "tipo_discord": 19,
+      "referencia": "1461030896856600752",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461031865103290554",
+      "texto_sha256": "88a32f79e20185cf34d539f7c009cd0a2fc7f5e51b34260223e7354dd2aa15f4",
+      "adjuntos": []
+    },
+    {
+      "id": "1461032417002262662",
+      "fecha_utc": "2026-01-14T16:21:12.883000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\nHay algo que pueda hacer pío?, no quiero buscarlo y que el no quiera ser encontrado, pío, como me dijo Thiary, pío",
+      "mensaje_sha256": "110d7b9004bce3c5c9d2650ad600a8819fb7b2fea0c641fd17c6df6ab18db0f1",
+      "tipo_discord": 19,
+      "referencia": "1461031865103290554",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461032417002262662",
+      "texto_sha256": "4d83c471a25268a91a8f16a57c03e06ae63c605185c33c7eba5873727cca834f",
+      "adjuntos": []
+    },
+    {
+      "id": "1461033487955005646",
+      "fecha_utc": "2026-01-14T16:25:28.218000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": null,
+      "texto": "Kazuki:\n\nNo siempre se tiene que hacer algo para buscar el querer de alguien, pequeña. Si él quiere ser buscado o no es cosa suya. Pero...\n\n**Dice serio mientras mira a los ojos a Chani**\n\nPero le haremos entrar en razón para que vuelva a casa, te parece bien?\n\n**Le regala una sonrisa sincera**",
+      "mensaje_sha256": "ef69b0d1525ecdef697d0a5e9cfb5d28bd366e014b368333cdac5cbb2541e658",
+      "tipo_discord": 19,
+      "referencia": "1461032417002262662",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461033487955005646",
+      "texto_sha256": "724607ec512bf7764f3b422c38cf07a46eaccc6f36d79db3532298ab30222e63",
+      "adjuntos": []
+    },
+    {
+      "id": "1461034049350013032",
+      "fecha_utc": "2026-01-14T16:27:42.065000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n\n**Me puse la capa y mientras me envolvían en ella no dejaba de llorar, eran pequeños Píos y sollozos suaves**\n\nSi Xochipio...",
+      "mensaje_sha256": "10372ae09672775ec89249617ceaa3f0ae79c1f6fad57f1e947e1c3743104e64",
+      "tipo_discord": 19,
+      "referencia": "1461033487955005646",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461034049350013032",
+      "texto_sha256": "5514caf9fdfb0a89c3b255bc9a50044506bb2d087e9cc2f2162e34414b4a351a",
+      "adjuntos": []
+    },
+    {
+      "id": "1461034365835411600",
+      "fecha_utc": "2026-01-14T16:28:57.521000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": null,
+      "texto": "Kazuki:\n\n**Le da un pequeño abrazo antes de seguir preparando los preparativos de la última avanzada**",
+      "mensaje_sha256": "22aa1adf23117982044b818ae6255788ae72170f0b330fd5c172c0010159dab1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461034365835411600",
+      "texto_sha256": "38697e85ca8b85703bbd6ba8938949b5d7cee28d66287b514460db086dcd729d",
+      "adjuntos": []
+    },
+    {
+      "id": "1461040112514105505",
+      "fecha_utc": "2026-01-14T16:51:47.636000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "9e69a9ba2d70a71bd51f6903b14bc92a150e9b25aa984ea6c769140f919118ed",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461040112514105505",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

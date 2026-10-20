@@ -17,6 +17,7 @@ LABELS = [
     'Arghast / Xoltacan', 'Abrir las crónicas', 'Seguir los misterios',
     'Leer el relato', 'Elegir campaña', 'Explorar los capítulos',
     'Restablecer', 'Anterior', 'Siguiente', 'Abrir episodio',
+    'Ver en YouTube', 'Fuentes de las fechas',
     'Abrir el episodio', 'Copiar referencia', 'Referencia copiada',
     'Volver a intentar', 'Mostrar más segmentos', 'Ir al inicio',
     'Relato de la sesión', 'Preguntas de la sesión', 'Transcripción',
@@ -39,6 +40,13 @@ LABELS = [
     'Añadir selección',
     'Quitar etapa',
     'Deshacer eliminación',
+    'Rol escrito', 'Rol antes del capítulo', 'Rol después del capítulo',
+    'Rol posterior al catálogo', 'Rol antes del primer capítulo',
+    'Interacción original', 'Evidencias del rol escrito', 'Buscar en el rol escrito',
+    'Nota de voz',
+    'Leer historia', 'Capítulos', 'Escenas', 'Página', 'Fuentes y contexto',
+    'Antes del capítulo', 'Después del capítulo',
+    'Saltar a', 'Índice de la historia', 'Buscar en la historia',
 ]
 
 

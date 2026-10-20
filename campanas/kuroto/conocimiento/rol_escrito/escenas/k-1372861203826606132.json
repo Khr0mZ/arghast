@@ -1,0 +1,389 @@
+{
+  "id": "k-1372861203826606132",
+  "campana": "kuroto",
+  "unidad_revision": "k-1372861203826606132",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Una celebración para el compañero resucitado",
+  "resumen": "Shirz regresa, cura a Jhin y se pone al día con sus amigos.",
+  "relato": "Un torbellino de cuervos estalla en plumas en la sala y deja aparecer a una figura con armadura negra, cadenas y una espada de sangre: es Shirz. Ikaari y Jhin se sorprenden al reconocer al compañero que creían muerto. Archi se oculta con invisibilidad y observa desde el cuarto de Banzo. Shirz lamenta el deplorable estado de la base y, al ver a Jhin vendado, posa una mano sobre él y sana por completo sus heridas. Recuerda poco, se siente vacío y cree que su magia ha menguado. Con Visión Verdadera detecta al gnomo y lo paraliza por sospechar que es un espía; Jhin lo defiende y Ralph reproduce su presentación, tras lo cual Shirz lo libera y se disculpa. Ikaari cuenta que Hayate negoció con la dama cuervo después de la muerte del elfo. Jhin informa de que Ōtakemaru sigue sin ser derrotado y de que Guxi está desbordado por los asuntos de la guerra y el fallecimiento del shogun. Entre preparativos de limpieza, comparten sake y cerveza enana del norte para celebrar el regreso. La narración confirma la resurrección, pero deja sin aclarar el vacío que perciben en el retornado.",
+  "participantes": [
+    "Shirz",
+    "Ikaari",
+    "Jhin",
+    "Archi",
+    "Ralph"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1372861203826606132",
+      "afirmacion": "Una figura armada aparece en un torbellino de cuervos.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1372871230176366683",
+      "afirmacion": "Ikaari reconoce a Shirz y pregunta por su regreso tras la muerte.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1372874601138360320",
+      "afirmacion": "Shirz cura completamente a Jhin, describe su vacío y magia menguada, y detecta y paraliza a Archi.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1372875585294045344",
+      "afirmacion": "Ikaari cuenta que Hayate negoció con la dama cuervo tras la muerte de Shirz.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1372876870864863312",
+      "afirmacion": "Shirz libera al gnomo y se disculpa por tomarlo por un espía.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1372881866788704267",
+      "afirmacion": "Jhin informa de la sobrecarga de Guxi y ofrece cerveza del norte para celebrar.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1372883943916965918",
+      "afirmacion": "La narración confirma al compañero resucitado y la sensación de vacío que deja su regreso.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Setenta y seis mensajes completos, con dos fases de un mismo encuentro y cobertura exacta de fuentes.",
+    "El retorno de Shirz y la curación total de Jhin están representados y respaldados por la narración; no se reconstruye el proceso de resurrección. La negociación de Hayate se conoce por el testimonio de Ikaari.",
+    "La sensación de vacío y la disminución de magia quedan como asuntos abiertos, sin afirmar pérdida de alma, control ajeno u otro diagnóstico.",
+    "Archi queda liberado de la parálisis; no se le atribuye espionaje real.",
+    "La invitación a comer pizza es un premio prometido, no una visita ya realizada. La limpieza mejora la sala y no equivale a reconstruir todos los daños estructurales.",
+    "La referencia jocosa a Stitch y las comparaciones contemporáneas del narrador no se usan para incorporar un personaje o una criatura nueva al mundo."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-16T09:00:17.520000+00:00",
+  "fin_utc": "2025-05-16T10:30:39.180000+00:00",
+  "fecha_local": "2025-05-16",
+  "intervalo": {
+    "anterior": 115,
+    "siguiente": 116,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1372641487094808689",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1374091924474040400",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 115,
+        "fecha": "2025-05-15",
+        "inicio_referencia_utc": "2025-05-15T18:26:58+00:00",
+        "fin_estimado_utc": "2025-05-15T21:47:48+00:00",
+        "duracion_video_segundos": 12050,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1372641487094808689"
+      },
+      {
+        "capitulo": 116,
+        "fecha": "2025-05-19",
+        "inicio_referencia_utc": "2025-05-19T18:30:27+00:00",
+        "fin_estimado_utc": "2025-05-19T21:06:27+00:00",
+        "duracion_video_segundos": 9360,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1374091924474040400"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida."
+  },
+  "fuentes": [
+    {
+      "id": "1372861203826606132",
+      "fecha_utc": "2025-05-16T09:00:17.520000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": null,
+      "texto": "**Una horda de cuervos aparece en mitad del salón de los Cazadores. Forman un torbellino de aves que estallan en un millar de plumas negras que desaparecen mágicamente. Una figura humanoide vestida con una armadura negra con pinchos y cadenas aparece portando una extraña espada de sangre.**",
+      "mensaje_sha256": "198b7027efba26b4c5bc28dd561210ad4c6db46fa4d38ce229d86e983f08c359",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372861203826606132",
+      "texto_sha256": "66470a727cfe1bc325a3014817cd04106aa46dc4ee46945675c6dc03a8ac37ee",
+      "adjuntos": []
+    },
+    {
+      "id": "1372867601071476747",
+      "fecha_utc": "2025-05-16T09:25:42.742000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": "2025-05-16T09:25:57.449000+00:00",
+      "texto": "Ikaari: **Entra por la puerta de la base con algunos trastos, llamándole la atención el revoloteo. Al ver la silueta apareciendo de la nada, se pondrá en guardia**\nQuién anda ahí!?\n*Ésta armadura... ésta aura...no será...*",
+      "mensaje_sha256": "555541764804100c34bd9ea7f2c59d0951a47032dd40f28874db3192cfcbf879",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372867601071476747",
+      "texto_sha256": "c4ea622749980fdd01405970bf523cd02e9e670ae7ccfa14e014aea3ab59a63f",
+      "adjuntos": []
+    },
+    {
+      "id": "1372868272365502534",
+      "fecha_utc": "2025-05-16T09:28:22.791000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": null,
+      "texto": "Archi : **desde la habitacion de Banzo ,escuchando el revoloteo de cuervos y luego la llegada de ikari , le da una combinación de botones de su guante y se torna invisible, se queda en silencio escuchando **",
+      "mensaje_sha256": "cec8be4603424a33d605db6df7f04162ce8f4ec4a7b7236ad029e1d2b457521f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372868272365502534",
+      "texto_sha256": "f992e650683ddc4a845619228c96fff4c4195ed7a3c79b569a0b9a1b09c60bcc",
+      "adjuntos": []
+    },
+    {
+      "id": "1372869173767704617",
+      "fecha_utc": "2025-05-16T09:31:57.702000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": null,
+      "texto": "Jhin: **sale de su habitacion cubierto de vendas por el torso** hola ikari cuanto tiempo",
+      "mensaje_sha256": "9e6307ab8135af13ca8898f41bb9d4abf7d2522c8fda078dc0ca5354f3c7e59f",
+      "tipo_discord": 19,
+      "referencia": "1372867601071476747",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372869173767704617",
+      "texto_sha256": "40316a4eb0be17567c7fcfb9d2ec62a30e24196af12da94af39b40f708b90776",
+      "adjuntos": []
+    },
+    {
+      "id": "1372870138914668604",
+      "fecha_utc": "2025-05-16T09:35:47.811000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": null,
+      "texto": "**La figura mira a su alrededor, prestando atencion a todos los detalles del salón de los Cazadores. Su mirada es fría y calculadora. Mira esas puertas rotas... ese rastro de tripas de pescado del suelo... golpes de armas en las paredes como si alguien las usara para entrenar... ese olor ácido como un piso de estudiantes... Escucha la voz del tanuki y el humano** Madre de dios... como esta esto... ¿se puede saber que habéis estado haciendo? Es horrible, huele fatal y es muy deprimente... podríais abrir las ventanas para que refresque...",
+      "mensaje_sha256": "4463b09c5751fdf6e3336fa249f5ba378d4e48041d555fb929e72a4839f2ac78",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372870138914668604",
+      "texto_sha256": "e2f64c18e971bb56822ed2a05ff9d88e87c80966758fe77a853ac684da9b17d2",
+      "adjuntos": []
+    },
+    {
+      "id": "1372870456947773472",
+      "fecha_utc": "2025-05-16T09:37:03.636000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": null,
+      "texto": "jhin: **con una cara de sorpresa inusual para el** shiirz? eres tu?",
+      "mensaje_sha256": "41ce4e2af8e580282d268e5ce9ce43c83a5dc58a70bfed65404f20ed4eca9538",
+      "tipo_discord": 19,
+      "referencia": "1372870138914668604",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372870456947773472",
+      "texto_sha256": "359d81d5ef9f5200b83068c75238cd23c1b3e9232317fdb4ac631b505261eca1",
+      "adjuntos": []
+    },
+    {
+      "id": "1372871230176366683",
+      "fecha_utc": "2025-05-16T09:40:07.988000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": null,
+      "texto": "Ikaari: **Baja la guardia, quedándose estupefacto. Tragando saliva, articulará con dificultades**\nShirz, qué ha pasado? No estabas muerto..!?",
+      "mensaje_sha256": "007059515b4332510104151c311b977f32a91d34743dbb17a83943e90d5bc40a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372871230176366683",
+      "texto_sha256": "92068a385299311706aacf7ad210e37e716fa28b9b3e02651170bb4ce718e754",
+      "adjuntos": []
+    },
+    {
+      "id": "1372872611708670034",
+      "fecha_utc": "2025-05-16T09:45:37.371000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": "2025-05-16T09:46:42.260000+00:00",
+      "texto": "Archi : **sale en silencio desde el cuarto de Banzo y sigue observando la escena en silencio **\n*el tanuki.. Ikari era su nombre,  pero este otro... también el maese atormentado Jhin el enmascarado*",
+      "mensaje_sha256": "c136e1792c81e515fa000f37979e7261803f59d2b5364b1683b8d27706025bad",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372872611708670034",
+      "texto_sha256": "e14ea93140201a499a36c8e66293925b1cd8250dd475594a53d37415e74bc6c8",
+      "adjuntos": []
+    },
+    {
+      "id": "1372874601138360320",
+      "fecha_utc": "2025-05-16T09:53:31.688000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": null,
+      "texto": "Shirz: **Os mira a los dos** Joder Jhin... tienes una pinta horrible... **Se acerca a ti para colocarte una mano en el hombro que se ilumina de una luz blanca. Notas como todo tu cuerpo se recompone y tus heridas sanan completamente, quedándote totalmente recuperado.** Eso creo, Ikaari, no recuerdo mucho la verdad... aunque me siento un poco vacío por dentro... **Se gira hacia un lado de la habitación, por debajo del casco sus orejas de elfo se mueven escuchando algo y se toca el pecho recitando un hechizo que le ilumina los ojos en blanco** ...además noto que mi magia ha menguado un poco. Oye, ¿se puede saber que ha pasado por aquí, parece esto una base de despojos... ¿Quién esta al mando? **Mira en dirección a Archi viéndolo perfectamente con sus ojos de Visión Verdadera y con un movimiento de su mano lo paraliza en el sitio** Oye tu! ¿Quién eres? ¿Has hecho tu todo este destrozo?\n<@616683133374562304> <@694971576340447292> <@171702246952665098>",
+      "mensaje_sha256": "04181465bcdb3e4f8ca7892b4c212a8bca4aebd50cd4b2687746a537cbc49158",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372874601138360320",
+      "texto_sha256": "948206a3482ffee7cc85a66966e45c8b72ba24e94230f8a029eea7dc108a16d4",
+      "adjuntos": []
+    },
+    {
+      "id": "1372875344083816489",
+      "fecha_utc": "2025-05-16T09:56:28.820000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": null,
+      "texto": "jhin: estas vivo no me lo puedo creer ** te da un abrazo** gracias amigo , creo que tendremos que ponernos al dia **te sonrie** una cerveza **al ver a archi ser paralizado ** es archi es nuevo tiene buenas intenciones me salvo",
+      "mensaje_sha256": "b1154350ad1d0bc5b495cd26e8a588d68ebaada758ede46cbdc637f5bc9b9394",
+      "tipo_discord": 19,
+      "referencia": "1372874601138360320",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372875344083816489",
+      "texto_sha256": "e188b7fbb8a2d6b4e026fd2a154b40c7d92c723a24a6c9def61ddafe2967cb18",
+      "adjuntos": []
+    },
+    {
+      "id": "1372875585294045344",
+      "fecha_utc": "2025-05-16T09:57:26.329000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": null,
+      "texto": "Ikaari: Según oí, Hayate estuvo negociando con la dama cuervo...no acabó de superar que perdieras la vida por culpa de la ponzoña de los aarakocras",
+      "mensaje_sha256": "a3a95514428b6b260b25f20b49eb9a51c5acc5438680d4f03a5c0ba13624f31c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372875585294045344",
+      "texto_sha256": "76baa0e6fdfa392f59085f950acabe857417e0ad19e3801702fcc5ff3b665950",
+      "adjuntos": []
+    },
+    {
+      "id": "1372875846624481281",
+      "fecha_utc": "2025-05-16T09:58:28.635000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": null,
+      "texto": "Archi: **rompe la concentración de invisibilidad ** \n**quedando paralizado el pequeño humunculo llamado Ralph se acerca a Shirz y de el sale una voz aguda que dice ** \n\nOhhh, perdón caballerro,  no querria importunaros la transaccion de vocablos.  Soy Augustus ArchivaldFrédéricPatrickDanielO'sullivandeVonVergen. Un colaborador en las gestas de los cazadores .",
+      "mensaje_sha256": "0972c3ba07fb12f39c75fe57898e0674ed83cc8af31da30a56d02f981e88272b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372875846624481281",
+      "texto_sha256": "743f418131eb5f178a6d5ab6cfb9305c8269fd7c48a94040187d0f20de71d0eb",
+      "adjuntos": []
+    },
+    {
+      "id": "1372876870864863312",
+      "fecha_utc": "2025-05-16T10:02:32.833000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": null,
+      "texto": "Shirz: **Acepta el abrazo de Jhin de buen grado pero apartando un poco la cabeza** A mi también me alegra de verte Jhin pero, por favor, de verdad... hay que limpiar este sitio... **Mira a Ikaari** Es verdad... la sangre de Ootakemaru ese... ¿ya lo habéis resuelto? **Ve al robotito de Archi acercarse mientras reproduce esa grabación y rompe la concentración del paralizar** Perdona muchacho... es que te he visto ahí a hurtadillas y pensaba que serias un espía",
+      "mensaje_sha256": "e8fdec9a727f838a160f61269d162dfca863fa509db68294c5d0bfa619a93a97",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372876870864863312",
+      "texto_sha256": "d0cb4b6e3483494ca887a48d621b394652838b626d5698b87e076c9d41246177",
+      "adjuntos": []
+    },
+    {
+      "id": "1372877832425836594",
+      "fecha_utc": "2025-05-16T10:06:22.087000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": null,
+      "texto": "jhin: no hemos terminado con ootakemaru estamos cada vez mas cerca aunque la situacion es cada vez mas dficil hacemos todo lo posible **le da un pequeño golpe amistoso en el hombro** !ya lo habeis oido chicos <@694971576340447292> <@616683133374562304> archi ikari coged un trapo y la fregona y a limpiar este desastre , Creo que guxi dejo por algun sitio algun producto de limpieza",
+      "mensaje_sha256": "bfaf1c34af80f63d0354d5f75045fc359bb7cdf72b185611b6e2d70500279814",
+      "tipo_discord": 19,
+      "referencia": "1372876870864863312",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372877832425836594",
+      "texto_sha256": "4ebbe7f37eaa0f9ea35094e799cc9c4bab069d8b2ad161f4a6a1dd8121bb0e4a",
+      "adjuntos": []
+    },
+    {
+      "id": "1372878541221400617",
+      "fecha_utc": "2025-05-16T10:09:11.077000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": "2025-05-16T10:10:08.521000+00:00",
+      "texto": "Archi: *por el amor de los astros ,quien me manda ami venir , con mi taller en Cono Sur ,sisi Hayate no te preocupes yo ayudo a los cazadores ... , ya verra ese pajarraco, se las verá con ni bigote*\n\n**coge una fregona , le lanza reducir para que sea de su tamaño y empieza a laburar **",
+      "mensaje_sha256": "e3d01594641b410e9cd236580c213e3f6e445a905884a0a6349f8d67c65c401b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372878541221400617",
+      "texto_sha256": "92212ff3e877309aa774f351be51c63794bd56947ad82f817bf07df21ce2516d",
+      "adjuntos": []
+    },
+    {
+      "id": "1372879263723814942",
+      "fecha_utc": "2025-05-16T10:12:03.335000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": null,
+      "texto": "Ikaari: **Invocará una gran mano de sombras que empezará a limpiar la base. Se sentará en la mesa y pondrá al día a Shirz, enseñándole todos sus apuntes y sirviendo Sake**",
+      "mensaje_sha256": "ebb5851b2900d6cf688c995cfec625abdbc994dd0faa34f29f97d64b04c25606",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372879263723814942",
+      "texto_sha256": "e7c55ca29504dbf73ef9c152d9fcc93a0dc6fb631e1fb01fa8d67f6966a0b212",
+      "adjuntos": []
+    },
+    {
+      "id": "1372879372377133126",
+      "fecha_utc": "2025-05-16T10:12:29.240000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": null,
+      "texto": "Hay que celebrar tu regreso!",
+      "mensaje_sha256": "f84206c49c3601512925cb7fc8cf7e5a8a9f90c3b41dd31e98949c8a8ad2c928",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372879372377133126",
+      "texto_sha256": "530416688f61c394be45258dee983286549b97642242d01e894b2d4466a4c8bd",
+      "adjuntos": []
+    },
+    {
+      "id": "1372879637067075584",
+      "fecha_utc": "2025-05-16T10:13:32.347000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": "2025-05-16T10:13:58.646000+00:00",
+      "texto": "Jin, Arxi, uniros!",
+      "mensaje_sha256": "d202b9880faeea9a281d3c175de251bc48b27a4cd7c38b6d677ec200f7705de7",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372879637067075584",
+      "texto_sha256": "0d22604c05e18577610b9c2945923ee1526a65cc741284f69a723430f10ce408",
+      "adjuntos": []
+    },
+    {
+      "id": "1372880202623094845",
+      "fecha_utc": "2025-05-16T10:15:47.186000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": null,
+      "texto": "jhin: que poco os gusta trabajar por eso esta la base asi pero bueno tomarse una bebida para celebrar esta bien pero tengo algo especial para la ocasion **ves que se va a su habitacion a por algo**",
+      "mensaje_sha256": "2001b414e61521a8d6de28065b9874e88b2a9c922b99375a0deb032864f6a27c",
+      "tipo_discord": 19,
+      "referencia": "1372879637067075584",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372880202623094845",
+      "texto_sha256": "498b12e52c7201c51f28862e1875767417b8f57076139cffbaefc7ca7c6d9575",
+      "adjuntos": []
+    },
+    {
+      "id": "1372880888320495689",
+      "fecha_utc": "2025-05-16T10:18:30.669000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": null,
+      "texto": "Shirz: **Sonrie a Ikaari al ver ese sake que hace tanto tiempo que no prueba** Venga va, unas copas no me vendrán mal. Además con buena compañía **De repente la cara se le cambia a una mueca de algo horrible que ha olido** En serio... apesta... ¿Quien se ha encargado del papeleo y todas las cosas en mi ausencia? ¿La rumba esa? **Señala Larumba**",
+      "mensaje_sha256": "a4a99c547fffcf827cbd787850e8704561da13cd297a97e95e0780b39df775b1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372880888320495689",
+      "texto_sha256": "0022865d1b1e382d289be83c24300e7b2044375814d2c0005e9657764a8d05fa",
+      "adjuntos": []
+    },
+    {
+      "id": "1372881866788704267",
+      "fecha_utc": "2025-05-16T10:22:23.954000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": null,
+      "texto": "jhin: **sale de su habitacion con un gran barril ** esta es cerveza del norte hecha por enanos y es seguramente la mejor cerveza que vais a probar en toda vuestra vida le pega mil patadas al sake la pone delante de los tres con varias jarras y sobre lo de los papeles se encarga guxi pero con la guerra la crisis y la muerte del shogun no da para mas el pobre , pero no nos preocupemos por eso todavia bebed por favor",
+      "mensaje_sha256": "7ea9efe2dc3094d891a4c667f71c421506072c1b9e206242c97adf68489b4721",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372881866788704267",
+      "texto_sha256": "8b60cd5341876ee7f1b4aade31d158ebb09addbb1cb004cb81679b25702bb745",
+      "adjuntos": []
+    },
+    {
+      "id": "1372883943916965918",
+      "fecha_utc": "2025-05-16T10:30:39.180000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": "2025-05-16T11:05:20.893000+00:00",
+      "texto": "**Los cuatro os sentáis en la mesa de la sala de los cazadores disfrutando de esa cerveza y de ese sake de los tanukis mientras compartís todas las novedades que han surgido mientras vuestro resucitado amigo ha estado bajo las alas de una diosa cuervo. Por fin podéis volver a ver a vuestro compañero pero, hay algo diferente en el... no llegáis a comprender el que, pero notáis un vacío en sus palabras**",
+      "mensaje_sha256": "5a2cbe51935375063de0beb403b51e3f2b2cab4ceb263383434aafd4891f1c77",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1372883943916965918",
+      "texto_sha256": "248287a9711c93736f0f0d5afc1f6c89ace0e864b5d140a1a78430f24c24be1f",
+      "adjuntos": []
+    }
+  ]
+}

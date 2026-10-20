@@ -1,0 +1,299 @@
+{
+  "id": "x-1525804526529937569",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1525484008106889297",
+  "hilo_id": "1524091803647741996",
+  "hilo_nombre": "Jungla - En alguna parte de Xoltacán",
+  "titulo": "Una barca para despedir a Nox y Bonny",
+  "resumen": "Ione retoma el mando y envía al mar trenzas y tributos entre llamas.",
+  "relato": "Al contemplar el esfuerzo de sus compañeros y la moneda de Bonny, Ione comprende que debe seguir adelante con ellos. Recuerda a Nox como compañero de años, con disputas y reconciliaciones, y ata su bandera al bate Diálogo. Ordena descansar y despedir a los muertos antes de entrar en la jungla.\n\nPide a Poncelot el paquete atribuido al sabio Mirlín y reconoce las trenzas de Nox. El gnomo no entiende el vínculo y ella lo atribuye a los engaños de su amigo. Ilikar prepara una barca con lirios, flores, conchas, coral y faroles. Durante el trabajo piensa también en el padre y la tribu que dejó atrás.\n\nLa capitana coloca las trenzas y vierte cerveza por Nox. Poncelot añade un madero con el nombre de Happy Bonny en su lengua y un retazo de armadura para honrar su sacrificio. Ilikar propone la despedida norteña con fuego y entrega ron. Ione deja prender la barca y la empuja al mar despidiéndose de ambos. No lleva cadáveres: el rito utiliza recuerdos y ofrendas.",
+  "participantes": [
+    "Ione",
+    "Sir Poncelot",
+    "Ilikar",
+    "Tripulación del Zampaolas"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1525808198982828174",
+      "afirmacion": "Ione se presenta ante la tripulación y retoma las decisiones de partida.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1525926597755015300",
+      "afirmacion": "Coloca las trenzas de Nox y vierte cerveza como ofrenda.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1525962653703344360",
+      "afirmacion": "Poncelot ofrece un tributo tallado para Bonny.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1525963392400232681",
+      "afirmacion": "La barca en llamas parte al mar como despedida de ambos.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Leídas las cuatro partes completas y vistas las imágenes de Citlali rejuvenecida y SúperZippo.",
+    "La barca contiene trenzas y tributos; no se recupera ni se entierra el cadáver de Nox.",
+    "Mirlín se vincula con Nox por las trenzas reconocidas y la explicación de sus engaños, sin desplegar una biografía nueva.",
+    "Citlali se llama madre y describe un rescate y adopción, sin afirmar vínculo biológico. Amaru es el nombre que le dio; Molly usa Jim para el mismo hombre en la pregunta posterior.",
+    "El mecanismo de sangre y llave es explicación de Citlali. Ya se han narrado heridas y sangrado: no inventar un umbral o clase de sangre que concilie la formulación literal.",
+    "La zona de la verdad se conjura, pero no se narra aceptación o efecto individual; no eleva automáticamente todo testimonio a hecho probado.",
+    "La Batida Salvaje es teoría de Poncelot basada en sus libros; Titánia es su clasificación errónea de Citlali.",
+    "La acusación de abandono y la culpa de los supervivientes no demuestran responsabilidad causal en la muerte.",
+    "Los gruñidos de Luna en forma de osa no son comprendidos como palabras por el grupo.",
+    "La silueta y el sonar son una coda del narrador, sin conocimiento de los viajeros ni identificación del vehículo."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-07-12T10:02:27.202000+00:00",
+  "fin_utc": "2026-07-12T20:33:43.777000+00:00",
+  "fecha_local": "2026-07-12",
+  "intervalo": {
+    "anterior": 43,
+    "siguiente": 44,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1525209204300841101",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527010759236653109",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 43,
+        "fecha": "2026-07-10",
+        "inicio_referencia_utc": "2026-07-10T18:35:33+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1525209204300841101"
+      },
+      {
+        "capitulo": 44,
+        "fecha": "2026-07-15",
+        "inicio_referencia_utc": "2026-07-15T17:55:09+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527010759236653109"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1525804526529937569",
+      "fecha_utc": "2026-07-12T10:02:27.202000+00:00",
+      "fecha_local": "2026-07-12",
+      "editado_utc": null,
+      "texto": "Ione: **Alza la cabeza del timon con el alma rota...**\n \n**Mira hacia tierra viendo a sus tripulacion reunir los viveres del barco y de los alrededores... Ve sus ojos humedos y rotos como los suyos... Pero los ve tratando de arrimar el hombro.**\n\n**A los tres hermanos ayudandose entre si para completar una tarea como a los otros tres merluzos que hecho y que ahora colaboran como si nunca se hubieran ido...**\n\n**Y eso la hizo entender que las disputas no podian romper  los lazos de una tripulacion**\n\n **Ve a sus dos nuevos integrantes:**\n**Sir Poncelot contando sus batallitas con menos energia que de costumbre... Pero con las mismas palabras elocuentes que salen de su corazon aventurero.**\n\n**Y eso la hizo querer volver a vivir aventuras.**\n\n**A Ilikar, el mas nuevo de todos y el que actuaba con la familiaridad de quien lleva años a nuestro lado... Porque su tamaño solo empequeñece en comparacion a su corazon.**\n\n**Y eso la dio la valentia para querer volver a embarcarse... Por los nuevos que las olas traeran.**\n\n**Un brillo dorado hizo que mirara hacia el suelo y vio aquella moneda que Bonny la habia dado... Aun recordaba sus ragaños y el respeto que imponia a otros, pero tambien la libertad que daba en la vida de quienes estaban bajo su mando...**\n**Agarro la moneda del suelo y la apreto en su mano.**\n\n**Y ahi entendio como debia ser un capitan. Insuflar la libertad del oceano pero dirigiendola como un barco para llegar a buen puerto.**\n\n**Miro hacia el mar que tantas veces habia navegado... Al principio en una jaula, despues como una esclava... Y por ultimo en libertad... En libertad con Nox...**\n\n**Su corazon se oprimio... Recordo sus aventuras y sus desventuras con el. Los lios en los que se metian, por las mentiras de nox, por las peleas de si misma, por las mujeres que a veces compartian, por las monedas que muchas veces perdian... Por la bestia que a veces le heria sin que ella pudiera controlarla.**",
+      "mensaje_sha256": "a9bd101c3891544f8c86dc403ee88ba374e92a0d6079d4f2ae5b8140b6767a0f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525804526529937569",
+      "texto_sha256": "3e90793443c5435f1f9aea6b5fa55e2d1a5e0d78c5b0ca57106973fa25e28ee0",
+      "adjuntos": []
+    },
+    {
+      "id": "1525808198982828174",
+      "fecha_utc": "2026-07-12T10:17:02.783000+00:00",
+      "fecha_local": "2026-07-12",
+      "editado_utc": null,
+      "texto": "**Sus años juntos fueron una constante de meterse en problemas, de discutir, pelear como hermanos, reconciliarse y solucionarlos. Y el maldito siempre lo hacia con una sonrisa en la cara... No entendia el porque lo hacia él... Pero ella comenzo a imitarla aun sin entender... Hasta ahora.**\n**Nox era un problema con patas pero siempre acababa resolviendo la situacion... Muchas por conveniencia... Pero las mas importantes siempre eran por motivos ajenos a el... Y siempre con esa sonrisa...**\n\n**Y ahi entendio lo que le faltaba... Que si se equivocara que se levantara y pelease por solucionar las cosas. Que habra muchas tormentas pero que siempre hay que salir hacia delante.**\n\n**Al fin se movio, camino hacia el palo mayor y lo escalo. Tomo su bandera y la ato a \"Dialogo\". Muchas voluntades residian ahora en sus hombros y ya tocaba responderlas como siempre lo habia hecho: de frente.**\n\n**Bajo por uno de los cabos dejandose caer frente a su tripulacion en tierra y secandose las lagrimas al fin con el brazo dijo:** \n<@214405113677217793> <@210947008716996609> <@220602485977382912> \nComed, descansar, reponeros y despedir a quienes ya no estan... Pronto partiremos a la Jungla",
+      "mensaje_sha256": "8422d3ec3bb797d0bdfb055c2c24d9ce37b31ac558ac1a36ff5f3367b5baaba2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525808198982828174",
+      "texto_sha256": "88b0817c2a389682caeb2ff55f1982ef394e7d7bc6d5d07d392f77b58f0575e1",
+      "adjuntos": []
+    },
+    {
+      "id": "1525808509621637283",
+      "fecha_utc": "2026-07-12T10:18:16.845000+00:00",
+      "fecha_local": "2026-07-12",
+      "editado_utc": null,
+      "texto": "**Te mira <@220602485977382912>** Tienes el paquete que le diste a Bonny aun?",
+      "mensaje_sha256": "dc0c8bd322f0af7f79528ed6abb455b1183a4b815601a48c8eb5dc63b72faba2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525808509621637283",
+      "texto_sha256": "337e322ad65b27b7a6e3eb9269e848ad36c8e7fa5294de2513ec3114fc11bf65",
+      "adjuntos": []
+    },
+    {
+      "id": "1525829198806257805",
+      "fecha_utc": "2026-07-12T11:40:29.531000+00:00",
+      "fecha_local": "2026-07-12",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**El gnomo estaba explicándole alguna de sus aventuras a algunos integrantes de la tripulación. Pero lo hacía como sin ganas, taciturno y con tono forzado. Todo mientras con un palito golpeaba los troncos de la hoguera.\n\nAl ver aparecer a Ione dejó de hablar, soltó el palo y acudió hacia donde estaba ella, sin poder seguir disimulando su preocupación**\n\n- mi señora! Por fin aparece! Como se encuentra? Diantres... Que pregunta tan estupida!!! Necesita algo de este humilde caballero? Sabe de sobra que tiene mi hombro para dejar salir su tristeza si le urge!\n\n**Escucha la petición de l pirata y se queda un segundo pensando en tan extraña petición. Acto seguido busca en su mochila**\n\n- el regalo del sabio Mirlín para su majestad Bonny? Por supuesto... Pero.. para que lo necesita?\n\n**El gnomo le entrega el paquete de hoja de bananera a la capitana con cara de no entender mucho**",
+      "mensaje_sha256": "41884c3f778f9ad59d3c5befdc725955ebc67799e81cd9c9db728b5dcb59cfee",
+      "tipo_discord": 19,
+      "referencia": "1525808198982828174",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525829198806257805",
+      "texto_sha256": "c8d62f4121027514840cf87e80edb3355496951d766076a7c2e41dd920e13f3c",
+      "adjuntos": []
+    },
+    {
+      "id": "1525829704861352107",
+      "fecha_utc": "2026-07-12T11:42:30.184000+00:00",
+      "fecha_local": "2026-07-12",
+      "editado_utc": null,
+      "texto": "Ione: Para despedirme de mi viejo amigo...**Lo toma entre sus manos** <@210947008716996609> Ilikar puedes traerme una de las barcas de mi navio? Vamos a hacer una despedida a lo pirata",
+      "mensaje_sha256": "9d9e8d389e229d0d700fad0ddd5ac05387c59eb554df62ea167a2567a253d8c9",
+      "tipo_discord": 19,
+      "referencia": "1525829198806257805",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525829704861352107",
+      "texto_sha256": "18507956d2daeec8f7c81155e8219813e7b470bbbad647db41ccf188e3356537",
+      "adjuntos": []
+    },
+    {
+      "id": "1525830219334815744",
+      "fecha_utc": "2026-07-12T11:44:32.844000+00:00",
+      "fecha_local": "2026-07-12",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**La cara de no entender nada del caballero es extrema**\n\n*Lady Ione era amiga del gran Mirlín?*",
+      "mensaje_sha256": "97db632cd6c2ecc2a823550abd94feca9e50823e876ae5e17d65222e1dfa508e",
+      "tipo_discord": 19,
+      "referencia": "1525829704861352107",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525830219334815744",
+      "texto_sha256": "f8b789441c5876a5b3d8067dc752fa5ec7b42081c780767d7226c0d260f464e8",
+      "adjuntos": []
+    },
+    {
+      "id": "1525831284620922951",
+      "fecha_utc": "2026-07-12T11:48:46.828000+00:00",
+      "fecha_local": "2026-07-12",
+      "editado_utc": null,
+      "texto": "Ione: **Le mira de reojo** Recomoceria esos abalorios en medio del mar Poncelot... Son de Nox",
+      "mensaje_sha256": "800deec7f02f6691f44d6187972ccd183513c69dbe0839cef64206517746d3ed",
+      "tipo_discord": 19,
+      "referencia": "1525830219334815744",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525831284620922951",
+      "texto_sha256": "e38b9563937766fe56de4a0cb5fb5bae6410ef42831e8d9456ae36d953d325d7",
+      "adjuntos": []
+    },
+    {
+      "id": "1525836818258460712",
+      "fecha_utc": "2026-07-12T12:10:46.150000+00:00",
+      "fecha_local": "2026-07-12",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**El pequeño caballero se sobresalta sorprendido**\n\n- como? El joven Nox conocía al señor Mirlín? Por qué no me lo dijo antes?",
+      "mensaje_sha256": "33c205cada9b9df1715cb64e6f094c31ab9fd1ccd78d63f914fc7dc9b6a93dd1",
+      "tipo_discord": 19,
+      "referencia": "1525831284620922951",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525836818258460712",
+      "texto_sha256": "e89f3a024e8e1e0d44434d408882f6af4c7ea498ac7d208a3dd35a32d5cab98f",
+      "adjuntos": []
+    },
+    {
+      "id": "1525837492043907254",
+      "fecha_utc": "2026-07-12T12:13:26.793000+00:00",
+      "fecha_local": "2026-07-12",
+      "editado_utc": null,
+      "texto": "Ione: porque siempre engañaba a todos",
+      "mensaje_sha256": "fa8dfc210dc9a268b15d18ea11217d5eb5cbea2e20dd7aeabd539671ea063262",
+      "tipo_discord": 19,
+      "referencia": "1525836818258460712",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525837492043907254",
+      "texto_sha256": "bbc995b3e9559dc9d68dc68dcfa53c4cf9ddddf1bbbc02b35b5c7e5ded89dcdc",
+      "adjuntos": []
+    },
+    {
+      "id": "1525913147809206293",
+      "fecha_utc": "2026-07-12T17:14:04.533000+00:00",
+      "fecha_local": "2026-07-12",
+      "editado_utc": "2026-07-12T17:17:09.367000+00:00",
+      "texto": "**Ilikar mira a Ione a los ojos, intentando comprobar si ya se encuentra mejor y tras ver que ha vuelto el orgullo a esa mirada, suspira con tranquilidad y con una sonrisa afirma**\n\nIlikar: ¡Por supuesto capitana Ione! - **dice mientras gira su mirada al barco** - Ilikar va a tardar un poco, si no importa... Pero pronto traeré.\n\n**Ilikar no se dirige al barco, sino a la playa. Se aleja y se mete adentro de la selva, en busca de flores silvestres, buscando las que sean mas blancas y coloridas**\n\n*Las tribus del mar hacia asi, espero que esta sirva y no sea mala suerte* - **piensa mientras recoge unos lirios**\n\n**Al pasar un rato recogiendo un gran ramo, decide salir de la jungla... El goliath esta preparando la barca, como si fuese para un hermano... Nunca llegó a conocer a aquel muchacho, ni a tanta gente importante como conocia Sir Poncelot... Pero sentia el dolor de la tripulación como suyo...**\n\nQue bonitas conchas, no se si es tradicion pero para Ilikar será... - **dice al ver varias enormes conchas que las olas habian arrastrado**\n\n**Ilikar decide coger de estas conchas, tambien algunos corales sueltos y echarlos a su bolsa**\n\n**Mientras vuelve al barco, hay algo que no para de dar vueltas a su cabeza...** - *El dia que Ilikar no este... espero irme con gloria* - **se pausa en seco ante el inmenso y poderoso océano.**\n\n-Ilikar: Dime padre, ¿es bien lo que Ilikar ha echo?...\n\n Hermano... Espero que tribu esté a salvo... No tardaré... No tardaré en volver... Seguro que Ilikan crece mas alto y... - **una  lágrima cae por su rostro mientras sonríe** - seguro tu eres mas fuerte cuando vuelva...\n\n**Un inmenso silencio cubre la playa, acariciado por el sonido de las olas del mar**\n\n**Ilikar mira al suelo y... Se golpea la cara** - Claro todo esta bien, ¡tonto Ilikar tonto! ¡Capitana ha pedido ayuda, hora de trabajar!\n\n**Al llegar Ilikar a la pequeña barca, deja todo cerca para empezar a adornarla y equiparla**\n\n**Una gran cantidad de lirios blancos y flores azules cubre el suelo, a su lado una pequeña vela blanca, varias conchas blancas enormes, corales carmesí y unos farolillos acompañan**",
+      "mensaje_sha256": "2ca5fd2cdb0a8fdb27d021bdf7a1620195bc4d8d4097ac73fb5a71ddef8c327b",
+      "tipo_discord": 19,
+      "referencia": "1525829704861352107",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525913147809206293",
+      "texto_sha256": "72bb5b3d5c8ab46d6bb08e9418512e7619c966876d9e4d40d1ba7473cbce80e4",
+      "adjuntos": []
+    },
+    {
+      "id": "1525926597755015300",
+      "fecha_utc": "2026-07-12T18:07:31.250000+00:00",
+      "fecha_local": "2026-07-12",
+      "editado_utc": null,
+      "texto": "Ione: **Abre el paquete y saca las trenzas de Nox, dejandolas sobre la barca entre todas las decoraciones** Navega para siempre en libertad por los mares... Amigo... Que te lleven a aguas tranquilas **Sus ojos se humedecen... pero se niega a derramas una sola lagrima mas, en cambio sonrie** Engaña a unas cuantas fulanas alla donde estes anda... Agarrado seas y generoso no seas **Se dirige a uno de los barriles de cerveza y derrama un poco sobre la barca, para brindar por el** <@220602485977382912>",
+      "mensaje_sha256": "7bda2994d5e79e61e2f5ce7dd4879c496482530e6f9a669cd2057efb6c9ba72f",
+      "tipo_discord": 19,
+      "referencia": "1525913147809206293",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525926597755015300",
+      "texto_sha256": "5c8fd1e37f5b4834a296a51b6e335fde83406c1a591daf6c9e38ffcb12b3bb2c",
+      "adjuntos": []
+    },
+    {
+      "id": "1525954663831175369",
+      "fecha_utc": "2026-07-12T19:59:02.724000+00:00",
+      "fecha_local": "2026-07-12",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**El gnomo aguantaba las lágrimas ante el discurso de la capitana. Cuando acabó, se acercó hasta su lado y con un aire de timidez se dirigió a ella**\n\n- preciosas palabras mi señora capitana. Denotan el amor que su persona sentía por el joven escudero. Aunque este humilde caballero lo conocía infinitamente menos que vos, mi corazón está hecho pedazos ante tal pérdida. Para mí era como un igual, un hermano de armas...\n\n**",
+      "mensaje_sha256": "6ad8ffc5e9cb0e17f9b79ead09c5fd1762e4ad504a794f180157b9a19ad9bf41",
+      "tipo_discord": 19,
+      "referencia": "1525926597755015300",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525954663831175369",
+      "texto_sha256": "0d4ca741027b974b9c45f884eb03cffed3320db56969819b7d5344ce5fd9f78e",
+      "adjuntos": []
+    },
+    {
+      "id": "1525957186960883732",
+      "fecha_utc": "2026-07-12T20:09:04.285000+00:00",
+      "fecha_local": "2026-07-12",
+      "editado_utc": null,
+      "texto": "Ione: **Pone una mano en tu espalda, acariciandola para consolarte** Le toca vivir una aventura diferente",
+      "mensaje_sha256": "719b6b4456bfcf21d1e8549d02023d90a7319c4c45768e6afc1d61a8962c6f33",
+      "tipo_discord": 19,
+      "referencia": "1525954663831175369",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525957186960883732",
+      "texto_sha256": "c2126dfc41e6af79d74e2bc8c24bfe7d5bb87bff1ea72af108b606a225146b6c",
+      "adjuntos": []
+    },
+    {
+      "id": "1525960602701533334",
+      "fecha_utc": "2026-07-12T20:22:38.661000+00:00",
+      "fecha_local": "2026-07-12",
+      "editado_utc": "2026-07-12T20:31:46.924000+00:00",
+      "texto": "**Ilikar guarda el silencio mientras ambos se despiden de Nox, apoya sus dos brazos sobre Ione y Poncelot y habla con voz calmada** \n\nIlikar: En tradiciones de norte, se lleva la barca mar adentro y se despide con fuego. Fuego limpia el dolor. Fuego lleva su alma con los dioses y trae luz para los que quedamos aquí abajo.\n\n**​Da un paso atrás y le entrega a Ione una botella de ron, invitándola a finalizar el ritual.**\n\n​Ilikar: Deja que fuego se lleve la pena, capitana. Es hora de cerrar este capítulo...\n\n**Ilikar se aleja y vuelve a la playa, dejando a ambos solos de nuevo**",
+      "mensaje_sha256": "00f8f57f4ab3b71098f9285ba336ea2e6f9a9336b3c018bcfc2e613b300fe399",
+      "tipo_discord": 19,
+      "referencia": "1525957186960883732",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525960602701533334",
+      "texto_sha256": "5d14941cd12a8cd097240c6e81c3e26a9edf366da4c57391c2f99fe63b38a7fb",
+      "adjuntos": []
+    },
+    {
+      "id": "1525962653703344360",
+      "fecha_utc": "2026-07-12T20:30:47.658000+00:00",
+      "fecha_local": "2026-07-12",
+      "editado_utc": "2026-07-12T21:00:38.819000+00:00",
+      "texto": "**dicho esto, el gnomo saca un madero tallado con una inscripción tallada y un retazo de tela atada**\n\n- con su permiso lady Ione, me gustaría también ofrecerle tributo a su majestad Happy Bonny, que dio también su vida valerosamente para garantizar nuestra protección. Solo una monarca con ese corazón y ese apego por los suyos sería capaz de tal sacrificio... Por ella, y aunque es un gesto infimo, querria ofrecer este obsequio ...\n\n**El caballero deja sobre el bote al lado de los abalorios el madero tallado**\n\n- ofrezco este obsequio tallado con mis manos mostrando mi aprecio a su majestad. Le he tallado en mi idioma natal su nombre para que los dioses sepan por quién estoy rogando su ascensión. Y lleva atado un retazo de mi armadura para que su majestad sepa quién ora por su alma...",
+      "mensaje_sha256": "350345eb9994bf33aa69f91eb7e99bcf144bab1f2aa68a309f222f193e1cfc2d",
+      "tipo_discord": 19,
+      "referencia": "1525954663831175369",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525962653703344360",
+      "texto_sha256": "0555b5ebd4a911f755ca0328f6829a72e6929cfe2b30a93d07fd6d4ea1c2b503",
+      "adjuntos": []
+    },
+    {
+      "id": "1525963392400232681",
+      "fecha_utc": "2026-07-12T20:33:43.777000+00:00",
+      "fecha_local": "2026-07-12",
+      "editado_utc": null,
+      "texto": "Ione: **Toma la botella para terminar el ritual y dejar q las velas que estaban sobre la barca extiendan sus llamas. Entonces empuja la barca mar a dentro para que emprenda su ultimo e infinito viaje. Adios Nox. Adios Bonny** <@210947008716996609> <@214405113677217793> <@220602485977382912>",
+      "mensaje_sha256": "5bac8b88517389aed4ea6ae127e9a5154192663175a774b524ded2e1067d75e6",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525963392400232681",
+      "texto_sha256": "ebb270872ac4dd495451f4cff0ca917561ce4e17d5b51fb9906e1e3f5e66b5b4",
+      "adjuntos": []
+    }
+  ]
+}

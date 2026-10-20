@@ -1,0 +1,394 @@
+{
+  "id": "k-1443306919514345513",
+  "campana": "kuroto",
+  "unidad_revision": "k-1443306919514345513",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Sera ofrece otra forma de entrenar",
+  "resumen": "Wukong guarda los regalos preparados y acepta salir con Sera antes de comenzar su aprendizaje compartido.",
+  "relato": "Wukong duerme bajo el árbol después de pasar la mañana preparando juguetes y remendando ropa para Arwen y las otras pequeñas. Los bultos siguen tapados cuando Seraphina lo despierta; al tocarse sufren otro chispazo y ella se ríe de su sobresalto. Después agradece que la atrapara en el aire durante la batalla. Él responde que fue instintivo, menciona a Jindou y se disculpa por la velocidad del ascenso. La conversación pasa al entrenamiento de Tang: el mono enumera meditación, sutras, carreras de montaña, saltos, práctica de báculo y ejercicios de resistencia.\n\nSera admite que desconoce parte de esa formación, pero ofrece enseñarle su propia perspectiva. Wukong acepta después de guardar los regalos que esperaba entregar. Ella lo ayuda a recoger los trastos y elogia el cuidado hacia unas niñas que ya han presenciado demasiado sufrimiento. Mientras cargan las cosas, se interesa por su carácter; él se desconcierta y ella aclara que quiere ser su igual, no una superior. Ambos comentan un encuentro previo con un hombre molesto que no identifican aquí. Tras ordenar los materiales, Sera lo invita a comer antes de entrenar y salen juntos. La entrega de juguetes y la primera lección quedan pendientes.",
+  "participantes": [
+    "Wukong",
+    "Seraphina"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1443306919514345513",
+      "afirmacion": "Wukong ha preparado juguetes y remendado ropa mientras espera a las pequeñas.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1443311288536006718",
+      "afirmacion": "El contacto de ambos provoca otro chispazo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1443320791956455637",
+      "afirmacion": "Sera agradece su ayuda en combate y pregunta por el entrenamiento.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1443324139917152356",
+      "afirmacion": "Wukong describe el rescate aéreo y su formación con Tang.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1443325576340570184",
+      "afirmacion": "Sera propone enseñarle su propia perspectiva.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1443328918781300876",
+      "afirmacion": "Sera ayuda a guardar los regalos sin descubrirlos.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1443357103807791224",
+      "afirmacion": "Sera explica que quiere ser su igual y apoyarlo.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1443516619786686636",
+      "afirmacion": "Sera sale para comer con él antes de empezar.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1443517527828467832",
+      "afirmacion": "Wukong la sigue.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Las referencias a Jindou y Jin gu Bang son los nombres empleados por Wukong; no se les añaden capacidades nuevas.",
+    "No se identifica al hombre mencionado por sus comentarios sobre reencarnación y dioses.",
+    "La sospecha privada de Wukong de que Sera lee pensamientos es una broma interior, sin facultad probada.",
+    "Los bultos y la ropa están preparados, pero aquí no se descubren todos sus contenidos ni se entregan."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-11-26T18:26:24.958000+00:00",
+  "fin_utc": "2025-11-27T08:28:45.832000+00:00",
+  "fecha_local": "2025-11-26",
+  "intervalo": {
+    "anterior": 169,
+    "siguiente": 170,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1442596662206922943",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1443679606723838074",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 169,
+        "fecha": "2025-11-24",
+        "inicio_referencia_utc": "2025-11-24T19:23:51+00:00",
+        "fin_estimado_utc": "2025-11-24T22:32:50+00:00",
+        "duracion_video_segundos": 11339,
+        "tipo_referencia": "aviso_de_contraste",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1442596662206922943"
+      },
+      {
+        "capitulo": 170,
+        "fecha": "2025-11-27",
+        "inicio_referencia_utc": "2025-11-27T19:07:07+00:00",
+        "fin_estimado_utc": "2025-11-27T22:32:48+00:00",
+        "duracion_video_segundos": 12341,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1443679606723838074"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida. Una hora tomada de un aviso con título discrepante se utiliza solo como referencia aproximada de ese día."
+  },
+  "fuentes": [
+    {
+      "id": "1443306919514345513",
+      "fecha_utc": "2025-11-26T18:26:24.958000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Wukong\n\n**Hace un estar agradable bajo la sombra de aquel árbol. El mono se había pasado toda la mañana trasteando y haciendo manualidades con ropa y cachivaches para hacer unos juguetes que regalarle a Arwen y, de paso, a las otras dos pequeñas**\n\n- zzzzz... Harae tamae... Zzzz... Kiyome... Zzzz\n\n**Elmonje se había quedado dormido apoyado en el árbol esperando a que llegaran las otras dos niñas para enseñarles la sorpresa. Shizzuka parecía haber desaparecido. Se podía ver unos bultos tapados con una sábana, el mantel verde aún con trastos y un montoncito de ropa remendada y doblada con un sombrero de paja encima también remendado**",
+      "mensaje_sha256": "f70dc5668e6ec6e6d65474bb865796d48aa6314c4bf57cdb1c321f9ece1737d2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443306919514345513",
+      "texto_sha256": "da3be08963ab6f6059f7120891ab489a17547fae3d8abb221020ffc88502ef4f",
+      "adjuntos": []
+    },
+    {
+      "id": "1443309130462003453",
+      "fecha_utc": "2025-11-26T18:35:12.089000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Llegué agotada a la base después de tanto ajetreo que hay y lo primero que me encuentro es a un mono acostado a la sombra del árbol, durmiendo plácidamente**\n\nSe ve que le ha caído bastante bien lo de regresar a casa\n\n**Me acerqué y me agaché a su altura, le piqué un poco la nariz**\n\nDespierta",
+      "mensaje_sha256": "3400f154d65062c52f6dc37880799ad79de561b5689e016cbd58c553ded9803a",
+      "tipo_discord": 19,
+      "referencia": "1443306919514345513",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443309130462003453",
+      "texto_sha256": "09990406a0d578828381df4bff642cbb653a6c2c70e7a5c368c70f8e9f070f82",
+      "adjuntos": []
+    },
+    {
+      "id": "1443311288536006718",
+      "fecha_utc": "2025-11-26T18:43:46.614000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Wukong\n\n- nnnngggghhh... 5 minutos más... \n\n**El.monje movería la mano para apartar lo que le estuviera cortando el plácido sueño. Al entrar en contacto su mano con la de su compañera, un calambrazo, idéntico al de aquella vez, le recorrió el brazo**\n\n- LA MADRE QUE... que ha sido ese chispazo???\n\n**Wukong pegó un salto sobresaltado mientras se agarraba el brazo**",
+      "mensaje_sha256": "78b430082e36e33b9eebea4f16a8ddbe1407e9081548f42ce1e7f07898f10b97",
+      "tipo_discord": 19,
+      "referencia": "1443309130462003453",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443311288536006718",
+      "texto_sha256": "33f63ab59f255c31655077dc0afefd711051dab2e7bd342db38dd5b0b0e855c5",
+      "adjuntos": []
+    },
+    {
+      "id": "1443311911516241953",
+      "fecha_utc": "2025-11-26T18:46:15.144000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Solté la carcajada en cuanto lo ví despertarse de golpe**\n\nPERDÓN JAJAJAJA, NO FUE MI INTENCIÓN!! JAJAJAJA, HUBIERAS VISTO TU CARA!! JAJAJAJA!!",
+      "mensaje_sha256": "f8b5eeb95135c7188bf1a730091c42eee57dd68be395cd8f778fd652667c9a53",
+      "tipo_discord": 19,
+      "referencia": "1443311288536006718",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443311911516241953",
+      "texto_sha256": "ef0e1ed1415a197d2aa5572d358ae0e9e8b2e391a1b9a1dcef43134a9000ae81",
+      "adjuntos": []
+    },
+    {
+      "id": "1443313794649428052",
+      "fecha_utc": "2025-11-26T18:53:44.118000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Wukong\n\n- Seraphina!! Casi se me para el corazón!! \n\n**Wukong agarra con enfado la mano de la coneja**\n\n- No puedes despertar a la gente de una manera más delicada?? Seguro que a Guxi no lo despiertas a calambrazos!",
+      "mensaje_sha256": "645b73f6cd0dcab6303491f61bf18db1cb160c63c23407d774cdc5d46e40c000",
+      "tipo_discord": 19,
+      "referencia": "1443311911516241953",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443313794649428052",
+      "texto_sha256": "41c582cd651450fa6bde7318e6b26b096c3f6afc9b404342f1d71520c7bf7712",
+      "adjuntos": []
+    },
+    {
+      "id": "1443314185235730662",
+      "fecha_utc": "2025-11-26T18:55:17.241000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Seraphina:\nEs porque con el no pasa eso, y no creo que te agrade saber cómo es que lo levanto a el\n\n**No dejaba de reírme aún mirando la cara de enfado de Wukong**\n\nY conste que te hablé suavecito, fue la chispa la que te despertó de esa manera",
+      "mensaje_sha256": "6bf046467b1108cdb781d56acce9b39923866a44d041ba2dcad798462c4f5bd2",
+      "tipo_discord": 19,
+      "referencia": "1443313794649428052",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443314185235730662",
+      "texto_sha256": "f0e46c515291d5b9dc5ddf74fb98c72dddcc8fef3975bdd133e845d269bc171e",
+      "adjuntos": []
+    },
+    {
+      "id": "1443318697786871810",
+      "fecha_utc": "2025-11-26T19:13:13.117000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Wukong\n\n- bleerrgghh... Para que habré dicho nada...\n\n**Por un momento al mono le vino una arcada**\n\n- maldita chispita... En fin... Que es tan importante para despertarme?",
+      "mensaje_sha256": "3836bace010fae145f6b46e9f3d69986a5436c3867750c3cec7b3ad66df2d96d",
+      "tipo_discord": 19,
+      "referencia": "1443314185235730662",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443318697786871810",
+      "texto_sha256": "8154284dd22f10a0ec25bcb210f8023f5025bfeb04c29976b71353e1c32eb746",
+      "adjuntos": []
+    },
+    {
+      "id": "1443320791956455637",
+      "fecha_utc": "2025-11-26T19:21:32.406000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Seraphina:\nUno, quiero agradecerte por lo que hiciste en batalla \n\n**Le desvíe la mirada un poquito con las mejillas algo sonrojada**\n\nY en segunda, qué era lo que hacías con el Monje Tang?, lo digo para ayudarte, no por algo el Monje Tang me dió está responsabilidad y yo la acepté",
+      "mensaje_sha256": "2b1a5eb4d5754c3de0a7fc4509e42336860c41779dd45536d9cec777f1a84bf2",
+      "tipo_discord": 19,
+      "referencia": "1443318697786871810",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443320791956455637",
+      "texto_sha256": "6518a5fa782fe0fc688e66bf6611c6267c624d8c660fb6c28ff59ed76ccfa1f0",
+      "adjuntos": []
+    },
+    {
+      "id": "1443324139917152356",
+      "fecha_utc": "2025-11-26T19:34:50.622000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Wukong\n\n- lo que hice en batalla...\n\n**Se frota la barbilla pensando**\n\n- ah ya. Cuando te agarré en el aire. No fue nada. Fue instintivo...\n\n**El mono imitaba con los brazos como la atrapó en el aire**\n\n- debería pedirte yo perdón. Creo que fui a demasiada velocidad cuando ascendimos. Yo estoy acostumbrado pero es posible que a ti te impresionara... Noté que te agarrabas muy fuerte a mí cuello. No suelo llevar copiloto cuando monto en Jindou... Lo siento.\n\n**Wukong se pone la mano detrás de la cabeza mientras hace una pequeña reverencia como disculpa**\n\n- te refieres al entrenamiento? Puesssss... Meditación al amanecer. Recitar sutras de memotia. Subir y bajar la montaña en carrera. Cien saltos a máxima altura sin usar a Jindou. Entrenamiento con el Jin gu Bang. Trescientas flexiones con peso en la espalda... Y a veces mantener la postura de la roca inamovible durante 3 horas... Por?",
+      "mensaje_sha256": "03b29ee307747d58d0139bfebcf4f3f722925949da9d4caa0502466e54726d54",
+      "tipo_discord": 19,
+      "referencia": "1443320791956455637",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443324139917152356",
+      "texto_sha256": "a05ddd574eca235519949d926fd6ad75fd993bad65e9bdcb0afb11623dd76d6c",
+      "adjuntos": []
+    },
+    {
+      "id": "1443325576340570184",
+      "fecha_utc": "2025-11-26T19:40:33.092000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Seraphina:\nNo tienes que disculparte, te lo agradezco en verdad \n\n**Le sonreí con sinceridad**\n\nMierda... Demasiadas cosas que realmente desconozco...\n\n**Me quedé pensando un poquito**\n\nBueno, quizás no siga lo mismo que hacía el Monje Tang, pero puede que te ayude una nueva perspectiva \n\n**Me levanté y le ofrecí la mano**\n\nTe voy a enseñar lo que yo sé",
+      "mensaje_sha256": "46106f3d6227f6fb17f34895caa8fac8037a73bbed8c01d8477b33b05a4defaf",
+      "tipo_discord": 19,
+      "referencia": "1443324139917152356",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443325576340570184",
+      "texto_sha256": "2eaac4cbe5475a5cb6fc37330997169b236f1f6ce2c1ae20d081bab6941bff36",
+      "adjuntos": []
+    },
+    {
+      "id": "1443327340968149092",
+      "fecha_utc": "2025-11-26T19:47:33.812000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Wukong\n\n**Agarra la mano de su compañera y se reincorpora**\n\n- ahora mismo? Ya? Es que... Estaba esperando a las niñas... Tenía algo para ellas...\n\n** Se queda mirando el despliegue de trastos**\n\n- bueno... Ayúdame a guardar todo y luego soy todo tuyo...\n\n*Una pena no poder darle esto a las crías... A ver si con suerte cuando acabemos las encuentro y se lo doy**",
+      "mensaje_sha256": "d8864e4665f779b04c281cd7ec9f7c4d1bb81b73ea07815239ae68a00fda21d0",
+      "tipo_discord": 19,
+      "referencia": "1443325576340570184",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443327340968149092",
+      "texto_sha256": "adefa5677f8f6df20d37f063616e40c629908ae1e9baa6196b4e3a45541f7ec0",
+      "adjuntos": []
+    },
+    {
+      "id": "1443328918781300876",
+      "fecha_utc": "2025-11-26T19:53:49.992000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Seraphina:\nClaro, yo te ayudo \n\n**Me acerqué a dónde estaban las cosas y le ayude a guardarlas, tratando de no ver aquella sorpresa**\n\nEs muy amable de tu parte el prepararles regalos, esas pequeñas han visto muchas cosas que no deberían de ver\n\n**De vez en cuando lo miraba de reojo, tratando de escudriñar en su lenguaje corporal**",
+      "mensaje_sha256": "77b81a49058c751d53a46d1e2b9973405040e14a790fad1e9e2bceabf66d2de7",
+      "tipo_discord": 19,
+      "referencia": "1443327340968149092",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443328918781300876",
+      "texto_sha256": "1598b0fccd9ed72ee9281ccecfbcb2501140be725f5263b6f2dace5161db5c2f",
+      "adjuntos": []
+    },
+    {
+      "id": "1443350188491145367",
+      "fecha_utc": "2025-11-26T21:18:21.086000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Wukong\n\n- no es justo que vivan todo esto desde este lado... Pero bueno... Quería tener un detalle con Arwen por ayudarme a equiparme... Y por qué no hacerlo también con las otras dos pequeñas?\n\n**Se podría ver al mono intentando coger más cosas de las que puede. Verías a alguien muy torpe y despistado: como no puede coger el sombrero de paja se lo lleva puesto, con la cola lleva la ropa remendada, mientras que en los brazos lleva la saca verde de donde se le caen cosas e intenta cogerlas con uno de los pies. Básicamente lo pillas haciendo malabarismos para poder llevar todo de un viaje. Cuando se da cuenta que lo miras te devuelve la mirada con una sonrisa nerviosa por el ridículo que está haciendo. Poco que ver con el monje que saltó al vacío para salvaros a ti y a Kuro en el combate con el tigre**",
+      "mensaje_sha256": "f21e44a7ae6749989400b9f0f86c24a6e36d9f4401693eacb04f35bf64f95672",
+      "tipo_discord": 19,
+      "referencia": "1443328918781300876",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443350188491145367",
+      "texto_sha256": "622ef83b88281bed7f0194f5bfaca1349c487430e958f884fb57355f8686d0de",
+      "adjuntos": []
+    },
+    {
+      "id": "1443352111726202931",
+      "fecha_utc": "2025-11-26T21:25:59.621000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Seraphina:\nEn eso tienes mucha razón, aunque esas niñas son mucho más fuertes que todos nosotros juntos\n\n**Mire curiosa los malabares y no pude evitar soltar una pequeña risa**\n\nEres bastante interesante~\n\n**Le ayude a cargar una que otra cosa que se le había caído, sosteniendolas entre mis brazos**\n\nPor qué ahora eres tan distinto pero a la vez tan similar?\n\n**Me puse delante de el y le miré directamente a los ojos**\n\nQué es lo que esconde tu alma?~",
+      "mensaje_sha256": "ce2cae193c0e1cb406c0124783ed4eabbf3f430c77382cc5b1add6681bc6f5b6",
+      "tipo_discord": 19,
+      "referencia": "1443350188491145367",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443352111726202931",
+      "texto_sha256": "c538ad4a1f4ca49f98260413d71efad98cb911b0fc3d74d7c4636f78dfc7dda9",
+      "adjuntos": []
+    },
+    {
+      "id": "1443355195777093813",
+      "fecha_utc": "2025-11-26T21:38:14.916000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Wukong\n\n**El mono mira a su amiga extrañado y ladeando un poco la cabeza**\n\n- a qué te refieres? Sabes que acabas de hablar un poco como al zumbado con voz de leñador del otro día? \n\n*Un segundo... Me está tirando los trastos? No... Está comprometida... A lo mejor se le ha subido a la cabeza esto de ser mi maestra*",
+      "mensaje_sha256": "1334dcfb03fa1fe756e5bc577c93c6cda554242f8c35addbf5edd212ec71de57",
+      "tipo_discord": 19,
+      "referencia": "1443352111726202931",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443355195777093813",
+      "texto_sha256": "741e061034a2afd6759830c2ee097e5bc4937c181704da9f7cc0df3f029ec9c5",
+      "adjuntos": []
+    },
+    {
+      "id": "1443357103807791224",
+      "fecha_utc": "2025-11-26T21:45:49.826000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\n**Volví a sonreírle y me alejé para seguirle ayudando**\n\nPuede ser porque recientemente hablé con el y le dije unas cuantas cositas, pero realmente me estás pareciendo bastante curioso\n\n**Reí otro poquito**\n\nNo quiero que me consideres como alguien \"superior\" ni mucho menos, creeme que eso no se me da, quiero ser tu igual, jamás seré tu enemiga \n\n**Liberé una de mis manos y le froté el pelo de la cabeza**\n\nEstás haciendo un gran trabajo y no dudes de que tus compañeros siempre te vamos a apoyar, de acuerdo?",
+      "mensaje_sha256": "39a174854c531822a6a54cbbbf2ffb2af6921926a81da6edb2fc766f8f34e05c",
+      "tipo_discord": 19,
+      "referencia": "1443355195777093813",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443357103807791224",
+      "texto_sha256": "643ffe939042412c86856a6c6ca730b2f05b2f2b191d5661b447567db9d7ca23",
+      "adjuntos": []
+    },
+    {
+      "id": "1443360906208743575",
+      "fecha_utc": "2025-11-26T22:00:56.389000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": "2025-11-26T22:02:18.890000+00:00",
+      "texto": "Wukong\n\n**Mientras Sera le revolvía el cabello al mono, este ponía cara de frustración. Tenía todas las extremidades de su cuerpo ocupadas. No podía defenderse de ese gesto**\n\n- un segundo. Estuviste con el loco ese? Que se le ha perdido por aquí a un friki como ese? Hablando de mozos de cuadra, reencarnaciones y dioses...\n\n**Intentaba seguirle el paso a su compañera en dirección a la base a duras penas manteniendo el equilibrio de todo lo que llevaba**\n\n- se agradece lo de no querer ser mi superior. Tengo manchas en mi historial por no saber respetar a mis superiores jajajaja. Gracias por la confianza... Ya apenas recordaba esa sensación...\n\n**Intento dejar todo lo más ordenado posible en un rincón de la base para que no molestase**\n\n*Ya casi es hora de comer... Espero que está coneja no esté tan loca como Tang a la hora de entrenar... Que pereza me está entrando...*",
+      "mensaje_sha256": "ec29e2f4612f1c0e3652c1acdf3d000fea02a2760fd6bd2d1d9c6a44ef4dd325",
+      "tipo_discord": 19,
+      "referencia": "1443357103807791224",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443360906208743575",
+      "texto_sha256": "435eea142372bd1af940ccd6189b8ff479ba92d758b5436497c5de355aa48f2e",
+      "adjuntos": []
+    },
+    {
+      "id": "1443362114407501845",
+      "fecha_utc": "2025-11-26T22:05:44.446000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Seraphina:\nMe dijo varias cosas y molestó en otras también, pero no le hice caso, es demasiado pesado\n\n**Deje también las cosas en el mismo lugar donde las dejó él**\n\nTienes hambre?, yo tengo hambre, hay que comer algo antes de empezar, no te preocupes que yo te invito está vez, sirve que nos vamos conociendo mejor",
+      "mensaje_sha256": "cd80b833d62a9e0dd19a3cf0989727427d8b1d57e4684b806d424c9f5029571a",
+      "tipo_discord": 19,
+      "referencia": "1443360906208743575",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443362114407501845",
+      "texto_sha256": "878726295d07f1ee2f8c40f2007f8a6a89b7e68680248f86a634e03b88161ead",
+      "adjuntos": []
+    },
+    {
+      "id": "1443514659905998868",
+      "fecha_utc": "2025-11-27T08:11:54.127000+00:00",
+      "fecha_local": "2025-11-27",
+      "editado_utc": null,
+      "texto": "Wukong\n\n*La hostia! Sabe leer el pensamiento? Ya es casualidad*\n\n- pues si, comería algo la verdad... Como decía un semiorco amigo mío \"no se puede entrenar con el estómago vacío\"..\n\n**Wukong le inclina un poquito la cabeza y con la mano le indicaba la puerta como diciendo \"tú primero\"**\n\n- de paso podemos ponernos al día el uno del otro y te puedo contar todo lo que me hacía sufrir... Digo, entrenar... El monje tang... En fin... Sabes lo que hacen bien al ajillo por aquí? El con... El pollo!! El pollo si... El pollo\n\n*Estás que te sales Wukong... Vaya manera de meter la pata con la responsable de tu entrenamiento*",
+      "mensaje_sha256": "35976b48ea4eb775f54815d1de633241003923aefe4bdfbc4fe21a9555233d21",
+      "tipo_discord": 19,
+      "referencia": "1443362114407501845",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443514659905998868",
+      "texto_sha256": "2d0f440ba2f178c181429854c44905b398ddf77e808b31c02efeb9290b89acf6",
+      "adjuntos": []
+    },
+    {
+      "id": "1443516619786686636",
+      "fecha_utc": "2025-11-27T08:19:41.399000+00:00",
+      "fecha_local": "2025-11-27",
+      "editado_utc": null,
+      "texto": "Seraphina:\nTu tranquilo, que he entendido muy bien todo, esto me lo has de pagar un poco caro, Monito\n\n**Sonreí un poco amenazante mientras salía de la base**\n\nVas a tener que disfrutar de esta comida porque no la vas a volver a comer en un muy buen rato \n\n🏴‍☠️ Seraphina sale de escena 🏴‍☠️",
+      "mensaje_sha256": "e732e295dc5a93d535da4024e26650893e7e6b90bd5acc42605c10a30a027b82",
+      "tipo_discord": 19,
+      "referencia": "1443514659905998868",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443516619786686636",
+      "texto_sha256": "2e81743241541cced50fa5687a83fabff998408aaa684bf1b9fe1dab4aec6d3c",
+      "adjuntos": []
+    },
+    {
+      "id": "1443517527828467832",
+      "fecha_utc": "2025-11-27T08:23:17.893000+00:00",
+      "fecha_local": "2025-11-27",
+      "editado_utc": null,
+      "texto": "Wukong\n\n*Del fuego a las brasas... Maldita sea mi estrella*\n\n🐒wukong sale de escena🐒",
+      "mensaje_sha256": "f5b37342bd17e0cfd6d09c6970b78179f3a2f7dc39bf452508f7b294dc61be06",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443517527828467832",
+      "texto_sha256": "d714d1712423573f1d3be8dadfe1c2e247c6d5cee867dc9de1961f14efaec79e",
+      "adjuntos": []
+    },
+    {
+      "id": "1443518903304327188",
+      "fecha_utc": "2025-11-27T08:28:45.832000+00:00",
+      "fecha_local": "2025-11-27",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "0730e65753d88abe19e228befbdc08707d4785370a8b2c9a7b66f22c4e7f7733",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1443518903304327188",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

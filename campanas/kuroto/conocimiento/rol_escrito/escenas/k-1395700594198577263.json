@@ -1,0 +1,311 @@
+{
+  "id": "k-1395700594198577263",
+  "campana": "kuroto",
+  "unidad_revision": "k-1395700594198577263",
+  "hilo_id": "1379945696089604209",
+  "hilo_nombre": "Sho, Barrios bajos - Capital de Kuroto",
+  "titulo": "Archi avisa del arresto de Danifae y Thiary guarda una araña",
+  "resumen": "Thiary ya utiliza la máscara en otro prisionero. Recibe la noticia del arresto y, cuando el gnomo se marcha, extrae de un cofre una figura de araña sin revelar su función.",
+  "relato": "Archi visita otra vez la cofradía y comunica lo que ha oído sobre el arresto de Danifae. Thiary la llama escurridiza y opina que no permanecerá encerrada mucho tiempo; incluso comenta que podría necesitar sacarla si requiere sus servicios. No organiza aquí una fuga.\n\nAl preguntar por la máscara, el gnomo ve a un hombre atado a una silla que la lleva puesta, vigilado por dos shinobis. Antes de irse comenta una próxima reunión con un noble y pide permiso para contar otro chiste. La taberna permanece callada hasta que Thiary ríe y sus subordinados la siguen. Archi se despide satisfecho.\n\nUna vez solo el local, Thiary abre mediante gestos, palabras y toques pautados un cofre bajo la barra. Saca una figura en forma de araña, sonríe y elogia el truco de Danifae. El texto muestra el objeto y esa reacción, sin explicar su naturaleza ni lo que hará con él.",
+  "participantes": [
+    "Archi",
+    "Thiary",
+    "Strug"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1395703629574438955",
+      "afirmacion": "Archi comunica el rumor de que Danifae está arrestada.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1395709577202499715",
+      "afirmacion": "Se ve otro prisionero con la máscara y dos vigilantes.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1395724248047157330",
+      "afirmacion": "Thiary extrae una figura de araña de su cofre protegido.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El relato humorístico del comandante es un chiste contado en la taberna, no un suceso de la campaña.",
+    "No se convierte la araña en Danifae, una fuga completada o un objeto con poderes determinados."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-07-18T09:35:52.520000+00:00",
+  "fin_utc": "2025-07-18T11:09:52.037000+00:00",
+  "fecha_local": "2025-07-18",
+  "intervalo": {
+    "anterior": 139,
+    "siguiente": 140,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1395465783865512070",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1398002060905152542",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 139,
+        "fecha": "2025-07-17",
+        "inicio_referencia_utc": "2025-07-17T18:02:34+00:00",
+        "fin_estimado_utc": "2025-07-17T20:59:56+00:00",
+        "duracion_video_segundos": 10642,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1395465783865512070"
+      },
+      {
+        "capitulo": 140,
+        "fecha": "2025-07-24",
+        "inicio_referencia_utc": "2025-07-24T18:00:50+00:00",
+        "fin_estimado_utc": "2025-07-24T21:10:34+00:00",
+        "duracion_video_segundos": 11384,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1398002060905152542"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1395700594198577263",
+      "fecha_utc": "2025-07-18T09:35:52.520000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": "2025-07-18T09:36:06.875000+00:00",
+      "texto": "Archi: **Llega al local de la cofradía,  cuando va enseñar su anillo lo acaricia porque se acuerda de el momento en que R2 cayó en combate **\n\n**pica a la puerta ** <@214405113677217793>",
+      "mensaje_sha256": "1d32a8f9c5fee04cf80b4b78b8aaab0dda8b42f29c5e337313fc2819679ec49b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1395700594198577263",
+      "texto_sha256": "2c517058fabf85042b40f522fc8068d7c484b547655329c7ef064fb4f26ccbdb",
+      "adjuntos": []
+    },
+    {
+      "id": "1395701040782774293",
+      "fecha_utc": "2025-07-18T09:37:38.994000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Strug: **El hombrecillo deforme abre la puerta como siempre** ¡¿Quien es?! Oh, eres tú... **Te mira con el ojo bueno y ves que se retira para dejarte paso**",
+      "mensaje_sha256": "83175674d2070c77a548460475db8d5d70a84b95811a0585b633df6b101ab216",
+      "tipo_discord": 19,
+      "referencia": "1395700594198577263",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1395701040782774293",
+      "texto_sha256": "acce41598207d1fd7ff56b7fcd28572a03f3ea5303671c58a5986cc7504a9637",
+      "adjuntos": []
+    },
+    {
+      "id": "1395701554522361956",
+      "fecha_utc": "2025-07-18T09:39:41.479000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Archi: Saludos camarada , ojo a vizor siempre no lo olvides . \n**se despide con la mano y baja por la trampilla silbando **",
+      "mensaje_sha256": "800a22c7f447550e17dcb19e82e13c7c3b24e9583e859affe728099f146007da",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1395701554522361956",
+      "texto_sha256": "1e4135266d2fa6299252f7e751edbfb5e665bf6bc4d8848956a02a61e8a54acc",
+      "adjuntos": []
+    },
+    {
+      "id": "1395702000699703368",
+      "fecha_utc": "2025-07-18T09:41:27.856000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Thiary: **La mujer esta, como siempre, detrás de la barra limpiando un par de vasos mientras los miembros de su cofradía beben y juegan en las mesas del local. Sonríe al escuchar tus silbidos y verte bajar las escaleras** Oh! El señor Archi. ¿A que debo este placer?",
+      "mensaje_sha256": "5a8a9bbdaf8c8090976ecf8796df93179fd4fac914e5a76ddee8a298c59b2027",
+      "tipo_discord": 19,
+      "referencia": "1395701554522361956",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1395702000699703368",
+      "texto_sha256": "644ffd44511477fc6c751c8d1e8234d9b73431452897cfe1b2c81d14c73cdaa6",
+      "adjuntos": []
+    },
+    {
+      "id": "1395703629574438955",
+      "fecha_utc": "2025-07-18T09:47:56.210000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Archi: **baja y le hace un reverencia pomposamente y con la cabeza muy inclinada **\nLady Thiary... mon amour.  Un gusto verla . Esos ataques en el sur me han impedido que venga verte antes .**te dice mientras se acerca a la barra y sube de pie a la silla ** \nPero gracias a esa demora me he enterado de cositas ... \n**Mira hacia los lados y se pone la mano en la boca para susurrale ** \nTe has enterado de lo de la señorita drow? Dicen que la tienen bajo arresto  mi lady",
+      "mensaje_sha256": "bb62baee95c7357c8cdd0ede313c4250a50000bae2f2e164c4b81c6a7eab9101",
+      "tipo_discord": 19,
+      "referencia": "1395702000699703368",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1395703629574438955",
+      "texto_sha256": "95b51e96556eca368d2bb6a4d78419f637ea6742f644b78b0414b43bdcd93861",
+      "adjuntos": []
+    },
+    {
+      "id": "1395704081234006107",
+      "fecha_utc": "2025-07-18T09:49:43.894000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Thiary: **Levanta una ceja confundida** Una drow... ¿Danifae? ¿Ya han atrapado a esa escurridiza araña?",
+      "mensaje_sha256": "cfbd9bc552a8e6caa5ade2588acd56facbfb3bbff7f17ea726f06509dde06c8c",
+      "tipo_discord": 19,
+      "referencia": "1395703629574438955",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1395704081234006107",
+      "texto_sha256": "17aeafbbf14d947a538aa2525a4018e991a88d328ea4d4036b1766ddda6df243",
+      "adjuntos": []
+    },
+    {
+      "id": "1395705798029611120",
+      "fecha_utc": "2025-07-18T09:56:33.210000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Archi: eso he oído.  Mano dura tiene nuestra querida líder .",
+      "mensaje_sha256": "b83daf8f6d49cf0d3729a00f85460b5db07634e79a2a52ce27b697bc94adc10a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1395705798029611120",
+      "texto_sha256": "f53aac8688d4c0d982e5093de2d67ec35e3ccf115e4eaf372c8accd583473cd2",
+      "adjuntos": []
+    },
+    {
+      "id": "1395707204241330208",
+      "fecha_utc": "2025-07-18T10:02:08.477000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Thiary: Todos los líderes tienen mano dura, es lo que les pertoca **Sonríe mirando a sus ladrones que se remueven en la silla los que han escuchado esa aclaración** Conociendo a la drow, no creo que permanezca encerrada mucho tiempo",
+      "mensaje_sha256": "c7f300177c3bdaeb0e2a226a611353eada9feb7cc5c9abfb0d408ffb95d9bd76",
+      "tipo_discord": 19,
+      "referencia": "1395705798029611120",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1395707204241330208",
+      "texto_sha256": "7199d9457424eac3d68a0b7aac8ce9398defe01af0cef1df5a117e160c579829",
+      "adjuntos": []
+    },
+    {
+      "id": "1395708344185917460",
+      "fecha_utc": "2025-07-18T10:06:40.261000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": "2025-07-18T10:10:53.452000+00:00",
+      "texto": "Archi: no , no parece de esas . \nBueno sus asuntos tendrá yo solo quería informar por si no lo sabia **le hace otra reverencia ** \nQue tal la máscara le servido bien ?",
+      "mensaje_sha256": "99bbb885665d9a4f491d8d5b18001e49294409fd94ed460f4822cfd7aecea6a6",
+      "tipo_discord": 19,
+      "referencia": "1395707204241330208",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1395708344185917460",
+      "texto_sha256": "c9fcaa06c8f9b21651d733e635cb37ddefee52a4d8b2629837319b95eb2a8fa1",
+      "adjuntos": []
+    },
+    {
+      "id": "1395709577202499715",
+      "fecha_utc": "2025-07-18T10:11:34.235000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Thiary: Esperemos que salga pronto, o deberé sacarla de allí cuando necesite sus servicios je je. **Te mira con una sonrisa y te señala el otro extremo de la sala con la cabeza. Puedes ver a un hombre atado a una silla con la máscara puesta junto a dos shinobis que le vigilan**",
+      "mensaje_sha256": "b66bdb2eeba34e6d51275c19e20a70885b78464a41da316f7151be67866813fe",
+      "tipo_discord": 19,
+      "referencia": "1395708344185917460",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1395709577202499715",
+      "texto_sha256": "cd30aa41f94174537b57691fb63f654ae4e703388be16f57e82f17c2582a6242",
+      "adjuntos": []
+    },
+    {
+      "id": "1395712407652925500",
+      "fecha_utc": "2025-07-18T10:22:49.067000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Archi : *ufff ese lleva rato ahí tiene mala pinta*\nMe alegro . \nPues querida me tengo que marchar , solo pasaba por aquí.  **da un saltito de la silla ** \nPronto volveré,  tengo una reunión con uno de los nobles  , ya le contaré y hablamos de negocios que es lo que nos gusta my lady . \nPues es un placer como siempre mon amour",
+      "mensaje_sha256": "3ac2ce0209c882ae37d23a32d44c43cfca0582524c298a2b5f81ab16b4eaf9c4",
+      "tipo_discord": 19,
+      "referencia": "1395709577202499715",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1395712407652925500",
+      "texto_sha256": "79923eabdff2235f02539871676ff3f95aa1025f1ef48e9b749400e3a8952113",
+      "adjuntos": []
+    },
+    {
+      "id": "1395713469596307547",
+      "fecha_utc": "2025-07-18T10:27:02.254000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Thiary: Un placer señor Archi. **Te sonríe afable pero sigue siendo una sonrisa terrible** Muchas gracias por la información",
+      "mensaje_sha256": "1579894f28f5f8fa1a0f80a84d754c5b30728e656de1d663f924a89130568743",
+      "tipo_discord": 19,
+      "referencia": "1395712407652925500",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1395713469596307547",
+      "texto_sha256": "7c7acb71ca76471807b258d8ab21fbcc76242ca3ed9b187a6ae6898e0cc586d2",
+      "adjuntos": []
+    },
+    {
+      "id": "1395716429256462376",
+      "fecha_utc": "2025-07-18T10:38:47.892000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Archi: nada nada,  ya agradecerá en la siguiente factura mi lady ** se rie , te hace una reverencia y se dirige a la salida pero se frena en seco mirando el taburete donde se subió a contar un chiste ** \nPuedo ? **le señala y le pone ojitos ilusionado,  es su sueño frustrado monologuista de taberna **",
+      "mensaje_sha256": "fc471f278ed542fca92414c29ea9bffff240e5f63566acae87b08bb640354948",
+      "tipo_discord": 19,
+      "referencia": "1395713469596307547",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1395716429256462376",
+      "texto_sha256": "90ba80c6ac16638654d32ae4ac1bebd81e8dc4da050d17bba7091880430e1b2f",
+      "adjuntos": []
+    },
+    {
+      "id": "1395717906653773924",
+      "fecha_utc": "2025-07-18T10:44:40.131000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Thiary: **Le da permiso con un movimiento de su mano**",
+      "mensaje_sha256": "bcc531fcdfa0649cc3e05eee77f1b1697102853701db161f963fa8c2856b8947",
+      "tipo_discord": 19,
+      "referencia": "1395716429256462376",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1395717906653773924",
+      "texto_sha256": "ef3e7f343f3cefd9cdb6650777772e4201fdf775233bb242a94f0d9e19cf1142",
+      "adjuntos": []
+    },
+    {
+      "id": "1395721535456677928",
+      "fecha_utc": "2025-07-18T10:59:05.305000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Archi : **sube tímidamente y saluda a los shinobi ** \n\nBueno ya me conocéis algunos . A ver voy eeee ... \n**tose un poco y pone voz de chiquito de la calzada** \nEsto es un comandante que reune a sus 3 mejores hombres . Y le dice . \nA ver , hoy vamos a decidir quién de vosotros tiene mas pelotas . \nTu elfo , tírate de esa montaña y coge un pájaro al vuelo mientras cae . \nVa el elfo y lo hace . \nTu enano , tírate de la montaña y coge un pájaro al vuelo pero con la boca . \nVa el enano y lo hace. \nLlega el turno del humano . \nDígame mi comandante que paxa? \nEl comandante le dice mira súbete a esa montaña , te tiras con los ojos cerrados de espaldas y coges un pájaro al vuelo con la boca \n\nSi claro va ir su madre a hacer eso comandante \n\nEl comandante le corta la cabeza en un suspiro y dice.  Mira ha ganado el humano . \n\n**Mira tímido hacia los lados **",
+      "mensaje_sha256": "de9b71e25ed793e3a8c177092a6516b40713c70b22bacc70973ad074fac8c357",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1395721535456677928",
+      "texto_sha256": "1398a032f0184c7ae0460aeb777550a146c5e661d07509686604a589ff48ccb1",
+      "adjuntos": []
+    },
+    {
+      "id": "1395722490382254110",
+      "fecha_utc": "2025-07-18T11:02:52.977000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Thiary: **La mujer esta con los ojos entrecerrados mirando el espectaculo absurdo que ha hecho el gnomo. Toda la taberna esta en silencio... Hasta que Thiary rompe a reír a carcajadas y el resto de la mesa ríe a continuación**",
+      "mensaje_sha256": "d4e896f223adb97965aca11ae564c2c49af5cf771286883e199373f10daee2a2",
+      "tipo_discord": 19,
+      "referencia": "1395721535456677928",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1395722490382254110",
+      "texto_sha256": "caa68712dd375eb47c90ba769996473c85a1c8b2e794f12d0bb06d3ecd443561",
+      "adjuntos": []
+    },
+    {
+      "id": "1395723652217045054",
+      "fecha_utc": "2025-07-18T11:07:29.980000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "Archi : gracias gracias chicos , y tiene moraleja.  \nSi tus pelotas vas a mostrar , mas vale aciertes o la cabeza perderás.  \nApuntaroslo chicos \nAdiós adiós \n**hace una reverencia a cada lado antes de irse ** \n\n\n\n⚙️  Archi sale de escena 🔧",
+      "mensaje_sha256": "644ff90173126d7e57160151a3306645cfd0bf5583443fde4a9fedc3b10f21ce",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1395723652217045054",
+      "texto_sha256": "c67440f63b8e3b2c1e43bee17b4a1a7700fecbb56ae31c2412f4b9d8d661a1c7",
+      "adjuntos": []
+    },
+    {
+      "id": "1395724248047157330",
+      "fecha_utc": "2025-07-18T11:09:52.037000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": "2025-07-18T11:11:07.548000+00:00",
+      "texto": "Thiary: **Cuando te marchas, la humana se dirige a su cofre que esta escondido debajo la barra del bar. Hace unos gestos con los dedos junto a unas palabras mágicas y toca el cofre varias veces con un ligero patrón. Del interior saca una especie de figura en forma de araña. Sonríe ampliamente** Buen truco Danifae...\n\n🔴Fin de la Escena🔴",
+      "mensaje_sha256": "fc216920a70eec617015bd31c0bb7513ff1d02cdfd06302cee5d3f7cc8254dfa",
+      "tipo_discord": 19,
+      "referencia": "1395723652217045054",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1395724248047157330",
+      "texto_sha256": "4a1c8afeafb9a3dba7b87141db23426085b5e9b92ee2519a71d6cdb3fcf4b2e9",
+      "adjuntos": []
+    }
+  ]
+}

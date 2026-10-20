@@ -1,0 +1,79 @@
+{
+  "id": "k-1364509070027132998",
+  "campana": "kuroto",
+  "unidad_revision": "k-1364509070027132998",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Banzo vuelve a buscar a Wukong",
+  "resumen": "Una intervención retrospectiva sitúa el despertar de Banzo y su partida hacia Ukyio para conocer la redención de Wukong.",
+  "relato": "Varias horas antes del momento de publicación del mensaje, Banzo se ha despertado y bañado. Después toma rumbo a Ukyio para saber cómo progresa la redención de su amigo Wukong. Su salida cierra su intervención, sin mostrar todavía un encuentro o una conversación entre ambos.",
+  "participantes": [
+    "Banzo"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1364509070027132998",
+      "afirmacion": "Banzo sitúa retrospectivamente su despertar, baño y viaje hacia Ukyio para informarse sobre Wukong.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Leído íntegro el único mensaje. «Varias horas antes» es una indicación narrativa relativa, no una hora precisa que permita mover el registro de fuente.",
+    "Cierra la presencia de Banzo dormido en k-1364164686148403261, separada por el corte automático entre fechas/capítulos. Se recomienda vincular ambos fragmentos sin modificar su intervalo fuente.",
+    "Wukong es el destinatario buscado, no un participante presente en el fragmento. No consta que la reunión ocurra."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2025-04-23T07:51:53.647000+00:00",
+  "fin_utc": "2025-04-23T07:51:53.647000+00:00",
+  "fecha_local": "2025-04-23",
+  "intervalo": {
+    "anterior": 107,
+    "siguiente": 108,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1364309009938645093",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1364670948451811419",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 107,
+        "fecha": "2025-04-22",
+        "inicio_referencia_utc": "2025-04-22T18:36:39+00:00",
+        "fin_estimado_utc": "2025-04-22T20:27:04+00:00",
+        "duracion_video_segundos": 6625,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1364309009938645093"
+      },
+      {
+        "capitulo": 108,
+        "fecha": "2025-04-23",
+        "inicio_referencia_utc": "2025-04-23T18:34:49+00:00",
+        "fin_estimado_utc": "2025-04-23T21:43:30+00:00",
+        "duracion_video_segundos": 11321,
+        "tipo_referencia": "aviso_de_contraste",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1364670948451811419"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida. Una hora tomada de un aviso con título discrepante se utiliza solo como referencia aproximada de ese día."
+  },
+  "fuentes": [
+    {
+      "id": "1364509070027132998",
+      "fecha_utc": "2025-04-23T07:51:53.647000+00:00",
+      "fecha_local": "2025-04-23",
+      "editado_utc": null,
+      "texto": "Banzo: (Varias horas antes) **Banzo se habría despertado,  fue a bañarse y se dirigió hacia Ukyio para saber como avanzaba la redención de su amigo Wukong <@220602485977382912> **\n\n\n\n❌  Banzo sale de la escena ❌",
+      "mensaje_sha256": "bfab6005dfa72d2ad9caf14accbc5de7725df262af9dceb9872b16dfbb912b0f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1364509070027132998",
+      "texto_sha256": "3490a8d6b083e0d9d9fd9375c8c36332b8788edca09aa712560155e5e6691698",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,420 @@
+{
+  "hilo_id": "1374669340254928906",
+  "hilo": "??? - Entre montañas",
+  "campana": "kuroto",
+  "unidades_leidas": 1,
+  "alcance": "Lectura completa de la única unidad del hilo, sus 52 mensajes y el adjunto visual, publicada el 21 de mayo de 2025. Los pendientes se limitan al cierre de esta fuente y deben cotejarse con las continuaciones en Sho.",
+  "identidades": [
+    {
+      "nombre": "Maroxi",
+      "alias": [
+        "Señorito Ayala"
+      ],
+      "pruebas": [
+        "1374677041517166592"
+      ],
+      "nota": "Danifae emplea Ayala al dirigirse a Maroxi. No se identifican el ser que dice llevar dentro ni la procedencia de su cristal.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1374677041517166592",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T09:15:46.962000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374677041517166592"
+        }
+      ]
+    },
+    {
+      "nombre": "Ralph",
+      "alias": [],
+      "pruebas": [
+        "1374675402332835880"
+      ],
+      "nota": "Pequeño robot que salva a Archi de las rocas; no se equipara a otros constructos.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1374675402332835880",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T09:09:16.150000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374675402332835880"
+        }
+      ]
+    },
+    {
+      "nombre": "Jhin",
+      "alias": [
+        "Jihn"
+      ],
+      "pruebas": [
+        "1374669340254928906",
+        "1374670134936997898",
+        "1374671233765081149"
+      ],
+      "nota": "La apertura usa Jihn, y los rótulos y acciones posteriores Jhin para el compañero herido tras el derrumbe.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1374669340254928906",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T08:45:10.838000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374669340254928906"
+        },
+        {
+          "mensaje_id": "1374670134936997898",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T08:48:20.305000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374670134936997898"
+        },
+        {
+          "mensaje_id": "1374671233765081149",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T08:52:42.286000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374671233765081149"
+        }
+      ]
+    }
+  ],
+  "arcos": [
+    {
+      "nombre": "Un rescate interrumpido por el regreso de Maroxi",
+      "avance": "El grupo cree que Maroxi falta tras salvar a Jhin. Kalista intenta retirar escombros con viento, pero él reaparece vivo y ella detiene la magia. Danifae esquiva las rocas y Ralph libra a Archi del peligro.",
+      "pruebas": [
+        "1374669340254928906",
+        "1374674600025129020",
+        "1374674700038570084",
+        "1374675402332835880",
+        "1374675946841571359"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1374669340254928906",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T08:45:10.838000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374669340254928906"
+        },
+        {
+          "mensaje_id": "1374674600025129020",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T09:06:04.865000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374674600025129020"
+        },
+        {
+          "mensaje_id": "1374674700038570084",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T09:06:28.710000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374674700038570084"
+        },
+        {
+          "mensaje_id": "1374675402332835880",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T09:09:16.150000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374675402332835880"
+        },
+        {
+          "mensaje_id": "1374675946841571359",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T09:11:25.971000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374675946841571359"
+        }
+      ]
+    },
+    {
+      "nombre": "El pergamino de Danifae",
+      "avance": "Maroxi devuelve el pergamino que Danifae reclama y recupera sus armas. Se sorprende del nivel mágico y piensa en privado sobre su interés; el contenido no se explica.",
+      "pruebas": [
+        "1374675698433921074",
+        "1374676462602289243",
+        "1374677041517166592",
+        "1374678828441403392"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1374675698433921074",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T09:10:26.746000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374675698433921074"
+        },
+        {
+          "mensaje_id": "1374676462602289243",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T09:13:28.938000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374676462602289243"
+        },
+        {
+          "mensaje_id": "1374677041517166592",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T09:15:46.962000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374677041517166592"
+        },
+        {
+          "mensaje_id": "1374678828441403392",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T09:22:52.998000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374678828441403392"
+        }
+      ]
+    },
+    {
+      "nombre": "El cristal rajado y el regreso a Sho",
+      "avance": "El transporte del grupo produce un crujido y los deja a un kilómetro de Sho, fuera de la base. El cristal está dañado. Kalista intenta orientarse, ve a Banzo en un lago y finalmente siguen al cuervo de Maroxi hasta la ciudad.",
+      "pruebas": [
+        "1374681381183160320",
+        "1374681941512556554",
+        "1374682340709896242",
+        "1374685823223468063",
+        "1374687190210314251",
+        "1374703684780556420"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1374681381183160320",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T09:33:01.619000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374681381183160320"
+        },
+        {
+          "mensaje_id": "1374681941512556554",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T09:35:15.212000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374681941512556554"
+        },
+        {
+          "mensaje_id": "1374682340709896242",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T09:36:50.388000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374682340709896242"
+        },
+        {
+          "mensaje_id": "1374685823223468063",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T09:50:40.684000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374685823223468063"
+        },
+        {
+          "mensaje_id": "1374687190210314251",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T09:56:06.599000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374687190210314251"
+        },
+        {
+          "mensaje_id": "1374703684780556420",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T11:01:39.211000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374703684780556420"
+        }
+      ]
+    }
+  ],
+  "pendientes": [
+    {
+      "pregunta": "¿Se reparará el cristal de Maroxi y cuál es la causa exacta de su inestabilidad? La atribución a explosiones procede de él.",
+      "pruebas": [
+        "1374683100696674384",
+        "1374684483781001298"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1374683100696674384",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T09:39:51.583000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374683100696674384"
+        },
+        {
+          "mensaje_id": "1374684483781001298",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T09:45:21.336000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374684483781001298"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué contiene y permite el pergamino recuperado por Danifae?",
+      "pruebas": [
+        "1374676462602289243",
+        "1374677041517166592"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1374676462602289243",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T09:13:28.938000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374676462602289243"
+        },
+        {
+          "mensaje_id": "1374677041517166592",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T09:15:46.962000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374677041517166592"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿De dónde proceden los gruñidos al acercarse a la base? La fuente remite expresamente a otros canales.",
+      "pruebas": [
+        "1374703684780556420",
+        "1374703870428577864"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1374703684780556420",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T11:01:39.211000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374703684780556420"
+        },
+        {
+          "mensaje_id": "1374703870428577864",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T11:02:23.473000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374703870428577864"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Alguien volverá a Ukiyo a avisar a Inugami como plantea Jhin?",
+      "pruebas": [
+        "1374682773251424330"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1374682773251424330",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T09:38:33.514000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374682773251424330"
+        }
+      ]
+    }
+  ],
+  "relaciones": [
+    {
+      "personas": [
+        "Maroxi",
+        "Jhin"
+      ],
+      "desarrollo": "La apertura acredita que Maroxi lo salvó tras el golpe de Danifae. Jhin quiere quedarse para sacarlo y se alivia cuando reaparece.",
+      "pruebas": [
+        "1374669340254928906",
+        "1374672657886216222",
+        "1374675283671519243"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1374669340254928906",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T08:45:10.838000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374669340254928906"
+        },
+        {
+          "mensaje_id": "1374672657886216222",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T08:58:21.823000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374672657886216222"
+        },
+        {
+          "mensaje_id": "1374675283671519243",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T09:08:47.859000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374675283671519243"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Kalista",
+        "Jhin",
+        "Maroxi"
+      ],
+      "desarrollo": "Kalista actúa con urgencia por la seguridad de ambos; Jhin cuestiona el riesgo de mover una cueva inestable y después comparte relatos de viajes durante el regreso.",
+      "pruebas": [
+        "1374673475582693376",
+        "1374677880474304563",
+        "1374691136991395890",
+        "1374693590265102437"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1374673475582693376",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T09:01:36.777000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374673475582693376"
+        },
+        {
+          "mensaje_id": "1374677880474304563",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T09:19:06.985000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374677880474304563"
+        },
+        {
+          "mensaje_id": "1374691136991395890",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T10:11:47.585000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374691136991395890"
+        },
+        {
+          "mensaje_id": "1374693590265102437",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T10:21:32.491000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374693590265102437"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Kalista",
+        "Danifae"
+      ],
+      "desarrollo": "Kalista no le advierte del viento y luego evita su contacto; Danifae la observa y sonríe, sin resolverse esa desconfianza.",
+      "pruebas": [
+        "1374674600025129020",
+        "1374679304478261299",
+        "1374680078449119314"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1374674600025129020",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T09:06:04.865000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374674600025129020"
+        },
+        {
+          "mensaje_id": "1374679304478261299",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T09:24:46.494000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374679304478261299"
+        },
+        {
+          "mensaje_id": "1374680078449119314",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T09:27:51.023000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374680078449119314"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Archi",
+        "Ralph"
+      ],
+      "desarrollo": "El robot eleva al inventor por los bigotes para impedir que lo alcancen las rocas.",
+      "pruebas": [
+        "1374675402332835880"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1374675402332835880",
+          "escena": "k-1374669340254928906",
+          "fecha_utc": "2025-05-21T09:09:16.150000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1374669340254928906/1374675402332835880"
+        }
+      ]
+    }
+  ],
+  "precauciones_editoriales": [
+    "La noche y el exterior montañoso se describen en la narración; la imagen solo muestra una entrada de cueva entre árboles y roca, sin personajes.",
+    "El sacrificio recordado al inicio no significa que Maroxi muera: reaparece vivo inmediatamente después.",
+    "Los pensamientos privados de Maroxi y Kalista no se convierten en diálogo conocido por los demás.",
+    "Banzo solo es observado a distancia en el lago y no conversa en este hilo.",
+    "La apertura tiene menciones de Discord inconsistentes; los rótulos y acciones identifican a Jhin como herido, sin modificar el original.",
+    "No se fabrica un final para el ruido de la base ni un contenido del pergamino. La continuidad debe resolverse con las fuentes de Sho."
+  ],
+  "estado_seguimiento": "al_cierre_del_hilo",
+  "nota_seguimiento": "Cada cuestión conserva el contexto de sus mensajes originales. Los cotejos enlazan las respuestas halladas en otras escenas; la ausencia de un cotejo no demuestra que siga abierta después de otros capítulos.",
+  "fecha_hasta_utc": "2025-05-21T11:02:23.473000+00:00"
+}

@@ -1,0 +1,329 @@
+{
+  "id": "x-1547906697228722229",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1547906697228722229",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "Ione alivia el peso de proteger a todos",
+  "resumen": "Tras una lucha con no muertos, Ilikar cuestiona la actitud de sus aliados y acepta el consejo de conocerlos antes de juzgarlos.",
+  "relato": "Ilikar se sienta herido en el muelle después de una lucha con no muertos. Le pesa más la impotencia que el dolor: teme que Iktan pague el precio de proteger a los elfos reclamados por el dragón. Juzga con dureza la sonrisa de Tryel ante el peligro y el aislamiento de Eldrath, pero esas valoraciones pertenecen a su estado de ánimo, no a una sentencia sobre sus motivos.\n\nIone lo encuentra llorando y le ofrece apoyo. Él intenta fingir orgullo por su fuerza, hasta admitir lo difícil que resulta proteger a otros cuando duda de sus propios aliados. La capitana le responde que no necesita cargar solo y le aconseja averiguar qué buscan sus camaradas antes de decidir cómo acompañarlos. Habla de su propio remordimiento por no haber comprendido a un amigo antes de perderlo.\n\nEl goliat acepta que ha juzgado a los elfos solo por su manera de combatir y se propone hablar con ellos al día siguiente. Ambos se abrazan y bromean sobre el olor y las posibles peleas. Cuando Ilikar se queda dormido por agotamiento, Ione empieza a arrastrarlo hacia la taberna. La conversación cierra con consuelo y una intención de diálogo, sin mostrar todavía esa reconciliación ni curar sus heridas.",
+  "participantes": [
+    "Ilikar",
+    "Ione"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1547914359978721351",
+      "afirmacion": "Ilikar pregunta si sus ideales le exigen proteger a personas por quienes no merece la pena luchar.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1547919995701297193",
+      "afirmacion": "Ione le aconseja conocer los objetivos de sus compañeros antes de juzgarlos.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1547928528404881512",
+      "afirmacion": "Ilikar decide hablar con los elfos al día siguiente.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1547935757149274203",
+      "afirmacion": "Ione arrastra al goliat dormido hacia la taberna.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La batalla previa solo aparece por sus consecuencias y recuerdos, no se reconstruye como combate revisado.",
+    "El vínculo explícito es capitana–tripulante y amistad de apoyo; el abrazo no demuestra una relación romántica.",
+    "Las bromas finales no convierten al goliat dormido en cadáver."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-09-11T09:48:35.335000+00:00",
+  "fin_utc": "2026-09-11T11:45:04.631000+00:00",
+  "fecha_local": "2026-09-11",
+  "intervalo": {
+    "anterior": 60,
+    "siguiente": 61,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1547671000508928031",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1548030716158152747",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 60,
+        "fecha": "2026-09-10",
+        "inicio_referencia_utc": "2026-09-10T18:11:36+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1547671000508928031"
+      },
+      {
+        "capitulo": 61,
+        "fecha": "2026-09-11",
+        "inicio_referencia_utc": "2026-09-11T18:00:47+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1548030716158152747"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1547906697228722229",
+      "fecha_utc": "2026-09-11T09:48:35.335000+00:00",
+      "fecha_local": "2026-09-11",
+      "editado_utc": "2026-09-11T09:53:37.199000+00:00",
+      "texto": "**El muelle estaba en silencio, completamente ajeno a la masacre de hacía unas horas. Ilikar se dejó caer en el borde. Las maderas crujieron bajo su peso, pero apenas se notó. El goliath dejó la mirada vacía sobre el agua mansa y cristalina del lago.**\n\n**Le dolían los huesos y la piel le ardía por la putrefacción de los no muertos, pero habría preferido tener las costillas hechas polvo antes que cargar con la impotencia que le ahogaba.**\n\n**Una gota de sangre escurrió por su barbilla y cayó con un leve chasquido. Apretó las mandíbulas. Luego otra, brotando de su hombro. El rojo comenzó a disolverse en el agua, enturbiando la pureza del lago y desdibujando su rostro.**\n\n**Así era exactamente como se sentía. La sangre estaba manchando Iktan. Él jamás le daría la espalda a los hermanos. Preferiría morir antes que entregar a nadie a las fauces de un dragón. Su código no se negociaba y su naturaleza le obligaba a ser el escudo de todos, y siempre lo sería. Pero ser un escudo pesa demasiado cuando a quienes proteges les da exactamente igual el precio.**\n\n**La tribu va siempre por delante, y la aldea no era un ejército... eran familias. Ver a Tyrel sonriendo ante la muerte como si fuera una broma, y a Eldrath peleando como un fantasma solitario, ajeno a los que caían a su alrededor, le partía el alma.**\n\n**El miedo no sabe de honor, y tarde o temprano, iba a quebrar a la gente de la aldea. Lo que de verdad le destrozaba era saber que el día que los aldeanos decidieran entregar a los elfos a la bestia para salvar a sus hijos, él no iba a tener argumentos para culparlos.**\n\n**Una lágrima terminó por escapar. Resbaló despacio. Le ardió mas que el veneno al colarse por los tajos de su piel... trazando un camino hasta caer al vacío**\n\n** Y al chocar contra el agua, la mancha oscura se quebró. Quedó barrida de golpe por la crudeza de su propia tristeza. **\n\n<@616683133374562304> o <@220602485977382912> (el que quiera, aunque si luego se quiere unir el otro incluso mejor uwu) o <@753394009153732689> si es con Ione (en verdad cualquiera que sea amigo de ilikar)",
+      "mensaje_sha256": "f412ef2759199e1acc61bd0b668b5e0ab41140dc670bbf528908c8a96076dc52",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1547906697228722229",
+      "texto_sha256": "9a3c0d940599cab02277d6cd526efca2657368c1c71be7694f9992ba89d62bd2",
+      "adjuntos": []
+    },
+    {
+      "id": "1547909365040685077",
+      "fecha_utc": "2026-09-11T09:59:11.391000+00:00",
+      "fecha_local": "2026-09-11",
+      "editado_utc": "2026-09-11T10:02:14.270000+00:00",
+      "texto": "Ione: **Habia salido de la taberna... Se habia cogido tal cogorza que se habia quedado frita con los de su tripulacion... Tampoco es que ellos quisieran despertarla para que fuera a pelear porque estaban acojonados. Se fue acercando al muelle, iba con el ceño fruncido como una niña a punto de protestar por haberse perdido la pelea... Hasta que se fijo en esas lagrimas y su gesto se relajo. Se acerco a ti poniendote una mano en él hombro.**\n\nIlikar... ¿Que ha pasado?\n\n**Dijo con un tono de voz tranquilo.**",
+      "mensaje_sha256": "48d3645ebc93b0c6ffaff4e199e3d43be93c2be7a264671f821e3eb1669678ab",
+      "tipo_discord": 19,
+      "referencia": "1547906697228722229",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1547909365040685077",
+      "texto_sha256": "8c90e7bfa0af32e7e2eba896d78e9e930de3e2f1059dd0386cbdebd107542d35",
+      "adjuntos": []
+    },
+    {
+      "id": "1547911667109863448",
+      "fecha_utc": "2026-09-11T10:08:20.247000+00:00",
+      "fecha_local": "2026-09-11",
+      "editado_utc": "2026-09-11T10:08:32.980000+00:00",
+      "texto": "**El toque en el hombro le hizo tensarse por instinto. Al escuchar su voz, Ilikar se paso rápidamente el dorso de la mano por la mejilla, borrando el rostro de la lágrima, manchándose la piel de sangre seca**\n\n**Tardó un poco en girarse y al mirarla, sus ojos reflejaban... cansancio**\n\nIlikar: Capitana... - **murmuró, con la voz cansada y temblorosa** - Ilikar ha demostrado su fuerza una... vez más - **sonrió con una sonrisa tan perfecta como vacía.**",
+      "mensaje_sha256": "cbc72e998f7185b077bcba529a9c7bc1bab532b2123c263c2d8b121081903a2c",
+      "tipo_discord": 19,
+      "referencia": "1547909365040685077",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1547911667109863448",
+      "texto_sha256": "804ceeec00509b045304069c1d57014add4b62f7db8fc3e9c34483475157378b",
+      "adjuntos": []
+    },
+    {
+      "id": "1547913933208166472",
+      "fecha_utc": "2026-09-11T10:17:20.527000+00:00",
+      "fecha_local": "2026-09-11",
+      "editado_utc": null,
+      "texto": "Ione: **Se le quedo mirando a los ojos sintiendo como se le oprimia el corazon de ver a uno de los suyos asi...**\n\nSabes que no preguntaba por eso grumete...\n\n**Le paso un brazo por los hombros para acobijarlo un poco... Aunque seguia siendo mas pequeña.**\n\nNo necesitas ocultar tus lagrimas... Tu ya vistes las mias...¿Por que lloras? ¿Que te ha pasado?",
+      "mensaje_sha256": "e81c64bb02fea3b2f65641cea881c4a7f0830ae800bf564c5abf68089bd4a16c",
+      "tipo_discord": 19,
+      "referencia": "1547911667109863448",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1547913933208166472",
+      "texto_sha256": "68ee2c44708d692efa67bb3ecb98ab3d85760dc2da50274f787eb1b1607bed39",
+      "adjuntos": []
+    },
+    {
+      "id": "1547914359978721351",
+      "fecha_utc": "2026-09-11T10:19:02.277000+00:00",
+      "fecha_local": "2026-09-11",
+      "editado_utc": null,
+      "texto": "**La sonrisa vacía de Ilikar no pudo soportar el peso de aquel gesto. Tembló un instante antes de desmoronarse por completo.**\n\n**El goliath, a pesar de ser más grande, dejó caer ligeramente los hombros, cediendo una mínima parte de su peso hacia el lado de su capitana, buscando refugio en ese brazo que apenas le abarcaba la espalda.**\n\nIlikar: Es tan difícil... - **su voz se quebró por un segundo, obligándole a detenerse** - Es tan difícil intentar proteger a la gente... mientras mis propios aliados... \n\n**El gigante negó con la cabeza**\n\nIlikar: ¿Intento hacer mas de lo que puedo capitana? Quizás... mis ideales... ¿quizás hay gente por la que no haya que luchar?",
+      "mensaje_sha256": "2e4702ff346345e7b4df3c37498306f91fab4a2e9f030bc5866bd6923affb223",
+      "tipo_discord": 19,
+      "referencia": "1547913933208166472",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1547914359978721351",
+      "texto_sha256": "b1fc504f0c238143eae0ead76557eb781707a483ee6c04a1b6d52fa9793963f5",
+      "adjuntos": []
+    },
+    {
+      "id": "1547919995701297193",
+      "fecha_utc": "2026-09-11T10:41:25.938000+00:00",
+      "fecha_local": "2026-09-11",
+      "editado_utc": "2026-09-11T10:43:37.861000+00:00",
+      "texto": "Ione: **Se quedo en silencio unos segundos... Sabia la respuesta para eso.**\n\nSiempre es dificil ser el que protege a todos... Ser el que se planta delante a recibir los golpes mientras ves a los tuyos tambien luchar...\n\n**Lo aprieta un poco contra ella de forma protectora.**\n\nNo creo que tus ideales esten mal, tienes un corazon mas grande que tu propio cuerpo grandullon. Y no creo que el problema sea que estes intentando demasiado... Si no que estas poniendo demasiado peso sobre tus hombros para cargarlo tu solo.\n\n**Sus dedos trazaron circulos en tu hombro de forma tranquilizadora.**\n\nNo soy la mejor para decirte por quien luchar y sacrificarse... Ultimamente hasta yo estoy... Fallando a los mios...\n\n**Penso en Nox y en su tripulacion.**\n\nSolo se... Que antes de decidir si alguien de los que considero mios merece o no que lo proteja... Es saber si sus objetivos y los mios aunque distintos... Lleven el mismo rumbo... Conocer mejor a tus camaradas te hace saber ante quien ponerte delante, ante quien ponerse a su lado... O dejarlo partir... Yo no lo hice y mi mejor amigo murio despues de que discutieramos porque no supe que queria... Porque no vi que aun separados llevamos el mismo rumbo...\n\n**Suspiro.**\n\nConoce por quien vas a luchar... Y cuando lo sepas decide",
+      "mensaje_sha256": "de4ff07522919e6abdedbe4eb628557f0e1fa369bfeaca544ede2d80f15f07b0",
+      "tipo_discord": 19,
+      "referencia": "1547914359978721351",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1547919995701297193",
+      "texto_sha256": "b5684c3d42af07e4ddd5ade6912b840f52e6cb14b2d8c48489ab6b3a4db6eef6",
+      "adjuntos": []
+    },
+    {
+      "id": "1547923113105428595",
+      "fecha_utc": "2026-09-11T10:53:49.185000+00:00",
+      "fecha_local": "2026-09-11",
+      "editado_utc": null,
+      "texto": "**Ilikar se quedó inmóvil bajo su abrazo, sintiendo cómo esas palabras le calaban más hondo que cualquier golpe que hubiera recibido en la batalla. Dejó escapar un suspiro hondo, que le sacudió el pecho herido, y asintió muy despacio.**\n\nIlikar: No estás fallando, capitana... estás aquí - **dijo, devolviéndole una mínima parte del consuelo.**\n\n**Se incorporó lentamente, respirando el aire frío de la noche, sintiendo que el pecho ya no le apretaba tanto...**\n\nIlikar: Tienes razón. He juzgado a esos elfos por cómo pelean, no por lo que buscan. Quizás... detrás de esa sonrisa idiota, detrás del silencio de Eldrath, hay algo más...",
+      "mensaje_sha256": "f2c02e28be3b7c74604833f4fa72bb4bf6f711530243067b3913c7276425467d",
+      "tipo_discord": 19,
+      "referencia": "1547919995701297193",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1547923113105428595",
+      "texto_sha256": "342b71f6d0cfda05603b9b0a992c82f11f4a61957216828ce6fd0032fb10fc6d",
+      "adjuntos": []
+    },
+    {
+      "id": "1547923899524714576",
+      "fecha_utc": "2026-09-11T10:56:56.682000+00:00",
+      "fecha_local": "2026-09-11",
+      "editado_utc": "2026-09-11T10:57:06.755000+00:00",
+      "texto": "Ione: si los conociera te podria orientar mas... Pero no los conozco...\n\n**Su mano se retiro de sus hombros pero su mirada de tus ojos no.**\n\n¿Estas bien? ¿Necesitas un abrazo a antes de hacer lo que tengas que hacer?",
+      "mensaje_sha256": "009bf5f9e4878e44a2225d587096907c500f0231119bc853602b3406b12a8a8d",
+      "tipo_discord": 19,
+      "referencia": "1547923113105428595",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1547923899524714576",
+      "texto_sha256": "763dac36f1114df33ddef58533d78c21ba0159e180d958996514870ad40e6416",
+      "adjuntos": []
+    },
+    {
+      "id": "1547924493853261855",
+      "fecha_utc": "2026-09-11T10:59:18.381000+00:00",
+      "fecha_local": "2026-09-11",
+      "editado_utc": null,
+      "texto": "**El goliath bajó la mirada hacia su propio pecho, cubierto de polvo, mugre y cortes que aún supuraban. Luego miró a Ione y esbozó una media sonrisa, esta vez real, aunque cargada de cansancio.**\n\nIlikar: Te vas a manchar de sangre de muerto, capitana... -**dijo con la voz suave y profunda.**-",
+      "mensaje_sha256": "4a4048b09ecf24a6f7f0feac045c815d45612cbcbe9ad1370b85251c60356340",
+      "tipo_discord": 19,
+      "referencia": "1547923899524714576",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1547924493853261855",
+      "texto_sha256": "5ed8d94603299b0d5e070a2e5fc6223d9934acd46c4f25809d791b4e27d3b53d",
+      "adjuntos": []
+    },
+    {
+      "id": "1547925058708709469",
+      "fecha_utc": "2026-09-11T11:01:33.053000+00:00",
+      "fecha_local": "2026-09-11",
+      "editado_utc": null,
+      "texto": "Ione: **Le sonrio suave mostrando esos caninos un poco mas desarroyados de lo normal.**\n\n¿Tu te crees que me importa? Aun no me he dado el baño del mes y no pienso darmelo pronto\n\n**Extendio sus brazos a él.**\n\nAnda ven.",
+      "mensaje_sha256": "3303988b93978a2673e5419e47f78d1a80f7b03a7e288aa7bb176783b8173764",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1547925058708709469",
+      "texto_sha256": "244d44e0dc43875ce43480bb4aad1e2061dd80a0e35290dc2a2c00dc78b84547",
+      "adjuntos": []
+    },
+    {
+      "id": "1547926199295156315",
+      "fecha_utc": "2026-09-11T11:06:04.990000+00:00",
+      "fecha_local": "2026-09-11",
+      "editado_utc": "2026-09-11T11:07:23.410000+00:00",
+      "texto": "**Ilikar soltó una risa suave y rota. La primera de verdad en toda la noche.**\n\nIlikar: Eres un desastre, capitana... \n\n**La abrazó. Apoyó la barbilla en su hombro y cerró los ojos un instante, respirando hondo. Olía a taberna, alcohol barato y sudor, pero para aquella enorme piedra de color cobalto, supo a hogar.**\n\nIlikar: Si... te hace falta ese baño - **susurró antes de separarse despacio** - gracias, Ione.",
+      "mensaje_sha256": "a043911ce55e419dc66175f2f33885a247475d997dbf82996378be907d184b73",
+      "tipo_discord": 19,
+      "referencia": "1547925058708709469",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1547926199295156315",
+      "texto_sha256": "46c9928e0d592d0c272425252b7f88ccf1485bf1e8e5638315b46555fc2bbe54",
+      "adjuntos": []
+    },
+    {
+      "id": "1547927457368379403",
+      "fecha_utc": "2026-09-11T11:11:04.938000+00:00",
+      "fecha_local": "2026-09-11",
+      "editado_utc": null,
+      "texto": "Ione: **Sus manos acariciaron tu espalda.**\n\nLo soy pero hago lo que puedo y no voy a bañarme ni de coña... Aun me queda un mes\n\n**Al separarse te dio una palmadita en la espalda.**\n\nNo me las des, soy tu capitana, mi deber es ayudaros en vuestros problemas y daros apoyo.\n\n**Sonrio con esa sonrisa suya tan caracteristica.**\n\nTambien me gusta hacerlo.",
+      "mensaje_sha256": "0a981afde2b967cd1c98477beefc8a8663f01e622910a4a915e081dc10201185",
+      "tipo_discord": 19,
+      "referencia": "1547926199295156315",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1547927457368379403",
+      "texto_sha256": "0e58c326d2051c778b53be4ceb34dc0818474bd024db6ddd9adbee6d5b60fabb",
+      "adjuntos": []
+    },
+    {
+      "id": "1547928528404881512",
+      "fecha_utc": "2026-09-11T11:15:20.293000+00:00",
+      "fecha_local": "2026-09-11",
+      "editado_utc": null,
+      "texto": "**Cruzó los brazos sobre el pecho y levantó la vista hacia el cielo despejado.**\n\nIlikar: Hablaré con esos elfos mañana... El aire del lago se siente mejor ahora.\n\n**Cerró los ojos para saborear ese momento de paz, que tanto necesitaba**",
+      "mensaje_sha256": "b1d9391065f88b7a0b081c6dc009be90b6074930cdf18bc257aba35b12d4b3a4",
+      "tipo_discord": 19,
+      "referencia": "1547927457368379403",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1547928528404881512",
+      "texto_sha256": "985a211327df8252b0d038e5ddb211139715cb17e60551ecf936f54af35f92df",
+      "adjuntos": []
+    },
+    {
+      "id": "1547929257718583307",
+      "fecha_utc": "2026-09-11T11:18:14.175000+00:00",
+      "fecha_local": "2026-09-11",
+      "editado_utc": null,
+      "texto": "Ione: Si necesitas convencerlos a puños o solo quieres pegarlos avisame... Que esta ultima pelea me la he perdido porque no me han despertado.\n\n**Fruncio el ceño sin estar enfada.**",
+      "mensaje_sha256": "6cfc4aacababb8bd69ecdb45c701db823421f6dc04f20e67280accc3bf0c799f",
+      "tipo_discord": 19,
+      "referencia": "1547928528404881512",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1547929257718583307",
+      "texto_sha256": "c8d2b126e90dfac991d0ebfd2ca024add720a445ec1a2d6218dd158e23bd0631",
+      "adjuntos": []
+    },
+    {
+      "id": "1547932590294700075",
+      "fecha_utc": "2026-09-11T11:31:28.723000+00:00",
+      "fecha_local": "2026-09-11",
+      "editado_utc": null,
+      "texto": "**El goliath no pudo evitar sonreír de lado.**\n\nIlikar: Trato hecho, capitana. Si hay que romperles esa sonrisa a golpes... - **pausó brevemente, al sentir un pinchazo en el hígado** - te dejaré hacer los honores.\n\n**Dejó caer su cuerpo en el muelle, mirando aquel cielo despejado.**\n\nIlikar: Creo que ahora mismo... ni siquiera una horda entera de zombis lograría levantarme de esta madera. Me pesan hasta los párpados, capitana.",
+      "mensaje_sha256": "015e600ff511a5b1a5f7404d27e150199e186bdfab942a8df38e78e08f00f00d",
+      "tipo_discord": 19,
+      "referencia": "1547929257718583307",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1547932590294700075",
+      "texto_sha256": "5006437468930c96638ec805fc6aec8ff3b239e90e499229b2b8208211c3d842",
+      "adjuntos": []
+    },
+    {
+      "id": "1547933699457286205",
+      "fecha_utc": "2026-09-11T11:35:53.168000+00:00",
+      "fecha_local": "2026-09-11",
+      "editado_utc": "2026-09-11T11:36:01.381000+00:00",
+      "texto": "Ione: **Abre los ojos ampliamente ¿Esas tripas son de un muerto o son suyas?.**\n\nEh! Nada de dormirse ahora.\n\n**Le toma del brazo y empieza a arrastrarlo por todo el suelo... Arañando tu espalda... Espero que Naor no malinterprete esos arañazos por tu bien y el de la perra.**",
+      "mensaje_sha256": "d26b19cf1d0588c428ebf0c98cd93812de21c1aad0c85823593a22080c86208b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1547933699457286205",
+      "texto_sha256": "5bf4b981511bef457a3eaaa115d62523da478c6c41d2a16dffd995da1a3e702a",
+      "adjuntos": []
+    },
+    {
+      "id": "1547935435681177721",
+      "fecha_utc": "2026-09-11T11:42:47.116000+00:00",
+      "fecha_local": "2026-09-11",
+      "editado_utc": null,
+      "texto": "**Abrió un ojo a duras penas, enfocando la figura borrosa de su capitana.**\n\nIlikar: La mitad son mías... la otra mitad... se las quité prestadas... —balbuceó con la lengua pesada.\n\n**Esbozó una media sonrisa idiota, ajeno por completo al drama que se le venía encima si Naor veía las marcas en su espalda. Antes de que Ione pudiera avanzar un palmo más tirando de él, los párpados de Ilikar cayeron como dos losas de piedra. El goliath se quedó frito sobre las maderas del muelle, roncando a pierna suelta, como si estuviera sobre un lecho de plumas. **",
+      "mensaje_sha256": "0513a5432ed5df7ff54042424a69d2464a870ee2bb8ed1171ca8df3f3b63f873",
+      "tipo_discord": 19,
+      "referencia": "1547933699457286205",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1547935435681177721",
+      "texto_sha256": "4db365376338d9170b436ee417b0efd25f6e50763c75d133806f24257ae85a16",
+      "adjuntos": []
+    },
+    {
+      "id": "1547935757149274203",
+      "fecha_utc": "2026-09-11T11:44:03.760000+00:00",
+      "fecha_local": "2026-09-11",
+      "editado_utc": "2026-09-11T11:44:30.358000+00:00",
+      "texto": "Ione: **Arrastrando lo que esperaba que no fuera un muerto a la taberna. Piqui piqui piqui**",
+      "mensaje_sha256": "63394c8d5cee55b2588b5421ca63b04bb6fbda0cfcddf7fb0f851def3ba29952",
+      "tipo_discord": 19,
+      "referencia": "1547935435681177721",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1547935757149274203",
+      "texto_sha256": "d5d29cb475ba774b2a589e8f72f9a1a23bc5dfd9156e75d80b2ac863427ffdf7",
+      "adjuntos": []
+    },
+    {
+      "id": "1547936012460761089",
+      "fecha_utc": "2026-09-11T11:45:04.631000+00:00",
+      "fecha_local": "2026-09-11",
+      "editado_utc": null,
+      "texto": "🔴 **Fin de escena**🔴",
+      "mensaje_sha256": "923a52508122a2e05d6b7d5fa90ec00cb33eb26677bbd2551d8c1ea7283ec184",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1547936012460761089",
+      "texto_sha256": "0e513b9a495850850524d0965f55df051cd0b6a138120693016da3f3ffd42ccd",
+      "adjuntos": []
+    }
+  ]
+}

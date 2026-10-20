@@ -1,0 +1,78 @@
+{
+  "id": "x-1505862190089900063",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1505862190089900063",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "Poncelot guarda a los marines para el juicio",
+  "resumen": "Aún vivos, quedan atados ante el local de Liz.",
+  "relato": "Poncelot sale del establecimiento de Liz herido y furioso tras reducir a tres marines. Los arroja a la calle atados entre sí, pero vivos, y golpea a uno con el extremo romo de la lanza. Considera el local un juzgado y a sus ocupantes magistradas, de acuerdo con su visión caballeresca. Aunque amenaza con ejecutarlos, dice que no le corresponde ser juez ni verdugo y promete llevarlos ante Liz y Bonny. Se sienta a recuperar el aliento. No se celebra un juicio ni se narra una ejecución.",
+  "participantes": [
+    "Sir Poncelot",
+    "Marines cautivos"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1505862190089900063",
+      "afirmacion": "Mantiene vivos a tres cautivos y aplaza su castigo.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Dos viñetas independientes, con cambio de lugar y fecha."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2026-05-18T09:18:43.684000+00:00",
+  "fin_utc": "2026-05-18T09:18:43.684000+00:00",
+  "fecha_local": "2026-05-18",
+  "intervalo": {
+    "anterior": 32,
+    "siguiente": 33,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1504914757835030579",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1506363085538201671",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 32,
+        "fecha": "2026-05-15",
+        "inicio_referencia_utc": "2026-05-15T18:33:44+00:00",
+        "fin_estimado_utc": "2026-05-15T20:47:23+00:00",
+        "duracion_video_segundos": 8019,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1504914757835030579"
+      },
+      {
+        "capitulo": 33,
+        "fecha": "2026-05-19",
+        "inicio_referencia_utc": "2026-05-19T18:28:49+00:00",
+        "fin_estimado_utc": "2026-05-19T21:10:39+00:00",
+        "duracion_video_segundos": 9710,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1506363085538201671"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1505862190089900063",
+      "fecha_utc": "2026-05-18T09:18:43.684000+00:00",
+      "fecha_local": "2026-05-18",
+      "editado_utc": "2026-05-19T07:17:23.627000+00:00",
+      "texto": "Sir Poncelot \n\n**La puerta del local de Liz se abre de golpe con un ruido sordo. Dos segundos después de ve algo salir disparado, rodando por el suelo y posteriormente por las escaleras de madera hasta caer en un charco de dios sabe que en la calle.\n\nUnos lentos pasos metálicos suena de dentro del local. Hasta que por la puerta aparece el caballero en miniatura, con bastantes heridas y jadeando. Si cara muestra una expresión que no se le había visto aún: rabia. Con esa rabia mira lo que ha lanzado hacia la calle. Tres marines atados entre ellos con una soga, y en un estado lema table, aunque aun vivos.**\n\n- malditos rufianes, malanacudos, zarrapastrosos y malvados... Hay que tener valor para atacar un juzgado. La casa de la justicia. Pero os habéis encontrado con un muro de hierro, malvados hechiceros...\n\n**El gnomo intenta recuperar el aliento un segundo. El escudo le pesa, así que lo deja apoyado contra la pared. Su lanza. No la suelta, al contrario, la sujeta con más fuerza. Acto seguido se dispone a bajar los escalones, muy torpemente y con el sonido metálico de su armadura, bastante dañada.\n\nUna vez delante de los marines atrapados, le da un golpe en el estómago a uno de ellos con el extremo romo de la lanza**\n\n- debería ejecutaros por tamaña afrenta!! A su señoría Liz! A sus queridas magistradas!! Y sobre todo a su majestad Bonny y su amado pueblo!!! Pero no es deber de un simple caballero tomar el papel de juez ni verdugo... Juro por mi lanza y mi escudo que miraréis a los ojos a su señoría y a su majestad... Y pedireis clemencia antes de que su sagrado juicio caiga sobre vosotros!!!\n\n**Tras el discurso, que nadie escuchó ya que los marines estaban ko, dejó caer su dolorido trasero sobre el escalón del local de Liz, apoyó su lanza en su hombro y siguió recuperando el aliento**\n\n- malditos hechiceros oscuros... No tenían suficiente con maldecir a la capitana Ione y robarle la sonrisa a su majestad Bonny...",
+      "mensaje_sha256": "7f34359107b1a9ba3a18741e178a500c877ca18cb7c347f4c7bc3500bd761f7c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505862190089900063",
+      "texto_sha256": "aaf23639d667503998ba46c3dce449f79b6f6c2a595f740f5c024b4b3c5537f2",
+      "adjuntos": []
+    }
+  ]
+}

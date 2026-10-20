@@ -1,0 +1,81 @@
+{
+  "id": "x-1561356511383654422",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1561356511383654422",
+  "hilo_id": "1524091803647741996",
+  "hilo_nombre": "Jungla - En alguna parte de Xoltacán",
+  "titulo": "Un desconocido acaba en un nido sobre Tutukan",
+  "resumen": "Huida tras huida, pasa de un dinosaurio y cocodrilos a una criatura voladora y sus crías.",
+  "relato": "Un personaje sin nombre corre por la jungla perseguido por un enorme dinosaurio. Tropieza con una raíz y rueda hasta un río, donde cree haberse librado, pero tres reptiles acuáticos intentan morderlo. Al forcejear con uno sale despedido contra una palmera y cae en la orilla.\n\nMientras celebra la escapatoria, una gran criatura voladora lo levanta con sus garras. Sobrevuela la selva hasta Tutukan y lo deja en un nido en lo alto de un templo. El desconocido intenta pasar por una cría para evitar que lo ataquen.\n\nLos polluelos muestran picos enormes y dientes; uno abre la boca ante él y la viñeta cierra con un grito. No se identifica al protagonista ni se confirma que muera o consiga escapar. La cadena de infortunios mantiene su tono de comedia peligrosa.",
+  "participantes": [
+    "Personaje desconocido"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1561356511383654422",
+      "afirmacion": "El desconocido es transportado hasta un nido en Tutukan tras escapar de otros depredadores.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No identificar al personaje por el autor o por similitud con huidas anteriores.",
+    "El cierre ante las fauces no confirma muerte ni rescate."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-10-18T12:33:20.915000+00:00",
+  "fin_utc": "2026-10-18T13:43:21.287000+00:00",
+  "fecha_local": "2026-10-18",
+  "intervalo": {
+    "anterior": 72,
+    "siguiente": null,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236",
+    "siguiente_fuente": null,
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 72,
+        "fecha": "2026-10-16",
+        "inicio_referencia_utc": "2026-10-16T18:28:13+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1561356511383654422",
+      "fecha_utc": "2026-10-18T12:33:20.915000+00:00",
+      "fecha_local": "2026-10-18",
+      "editado_utc": "2026-10-18T12:33:39.008000+00:00",
+      "texto": "???: **La selva temblaba con cada pisotón del gigantesco dinosaurio que lo perseguía. ¡CRASH! ¡PUM! La criatura rugía temiblemente **\n\nAHHHHHHHHHHHHHHHHH!!! AYUDAAAAA!!!!! \n*corre corre corre corre*\n\n**Troncos, palmeras y algún que otro animal salían volando mientras la criatura rugía a sus espaldas.\nAl mirar atrás, tropezó con una raíz y cayó rodando ladera abajo hasta aterrizar de cabeza en un río.**\nVaya toña… bueno creo que lo he perdido , jeje soy un genio . \n**En ese momento se gira y ve tres pares de ojos asomando por la superficie del agua mirándole fijamente \nTres reptiles acuáticos asomaron sus fauces a escasos centímetros.**\nUps … hola .\n**la primera le intento morder , lo esquivo , la segunda hizo lo mismo pero se agarro al morro de la criatura , la tercera quiso agarrarlo con las fauces pero con el forcejeo con la otra criatura salió despedido hacia una palmera golpeándose en la cabeza y cayendo a la orilla **\nAuuuch … mi cabeza… \nBueno … me he librado, **les hace un doble fuck you a los cocodrilos cuando mira hacia abajo y ve que sus pies se han separado del suelo y cada vez esta mas alto **\nAy .. dios.. y ahora que …?\n**mira hacia arriba y ve como una criatura voladora enorme lo esta llevando con las garras **\n¡¿PERO QUÉ HE HECHO YO PARA MERECER ESTO?!\n**Bajo sus pies, la selva se convirtió en un mar verde hasta que apareció Tutukan, con sus enormes pirámides y templos. La criatura aterrizó en lo alto de uno de ellos y lo soltó en un gigantesco nido, repleto de huevos y ramitas.\nEl misterioso personaje se incorporó lentamente, tragando saliva.**\nVale… vale… Tranquilo. Si me quedo quietecito, quizá piense que soy una cría. Sí. Una cría muy fea, pero una cría al fin y al cabo…\n**Entonces se giró.\nLas crías tenían unos picos enormes, dientes afilados y una mirada que no presagiaba nada bueno.\nUna de ellas abrió la boca de par en par.**\nEnserio …Estarás de broma no …\nAHHHHHHHH ¡!!",
+      "mensaje_sha256": "1daf3593a4f631da82c125656eea0ba1632b461d920ec51a3bd76c74ba92914d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1561356511383654422",
+      "texto_sha256": "54eb446fe9a7f18a81c29e3a2cccdaa3ffa5f6bd9e5b4e60a7ca48af77dc463a",
+      "adjuntos": []
+    },
+    {
+      "id": "1561374129020608533",
+      "fecha_utc": "2026-10-18T13:43:21.287000+00:00",
+      "fecha_local": "2026-10-18",
+      "editado_utc": null,
+      "texto": "🔴 FIN DE LA ESCENA 🔴",
+      "mensaje_sha256": "919a7e3fed7620682b6a7a8d02ba0611042baef4fd49eb096dbdd368934647a2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1561374129020608533",
+      "texto_sha256": "776a5af778b870b89da08c1173ed9efad5b08c79aabb5222072e6ca413e33a3c",
+      "adjuntos": []
+    }
+  ]
+}

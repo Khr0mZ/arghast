@@ -1,0 +1,110 @@
+{
+  "id": "x-1526554335436341368",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1526554335436341368",
+  "hilo_id": "1495828307843747971",
+  "hilo_nombre": "??? - En alguna parte",
+  "titulo": "Selvetarm no logra desalojar a Kiaransalee",
+  "resumen": "El campeón de Lolth queda inmovilizado por manos no muertas y comprende que no puede vencerla por ahora.",
+  "relato": "Selvetarm avanza por la Red de los Pozos Demoníacos con maza envenenada y espada para expulsar a la diosa que ocupa el trono de Lolth. Kiaransalee se burla del campeón y sostiene que la reina ha abandonado el reino y no quiere regresar. Su explicación es una afirmación dirigida al adversario, sin verificación independiente.\n\nLa draña se lanza contra ella, pero decenas de manos esqueléticas y putrefactas emergen de las telarañas y la sujetan. Selvetarm corta y aplasta miembros hasta parecer libre; enseguida surgen más, reemplazando a los destruidos. Terminan reteniendo patas, brazos, torso y cuello.\n\nKiaransalee le exige servirla como sirvió a Lolth y amenaza con exterminar a las drañas. El campeón siente crujir su exoesqueleto y se pregunta si el poder procede del trono o del abandono divino. No obtiene respuesta. Comprende que, por ahora, no es rival para ella. La escena no narra su muerte ni aceptación del servicio.",
+  "participantes": [
+    "Selvetarm",
+    "Kiaransalee"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1526554335436341368",
+      "afirmacion": "Selvetarm ataca a Kiaransalee y las manos emergentes frenan su avance.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1526554349164040302",
+      "afirmacion": "Queda inmovilizado y reconoce su inferioridad presente, sin resolver el origen del poder.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No confundir derrota con muerte, juramento ni subordinación aceptada.",
+    "La explicación del poder conserva su carácter de pregunta."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-07-14T11:41:55.576000+00:00",
+  "fin_utc": "2026-07-14T11:42:33.811000+00:00",
+  "fecha_local": "2026-07-14",
+  "intervalo": {
+    "anterior": 43,
+    "siguiente": 44,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1525209204300841101",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527010759236653109",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 43,
+        "fecha": "2026-07-10",
+        "inicio_referencia_utc": "2026-07-10T18:35:33+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1525209204300841101"
+      },
+      {
+        "capitulo": 44,
+        "fecha": "2026-07-15",
+        "inicio_referencia_utc": "2026-07-15T17:55:09+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527010759236653109"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1526554335436341368",
+      "fecha_utc": "2026-07-14T11:41:55.576000+00:00",
+      "fecha_local": "2026-07-14",
+      "editado_utc": null,
+      "texto": "**Las enormes patas peludas se clavaban sobre la telaraña con una suavidad antinatural. Cualquier hilo se habría desgarrado bajo el peso de una criatura así, pero aquellos no eran hilos corrientes.**\n**Eran las telarañas de la Red de los Pozos Demoníacos. La capa 66 del Abismo.**\n**El Campeón de Lolth avanzaba con una rabia salvaje hacia el trono de su señora. Empuñando una enorme maza envenenada en una mano y una espada larga en otra, la monstruosa draña se dirigía decidida a acabar con la hereje que había osado sentarse en el Trono de la Señora del Caos.**\n\nKiaransalee: Vaya... ya está aquí el nietecito de la Señora de las Arañas. El poderoso Selvetarm. **La putrefacta diosa observaba al dios de los guerreros drow. Una monstruosidad mitad drow, mitad araña. A Lolth siempre le había divertido deformar a sus siervos hasta convertirlos en aberraciones a su imagen, transformándolos en drañas.**\n\nSelvetarm: ¡Lárgate de aquí! Este no es tu lugar.\n\nKiaransalee: ¿Y por qué debería hacerlo? **Dejó de juguetear con los dedos sobre el reposabrazos del trono.** Ella no está. Ha abandonado este lugar. Y, por lo que sé... espera no regresar jamás. **Clavó sus ojos muertos en el Campeón de Lolth.** Esos pequeños mortales necesitan a alguien que los guíe.\n\n**Selvetarm respondió con un rugido ensordecedor. Sin pensárselo dos veces, se agazapó y se lanzó contra la blasfema que ocupaba el Trono de las Telarañas. No llegó ni a la mitad del recorrido. Decenas de manos esqueléticas y putrefactas emergieron de las telarañas del Abismo, aferrándose a sus patas y sujetándolo con una fuerza sobrenatural. El semidiós rugió y descargó su espada contra aquellos brazos, cercenándolos de un tajo. Después hizo girar su enorme maza, pulverizando los huesos y arrancando las manos que lo retenían. Durante un instante pareció liberarse.**",
+      "mensaje_sha256": "cc7f9d95a4452481d23e4822f88ebe91f80a1b142ac565616e1ad9b3f37d85b6",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1526554335436341368",
+      "texto_sha256": "f6eefdf3b7e4abce61606e118138e57a32c01b3a0050c2bce3b44e628ea1c69a",
+      "adjuntos": []
+    },
+    {
+      "id": "1526554349164040302",
+      "fecha_utc": "2026-07-14T11:41:58.849000+00:00",
+      "fecha_local": "2026-07-14",
+      "editado_utc": null,
+      "texto": "**Entonces surgieron más. Dos manos sustituyeron a cada una de las que había destruido. Después cuatro. Luego decenas. Brotaban de las telarañas, de los muros, del propio suelo del Abismo. Selvetarm cortaba, aplastaba y despedazaba brazos sin descanso mientras avanzaba un solo paso cada vez. Los huesos se quebraban, la carne putrefacta salpicaba las telarañas y el estruendo de su maza retumbaba por toda la Red de los Pozos Demoníacos.**\n**Pero era inútil. Las manos seguían apareciendo sin fin. Pronto le sujetaban las ocho patas, los brazos, el torso e incluso el cuello. Cuanto más luchaba, más miembros surgían para inmovilizarlo. El peso de miles de manos terminó por obligarlo a hincar las patas contra las telarañas.**\n\nKiaransalee: Ella no volverá. **Se acomodó en el trono con absoluta tranquilidad.** Te aconsejo que me sirvas igual que la serviste a ella. **Su expresión se endureció.** Las drañas como tú me repugnan. No me obligues a exterminarlas.\n\n**Selvetarm sintió cómo aquellas manos apretaban cada vez con más fuerza. El crujido de su exoesqueleto resonó entre las telarañas. La diosa de la no-muerte era más poderosa de lo que recordaba. ¿Era el poder del Trono de las Telarañas? ¿O acaso Lolth había abandonado realmente su reino y, con ello, sus sacerdotisas comenzaban a perder el favor divino frente a aquellas drows que abrazaban la nigromancia y desafiaban a la propia muerte?**\n**Fuera cual fuese la respuesta, Selvetarm comprendió una amarga verdad. Por ahora... no era rival para Kiaransalee.**",
+      "mensaje_sha256": "fbeeacc0982ecd20a4fb702ef570829eee591f2e051d842d9597bcb9898b0446",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1526554349164040302",
+      "texto_sha256": "60c4c42b05315b9e07aabac1d8f7ea4d2342622724d451b93294c3b9fb1c3046",
+      "adjuntos": []
+    },
+    {
+      "id": "1526554495805427784",
+      "fecha_utc": "2026-07-14T11:42:33.811000+00:00",
+      "fecha_local": "2026-07-14",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "e256f8201bc73002d8e9b2a7b8dd4d279f7c831346bd0bf204d1f56fbd42cf18",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1526554495805427784",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

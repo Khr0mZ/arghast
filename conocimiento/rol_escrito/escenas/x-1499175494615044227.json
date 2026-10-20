@@ -1,0 +1,364 @@
+{
+  "id": "x-1499175494615044227",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1499175488139296859",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "La cautiva ante las escrituras",
+  "resumen": "Bonny interroga a Citlali y usa el ojo para probar su reacción.",
+  "relato": "Citlali continúa viva pero cautiva, agotada por las visiones y los siseos. Bonny le habla y ella descubre que está en un camarote cómodo y limpio, encadenada de una muñeca. La pirata pregunta por sus dioses y el origen de los tatuajes. Citlali sostiene que buscó respuesta en muchos y no sabe cuál la marcó; relaciona cada tatuaje con un hijo muerto. Sus explicaciones religiosas y las opiniones de Bonny sobre el poder de los dioses siguen siendo creencias de las interlocutoras.\n\nBonny le entrega una libreta cerrada con cordel rojo y el nombre «Anne». Citlali lee entradas de 1490 sobre la llegada de una tripulación a la isla y el enfrentamiento con una capitana de la Marina. Otra, del 06 del Mes Caluroso de 1495, cuenta la locura de hombres de ambas partes y el encuentro con una forma indescriptible, de la que se copiaron escrituras. Estas fechas pertenecen al documento ficticio, sin equivalencia automática con el calendario de publicación.\n\nBonny señala que los signos coinciden con los tatuajes de Citlali. Ella reconoce las mismas escrituras que la atormentan y el narrador indica que en su piel faltan párrafos. Aun así no puede explicar quién la marcó. Bonny dispara rozándole la mejilla y vuelve a interrogarla.\n\nDespués muestra una esfera amarillenta con una pupila negra alargada. Al orientarla hacia Citlali se intensifican el dolor y los siseos hasta que cae de rodillas; al girarla cesan. Bonny guarda el objeto y se marcha, ordenando que permanezca encerrada hasta descubrir la verdad. No la libera ni obtiene una confesión identificadora.",
+  "participantes": [
+    "Citlali",
+    "Happy Bonny"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1499179241105789019",
+      "afirmacion": "Citlali está encadenada en un camarote bajo custodia de Bonny.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1499294929078321192",
+      "afirmacion": "Citlali dice no recordar qué dios originó las marcas y las asocia a pérdidas de hijos.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1499295634027581440",
+      "afirmacion": "Bonny le entrega la libreta marcada Anne.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1499299541223215144",
+      "afirmacion": "El diario contiene entradas de 1490 y 1495 sobre la isla, la Marina y escrituras copiadas de un encuentro aterrador.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1499301604002762852",
+      "afirmacion": "El narrador confirma la coincidencia de signos y párrafos aún ausentes en la piel.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1499305407628185611",
+      "afirmacion": "Bonny dispara y la bala corta la mejilla de Citlali.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1499307447066689538",
+      "afirmacion": "Bonny orienta la esfera de pupila serpentina hacia Citlali, desencadenando dolor y siseos.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1499310697509687347",
+      "afirmacion": "Bonny gira y guarda el ojo, cesa la reacción y mantiene a Citlali cautiva.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La libreta está marcada Anne; este fragmento no identifica expresamente ese nombre con Bonny.",
+    "Las fechas del diario son diegéticas y no fechas de Twitch o Discord.",
+    "El contenido de la libreta es una fuente interna leída, no una batalla presenciada por Citlali.",
+    "La reacción concreta de Citlali a esta esfera está mostrada, sin atribuirle otras voces siseantes de fuentes distintas.",
+    "La captura sigue vigente al cierre; el disparo es una herida en la mejilla y no una ejecución."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-04-29T22:28:11.250000+00:00",
+  "fin_utc": "2026-04-30T07:25:26.132000+00:00",
+  "fecha_local": "2026-04-30",
+  "intervalo": {
+    "anterior": 28,
+    "siguiente": 29,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1499123028947370107",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1502008201464250389",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 28,
+        "fecha": "2026-04-29",
+        "inicio_referencia_utc": "2026-04-29T18:59:27+00:00",
+        "fin_estimado_utc": "2026-04-29T21:04:36+00:00",
+        "duracion_video_segundos": 7509,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1499123028947370107"
+      },
+      {
+        "capitulo": 29,
+        "fecha": "2026-05-07",
+        "inicio_referencia_utc": "2026-05-07T18:04:02+00:00",
+        "fin_estimado_utc": "2026-05-07T20:45:23+00:00",
+        "duracion_video_segundos": 9681,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1502008201464250389"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1499175494615044227",
+      "fecha_utc": "2026-04-29T22:28:11.250000+00:00",
+      "fecha_local": "2026-04-30",
+      "editado_utc": null,
+      "texto": "**En alguna parte**\n\nMamá Citlali:\n**Mi cuerpo se sentía al punto del colapso después de aquellas visiones, los siseos seguían taladrandome la cabeza y dejándome en vela, no podía ni cerrar los ojos porque era ver de nuevo esa figura y tener miedo**\n\n**Recorrí con mi mano mis tatuajes, acariciandolos con dolor en el corazón, recordando cada cuerpo sepultado, cada vida arrebatada, cada inocente perdido en la oscuridad**\n\nMis niños...\n\n**Mi mano caía a mi costado mientras sentía mis lágrimas recorrer mis mejillas, ese gusto salado que me traía amargos recuerdos, un regusto amargo que me envenenaba la garganta**\n\n**Enseguida mis pensamientos se centraron en Jim, recordando aquel toque y aquella visión, el jaguar y la serpiente emplumada, Xoltacán y sus alrededores**\n\n**Poco a poco, el cansancio volvía a apoderarse de mi, esperando volver a mi libertad y seguir buscando la libertad para mis hijos**\n\nQuién eres tú en realidad?...",
+      "mensaje_sha256": "f7e52307e9149ab2a71b8c1978d92105ea0158d1009897ab9a5eef983e509fbd",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1499175494615044227",
+      "texto_sha256": "19a02600a0553a2fb1b944a7901b3b961e9887ec06bfd1dd24b482ed19b4552b",
+      "adjuntos": []
+    },
+    {
+      "id": "1499179241105789019",
+      "fecha_utc": "2026-04-29T22:43:04.483000+00:00",
+      "fecha_local": "2026-04-30",
+      "editado_utc": "2026-04-29T22:44:18.464000+00:00",
+      "texto": "Happy Bonny: La verdad que es mejor que no sepas quien soy en realidad **La voz de la pirata no te deja volver a descansar** ¿Un mal sueño? Tus niños... **Ves como arruga el gesto. Al observar un poco más el lugar, ves que estas en un camarote, bastante bien amueblado y, por raro que te parezca, muy limpio. Estas tumbada en una cama con sábanas de seda y un colchón mullidito, nunca habías probado nada tan cómodo. Pero al moverte, notas que tienes una cadena sujetando una de tus muñecas.** Va siendo hora de hablar tu y yo...",
+      "mensaje_sha256": "669bc6918faf86df2b5e7640b0b73722e1a023d2ff7796a2a6c206805ecea3c3",
+      "tipo_discord": 19,
+      "referencia": "1499175494615044227",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1499179241105789019",
+      "texto_sha256": "7f0ff2d322d2c090f9e9f1e4c021bf99569ab7ecd72a95c0cf6d0e3a735900d7",
+      "adjuntos": []
+    },
+    {
+      "id": "1499182762803073155",
+      "fecha_utc": "2026-04-29T22:57:04.121000+00:00",
+      "fecha_local": "2026-04-30",
+      "editado_utc": "2026-04-29T23:21:30.727000+00:00",
+      "texto": "Mamá Citlali:\nDespués de todo el tiempo que he estado aquí, al fin entablamos conversación, mi niña...\n\n**Mis ojos se abrieron con lentitud, subiendo la mirada hacia la figura de Bonny**\n\nTambién me vas a matar como lo hiciste con aquel niño?, o tienes algo en mente?, por lo visto no das un paso en falso y más si tú cabeza está en juego \n\n**Puse ambas manos sobre mis piernas, no tenía intenciones de escapar o hacer algo tonto**\n\nEres alguna iluminada?, o por qué es que te temen tanto?, la verdad me da igual, los Dioses son los que dan y quitan por intervención de otros, así que haz lo que tengas que hacer, no tengo más que hacer",
+      "mensaje_sha256": "94cf01000534998d103439751e62a31c195979b0b0efed09394420c97524937a",
+      "tipo_discord": 19,
+      "referencia": "1499179241105789019",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1499182762803073155",
+      "texto_sha256": "7a004b96756c2d4e0eff397d9d0b54adc855b85b9a4fd129e14012342c6d5165",
+      "adjuntos": []
+    },
+    {
+      "id": "1499288693431603242",
+      "fecha_utc": "2026-04-30T05:57:59.951000+00:00",
+      "fecha_local": "2026-04-30",
+      "editado_utc": "2026-04-30T05:58:38.057000+00:00",
+      "texto": "Happy Bonny: Si te mato o no será decisión tuya. Como le paso al elfo y a muchos otros antes que el **Se te queda observando** Dioses eh... Nunca me he fiado de seres que usan a sus fieles como peones... **Te mira los tatuajes** ¿A cual veneras tu?",
+      "mensaje_sha256": "6e0ce0d6bce4f4bfa88e302245309c20322c4d00040faca604bb9d7019909133",
+      "tipo_discord": 19,
+      "referencia": "1499182762803073155",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1499288693431603242",
+      "texto_sha256": "b7de701119b49be72d34e84d113d5aa27be2ca82fa44af04bcd87c4311c26508",
+      "adjuntos": []
+    },
+    {
+      "id": "1499290138201555004",
+      "fecha_utc": "2026-04-30T06:03:44.411000+00:00",
+      "fecha_local": "2026-04-30",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\nVenero a muchos, pero ninguno me ha escuchado completamente, al menos eso creo...\n\n**Vuelvo a acariciar mis tatuajes**\n\nTodos usamos a todos en algún momento, ya sea por favores o por egoísmo, pero nadie se salva",
+      "mensaje_sha256": "95f0e5dfb293fd7959e427d83faf09259716eed338af62511821b8c1a1933120",
+      "tipo_discord": 19,
+      "referencia": "1499288693431603242",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1499290138201555004",
+      "texto_sha256": "c6578d35d3fe576b37ed9de3efc22996d8708e66c3f7670b012441ab0f3b9856",
+      "adjuntos": []
+    },
+    {
+      "id": "1499290961321263124",
+      "fecha_utc": "2026-04-30T06:07:00.658000+00:00",
+      "fecha_local": "2026-04-30",
+      "editado_utc": null,
+      "texto": "Happy Bonny: Ninguno te ha escuchado... **Dice mientras te mira con desconfianza** ¿Y los dioses para que nos usan? Control? Poder?",
+      "mensaje_sha256": "bee022993dd966cc63cfbfe9606f5f19a4b4f848c3e6798c9b912651c8d192c3",
+      "tipo_discord": 19,
+      "referencia": "1499290138201555004",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1499290961321263124",
+      "texto_sha256": "d68c9a7a8c5c01af1166743f32d7d00ff109f12b662ebab938b5d5d95b58361d",
+      "adjuntos": []
+    },
+    {
+      "id": "1499292456724860948",
+      "fecha_utc": "2026-04-30T06:12:57.190000+00:00",
+      "fecha_local": "2026-04-30",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\nEllos hacen muchas cosas: Fertilidad a la tierra, Lluvia, el sol, incluso la propia muerte\n\n**Levanto los hombros mientras me acomodo la cadena**\n\nLo que ellos buscan a cambio es adoración, algunos obediencia, pero algunos buscan controlar, tienes que saber a quien adorar o no podrás escapar, todo en este mundo es dual, existe tanto el bien como el mal, todo depende de que lado estés para saber diferenciarlo",
+      "mensaje_sha256": "447897b308d2601a97bcdd0eb60899e5484f8efc1600e338763a89bf130df025",
+      "tipo_discord": 19,
+      "referencia": "1499290961321263124",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1499292456724860948",
+      "texto_sha256": "6ec0b42770384bb04fe3603a581345aa0c2a4798be6b97e8dd00166f5ea78ffd",
+      "adjuntos": []
+    },
+    {
+      "id": "1499293985431228446",
+      "fecha_utc": "2026-04-30T06:19:01.662000+00:00",
+      "fecha_local": "2026-04-30",
+      "editado_utc": null,
+      "texto": "Happy Bonny: Todos buscan lo mismo. Lo mismo que cualquier mortal... Mantener su estatus de poder **Se sienta en una mesilla cercana con los brazos cruzados** Y ya sean \"buenos o malos\" usan a sus fieles para sus planes... ¿Quien te hizo esos tatuajes?",
+      "mensaje_sha256": "573d84a62cfc4e5e8fbc779aef14b639e26395c1276d3b0951624fbd407ffc56",
+      "tipo_discord": 19,
+      "referencia": "1499292456724860948",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1499293985431228446",
+      "texto_sha256": "2be8727a92812793f4aa840b50c9c37ad3e5158896eb8ccbde83fabc2b73a790",
+      "adjuntos": []
+    },
+    {
+      "id": "1499294929078321192",
+      "fecha_utc": "2026-04-30T06:22:46.645000+00:00",
+      "fecha_local": "2026-04-30",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\nNo lo recuerdo bien, fueron tantos Dioses a los que me acerqué para encontrar respuesta que alguno decidió marcarme, dejando en mi piel mi desdicha de perder mi más grande anhelo \n\n**La voz se me entrecortaba**\n\nEstoy destinada a estar sola y lo he estado todos estos años, los niños vienen a mis brazos y mueren en ellos...",
+      "mensaje_sha256": "fc729f4f92eeb411182501a50e3d638770b23a5fe6942c6e489c94f7a2bb69c7",
+      "tipo_discord": 19,
+      "referencia": "1499293985431228446",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1499294929078321192",
+      "texto_sha256": "8d4ceb770128bade99c0d66eb47d9778d16ec105e9deba3905fbb9b5af5f301b",
+      "adjuntos": []
+    },
+    {
+      "id": "1499295634027581440",
+      "fecha_utc": "2026-04-30T06:25:34.718000+00:00",
+      "fecha_local": "2026-04-30",
+      "editado_utc": null,
+      "texto": "Happy Bonny: **Busca algo en el cajón de la mesilla y te lo lanza. Una pequeña libreta en la que lees el nombre de \"Anne\" y cerrada con un cordel rojo cae encima de la cama frente a ti. La pirata te hace un gesto para que lo abras**",
+      "mensaje_sha256": "2ad576e4129d3144c67131d583efd2dd75645d3ba3715f3a78c25c4dec6de26e",
+      "tipo_discord": 19,
+      "referencia": "1499294929078321192",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1499295634027581440",
+      "texto_sha256": "9bbefd80641223c65fabc306830744693be2d8fd0d32b042a9e1affdeff68d37",
+      "adjuntos": []
+    },
+    {
+      "id": "1499296130146762875",
+      "fecha_utc": "2026-04-30T06:27:33.002000+00:00",
+      "fecha_local": "2026-04-30",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\n**Tomé aquella libreta y la abrí, pasando las hojas y leyendo su contenido**",
+      "mensaje_sha256": "b4f2c6f72b7e150ba6119339305d53497e767f69fc91aa92b6666dc1142198ee",
+      "tipo_discord": 19,
+      "referencia": "1499295634027581440",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1499296130146762875",
+      "texto_sha256": "449fd285fd0eb8b7f01b6f78101d758f8411361f5e91631e979fb357b23587f7",
+      "adjuntos": []
+    },
+    {
+      "id": "1499299541223215144",
+      "fecha_utc": "2026-04-30T06:41:06.266000+00:00",
+      "fecha_local": "2026-04-30",
+      "editado_utc": null,
+      "texto": "*14 del Mes de la Cosecha de 1490\nMi tripulación y yo acabamos de llegar a esta isla, no parece que la haya pisado nadie antes..*\n\n*26 del Mes Caluroso de 1490\nLa estúpida de la Capitana de la Marina ha localizado mi barco. Pero hemos defendido la costa con los cañones, si quiere atrapar e tendrá que pensar otra manera de acercarse*\n\nHappy Bonny: Lee las últimas hojas\n\n**En estas puedes leer como la pirata y la Capitana de la Marina se enfrentan entre ellas de varias maneras, saboteandose entre ellas durante todo este tiempo, hasta que ves una entrada curiosa**\n\n*06 del Mes Caluroso de 1495\nNo se que diantres paso pero, en un abrir y cerrar de ojos, la mitad de mis hombres estaban enloquecidos... Se peleaban entre ellos mientras otros se intentaban arrancar los ojos... Igual que los Molly... Lo que vimos luego fue.. Indescriptible, aún me cuesta entender esa forma y me sigue doliendo la cabeza cada vez que lo intento. Aunque puede copiar ese texto extraño antes de salir de allí. No se lo que significa, aún, pero no es nada bueno..*\n\nHappy Bonny: ¿Te suenan esas escrituras?",
+      "mensaje_sha256": "658e009f5fd889c00de6132f28e228913357a14bac1e45f1f1528cc93b4b5d02",
+      "tipo_discord": 19,
+      "referencia": "1499296130146762875",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1499299541223215144",
+      "texto_sha256": "50d73771203a64203d12d533e0cf4f34fda11f4e1a87543d31275492fdd27794",
+      "adjuntos": []
+    },
+    {
+      "id": "1499301237823377438",
+      "fecha_utc": "2026-04-30T06:47:50.767000+00:00",
+      "fecha_local": "2026-04-30",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\n**Leí con mucho detenimiento cada una de las letras hasta que llegué a esas últimas páginas, esas escrituras me congelaron la sangre en cuanto las vi, las mismas que se repetían en mi cabeza al cerrar los ojos**\n\nDónde encontraste esto?...",
+      "mensaje_sha256": "22babd5ca8b79c5d3573bbe2d850ec0f6df635e79eaa3dd7165f976ca622abe5",
+      "tipo_discord": 19,
+      "referencia": "1499299541223215144",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1499301237823377438",
+      "texto_sha256": "42b36fae259a19ece263700fd806757981a430e84e92a8252de426d3c69066d4",
+      "adjuntos": []
+    },
+    {
+      "id": "1499301604002762852",
+      "fecha_utc": "2026-04-30T06:49:18.071000+00:00",
+      "fecha_local": "2026-04-30",
+      "editado_utc": "2026-04-30T06:51:06.892000+00:00",
+      "texto": "Happy Bonny: Son las mismas escrituras que tienes tatuadas en la piel... **Saca su pistola y te apunta** Así que te lo repito otra vez. ¿A que dios veneras? **Cuando te lo dice, te dan cuenta de que tiene razón. Esas escrituras están tatuadas en tu cuerpo... Pero parece que en tu piel faltan aún párrafos por tatuar. Como si se hubieran olvidado o...**",
+      "mensaje_sha256": "ed6e90b0ac7afd8f4500b46a5e9691df223683461af0512118781a31e233b269",
+      "tipo_discord": 19,
+      "referencia": "1499301237823377438",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1499301604002762852",
+      "texto_sha256": "11d1ab314974196f88d63388f5457e9d4b128859f7bb4bbd1a7d8b4a16bbb9ae",
+      "adjuntos": []
+    },
+    {
+      "id": "1499303977144160288",
+      "fecha_utc": "2026-04-30T06:58:43.872000+00:00",
+      "fecha_local": "2026-04-30",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\nYa te lo he dicho, han sido a tantos que no se quien me ha grabado esto en la piel, no lo sé \n\n**Le hablaba con firmeza, levantándome de la cama y quedando frente al arma**\n\nEstos tatuajes son el recuerdo de mis hijos muertos, cada tatuaje es un niño que no consiguió vivir plenamente, estos tatuajes duelen y pesan, son una maldición",
+      "mensaje_sha256": "cfc27d0b03a1e0b41765b11dce79bcd882d028a8017ec692c490f97b723fc06f",
+      "tipo_discord": 19,
+      "referencia": "1499301604002762852",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1499303977144160288",
+      "texto_sha256": "3b0259f8857e0f2bfdb9a192c2b2c26fe0aaa788c59133d2c95dc7f81b56f278",
+      "adjuntos": []
+    },
+    {
+      "id": "1499305407628185611",
+      "fecha_utc": "2026-04-30T07:04:24.926000+00:00",
+      "fecha_local": "2026-04-30",
+      "editado_utc": null,
+      "texto": "Happy Bonny: **Dispara. El ruido del arma es ensordecedor y gotas se sangre caen al suelo. Notas como te cae sangre de la mejilla, el corte de la bala te ha dejado una buena marca** Me dan igual tus hijos y tus lamentos, señora. Solo quiero saber porque llevas tatuadas las mismas escrituras de ese lugar.",
+      "mensaje_sha256": "a0e1c706903a42cce499ca362d2d78a78d5c2b2f31e2c6e0f3e2ea315cce4093",
+      "tipo_discord": 19,
+      "referencia": "1499303977144160288",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1499305407628185611",
+      "texto_sha256": "754c5da730915a23a57b46e233f7de3d6d05b1d3d1d81fa97974b4daaf07d4be",
+      "adjuntos": []
+    },
+    {
+      "id": "1499306119745634325",
+      "fecha_utc": "2026-04-30T07:07:14.708000+00:00",
+      "fecha_local": "2026-04-30",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\nSi supiera, te lo diría, pero no lo se\n\n**No me inmutaba, sentía el ardor recorriendo mi cara**\n\nAl igual que tu, busco respuestas, librarme de este pesar, es lo que quiero",
+      "mensaje_sha256": "35dd4afeb74bb21e98a0fac68fc167427a1852f6cfd2bc00d035ad5f735e2a3e",
+      "tipo_discord": 19,
+      "referencia": "1499305407628185611",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1499306119745634325",
+      "texto_sha256": "51d00138feed053162e3694238bfe00e318265f231bb1cbd463fbc26550e27da",
+      "adjuntos": []
+    },
+    {
+      "id": "1499307447066689538",
+      "fecha_utc": "2026-04-30T07:12:31.166000+00:00",
+      "fecha_local": "2026-04-30",
+      "editado_utc": null,
+      "texto": "Happy Bonny: **Te mira desconfiada durante un rato. Luego de esto saca algo de sus ropajes y lo posa encima de la mesilla en una posición para que puedas mirarla. Es una esfera de color amarillento, algo más grande que un puño. Con un movimiento suave, la hace girar en la mesa y puedes ver esa pupila negra alargada. Tu cabeza duele, los siseos se adueñan de tus pensamientos h puedes ver ese ojo de serpiente observandote. Como si esa esfera te hablará directamente a ti** ¿Esta usted bien?",
+      "mensaje_sha256": "68196a15d4ef357e7d7ca52bc66688f78f235d2c3b6978cef3c99c14b6ed2463",
+      "tipo_discord": 19,
+      "referencia": "1499306119745634325",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1499307447066689538",
+      "texto_sha256": "fb47a36e64446770c9283993f1655ee025233c690535c8e013f2e3ad23bfd934",
+      "adjuntos": []
+    },
+    {
+      "id": "1499308642497728603",
+      "fecha_utc": "2026-04-30T07:17:16.179000+00:00",
+      "fecha_local": "2026-04-30",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\n**Me agarro la cabeza con fuerza, cayendo de rodillas hacia el suelo, el siseo es abrumador, me dan ganas de gritar y vomitar**\n\n**Es tanta mi desesperación que mis uñas se clavan en mi piel, abriendola y haciendo que la sangre brote de las heridas hechas**\n\nDUELE!!, DUELE!!, DUELE!!",
+      "mensaje_sha256": "b689ca40c010c86e984c882d535a5dac08b0fb9c71808737094247fddc28c547",
+      "tipo_discord": 19,
+      "referencia": "1499307447066689538",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1499308642497728603",
+      "texto_sha256": "aad8186f3392c9aa1446b002c89e53abb5ac0dd93d2aedf0ca72a0ce31104f61",
+      "adjuntos": []
+    },
+    {
+      "id": "1499310697509687347",
+      "fecha_utc": "2026-04-30T07:25:26.132000+00:00",
+      "fecha_local": "2026-04-30",
+      "editado_utc": "2026-04-30T08:35:44.901000+00:00",
+      "texto": "Happy Bonny: Vaya, parece que duele **Con un movimiento vuelve a girar el ojo para que no te mire directamente y notas como ese dolor y esas voces en tu cabeza se apagan** Como ya te dije, no me gusta matar ancianas. Así que permanecerá aquí hasta que me cuentes toda la verdad o hasta averigüe quien eres en realidad **Se guarda el ojo y se dirige a la puerta para salir por ella** La debilidad de uno, puede condenar a cientos... Nunca hay que pedirle nada a los dioses\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "b49aa86d0217634ee734dc82da4fa8cb174dbe484d4ba0a67c6030dd3e89e883",
+      "tipo_discord": 19,
+      "referencia": "1499308642497728603",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1499310697509687347",
+      "texto_sha256": "071b5c374e204860dc2fcc38ed186a5d6f0f7eb650fafb42e27327cabb93eacb",
+      "adjuntos": []
+    }
+  ]
+}

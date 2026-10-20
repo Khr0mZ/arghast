@@ -1,0 +1,364 @@
+{
+  "id": "x-1505152709840470138",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1505095606950166569",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "Un pañuelo para Ione",
+  "resumen": "La escudera ofrece apoyo a una capitana exhausta.",
+  "relato": "Erandi choca con Ione, que llega herida y exhausta tras defender el Zampaolas a puñetazos. La capitana le ofrece la mano pese a su aspecto feroz. La kender limpia con un pañuelo la sangre de sus manos y vuelve a presentarse como Erandi, Eri o Maya. El gesto suaviza la alerta de Ione y deja ver su cansancio.\n\nErandi explica que sirve a Lady Roosevelt, de la casa del mismo nombre, y que llegaron ese día. Pretende conocer las costumbres locales para facilitar la estancia. Ione sospecha que puedan ser marines; ella lo niega y cuenta que también fueron atacadas al desembarcar, junto a Luna y Sir Papa. No se identifican más aliados solo por esos apodos.\n\nLa capitana insiste en que el poblado es peligroso para ella. Erandi aclara que ya tiene la mayoría de edad según las costumbres humanas, pese a su apariencia juvenil. Ione, que no ve a sus compañeros, se siente abandonada y le recomienda avisar a su señora y marcharse con Luna. La escudera ofrece ayuda de ambas, pero Ione rechaza el optimismo e intenta levantarse entre dolores.\n\nErandi trata de sostenerla y pregunta por atención médica. Ione asegura estar bien, la manda buscar a Roosevelt y va a la taberna. La kender también se encamina allí, pensando en pedir orientación al sol y atender a los heridos al día siguiente. No se realiza todavía ninguna cura ni se conversa con la caballera en este fragmento.",
+  "participantes": [
+    "Erandi",
+    "Ione"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1505152709840470138",
+      "afirmacion": "Ione aparece herida después de defender el barco.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1505160301006553179",
+      "afirmacion": "Erandi limpia las manos de Ione y se presenta como Erandi, Eri o Maya.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1505163803552256012",
+      "afirmacion": "Erandi confirma que sirve a Lady Roosevelt de esa casa.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1505166511189262397",
+      "afirmacion": "Erandi niega ser marine y refiere el ataque al desembarcar.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1505167575967993927",
+      "afirmacion": "Erandi afirma haber alcanzado la mayoría de edad.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1505169517364514956",
+      "afirmacion": "Ione expresa desánimo al verse sola y recomienda abandonar el poblado.",
+      "tipo": "pensamiento"
+    },
+    {
+      "mensaje_id": "1505173621323206847",
+      "afirmacion": "Erandi trata de sostener a Ione y pregunta por atención médica.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1505175464367489076",
+      "afirmacion": "Erandi decide buscar a su señora y piensa ayudar a los heridos mañana.",
+      "tipo": "pensamiento"
+    }
+  ],
+  "notas": [
+    "Erandi/Erandin y Eri/Maya son equivalencias declaradas por la propia participante en ambos encuentros.",
+    "La apariencia infantil no sustituye su afirmación explícita de mayoría de edad.",
+    "La atribución de herrero a Armin es deducción de Erandi, sin ficha profesional completa en esta escena.",
+    "La petición OOC de dados y su corrección no se convierten en sucesos narrativos.",
+    "La ayuda médica queda ofrecida y prevista, sin recuperación de Ione o cura efectuada."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-05-16T10:19:30.411000+00:00",
+  "fin_utc": "2026-05-16T11:51:20.926000+00:00",
+  "fecha_local": "2026-05-16",
+  "intervalo": {
+    "anterior": 32,
+    "siguiente": 33,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1504914757835030579",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1506363085538201671",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 32,
+        "fecha": "2026-05-15",
+        "inicio_referencia_utc": "2026-05-15T18:33:44+00:00",
+        "fin_estimado_utc": "2026-05-15T20:47:23+00:00",
+        "duracion_video_segundos": 8019,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1504914757835030579"
+      },
+      {
+        "capitulo": 33,
+        "fecha": "2026-05-19",
+        "inicio_referencia_utc": "2026-05-19T18:28:49+00:00",
+        "fin_estimado_utc": "2026-05-19T21:10:39+00:00",
+        "duracion_video_segundos": 9710,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1506363085538201671"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1505152709840470138",
+      "fecha_utc": "2026-05-16T10:19:30.411000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Ione: **Sale de uno de la costa cercana a su barco, con heridas y con sangre en los nudillos jadeando. No esta indemne del ataque pero ha defendido su barco a golpe limpio**",
+      "mensaje_sha256": "91c90c3a18396232608324b53b3fb92ee908f207ac607e80f9b06c47c137f724",
+      "tipo_discord": 19,
+      "referencia": "1505146951065272370",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505152709840470138",
+      "texto_sha256": "8119b9d073f0a8021dd247396ac4665ec174d585e2b71aaf6db06acb90ec1a59",
+      "adjuntos": []
+    },
+    {
+      "id": "1505158057783459841",
+      "fecha_utc": "2026-05-16T10:40:45.460000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Erandin:\n**Choca sin querer contra su figura, cubriendo su rostro con sus manitas por el dolor**\n-Ay au!!\n**Ve a esta persona con detenimiento**\n-Ay..! Lo lamento mi lady! Mi sir! Y-yo! N-no..me percate por donde iba...",
+      "mensaje_sha256": "c9e3a7aa13bc6387cf5759b6c80b9b54d89e8a6111a928b9bd1c17149dab3bdc",
+      "tipo_discord": 19,
+      "referencia": "1505152709840470138",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505158057783459841",
+      "texto_sha256": "9417e16f5b01e12cfcb8237d59deeb74445384c38dad4cc4f6fdfcd2c309c191",
+      "adjuntos": []
+    },
+    {
+      "id": "1505158788498329690",
+      "fecha_utc": "2026-05-16T10:43:39.676000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Ione: **Ves una mujer alta, robusta, estilizada, morena con un pelo lleno de rastas salvajes. Sus ojos ambar te miran feroces pero al contrario de lo que parece te ofrece la mano** ¿Estas bien? No debeias estar aqui despues de un ataque asi... Quien sabe cuando volveran **Sus manos estan manchadas con sangre**",
+      "mensaje_sha256": "190324202bcf9c481166a6c6fc1cb3578f28082ea98e7c77b8beeb8b33514d25",
+      "tipo_discord": 19,
+      "referencia": "1505158057783459841",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505158788498329690",
+      "texto_sha256": "8bf9e3d15f7be0aa38a8a0038656f7bf14bc499d24360ec5f8e81efa8a785448",
+      "adjuntos": []
+    },
+    {
+      "id": "1505160301006553179",
+      "fecha_utc": "2026-05-16T10:49:40.286000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": "2026-05-16T10:50:45.285000+00:00",
+      "texto": "Erandi:\n-Ay...! Mi lady! Perdoneme porfavor!\n*Busca de entre sus cosas, un bolsito que carga, un pañuelo de lino*\n-Permitame, porfavor\n**Le limpia con cuidado las manos, ayudandose a levantarse**\n-Un placer conocerle...!\n***Se aprecia una Kender pequeña, con pinturas tribales adornando su rostro, con distintos adornos de plumas coloridas y tonalidades tierra en sus accesorios y ropajes. Su rostro es de características infantiles, con una cabellera ondulada castaña con ojos marrones, pero que reflejan ternura e ingenuidad. Características que distonan de una ciudad pirata***\n-Soy Erandi! Pero me llaman Eri o Maya! Como usted desee mi lady!\n**Agita sus orejas con emoción, sonriéndole amigable**",
+      "mensaje_sha256": "55ab34642fd8d5e13916aa33987612ef2df5c75e758b77d816ed16586a2078d0",
+      "tipo_discord": 19,
+      "referencia": "1505158788498329690",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505160301006553179",
+      "texto_sha256": "c4e35c4cbe310362c3337f8b51542856393a8016c06ce93b7c74c637d70964c3",
+      "adjuntos": []
+    },
+    {
+      "id": "1505162980570959954",
+      "fecha_utc": "2026-05-16T11:00:19.144000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Ione: **Limpias sus manos cayosas y maltratadas. Ese gesto hace que la alerta y la fiereza desaparezcan de sus ojos, sacando el cansancio y el agotamiento de la lucha** Este no es lugar para una niña y aun menos indigena... Mi nombre es Ione Nottley...",
+      "mensaje_sha256": "729f61ca6a0dcf858f6741a8f877a1b273386fdc87d5591bc5cb0b7b87e2c673",
+      "tipo_discord": 19,
+      "referencia": "1505160301006553179",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505162980570959954",
+      "texto_sha256": "5d6151e085e45e1074f7e2f0f9ba700f2191b701e08e190fd7c23a3a4ced7677",
+      "adjuntos": []
+    },
+    {
+      "id": "1505163803552256012",
+      "fecha_utc": "2026-05-16T11:03:35.358000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Erandi:\n-Oh no  lady Ione! Vengo acompañada\n**Me río con ternura**\n-De lady Roosevelt! De la casa Roosevelt! Soy su escudera!\n**La veo con sumo interés, guardando su pañuelo**\n-Pense que sería buena idea conocer a los habitantes del pueblo! Hasta...que buscando conocer a un hombre grandote y fuertote que está frente a la herrería me enseñó una cabeza decapitada\n**No puede evitar sentir el mismo escalofríos**\n-....ay....no se porque haría eso...si ni me dijo su nombre \n**Bajo las orejas**",
+      "mensaje_sha256": "5aaf65e0536b51153c2fad16e802b8a62fbe16979e54e00b47c0ff12c0370c14",
+      "tipo_discord": 19,
+      "referencia": "1505162980570959954",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505163803552256012",
+      "texto_sha256": "347033b8de8c7c055fbb6f0c2a2005de6ca31bcf7ad60c200d4a3e68045f89c6",
+      "adjuntos": []
+    },
+    {
+      "id": "1505164164643950694",
+      "fecha_utc": "2026-05-16T11:05:01.449000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": "2026-05-16T11:05:27.052000+00:00",
+      "texto": "Erandi:\n-Aunque no puedo juzgar al señor herrero..si es que es uno...aunque con el aspecto grande y corpulento se le daria de maravilla! Hizo volar a dos cuerpos como si fueran  rocas! Fiiuush!\n**Hace el mismo gesto que el hombre enorme, de como este los sujeto y los mando a volar cual Boomerang**",
+      "mensaje_sha256": "795e75af66a9acd67833731379e14da239d9b397d8c8c158eb6a0922a92c59f6",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505164164643950694",
+      "texto_sha256": "bb0c98ba21cbb84f5d09f84d51bb67581d1bde68e820302f406234a15e09704d",
+      "adjuntos": []
+    },
+    {
+      "id": "1505165140998488074",
+      "fecha_utc": "2026-05-16T11:08:54.230000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Ione: **Se tambale hasta apoyarse en un barril** Ya... Es el mejor conversador de esta isla, pero tienes que hablarle de...**Se acaba sentando en el barril con un jadeo** de sus gustos para conocer eso de el... **Mira a la niña** ¿Quien Lady Roosevlt? **Otra buscando a alguna persona que parezca reconocer a la niña sin exito** ¿Es otra bucanera como yo?",
+      "mensaje_sha256": "48e2a5cac7d6d958c7ebdf38e3d47c8ef8f542c8bf4bdd2f336ff755f6ad8a89",
+      "tipo_discord": 19,
+      "referencia": "1505163803552256012",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505165140998488074",
+      "texto_sha256": "342b618bc7902312d74065dba3fdd2b89d04ba1dc753983162878c11a63dbecc",
+      "adjuntos": []
+    },
+    {
+      "id": "1505165799353225246",
+      "fecha_utc": "2026-05-16T11:11:31.194000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Erandi:\n**Niega con la cabeza**\n-Hemos llegado hoy mi lady!\n**Juguetea un poco con su bolso**\n-Hemos estado navegando desde hace unos días, y conozco lo entusiasta que es mi señora, asi que quisiera poder conocer a todos de primera mano para no causar molestias a los que están mas arriba! Hay que adecuarse a las costumbres de tierras visitantes para ser recibido\n**Ve a Ione detenidamente**\n-Si ve a una dama con una banderilla con el escudo de la casa Roosevelt, la conocera al instante",
+      "mensaje_sha256": "73fe447693db3a35eb734519f226e2bed37cd081e7f565771bea6deea3b9be2d",
+      "tipo_discord": 19,
+      "referencia": "1505165140998488074",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505165799353225246",
+      "texto_sha256": "ed03166b654199cdd62557589fdfa8b28d448450c82976c621728f0eb63e8b57",
+      "adjuntos": []
+    },
+    {
+      "id": "1505166093122015403",
+      "fecha_utc": "2026-05-16T11:12:41.234000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Ione: **Frunce el ceño** ¿Sois marines?",
+      "mensaje_sha256": "0651c127e33862bcb9093bda0de44579762dc0bc2f94d340bb34d4dcf834675d",
+      "tipo_discord": 19,
+      "referencia": "1505165799353225246",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505166093122015403",
+      "texto_sha256": "944237eea10c08f140488e491acf73f4bebdbac7b258af4e46a2f40dc62fc6c7",
+      "adjuntos": []
+    },
+    {
+      "id": "1505166511189262397",
+      "fecha_utc": "2026-05-16T11:14:20.909000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Erandi:\n**Niega con la cabeza enérgicamente**\n-No no! Por el contrario! Hemos sido atacados por ellos!\n**Baja.con nervios las orejas**\n-Junto a la señorita Luna y Sir Papa\n**Ve a Ione con cierto respeto**\n-Para cuando desembarcamos empezó todo el caos",
+      "mensaje_sha256": "3d9727ac190307ce56c1af747498a0bd0bf1189fd8e4ff2cd92d3457668c79fc",
+      "tipo_discord": 19,
+      "referencia": "1505166093122015403",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505166511189262397",
+      "texto_sha256": "b29277b127fc58b099fe366168b415bce293d93960277ec43de8241e01a2bc1a",
+      "adjuntos": []
+    },
+    {
+      "id": "1505167179497078926",
+      "fecha_utc": "2026-05-16T11:17:00.246000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Ione: **Relaja el gesto hasta que suelta un quejido y se sujeta una parte del costado con su mano** Si aun no ha llegado tu capitana, te recomiendo que busques refugio... Este sitio se ha vuelto peligroso para unas niñas...",
+      "mensaje_sha256": "789966f9bac5d4cd6693578bcecb6bb574dc655cdd1fcca09ed6694e4e1e7f15",
+      "tipo_discord": 19,
+      "referencia": "1505166511189262397",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505167179497078926",
+      "texto_sha256": "48f3559da4c46a68cddfa8a9a0855978c3a256126ed310929fa9b8ac33f076fa",
+      "adjuntos": []
+    },
+    {
+      "id": "1505167575967993927",
+      "fecha_utc": "2026-05-16T11:18:34.772000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Erandi:\n-A..ah! Ya tengo la mayoría de edad! O eso es lo que dicta las costumbres del hombre...\n**Lleva sus manitas detrás**\n-Suele ser asi de agitado?\n**Ladea la cabeza**\n-No tienen dias tranquilos por aquí?",
+      "mensaje_sha256": "9aac16b975c84ad99a9d697a7df06f1ca5263e1eeb9da4743067cb199237c399",
+      "tipo_discord": 19,
+      "referencia": "1505167179497078926",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505167575967993927",
+      "texto_sha256": "4c94448ded5d099aacbc080e1d99533402f673a09fef03cc10a9e9d6eaabfc27",
+      "adjuntos": []
+    },
+    {
+      "id": "1505169517364514956",
+      "fecha_utc": "2026-05-16T11:26:17.637000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Ione: los habia pero ultimamente estas aguas se han vuelto turbulentas **Alza la mirada buscando a cualquiera... A Nox a su tripulacion... Pero no ve a nadie... La dejaron sola protegiendo su barco frente al ataque de los marines** *Ni si quiera hicieron el amago de intentar ver donde estaba su capitana...* **Una sonrisa amarga asoma por sus labios** *Supongo que por mucho que haga las cosas para mi siguen siendo siempre las mismas* **Vuelve a mirarte con la vista algo mas oscura** Deberias ir y advertir a tu capitana, tal vez llevarte a Luna contigo y alejaros de este nido de muerte",
+      "mensaje_sha256": "52229f6aaa4fc6de09273c8372b1d254bfd82c2096780fb4c7966d857f25eab3",
+      "tipo_discord": 19,
+      "referencia": "1505167575967993927",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505169517364514956",
+      "texto_sha256": "3bf7c46418c52b27cb0c08d6564734851e00dadf1ba3fa78a6ec537bdd623eeb",
+      "adjuntos": []
+    },
+    {
+      "id": "1505171122356748409",
+      "fecha_utc": "2026-05-16T11:32:40.297000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Erandi:\n-...mmmmh\n**La ve atentamente, sin poder evitar sentir algo de pena**\n-...Eso suena un poco triste...Quizas con mas personas podrian estar mas tranquilos...¿Estaran bien solos...?\n**Aprieta sus manitas, agitando las orejas**\n-Yo puedo ofrecerles la ayuda que puedan necesitar! Y mi señora también! Es muuy fuerte! \n**Lleva sus manitas a las caderas**\n-Y si algo me ha enseñado mi lady, es que donde la ayuda es necesitada no se debe hacer la vista gorda! O se vivira con el remordimiento en la consciencia....o quizás eso he interpretado yo..jeje",
+      "mensaje_sha256": "429044c74e4d56b534ae6aa6923aa668dfef57d8851b5c5d031396b42a82d27c",
+      "tipo_discord": 19,
+      "referencia": "1505169517364514956",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505171122356748409",
+      "texto_sha256": "edfee9c5dc84c1f9b07db4fdc8bc125cca194e6c1985f9b54497853b7ff3bc53",
+      "adjuntos": []
+    },
+    {
+      "id": "1505172889006243991",
+      "fecha_utc": "2026-05-16T11:39:41.499000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Ione: **Con la mirada aun apaga te responde** Tu capitana es una necia por eso, haceros un favor y salir de aqui antes de que os arrastren y os hundan **Trata de ponerse en pie a duras penas**",
+      "mensaje_sha256": "04fb5c20edba3b94a355d136082b2f8ce4886952af9d4b3222a18a606d3696c8",
+      "tipo_discord": 19,
+      "referencia": "1505171122356748409",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505172889006243991",
+      "texto_sha256": "ea60811c17f002dc41cd6fab51a761254aa537b52f381cdc5bb94452c0724732",
+      "adjuntos": []
+    },
+    {
+      "id": "1505173621323206847",
+      "fecha_utc": "2026-05-16T11:42:36.097000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Erandi:\n-...!!!\n**Trata de auxiliarla, buscando que sirva de soporte para que no caiga**\n-Oh no! No haga demasiado esfuerzo Lady Ione! \n**La ve con angustia**\n-No ha recibido atención médica? Necesita ayuda",
+      "mensaje_sha256": "ac883161bec5e9a2703b0d9c26e8227ecfad0afc6a856350121c28b69664a5c5",
+      "tipo_discord": 19,
+      "referencia": "1505172889006243991",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505173621323206847",
+      "texto_sha256": "eb956dee2969846e354ca4edf10e20e732169f4702ac174f281bf4ce4d2d762f",
+      "adjuntos": []
+    },
+    {
+      "id": "1505174157933940748",
+      "fecha_utc": "2026-05-16T11:44:44.035000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Ione: Estoy bien **Mira a la niña** Ve a por tu capitana **Se dirige a la taberna**",
+      "mensaje_sha256": "407be8a0c560e09855de92057884d9475de03705b4dbf7ee0ff65f8a66a5f427",
+      "tipo_discord": 19,
+      "referencia": "1505173621323206847",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505174157933940748",
+      "texto_sha256": "fc414e01b7e73b353ffa7daa3c7a0c8621b94136acd7a0cc6fc033bcf7a740c9",
+      "adjuntos": []
+    },
+    {
+      "id": "1505175464367489076",
+      "fecha_utc": "2026-05-16T11:49:55.513000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": "2026-05-16T11:50:13.273000+00:00",
+      "texto": "Erandi:\n-....\n**Baja las orejas, sin poder evitar sentir pena, pensando para si misma**\n-\"Se le ve triste...le pedire al sol que le alumbre el sendero, quizás así pueda orientar mejor su camino...\"\n**Camina en dirección a la caballera que sirve, jugando con su bolsillo de tela**\n-\"Quizá mañana pueda encontrar mas personas con quien hablar...no es el mejor momento...y con mis fuerzas renovadas podre atender mejor a los heridos...\"\n**Menciona en sus pensamientos, organizando este plan en su cabeza**\n-\"Si! Mañana atenderé a quienes lo necesiten! Quizás asi Lady Bonny y Lady Ione vea que tenemos buenas intenciones y que queremos ayudar! Debo informarle a Lady Roosevelt! Aunque no creo que me gane una galleta...\"\n**Suspira con pena, adentrándose a la taberna a buscar a quien sirve**",
+      "mensaje_sha256": "f74f3f0cf70f03c8959c775c3692407555d9079c338bb9e84013a4bc51f0ebfc",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505175464367489076",
+      "texto_sha256": "7d0762aea556f646c9bc9566a891815fe4103092c4d35410738e37c872089325",
+      "adjuntos": []
+    },
+    {
+      "id": "1505175822615449711",
+      "fecha_utc": "2026-05-16T11:51:20.926000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "🔴 FIN DE LA ESCENA🔴",
+      "mensaje_sha256": "e3efa6a48898e6f06a53ef9f42a80b2707e34c3c9747c7c9bfd176a72a785fcf",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505175822615449711",
+      "texto_sha256": "11e202ab419420f8fc4877fcc6ac88b0e80ad9bc44cd13febb30e34eb4788021",
+      "adjuntos": []
+    }
+  ]
+}

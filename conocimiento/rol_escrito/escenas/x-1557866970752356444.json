@@ -1,0 +1,107 @@
+{
+  "id": "x-1557866970752356444",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1557347983882977352",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "Una espera y el proyecto del Final Feliz",
+  "resumen": "Oghma y Coyote aguardan a Naór mientras la cambiante propone un negocio en Tutucan.",
+  "relato": "Oghma descansa en una tumbona y pregunta a Coyote si Naór tiene que pasar por allí. Él, con resaca, confía en que tarde o temprano vuelva por una entrada del pueblo, sin información precisa de su ruta.\n\nMientras esperan, Oghma anuncia que quiere abrir en Tutucan una taberna burdel llamada el Final Feliz. Propone consultar a Angelic y Tryel como posibles socias y a Pinky para un fumadero, y pregunta si cuenta con Coyote. La respuesta continúa en la unidad siguiente. No hay todavía llegada de Naór, sociedad constituida ni local abierto.",
+  "participantes": [
+    "Oghma",
+    "Coyote"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1557870343308181547",
+      "afirmacion": "Oghma anuncia el proyecto y pregunta a Coyote si participará.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "No concluir la muerte de Ilikar por su ausencia ni explicar todavía el objeto elegido por Tryel.",
+    "El temor y juicio privado de Tessa sobre dos bestias no es un diagnóstico moral de los hermanos.",
+    "La confesión de Eldrath no determina quién conoce ya la naturaleza de los gemelos fuera de los interlocutores indicados.",
+    "La escena de Oghma y Coyote continúa en la unidad siguiente."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-10-08T21:27:09.596000+00:00",
+  "fin_utc": "2026-10-08T21:40:33.676000+00:00",
+  "fecha_local": "2026-10-08",
+  "intervalo": {
+    "anterior": 66,
+    "siguiente": 69,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 66,
+        "fecha": "2026-09-22",
+        "inicio_referencia_utc": "2026-09-22T18:20:03+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241"
+      },
+      {
+        "capitulo": 69,
+        "fecha": "2026-10-08",
+        "inicio_referencia_utc": "2026-10-08T18:17:02+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1557866970752356444",
+      "fecha_utc": "2026-10-08T21:27:09.596000+00:00",
+      "fecha_local": "2026-10-08",
+      "editado_utc": null,
+      "texto": "Oghma:\n**Aun un poco cansada de tanta fiesta nocturna, esta tirada en la tumbona mirando hacia las entradas del pueblo esperando reconocer a esa tal Naor cuando la vea aparecer**\n\nCoyote, estas seguro de que tiene que pasar por aqui?\n\n<@408026114548695061> <@616683133374562304>",
+      "mensaje_sha256": "3ab31b387690e8b96c259a0c55300fb37607ed7da224ffc6a7ebd74dd7df885b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1557866970752356444",
+      "texto_sha256": "24fe5f47dacaf8503816664f0b486584ebb8e365576e0337704101867a9932e8",
+      "adjuntos": []
+    },
+    {
+      "id": "1557867584685351024",
+      "fecha_utc": "2026-10-08T21:29:35.969000+00:00",
+      "fecha_local": "2026-10-08",
+      "editado_utc": null,
+      "texto": "Coyote:\n**Con una severa resaca y cubriendome los ojos con unos lentes oscuros**\n\nSe supone, la gata siempre se la pasa de un lado a otro, y si no está aquí es porque está en otro lado y por aquí es que tiene que pasar",
+      "mensaje_sha256": "f3631abecbf8b353ebf453041bc1dfde4649632e7ba43d60583ba0a36a533c9a",
+      "tipo_discord": 19,
+      "referencia": "1557866970752356444",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1557867584685351024",
+      "texto_sha256": "5778b27d21004180fef6c846df9d849224961492e3462e8e2ddbedcb9788f11a",
+      "adjuntos": []
+    },
+    {
+      "id": "1557870343308181547",
+      "fecha_utc": "2026-10-08T21:40:33.676000+00:00",
+      "fecha_local": "2026-10-08",
+      "editado_utc": null,
+      "texto": "Oghma:\n**Recordando algo**\n\nPor cierto, no te habia dicho que tengo planes para montar una alegre taberna burdel en Tutucan llamada El Final Feliz? Tengo que hablar con Angelic y Tryel por si quieren que seamos socias y con Pinky por si quiere montar un fumadero. Supongo que cuento contigo tambien, no?",
+      "mensaje_sha256": "ebff23fcf718907151995642beca71ed39e874515a91e8662b659a7d77a9e4a2",
+      "tipo_discord": 19,
+      "referencia": "1557867584685351024",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1557870343308181547",
+      "texto_sha256": "b46bd709fde898e3142c14aad26d5c7480328de942d2613403e0cfb43d9cba6a",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "id": "k-1386260184195923988",
+  "campana": "kuroto",
+  "unidad_revision": "k-1385809829695848478",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "Banzo agradece a Guxi las vidas salvadas",
+  "resumen": "El goliat reconoce el trabajo médico de Guxi y escucha su deseo de dar un futuro a todos. Ambos renuevan su compromiso mutuo.",
+  "relato": "Después de entregar las pertenencias de los caídos, Banzo busca a Guxi para hablar de su trabajo médico. Le comunica que salvó 31 vidas y permitió que 215 heridos regresaran a combatir. El artesano al principio los confunde con cifras de muertos y heridos; al aclararse, ambos se abrazan.\n\nGuxi cuenta que quiere enseñar a los jóvenes después de la guerra y que su sueño más amplio es un futuro feliz para todos los compañeros, incluido él con Seraphina. Pide de nuevo a Banzo que los lidere. El goliat rechaza el título: quiere luchar y sangrar como uno más de su familia, apoyándose en las capacidades de cada cual. Aun así, pregunta si lo seguirán hasta el final y Guxi promete hacerlo.\n\nUn nuevo tatuaje con una tuerca, un libro y una pluma aparece en el cuello de Banzo. Antes de separarse, Guxi le entrega varias pociones para repartir entre los soldados. La amenaza de la siguiente oleada mantiene urgente su coordinación.",
+  "participantes": [
+    "Banzo",
+    "Guxi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1386263979491332166",
+      "afirmacion": "Banzo comunica las cifras de 31 vidas salvadas y 215 heridos recuperados.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1386265925094998147",
+      "afirmacion": "Guxi explica su sueño de enseñar y construir un futuro para sus compañeros.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1386274878226825287",
+      "afirmacion": "Aparece un tatuaje de tuerca, libro y pluma en el cuello de Banzo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1386275507255115898",
+      "afirmacion": "Guxi entrega pociones para los soldados.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Leídas completas las cinco partes y los tres adjuntos. La imagen del pánico es ilustrativa; el dibujo final de Banzo es una referencia humorística del disfraz.",
+    "La inscripción gráfica del diario de Kurobane se conserva como original. Su escritura no se traduce ni se inventa un contenido a partir del dibujo.",
+    "La unidad original reúne varias interacciones con cierres y salidas; las subescenas conservan cobertura exacta sin duplicar mensajes.",
+    "Las cifras de atención médica son las que Banzo comunica, sin elevarlas a un balance general de la batalla.",
+    "La apariencia de Brythya que Banzo cree ver sobre Danifae se presenta como percepción del goliat, no como transformación física confirmada.",
+    "La promesa de Danifae se refiere a sus armas frente a Ootakemaru y no equivale a afiliación ni contrato firmado.",
+    "No se realiza todavía la visita a los templos ni se elimina la condición de Kurobane."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-22T08:23:03.381000+00:00",
+  "fin_utc": "2025-06-22T09:25:16.154000+00:00",
+  "fecha_local": "2025-06-22",
+  "intervalo": {
+    "anterior": 130,
+    "siguiente": 131,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1385318614470496400",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387130423632724151",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 130,
+        "fecha": "2025-06-19",
+        "inicio_referencia_utc": "2025-06-19T18:01:24+00:00",
+        "fin_estimado_utc": "2025-06-19T21:47:20+00:00",
+        "duracion_video_segundos": 13556,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1385318614470496400"
+      },
+      {
+        "capitulo": 131,
+        "fecha": "2025-06-24",
+        "inicio_referencia_utc": "2025-06-24T18:00:45+00:00",
+        "fin_estimado_utc": "2025-06-24T21:04:44+00:00",
+        "duracion_video_segundos": 11039,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387130423632724151"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1386260184195923988",
+      "fecha_utc": "2025-06-22T08:23:03.381000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "Banzo : **después de ir clasificando heridos y juntar a los caídos,  le entrega todos los objetos personales identificados a los oficiales para que las familias de los caídos lo puedan velar.\n\nAnda decaído y cansado hacia la zona de tiendas , cuando se fija en la tienda de guxi y se acuerda de su frágil estado emocional . . \nSe acerca a la tienda y tose en la entrada de ella **\n\nEjemmmm. Guxi ? Estas por aquí? <@171702246952665098>",
+      "mensaje_sha256": "1ca44d506ba50674f34488feb901ddfc260b8656de28a42181c65946b91df426",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386260184195923988",
+      "texto_sha256": "32846c9bbf7f91372bf49e767bbc6dbf8f9f5212f6cfb075edcb446d24fd779e",
+      "adjuntos": []
+    },
+    {
+      "id": "1386261516616994837",
+      "fecha_utc": "2025-06-22T08:28:21.055000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "guxi: **oyes una voz suave y baja** voy banzo esperate a que me termine de vestir **se pone la chaqueta llena de agujeros y sale sin despertar a <@408026114548695061> ** Hola banzo **parece que esta mejor aunque su cara de cansancio sigue estando sus ojos enrojecidos han desaparecido**",
+      "mensaje_sha256": "f60acbea93e9b20cc5cf219233772f31556d1d998aafeb1ea0fd05ab15c0408a",
+      "tipo_discord": 19,
+      "referencia": "1386260184195923988",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386261516616994837",
+      "texto_sha256": "fa71ac062bb89f739df4b21f2d8006c5c08adbbb4425d328643aecebd83fb776",
+      "adjuntos": []
+    },
+    {
+      "id": "1386262266755940352",
+      "fecha_utc": "2025-06-22T08:31:19.902000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "Banzo : Gracias guxi ... \nVengo de estar con el equipo médico.  No eres consciente de lo que has hecho ... \n\n31 y 215 ...\n**te dice poniéndote la mano en el hombro con gesto serio **",
+      "mensaje_sha256": "1e3e77e973308a620591e7e958641bc6a374779d83e1292682950204aaf3501c",
+      "tipo_discord": 19,
+      "referencia": "1386261516616994837",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386262266755940352",
+      "texto_sha256": "2cef707453292465d6f73ef4c58790358bd9cfe7ac9fa82bf5bc91e904779f1f",
+      "adjuntos": []
+    },
+    {
+      "id": "1386262662442258573",
+      "fecha_utc": "2025-06-22T08:32:54.241000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "guxi: he hecho lo que tenia que hacer Banzo lo que debemos hacer todos **te hace una señal para ir a otro sitio para hablar**",
+      "mensaje_sha256": "c51cdb76bafee29a4067fe13bddf478119455429cc38665b12d7a7cb1bddfc67",
+      "tipo_discord": 19,
+      "referencia": "1386262266755940352",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386262662442258573",
+      "texto_sha256": "2e714a86e3029fb2110fca68d2e23e3c1fc10aa3f72c1d89f2f0576fc36420d9",
+      "adjuntos": []
+    },
+    {
+      "id": "1386263815934709850",
+      "fecha_utc": "2025-06-22T08:37:29.255000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": "2025-06-22T08:37:42.014000+00:00",
+      "texto": "guxi: supongo que son el numero de fallecidos y heridos aunque me gusten los numeros no quiero ver personas como numeros ya no",
+      "mensaje_sha256": "270b755146de91c98f3259a1d69411e9a3b44e9747b881ec686bf803586b4f85",
+      "tipo_discord": 19,
+      "referencia": "1386262266755940352",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386263815934709850",
+      "texto_sha256": "ca7976ad5f8ad572181f5067052ac74b662a1e249b559c7706bfd741579f0f26",
+      "adjuntos": []
+    },
+    {
+      "id": "1386263979491332166",
+      "fecha_utc": "2025-06-22T08:38:08.250000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "No amigo ... por desgracia muchos más han caído... \n\n31 han sido las vidas que has salvado \nY 215 \n215 amigo han sido los heridos que has hecho que regresen al campo de batalla ... \n\n**te da un abrazo ** \nEstamos muy orgullosos de ti amigo .",
+      "mensaje_sha256": "3fa9d88976ffc42606ffff174bca2d14674ce932204c8d2038eec78bfdf46309",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386263979491332166",
+      "texto_sha256": "a1c7bde3392b2a21fc6e5bd07729568e49d914460577d3c4355a072ca2b12486",
+      "adjuntos": []
+    },
+    {
+      "id": "1386264462876610661",
+      "fecha_utc": "2025-06-22T08:40:03.498000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "guxi: gracias Banzo **le devuelve el abrazo** alguna vez te conte mi sueño? la razon por la que hago todo esto",
+      "mensaje_sha256": "e65102cb5c91bd9aa9560ba85b3b378304c34b7caaf31bd42b9be9ddc195658c",
+      "tipo_discord": 19,
+      "referencia": "1386263979491332166",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386264462876610661",
+      "texto_sha256": "77c05bfccaa12a401101cf5953ec2bba0cf760db46e3d00d9fe5325a0ebf2288",
+      "adjuntos": []
+    },
+    {
+      "id": "1386264739759263765",
+      "fecha_utc": "2025-06-22T08:41:09.512000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "Banzo : una vez me contestó algo sobre una escuela pero no entendí \nDime guxi , cual es tu sueño ?",
+      "mensaje_sha256": "8ca7fcff84440274852a59dd0cb94c9a9884bca084af17dd0426938b1494a264",
+      "tipo_discord": 19,
+      "referencia": "1386264462876610661",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386264739759263765",
+      "texto_sha256": "eca9a63a13b11fd23e23fe810d04c490293bbd7b5460e3d94422d20767696aac",
+      "adjuntos": []
+    },
+    {
+      "id": "1386265925094998147",
+      "fecha_utc": "2025-06-22T08:45:52.118000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "guxi: esa es mi meta lo que quiero hacer cuando termine la guerra ser profesor enseñar a los jovenes darle un futuro, Pero hace poco me di cuenta de una cosa de lo que realmente quiero Un futuro no solo para mi si no para todos no solo yo y sera , para todos los cazadores y todas las personas que quiero incluso a jelbreg y kalista para ti para Rua dar lo mejor de mi a cada paso que doy **se nota que palpa algo dentro de su chaqueta en todo este discurso sobre todo cuando nombra a sera**",
+      "mensaje_sha256": "89a10e671d526a50e7b750d966d0b24d3ee67b73ebb7dc079922cd3b39e72454",
+      "tipo_discord": 19,
+      "referencia": "1386264739759263765",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386265925094998147",
+      "texto_sha256": "cbd50e0e4d3172550ca0431e5ae05c6ad4a13b17894269caad4fffeef3500ebe",
+      "adjuntos": []
+    },
+    {
+      "id": "1386267865107271752",
+      "fecha_utc": "2025-06-22T08:53:34.653000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": "2025-06-22T08:55:43.134000+00:00",
+      "texto": "Banzo : **te sonrrie ampliamente **\nSi verdad ... \n**Mira hacia delante y resopla**\nEsa sensación de pelear por algo más que tu mismo ... \nYo también guxi . \nSupongo que hemos tenido que madurar a base de golpes eeee amigo **te da un golpecito suave con el codo\n\nSe pone serio otra vez y se sienta en una roca**\n\nLos oficiales hablan con nerviosismo... \n\nHe escuchado que esta primera oleada era solo una avanzadilla.  \nLa segunda será diferente . \nNecesitamos estar todos coordinados o esto será... una masacre . \nCuento contigo en retaguardia ? El gnomo de los cojones ha preguntado por ti . Esta muy pesado.  \n\nSobre Sera <@408026114548695061>  ... **te mira fijamente **\nLa he visto pelear ... la necesitamos en el frente amigo ... le preguntaré su opinión cuando despierte . \n**Mira al suelo sabiendo que es algo difícil de decir ... El también lo ha vivido **",
+      "mensaje_sha256": "a2c466a700179fe1b9c64d4d06f404af128af9968cce6a522108fa4f2b382876",
+      "tipo_discord": 19,
+      "referencia": "1386265925094998147",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386267865107271752",
+      "texto_sha256": "44f663b9a89e3c23fbcfd248d3ef17a4e1906ce2909a8f40b07af7684b789fc6",
+      "adjuntos": []
+    },
+    {
+      "id": "1386268993442287691",
+      "fecha_utc": "2025-06-22T08:58:03.669000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": "2025-06-22T08:58:48.526000+00:00",
+      "texto": "guxi: **esta mirando sus manos tiemblan en su mente estan cubiertas de sangre flashes de alguien muriendo en sus manos alguien que no pudo salvar** tenemos que hacer algo Banzo Debes ser tu quien nos lidere no hay nadie mas en los cazadores que pueda .todos aceptaran que seas tu , y si con eso conseguimos salir de esta te apoyare con todo mi ser al final eres como un alumno mio y prometi a mi mismo darle un futuro a todos mis alumnos **sonrie ligeramente al decir esas palabras**",
+      "mensaje_sha256": "e95bbe60ef5281226b2b80819265bf487ef6e2db9c939877463a717f77c40fb1",
+      "tipo_discord": 19,
+      "referencia": "1386267865107271752",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386268993442287691",
+      "texto_sha256": "2edaed3d3475cb95a4eff73f725d43b50666ec5b50345d837ff14709555802c7",
+      "adjuntos": []
+    },
+    {
+      "id": "1386270864919756881",
+      "fecha_utc": "2025-06-22T09:05:29.864000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "Banzo : NO QUIERO OIR HABLAR MAS **para y baja la voz ** \nNo quiero oír más la palabra líder.  \nLucharé y sangrare como uno más. Sois mi familia . \n*recuerda una vez en Ukyio una charla con <@220602485977382912> Wukong . Le hablaba sobre una leyenda de cuentos sobre un gran guerrero que le querían hacer líder.  Pero el no quería.  Pero supo rodearse de los mejores . Domde no llegaba su inteligencia llegava la de un compañero,  cuando su lógica fallaba intervenia otro más.  Pero ninguno de ellos dudaba en seguirle hasta el final ...*\n\nSi he aceptar algún rol será el de estar a vuestro lado guxi . Pero no me llames líder por favor . \n**se levanta y te pone el puño en el corazón ** \n\nMe seguirás igualmente hasta el final amigo ?",
+      "mensaje_sha256": "2837952c0ca57a9beeb127ef364ea046534dd3fc9ef975b6d2d58bcf4fbdb6e5",
+      "tipo_discord": 19,
+      "referencia": "1386268993442287691",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386270864919756881",
+      "texto_sha256": "b89cd61a40244889e9da409771dddbffe2b2556573e14227fb8361d59ae4c7ff",
+      "adjuntos": []
+    },
+    {
+      "id": "1386272549507305472",
+      "fecha_utc": "2025-06-22T09:12:11.501000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "guxi: **al fijarte otra vez ves su ropa especialmente su chaqueta que siempre estuvo impoluto que cuidaba como su vida llena de agujeros de sangre seca de jirones** Familia eh hasta hace poco odiaba esa palabra mi familia solo me ha traido desamores dolor y sufrimiento pero aqui encontre una \"familia\" que querer , se que es un peso muy dificil que sobrellevar Banzo pero eres el unico . Entendere que es dificil pero no estas solo si tienes miedo por que no eres lo suficientemente inteligente me tienes a mi si quieres carisma tienes a kalista fuerza tienes a jhin no puedes hacerlo todo solo pero eres el unico que ha tendido una mano a todos **sus palabras estan llenas de decision**",
+      "mensaje_sha256": "01ad00664fadf1f16ce9f77c3b47d0b60763d6146c2282776edaa79ec32827fb",
+      "tipo_discord": 19,
+      "referencia": "1386270864919756881",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386272549507305472",
+      "texto_sha256": "a1b30ea5ffe778a0c7329ca87b7afe9941206517b6e941c9fde6e55469d2ef15",
+      "adjuntos": []
+    },
+    {
+      "id": "1386273319275331664",
+      "fecha_utc": "2025-06-22T09:15:15.028000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "Banzo : Juntos entonces !? \n**te sonrrie y sigue con el puño en tu corazón esperando que tu hagas lo mismo **",
+      "mensaje_sha256": "64f09d2c60efb033ef3bce3b8cbf21fdd07ad60a6843b546ea8471a5d271f818",
+      "tipo_discord": 19,
+      "referencia": "1386272549507305472",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386273319275331664",
+      "texto_sha256": "551b0cbd2b18cf4f27b4651397a893736054c0c09480c4e8788a6e79197d7454",
+      "adjuntos": []
+    },
+    {
+      "id": "1386273833861779476",
+      "fecha_utc": "2025-06-22T09:17:17.715000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "guxi: **sonrie y te pone la mano llena de vendas y cortes aquella mano parece minuscula en comparacion** juntos espero que podamos ver un futuro donde podamos sonreir todos",
+      "mensaje_sha256": "691e9136216a189c1ecfa0b703b6f0976aba0923d39118d6009e559cb03862fa",
+      "tipo_discord": 19,
+      "referencia": "1386273319275331664",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386273833861779476",
+      "texto_sha256": "c571ef40420a66354706e45878e266cad67586fc3284bcc98f403ab5d5021c78",
+      "adjuntos": []
+    },
+    {
+      "id": "1386274878226825287",
+      "fecha_utc": "2025-06-22T09:21:26.711000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "Banzo : **ves que en su cuello uno de los pocos sitios donde no tiene tatuajes se empiezan a formar uno . \n\nEs una especie de tuerca con un libro y una pluma (quizá es símbolo de una academia ?)**\n\nDescansa amigo . \n**banzo se aleja en dirección a la tienda de los oficiales. **",
+      "mensaje_sha256": "ef4e0a59f9ffc1935645a6d3a3464f830bc2e88f9d467c4640cfdbc722e42fd6",
+      "tipo_discord": 19,
+      "referencia": "1386273833861779476",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386274878226825287",
+      "texto_sha256": "70736bb9c6b95ddc8c74dd6d56867617fd1468af8067aaa8494ab2ee4ce89f78",
+      "adjuntos": []
+    },
+    {
+      "id": "1386275507255115898",
+      "fecha_utc": "2025-06-22T09:23:56.683000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "guxi: lo hare , Pero recuerda descansar tu tambien Amigo antes de irte quiero darte una cosa **de su mochila saca varias pociones que ha hecho** no son muy potentes pero repartelas entre los soldados quiza salvemos unas cuantas vidas mas",
+      "mensaje_sha256": "9afa8b23df0c4f795af6c9fdbc59276ef972800c7d833449c9920e945d1e9212",
+      "tipo_discord": 19,
+      "referencia": "1386274878226825287",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386275507255115898",
+      "texto_sha256": "b3e8887f687322418595c7bedf5a5309495766b7dc94633080a2651fb737a35e",
+      "adjuntos": []
+    },
+    {
+      "id": "1386275840580653147",
+      "fecha_utc": "2025-06-22T09:25:16.154000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "Banzo : **la coge antes de irse **\nSerán útiles Guxi . Gracias .",
+      "mensaje_sha256": "ef49dcff5194a19223ef9681514163d7dafe7569a3cf4d567f33384e0d2183b1",
+      "tipo_discord": 19,
+      "referencia": "1386275507255115898",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386275840580653147",
+      "texto_sha256": "4fd1b50daa0c906e397faa707b6e7cb60e4a816d650d5b10c29458478470e766",
+      "adjuntos": []
+    }
+  ]
+}

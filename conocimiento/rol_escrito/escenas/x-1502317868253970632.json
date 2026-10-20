@@ -1,0 +1,102 @@
+{
+  "id": "x-1502317868253970632",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1502317868253970632",
+  "hilo_id": "1502317868253970632",
+  "hilo_nombre": "Perlasal - La ciudad de las Sirenas",
+  "titulo": "Āyōtōchtli ofrece su ayuda ante la iglesia de Perlasal",
+  "resumen": "Āyōtōchtli presenta el cadáver de un enemigo y propone ganarse la confianza del pueblo del mar mediante ayuda y entrenamiento compartido.",
+  "relato": "Āyōtōchtli arrastra el cuerpo de un sirénido enemigo hasta la plaza de Perlasal y lo deja frente a la iglesia submarina, ante la mirada cautelosa de los habitantes. Todavía se siente extraño respirando mediante sus nuevas branquias. Explica que no lleva el cadáver para presumir de fuerza: quiere mostrar que el enemigo que atormentaba a la población ya no volverá a hacerlo.\n\nClava la lanza en la arena y mantiene una actitud deliberadamente tranquila. Afirma que desea aprender del pueblo del mar y ayudarlo a fortalecerse. Contrapone la rapidez de sus combatientes bajo el agua con su propia resistencia y propone luchar juntos para mejorar. Permanece ante la iglesia, dispuesto a proteger a la comunidad y a ganarse su confianza. Los mensajes conservados no incluyen una respuesta de sus habitantes.",
+  "participantes": [
+    "Āyōtōchtli"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1502321492468433017",
+      "afirmacion": "Āyōtōchtli lleva el cadáver hasta la iglesia y propone ayuda y entrenamiento conjunto.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La apertura del hilo aporta una ilustración de Perlasal y un comentario sin personaje identificado; no se atribuye ese juicio a Āyōtōchtli.",
+    "Este mensaje usa cursiva también para describir acciones y ambiente. Se conserva el formato original y se interpreta según el contexto.",
+    "El deseo de obtener confianza no acredita que el pueblo haya aceptado la propuesta."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2026-05-08T14:34:51.508000+00:00",
+  "fin_utc": "2026-05-08T14:49:15.588000+00:00",
+  "fecha_local": "2026-05-08",
+  "intervalo": {
+    "anterior": 29,
+    "siguiente": 30,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1502008201464250389",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1502370548246642719",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 29,
+        "fecha": "2026-05-07",
+        "inicio_referencia_utc": "2026-05-07T18:04:02+00:00",
+        "fin_estimado_utc": "2026-05-07T20:45:23+00:00",
+        "duracion_video_segundos": 9681,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1502008201464250389"
+      },
+      {
+        "capitulo": 30,
+        "fecha": "2026-05-08",
+        "inicio_referencia_utc": "2026-05-08T18:03:57+00:00",
+        "fin_estimado_utc": "2026-05-08T20:19:56+00:00",
+        "duracion_video_segundos": 8159,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1502370548246642719"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1502317868253970632",
+      "fecha_utc": "2026-05-08T14:34:51.508000+00:00",
+      "fecha_local": "2026-05-08",
+      "editado_utc": "2026-05-08T14:35:10.311000+00:00",
+      "texto": "*Bueno el control de la humedad no es su fuerte, que esperarse de una ciudad de peces. Según una merluza muerta parecen una mera tribu tribal y perdida en el tiempo... y por ende mas simpáticos que los merluzos estirados.*",
+      "mensaje_sha256": "81daf71c1da0396d0cd9505caf3bdd2452b14fd4b67622189f7ec096ae50518b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1502317868253970632",
+      "texto_sha256": "a1930905ebe63eb2fe01b1604139f11df493d7a4eb11337447d5175dfea90fb3",
+      "adjuntos": [
+        {
+          "id": "1502317869856460830",
+          "nombre": "Perlasal.jpg",
+          "tipo": "image/jpeg",
+          "archivo": "adjuntos/1502317869856460830.jpg",
+          "url": "rol_escrito/adjuntos/1502317869856460830.jpg",
+          "bytes": 7254801,
+          "sha256": "ed7efd39e62bbe0f91b135f67b41416b7730d18d5f54953563b407c016406730"
+        }
+      ]
+    },
+    {
+      "id": "1502321492468433017",
+      "fecha_utc": "2026-05-08T14:49:15.588000+00:00",
+      "fecha_local": "2026-05-08",
+      "editado_utc": null,
+      "texto": "Āyōtōchtli: \n*Arrastro el cuerpo del sirénido enemigo hasta la plaza principal de Perla Sal y lo dejo frente a la iglesia submarina para que todos puedan verlo.*\n\n*Las corrientes marinas recorren lentamente el lugar mientras varios habitantes observan desde la distancia con mezcla de cautela y curiosidad.*\n\n*Las nuevas branquias de mi cuello se mueven acompasadas con mi respiración mientras exhalo pequeñas burbujas.*\n\n*Todavía sentirse extraño respirar como criatura del mar…*\n\n*Me incorporo lentamente y apoyo una mano sobre el pecho antes de mirar alrededor al pueblo.*\n\n— Āyōtōchtli no traer cadáver para presumir fuerza.\n\n*Señalo al sirénido muerto con calma.*\n\n— Este enemigo atormentar Perla Sal. Ahora ya no volver a hacerlo.\n\n*Clavo mi lanza en la arena junto al cuerpo y permanezco allí sin adoptar postura amenazante.*\n\n— Guerrero que traicionar no traer enemigo muerto hasta puerta de vuestra casa. Guerrero que mentir esconderse entre sombras.\n\n*Observo a los tritones y sirénidos reunidos alrededor mientras hablo con tranquilidad.*\n\n— Āyōtōchtli querer aprender de pueblo del mar… y también ayudar a pueblo crecer fuerte. Bajo agua vuestro combate ser rápido como corriente. Āyōtōchtli resistir golpes como roca.\n\n*Cruzo los brazos relajadamente mientras dejo que las corrientes muevan mi ropa.*\n\n— Si luchar juntos… todos mejorar.\n\n*Permanezco frente a la iglesia sin moverse, dejando claro con mi presencia que no he venido como enemigo, sino como alguien dispuesto a proteger y ganarse la confianza del pueblo.*",
+      "mensaje_sha256": "61c39af8b4146db430803bb371f2d3bf1279fdae8229ff43d2e4ec254c533cff",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1502321492468433017",
+      "texto_sha256": "66fe51a6e665ac8ef06f7fb07d1bcffb992d9feb9f1a496e374f94a2e1022b9e",
+      "adjuntos": []
+    }
+  ]
+}

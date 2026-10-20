@@ -1,0 +1,230 @@
+{
+  "id": "k-1369811943610646548",
+  "campana": "kuroto",
+  "unidad_revision": "k-1369811943610646548",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Un baño y una disculpa en el puerto",
+  "resumen": "Kaniza acepta el juego de Arwen en el agua y reconoce que desoyó su advertencia sobre una mujer.",
+  "relato": "Arwen acelera hacia el agua con Kaniza, que termina aceptando el chapuzón. Ambos se sumergen y vuelven a la superficie; la armadura hunde inicialmente a Kaniza, pero consigue salir sin ayuda, conservando la cesta que lleva. Arwen, en forma de oso, nada, lo lame y busca continuar jugando. Kaniza recuerda que deben dejar espacio para los barcos y aprovecha el momento para disculparse: reconoce que descartó la advertencia de Arwen sobre una mujer por considerarla demasiado pequeña. La conversación no identifica a esa mujer ni explica qué intentó hacer. Ya fuera del agua, Kaniza roza su rosario y seca mágicamente su ropa y su cuerpo. Arwen se aleja invitándolo a perseguirla y él corre detrás. En un apunte independiente, Banzo se dirige a los baños termales buscando relajarse; no se muestra su llegada ni una relación con el juego del puerto.",
+  "participantes": [
+    "Kaniza",
+    "Arwen",
+    "Banzo"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1369989684767490058",
+      "afirmacion": "Arwen y Kaniza se sumergen y salen a la superficie; ella juega en forma de oso.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1369991352275832882",
+      "afirmacion": "Kaniza se disculpa por desestimar una advertencia de Arwen; no identifica a la mujer implicada.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1369992936397471747",
+      "afirmacion": "Kaniza se seca al rozar su rosario.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1370079548502446082",
+      "afirmacion": "Kaniza sigue a Arwen corriendo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1369936715132829696",
+      "afirmacion": "Banzo toma el camino de los baños termales.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Continúa el acercamiento al puerto anunciado en la unidad anterior; aquí sí se muestran el salto y la salida del agua.",
+    "El apunte de Banzo es paralelo y no lo sitúa junto a Arwen y Kaniza."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-07T23:03:37.232000+00:00",
+  "fin_utc": "2025-05-08T21:24:19.674000+00:00",
+  "fecha_local": "2025-05-08",
+  "intervalo": {
+    "anterior": 112,
+    "siguiente": 113,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1369742246882054214",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1370105319824298084",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 112,
+        "fecha": "2025-05-07",
+        "inicio_referencia_utc": "2025-05-07T18:26:24+00:00",
+        "fin_estimado_utc": "2025-05-07T21:22:03+00:00",
+        "duracion_video_segundos": 10539,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1369742246882054214"
+      },
+      {
+        "capitulo": 113,
+        "fecha": "2025-05-08",
+        "inicio_referencia_utc": "2025-05-08T18:29:07+00:00",
+        "fin_estimado_utc": "2025-05-08T20:45:14+00:00",
+        "duracion_video_segundos": 8167,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1370105319824298084"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1369811943610646548",
+      "fecha_utc": "2025-05-07T23:03:37.232000+00:00",
+      "fecha_local": "2025-05-08",
+      "editado_utc": null,
+      "texto": "*Uh-oh*\n\nKaniza: ¿Arwen? ¿Estamos yendodirectoalaguaaa?",
+      "mensaje_sha256": "e1df41cfc3f8423babd9a599c9a703c26ca4f4eb58b590f1451f1f75ddc7d95f",
+      "tipo_discord": 19,
+      "referencia": "1369702011888599111",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1369811943610646548",
+      "texto_sha256": "2b0e3dc84adc00d85af5b7ca37a249abf6d9df456bfb641d514ba003c47cb73a",
+      "adjuntos": []
+    },
+    {
+      "id": "1369934974706515978",
+      "fecha_utc": "2025-05-08T07:12:30.131000+00:00",
+      "fecha_local": "2025-05-08",
+      "editado_utc": null,
+      "texto": "Arwen: **notas como acelera**",
+      "mensaje_sha256": "f62e4b5b6daef507d456d0446cc03bbf63016437eeba72cb3943a6ea5fe9d282",
+      "tipo_discord": 19,
+      "referencia": "1369811943610646548",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1369934974706515978",
+      "texto_sha256": "bd642dd20aa104c1ca05f61d56ca2ef2c3a206a9363702275943b1031f4451a3",
+      "adjuntos": []
+    },
+    {
+      "id": "1369936715132829696",
+      "fecha_utc": "2025-05-08T07:19:25.081000+00:00",
+      "fecha_local": "2025-05-08",
+      "editado_utc": null,
+      "texto": "Banzo : **Se le vería yendo hacia los baños termales** \n\n*necesito un poco de relax*",
+      "mensaje_sha256": "05367fbc945e6920b5e626bebc908a17ebb411e3429506fd6b91dae5d4628232",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1369936715132829696",
+      "texto_sha256": "007a0c3d892c2d826514b3c3d2db798479acca8573f7ff0a3d22c8ec42e4ad4e",
+      "adjuntos": []
+    },
+    {
+      "id": "1369989357385289789",
+      "fecha_utc": "2025-05-08T10:48:35.972000+00:00",
+      "fecha_local": "2025-05-08",
+      "editado_utc": null,
+      "texto": "**Había llegado un punto en el que ni le importaba. Si iban a acabar los dos en el agua, pues sea. No sería la peor cosa que le iba a pasar ese día, con el calor que hacía.**\n\nKaniza: ¡Bueeeeno pues! **dijo en voz alta para que se le oyera por sobre los sonidos osiles** ¡Hasta el fondo entonces!",
+      "mensaje_sha256": "785076512fa780e49638a1d1757fc53b05d1f04637ce49ae0807ead86fd74c17",
+      "tipo_discord": 19,
+      "referencia": "1369934974706515978",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1369989357385289789",
+      "texto_sha256": "652e1c37835c37868d9c0fa796a64d447baf12ebe1ee910d19380f954011dc1e",
+      "adjuntos": []
+    },
+    {
+      "id": "1369989684767490058",
+      "fecha_utc": "2025-05-08T10:49:54.026000+00:00",
+      "fecha_local": "2025-05-08",
+      "editado_utc": null,
+      "texto": "Arwen: **Saltais juntos sumergiendoos, rapidamente al caer os separais y nadais hasta la superficier. Arwen nada en forma de oso energica y empieza a darte lenguetazos mostrando que le gusta jugar contigo**",
+      "mensaje_sha256": "d65ea8fac235a2dd79b28582f8af0c820046066fa2b4bdd24251e53867034456",
+      "tipo_discord": 19,
+      "referencia": "1369989357385289789",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1369989684767490058",
+      "texto_sha256": "7236bafcbbf08f54c878eb981b8b2a98f5900b035e575007dd12b5bf06c751d8",
+      "adjuntos": []
+    },
+    {
+      "id": "1369991352275832882",
+      "fecha_utc": "2025-05-08T10:56:31.591000+00:00",
+      "fecha_local": "2025-05-08",
+      "editado_utc": "2025-05-08T10:57:37.952000+00:00",
+      "texto": "**Kaniza cayó hasta el fondo casi como una piedra, debido a que llevaba la armadura y los kilos de metal ayudaban, pero pudo salir sin más problemas al agua. Él y la cesta aún puesta, sujetada, que dejó caer el agua de debajo con un florsh cuando salió al exterior.**\n\nKaniza: Sí, sí, vamos **dijo, tratando de apartar un oso de encima suyo, pero sin tanta energía con el tono bastante más ligero que había tenido en mucho tiempo** Yo también estoy contento. Ahora tendríamos que movernos, tendrán que venir barcos y la gente con trabajos de verdad con los que les pagan.\n\n**Bajó la cabeza por unos momentos para volver a mojarse la cara, y volvió a salir.**\n\nKaniza: Te debo una disculpa, por cierto, por lo del otro día. Tenías razón con lo de la tipa esa, no debí descartarlo sólo porque fueras naneta. Para ser justos, no esperé que la gente intentara... *eso*.",
+      "mensaje_sha256": "a8781f0b35416a0c7fda19cb80662e707f46947b04c973cacd9175a61d9d342a",
+      "tipo_discord": 19,
+      "referencia": "1369989684767490058",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1369991352275832882",
+      "texto_sha256": "d4535ede600d98774c744bfbb45d212ab2b3fae998de20dcf869adce9efb236e",
+      "adjuntos": []
+    },
+    {
+      "id": "1369991959577366632",
+      "fecha_utc": "2025-05-08T10:58:56.383000+00:00",
+      "fecha_local": "2025-05-08",
+      "editado_utc": null,
+      "texto": "Arwen: **El oso sale del agua sacudiendose y empieza a dar brinquitos....quiere seguir jugando**",
+      "mensaje_sha256": "1619ddfcd552b7065cc4d296ce4a7dbb49e2dbaff1372e1e60ec9d0eb4522cf3",
+      "tipo_discord": 19,
+      "referencia": "1369991352275832882",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1369991959577366632",
+      "texto_sha256": "dff4e4d7aed22eae3114929d9f871b5ccd2e6f7d8d466756aecca3576e44e7e6",
+      "adjuntos": []
+    },
+    {
+      "id": "1369992936397471747",
+      "fecha_utc": "2025-05-08T11:02:49.275000+00:00",
+      "fecha_local": "2025-05-08",
+      "editado_utc": null,
+      "texto": "**Salió del agua con ella (oso), empapado hasta los topes, la túnica encima de todo pesada y pegándose por todas partes al cuerpo.**\n\nKaniza: Yea, yea... **hizo un gesto con la mano rozando el rosario, y toda el agua desapareció de su cuerpo, dejándole seco y además agradablemente calentito** ¿Cual es el plan ahora, pequeña hengeyokai?",
+      "mensaje_sha256": "8ea364c12d34a5333fd781068fcdfa159f17b005355f06c54d6677e84ed81e77",
+      "tipo_discord": 19,
+      "referencia": "1369991959577366632",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1369992936397471747",
+      "texto_sha256": "1d9bd254d39659961966184e33718747fac5c45233e68a6752a6be9da8d35c6d",
+      "adjuntos": []
+    },
+    {
+      "id": "1369999556833710140",
+      "fecha_utc": "2025-05-08T11:29:07.710000+00:00",
+      "fecha_local": "2025-05-08",
+      "editado_utc": null,
+      "texto": "Arwen: **Corretea alejandose se ti moviendo su osezno pandero y sacando su lengua ....parece mas un perro que un oso... Parece querer jugar al pilla pilla**",
+      "mensaje_sha256": "97f9e9e69cf528eb304a5c591038d1fca896b197ebe2af50dcbce9ea4afd699d",
+      "tipo_discord": 19,
+      "referencia": "1369992936397471747",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1369999556833710140",
+      "texto_sha256": "f5a53a5b7f4d2fb13c5f445860ac49e2a0d843f815914b47e415f37d63824156",
+      "adjuntos": []
+    },
+    {
+      "id": "1370079548502446082",
+      "fecha_utc": "2025-05-08T16:46:59.210000+00:00",
+      "fecha_local": "2025-05-08",
+      "editado_utc": null,
+      "texto": "**Fue corriendo detrás, porque por qué no.**\n\n**No le fue tan mal: no corría tanto como un oso, pero no corría en una diferencia tan abismal con un oso. Bastante más que la persona media.**",
+      "mensaje_sha256": "36f863468739a17c2c936025fb55ed10d9f674be9f42611a0de0abfcca4fa2e3",
+      "tipo_discord": 19,
+      "referencia": "1369999556833710140",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1370079548502446082",
+      "texto_sha256": "28ee3db89cc626665b66ad85e043d24d0979f2dabf0f61644e2b2606bb3ef79a",
+      "adjuntos": []
+    },
+    {
+      "id": "1370149343667028061",
+      "fecha_utc": "2025-05-08T21:24:19.674000+00:00",
+      "fecha_local": "2025-05-08",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena 🔴",
+      "mensaje_sha256": "d91892afa76fc095605a6711df48d7d19367e434935b4e0312af81dbf6d9fd02",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1370149343667028061",
+      "texto_sha256": "298fa93bf0457633e2be1e0841043d853cccb9548c7ae2d8426119f0cb0a929e",
+      "adjuntos": []
+    }
+  ]
+}

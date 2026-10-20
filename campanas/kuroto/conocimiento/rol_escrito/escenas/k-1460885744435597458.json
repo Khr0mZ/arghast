@@ -1,0 +1,77 @@
+{
+  "id": "k-1460885744435597458",
+  "campana": "kuroto",
+  "unidad_revision": "k-1460885744435597458",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "El anuncio de la batalla final",
+  "resumen": "La restitución de la cúpula precede a la orden de marchar hacia la Guarida del Demonio.",
+  "relato": "El Campamento Sur se prepara para marchar hacia la Guarida del Demonio. La narración afirma que la cúpula ha vuelto a proteger las tierras del Shogunato gracias a una pequeña druida convertida en Guardiana y a su Protector, sin nombrarlos en este mensaje. Los generales consideran que existe una oportunidad para acabar con Ootakemaru, pero el miedo y la incertidumbre siguen entre los soldados. Es el anuncio de una batalla decisiva: su resultado todavía no se narra.",
+  "participantes": [],
+  "evidencias": [
+    {
+      "mensaje_id": "1460885744435597458",
+      "afirmacion": "Se ordena preparar la marcha y se anuncia la cúpula protectora restituida.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Dos partes leídas completas. Adjunto Banzo.png visto: ojos de Kalista y Jelbreg con la frase Siempre estaremos contigo, grandullón; apoyo a la despedida, sin probar su presencia física.",
+    "La última intervención de Carulla es un comentario del jugador sobre una campaña futura, no la caída consumada de una diosa.",
+    "La pequeña criatura de ocho patas sale sin que nadie lo perciba; no asignarle nombre, genealogía ni propósito por inferencia."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-01-14T06:38:23.418000+00:00",
+  "fin_utc": "2026-01-14T06:38:23.418000+00:00",
+  "fecha_local": "2026-01-14",
+  "intervalo": {
+    "anterior": 179,
+    "siguiente": 180,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1458905021985853695",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1461435221806284870",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 179,
+        "fecha": "2026-01-08",
+        "inicio_referencia_utc": "2026-01-08T19:27:25+00:00",
+        "fin_estimado_utc": "2026-01-08T21:59:18+00:00",
+        "duracion_video_segundos": 9113,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1458905021985853695"
+      },
+      {
+        "capitulo": 180,
+        "fecha": "2026-01-15",
+        "inicio_referencia_utc": "2026-01-15T19:01:30+00:00",
+        "fin_estimado_utc": "2026-01-15T22:02:29+00:00",
+        "duracion_video_segundos": 10859,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1461435221806284870"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1460885744435597458",
+      "fecha_utc": "2026-01-14T06:38:23.418000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": null,
+      "texto": "**La isla de Kuroto despertó bajo un cielo teñido de rojo ardiente, como si el propio sol presintiera la sombra que estaba a punto de cernirse sobre el mundo. El amanecer no trajo calma, sino un presagio: el día en que todo sería decidido.**\n\n**En el Campamento Sur, las órdenes resonaron como tambores de guerra:\nprepararse para la marcha hacia la Guarida del Demonio.\nLa Cúpula, corrompida para proteger a los engendros del abismo, había vuelto a alzarse firme en defensa de las tierras del Shogunato. Y aquel milagro tenía dos nombres: una pequeña druida convertida en Guardiana, y su inquebrantable Protector. Su hazaña había encendido una llama nueva en los corazones agotados de los soldados del Sur.\nEl miedo seguía allí, serpenteando entre las filas; la incertidumbre pesaba como una armadura demasiado gruesa. Pero ahora había esperanza… y era suficiente.\nPor primera vez desde el inicio de la guerra, los generales del Shogunato veían una oportunidad real. Un único golpe, decisivo, para poner fin al reinado oscuro de Ootakemaru y sus demonios.\nLa guerra estaba a un suspiro de su desenlace.\nEra el momento de la batalla final.\nPorque si fallaban… no quedaría ninguna defensa más.\nLas tierras del Shogunato caerían, devoradas por las llamas y la oscuridad.\nY todos en Kuroto lo sabían: este amanecer rojo sería recordado para siempre.**",
+      "mensaje_sha256": "274b6b6a1ee17797944e74e64fff9e5e6776d4696909baee68ebb238ed973979",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1460885744435597458",
+      "texto_sha256": "0e5b5fe6edbfec3f00a228c1328771c72d8e73f5a5532c46832cc02bded13490",
+      "adjuntos": []
+    }
+  ]
+}

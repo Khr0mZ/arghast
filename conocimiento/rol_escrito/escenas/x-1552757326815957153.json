@@ -1,0 +1,82 @@
+{
+  "id": "x-1552757326815957153",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1552722043718602783",
+  "hilo_id": "1524091803647741996",
+  "hilo_nombre": "Jungla - En alguna parte de Xoltacán",
+  "titulo": "Tenta lee la invitación a Chopito",
+  "resumen": "El pequeño señor presume de comprensión y ambos parten nadando.",
+  "relato": "Chopito encuentra la nota de Coyote y aparenta comprenderla antes de pedir a Tenta que la lea. Ella explica que los invitan a Perlasal para acabar con el kraken. Su señor interpreta la invitación como reconocimiento de su propia divinidad y permite que lo acompañe. Ambos salen nadando, sin llegar ni combatir en esta viñeta.",
+  "participantes": [
+    "Tenta",
+    "Chopito"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1552757326815957153",
+      "afirmacion": "Tenta lee la invitación y ambos parten nadando.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Tres escenas distintas separadas en subescenas.",
+    "Coyote y Zelda aceptan escuchar, sin firmar o asumir un precio explícito.",
+    "No adjudicar poderes a la rama antes de ver su uso.",
+    "Palopalo es una piedra ordinaria con valor afectivo; no se confunde con la rama de Jivirix.",
+    "El contenido de la disputa previa no se reconstruye por las réplicas."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-09-24T19:03:15.549000+00:00",
+  "fin_utc": "2026-09-24T19:03:15.549000+00:00",
+  "fecha_local": "2026-09-24",
+  "intervalo": {
+    "anterior": 66,
+    "siguiente": 69,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 66,
+        "fecha": "2026-09-22",
+        "inicio_referencia_utc": "2026-09-22T18:20:03+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241"
+      },
+      {
+        "capitulo": 69,
+        "fecha": "2026-10-08",
+        "inicio_referencia_utc": "2026-10-08T18:17:02+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1552757326815957153",
+      "fecha_utc": "2026-09-24T19:03:15.549000+00:00",
+      "fecha_local": "2026-09-24",
+      "editado_utc": "2026-09-24T19:03:30.591000+00:00",
+      "texto": "Chopito:\n** Se acerca a la roca donde descansaba esa tortuga anciana**\n\n**Lee la nota de arriba a abajo**\n\nMhmm, ajam, sii, claro....mhmm entiendo....\nVale, oye tenta ven aqui mi leal sierva\n\nTenta:\nSi, mi señor?\n\nChopito:\n\nLee esto que mi intelecto malefico es demasiado avanzado para comprender este lenguaje\n\nTenta:\n\n*Se acerca a la roca leyendo la carta*\n\nMi dios, aqui pone que lo invitan a usted a ir a perlasal. Para acabar con la insignificante vida del falso dios. Dice tambien que estoy invitada\n\nChopito:\n\nAhh! Ves!? Siembra y recoje tenta. Me han escrito a mi. Al gran y poderoso Chopito a enseñarles como debe de actuar una verdadera deidad. Por supuesto que mi leal vasalla puede acompañarme\n\nTenta y chopito:\n\n**Se van nadando a Perlasal**",
+      "mensaje_sha256": "763fd64f2dff1caface9484e04e525d39ec8796da414c61401a797099023a235",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1552757326815957153",
+      "texto_sha256": "a3647cb5ec82ddea45374b9ae57d308e8e7a699497ba26f2a60e3dc8dfcc110e",
+      "adjuntos": []
+    }
+  ]
+}

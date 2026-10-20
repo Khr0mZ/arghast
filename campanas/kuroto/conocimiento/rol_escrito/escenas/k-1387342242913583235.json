@@ -1,0 +1,274 @@
+{
+  "id": "k-1387342242913583235",
+  "campana": "kuroto",
+  "unidad_revision": "k-1387342242913583235",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "El regreso con sangre y ropa de descanso",
+  "resumen": "Kalista encuentra a Archi y Kurobane después de una aventura.",
+  "relato": "Kalista llega con papeles, lamenta las puertas rotas y busca a Archi para recoger su encargo. El gnomo la saluda con ropa de descanso y agua de coco y alude a una aventura en una tierra extraña. Kurobane aparece ensangrentado y explica que combatieron contra grandes lagartos. La tritón le recomienda lavarse antes de salir a la calle, y el ninja se retira buscando un lago cercano. La escena no representa la aventura anterior, confirma heridas propias del joven ni muestra que se bañe.",
+  "participantes": [
+    "Kalista",
+    "Archi",
+    "Kurobane"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1387342888148668518",
+      "afirmacion": "Archi recibe a Kalista con un cambio de ropa de descanso y agua de coco.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1387345330194087937",
+      "afirmacion": "Kurobane atribuye la sangre a un combate anterior contra lagartos gigantes.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1387347050215112845",
+      "afirmacion": "Kurobane sale a buscar dónde lavarse.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Setenta y siete mensajes íntegros. Vista completa la imagen 1387342887838285957.jpg: ilustración de un gnomo vestido para descansar con coco, usada como apoyo humorístico del aspecto de Archi; no sitúa la base junto a una piscina real.",
+    "Kazuha = Dante Okaru queda acreditado en la firma y explicación (1387364359117865072 y 1387365180488417362). Dante Okaru = Kazuki se acredita por la transformación narrada en 1387380960273629308. La identidad conjunta se incorpora sin transferir automáticamente ese conocimiento a Kalista, Jelbreg u otros.",
+    "Sus hazañas anteriores y servicio a Barbatos son afirmaciones del visitante. La teoría de Jelbreg de que todos los demonios provienen del mismo plano no se impone como verdad cosmológica ni prueba que sea aliado de Ōtakemaru.",
+    "Hay firma material, pero Kalista no da por establecida una afiliación válida ni entrega insignia. No se marca como nuevo cazador admitido sin reservas.",
+    "El mapa se entrega, pero no se enumeran aquí sus objetivos o resultados. La recepción no acredita que todas las prestaciones anunciadas antes funcionen.",
+    "La sangre del ninja no se identifica como suya. La alarma sobre Rúa proviene de Banzo por una llamada no transcrita, sin amenaza confirmada en este encuentro.",
+    "La parte administrativa termina con cierre explícito; los asuntos de identidad, contrato y emergencia continúan abiertos."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-25T08:02:46.283000+00:00",
+  "fin_utc": "2025-06-25T08:23:56.648000+00:00",
+  "fecha_local": "2025-06-25",
+  "intervalo": {
+    "anterior": 131,
+    "siguiente": 132,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387130423632724151",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387494015813030079",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 131,
+        "fecha": "2025-06-24",
+        "inicio_referencia_utc": "2025-06-24T18:00:45+00:00",
+        "fin_estimado_utc": "2025-06-24T21:04:44+00:00",
+        "duracion_video_segundos": 11039,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387130423632724151"
+      },
+      {
+        "capitulo": 132,
+        "fecha": "2025-06-25",
+        "inicio_referencia_utc": "2025-06-25T18:05:33+00:00",
+        "fin_estimado_utc": "2025-06-25T20:47:07+00:00",
+        "duracion_video_segundos": 9694,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387494015813030079"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1387342242913583235",
+      "fecha_utc": "2025-06-25T08:02:46.283000+00:00",
+      "fecha_local": "2025-06-25",
+      "editado_utc": null,
+      "texto": "Kalista: **Llega a la base llena de papeles y pergaminos. Ve las puertas de nuevo rotas...** Tendre que encargar nuevas puertas....**Se acerca a la habitacion de Archi llamando...¿Al marco?** ¿Esto? Archi <@616683133374562304>",
+      "mensaje_sha256": "0f05a8f74a56503d2b45fa5d278dcc3aaca7054fa362f93660379c64c8b571ab",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387342242913583235",
+      "texto_sha256": "3cacf46e82c875bfaba2c9dbc074e5f5d1e829e53da01dec0d4ebbe77f66b818",
+      "adjuntos": []
+    },
+    {
+      "id": "1387342888148668518",
+      "fecha_utc": "2025-06-25T08:05:20.119000+00:00",
+      "fecha_local": "2025-06-25",
+      "editado_utc": null,
+      "texto": "Archi : Que paxa ? \n\n\n**ejem, tose**\nDigo ... Buenos días lady kalista de la corte del dragón",
+      "mensaje_sha256": "5b81e1e7767ddfd5cba2f5364b966e7d3a5518b4fba7c24b4cac68eea3b7a05d",
+      "tipo_discord": 19,
+      "referencia": "1387342242913583235",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387342888148668518",
+      "texto_sha256": "6b86f848f9010c18e177e683d740cf85d59884fbbd309112d66813b5bed7f389",
+      "adjuntos": [
+        {
+          "id": "1387342887838285957",
+          "nombre": "archi_playa.jpg",
+          "tipo": "image/jpeg",
+          "archivo": "adjuntos/1387342887838285957.jpg",
+          "url": "rol_escrito/adjuntos/1387342887838285957.jpg",
+          "bytes": 100055,
+          "sha256": "da412b690e7be7d91c9d4816dde0ef700d96ea7ab737bd3e86cca0478d3a10f0"
+        }
+      ]
+    },
+    {
+      "id": "1387343551217799270",
+      "fecha_utc": "2025-06-25T08:07:58.207000+00:00",
+      "fecha_local": "2025-06-25",
+      "editado_utc": null,
+      "texto": "**Te ve con esa ropa y sonrie** Buenos dias Archi...¿Le pillo acaso de vacaciones?",
+      "mensaje_sha256": "c2c2fda11d95b19adb37379308f32c09e2bb27fdd6b0d23cee8d9dfbb572cc91",
+      "tipo_discord": 19,
+      "referencia": "1387342888148668518",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387343551217799270",
+      "texto_sha256": "44e8017fe29b5f83b991826989d901049dbf78c15e8abff8229c1a945176621e",
+      "adjuntos": []
+    },
+    {
+      "id": "1387344069562466324",
+      "fecha_utc": "2025-06-25T08:10:01.790000+00:00",
+      "fecha_local": "2025-06-25",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\n**Se gira lo ves completamente ensangrentado**\n\nSaludos, señorita Kalista",
+      "mensaje_sha256": "bc0f92b6244ed879a61384c31756ec7fe5d6829ab4074a0622cbce93a0f5047c",
+      "tipo_discord": 19,
+      "referencia": "1387343551217799270",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387344069562466324",
+      "texto_sha256": "f61eebd1c2abd9aeb293359015cb3241cb15b29bccfdaa4df1b1e46cc0cddca5",
+      "adjuntos": []
+    },
+    {
+      "id": "1387344120078536844",
+      "fecha_utc": "2025-06-25T08:10:13.834000+00:00",
+      "fecha_local": "2025-06-25",
+      "editado_utc": null,
+      "texto": "Archi : aaaa lo dice por mon petit cambio de outfit  . \nAyer tuvimos una aventura en una rara tierra de furriedades.  Usted como si nada no se preocupe.  \n**sorbo al agua de coco y la deja ** \nDígame en que la ayudo .",
+      "mensaje_sha256": "43cbe04bdb50e4f4dbc775684d2034f6ef60075f73aad20d474919df0fa80657",
+      "tipo_discord": 19,
+      "referencia": "1387343551217799270",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387344120078536844",
+      "texto_sha256": "3a21c8ae5ce560a4c6ef0d708badc5d94492890f6fdb32adc70f1baac2de51f7",
+      "adjuntos": []
+    },
+    {
+      "id": "1387344551609368697",
+      "fecha_utc": "2025-06-25T08:11:56.719000+00:00",
+      "fecha_local": "2025-06-25",
+      "editado_utc": null,
+      "texto": "Kalista: **Te ve y da un pequeño sobresalto al verte asi** B-buenos dias...¿Kurobane?",
+      "mensaje_sha256": "5647b1dca6c08617ddfd96a820f467a25a1d95e242c106bc5214efe1150bf3a6",
+      "tipo_discord": 19,
+      "referencia": "1387344069562466324",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387344551609368697",
+      "texto_sha256": "3918655f0f4370744e5ca3655801cd0b4d254ccd2531d8a53187355627d4cf9b",
+      "adjuntos": []
+    },
+    {
+      "id": "1387344923925286962",
+      "fecha_utc": "2025-06-25T08:13:25.486000+00:00",
+      "fecha_local": "2025-06-25",
+      "editado_utc": null,
+      "texto": "Kalista: **te mira rapido despues de ver a Kuro intentando recomponerse** Venia a recoger eso que pedi...¿le importa si paso y me lo llevo?",
+      "mensaje_sha256": "054a0b1eb5f97da9037b51f5b20ef633770aa86a268e3869cf16b1366ade26ee",
+      "tipo_discord": 19,
+      "referencia": "1387344120078536844",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387344923925286962",
+      "texto_sha256": "0c4a6e4a54888979865563e14b6f0bb1bae655af8b5450416c48fd5014ce743e",
+      "adjuntos": []
+    },
+    {
+      "id": "1387345330194087937",
+      "fecha_utc": "2025-06-25T08:15:02.348000+00:00",
+      "fecha_local": "2025-06-25",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nTenga usted también un buen día, Kalista. Y disculpa por mi apariencia, en la aventura tuvimos que vencer a una especie de lagartos gigantes.\n\n**Dice tranquilo mientras se mira a si mismo**",
+      "mensaje_sha256": "4c9977d85559ba26b53ea9a19559df3134edf44a7bd6f3f44ea144add5738340",
+      "tipo_discord": 19,
+      "referencia": "1387344551609368697",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387345330194087937",
+      "texto_sha256": "1a629d3df9b6864cd268ed7eb23d4012dc83c5b41b23e9ed0994314caad19d14",
+      "adjuntos": []
+    },
+    {
+      "id": "1387345931288051765",
+      "fecha_utc": "2025-06-25T08:17:25.660000+00:00",
+      "fecha_local": "2025-06-25",
+      "editado_utc": null,
+      "texto": "Kalista: y-ya veo...le recomendaria ducharse y limpiar su ropa...si os ven asi por la calle...seria contraproducente",
+      "mensaje_sha256": "fe965d8be9d6de792acb89f173aaafca7b847bd51605700ceac3466a8ea310d4",
+      "tipo_discord": 19,
+      "referencia": "1387345330194087937",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387345931288051765",
+      "texto_sha256": "61a96623e7bc1b6c0e2fc1d43363210e47c4e1e8191f0fc8b037353d120bc701",
+      "adjuntos": []
+    },
+    {
+      "id": "1387346502300733501",
+      "fecha_utc": "2025-06-25T08:19:41.800000+00:00",
+      "fecha_local": "2025-06-25",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nAceptaré su recomendación, había no muy lejos de aquí un lago, no?\n\n**Pregunta serio moviéndose intentando manchar lo menos posible, quedándose mirando el mapa que estaba investigando el día anterior**",
+      "mensaje_sha256": "05931dcdb5bb6b2c4c684954d2712c72a5c46d9bbc0a9e6d203fb9d32c965113",
+      "tipo_discord": 19,
+      "referencia": "1387345931288051765",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387346502300733501",
+      "texto_sha256": "5d30bfc281d94002db9488eafb94fdb32c76938a29663923c59d4cb242633444",
+      "adjuntos": []
+    },
+    {
+      "id": "1387346619749367889",
+      "fecha_utc": "2025-06-25T08:20:09.802000+00:00",
+      "fecha_local": "2025-06-25",
+      "editado_utc": null,
+      "texto": "Kalista: pues...no lo se...",
+      "mensaje_sha256": "42aa200ca348d460643575ed5ca98ccb642a47b00e3c446ec2a99b007b08a9b8",
+      "tipo_discord": 19,
+      "referencia": "1387346502300733501",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387346619749367889",
+      "texto_sha256": "99d35880c44af04c98a68da68a28f7989e1d5b12488df502fad06dcbafbd58ab",
+      "adjuntos": []
+    },
+    {
+      "id": "1387347050215112845",
+      "fecha_utc": "2025-06-25T08:21:52.433000+00:00",
+      "fecha_local": "2025-06-25",
+      "editado_utc": "2025-06-25T08:25:14.961000+00:00",
+      "texto": "Kurobane:\n\n**Hace una pequeña reverencia antes de salir de la base y pasando sin dejar rastro se ira a algún lago cercano**",
+      "mensaje_sha256": "c64944b875e6499c263137f3e6a0b595d897d79a0606e025cd24e57f9ede9c31",
+      "tipo_discord": 19,
+      "referencia": "1387346619749367889",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387347050215112845",
+      "texto_sha256": "ee1937c5024540d17271d89bd7731dcaedcff9fbfcedbf11351949608774d409",
+      "adjuntos": []
+    },
+    {
+      "id": "1387347328926486660",
+      "fecha_utc": "2025-06-25T08:22:58.883000+00:00",
+      "fecha_local": "2025-06-25",
+      "editado_utc": null,
+      "texto": "Kalista: Adios...**Se despide de ti la merluza, mientras espera la respuesta del gnomo <@616683133374562304> **",
+      "mensaje_sha256": "7633b71aefc49002a1f0bb57a16e908eaa56d4ae66e2fd4208e635168e1d1db8",
+      "tipo_discord": 19,
+      "referencia": "1387347050215112845",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387347328926486660",
+      "texto_sha256": "f16a8684e357ca138140b939e68a3e51b43321b7fe3433a9409dd8fef56098c3",
+      "adjuntos": []
+    },
+    {
+      "id": "1387347571210719335",
+      "fecha_utc": "2025-06-25T08:23:56.648000+00:00",
+      "fecha_local": "2025-06-25",
+      "editado_utc": null,
+      "texto": "🥷 **Kurobane sale de escena**🥷",
+      "mensaje_sha256": "b0346cae3760e7c8d2a39e1013a8294db2492c5d29750b03dd384e6b2ee4daff",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387347571210719335",
+      "texto_sha256": "fc0c009e0a8ca21a55c129206a588ada3dc467933506b22f3517562a21fad5d5",
+      "adjuntos": []
+    }
+  ]
+}

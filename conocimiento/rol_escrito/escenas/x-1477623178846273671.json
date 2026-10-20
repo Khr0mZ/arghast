@@ -1,0 +1,313 @@
+{
+  "id": "x-1477623178846273671",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1477623178846273671",
+  "hilo_id": "1465411590789795962",
+  "hilo_nombre": "Shiaru - El ron de Bonny",
+  "titulo": "Bonny convierte la cortesía de Poncelot en un encargo",
+  "resumen": "El caballero devuelve equipo rescatado y promete defender un supuesto reino contra la Marina.",
+  "relato": "Poncelot vuelve a la taberna con un saco de equipo y solicita audiencia. Confunde las armas que le apuntan con pipas y se arrodilla ante Bonny como reina. Explica que participó en el rescate de Picks y de tres hombres, a quienes dejó en la enfermería, y entrega las pertenencias recuperadas, incluido un medallón religioso. La presencia posterior del mono en el local confirma que ya ha regresado.\n\nBonny comprende la confusión del gnomo y decide seguirle el juego. Escucha sus hazañas, le ofrece asiento y presenta a la Marina del sur como un reino malvado que amenaza a su pueblo. Poncelot, convencido de servir a una buena monarca, pone su lanza a su disposición. Ella promete devolver el equipo a sus dueños, aunque al marcharse el caballero ordena avisar al hombre patata y al ser alado de que les cobrará un favor por recuperarlo.\n\nEl gnomo sale satisfecho y aún sin montura, mientras los piratas se burlan de él. Bonny pide que lo vigilen. No hay investidura real, combate contra la Marina ni entrega gratuita del equipo a sus propietarios.",
+  "participantes": [
+    "Sir Poncelot",
+    "Happy Bonny",
+    "Hans",
+    "Picks"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1477642130988990595",
+      "afirmacion": "Poncelot entrega equipo recuperado y relata el rescate del mono y prisioneros.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1477681039320285315",
+      "afirmacion": "Promete defender el supuesto reino contra sus enemigos del sur.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1477685209464832070",
+      "afirmacion": "Bonny ordena vigilarlo y exigir un favor a los propietarios del equipo.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Las hazañas anteriores de Poncelot se atribuyen a su relato, no se reconstruyen como escenas nuevas.",
+    "El regreso de Picks se acredita aquí; no significa que esta conversación narre el rescate completo.",
+    "La reina y los caballeros son el marco imaginado por Poncelot y aprovechado por Bonny."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-03-01T11:06:58.748000+00:00",
+  "fin_utc": "2026-03-01T15:13:28+00:00",
+  "fecha_local": "2026-03-01",
+  "intervalo": {
+    "anterior": 11,
+    "siguiente": 12,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1476657677277991027",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1479193258008772802",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 11,
+        "fecha": "2026-02-26",
+        "inicio_referencia_utc": "2026-02-26T19:10:07+00:00",
+        "fin_estimado_utc": "2026-02-26T22:26:48+00:00",
+        "duracion_video_segundos": 11801,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1476657677277991027"
+      },
+      {
+        "capitulo": 12,
+        "fecha": "2026-03-05",
+        "inicio_referencia_utc": "2026-03-05T19:05:36+00:00",
+        "fin_estimado_utc": "2026-03-05T22:20:15+00:00",
+        "duracion_video_segundos": 11679,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1479193258008772802"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1477623178846273671",
+      "fecha_utc": "2026-03-01T11:06:58.748000+00:00",
+      "fecha_local": "2026-03-01",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**El gnomo entró en el \"castillo\" de su majestad Happy Bonnie y ojeó el ambiente. Todo estaba como la última vez que lo visito: alegría, jolgorio, buen ambiente... Eso convenció al caballero de que una buena monarca gobernaba a esa gente tan alegre.\n\nSe acomodó de nuevo el saco que llevaba a su espalda y se acercó a lo que creía que era un chambelán de la reina para pedirle de nuevo audiencia**\n\n- disculpe mi buen señor. Mi nombre es Sir Poncelot de la lanza, caballero andante y eventual compañero de aventuras de la capitana de caballería Ser Ione. Es posible que su Señoria Liz ya haya solicitado una audiencia en mi nombre, así que vengo a presentarle mis respetos a su majestad Happy Bonnie y a hacerle entrega de las propiedades de uno de sus caballeros recientemente rescatados por este caballero aquí presente.\n\n**El gnomo hizo una reverencia al gorila que vigilaba la zona que frecuentaba Bonnie y se le quedó mirando con cara afable**\n\n<@214405113677217793> <@616683133374562304>",
+      "mensaje_sha256": "4041afb99a1d7870799de0c536d9248c5f83037d6763f3eb796e236d22b4df0d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1477623178846273671",
+      "texto_sha256": "79e9e702353848ab313246e8b249c25dc1d32272175645de716c7ae071692499",
+      "adjuntos": []
+    },
+    {
+      "id": "1477635164031946894",
+      "fecha_utc": "2026-03-01T11:54:36.239000+00:00",
+      "fecha_local": "2026-03-01",
+      "editado_utc": "2026-03-01T11:55:36.200000+00:00",
+      "texto": "Pirata Hans: Eh? Hip.. Qé qiede udted? Hip... Happy... Hip... Bonny... Hip... **Mira a su alrededor y señala hacia la mesa de Bonny** Ahí... Hip... Pedo cuidad... **PLAS! En ese momento una botella voladora que pasaba por ahí se estampa en la cabeza del pirata y este se desploma en el suelo**",
+      "mensaje_sha256": "75e894d0d68045c289874a6061bfdd0d1321ab5c483cb2c76ed21ba5160f0ae4",
+      "tipo_discord": 19,
+      "referencia": "1477623178846273671",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1477635164031946894",
+      "texto_sha256": "e3e4666482e239b9c00cefbefb872793b72e0e935c3cdd9d3e4f19403f83c62c",
+      "adjuntos": []
+    },
+    {
+      "id": "1477635955631460434",
+      "fecha_utc": "2026-03-01T11:57:44.971000+00:00",
+      "fecha_local": "2026-03-01",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Se queda sorprendido mirando al hombre en el.suelo**\n\n- pero que diligencia tan sublime. Ha sido ver un cristal en el suelo se lanza a limpiarlo. Maravilloso!\n\n**Esquiva al hombre y se dirige a la mesa de Bonnie. La ve rodeada de hombres y decide esperar a que si majestad acabará su reunión. Al ver que no se percatan de su presencia decide hacer una tosecita para llamar la atención**",
+      "mensaje_sha256": "925f4640446df6e4d87714c46db25f75a5f7b8b0057075dc9b8de0dab95cc6fb",
+      "tipo_discord": 19,
+      "referencia": "1477635164031946894",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1477635955631460434",
+      "texto_sha256": "dc7125df22d69c7ba4502c283025ee977596838dff1b03ad8a56bed5e45f4f10",
+      "adjuntos": []
+    },
+    {
+      "id": "1477640050710941726",
+      "fecha_utc": "2026-03-01T12:14:01.314000+00:00",
+      "fecha_local": "2026-03-01",
+      "editado_utc": null,
+      "texto": "Happy Bonny: **La mujer estaba dando órdenes a sus esbirros mientras señalaba unos puntos en el mapa.** ¡QUERÉIS HACER EL FAVOR DE IR A POR...! **Al percatarse deL Pequeño gnomo observando, se callo de repente, todo el mundo quedó en silencio. Y en ese momento, todos se giraron a Sir Poncelot apuntando con sus pistolas** ¿Y tu quien diablos eres, pequeñajo?",
+      "mensaje_sha256": "0327df89fa8efe80c2fb4640dd2f3450c5a1fc7f81e14cdda0676d538ae57d47",
+      "tipo_discord": 19,
+      "referencia": "1477635955631460434",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1477640050710941726",
+      "texto_sha256": "b1e985957361dc393175c657f713c98e4203424aab0819f8710ad76509fb413b",
+      "adjuntos": []
+    },
+    {
+      "id": "1477642130988990595",
+      "fecha_utc": "2026-03-01T12:22:17.291000+00:00",
+      "fecha_local": "2026-03-01",
+      "editado_utc": "2026-03-01T12:27:31.857000+00:00",
+      "texto": "Sir Poncelot \n\n**Mira alegremente a los hombres de Bonnie apuntandole con sus pistolas**\n\n- oh! Muchas gracias caballeros, pero no puedo ponerme a fumar en pipa delante de la reina! En otra ocasión.\n\n**Mira a Bonny, deja el saco con un ruido metálico en l suelo, y clava la rodilla**\n\n- mi reina! He oído hablar mucho de vos! Si majestad Happy Bonny! Venerada monarca de este bello reino! Mi nombre es Sir Poncelot de la lanza! Humilde caballero andante! Castigo de dragones! Libertador de princesas! Y azote de gigantes! Llevaba tiempo queriendo presentarle mis respetos antes de comenzar mis valerosas andanzas en sus tierras, pero debido a que la capitana de sus caballeros ha precisado de mis servicios en varias ocasiones, no he podido adelantar esta magnífica reunión! \n\n**Levanta la mirada hacia la \"reina\"**\n\n- lo primero que quería solicitarle es permiso para actuar como caballero andante en sus tierras, arreglando los entuertos que me vaya encontrando, ganando renombre y ayudando a sus gentes! Lo segundo, quería agradecerle a su capitana Ione y a su escudero Nox la oportunidad que me dieron dejándome participar en el rescate de su bufón peludo y sus caballeros apresados! Añadir que los dejé en la enfermería con premura y presteza. Y tercero quería devolverle el equipo que conseguí recuperar en dicho rescate. Parece que pertenece a un clérigo ya que hay un medallón religioso.\n\n**Dejó el saco con el equipo entre el y la mesa de Bonny para hacerle entrega del mismo y agachó la cabeza de nuevo esperando la respuesta de la \"monarca\"**",
+      "mensaje_sha256": "3de6e325b0ed516d4ce454fd659eaf283a31c2ab23633efbe0439b2f943b5cae",
+      "tipo_discord": 19,
+      "referencia": "1477640050710941726",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1477642130988990595",
+      "texto_sha256": "6705ce587fae81f4e3e00ed5c2f48064b4f00683a7e73690562b1d1db0cf1963",
+      "adjuntos": []
+    },
+    {
+      "id": "1477644086633693295",
+      "fecha_utc": "2026-03-01T12:30:03.553000+00:00",
+      "fecha_local": "2026-03-01",
+      "editado_utc": "2026-03-01T12:33:39.243000+00:00",
+      "texto": "Happy Bonny: ¿Esto es una broma? **Dice con cara de incertidumbre mirando a sus esbirros que, estos, miran al gnomo y luego a su Capitana con una cara de confusión** ¿Que Nox e a Ione que? O vaya... Ya entiendo... Si, si si... Claro.... Siéntese señor Poncelot **Hace una seña a su tripulación para que le dejen una silla al recién llegado.**",
+      "mensaje_sha256": "f8ae21933078dffffff6cffe975d3140613499cfe679cc2d64e5044c9418b8be",
+      "tipo_discord": 19,
+      "referencia": "1477642130988990595",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1477644086633693295",
+      "texto_sha256": "ebf677e0f1b16956e572371ae2fccc402a34fb760109d608ebfefa5265e1012d",
+      "adjuntos": []
+    },
+    {
+      "id": "1477646842186563738",
+      "fecha_utc": "2026-03-01T12:41:00.528000+00:00",
+      "fecha_local": "2026-03-01",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Se levanta y le hace una reverencia agradeciendo la invitación**\n\n- mil gracias majestad.\n\n**El.gnomo.se.sube como puede a la silla, acomoda el trasero y mira atento a lo que le tenga que decir Bonny**",
+      "mensaje_sha256": "2c9fee52855f1d246ca1457a9ae5dac747386dc7664b6b558e6c7343e956e852",
+      "tipo_discord": 19,
+      "referencia": "1477644086633693295",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1477646842186563738",
+      "texto_sha256": "591e666a034e8e29c1bc9cc9558566439f00ee23d757c542d199adfa488baca4",
+      "adjuntos": []
+    },
+    {
+      "id": "1477648286365126676",
+      "fecha_utc": "2026-03-01T12:46:44.847000+00:00",
+      "fecha_local": "2026-03-01",
+      "editado_utc": null,
+      "texto": "Happy Bonny: Así que un caballero eh... **Dice mientras se sienta en la silla con una sonrisa** ¿De esos que salvan princesas y ayudan a reyes? **Se escuchan risitas por lo bajo**",
+      "mensaje_sha256": "c3f2f30183607e17e7b60cf6fcb946b3056d4be4e933727bad6ec6ff128a0bfe",
+      "tipo_discord": 19,
+      "referencia": "1477646842186563738",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1477648286365126676",
+      "texto_sha256": "aaeffc66b68da841b84449972029b08e9d3cf25bced0a43819a1c62aa6c9359f",
+      "adjuntos": []
+    },
+    {
+      "id": "1477652394526511227",
+      "fecha_utc": "2026-03-01T13:03:04.309000+00:00",
+      "fecha_local": "2026-03-01",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**El caballero pone cara de orgullo y el puño en su coraza**\n\n- así es mi señora! He acabado con ordas de goblins! He cercenado la cabeza de más de un dragón! Las princesas que quisieron entregarme sus favores tras ser rescatadas por mi se cuentan por decenas! Varios reyes intentaron retenerme en sus reinos como caballero real! Y en menor medida tengo mano con los equinos y me defiendo en el arte de la herrería.",
+      "mensaje_sha256": "8950bf842affac50bb986f8cc6fb65999d4ad3146fdab1a981d3b727401c5f5e",
+      "tipo_discord": 19,
+      "referencia": "1477648286365126676",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1477652394526511227",
+      "texto_sha256": "03138a2c62dcd2d272c9ef030556a3eb8af3f94806b8fe73286297f9bf511a79",
+      "adjuntos": []
+    },
+    {
+      "id": "1477654857967210661",
+      "fecha_utc": "2026-03-01T13:12:51.639000+00:00",
+      "fecha_local": "2026-03-01",
+      "editado_utc": "2026-03-01T13:13:11.220000+00:00",
+      "texto": "Happy Bonny: Oh vaya, eso es impresionante  señor Poncelot. **Rie entre dientes** Es un honor tener a un hombre de tal renombre en mis tierras. Así podremos descansar más tranquilos, verdad muchachos? **Los hombres de Bonny asienten entre risas, ya que todos ellos dan más miedo que el pequeño gnomo** No son tierras pacíficas, ya sabe...",
+      "mensaje_sha256": "1f484584a28dc7805a4f29d5d36c8ffa314ea353e40811f409169d684e021f2b",
+      "tipo_discord": 19,
+      "referencia": "1477652394526511227",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1477654857967210661",
+      "texto_sha256": "ddecf7e227b048351b16e5899c9546d931ed849e87bb0e35bcd248d42f5f5b22",
+      "adjuntos": []
+    },
+    {
+      "id": "1477655624534724704",
+      "fecha_utc": "2026-03-01T13:15:54.403000+00:00",
+      "fecha_local": "2026-03-01",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**El caballero asiente enérgicamente**\n\n- así es mi señora. Lo he comprobado de primera mano. En aquella cueva llena de caballeros oscuros tuve que proteger a Nox y a mí señora Titania. En otra ocasión casi perdemos a tres de vuestros hombres a manos de unas criaturas marinas que se hicieron pasar por sirenas. La dríada y la cabrita azul casi no lo cuentan, pero mie escudo es impenetrable. Y hace un par de noches rescatamos a su bufón y a tres de sus hombres de manos de unos chamanes salvajes que iban a sacrificarlos.",
+      "mensaje_sha256": "fe3e55de0ca5f04a4d66f281eb43f66f79ba3dca8c8f617a790b5232d8276251",
+      "tipo_discord": 19,
+      "referencia": "1477654857967210661",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1477655624534724704",
+      "texto_sha256": "3ff1ecf79b4f53a2fffe8d7618ebcbb115e62e24ea341e28b17cf300acef21ac",
+      "adjuntos": []
+    },
+    {
+      "id": "1477656670812508292",
+      "fecha_utc": "2026-03-01T13:20:03.855000+00:00",
+      "fecha_local": "2026-03-01",
+      "editado_utc": null,
+      "texto": "Happy Bonny: Ya, ya, ya... **Hace un gesto de preocupación, pero esta actuando** Un lugar terrible esta isla.... Y por no mencionar a ese reino malvado que está en el sur... Ay señor mío... **Los hombres de Bonny ya casi no pueden aguantar la risa. E incluso más de uno se marcha para estallar a carcajadas fuera de la taberna**",
+      "mensaje_sha256": "630866f4b1378646af6ee92852764ddf311aafe447edfb74722b1d5161ae8c1d",
+      "tipo_discord": 19,
+      "referencia": "1477655624534724704",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1477656670812508292",
+      "texto_sha256": "bbcf4b7b98a0fa556efb95c6669981f4e4bdd87009316ff9a83f2f67edd8a0e0",
+      "adjuntos": []
+    },
+    {
+      "id": "1477658699987419198",
+      "fecha_utc": "2026-03-01T13:28:07.648000+00:00",
+      "fecha_local": "2026-03-01",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Ve como un par de hombres de Bonny salen de la sala y estallan en risas**\n\n*Si el pueblo es feliz eso significa que su monarca es una buena persona. Solo haya ue ver lo bien que se lo pasan sus súbditos*\n\n- un segundo mi señora! Dice que tiene trifulcas con algún gañán y maleante que dirige un reino al sur de sus tierras?\n\n**El gnomo se pone de pie en la silla alterado**\n\n- eso es un ultraje! Estás bellas tierras no pueden ser violadas por agentes de esa calaña!",
+      "mensaje_sha256": "49321b3f5e0bdf6559d9797eb8fbeb667e200983fa545cd645665c078a52a13b",
+      "tipo_discord": 19,
+      "referencia": "1477656670812508292",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1477658699987419198",
+      "texto_sha256": "d1d4d4d5a140480452492c123b5276fe39f4c79ff0cd4e78ccc10fbea5023449",
+      "adjuntos": []
+    },
+    {
+      "id": "1477659603641569370",
+      "fecha_utc": "2026-03-01T13:31:43.096000+00:00",
+      "fecha_local": "2026-03-01",
+      "editado_utc": null,
+      "texto": "Happy Bonny: Ay mi señor... Si yo le contara... Si mis hombres fueran la mitad valerosos y caballerescos como usted... **Suspira mientras se le escapa una risita**...po...podrian librarnos de ese reino de tiranos... Ay, mi señor... Donde quedan ya hombres caballeroso que prestan su fuerza a reinos en desdicha... **Te mira de reojo, a ver si captas la indirecta**",
+      "mensaje_sha256": "b5a9ef70e7a902914f1a8c44f1f81e593ebc6d5e897fea8f729adca5da86d612",
+      "tipo_discord": 19,
+      "referencia": "1477658699987419198",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1477659603641569370",
+      "texto_sha256": "23d1a752dd743fe381c19486aacf2ffb52b6ed52f85fd7d41f01e334ad1a2fd1",
+      "adjuntos": []
+    },
+    {
+      "id": "1477681039320285315",
+      "fecha_utc": "2026-03-01T14:56:53.760000+00:00",
+      "fecha_local": "2026-03-01",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**El gnomo vuelve a darse un golpe en la coraza y se pone firme sin bajarse de la silla**\n\n- mi señora! Juro por mi lanza que si su pueblo necesita a este humilde caballero herrante para defenderse de las maldades que prepara ese reino vecino del sur, aquí me tendrá!",
+      "mensaje_sha256": "fc1fbd9ce194e1b122fe45e9976ab3d00a05a5e5cb82483633b21087dd954e83",
+      "tipo_discord": 19,
+      "referencia": "1477659603641569370",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1477681039320285315",
+      "texto_sha256": "1c4f917dbca5b95d26a3fe60c0a18d8e2a5840d2f27ad3a54ca38df1d53c4b43",
+      "adjuntos": []
+    },
+    {
+      "id": "1477682149917327360",
+      "fecha_utc": "2026-03-01T15:01:18.547000+00:00",
+      "fecha_local": "2026-03-01",
+      "editado_utc": null,
+      "texto": "Happy Bonny: Oh! Si? Muchas gracias mi buen señor Sir Poncelot **Entrelaza los dedos en una postura dramàtica** Los malvados señores de La Marina se lo pensarán dos veces en volver a causar problemas a este pequeño pero apacible reino **Se escucha un tiro a lo lejos y un par de gritos e insultos. Bonny mira la bolsa que le has dejado antes** Y no se preocupe por eso, yo misma me encargaré de devolvérselo a esas pobres almas que lucharon por defendernos y cayeron en desgracia.",
+      "mensaje_sha256": "0fa501fbeae13e9f7c98b5089134ceb2d93b2dd7a3158287921bedf5e95b3101",
+      "tipo_discord": 19,
+      "referencia": "1477681039320285315",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1477682149917327360",
+      "texto_sha256": "14033a8656775a73b5adbb6dd7b03ab4b397b19819d748b444029e883861c85a",
+      "adjuntos": []
+    },
+    {
+      "id": "1477683462583488614",
+      "fecha_utc": "2026-03-01T15:06:31.511000+00:00",
+      "fecha_local": "2026-03-01",
+      "editado_utc": "2026-03-01T15:09:47.192000+00:00",
+      "texto": "Sir Poncelot \n\n**Repite la reverencia y se baja de la silla de un salto**\n\n- en verdad sois una monarca magnánima como me dijo el escudero Nox! Me alegra poner mi lanza a su servicio mientras me hago un nombre como caballero andante en estas tierras! Ahora solo debo encontrar un corcel valeroso que me acompañe en esta aventura! Un caballero no es nada sin su montura! Con su permiso majestad!!!\n\n**Se gira hacia uno de los hombres de Bonny, le coge la pistola y se pone a darle chamadas como si fuera una pipa mientras se va en dirección a la salida de la taberna**\n\n- ahora que se ha acabado la audiencia si acepto su invitación a una buena pipa... Chup... Chup...",
+      "mensaje_sha256": "ac1c76f69f8b88e55fe0d5b213971a7f7e95699fa1fc53c8734667e28b1dd91d",
+      "tipo_discord": 19,
+      "referencia": "1477682149917327360",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1477683462583488614",
+      "texto_sha256": "5360362af166e91fbb4f18869c39a5086c1db65e65414416257f6ac7f533ed15",
+      "adjuntos": []
+    },
+    {
+      "id": "1477685209464832070",
+      "fecha_utc": "2026-03-01T15:13:28+00:00",
+      "fecha_local": "2026-03-01",
+      "editado_utc": "2026-03-01T16:47:31.300000+00:00",
+      "texto": "Happy Bonny: **Cuando el gnomo sale de la taberna, miles de risas empiezan a retumbar por todo el lugar. Los hombres de Bonny tirados por el suelo riéndose a carcajadas, otros piratas sonrientes intentando imitar el ambiente por si acaso e incluso Picks el mono, llorando de la risa** Ja ja ja ja... Vaya tío... Ja ja ja... Dos semanas... Y seguro que lo encontramos hecho trizas por los caníbales ja ja ja ja **Se seca las lágrimas** Tenerlo vigilado... Y avisar a esa patata andante y ese bicho alado que tengo sus cosas... O parte de ellas... Si las quieren, me van a deber una\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "9b29e03ed3223ac4e9788e5ab8ec20cd5e90c18abfb1f78584170f46738e0123",
+      "tipo_discord": 19,
+      "referencia": "1477683462583488614",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1477685209464832070",
+      "texto_sha256": "b0e30094b66b4de86e598970d27334a7c0bcf271d8f22ddd247b86947210d53a",
+      "adjuntos": []
+    }
+  ]
+}

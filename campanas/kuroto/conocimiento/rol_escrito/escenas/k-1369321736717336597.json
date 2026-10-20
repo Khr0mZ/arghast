@@ -1,0 +1,216 @@
+{
+  "id": "k-1369321736717336597",
+  "campana": "kuroto",
+  "unidad_revision": "k-1368711266256031755",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "El puerto como primer paso",
+  "resumen": "Tras el regreso de Jelbreg, sus acompañantes salen a buscar a Kalista.",
+  "relato": "Dos días después, una figura no identificada atraviesa el portal. Más tarde, una luz blanca llena la base y aparecen Banzo, Palathier, Wasabi y Jelbreg, mientras Glu-Glu se golpea desorientado. El drow expresa su confianza en dos de sus acompañantes y se marcha sin aclarar aquí qué han acordado. Banzo plantea buscar a Kalista: propone el mar o la choza invisible del sur, aunque admite que no está seguro de poder regresar a ella. Palathier prefiere empezar por el puerto y pensar desde allí el siguiente paso; Wasabi escucha pensativa. El grupo se encamina al puerto, con salida explícita de Banzo y Palathier. Kalista no aparece y no se confirma ninguna de las localizaciones propuestas.",
+  "participantes": [
+    "Banzo",
+    "Palathier",
+    "Wasabi",
+    "Jelbreg",
+    "Glu-Glu"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1369321736717336597",
+      "afirmacion": "Una figura no identificada atraviesa el portal.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1369329344807436448",
+      "afirmacion": "Banzo, Palathier, Wasabi y Jelbreg aparecen en la base; el drow expresa confianza y sale.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1369332468481785856",
+      "afirmacion": "Banzo baraja buscar a Kalista en el mar o en un refugio invisible del sur.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1369337835487760586",
+      "afirmacion": "Los acompañantes se desplazan al puerto sin encontrar aún a Kalista.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Veintitrés mensajes completos con tres encuentros separados. El relato de Kurobane es retrospectivo y parcial; no sustituye las fuentes de la escena que cuenta.",
+    "La muerte del shogun se menciona expresamente en el diálogo de Guxi. No se deduce aquí su causa.",
+    "La figura que cruza el portal no se identifica con Wasabi ni con otro participante por proximidad.",
+    "No se aclara a cuáles dos compañeros dirige Jelbreg su declaración de confianza. La armadura de Banzo no demuestra una infiltración ni una misión nueva."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2025-05-06T14:35:42.801000+00:00",
+  "fin_utc": "2025-05-06T15:42:26.306000+00:00",
+  "fecha_local": "2025-05-06",
+  "intervalo": {
+    "anterior": 111,
+    "siguiente": 112,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1369742246882054214",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 111,
+        "fecha": "2025-05-01",
+        "inicio_referencia_utc": "2025-05-01T18:30:18+00:00",
+        "fin_estimado_utc": "2025-05-01T21:17:50+00:00",
+        "duracion_video_segundos": 10052,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983"
+      },
+      {
+        "capitulo": 112,
+        "fecha": "2025-05-07",
+        "inicio_referencia_utc": "2025-05-07T18:26:24+00:00",
+        "fin_estimado_utc": "2025-05-07T21:22:03+00:00",
+        "duracion_video_segundos": 10539,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1369742246882054214"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1369321736717336597",
+      "fecha_utc": "2025-05-06T14:35:42.801000+00:00",
+      "fecha_local": "2025-05-06",
+      "editado_utc": null,
+      "texto": "**Un extraño se acerca al portal y lo atraviesa**",
+      "mensaje_sha256": "400748e2d9265c32c7fd2d329b7b482f563d4d2050420658239ecadba3831051",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369321736717336597",
+      "texto_sha256": "4996cdc3eff02b4490df479b42ee122bdc6452d95b2725abba2fae2f2f88414d",
+      "adjuntos": []
+    },
+    {
+      "id": "1369329344807436448",
+      "fecha_utc": "2025-05-06T15:05:56.711000+00:00",
+      "fecha_local": "2025-05-06",
+      "editado_utc": null,
+      "texto": "**Una enorme luz blanca ilumina la sala de la base, Glu-Glu se queda medio cegado y se golpea con las paredes torpememte (más de lo habitual). Aparecen Banzo <@616683133374562304>, Palathier <@694971576340447292>, Wasabi <@753394009153732689>, y Jelbreg.**\n\nJelbreg: **Los mira fijamente a los ojos a los dos mientras se coloca bien la armadura** Confio... confio en vosotros... **Dicho esto se da la vuelta y se marcha por la puerta de la base**",
+      "mensaje_sha256": "1dc3f3c910561793d6ecf5da2727e67eb4413f002618a73432aca6724cb6e8e0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369329344807436448",
+      "texto_sha256": "1d17a7ec08742a386c70697160c36ccdcb3394ed630404f556fa791e924fb557",
+      "adjuntos": []
+    },
+    {
+      "id": "1369329457072046251",
+      "fecha_utc": "2025-05-06T15:06:23.477000+00:00",
+      "fecha_local": "2025-05-06",
+      "editado_utc": null,
+      "texto": "👻Jelbreg sale de escena👻",
+      "mensaje_sha256": "497db73b1de76ea67efdb338a0e75437e296cbd2550369291a5e2f3230e791e1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369329457072046251",
+      "texto_sha256": "e9f9404411569db369cee160947cb256ad78a96d12c7b675c0cd6e6c12487aa5",
+      "adjuntos": []
+    },
+    {
+      "id": "1369332468481785856",
+      "fecha_utc": "2025-05-06T15:18:21.453000+00:00",
+      "fecha_local": "2025-05-06",
+      "editado_utc": "2025-05-06T15:22:16.725000+00:00",
+      "texto": "Banzo : muy bien , esto era la parte fácil.  **Mira a Phalatzier** <@694971576340447292> , buscamos a kalista entonces ?\nAlguna idea?  **Mira a wasabi** \nNo creo que pueda estar lanzando constantemente hechizos para desaparecer , quizá haya decidido ir a un sitio seguro . Se me ocurren dos . O el mar , ahí estamos jodidos o en la choza invisible en el Sur ...",
+      "mensaje_sha256": "2a4024c045abdb67fd055ce900177ed1812f801bdc010ec593181c104d10bf3b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369332468481785856",
+      "texto_sha256": "2f7f8022ad5102c24eebaeb0ae5f5853163bfa839ab1c0d29f4f99f2476df11e",
+      "adjuntos": []
+    },
+    {
+      "id": "1369334132534149311",
+      "fecha_utc": "2025-05-06T15:24:58.194000+00:00",
+      "fecha_local": "2025-05-06",
+      "editado_utc": "2025-05-06T15:25:09.478000+00:00",
+      "texto": "Palathier: **Recomponiéndose del teleport, se centra en la misión**\nVamos a ello. Estar cerca del mar puede facilitar las cosas si sigue escondiéndose allá. De la choza esa no he oído hablar, dónde está?\n**Por un momento se queda pensativa**",
+      "mensaje_sha256": "2c2063f9e0d02250bfc92c2ad2e79a040aea0b1a418ff2a63c7a87da16446ccd",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369334132534149311",
+      "texto_sha256": "595415e0cdd9e1490e3272c20e0ad97a87f7828fad71201959fc98616600f8e9",
+      "adjuntos": []
+    },
+    {
+      "id": "1369335584258134119",
+      "fecha_utc": "2025-05-06T15:30:44.312000+00:00",
+      "fecha_local": "2025-05-06",
+      "editado_utc": null,
+      "texto": "Banzo : uff no se yo si sabría volver , esta oculta . Te parece bien mirar antes por el puerto ?",
+      "mensaje_sha256": "61bf89920921509e5b8524baaf1256105f0162266d991fc469d5ec1e143d891b",
+      "tipo_discord": 19,
+      "referencia": "1369334132534149311",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369335584258134119",
+      "texto_sha256": "f820109c97c51da139db530ef94cd7a4079c7f444ddf4dbf948d4e983d1962ed",
+      "adjuntos": []
+    },
+    {
+      "id": "1369336125218492650",
+      "fecha_utc": "2025-05-06T15:32:53.287000+00:00",
+      "fecha_local": "2025-05-06",
+      "editado_utc": null,
+      "texto": "Wasabi: **Te mira, se rasca la barbilla pensativa**",
+      "mensaje_sha256": "ac14d6824ffee3bf8bdae92c07156ecf5329487f3f083b26addcd663f6aefa12",
+      "tipo_discord": 19,
+      "referencia": "1369332468481785856",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369336125218492650",
+      "texto_sha256": "0e823a3db9a32e5c3c9e0e928fbfe950ef2e5ade6c16f9c18127f12950921ba2",
+      "adjuntos": []
+    },
+    {
+      "id": "1369337217620770947",
+      "fecha_utc": "2025-05-06T15:37:13.736000+00:00",
+      "fecha_local": "2025-05-06",
+      "editado_utc": null,
+      "texto": "Palathier: Pasemos un rato por allá a ver si vemos algún indicio y de mientras pensemos en el siguiente paso. Yo no la conozco mucho, desde que volví he estado prácticamente todo el tiempo en el campamento sur",
+      "mensaje_sha256": "64733fad56d625cc7fbbca4adc551cd1f3d3af6f3e437cbb2b38bb23c29876ec",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369337217620770947",
+      "texto_sha256": "d76e8418a8c7f3d3266a90e69148df76c8fca6f13ce58a772c8e09293838e735",
+      "adjuntos": []
+    },
+    {
+      "id": "1369337835487760586",
+      "fecha_utc": "2025-05-06T15:39:41.047000+00:00",
+      "fecha_local": "2025-05-06",
+      "editado_utc": null,
+      "texto": "**Nos desplazamos al puerto**",
+      "mensaje_sha256": "08d14296a7b046ba1f2d2becc33c9cfe283b2c2fda35d3dafcd6335a90545acb",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369337835487760586",
+      "texto_sha256": "c25de802daa4c737a46273a338ae35e53d2627de587c4a065022d25aa79a4300",
+      "adjuntos": []
+    },
+    {
+      "id": "1369338528634376222",
+      "fecha_utc": "2025-05-06T15:42:26.306000+00:00",
+      "fecha_local": "2025-05-06",
+      "editado_utc": null,
+      "texto": "🫂 Banzo y Phalatzier salen de escena 🫂",
+      "mensaje_sha256": "828d00d4e1315cb63a1999551de1d13fb65ff1ac47f7233a817cc819e3687951",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369338528634376222",
+      "texto_sha256": "2ac07de8f12f2c49a88555cc197bb20e6118bc1c625852cc24262fe0c3c202cc",
+      "adjuntos": []
+    }
+  ]
+}

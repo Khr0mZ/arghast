@@ -1,0 +1,356 @@
+{
+  "id": "k-1418881131532652627",
+  "campana": "kuroto",
+  "unidad_revision": "k-1418356867662614559",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "El mensaje incompleto",
+  "resumen": "R3 moviliza a Jhin y Chani con una grabación de Archi.",
+  "relato": "Dos días después, R3 llega a Sho con sirena roja y pitidos de alarma. Jhin lo reconoce como un robot de Archi e intenta entender qué ocurre. El pequeño constructo busca a otros Cazadores y después abre su cuerpo para mostrar un cuarzo rosa que proyecta una grabación. Archi anuncia que ha sido traicionado por la voz de su intelecto y pide llevar el cristal a su taller, pero unas imágenes privadas grabadas por error interrumpen las instrucciones importantes. Jhin intenta retirar la piedra, sin conseguirlo al principio; la proyección aumenta el volumen y despierta a Chani.\n\nLa grabación recupera brevemente el mensaje: Archi dice que no recordará nada, deposita su confianza en quienes lo vean y pide perdón a Kalista y Jelbreg. Entonces el cristal se desprende y R3 se recompone. Chani no ha entendido lo ocurrido, pero se ofrece a acompañar a Jhin cuando este decide dirigirse a los barrios bajos con la esperanza de salvar a Archi. Ambos salen de la base. El fragmento deja desconocidos el peligro concreto, las instrucciones omitidas y el resultado del rescate.",
+  "participantes": [
+    "R3",
+    "Jhin",
+    "Chanecuxtli",
+    "Archi en grabación"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1418881131532652627",
+      "afirmacion": "R3 llega con alarma sonora y luz roja.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1418993055398101075",
+      "afirmacion": "La grabación de Archi pide ayuda y llevar el cristal al taller, pero se interrumpe.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1418998803540869210",
+      "afirmacion": "Archi anuncia en el mensaje que no recordará nada y pide perdón a Kalista y Jelbreg; el cristal se libera.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1419006481084186758",
+      "afirmacion": "Jhin decide ir a los barrios bajos.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1419008760118251681",
+      "afirmacion": "Jhin sale con intención de salvar a Archi.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1419009803522408521",
+      "afirmacion": "Chani sigue a Jhin tras conocer la posible emergencia.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La mujer mencionada en el pensamiento del ninja no se identifica aquí; no asignar por conjetura la autoría de su liberación.",
+    "La grabación interrumpida no permite reconstruir los pasos que faltan ni determinar una traición concreta.",
+    "Las imágenes privadas accidentales y las bromas fuera de personaje no se convierten en detalle íntimo del relato ni en datos biográficos de Jhin.",
+    "No se identifica R3 con R2 ni con Ralph; mantener los nombres que da el original.",
+    "El rescate queda planteado, sin resultado mostrado."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-09-20T08:47:03.294000+00:00",
+  "fin_utc": "2025-09-20T20:33:09.604000+00:00",
+  "fecha_local": "2025-09-20",
+  "intervalo": {
+    "anterior": 158,
+    "siguiente": 159,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1418299599050899618",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1420832479270408274",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 158,
+        "fecha": "2025-09-18",
+        "inicio_referencia_utc": "2025-09-18T18:15:55+00:00",
+        "fin_estimado_utc": "2025-09-18T20:58:06+00:00",
+        "duracion_video_segundos": 9731,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1418299599050899618"
+      },
+      {
+        "capitulo": 159,
+        "fecha": "2025-09-25",
+        "inicio_referencia_utc": "2025-09-25T18:00:44+00:00",
+        "fin_estimado_utc": "2025-09-25T20:59:58+00:00",
+        "duracion_video_segundos": 10754,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1420832479270408274"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1418881131532652627",
+      "fecha_utc": "2025-09-20T08:47:03.294000+00:00",
+      "fecha_local": "2025-09-20",
+      "editado_utc": null,
+      "texto": "R3: **el pequeño robot llega a la base apresuradamente , llega parpadeando con una sirena en rojo y con un insistente pitido de alarma **",
+      "mensaje_sha256": "52808122cc934e687b239cb6dc37095d5f8ae93a8370451929eeb673d75f9165",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418881131532652627",
+      "texto_sha256": "cfea70e91291d89c6e89f516b3fa0fa1708094e563b1912676fdc9401845a913",
+      "adjuntos": []
+    },
+    {
+      "id": "1418940595837337610",
+      "fecha_utc": "2025-09-20T12:43:20.689000+00:00",
+      "fecha_local": "2025-09-20",
+      "editado_utc": null,
+      "texto": "jhin: **llega a la base con un libro casi sin darse cuenta de sus alrededores cuando de repente se choca con algo**\nTu eres de archi que pasa?",
+      "mensaje_sha256": "eec48ce89fb601ab8ba4a81359b45c263c49e83005049917763dda9a0960218f",
+      "tipo_discord": 19,
+      "referencia": "1418881131532652627",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418940595837337610",
+      "texto_sha256": "e439cf9802e4e61aa594682c666ffdc01f6fdbd83923e88df5eb1305f14f4728",
+      "adjuntos": []
+    },
+    {
+      "id": "1418990789912035492",
+      "fecha_utc": "2025-09-20T16:02:47.889000+00:00",
+      "fecha_local": "2025-09-20",
+      "editado_utc": null,
+      "texto": "R3: **empieza a dar vueltas a su alrededor haciendo diferentes tipos de pitido intentando explicar lo que ha pasado . Te mira y se dirige a las habitaciones de lo cazadores , parece que busca aun a mas cazadores , se va chocando con las cosas por la prisa y te mira confuso como preguntando donde están los demás **",
+      "mensaje_sha256": "f0e9964b31bb3bef6ecc86e09e784584bcfbe600109ffbb607ffa6b933e69526",
+      "tipo_discord": 19,
+      "referencia": "1418940595837337610",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418990789912035492",
+      "texto_sha256": "74e82bbf3646249134b447606b70d9e5dc75707d939c1b011321f8b9d94bd45e",
+      "adjuntos": []
+    },
+    {
+      "id": "1418991022238728323",
+      "fecha_utc": "2025-09-20T16:03:43.280000+00:00",
+      "fecha_local": "2025-09-20",
+      "editado_utc": null,
+      "texto": "Jhin: solo estoy yo creo que te pasa?\nDonde está archi?",
+      "mensaje_sha256": "cea1330a3120438c0bfe860a74e174b4e96720062e33ae8cc4d21eb88ac437a2",
+      "tipo_discord": 19,
+      "referencia": "1418990789912035492",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418991022238728323",
+      "texto_sha256": "be1650166ad0e4ca5650b3f4c2b43e7f3b2270806208b9eee1951757e63dad1b",
+      "adjuntos": []
+    },
+    {
+      "id": "1418993055398101075",
+      "fecha_utc": "2025-09-20T16:11:48.023000+00:00",
+      "fecha_local": "2025-09-20",
+      "editado_utc": "2025-09-20T16:12:45.284000+00:00",
+      "texto": "R3 : **hace un sonido como expresando tristeza y acto seguido se pone delante tuya , su cuerpo hecho de engranajes va cambiando hasta abrirse y de el salir un cristal de cuarzo rosa que se ilumina y parece que proyecta algo **\n(Magic mouth y minor ilusion) \n\n\n**holograma de archi ** \nHola hola se me oye ? \nBien , no se porque pregunto no vais a contestar es una grabación.  \nGente,  si estáis viendo esto la he liado . He sido traicionado por la voz de mi intelecto.  No os preocupéis es sencillo , coger este cristal llegar a mi taller y ...\n\n\n **el holograma empieza a ponerse borroso , se entrecorta hasta que cambia por completo a un holograma ... un poco mas ... subido de todo . Parece que el gnomo le gustaba grabarse en sus noches en el.petalo . Pero esta vez lo ha gravado encima de un mensaje crucial . Sobretodo para salvar su vida . **",
+      "mensaje_sha256": "0c92008fba3ef7b94e51dfe26702efca0289407bdb5adbed04184616ec77e0ae",
+      "tipo_discord": 19,
+      "referencia": "1418991022238728323",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418993055398101075",
+      "texto_sha256": "ff82094da96d287a7bb630f4fb667457e441b8fb021a0b267ff57c2f38cafb16",
+      "adjuntos": []
+    },
+    {
+      "id": "1418994222379565137",
+      "fecha_utc": "2025-09-20T16:16:26.253000+00:00",
+      "fecha_local": "2025-09-20",
+      "editado_utc": null,
+      "texto": "Jhin: *en que se habrá metido ahora este gnomo*\nBueno pues sígueme y vamos a su taller\nTe llamas r3?",
+      "mensaje_sha256": "0839e532e207617aaf1e9b61e17de34734625ba5981e5bfc49dd34cd77b8d95b",
+      "tipo_discord": 19,
+      "referencia": "1418993055398101075",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418994222379565137",
+      "texto_sha256": "714914f600ebf838ca64443c17fe2ae92df9f6a4b2c5b710866918cb6850f65c",
+      "adjuntos": []
+    },
+    {
+      "id": "1418994969980571709",
+      "fecha_utc": "2025-09-20T16:19:24.495000+00:00",
+      "fecha_local": "2025-09-20",
+      "editado_utc": null,
+      "texto": "R3: **parece que el pequeño robot sigue emitiendo esa grabacion, podrías ver cosas que no imaginavas posibles , tanto por tamaño como por flexibilidad quiza ? ** \n(*como se apagará esta cosa jhin*)",
+      "mensaje_sha256": "5f713581c25314ff3c89262d81e0993c573383b2d6430d604f5ca156cd4eadfd",
+      "tipo_discord": 19,
+      "referencia": "1418994222379565137",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418994969980571709",
+      "texto_sha256": "948d9bd83839f8ffb9752ac46e042658676dcf8024ddffcfa707b39e6b4f380c",
+      "adjuntos": []
+    },
+    {
+      "id": "1418995616385601577",
+      "fecha_utc": "2025-09-20T16:21:58.610000+00:00",
+      "fecha_local": "2025-09-20",
+      "editado_utc": null,
+      "texto": "Jhin:\n**Hace unas caras de lo más extraño (no ha tenido pubertad este señor)**\nEspera eso se mete ahí pero que demonios\n**Algo me hace click en la cabeza y coge la piedra de cuarzo y encierra a r3 en una habitación**",
+      "mensaje_sha256": "dbe021e1a6eb8223b9acfea133594b0c0c5d1a8a6af75f87b5e5605149c3d17c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418995616385601577",
+      "texto_sha256": "01e5c475af29797b04abbd807d6fba5ebe3b90189a03c4e3515df7a751f03723",
+      "adjuntos": []
+    },
+    {
+      "id": "1418996454747541615",
+      "fecha_utc": "2025-09-20T16:25:18.491000+00:00",
+      "fecha_local": "2025-09-20",
+      "editado_utc": null,
+      "texto": "R3: **cuando vas a sacar esa piedra ves que no puedes , tiras de ella y levantas al pequeño robot , que empieza a proyectar la imagen por todos lados y a subir el volumen muy alto** \n(Como si te pillasen con 14 años sacudiendo la nutria vamos)",
+      "mensaje_sha256": "f7848eed50f914a7759571e88191b19a03f8dce4b7e4bd0768752c27ce859947",
+      "tipo_discord": 19,
+      "referencia": "1418995616385601577",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418996454747541615",
+      "texto_sha256": "5e95288446b1103655c041963fec3d224934bf5db240493f2f3db379d309a811",
+      "adjuntos": []
+    },
+    {
+      "id": "1418996818393563166",
+      "fecha_utc": "2025-09-20T16:26:45.191000+00:00",
+      "fecha_local": "2025-09-20",
+      "editado_utc": null,
+      "texto": "Jhin: \nQue demonios? Suéltala o te corto",
+      "mensaje_sha256": "3264a2f3ce3c9d7fd9c60b10e04cc435d992f0a91b8e15adfcdd6f1ca562283e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418996818393563166",
+      "texto_sha256": "5d7ed500b47b2594f8484ebd7ec32f12063bea381a5f6d77fc6ad46202e9691b",
+      "adjuntos": []
+    },
+    {
+      "id": "1418998596459565126",
+      "fecha_utc": "2025-09-20T16:33:49.115000+00:00",
+      "fecha_local": "2025-09-20",
+      "editado_utc": "2025-09-20T16:34:49.630000+00:00",
+      "texto": "Chanecuxtli:\n\n**Escuché el escándalo fuera de la habitación de Kurobane, me levanté bostezando y con los ojos aún entrecerrados**\n\nPío?... Qué es ese ruido?.. pío?...\n\n**Me levanté de la cama y sali a ver de que se trataba**",
+      "mensaje_sha256": "5b34e12a04838ef79873167fd14acf8b0033f031ac5b776aeddcc88720ad79a8",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418998596459565126",
+      "texto_sha256": "62569d5d9f67fd7fc753a5a51e0278db4660e563121136893bb653357d20d74f",
+      "adjuntos": []
+    },
+    {
+      "id": "1418998803540869210",
+      "fecha_utc": "2025-09-20T16:34:38.487000+00:00",
+      "fecha_local": "2025-09-20",
+      "editado_utc": "2025-09-20T16:35:13.683000+00:00",
+      "texto": "R3: **la grabación vuelve al mensaje original para decir**\n\nYa lo teneis todo explicado paso a paso , recordar yo no me acordaré de nada , confío en vosotros . \nY kalista  ... mon ami jelbreg...\nLo siento. \n\n**el mensaje se corta , parece que ha dado una pista del destinatario** \n\n**Consigues coger ahora si ese cristal de cuarzo , r3 cae al suelo y se reconstruye**\n<@408026114548695061> <@171702246952665098>",
+      "mensaje_sha256": "acd40982abcb52da19413751ddb6c45e71efd0bccaeb37b78f4f7547446393e3",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418998803540869210",
+      "texto_sha256": "825075635d0d4c2760c36325265657adc486bdbee0f298d35fc213edbfe8e45b",
+      "adjuntos": []
+    },
+    {
+      "id": "1419001615473709116",
+      "fecha_utc": "2025-09-20T16:45:48.904000+00:00",
+      "fecha_local": "2025-09-20",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n\n**No me enteré de absolutamente nada, veo una cosa metálica cayendo al suelo y a Jhin**\n\nJhin Jhin?, está todo bien?, pío?, qué pasó? Pío?\n\n**Caminé hacia Jhin bostezando y estirando mis alitas**\n\n<@171702246952665098>",
+      "mensaje_sha256": "693349d9dd21c0a91f3fdf9d99aee675fa117e22f648c966b209afc4bd45c598",
+      "tipo_discord": 19,
+      "referencia": "1418998803540869210",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1419001615473709116",
+      "texto_sha256": "1530283ac433d5762262bbd32da8cc54c20c657ad6e1acc5c35e23b80ef72e0a",
+      "adjuntos": []
+    },
+    {
+      "id": "1419006481084186758",
+      "fecha_utc": "2025-09-20T17:05:08.956000+00:00",
+      "fecha_local": "2025-09-20",
+      "editado_utc": null,
+      "texto": "Jhin: creo que tengo que ir a hacer una visita a los barrios bajos",
+      "mensaje_sha256": "4374cea76c426b6c0ff1dad008a18c6d6495c4c76bc78a56a7c24838ccbece29",
+      "tipo_discord": 19,
+      "referencia": "1419001615473709116",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1419006481084186758",
+      "texto_sha256": "42defbc0270c49fc7e8e46d9adc202b86dfc6f7c30e28e04047895514b3ca595",
+      "adjuntos": []
+    },
+    {
+      "id": "1419008357989351535",
+      "fecha_utc": "2025-09-20T17:12:36.445000+00:00",
+      "fecha_local": "2025-09-20",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n\nTe acompaño, pío, no quiero que vayas solo, pío, te puedes lastimar, pío \n\n**Me acomodé mi sombrerito**\n\nY qué haremos allá?, pío?",
+      "mensaje_sha256": "69daa214188688e227c7f68566eb8da04eec91ef2e487d0e0809ec3e7be49797",
+      "tipo_discord": 19,
+      "referencia": "1419006481084186758",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1419008357989351535",
+      "texto_sha256": "ce2a95cd73e0741a4b19da4b89dd42f062e749407638f8e0f3ca6bc6fcfd5a4e",
+      "adjuntos": []
+    },
+    {
+      "id": "1419008760118251681",
+      "fecha_utc": "2025-09-20T17:14:12.320000+00:00",
+      "fecha_local": "2025-09-20",
+      "editado_utc": null,
+      "texto": "Jhin: no lo sé espero que salvar a archi\n*Se prepara y sale de la base*",
+      "mensaje_sha256": "bd269ca884da4df2bb0e961b066c94b04adbcceec61244b0de47fadb2f988ad0",
+      "tipo_discord": 19,
+      "referencia": "1419008357989351535",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1419008760118251681",
+      "texto_sha256": "2e399dd0af0d7541726d10f75a47146c95432d6d759cfa7bca562bb4bff6f63b",
+      "adjuntos": []
+    },
+    {
+      "id": "1419009803522408521",
+      "fecha_utc": "2025-09-20T17:18:21.087000+00:00",
+      "fecha_local": "2025-09-20",
+      "editado_utc": null,
+      "texto": "Chanecuxtli: \nArchi está en peligro?, ARCHI ESTA EN PELIGRO?!, ARCHI ESTÁ EN PELIGRO!! PÍO!! ARCHI ESTA EN PELIGRO!! PÍO!!\n\n**Seguí gritando antes de salir de la base**\n\nY quién es Archi?, pío?\n\n**Salgo de la base atrás de Jhin**",
+      "mensaje_sha256": "8676db4efe312f4e0c24ab09e1de336183a3a2b7e948434d3a102415e3918139",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1419009803522408521",
+      "texto_sha256": "f8492a101f5cf2dce71b783be8513c5096b8f14630d13170cc9660782018bccf",
+      "adjuntos": []
+    },
+    {
+      "id": "1419011445559132314",
+      "fecha_utc": "2025-09-20T17:24:52.579000+00:00",
+      "fecha_local": "2025-09-20",
+      "editado_utc": null,
+      "texto": "Jhin sale de escena",
+      "mensaje_sha256": "19e09a19f8cfd0df19aff9061c0f178dd1ada29b0f28bf6a88a8faec858cb02d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1419011445559132314",
+      "texto_sha256": "0af205a3e1e415dbb41bc037cb7d3e181676d9951518eb6d0e2d5b4edd029cca",
+      "adjuntos": []
+    },
+    {
+      "id": "1419022847275438091",
+      "fecha_utc": "2025-09-20T18:10:10.960000+00:00",
+      "fecha_local": "2025-09-20",
+      "editado_utc": null,
+      "texto": "🐤 Chanecuxtli sale de escena 🌱",
+      "mensaje_sha256": "6f5288950d2c949a36ef6c0ee47867dee40a126e94631099af06f0f00810bfc5",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1419022847275438091",
+      "texto_sha256": "308cd9d4011110d0aee046aa22096440b9b7cd23059330d3c6165a922917144a",
+      "adjuntos": []
+    },
+    {
+      "id": "1419058828716015737",
+      "fecha_utc": "2025-09-20T20:33:09.604000+00:00",
+      "fecha_local": "2025-09-20",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "a8194572b650d40410d872c35e37406c30fe528c2a9015e831c3057e9e6122f9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1419058828716015737",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

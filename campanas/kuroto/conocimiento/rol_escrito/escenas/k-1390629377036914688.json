@@ -1,0 +1,90 @@
+{
+  "id": "k-1390629377036914688",
+  "campana": "kuroto",
+  "unidad_revision": "k-1390629377036914688",
+  "hilo_id": "1387915737502580886",
+  "hilo_nombre": "Sho, Palacio del Shogunato - Capital de Kuroto",
+  "titulo": "Las bolsas del Shogunato se vacían",
+  "resumen": "Kalista revisa presupuestos en un estado de agotamiento financiero.",
+  "relato": "Kalista vuelve al palacio con pergaminos de presupuestos del Estado. La guerra y la crisis consumen rápidamente el dinero del Shogunato. Sigue molesta por lo ocurrido el día anterior y permanece distraída mientras afronta esa situación. La breve escena muestra el problema financiero, sin una medida presupuestaria aprobada ni explicación completa del incidente que la inquieta.",
+  "participantes": [
+    "Kalista"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1390629377036914688",
+      "afirmacion": "La narración describe el desgaste de las arcas por guerra y crisis y la distracción de Kalista.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No reconstruir lo sucedido el día anterior únicamente a partir de esta referencia."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-07-04T09:44:40.130000+00:00",
+  "fin_utc": "2025-07-04T23:59:20.694000+00:00",
+  "fecha_local": "2025-07-04",
+  "intervalo": {
+    "anterior": 135,
+    "siguiente": 136,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1390391136719212627",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1392568138104832013",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 135,
+        "fecha": "2025-07-03",
+        "inicio_referencia_utc": "2025-07-03T17:57:37+00:00",
+        "fin_estimado_utc": "2025-07-03T22:24:15+00:00",
+        "duracion_video_segundos": 15998,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1390391136719212627"
+      },
+      {
+        "capitulo": 136,
+        "fecha": "2025-07-09",
+        "inicio_referencia_utc": "2025-07-09T18:08:23+00:00",
+        "fin_estimado_utc": "2025-07-09T21:01:59+00:00",
+        "duracion_video_segundos": 10416,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1392568138104832013"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1390629377036914688",
+      "fecha_utc": "2025-07-04T09:44:40.130000+00:00",
+      "fecha_local": "2025-07-04",
+      "editado_utc": null,
+      "texto": "Kalista: **Llega al palacio, parece aun molesta por lo sucedido ayer. Esta con varios perganinos de presupuestos del estado...cada vez hay menos dinero en las bolsas del shogunato...la guerra y la crisis las estan desgastando rapidamente...pero a pesar de eso esta distraida**",
+      "mensaje_sha256": "90bf9f2f45ff7196c7e2c4965e1cbdfa3f01dee160c845468abd572179c0f955",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1390629377036914688",
+      "texto_sha256": "79ddde0037255dee6a3bf53b1d9ef7a6de6f477a213de918dbf06b8382aab903",
+      "adjuntos": []
+    },
+    {
+      "id": "1390844463311753406",
+      "fecha_utc": "2025-07-04T23:59:20.694000+00:00",
+      "fecha_local": "2025-07-05",
+      "editado_utc": null,
+      "texto": "🔴 **Fin de escena**🔴",
+      "mensaje_sha256": "c8efbf7742a292217e73b3dafd656e8772719c78db9417d517c43377462189ae",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1390844463311753406",
+      "texto_sha256": "0e513b9a495850850524d0965f55df051cd0b6a138120693016da3f3ffd42ccd",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "id": "x-1511376374424670498",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1511376374424670498",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "Nox intenta hablar con sinceridad ante Molly",
+  "resumen": "Dentro de un círculo de verdad reconoce que huyó por miedo. Molly acepta escuchar su plan contra la amenaza de la isla, sin perdonarlo ni retomar la relación.",
+  "relato": "Nox espera a Molly en el Zampaolas y primero recibe a Picks, con quien comparte la petaca. La ex-capitana aparece y el pirata renuncia a las excusas que tenía preparadas. Traza un círculo de verdad reconocible, entra en él y se quita la camisa para mostrar los tatuajes. Dice sospechar que lo relacionan con la amenaza que ella y Bonny encontraron, pero no sabe cómo. Reconoce que Molly le importaba y que huyó cuando descubrió que era marine porque tuvo miedo.\n\nMolly entra en el círculo para reprocharle el abandono y las promesas incumplidas. Le agradece que la sacara de otro cautiverio, aunque lo responsabiliza también de haberse visto envuelta en él. Declara que ayudará a proteger al mundo de lo que vio, pero no le concede perdón ni un nuevo romance. Nox acepta su responsabilidad personal y promete seguir el rastro de los tatuajes.\n\nRelaciona el orbe del templo con visiones de una pirámide, una serpiente emplumada y un trono, y cree que Citlali forma parte de la misma historia. Propone sobrevivir, investigar y ganar tiempo frente a la Marina. Son su hipótesis y su propósito, no una explicación completa del fenómeno. Molly responde que, según lo que sabe de la Marina, el único líder volcado en Xoltacan es Tórtola: neutralizar su interés podría desviar la persecución.\n\nComo condición, toma una bala de la pistola de Nox, la marca con su nombre y le advierte que la usará si parece que él causará la destrucción del mundo. Él cancela el círculo y vuelve a bromear; Molly se marcha sin aceptar sus insinuaciones. Nox queda mirando la dirección de su brújula.",
+  "participantes": [
+    "Nox",
+    "Molly",
+    "Picks"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1511390408255471757",
+      "afirmacion": "Nox traza el círculo de verdad.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1511397400525144214",
+      "afirmacion": "Reconoce su afecto y que huyó al descubrir a Molly marine.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1511400208481915021",
+      "afirmacion": "Molly expresa sus reproches y no lo perdona.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1511416240030220339",
+      "afirmacion": "Nox expone su interpretación de las visiones.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1511419902458597547",
+      "afirmacion": "Molly señala a Tórtola y marca una bala con Nox.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El círculo y la voluntad de sincerarse no convierten las hipótesis sobre las visiones en causalidad demostrada.",
+    "La extracción de Molly de un cautiverio se menciona retrospectivamente; esta conversación no la representa.",
+    "El recuerdo de afecto no equivale a reconciliación o consentimiento ante las nuevas insinuaciones."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-06-02T14:30:07.678000+00:00",
+  "fin_utc": "2026-06-02T18:17:55.410000+00:00",
+  "fecha_local": "2026-06-02",
+  "intervalo": {
+    "anterior": 35,
+    "siguiente": 36,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1509978888569356380",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1511430616145723484",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 35,
+        "fecha": "2026-05-29",
+        "inicio_referencia_utc": "2026-05-29T17:56:45+00:00",
+        "fin_estimado_utc": "2026-05-29T20:51:45+00:00",
+        "duracion_video_segundos": 10500,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1509978888569356380"
+      },
+      {
+        "capitulo": 36,
+        "fecha": "2026-06-02",
+        "inicio_referencia_utc": "2026-06-02T18:05:24+00:00",
+        "fin_estimado_utc": "2026-06-02T20:38:28+00:00",
+        "duracion_video_segundos": 9184,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1511430616145723484"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1511376374424670498",
+      "fecha_utc": "2026-06-02T14:30:07.678000+00:00",
+      "fecha_local": "2026-06-02",
+      "editado_utc": null,
+      "texto": "Nox: **Después de decirle a Molly <@214405113677217793>  que la esperaba para hablar, se apoyó en la cubierta del Zampaolas y suspiró profundamente. Aún resonaban las palabras del loco gnomo Sir Poncelor <@220602485977382912> en su mente.**\n\nquizas no tan loco\n\n**Pensó Nox.\nEchó un vistazo hacia la entrada de proa para ver si la mujer llegaba.**",
+      "mensaje_sha256": "62a45f4142d28b0ffff892bb683433b72c9385885891829bfecebd6cd01d8c09",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511376374424670498",
+      "texto_sha256": "03a183ac432522ebf2335bf0648763f8b37de11b9d5f335ca141d7bdb81e5066",
+      "adjuntos": []
+    },
+    {
+      "id": "1511382381377093643",
+      "fecha_utc": "2026-06-02T14:53:59.847000+00:00",
+      "fecha_local": "2026-06-02",
+      "editado_utc": null,
+      "texto": "**Esperas un largo rato en el que escuchas ruidos en el interior del Zampaolas, parece uno de los trillizos cantando en la ducha... ¿O quizá los tres? A saber... Mientras sigues dándole vueltas a eso, ves como algo llega al Zampaolas. Por fin, esa charla tan esperada con Mo... ¿Pero que cojones? ¡¿Picks?!**",
+      "mensaje_sha256": "8e272a994ca212eba8e7941bda2b9caaa90232bed7dae6f6ef915eb4e3c16b12",
+      "tipo_discord": 19,
+      "referencia": "1511376374424670498",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511382381377093643",
+      "texto_sha256": "b3099fb358435ec878711444bb3cc89b46f5ff8a807c9890c260611881fb813a",
+      "adjuntos": []
+    },
+    {
+      "id": "1511386048503091250",
+      "fecha_utc": "2026-06-02T15:08:34.158000+00:00",
+      "fecha_local": "2026-06-02",
+      "editado_utc": null,
+      "texto": "Nox: **Suspira una vez más al ver llegar al simiesco camarero.\nSe gira y se apoya con ambos brazos en la barandilla de babor, en una posición dejada y relajada.**\n\nBueno... por lo menos alguien sí me busca...\n\n**Saca una petaca de su cinturón, pega un trago y se la ofrece al pequeño mono.**",
+      "mensaje_sha256": "8f0bbd957efafe493ecf9a282b0bf57307eac2d9a436ec4411c0050d54158b04",
+      "tipo_discord": 19,
+      "referencia": "1511382381377093643",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511386048503091250",
+      "texto_sha256": "b5b9cc046bbde6d177b61ad372233af7c9916e7a462126db22c8c6eaf2c41161",
+      "adjuntos": []
+    },
+    {
+      "id": "1511387048492269589",
+      "fecha_utc": "2026-06-02T15:12:32.574000+00:00",
+      "fecha_local": "2026-06-02",
+      "editado_utc": "2026-06-02T15:12:49.866000+00:00",
+      "texto": "Picks: **Te mira, mira la petaca y la huele detenidamente. Levanta los hombros en señal de pasotismo y bebe.**\n\nMolly: Vaya, no te hacía muy amigo de los animales... Bueno,más bien, no eres amigo de nada que este vivo **La ex-capitana de la Marina sube a bordo del Zampaolas con un paso firme pero elegante**",
+      "mensaje_sha256": "7f0f869f4aa062367afb4c0f226800aa00d5b57f08976aeb989338a8e1a8691a",
+      "tipo_discord": 19,
+      "referencia": "1511386048503091250",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511387048492269589",
+      "texto_sha256": "589208fa939cad963131cce3ed9f6d6938f8b65bd359ef818afaf7d31d3926a1",
+      "adjuntos": []
+    },
+    {
+      "id": "1511390408255471757",
+      "fecha_utc": "2026-06-02T15:25:53.604000+00:00",
+      "fecha_local": "2026-06-02",
+      "editado_utc": "2026-06-02T15:26:34.511000+00:00",
+      "texto": "Nox: **Esboza una media sonrisa mientras recupera la petaca de las manos de Picks.**\n\nBueno, si he conseguido que un mono beba de mi petaca sin intentar robarla, quizá estoy mejorando como persona.\n\n**Da otro trago y la observa unos segundos.**\n\nAdmito que no eres la primera persona que me acusa de tener problemas para relacionarme con seres vivos.\n\n**La sonrisa desaparece lentamente.**\n\nAunque supongo que tú tienes derecho a discrepar.\nPor eso quería hablar contigo.\n\n**Suelta una breve carcajada.**\n\n¿Sabes? Durante todo el camino de vuelta estuve pensando qué iba a decirte.\nTenía preparadas un par de frases ingeniosas, tres mentiras bastante buenas y una excusa mediocre.\n**Niega con la cabeza**\nPero después de todo lo que ha pasado, no creo que tenga sentido ninguna de ellas.\nAsí que voy a intentar algo que se me da bastante peor.\nSer sincero.\n\n**Traza dando una vuelta sobre sí mismo, un círculo de runas azuladas. Se podría discernir con facilidad que se trata de un Círculo de la Verdad**",
+      "mensaje_sha256": "3a48c8fa344267f5411634eccb5a8ba30678fe73dd31eb5d1a69a5cc7421a5c9",
+      "tipo_discord": 19,
+      "referencia": "1511387048492269589",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511390408255471757",
+      "texto_sha256": "6e6d791ccc6622669844275313568c8cfae1cfa66ee125671284163f1d423690",
+      "adjuntos": []
+    },
+    {
+      "id": "1511392340399489144",
+      "fecha_utc": "2026-06-02T15:33:34.263000+00:00",
+      "fecha_local": "2026-06-02",
+      "editado_utc": null,
+      "texto": "Molly: **Al principio su rostro muestra desconfianza, que se hace aún más visible cuando le cuentas que le ibas a mentir como siempre** ¿Sincero? ¿Tu? No sabes ni el significado de esa palabra... **Pone la mano en la empuñadura de su arma cuando empiezas a lanzar el conjuro. Al ver esa luz azulada y los glifos del Círculo de la Verdad, retira la mano de la empuñadura lentamente. Simplemente te mira muy extrañada**",
+      "mensaje_sha256": "4882738ff4636c73f291ba1c2b6f7a29157a0355f9a569fa22c4d2801e4166a5",
+      "tipo_discord": 19,
+      "referencia": "1511390408255471757",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511392340399489144",
+      "texto_sha256": "3379315ba3fa0b6a0a2ce2e967841ccb7491b879297fb269a75fb47094827640",
+      "adjuntos": []
+    },
+    {
+      "id": "1511397400525144214",
+      "fecha_utc": "2026-06-02T15:53:40.691000+00:00",
+      "fecha_local": "2026-06-02",
+      "editado_utc": "2026-06-02T15:55:46.332000+00:00",
+      "texto": "Nox: **La observa unos segundos. Por una vez no sonríe. No aparta la mirada ni busca una salida ingeniosa. Simplemente da dos pasos hacia delante y entra en el interior del círculo de runas azuladas. Los glifos recorren brevemente sus botas antes de estabilizarse alrededor de él.**\n\n¿Ves? Ya no puedo mentirte aunque quisiera.\n\n**Se encoge de hombros.**\n\nLo cual es una tragedia, porque las mentiras siempre se me han dado bastante mejor que las conversaciones incómodas.\n\n**Suspira. Luego se lleva una mano a los botones de la camisa y comienza a quitársela. La deja sobre la barandilla. Bajo ella, los tatuajes recorren parte de su pecho, cuello y espalda  extendiéndose por la piel.**\n\nDesde la última vez que hablamos he descubierto algunas cosas.\n\nSe señala los tatuajes.\n\nAl principio pensé que era otra maldición. Quizá relacionada con la nativa \n\nPero resulta que no.\nHe encontrado pistas. \n\n**Levanta la mirada hacia ella.**\n\nCreo que estoy relacionado con aquello que Bonny y tu ...\nBueno ya sabes ... con eso ...\n\nNo sé cómo. No sé por qué.\n\nPero cada vez que sigo el rastro, termino encontrándome con las mismas visiones. \n\nAsí que cuando me enteré de lo ocurrido contigo... cuando vi que te habia metido me en esto...\n\nComprendí que quizá no era una casualidad.\n\nQuizá el problema me seguía a mí.\nComo siempre.\nDebo admitir que tengo un talento extraordinario para arruinarle la vida a la gente que me importa.\n\n**Sonrie de medio lado pero la sonrisa dura apenas un instante antes de desaparecer.**\n\nY sí, Molly.\n\nMe importabas.\n\nMucho más de lo que era conveniente.\n\nMucho más de lo que debería haber permitido.\n**Baja la vista unos segundos.**\n\nCuando descubrí que eras marine vi el final antes siquiera de llegar a la mitad de la historia.\n\nY tuve miedo.\n\nAsí que hice lo que mejor sé hacer.\n\nHuí.",
+      "mensaje_sha256": "b9a075569e2aff73d9666e4eb12c1c74ef8c4a1aad3981b52027bb2973dcf5a7",
+      "tipo_discord": 19,
+      "referencia": "1511392340399489144",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511397400525144214",
+      "texto_sha256": "329c00d87ecee0ddd3e9fa2b77912c78bf983fd98ee21c69c574eefe0ac8ea08",
+      "adjuntos": []
+    },
+    {
+      "id": "1511400208481915021",
+      "fecha_utc": "2026-06-02T16:04:50.160000+00:00",
+      "fecha_local": "2026-06-02",
+      "editado_utc": null,
+      "texto": "Molly: **Se queda mirándote sin decir nada todo el discurso. Se queda unos segundos callada y te mira con esa cara de pocos amigos que pone cuando se enfada** ¿Y crees que por meterte en un círculo de la verdad y decirme que eres un idiota arrogante que solo miras por ti mismo, que por el contrario; eso ya lo sabíamos todos excepto tu, y además decirme que para ti lo nuestro fue de verdad, crees que voy a ir a ti darte un beso y perdonarte? **Se acerca a ti entrando en el círculo  para ponerte un dedo acusador en el pecho, apretando** Me dejaste tirada Nox... Me prometiste mil y una promesas, aventuras, compañerismo y...y...amor... Y me dejaste tirada en una isla... **Se aparta de ti** Te agradezco que me hayas sacado de ahí, pero me metieron por tu culpa. Y ayudaré en lo que sea para proteger al resto del mundo de lo que vimos Bonny y yo, pero eso también es tu culpa. Deberías cambiarte el nombre de Nox a Problemas",
+      "mensaje_sha256": "6b4994147803adc01524c16d62b467421a2c059a435ba72750bd88c4d204baa5",
+      "tipo_discord": 19,
+      "referencia": "1511397400525144214",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511400208481915021",
+      "texto_sha256": "4f37115f5c9eae2017a430c4afaf0d72ce2c5834db50110110a28d4432950d2b",
+      "adjuntos": []
+    },
+    {
+      "id": "1511405643351724216",
+      "fecha_utc": "2026-06-02T16:26:25.934000+00:00",
+      "fecha_local": "2026-06-02",
+      "editado_utc": null,
+      "texto": "Nox:** Permanece inmóvil cuando Molly le clava el dedo en el pecho. No aparta la mirada. Ni siquiera intenta defenderse. Cuando ella termina, deja escapar una lenta exhalación.**\n¿Un beso?\nMolly, si después de todo esto crees que esperaba un beso, entonces resulta que sigo siendo peor explicándome de lo que pensaba.\n**Niega suavemente con la cabeza.**\nNo he montado todo esto para recuperar nada.\nEse barco zarpó hace años.\nY fui yo quien le hizo un agujero en el casco.\n**Mira brevemente las runas del círculo a los pies de ambos. Entonces alza una ceja.**\nAunque debo reconocer algo interesante.\nHas entrado en el círculo por tu propia voluntad.\nEso significa que todo lo que acabas de decir... lo de las promesas, las aventuras, el compañerismo...\n**La observa con una sonrisa ladeada muy propia de el**\nTambién era verdad para ti.\ncurioso Mary Anne. Después de tantos años sigues ...\n**Calla sin acabar la frase y levanta ambas manos antes de que le lance algo a la cabeza.**\nTranquila, tranquila. Bromeaba\n**La sonrisa desaparece poco a poco.**\nNo te debía una explicación porque quisiera volver atrás.\nTe la debía porque era tuya.\nPorque fui yo quien tomó la decisión.\nPorque fui yo quien desapareció.\n**Se cruza de brazos y mira hacia el mar unos instantes.**\nY respecto a los problemas...\nNo voy a discutirlo.\n\nY si resulta que estoy conectado con esa maldita Locura... entonces quizá tenga más culpa de la que ninguno de los dos imagina.\n**Sus ojos vuelven a encontrarse con los de ella.** \n\nLo que no tengo es intención de quedarme quieto mientras esto sigue creciendo.\nSeñala sus tatuajes.\nEsto empezó conmigo.\nO al menos conduce hasta mí.\nY pienso seguir ese rastro hasta el final.\n**Una pequeña sonrisa reaparece.**\nPreferiblemente sin que nadie más acabe encarcelado, enloquecido o intentando matarme.\nAunque siendo sincero...\nMira alrededor del barco.\nLas probabilidades no parecen especialmente favorables.\nAunque eso nunca fue un problema",
+      "mensaje_sha256": "2471d812eb17290eca0dec95d6ed482974e2ef21225938dcc7d421e3c366f7dc",
+      "tipo_discord": 19,
+      "referencia": "1511400208481915021",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511405643351724216",
+      "texto_sha256": "e772679ce29b3639432c3ff46a039d899ac709f6bb04716e97a40f41c0d5f128",
+      "adjuntos": []
+    },
+    {
+      "id": "1511406964817526957",
+      "fecha_utc": "2026-06-02T16:31:40.996000+00:00",
+      "fecha_local": "2026-06-02",
+      "editado_utc": null,
+      "texto": "Molly: **Pone cara de odio cuando le preguntas eso pero se queda callada cuando haces el paripe de la broma. Espera a que termines, te mira extraña, nunca había visto a un Nox tan sincero.** ¿Y que propones?",
+      "mensaje_sha256": "c5824cd363a07fbce4ada19acee7f05ebda93cacae8604869dbc62e466b76873",
+      "tipo_discord": 19,
+      "referencia": "1511405643351724216",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511406964817526957",
+      "texto_sha256": "a6596a32d23d4af09557a16f372a6986a0f89ff3992fba6d58c868ac3efafe0d",
+      "adjuntos": []
+    },
+    {
+      "id": "1511416240030220339",
+      "fecha_utc": "2026-06-02T17:08:32.379000+00:00",
+      "fecha_local": "2026-06-02",
+      "editado_utc": null,
+      "texto": "Nox: ¿Sabes qué es lo más preocupante de todo esto?\nQue tengo un plan.\n**Se apoya en la barandilla y mira el horizonte.**\nY eso debería asustarnos a ambos.\nLa mayoría de la gente cree que el problema son los piratas, la Marina, Bonny, Shiaru o cualquier imbécil que crea que puede gobernar el mar.\nPero no.\nTodo eso son olas.\nNosotros estamos mirando las olas mientras algo enorme se mueve bajo el agua.\n\n**Su expresión se endurece.**\n\nDesde que encontré aquel orbe en el templo,desde las visiones ...\nUna pirámide gigantesca.\nUna serpiente emplumada rodeándola.\nY alguien sentado en un trono observándolo todo.\n\nNo son solo visones, Molly.\nLo sé.Lo siento aquí.\n\n**Golpea suavemente los tatuajes de su pecho.**\n\nComo si algo intentara recordarme quién demonios soy.\n\nO quién demonios se supone que debo ser.\n\nY no soy el único.\n\nCitlali está relacionada con esto.\nSus tatuajes también.\nTodo forma parte de la misma maldita historia.\n\n**Se gira para mirarla directamente.**\n\nAsí que el plan es sencillo.\n\nPrimero sobrevivimos.\n\nDespués investigamos.\n\nY cuando encontremos la verdad... decidiremos si quemarla o enterrarla.\n\n**Sonríe ligeramente.**\n\nPor otro lado la Marina seguirá persiguiendo a Bonny, a mi capitana y a la tripulación y probablemente también a ti.\nNecesitamos tiempo.\nNecesitamos que la Marina mire hacia otro lado.\n\nEn cuanto a los escamosos...\nTengo la sensación de que llevan mucho tiempo moviendo piezas.\nOcultos.Esperando.\nSon más peligrosos que cualquier almirante.\nMás peligrosos que cualquier emperador pirata.",
+      "mensaje_sha256": "3b6ce59978ea752bb603f642442f16121a1728d3092ca4acb7c67e4405c42a17",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511416240030220339",
+      "texto_sha256": "f1548418e469d81ee37b88c98fa517c498414fd63327136f9eec9874ac1a798c",
+      "adjuntos": []
+    },
+    {
+      "id": "1511416406984626206",
+      "fecha_utc": "2026-06-02T17:09:12.184000+00:00",
+      "fecha_local": "2026-06-02",
+      "editado_utc": null,
+      "texto": "**Su mirada se pierde unos segundos en el horizonte**\n\nCreo que la pirámide existe.\nCreo que el trono existe.\nY creo que alguien está intentando llegar hasta él.\nQuizá yo.\nQuizá Citlali.\nQuizá ambos.\nTodavía no lo sé.\n\n**Finalmente vuelve a mirarla.**\n\nAsí que ese es mi plan.\n\nSeguir las pistas.\n\nEncontrar respuestas.\n\nMantener con vida a toda la gente que pueda por el camino.\n\nY cuando descubra qué papel juego en esta historia...\n\nAsegurarme de que no termine destruyendo el mundo.\n\n**Una sonrisa torcida aparece de nuevo.**\nNo es un gran plan.\nPero es considerablemente mejor que mis planes habituales.",
+      "mensaje_sha256": "18281053afe433db9724bd58fa7a42f24a902114d614d5b70920623f64323100",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511416406984626206",
+      "texto_sha256": "3f0df24908c946e302c1b3f590b28909b83e178890274e4e5a0e1b64480296b1",
+      "adjuntos": []
+    },
+    {
+      "id": "1511419902458597547",
+      "fecha_utc": "2026-06-02T17:23:05.570000+00:00",
+      "fecha_local": "2026-06-02",
+      "editado_utc": null,
+      "texto": "Molly: **Ves que escucha con atención cada una de tus palabras, incluso se acerca a ti para apoyarse en la barandilla. Se le escapa una ligera sonrisa. Si viéramos la mente de Molly, habría visto a un gran pirata diciendo esas palabras, un Rey Pirata, pero no, es solo Nox** Vaya, por fin dices cosas con sentido. Si quieres que la Marina mire hacia otro lado, solo hay que encargarse del Capitán Tórtola. Los líderes de la Marina llevan tiempo despreocupados de Xoltacan e islas menores. El único interesado en Xoltacan es Tórtola. Por lo otro... **Se acerca a ti y te pone la mano en la cadera. Pero no para eso, sino para quitarte la pistola. Saca una bala de la recamara y le hace una marca con una daga. Una marca que pone Nox** Como bien has dicho, si hay un mínimo indicio de que serás el causante de la destrucción del mundo... **Lanza la bala al aire para agarrarla de nuevo** Esto será para ti",
+      "mensaje_sha256": "5e83e165f3eda3133e649274c8e25815edc4b81681893cbb640dddbdaa32b5d0",
+      "tipo_discord": 19,
+      "referencia": "1511416406984626206",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511419902458597547",
+      "texto_sha256": "8c0a87826a5c82327ed69147b6b3a44dbc1c6a16dede239548ecf1b29a3baebb",
+      "adjuntos": []
+    },
+    {
+      "id": "1511425304139268168",
+      "fecha_utc": "2026-06-02T17:44:33.431000+00:00",
+      "fecha_local": "2026-06-02",
+      "editado_utc": "2026-06-02T17:44:49.503000+00:00",
+      "texto": "Nox:** Sonríe de medio lado.**\nTe diría que me gusta ponerle yo mismo fin a las historias. Pero eso ya lo sabes bien.\n**descomboca el círculo** \n\nVoy a darme una ducha , me siento sucio con tanta verdad \n\nVienes ? \n**se rie **",
+      "mensaje_sha256": "bb1b31ba89a69c8268c20a923028c5704e34c020f11e045a18770e5286f8a081",
+      "tipo_discord": 19,
+      "referencia": "1511419902458597547",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511425304139268168",
+      "texto_sha256": "f71053e4d8c2daf3fdb664821c7218cd1a058bc4459cf008f7c3d51675e69153",
+      "adjuntos": []
+    },
+    {
+      "id": "1511426111714627885",
+      "fecha_utc": "2026-06-02T17:47:45.972000+00:00",
+      "fecha_local": "2026-06-02",
+      "editado_utc": null,
+      "texto": "Molly: **Pone los ojos en blanco para empezar a marcharse del Zampaolas** Nos vemos Nox... *Por un momento parecía incluso... bah* Y date fuerte con la esponja...",
+      "mensaje_sha256": "3826de00dace2096036590a8ac885a4a668fecb23c6a3952c449ff740dd2c777",
+      "tipo_discord": 19,
+      "referencia": "1511425304139268168",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511426111714627885",
+      "texto_sha256": "1bc0021dc567aaa1e04930417d25150df6a0d5dfa4566c3059b03106e9363787",
+      "adjuntos": []
+    },
+    {
+      "id": "1511433613634437180",
+      "fecha_utc": "2026-06-02T18:17:34.569000+00:00",
+      "fecha_local": "2026-06-02",
+      "editado_utc": null,
+      "texto": "Nox: **se queda mirando el mar serio hasta que mira su brujula , ve donde señala y sonrie **",
+      "mensaje_sha256": "16e715941fc98d1fabd6887a26a66265b582ee044eaf47a832183e5f6164cfe2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511433613634437180",
+      "texto_sha256": "761610bb7e5285528f9c8d4ee68fc26f13c9f168fd8de6894f8566ceee5ed330",
+      "adjuntos": []
+    },
+    {
+      "id": "1511433701047931020",
+      "fecha_utc": "2026-06-02T18:17:55.410000+00:00",
+      "fecha_local": "2026-06-02",
+      "editado_utc": null,
+      "texto": "🔴 FIN DE LA ESCENA 🔴",
+      "mensaje_sha256": "1c01559100639965a3a6144ad6f2e3236d23468ef24f3b34c8ebe32dbbe07100",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511433701047931020",
+      "texto_sha256": "776a5af778b870b89da08c1173ed9efad5b08c79aabb5222072e6ca413e33a3c",
+      "adjuntos": []
+    }
+  ]
+}

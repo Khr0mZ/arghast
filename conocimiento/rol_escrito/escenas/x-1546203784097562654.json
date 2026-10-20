@@ -1,0 +1,278 @@
+{
+  "id": "x-1546203784097562654",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1546203784097562654",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "Archi cuenta dónde encontró el orbe",
+  "resumen": "Citlali averigua que apareció junto a un cuerpo entre restos de una batalla naval, pero no obtiene una localización precisa.",
+  "relato": "Citlali visita a Archi para resolver las dudas que le ha dejado una aventura reciente. La inquietan sus mecanismos, aunque acepta entrar y sentarse en la terraza. Pregunta por el orbe que entregó a Ione, descartando el otro objeto que el inventor menciona. Mientras la robot Danifae le sirve un coco con bebida, Archi explica que lo hallaron entre restos de una batalla naval, junto al cuerpo de un hombre, al que el objeto parecía aferrarse.\n\nCitlali tiembla y derrama parte de la bebida. Agradece que haya cuidado el orbe y pide saber el lugar del hallazgo. El gnomo no puede precisarlo: su sonar había localizado una descarga de energía y se acercaron esperando encontrar otra cosa. Añade que otra joven también preguntó.\n\nElla explica que aquel hombre era compañero de la otra mujer y para ella había sido como un hijo. No quiere abrir más la herida y termina la entrevista entre lágrimas, regresando hacia Eztli. Archi considera en privado si debería contar algo más, pero calla. El contenido de esa reserva no se revela, y la conversación no aporta coordenadas ni una identificación independiente del cuerpo.",
+  "participantes": [
+    "Citlali",
+    "Archi",
+    "Danifae"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1546209487671529653",
+      "afirmacion": "Archi relata que el orbe se encontraba junto a un cuerpo entre restos de una batalla naval.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1546213633502216302",
+      "afirmacion": "No recuerda la posición y dice que el sonar detectó un estallido de energía.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1546214424413605968",
+      "afirmacion": "Citlali define al hombre buscado como alguien que era como su hijo.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1546215597434732746",
+      "afirmacion": "Archi decide privadamente no añadir una información que no llega a expresar.",
+      "tipo": "pensamiento"
+    }
+  ],
+  "notas": [
+    "El contexto enlaza la búsqueda de Nox/Amaru, pero la fuente no ofrece nombre del cadáver ni una identificación forense.",
+    "El pensamiento interrumpido de Archi no autoriza a inventar su secreto.",
+    "Danifae aquí es la robot del inventor; no confundirla con el bot de anuncios de Discord."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-09-06T17:01:49.206000+00:00",
+  "fin_utc": "2026-09-06T17:50:27.908000+00:00",
+  "fecha_local": "2026-09-06",
+  "intervalo": {
+    "anterior": 58,
+    "siguiente": 59,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1545494409435680809",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1546226980192649230",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 58,
+        "fecha": "2026-09-04",
+        "inicio_referencia_utc": "2026-09-04T18:01:23+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1545494409435680809"
+      },
+      {
+        "capitulo": 59,
+        "fecha": "2026-09-06",
+        "inicio_referencia_utc": "2026-09-06T18:28:05+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1546226980192649230"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1546203784097562654",
+      "fecha_utc": "2026-09-06T17:01:49.206000+00:00",
+      "fecha_local": "2026-09-06",
+      "editado_utc": null,
+      "texto": "Citlali:\n**Después de la \"aventura\" que tuvimos, decidí tomar un respiro, aun tenía muchas dudas y por la premura de regresar no pude preguntar lo que tenía dando vueltas en mi cabeza, así que tenía que ir a la fuente de esas dudas, con ese Gnomo libidinoso**\n\n**Suspiré profundamente y me acerqué a dónde se suponía que se había alojado, toqué la puerta tres veces**\n\n*No me quiero acercar demasiado a ese señor... Pero no me queda de otra*\n\n<@616683133374562304>",
+      "mensaje_sha256": "ea6fba6c4ff620874d7164857a0c51098fc5e81fbde4bb1a7b737f1ee342d7c1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1546203784097562654",
+      "texto_sha256": "efacb0ff1fd6d4c9e289bbbc77058615483e74e7f4992d4c7fa6d532a4a16f49",
+      "adjuntos": []
+    },
+    {
+      "id": "1546205049733255278",
+      "fecha_utc": "2026-09-06T17:06:50.957000+00:00",
+      "fecha_local": "2026-09-06",
+      "editado_utc": null,
+      "texto": "Archi : **Tras los tres golpes, escuchas un pequeño clic procedente de la puerta. De entre la madera emerge un extraño mecanismo metálico, semejante a un ojo, que se abre lentamente y te observa durante unos segundos.**\n\nAdelante, adelante... está abierrto, jovencita. No hace falta que te quedes ahí fuera.",
+      "mensaje_sha256": "e6ba83e84b21791a7222266044eadadef0b7263287dac5f3f678f6bfef3e022e",
+      "tipo_discord": 19,
+      "referencia": "1546203784097562654",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1546205049733255278",
+      "texto_sha256": "ac60499c041db15aadc490947b23cf29ac22249e737dd1538e5241eb40b936d1",
+      "adjuntos": []
+    },
+    {
+      "id": "1546205650948718602",
+      "fecha_utc": "2026-09-06T17:09:14.298000+00:00",
+      "fecha_local": "2026-09-06",
+      "editado_utc": null,
+      "texto": "Citlali:\n**No pude evitar hacer un gesto de desagrado al ver ese ojo extraño en la puerta**\n\n*Me voy a arrepentir de esto*\n\n**Abrí la puerta poco a poco y entre con mucho cuidado**\n\nB..Buen día",
+      "mensaje_sha256": "5b269bf4a605bf0b44232f3e86a9de6e22f87085c6b777af6df85cfb94940f01",
+      "tipo_discord": 19,
+      "referencia": "1546205049733255278",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1546205650948718602",
+      "texto_sha256": "b0af10f9d62b3c07fe6779a24883dcc6172ff5ee717961254a513b5402af447a",
+      "adjuntos": []
+    },
+    {
+      "id": "1546206751442075778",
+      "fecha_utc": "2026-09-06T17:13:36.676000+00:00",
+      "fecha_local": "2026-09-06",
+      "editado_utc": null,
+      "texto": "Archi:\n\n**Al entrar, te encontrarías con uno de aquellos extraños robots de Archie, ocupado preparando lo que parece algún tipo de refrigerio. Utiliza un coco como recipiente y manipula los ingredientes con una precisión casi mecánica.\n\nDesde una de las puertas abiertas que conducen hacia la terraza, con vistas al lago, escuchas entonces la voz de Archie.**\n\npasa, pasa, jovencita. Estoy aquí fuera. No te quedes ahí parada, ¿quieres tomar algo justo estaba preparando la terraza chillout?",
+      "mensaje_sha256": "0ce1efc4bf11a6fef7fa2bbcf99349134175d138b56608c195cb30be2a14025a",
+      "tipo_discord": 19,
+      "referencia": "1546205650948718602",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1546206751442075778",
+      "texto_sha256": "c2b05f07409485da4ba7b56be6799eb5bd8ac1d5881468bd678dde36330ecd7d",
+      "adjuntos": []
+    },
+    {
+      "id": "1546207456458178593",
+      "fecha_utc": "2026-09-06T17:16:24.765000+00:00",
+      "fecha_local": "2026-09-06",
+      "editado_utc": null,
+      "texto": "Citlali:\n**Caminé hacia la terraza con paso cuidadoso**\n\nA.. agradezco mucho su...\n\n**Pasé saliva al ver tanto mecanismo, como siempre estuve rodeada de naturaleza aún me costaba entender más sobre este frío metal**\n\nHospitalidad... pero solo he venido a preguntar unas cuantas cosas sobre lo que le entrego a Ione y me gustaría que usted pudiera responderlas",
+      "mensaje_sha256": "7c6e76dde106eb925bb1ba7d3601d287572866a7ab4088e50dc5e535943d2394",
+      "tipo_discord": 19,
+      "referencia": "1546206751442075778",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1546207456458178593",
+      "texto_sha256": "d9160b5e5b3240367b659c60fc1e11931a3ec104bc0bee1b90403ecc4cc2522f",
+      "adjuntos": []
+    },
+    {
+      "id": "1546207759014428852",
+      "fecha_utc": "2026-09-06T17:17:36.900000+00:00",
+      "fecha_local": "2026-09-06",
+      "editado_utc": null,
+      "texto": "Archi : el bozal con brilli brilli o el orbe ?",
+      "mensaje_sha256": "73d99ecb849f11867b9ed6d0a389dae1b02afad2d567c0ba5a56958cc68e4022",
+      "tipo_discord": 19,
+      "referencia": "1546207456458178593",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1546207759014428852",
+      "texto_sha256": "2eb80dde545ea78e4a39d012cecb2cfeb0b108bbb873a20951f2a9b9eb42c125",
+      "adjuntos": []
+    },
+    {
+      "id": "1546208034345328801",
+      "fecha_utc": "2026-09-06T17:18:42.544000+00:00",
+      "fecha_local": "2026-09-06",
+      "editado_utc": "2026-09-06T17:18:50.935000+00:00",
+      "texto": "Citlali: \nEl bo..que?!, no no no, e..el orbe \n\n**Me senté a su lado, poniendo mis manos sobre mis rodillas mientras que mis piernas temblaban**\n\nDónde encontró ese orbe?",
+      "mensaje_sha256": "b68d2b8bd52564f32923526df44a184671c4ea1b649b66eda62687c2bcc6b575",
+      "tipo_discord": 19,
+      "referencia": "1546207759014428852",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1546208034345328801",
+      "texto_sha256": "be70a79da77703e24b206bc136aa6aa3829b5e067a22a2ed5972a567e9fe2824",
+      "adjuntos": []
+    },
+    {
+      "id": "1546209487671529653",
+      "fecha_utc": "2026-09-06T17:24:29.044000+00:00",
+      "fecha_local": "2026-09-06",
+      "editado_utc": null,
+      "texto": "Archi: **el robot Danifae te acerca un coco con un refrigerio mientras archi esta montando una hamaca entre las palmeras ** \n\nEntre los restos de una batalla naval al parecer . Junto al cuerpo de un hombre . El objeto parecía aferrarse a el",
+      "mensaje_sha256": "62e60a2648d1453de0ffb8cf40be765a2dfe167373e13c6c420a40cc80fbcaed",
+      "tipo_discord": 19,
+      "referencia": "1546208034345328801",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1546209487671529653",
+      "texto_sha256": "a9782b50ddb52166ca6e1132ac638a64611fabb2b842597551edef3bba1f8071",
+      "adjuntos": []
+    },
+    {
+      "id": "1546210169401384981",
+      "fecha_utc": "2026-09-06T17:27:11.581000+00:00",
+      "fecha_local": "2026-09-06",
+      "editado_utc": null,
+      "texto": "Citlali:\n**Sostuve el coco agradeciendo con la cabeza hasta que escuché lo del cuerpo, mis manos temblaron aún más derramando un poco del líquido que tenía el coco**\n\nYa... Ya veo\n\n*No quería creerlo pero tampoco tenía muchas esperanzas*\n\nLe agradezco que haya cuidado bien el orbe en este tiempo, nos fue de mucha ayuda",
+      "mensaje_sha256": "57110a4ea9438874a3f92a5781637a3c44487c164fbc0b4a631179c5689f43b6",
+      "tipo_discord": 19,
+      "referencia": "1546209487671529653",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1546210169401384981",
+      "texto_sha256": "e128ddfac515a0b8df3451d82bc189b51e91abe13e1741653923f3a7d228359b",
+      "adjuntos": []
+    },
+    {
+      "id": "1546212578219528264",
+      "fecha_utc": "2026-09-06T17:36:45.888000+00:00",
+      "fecha_local": "2026-09-06",
+      "editado_utc": null,
+      "texto": "Archi : **se daría cuenta del temblor en las manos de la joven nativa ** \n\nLe pasa algo ?",
+      "mensaje_sha256": "8d43d5c27c0a025f70c0e58c242447d06ed20687e444897fde050c5ec0b646f8",
+      "tipo_discord": 19,
+      "referencia": "1546210169401384981",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1546212578219528264",
+      "texto_sha256": "d2a6eaa9bf1512acd168592706ea1de152723a0063c9fb6f590ccdd637ad715c",
+      "adjuntos": []
+    },
+    {
+      "id": "1546213015211483228",
+      "fecha_utc": "2026-09-06T17:38:30.075000+00:00",
+      "fecha_local": "2026-09-06",
+      "editado_utc": null,
+      "texto": "Citlali:\nRecuerda en que parte encontró el cuerpo de aquel hombre?\n\n**Desvíe la pregunta que me había hecho, no quería dar mas detalles o simplemente no quería abrir más la herida**",
+      "mensaje_sha256": "c917023f688b9f539cf3f172dde0fc35bbe077c9a26f652ab14a0ffd43129c05",
+      "tipo_discord": 19,
+      "referencia": "1546212578219528264",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1546213015211483228",
+      "texto_sha256": "167261ae240fe1c17ff4ff77e3ab2cf6aaac24de4381b1e988e6461d3c1523fb",
+      "adjuntos": []
+    },
+    {
+      "id": "1546213633502216302",
+      "fecha_utc": "2026-09-06T17:40:57.487000+00:00",
+      "fecha_local": "2026-09-06",
+      "editado_utc": null,
+      "texto": "Archi : no sabría decirle joven ... el sonar localizo como un estallido de energía,  nos acercamos pensando que era otra cosa pero no fue así.  \n\nla otra joven de pechos firmes también preguntó.  \n\nconocíais al hombre ?",
+      "mensaje_sha256": "d0c9238fc350fa803def801375d28e068fff1f12a381dd4e9bdc4d25bc2dd393",
+      "tipo_discord": 19,
+      "referencia": "1546213015211483228",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1546213633502216302",
+      "texto_sha256": "7b4f8439558e94ae685eb10e5451e360beea57fdd85d411fe983de764ff39b42",
+      "adjuntos": []
+    },
+    {
+      "id": "1546214424413605968",
+      "fecha_utc": "2026-09-06T17:44:06.055000+00:00",
+      "fecha_local": "2026-09-06",
+      "editado_utc": null,
+      "texto": "Citlali:\nDe ella era su compañero, de mi... Era como mi hijo\n\n**Empecé a presionar el coco, encajando las uñas por el dolor que empezaba a sentir de nuevo**\n\nPerdón si le he quitado su tiempo \n\n**Me levanté de golpe dejando el coco a un lado**\n\nGracias por responder mis preguntas, solo..solo eso era lo que necesitaba saber",
+      "mensaje_sha256": "0eb54fe3cdcaac1b6da61c8a39eb711a10bc1f7b7c3d988b8ff42f9cf6371558",
+      "tipo_discord": 19,
+      "referencia": "1546213633502216302",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1546214424413605968",
+      "texto_sha256": "2f277fbe8977ee18779804f9eacbd1afb18f66cfad9c49e31135d0a7769600d7",
+      "adjuntos": []
+    },
+    {
+      "id": "1546215597434732746",
+      "fecha_utc": "2026-09-06T17:48:45.725000+00:00",
+      "fecha_local": "2026-09-06",
+      "editado_utc": null,
+      "texto": "Archi : \nlo siento muchacha . \n\n*debería decirle ...? naaaah remover los sentimientos parace no sentarle muy bien*",
+      "mensaje_sha256": "dc30cfd9b6c9256b2ae8ceb7663ba30e28e4ac429947c5c96c8806f04b0fb8ba",
+      "tipo_discord": 19,
+      "referencia": "1546214424413605968",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1546215597434732746",
+      "texto_sha256": "5863c97e0f3a56d6fb6e831eb23c341968e15e7e60b5c214ff911f436d0e1e2d",
+      "adjuntos": []
+    },
+    {
+      "id": "1546216026021171381",
+      "fecha_utc": "2026-09-06T17:50:27.908000+00:00",
+      "fecha_local": "2026-09-06",
+      "editado_utc": null,
+      "texto": "Citlali:\n**Afirmé con la cabeza y salí de ahí, teniendo un nudo en la garganta y las lágrimas volviendo a mojar mis mejillas, camine con paso firme hacia Eztli tragandome mi dolor**\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "efefe17cd26d812fbf37d03e9879ff65752e0e5e0edfe34bcfc70ee2d6c9e2e7",
+      "tipo_discord": 19,
+      "referencia": "1546215597434732746",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1546216026021171381",
+      "texto_sha256": "7706d62bf0ec54df85263be79474ec688a302d5994593aef8d768f01f8066961",
+      "adjuntos": []
+    }
+  ]
+}

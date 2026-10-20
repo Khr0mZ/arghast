@@ -1,0 +1,80 @@
+{
+  "id": "k-1461012747494883432",
+  "campana": "kuroto",
+  "unidad_revision": "k-1461002304970031227",
+  "hilo_id": "1362071806441160834",
+  "hilo_nombre": "Base Ukyio - Sala principal",
+  "titulo": "Arwen cuida el caldero y el manzano",
+  "resumen": "La niña continúa su trabajo con la ayuda de animales y criaturas del bosque.",
+  "relato": "Arwen descansa colgada de una rama y se cura las manos doloridas antes de exigirse seguir como protectora. Un leprechaun redacta documentos y varias criaturas recogen y preparan ingredientes. La niña transmite magia dorada al caldero. Unas barreras mantienen a salvo el manzano joven de pequeñas frutas negras con calaveras, todavía vulnerable. No se explica para qué servirá la preparación.",
+  "participantes": [
+    "Arwen",
+    "Leprechaun"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1461012747494883432",
+      "afirmacion": "Arwen infunde poder al caldero y protege el manzano joven.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Son dos viñetas sin interacción demostrada; se ofrecen por separado.",
+    "No se identifican los ingredientes ni los efectos del caldero.",
+    "Arwen se llama a sí misma diosa protectora; conservar la atribución."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2026-01-14T15:03:03.307000+00:00",
+  "fin_utc": "2026-01-14T15:03:03.307000+00:00",
+  "fecha_local": "2026-01-14",
+  "intervalo": {
+    "anterior": 179,
+    "siguiente": 180,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1458905021985853695",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1461435221806284870",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 179,
+        "fecha": "2026-01-08",
+        "inicio_referencia_utc": "2026-01-08T19:27:25+00:00",
+        "fin_estimado_utc": "2026-01-08T21:59:18+00:00",
+        "duracion_video_segundos": 9113,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1458905021985853695"
+      },
+      {
+        "capitulo": 180,
+        "fecha": "2026-01-15",
+        "inicio_referencia_utc": "2026-01-15T19:01:30+00:00",
+        "fin_estimado_utc": "2026-01-15T22:02:29+00:00",
+        "duracion_video_segundos": 10859,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1461435221806284870"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1461012747494883432",
+      "fecha_utc": "2026-01-14T15:03:03.307000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": null,
+      "texto": "**En los bosques de Ukiyo**\n**Una niña salvaje se balancea cabeza abajo de una rama**\nA Arwen le duelen las manos... **Mira a los animales y yokais del bosque que se acercan a cotillear para despues seguir con su vida. Niega con la cabeza y empieza a curar sus manitas, sontandose de la rama y cayendo sobre sus pies y manos** No no Arwen, eres la diosa protectora aun puedes seguir.\n**La camara se aleja para observar un puesto rupestre donde un leprecaunt esta escribiendo y realizando documentos sentado en una seta. Varios animales feericos, yokais y animales normales del bosque trallendo hiervas, bayas, insectos y demas cosas, otros cortando todo los que traen los otros. En medio un fuego con una olla en la que burbugea, donde meten todos los ingredientes. Arwen se acerca y empieza a remover el caldero con sus manos iluminandose de dorado... Influyendo a este liquido del poder de la niña... A un lado de este lugar, hay colocadas unas barreras para que nadie se acerque al pequeño manzano que esta creciendo con alguna manzana negra con calaveritas... Aun es muy joven y muchas cosas podrian quebrarlo, pero cuenta con la proteccion especial de una pequeña niña**",
+      "mensaje_sha256": "712be91e96485fd3c7d69b47960e03e8f71117111c5da3983d652d3989dfaa5d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1461012747494883432",
+      "texto_sha256": "021d9a06abaa711d32eed503dc81f701133938f082ac7788840f65f0fe61c80a",
+      "adjuntos": []
+    }
+  ]
+}

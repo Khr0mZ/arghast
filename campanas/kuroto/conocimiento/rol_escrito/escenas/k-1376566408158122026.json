@@ -1,0 +1,77 @@
+{
+  "id": "k-1376566408158122026",
+  "campana": "kuroto",
+  "unidad_revision": "k-1376566408158122026",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Jelbreg cruza el barrio noble",
+  "resumen": "El drow avanza con determinación hacia un destino no revelado.",
+  "relato": "Jelbreg recorre las calles del barrio noble de Sho y se interna después en las vías principales. Camina deprisa y parece conocer su destino, pero no se muestra a dónde llega ni con quién pretende encontrarse.",
+  "participantes": [
+    "Jelbreg"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1376566408158122026",
+      "afirmacion": "Jelbreg pasa del barrio noble a las calles principales con paso rápido.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El cierre no revela su destino ni vincula este paseo a una gestión concreta."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-26T14:23:27.072000+00:00",
+  "fin_utc": "2025-05-26T14:23:27.072000+00:00",
+  "fecha_local": "2025-05-26",
+  "intervalo": {
+    "anterior": 119,
+    "siguiente": 120,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1375179577676267590",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1376630112560218362",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 119,
+        "fecha": "2025-05-22",
+        "inicio_referencia_utc": "2025-05-22T18:32:29+00:00",
+        "fin_estimado_utc": "2025-05-22T22:24:07+00:00",
+        "duracion_video_segundos": 13898,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1375179577676267590"
+      },
+      {
+        "capitulo": 120,
+        "fecha": "2025-05-26",
+        "inicio_referencia_utc": "2025-05-26T18:36:20+00:00",
+        "fin_estimado_utc": "2025-05-26T21:36:05+00:00",
+        "duracion_video_segundos": 10785,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1376630112560218362"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1376566408158122026",
+      "fecha_utc": "2025-05-26T14:23:27.072000+00:00",
+      "fecha_local": "2025-05-26",
+      "editado_utc": "2025-05-27T05:56:40.141000+00:00",
+      "texto": "Jelbreg: **El drow deambula por las calles de la ciudad. Avanza por el barrio noble hasta adentra se en las calles principales con paso ligero y rápido, se ve que sabe a donde va**\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "a03bd76b496b32814ea9fccd45c9f48103dfb9be4a6757262ae7051797330137",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1376566408158122026",
+      "texto_sha256": "bac430750ee66a998e892162957c275d860622c0144eb6aecba9bf8fdfce3f2d",
+      "adjuntos": []
+    }
+  ]
+}

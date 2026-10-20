@@ -1,0 +1,238 @@
+{
+  "id": "k-1405497847738011668",
+  "campana": "kuroto",
+  "unidad_revision": "k-1405497847738011668",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Archi despierta a Guxi tras la ruptura",
+  "resumen": "El inventor encuentra a su compañero entre botellas y escucha su versión del conflicto con Seraphina.",
+  "relato": "Archi llega a casa de Guxi buscando compañía para desayunar. La puerta cede y descubre al inventor inconsciente en el suelo entre botellas, junto a la carta y el anillo de Seraphina. Recoge ambos objetos, lee la noticia de otra boda e intenta despertarlo con agua. Cuando Guxi reacciona, lo anima a sentarse y prepara té. Su compañero cuenta que la noticia del matrimonio de su hermanastra le hizo pronunciar unas palabras nostálgicas que no reflejan lo que siente ahora, y que Seraphina se marchó. Archi le reprocha seguir sin valorarse, comparando esa inseguridad con la que frenaba su talento. Admite sus propios divorcios como límite de su consejo y le ofrece acompañarlo a otro desayuno. Guxi prefiere terminar las piedras y preparar un viaje. Guarda en el bolsillo el anillo de Seraphina y también el suyo. Archi se despide; no se muestra que Guxi contacte con ella o repare la relación.",
+  "participantes": [
+    "Archi",
+    "Guxi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1405498997824557167",
+      "afirmacion": "Archi encuentra a Guxi inconsciente junto a botellas, una carta y el anillo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1405511225936318575",
+      "afirmacion": "Guxi explica su reacción nostálgica ante la boda de su hermanastra.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1405516329964015749",
+      "afirmacion": "Archi señala su falta de autoestima y lo invita a desayunar.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1405516912494117016",
+      "afirmacion": "Guxi decide continuar sus tareas y guarda ambos anillos.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El registro de la casa no encuentra un robo confirmado. La pérdida de la relación es la interpretación expresada por Guxi.",
+    "Archi dice haberse divorciado trece veces; se conserva como afirmación, sin inventar parejas ni episodios de esos matrimonios.",
+    "No se identifica el destino o finalidad del viaje mencionado."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-08-14T10:26:39.788000+00:00",
+  "fin_utc": "2025-08-14T13:54:47.956000+00:00",
+  "fecha_local": "2025-08-14",
+  "intervalo": {
+    "anterior": 144,
+    "siguiente": 145,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1403438861371310241",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1405610480659202078",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 144,
+        "fecha": "2025-08-08",
+        "inicio_referencia_utc": "2025-08-08T18:04:41+00:00",
+        "fin_estimado_utc": "2025-08-08T20:55:52+00:00",
+        "duracion_video_segundos": 10271,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1403438861371310241"
+      },
+      {
+        "capitulo": 145,
+        "fecha": "2025-08-14",
+        "inicio_referencia_utc": "2025-08-14T17:53:54+00:00",
+        "fin_estimado_utc": "2025-08-14T21:52:01+00:00",
+        "duracion_video_segundos": 14287,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1405610480659202078"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1405497847738011668",
+      "fecha_utc": "2025-08-14T10:26:39.788000+00:00",
+      "fecha_local": "2025-08-14",
+      "editado_utc": null,
+      "texto": "Archi : **el gnomo va por las calles de la capital,  parece que con una lista de cosas en una mano y una bolsa en la otra . Va caminando despreocupado silbando y saludando de vez en cuando a alguna moza o mozo.  \nHasta que llega a la hacienda de Guxi <@171702246952665098> **\nOoo esta es la morada de Guxi y Lady Seraphina no ? \n*Voy a ver si están me invitan a desayunar*",
+      "mensaje_sha256": "7c97bc75b6bda614a6298d1b915fa73fdef66b613fcf346326ff2efdc8befcd4",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1405497847738011668",
+      "texto_sha256": "d63f7fadb11bffbf481e306110a104f1d1ba0ef4ed8138a29452fc8780709678",
+      "adjuntos": []
+    },
+    {
+      "id": "1405498997824557167",
+      "fecha_utc": "2025-08-14T10:31:13.990000+00:00",
+      "fecha_local": "2025-08-14",
+      "editado_utc": null,
+      "texto": "**cuando tocas la puerta esta se abre lentamente rompiendo el silencio unas botellas vacias que ruedan por el suelo al terminar de abrir la puerta la escena es desgarradora ves a guxi tumbado en el suelo insconciente todavia agarrando una botella mientras que delante suyo esta el anillo de compromiso de seraphina y a uno de los lados una carta abierta**",
+      "mensaje_sha256": "fe0bfd2cfff6faf3d0c711ca5d32c930df12609cf170448c818901bb7160a328",
+      "tipo_discord": 19,
+      "referencia": "1405497847738011668",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1405498997824557167",
+      "texto_sha256": "a894298b848de5344cdc05f9b59de2f5a20da007342d8a12f88e27831c062af9",
+      "adjuntos": []
+    },
+    {
+      "id": "1405501231450816643",
+      "fecha_utc": "2025-08-14T10:40:06.528000+00:00",
+      "fecha_local": "2025-08-14",
+      "editado_utc": null,
+      "texto": "Archi: **se acerca,  recoge el anillo , lo mira ** *es el de compromiso*\n**recoge la carta y la lee** \n*otra boda parese ser\n\nQue habrá sucedido...?*\n**busca signos de robo en la casa hasta que ve a Guxi agarrando la botella,  en gnomo s acerca y olisquea a Guxi **\n\nDioooosss ... si si que eras tú.. \nPero que te ha pasado diamantito,  le tengo que enseñar a beber . \n**se dirige a la cocina y llena el recipiente mas grande que encuentre de agua . Usa tini servanten el y lo vierte encima de Guxi **\n\n**Despertaría?** <@171702246952665098>",
+      "mensaje_sha256": "8a15ff62255aa4f3b18448227e5bdda7a6fb0096e5d260d788ab8849a07836c6",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1405501231450816643",
+      "texto_sha256": "d1e96a8623af0006d2efc6be3e934ad6c374bb1e5bfee73ef2d94ded0409c88c",
+      "adjuntos": []
+    },
+    {
+      "id": "1405502017832488971",
+      "fecha_utc": "2025-08-14T10:43:14.016000+00:00",
+      "fecha_local": "2025-08-14",
+      "editado_utc": null,
+      "texto": "guxi:\n**al notar esa agua fria se remueve**\nSERA ERES TU!\n**gira su cabeza hasta que consigue ver a archi**\nHola archi no estoy de humor ahora\n**su voz se nota quebrada como si tuviera un nudo en la garganta**",
+      "mensaje_sha256": "b5c6dc207e3c3d51b44cb1c73d4c0008828de9d9380ab920b667e68b4d95141f",
+      "tipo_discord": 19,
+      "referencia": "1405501231450816643",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1405502017832488971",
+      "texto_sha256": "71d676db873e94ff80a1c627572fe5b7a763d08990cd2a916e0a43989d7fb91c",
+      "adjuntos": []
+    },
+    {
+      "id": "1405503212001300530",
+      "fecha_utc": "2025-08-14T10:47:58.728000+00:00",
+      "fecha_local": "2025-08-14",
+      "editado_utc": null,
+      "texto": "Archi: **Mira el recipiente y ve que aún queda agua . \nMira guxi ,mira el agua ... Le vuelve a tirar agua encima aunque ya esté despierto ** \n\nJoven Guxi !!! Pero que ha pasado esta hecha un cristo todo esto mon ami . \nAdemás la puerta estaba abierta mientras estabas oliendo el suelo tirado!\n\nQue ha pasado a ver, cuéntale al tio Archi \n **dice ordenando un poco el cuarto , recoge algunas de las botella del suelo y las pone en la mesa **",
+      "mensaje_sha256": "838b6cafeeb6600505b765361797ea80ab589af6df9a22e168cf5f32bfad2885",
+      "tipo_discord": 19,
+      "referencia": "1405502017832488971",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1405503212001300530",
+      "texto_sha256": "7b6d48cc5daf31c4296ae4dbc38747a03c5e72331ff88cdda948bd5f4e0e5fcf",
+      "adjuntos": []
+    },
+    {
+      "id": "1405504296279085056",
+      "fecha_utc": "2025-08-14T10:52:17.240000+00:00",
+      "fecha_local": "2025-08-14",
+      "editado_utc": null,
+      "texto": "guxi:\nPasa lo que me pasa siempre archi que no puedo ser feliz cuando creo que algo me esta iendo bien siempre la fastidio de alguna forma Mi trabajo mi familia mis amigos y ahora por decir algo que no sentia de verdad la he perdido a ella \n**se muerde el labio pues esas palabras le duelen soltaria lagrimas pero ya no puede**\nHe perdido el amor de mi vida mi razon para seguir adelante Mi luz ahora solo estoy aqui vagando por la oscuridad",
+      "mensaje_sha256": "db298187278a2cd227e8aca736b6378592173243106c45adc50105dc96d7f07d",
+      "tipo_discord": 19,
+      "referencia": "1405503212001300530",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1405504296279085056",
+      "texto_sha256": "ac5998f1b1a50103d627140ac76873b0212440aa0c1fe1498e79292b15f7603c",
+      "adjuntos": []
+    },
+    {
+      "id": "1405509865195175987",
+      "fecha_utc": "2025-08-14T11:14:24.973000+00:00",
+      "fecha_local": "2025-08-14",
+      "editado_utc": "2025-08-14T11:17:53.806000+00:00",
+      "texto": "Archi: **se levanta y se dirige a la cocina a preparar té mientras le cuentas ** \n\nAsí que las has jodido pero bien no ? \n**llega a la mesa con el te se sienta y coge su taza y pone la de guxi enfrente suya ** \n\nLo primero levanta de suelo y siéntate.  \nCuéntame que ha pasado.  Otra mujer ?",
+      "mensaje_sha256": "4f88a9c9e6f61e3a6436bc31ceffd0010b174ce7ea54faf5145bb81069e251b1",
+      "tipo_discord": 19,
+      "referencia": "1405504296279085056",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1405509865195175987",
+      "texto_sha256": "e039434372c5d8f3de1ff1be50efa73d85b3727eec952aa93f4869b124710c74",
+      "adjuntos": []
+    },
+    {
+      "id": "1405511225936318575",
+      "fecha_utc": "2025-08-14T11:19:49.399000+00:00",
+      "fecha_local": "2025-08-14",
+      "editado_utc": null,
+      "texto": "guxi:\nMi hermanastra se va a casar ella fue mi primer amor pero lo supere aun asi la nostalgia me invadio aquellos dias de verano que vivimos vinieron a mi y dije algo sin pensar algo que no sentia de verdad \n**se agarra el pecho parece que el corazon le duele**\nElla lo es todo para mi sera no quiero otra cosa pero se que no soy suficiente para ella",
+      "mensaje_sha256": "1c7447406f426591e62086d0d7016fa897759cef14baf45487e470994d97690e",
+      "tipo_discord": 19,
+      "referencia": "1405509865195175987",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1405511225936318575",
+      "texto_sha256": "b9b1f6b383c0a340d970d9d025e4ba6806bd9552a4615ea18790a6c5a87f6cac",
+      "adjuntos": []
+    },
+    {
+      "id": "1405516329964015749",
+      "fecha_utc": "2025-08-14T11:40:06.294000+00:00",
+      "fecha_local": "2025-08-14",
+      "editado_utc": null,
+      "texto": "Archi: **le da unas vueltas a la cuchara meneando el té escuchando ** \n\nSigues con lo mismo mon petit aprendiz. Cuando te conocí no eras capaz de sacar tu intelecto por no valorarte.  \nEn el amor te esta pasando lo mismo.  \nSi te consideras escoria , escoria serás y así te tratarán mon ami . \n\nMe he divorciado 13 veces no soy el mejor para dar consejos **sorbe de la taza ** \n\nBueno , petit Guxi . Yo viy a ir a tomar el segundo desayuno en el petalos . Hacen unas tostadas interesantes . \nQuieres venir ? \n**se levanta y se acerca a la puerta **",
+      "mensaje_sha256": "24fb6fe6ec0b4f3e11d541ef5c4ae64085eaf95a4fa6c95acdccd70a7808a5ee",
+      "tipo_discord": 19,
+      "referencia": "1405511225936318575",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1405516329964015749",
+      "texto_sha256": "a5aeb62c2f6f03066efe36d18ab5807eaf19db03badd7031beaa8662b1c6c495",
+      "adjuntos": []
+    },
+    {
+      "id": "1405516912494117016",
+      "fecha_utc": "2025-08-14T11:42:25.180000+00:00",
+      "fecha_local": "2025-08-14",
+      "editado_utc": null,
+      "texto": "guxi:\ntengo que hacer unas cosas antes terminar las piedras y preparar cosas para el viaje nos veremos antes de que me vaya archi \n**ve el anillo de seraphina delante suyo y se lo guarda en el bolsillo y se saca su anillo y hace lo mismo**",
+      "mensaje_sha256": "9f41c1e4ea76c7f505d23306295b545bc79b6bfe6892683d481ca1da7142bbe2",
+      "tipo_discord": 19,
+      "referencia": "1405516329964015749",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1405516912494117016",
+      "texto_sha256": "da76275b127e8303b7289f3c98b2ea88e7931eba14255c31fef214b00359115d",
+      "adjuntos": []
+    },
+    {
+      "id": "1405519929540608040",
+      "fecha_utc": "2025-08-14T11:54:24.500000+00:00",
+      "fecha_local": "2025-08-14",
+      "editado_utc": null,
+      "texto": "Archi: Nos vemos pronto pues mon ami \n\n⚙️ Archi sale de escena 🔧",
+      "mensaje_sha256": "bbb766156b414640e2172f1b97679f30c0904cc35d9ac6c72f52a2940beb2b89",
+      "tipo_discord": 19,
+      "referencia": "1405516912494117016",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1405519929540608040",
+      "texto_sha256": "755b0fbd837c9e869c5c1ec4702a9e51e6be5fdc52cf2f54f424ea4b58c9b3ce",
+      "adjuntos": []
+    },
+    {
+      "id": "1405550226911137955",
+      "fecha_utc": "2025-08-14T13:54:47.956000+00:00",
+      "fecha_local": "2025-08-14",
+      "editado_utc": null,
+      "texto": "🔴 fin de escena🔴",
+      "mensaje_sha256": "714a177369d025cb512899082b4d3699f576c5d0429581130a5514b5195635f7",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1405550226911137955",
+      "texto_sha256": "906cd6a490f27f6a27bf957ba49b4845aca936431f5924262141d6e0dea25762",
+      "adjuntos": []
+    }
+  ]
+}

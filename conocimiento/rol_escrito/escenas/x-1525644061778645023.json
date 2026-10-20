@@ -1,0 +1,117 @@
+{
+  "id": "x-1525644061778645023",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1525644061778645023",
+  "hilo_id": "1495828307843747971",
+  "hilo_nombre": "??? - En alguna parte",
+  "titulo": "Aunfaere revela que el Zin-Carla desobedece",
+  "resumen": "Miz'lin sigue guiando al no muerto, pero su hija comparte con Deyvon una anomalía que ambos pretenden aprovechar.",
+  "relato": "Miz'lin observa el Zin-Carla mediante el altar de escrutinio y ordena guiarlo cuando pase cerca de Xhuldriss, evitando la ciudad. Aunfaere intenta advertir una anomalía, pero su madre la manda callar y le exige sacar información al consorte Unthuar antes de matarlo, además de darle nuevas sacerdotisas.\n\nLa hija sabe que el regalo debería obedecer por completo a su matrona. Recuerda que desoyó una orden de ignorar a unos svirfneblin y continuar el cometido. Ve una amenaza que la sed de venganza de Miz'lin está ocultando.\n\nEn sus aposentos encuentra a Deyvon afilando armas con sangre fresca. Dice haber impedido que unos guardias hablaran a sus espaldas, sin narrar aquí qué hizo exactamente. Ella niega que su defensa cambie la jerarquía y declara que lo usará para conseguir sus fines.\n\nAun así le cuenta las desobediencias del Zin-Carla. Deyvon disimula la satisfacción de imaginar el valor de esa noticia para Brythya. Aunfaere, a su vez, revela información gradualmente para probar su lealtad y convertirlo en herramienta. El beso que le impone no sella confianza mutua: ambos conservan planes secretos. El envío efectivo del informe no ocurre en estos mensajes.",
+  "participantes": [
+    "Miz'lin",
+    "Aunfaere",
+    "Deyvon"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1525644061778645023",
+      "afirmacion": "Miz'lin vigila al Zin-Carla, mientras Aunfaere reconoce una desobediencia a la orden sobre los svirfneblin.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1525644097757384794",
+      "afirmacion": "Aunfaere cuenta a Deyvon que el no muerto a veces no sigue las órdenes.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1525644104112013384",
+      "afirmacion": "Ambos planean usar la confidencia para sus propios objetivos.",
+      "tipo": "pensamiento"
+    }
+  ],
+  "notas": [
+    "La sangre en las armas no permite afirmar una ejecución de los guardias.",
+    "El informe a Brythya es una intención aquí, confirmado como realizado en una unidad posterior.",
+    "La intimidad impuesta no se describe como reconciliación ni afecto recíproco."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-07-11T23:24:49.424000+00:00",
+  "fin_utc": "2026-07-11T23:24:59.517000+00:00",
+  "fecha_local": "2026-07-12",
+  "intervalo": {
+    "anterior": 43,
+    "siguiente": 44,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1525209204300841101",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527010759236653109",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 43,
+        "fecha": "2026-07-10",
+        "inicio_referencia_utc": "2026-07-10T18:35:33+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1525209204300841101"
+      },
+      {
+        "capitulo": 44,
+        "fecha": "2026-07-15",
+        "inicio_referencia_utc": "2026-07-15T17:55:09+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527010759236653109"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1525644061778645023",
+      "fecha_utc": "2026-07-11T23:24:49.424000+00:00",
+      "fecha_local": "2026-07-12",
+      "editado_utc": "2026-07-11T23:27:11.918000+00:00",
+      "texto": "**En la cámara ritual de la Casa Rheydyn, la Matrona Miz'lin contemplaba el altar de escrutinio, un poderoso foco de adivinación que le permitía observar a distancia el regalo que las sirvientas de Lady Lolth les habían concedido.**\n\nMatrona Miz'lin: En un par de días pasará cerca de Xhuldriss. Mantened una vigilancia constante y guiadlo si es necesario, siempre que no se acerque demasiado a la ciudad. **Dirigió una fría mirada a las acólitas reunidas en la sala.** Y no falléis esta vez.\n\nAunfaere: Eso no es normal, Matrona. **Se atrevió a decir cuando ambas abandonaron la cámara ritual.** No debería...\n\nMatrona Miz'lin: ¡Cállate! **La interrumpió con dureza.** Ocúpate del varón Unthuar. Sácale cualquier información que pueda perjudicar a la Matrona Brythya. **Miró a su hija con desprecio y una sonrisa cruel se dibujó en su rostro.** Y antes de matarlo, procura que al menos resulte útil a la casa. Dame nuevas sacerdotisas.\n\nAunfaere: **Entró en sus aposentos conteniendo la rabia. Su estúpida madre estaba tan consumida por los celos y el deseo de venganza contra la Casa Unthuar que era incapaz de ver lo evidente. Algo iba mal. Un Zin-Carla era un regalo excepcional de Lolth: el espíritu de un drow devuelto a su propio cuerpo y sometido por completo a la voluntad de una Matrona. La Reina Araña solo concedía semejante bendición para cumplir un propósito concreto, casi siempre destinado a sembrar el caos y servir a sus inescrutables designios. Y, precisamente por eso... No era normal que aquel Zin-Carla estuviera actuando de aquella manera. Había desobedecido a la Matrona cuando esta le ordenó ignorar a aquellos svirfneblin y continuar con su cometido. Eso no era normal.**",
+      "mensaje_sha256": "7359f1a9376f4334b58b750cd9de4eb457cbe0e52515305cb43d4ced0e7cd1a9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1525644061778645023",
+      "texto_sha256": "a02176f190ee00e432ffd32cfe453c668697bc3c3fc2185a13950ebd853bee10",
+      "adjuntos": []
+    },
+    {
+      "id": "1525644097757384794",
+      "fecha_utc": "2026-07-11T23:24:58.002000+00:00",
+      "fecha_local": "2026-07-12",
+      "editado_utc": "2026-07-11T23:30:09.282000+00:00",
+      "texto": "Deyvon: ¿Otro mal día? **Preguntó el drow sin apartar la vista de las armas que estaba afilando.**\n\nAunfaere: ¿Qué haces aquí? No te he hecho llamar... **Su voz era fría, aunque no hizo el menor gesto de amenaza.**\n\nDeyvon: Pensé que querrías desfogarte. He oído a unos guardias decir que Miz'lin te había vuelto a reprender. **Continuó pasando la piedra de afilar por el filo de sus dagas.**\n\nAunfaere: Matrona Miz'lin. **Lo corrigió con severidad.** Dame los nombres de esos guardias. Los azotaré para que aprendan cuándo deben mantener la boca cerrada.\n\nDeyvon: Ya lo saben. **Dejó las armas sobre la mesa. Sus hojas aún conservaban manchas de sangre fresca. Muy fresca.** No voy a permitir que hablen de mi sacerdotisa a sus espaldas.\n\nAunfaere: Te crees muy listo, ¿eh, Deyvon? **Se acercó despacio hasta quedar frente a él.** No pienses que voy a tratarte de forma diferente porque me hayas defendido alguna vez. **Sonrió con una mezcla de burla y desafío.** Te usaré para conseguir lo que quiero. ¿Lo has entendido?\n\nDeyvon: Claro, mi sacerdotisa Aunfaere. **Respondió sin agachar la mirada.**\n\nAunfaere: Pasa algo con el regalo de Lolth. **Guardó silencio unos instantes antes de continuar.** A veces... no sigue las órdenes que le da madre. **Se interrumpió. No debería estar hablando de aquello con nadie. Pero Deyvon era el único que le había mostrado un mínimo de respeto desde que había llegado a la Casa Rheydyn. Incluso había desafiado a Hudey cuando este había mancillado su honor delante de los soldados. Era la única persona con la que podía hablar.** Tengo un mal presentimiento con todo esto.",
+      "mensaje_sha256": "2e1538ca68b42040dda805b49e13999b20f45a7a01b16a7ed8e086fa7df8e1ba",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1525644097757384794",
+      "texto_sha256": "63c675fea5dbaa21c08e954ad5b542b9fcf3185496c2180c67052c4b657a8157",
+      "adjuntos": []
+    },
+    {
+      "id": "1525644104112013384",
+      "fecha_utc": "2026-07-11T23:24:59.517000+00:00",
+      "fecha_local": "2026-07-12",
+      "editado_utc": "2026-07-11T23:26:23.980000+00:00",
+      "texto": "Deyvon: Bueno... según nos enseñáis, los designios de Lolth son indescifrables. Es la Señora del Caos. **Respondió ocultando cualquier atisbo de satisfacción.** *¿La Matrona Miz'lin había perdido el control del Zin-Carla? Madre estará encantada de saberlo.*\n\nAunfaere: **Observó al drow de reojo. No sabía si ya había hablado más de la cuenta. Al fin y al cabo, seguía siendo un Unthuar. Un miembro de la familia responsable de la muerte de sus dos hermanas mayores. Aun así, revelar información poco a poco siempre había sido una estrategia que le daba buenos resultados. Así descubriría hasta dónde llegaba la lealtad del varón. Y, sobre todo... Si podía convertirlo en una herramienta útil para sus propios planes. Le sonrió para luego obligarle a besarla**\n\n🔴 Fin de la escena 🔴",
+      "mensaje_sha256": "db7c9791e367fe64aa7cee31123934b1a9c03ae567a9757ccac9fe3b8776ad40",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1525644104112013384",
+      "texto_sha256": "1cab1b3c8466dee24a866228ac34822c77eab855fae6fe1d7a7c6758741e4218",
+      "adjuntos": []
+    }
+  ]
+}

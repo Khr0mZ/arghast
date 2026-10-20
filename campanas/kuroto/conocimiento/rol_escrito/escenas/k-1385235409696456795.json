@@ -1,0 +1,130 @@
+{
+  "id": "k-1385235409696456795",
+  "campana": "kuroto",
+  "unidad_revision": "k-1385235409696456795",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Jelbreg no encuentra a Kalista",
+  "resumen": "El drow busca a la tritón en Sho y decide ir al palacio con Wasabi.",
+  "relato": "Jelbreg llega apresuradamente a la base buscando a Kalista. Aparta a Tip, Top y Tap y revisa las habitaciones, pero no la encuentra. Cuenta que esa mañana ella le había pedido recoger la capa de Tsugami y verse después en casa, sin tardar. Al no hallar noticias, propone a Wasabi ir al palacio para preguntar si Banzo ya la ha localizado. Sale de nuevo sin resolver su paradero.",
+  "participantes": [
+    "Jelbreg",
+    "Wasabi",
+    "Tip",
+    "Top",
+    "Tap"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1385235409696456795",
+      "afirmacion": "Jelbreg revisa la base buscando a Kalista.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1385236284196388934",
+      "afirmacion": "Kalista no está en ninguna habitación.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1385237221703159870",
+      "afirmacion": "Jelbreg decide ir con Wasabi al palacio tras recordar el encargo de la capa.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Cuatro mensajes completos. La ausencia no acredita secuestro, desaparición permanente o daño. La capa solo se menciona como encargo anterior y no se entrega aquí."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-19T12:30:58.101000+00:00",
+  "fin_utc": "2025-06-19T12:38:55.411000+00:00",
+  "fecha_local": "2025-06-19",
+  "intervalo": {
+    "anterior": 129,
+    "siguiente": 130,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1384958659062403102",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1385318614470496400",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 129,
+        "fecha": "2025-06-18",
+        "inicio_referencia_utc": "2025-06-18T18:10:58+00:00",
+        "fin_estimado_utc": "2025-06-18T20:18:17+00:00",
+        "duracion_video_segundos": 7639,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1384958659062403102"
+      },
+      {
+        "capitulo": 130,
+        "fecha": "2025-06-19",
+        "inicio_referencia_utc": "2025-06-19T18:01:24+00:00",
+        "fin_estimado_utc": "2025-06-19T21:47:20+00:00",
+        "duracion_video_segundos": 13556,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1385318614470496400"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1385235409696456795",
+      "fecha_utc": "2025-06-19T12:30:58.101000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Entra a toda velocidad en la base mirando a todos lados buscando a Kalista. Aparta a Tip, Top y Tap que estaban molestando y se asoma en todas las habitaciones a ver si la ve** Kalista!",
+      "mensaje_sha256": "0d408fc71e5c78dd80d35f6af16639322160e7281a52c022fe68b98fc7695faf",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1385235409696456795",
+      "texto_sha256": "924605d8acf82f92b24bd26fc8ae7db9dc7a37acb1406e9f3088e507df89f535",
+      "adjuntos": []
+    },
+    {
+      "id": "1385236284196388934",
+      "fecha_utc": "2025-06-19T12:34:26.598000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": null,
+      "texto": "**No esta por ningun lado**",
+      "mensaje_sha256": "cc450791515c4990e701a8a88b98cd7ae4b100af3fbe8e4256d061b1a8f3f4b0",
+      "tipo_discord": 19,
+      "referencia": "1385235409696456795",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1385236284196388934",
+      "texto_sha256": "5b58e5f182416ee6081557dbe028d0e488469dbedd392f58c6719584607ac636",
+      "adjuntos": []
+    },
+    {
+      "id": "1385237221703159870",
+      "fecha_utc": "2025-06-19T12:38:10.117000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": null,
+      "texto": "Jelbreg: Mierda! Donde se habrá metido... Esta mañana me ha dicho que fuera a buscar la capa de Tsugami y nos veríamos en casa, que no iba a tardar **Mira a Wasabi** Vamos a palacio, a ver si Banzo la ha encontrado ya.\n\n👻Jelbreg sale de escena👻",
+      "mensaje_sha256": "54cfd28f429760d22e390773bde9d1347b6d43c21d234f6f8d877981c378c75e",
+      "tipo_discord": 19,
+      "referencia": "1385236284196388934",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1385237221703159870",
+      "texto_sha256": "9f95a53721211765f5b1a52ffb29202457eff495ef59319660529a86b0f351fc",
+      "adjuntos": []
+    },
+    {
+      "id": "1385237411679834265",
+      "fecha_utc": "2025-06-19T12:38:55.411000+00:00",
+      "fecha_local": "2025-06-19",
+      "editado_utc": null,
+      "texto": "🔴Fin de escena🔴",
+      "mensaje_sha256": "dc473caed6f4c8a1f7a20a72fd730c19a57f9e07ebcd1abc4027683553ae2fcf",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1385237411679834265",
+      "texto_sha256": "59456445b11344a954b87195e43465725010ff862bf1ce7600f8ac2a1ca375bf",
+      "adjuntos": []
+    }
+  ]
+}

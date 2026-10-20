@@ -87,7 +87,7 @@ try {
   await check('Portada cargada desde archivo local','!!document.querySelector(".hero-title") && !!document.querySelector(".hero-art")');
   await check('Paisaje selvático integrado y decodificable sin conexión','(async()=>{const url=getComputedStyle(document.querySelector(".hero-art")).backgroundImage.slice(5,-2);if(!url.startsWith("data:image/webp;base64,"))return false;const image=new Image();image.src=url;await image.decode();return image.naturalWidth>1000})()');
   await check('Accesos a las seis secciones comunes de la campaña','document.querySelectorAll(".expedition-links a").length===6');
-  await check('La portada abre las crónicas y los misterios dentro del archivo','JSON.stringify([...document.querySelectorAll(".hero .hero-actions a")].map(a=>a.getAttribute("href")))===JSON.stringify(["#capitulos","#misterios"])&&![...document.querySelectorAll(".hero .hero-actions a")].some(a=>a.target==="_blank")');
+  await check('La portada abre la historia y los misterios dentro del archivo','JSON.stringify([...document.querySelectorAll(".hero .hero-actions a")].map(a=>a.getAttribute("href")))===JSON.stringify(["#lectura","#misterios"])&&![...document.querySelectorAll(".hero .hero-actions a")].some(a=>a.target==="_blank")');
   const xoltacanHomeNavigation=await evaluate('('+homeNavigation.toString()+')()');
   await check('Todos los episodios, registros y transcripciones coinciden con las fichas locales',`(()=>{const d=JSON.parse(document.getElementById("xoltacan-data").textContent);return d.chapters.length===${expectedChapters.length}&&d.facts.length===${expectedFacts}&&Object.keys(d.transcripts).length===${expectedChapters.length}})()`);
   await check('Sin categoría editorial de contradicciones','![...document.querySelectorAll("#sidebar a")].some(a=>a.hash==="#contradicciones")');
@@ -123,6 +123,8 @@ try {
   await check('La entrega del veneno enlaza el vídeo y su contexto','document.querySelector(".quote").textContent.length>0&&document.querySelector(".evidence a").href.includes("LBuXKKhfGlY")&&document.querySelectorAll(".context-details .transcript-row").length>0');
   await route('#capitulo/41');
   await check('El capítulo 41 abre su relato completo en diez etapas','document.querySelector("[data-tab=relato]").classList.contains("active")&&document.querySelectorAll(".story-stage").length===10&&document.getElementById("content").innerText.includes("Tentacol")');
+  await check('El directo de julio y la publicación de octubre aparecen separados','document.querySelector(".chapter-dates").innerText.includes("03/07/2026")&&document.querySelector(".chapter-dates").innerText.includes("20/10/2026")&&document.querySelector(".chapter-dates dt").textContent==="Directo en Twitch"');
+  await check('La fuente de Twitch enlaza el anuncio original de julio','[...document.querySelectorAll(".date-sources a")].some(a=>a.href.endsWith("/1522672340213694706"))');
   await screenshot('capitulo-41-escritorio');
   await evaluate('document.querySelector("[data-tab=hechos]").click()');
   await check('El capítulo 41 incluye sus 55 evidencias','document.querySelectorAll(".event").length===55');
@@ -137,6 +139,26 @@ try {
   await route('#entidad/Tortas');
   await check('Tortas conserva su historia actualizada y las edades discrepantes','document.querySelectorAll(".story-stage").length===JSON.parse(document.getElementById("xoltacan-data").textContent).entities.find(e=>e.name==="Tortas").history.etapas.length&&document.getElementById("content").innerText.includes("77")');
   for(const section of ['misterios','misiones','relaciones','nombres','metodo']){await route('#'+section);if(section==='misterios')await evaluate('document.querySelector("details.context-details").open=true');await check('Documento '+section,'document.querySelector(".document").innerText.length>100');}
+  await route('#capitulo/21');
+  await check('El día aceptado se muestra como fecha y conserva los avisos alternativos','document.querySelector(".chapter-dates dd").dataset.dateStatus==="asumida"&&document.querySelector(".chapter-dates dd").textContent==="01/04/2026"&&document.querySelector(".date-sources").textContent.includes("02/04/2026")&&document.querySelector(".chapter-dates dd time").getAttribute("datetime")==="2026-04-01"');
+  await route('#capitulo/38');
+  await check('El capítulo 38 adopta el día aceptado y enlaza su calendario','document.querySelector(".chapter-dates dd").textContent==="15/06/2026"&&document.querySelector(".date-programming").textContent.includes("15/06/2026")&&document.querySelector(".date-programming a").href.includes("/946724149383024690/")&&document.querySelector(".chapter-dates dd").dataset.dateStatus==="asumida"');
+  await route('#capitulo/40');
+  await check('El capítulo 40 distingue fecha asumida y programación de las 20:00','document.querySelector(".chapter-dates dd").textContent==="02/07/2026"&&document.querySelector(".chapter-dates dd").dataset.dateStatus==="asumida"&&document.querySelector(".date-programming").textContent.includes("20:00")&&document.querySelector(".date-programming").textContent.includes("no acredita")');
+  await screenshot('fechas-estimadas-escritorio');
+  await evaluate('document.querySelector(".date-sources").open=true');
+  await check('La fuente abierta conserva la diferencia entre día probable y hora prevista','document.querySelector(".date-sources").innerText.includes("confianza")&&document.querySelector(".date-programming").innerText.includes("hora real de inicio")');
+  await screenshot('fechas-programacion-escritorio');
+  await call('Emulation.setDeviceMetricsOverride',{width:390,height:844,deviceScaleFactor:1,mobile:true});
+  await sleep(350);
+  await check('El calendario desplegado cabe en móvil','document.documentElement.scrollWidth<=390&&document.querySelector(".date-programming").getBoundingClientRect().right<=390');
+  await screenshot('fechas-programacion-movil');
+  await call('Emulation.setDeviceMetricsOverride',{width:1440,height:1080,deviceScaleFactor:1,mobile:false});
+  await route('#capitulo/39');
+  await check('Un aviso sin fecha del vídeo se identifica como aviso YouTube','[...document.querySelectorAll(".chapter-dates dt")].some(e=>e.textContent==="Aviso de YouTube")&&document.querySelector(".date-sources").textContent.includes("publicación exacta sigue por confirmar")');
+  await route('#capitulo/1');
+  await evaluate('document.querySelector(".date-sources").open=true');
+  await check('Se conserva la fecha del vídeo aunque el bot avise dos días después','document.querySelector(".chapter-dates").textContent.includes("07/04/2026")&&document.querySelector(".date-sources").textContent.includes("9/4/26")');
   for(const [section,type] of [['personajes','personaje'],['atlas','lugar'],['facciones','faccion'],['objetos','objeto']]){
     await route('#'+section);
     await check('Nombre común de la sección '+section+' en Xoltacan','document.getElementById("page-title").textContent==='+JSON.stringify(sectionNames[section])+'&&document.querySelector("#content h1").textContent==='+JSON.stringify(sectionNames[section]));
@@ -316,11 +338,21 @@ try {
   await call('Emulation.setDeviceMetricsOverride',{width:1440,height:1080,deviceScaleFactor:1,mobile:false});
   await route('#capitulos');
   await check('Catálogo completo de Kuroto sin renumerar','(()=>{const cards=[...document.querySelectorAll(".chapter-card")];return cards.length===181&&cards.some(a=>a.hash==="#capitulo/182")&&!cards.some(a=>a.hash==="#capitulo/92")})()');
+  await check('Las tarjetas de Kuroto distinguen Twitch y YouTube','document.querySelectorAll(".chapter-dates-compact").length===181');
   await check('169 y 170 siguen orden numérico','(()=>{const links=[...document.querySelectorAll(".chapter-card")].map(a=>Number(a.hash.split("/")[1]));return links.indexOf(169)<links.indexOf(170)})()');
   await evaluate('document.getElementById("chapter-search").value="bosque";document.getElementById("chapter-search").dispatchEvent(new Event("input",{bubbles:true}))');
   await check('Buscar capítulos de Kuroto','document.querySelectorAll(".chapter-card").length>0&&[...document.querySelectorAll(".chapter-card .card-title")].every(e=>e.textContent.toLowerCase().includes("bosque"))');
   await route('#capitulo/1');
   await check('Los mismos números de capítulo no mezclan campañas','document.getElementById("page-title").textContent==="El Bosque de Cuchillas"&&document.querySelectorAll(".story-stage").length===5&&document.querySelector("a[target=_blank]").href.includes("KkZZR81onIw")');
+  await check('Kuroto conserva su propia fecha del directo original','document.querySelector(".chapter-dates").textContent.includes("20/03/2024")&&!document.querySelector(".chapter-dates").textContent.includes("28/01/2026")');
+  await screenshot('kuroto-fechas-escritorio');
+  await route('#capitulo/55');
+  await check('Kuroto 55 adopta el 9 conservando el aviso original del 10 y su discrepancia','document.querySelector(".date-discrepancy").textContent.includes("9 de octubre")&&document.querySelector(".chapter-dates dd").textContent==="09/10/2024"&&document.querySelector(".chapter-dates dd").dataset.dateStatus==="asumida"&&[...document.querySelectorAll(".date-sources a")].some(a=>a.href.endsWith("/1294002567352811644"))');
+  for(const [number,day,notice] of [[49,'24/09/2024','1288206046950588457'],[56,'10/10/2024','1293642162625577123'],[134,'02/07/2025','1390030497551487016']]){
+    await route('#capitulo/'+number);
+    await check('Kuroto '+number+' tiene día asumido y conserva su aviso contradictorio',`document.querySelector('.chapter-dates dd').textContent===${JSON.stringify(day)}&&document.querySelector('.chapter-dates dd').dataset.dateStatus==='asumida'&&[...document.querySelectorAll('.date-sources a')].some(a=>a.href.endsWith('/'+${JSON.stringify(notice)}))`);
+  }
+  await route('#capitulo/1');
   await evaluate('document.querySelector("[data-tab=transcripcion]").click()');
   for(let i=0;i<100;i++){if(await evaluate('!!document.querySelector(".transcript-row")'))break;await sleep(150);}
   await check('Transcripción original de Kuroto cargada por sesión','document.querySelectorAll(".transcript-row").length===120&&document.querySelector(".transcript-row a").href.includes("KkZZR81onIw")&&Object.keys(globalThis.arghastTranscripts).length===1');

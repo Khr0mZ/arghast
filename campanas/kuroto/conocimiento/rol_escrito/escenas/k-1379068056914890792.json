@@ -1,0 +1,338 @@
+{
+  "id": "k-1379068056914890792",
+  "campana": "kuroto",
+  "unidad_revision": "k-1379037824459866123",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Un volumen todavía ilegible",
+  "resumen": "Maroxi pide a Osurai información para investigar el libro.",
+  "relato": "En Sho se oye una pequeña explosión y Maroxi sale tosiendo de su cuarto. Explica a quien cree Kurobane que intenta superar la barrera mágica de un libro que le llevó Gur, capaz de absorber hechizos según sus observaciones. La mezcla alquímica con que quería corroer la protección reaccionó antes de usarla. El interlocutor se presenta como Osurai y dice que el ninja está indispuesto. Maroxi percibe su oscuridad y, en privado, compara esa situación con la entidad que siente dentro de sí y sus preparativos para la Reina Cuervo; no comparte esos pensamientos. Osurai identifica el volumen como una biblia de Ōtakemaru y transmite lo que atribuye a la investigación del joven: más páginas al absorber magia, desmayos al tocarlo y una visión de un ser azul parecido a Gur. No sabe cómo leerlo sin daño y solo recuerda que una mujer tradujo la portada. Ambos especulan sobre el ser y deciden que convendría preguntar a Gur, último al que Osurai vio en el extraño circo. Maroxi prepara equipo, pociones y el libro envuelto y se marcha, aparentemente invisible. Deja visible un cofre vacío en el cuarto, sin explicar su contenido anterior. Osurai vuelve al suyo a meditar. El libro continúa sin descifrarse.",
+  "participantes": [
+    "Maroxi",
+    "Osurai"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1379068056914890792",
+      "afirmacion": "Una pequeña explosión hace salir a Maroxi tosiendo de su cuarto.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1379068992798457866",
+      "afirmacion": "Maroxi explica que su mezcla para el libro reaccionó antes de usarla.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1379069965692305430",
+      "afirmacion": "Osurai se presenta y atribuye al libro carácter de biblia de Ōtakemaru.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1379071321559793701",
+      "afirmacion": "Maroxi compara privadamente la entidad de Kurobane con su propia situación y piensa en los preparativos de la Reina Cuervo.",
+      "tipo": "pensamiento"
+    },
+    {
+      "mensaje_id": "1379073349484941423",
+      "afirmacion": "Osurai relata las propiedades atribuidas al libro y la visión de un ser azul.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1379083150319288342",
+      "afirmacion": "Osurai solo identifica a Gur como alguien que tocó el volumen.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1379086171195441192",
+      "afirmacion": "Maroxi sale con el libro envuelto y su equipo, dejando visible un cofre vacío.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1379086984487764011",
+      "afirmacion": "Osurai vuelve a su habitación.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Diecinueve mensajes completos en dos bloques de acción.",
+    "La prueba de la carreta está representada por su inventor, sin añadir capacidades bélicas o una llegada no mostrada.",
+    "Las propiedades del libro y la visión azul son informes verbales, no experimentos repetidos aquí. Osurai reconoce como conjetura la identidad de un posible primer dueño.",
+    "Maroxi supone que Gur tuvo relación con el incendio del circo; el diálogo no confirma esa responsabilidad.",
+    "Los pensamientos sobre la Reina Cuervo y la entidad de Maroxi son privados. No se deduce que el cofre vacío contuviera una esfera ni se resuelve su anterior desaparición."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-02T12:04:06.614000+00:00",
+  "fin_utc": "2025-06-02T13:19:44.623000+00:00",
+  "fecha_local": "2025-06-02",
+  "intervalo": {
+    "anterior": 123,
+    "siguiente": 124,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1377714802629283882",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1379890572373790750",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 123,
+        "fecha": "2025-05-29",
+        "inicio_referencia_utc": "2025-05-29T18:26:29+00:00",
+        "fin_estimado_utc": "2025-05-29T21:01:06+00:00",
+        "duracion_video_segundos": 9277,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1377714802629283882"
+      },
+      {
+        "capitulo": 124,
+        "fecha": "2025-06-04",
+        "inicio_referencia_utc": "2025-06-04T18:32:16+00:00",
+        "fin_estimado_utc": "2025-06-04T21:34:59+00:00",
+        "duracion_video_segundos": 10963,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1379890572373790750"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1379068056914890792",
+      "fecha_utc": "2025-06-02T12:04:06.614000+00:00",
+      "fecha_local": "2025-06-02",
+      "editado_utc": null,
+      "texto": "**mientras tanto en la base de Sho se escucha una pequeña explosión**\n**Se abre la puerta de la habitación de Maroxi quien sale tosiendo**\nCreo que me pase con las cantidades...",
+      "mensaje_sha256": "e9f3c4bba9f7cd2a734fe389e6942a2176e3801e20c20d41cef0a2a18bf44fa1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1379068056914890792",
+      "texto_sha256": "e91375c6c93d5247ecdce5016702ca4743a5aed68451598adb3799369f162ee9",
+      "adjuntos": []
+    },
+    {
+      "id": "1379068440983244960",
+      "fecha_utc": "2025-06-02T12:05:38.183000+00:00",
+      "fecha_local": "2025-06-02",
+      "editado_utc": null,
+      "texto": "Osurai:\n\n**Estaría sentado en una de la sala principal**\n\nQué ha pasado ahí dentro?\n\n**Pregunta intentando mirar detrás de él**",
+      "mensaje_sha256": "6e9f0ea4167c1ad0900aba40c306c487d177a8b12a0deed956d167e10d00b696",
+      "tipo_discord": 19,
+      "referencia": "1379068056914890792",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1379068440983244960",
+      "texto_sha256": "ca0be45eb436388a40e7ac5048cb6929c157981335178588f74777660c61efdb",
+      "adjuntos": []
+    },
+    {
+      "id": "1379068992798457866",
+      "fecha_utc": "2025-06-02T12:07:49.746000+00:00",
+      "fecha_local": "2025-06-02",
+      "editado_utc": null,
+      "texto": "Perdona kurobane, Gur me trajo un libro raro, pero intente leerlo y tiene como una barrera magica que nonca he visto que absorbe los hechizos y no se puede dispelear, estoy revisando libros de alquimia del alquimista amigo mio y de la biblioteca de Sho pero no encontre nada, intente hacer una solucion corrosiva para la magia pero no atine bien con las cantidades y reacciono antes de usarla **se sacude el polvo de su ropa**",
+      "mensaje_sha256": "aa95c812074acb627b54f599f5354c271bfc17ca5bba9ada29675db678f8c78d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1379068992798457866",
+      "texto_sha256": "44803e57a5abfb7142786bdf0abac2ab704091d7695bff135c099adb00128e13",
+      "adjuntos": []
+    },
+    {
+      "id": "1379069149342597210",
+      "fecha_utc": "2025-06-02T12:08:27.069000+00:00",
+      "fecha_local": "2025-06-02",
+      "editado_utc": null,
+      "texto": "**Maroxi se te queda mirando** mmm estas bien ?? te noto raro...",
+      "mensaje_sha256": "a7a46dcb96ade1ed203c88cecbdb30aa151f9016d65b375c5220e6339ea64ed9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1379069149342597210",
+      "texto_sha256": "b0f9536b146303a4d6f7cfe00c1189693b90ffd6b6a3258341ee816cbbf36363",
+      "adjuntos": []
+    },
+    {
+      "id": "1379069247619072061",
+      "fecha_utc": "2025-06-02T12:08:50.500000+00:00",
+      "fecha_local": "2025-06-02",
+      "editado_utc": null,
+      "texto": "_esa oscuridad en el no es normal_",
+      "mensaje_sha256": "8af2eaf1295a307f5c5654d5affefb759330e8237aef42fbe20e1c429f3edb71",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1379069247619072061",
+      "texto_sha256": "b65fcab2620251b84496312491557ab38852b53b163cae9e9fd8fc6cbce7d19e",
+      "adjuntos": []
+    },
+    {
+      "id": "1379069965692305430",
+      "fecha_utc": "2025-06-02T12:11:41.702000+00:00",
+      "fecha_local": "2025-06-02",
+      "editado_utc": null,
+      "texto": "Osurai:\n\nKurobane está indispuesto, Maroxi. Mi nombre es Osurai. Lo último que investigó él fue que es una biblia para Ootakemaru.\n\n**Dice sonriente pero no es la sonrisa normal de Kurobane, es más fría y no se logra distinguir su tez blanca por toda esa oscuridad**",
+      "mensaje_sha256": "ff1f36cc2f3faa74ce791ecc6f425015aeb3e2665b15e9b6b839ece7f8352446",
+      "tipo_discord": 19,
+      "referencia": "1379069149342597210",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1379069965692305430",
+      "texto_sha256": "95e9a00d4f6ab6d282d17b1f13163e0a3504dfc14ae95893b2fdcd9de8f211c3",
+      "adjuntos": []
+    },
+    {
+      "id": "1379071321559793701",
+      "fecha_utc": "2025-06-02T12:17:04.966000+00:00",
+      "fecha_local": "2025-06-02",
+      "editado_utc": null,
+      "texto": "**Maroxi siente un escalofrio por todo su cuerpo similar al que sentia antes de tener la proteccion de la reina cuervo** _así que no soy el unico que tiene otra entidad dentro... pobre kurobane, parece que sucumbio a la suya... la reina me tiene impaciente con los preparativos, ya le lleve todo lo que me pidio... aún asi esta espera me está matando_ **maroxi vuelve en si** eee bueno si estas aqui entiendo que nos estas ayudando... sabes como se podria leer esta cosa  sin sufrir daño?",
+      "mensaje_sha256": "ed6f56d79bda1bfa3fd1e9877d5dac9da0395658e95ae3f1f957d800fdedfd17",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1379071321559793701",
+      "texto_sha256": "103db63f01ec9f02c3f14e01b50f83aac206d78132e0407d04ccb12d7331a702",
+      "adjuntos": []
+    },
+    {
+      "id": "1379073349484941423",
+      "fecha_utc": "2025-06-02T12:25:08.461000+00:00",
+      "fecha_local": "2025-06-02",
+      "editado_utc": "2025-06-02T12:28:47.370000+00:00",
+      "texto": "Osurai:\n\nLa pez no le dijo nada, solo que esa biblia la encontraron en unos de los últimos templos cultistas. Y, Kurobane se dio cuanta que su número de hojas aumenta cuanto más magia absorba y que si lo tocas caes inconsciente. Los que lo han hecho han visto un ser parecido a Gur pero azul. Y, encontraron a una mujer que tradujo la portada, pero no sé donde se encuentra.\n\n**Dice con una seriedad fría y dolorosa pero mantiene esa tétrica sonrisa, también puedes ver que denota odio o enojó con 3 palabras, las cuales son pez, cultistas y Kurobane. Al ser dictado en la magia, puedes observar que la oscuridad que rodea a Kurobane es una magia antigua y sombría**",
+      "mensaje_sha256": "91a2bf360364110014cbbe372030019def210c6f9d7b1ab635b02ce4d191add2",
+      "tipo_discord": 19,
+      "referencia": "1379071321559793701",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1379073349484941423",
+      "texto_sha256": "b6024aa44162bb1bf254beef23400d517df454784efc0704860d458d14da4ad2",
+      "adjuntos": []
+    },
+    {
+      "id": "1379079477652488282",
+      "fecha_utc": "2025-06-02T12:49:29.530000+00:00",
+      "fecha_local": "2025-06-02",
+      "editado_utc": "2025-06-02T13:00:27.280000+00:00",
+      "texto": "Maroxi: Gur en azul??? Seguro? mmm no se me ocurre ninguna criatura así, quiza sea algun tipo de demonio o diablo no se...",
+      "mensaje_sha256": "32c17eefcec3f3e0407b11ed6eb2ddbed2d3758f8df117e1cc261d4330bf9cc8",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1379079477652488282",
+      "texto_sha256": "1c575d3f8588855010dfe5f10b15b9886bf937693f70350ffa82682e8b70a827",
+      "adjuntos": []
+    },
+    {
+      "id": "1379080061994668123",
+      "fecha_utc": "2025-06-02T12:51:48.848000+00:00",
+      "fecha_local": "2025-06-02",
+      "editado_utc": null,
+      "texto": "Osurai:\n\nPuede ser que sea el primer dueño, pero son conjeturas. \n\n**Dice sonriente mientras le mira de arriba a abajo**",
+      "mensaje_sha256": "674818b612bbc0d71191492b557b3e9157521ff1a5498ecbe020d5f3ea980693",
+      "tipo_discord": 19,
+      "referencia": "1379079477652488282",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1379080061994668123",
+      "texto_sha256": "a4529b0400a0cde14473bd4da89236e23a1237d14b0dcb9b51a9d473a38e28e5",
+      "adjuntos": []
+    },
+    {
+      "id": "1379082534742134835",
+      "fecha_utc": "2025-06-02T13:01:38.397000+00:00",
+      "fecha_local": "2025-06-02",
+      "editado_utc": null,
+      "texto": "**Maroxi se queda pensando** Quienes han visto esa imagen??? puede que me puedan dar algunos detalles para buscar algo en las bibliotecas...",
+      "mensaje_sha256": "680eb3742f6f8d757eb751b2fe3de8563a4a9c4bd37c937fb2c30c7de2915f85",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1379082534742134835",
+      "texto_sha256": "212b019164922ccd88a472cf0dd5d1487ee2b637ff8d85ac5e7df84b70e39697",
+      "adjuntos": []
+    },
+    {
+      "id": "1379083150319288342",
+      "fecha_utc": "2025-06-02T13:04:05.162000+00:00",
+      "fecha_local": "2025-06-02",
+      "editado_utc": null,
+      "texto": "Osurai:\n\nEl único que sé que lo tocó fue Gur. Nadie más.\n\n**Se levanta lentamente sin quitarle los ojos de encima**",
+      "mensaje_sha256": "763faf0d48b0943506870793a83838c582f636df3d02dd614850442af555b4b9",
+      "tipo_discord": 19,
+      "referencia": "1379082534742134835",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1379083150319288342",
+      "texto_sha256": "e78278047b82943032685440dac9cd26fb7c23d0009bec2fb432286511a418e3",
+      "adjuntos": []
+    },
+    {
+      "id": "1379083672501620836",
+      "fecha_utc": "2025-06-02T13:06:09.660000+00:00",
+      "fecha_local": "2025-06-02",
+      "editado_utc": null,
+      "texto": "Maroxi: asi que Gur... bueno sera tarea dificil pero a ver si me puede contar algo de ese demonio azul... _mmm quiza pueda poner en pratica un nuevo hechizo que he estado practicando jeje_, mmmm y sabes donde esta?",
+      "mensaje_sha256": "876dd7dd836e53ea11c619e3151f87c8df4b5ec6a6da34737a9b92ba7729c7c6",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1379083672501620836",
+      "texto_sha256": "9577309a09c7f67e2967c195d9323d87a973db945d2a878a8b6b6d17c34ed101",
+      "adjuntos": []
+    },
+    {
+      "id": "1379084297893314681",
+      "fecha_utc": "2025-06-02T13:08:38.765000+00:00",
+      "fecha_local": "2025-06-02",
+      "editado_utc": null,
+      "texto": "Osurai:\n\nLa última vez que lo vi fue en la carpa de circo extraña que salió hace un par de días.\n\n**Comenta moviéndose hacia el hasta quedarse a 5ft**",
+      "mensaje_sha256": "51a1fbe4eb31af7b05094a8ab8185293aaecbac7c6da7774289e06a2b7ceb41d",
+      "tipo_discord": 19,
+      "referencia": "1379083672501620836",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1379084297893314681",
+      "texto_sha256": "f1653ae559bc63d4672cbcd451f17fa288ffb27ec1317fee635034e4da4ab607",
+      "adjuntos": []
+    },
+    {
+      "id": "1379086171195441192",
+      "fecha_utc": "2025-06-02T13:16:05.395000+00:00",
+      "fecha_local": "2025-06-02",
+      "editado_utc": null,
+      "texto": "mmm entiendo, asi que ese incendio fue cosa suya... ok, lo mas seguro es que no esté en Sho después de algo así... **Maroxi se va su habitacion y deja la puerta abierta, prepara su equipo de alquimia, pilla la biblia envuelta y algunas pociones de diferentes colores, toma sus cosas** bueno pues yo me voy, dile a shizzuka que no toque mis cosas... **con las prisas puedes ver la puerta de la habitacion de maroxi entreabierta, un gran cofre abierto pero vacio te llama la atencion... cuando te giras maroxi ya no esta... parece que se hizo invisible de nuevo**",
+      "mensaje_sha256": "0a6a888e6d9b15eee034b5525d9913885896043c386c19cb644aa23bd4558201",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1379086171195441192",
+      "texto_sha256": "d609cb49edc06f86bca89ba33d76a49f6ea5fa956369b30bc92bbea11840c0c0",
+      "adjuntos": []
+    },
+    {
+      "id": "1379086232285347960",
+      "fecha_utc": "2025-06-02T13:16:19.960000+00:00",
+      "fecha_local": "2025-06-02",
+      "editado_utc": null,
+      "texto": "<:d20:1075726193736830996> maroxi abandona la escena <:d20:1075726193736830996>",
+      "mensaje_sha256": "04d50c1884a051b4f577801463eb7b2d989736261ac6717b0b8ca5cda45c6a70",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1379086232285347960",
+      "texto_sha256": "7a6e06ce0cc8a8a24aeb34a65c6f92e7e7338f81d57ee965cc7a24773bfa1f61",
+      "adjuntos": []
+    },
+    {
+      "id": "1379086984487764011",
+      "fecha_utc": "2025-06-02T13:19:19.299000+00:00",
+      "fecha_local": "2025-06-02",
+      "editado_utc": null,
+      "texto": "Osurai:\n\n**Le mira como se ha ido y se mete a su habitación a \"meditar\"**\n\n🌑  Osurai sale de escena 🌑",
+      "mensaje_sha256": "ca8c2004898b629801b1b62bd4d3b53bceafbac95a584c69e48aebf10087703a",
+      "tipo_discord": 19,
+      "referencia": "1379086171195441192",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1379086984487764011",
+      "texto_sha256": "352decfb4aa7de4ffbf52f46b81b819b4c205f89e5486fa1e0e4694c05d3e71c",
+      "adjuntos": []
+    },
+    {
+      "id": "1379087090704318545",
+      "fecha_utc": "2025-06-02T13:19:44.623000+00:00",
+      "fecha_local": "2025-06-02",
+      "editado_utc": null,
+      "texto": "🔴  Fin de escena 🔴",
+      "mensaje_sha256": "19173718cd7b83f237cdd7fc3947ee535e120b5fb77fee1a403c1526ed5c9c0f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1379087090704318545",
+      "texto_sha256": "89cbe3b5872871307a0eb183d0520fc216a2874954328319f27ffd7e3554e552",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": "k-1395394054396842118",
+  "campana": "kuroto",
+  "unidad_revision": "k-1395394054396842118",
+  "hilo_id": "1379945696089604209",
+  "hilo_nombre": "Sho, Barrios bajos - Capital de Kuroto",
+  "titulo": "Archi supera la prueba de la armadura en su propio cuerpo",
+  "resumen": "Tras otro fallo con el muñeco, se pone el prototipo. La protección se adapta y resiste una maza; luego invita a Viktor a celebrar.",
+  "relato": "Frustrado por otro maniquí roto, Archi decide probar la armadura personalmente. Se agranda, se coloca el prototipo y pide a Viktor que cuide de R2 y Frank si el ensayo acaba mal. La activación funciona: las placas y sus juntas se refuerzan, y la protección resulta más resistente y algo más ligera.\n\nArchi atribuye el resultado a la piel y al colágeno, frente a la madera del muñeco. Comprueba la movilidad y golpea el equipo con una maza sin dejar abolladura. Esa resistencia está narrada; la explicación del colágeno es su conclusión técnica. Viktor celebra el logro y acepta la invitación al club Pétalos. Archi se quita el equipo, vuelve a colocarlo sobre el maniquí y lo anima para que se sume a la salida. La escena termina con su marcha a celebrar.",
+  "participantes": [
+    "Archi",
+    "Viktor Frankenbolt"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1395397937500127302",
+      "afirmacion": "El prototipo refuerza la armadura sobre Archi.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1395400442443468871",
+      "afirmacion": "La maza no consigue abollar la protección.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1395422113849938043",
+      "afirmacion": "Archi anima el maniquí antes de salir a celebrar.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El éxito de este ensayo no demuestra compatibilidad con todas las especies o tallas.",
+    "La orden de producción y otras pruebas pertenecen a otras escenas."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-07-17T13:17:47.736000+00:00",
+  "fin_utc": "2025-07-17T15:09:17.631000+00:00",
+  "fecha_local": "2025-07-17",
+  "intervalo": {
+    "anterior": 138,
+    "siguiente": 139,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1395103349975552102",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1395465783865512070",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 138,
+        "fecha": "2025-07-16",
+        "inicio_referencia_utc": "2025-07-16T18:02:21+00:00",
+        "fin_estimado_utc": "2025-07-16T21:05:27+00:00",
+        "duracion_video_segundos": 10986,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1395103349975552102"
+      },
+      {
+        "capitulo": 139,
+        "fecha": "2025-07-17",
+        "inicio_referencia_utc": "2025-07-17T18:02:34+00:00",
+        "fin_estimado_utc": "2025-07-17T20:59:56+00:00",
+        "duracion_video_segundos": 10642,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1395465783865512070"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1395394054396842118",
+      "fecha_utc": "2025-07-17T13:17:47.736000+00:00",
+      "fecha_local": "2025-07-17",
+      "editado_utc": null,
+      "texto": "Archi : **Muy enfurruñado tira las cosas con un último intento fallido y el maniqui roto otra vez y empieza a desvestirse **\nEstoy siempre lo tiene que hacer uno mismo **se tira agrandar y se pone el prototipo de armadura \n**empezaria a rezar en gnomico **\n\nSeñor Funkovolt!!! Cuide de mi pequeño r2 y de Franc si soy desmembrado por mi propio invento . \n**respira ondo **\nQUE PAXA ARMADURA DE COMBATE \n**la armadura empieza a cubrir el cuerpo de archi que cierra los ojos , salta un par de chispas **\n\n(Lo habrá conseguido o ha muerto en el intento ??)",
+      "mensaje_sha256": "c368ed5aa326e23e230ca58a4dc26a8821236dd63368ca46d0bf15804da0cc03",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1395394054396842118",
+      "texto_sha256": "563a8d67ada6bb7ac2db8eae1195db29373a935219955e62817aa6417c784f9f",
+      "adjuntos": []
+    },
+    {
+      "id": "1395397937500127302",
+      "fecha_utc": "2025-07-17T13:33:13.540000+00:00",
+      "fecha_local": "2025-07-17",
+      "editado_utc": null,
+      "texto": "**Ves que la armadura de placas completa que estabas usando como prueba empieza a brillas en un tono mágico. Este refuerza las placas y las juntas de la protección. Volviéndolo más resistente y algo más ligera. Parece que ha salido todo bien, de momento**",
+      "mensaje_sha256": "804efa0661dead7325e9b31ed7dc96b5d7f120d59539be6eb54aaf23809d2786",
+      "tipo_discord": 19,
+      "referencia": "1395394054396842118",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1395397937500127302",
+      "texto_sha256": "8dc6077f2358f9564201dc2e182b78284ed17071285ab331b0eff930618b49bf",
+      "adjuntos": []
+    },
+    {
+      "id": "1395399947289100358",
+      "fecha_utc": "2025-07-17T13:41:12.711000+00:00",
+      "fecha_local": "2025-07-17",
+      "editado_utc": null,
+      "texto": "Archi: ES LA PIEL , ES EL COLAGENO DE LA PIEL !!! \n**rie como un psicópata ** \nClaroooo el muñeco de pruebas es de madera y yo la mia la probé directamente en mi . Eureka.  \nAhora los test de resistencia \n**comprueba su movilidad y golpea la armadura con una maza a ver si recibe abolladuras **",
+      "mensaje_sha256": "52c675e1ad4fdf5281690efbf9cc4c078f9a6fa3886eed2e6d6b4187786d6c7b",
+      "tipo_discord": 19,
+      "referencia": "1395397937500127302",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1395399947289100358",
+      "texto_sha256": "8b16c160702475379a650885cdceafac0077446effe8c367d3511d1d14ea117c",
+      "adjuntos": []
+    },
+    {
+      "id": "1395400442443468871",
+      "fecha_utc": "2025-07-17T13:43:10.765000+00:00",
+      "fecha_local": "2025-07-17",
+      "editado_utc": null,
+      "texto": "**Después del \"clonk\" del metal contra metal, ves que la armadura no se ha abollado ni un poco. La resistencia de esta a mejorado mucho. El inventor de esto se puede sentir orgullosa de ello**",
+      "mensaje_sha256": "648bb9963accc3ccd77c31c5fdc85c642fa843ebed5c956dca0c4642d66f2326",
+      "tipo_discord": 19,
+      "referencia": "1395399947289100358",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1395400442443468871",
+      "texto_sha256": "891b14c101dca9e54d86b75b687358ee5b39a605343db9e60ec2faf1e61444ff",
+      "adjuntos": []
+    },
+    {
+      "id": "1395404271515598868",
+      "fecha_utc": "2025-07-17T13:58:23.687000+00:00",
+      "fecha_local": "2025-07-17",
+      "editado_utc": null,
+      "texto": "Archi: **Mira de reojo a Viktor a ver que hace y se acerca a el . ** \nQue te parece ? Sin tu taller no lo hubiese conseguido.  \nQue haces ? Venga vamos a celebrar antes de que me llamen para algún asunto . Te invito al pétalos mon ami .",
+      "mensaje_sha256": "6e774d33893b2f3ce90bbe9631b607402e9903882057052755bea61d7e8ca588",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1395404271515598868",
+      "texto_sha256": "da5c84b0f0cdb491aff100291ef2946253744928dbf5dccd21fb396bbbdc6fe2",
+      "adjuntos": []
+    },
+    {
+      "id": "1395410664591458304",
+      "fecha_utc": "2025-07-17T14:23:47.915000+00:00",
+      "fecha_local": "2025-07-17",
+      "editado_utc": null,
+      "texto": "Viktor: **Asiente contento mientras mira tu invento** Excelente construcción Archi. Y por supuesto que acepto esa copa",
+      "mensaje_sha256": "a979575384fc5a0e1dc78c928743e75dc8ccd05da4e1b0f5e9f1f60a65f3c258",
+      "tipo_discord": 19,
+      "referencia": "1395404271515598868",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1395410664591458304",
+      "texto_sha256": "d00a153ba2d9168ba1b95deedb24f2dc8691cf2d58b888781c1524ced6f87475",
+      "adjuntos": []
+    },
+    {
+      "id": "1395422113849938043",
+      "fecha_utc": "2025-07-17T15:09:17.631000+00:00",
+      "fecha_local": "2025-07-17",
+      "editado_utc": null,
+      "texto": "Archi: **Se saca la armadura se la pone al maniquí y lanza tiny servant sobre el ** \nAhora somos tres . En marcha a celebrar . \n\n⚙️ Archi sale de escena 🔧",
+      "mensaje_sha256": "98dfcf731144d17ada515d146c22f414b8f7cc09d1d9886fbfa8e04b1af6e9e5",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1395422113849938043",
+      "texto_sha256": "3dd4c917b021e7e1c1efeb4be8cadb21dfc1641f855048da40b5b8a219a31e93",
+      "adjuntos": []
+    },
+    {
+      "id": "1395644681597227048",
+      "fecha_utc": "2025-07-18T05:53:41.917000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "🔴Fin de la Escena🔴",
+      "mensaje_sha256": "1481603e2c2c05d26aa184eb40e040c340a5bebba1cb1a070e0c8497e8f89961",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1395644681597227048",
+      "texto_sha256": "7b48f784e7d27f7d504591e65457ee8f6f5f093e0fa68b31981cee30b6cd3584",
+      "adjuntos": [],
+      "no_narrativo": true,
+      "nota_editorial": "Marcador de cierre conservado junto a la conversación."
+    }
+  ]
+}

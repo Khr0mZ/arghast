@@ -1,0 +1,90 @@
+{
+  "id": "x-1547968684373581907",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1547968684373581907",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "Coyote despierta sin recordar el sótano",
+  "resumen": "Aparece cerca del lago con pesadez corporal y un vacío de memoria desde la bebida de Archi.",
+  "relato": "Coyote despierta cerca del lago de Iktan. Le cuesta incorporarse y siente una pesadez comparable a una resaca. Recuerda que bebía en la choza de Archi, pero después todo se oscurece. Parece encontrarse bien, aunque el narrador introduce una duda deliberada. El fragmento no revela qué ocurrió mientras estaba inconsciente ni aporta lesiones, cambios o procedimientos concretos.",
+  "participantes": [
+    "Coyote"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1547968684373581907",
+      "afirmacion": "Coyote despierta junto al lago sin recordar qué ocurrió después de beber con Archi.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Continuación del traslado al sótano; la insinuación final no permite inventar un experimento ni sus efectos."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-09-11T13:54:54.222000+00:00",
+  "fin_utc": "2026-09-11T13:55:31.909000+00:00",
+  "fecha_local": "2026-09-11",
+  "intervalo": {
+    "anterior": 60,
+    "siguiente": 61,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1547671000508928031",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1548030716158152747",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 60,
+        "fecha": "2026-09-10",
+        "inicio_referencia_utc": "2026-09-10T18:11:36+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1547671000508928031"
+      },
+      {
+        "capitulo": 61,
+        "fecha": "2026-09-11",
+        "inicio_referencia_utc": "2026-09-11T18:00:47+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1548030716158152747"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1547968684373581907",
+      "fecha_utc": "2026-09-11T13:54:54.222000+00:00",
+      "fecha_local": "2026-09-11",
+      "editado_utc": null,
+      "texto": "Coyote <@408026114548695061> \n\nte despiertas en las cercanías del lago de Iktan . \nTe cuesta un poco incorporarte y aún sientes algo de pesadez en el cuerpo. Pero no más que alguna que otra resaca que ya hayas vivido . No recuerdas gran cosa . Solo que estabais tomando algo en la choza de Archi y ahí todo se oscurece . \n\nAl parecer estas bien . \nAl ... parecer ....",
+      "mensaje_sha256": "8eff873332b502c98a5916aa96fa66fe6c0d30be5e9f8b9dbca290ae1530ab5b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1547968684373581907",
+      "texto_sha256": "efa60aac720df5ad587c7636cd908cb0791bebb2258603f18b4c27eaa6bce04c",
+      "adjuntos": []
+    },
+    {
+      "id": "1547968842444177439",
+      "fecha_utc": "2026-09-11T13:55:31.909000+00:00",
+      "fecha_local": "2026-09-11",
+      "editado_utc": null,
+      "texto": "<:Danifae_Intenciones_maliciosas:1485287427865182480> 🔴 FIN DE LA ESCENA 🔴 <:Danifae_Intenciones_maliciosas:1485287427865182480>",
+      "mensaje_sha256": "c632724a58478a5ddbdaf4d5ff10da05ce25a6b63ff27236d2ee4a7b55166fc3",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1547968842444177439",
+      "texto_sha256": "21fe7f22444d290a98c6f09404c7fc4e6bf825c5148a7792a426f369e02fc40f",
+      "adjuntos": []
+    }
+  ]
+}

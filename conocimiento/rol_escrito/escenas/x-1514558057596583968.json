@@ -1,0 +1,347 @@
+{
+  "id": "x-1514558057596583968",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1514558057596583968",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "Poncelot encarga a Liz dos prendas a cambio de un favor",
+  "resumen": "Entrega alas que cree de sierpe y piel que cree de dragón. Liz sigue la ficción para conseguir una deuda y lo desvía hacia las cloacas.",
+  "relato": "Poncelot regresa a Shiaru con Merlucilla IV, ambos maltratados por el camino. Confunde cadáveres de la entrada con guardias y a otro con un escudero, antes de entrar en el local de Liz como si fuera un juzgado. Ella intenta apartarlo inventando la amenaza de un Rey de los Limos en las cloacas. El caballero acepta combatirlo, pero antes pide una prenda para Ione con las alas de Merlucilla III, a quien llora como una sierpe leal.\n\nLa narración muestra que las alas son de una mosca enorme. Liz empieza con asco, pero descubre que puede aprovechar el error. Finge creer que proceden de un dragón y provoca al gnomo para que elogie su habilidad y le garantice confianza aunque no salga bien. Él añade una piel que atribuye a un dragón rojo; al final la narradora la identifica como piel de tiranosaurio. Ninguna de esas creencias crea materiales dracónicos auténticos.\n\nLiz acepta el trabajo sin cobro monetario inmediato a cambio de un favor que pedirá cuando lo necesite. Poncelot da su palabra, propone una capa propia y deja la prenda de Ione a su elección. Luego va hacia las cloacas para cumplir la misión ficticia. Una vez solo el local, Liz ordena apartar los restos y piensa cómo camelarlo para el trabajo que quiere. No cose todavía las prendas ni revela el favor.",
+  "participantes": [
+    "Sir Poncelot",
+    "Liz"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1514623341049282770",
+      "afirmacion": "El narrador identifica las alas como las de una mosca enorme.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1514627438108475633",
+      "afirmacion": "Liz indica a las otras mujeres que está fingiendo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1514644918377648320",
+      "afirmacion": "Acepta el trabajo a cambio de un favor futuro.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1514645402090078420",
+      "afirmacion": "Poncelot da su palabra.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1514703189755166750",
+      "afirmacion": "Liz identifica los materiales reales y quiere aprovechar el favor.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Las fantasías de juzgado, sierpes y reyes de las cloacas no se dan por instituciones o criaturas confirmadas.",
+    "La muerte de Merlucilla III es un relato del gnomo, no un combate reconstruido aquí.",
+    "Las prendas y sus nombres aspiracionales no quedan fabricados ni encantados en estos mensajes."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-06-11T09:13:00.059000+00:00",
+  "fin_utc": "2026-06-11T18:49:42.262000+00:00",
+  "fecha_local": "2026-06-11",
+  "intervalo": {
+    "anterior": 37,
+    "siguiente": 38,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1512525575573475348",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149383024690/1515976737605816332",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 37,
+        "fecha": "2026-06-05",
+        "inicio_referencia_utc": "2026-06-05T18:36:17+00:00",
+        "fin_estimado_utc": "2026-06-05T20:56:06+00:00",
+        "duracion_video_segundos": 8389,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1512525575573475348"
+      },
+      {
+        "capitulo": 38,
+        "fecha": "2026-06-15",
+        "inicio_referencia_utc": "2026-06-15T18:00:00+00:00",
+        "fin_estimado_utc": "2026-06-15T20:23:29+00:00",
+        "duracion_video_segundos": 8609,
+        "tipo_referencia": "programacion",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149383024690/1515976737605816332"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida."
+  },
+  "fuentes": [
+    {
+      "id": "1514558057596583968",
+      "fecha_utc": "2026-06-11T09:13:00.059000+00:00",
+      "fecha_local": "2026-06-11",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Entre las sombras que caían sobre los caminos que daban a la entrada del poblado, apareció una figura. Alguien sobre una montura, de caminar majestuoso y un porte magnífico. Sus pasos iban acompañados de un dulce silbido, una melodía cautivadora.\n\nYa en la entrada de la Shiaru, donde la luz entraba por un hueco de los gigantescos árboles, se pudo ver quien era, y no era nada de lo que parecía ser.\n\nSir Poncelot llegó sobre su \"corcel\" Merlucilla IV. Ambos con un aspecto deplorable: heridas, ramas clavadas, manchas de barro, picaduras de mosquitos... Se podía reflejar en el aspecto cansado y astiado del tigre, pero contrastaba con la cara de felicidad del gnomo, que seguía silbando su melodía mientras cruzaba la entrada del poblado**\n\n- buenos días tengan mis entregaros guardias!!\n\n**El gnomo saludó fervientemente a los varios cadáveres que colgaban de la entrada.\n\nUna vez dentro, dejó a Merlucilla en la sombra de un chamizo y le lanzó una moneda de cobre a un cadáver cercano lleno de moscas**\n\n- escudero! Asegúrate de lavar y alimentar a mi corcel! El gran Sir Poncelot tiene asuntos urgentes!\n\n**Seguidamente se adentró en los \"juzgados\" de Liz. Con porte caballeroso iba saludando en inclinándose ante cda una de las \"magistradas\" que trabajaban allí. Hasta que llegó antes Liz**\n\n- Buenos días tenga usted mi excelsa señoría! Me disculpará que le asalta de aquesta manera pero este humilde caballero precisa de vuestra gracia...\n\n<@214405113677217793>",
+      "mensaje_sha256": "5d4d95f7fd1a9d4fbea3808416634bb969a651e30561527a54352031498648ae",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1514558057596583968",
+      "texto_sha256": "3119493b6462c847e8a79d62b8e76a4a909ffabf4ca2222eb2942d7241f7d232",
+      "adjuntos": []
+    },
+    {
+      "id": "1514581249191182416",
+      "fecha_utc": "2026-06-11T10:45:09.366000+00:00",
+      "fecha_local": "2026-06-11",
+      "editado_utc": null,
+      "texto": "Liz: **Estaba haciendo las cuentan de la semana. Encima de la mesa tenía montoncitos de monedas y joyas de todo tipo bien organizadas mientras tomaba apuntes en una libreta de Hello Kitty** *Joder... El loco este otra vez... ¿Que narices quiere ahora?* Oh, si es mi gran Caballero emm.... Sir... Sir... El Grandioso Caballero de la Lanza... **Con una sonrisa de oreja a oreja e intentando deshacerse de ti sigue** ¿Se ha enterado de que el malvado Rey de los Limos *de mierda y meados* se ha colado en las cloac... Digo... En las mazmorras del reino? ¿Quien nos salvará esta vez? **Mira de reojo al gnomo**",
+      "mensaje_sha256": "8502bbabf95f4b7dc1129e45ab4d991039b1b3113b439f1f1c8b561fca8067f5",
+      "tipo_discord": 19,
+      "referencia": "1514558057596583968",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1514581249191182416",
+      "texto_sha256": "e3c0467f3d2562790c73a8c9eff1946f53551823ac32148ddd65a22e2f27695f",
+      "adjuntos": []
+    },
+    {
+      "id": "1514617379773091840",
+      "fecha_utc": "2026-06-11T13:08:43.568000+00:00",
+      "fecha_local": "2026-06-11",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Al escuchar a Liz sobre el peligro que había aparecido en las mazmorras del reino, el gnomo subió al taburete más cercano y se plantó con un gesto militar ante la meretriz**\n\n- mi señora! Me ofrezco voluntario para salvar al reino de tal oscura invasión! Prometo que liberaré el subsuelo del reino de esas malignas criaturas!\n\n**Al acabar su discurso cogió una bolsa de tela que tenía en su espalda y la puso sobre el mostrador**\n\n- pero antes, si me lo permite, señoría... Querría mostrarle el favor que necesito de su excelencia...\n\n**De la bolsa saca algo enrollado y atado con un cordel. Lo Colca con cuidado en la superficie de madera y lo desarrolla con delicadeza**\n\n- aquí le traigo las alas de mi amado Merlucilla III. Una sierpe que se propuso ser mi leal montura hasta que una malvada bruja le dió muerte... Snif...\n\n**El gnomo intentó mantener la compostura mientras hablaba. Los ojos se le humedecían y un moquillo luchaba por asomar por su nariz**\n\n- quise a esa sierpe negra como a un hermano... Y con orguyo y pena querría que usara sus habilidades de sastrería para confeccionarle una prenda a mi querida capitana Ione. Pues le debo agradecimiento por cuidar de un humilde caballero andante como yo... Y que mejor que usar estás piezas que significan tanto para mí...\n\n**El.pobre caballero miraba a Liz intensamente con lágrimas en los ojos**",
+      "mensaje_sha256": "d7e852c0396aa2c8763038bc2e95f213ad0ba9173810ffa3028313bda150c645",
+      "tipo_discord": 19,
+      "referencia": "1514581249191182416",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1514617379773091840",
+      "texto_sha256": "8fee7ed86dae3aeb89f3999ca3e95c8bad97c8472bff9956e0d7ae598b1ad412",
+      "adjuntos": []
+    },
+    {
+      "id": "1514623341049282770",
+      "fecha_utc": "2026-06-11T13:32:24.847000+00:00",
+      "fecha_local": "2026-06-11",
+      "editado_utc": null,
+      "texto": "Liz: **Al principio no te presta mucha atención, como es habitual, y sigue con sus cuentas.** *A saber que me pide este loco aho....* **Cuando ve que sacas las alas de una mosca enorme, hace una mueca de asco** ¿Pero que cree usted que pueda hacer yo con esas cosas?",
+      "mensaje_sha256": "a2faa0616a302038a07574ae8bcfb37723c704e28bd2594515305f0cd7e661f2",
+      "tipo_discord": 19,
+      "referencia": "1514617379773091840",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1514623341049282770",
+      "texto_sha256": "8b6c4fc2bd17b0cfebc596a186b7ed8df876e48ba3a61c810a1160c6956f180a",
+      "adjuntos": []
+    },
+    {
+      "id": "1514624603824328828",
+      "fecha_utc": "2026-06-11T13:37:25.916000+00:00",
+      "fecha_local": "2026-06-11",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Le hace una reverencia, aún aguntbdo las lágrimas**\n\n- mi señora. De sobra es conocida su pericia con el hilo y la aguja. Le pido por... Por el honor de mi pobre Merlucilla III, y por el profundo agradecimiento que le debo a la capitana, que use estás alas de sierpe.para crear una prenda digna de la capitana de la orden de los caballeros d ellos rompeolas... Snif...",
+      "mensaje_sha256": "5defda6cbac5530a3522705d2f2bf7555ec2428458b644a73f03615cc245ff9a",
+      "tipo_discord": 19,
+      "referencia": "1514623341049282770",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1514624603824328828",
+      "texto_sha256": "6bd775b899812174afe2146158f31267bcc768e4641159fcf2d0824b8ec07299",
+      "adjuntos": []
+    },
+    {
+      "id": "1514625538407268573",
+      "fecha_utc": "2026-06-11T13:41:08.738000+00:00",
+      "fecha_local": "2026-06-11",
+      "editado_utc": null,
+      "texto": "Liz: ¡Pero esto son unas alas de mo...! ¿Ha dicho Sierpe? **Deja de alzar la voz y se empieza a interesar** ¿Su Merlucilla III era una Sierpe? **Mira a las \"señoritas\" que hay en la sala y baja la voz** Ya me entiende, sierpe de \"Grrrr\" \"Mmmmmmmrrrrrgggg\" \"Roar\" \"Sluaaaaag\" **Hace gestos con las manos como si lanzará un aliento**",
+      "mensaje_sha256": "b8065b09a9a03584e43db794a2a760ddf032b7f783b99e2f438c228e0bb1cbc9",
+      "tipo_discord": 19,
+      "referencia": "1514624603824328828",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1514625538407268573",
+      "texto_sha256": "789b42b725585e34c2d46cb06b89085c2514674a77cfb9eb55ff3e9f383f28c7",
+      "adjuntos": []
+    },
+    {
+      "id": "1514626102763716789",
+      "fecha_utc": "2026-06-11T13:43:23.291000+00:00",
+      "fecha_local": "2026-06-11",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Aún inclinado, levanta la mirada y mira extrañado a Liz**\n\n- cla... Claro mi señoría... Que... Que otro tipo de sierpe hay...? A parte de su... Cromatismo... Claro...",
+      "mensaje_sha256": "e65288e03d9b9ae00c45c5dfcb8c0f170c8b023f2e39de236b6e7b29b1ecff47",
+      "tipo_discord": 19,
+      "referencia": "1514625538407268573",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1514626102763716789",
+      "texto_sha256": "6cfb6037a44e066f9037f940507134a264bc792ce29fc4649f4288f2ecd7684b",
+      "adjuntos": []
+    },
+    {
+      "id": "1514627438108475633",
+      "fecha_utc": "2026-06-11T13:48:41.662000+00:00",
+      "fecha_local": "2026-06-11",
+      "editado_utc": null,
+      "texto": "Liz: **Se le dibuja una sonrisa tan terrible que podría asustar incluso a la malvada Reina de las Sucubos Malacanthet** Vaaaaaaaayaaaaaa... Impresionante. Soy una estúpida al pensar otra cosa. No debería haber dudado que el Gran Guerrero de la Lanza, Cazador de cosas, luchador de la paz y el hambre o lo que sea, tendría unas poderosas alas de un poderoso... dragon **Las muchachas se giran algo alteradas pero Liz les giña el ojo señalando que está jugando** Ay, que tonta me siento **Se pone la mano en el pecho a lo Drama Queen mientras mira de reojo al gnomo**",
+      "mensaje_sha256": "8cac886546e3d6258ef874e657ee95ab60f0b3445fda87e3400eebe81d55bf12",
+      "tipo_discord": 19,
+      "referencia": "1514626102763716789",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1514627438108475633",
+      "texto_sha256": "c1af097f1e1a124bc2adf1de54b6c427afa5cbc3cc299c432a4bf57c3bf4380c",
+      "adjuntos": []
+    },
+    {
+      "id": "1514628926348197920",
+      "fecha_utc": "2026-06-11T13:54:36.486000+00:00",
+      "fecha_local": "2026-06-11",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Se yergue de nuevo está vez con cara de felicidad al escuchar los alabanzas de la jueza**\n\n- por supuesto mi señora. Sabía que unos ojos como los suyos no podrían estar equivocados... Pues si eso le ha maravillado, que pensaría de este humilde caballero si le digo que dispongo en mi poder de un pedazo de piel de un gran dragón rojo, al cual le dimos muerte no hace mucho??\n\n**El gnomo empieza a meter la mana en su bolsa de tela buscando ese pedazo de piel de Rex**",
+      "mensaje_sha256": "67e6dcf7a3ada379dc78721d9099a5da416253a114b1a6be7442273ff09d6daf",
+      "tipo_discord": 19,
+      "referencia": "1514627438108475633",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1514628926348197920",
+      "texto_sha256": "349717f9159a7a13384567c7782650d85ec21c453d26a5812bff30716c4d112b",
+      "adjuntos": []
+    },
+    {
+      "id": "1514630631806599398",
+      "fecha_utc": "2026-06-11T14:01:23.099000+00:00",
+      "fecha_local": "2026-06-11",
+      "editado_utc": null,
+      "texto": "Liz: ¡Dos Dragones y uno de ellos rojo! Por el amor de Sharess. Eso es, es impresionante mi señor **Hace una reverencia para luego mirarte pero ves que agacha un poco la cabeza y aparta la mirada** Pero... Yo... No se si podría hacer algo digno de usted con estos restos... Temo que mis manos poco experimentadas puedas estropearlo... **Mientras tiene la cabeza agachada va mirando de reojo al gnomo a ver si pica**",
+      "mensaje_sha256": "4d1e6a8827cb0b488fd079920a25e15f195c6c6ac97aaac037db333955409f1d",
+      "tipo_discord": 19,
+      "referencia": "1514628926348197920",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1514630631806599398",
+      "texto_sha256": "5785fae7c2aeff62fe9b1622324c1daf892d42cfafd40f2cf41dbd1579ed5a6a",
+      "adjuntos": []
+    },
+    {
+      "id": "1514633615076753479",
+      "fecha_utc": "2026-06-11T14:13:14.366000+00:00",
+      "fecha_local": "2026-06-11",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Su cara ahora es de preocupación. Acerca la mano a la cara de Liz y levanta su rostro muy delicadamente con su dedo índice**\n\n- pero mi queridísima señora... Por su puesto que sus magnánimas manos son dignas y capaces de tamaña misión. Mis ojos son testigos de la calidad de sus obras, pues yo mismo porno una de ellas. No dude de usted, póngale todo su corazón a la pieza y de seguro algo esplendoroso surgirá de tal esfuerzo...\n\n**La voz del caballero era dulce y amable**",
+      "mensaje_sha256": "8a78d24886fc7f3d1a0f60a9cabe77b10cf8b8371a901751a000704d2d5ea632",
+      "tipo_discord": 19,
+      "referencia": "1514630631806599398",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1514633615076753479",
+      "texto_sha256": "2290c39e138323278a04139af5b4bff2e5d5b00294e1a0651215bd93fc434bb5",
+      "adjuntos": []
+    },
+    {
+      "id": "1514636588485967945",
+      "fecha_utc": "2026-06-11T14:25:03.282000+00:00",
+      "fecha_local": "2026-06-11",
+      "editado_utc": null,
+      "texto": "Liz: **Mira de reojo con la mano en la frente totalmente a lo dramática** Oh, mi señor, es usted aún más amable y digno que los títulos que le pertenecen **Se gira para agarrarte de las manos con fuerza. Sus ojos azules brillantes como si le dieran las luces del sol (le da la luz roja del putiferio) parecen unas perlas maravillosas** Usted me promete que si no me sale algo digno de usted, me perdonará? Es que usar partes de Dragones es algo difícil... e incluso peligroso. No querría que por mi culpa pasara algo malo...",
+      "mensaje_sha256": "c6e34ed9ca6de133bfcf5dfa1a46b23b1a10dcc706908d246d2d2bb143440096",
+      "tipo_discord": 19,
+      "referencia": "1514633615076753479",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1514636588485967945",
+      "texto_sha256": "45626e9cff7ea829c4bd9beae32fa6786941aa9eec468bbc31ef7cb4b4879a98",
+      "adjuntos": []
+    },
+    {
+      "id": "1514643684229124166",
+      "fecha_utc": "2026-06-11T14:53:15.039000+00:00",
+      "fecha_local": "2026-06-11",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Le devuelve el apretón y la intensidad en la mirada (a este le brillan de lo flipao que es. Ni luces necesita)**\n\n- pero por quién me toma mi señora? Juro por la más brillante de las armaduras que ante todo priorizo su seguridad y su bien estar. Ante estas palabras le prefeso la ms grande de las confianzas. Se que usted conseguirá crear dos grandes reliquias con estas manos tan habilidosas que los dioses le han otorgado!",
+      "mensaje_sha256": "458b43f3882c7c3b053bc89c66d0d1e52424a98f273c58c892b41a6dc3d0cb76",
+      "tipo_discord": 19,
+      "referencia": "1514636588485967945",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1514643684229124166",
+      "texto_sha256": "8aa145cfd4255def29acacc3162e3fffa24cff96cdcbb3b1b64830a7e2c25940",
+      "adjuntos": []
+    },
+    {
+      "id": "1514644918377648320",
+      "fecha_utc": "2026-06-11T14:58:09.283000+00:00",
+      "fecha_local": "2026-06-11",
+      "editado_utc": null,
+      "texto": "Liz: Es usted un caballero en todos sus virtudes mi señor **Dice sonriente mientras suelta tus manos un poquito a la fuerza.** Y como buena y respetable dama que soy... **Se escuchan unas risas pero la la mirada fulminante de Liz las acalla**...yo haré algo por usted. No le cobraré por el trabajo, no después de tal confianza que ha mostrado hacia mi, así que simplemente le pediré un pequeño favor cuando lo necesite **Te mira con ojitos** ¿Le parece bien, mi noble caballero?",
+      "mensaje_sha256": "ba1f3d1d39b1cefca453276d38c027be4320976b1547a2f3798a4898ac9bbee8",
+      "tipo_discord": 19,
+      "referencia": "1514643684229124166",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1514644918377648320",
+      "texto_sha256": "cf7f3721015488aa39e159bc32c70115a89e3896120b6717f8fecf9e4d30d7c6",
+      "adjuntos": []
+    },
+    {
+      "id": "1514645402090078420",
+      "fecha_utc": "2026-06-11T15:00:04.609000+00:00",
+      "fecha_local": "2026-06-11",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Se pone recto y se da un golpe en el pecho**\n\n- mi señora! Mi orguyo de caballero no podría dejar que la plegaria de una dama en apuros quedara en el aire! Tiene mi palabra!",
+      "mensaje_sha256": "0b4a5bd02f6dad99905581a46e1a33903256cfe954a89e27e038ba1b3b7194e4",
+      "tipo_discord": 19,
+      "referencia": "1514644918377648320",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1514645402090078420",
+      "texto_sha256": "82c56c42f80e8e9c39f5ac8b2f335477446606e1e5cf91ace12d9879e2ba0bf6",
+      "adjuntos": []
+    },
+    {
+      "id": "1514646355245662450",
+      "fecha_utc": "2026-06-11T15:03:51.859000+00:00",
+      "fecha_local": "2026-06-11",
+      "editado_utc": null,
+      "texto": "Liz: Es usted un gran hombre, mi señor **Sonríe fingiendo totalmente** Me pondré trabajar lo antes posible y daré lo mejor de mi **Hace una señal a una d ellas chicas para que se acerque** Le avisaré cuando haya hecho algo digno de usted",
+      "mensaje_sha256": "501ea68c44c594e84a4c03c930cc9ceb487240b5bc50b4b6917e8ac37903da73",
+      "tipo_discord": 19,
+      "referencia": "1514645402090078420",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1514646355245662450",
+      "texto_sha256": "a028b0e367cbc1b5d57951c0793be6a33901e803613cb60638c097d0eba8d506",
+      "adjuntos": []
+    },
+    {
+      "id": "1514651546175143977",
+      "fecha_utc": "2026-06-11T15:24:29.473000+00:00",
+      "fecha_local": "2026-06-11",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Le dedica una amable y amplia sonrisa, luego se empieza a mesar la barba dubitativo**\n\n- con la piel de dragón rojo había pensado en una capa... Si si si! Una \"Magníficapa de sierpe roja\" a juego con mi \"Magníficasco de sierpe negra\"!!!\n\n** Salta en el taburete de la emoción**\n\n- y para mí querida capitana... Me invaden las dudas... Un chaleco es una prenda unisex que nunca pasa de moda... Pero un fular ... Podría darle a lady Ione ese toque femenino del que carece...\n\n**Mira a Liz**\n\n- como dama versada en la materia que opinión le merece?",
+      "mensaje_sha256": "33d99e2dfef614c701c6a4ae079a509f3cbeb027d7cea4e708131e822f2f0baf",
+      "tipo_discord": 19,
+      "referencia": "1514646355245662450",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1514651546175143977",
+      "texto_sha256": "f29f70aa94cb89ed90e2eba592910c858106d1b7794cc98f4ceb65509c64884f",
+      "adjuntos": []
+    },
+    {
+      "id": "1514652220702851193",
+      "fecha_utc": "2026-06-11T15:27:10.293000+00:00",
+      "fecha_local": "2026-06-11",
+      "editado_utc": null,
+      "texto": "Liz: Eh?! **Sale del personaje dramático ya que le has pillado por sorpresa con tanta emoción** *Loco y pesado... Quien me mandaría a mi...* Pues... Pues... No... No se mi señor, debería estudiar algunos libros y repasar algunos apuntes. Nunca he hecho nada con alas de mos... De dragon...",
+      "mensaje_sha256": "652715fab0264da33a15763e82bb3f845bc725882680e8379675e77eac908e0c",
+      "tipo_discord": 19,
+      "referencia": "1514651546175143977",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1514652220702851193",
+      "texto_sha256": "73c61798ea39cbff07043bdf6a2b0ab70c07db176939647ca14b0fee4ae39388",
+      "adjuntos": []
+    },
+    {
+      "id": "1514653513270165636",
+      "fecha_utc": "2026-06-11T15:32:18.465000+00:00",
+      "fecha_local": "2026-06-11",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n- tiene razón milady... Disculpe por haberla atosigafo de esta manera. Le dejo a usted la elección de la prenda para la capitana. Ando en deseos de ver mi maravillosa capa nueva!\n\n**El gnomo hace un bailecito de la felicidad, se da cuenta que hay gente mirando y recupera su tono serio mientras se baja del taburete**\n\n- mi señoría Liz! Gracias de corazón por aceptar mi petición! Ahora, si me disculpa, próceres a limpiar las mazmorras del reino de esas viles criaturas que la atormentan!!\n\n**El caballero se pone su Magníficasco de sierpe negra, saca su lanza sagrada y el escudo y se dirige a la entrada de las cloacas como el soldado que marcha a la guerra**",
+      "mensaje_sha256": "a2964c77d0625f33521384e0a9c7790300fc2ca667d8ea458bbd843c92e5bc4d",
+      "tipo_discord": 19,
+      "referencia": "1514652220702851193",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1514653513270165636",
+      "texto_sha256": "a4d66391d732de72e6f98f5d2ead6bd37416eb3b829c385c2b80e2790b395fcc",
+      "adjuntos": []
+    },
+    {
+      "id": "1514703189755166750",
+      "fecha_utc": "2026-06-11T18:49:42.262000+00:00",
+      "fecha_local": "2026-06-11",
+      "editado_utc": "2026-06-11T20:48:42.099000+00:00",
+      "texto": "Liz: **Cuando el gnomo se marcha, mira a la chica que se ha acercado y señala las alas de mosca y la piel de t-rex** Saca esta asquerosidad de delante mio... A ver que le hago para camelarmelo más. Necesito que me haga un trabajito\n\n🔴Fin de la escena 🔴",
+      "mensaje_sha256": "352e4bca2088adbba522fc8e59fb7f663af6e776704916219e3e3d03e60b0e90",
+      "tipo_discord": 19,
+      "referencia": "1514653513270165636",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1514703189755166750",
+      "texto_sha256": "e5da25962ba9b3ff0dad15134b84f40f39c944a04033917371f071c31f59a127",
+      "adjuntos": []
+    }
+  ]
+}

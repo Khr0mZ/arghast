@@ -1,0 +1,256 @@
+{
+  "id": "k-1409530680341299324",
+  "campana": "kuroto",
+  "unidad_revision": "k-1409512335315308604",
+  "hilo_id": "1387915737502580886",
+  "hilo_nombre": "Sho, Palacio del Shogunato - Capital de Kuroto",
+  "titulo": "Un hechizo que Kalista no debe conocer",
+  "resumen": "Las niñas dañan una pared con fuego y convencen al drow de enseñarles algo.",
+  "relato": "Al abrir el cuarto de las niñas, Jelbreg tiene que agacharse para esquivar un rayo de fuego de Shizzuka que perfora la pared de la biblioteca. Arwen celebra la potencia y él prohíbe lanzar conjuros dentro del palacio. La niña le tira de la ropa y le pide que les enseñe un hechizo interesante. Tras negarse varias veces, sobre todo a añadir magia destructiva, el drow termina cediendo a su insistencia con la condición de no contárselo a Kalista. La escena no identifica el conjuro elegido ni muestra que lleguen a aprenderlo.",
+  "participantes": [
+    "Jelbreg",
+    "Arwen",
+    "Shizzuka"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1409530680341299324",
+      "afirmacion": "El rayo de Shizzuka atraviesa la pared después de que el drow lo esquive.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1409536465515581492",
+      "afirmacion": "Jelbreg acepta enseñar bajo condición de secreto.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Dos situaciones con desarrollo propio: encargo de investigación y visita al cuarto de juegos.",
+    "El origen feérico de los ingredientes es una hipótesis de Jelbreg que requiere análisis.",
+    "Los susurros, signos y mensajes telepáticos son comunicación efectiva para sus destinatarios; no tratarlos como pensamientos privados.",
+    "La pregunta retórica sobre un posible charm de Arwen no demuestra que lance encantamiento."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2025-08-25T13:31:42.007000+00:00",
+  "fin_utc": "2025-08-25T17:11:06.810000+00:00",
+  "fecha_local": "2025-08-25",
+  "intervalo": {
+    "anterior": 149,
+    "siguiente": 150,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1408510610769182751",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1409597246030483518",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 149,
+        "fecha": "2025-08-22",
+        "inicio_referencia_utc": "2025-08-22T17:58:06+00:00",
+        "fin_estimado_utc": "2025-08-22T21:18:32+00:00",
+        "duracion_video_segundos": 12026,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1408510610769182751"
+      },
+      {
+        "capitulo": 150,
+        "fecha": "2025-08-25",
+        "inicio_referencia_utc": "2025-08-25T17:56:00+00:00",
+        "fin_estimado_utc": "2025-08-25T20:50:48+00:00",
+        "duracion_video_segundos": 10488,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1409597246030483518"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1409530680341299324",
+      "fecha_utc": "2025-08-25T13:31:42.007000+00:00",
+      "fecha_local": "2025-08-25",
+      "editado_utc": null,
+      "texto": "Jelbreg: **El drow llega al piso de arriba, se para delante de la puerta de las niñas y la abre** Vosotras dos, que andáis hacien... **Un rayo de fuego se dirige a la cara del drow que tiene que agacharse para que no le de. Lamentablemente hace un agujero en la pared de la biblioteca que hay enfrente** ¡¿Pero que?!\n\nShizzuka: Has visto Arwen, este si iba fuerte eh **Mira a la puerta y saluda con la mano** Hola Jelbreg",
+      "mensaje_sha256": "8770f1b2319c0252f5e76d7baeaec86c94f6521ae1577fd9e55fb843890a5762",
+      "tipo_discord": 19,
+      "referencia": "1409528961096089681",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1409530680341299324",
+      "texto_sha256": "0f64dea5cab6ddadcba6fc119c9d6e044bfc69c106fc9fae34006572fa6b244e",
+      "adjuntos": []
+    },
+    {
+      "id": "1409530937477304430",
+      "fecha_utc": "2025-08-25T13:32:43.313000+00:00",
+      "fecha_local": "2025-08-25",
+      "editado_utc": null,
+      "texto": "Arwen: otra otra otra **Mira a la puerta** Hola tito Jelbreg",
+      "mensaje_sha256": "a43a9046929c50ded8962001efb1107bc13479527b0df6a19bd748d9e1b850ea",
+      "tipo_discord": 19,
+      "referencia": "1409530680341299324",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1409530937477304430",
+      "texto_sha256": "c9b947365faf1ec7ae1911053729c5b4eaf0b219aaafa1aa5bea303be8de3d09",
+      "adjuntos": []
+    },
+    {
+      "id": "1409531252557611170",
+      "fecha_utc": "2025-08-25T13:33:58.434000+00:00",
+      "fecha_local": "2025-08-25",
+      "editado_utc": null,
+      "texto": "Jelbreg: ¡Dejar de lanzar conjuros dentro de Palacio! **Grita el drow** Como Kalista se entere ya veréis...\n\nShizzuka: Jooo... **La niña se sienta en el suelo y cruza los brazos enfadada**",
+      "mensaje_sha256": "fdc1773a8ed79818bb36a3db3401ab0fe59108bb73c8bf98ee0754aa00d68ed9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1409531252557611170",
+      "texto_sha256": "adfc54b76d5f8a4db3258447aefc1d80975acf10cb2af314a33f147c73208d26",
+      "adjuntos": []
+    },
+    {
+      "id": "1409532214944862350",
+      "fecha_utc": "2025-08-25T13:37:47.885000+00:00",
+      "fecha_local": "2025-08-25",
+      "editado_utc": null,
+      "texto": "Arwen: **Va hacia ti y empieza a tirarte de la ropa**",
+      "mensaje_sha256": "665eacfbc3f1534e3adadf6ea66dfbf9738fcbcd65e6a6c10ca39a0bdbe5be63",
+      "tipo_discord": 19,
+      "referencia": "1409531252557611170",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1409532214944862350",
+      "texto_sha256": "6973ad9ba4bfcd72de60d327ad6a8b8113f6ac5706ba265b91cc3881aa591c57",
+      "adjuntos": []
+    },
+    {
+      "id": "1409532488585449663",
+      "fecha_utc": "2025-08-25T13:38:53.126000+00:00",
+      "fecha_local": "2025-08-25",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Mira a la niña** ¿Que pasa?",
+      "mensaje_sha256": "c9f178e7f6c4e8b37f4e83c5b8c023fc0f9d995255951dd9636047ba3ea744da",
+      "tipo_discord": 19,
+      "referencia": "1409532214944862350",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1409532488585449663",
+      "texto_sha256": "aec0d1d05212ca421da3b7dce8a73df533f263eaf3b119d2f33b4df0a90d6800",
+      "adjuntos": []
+    },
+    {
+      "id": "1409532670903451699",
+      "fecha_utc": "2025-08-25T13:39:36.594000+00:00",
+      "fecha_local": "2025-08-25",
+      "editado_utc": null,
+      "texto": "Arwen: tito Jelbreg tu nos enseñarias hechizos?",
+      "mensaje_sha256": "29d500adff38801467cb154dc1dec53e767b5b8ce1cef97868c22e175db777b6",
+      "tipo_discord": 19,
+      "referencia": "1409532488585449663",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1409532670903451699",
+      "texto_sha256": "ffa22b8d18cc5697399f74dfc95522835b76b3857bdb45506c0f81e89f54334f",
+      "adjuntos": []
+    },
+    {
+      "id": "1409532965037412403",
+      "fecha_utc": "2025-08-25T13:40:46.721000+00:00",
+      "fecha_local": "2025-08-25",
+      "editado_utc": null,
+      "texto": "Jelbreg: Eh? **Levanta la ceja** Lo que faltaba... Que os enseñará a usar conjuros como los míos...",
+      "mensaje_sha256": "06c23e80835f64d58286e9f72ca74f18f85742562d6407689cb7ef8b0031978d",
+      "tipo_discord": 19,
+      "referencia": "1409532670903451699",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1409532965037412403",
+      "texto_sha256": "a3361d37a175721c6162e0676b7c5be62370b5a7435329bc549afd9c3037f9a2",
+      "adjuntos": []
+    },
+    {
+      "id": "1409533192179814491",
+      "fecha_utc": "2025-08-25T13:41:40.876000+00:00",
+      "fecha_local": "2025-08-25",
+      "editado_utc": null,
+      "texto": "Arwen: porfiiiiiiii",
+      "mensaje_sha256": "500f24a5f691b136e71db6e514ca14199342e9357899fcc76e79dbe47fd48227",
+      "tipo_discord": 19,
+      "referencia": "1409532965037412403",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1409533192179814491",
+      "texto_sha256": "bcddcc452fcf4568cd2e5b8df257ac295f680fe7eecfa13b411ed7c702f4e2f2",
+      "adjuntos": []
+    },
+    {
+      "id": "1409533488994062486",
+      "fecha_utc": "2025-08-25T13:42:51.642000+00:00",
+      "fecha_local": "2025-08-25",
+      "editado_utc": null,
+      "texto": "Jelbreg: No os voy a enseñar más conjuros de destrucción... Ya tenéis suficientes... **Niega con la cabeza**",
+      "mensaje_sha256": "0c0934af28ec56857b9fba40c2df6568c4fd510bdd8f695194b60aed5a5bbaea",
+      "tipo_discord": 19,
+      "referencia": "1409533192179814491",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1409533488994062486",
+      "texto_sha256": "3768308b560cc285dbfe03a0cb8d0a0688183b23028169dbab5ae2c57a97d0fd",
+      "adjuntos": []
+    },
+    {
+      "id": "1409533948765409300",
+      "fecha_utc": "2025-08-25T13:44:41.260000+00:00",
+      "fecha_local": "2025-08-25",
+      "editado_utc": null,
+      "texto": "Arwen: pero enseñanos un hechizo guay",
+      "mensaje_sha256": "0f6c0564a02a6f923888339eecf17fe801788d847180c990270741408b094858",
+      "tipo_discord": 19,
+      "referencia": "1409533488994062486",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1409533948765409300",
+      "texto_sha256": "c3714a971f8d66619e1b9ee27fcc694bc83edd1b4119f3a5bf15e5d0bbf4f3d9",
+      "adjuntos": []
+    },
+    {
+      "id": "1409534454069723146",
+      "fecha_utc": "2025-08-25T13:46:41.734000+00:00",
+      "fecha_local": "2025-08-25",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Suspira y mira a la niña fijamente** No... *Kalista me mata si les enseño algo...*",
+      "mensaje_sha256": "878150490830c923f3f7557959e7e3f464c83dc1c0902bc7e18ab14199fc598d",
+      "tipo_discord": 19,
+      "referencia": "1409533948765409300",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1409534454069723146",
+      "texto_sha256": "88adb974d22248b653ce92d4cc300c7e4cdd3004fb7c1713f8e48a3638a2eede",
+      "adjuntos": []
+    },
+    {
+      "id": "1409535557482053863",
+      "fecha_utc": "2025-08-25T13:51:04.808000+00:00",
+      "fecha_local": "2025-08-25",
+      "editado_utc": null,
+      "texto": "Arwen: **Le pone ojitos y cara de puchero** Porfi tito Jelbreg **¿Es un charm o es asi de adorable?**",
+      "mensaje_sha256": "b3334f31a6ec20620d3be3d59d86aeb6b148a5fb43fa1a7b2e0f4ff18e480bca",
+      "tipo_discord": 19,
+      "referencia": "1409534454069723146",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1409535557482053863",
+      "texto_sha256": "4df23568fc60e0d5a56725adde08655ddd03c9d7f05a1a3e4131762edf980ee4",
+      "adjuntos": []
+    },
+    {
+      "id": "1409536465515581492",
+      "fecha_utc": "2025-08-25T13:54:41.300000+00:00",
+      "fecha_local": "2025-08-25",
+      "editado_utc": null,
+      "texto": "Jelbreg: Mmmmmrrrggg... Esta bien... esta bien... pero no se lo digáis a Kalista **Dice levantando los hombros**",
+      "mensaje_sha256": "e9114f1d71fe7f835a60565ccff72c97c31ef6a668080eea5fd5d174bc20696f",
+      "tipo_discord": 19,
+      "referencia": "1409535557482053863",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1409536465515581492",
+      "texto_sha256": "9c70b9fda5c7ae3a6e2c5ea56c46c64d59ca9480026f83860286906da5cd3e96",
+      "adjuntos": []
+    },
+    {
+      "id": "1409585897527185640",
+      "fecha_utc": "2025-08-25T17:11:06.810000+00:00",
+      "fecha_local": "2025-08-25",
+      "editado_utc": null,
+      "texto": "🔴 **Fin de escena**🔴",
+      "mensaje_sha256": "32b76f2e79c49b7d4964073250981ea2ebee4c3a66fb7de7c9493dfe17cc14cf",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1409585897527185640",
+      "texto_sha256": "0e513b9a495850850524d0965f55df051cd0b6a138120693016da3f3ffd42ccd",
+      "adjuntos": []
+    }
+  ]
+}

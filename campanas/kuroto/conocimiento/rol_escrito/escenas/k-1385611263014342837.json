@@ -1,0 +1,151 @@
+{
+  "id": "k-1385611263014342837",
+  "campana": "kuroto",
+  "unidad_revision": "k-1385611263014342837",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Banzo llama a Shizzuka al frente",
+  "resumen": "El goliat recarga suministros e invita a la kender a acompañarlo al sur.",
+  "relato": "Shizzuka despierta bajo Tip, Tap y Top y se enfada al encontrar la base vacía. Banzo llega del portal y recoge arpones y pociones mientras le cuenta que están invadiendo Kuroto desde el sur y que los demás combaten o coordinan tropas. La invita a reclutar aliados y pelear con todo su potencial; la niña acepta entusiasmada. El goliat proyecta varias paradas: buscar a Korko en las minas, a Gur en un templo, a un dracónido en la taberna y a Wukong en Ukyio. También quiere intentar liberar a Tapón y animarlo a encontrar a su familia. Esas búsquedas se formulan como posibilidades o intenciones, sin representar encuentros ni obtener aliados. Lo que sí afirma el cierre es que Banzo y Shizzuka toman finalmente el portal hacia el sur.",
+  "participantes": [
+    "Shizzuka",
+    "Banzo",
+    "Tip",
+    "Tap",
+    "Top"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1385611263014342837",
+      "afirmacion": "Shizzuka despierta y protesta al ver que los demás no están.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1385612580378120274",
+      "afirmacion": "Banzo informa de una invasión desde el sur y propone reclutar apoyo.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1385613588051267586",
+      "afirmacion": "Shizzuka acepta acompañarlo al combate.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1385617651384057876",
+      "afirmacion": "Banzo enumera búsquedas y una posible liberación de Tapón antes de afirmar la salida final por el portal al sur.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Cinco mensajes íntegros. Los condicionales buscarían, quizá e intentaría no se convierten en reclutamientos efectivos o liberación consumada.",
+    "El escuadrón se proyecta pero no queda compuesto en este encuentro. Korko, Gur, Wukong, Tapón y el dracónido no se suman como participantes presentes.",
+    "La utilización final del portal sí se afirma expresamente. No se reconstruye cómo terminó su reparación ni se da por restaurada toda una red por ese solo uso.",
+    "La mención de Shizzuka como jefa es la manera de dirigirse Banzo a ella, no una elección formal de liderazgo mostrada aquí."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-20T13:24:28.515000+00:00",
+  "fin_utc": "2025-06-20T14:11:35.145000+00:00",
+  "fecha_local": "2025-06-20",
+  "intervalo": {
+    "anterior": 130,
+    "siguiente": 131,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1385318614470496400",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387130423632724151",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 130,
+        "fecha": "2025-06-19",
+        "inicio_referencia_utc": "2025-06-19T18:01:24+00:00",
+        "fin_estimado_utc": "2025-06-19T21:47:20+00:00",
+        "duracion_video_segundos": 13556,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1385318614470496400"
+      },
+      {
+        "capitulo": 131,
+        "fecha": "2025-06-24",
+        "inicio_referencia_utc": "2025-06-24T18:00:45+00:00",
+        "fin_estimado_utc": "2025-06-24T21:04:44+00:00",
+        "duracion_video_segundos": 11039,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387130423632724151"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1385611263014342837",
+      "fecha_utc": "2025-06-20T13:24:28.515000+00:00",
+      "fecha_local": "2025-06-20",
+      "editado_utc": null,
+      "texto": "Shizzuka: **Se despierta y sale de debajo de Tip, Tap y Top con un gran bostezo y se frota losnojos** Uaaaaah ¿Dónde está todo el mundo? ¡Como me hayan vuelto a abandonar.....! **Un aura super-mega-ultra-maxi-chunga aparece alrededor de la niña kender**",
+      "mensaje_sha256": "c93106ca9b1bcc6803e38803af7965ebf872b103d7f1f2c7083136748b2af151",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1385611263014342837",
+      "texto_sha256": "aa755ae7797c565b1262be64e66a17f2f0d75ef0f75c1826202ce7a54069668a",
+      "adjuntos": []
+    },
+    {
+      "id": "1385612580378120274",
+      "fecha_utc": "2025-06-20T13:29:42.599000+00:00",
+      "fecha_local": "2025-06-20",
+      "editado_utc": "2025-06-20T13:29:56.084000+00:00",
+      "texto": "Banzo : **aparece banzo desde el portal \nEntra a toda prisa a la base para recargar arpones pociones y demás **\n\nShizzuka. <@214405113677217793> \nEstán invadiendo desde Kuroto desde el sur , todos estamos luchando en el frente o coordinando tropas . \n\nEres una niña , pero eres la jefa  quieres acompañarme a reclutar unos amigos y pelear de verdad ? Podrás usar todo tu potencial ... \n\n**sonrrie mientras coge las pociones y los arpones **",
+      "mensaje_sha256": "2ca0d3621924a67107df1b50e73aa687dff234835f542bc10cb21718af7cc8e9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1385612580378120274",
+      "texto_sha256": "16d87f7518719931c7e9709644c66792eb69dd898e29f70c0f4de9da96e7136e",
+      "adjuntos": []
+    },
+    {
+      "id": "1385613588051267586",
+      "fecha_utc": "2025-06-20T13:33:42.847000+00:00",
+      "fecha_local": "2025-06-20",
+      "editado_utc": null,
+      "texto": "Shizzuka: **El aura desaparece y vuelves a ver a la niña kender muy tierna con esos ojos grandotes. Cuando le dices que podra pelear y usar todo su potencial, sonrie ampliamente con cara de loca y frota sus manitas** Je je je je... ¡Vamos!",
+      "mensaje_sha256": "f3e45f24f9365dfb9cb0239165835e3abcb5780e365879c72a7acb7753beb3da",
+      "tipo_discord": 19,
+      "referencia": "1385612580378120274",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1385613588051267586",
+      "texto_sha256": "ec231699e278dc3a30fb7615ee0bc4ea04ca4b7495864c38fa1baf4d05e0ffbc",
+      "adjuntos": []
+    },
+    {
+      "id": "1385617651384057876",
+      "fecha_utc": "2025-06-20T13:49:51.621000+00:00",
+      "fecha_local": "2025-06-20",
+      "editado_utc": null,
+      "texto": "**el goliat y la niña kender se dirigen hacia el frente de la batalla , no sin antes hacer alguna que otra parada .\nDebe formarse el escuadrón fuerza de choque.\n\nEn las minas de sho buscarían al primer aliado , el orko Korko <@220602485977382912> .\nSeguidamente buscarían a Gur <@412279081170763776> , algo dijo de un templo el día de la puerta negra \nEn la taberna QUIZÁ encontrarían al draconido <@694962649867223080> .\nÚltima parada , Ukyio, base de los cazadores.\nQUIZA encontraría a Wukong <@220602485977382912>  y con ayuda de la niña kender y una pocion de su mochila de trato con animales intentaría liberar a Tapon y decirle que busque a su familia que no se quedara nunca más encerrado . \n\nFINALMENTE TOMAN EL PORTAL HACIA EL SUR **",
+      "mensaje_sha256": "b99be43c4f817f31922792c2c9a463ff63165ec78861d176c4683b7b1ed1d0ce",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1385617651384057876",
+      "texto_sha256": "867636b7fd27dec53c3efbe31acf9ab9dde7ef6603a177d87fd301f67a37a977",
+      "adjuntos": []
+    },
+    {
+      "id": "1385623118759989392",
+      "fecha_utc": "2025-06-20T14:11:35.145000+00:00",
+      "fecha_local": "2025-06-20",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "87b628f788c48ed44d7c03a5a669e4b39e4f8a4cdbdbde7ae8df2c4e1695ea85",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1385623118759989392",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

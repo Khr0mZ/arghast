@@ -1,0 +1,302 @@
+{
+  "id": "k-1397197036079812639",
+  "campana": "kuroto",
+  "unidad_revision": "k-1397197036079812639",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "Banzo encuentra a Arwen entre sus trampas",
+  "resumen": "El goliat invita a la niña a investigar el bosque del norte, pero antes planean visitar a Kalista y Shizzuka y salir del agua inquietante del sur.",
+  "relato": "Banzo sigue un rastro conocido de trampas y encuentra a Arwen cavando una zanja, cubierta de barro. La sorprende levantándola por las piernas, y el susto de la niña se convierte en risas al reconocerlo. Ella dice que no ha visto enemigos cerca, aunque advierte de la vigilancia desde el cielo.\n\nEl goliat le cuenta que ocurre algo en el bosque del norte y pregunta si quiere acompañarlo para escuchar a los animales. Arwen acepta enseguida porque siente el deber de responder cuando la naturaleza llama. Antes, Banzo necesita ver a Kalista y propone que la pequeña juegue con Shizzuka, a quien echa de menos.\n\nAl contemplar la suciedad, ambos piensan en bañarse en otro lugar: Arwen considera cargada de mala energía el agua del sur. Banzo le pide además que no permanezca tanto tiempo sola allí. Terminan jugando a perseguirse hacia el campamento, con el goliat intentando mantener los tobillos lejos de sus mordiscos. La investigación del norte y la visita aún no ocurren.",
+  "participantes": [
+    "Banzo",
+    "Arwen"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1397203702175109223",
+      "afirmacion": "Arwen dice que no ha visto enemigos, pero que existe peligro de vigilancia aérea.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1397204925464969290",
+      "afirmacion": "Banzo invita a Arwen a investigar el bosque del norte.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1397207763129466940",
+      "afirmacion": "Arwen percibe el agua del sur como cargada de mala energía.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1397210460054491299",
+      "afirmacion": "Banzo y Arwen abandonan el lugar jugando a perseguirse.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La apreciación sobre el agua pertenece a Arwen; no se añade un diagnóstico mágico externo.",
+    "La ubicación de Shizzuka en palacio se menciona como lo que Banzo cree saber."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-07-22T12:42:12.067000+00:00",
+  "fin_utc": "2025-07-22T19:24:34.779000+00:00",
+  "fecha_local": "2025-07-22",
+  "intervalo": {
+    "anterior": 139,
+    "siguiente": 140,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1395465783865512070",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1398002060905152542",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 139,
+        "fecha": "2025-07-17",
+        "inicio_referencia_utc": "2025-07-17T18:02:34+00:00",
+        "fin_estimado_utc": "2025-07-17T20:59:56+00:00",
+        "duracion_video_segundos": 10642,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1395465783865512070"
+      },
+      {
+        "capitulo": 140,
+        "fecha": "2025-07-24",
+        "inicio_referencia_utc": "2025-07-24T18:00:50+00:00",
+        "fin_estimado_utc": "2025-07-24T21:10:34+00:00",
+        "duracion_video_segundos": 11384,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1398002060905152542"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1397197036079812639",
+      "fecha_utc": "2025-07-22T12:42:12.067000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": "2025-07-22T12:44:25.589000+00:00",
+      "texto": "Banzo : **se le vería por los alrededores del campamento,  siguiendo un rastro algo familiar,  se habría encontrado un par de trampas puestas por alguien que le resulta conocido **\n\n*Creo que ha pasado por aqui*",
+      "mensaje_sha256": "22d02e40de714eb376ad06f9b6f0fb77710e1adf88b42de984b3153e2a455f29",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1397197036079812639",
+      "texto_sha256": "84d85479adab77ed39059ab9377ac93a57cbc7ed00ae031a4ffb51b42b8c2e14",
+      "adjuntos": []
+    },
+    {
+      "id": "1397197428842565763",
+      "fecha_utc": "2025-07-22T12:43:45.709000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": null,
+      "texto": "Arwen: cava cava cava cava cava cava cava cava cava **Ves unas piernitas llenas de tierra y barro dentro de una zanja**",
+      "mensaje_sha256": "58cb0ddce75cbaa32f37d79c546832c7fd516c2d8ba454fb3a9ee1c838552c4f",
+      "tipo_discord": 19,
+      "referencia": "1397197036079812639",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1397197428842565763",
+      "texto_sha256": "fd086d2d8d1348b59bbcab06d585ff03913dbd2e40c6ae3488e7cd82bf0639ee",
+      "adjuntos": []
+    },
+    {
+      "id": "1397198030352023652",
+      "fecha_utc": "2025-07-22T12:46:09.120000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": null,
+      "texto": "Banzo : **se pone todo lo posible en modo sigilo y se acerca poco a poco a la niña que aunque esté distraída posiblemente podría escuchar que alguien se acerca **\n\nTe pillleeeeee!!!! \n**la coge de la patitas para ponerla boca abajo delante de el **",
+      "mensaje_sha256": "6e6f82c8c2807b977795ba962135c53c60259dbe8e81ed89aca0d43498c217bb",
+      "tipo_discord": 19,
+      "referencia": "1397197428842565763",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1397198030352023652",
+      "texto_sha256": "21ff6cb8727a6b20ebd17352d9cc3c927089edc52743e23f28c0c70f4d9f1ade",
+      "adjuntos": []
+    },
+    {
+      "id": "1397200093144158270",
+      "fecha_utc": "2025-07-22T12:54:20.928000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": null,
+      "texto": "Arwen: **Chilla al principio pero al ver que es Banzo sonrie y empieza a reir** BANZOOOOOO **Esta de tierra y barro hasta las cejas**",
+      "mensaje_sha256": "32b109733803babcc804fa10b78320566b5c87621b38b3601b3e5acab1b03eff",
+      "tipo_discord": 19,
+      "referencia": "1397198030352023652",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1397200093144158270",
+      "texto_sha256": "603ff53293178a197fdce588d1b6fe86f96febd318fcd9915bbf4e7fa366c7a3",
+      "adjuntos": []
+    },
+    {
+      "id": "1397203482012029010",
+      "fecha_utc": "2025-07-22T13:07:48.897000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": null,
+      "texto": "Banzo: **le vuelve a poner en el suelo **\nComo estas pequeña,  alguno de los malos por aqui ?",
+      "mensaje_sha256": "9a27c410a986023a8c9ba304191d85be6030b302b80188cffcded54a412b23ba",
+      "tipo_discord": 19,
+      "referencia": "1397200093144158270",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1397203482012029010",
+      "texto_sha256": "336f4657152f4b1220a3fe85a23caa33460d92a37d1ab303cd718efaec1081de",
+      "adjuntos": []
+    },
+    {
+      "id": "1397203702175109223",
+      "fecha_utc": "2025-07-22T13:08:41.388000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": null,
+      "texto": "Arwen: **Niega** Arwen no ver ninguno...**Mira al cielo** Pero cielo peligroso si no sabes esconderte bien muchos vigilan desde ahi",
+      "mensaje_sha256": "1298ee3bcf83d8b279eb88fcd5b9b361efbae1ff18cb42709390ce71629d6840",
+      "tipo_discord": 19,
+      "referencia": "1397203482012029010",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1397203702175109223",
+      "texto_sha256": "66a1c6a39c4ed9d1eddb749eed0bee8237349ce98b84b0f4aa5509c603c6bce3",
+      "adjuntos": []
+    },
+    {
+      "id": "1397204925464969290",
+      "fecha_utc": "2025-07-22T13:13:33.043000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": null,
+      "texto": "Banzo : **Mira al cielo ** y te has estado ocupando tu no ? Muy bien hecho canija.  \n*ojalá tener la patrulla de grifos como en la aldea ...* \n\nParece que algo esta pasando  en el bosque del norte también.  Te gustaría venir conmigo a investigar a ver si los animales nos cuentan algo",
+      "mensaje_sha256": "c1f2df12b643fa75a58210a3c5c116a58772807f0f2c420bc800b971970a3d2b",
+      "tipo_discord": 19,
+      "referencia": "1397203702175109223",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1397204925464969290",
+      "texto_sha256": "b06524f51d7a7e6bfe958c004f7cce5411df5788893bd2bbf84725f3c47b9360",
+      "adjuntos": []
+    },
+    {
+      "id": "1397205264515465337",
+      "fecha_utc": "2025-07-22T13:14:53.879000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": null,
+      "texto": "Arwen: ...¿algo en el norte? **se queda pensativa y asiente rapido** Vamos vamos, si bosque llama Arwen debe acudir, naturaleza llamar",
+      "mensaje_sha256": "1f2b94a52b2eb4c39d7e429fdf710f28a4f9b67e531ed4fc4a3d2cb140b8dc2a",
+      "tipo_discord": 19,
+      "referencia": "1397204925464969290",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1397205264515465337",
+      "texto_sha256": "2b0ea100085d9a6e963e2d83e99d1f54db6afcdff017cb1a400e4ee881a346c1",
+      "adjuntos": []
+    },
+    {
+      "id": "1397206507002527907",
+      "fecha_utc": "2025-07-22T13:19:50.111000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": null,
+      "texto": "Banzo : antes tengo que ir a ver a Kalista , así puedes estar un rato con Shizzukka quieres ? \nPor cierto hace mucho que no ves a Xyllya? Bueno Chile creo que le llamas tu , no es asi ?**se pone de cuclillas**",
+      "mensaje_sha256": "35a88df376bc8fe8c828d324b658896da06106e0d461e211012894a2f722056a",
+      "tipo_discord": 19,
+      "referencia": "1397205264515465337",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1397206507002527907",
+      "texto_sha256": "c3defe490bde8c107778696f603797884230a30b8803e089a8f16c367756f0d8",
+      "adjuntos": []
+    },
+    {
+      "id": "1397206993923739698",
+      "fecha_utc": "2025-07-22T13:21:46.202000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": null,
+      "texto": "Arwen: Arwen jugar con ella a veces a ver quien lanza a otra a esos demonios mas fuerte **Se rasca la cabeza con la pierna** Pero Arwen hecha de menos a Shizzukka...hace mucho que no esta en la base...quiero verla",
+      "mensaje_sha256": "9182b80660d6bbc253f9e439a1025bee9abf5174a180c61110289e0636e78f7a",
+      "tipo_discord": 19,
+      "referencia": "1397206507002527907",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1397206993923739698",
+      "texto_sha256": "391cb4ed3469ad4d40d3c0f7bc6e43fbbe7a6484629f78ef5d6c8e5f57be1bf3",
+      "adjuntos": []
+    },
+    {
+      "id": "1397207517251239996",
+      "fecha_utc": "2025-07-22T13:23:50.973000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": null,
+      "texto": "Banzo : Ahora esta en viviendo en Palacio creo con Kalista . \nPues no se diga mas vamos a verla .\n**la ve llena de tierra y el mismo se huele un poco **\nQuieres pasar por el lago antes y nos bañamos un poco  o tu crees que vamos bien ?",
+      "mensaje_sha256": "b1abe51eab52c709f437692d12556c101fc51b20a780e1675c97755925b5be00",
+      "tipo_discord": 19,
+      "referencia": "1397206993923739698",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1397207517251239996",
+      "texto_sha256": "302a494bdf4e475267e65ebd731c9bc8f4cfa30295581baa9ed1f6c44d1efa36",
+      "adjuntos": []
+    },
+    {
+      "id": "1397207763129466940",
+      "fecha_utc": "2025-07-22T13:24:49.595000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": null,
+      "texto": "Arwen: si si si si si jugar en el agua jugar en el agua....Agua de aqui cargada de energia mala\n...A Arwen no gustar",
+      "mensaje_sha256": "2fa3b6c0cda179ff053180d5824dca8e11bd5947269cffdff40c07d467244555",
+      "tipo_discord": 19,
+      "referencia": "1397207517251239996",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1397207763129466940",
+      "texto_sha256": "b0f283353118d7ef3f42b8d1061b3ebab7400511bca72be282ae3f4b87688d45",
+      "adjuntos": []
+    },
+    {
+      "id": "1397209235229638727",
+      "fecha_utc": "2025-07-22T13:30:40.571000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": null,
+      "texto": "Banzo : si... nada aquí parece desprender buena energía. \nSe que arwen es fuerte pero intenta no estar mucho sola por aqui de acuerdo **te sonrrie y te da un taquecito en la cabeza **\nLa pillas !\n**sale corriendo riendo en dirección al campamento **",
+      "mensaje_sha256": "738b219f08a0a0d65680f10711303eeeeec6e5ed71914fea51a8d5367668fe92",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1397209235229638727",
+      "texto_sha256": "d27b80834490026779e542bbe46b5b2648c4e691b3c14e82b735a64f084bb812",
+      "adjuntos": []
+    },
+    {
+      "id": "1397209903239790592",
+      "fecha_utc": "2025-07-22T13:33:19.837000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": null,
+      "texto": "Arwen: **Rie y te persigue a cuatro patas si te atrapa te modera los tobillos que lo sepas**",
+      "mensaje_sha256": "3a3cb954262b9eba61edcf9ee17a6ce0b757a267011b2e5919aab915c0b6acc2",
+      "tipo_discord": 19,
+      "referencia": "1397209235229638727",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1397209903239790592",
+      "texto_sha256": "9c065019939dcf0adf506e61d971d5d8bacfcc57ce3f36e2ef384d3969b3614e",
+      "adjuntos": []
+    },
+    {
+      "id": "1397210460054491299",
+      "fecha_utc": "2025-07-22T13:35:32.592000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": null,
+      "texto": "**🌭 Banzo sale de escena corriendo levantando mucho los tobillos al ver que se acercan esos dientes 🌭 **",
+      "mensaje_sha256": "3316f06a808565b268948e9eb272039c1a72d42ded8f789209a8cb42b5e0b150",
+      "tipo_discord": 19,
+      "referencia": "1397209903239790592",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1397210460054491299",
+      "texto_sha256": "7b841f7ea3ee77babb5b6799ed83a9bb7d30c791637c1cba78d31d5a7b2fb676",
+      "adjuntos": []
+    },
+    {
+      "id": "1397211213087375552",
+      "fecha_utc": "2025-07-22T13:38:32.129000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": null,
+      "texto": "🐺 **Ñam ñam, Arwen sale de escena, ñam ñam**🐺",
+      "mensaje_sha256": "07440d0d318ee080c2007bdb15935c8f9b3435a447dc7467ce9b7c744b628ae2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1397211213087375552",
+      "texto_sha256": "8feb73ea8568c9684edb0f602c7516cd5b3abb78c0556a3d7440d81abdec4556",
+      "adjuntos": []
+    },
+    {
+      "id": "1397298297953062933",
+      "fecha_utc": "2025-07-22T19:24:34.779000+00:00",
+      "fecha_local": "2025-07-22",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "f6cf04dd703127842490292d8bfa8d891560b9606d75ef890e1e1195959ebf21",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1397298297953062933",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "id": "k-1425133688970285288",
+  "campana": "kuroto",
+  "unidad_revision": "k-1425133688970285288",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Guxi busca noticias de La Flor de Loto",
+  "resumen": "La preocupación por Seraphina no obtiene respuestas y Banzo plantea salir a buscarla.",
+  "relato": "Guxi espera en el puerto de Sho, inquieto porque Seraphina no regresa. En las oficinas pregunta por La Flor de Loto. El encargado informa de que partió hacia Puerto de las Espadas unas dos semanas antes y considera normal un retraso de dos días, sin tener noticias del navío. Guxi consulta después a varios marineros. Saben lo mismo y solo pueden asegurar que no hubo mal tiempo en las costas de Kuroto: desconocen lo sucedido mar adentro o cerca del otro continente. Banzo llega y pregunta por Seraphina. Guxi admite que no sabe nada y expresa que no debería retrasarse; el goliat le propone partir a buscarla. Guxi acepta la idea y pide su ayuda. El tramo termina sin respuesta explícita de Banzo a esa petición ni preparativos, salida o conocimiento del ataque pirata.",
+  "participantes": [
+    "Guxi",
+    "oficial del puerto",
+    "marineros de Sho",
+    "Banzo"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1425144649995124877",
+      "afirmacion": "El oficial considera que dos días de retraso no son alarmantes.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1425148295004557313",
+      "afirmacion": "Los marineros solo conocen el tiempo de las costas de Kuroto y carecen de noticias del barco.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1425176359075975319",
+      "afirmacion": "Banzo pregunta si Guxi quiere salir a buscar a Seraphina.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1425176895938625577",
+      "afirmacion": "Guxi quiere hacerlo y pide ayuda a Banzo.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Guxi resume que no ha habido mal tiempo, pero la fuente limita ese dato a la costa local; no convertirlo en certeza para toda la ruta.",
+    "La masacre del navío es conocida por el lector de la unidad previa, no por estos interlocutores."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2025-10-07T14:52:29.154000+00:00",
+  "fin_utc": "2025-10-07T18:17:34.748000+00:00",
+  "fecha_local": "2025-10-07",
+  "intervalo": {
+    "anterior": 160,
+    "siguiente": 161,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1423373613540573317",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1425183138606219264",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 160,
+        "fecha": "2025-10-02",
+        "inicio_referencia_utc": "2025-10-02T18:18:19+00:00",
+        "fin_estimado_utc": "2025-10-02T21:07:14+00:00",
+        "duracion_video_segundos": 10135,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1423373613540573317"
+      },
+      {
+        "capitulo": 161,
+        "fecha": "2025-10-07",
+        "inicio_referencia_utc": "2025-10-07T18:08:41+00:00",
+        "fin_estimado_utc": "2025-10-07T20:58:07+00:00",
+        "duracion_video_segundos": 10166,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1425183138606219264"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1425133688970285288",
+      "fecha_utc": "2025-10-07T14:52:29.154000+00:00",
+      "fecha_local": "2025-10-07",
+      "editado_utc": null,
+      "texto": "guxi:\n**esta en el puerto preocupado seraphina deberia haber vuelto hace ya unos dias y esta buscando el navio donde se fue sin mucha suerte**\nDeberia preguntar en las oficinas del puerto",
+      "mensaje_sha256": "5f1bf0ace90034fa976ef3d01097096ea074bca98aad082756ba8034e0b5ddbc",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425133688970285288",
+      "texto_sha256": "65e2ada09dd75a9a1fe14b8a6941b344d85f949990c6915458cfd2bd5e4be426",
+      "adjuntos": []
+    },
+    {
+      "id": "1425142600125382778",
+      "fecha_utc": "2025-10-07T15:27:53.739000+00:00",
+      "fecha_local": "2025-10-07",
+      "editado_utc": null,
+      "texto": "guxi:\n**va a las oficinas del puerto para preguntar sobre la flor de loto**",
+      "mensaje_sha256": "2b77d98c21d4eab0b9f995e55757ba7018293bb436bdc8970e95e82a8236f531",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425142600125382778",
+      "texto_sha256": "cf4ca351f22bf1385a8a348209f0135353c229330b0377457e52514bdf2a666f",
+      "adjuntos": []
+    },
+    {
+      "id": "1425144072611430484",
+      "fecha_utc": "2025-10-07T15:33:44.807000+00:00",
+      "fecha_local": "2025-10-07",
+      "editado_utc": null,
+      "texto": "El del Puerto: La Flor de Loto? Se fue hace un par de semanas a Puerto de las Espadas, por que?",
+      "mensaje_sha256": "d381ab1037c35a499bb7212ab02978f2adeb18e4a46d315fc1b4fd9d0cf6a174",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425144072611430484",
+      "texto_sha256": "4a398ce81dff82a1f92818d45218a218a43cd8396a76304b3a1d87dfbb9edc07",
+      "adjuntos": []
+    },
+    {
+      "id": "1425144394381525003",
+      "fecha_utc": "2025-10-07T15:35:01.523000+00:00",
+      "fecha_local": "2025-10-07",
+      "editado_utc": null,
+      "texto": "guxi:\nDeberia de haber vuelto hace un par de dias \n¿se sabe algo?",
+      "mensaje_sha256": "b1333a175c6a5d82d2655e091675d949151c462f59eb74381a9dc442ac6fae32",
+      "tipo_discord": 19,
+      "referencia": "1425144072611430484",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425144394381525003",
+      "texto_sha256": "47b05c8e8b9464eb59658bb6d944d2da77c7c3de1bbaa48ab478bb0bef41225e",
+      "adjuntos": []
+    },
+    {
+      "id": "1425144649995124877",
+      "fecha_utc": "2025-10-07T15:36:02.466000+00:00",
+      "fecha_local": "2025-10-07",
+      "editado_utc": null,
+      "texto": "El del Puerto: Ni idea, ir y volver de Puerto de las Espadas son dos semanas. Un retraso de un par de días no es alarmamte",
+      "mensaje_sha256": "a232668c6a783f027560cc8ca87ab09a53f38d2300b5ed9cbae4aa25a9521819",
+      "tipo_discord": 19,
+      "referencia": "1425144394381525003",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425144649995124877",
+      "texto_sha256": "2aa55f6ce95dae34f6fa4cada5a2c7ca2cd20f1d2cb1d8cc8d5a4e643c0e1680",
+      "adjuntos": []
+    },
+    {
+      "id": "1425144924319256616",
+      "fecha_utc": "2025-10-07T15:37:07.870000+00:00",
+      "fecha_local": "2025-10-07",
+      "editado_utc": null,
+      "texto": "guxi: \nTenia que volver con mas barcos?",
+      "mensaje_sha256": "65026f4ae766a976429ba66745b75026ab8f6ab042e9c7f38bed24e8ceb251f9",
+      "tipo_discord": 19,
+      "referencia": "1425144649995124877",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425144924319256616",
+      "texto_sha256": "2fa36f16e722dc17e7451376142148a98924df70c263113f3b05bbabc654e47b",
+      "adjuntos": []
+    },
+    {
+      "id": "1425145095950438431",
+      "fecha_utc": "2025-10-07T15:37:48.790000+00:00",
+      "fecha_local": "2025-10-07",
+      "editado_utc": null,
+      "texto": "El del Puerto: No **Te mira extrañado** ¿Pasa algo?",
+      "mensaje_sha256": "57ce1a480aae63912d4018853237b9390fb67e182f17713eacc490b6776409e7",
+      "tipo_discord": 19,
+      "referencia": "1425144924319256616",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425145095950438431",
+      "texto_sha256": "6ad0e8037f4f76460b2f40153273c5d93dff342b98a87042c273eea6ccedb82b",
+      "adjuntos": []
+    },
+    {
+      "id": "1425146125341556836",
+      "fecha_utc": "2025-10-07T15:41:54.216000+00:00",
+      "fecha_local": "2025-10-07",
+      "editado_utc": null,
+      "texto": "guxi:\nEstoy preocupado simplemente ire a preguntar a otros marineros si sabe algo por favor digamelo",
+      "mensaje_sha256": "e5f5834c28985e5965efad6d1cd62acb88110d794fbccc7ffccb78dd16bf0e2c",
+      "tipo_discord": 19,
+      "referencia": "1425145095950438431",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425146125341556836",
+      "texto_sha256": "413051771f1f169433ed1eafd2d4fc51d56c270fbac8a2c4b3dd0b46c4f67cca",
+      "adjuntos": []
+    },
+    {
+      "id": "1425146485217169533",
+      "fecha_utc": "2025-10-07T15:43:20.017000+00:00",
+      "fecha_local": "2025-10-07",
+      "editado_utc": null,
+      "texto": "El del Puerto: Vale.... *¿Esta preocupado por un barco que se ha retrasado dos días? Que hombre más raro*",
+      "mensaje_sha256": "9b038019122e6a7e4232665d2b701c2be61147d83f074f27c623daa2c830edcf",
+      "tipo_discord": 19,
+      "referencia": "1425146125341556836",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425146485217169533",
+      "texto_sha256": "585f65a7cebec2f1a34c358127d5e37c270032dea49c40db8269c4f8ddf75ab3",
+      "adjuntos": []
+    },
+    {
+      "id": "1425147669722042390",
+      "fecha_utc": "2025-10-07T15:48:02.425000+00:00",
+      "fecha_local": "2025-10-07",
+      "editado_utc": null,
+      "texto": "guxi:\n**va por el puerto buscando marinero para preguntarle sobre la flor de loto y seraphina tambien sobre el tiempo para saber si se ha retrasado por el mal tiempo**",
+      "mensaje_sha256": "2027fb973646b33f3154fa281ea84e87aa14dfe4110caa6feed6c1c17b289ec7",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425147669722042390",
+      "texto_sha256": "c65fa3cdb8a51035916207653c5d000c9b1908d1ae75f1f68419df47c9f858cd",
+      "adjuntos": []
+    },
+    {
+      "id": "1425148295004557313",
+      "fecha_utc": "2025-10-07T15:50:31.504000+00:00",
+      "fecha_local": "2025-10-07",
+      "editado_utc": null,
+      "texto": "**Le preguntas a varios marineros, pero saben menos que el oficial del puerto. Saben que el barco partió hace dos semanas y es lo que tarda el hacer ese recorrido. Sobre el mal tiempo, te dicen que no ha habido en las costas de Kuroto, pero más allá no tienen ni idea, ellos no han salido a hacer rutas de comercio hasta el otro continente**",
+      "mensaje_sha256": "7648c0e9acc716dd7e875181b6f590724fe34960e0d6d2a0132398dac185ff2b",
+      "tipo_discord": 19,
+      "referencia": "1425147669722042390",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425148295004557313",
+      "texto_sha256": "84312e08f92d08f4ea7a60302729ea99c894b164112a68ccb88d77e533275e75",
+      "adjuntos": []
+    },
+    {
+      "id": "1425167246162137149",
+      "fecha_utc": "2025-10-07T17:05:49.812000+00:00",
+      "fecha_local": "2025-10-07",
+      "editado_utc": null,
+      "texto": "Banzo : sabemos algo de seraphina Guxi ? **te dice el goliath a lo lejos llegando a la zona portuaria **",
+      "mensaje_sha256": "1bb2d8baa79775de4f8b642b1beae6b3ee7b2f6b09ec96708c15fbb97e538ad1",
+      "tipo_discord": 19,
+      "referencia": "1425147669722042390",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425167246162137149",
+      "texto_sha256": "f673e9053276f1320707f6f5237bf453dca0843cb0b71bb52a4db56b32931f5f",
+      "adjuntos": []
+    },
+    {
+      "id": "1425169259612602398",
+      "fecha_utc": "2025-10-07T17:13:49.856000+00:00",
+      "fecha_local": "2025-10-07",
+      "editado_utc": null,
+      "texto": "Guxi:\n**Se acerca a banzo y niega con la cabeza**\nNo debería retrasarse no ha habido mal tiempo y en el puerto no se sabe nada",
+      "mensaje_sha256": "c9dc90f42e5345ed8303b677171cb652a67d09ef1480d5e3bba192d6d2dc2624",
+      "tipo_discord": 19,
+      "referencia": "1425167246162137149",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425169259612602398",
+      "texto_sha256": "3bd93870fab34eb3803278f318118e906ce14dc20c1a299591ec2a172a2a7079",
+      "adjuntos": []
+    },
+    {
+      "id": "1425176359075975319",
+      "fecha_utc": "2025-10-07T17:42:02.500000+00:00",
+      "fecha_local": "2025-10-07",
+      "editado_utc": null,
+      "texto": "Banzo : quieres partir a por ella ?",
+      "mensaje_sha256": "7d465e1f63d4e7c07fe0fde280a6bb6e603d570bcd8ebfe1d85749593588b8b5",
+      "tipo_discord": 19,
+      "referencia": "1425169259612602398",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425176359075975319",
+      "texto_sha256": "1d2137fff38a81415f43b3be5ac602907568a6a2d576e0a2e1f3592bdd895346",
+      "adjuntos": []
+    },
+    {
+      "id": "1425176895938625577",
+      "fecha_utc": "2025-10-07T17:44:10.498000+00:00",
+      "fecha_local": "2025-10-07",
+      "editado_utc": null,
+      "texto": "guxi:\nsi la verdad es que si Banzo me ayudarias?",
+      "mensaje_sha256": "31c55e132c92ac9a4ca3199ac4d9b31ef91a7f5a553370b02d0c58a0e183d9a6",
+      "tipo_discord": 19,
+      "referencia": "1425176359075975319",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425176895938625577",
+      "texto_sha256": "4a36cab234580b92fbf93801bf4e0ff6030beb5dd734a1282d7e8f6670ff5de4",
+      "adjuntos": []
+    },
+    {
+      "id": "1425185302372421672",
+      "fecha_utc": "2025-10-07T18:17:34.748000+00:00",
+      "fecha_local": "2025-10-07",
+      "editado_utc": null,
+      "texto": "🔴 **Fin de escena**🔴",
+      "mensaje_sha256": "7e70c6cfd1240bba7df57f6c5da97c01b1765a41c7b416e0681133b963429095",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1425185302372421672",
+      "texto_sha256": "0e513b9a495850850524d0965f55df051cd0b6a138120693016da3f3ffd42ccd",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "id": "x-1547355711212879964",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1546998488703967303",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "La bebida de Archi deja inconsciente a Coyote",
+  "resumen": "Su consulta sobre cortejo termina con un traslado al sótano del inventor.",
+  "relato": "Mientras los demás se ocupan del torneo, Coyote pregunta a Archi cómo corteja a las mujeres y prepara la libreta para tomar notas. El gnomo le ofrece un brindis por el futuro cabraball. Coyote encuentra agradable la bebida, pero enseguida le pesan los párpados.\n\nTodavía alcanza a ver la sonrisa de Archi y a oír que aquello es una de las formas a las que se refería. Pierde el conocimiento y la robot lo lleva al sótano. La narración termina con una pregunta sobre su destino: no identifica la sustancia ni revela qué hará allí el inventor.",
+  "participantes": [
+    "Coyote",
+    "Archi",
+    "Danifae"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1547356747189063720",
+      "afirmacion": "Archi propone brindar mientras Coyote pregunta por el cortejo.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1547359295417614386",
+      "afirmacion": "Coyote queda inconsciente tras beber y la robot lo baja al sótano.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Imagen adjunta de Archi y Pinky junto a la choza vista completa; funciona como ilustración del encuentro.",
+    "Las especulaciones de Ilikar sobre que Coyote sea un pájaro son un malentendido cómico, no una identidad nueva.",
+    "El traslado inconsciente no muestra el procedimiento posterior ni permite inventar una agresión concreta.",
+    "La acusación de ser la criatura más buscada es una hipérbole del narrador del mensaje, sin expediente independiente."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2026-09-09T21:19:10.032000+00:00",
+  "fin_utc": "2026-09-09T21:33:24.573000+00:00",
+  "fecha_local": "2026-09-09",
+  "intervalo": {
+    "anterior": 59,
+    "siguiente": 60,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1546226980192649230",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1547671000508928031",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 59,
+        "fecha": "2026-09-06",
+        "inicio_referencia_utc": "2026-09-06T18:28:05+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1546226980192649230"
+      },
+      {
+        "capitulo": 60,
+        "fecha": "2026-09-10",
+        "inicio_referencia_utc": "2026-09-10T18:11:36+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1547671000508928031"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1547355711212879964",
+      "fecha_utc": "2026-09-09T21:19:10.032000+00:00",
+      "fecha_local": "2026-09-09",
+      "editado_utc": null,
+      "texto": "Coyote:\n**Arqueo una ceja al ver la emoción del grandote**\n\nBueno, ya me enteraré después lo que planean\n\n**Saqué de nuevo la libreta y me acerqué al hombre metálico**\n\nUsted puede considerarse hombre?, si es así, cómo corteja a las mujeres?, estoy recopilando unos datos \n\n<@616683133374562304>",
+      "mensaje_sha256": "16b22f815526e986599cd32b8569e1606deb3e4ec835ee87c0fc086d554d801c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1547355711212879964",
+      "texto_sha256": "cda6ecfc0eae4cbdc0f7551088166a8647ef24d22d95cac738834730391a39f1",
+      "adjuntos": []
+    },
+    {
+      "id": "1547356747189063720",
+      "fecha_utc": "2026-09-09T21:23:17.028000+00:00",
+      "fecha_local": "2026-09-09",
+      "editado_utc": null,
+      "texto": "Archi : ooooooo hay muchas formas . \n**Se acerca a la choza y saca otro par de bebidas esta parece más un Martini con bodka agitado pero no mezclado ** \n\nPonte cómodo y apunta,  pero antes , un brindis por el futuro torneo . \n**levanta su copa para brindar con la tuya **",
+      "mensaje_sha256": "fc08906c548452d99be14a66eed64c78cdb4546cc66927722229e560cbca78b3",
+      "tipo_discord": 19,
+      "referencia": "1547355711212879964",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1547356747189063720",
+      "texto_sha256": "9583075ee02afb4da6ec819689260080540694bd388eab60f33d24329da1fa0e",
+      "adjuntos": []
+    },
+    {
+      "id": "1547357308995108874",
+      "fecha_utc": "2026-09-09T21:25:30.973000+00:00",
+      "fecha_local": "2026-09-09",
+      "editado_utc": null,
+      "texto": "Coyote:\nEh.. supongo \n\n**Levanté la bebida que aún no había probado**\n\nAl menos este pueblucho ya dejó de ser tan aburrido",
+      "mensaje_sha256": "1e89e98d09506ad01e60ad269fa6ba4726232391bc90d4a1ecf128975bdc9b7d",
+      "tipo_discord": 19,
+      "referencia": "1547356747189063720",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1547357308995108874",
+      "texto_sha256": "755e7d8ab738318757f5aa37a0ea56f6beb6e1819509925582e5eb493b681775",
+      "adjuntos": []
+    },
+    {
+      "id": "1547357671869390949",
+      "fecha_utc": "2026-09-09T21:26:57.489000+00:00",
+      "fecha_local": "2026-09-09",
+      "editado_utc": null,
+      "texto": "Archi : Saluuuuuuut y força al canut! \n**brinda contigo y bebe**",
+      "mensaje_sha256": "be5f660dba7930194549ca2defeecacc74b7a1c8361cb328eb1805f7d0a442bf",
+      "tipo_discord": 19,
+      "referencia": "1547357308995108874",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1547357671869390949",
+      "texto_sha256": "5eea3d187be0ee0ad287b0162adbc7137d056350cad682fbeabb4629c862334b",
+      "adjuntos": []
+    },
+    {
+      "id": "1547357877327372309",
+      "fecha_utc": "2026-09-09T21:27:46.474000+00:00",
+      "fecha_local": "2026-09-09",
+      "editado_utc": null,
+      "texto": "Coyote:\nAhhh.. si, si, también la suya\n\n**Le doy el trago a la bebida sin hacer mueca**\n\nUuuff, que bueno que está esto",
+      "mensaje_sha256": "aa3bcd78dec7895a988b0c61d9a8b127c40a6c0fa36ca5a5850135ddeeb9bd1f",
+      "tipo_discord": 19,
+      "referencia": "1547357671869390949",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1547357877327372309",
+      "texto_sha256": "9ea6eddafc95b455665ba1c55c8c934dee63f90b5ebcfad62b94f973480e5848",
+      "adjuntos": []
+    },
+    {
+      "id": "1547359295417614386",
+      "fecha_utc": "2026-09-09T21:33:24.573000+00:00",
+      "fecha_local": "2026-09-09",
+      "editado_utc": null,
+      "texto": "**Coyote ... \n\nsientes como te empieza a pesar los párpados... \npero aún sigues consciente para ver una sonrisa maquiavelica en la cara del gnomo desconocido que te ofreció una bebida ... \nlogras escuchar \"esta es una de las muchas formas \" respondiéndote así tu pregunta anterior . \n\ntu agudeza mental está vez ha topado con la de la criatura más buscada de todo Arghast . \nLo último que logras ver antes de que tus ojos se cierren del todo y pierdas la nocion de ser es como esa robot te coge en brazos y te baja al sótano de la choza de Archi . \n\nque pasará contigo Coyote ? \nhasta donde indagará el amable y simpático ancianito? \n\npróximamente en las mejores salas de Xoltacan **",
+      "mensaje_sha256": "815928e774590e1b0559246a8f2fd5ee8394cdd256238fa1c28f34de73e71779",
+      "tipo_discord": 19,
+      "referencia": "1547357877327372309",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1547359295417614386",
+      "texto_sha256": "dd71909dd8157548002e3cc8ddf4611671b81668c0a3fcf0b9c27b9a0bc6e774",
+      "adjuntos": []
+    }
+  ]
+}

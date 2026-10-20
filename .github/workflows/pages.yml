@@ -42,6 +42,7 @@ jobs:
           cp arghast.html _site/index.html
           cp xoltacan.html kuroto.html _site/
           if [ -d transcripciones ]; then cp -R transcripciones _site/; fi
+          if [ -d rol_escrito ]; then cp -R rol_escrito _site/; fi
 
       - name: Configurar GitHub Pages
         uses: actions/configure-pages@v5

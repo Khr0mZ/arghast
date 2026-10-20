@@ -1,0 +1,239 @@
+{
+  "id": "k-1424772778200006769",
+  "campana": "kuroto",
+  "unidad_revision": "k-1424772778200006769",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "El Rompeolas aborda La Flor de Loto",
+  "resumen": "La antigua tripulación de Seraphina masacra a los marineros y Sharky ordena llevársela como posible rehén.",
+  "relato": "La Flor de Loto sale de Puerto de las Espadas con cargamento y aprendices que ya han demostrado progreso. Spock aprecia el trabajo de su contramaestre. En la tercera noche del regreso, el vigía avisa de piratas. Seraphina ordena armarse y esconder a los más pequeños, pero al reconocer El Rompeolas, su antiguo navío, queda paralizada por el miedo. Los atacantes abordan y matan sin piedad a los grumetes mientras ella no consigue reaccionar. El capitán Sharky aparece entre la matanza y se burla de la excapitana. Seraphina recupera voz y furia: reclama que el barco le pertenece por voluntad del capitán Dimer y rechaza obedecerlo, recordando que ya no son pareja. Le da un puñetazo en la nariz, con escaso efecto. Sharky contempla la cubierta llena de su tripulación enemiga muerta, la golpea en el estómago y ordena llevarla al Rompeolas, planteando sacar un beneficio del Shogunato si quieren recuperarla. No se muestra aún el traslado, el cautiverio posterior ni una negociación de rescate.",
+  "participantes": [
+    "Seraphina",
+    "capitán Spock",
+    "capitán Sharky",
+    "tripulación de La Flor de Loto",
+    "piratas del Rompeolas"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1424772778200006769",
+      "afirmacion": "El navío vuelve cargado desde Puerto de las Espadas y recibe la alarma de piratas.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1424775932639707198",
+      "afirmacion": "Seraphina reconoce al Rompeolas y queda paralizada.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1424778522920095886",
+      "afirmacion": "Los piratas abordan y matan a los grumetes; aparece Sharky.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1424781686289334304",
+      "afirmacion": "Seraphina reclama la propiedad del Rompeolas por voluntad de Dimer.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1424788185862635520",
+      "afirmacion": "Seraphina recuerda que Sharky ya no es su pareja y lo golpea.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1424789981020426320",
+      "afirmacion": "Sharky golpea a Seraphina y ordena llevársela para obtener beneficio del Shogunato.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La muerte colectiva de la tripulación está descrita por el director; no se inventa una escena individual del destino de Spock o Pic.",
+    "La propiedad del Rompeolas es una reclamación explícita de Seraphina, no un título documental mostrado.",
+    "El vínculo de expareja con Sharky se declara aquí; no se confunde con la relación de Guxi ni con Alaister.",
+    "La cronología de la travesía es narrativa: no se iguala cada día del viaje con un día de publicación."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2025-10-06T14:58:21.321000+00:00",
+  "fin_utc": "2025-10-06T16:06:42.793000+00:00",
+  "fecha_local": "2025-10-06",
+  "intervalo": {
+    "anterior": 160,
+    "siguiente": 161,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1423373613540573317",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1425183138606219264",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 160,
+        "fecha": "2025-10-02",
+        "inicio_referencia_utc": "2025-10-02T18:18:19+00:00",
+        "fin_estimado_utc": "2025-10-02T21:07:14+00:00",
+        "duracion_video_segundos": 10135,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1423373613540573317"
+      },
+      {
+        "capitulo": 161,
+        "fecha": "2025-10-07",
+        "inicio_referencia_utc": "2025-10-07T18:08:41+00:00",
+        "fin_estimado_utc": "2025-10-07T20:58:07+00:00",
+        "duracion_video_segundos": 10166,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1425183138606219264"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1424772778200006769",
+      "fecha_utc": "2025-10-06T14:58:21.321000+00:00",
+      "fecha_local": "2025-10-06",
+      "editado_utc": null,
+      "texto": "**El navío Flor de Loto zarpaba del Puerto de las Espadas con un nuevo cargamento y un puñado de grumetes que, durante el viaje de ida, habían demostrado su valía. Ahora, su verdadera prueba sería el regreso.**\n**El capitán Spock se mostraba satisfecho, e incluso agradecido a su contramaestre, Seraphina, quien había sabido ganarse el respeto de todos: dura en la disciplina, pero justa y amable con los aprendices, logrando que cada uno de ellos rindiera lo mejor de sí mismo.**\n**Los dos primeros días transcurrieron sin mayor incidente, apenas sacudidos por un par de olas traicioneras y el vaivén propio del mar abierto. Sin embargo, en la tercera noche, el aire cambió. El silencio de la travesía se rompió de golpe cuando el vigía lanzó un grito desgarrador que hizo eco por todo el barco** ¡PIRATAS! PIRATAS! \n**La alarma encendió los corazones. En un instante, la tripulación entera despertó y corrió a cubierta, mientras las campanas repicaban y el océano oscuro parecía guardar su aliento, expectante de la batalla que estaba por comenzar.**\n<@408026114548695061>",
+      "mensaje_sha256": "fe132a0ce0c82cf6532ebb75736efc944e1f4aacd390fb56d4ff8f51e2fcc83f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1424772778200006769",
+      "texto_sha256": "2fd52a29828dcfdaef57b5d303767cabe1c1464235670d1edafd6b96ee7c3361",
+      "adjuntos": []
+    },
+    {
+      "id": "1424774076274180196",
+      "fecha_utc": "2025-10-06T15:03:30.806000+00:00",
+      "fecha_local": "2025-10-06",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\n**El sentimiento de angustia y peligro hacia que se me erizara los pelos de la nuca mientras tenía el timón en mis manos, indicandome que algo estaba a punto de suceder y en cuanto oí la advertencia, sali corriendo a cubierta para advertirle a todos y dar las siguientes instrucciones**\n\nA VER JOVENES!! ES MOMENTO DE ENTRAR EN COMBATE, LOS PIRATAS NO SUELEN TENTARSE EL CORAZÓN CUANDO SE TRATA DE TOMAR LO QUE NO ES SUYO, ASI QUE LOS QUIERO ESPAVILADOS, NADIE VA A MORIR MIENTRAS LA TEMPESTAD ESTA AQUÍ, ASI QUE TOMEN SUS ARMAS, LOS MAS PEQUEÑOS ESCONDANSE EN LOS CAMAROTES!!, ESTO SE VA A PONER TURBIO!!",
+      "mensaje_sha256": "858102b930202123d6228c4e9d38defd5a946ce7b5d9a8a696a20daad28e8e8d",
+      "tipo_discord": 19,
+      "referencia": "1424772778200006769",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1424774076274180196",
+      "texto_sha256": "f0d3236df523a3133be3810850c70f086d7311b5ec18875c87156f72ce83f7d2",
+      "adjuntos": []
+    },
+    {
+      "id": "1424775932639707198",
+      "fecha_utc": "2025-10-06T15:10:53.398000+00:00",
+      "fecha_local": "2025-10-06",
+      "editado_utc": null,
+      "texto": "**Los grumetes y marineros agarraron sus sables y pistolas preparados para el ataque inminente del barco que se acercaba a toda vela. La tensión se respiraba en el ambiente, nervios, incertidumbre y miedo inundaba los corazones de esos hombres. Pero los gritos de su contramaestre Seraphina los lleno con algo de esperanza.**\n**El barco pirata se acerco a una distancia por la cual ya era reconocible a simple vista. Y en ese momento, todo cambio, notaste como todos tus pelos se erizaban, tus piernas temblaban y tus manos parecían perder toda su fuerza, incluso dejaste caer el catalejo... Esa bandera... Ese barco... Era tu antiguo navío... El Rompeolas... Tu antigua tripulación estaba a punto de abordar tu nuevo barco y tu cuerpo no parecía responder**",
+      "mensaje_sha256": "19faa5ab6c2a85831b49b7652e1e9db70948f9599750507f18747277f6475fd7",
+      "tipo_discord": 19,
+      "referencia": "1424774076274180196",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1424775932639707198",
+      "texto_sha256": "ddf167b714a4d1373932d16346fb6d63eb48a52a5553ccacf1f1a5152c207871",
+      "adjuntos": []
+    },
+    {
+      "id": "1424776736343855244",
+      "fecha_utc": "2025-10-06T15:14:05.016000+00:00",
+      "fecha_local": "2025-10-06",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\n**Estaba a nada de caerme de rodillas al ver de nuevo mi barco, mi tan apreciado barco y que me pertenecia, el mismo del que me echaron cual basura marina**\n\nAy no...\n\n**Intenté gritar que los grumetes y marineros se fueran de ahí, que estos no eran simples piratas, eran unos hijos de perra, pero no salió voz alguna de mi, no hubo instrucciones, no hubo alertas, no hubo nada...**",
+      "mensaje_sha256": "2cc54ed2bef338b247ef4eeb1c3d4700281fff0acb621c2f4359d75159d3ac3c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1424776736343855244",
+      "texto_sha256": "1d119c3746f83f0c918203b6eb00d47a051080a26c55eec9804b058d5e0a405d",
+      "adjuntos": []
+    },
+    {
+      "id": "1424778522920095886",
+      "fecha_utc": "2025-10-06T15:21:10.969000+00:00",
+      "fecha_local": "2025-10-06",
+      "editado_utc": null,
+      "texto": "**Lo que si hubo fueron gritos. Gritos de jolgorio procedentes del barco pirata mientras estos abordaban la Flor de Loto con facilidad. También hubo los gritos de los grumetes al ser heridos de muerte por los sabes y pistolas de los piratas que no tenían ninguna piedad. Te quedaste ahí, inmovilizada, tu cuerpo no respondía mientras veías a los pobres hombres morir ante tu antigua tripulación. Y entonces una voz, una voz grave y ronca que conocías muy bien apareció detrás de un joven grumete que corria hacia ti. El pobre, se abrió por la mitad en vertical revelando al ser detrás de él el cual te había hablado**\nCapitán Sharky: ¡Oh vaya vaya! ¡Mierdecillas, mirad lo que nos ha devuelto el mar! **Dijo con una terrible sonrisa que revelaba todos sus dientes afilados**",
+      "mensaje_sha256": "f5f7bd1d77cccb91d126e0d2c7e54e5b261959fb0cd8adac44ce32af35983136",
+      "tipo_discord": 19,
+      "referencia": "1424776736343855244",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1424778522920095886",
+      "texto_sha256": "baae29c32c714b57d67bc9a5ae8a192bbae0461c6a36e08972f009f9af4f7a99",
+      "adjuntos": []
+    },
+    {
+      "id": "1424779756515233833",
+      "fecha_utc": "2025-10-06T15:26:05.081000+00:00",
+      "fecha_local": "2025-10-06",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\n**Mi nariz se agitaba con temor y mis pies tamborileaban contra la cubierta, sonando raro por la sangre que ya se encontraba derramada**\n\nS...Shar..Sharky...\n\n**Mi mirada subió poco a poco hacia su rostro, estaba tal cual lo recordaba, esa mirada desquiciada, esas cicatrices, todo de ese mal parido seguía igual**\n\nNo..no deberían de..de estar aquí...",
+      "mensaje_sha256": "ab67f5db68e62d7b36f88719f50d3f5796d64e1490948413023697d6d31b8874",
+      "tipo_discord": 19,
+      "referencia": "1424778522920095886",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1424779756515233833",
+      "texto_sha256": "bde16ade3ab61ee95b01e4947c49da0bf518e0d71268a7a677da04527885ddd9",
+      "adjuntos": []
+    },
+    {
+      "id": "1424780398386352210",
+      "fecha_utc": "2025-10-06T15:28:38.115000+00:00",
+      "fecha_local": "2025-10-06",
+      "editado_utc": null,
+      "texto": "Capitán Sharky: ¿Yo? El mar me pertenece...excapitana **Dice esa última palabra en tono de burla mientras rie** La pregunta és, ¿Que es lo que haces tu en un barco del Shogunato?",
+      "mensaje_sha256": "e39e10d6089ffd57e5d08b4d529efc2b3283e13d1a07128aeff5da33a231462e",
+      "tipo_discord": 19,
+      "referencia": "1424779756515233833",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1424780398386352210",
+      "texto_sha256": "97c0764719b5eb67e5a1412a2c9f6a9d2dbc6283808f82f02382e023fe6102d2",
+      "adjuntos": []
+    },
+    {
+      "id": "1424781686289334304",
+      "fecha_utc": "2025-10-06T15:33:45.175000+00:00",
+      "fecha_local": "2025-10-06",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\nEl mar es de todos y a la vez de nadie, así que no te hagas ilusiones, bien sabes lo que hicieron para quitarme de sus caminos..\n\n**El miedo se iba convirtiendo en furia después de escuchar \"Excapitana\"**\n\nY no tengo que rendirte informes, el Rompeolas me pertenece, lo dejo muy claro el Capitán Dimer y tu presencia es innecesaria aquí, así que saca tu asqueroso culo de las aguas y regresa a tu puto lugar!!",
+      "mensaje_sha256": "794d1f74d532ca605556db54c2b9b8bad31d33d296bc4d12394ddec59e9768a1",
+      "tipo_discord": 19,
+      "referencia": "1424780398386352210",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1424781686289334304",
+      "texto_sha256": "d8cc5d4a0ce5a5f1f019606d58ac12a241d2335384740048ba3d4fd6af055ece",
+      "adjuntos": []
+    },
+    {
+      "id": "1424782816675233792",
+      "fecha_utc": "2025-10-06T15:38:14.680000+00:00",
+      "fecha_local": "2025-10-06",
+      "editado_utc": null,
+      "texto": "Capitan Sharky: Ja ja ja ja ja como siempre eres una bocazas. **Ves al enorme capitán riendo a carcajadas** ¿Quieres que me vaya de este barco? No me gustaría dejarte a ti sola en este barco, no llegarías a puerto **Ves que te sonríe y señala hacia su espalda. Donde ves a los piratas masacrar a cada uno de los grumetes, dejando la cubierta llena de cuerpos sin vida y una enorme mancha de sangre** Creo que vuelves al Rompeolas, excapitana **Ves como relame la sangre de su arma**",
+      "mensaje_sha256": "e21510342d50250ca8b43e29da0b8054a8673f51acf37638c0ffd8fefb03d049",
+      "tipo_discord": 19,
+      "referencia": "1424781686289334304",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1424782816675233792",
+      "texto_sha256": "9316794ada925c334239985546a2457d11e81529193fa14180571a829867924c",
+      "adjuntos": []
+    },
+    {
+      "id": "1424788185862635520",
+      "fecha_utc": "2025-10-06T15:59:34.794000+00:00",
+      "fecha_local": "2025-10-06",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\nNo voy a obedecer tus órdenes... Y hablame con respeto, ya no soy la chica a la que manipulabas antes, soy la Capitana Longhop, mencionalo aunque gastes más saliva, aunque eso no fue impedimento para ti \n\n**Mi puño se tensó y en un movimiento veloz busqué conectarle un puñetazo en la nariz como lo había hecho en el reino de Kalista**\n\nRECUERDA QUE YA NO SOMOS PAREJA PARA QUE ME ESTES ORDENANDO!! IMBÉCIL!!",
+      "mensaje_sha256": "9d86067bc7b926a20ca6d318b93a581d635faa7bcf2de086be3e409eb02f1593",
+      "tipo_discord": 19,
+      "referencia": "1424782816675233792",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1424788185862635520",
+      "texto_sha256": "c07f765b9a51b0d2545f14f4b2b2b9c70a6eab8d921bee427bf68f9b4699dcd8",
+      "adjuntos": []
+    },
+    {
+      "id": "1424789981020426320",
+      "fecha_utc": "2025-10-06T16:06:42.793000+00:00",
+      "fecha_local": "2025-10-06",
+      "editado_utc": null,
+      "texto": "Capitán Sharky: **Le das en la nariz, pero ves que está se mueve un poquito y este te sonríe mientras mira a toda la tripulación del Shogunato muerta en cubierta** ¿Capitana? ¿De quien? **Todos los piratas empiezan a reírse a carcajadas al escuchar el \"chiste\" de su capitán. Sharky vuelve a mirarte y está vez te da un puñetazo en todo el estomago con su enorme brazo que es como dos veces tu** Muchachos, llevadla al Rompeolas. Quizá saquemos algo de ese Shogunato si la quieren de vuelta\n\n🔴Fin de la escena 🔴",
+      "mensaje_sha256": "7aa6b5eb44e072c80b9d5d4d97663efc968f8737065944e9f6d7ef2034eeada7",
+      "tipo_discord": 19,
+      "referencia": "1424788185862635520",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1424789981020426320",
+      "texto_sha256": "1cfbcac84f56369195b59c202b0a3a76adaaaa84f5a8e4d93a83612a1e54f427",
+      "adjuntos": []
+    }
+  ]
+}

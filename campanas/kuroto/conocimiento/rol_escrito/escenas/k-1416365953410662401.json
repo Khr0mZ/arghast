@@ -1,0 +1,154 @@
+{
+  "id": "k-1416365953410662401",
+  "campana": "kuroto",
+  "unidad_revision": "k-1416365953410662401",
+  "hilo_id": "1379945696089604209",
+  "hilo_nombre": "Sho, Barrios bajos - Capital de Kuroto",
+  "titulo": "Archi estudia el cofre robado en su escondite",
+  "resumen": "Un mecanismo de cuarzo abre su sala secreta. El cofre tiene símbolos enlazados que impiden abrirlo sin riesgo.",
+  "relato": "Archi vuelve al taller y acciona una secuencia de cuadro, libro y pedestal. Coloca cuarzo para dirigir luz mediante un espejo hacia una puerta oculta, que abre con una palabra gnomica. Dentro hay una construcción que el texto deja entre portal y altar. Una voz en su cabeza celebra que se acerque su gran momento, sin identificarse.\n\nEl gnomo convoca su baúl y saca de él el cofre robado. La cerradura está protegida con magia y varios símbolos enlazados: activar uno podría desencadenarlos todos. Tras estudiarlos reconoce seis, entre ellos Muerte, Sueño y Desesperación, y sospecha que hay más. La escena termina con la investigación; no abre el cofre ni descubre su contenido.",
+  "participantes": [
+    "Archi",
+    "Voz mental no identificada"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1416365953410662401",
+      "afirmacion": "El mecanismo de cuarzo permite entrar en una sala oculta.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1416367743887736903",
+      "afirmacion": "La cerradura enlaza varios símbolos mágicos.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1416371292189233285",
+      "afirmacion": "Reconoce seis símbolos y sospecha más.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No se identifica la voz por conjetura ni se decide si la construcción es portal o altar.",
+    "El contenido del cofre sigue sin mostrarse."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-09-13T10:12:38.100000+00:00",
+  "fin_utc": "2025-09-13T10:33:50.964000+00:00",
+  "fecha_local": "2025-09-13",
+  "intervalo": {
+    "anterior": 156,
+    "siguiente": 157,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1415765542228332665",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1417940586811363481",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 156,
+        "fecha": "2025-09-11",
+        "inicio_referencia_utc": "2025-09-11T18:26:34+00:00",
+        "fin_estimado_utc": "2025-09-11T22:04:21+00:00",
+        "duracion_video_segundos": 13067,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1415765542228332665"
+      },
+      {
+        "capitulo": 157,
+        "fecha": "2025-09-17",
+        "inicio_referencia_utc": "2025-09-17T18:29:21+00:00",
+        "fin_estimado_utc": "2025-09-17T21:15:50+00:00",
+        "duracion_video_segundos": 9989,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1417940586811363481"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1416365953410662401",
+      "fecha_utc": "2025-09-13T10:12:38.100000+00:00",
+      "fecha_local": "2025-09-13",
+      "editado_utc": null,
+      "texto": "Archi : **sale de la ducha,  ya esta en el taller de Archivolt Industries  . \nAl bajar a su habitación,  giraria uno de los cuadros que tiene colgados , acto seguido mueve un libro de su estantería que acciona un mecanismo , del cual un pedestal sale del suelo . \nArchi coloca una piedra de cuarzo que lleva encima en el pedestal y de ella sale un rayo de luz que rebota en el espejo y apunta hacia la pared . En ella ahora si , se veria una pequeña puerta ** \nAlijo ! **diría en gnomico \nLa puerta se abre y archi pasa a gatas para llegar a una sala oscura donde parece que esta construyendo una especie de ... portal o altar? ** \n\n*ya lo tengo todo boss , es hora de dar inicio al show* <@214405113677217793>",
+      "mensaje_sha256": "aa9c1400ec0f3d897ba86cc61cbf7af8f263814785bcbe5047d5de1829ef3f72",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1416365953410662401",
+      "texto_sha256": "3cd920d8118f5601975661b9d2d0dbd90a12df396fc6f7ef0db85645bf9b1c8c",
+      "adjuntos": []
+    },
+    {
+      "id": "1416366584909267076",
+      "fecha_utc": "2025-09-13T10:15:08.661000+00:00",
+      "fecha_local": "2025-09-13",
+      "editado_utc": null,
+      "texto": "??: **La voz de tu cabeza se regocija** Bien hecho mi pequeño amigo. Ya queda poco para nuestro gran momento",
+      "mensaje_sha256": "dafe9f0718d6e3213b7b2ebf794e6164d56c1c93bdec43f9bd602abec2b23801",
+      "tipo_discord": 19,
+      "referencia": "1416365953410662401",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1416366584909267076",
+      "texto_sha256": "8a1431037a8964cb9b4ccf5ffdc32ed1426c699165481e5b77dccbd18790c05c",
+      "adjuntos": []
+    },
+    {
+      "id": "1416367151941681263",
+      "fecha_utc": "2025-09-13T10:17:23.852000+00:00",
+      "fecha_local": "2025-09-13",
+      "editado_utc": null,
+      "texto": "Archi: **chasquea los dedos y el baúl aparece ante el , lo abre y dentro esta el cofre robado . \nLo examina , tendria cerradura ? ** <@214405113677217793>",
+      "mensaje_sha256": "b624edd9c5ee32d552700931edd6862c7a4831bc955da2f28a5ee41231099c7b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1416367151941681263",
+      "texto_sha256": "cd821659f40c7a16f5f42d59ea9c645fe860677b37a877a3f98963a11a48cf3d",
+      "adjuntos": []
+    },
+    {
+      "id": "1416367743887736903",
+      "fecha_utc": "2025-09-13T10:19:44.983000+00:00",
+      "fecha_local": "2025-09-13",
+      "editado_utc": null,
+      "texto": "**Ves que el ornamentada cofre tiene un complicado sistema de cerradura protegida con magia. Parece que tiene varios de esos símbolos como el que encontraste en la puerta. Si activas uno, los activarás todos...**",
+      "mensaje_sha256": "0bf333a36a4654de4e1e100777f194e44c7e2cd52df0dbbedde0e8c32614c9a6",
+      "tipo_discord": 19,
+      "referencia": "1416367151941681263",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1416367743887736903",
+      "texto_sha256": "05d3a35e11bb2cf38d3b5ea293c80a3fa7718993e0456d8d20556bd09cd6f5fa",
+      "adjuntos": []
+    },
+    {
+      "id": "1416369906232070184",
+      "fecha_utc": "2025-09-13T10:28:20.526000+00:00",
+      "fecha_local": "2025-09-13",
+      "editado_utc": "2025-09-13T10:28:29.517000+00:00",
+      "texto": "Archi: *bien , a qui tengo lo que necesito*\n. El gnomo empieza a escudriñar cada símbolo,  tendra que consultar algunos apuntes y buscar información sobre algunos otros si quiere que esto sea igual de limpio que el robo **",
+      "mensaje_sha256": "d7efc8e9745bf9a8d323442222a881ebaf8672f76f5da76078c5b1ee5be8ec0c",
+      "tipo_discord": 19,
+      "referencia": "1416367743887736903",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1416369906232070184",
+      "texto_sha256": "a78d1cf92db12deb72de030d9fdf8bf789fccac241048b7fe021c56e7f1368a5",
+      "adjuntos": []
+    },
+    {
+      "id": "1416371292189233285",
+      "fecha_utc": "2025-09-13T10:33:50.964000+00:00",
+      "fecha_local": "2025-09-13",
+      "editado_utc": "2025-09-15T08:09:47.814000+00:00",
+      "texto": "**Pasas un largo investigando y escudriñando esos símbolos. Logras ver seis de ellos, entre los que están, el símbolo de la muerte, el del sueño, el de la desesperación y algunos más. Aunque sabes que lo más seguro es que el cofre tenga más símbolos. Si aquí dentro hay lo que buscas, estará bien protegido**\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "2ebf40df3d25649210efdc13af3e0866725dbb0735a76cfd3633c43510abfa65",
+      "tipo_discord": 19,
+      "referencia": "1416369906232070184",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1416371292189233285",
+      "texto_sha256": "2e71f66ad17dd8f72ddb8fd376142551e5f0baa81292f8f07efa8ecfdfda1d1e",
+      "adjuntos": []
+    }
+  ]
+}

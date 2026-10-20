@@ -1,0 +1,142 @@
+{
+  "id": "k-1410739475075825684",
+  "campana": "kuroto",
+  "unidad_revision": "k-1410739475075825684",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "La carta del Terror Metálico",
+  "resumen": "Guxi invita a Sera a beber en la taberna de Ushi y ella acude.",
+  "relato": "Seraphina está sentada en Sho, pensando con incertidumbre en su acercamiento a Alaister y en qué dirá si alguien se entera, cuando una carta cae sobre sus manos. Reconoce la letra de Guxi. El mensaje adopta un tono de cortejo: dice que su belleza lo cautivó desde que la vio en alta mar y la invita a tomar unas copas en la taberna de Ushi, firmado como «g el terror metálico». La fórmula provoca una sonrisa en Sera. Se arregla la ropa, se pone el collar que le había regalado y sale directamente hacia la taberna. La cita no se representa en este fragmento.",
+  "participantes": [
+    "Seraphina",
+    "Guxi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1410740352285147156",
+      "afirmacion": "Sera reflexiona en privado sobre su acercamiento a Alaister y abre la carta.",
+      "tipo": "pensamiento"
+    },
+    {
+      "mensaje_id": "1410741055787237468",
+      "afirmacion": "La carta está escrita por Guxi e invita a la taberna de Ushi con la firma del Terror Metálico.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1410742136340742245",
+      "afirmacion": "Sera se arregla, se pone el collar recibido y se dirige a la taberna.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La inquietud de Sera es privada y no constituye una confesión a Guxi.",
+    "El collar es un regalo nombrado por ella; no se identifica automáticamente con la insignia de Cazador.",
+    "La invitación aceptada no confirma por sí sola reconciliación o compromiso restablecido."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2025-08-28T21:35:01.130000+00:00",
+  "fin_utc": "2025-08-28T21:46:58.013000+00:00",
+  "fecha_local": "2025-08-28",
+  "intervalo": {
+    "anterior": 152,
+    "siguiente": 153,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1410686619970699395",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1412135728854339686",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 152,
+        "fecha": "2025-08-28",
+        "inicio_referencia_utc": "2025-08-28T18:04:44+00:00",
+        "fin_estimado_utc": "2025-08-28T21:13:03+00:00",
+        "duracion_video_segundos": 11299,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1410686619970699395"
+      },
+      {
+        "capitulo": 153,
+        "fecha": "2025-09-01",
+        "inicio_referencia_utc": "2025-09-01T18:02:52+00:00",
+        "fin_estimado_utc": "2025-09-01T21:02:25+00:00",
+        "duracion_video_segundos": 10773,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1412135728854339686"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1410739475075825684",
+      "fecha_utc": "2025-08-28T21:35:01.130000+00:00",
+      "fecha_local": "2025-08-28",
+      "editado_utc": null,
+      "texto": "**una carta cae encima de seraphina lentamente hacia sus manos** <@408026114548695061>",
+      "mensaje_sha256": "7d5d5e38344d20e5786d8147dd819464cfe14fa87a89f3a2df67a572ab388d4f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1410739475075825684",
+      "texto_sha256": "ac87ecfc7577a704645112120f7de5ff04e30349d2507a60458556acda93ec2b",
+      "adjuntos": []
+    },
+    {
+      "id": "1410740352285147156",
+      "fecha_utc": "2025-08-28T21:38:30.273000+00:00",
+      "fecha_local": "2025-08-28",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Estaba sentada en una de las mesas de la base, tratando de recapacitar todo lo que hice en estos días, no estaba segura de si haberme liado con Alaister y la cabeza me daba bastantes vueltas**\n\nAhora que le voy a decir si se entera?...\n\n**Vi una carta caer sobre mis manos**\n\nY esto?\n\n**La abrí con bastante curiosidad**",
+      "mensaje_sha256": "895fb6ce0f944e9fca60fda5da3a210ef31e363b6339909fcd7e4ca0a37ec1aa",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1410740352285147156",
+      "texto_sha256": "1c62863e18c3666ea86824d17aa69effe1b12754ef5201ba7cad3cf5d09684dc",
+      "adjuntos": []
+    },
+    {
+      "id": "1410741055787237468",
+      "fecha_utc": "2025-08-28T21:41:18.001000+00:00",
+      "fecha_local": "2025-08-28",
+      "editado_utc": null,
+      "texto": "**la carta tiene una letra que conoces muy bien es la de guxi**\nQuerida señorita seraphina me gustaria invitarla a beber unas copas  desde que mis ojos la vieron en alta mar han quedado prendados de su belleza si desea aceptar mi solicitud capitana estare en la taberna de ushi \natt g el terror metalico",
+      "mensaje_sha256": "a36ae8f1c6bc66ab9b176f47f19df14fd6fcdfdfe86c3e888e0e42136f3ac294",
+      "tipo_discord": 19,
+      "referencia": "1410740352285147156",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1410741055787237468",
+      "texto_sha256": "e22162fb8d033f7adc31bb1afce17a84d131b2116c71803f7942a515cedc8dca",
+      "adjuntos": []
+    },
+    {
+      "id": "1410742136340742245",
+      "fecha_utc": "2025-08-28T21:45:35.625000+00:00",
+      "fecha_local": "2025-08-28",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Una leve sonrisa se mostró en mi rostro**\n\nEl terror metálico, claaaaro\n\n**Me levanté de la silla y salí directo a la taberna de Ushi, no sin antes arreglarme las vestimentas y ponerme el collar que me había dado**",
+      "mensaje_sha256": "1db4d45c60df55493ea10997ad6440f20d2a8bab7fd48b41dfead08665561da1",
+      "tipo_discord": 19,
+      "referencia": "1410741055787237468",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1410742136340742245",
+      "texto_sha256": "140af57f8192ed8dec80fc066c514bc9a61b44a8b7467c7f3657e3f0765b9d5a",
+      "adjuntos": []
+    },
+    {
+      "id": "1410742481901060186",
+      "fecha_utc": "2025-08-28T21:46:58.013000+00:00",
+      "fecha_local": "2025-08-28",
+      "editado_utc": null,
+      "texto": "🏴‍☠️ Seraphina sale de escena 🏴‍☠️",
+      "mensaje_sha256": "dde6be493a5bac01160d658f30942ead01608e26eafee0801d1ab1b32ce96542",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1410742481901060186",
+      "texto_sha256": "40c163f83664f99db128352b7dfac8e53645c6353561699ca3d8df6b74bc6a34",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "k-1367490991858253957",
+  "campana": "kuroto",
+  "unidad_revision": "k-1367490991858253957",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Flores y agua para el cortejo fúnebre",
+  "resumen": "Khora consulta la ruta funeraria del Shogun y la adorna con flores, cascadas, piedra y bayas antes de marcharse volando.",
+  "relato": "Un águila real desciende hasta las puertas del palacio del Shogun y allí recupera la forma de Khora. La druida pregunta a un samurái por la ruta del acto fúnebre. Tras recibir respuesta, recorre el trayecto haciendo crecer flores de colores vivos. En la zona final añade masas de agua que forman cascadas como símbolo de pureza, y muros de piedra con lianas que rodean el agua. Sobre las plantas aplica buenas bayas para representar la continuidad de la vida. Después de revisar los preparativos, vuelve a transformarse en águila y se eleva hasta perderse de vista. El texto termina antes de la ceremonia.",
+  "participantes": [
+    "Khora",
+    "Samurái de las puertas del palacio"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1367490991858253957",
+      "afirmacion": "Khora consulta la ruta funeraria a un samurái y la llena de flores mediante crecimiento de plantas.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1367490991858253957",
+      "afirmacion": "Khora prepara cascadas, muros con lianas ybuenas bayas como símbolos del homenaje, después se marcha convertida en águila.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Es una preparación narrativa de Khora; no se muestra el cortejo ni la recepción del homenaje por la corte.",
+    "La ruta concreta y los nombres de sus calles no aparecen. No reconstruir un itinerario cartográfico."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-01T13:20:59.213000+00:00",
+  "fin_utc": "2025-05-01T13:21:05.998000+00:00",
+  "fecha_local": "2025-05-01",
+  "intervalo": {
+    "anterior": 110,
+    "siguiente": 111,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367206327377727518",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 110,
+        "fecha": "2025-04-30",
+        "inicio_referencia_utc": "2025-04-30T18:29:35+00:00",
+        "fin_estimado_utc": "2025-04-30T20:53:27+00:00",
+        "duracion_video_segundos": 8632,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367206327377727518"
+      },
+      {
+        "capitulo": 111,
+        "fecha": "2025-05-01",
+        "inicio_referencia_utc": "2025-05-01T18:30:18+00:00",
+        "fin_estimado_utc": "2025-05-01T21:17:50+00:00",
+        "duracion_video_segundos": 10052,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1367490991858253957",
+      "fecha_utc": "2025-05-01T13:20:59.213000+00:00",
+      "fecha_local": "2025-05-01",
+      "editado_utc": null,
+      "texto": "**Aparece un águila real volando a gran altura. Se ve como desciende en picado hasta las puertas del palacio del Shogun. Khora se destransforma y habla con un Samurái de las puertas para preguntarse sobre la ruta del acto fúnebre. Cuando éste le contesta, Khora realiza el paso pero haciendo el hechizo de crecimiento de las plantas, quedándose la zona llena de flores de colores variados y vibrantes**\n\n**Cuando llega a la zona final, a parte de ese hechizo, hace otro de creación de masas de agua, creando varias cascadas de agua en símbolo de pureza, y muros de piedra de los que caen lianas bordeando el agua, a las que les realiza el hechizo de buenas bayas, simbolizando la continuación de la vida. Después de revisar que todo esté perfecto para el acto, se vuelve a transformar en un águila y vuelve a volar hacia arriba hasta que se le pierde de vista**",
+      "mensaje_sha256": "7f8b31a42052f2a80722d8cab16c2b569fa2f3cb8aa1ac495b9abff1e28a0d26",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1367490991858253957",
+      "texto_sha256": "5994c7007490a4ef08d044949bf31de60274878ab3f889c048aa85326ffd78b1",
+      "adjuntos": []
+    },
+    {
+      "id": "1367491020316606597",
+      "fecha_utc": "2025-05-01T13:21:05.998000+00:00",
+      "fecha_local": "2025-05-01",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "e4a88a230e9318eb2a0a8db1b9ca2d98c8bf1c44b193ac690556f3b5f180a5fd",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1367491020316606597",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "k-1405825579961548840",
+  "campana": "kuroto",
+  "unidad_revision": "k-1405678554502533120",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "Guxi vuelve a trabajar en la comunicación del campamento",
+  "resumen": "El artesano retoma la piedra de comunicación después de regresar de la misión.",
+  "relato": "Guxi regresa de la misión con Banzo y los demás y retoma por su cuenta el trabajo en la piedra de comunicación del Campamento Sur. No se describe qué mejora realiza ni se declara terminado el dispositivo. Su siguiente mensaje indica que sale de escena. Esta breve acción de mantenimiento ocurre aparte de la conversación entre Seraphina y Kurobane en el refugio.",
+  "participantes": [
+    "Guxi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1405825579961548840",
+      "afirmacion": "Guxi trabaja de nuevo en la piedra de comunicación del campamento.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La conversación de los Guardianes no se reconstruye desde estas alusiones.",
+    "La escena del refugio continúa en k-1406074358467788903.",
+    "Las dos intervenciones de Guxi corresponden a otro lugar y momento; se separan como subescena y no lo convierten en testigo de la intimidad de los otros personajes."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-08-15T08:08:57.239000+00:00",
+  "fin_utc": "2025-08-15T17:12:49.440000+00:00",
+  "fecha_local": "2025-08-15",
+  "intervalo": {
+    "anterior": 145,
+    "siguiente": 146,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1405610480659202078",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1405973993948975124",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 145,
+        "fecha": "2025-08-14",
+        "inicio_referencia_utc": "2025-08-14T17:53:54+00:00",
+        "fin_estimado_utc": "2025-08-14T21:52:01+00:00",
+        "duracion_video_segundos": 14287,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1405610480659202078"
+      },
+      {
+        "capitulo": 146,
+        "fecha": "2025-08-15",
+        "inicio_referencia_utc": "2025-08-15T17:58:25+00:00",
+        "fin_estimado_utc": "2025-08-15T21:02:41+00:00",
+        "duracion_video_segundos": 11056,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1405973993948975124"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1405825579961548840",
+      "fecha_utc": "2025-08-15T08:08:57.239000+00:00",
+      "fecha_local": "2025-08-15",
+      "editado_utc": null,
+      "texto": "guxi:\n**despues de volver de la mision con banzo y los demas ha vuelto a trabajar en la piedra de comunicacion del campamento sur**",
+      "mensaje_sha256": "85e88730777121156de02517b19cc2cfdc92201a839132c1598cb6935031de9c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1405825579961548840",
+      "texto_sha256": "fef32f66696045fd9305378a189cc8480ab1a5e26d500abe4eb8a00ad2da840b",
+      "adjuntos": []
+    },
+    {
+      "id": "1405962449332474027",
+      "fecha_utc": "2025-08-15T17:12:49.440000+00:00",
+      "fecha_local": "2025-08-15",
+      "editado_utc": null,
+      "texto": "🔩 guxi sale de escena🔩",
+      "mensaje_sha256": "98ee771e5fddecb7dd6ec18c111b9f84b0688d2026fc8a8a85740f642d635d46",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1405962449332474027",
+      "texto_sha256": "e684c549af93a258b115f68a37386a6f33541b453519e2877a0cc24cd84938f3",
+      "adjuntos": []
+    }
+  ]
+}

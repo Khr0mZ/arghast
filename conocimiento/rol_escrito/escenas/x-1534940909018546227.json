@@ -1,0 +1,91 @@
+{
+  "id": "x-1534940909018546227",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1534940909018546227",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "Naór ve aparecer la Luna de Fuego",
+  "resumen": "Mientras patrulla, la princesa se inquieta por un cambio rojizo de la luna y por las respuestas que aún espera.",
+  "relato": "Naór patrulla las murallas de Iktan con los guardias. En silencio se pregunta por la tardanza del emisario de Aztlán y por la falta de confirmación de Perlasal a la reunión. Al mirar el cielo ve que la luz de la luna llena empieza a volverse rojiza. Reconoce o sospecha que se trata de la Luna de Fuego y se sorprende de verla en esa época del año. El cierre deja la observación sin explicación ni reacción de otros personajes.",
+  "participantes": [
+    "Naór"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1534940909018546227",
+      "afirmacion": "Naór observa la luna enrojecida y se pregunta si es la Luna de Fuego fuera de su época habitual.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No se fija una causa astronómica o mágica ni una profecía por el color.",
+    "Las dudas sobre Aztlán y Perlasal son privadas y no demuestran una respuesta negativa de sus líderes."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-08-06T15:07:10.533000+00:00",
+  "fin_utc": "2026-08-06T21:02:52.902000+00:00",
+  "fecha_local": "2026-08-06",
+  "intervalo": {
+    "anterior": 48,
+    "siguiente": 51,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1532095200023937216",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1536091712404066304",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 48,
+        "fecha": "2026-07-29",
+        "inicio_referencia_utc": "2026-07-29T18:34:59+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1532095200023937216"
+      },
+      {
+        "capitulo": 51,
+        "fecha": "2026-08-09",
+        "inicio_referencia_utc": "2026-08-09T19:15:40+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1536091712404066304"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1534940909018546227",
+      "fecha_utc": "2026-08-06T15:07:10.533000+00:00",
+      "fecha_local": "2026-08-06",
+      "editado_utc": null,
+      "texto": "Naór: \n\n**La noche había caído por completo sobre Iktan. Desde lo alto de las murallas, Naór patrullaba junto a los guardias, vigilando el horizonte mientras una brisa cálida agitaba suavemente su melena.**\n\n*No entiendo qué habrá pasado con el emisario de Aztlán... Está tardando demasiado. Y los de Perlasal... aún no han dado el sí a la reunión...*\n\n**Su mirada se perdió en la inmensidad del cielo nocturno. La luna llena dominaba el firmamento, pero algo hizo que frunciera el ceño. Poco a poco, su resplandor plateado comenzó a teñirse de un inquietante color rojizo.\n\nLos ojos de la leona se abrieron con sorpresa.**\n\n*¿La Luna de Fuego...? ¿En esta época del año...?* <@410954935421763585>  <@214405113677217793>",
+      "mensaje_sha256": "a8e68fb599700ef730a5f5cdded20b1300975d5cdfd7b6ea73cee44a537cb470",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1534940909018546227",
+      "texto_sha256": "f26e1ebd54009a52221618e04dc351b53a04e403128f0987a6c3db71bd291008",
+      "adjuntos": []
+    },
+    {
+      "id": "1535030425402085489",
+      "fecha_utc": "2026-08-06T21:02:52.902000+00:00",
+      "fecha_local": "2026-08-06",
+      "editado_utc": null,
+      "texto": "🔴 FIN DE LA ESCENA🔴",
+      "mensaje_sha256": "14f663bc3f5ae67e09d2b5f290a4953cf5995819d0f7c1f8c905fad96a4327e4",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1535030425402085489",
+      "texto_sha256": "11e202ab419420f8fc4877fcc6ac88b0e80ad9bc44cd13febb30e34eb4788021",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "x-1527444416187596951",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1527444416187596951",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "Leo espera bajo la lluvia",
+  "resumen": "El niño lleva dos horas ante el colegio, temiendo que Naór no llegue a buscarlo.",
+  "relato": "Leo permanece en la puerta del colegio después de dos horas de espera. Se pregunta en silencio si su madre vendrá. La lluvia está a punto de empezar y el mensaje cierra el momento a la espera de que alguien lo recoja. No muestra un abandono definitivo ni explica todavía quién debía hacerse cargo de él.",
+  "participantes": [
+    "Leo"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1527444416187596951",
+      "afirmacion": "Leo espera dos horas y duda interiormente de que su madre venga.",
+      "tipo": "pensamiento"
+    }
+  ],
+  "notas": [
+    "El cierre anticipa una continuación, que aparece cuando llega Tessa en la unidad siguiente."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-07-16T22:38:47.364000+00:00",
+  "fin_utc": "2026-07-16T22:38:47.364000+00:00",
+  "fecha_local": "2026-07-17",
+  "intervalo": {
+    "anterior": 45,
+    "siguiente": 46,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527375684333338644",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1529917702439698493",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 45,
+        "fecha": "2026-07-16",
+        "inicio_referencia_utc": "2026-07-16T18:02:20+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527375684333338644"
+      },
+      {
+        "capitulo": 46,
+        "fecha": "2026-07-23",
+        "inicio_referencia_utc": "2026-07-23T18:26:16+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1529917702439698493"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1527444416187596951",
+      "fecha_utc": "2026-07-16T22:38:47.364000+00:00",
+      "fecha_local": "2026-07-17",
+      "editado_utc": null,
+      "texto": "**El pobre Leo lleva dos horas esperando en la puerta del colegio**\n\nLeo: *Mamá vendrá. ¿Verdad?*\n\n**Y para que todo sea más triste, va a empezar a llover**\n\n🔴Fin de la escena hasta que alguien lo venga a buscar🔴",
+      "mensaje_sha256": "41e9a52f68bca07a53a7262e3a2d63432069cd98a6221c3ec44e2eb0e8c0eaa7",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1527444416187596951",
+      "texto_sha256": "6205138bd9228d91c127793b5c8fd77ddc834a1d10285d19edc536910f6c5e38",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "x-1517047264676286604",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1517047264676286604",
+  "hilo_id": "1495828307843747971",
+  "hilo_nombre": "??? - En alguna parte",
+  "titulo": "Kiaransalee ocupa el trono de las Telarañas",
+  "resumen": "Aprovecha la ausencia de Lolth y se sienta en su trono ante una Yiccardaria incapaz de detenerla sola.",
+  "relato": "En la Red de los Pozos Demoníacos, capa sesenta y seis del Abismo, Kiaransalee avanza entre telarañas mientras las criaturas se apartan. Yiccardaria emerge para advertirle que Lolth la destruiría por entrar allí, pero la diosa de la no muerte y la venganza responde que la Reina Araña está ausente.\n\nSe acerca al trono y ridiculiza a otras figuras del panteón como posibles herederas. Sostiene que Lolth no entregaría su reino a un varón y se declara la única digna. Finalmente toma asiento y anuncia que continuará las enseñanzas de la reina a su manera.\n\nLa yochlol contempla la usurpación sin poder enfrentarse sola a una diosa. Teme la reacción de Lolth cuando vuelva. El acto de sentarse está narrado; no se demuestra con él que todos los dominios hayan cambiado ya de dueña ni se muestra el regreso de su señora.",
+  "participantes": [
+    "Kiaransalee",
+    "Yiccardaria"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1517047264676286604",
+      "afirmacion": "Kiaransalee entra en los dominios de Lolth aprovechando su ausencia.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1517047493186027550",
+      "afirmacion": "Toma asiento en el trono y Yiccardaria no se enfrenta sola a ella.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Las alusiones al hijo y a la hija de Lolth no reciben aquí nombres propios.",
+    "No convertir la pretensión divina en control efectivo de todo el reino."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-06-18T06:04:13.274000+00:00",
+  "fin_utc": "2026-06-18T06:05:07.755000+00:00",
+  "fecha_local": "2026-06-18",
+  "intervalo": {
+    "anterior": 38,
+    "siguiente": 39,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149383024690/1515976737605816332",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1517589464363434048",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 38,
+        "fecha": "2026-06-15",
+        "inicio_referencia_utc": "2026-06-15T18:00:00+00:00",
+        "fin_estimado_utc": "2026-06-15T20:23:29+00:00",
+        "duracion_video_segundos": 8609,
+        "tipo_referencia": "programacion",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149383024690/1515976737605816332"
+      },
+      {
+        "capitulo": 39,
+        "fecha": "2026-06-19",
+        "inicio_referencia_utc": "2026-06-19T17:58:26+00:00",
+        "fin_estimado_utc": "2026-06-19T20:14:22+00:00",
+        "duracion_video_segundos": 8156,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1517589464363434048"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida."
+  },
+  "fuentes": [
+    {
+      "id": "1517047264676286604",
+      "fecha_utc": "2026-06-18T06:04:13.274000+00:00",
+      "fecha_local": "2026-06-18",
+      "editado_utc": null,
+      "texto": "**La Red de los Pozos Demoníacos, la capa 66 del Abismo. Un lugar del que pocos han logrado salir con vida. Envuelto en inmensas y pegajosas telarañas que se extienden hasta donde alcanza la vista, es el reino de arañas de toda clase y tamaño, donde las más pequeñas pueden resultar tan mortales como las gigantescas. El hogar de la Reina Araña.**\n**Los dominios de Lolth.**\n**Una figura avanzaba por aquel lugar plagado de peligros, trampas y depredadores. Sin embargo, su paso firme hacía que las habitantes de aquel reino retrocedieran a su paso, como si incluso ellas sintieran miedo.**\n\nYiccardaria: **La yochlol emergió de una masa de cera derretida que cayó desde una de las telarañas superiores.** ¿Qué estás haciendo aquí? Este no es tu lugar. Si Lady Lolth te viera, te reduciría a un simple recuerdo.\n\nKiaransalee: Pero ella no está aquí. **La criatura que respondió tenía el aspecto de una drow. O al menos, lo había tenido alguna vez. Su cabello seguía siendo blanco y su figura conservaba una belleza antinatural, pero la putrefacción había reclamado gran parte de ella. Su piel mostraba tonos grisáceos, negros y marrones; grandes trozos de carne colgaban de sus huesos expuestos y sus ojos blanquecinos observaban el mundo con una fría crueldad. El hedor de la muerte la rodeaba como un manto invisible. La diosa de la no-muerte y la venganza avanzó sin mostrar el menor temor.** Debería cuidar su... trono. **Dijo mientras se aproximaba al enorme trono tejido con telarañas divinas que se alzaba en el corazón de la capa 66 del Abismo.**",
+      "mensaje_sha256": "ca17dc9e005424e9e9399204d9b85b1f998459d8940ef84acd4c5dd6fab280c6",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1517047264676286604",
+      "texto_sha256": "92aad3b91c213a6d621ca5a128dbe8f3ac5dd3601adf8feda73fd16bdbdb91b8",
+      "adjuntos": []
+    },
+    {
+      "id": "1517047493186027550",
+      "fecha_utc": "2026-06-18T06:05:07.755000+00:00",
+      "fecha_local": "2026-06-18",
+      "editado_utc": null,
+      "texto": "Yiccardaria: Lady Lolth nos ha confiado este reino a nosotras. Jamás te lo entregaría a ti. Antes se lo dejaría a... **No pudo terminar la frase.**\n\nKiaransalee: ¿A quién? **La diosa pasó una mano huesuda por uno de los reposabrazos del trono.** ¿A ese hijo tramposo y mentiroso suyo? ¿O a esa hija que corre desnuda bajo la luz de la luna en la superficie? **Una sonrisa enfermiza apareció en su rostro.** Ya... la mascota de Selvetarm podría servir. Mejor que ese limo asqueroso que acabó uniéndose a nuestro panteón. **La diosa continuó rodeando el trono.** Pero todos sabemos una cosa. Lolth jamás entregaría su reino a un varón. **Finalmente tomó asiento sobre el Trono de las Telarañas.** Así que la única que merece ocupar este lugar, soy yo. **Sus dedos huesudos se aferraron a los brazos del trono.** Y me encargaré de continuar las enseñanzas de nuestra querida Lady Lolth... **Sus ojos muertos brillaron con malicia.** A mi manera.\n\n**Yiccardaria observó aquella blasfemia en silencio. Aquella traición contra la Reina Araña era tan evidente que resultaba insultante. Pero no podía enfrentarse a una diosa. No sola. Y cuando Lady Lolth descubriera quién se había sentado en su trono... La Reina Araña no estaría contenta.**\n\n🔴Fin de la escena (Jaque a Lolth) 🔴",
+      "mensaje_sha256": "71bd5559eeae36c3415aeb2e66cf67c2a59a2c5efd68048ac8f19e72b9f22111",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1517047493186027550",
+      "texto_sha256": "c5103b6e9ce3e06f71a96d554eacd67971700d2676fe7cd171657c492ef8ee7d",
+      "adjuntos": []
+    }
+  ]
+}

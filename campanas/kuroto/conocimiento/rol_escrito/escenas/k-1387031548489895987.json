@@ -1,0 +1,273 @@
+{
+  "id": "k-1387031548489895987",
+  "campana": "kuroto",
+  "unidad_revision": "k-1385809829695848478",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "Mai disfraza a Banzo para entrar discretamente en palacio",
+  "resumen": "El goliat pide a la sirvienta de Rua ayuda para llegar a la shogun sin despertar preguntas. Mai lo maquilla y ambos marchan por el portal.",
+  "relato": "Banzo reconoce en el campamento a Mai, una joven sirvienta de la shogun, y le pide ayuda para una visita discreta. No quiere explicar a las tropas ni a los nobles por qué abandona temporalmente el sur. Asegura que no hay informes de nueva actividad y le muestra unas telas que recibió de Tsugami.\n\nSu idea desconcierta a la muchacha: quiere hacerse pasar por una sirvienta y recorrer los pasillos de servicio de palacio. Mai teme las consecuencias si los descubren, pero termina aceptando. Utiliza sus cosméticos para maquillarlo y ajusta las telas en forma de kimono, conteniendo la risa ante el tamaño del goliat.\n\nBanzo añade un abanico y adopta una expresión decidida. Mai le enseña a caminar con pasos pequeños y lo guía hacia el portal. Las miradas del campamento se centran en la enorme figura, pero el bordado personal de la shogun que lleva la sirvienta evita que nadie se acerque. Cruzan a Sho; todavía no llegan a hablar con Rua en estos mensajes.",
+  "participantes": [
+    "Banzo",
+    "Mai"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1387035236604448898",
+      "afirmacion": "Banzo solicita a Mai que lo disfrace de sirvienta para llegar discretamente a la shogun.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1387038781823254659",
+      "afirmacion": "Mai maquilla al goliat y le ajusta las telas como un kimono.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1387042058073800744",
+      "afirmacion": "Mai enseña a Banzo a andar y ambos atraviesan el portal a Sho.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Leídas completas las cinco partes y los tres adjuntos. La imagen del pánico es ilustrativa; el dibujo final de Banzo es una referencia humorística del disfraz.",
+    "La inscripción gráfica del diario de Kurobane se conserva como original. Su escritura no se traduce ni se inventa un contenido a partir del dibujo.",
+    "La unidad original reúne varias interacciones con cierres y salidas; las subescenas conservan cobertura exacta sin duplicar mensajes.",
+    "Las cifras de atención médica son las que Banzo comunica, sin elevarlas a un balance general de la batalla.",
+    "La apariencia de Brythya que Banzo cree ver sobre Danifae se presenta como percepción del goliat, no como transformación física confirmada.",
+    "La promesa de Danifae se refiere a sus armas frente a Ootakemaru y no equivale a afiliación ni contrato firmado.",
+    "No se realiza todavía la visita a los templos ni se elimina la condición de Kurobane."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-24T11:28:10.960000+00:00",
+  "fin_utc": "2025-06-24T12:13:22.810000+00:00",
+  "fecha_local": "2025-06-24",
+  "intervalo": {
+    "anterior": 130,
+    "siguiente": 131,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1385318614470496400",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387130423632724151",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 130,
+        "fecha": "2025-06-19",
+        "inicio_referencia_utc": "2025-06-19T18:01:24+00:00",
+        "fin_estimado_utc": "2025-06-19T21:47:20+00:00",
+        "duracion_video_segundos": 13556,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1385318614470496400"
+      },
+      {
+        "capitulo": 131,
+        "fecha": "2025-06-24",
+        "inicio_referencia_utc": "2025-06-24T18:00:45+00:00",
+        "fin_estimado_utc": "2025-06-24T21:04:44+00:00",
+        "duracion_video_segundos": 11039,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387130423632724151"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1387031548489895987",
+      "fecha_utc": "2025-06-24T11:28:10.960000+00:00",
+      "fecha_local": "2025-06-24",
+      "editado_utc": null,
+      "texto": "Banzo : **ha acabado de presenciar una de las clases de estrategia que daba el comandante a los oficiales . \nPaseando por el campamento ve que llega del campamento una de las sirvientas personales  más jóvenes de la Shogun . (Quizá al ser la más joven Rúa es cercana con ella y quizá pueda intuir algo de este romance aún oculto)\nBanzo la reconoce y se le ilumina la bombilla . El plan de banzo ha comenzado .  Se acerca a ella **\n\nSeñorita... como esta ? Me reconoce ?**le sonrrie ** <@214405113677217793>",
+      "mensaje_sha256": "0e3e11bb23e05bead74ce8995905a34e14d38de5ad9619d9f891f161ea856314",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1387031548489895987",
+      "texto_sha256": "d64296a6c028da50e5ae398c97c3e0048cd5edc32b9d5d59bee6dc8758b1db58",
+      "adjuntos": []
+    },
+    {
+      "id": "1387032470850895874",
+      "fecha_utc": "2025-06-24T11:31:50.868000+00:00",
+      "fecha_local": "2025-06-24",
+      "editado_utc": null,
+      "texto": "Mai: **La joven sirvienta se sobresalta, no esta acostumbrada a estas situaciones. Mira aterrada a su alrededor y cuando ve al Guardian de la Shogun se calma un poco. Lo mira y le hace una reverencia muy marcada** O-oh... Guardian. B-bien, estoy bien...",
+      "mensaje_sha256": "0409dc08e340809019d2245630c8afa5e088aa67813ad10ced00768390f9b3d4",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1387032470850895874",
+      "texto_sha256": "e2574ba52f2f03720ce7d05000e29aa169cd7497f39643412bd18cd8e3af7c8f",
+      "adjuntos": []
+    },
+    {
+      "id": "1387033506290471003",
+      "fecha_utc": "2025-06-24T11:35:57.736000+00:00",
+      "fecha_local": "2025-06-24",
+      "editado_utc": "2025-06-24T11:36:39.939000+00:00",
+      "texto": "Banzo : Mai , era así su nombre verdad.  \n**Mira a ambos lados ** \nSupongo que no tardaras en volver a palacio.  \n**se pone la mano en la boca para contar un secreto .** Necesito su ayuda",
+      "mensaje_sha256": "e95f6748feb82c995ef690456eefe8fab0cd7c7161cce19f468344c79f92e8a6",
+      "tipo_discord": 19,
+      "referencia": "1387032470850895874",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1387033506290471003",
+      "texto_sha256": "4520d0efb00a1ee6db0058628541fc813e3d8bf5f51363e54ff14157d63ee164",
+      "adjuntos": []
+    },
+    {
+      "id": "1387034086043943124",
+      "fecha_utc": "2025-06-24T11:38:15.960000+00:00",
+      "fecha_local": "2025-06-24",
+      "editado_utc": null,
+      "texto": "Mai: **Te mira de reojo mientras tiene la mirada en el suelo tal y como le mandan** Si, si, iba a volver ahora, Guardián **Cuando ve que te pones a cuchichear se tensa** E-esta b-bien... Q-que necesita?",
+      "mensaje_sha256": "d9731efda400a8d5441efa1fbbfc05e6a47ab0de5f97f1c18476c3b144ae6ec5",
+      "tipo_discord": 19,
+      "referencia": "1387033506290471003",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1387034086043943124",
+      "texto_sha256": "1aa98367d3e9754b94ef453424103e1c8e86740ae4cd2f1ae5f4a8ece586a983",
+      "adjuntos": []
+    },
+    {
+      "id": "1387035236604448898",
+      "fecha_utc": "2025-06-24T11:42:50.275000+00:00",
+      "fecha_local": "2025-06-24",
+      "editado_utc": null,
+      "texto": "Banzo : **con delicadeza y usando solo dos dedo le levanta la barbilla para que su mirada se alce **\nBanzo , porfavor , llamame banzo mai **le sonrrie honestamente**\n\nVerás  ... Los hombres no verían con buenos ojos que abandone el campamento,  y tampoco quiero dar muchas explicaciones en palacio antes de llegar a la Shogun . Nobles ... ya sabes **le da un muy  golpecito en la espalda y se rie sobre lo que ha dicho , se lw notaría muy nervioso ** \n\nNo hay informes de actividad así q ..  **saca de la mochila telas que le regalo tsugami el día que conoció a Rúa ( el del albornoz de Jelbreg) **\nPodrías hacer algo con esto y disfrazarme de sirvienta ? \nUna sirvienta grande **le sonrrie mientras se mira su enorme cuerpo **",
+      "mensaje_sha256": "05bd490ed11fa3d3baf7424cf63509fbfe324917171a4373cfbb5e58dea7d1ec",
+      "tipo_discord": 19,
+      "referencia": "1387034086043943124",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1387035236604448898",
+      "texto_sha256": "cff64ba45c9f9edecdd3c55294df452a54ea0d30fb4304af39e45fcbab3955d2",
+      "adjuntos": []
+    },
+    {
+      "id": "1387035968426479727",
+      "fecha_utc": "2025-06-24T11:45:44.755000+00:00",
+      "fecha_local": "2025-06-24",
+      "editado_utc": "2025-06-24T11:46:18.414000+00:00",
+      "texto": "Mai: **Cuando la tocas se pone tensa no, lo siguiente...Tocar a una de las sirvientas personales de la Shogun es algo inaudito. Ves que suelta un leve gritito pero lo apaga rápidamente antes de que alguien se de cuenta.** Disfrazarte...de...de...survienta  **Dice mientras mira al goliat de 3 metros de alto y de ancho** (🤣)",
+      "mensaje_sha256": "0360210efc08ecb3b66f023e34434a2ad2f3465504786e53ba40c6aef155faa8",
+      "tipo_discord": 19,
+      "referencia": "1387035236604448898",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1387035968426479727",
+      "texto_sha256": "5d7a084b95d3ce4b550f3a7bc99dd176e8174179a5689a1f33072b7baed96635",
+      "adjuntos": []
+    },
+    {
+      "id": "1387036608318144612",
+      "fecha_utc": "2025-06-24T11:48:17.317000+00:00",
+      "fecha_local": "2025-06-24",
+      "editado_utc": null,
+      "texto": "Banzo : (2,31 🧐 xd) \nSisi **afirma con la cabeza ** \nUn poquito de maquillaje blanco de ese y listos.  \nIremos por las cocinas y pasillos más dedicados al servicio.  Yo también conozco bien palacio pero que tu lo conoces mejor",
+      "mensaje_sha256": "2d824603b46b74471bc5dbf6daeb1f486308b0a81d43ddb107187c4b7108cbeb",
+      "tipo_discord": 19,
+      "referencia": "1387035968426479727",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1387036608318144612",
+      "texto_sha256": "36eb3e5d977fad33b75d8214caac47a274992f4479d78f32e826963e46e3c811",
+      "adjuntos": []
+    },
+    {
+      "id": "1387037334419279944",
+      "fecha_utc": "2025-06-24T11:51:10.433000+00:00",
+      "fecha_local": "2025-06-24",
+      "editado_utc": null,
+      "texto": "Mai: P-p-pero s-si...si nos p-pillan... **La ves muy nerviosa, además cuando se escucha un golpe fuerte de cajas o algo, la sirvienta mete un bote aterrada**",
+      "mensaje_sha256": "6ddff71a222fbaa687ada883f1dbf61df6258097e948d8b8e0e8bb5344fc814e",
+      "tipo_discord": 19,
+      "referencia": "1387036608318144612",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1387037334419279944",
+      "texto_sha256": "79ff0298ef756730a1cd142ad9841a70e7618203cd940b34181706f877410a23",
+      "adjuntos": []
+    },
+    {
+      "id": "1387037636581003446",
+      "fecha_utc": "2025-06-24T11:52:22.474000+00:00",
+      "fecha_local": "2025-06-24",
+      "editado_utc": null,
+      "texto": "Banzo : **ya poniéndose telas encima **\nNos las apañaremos,  siempre puedo estar en misión secreta **le guiñando el ojo **",
+      "mensaje_sha256": "5a807f1b71c6e5760c99583586406ef0d62a3930b23bd148921e55f1130a1871",
+      "tipo_discord": 19,
+      "referencia": "1387037334419279944",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1387037636581003446",
+      "texto_sha256": "b3192a0a44302460efab38439c7964554d334963ce1baad710ce2e363030f2ae",
+      "adjuntos": []
+    },
+    {
+      "id": "1387038781823254659",
+      "fecha_utc": "2025-06-24T11:56:55.521000+00:00",
+      "fecha_local": "2025-06-24",
+      "editado_utc": null,
+      "texto": "Mai: E-esta...b-bien... **Ves como se acerca a ti y saca su maletita donde hay todo tipo de productos de maquillaje. En unos veinte minutos, la mujer te diafraza, como puede, para que parezcas una mujer y te ajusta las telas haciendo un kimono de ello. Al acabar suelta una leve risita** Pfff... Bueno....puede pasar...jeje",
+      "mensaje_sha256": "326c5cdba8fdf92922bcc78642ff77bacc50b066d9880dccab69abee8b3f5c69",
+      "tipo_discord": 19,
+      "referencia": "1387037636581003446",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1387038781823254659",
+      "texto_sha256": "e61d4d6372e97980f72993fe2f9487c6189a39d3aa4f22a35367ecc22b55d2f5",
+      "adjuntos": []
+    },
+    {
+      "id": "1387040349813477537",
+      "fecha_utc": "2025-06-24T12:03:09.359000+00:00",
+      "fecha_local": "2025-06-24",
+      "editado_utc": null,
+      "texto": "Banzo : **remata el trabajo cogiendo un abanico y apretandose el cinturón del vestido \n\nTiene la misma cara de determinación que el día de la carga de los elefantes ** \n\n*valor Banzo*\nAdelante . Mai allá vamos",
+      "mensaje_sha256": "9fb1534406647e8c7447211beaeec0375804ba0b0ce75daa5f4a34f9ee89bb9b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1387040349813477537",
+      "texto_sha256": "f40326b1e0f07487fa85915b843e074eff3f3528269398db88a5212ea085f7c5",
+      "adjuntos": []
+    },
+    {
+      "id": "1387040381824139366",
+      "fecha_utc": "2025-06-24T12:03:16.991000+00:00",
+      "fecha_local": "2025-06-24",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "43ffa877fd722bce0d8fb2c918364e6043a0c84c6fdc4d14880fbac7710885f0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1387040381824139366",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1387040381757296753",
+          "nombre": "Screenshot_20250624_135953_Google.jpg",
+          "tipo": "image/jpeg",
+          "archivo": "adjuntos/1387040381757296753.jpg",
+          "url": "rol_escrito/adjuntos/1387040381757296753.jpg",
+          "bytes": 40480,
+          "sha256": "7815fbaa0d7779d2fef36cf8b56b280addbcf3e6528052fb6a116bcf215a9d9b"
+        }
+      ]
+    },
+    {
+      "id": "1387042058073800744",
+      "fecha_utc": "2025-06-24T12:09:56.640000+00:00",
+      "fecha_local": "2025-06-24",
+      "editado_utc": null,
+      "texto": "Mai: **La chica intentando de no reírse a carcajadas te enseña a andar con el kimono pasito a pasito para pasar mas ¿inadvertido?... bueno o lo que se pueda... Salis los dos de la tiena atravesando el Campamento Sur hacia el portal. Notáis miradas encima de ti pero esta vez, la joven Mai nota que no son para ella...sino para la enorme \"mujer\" que la sigue. No sabe si por asombro o de agrado... Al llevar Mai el kimono y el bordado personal de la Shogun, nadie, osa acercarse a vosotros. Atravesáis el portal hacia Sho**",
+      "mensaje_sha256": "40e5c1d11c68a58c43df8b0bfffa0086d025ae65486d1c4a383d080c49ced361",
+      "tipo_discord": 19,
+      "referencia": "1387040381824139366",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1387042058073800744",
+      "texto_sha256": "92003415f97ddfacccc90881a6f32298294027c56268158e2a8612b03ca3c5c7",
+      "adjuntos": []
+    },
+    {
+      "id": "1387042922813325332",
+      "fecha_utc": "2025-06-24T12:13:22.810000+00:00",
+      "fecha_local": "2025-06-24",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "2400f6b04635aa46f0f92f73f14590632292dcb4c824ae1b0ddc04d279517b66",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1387042922813325332",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "id": "x-1476278021508960306",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1474765127654834266",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "La gema y el bebé de la visión",
+  "resumen": "Nox y Citlali pactan ayuda mutua; ella vive una visión privada.",
+  "relato": "Nox entra en el camarote y cierra la puerta mientras Ione y Luna bromean fuera. Citlali revisa el huevo y dice que los espejos ayudan a calentarlo. Jim le pregunta por la visión del apretón de manos. Ella nombra el jaguar y la serpiente emplumada, confirmando que también los vio. Él se acerca a la pistola y sospecha brujería; Citlali niega conocer la causa y explica que calló por miedo a ponerlo en peligro.\n\nNox confiesa que busca a quien lo abandonó y necesita ayuda para librarse del blanco que Bonny le ha puesto en la espalda. Citlali precisa que sus hijos están muertos y relaciona su propia condena con el dios de la muerte. Jim solicita la gema que Bonny pidió a Ione. Ella sostiene que procede de un collar de Xoltacán que fue dividido y exige ayuda mutua, sin nuevas mentiras.\n\nEl primer intento de cogerla recibe un manotazo. Después Citlali la ofrece de nuevo, amenaza con que su maldición caerá sobre él si rompe el juramento y Nox la toma lentamente. Ambos sellan el trato con la mano. Solo Citlali recibe esta vez una visión: se ve joven huyendo con un bebé, lo deposita en un cofre de un templo atravesado por un arroyo y promete volver mientras distrae a sus perseguidores. La sonrisa del niño le recuerda otra, pero no lo identifica. Al regresar al presente pide descansar y permanece junto al huevo. No se demuestra que Nox haya visto esta segunda escena ni que la amenaza active una maldición.",
+  "participantes": [
+    "Nox",
+    "Citlali",
+    "Ione",
+    "Luna"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1476290379316727878",
+      "afirmacion": "Citlali confirma que también vio al jaguar y a la serpiente emplumada.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1476292914039488593",
+      "afirmacion": "Nox dice que busca a quien lo abandonó y necesita ayuda contra Bonny.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1476294654541697146",
+      "afirmacion": "Citlali aclara que sus hijos están muertos y habla de su condena vinculada al dios de la muerte.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1476297374337863853",
+      "afirmacion": "Citlali muestra la gema y la atribuye a un collar dividido de Xoltacán.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1476302192876060782",
+      "afirmacion": "Tras la negativa inicial, Nox toma la gema ofrecida.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1476305715533582377",
+      "afirmacion": "El apretón del acuerdo provoca una visión que solo recibe Citlali.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1476309696179863573",
+      "afirmacion": "Citlali revive la huida y su promesa al bebé, pero no lo identifica.",
+      "tipo": "pensamiento"
+    }
+  ],
+  "notas": [
+    "Los dos primeros relatos pertenecen al primer grupo de cortes_horarios_historicos; el tercero contiene exclusivamente el único mensaje del segundo grupo.",
+    "La visión privada no acredita la identidad del bebé ni un parentesco con Jim.",
+    "La advertencia de maldición, las explicaciones religiosas y la causa del poder de Ione no se convierten en hechos confirmados.",
+    "Reunir plata y anunciar una idea no acredita que se haya ejecutado tratamiento alguno."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-02-25T18:01:48.247000+00:00",
+  "fin_utc": "2026-02-25T20:16:29.130000+00:00",
+  "fecha_local": "2026-02-25",
+  "intervalo": {
+    "anterior": 9,
+    "siguiente": 10,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1474483152939516034",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1476293643718361240",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 9,
+        "fecha": "2026-02-20",
+        "inicio_referencia_utc": "2026-02-20T19:09:18+00:00",
+        "fin_estimado_utc": "2026-02-20T22:22:01+00:00",
+        "duracion_video_segundos": 11563,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1474483152939516034"
+      },
+      {
+        "capitulo": 10,
+        "fecha": "2026-02-25",
+        "inicio_referencia_utc": "2026-02-25T19:03:39+00:00",
+        "fin_estimado_utc": "2026-02-25T21:43:11+00:00",
+        "duracion_video_segundos": 9572,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1476293643718361240"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1476278021508960306",
+      "fecha_utc": "2026-02-25T18:01:48.247000+00:00",
+      "fecha_local": "2026-02-25",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\n**Estaba de nuevo en el camarote, había aprovechado la neblina para retirarme de ahí sin llamar la atención, volviendo a mis \"labores\" de cuidado al huevo**",
+      "mensaje_sha256": "59cc94a79402d4a4dc2bf95c523f1e6f5810832b4789a9a561448a9217e6eddb",
+      "tipo_discord": 19,
+      "referencia": "1476241117690204183",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476278021508960306",
+      "texto_sha256": "e6253d21c3d31ab48451befe4ee7f5e0441f2edaa665de58214cfac170153526",
+      "adjuntos": []
+    },
+    {
+      "id": "1476278801905221682",
+      "fecha_utc": "2026-02-25T18:04:54.308000+00:00",
+      "fecha_local": "2026-02-25",
+      "editado_utc": "2026-02-25T18:05:48.805000+00:00",
+      "texto": "Nox: Bueno después te cuento el que ... pero necesito que me ayudéis con algo . \n**ve a Citlali en el camarote ** \nEnseguida vuelvo \n**entra y cierra la puerta ** \n\nHola ... <@408026114548695061> \nComo va esto? **pone una mano en el huevo ** \nCrees que le falta algo ?",
+      "mensaje_sha256": "a55b12a85d613e062fef5c27d0ea4972d1351e5107f4034f5b22e5061e685a33",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476278801905221682",
+      "texto_sha256": "ecb1e83b34160a0cc52ad9e4a963f4d0c46bd987f7faac04e1c3955b37aa9ffd",
+      "adjuntos": []
+    },
+    {
+      "id": "1476279784148570245",
+      "fecha_utc": "2026-02-25T18:08:48.493000+00:00",
+      "fecha_local": "2026-02-25",
+      "editado_utc": null,
+      "texto": "Luna: \n** mirando la puerta cerrándose casi en su cara ** <@753394009153732689> creo que nos han dejado fuera, no sabia que le gustaran mayores",
+      "mensaje_sha256": "358371f06805773d00363419c4f2f4f87efedf9593b34fd1f221cd5ca552a180",
+      "tipo_discord": 19,
+      "referencia": "1476278801905221682",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476279784148570245",
+      "texto_sha256": "5399ce4a4ed049dd39daac4ba774ec38e7aa65e945955322d1fd8137101a9c16",
+      "adjuntos": []
+    },
+    {
+      "id": "1476280020195479605",
+      "fecha_utc": "2026-02-25T18:09:44.771000+00:00",
+      "fecha_local": "2026-02-25",
+      "editado_utc": null,
+      "texto": "Ione: **Se rasca la cabeza no sabe de que hablas**",
+      "mensaje_sha256": "ff3562b94aed92fe2b23f53885a399519ff8a230f80e71a15e7ca927c049a4aa",
+      "tipo_discord": 19,
+      "referencia": "1476278801905221682",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476280020195479605",
+      "texto_sha256": "e8981b1294b3ac263332af87fd299e15eddcb8d24bf78819ff6feccb70501641",
+      "adjuntos": []
+    },
+    {
+      "id": "1476280157172924537",
+      "fecha_utc": "2026-02-25T18:10:17.429000+00:00",
+      "fecha_local": "2026-02-25",
+      "editado_utc": null,
+      "texto": "Ione: Le gusta todo lo que tenga dos bolas delante y detras",
+      "mensaje_sha256": "c917fefcb46ee0fa2a992f1bfaccfd5aabe5e227f0b37cc9b8ef8060df8bed70",
+      "tipo_discord": 19,
+      "referencia": "1476279784148570245",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476280157172924537",
+      "texto_sha256": "2569fbc3a0408a2247cb481766247f39160fe402d15168a021ad0df4ab09a2a1",
+      "adjuntos": []
+    },
+    {
+      "id": "1476286151256969407",
+      "fecha_utc": "2026-02-25T18:34:06.530000+00:00",
+      "fecha_local": "2026-02-25",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\nHola Jim, solo queda esperar, fijarse que no haya alguna fisura que pueda poner en riesgo a la cría, pero todo ha estado bien \n\n**Me paseaba alrededor del huevo, revisándolo a detalle**\n\nLa pequeña tuvo una muy buena idea con lo del reflejo, ha ayudado a calentar el huevo durante el día",
+      "mensaje_sha256": "aac1ab2e9f0b5d178ecc0b0db8bc5d027905f531717a7da2f6989fb475207ef4",
+      "tipo_discord": 19,
+      "referencia": "1476278801905221682",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476286151256969407",
+      "texto_sha256": "eb1db103eb1a9ffe2e29edb032a4123eeb7fc5dc196ccb7a41bd8f3bac87e8e0",
+      "adjuntos": []
+    },
+    {
+      "id": "1476289286503665865",
+      "fecha_utc": "2026-02-25T18:46:34.031000+00:00",
+      "fecha_local": "2026-02-25",
+      "editado_utc": null,
+      "texto": "Nox: **al escuchar que le llama por su nombre se queda con una sensación algo extraña ** \n\nEsto... el otro dia .. cuando me diste la mano ...\nMira no soy estupido se que crees que ya te voy a engañar o que quiero algo a cambio y que soy un pirata desgraciado si eso yo tambien lo se y si seguramente tengas razón.. \nPero vi .. algo ... como si ya hubiese estado aqui .. \nY también había dos anim..\n**hace una pausa**\nBueno es igual iría bebido o lo que sea ..",
+      "mensaje_sha256": "4aabf06f4bdeba938a1665aac4b06d5c231c8328a650dd4655e4bcad34160acd",
+      "tipo_discord": 19,
+      "referencia": "1476286151256969407",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476289286503665865",
+      "texto_sha256": "a4e5ed11053cf7dd53b2a777f2847f6b45e253be55e49375e77726a45324ba56",
+      "adjuntos": []
+    },
+    {
+      "id": "1476290379316727878",
+      "fecha_utc": "2026-02-25T18:50:54.578000+00:00",
+      "fecha_local": "2026-02-25",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\nUn Jaguar y una Serpiente Emplumada\n\n**Me detuve en seco**\n\nYo también lo ví y se que también piensas que puedes sacarme provecho porque soy una señora mayor y que puedo ser una excelente carnada o guía turística, pero quizás pensemos mal uno del otro por no conocernos...",
+      "mensaje_sha256": "aca0f115e42467b07410d45ddb4d66311a9f0b899d06ad1b20fe97565bba742f",
+      "tipo_discord": 19,
+      "referencia": "1476289286503665865",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476290379316727878",
+      "texto_sha256": "7a99488ad09d86ddd7d51f1155781b6296a90503d08c993bcca66b7a8a71684a",
+      "adjuntos": []
+    },
+    {
+      "id": "1476290955542794272",
+      "fecha_utc": "2026-02-25T18:53:11.961000+00:00",
+      "fecha_local": "2026-02-25",
+      "editado_utc": null,
+      "texto": "Nox: **ya se estaba dando la vuelta para irse cuando escucha eso y se para , hecha mano a su pistola sin desenfundarla **\n\nQue me hiciste ... ? \n**dice acercándose ** \nUsas brujería en mi anciana ? Es eso !?",
+      "mensaje_sha256": "1b741dd9b666160e1bca986709b3f636b6287913fc3ea7557677c535273979fa",
+      "tipo_discord": 19,
+      "referencia": "1476290379316727878",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476290955542794272",
+      "texto_sha256": "83d30f84b6387b8dca3c5af8ff4b905a969f7aa4cb6b71e4ed14eea300925be9",
+      "adjuntos": []
+    },
+    {
+      "id": "1476291688828768448",
+      "fecha_utc": "2026-02-25T18:56:06.790000+00:00",
+      "fecha_local": "2026-02-25",
+      "editado_utc": "2026-02-25T18:56:24.271000+00:00",
+      "texto": "Mamá Citlali:\nOjalá hubiese sido brujería o algo parecido, pero tampoco te lo mencioné cuando sucedió porque no quiero que tu vida esté en riesgo por mi culpa \n\n**Me mantenía erguida sin sentirme intimidada por Nox**\n\nLa muerte constantemente está respirandome en el cuello pero no creo que mi vida será arrebatada hoy y menos por alguien que sigue buscando respuestas, al igual que yo",
+      "mensaje_sha256": "c4437df8c7d33b7f7d61d7b794a45237096685b03f37e8f56de792db7cd92c5e",
+      "tipo_discord": 19,
+      "referencia": "1476290955542794272",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476291688828768448",
+      "texto_sha256": "4ce80a276649ed2620d6a6fa3fb8c66804ce6d5c1287f11e34203e3a147a830f",
+      "adjuntos": []
+    },
+    {
+      "id": "1476292914039488593",
+      "fecha_utc": "2026-02-25T19:00:58.903000+00:00",
+      "fecha_local": "2026-02-25",
+      "editado_utc": null,
+      "texto": "Nox : Mira .. Citlali **se acerca algo mas a ti ** \n\nYo no soy uno de tus hijos perdidos de los que hablas y no tengo y he visto muchas cosas extrañas en este mundo y en otros . \nNo tengo interés ni por ti ni por tu isla . \nSolo quiero encontrar a alguien y preguntarle por que me abandono . \nPero se que solo no lo puedo lograr . Asi que necesito tu ayuda ... supongo \n**deja de tocar la pistola y se sienta en la cama ** \nAra mismo tengo una Diana en mi espalda que me impide seguir con lo propósito.  Y esa Diana la ha dibujado Bonny..",
+      "mensaje_sha256": "2891d470781bfd87f3ecfb85e12faa8b20c7e53fbe843820389e5db89e28e2ca",
+      "tipo_discord": 19,
+      "referencia": "1476291688828768448",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476292914039488593",
+      "texto_sha256": "734aaaca0ed261ce85ff662e9531a16ced6b48ef70cbea66efab4c3a214f82e1",
+      "adjuntos": []
+    },
+    {
+      "id": "1476294654541697146",
+      "fecha_utc": "2026-02-25T19:07:53.871000+00:00",
+      "fecha_local": "2026-02-25",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\nMis hijos no están perdidos, todos ellos están muertos \n\n**Me senté a lado de el mientras suspiraba pesadamente**\n\nNo quiero más muertes sobre mi, que den su último aliento sobre mis brazos, y mucho menos quiero que ustedes sean los siguientes...\n\n**Mire de reojo a Nox**\n\nTu Diana puede morir, solo tienes que saber cómo hacerlo, mi Diana es inmortal... Y lo maneja el mismo Dios de la muerte, por ello es que se que lo que busca ella puede desatar algo peor y que puede llevarse a todos por igual",
+      "mensaje_sha256": "10fd59293939c65abe2f25b31cfee871fcc5e343511c25427d7a33f1609d4eaf",
+      "tipo_discord": 19,
+      "referencia": "1476292914039488593",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476294654541697146",
+      "texto_sha256": "b6d51f18aa67e1e16eb1961bea17a38860643ae3c21319eb65b4799ae60249f8",
+      "adjuntos": []
+    },
+    {
+      "id": "1476295518798876692",
+      "fecha_utc": "2026-02-25T19:11:19.926000+00:00",
+      "fecha_local": "2026-02-25",
+      "editado_utc": null,
+      "texto": "Nox : y se como hacerlo perfectamente... \nPero no hacéis mas que ponerme trabas .. \nNecesito devolverle a Bonny  algo que le pidió a Ione . \nY tu sabes bien d elo que hablo no es así ? \n\nNecesito la gema \nPiensas ayudarme ?",
+      "mensaje_sha256": "29c19ce2a9bfdca6d8db0119e4fac9f02e159a33a6c8fd7b0acd3b73b741fa2c",
+      "tipo_discord": 19,
+      "referencia": "1476294654541697146",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476295518798876692",
+      "texto_sha256": "78d6db21690d63a29b82307b8aac5d8c0444fb392dfbd2787c5d470be4bf0a89",
+      "adjuntos": []
+    },
+    {
+      "id": "1476297374337863853",
+      "fecha_utc": "2026-02-25T19:18:42.321000+00:00",
+      "fecha_local": "2026-02-25",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\nNo puedes devolver algo que no es de su pertenencia, ese collar es de Xoltacán y decidieron dividirlo \n\n**Saqué aquella gema de entre mi falda**\n\nTe ayudaré si tú me ayudas, no más mentiras, no mas engaños Jim Hawkins...",
+      "mensaje_sha256": "1d315f8712201c0fe9e56b5ad2fb869c836eec0522710bc0ee49404641503501",
+      "tipo_discord": 19,
+      "referencia": "1476295518798876692",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476297374337863853",
+      "texto_sha256": "97f1f4081700c5d8ae23a33d1765c8d972db4ad154ebd974af0855b2260dfa07",
+      "adjuntos": []
+    },
+    {
+      "id": "1476299263754371254",
+      "fecha_utc": "2026-02-25T19:26:12.793000+00:00",
+      "fecha_local": "2026-02-25",
+      "editado_utc": "2026-02-25T19:29:12.326000+00:00",
+      "texto": "Nox: me da igual si es de xoltacan o de alguno de sus dioses raros . \nLo que tu llamas mentiras y engaños no es mas que la forma en la que he aprendido a sobrevivir y la realidad de cualquiera de los planos  mas allá de tu pequeño mundo de palmeras y bichos raros .\nTe dije mi verdadero nombre no es así ? \nNo mas mentiras anciana . \n**intenta coger la gema rápidamente podria ? **",
+      "mensaje_sha256": "9461c122e2595e3d020caf9c48b6df707822b8e9e768286e4ff9cf1a460c512b",
+      "tipo_discord": 19,
+      "referencia": "1476297374337863853",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476299263754371254",
+      "texto_sha256": "1750e33fb5222702b29f2029b9ec5cca75fc89984e2783e9c85bc80e8c03861c",
+      "adjuntos": []
+    },
+    {
+      "id": "1476301093263900812",
+      "fecha_utc": "2026-02-25T19:33:28.982000+00:00",
+      "fecha_local": "2026-02-25",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\n**Al ver las intenciones de quererme quitar la gema, cierro el puño y le doy un manotazo con la otra mano**\n\nTu forma de vivir no es tan distinta a la mía, la diferencia es que no tomo lo que es mío y si lo hago, pido permiso \n\n**Extiendo de nuevo mi mano con la gema**\n\nSi rompes el juramento, mi maldición caerá sobre ti, tus inquietudes no tendrán respuesta y los Dioses medirán tu alma con el mismo peso de tu condena",
+      "mensaje_sha256": "0e57e22ee1ee9dc6846ef991ce0b5add0091bf817d7fecdeab89f0d048495c7f",
+      "tipo_discord": 19,
+      "referencia": "1476299263754371254",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476301093263900812",
+      "texto_sha256": "9d4150d16ad75d3c0433e1f07be1210fc3d101c36c6d95ed0f36ecc4f14b3ce1",
+      "adjuntos": []
+    },
+    {
+      "id": "1476302192876060782",
+      "fecha_utc": "2026-02-25T19:37:51.150000+00:00",
+      "fecha_local": "2026-02-25",
+      "editado_utc": null,
+      "texto": "Nox: *joder.. es rápida ..*\n**la mira y coge la gema lentamente ** \nSii no somos tan distintos .. \nNo vi que tubieses problemas en guiarnos al templo matar a esos lagartos y por no hablar de saquear ese huevo.\nAsí que si tienes razón... \nNo somos tan distintos .. ambos hemos perdido cosas por el camino y ambos buscamos respuestas , no te metas en mi camino y yo no me meteré en el tuyo.  \n\nCitlali",
+      "mensaje_sha256": "e32daecf4012c5a76f654c4338f2747b2eb47fe6683e10724b12d33957daf790",
+      "tipo_discord": 19,
+      "referencia": "1476301093263900812",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476302192876060782",
+      "texto_sha256": "c2ba852ee49e1f8f4bf5d700c32e918785b364d8262c4ec456ba8c3657c2e9b3",
+      "adjuntos": []
+    },
+    {
+      "id": "1476302859862671608",
+      "fecha_utc": "2026-02-25T19:40:30.172000+00:00",
+      "fecha_local": "2026-02-25",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\nQue me proteja no significa que esté a favor de lo que hago, y lo del huevo es mi deuda por haber matado a su madre, todo tiene un precio en esta vida y los errores se pagan tarde o temprano \n\n**Extendí mi mano hacia él**\n\nEntonces cerramos el \"trato\"?",
+      "mensaje_sha256": "4e2396f87515e35d0238d8c8d07a40f0df805c853bd93fe09f755a67a12af77f",
+      "tipo_discord": 19,
+      "referencia": "1476302192876060782",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476302859862671608",
+      "texto_sha256": "d5b8e8d76bd404c7d3427ecf5992ecfcd61c90ca8d0694b2dc1b9f8697501821",
+      "adjuntos": []
+    },
+    {
+      "id": "1476305715533582377",
+      "fecha_utc": "2026-02-25T19:51:51.017000+00:00",
+      "fecha_local": "2026-02-25",
+      "editado_utc": "2026-02-25T19:55:14.222000+00:00",
+      "texto": "Nox : trato hecho \n**te agarra la mano con una sonrisa\n\nEn ese momento vuelve a suceder ... pero esta vez solo ves tu la visión Citlali... \n\nTe ves a ti misma ... pero cambiada... un tiempo en que las arrugas no habían florecido ... que tendrías .. \n20..25 años como mucho? \nEres rapida .. muy rapida \nCorres por la jungla , corres sin parar y sin mirar atras ... conoces el camino .. y conoces lo que o a quien te persigue... \nLlevas algo en el pecho como en una especie de bolsa que cruza por tu hombro ... , sigues corriendo hasta llegar a un templo . \nUn templo antiguo en el que dentro fluye un pequeño arrollo que se adentra mas alla del templo . \nCon cariño sacas esa bolsa de tu pecho y la depositas en un cofre .. \nAhora vemos que en ese cofre has guardado un pequeño bebé.\nUn bebé que solo sonrie . \nUna sonrisa que aunque mucho mas pura y sincera te recuerda a otra . \n\nCuando acaba tu visión ves a Nox dándote la mano y con una sonrisa en la boca **",
+      "mensaje_sha256": "74185910cc1462f07f4307a3a4d7a293b54d77b3fb896933dde93b085466b899",
+      "tipo_discord": 19,
+      "referencia": "1476302859862671608",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476305715533582377",
+      "texto_sha256": "a142f22f3b3569543667e512d66ee7396a9d6b74eade8fa0b38e15a2a02d83d1",
+      "adjuntos": []
+    },
+    {
+      "id": "1476309696179863573",
+      "fecha_utc": "2026-02-25T20:07:40.077000+00:00",
+      "fecha_local": "2026-02-25",
+      "editado_utc": "2026-02-25T20:07:55.166000+00:00",
+      "texto": "Mamá Citlali:\n**Le di la mano nuevamente y las imágenes pasaron por mis ojos**\n\n**El cansancio en mis piernas podía sentirlo y mi respiración agitada resonaba en mi cabeza tratando de huir lo más que podía de aquello que me perseguía**\n\n*Ya casi llego, ahí estará seguro*\n\n**Al cruzar ese templo, pude respirar por unos segundos, pero sabía que no estaba completamente segura, que era momento de resguardar lo más importante que me quedaba, dejando su pequeño y delicado cuerpo en un cofre**\n\n*Regresaré por ti, te lo juro*\n\n**Un beso en su frente y una sonrisa inocente firmó aquel juramento antes de alejarme con lágrimas en los ojos para desviar la atención de aquel mal que nos perseguía y ser yo la única que cargará con ese pesar**\n\n**Al regresar al presente, ví a Jim, el pecho me dolía y la cabeza me daba vueltas**\n\n**Le solté de la mano con tranquilidad**\n\nVoy a descansar por un momento, no he dormido muy bien estos últimos días...",
+      "mensaje_sha256": "c9a70d149ad64a2fac6ab98f5c7e90a8be4e445a0401cc5144808b3cb1da4002",
+      "tipo_discord": 19,
+      "referencia": "1476305715533582377",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476309696179863573",
+      "texto_sha256": "36533b56ed718131ef76980e89e08222cfb9b0cf08ca51d65d4cbc905fe0d6b8",
+      "adjuntos": []
+    },
+    {
+      "id": "1476310307579101359",
+      "fecha_utc": "2026-02-25T20:10:05.846000+00:00",
+      "fecha_local": "2026-02-25",
+      "editado_utc": null,
+      "texto": "Nox: sucede algo ? **te mira extrañado ** \nLlevas todo el dia encerrada con el huevo no piensas salir ?",
+      "mensaje_sha256": "993b84e09be7899692cfe57785e839fc259202e4e9af52277d9df09ec27ac81c",
+      "tipo_discord": 19,
+      "referencia": "1476309696179863573",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476310307579101359",
+      "texto_sha256": "1a5590480c14ac7f1f9236fb0d6a5da34a254d564d76e2723a6cf3511a807c96",
+      "adjuntos": []
+    },
+    {
+      "id": "1476311915188719638",
+      "fecha_utc": "2026-02-25T20:16:29.130000+00:00",
+      "fecha_local": "2026-02-25",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\nHe estado en sitios peores, si me lo preguntas \n\n**Me levanté poco a poco de la cama, resintiendo el dolor de aquella visión en mi cuerpo, como si lo hubiese vivido hace escasos segundos**\n\nNo tengo a donde ir en estos momentos, además, sabes bien que no puedo dejar mucho tiempo solo al huevo, no me fío mucho de los de aquí",
+      "mensaje_sha256": "8f9eb76143a7c910877f68019164268dbb4422f051ed1c8c1f6b18f1c6741204",
+      "tipo_discord": 19,
+      "referencia": "1476310307579101359",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476311915188719638",
+      "texto_sha256": "5f7966ab611a9888bf6bb14b1b9cfc3ccb0d1b6de2eb872675a751e9232c3720",
+      "adjuntos": []
+    }
+  ]
+}

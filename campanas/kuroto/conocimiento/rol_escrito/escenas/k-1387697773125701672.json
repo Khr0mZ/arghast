@@ -1,0 +1,331 @@
+{
+  "id": "k-1387697773125701672",
+  "campana": "kuroto",
+  "unidad_revision": "k-1387697773125701672",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Una investigación discreta y unas manzanas olvidadas",
+  "resumen": "Los compañeros acuerdan indagar en palacio sin alarmar a un posible responsable.",
+  "relato": "Junto a la cama de Rua, Banzo insiste en que su terror no parece simple estrés. Jelbreg considera si podría intervenir un noble y se ofrece a investigar por palacio sin ser visto. Kalista cree posible alguna maniobra antes de las votaciones, pero recuerda que carecen de pruebas y pide no alertar a quien pudiera estar detrás. Banzo agradece la ayuda, arropa a Rua y revisa ventanas y habitación antes de que lleguen las sirvientas a despertarla. Los tres salen. Al preguntar el goliat por unas manzanas, Jelbreg le pisa el pie para silenciarlo: ha olvidado comprarlas y no quiere que Kalista lo sepa. Ella se adelanta hacia la Base. El drow recuerda con alarma que Kalista lleva la compra en su propia bolsa mágica, pide a Banzo que consiga manzanas ácidas y corre detrás de ella. La investigación y la compra no se completan en este tramo.",
+  "participantes": [
+    "Banzo",
+    "Jelbreg",
+    "Kalista",
+    "Rua"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1387755547687911564",
+      "afirmacion": "Kalista considera posibles maniobras nobles, pero reconoce que no hay pruebas.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1387756203836309505",
+      "afirmacion": "Jelbreg ofrece investigar discretamente en palacio.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1387759290609172527",
+      "afirmacion": "Banzo arropa a Rua y comprueba la habitación antes de salir.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1387761678959116411",
+      "afirmacion": "Jelbreg pide en secreto manzanas ácidas y admite haber olvidado comprarlas.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Continúa k-1387384002998177983; no supone otra visita ni un sueño de Rua de duración equivalente a los días de publicación.",
+    "El comentario OOC 1387763957082755142 sitúa expresamente todo esto antes de BEBES INCIDENT. Debe conservarse al ajustar el orden frente a la sesión y no perderse por el encabezado de intervalo.",
+    "No se confirma una conspiración ni se identifica responsable de los susurros."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-26T07:35:31.291000+00:00",
+  "fin_utc": "2025-06-26T12:51:04.157000+00:00",
+  "fecha_local": "2025-06-26",
+  "intervalo": {
+    "anterior": 132,
+    "siguiente": 133,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387494015813030079",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387857477848141979",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 132,
+        "fecha": "2025-06-25",
+        "inicio_referencia_utc": "2025-06-25T18:05:33+00:00",
+        "fin_estimado_utc": "2025-06-25T20:47:07+00:00",
+        "duracion_video_segundos": 9694,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387494015813030079"
+      },
+      {
+        "capitulo": 133,
+        "fecha": "2025-06-26",
+        "inicio_referencia_utc": "2025-06-26T18:09:52+00:00",
+        "fin_estimado_utc": "2025-06-26T20:54:04+00:00",
+        "duracion_video_segundos": 9852,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387857477848141979"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1387697773125701672",
+      "fecha_utc": "2025-06-26T07:35:31.291000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": null,
+      "texto": "Banzo : **se situa al lado de Jelbreg y le susurra oara no despertar a Rua **Parecía aterrada cuando me lo contó Jel , no creo que sea solo estrés.  Algo malo está a punto de pasar . Algo en palacio estoy seguro .",
+      "mensaje_sha256": "983de22e0f3e010f7b2a9cf4b1c1c645333aba642efac08c7b01ff173faf4c48",
+      "tipo_discord": 19,
+      "referencia": "1387418341916016731",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1387697773125701672",
+      "texto_sha256": "b8ce56a06811fd2a9c426cf7218fffaac6c992546b768e8490cf266ef83760f5",
+      "adjuntos": []
+    },
+    {
+      "id": "1387701918171922516",
+      "fecha_utc": "2025-06-26T07:51:59.547000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": null,
+      "texto": "Jelbreg: **El drow se queda unos segundos observándola, no parece prestarte atención** Eh?! Si... **Te mira y luego mira a Kalista** ¿Puede ser cosa de un noble?",
+      "mensaje_sha256": "5c3c4d5577c4d756fe862894c4cd3c2e500754e5b5b43881e668887fe5d28e1b",
+      "tipo_discord": 19,
+      "referencia": "1387697773125701672",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1387701918171922516",
+      "texto_sha256": "42474112c8fb70bc4e7dcd430635f4f03e29ea2c544f870b79ad50021b318fe2",
+      "adjuntos": []
+    },
+    {
+      "id": "1387709379012333719",
+      "fecha_utc": "2025-06-26T08:21:38.350000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": null,
+      "texto": "Banzo : Quizá kalista podría sacar algo de información sin dar mucho detalles **le susurra a jelbreg y mira a Kalista **",
+      "mensaje_sha256": "cc36807ef9ec0813544f5999bef276e967b59682cb127ffac847f820ac7461fd",
+      "tipo_discord": 19,
+      "referencia": "1387701918171922516",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1387709379012333719",
+      "texto_sha256": "1ae9db9988d111881e6f67393294afc58d8402f2450c0933b79d5eb90bbd5ce6",
+      "adjuntos": []
+    },
+    {
+      "id": "1387713797124259953",
+      "fecha_utc": "2025-06-26T08:39:11.710000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": null,
+      "texto": "Jelbreg: ¿No crees que lo estas exagerando? **Se acerca a Kalista y sigue susurrando** ¿Tu que piensas? <@753394009153732689>",
+      "mensaje_sha256": "30d81118ae79ebe496c082c516e96cea983474162e6966ae38633b672ce7dfcd",
+      "tipo_discord": 19,
+      "referencia": "1387709379012333719",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1387713797124259953",
+      "texto_sha256": "677bf3428e83b517b90289e8f95f844dbbb72f8a483fb594476bb67fca2cbaf8",
+      "adjuntos": []
+    },
+    {
+      "id": "1387718246760714241",
+      "fecha_utc": "2025-06-26T08:56:52.586000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": null,
+      "texto": "Banzo : *quizá tenga razón*\n**sin responder se dirige pensativo hacia la ventana y sigue observando con gesto preocupado **",
+      "mensaje_sha256": "63161fdf2b6dc41f3ac3de2f8db9d8fffe4da35945aefb0fa8b951e30195fc0d",
+      "tipo_discord": 19,
+      "referencia": "1387713797124259953",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1387718246760714241",
+      "texto_sha256": "3f044b6daebd2180c24127889b45e464445862e34b8a16c366b087190c45140b",
+      "adjuntos": []
+    },
+    {
+      "id": "1387755547687911564",
+      "fecha_utc": "2025-06-26T11:25:05.820000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": null,
+      "texto": "Kalista: que con las votaciones tan cerca es posible que los nobles se muevan...no es descabellado...pero sin pruebas concruyentes no sabemos quien es el que afrenta por su vida",
+      "mensaje_sha256": "2eef9a3320c59d362d33c4fd5e4b3c1717fcca54735b9a18ab0a9e60f8a66534",
+      "tipo_discord": 19,
+      "referencia": "1387713797124259953",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1387755547687911564",
+      "texto_sha256": "af9b7399701625ff1dbaeef18a81a3f2a9bc2f0c61bc916271a4db964ff02b34",
+      "adjuntos": []
+    },
+    {
+      "id": "1387756203836309505",
+      "fecha_utc": "2025-06-26T11:27:42.258000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": null,
+      "texto": "Jelbreg: ¿Quieres que indague por palacio a ver si encuentro algo? **Te mira a los ojos** Sabes que puedo ser muy sigiloso y que no me vean escondido en las sombras",
+      "mensaje_sha256": "4b8446cd6a85636e943a4d6641de939ef3ff3dad69a80b77ac046aae9c8ec6de",
+      "tipo_discord": 19,
+      "referencia": "1387755547687911564",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1387756203836309505",
+      "texto_sha256": "f87b299f53619443721b7c5b8230a4c129b4d62d590ba83de154376e4b7b3ba9",
+      "adjuntos": []
+    },
+    {
+      "id": "1387756548054319104",
+      "fecha_utc": "2025-06-26T11:29:04.326000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": "2025-06-26T11:30:34.692000+00:00",
+      "texto": "Kalista: seria lo mejor...pero debemos ir con cuidado, si alertamos al culpable se escondera y no podremos atraparlo",
+      "mensaje_sha256": "c15b704d9cb76d6b40a19b275882f17ecf60b0088157492f142aa7c847855329",
+      "tipo_discord": 19,
+      "referencia": "1387756203836309505",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1387756548054319104",
+      "texto_sha256": "2cd3fb73d40759063a681a2588d45ae40d8d0f01b010cfb2bcd3ab1ef3687a9a",
+      "adjuntos": []
+    },
+    {
+      "id": "1387757812590837796",
+      "fecha_utc": "2025-06-26T11:34:05.815000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": null,
+      "texto": "Jelbreg: Soy cuidadoso, ya lo sabes, si quiero no me ven **Te regala una sonrisita** ¿Tu que dices, gandullon? Tu eres el Guardian, me das permiso para eso? <@616683133374562304>",
+      "mensaje_sha256": "6a44001509c27be05e21e1f4e5c08bdc9bab7eb6a78823be4d27404716e9c3a1",
+      "tipo_discord": 19,
+      "referencia": "1387756548054319104",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1387757812590837796",
+      "texto_sha256": "92d751d1be3da832e1f821562d2eab13849bbd26785781a13ad10626d6758510",
+      "adjuntos": []
+    },
+    {
+      "id": "1387759290609172527",
+      "fecha_utc": "2025-06-26T11:39:58.202000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": null,
+      "texto": "Banzo : os he pedido ayuda no necesitas mi permiso . \nGracias chicos.  \n**Mira por la ventana y ve un séquito de sirvientas que forman en fila para ir algún sitio \nBanzo se da cuenta de que probablemente venga a los aposentos a despertarla y empezar ese casi ritual de vestirse peinarse y preparase para las bajar y ejercer su cargo ** \n\nCreo que deberíamos irnos , en breve vendrán a desperarla.  \n** banzo se acerca a la cama la mira y le retira el pelo y la arropa . , cierra ventanas y comprueba la habitación con un último vistazo **\nVamos ?",
+      "mensaje_sha256": "b4168926e8274e2d0d4b86712869aa72fec7191b87b5269b499758b095b9cd87",
+      "tipo_discord": 19,
+      "referencia": "1387757812590837796",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1387759290609172527",
+      "texto_sha256": "a7424703fc234ea917268229c93ea12dd0aacbfb2603eba76682648f69869752",
+      "adjuntos": []
+    },
+    {
+      "id": "1387759834518257778",
+      "fecha_utc": "2025-06-26T11:42:07.880000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": null,
+      "texto": "Kalista: **te asiente**",
+      "mensaje_sha256": "0c7fae5ed3179c996a5f9a4d92f8956be73757f0c0d4393ebda3fd9b5bd56e09",
+      "tipo_discord": 19,
+      "referencia": "1387759290609172527",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1387759834518257778",
+      "texto_sha256": "558473282aff2055abef8fc5f73430865e273691796fe9a3ce66ebc2daefd3e6",
+      "adjuntos": []
+    },
+    {
+      "id": "1387760485079846942",
+      "fecha_utc": "2025-06-26T11:44:42.986000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Os sigue no sin antes volver a mirar a Rua, se queda unos segundos y sale de la habitación cuando Banzo cierra la puerta**",
+      "mensaje_sha256": "e5866311bbbcfed5bb80eb6add58f6ebbb0d44025bc76a64af27690bed771af7",
+      "tipo_discord": 19,
+      "referencia": "1387759290609172527",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1387760485079846942",
+      "texto_sha256": "81dea539176e6ce0df675dc3e9b3cffc5c1b4a10db5a77a92772f331274c83c8",
+      "adjuntos": []
+    },
+    {
+      "id": "1387760986651365426",
+      "fecha_utc": "2025-06-26T11:46:42.570000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": null,
+      "texto": "Banzo : (si yo tuviese llave , que yo sepa no )**cerraría la puerta y diría **\nOs adelantais a la base y voy yo a por esas manzanas ** te mira jel ** \nÁcidas o dulces?",
+      "mensaje_sha256": "41e3da5bcdb6589d82554cd4610e20579643a257469423eee520f0ab9689f0ff",
+      "tipo_discord": 19,
+      "referencia": "1387760485079846942",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1387760986651365426",
+      "texto_sha256": "7bd2abea0620eacb2bc6f910123ddb6a6beaf2e56d93c725baf5c3e28b770f32",
+      "adjuntos": []
+    },
+    {
+      "id": "1387761678959116411",
+      "fecha_utc": "2025-06-26T11:49:27.629000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Te pisa el pie para que te calles, ya que se ha olvidado de comprarlas y no quiere que Kalista se entere** Uy, perdona Banzo.... **Dice mientras se acerca a ti y te susurra** Calla... que sino me cae la bronca... compra ácidas.",
+      "mensaje_sha256": "998a4b54affb83f5779f93a36ed3cee05657f22291cb4fb9e5489f62d788ef5c",
+      "tipo_discord": 19,
+      "referencia": "1387760986651365426",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1387761678959116411",
+      "texto_sha256": "9f9256428ad3b7026ed860faefd79522b03dfed7e4a6f236afa535f05b996d66",
+      "adjuntos": []
+    },
+    {
+      "id": "1387762180996333608",
+      "fecha_utc": "2025-06-26T11:51:27.324000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": null,
+      "texto": "Kalista: claro yo me adelanto a los dos, nos vemos en la base chicos **Y se adelanta**",
+      "mensaje_sha256": "9fc2fc0370c03b180721613df34133eef1dc14fe8f92a4f952cbd8ff70030e2a",
+      "tipo_discord": 19,
+      "referencia": "1387760986651365426",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1387762180996333608",
+      "texto_sha256": "ec0e7287bb5a7903bbc9bc865a227dadb01afb42d0695692dfc7cc51f19d896e",
+      "adjuntos": []
+    },
+    {
+      "id": "1387762331588755506",
+      "fecha_utc": "2025-06-26T11:52:03.228000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": null,
+      "texto": "💙 **Kalista sale de escena** 💙",
+      "mensaje_sha256": "6a00baf5bfaffa9b8259a0a564fe8f06841be8ad53955016c11b606884c10d4a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1387762331588755506",
+      "texto_sha256": "55090b238bca0568ff5fae213e58b485973a72af4d5316d1d0cf48f659615022",
+      "adjuntos": []
+    },
+    {
+      "id": "1387763357880422452",
+      "fecha_utc": "2025-06-26T11:56:07.915000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": "2025-06-26T11:56:26.673000+00:00",
+      "texto": "Jelbreg: **Ve como Kalista se marcha** Mmmmmrrrrggg.... Casi me metes en un lio... Si se da cuenta que me he olvidado de comprar las manzanas me va a echar.... **En ese momento recuerda que la compra la tiene Kalista en SU bolsa mágica y le cambia la cara al verdadero terror** Oh mierda.... ¡Banzo ves a por las manzanas, te espero en la base! **Sale corriendo detrás de la tritón, con la esperanza que no mire la compra**\n\n👻Jelbreg sale de escena👻",
+      "mensaje_sha256": "6b7687695c5b3605e04bbf436c500143c5c71fa24a2f4839b2dc033c31dc5e8e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1387763357880422452",
+      "texto_sha256": "c36bc652cdafbd0ed6f6c8df23d4a5401be5dd3080758dd9910c1d6d5575ef05",
+      "adjuntos": []
+    },
+    {
+      "id": "1387763957082755142",
+      "fecha_utc": "2025-06-26T11:58:30.776000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": null,
+      "texto": "🌭 Banzo sale de escena 🌭\n(TODO ESTO OBVIAMENTE PASO ANTES DEL BEBES INCIDENT👶 )",
+      "mensaje_sha256": "1b362ad0f2c2916800811364b301bb45eca6d9914d8c80897b92f49851981acf",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1387763957082755142",
+      "texto_sha256": "0c4c520f465be7b9711cae59f99dba1c1841115f1def592e8f3185d4536414c1",
+      "adjuntos": []
+    },
+    {
+      "id": "1387777183321428119",
+      "fecha_utc": "2025-06-26T12:51:04.157000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "59062f1a0d85a0617b59b1c59e4c200d517a0fba46ea6249579d9b8f68450e4d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1387777183321428119",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

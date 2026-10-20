@@ -112,6 +112,8 @@ def main():
           'estado': data.get('estado_revision', 'pendiente')} for data in dossiers],
         {fact['id']: {**fact, 'capitulo': data['capitulo']}
          for data in dossiers for fact in data.get('afirmaciones', [])})
+    from fechas_emision import load_dates
+    emission_dates = load_dates('xoltacan', episodes)
     manifest = []
     for ep in sorted(episodes, key=lambda e: e['capitulo']):
         n = ep['capitulo']
@@ -153,7 +155,7 @@ def main():
                 review = 'requiere_revision_fuente_cambiada'
             for fact in data.get('afirmaciones', []):
                 validate_fact(fact, source)
-            render_dossier(ep, data, tracking, chapter_histories.get(n))
+            render_dossier(ep, data, tracking, chapter_histories.get(n), emission_dates.get(n))
         record.update(estado_fuente='disponible', revision=review, **meta)
         manifest.append(record)
     write_json(BUILD / 'inventario.json', manifest)
@@ -189,12 +191,16 @@ def validate_fact(fact, source):
         raise ValueError(f'Cita no localizada en intervalo: {fact["id"]}: {quote}')
 
 
-def render_dossier(ep, data, tracking=None, history=None):
+def render_dossier(ep, data, tracking=None, history=None, emission=None):
     from catalogo import load_catalog, canonical_labels
     aliases, _, _ = load_catalog()
     lines = [f'# Capítulo {ep["capitulo"]:02d}: {ep["titulo"]}', '',
              f'Estado: **{data["estado_revision"]}**. Fuente: subtítulos automáticos, no audio verificado.', '',
-             '## Relato de la sesión', '']
+             ]
+    if emission:
+        from fechas_emision import markdown_dates
+        lines += markdown_dates(emission)
+    lines += ['## Relato de la sesión', '']
     if history:
         by_id = {fact['id']: fact for fact in data['afirmaciones']}
         for stage in history['etapas']:

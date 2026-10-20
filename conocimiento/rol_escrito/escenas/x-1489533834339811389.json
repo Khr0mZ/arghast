@@ -1,0 +1,79 @@
+{
+  "id": "x-1489533834339811389",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1489533834339811389",
+  "hilo_id": "1482149664131383316",
+  "hilo_nombre": "Cuicapalli - La villa tranquila",
+  "titulo": "Guayacán llama a sus hermanos",
+  "resumen": "Intenta atraer a unos iguales de una visión sin obtener respuesta.",
+  "relato": "Entre delirios y frenesí, Guayacán baila, grazna y da saltos para que unos seres a los que considera sus hermanos lo reconozcan. Llega a cantar y gritar en común sobre su grandeza. Nadie le responde en esta viñeta y no se identifica a sus interlocutores.",
+  "participantes": [
+    "Guayacán"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1489533834339811389",
+      "afirmacion": "Guayacán intenta que unos iguales de su visión lo reconozcan.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Separar la viñeta de Guayacán de la conversación de las tres viajeras.",
+    "No identificar a los iguales de la visión sin otra fuente.",
+    "La partida no equivale a llegada."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2026-04-03T07:55:40.307000+00:00",
+  "fin_utc": "2026-04-03T07:55:40.307000+00:00",
+  "fecha_local": "2026-04-03",
+  "intervalo": {
+    "anterior": 22,
+    "siguiente": 23,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1489323212452925664",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1491864574310223892",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 22,
+        "fecha": "2026-04-02",
+        "inicio_referencia_utc": "2026-04-02T17:58:28+00:00",
+        "fin_estimado_utc": "2026-04-02T21:20:32+00:00",
+        "duracion_video_segundos": 12124,
+        "tipo_referencia": "aviso_de_contraste",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1489323212452925664"
+      },
+      {
+        "capitulo": 23,
+        "fecha": "2026-04-09",
+        "inicio_referencia_utc": "2026-04-09T18:16:51+00:00",
+        "fin_estimado_utc": "2026-04-09T21:10:57+00:00",
+        "duracion_video_segundos": 10446,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1491864574310223892"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida. Una hora tomada de un aviso con título discrepante se utiliza solo como referencia aproximada de ese día."
+  },
+  "fuentes": [
+    {
+      "id": "1489533834339811389",
+      "fecha_utc": "2026-04-03T07:55:40.307000+00:00",
+      "fecha_local": "2026-04-03",
+      "editado_utc": null,
+      "texto": "**Guayacán**\n\n**Guayacán, observando en sus delirios y frenesí aquella majestuosa visión de sus iguales, continúa en su búsqueda implacable por llamar su atención, bailoteando, graznando o saltando con torpeza para ser visto**\n\n-Hermanos mios! Miradme! Apreciadme! Soy yo! Vuestro hermano Guayacán! Es que acaso no me reconoceis?! Observad! \n\n*Comienza a graznar a modo de cántico sin control alguno, llegando a gritar incluso en nuestro idioma común*\n-\"Por aquiiiiii!! Ooooh hermanooos miiios! Quien no deseaaaase poseeer nueeeeestraa graaandeeezaa\"!!!",
+      "mensaje_sha256": "1b332b05ad6c2537a0d3490d53ca0b43b99372cf654fe7d8e73402612db822b0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1489533834339811389",
+      "texto_sha256": "cb05b9f9fd6d240883babdcc2acc53e51c78fc772117d8fc0aa945a6b415956a",
+      "adjuntos": []
+    }
+  ]
+}

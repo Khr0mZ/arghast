@@ -1,0 +1,162 @@
+{
+  "id": "k-1438661410484912249",
+  "campana": "kuroto",
+  "unidad_revision": "k-1438477444284809339",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "Kurobane confiesa su culpa a Seraphina",
+  "resumen": "Al volver herido de la batalla, Kurobane admite en voz baja que Danifae tiene las esferas por su culpa.",
+  "relato": "Seraphina carga a Kurobane hasta el campamento para atender las heridas que ha recibido en una batalla no reproducida en estos mensajes. Él responde a sus reproches diciendo que debió morir y que ha hecho algo por lo que podrían matarlo. Mientras ella prepara el botiquín y observa la gravedad de las lesiones, el ninja se acerca a su oído: afirma haber traicionado a la Shogun y ser culpable de que Danifae tenga las esferas. Seraphina reconoce la gravedad de la confesión, pero replica que otras personas también han cometido actos capaces de enfrentarlas a Kalista. La atención médica y la conversación siguen en la unidad siguiente.",
+  "participantes": [
+    "Kurobane",
+    "Seraphina"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1438661410484912249",
+      "afirmacion": "Seraphina transporta a Kurobane herido al campamento.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1438663770250678394",
+      "afirmacion": "Kurobane confiesa en un susurro su responsabilidad en las esferas obtenidas por Danifae.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Las subescenas respetan los dos grupos temporales de cortes_horarios_interfaz.json.",
+    "No se reconstruye la batalla omitida entre ambos momentos."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2025-11-13T22:46:49.296000+00:00",
+  "fin_utc": "2025-11-13T22:58:17.680000+00:00",
+  "fecha_local": "2025-11-13",
+  "intervalo": {
+    "anterior": 167,
+    "siguiente": 168,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438607930604781589",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 167,
+        "fecha": "2025-11-13",
+        "inicio_referencia_utc": "2025-11-13T19:14:04+00:00",
+        "fin_estimado_utc": "2025-11-13T22:25:02+00:00",
+        "duracion_video_segundos": 11458,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438607930604781589"
+      },
+      {
+        "capitulo": 168,
+        "fecha": "2025-11-20",
+        "inicio_referencia_utc": "2025-11-20T19:03:40+00:00",
+        "fin_estimado_utc": "2025-11-20T22:00:36+00:00",
+        "duracion_video_segundos": 10616,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida."
+  },
+  "fuentes": [
+    {
+      "id": "1438661410484912249",
+      "fecha_utc": "2025-11-13T22:46:49.296000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Cargué a Kurobane en mi espalda hasta llevarlo al campamento y poder curarlo bien**\n\nQue buena batalla diste, pero casi te mueres, no hagas una tontería así de nuevo \n\n<@240564189448503306>",
+      "mensaje_sha256": "96ad1b747ba7118cfefbdfec4e562f7942f4bab0573a7d2a797194da0800fc7d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1438661410484912249",
+      "texto_sha256": "f9f481d6c7dcb03e18cbbe301fba71c37429565f4752e1465e8e6a28d6822212",
+      "adjuntos": []
+    },
+    {
+      "id": "1438662050049163374",
+      "fecha_utc": "2025-11-13T22:49:21.780000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": null,
+      "texto": "Kuro:\n\nDebí morir en esa batalla.... No puedo esconderlo mas... \n\n**Dice con un tono cansado pero te puedes dar cuenta que en su voz desesperación y arrepentimiento**",
+      "mensaje_sha256": "9ee4535131fc72eb66a3118e85cef548f8188dfa7a57be54d537c1e3631cb47c",
+      "tipo_discord": 19,
+      "referencia": "1438661410484912249",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1438662050049163374",
+      "texto_sha256": "4f03c0b11f5bae92cdb260dddb2685cf78c1269fd425751b948c51d2259e2b69",
+      "adjuntos": []
+    },
+    {
+      "id": "1438662654003773480",
+      "fecha_utc": "2025-11-13T22:51:45.774000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": null,
+      "texto": "Seraphina:\nVamos a empezar con eso de nuevo?\n\n**Al llegar al campamento, lo baje de mi espalda para verlo detenidamente, pude percatarme de todas esas heridas**\n\nAy no... Realmente si estás muy lastimado...",
+      "mensaje_sha256": "cf13291c167e0dfa8414036592512a2020572e84846ab097db08909031c104a2",
+      "tipo_discord": 19,
+      "referencia": "1438662050049163374",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1438662654003773480",
+      "texto_sha256": "c249abc2624454efefafc849110104ded8fe1532bbf53b2b68992b635e6d2ad9",
+      "adjuntos": []
+    },
+    {
+      "id": "1438663116627116245",
+      "fecha_utc": "2025-11-13T22:53:36.072000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": null,
+      "texto": "Kuro:\n\nHe hecho algo muy malo, Sera... Algo que si se enteran, muero...\n\n**Comenta cansado haciendo caso omiso a sus quemaduras**",
+      "mensaje_sha256": "845331798d2e37b53d56b00213fd317d5e0ad02f02d506441352edb3a6eb59e9",
+      "tipo_discord": 19,
+      "referencia": "1438662654003773480",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1438663116627116245",
+      "texto_sha256": "899312ef9e964dd5e17e98bf15dbf35bc26efa97cac199eca328f8310a277fc1",
+      "adjuntos": []
+    },
+    {
+      "id": "1438663402447966319",
+      "fecha_utc": "2025-11-13T22:54:44.217000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Agarré las cosas del botiquín que tenía en mi tienda y empecé a tratar de curar sus heridas**\n\nQué fué lo que hiciste que deseas con tantas ganas la muerte?",
+      "mensaje_sha256": "9cf98e89504244ff2405ab0ed2fc5aac3788f251f0825b5a32591f023a4d989c",
+      "tipo_discord": 19,
+      "referencia": "1438663116627116245",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1438663402447966319",
+      "texto_sha256": "9067d9150b273fdeb7960981ee9aa50dbc779b68e38a96175f36fede53774282",
+      "adjuntos": []
+    },
+    {
+      "id": "1438663770250678394",
+      "fecha_utc": "2025-11-13T22:56:11.908000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": null,
+      "texto": "Kuro:\n\n**Se acerca a tu oído**\n\nHe traicionado a la Shogun... Danifae tiene las esferas por mi culpa... \n\n**Susurra con un tono de arrepentimiento**",
+      "mensaje_sha256": "4e37b8f44d2c5071e042685cdb371614d6aaafe937cee016fe04c10a59769786",
+      "tipo_discord": 19,
+      "referencia": "1438663402447966319",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1438663770250678394",
+      "texto_sha256": "5a2abf21fc2d00494ead57b43c286b36ae9b0cd577f511038b610a2675407a16",
+      "adjuntos": []
+    },
+    {
+      "id": "1438664297776681041",
+      "fecha_utc": "2025-11-13T22:58:17.680000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": "2025-11-13T22:59:25.985000+00:00",
+      "texto": "Seraphina:\n**Abrí los ojos de golpe**\n\nVaya, eso sí es algo fuerte... Pero creo que todos estamos destinados a morir a manos de la Shogun, creo que cada uno de nosotros ha hecho cosas que nos ponen en riesgo",
+      "mensaje_sha256": "92ba15360ed42bb4aca67b1c8e4667637a91e7ec4278379cafef09c132654e19",
+      "tipo_discord": 19,
+      "referencia": "1438663770250678394",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1438664297776681041",
+      "texto_sha256": "a58253ac8494c67bb055aca4b233c71c0878f31de015d91b1ea84a8f8e377e6d",
+      "adjuntos": []
+    }
+  ]
+}

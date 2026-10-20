@@ -1,0 +1,92 @@
+{
+  "id": "k-1420770700222005269",
+  "campana": "kuroto",
+  "unidad_revision": "k-1420770700222005269",
+  "hilo_id": "1379945696089604209",
+  "hilo_nombre": "Sho, Barrios bajos - Capital de Kuroto",
+  "titulo": "Banzo sigue pistas de Archi por los barrios bajos",
+  "resumen": "Pregunta por el gnomo, sin encontrarlo en los mensajes conservados.",
+  "relato": "Banzo llega a los barrios bajos después de preguntar por Archi. No sabe si la pista que lo ha llevado allí es cierta y sospecha que el gnomo los evita. Decide seguir buscando. El único mensaje narrativo no muestra encuentro ni hallazgo.",
+  "participantes": [
+    "Banzo"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1420770700222005269",
+      "afirmacion": "Banzo sigue una pista incierta para buscar a Archi.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Su sospecha de que Archi huye del grupo es un pensamiento, no un contacto confirmado."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-09-25T13:55:31.576000+00:00",
+  "fin_utc": "2025-09-25T13:55:31.576000+00:00",
+  "fecha_local": "2025-09-25",
+  "intervalo": {
+    "anterior": 158,
+    "siguiente": 159,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1418299599050899618",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1420832479270408274",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 158,
+        "fecha": "2025-09-18",
+        "inicio_referencia_utc": "2025-09-18T18:15:55+00:00",
+        "fin_estimado_utc": "2025-09-18T20:58:06+00:00",
+        "duracion_video_segundos": 9731,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1418299599050899618"
+      },
+      {
+        "capitulo": 159,
+        "fecha": "2025-09-25",
+        "inicio_referencia_utc": "2025-09-25T18:00:44+00:00",
+        "fin_estimado_utc": "2025-09-25T20:59:58+00:00",
+        "duracion_video_segundos": 10754,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1420832479270408274"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1420770700222005269",
+      "fecha_utc": "2025-09-25T13:55:31.576000+00:00",
+      "fecha_local": "2025-09-25",
+      "editado_utc": null,
+      "texto": "Banzo : **se le vería aparecer por los callejones llegando a los barrios bajos , ha hecho un par de preguntas para ver si alguien había visto a Archi últimamente.  \nParece que alguna pista falsa o no , le lleva a los barrios bajos ** \n\n*pero que le pasa a este maldito gnomo ,parece que huya de nosotros, seguiré buscando*",
+      "mensaje_sha256": "6b0925f7252535923ca0c0cbe42c2150795cb290c3d3dccf07f35420594a64f1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1420770700222005269",
+      "texto_sha256": "abef1f9b34eac5ce2b0dfa23a9b09cf13fe9af65ba5cbd105f42bc61efee8441",
+      "adjuntos": []
+    },
+    {
+      "id": "1421019807536648243",
+      "fecha_utc": "2025-09-26T06:25:23.388000+00:00",
+      "fecha_local": "2025-09-26",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "6531175e819b99ac8ae8b107a0006285e42245e1d053afc065132b35e2339997",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1421019807536648243",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": [],
+      "no_narrativo": true,
+      "nota_editorial": "Marcador de cierre conservado junto a la conversación."
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "k-1367439525911199764",
+  "campana": "kuroto",
+  "unidad_revision": "k-1367439525911199764",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Esperar a que Guxi se reponga",
+  "resumen": "Jhin lleva a Guxi a descansar e Ikaari ofrece apoyo.",
+  "relato": "El repicar de las campanas despierta a Ikaari, que encuentra la base vacía y sale a buscar noticias y caras conocidas por la ciudad. Más tarde, Jhin lleva a Guxi en brazos hasta su cama y permanece fuera esperando a Shizzuka. Ikaari le ofrece ayuda y sake mientras revisa un libro y sus apuntes, proponiendo esperar a que su compañero se recomponga antes de decidir qué hacer. Jhin acepta el trago y explica que Guxi necesita silencio. Considera alejarse de Sho unos días e ir a Ukiyo, aunque antes espera a Shizzuka y se propone buscarla si tarda. La escena no explica qué anuncian las campanas ni determina la causa o el alcance del estado de Guxi.",
+  "participantes": [
+    "Ikaari",
+    "Jhin",
+    "Guxi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1367439525911199764",
+      "afirmacion": "Ikaari pregunta por las campanas y encuentra la sala vacía.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1367461588272939048",
+      "afirmacion": "Jhin lleva a Guxi hasta su cama y espera fuera.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1367475366217781288",
+      "afirmacion": "Jhin pide silencio para Guxi y considera ir a Ukiyo mientras espera a Shizzuka.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Doce mensajes completos; dos hilos de acción intercalados, conservados en subescenas.",
+    "El goliat y el drow de la transición se entienden por el contexto inmediato como Banzo y Jelbreg; la propia línea los designa por aspecto. No se inventan acciones de su viaje.",
+    "Las preocupaciones privadas de Jhin no se comunican automáticamente. No se identifica aquí una muerte ni la razón de las campanas."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-01T09:56:28.775000+00:00",
+  "fin_utc": "2025-05-01T12:18:53.770000+00:00",
+  "fecha_local": "2025-05-01",
+  "intervalo": {
+    "anterior": 110,
+    "siguiente": 111,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367206327377727518",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 110,
+        "fecha": "2025-04-30",
+        "inicio_referencia_utc": "2025-04-30T18:29:35+00:00",
+        "fin_estimado_utc": "2025-04-30T20:53:27+00:00",
+        "duracion_video_segundos": 8632,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367206327377727518"
+      },
+      {
+        "capitulo": 111,
+        "fecha": "2025-05-01",
+        "inicio_referencia_utc": "2025-05-01T18:30:18+00:00",
+        "fin_estimado_utc": "2025-05-01T21:17:50+00:00",
+        "duracion_video_segundos": 10052,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1367439525911199764",
+      "fecha_utc": "2025-05-01T09:56:28.775000+00:00",
+      "fecha_local": "2025-05-01",
+      "editado_utc": "2025-05-01T09:56:56.649000+00:00",
+      "texto": "Ikaari: **Se abre una puerta de la habitación de Ikaari y se dirige hacia la mesa central de la base** Hay alguien que me pueda explicar qué significa todo este repicar de campanas? Alguien sabe qué está pasando?\n**El aspecto y las expresiones del aún somnoliento Tanuki denotan unos tonos distintos que de costumbre, pareciendo más relajado y alegre**",
+      "mensaje_sha256": "23fcaedf77c1c854fb5c6811a4d73b42543849a49ef2d12d9ae35af0b30bca5a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1367439525911199764",
+      "texto_sha256": "249ade5739d34a0aa0defe90d08abc0e3ad5a075278f0cacd0c1e2b0184247c6",
+      "adjuntos": []
+    },
+    {
+      "id": "1367447548343615488",
+      "fecha_utc": "2025-05-01T10:28:21.472000+00:00",
+      "fecha_local": "2025-05-01",
+      "editado_utc": null,
+      "texto": "*Parece que no hay nadie por aquí... supongo que habrán salido a la calle a ver qué está pasando...*\n**Se acabará de preparar (2 lingotazos) y saldrá a la calle a enterarse de qué está pasando, moviéndose por la ciudad buscando alguna cara conocida o de algún cazador**",
+      "mensaje_sha256": "83106398e83213caa6bcae983b3186471a33255b3aba487c8ff6aff03e8b793d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1367447548343615488",
+      "texto_sha256": "7255588a22507b8e6a9e7392a781311e5fd7cde123f8a21e1b63bb8b27738ed8",
+      "adjuntos": []
+    },
+    {
+      "id": "1367461588272939048",
+      "fecha_utc": "2025-05-01T11:24:08.852000+00:00",
+      "fecha_local": "2025-05-01",
+      "editado_utc": null,
+      "texto": "jhin: **llega con guxi en brazon y lo acuesta en su cama ** descansa amigo mio ** se queda fuera con la puerta cerrada esperando a ver si viene shizukka *sera mejor alejarse un poco de la capital estos dias*",
+      "mensaje_sha256": "6f8f6b61e4fbe8af3a94e65641aa21e330ebe0f6f7be043c9e97f48593210b34",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1367461588272939048",
+      "texto_sha256": "3a949d4b3ddbb491113c2b22dbfb9dd66a358db08dd202fa31e73409ae39fcdb",
+      "adjuntos": []
+    },
+    {
+      "id": "1367474006956966079",
+      "fecha_utc": "2025-05-01T12:13:29.697000+00:00",
+      "fecha_local": "2025-05-01",
+      "editado_utc": "2025-05-01T12:20:27.299000+00:00",
+      "texto": "Ikaari: Bueno Jhin si necesitas algo estaré aquí  **mientras se sienta en la mesa, saca el libro junto con los apuntes de la bolsa y sirve dos vasos de sake**\nA ver si Guxi se recompone un poco y pensamos qué hacer. Paciencia \n**Se queda absorto entre apuntes y sake**",
+      "mensaje_sha256": "753528a2170031bd5312b2274749fcb442c797e55330d7157da4b53d020acb66",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1367474006956966079",
+      "texto_sha256": "332e8f048541f65cb6712ba61a809468bdea42365e6ce2cad7dbc6d51587f024",
+      "adjuntos": []
+    },
+    {
+      "id": "1367475366217781288",
+      "fecha_utc": "2025-05-01T12:18:53.770000+00:00",
+      "fecha_local": "2025-05-01",
+      "editado_utc": "2025-05-01T12:21:25.627000+00:00",
+      "texto": "Jhin: algo de silencio es lo unico que necesita guxi ahora mismo yo si puedo me ire unos dias de sho a ukiyo a ver si aparece shizukka si tarda mucho ire a buscarla **te acepta el trago y se queda unos segundos a la copa antes de beberla ** *nunca me acostumbrare a este sabor*",
+      "mensaje_sha256": "ae0a1ce1787fa1bec66086aaed94f06f5d6e09871e96b09f5e7ad1549b63aff9",
+      "tipo_discord": 19,
+      "referencia": "1367474006956966079",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1367475366217781288",
+      "texto_sha256": "71adf5c21666677712a8f507774eee4eeaebfaa2f4fe647045915dda9f046ec9",
+      "adjuntos": []
+    }
+  ]
+}

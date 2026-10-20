@@ -1,0 +1,275 @@
+{
+  "id": "x-1548658454711902291",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1548658454711902291",
+  "hilo_id": "1524091803647741996",
+  "hilo_nombre": "Jungla - En alguna parte de Xoltacán",
+  "titulo": "Oghma ayuda a Eldrath a levantar defensas",
+  "resumen": "Trabajan junto a Iktan y ella relata el ataque a Perlasal y la fuga del kraken.",
+  "relato": "Eldrath cava trampas y levanta empalizadas en las afueras de Iktan, agotado y solo. Oghma, que iba a informar a su patrón después de volver de Perlasal, se asusta con el ruido y termina chocando con él. El elfo explica que el dragón atacó la ciudad con no muertos y prepara la próxima defensa.\n\nElla ofrece magia para mover piedras y pone a su eco dracónido a cortar madera. Pregunta por Tryel y él confirma que está en la ciudad buscando jugadores de cabraball. Oghma le recuerda el cariño de su hermana y la cooperación de los vecinos; Eldrath solo expresa que necesita ideas y gente.\n\nLa anciana cuenta que Zelda se tragó una cría de kraken, que los profundos atacaron Perlasal para buscarla y que consiguieron extraerla, pero escapó. Son hechos relatados por ella, sin reconstrucción del combate ni de la intervención sobre Zelda.\n\nAl caer la tarde, recomienda hablar con Archie y sus cocos para mejorar las defensas. Tiene además que comentarle un trabajo obtenido en Perlasal. Se marcha a buscar a Tryel. Eldrath advierte que quedaron piedras mal colocadas y un árbol sin cortar y continúa trabajando; la ayuda no equivale a defensas terminadas ni expertas.",
+  "participantes": [
+    "Eldrath",
+    "Oghma",
+    "Eco dracónido de Oghma"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1548695602123116637",
+      "afirmacion": "Eldrath prepara defensas tras el ataque del dragón y sus no muertos.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1548698584021737504",
+      "afirmacion": "Oghma ayuda con telequinesis y su eco.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1548706303453691947",
+      "afirmacion": "Eldrath se refiere explícitamente a Tryel como su hermana.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1548710623687344250",
+      "afirmacion": "Oghma relata la extracción y fuga de la cría de kraken.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1548715443315802225",
+      "afirmacion": "Recomienda consultar a Archie y menciona un trabajo para él en Perlasal.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1548717312583143476",
+      "afirmacion": "Eldrath sigue trabajando tras una ayuda incompleta.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El objetivo de hablar al patrón no se desarrolla ni identifica al patrón.",
+    "La capacidad de construir fortificaciones no queda acreditada como especialidad de ninguno.",
+    "La continuidad abierta deja pendiente reclutar más ayuda."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-09-13T11:35:48.286000+00:00",
+  "fin_utc": "2026-09-13T15:29:41.096000+00:00",
+  "fecha_local": "2026-09-13",
+  "intervalo": {
+    "anterior": 61,
+    "siguiente": 62,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1548030716158152747",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1550205538032422963",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 61,
+        "fecha": "2026-09-11",
+        "inicio_referencia_utc": "2026-09-11T18:00:47+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1548030716158152747"
+      },
+      {
+        "capitulo": 62,
+        "fecha": "2026-09-17",
+        "inicio_referencia_utc": "2026-09-17T18:01:47+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1550205538032422963"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1548658454711902291",
+      "fecha_utc": "2026-09-13T11:35:48.286000+00:00",
+      "fecha_local": "2026-09-13",
+      "editado_utc": "2026-09-13T11:35:57.154000+00:00",
+      "texto": "Eldrath: **En las afueras de Iktan, lo suficientemente cerca como para si para algo correr y ponerse asalvo. Se escucha el crujir de la madera, el sonido de una pala cavando en la tierra y el jadeo por el esfuerzo de alguien que no esta acostumbrado a estas tareas. Poner trampas y levantar empalizadas no es tarea sencilla y menos siendo solo uno... Siempre solo uno.** <@210947008716996609>",
+      "mensaje_sha256": "dad0d05b4c8f86d01c4193a3d79ad4b06bdb60a27199fb8c4839802e5d41b909",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1548658454711902291",
+      "texto_sha256": "f6425b1ae0f938882ed2a9b4ff477fe3709709aba78277d50005c89bcc4c1511",
+      "adjuntos": []
+    },
+    {
+      "id": "1548694633339424829",
+      "fecha_utc": "2026-09-13T13:59:33.943000+00:00",
+      "fecha_local": "2026-09-13",
+      "editado_utc": null,
+      "texto": "Oghma:\n**Tras el viaje ida y vuelta a Perlasal, aun no ha tenido tiempo de reportarle lo ocurrido a su patron asi que se dirige hacia la selva intentando ser sigilosa y que no la sigan. Entonces empieza a escuchar un ruido ritmico como de tierra removida, incapaz de localizarlo, invoca su espada negra y se esconde tras su eco draconido mientras comienza a retroceder trastabillando cuando se choca de espaldas contra Eldrath. Con un respingo de sorpresa y miedo se gira, soltando un suspiro de alivio al ver a Eldrath y lo mira de arriba a abajo**\nPensaba que eras uno de ellos. No deberias alejarte tanto del pueblo con el dragon y el kraken sueltos por ahi. ¿Que haces cavando aqui en mitad de ninguna parte, hay un tesoro enterrado? ¿Necesitas ayuda?",
+      "mensaje_sha256": "b1708d09744c194a6f5e6e3040d4e885ed2a71ca031d40d24fd0e7c5413ee48f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1548694633339424829",
+      "texto_sha256": "b388fc721cef52f27b6ba5f74498e783830f0e23ab0774baca70becf1d8126b2",
+      "adjuntos": []
+    },
+    {
+      "id": "1548695086202757160",
+      "fecha_utc": "2026-09-13T14:01:21.914000+00:00",
+      "fecha_local": "2026-09-13",
+      "editado_utc": null,
+      "texto": "<@753394009153732689>",
+      "mensaje_sha256": "3da74ad8a8c0cac95b4776480844e98677bf8b5f4cca04c74147e644653c7c84",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1548695086202757160",
+      "texto_sha256": "890c9f37aeb3816906cf21c151cf25684b672d2a4159ba4e6fe706ef8e206891",
+      "adjuntos": []
+    },
+    {
+      "id": "1548695602123116637",
+      "fecha_utc": "2026-09-13T14:03:24.919000+00:00",
+      "fecha_local": "2026-09-13",
+      "editado_utc": null,
+      "texto": "Eldrath: **Levanta la mirada del suelo. Tiene el pelo pegado a la frente por el sudor.**\n\nEl dragon ataco la ciudad con sus no muertos. Estoy levantando defensas y poniendo trampas para la proxima oleada.",
+      "mensaje_sha256": "255f79934b2d3f5e2ba953f32d87815a0aa05fef61e83c9bea0d1aaf0671a4fb",
+      "tipo_discord": 19,
+      "referencia": "1548694633339424829",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1548695602123116637",
+      "texto_sha256": "5084ccd3eb44c3dfd33d370b2d1cd752481ee123aef42a727b76ef1a12b017be",
+      "adjuntos": []
+    },
+    {
+      "id": "1548698584021737504",
+      "fecha_utc": "2026-09-13T14:15:15.859000+00:00",
+      "fecha_local": "2026-09-13",
+      "editado_utc": "2026-09-13T14:15:47.855000+00:00",
+      "texto": "Oghma:\n**En su cara se puede ver que esta haciendo un gran esfuerzo intentando juntar uno mas uno**\n*Entonces todas esas manchas rojas no eran barro... Eso explica las caras largas y las marcas de garras*\nAsi que aqui tambien han atacado, ninguna desgracia viene sola, tambien han atacado Perlasal.\n**Como si hubiera recordado algo importante sus ojos se abren de par en par**\n¿Tryel esta bien? Deja que te ayude, hay mucho trabajo.\n**Se remanga los ropajes y se lleva una mano a la sien mientras algunas piedras se van levantando y haciendose a un lado. Con un gesto de su cabeza el draconido empieza a cortar listones a espadazos**",
+      "mensaje_sha256": "355d316a06f1b2aeb8c6934015aae6989d10b24319e7f2dbb58de3d705b172cf",
+      "tipo_discord": 19,
+      "referencia": "1548695602123116637",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1548698584021737504",
+      "texto_sha256": "73b24e423c08f9b4efac5accdc4d8519c435690bfcd82290efdf5ed38ab960c6",
+      "adjuntos": []
+    },
+    {
+      "id": "1548699396462346274",
+      "fecha_utc": "2026-09-13T14:18:29.560000+00:00",
+      "fecha_local": "2026-09-13",
+      "editado_utc": "2026-09-13T14:18:36.683000+00:00",
+      "texto": "Eldrath: **Abre los ojos sorprendido pero no dice nada mientras ve como ella esta haciendo un trabajo que a él le llevo horas. Toma la pala para seguir cabando.**\n\nEsta bien... Esta en la ciudad buscando gente para jugar al cabraball.",
+      "mensaje_sha256": "cedf136ad46e4fd5f88555038b2b23f07f02a9e2b7e395f765781f1e65161897",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1548699396462346274",
+      "texto_sha256": "19af179b9266f4719d3cf6513b7b0f456bba36b34ea5224dbc3afd0da48e61d8",
+      "adjuntos": []
+    },
+    {
+      "id": "1548700936086626475",
+      "fecha_utc": "2026-09-13T14:24:36.635000+00:00",
+      "fecha_local": "2026-09-13",
+      "editado_utc": "2026-09-13T14:26:30.576000+00:00",
+      "texto": "Oghma:\n**Murmura unas palabras y un soplo de brisa con olor a pan recien hecho sopla cruzando a Eldrath y el mango de la pala empieza a sentirse ligeramente mas fresco**\nNo nos conocemos mucho, pero creo que estas mas callado de lo normal. ¿Estas bien, hay algo que pueda hacer por ti?",
+      "mensaje_sha256": "d8243822a80ee65eeb3ee0d43560f0bf82f39d1ad31324e8ee75d2a80e51093e",
+      "tipo_discord": 19,
+      "referencia": "1548699396462346274",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1548700936086626475",
+      "texto_sha256": "317380f5ad1c35d0cbd483a3f570bec436473139e857862f3e6dab591ee1d0af",
+      "adjuntos": []
+    },
+    {
+      "id": "1548701706261504002",
+      "fecha_utc": "2026-09-13T14:27:40.259000+00:00",
+      "fecha_local": "2026-09-13",
+      "editado_utc": null,
+      "texto": "Eldrath: **Miro la pala... Y luego a ti... Relajo un poco su mandibula.**\n\nEstoy... Solo estoy. Necesito ideas para defender Iktan y gente.",
+      "mensaje_sha256": "839659040cae0a0c8d02a3758869e825d2c6df93ffbbf6bb1332762e36d77729",
+      "tipo_discord": 19,
+      "referencia": "1548700936086626475",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1548701706261504002",
+      "texto_sha256": "478919f96a1eb8b1346fd7e6b9a40a2b3ba649005822f3cd4cc9134abdfceef3",
+      "adjuntos": []
+    },
+    {
+      "id": "1548705439892504651",
+      "fecha_utc": "2026-09-13T14:42:30.426000+00:00",
+      "fecha_local": "2026-09-13",
+      "editado_utc": null,
+      "texto": "Oghma:\nPuede que yo no sea la mas lista ni la mas despierta, pero hasta yo se que Tryel haria cualquier cosa por ti. Es joven y tiene una forma peligrosa de ver la vida, pero eso es lo que hace que siempre tenga una sonrisa en la boca.\nY tu hermana no es la unica, hay mucha gente del pueblo trabajando para solucionar la situacion del dragon, aunque no todos esten aqui ahora, como te dije antes, ahora tambien hay un kraken suelto. \nSi algo tengo claro desde que llegue a Iktan es que aqui todo el mundo se ayuda. Sera la ciudad oculta, pero nadie aqui oculta sus ganas de arrimar el hombro.\n**Sin saber mucho ni de construccion ni de trampas, va siguiendo las  instrucciones de Eldrath para montarlo todo lo mejor posible**",
+      "mensaje_sha256": "23e33431c372bd63ff4881b4cb2cf6fac42fcc1689a98f9d384d00f66c5beef8",
+      "tipo_discord": 19,
+      "referencia": "1548701706261504002",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1548705439892504651",
+      "texto_sha256": "cb5a8e970b0da9d8d0eeb78268a34aa258cf8403f8d92a94ec30f03701b1137a",
+      "adjuntos": []
+    },
+    {
+      "id": "1548706303453691947",
+      "fecha_utc": "2026-09-13T14:45:56.315000+00:00",
+      "fecha_local": "2026-09-13",
+      "editado_utc": null,
+      "texto": "Eldrath: **Le va dando inficaciones. De trampas sabe por sus años de bromas pesadas... Pero no tanto de barricadas.**\n\nMi hermana... Bueno despues de lo que le paso en la jungla prefiero que no se meta en ella.\n\n**No comento nada de arrimar el hombro.**\n\n ¿Un Kraken?",
+      "mensaje_sha256": "648fbfb3ebf3815dd9b0250b398b49e2647841b77704295fadc7593c9ce9d8c9",
+      "tipo_discord": 19,
+      "referencia": "1548705439892504651",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1548706303453691947",
+      "texto_sha256": "c2a693fe67cde3103f0bfebc2ff209bb2153946a8d0ab42eee0523051c18d2ab",
+      "adjuntos": []
+    },
+    {
+      "id": "1548710623687344250",
+      "fecha_utc": "2026-09-13T15:03:06.339000+00:00",
+      "fecha_local": "2026-09-13",
+      "editado_utc": "2026-09-13T15:03:39.116000+00:00",
+      "texto": "Oghma:\nEs una larga historia...\nResulta que Zelda, el elfo guapito de poco seso se trago una cria de kraken cuando fuimos a parar el ritual de invocacion, el caso es que los profundos han atacado Perlasal buscando la cria, pudimos detener el ataque y minimizar las bajas, pero aun asi la sangre tiñe las aguas de Perlasal.\nAl final conseguimos sacarle el kraken a Zelda, que casi ni murio, pero calculamos mal el tamaño y fuerza de la criatura y se escapo, ahora podria estar en cualkier superficie de agua entre Iktan y Perlasal\n**Se encoge de hombros y esboza una sonrisa**\nPero al menos el elfo esta vivo, me cae bien.",
+      "mensaje_sha256": "be1eae1d799101964885300a626484f86f7fa632bc7c5c3cd047d80e2a89fce3",
+      "tipo_discord": 19,
+      "referencia": "1548706303453691947",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1548710623687344250",
+      "texto_sha256": "59d6f21720fab44de78cf0d5fb3ce4aa97a7788a1bca1720bfad88354afd8413",
+      "adjuntos": []
+    },
+    {
+      "id": "1548712543038476471",
+      "fecha_utc": "2026-09-13T15:10:43.948000+00:00",
+      "fecha_local": "2026-09-13",
+      "editado_utc": null,
+      "texto": "Eldrath: **Paro de cavar, se te quedo mirando con cara de: ¿Que cojones me estas contando?.**\n\n*No tengo ni idea de quien me esta hablando... Joder porque son tan raros... Mira destino... ya se que envias a tus mejores guerreros a tus batallas mas duras pero por favor dejame aunque sea 100 años tranquilo.*\n\n**Pero no dijo nada de eso, en su lugar salio un...**\n\nDe todo lo que has dicho estoy de acuerdo con que ese elfo no tiene muchas luces y que es una historia muy larga.",
+      "mensaje_sha256": "82fb7ce0202c4811ae31dd97c011cd2c4203fae57d4e97d558dc2e35cd2c12e7",
+      "tipo_discord": 19,
+      "referencia": "1548710623687344250",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1548712543038476471",
+      "texto_sha256": "b8681b9d10e527c8c9a3c22847003475f76466f0b3afd3b7ee4cdecc642e96a9",
+      "adjuntos": []
+    },
+    {
+      "id": "1548715443315802225",
+      "fecha_utc": "2026-09-13T15:22:15.428000+00:00",
+      "fecha_local": "2026-09-13",
+      "editado_utc": null,
+      "texto": "Oghma:\nSi que era larga, y mira que tarde se ha hecho. Tu no te preocupes, no estas solo. Luego tengo que ir a hablar con Archie para decirle que le he conseguido un trabajito en Perlasal, deberias ir a hablar con el, tiene muy buenas ideas y unos cocos muy peleones, seguro que te ayuda con las defensas mejor que yo. Y ahora voy a ver a tu hermana asi me entero de que es eso del cabraball...\n**Con dificultad y un poco perdida vuelve a Iktan, saliendo de la escena**",
+      "mensaje_sha256": "52d57bd9ec70c8e3668aaeb49348ea7e04654f96c1d425174ea5714b51e0a856",
+      "tipo_discord": 19,
+      "referencia": "1548712543038476471",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1548715443315802225",
+      "texto_sha256": "12c3902f036f5c6792dc0f2b652888cbf0bfb3fb0a6aac0b05361d5e4768700d",
+      "adjuntos": []
+    },
+    {
+      "id": "1548717312583143476",
+      "fecha_utc": "2026-09-13T15:29:41.096000+00:00",
+      "fecha_local": "2026-09-13",
+      "editado_utc": null,
+      "texto": "Eldrath: **Mira a la ancina... Ve como le ha dejado alguna piedra en medio y el arbol sin cortar... Y no puede evitar gruñir. El pobre se queda trabajando de nuevo.**",
+      "mensaje_sha256": "3767a482f73a487c1049d834daccd3c4983f0718d3375840aade85a8a2194bbe",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1548717312583143476",
+      "texto_sha256": "0d61ce0fcf74e411e101afd00d2ea8f758d3cac82451aa950f291edf8c9abd33",
+      "adjuntos": []
+    }
+  ]
+}

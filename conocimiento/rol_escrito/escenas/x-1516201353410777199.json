@@ -1,0 +1,265 @@
+{
+  "id": "x-1516201353410777199",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1516201353410777199",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "Ione intercepta la lanza que se dirige a los trillizos",
+  "resumen": "Ilikar busca comprobar su protección de la tripulación y termina ofreciéndose como refugio para ella.",
+  "relato": "Ione e Ilikar continúan el combate entre golpes, derribos y un cabezazo. El goliat habla de proteger a la familia como protege a su tribu. Entonces lanza la lanza cargada de energía hacia la proa, donde están los trillizos, y deja su espalda expuesta. Ione abandona el ataque y corre a interceptarla. No la frena de frente: acompaña el movimiento y la desvía hasta clavarla en la cubierta, dejando escarcha.\n\nIlikar queda impresionado porque priorizó a los suyos. Señala una víbora que acechaba a los trillizos y huye de la presencia de Ione, pero reconoce en privado que debió avisar antes. La capitana recupera y devuelve la lanza. Él le pide permitir que su sombra proteja a la tripulación y ofrece una botella de licor como obsequio de acogida. Ella la acepta y bebe. El intercambio termina sin vencedor declarado ni lesiones añadidas por conjetura.",
+  "participantes": [
+    "Ione",
+    "Ilikar",
+    "Erandi",
+    "Trillizos"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1516224076824318043",
+      "afirmacion": "Ilikar lanza hacia la proa donde están los trillizos.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1516226244893741166",
+      "afirmacion": "Ione cambia de objetivo e intercepta la lanza.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1516230060816732220",
+      "afirmacion": "Se muestra la víbora y el pensamiento de Ilikar sobre no haber avisado.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1516233833219883231",
+      "afirmacion": "Ofrece proteger a la tripulación y entrega licor.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Tres fases del mismo encuentro: combate, acogida a bordo e historia frente al fuego.",
+    "La amenaza de la lanza provoca una reacción real; la víbora se muestra después y no borra que Ilikar no avisó."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-06-15T22:02:52.312000+00:00",
+  "fin_utc": "2026-06-16T00:17:24.495000+00:00",
+  "fecha_local": "2026-06-16",
+  "intervalo": {
+    "anterior": 38,
+    "siguiente": 39,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149383024690/1515976737605816332",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1517589464363434048",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 38,
+        "fecha": "2026-06-15",
+        "inicio_referencia_utc": "2026-06-15T18:00:00+00:00",
+        "fin_estimado_utc": "2026-06-15T20:23:29+00:00",
+        "duracion_video_segundos": 8609,
+        "tipo_referencia": "programacion",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149383024690/1515976737605816332"
+      },
+      {
+        "capitulo": 39,
+        "fecha": "2026-06-19",
+        "inicio_referencia_utc": "2026-06-19T17:58:26+00:00",
+        "fin_estimado_utc": "2026-06-19T20:14:22+00:00",
+        "duracion_video_segundos": 8156,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1517589464363434048"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida."
+  },
+  "fuentes": [
+    {
+      "id": "1516201353410777199",
+      "fecha_utc": "2026-06-15T22:02:52.312000+00:00",
+      "fecha_local": "2026-06-16",
+      "editado_utc": null,
+      "texto": "Ione: **Deja escapar un gruñido y arquea su cuerpo para con el impulso ergurse sobre ti y propinarte un golpe directo al menton... No sabes si sonrie o te esta enseñando los dientes**",
+      "mensaje_sha256": "409a129a01f8e30871cafa91ae00af609f98c043c877f4b5d2e7b9a7a1fbc188",
+      "tipo_discord": 19,
+      "referencia": "1516200481133695107",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516201353410777199",
+      "texto_sha256": "2621588eeeed6a6ae92504df8953f83560038afba90bd36cf6e3e1a68bb8b79b",
+      "adjuntos": []
+    },
+    {
+      "id": "1516201564279406632",
+      "fecha_utc": "2026-06-15T22:03:42.587000+00:00",
+      "fecha_local": "2026-06-16",
+      "editado_utc": "2026-06-15T22:04:35.087000+00:00",
+      "texto": "**El momento en el que el puño de Ione va a impactar, Ilikar endurece su barbilla, dura como una roca y con el brazo intenta empujar a Ione fuera de su alcance, para ver si puede recoger su arma**",
+      "mensaje_sha256": "03aac570c4bd05868daeac398727a906c715685ac28f1d1ad2454bb4ef2af0ed",
+      "tipo_discord": 19,
+      "referencia": "1516201353410777199",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516201564279406632",
+      "texto_sha256": "3b7a2ce2e3ec542a8a1030604f9dc65d9821ecce5f70769811d7c9d6b10cd34b",
+      "adjuntos": []
+    },
+    {
+      "id": "1516204254522511461",
+      "fecha_utc": "2026-06-15T22:14:23.991000+00:00",
+      "fecha_local": "2026-06-16",
+      "editado_utc": null,
+      "texto": "Erandi:\n-Uuuuh!\n**Observa con atención, si pudiera comería palomitas al ver el combate, pero ya la magia se le ha secado como para ello**\n-Que buen golpe!",
+      "mensaje_sha256": "22ce43ddb41f539436ec1e935cc664402bb28d465514ead93c82713dfd3150d3",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516204254522511461",
+      "texto_sha256": "e696cffa28f38869b7283f96fce022b14b60f77b557833f511c033a52b86af91",
+      "adjuntos": []
+    },
+    {
+      "id": "1516220481496285376",
+      "fecha_utc": "2026-06-15T23:18:52.803000+00:00",
+      "fecha_local": "2026-06-16",
+      "editado_utc": null,
+      "texto": "Ione: **La lanzas y cae incando la rodilla de forma muy epica... Si no estuviera agitando el brazo del dolor al golpear tu menton. Gruñe de amocion antes de correr a cuatro patas hacia ti para saltarte por la espalda**",
+      "mensaje_sha256": "496ed30b3869f52e45e6fa5dc535bff04d6be05b3dbe70883b79dd076352c552",
+      "tipo_discord": 19,
+      "referencia": "1516201564279406632",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516220481496285376",
+      "texto_sha256": "e9cb5ab0daad5c87033733e62f34199b4f0f42928f929ab4023f7df82b4db032",
+      "adjuntos": []
+    },
+    {
+      "id": "1516221044401115287",
+      "fecha_utc": "2026-06-15T23:21:07.010000+00:00",
+      "fecha_local": "2026-06-16",
+      "editado_utc": "2026-06-15T23:21:16.863000+00:00",
+      "texto": "**Ilikar coge su lanza lo más rapido posible y carga hacia Ione sujetandola por ambos extremos lanzandose encima de ella para llevar el combate al suelo**",
+      "mensaje_sha256": "568de94cf282b86c742117bfe87ad634b633d70f0e06c3a212a36029793300a8",
+      "tipo_discord": 19,
+      "referencia": "1516220481496285376",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516221044401115287",
+      "texto_sha256": "23a36a5efb0d1fb701051f381d0d75006bf3886aff33642d841096c38d5c7417",
+      "adjuntos": []
+    },
+    {
+      "id": "1516221508429811912",
+      "fecha_utc": "2026-06-15T23:22:57.643000+00:00",
+      "fecha_local": "2026-06-16",
+      "editado_utc": null,
+      "texto": "Ione: **Enseña los dientes en una sonrisa divertida. No puede mover los brazos... ¿Pero quien los necesita si puede usar el coco?. Arquea su espalda, hecha la cabeza para atras y te propina un cabezazo en toda la frente**",
+      "mensaje_sha256": "168370c92a38d40f362406a3e659157c1a4b60a26e0312a75115f547de71e096",
+      "tipo_discord": 19,
+      "referencia": "1516221044401115287",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516221508429811912",
+      "texto_sha256": "b3c4db86def4a42b4e194f51241a83a97489f450d624eb2d1ba0ba6976a38f73",
+      "adjuntos": []
+    },
+    {
+      "id": "1516222541495144540",
+      "fecha_utc": "2026-06-15T23:27:03.945000+00:00",
+      "fecha_local": "2026-06-16",
+      "editado_utc": null,
+      "texto": "**El cabezazo resuena por todo el puerto, es como si dos grandes bolas de cañón se hubiesen golpeado**\n\n**Ilikar da varios pasos hacia atrás mientras se recompone**\n\nIlikar: Ilikar a escuchado a la capitana decir que ella cuida a su tripulación con su vida. Ilikar tambien protege Thuun-Khaz, sombra de Ilikar ser lugar mas seguro de Valle Blanco, refugio de tribu, refugio de familia - **dice mientras le hace una señal a la capitana para que vaya hacia el**\n\n**La lanza empieza a soltar chispas, como si una tormenta la recorriese**",
+      "mensaje_sha256": "1a7377002d3e17f8e632d52255ea52b4ee611096f7556e1df49c40221474a48e",
+      "tipo_discord": 19,
+      "referencia": "1516221508429811912",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516222541495144540",
+      "texto_sha256": "e894993191d0e26ede387811f5da5442b3a6146527e05d341e78a722beb290a4",
+      "adjuntos": []
+    },
+    {
+      "id": "1516223025723342960",
+      "fecha_utc": "2026-06-15T23:28:59.394000+00:00",
+      "fecha_local": "2026-06-16",
+      "editado_utc": null,
+      "texto": "Ione: **Se levanta y se tambalea agitando la cabeza. Ve tu probocación y no duda... Va a tu encuentro corriendo esta vez sobre sus dos patas**",
+      "mensaje_sha256": "566b6a67c4e246cd412b735bc2952cc5fbbd1c984567e0e734f349398f2d55f9",
+      "tipo_discord": 19,
+      "referencia": "1516222541495144540",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516223025723342960",
+      "texto_sha256": "6750f819f8b6ad8428c447a73a4c99fda6e21fb88db174272ea97f80484e757f",
+      "adjuntos": []
+    },
+    {
+      "id": "1516224076824318043",
+      "fecha_utc": "2026-06-15T23:33:09.996000+00:00",
+      "fecha_local": "2026-06-16",
+      "editado_utc": "2026-06-15T23:34:48.520000+00:00",
+      "texto": "**Viendo que Ione se lanza con todo hacia el, Ilikar realiza algo inesperado**\n\n**Gira sobre su propio eje y proyecta su lanza hacia la proa con una violencia extrema.**\n\n**El arma surca el aire con un silbido ensordecedor directo hacia los trillizos, cortando el viento como un rayo.**\n\n*Hazme creer* - **piensa Ilikar mientras deja su espalda totalmente descubierta hacia Ione**",
+      "mensaje_sha256": "7dc9df8745fab41017bf588260b8c20ccf05eb8aaec3b68437d6b24bd2d498bc",
+      "tipo_discord": 19,
+      "referencia": "1516223025723342960",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516224076824318043",
+      "texto_sha256": "49dbc19c4a639a9f343c28f310dcc6a3e477dea05cef52ff3f5e5bf69102480e",
+      "adjuntos": []
+    },
+    {
+      "id": "1516226244893741166",
+      "fecha_utc": "2026-06-15T23:41:46.904000+00:00",
+      "fecha_local": "2026-06-16",
+      "editado_utc": null,
+      "texto": "Ione: **Abre los ojos apliamente y cambia de trayectoria. Sus musculos se tensan y se impulsa con tanta fuerza que astilla los tablones donde empieza la carrera. Corre veloz hasta interponerse... Y como si fuera a camara lenta exala aire que sale de su morro, toma la lanza con una mano aun volando y la otra la pone al otra lado del arma... No para el viaje si no que lo acompaña. Gira sobre si misma y con todo su cuerpo redirige el arma hasta quedar clavada a un lado de sus pies rompiendo el suelo y congelandolo levemente... Entonces recupera el aire y jadea como un perro... Aunq su movimiento de antes poco encaja con su aspecto actual de bestia. Alza la mirada hacia ti con unos ojos ambar centelleando... Sobra las palabras para entender que es una advertencia... \"Cuidado con lo que haces\"**",
+      "mensaje_sha256": "0f372c6f3220e60d6b9e8f89e613e9af04afbfe4032b667fee017cfe4583e211",
+      "tipo_discord": 19,
+      "referencia": "1516224076824318043",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516226244893741166",
+      "texto_sha256": "7f4af6d9c181597935870b3f36b20c1341d42c25bbcdf3d79ba5dcc4a3f6cc7e",
+      "adjuntos": []
+    },
+    {
+      "id": "1516230060816732220",
+      "fecha_utc": "2026-06-15T23:56:56.691000+00:00",
+      "fecha_local": "2026-06-16",
+      "editado_utc": "2026-06-15T23:57:23.826000+00:00",
+      "texto": "**Ilikar queda completamente impresionado con el movimiento de Ione, su agilidad y su destreza son de otro mundo ciertamente, pero no titubeó ni un instante en darse la vuelta, eso, es a lo que él llama un líder**\n\n**Con total tranquilidad, Ilikar señala a un par de palmos por encima de su cabeza. Entre las rocas que hay detrás de ellos, una enorme víbora que acechaba a los trillizos, sale serpenteando, huyendo de la amenazante presencia de Ione**\n\nIlikar: No querrías que esa víbora se comiese a nuestros aliados, ¿no? - **dice Ilikar mientras esboza una sonrisa de oreja a oreja** \n\n*quizas la he cagado* - **piensa para si mismo tras darse cuenta de que debía haberles avisado antes**",
+      "mensaje_sha256": "135a8542d5ea92743158d94bdedb472dd573d9719a1a69006858e50d90f7cd78",
+      "tipo_discord": 19,
+      "referencia": "1516226244893741166",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516230060816732220",
+      "texto_sha256": "24497c88e8ffc341da39ded796017521490b66ceea4ea184b602752591184a5b",
+      "adjuntos": []
+    },
+    {
+      "id": "1516231655050973304",
+      "fecha_utc": "2026-06-16T00:03:16.786000+00:00",
+      "fecha_local": "2026-06-16",
+      "editado_utc": null,
+      "texto": "Ione: **Suelta un resoplido tosco ante al huida de la serpiente y empieza a agitarse para destensarse.Mira su garra con algo de escarcha** *Que poder y que fuerza... Si hubiera puesto mi cuerpo me hubiera atravesado de lado a lado* **Agita de nuevo su cabeza y con garras y dientes saca la lanza y cual perro con un palo te la trae agitando la cola**",
+      "mensaje_sha256": "65e40dd3d41615792083ce658d5b3c127fd1a763dcd4802c720081f0121b8dd0",
+      "tipo_discord": 19,
+      "referencia": "1516230060816732220",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516231655050973304",
+      "texto_sha256": "9a3746fd08be0fd879b0d41a1715ea92294cb71932ae5fc980e5f52171db1c68",
+      "adjuntos": []
+    },
+    {
+      "id": "1516233833219883231",
+      "fecha_utc": "2026-06-16T00:11:56.102000+00:00",
+      "fecha_local": "2026-06-16",
+      "editado_utc": null,
+      "texto": "**Ilikar suspira de alivio** \n\n*Creo que esta bien* - **piensa para sí mismo, mientras se sienta con las piernas cruzadas en frente de Ione y recoge su lanza**\n\nIlikar: Capitana Ione, si tripulación es familia, como tribu Thuun-Khaz. Ilikar siempre proteje. Permite que sombra de Ilikar sea refugio de tripulación.\n\n**Del bolsillo del goliath, consigue sacar una libreta completamente mojada y llena de tinta negra, un pescado y una botella verde, con alguna clase de licor dentro**\n\nIlikar: Padre siempre dijo, lleva obsequio a lugar donde te acojan. - **dice mientras le da esta botella a Ione**",
+      "mensaje_sha256": "d023eb54192a7c94a9299b85020931f342f38106a83d4668bfaeab632abafc33",
+      "tipo_discord": 19,
+      "referencia": "1516231655050973304",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516233833219883231",
+      "texto_sha256": "53d89cc0b311a7177e8c5f6642221a6570e196f1580b94c7838bf0a6a2f070c2",
+      "adjuntos": []
+    },
+    {
+      "id": "1516235210600087705",
+      "fecha_utc": "2026-06-16T00:17:24.495000+00:00",
+      "fecha_local": "2026-06-16",
+      "editado_utc": null,
+      "texto": "Ione: **Sus ojos se clavan en la botella fijamente... Se relame y acepta la botella bebiendola con avidez... ¿Cuantos dias llevaba sobria? A si demasiados. Cuando termina se relame y mueve la cola mas contenta que nunca**",
+      "mensaje_sha256": "34116df263c951b3356389fc5bd18729c758f5c0d209668fa3174573a805ec80",
+      "tipo_discord": 19,
+      "referencia": "1516233833219883231",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516235210600087705",
+      "texto_sha256": "712e7275cbf16dcb46d6e0fd93872e39c67618387f6c77038783c446a431654c",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "x-1480164369731026955",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1480164369731026955",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "La hada cuida a Mamá y vigila la plaza",
+  "resumen": "Bling abriga a Citlali antes de salir a observar Shiaru.",
+  "relato": "Bling despierta en un cajón del camarote de Nox, donde ha preparado otro pequeño nido con telas y un pergamino. Ve a Citlali dormida junto al huevo, la tapa, la acomoda y acompaña el gesto con música de cuna y un beso en la frente. Después calienta la base del nido y sale por la ventana.\n\nEn cubierta se divierte dibujando gafas y bigotes con carbón en los rostros de los tripulantes dormidos. Finalmente vuela al tejado del Ron de Bonny y observa la plaza y el interior del bar mientras come fruta. No se relata un descubrimiento nuevo durante la vigilancia.",
+  "participantes": [
+    "Bling",
+    "Citlali"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1480164369731026955",
+      "afirmacion": "Bling cuida a Citlali y al nido, hace bromas a la tripulación y vuelve a vigilar desde la taberna.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La numeración de sus nidos es un pensamiento humorístico, no un inventario exhaustivo verificado."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-03-08T11:24:45.868000+00:00",
+  "fin_utc": "2026-03-08T11:24:45.868000+00:00",
+  "fecha_local": "2026-03-08",
+  "intervalo": {
+    "anterior": 13,
+    "siguiente": 14,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1479570997991706655",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1480286934453452832",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 13,
+        "fecha": "2026-03-06",
+        "inicio_referencia_utc": "2026-03-06T20:06:30+00:00",
+        "fin_estimado_utc": "2026-03-06T22:22:52+00:00",
+        "duracion_video_segundos": 8182,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1479570997991706655"
+      },
+      {
+        "capitulo": 14,
+        "fecha": "2026-03-08",
+        "inicio_referencia_utc": "2026-03-08T19:31:31+00:00",
+        "fin_estimado_utc": "2026-03-08T22:37:35+00:00",
+        "duracion_video_segundos": 11164,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1480286934453452832"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1480164369731026955",
+      "fecha_utc": "2026-03-08T11:24:45.868000+00:00",
+      "fecha_local": "2026-03-08",
+      "editado_utc": null,
+      "texto": "Bling: **Se despierta dentro de un cajón del camarote de Nox envuelta en el pergamino y algunos restos de tela que ha acomodado a modo de nido**\nHmmm buenoss diaaas! **Dice casi cantando mientras se estira como un felino.**\n*Bueno tendré que enumerar mis nidos, este ya debe ser el número 6. Le llamaré el cojón roto de Nox jiji*\n**Cierra el cajón y ve que Citlali se ha quedado dormida haciendo guardia del huevo. Se quita las legañas y procede a tapar y acomodar a Mamá mientras hace sonar música de cuna y sonríe al darle un beso en la frente. Acto seguido calienta la base del nido y procede a salir al exterior por la ventana del camarote**\n**Observa como parte de la tripulación duerme en cubierta apestando a alcohol y aprovecha para divertirse con un trozo de carbón dibujando gafas, bigotes y demás en sus rostros. Una vez que parece que ya se ha aburrido, vuela hasta encima del Ron de Bonny y se queda observando la plaza de Shiaru y a ratos el interior del bar, comiendo una sabrosa fruta y canturreando**",
+      "mensaje_sha256": "131057e736737ec5ac3106a91facfd112be91d4c7e143ffce482bfa47050640b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1480164369731026955",
+      "texto_sha256": "869194e56a3896aa0a0ca87a8ba006a9dedc0e148b78b4d4edcd125107cd06a2",
+      "adjuntos": []
+    },
+    {
+      "id": "1480465731010171056",
+      "fecha_utc": "2026-03-09T07:22:15.996000+00:00",
+      "fecha_local": "2026-03-09",
+      "editado_utc": null,
+      "texto": "🔴Fin de la Escena🔴",
+      "mensaje_sha256": "51096a289da9f19df2a639ee0bdc3100d1af6792bddcd6896ef9ab1679e832a1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1480465731010171056",
+      "texto_sha256": "7b48f784e7d27f7d504591e65457ee8f6f5f093e0fa68b31981cee30b6cd3584",
+      "adjuntos": [],
+      "no_narrativo": true,
+      "nota_editorial": "Marcador de cierre conservado junto a la conversación."
+    }
+  ]
+}

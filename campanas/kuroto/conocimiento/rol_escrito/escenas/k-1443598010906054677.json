@@ -1,0 +1,76 @@
+{
+  "id": "k-1443598010906054677",
+  "campana": "kuroto",
+  "unidad_revision": "k-1443598010906054677",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "Una abertura en la Puerta Negra",
+  "resumen": "La narración presenta un cambio en la frontera y plantea enviar a los Cazadores a reconocer las Tierras Malditas.",
+  "relato": "La Puerta Negra permanece abierta, pero ha desaparecido la presencia opresiva que emanaba de ella tras la última oleada. Solo cruzan algunos demonios menores, que los soldados del Shogunato y los tritones abaten en la frontera. La narración presenta ese silencio como una oportunidad incierta para averiguar qué ha cambiado en las Tierras Malditas. Los generales necesitan información y consideran una incursión discreta, capaz de sobrevivir en territorio desconocido sin movilizar todo el ejército. El cierre señala a los Cazadores como candidatos, pero no muestra todavía una orden entregada, participantes concretos ni una expedición realizada.",
+  "participantes": [],
+  "evidencias": [
+    {
+      "mensaje_id": "1443598010906054677",
+      "afirmacion": "La narración describe la desaparición de la presión de la Puerta Negra y plantea un reconocimiento mediante los Cazadores.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Es un preámbulo narrativo de misión, no una escena ya jugada de exploración.",
+    "El silencio no se presenta como garantía de seguridad."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-11-27T13:43:06.554000+00:00",
+  "fin_utc": "2025-11-27T13:43:06.554000+00:00",
+  "fecha_local": "2025-11-27",
+  "intervalo": {
+    "anterior": 169,
+    "siguiente": 170,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1442596662206922943",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1443679606723838074",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 169,
+        "fecha": "2025-11-24",
+        "inicio_referencia_utc": "2025-11-24T19:23:51+00:00",
+        "fin_estimado_utc": "2025-11-24T22:32:50+00:00",
+        "duracion_video_segundos": 11339,
+        "tipo_referencia": "aviso_de_contraste",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1442596662206922943"
+      },
+      {
+        "capitulo": 170,
+        "fecha": "2025-11-27",
+        "inicio_referencia_utc": "2025-11-27T19:07:07+00:00",
+        "fin_estimado_utc": "2025-11-27T22:32:48+00:00",
+        "duracion_video_segundos": 12341,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1443679606723838074"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida. Una hora tomada de un aviso con título discrepante se utiliza solo como referencia aproximada de ese día."
+  },
+  "fuentes": [
+    {
+      "id": "1443598010906054677",
+      "fecha_utc": "2025-11-27T13:43:06.554000+00:00",
+      "fecha_local": "2025-11-27",
+      "editado_utc": null,
+      "texto": "**La Puerta Negra está abierta.\nTras la última oleada, la locura que emanaba de ella, esa presencia opresiva que retorcía la mente solo con mirarla, ha desaparecido. Ahora, únicamente algunos demonios menores cruzan el umbral, y son rápidamente abatidos y enviados de vuelta al Abismo por los soldados del Shogunato y los Tritones que guardan la frontera.\nPor primera vez en más de dos mil años, el interior de las Tierras Malditas no parece vomitar un caos imparable.\nY eso solo puede significar una cosa: hay una oportunidad.\nLos generales del Shogunato lo saben. Ese silencio no es natural, ni seguro… pero es la primera abertura real que han tenido desde que la Puerta Negra se selló por primera vez.\nNecesitan información. Necesitan saber qué hay dentro, qué ha cambiado, qué amenaza se está gestando.\nY para eso no enviarán un ejército.\nEnviarían a quienes pueden moverse sin ser vistos.\nA quienes pueden sobrevivir más allá de los mapas.\nA quienes pueden enfrentar demonios y seguir avanzando**.\n\n**¿Quién mejor que los Cazadores?**\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "c300b9eec4810ae494767135ea17767b8149eabd4ea68d41083d10f1de9a15cc",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1443598010906054677",
+      "texto_sha256": "4cf1c593b61716740075aef5f4bdaaff537d70d018deedaf203fae0f24b1bb9e",
+      "adjuntos": []
+    }
+  ]
+}

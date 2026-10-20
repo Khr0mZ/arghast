@@ -1,0 +1,106 @@
+{
+  "id": "k-1381944378062409728",
+  "campana": "kuroto",
+  "unidad_revision": "k-1381944378062409728",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Banzo zarpa hacia el continente",
+  "resumen": "Una débil llamada al hogar lleva a Banzo a embarcar en Hakahara.",
+  "relato": "Después de seguir buscando sin éxito la voz de sus ancestros, Banzo escucha una indicación tenue: hogar. Prepara provisiones y equipaje para volver al continente. El texto resume que ha avisado a Wukong y Gur para pedirles que vigilen a Rua durante su ausencia y que ha hablado por última vez con Kalista, sin reproducir esos intercambios. En el puerto de Hakahara sube al barco del anciano pescador que ya lo llevó a Kuroto. Agradece su ayuda y el navío zarpa por rutas discretas y poco conocidas. Banzo se despide de los cazadores; su llegada y lo que encuentre en casa quedan pendientes.",
+  "participantes": [
+    "Banzo",
+    "anciano pescador"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1381944378062409728",
+      "afirmacion": "Banzo prepara su regreso y zarpa desde Hakahara en el barco del anciano.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La localización explícita es Hakahara aunque el mensaje se publique en el hilo de Sho.",
+    "Los mensajes 1381963334957531156 y 1381963411927208027 son bromas sin voz de personaje sobre ser shogun y casarse; no constituyen nombramiento ni boda.",
+    "La palabra hogar es una experiencia percibida por Banzo, no identificación confirmada de quien lo llama."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2025-06-10T10:33:35.015000+00:00",
+  "fin_utc": "2025-06-10T11:49:13.042000+00:00",
+  "fecha_local": "2025-06-10",
+  "intervalo": {
+    "anterior": 125,
+    "siguiente": 126,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1380253520841805875",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1382420384158056601",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 125,
+        "fecha": "2025-06-05",
+        "inicio_referencia_utc": "2025-06-05T18:34:23+00:00",
+        "fin_estimado_utc": "2025-06-05T21:51:33+00:00",
+        "duracion_video_segundos": 11830,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1380253520841805875"
+      },
+      {
+        "capitulo": 126,
+        "fecha": "2025-06-11",
+        "inicio_referencia_utc": "2025-06-11T18:04:52+00:00",
+        "fin_estimado_utc": "2025-06-11T20:51:16+00:00",
+        "duracion_video_segundos": 9984,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1382420384158056601"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1381944378062409728",
+      "fecha_utc": "2025-06-10T10:33:35.015000+00:00",
+      "fecha_local": "2025-06-10",
+      "editado_utc": "2025-06-10T10:34:03.021000+00:00",
+      "texto": "**PUERTO DE HAKAHARA**\nBanzo: **el goliat ha estado intentando buscar respuesta de sus ancestros sin éxito. Hasta que escucho una leve voz que decía, hogar... \n\nBanzo preparo su equipaje y provisiones,  no sería la primera vez en hacer un viaje así, pues vuelve a casa . \n\nPasando por Ukyio abría informado a <@220602485977382912> de la situación.  También a su fiel compañero Gur <@412279081170763776>  para pedirles el no pequeño favor de echar un ojo a Rúa en su ausencia . \nUna última conversación con Kalista <@753394009153732689> puso el punto final a las preparaciones. \n\nBanzo sube al mismo navío del viejo pescador que ya lo trajo desde el continente.  **\n\nTe debo una bien gorda anciano.  \n\n** el barco zarpa por rutas seguras y poco conocidas para una llegada discreta al continente ** \n\nHASTA PRONTO CAZADORES !!! \n\n🌭 BANZO SALE DE ESCENA 🌭",
+      "mensaje_sha256": "e3778acd8524c1dd51cd806bf9813b38384ba3c17fd8142670b0cda2cc560aa0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1381944378062409728",
+      "texto_sha256": "70cfae4e642b1e5321f0b667f9701b1ba3e47264ddbf08cd52b4ab5a8f9925a6",
+      "adjuntos": []
+    },
+    {
+      "id": "1381963334957531156",
+      "fecha_utc": "2025-06-10T11:48:54.691000+00:00",
+      "fecha_local": "2025-06-10",
+      "editado_utc": null,
+      "texto": "**Se va como banzo pero volverá como Shogun**",
+      "mensaje_sha256": "2a6a29401c1cd8ff3914dce303d83d5936aeb5dfe03573e5cb6b3367d8fafcf2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1381963334957531156",
+      "texto_sha256": "c94a655bda7710f3f1167fb6b7eb519e77a71e1b7bca30c1c1ee12174e9b933e",
+      "adjuntos": []
+    },
+    {
+      "id": "1381963411927208027",
+      "fecha_utc": "2025-06-10T11:49:13.042000+00:00",
+      "fecha_local": "2025-06-10",
+      "editado_utc": null,
+      "texto": "**no lloréis que se va a casar con ella**",
+      "mensaje_sha256": "91d300da21aa080c9971f900b638e9c8153c7bbcd604ee10ad0a1d2b0afb97ff",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1381963411927208027",
+      "texto_sha256": "2c4f3e50cb153b12402e85c98371e18ed23ca3ceb09036e1fb4775420cb99018",
+      "adjuntos": []
+    }
+  ]
+}

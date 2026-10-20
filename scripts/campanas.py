@@ -164,7 +164,12 @@ def build_kuroto(folder=KUROTO):
             if reference not in by_id:
                 raise ValueError('Entidad de Kuroto con referencia ajena')
         validate_story(entity.get('history'), by_id, entity['name'])
-    return {'chapters': chapters, 'facts': facts, 'entities': entities,
+    if folder.resolve() == KUROTO.resolve():
+        from fechas_emision import attach_dates
+        attach_dates('kuroto', chapters)
+    from rol_escrito import load_written_role
+    written_role = load_written_role('kuroto', chapters) if folder.resolve() == KUROTO.resolve() else {'scenes': [], 'stats': {}}
+    return {'chapters': chapters, 'facts': facts, 'entities': entities, 'writtenRole': written_role,
             'transcripts': transcripts, 'documents': documents, 'seguimiento': tracking,
             'revision': read_json(integration_path) if integration_path.exists() else None,
             'catalog': {key: value for key, value in catalog.items() if key != 'episodios'}}

@@ -1,0 +1,282 @@
+{
+  "id": "x-1552089442221564006",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1552089442221564006",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "El dragón de hielo choca con el puño astral",
+  "resumen": "El duelo de Tortas e Ilikar continúa sobre el lago y termina en un gran destello, sin revelar quién resiste el impacto.",
+  "relato": "Tortas cruza el lago hasta caminar sobre su superficie y lanza tres golpes astrales contra Ilikar. El goliat recibe uno, rompe otro con su puño y bloquea el tercero. Exige más intensidad. Su maestro levanta una cortina de agua con el tronco astral y mantiene una lluvia de impactos, pero Ilikar carga atravesándola. El tajo solo encuentra agua: Tortas se ha sumergido.\n\nUn remolino rodea al discípulo. Este se ancla con la guja y atiende a los cambios de presión sin caer en la finta. Tortas deja de ocultarse y salta para caer envuelto en un gran puño astral, desafiándolo a dar cinco golpes en un segundo.\n\nIlikar imagina que puede hacer esperar al tiempo y su cuerpo se cubre de escarcha. Sus cinco tajos dibujan una figura de dragón helado que asciende contra el maestro. Tortas aumenta el puño para enfrentarla y ambas formas chocan, detenidas una contra otra entre destellos. Una luz blanca ocupa el cierre. La fuente presenta el efecto como parte del entrenamiento, pero no muestra las consecuencias del impacto, un ganador ni control literal del tiempo.",
+  "participantes": [
+    "Tortas",
+    "Ilikar"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1552089442221564006",
+      "afirmacion": "Tortas camina sobre el lago y lanza impactos astrales.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1552100348615983105",
+      "afirmacion": "Ilikar no cae en la finta subacuática.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1552107566451130429",
+      "afirmacion": "La secuencia de cinco tajos de Ilikar produce una figura de dragón de hielo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1552109225239384165",
+      "afirmacion": "El puño astral de Tortas y el dragón de hielo chocan sin que ninguno avance.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1552109437399998527",
+      "afirmacion": "Un destello cierra la narración antes de mostrar sus consecuencias.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El propósito de detener o esperar al tiempo es un pensamiento metafórico de Ilikar, no una capacidad temporal confirmada.",
+    "No convertir el dragón formado por su técnica en una criatura independiente o un aliado vivo.",
+    "Cierre formal sin resolución visible del duelo ni confirmación de heridas finales."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-09-22T22:49:19.453000+00:00",
+  "fin_utc": "2026-09-23T00:11:39.995000+00:00",
+  "fecha_local": "2026-09-23",
+  "intervalo": {
+    "anterior": 66,
+    "siguiente": 69,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 66,
+        "fecha": "2026-09-22",
+        "inicio_referencia_utc": "2026-09-22T18:20:03+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241"
+      },
+      {
+        "capitulo": 69,
+        "fecha": "2026-10-08",
+        "inicio_referencia_utc": "2026-10-08T18:17:02+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1552089442221564006",
+      "fecha_utc": "2026-09-22T22:49:19.453000+00:00",
+      "fecha_local": "2026-09-23",
+      "editado_utc": null,
+      "texto": "Tortas:\n\n**Dio un paso al agua. Despacio. El lago le llegó a los tobillos. A las rodillas. A la cintura. Siguió caminando sin cambiar el ritmo. Cuando el agua le llegó al pecho, simplemente dejó de hundirse. Sus pies encontraron la superficie. Y caminó sobre el lago hacia ilikar hasta estar a una distancia de unos 5 metros, adelantó un brazo apuntando a ilikar y recogió el otro hacia atrás a medida que flexionaba y dibujaba un semicirculo con su pierna izquierda**\n\n**Una vez colocada cogió una bocanada de aire tranquilamente y lanzó 3 puños astrales directos hacia Ilikar como impactos de aire por la presión del golpe**",
+      "mensaje_sha256": "a5f8ab28823b28af1e904961b900aaecbd7a4f7a737f2dec21605302281d61ef",
+      "tipo_discord": 19,
+      "referencia": "1551746157917634601",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552089442221564006",
+      "texto_sha256": "9495724d8b25833c94b29709fb02ce1aa489d04ef01c9ea5cdaae71f995d4e64",
+      "adjuntos": []
+    },
+    {
+      "id": "1552090696729497700",
+      "fecha_utc": "2026-09-22T22:54:18.551000+00:00",
+      "fecha_local": "2026-09-23",
+      "editado_utc": null,
+      "texto": "**El primer puño astral impactó en el pecho del gigante como una bala de cañón.**\n\n**Pero la montaña se negó a ceder más terreno.**\n\n**Ilikar soltó la guja. Lanzó su propio puño colosal contra el segundo impacto, destrozando la onda de presión en el aire a pura fuerza bruta.**\n\n**El tercer golpe lo recibió cruzando sus antebrazos por delante de su rostro. El impacto le hizo escupir sangre, pero no logró moverle un centímetro más.**\n\n**Bajó los brazos lentamente.**\n\nIlikar: ¡Más fuerte! - **rugió, abriendo los brazos de par en par, con el pecho descubierto, invitando al maestro a desatar todo su poder.**",
+      "mensaje_sha256": "57d2178dee04f490e483f373be63bf7719d96818a738aea77be2732977f6694b",
+      "tipo_discord": 19,
+      "referencia": "1552089442221564006",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552090696729497700",
+      "texto_sha256": "303fd90c5a6aaca4a07b2120a9b9ffa81a1372169a038506532932e35d657bb4",
+      "adjuntos": []
+    },
+    {
+      "id": "1552091248657957016",
+      "fecha_utc": "2026-09-22T22:56:30.141000+00:00",
+      "fecha_local": "2026-09-23",
+      "editado_utc": null,
+      "texto": "**Tortas se quedó un segundo asombrada por el alardeo de fuerza del Goliath y sonrió.\n\nLa forma astral del tronco volvió y lo dejó caer en seco en horizontal al lago para levantar una cortina de agua, a través de ella las ondas de choque comenzaron a pasar sin cesar**",
+      "mensaje_sha256": "18dff46b8860c20a460e340313a6de4240147d0bccefec3fb1d204b875190870",
+      "tipo_discord": 19,
+      "referencia": "1552090696729497700",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552091248657957016",
+      "texto_sha256": "4cd32dbedbce0f24d6a51b40326f7dae3181d76bfde0971b7f714a0109203ab7",
+      "adjuntos": []
+    },
+    {
+      "id": "1552093143640313907",
+      "fecha_utc": "2026-09-22T23:04:01.940000+00:00",
+      "fecha_local": "2026-09-23",
+      "editado_utc": null,
+      "texto": "**La cortina de agua se alzó frente a él, ocultando al maestro. Un instante después, la primera onda de choque atravesó el muro líquido y se estrelló contra el pecho de Ilikar.**\n\n**Luego llegó la segunda. Y la tercera. El aluvión era incesante.**\n\n**El aire crujía con cada impacto. Cada golpe astral magullaba su piel, empujándolo hacia atrás milímetro a milímetro, pero su risa retumbó por encima de los truenos.**\n\n**Arrancó la guja de la piedra de un solo tirón.**\n\nIlikar: ¡No te escondas!\n\n**Con un rugido salvaje, Ilikar cargó hacia adelante. Usó el asta y la hoja de su inmensa arma como un rompehielos, partiendo en dos las ondas de choque frontales. Se lanzó de cabeza contra la cortina de agua, cruzándola de un salto para caer con todo su peso y descargar un hachazo vertical y demoledor directo a la posición de Tortas.**",
+      "mensaje_sha256": "d2a6b0eaf84a199397f23625c30cb1125851392562dfc61da8492918245a5be2",
+      "tipo_discord": 19,
+      "referencia": "1552091248657957016",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552093143640313907",
+      "texto_sha256": "9d711b04b96669da5e27601e3e041c5c6182427d0cc8be668aa0f77bc4bcde8e",
+      "adjuntos": []
+    },
+    {
+      "id": "1552094680295014513",
+      "fecha_utc": "2026-09-22T23:10:08.307000+00:00",
+      "fecha_local": "2026-09-23",
+      "editado_utc": null,
+      "texto": "**Tortas miró hacia el cielo y se metió debajo del agua para ocultar su presencia y moverse alrededor de Ilikar cuando caiga**",
+      "mensaje_sha256": "1bd052bfeb056f76cb61ba12c654f53412be1b7bf177abaaa0b153e57c4fa918",
+      "tipo_discord": 19,
+      "referencia": "1552093143640313907",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552094680295014513",
+      "texto_sha256": "6cd5906018e61aa3ea748290a3685fe9279663db9014ea7aad63d059be239d10",
+      "adjuntos": []
+    },
+    {
+      "id": "1552097064283013193",
+      "fecha_utc": "2026-09-22T23:19:36.694000+00:00",
+      "fecha_local": "2026-09-23",
+      "editado_utc": null,
+      "texto": "**El hachazo partió el lago con una explosión, levantando una ola gigantesca.**\n\n**Pero el filo solo encontró agua. Tortas había desaparecido.**\n\n**Ilikar apretó los dientes, aferró su arma y barrió con la mirada la superficie oscura bajo la tormenta, buscando cualquier sombra moviéndose a su alrededor.**",
+      "mensaje_sha256": "10f7f7af21b0265f9c01f63e691e29b2b33fa7534e8903d3bc7bbfc2de6d1a3c",
+      "tipo_discord": 19,
+      "referencia": "1552094680295014513",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552097064283013193",
+      "texto_sha256": "d26de346d0e2cec60def4aea81596cfc3bde14e4b2aa4e35bf5d9cb7edaae210",
+      "adjuntos": []
+    },
+    {
+      "id": "1552097348715417631",
+      "fecha_utc": "2026-09-22T23:20:44.508000+00:00",
+      "fecha_local": "2026-09-23",
+      "editado_utc": null,
+      "texto": "**Unas corrientes empezaron a emerger de un lado hacia otro en el agua formando un remolino alrededor de Ilikar**",
+      "mensaje_sha256": "d205b8120cff2029deb047990e1eb9921b0c6739108fdb42a0f4c3ced1ce92e2",
+      "tipo_discord": 19,
+      "referencia": "1552097064283013193",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552097348715417631",
+      "texto_sha256": "e76425fc17147881bcdf62d83fb2783794db304095c6b0a12a834472ee5d37d1",
+      "adjuntos": []
+    },
+    {
+      "id": "1552099253285945397",
+      "fecha_utc": "2026-09-22T23:28:18.593000+00:00",
+      "fecha_local": "2026-09-23",
+      "editado_utc": null,
+      "texto": "**Ilikar clavó el asta de la guja en el suelo para estabilizarse, usando toda la fuerza de sus hombros para no ser arrastrado por el torbellino. Giró la cabeza a un lado y a otro, esperando el ataque que sabía inminente.**\n\nIlikar: Estamos en tu terreno maestro... he visto como luchas... pero he aprendido varios trucos yo también.\n\n**Aprovechó para bajar sus manos por la guja, hasta agarrarla de nuevo cerca del metal.**\n\n**Relajó su cuerpo y esperó... Con los ojos cerrados, Ilikar no buscaba ver. Buscaba sentir. Sentir el cambio en la presión del agua, el desplazamiento anómalo en la corriente del remolino.**",
+      "mensaje_sha256": "482a92924fe3155a9636938bec28d1f3f146fce06111e6f733f00c3ef0f6063e",
+      "tipo_discord": 19,
+      "referencia": "1552097348715417631",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552099253285945397",
+      "texto_sha256": "3e7d7a5d4ed1a4c25d0aeb8adbc6126b2a6427da3622e8772c6a544e3c5238f8",
+      "adjuntos": []
+    },
+    {
+      "id": "1552099838080974900",
+      "fecha_utc": "2026-09-22T23:30:38.019000+00:00",
+      "fecha_local": "2026-09-23",
+      "editado_utc": null,
+      "texto": "**Tortas lanzó una finta de golpe para ver cómo y cuándo respondía el gigante al cambio en el agua**",
+      "mensaje_sha256": "63e561bdd57d50700192d5b90ae2f88578142ffdf44ad4d999e9df68ecea1854",
+      "tipo_discord": 19,
+      "referencia": "1552099253285945397",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552099838080974900",
+      "texto_sha256": "1d58dd779693a8d19c8aa6ece03a79a8797cbeff9b66601b6a57ce02d8c62628",
+      "adjuntos": []
+    },
+    {
+      "id": "1552100348615983105",
+      "fecha_utc": "2026-09-22T23:32:39.740000+00:00",
+      "fecha_local": "2026-09-23",
+      "editado_utc": null,
+      "texto": "**El desplazamiento brusco bajo la superficie golpeó su flanco izquierdo.**\n\n**Pero Ilikar no mordió el anzuelo.**\n\n**Con los ojos aún cerrados, el gigante apenas movió la guja. Un leve ajuste de muñeca, una inclinación de la hoja para romper la inercia del agua, pero sin comprometer su peso ni abandonar su anclaje.**",
+      "mensaje_sha256": "8fa584ce9dea1d9909ced76786ab4990055c0d5ba31ee20b2ec43cfb488efbdc",
+      "tipo_discord": 19,
+      "referencia": "1552099838080974900",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552100348615983105",
+      "texto_sha256": "83b7e83aecfb759294f60225852f7a5b05ec7cef60a7813ad57d8b54151f17e0",
+      "adjuntos": []
+    },
+    {
+      "id": "1552101352837222551",
+      "fecha_utc": "2026-09-22T23:36:39.165000+00:00",
+      "fecha_local": "2026-09-23",
+      "editado_utc": null,
+      "texto": "**Al ver la determinación del Goliath Tortas sintió que sería un insulto atacarlo en oculto así que el remolino cesó y pegó un salto que lo llevó hasta el cielo, en el momento de más altura donde el cuerpo queda en suspensión Tortas cambió su postura a la de  un misil, juntando sus puños apuntando a Ilikar y delante de ellos un puño Astral que los envolvía y a Tortas también, para caer en picado hacía Ilikar**\n\nO 5 golpes en un segundo Goliath!!! \n\n**Le gritó**",
+      "mensaje_sha256": "8e8d3733aedae38e06b2e4bb118a7dca956e2ca71beb3d288f20317cb9c590c3",
+      "tipo_discord": 19,
+      "referencia": "1552100348615983105",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552101352837222551",
+      "texto_sha256": "8ed2a1710a424ecc72405f8d3e70c84237be935deece649bd3f9206e39095d86",
+      "adjuntos": []
+    },
+    {
+      "id": "1552107566451130429",
+      "fecha_utc": "2026-09-23T00:01:20.606000+00:00",
+      "fecha_local": "2026-09-23",
+      "editado_utc": "2026-09-23T00:19:23.264000+00:00",
+      "texto": "**Ilikar alzó el rostro hacia la tormenta. Arriba, el meteoro astral de Tortas descendía, rompiendo el cielo.**\n\n*¿Cinco golpes en un segundo?* - **Pensó el Goliath.**- *Si no soy capaz de ser tan rápido... ya se... haré que el tiempo me espere* - **En lo más profundo de su pecho, la rabia se tranformó en un silencio absoluto y glacial.**\n\n*Yo soy la montaña... A las montañas no les afecta el tiempo... siempre están ahí... *\n\n**Cuando Ilikar abrió los ojos, su iris se había vuelto blanco, cristalizado. Su rostro empezó a congelarse. Capas de escarcha blanca treparon por su mandíbula y cuello. Al exhalar salió una neblina tan densa y antinatural que congeló las gotas de lluvia en el aire, dejándolas suspendidas a su alrededor como esquirlas de cristal.**\n\n**Mirando con orgullo a su maestro, su corazón dio el primer latido. Fué lento, pesado, como un martillo golpeando la tierra.**\n\n**Giró la guja y descargó un golpe ascendente. El estruendo quebró el aire helado, tallando una mandíbula. Con el segundo, un tajo vertical, dibujó el lomo y la cresta. El tercer y cuarto golpe, en forma de dos barridos, formaron las alas. Y con el quinto golpe...**\n\n**Ilikar empujó todo su peso hacia el cielo y de la danza de su guja y el vaho helado emergió un colosal dragón, ascendiendo en estampida hacia el cielo oscuro.**",
+      "mensaje_sha256": "0ee984761679e45d72f89b2a4bd88311d72aa1b278799ef1f63d35af2fee5aff",
+      "tipo_discord": 19,
+      "referencia": "1552101352837222551",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552107566451130429",
+      "texto_sha256": "a79f1a1e35df68cb0c364345dcf713f3b7a2a374ba1aa95110221fe58e3e5dd6",
+      "adjuntos": []
+    },
+    {
+      "id": "1552109225239384165",
+      "fecha_utc": "2026-09-23T00:07:56.092000+00:00",
+      "fecha_local": "2026-09-23",
+      "editado_utc": null,
+      "texto": "**Tortas abrió bastante los ojos viendo la técnica que acababa de hacer el Goliath, y también vió el peligro asique el puño astral duplicó su tamaño para igualar al del dragón de hielo. Y soltó una carcajada.\n\nEn el momento del impacto ambas figuras se quedaron forcejeando ante la fricción y velocidad del golpe, ninguno avanzaba, empezaron a salir destellos a su alrededor, incluyo rayos caían alrededor del lago.\n\nDel punto de impacto empezó a brillar una luz**",
+      "mensaje_sha256": "4107544dbcb55332cbf29ea2887de8660a959ef2de9475762a9ec0a964e42425",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552109225239384165",
+      "texto_sha256": "68c5ccdb5339b81973fbfe29d1ffbee6f4f493bc1c12b73e81e8ae64e49a22c0",
+      "adjuntos": []
+    },
+    {
+      "id": "1552109437399998527",
+      "fecha_utc": "2026-09-23T00:08:46.675000+00:00",
+      "fecha_local": "2026-09-23",
+      "editado_utc": "2026-09-23T00:20:19.868000+00:00",
+      "texto": "**Y entonces...**\n\n**...el cielo se rasgó.**\n\n**La luz fue tan violenta y absoluta, que borró la noche, el lago y la lluvia. Un destello incandescente que devoró las sombras, cruzó la pantalla e inundó la habitación, dejando una mancha blanca en las pupilas de quien sea que esté presenciando esto.**",
+      "mensaje_sha256": "6a765f5d63cef2c8db8371139e0b7fff1b22e4aaaf372e96db87bdd31a5eb231",
+      "tipo_discord": 19,
+      "referencia": "1552109225239384165",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552109437399998527",
+      "texto_sha256": "61d533422f049b9053d8e6155a464c04d96d37468f887145afab9eb95907f8b7",
+      "adjuntos": []
+    },
+    {
+      "id": "1552110164356898939",
+      "fecha_utc": "2026-09-23T00:11:39.995000+00:00",
+      "fecha_local": "2026-09-23",
+      "editado_utc": null,
+      "texto": "🔴FIN DE LA ESCENA🔴",
+      "mensaje_sha256": "1b07ee7a2199ad79a4114bb98628693fb6a992393bd6a38a57bd1033fd0d4f2b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552110164356898939",
+      "texto_sha256": "0e3d2479664de84569c04e9eceb4f5c46b9aeeb4280cfaa1810de02e350d95d5",
+      "adjuntos": []
+    }
+  ]
+}

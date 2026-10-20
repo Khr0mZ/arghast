@@ -1,0 +1,172 @@
+{
+  "id": "x-1516189670839685300",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1516189670839685300",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "Ilikar e Ione empiezan un combate por la palabra dada",
+  "resumen": "La capitana acepta el choque cuerpo a cuerpo mientras Erandi pide prudencia. Ilikar cuestiona que los piratas mientan.",
+  "relato": "Ione se prepara entusiasmada para un enfrentamiento físico con Ilikar. Él lleva la lanza sin hacerse gigante y trata de golpear con el reverso mientras recuerda la importancia de cumplir la palabra. La capitana responde con un aullido y corre a cuatro patas sin contener sus puños.\n\nErandi observa desde una posición apartada y pide que no se lastimen demasiado, porque no tiene magia para curarlos a todos. Ilikar barre a Ione y ella aprovecha la caída para aferrarse a su pierna y derribarlo. La lanza sale despedida; el goliat intenta apartarla a patadas y declara que, si ser pirata exige mentir, no será parte de la tripulación. No se decide todavía quién vence ni si aceptará embarcarse.",
+  "participantes": [
+    "Ione",
+    "Ilikar",
+    "Erandi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1516194172795617321",
+      "afirmacion": "Ilikar usa el reverso de la lanza y habla del honor.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1516196589860032542",
+      "afirmacion": "Erandi advierte de su magia limitada.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1516199772560822403",
+      "afirmacion": "Ione aprovecha la caída para derribarlo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1516200481133695107",
+      "afirmacion": "Ilikar rechaza una tripulación basada en la mentira.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "El propósito del choque se desarrolla en la continuación; no se adjudican aquí vencedor o condición de tripulante."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-06-15T21:16:26.970000+00:00",
+  "fin_utc": "2026-06-15T21:59:24.345000+00:00",
+  "fecha_local": "2026-06-15",
+  "intervalo": {
+    "anterior": 38,
+    "siguiente": 39,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149383024690/1515976737605816332",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1517589464363434048",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 38,
+        "fecha": "2026-06-15",
+        "inicio_referencia_utc": "2026-06-15T18:00:00+00:00",
+        "fin_estimado_utc": "2026-06-15T20:23:29+00:00",
+        "duracion_video_segundos": 8609,
+        "tipo_referencia": "programacion",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149383024690/1515976737605816332"
+      },
+      {
+        "capitulo": 39,
+        "fecha": "2026-06-19",
+        "inicio_referencia_utc": "2026-06-19T17:58:26+00:00",
+        "fin_estimado_utc": "2026-06-19T20:14:22+00:00",
+        "duracion_video_segundos": 8156,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1517589464363434048"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida."
+  },
+  "fuentes": [
+    {
+      "id": "1516189670839685300",
+      "fecha_utc": "2026-06-15T21:16:26.970000+00:00",
+      "fecha_local": "2026-06-15",
+      "editado_utc": null,
+      "texto": "Ione: **Se prepara apretando sus garras en forma de puños y preparandose para avalanzarse contra ti. Su cola se agita rapidamente feliz de tener a alguien con quien jugar a lo bruto como la gusta** <@210947008716996609>",
+      "mensaje_sha256": "dee4362557df4ad5882abbaf06fd1e73388b2c36478d7a3cb124a4f63ccb0994",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516189670839685300",
+      "texto_sha256": "0ece63c10c973305a825ef5a22f4fd17871c41fb3f90666ed684bbce1f08a89e",
+      "adjuntos": []
+    },
+    {
+      "id": "1516194172795617321",
+      "fecha_utc": "2026-06-15T21:34:20.320000+00:00",
+      "fecha_local": "2026-06-15",
+      "editado_utc": "2026-06-15T21:35:56.236000+00:00",
+      "texto": "**Ilikar se fija en Ione. Esta vez saca su lanza, pero no se hace gigante.**\n\n*La capitana parece buena persona* - **piensa Ilikar mientras comienza a correr en dirección a la capitana** - *pero eso no es excusa para fallar a su palabra*\n\nIlikar: ¡Capitana, la palabra y el honor es lo más importante para un guerrero! - **exclama Ilikar mientras intenta golpearla con el reverso de la lanza**",
+      "mensaje_sha256": "e95fd65f52cfbc3dfdf5d608ecb16f7fd3f7f9c17cab21892b2243e64667c595",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516194172795617321",
+      "texto_sha256": "abc1ca395f4233a839ebd18f18b2d99f735f212d3a6a53e0db735a0574968335",
+      "adjuntos": []
+    },
+    {
+      "id": "1516196491394289724",
+      "fecha_utc": "2026-06-15T21:43:33.117000+00:00",
+      "fecha_local": "2026-06-15",
+      "editado_utc": null,
+      "texto": "Ione: **Aulla en respuesta, dispuesta a hacer cumplir su palabra. Va corriendo sobre sus cuatro patas dispuesta a golpearte con sus puños sin vacilar ni contenerse**",
+      "mensaje_sha256": "a1bbd5e9b8913413f3550cdc9239aad4f3f2becec686426124f16a81edf1b797",
+      "tipo_discord": 19,
+      "referencia": "1516194172795617321",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516196491394289724",
+      "texto_sha256": "2119f6eddbf65b9749038b0fecd916a5bc52e1e5737f2c1d64713e24581451de",
+      "adjuntos": []
+    },
+    {
+      "id": "1516196589860032542",
+      "fecha_utc": "2026-06-15T21:43:56.593000+00:00",
+      "fecha_local": "2026-06-15",
+      "editado_utc": null,
+      "texto": "Erandi: \n**observa desde lejos la batalla, sentada en uno de los bordes de donde estaria ubicado el timon (sorry no se concepto de barcos y eso) para no ser presa de ambos**\n-Tengan cuidado y no se hagan mucho daño! No tengo suficiente magia para todos 🥲",
+      "mensaje_sha256": "04af3a86ace40063f1dd84f40a66dced0e46267ff5530a2e70b5f791e4498c24",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516196589860032542",
+      "texto_sha256": "ba672e626798f9d156a036247a9206a0db8aede49e1ce709fd54e4c5410040f9",
+      "adjuntos": []
+    },
+    {
+      "id": "1516198133338607749",
+      "fecha_utc": "2026-06-15T21:50:04.587000+00:00",
+      "fecha_local": "2026-06-15",
+      "editado_utc": null,
+      "texto": "**Ilikar intenta golpear con un barrido a Ione, para evitar los golpes que pudiesen llegarle**",
+      "mensaje_sha256": "cf3f22239ad5df67d3716a7a7bfc7c073c5d3f5db9cc671e5082b5ca4c94bb5d",
+      "tipo_discord": 19,
+      "referencia": "1516196491394289724",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516198133338607749",
+      "texto_sha256": "e32d164cecc9690cfe06c0133305402ee8d705b1b70bbcd9680f479da50f6edf",
+      "adjuntos": []
+    },
+    {
+      "id": "1516199772560822403",
+      "fecha_utc": "2026-06-15T21:56:35.408000+00:00",
+      "fecha_local": "2026-06-15",
+      "editado_utc": null,
+      "texto": "Ione: **La barres callendo al suelo en un golpe seco. En vez de levantarse aprovecha el monento para aferrarse a una de tus piernas y derribarte**",
+      "mensaje_sha256": "3e3e47f1aab15eb0f75411ede9527cb39ba96470f1ef9db50f50a307e5acbd0e",
+      "tipo_discord": 19,
+      "referencia": "1516198133338607749",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516199772560822403",
+      "texto_sha256": "ca428afa9f37586d3107deaa6a81e431ede0d9c74e6063ece487a1b067fdc0a8",
+      "adjuntos": []
+    },
+    {
+      "id": "1516200481133695107",
+      "fecha_utc": "2026-06-15T21:59:24.345000+00:00",
+      "fecha_local": "2026-06-15",
+      "editado_utc": null,
+      "texto": "**La lanza de Ilikar sale por los aires tras el derribo. Al caer al suelo, intenta con la otra pierna golpearla para quitársela de encima**\n\nIlikar: No se que es ser un pirata, pero si mentir es lo que hacen, no seré tripulación - **dice mientras sigue golpeando con la pierna**",
+      "mensaje_sha256": "6832eecde583114d57c7f93851fb39b8e9045196bc3877b7895d0e96506fce44",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1516200481133695107",
+      "texto_sha256": "bf194688de8afce9c247cf2616ad54ea9068ada24c340cae2b29ebc01cc79585",
+      "adjuntos": []
+    }
+  ]
+}

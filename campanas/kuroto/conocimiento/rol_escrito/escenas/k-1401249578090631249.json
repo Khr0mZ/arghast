@@ -1,0 +1,90 @@
+{
+  "id": "k-1401249578090631249",
+  "campana": "kuroto",
+  "unidad_revision": "k-1401249578090631249",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Archi transporta tres cristales de cuarzo rosa",
+  "resumen": "El inventor alquila un carro y vuelve a la Base con la carga cubierta.",
+  "relato": "Al terminar sus tareas en la forja del Shogunato, Archi acuerda y paga el alquiler de una carreta. En ella lleva tres grandes cristales de cuarzo rosa ocultos bajo una tela. Sube al vehículo y se dirige a la Base de Sho. El texto no explica para qué los necesita ni muestra su descarga.",
+  "participantes": [
+    "Archi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1401249578090631249",
+      "afirmacion": "Archi alquila una carreta con tres cristales de cuarzo rosa y marcha hacia la Base.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No se atribuyen propiedades mágicas o una función al cuarzo sin explicación adicional."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-08-02T17:05:33.375000+00:00",
+  "fin_utc": "2025-08-02T17:35:15.336000+00:00",
+  "fecha_local": "2025-08-02",
+  "intervalo": {
+    "anterior": 142,
+    "siguiente": 143,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1400539301288349778",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1403077303029989558",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 142,
+        "fecha": "2025-07-31",
+        "inicio_referencia_utc": "2025-07-31T18:02:52+00:00",
+        "fin_estimado_utc": "2025-07-31T21:03:04+00:00",
+        "duracion_video_segundos": 10812,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1400539301288349778"
+      },
+      {
+        "capitulo": 143,
+        "fecha": "2025-08-07",
+        "inicio_referencia_utc": "2025-08-07T18:07:58+00:00",
+        "fin_estimado_utc": "2025-08-07T22:23:43+00:00",
+        "duracion_video_segundos": 15345,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1403077303029989558"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1401249578090631249",
+      "fecha_utc": "2025-08-02T17:05:33.375000+00:00",
+      "fecha_local": "2025-08-02",
+      "editado_utc": null,
+      "texto": "Archi: **al acabar con sus quehaceres en la forza del shogunato se vería a archi cerrar un precio por el alquiler de una carreta . \nEn ella habrían tres grandes cristales de cuarzo rosa tapados por una tela que los cubre ** \nMuy bien aqui tiene . \n**se sube a la carreta y pone dirección a la Base de Sho **",
+      "mensaje_sha256": "6b887c035e8bc6e35898cf0c1cf4448659ab05a25977574aeca3f5a8270ae5df",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1401249578090631249",
+      "texto_sha256": "72018edc1cd4f93bd2c89185cb82392fcf6a6b0937945e75d5bb031cd91c990c",
+      "adjuntos": []
+    },
+    {
+      "id": "1401257052176650351",
+      "fecha_utc": "2025-08-02T17:35:15.336000+00:00",
+      "fecha_local": "2025-08-02",
+      "editado_utc": null,
+      "texto": "🔴 **Fin de escena**🔴",
+      "mensaje_sha256": "88ef30a53aa1807428157579afb58db4ce406177073f3be43e164ce890fe1b85",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1401257052176650351",
+      "texto_sha256": "0e513b9a495850850524d0965f55df051cd0b6a138120693016da3f3ffd42ccd",
+      "adjuntos": []
+    }
+  ]
+}

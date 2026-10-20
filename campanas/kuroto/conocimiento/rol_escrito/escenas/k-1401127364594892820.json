@@ -1,0 +1,283 @@
+{
+  "id": "k-1401127364594892820",
+  "campana": "kuroto",
+  "unidad_revision": "k-1400775916531224576",
+  "hilo_id": "1387915737502580886",
+  "hilo_nombre": "Sho, Palacio del Shogunato - Capital de Kuroto",
+  "titulo": "El entrenamiento que se vuelve contra Banzo",
+  "resumen": "El goliat salva a Jelbreg de su propio ataque a costa de una mano.",
+  "relato": "Banzo pide a Jelbreg practicar respuestas al estilo de los tritones. El drow confirma la separación de academias en su sociedad y comienza con un ataque de estoque. Banzo desvía el golpe, pero su contraataque es lento y desequilibrado. Jelbreg combina una finta con un globo de oscuridad. El goliat se sienta a meditar, usa clarividencia para seguir el patrón de carrera y sale para interceptarlo. Antes de agarrarlo queda inmóvil con las pupilas verdes; Jelbreg desvía el estoque para no perforarle un ojo. Banzo pasa entonces a sujetarlo del cuello y levanta el glaive para decapitarlo, sin expresión. Durante el corte recupera parcialmente el control: la mano que sostenía al drow acaba cercenada y cae al suelo. Sonríe a su amigo antes de desplomarse. En su último pensamiento rechaza a sus ancestros y afirma que él elige su familia. Jelbreg tira el estoque y corre a sostenerlo, pero Banzo pierde el conocimiento por el esfuerzo de resistencia. No se representa aún curación o reemplazo de la mano.",
+  "participantes": [
+    "Banzo",
+    "Jelbreg"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1401141390397935627",
+      "afirmacion": "Jelbreg emplea una finta y oscuridad en el entrenamiento.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1401148740638609500",
+      "afirmacion": "Banzo usa clarividencia y luego queda inmóvil con ojos verdes.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1401156199021547611",
+      "afirmacion": "Jelbreg desvía su ataque para no atravesar el ojo de Banzo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1401164227124789312",
+      "afirmacion": "El ataque contra el cuello del drow termina con la propia mano de Banzo cortada y su rechazo mental a los ancestros.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1401165294495334411",
+      "afirmacion": "Jelbreg intenta mantener despierto al goliat sin lograrlo.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La reunión y el entrenamiento posterior tienen relatos separados; cobertura íntegra de las dos partes.",
+    "El poder, la crueldad y la capacidad de percibir planes atribuidos al Rey Dragón proceden de testimonios de Kalista y Jelbreg, no de su presencia en esta escena.",
+    "El pensamiento final de Banzo identifica a sus ancestros como aquello a lo que se resiste; no inventar un nuevo yokai causante.",
+    "Esta unidad ofrece una causa representada de la mano ausente de Banzo, al contrario de menciones posteriores que solo muestran el muñón."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2025-08-02T08:59:55.407000+00:00",
+  "fin_utc": "2025-08-02T11:39:37.573000+00:00",
+  "fecha_local": "2025-08-02",
+  "intervalo": {
+    "anterior": 142,
+    "siguiente": 143,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1400539301288349778",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1403077303029989558",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 142,
+        "fecha": "2025-07-31",
+        "inicio_referencia_utc": "2025-07-31T18:02:52+00:00",
+        "fin_estimado_utc": "2025-07-31T21:03:04+00:00",
+        "duracion_video_segundos": 10812,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1400539301288349778"
+      },
+      {
+        "capitulo": 143,
+        "fecha": "2025-08-07",
+        "inicio_referencia_utc": "2025-08-07T18:07:58+00:00",
+        "fin_estimado_utc": "2025-08-07T22:23:43+00:00",
+        "duracion_video_segundos": 15345,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1403077303029989558"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1401127364594892820",
+      "fecha_utc": "2025-08-02T08:59:55.407000+00:00",
+      "fecha_local": "2025-08-02",
+      "editado_utc": null,
+      "texto": "Banzo : **después de escuchar atentamente las indicaciones de Kalista dirige la mirada a Jelbreg ** \nVale , ahora ayúdame .\nVamos al dojo jelbreg , atacame con movimientos que crees que harían.  Esto nos puede servir a los dos",
+      "mensaje_sha256": "94333566768a3794c41ae50c1f637473f250145841825b3eb09706d27757a24b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1401127364594892820",
+      "texto_sha256": "2fc8feee31a169897102fb7f29e09b8c495234e56c1b4ca80d196be79269b1f8",
+      "adjuntos": []
+    },
+    {
+      "id": "1401128521497313291",
+      "fecha_utc": "2025-08-02T09:04:31.234000+00:00",
+      "fecha_local": "2025-08-02",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Mira a Kalista luego a Banzo y suspira. Le da un beso suave en la mejilla a la tritón y se acerca a la puerta.** Anda, vamos...",
+      "mensaje_sha256": "d973b2bc94af57ae66f91f3a348795bf164501c47a6fac9a5c88b1e0fc2cfb2e",
+      "tipo_discord": 19,
+      "referencia": "1401127364594892820",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1401128521497313291",
+      "texto_sha256": "61cce047bd2b1a7529535f43cb80dfc9e9a85214b5867c9074b3039e71a4f4a7",
+      "adjuntos": []
+    },
+    {
+      "id": "1401129254942670922",
+      "fecha_utc": "2025-08-02T09:07:26.101000+00:00",
+      "fecha_local": "2025-08-02",
+      "editado_utc": null,
+      "texto": "Banzo : **se dirigen al lugar de entrenamiento ** \nComo fue tu aprendizaje en combate ? Por lo poco que se de los drow ,creo que os separan en academia de magos y academia militar es asi ?",
+      "mensaje_sha256": "fd29b2cd8be77084f18c8278ab8ecbd87e6f9aa3def57e02008589a9e78905a7",
+      "tipo_discord": 19,
+      "referencia": "1401128521497313291",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1401129254942670922",
+      "texto_sha256": "2db31787131d5c6ce7f70c1fb65968f3632afc989236ef2dfe5da8471c629e38",
+      "adjuntos": []
+    },
+    {
+      "id": "1401131006601334924",
+      "fecha_utc": "2025-08-02T09:14:23.729000+00:00",
+      "fecha_local": "2025-08-02",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Arquea una ceja al escuchar eso de Banzo, parece que ha estado \"estudiando\" a los drow** Si, así es. Sería raro que nos enviaran a la academia de sacerdotisa eh **Hace una leve sonrisa mientras se quita la armadura y se coloca en posición de pelea** ¿Preparado?",
+      "mensaje_sha256": "53da5235b4a57910d4ea625d1e6bcf1effa3845384c10605ab6fc80e153805ea",
+      "tipo_discord": 19,
+      "referencia": "1401129254942670922",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1401131006601334924",
+      "texto_sha256": "220f9949222d222a2012a55339ae320b9b2b6520b3213394833b2cd6ab82887d",
+      "adjuntos": []
+    },
+    {
+      "id": "1401135621589827614",
+      "fecha_utc": "2025-08-02T09:32:44.028000+00:00",
+      "fecha_local": "2025-08-02",
+      "editado_utc": null,
+      "texto": "Banzo : uff no quiero ni imaginar.  Y tu te especializaste en magia ?\nPero aún asi siempre has sido diestro con el rapier \n** se coloca en posición para comenzar la práctica ** \nLo que mas ne cuesta es repeler ataques y contraatacar. Antes dejaba que diesen y entonces daba yo .. pero no me esta saliendo a cuenta esa técnica",
+      "mensaje_sha256": "28233a3d117f06b6fcedea44a066adbae9227c5603af895363e9c35ea19e23f7",
+      "tipo_discord": 19,
+      "referencia": "1401131006601334924",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1401135621589827614",
+      "texto_sha256": "901ec7d662a4bec4e2566c7c69ed9c09ce96d442b1a9706f16d8873bae97292e",
+      "adjuntos": []
+    },
+    {
+      "id": "1401136834876276817",
+      "fecha_utc": "2025-08-02T09:37:33.298000+00:00",
+      "fecha_local": "2025-08-02",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Sonríe mientras ve como te colocas en posición y notas como de repente el drow salta hacia ti con una agilidad asombrosa. La punta del rapier va directa a tu cuello**",
+      "mensaje_sha256": "60555e95c8200331bb669974f1e8be9555290c135d4079bbdd12b613ace97f11",
+      "tipo_discord": 19,
+      "referencia": "1401135621589827614",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1401136834876276817",
+      "texto_sha256": "b7e0b017428f35acbc07243283a4c9092007eb63064020b7a064f6c050b818a5",
+      "adjuntos": []
+    },
+    {
+      "id": "1401139267064954941",
+      "fecha_utc": "2025-08-02T09:47:13.177000+00:00",
+      "fecha_local": "2025-08-02",
+      "editado_utc": "2025-08-02T09:47:59.969000+00:00",
+      "texto": "Banzo : **da un paso rápido hacia atrás y desvía con un corte en diagonal la punta del rapier hacia abajo **\n*es rapido ....*\n**se desequilibra un poco pero hace un giro sobre si mismo  para remedisrlo con la intencion de lanzar un golpe con el mango del glaive a las piernas para derribarlo **\nTe tengo ! \n**no es un movimiento típico de banzo y menos de los goliath , es lento y al tropezarse antes del giro no logra usar el impulso del cuerpo para darle potencia al golpe **",
+      "mensaje_sha256": "1934737996a8c66d6c61c9627ad10f2b1eacbc6c89c7bc9678404dbfeaf7b540",
+      "tipo_discord": 19,
+      "referencia": "1401136834876276817",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1401139267064954941",
+      "texto_sha256": "26c549233b59d13ef477c9f1652665aabfa646819e106f938fec1083b1503172",
+      "adjuntos": []
+    },
+    {
+      "id": "1401141390397935627",
+      "fecha_utc": "2025-08-02T09:55:39.419000+00:00",
+      "fecha_local": "2025-08-02",
+      "editado_utc": null,
+      "texto": "Jelbreg: **El drow ve el golpe bajo directo a sus piernas, fácil de esquivar. Con un simple movimiento de piernas, logra dar la vuelta sobre si mismo evitando el golpe, pero pierde el impulso de tu ataque inicial. Vuelve a saltar contra el goliat desde la derecha pero, esta vez se desvía a la izquierda antes de estar al alcance del glaive del bárbaro y lanza un globo de oscuridad sobre este dejándolo totalmente a oscuras**",
+      "mensaje_sha256": "abf8c1febfd25ff80c83d7b43abd4d47e89a7dd453da9305c52a7aca16c478ad",
+      "tipo_discord": 19,
+      "referencia": "1401139267064954941",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1401141390397935627",
+      "texto_sha256": "e071112fa776b7b7701dc13806b5fe2dfa769e37ac9c103e3030997d10de021f",
+      "adjuntos": []
+    },
+    {
+      "id": "1401144290666746007",
+      "fecha_utc": "2025-08-02T10:07:10.897000+00:00",
+      "fecha_local": "2025-08-02",
+      "editado_utc": "2025-08-02T10:08:03.367000+00:00",
+      "texto": "Banzo : *tengo que usar el alcance de mi arma para que no entre* \n**vuelve a dar un paso atrás para posicionarse bien rechazar ese golpe por la derecha y contraatacar.  \nEntonces ve la finta a la izquierda y le pilla por sorpresa , renuncia a su guardia frontal para protegerse el costado vulnerable,  cuando esta girando sobre si mismo es alcanzado por ese globo de oscuridad que lo ciega por completo . **\nA si que vamos con esas eeee . \nSe supone que eres un triton esos flipaos ha dicho kalista que no usan mucha magia. \n**dice protestando\nsonrrie mientras cierra los ojos y se sienta en posición de meditación **\n*si lo esta haciendo asi sera por algo banzo , adapatate a la situación tu puedes*\n**una vez sentado en medio del globo , con los ojos cerrados intenta poner la mente en blanco mientras agita unos huesos a modo de mantra **",
+      "mensaje_sha256": "94b17651bba26509dd6553c614dfd34883efbadf0ad74252a900aa95df7c247d",
+      "tipo_discord": 19,
+      "referencia": "1401141390397935627",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1401144290666746007",
+      "texto_sha256": "770ae1ebdb9de89270b8dd46a1e94067aadea9524caf8c2b011c32d56dbdf2f3",
+      "adjuntos": []
+    },
+    {
+      "id": "1401145990358241310",
+      "fecha_utc": "2025-08-02T10:13:56.135000+00:00",
+      "fecha_local": "2025-08-02",
+      "editado_utc": null,
+      "texto": "Jelbreg: No soy un tritón, soy algo peor **Escuchas esas palabras que vienen de todas direcciones del globo de oscuridad. El drow corre en círculos a su alrededor esperando ver la punta del glaive del goliat asomar a través de la oscuridad. Así sabrá cual es el punto exacto donde está el grandullón y poder atacarle**",
+      "mensaje_sha256": "704b9770c118fe86fa6312dbd9a411e3c1234937cedeb4b46a46180383f01a3a",
+      "tipo_discord": 19,
+      "referencia": "1401144290666746007",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1401145990358241310",
+      "texto_sha256": "6da7164d65e092fdbd67343af02605dab66aa75c7dc6f6c86b8098f2004091fa",
+      "adjuntos": []
+    },
+    {
+      "id": "1401148740638609500",
+      "fecha_utc": "2025-08-02T10:24:51.853000+00:00",
+      "fecha_local": "2025-08-02",
+      "editado_utc": null,
+      "texto": "Banzo : **permanece sentado con los ojos cerrados mientras el drow corre en círculos,  pasado ese tiempo banzo se incorpora y se queda con una rodilla en el suelo , tensando todos los músculos de las piernas **\n*si.... eso es . Le veo*\n**usando clarividencia podría ver el patrón de movimiento que sigue el drow mientras da vueltas**\n\nAHORAAA!! \n**se impulsa rápidamente hacia un lado del globo con la intencion de interrumpir la carrera del drow y atraparlo .\nLa accion se ejecuta con rapidez y efectividad,  Banzo aparece delante de Jelbreg que se dirige hacia el corriendo a toda velocidad . \nBanzo sigue con los ojos cerrados , ya que lo ve a través de clarividencia,  pero algo nubla la imagen clara de la posición del drow y banzo ve algo que ya ha visto en otras ocasiones \nEn ese momento Banzo abre los ojos y se le podría ver un color verde en sus pupilas . \n\nEl ataque del goliath para agarrar al drow no se ha ejecutado.  Banzo queda totalmente quieto de pie inmóvil mientras jelbreg esta apunto de topar con el de frente **",
+      "mensaje_sha256": "3d1f5dbf00e27db180d960d07b0fc0307ae4e0f418b5f7e0998daaddd03d2ccc",
+      "tipo_discord": 19,
+      "referencia": "1401145990358241310",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1401148740638609500",
+      "texto_sha256": "6b818acf4ab88b554eb6e754c9653dedcc9a7c29c5d798e19506039093b0f381",
+      "adjuntos": []
+    },
+    {
+      "id": "1401156199021547611",
+      "fecha_utc": "2025-08-02T10:54:30.070000+00:00",
+      "fecha_local": "2025-08-02",
+      "editado_utc": null,
+      "texto": "Jelbreg: **El drow sonríe al ver a Banzo salir del globo con los ojos cerrados para agarrarlo. El bárbaro ha mejorado. Pero cuando ve al goliat quedarse totalmente quieto, duda unos segundos y su rapier se desvía en el último momento para no perforar el ojo del grandullón** ¿Pero que...? **El goliat podía detener ese ataque con facilidad ¿que ha pasado?**",
+      "mensaje_sha256": "a6d416b511b8eb5074416cbddf7fa59b625b9732b80cfe89cfd717f3443c4161",
+      "tipo_discord": 19,
+      "referencia": "1401148740638609500",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1401156199021547611",
+      "texto_sha256": "de1cecb7e4fd559bc568e6ddccde9ebc00d28d88cca3f4548d3176b2ba1b117e",
+      "adjuntos": []
+    },
+    {
+      "id": "1401164227124789312",
+      "fecha_utc": "2025-08-02T11:26:24.119000+00:00",
+      "fecha_local": "2025-08-02",
+      "editado_utc": "2025-08-02T11:43:18.211000+00:00",
+      "texto": "Banzo : ** su mirada sigue con ese tono verde , parece que ni se ha inmutado de que casi es perforado por el rapier de su amigo.  . \nEn ese momento con un movimiento demasiado rápido para lo que estamos acostumbrados de Banzo , agarra al drow del cuello , lo separa y lo alza para asestar un corte en diagonal con la intención de DECAPITAR  a su amigo . \nsu rostro no muestra expresión alguno . Sólo ese verdor en los ojos y la mirada clavada en la del drow , pero con un vacío en ella que da pavor . \n\nTodo esto esta pasando en muy pocos segundos \n\nEl glaive se acerca en diagonal hacia el cuello del drow . Cada vez mas cerca . \nEn ese instante el verdor en los ojos de banzo se desvanecen un poco , parece que banzo a logrado tomar el control , pero lo ha logrado mientras el.glaive ya esta cortanto la carne . \nEl filo entra en la carne como si fuese mantequilla , corta piel musculo y hueso mientras un grito mas de rabia que de dolor inunda la sala . \n\nSe hace el silencio que es interrumpido por algo que cae al suelo de forma rotunda.  \nEs la mano de Banzo que sujetaba el cuello de Jelbreg . **\n\n**el goliath se mira donde se supone que tendría que tener la mano y después mira a jelbreg para sonreír y caer de espaldas al suelo boca arriba** \n\n*no lo vais a lograr . Estáis donde os merecéis, muertos . Raza ... hermanos ... yo escojo mi propia familia que os quede claro ancestros* \n**tras ese último pensamiento los ojos de banzo se cierran parece que ha perdido el conocimiento.  No por la cercenacion de la mano , sino por el esfuerzo para resistirse a atacar a su hermano . **",
+      "mensaje_sha256": "8ec146603ebd3c2e4ef1ef78ae11179b69a72092571f171b2dd07a0ebc625583",
+      "tipo_discord": 19,
+      "referencia": "1401156199021547611",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1401164227124789312",
+      "texto_sha256": "a338c4fdb5fdb29fb6ca1b627b27e3e7c0914f4bab4991ffa308f22611813090",
+      "adjuntos": []
+    },
+    {
+      "id": "1401165294495334411",
+      "fecha_utc": "2025-08-02T11:30:38.600000+00:00",
+      "fecha_local": "2025-08-02",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Lo último que ve el goliat el al drow lanzar el rapier a un lado y correr junto a él. Te agita con fuerza intentando que no te duermas pero tus ojos acaban por cerrarse entre las palabras del drow** Banzo...? Pero que has hecho...?",
+      "mensaje_sha256": "a1f367374c12d63f237c7dd76135efbbb8af86bc6454199abf28064be16dfdab",
+      "tipo_discord": 19,
+      "referencia": "1401164227124789312",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1401165294495334411",
+      "texto_sha256": "82d70a2b44a6065d736183a04a2827df857f679a51d59d036b294ec9771105da",
+      "adjuntos": []
+    },
+    {
+      "id": "1401167555111944243",
+      "fecha_utc": "2025-08-02T11:39:37.573000+00:00",
+      "fecha_local": "2025-08-02",
+      "editado_utc": null,
+      "texto": "🔴 **Fin de escena**🔴",
+      "mensaje_sha256": "07e49a44acea7386536d5af0327864349731e70cd4bd24902a455eb9b284ed8a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1401167555111944243",
+      "texto_sha256": "0e513b9a495850850524d0965f55df051cd0b6a138120693016da3f3ffd42ccd",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "x-1482330037255671808",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1482330037255671808",
+  "hilo_id": "1482149664131383316",
+  "hilo_nombre": "Cuicapalli - La villa tranquila",
+  "titulo": "Naór anima al goliat",
+  "resumen": "Baila junto a la hoguera e intenta animarlo.",
+  "relato": "Naór, ya bebida, baila alrededor de la hoguera y reclama la atención del goliat para que se anime. La viñeta termina sin respuesta de él.",
+  "participantes": [
+    "Naór"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1482330037255671808",
+      "afirmacion": "Naór baila y llama al goliat.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Viñetas distintas; los dos mensajes con el nombre del hilo son contexto editorial.",
+    "La salida de una choza y los arañazos no permiten añadir una escena íntima.",
+    "Tryel aparece solo como acompañante del trayecto que Luna recuerda."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2026-03-14T10:50:21.242000+00:00",
+  "fin_utc": "2026-03-14T10:50:21.242000+00:00",
+  "fecha_local": "2026-03-14",
+  "intervalo": {
+    "anterior": 16,
+    "siguiente": 17,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1482097192952008844",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1483903081971187732",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 16,
+        "fecha": "2026-03-13",
+        "inicio_referencia_utc": "2026-03-13T19:24:52+00:00",
+        "fin_estimado_utc": "2026-03-13T21:51:11+00:00",
+        "duracion_video_segundos": 8779,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1482097192952008844"
+      },
+      {
+        "capitulo": 17,
+        "fecha": "2026-03-18",
+        "inicio_referencia_utc": "2026-03-18T19:00:44+00:00",
+        "fin_estimado_utc": "2026-03-18T21:59:05+00:00",
+        "duracion_video_segundos": 10701,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1483903081971187732"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1482149664131383316",
+      "fecha_utc": "2026-03-13T22:53:36.938000+00:00",
+      "fecha_local": "2026-03-13",
+      "editado_utc": null,
+      "texto": "*¡Felicidades no te has muerto en medio de la jungla! ¡Mala suerte, no hay mas que furros llenos de pelo haciendo cosas furras!*",
+      "mensaje_sha256": "99ea80b279e10376d45304134c4dc132cd43e56a6a67435a844bd0efb0a99c81",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1482149664131383316",
+      "texto_sha256": "a6d3f8871c1b6644136839917822235561f12143d2e6d8982ebab0446f1b754e",
+      "adjuntos": [
+        {
+          "id": "1482149667352350750",
+          "nombre": "Cuicapalli.jpg",
+          "tipo": "image/jpeg",
+          "archivo": "adjuntos/1482149667352350750.jpg",
+          "url": "rol_escrito/adjuntos/1482149667352350750.jpg",
+          "bytes": 10013329,
+          "sha256": "e14f7eab09b062f8b0bdc0f40e91cbda4187ba35333c63cb5905b7899f3c0ed5"
+        }
+      ],
+      "no_narrativo": true,
+      "nota_editorial": "Apertura cartográfica del hilo."
+    },
+    {
+      "id": "1482330037255671808",
+      "fecha_utc": "2026-03-14T10:50:21.242000+00:00",
+      "fecha_local": "2026-03-14",
+      "editado_utc": null,
+      "texto": "Naór: **estaría bailando alrededor de la hoguera ya un poco bastante perjudicada **\n\nGrandullón espabila que estás muy apagao \n**se pone a mover el culo delante del goliath ** \n<@449688546580627476>",
+      "mensaje_sha256": "e291e55873f2ed7f9817608d49bab399f03d32b27a438d532fc91ea1273c3b5e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1482330037255671808",
+      "texto_sha256": "833ef1812e9698a3b9790586a75d0c45277f5fd1256dc25bce0a256f33b45673",
+      "adjuntos": []
+    }
+  ]
+}

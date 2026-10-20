@@ -1,0 +1,172 @@
+{
+  "id": "k-1386730354529927368",
+  "campana": "kuroto",
+  "unidad_revision": "k-1385809829695848478",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "Guxi entrega a Banzo la piedra de mensajes",
+  "resumen": "El artesano cede su piedra de comunicación al goliat, declarando que ya no pertenece a los Cazadores.",
+  "relato": "Cuando Banzo se dispone a buscar a Kurobane, Guxi lo llama antes de que abandone el campamento. Le entrega la piedra de mensajes junto con instrucciones: dice que ya no forma parte de los Cazadores y que el goliat puede aprovecharla, pues Kalista conserva la otra.\n\nBanzo agradece la cesión y se interesa por una herida en el hombro de su amigo. Guxi asegura que se recuperará y que continuará ayudando siempre que pueda. Vuelve a sus tareas con Archi mientras el goliat le pide que avise a Jhin de que quiere hablar sobre Gur. El artesano indica dónde lo vio practicar con su espada.\n\nLa comunicación queda mejorada mediante un objeto entregado expresamente, pero no se explica el motivo de la salida de Guxi del grupo ni el origen exacto de su herida. Banzo retoma después el camino hacia el refugio del ninja.",
+  "participantes": [
+    "Guxi",
+    "Banzo"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1386731875141287996",
+      "afirmacion": "Guxi entrega su piedra de mensajes y declara que ya no es miembro de los Cazadores.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1386733023159914669",
+      "afirmacion": "Banzo recibe la piedra y agradece su utilidad.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1386734772738588803",
+      "afirmacion": "Guxi indica el lugar donde vio a Jhin entrenando.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Leídas completas las cinco partes y los tres adjuntos. La imagen del pánico es ilustrativa; el dibujo final de Banzo es una referencia humorística del disfraz.",
+    "La inscripción gráfica del diario de Kurobane se conserva como original. Su escritura no se traduce ni se inventa un contenido a partir del dibujo.",
+    "La unidad original reúne varias interacciones con cierres y salidas; las subescenas conservan cobertura exacta sin duplicar mensajes.",
+    "Las cifras de atención médica son las que Banzo comunica, sin elevarlas a un balance general de la batalla.",
+    "La apariencia de Brythya que Banzo cree ver sobre Danifae se presenta como percepción del goliat, no como transformación física confirmada.",
+    "La promesa de Danifae se refiere a sus armas frente a Ootakemaru y no equivale a afiliación ni contrato firmado.",
+    "No se realiza todavía la visita a los templos ni se elimina la condición de Kurobane."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-23T15:31:20.724000+00:00",
+  "fin_utc": "2025-06-23T15:48:54.107000+00:00",
+  "fecha_local": "2025-06-23",
+  "intervalo": {
+    "anterior": 130,
+    "siguiente": 131,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1385318614470496400",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387130423632724151",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 130,
+        "fecha": "2025-06-19",
+        "inicio_referencia_utc": "2025-06-19T18:01:24+00:00",
+        "fin_estimado_utc": "2025-06-19T21:47:20+00:00",
+        "duracion_video_segundos": 13556,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1385318614470496400"
+      },
+      {
+        "capitulo": 131,
+        "fecha": "2025-06-24",
+        "inicio_referencia_utc": "2025-06-24T18:00:45+00:00",
+        "fin_estimado_utc": "2025-06-24T21:04:44+00:00",
+        "duracion_video_segundos": 11039,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387130423632724151"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1386730354529927368",
+      "fecha_utc": "2025-06-23T15:31:20.724000+00:00",
+      "fecha_local": "2025-06-23",
+      "editado_utc": null,
+      "texto": "guxi: **justo antes de salir del campamento oyes a alguien llamarte** !BANZO! ven tengo que darte una cosa !BANZO! estas por aqui?",
+      "mensaje_sha256": "1523b577e20afa3a26188d75f5d46f2ee715cf12c752caf3bcc6db9bfc9732e7",
+      "tipo_discord": 19,
+      "referencia": "1386725934517977201",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386730354529927368",
+      "texto_sha256": "750f0c7975bea5f83660fef18266c32df81e988e9a39d4ed20df1889de3ba353",
+      "adjuntos": []
+    },
+    {
+      "id": "1386731397649141841",
+      "fecha_utc": "2025-06-23T15:35:29.423000+00:00",
+      "fecha_local": "2025-06-23",
+      "editado_utc": null,
+      "texto": "Banzo: dime guxi **se acerca hacia donde estas **",
+      "mensaje_sha256": "10a0f1e603d77c169b17e262ab04db772d2fa12983462c3b83c326786ee0937c",
+      "tipo_discord": 19,
+      "referencia": "1386730354529927368",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386731397649141841",
+      "texto_sha256": "38b25a96d4f2e55ca2bb21c2d8ae99ec7a941aba75d27595ae2a467a0f102650",
+      "adjuntos": []
+    },
+    {
+      "id": "1386731875141287996",
+      "fecha_utc": "2025-06-23T15:37:23.266000+00:00",
+      "fecha_local": "2025-06-23",
+      "editado_utc": null,
+      "texto": "guxi: llevo buscandote un buen rato **para un momento para coger aire y ves una herida en su hombre que estaba ayer** vengo a darte esto **te ofrece la piedra de mensaje y unas instruciones para usarla** yo ya no formo parte de los cazadores deberias tenerlo la otra la tiene kalista os servira para comunicaros",
+      "mensaje_sha256": "7918d486ac084d0a44e2339f1513c446dcf8bc07523474a1b4dbb7d03c73fe67",
+      "tipo_discord": 19,
+      "referencia": "1386731397649141841",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386731875141287996",
+      "texto_sha256": "f170c68f79045156dcb6763075000d0697547f3756d52f4ae33d02cac977faa4",
+      "adjuntos": []
+    },
+    {
+      "id": "1386733023159914669",
+      "fecha_utc": "2025-06-23T15:41:56.975000+00:00",
+      "fecha_local": "2025-06-23",
+      "editado_utc": null,
+      "texto": "Banzo : **coge la piedra de mensaje ** \nY ese hombro como va ? \n**te sonrrie** \nNo sabes lo bien que me vendrá esto . Gracias amigo",
+      "mensaje_sha256": "d99a2b6cca4e71c5facde83b2e745f2c1b597dbe1937dcc1f2d6f1917929014c",
+      "tipo_discord": 19,
+      "referencia": "1386731875141287996",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386733023159914669",
+      "texto_sha256": "77abb6380545a90f5e3a8a2f2e1b4063a7516b85f08ae011aef40bc71a8032dc",
+      "adjuntos": []
+    },
+    {
+      "id": "1386733620856623237",
+      "fecha_utc": "2025-06-23T15:44:19.477000+00:00",
+      "fecha_local": "2025-06-23",
+      "editado_utc": null,
+      "texto": "guxi: fue una herida imprevista pero me recuperare pronto , parece que esto estara algo calmado durante unos dias **te pone la mano en el hombro que palidece en comparacion** siempre que pueda ayudar lo hare amigo , te tengo que dejar voy a ayudar a archi",
+      "mensaje_sha256": "5c07b5b23263f25f24288ca7aa050b24d25a5533f31aef9adccc4fc1e221e9e6",
+      "tipo_discord": 19,
+      "referencia": "1386733023159914669",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386733620856623237",
+      "texto_sha256": "ba904ade3494295d58fe9fd6f7d1a5e7ed1a4ac020a8e4e8a9c06944e548db3b",
+      "adjuntos": []
+    },
+    {
+      "id": "1386734496530956400",
+      "fecha_utc": "2025-06-23T15:47:48.254000+00:00",
+      "fecha_local": "2025-06-23",
+      "editado_utc": null,
+      "texto": "Banzo : vale , bueno , diles a los médicos  que te hechen un ojo . \nSi ves a Jhin , dile que tengo que hablar con el sobre Gur <@412279081170763776> . \n**te dice y se despide mientras se aleja hacia la Kurocabaña**",
+      "mensaje_sha256": "4b6234399618e5ba63631ada6c7282c5587cc6e72d58972e7a1e4c765f80a23d",
+      "tipo_discord": 19,
+      "referencia": "1386733620856623237",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386734496530956400",
+      "texto_sha256": "c31cb75d873ae62e4567eac1948ac30b653f6ab78017b741716de2c15927cd15",
+      "adjuntos": []
+    },
+    {
+      "id": "1386734772738588803",
+      "fecha_utc": "2025-06-23T15:48:54.107000+00:00",
+      "fecha_local": "2025-06-23",
+      "editado_utc": null,
+      "texto": "guxi: si no te preocupes creo que a jhin lo vi haciendo guardia en el lado oeste del campamento **te señala la direccion** creo que esta practicando con la espada",
+      "mensaje_sha256": "cf5df8d5f4b07bdd5e95fd8f478f93e798eb766087a808487c49d2e8acd4c5bf",
+      "tipo_discord": 19,
+      "referencia": "1386734496530956400",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386734772738588803",
+      "texto_sha256": "f58f7f591937fb5b33de27648997d18a4c45bb5f2282a21ba37b28b9f7745f53",
+      "adjuntos": []
+    }
+  ]
+}

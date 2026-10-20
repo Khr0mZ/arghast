@@ -1,0 +1,1139 @@
+{
+  "version": 1,
+  "origen": "metadatos_youtube_conservados",
+  "nota": "Duraciones de los vídeos de YouTube para orientar el final del directo original; la edición del vídeo y los retrasos impiden tratarlas como horas reales de juego.",
+  "fuentes": {
+    "catalogo_canal": {
+      "archivo": "xoltacan_subtitulos/fuentes_metadatos/catalogo_20261014.utf16.json",
+      "sha256": "3924f3426cb49e44dd5760e0e8a0bd05f21935088f6d5cb7e4a28f0d621db8c2"
+    },
+    "xoltacan40": {
+      "archivo": "xoltacan_subtitulos/subtitulos/40 - LBuXKKhfGlY.info.json",
+      "sha256": "cc85bd191ced9378cc29fd86761d46cfdf516b11f996f0adedbdfaf2796f2d46"
+    },
+    "xoltacan41": {
+      "archivo": "xoltacan_subtitulos/subtitulos/41 - vB6Y1LQ2IaM.info.json",
+      "sha256": "64099efc8b52d33945bde06d2b0bafc25a2646b7482222dc803bdabeada1564d"
+    },
+    "catalogo_kuroto": {
+      "archivo": "campanas/kuroto/catalogo.json",
+      "sha256": "4b1ec6f97e94909c14a1ecf530bd4f76c2ef13a3915a2555191573fab6cff0a1"
+    }
+  },
+  "campanas": {
+    "xoltacan": {
+      "1": {
+        "video_id": "ZXhsunFOVdQ",
+        "segundos": 8972,
+        "fuente": "catalogo_canal"
+      },
+      "2": {
+        "video_id": "UGUT4q88hbc",
+        "segundos": 10145,
+        "fuente": "catalogo_canal"
+      },
+      "3": {
+        "video_id": "_E25U4sPlO0",
+        "segundos": 10259,
+        "fuente": "catalogo_canal"
+      },
+      "4": {
+        "video_id": "bA-1puwgS-0",
+        "segundos": 8563,
+        "fuente": "catalogo_canal"
+      },
+      "5": {
+        "video_id": "ltxf463p7b0",
+        "segundos": 10678,
+        "fuente": "catalogo_canal"
+      },
+      "6": {
+        "video_id": "3a3leCUl8Rw",
+        "segundos": 11873,
+        "fuente": "catalogo_canal"
+      },
+      "7": {
+        "video_id": "NHItIAP-III",
+        "segundos": 10425,
+        "fuente": "catalogo_canal"
+      },
+      "8": {
+        "video_id": "SVcQys2YRqI",
+        "segundos": 9128,
+        "fuente": "catalogo_canal"
+      },
+      "9": {
+        "video_id": "KBouzgO2e2w",
+        "segundos": 11563,
+        "fuente": "catalogo_canal"
+      },
+      "10": {
+        "video_id": "sAHVgV0v5ZI",
+        "segundos": 9572,
+        "fuente": "catalogo_canal"
+      },
+      "11": {
+        "video_id": "l6GQNstgFC4",
+        "segundos": 11801,
+        "fuente": "catalogo_canal"
+      },
+      "12": {
+        "video_id": "lKdnYAP4Pto",
+        "segundos": 11679,
+        "fuente": "catalogo_canal"
+      },
+      "13": {
+        "video_id": "vVEAOvJIR7k",
+        "segundos": 8182,
+        "fuente": "catalogo_canal"
+      },
+      "14": {
+        "video_id": "gcdpc6Oipeo",
+        "segundos": 11164,
+        "fuente": "catalogo_canal"
+      },
+      "15": {
+        "video_id": "lSQqHipPl8w",
+        "segundos": 10961,
+        "fuente": "catalogo_canal"
+      },
+      "16": {
+        "video_id": "scBc6ru_YIw",
+        "segundos": 8779,
+        "fuente": "catalogo_canal"
+      },
+      "17": {
+        "video_id": "kBIJHAROMts",
+        "segundos": 10701,
+        "fuente": "catalogo_canal"
+      },
+      "18": {
+        "video_id": "Lthru4aEGNA",
+        "segundos": 9929,
+        "fuente": "catalogo_canal"
+      },
+      "19": {
+        "video_id": "FWFrEFp9Pro",
+        "segundos": 8060,
+        "fuente": "catalogo_canal"
+      },
+      "20": {
+        "video_id": "hHgaPEzSIJE",
+        "segundos": 10126,
+        "fuente": "catalogo_canal"
+      },
+      "21": {
+        "video_id": "K_GVzmNO_i4",
+        "segundos": 9710,
+        "fuente": "catalogo_canal"
+      },
+      "22": {
+        "video_id": "Bqvh2xtB180",
+        "segundos": 12124,
+        "fuente": "catalogo_canal"
+      },
+      "23": {
+        "video_id": "jyqHejTVTSo",
+        "segundos": 10446,
+        "fuente": "catalogo_canal"
+      },
+      "24": {
+        "video_id": "9_kIIQYaIA8",
+        "segundos": 10083,
+        "fuente": "catalogo_canal"
+      },
+      "25": {
+        "video_id": "-IkWTE9Xq3s",
+        "segundos": 8906,
+        "fuente": "catalogo_canal"
+      },
+      "26": {
+        "video_id": "C1V-r4M5w5g",
+        "segundos": 8381,
+        "fuente": "catalogo_canal"
+      },
+      "27": {
+        "video_id": "XH4Y3KjHG9o",
+        "segundos": 10301,
+        "fuente": "catalogo_canal"
+      },
+      "28": {
+        "video_id": "yyFP0le_PoE",
+        "segundos": 7509,
+        "fuente": "catalogo_canal"
+      },
+      "29": {
+        "video_id": "-rYVYq5nDBg",
+        "segundos": 9681,
+        "fuente": "catalogo_canal"
+      },
+      "30": {
+        "video_id": "PihD7LQKt-E",
+        "segundos": 8159,
+        "fuente": "catalogo_canal"
+      },
+      "31": {
+        "video_id": "F-wCP4gRrFw",
+        "segundos": 11716,
+        "fuente": "catalogo_canal"
+      },
+      "32": {
+        "video_id": "iusn7UYPaXo",
+        "segundos": 8019,
+        "fuente": "catalogo_canal"
+      },
+      "33": {
+        "video_id": "IbJQHXyAEVk",
+        "segundos": 9710,
+        "fuente": "catalogo_canal"
+      },
+      "34": {
+        "video_id": "yqmUDCLDIi4",
+        "segundos": 10050,
+        "fuente": "catalogo_canal"
+      },
+      "35": {
+        "video_id": "qemv8_ffBMc",
+        "segundos": 10500,
+        "fuente": "catalogo_canal"
+      },
+      "36": {
+        "video_id": "E_IUxC04l4M",
+        "segundos": 9184,
+        "fuente": "catalogo_canal"
+      },
+      "37": {
+        "video_id": "FWlfp8tVoNo",
+        "segundos": 8389,
+        "fuente": "catalogo_canal"
+      },
+      "38": {
+        "video_id": "mDi1SXxwMz8",
+        "segundos": 8609,
+        "fuente": "catalogo_canal"
+      },
+      "39": {
+        "video_id": "nfesQ2OQlds",
+        "segundos": 8156,
+        "fuente": "catalogo_canal"
+      },
+      "40": {
+        "video_id": "LBuXKKhfGlY",
+        "segundos": 10390,
+        "fuente": "xoltacan40"
+      },
+      "41": {
+        "video_id": "vB6Y1LQ2IaM",
+        "segundos": 9104,
+        "fuente": "xoltacan41"
+      }
+    },
+    "kuroto": {
+      "1": {
+        "video_id": "KkZZR81onIw",
+        "segundos": 7187,
+        "fuente": "catalogo_kuroto"
+      },
+      "2": {
+        "video_id": "5d8fEcawLU0",
+        "segundos": 7097,
+        "fuente": "catalogo_kuroto"
+      },
+      "3": {
+        "video_id": "-mEoj2WWSjA",
+        "segundos": 7534,
+        "fuente": "catalogo_kuroto"
+      },
+      "4": {
+        "video_id": "oiAh-3RQeTI",
+        "segundos": 8906,
+        "fuente": "catalogo_kuroto"
+      },
+      "5": {
+        "video_id": "4TcdDq7NkTY",
+        "segundos": 5290,
+        "fuente": "catalogo_kuroto"
+      },
+      "6": {
+        "video_id": "WAdmBPD6pVA",
+        "segundos": 6738,
+        "fuente": "catalogo_kuroto"
+      },
+      "7": {
+        "video_id": "uj2lWOBbsyw",
+        "segundos": 8658,
+        "fuente": "catalogo_kuroto"
+      },
+      "8": {
+        "video_id": "n99cocUNUVg",
+        "segundos": 8900,
+        "fuente": "catalogo_kuroto"
+      },
+      "9": {
+        "video_id": "nZD8TnOd1hE",
+        "segundos": 8767,
+        "fuente": "catalogo_kuroto"
+      },
+      "10": {
+        "video_id": "EX6gizlU8dU",
+        "segundos": 8951,
+        "fuente": "catalogo_kuroto"
+      },
+      "11": {
+        "video_id": "r_1w6xgShus",
+        "segundos": 15255,
+        "fuente": "catalogo_kuroto"
+      },
+      "12": {
+        "video_id": "S_l4B7CAJg8",
+        "segundos": 9254,
+        "fuente": "catalogo_kuroto"
+      },
+      "13": {
+        "video_id": "lN5h9EF5lB4",
+        "segundos": 7211,
+        "fuente": "catalogo_kuroto"
+      },
+      "14": {
+        "video_id": "Ec7QznsvFS8",
+        "segundos": 10531,
+        "fuente": "catalogo_kuroto"
+      },
+      "15": {
+        "video_id": "PvQQ7W-JHYQ",
+        "segundos": 7740,
+        "fuente": "catalogo_kuroto"
+      },
+      "16": {
+        "video_id": "XkRManuPDAk",
+        "segundos": 6260,
+        "fuente": "catalogo_kuroto"
+      },
+      "17": {
+        "video_id": "rHQYKeZbiXc",
+        "segundos": 5586,
+        "fuente": "catalogo_kuroto"
+      },
+      "18": {
+        "video_id": "kMj8Pk-iUaY",
+        "segundos": 4951,
+        "fuente": "catalogo_kuroto"
+      },
+      "19": {
+        "video_id": "Ovsq0HYt87Q",
+        "segundos": 6782,
+        "fuente": "catalogo_kuroto"
+      },
+      "20": {
+        "video_id": "g5HAPraxs9I",
+        "segundos": 8155,
+        "fuente": "catalogo_kuroto"
+      },
+      "21": {
+        "video_id": "QH-MrarLKI4",
+        "segundos": 7564,
+        "fuente": "catalogo_kuroto"
+      },
+      "22": {
+        "video_id": "kW0t7QscswU",
+        "segundos": 7793,
+        "fuente": "catalogo_kuroto"
+      },
+      "23": {
+        "video_id": "T7q05HCh2tc",
+        "segundos": 8459,
+        "fuente": "catalogo_kuroto"
+      },
+      "24": {
+        "video_id": "85QQfmnLzRM",
+        "segundos": 7463,
+        "fuente": "catalogo_kuroto"
+      },
+      "25": {
+        "video_id": "rkbkPQaHQbU",
+        "segundos": 7328,
+        "fuente": "catalogo_kuroto"
+      },
+      "26": {
+        "video_id": "Z09oHrpdgBY",
+        "segundos": 7626,
+        "fuente": "catalogo_kuroto"
+      },
+      "27": {
+        "video_id": "Iwms1OX-Zhw",
+        "segundos": 8862,
+        "fuente": "catalogo_kuroto"
+      },
+      "28": {
+        "video_id": "K75HeWgUON4",
+        "segundos": 7638,
+        "fuente": "catalogo_kuroto"
+      },
+      "29": {
+        "video_id": "MLfArRplHC4",
+        "segundos": 5920,
+        "fuente": "catalogo_kuroto"
+      },
+      "30": {
+        "video_id": "6oAwjgmqtQ0",
+        "segundos": 9900,
+        "fuente": "catalogo_kuroto"
+      },
+      "31": {
+        "video_id": "aFeIpx7gacg",
+        "segundos": 6667,
+        "fuente": "catalogo_kuroto"
+      },
+      "32": {
+        "video_id": "8EEKa9NTxdg",
+        "segundos": 9754,
+        "fuente": "catalogo_kuroto"
+      },
+      "33": {
+        "video_id": "LFPVy1evwoo",
+        "segundos": 8556,
+        "fuente": "catalogo_kuroto"
+      },
+      "34": {
+        "video_id": "qZ53aIAZQ6g",
+        "segundos": 8454,
+        "fuente": "catalogo_kuroto"
+      },
+      "35": {
+        "video_id": "-nd_HG4cUB4",
+        "segundos": 10518,
+        "fuente": "catalogo_kuroto"
+      },
+      "36": {
+        "video_id": "FCbnHRU5wNE",
+        "segundos": 8030,
+        "fuente": "catalogo_kuroto"
+      },
+      "37": {
+        "video_id": "0cY76YwljL8",
+        "segundos": 6376,
+        "fuente": "catalogo_kuroto"
+      },
+      "38": {
+        "video_id": "EmLh68qNeGY",
+        "segundos": 7074,
+        "fuente": "catalogo_kuroto"
+      },
+      "39": {
+        "video_id": "7t6cQMDyNTw",
+        "segundos": 8951,
+        "fuente": "catalogo_kuroto"
+      },
+      "40": {
+        "video_id": "JG6X3ZgyExY",
+        "segundos": 10139,
+        "fuente": "catalogo_kuroto"
+      },
+      "41": {
+        "video_id": "Uf-SlAOBejU",
+        "segundos": 11080,
+        "fuente": "catalogo_kuroto"
+      },
+      "42": {
+        "video_id": "81i8B_VG_WY",
+        "segundos": 8499,
+        "fuente": "catalogo_kuroto"
+      },
+      "43": {
+        "video_id": "LqAq6s_0iA8",
+        "segundos": 7864,
+        "fuente": "catalogo_kuroto"
+      },
+      "44": {
+        "video_id": "E-jyimjn1_s",
+        "segundos": 9906,
+        "fuente": "catalogo_kuroto"
+      },
+      "45": {
+        "video_id": "fdfaEPWlU5o",
+        "segundos": 10121,
+        "fuente": "catalogo_kuroto"
+      },
+      "46": {
+        "video_id": "I2LqqLaswkw",
+        "segundos": 9273,
+        "fuente": "catalogo_kuroto"
+      },
+      "47": {
+        "video_id": "3Z_u61OQvgc",
+        "segundos": 7803,
+        "fuente": "catalogo_kuroto"
+      },
+      "48": {
+        "video_id": "2bwvGcPZqtI",
+        "segundos": 6932,
+        "fuente": "catalogo_kuroto"
+      },
+      "49": {
+        "video_id": "9_hF_yr-548",
+        "segundos": 8449,
+        "fuente": "catalogo_kuroto"
+      },
+      "50": {
+        "video_id": "DlNnTb3yoSU",
+        "segundos": 9611,
+        "fuente": "catalogo_kuroto"
+      },
+      "51": {
+        "video_id": "XwI08nwUSGE",
+        "segundos": 9142,
+        "fuente": "catalogo_kuroto"
+      },
+      "52": {
+        "video_id": "QUzLzbYvBFM",
+        "segundos": 8136,
+        "fuente": "catalogo_kuroto"
+      },
+      "53": {
+        "video_id": "_XNwCsa6ksI",
+        "segundos": 7482,
+        "fuente": "catalogo_kuroto"
+      },
+      "54": {
+        "video_id": "X9zGnhnN5gw",
+        "segundos": 6081,
+        "fuente": "catalogo_kuroto"
+      },
+      "55": {
+        "video_id": "f7E7uxoKseE",
+        "segundos": 6881,
+        "fuente": "catalogo_kuroto"
+      },
+      "56": {
+        "video_id": "Zu8-wNfvhIY",
+        "segundos": 12336,
+        "fuente": "catalogo_kuroto"
+      },
+      "57": {
+        "video_id": "zS3m1mp3Lto",
+        "segundos": 8994,
+        "fuente": "catalogo_kuroto"
+      },
+      "58": {
+        "video_id": "VNS8sTg8jhA",
+        "segundos": 6422,
+        "fuente": "catalogo_kuroto"
+      },
+      "59": {
+        "video_id": "lw829ZaVR3Y",
+        "segundos": 8532,
+        "fuente": "catalogo_kuroto"
+      },
+      "60": {
+        "video_id": "xCyH1hPbisA",
+        "segundos": 8106,
+        "fuente": "catalogo_kuroto"
+      },
+      "61": {
+        "video_id": "LhRWTYPr0BY",
+        "segundos": 5960,
+        "fuente": "catalogo_kuroto"
+      },
+      "62": {
+        "video_id": "bC5Ar4E4jSo",
+        "segundos": 11743,
+        "fuente": "catalogo_kuroto"
+      },
+      "63": {
+        "video_id": "ru2qijFwRO4",
+        "segundos": 6959,
+        "fuente": "catalogo_kuroto"
+      },
+      "64": {
+        "video_id": "eR-G3VU_ZzE",
+        "segundos": 11353,
+        "fuente": "catalogo_kuroto"
+      },
+      "65": {
+        "video_id": "dlVv_EeoNmE",
+        "segundos": 5055,
+        "fuente": "catalogo_kuroto"
+      },
+      "66": {
+        "video_id": "wlMi2uEBJPc",
+        "segundos": 9095,
+        "fuente": "catalogo_kuroto"
+      },
+      "67": {
+        "video_id": "YYdcBYBqZPc",
+        "segundos": 11370,
+        "fuente": "catalogo_kuroto"
+      },
+      "68": {
+        "video_id": "ub-9MN-jO2o",
+        "segundos": 11320,
+        "fuente": "catalogo_kuroto"
+      },
+      "69": {
+        "video_id": "hOLvdfsW_t0",
+        "segundos": 8493,
+        "fuente": "catalogo_kuroto"
+      },
+      "70": {
+        "video_id": "KxZIvE_E1uQ",
+        "segundos": 7828,
+        "fuente": "catalogo_kuroto"
+      },
+      "71": {
+        "video_id": "COtxYmg-P4Q",
+        "segundos": 8792,
+        "fuente": "catalogo_kuroto"
+      },
+      "72": {
+        "video_id": "kZjo-CTsKi4",
+        "segundos": 8134,
+        "fuente": "catalogo_kuroto"
+      },
+      "73": {
+        "video_id": "AiEV666lYIw",
+        "segundos": 8661,
+        "fuente": "catalogo_kuroto"
+      },
+      "74": {
+        "video_id": "-70ja-LchmA",
+        "segundos": 8762,
+        "fuente": "catalogo_kuroto"
+      },
+      "75": {
+        "video_id": "AXeykasKTdY",
+        "segundos": 8048,
+        "fuente": "catalogo_kuroto"
+      },
+      "76": {
+        "video_id": "zKxaUDKn8Is",
+        "segundos": 8300,
+        "fuente": "catalogo_kuroto"
+      },
+      "77": {
+        "video_id": "EVrmh8UgoHM",
+        "segundos": 8856,
+        "fuente": "catalogo_kuroto"
+      },
+      "78": {
+        "video_id": "L1PpDQmZEqk",
+        "segundos": 7231,
+        "fuente": "catalogo_kuroto"
+      },
+      "79": {
+        "video_id": "GkttYEA6EMs",
+        "segundos": 11238,
+        "fuente": "catalogo_kuroto"
+      },
+      "80": {
+        "video_id": "096jlr6YCAs",
+        "segundos": 10137,
+        "fuente": "catalogo_kuroto"
+      },
+      "81": {
+        "video_id": "KrsB4sxI7WY",
+        "segundos": 9292,
+        "fuente": "catalogo_kuroto"
+      },
+      "82": {
+        "video_id": "n3rbvLvJWOQ",
+        "segundos": 10563,
+        "fuente": "catalogo_kuroto"
+      },
+      "83": {
+        "video_id": "gEIqc-BgGa4",
+        "segundos": 7729,
+        "fuente": "catalogo_kuroto"
+      },
+      "84": {
+        "video_id": "QsmFnE6zOVQ",
+        "segundos": 10678,
+        "fuente": "catalogo_kuroto"
+      },
+      "85": {
+        "video_id": "isR0FMgm_DA",
+        "segundos": 11256,
+        "fuente": "catalogo_kuroto"
+      },
+      "86": {
+        "video_id": "8zmhv0vxaqs",
+        "segundos": 8261,
+        "fuente": "catalogo_kuroto"
+      },
+      "87": {
+        "video_id": "7gadqHHdn9Y",
+        "segundos": 6836,
+        "fuente": "catalogo_kuroto"
+      },
+      "88": {
+        "video_id": "6KxtCYIz3r8",
+        "segundos": 8675,
+        "fuente": "catalogo_kuroto"
+      },
+      "89": {
+        "video_id": "0xjvSrlnFLc",
+        "segundos": 7063,
+        "fuente": "catalogo_kuroto"
+      },
+      "90": {
+        "video_id": "GvY3DTfPMPg",
+        "segundos": 12003,
+        "fuente": "catalogo_kuroto"
+      },
+      "91": {
+        "video_id": "R5ynesXzXrM",
+        "segundos": 9568,
+        "fuente": "catalogo_kuroto"
+      },
+      "93": {
+        "video_id": "_GY-gOjxQQ8",
+        "segundos": 9561,
+        "fuente": "catalogo_kuroto"
+      },
+      "94": {
+        "video_id": "Er5LTXi8lb8",
+        "segundos": 10411,
+        "fuente": "catalogo_kuroto"
+      },
+      "95": {
+        "video_id": "ENyfceqGKzY",
+        "segundos": 8449,
+        "fuente": "catalogo_kuroto"
+      },
+      "96": {
+        "video_id": "xU1sxIKdRL4",
+        "segundos": 10637,
+        "fuente": "catalogo_kuroto"
+      },
+      "97": {
+        "video_id": "d8LqTYGNeBY",
+        "segundos": 7969,
+        "fuente": "catalogo_kuroto"
+      },
+      "98": {
+        "video_id": "kdf32OC-7fc",
+        "segundos": 8381,
+        "fuente": "catalogo_kuroto"
+      },
+      "99": {
+        "video_id": "JLzBnc_XHHQ",
+        "segundos": 7803,
+        "fuente": "catalogo_kuroto"
+      },
+      "100": {
+        "video_id": "4ECaNNUythE",
+        "segundos": 12702,
+        "fuente": "catalogo_kuroto"
+      },
+      "101": {
+        "video_id": "2_UCjvOm1IM",
+        "segundos": 13714,
+        "fuente": "catalogo_kuroto"
+      },
+      "102": {
+        "video_id": "8DonhV-kQFU",
+        "segundos": 11152,
+        "fuente": "catalogo_kuroto"
+      },
+      "103": {
+        "video_id": "Ku5GF9KBwK4",
+        "segundos": 11088,
+        "fuente": "catalogo_kuroto"
+      },
+      "104": {
+        "video_id": "YxxtGfF6CEU",
+        "segundos": 10045,
+        "fuente": "catalogo_kuroto"
+      },
+      "105": {
+        "video_id": "k08Xs1o1Hag",
+        "segundos": 8228,
+        "fuente": "catalogo_kuroto"
+      },
+      "106": {
+        "video_id": "G-_yXA4Z55k",
+        "segundos": 7866,
+        "fuente": "catalogo_kuroto"
+      },
+      "107": {
+        "video_id": "URvFcnBk9j0",
+        "segundos": 6625,
+        "fuente": "catalogo_kuroto"
+      },
+      "108": {
+        "video_id": "Dy6XCYPXBpI",
+        "segundos": 11321,
+        "fuente": "catalogo_kuroto"
+      },
+      "109": {
+        "video_id": "gvIEI8-k2Uk",
+        "segundos": 10501,
+        "fuente": "catalogo_kuroto"
+      },
+      "110": {
+        "video_id": "fPqw_HmqDEg",
+        "segundos": 8632,
+        "fuente": "catalogo_kuroto"
+      },
+      "111": {
+        "video_id": "rcnGwTuQMvs",
+        "segundos": 10052,
+        "fuente": "catalogo_kuroto"
+      },
+      "112": {
+        "video_id": "I8I7p3iGiXQ",
+        "segundos": 10539,
+        "fuente": "catalogo_kuroto"
+      },
+      "113": {
+        "video_id": "sqIXZp9cQHw",
+        "segundos": 8167,
+        "fuente": "catalogo_kuroto"
+      },
+      "114": {
+        "video_id": "Ssu6Oak95nA",
+        "segundos": 10795,
+        "fuente": "catalogo_kuroto"
+      },
+      "115": {
+        "video_id": "rRtKxvpqXKQ",
+        "segundos": 12050,
+        "fuente": "catalogo_kuroto"
+      },
+      "116": {
+        "video_id": "Ctd_d0vniG8",
+        "segundos": 9360,
+        "fuente": "catalogo_kuroto"
+      },
+      "117": {
+        "video_id": "QMFNM1kP160",
+        "segundos": 10756,
+        "fuente": "catalogo_kuroto"
+      },
+      "118": {
+        "video_id": "kHj7GPMrF8s",
+        "segundos": 10772,
+        "fuente": "catalogo_kuroto"
+      },
+      "119": {
+        "video_id": "VCNq8vnbJIQ",
+        "segundos": 13898,
+        "fuente": "catalogo_kuroto"
+      },
+      "120": {
+        "video_id": "iLzxXL9d8pU",
+        "segundos": 10785,
+        "fuente": "catalogo_kuroto"
+      },
+      "121": {
+        "video_id": "bsoulnOWNKc",
+        "segundos": 10754,
+        "fuente": "catalogo_kuroto"
+      },
+      "122": {
+        "video_id": "UKvfF-IoXuY",
+        "segundos": 12615,
+        "fuente": "catalogo_kuroto"
+      },
+      "123": {
+        "video_id": "aQkRikfhFGI",
+        "segundos": 9277,
+        "fuente": "catalogo_kuroto"
+      },
+      "124": {
+        "video_id": "4cO-E6C8o5w",
+        "segundos": 10963,
+        "fuente": "catalogo_kuroto"
+      },
+      "125": {
+        "video_id": "wPckbwoMkdE",
+        "segundos": 11830,
+        "fuente": "catalogo_kuroto"
+      },
+      "126": {
+        "video_id": "fc0L1zYHctM",
+        "segundos": 9984,
+        "fuente": "catalogo_kuroto"
+      },
+      "127": {
+        "video_id": "Om1D1IsCPKg",
+        "segundos": 9535,
+        "fuente": "catalogo_kuroto"
+      },
+      "128": {
+        "video_id": "gnbMDRne4C4",
+        "segundos": 9877,
+        "fuente": "catalogo_kuroto"
+      },
+      "129": {
+        "video_id": "h3xvmTWCzC8",
+        "segundos": 7639,
+        "fuente": "catalogo_kuroto"
+      },
+      "130": {
+        "video_id": "bgfjHtjKqqo",
+        "segundos": 13556,
+        "fuente": "catalogo_kuroto"
+      },
+      "131": {
+        "video_id": "L2BTgpV3TfI",
+        "segundos": 11039,
+        "fuente": "catalogo_kuroto"
+      },
+      "132": {
+        "video_id": "RKJobYkQpQI",
+        "segundos": 9694,
+        "fuente": "catalogo_kuroto"
+      },
+      "133": {
+        "video_id": "S4EhEFFTzjQ",
+        "segundos": 9852,
+        "fuente": "catalogo_kuroto"
+      },
+      "134": {
+        "video_id": "oWHyl0LIlHA",
+        "segundos": 7103,
+        "fuente": "catalogo_kuroto"
+      },
+      "135": {
+        "video_id": "SyXIdBFD7Os",
+        "segundos": 15998,
+        "fuente": "catalogo_kuroto"
+      },
+      "136": {
+        "video_id": "t33F7z6KUNo",
+        "segundos": 10416,
+        "fuente": "catalogo_kuroto"
+      },
+      "137": {
+        "video_id": "mGqXl2WaQ-I",
+        "segundos": 9884,
+        "fuente": "catalogo_kuroto"
+      },
+      "138": {
+        "video_id": "PXwlFxVaPYk",
+        "segundos": 10986,
+        "fuente": "catalogo_kuroto"
+      },
+      "139": {
+        "video_id": "ph7LT7Cny1U",
+        "segundos": 10642,
+        "fuente": "catalogo_kuroto"
+      },
+      "140": {
+        "video_id": "WmcQsKzct8E",
+        "segundos": 11384,
+        "fuente": "catalogo_kuroto"
+      },
+      "141": {
+        "video_id": "rLosf9pZjtg",
+        "segundos": 11449,
+        "fuente": "catalogo_kuroto"
+      },
+      "142": {
+        "video_id": "dqWsQA4k2yY",
+        "segundos": 10812,
+        "fuente": "catalogo_kuroto"
+      },
+      "143": {
+        "video_id": "B7AY5eJeBJM",
+        "segundos": 15345,
+        "fuente": "catalogo_kuroto"
+      },
+      "144": {
+        "video_id": "0hoZvk8fnBI",
+        "segundos": 10271,
+        "fuente": "catalogo_kuroto"
+      },
+      "145": {
+        "video_id": "ndpJq8wyxpI",
+        "segundos": 14287,
+        "fuente": "catalogo_kuroto"
+      },
+      "146": {
+        "video_id": "5C0kkd2kiBI",
+        "segundos": 11056,
+        "fuente": "catalogo_kuroto"
+      },
+      "147": {
+        "video_id": "xnLXOqKTrd4",
+        "segundos": 8764,
+        "fuente": "catalogo_kuroto"
+      },
+      "148": {
+        "video_id": "S-dO33xkW3Y",
+        "segundos": 11292,
+        "fuente": "catalogo_kuroto"
+      },
+      "149": {
+        "video_id": "CTIT6Tglxog",
+        "segundos": 12026,
+        "fuente": "catalogo_kuroto"
+      },
+      "150": {
+        "video_id": "sagfsr_s1Kw",
+        "segundos": 10488,
+        "fuente": "catalogo_kuroto"
+      },
+      "151": {
+        "video_id": "Z8jNyingQaA",
+        "segundos": 11521,
+        "fuente": "catalogo_kuroto"
+      },
+      "152": {
+        "video_id": "8QTDQbbFjx0",
+        "segundos": 11299,
+        "fuente": "catalogo_kuroto"
+      },
+      "153": {
+        "video_id": "SXYizQC9qdk",
+        "segundos": 10773,
+        "fuente": "catalogo_kuroto"
+      },
+      "154": {
+        "video_id": "gSVlOQLJXTM",
+        "segundos": 10385,
+        "fuente": "catalogo_kuroto"
+      },
+      "155": {
+        "video_id": "wblxt9sFHtU",
+        "segundos": 12258,
+        "fuente": "catalogo_kuroto"
+      },
+      "156": {
+        "video_id": "eDmuOZraUFw",
+        "segundos": 13067,
+        "fuente": "catalogo_kuroto"
+      },
+      "157": {
+        "video_id": "t2W3FOj1AkE",
+        "segundos": 9989,
+        "fuente": "catalogo_kuroto"
+      },
+      "158": {
+        "video_id": "e1AyEOenx1o",
+        "segundos": 9731,
+        "fuente": "catalogo_kuroto"
+      },
+      "159": {
+        "video_id": "z3SMO9GC8d4",
+        "segundos": 10754,
+        "fuente": "catalogo_kuroto"
+      },
+      "160": {
+        "video_id": "DyF3LM0ZP-U",
+        "segundos": 10135,
+        "fuente": "catalogo_kuroto"
+      },
+      "161": {
+        "video_id": "Q3T__V-vSxY",
+        "segundos": 10166,
+        "fuente": "catalogo_kuroto"
+      },
+      "162": {
+        "video_id": "GjPZAZBRNmc",
+        "segundos": 11415,
+        "fuente": "catalogo_kuroto"
+      },
+      "163": {
+        "video_id": "yVx0Woysozw",
+        "segundos": 12297,
+        "fuente": "catalogo_kuroto"
+      },
+      "164": {
+        "video_id": "S35zAQElvdw",
+        "segundos": 11773,
+        "fuente": "catalogo_kuroto"
+      },
+      "165": {
+        "video_id": "Q0zqwpvZiWI",
+        "segundos": 13098,
+        "fuente": "catalogo_kuroto"
+      },
+      "166": {
+        "video_id": "JjSd_jBupGs",
+        "segundos": 10819,
+        "fuente": "catalogo_kuroto"
+      },
+      "167": {
+        "video_id": "rStRApYCXVE",
+        "segundos": 11458,
+        "fuente": "catalogo_kuroto"
+      },
+      "168": {
+        "video_id": "mukdua86E_0",
+        "segundos": 10616,
+        "fuente": "catalogo_kuroto"
+      },
+      "169": {
+        "video_id": "UyPZVE4FGDo",
+        "segundos": 11339,
+        "fuente": "catalogo_kuroto"
+      },
+      "170": {
+        "video_id": "ym1Q7gkWXi4",
+        "segundos": 12341,
+        "fuente": "catalogo_kuroto"
+      },
+      "171": {
+        "video_id": "YCgU_17Rt24",
+        "segundos": 9390,
+        "fuente": "catalogo_kuroto"
+      },
+      "172": {
+        "video_id": "JtusYfNy6kU",
+        "segundos": 11652,
+        "fuente": "catalogo_kuroto"
+      },
+      "173": {
+        "video_id": "f3yZ-FzwU28",
+        "segundos": 12540,
+        "fuente": "catalogo_kuroto"
+      },
+      "174": {
+        "video_id": "26jlKzFFHIM",
+        "segundos": 7855,
+        "fuente": "catalogo_kuroto"
+      },
+      "175": {
+        "video_id": "R9Cx2x8O3yw",
+        "segundos": 9558,
+        "fuente": "catalogo_kuroto"
+      },
+      "176": {
+        "video_id": "Oq_iMchjet0",
+        "segundos": 6725,
+        "fuente": "catalogo_kuroto"
+      },
+      "177": {
+        "video_id": "_W5N2dwjqaE",
+        "segundos": 10440,
+        "fuente": "catalogo_kuroto"
+      },
+      "178": {
+        "video_id": "heE30GsaeEM",
+        "segundos": 8352,
+        "fuente": "catalogo_kuroto"
+      },
+      "179": {
+        "video_id": "fq16KlCjmiU",
+        "segundos": 9113,
+        "fuente": "catalogo_kuroto"
+      },
+      "180": {
+        "video_id": "7pW0Gna-9ZM",
+        "segundos": 10859,
+        "fuente": "catalogo_kuroto"
+      },
+      "181": {
+        "video_id": "9OwFNL_KXy0",
+        "segundos": 10313,
+        "fuente": "catalogo_kuroto"
+      },
+      "182": {
+        "video_id": "iop3TS6EwO8",
+        "segundos": 8888,
+        "fuente": "catalogo_kuroto"
+      }
+    }
+  }
+}

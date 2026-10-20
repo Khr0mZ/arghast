@@ -1,0 +1,110 @@
+{
+  "id": "k-1444837279527997590",
+  "campana": "kuroto",
+  "unidad_revision": "k-1444837279527997590",
+  "hilo_id": "1387915737502580886",
+  "hilo_nombre": "Sho, Palacio del Shogunato - Capital de Kuroto",
+  "titulo": "Shizzuka descubre que la dejaron fuera",
+  "resumen": "Arwen le cuenta la reunión y Shizzuka protesta por el grupo formado sin ella.",
+  "relato": "Arwen vuelve corriendo al palacio y sube a ver a Shizzuka. Anuncia que tiene muchas cosas que contar y le relata la reunión de aquella tarde, cuyo contenido no vuelve a transcribirse. Shizzuka se indigna al saber que han creado un grupo sin incluirla. La escena termina en su protesta; las catástrofes y lluvias de meteoritos insinuadas por la broma narrativa no llegan a representarse.",
+  "participantes": [
+    "Arwen",
+    "Shizzuka"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1444837279527997590",
+      "afirmacion": "Arwen relata a Shizzuka la reunión de esa tarde.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1444837766679756832",
+      "afirmacion": "Shizzuka se indigna por quedar fuera del grupo.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "No identificar una reunión concreta solo por proximidad: su contenido no está reproducido en esta unidad.",
+    "El temor y las catástrofes se expresan humorísticamente; no se narran daños efectivos."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-11-30T23:47:31.218000+00:00",
+  "fin_utc": "2025-11-30T23:49:27.364000+00:00",
+  "fecha_local": "2025-12-01",
+  "intervalo": {
+    "anterior": 170,
+    "siguiente": 171,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1443679606723838074",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1446214322580881569",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 170,
+        "fecha": "2025-11-27",
+        "inicio_referencia_utc": "2025-11-27T19:07:07+00:00",
+        "fin_estimado_utc": "2025-11-27T22:32:48+00:00",
+        "duracion_video_segundos": 12341,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1443679606723838074"
+      },
+      {
+        "capitulo": 171,
+        "fecha": "2025-12-04",
+        "inicio_referencia_utc": "2025-12-04T18:59:08+00:00",
+        "fin_estimado_utc": "2025-12-04T21:35:38+00:00",
+        "duracion_video_segundos": 9390,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1446214322580881569"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1444837279527997590",
+      "fecha_utc": "2025-11-30T23:47:31.218000+00:00",
+      "fecha_local": "2025-12-01",
+      "editado_utc": null,
+      "texto": "Arwen: **Llega corriendo al palacio como siempre y sube a la habitacion con Shizzuka** SHIZZUKAAAA MIRA MIRA, ARWEN TIENE QUE CONTARTE MUCHAS COSAAAAS **Y se dedicara a relatar toda la reunion de esta tarde... No se hace responsable de posibles lluvias de meteoritos o catastrofes que ocurran a continuacion**",
+      "mensaje_sha256": "7459af51c7d94a35fa82d3ef26b75176b0d5310123abac291f519c1a4ae2c878",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1444837279527997590",
+      "texto_sha256": "4d2b7a0a450fb6e6491b880493fd17a64b8c5759043384befd25dfc6432a1b04",
+      "adjuntos": []
+    },
+    {
+      "id": "1444837294619234354",
+      "fecha_utc": "2025-11-30T23:47:34.816000+00:00",
+      "fecha_local": "2025-12-01",
+      "editado_utc": null,
+      "texto": "<@214405113677217793>",
+      "mensaje_sha256": "f35c185e397e7f520cf6b16b6b0c60edb64d4baf4dbd7b9743f332afebd50d09",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1444837294619234354",
+      "texto_sha256": "ac93d358c181353378177a6cb49577e35ef8406127fe712a70490ca6135fb57d",
+      "adjuntos": []
+    },
+    {
+      "id": "1444837766679756832",
+      "fecha_utc": "2025-11-30T23:49:27.364000+00:00",
+      "fecha_local": "2025-12-01",
+      "editado_utc": null,
+      "texto": "Shizzuka: Malditos!! Como os atreveis a hacer un grupo sin mi.... **El mayor temor de Kuroto se cierne sobre los antiguos Cazadores**\n\n🔥💀Fin de la escena💀🔥",
+      "mensaje_sha256": "7bfab1a88393cbc16d834a94be41c262de4ff74b5a719ac704a8acccac5b35d5",
+      "tipo_discord": 19,
+      "referencia": "1444837279527997590",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1444837766679756832",
+      "texto_sha256": "00d853dcd6b96d1dce22e265cc09227cd7aaf655eb62f6480aea4cbd6e50dda3",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "x-1524293375191289978",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1524293375191289978",
+  "hilo_id": "1495828307843747971",
+  "hilo_nombre": "??? - En alguna parte",
+  "titulo": "El neogi no puede someter al Zin-Carla",
+  "resumen": "La criatura confunde a un no muerto con una presa y es abatida mientras este sigue hacia su objetivo.",
+  "relato": "Un neogi acecha desde el techo de una caverna a un humanoide solitario. Desea convertirlo en esclavo y emite el sonido con el que suele doblegar voluntades. La figura se detiene, pero no tiene pensamientos que la aberración pueda escuchar.\n\nEl neogi comprende el peligro cuando un enorme lucero del alba rompe el suelo a su lado. Intenta huir por la pared, pero el adversario le agarra una pata, se la quiebra y lo lanza contra la roca. Una nueva tentativa de dominio fracasa: sus ojos vacíos revelan un no muerto.\n\nEl humanoide lo remata y continúa la marcha. El narrador lo llama Zin-Carla y afirma que nada impedirá encontrar a su objetivo, pero no ofrece aquí un nombre propio ni identifica a la persona perseguida. La escena demuestra el fracaso del dominio y la violencia del caminante, sin resolver su misión.",
+  "participantes": [
+    "Zin-Carla sin identificar",
+    "Neogi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1524293375191289978",
+      "afirmacion": "El neogi intenta dominar al caminante y no percibe pensamientos.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1524293923940335717",
+      "afirmacion": "El no muerto mata al neogi y sigue como Zin-Carla hacia un objetivo no nombrado.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La secuencia previa de Rheydyn sugiere continuidad, pero el nombre del Zin-Carla no se pronuncia aquí.",
+    "No se identifica a la víctima buscada ni se completa el itinerario."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-07-08T05:57:40.647000+00:00",
+  "fin_utc": "2026-07-08T05:59:51.479000+00:00",
+  "fecha_local": "2026-07-08",
+  "intervalo": {
+    "anterior": 41,
+    "siguiente": 42,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1522672340213694706",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1524846150652264642",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 41,
+        "fecha": "2026-07-03",
+        "inicio_referencia_utc": "2026-07-03T18:35:58+00:00",
+        "fin_estimado_utc": "2026-07-03T21:07:42+00:00",
+        "duracion_video_segundos": 9104,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1522672340213694706"
+      },
+      {
+        "capitulo": 42,
+        "fecha": "2026-07-09",
+        "inicio_referencia_utc": "2026-07-09T18:30:59+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1524846150652264642"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1524293375191289978",
+      "fecha_utc": "2026-07-08T05:57:40.647000+00:00",
+      "fecha_local": "2026-07-08",
+      "editado_utc": "2026-07-08T05:58:06.855000+00:00",
+      "texto": "**La criatura avanzaba por el techo de la caverna, suspendida de sus horribles ocho patas, acechando a la pobre alma que atravesaba aquella parte de la Infraoscuridad.\nEra un neogi, una aberración semejante a una enorme araña, con un cuello largo y sinuoso como el de una anguila que terminaba en una cabeza de ojos brillantes y reflectantes. No destacaba por su fuerza física, pero poseía un don mucho más peligroso: podía doblegar la voluntad de los humanoides y convertirlos en esclavos obedientes.**\n*Oh... qué bien me vendría un esclavo personal.*\n**Con esa idea en mente, descendió lentamente por la pared de la caverna y comenzó a emitir aquel desagradable sonido que utilizaba para quebrar la voluntad de sus presas.**\n**El humanoide se detuvo. Exactamente como había previsto.**\n**Aquel zumbido llenaba la mente de sus víctimas de una calma antinatural, adormeciendo su voluntad y permitiendo al neogi someterlas durante el tiempo suficiente para llevarlas hasta su colonia. Un día era más que suficiente.**\n**Satisfecho, comenzó a acercarse a su nueva mascota. Entonces sintió que algo no encajaba. No podía escuchar su mente. Era como si aquel humanoide no estuviera pensando en absolutamente nada. Como si ya estuviera muerto.**\n\n**Lo comprendió justo cuando un enorme lucero del alba descendió hacia él. Sus ocho patas se movieron a una velocidad sorprendente y, aunque por un instante pareció resbalar sobre la roca, consiguió apartarse de la trayectoria del arma. El impacto hizo estallar el suelo de la caverna, levantando fragmentos de piedra por todas partes.**\n**El neogi se alejó cuanto pudo, arrastrándose frenéticamente hasta la pared para trepar y ponerse a salvo.**\n**No llegó a dar dos pasos.**",
+      "mensaje_sha256": "746f6c58a20ee53938df71c687f73cf510c9ae13e603d371a93fc99fb62ed11a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1524293375191289978",
+      "texto_sha256": "c1e312e80654987b91d01d1c63524eb68070aec03c164a4ba1634701292e78ee",
+      "adjuntos": []
+    },
+    {
+      "id": "1524293923940335717",
+      "fecha_utc": "2026-07-08T05:59:51.479000+00:00",
+      "fecha_local": "2026-07-08",
+      "editado_utc": null,
+      "texto": "**Una mano le sujetó una de sus patas. El humanoide ya estaba a su lado. Apretó con una fuerza monstruosa. El exoesqueleto del neogi crujió con un sonido espantoso antes de quebrarse por completo. Sin el menor esfuerzo aparente, el humanoide lo levantó y lo lanzó contra una de las paredes de la caverna. El impacto hizo temblar la roca.**\n**El neogi consiguió incorporarse, aterrorizado. Su pata colgaba destrozada y fue entonces cuando el dolor lo golpeó de lleno. Alzó lentamente su largo y repugnante cuello para mirar a su atacante. Había visto muchos humanoides en la Infraoscuridad. Demasiados. Pero ninguno como este... y mucho menos solo.**\n**Cuando la figura estuvo frente a él, intentó una vez más dominar su mente. Nada. No había voluntad que doblegar. No había pensamientos que manipular. Entonces lo vio. Los ojos. Unos ojos apagados. Vacíos. Muertos. No podía controlar a un no muerto. Y mucho menos a aquel.**\n\n**El humanoide levantó lentamente su enorme lucero del alba. Un golpe seco. Un crujido. Y el silencio volvió a adueñarse de la caverna.**\n\n**Sin detenerse un solo instante, el Zin-Carla continuó su marcha. Nada iba a impedir que encontrara a su objetivo.**\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "c42dd1d5498eefac33f7ec1bc3c4e4b5a335efde9cbca04a91428e8f616be645",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1524293923940335717",
+      "texto_sha256": "212bb51a4a73317904edbb9bf2dae7d885ad261f1fbc9aaa6c08eb0a27dbec38",
+      "adjuntos": []
+    }
+  ]
+}

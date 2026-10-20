@@ -1,0 +1,370 @@
+{
+  "id": "k-1373620019082301591",
+  "campana": "kuroto",
+  "unidad_revision": "k-1373620019082301591",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "La noticia del maestro exiliado",
+  "resumen": "Guxi recibe una carta sobre su maestro y pide ayuda a Banzo para solicitar su perdón a Rúa.",
+  "relato": "Guxi recoge el correo de la base y prepara café para Banzo. Le presta una botella que mantiene caliente la bebida y pregunta por su nuevo trabajo junto a Rúa. El goliat dice que aún se adapta a las rutinas y al séquito que acompaña constantemente a la gobernante. Mientras revisa las cartas, Guxi queda paralizado y estalla de alegría: su maestro está vivo. Cree que podría ayudar a resolver la crisis si consigue que Rúa le permita volver. Ante las preguntas de Banzo, confiesa que unos diez años atrás fue acusado de falsificación fiscal y exiliado, pero que en realidad él era responsable y el maestro aceptó el castigo para salvarlo. Dice haberlo averiguado cuando el daño ya estaba hecho. Banzo lo anima a pedir audiencia de inmediato y ofrece avisar de la urgencia y apoyarlo en lo que pueda. Aclara que la decisión corresponde a la shogun y pide que no deposite ese peso sobre él. Guxi acepta agradecido; el goliat lo abraza y ambos se disponen a ir al palacio. El perdón y el regreso del maestro quedan pendientes.",
+  "participantes": [
+    "Guxi",
+    "Banzo"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1373625560663851139",
+      "afirmacion": "Guxi presta a Banzo una botella para mantener el café caliente.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1373626078085775392",
+      "afirmacion": "Banzo describe su adaptación al trabajo junto a Rúa.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1373627880906559518",
+      "afirmacion": "Guxi anuncia emocionado que su maestro está vivo.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1373630373157666857",
+      "afirmacion": "Guxi afirma que el maestro aceptó el exilio por una falsificación fiscal cuya responsabilidad era suya.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1373632902214189086",
+      "afirmacion": "Banzo propone pedir audiencia con Rúa y ofrece comunicar la urgencia.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1373633928631423098",
+      "afirmacion": "Banzo promete apoyo, recordando que la decisión es de la shogun.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1373634530769899550",
+      "afirmacion": "Banzo abraza a Guxi y lo anima a salir hacia el palacio.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Veintiún mensajes completos. El texto íntegro de la carta no aparece y no se identifica por nombre al maestro en este encuentro. No se iguala automáticamente con el remitente del envío recibido por Archi.",
+    "La responsabilidad del fraude y el sacrificio del maestro pertenecen a la confesión de Guxi; no hay revisión judicial ni perdón concedido aquí.",
+    "La esperanza de terminar la crisis con el maestro no es una capacidad ni una victoria confirmada. El termo se entrega en juego sin añadir otras propiedades."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-18T11:15:33.175000+00:00",
+  "fin_utc": "2025-05-18T13:07:51.378000+00:00",
+  "fecha_local": "2025-05-18",
+  "intervalo": {
+    "anterior": 115,
+    "siguiente": 116,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1372641487094808689",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1374091924474040400",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 115,
+        "fecha": "2025-05-15",
+        "inicio_referencia_utc": "2025-05-15T18:26:58+00:00",
+        "fin_estimado_utc": "2025-05-15T21:47:48+00:00",
+        "duracion_video_segundos": 12050,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1372641487094808689"
+      },
+      {
+        "capitulo": 116,
+        "fecha": "2025-05-19",
+        "inicio_referencia_utc": "2025-05-19T18:30:27+00:00",
+        "fin_estimado_utc": "2025-05-19T21:06:27+00:00",
+        "duracion_video_segundos": 9360,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1374091924474040400"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida."
+  },
+  "fuentes": [
+    {
+      "id": "1373620019082301591",
+      "fecha_utc": "2025-05-18T11:15:33.175000+00:00",
+      "fecha_local": "2025-05-18",
+      "editado_utc": null,
+      "texto": "Guxi: **se para un momento antes de entrar en la base en el buzon y coge un puñado de cartas antes de entrar**",
+      "mensaje_sha256": "778a9299cb261840aa5c4d0ae6949d73d03296c25630b026e4fe84e0591cdbea",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1373620019082301591",
+      "texto_sha256": "c2ea19643597f9241ffa92c130710b979dce8249a6647e0472d859a06942236b",
+      "adjuntos": []
+    },
+    {
+      "id": "1373621332046254143",
+      "fecha_utc": "2025-05-18T11:20:46.210000+00:00",
+      "fecha_local": "2025-05-18",
+      "editado_utc": null,
+      "texto": "Guxi: ven <@616683133374562304> banzo siéntate un momento** va a la mini cocina a preparar un poco de café**",
+      "mensaje_sha256": "5711bf010a50220f5f3d446b6c5c2f1f4b00326f67e28f813a6792f949d292ea",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1373621332046254143",
+      "texto_sha256": "f85273fe795f582e343a3fc6032ae7cbbcf31a9098aee4187f4533d4ca1b7c54",
+      "adjuntos": []
+    },
+    {
+      "id": "1373623363653730386",
+      "fecha_utc": "2025-05-18T11:28:50.583000+00:00",
+      "fecha_local": "2025-05-18",
+      "editado_utc": "2025-05-18T11:29:48.488000+00:00",
+      "texto": "Banzo : **Se sienta ** <@171702246952665098>",
+      "mensaje_sha256": "af00b317867fe6ecfc63ad6091dde8c28e59d28842f4eacb4871f354168f6811",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1373623363653730386",
+      "texto_sha256": "8c874691ca6f500dc9d8d8562e3aaa4356f8b030ae229b9dde7165f9a8b80a7b",
+      "adjuntos": []
+    },
+    {
+      "id": "1373625560663851139",
+      "fecha_utc": "2025-05-18T11:37:34.391000+00:00",
+      "fecha_local": "2025-05-18",
+      "editado_utc": null,
+      "texto": "guxi: **se acerca y te deja en la mesa una taza de cafe para ti **el cafe me ha salvado la vida muchas veces mas vale que te acostumbres a su sabor si vas a dormir poco y sobre te ayudara a mantenerte despierto y te confio uno de mis mejores inventos ** te deja al lado tuya una botella ** lo llamo botella termoconversadora de liquidos calientes o termo para abreviar **se sienta al lado tuya mientras revisa el correo* bueno cuentame algo sobre tu nuevo trabajo",
+      "mensaje_sha256": "df58c5e43dd98d900ea72fbff3c6e1be9a12bef61936f504f0dfb90895cd936e",
+      "tipo_discord": 19,
+      "referencia": "1373623363653730386",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1373625560663851139",
+      "texto_sha256": "bf133245bbe0d01cf27d9bcad74455eb3008b18142b226814174e5842701cd65",
+      "adjuntos": []
+    },
+    {
+      "id": "1373626078085775392",
+      "fecha_utc": "2025-05-18T11:39:37.754000+00:00",
+      "fecha_local": "2025-05-18",
+      "editado_utc": null,
+      "texto": "Banzo : muchas gracias guxi , esto me servirá para cuando me esté quedando tieso. \nPues un poco perdido,  intentando acostumbrarme a las rutinas . \nRúa es muy amable pero tiene siempre un sequito de personas que le dicen donde ir todo el rato",
+      "mensaje_sha256": "8447a9be0769c0d982d2a96cae16a4021086e8fd3c4b523974fefa61921fc74b",
+      "tipo_discord": 19,
+      "referencia": "1373625560663851139",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1373626078085775392",
+      "texto_sha256": "3630a1c8ceb9ba20ae33b4bed1f4a27f4117ccdf16becb3ee4950e2c99357fbc",
+      "adjuntos": []
+    },
+    {
+      "id": "1373626686138224660",
+      "fecha_utc": "2025-05-18T11:42:02.725000+00:00",
+      "fecha_local": "2025-05-18",
+      "editado_utc": null,
+      "texto": "guxi: el trabajo del shogun siempre fue arduo y constante y ahora aun mas por la crisis y la guerra hay que apoyar a rua en lo que se pueda **esta leyendo una carta y despues de unos cuantos segundos ves que se queda completamente paralizado y en blanco**",
+      "mensaje_sha256": "66c2ab8942001e994fe3ed3c57fe8654debada83b714797155ee030dcd853717",
+      "tipo_discord": 19,
+      "referencia": "1373626078085775392",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1373626686138224660",
+      "texto_sha256": "11da3de6a4cdd1e3a2a79297e111e1242e39ed28bc7e303cecad15bd5b201a34",
+      "adjuntos": []
+    },
+    {
+      "id": "1373627498163736689",
+      "fecha_utc": "2025-05-18T11:45:16.327000+00:00",
+      "fecha_local": "2025-05-18",
+      "editado_utc": null,
+      "texto": "Banzo : **Le mira **\nY esa cara ? **rie** una admiradora o que , a la próxima fiesta de Fukame has de venir",
+      "mensaje_sha256": "d0c0248b532a155de77a1484039570cc43720de981292f921ee88ea3761a7bf1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1373627498163736689",
+      "texto_sha256": "5d4a6ea28b277089e85767f39c2897d4bdfb7f073fcf8fa214857b58dd77e396",
+      "adjuntos": []
+    },
+    {
+      "id": "1373627880906559518",
+      "fecha_utc": "2025-05-18T11:46:47.580000+00:00",
+      "fecha_local": "2025-05-18",
+      "editado_utc": null,
+      "texto": "guxi: !ESTA VIVO! **te agarra efusivamente** !ESTA VIVO BANZO ESTA VIVO! MI MAESTRO ESTA VIVO",
+      "mensaje_sha256": "d0c9dd6405338b5161999d86fb8f5d4028943e5619c018f894238e452c0cd7fd",
+      "tipo_discord": 19,
+      "referencia": "1373627498163736689",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1373627880906559518",
+      "texto_sha256": "03d2ac61f50d504201c8266a144450c35a0b51e08e12812b20920ee1c94fd16d",
+      "adjuntos": []
+    },
+    {
+      "id": "1373628549084479549",
+      "fecha_utc": "2025-05-18T11:49:26.886000+00:00",
+      "fecha_local": "2025-05-18",
+      "editado_utc": null,
+      "texto": "Banzo : **sonrrie** pero guxi que pasa , esta vivo ? \nTu maestro? \nAh em.... enhorabuena !!!! ESTA VIVO !",
+      "mensaje_sha256": "50b9c247834ccf496d00a7304c489b92379bea98275ab0b28434cee267773218",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1373628549084479549",
+      "texto_sha256": "7b96db231f866323fd839498bab22c880ebfaffe0d8ff1969a3db080deebc9a6",
+      "adjuntos": []
+    },
+    {
+      "id": "1373629175256186931",
+      "fecha_utc": "2025-05-18T11:51:56.177000+00:00",
+      "fecha_local": "2025-05-18",
+      "editado_utc": null,
+      "texto": "guxi: si el esta vivo puede salvarnos a todos , no lo entiendes el salvo a kuroto muchas veces con el podriamos terminar la crisis **le caen unas lagrimas** si convenzo a Rua para que lo perdone entonces podriamos salir de esta",
+      "mensaje_sha256": "600b3f6b2cf476e3809591d410b09fb6ffe397aa69280bb3a5dcbcd60992e0fd",
+      "tipo_discord": 19,
+      "referencia": "1373628549084479549",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1373629175256186931",
+      "texto_sha256": "5c300048e8d57c06c09aa5203cdeac08c48736b44568921603e8563a15c7e966",
+      "adjuntos": []
+    },
+    {
+      "id": "1373629535089852516",
+      "fecha_utc": "2025-05-18T11:53:21.968000+00:00",
+      "fecha_local": "2025-05-18",
+      "editado_utc": null,
+      "texto": "Banzo : eso es fantástico !!! \nEmmm un momento,  que lo perdone ? De que ?",
+      "mensaje_sha256": "3f6d4bd05c13696c1777549983212decfaace636a9439855089c5b6cc80eafa3",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1373629535089852516",
+      "texto_sha256": "40d73622f082510e8f024ad7c64ca127987e798c56b1927830fe6ef52223da9e",
+      "adjuntos": []
+    },
+    {
+      "id": "1373630373157666857",
+      "fecha_utc": "2025-05-18T11:56:41.779000+00:00",
+      "fecha_local": "2025-05-18",
+      "editado_utc": null,
+      "texto": "guxi: ** se sienta y te mira a los ojos** hace unos 10 años fue acusado de un grave caso de falsificacion fiscal y fue exiliado pero **le cuesta decir mucho estas palabras ** fue culpa mia era joven y imprudente y el se interpuso salvandome la vida acepto el exilio por mi",
+      "mensaje_sha256": "29887de2682edfc3812ba94759d8b2f7637abfe80023a31c37961a5bdcd1ee04",
+      "tipo_discord": 19,
+      "referencia": "1373629535089852516",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1373630373157666857",
+      "texto_sha256": "f1d9b61c76546867bc394e9d2c4f887e9fb02d818a826d0675ea630bc4443f06",
+      "adjuntos": []
+    },
+    {
+      "id": "1373631246135070811",
+      "fecha_utc": "2025-05-18T12:00:09.913000+00:00",
+      "fecha_local": "2025-05-18",
+      "editado_utc": null,
+      "texto": "Banzo : uy , no entiendo muy bien lo que me dices . \nTu cometiste un error y el lo pago por ti ? \nY ara quieres que Rúa le perdone el exilio para que vuelva,  es así?",
+      "mensaje_sha256": "c518c606cb9f6e239dd9139d34e72aae4bf8019a78b91b56053eb63590e95ba8",
+      "tipo_discord": 19,
+      "referencia": "1373630373157666857",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1373631246135070811",
+      "texto_sha256": "620a137a7c6ba5bbc077e27731b9473f0ab120c096077d5db9c13075adbc727b",
+      "adjuntos": []
+    },
+    {
+      "id": "1373631823157919816",
+      "fecha_utc": "2025-05-18T12:02:27.486000+00:00",
+      "fecha_local": "2025-05-18",
+      "editado_utc": "2025-05-18T12:02:32.908000+00:00",
+      "texto": "guxi: si fue culpa mia lo averigue años tarde cuando el daño ya estaba hecho , lo necesito bueno lo necesitamos **se ve algo de dolor en sus palabras**",
+      "mensaje_sha256": "6d4f305d68f9552da36296fa840932dfc2e78133fa775798fa9ce60d865eb452",
+      "tipo_discord": 19,
+      "referencia": "1373631246135070811",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1373631823157919816",
+      "texto_sha256": "a9dd6375a3b68ded9a62c43fec26d51336eaf26b50331eca9a4574dc68c20b90",
+      "adjuntos": []
+    },
+    {
+      "id": "1373632902214189086",
+      "fecha_utc": "2025-05-18T12:06:44.753000+00:00",
+      "fecha_local": "2025-05-18",
+      "editado_utc": null,
+      "texto": "Banzo : bien , entonces no hay tiempo que perder. Vayamos a palacio y pide audiencia con Rúa. <@214405113677217793> \nYo puedo decirle si quieres que es un tema urgente , pero más allá no te puedo ayudar.  \nDe acuerdo ?",
+      "mensaje_sha256": "540c079c0935b8bd193ca2c8a1337361e44c9b65184be995848f1830da8f56e4",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1373632902214189086",
+      "texto_sha256": "498a4ff8f37958bfc3f46e91ca1599ebc93dd2adc644f8e5dba99cd86485b32f",
+      "adjuntos": []
+    },
+    {
+      "id": "1373633254921343047",
+      "fecha_utc": "2025-05-18T12:08:08.845000+00:00",
+      "fecha_local": "2025-05-18",
+      "editado_utc": "2025-05-18T12:09:48.244000+00:00",
+      "texto": "guxi: eso hare pero me gustaria tu apoyo si es posible es un tema delicado banzo te lo agradeceria **con los labios temblando te dice** por favor",
+      "mensaje_sha256": "2f5caf8092708d96304748b63af8e029d0b211007f69b66cb8ebcf913cac4d64",
+      "tipo_discord": 19,
+      "referencia": "1373632902214189086",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1373633254921343047",
+      "texto_sha256": "4aaf92e9f4124b4a147f7620d3259dc58babb4bafdde2a8a666ab6c164fdbed1",
+      "adjuntos": []
+    },
+    {
+      "id": "1373633928631423098",
+      "fecha_utc": "2025-05-18T12:10:49.470000+00:00",
+      "fecha_local": "2025-05-18",
+      "editado_utc": null,
+      "texto": "Banzo : Are todo lo que pueda amigo te lo prometo  . Pero la decisión será de la Shogun , no recaigas ese peso sobre mi por favor...",
+      "mensaje_sha256": "79bdd412d06746a0a6f771100cdd30581d0942a168c8ea91dacf4bc621cf5726",
+      "tipo_discord": 19,
+      "referencia": "1373633254921343047",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1373633928631423098",
+      "texto_sha256": "c426de680921ace5fa1b48df583ffc7d384d4ce689a5d3f25d8aee3b3ef6a95c",
+      "adjuntos": []
+    },
+    {
+      "id": "1373634189542555749",
+      "fecha_utc": "2025-05-18T12:11:51.676000+00:00",
+      "fecha_local": "2025-05-18",
+      "editado_utc": null,
+      "texto": "guxi: gracias **agacha la cabeza ante ti** amigo",
+      "mensaje_sha256": "84440f0dd6bc342a980396010301b329ce9a894dc81b3125dc1e4d30e8ea7c2e",
+      "tipo_discord": 19,
+      "referencia": "1373633928631423098",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1373634189542555749",
+      "texto_sha256": "753ba7faea6bb51387c9d86c532063f00f251364826e357d9018d9b5646fbfd5",
+      "adjuntos": []
+    },
+    {
+      "id": "1373634530769899550",
+      "fecha_utc": "2025-05-18T12:13:13.031000+00:00",
+      "fecha_local": "2025-05-18",
+      "editado_utc": null,
+      "texto": "Banzo : **Se acerca y te da un abrazo de goliath levantandote de suelo ** \nVenga vamos no perdamos más tiempo. Vayamos a pedir audiencia.",
+      "mensaje_sha256": "052f4ac406564c82c6c25fd205a7f336973081181785478a8c709a412fc1c7b3",
+      "tipo_discord": 19,
+      "referencia": "1373634189542555749",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1373634530769899550",
+      "texto_sha256": "15ef88b23a421be3aca6382b429bee60b7f135f9b8379a1e13f6b2ee8769f044",
+      "adjuntos": []
+    },
+    {
+      "id": "1373634868772077598",
+      "fecha_utc": "2025-05-18T12:14:33.617000+00:00",
+      "fecha_local": "2025-05-18",
+      "editado_utc": null,
+      "texto": "guxi: **a pesar de oir un crack seguramente su espalda le ves sonreir** vamos con el viento amigo",
+      "mensaje_sha256": "7b04d533ac1e108672411223566299d96d969cf31c0b29348dd5ad0f49525749",
+      "tipo_discord": 19,
+      "referencia": "1373634530769899550",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1373634868772077598",
+      "texto_sha256": "2badcf0fdda162a1bcb16b249d5a52e4fc40dcaa991a441cc174888d6c846bf9",
+      "adjuntos": []
+    },
+    {
+      "id": "1373648281154093097",
+      "fecha_utc": "2025-05-18T13:07:51.378000+00:00",
+      "fecha_local": "2025-05-18",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena 🔴",
+      "mensaje_sha256": "7057e8838744f5bf13622de5ea9fb023385fd103ed2381090158ff5549e351bb",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1373648281154093097",
+      "texto_sha256": "298fa93bf0457633e2be1e0841043d853cccb9548c7ae2d8426119f0cb0a929e",
+      "adjuntos": []
+    }
+  ]
+}

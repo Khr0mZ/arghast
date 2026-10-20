@@ -1,0 +1,227 @@
+{
+  "id": "x-1476619358179688701",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1476353945050943620",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "Porcentajes y preparativos de rescate",
+  "resumen": "Nox impone un trato e Ione moviliza al grupo.",
+  "relato": "Tras la escena de la taberna, Aerendriel Xalathor vuelve con dolor por un balazo y pide ir al barco. Se disculpa por su conducta en el bar, aludiendo a rencores familiares. Durante el camino Nox le pone la pistola en la sien y le impone condiciones: entregar a él o a Ione el diez por ciento de lo que llegue de Puerto de la Espada, sin que Bonny lo sepa, y la mitad de lo que gane buscando reliquias y saqueando. Lo acusa de mentir sobre la pobreza familiar y usar su verdadero nombre para chantajearlo. Estas acusaciones no reconstruyen la conversación ausente.\n\nAerendriel acepta y recibe un rapier y diez monedas de oro para equiparse. Le entrega un libro tomado de un templo, le pide que no lo pierda y que consulte a Mamá sobre los nahuales. Recomienda sigilo y precaución ante las aguas del pantano antes de buscar al vendedor de armas. No se muestra una compra.\n\nNox recoge el libro y encuentra a Ione reparando el barco. Le cuenta los acuerdos y la ubicación de los captores. Al oír que Axi está preso, la capitana decide preparar un rescate y encarga a Nox adelantarse a reconocer el terreno. Sale a buscar sus guantes de boxeo. La misión queda organizada, todavía sin liberación representada.",
+  "participantes": [
+    "Aerendriel Xalathor",
+    "Nox",
+    "Ione"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1476620464993337377",
+      "afirmacion": "Aerendriel aparece herido por un balazo tras la escena del bar.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1476624208271245533",
+      "afirmacion": "Nox amenaza con una pistola, exige porcentajes y entrega un rapier y diez oros.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1476626639633776824",
+      "afirmacion": "Aerendriel acepta, entrega el libro y recomienda hablar con Mamá sobre los nahuales.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1476661448368197723",
+      "afirmacion": "Ione identifica a Axi entre los presos y decide preparar el rescate.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "La acción en el Ron de Bonny no se duplica ni se inventa entre ambos tramos.",
+    "Las exigencias económicas de Nox constan como un acuerdo obtenido bajo amenaza; no se suponen cobros posteriores.",
+    "El acompañante de Aerendriel es llamado explícitamente dragón en esta unidad.",
+    "No se afirma que la advertencia sobre los nahuales pruebe el contenido completo del libro."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-02-26T16:38:09.251000+00:00",
+  "fin_utc": "2026-02-26T19:35:59.608000+00:00",
+  "fecha_local": "2026-02-26",
+  "intervalo": {
+    "anterior": 10,
+    "siguiente": 11,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1476293643718361240",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1476657677277991027",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 10,
+        "fecha": "2026-02-25",
+        "inicio_referencia_utc": "2026-02-25T19:03:39+00:00",
+        "fin_estimado_utc": "2026-02-25T21:43:11+00:00",
+        "duracion_video_segundos": 9572,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1476293643718361240"
+      },
+      {
+        "capitulo": 11,
+        "fecha": "2026-02-26",
+        "inicio_referencia_utc": "2026-02-26T19:10:07+00:00",
+        "fin_estimado_utc": "2026-02-26T22:26:48+00:00",
+        "duracion_video_segundos": 11801,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1476657677277991027"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1476619358179688701",
+      "fecha_utc": "2026-02-26T16:38:09.251000+00:00",
+      "fecha_local": "2026-02-26",
+      "editado_utc": "2026-02-26T16:39:05.081000+00:00",
+      "texto": "Nox : ** al salir de la taberna se acerca a Aerendriel ** \nVamos al medico o prefieres  descansar en el barco ?\n<@240564189448503306>",
+      "mensaje_sha256": "b0837273cee193cfb880e47df790ddff4ae8da0292375514aff1d9730d0430fa",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476619358179688701",
+      "texto_sha256": "19d4a0d7f8b8359956a3cd77f2f4d478cfaf95630bd379387f115f5f5dcf908a",
+      "adjuntos": []
+    },
+    {
+      "id": "1476620464993337377",
+      "fecha_utc": "2026-02-26T16:42:33.136000+00:00",
+      "fecha_local": "2026-02-26",
+      "editado_utc": "2026-02-26T16:42:55.166000+00:00",
+      "texto": "Aerendriel Xalathor:\n\nAl barco, mejor. Perdón por como actué en el bar.\n\n**Está temblando por el dolor del balazo pero se mantiene de pie**\n\nTengo mucho rencor con ciertas familias",
+      "mensaje_sha256": "942ab4f98d3ba0a3581270d51a5ca4d0c4bd5d124f957739a2cf6fb423fae19b",
+      "tipo_discord": 19,
+      "referencia": "1476619358179688701",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476620464993337377",
+      "texto_sha256": "6add708d4df9b5847a909d9a8168c86b25ff9bb010c6679c812245cdade1802d",
+      "adjuntos": []
+    },
+    {
+      "id": "1476624208271245533",
+      "fecha_utc": "2026-02-26T16:57:25.603000+00:00",
+      "fecha_local": "2026-02-26",
+      "editado_utc": "2026-02-26T17:01:22.726000+00:00",
+      "texto": "Nox : a no pasa nada **ves que vais avanzando hasta el barco pero notas que se coloca detras tuya y te pone la pistola en la sien ** \n\nVuelvo a preguntarte elfo ...\nCuanto vale tu vida ? \n\nVamos a hacer dos cosas . \nSi de verdad crees que vales para encontrar reliquias de valor eso es lo que vas\n hacer . \n\nLa primera . Un 10 por ciento de los que llegue de puerto de la espada me lo vas a dar a mi o a Ione directamente . Sin que nuestra hermosa pero sanguinaria amiguita <@214405113677217793>  se entere verdad ... \n\nY por otro lado , por mentirme sobre lo asquerosamente pobre que esta tu familia , dormir en el barco , cuidar a tu dragon y intentar chantajearme con mi verdadero nombre ...Vas a robar saquear profanar templos y buscarte las mil formas para ganar dinero . Del cual la mitad será para mi . \n** te entrega un rapier y te da 10 monedas de oro **\nCompra un arco o lo que sea que se te de bien y empieza a hacer lo que se supone que viniste hacer . \n\nIone esta reuniendo un equipo para ir a por el maldito mono .. algo de lo que pueda sacar partido?",
+      "mensaje_sha256": "13f5f96ca1838c519438074db499ff5c6e105b184e0bcc33709e06dd77b208c5",
+      "tipo_discord": 19,
+      "referencia": "1476620464993337377",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476624208271245533",
+      "texto_sha256": "e391657a433da8ab0ecd08f1b7e20dc464bf0e0c22742869a088609b8669bfc3",
+      "adjuntos": []
+    },
+    {
+      "id": "1476626639633776824",
+      "fecha_utc": "2026-02-26T17:07:05.285000+00:00",
+      "fecha_local": "2026-02-26",
+      "editado_utc": null,
+      "texto": "Aerendriel Xalathor:\n\nMi vida vale mas de lo que puedas saber. Me parece bien el trato, Nox. Robar no me parece bien, pero no tengo problema por \"tomar algo prestado\".\n\n**Recoge el rapier y las 10 monedas de oro**\n\nY para empezar, con algo que tome prestado de un templo, debes de tener esto y hablar con la Mama sobre lo que sepa de los Nahuales.\n\n**Te lanza el libro al aire**\n\nPero no lo pierdas. Y en cuanto a lo del mono, te recomiendo que tengáis los ojos bien abiertos por que las aguas de ese pantano son bien peligrosas. Y que vayáis en sigilo lo mas que podáis.\n\n**Ves que se va a buscar al armero o al que venda las armas**",
+      "mensaje_sha256": "aeafd02e39060a50bf5bfab5d6673d03022ef95fb727a4c24fc9fb4efab95ae1",
+      "tipo_discord": 19,
+      "referencia": "1476624208271245533",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476626639633776824",
+      "texto_sha256": "eb257fcaa6878fc5ba91360b5117100d89d510c729ad9aea2276901b4e7b016a",
+      "adjuntos": []
+    },
+    {
+      "id": "1476627377529557164",
+      "fecha_utc": "2026-02-26T17:10:01.213000+00:00",
+      "fecha_local": "2026-02-26",
+      "editado_utc": "2026-02-26T17:53:34.404000+00:00",
+      "texto": "Nox : no entables muchas palabras con el te lo recomiendo .. \nNo olvides el trato elfo... \nTengo mas paciencia que bonny pero no es infinita .\nHaz que haya valido la pena \n**coge el libro del suelo , no lo ha cogido al vuelo por si le atacabas ya que es una de las artimañas que el ha usado en varias ocasiones ** \n\nHmmmm ... se me esta ocurriendo algo ...\n\n**se va hacia el barco para buscar a Ione  <@753394009153732689> y repasar ese libro que se le ha entregado **",
+      "mensaje_sha256": "9b6bff0660cc0dff342c0fd985988caa3b224255f9470e1d9f330802d0d07053",
+      "tipo_discord": 19,
+      "referencia": "1476626639633776824",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476627377529557164",
+      "texto_sha256": "f9bb9cbac6e140b4bbe9ac0a12de8380e70e7f82188e28e8f5cd5ffdb5e5e48a",
+      "adjuntos": []
+    },
+    {
+      "id": "1476647097175511060",
+      "fecha_utc": "2026-02-26T18:28:22.743000+00:00",
+      "fecha_local": "2026-02-26",
+      "editado_utc": "2026-02-26T18:28:29.540000+00:00",
+      "texto": "Ione: **La ves en el barco, arreglando alguno de los daños cuando anclasteis en Xoltacan. Con clavos en la boca y tablas bajo el brazo**",
+      "mensaje_sha256": "f7c6b34fa00e7874081c918e222b1f1ddff154a180addb027dcf1ff4cd5c074f",
+      "tipo_discord": 19,
+      "referencia": "1476627377529557164",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476647097175511060",
+      "texto_sha256": "68dd0d4fc276863eeb9d532315189798ed9186f5b5a3f88071dd1379a6e27578",
+      "adjuntos": []
+    },
+    {
+      "id": "1476651201516015756",
+      "fecha_utc": "2026-02-26T18:44:41.294000+00:00",
+      "fecha_local": "2026-02-26",
+      "editado_utc": null,
+      "texto": "Nox: **te mira un poco el culillo la verdad **\nEeee capitana ... he hecho un par de tratos y tenemos algo de trabajo que hacer ven que te explico ..",
+      "mensaje_sha256": "9cb1f27b77622f5861a69f8d76d40be4b50970b3532a39e955cfd1ecfd1329c6",
+      "tipo_discord": 19,
+      "referencia": "1476647097175511060",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476651201516015756",
+      "texto_sha256": "4fdafca934782a340c2d99a4373d53f02cb52235eca88223f8cdc097c47566d6",
+      "adjuntos": []
+    },
+    {
+      "id": "1476651424690606160",
+      "fecha_utc": "2026-02-26T18:45:34.503000+00:00",
+      "fecha_local": "2026-02-26",
+      "editado_utc": null,
+      "texto": "Ione: **Se pone en pie y suelta las tablas y los clavos** Dime entonces **Se dacude las manos**",
+      "mensaje_sha256": "b35e5b8ab617b8917660747814fa53a86a6b4fc496865e383e0785b1760ce50d",
+      "tipo_discord": 19,
+      "referencia": "1476651201516015756",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476651424690606160",
+      "texto_sha256": "0c709ce9c3ff7495cd8ae85c632acda08873c569ddac39571ae65be088dc89df",
+      "adjuntos": []
+    },
+    {
+      "id": "1476655624509980877",
+      "fecha_utc": "2026-02-26T19:02:15.818000+00:00",
+      "fecha_local": "2026-02-26",
+      "editado_utc": null,
+      "texto": "Nox: **le empezaria a contar lo sucedido con Aerendriel y las indicaciones para llegar al sitio de los lagartijos** \n(Perdon me quedo sin bateria )",
+      "mensaje_sha256": "907c578f19521ef510c5d1ca31c12fa782e19e90435b33b54e1caa28c5518978",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476655624509980877",
+      "texto_sha256": "b0c89b8c2db2f01d84e07962b35b739287859e58997856db78a9a0c9d516ba7d",
+      "adjuntos": []
+    },
+    {
+      "id": "1476661448368197723",
+      "fecha_utc": "2026-02-26T19:25:24.334000+00:00",
+      "fecha_local": "2026-02-26",
+      "editado_utc": "2026-02-26T19:26:23.315000+00:00",
+      "texto": "Ione: **Le cambia la cara cuando dices q Axi ha sido capturado** Esta bien yo me encargo, adelantate y e investiga el terreno... Yo le encargo de preparar todo para el rescate **Sale pitando agarrando sus guantes del boxeo**",
+      "mensaje_sha256": "6f9235459c32ab467d9b117cf16eb86841d12671cce27e55e3638963b4c0f6f4",
+      "tipo_discord": 19,
+      "referencia": "1476655624509980877",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476661448368197723",
+      "texto_sha256": "b2f9b6d4fb814e00a432d47dc8b1891d08254d181be9e95ed6368c12a5b4cae4",
+      "adjuntos": []
+    },
+    {
+      "id": "1476664112900472862",
+      "fecha_utc": "2026-02-26T19:35:59.608000+00:00",
+      "fecha_local": "2026-02-26",
+      "editado_utc": null,
+      "texto": "🔴 Fin de la Escena 🔴",
+      "mensaje_sha256": "84ba885b284fb6fbe5959950333864216c1277510ef1d194b5457e9c8c8254bc",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476664112900472862",
+      "texto_sha256": "d6243d093543ca91ea2f79f33ebf7492cbcbdd299d5f534314670df263e276e0",
+      "adjuntos": []
+    }
+  ]
+}

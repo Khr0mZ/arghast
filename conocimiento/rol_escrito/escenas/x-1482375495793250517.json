@@ -1,0 +1,79 @@
+{
+  "id": "x-1482375495793250517",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1482330037255671808",
+  "hilo_id": "1482149664131383316",
+  "hilo_nombre": "Cuicapalli - La villa tranquila",
+  "titulo": "Luna prepara su nueva profesión",
+  "resumen": "Se confecciona un atuendo de chamán tras llegar a Cuicapalli.",
+  "relato": "Después de dar vueltas por la selva con Tryel, Luna llega cansada a Cuicapalli. Recorre las casas, reúne objetos que considera útiles y se prepara un atuendo para proclamarse gran chamán. Con pintura se dibuja nuevos tatuajes.",
+  "participantes": [
+    "Luna"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1482375495793250517",
+      "afirmacion": "Luna reúne materiales y prepara su apariencia de chamán.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Viñetas distintas; los dos mensajes con el nombre del hilo son contexto editorial.",
+    "La salida de una choza y los arañazos no permiten añadir una escena íntima.",
+    "Tryel aparece solo como acompañante del trayecto que Luna recuerda."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-03-14T13:50:59.402000+00:00",
+  "fin_utc": "2026-03-14T13:50:59.402000+00:00",
+  "fecha_local": "2026-03-14",
+  "intervalo": {
+    "anterior": 16,
+    "siguiente": 17,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1482097192952008844",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1483903081971187732",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 16,
+        "fecha": "2026-03-13",
+        "inicio_referencia_utc": "2026-03-13T19:24:52+00:00",
+        "fin_estimado_utc": "2026-03-13T21:51:11+00:00",
+        "duracion_video_segundos": 8779,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1482097192952008844"
+      },
+      {
+        "capitulo": 17,
+        "fecha": "2026-03-18",
+        "inicio_referencia_utc": "2026-03-18T19:00:44+00:00",
+        "fin_estimado_utc": "2026-03-18T21:59:05+00:00",
+        "duracion_video_segundos": 10701,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1483903081971187732"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1482375495793250517",
+      "fecha_utc": "2026-03-14T13:50:59.402000+00:00",
+      "fecha_local": "2026-03-14",
+      "editado_utc": null,
+      "texto": "Luna: \n   ** Luego de 1 dia dando vueltas en circulo con Tryel en la selva, Luna termina en el borde de la nueva cuidad ** \n   Uff ya me canse de dar vueltas y solo comer frutas, puede que aqui encuentre algo para esta gran CHAMAN!\n   ** Con su nueva mision Luna comienza a recorrer sigilosamente entre las casas a ver si \"encuentra\" algo que le sirva. Va tomando y tirando cosas **\n   Esto puede servir... esto con un poco de estas hojas.... aqui!!!! esto va perfecto para mi nueva profesión\n   ** Se sienta a confeccionar como puede lo que parece se un nuevo atuendo, ademas de usar la pintura que habia conseguido para hacer sus propios \"tatuajes\" **",
+      "mensaje_sha256": "2a89b052102449446b2686a4d0ec96a8680769c774286cb8213acbf85c7e0ed5",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1482375495793250517",
+      "texto_sha256": "2775209e75cc2c564dffcbb6a1a232f4c48c366c5258fa5c082b26232299ac4b",
+      "adjuntos": []
+    }
+  ]
+}

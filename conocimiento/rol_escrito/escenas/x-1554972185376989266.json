@@ -1,0 +1,165 @@
+{
+  "id": "x-1554972185376989266",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1552722043718602783",
+  "hilo_id": "1524091803647741996",
+  "hilo_nombre": "Jungla - En alguna parte de Xoltacán",
+  "titulo": "Tryel devuelve la piedra de amistad",
+  "resumen": "La desconfianza de Ilikar hiere a la elfa y el goliat queda solo con el Palopalo.",
+  "relato": "Días después, Ilikar se aparta de Iktan lleno de dudas y se sienta junto al río. Tryel aparece en su reflejo y le pregunta si realmente cree lo que dijo de ella. Él reclama verdad para poder confiar y afirma que lucha por quienes se dejan ayudar.\n\nLa elfa explica que no resulta sencillo contar cómo lo perdió todo. Creía que eran amigos y deja a su lado el Palopalo. Sabía que era una piedra corriente: importaba porque se la había regalado él. Se aleja llorando, sin resolver la disputa.\n\nIlikar no responde ni ríe. Recoge la piedra con cuidado, la aprieta y permanece ante el agua. La escena cierra en su duda, sin disculpa o reconciliación pronunciada.",
+  "participantes": [
+    "Ilikar",
+    "Tryel"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1554983568629825631",
+      "afirmacion": "Tryel devuelve el objeto y explica su valor afectivo.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1554985386600824893",
+      "afirmacion": "Ilikar recoge la piedra tras verla marcharse.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Tres escenas distintas separadas en subescenas.",
+    "Coyote y Zelda aceptan escuchar, sin firmar o asumir un precio explícito.",
+    "No adjudicar poderes a la rama antes de ver su uso.",
+    "Palopalo es una piedra ordinaria con valor afectivo; no se confunde con la rama de Jivirix.",
+    "El contenido de la disputa previa no se reconstruye por las réplicas."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-09-30T21:44:18.980000+00:00",
+  "fin_utc": "2026-09-30T22:36:46.397000+00:00",
+  "fecha_local": "2026-09-30",
+  "intervalo": {
+    "anterior": 66,
+    "siguiente": 69,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 66,
+        "fecha": "2026-09-22",
+        "inicio_referencia_utc": "2026-09-22T18:20:03+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241"
+      },
+      {
+        "capitulo": 69,
+        "fecha": "2026-10-08",
+        "inicio_referencia_utc": "2026-10-08T18:17:02+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1554972185376989266",
+      "fecha_utc": "2026-09-30T21:44:18.980000+00:00",
+      "fecha_local": "2026-09-30",
+      "editado_utc": null,
+      "texto": "**Ilikar se alejó de Iktan. No lo hizo enfadado, sino cansado y lleno de dudas. Caminó hasta la orilla del río y clavó la lanza en el fango, dejando caer los hombros mientras miraba el agua turbia correr bajo la selva.**\n\n**Se acordó del muñón de metal de Gordak, de los gritos en la nieve y de la sangre derramada por una bestia a la que no le importaban el honor ni las vidas que destruía.**\n\n**Miró su propio reflejo en el agua. Se pasó la mano por la barba áspera y pensó en Naor. Se preguntó qué coño le diría si estuviese allí.**\n\n<@214405113677217793>",
+      "mensaje_sha256": "9df4b556a79134d383c17ee9b0ca9ad247930ac6d2511fa8410347e2ae9b5547",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1554972185376989266",
+      "texto_sha256": "c16ce8272950b0081a0c0da8eac261ef44495aebbb90b91766df71c962521874",
+      "adjuntos": []
+    },
+    {
+      "id": "1554973790285471757",
+      "fecha_utc": "2026-09-30T21:50:41.620000+00:00",
+      "fecha_local": "2026-09-30",
+      "editado_utc": null,
+      "texto": "Tryel: **Mientras miras tu reflejo en el agua, ves como aparece otro a tu lado** ¿De verdad crees eso de mi?",
+      "mensaje_sha256": "e9c70e1ca4030115689d6d1b5daf159792d63c20b47b8a9904cdbe4a9d929211",
+      "tipo_discord": 19,
+      "referencia": "1554972185376989266",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1554973790285471757",
+      "texto_sha256": "fcbded7f84b31ef999b3dc838f047043604bae006ce1359c56236bb0234b29cd",
+      "adjuntos": []
+    },
+    {
+      "id": "1554976108485804184",
+      "fecha_utc": "2026-09-30T21:59:54.322000+00:00",
+      "fecha_local": "2026-09-30",
+      "editado_utc": null,
+      "texto": "**Ilikar permaneció callado un momento.**\n\nIlikar: Es dificil luchar por alguien con tantas dudas... Me gustaría confiar, pero no puedo.",
+      "mensaje_sha256": "ef2aebf2f2de69ac5cd2033d72dba8aa2cedc2d4a188c6ec3943471c76a6c79d",
+      "tipo_discord": 19,
+      "referencia": "1554973790285471757",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1554976108485804184",
+      "texto_sha256": "5053f42b07692b14de1f7e25cdf912f205cbbd8b6eb58fd7b29f1a5ac9013f42",
+      "adjuntos": []
+    },
+    {
+      "id": "1554978785709916273",
+      "fecha_utc": "2026-09-30T22:10:32.622000+00:00",
+      "fecha_local": "2026-10-01",
+      "editado_utc": null,
+      "texto": "Tryel: Creía que no luchabas por nosotros... Creía que luchabais por la gente de esta ciudad y por liberarlos de ese dragon **Ves en su reflejo a la elfa algo seria, muy raro en ella**",
+      "mensaje_sha256": "3f6e21a12e20814a447b27cef0a9c6a4f07f111ce72d8d1ab231c666177339f4",
+      "tipo_discord": 19,
+      "referencia": "1554976108485804184",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1554978785709916273",
+      "texto_sha256": "380fa3f1834c2d5eb493054d940df4dee7a6f75ab5aea6bef16deaefbe121757",
+      "adjuntos": []
+    },
+    {
+      "id": "1554980309961801809",
+      "fecha_utc": "2026-09-30T22:16:36.032000+00:00",
+      "fecha_local": "2026-10-01",
+      "editado_utc": "2026-09-30T22:17:53.512000+00:00",
+      "texto": "Ilikar: Lucho por aquellos que se dejan ayudar... ¿Por que os cuesta tanto decirnos la verdad?\n\n**El gigante siguió hablando en un tono solemne.**",
+      "mensaje_sha256": "a42f82ccfe57507e376cccf11540bd9e085a949b7e413f6c5d7ef9d549775468",
+      "tipo_discord": 19,
+      "referencia": "1554978785709916273",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1554980309961801809",
+      "texto_sha256": "efc156a9dc1624f998d194c6fa79da317adca1c2a27d6b57f5f6bf83a737a6bb",
+      "adjuntos": []
+    },
+    {
+      "id": "1554983568629825631",
+      "fecha_utc": "2026-09-30T22:29:32.959000+00:00",
+      "fecha_local": "2026-10-01",
+      "editado_utc": null,
+      "texto": "Tryel: No es fácil hablar de como lo perdiste todo sin poder hacer nada **Su expresión sigue igual, pero parece que te mira a los ojos a través de vuestros reflejos** Creia que los amigos se ayudaban cuando lo necesitaban y pensaba que esto significaba que éramos amigos cuando me lo diste... **Deja el palópalo a tu lado. Cuando se levanta ves en el reflejo como le cae una lágrima por la mejilla y se gira para empezar a andar. A los dos pasos se detiene** ¿Sabes? No soy tonta... Se que es un a pierda normal y corriente... Pero era la pierda que me había dado un... amigo...  **La elfa sigue caminando para marcharse**",
+      "mensaje_sha256": "a2432c8a084a9e36e950adef11a9c9d6491218717c04c8d6e40ece9ad5578ff3",
+      "tipo_discord": 19,
+      "referencia": "1554980309961801809",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1554983568629825631",
+      "texto_sha256": "7ed1eae75942b40518d33d3f83bab1479a39d07cd308b688f898047753184858",
+      "adjuntos": []
+    },
+    {
+      "id": "1554985386600824893",
+      "fecha_utc": "2026-09-30T22:36:46.397000+00:00",
+      "fecha_local": "2026-10-01",
+      "editado_utc": "2026-09-30T22:37:14.682000+00:00",
+      "texto": "**El Goliath se quedó inmóvil, sentado en la orilla, con la mirada clavada en la superficie tranquila del río que reflejaba la figura de la elfa alejándose. No dijo nada. No hubo un gruñido de desdén, ni una de sus ruidosas carcajadas. El suave murmullo del agua llenó el silencio que ella había dejado atrás.**\n\n**Bajó la vista lentamente hacia el palópalo que descansaba sobre la tierra húmeda, a su lado. La piedra ordinaria parecía pesar toneladas. Ilikar alargó sus dedos con cuidado, recogiéndola y rozando su superficie con el pulgar. Su rostro, no mostraba rabia, sino el peso de una duda que hasta entonces no creía tener.**\n\n**Mientras los pasos de Tryel se perdían entre la maleza de la orilla, Ilikar apretó la piedra dentro de su gigantesco puño. Cerró sus ojos, escuchando únicamente la corriente del río, dejando que la duda y el peso de esas palabras flotaran en el aire.**\n\n🔴 FIN DE LA ESCENA 🔴",
+      "mensaje_sha256": "51b96ebc205ba8981d8e2b3aca9d45a412c11521817929bfaf4858ab640e160c",
+      "tipo_discord": 19,
+      "referencia": "1554983568629825631",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1554985386600824893",
+      "texto_sha256": "67981236a07da0a2fd6586d98e80c3d6c7d0132bb1635bb9bb5939c12750d680",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "id": "x-1466700090918965396",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1466700090918965396",
+  "hilo_id": "1465411590789795962",
+  "hilo_nombre": "Shiaru - El ron de Bonny",
+  "titulo": "Nox acompaña a Ione en la luna llena",
+  "resumen": "La vigilancia desde el tejado termina en un regreso urgente y disimulado al Zampaolas.",
+  "relato": "Tras alojar a los visitantes, Nox pide a los trillizos asegurar el camarote y las puertas. Sube al tejado de la taberna para vigilar a Ione y comparte ron y humo con Pinky. La capitana sigue bebiendo y peleando entre los clientes. Cuando empieza a aullar, Nox trata de acercarse, pero rompe las tablas podridas y cae con una entrada accidentada que intenta convertir en espectáculo.\n\nIone ve la luna llena y cambia la ebriedad por miedo. Fingen un acercamiento íntimo mientras él le susurra que ha preparado el camarote. Ella acepta y lo llama su segundo al mando. Salen hacia el barco, mientras Nox intenta evitar que siga quitándose ropa por lo que pueda suceder. La fuente muestra su cooperación y el temor de ella, pero no una escena sexual ni una transformación completa.",
+  "participantes": [
+    "Nox",
+    "Ione",
+    "Pinky"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1466872146490949732",
+      "afirmacion": "Ione reconoce con miedo la noche de luna llena.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1466874849191268667",
+      "afirmacion": "Nox propone volver al camarote mientras disimulan ante los demás.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1466883318048886844",
+      "afirmacion": "Ione agradece el apoyo de su segundo al mando.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Bandera y retrato de Zippo vistos completos; no hacer del emblema un cadáver real ni del gorro de enfermero un cargo.",
+    "Las garras y la luna permiten enlazar la condición de Ione, pero la transformación completa no se muestra directamente aquí.",
+    "Las imágenes de hijos muertos son una pesadilla de Citlali, no nuevas muertes presentes.",
+    "Los nombres y hechos balbuceados por Nox durante el sueño no acreditan todavía un naufragio revisado.",
+    "Se conserva separado el vínculo materno posterior de Citlali con Nox de este primer trato hospitalario."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-01-30T07:42:31.645000+00:00",
+  "fin_utc": "2026-01-31T11:24:13.432000+00:00",
+  "fecha_local": "2026-01-30",
+  "intervalo": {
+    "anterior": 1,
+    "siguiente": 2,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1466153128880771253",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1467580544283054092",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 1,
+        "fecha": "2026-01-28",
+        "inicio_referencia_utc": "2026-01-28T19:28:45+00:00",
+        "fin_estimado_utc": "2026-01-28T21:58:17+00:00",
+        "duracion_video_segundos": 8972,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1466153128880771253"
+      },
+      {
+        "capitulo": 2,
+        "fecha": "2026-02-01",
+        "inicio_referencia_utc": "2026-02-01T18:00:53+00:00",
+        "fin_estimado_utc": "2026-02-01T20:49:58+00:00",
+        "duracion_video_segundos": 10145,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1467580544283054092"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1466700090918965396",
+      "fecha_utc": "2026-01-30T07:42:31.645000+00:00",
+      "fecha_local": "2026-01-30",
+      "editado_utc": null,
+      "texto": "Nox : ** al llegar al Zampaolas y enseñarles los aposentos a los dos nativos de la isla , Nox mira al cielo y junto a la luna llena y las olas impactando en en el casco del navío, se acerca al palo mayor y agarra el cabo para izar la bandera que le representa ** \n\nEs la hora de salvar unas almas inocente Jim \n\nTrillizos !! **les dice a unos miembros de su tripulación ** \nPreparad el camarote y asegurar las puertas de nuestros invitados \n\nEsta noche Ione vendrá de mal humor ... \n\n**saca una botella de ron le pega un trago y coge otro cabo para balancearse hasta el tejado de la taberna de Booney ** \n<@&1439948653996409004>",
+      "mensaje_sha256": "bec3577f20e66e81780490b53f94638f820ad9d73ff9cd18c37cd705c9b9d5ff",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1466700090918965396",
+      "texto_sha256": "462d422025d7d95fec9529e99da1d301cd44a31ee2479329b7d74800fb2a5fd8",
+      "adjuntos": [
+        {
+          "id": "1466700090642268282",
+          "nombre": "file_00000000f9fc71f48f08fa536ea40103.png",
+          "tipo": "image/png",
+          "archivo": "adjuntos/1466700090642268282.png",
+          "url": "rol_escrito/adjuntos/1466700090642268282.png",
+          "bytes": 2508196,
+          "sha256": "a8908a83b3c4d53c39da1e06c0c65a584b3b2a4369376311c5796799e938d7ae"
+        }
+      ]
+    },
+    {
+      "id": "1466703016282554400",
+      "fecha_utc": "2026-01-30T07:54:09.106000+00:00",
+      "fecha_local": "2026-01-30",
+      "editado_utc": null,
+      "texto": "**Cuando llegas al tejado de la taberna, notas las maderas húmedas, resbaladizas y algunas de ellas se rompen cuando pones tu bota encima. Parece que la taberna y bueno, todo el lugar necesita una buena reparación...**\nPinky: ¿Me das un trago? **Cuando te das cuenta, ves a la vieja sentada en el saliente de la chimenea fumando un largo y gordo... bueno, ya sabéis lo que fuma la vieja...**",
+      "mensaje_sha256": "d70677c5c5fa647e34cb20cd6a57a48cc86dd5b9244e8c9554fa0bd2ddf9201a",
+      "tipo_discord": 19,
+      "referencia": "1466700090918965396",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1466703016282554400",
+      "texto_sha256": "4b96cbee48d0ad4741d838baecc505d98f051706bfa389941487b13443d66493",
+      "adjuntos": []
+    },
+    {
+      "id": "1466706617348132960",
+      "fecha_utc": "2026-01-30T08:08:27.667000+00:00",
+      "fecha_local": "2026-01-30",
+      "editado_utc": null,
+      "texto": "Nox: **al llegar al tejado nota ese crujir de madera podrida y se queda quieto en sigilo mirando al interior de esta en busca de Ione\n\nEscucha esa voz que le pide un trago y ensimismado le ofrece la botella sin mirar **\n\nDonde estas capitana ... \n*un momento* \n**se gira hacia la anciana y esta apunto de pegar un grito pero se tapa la boca **\n\nShhhhh **se dice asi mismo ** \nLady Pinky ... \nBonita noche no cree \nUnas caladas ? \n**extiende la mano para intercambiar ese ron por una caladiñas aliñadas**",
+      "mensaje_sha256": "6e1fd028691e18b98ab91ecb4995a513a564ab05d00f00296a918ce8af0497e1",
+      "tipo_discord": 19,
+      "referencia": "1466703016282554400",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1466706617348132960",
+      "texto_sha256": "de0e627add4e54c01f0a8af365633857809b438069d4fb4668d10e024f8323ca",
+      "adjuntos": []
+    },
+    {
+      "id": "1466708067264757835",
+      "fecha_utc": "2026-01-30T08:14:13.354000+00:00",
+      "fecha_local": "2026-01-30",
+      "editado_utc": "2026-01-30T08:43:19.019000+00:00",
+      "texto": "Pinky: **La anciana te mira unos segundo.... varios segundo.... muchos segundos... Parece que se le haya quedado con el cerebro apagado. Pero entonces vuelve en si** Eh? Oh, si si, trae trae **Ves como sus manitas enanas de vieja agarran la botella y te pasan el cigarro especial** Si buscas la de las rastras la he visto antes peleándose en la taberna\n<@753394009153732689>",
+      "mensaje_sha256": "cc391e670ce443e530273becac36a003741a96583696a68f9faa68bc0aa87956",
+      "tipo_discord": 19,
+      "referencia": "1466706617348132960",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1466708067264757835",
+      "texto_sha256": "99b44e99bdba4c7e6fb0f81e65b7a3f3a9eabf466473001d1f452bf7cb159d69",
+      "adjuntos": []
+    },
+    {
+      "id": "1466710009785225392",
+      "fecha_utc": "2026-01-30T08:21:56.487000+00:00",
+      "fecha_local": "2026-01-30",
+      "editado_utc": "2026-01-30T08:25:37.626000+00:00",
+      "texto": "Nox:Buena señal. Entonces sigue siendo ella . \n**le da un caladita ,tose y se lo vuelve a pasar **\nUfff bien cargado señora .. \n**vuelve a mirar por el agujero pero ve que el mono esta distraído con un pirata que no paga . La mirada de nox pasa a las botellas de ron del fondo y parece ue por una cosa o por otra se distrae facil de su tarea ** \n\nNunca me ha caído bien ese mono **le dice a Pinky**",
+      "mensaje_sha256": "a2123f150934408dc6b8cb3df8c704b33bae8de8cf710a9a45014a6b03800f94",
+      "tipo_discord": 19,
+      "referencia": "1466708067264757835",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1466710009785225392",
+      "texto_sha256": "c7f96c12bef63a2bd7df3a8153091ec19bac161acd7550bcf85ad3448c64a5d8",
+      "adjuntos": []
+    },
+    {
+      "id": "1466711754762489868",
+      "fecha_utc": "2026-01-30T08:28:52.522000+00:00",
+      "fecha_local": "2026-01-30",
+      "editado_utc": "2026-01-30T08:32:02.496000+00:00",
+      "texto": "Pinky: Que mono? **La vieja se asoma curiosa al agujero para mirar lo que ve Nox** ¿Eso es un mono? Pensaba que era un señor extranjero muy bajito con mucho pelo... Me dan asco los monos, tienen piojos y huelen a sobaco",
+      "mensaje_sha256": "72534fb6c680f8cd6647b1bf8e100311158562a603f5dc8cf15623c29e6eddfc",
+      "tipo_discord": 19,
+      "referencia": "1466710009785225392",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1466711754762489868",
+      "texto_sha256": "798ff31502d8429a28cc24b1c15a6e09cc6e418d0ae621d2c5b1f3173f93f74c",
+      "adjuntos": []
+    },
+    {
+      "id": "1466789890661552159",
+      "fecha_utc": "2026-01-30T13:39:21.572000+00:00",
+      "fecha_local": "2026-01-30",
+      "editado_utc": null,
+      "texto": "Ione: ¡VAMOS VAMOS! ¡A QUIEN DE AQUI LE QUEDA SUFICIENTE VIRILIDAD PARA RETARME! **Se escucha a la pimrata reir y golpear un par de cabezas con un golpe seco** *Bonk*",
+      "mensaje_sha256": "7bcd82fad7f761b76e3e3429ff392968208493da65428e9c0a522e9b0fee191a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1466789890661552159",
+      "texto_sha256": "14b55783df3c57e5c8a9fa6402eb8bc9d6b11bdf2dab90ff4fd4d2529d9103c7",
+      "adjuntos": []
+    },
+    {
+      "id": "1466825618971820295",
+      "fecha_utc": "2026-01-30T16:01:19.865000+00:00",
+      "fecha_local": "2026-01-30",
+      "editado_utc": null,
+      "texto": "Nox; yo pensé lo mismo ,el olor a sobaco hace años que ya no logro distinguirlo \n**se huele un poco el \nY escucha a Ione **\nBueno parece que de momento todo bien . \n**Mira al cielo y ve que una nube tapa la luna llena **",
+      "mensaje_sha256": "735c7411c5f1fbf513c37093c0f3d06e90a0e9fee2179e051857eb1788d49bfc",
+      "tipo_discord": 19,
+      "referencia": "1466711754762489868",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1466825618971820295",
+      "texto_sha256": "6d3b8caae13c0adddde79e6bf1e74a897b525a50bd0601cc9c9ec81cfdd19f26",
+      "adjuntos": []
+    },
+    {
+      "id": "1466832171724443851",
+      "fecha_utc": "2026-01-30T16:27:22.163000+00:00",
+      "fecha_local": "2026-01-30",
+      "editado_utc": null,
+      "texto": "Ione: ¡Vamos marineros de agua dulce quien! Jajajajajajaja aaaauuuuhhhh",
+      "mensaje_sha256": "a07079eecd3e66d30e604143bc65e626f371f3ebdef0df08c952082cfa2b4cf1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1466832171724443851",
+      "texto_sha256": "1dc7ac1328cee5894df31f72426e6a39d351479b1799f693848f8a89e5adf416",
+      "adjuntos": []
+    },
+    {
+      "id": "1466851234106445827",
+      "fecha_utc": "2026-01-30T17:43:06.989000+00:00",
+      "fecha_local": "2026-01-30",
+      "editado_utc": null,
+      "texto": "Nox : auuuuh ? Como que auhh? \nLady pinky si me disculpa \n**da unos pasos hacia atras oara hacerle una reverencia muy pomposa a Pinky \nEn ese momento\nLas tablas del techo se rompen y Nox cae desde el tejado **",
+      "mensaje_sha256": "3ab805bee091327e0cf678c0b3d89adbab3ad7492002112d5e2647910cc256cc",
+      "tipo_discord": 19,
+      "referencia": "1466832171724443851",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1466851234106445827",
+      "texto_sha256": "76806030ae777e1e484cf4ac55148e3f2ecddf03262c46d37b9f6037e4120243",
+      "adjuntos": []
+    },
+    {
+      "id": "1466857763857629289",
+      "fecha_utc": "2026-01-30T18:09:03.803000+00:00",
+      "fecha_local": "2026-01-30",
+      "editado_utc": null,
+      "texto": "Pinky: **La abuela ve como caes y escucha un \"Fiuuuuu\" \"PUFF\". Se asoma por el agujero por donde has caído y observa mientras le da una calada a su cigarrillo**",
+      "mensaje_sha256": "0f6545c4020818359515266affd7ae3facf6613487606dcc2706544a1b568e48",
+      "tipo_discord": 19,
+      "referencia": "1466851234106445827",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1466857763857629289",
+      "texto_sha256": "81c1fa63c5b2a72136651341b646eb6f251730ac5d6ae9ca65a0ff49dd67f708",
+      "adjuntos": []
+    },
+    {
+      "id": "1466857771398987786",
+      "fecha_utc": "2026-01-30T18:09:05.601000+00:00",
+      "fecha_local": "2026-01-30",
+      "editado_utc": "2026-01-30T18:12:46.839000+00:00",
+      "texto": "Ione: **Abre los ojos al ver que algo cae del techo** No sabia que habia gabiotas taaaan gordas **Da un sorbo y le lanza la jarra a otro entre risas**",
+      "mensaje_sha256": "d8c4a539ed5d917ff68213c279921de16644f062e1176862b8515c9a648d20b8",
+      "tipo_discord": 19,
+      "referencia": "1466851234106445827",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1466857771398987786",
+      "texto_sha256": "e709c4b525142629ba363d062824c3ec79f7883313ff6e16fab7b142f02fa2d2",
+      "adjuntos": []
+    },
+    {
+      "id": "1466861157628248135",
+      "fecha_utc": "2026-01-30T18:22:32.941000+00:00",
+      "fecha_local": "2026-01-30",
+      "editado_utc": "2026-01-30T18:23:52.737000+00:00",
+      "texto": "Nox :**cae encima de un charco de algo rojo y se resbala hacia una silla ,cae de culo en el respaldo de la silla que se inclina hacia una mesa en la cual se pincha con una daga en el culo y de un salto vuelve a subir al respaldo de la silla haciendo equilibrio hasta que cae deslizándose de rodillas y saludando con el sombrero **\n Y asi damos y caballeras , tubérculos y señores con ubres,  mono .. **mira a Boney** bonita.. **le lanza un beso  <@214405113677217793> )**\n\nEs como se entra a una taberna como los 7 mares mandan \n**mira a la del piano**\nLa última tendencia en Puerto de la Espada lo sabia  señorita ...",
+      "mensaje_sha256": "882bd7052ba6b2910a7d2251f09aa5c8aba2c9ddf4287765e9ed996ed3825bd7",
+      "tipo_discord": 19,
+      "referencia": "1466857771398987786",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1466861157628248135",
+      "texto_sha256": "26b25b8f842c61644801d1382c2003e56192e7df1954a6e3e4081959ab25de8b",
+      "adjuntos": []
+    },
+    {
+      "id": "1466863809749717198",
+      "fecha_utc": "2026-01-30T18:33:05.256000+00:00",
+      "fecha_local": "2026-01-30",
+      "editado_utc": null,
+      "texto": "Ione: **Rie**Eso dijo la ultima vez a la que la invito al barco, q quiso liarse xon ella en el palo mayor y cuando estaba en el tema se callo de el. ¿Como se llamaba esa muchacha? ¿Carla? ¿Pili? Ya no se cuantos de tus ligues has traido y cuantos hemos compartido **Sorbito de cerveza y ofreciendote la mano para ayudarte a levantarte... Una mierda te va a dejar lucirte**",
+      "mensaje_sha256": "9919a225d83d5689bf563e1c6d9a134e23b51fa6ccacfac5a70117174c45e096",
+      "tipo_discord": 19,
+      "referencia": "1466861157628248135",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1466863809749717198",
+      "texto_sha256": "bcb5f75b894cd911c61851f7be6df455d63a71fbf673defbc541f68d84970913",
+      "adjuntos": []
+    },
+    {
+      "id": "1466864842026647693",
+      "fecha_utc": "2026-01-30T18:37:11.370000+00:00",
+      "fecha_local": "2026-01-30",
+      "editado_utc": null,
+      "texto": "Nox: sii.. una tal Pilin que acabo siendo Martín\n**mira al resto**\nUna calamidad de noche",
+      "mensaje_sha256": "c837602ff82e10629e112eb4d2406986a1b07d88bfdaac07419f2f0bdc7ba8be",
+      "tipo_discord": 19,
+      "referencia": "1466863809749717198",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1466864842026647693",
+      "texto_sha256": "b8807209db81e0c43a694784bc4d482f8070f541342c04e16b360cfc56f1140f",
+      "adjuntos": []
+    },
+    {
+      "id": "1466872146490949732",
+      "fecha_utc": "2026-01-30T19:06:12.890000+00:00",
+      "fecha_local": "2026-01-30",
+      "editado_utc": null,
+      "texto": "Ione: **Te levanta con tal fuerza que te marca la mano. Ves que al principio sonrie por la ebriedad... Pero cuando mira tus ojos y miras al resto nota algo raro... Despues mira por el hueco por el que has caido y ve el cielo oscuro... Parece que la borrachera se la pasa de inmediato y sonrie tensa... Sabes que siente panico** ¿Y si me haces lo mismo esta noche que hiciste a Martin? **Pega su cuerpo al tuyo como si intentase ligarte... Pero notas el miedo en su mirada y sus manos temblando**",
+      "mensaje_sha256": "774064fcae2ead56e7d3811e5c0cd6a0778d2dbdfd806f931c2e85f1dfd92a04",
+      "tipo_discord": 19,
+      "referencia": "1466864842026647693",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1466872146490949732",
+      "texto_sha256": "7f7bdbee412069b3098aff52d2339d8b288b444e59b0ddbdde0137a66f979c69",
+      "adjuntos": []
+    },
+    {
+      "id": "1466874849191268667",
+      "fecha_utc": "2026-01-30T19:16:57.264000+00:00",
+      "fecha_local": "2026-01-30",
+      "editado_utc": "2026-01-30T19:17:21.933000+00:00",
+      "texto": "Nox: Acabemos la fiesta en el camarote  Ione **se acerca mas a ti y acerca los labios a los tuyos sin llegar a tocar ,un segundo después acerca su boca a tu oreja y te susurra ** luna llena capitana … no querrás que mañana te sepa la boca a pata mohosa ...? Te he preparado un biberón de ron en tu camarote , venga vamos",
+      "mensaje_sha256": "9e8a8fa61f17169f783ca3ff3a313c259da639d11f29d6bb5408f5b0fc0683aa",
+      "tipo_discord": 19,
+      "referencia": "1466872146490949732",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1466874849191268667",
+      "texto_sha256": "c20f4eee3a1616e0a15e533c640854e59820828352133f562d77d1a10594efbb",
+      "adjuntos": []
+    },
+    {
+      "id": "1466883318048886844",
+      "fecha_utc": "2026-01-30T19:50:36.397000+00:00",
+      "fecha_local": "2026-01-30",
+      "editado_utc": null,
+      "texto": "Ione: **Ves que te asiente levemente... Sabes que te lo agradece** ¿Que haria sin mi segundo al mando? **Va a la puerta para dirigirse al barco... Pero ves que se va desabrochando algunos botones**",
+      "mensaje_sha256": "cc2ba41f1fec3b790a6425a49d6160a658b1785dc081e31009f5a8a7e79c7ef9",
+      "tipo_discord": 19,
+      "referencia": "1466874849191268667",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1466883318048886844",
+      "texto_sha256": "f0bbdc96505bea02cb3911e3770181a1910074c9b60fa43424565e8a2dbbbb45",
+      "adjuntos": []
+    },
+    {
+      "id": "1466888711143690330",
+      "fecha_utc": "2026-01-30T20:12:02.211000+00:00",
+      "fecha_local": "2026-01-30",
+      "editado_utc": null,
+      "texto": "Nox: Buenas Noches gentes de la taberna sigan con sus quehaceres . **gira a Ione y se dirigen al barco  y le vuelve a susurrar** Ione...no te quites ropa antes de llegar por lo que mas quieras ...** se tapa  los ojos con una mano pero mira como se va desabrochando .. (y tanto que mira )**",
+      "mensaje_sha256": "4d5ebd0b0dcbbcaa398b03c78a83b8764af2c571ee2d59f2a180e7619c16ba5b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1466888711143690330",
+      "texto_sha256": "9f32b4fdba1abe2d9de63dfcc39577327c9e32ef67a8c37080dbdaca9154d3a3",
+      "adjuntos": []
+    },
+    {
+      "id": "1466893849573200013",
+      "fecha_utc": "2026-01-30T20:32:27.308000+00:00",
+      "fecha_local": "2026-01-30",
+      "editado_utc": null,
+      "texto": "Ione: no que luego se que pasa y no me queda ropa **Ya se ha quitado la parte de arriba y las botas, le queda los pantalones. Ves sus cicatrices de peleas y una quemadura con un dibujo que ya has visto mas de una vez... Y si guarrindonguis... La morenaza esta de buen ver**",
+      "mensaje_sha256": "1937514656a3082762e54949ca26053b159518d4bb49d3257dc82df8bdcb9b47",
+      "tipo_discord": 19,
+      "referencia": "1466888711143690330",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1466893849573200013",
+      "texto_sha256": "71e78171a1200d5501fa7486aeceaedfc4f1106d7d8aaba29a7db998eaa5d2c2",
+      "adjuntos": []
+    },
+    {
+      "id": "1467118270522855590",
+      "fecha_utc": "2026-01-31T11:24:13.432000+00:00",
+      "fecha_local": "2026-01-31",
+      "editado_utc": null,
+      "texto": "Pinky: **La vieja ve todo ese espectáculo desde el tejado de la taberna. Levanta los hombros en gesto de indiferencia y se vuelve a sentar en la chimenea para seguir fumando mientras observa el cielo estrellado ensimismada en sus pensamientos importantes** *Si naces sordo, ¿en qué idioma piensas?*",
+      "mensaje_sha256": "7f8885fe6f089996244abfd4e7be530ca66c8f6dfd031ba2b0a47cb4d4029e8d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1467118270522855590",
+      "texto_sha256": "20636809d5970d670a9ef565aa69ee44a98d6c2682e9cd1b2bfb5355aa7a1bd5",
+      "adjuntos": []
+    }
+  ]
+}

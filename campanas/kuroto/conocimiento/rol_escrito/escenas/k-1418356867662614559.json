@@ -1,0 +1,266 @@
+{
+  "id": "k-1418356867662614559",
+  "campana": "kuroto",
+  "unidad_revision": "k-1418356867662614559",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Descansar sin la sombra",
+  "resumen": "Chani y Kurobane retoman su cercanía tras el regreso.",
+  "relato": "Kurobane y Chanecuxtli se abrazan, expresando que quieren permanecer juntos. Ella se tranquiliza al percibir el cambio del ninja, y él le besa la frente antes de recordarle que deben guardar silencio para dejar dormir a los demás. La lleva a la habitación y le permite elegir entre un nido y la almohada; Chani considera esta última su sitio habitual y se acomoda allí. Mientras se tumba a su lado, Kurobane piensa que se ha librado del odio que llevaba dentro y que una mujer ha cumplido su promesa, sin identificarla en ese pensamiento. Chani finge dormir para acercarse a su mejilla y acaba quedándose dormida. Él la coloca sobre el pecho y la cubre con una tela. La escena cierra el regreso de la unidad anterior sin explicar el ritual o el destino de Osurai.",
+  "participantes": [
+    "Kurobane",
+    "Chanecuxtli"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1418358921747365888",
+      "afirmacion": "Kurobane abraza a Chani y expresa su aprecio.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1418364322220081313",
+      "afirmacion": "El ninja deja a Chani junto a la almohada y se tumba.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1418365554049159281",
+      "afirmacion": "Kurobane piensa que ha perdido el odio interior y que una mujer cumplió su promesa.",
+      "tipo": "pensamiento"
+    },
+    {
+      "mensaje_id": "1418367385395658782",
+      "afirmacion": "El ninja coloca a Chani sobre el pecho y la cubre.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La mujer mencionada en el pensamiento del ninja no se identifica aquí; no asignar por conjetura la autoría de su liberación.",
+    "La grabación interrumpida no permite reconstruir los pasos que faltan ni determinar una traición concreta.",
+    "Las imágenes privadas accidentales y las bromas fuera de personaje no se convierten en detalle íntimo del relato ni en datos biográficos de Jhin.",
+    "No se identifica R3 con R2 ni con Ralph; mantener los nombres que da el original.",
+    "El rescate queda planteado, sin resultado mostrado."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-09-18T22:03:49.047000+00:00",
+  "fin_utc": "2025-09-18T23:36:04.329000+00:00",
+  "fecha_local": "2025-09-19",
+  "intervalo": {
+    "anterior": 158,
+    "siguiente": 159,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1418299599050899618",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1420832479270408274",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 158,
+        "fecha": "2025-09-18",
+        "inicio_referencia_utc": "2025-09-18T18:15:55+00:00",
+        "fin_estimado_utc": "2025-09-18T20:58:06+00:00",
+        "duracion_video_segundos": 9731,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1418299599050899618"
+      },
+      {
+        "capitulo": 159,
+        "fecha": "2025-09-25",
+        "inicio_referencia_utc": "2025-09-25T18:00:44+00:00",
+        "fin_estimado_utc": "2025-09-25T20:59:58+00:00",
+        "duracion_video_segundos": 10754,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1420832479270408274"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1418356867662614559",
+      "fecha_utc": "2025-09-18T22:03:49.047000+00:00",
+      "fecha_local": "2025-09-19",
+      "editado_utc": "2025-09-18T22:08:04.392000+00:00",
+      "texto": "Kurobane:\n\n**Acariaba la cabecita lentamente con ternura y cariño, estando tranquilo y relajado**\n\nMe quedaré con Chani, para siempre si tu quieres.",
+      "mensaje_sha256": "fe9cc8d61856a2c9a27188adf1487eb2d922e4ed71d59e54a8b70ddc9755b781",
+      "tipo_discord": 19,
+      "referencia": "1418355591637897277",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418356867662614559",
+      "texto_sha256": "f1ea2303eb7c4717b6705ab3b371800e31223fefa3db74a7b41acd7759e3c66b",
+      "adjuntos": []
+    },
+    {
+      "id": "1418358322276597921",
+      "fecha_utc": "2025-09-18T22:09:35.854000+00:00",
+      "fecha_local": "2025-09-19",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n\nY yo me quedaré con Tezca porque lo quiero mucho pío \n\n**Me sentía mucho más tranquila al verlo de esta manera, había algo que había cambiado y me gustaba**",
+      "mensaje_sha256": "5e4915cc128c24abe0f0242b5750c2e010841afedabf662b9342aa7e901bb05f",
+      "tipo_discord": 19,
+      "referencia": "1418356867662614559",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418358322276597921",
+      "texto_sha256": "121678ef7e33d8d8139e80182cd0252d14761a9678553aeda95e03047ee4f45f",
+      "adjuntos": []
+    },
+    {
+      "id": "1418358921747365888",
+      "fecha_utc": "2025-09-18T22:11:58.779000+00:00",
+      "fecha_local": "2025-09-19",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\n**Sientes como te rodea un poco los brazos y los dos se funden en un tierno abrazo, después de un tiempo, te alza hasta tener nuestras frentes juntas**\n\nYo también te aprecio, Chani.\n\n**Te da un pequeño beso en la frente**",
+      "mensaje_sha256": "65bdfb7fc422f082efaa5954d470ab98f943ff73aad9f6f7dc2c3f20c518f6dc",
+      "tipo_discord": 19,
+      "referencia": "1418358322276597921",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418358921747365888",
+      "texto_sha256": "5452525fea0c838644eed484c853d28571f5687db7d248daefa5582be60ac1d3",
+      "adjuntos": []
+    },
+    {
+      "id": "1418360778930524300",
+      "fecha_utc": "2025-09-18T22:19:21.566000+00:00",
+      "fecha_local": "2025-09-19",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n\n**Mis hojitas se agitaron demasiado por ese gesto, soltando un gran cacareo mientras aleteaba feliz**\n\nCOCOOOOOOOOOOOOO!!",
+      "mensaje_sha256": "4294013b3eb3355f218377d62cce9780edb1f47d2d578593b14125ac2ac6825d",
+      "tipo_discord": 19,
+      "referencia": "1418358921747365888",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418360778930524300",
+      "texto_sha256": "905e5b63275c74b6f7a989cc60302f8866222ab48e501367641e639b24d08782",
+      "adjuntos": []
+    },
+    {
+      "id": "1418361532970172477",
+      "fecha_utc": "2025-09-18T22:22:21.343000+00:00",
+      "fecha_local": "2025-09-19",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nTranquila, Chani. Es de noche y la gente tiene que descansar.\n\n**La sienta en su regazo y la empieza a acariciar**",
+      "mensaje_sha256": "e4c6c6ea62e3eaf888c745172d73e173d0c2c196ed2a88d26ff4a5e2f3cc1efb",
+      "tipo_discord": 19,
+      "referencia": "1418360778930524300",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418361532970172477",
+      "texto_sha256": "338e2833099d7d10c08fc17277717dbb584d270b809be6702b82b8e6d81ce4cb",
+      "adjuntos": []
+    },
+    {
+      "id": "1418362590140305540",
+      "fecha_utc": "2025-09-18T22:26:33.392000+00:00",
+      "fecha_local": "2025-09-19",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n\nEs verdad, ssshhh pío, silencio, pío \n\n**Me acomodo sobre su regazo haciéndome bolita**\n\nCocoooo... Pío~\n\n**Me cubrí con mis alitas la cara**\n\nHay que dormir, pío",
+      "mensaje_sha256": "e60a07fef4d2bbf245d9420a06aaf1e20063bd7098fc9d97041187147b580229",
+      "tipo_discord": 19,
+      "referencia": "1418361532970172477",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418362590140305540",
+      "texto_sha256": "f27e0bc32ed26ecb4825afbd0f8caccc2f1d17e2fc7d2ffe57d841ddf31484ae",
+      "adjuntos": []
+    },
+    {
+      "id": "1418363340438110381",
+      "fecha_utc": "2025-09-18T22:29:32.277000+00:00",
+      "fecha_local": "2025-09-19",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\n**Agarra en brazos a la bolita con patitas y se dirige torpemente hacia su habitación** \n\nQuieres que te haga un nido o prefieres quedarte en la almohada?",
+      "mensaje_sha256": "fc5a974a393327c096ec1fea4f7d91e412b6a72ce3adb5774938c263349bd4a9",
+      "tipo_discord": 19,
+      "referencia": "1418362590140305540",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418363340438110381",
+      "texto_sha256": "47c9b4930a97c7c5ce000eeab1e989afd736b8341c4ad86746fb38e6a7470309",
+      "adjuntos": []
+    },
+    {
+      "id": "1418364011543658547",
+      "fecha_utc": "2025-09-18T22:32:12.281000+00:00",
+      "fecha_local": "2025-09-19",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n\nLa almohada está bien, pío, ya es mi nido ahora, pío \n\n**Sonreí mientras bostezaba**",
+      "mensaje_sha256": "d1cb9d8b661c0a6180acf27622d1cc271789783a56e98c77fc78b5d5b46f2849",
+      "tipo_discord": 19,
+      "referencia": "1418363340438110381",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418364011543658547",
+      "texto_sha256": "622d3c6524c0f48787666e3febc9e4b60bbb0bdffd9b180008e552ab59ad1cbe",
+      "adjuntos": []
+    },
+    {
+      "id": "1418364322220081313",
+      "fecha_utc": "2025-09-18T22:33:26.352000+00:00",
+      "fecha_local": "2025-09-19",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\n**Coloca lentamente a Chani en su lado de la almohada y él se tumba a un lado mirando al techo**",
+      "mensaje_sha256": "34cd352af7ed170c6219a4d2225111e2a6496ad3fb3cb40904924598ae34e6c9",
+      "tipo_discord": 19,
+      "referencia": "1418364011543658547",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418364322220081313",
+      "texto_sha256": "397d775f9abf7c0a818dc5a2d75b616398c5aa6da987af4b7910e29c6f4718b9",
+      "adjuntos": []
+    },
+    {
+      "id": "1418364894180282519",
+      "fecha_utc": "2025-09-18T22:35:42.718000+00:00",
+      "fecha_local": "2025-09-19",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n\n**Me hago nuevamente bolita y bostezo por última vez, entrecerré los ojos pero no le quitaba la mirada de encima a Kurobane**",
+      "mensaje_sha256": "fd22f213ea6f3158a3546e568e7b4c76886fe6a46892c5ffe319023c2b732635",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418364894180282519",
+      "texto_sha256": "b48237a93e218c9b1cb7620f94e28a344d4bedc16571e3f758c69f67e65f535e",
+      "adjuntos": []
+    },
+    {
+      "id": "1418365554049159281",
+      "fecha_utc": "2025-09-18T22:38:20.043000+00:00",
+      "fecha_local": "2025-09-19",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\n**No se da cuenta de tu mirada está ensimismado pensado en que ya se ha quitado todo ese odio tóxico que tenía en su interior y que al final ella si cumplió su promesa**",
+      "mensaje_sha256": "ec2716346c0300604d23d95fa16c161d7bcd8769b64bec436f78e1c1714a8d7f",
+      "tipo_discord": 19,
+      "referencia": "1418364894180282519",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418365554049159281",
+      "texto_sha256": "c34b4cc96ec1ecd2a8e62b5ac7651f83c47988613517b578db8cb181ab5752ee",
+      "adjuntos": []
+    },
+    {
+      "id": "1418366330326880296",
+      "fecha_utc": "2025-09-18T22:41:25.122000+00:00",
+      "fecha_local": "2025-09-19",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n**Pretendiendo estar dormida, me acercaba poco a poco hasta casi sentir la mejilla de Kurobane**\n\n**Al lograrlo y sentir esa calidez, por fin me quedé dormida**",
+      "mensaje_sha256": "d5bac76f980eeaa17e373c2157440a82ae8f6fb7c85eb16888573259cc463879",
+      "tipo_discord": 19,
+      "referencia": "1418365554049159281",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418366330326880296",
+      "texto_sha256": "a5bad2e72f745a334b95e41fb8c90d077b4dfe373aa7557d92ff56e8da991efe",
+      "adjuntos": []
+    },
+    {
+      "id": "1418367385395658782",
+      "fecha_utc": "2025-09-18T22:45:36.670000+00:00",
+      "fecha_local": "2025-09-19",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\n**Agarra a Chani y la coloca encima de su pecho y la tapa con una pequeña tela cercana**",
+      "mensaje_sha256": "fdac2f30cd25898b44912464efa498bbd6325d8c8bf3ae346341f62a3514cd72",
+      "tipo_discord": 19,
+      "referencia": "1418366330326880296",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418367385395658782",
+      "texto_sha256": "a54da57f0cf85ad96121f456232a4ccf32c4b42457c3dda689817a9f38ca5e4b",
+      "adjuntos": []
+    },
+    {
+      "id": "1418380084317782137",
+      "fecha_utc": "2025-09-18T23:36:04.329000+00:00",
+      "fecha_local": "2025-09-19",
+      "editado_utc": null,
+      "texto": "🔴  Final de escena 🔴",
+      "mensaje_sha256": "9adc36d0fea658a26fb7d913762ecf66335f6beea8ada14c5497b9eceadac78b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418380084317782137",
+      "texto_sha256": "2d951a88aefa391a493c42f6b69315b97b488451d8ef0802371598f1f0254083",
+      "adjuntos": []
+    }
+  ]
+}

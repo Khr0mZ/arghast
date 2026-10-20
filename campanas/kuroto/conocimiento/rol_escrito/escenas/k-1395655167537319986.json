@@ -1,0 +1,93 @@
+{
+  "id": "k-1395655167537319986",
+  "campana": "kuroto",
+  "unidad_revision": "k-1395655167537319986",
+  "hilo_id": "1387915737502580886",
+  "hilo_nombre": "Sho, Palacio del Shogunato - Capital de Kuroto",
+  "titulo": "La visita de Yiccardaria",
+  "resumen": "Una emisaria de Lolth atraviesa un portal hasta la celda y exige a Danifae que cumpla su cometido.",
+  "relato": "Danifae sigue encadenada y amordazada en la cárcel del Shogunato cuando aparece una araña. Al ascender por el aire deja un hilo oscuro que abre una fisura en la realidad. De ella sale una masa de barro que adopta forma de drow y se presenta como Yiccardaria. La visitante retira la mordaza con un chasquido y pregunta por la demora: Lady Lolth está esperando. Danifae responde con rabia que sigue trabajando y amenaza a la sirvienta de la Reina Araña. Yiccardaria insiste en que deje de jugar con la gente de la isla y recuerda que Lolth puede impedirle actuar y no acepta errores. Recupera después su forma de barro y vuelve por la fisura, reiterando la advertencia. Danifae permanece en la celda; no se revela el cometido ni se representa una liberación de sus cadenas.",
+  "participantes": [
+    "Danifae",
+    "Yiccardaria"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1395655167537319986",
+      "afirmacion": "Yiccardaria entra por una fisura, retira la mordaza y exige que Danifae cumpla para Lolth antes de marcharse.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Lolth se menciona como autoridad de la emisaria, sin aparecer físicamente ni revelar su plan.",
+    "No se muestra reacción de guardias ni conocimiento de esta visita por Kalista o Jelbreg.",
+    "La forma de drow de Yiccardaria es una transformación de la masa de barro; no deducir identidad racial original."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-07-18T06:35:21.960000+00:00",
+  "fin_utc": "2025-07-18T06:36:11.892000+00:00",
+  "fecha_local": "2025-07-18",
+  "intervalo": {
+    "anterior": 139,
+    "siguiente": 140,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1395465783865512070",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1398002060905152542",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 139,
+        "fecha": "2025-07-17",
+        "inicio_referencia_utc": "2025-07-17T18:02:34+00:00",
+        "fin_estimado_utc": "2025-07-17T20:59:56+00:00",
+        "duracion_video_segundos": 10642,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1395465783865512070"
+      },
+      {
+        "capitulo": 140,
+        "fecha": "2025-07-24",
+        "inicio_referencia_utc": "2025-07-24T18:00:50+00:00",
+        "fin_estimado_utc": "2025-07-24T21:10:34+00:00",
+        "duracion_video_segundos": 11384,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1398002060905152542"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1395655167537319986",
+      "fecha_utc": "2025-07-18T06:35:21.960000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": "2025-07-18T06:44:02.704000+00:00",
+      "texto": "**CÁRCEL DEL SHOGUNATO**\n\n**Danifae permanecía atada y amordazada, arrodillada en su celda, cuando una pequeña araña apareció entre las juntas de la piedra y se posó frente a la drow. Esta abrió los ojos e intentó dibujar una sonrisa. La arañita comenzó a ascender verticalmente, pero no por una pared, sino flotando en el mismo aire. Mientras subía, dejó tras de sí un hilo de seda que comenzó a brillar con un tono morado oscuro, hasta ensancharse y abrir una especie de fisura en el espacio, rasgando la misma realidad.**\n\n**Del interior de ese portal emergió una criatura horrible y repugnante: una masa supurante de barro que borboteaba y se agitaba de forma irracional. Se posó frente a la drow, y aquella masa comenzó a moldearse hasta formar una figura humanoide. Era una drow. Una elfa oscura de belleza exagerada, con la piel tersa y curvas capaces de hacer que dos reinos se enfrentaran solo por rozarlas. Su larga cabellera blanca caía sobre sus hombros, cubriendo apenas lo necesario. Sonrió.**\n\nYiccardaria: Danifae... ¿Qué haces? Estás tardando demasiado... Lady Lolth espera.\n\n**Observó a la drow atada y amordazada, que intentó responder, pero no pudo a causa de sus ataduras. La criatura, aún con la forma de drow, chasqueó los dedos, y la mordaza cayó, liberando a la pícara.**\n\nDanifae: Estoy en ello **Dijo, mirándola con rabia.**\n\nYiccardaria: ¿Encerrada aquí? Deja de jugar con esta gente, ¿quieres? Tienes cosas importantes que hacer. Y sabes bien lo que pasará si fracasas... Lady Lolth no acepta errores.\n\nDanifae: Cuidado, sirvienta de la Reina Araña... Sabes de lo que soy capaz...\n\nYiccardaria: No si ella te lo impide. Cumple tu cometido, niña.\n\n**La criatura volvió a convertirse en una masa uniforme de barro, que borboteó al hablar. Se deslizó hacia la fisura en el aire y desapareció, no sin antes dejar una última advertencia:**\n**\"A Lady Lolth no le gusta que la hagan esperar.\"**\n\n<@&1219989260787253278>",
+      "mensaje_sha256": "f7010d0f8ca84b6ec26e469b2ee0cecedb46bf779a72a353847069481eda8e5c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395655167537319986",
+      "texto_sha256": "3b0a7da2f70044ef8ddfd3dd98cf55f67918552898bdefffddb8dba381d9f9ab",
+      "adjuntos": []
+    },
+    {
+      "id": "1395655376967307264",
+      "fecha_utc": "2025-07-18T06:36:11.892000+00:00",
+      "fecha_local": "2025-07-18",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "5501e7f728aef76ed408b36781da8f8c4f54425583916e294a07cd14a305b43a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395655376967307264",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

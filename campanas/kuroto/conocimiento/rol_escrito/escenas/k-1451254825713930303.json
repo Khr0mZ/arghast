@@ -1,0 +1,261 @@
+{
+  "id": "k-1451254825713930303",
+  "campana": "kuroto",
+  "unidad_revision": "k-1451254825713930303",
+  "hilo_id": "1387915737502580886",
+  "hilo_nombre": "Sho, Palacio del Shogunato - Capital de Kuroto",
+  "titulo": "Preparar la presentación de los Guardianes",
+  "resumen": "Kazuki propone al consejo la nueva organización y Guxi recuerda que no debe asumir solo el peso.",
+  "relato": "Kazuki llega al palacio y pide a un mensajero que convoque al consejo y a Guxi. Explica que anunciará la desaparición de los Cazadores y una organización sucesora, provisionalmente llamada Guardianes de Kuroto, de la que quiere ser portavoz. Guxi lo corrige con un seremos y recuerda el acuerdo de compartir la carga. Durante el té, Kazuki cuenta que Banzo le habló de ronin que seguían protegiendo la tierra tras perder a su Shogun. Esa historia lo inspiró para tomar el sobrenombre de los Guardianes. Su propósito es proteger tanto a habitantes de Kuroto como a yokais. Guxi acepta la denominación con dudas sobre cuánto los define, pero reafirma el objetivo común. Como aún faltan los miembros del consejo y lo han llamado para ayudar con los Guardianes, pide continuar al día siguiente. Kazuki accede y Guxi se retira, dejando preparativos. La exposición formal todavía no empieza en esta unidad.",
+  "participantes": [
+    "Kazuki",
+    "Guxi",
+    "Mensajero"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1451254825713930303",
+      "afirmacion": "Kazuki encarga reunir al consejo y avisar a Guxi.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1451258156075188337",
+      "afirmacion": "Anuncia su propósito de presentar la organización sucesora y ser portavoz.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1451258416571088896",
+      "afirmacion": "Guxi recuerda que compartirán la carga.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1451260401265152113",
+      "afirmacion": "Kazuki explica la inspiración ronin procedente de su charla con Banzo.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1451263274837344287",
+      "afirmacion": "Define proteger a habitantes y yokais como objetivo.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1451266110132584654",
+      "afirmacion": "Guxi se retira tras dejar preparativos.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La continuación formal está en k-1451349328173072538.",
+    "Se distingue la organización propuesta, Guardianes de Kuroto, de los Guardianes vinculados a templos y cúpula."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2025-12-18T16:48:33.461000+00:00",
+  "fin_utc": "2025-12-18T17:33:34.108000+00:00",
+  "fecha_local": "2025-12-18",
+  "intervalo": {
+    "anterior": 174,
+    "siguiente": 175,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1450566665669443760",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1451296214803812372",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 174,
+        "fecha": "2025-12-16",
+        "inicio_referencia_utc": "2025-12-16T19:13:46+00:00",
+        "fin_estimado_utc": "2025-12-16T21:24:41+00:00",
+        "duracion_video_segundos": 7855,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1450566665669443760"
+      },
+      {
+        "capitulo": 175,
+        "fecha": "2025-12-18",
+        "inicio_referencia_utc": "2025-12-18T19:32:39+00:00",
+        "fin_estimado_utc": "2025-12-18T22:11:57+00:00",
+        "duracion_video_segundos": 9558,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1451296214803812372"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1451254825713930303",
+      "fecha_utc": "2025-12-18T16:48:33.461000+00:00",
+      "fecha_local": "2025-12-18",
+      "editado_utc": "2025-12-18T16:49:32.800000+00:00",
+      "texto": "Kazuki:\n\n**Llegaría al palacio y hablaría al primer mensajero que vea, diciéndole que reuna al consejo y que avise a Guxi <@171702246952665098> **\n\n<@214405113677217793>",
+      "mensaje_sha256": "0f3bd09eb591e67c18f310b2004127a13537fd673bd530361258a423308338a8",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1451254825713930303",
+      "texto_sha256": "1de3cb05c73fa57be38d030e59f0a13cd8466716fef2f1bba755ad571f341b0d",
+      "adjuntos": []
+    },
+    {
+      "id": "1451257554561667222",
+      "fecha_utc": "2025-12-18T16:59:24.069000+00:00",
+      "fecha_local": "2025-12-18",
+      "editado_utc": null,
+      "texto": "guxi:\n**llegaba del piso de arriba con algunos papeles cuando ve a kazuki y le saluda**\nBuenas me buscabas?",
+      "mensaje_sha256": "cdd77f8aad80841d0d281c0a0a14c173f54484e99b52db4e14440037b566b539",
+      "tipo_discord": 19,
+      "referencia": "1451254825713930303",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1451257554561667222",
+      "texto_sha256": "eb8f413fc82de8f89cb3a697431dc13c57aa5ce80521c4481eb48f2e06e9b9d9",
+      "adjuntos": []
+    },
+    {
+      "id": "1451258156075188337",
+      "fecha_utc": "2025-12-18T17:01:47.481000+00:00",
+      "fecha_local": "2025-12-18",
+      "editado_utc": null,
+      "texto": "Kazuki:\n\nAsí es, pienso explicarle al consejo que los cazadores no existen, y contarles la idea de los guardianes de Kuroto, el nombre es provisional.\n\n**Dice serio pero ves que está nervioso**\n\nY que yo seré el portavoz de esa nueva organización que sustituye a los cazadores.",
+      "mensaje_sha256": "d92dd48fa99ce6c5f05e38e3e7c334242c185c71ae0454c16e04678c0e68d4c9",
+      "tipo_discord": 19,
+      "referencia": "1451257554561667222",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1451258156075188337",
+      "texto_sha256": "50d9b485ef2ab7ec5d7cb8b494b034cb33dda334cc5e694b6066a27daa3aa73f",
+      "adjuntos": []
+    },
+    {
+      "id": "1451258416571088896",
+      "fecha_utc": "2025-12-18T17:02:49.588000+00:00",
+      "fecha_local": "2025-12-18",
+      "editado_utc": null,
+      "texto": "guxi:\nseremos recuerda este peso no lo vas a llevar solo\n**te ofrece una silla para que te sientes**\nun poco de te kazuki?",
+      "mensaje_sha256": "5600c479ac0619780dcf3b2f825677606f76e96294058415ca7ce7d3ae831ca3",
+      "tipo_discord": 19,
+      "referencia": "1451258156075188337",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1451258416571088896",
+      "texto_sha256": "6faabf5be007631e04f93400034d3163c032a24bc2b315afd08bdcac4efc3819",
+      "adjuntos": []
+    },
+    {
+      "id": "1451258933384708226",
+      "fecha_utc": "2025-12-18T17:04:52.806000+00:00",
+      "fecha_local": "2025-12-18",
+      "editado_utc": null,
+      "texto": "Kazuki: \n\nLo agradezco.\n\n**Dice serio pero una sonrisa nerviosa mientras se sienta en una de las sillas de esa gran mesa**",
+      "mensaje_sha256": "05c0462475d2a9988f46612d7c7cad59b4afd40d643ab4a2c5201d2037083ef7",
+      "tipo_discord": 19,
+      "referencia": "1451258416571088896",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1451258933384708226",
+      "texto_sha256": "05d55e0b4541d74d340c7bc018033a8351e7eebbbf4db9d77a536b89abfdf016",
+      "adjuntos": []
+    },
+    {
+      "id": "1451259171860254760",
+      "fecha_utc": "2025-12-18T17:05:49.663000+00:00",
+      "fecha_local": "2025-12-18",
+      "editado_utc": null,
+      "texto": "guxi:\nMientras viene los demas\n¿por que no me cuentas lo que tienes pensado mas a detalle?\n**le sirve una taza de te y se sienta**",
+      "mensaje_sha256": "21115a7ef06f94fadcb89d524c9f45f499075d2b40c82b80f3aa0570a3b766c4",
+      "tipo_discord": 19,
+      "referencia": "1451258933384708226",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1451259171860254760",
+      "texto_sha256": "347b2ecab61d44f24cc9d44e3642abec9243eaaeddee6e31c7fe2f6cbd480b80",
+      "adjuntos": []
+    },
+    {
+      "id": "1451260401265152113",
+      "fecha_utc": "2025-12-18T17:10:42.776000+00:00",
+      "fecha_local": "2025-12-18",
+      "editado_utc": null,
+      "texto": "Kazuki:\n\nHe estado reunido con Banzo. Está un poco sensible, pero me contó sobre una historia de unos Ronin, que al no tener Shogun seguían protegiendo las tierras que les vio crecer. Y he pensado en el nombre de los guardianes sabiendo lo que les está pasando con ellos, pillaremos su sobrenombre.\n\n**Cuenta mientras toma lentamente el té**",
+      "mensaje_sha256": "bd0db38c2eac217b9a587a6cd60b8a50ccb01caf70b19e8243811e5184da37fa",
+      "tipo_discord": 19,
+      "referencia": "1451259171860254760",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1451260401265152113",
+      "texto_sha256": "ffed62872d8a95750331c944e95148ba8137141cae90c46eda76fb561b320ef4",
+      "adjuntos": []
+    },
+    {
+      "id": "1451261856730845322",
+      "fecha_utc": "2025-12-18T17:16:29.786000+00:00",
+      "fecha_local": "2025-12-18",
+      "editado_utc": null,
+      "texto": "guxi:\nronin?\ncurioso es gente renegada sin apego por su señor supongo que podria valer aunque no se hasta que punto nos define\n**se queda pensativo un rato**\nsupongo que nos podria valer por ahora",
+      "mensaje_sha256": "31a5e69b0c2469a86d0af2e5774dc0dc02a75261e874168ac31ace8a07a83efe",
+      "tipo_discord": 19,
+      "referencia": "1451260401265152113",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1451261856730845322",
+      "texto_sha256": "486644df8de15611ac41c18748029739d2aecec06c7799e816d51fd7136f6c7b",
+      "adjuntos": []
+    },
+    {
+      "id": "1451263274837344287",
+      "fecha_utc": "2025-12-18T17:22:07.889000+00:00",
+      "fecha_local": "2025-12-18",
+      "editado_utc": null,
+      "texto": "Kazuki:\n\nPero la idea es seguir protegiendo a los habitantes de Kuroto y a los yokais.",
+      "mensaje_sha256": "98c3f33c5d0d7b4e51822e8764637bedf7fa8a5387e4e36945337bcf560f4124",
+      "tipo_discord": 19,
+      "referencia": "1451261856730845322",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1451263274837344287",
+      "texto_sha256": "6c30fc960ad0766c39be578bf084d420ff97495b3806a2eada75ca80740b2b14",
+      "adjuntos": []
+    },
+    {
+      "id": "1451265305258233950",
+      "fecha_utc": "2025-12-18T17:30:11.979000+00:00",
+      "fecha_local": "2025-12-18",
+      "editado_utc": null,
+      "texto": "guxi:\neso haremos no lo dudes \n**se queda pensativo un rato**\nesto tardara un rato y me han llamado para que les ayude con los guardianes te importa si seguimos mañana?",
+      "mensaje_sha256": "d75145a6d22fe9e9e5345235e76de1669c40a131617db8d492fc619453e3c529",
+      "tipo_discord": 19,
+      "referencia": "1451263274837344287",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1451265305258233950",
+      "texto_sha256": "55cdd6e7615924509085dd5ab8c875d017e53c8f3d513ef0bc2815f49abcdf20",
+      "adjuntos": []
+    },
+    {
+      "id": "1451265928099664069",
+      "fecha_utc": "2025-12-18T17:32:40.476000+00:00",
+      "fecha_local": "2025-12-18",
+      "editado_utc": null,
+      "texto": "Kazuki:\n\nAdelante, aún tienen que venir los miembros del consejo",
+      "mensaje_sha256": "ff151f693654935018119142e0a307958e1d0526b0e3b63f36d6cde5305681a9",
+      "tipo_discord": 19,
+      "referencia": "1451265305258233950",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1451265928099664069",
+      "texto_sha256": "90fb443dad528d7d17f261da00f56f00cf8bcd9d7ec50999e643b13a8d7c90aa",
+      "adjuntos": []
+    },
+    {
+      "id": "1451266110132584654",
+      "fecha_utc": "2025-12-18T17:33:23.876000+00:00",
+      "fecha_local": "2025-12-18",
+      "editado_utc": null,
+      "texto": "guxi:\nme retiro entonces deje algunas cosas preparadas espero te sirvan\n**hace una reverencia y se aleja**",
+      "mensaje_sha256": "c596f1d561e662bd14e850a34ad0c06799893b71df67d8bcd0fede27c26864ca",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1451266110132584654",
+      "texto_sha256": "db09176f5a79ea2969b7c2c573725d07c0b0bd82269eb55932bd2f0cfbdccf99",
+      "adjuntos": []
+    },
+    {
+      "id": "1451266153048702986",
+      "fecha_utc": "2025-12-18T17:33:34.108000+00:00",
+      "fecha_local": "2025-12-18",
+      "editado_utc": null,
+      "texto": "🔩 guxi sale de escena🔩",
+      "mensaje_sha256": "ff02b7ce44424de991d9dbe9bd64190257f21c186528977afc85f64c65bffd53",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1451266153048702986",
+      "texto_sha256": "e684c549af93a258b115f68a37386a6f33541b453519e2877a0cc24cd84938f3",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "id": "k-1438803594378743869",
+  "campana": "kuroto",
+  "unidad_revision": "k-1438803594378743869",
+  "hilo_id": "1387915737502580886",
+  "hilo_nombre": "Sho, Palacio del Shogunato - Capital de Kuroto",
+  "titulo": "Otro cofre abierto en la tesorería",
+  "resumen": "Kalista y Jelbreg descubren el robo de esferas y rastros de dos aperturas de los candados.",
+  "relato": "Kalista y Jelbreg regresan apresuradamente al palacio y suben a sus dependencias. Los símbolos de la tesorería se han activado. Dentro encuentran el cofre abierto y las cadenas en el suelo, mientras el resto de objetos parece en orden. Examinan pequeñas marcas en los candados; Jelbreg interpreta que ya habían sido forzados cuando volvieron a abrirlos. Kalista, furiosa y desesperada ante lo que considera el segundo robo de esferas, arroja el cofre contra la pared con una ráfaga de viento. Jelbreg intenta sostenerla: dice que todavía conservan una esfera y que la niña guarda otra, y promete recuperar las desaparecidas si las tiene su hermana. La doble manipulación de los cierres le hace mencionar a Thiary como posibilidad. Kalista no sabe quién está detrás y enumera las crisis del sur, las esferas y los tritones. Él la abraza y promete que pronto se marcharán de ese lugar. Finalmente se reparten las gestiones: ella sale para hablar con Banzo y él anuncia que irá a ver a Thiary. El hallazgo queda constatado, pero las sospechas y la recuperación permanecen abiertas.",
+  "participantes": [
+    "Kalista",
+    "Jelbreg"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1438875282726715404",
+      "afirmacion": "El cofre está abierto y las cadenas yacen en el suelo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1438878469793648660",
+      "afirmacion": "Jelbreg observa indicios de que los cierres ya habían sido forzados.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1438880149851603094",
+      "afirmacion": "Jelbreg dice que conservan una esfera y otra sigue con la niña; condiciona la recuperación a que las tenga su hermana.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1438888654566068255",
+      "afirmacion": "Plantea que las marcas corresponden a dos aperturas y menciona a Thiary como sospecha.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1438900451163635832",
+      "afirmacion": "Kalista decide acudir a Banzo.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1438901908768161912",
+      "afirmacion": "Jelbreg anuncia que irá a ver a Thiary.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "El estado del cofre acredita una intrusión y los personajes dan por robadas las esferas; aquí no aparece el autor material llevándoselas.",
+    "Danifae y Thiary son sospechas expresadas en la conversación, no identidades confirmadas del ladrón.",
+    "Los indicios de apertura anterior pueden cotejarse con k-1436368123455344720, donde el ninja vio las esferas y volvió a cerrar; esta escena no atribuye expresamente a él las marcas."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2025-11-14T08:11:48.578000+00:00",
+  "fin_utc": "2025-11-14T14:44:02.235000+00:00",
+  "fecha_local": "2025-11-14",
+  "intervalo": {
+    "anterior": 167,
+    "siguiente": 168,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438607930604781589",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 167,
+        "fecha": "2025-11-13",
+        "inicio_referencia_utc": "2025-11-13T19:14:04+00:00",
+        "fin_estimado_utc": "2025-11-13T22:25:02+00:00",
+        "duracion_video_segundos": 11458,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438607930604781589"
+      },
+      {
+        "capitulo": 168,
+        "fecha": "2025-11-20",
+        "inicio_referencia_utc": "2025-11-20T19:03:40+00:00",
+        "fin_estimado_utc": "2025-11-20T22:00:36+00:00",
+        "duracion_video_segundos": 10616,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida."
+  },
+  "fuentes": [
+    {
+      "id": "1438803594378743869",
+      "fecha_utc": "2025-11-14T08:11:48.578000+00:00",
+      "fecha_local": "2025-11-14",
+      "editado_utc": null,
+      "texto": "Jelbreg: **El drow y la tritón llegáis a Palacio a toda prisa. Ignorais los saludos de los soldados y las mucanas que vienen a vuestro encuentro hasta que llegáis a la habitación real. En ese momento, la tritón se dirige a la puerta de la tesorería y te das cuenta que los símbolos se han activado. El drow te mira y te pregunta** ¿Que pasa?\n<@753394009153732689>",
+      "mensaje_sha256": "59a02d500894fa83272028fc0f1a698631770ed7a5a26b1a94c851153b820a8d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1438803594378743869",
+      "texto_sha256": "22bd3697559d876e33070fc47c56a9bdb820fd1e35b02719395e3e19da238aee",
+      "adjuntos": []
+    },
+    {
+      "id": "1438874512488923300",
+      "fecha_utc": "2025-11-14T12:53:36.773000+00:00",
+      "fecha_local": "2025-11-14",
+      "editado_utc": null,
+      "texto": "Kalista: **Sus ojos se abren amplianente y sin medir palabra abre la puerta de la camara del tesoro con brio**",
+      "mensaje_sha256": "5e6b4f750cf90a867ab7c06ef158e8aeaf7d8e0eb4346e281df3a85c584ffd93",
+      "tipo_discord": 19,
+      "referencia": "1438803594378743869",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1438874512488923300",
+      "texto_sha256": "bb4d27e1bda46f1cc3fc45cef77ae010ac27fc02ae7782fd2925991c4825471a",
+      "adjuntos": []
+    },
+    {
+      "id": "1438875282726715404",
+      "fecha_utc": "2025-11-14T12:56:40.412000+00:00",
+      "fecha_local": "2025-11-14",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Abres la camara del tesoro y puedes observar todo en orden. Todo a excepción de una cosa. El cofre atado con varias cadenas esta abierto y estas en el suelo. El drow mete un gruñido de rabia** Mmmrrrggg",
+      "mensaje_sha256": "527c789a414bb72879d49ff5eaee38630d1d85311c6ca090f508c0488726db2c",
+      "tipo_discord": 19,
+      "referencia": "1438874512488923300",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1438875282726715404",
+      "texto_sha256": "e475dd469f0fb2d9a69334f2ca257acbfcfd883f3d0b2acfcdc9479e8b26ef3e",
+      "adjuntos": []
+    },
+    {
+      "id": "1438877010830164018",
+      "fecha_utc": "2025-11-14T13:03:32.424000+00:00",
+      "fecha_local": "2025-11-14",
+      "editado_utc": "2025-11-14T13:06:13.885000+00:00",
+      "texto": "Kalista: **Se acerca veloz a examinarlo con desesperacion aferrandose a los laterales del cofre ¿Como lo han abierto? ¿Algun rastro?...**",
+      "mensaje_sha256": "a9e911fb3204483b47e68507d2f212de75c4548d6fe820af3d18d659e0d799bb",
+      "tipo_discord": 19,
+      "referencia": "1438875282726715404",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1438877010830164018",
+      "texto_sha256": "a05f056bdc349a03a5ab93ba0b7e537eded0cce333dd4373068dd51751bf2df4",
+      "adjuntos": []
+    },
+    {
+      "id": "1438877831114391694",
+      "fecha_utc": "2025-11-14T13:06:47.995000+00:00",
+      "fecha_local": "2025-11-14",
+      "editado_utc": null,
+      "texto": "Jelbreg: **El drow se acerca a ti y te coloca una mano en el hombro. Los dos observais el cofre, q simple vista notáis que el cofre simplemente ha sido abierto con gran facilidad y maestría. Pero parece que hay algo más, una pequeñas marcas en los candados de las cadenas que cerraban el cofre**",
+      "mensaje_sha256": "60a4c954e57df175226ac87f14e1d041fea14c7dda7c79929f94137bdb2460ad",
+      "tipo_discord": 19,
+      "referencia": "1438877010830164018",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1438877831114391694",
+      "texto_sha256": "7dac149821892e6ca79bfb9b811a47b1fa6b0263c843bca72eb39f9b2a2dac8f",
+      "adjuntos": []
+    },
+    {
+      "id": "1438878025809924096",
+      "fecha_utc": "2025-11-14T13:07:34.414000+00:00",
+      "fecha_local": "2025-11-14",
+      "editado_utc": null,
+      "texto": "Kalista: **Miran las pequeñas marcas en los candados**",
+      "mensaje_sha256": "627ee2894444a114e1283d1327d07e33dbfc19bdf87330a30493cb4d7bfc7e2a",
+      "tipo_discord": 19,
+      "referencia": "1438877831114391694",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1438878025809924096",
+      "texto_sha256": "fc6048c12f5c47f77b3cd8ad6311d6a5c7818d3ce86cd21a0e677727bec606d0",
+      "adjuntos": []
+    },
+    {
+      "id": "1438878469793648660",
+      "fecha_utc": "2025-11-14T13:09:20.268000+00:00",
+      "fecha_local": "2025-11-14",
+      "editado_utc": null,
+      "texto": "Jelbreg: **El drow también las ve y te ayuda a examinar esas marcas en los candados. Sus ojos ámbar se vuelven negros como la noche para observar mejor** Parece que las cadenas ya habían sido forzadas cuando lo abrieron...",
+      "mensaje_sha256": "e808e5e318969496473b38591436facd96d2fb5b37b68a628fa46cf8e6ca0caa",
+      "tipo_discord": 19,
+      "referencia": "1438878025809924096",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1438878469793648660",
+      "texto_sha256": "e977919a091063585181b21a455d5c8e0c1a09fcb939b6aa62cc5ffba9b739f6",
+      "adjuntos": []
+    },
+    {
+      "id": "1438879274252636322",
+      "fecha_utc": "2025-11-14T13:12:32.066000+00:00",
+      "fecha_local": "2025-11-14",
+      "editado_utc": null,
+      "texto": "Kalista: ....**Gruñe con furia y con una rafaga de viento lanza el cofre con fuerza contra la pared. Esta furiosa, rabiosa porque esta ya es la segunda vez que esto pasa  y teme que sea la ultima**",
+      "mensaje_sha256": "3b16eed7ac43bd983c123899c5904f113375242e1cc102c3b6f0be0a06b39b02",
+      "tipo_discord": 19,
+      "referencia": "1438878469793648660",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1438879274252636322",
+      "texto_sha256": "ec7eff43e97e987806bac3e29230e47b79eeeaad7e74e5dd8515eb71f3b3405a",
+      "adjuntos": []
+    },
+    {
+      "id": "1438880149851603094",
+      "fecha_utc": "2025-11-14T13:16:00.825000+00:00",
+      "fecha_local": "2025-11-14",
+      "editado_utc": null,
+      "texto": "Jelbreg: **El drow te agarra suavemente del brazo** Eh, tranquila. Todavía tenemos una de ellas y la otra la tiene aún la niña. Si las tiene mi hermana las recuperaremos **Te acaricia el brazo para intentar relajarte. Pero puedes ver en los ojos del drow que la ràbia también crece en él**",
+      "mensaje_sha256": "aae544a9a9d874f059a0dbfe75988c004f598ea24f1840873ad6540bd5bc1b9b",
+      "tipo_discord": 19,
+      "referencia": "1438879274252636322",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1438880149851603094",
+      "texto_sha256": "695c0aa5fa11da435a62abf6d39185d4f2aac470ed70d25225b473e9cf10022f",
+      "adjuntos": []
+    },
+    {
+      "id": "1438887169237188679",
+      "fecha_utc": "2025-11-14T13:43:54.377000+00:00",
+      "fecha_local": "2025-11-14",
+      "editado_utc": null,
+      "texto": "Kalista: no puedo tranquilizarme Jelbreg, ya es la segunda vez que nos las roban... Y la otra vez tuvimos suerte atrapando a tu hermana ¿De verdad piensas que sera tan facil?",
+      "mensaje_sha256": "c7047fb2e98ba1eeac6b49575e33d1c768d3fb4360d1dd52f2fdeee1392cae4e",
+      "tipo_discord": 19,
+      "referencia": "1438880149851603094",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1438887169237188679",
+      "texto_sha256": "f300cd6bb003120dc1b4aa28feecc19804c74812544ff47d9c80716137e3e432",
+      "adjuntos": []
+    },
+    {
+      "id": "1438888654566068255",
+      "fecha_utc": "2025-11-14T13:49:48.507000+00:00",
+      "fecha_local": "2025-11-14",
+      "editado_utc": null,
+      "texto": "Jelbreg: Lo se, lo se **Sus ojos muestra rabia pero sus caricias no** Pero aquí ha pasado algo... Parecen haber sido forzadas dos veces... Y solo conozco a otros a parte de Danifae que harían esto... **Ves que pone una mueca** ¿Thiary?",
+      "mensaje_sha256": "10fc42cc461fc8845652ad2d64f8a3b5f957d236d16d99f9ed116de2472b7662",
+      "tipo_discord": 19,
+      "referencia": "1438887169237188679",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1438888654566068255",
+      "texto_sha256": "7a6a2bf723b36aea4fbbda9b2ed9b63a25ee92238a1dc553f851f7b02f4e8fcb",
+      "adjuntos": []
+    },
+    {
+      "id": "1438889398304379021",
+      "fecha_utc": "2025-11-14T13:52:45.828000+00:00",
+      "fecha_local": "2025-11-14",
+      "editado_utc": null,
+      "texto": "Kalista: ...no lo se Jelbreg no lo se...**Sus hombros se hunden**",
+      "mensaje_sha256": "01ed47016bf281e6c8fc6a20eb0da5a241a5d5af2b357f6555e2d4a29f41450e",
+      "tipo_discord": 19,
+      "referencia": "1438888654566068255",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1438889398304379021",
+      "texto_sha256": "480feb4b58445bf6731efd67c50e497f80976008510eaba2168a445802f73bae",
+      "adjuntos": []
+    },
+    {
+      "id": "1438890181360091318",
+      "fecha_utc": "2025-11-14T13:55:52.523000+00:00",
+      "fecha_local": "2025-11-14",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Te rodea con los brazos con fuerza** Lo solucionaremos **Aprieta los dientes con rabia sin que la tritón lo vea**",
+      "mensaje_sha256": "7b097462c674265ae9b86f829c4563e24cc0ed1224c1fd01369d833e6e685968",
+      "tipo_discord": 19,
+      "referencia": "1438889398304379021",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1438890181360091318",
+      "texto_sha256": "a5dcc59668e6c6d86d28291380a4457e13400f63de8cd3b193319a995507b618",
+      "adjuntos": []
+    },
+    {
+      "id": "1438894766346469406",
+      "fecha_utc": "2025-11-14T14:14:05.669000+00:00",
+      "fecha_local": "2025-11-14",
+      "editado_utc": null,
+      "texto": "Kalista: **Se abraza a ti** Todo parece estar haciendose cuesta arriba... Desde el sur, las esferas, los tritones....",
+      "mensaje_sha256": "48f168a936a80fc5efdd87b2f1382af7435a7478c5b802a2079ea2206e42b668",
+      "tipo_discord": 19,
+      "referencia": "1438890181360091318",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1438894766346469406",
+      "texto_sha256": "c48ab9cf47b78c89a2267148b3ffe4fc2a48c90252dcc6dee0d1773e0efd7925",
+      "adjuntos": []
+    },
+    {
+      "id": "1438900216089808909",
+      "fecha_utc": "2025-11-14T14:35:44.989000+00:00",
+      "fecha_local": "2025-11-14",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Se queda abrazado a ti un rato** Pronto todo eso no importará, te prometo que nos iremos pronto de este lugar",
+      "mensaje_sha256": "8dd50dce468bfa108e07f51a5cf39df5c8fb1e6a59782fd5eec712c5d10437b9",
+      "tipo_discord": 19,
+      "referencia": "1438894766346469406",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1438900216089808909",
+      "texto_sha256": "3ff06dbbb07d0eddcb08fb1f2a4d58317657195cbcbaee8fe5d610bd7498ffff",
+      "adjuntos": []
+    },
+    {
+      "id": "1438900451163635832",
+      "fecha_utc": "2025-11-14T14:36:41.035000+00:00",
+      "fecha_local": "2025-11-14",
+      "editado_utc": null,
+      "texto": "Kalista: **Se separa de ti despacio...** Voy a ir a hablar con Banzo",
+      "mensaje_sha256": "890394f4792f12817902d10b1f5ef41deae625082ec06b82543abe3e1d9aa952",
+      "tipo_discord": 19,
+      "referencia": "1438900216089808909",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1438900451163635832",
+      "texto_sha256": "196fff8a6cc95d67287434127dd670facfe658f766dab969590386e2eb4911c0",
+      "adjuntos": []
+    },
+    {
+      "id": "1438901908768161912",
+      "fecha_utc": "2025-11-14T14:42:28.555000+00:00",
+      "fecha_local": "2025-11-14",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Asiente mientras te acaricia la mejilla** Ten cuidado. Yo iré a ver a Thiary",
+      "mensaje_sha256": "ee90cd3dea8d53238895e0105f5157bc43f53c52c8c61bb27087d566eff7efae",
+      "tipo_discord": 19,
+      "referencia": "1438900451163635832",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1438901908768161912",
+      "texto_sha256": "6a1824b87149157ffc47e56ba383085316eaa2012acd7390f12e249655edee61",
+      "adjuntos": []
+    },
+    {
+      "id": "1438902114717012008",
+      "fecha_utc": "2025-11-14T14:43:17.657000+00:00",
+      "fecha_local": "2025-11-14",
+      "editado_utc": null,
+      "texto": "Kalista: **Asiente, se separa de ti y va directa a la puerta**",
+      "mensaje_sha256": "8140c087665acdfd0b0dfd23fb0629fdb8180edd38ef6c0ee08d46f8ccea43da",
+      "tipo_discord": 19,
+      "referencia": "1438901908768161912",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1438902114717012008",
+      "texto_sha256": "dfe7d26a57a1890e1237d3461dc59e0494f90c045a25e73d87a4ce408c9925fc",
+      "adjuntos": []
+    },
+    {
+      "id": "1438902301690560682",
+      "fecha_utc": "2025-11-14T14:44:02.235000+00:00",
+      "fecha_local": "2025-11-14",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "90e49842f072d7b056cbe2383ec85926ec1f187ffff305ac68ed44a3aefff581",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1438902301690560682",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

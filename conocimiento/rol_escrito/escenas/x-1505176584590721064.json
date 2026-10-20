@@ -1,0 +1,258 @@
+{
+  "id": "x-1505176584590721064",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1505176584590721064",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "La ruptura de la capitana y sus marineros",
+  "resumen": "Ione mantiene la expulsión pese a la disculpa de Jackie.",
+  "relato": "Ione entra en la taberna todavía herida y encuentra a Mugre, Ojoausente, Babs y Jackie bebiendo y discutiendo sobre limpiar la cubierta. Se acerca a preguntar dónde estaban durante el ataque. Los otros dejan al muchacho expuesto y él explica que protegieron la taberna cerrando puertas y ventanas. Añade que Nox fue a expulsar marines en la jungla.\n\nLa capitana pregunta por qué no pensaron en el barco. Jackie dice que Babs priorizó la bebida, lo que provoca los ladridos del hombre perro. Ojoausente atribuye el encierro a una orden del «capitán Nox». La respuesta desata la ira de Ione: recuerda que el barco y la capitanía son suyos, rompe la madera de la mesa con las manos y les prohíbe volver a subir al Zampaolas. Extiende expresamente la advertencia a Nox y amenaza con matarlos si la incumplen.\n\nLos marineros mandan a Jackie tras ella. Se disculpa por el trato de capitán dado a Nox y por lo ocurrido, pero Ione responde que ya no es su capitana y ellos no son su tripulación. Se retira hacia el barco sin aceptar la disculpa. Los cuatro quedan nerviosos y deciden que tendrán que pedir a Nox una solución. La expulsión sí se declara; no hay readmisión, ejecución de la amenaza ni enfrentamiento con el pirata dentro de este tramo.",
+  "participantes": [
+    "Ione",
+    "Jackie",
+    "Babs",
+    "Mugre",
+    "Ojoausente"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1505177083155058798",
+      "afirmacion": "Los cuatro marineros están bebiendo en la taberna tras el ataque.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1505178591665590323",
+      "afirmacion": "Jackie afirma que cerraron la taberna para protegerla mientras Nox fue a la jungla.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1505181002803445770",
+      "afirmacion": "Jackie atribuye a Babs priorizar la bebida y Ojoausente cita una orden de Nox.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1505183776416731348",
+      "afirmacion": "Ione reivindica su capitanía, veta el barco a los marineros y extiende la amenaza a Nox.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1505186082474557603",
+      "afirmacion": "Jackie pide disculpas y se corrige al nombrar a Nox.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1505187282036981821",
+      "afirmacion": "Ione rechaza seguir siendo su capitana y se retira al Zampaolas.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1505188265962111086",
+      "afirmacion": "Los marineros quedan buscando una solución mediante Nox.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Las explicaciones sobre órdenes y acciones de Nox se atribuyen a quienes las cuentan.",
+    "La amenaza es explícita y la expulsión vigente al cierre de este bloque; las escenas posteriores corresponden al coordinador.",
+    "Babs/Babas, Mugre/Sopa Mugre y Jackie/Jacky se mantienen como variantes acreditadas por continuidad de la misma tripulación, sin convertir los apelativos en personajes nuevos."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-05-16T11:54:22.595000+00:00",
+  "fin_utc": "2026-05-16T12:40:54.758000+00:00",
+  "fecha_local": "2026-05-16",
+  "intervalo": {
+    "anterior": 32,
+    "siguiente": 33,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1504914757835030579",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1506363085538201671",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 32,
+        "fecha": "2026-05-15",
+        "inicio_referencia_utc": "2026-05-15T18:33:44+00:00",
+        "fin_estimado_utc": "2026-05-15T20:47:23+00:00",
+        "duracion_video_segundos": 8019,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1504914757835030579"
+      },
+      {
+        "capitulo": 33,
+        "fecha": "2026-05-19",
+        "inicio_referencia_utc": "2026-05-19T18:28:49+00:00",
+        "fin_estimado_utc": "2026-05-19T21:10:39+00:00",
+        "duracion_video_segundos": 9710,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1506363085538201671"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1505176584590721064",
+      "fecha_utc": "2026-05-16T11:54:22.595000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "En la taberna:\n\nIone : **Entra por las puertas de la taberna tambalenadose y busca con la mirada que se va tornando feroz a su tripulacion**",
+      "mensaje_sha256": "a3dcc36843d84e239c7dccd3ef8d49a52dde90c3acfe1460a33e59be7ccd7e45",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505176584590721064",
+      "texto_sha256": "f9edbbb7986739eacd13f30654ea13e60b04836ebb538f376eeeeaa1ee64c001",
+      "adjuntos": []
+    },
+    {
+      "id": "1505176623073202256",
+      "fecha_utc": "2026-05-16T11:54:31.770000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "<@214405113677217793>",
+      "mensaje_sha256": "82e258acb8e4129ac59827842f87a3ce86bd30181995f55b1be9ddfd39fa1d1a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505176623073202256",
+      "texto_sha256": "ac93d358c181353378177a6cb49577e35ef8406127fe712a70490ca6135fb57d",
+      "adjuntos": [],
+      "no_narrativo": true,
+      "nota_editorial": "Contexto o marcador no narrativo; conservado en la exportación íntegra."
+    },
+    {
+      "id": "1505177083155058798",
+      "fecha_utc": "2026-05-16T11:56:21.462000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "**Puedes ver a Mugre, Ojoausente, Babs y Jackie sentados en la mesa de siempre bebiendo esa cosa amarillenta. Parecen estar discutiendo con el pobre Jackie sobre quien va a limpiar la cubierta del Zampaolas.**",
+      "mensaje_sha256": "a394bed544d570c5a4d6b7f26475cd960745e25e46c417866b194eaf9abb07fb",
+      "tipo_discord": 19,
+      "referencia": "1505176584590721064",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505177083155058798",
+      "texto_sha256": "e04aef06123cbf4ea3b69adfceec24889246b433b5a102112ab4cb715442512e",
+      "adjuntos": []
+    },
+    {
+      "id": "1505177700233642024",
+      "fecha_utc": "2026-05-16T11:58:48.585000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Ione: **Un gruñido ahogado se le escapa de la garganta y con un paso lento se acerca a esa mesa obligandose a hergirse a pesar del dolor. Su rostro no muestra a la energica y alegre capitana de siempre** ¿Donde estabais? **Suelta en un tono bajo y amenazante**",
+      "mensaje_sha256": "d0f2d2283b02933c34fa73c79a3761a610f58e05c68109407851d0fd5913bad4",
+      "tipo_discord": 19,
+      "referencia": "1505177083155058798",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505177700233642024",
+      "texto_sha256": "43c81bfb840f22d4b36b91342d7e734c8d88796ba6430f42095f655e974d5f1f",
+      "adjuntos": []
+    },
+    {
+      "id": "1505178591665590323",
+      "fecha_utc": "2026-05-16T12:02:21.119000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "**Babs, Mugre y Ojoausente ves que se esconden un poco detrás de las sillas o de los vasos encima de la mesa, dejando a Jackie el más visible para que la atención de la Capitana vaya a él**\n\nJackie: Estuvimos protegiendo la taberna, capitana. **Dice Jackie sin notar el mal que se les viene encima** Los chicos tuvieron la maravillosa idea de cerrar puertas y ventanas para que esos marines no pudieran entrar. Y además, el Capitán Nox también consiguió deshacerse de algunos marines cuando se adentro en la jungla",
+      "mensaje_sha256": "aa9156c068322e24ad4855ce65cb56ca240a67fa59ff1973a53d6fcec20502a3",
+      "tipo_discord": 19,
+      "referencia": "1505177700233642024",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505178591665590323",
+      "texto_sha256": "f44e18c506343ee14bda0537c35aa9b2b4df35985079c58cae6e1a107491ea7c",
+      "adjuntos": []
+    },
+    {
+      "id": "1505179088229371985",
+      "fecha_utc": "2026-05-16T12:04:19.509000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": "2026-05-16T12:08:18.310000+00:00",
+      "texto": "Ione: **Frunce el ceño** ¿Y si habiais cerrado la taberna... No es os ocurrio que pasaria con el barco durante el ataque? **Mientras habla se escucha un leve y ronco gruñido**",
+      "mensaje_sha256": "34a4a7d6cf0a5a5e9b6adafe67522f1061dc67e73e1a4aa5bf84b49604cac18d",
+      "tipo_discord": 19,
+      "referencia": "1505178591665590323",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505179088229371985",
+      "texto_sha256": "79afdea168c4188416f81bc96d8d8661424d18f30194d5e38a25255ec8752137",
+      "adjuntos": []
+    },
+    {
+      "id": "1505181002803445770",
+      "fecha_utc": "2026-05-16T12:11:55.979000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Jackie: Emmm.... Bueno... Babs dijo que lo más importante era proteger la bebida y... **En ese momento se escucha el gruñido de Babs y este empieza a ladrar al pobre Jackie. Mugre y Ojoausente agarran al hombre perro para que no mate a Jackie**\n\nOjoausente: Fue una orden del capitán Nox mientras el iba a la jungla a echar a los marines, mi capitana **El pobre hombre con un solo ojo no está sujetando a Babs, sino a una silla, pero piensa que si**",
+      "mensaje_sha256": "6aabe9d2243452d167a0938dc78020cd3c66e6cf3aa05054a05b212ee9308ba9",
+      "tipo_discord": 19,
+      "referencia": "1505179088229371985",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505181002803445770",
+      "texto_sha256": "bf3a7229612dffb0e4d11b51b3ab9dd5adb8bc58a3077ccdeed5f8b97d358302",
+      "adjuntos": []
+    },
+    {
+      "id": "1505183776416731348",
+      "fecha_utc": "2026-05-16T12:22:57.260000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Ione: **Agarra la mesa y la madera cruje bajo su mano** ¿Capitan? Hasta donde yo se el barco y el puesto de capitan eran mios **Sonrie... Pero mas que eso parece que esta enseñando los dientes** Bien pues seguir entonces a Nox... **Su tono de voz se eleva hasta parecer mas un gruñido que su propia voz** ¡Preocupaos tanto por el como de mi! ¡Que os de un barco y un lugar donde dormir! ¡Quedaos en la taberna y babearla el tiempo que querais! **Su tono de voz se eleva hasta gritar y la madera se astilla bajo sus manos** ¡Teneis vetada la entrada a MI barco! ¡Ya sois bucaneros sin tripulacion para hacer lo que os de la gana! **Deja de gritar para recuperar el aliento...** Volver q poner un pie en el Zampa Olas y os arrancare la cabeza de un mordisco para que os unais a los marines que mate... Y darle la misma advertencia a Nox de mi parte... **Dice esto ultimo en un tono bajo... Es una amenaza veraz... Ya ya saben que Ione no puede mentir. Suelta la mesa con sus manos llenas de astillas y se gira para ir hacia la parte de atras de la taberna aguantando el dolor de todas sus heridas**",
+      "mensaje_sha256": "3831bb772cfa47d2f894603f1d5d397345f2e4ff6202cb1f7b1f435116a9a1bb",
+      "tipo_discord": 19,
+      "referencia": "1505181002803445770",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505183776416731348",
+      "texto_sha256": "96135edae3f7cc739b0608c2cd813e425f30e2cb9c19c9c563d382f7147e8a85",
+      "adjuntos": []
+    },
+    {
+      "id": "1505186082474557603",
+      "fecha_utc": "2026-05-16T12:32:07.067000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "**Los cuatro se quedan anonadados después de escuchar la tremenda bronca de la capitana. Se miran entre ellos y le hacen gestos a Jackie para que vaya tras ella. El pobre muchacho traga salvia y la sigue**\n\nJackie: Emmm... Ca... Capitana Ione **Se acerca tímidamente a ella** Siento... Em... Los Chi.. Chicos y yo... Se... Sentimos lo ocurrido y... No quería faltarle al respeto nombrando al Cap... Al señor Nox como capitán...",
+      "mensaje_sha256": "a363dce3f9bedf8c69c3e836acc6486549d690c436fcd66106734f911f5f73ee",
+      "tipo_discord": 19,
+      "referencia": "1505183776416731348",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505186082474557603",
+      "texto_sha256": "1d9bbc2554d0fffa9c83b047b7d97e66ea715f5cfff51bea7ef372dde558ed6d",
+      "adjuntos": []
+    },
+    {
+      "id": "1505187282036981821",
+      "fecha_utc": "2026-05-16T12:36:53.065000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Ione: **Se para en la puerta y sin girarse** En lo que a mi respecta ya no soy vuestra capitana y vosotros no sois mi tripulacion. Que lo nombreis o no capitan a el o a una botella me da lo mismo. **Abre la puerta y entra a la parte de atras donde esta el zampa olas... Nunca antes Ione ha dejado tirado a nadie que tenia el titulo de tripulante...hasta ahora**",
+      "mensaje_sha256": "24101ba8f40ddea4adba1b501f4c7bcf64c28b5f7d1030e6368f9ef121d1cf25",
+      "tipo_discord": 19,
+      "referencia": "1505186082474557603",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505187282036981821",
+      "texto_sha256": "dc9613521ba6ab1287d49aa0b1ec0761ed767ee9a03fd52cb4d63ed665c5e558",
+      "adjuntos": []
+    },
+    {
+      "id": "1505188265962111086",
+      "fecha_utc": "2026-05-16T12:40:47.651000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "Jackie: **Ve como la Capitana se marcha de muy mal humor. Nunca la había visto así, normalmente, y por raro que parezca, es la más amable de toda la tripulación. Se gira a sus compañeros y levanta los hombros en señal de no saber que hacer.**\n\n**Babs, Mugre y Ojoausente se miran entre ellos bastante nerviosos. Tendrán que hablar con Nox y que lo solucione. O eso, o que Ione lo mate.**\n<@616683133374562304>",
+      "mensaje_sha256": "ff69a537522dcd922c3ba4e8ea5ad625819b31dd827d6db7cfa02da81bec7f93",
+      "tipo_discord": 19,
+      "referencia": "1505187282036981821",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505188265962111086",
+      "texto_sha256": "6b8d05cda8fc11d876c02ed0e2c50b324e06b76edf8163e9a8f3d6a44b9e7312",
+      "adjuntos": []
+    },
+    {
+      "id": "1505188295771160586",
+      "fecha_utc": "2026-05-16T12:40:54.758000+00:00",
+      "fecha_local": "2026-05-16",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "9ff69610a2255cdae6a76446cda7f20582ef9046f4691d42460273f3248720db",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1505188295771160586",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

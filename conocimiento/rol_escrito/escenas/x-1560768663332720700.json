@@ -1,0 +1,85 @@
+{
+  "id": "x-1560768663332720700",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1560768663332720700",
+  "hilo_id": "1558234683177963582",
+  "hilo_nombre": "Tutucan - La ciudad de los Elementos",
+  "titulo": "Carteles para el Gran Prix Multiversal",
+  "resumen": "Aparecen en Tutucan anuncios que invitan a inscribirse mediante el señor Lopato en una competición entre mundos.",
+  "relato": "Se colocan carteles en distintos puntos de Tutucan para reclutar participantes en el Gran Prix Multiversal. El anuncio dirige a los interesados al señor Lopato y promete grandes premios y tesoros. La ilustración presenta una carrera entre mundos con portales, criaturas salvajes, trampas, clima extremo y otros competidores. Se trata de una convocatoria: el mensaje no muestra inscripciones, una carrera disputada ni recompensas entregadas.",
+  "participantes": [],
+  "evidencias": [
+    {
+      "mensaje_id": "1560768663332720700",
+      "afirmacion": "Los carteles reclutan participantes y remiten al señor Lopato; el adjunto anuncia riesgos y premios.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El cartel se ha leído e inspeccionado completo. Sus promesas se conservan como publicidad del evento, no como resultados confirmados."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-10-16T21:37:27.018000+00:00",
+  "fin_utc": "2026-10-16T21:37:27.018000+00:00",
+  "fecha_local": "2026-10-16",
+  "intervalo": {
+    "anterior": 71,
+    "siguiente": 72,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560352956941865032",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 71,
+        "fecha": "2026-10-15",
+        "inicio_referencia_utc": "2026-10-15T18:02:01+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560352956941865032"
+      },
+      {
+        "capitulo": 72,
+        "fecha": "2026-10-16",
+        "inicio_referencia_utc": "2026-10-16T18:28:13+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1560768663332720700",
+      "fecha_utc": "2026-10-16T21:37:27.018000+00:00",
+      "fecha_local": "2026-10-16",
+      "editado_utc": null,
+      "texto": "**En varias partes de la ciudad de tutucan han sido plantados por varias partes de la ciudad**\nBuenas transeuntes estamos reclutando gente que no tenga miedo a vivir grandes aventuras y emociones fuera de este mundo apuntarse buscando a vuestro telonero de confianza.\nEl señor lopato.\nGrandes premios y tesoros le esperan a la persona valiente para aceptar el reto del Gran prix multiversal\n<@&1439948653996409004> \n🔴 fin de escena🔴",
+      "mensaje_sha256": "60fd90318e3b10f008e787d9ee5ab3da55d90d52f08c65537c57064980902b3b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1560768663332720700",
+      "texto_sha256": "eb478c1b389ddeac74a47eaa975acf9578360f0295e66dbd97198f1902201edc",
+      "adjuntos": [
+        {
+          "id": "1560768660044382379",
+          "nombre": "Cartel_del_Gran_Prix_Multiversal.png",
+          "tipo": "image/png",
+          "archivo": "adjuntos/1560768660044382379.png",
+          "url": "rol_escrito/adjuntos/1560768660044382379.png",
+          "bytes": 3371522,
+          "sha256": "58d7b3d7975d4d9dede638c3c42ec8afcd1406b1b94efd4aff8b775abac86408"
+        }
+      ]
+    }
+  ]
+}

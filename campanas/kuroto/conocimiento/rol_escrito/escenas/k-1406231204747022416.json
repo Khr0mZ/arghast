@@ -1,0 +1,297 @@
+{
+  "id": "k-1406231204747022416",
+  "campana": "kuroto",
+  "unidad_revision": "k-1406231204747022416",
+  "hilo_id": "1379945696089604209",
+  "hilo_nombre": "Sho, Barrios bajos - Capital de Kuroto",
+  "titulo": "Banzo se disculpa ante Thiary y pide proteger a Arwen",
+  "resumen": "Anuncia una incursión subterránea y conversa con Thiary sobre las drogas y la seguridad de la niña.",
+  "relato": "Banzo se presenta sin pedir información de pago y ofrece disculpas por haber impedido colaborar a Thiary. Ella lo acepta sorprendida, aunque no estrecha la mano. La conversación pasa al negocio de la droga: Thiary lo atribuye a la apertura exterior del Shogunato y a sus contactos en el Puerto de las Espadas, una atribución que aquí no se investiga.\n\nEl goliat anuncia que los Cazadores podrían hacer una incursión bajo el barrio. Thiary ya sabe de la visita previa de Kalista y su Guardián a las cloacas. Banzo le ofrece ayuda y le pide que tenga cuidado con Arwen; ella asegura apreciarla y mandar tres hombres a protegerla cada vez que entra. Banzo bromea con que harían falta otros tres para proteger a los primeros. Se despiden con respeto, sin fijar una operación conjunta.\n\nAl salir, Banzo encuentra a Archi y le reclama por no responder a la caracola. El gnomo dice haberla olvidado en Pétalos. Banzo le susurra una petición que el texto no detalla y Archi acepta antes de irse a la base. No se completa el contenido de esa instrucción privada.",
+  "participantes": [
+    "Banzo",
+    "Thiary",
+    "Archi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1406241514803302450",
+      "afirmacion": "Banzo se disculpa por su conducta anterior.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1406248339170922619",
+      "afirmacion": "Anuncia una posible incursión bajo el barrio.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1406255034030624859",
+      "afirmacion": "Thiary declara que tres hombres protegen a Arwen.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Se separan la negociación en la cofradía y el encuentro posterior del callejón."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-08-16T11:00:45.724000+00:00",
+  "fin_utc": "2025-08-16T12:54:36.950000+00:00",
+  "fecha_local": "2025-08-16",
+  "intervalo": {
+    "anterior": 146,
+    "siguiente": 147,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1405973993948975124",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1406697567479271588",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 146,
+        "fecha": "2025-08-15",
+        "inicio_referencia_utc": "2025-08-15T17:58:25+00:00",
+        "fin_estimado_utc": "2025-08-15T21:02:41+00:00",
+        "duracion_video_segundos": 11056,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1405973993948975124"
+      },
+      {
+        "capitulo": 147,
+        "fecha": "2025-08-17",
+        "inicio_referencia_utc": "2025-08-17T17:53:35+00:00",
+        "fin_estimado_utc": "2025-08-17T20:19:39+00:00",
+        "duracion_video_segundos": 8764,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1406697567479271588"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1406231204747022416",
+      "fecha_utc": "2025-08-16T11:00:45.724000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": null,
+      "texto": "Banzo : **llegaría encapuchado con una gran capa hasta la puerta de la cofradía de ladrones , toc toc pica ala puerta **",
+      "mensaje_sha256": "c3803b768b8ee1c2969b00f9363114a5425f14cc42574c36eb0e82dd5618ba94",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1406231204747022416",
+      "texto_sha256": "dd89755a00c08b20665a2a708df225b8fe26b57ada189b1f2e7f70d930450d85",
+      "adjuntos": []
+    },
+    {
+      "id": "1406234444632952832",
+      "fecha_utc": "2025-08-16T11:13:38.173000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": null,
+      "texto": "**Strug te abre la puerta y te mira con ese ojo pocho, te deja pasar a regañadientes como siempre y bajas las escaleras hasta el local de los Cuchillas Negras**\nThiary: Vaya, Banzo, que haces por aquí? Buscas información? **Sonríe maliciosa ya que eso tiene un pago**",
+      "mensaje_sha256": "151d044a35515515fa7487312b562fdd182a0874cf888313c62f3da254b24c69",
+      "tipo_discord": 19,
+      "referencia": "1406231204747022416",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1406234444632952832",
+      "texto_sha256": "c19475b2eadff4267263dc30067aef13205d66490aefd25b1eec12bc5503f663",
+      "adjuntos": []
+    },
+    {
+      "id": "1406237053208756255",
+      "fecha_utc": "2025-08-16T11:24:00.106000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": "2025-08-16T11:24:30.317000+00:00",
+      "texto": "Banzo : hola Thiary . \nOh nono  tranquila , **dice despreocupado **\nSolo he venido a dar una vuelta y al ver tu local me he dicho , \"no acabamos con buen sabor de boca la última vez \" \n\n**se acerca a la barra y le tiende la mano ** \nVengo a disculparme",
+      "mensaje_sha256": "447db0ff7bbc070b035778f600866a2af1cee3a73e77f7d4de26f75d8f696760",
+      "tipo_discord": 19,
+      "referencia": "1406234444632952832",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1406237053208756255",
+      "texto_sha256": "16563c96dfeb5c1299739a60e267a0e473c9e4c4b0b9e9e5d079f134fb75fde2",
+      "adjuntos": []
+    },
+    {
+      "id": "1406239631909064805",
+      "fecha_utc": "2025-08-16T11:34:14.916000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": null,
+      "texto": "Thiary: Eso si no me lo esperaba, el líder de los Cazadores viene a disculparse a mi humilde local! **Su sonrisa cambia a más divertida y te hace un gesto con la mano para invitarte a sentar.** ¿De que te quieres disculpar?",
+      "mensaje_sha256": "7d6440129743de839bba746cfd80d77b94a460445382b4f9c40ad198792b0991",
+      "tipo_discord": 19,
+      "referencia": "1406237053208756255",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1406239631909064805",
+      "texto_sha256": "05b63d892ae389f4ada08bf91f3d3d4273a39796f673e872b317cfbcbe21bbfd",
+      "adjuntos": []
+    },
+    {
+      "id": "1406241514803302450",
+      "fecha_utc": "2025-08-16T11:41:43.833000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": null,
+      "texto": "Banzo : El encontronazo del otro dia fue infantil por mi parte . \nTu buscabas lo mismo que nosotros . Y no te deje colaborar quizá por orgullo . \n\nSe cual es tu posición y que lo sombra debe convivir con la luz . \nAsí que disculpas \n**sigue con la mano extendida esperando que se la estreche**",
+      "mensaje_sha256": "050326a31fcaed3af24677300b34745125d68c2c6515c9abaf598430bcc594a8",
+      "tipo_discord": 19,
+      "referencia": "1406239631909064805",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1406241514803302450",
+      "texto_sha256": "93bf7f54a92675090d7f8da2473c17d7524de2ebabef21ba481ea7de9ad0cc2c",
+      "adjuntos": []
+    },
+    {
+      "id": "1406243462113656852",
+      "fecha_utc": "2025-08-16T11:49:28.108000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": null,
+      "texto": "Thiary: **Te mira de arriba abajo, con esa sonrisa que esconde más de lo que muestra** Almenos a ti te ha costado menos darte cuenta de mi posición que a la tritón. **Te sirve una copa** ¿\"Disculpas aceptadas\" se dice en estos casos? Nunca me he visto en esta situación",
+      "mensaje_sha256": "53950a80ddef8e6d8219c3139618232a84047e257b388153a0e153d6c1160660",
+      "tipo_discord": 19,
+      "referencia": "1406241514803302450",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1406243462113656852",
+      "texto_sha256": "8808bd67fbcfe89a0b5fb881387f02e8e523dde9db3a6a310a06f188c729b586",
+      "adjuntos": []
+    },
+    {
+      "id": "1406245035061809173",
+      "fecha_utc": "2025-08-16T11:55:43.128000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": null,
+      "texto": "Banzo : se suele estrechar la mano en señal de mutuo respeto **ignora la copa y retira su mano ** \n\nAquí nada pasa sin tu visto bueno no es asi . ?\n\nLo de la droga me hizo que pensar . \nO tu lo sabías y se te fue de las manos . O alguien esta intentando sacar tajada en tu territorio sin tu consentimiento.  \nEstas segura que tienes todo bajo control Thiary **lo dice serio , sin segundas ni para incriminar,  la pregunta es clara . Tiene todo bajo su control ? **",
+      "mensaje_sha256": "fda9141074a66b272de518941f1cef2455a0c0bcb272f920bfb322951fc13b9a",
+      "tipo_discord": 19,
+      "referencia": "1406243462113656852",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1406245035061809173",
+      "texto_sha256": "61ea03ad6299fa32dbe9ec037d3c8057c9f49e050aa3e00ca1f80d25cb7630a1",
+      "adjuntos": []
+    },
+    {
+      "id": "1406246714234372176",
+      "fecha_utc": "2025-08-16T12:02:23.474000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": null,
+      "texto": "Thiary: Lo de la droga fue culpa de tu Shogun por abrir las puertas al comercio exterior. Preguntale cuantos amigos hizo en el Puerto de las Espadas **Levanta la copa que acaba de servir y se la bebe de un trago mientras se señala a si misma** Eso le pasa por no venir a consultarle a su amiga del alma. ¿Pero no estás aquí para preguntarme eso, no? Y menos para disculparte... No te andes por las ramas y dime que quieres",
+      "mensaje_sha256": "4ed49932f93ccc3c1c7b72457ebac2983274da3b3f8d3a0caa6ac563bfe533a3",
+      "tipo_discord": 19,
+      "referencia": "1406245035061809173",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1406246714234372176",
+      "texto_sha256": "bac1d5cfb36bdc1a241725100500cf0c78891ec5e364eebc39897addae3e9031",
+      "adjuntos": []
+    },
+    {
+      "id": "1406248339170922619",
+      "fecha_utc": "2025-08-16T12:08:50.889000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": null,
+      "texto": "Banzo : *mucho ha tardado en decirlo*\n\n**Hace una pequeña sonrrisa**\n\nAndo tras la pista de algo o mas bien alguien . Aún no se bien bien el que . \nPero tengo motivos para pensar que se puede ocultar en el subsuelo . \n\n**eleva su mano y saca dos dedos ** \nPor 2 cosas he venido . \nLa primera es para informate que lo mas seguro nos veas por el barrio pronto para una incursión . \nEs un problema ?",
+      "mensaje_sha256": "d19a639156ecb74fefb18e8cfc9a00f3dba1539afe60572b8b5ee4a09f945c92",
+      "tipo_discord": 19,
+      "referencia": "1406246714234372176",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1406248339170922619",
+      "texto_sha256": "1e5670ed295654b601d97d914c075c95cf10b34b15981d5ba5b94bb332d429df",
+      "adjuntos": []
+    },
+    {
+      "id": "1406249253617008700",
+      "fecha_utc": "2025-08-16T12:12:28.910000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": null,
+      "texto": "Thiary: Me preguntaba cuanto ibais a tardar desde que el otro día bajaron la Shogun y su Guardián ahí abajo. **Bebe otro trago** ¿Queréis limpiar las cloacas de ratas?",
+      "mensaje_sha256": "712847df7b0fc68906cae26a7f4c52270d4d57629d0f575b70ec8c40f9a8a3ab",
+      "tipo_discord": 19,
+      "referencia": "1406248339170922619",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1406249253617008700",
+      "texto_sha256": "cfd1500d6ed83c7917264cdeec2ee86cf2821db0ae1c66bdaa1f48ad3179e252",
+      "adjuntos": []
+    },
+    {
+      "id": "1406249782099574885",
+      "fecha_utc": "2025-08-16T12:14:34.910000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": null,
+      "texto": "Banzo : Que mejor que disculparme sacando la basura de casa del vecino",
+      "mensaje_sha256": "07673d149f150fa9057c1f98b647781b6cb259360affbf5ac79d6fcfe9131a6f",
+      "tipo_discord": 19,
+      "referencia": "1406249253617008700",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1406249782099574885",
+      "texto_sha256": "86a0871f765f178b6627c0bc9add651fc0630806586d9c2b1d19d6871d14ac54",
+      "adjuntos": []
+    },
+    {
+      "id": "1406251936260558899",
+      "fecha_utc": "2025-08-16T12:23:08.502000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": null,
+      "texto": "Thiary: Uy, tengo otro tipo de basura que me es mas urgente sacar **Sonríe maliciosa** Pero se agradece el gesto. ¿Cual es la segunda?",
+      "mensaje_sha256": "425701c5c58bd60c0f28c083e614202d70c719051603ade6e6d1aa15e7f5f1f5",
+      "tipo_discord": 19,
+      "referencia": "1406249782099574885",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1406251936260558899",
+      "texto_sha256": "a15d6b589429f1c3edb92db6446cbf68c0b62250b5f396bce74e8b0e89b4e98e",
+      "adjuntos": []
+    },
+    {
+      "id": "1406254130829328515",
+      "fecha_utc": "2025-08-16T12:31:51.728000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": null,
+      "texto": "Banzo : si necesitas ayuda solo has de pedirla Thiary , es mas sencillo que disculparse.  Entiendo que son cosas nuevas para ti . Pero cuenta con eso . **te sonrrie ** \n\nLa segunda . Es un consejo . \nNo creo que seas muy temperamental a si que no creo que haga falta que te diga que no vendría nunca a tu a amenzarte **te sigue sonrriendo ** \n\nLa niña tiene un destino mucho mayor al tuyo y al mío.  \nYo no interferiré , pero anda con ojo. \nEsa criatura es la verdadera luz de esta tierra . \nSi se apaga,  ya sabes lo que pasa con una sombra cuando no tiene luz no ... \nPues eso ..  \n\nUn placer Thiary , te informaré cuando procedamos con la basura . \n**te hace un gesto bajando la cabeza a modo de respeto y despedía **",
+      "mensaje_sha256": "fbc90b345439c447e2f42c09c75444b7cfe2adb0843867060a565a165e53528f",
+      "tipo_discord": 19,
+      "referencia": "1406251936260558899",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1406254130829328515",
+      "texto_sha256": "42ce8d1b81eefcf8f652c926dcdef8ed7ff9b163ee461325fc4d5b4e30c33c82",
+      "adjuntos": []
+    },
+    {
+      "id": "1406255034030624859",
+      "fecha_utc": "2025-08-16T12:35:27.068000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": null,
+      "texto": "Thiary: ¿La pequeña? No te preocupes Líder de los Cazadores, me cae bien esa niña y no voy a hacerla daño. Viene a pedirme caramelos... Y siempre que entra en los barrios bajos, tengo a tres de mis chicos protegiendola de cerca **Te sonrie** No soy un monstruo...",
+      "mensaje_sha256": "b239c5b6b01b72d8cfbb7128c4ebc8efa3c03d3fd4fadbbb873ef27a08d6247a",
+      "tipo_discord": 19,
+      "referencia": "1406254130829328515",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1406255034030624859",
+      "texto_sha256": "6c7c4961826c9098604dfd2c65347ba67263b6efa66f39b7ede1742cccfa53ab",
+      "adjuntos": []
+    },
+    {
+      "id": "1406257534112632893",
+      "fecha_utc": "2025-08-16T12:45:23.134000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": null,
+      "texto": "Banzo : **te sonrrie **\nQue sean 6 **suelta una pequeña carcajada ** \n\n3 para vigilarla o otros 3 para proteger a los primeros.  \nEsa niña si que puede llegar a ser un pequeño monstruito . \n\nCuidate Thiary .\n**se gira para subir las escaleras **",
+      "mensaje_sha256": "16181daf164a44277a09f1d298c4953b58c2574979f137d81275268ab56d6bb7",
+      "tipo_discord": 19,
+      "referencia": "1406255034030624859",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1406257534112632893",
+      "texto_sha256": "5524bd49f240b0e5e980e8a70c76b6c7d552987ef9fdc8f759dac237af3393fc",
+      "adjuntos": []
+    },
+    {
+      "id": "1406258833294102609",
+      "fecha_utc": "2025-08-16T12:50:32.883000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": "2025-08-16T12:51:01.599000+00:00",
+      "texto": "Thiary: **La mujer se queda viendo como el goliat se marcha. Hace una sonrisa mientras bebe otro trago** Buen líder...",
+      "mensaje_sha256": "611ba5c003d82c23afb552109829ab46c5c2e31a8adfbfef18b99d390d081ee9",
+      "tipo_discord": 19,
+      "referencia": "1406257534112632893",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1406258833294102609",
+      "texto_sha256": "a43ceaa4428d3a90e8741f823d46a2981c63e0e00ae626af23dcad2493f7c2bf",
+      "adjuntos": []
+    },
+    {
+      "id": "1406259856985427988",
+      "fecha_utc": "2025-08-16T12:54:36.950000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": null,
+      "texto": "Banzo : *es la correcta para su posición* \n**banzo sale y se dirige hacia el taller de Viktor , antes de de llegar se cruzadas con Archi ** \nA ti te queria ver yo , porque no contestas a la caracola ..\nArchi: la olvide en el petalos voy por ella jefe \nBanzo : no soy tu jefe . **se acerca y le susurra algo ** \nArchi : otra vez de canguro ..  \nVale ... dalo por hecho me pongo a ello **dice refunfuñandoy sale de los barrios bajos en dirección a la Base ** \n\nBanzo : bien .. esa mujer Vervein . Quizá esta investigando ya ...",
+      "mensaje_sha256": "9e7bc1b7b9e3946dbcd08601db615f1833233ee66f4a76d9ecaa1bfd77c872ed",
+      "tipo_discord": 19,
+      "referencia": "1406258833294102609",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1406259856985427988",
+      "texto_sha256": "aabf1ff7b1750cd8ee3a77257d0658cf24c3b419cd620999dd4d396869a928db",
+      "adjuntos": []
+    }
+  ]
+}

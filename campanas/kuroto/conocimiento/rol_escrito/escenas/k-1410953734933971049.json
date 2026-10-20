@@ -1,0 +1,79 @@
+{
+  "id": "k-1410953734933971049",
+  "campana": "kuroto",
+  "unidad_revision": "k-1410953734933971049",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "El barco del Shogunato vuelve a Sho",
+  "resumen": "Los marineros descargan un navío dañado.",
+  "relato": "Una semana después de lo ocurrido durante una travesía no representada en este mensaje, el barco del Shogunato entra en el puerto de Sho. Presenta daños por el oleaje y por los rayos que Archi intentó capturar. Los marineros comienzan a descargar mercancías y equipajes. No se enumeran pasajeros ni se desarrollan aquí las acciones de aquella travesía.",
+  "participantes": [
+    "marineros del Shogunato"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1410953734933971049",
+      "afirmacion": "El navío llega y se descarga, con daños del viaje.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La llegada del barco y el entrenamiento son escenas distintas y se separan con sus fuentes.",
+    "Esta Chanecuxtli está en las fuentes de Kuroto; no se fusiona con identidades de Xoltacan por su nombre.",
+    "Gran y Suprema Líder es la forma infantil de llamar a Shizuka, no sustitución de Kalista como shogun ni nombramiento político demostrado."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-08-29T11:46:24.661000+00:00",
+  "fin_utc": "2025-08-29T11:46:24.661000+00:00",
+  "fecha_local": "2025-08-29",
+  "intervalo": {
+    "anterior": 152,
+    "siguiente": 153,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1410686619970699395",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1412135728854339686",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 152,
+        "fecha": "2025-08-28",
+        "inicio_referencia_utc": "2025-08-28T18:04:44+00:00",
+        "fin_estimado_utc": "2025-08-28T21:13:03+00:00",
+        "duracion_video_segundos": 11299,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1410686619970699395"
+      },
+      {
+        "capitulo": 153,
+        "fecha": "2025-09-01",
+        "inicio_referencia_utc": "2025-09-01T18:02:52+00:00",
+        "fin_estimado_utc": "2025-09-01T21:02:25+00:00",
+        "duracion_video_segundos": 10773,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1412135728854339686"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1410953734933971049",
+      "fecha_utc": "2025-08-29T11:46:24.661000+00:00",
+      "fecha_local": "2025-08-29",
+      "editado_utc": null,
+      "texto": "**Una semana más tarde de lo ocurrido en el barco del Shogunato. El navío llega al puerto de Sho, esta algo dañado por el fuerte oleaje y de esos rayos que intento capturar el gnomo. Los marineros empiezan a descargar las meecancias y equipajes del barco**\n<@753394009153732689> <@616683133374562304> <@171702246952665098>",
+      "mensaje_sha256": "2c534f25cb7a686a46dc776a24ddd4a67c58a4b44b9670323bff35c43a9ce42c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1410953734933971049",
+      "texto_sha256": "2072459e785b1bd14de8a41cf241fc47ccc5b5cc40bd6839ce3c3e076cf5f357",
+      "adjuntos": []
+    }
+  ]
+}

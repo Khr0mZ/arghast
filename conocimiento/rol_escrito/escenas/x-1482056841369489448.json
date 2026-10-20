@@ -1,0 +1,81 @@
+{
+  "id": "x-1482056841369489448",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1482056841369489448",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "La caza de Naór y el aviso de los barcos",
+  "resumen": "En un recuerdo de Aztlán, el rey Kamar interrumpe una jornada con su hija por una noticia de la costa.",
+  "relato": "Un flashback sitúa la escena un año antes en Aztlán, territorio leonin. Kamar entrega su lanza a su hija Naór para que cace y alimente a la familia. La joven acecha a un raptor emplumado, lo alcanza con el arma y se abalanza sobre él hasta matarlo. Su padre se muestra orgulloso y piensa que llegará a ser una gran reina; esa expectativa no es una coronación.\n\nEl soldado Zaka interrumpe la jornada para avisar de barcos acercándose a las costas del sur del Garfio. Kamar envía a Naór con su hermano y ordena reunir a los líderes de las familias en el templo de Razkhan. Ella se lleva la presa hacia territorio leonin. No se identifican los barcos ni se muestra una batalla posterior.",
+  "participantes": [
+    "Naór",
+    "Kamar",
+    "Zaka"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1482056841369489448",
+      "afirmacion": "El flashback muestra la caza de Naór y la orden de Kamar de convocar a las familias tras el aviso de barcos.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La fecha de publicación no convierte el flashback en un suceso contemporáneo de Shiaru.",
+    "No se identifica a Naór con otro personaje por compartir autor.",
+    "El hermano de Naór se menciona sin nombre ni presencia explícita."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-03-13T16:44:46.267000+00:00",
+  "fin_utc": "2026-03-13T16:44:46.267000+00:00",
+  "fecha_local": "2026-03-13",
+  "intervalo": {
+    "anterior": 15,
+    "siguiente": 16,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1481731102304370731",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1482097192952008844",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 15,
+        "fecha": "2026-03-12",
+        "inicio_referencia_utc": "2026-03-12T19:10:03+00:00",
+        "fin_estimado_utc": "2026-03-12T22:12:44+00:00",
+        "duracion_video_segundos": 10961,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1481731102304370731"
+      },
+      {
+        "capitulo": 16,
+        "fecha": "2026-03-13",
+        "inicio_referencia_utc": "2026-03-13T19:24:52+00:00",
+        "fin_estimado_utc": "2026-03-13T21:51:11+00:00",
+        "duracion_video_segundos": 8779,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1482097192952008844"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1482056841369489448",
+      "fecha_utc": "2026-03-13T16:44:46.267000+00:00",
+      "fecha_local": "2026-03-13",
+      "editado_utc": null,
+      "texto": "🦁  AZTLÁN ( territorio leonin ) 🦁 \n\n** FLASHBACK 1 año antes ** \n**se veria a una joven  leonina agazapada entre la maleza junto a otro leonin , este se veria con un gran porte musculado y sujetando una gran lanza ** \n\nKamar: Hoy te toca a ti hija , hoy alimentarás tu a nuestra familia . **le entrega la lanza**\n\nNaór: Gracias padre , así lo haré **agarra la lanza \nInhala y exhala aire por la nariz , se concentra en la presa . \nParece una especie de raptor emplumado.  \n\nEl arma sale disparada a gran velocidad impactando en la espalda de la criatura.  \nLa leonina sale a gran velocidad a cuatro patas deslizándose por la colina y salta encima del raptor clavando sus dientes  en la yugular . **\n\nLo has visto padre .. lo has visto ? \n\nKamar :**el leonin orgulloso baja la colina y sonrie **\n*se que serás una gran reina* \n\n**en ese momento llega uno de los soldados , es raro porque nadie interrumpe al rey cuando esta con su hija cazando ** \n\nZaka: Mi señor **dice con aliento cansado** \nSe están acercando barcos en las costas del sur del garfio \n\nKamar: Hija ... ve con tu hermano nos vemos en palacio\n\nNaór: ** Mira preocupada ** \nSi padre \n**ata de las 4 patas al raptor y se dirige hacia territorio leonin** \n\nKamar : Zaka reune a los líderes de las familias en el templo de Razkhan \n\n<@&1439948653996409004> \n\n🔴 FIN DEL FLASHBACK🔴",
+      "mensaje_sha256": "79f9517bb46661348e6d4f688d9db7c75fa80daa6fc19adc5b14e776bb153c57",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1482056841369489448",
+      "texto_sha256": "5f0e3ee034db20053840959d89b08a2f76c46ad6bb67096ce235711bb0a1d26f",
+      "adjuntos": []
+    }
+  ]
+}

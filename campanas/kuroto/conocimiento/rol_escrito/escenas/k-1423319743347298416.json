@@ -1,0 +1,240 @@
+{
+  "id": "k-1423319743347298416",
+  "campana": "kuroto",
+  "unidad_revision": "k-1423319743347298416",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Seraphina instruye a la tripulación de La Flor de Loto",
+  "resumen": "La contramaestre inicia un viaje de aprendizaje hacia Puerto de las Espadas con marineros novatos.",
+  "relato": "Seraphina lleva una semana instruyendo a nuevos navegantes de Kuroto en La Flor de Loto, anclada cerca de Sho. Exige disciplina con gritos, pero dedica tiempo a explicar los errores y ofrece una cerveza a quienes hagan bien los nudos. El capitán Spock expresa su preocupación por un viaje con toda una tripulación inexperta. Ella defiende aprender en el mar y el capitán acata las órdenes del Shogunato: el navío zarpa hacia el océano de Kiushi. Durante la navegación, Seraphina sigue corrigiendo a los aprendices. Enseña al joven Pic a atar los cabos usando maña en vez de una fuerza que no tiene; él reproduce la maniobra y consigue hacerlo. Al conversar junto al timón, Spock aclara que el viaje hasta Puerto de las Espadas es largo y mantiene sus reservas. La contramaestre lo anima y disfruta de volver al mar. El barco continúa hacia Brunami del Este, sin llegar todavía ni mostrar tormentas o pérdidas.",
+  "participantes": [
+    "Seraphina",
+    "capitán Spock",
+    "Pic",
+    "marineros de La Flor de Loto"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1423323483705839802",
+      "afirmacion": "Spock expresa reparos ante la inexperiencia de la tripulación.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1423327699539329045",
+      "afirmacion": "La Flor de Loto zarpa de Kuroto.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1423331408193130587",
+      "afirmacion": "Pic consigue atar los cabos después de la enseñanza.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1423340704683528263",
+      "afirmacion": "El navío continúa hacia Brunami del Este.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La acción está a bordo y en ruta, pese al hilo de Sho.",
+    "La amenaza hipotética de hundimiento del cierre es una broma narrativa, no naufragio ocurrido.",
+    "El océano Kiushi es un lugar, no se confunde con el alquimista homónimo."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2025-10-02T14:44:30.816000+00:00",
+  "fin_utc": "2025-10-02T16:07:48.388000+00:00",
+  "fecha_local": "2025-10-02",
+  "intervalo": {
+    "anterior": 159,
+    "siguiente": 160,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1420832479270408274",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1423373613540573317",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 159,
+        "fecha": "2025-09-25",
+        "inicio_referencia_utc": "2025-09-25T18:00:44+00:00",
+        "fin_estimado_utc": "2025-09-25T20:59:58+00:00",
+        "duracion_video_segundos": 10754,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1420832479270408274"
+      },
+      {
+        "capitulo": 160,
+        "fecha": "2025-10-02",
+        "inicio_referencia_utc": "2025-10-02T18:18:19+00:00",
+        "fin_estimado_utc": "2025-10-02T21:07:14+00:00",
+        "duracion_video_segundos": 10135,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1423373613540573317"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1423319743347298416",
+      "fecha_utc": "2025-10-02T14:44:30.816000+00:00",
+      "fecha_local": "2025-10-02",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\n**Me dediqué toda la semana a instruir a los nuevos navegantes de Kuroto, explicandoles de manera suave y educada la complicada vida que hay en alta mar**\n\nA VER PEDAZOS DE IMBÉCILES, CÓMO SE LES OCURRE ATAR LA CUERDA Y TODAVÍA PONERLE UN MOÑITO?!, ESTAN CONCIENTES DE QUE SI ESA CUERDA DE SUELTA EN MEDIO DE UNA TORMENTA, USTEDES VAN A TERMINAR CAYENDO AL MAR Y YA NO VAN A VOLVER?!, ESTAN ENTENDIENDO ESO?!\n\n**Realmente me estaba tomando muy enserio el entrenamiento, cada día de la semana lo destinaba a un tema en específico y no me detenía hasta que lo entendieran perfectamente**\n\nBueno, sigan haciendo los nudos, quien lo haga bien, le voy a invitar una cerveza, de acuerdo?",
+      "mensaje_sha256": "4655fee11372e5b829f4194994569ab173457cf060efecb9d5bc4e194d5f80ed",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1423319743347298416",
+      "texto_sha256": "1ae72af64bb5c7d0a93ef78c84fa63f1d0dc6b4ba369b303a2481b53368f972f",
+      "adjuntos": []
+    },
+    {
+      "id": "1423323483705839802",
+      "fecha_utc": "2025-10-02T14:59:22.587000+00:00",
+      "fecha_local": "2025-10-02",
+      "editado_utc": null,
+      "texto": "**El gran navio llamado \"La Flor de Loto\" esta anclado a unas cuantas millas del Puerto de Sho. Los pobres manineros novatos, llevan toda la semana siguiendo tus órdenes entre gritos y eructos con sabor a cerveza. Parece que algunos aún están muy verdes, pero tiene potencial si se les instruye bien. Mientras revisas los nudos que han hecho, se acerca a ti el Capitán Spock, un humano de dos metros muy fortachos y con una larga barba negra.**\nCapitan Spock: Señorita Seraphina, estamos preparados para zarpar. Cuando usted quiera. **Se acerca a ti un poco y te dice por lo bajo** ¿Cree usted que es buena idea hacer un trayecto con toda una tripulación de novatos? Me imagino que quiere hacer que aprendan a base de porrazos, pero... ¿No serà peligroso?",
+      "mensaje_sha256": "1c00235247a843d394e0b71457bd643fc1aa233d8713740f5b49ce80c7f9b984",
+      "tipo_discord": 19,
+      "referencia": "1423319743347298416",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1423323483705839802",
+      "texto_sha256": "56cddc0c2799f88d6a330356a0ceba273cdcddb303675f0515e2ad80a9717852",
+      "adjuntos": []
+    },
+    {
+      "id": "1423325377446543432",
+      "fecha_utc": "2025-10-02T15:06:54.090000+00:00",
+      "fecha_local": "2025-10-02",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\nCapitan, sabe perfectamente que los marineros no se hacen en tierra firme, es necesario que sientan el viento húmedo en sus mejillas, el vaivén de las olas, sus estómagos necesitan acostumbrarse a la incertidumbre... Solo será un pequeño paseo Capitan, no se preocupe \n\n**Para alcanzar su espada, dí un pequeño brinco y le dí dos palmaditas**\n\nConfíe en mi, de acuerdo?",
+      "mensaje_sha256": "2b4b44f6c7153da8c8c79ce5269e984cf9fedd2e84f65f655617004d141687b1",
+      "tipo_discord": 19,
+      "referencia": "1423323483705839802",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1423325377446543432",
+      "texto_sha256": "2d7e6b40198ec025d86c8ed3774dc11ca2f04087392e6e74d2528c83e3b4398c",
+      "adjuntos": []
+    },
+    {
+      "id": "1423327699539329045",
+      "fecha_utc": "2025-10-02T15:16:07.720000+00:00",
+      "fecha_local": "2025-10-02",
+      "editado_utc": "2025-10-02T15:16:44.416000+00:00",
+      "texto": "Capitán Spock: En usted confío, señorita, pero no confío en alta mar y en tener una tripulación inexperta. Pero las órdenes del Shogunato, son órdenes así que... PREPARAROS MARINEROS DE AGUA DULCE, HOY SABRÉIS LO QUE ES LA VIDA EN ALTA MAR! **Ves que empieza a dar colejas a los marineros para que trabajen y empiecen a preparar todo para zarpar. En poco rato La Flor de Loto se aleja de las costas de Kuroto para adentrarse en el océano de Kiushi**",
+      "mensaje_sha256": "8319e6d1f91d83edcab6845844ec1e8ed9efdc83332f8edcdc151c68d57bf3dc",
+      "tipo_discord": 19,
+      "referencia": "1423325377446543432",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1423327699539329045",
+      "texto_sha256": "6766d55f52e663acda613874d3a858bbd997dd894c01ae32ec7333f0d1cb71ff",
+      "adjuntos": []
+    },
+    {
+      "id": "1423329089321701407",
+      "fecha_utc": "2025-10-02T15:21:39.070000+00:00",
+      "fecha_local": "2025-10-02",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\n**Mientras navegabamos, me daba cortos paseos entre la tripulación, quería ver si eran capaces de seguir al pie de la letra mis indicaciones pero ahora desde este lugar**\n\n**Procuraba prestar atención sobre todo a los que se les complicaba un poco más o los que veía un poco más inexpertos, teniendo ese tacto rudo pero sin dejar de explicarles hasta que pudieran entender, podría tener ese carácter de los mil diablos pero jamás me negaría a enseñarles, sobre todo porque yo alguna vez fui ellos**\n\nLO ESTAN HACIENDO BIEN, SI VAN A VOMITAR QUE SEA AFUERA DEL BARCO, SI NO, VAN A TENER QUE LIMPIARLO!!",
+      "mensaje_sha256": "4c3625100d484c2d3f532adbe6b5c6c2d34fa4d8cd7b4217491b1c0973c680b5",
+      "tipo_discord": 19,
+      "referencia": "1423327699539329045",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1423329089321701407",
+      "texto_sha256": "951a8a06edc9ca38225c104d2dc1177f85ef34fa01987401a8258eaaec30b6de",
+      "adjuntos": []
+    },
+    {
+      "id": "1423329870544638083",
+      "fecha_utc": "2025-10-02T15:24:45.328000+00:00",
+      "fecha_local": "2025-10-02",
+      "editado_utc": "2025-10-02T15:25:12.345000+00:00",
+      "texto": "Pic: **Un joven humano de unos veinte años de una complexión esmirriada, intenta atar los cabos en un lateral del navio, pero ver perfectamente que intenta hacer fuerza y claro, necesita hacer una fuerza que no tiene. Y hay veces se necesita más maña que fuerza**",
+      "mensaje_sha256": "fedf4637126c0b6482fb6da51bd5d69c87a8d139c56da4bfc108bdebb5e16b9e",
+      "tipo_discord": 19,
+      "referencia": "1423329089321701407",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1423329870544638083",
+      "texto_sha256": "a01001e875898b378c329b18edb84b1853930fc426217564140c60b0e3bacf14",
+      "adjuntos": []
+    },
+    {
+      "id": "1423330832415719585",
+      "fecha_utc": "2025-10-02T15:28:34.656000+00:00",
+      "fecha_local": "2025-10-02",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\n**Fijé mi mirada hacia ese novato, me dió algo de gracia**\n\nA ver, te enseño, PERO VA A SER LA PRIMERA Y ÚLTIMA VEZ, ASI QUE MAS TE VALE PONER ATENCIÓN!!\n\n**Le expliqué pasó a paso como tenía que hacerle**\n\nEsto es cuestión de ingenio, a veces no es necesario la fuerza, solo saber pensar en el momento y resolverlo, de acuerdo?\n\n**Le dí unas palmaditas en el hombro**",
+      "mensaje_sha256": "52d6ab44da723318c6ee3611e2ccb6237ebc7467c423223871decefece505820",
+      "tipo_discord": 19,
+      "referencia": "1423329870544638083",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1423330832415719585",
+      "texto_sha256": "4f325774eefe6f71b37b19902429ef10b2f1bd6434c569905070dc5d5e502b8e",
+      "adjuntos": []
+    },
+    {
+      "id": "1423331408193130587",
+      "fecha_utc": "2025-10-02T15:30:51.932000+00:00",
+      "fecha_local": "2025-10-02",
+      "editado_utc": null,
+      "texto": "Pic: **Te escucha atentamente y te observa con todo detalle para limitarte luego. Y eso hace, imita tus movimientos y sigue tus consejos pudiendo atar los cabos perfectamente. Levanta la cabeza y te mira con una sonrisa de agradecimiento, luego se marcha al otro lado del navio para atar los otros cabos**",
+      "mensaje_sha256": "daa4f26a52226b9fbbe24f892d73249eca90baae31fb4e143735e8ffc68c959d",
+      "tipo_discord": 19,
+      "referencia": "1423330832415719585",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1423331408193130587",
+      "texto_sha256": "9d449a3aa8174b78d63b68577d121a5dc291014fb81fe40d2f82e84d43ad0259",
+      "adjuntos": []
+    },
+    {
+      "id": "1423333336344035410",
+      "fecha_utc": "2025-10-02T15:38:31.639000+00:00",
+      "fecha_local": "2025-10-02",
+      "editado_utc": null,
+      "texto": "Seraphina: \n\n**Hacer esto me traía gratos recuerdos de mis viajes, pero poco a poco se iba desapareciendo al momento en el que recordé como me tiraron al mar, sin piedad alguna**\n\n*Es parte de la vida pirata, siempre se tiene un puñal apuntando en la espalda*\n\n**Subí hasta el timón, quedando a lado del Capitán**\n\nCómo los ve Capitan?, nada mal, no?",
+      "mensaje_sha256": "47363be6636a88bc0a7df15163d1c13991d717e1d5dababcd502c96c163b7e0e",
+      "tipo_discord": 19,
+      "referencia": "1423331408193130587",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1423333336344035410",
+      "texto_sha256": "2bd1a8caab567017514c616bed821895bbe1e5180d5a2337f60ec236d40c44eb",
+      "adjuntos": []
+    },
+    {
+      "id": "1423334452800520233",
+      "fecha_utc": "2025-10-02T15:42:57.823000+00:00",
+      "fecha_local": "2025-10-02",
+      "editado_utc": null,
+      "texto": "Capitán Spock: Bueno, de momento bien. Veremos cuando entremos en alta mar. El viaje hasta Puerto de las Espadas es largo **Ves que tiene el timon bien agarrado y su cara muestra algo de preocupación. No le gusta hacer viajes largos con novatos**",
+      "mensaje_sha256": "bebc559358f285c565b4820e195d734c0aff1ce35d6bb147f98350b567cd2121",
+      "tipo_discord": 19,
+      "referencia": "1423333336344035410",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1423334452800520233",
+      "texto_sha256": "1a2452e573c6c9fe83433bb528bd084f3707063bdeede54372e183e80b177cb4",
+      "adjuntos": []
+    },
+    {
+      "id": "1423338802587500737",
+      "fecha_utc": "2025-10-02T16:00:14.893000+00:00",
+      "fecha_local": "2025-10-02",
+      "editado_utc": null,
+      "texto": "Seraphina: \n\nDeje de preocuparse Capitan, que teniendo a la tempestad de su lado, cualquier tormenta parecerá una caricia de verano jajajajaja \n\n**Me recargué en el barandal, disfrutando del olor**\n\nSe siente bien volver...",
+      "mensaje_sha256": "62c7e8b8b361d334f980ff11181fc999c10c21b7a3cb3d8d3a30162950971fe5",
+      "tipo_discord": 19,
+      "referencia": "1423334452800520233",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1423338802587500737",
+      "texto_sha256": "ffd143c2a659e832865c0d912eed2ffee71d8e1debfbf6879b26c9696f0e6a01",
+      "adjuntos": []
+    },
+    {
+      "id": "1423340704683528263",
+      "fecha_utc": "2025-10-02T16:07:48.388000+00:00",
+      "fecha_local": "2025-10-02",
+      "editado_utc": "2025-10-02T16:27:23.243000+00:00",
+      "texto": "**Y la Flor de Loto navega a toda vela por el océano en dirección al continente de Brunami del Este. Será una dura però buena practica para los novatos. Bueno, sino la cagan y el barco se hunde....**\n\n🔴Fin de la escena. De momento🔴",
+      "mensaje_sha256": "95c7042b6983550563e59c3c9147e3dea50aec6aa25143714a54fab002ec535a",
+      "tipo_discord": 19,
+      "referencia": "1423338802587500737",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1423340704683528263",
+      "texto_sha256": "33ad78ce917c7ab28ca587f36500531d4efb24239f89021b0dbb7fa898d219f3",
+      "adjuntos": []
+    }
+  ]
+}

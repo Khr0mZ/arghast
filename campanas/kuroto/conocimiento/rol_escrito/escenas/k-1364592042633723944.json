@@ -1,0 +1,285 @@
+{
+  "id": "k-1364592042633723944",
+  "campana": "kuroto",
+  "unidad_revision": "k-1364592042633723944",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "Aka rechaza la patrulla individual de Kaniza",
+  "resumen": "Kaniza informa de la hostilidad de las tropas y solicita acercarse solo a las puertas. Aka se lo prohíbe; Gur irrumpe y recibe un panorama de la situación del sur.",
+  "relato": "Kaniza solicita audiencia con Aka al terminar sus tareas. La comandante está recibiendo informes sobre la cúpula y preparando su arco. El nuevo cazador describe la creciente tensión de los soldados con su grupo y pide permiso para acercarse solo a las puertas, esperando estudiar sus inscripciones sin arriesgar otras vidas.\n\nAka recuerda que ya reprendió a Banzo y Kurobane por aproximarse y rechaza la solicitud. Explica que las guardias permanecen a distancia de seguridad y que ha acercado a los soldados a los asentamientos para protegerlos de la influencia de las puertas. Kaniza acepta la orden, aunque solicita exponer otra idea.\n\nGur entra entonces entre protestas de los guardias y saluda a ambos con sus apodos habituales. Aka permite que pase y le explica que el sur sigue intranquilo: no saben por dónde aparecerán los sectarios, los yokai se muestran imprevisibles, faltan suministros y la gran cúpula parece cada vez más agrietada. Un aviso de moderación detiene el rol durante la emisión antes de que termine la conversación.",
+  "participantes": [
+    "Kaniza",
+    "Aka",
+    "Gur"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1364618464517558293",
+      "afirmacion": "Kaniza informa de las tensiones y solicita una patrulla individual hacia las puertas.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1364638733550223502",
+      "afirmacion": "Aka deniega el permiso y mantiene a las tropas lejos de la influencia de las puertas.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1364661932321406986",
+      "afirmacion": "Aka explica a Gur la escasez, la incertidumbre militar y el deterioro aparente de la cúpula.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "El último mensaje es una pausa administrativa por el comienzo del stream; la conversación continúa en la unidad k-1364724630686011614.",
+    "Paka y Chamiza son las formas con que Gur se dirige aquí a Aka y Kaniza."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2025-04-23T13:21:35.858000+00:00",
+  "fin_utc": "2025-04-23T18:39:02.075000+00:00",
+  "fecha_local": "2025-04-23",
+  "intervalo": {
+    "anterior": 107,
+    "siguiente": 108,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1364309009938645093",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1364670948451811419",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 107,
+        "fecha": "2025-04-22",
+        "inicio_referencia_utc": "2025-04-22T18:36:39+00:00",
+        "fin_estimado_utc": "2025-04-22T20:27:04+00:00",
+        "duracion_video_segundos": 6625,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1364309009938645093"
+      },
+      {
+        "capitulo": 108,
+        "fecha": "2025-04-23",
+        "inicio_referencia_utc": "2025-04-23T18:34:49+00:00",
+        "fin_estimado_utc": "2025-04-23T21:43:30+00:00",
+        "duracion_video_segundos": 11321,
+        "tipo_referencia": "aviso_de_contraste",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1364670948451811419"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida. Una hora tomada de un aviso con título discrepante se utiliza solo como referencia aproximada de ese día."
+  },
+  "fuentes": [
+    {
+      "id": "1364592042633723944",
+      "fecha_utc": "2025-04-23T13:21:35.858000+00:00",
+      "fecha_local": "2025-04-23",
+      "editado_utc": null,
+      "texto": "<@226504798978048000> \n**Un rato más tarde, lo justo como para que hubieran terminado las tareas del día y estuviera de libre, y se hubiera hecho con su propio tentempié por los alrededores...**\n\nKaniza: ¿Comandante Aka? \n\n**Una mano puso una mano en la puerta de la tienda, lo justo para que se le pudiera oir pedir permiso para entrar.**\n\nKaniza: Soy uno de los Cazadores. ¿Permiso para reportar?",
+      "mensaje_sha256": "723adbf51671d3d9e9cb96fcf6301b88c366f34667e76b88d197e7fdd2fb5cc7",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1364592042633723944",
+      "texto_sha256": "d45670a7f056360549fcb18e51f06732b75252fe091c4858b2479e67e4591a55",
+      "adjuntos": []
+    },
+    {
+      "id": "1364611815308267520",
+      "fecha_utc": "2025-04-23T14:40:10.031000+00:00",
+      "fecha_local": "2025-04-23",
+      "editado_utc": "2025-04-23T14:41:28.345000+00:00",
+      "texto": "Aka:\n\n**Esta recibiendo los informes de diferentes generales sobre la situacion de la cupula, mientras ella pone a punto su arco y prepara las flechas**\n\nAdelante, pasa\n\n<@366293034847174657>",
+      "mensaje_sha256": "f1ebeb64b148b4fd57e62deab2779e6d5678f94b79e9ea486825202a31d3e4a4",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1364611815308267520",
+      "texto_sha256": "6c12248843a8fff59f6d76437377259b3d694c6f021199b37f0629275735d2ad",
+      "adjuntos": []
+    },
+    {
+      "id": "1364614117486493847",
+      "fecha_utc": "2025-04-23T14:49:18.913000+00:00",
+      "fecha_local": "2025-04-23",
+      "editado_utc": null,
+      "texto": "**Kaniza asintió y sujetó la tela de la puerta para entrar.**\n\nKaniza: Gracias, con permiso.\n\n**Era la primera vez que estaba cara a cara con la persona que dirigía todo aquello, como muy mínimo la que dirigía todo aquello en cuanto a los Cazadores se refería.**\n\nKaniza: Soy uno de los Cazadores **mostró el signo por unos momentos, guardándolo de nuevo **así que estoy a sus órdenes. Kaniza. Venía a reportar.",
+      "mensaje_sha256": "6e510e6f2ec6107dc6c919ceb994d0e19b9819e5461f0c04f90388939185972a",
+      "tipo_discord": 19,
+      "referencia": "1364611815308267520",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1364614117486493847",
+      "texto_sha256": "e92bfdb156cd39aea6f45fcec942240a3251081a492306624e72faefc7a2a1db",
+      "adjuntos": []
+    },
+    {
+      "id": "1364616494247317587",
+      "fecha_utc": "2025-04-23T14:58:45.577000+00:00",
+      "fecha_local": "2025-04-23",
+      "editado_utc": null,
+      "texto": "Aka: \n\nBueno, bajo las ordenes del mismisimo shogun y de nuestra señora Rua. \n\n**Diria mientras mira con firmeza al nuevo cazador**\n\nMuchos cazadores nuevos ultimamente, Banzo, Kalista, el ninja, ahora tu...\n\n**Te dice mientras te apunta con el arco pero sin flechas, comprobando la tension de la cuerda**\n\nQue querias reportar?",
+      "mensaje_sha256": "5c84ae785d29bfccccbf06dae0fd43348731aadfcbaeb505691f498785171043",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1364616494247317587",
+      "texto_sha256": "fbb2da51b090c2a9689809350d229e7749962f920f3527527855cb93a22de0d3",
+      "adjuntos": []
+    },
+    {
+      "id": "1364618464517558293",
+      "fecha_utc": "2025-04-23T15:06:35.326000+00:00",
+      "fecha_local": "2025-04-23",
+      "editado_utc": null,
+      "texto": "**¿Banzo y Kalista eran también nuevos? Primera noticia que tenía sobre el particular. El ninja, no era exactamente un Cazador, pero no iba a ser él el primero que se quejase de nada de eso. Primero, era un paisano, y echaba de menos gente que entendiese de qué hablaba: y luego, su posición en el grupo y por tanto los recursos de que disponía o la capacidad de juzgar que tuviera desde esa posición eran... los que eran.**\n\nKaniza: Las tensiones entre las tropas parecen estar incrementando con respecto a los Cazadores **comentó** hay un Cazador que no está evitando las cosas como debería y eso podría ser utilizado como arma arrojadiza por otras personas, así que, bueno.\n\n**Explicó, en una posición de inclinación para mostrar respetos.**\n\nKaniza: Si la Comandante lo permite, querría realizar una patrulla individual hasta la puerta. ¿Es posible que pueda conseguir algo de las inscripciones y similares lo bastante cerca, y así no habría que arriesgar las vidas de samuráis ni soldados?",
+      "mensaje_sha256": "9a7c73f1c2c9b89821e1f1f27528a0a36ce3b3765c0d99b1b9b7f1071175c2b3",
+      "tipo_discord": 19,
+      "referencia": "1364616494247317587",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1364618464517558293",
+      "texto_sha256": "1bf7cb085c1516bfb54b854bc044bbe5af72b109464f767e5660ddfbb72a2e2d",
+      "adjuntos": []
+    },
+    {
+      "id": "1364638733550223502",
+      "fecha_utc": "2025-04-23T16:27:07.840000+00:00",
+      "fecha_local": "2025-04-23",
+      "editado_utc": null,
+      "texto": "Aka:\n\n**Alza levemente la cabeza mirando al novatillo**\n\nLes di una reprimenda a Banzo y Kurobane por andar cerca. Aunque ahora me pidas permiso, no te lo voy a conceder.\n\nLos samurais estan a una distancia de seguridad en los puestos de vigilia, y reorganice a la guardia para estar mas cerca de los asentamientos, ya que cerca de las puertas hay una influencia poderosa.\n\nSi hay alguno que se acerca es porque desafia ordenes o no aprecia a Kuroto",
+      "mensaje_sha256": "f72a0debb703129a8f3cefc378c115cfabb238aa0297ad3d61c9937e43ca7584",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1364638733550223502",
+      "texto_sha256": "63afac1f66a950f65a86cff7539e20f8157dabc1e61b865942812a10c16ffbec",
+      "adjuntos": []
+    },
+    {
+      "id": "1364654025986801834",
+      "fecha_utc": "2025-04-23T17:27:53.841000+00:00",
+      "fecha_local": "2025-04-23",
+      "editado_utc": null,
+      "texto": "**Influencia poderosa... asumía que podía ser algo por el estilo. Realizó un asentimiento.**\n\nKaniza: Una orden es una orden. Continuaré trabajando en el encampamento con los soldados desplegados, entronces, a menos que ordene una cosa.\n\n*\"mmmm...\"*\n\nKaniza: ¿Permiso para exponer algo, comandante?",
+      "mensaje_sha256": "eb955e312e2c97ca8e7b17cac49b67c82e5ed24a923827e4d9fd2fca4ea638a6",
+      "tipo_discord": 19,
+      "referencia": "1364638733550223502",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1364654025986801834",
+      "texto_sha256": "20a6ef15509f2bcd007f11e63c86d0d958dfeb7cce5abc3230e7704f7225b42d",
+      "adjuntos": []
+    },
+    {
+      "id": "1364655486439391363",
+      "fecha_utc": "2025-04-23T17:33:42.040000+00:00",
+      "fecha_local": "2025-04-23",
+      "editado_utc": null,
+      "texto": "**se empiezan a escuchar alborotos en el campanento**\nSoldado: pero no puedes pasar , está ocupada , que no !!! Pero que alguien lo detenga !!!",
+      "mensaje_sha256": "e9cd3f674ec67879c83a86b1d114648b696c8b02a67d93f1e0eff5f669fb0be2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1364655486439391363",
+      "texto_sha256": "c0d868e13c2ae2ec3758ad4f044d1e62e9ef15a9fbbb9ef9749232e774b26dab",
+      "adjuntos": []
+    },
+    {
+      "id": "1364655716891234445",
+      "fecha_utc": "2025-04-23T17:34:36.984000+00:00",
+      "fecha_local": "2025-04-23",
+      "editado_utc": null,
+      "texto": "Gur:**entra directamente en la tienda de Aka chocándose con un hombre con un cubo en la cabeza ** PAKAAAAA cuanto tiempo sin verte !!",
+      "mensaje_sha256": "047258fe39e5c1ce4801515dfa290848d93abb12f96b9440155fc868c49c1f23",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1364655716891234445",
+      "texto_sha256": "d8215e0ae628b25aecf9162317468e6db3de0fc7cac145814763960f59a68042",
+      "adjuntos": []
+    },
+    {
+      "id": "1364655909443211397",
+      "fecha_utc": "2025-04-23T17:35:22.892000+00:00",
+      "fecha_local": "2025-04-23",
+      "editado_utc": null,
+      "texto": "**uno de los soldados intenta tirar de Gur sin demasiado éxito ** lo siento mi general en seguida le saco de aquí",
+      "mensaje_sha256": "6ef1081cc41e1e8f438ce0dd36fa71009ac3c7031a50bfd466e9499af48af96a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1364655909443211397",
+      "texto_sha256": "5595d76e26306512e527226199cfba3ebd5a37fc7c56ffc82b5b9443cd030126",
+      "adjuntos": []
+    },
+    {
+      "id": "1364656396372803666",
+      "fecha_utc": "2025-04-23T17:37:18.985000+00:00",
+      "fecha_local": "2025-04-23",
+      "editado_utc": "2025-04-23T17:40:12.869000+00:00",
+      "texto": "**El hombre del cubo en la cabeza, de hecho, no le dejó pasar por encima (y delante) suya con tanta facilidad como podría haber esperado. Hubo una resistencia, o al menos la habría hasta que se dijera otra cosa por parte de quien cortaba el bacalao en esa tienda.**\n\nKaniza: Campeón Gur. Felicidades por su victoria.\n\n**Saludó.**",
+      "mensaje_sha256": "78e9e1fda38c2e70aa0be28a11e781319b7887e4cc1b39426009751317e9a6ee",
+      "tipo_discord": 19,
+      "referencia": "1364655716891234445",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1364656396372803666",
+      "texto_sha256": "a91e962da244c578c144604d56ef715db5ff822ff8715c111c161017e7885c93",
+      "adjuntos": []
+    },
+    {
+      "id": "1364657521989517343",
+      "fecha_utc": "2025-04-23T17:41:47.353000+00:00",
+      "fecha_local": "2025-04-23",
+      "editado_utc": null,
+      "texto": "Gur : hombre Chamiza cuánto tiempo no sabía que tabas pa aquí,",
+      "mensaje_sha256": "7cf6d7fd56f3ecbf0f8d8965cb0569f811f9bd0b6ac6024fa78d6357f65ef614",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1364657521989517343",
+      "texto_sha256": "d609f2d2950821b914089296161065d8a2c5180b9741d95ffcbfe2696b6fb9ba",
+      "adjuntos": []
+    },
+    {
+      "id": "1364657739137159258",
+      "fecha_utc": "2025-04-23T17:42:39.125000+00:00",
+      "fecha_local": "2025-04-23",
+      "editado_utc": "2025-04-23T17:42:55.012000+00:00",
+      "texto": "Si, ahora soy campeón de todo Kuroto aunque lo único divertio del combate fue el final y decían que no era del torneo pero el resto fue como ir de caza",
+      "mensaje_sha256": "073a1627cc0a3bcfa6984ffca516686e3fe0a95cfd3e01fe4bc52ac0a2f6cef0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1364657739137159258",
+      "texto_sha256": "87959586e1471847af80e911c730141d42f4480ba0257cd99fd960cd6e52972b",
+      "adjuntos": []
+    },
+    {
+      "id": "1364658016200425554",
+      "fecha_utc": "2025-04-23T17:43:45.182000+00:00",
+      "fecha_local": "2025-04-23",
+      "editado_utc": null,
+      "texto": "**mira a Aka ** perdona que tengo que hablar con Paka, <@226504798978048000> necesito saber cómo ta esto del sur",
+      "mensaje_sha256": "7c389cca3c8aca372b0e019ce872c7aa132c7975fe9357c4470917904472f423",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1364658016200425554",
+      "texto_sha256": "b88a00a27e67d2286f7aad105e19052dea3a8666b5274807a6c28e7159b43d85",
+      "adjuntos": []
+    },
+    {
+      "id": "1364661932321406986",
+      "fecha_utc": "2025-04-23T17:59:18.858000+00:00",
+      "fecha_local": "2025-04-23",
+      "editado_utc": "2025-04-23T17:59:41.742000+00:00",
+      "texto": "Aka:\n\n**Arquea una ceja cuando escucha a Kaniza** \n\nExponer...que? <@366293034847174657> \n\n**Escucha el alboroto y reconoce a Gur, avisa a los guardias para que le dejen pasar**\n\nEn el sur la cosa esta...intranquila. corren muchos rumores y no tenemos la certeza de donde van a salir los sectarios. Los yokai a veces aparecen porque si y se vuelven locos, los suministros escasean, necesitamos mas contribucion por los aldeanos pero lo suficiente para que puedan seguir viviendo tranquilos, y la cupula grande cada vez parece mas agrietada\n\n<@412279081170763776>",
+      "mensaje_sha256": "e380704f0d6e5a7805309051055c460d64cbae9a8b27bedfd0d728edf5d61c43",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1364661932321406986",
+      "texto_sha256": "d8c870af46b9cfb9cee51a46f0c4fedf9a5d609b2c4d8e675155c9c7e938866b",
+      "adjuntos": []
+    },
+    {
+      "id": "1364671928257876080",
+      "fecha_utc": "2025-04-23T18:39:02.075000+00:00",
+      "fecha_local": "2025-04-23",
+      "editado_utc": null,
+      "texto": "🔴  **Rol escrito parado durante los Streams, quien escriba se lleva ban temporal** 🔴",
+      "mensaje_sha256": "050f98341bf7e9e889c1f53915a4d536eb195a11ae74e7430cd1575254471e19",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1364671928257876080",
+      "texto_sha256": "62569cbb124ffbb7981ee2123bb2ee25bc0941cc097a38bdcbc367d8f522589b",
+      "adjuntos": []
+    }
+  ]
+}

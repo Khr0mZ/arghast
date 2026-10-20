@@ -1,0 +1,342 @@
+{
+  "id": "x-1552612115121053770",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1552612115121053770",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "Frogger entrega las pociones de resistencia",
+  "resumen": "Eldrath recoge el encargo de una hora de duración y deja pendientes antitoxinas y la elección de pergaminos.",
+  "relato": "Eldrath visita a Frogger para recoger las pociones preparadas con plantas de Walulu y veneno de las pozas. El alquimista recuerda el encargo, pero busca por armarios, cajas y estantes sin encontrarlo, atribuyendo el desorden al ataque y a su ayudante dracónido.\n\nEl elfo ve un vial en la capa del hombre-sapo y lo extrae, fingiendo al principio que estaba en una estantería. Cuando localiza los demás en sus bolsillos, señala por fin el lugar. Frogger explica que la capa mágica protege lo que guarda y le entrega las pociones. Según él, sus efectos durarán alrededor de una hora y no ha podido fabricar más.\n\nEldrath las guarda y solicita también antitoxinas. El alquimista promete prepararlas para cuando las necesiten. El visitante confirma que aún vende algunos pergaminos, pero se marcha sin pedir uno concreto. El encargo de resistencia queda recogido; los otros materiales todavía no.",
+  "participantes": [
+    "Eldrath",
+    "Frogger"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1552620155274530868",
+      "afirmacion": "Frogger recupera las pociones de su capa y las ofrece a Eldrath.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1552620752367386645",
+      "afirmacion": "Eldrath recoge y guarda las pociones.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1552622086357385260",
+      "afirmacion": "Frogger fija su duración aproximada en una hora.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1552623151597232193",
+      "afirmacion": "Se compromete a preparar antitoxinas para otra visita.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "La duración es la información del alquimista, sin consumo ni combate de comprobación aquí.",
+    "El ayudante dracónido azul no recibe nombre en esta conversación.",
+    "No hay compra de pergaminos ni recogida de antitoxinas en esta fuente."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-09-24T09:26:14.383000+00:00",
+  "fin_utc": "2026-09-24T13:10:04.974000+00:00",
+  "fecha_local": "2026-09-24",
+  "intervalo": {
+    "anterior": 66,
+    "siguiente": 69,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 66,
+        "fecha": "2026-09-22",
+        "inicio_referencia_utc": "2026-09-22T18:20:03+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241"
+      },
+      {
+        "capitulo": 69,
+        "fecha": "2026-10-08",
+        "inicio_referencia_utc": "2026-10-08T18:17:02+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1552612115121053770",
+      "fecha_utc": "2026-09-24T09:26:14.383000+00:00",
+      "fecha_local": "2026-09-24",
+      "editado_utc": null,
+      "texto": "Eldrath: **Abre la puerta del cara sapo. Necesita ver como va con las pociones de resistencia al veneno. Le dejo las plantas de Walulu y el obre que lleno de veneno de las pozas.**\n\nBuenos dias.\n\n<@214405113677217793>",
+      "mensaje_sha256": "a33ca5d70382c6e3276a0f7ba6e58cabb9f281030d466cd8998015a52fab8bd0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552612115121053770",
+      "texto_sha256": "f3654b3d00353bdebf8e9a2c6a426094add64610328117263c6dcb3584e41b89",
+      "adjuntos": []
+    },
+    {
+      "id": "1552612994175864874",
+      "fecha_utc": "2026-09-24T09:29:43.966000+00:00",
+      "fecha_local": "2026-09-24",
+      "editado_utc": null,
+      "texto": "Frogger: **El hombre-sapo esta encima de la mesa de alquímia mientras sujeta algunos utensilios con las manos y una enorme probeta com uno de los pies. Al escuchar la puerta, gira la cabeza 180 grados como la niña del exorcista**  Buenos días CROAC! Que desea CROAC!",
+      "mensaje_sha256": "f478729bdb77bf4fef96639516b032f92c9cc4eb2b8bd64efcb9d8efde2493be",
+      "tipo_discord": 19,
+      "referencia": "1552612115121053770",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552612994175864874",
+      "texto_sha256": "1f027f6ae64555e4dfa25ac64317c91f89c680e11a2543fb7a1b314a8236060d",
+      "adjuntos": []
+    },
+    {
+      "id": "1552613278234972183",
+      "fecha_utc": "2026-09-24T09:30:51.691000+00:00",
+      "fecha_local": "2026-09-24",
+      "editado_utc": null,
+      "texto": "Eldrath: **Le da un escalofrio de repelus.**\n\nVengo por un encargo. Unas pociones de resistencia a un veneno concreto.",
+      "mensaje_sha256": "343f6191e213c3b1f66137d949d0276a0ad1cfeac2a168c0ed52b31fccebcf3b",
+      "tipo_discord": 19,
+      "referencia": "1552612994175864874",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552613278234972183",
+      "texto_sha256": "bf2adec0c00f49cf055bd2fb3a07dd2e0df3dc93eb5e96b42d17e2076245eb35",
+      "adjuntos": []
+    },
+    {
+      "id": "1552614597712678965",
+      "fecha_utc": "2026-09-24T09:36:06.279000+00:00",
+      "fecha_local": "2026-09-24",
+      "editado_utc": null,
+      "texto": "Frogger: **Se queda pensando mientras ves como su cuello se hincha y se desincha. Es de esas cosas raras que no quieres ver pero no puedes dejar de mirar. Al caso, te mira pensativo un rato** Resistencia al veneno CROAC! Si, recuerdo esas pociones CROAC! Se las di a mi nuevo ayudante CROAC! El draconido ese azul, como se llama... CROAC! **Se baja de la mesa y va a unos pequeños armarios al otro lado de la habitación** Con el ataque del otro día se me han perdido algunas cosas CROAC! Pero creo que las guarde por aquí CROAC! **Se queda buscando un rato. El CROAC es muy molesto**",
+      "mensaje_sha256": "2574035536197c98ae67759ff7e53b44103c91c37b5d6413a5af5caae0e5d0e7",
+      "tipo_discord": 19,
+      "referencia": "1552613278234972183",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552614597712678965",
+      "texto_sha256": "66e662d2eab69ca301e9d59cb3f19dc51e02cc5afebda93b6dd3fd8cc9d4b1ba",
+      "adjuntos": []
+    },
+    {
+      "id": "1552615169367081051",
+      "fecha_utc": "2026-09-24T09:38:22.572000+00:00",
+      "fecha_local": "2026-09-24",
+      "editado_utc": null,
+      "texto": "Eldrath: **Cuando no mira tiembla del repelus y pone cara de incomodidaz.**\n\n*Como escuche una vez mas croac...*\n\nDime que las tiene...",
+      "mensaje_sha256": "76638035a5ba0772f18dd38f021196e5523c110a3bf7ec543b489b9852165d2b",
+      "tipo_discord": 19,
+      "referencia": "1552614597712678965",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552615169367081051",
+      "texto_sha256": "d64448d6a03caed3c925ceaf1e944aa291deba7a59768a8c91769b8c5b934720",
+      "adjuntos": []
+    },
+    {
+      "id": "1552615911138140272",
+      "fecha_utc": "2026-09-24T09:41:19.424000+00:00",
+      "fecha_local": "2026-09-24",
+      "editado_utc": null,
+      "texto": "Frogger: Un momento, un momento CROAC! Puede que las moviera a las otras cajas CROAC! **Cierra los armarios y se va a la otra punta de la habitación a buscar en unas cajas** Es que mira que le dije que los envíos van en el armario CROAC! A saber donde las a guardado CROAC!",
+      "mensaje_sha256": "4253b04aa830840d84114b35b3a754bfc12ce769e9b79c6c48b1eebe69eac826",
+      "tipo_discord": 19,
+      "referencia": "1552615169367081051",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552615911138140272",
+      "texto_sha256": "79fd650f2db2f0a71738ea590c3834c635ae70b56c71e06fbd5a27db28f814ff",
+      "adjuntos": []
+    },
+    {
+      "id": "1552616289816543333",
+      "fecha_utc": "2026-09-24T09:42:49.708000+00:00",
+      "fecha_local": "2026-09-24",
+      "editado_utc": null,
+      "texto": "Eldrath: **Cada vez que escucha croac le tiembla un ojo.**\n\n¿Quiere que le ayude para ir mas rapido?\n\n*Y asi no escucharte mas...*",
+      "mensaje_sha256": "0e2e6c98e67e9baa7b28fe38fcc8ca55d8fd2e6a85cd7272db5e42aa15fcbbb3",
+      "tipo_discord": 19,
+      "referencia": "1552615911138140272",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552616289816543333",
+      "texto_sha256": "fe9cd0d41340c5a94cbe23099f2c0455f7ce9fad5c99a4e5b41ce6d15934902f",
+      "adjuntos": []
+    },
+    {
+      "id": "1552617035257876611",
+      "fecha_utc": "2026-09-24T09:45:47.435000+00:00",
+      "fecha_local": "2026-09-24",
+      "editado_utc": null,
+      "texto": "Frogger: No, no te preocupes muchacho CROAC! La verdad que yo no tengo prisa CROAC! **Ves que deja de buscar en las cajas** Donde pueden estar... CROAC! **Va mirando por la habitación hasta que se le abren los ojos y mete un salto hacia los estantes de arriba. Se queda colgando de uno de ellos mientras rebusca por ahí arriba** Quizá aquí CROAC? **Ves que de su capa de cuero con miles de bolsillos, sobresale un vial con un líquido verde**",
+      "mensaje_sha256": "e7caa66f598a8520dd3291750de6f1a439f92ec93f6b79d9e98813e022556cde",
+      "tipo_discord": 19,
+      "referencia": "1552616289816543333",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552617035257876611",
+      "texto_sha256": "4ce6b5dfdd3b10e3a7a670100035efd5dfd168e05ef988cdd8e2fa6e4866a548",
+      "adjuntos": []
+    },
+    {
+      "id": "1552617791813849089",
+      "fecha_utc": "2026-09-24T09:48:47.812000+00:00",
+      "fecha_local": "2026-09-24",
+      "editado_utc": null,
+      "texto": "Eldrath: **Entre tic y tic nervioso ve el vial. Se acerca y con manos habiles se lo saca.**\n\nDeja que le ayude.\n\n**Hace la pantomima de que en verdad lo ha cogido de los estantes para que el sapo no lo torture hablando de mas sobre de donde lo ha sacado.**\n\n¿Es esto?",
+      "mensaje_sha256": "5f301993d67e773cd9c3a8c129b1ff193f7475055b59dd7cf452309ca037fceb",
+      "tipo_discord": 19,
+      "referencia": "1552617035257876611",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552617791813849089",
+      "texto_sha256": "ef04b1a380c7682323ec4ce7b904e953940a21b187f411c8b8a4f9099a90f2a4",
+      "adjuntos": []
+    },
+    {
+      "id": "1552618427636523091",
+      "fecha_utc": "2026-09-24T09:51:19.404000+00:00",
+      "fecha_local": "2026-09-24",
+      "editado_utc": "2026-09-24T09:51:46.585000+00:00",
+      "texto": "Frogger: **Gira la cabeza 180 grados y además la agacha para mirarte. Es una posición aún más perturbadora que la de antes...** Oh! CROAC! Eso es, donde estaba CROAC? Tiene que haber varias CROAC! **Empieza a apartar viales del estante buscando las demás pociones. Tu las ves en los bolsillos de su capa tintineando cuando se chocan entre si con el cristal**",
+      "mensaje_sha256": "47dc565a338b2bff2a6e05717fdccf3ac57374d148d567640c922b21164f3fcc",
+      "tipo_discord": 19,
+      "referencia": "1552617791813849089",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552618427636523091",
+      "texto_sha256": "14789d05f627f9716690d9d2ef63ce4a11b05fa6ca0a240f1673d11458c16ab8",
+      "adjuntos": []
+    },
+    {
+      "id": "1552619231491788831",
+      "fecha_utc": "2026-09-24T09:54:31.058000+00:00",
+      "fecha_local": "2026-09-24",
+      "editado_utc": null,
+      "texto": "Eldrath: **Sonrie incomodo.**\n\nCreo... Que el resto las tiene en sus bolsillos.\n\n**Señala con el dedo el bolsillo del sapo.**\n\nNo es el mejor lugar donde guardar pociones...",
+      "mensaje_sha256": "a5d24c023a243e20cb0d018e95a8658ab23ab48207257e31cc00e2ddd9d7ed35",
+      "tipo_discord": 19,
+      "referencia": "1552618427636523091",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552619231491788831",
+      "texto_sha256": "e0bd702732d7ab760c64c9e0ee1ff10c59d52916be60f1c762832ceb96bfb69b",
+      "adjuntos": []
+    },
+    {
+      "id": "1552620155274530868",
+      "fecha_utc": "2026-09-24T09:58:11.305000+00:00",
+      "fecha_local": "2026-09-24",
+      "editado_utc": "2026-09-24T09:58:37.187000+00:00",
+      "texto": "Frogger: **Mira sus bolsillos** Vaya CROAC! Es verdad CROAC! **Se rasca la cabeza mostrando una cara de incomodidad. Luego agarra la capa para mostrartela** Las guarde aquí para que no se rompieran CROAC! Esta capa mágica protege cualquier cosa que guardes de que se rompa CROAC! **Te guiña un ojo de sapo mientras saca las pociones y te las ofrece**",
+      "mensaje_sha256": "e136ad5267c5b999f3790271f7abddccafac6cf6fea3b3936e17a63776c03e10",
+      "tipo_discord": 19,
+      "referencia": "1552619231491788831",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552620155274530868",
+      "texto_sha256": "aa6fb8466382ebca85c8d177d80cacd171d5a8c3202fc02aa2a0f7a3b8240ce0",
+      "adjuntos": []
+    },
+    {
+      "id": "1552620752367386645",
+      "fecha_utc": "2026-09-24T10:00:33.663000+00:00",
+      "fecha_local": "2026-09-24",
+      "editado_utc": null,
+      "texto": "Eldrath: Ya veo...\n\n**Las toma para guardarla en su bolsa.**\n\nDime, con todo lo que ha costado hacerlas ¿Su tiempo de duracion es prolongado? ¿Cuanto duran mas o menos?",
+      "mensaje_sha256": "46d9757285549d7e7d42978f2e54114b6f86f4cfd80627bbb1338c35badb16fc",
+      "tipo_discord": 19,
+      "referencia": "1552620155274530868",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552620752367386645",
+      "texto_sha256": "58f48f119c3597accc8842fff4f0b63159250c575a547fd3418ee3b0f4eec77a",
+      "adjuntos": []
+    },
+    {
+      "id": "1552622086357385260",
+      "fecha_utc": "2026-09-24T10:05:51.711000+00:00",
+      "fecha_local": "2026-09-24",
+      "editado_utc": null,
+      "texto": "Frogger: Los efectos durarán alrededor de una hora CROAC! **Baja de un salto del estante y vuelve al suelo** No he podido hacer más CROAC!",
+      "mensaje_sha256": "8e65be9604f29e5fd8eba20dc9fc401f54f3f73346b01a24d63548a2f6a6ce47",
+      "tipo_discord": 19,
+      "referencia": "1552620752367386645",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552622086357385260",
+      "texto_sha256": "9594d4c57d8ff80b25241ecfeae375c17ed996e8b4caa44d2e255b6720efeaa4",
+      "adjuntos": []
+    },
+    {
+      "id": "1552622382949081231",
+      "fecha_utc": "2026-09-24T10:07:02.424000+00:00",
+      "fecha_local": "2026-09-24",
+      "editado_utc": null,
+      "texto": "Eldrath: **Asiente.**\n\nBien, ¿Tambien tienes algunos antitoxinas? Nos van a hacer falta.",
+      "mensaje_sha256": "938d1e65a59fba23ba1f9f143862a653f4968f22838812a48a0b05f86af42ffd",
+      "tipo_discord": 19,
+      "referencia": "1552622086357385260",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552622382949081231",
+      "texto_sha256": "68509f85b4e9b1ab69f752a16306ad46d6b4d0f283484b5956147b084be5f1f7",
+      "adjuntos": []
+    },
+    {
+      "id": "1552623151597232193",
+      "fecha_utc": "2026-09-24T10:10:05.684000+00:00",
+      "fecha_local": "2026-09-24",
+      "editado_utc": null,
+      "texto": "Frogger: De eso no hay problema CROAC! Haré algunas para que te lleves CROAC! Venir a verme cuando las necesitéis CROAC! **Se dirige a la mesa de alquímia para trabajar** ¿Algo más muchacho CROAC?",
+      "mensaje_sha256": "110ebdb19dcdaecc2d449c18647c099037f055b71e28c58b8e5653055dcfe42e",
+      "tipo_discord": 19,
+      "referencia": "1552622382949081231",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552623151597232193",
+      "texto_sha256": "baa603433568e9e7d9e820b23971fa58a05018e37f293827e1b77435fc24bbe9",
+      "adjuntos": []
+    },
+    {
+      "id": "1552623312214032435",
+      "fecha_utc": "2026-09-24T10:10:43.978000+00:00",
+      "fecha_local": "2026-09-24",
+      "editado_utc": null,
+      "texto": "Eldrath: ¿Usted vende pergaminos magicos verdad?",
+      "mensaje_sha256": "d79cd34ceb629b0fc17aa03c2ad3e0d0057e0663e5c57b0b4757665503ad9eee",
+      "tipo_discord": 19,
+      "referencia": "1552623151597232193",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552623312214032435",
+      "texto_sha256": "456e984f378f2e92cd620dbef73c0c9f405732f68a6a7cd9cb7e0c4dbb9a4aa2",
+      "adjuntos": []
+    },
+    {
+      "id": "1552623696974192711",
+      "fecha_utc": "2026-09-24T10:12:15.712000+00:00",
+      "fecha_local": "2026-09-24",
+      "editado_utc": null,
+      "texto": "Frogger: Algunos me quedan CROAC! ¿Que necesita CROAC?",
+      "mensaje_sha256": "53a481159674abd8b14a85deb7a6e63160e73ab365db98a3ace6b03ff9b7909c",
+      "tipo_discord": 19,
+      "referencia": "1552623312214032435",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552623696974192711",
+      "texto_sha256": "ae648d9dcd13e3cd7d4d075197bcfcaecf46f4354f85543378c119c2225204dc",
+      "adjuntos": []
+    },
+    {
+      "id": "1552626465378541569",
+      "fecha_utc": "2026-09-24T10:23:15.751000+00:00",
+      "fecha_local": "2026-09-24",
+      "editado_utc": null,
+      "texto": "Eldrath: Nada, solo preguntaba. Me marcho, tenga un buen dia.\n\n**Se gira para ir.**\n\n*Vamonos antes de que el croac me persiga en sueños.*",
+      "mensaje_sha256": "6de80e7345f5e462050e9126c61f815f44bcfa1ba0746177601734da90a4c325",
+      "tipo_discord": 19,
+      "referencia": "1552623696974192711",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552626465378541569",
+      "texto_sha256": "d4deba11d6ca456e32eedbc62cb67409fe89acf05b0e049d82ce6d10326cf47d",
+      "adjuntos": []
+    },
+    {
+      "id": "1552668447102730271",
+      "fecha_utc": "2026-09-24T13:10:04.974000+00:00",
+      "fecha_local": "2026-09-24",
+      "editado_utc": null,
+      "texto": "🔴 Fin de Escena 🔴",
+      "mensaje_sha256": "1a92e5e462570b2b73338fb5d83e1080f4a20bb0df2c3c122f4f84be471e8c4d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1552668447102730271",
+      "texto_sha256": "47d166bc2887f6d9ed98d5a9cc93b9524fa185eaf8821008e951422c647afac6",
+      "adjuntos": []
+    }
+  ]
+}

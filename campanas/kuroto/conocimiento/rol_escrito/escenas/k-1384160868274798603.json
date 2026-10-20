@@ -1,0 +1,167 @@
+{
+  "id": "k-1384160868274798603",
+  "campana": "kuroto",
+  "unidad_revision": "k-1383384327160594622",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Kurobane registra el puerto sin hallar su objetivo",
+  "resumen": "La búsqueda de anomalías marinas y de una drow queda sin resultado.",
+  "relato": "Kurobane se instala en un lugar alto del puerto, intentando pasar inadvertido y detectar algo distinto en el mar. Solo observa la actividad habitual de barcos, gente y mercancías. Se acerca a la orilla para buscar señales de una barrera ilusoria, pero no aparece ninguna: ve agua y pescadores desesperados por la escasez de capturas. Enfadado, vuelve a la ciudad y piensa en localizar a una drow que no nombra. Tras esperar junto a las tabernas sin encontrarla, regresa a sentarse fuera de la Base. No se revela qué buscaba en el mar ni la identidad de esa mujer.",
+  "participantes": [
+    "Kurobane"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1384162827304042517",
+      "afirmacion": "Kurobane busca señales de una posible pared ilusoria.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1384163713883439105",
+      "afirmacion": "La observación solo revela barcos pesqueros y escasez de pescado.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1384164319997984901",
+      "afirmacion": "Kurobane piensa en una drow sin nombre y acaba regresando a la Base.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Tres escenas cerradas explícitamente y separadas en subescenas.",
+    "No se inventan los antecedentes que Guxi y Seraphina se cuentan fuera de diálogo.",
+    "La especulación sobre Ikaari ebrio no prueba dónde está ni por qué no responde."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-16T13:21:07.462000+00:00",
+  "fin_utc": "2025-06-16T15:25:53.115000+00:00",
+  "fecha_local": "2025-06-16",
+  "intervalo": {
+    "anterior": 127,
+    "siguiente": 128,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1382781538868920370",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1384592935672086533",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 127,
+        "fecha": "2025-06-12",
+        "inicio_referencia_utc": "2025-06-12T17:59:57+00:00",
+        "fin_estimado_utc": "2025-06-12T20:38:52+00:00",
+        "duracion_video_segundos": 9535,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1382781538868920370"
+      },
+      {
+        "capitulo": 128,
+        "fecha": "2025-06-17",
+        "inicio_referencia_utc": "2025-06-17T17:57:43+00:00",
+        "fin_estimado_utc": "2025-06-17T20:42:20+00:00",
+        "duracion_video_segundos": 9877,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1384592935672086533"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1384160868274798603",
+      "fecha_utc": "2025-06-16T13:21:07.462000+00:00",
+      "fecha_local": "2025-06-16",
+      "editado_utc": "2025-06-16T13:22:38.660000+00:00",
+      "texto": "Kurobane:\n\n**Camina por las calles de Sho, hasta que piensa que podría estar en el puerto. Ya en el puerto, se subiría en un lugar alto y estaría concentrado en percibir algo distinto en el mar y en que nadie sepa que está ahí**\n\n*Donde os escondeis?*\n\n(Qué veo <@214405113677217793> ?)",
+      "mensaje_sha256": "980d8f05c28fac5ea4fe0c0bbfc2b3dfe91a82b65a4ef36e5a8a6876c98ecb3b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1384160868274798603",
+      "texto_sha256": "fe7d10188e05f4bfc852b05964856ef96bf362c4bc90ffecc98ee78b654c4a27",
+      "adjuntos": []
+    },
+    {
+      "id": "1384161831857160192",
+      "fecha_utc": "2025-06-16T13:24:57.198000+00:00",
+      "fecha_local": "2025-06-16",
+      "editado_utc": null,
+      "texto": "**Ves el puerto, agetreo de gente de arriba abajo, barcos de un lado a otro y mercancía siendo clasificada en los almacenes.**",
+      "mensaje_sha256": "be714b55e3c8b2d5ea4e3b914ea1c484dc95cb192d80fe8eb956b835cb4b2714",
+      "tipo_discord": 19,
+      "referencia": "1384160868274798603",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1384161831857160192",
+      "texto_sha256": "c1dea756ddd53c54ddaa185e1b9e8714c204bde5483fcc299f24ebcdc19da453",
+      "adjuntos": []
+    },
+    {
+      "id": "1384162827304042517",
+      "fecha_utc": "2025-06-16T13:28:54.531000+00:00",
+      "fecha_local": "2025-06-16",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\n*Me acercaré más al mar*\n\n**Cae grácilmente del techo, me acerco mas a la orilla, fijándome más en el mar, sus olas, alguna interferencia como si algún pez se mueve y desaparece (atraviesa un muro ilusorio)**",
+      "mensaje_sha256": "00bba5536509725eab0e26ff842744cec81f0988994df0d2f4c5a666f039815c",
+      "tipo_discord": 19,
+      "referencia": "1384161831857160192",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1384162827304042517",
+      "texto_sha256": "699e9733c069cb5f30a7f72d2add1a7641704a443e8429e0b252f70964afb132",
+      "adjuntos": []
+    },
+    {
+      "id": "1384163713883439105",
+      "fecha_utc": "2025-06-16T13:32:25.908000+00:00",
+      "fecha_local": "2025-06-16",
+      "editado_utc": null,
+      "texto": "**El mar, agua y más agua a millas de distancia. Ves pequeños barcos de pesca que llegan al puerto. La mayoría con cara de desesperación, la poca pesca  se está notando cada vez más en los comercios y mercados.**",
+      "mensaje_sha256": "79e808f75d37e6aba1e027d2de8208427d08b313e0023b678a86c148cd5278c4",
+      "tipo_discord": 19,
+      "referencia": "1384162827304042517",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1384163713883439105",
+      "texto_sha256": "13129bd4b1c46a2f28180fcf0cf547c7fd44e56f69077f4a015436ac896fa91f",
+      "adjuntos": []
+    },
+    {
+      "id": "1384164319997984901",
+      "fecha_utc": "2025-06-16T13:34:50.417000+00:00",
+      "fecha_local": "2025-06-16",
+      "editado_utc": "2025-06-16T14:05:56.839000+00:00",
+      "texto": "Kurobane:\n\n**Arruga su cara de enfado y vuelve a la ciudad**\n\n*Dónde estará esa drow?*\n\n**Piensa mientras camina lentamente entre la gente, hasta sentarse cerca de las tabernas, después de no ver nada, volvería a la base y se quedaría sentado fuera a un lado de la puerta**",
+      "mensaje_sha256": "955124c48028298e391c5ded214985555d69e8048dc0d63c3b9e254dd77a08e9",
+      "tipo_discord": 19,
+      "referencia": "1384163713883439105",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1384164319997984901",
+      "texto_sha256": "67fb6a6c1eb09a02556a1a5f5fee30908b32c96bc6bdad85dc8640fddec6a3e1",
+      "adjuntos": []
+    },
+    {
+      "id": "1384172269588447324",
+      "fecha_utc": "2025-06-16T14:06:25.747000+00:00",
+      "fecha_local": "2025-06-16",
+      "editado_utc": null,
+      "texto": "🌘 Kurobane sale de escena 🌘",
+      "mensaje_sha256": "24899213345bf49328e25d6fa5a7030f01a49e725f9753b880e43f4efebffcdf",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1384172269588447324",
+      "texto_sha256": "ffef04c3cf26ecf2ff7d7db109d1a3a1aa12c3562bd6d60641a5e520749e46cc",
+      "adjuntos": []
+    },
+    {
+      "id": "1384192265379123371",
+      "fecha_utc": "2025-06-16T15:25:53.115000+00:00",
+      "fecha_local": "2025-06-16",
+      "editado_utc": null,
+      "texto": "🔴  Final de escena 🔴",
+      "mensaje_sha256": "f511de23053f77b2a3a8c3a76051d44519cd667dd25231950dd0202a7c6257a9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1384192265379123371",
+      "texto_sha256": "2d951a88aefa391a493c42f6b69315b97b488451d8ef0802371598f1f0254083",
+      "adjuntos": []
+    }
+  ]
+}

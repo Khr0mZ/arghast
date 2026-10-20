@@ -1,0 +1,423 @@
+{
+  "id": "x-1544400464982966352",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1544400464982966352",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "Naór e Ilikar imaginan un hogar abierto",
+  "resumen": "Junto al río, comparten sus proyectos para sus pueblos y acuerdan explorar las Montañas de los Colosos, entre gestos de cariño y una lección de cabraball.",
+  "relato": "Después del entrenamiento de Leo y de pasar por la escuela, Naór busca a Ilikar. Lo encuentra pescando y trata de sorprenderlo con un rugido, pero él reconoce sus pasos y su olor. La invita a sentarse junto al gran siluro que acaba de capturar. Hablan de sus hermanos: Naór aclara el vínculo casi maternal que mantiene con Leo y recuerda a Turo’ok, mientras Ilikar describe a Ilikan como el futuro dirigente de los Thuun-Khaz, fuerte pero también atento a su gente.\n\nIlikar desea encontrar un territorio seguro antes de reunir allí a su hermano y su tribu, para que puedan cultivar, pescar y cazar sin depender de matar dragones. Naór propone visitar juntos las Montañas de los Colosos y averiguar si hay espacio para ellos. Explica también su propio propósito: abrir Aztlán a quienes ahora excluyen sus leyes y, más allá del trono, reunir a las tribus en un mismo clan que conviva con los demás habitantes. Son aspiraciones y un viaje acordado, todavía sin ejecución.\n\nLa conversación se vuelve afectuosa. Ilikar toma su mano y Naór le toca la nariz mientras le asegura que no tendría que cumplir todo solo. Cuando él menciona el cabraball y presume de su antiguo apodo, el Bicho, ella le pide que le enseñe. Pasan el resto del día aprendiendo sus reglas; no se narra el encuentro con los gigantes ni una competición oficial.",
+  "participantes": [
+    "Naór",
+    "Ilikar",
+    "Tortas"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1544499790451048568",
+      "afirmacion": "Naór distingue su relación con Leo de la que tiene con su hermano menor Turo’ok.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1544502162996994150",
+      "afirmacion": "Ilikar describe a Ilikan como futuro líder de su tribu.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1544508556336828468",
+      "afirmacion": "Ilikar busca un hogar seguro para reunir a su hermano y su pueblo.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1544511206436380682",
+      "afirmacion": "Naór expresa su deseo de unir las tribus y cambiar las leyes excluyentes.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1544517620991139921",
+      "afirmacion": "Naór propone visitar juntos las Montañas de los Colosos.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1544524775072735303",
+      "afirmacion": "Ilikar se presenta como el Bicho y antiguo campeón de cabraball.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1544527576226070578",
+      "afirmacion": "Naór pasa el resto del día aprendiendo las reglas del deporte con Ilikar.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El apodo y el historial deportivo proceden del testimonio de Ilikar.",
+    "El proyecto político de Naór y la búsqueda de tierras son compromisos abiertos, sin resultados territoriales todavía.",
+    "Tortas interviene con una percepción breve desde otro lugar; no participa en toda la conversación."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-09-01T17:36:04.425000+00:00",
+  "fin_utc": "2026-09-02T02:01:10.107000+00:00",
+  "fecha_local": "2026-09-01",
+  "intervalo": {
+    "anterior": 56,
+    "siguiente": 57,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1541149597714350182",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1545132987136344065",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 56,
+        "fecha": "2026-08-23",
+        "inicio_referencia_utc": "2026-08-23T18:12:54+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1541149597714350182"
+      },
+      {
+        "capitulo": 57,
+        "fecha": "2026-09-03",
+        "inicio_referencia_utc": "2026-09-03T18:02:12+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1545132987136344065"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1544400464982966352",
+      "fecha_utc": "2026-09-01T17:36:04.425000+00:00",
+      "fecha_local": "2026-09-01",
+      "editado_utc": null,
+      "texto": "Naór: ** se encontraría sobre las murallas de Iktan, después de haber entrenado con el pequeño Leo y dejarlo en la escuela. Su mirada se perdería en la jungla, aunque, como siempre que se quedaba pensativa, terminaría mirando hacia el sur, hacia Aztlan.**\n\n*Espero que estéis todos bien... Tengo ganas de veros... Aunque será mejor no pensar en eso ahora.*\n\n**Suspiraría, antes de fruncir el ceño.**\n\n*¿Qué estará haciendo ese grandullón...? Me preocupa lo que me contó de su tribu. Si hay un lugar para ellos, será en las Montañas de los Colosos.* <@210947008716996609> \n\n**Una sonrisa traviesa aparecería en su rostro.**\n\n*Iré a ver si está en su pequeño escondite... y le daré una sorpresa.*",
+      "mensaje_sha256": "c0393c81bfb8c73c17239dbe469733bb87f09380011af216f44530c6a886766c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1544400464982966352",
+      "texto_sha256": "5dd2ada073b68ee2b0619bbc938f5a23979079f7226bc4df7da405e67483db75",
+      "adjuntos": []
+    },
+    {
+      "id": "1544410861580582972",
+      "fecha_utc": "2026-09-01T18:17:23.167000+00:00",
+      "fecha_local": "2026-09-01",
+      "editado_utc": "2026-09-01T18:19:16.797000+00:00",
+      "texto": "**Al otro lado del pueblo, donde el rio se ensancha, Ilikar descansaba en la orilla, disfrutando del silencio. Se le vería sosteniendo su caña, con calma y delicadeza, casi tierna, dejando que la brisa de la tarde le acompañase.**\n\n**Mantenía sus ojos cerrados, sonriente y disfrutando el momento, tomando el camino de la paciencia que ya habría dominado.**\n\n*El rio es una pequeña tormenta que se dirige al mar de nubes...*\n\n*El pez es el que rompe esa calma con su aleteo...*\n\n*El hilo... es el mensajero...*\n\n*La vibración... es la señal... poco... poco... falta...* - **el agua estalló  cuando la vara se curvó. Ilikar no titubeó. Con un movimiento firme, alzó a su presa en el aire, un gran siluro al que habia estado esperando por unas horas.**",
+      "mensaje_sha256": "113b4b4f65caff9aa6c97ff976c339f6769f069960a8824bc8ca197f2a32605e",
+      "tipo_discord": 19,
+      "referencia": "1544400464982966352",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1544410861580582972",
+      "texto_sha256": "ebb863d57f4f31bb909d7f65c57cc9efd814583bf10e5f8e8e7a1e31ec92a884",
+      "adjuntos": []
+    },
+    {
+      "id": "1544411695626063936",
+      "fecha_utc": "2026-09-01T18:20:42.019000+00:00",
+      "fecha_local": "2026-09-01",
+      "editado_utc": null,
+      "texto": "**Tortas miraría hacia el cielo y sonrie satisfecha al sentir el camino de la paciencia del joven goliath**",
+      "mensaje_sha256": "b122d52a944e0afdb1aafa7d1d6c63aa730aa2206aaebe47e4fc41bdd89ce0c5",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1544411695626063936",
+      "texto_sha256": "419445f8b8c43ab36f0984133f78b46a651ba5e927e02919bd42a82442a9ef0b",
+      "adjuntos": []
+    },
+    {
+      "id": "1544413427571630143",
+      "fecha_utc": "2026-09-01T18:27:34.947000+00:00",
+      "fecha_local": "2026-09-01",
+      "editado_utc": null,
+      "texto": "Naór:** avanzaría hacia la orilla, hasta distinguir a lo lejos la enorme figura de Ilikar, completamente absorto en su pesca. Una sonrisa traviesa aparecería en su rostro.\n\nBajaría ligeramente el cuerpo, adoptando una postura felina y acechante, propia de un gran depredador antes de lanzarse sobre su presa. Con pasos lentos y silenciosos, comenzaría a acercarse por la espalda del goliath, aprovechando su concentración para intentar sorprenderlo.\n\nNaór inspiraría profundamente, llenando sus pulmones de aire. Aquel movimiento haría que perdiera parte de su sigilo, aunque asustar a un goliat no era precisamente una tarea sencilla.\n\nAun así, se detendría justo a su espalda, preparando todo su cuerpo para soltar un gran, enorme rugido.**",
+      "mensaje_sha256": "f24760f0be6101add20e5229ad6d61601d4af79d03ed292f36a465efe702a61d",
+      "tipo_discord": 19,
+      "referencia": "1544410861580582972",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1544413427571630143",
+      "texto_sha256": "2b6b129dcca51bcf836cb28a17d9d8ff2b7618c4bc094f03146986fcf04d2c88",
+      "adjuntos": []
+    },
+    {
+      "id": "1544420056799252491",
+      "fecha_utc": "2026-09-01T18:53:55.478000+00:00",
+      "fecha_local": "2026-09-01",
+      "editado_utc": "2026-09-01T19:09:08.138000+00:00",
+      "texto": "Ilikar: Querida princesa de Atlas... deberías practicar el camino del sigilo antes de intentar asustar a Ilikar. Quizas uno de esos hermanos con orejas picudas te podría enseñar.\n\n**Ilikar habría notado la presencia de Naor desde hace un tiempo... su forma de caminar y el aroma que el viento trajo hasta él, envuelto en ese olor a sándalo y orquídeas la delataban.**",
+      "mensaje_sha256": "c28c5b28c11f8944f734f624dca4124c39554a81ac8845b15270e9677e637430",
+      "tipo_discord": 19,
+      "referencia": "1544413427571630143",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1544420056799252491",
+      "texto_sha256": "cec16ebab2fbfe3a861a6e10b58f76c2f05897c3f8d121593350e700ae0f7ea2",
+      "adjuntos": []
+    },
+    {
+      "id": "1544469498256429197",
+      "fecha_utc": "2026-09-01T22:10:23.240000+00:00",
+      "fecha_local": "2026-09-02",
+      "editado_utc": null,
+      "texto": "Naor:  **suelta todo el aire que había estado reteniendo en un intento de rugido, terminando por hacer una pedorreta que arruina por completo cualquier atisbo de intimidación.**\n\nVayaaaa... me pillaste.\n\n**Se incorpora y se queda de pie a su lado durante unos instantes, mirando el lugar que hay junto a Ilikar. Con una pequeña sonrisa, señala el sitio con la mano para sentarse a su lado .**\n\n¿Puedo?\n\n**Aguarda su respuesta, manteniendo una expresión entre divertida y ligeramente avergonzada por su fallido intento de asustarla.**",
+      "mensaje_sha256": "f7d51f49c62475a75d5af31c0e4bbf2645629fe9b4c125fe1e769f8f59a0e90a",
+      "tipo_discord": 19,
+      "referencia": "1544420056799252491",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1544469498256429197",
+      "texto_sha256": "eb44ad84ed1298225043c92930e7cf5caf6be25cd95653db98d7ee6940835b2d",
+      "adjuntos": []
+    },
+    {
+      "id": "1544476480652705913",
+      "fecha_utc": "2026-09-01T22:38:07.973000+00:00",
+      "fecha_local": "2026-09-02",
+      "editado_utc": null,
+      "texto": "**Ilikar soltó una breve carcajada y miró a Naor con una sonrisa**\n\nIlikar: Claro, sientate. ¿Que tal el dia? Llevaba dias sin verte Naor.",
+      "mensaje_sha256": "bf8fb726142a7eeda483182a132a42089d66ff3890b3dfc8690743833c99d50e",
+      "tipo_discord": 19,
+      "referencia": "1544469498256429197",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1544476480652705913",
+      "texto_sha256": "473b66ac9a327d1f556c7c77a0d8fb278110f38f43bd4bf6049974efcf3d7424",
+      "adjuntos": []
+    },
+    {
+      "id": "1544483708000669757",
+      "fecha_utc": "2026-09-01T23:06:51.107000+00:00",
+      "fecha_local": "2026-09-02",
+      "editado_utc": null,
+      "texto": "Naor **toma asiento a su lado, acomodándose mientras dirige una mirada tranquila hacia Ilikar.**\n\nBien... Bueno, he estado entrenando al pequeño Leo y haciendo las rondas de vigilancia que me encargó Walulu. Te lo tengo que presentar, creo que os caeréis bien.\n\n**Sonríe ligeramente antes de echar un vistazo hacia la pesca que tiene delante.**\n\n¿Y tú qué tal? Por lo que veo, no se te da nada mal la pesca.",
+      "mensaje_sha256": "7eada7a5c972e20180eff58b3fd53a214ea97df9356819cd9e24f34e332eb7bd",
+      "tipo_discord": 19,
+      "referencia": "1544476480652705913",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1544483708000669757",
+      "texto_sha256": "a6b7252eccad70e29ea9ab36b6c478b0130c806bf217c2b5ea74b5c7037f429e",
+      "adjuntos": []
+    },
+    {
+      "id": "1544492264192086127",
+      "fecha_utc": "2026-09-01T23:40:51.062000+00:00",
+      "fecha_local": "2026-09-02",
+      "editado_utc": null,
+      "texto": "Ilikar: ¿El pequeño Leo? Si es un guerrero, claro que nos llevaremos bien.\n\n**Ilikar levantó orgulloso el gran pescado por la cola**\n\nIlikar: Estas presas son las mejores, tienen la fuerza de un goliath, se podría decir que son los goliath del agua.\n\n**Ilikar golpeó un par de veces la panza de ese enorme pescado antes de dejarla sobre la hierba**\n\nIlikar: Si, Ilikar tambien es buen pescador, he aprendido rápido. Llevo ya unos dias, así me ayuda a practicar el camino de la paciencia. Deberías aprender tu también Naor, seguro que se te da bien.",
+      "mensaje_sha256": "2aa1404a7aeb1191b2087604b9e283e7fd1311579fb7bd14650c15f2137bb3fe",
+      "tipo_discord": 19,
+      "referencia": "1544483708000669757",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1544492264192086127",
+      "texto_sha256": "b33c750e79a3d5a4e0bbe9dba0bcb978c1750fa4a591755267b0c99906d99a69",
+      "adjuntos": []
+    },
+    {
+      "id": "1544494610259251320",
+      "fecha_utc": "2026-09-01T23:50:10.408000+00:00",
+      "fecha_local": "2026-09-02",
+      "editado_utc": null,
+      "texto": "Naor: **observa el enorme pez que Ilikar acaba de levantar, alzando ligeramente las cejas ante su tamaño.**\n\nBueno... algo parecido me enseñó el anciano Tortas. Yo y el agua no nos llevábamos muy bien...\n\n**Hace una pequeña pausa y deja escapar una sonrisa de lado.**\n\nAunque después del otro día... ya me gusta algo más.\n\n**Naor sonríe de forma pilla, recordando aquel momento, antes de volver su atención hacia Ilikar.**\n\nHe estado pensando en lo que me contaste sobre tu tribu. Tengo curiosidad... ¿querrías contarme más?\n\n**Inclina ligeramente la cabeza, interesado.**\n\n¿Ilikan, no? Así se llama tu hermano. ¿Cómo es el?",
+      "mensaje_sha256": "5c1fe1afba0308928b5c30a36c846d55b3ec2a0b3caa7f55b8efc08db6687577",
+      "tipo_discord": 19,
+      "referencia": "1544492264192086127",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1544494610259251320",
+      "texto_sha256": "eb3351ff1ab2a7bda41b1d9bd707351bc03d1fdfcafe7e82172382748a6e4184",
+      "adjuntos": []
+    },
+    {
+      "id": "1544497194160230460",
+      "fecha_utc": "2026-09-02T00:00:26.458000+00:00",
+      "fecha_local": "2026-09-02",
+      "editado_utc": null,
+      "texto": "**Ilikar devolvió una mirada cómplice a Naor**\n\nIlikar: Cuando Ilikar dice que tiene un lugar secreto, es porque merece la pena ser un lugar secreto, y a veces hay que ser valiente para verlos.\n\nIlikan, así es como se llama, ¡el futuro líder de los Thuun-Khaz!\n\n¿Leo tambien es tu hermano pequeño?",
+      "mensaje_sha256": "cd2842431fa3051d93c22ee288666edcb8ec5100187874d46842c6b660b790e3",
+      "tipo_discord": 19,
+      "referencia": "1544494610259251320",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1544497194160230460",
+      "texto_sha256": "710e9e90f73bebaa193f2ccbd433097d99cd89202f803e1864f8c4f1dec216ea",
+      "adjuntos": []
+    },
+    {
+      "id": "1544499790451048568",
+      "fecha_utc": "2026-09-02T00:10:45.462000+00:00",
+      "fecha_local": "2026-09-02",
+      "editado_utc": null,
+      "texto": "Naor :**rompe a reír a carcajadas y niega rápidamente con la cabeza.**\n\n¿Hermano? ¡Nooo! Jajaja. Leo... emm... se podría decir que está a mi cargo ahora. Él no me llama mamá y yo no le llamo hijo, pero... es algo parecido.\n\n**Se encoge ligeramente de hombros, todavía con una sonrisa divertida en el rostro**.\n\nYo sí tengo un hermano pequeño. Está en Aztlan. Se llama Turo'ok.\n\n**Naor suelta una pequeña risa y añade, con cierto tono burlón**\n\nEs un canijo aún.",
+      "mensaje_sha256": "93c023b3c3c8905d4eb5b8327265eb0246a081d1d82ba32ca5fd4ac216bae455",
+      "tipo_discord": 19,
+      "referencia": "1544497194160230460",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1544499790451048568",
+      "texto_sha256": "2e2ac8b4e39658696eabcb079f30bcd13edeb49e6484a31359e879425286a8a4",
+      "adjuntos": []
+    },
+    {
+      "id": "1544502162996994150",
+      "fecha_utc": "2026-09-02T00:20:11.121000+00:00",
+      "fecha_local": "2026-09-02",
+      "editado_utc": null,
+      "texto": "Ilikar: Entonces Ilikan es un canijo aún también. Nos rodean muchos canijos Naor.\n\n**Ilikar volvió su mirada al rio y despues volvió a mirar a Naor con ternura**\n\nIlikan es canijo, cierto. Pero es un gran hermano. Es fuerte y grande como Ilikar... pero el es inteligente y está echo un líder, no como Ilikar. Sabe hablar con la tribu, y con otra gente, sabe dirigir, negociar y contar historias.\n\nLos niños de tribu miraban a Ilikan siempre con admiración, y Ilikan miraba a Ilikar con misma admiración, pero no entiendo.\n\nEl algun dia llegara a estas tierras Naor, estoy seguro, y para entonces Ilikar habrá echo todo el trabajo duro, para que sea mas facil llegada de la tribu.",
+      "mensaje_sha256": "810d8434679b6adb94cd98ef5967c17f5e7ec0f89ecf8fbf2438e3a5b9afefa7",
+      "tipo_discord": 19,
+      "referencia": "1544499790451048568",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1544502162996994150",
+      "texto_sha256": "6b8f22a0d1bb7dc92710eda529c82ec30369a5fa3a7a54ac5c4309dd2693ed53",
+      "adjuntos": []
+    },
+    {
+      "id": "1544504622339850282",
+      "fecha_utc": "2026-09-02T00:29:57.474000+00:00",
+      "fecha_local": "2026-09-02",
+      "editado_utc": null,
+      "texto": "Naor: ** escucha con atención, dejando que una sonrisa cálida aparezca mientras Ilikar habla de su hermano. Se nota que le agrada ver el orgullo con el que habla de Ilikan.**\n\nCreo que Ilikar todavía no conoce todas sus virtudes.\n\n**Lo mira con una sonrisa tranquila.**\n\nEl día que llegue a conocerse de verdad, quizá no sea solo su tribu la que te siga.\n\n**Después deja escapar una pequeña risa al pensar en su propio hermano.**\n\nTuro'ok todavía es un cachorro que se cree adulto.\n\n**Se ríe entre dientes.**\n\nSigue con su entrenamiento, pero ya apunta maneras. Pronto incluso podrá vencerme... aunque todavía le faltan algunos ciclos de sol para conseguirlo.\n\n**Naor hace una breve pausa, mirando hacia el río.**\n\nMe gustaría que lo conocieras. Y mostrarte como es todo aquello ...Aunque esas estúpidas leyes... prohíben la entrada a cualquiera que no sea de Aztlán.\n\n**Su expresión se vuelve algo más decidida y sonríe de medio lado.**\n\nCuando reine, será lo primero que cambie.",
+      "mensaje_sha256": "f2f9f6b77efa52f2033efcf6a6914aa58521d280f3139b9f5ba1c2d89b1d8302",
+      "tipo_discord": 19,
+      "referencia": "1544502162996994150",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1544504622339850282",
+      "texto_sha256": "a8c17bd8b5f283b54a1e889caa23f0594a8b0669a38bce64ff6fc3590940de24",
+      "adjuntos": []
+    },
+    {
+      "id": "1544508556336828468",
+      "fecha_utc": "2026-09-02T00:45:35.412000+00:00",
+      "fecha_local": "2026-09-02",
+      "editado_utc": "2026-09-02T00:48:59.929000+00:00",
+      "texto": "**Ilikar sonrió feliz al ver a Naor hablar de su hermano, con el mismo orgullo con el que el habla de Ilikan**\n\nImagina Naor algun dia... Ilikan y Turo'ok siendo amigos, cazando juntos y liderando a algo aún mas grande que nuestras tribus. Por como hablas de él, quizás sería buen compañero de mi hermano.\n\nAunque no se si llegaremos a ver el lugar del que vienes...\n\n**Ilikar hace una pausa y mueve su mirada a un lado**\n\nPero... aún debo encontrar un lugar... - **Ilikar pone la mano sobre su libreta** - y aún debo escribir mucho sobre estas tierras.\n\nAdemás, hay que limpiarlo todo... mi hermano no deberá aprender a cazar ningun dragón... una tierra donde cultivar, donde pescar y cazar jabalís... algo así es con lo que sueño conseguir Naor.\n\nUna tierra donde nuestros hermanos no deban ser fuertes para sobrevivir.\n\n**Ilikar vuelve a mirar a Naor, afloja su mano que hasta ahora había estado estrujando un puñado de piedras**\n\nNaor - **su mirada va mas allá de los ojos de la princesa, mira a través de ella como si acudiese a su corazón** - ¿qué harás si consigues reunir a todas esas tribus, liderar tu ciudad y todo eso?",
+      "mensaje_sha256": "c275998fb2f3b62d8a5ce1c74dd36311e10e0635d7875f5c33046a0c210586b2",
+      "tipo_discord": 19,
+      "referencia": "1544504622339850282",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1544508556336828468",
+      "texto_sha256": "9388902e24ce698c07dc4832549b4c6219d73187d59621ea5caeb1310378fedb",
+      "adjuntos": []
+    },
+    {
+      "id": "1544511206436380682",
+      "fecha_utc": "2026-09-02T00:56:07.245000+00:00",
+      "fecha_local": "2026-09-02",
+      "editado_utc": "2026-09-02T00:56:31.990000+00:00",
+      "texto": "Naor:** permanece unos segundos en silencio, mirando hacia el río mientras las palabras de Ilikar resuenan en su cabeza. Finalmente sonríe, pero es una sonrisa distinta, más serena.**\n\n¿Qué haré cuando consiga todo eso...?\n\n**Levanta la mirada hacia él y ve como suelta el puñado de piedras **\n\nCreo que dejaré de ser princesa.\n\n**Hace una pequeña pausa antes de continuar.**\n\nAztlan es mi hogar, Ilikar. No podría darle la espalda. Pero también sé que, tal y como está ahora, es la condena de los míos. Nos mantiene separados de las demás tribus, encerrados tras unas leyes que nos hacen creer que debemos protegernos de todos los que son diferentes.\n\n**Niega con la cabeza.**\n\nY yo no quiero que ese sea nuestro futuro.\n\n**Su mirada se vuelve firme.**\n\nMi sueño no es gobernar Aztlán. Mi sueño es reunir a todas las tribus en una sola. Que dejemos de vernos como pueblos distintos y empecemos a vernos como un único clan.\n\n**Naor sonríe ligeramente.**\n\nQuiero  que Xoltacan vuelva a ser esa tierra de la que hablava mi abuelo... la tierra de las leyendas. Ese lugar donde todos los seres pueden convivir, donde cada tribu tenga su sitio y nadie tenga que levantar un arma contra su vecino simplemente porque nació diferente.\n\n**Hace una pausa, dejando que sus palabras se asienten.\nMira a Ilikar directamente a los ojos y deja caer su mano junto a la suya poniendose algo roja**",
+      "mensaje_sha256": "31c9dfc65a893a800d9f44a75221b10c7fe61074d20bd7010beec6898c351e08",
+      "tipo_discord": 19,
+      "referencia": "1544508556336828468",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1544511206436380682",
+      "texto_sha256": "dfd290f885fbf319c586d033e6353282cf2878ada5a5edf1e522a0e09b1701c6",
+      "adjuntos": []
+    },
+    {
+      "id": "1544515702679937064",
+      "fecha_utc": "2026-09-02T01:13:59.233000+00:00",
+      "fecha_local": "2026-09-02",
+      "editado_utc": null,
+      "texto": "**Ilikar escuchó hablar a Naor, y no podía contener la sonrisa. Ese mundo donde todos podían convivir, donde cada tribu tenia su sitio, donde todo el mundo vivía en paz... estaba tan lejos de aquella realidad pero a la vez Naor lo hacía parecer posible.**\n\nIlikar: ¿Eso llegó a existir alguna vez? Esas historias solo son leyendas casi siempre. Ojala se pudiese cumplir algo así... pero en todos lados siempre hay gente mala Naor.\n\n**La mano de Ilikar se acercó a la de naor, suavemente acariciándola hasta agarrarla con delicadeza**\n\nIlikar: ¿De verdad crees que podrias conseguir algo así? ¿Tu sola?",
+      "mensaje_sha256": "69a6c47e4a654d6fcb90e031f2c18872829fcc5720d6ec7b31c0a0ebb06e2507",
+      "tipo_discord": 19,
+      "referencia": "1544511206436380682",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1544515702679937064",
+      "texto_sha256": "f8c250e71bcb468dc367af48b1b11f73d5a516c473d18777f4b0ff505747ab55",
+      "adjuntos": []
+    },
+    {
+      "id": "1544517620991139921",
+      "fecha_utc": "2026-09-02T01:21:36.594000+00:00",
+      "fecha_local": "2026-09-02",
+      "editado_utc": "2026-09-02T01:27:21.368000+00:00",
+      "texto": "Naór : sola no ... \n**se acerca a Ilikar asta que la trufa de su nariz toca la nariz del goliat** \n\naunque por algo hay que empezar... \n\n**le sonríe pícara y separa la cara de él ** \n\nHabrá que buscar un sitio para cuando venga Ilikan ...\nConozco un lugar ... la montaña de los colosos ... Hay hay suficiente espacio aunque no hace tanto frío como en tu tierra.  \nBien decidido . \n** se levanta y le señala **\nme acompañaras a ver a esos grandullónes!!!",
+      "mensaje_sha256": "86aafc20fcadfc865a533449335a12137f4dee1fe5cf8c817d27ef0938e5f317",
+      "tipo_discord": 19,
+      "referencia": "1544515702679937064",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1544517620991139921",
+      "texto_sha256": "459d9caeaa7acdabeeefff2842041dd8f5fdfc514df3df3d00d406b9ab233f6f",
+      "adjuntos": []
+    },
+    {
+      "id": "1544519187714543688",
+      "fecha_utc": "2026-09-02T01:27:50.130000+00:00",
+      "fecha_local": "2026-09-02",
+      "editado_utc": "2026-09-02T01:29:47.041000+00:00",
+      "texto": "**Sonrió el goliath ante la picaresca de Naor**\n\nIlikar: Por supuesto la acompañaré señora princesa de Atlazan. ¡HA HA HA! - **soltó una carcajada antes de levatarse**\n\nAsi que hay una tribu de gigantes por aquí... ¿Crees que sabrán jugar cabraball?",
+      "mensaje_sha256": "d686541ac4ac0253da74c9d4e034807892c8733d92386afa53b8864291726b33",
+      "tipo_discord": 19,
+      "referencia": "1544517620991139921",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1544519187714543688",
+      "texto_sha256": "1fcad703cf51de52cb2da76cd2c22c2d93ca051bc09de08ac0818c9c1eb9a8ea",
+      "adjuntos": []
+    },
+    {
+      "id": "1544519838028791848",
+      "fecha_utc": "2026-09-02T01:30:25.177000+00:00",
+      "fecha_local": "2026-09-02",
+      "editado_utc": null,
+      "texto": "Naór : **se pone los brazos en las caderas levanta una caja y le miró extrañada ** \n\nCabra queeee ???",
+      "mensaje_sha256": "3876ece8a8bb92580fa1e934d98490ed70b1ac11052582833e42e79fb2b943b0",
+      "tipo_discord": 19,
+      "referencia": "1544519187714543688",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1544519838028791848",
+      "texto_sha256": "2314c3b1f52d3efd4ae130fb5b0d566f9ae8006f73ccf45241e7cdc46ce6b277",
+      "adjuntos": []
+    },
+    {
+      "id": "1544521071770734643",
+      "fecha_utc": "2026-09-02T01:35:19.324000+00:00",
+      "fecha_local": "2026-09-02",
+      "editado_utc": null,
+      "texto": "**Ilikar se echó hacia atrás, lanzándo una cara de completa incredulidad**\n\nIlikar: ¿No conocéis el cabraball? Ya decia Ilikar que no habia visto a nadie por aqui practicarlo... ¿Y con qué se divierte la gente aquí?\n\nVamos a tener un problema en ese nuevo mundo que planteas Naor... ¡No admitiré que la tradición del cabraball se pierda!",
+      "mensaje_sha256": "4b48d3d85e4b5d4f400f39d7a485b659bc97ccebf17876631276c53b8bda345c",
+      "tipo_discord": 19,
+      "referencia": "1544519838028791848",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1544521071770734643",
+      "texto_sha256": "3d54e966d52febadbab606065746c64f8ca817eddb4386f2e2e3b30fcfcd750a",
+      "adjuntos": []
+    },
+    {
+      "id": "1544522276932812891",
+      "fecha_utc": "2026-09-02T01:40:06.657000+00:00",
+      "fecha_local": "2026-09-02",
+      "editado_utc": null,
+      "texto": "Naór : pues enséñame,  o tienes miedo que sea mejor que tú?",
+      "mensaje_sha256": "514df8efe9f1ecc52ffc326ee1108b9d1fdde9742867682264200fe241c5b324",
+      "tipo_discord": 19,
+      "referencia": "1544521071770734643",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1544522276932812891",
+      "texto_sha256": "47bbf24948b90a618a4323c64a68c68ab08b39f5948011efffdca6107e13e215",
+      "adjuntos": []
+    },
+    {
+      "id": "1544524775072735303",
+      "fecha_utc": "2026-09-02T01:50:02.260000+00:00",
+      "fecha_local": "2026-09-02",
+      "editado_utc": null,
+      "texto": "**Ilikar miró seriamente a naor, la alegría y emoción desaparecieron. Su sonrisa... se desvaneció. La cara de Ilikar se volvió un muro gélido, su mirada oculta tras la oscuridad y su cuerpo permaneció inmóvil...**\n\n**Inspiró aire, como si fuese a agotarlo, como si fuese la última bocanada de oxígeno antes de bucear en busca de tesoros perdidos, y entonces... rió**\n\nIlikar: ¡HA HA HA HA HA HA HA! ¡AHAA HA HA HAHA!\n\n¡MEJA HA HA HA! ¡MEJOR QUE HA HA HAHAHAH! ¡IMPOSIBLE! !Ha ha ha ha¡ \n\nNadie ha conseguido superar a Ilikar en el cabraball, desde que nací.\n\n**Ilikar se colocó en una pose casi heróica, con las palmas abiertas y las manos alejadas del cuerpo**\n\nIlikar: Antes de ser llamado el Errante de Thuun-Khaz, me llamaban \"el Bicho\". Fuí el campeón de los últimos juegos en los que participé. Tu objetivo de superarme quizás sea más dificil de conseguir que el de unificar estas tierras, Naor. \n\nPero me gustan las personas como tú, con los objetivos bien altos. - **finaliza su burla con una sonrisa a Naor**",
+      "mensaje_sha256": "83e9979ede093eeebf1c013df7fb059c3a9878161a17a304a9c34ee7c39fd8f9",
+      "tipo_discord": 19,
+      "referencia": "1544522276932812891",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1544524775072735303",
+      "texto_sha256": "fdd8a0e89cbc3bbf4ca8e95120a9666cdaac24b6b33e05f867f51f18d81c1970",
+      "adjuntos": []
+    },
+    {
+      "id": "1544526231545057440",
+      "fecha_utc": "2026-09-02T01:55:49.510000+00:00",
+      "fecha_local": "2026-09-02",
+      "editado_utc": null,
+      "texto": "Naór: ** sonríe al ver la actitud competitiva de Ilikar ** \n\nbien Bichito ... enséñame lo que sabes y veremos .",
+      "mensaje_sha256": "9808e07342afc0556c0e7df9b81313b6430c974e87db1fcfcf1f3866128b5da0",
+      "tipo_discord": 19,
+      "referencia": "1544524775072735303",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1544526231545057440",
+      "texto_sha256": "8aa9e374e5eb0eacc2d42c116daf6dc893110355e4d674607cc627e2c0939260",
+      "adjuntos": []
+    },
+    {
+      "id": "1544527576226070578",
+      "fecha_utc": "2026-09-02T02:01:10.107000+00:00",
+      "fecha_local": "2026-09-02",
+      "editado_utc": "2026-09-02T02:05:56.816000+00:00",
+      "texto": "**La leonina pasaría el resto del día aprendiendo las reglas básicas del cabraball mientras el goliat le contaba las normas con entusiasmo , y una vez más se cubre la escena con un tupido velo sin saber como de revuelto acaba ese juego entre los dos bárbaros **\n\n🔴 FIN DE LA ESCENA 🔴",
+      "mensaje_sha256": "a69e2289e185e2581c89a5371c85472ec436ba8298214fe106e64734bc8113e0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1544527576226070578",
+      "texto_sha256": "4cc1b0a1888d0b416332ae110605442289e6b43e2da856b2d811c536e00efd3e",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "id": "k-1442532355909746748",
+  "campana": "kuroto",
+  "unidad_revision": "k-1442517717654700032",
+  "hilo_id": "1379945696089604209",
+  "hilo_nombre": "Sho, Barrios bajos - Capital de Kuroto",
+  "titulo": "Chanecuxtli busca un lugar donde dormir",
+  "resumen": "Evita la base por su dolor con Kurobane y acepta ayudar a Thiary a cambio de alojamiento.",
+  "relato": "Después de la expulsión del ninja, Thiary encuentra a Chanecuxtli entre la basura, agotada y soñolienta. La niña no quiere volver a la base: se siente un estorbo entre los adultos ocupados y le duele la conducta de Kurobane, que rechaza ayuda y quiere marcharse.\n\nPide dormir y ofrece colaborar. Thiary transforma la petición en un trato: le dará una cama si ayuda con algunos trabajos, todavía sin describirlos. La carga hacia la cofradía mientras la niña ofrece cosas brillantes y se acurruca. No se presenta el alojamiento como una incorporación informada a una misión ya conocida.",
+  "participantes": [
+    "Chanecuxtli",
+    "Thiary"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1442537915329675324",
+      "afirmacion": "Chani explica por qué no quiere ver a Kurobane.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1442540145348841473",
+      "afirmacion": "Thiary condiciona la cama a ayudar en trabajos.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1442541564076363838",
+      "afirmacion": "La lleva a la cofradía.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Las dos conversaciones se presentan por separado."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-11-24T15:08:34.604000+00:00",
+  "fin_utc": "2025-11-24T16:05:45.232000+00:00",
+  "fecha_local": "2025-11-24",
+  "intervalo": {
+    "anterior": 168,
+    "siguiente": 169,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1442596662206922943",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 168,
+        "fecha": "2025-11-20",
+        "inicio_referencia_utc": "2025-11-20T19:03:40+00:00",
+        "fin_estimado_utc": "2025-11-20T22:00:36+00:00",
+        "duracion_video_segundos": 10616,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816"
+      },
+      {
+        "capitulo": 169,
+        "fecha": "2025-11-24",
+        "inicio_referencia_utc": "2025-11-24T19:23:51+00:00",
+        "fin_estimado_utc": "2025-11-24T22:32:50+00:00",
+        "duracion_video_segundos": 11339,
+        "tipo_referencia": "aviso_de_contraste",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1442596662206922943"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida. Una hora tomada de un aviso con título discrepante se utiliza solo como referencia aproximada de ese día."
+  },
+  "fuentes": [
+    {
+      "id": "1442532355909746748",
+      "fecha_utc": "2025-11-24T15:08:34.604000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n**Un sombrerito de paja y un arbusto con sueño se alcanza a ver entre la basura, arrastrando las patitas y las alitas por igual mientras bostezaba**\n\nSueño... Pío... \n\n**Después de tanto correr por la ciudad y no encontrar otro lugar para ir ya que sus amigos estaban muy ocupados con otras cosas, decidió regresar a los barrios bajos, quizás ahí podría encontrar un buen lugar donde pasar las noches**\n\n<@214405113677217793>",
+      "mensaje_sha256": "9f19e4cbf34338307862dde67fcc7fe09a484f3eb7c886209a7b7da72dbe139d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442532355909746748",
+      "texto_sha256": "0731f525ae592bb2999af7ff5d1e55c6b375036da484da7a4c31a81542955ff6",
+      "adjuntos": []
+    },
+    {
+      "id": "1442533783701033174",
+      "fecha_utc": "2025-11-24T15:14:15.016000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Thiary: **La ladrona se acerca al arbusto y saca a la criatura que hay escondida allí** ¿Tu otra vez? ¿Me andas siguiendo, pequeña? **Hace una señal a los Shinobis para que se marchen. Que sigan al ninja**",
+      "mensaje_sha256": "a71858c272bbb1e6e089d82e49eeb11615b5158f502dafb5846e94c0ffd52dbd",
+      "tipo_discord": 19,
+      "referencia": "1442532355909746748",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442533783701033174",
+      "texto_sha256": "9b6af5c76c5b61a3e195a9cc942baf1b9b1c763ec31754ff26ad56e18e022b26",
+      "adjuntos": []
+    },
+    {
+      "id": "1442535269260591176",
+      "fecha_utc": "2025-11-24T15:20:09.201000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\nPio?..\n\n**Con la poca dificultad que tenía para razonar por el sueño que tenía, abrí poquito los ojos hinchados que tenía y poder ver a quien me estaba cargando**\n\nHola, Thiary...\n\n**Bostezo**",
+      "mensaje_sha256": "d8f5f9b87f1bac7117c751511b949258ef775fab6800439258df186a1a1962e9",
+      "tipo_discord": 19,
+      "referencia": "1442533783701033174",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442535269260591176",
+      "texto_sha256": "5c88e4cbc38d0da42800ae6898b3b0208e0f1013e597c47da2e6687e98078b10",
+      "adjuntos": []
+    },
+    {
+      "id": "1442536000571052054",
+      "fecha_utc": "2025-11-24T15:23:03.559000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Thiary: Hola...cosita **Te suelta** ¿No te dije que mejor no te metieras por estos callejones?",
+      "mensaje_sha256": "77058608c03c6171b537cc4fbb2ba46d303b6558cbaace2110e2bf34297ec20d",
+      "tipo_discord": 19,
+      "referencia": "1442535269260591176",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442536000571052054",
+      "texto_sha256": "acd80b450f57aeac9befac9fef25d88301453f65e3a3d1f07ea91a939936604c",
+      "adjuntos": []
+    },
+    {
+      "id": "1442536668459569343",
+      "fecha_utc": "2025-11-24T15:25:42.796000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\nNo quiero regresar a la base, Thiary, no hay lugar para mí ahí, yo... yo no quiero verlo, Thiary \n\n**Mis ojos volvían a ponerse llorosos**\n\nTodos están ocupados y...y no quiero molestar, todos siguen llorando, todos tienen cosas que hacer y... y yo solo estorbo, pío...",
+      "mensaje_sha256": "106dd8692045deef4cdf9fe291a55f44851ee7928baf0a04d9d12593b4dd8c55",
+      "tipo_discord": 19,
+      "referencia": "1442536000571052054",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442536668459569343",
+      "texto_sha256": "6ec6c75e31679e0effa075b25436305c2d9c7f3103cb2b68848e6dce342fccb8",
+      "adjuntos": []
+    },
+    {
+      "id": "1442537295042314302",
+      "fecha_utc": "2025-11-24T15:28:12.185000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Thiary: **Pone los ojos en blanco** Bueno, es normal, ha ocurrido una desgracia y los mayores deben arreglar un poco las cosas y... ¿A quien no quieres ver?",
+      "mensaje_sha256": "2873b2918b017c2bdb0a86a5fb9df30acf6c82a7303c0ccb373262d439bfc437",
+      "tipo_discord": 19,
+      "referencia": "1442536668459569343",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442537295042314302",
+      "texto_sha256": "68066cbd7294d57a85fa8485f2fcb05e91fb0fe575a65f66e11ba797328b3280",
+      "adjuntos": []
+    },
+    {
+      "id": "1442537915329675324",
+      "fecha_utc": "2025-11-24T15:30:40.073000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n**Volvía a llorar con fuerza de solo recordar lo que había pasado**\n\nNo quiero ver a Kurobane, el... El estuvo a punto de morir por no querer mi ayuda y... y sigue así, e..el no quiere nada, el no es así, el quiere irse y..y no le importa lo demás",
+      "mensaje_sha256": "d867f38a027d5f1115c2e71cee8404476e1ca6b21e8f287518eebd90a6231baf",
+      "tipo_discord": 19,
+      "referencia": "1442537295042314302",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442537915329675324",
+      "texto_sha256": "d44bfcd58f5ee870b27149abcaa1555e829e658d01c06be31ee3f4bfcb1ee667",
+      "adjuntos": []
+    },
+    {
+      "id": "1442538519816831157",
+      "fecha_utc": "2025-11-24T15:33:04.194000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Thiary: *Ay dios... Porque me vienen a mi todos los lloricas...* **Suspira** Ya te lo dije, hay personas que no quieren ser encontradas, no gastes esfuerzos en ellas o te arrastraran a su oscuridad.",
+      "mensaje_sha256": "62ceccbd0449f9c124a4cd3d5537abe4bdf27fee4fed00aa0884b983dab63704",
+      "tipo_discord": 19,
+      "referencia": "1442537915329675324",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442538519816831157",
+      "texto_sha256": "119bb4856041c74baed9dd474cc158a4e1b4bc72dd0966575df13ed37d70a795",
+      "adjuntos": []
+    },
+    {
+      "id": "1442538920318337135",
+      "fecha_utc": "2025-11-24T15:34:39.681000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\nPuedo quedarme a..a dormir?, n..no he dormido... Tengo sueño... Yo.. yo puedo ayudar, yo ayudo mucho, yo.. yo sé ayudar\n\n**Mi cabecita tambaleaba de lado a lado tratando de mantenerme estable**",
+      "mensaje_sha256": "97a6fa7a3c70e1e5eaafa7f3cbf7defed0a2e8f5d2ab66ec2b8fa706fde0f7eb",
+      "tipo_discord": 19,
+      "referencia": "1442538519816831157",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442538920318337135",
+      "texto_sha256": "c5ee6ce45f533d3ffa7672160058489781225a3062a00baff0fcf5a7da591c20",
+      "adjuntos": []
+    },
+    {
+      "id": "1442540145348841473",
+      "fecha_utc": "2025-11-24T15:39:31.751000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Thiary: A dormir? Aquí? **Hace una imperceptible mueca** No se yo si sería buena..... Espera.... Si yo te doy un buen lugar para dormir, tu ayudarías a Thiary a unos trabajitos?",
+      "mensaje_sha256": "0cf68d2f4b4dcbeffc4679c73973117d8d4024afe0fb91faebf8bb32af31f864",
+      "tipo_discord": 19,
+      "referencia": "1442538920318337135",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442540145348841473",
+      "texto_sha256": "5f6054e9bcd5e9d5f18a34d8697efe517cd14324582488f7a0447c3137dad5e2",
+      "adjuntos": []
+    },
+    {
+      "id": "1442540492289081424",
+      "fecha_utc": "2025-11-24T15:40:54.468000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n**Afirmé con la cabeza mientras se me cerraban los ojitos**\n\nSi, yo.. yo sé ayudar, yo ayudo, me gusta ayudar \n\n**Bostezo**",
+      "mensaje_sha256": "bee6630d901cd4d3cb1a8c9a8d36574100cfb1cd46074a3ec380710d79c5b9a6",
+      "tipo_discord": 19,
+      "referencia": "1442540145348841473",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442540492289081424",
+      "texto_sha256": "79c044bc162606141e6b3a2b41e1cc37114dece0b3e498971776d1ae423ff631",
+      "adjuntos": []
+    },
+    {
+      "id": "1442541564076363838",
+      "fecha_utc": "2025-11-24T15:45:10.002000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Thiary: **Agarra a la criatura emplumada y empieza a andar hacia la base de los Cuchillas Negras** Bueno, que remedio... Anda vamos... Espero que se te de bien lo que te voy a pedir, o me deberás más que una cama mullidita, pequeña",
+      "mensaje_sha256": "981f8d6901427a607c642337c48bf5f3c0550030d53a301e1e05f9cd35016275",
+      "tipo_discord": 19,
+      "referencia": "1442540492289081424",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442541564076363838",
+      "texto_sha256": "3ccb0704a52aee5cb42b04bf43c2162980eed853cffaf9274a5a1a082da58122",
+      "adjuntos": []
+    },
+    {
+      "id": "1442542360390271077",
+      "fecha_utc": "2025-11-24T15:48:19.858000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\nPuedo dar también de esas cosas brillantes, tengo muchas y encuentro muchas más \n\n**Me acurruco cerca de su cuello**\n\nPío...",
+      "mensaje_sha256": "ebfe776f6cbbd5fad438d725a35e8c36c09575cc129501681467c64eed2bd1bf",
+      "tipo_discord": 19,
+      "referencia": "1442541564076363838",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442542360390271077",
+      "texto_sha256": "d68efca3637d209295fe5ae8483a8dc21232e16481536a0ffda0514f07977ea5",
+      "adjuntos": []
+    },
+    {
+      "id": "1442546745006489750",
+      "fecha_utc": "2025-11-24T16:05:45.232000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Thiary: Ya tengo muchas de esas cosas, a Thiary le gusta otro tipo de cositas. Ya te contaré, ahora vamos a descansar **Las dos os perdéis por las calles de los barrios bajos hasta la base de los Cuchillas Negras**\n\n🔴Fin de la escena 🔴",
+      "mensaje_sha256": "8a0bdff7ebbe117994b84d078ae9c704d46ec725f3441b3b5ad8fd0a43392c2d",
+      "tipo_discord": 19,
+      "referencia": "1442542360390271077",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442546745006489750",
+      "texto_sha256": "e10d71af5f1a5a123562b657eab349ab87f6dda655ff52566beace187849260d",
+      "adjuntos": []
+    }
+  ]
+}

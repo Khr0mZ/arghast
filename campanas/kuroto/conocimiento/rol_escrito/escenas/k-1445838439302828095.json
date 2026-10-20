@@ -1,0 +1,93 @@
+{
+  "id": "k-1445838439302828095",
+  "campana": "kuroto",
+  "unidad_revision": "k-1445476180043239546",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "La mazorca junto al mausoleo",
+  "resumen": "Banzo comparte sus dudas con Kalista y recuerda la ruptura de los collares.",
+  "relato": "Banzo se sienta ante el mausoleo y se disculpa con Kalista por no haber ido el día anterior. Le habla en voz alta de las dificultades para tratar con Thiary y de las reservas de Guxi. Cuenta que rompió su collar al ponerse nervioso y que los demás comenzaron a romper los suyos, por lo que espera que el papel de guardianes les sirva mejor. Deja una mazorca y una botella de vino que reconoce haber robado de las cocinas, recordando las observaciones de Jelbreg sobre el vino viejo y la venganza lenta. Sigue sin fiarse de la prisionera por lo ocurrido con Rúa, sin explicarlo aquí. Espera hasta la puesta de sol; entre una broma y una lágrima reconoce en pensamiento cuánto echa de menos a Kalista y Jelbreg. Finalmente se recompone y vuelve a la base.",
+  "participantes": [
+    "Banzo"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1445838439302828095",
+      "afirmacion": "Deposita mazorca y vino, recuerda la rotura de collares y piensa que echa de menos a Kalista y Jelbreg.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La reforma institucional previa y la rotura de collares se cuentan retrospectivamente; no se representan aquí.",
+    "El collar que Guxi saca del bolsillo no está descrito de forma inequívoca en ese mensaje; no inventar su aspecto.",
+    "Chanecuxtli muestra diez garras al preguntársele la edad: registrar lo expresado, sin deducir una especie o origen geográfico concreto.",
+    "La afirmación de Banzo sobre efectos de la soja es una broma atribuida a Jelbreg, no información del mundo."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-12-03T18:05:46.309000+00:00",
+  "fin_utc": "2025-12-03T18:11:05.034000+00:00",
+  "fecha_local": "2025-12-03",
+  "intervalo": {
+    "anterior": 170,
+    "siguiente": 171,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1443679606723838074",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1446214322580881569",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 170,
+        "fecha": "2025-11-27",
+        "inicio_referencia_utc": "2025-11-27T19:07:07+00:00",
+        "fin_estimado_utc": "2025-11-27T22:32:48+00:00",
+        "duracion_video_segundos": 12341,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1443679606723838074"
+      },
+      {
+        "capitulo": 171,
+        "fecha": "2025-12-04",
+        "inicio_referencia_utc": "2025-12-04T18:59:08+00:00",
+        "fin_estimado_utc": "2025-12-04T21:35:38+00:00",
+        "duracion_video_segundos": 9390,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1446214322580881569"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1445838439302828095",
+      "fecha_utc": "2025-12-03T18:05:46.309000+00:00",
+      "fecha_local": "2025-12-03",
+      "editado_utc": "2025-12-03T18:06:51.116000+00:00",
+      "texto": "🌊  PLAYA DE SHO 🪦 \n\nBanzo : **se sienta de piernas cruzadas y da un par de palmaditas a la roca ** \nPerdón por no venir ayer . Otra vez se me acumula la faena . \nSe puede saber como lo hacías con Thiary ? \nEl equipo no parece muy convencido sobretodo el sieso de Guxi , creo que es por lo que representa Thiary y sus creencias para con el Shogunato y los cazadores . \n\nPor cierto creo que la he liado sin querer ... \nRompi mi collar porque me puse un poco nervioso ya me conoces,  y de repente todos empezaron a romper el suyo , supongo que lo de cazadores quedó atras . Quiza el papel de guardianes se nos de mejor .. eso espero . \n\nTe he traído esto esta vez . \n** deja una de las mazorcas  y una botella de vino ** \nLa robe de uno de los armarios de las cocinas , tenía polvo y parece vieja . Me acuerdo que Jel decía que cuanto mas viejo el vino mejor , como una buena venganza a fuego lento . Maldito cascarrabias . \n\nAún queda pendiente lo de esa prisionera ...\nNo me fio un pelo Kalista y creo que no lo haré nunca después de aquello con Rúa.. \n**se queda callado un rato hasta que llega la puesta de sol ** \nBueno he de marchar , si mañana no vengo es que Shizzuka ha probado algo nuevo conmigo jajajaj \n** deja de reir y se le cae una lágrima ** \n*os hecho de menos* \n<@753394009153732689>  <@214405113677217793> \n\nBueno , a espabilar!! \n**se da dos palmadas en la cara y marcha hacia la base **",
+      "mensaje_sha256": "4cef23cf964ebf766a33e6d2a2fc32da2fca1e76f52b44b7adbfdb317eb3b0b9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1445838439302828095",
+      "texto_sha256": "4a9b60d918003d36c86f4733398566415947e4de4b00e123dc69ecd9451d7c34",
+      "adjuntos": []
+    },
+    {
+      "id": "1445839776132370614",
+      "fecha_utc": "2025-12-03T18:11:05.034000+00:00",
+      "fecha_local": "2025-12-03",
+      "editado_utc": null,
+      "texto": "🔴  FIN DE LA ESCENA 🔴",
+      "mensaje_sha256": "088819fe5cbf447dc3373b232bb751d0eff511e38bd663eb289554343dfdb4c0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1445839776132370614",
+      "texto_sha256": "777196957faac8fb81acf3ff080c6a5946aaeb4cc53ea16a981ef39dfbb7c8f7",
+      "adjuntos": []
+    }
+  ]
+}

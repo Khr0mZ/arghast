@@ -1,0 +1,255 @@
+{
+  "id": "x-1503179517689069712",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1503179517689069712",
+  "hilo_id": "1502317868253970632",
+  "hilo_nombre": "Perlasal - La ciudad de las Sirenas",
+  "titulo": "Maris y Coyote comparten una noche de confianza",
+  "resumen": "Coyote muestra sus cambios de aspecto y promete ayudar a Perlasal. Maris comparte su temor a que otros vuelvan a sufrir por ella y ambos se quedan descansando juntos.",
+  "relato": "Mientras sus compañeros descansan, Coyote conversa a solas con Maris y la corteja. Ella recuerda que es hija de la suma sacerdotisa de Perlasal y le pregunta qué es realmente, pues sabe que su aspecto de coyote no cuenta toda la historia. Él adopta sucesivamente las apariencias de guardias, de Maris y de sus compañeros, antes de recuperar la habitual. Cuando Maris expresa que a veces desearía ser otra persona, Coyote le advierte que ser tantos puede hacer que uno olvide quién es.\n\nLa conversación se vuelve más seria al hablar de la ayuda que necesita la ciudad. Maris teme por los visitantes y recuerda el peligro de los profundos, que casi han matado a uno de ellos. Coyote defiende la capacidad de sus compañeros e intenta tranquilizarla, primero con una promesa heroica en tono de broma y después con palabras de confianza. Ella le acaricia la mejilla y termina acurrucándose a su lado. Antes de dormirse, dice que no quiere que otros sufran por ella. Coyote anuncia que debe volver a la superficie para atender asuntos pendientes, pero promete regresar; Maris responde que lo esperará.",
+  "participantes": [
+    "Coyote",
+    "Maris"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1503262978970091620",
+      "afirmacion": "Maris se presenta como hija de la suma sacerdotisa de Perlasal.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1503396037119971409",
+      "afirmacion": "Coyote demuestra varios cambios de aspecto.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1503438356632305845",
+      "afirmacion": "Maris teme por los visitantes después del ataque de los profundos.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1503636561106047056",
+      "afirmacion": "Maris se acurruca junto a Coyote y dice que no quiere que otros sufran por ella.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1503771694282838157",
+      "afirmacion": "Coyote anuncia que volverá a la superficie y promete regresar.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "El pensamiento «otra vez no» pertenece a Maris; no se presenta como información que haya comunicado a Coyote.",
+    "Las promesas de proteger a la ciudad no dan por resuelta su amenaza."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-05-10T23:38:44.742000+00:00",
+  "fin_utc": "2026-05-12T16:41:37.472000+00:00",
+  "fecha_local": "2026-05-11",
+  "intervalo": {
+    "anterior": 30,
+    "siguiente": 31,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1502370548246642719",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1504543985379840030",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 30,
+        "fecha": "2026-05-08",
+        "inicio_referencia_utc": "2026-05-08T18:03:57+00:00",
+        "fin_estimado_utc": "2026-05-08T20:19:56+00:00",
+        "duracion_video_segundos": 8159,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1502370548246642719"
+      },
+      {
+        "capitulo": 31,
+        "fecha": "2026-05-14",
+        "inicio_referencia_utc": "2026-05-14T18:00:24+00:00",
+        "fin_estimado_utc": "2026-05-14T21:15:40+00:00",
+        "duracion_video_segundos": 11716,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1504543985379840030"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1503179517689069712",
+      "fecha_utc": "2026-05-10T23:38:44.742000+00:00",
+      "fecha_local": "2026-05-11",
+      "editado_utc": null,
+      "texto": "Coyote:\nEntonces... Sueles pedirle ayuda a extraños para salvar a tu gente?, o solo esta vez?~\n\n**Recargaba mi mentón sobre mi pata, no le quitaba la mirada a la sirena**\n\nTe han dicho alguna vez que tienes unos ojos preciosos?~\n\n**Mantenía ese tono coqueto mientras me relamía el hocico, aprovechando que los compañeros ya se habían dormido y el otro estaba afuera haciendo no se que cosa**\n\nCuéntame más sobre tí, quiero conocerte más~\n\n<@214405113677217793>",
+      "mensaje_sha256": "2070157fb945a7c0de22eda6488ab7b16ebc786ddc27f8deb8d519f55488d4ed",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1503179517689069712",
+      "texto_sha256": "272bae886019d03c29774954d293ee08e9bac32176e7221293010d183d3a3ba7",
+      "adjuntos": []
+    },
+    {
+      "id": "1503262978970091620",
+      "fecha_utc": "2026-05-11T05:10:23.462000+00:00",
+      "fecha_local": "2026-05-11",
+      "editado_utc": null,
+      "texto": "Maris: Tu ya me lo has dicho varias veces que tengo los ojos bonitos **Rie con timidez mirándote de reojo** ¿Y que más te interesa saber de mi? A parte de ser la hija de la suma sacerdotisa de Perlasal y de seducir a un... ¿Que has dicho que eras? Porque no eres un coyote, de eso estoy segura.",
+      "mensaje_sha256": "11b4b7d608dc682119bc76b3ec3a41f703434ea66605644618369d18dcfbbb47",
+      "tipo_discord": 19,
+      "referencia": "1503179517689069712",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1503262978970091620",
+      "texto_sha256": "81986d8eb219fe863745df7b3207e502ef3b541d99941a50e533ec4421806211",
+      "adjuntos": []
+    },
+    {
+      "id": "1503396037119971409",
+      "fecha_utc": "2026-05-11T13:59:06.997000+00:00",
+      "fecha_local": "2026-05-11",
+      "editado_utc": null,
+      "texto": "Coyote:\nSoy todo y a la vez nada, quien porta la máscara y juega con ella a su antojo\n\n**Mientras decía esto, iba cambiando de aspecto, desde los guardias que nos acompañaban, de ella, de mis propios compañeros hasta volver a la apariencia del Coyote**\n\nIncluso puedo ser lo que tú más deseas si así lo quieres~",
+      "mensaje_sha256": "8347fc13bf071fa5a42293b899355c1bda6c0a9d399ed2d249ae00b1987e4359",
+      "tipo_discord": 19,
+      "referencia": "1503262978970091620",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1503396037119971409",
+      "texto_sha256": "089f92c5c4a03571625cc679023336ab6e612540b3e44c65f2bb57b30034b147",
+      "adjuntos": []
+    },
+    {
+      "id": "1503412816223146058",
+      "fecha_utc": "2026-05-11T15:05:47.447000+00:00",
+      "fecha_local": "2026-05-11",
+      "editado_utc": null,
+      "texto": "Maris: Me gustaría saber hacer eso. Hay veces que desearía ser otra persona... **Suspira pero te mira con una sonrisa** ¿Tus compañeros nos ayudarán de verdad?",
+      "mensaje_sha256": "30157c81cde84cc291da50449f367bc2381d4d282c89cc0df06403a509c3bae3",
+      "tipo_discord": 19,
+      "referencia": "1503396037119971409",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1503412816223146058",
+      "texto_sha256": "bade63274b1eb133a35a7de21afd1110fd348943ee7aa85f689fa525d028e25f",
+      "adjuntos": []
+    },
+    {
+      "id": "1503429282712653896",
+      "fecha_utc": "2026-05-11T16:11:13.364000+00:00",
+      "fecha_local": "2026-05-11",
+      "editado_utc": null,
+      "texto": "Coyote:\nCreeme cuando te digo que es mejor ser lo que eres, porque al ser tantos... Olvidas quien eres realmente\n\n**Ese tono melancólico volvía a salir, pero agitaba de nuevo la cabeza**\n\nClaro que van a ayudar, uno casi se nos muere pero míralo, resistió como todo un campeón el infeliz, y no se diga de los otros dos\n\n**Le regresaba la sonrisa**\n\nPuedes confiar en nosotros, y si alguien hace lo contrario, no dudaré en arrancarle la cabeza~",
+      "mensaje_sha256": "8cb12c04d8dc0b0108b1ed6666e122a8eb90e9bf88ccfa2b2fb69869e9dd2dec",
+      "tipo_discord": 19,
+      "referencia": "1503412816223146058",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1503429282712653896",
+      "texto_sha256": "50c6c13737b188caa39d120faa5c421f52326d21c46aa0128c0410e5cd433e9c",
+      "adjuntos": []
+    },
+    {
+      "id": "1503438356632305845",
+      "fecha_utc": "2026-05-11T16:47:16.755000+00:00",
+      "fecha_local": "2026-05-11",
+      "editado_utc": null,
+      "texto": "Maris: Te lo agradezco pero... **La sonrisa se le borra de la cara y le aparece un rostro de preocupación** Ya viste que los profundos son peligrosos, casi matan a uno de tus amigos y...",
+      "mensaje_sha256": "5d5a728b9b3830d17d054e74bb1d433bc192f2347111081b016954dfc7c13ea5",
+      "tipo_discord": 19,
+      "referencia": "1503429282712653896",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1503438356632305845",
+      "texto_sha256": "dc71cdd6b45a89fd24f12bbf489e0040308291375fb49dfa8b04bc08ff2afa35",
+      "adjuntos": []
+    },
+    {
+      "id": "1503449488990404658",
+      "fecha_utc": "2026-05-11T17:31:30.916000+00:00",
+      "fecha_local": "2026-05-11",
+      "editado_utc": null,
+      "texto": "Coyote:\nPero no pasó, cada uno tiene habilidades sorprendentes y motivos para seguir con vida, y a continuación, diré la frase más cliché que se haya escuchado en la historia:\n\n**Me aclaro la garganta**\n\n\"Daremos nuestra vida por salvar esta hermosa civilización, porque somos héroes\"\n\n**Solté una risa después de ese momento \"heroico\"**",
+      "mensaje_sha256": "8ebe4e604c344c5eebbcffbd563f4f2b5f3ca947690fe67d1babb2dbfe9281a7",
+      "tipo_discord": 19,
+      "referencia": "1503438356632305845",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1503449488990404658",
+      "texto_sha256": "a88b0197fe8b6ddad3bf242edd43278af5d0d82d52e3ccce38b04e9a78f5d75e",
+      "adjuntos": []
+    },
+    {
+      "id": "1503459245440630856",
+      "fecha_utc": "2026-05-11T18:10:17.035000+00:00",
+      "fecha_local": "2026-05-11",
+      "editado_utc": null,
+      "texto": "Maris: **Sonríe suavemente y te acaricia la mejilla con ternura. No dice nada, pero puedes notar miedo. Un miedo por lo que puede pasaros a ellos y vosotros**",
+      "mensaje_sha256": "b47e7e5af342a9466b64ce628a6122b9f5595eeccda3fcf732f4ce62e6001dbf",
+      "tipo_discord": 19,
+      "referencia": "1503449488990404658",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1503459245440630856",
+      "texto_sha256": "8e8b02c82e9234574ce3809ca83b168b2092cb7b2144c6ad63e692b86c9d31a2",
+      "adjuntos": []
+    },
+    {
+      "id": "1503561590409003059",
+      "fecha_utc": "2026-05-12T00:56:57.977000+00:00",
+      "fecha_local": "2026-05-12",
+      "editado_utc": null,
+      "texto": "Coyote:\n**Mi risa se detuvo y al fin pude verla seriamente, su sonrisa me reflejaba lo mismo que alguna vez yo sentí, el miedo constante a mi alrededor**\n\nNo nos pasará nada y tampoco les pasará nada, tenlo por seguro, puede que a veces las cosas salgan mal pero no es el final, el fin es la muerte y a veces ni siquiera eso",
+      "mensaje_sha256": "1f735c7baf10827d097d27dac656e80f948cbecc4170e646cda71f791792b496",
+      "tipo_discord": 19,
+      "referencia": "1503459245440630856",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1503561590409003059",
+      "texto_sha256": "2430e12eecd9353d61a9f618c60acce7d511a2954a834a586b85cd3f12f459bc",
+      "adjuntos": []
+    },
+    {
+      "id": "1503636561106047056",
+      "fecha_utc": "2026-05-12T05:54:52.384000+00:00",
+      "fecha_local": "2026-05-12",
+      "editado_utc": null,
+      "texto": "Maris: **Vuelve a sonreírte con esa mirada triste pero apoya su cabeza en tu hombro y se queda acurrucada contigo** No quiero que otros sufran por mi... *otra vez no...* **Con un pequeño suspiro notas como se relaja y se queda en silencio, disfrutando de este momento**",
+      "mensaje_sha256": "408faf0dad444be80b3fc5003c4765926be906724cf51766132ccda841f81b61",
+      "tipo_discord": 19,
+      "referencia": "1503561590409003059",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1503636561106047056",
+      "texto_sha256": "8bd2cd2938a92e343000b547ae8186a7dba0a2c206c1420f06d6a9265ad48a80",
+      "adjuntos": []
+    },
+    {
+      "id": "1503771694282838157",
+      "fecha_utc": "2026-05-12T14:51:50.644000+00:00",
+      "fecha_local": "2026-05-12",
+      "editado_utc": null,
+      "texto": "Coyote:\n*Que agradable momento*\n\n**El sueño me empezaba a invadir, me sentía tan a gusto estando con ella**\n\nCariño mío, vamos a descansar, mañana debo regresar a la superficie, deje unos asuntos pendientes por ahí, pero te aseguro que volveré",
+      "mensaje_sha256": "a6b6f3877f1c9662daaa301820e10d76dbebdb80d532df422da04533c98756d4",
+      "tipo_discord": 19,
+      "referencia": "1503636561106047056",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1503771694282838157",
+      "texto_sha256": "1c43a1e19c73da8ef9e676ac18201848d627f10d2e9d7b9dbd2c4495b8506d48",
+      "adjuntos": []
+    },
+    {
+      "id": "1503798667977560236",
+      "fecha_utc": "2026-05-12T16:39:01.674000+00:00",
+      "fecha_local": "2026-05-12",
+      "editado_utc": null,
+      "texto": "Maris: Te esperaré... Mi coyote... **Dice con un hilo de voz mientras acaba cerrando los ojos y cayendo dormida.**",
+      "mensaje_sha256": "5ea4c88b054c9acecfe177055879f24809b5bbcb24cc69949bc3cd7a82a3839a",
+      "tipo_discord": 19,
+      "referencia": "1503771694282838157",
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1503798667977560236",
+      "texto_sha256": "80d2ec4133612c9764445ffbea983762c7a5b4c007fa77bb7e9015d8de2220e9",
+      "adjuntos": []
+    },
+    {
+      "id": "1503799321441865788",
+      "fecha_utc": "2026-05-12T16:41:37.472000+00:00",
+      "fecha_local": "2026-05-12",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "4b4a59bf8400e991d9ceb82beac27ce59e0cd7b206bc72ba0f8bcdc3c9a9b7ab",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1502317868253970632/1503799321441865788",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

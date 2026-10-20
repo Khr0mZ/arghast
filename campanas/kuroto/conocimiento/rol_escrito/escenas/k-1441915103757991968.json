@@ -1,0 +1,278 @@
+{
+  "id": "k-1441915103757991968",
+  "campana": "kuroto",
+  "unidad_revision": "k-1441915103757991968",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Chani no reconoce la actitud de Tezca",
+  "resumen": "Kurobane rechaza su ayuda mientras mantiene una esfera de oscuridad y una máscara inquietante.",
+  "relato": "Chani atraviesa las calles vacías después de la destrucción y quiere ayudar. Reconoce un aura familiar junto a una esfera oscura y corre al encuentro de Kurobane. Él disuelve la esfera, pero su sombra sigue moviéndose y le pide no acercarse. La niña intenta curarlo y advierte la sangre oscura y los ojos grises sin el rojo habitual. Kurobane se pone una máscara de oni y su voz parece más fría. Chani lo abraza y después muestra la lista de Guxi: debe reunir nobles para contribuir a salvar Kuroto. Él la anima a hacerlo, aunque ella se va triste, convencida de que ese no es su Tezca y prometiendo encontrarlo de nuevo. El ninja queda pensativo y espera en privado que su plan evite sufrimiento; no explica en qué consiste ni una sustitución real de identidad.",
+  "participantes": [
+    "Chanecuxtli",
+    "Kurobane"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1441919000354357301",
+      "afirmacion": "Kurobane disuelve la esfera oscura y habla con Chani.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1441924665185407007",
+      "afirmacion": "Se describen ojos grises, sangre oscura y máscara de oni.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1441928690392105061",
+      "afirmacion": "Chani se marcha preocupada y declara que buscará a su Tezca.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1441931632616673430",
+      "afirmacion": "Kurobane espera en privado que su plan salga bien y no sufran.",
+      "tipo": "pensamiento"
+    }
+  ],
+  "notas": [
+    "Dos escenas separadas por FIN explícito.",
+    "La cooperación de los nobles no establece aún un nombramiento ni prueba los términos de un acuerdo con la cofradía.",
+    "El espíritu en el cuerpo de Kurobane es una hipótesis planteada por Thiary, no diagnóstico confirmado.",
+    "Nomi Kazuyuki y Koki Yasuoka son nombres expresos de la lista; no completar genealogías por ellos."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-11-22T22:15:50.223000+00:00",
+  "fin_utc": "2025-11-22T23:22:26.051000+00:00",
+  "fecha_local": "2025-11-22",
+  "intervalo": {
+    "anterior": 168,
+    "siguiente": 169,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1442596662206922943",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 168,
+        "fecha": "2025-11-20",
+        "inicio_referencia_utc": "2025-11-20T19:03:40+00:00",
+        "fin_estimado_utc": "2025-11-20T22:00:36+00:00",
+        "duracion_video_segundos": 10616,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816"
+      },
+      {
+        "capitulo": 169,
+        "fecha": "2025-11-24",
+        "inicio_referencia_utc": "2025-11-24T19:23:51+00:00",
+        "fin_estimado_utc": "2025-11-24T22:32:50+00:00",
+        "duracion_video_segundos": 11339,
+        "tipo_referencia": "aviso_de_contraste",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1442596662206922943"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida. Una hora tomada de un aviso con título discrepante se utiliza solo como referencia aproximada de ese día."
+  },
+  "fuentes": [
+    {
+      "id": "1441915103757991968",
+      "fecha_utc": "2025-11-22T22:15:50.223000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": "2025-11-22T22:16:06.854000+00:00",
+      "texto": "Chanecuxtli:\n**Las calles vacías, las tiendas cerradas, el olor del fuego y la muerte en las calles**\n\nPío... \n\n**Ver ese paisaje desolado era devastador para mi corazón, mis alas se arrastraban por el suelo viendo todo**\n\nNo debieron irse así, pío, no es justo pío, no... No es tiempo de ponerme triste, tengo que ayudar a Kuroto, Pío!!\n\n**Volví a levantar mis alitas tratando de mantener el ánimo**\n\n<@240564189448503306>",
+      "mensaje_sha256": "56b460b2ef505006a0280890fd81717ef3fbd8dfad76a9f3649efae80544b18f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1441915103757991968",
+      "texto_sha256": "a78bfcb12771c019ad44bc447894b47f704e4aea1eec81604a875b1e37916217",
+      "adjuntos": []
+    },
+    {
+      "id": "1441917243444166808",
+      "fecha_utc": "2025-11-22T22:24:20.364000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": "2025-11-22T22:26:43.282000+00:00",
+      "texto": "???:\n\n**Sientes un aura que conoces cerca y ves una bola oscura no muy cerca**",
+      "mensaje_sha256": "cdedaafda5bd17096655e687386f927ea5b49b933ce19a7d525233fc34fb9e79",
+      "tipo_discord": 19,
+      "referencia": "1441915103757991968",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1441917243444166808",
+      "texto_sha256": "688ec572b8f7c608f970d784a9eac897d09d7ebd1dad61aabebbee8da97a1c67",
+      "adjuntos": []
+    },
+    {
+      "id": "1441918117289918524",
+      "fecha_utc": "2025-11-22T22:27:48.705000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n**Esa energía me reconfortó bastante, por lo que rápidamente salí corriendo hacia allá**\n\nTEZCA PÍO!! TEZCA PÍO!! ESTOY BIEN!! MIRA PÍO!!",
+      "mensaje_sha256": "a260450b4cbc0325f978be8b9e3461e97fb4bae7f5591b251893748cd1e01f2b",
+      "tipo_discord": 19,
+      "referencia": "1441917243444166808",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1441918117289918524",
+      "texto_sha256": "562f9fd11bdcaea8a3952e9e7a20fe3a39bd5a671b87deaa15adf2021ebdee32",
+      "adjuntos": []
+    },
+    {
+      "id": "1441919000354357301",
+      "fecha_utc": "2025-11-22T22:31:19.244000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": null,
+      "texto": "Kuro:\n\n**Se escucha un chasquido y la esfera de oscuridad desaparece**\n\nQue haces aquí, pequeña?\n\n**Pregunta serio mientras ves que está sentado en el suelo y su sombra se mueve mucho**",
+      "mensaje_sha256": "e10840b4cbf663c674cb9f3f87c46607defff7234b811933fa5071b1738f93f0",
+      "tipo_discord": 19,
+      "referencia": "1441918117289918524",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1441919000354357301",
+      "texto_sha256": "7435e864cb5da89c611e90e51fee3e6738e54550c74f647193e2e7a85f7606ea",
+      "adjuntos": []
+    },
+    {
+      "id": "1441919540408881356",
+      "fecha_utc": "2025-11-22T22:33:28.003000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n**Sonreí lanzandome sobre Kurobane mientras aleteaba con mucha alegría**\n\nTu también estás bien, pío, también estás vivo, pío \n\n**Mis ojitos se empezaron a llenar de lágrimas**\n\nTezca está vivo, pío, estás vivo, pío",
+      "mensaje_sha256": "38df6c247d10b55805a663b9a52ffe503a4508f97968be8936a2310e154e09be",
+      "tipo_discord": 19,
+      "referencia": "1441919000354357301",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1441919540408881356",
+      "texto_sha256": "c237200ef6ebace26119f9801e1221442725c8c1f421baaa971f70cee633a856",
+      "adjuntos": []
+    },
+    {
+      "id": "1441920036531863725",
+      "fecha_utc": "2025-11-22T22:35:26.288000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": null,
+      "texto": "Kuro:\n\nLo estoy, pequeña. Tan sólo, no te acerques.\n\n**Dice serio mientras se puede observar como se encuentra a su lado una máscara de oni con los colmillos grandes, posaría su mano encima de ella**",
+      "mensaje_sha256": "4b320a2806d5fd50b69092ae07ea07a6f6eee6ecbcc5d9309394d86e322aa557",
+      "tipo_discord": 19,
+      "referencia": "1441919540408881356",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1441920036531863725",
+      "texto_sha256": "4af22627a4c59fb6d2440c0a85797d557a370fd8939b7025cf401e6477b55f4b",
+      "adjuntos": []
+    },
+    {
+      "id": "1441920538091196447",
+      "fecha_utc": "2025-11-22T22:37:25.869000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\nPor qué no?, pío?\n\n**Le miré con bastante curiosidad**\n\nTe duele algo?, pio?, yo te puedo curar, mira, yo puedo\n\n**Junté mis alas haciendo que empezarán a brillar**\n\nYo te ayudo, pío, ya no dolerá, pío",
+      "mensaje_sha256": "b120689b7e2f356bc21be0531e8ac88d93cfc67e8a69321344cefbc3c89805cb",
+      "tipo_discord": 19,
+      "referencia": "1441920036531863725",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1441920538091196447",
+      "texto_sha256": "655b685adc183246bc27e98a3024ce552ed5a4b66479b2d74f0b24d35e4584af",
+      "adjuntos": []
+    },
+    {
+      "id": "1441924665185407007",
+      "fecha_utc": "2025-11-22T22:53:49.845000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": null,
+      "texto": "Kuro:\n\n**Si posaras las alitas en el cuerpo del ninja, notarías que su sangre se ha vuelto más oscura que antes y si le ves a los ojos, ese color rojo fuego ha desaparecido ahora es de un gris ceniza y el iris no se distingue**\n\nEstoy bien.\n\n**Dice serio mientras ves que se pone la mascara de oni**",
+      "mensaje_sha256": "2e33d18e9dab7d9dc4714af9f293a0af11a287ed1b179be9e10383ba6aaf8ff1",
+      "tipo_discord": 19,
+      "referencia": "1441920538091196447",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1441924665185407007",
+      "texto_sha256": "34da13afd47a9c691db943d0626227248244465fe6ff6e38528ca03316369d5e",
+      "adjuntos": []
+    },
+    {
+      "id": "1441925476141633717",
+      "fecha_utc": "2025-11-22T22:57:03.192000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": "2025-11-22T22:57:19.599000+00:00",
+      "texto": "Chanecuxtli:\n**Cuando estaba a punto de ponerle las alas encima, me pude percatar de todo eso**\n\nTe..Tezca pío?..\n\n**Puse mis alas sobre la máscara**\n\nNo Pío, no me gusta eso, pío, yo te voy a ayudar, Pío, yo puedo, Pío \n\n**Me apoyé sobre su pecho y le dí el abrazo que me habían pedido darle**\n\nYo.. yo te ayudo, pío, yo puedo pío, déjame ayudarte pío",
+      "mensaje_sha256": "a3c1c87bca7a038d2b5b01bc58ee35c8c16333545ae124ef000f1679708f7e85",
+      "tipo_discord": 19,
+      "referencia": "1441924665185407007",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1441925476141633717",
+      "texto_sha256": "cb9e3be3deceda53d6395c6b6cf54730c78bb2a3130f0cd7e9f8734457188e6c",
+      "adjuntos": []
+    },
+    {
+      "id": "1441926339572662434",
+      "fecha_utc": "2025-11-22T23:00:29.050000+00:00",
+      "fecha_local": "2025-11-23",
+      "editado_utc": null,
+      "texto": "Kuro:\n\n**Acaricia lentamente la cabeza del arbusto con patas**\n\nEstoy bien, Chani.\n\n**Dice serio, notas que la voz cuando lleva la mascara suena más fría y calculadora, mientras te coloca a un lado y se levanta**",
+      "mensaje_sha256": "8ec10f71185c3a9cd5bc1eae7d826534cf93f7981cd930686351f5e9f62eed7c",
+      "tipo_discord": 19,
+      "referencia": "1441925476141633717",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1441926339572662434",
+      "texto_sha256": "46e4891f5cf0c8de1f09bb719353073a5d1451802536275dc8b2a7db25449f93",
+      "adjuntos": []
+    },
+    {
+      "id": "1441926930122149888",
+      "fecha_utc": "2025-11-22T23:02:49.848000+00:00",
+      "fecha_local": "2025-11-23",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\nTezca Pío...\n\n**Saqué la lista que me había dado Guxi**\n\nYo.. yo tengo algo que hacer, yo..YO VOY A AYUDAR A SALVAR A KUROTO Y...Y A TI TAMBIÉN!! PÍO!!\n\n**Empecé a ver la lista**\n\nVOY A ENCONTRAR A LOS NOBLES PÍO Y YO AYUDARÉ!! PÍO!!",
+      "mensaje_sha256": "d8db65bce41224fff7791774a226b0b04fb2effcee4f8830f23a9bacd158426d",
+      "tipo_discord": 19,
+      "referencia": "1441926339572662434",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1441926930122149888",
+      "texto_sha256": "678ea0ef1d7c7acdfc848c2d9db82279a04cfd9b788c48867b1ba0893b1819da",
+      "adjuntos": []
+    },
+    {
+      "id": "1441927344989143243",
+      "fecha_utc": "2025-11-22T23:04:28.760000+00:00",
+      "fecha_local": "2025-11-23",
+      "editado_utc": null,
+      "texto": "Kuro:\n\nA por todas, pequeña.\n\n**Dice serio mientras se pone de cuclillas y le acaricia la cabeza**\n\nMucha suerte en encontrarlos.",
+      "mensaje_sha256": "9f8b7c89525278918dde279d78d7f3634b2f27e250a15a5b91bc72f8fc89a479",
+      "tipo_discord": 19,
+      "referencia": "1441926930122149888",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1441927344989143243",
+      "texto_sha256": "f671d0119f0c245f43348a6f1b4a5db8b341de28dcea8fb5efefbe8c6ab3c4b9",
+      "adjuntos": []
+    },
+    {
+      "id": "1441928690392105061",
+      "fecha_utc": "2025-11-22T23:09:49.529000+00:00",
+      "fecha_local": "2025-11-23",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n**Mis ojitos se volvieron a llenar de lágrimas al sentir esa frialdad, ese no era el Tezca que yo conocía y quería**\n\nTu no eres mi Tezca, pío, te voy a encontrar, yo te voy a encontrar pío...\n\n**Salí corriendo a toda velocidad por dónde llegué, ahora era mi deber encontrarlos, yo tenía que encontrarlos**\n\n🐤 Chanecuxtli sale de escena 🌱",
+      "mensaje_sha256": "a1a915bab1a30a4459786ad294e4f9d8ea21f45d346024b6770c16b821105dee",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1441928690392105061",
+      "texto_sha256": "448ec397d54acf9f4f87141ebe7261d0a8a2fdb392ffd8219b115a690e1f72e4",
+      "adjuntos": []
+    },
+    {
+      "id": "1441931632616673430",
+      "fecha_utc": "2025-11-22T23:21:31.010000+00:00",
+      "fecha_local": "2025-11-23",
+      "editado_utc": null,
+      "texto": "Kuro:\n\n**Se queda pensantivo**\n\n*Espero que esto salga bien, no quiero que sufran*\n\n🌑  Kurobane sale de escena 🌑",
+      "mensaje_sha256": "99306b47f4e7befa66a5cc4498f57a618e69c3051c7b8323a2c4f525f076a854",
+      "tipo_discord": 19,
+      "referencia": "1441928690392105061",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1441931632616673430",
+      "texto_sha256": "0ac92f872038d8d9755d9a852068856f5d85767fe505bf9c92a1d79eb30737a5",
+      "adjuntos": []
+    },
+    {
+      "id": "1441931863475093650",
+      "fecha_utc": "2025-11-22T23:22:26.051000+00:00",
+      "fecha_local": "2025-11-23",
+      "editado_utc": null,
+      "texto": "🔴  Final de escena 🔴",
+      "mensaje_sha256": "0387438ae25fe3dbedf713b7768e2da5674d41a5292aec669427a74641d51039",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1441931863475093650",
+      "texto_sha256": "2d951a88aefa391a493c42f6b69315b97b488451d8ef0802371598f1f0254083",
+      "adjuntos": []
+    }
+  ]
+}

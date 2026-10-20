@@ -1,0 +1,96 @@
+{
+  "id": "k-1455567454851043419",
+  "campana": "kuroto",
+  "unidad_revision": "k-1453786805634601133",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "R3 propone recuperar el Camaro",
+  "resumen": "Banzo decide llevar al constructo al campamento.",
+  "relato": "Días después, R3 busca a Seraphina en la base, pero encuentra a Banzo observando a Lord Miau. El pequeño constructo se sube al goliat y señala el portal. Cuando Banzo le advierte que la incursión prevista es peligrosa, proyecta una imagen del Camaro, una carreta convertida en cañón de combate, y acompaña sus pitidos con la risa grabada de Archi. Banzo acepta llevarlo al campamento para preguntar a los demás dónde guardan la máquina y cómo funciona. Ambos salen sin localizarla ni ponerla en marcha.",
+  "participantes": [
+    "Banzo",
+    "R3"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1455567454851043419",
+      "afirmacion": "R3 proyecta la imagen de la máquina Camaro y Banzo acepta ir al campamento.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La carta y la interpretación de Banzo acreditan un anuncio de adelanto, sin cifra, transferencia contada ni condiciones completas del trato.",
+    "«Pescado en mal estado» es una referencia codificada cuyo destinatario no se identifica aquí; no inventar asesinatos ni limpieza de una facción.",
+    "Los maullidos y gestos de Lord Miau y Vespera no se traducen por completo; no convertirlos en acuerdos o amenazas ejecutadas.",
+    "Vespera entra invitada y se equipa en este fragmento; no se reconstruyen las condiciones de su salida de cautiverio.",
+    "La máquina se muestra en una proyección de R3, sin prueba de alcance, velocidad o fuerza; la sugerencia de Vespera sobre bolas de fuego es una pregunta.",
+    "Los nombres bromistas de posibles grupos en la carta no establecen una denominación nueva oficial."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-12-30T14:25:24.372000+00:00",
+  "fin_utc": "2025-12-30T14:36:33.814000+00:00",
+  "fecha_local": "2025-12-30",
+  "intervalo": {
+    "anterior": 177,
+    "siguiente": 178,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1453105577910862044",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1455641515153162354",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 177,
+        "fecha": "2025-12-23",
+        "inicio_referencia_utc": "2025-12-23T19:22:28+00:00",
+        "fin_estimado_utc": "2025-12-23T22:16:28+00:00",
+        "duracion_video_segundos": 10440,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1453105577910862044"
+      },
+      {
+        "capitulo": 178,
+        "fecha": "2025-12-30",
+        "inicio_referencia_utc": "2025-12-30T19:19:26+00:00",
+        "fin_estimado_utc": "2025-12-30T21:38:38+00:00",
+        "duracion_video_segundos": 8352,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1455641515153162354"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1455567454851043419",
+      "fecha_utc": "2025-12-30T14:25:24.372000+00:00",
+      "fecha_local": "2025-12-30",
+      "editado_utc": null,
+      "texto": "R3 : **el pequeñajo llega a la base en busca de Seraphina <@408026114548695061>  , parece que lleva un tiempo pasando poco por casa , lo primero que encuentra es a Banzo , que esta mirando fijamente a Lord miau parece que le recuerda a la imagen que vio de Vespera <@753394009153732689>  en la taberna \n**\nBanzo : el pequeño aparato del gnomo ... aun funciona \nQue buscas  por aquí pequeño \nR3: bip bip bip **se le sube encima a banzo y le señala el portal ** \nBanzo : quieres venir conmigo ? Hoy tenemos una incursión peligrosa eres lo único que queda de ese loco estas seguro ? \nR3: **de su ojo brillante sale un holograma del\" Camaro\" ese carro convertido en un cañón de combate ** \nBip bip bip , Bum Bum **imita la risa loca de archi ** \nBanzo : mmmmm ... interesante \nVamos al campamento pequeña criatura de hojalata , hablaré con los demas y veamos donde guardan esa máquina,  espero que sepas como funciona",
+      "mensaje_sha256": "80f2e9e6f8aa04e4d249f48da053302100d055c60390e3600a1fce762df0c44f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1455567454851043419",
+      "texto_sha256": "b24d126f81354427869134aaa744d7a86dd7770315dbfc7acfa20e25353483cb",
+      "adjuntos": []
+    },
+    {
+      "id": "1455570262694301868",
+      "fecha_utc": "2025-12-30T14:36:33.814000+00:00",
+      "fecha_local": "2025-12-30",
+      "editado_utc": null,
+      "texto": "🌭 ⚙️ Banzo y r3 salen de escena 🌭 ⚙️",
+      "mensaje_sha256": "1bb5b55740f73f4d06fd8a4473b9ebb9c1c571586aafd2ee95511b82751529bc",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1455570262694301868",
+      "texto_sha256": "74d927453ab4c6449549f6d6c114c60e2b2da8889bb8c458d9b59ad53cc70da1",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "id": "k-1395403621096489031",
+  "campana": "kuroto",
+  "unidad_revision": "k-1395336414048030801",
+  "hilo_id": "1387915737502580886",
+  "hilo_nombre": "Sho, Palacio del Shogunato - Capital de Kuroto",
+  "titulo": "Banzo responde por Guxi",
+  "resumen": "La Shogun acepta colaboración contractual, pero exige pruebas antes de devolver los privilegios.",
+  "relato": "Banzo llega a palacio y pregunta por la adaptación al cargo y por la investigación del ataque en la ceremonia. Kalista lo lleva con Jelbreg a la biblioteca y cuenta lo descubierto, sin que se transcriban los detalles. El goliat teme una distracción semejante a la del sur, pero cambia de asunto: pide incorporar de nuevo a Guxi, elogia su compromiso y promete compartir las consecuencias si falla. Kalista recuerda una misión de espionaje que considera incumplida y ofrece una prueba. Ante la insistencia de Banzo, entrega un contrato para que Guxi colabore, conservando la condición de que no recibirá título ni privilegios de cazador hasta demostrar con un invento, misión, rescate o hazaña el valor que Banzo defiende. El goliat celebra la concesión con un abrazo, recoge el encargo de obtener y devolver la firma y se marcha. Kalista manda entonces a Jelbreg investigar el cuartel en busca de otros informantes; él sale después de despedirse con un beso.",
+  "participantes": [
+    "Banzo",
+    "Kalista",
+    "Jelbreg"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1395435775197184110",
+      "afirmacion": "Banzo pide reincorporar a Guxi por su compromiso con Kuroto.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1395439600914272287",
+      "afirmacion": "Ofrece responder junto a él si falla y pide confianza.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1395441039346630666",
+      "afirmacion": "Kalista entrega un contrato de apoyo manteniendo pendientes título y privilegios.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1395459425355173979",
+      "afirmacion": "Ordena a Jelbreg investigar el cuartel.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1395463431095586959",
+      "afirmacion": "Jelbreg se marcha hacia el cuartel.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Dos situaciones consecutivas diferenciadas en subescenas, con cobertura íntegra de los mensajes.",
+    "Yuri en el nombramiento corresponde por continuidad a la finalista llamada Yumi durante la entrevista; conservar la variante, sin crear una quinta candidata.",
+    "Las amenazas y la autorización de matar al guardia son explícitas, pero no aparece ejecución en esta unidad.",
+    "No se reproduce el contenido concreto de lo descubierto sobre el ataque en la ceremonia: Kalista solo lo explica de forma resumida."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-07-17T13:55:48.615000+00:00",
+  "fin_utc": "2025-07-17T17:53:28.430000+00:00",
+  "fecha_local": "2025-07-17",
+  "intervalo": {
+    "anterior": 138,
+    "siguiente": 139,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1395103349975552102",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1395465783865512070",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 138,
+        "fecha": "2025-07-16",
+        "inicio_referencia_utc": "2025-07-16T18:02:21+00:00",
+        "fin_estimado_utc": "2025-07-16T21:05:27+00:00",
+        "duracion_video_segundos": 10986,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1395103349975552102"
+      },
+      {
+        "capitulo": 139,
+        "fecha": "2025-07-17",
+        "inicio_referencia_utc": "2025-07-17T18:02:34+00:00",
+        "fin_estimado_utc": "2025-07-17T20:59:56+00:00",
+        "duracion_video_segundos": 10642,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1395465783865512070"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1395403621096489031",
+      "fecha_utc": "2025-07-17T13:55:48.615000+00:00",
+      "fecha_local": "2025-07-17",
+      "editado_utc": "2025-07-17T14:06:25.734000+00:00",
+      "texto": "Banzo : **entraría saludando a sus ex compañeros,  se fijaría bien si hay alguno nuevo en la guardia de palacio . Se dirige a uno de los consul o trabajadores para que avisen de su llegada a la Shogun ** <@753394009153732689>",
+      "mensaje_sha256": "6e0b5d77e9a77c76e383125206277342df83bef5311f9cf0ae06bbf1d287ffa4",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395403621096489031",
+      "texto_sha256": "e815277bc39e9f5d39ca6847deffd104277f1726b7cd7b8fdb8dce7c269e3a2f",
+      "adjuntos": []
+    },
+    {
+      "id": "1395410760733032710",
+      "fecha_utc": "2025-07-17T14:24:10.837000+00:00",
+      "fecha_local": "2025-07-17",
+      "editado_utc": null,
+      "texto": "Kalista: **Los consules te guian ante Kalista que al verte te regala una sonrisa** Me alegra verte querido amigo",
+      "mensaje_sha256": "a7f2c31e2b8ea0a395c6b25a996c9e3852667ca5dc28676950268e2095a4cd3d",
+      "tipo_discord": 19,
+      "referencia": "1395403621096489031",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395410760733032710",
+      "texto_sha256": "7ca09524cb6e016ebb3758191f7a0f216a83e0853087c2938b34554f8f04a955",
+      "adjuntos": []
+    },
+    {
+      "id": "1395412246607302677",
+      "fecha_utc": "2025-07-17T14:30:05.097000+00:00",
+      "fecha_local": "2025-07-17",
+      "editado_utc": null,
+      "texto": "Jelbreg: **El drow esta al lado de la Shogun y te mira fijamente para luego asentirte sonriente. Se alegra de verte**",
+      "mensaje_sha256": "f9071a554b29040a8c4891e52fecb54ecd9938161afb2e76810436efd7355af4",
+      "tipo_discord": 19,
+      "referencia": "1395403621096489031",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395412246607302677",
+      "texto_sha256": "96647b7a125976cc6efedcd031997ee59ef12e3c0e2c2cdd3da79ffff18fbe4d",
+      "adjuntos": []
+    },
+    {
+      "id": "1395415095911256075",
+      "fecha_utc": "2025-07-17T14:41:24.424000+00:00",
+      "fecha_local": "2025-07-17",
+      "editado_utc": "2025-07-17T15:09:42.542000+00:00",
+      "texto": "Banzo : **os sonrrie a ambos ** <@214405113677217793> <@753394009153732689> \nOs veo bien , que tal la adaptación?  nueva vida ,  nueva casa .. **observa los cambios en palacio ** \nAyer vinieron algunos de los chicos ha hechar una mano con el tema del ataque en la ceremonia cierto ? \nQue tal fue ?, no he podido verles y hablar con ellos aun",
+      "mensaje_sha256": "61d0ee04c150aaffee6212590922a23382b764a5a46e29381045cadd6b0f79c5",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395415095911256075",
+      "texto_sha256": "d7541bf020c49ebaa7d5a15baa190ebd18013f83fea187607bdf929fbc268f9c",
+      "adjuntos": []
+    },
+    {
+      "id": "1395429849677430824",
+      "fecha_utc": "2025-07-17T15:40:01.996000+00:00",
+      "fecha_local": "2025-07-17",
+      "editado_utc": null,
+      "texto": "Kalista: si quieres puedo contarte todo en mi despacho privado",
+      "mensaje_sha256": "ae08a47943d558e8e044e6b650edc22c64aab6925fedab0d88bc24027f4aba57",
+      "tipo_discord": 19,
+      "referencia": "1395415095911256075",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395429849677430824",
+      "texto_sha256": "af665990766b84bdf022e3264a30281cd78623920d1efefe9b4c5c70f2246c6d",
+      "adjuntos": []
+    },
+    {
+      "id": "1395430516815298570",
+      "fecha_utc": "2025-07-17T15:42:41.054000+00:00",
+      "fecha_local": "2025-07-17",
+      "editado_utc": null,
+      "texto": "Banzo: genial ** te seguiría **",
+      "mensaje_sha256": "bc11392f5184aaadcfaaa96dfd290db449613d22c67fbf611d09486cbb768f07",
+      "tipo_discord": 19,
+      "referencia": "1395429849677430824",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395430516815298570",
+      "texto_sha256": "ea519107a5ba069670ec00879bb12252dc665cf69e8fe84ad04268855d145280",
+      "adjuntos": []
+    },
+    {
+      "id": "1395433577638006884",
+      "fecha_utc": "2025-07-17T15:54:50.811000+00:00",
+      "fecha_local": "2025-07-17",
+      "editado_utc": null,
+      "texto": "Kalista: **os lleva a ti y a Jelbreg a la biblioteca y te explica lo que encontraron y descubrieron... Se la cuela algunos refunfuños hacia cierta noble y un...debo en cargarme de ella sin ningun significado mas**",
+      "mensaje_sha256": "a0d61bd4ad16c19b6ca14a4dfd476c7af103ebd8643bd008841ab35b2fcdffdd",
+      "tipo_discord": 19,
+      "referencia": "1395430516815298570",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395433577638006884",
+      "texto_sha256": "cab63e5dad1b5d0eb623121a210936a8e87703c1cbcbc620b5ff17947833f77a",
+      "adjuntos": []
+    },
+    {
+      "id": "1395435775197184110",
+      "fecha_utc": "2025-07-17T16:03:34.750000+00:00",
+      "fecha_local": "2025-07-17",
+      "editado_utc": "2025-07-17T16:08:08.944000+00:00",
+      "texto": "Banzo : **Se queda pensativo **\nNo podemos estar pendientes de todos los trabajadores de palacio , esto puede ser un problema . Pero me parece sospechoso que con la impostora lo hiciesen tan bien y a estos los pillemos tan fácil... **se rasca la cabeza y se saca un moquillo** y si quieren que nso centremos en eso? . Igual que en el sur. Es como que quieren que nos centremos  en donde ellos quieren que miremos . **suspira**\nBah no me hagas caso , desde lo de esa aldea de Aarakocras estoy un poco paranoico . \n\nQuería comentarte otro tema\n\nEs sobre uno de los chicos . \nGuxi . \nQuiero incorporarlo a los cazadores nuevamente . Se lo ha ganado . Quizá solo arwen podría llegar al nivel de amor que siente ese hombre por esta tierra .",
+      "mensaje_sha256": "9c4bbc73618ab128dd741aca3dae12221c4f21d3d7d01ca220884bd5b2a8dc57",
+      "tipo_discord": 19,
+      "referencia": "1395433577638006884",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395435775197184110",
+      "texto_sha256": "999e55964d298ac47471c857c84b5fc98d3c2bb57405e0e42bd1e586efb96c3f",
+      "adjuntos": []
+    },
+    {
+      "id": "1395437874362454086",
+      "fecha_utc": "2025-07-17T16:11:55.230000+00:00",
+      "fecha_local": "2025-07-17",
+      "editado_utc": null,
+      "texto": "Kalista: a ver...esta bien si quieres que colabore con los cazadores... Pero cuando le encarge la mision de espiar a aquel noble no parecio hacerlo... Si me demuestra que realmente quiere volver a ser un cazador en la proxima mision de los cazadores estara a prueba.",
+      "mensaje_sha256": "520850434376a1b94063df8bdddf51a85737ebf54a4e7901533bdf76c8b593c7",
+      "tipo_discord": 19,
+      "referencia": "1395435775197184110",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395437874362454086",
+      "texto_sha256": "4844dc238e36762e32d88c96314a605b19182f03b20e2c80cb01d723f6cf8b13",
+      "adjuntos": []
+    },
+    {
+      "id": "1395439600914272287",
+      "fecha_utc": "2025-07-17T16:18:46.872000+00:00",
+      "fecha_local": "2025-07-17",
+      "editado_utc": null,
+      "texto": "Banzo : no la pasará. \n**dice con rostro serio pero seguro** \nGuxi y las expectativas nunca han funcionado muy bien . Ahora lo conozco bien . \nY creo que es por la misma presión que se genera el para contentar al resto . \nKalista ..  tiene un gran corazón.  Lo que esta haciendo en el sur es de un gran valor y ha peleado a mi lado y acatado órdenes sin dudar.  \n\nQuizá el chico no supere las expectativas que se le plantean . Pero colabora activamente con los cazadores . \nEntiendo lo que quieres decir. Pero tu misma lo dijiste.  Cualquiera que colabore con los cazadores debe firmar el contrato. No es asi **Mira a Jelbreg ** \nConfia en el chico.  Nos rodeamos de ratas arañas y serpientes . El no nos traicionara y si falla yo pagaré con el. \n\nAcepte el cargo con una condición amiga . Todos juntos recuerdas? Todos  .. \n**te inclina la cabeza esperando tu respuesta **",
+      "mensaje_sha256": "6c16b2a1bf7c57b5c61e0c00ee2c65ccdf8fed4263e28b0a2c2b9da19736c004",
+      "tipo_discord": 19,
+      "referencia": "1395437874362454086",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395439600914272287",
+      "texto_sha256": "8df5dbc2bd42933e43c23540d658e18c4ddf0e8bf359b7029b85d94f150aa0cb",
+      "adjuntos": []
+    },
+    {
+      "id": "1395441039346630666",
+      "fecha_utc": "2025-07-17T16:24:29.821000+00:00",
+      "fecha_local": "2025-07-17",
+      "editado_utc": null,
+      "texto": "Kalista: esta bien, firmara el contrato igual que los que apoyan. Pero no tendra el titulo de cazador ni sus privilegios hasta que yo vea que realmente le importa de verdad, que va a aportar realmente a la causa de los cazadores. Ya sea con un invento, cumpliendo una mision, salvando una aldea, a un compañero... haciendo una hazaña... algo que me haga ver todo eso que me estas diciendo banzo. **Saca un contrato** Hazlo firmar y despues traeme el contrato. Espero de verdad oir algo bueno de Guxi de mucha mas gente.",
+      "mensaje_sha256": "c0e7877f2ebf0201b631015615cb6084ca55ef5fcf591cbfd1be1cc1bfdabd6a",
+      "tipo_discord": 19,
+      "referencia": "1395439600914272287",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395441039346630666",
+      "texto_sha256": "71d3d63cfc27145665027ce6b484f41632f1455bfe70ae76c578d0212583767b",
+      "adjuntos": []
+    },
+    {
+      "id": "1395442251358011552",
+      "fecha_utc": "2025-07-17T16:29:18.787000+00:00",
+      "fecha_local": "2025-07-17",
+      "editado_utc": null,
+      "texto": "Banzo : **Se acerca con el rostro totalmente serio hacia a ti , a un palmo quizá de la cara y se le escapa una pedorreta de aguantarse la risa , te abraza y te levanta como cuando celebrábamos el éxito en aquellas misiones del comienzo ... **\nSi es que eres la mejor , la mejor , la mejor la mejor !,**da vueltas contigo cogida** \nUy ... \n**para y te deja en el suelo te pone el cuello de vestido bien y sonrrie **\nPerdon . **pone voz firme ** \nAsí se hará majestad **y te hace una reverencia **",
+      "mensaje_sha256": "19acdda65b093459e1fc706dd22ecda67b47d864e89f4a3681aed18ceaa7213d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395442251358011552",
+      "texto_sha256": "415eafc23aaf05b413a0bcb42b6077637f5ccf3d76ae81321e199871e7095878",
+      "adjuntos": []
+    },
+    {
+      "id": "1395442670150881290",
+      "fecha_utc": "2025-07-17T16:30:58.635000+00:00",
+      "fecha_local": "2025-07-17",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Suelta una risita al ver a la tritón dar vueltas llevada por el enorme goliat**",
+      "mensaje_sha256": "527ed7c16939ce28a0a45b6ad56820b710000061ed2efe59bcbfd4aaf7799504",
+      "tipo_discord": 19,
+      "referencia": "1395442251358011552",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395442670150881290",
+      "texto_sha256": "2c5e8754bd4ebaa07d293f29dd9b6a6465e256c8412dbff36a21279893bc99d4",
+      "adjuntos": []
+    },
+    {
+      "id": "1395442840871375066",
+      "fecha_utc": "2025-07-17T16:31:39.338000+00:00",
+      "fecha_local": "2025-07-17",
+      "editado_utc": null,
+      "texto": "Kalista: **Se sorprende y tensa porque la pillaste con la guardia baja. Cuando la sueltas suspira y sonrie** No voy a tolerar fallos, pero no soy malvada solo exigente como piden las circunstancias.",
+      "mensaje_sha256": "ff2c85c16f2dd7539612ea2e04ab846a4d1a0a9dea3760be4e028bc998c03a67",
+      "tipo_discord": 19,
+      "referencia": "1395442251358011552",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395442840871375066",
+      "texto_sha256": "59e0b83bd4676888d4ab8c1a0b3dbd9d68db9c52367e8290d0fde95cd1b098a1",
+      "adjuntos": []
+    },
+    {
+      "id": "1395458545280876627",
+      "fecha_utc": "2025-07-17T17:34:03.561000+00:00",
+      "fecha_local": "2025-07-17",
+      "editado_utc": null,
+      "texto": "Banzo: **sale a paso rápido del despacho**\nNo te preocupes kalista . Adiós jelbreg nos vemos . \n\n\n🌭 Banzo sale de escena 🌭",
+      "mensaje_sha256": "d3f18e63c54314d7ba06752b2658859d0bf5a092cc910cc7b55b670f841af8b6",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395458545280876627",
+      "texto_sha256": "b7045b67169f34a8ecb8516222b09262111e161f7aeda9a91398681c08419bcf",
+      "adjuntos": []
+    },
+    {
+      "id": "1395459425355173979",
+      "fecha_utc": "2025-07-17T17:37:33.387000+00:00",
+      "fecha_local": "2025-07-17",
+      "editado_utc": null,
+      "texto": "Kalista: **Suspira** Jelbreg...aprobecha ahora  para colarte en el cuartel...si hay chivatos entre los guardias...puede que haya mas...",
+      "mensaje_sha256": "84e366c1a389e7e5cf22ad40fb8eb09be46a254f581adee3b6a50a70c4d5d1f9",
+      "tipo_discord": 19,
+      "referencia": "1395442670150881290",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395459425355173979",
+      "texto_sha256": "faae0503fe8d3077444c7d42c6814ceee63f6e4da15c594714bfef0916fa8699",
+      "adjuntos": []
+    },
+    {
+      "id": "1395460157525328073",
+      "fecha_utc": "2025-07-17T17:40:27.950000+00:00",
+      "fecha_local": "2025-07-17",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Te mira, suspira** Esta bien, voy para allí **Se para antes de salir, vuelve a ti y te da un largo beso. Y con una sonrisa dice** No te metas en problemas mientras no estoy",
+      "mensaje_sha256": "0ef9a72d0af60e1dc3941b7cdba595f2a821bd7ef50c1f34b3d87b69c5402d34",
+      "tipo_discord": 19,
+      "referencia": "1395459425355173979",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395460157525328073",
+      "texto_sha256": "2241bb3dfc5be6eec863ec633d695cd9808d475f62ae6bb95da6eb42ce79278e",
+      "adjuntos": []
+    },
+    {
+      "id": "1395462993495720148",
+      "fecha_utc": "2025-07-17T17:51:44.098000+00:00",
+      "fecha_local": "2025-07-17",
+      "editado_utc": null,
+      "texto": "Kalista: **Se sorprende y se deja** No lo hare",
+      "mensaje_sha256": "43ce22d18e8a89b0839d5d8e578f231493180fcd698cd30435ba71b97cf826ba",
+      "tipo_discord": 19,
+      "referencia": "1395460157525328073",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395462993495720148",
+      "texto_sha256": "177e5053c0d7e9a98330f4b1283dcc1b7f8abe1a574f89ca64efdb1958405baf",
+      "adjuntos": []
+    },
+    {
+      "id": "1395463431095586959",
+      "fecha_utc": "2025-07-17T17:53:28.430000+00:00",
+      "fecha_local": "2025-07-17",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Se marcha sonriente hacia el cuartel** Eso espero...\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "3a0a2f756d21d85338a95a75a343bf6e02b1af65e741dbe79573f2391af2ca2b",
+      "tipo_discord": 19,
+      "referencia": "1395462993495720148",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1395463431095586959",
+      "texto_sha256": "70fa252bb5fe8e80d3bddca8a7b87378cb720a3dd470a6afebc7231b2b5374f6",
+      "adjuntos": []
+    }
+  ]
+}

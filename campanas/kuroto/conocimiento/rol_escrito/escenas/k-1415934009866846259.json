@@ -1,0 +1,78 @@
+{
+  "id": "k-1415934009866846259",
+  "campana": "kuroto",
+  "unidad_revision": "k-1415934009866846259",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Banzo ante el collar de Kurobane",
+  "resumen": "El líder recorre una Sho vacía y pasa la noche preocupado por el rumbo de los Cazadores.",
+  "relato": "Banzo llega por el portal desde la base de Uukyo y encuentra una situación que le recuerda a la de allí. Recorre Sho, abre el cofre y evoca los trofeos obtenidos por otros Cazadores y los tiempos en que la casa estaba llena de vida. Pasa el resto de la noche dando vueltas al collar de Kurobane. Su pensamiento expresa desconcierto por lo que están haciendo y la sensación de que aquello ya no corresponde a los Cazadores que conocía. Al amanecer se levanta y sale pensativo.",
+  "participantes": [
+    "Banzo"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1415934009866846259",
+      "afirmacion": "Banzo contempla el collar de Kurobane y reflexiona durante la noche antes de marcharse al amanecer.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No se explica por qué Banzo tiene el collar; no deducir muerte, expulsión ni abandono definitivo de Kurobane.",
+    "Uukyo es la grafía usada en este mensaje para la base de procedencia; conservar el original sin crear otra localidad."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-09-12T05:36:14.734000+00:00",
+  "fin_utc": "2025-09-12T05:36:14.734000+00:00",
+  "fecha_local": "2025-09-12",
+  "intervalo": {
+    "anterior": 156,
+    "siguiente": 157,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1415765542228332665",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1417940586811363481",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 156,
+        "fecha": "2025-09-11",
+        "inicio_referencia_utc": "2025-09-11T18:26:34+00:00",
+        "fin_estimado_utc": "2025-09-11T22:04:21+00:00",
+        "duracion_video_segundos": 13067,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1415765542228332665"
+      },
+      {
+        "capitulo": 157,
+        "fecha": "2025-09-17",
+        "inicio_referencia_utc": "2025-09-17T18:29:21+00:00",
+        "fin_estimado_utc": "2025-09-17T21:15:50+00:00",
+        "duracion_video_segundos": 9989,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1417940586811363481"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1415934009866846259",
+      "fecha_utc": "2025-09-12T05:36:14.734000+00:00",
+      "fecha_local": "2025-09-12",
+      "editado_utc": null,
+      "texto": "Banzo : **llega del portal , ha venido de la base de Uukyo , parece que esta habiendo lo mismo en ambas bases ...\nPasea por ellas , abre el cofre y recuerda los trofeos ganados por otros cazadores , recuerda cuando la base estaba llena de vida , y pasa el resto de la noche dándole vueltas al collar de kurobane  **\n*que estamos haciendo ... esto no eran los cazadores ...*\n**un rayo de sol le deslumbra , se levanta y sale de base pensativo**\n\n\n🌭 FIN DE LA ESCENA 🌭",
+      "mensaje_sha256": "ec016fce2e643d18f587b31b52fd38edc8cd7f24eeee5258e1776bc1228c370b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1415934009866846259",
+      "texto_sha256": "6326836fd94d8cf224977be489b856daccbf9b6bfcaf82c3054d836a077d0f87",
+      "adjuntos": []
+    }
+  ]
+}

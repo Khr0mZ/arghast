@@ -1,0 +1,432 @@
+{
+  "id": "x-1468515963455410250",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1468515963455410250",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "El Parlamento del grumete",
+  "resumen": "Nox y Bling obtienen una localización mientras vuelven del bosque.",
+  "relato": "Mientras regresan con el grupo, Nox presiona al grumete Jackson para saber qué buscaban los marinos en la cueva. El hombre responde que pretendían hallar riquezas y defiende a la capitana Molly. Bling, que avanza sobre Ione, se adentra en su mente y percibe su miedo a las consecuencias. Nox registra al prisionero atado y encuentra un retrato con el nombre Lucy, su pareja; utiliza el deseo de volver a verla y nuevas amenazas para exigir datos sobre barcos y posiciones. Bling menciona un fuerte que ha oído en sus pensamientos.\n\nJackson pide Parlamento para protegerse y acaba diciendo que llegaron varios barcos y que han construido el Fuerte Aurora en el sur del Garfio. Nox acepta el Parlamento, lo levanta y promete enseñarle el barco que lo devolverá a su amada, aunque no obtiene un número exacto ni puerto de destino. Al acercarse al poblado, Ione se queda atrás por el ruido y el olor, y Bling desaparece entre la maleza dando por acabada su buena obra. La conversación con el cautivo se remite a la taberna, sin liberación ni regreso a Lucy mostrado.",
+  "participantes": [
+    "Nox",
+    "Jackson",
+    "Bling",
+    "Ione"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1468521799271583816",
+      "afirmacion": "Jackson afirma que buscaban riquezas en la cueva.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1468523547734311054",
+      "afirmacion": "Bling accede a los pensamientos del marino y conoce su temor a Molly.",
+      "tipo": "pensamiento"
+    },
+    {
+      "mensaje_id": "1468532670081273966",
+      "afirmacion": "El retrato muestra el nombre Lucy.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1468547083182280787",
+      "afirmacion": "Bling percibe que Jackson intenta no revelar el fuerte.",
+      "tipo": "pensamiento"
+    },
+    {
+      "mensaje_id": "1468556818472108032",
+      "afirmacion": "Jackson solicita Parlamento antes de informar.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1468607614152872139",
+      "afirmacion": "Jackson localiza el Fuerte Aurora al sur del Garfio y habla de varios barcos.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1468620363435872379",
+      "afirmacion": "Ione desaparece al acercarse al poblado.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1468626000396161033",
+      "afirmacion": "Bling se retira entre la maleza.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Nox es aquí un personaje de Xoltacan; no se fusiona con menciones al Nox de otras campañas o a sustancias con ese nombre.",
+    "Los pensamientos del prisionero son accesibles a Bling por la acción narrada; solo lo que verbaliza llega al resto del grupo.",
+    "Los datos de la Marina son declaraciones del cautivo: no se verifica el fuerte mediante visita ni se inventa un recuento de barcos.",
+    "No se valida un código legal de Parlamento fuera de lo que acuerdan los personajes.",
+    "La ciudad, el guardia y la cuadra vistos por Poncelot son interpretaciones expresamente desmentidas por el narrador.",
+    "La muerte de Merlucilla queda narrada para el lector, sin conocimiento automático del caballero."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-02-04T07:58:09.395000+00:00",
+  "fin_utc": "2026-02-04T15:15:24.246000+00:00",
+  "fecha_local": "2026-02-04",
+  "intervalo": {
+    "anterior": 3,
+    "siguiente": 4,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1468327704360390872",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1469044877005160624",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 3,
+        "fecha": "2026-02-03",
+        "inicio_referencia_utc": "2026-02-03T19:29:48+00:00",
+        "fin_estimado_utc": "2026-02-03T22:20:47+00:00",
+        "duracion_video_segundos": 10259,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1468327704360390872"
+      },
+      {
+        "capitulo": 4,
+        "fecha": "2026-02-05",
+        "inicio_referencia_utc": "2026-02-05T18:59:34+00:00",
+        "fin_estimado_utc": "2026-02-05T21:22:17+00:00",
+        "duracion_video_segundos": 8563,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1469044877005160624"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1468515963455410250",
+      "fecha_utc": "2026-02-04T07:58:09.395000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": "2026-02-04T07:59:49.695000+00:00",
+      "texto": "Nox : **va de vuelta con el resto** <@753394009153732689>  <@220602485977382912>  <@408026114548695061> <@694971576340447292> \na ver buen hombre , que hacéis aqui ? Que estabais buscando en la cueva? <@214405113677217793>",
+      "mensaje_sha256": "feb9ea788fb8380ac711f19d33d31603110dd6419a4e12cbd9e6a3dcb4372414",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468515963455410250",
+      "texto_sha256": "10010b0a7114fe7d107c7632069049f8a44612ac1d0ceeefbfa04deea29ab1ec",
+      "adjuntos": []
+    },
+    {
+      "id": "1468516372891041915",
+      "fecha_utc": "2026-02-04T07:59:47.012000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": null,
+      "texto": "Grumete de la Marina: No te voy a decir nada, sucio pirata!",
+      "mensaje_sha256": "ec1346f0f19777468e7237b801f5236db8e9c6417c297298900ee79a52096131",
+      "tipo_discord": 19,
+      "referencia": "1468515963455410250",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468516372891041915",
+      "texto_sha256": "24e7d0bb06ec19e1a473f4cb349c4a1bf99b9d6768bdae52babdb552c864699d",
+      "adjuntos": []
+    },
+    {
+      "id": "1468518636892328073",
+      "fecha_utc": "2026-02-04T08:08:46.792000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": "2026-02-04T08:14:04.811000+00:00",
+      "texto": "Nox: Jacs.. ese es tu nombre , asi te llamaron tu compañeros \nDescansamos un poco señor Jackson . \nHas visto lo que ha pasado en esa cueva podías haber sido uno mas de ellos ... \nDeberías estar agradecido de seguir con vida.  **le dice de forma persuasiva ** \nNo quiero hacerte daño solo que respondas a mis preguntas y te prometo que en  menos de lo que crees estarás con tu amada esperándote en el puerto de donde zarpaste... enserio te va vale la pena. El valor y el honor ? Porque por volver con tus superiores y que te hechen la culpa de lo que ha pasado? \nVamos jacky... tu eres más listo no es asi ...",
+      "mensaje_sha256": "35ffbbcfafb07192f9503b41e55d47bbccbb9f20f253dcf38e805747dfdbeadf",
+      "tipo_discord": 19,
+      "referencia": "1468516372891041915",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468518636892328073",
+      "texto_sha256": "8c3add4692274adbb9568711edef2569aa6321327ca47e7881f3a52185de3c68",
+      "adjuntos": []
+    },
+    {
+      "id": "1468521799271583816",
+      "fecha_utc": "2026-02-04T08:21:20.762000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": null,
+      "texto": "Grumete Jackson: **Refunfuña entre dientes mientras recapacita todo eso que le has dicho. Esa mujer en forma de lobo destrozando a sus compañeros y la esperanza de volver con su amada que dejó en el puerto** Riquezas.... **Dice en voz baja** Eso es lo que buscamos....",
+      "mensaje_sha256": "568b9a2ba969d94b8d550b30c1c608e344f04d90f870a1f675d6ebb5bb041306",
+      "tipo_discord": 19,
+      "referencia": "1468518636892328073",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468521799271583816",
+      "texto_sha256": "251d44c811ea12d8f330465a2333e72014ffce139dc58b0f3036df10a34df4ad",
+      "adjuntos": []
+    },
+    {
+      "id": "1468522419672191134",
+      "fecha_utc": "2026-02-04T08:23:48.677000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": null,
+      "texto": "Nox : bien jacko  bien eso es un progreso.  \nY que? Hubo suerte en esa cueva? \nSolo 4 hombres allí en un territorio tan peligroso... \nPobrecillo os mandaron a una tumba ...",
+      "mensaje_sha256": "9d14563f2065b5c2131a6cb9f2c89725882a09636a82c7c82a7ed1f08a686e0e",
+      "tipo_discord": 19,
+      "referencia": "1468521799271583816",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468522419672191134",
+      "texto_sha256": "cdb987d30ae4f4b86662d7a1bdfeb8f524b91c5e57959572c05a5b3717d372d9",
+      "adjuntos": []
+    },
+    {
+      "id": "1468522689332252868",
+      "fecha_utc": "2026-02-04T08:24:52.969000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": null,
+      "texto": "Bling: **Avanza  con el grupo encima de Ione mientras escucha la conversación, y curiosa se adentra en los pensamientos del marino**",
+      "mensaje_sha256": "0ea2cea6474fa9a24b6e425c50b2ee3bff868f61ec37783d892724a762ce63ea",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468522689332252868",
+      "texto_sha256": "54ac5d8b520b53407b49d848f117dd966dcc88c9f8ab076a939821fac2aea4b5",
+      "adjuntos": []
+    },
+    {
+      "id": "1468523547734311054",
+      "fecha_utc": "2026-02-04T08:28:17.628000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": null,
+      "texto": "Grumete Jackson: La Capitana Molly sabe lo que se hace... Y no hubiera pasado nada si, vosotros, sucios piratas no... **Nota como si algo se le metiera en la cabeza. Bling puede leerle lo que piensa** *Cuando se entere Molly de lo que habéis hecho...*",
+      "mensaje_sha256": "38106db1361e3d996479d0cfd6b5eec5b85048d0ce8a8bf68003f2053893d082",
+      "tipo_discord": 19,
+      "referencia": "1468522419672191134",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468523547734311054",
+      "texto_sha256": "a093df6378a553d3c2098793b82ccb8c60636c0bf893b7539fd86c60c9f3b4bf",
+      "adjuntos": []
+    },
+    {
+      "id": "1468525215226265643",
+      "fecha_utc": "2026-02-04T08:34:55.189000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": null,
+      "texto": "Nox: jacky jacky jacky  ... \n**se acerca y le registras un poco , mira a ver si encontraría la típica estampita retrato con el nombre de la amada o alguna típica carta de amor que guarde con cariño **",
+      "mensaje_sha256": "3a32ce1a96120cacdf5e72d9a504e710a4772a9d7971a481b6e6e81d925d709d",
+      "tipo_discord": 19,
+      "referencia": "1468523547734311054",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468525215226265643",
+      "texto_sha256": "9c4f4c60c6664d7eabd348d3893e7a0abd3761190c5aafa309d1d36a1c8ec881",
+      "adjuntos": []
+    },
+    {
+      "id": "1468526610130014302",
+      "fecha_utc": "2026-02-04T08:40:27.760000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": null,
+      "texto": "Grumete Jackson: Oye tu! Aleja tus sucias manos roñosas de mis bolsillos... Oye! Trae eso! **Ves que si, tiene un retrato un poco arrugado y maltrecjo de una mujer. Puedes discernir que es su mujer o pareja**",
+      "mensaje_sha256": "0640130e9d52882774246109abb2db4fe79b93f8ffd074ef1ccbe11305d993e7",
+      "tipo_discord": 19,
+      "referencia": "1468525215226265643",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468526610130014302",
+      "texto_sha256": "c9957d72d38606fdaba7e4f1126a8f54fbd438a0e37737ff50a62ee1311fd5bb",
+      "adjuntos": []
+    },
+    {
+      "id": "1468531646494933048",
+      "fecha_utc": "2026-02-04T09:00:28.523000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": null,
+      "texto": "Nox: **lo giro en busca de algún nombre ** \nPero Jacky.... si es preciosa menudo bombon \nNo se yo si sería mejor tomar yo tu puesto y volver a puerto junto tan encantadora damisela \n**habría algun nombre escrito ?**",
+      "mensaje_sha256": "aab68e1d0089c167388fe21a0f47de190e964c2c746c581d83681b4bb87433e9",
+      "tipo_discord": 19,
+      "referencia": "1468526610130014302",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468531646494933048",
+      "texto_sha256": "59c645374c2f98433226ca624c022b2e8a74d083b4c19cfebb56bd9d9ed9d4ab",
+      "adjuntos": []
+    },
+    {
+      "id": "1468532670081273966",
+      "fecha_utc": "2026-02-04T09:04:32.565000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": null,
+      "texto": "Grumete Jackson: **Forzejea para intentar zafarse de las ataduras pero no lo consigue y se tropieza cayendo al suelo de la jungla** Auch!!! Ni te atrevas!! Además ella jamás se fijaría en un hombre tan malholiente y sucio como tú **En la parte posterior esta el nombre de Lucy y un besito**",
+      "mensaje_sha256": "728a9051487d9c4699c99e5e7c788db5f2b60bf057754c610e0deefa148471e4",
+      "tipo_discord": 19,
+      "referencia": "1468531646494933048",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468532670081273966",
+      "texto_sha256": "fff5a471bc34b7adfaf149fd681ad0c16586b2d015ca00cec589c8ac54562bd4",
+      "adjuntos": []
+    },
+    {
+      "id": "1468534908489306166",
+      "fecha_utc": "2026-02-04T09:13:26.243000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": null,
+      "texto": "Bling: jijiji tiene gracia porque ahora sí que dice lo mismo que piensa!",
+      "mensaje_sha256": "fb13d32e3e2c1b26951445a6eed391154d55df45932bbab45e8eb8fa3395ff5c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468534908489306166",
+      "texto_sha256": "4085ea12624b2fff3507f01f91c66716c5f99bbdc49e07624006c5ab77360458",
+      "adjuntos": []
+    },
+    {
+      "id": "1468545279635493010",
+      "fecha_utc": "2026-02-04T09:54:38.917000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": null,
+      "texto": "Nox: oooooo Lucy... que belleza ... \nBonito lunar.. \nDonde están atracados los barcos de la Marina y cuantos hay Jacky ?",
+      "mensaje_sha256": "9d906fbb8bccb73233842841daa3cd8a888dfdf8e92e57b4e093260b4657c6c5",
+      "tipo_discord": 19,
+      "referencia": "1468532670081273966",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468545279635493010",
+      "texto_sha256": "f7005448fb78cd1319eb2f201d21ec785608eaedbd2898bb5beb5edf1f9014d0",
+      "adjuntos": []
+    },
+    {
+      "id": "1468547083182280787",
+      "fecha_utc": "2026-02-04T10:01:48.916000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": "2026-02-04T10:02:09.717000+00:00",
+      "texto": "Grumete Jackson: **Gruñe al oirte decir eso de su mujer** Si te lo digo me encerraran de por vida o peor, me colgarán... **El hombre traga saliva** *No les digas nada Jack... No les digas nada del Fuerte* **Bling puede leer eso en su mente** <@694971576340447292>",
+      "mensaje_sha256": "ba374cdd013ec13a2004e4321fe0ac149f4441ca8d741ad2b6670e1b42e1dbc1",
+      "tipo_discord": 19,
+      "referencia": "1468545279635493010",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468547083182280787",
+      "texto_sha256": "9a1f4545940273edd8e9bdb8e4d1e16f19fe3bdc435f986fa8179b7bfc6a8067",
+      "adjuntos": []
+    },
+    {
+      "id": "1468548368694382622",
+      "fecha_utc": "2026-02-04T10:06:55.406000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": "2026-02-04T10:08:47.690000+00:00",
+      "texto": "Bling: Quién es ese fuerte? És un amigo de Jack? Parece que no quiera que lo conozcamos, jhooo...! **hace cara de triste** Quiero conocer más gente rara que huele a sal..!",
+      "mensaje_sha256": "81a1117e245206c1e0edaf2a4f366318125bbafbe79cfcfc74ecc54cce2cfcdd",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468548368694382622",
+      "texto_sha256": "575a0ca0767bcad06f8c5f77b9b746f83ffa7f15f85e5768f8c0bc4c6e654735",
+      "adjuntos": []
+    },
+    {
+      "id": "1468554723102691339",
+      "fecha_utc": "2026-02-04T10:32:10.415000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": null,
+      "texto": "Nox : Fuerte ??? Puedes leerle la mente ? **Mira a Bling Bang ** \n\nY si no me lo dices créeme que acabarás peor amigo mio . Recuerdas la bestia aquella... \nPor otra ... si me cuentas lo que sabes  podrás marcharte , aquí no ha pasado nada . \nQuizá lucy aun te esta esperando .. aunque no se si esperaría un eunuco **te acerca la espada a la entrepierna **",
+      "mensaje_sha256": "848871c1e42561c2743406144c3d7391254068945ef2d16ea0aa46336e96b6b2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468554723102691339",
+      "texto_sha256": "8281f3272fc81e8e57f1ee9f31f0b9966a305f0cd7bdb0e6dc09a7831a1d69b9",
+      "adjuntos": []
+    },
+    {
+      "id": "1468556818472108032",
+      "fecha_utc": "2026-02-04T10:40:29.990000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": null,
+      "texto": "Grumete Jackson: **Traga saliva con la amenaza de cortarle la tercera pierna y te mira** Vale vale vale... Pero quiero Parlamento! Si te lo digo y se enteran, tendré un peor final del que tu me ofreces...",
+      "mensaje_sha256": "8ff03fc66a3eb73b3462c707e76dc27aff4631d0e28dc7330b147616ab7ecb51",
+      "tipo_discord": 19,
+      "referencia": "1468554723102691339",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468556818472108032",
+      "texto_sha256": "6fe3aa2e0a7ea87c3117959e7ea8aaaa43f58e8849d7e86e71ad4b08bbd82a98",
+      "adjuntos": []
+    },
+    {
+      "id": "1468558949673467906",
+      "fecha_utc": "2026-02-04T10:48:58.108000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": null,
+      "texto": "Bling: **Alegra otra vez la cara** No me gusta mucho leer peeero, pero si escuchar secretitos **hace un gesto  con un dedo en los labios** jijiji",
+      "mensaje_sha256": "94d8db5c03ee63e926a72590c238bb08126bb0b93c94f49d40e8ab70b9772c57",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468558949673467906",
+      "texto_sha256": "42c4ae1c0509bf31ef5e60503b813a56a7a9507398ea72a592b24c6060dcc1da",
+      "adjuntos": []
+    },
+    {
+      "id": "1468606346717827263",
+      "fecha_utc": "2026-02-04T13:57:18.444000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": null,
+      "texto": "Nox : Parlamento ? Jajajaja esta bien , pero para usar el código ha de ser usted pirata . Quiere ser pirata señor Jackson ? **se empieza a reír ** \nParlamento pues . \n\nCuantos barcos han venido y donde están apostados?",
+      "mensaje_sha256": "d6edf6d2bc46218200fc1605ab266def3af2db4dd51c690e4a233c6a09f43954",
+      "tipo_discord": 19,
+      "referencia": "1468556818472108032",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468606346717827263",
+      "texto_sha256": "9d0c2cb255dd2eb3edfa10da52d9f33c6cb1f80e4081169466b3ac4caae8cd56",
+      "adjuntos": []
+    },
+    {
+      "id": "1468607614152872139",
+      "fecha_utc": "2026-02-04T14:02:20.624000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": "2026-02-04T14:19:56.224000+00:00",
+      "texto": "Grumete Jackson: No caere tan bajo como ser un pirata... **Mueve la cabeza de lado a lado, pero con la cabeza tapada no ve nada. Pero recuerda a la enorme mujer lobo que mato a sus camaradas. Traga saliva y vuelve a mirarte acobardado** Varios.... Han construido el Fuerte Aurora en la zona sur del Garfio... No se más... Se lo prometo...",
+      "mensaje_sha256": "d618348b68ca9b78cc6c68e081a43ba885f1615bf19cfdaa7897230b341f0f1d",
+      "tipo_discord": 19,
+      "referencia": "1468606346717827263",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468607614152872139",
+      "texto_sha256": "8ce6b1b81b53c08206a06b7a8799a90c52896936e39253a2731092e7a6a4d39c",
+      "adjuntos": []
+    },
+    {
+      "id": "1468608152328208557",
+      "fecha_utc": "2026-02-04T14:04:28.935000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": null,
+      "texto": "Ione: **Se rasca la oreja como un perro y se le cae un trozo de carne de los dientecitos**",
+      "mensaje_sha256": "219d96ae742c040b96ce4664f72bf0b5f70f5d24bce7248287a87e1b99addb7c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468608152328208557",
+      "texto_sha256": "610a641eff37d41bc72cacc56aeba3efab3632b1429823a97f26a94ac7d8f585",
+      "adjuntos": []
+    },
+    {
+      "id": "1468615207860441331",
+      "fecha_utc": "2026-02-04T14:32:31.105000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": null,
+      "texto": "Nox: Lucy estaría orgullosa claro que si Jack. **se sienta a su lado se saca su sombrero y se lo coloca en la cabeza encima de ese saco que tiene para no ver nada . **\n\nTenemos a la capitana Molly al frente de lo que parece un proyecto de  una fortificación de asentamiento en el Sur del garfio . \n\nLlevemos a este hombre a pegar un trago en buena compañía !! Se lo ha ganado !! \n**lo levanta y le indica el camino para seguir andando hasta llegar al pueblo **\nEn cuanto lleguemos Jacky se te enseñare el barco en el que volverás a ver a tu amada . \nA donde hay que ir ? Puerto de la Espada? Lothien? \nNo me digas que es de Pharun",
+      "mensaje_sha256": "cade370175e1c8c8a4a472337de9c09a765756cb610d4b6bd463426df26752aa",
+      "tipo_discord": 19,
+      "referencia": "1468607614152872139",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468615207860441331",
+      "texto_sha256": "c2961cb8d4ff8fea1cb4825271c066e6e1cac597f4208426f34bcc58d5dbac58",
+      "adjuntos": []
+    },
+    {
+      "id": "1468617765702340802",
+      "fecha_utc": "2026-02-04T14:42:40.942000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": null,
+      "texto": "🦜  LA ESCENA SEGUIRÍA EN LA TABERNA 🦜",
+      "mensaje_sha256": "cc9896410f976ccf3972008a697587e2cd5600f79c5d208a6e5f54decb1e8e45",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468617765702340802",
+      "texto_sha256": "e3d4fd3c772f363a453492f6eedc89a53a46ba8eae0869a89bd60b9308d86a57",
+      "adjuntos": []
+    },
+    {
+      "id": "1468620363435872379",
+      "fecha_utc": "2026-02-04T14:53:00.290000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": null,
+      "texto": "Ione: **El ruido de la gente y el olor le resulta tan nauseabundo que empieza a quedarse atras. Cuando llegeis a la aldea vereis q Ione ha desaparecido** <@616683133374562304>",
+      "mensaje_sha256": "986cabd06c59bb8e62f20d281f4297a0203de8f86939d8c26460630c6a3a9541",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468620363435872379",
+      "texto_sha256": "bce147b375715ad0e783a7133a387ce3bb6ae9e90a13080c4750aa2dec8418a7",
+      "adjuntos": []
+    },
+    {
+      "id": "1468626000396161033",
+      "fecha_utc": "2026-02-04T15:15:24.246000+00:00",
+      "fecha_local": "2026-02-04",
+      "editado_utc": "2026-02-04T15:15:46.686000+00:00",
+      "texto": "Bling: **Al llegar cerca de la aldea, ve desaparecer a la criatura que custodiaba y ya da por concluida la buena obra del día** Bueno, es hora de volver a casa, y tengo trabajo allá jijiji\n**Desaparece entre la maleza**",
+      "mensaje_sha256": "5a91a85d16e8122a266f25abfb3d716664a5282f4c1e4fe13b4194337327d0ba",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468626000396161033",
+      "texto_sha256": "343afdc4e0ab8c94a266243154a0744ea4628f8983800514ba165495da42a2a7",
+      "adjuntos": []
+    }
+  ]
+}

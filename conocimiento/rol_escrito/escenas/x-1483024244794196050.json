@@ -1,0 +1,121 @@
+{
+  "id": "x-1483024244794196050",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1482330037255671808",
+  "hilo_id": "1482149664131383316",
+  "hilo_nombre": "Cuicapalli - La villa tranquila",
+  "titulo": "Naór parte a cazar hombres serpiente",
+  "resumen": "La guerrera toma su hacha y sale a ayudar a la villa.",
+  "relato": "Button sale de una choza con cansancio y arañazos, observado por varios vecinos. Naór aparece después, se despereza y decide ayudar al poblado. Anuncia que cazará hombres serpiente, empuña su hacha y se interna en la jungla. No se muestra el resultado de la salida.",
+  "participantes": [
+    "Naór",
+    "Button"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1483499294836265223",
+      "afirmacion": "Naór anuncia la cacería y se adentra en la jungla.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Viñetas distintas; los dos mensajes con el nombre del hilo son contexto editorial.",
+    "La salida de una choza y los arañazos no permiten añadir una escena íntima.",
+    "Tryel aparece solo como acompañante del trayecto que Luna recuerda."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-03-16T08:48:53.217000+00:00",
+  "fin_utc": "2026-03-17T16:16:33.973000+00:00",
+  "fecha_local": "2026-03-16",
+  "intervalo": {
+    "anterior": 16,
+    "siguiente": 17,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1482097192952008844",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1483903081971187732",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 16,
+        "fecha": "2026-03-13",
+        "inicio_referencia_utc": "2026-03-13T19:24:52+00:00",
+        "fin_estimado_utc": "2026-03-13T21:51:11+00:00",
+        "duracion_video_segundos": 8779,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1482097192952008844"
+      },
+      {
+        "capitulo": 17,
+        "fecha": "2026-03-18",
+        "inicio_referencia_utc": "2026-03-18T19:00:44+00:00",
+        "fin_estimado_utc": "2026-03-18T21:59:05+00:00",
+        "duracion_video_segundos": 10701,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1483903081971187732"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1483024244794196050",
+      "fecha_utc": "2026-03-16T08:48:53.217000+00:00",
+      "fecha_local": "2026-03-16",
+      "editado_utc": null,
+      "texto": "🌴 Cuicapalli - La villa tranquila",
+      "mensaje_sha256": "4dfb8fa4df8117a00f7238cfb738a6c1999fb6385842128d6be91eaabe708f27",
+      "tipo_discord": 4,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1483024244794196050",
+      "texto_sha256": "e0a5ee9d65cfc69405daa8416e945f79635043f3f65d3490586023471ef5d39c",
+      "adjuntos": []
+    },
+    {
+      "id": "1483024354076917760",
+      "fecha_utc": "2026-03-16T08:49:19.272000+00:00",
+      "fecha_local": "2026-03-16",
+      "editado_utc": null,
+      "texto": "Cuicapalli - La villa tranquila",
+      "mensaje_sha256": "712e171c994356a8ce310eccd431a9cbae6fea55d1d639c6f2df094ec5b4cd84",
+      "tipo_discord": 4,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1483024354076917760",
+      "texto_sha256": "97c2664a7d5bb1b7c0427ff5cf0082e3f5c345956a544e0e27a45596398f9b58",
+      "adjuntos": []
+    },
+    {
+      "id": "1483499294836265223",
+      "fecha_utc": "2026-03-17T16:16:33.973000+00:00",
+      "fecha_local": "2026-03-17",
+      "editado_utc": null,
+      "texto": "Naór : ** vemos salir a Button de una de las chozas  de la aldea , con una cara de cansancio espectacular , rasguños por toda la espalda y la cara incluso algunos aldeanos lo miran sin saber si preguntarle si pueden ayudarle en algo . \n\nMás tarde vemos salir a Naór , estira los brazos bosteza un poco y se rasca detrás de la oreja ** \n\nBien . Pues vamos a ayudar a esta gente . \nVamos a cazar unos cuantos  hombres serpiente . \n\n**agarra su hacha con fuerza y se adentra en la jungla **",
+      "mensaje_sha256": "3644432e7af5e9752db65db941fe2b5646886fc25896eefe2165683c35443ffa",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1483499294836265223",
+      "texto_sha256": "745132cc9472af0ca984b5ef2e3cfe1636e00294b76fc328e9be486cdbcd38a3",
+      "adjuntos": []
+    },
+    {
+      "id": "1484136791664496722",
+      "fecha_utc": "2026-03-19T10:29:45.061000+00:00",
+      "fecha_local": "2026-03-19",
+      "editado_utc": null,
+      "texto": "🔴 Fin de escena🔴",
+      "mensaje_sha256": "205160eb7613a265b35418798f311b01fdbcbe81f0752be231777c859ad0a7de",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1482149664131383316/1484136791664496722",
+      "texto_sha256": "7aa24b8aa6fd3f35301a7f77b3905a178395ed16125386e060d23c65cafcba7d",
+      "adjuntos": [],
+      "no_narrativo": true,
+      "nota_editorial": "Marcador de cierre conservado junto a la conversación."
+    }
+  ]
+}

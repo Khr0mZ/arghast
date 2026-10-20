@@ -1,0 +1,80 @@
+{
+  "id": "k-1461002304970031227",
+  "campana": "kuroto",
+  "unidad_revision": "k-1461002304970031227",
+  "hilo_id": "1362071806441160834",
+  "hilo_nombre": "Base Ukyio - Sala principal",
+  "titulo": "Jhin regresa a la aldea",
+  "resumen": "Visita a Kitaro y se propone buscar a Shizuka y Shirz.",
+  "relato": "Tras ayudar a las tropas en el sur, Jhin vuelve a Ukyio con un sentimiento amargo y recuerdos de sus compañeros. Pasa la tarde bebiendo con Kitaro. Al llegar la noche quiere visitar a Shizuka y buscar a su viejo amigo Shirz; los encuentros quedan pendientes.",
+  "participantes": [
+    "Jhin",
+    "Kitaro"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1461002304970031227",
+      "afirmacion": "Jhin vuelve a Ukyio, visita a Kitaro y quiere buscar a Shizuka y Shirz.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Son dos viñetas sin interacción demostrada; se ofrecen por separado.",
+    "No se identifican los ingredientes ni los efectos del caldero.",
+    "Arwen se llama a sí misma diosa protectora; conservar la atribución."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2026-01-14T14:21:33.615000+00:00",
+  "fin_utc": "2026-01-14T14:21:33.615000+00:00",
+  "fecha_local": "2026-01-14",
+  "intervalo": {
+    "anterior": 179,
+    "siguiente": 180,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1458905021985853695",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1461435221806284870",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 179,
+        "fecha": "2026-01-08",
+        "inicio_referencia_utc": "2026-01-08T19:27:25+00:00",
+        "fin_estimado_utc": "2026-01-08T21:59:18+00:00",
+        "duracion_video_segundos": 9113,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1458905021985853695"
+      },
+      {
+        "capitulo": 180,
+        "fecha": "2026-01-15",
+        "inicio_referencia_utc": "2026-01-15T19:01:30+00:00",
+        "fin_estimado_utc": "2026-01-15T22:02:29+00:00",
+        "duracion_video_segundos": 10859,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1461435221806284870"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1461002304970031227",
+      "fecha_utc": "2026-01-14T14:21:33.615000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": null,
+      "texto": "jhin:\n**aunque habia estado todo el tiempo en el sur ayudando a las tropas no pudo evitar volver a ukyo el lugar que lo acogio donde vivio aventuras con sus compañeros tenia un amargo sabor de que algo mas estaba pasando pero paso la tarde visitando ukyo estuvo kitaro aquella persona que sin los cazadores ahora llamado guardianes no hubieran nacido bebiendo y disfrutando hasta que a la noche fue a visitar a su niña del alma shizuka y buscar a como el le gustaba llamar su viejo amigo shirz**\n<@214405113677217793>",
+      "mensaje_sha256": "4acd37fcae25373ba543164e2881b06a70552ba5e48e9c5564e229882abcee0c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1461002304970031227",
+      "texto_sha256": "8303a66c084269f346c205417ff8afe79f27d04ce0b6c9ec57f61863ae658903",
+      "adjuntos": []
+    }
+  ]
+}

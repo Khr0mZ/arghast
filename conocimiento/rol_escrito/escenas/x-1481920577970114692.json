@@ -1,0 +1,259 @@
+{
+  "id": "x-1481920577970114692",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1481920577970114692",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "El cuerpo en la entrada del poblado",
+  "resumen": "Citlali encuentra al elfo muerto después de un sueño perturbador.",
+  "relato": "Tryel encuentra a dos piratas de Bonny colgando por los tobillos el cadáver de Aerendriel, con un disparo en la cabeza. Lo observa comiendo fruta y después le tira pequeñas piedras. La muerte y la exhibición son explícitas; el mensaje no muestra quién efectuó el disparo.\n\nCitlali despierta de un sueño de tambores, fuego, gritos y ojos rojos. Exige en su interior mensajes completos a quienes parecen dirigirse a ella. Al despertar se ve más envejecida y un nuevo tatuaje le arde en el brazo. Al salir reconoce al elfo muerto, lamenta otro niño perdido y piensa en «Nadie». No se identifica al interlocutor del sueño ni se convierte su interpretación religiosa en una explicación confirmada.\n\nCitlali reprende a Tryel por arrojar piedras y reclama sepultura. Luna busca al pequeño compañero escamoso del elfo, sin hallarlo en esta escena, y vuelve a proponer un ritual; Citlali dice que su alma ya fue reclamada. Tryel compara la exhibición con los castigos de la cofradía del Bajá Balil en el Oasis Raikin. Su semblante se vuelve oscuro un momento, pero después recupera el entusiasmo. No se le atribuye por ello una entidad posesora ni el cargo de heraldo de la muerte.",
+  "participantes": [
+    "Tryel",
+    "Citlali",
+    "Luna"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1481920577970114692",
+      "afirmacion": "Dos piratas cuelgan el cadáver de Aerendriel, que presenta un disparo en la cabeza.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1481999196872773702",
+      "afirmacion": "Citlali despierta del sueño, envejecida y con un tatuaje nuevo que vincula a la muerte.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1482004996064284832",
+      "afirmacion": "Luna busca al reptil compañero del elfo, sin resultado mostrado.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1482005191057473678",
+      "afirmacion": "Citlali exige respeto por el cuerpo y sepultura.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1482006336177967288",
+      "afirmacion": "Tryel compara el castigo con la cofradía del Bajá Balil del Oasis Raikin.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "No se adjudica la autoría del disparo a quien exhibe el cadáver si aquí no se muestra el hecho.",
+    "Sueño, envejecimiento y tatuaje se conservan tal como los relata Citlali, sin identificar una deidad por los ojos rojos.",
+    "La amistad familiar del tratamiento mamá/nieta no acredita parentesco biológico de Luna.",
+    "Ningún mapa queda autenticado como ruta al dios de la muerte ni se concede el título de heraldo.",
+    "La búsqueda del reptil y el entierro siguen como intenciones al cierre de esta unidad."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-03-13T07:43:18.541000+00:00",
+  "fin_utc": "2026-03-13T13:45:09.891000+00:00",
+  "fecha_local": "2026-03-13",
+  "intervalo": {
+    "anterior": 15,
+    "siguiente": 16,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1481731102304370731",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1482097192952008844",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 15,
+        "fecha": "2026-03-12",
+        "inicio_referencia_utc": "2026-03-12T19:10:03+00:00",
+        "fin_estimado_utc": "2026-03-12T22:12:44+00:00",
+        "duracion_video_segundos": 10961,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1481731102304370731"
+      },
+      {
+        "capitulo": 16,
+        "fecha": "2026-03-13",
+        "inicio_referencia_utc": "2026-03-13T19:24:52+00:00",
+        "fin_estimado_utc": "2026-03-13T21:51:11+00:00",
+        "duracion_video_segundos": 8779,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1482097192952008844"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1481920577970114692",
+      "fecha_utc": "2026-03-13T07:43:18.541000+00:00",
+      "fecha_local": "2026-03-13",
+      "editado_utc": null,
+      "texto": "Tryel: **La elfa sale del local de Liz frotándose los ojos medio adormilada. Lleva la armadura mal abrochado y va arrastrando el cinturón con sus armas por el suelo mientras se come una de esas frutas extrañas** Uaaaaaaaaaaah ñam ñam... Estuvo divertido lo de ayer je je je... ¡Oh! **Se sorprende un momento y mira a unos piratas de Bonny al lado de la entrada de Shiaru. Se acerca a ellos y los observa con curiosidad mientras se come la fruta.**\n\n**Los dos piratas atan algo a una cuerda y empiezan a tirar de ella subiendo algo. Después de unos cuantos tirones, se puede ver el cuerpo de Aerendriel colgado de los tobillos con un disparo en la cabeza**\n\nTryel: Ñom Ñom Ñom... Vaya... Pobre elfito. Habrá hecho enfadar a alguien importante... **Levanta los hombros mientras le da un mordisco a la fruta**",
+      "mensaje_sha256": "94d3b1601a6c8775e4d39d2d60f25a98d5893ed19b1f22554874b27a464722c9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1481920577970114692",
+      "texto_sha256": "1d9d58471f817197a089873aaf71841fdada74dc12b24d7980976a70f8809220",
+      "adjuntos": []
+    },
+    {
+      "id": "1481999196872773702",
+      "fecha_utc": "2026-03-13T12:55:42.748000+00:00",
+      "fecha_local": "2026-03-13",
+      "editado_utc": "2026-03-13T13:13:49.362000+00:00",
+      "texto": "Mamá Citlali:\n**Me había quedado dormida después de la discusión con Nox, una serie de sueños empiezan a proyectarse en mi cabeza**\n\n**Los tambores resonando, el pecho me resuena por la fuerza, el calor del fuego a mi alrededor acompañado sonido de gritos que me dejaban casi sorda**\n\n*¿¡QUÉ ES LO QUE QUIEREN DE MI!?, HABLENME!!, SABEN BIEN QUE YO LOS ESCUCHO, PERO NO PUEDO OBEDECER SI SOLO ME DAN FRAGMENTOS DE LO QUE QUIEREN DECIRME!!*\n\n**La fuerza de los tambores aumentaba que ni siquiera mi voz podía oírse, sentía que el corazón me explotaría si seguía así hasta que unos ojos rojos me levantaron de golpe**\n\n**La frente me goteaba en sudor, el pecho subía y bajaba con rapidez, el cuerpo me pesaba mucho más, ahora tenía más canas en la cabeza, más arrugas en el rostro y en el cuerpo**\n\nYa no me comeré mis propios chocolates por si las dudas \n\n**Un nuevo tatuaje empezaba a picarme en el brazo, ardía como si me hubiese quemado con una brasa, bajé la mirada y lo ví**\n\nVaya... Otro niño más que te has llevado...\n\n**Me levanté por completo de la cama y decidí bajar del barco a respirar un rato, al menos el poco aire limpio que aun quedaba**\n\nDioses... Creo que dormí mal, está cintura ya no me deja caminar bien\n\n**Bajé como pude hasta llegar al poblado y darme cuenta del espectáculo que se había montado**\n\nAh... Fue el, pobre \"Nadie\", estará triste...",
+      "mensaje_sha256": "2d197147b48752a78323f0aaf6866e6aaafbfab2ede744135d12b330af32fc36",
+      "tipo_discord": 19,
+      "referencia": "1481920577970114692",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1481999196872773702",
+      "texto_sha256": "2a90252952e855086e1b983b7e837c49b799e18abc1614ad9e0ea070ee004f03",
+      "adjuntos": []
+    },
+    {
+      "id": "1482004348103032989",
+      "fecha_utc": "2026-03-13T13:16:10.897000+00:00",
+      "fecha_local": "2026-03-13",
+      "editado_utc": null,
+      "texto": "Tryel: **La elfa esta sentada en una piedra en la entrada del poblado mientras se come un pomelo y tira piedrecitas al elfo colgado de los pies. Cuando ve a Mama, sonríe y le chilla** ¡¡¡SEÑORAAAAAAAAAAAAA!!! Holi **La ves saludanote con la mano efusivamente. Y zas, otra piedrecita que le da en la cabeza del elfo muerto**",
+      "mensaje_sha256": "efd1c49bf465149ae1bb1a7798a2a4ed96ae1dbdd6c8397aa98e7b0f5f35147b",
+      "tipo_discord": 19,
+      "referencia": "1481999196872773702",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1482004348103032989",
+      "texto_sha256": "aa9c381923159cb5b0b7576e8b12435acaef1a510edfc7aed387c32039ba111b",
+      "adjuntos": []
+    },
+    {
+      "id": "1482004996064284832",
+      "fecha_utc": "2026-03-13T13:18:45.383000+00:00",
+      "fecha_local": "2026-03-13",
+      "editado_utc": null,
+      "texto": "Luna: \n   ** Con el bullicio de la gente murmurando cosas, Luna se asoma a revisar que esta pasando ** \n       Uff... cual es el gusto de colgar cadaveres en este pueblo\n      ** Cuando se da cuenta que es el elfo, mira alrededor buscando a su lagatija ** donde se habrá ido\n      ** Salta del barco y comienza a buscarla **",
+      "mensaje_sha256": "649a434ef3acf1959ec2c8ea747cb524f6e867e93325f1b84cc283504a99c5c3",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1482004996064284832",
+      "texto_sha256": "f65b3c78ca8f9b68f440074a267403518413918b8860c5f100916e5abd2e8d7d",
+      "adjuntos": []
+    },
+    {
+      "id": "1482005191057473678",
+      "fecha_utc": "2026-03-13T13:19:31.873000+00:00",
+      "fecha_local": "2026-03-13",
+      "editado_utc": "2026-03-13T13:21:14.636000+00:00",
+      "texto": "Mamá Citlali:\n**El paso era mas lento a comparación a los otros días, casi arrastrando los pies**\n\nBuen Día mi niña\n\n**Le negué con la cabeza**\n\nNo hagas eso, el cuerpo debe de ir a la tierra a donde pertenece, esto parece mas bien un espectáculo innecesario...",
+      "mensaje_sha256": "760275f5062e384a62a341ad7dcb1de10bea264e5f43ebe1578afade988d8fa2",
+      "tipo_discord": 19,
+      "referencia": "1482004348103032989",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1482005191057473678",
+      "texto_sha256": "d1d8b231182edab2a14d4515dafb8f5c5d8b11d96379df208c635b0d6df83991",
+      "adjuntos": []
+    },
+    {
+      "id": "1482005856936788078",
+      "fecha_utc": "2026-03-13T13:22:10.631000+00:00",
+      "fecha_local": "2026-03-13",
+      "editado_utc": null,
+      "texto": "Luna: Totalmente innecesario, pero podríamos sacarle el corazón y hacer algún ritual para ti no?",
+      "mensaje_sha256": "f48b16781c905899fbabb3e6bf286c74aa4b39ff78abe2d7d4f2ce659f19cada",
+      "tipo_discord": 19,
+      "referencia": "1482005191057473678",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1482005856936788078",
+      "texto_sha256": "ddb64c7f2fa03c17593dd72acd50293a3690f8ee1af12fa677226e3cbd91b45d",
+      "adjuntos": []
+    },
+    {
+      "id": "1482006188710297721",
+      "fecha_utc": "2026-03-13T13:23:29.732000+00:00",
+      "fecha_local": "2026-03-13",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\n**Le palmeo suavemente la cabeza a Luna**\n\nNo funciona así mi niña, su alma ya fue reclamada por el Dios de la muerte, ya no se puede hacer más",
+      "mensaje_sha256": "9eabd7d4146491e77a6a521549cab1b223b56087c88df5e90547308fafcb1741",
+      "tipo_discord": 19,
+      "referencia": "1482005856936788078",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1482006188710297721",
+      "texto_sha256": "3c5821b1a43e2e084ce993e1253d946e8ccfd2ad5f074b3b840101ada2d3c9a8",
+      "adjuntos": []
+    },
+    {
+      "id": "1482006336177967288",
+      "fecha_utc": "2026-03-13T13:24:04.891000+00:00",
+      "fecha_local": "2026-03-13",
+      "editado_utc": "2026-03-13T13:24:34.729000+00:00",
+      "texto": "Tryel: Bueno... **Dice mirando al elfo colgado y pone una expresión algo mas seria** Es una muestra de poder... cuando mi hermano y yo estábamos en la cofradía del Bajá Balil en el Oasis Raikin, había los mismos castigos... o peor... **Lanza una última piedrecita y se levanta para mirarte. Su semblante es totalmente diferente, no parece sonreír con esa carita de elfa joven, sino que parece mas bien como si la oscuridad la envolviera. ¿Recuerdos que quería olvidar? Tal vez...** Sino sabes donde te metes... acabas muerto... **Parpadea dos veces y su cara vuelve a la de siempre** Hola nieta de la señora!!",
+      "mensaje_sha256": "e4698e877a756eb4d0b694c19047894c0e98119957591d22fce91bba8674fcff",
+      "tipo_discord": 19,
+      "referencia": "1482005191057473678",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1482006336177967288",
+      "texto_sha256": "113aeeb6e92d363456580f2df4e23f7e8204eadbf7b1ea87c45e22a2bf65f3a0",
+      "adjuntos": []
+    },
+    {
+      "id": "1482006870272118885",
+      "fecha_utc": "2026-03-13T13:26:12.229000+00:00",
+      "fecha_local": "2026-03-13",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\n**Ese semblante hizo que se me congelara la sangre al verla de esa manera**\n\nEstás bien?...\n\n**Me quedé helada, inclusive se podría decir que dí unos pasos para atrás, pero al ser tan lento no se notó tanto el movimiento**",
+      "mensaje_sha256": "f5b19f0ca0008a256f633573d447f359a6162d27c5a8a688311984d3231c0dd0",
+      "tipo_discord": 19,
+      "referencia": "1482006336177967288",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1482006870272118885",
+      "texto_sha256": "c430061adc29b55d3954675e8b9e3a01a8d9b402c34ab6bc7f6f7e2dd0aa1dc0",
+      "adjuntos": []
+    },
+    {
+      "id": "1482007066741571698",
+      "fecha_utc": "2026-03-13T13:26:59.071000+00:00",
+      "fecha_local": "2026-03-13",
+      "editado_utc": null,
+      "texto": "Luna: \n   Creo debemos ser mas rápidos que es Dios\n      ** Mira a Tyrel, le extiende la mano ** Hola señor pálido, no serás tu algún heraldo de ese Dios de la Muerte?",
+      "mensaje_sha256": "7672297c00220f051b95aa1dfce3188184fcd683634fcbe8d2aee055c4d9b67b",
+      "tipo_discord": 19,
+      "referencia": "1482006336177967288",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1482007066741571698",
+      "texto_sha256": "72b3347a9ca9248018939c141dffc9e295e9f88d98516435f7e7de2c7147901a",
+      "adjuntos": []
+    },
+    {
+      "id": "1482008446369923245",
+      "fecha_utc": "2026-03-13T13:32:28+00:00",
+      "fecha_local": "2026-03-13",
+      "editado_utc": null,
+      "texto": "Tryel: Si, estoy bien ¿por que? **Ladea la cabeza confundida con ese semblante que tiene de normal, la cara de oscuridad se le ha pasado. Mira a Luna** Heraldo del dios de la Muerte? Noooo, pero eso molaría un montón! Como puede ser el heraldo de la muerte? Dime dime dime! **Dice agarrando las manitas de Luna y saltando** <@410954935421763585>",
+      "mensaje_sha256": "c99dc31edb78d7cf6e98c35431e2413dcdb9f8e1a9681be09dcfcdadfd3f7f78",
+      "tipo_discord": 19,
+      "referencia": "1482006870272118885",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1482008446369923245",
+      "texto_sha256": "27ccce2ac525ff52032323a1daf02d66eeacb7dad744290999dd99fa70154ca4",
+      "adjuntos": []
+    },
+    {
+      "id": "1482009568396574773",
+      "fecha_utc": "2026-03-13T13:36:55.512000+00:00",
+      "fecha_local": "2026-03-13",
+      "editado_utc": null,
+      "texto": "Luna: \n   ** Sonrie mientras salta ** mmm depende de que parte de la muerte, aqui hay muchas opciones, el bosque que come cosas, Nox que huele a muerto, Bonny que le gustan los agujeros en la cabeza... Creo que una buena aventura es buscar al Dios ese.\n   ** se gira a la abuela ** podríamos buscarlo, quizás el pueda ayudar con tus heridas.",
+      "mensaje_sha256": "299283726dda30e11615432a00e7cd77e664b96378976b83e384b5bbc22af804",
+      "tipo_discord": 19,
+      "referencia": "1482008446369923245",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1482009568396574773",
+      "texto_sha256": "875cc15947188d1e79168bca715a963aa55b481d105e74ba517d1764df3d7e98",
+      "adjuntos": []
+    },
+    {
+      "id": "1482011641972391936",
+      "fecha_utc": "2026-03-13T13:45:09.891000+00:00",
+      "fecha_local": "2026-03-13",
+      "editado_utc": null,
+      "texto": "Tryel: **Choca los puños entre si y parece que su musculatura aumenta un poco. Con una cara de diversión dice** Eso, vamos a buscarlo y le daré una paliza ja ja ja",
+      "mensaje_sha256": "43b8cdd3baad2a9f2858353471412e5e5b9b14653233a47e6b7fb0e0860e25f4",
+      "tipo_discord": 19,
+      "referencia": "1482009568396574773",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1482011641972391936",
+      "texto_sha256": "4c0f74c861618b50ff5de596b855fd099daba57fb124b8435684897bc3dd17ea",
+      "adjuntos": []
+    }
+  ]
+}

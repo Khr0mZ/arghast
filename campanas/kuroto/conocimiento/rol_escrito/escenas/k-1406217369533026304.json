@@ -1,0 +1,310 @@
+{
+  "id": "k-1406217369533026304",
+  "campana": "kuroto",
+  "unidad_revision": "k-1406217369533026304",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "El carruaje de Alaister",
+  "resumen": "Sera acepta el transporte a una cena, mientras Archi le entrega una señal de auxilio y afirma instalar un localizador.",
+  "relato": "Un carruaje negro con detalles rojizos llega a Sho. Su cochero anuncia que viene a recoger a Seraphina para cenar con Alaister. Banzo, que sospecha inicialmente de un gesto de Guxi, explica que ella no está y deja al hombre esperando antes de marcharse. Más tarde Sera vuelve del puerto, preocupada por una conversación cuyo contenido no revela, y coincide con Archi y su perro Frank ante el vehículo. El gnomo le transmite mentalmente instrucciones atribuidas a Banzo: tomar una piedra de su bolsillo y pronunciar «Que paxa cazadores» si necesita ayuda.\n\nAl oír el nombre de Alaister, Sera recuerda la cena que había acordado y acepta el viaje. Se despide abrazando a Archi y aprovecha para recoger discretamente la piedra. Dentro encuentra un ramo de Flores del Mar, un vestido y una nota de cortesía. Se cambia durante el trayecto y llega a un restaurante elegante del barrio rico, donde espera calmarse tras lo vivido ese día. En Sho, un robot abandona su invisibilidad y hace una señal a Archi; el gnomo declara colocado el localizador y comunica «Hecho» a Banzo por la caracola. La cena y la eficacia del seguimiento quedan fuera de esta escena.",
+  "participantes": [
+    "Seraphina",
+    "Banzo",
+    "Archi",
+    "Frank",
+    "Cochero de Alaister",
+    "Robot de Archi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1406217369533026304",
+      "afirmacion": "El cochero anuncia una invitación de Alaister a Seraphina.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1406228877109366845",
+      "afirmacion": "Banzo abandona la base dejando al cochero esperando.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1406292987859832902",
+      "afirmacion": "Archi transmite en secreto las instrucciones para una piedra de auxilio.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1406294518814474471",
+      "afirmacion": "Seraphina acepta el viaje y recoge discretamente la piedra al despedirse.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1406297828116140092",
+      "afirmacion": "Sera encuentra flores, vestido y nota durante el traslado al restaurante.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1406298952910901288",
+      "afirmacion": "Sera se cambia y llega al barrio rico.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1406299058913415218",
+      "afirmacion": "Archi interpreta la señal de su robot como instalación del localizador y avisa a Banzo.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El relato describe la llegada como nocturna aunque las horas de publicación sean diurnas; se conservan ambos datos sin corregir la fecha original.",
+    "La duración de cinco segundos de la señal se indica en una aclaración de funcionamiento; no se prueba aquí ni se le atribuye una capacidad mayor.",
+    "No se muestra dónde coloca el robot el localizador, ni una lectura efectiva de ubicación.",
+    "Las flores del carruaje están vinculadas a esta invitación; no se atribuyen por ello todas las Flores del Mar anteriores a Alaister."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-08-16T10:05:47.152000+00:00",
+  "fin_utc": "2025-08-16T15:31:36.397000+00:00",
+  "fecha_local": "2025-08-16",
+  "intervalo": {
+    "anterior": 146,
+    "siguiente": 147,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1405973993948975124",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1406697567479271588",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 146,
+        "fecha": "2025-08-15",
+        "inicio_referencia_utc": "2025-08-15T17:58:25+00:00",
+        "fin_estimado_utc": "2025-08-15T21:02:41+00:00",
+        "duracion_video_segundos": 11056,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1405973993948975124"
+      },
+      {
+        "capitulo": 147,
+        "fecha": "2025-08-17",
+        "inicio_referencia_utc": "2025-08-17T17:53:35+00:00",
+        "fin_estimado_utc": "2025-08-17T20:19:39+00:00",
+        "duracion_video_segundos": 8764,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1406697567479271588"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1406217369533026304",
+      "fecha_utc": "2025-08-16T10:05:47.152000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": null,
+      "texto": "**El silencio de la noche, iluminada por la fría luz de la luna llena, se quiebra con el traqueteo de un carruaje que se aproxima a la Base de los Cazadores. Los cascos de los caballos retumban contra el suelo hasta detenerse bruscamente, acompañados por un relincho grave que resuena en la oscuridad. Ante la vista aparece un carruaje de metal negro, adornado con filigranas y detalles rojizos que le confieren un aire noblesco y exótico. \nEl cochero, un hombre encorvado de aspecto desagradable, aunque vestido con sorprendente elegancia, desciende con pasos medidos. Sin perder la compostura, avanza hasta la gran puerta y golpea con decisión.**\n??: Muy buenas noches os sean dadas. Si no es grave menester que lo impida, heme aquí con propósito de escoltar a la gentil dama Seraphina, a fin de conducirla con toda honra hasta la mesa del excelentísimo señor Alaister, donde la cena ya aguarda su presencia\n<@408026114548695061>",
+      "mensaje_sha256": "f07da0dccf61f3ab03582367ae6aff9730aa0e30dbbbabdd327c8eb6e2f66829",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1406217369533026304",
+      "texto_sha256": "42f42dd67474d7aeeaf52b576248bba703c211fd9556c26ef8043f407c9f15dd",
+      "adjuntos": []
+    },
+    {
+      "id": "1406219213835735061",
+      "fecha_utc": "2025-08-16T10:13:06.868000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": "2025-08-16T10:40:55.343000+00:00",
+      "texto": "Banzo :** Que se encuentra en la base ,asoma la cabeza por la ventana y ve ese carruaje **\n*a Seraphina? Será cosa de Guxi esto ...?*\n\n**abre la puerta , el.goliath inclina la cabeza con cara de pocos amigos para mirar al feo pero elegante hombrecillo ** \n\nBuscas a Seraphina?",
+      "mensaje_sha256": "d78c4d763936ddb565ad77c80861cf7a081e72b0a2683276fa20f30669a3b725",
+      "tipo_discord": 19,
+      "referencia": "1406217369533026304",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1406219213835735061",
+      "texto_sha256": "efba4684eecff1d46667d7d3366b28d436bb6d4d2e5c75a1065383c0bc742332",
+      "adjuntos": []
+    },
+    {
+      "id": "1406225423884619798",
+      "fecha_utc": "2025-08-16T10:37:47.459000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": null,
+      "texto": "??: Buenas noches buen señor, la respuesta a esa pregunta es afirmativa **El hombre hace una elegante y torpe reverencia**",
+      "mensaje_sha256": "a07d5de8dd30170c89740abc3a35f94f2974d5b6d29c727d8ad82c59a71fb5e9",
+      "tipo_discord": 19,
+      "referencia": "1406219213835735061",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1406225423884619798",
+      "texto_sha256": "931c76bbb6aab400abd84b3bc12b4c543cdf8fcdc96d107eeda19029736ea66b",
+      "adjuntos": []
+    },
+    {
+      "id": "1406227453982281769",
+      "fecha_utc": "2025-08-16T10:45:51.472000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": null,
+      "texto": "Banzo : pues la señora no esta en casa siento decirte . \n\n**se queda como el que recoge una pizza en su casa y el repartidor se queda en la puerta esperando la propina * \nAlgo mas ? \n**se lo mira extrañado ** \nEsto es cosa de Guxi ?",
+      "mensaje_sha256": "cfc48c2395c820381b79a1e1b55869fd60ca46bf4b15e1635d3472d7f4bb2c39",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1406227453982281769",
+      "texto_sha256": "ef065b17175679e93941970a84bf29163b3666cb55ca203a930cd2c67174e5eb",
+      "adjuntos": []
+    },
+    {
+      "id": "1406227865132990464",
+      "fecha_utc": "2025-08-16T10:47:29.498000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": "2025-08-16T12:03:19.659000+00:00",
+      "texto": "??: Esperaré su regreso entonces. Que tenga una agradable noche, caballero **El hombre vuelve torpemente hacia el esplendido carruaje y espera junto a el**\n<@408026114548695061>",
+      "mensaje_sha256": "5c133ed79575010571516cecfaee0f1c651123cd407189212c263717b076a9e3",
+      "tipo_discord": 19,
+      "referencia": "1406227453982281769",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1406227865132990464",
+      "texto_sha256": "3308b185e4229e6b115523b74d97cc51e927889b27e87a2af95349d0ea4babcc",
+      "adjuntos": []
+    },
+    {
+      "id": "1406228877109366845",
+      "fecha_utc": "2025-08-16T10:51:30.772000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": "2025-08-16T10:57:17.234000+00:00",
+      "texto": "Banzo : Que tipo mas raro . \n**\nCierra la puerta de la base y camina , cuando pasa por al lado del carruaje lo mira bastante extrañado y refunfuña un poco **\n\nIré a hechar un ojo , los chicos irán mñana a las cloacas a ver que se encuentran ahí abajo ...\n🌭 BANZO SALE DE ESCENA 🌭",
+      "mensaje_sha256": "2e1e2458e5da7b77095deb5a3d92f51731cabbb0a08d7dc0510878b879221229",
+      "tipo_discord": 19,
+      "referencia": "1406227865132990464",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1406228877109366845",
+      "texto_sha256": "9d195447094ab5bebfe40f85c4c03e981c19be9cca00e9dc83b8785d298703e5",
+      "adjuntos": []
+    },
+    {
+      "id": "1406288971423678485",
+      "fecha_utc": "2025-08-16T14:50:18.373000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Caminé a paso lento de regreso a la base desde el puerto con mirada cabizbaja y una mueca casi de disgusto, dije lo que tenía que decir pero esperaba haber encontrado las palabras adecuadas para esto**\n\n*En verdad espero no haberlo lastimado*\n\n**Pero al llegar, levanté la mirada y pude percatarme de ese carruaje, supuse que eran cosas de Guxi pero me interesaba saber de que se trataba mientras me acercaba con curiosidad**",
+      "mensaje_sha256": "27e2119c7df99261edc04e606e492102ca68fed39aa9fd92ee3edd2e689d9d33",
+      "tipo_discord": 19,
+      "referencia": "1406227865132990464",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1406288971423678485",
+      "texto_sha256": "e9234f77e6e3eaeaf0045f318733d974f07c5200824ff119a6d627cacff47bbb",
+      "adjuntos": []
+    },
+    {
+      "id": "1406290895191670835",
+      "fecha_utc": "2025-08-16T14:57:57.035000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": "2025-08-16T15:01:45.493000+00:00",
+      "texto": "Archi: **el gnomo llega a la base y ve la carreta se acerca la rodea  y ve al hombre <@214405113677217793>  a su lado **\nVaya bonito modelo.  Es suya señor ?\n\n**mientras Frank el perro intenta subirse rascándose la rueda a dos patas **",
+      "mensaje_sha256": "392e8ffd4a000a874d4157f0470c1d98d2b7f10a5fbba0dbd7ffd90ed3f061ea",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1406290895191670835",
+      "texto_sha256": "5fd33665f3563c59c7495e9396c5421e21d2b467379fdd1e254fa2e543e8e5a2",
+      "adjuntos": []
+    },
+    {
+      "id": "1406291682818785351",
+      "fecha_utc": "2025-08-16T15:01:04.820000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Alcancé a escuchar la voz de Archi**\n\nAh bueno, menos mal que no estoy sola por aquí \n\n**Sonreí mientras me acercaba al Gnomo**\n\nBonita noche Archi",
+      "mensaje_sha256": "2215a1cf4a4838986cd1fec813c298b7afff9b1d02657133f5c316670dfd0406",
+      "tipo_discord": 19,
+      "referencia": "1406290895191670835",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1406291682818785351",
+      "texto_sha256": "73c039d1eaaa00c338e99453e847b1b102caad642a68d141229d53c08fee8eb8",
+      "adjuntos": []
+    },
+    {
+      "id": "1406292987859832902",
+      "fecha_utc": "2025-08-16T15:06:15.966000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": "2025-08-16T15:07:46.029000+00:00",
+      "texto": "Archi : **le envía mensaje mental diciendo ** \nTengo órdenes del grandullón,  coge discretamente la piedra de mi bolsillo , si te sientes en peligro solo di . \"Que paxa cazadores\"  anda con ojo . \n\n(La piedra sin activar simplemente es una piedra , con esas palabras se activaría. Esta es diferente . Solo envía la señal durante 5 segundos luego deja de funcionar ) \n\nArchi : o buenas noches lady Seraphina .**hace una reverencia mientras Frank el pequeño carlino intenta subirse encima del conductor de la carreta pero no puede porque es enano **",
+      "mensaje_sha256": "c09f7ca344adf2a2ea00d4c5f97cab7b24927e6602dfe1ef4c41fd6e37f87a1d",
+      "tipo_discord": 19,
+      "referencia": "1406291682818785351",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1406292987859832902",
+      "texto_sha256": "4013a5e89aa156f8b44a241dd5f9c14d35b8d5d7c1567823bc2aa053b59194f5",
+      "adjuntos": []
+    },
+    {
+      "id": "1406293514492579931",
+      "fecha_utc": "2025-08-16T15:08:21.525000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": null,
+      "texto": "??: **El hombre se queda impasible. No te hace ni caso mientras Frank hace de las suyas en el carromato. Al ver a la mujer, se acerca a ella con paso elegante pero algo torpe** ¿Señorita Seraphina? Soy su cochero para llevarla con el señor Alaister para su cena <@408026114548695061>",
+      "mensaje_sha256": "4700ef2088024368f709656a7cdb4eb0409be47d4717891fe2da55035d49d1b6",
+      "tipo_discord": 19,
+      "referencia": "1406290895191670835",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1406293514492579931",
+      "texto_sha256": "063df0f15a9e43bea865d99b027d530705c0893faa32b09aaced9c6dcb5b84ca",
+      "adjuntos": []
+    },
+    {
+      "id": "1406294518814474471",
+      "fecha_utc": "2025-08-16T15:12:20.974000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": "2025-08-16T15:22:09.454000+00:00",
+      "texto": "Seraphina:\n\nTodo tranquilo por aquí, al menos eso espero, por cierto, trata de animar un poquito a Guxi, hoy lo ví y bueno... No sé si salieron bien las cosas o no...\n\n**Voltee a ver a aquella persona que se acercaba a mi, estaba a nada de golpearlo hasta que mencionó ese nombre**\n\nES VERDAD!!, Que quedé en cenar con un amigo, bueno, entonces me retiro Archi, que pases una excelente noche y que descanses \n\n**Le abracé para despedirme y tomar discretamente la piedra que había en su bolsillo, le sonreí a Archi y me despedí con la mano mientras me subía a la carreta**\n\n<@214405113677217793>",
+      "mensaje_sha256": "c15be0e09ffbc7d2d7afed843f20f1c07d21e5e401f0f7673fb38df346ab2348",
+      "tipo_discord": 19,
+      "referencia": "1406292987859832902",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1406294518814474471",
+      "texto_sha256": "3f08f0a112745fa03b123ed0d8f31cc6a71be38d1416c052a1eb10e0cb601c71",
+      "adjuntos": []
+    },
+    {
+      "id": "1406297828116140092",
+      "fecha_utc": "2025-08-16T15:25:29.973000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": "2025-08-16T15:25:36.968000+00:00",
+      "texto": "**El cochero te ayuda a subir al carromato con elegancia. En su interior encuentras un ramo de Flores del Mar y un hermoso vestido con una nota. Esta, está rociada con un aroma seductor acompañada por una elegante y dedicada caligrafía** *Mi Bella Flor del Mar, he pensado que este vestido le gustaría, disculpe mi atrevimiento, sino le gusta lo entenderé* **El traqueteo avanza junto al relincho de los caballos cruzando hasta llegar al barrio rico de la ciudad, donde el cochero se detiene ante un elegante restaurante.**",
+      "mensaje_sha256": "491b08dcd1075ad8420591bf8461493355d4bc81a7a1a482e1faba4d9991fe30",
+      "tipo_discord": 19,
+      "referencia": "1406294518814474471",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1406297828116140092",
+      "texto_sha256": "6740aa0e8e61b55f77ee23fc72bcf54a400a2a5b3923f099720feb7d81a56df0",
+      "adjuntos": []
+    },
+    {
+      "id": "1406298952910901288",
+      "fecha_utc": "2025-08-16T15:29:58.145000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\n**Ladee la cabeza mirando todos esos detalles, en verdad que era un seductor este joven**\n\n**Aproveché el momento del viaje para ponerme ese vestido que me había dejado y tomar el ramo de Flores, sonriendo tontamente**\n\nEn verdad espero poder calmarme después de lo que pasó hoy...\n\n**Me asomé por la ventana y me sorprendió bastante llegar a este lugar, se notaba la diferencia a plena vista**\n\n_Ah, con que aquí es que se va el dinero, ya veo..._",
+      "mensaje_sha256": "1804590d9bc3fe8c86d613bae6121fef4a3d3b996b7ac37cf06ddc60a49b9724",
+      "tipo_discord": 19,
+      "referencia": "1406297828116140092",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1406298952910901288",
+      "texto_sha256": "9b3e75aad7719e10cf717a06ce9fa69c1801bef87569d2fbd3155f1b43ff3d0b",
+      "adjuntos": []
+    },
+    {
+      "id": "1406299058913415218",
+      "fecha_utc": "2025-08-16T15:30:23.418000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": null,
+      "texto": "Archi: lo has logrado ? \n**un pequeño robot se deja ver después de perder la invisibilidad,  levantando el dedo el señal de ok al gnomo ** \nBien ... localizador puesto . \nEspero que esa coneja sepa lo que hace...\n**entra en la base y se sienta preocupado en la silla para coger la caracola y decir a banzo ** \nHecho .",
+      "mensaje_sha256": "e07aac7a614a96655772e28b54cb81bac12ec544c2ff8e98a77b4771ace3ee9c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1406299058913415218",
+      "texto_sha256": "9bef816913324345c1ef61b436f2cf37c1ccad4f2eb5ae132507260a4e0e6c1a",
+      "adjuntos": []
+    },
+    {
+      "id": "1406299365009526896",
+      "fecha_utc": "2025-08-16T15:31:36.397000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "423772b2ed990e16db0a4e0ae49c52928576b7203d30f311fcc74720e2dec248",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1406299365009526896",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

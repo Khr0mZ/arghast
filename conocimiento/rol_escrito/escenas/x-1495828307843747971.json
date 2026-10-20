@@ -1,0 +1,141 @@
+{
+  "id": "x-1495828307843747971",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1495828307843747971",
+  "hilo_id": "1495828307843747971",
+  "hilo_nombre": "??? - En alguna parte",
+  "titulo": "Miz'lin compra el favor del Zin-Carla",
+  "resumen": "Las yochlol aceptan su petición con un precio aplazado, mientras Aunfaere descubre la debilidad de su madre.",
+  "relato": "La narración recorre Ches Farak, ciudad drow de la Infraoscuridad de Brunami, desde el Bazar de la Araña hasta Vel'wundruss y la Casa Rheydyn. Esta ocupa el tercer lugar tras el ascenso de Brythya Unthuar a la primera posición.\n\nLa matrona Miz'lin oficia ante una pira de agua con su única hija viva, Aunfaere, y novicias de la academia de Lolth. Aparecen Eskavidne y Yiccardaria, yochlol que se burlan de la llamada. La matrona pide el Zin-Carla y ofrece cualquier servicio, incluso sacrificar a su hija; la paraliza para mostrarlo.\n\nLos demonios desprecian ese pago y señalan su deseo de venganza por las hijas muertas. Miz'lin pierde la calma e insiste en que dará lo que pidan. Finalmente aceptan conceder el favor y dejan para más adelante la contraprestación. No se ejecuta el sacrificio ni el ritual en esta escena.\n\nCuando las yochlol se retiran, Aunfaere contempla a su madre con odio y una pequeña sonrisa. Ha descubierto una flaqueza que pretende aprovechar. La concesión abre una deuda cuyo precio todavía no conoce la matrona.",
+  "participantes": [
+    "Miz'lin Rheydyn",
+    "Aunfaere",
+    "Eskavidne",
+    "Yiccardaria"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1495828393718059110",
+      "afirmacion": "Miz'lin pide el Zin-Carla y ofrece sacrificar a Aunfaere, a quien paraliza.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1495828462064111867",
+      "afirmacion": "Las yochlol atribuyen su petición a venganza por las hijas muertas.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1495828523816849509",
+      "afirmacion": "Conceden el favor con precio aplazado y Aunfaere percibe una debilidad materna.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Imagen de Ches Farak inspeccionada, sin añadir hechos al recorrido.",
+    "Los nombres y casas se conservan en Xoltacan, aunque existan figuras compartidas en el mundo.",
+    "La ofrenda de Aunfaere no se consuma ni se acepta como precio definitivo."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-04-20T16:47:39.736000+00:00",
+  "fin_utc": "2026-04-20T16:48:31.228000+00:00",
+  "fecha_local": "2026-04-20",
+  "intervalo": {
+    "anterior": 25,
+    "siguiente": 26,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1494768689348870237",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1495856349072986122",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 25,
+        "fecha": "2026-04-17",
+        "inicio_referencia_utc": "2026-04-17T18:36:47+00:00",
+        "fin_estimado_utc": "2026-04-17T21:05:13+00:00",
+        "duracion_video_segundos": 8906,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1494768689348870237"
+      },
+      {
+        "capitulo": 26,
+        "fecha": "2026-04-20",
+        "inicio_referencia_utc": "2026-04-20T18:38:45+00:00",
+        "fin_estimado_utc": "2026-04-20T20:58:26+00:00",
+        "duracion_video_segundos": 8381,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1495856349072986122"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1495828307843747971",
+      "fecha_utc": "2026-04-20T16:47:39.736000+00:00",
+      "fecha_local": "2026-04-20",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "498d71d7633932bc26ad459cca3f6e5e6812b22e72de73a0125a366124f1a151",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1495828307843747971",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1495828308225560726",
+          "nombre": "dnd__drow_city__by_bergionstyle_dg4vw7m-fullview.jpg",
+          "tipo": "image/jpeg",
+          "archivo": "adjuntos/1495828308225560726.jpg",
+          "url": "rol_escrito/adjuntos/1495828308225560726.jpg",
+          "bytes": 244195,
+          "sha256": "d2d9c11dccbc095a90cb16de4d23b545dd02e5c3ea9cf0260aadc3064e2b58e9"
+        }
+      ]
+    },
+    {
+      "id": "1495828393718059110",
+      "fecha_utc": "2026-04-20T16:48:00.210000+00:00",
+      "fecha_local": "2026-04-20",
+      "editado_utc": null,
+      "texto": "**Atravesamos la gran caverna donde descansa la ciudad de las Arañas. Una ciudad peligrosa y oscura, la ciudad de los drow de la infraoscuridad de Brunami: Ches Farak.\nCruzamos el Bazar de la Araña donde, aparte de todo tipo de ingredientes y objetos mágicos, se puede encontrar un productivo mercado de esclavos. Al llegar a Vel’wundruss, la zona alta de la ciudad y donde residen las casas nobles de Ches Farak, nos detenemos en una de esas casas, una que ha llegado a ser la tercera casa de la ciudad desde que la Matrona Brythya Unthuar elevó a su casa a la primera casa de la ciudad: la casa Rheydyn.**\n\n**La Madre Matrona Miz'lin estaba junto a su única hija que le quedaba viva, la joven Aunfaere, y otras novicias de la academia de Lolth de Vel’xundruss Valsharess. Estaban todas formando un círculo frente a un altar en el que había una gran pira de agua, mientras recitaban una plegaria con su melodiosa pero oscura lengua.**\n\nEskavidne: Es de ser muy insolente llamar a Lady Lolth mientras teje sus hilos, Matrona Rheydyn. **Dice el demonio en forma de vela derretida mientras empieza a formar a esa bella y sensual drow.**\n\nYiccardaria: De insolente o de desesperada, más bien, hermana. **La otra dama demoníaca de la Reina Araña empieza a convertirse también en drow.\n**\nMatrona Miz'lin: O de una devota a mi señora. **Replica la matrona, ya curtida en esos juegos de palabras.** Tengo una petición para Lady Lolth. **Hace una pausa al ver las caras de pocos amigos de las dos damas.** Más bien, una ofrenda para mi señora. **Las dos yochlol se miran una a la otra, se les dibuja una sonrisa juguetona y le hacen una señal a la Matrona para que siga.** Ofrecerme el Zin-Carla. Si lo hacéis, juro ofrecer todo aquello que la Reina de las Arañas me pida. Ofreceré a mi única hija viva como sacrificio si hace falta. **Con un chasquido de dedos, vemos cómo la pobre Aunfaere se queda totalmente paralizada, con un rostro de terror.**",
+      "mensaje_sha256": "89db38a83485b5bc4d8ff46dd0661a16ba16a676272990829b8a8c66a9984a0e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1495828393718059110",
+      "texto_sha256": "3cf80732d923171d0a59bac34025e31fb501eb42a87b5f8b7af7842729561ed0",
+      "adjuntos": []
+    },
+    {
+      "id": "1495828462064111867",
+      "fecha_utc": "2026-04-20T16:48:16.505000+00:00",
+      "fecha_local": "2026-04-20",
+      "editado_utc": "2026-04-20T17:02:52.903000+00:00",
+      "texto": "Yiccardaria: Vaya, eso es muy... ¿loable por tu parte? **Se ríe de manera burlona.** ¿Y para qué querría Lady Lolth a una sacerdotisa tan mediocre?\n\nEskavidne: No serviría ni como draña. **Dice la otra dama acariciando el rostro de Aunfaere, aún paralizada y con cara de pánico.** Y el Zin-Carla es una petición muy grande para solo ofrecer un sacrificio y servicio eterno, cosa que ya deberías hacer, Matrona Rheydyn. **Sus dedos aprietan las mejillas de la sacerdotisa hasta que empieza a sangrar.**\n\nMatrona Miz'lin: Ofreceré cualquier cosa que me pidáis, sucias arpías... **Dice, enfurecida por las burlas de las demonios.** Cualquier cosa para poder honrar a mi señora.\n\nYiccardaria: ¿Honrar a tu señora?** La sonrisa del demonio es tan grande que deforma el rostro de esa bella drow en la que se ha convertido.** ¿O más bien venganza? Venganza sobre aquellos que mataron a... ¿a cuántas de tus hijas? Ah, sí, a dos o tres de ellas.\n\nEskavidne: Venganza... Eso suena divertido. **Suelta a la pobre sacerdotisa y se acerca a su hermana.** Además, Lady Lolth nos ha dejado al cargo de estas cosas mientras... bueno, mientras teje sus hilos.",
+      "mensaje_sha256": "96e604496c201c5dcd6287b486862872f00b1692ec3d160f0939830a08597b6e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1495828462064111867",
+      "texto_sha256": "537f1d393c88b06b3cc1350545cc03aa08a4c439e05190d82c79239e6c0ef208",
+      "adjuntos": []
+    },
+    {
+      "id": "1495828523816849509",
+      "fecha_utc": "2026-04-20T16:48:31.228000+00:00",
+      "fecha_local": "2026-04-20",
+      "editado_utc": "2026-04-21T05:53:56.370000+00:00",
+      "texto": "Matrona Miz'lin: ¿Qué queréis a cambio? **Las mira con rabia, sabiendo que no ha jugado bien con esas demonios y sabiendo que ya no hay marcha atrás.**\n\nYiccardaria: Oh, eso a su debido tiempo. **Ríe.** Pero te concederemos el Zin-Carla.\n\nEskavidne: Puede ser divertido. **Ríe también.** Hace siglos que nadie pide ninguno. Y los acontecimientos que puede llegar a generar pueden ser caóticos. Tal y como a Lady Lolth le gusta.\n\n**Las dos demonios abandonan el lugar fundiéndose en esa viscosa forma, mientras la Matrona Miz'lin las mira con odio. Pero no es el único odio en esa sala. La joven Aunfaere mira a su madre con ese mismo odio y, a la vez, una pequeña sonrisa al ver que no ha sabido lidiar con las damas de Lady Lolth. Una flaqueza en la Madre Matrona, una flaqueza que aprovechará.**\n\n🔴Fin de la escena 🔴",
+      "mensaje_sha256": "13655761313c10b2ced20f3c0e7b03cc4dfd4cd6e283480fa31d4b89127e17e6",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1495828523816849509",
+      "texto_sha256": "3a2f1d6b17f9632717d9406c9e115d2cf1f3bafa2e04a7c65ce5f336d947e443",
+      "adjuntos": []
+    }
+  ]
+}

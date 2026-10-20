@@ -1,0 +1,96 @@
+{
+  "id": "k-1435615211708088441",
+  "campana": "kuroto",
+  "unidad_revision": "k-1434558002282758318",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Banzo se prepara",
+  "resumen": "Archi añade una cobertura para el goliat y le recuerda el mapa.",
+  "relato": "Días después Archi conversa con Banzo sobre incorporarlo al viaje. El goliat duda de cómo recibirán a alguien de su tamaño, mientras el gnomo trabaja con polvo recogido de cristales de teletransporte en un mecanismo de su armadura, sin explicar su función ni demostrar resultado. Archi propone que Banzo se haga pasar por otra persona y busque ropa para tapar sus tatuajes, reservándole un papel de fuerza si lo necesitan. Banzo acepta y pregunta por un mapa que ya habían mencionado. El gnomo le pide conservarlo porque le servirá en el futuro. No se muestra su contenido ni se detalla el plan relacionado con él.",
+  "participantes": [
+    "Archi",
+    "Banzo"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1435615211708088441",
+      "afirmacion": "Archi prepara a Banzo para el viaje, manipula materiales de teletransporte y le pide guardar un mapa.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Las armaduras son una promesa y un objetivo de viaje; no se entregan ni otorgan ventajas en esta conversación.",
+    "Los disfraces y el uso de seducción o de una cobertura de explotación son propuestas de infiltración, no hechos ya realizados ni profesiones reales de los participantes.",
+    "La situación militar de Cono Sur y las rutas se discuten a partir de conocimientos e hipótesis de los personajes, sin llegada a la ciudad.",
+    "Las expresiones «tu mujer» o «consorte» no sustituyen una ceremonia o un estado civil documentado en este hilo.",
+    "El mapa y el trabajo en la armadura no reciben una función nueva inventada.",
+    "Las especulaciones íntimas privadas de Jelbreg y los insultos no se convierten en hechos sobre Kazuki o la pareja."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-11-05T13:02:18.912000+00:00",
+  "fin_utc": "2025-11-06T10:14:40.598000+00:00",
+  "fecha_local": "2025-11-05",
+  "intervalo": {
+    "anterior": 164,
+    "siguiente": 165,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1433532919066136698",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1436069852543586424",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 164,
+        "fecha": "2025-10-30",
+        "inicio_referencia_utc": "2025-10-30T19:07:43+00:00",
+        "fin_estimado_utc": "2025-10-30T22:23:56+00:00",
+        "duracion_video_segundos": 11773,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1433532919066136698"
+      },
+      {
+        "capitulo": 165,
+        "fecha": "2025-11-06",
+        "inicio_referencia_utc": "2025-11-06T19:08:37+00:00",
+        "fin_estimado_utc": "2025-11-06T22:46:55+00:00",
+        "duracion_video_segundos": 13098,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1436069852543586424"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1435615211708088441",
+      "fecha_utc": "2025-11-05T13:02:18.912000+00:00",
+      "fecha_local": "2025-11-05",
+      "editado_utc": "2025-11-05T13:03:19.090000+00:00",
+      "texto": "Archi y Banzo : \nBanzo : Estás seguro que debería ir ... Jelbreg <@214405113677217793> tiene sus recursos pero yo .. \nSi ven a un goliath en tu tierra no se como se lo tomaran ... \n\nArchi : *donde diablos guarde mi pistola arcana... en el templo del doc puede ser?* ** parece que esta usando aquellos polvos que recogió de los cristales de teletransporte para crear algo en su armadura , manosea una especie de válvula de presión o algo asi ? ** \n\nSisi , deberás hacerte pasar por alguien . Mejor tu dedicate a gruñir y aplastar cuando se te diga . \n\nVes donde la vieja de las ropas y que te tape esos tatuajes de salvaje .\n\n\nBanzo : *ufff... como te voy a tirar por la borda cuando volvamos con esas armaduras* \nDe acuerdo \n\nY lo que me dijiste del mapa , seguimos con lo planeado ? \n\nArchi : \nConserva bien ese mapa Banzirrin,  te servirá en un futuro .",
+      "mensaje_sha256": "60a60ad8bcb2520aa611279a084e664752591c1db49d0f001fe6a7e519c47a12",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1435615211708088441",
+      "texto_sha256": "14b7d439e95ae39608a3e96795ac7bd1c30ae9833ff62090c8bbbb6b5842970f",
+      "adjuntos": []
+    },
+    {
+      "id": "1435935411947175968",
+      "fecha_utc": "2025-11-06T10:14:40.598000+00:00",
+      "fecha_local": "2025-11-06",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "9bb9322a84a0463c4b0ae2d3aae8d88b722afdf2f737c33d5314838cb27c1b1d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1435935411947175968",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

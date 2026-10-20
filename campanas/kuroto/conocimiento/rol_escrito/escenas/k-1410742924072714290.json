@@ -1,0 +1,115 @@
+{
+  "id": "k-1410742924072714290",
+  "campana": "kuroto",
+  "unidad_revision": "k-1410742924072714290",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Guxi espera a Seraphina vestido de pirata",
+  "resumen": "La harengon encuentra al inventor preparado para una conversación distinta.",
+  "relato": "Seraphina recorre Sho hasta una taberna, familiarizándose con sus calles, y busca a Guxi entre las mesas. Lo encuentra solo al fondo, con un atuendo de pirata y una actitud seductora. Él la saluda por su nombre completo. La conversación se corta antes de que ella responda y continúa inmediatamente en la unidad siguiente.",
+  "participantes": [
+    "Seraphina",
+    "Guxi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1410745329464381501",
+      "afirmacion": "Guxi recibe a Seraphina con traje de pirata.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Continúa en k-1410746220971954246; el cambio de intervalo no crea otra visita.",
+    "Imagen 1410745535685595196.png leída completa: retrato ilustrativo de un hombre con tricornio y arma de fuego ante barcos. El texto identifica el disfraz de Guxi, pero la imagen no prueba adquisición o uso del arma."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2025-08-28T21:48:43.435000+00:00",
+  "fin_utc": "2025-08-28T21:59:06.078000+00:00",
+  "fecha_local": "2025-08-28",
+  "intervalo": {
+    "anterior": 152,
+    "siguiente": 153,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1410686619970699395",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1412135728854339686",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 152,
+        "fecha": "2025-08-28",
+        "inicio_referencia_utc": "2025-08-28T18:04:44+00:00",
+        "fin_estimado_utc": "2025-08-28T21:13:03+00:00",
+        "duracion_video_segundos": 11299,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1410686619970699395"
+      },
+      {
+        "capitulo": 153,
+        "fecha": "2025-09-01",
+        "inicio_referencia_utc": "2025-09-01T18:02:52+00:00",
+        "fin_estimado_utc": "2025-09-01T21:02:25+00:00",
+        "duracion_video_segundos": 10773,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1412135728854339686"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1410742924072714290",
+      "fecha_utc": "2025-08-28T21:48:43.435000+00:00",
+      "fecha_local": "2025-08-28",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Caminé a paso normal, viendo los alrededores, poco a poco ya empezaba a memorizarmelos y no me perdería la próxima vez que saliera sola**\n\n**Entré a la taberna tratando de buscar a Guxi con la mirada**\n\n<@171702246952665098>",
+      "mensaje_sha256": "2dc2dd39c3007e1d4461d84247b1ceb4446bf448f46ccef5b1bb61c7624f3320",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1410742924072714290",
+      "texto_sha256": "933c22ecaea757014f3fed362ad888a401c734864e4b031ada0023a34a0fd135",
+      "adjuntos": []
+    },
+    {
+      "id": "1410745329464381501",
+      "fecha_utc": "2025-08-28T21:58:16.925000+00:00",
+      "fecha_local": "2025-08-28",
+      "editado_utc": null,
+      "texto": "guxi: **cuando entras en la taberna lo ves al fondo solo en una mesa con una mirada seductora y unos ojos que te miran hasta el alma al verte te saluda**\nHola seraphina longhop\n**esta cambiado con un atuendo de pirata**",
+      "mensaje_sha256": "fe8cb470fa35969b6eaf5b982471fa0e417d280da16b400f9c47cd5a529dbadd",
+      "tipo_discord": 19,
+      "referencia": "1410742924072714290",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1410745329464381501",
+      "texto_sha256": "32e29b50a4cf1534e3dc55e884316c3bc52365f552278a27925c6a3031050643",
+      "adjuntos": []
+    },
+    {
+      "id": "1410745535627005953",
+      "fecha_utc": "2025-08-28T21:59:06.078000+00:00",
+      "fecha_local": "2025-08-28",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "caab464d3aeb02b9d6f3122812e505a7d84eca542f48ddac8add570d65e524e2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1410745535627005953",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1410745535685595196",
+          "nombre": "6b810350-2398-4df0-925c-126480c362d0.png",
+          "tipo": "image/png",
+          "archivo": "adjuntos/1410745535685595196.png",
+          "url": "rol_escrito/adjuntos/1410745535685595196.png",
+          "bytes": 2942394,
+          "sha256": "be03c662c90ccf8ecdb889318cbfaa07de5bf7dc5a114235b4ec9aefdbd6cab2"
+        }
+      ]
+    }
+  ]
+}

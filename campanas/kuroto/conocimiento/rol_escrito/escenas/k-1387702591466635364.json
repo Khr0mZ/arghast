@@ -1,0 +1,141 @@
+{
+  "id": "k-1387702591466635364",
+  "campana": "kuroto",
+  "unidad_revision": "k-1387702591466635364",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Danifae llega a un cuarto vacío",
+  "resumen": "La drow busca al ninja sin encontrarlo y se marcha frustrada.",
+  "relato": "Danifae entra decidida y va directamente al cuarto de Kurobane. Lo encuentra vacío y murmura un reproche llamándolo perrito malo. La respuesta confirma que el ninja no está. Sale apresuradamente, frustrada, y atraviesa el portal sin encontrarlo ni comunicarle una nueva orden.",
+  "participantes": [
+    "Danifae"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1387702591466635364",
+      "afirmacion": "Danifae busca a Kurobane en su habitación vacía.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1387750450538872913",
+      "afirmacion": "Se confirma la ausencia del ninja.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1387753200555262083",
+      "afirmacion": "Danifae sale frustrada y cruza el portal.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Cinco mensajes íntegros. No se infiere dónde está Kurobane ni a qué destino cruza la drow."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-26T07:54:40.073000+00:00",
+  "fin_utc": "2025-06-26T11:15:55.070000+00:00",
+  "fecha_local": "2025-06-26",
+  "intervalo": {
+    "anterior": 132,
+    "siguiente": 133,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387494015813030079",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387857477848141979",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 132,
+        "fecha": "2025-06-25",
+        "inicio_referencia_utc": "2025-06-25T18:05:33+00:00",
+        "fin_estimado_utc": "2025-06-25T20:47:07+00:00",
+        "duracion_video_segundos": 9694,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387494015813030079"
+      },
+      {
+        "capitulo": 133,
+        "fecha": "2025-06-26",
+        "inicio_referencia_utc": "2025-06-26T18:09:52+00:00",
+        "fin_estimado_utc": "2025-06-26T20:54:04+00:00",
+        "duracion_video_segundos": 9852,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387857477848141979"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1387702591466635364",
+      "fecha_utc": "2025-06-26T07:54:40.073000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": "2025-06-26T09:13:08.743000+00:00",
+      "texto": "Danifae: **Entra decidida a la base de los Cazadores. Va directa a la habitación de Kurobane observando el interior vacío. Hace una mueca y susurra** Perrito malo...",
+      "mensaje_sha256": "eb9150482d1a0efc2b8190a779c4eb0c743986ed135ca24e79430ff922a2fb22",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387702591466635364",
+      "texto_sha256": "dc0ea27f7297ddb91e96d794bc381a2bf3b2fc2bcbe3e3e4b4c4112e90564178",
+      "adjuntos": []
+    },
+    {
+      "id": "1387702619039858720",
+      "fecha_utc": "2025-06-26T07:54:46.647000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": null,
+      "texto": "<@240564189448503306>",
+      "mensaje_sha256": "c0a3192f59609836e8ca0ea741b30630340bb89d2abe56e8f68a0f7aa56debf8",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387702619039858720",
+      "texto_sha256": "c68be3b7cbd0e49dc4cbf37131905ffb2c086043727946e7ded5cf378e152b26",
+      "adjuntos": [],
+      "no_narrativo": true,
+      "nota_editorial": "Contexto o marcador no narrativo; conservado en la exportación íntegra."
+    },
+    {
+      "id": "1387750450538872913",
+      "fecha_utc": "2025-06-26T11:04:50.565000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": null,
+      "texto": "Kurobane \n**No está**",
+      "mensaje_sha256": "7a27ed9408b02d860a5b1c82c893138b04030e5e310f351a430bf9b2e7d9170b",
+      "tipo_discord": 19,
+      "referencia": "1387702591466635364",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387750450538872913",
+      "texto_sha256": "9c96a65a9c43b77546cdc390569afb621ec01dfc4d3c50a3eda3034b7c4d01bb",
+      "adjuntos": []
+    },
+    {
+      "id": "1387753200555262083",
+      "fecha_utc": "2025-06-26T11:15:46.220000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": null,
+      "texto": "Danifae: **Sale de la base a toda prisa bastante frustrada, chista con una mueca y atraviesa el portal**\n\n🕸️Danifae sale de escena🕸️",
+      "mensaje_sha256": "44831d0ad6ef9ad129164f7ccd82437d3de0c4a7c373a1f183504a681a3a34c9",
+      "tipo_discord": 19,
+      "referencia": "1387750450538872913",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387753200555262083",
+      "texto_sha256": "bcbf0baf3e19b05592a64598514f45b41279b6e267055f6bb6a494ff494f59e3",
+      "adjuntos": []
+    },
+    {
+      "id": "1387753237674721330",
+      "fecha_utc": "2025-06-26T11:15:55.070000+00:00",
+      "fecha_local": "2025-06-26",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "4a3115860a6be1e6d1253c7c5dc584ff9f4d93aa86069196d96fce2c52359697",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1387753237674721330",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

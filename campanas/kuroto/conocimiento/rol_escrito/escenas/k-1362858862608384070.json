@@ -1,0 +1,1459 @@
+{
+  "id": "k-1362858862608384070",
+  "campana": "kuroto",
+  "unidad_revision": "k-1362858862608384070",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Un disfraz verde en la sastrería de Tsugami",
+  "resumen": "Kurobane acude a la sastrería por un disfraz, conversa con Higeki y compra a Tsugami un traje verde y una máscara por una moneda de oro.",
+  "relato": "Un panfleto de la base de los cazadores conduce a Kurobane hasta la sastrería de Tsugami. La anciana cuestiona su atuendo oscuro y su palidez, propone hasta unas croquetas y saluda a Higeki, que se acerca al recién llegado con familiaridad. Kurobane retrocede y aclara que no quiere cambiar las ropas de su orden: trae un disfraz de noble para arreglar. Según las notas de voz transcritas, Tsugami ensalza la calidad de su trabajo y sugiere adornarlo con perlas del mar. Higeki defiende el encanto, las palabras y los contactos como otra forma de infiltrarse; Kurobane prefiere entrar y salir sin ser visto. La costurera rechaza reparar las prendas viejas y propone un vestido verde con detalles azules y una máscara, adecuados, según ella, para fiestas. Entre medidas y comentarios, Tsugami acusa de forma especulativa a Antonia y a un grupo que incluye al hijo del pescadero, cuyo nombre la transcripción recoge como Cristian, de relacionarse con problemas de la ciudad. Higeki dice haber oído rumores parecidos en los fogones y el burdel. Ambos encadenan además chismes sobre Errk, sin comprobar ninguno. Higeki se despide porque debe volver al castillo del Shogun a preparar la cena y anima a Kurobane a relajarse. Tsugami trae el vestido y la máscara. Kurobane acepta el precio de una moneda de oro, paga, recoge la compra y sale con una reverencia. La costurera sigue parloteando sin darse cuenta de que ya se ha marchado.",
+  "participantes": [
+    "Kurobane",
+    "Higeki",
+    "Tsugami"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1362861794846048339",
+      "afirmacion": "Kurobane busca en la capital la tienda indicada por el panfleto.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1362863447007694969",
+      "afirmacion": "La puerta anuncia la Sastrería de Tsugami y una anciana trabaja dentro.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1362865147563086154",
+      "afirmacion": "Higeki se acerca a Kurobane por detrás y le acaricia los hombros.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1362867603806097458",
+      "afirmacion": "Kurobane muestra ropas de noble que forman parte de un disfraz.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1362869888414257382",
+      "afirmacion": "Kurobane piensa que una máscara le permitiría ocultar quién es.",
+      "tipo": "pensamiento"
+    },
+    {
+      "mensaje_id": "1362868187531579614",
+      "afirmacion": "La transcripción automática recoge una propuesta de adornar las ropas con perlas del mar.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1362872372163514388",
+      "afirmacion": "La transcripción automática recoge el rechazo a reparar las prendas y la oferta de un vestido verde con detalles azules.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1362875057151545344",
+      "afirmacion": "La voz transcrita atribuye por rumor vínculos sospechosos a Antonia y al hijo del pescadero, sin probar delitos.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1362873883115520283",
+      "afirmacion": "Higeki dice que Paqui y el burdel repiten un rumor cuyo origen desconoce.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1362876208370421810",
+      "afirmacion": "La transcripción automática recoge la despedida para regresar al castillo del Shogun y preparar la cena.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1362877189275779212",
+      "afirmacion": "Tsugami trae un vestido verde y una máscara de fiesta.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1362879748614787233",
+      "afirmacion": "Tsugami fija el precio en una moneda de oro por venir de los cazadores.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1362880377558929428",
+      "afirmacion": "Kurobane paga, recoge las prendas y sale de la tienda.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Lectura completa del texto y visualización de ambos adjuntos de imagen: mapa de Sho y retrato de un personaje enmascarado. El mapa es ambientación, no un acontecimiento.",
+    "Leído íntegro el suplemento de once notas de voz,400,58segundos, transcritas localmente con faster-whisper-large-v3-turbo. Sus textos automáticos son fuentes separadas del texto escrito y pueden contener errores; los audios originales permanecen conservados.",
+    "ASR relevante: Sugami/Chugami, Sugami se corresponde por contexto y texto escrito con Tsugami; Corabane/Curbane con Kurobane; Jigeki/GX con Higeki. No se crean aliases nuevos ni se identifica voz solo a partir del modelo. Atribuciones prudentes según turno, autor y referencias internas.",
+    "Cristian, Toñi y otras grafías de los chismes solo constan en transcripción automática. No fijar identidades canónicas ni profesión de Antonia a partir del pasaje ASR «la de las estrellas». Las sospechas sobre la crisis y los chismes sobre Errk no son hechos demostrados.",
+    "La regla de cursivas se aplica a pensamientos dentro del habla identificada; la apertura en cursiva describe Sho y no se atribuye como pensamiento de un personaje.",
+    "Tsugami expresa en cursiva una valoración privada de la apariencia de Kurobane; no se presenta como conocimiento de este.",
+    "El texto llama vestido a la prenda que Tsugami trae y traje verde a lo que recoge Kurobane. Se conserva la descripción como variante del mismo intercambio sin añadir propiedades mágicas."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-04-18T18:34:33.539000+00:00",
+  "fin_utc": "2025-04-18T20:10:44.732000+00:00",
+  "fecha_local": "2025-04-18",
+  "intervalo": {
+    "anterior": 105,
+    "siguiente": 106,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1362497195252650075",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1363944514846326895",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 105,
+        "fecha": "2025-04-17",
+        "inicio_referencia_utc": "2025-04-17T18:37:08+00:00",
+        "fin_estimado_utc": "2025-04-17T20:54:16+00:00",
+        "duracion_video_segundos": 8228,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1362497195252650075"
+      },
+      {
+        "capitulo": 106,
+        "fecha": "2025-04-21",
+        "inicio_referencia_utc": "2025-04-21T18:28:19+00:00",
+        "fin_estimado_utc": "2025-04-21T20:39:25+00:00",
+        "duracion_video_segundos": 7866,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1363944514846326895"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1362858862608384070",
+      "fecha_utc": "2025-04-18T18:34:33.539000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "*La capital de toda la isla. Paseate por sus tiendas....o puedes ir a la taberna a beber y seguir ignorando lo que digo.*",
+      "mensaje_sha256": "7cc1b5c2f8fc9a7b539d6de53e0c81b540d32a86a394e3769ac8a73fa6ab45a7",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362858862608384070",
+      "texto_sha256": "867ffe5e163cad2a2fae3524765eca66adae70dc48c6ce1bb73533b73984d491",
+      "adjuntos": [
+        {
+          "id": "1362858863774138489",
+          "nombre": "Sho.jpg",
+          "tipo": "image/jpeg",
+          "archivo": "adjuntos/1362858863774138489.jpg",
+          "url": "rol_escrito/adjuntos/1362858863774138489.jpg",
+          "bytes": 4604773,
+          "sha256": "b56690e8c3e5ab22987cc34779045eb24aa42499000beaa8e93df470bf1deaa5"
+        }
+      ]
+    },
+    {
+      "id": "1362861794846048339",
+      "fecha_utc": "2025-04-18T18:46:12.639000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "Kurobane: **Después de un tiempo andando llegaría a la capital, se pondría a buscar la tienda que dice en el panfleto**",
+      "mensaje_sha256": "a7b8ab49d1a3fb9136328926f086e62ade402fec38fbde2b28bfcc9bc166ef75",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362861794846048339",
+      "texto_sha256": "8db341d8be92acec9078b2e4ec3ae75ff34c7174eee5e5f827ea48d2056ac709",
+      "adjuntos": []
+    },
+    {
+      "id": "1362862046839967856",
+      "fecha_utc": "2025-04-18T18:47:12.719000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "**Tiene un mapa que te lleva hasta la puerta** <@214405113677217793>",
+      "mensaje_sha256": "ceac6aeb7d3aeb6dbcf2e8e5615a54cc6c83bd5b27506d2501103c7e68766785",
+      "tipo_discord": 19,
+      "referencia": "1362861794846048339",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362862046839967856",
+      "texto_sha256": "e87fd602bc15748da2cbf668c86a85a2833b2692da5b43cdec9b9b3e23d19056",
+      "adjuntos": []
+    },
+    {
+      "id": "1362863447007694969",
+      "fecha_utc": "2025-04-18T18:52:46.545000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "**Llegas a la puerta de la costurera, ves un enorme cartel que pone Sastrería de Tsugami. Al abrir la puerta, escuchas un tintineo de la campana que avisa de la entrada de un cliente y ves a una mujer de avanzada edad detrás del mostrador con varios ajugas de coser en la boca mientras revisa unas telas**",
+      "mensaje_sha256": "48a7208fd8c7a28de24ef4465b0b788c3c24fa6c15201f5795df39c2d06496e0",
+      "tipo_discord": 19,
+      "referencia": "1362861794846048339",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362863447007694969",
+      "texto_sha256": "5eb3744ef67987f96869b3d9997a2a4562aac15db456c873d6b6d90c65a83c58",
+      "adjuntos": []
+    },
+    {
+      "id": "1362863940891181097",
+      "fecha_utc": "2025-04-18T18:54:44.296000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "Kurobane: Disculpe, venerable anciana. **Se acerca lentamente**",
+      "mensaje_sha256": "21aa05ad79c493e17c49cc9e7db7bba8929e6267035cf350d5cc166643c3c5af",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362863940891181097",
+      "texto_sha256": "72d330f13b0c094807905b90b11d40ac722eaf70e94fd91ebab253b4e4cc672c",
+      "adjuntos": []
+    },
+    {
+      "id": "1362864373764325426",
+      "fecha_utc": "2025-04-18T18:56:27.501000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "ac50e1dd00e327d1560ea4bd7fd031ee25aa5bea6ba32e2bc276441e0539c1ef",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362864373764325426",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1362864373210550323",
+          "nombre": "voice-message.ogg",
+          "tipo": "audio/ogg",
+          "archivo": "adjuntos/1362864373210550323.ogg",
+          "url": "rol_escrito/adjuntos/1362864373210550323.ogg",
+          "bytes": 70702,
+          "sha256": "81d25c28f7b3f3aa9a2e1442c0183f0e148c0e2a568a0bd0b4178abbc20df8a0"
+        }
+      ],
+      "transcripciones_audio": [
+        {
+          "mensaje_id": "1362864373764325426",
+          "campana": "kuroto",
+          "audio_sha256": "81d25c28f7b3f3aa9a2e1442c0183f0e148c0e2a568a0bd0b4178abbc20df8a0",
+          "archivo_audio": "adjuntos/1362864373210550323.ogg",
+          "modelo": "faster-whisper-large-v3-turbo",
+          "motor": "faster-whisper",
+          "version_motor": "1.2.1",
+          "dispositivo": "cuda",
+          "idioma": "es",
+          "duracion": 19.24,
+          "segmentos": [
+            {
+              "inicio": 2.8,
+              "fin": 18.1,
+              "texto": "Oh, anciana me ha dicho. Bueno, ¿y tú quién eres? Es la mujer que te mira de arriba abajo y dice, oh, porque vas todo de negro y te has tapado. Quítate eso, niño, que no te veo la cara. Ay, oh, ¿y tú de dónde vienes?"
+            }
+          ],
+          "texto": "Oh, anciana me ha dicho. Bueno, ¿y tú quién eres? Es la mujer que te mira de arriba abajo y dice, oh, porque vas todo de negro y te has tapado. Quítate eso, niño, que no te veo la cara. Ay, oh, ¿y tú de dónde vienes?",
+          "nota": "Transcripción automática local de una nota de voz; puede contener errores y no identifica hablantes por sí sola."
+        }
+      ]
+    },
+    {
+      "id": "1362864856549818639",
+      "fecha_utc": "2025-04-18T18:58:22.606000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": "2025-04-18T18:58:31.419000+00:00",
+      "texto": "Kurobane: Me he encontrado su panfleto en la base de los cazadores \n\n**le enseño el panfleto despues de quitarme la capucha y bajar la parte de la bufanda que está delante de la boca**",
+      "mensaje_sha256": "1e7f4e1d040e0d595e4b26542ad216cdcddad9fb821a5143adc7f7f45ad737e1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362864856549818639",
+      "texto_sha256": "ea56e9ca5509aeb95adf12e948bf072bfcc508d575e13f3792495a962ccaedfb",
+      "adjuntos": []
+    },
+    {
+      "id": "1362865147563086154",
+      "fecha_utc": "2025-04-18T18:59:31.989000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "Higeki:\n\n**Se le acerca por detras a Kurobane, acariciando un poco sus hombros al quitarse la capucha, acercandose al oido** \n\nHola cielo, vienes a buscar algun trapillo?",
+      "mensaje_sha256": "3247be402ee757583191a343e88e9a8f82cbd0de1f41df07041c607adbc56f67",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362865147563086154",
+      "texto_sha256": "87c04d98473b4038220bc3c88b2119fa7f8327a5da6c855299b2fda6123481b9",
+      "adjuntos": []
+    },
+    {
+      "id": "1362865826209861843",
+      "fecha_utc": "2025-04-18T19:02:13.791000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "3cb327f84a5b68ae61f9d42fd77db002215a3f28e274f4e8ba1758d9db657c2d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362865826209861843",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1362865825823981930",
+          "nombre": "voice-message.ogg",
+          "tipo": "audio/ogg",
+          "archivo": "adjuntos/1362865825823981930.ogg",
+          "url": "rol_escrito/adjuntos/1362865825823981930.ogg",
+          "bytes": 102972,
+          "sha256": "f217b8c8d24d03c2c982321286c544b763b3f7681120cb71c47b95561d635204"
+        }
+      ],
+      "transcripciones_audio": [
+        {
+          "mensaje_id": "1362865826209861843",
+          "campana": "kuroto",
+          "audio_sha256": "f217b8c8d24d03c2c982321286c544b763b3f7681120cb71c47b95561d635204",
+          "archivo_audio": "adjuntos/1362865825823981930.ogg",
+          "modelo": "faster-whisper-large-v3-turbo",
+          "motor": "faster-whisper",
+          "version_motor": "1.2.1",
+          "dispositivo": "cuda",
+          "idioma": "es",
+          "duracion": 26.78,
+          "segmentos": [
+            {
+              "inicio": 2.64,
+              "fin": 24.82,
+              "texto": "Sugami ve cómo entra Higeki después de que Corabane se quitará la capucha y dice, uh, Higeki. Ay, amigo mío. Uh, ¿tú has visto? ¿Has visto a este qué pálido está? Este no debe comer bien. Está muy pálido este. ¿Sabes lo que te le viene bien? Tú seguro que lo sabrás, porque tú ya se has probado. Le voy a dar unas croquetas."
+            }
+          ],
+          "texto": "Sugami ve cómo entra Higeki después de que Corabane se quitará la capucha y dice, uh, Higeki. Ay, amigo mío. Uh, ¿tú has visto? ¿Has visto a este qué pálido está? Este no debe comer bien. Está muy pálido este. ¿Sabes lo que te le viene bien? Tú seguro que lo sabrás, porque tú ya se has probado. Le voy a dar unas croquetas.",
+          "nota": "Transcripción automática local de una nota de voz; puede contener errores y no identifica hablantes por sí sola."
+        }
+      ]
+    },
+    {
+      "id": "1362865850964770836",
+      "fecha_utc": "2025-04-18T19:02:19.693000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "Kurobane: He venido por cambiar mi ropa del disfraz\n\n**al notar el susurro daría un paso hacia delante de forma instintiva**\n\nDisculpe",
+      "mensaje_sha256": "9b736716e594a1e3815a90fe0faccae4700a65e0b23095b4eea09144b9ff7a41",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362865850964770836",
+      "texto_sha256": "8701f117ad07d9cc5e8ce7cfd52f46e24a28cb7dbf16f2e68a49220489286a42",
+      "adjuntos": []
+    },
+    {
+      "id": "1362866338846081066",
+      "fecha_utc": "2025-04-18T19:04:16.013000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "183788db1411ff6fa5aa16ad745c174775c64c094b0f6678517f0b8048594d6f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362866338846081066",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1362866338397294623",
+          "nombre": "voice-message.ogg",
+          "tipo": "audio/ogg",
+          "archivo": "adjuntos/1362866338397294623.ogg",
+          "url": "rol_escrito/adjuntos/1362866338397294623.ogg",
+          "bytes": 128352,
+          "sha256": "a538547843996cb5e9dc32765734a7cae986c600f186867b6e9fd67593d5e2fe"
+        }
+      ],
+      "transcripciones_audio": [
+        {
+          "mensaje_id": "1362866338846081066",
+          "campana": "kuroto",
+          "audio_sha256": "a538547843996cb5e9dc32765734a7cae986c600f186867b6e9fd67593d5e2fe",
+          "archivo_audio": "adjuntos/1362866338397294623.ogg",
+          "modelo": "faster-whisper-large-v3-turbo",
+          "motor": "faster-whisper",
+          "version_motor": "1.2.1",
+          "dispositivo": "cuda",
+          "idioma": "es",
+          "duracion": 31.44,
+          "segmentos": [
+            {
+              "inicio": 0.37,
+              "fin": 15.29,
+              "texto": "Ay, o sea, es que de verdad va como unos telas que parecen harapos y ves como le coge parte de esas telas y las levanta con la punta de los dedos de los pies de los dedos de la mano como si estuviera así como repugnante, harapiento."
+            },
+            {
+              "inicio": 15.29,
+              "fin": 17.55,
+              "texto": "Y digo, no, no, esto tienes que cambiarlo, hijo"
+            },
+            {
+              "inicio": 17.55,
+              "fin": 19.65,
+              "texto": "Esto, mira, esto te lo tienes que quitar"
+            },
+            {
+              "inicio": 19.65,
+              "fin": 22.09,
+              "texto": "Y empieza a toquetearle"
+            },
+            {
+              "inicio": 22.09,
+              "fin": 23.67,
+              "texto": "La ropa y a quitarle"
+            },
+            {
+              "inicio": 23.67,
+              "fin": 24.79,
+              "texto": "Y a hacerle medidas"
+            },
+            {
+              "inicio": 24.79,
+              "fin": 27.81,
+              "texto": "Y mira, también tienes que corregir"
+            },
+            {
+              "inicio": 27.81,
+              "fin": 29.97,
+              "texto": "Un poco la postura, ¿sabes? O sea, coger así"
+            },
+            {
+              "inicio": 29.97,
+              "fin": 30.87,
+              "texto": "Y ponerte más al saga"
+            }
+          ],
+          "texto": "Ay, o sea, es que de verdad va como unos telas que parecen harapos y ves como le coge parte de esas telas y las levanta con la punta de los dedos de los pies de los dedos de la mano como si estuviera así como repugnante, harapiento. Y digo, no, no, esto tienes que cambiarlo, hijo Esto, mira, esto te lo tienes que quitar Y empieza a toquetearle La ropa y a quitarle Y a hacerle medidas Y mira, también tienes que corregir Un poco la postura, ¿sabes? O sea, coger así Y ponerte más al saga",
+          "nota": "Transcripción automática local de una nota de voz; puede contener errores y no identifica hablantes por sí sola."
+        }
+      ]
+    },
+    {
+      "id": "1362866869278736525",
+      "fecha_utc": "2025-04-18T19:06:22.478000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "Kurobane: Es la ropa de la orden, no debo cambiarla. \n\n**va dando pasitos hacia la puerta lentamente como quien no quiere la cosa**",
+      "mensaje_sha256": "8d54bdd1b2c648e99d2446296360e34bd929d9dc58c4e4f24bb54d70e5bc17b7",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362866869278736525",
+      "texto_sha256": "75073d66ba87022f53514fced4c153ff85a3be2937530a5eb008eb64319f6b09",
+      "adjuntos": []
+    },
+    {
+      "id": "1362867209281601607",
+      "fecha_utc": "2025-04-18T19:07:43.541000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "63fd3dc87e0c362aa61087bc7d7d7ca2f3e96632c708745e9649122806f3cc52",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362867209281601607",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1362867208958513283",
+          "nombre": "voice-message.ogg",
+          "tipo": "audio/ogg",
+          "archivo": "adjuntos/1362867208958513283.ogg",
+          "url": "rol_escrito/adjuntos/1362867208958513283.ogg",
+          "bytes": 108357,
+          "sha256": "2143b4dadf8acd128ab3b3ff7aa3bfd36609460a35af338b0e23bdae65c6afc5"
+        }
+      ],
+      "transcripciones_audio": [
+        {
+          "mensaje_id": "1362867209281601607",
+          "campana": "kuroto",
+          "audio_sha256": "2143b4dadf8acd128ab3b3ff7aa3bfd36609460a35af338b0e23bdae65c6afc5",
+          "archivo_audio": "adjuntos/1362867208958513283.ogg",
+          "modelo": "faster-whisper-large-v3-turbo",
+          "motor": "faster-whisper",
+          "version_motor": "1.2.1",
+          "dispositivo": "cuda",
+          "idioma": "es",
+          "duracion": 26.7,
+          "segmentos": [
+            {
+              "inicio": 0.37,
+              "fin": 1.83,
+              "texto": "Hay que hablar, no sé, pero"
+            },
+            {
+              "inicio": 1.83,
+              "fin": 3.91,
+              "texto": "Chugami, ¿no crees que le podríamos"
+            },
+            {
+              "inicio": 3.91,
+              "fin": 5.97,
+              "texto": "hacer como algún vestidito así, como"
+            },
+            {
+              "inicio": 5.97,
+              "fin": 7.71,
+              "texto": "inspirado, pero"
+            },
+            {
+              "inicio": 7.71,
+              "fin": 9.67,
+              "texto": "que sea elegante? Además,"
+            },
+            {
+              "inicio": 10.27,
+              "fin": 12.11,
+              "texto": "esos pasitos,"
+            },
+            {
+              "inicio": 12.25,
+              "fin": 14.09,
+              "texto": "mira, tienes que hacer así, y ves como"
+            },
+            {
+              "inicio": 14.09,
+              "fin": 16.09,
+              "texto": "GX y va andando como"
+            },
+            {
+              "inicio": 16.09,
+              "fin": 17.85,
+              "texto": "la otra vez de desfile,"
+            },
+            {
+              "inicio": 17.85,
+              "fin": 18.89,
+              "texto": "y se gira,"
+            },
+            {
+              "inicio": 19.59,
+              "fin": 21.83,
+              "texto": "y te mira con"
+            },
+            {
+              "inicio": 21.83,
+              "fin": 23.91,
+              "texto": "una sonrisilla picaresca, como"
+            },
+            {
+              "inicio": 23.91,
+              "fin": 25.85,
+              "texto": "en plan papucho."
+            }
+          ],
+          "texto": "Hay que hablar, no sé, pero Chugami, ¿no crees que le podríamos hacer como algún vestidito así, como inspirado, pero que sea elegante? Además, esos pasitos, mira, tienes que hacer así, y ves como GX y va andando como la otra vez de desfile, y se gira, y te mira con una sonrisilla picaresca, como en plan papucho.",
+          "nota": "Transcripción automática local de una nota de voz; puede contener errores y no identifica hablantes por sí sola."
+        }
+      ]
+    },
+    {
+      "id": "1362867348444414244",
+      "fecha_utc": "2025-04-18T19:08:16.720000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "Tsugami: **La mujer te mira con ojos penetrantes mientras va asintiendo con la cabeza a Higeki**",
+      "mensaje_sha256": "b308f425fedcd62e88173bb76a9fcd435d8fb61372be45983f818f8b177cb0f7",
+      "tipo_discord": 19,
+      "referencia": "1362866869278736525",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362867348444414244",
+      "texto_sha256": "31debe08417bbb8fce68dadaaff3324c8c5ba74d74936dbc44de87c64ce08855",
+      "adjuntos": []
+    },
+    {
+      "id": "1362867603806097458",
+      "fecha_utc": "2025-04-18T19:09:17.603000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": "2025-04-18T19:11:35.674000+00:00",
+      "texto": "Kurobane: Solo necesito que me arreglén esto \n\n**saca una pequeñas ropas de noble** \n\nEs uno de mis disfraces",
+      "mensaje_sha256": "096c057d82156c2f0c80090ff67ed57a4bc0690a9155055e02cd7c6e949e35cc",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362867603806097458",
+      "texto_sha256": "0bc3010cb4d5f9825ad36d27cf9e6de205a15f8cafd551648e9345a96ce952e2",
+      "adjuntos": []
+    },
+    {
+      "id": "1362868187531579614",
+      "fecha_utc": "2025-04-18T19:11:36.774000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "65547a259dca766c4c1bc77e0e272582b25e599c8fa78c21eb0e29663da6ef41",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362868187531579614",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1362868187166670888",
+          "nombre": "voice-message.ogg",
+          "tipo": "audio/ogg",
+          "archivo": "adjuntos/1362868187166670888.ogg",
+          "url": "rol_escrito/adjuntos/1362868187166670888.ogg",
+          "bytes": 192671,
+          "sha256": "459e71f8dc395bc4f2f7db2b8ada7c864a2ba85cf07315f60fcd7f74a405abfb"
+        }
+      ],
+      "transcripciones_audio": [
+        {
+          "mensaje_id": "1362868187531579614",
+          "campana": "kuroto",
+          "audio_sha256": "459e71f8dc395bc4f2f7db2b8ada7c864a2ba85cf07315f60fcd7f74a405abfb",
+          "archivo_audio": "adjuntos/1362868187166670888.ogg",
+          "modelo": "faster-whisper-large-v3-turbo",
+          "motor": "faster-whisper",
+          "version_motor": "1.2.1",
+          "dispositivo": "cuda",
+          "idioma": "es",
+          "duracion": 48.42,
+          "segmentos": [
+            {
+              "inicio": 1.46,
+              "fin": 20.14,
+              "texto": "Sugami mira esas ropas, se queda observándolas y cuando dices que son tus disfraces, dice, uh, disfraces. Aquí no vendemos disfraces, muchachos. Aquí hacemos cosas de calidad, de calidad de la buena. Además, con las perlas estas nuevas del mar que me han traído, va a quedar maravilloso."
+            },
+            {
+              "inicio": 20.14,
+              "fin": 22.7,
+              "texto": "mira, déjame eso, le voy a poner unas cuantas perlas"
+            },
+            {
+              "inicio": 22.7,
+              "fin": 24.46,
+              "texto": "mira, por aquí, después por aquí"
+            },
+            {
+              "inicio": 24.46,
+              "fin": 26.3,
+              "texto": "después, uy, un cinturoncito"
+            },
+            {
+              "inicio": 26.3,
+              "fin": 28.5,
+              "texto": "aquí un cinturoncito, un cinturoncito"
+            },
+            {
+              "inicio": 28.5,
+              "fin": 30.66,
+              "texto": "de perlas, maravilloso estarías"
+            },
+            {
+              "inicio": 30.66,
+              "fin": 31.48,
+              "texto": "además"
+            },
+            {
+              "inicio": 31.48,
+              "fin": 34.48,
+              "texto": "ya que eres tan pálido, te pongo unas perlas"
+            },
+            {
+              "inicio": 34.48,
+              "fin": 36.72,
+              "texto": "más blanquitas, para que conectes"
+            },
+            {
+              "inicio": 36.72,
+              "fin": 37.22,
+              "texto": "todo bien"
+            },
+            {
+              "inicio": 37.22,
+              "fin": 40.58,
+              "texto": "yo creo que sí, aparte tienes una figura"
+            },
+            {
+              "inicio": 40.58,
+              "fin": 42.34,
+              "texto": "¿has visto qué figura tiene?"
+            },
+            {
+              "inicio": 43.52,
+              "fin": 44.68,
+              "texto": "yo creo que no comí mucho"
+            },
+            {
+              "inicio": 44.68,
+              "fin": 46.68,
+              "texto": "pero bueno, se le ve"
+            },
+            {
+              "inicio": 46.68,
+              "fin": 47.38,
+              "texto": "fuertote"
+            }
+          ],
+          "texto": "Sugami mira esas ropas, se queda observándolas y cuando dices que son tus disfraces, dice, uh, disfraces. Aquí no vendemos disfraces, muchachos. Aquí hacemos cosas de calidad, de calidad de la buena. Además, con las perlas estas nuevas del mar que me han traído, va a quedar maravilloso. mira, déjame eso, le voy a poner unas cuantas perlas mira, por aquí, después por aquí después, uy, un cinturoncito aquí un cinturoncito, un cinturoncito de perlas, maravilloso estarías además ya que eres tan pálido, te pongo unas perlas más blanquitas, para que conectes todo bien yo creo que sí, aparte tienes una figura ¿has visto qué figura tiene? yo creo que no comí mucho pero bueno, se le ve fuertote",
+          "nota": "Transcripción automática local de una nota de voz; puede contener errores y no identifica hablantes por sí sola."
+        }
+      ]
+    },
+    {
+      "id": "1362868617359790343",
+      "fecha_utc": "2025-04-18T19:13:19.253000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "Kurobane: Lo utilizo para infiltrarme, señorita",
+      "mensaje_sha256": "6529a7cd25f573b05df8c3d9ccbad575afaff9dd88edfbd0f2fd3c9bf1c547fc",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362868617359790343",
+      "texto_sha256": "c86d6ee78bc55e60b25b3b39dd5e334c194e80fd0ecaf9bf2473f29992080b0d",
+      "adjuntos": []
+    },
+    {
+      "id": "1362869004171215132",
+      "fecha_utc": "2025-04-18T19:14:51.476000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "Higeki:\n\nPara infiltrarse tambien vale con ser...encantador",
+      "mensaje_sha256": "d8fa6bf1dd303e6392b6e1a9dc653becc4ed63f873c2eb69fe754270dbf95345",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362869004171215132",
+      "texto_sha256": "6702e92b28251634d8866d8f1b6aed05697d78d6f92af47c4d49624a998b075d",
+      "adjuntos": [
+        {
+          "id": "1362869003927818543",
+          "nombre": "9fe2a44d2504a11a27906659b0ea6330.png",
+          "tipo": "image/png",
+          "archivo": "adjuntos/1362869003927818543.png",
+          "url": "rol_escrito/adjuntos/1362869003927818543.png",
+          "bytes": 1532099,
+          "sha256": "959a9537ecdf85d6dd535a530df563f86f512590b2b5437958454c27d5fef065"
+        }
+      ]
+    },
+    {
+      "id": "1362869278906515777",
+      "fecha_utc": "2025-04-18T19:15:56.978000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "Kurobane: Eso no se me da bien, Higeki. Me entrenaron para ser agil y letal, no para ser encantador",
+      "mensaje_sha256": "55f4258256ef5a8f9eed006ee6bce4433f8aa680cfba29ba147ef08d25149636",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362869278906515777",
+      "texto_sha256": "35ee52005dabb4ee63406f5a95a6f801f758ea6b3dd5e6daf03061c31f219af1",
+      "adjuntos": []
+    },
+    {
+      "id": "1362869369138577418",
+      "fecha_utc": "2025-04-18T19:16:18.491000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "4e43f744b9484ac28987b957865dc81c249052f4a4aafdf04b8db26618f6f628",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362869369138577418",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1362869368660168724",
+          "nombre": "voice-message.ogg",
+          "tipo": "audio/ogg",
+          "archivo": "adjuntos/1362869368660168724.ogg",
+          "url": "rol_escrito/adjuntos/1362869368660168724.ogg",
+          "bytes": 80964,
+          "sha256": "f58911d0095def8c675ce1669be959527f0266db69615074edb1e9da15fcb9ac"
+        }
+      ],
+      "transcripciones_audio": [
+        {
+          "mensaje_id": "1362869369138577418",
+          "campana": "kuroto",
+          "audio_sha256": "f58911d0095def8c675ce1669be959527f0266db69615074edb1e9da15fcb9ac",
+          "archivo_audio": "adjuntos/1362869368660168724.ogg",
+          "modelo": "faster-whisper-large-v3-turbo",
+          "motor": "faster-whisper",
+          "version_motor": "1.2.1",
+          "dispositivo": "cuda",
+          "idioma": "es",
+          "duracion": 21.56,
+          "segmentos": [
+            {
+              "inicio": 1.3,
+              "fin": 19.98,
+              "texto": "Ay, sí. Este vestido se lo hice yo. Le queda maravillosamente. Mira qué colores más elegantes le puse. ¿A que sí? Es maravilloso. ¿Tú quieres uno igual, señorito? ¿Cómo te llamas tú? El de la piel tez blanca. ¿Cómo te llamas tú? ¿Quieres uno de estos? ¿Te puedo poner una máscara también?"
+            }
+          ],
+          "texto": "Ay, sí. Este vestido se lo hice yo. Le queda maravillosamente. Mira qué colores más elegantes le puse. ¿A que sí? Es maravilloso. ¿Tú quieres uno igual, señorito? ¿Cómo te llamas tú? El de la piel tez blanca. ¿Cómo te llamas tú? ¿Quieres uno de estos? ¿Te puedo poner una máscara también?",
+          "nota": "Transcripción automática local de una nota de voz; puede contener errores y no identifica hablantes por sí sola."
+        }
+      ]
+    },
+    {
+      "id": "1362869888414257382",
+      "fecha_utc": "2025-04-18T19:18:22.296000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "Kurobane: \n\nMi nombre es Kurobane.\n\n*La mascara puede ser util para que no sepan quien soy*\n\nLa mascara puede serme utíl",
+      "mensaje_sha256": "47ffadb4b3d2f1770c7fced1a412d6f6f118ed2914bd5f2fa1a35246781c6c60",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362869888414257382",
+      "texto_sha256": "1ce9070842171c603d512e70b23336b58f0513a11550649be9aead87b0eb9436",
+      "adjuntos": []
+    },
+    {
+      "id": "1362870061454332055",
+      "fecha_utc": "2025-04-18T19:19:03.552000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "911d0b33c3819efe93938b11ae5b5ff87d993ac5e4a0acefe50d8643cd22bb56",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362870061454332055",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1362870061290881245",
+          "nombre": "voice-message.ogg",
+          "tipo": "audio/ogg",
+          "archivo": "adjuntos/1362870061290881245.ogg",
+          "url": "rol_escrito/adjuntos/1362870061290881245.ogg",
+          "bytes": 98654,
+          "sha256": "a523a590e00a0fd052f796b4a498d6ff61d7c23b6c0e09bc8a1d074a8793a2de"
+        }
+      ],
+      "transcripciones_audio": [
+        {
+          "mensaje_id": "1362870061454332055",
+          "campana": "kuroto",
+          "audio_sha256": "a523a590e00a0fd052f796b4a498d6ff61d7c23b6c0e09bc8a1d074a8793a2de",
+          "archivo_audio": "adjuntos/1362870061290881245.ogg",
+          "modelo": "faster-whisper-large-v3-turbo",
+          "motor": "faster-whisper",
+          "version_motor": "1.2.1",
+          "dispositivo": "cuda",
+          "idioma": "es",
+          "duracion": 24.18,
+          "segmentos": [
+            {
+              "inicio": 0.85,
+              "fin": 19.17,
+              "texto": "Pues siendo ágil y letal, se puede ser grácil, pero la verdad es que muchas veces la palabra y el con quien te juntas ayuda bastante a infiltrarse o conocer cierta gente."
+            },
+            {
+              "inicio": 19.83,
+              "fin": 23.67,
+              "texto": "Yo, por ejemplo, ando de cocinero, también tengo muy buena mano, guiño, guiño, codo, codo."
+            }
+          ],
+          "texto": "Pues siendo ágil y letal, se puede ser grácil, pero la verdad es que muchas veces la palabra y el con quien te juntas ayuda bastante a infiltrarse o conocer cierta gente. Yo, por ejemplo, ando de cocinero, también tengo muy buena mano, guiño, guiño, codo, codo.",
+          "nota": "Transcripción automática local de una nota de voz; puede contener errores y no identifica hablantes por sí sola."
+        }
+      ]
+    },
+    {
+      "id": "1362870853368287442",
+      "fecha_utc": "2025-04-18T19:22:12.359000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "Kurobane: Hay varias formas de infiltrarse, esa es la tuya. \n\n**sonrie**\n\nPero la mía es diferente, entrar y salir en un lugar sin ser visto",
+      "mensaje_sha256": "393306bbcae7051940dc1c9b98b40ac8a72a680a88babeb83945bbcede402ac5",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362870853368287442",
+      "texto_sha256": "6d9cff48571f5861f914076a8196a710bc8e9671e01d86e9f241f4bb5fb560cb",
+      "adjuntos": []
+    },
+    {
+      "id": "1362871442663801063",
+      "fecha_utc": "2025-04-18T19:24:32.858000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "Higeki:\n\nPues aqui te vimos todos\n\n**Sonrie y posa comodamente de forma galante**",
+      "mensaje_sha256": "73c6e7f460d4e0df12c48133b4f71f5390d72385c176b563228c296323ce465d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362871442663801063",
+      "texto_sha256": "a47e8c041918cdd694573b3a15019bf287b7626a8ef3045207f92b66bb6d2706",
+      "adjuntos": []
+    },
+    {
+      "id": "1362871980562452831",
+      "fecha_utc": "2025-04-18T19:26:41.103000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "Kurobane: Eso es cierto, bueno... espero que me puedan ayudar con las ropas. Las tengo aprecio.",
+      "mensaje_sha256": "12bbfed84e856eec52414678bf15d2d49ef9735c2ff044a6ddff8e1da13096f3",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362871980562452831",
+      "texto_sha256": "7b5572f40574a68fc3fc4119ead71c8f425b1d4f34937801ba1b5b6539edbf87",
+      "adjuntos": []
+    },
+    {
+      "id": "1362872372163514388",
+      "fecha_utc": "2025-04-18T19:28:14.468000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "c6ffa47c8baa8f73e667f48c1acaa71534f921942b1facc7cf546f4c62b6e9a1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362872372163514388",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1362872371811319909",
+          "nombre": "voice-message.ogg",
+          "tipo": "audio/ogg",
+          "archivo": "adjuntos/1362872371811319909.ogg",
+          "url": "rol_escrito/adjuntos/1362872371811319909.ogg",
+          "bytes": 317137,
+          "sha256": "c3d5b1478629fb89a05e2872572fa2c47ed20cae9f0acd2e1a2972aec23a866c"
+        }
+      ],
+      "transcripciones_audio": [
+        {
+          "mensaje_id": "1362872372163514388",
+          "campana": "kuroto",
+          "audio_sha256": "c3d5b1478629fb89a05e2872572fa2c47ed20cae9f0acd2e1a2972aec23a866c",
+          "archivo_audio": "adjuntos/1362872371811319909.ogg",
+          "modelo": "faster-whisper-large-v3-turbo",
+          "motor": "faster-whisper",
+          "version_motor": "1.2.1",
+          "dispositivo": "cuda",
+          "idioma": "es",
+          "duracion": 81.8,
+          "segmentos": [
+            {
+              "inicio": 1.33,
+              "fin": 3.39,
+              "texto": "Ay, Higeki, calla ya, que siempre está igual"
+            },
+            {
+              "inicio": 3.39,
+              "fin": 5.13,
+              "texto": "Me asustas a la clientela"
+            },
+            {
+              "inicio": 5.13,
+              "fin": 7.05,
+              "texto": "Apártate, quítale la mano del muslo"
+            },
+            {
+              "inicio": 7.05,
+              "fin": 10.15,
+              "texto": "Quítale ahí la mano del muslo"
+            },
+            {
+              "inicio": 10.15,
+              "fin": 11.39,
+              "texto": "Ay, siempre tocando"
+            },
+            {
+              "inicio": 11.39,
+              "fin": 14.21,
+              "texto": "No te fíes mucho de Higeki"
+            },
+            {
+              "inicio": 14.21,
+              "fin": 15.21,
+              "texto": "Este, siempre está igual"
+            },
+            {
+              "inicio": 15.21,
+              "fin": 16.79,
+              "texto": "A ver, acércate muchacho"
+            },
+            {
+              "inicio": 16.79,
+              "fin": 18.29,
+              "texto": "Que te va a tomar un poco las medidas"
+            },
+            {
+              "inicio": 18.29,
+              "fin": 20.49,
+              "texto": "A ver, entonces"
+            },
+            {
+              "inicio": 20.49,
+              "fin": 22.97,
+              "texto": "Esto que me has dado, esto no lo vamos a arreglar"
+            },
+            {
+              "inicio": 22.97,
+              "fin": 24.03,
+              "texto": "Esto"
+            },
+            {
+              "inicio": 24.03,
+              "fin": 26.11,
+              "texto": "Esto ya no está bien"
+            },
+            {
+              "inicio": 26.11,
+              "fin": 27.83,
+              "texto": "Yo te puedo coger un vestido nuevo"
+            },
+            {
+              "inicio": 27.83,
+              "fin": 29.55,
+              "texto": "De un color"
+            },
+            {
+              "inicio": 29.55,
+              "fin": 32.77,
+              "texto": "un color, tengo un verde"
+            },
+            {
+              "inicio": 32.77,
+              "fin": 34.93,
+              "texto": "yo creo que un verde te quedará bien"
+            },
+            {
+              "inicio": 34.93,
+              "fin": 36.93,
+              "texto": "tengo un verde con detalles"
+            },
+            {
+              "inicio": 36.93,
+              "fin": 38.59,
+              "texto": "así azules que te quedará maravilloso"
+            },
+            {
+              "inicio": 38.59,
+              "fin": 40.91,
+              "texto": "te podrá infiltrar en todas las fiestas"
+            },
+            {
+              "inicio": 40.91,
+              "fin": 42.47,
+              "texto": "que quieras, porque te dejarán entrar"
+            },
+            {
+              "inicio": 42.47,
+              "fin": 44.13,
+              "texto": "te lo digo yo, aparte"
+            },
+            {
+              "inicio": 44.13,
+              "fin": 46.61,
+              "texto": "si dices que es un traje de la tienda de Tsugami"
+            },
+            {
+              "inicio": 46.61,
+              "fin": 48.65,
+              "texto": "seguro que te entran"
+            },
+            {
+              "inicio": 48.65,
+              "fin": 50.79,
+              "texto": "porque estoy empezando a ganar reputación en el pueblo"
+            },
+            {
+              "inicio": 50.79,
+              "fin": 52.61,
+              "texto": "porque no sé si te lo he contado"
+            },
+            {
+              "inicio": 52.61,
+              "fin": 53.81,
+              "texto": "pero la Antonia"
+            },
+            {
+              "inicio": 53.81,
+              "fin": 56.83,
+              "texto": "la de las estrellas de más abajo"
+            },
+            {
+              "inicio": 56.83,
+              "fin": 59.07,
+              "texto": "se ve que ha tenido problemas"
+            },
+            {
+              "inicio": 59.07,
+              "fin": 60.71,
+              "texto": "eso se cuenta"
+            },
+            {
+              "inicio": 60.71,
+              "fin": 63.25,
+              "texto": "y todo esto de la crisis"
+            },
+            {
+              "inicio": 63.25,
+              "fin": 64.89,
+              "texto": "la Antonia"
+            },
+            {
+              "inicio": 64.89,
+              "fin": 67.21,
+              "texto": "seguro, porque yo"
+            },
+            {
+              "inicio": 67.21,
+              "fin": 69.31,
+              "texto": "lo he visto con gente"
+            },
+            {
+              "inicio": 69.31,
+              "fin": 70.19,
+              "texto": "maleante"
+            },
+            {
+              "inicio": 70.19,
+              "fin": 73.19,
+              "texto": "que está cogiendo cosas"
+            },
+            {
+              "inicio": 73.19,
+              "fin": 74.95,
+              "texto": "que no deben, ahí te lo digo"
+            },
+            {
+              "inicio": 74.95,
+              "fin": 77.53,
+              "texto": "me lo dijo la Toñi, ya verás"
+            },
+            {
+              "inicio": 77.53,
+              "fin": 78.91,
+              "texto": "ya, ya, ya verás"
+            },
+            {
+              "inicio": 78.91,
+              "fin": 80.85,
+              "texto": "pero bueno, vente, que te pongo las medidas"
+            }
+          ],
+          "texto": "Ay, Higeki, calla ya, que siempre está igual Me asustas a la clientela Apártate, quítale la mano del muslo Quítale ahí la mano del muslo Ay, siempre tocando No te fíes mucho de Higeki Este, siempre está igual A ver, acércate muchacho Que te va a tomar un poco las medidas A ver, entonces Esto que me has dado, esto no lo vamos a arreglar Esto Esto ya no está bien Yo te puedo coger un vestido nuevo De un color un color, tengo un verde yo creo que un verde te quedará bien tengo un verde con detalles así azules que te quedará maravilloso te podrá infiltrar en todas las fiestas que quieras, porque te dejarán entrar te lo digo yo, aparte si dices que es un traje de la tienda de Tsugami seguro que te entran porque estoy empezando a ganar reputación en el pueblo porque no sé si te lo he contado pero la Antonia la de las estrellas de más abajo se ve que ha tenido problemas eso se cuenta y todo esto de la crisis la Antonia seguro, porque yo lo he visto con gente maleante que está cogiendo cosas que no deben, ahí te lo digo me lo dijo la Toñi, ya verás ya, ya, ya verás pero bueno, vente, que te pongo las medidas",
+          "nota": "Transcripción automática local de una nota de voz; puede contener errores y no identifica hablantes por sí sola."
+        }
+      ]
+    },
+    {
+      "id": "1362872996599042329",
+      "fecha_utc": "2025-04-18T19:30:43.345000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "Kurobane: **se acerca lentamente Tsugami** Que tipo de maleantes?",
+      "mensaje_sha256": "81a0b14a756fe01e8687630f47d7815f7334fea183c25b6d0ca81a1bac2e6d6f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362872996599042329",
+      "texto_sha256": "7008123b597daf08f7c112ba65b7296b6619f8ef9cab401b8267250551cbe73c",
+      "adjuntos": []
+    },
+    {
+      "id": "1362873883115520283",
+      "fecha_utc": "2025-04-18T19:34:14.707000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "Higeki:\n\nUy si si, entre fogones Paqui dice lo mismo que tu, pero no se muy bien quien inicio el rumor. En el burdel se habla poco mas de lo mismo",
+      "mensaje_sha256": "6ecbe1cbe3d822f751a8451d8827439ee4171b178723f83b0fd6f0e3d5292575",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362873883115520283",
+      "texto_sha256": "6c82192068d74c196ef8c440255ac5c24cfd5c8a89a5220f1d579b5f3bee278b",
+      "adjuntos": []
+    },
+    {
+      "id": "1362873944473997422",
+      "fecha_utc": "2025-04-18T19:34:29.336000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "Hablaste con conchi?",
+      "mensaje_sha256": "d4a3056da69a8ca66e609f3dda947912dbe969a15cde687fe079fa3e1e62325d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362873944473997422",
+      "texto_sha256": "3ddfd7434375f31edf4bfb040ca7c794ee2fa96d077798557eb7e38de8c84c04",
+      "adjuntos": []
+    },
+    {
+      "id": "1362875057151545344",
+      "fecha_utc": "2025-04-18T19:38:54.619000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "1aedf1471f8bcd29edad9a5e7898084b7e30eafc72e561db860a82258f14a692",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362875057151545344",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1362875056782311777",
+          "nombre": "voice-message.ogg",
+          "tipo": "audio/ogg",
+          "archivo": "adjuntos/1362875056782311777.ogg",
+          "url": "rol_escrito/adjuntos/1362875056782311777.ogg",
+          "bytes": 269298,
+          "sha256": "17870ccc1207157acb829e2d48a4c0bc93011a37737a1a3f8a1cfd4aba6e3bf4"
+        }
+      ],
+      "transcripciones_audio": [
+        {
+          "mensaje_id": "1362875057151545344",
+          "campana": "kuroto",
+          "audio_sha256": "17870ccc1207157acb829e2d48a4c0bc93011a37737a1a3f8a1cfd4aba6e3bf4",
+          "archivo_audio": "adjuntos/1362875056782311777.ogg",
+          "modelo": "faster-whisper-large-v3-turbo",
+          "motor": "faster-whisper",
+          "version_motor": "1.2.1",
+          "dispositivo": "cuda",
+          "idioma": "es",
+          "duracion": 68.16,
+          "segmentos": [
+            {
+              "inicio": 0.46,
+              "fin": 3.26,
+              "texto": "Uy, sí, sí, algunos maleantes, malísimos."
+            },
+            {
+              "inicio": 5.0,
+              "fin": 8.22,
+              "texto": "Cristian, el hijo del pescadero, ese, no sé si lo conoces."
+            },
+            {
+              "inicio": 8.4,
+              "fin": 13.96,
+              "texto": "Uy, ese se junta con una mala gente, que yo lo he visto ahí a beber todos los días."
+            },
+            {
+              "inicio": 14.24,
+              "fin": 19.14,
+              "texto": "Se van a la taberna a beber, los cuatro, yo los he visto, maleantes."
+            },
+            {
+              "inicio": 19.58,
+              "fin": 21.82,
+              "texto": "Seguro que hacen cosas por la noche que no deberían."
+            },
+            {
+              "inicio": 22.16,
+              "fin": 23.08,
+              "texto": "Uy, esa gente, no."
+            },
+            {
+              "inicio": 23.66,
+              "fin": 30.02,
+              "texto": "Pero Cristian, este, pues eso, que la Antonia seguramente tiene temas de estos."
+            },
+            {
+              "inicio": 30.46,
+              "fin": 42.4,
+              "texto": "Yo no lo quiero decir, porque yo no soy una chivata, porque yo no soy una chivata ni una cotilla, pero yo, en mi modestia, creo que esta gente tiene algo que ver con esto que está pasando."
+            },
+            {
+              "inicio": 43.14,
+              "fin": 53.24,
+              "texto": "Fíjate tú que te digo. Y bueno, ¿y qué más te voy a decir? Ah, bueno, y otra cosa que te voy a decir, Jigeki, uh, lo que se ha armado, no sabes lo que se ha armado."
+            },
+            {
+              "inicio": 53.24,
+              "fin": 55.58,
+              "texto": "¿Te acuerdas de Erk? Borracha vino otra vez"
+            },
+            {
+              "inicio": 55.58,
+              "fin": 57.88,
+              "texto": "Borracha vino la Erk otra vez"
+            },
+            {
+              "inicio": 57.88,
+              "fin": 59.28,
+              "texto": "Pero bueno, total"
+            },
+            {
+              "inicio": 59.28,
+              "fin": 61.34,
+              "texto": "Que me lío, que me hablas de cosas"
+            },
+            {
+              "inicio": 61.34,
+              "fin": 63.2,
+              "texto": "Que no puedo hacer, ¿qué querías tú?"
+            },
+            {
+              "inicio": 63.54,
+              "fin": 65.74,
+              "texto": "¿Un vestido diferente? ¿Te gusta el vestido"
+            },
+            {
+              "inicio": 65.74,
+              "fin": 67.14,
+              "texto": "Verde? Porque solo tengo el verde"
+            }
+          ],
+          "texto": "Uy, sí, sí, algunos maleantes, malísimos. Cristian, el hijo del pescadero, ese, no sé si lo conoces. Uy, ese se junta con una mala gente, que yo lo he visto ahí a beber todos los días. Se van a la taberna a beber, los cuatro, yo los he visto, maleantes. Seguro que hacen cosas por la noche que no deberían. Uy, esa gente, no. Pero Cristian, este, pues eso, que la Antonia seguramente tiene temas de estos. Yo no lo quiero decir, porque yo no soy una chivata, porque yo no soy una chivata ni una cotilla, pero yo, en mi modestia, creo que esta gente tiene algo que ver con esto que está pasando. Fíjate tú que te digo. Y bueno, ¿y qué más te voy a decir? Ah, bueno, y otra cosa que te voy a decir, Jigeki, uh, lo que se ha armado, no sabes lo que se ha armado. ¿Te acuerdas de Erk? Borracha vino otra vez Borracha vino la Erk otra vez Pero bueno, total Que me lío, que me hablas de cosas Que no puedo hacer, ¿qué querías tú? ¿Un vestido diferente? ¿Te gusta el vestido Verde? Porque solo tengo el verde",
+          "nota": "Transcripción automática local de una nota de voz; puede contener errores y no identifica hablantes por sí sola."
+        }
+      ]
+    },
+    {
+      "id": "1362875573109522502",
+      "fecha_utc": "2025-04-18T19:40:57.633000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "Kurobane: El traje verde y la mascara me interesan",
+      "mensaje_sha256": "0e80472e8879e2b77b0a6308f983b36b365558783ea1e08b6af2402cd07bf804",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362875573109522502",
+      "texto_sha256": "0eae37879652ee4db81122b04f3843e26f7f1d44fe14b95e4efa79af83d85fe3",
+      "adjuntos": []
+    },
+    {
+      "id": "1362876208370421810",
+      "fecha_utc": "2025-04-18T19:43:29.091000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "ad5a5109e4ec27d198c4dc045ca15a89f00ad7bc7fdda003b2e7bcc6b4838944",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362876208370421810",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1362876208026620224",
+          "nombre": "voice-message.ogg",
+          "tipo": "audio/ogg",
+          "archivo": "adjuntos/1362876208026620224.ogg",
+          "url": "rol_escrito/adjuntos/1362876208026620224.ogg",
+          "bytes": 118340,
+          "sha256": "6499cc00e95b286c5db53fb17a2693fd6851ee7999b4ab0efbb00f59f04ad682"
+        }
+      ],
+      "transcripciones_audio": [
+        {
+          "mensaje_id": "1362876208370421810",
+          "campana": "kuroto",
+          "audio_sha256": "6499cc00e95b286c5db53fb17a2693fd6851ee7999b4ab0efbb00f59f04ad682",
+          "archivo_audio": "adjuntos/1362876208026620224.ogg",
+          "modelo": "faster-whisper-large-v3-turbo",
+          "motor": "faster-whisper",
+          "version_motor": "1.2.1",
+          "dispositivo": "cuda",
+          "idioma": "es",
+          "duracion": 29.62,
+          "segmentos": [
+            {
+              "inicio": 0.59,
+              "fin": 23.93,
+              "texto": "Uy, sí. O sea, a mí me contaron el burdel que la vieron cerca de algún palomar. No sé si algún palomo ahí tendrá un poquito... Ya sabemos, ¿no? Bueno, yo me voy que el descanso para comer se está acabando y voy a tener que ir al castillo de Shogun a ir preparando la cena."
+            },
+            {
+              "inicio": 23.93,
+              "fin": 28.99,
+              "texto": "Te pongo al tanto en cuanto haya más cotidios, ¿vale, mi reina? Venga, hasta luego."
+            }
+          ],
+          "texto": "Uy, sí. O sea, a mí me contaron el burdel que la vieron cerca de algún palomar. No sé si algún palomo ahí tendrá un poquito... Ya sabemos, ¿no? Bueno, yo me voy que el descanso para comer se está acabando y voy a tener que ir al castillo de Shogun a ir preparando la cena. Te pongo al tanto en cuanto haya más cotidios, ¿vale, mi reina? Venga, hasta luego.",
+          "nota": "Transcripción automática local de una nota de voz; puede contener errores y no identifica hablantes por sí sola."
+        }
+      ]
+    },
+    {
+      "id": "1362876314100437252",
+      "fecha_utc": "2025-04-18T19:43:54.299000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "470845c04dda316c91d5078691a9c2b07ccb01593e7b63448156bc774a17c487",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362876314100437252",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1362876313668554974",
+          "nombre": "voice-message.ogg",
+          "tipo": "audio/ogg",
+          "archivo": "adjuntos/1362876313668554974.ogg",
+          "url": "rol_escrito/adjuntos/1362876313668554974.ogg",
+          "bytes": 87551,
+          "sha256": "ad03a0676184376952405a7202a69aa6ab7a1595672cb14f1c85899f999acf62"
+        }
+      ],
+      "transcripciones_audio": [
+        {
+          "mensaje_id": "1362876314100437252",
+          "campana": "kuroto",
+          "audio_sha256": "ad03a0676184376952405a7202a69aa6ab7a1595672cb14f1c85899f999acf62",
+          "archivo_audio": "adjuntos/1362876313668554974.ogg",
+          "modelo": "faster-whisper-large-v3-turbo",
+          "motor": "faster-whisper",
+          "version_motor": "1.2.1",
+          "dispositivo": "cuda",
+          "idioma": "es",
+          "duracion": 22.68,
+          "segmentos": [
+            {
+              "inicio": 0.72,
+              "fin": 22.18,
+              "texto": "Y por cierto, Curbane, me caes muy bien, ¿vale? Pero déjate llevar un poco por la situación, que se te ve bastante tensito y ves como te pasa las manos por el cuellito, te susurra y tal, intenta relajarte un poco, cariño, y se va a cocinar."
+            }
+          ],
+          "texto": "Y por cierto, Curbane, me caes muy bien, ¿vale? Pero déjate llevar un poco por la situación, que se te ve bastante tensito y ves como te pasa las manos por el cuellito, te susurra y tal, intenta relajarte un poco, cariño, y se va a cocinar.",
+          "nota": "Transcripción automática local de una nota de voz; puede contener errores y no identifica hablantes por sí sola."
+        }
+      ]
+    },
+    {
+      "id": "1362877189275779212",
+      "fecha_utc": "2025-04-18T19:47:22.957000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "Tsugami: **Ves a la mujer mientras palotea mas de chismes con Higeki que se dirige a la trastienda y vuelve con un vestido verde y una mascara de fiesta. Al volver sigue hablando y parloteando sin darse cuenta que Higeki se ha marchado** Uy, bueno pues esto es lo que tengo muchacho, yo creo que te quedara maravilloso con esa piel que tienes... *aunque mas moreno seria mas guapo*. ¿Qué me dices, te gusta?",
+      "mensaje_sha256": "e9a7d3a4f5549d1409a999519f6fa2956196f8ee3f046bcadfe68890830f3fe8",
+      "tipo_discord": 19,
+      "referencia": "1362875573109522502",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362877189275779212",
+      "texto_sha256": "6122615ebac99f42b274ea1a5e47d25745b2421ce869590de71cbaef8f6d4451",
+      "adjuntos": []
+    },
+    {
+      "id": "1362877484089217168",
+      "fecha_utc": "2025-04-18T19:48:33.246000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\n **asiente** \n\nCuanto sería?",
+      "mensaje_sha256": "c48d30b31a464f4ba8d5ae6dcc7f956f456f893234bff748b41a752f3ecc11d1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362877484089217168",
+      "texto_sha256": "f51c917771cc7a507339e3ebf8b470708ef0c2a873962ca22d193eefe92e19e8",
+      "adjuntos": []
+    },
+    {
+      "id": "1362879748614787233",
+      "fecha_utc": "2025-04-18T19:57:33.151000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "Tsugami: Ah.... pa ti que vienes de los cazadores poco muchacho, una monedilla de oro. Ya veras como así te infiltras bien en muchos sitios **La mujer sigue parloteando volviendo a los chismes de marujas**",
+      "mensaje_sha256": "80690be6ca2b2d8185629610579c7f17dc2aba06fdc9f9fbaeb13cb1c3843eaf",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362879748614787233",
+      "texto_sha256": "31dc0b1328a49ea96fdc0e6f11bb1f76162a2f58095de535ee08864fc1b5baf8",
+      "adjuntos": []
+    },
+    {
+      "id": "1362880377558929428",
+      "fecha_utc": "2025-04-18T20:00:03.103000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\n **le coloca la moneda de oro** \n\nGracias, Tsugami\n\n**agarra el traje verde y la mascara, hace una reverencia y empieza a salir de la tienda**",
+      "mensaje_sha256": "80e40c4273ac60182e25785e09452a84797e80ae235e3d602bc99e347f256d16",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362880377558929428",
+      "texto_sha256": "b5ba40866215d632861bbd3333ba8a59eaf681b7e5c5a6a0aab1fc2380818c54",
+      "adjuntos": []
+    },
+    {
+      "id": "1362883068746006579",
+      "fecha_utc": "2025-04-18T20:10:44.732000+00:00",
+      "fecha_local": "2025-04-18",
+      "editado_utc": null,
+      "texto": "Tsugami: **Mientras sales de la tienda, aun escuchas a Tsugami parloteando de chismes sin haberse dado cuenta de que te has ido de allí**\n\n🔴 Fin de Escena.🔴",
+      "mensaje_sha256": "bcd5cc8d18d80d9647f17c23c29ab95163fabb7b41d1e6f1e2c3966686531ce4",
+      "tipo_discord": 19,
+      "referencia": "1362880377558929428",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1362883068746006579",
+      "texto_sha256": "3cc330cf6acba78124098c29f07babd23497417db0f39f7e4d7d7f4ff5491ab4",
+      "adjuntos": []
+    }
+  ]
+}

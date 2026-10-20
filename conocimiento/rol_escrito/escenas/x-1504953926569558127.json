@@ -1,0 +1,207 @@
+{
+  "id": "x-1504953926569558127",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1504953926569558127",
+  "hilo_id": "1465411590789795962",
+  "hilo_nombre": "Shiaru - El ron de Bonny",
+  "titulo": "Bonny libera las manos de Citlali y habla de una puerta",
+  "resumen": "Advierte que la Marina busca sus tatuajes y los describe como una llamada, sin revelar aún a qué acceso se refiere.",
+  "relato": "Bonny llega al barco que mantiene oculto y protegido al norte de Shiaru. Encuentra a Citlali aún retenida y le dice que la Marina va tras ella. Cree que descubrieron sus tatuajes a través de Molly, pero no demuestra en esta conversación cómo se produjo la información. Golpea la pared de rabia mientras la anciana le exige que controle el carácter.\n\nLa capitana afirma que la está escondiendo por el bien de todos. Citlali cuestiona si en realidad protege intereses propios y repite lo que ha descifrado de la libreta, sus marcas y los susurros: el final cuando la Serpiente devore los huevos del Águila.\n\nBonny cambia la soberbia por seriedad y explica que no son solo palabras, sino una llamada para abrir una puerta que debería seguir cerrada. Saca una llave y le quita las esposas. La anciana duda de que las cerraduras basten para impedir el paso y le pone una mano en el hombro. El intercambio continúa sin identificar la puerta ni mostrar salida del barco, pero el desatado sí ocurre aquí.",
+  "participantes": [
+    "Happy Bonny",
+    "Citlali"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1504955215231848630",
+      "afirmacion": "Bonny cree que la Marina obtuvo de Molly información sobre los tatuajes.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1504960596876066909",
+      "afirmacion": "Citlali repite la parte que ha descifrado de la llamada.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1504962795366776953",
+      "afirmacion": "Bonny describe una puerta que debería permanecer cerrada y quita las esposas.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La protección que Bonny invoca no borra que Citlali estaba retenida contra su voluntad.",
+    "La puerta puede tener alcance ritual; no inventar lugar, entidad o mecanismo antes de su explicación.",
+    "Continuación inmediata pendiente en la siguiente unidad."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-05-15T21:09:36.786000+00:00",
+  "fin_utc": "2026-05-15T21:58:38.610000+00:00",
+  "fecha_local": "2026-05-15",
+  "intervalo": {
+    "anterior": 32,
+    "siguiente": 33,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1504914757835030579",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1506363085538201671",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 32,
+        "fecha": "2026-05-15",
+        "inicio_referencia_utc": "2026-05-15T18:33:44+00:00",
+        "fin_estimado_utc": "2026-05-15T20:47:23+00:00",
+        "duracion_video_segundos": 8019,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1504914757835030579"
+      },
+      {
+        "capitulo": 33,
+        "fecha": "2026-05-19",
+        "inicio_referencia_utc": "2026-05-19T18:28:49+00:00",
+        "fin_estimado_utc": "2026-05-19T21:10:39+00:00",
+        "duracion_video_segundos": 9710,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1506363085538201671"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1504953926569558127",
+      "fecha_utc": "2026-05-15T21:09:36.786000+00:00",
+      "fecha_local": "2026-05-15",
+      "editado_utc": null,
+      "texto": "Happy Bonny: **La capitana pirata llegó a su barco amarrado al norte de Shiaru. Oculto entre la vejetacion y fuertemente protegido por trampas y esbirros. Atraviesa la cubierta y entra de golpe en su camarote. Se queda mirando a Mama <@408026114548695061> un largo rato.** La cosa se complica, la Marina viene a por usted.",
+      "mensaje_sha256": "325571ff176bdb15a057849ec7a28b868d872270a5053b03f0b260627c337e2e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1504953926569558127",
+      "texto_sha256": "42f9db9948cec554a59b34d31d80c3373cb12425693163220f1b30a6533749ef",
+      "adjuntos": []
+    },
+    {
+      "id": "1504954566687592469",
+      "fecha_utc": "2026-05-15T21:12:09.402000+00:00",
+      "fecha_local": "2026-05-15",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\n**Me crucé de brazos mientras la veía entrar**\n\nQué tengo que ver yo con ellos?, es más, cómo por qué me estarían buscando?\n\n**Me estaba desarmando las trenzas, estaba dispuesta a dormir hasta que Bonny apareció**",
+      "mensaje_sha256": "63b6874965f8e3d6b4c8d0b740ff0debff7ba0df908e381ad8cf828e5fd1a8cd",
+      "tipo_discord": 19,
+      "referencia": "1504953926569558127",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1504954566687592469",
+      "texto_sha256": "684227b826e22200a0578cd28bf82ee0249bdd50646b7e4f93610e422513ecd7",
+      "adjuntos": []
+    },
+    {
+      "id": "1504955215231848630",
+      "fecha_utc": "2026-05-15T21:14:44.027000+00:00",
+      "fecha_local": "2026-05-15",
+      "editado_utc": null,
+      "texto": "Happy Bonny: Sus tatuajes **Que queda plantada delante de ti sin parar de mirarte apretando el puño de rabia** Deben haberselo sacado a Molly... Maldita sea! **Da un golpe en la pared con el puño y se hace algo de sangre en los nudillos**",
+      "mensaje_sha256": "51d688b667139272166090ee259293c433718343fbc013407f51476c872c4e23",
+      "tipo_discord": 19,
+      "referencia": "1504954566687592469",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1504955215231848630",
+      "texto_sha256": "f90a620b628590cd1acee7653798c7c105540c87696dfa08cd9868a17cdd099a",
+      "adjuntos": []
+    },
+    {
+      "id": "1504955735329738812",
+      "fecha_utc": "2026-05-15T21:16:48.028000+00:00",
+      "fecha_local": "2026-05-15",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\nPuedes controlar ese carácter?, vas a romper las paredes, además... Es demasiado tarde para estar haciendo, cómo puedo decirle?, ah... Pataleta\n\n**Mi cabello caía por mis hombros mientras me acomodaba sobre la cama**\n\nNo entiendo porque me sigues teniendo aquí, ya te dije que no tengo nada que te interese",
+      "mensaje_sha256": "c156cc1645d0a0eff8936fbeb9d7cba4188140cf65b605304fc52baf9ccd7f99",
+      "tipo_discord": 19,
+      "referencia": "1504955215231848630",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1504955735329738812",
+      "texto_sha256": "7b819a175c0ccec869e24b6bfd44d61651797e7d3fae613b4902507364e75807",
+      "adjuntos": []
+    },
+    {
+      "id": "1504956679379488858",
+      "fecha_utc": "2026-05-15T21:20:33.107000+00:00",
+      "fecha_local": "2026-05-15",
+      "editado_utc": null,
+      "texto": "Happy Bonny: **Chasquea la lengua** La estoy escondiendo. Por el bien de todos...",
+      "mensaje_sha256": "5ba16dd662c2af497a7b12bc8e01807d8b6247324b102c43161ff2bb57559d5e",
+      "tipo_discord": 19,
+      "referencia": "1504955735329738812",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1504956679379488858",
+      "texto_sha256": "d9c27db2d839516ba9fa0c1f36a7c40e3d698d218137fc3ebe792e692dc858cc",
+      "adjuntos": []
+    },
+    {
+      "id": "1504957314900430909",
+      "fecha_utc": "2026-05-15T21:23:04.627000+00:00",
+      "fecha_local": "2026-05-15",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\nPor el bien de todos?, o solo el tuyo?\n\n**Me crucé de brazos nuevamente**\n\nNo es más fácil para ti el que se deshagan de un \"Estorbo\" como yo?, no... Hay algo más y lo sabes",
+      "mensaje_sha256": "2cef8334dff5ace8731fe0eea9632023068a03fcf1dec2ad0113f2c0d42845cc",
+      "tipo_discord": 19,
+      "referencia": "1504956679379488858",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1504957314900430909",
+      "texto_sha256": "29e2ad9b4313da749554e48b469799837692e5f2125deb3f2e4a5ba336f62f65",
+      "adjuntos": []
+    },
+    {
+      "id": "1504957781277675610",
+      "fecha_utc": "2026-05-15T21:24:55.820000+00:00",
+      "fecha_local": "2026-05-15",
+      "editado_utc": null,
+      "texto": "Happy Bonny: Me voy a arrepentir de esto... *Maldita seas Nox, es todo por tu culpa*...sus tatuajes. ¿De verdad no saben lo que son? **Se acerca más a ti, pero no parece hablarte ya con esa soberbia**",
+      "mensaje_sha256": "a5cbc9f8adb517e199d4155b489a75cc93c8511b983cbe077b5c05d17b91e70d",
+      "tipo_discord": 19,
+      "referencia": "1504957314900430909",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1504957781277675610",
+      "texto_sha256": "82df8e290ff9f19e0b259718e21d268407871b76bdc09709b1f3040a5cee04cf",
+      "adjuntos": []
+    },
+    {
+      "id": "1504960596876066909",
+      "fecha_utc": "2026-05-15T21:36:07.111000+00:00",
+      "fecha_local": "2026-05-15",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\nDigamos que he leído un poco, me tienen hartas los siseos y he podido entender parte, tanto lo que está escrito en tu libreta como en lo que ellos suelen decirme susurrando, también estás palabras \n\n**Señalo los tatuajes de mis brazos**\n\nDicen que todo terminará cuando la serpiente devore los huevos del nido del águila, es todo lo que he podido entender",
+      "mensaje_sha256": "d7f19f519535aed363e0b8f036059c3ed1735ca67e73122cc39224db068dafbe",
+      "tipo_discord": 19,
+      "referencia": "1504957781277675610",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1504960596876066909",
+      "texto_sha256": "de47a55abe8e49fc787b8a7de75189585a5b0ec0c1c4b8e96f1963c56880913e",
+      "adjuntos": []
+    },
+    {
+      "id": "1504962795366776953",
+      "fecha_utc": "2026-05-15T21:44:51.272000+00:00",
+      "fecha_local": "2026-05-15",
+      "editado_utc": null,
+      "texto": "Happy Bonny: No son solo palabras... Son una llamada **Se acerca a ti y saca una llave para empezar a sacarte las esposas que te tienen atrapada** Para abrir una puerta... Y creo que sabes tan bien como yo, que esa puerta debería permanecer cerrada. **Cuando acaba de desatarte te mira**",
+      "mensaje_sha256": "d48cf4b74066ecceebd750aaea612c326ed88bc9f6bf7c05068d51013822c21f",
+      "tipo_discord": 19,
+      "referencia": "1504960596876066909",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1504962795366776953",
+      "texto_sha256": "a84bf7efe8f12c50b88c31fd45f3cbcbbec175fd75e65593cea80ea1469466d3",
+      "adjuntos": []
+    },
+    {
+      "id": "1504966265473863690",
+      "fecha_utc": "2026-05-15T21:58:38.610000+00:00",
+      "fecha_local": "2026-05-15",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\nSabes tan bien como yo que no servirá de mucho que la puerta esté cerrada si ellos pueden tumbar la puerta sin importarles cuantas cerraduras tiene\n\n**Le pongo una mano en su hombro**\n\nSe que empezamos con el pie izquierdo, pero no quiero irme de este mundo dejándote preocupada",
+      "mensaje_sha256": "d5b18b3ad43dd93fd3e322c5ff817ae74bd8c65fad70e2ff4a4a6cc7693bac88",
+      "tipo_discord": 19,
+      "referencia": "1504962795366776953",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1504966265473863690",
+      "texto_sha256": "e89b3fdc151d7a706c463e0f5ca4c1597b3e02a1b2e8234e88dc22a05b819b79",
+      "adjuntos": []
+    }
+  ]
+}

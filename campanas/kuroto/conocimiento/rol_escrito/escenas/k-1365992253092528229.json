@@ -1,0 +1,77 @@
+{
+  "id": "k-1365992253092528229",
+  "campana": "kuroto",
+  "unidad_revision": "k-1365992253092528229",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Danifae toma un callejón de Sho",
+  "resumen": "Danifae sale de la base y se dirige a un callejón junto a la plaza central.",
+  "relato": "Danifae abandona la base de Sho y se cubre la cabeza con la capucha para protegerse del sol del mediodía. Atraviesa las calles de la capital con decisión hasta alcanzar la plaza central. Allí fija la mirada en un callejón cercano, sonríe y se encamina hacia él. La escena se cierra sin mostrar a quién busca ni qué encuentra.",
+  "participantes": [
+    "Danifae"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1365992253092528229",
+      "afirmacion": "Danifae sale de la base, cruza la ciudad y se dirige a un callejón junto a la plaza central.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La escena tiene cierre explícito, pero no explica el destino concreto ni el motivo de la sonrisa. No añadir encuentro o actividad dentro del callejón."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-04-27T10:05:32.046000+00:00",
+  "fin_utc": "2025-04-27T10:05:32.046000+00:00",
+  "fecha_local": "2025-04-27",
+  "intervalo": {
+    "anterior": 109,
+    "siguiente": 110,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1365035149171101736",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367206327377727518",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 109,
+        "fecha": "2025-04-24",
+        "inicio_referencia_utc": "2025-04-24T18:42:06+00:00",
+        "fin_estimado_utc": "2025-04-24T21:37:07+00:00",
+        "duracion_video_segundos": 10501,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1365035149171101736"
+      },
+      {
+        "capitulo": 110,
+        "fecha": "2025-04-30",
+        "inicio_referencia_utc": "2025-04-30T18:29:35+00:00",
+        "fin_estimado_utc": "2025-04-30T20:53:27+00:00",
+        "duracion_video_segundos": 8632,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367206327377727518"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1365992253092528229",
+      "fecha_utc": "2025-04-27T10:05:32.046000+00:00",
+      "fecha_local": "2025-04-27",
+      "editado_utc": "2025-04-27T17:00:13.844000+00:00",
+      "texto": "Danifae: **Sale de la base de Sho y, alzando la capucha sobre su cabeza para protegerse del sol del mediodía, se adentra en las calles con pasos gráciles y decididos. Sin detenerse, atraviesa la ciudad hasta alcanzar la plaza central de la capital. Sus ojos se detienen en un callejón cercano, y una sonrisa se dibuja en sus labios. Sin dudarlo, se dirige hacia allí.**\n\n🔴 Fin de escena🔴",
+      "mensaje_sha256": "c8bfc522d44ee1b0bf6bd01eae283cd14bc662ab4b9b30e71ab8f6ad214f9da1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1365992253092528229",
+      "texto_sha256": "f64939d342fb9c41f0cc017fe8b03e0ea03022b0a50434162687fc2c375e29ef",
+      "adjuntos": []
+    }
+  ]
+}

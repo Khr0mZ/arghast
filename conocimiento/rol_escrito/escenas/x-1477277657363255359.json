@@ -1,0 +1,351 @@
+{
+  "id": "x-1477277657363255359",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1476961014330298519",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "La tercera gema y la licencia de juego",
+  "resumen": "Nox entrega la gema y acepta las condiciones de Bonny.",
+  "relato": "Bonny llega al muelle, fuma y espera a Nox. La reunión se desarrolla narrativamente de noche, aunque los mensajes se publican a otras horas. Ella exige una razón para no arrojarlo a los tiburones y la tormenta acompaña su creciente intimidación. Él le ofrece la tercera gema y pregunta por qué una de los Cinco Reyes Piratas se encuentra en la isla. Un ojo de Bonny brilla con los rayos; Nox retrocede pese a mantener su discurso y la llama Majestad.\n\nBonny toma la gema, le recuerda su deuda y ofrece una recompensa por haber traído a su «mono». La narración aclara que compra su silencio. Nox propone un local de juego, apoyado en un socio habilidoso con el azar todavía no identificado por nombre en esta conversación. La oferta inicial es un diez por ciento de beneficios; Bonny añade la necesidad de local, permiso y seguridad. Nox sube al veinticinco, ella exige cuarenta semanal, él contraoferta treinta y finalmente ambos aceptan treinta y cinco por ciento.\n\nBonny advierte que el socio deberá pagar de otra manera si el negocio no resulta rentable. No estrecha su mano, pero confirma verbalmente el trato. Nox se marcha y ella vuelve a prevenirlo contra las preguntas peligrosas. Él siente como si su ojo viera sus tatuajes; esa impresión no prueba que los haya leído. El casino sigue siendo un proyecto, sin apertura, recaudación ni pagos realizados.",
+  "participantes": [
+    "Nox",
+    "Happy Bonny"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1477294799366394009",
+      "afirmacion": "Nox ofrece la tercera gema y pregunta por su presencia como reina pirata.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1477309761761579050",
+      "afirmacion": "Bonny toma la gema y la narración caracteriza la recompensa como compra de silencio.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1477317185281196214",
+      "afirmacion": "Nox propone un local de juego con un socio sin nombre explícito en la escena.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1477326229760639209",
+      "afirmacion": "Bonny reclama inicialmente cuarenta por ciento semanal.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1477377924427415634",
+      "afirmacion": "Bonny fija la contraoferta final en treinta y cinco por ciento y amenaza con otra forma de pago si no es rentable.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1477378445813088440",
+      "afirmacion": "Nox acepta el treinta y cinco por ciento.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1477379223466541209",
+      "afirmacion": "Bonny confirma verbalmente el acuerdo.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1477383099640971405",
+      "afirmacion": "La mirada final de Bonny provoca en Nox la impresión de que ve sus tatuajes.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El mensaje mental de Bling está dirigido explícitamente a Citlali; sus palabras no son pensamientos conocidos por toda la tripulación.",
+    "La noche y tormenta son tiempo diegético; las horas de publicación no lo sustituyen.",
+    "Se conserva la cadencia semanal introducida por Bonny en la negociación, sin inventar importes de ingresos o rentabilidad.",
+    "No se identifica al socio mediante la mención de Discord ni se da por abierta la casa de juego.",
+    "No se describe un rescate omitido ni una recuperación médica completa."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-02-28T12:14:00.007000+00:00",
+  "fin_utc": "2026-02-28T19:12:59.405000+00:00",
+  "fecha_local": "2026-02-28",
+  "intervalo": {
+    "anterior": 11,
+    "siguiente": 12,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1476657677277991027",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1479193258008772802",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 11,
+        "fecha": "2026-02-26",
+        "inicio_referencia_utc": "2026-02-26T19:10:07+00:00",
+        "fin_estimado_utc": "2026-02-26T22:26:48+00:00",
+        "duracion_video_segundos": 11801,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1476657677277991027"
+      },
+      {
+        "capitulo": 12,
+        "fecha": "2026-03-05",
+        "inicio_referencia_utc": "2026-03-05T19:05:36+00:00",
+        "fin_estimado_utc": "2026-03-05T22:20:15+00:00",
+        "duracion_video_segundos": 11679,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1479193258008772802"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1477277657363255359",
+      "fecha_utc": "2026-02-28T12:14:00.007000+00:00",
+      "fecha_local": "2026-02-28",
+      "editado_utc": null,
+      "texto": "Happy Bonny: **Un rato después, bien entrada la noche, ves la figura de Bonny acercarse al muelle. Coloca sus manos en las caderas mirando a ambos lados mientras te busca. Al ver que no estás, suspira y se sienta en uno de los barriles mientras se enciende uno de sus cigarros** *Noxie, tienes tiempo hasta que me acabe el cigarro*",
+      "mensaje_sha256": "43b0c4da880829ab9d00aafe2a735202fa431ed2e56e11e833eec819a329133d",
+      "tipo_discord": 19,
+      "referencia": "1477275646450335957",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1477277657363255359",
+      "texto_sha256": "e1b3018f174d64c9d089e48931c21132c08215fe2c1d9447849512dc4b490f6d",
+      "adjuntos": []
+    },
+    {
+      "id": "1477278929441001553",
+      "fecha_utc": "2026-02-28T12:19:03.294000+00:00",
+      "fecha_local": "2026-02-28",
+      "editado_utc": null,
+      "texto": "Nox : **la ve llegar y se le ponen los pelos de la espalda de punta**\n\n*joder Jim .. si que te gusta complicarte la vida ..*\n\n**se acerca al muelle** \n\nHas venido ... no estaba seguro de que quisieras gastar tu tiempo...",
+      "mensaje_sha256": "89df77568a82e56476cf37e4edf1f37e444513be905a47a263eaf26d5c3e34cc",
+      "tipo_discord": 19,
+      "referencia": "1477277657363255359",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1477278929441001553",
+      "texto_sha256": "03e296dcb4171b71bac55ff91fb8104f8f75ce2f8f5f73e60546e9c0f61ca48d",
+      "adjuntos": []
+    },
+    {
+      "id": "1477283423600250930",
+      "fecha_utc": "2026-02-28T12:36:54.785000+00:00",
+      "fecha_local": "2026-02-28",
+      "editado_utc": null,
+      "texto": "Happy Bonny: **Esta con los ojos fijos en el mar, sin mirarte** Bueno, vengo a ver que excusa barata me vas a dar para que no te tire a los tiburones **Le da una calada al cigarro y lo lanza al mar. Con un salto elegante, baja del barril y te mira. En ese momento, una gran olas choca contra los muelles, el aire se acelera y un rayo cae en la lejanía. La voz y el aura de Bonny parece sacada del mismo océano** Y espero que no sea una pérdida de tiempo...",
+      "mensaje_sha256": "e454b4788e9b80cf2ddc3b87a25b7942869a11950f07a52f47f6afff76d51209",
+      "tipo_discord": 19,
+      "referencia": "1477278929441001553",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1477283423600250930",
+      "texto_sha256": "fa55b66e9465f3ea4d0efd1d87b36461750b0bae617c13f80ecb33963606cc81",
+      "adjuntos": []
+    },
+    {
+      "id": "1477294799366394009",
+      "fecha_utc": "2026-02-28T13:22:06.979000+00:00",
+      "fecha_local": "2026-02-28",
+      "editado_utc": "2026-02-28T13:22:40.001000+00:00",
+      "texto": "Nox: **bajo la luz de la luna y lo poco iluminado que esta el muelle apenas se podria ver la cara de Nox que camina poco a poco hasta que ese rayo hace que se ilumine todo por un momento .\nLa expresión se endurece. La sonrisa desaparece. Te mira sin bajar la vista, pero tampoco con desafío. Es respeto… no sumisión.**\n\nSi quisiera darte una excusa barata… ya estaría fiambre desde que llegue a la isla \n\n**Un paso firme hacia adelante para acercarse a ti , el viento agita el abrigo.**\n\nNo vine a perder tu tiempo.\nYa me vas conociendo y sabes que no soy uno de esos inútiles... (refiriéndose a los piratas de Shiaru) \n\n**te ofrece la tercera gema ** \n\n Vine a entender por qué una de los Cinco Reyes Piratas deja su trono para esconderse en una isla que apenas ha causado interés en cientos de años \n\n¿Te retiraste… ? \nNo.. no lo creo \nEstás esperando el momento verdad ?  Preparando algo que hará temblar el océano\n\nLos 5 están tomando posiciones cierto?",
+      "mensaje_sha256": "f06629457ce860d0389399a7be3ccd756b52223b2d1648278fca8ad98d9650b4",
+      "tipo_discord": 19,
+      "referencia": "1477283423600250930",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1477294799366394009",
+      "texto_sha256": "4d49b1875911ad9d32e7e59e73529e01ef19a9b43b69253e7ebe132bc6c27bc8",
+      "adjuntos": []
+    },
+    {
+      "id": "1477300323021226004",
+      "fecha_utc": "2026-02-28T13:44:03.921000+00:00",
+      "fecha_local": "2026-02-28",
+      "editado_utc": "2026-02-28T13:44:55.630000+00:00",
+      "texto": "Happy Bonny: **¡BURRRUMMM! Otro rayo cae en la lejanía a la espalda de la mujer pirata, ensombreciendo  su rostro. Ves como uno de sus ojos brilla de un azul oscuro como el mar en una tormenta. El otro ojo no** Haces demasiadas preguntas, y todas ellas muy peligrosas, Noxie... Tu lengua te pierde... **¡BURRRUMMM! Otro rayo. Bonny se acera a ti paso a paso y en cada uno de ellos ¡BURRRUMMM!**",
+      "mensaje_sha256": "d793fee2102891bf7355d80c1d246cb880ff2ae17d0f1a5029ba4d0f421d7a2f",
+      "tipo_discord": 19,
+      "referencia": "1477294799366394009",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1477300323021226004",
+      "texto_sha256": "4af8d296a2ea18bf9ba0fdf55881ac2d4bfee4bcb917bd46041ef5ecc89cd0e5",
+      "adjuntos": []
+    },
+    {
+      "id": "1477304998579933390",
+      "fecha_utc": "2026-02-28T14:02:38.661000+00:00",
+      "fecha_local": "2026-02-28",
+      "editado_utc": "2026-02-28T14:03:13.687000+00:00",
+      "texto": "Nox: **Cuando Bonny queda frente a él, Nox sostiene la tercera gema entre ambos. **\n\nMi lengua me pierde pero también me ha salvado innumerables ocasiones .\n\n**con cada rayo aunque sin darse cuenta Nox esta retrocediendo pequeños pasos . La presencia de Bonny a cambiado tanto y la intimidación es tal que el pirata siente algo en su corazon que le dice : HUYE .. pero es Nox ... primero habla luego piensa** \n\nLas preguntas peligrosas son las únicas que merecen hacerse.\n**La mira al ojo azul brillante**\n\nMajestad ... \n**se quita el sombrero**",
+      "mensaje_sha256": "06ac7b70ce8831cc736b6f787893b0bae388cbd4f794fb8bb0e959c8256ed4f6",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1477304998579933390",
+      "texto_sha256": "6a326e90b7e3dad8f6a7be200f438e17989261f9c4c10020238c2b0b13426e79",
+      "adjuntos": []
+    },
+    {
+      "id": "1477309761761579050",
+      "fecha_utc": "2026-02-28T14:21:34.292000+00:00",
+      "fecha_local": "2026-02-28",
+      "editado_utc": null,
+      "texto": "Queen Bonny: **La figura de la pirata te empequeñece, los rayos siguen a su espalda y ahora, al estar tan cerca, ves como ese ojo azul emite una pequeña chispa caza vez que cae un rayo. Te mira mientras alarga su mano para agarrar la gema. Al tocarla, sientes como un pequeño calambre en tus dedos** Noxie, Noxie, Noxie... Me debes demasiado dinero para poner tu cuello en tal peligro. **Notas como de repente la tormenta amaina**  Pero... Me has traído a mi... \"mono\"... **Sonrie** Y eso merece una recompensa... ¿Que quieres? **Sabes que no te está recompensado por salvar al mono, sino que está comprando tu silencio**",
+      "mensaje_sha256": "42a0ce58ae7e6abe7186b63ac9013e7abf5b92a8830f59f998c1474577f0a101",
+      "tipo_discord": 19,
+      "referencia": "1477304998579933390",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1477309761761579050",
+      "texto_sha256": "346a5605c2cd107e8ea6a8f10682470d8319d1fc632730030686915a8959f035",
+      "adjuntos": []
+    },
+    {
+      "id": "1477317185281196214",
+      "fecha_utc": "2026-02-28T14:51:04.197000+00:00",
+      "fecha_local": "2026-02-28",
+      "editado_utc": null,
+      "texto": "Nox: Seguir haciéndote ganar dinero ..\n\n**da un paso atras y otro hacia el lado contemplando el mar , por primera ,vez es  abrumador para el estar frente a ella ** \n\nVerás... conozco un tipo .. es bueno con los juegos de azar ... diria que el mejor por aqui .  <@401738213850480643> \n\nEste bonito pueblo tiene taberna , servicios de acompañamiento , pero le hace falta algo mas no crees ? \nUn local de juego . \nTal y como pagues a tus hombres se lo gastarán o allí o en la taberna o en Liz .. \nO todo a le vez tambien puede ser.. \n\nSolo tienes que esperar sentada mientras entra el dinero .",
+      "mensaje_sha256": "22b0055b7ddd81e5e46fdee84d6013f1e9ba58ecb9c51f49a223694e1b1893d6",
+      "tipo_discord": 19,
+      "referencia": "1477309761761579050",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1477317185281196214",
+      "texto_sha256": "015610a7ae558bb301bac49fb919dce8672f8f9da180d5bcf6e439a3232d0357",
+      "adjuntos": []
+    },
+    {
+      "id": "1477318394259705886",
+      "fecha_utc": "2026-02-28T14:55:52.440000+00:00",
+      "fecha_local": "2026-02-28",
+      "editado_utc": "2026-02-28T14:58:22.998000+00:00",
+      "texto": "Happy Bonny: **Se guarda la gema y saca dos cigarrillos. Se enciende los dos a la vez y te ofrece uno** Eso si es algo que vale mi tiempo. ¿De cuanto estamos hablando?",
+      "mensaje_sha256": "66bc4cd34a37a829a53b1341a35df3ea892e06cb7026187e89c3bca2fec085ad",
+      "tipo_discord": 19,
+      "referencia": "1477317185281196214",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1477318394259705886",
+      "texto_sha256": "0679e7a4d6b3f3927c4f453cb774e643a4e11d1cf9e2b4fb58667271461855af",
+      "adjuntos": []
+    },
+    {
+      "id": "1477319790166151363",
+      "fecha_utc": "2026-02-28T15:01:25.250000+00:00",
+      "fecha_local": "2026-02-28",
+      "editado_utc": null,
+      "texto": "Nox : **agarra el cigarro **\nEsta envenenado? **sonrie y se lo pone en los labios para dar una calada ** \n\nSolo por esperar a que venga el dinero ? \n\nEl 10 % de los beneficios cada semana . \nDigamos que en una semana mala tenemos un beneficio de 1000 monedas , tendria 100 a la semana 400 al mes sin ningún tipo de esfuerzo .",
+      "mensaje_sha256": "235a29616e09d0b638056047850d4129d514144c8264568ebe147fcc6e3cf1ed",
+      "tipo_discord": 19,
+      "referencia": "1477318394259705886",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1477319790166151363",
+      "texto_sha256": "c6e816651b5a3a4df823e08a1206f8f782f77251c46833836e8016f39a157e4a",
+      "adjuntos": []
+    },
+    {
+      "id": "1477321116031914178",
+      "fecha_utc": "2026-02-28T15:06:41.361000+00:00",
+      "fecha_local": "2026-02-28",
+      "editado_utc": "2026-02-28T15:06:59.284000+00:00",
+      "texto": "Happy Bonny: **Te mira levantando una ceja** Solo 10%? **Da una calada y piensa** Pero necesitas un local, no? **Otra calada** Y un permiso para abrir un negocio, no? **Otra calada** Por no contar de la seguridad, hace falta seguridad en este sitio, ya sabes, esta lleno de gentuza.. **Se queda pensativa**",
+      "mensaje_sha256": "19554fdd55e566a0fc30e2994f717f92a77ed90bb3f672cf0da9959fce2f5780",
+      "tipo_discord": 19,
+      "referencia": "1477319790166151363",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1477321116031914178",
+      "texto_sha256": "81522a0d8416c9ce62760e6337034947ab8382e271b49ef253cb28410dbae9b9",
+      "adjuntos": []
+    },
+    {
+      "id": "1477323504780316784",
+      "fecha_utc": "2026-02-28T15:16:10.883000+00:00",
+      "fecha_local": "2026-02-28",
+      "editado_utc": "2026-02-28T15:16:33.643000+00:00",
+      "texto": "Nox : veo por donde vas ... \nSi.. \nTienes razón en parte . \nDigamos que en vez de una pago de local junto a la licencia lo incluimos en el porcentaje.  Así tendrás también dinero constante por esa parte . \nEn cuanto a la seguridad ...\nMe encantaría que vinieras a la inauguración.. asi la gente sabe que si roban ahí están robando a Happy Bonny . \n**da una calada**\nUn 10mensual mas y otro 5 por la seguridad . \n\nUn 25 porciento del beneficio total\n<@214405113677217793>",
+      "mensaje_sha256": "7eea5bc56f834589b3add71c134d1f6e0d8d25e3d8819a27e7b25e2022646c63",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1477323504780316784",
+      "texto_sha256": "5f36df8e7c5595df8863186ab88ec47d75cc42a855170a0c49e6e2c027904894",
+      "adjuntos": []
+    },
+    {
+      "id": "1477326229760639209",
+      "fecha_utc": "2026-02-28T15:27:00.569000+00:00",
+      "fecha_local": "2026-02-28",
+      "editado_utc": null,
+      "texto": "Happy Bonny: Exacto, lo que yo decía, un 40% del beneficio. **Sonríe** Semanal, por supuesto",
+      "mensaje_sha256": "c6fa0d1bbd3ae133be2a42394366578b5562674561d87a905538ab9ade56ed0d",
+      "tipo_discord": 19,
+      "referencia": "1477323504780316784",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1477326229760639209",
+      "texto_sha256": "9b2b9177fa87be89a10611996698618387165a1f0617c6795734818bb18f91fd",
+      "adjuntos": []
+    },
+    {
+      "id": "1477375470097141893",
+      "fecha_utc": "2026-02-28T18:42:40.380000+00:00",
+      "fecha_local": "2026-02-28",
+      "editado_utc": null,
+      "texto": "Nox : piensa que el dinero que ganemos mi socio y yo lo gastaremos igualmente en mejorar el sitio , en el herrero el alquimista , estoy seguro de que el en Liz .. el dinero volverá a tus bolsillos de una forma o otra solo hay que dejarlo correr un poco . \nUn 30%",
+      "mensaje_sha256": "23a140e55feb720539493f322af5aaaf8ed64d5867ce09abe21a21eae64456e6",
+      "tipo_discord": 19,
+      "referencia": "1477326229760639209",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1477375470097141893",
+      "texto_sha256": "820385af465b8e6b16b16ca08fcfc463c34d3d8ee45e378e25417929f5bb67be",
+      "adjuntos": []
+    },
+    {
+      "id": "1477377924427415634",
+      "fecha_utc": "2026-02-28T18:52:25.538000+00:00",
+      "fecha_local": "2026-02-28",
+      "editado_utc": null,
+      "texto": "Happy Bonny: 35% **Lanza el cigarro** Y espero que sea rentable, sino, tu amiguito deberá pagarme de otra manera...",
+      "mensaje_sha256": "359c09ec04e9156ab922a3934b6f8de78a2cc00994d0268424f909882b4acd69",
+      "tipo_discord": 19,
+      "referencia": "1477375470097141893",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1477377924427415634",
+      "texto_sha256": "d4606211c1fbcb84ff3581decef7d87843551db0111b0f91451049cef3dc67f8",
+      "adjuntos": []
+    },
+    {
+      "id": "1477378445813088440",
+      "fecha_utc": "2026-02-28T18:54:29.846000+00:00",
+      "fecha_local": "2026-02-28",
+      "editado_utc": null,
+      "texto": "Nox: trato hecho un 35 **te da la mano **",
+      "mensaje_sha256": "c0fad2f513df68e8c364a9e8e97f7b43ff33abe012b18af97c6ed6ec55d462e2",
+      "tipo_discord": 19,
+      "referencia": "1477377924427415634",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1477378445813088440",
+      "texto_sha256": "f16189dc9f8544ec9809154e67126216192cd0038ab396d4541fe21cf782270f",
+      "adjuntos": []
+    },
+    {
+      "id": "1477379223466541209",
+      "fecha_utc": "2026-02-28T18:57:35.253000+00:00",
+      "fecha_local": "2026-02-28",
+      "editado_utc": "2026-02-28T18:58:40.736000+00:00",
+      "texto": "Happy Bonny: **Sonrie pero no te da la mano, se vuelve a sentar en el barril y se enciende otro cigarro para fijar sus ojos en el mar** Trato hecho, Noxie. Ahora, largate, apestas a sangre de lagarto y alcohol.",
+      "mensaje_sha256": "546ff8e10e86fc33fdd0eb6cacb2ef38e270484b9dffb0d66839df85b70beca3",
+      "tipo_discord": 19,
+      "referencia": "1477378445813088440",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1477379223466541209",
+      "texto_sha256": "381f176c76f0c4508c0eba3a142443c94742fe69ac36471bb0b0f098d9e320d2",
+      "adjuntos": []
+    },
+    {
+      "id": "1477381217371422792",
+      "fecha_utc": "2026-02-28T19:05:30.637000+00:00",
+      "fecha_local": "2026-02-28",
+      "editado_utc": null,
+      "texto": "Nox: **da media vuelta y se aleja del muelle ** \n suenan vientos de cambio querida ... \nAlgo ha despertado en la isla que esta atrayendo a todos . \nYo solo quiero que si hay una carrera te mantengas en primera posición.  \n**sigue alejándose del muelle para un momento y se gira , va ha decir algo pero calla **\n*aun no es el momento Jim*\nQue pases linda noche entonces . \n. **se saca el sombrero y le hace una reverencia **",
+      "mensaje_sha256": "5fdc8d955cc50e212bc16feb57fa29e3fae1163d2dc203c45d92540eafa38628",
+      "tipo_discord": 19,
+      "referencia": "1477379223466541209",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1477381217371422792",
+      "texto_sha256": "602f891cee404041c8ed246aa513efb5f96c5f902536762f202e4e291f3f293c",
+      "adjuntos": []
+    },
+    {
+      "id": "1477383099640971405",
+      "fecha_utc": "2026-02-28T19:12:59.405000+00:00",
+      "fecha_local": "2026-02-28",
+      "editado_utc": "2026-02-28T21:15:51.508000+00:00",
+      "texto": "Happy Bonny: **No te mira, pero cuando te das la vuelta por última vez, notas sus ojos puestos en ti. Y notas ese ojo azul centelleant** Cuidado con las preguntas peligrosas, Noxie. Todos tenemos... secretos... **En ese instante un escalofrío te recorre el cuerpo. Es como si su ojo azul viera a través de ti, a tu espalda. A tus tatuajes**\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "2d71b6b7137230afaf14fcacece01987872221adc5643de57eb2254dea5af218",
+      "tipo_discord": 19,
+      "referencia": "1477381217371422792",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1477383099640971405",
+      "texto_sha256": "087cfbb698e80e563f506e5b0e9f6e65b226ab5066ebe46b0dd3ca789f26228e",
+      "adjuntos": []
+    }
+  ]
+}

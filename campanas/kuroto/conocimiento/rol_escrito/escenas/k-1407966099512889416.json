@@ -1,0 +1,244 @@
+{
+  "id": "k-1407966099512889416",
+  "campana": "kuroto",
+  "unidad_revision": "k-1407966099512889416",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "La invitación a Taishi",
+  "resumen": "Igor entrega el vestido y la carta de Alaister.",
+  "relato": "Un cochero que se presenta como Igor llega a Sho con un regalo de Alaister. Seraphina despierta bajo un árbol, atraviesa la vegetación que invade la base y, al principio, llama a Guxi antes de reconocer al visitante. Recibe el paquete envuelto en seda, agradece el gesto y despide al mensajero. Dentro encuentra un vestido azul de bordados delicados y espalda abierta. Una carta de Alaister recuerda su cena, declara que no deja de pensar en ella y la invita a un baile que se celebrará en unos días en la mansión Taishi. Sera sonríe, se pregunta cómo responder y se prueba el vestido en una habitación vacía. No envía todavía aceptación ni se concreta aquí la fecha del baile.",
+  "participantes": [
+    "Seraphina",
+    "Igor"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1407966099512889416",
+      "afirmacion": "Igor se presenta como emisario de Alaister y solicita ver a Sera.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1408073945478991964",
+      "afirmacion": "Igor se marcha tras entregar el regalo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1408082852930912320",
+      "afirmacion": "El paquete contiene un vestido azul de calidad.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1408105532853850254",
+      "afirmacion": "La carta de Alaister invita a Sera al baile de la mansión Taishi y recuerda su cena.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1408118965191839774",
+      "afirmacion": "Sera se dispone a probarse el vestido sin enviar todavía respuesta.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La continuidad y el saludo de Sera vinculan a Igor con el cochero que ya conoce, pero no se añaden otras identidades.",
+    "El baile es una invitación pendiente; no hay asistencia, fecha precisa ni aceptación remitida.",
+    "Las palabras del ninja sobre la mente y el corazón de Sera son parte del coqueteo, no prueba de lectura mental.",
+    "Se conservan los gestos y las protestas tal como aparecen, sin convertirlos en una relación formal ni inventar intimidad adicional."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-08-21T05:54:36.869000+00:00",
+  "fin_utc": "2025-08-21T16:02:02.887000+00:00",
+  "fecha_local": "2025-08-21",
+  "intervalo": {
+    "anterior": 147,
+    "siguiente": 148,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1406697567479271588",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1408150475005493401",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 147,
+        "fecha": "2025-08-17",
+        "inicio_referencia_utc": "2025-08-17T17:53:35+00:00",
+        "fin_estimado_utc": "2025-08-17T20:19:39+00:00",
+        "duracion_video_segundos": 8764,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1406697567479271588"
+      },
+      {
+        "capitulo": 148,
+        "fecha": "2025-08-21",
+        "inicio_referencia_utc": "2025-08-21T18:06:59+00:00",
+        "fin_estimado_utc": "2025-08-21T21:15:11+00:00",
+        "duracion_video_segundos": 11292,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1408150475005493401"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1407966099512889416",
+      "fecha_utc": "2025-08-21T05:54:36.869000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": null,
+      "texto": "**Un carromato se detiene frente a la entrada de la Base de los Cazadores. De su interior desciende un hombre, cargando un bulto envuelto en telas de seda. Su andar es torpe y desigual, pues una pierna más larga que la otra lo obliga a avanzar a trompicones.\nAl llegar al umbral, se detiene un instante. Una tos seca rompe el silencio; después carraspea, endereza la espalda y, golpea la puerta de la base.**\nIgor: Buenos días, ruego poder ver a la señorita Seraphina. Le traigo un presente de mi noble señor Alaister\n<@408026114548695061>",
+      "mensaje_sha256": "7f767b98e4755c3823cbe9fb5ba36a0e677d1b4e41428db9970b724bd273d415",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1407966099512889416",
+      "texto_sha256": "198809412b026703edeb04cd6367a289a199984fab9dacbc2891bfc72c6e3254",
+      "adjuntos": []
+    },
+    {
+      "id": "1408070872824283166",
+      "fecha_utc": "2025-08-21T12:50:56.773000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Me había quedado profundamente dormida bajo el árbol de la base, ni las risas de las niñas ni el canto de los pájaros me logró despertar hasta que oí esos golpes en la puerta**\n\nGUXI!!\n\n**Me quedé quieta al ver que no era el quien llamaba la puerta, por lo que a duras penas me levanté de ahí ignorando las grandes plantas que impedian mi avanzar, las esquivaba hasta llegar a la puerta y abrir**\n\nOh, hola de nuevo!",
+      "mensaje_sha256": "066191183fe81a20ae3e97cc40e155795c1d623f4db37eca83c11ecb3879c371",
+      "tipo_discord": 19,
+      "referencia": "1407966099512889416",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1408070872824283166",
+      "texto_sha256": "f6b7b94323bd2a7a8a487dde193612a245406c6f0335e6c7e0f27c0a56f76b9c",
+      "adjuntos": []
+    },
+    {
+      "id": "1408072617013022840",
+      "fecha_utc": "2025-08-21T12:57:52.620000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": null,
+      "texto": "Igor: Buenos días, señorita Seraphina, siento haberla despertado **Dice el deforme haciendo una reverencia** He venido a traerle un presente del amo Alaister **Te acerca el regalo envuelto con tela de seda**",
+      "mensaje_sha256": "80da79c157a58797e953e8596230a3f6badd99c48dba17f292e6fa2093667bbb",
+      "tipo_discord": 19,
+      "referencia": "1408070872824283166",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1408072617013022840",
+      "texto_sha256": "4326a9e702f2ea11c8d8d2ccb9b305c71ec70f1cc68768e484eda195819fd911",
+      "adjuntos": []
+    },
+    {
+      "id": "1408072988443541545",
+      "fecha_utc": "2025-08-21T12:59:21.176000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": null,
+      "texto": "Seraphina:\nNo no no, no te disculpes, de todos modos ya estaba despierta \n\n**Algo extrañada tomé aquel regalo con ambas manos**\n\nQue amables son, se les agradece",
+      "mensaje_sha256": "036da47d3ce0cf02bb54978a7a504f65eedca820a40836fd672a89650530791e",
+      "tipo_discord": 19,
+      "referencia": "1408072617013022840",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1408072988443541545",
+      "texto_sha256": "f125a2803d73e49833e247259a8181794e2fd316ec76e758e028230ed388fe2e",
+      "adjuntos": []
+    },
+    {
+      "id": "1408073283672342642",
+      "fecha_utc": "2025-08-21T13:00:31.564000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": null,
+      "texto": "Igor: **Hace otra reverencia** El señor Alaister espera que le guste y le pide disculpas por no poder venir él a entregárselo personalmente",
+      "mensaje_sha256": "878a711adab4d681ec387f52f0bc8ad79c626ea869e3983dd86acb60ac8790d1",
+      "tipo_discord": 19,
+      "referencia": "1408072988443541545",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1408073283672342642",
+      "texto_sha256": "05b186f482c71a08ff08cbd4da37a1d95cebfb0cf6744027c26626dce4f2dd42",
+      "adjuntos": []
+    },
+    {
+      "id": "1408073686816264222",
+      "fecha_utc": "2025-08-21T13:02:07.681000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": null,
+      "texto": "Seraphina: \nQue no se preocupe, de todas formas me contó que estaría algo ocupado, así que no hay problema alguno \n\n**Le sonreí amablemente**\n\nQue regreses con bien",
+      "mensaje_sha256": "3030824396729a92d88309e768b296458fe6b5697d182a3f97263ef5c71d4ecb",
+      "tipo_discord": 19,
+      "referencia": "1408073283672342642",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1408073686816264222",
+      "texto_sha256": "c8733aea08966c0b0f5a83d0e4f5c025167f7d34892f8d94062e831fe76389b7",
+      "adjuntos": []
+    },
+    {
+      "id": "1408073945478991964",
+      "fecha_utc": "2025-08-21T13:03:09.351000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": null,
+      "texto": "Igor: **El hombre se despide de ti y se marcha subido en el carromato que se aleja de la base de los Cazadores**",
+      "mensaje_sha256": "0636144c438c9eb3aca9d7527e31f2870269ae6838a7c252056a6d19fb86be3f",
+      "tipo_discord": 19,
+      "referencia": "1408073686816264222",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1408073945478991964",
+      "texto_sha256": "35b708b9ce77b8837192725a2bb81938671ade358265668d65680b1b0b46e5c5",
+      "adjuntos": []
+    },
+    {
+      "id": "1408074426221596825",
+      "fecha_utc": "2025-08-21T13:05:03.969000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Cerré la puerta y caminé hacia la sala de la base, dejando el regalo en la mesa y sentandome frente a él**\n\nAlaister, qué sorpresa me tienes hoy?\n\n**Me dispuse a abrir el regalo**",
+      "mensaje_sha256": "17c6d7d0ad3d905e767830076c9d0bcdc82c11fee6d44a7f109907d7d323b47a",
+      "tipo_discord": 19,
+      "referencia": "1408073945478991964",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1408074426221596825",
+      "texto_sha256": "1c1e85cbab1f2862633be6ebe266d3037a5597cf7164fb8540832fc43d3f5ad8",
+      "adjuntos": []
+    },
+    {
+      "id": "1408082852930912320",
+      "fecha_utc": "2025-08-21T13:38:33.053000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": null,
+      "texto": "**Destapas ese regalo y ves un precioso vestido de color azulado. Los detalles de los bordados son exquisitos y deja la espalda totalmente abierta para realzar la figura de la que lo porte. Es un vestido de buena calidad**",
+      "mensaje_sha256": "1ddfe32feeee2e46687eaac8be8aab23999b884d2810f2d9212ae9909f83d725",
+      "tipo_discord": 19,
+      "referencia": "1408074426221596825",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1408082852930912320",
+      "texto_sha256": "8bd3a5548df8762ddb9bd38f11ea4412c94d9fb122ad3a4338129b2c215da0ab",
+      "adjuntos": []
+    },
+    {
+      "id": "1408100518605230160",
+      "fecha_utc": "2025-08-21T14:48:44.878000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Me quedé sorprendida al ver la calidad del vestido y los detalles que se notaba en el, seguí buscando por si encontraba alguna nota**\n\nVaya Alaister~, si que tienes cositas escondidas, eres un pillo~",
+      "mensaje_sha256": "4733b4289fcb997947d57458a97a830d1218fda350fb2947d003192ab5473d87",
+      "tipo_discord": 19,
+      "referencia": "1408082852930912320",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1408100518605230160",
+      "texto_sha256": "ad47dc5a9809b641b453034dd36da084ed9ac9fff589275773410106ab7647ec",
+      "adjuntos": []
+    },
+    {
+      "id": "1408105532853850254",
+      "fecha_utc": "2025-08-21T15:08:40.368000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": null,
+      "texto": "**Encuentras una nota, esta escrita con una caligrafía impecable llena de trazos majestuosos, parece una pintura en vez de una nota. Puedes lletra en ella:**\n*Querida Seraphina, mi flor del mar:\nEspero que el vestido sea de su agrado. Me he aventurado a elegirlo personalmente mientras recordaba nuestra cena. Sé que puede parecer algo repentino, pero no he podido dejar de pensar en usted.\nEl corazón me duele al saber que no está cerca de mí, y por eso, si no es mucho atrevimiento, me encantaría invitarla a un baile que se celebrará en unos días en la Mansión Taishi.\nEspero con ansias su respuesta. No le negaré que mi mayor deseo es que sea afirmativa.\nCon el más sincero afecto,\nSu caballero,\nAlaister*",
+      "mensaje_sha256": "0265a8309087d1cae1a33aae4714775e54b731a58661ec72d98c6d3802283dcc",
+      "tipo_discord": 19,
+      "referencia": "1408100518605230160",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1408105532853850254",
+      "texto_sha256": "63b878125c798bd4a908ca749361b020238382ee32b9e0f94ebb3e18c46bb739",
+      "adjuntos": []
+    },
+    {
+      "id": "1408118965191839774",
+      "fecha_utc": "2025-08-21T16:02:02.887000+00:00",
+      "fecha_local": "2025-08-21",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Leí la nota con una sonrisa en los labios**\n\nY cómo pretendes que te contesté?, pero no sería mala idea ir a ese baile\n\n**Tomé el vestido y la nota, caminando a paso lento a cualquiera de las habitaciones vacías para probarme el vestido**",
+      "mensaje_sha256": "5443637ef3f3319cf6c1f61b7b6256842078c9a3a430a700bd75e5706409f631",
+      "tipo_discord": 19,
+      "referencia": "1408105532853850254",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1408118965191839774",
+      "texto_sha256": "10206ccd882470e8df49ee1a20124ae4ef41a0b3b935f60f0a3e2192a9234f95",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "id": "k-1446468715582324768",
+  "campana": "kuroto",
+  "unidad_revision": "k-1446468715582324768",
+  "hilo_id": "1362071806441160834",
+  "hilo_nombre": "Base Ukyio - Sala principal",
+  "titulo": "Arwen y Jhin entierran a Xyllya",
+  "resumen": "Despiden a la shadar-kai en el claro de su amistad; de la tumba brota una raíz bajo la magia de Arwen.",
+  "relato": "Después de un combate que no se desarrolla aquí, Jhin lleva el cuerpo de Xyllya hasta las afueras de Ukyio. Arwen lo guía al claro del tronco caído donde se hicieron amigas. La niña adopta forma de osa para cavar y Jhin la ayuda con una pala. Cuando ella asiente, ambos entierran a la shadar-kai.\n\nArwen vuelve a ser loba, levanta una piedra tosca a modo de lápida y deja una manzana sobre la tierra. Aúlla porque los lobos llaman así a los miembros de su manada para que encuentren el camino a casa. No tiene palabras para la despedida.\n\nJhin la consuela y promete acompañarla. La niña explica que le duelen especialmente las pérdidas repentinas: recuerda a su madre y las marchas de Kalista, Jelbreg y Xyllya. Desea tener tiempo de decirles a quienes ama que los quiere. Jhin le expresa su propio cariño, se llama papá Jhin y promete no irse pronto. Ella pide regresar para decírselo también al resto.\n\nAl alejarse, las lágrimas de Arwen brillan sobre la tumba y brota una raíz, impulsada por su magia salvaje. La narración deja unas palabras de agradecimiento en cursiva, sin presentarlas como una voz que los dos oigan. El brote acompaña el duelo; no se describe una resurrección física.",
+  "participantes": [
+    "Arwen",
+    "Jhin",
+    "Xyllya"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1446470493434675200",
+      "afirmacion": "Arwen elige el claro donde se hicieron amigas y empieza a cavar la tumba.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1446471677281308822",
+      "afirmacion": "Jhin y Arwen entierran a Xyllya.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1446473461781368918",
+      "afirmacion": "Arwen crea una lápida, ofrece una manzana y aúlla para despedirla.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1446476852377030787",
+      "afirmacion": "Explica el dolor que le causan las despedidas repentinas.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1446478411982704791",
+      "afirmacion": "Jhin le promete acompañarla y le expresa su cariño.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1446484044635181328",
+      "afirmacion": "De las lágrimas brillantes sobre la tumba nace una raíz mediante magia salvaje.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El combate y la muerte anteceden a estos mensajes; no reconstruir aquí su causa.",
+    "Chilia es la pronunciación de Arwen para Xyllya.",
+    "Papá Jhin expresa el vínculo protector de esta conversación, sin afirmar parentesco biológico.",
+    "Las palabras finales en cursiva son un cierre narrativo íntimo, sin comunicación compartida demostrada."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-12-05T11:50:15.884000+00:00",
+  "fin_utc": "2025-12-05T12:51:10.615000+00:00",
+  "fecha_local": "2025-12-05",
+  "intervalo": {
+    "anterior": 171,
+    "siguiente": 172,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1446214322580881569",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1448031934176428145",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 171,
+        "fecha": "2025-12-04",
+        "inicio_referencia_utc": "2025-12-04T18:59:08+00:00",
+        "fin_estimado_utc": "2025-12-04T21:35:38+00:00",
+        "duracion_video_segundos": 9390,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1446214322580881569"
+      },
+      {
+        "capitulo": 172,
+        "fecha": "2025-12-09",
+        "inicio_referencia_utc": "2025-12-09T19:21:35+00:00",
+        "fin_estimado_utc": "2025-12-09T22:35:47+00:00",
+        "duracion_video_segundos": 11652,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1448031934176428145"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1446468715582324768",
+      "fecha_utc": "2025-12-05T11:50:15.884000+00:00",
+      "fecha_local": "2025-12-05",
+      "editado_utc": null,
+      "texto": "Jhin:\n**Después de ese combate amargo jhin junto con arwen llegan a las afueras de ukyio estaba cargando el cuerpo de xyliya y en su hombro estaba arwen**\n<@753394009153732689>",
+      "mensaje_sha256": "bedf480d11f1d6a0fa95b0d4f01ce41165e8832bb7c0d349ee75cfaca1aa4e64",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1446468715582324768",
+      "texto_sha256": "1d74f51c3a300d384f4b1df526a4cda28ebc5bcb7eb66be28685a507d0fb2777",
+      "adjuntos": []
+    },
+    {
+      "id": "1446469771582246942",
+      "fecha_utc": "2025-12-05T11:54:27.654000+00:00",
+      "fecha_local": "2025-12-05",
+      "editado_utc": null,
+      "texto": "Arwen: **Camina despacio sobre sus cuatro patas** Por aqui... **Te dice sin mas para que la sigas**",
+      "mensaje_sha256": "3d1b14d4e4d3218621a6ba09164ad0249b42b3ee88ecc980e68aa69c026ba11e",
+      "tipo_discord": 19,
+      "referencia": "1446468715582324768",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1446469771582246942",
+      "texto_sha256": "ef05b604015b13648517150068cd306262cd8bbb4b0d814704b204f3d31782a1",
+      "adjuntos": []
+    },
+    {
+      "id": "1446470064562901013",
+      "fecha_utc": "2025-12-05T11:55:37.506000+00:00",
+      "fecha_local": "2025-12-05",
+      "editado_utc": null,
+      "texto": "Jhin:\nVale arwen \n**No quería decir mucho simplemente la seguía**",
+      "mensaje_sha256": "3d4669aef49b3b4360057b625f0d96eb3a4c7ef10849a74b94b5c3b968c83950",
+      "tipo_discord": 19,
+      "referencia": "1446469771582246942",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1446470064562901013",
+      "texto_sha256": "f33c6b53e7c23583f5876d2c70e178dd4aeac4246cd2c4b178f1d4587462198d",
+      "adjuntos": []
+    },
+    {
+      "id": "1446470493434675200",
+      "fecha_utc": "2025-12-05T11:57:19.757000+00:00",
+      "fecha_local": "2025-12-05",
+      "editado_utc": null,
+      "texto": "Arwen: **Os introducis de nuevo en el bosque, esta vez en direccion contraria a esa capilla. Llegais hasta un claro con un tronco caido... El lugar donde Chilia y Arwen se volvieron amigas. La niña se vuelve un oso y comienza a cavar la tumba**",
+      "mensaje_sha256": "b747953bbbc8c64273927a18a906c868696c2642e86c95a9edb47d0ddb708a4d",
+      "tipo_discord": 19,
+      "referencia": "1446470064562901013",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1446470493434675200",
+      "texto_sha256": "90928d465e5ce83c0569bf42a55f769b332b0228ad6dadc5dcacd7d25d56339c",
+      "adjuntos": []
+    },
+    {
+      "id": "1446470760783941683",
+      "fecha_utc": "2025-12-05T11:58:23.498000+00:00",
+      "fecha_local": "2025-12-05",
+      "editado_utc": null,
+      "texto": "Jhin:\n**La deja con cuidado en el suelo y ayuda con una pala a cavar**",
+      "mensaje_sha256": "e0c5619acd25f37c765084d50bc5cef085199b445ae574c11b4eac2a6de977fb",
+      "tipo_discord": 19,
+      "referencia": "1446470493434675200",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1446470760783941683",
+      "texto_sha256": "785c0ad21c3818db89e81a59b9c2b58c89f966aeca5e8ad2ee6faa9a4c6c3376",
+      "adjuntos": []
+    },
+    {
+      "id": "1446470973481029662",
+      "fecha_utc": "2025-12-05T11:59:14.209000+00:00",
+      "fecha_local": "2025-12-05",
+      "editado_utc": null,
+      "texto": "Arwen: **Termina de cavar la tumba y se vuelve niña... Entonces te mira**",
+      "mensaje_sha256": "6e5cb0c58c95f991b52b6d99edbb3ee2ea0deeefd8a4bb56be25053ad0de2bb4",
+      "tipo_discord": 19,
+      "referencia": "1446470760783941683",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1446470973481029662",
+      "texto_sha256": "979f4ed417afa028f11506998070edb37d8ede993819d30477fb87f2282fa20e",
+      "adjuntos": []
+    },
+    {
+      "id": "1446471200913100910",
+      "fecha_utc": "2025-12-05T12:00:08.433000+00:00",
+      "fecha_local": "2025-12-05",
+      "editado_utc": null,
+      "texto": "Jhin:\nEstás lista? \n**Esperaba su señal para enterrar a su amiga**",
+      "mensaje_sha256": "117a0f77e6fe626db08714db75f89e4f9f96e5f6ed8c3520f7ee799c903625db",
+      "tipo_discord": 19,
+      "referencia": "1446470973481029662",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1446471200913100910",
+      "texto_sha256": "4d8b3c05f54d037c05004436e46466ca74c0361004ca87a5ff301f8094ededc9",
+      "adjuntos": []
+    },
+    {
+      "id": "1446471400616497254",
+      "fecha_utc": "2025-12-05T12:00:56.046000+00:00",
+      "fecha_local": "2025-12-05",
+      "editado_utc": null,
+      "texto": "Arwen: **Asiente y se vuelve lobo para ayudarte a enterrarla**",
+      "mensaje_sha256": "f352f54de9a2988015f80de0018f1b1fe91c49bd28b54611bda362e7d6ebf323",
+      "tipo_discord": 19,
+      "referencia": "1446471200913100910",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1446471400616497254",
+      "texto_sha256": "e607ec3a5fd60c47532592595e4bcbed11e6d16cc0d6c612cc619580fb557d66",
+      "adjuntos": []
+    },
+    {
+      "id": "1446471677281308822",
+      "fecha_utc": "2025-12-05T12:02:02.008000+00:00",
+      "fecha_local": "2025-12-05",
+      "editado_utc": null,
+      "texto": "Jhin:\n**Entierra a la shardar kai con ayuda de arwen no sale una palabra de su boca es un momento duro para arwen y quiere que ella de el primer paso**",
+      "mensaje_sha256": "e6fc8626bec7fab5ddf5e8a742de634cad8162008f557baecdb85947d25df102",
+      "tipo_discord": 19,
+      "referencia": "1446471400616497254",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1446471677281308822",
+      "texto_sha256": "56a7e383a779d339ab27481a4350ca0f48ba41c00be1079cb3f5e7d9b995caf1",
+      "adjuntos": []
+    },
+    {
+      "id": "1446473461781368918",
+      "fecha_utc": "2025-12-05T12:09:07.466000+00:00",
+      "fecha_local": "2025-12-05",
+      "editado_utc": null,
+      "texto": "Arwen: **Te ayuda a enterrarla. Cuando terminais va a su mochila y saca una manzana con sus fauces... Y con su pata iluminandose de dorado da un pisoton en la tierra haciendo que tiemble... Quiere hacer eso que ha visto que son como rocas que colocais cerca de los cuerpos de los caidos... No sabe el porque... Pero piensa que tal vez Chilia si lo entienda... Asi dio forma a su lapida con una piedra tosca salida de la tierra. Deja la manzana sobre la tierra removida. Sus ojos siguen llorosos y quedrados ante otro amargo adios... Y entonces comienzo a aullar al cielo... No tiene palabras que decirla, ni tampoco es buena para hablar con la gente... Pero si sabe que los aullidos de los lobos sirven para que otros de su manada no se pierdan de camino a casa... Tal vez ella lo escuche en algun lugar y recuerde que ha de volver donde se sintio hogar**",
+      "mensaje_sha256": "8a9f5409c33bb3fac697e7133c81cdf423935280b43eab368188cc440b6ff7d0",
+      "tipo_discord": 19,
+      "referencia": "1446471677281308822",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1446473461781368918",
+      "texto_sha256": "8230c8caa524010c3fd0f6a037d159599404fa19e2d0e81c02641393a20c7991",
+      "adjuntos": []
+    },
+    {
+      "id": "1446474362935967806",
+      "fecha_utc": "2025-12-05T12:12:42.318000+00:00",
+      "fecha_local": "2025-12-05",
+      "editado_utc": null,
+      "texto": "Jhin:\n**Después de ayudarla y verla triste la agarra y acerca su frente a la de ella**\nNo te preocupes os volveréis a ver de mientras ella estará aquí\n**Señala su corazón**\nLas personas que dejamos atrás están con nosotros guiándonos y cuidandonos",
+      "mensaje_sha256": "8b9df36eb6d270cd47d0b16f250603793b889c5bfe26c4eed2bf34f7ee433452",
+      "tipo_discord": 19,
+      "referencia": "1446473461781368918",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1446474362935967806",
+      "texto_sha256": "37b4437ce858163a879dbbd3d669c5e1a2d4df8905509b8abfbea2f5c9e462ba",
+      "adjuntos": []
+    },
+    {
+      "id": "1446474932216266802",
+      "fecha_utc": "2025-12-05T12:14:58.045000+00:00",
+      "fecha_local": "2025-12-05",
+      "editado_utc": null,
+      "texto": "Arwen: **Se va volviendo niña mientras la sostienes asi** Jhin...  No me gustan las despedidas...",
+      "mensaje_sha256": "faab3434c653d4f46405bdd6fbe01cea12524a2b5e971034b4a5f9b42a1f7578",
+      "tipo_discord": 19,
+      "referencia": "1446474362935967806",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1446474932216266802",
+      "texto_sha256": "fce0ee80b47c50762c0adab4316d7e15879fe1022dcaa7b5d184918057f269ec",
+      "adjuntos": []
+    },
+    {
+      "id": "1446475528604225668",
+      "fecha_utc": "2025-12-05T12:17:20.235000+00:00",
+      "fecha_local": "2025-12-05",
+      "editado_utc": null,
+      "texto": "Jhin: \nA nadie le gustan pero hay que seguir adelante por aquellos que no están \n**Está vez la abraza**\nEstaré aquí para ti arwen no me iré te lo prometo",
+      "mensaje_sha256": "fdc82c34b931637f9c6753f027c8e16e8d7e8f9fdfe3c0e442f31dd9597c190a",
+      "tipo_discord": 19,
+      "referencia": "1446474932216266802",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1446475528604225668",
+      "texto_sha256": "ab4c1d1b50c8dde8500003b3caf9dbe6d421513b48dcb974254e01f9ae1c2cfe",
+      "adjuntos": []
+    },
+    {
+      "id": "1446476852377030787",
+      "fecha_utc": "2025-12-05T12:22:35.847000+00:00",
+      "fecha_local": "2025-12-05",
+      "editado_utc": null,
+      "texto": "Arwen: ....A Arwen no le gusta cuando os vais sin avisar... **Acurruca su cabeza en ti encogiendose como una bolita** Arwen vivira mucho mucho mucho... Pero no le gusto cuando Mama se fue asi... No le gusto ver como Kalista se fue y Jelbreg abandono a Banzo... No me gusto cuando Chilia se fue... No duele cuando se que el fin llega lento...pero cuando es rapido...me hace daño porque no puedo decir que descansen y que los quiero...",
+      "mensaje_sha256": "a17c2c9e33ac24cc8fc84874d450d774d3d5115e28e964d1a96bc0d680f70a99",
+      "tipo_discord": 19,
+      "referencia": "1446475528604225668",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1446476852377030787",
+      "texto_sha256": "31e950dc6507578021a62bbd5fde7feaef211741eda878860d782cea5602006b",
+      "adjuntos": []
+    },
+    {
+      "id": "1446477729435222078",
+      "fecha_utc": "2025-12-05T12:26:04.954000+00:00",
+      "fecha_local": "2025-12-05",
+      "editado_utc": null,
+      "texto": "Jhin:\nElla lo sabe lo sabemos todos \nShizuka chani y especialmente tú sois un rayo de luz que ilumina mis días sin vosotras sería el jhin amargado que he sido siempre\n**Sus palabras están llenas de compresión el también perdió a su familia una vez pero tuvo una segunda oportunidad**",
+      "mensaje_sha256": "5fa992a09e8d433ee8abb58a14b827e0b6e1d59df71fa6d08aa8721184fe820d",
+      "tipo_discord": 19,
+      "referencia": "1446476852377030787",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1446477729435222078",
+      "texto_sha256": "47d3cb969a3d74aac4ab2f220cc0f8739ecbb13f38d35574b13dd41e52511826",
+      "adjuntos": []
+    },
+    {
+      "id": "1446478067383140536",
+      "fecha_utc": "2025-12-05T12:27:25.527000+00:00",
+      "fecha_local": "2025-12-05",
+      "editado_utc": null,
+      "texto": "Arwen: ...¿Prometeis que no os ireis rapido? ¿Que a Arwen le dara tiempo q deciros muchas veces que os quiere?",
+      "mensaje_sha256": "89cf9aa37a8f2694b01612853c52a878767c5b29462202ac313fd8be35463be0",
+      "tipo_discord": 19,
+      "referencia": "1446477729435222078",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1446478067383140536",
+      "texto_sha256": "363cea699a5f9934f2c89972cf59f488381c2887717c5886d6a518c402657cd9",
+      "adjuntos": []
+    },
+    {
+      "id": "1446478411982704791",
+      "fecha_utc": "2025-12-05T12:28:47.686000+00:00",
+      "fecha_local": "2025-12-05",
+      "editado_utc": null,
+      "texto": "Jhin:\nNo me iré pronto te lo prometo tendrás al papá jhin un buen rato te lo prometo\n**Le sonríe con una amplia sonrisa**\nY yo también te quiero arwen",
+      "mensaje_sha256": "6d281945c939fa11a36b9475bb30b6500ac1607d34a2d942611cd5222a664e64",
+      "tipo_discord": 19,
+      "referencia": "1446478067383140536",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1446478411982704791",
+      "texto_sha256": "c00b33c6ccecd7a7c582b5026a743d234d98b34baadbb6e0d74a6e4693540c1f",
+      "adjuntos": []
+    },
+    {
+      "id": "1446479022610583633",
+      "fecha_utc": "2025-12-05T12:31:13.271000+00:00",
+      "fecha_local": "2025-12-05",
+      "editado_utc": null,
+      "texto": "Arwen: **Se aferra a ti, cerrando sus ojitos y dejandose abrazar** ¿Podemos volver? Quiero decirles al resto que los quiero tambien",
+      "mensaje_sha256": "638d8847967d305f909124665923f55815b6299f6a156742ba04d002a975dad6",
+      "tipo_discord": 19,
+      "referencia": "1446478411982704791",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1446479022610583633",
+      "texto_sha256": "d3f32f9de8cd3b1501e38b35eeb0e1a7ad4d8017df165ada4a1523c2acb00e8c",
+      "adjuntos": []
+    },
+    {
+      "id": "1446479454720495788",
+      "fecha_utc": "2025-12-05T12:32:56.294000+00:00",
+      "fecha_local": "2025-12-05",
+      "editado_utc": null,
+      "texto": "Jhin:\nPor supuesto pero hoy estaré todo el día contigo vale?\n**La carga consigo no sin echar un ultimo vistazo atrás**\n*Yo cuidare de ella por ti*",
+      "mensaje_sha256": "5efd0062fac64a931763f52c0fb795b76af83255d5e93abcb0bae2aaa7755bab",
+      "tipo_discord": 19,
+      "referencia": "1446479022610583633",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1446479454720495788",
+      "texto_sha256": "953a3cf48402b2b873095ed472f89b9d386e5ee76b811dbd9d2dd5ffd35322f1",
+      "adjuntos": []
+    },
+    {
+      "id": "1446479792823337065",
+      "fecha_utc": "2025-12-05T12:34:16.904000+00:00",
+      "fecha_local": "2025-12-05",
+      "editado_utc": null,
+      "texto": "Arwen: **Mira la tumba de su amiga mientras os vais perdiendo por el bosque** <@214405113677217793>",
+      "mensaje_sha256": "41ca7beea9ea5a0b1da131c0162548cc8525713dcba7d70eb8a02408d655e976",
+      "tipo_discord": 19,
+      "referencia": "1446479454720495788",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1446479792823337065",
+      "texto_sha256": "56c3a380e63d2837e15d4350d9a31a179e32c66efdcf8b9a5c0b0a4792c06b6d",
+      "adjuntos": []
+    },
+    {
+      "id": "1446484044635181328",
+      "fecha_utc": "2025-12-05T12:51:10.615000+00:00",
+      "fecha_local": "2025-12-05",
+      "editado_utc": "2025-12-05T12:52:29.204000+00:00",
+      "texto": "**Cuando os alejáis de aquel lugar, las lágrimas de Arwen, caídas sobre la tumba de Xyllya, empiezan a brillar con un dorado intenso. Ya sea por el cariño de la niña hacia su amiga o por un capricho del destino, una pequeña raíz brota del suelo. Crece a un ritmo lento, pero acelerado impulsada por la magia salvaje de la joven druida.**\n\n*Vaya... pues al final era más divertida la vida que la muerte... Gracias amiga*\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "b72bce9af163fa8c0d627237bf16e43114c8db4e54d1a61f9f41e82d1aff4d6a",
+      "tipo_discord": 19,
+      "referencia": "1446479792823337065",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1446484044635181328",
+      "texto_sha256": "5dcfec3d5fd7b8eb528d8fead01de3b0cca5970eef56aad092a60613c0be7271",
+      "adjuntos": []
+    }
+  ]
+}

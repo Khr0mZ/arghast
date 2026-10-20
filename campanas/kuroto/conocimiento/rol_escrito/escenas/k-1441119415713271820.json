@@ -1,0 +1,119 @@
+{
+  "id": "k-1441119415713271820",
+  "campana": "kuroto",
+  "unidad_revision": "k-1440980992029495387",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "El voto del discípulo",
+  "resumen": "Sera pregunta por el chispazo y ofrece ayudar a Wukong.",
+  "relato": "Antes de que Wukong se asee, Seraphina le pregunta por la electricidad que sintió al tocarlo. El mono está a punto de recurrir a sus viejos halagos, pero recuerda la reacción de su maestro y se detiene. Explica que, como alumno del monje Tang, ha jurado apartarse de los deseos terrenales hasta convertirse en un monje de pleno derecho. Atribuye el chispazo a que ella posee parte del ki del Monje Santo y este reaccionó ante su discípulo. Sera agradece su sinceridad y ofrece ayudarlo a cumplir el propósito, aunque él todavía no responde a la propuesta. Finalmente se marcha a buscar a Guxi para darle la noticia del regreso del mono. No se demuestra aquí una técnica nueva ni se verifica la explicación del ki.",
+  "participantes": [
+    "Seraphina",
+    "Wukong"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1441119415713271820",
+      "afirmacion": "Seraphina pregunta por el chispazo que sintió al tocar a Wukong.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1441133087315722331",
+      "afirmacion": "Wukong explica su voto como alumno de Tang y atribuye la reacción al ki del maestro.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1441135643659997497",
+      "afirmacion": "Sera ofrece ayudar al mono y se marcha a buscar a Guxi.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El regreso de Wukong a Sho está narrado; no hay levantamiento de exilio, contrato nuevo ni readmisión formal mostrados.",
+    "Las versiones sobre la cúpula, el culto y las razones del enemigo son informes e hipótesis de los presentes; no cierran por sí mismas la trama.",
+    "La nota explícita del DM dice que Shirz no resolverá la trama: no convertir su salida en descubrimientos realizados.",
+    "El voto de Wukong y la explicación sobre el ki se conservan como relato suyo, sin facultades o bendiciones adicionales.",
+    "Los pensamientos de culpa o inseguridad del mono no se difunden como confesiones ante todos.",
+    "La conversación termina sin marcador de cierre y continúa tras el corte temporal; conservar su intervalo."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2025-11-20T17:34:03.410000+00:00",
+  "fin_utc": "2025-11-20T18:38:32.454000+00:00",
+  "fecha_local": "2025-11-20",
+  "intervalo": {
+    "anterior": 167,
+    "siguiente": 168,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438607930604781589",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 167,
+        "fecha": "2025-11-13",
+        "inicio_referencia_utc": "2025-11-13T19:14:04+00:00",
+        "fin_estimado_utc": "2025-11-13T22:25:02+00:00",
+        "duracion_video_segundos": 11458,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438607930604781589"
+      },
+      {
+        "capitulo": 168,
+        "fecha": "2025-11-20",
+        "inicio_referencia_utc": "2025-11-20T19:03:40+00:00",
+        "fin_estimado_utc": "2025-11-20T22:00:36+00:00",
+        "duracion_video_segundos": 10616,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida."
+  },
+  "fuentes": [
+    {
+      "id": "1441119415713271820",
+      "fecha_utc": "2025-11-20T17:34:03.410000+00:00",
+      "fecha_local": "2025-11-20",
+      "editado_utc": null,
+      "texto": "Seraphina:\n**Levanté poco a poco la cabeza**\n\nTe vas con cuidado Banzo\n\n**Mire con seriedad a Wukong**\n\nAntes de que te vayas a duchar y todo lo demás, quiero saber... Por qué sentí esa extraña electricidad cuando nos tocamos?, eso no me había pasado con ninguno de aquí, pero contigo si... Por qué?\n\n<@220602485977382912>",
+      "mensaje_sha256": "603a81606bb86a1f055ee3505ff84088c3f95d08a4115ea5d51a38d927279348",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1441119415713271820",
+      "texto_sha256": "91c03c07030bc91bfd9b09b16bdcc44743685eb1c9a0f0c091a71f108fad71bf",
+      "adjuntos": []
+    },
+    {
+      "id": "1441133087315722331",
+      "fecha_utc": "2025-11-20T18:28:22.974000+00:00",
+      "fecha_local": "2025-11-20",
+      "editado_utc": "2025-11-20T18:31:35.472000+00:00",
+      "texto": "Wukong\n\n**Al mono se le abren las orejas de par en par. Se levanta de la mesa dignamente y se gira hacia su compañera con mirada seductora**\n\n- ma chère, eso es sencillo. Verás...\n\n**Justo cuando se disponía a coger delicadamente la mano de Seraphina, recordó el chispazo de la última vez seguido de la mirada terrorífica de su maestro**\n\n- verás Seraphina... Hace tiempo te habría respondido con alagos y te habría regalado los oídos mientras te acariciaba la mano con cariño... Te habría dicho lo encantadoras que son tus orejas. Lo sexy que te ves con tu atuendo pirata. Lo profundos e hipnóticos que pueden ser tus ojos. O incluso lo mona que te pones cuando te haces la valiente o la confundida...\n\n**El mono iba dándole la espalda a la coneja y caminaba hacia donde había dejado caer el báculo improvisado mientras hablaba**\n\n- pero desde que me convertí en alumno del Monje Tang jure no caer en ningún deseo terrenal. Necesito convertirme en un monje de pleno derecho. Ser como el. Por el bien de mis compañeros. Así que hasta que no cumpla mi cometido no puedo pensar en lujuria y mucho menos en amor...\n\n**Wukong recoge el palo del suelo y se gira a la capitana**\n\n- así que lo que te puedo responder querida es que tienes parte del Ki del Monje Santo. Y ese ki ha reaccionado a su alumno... Así de simple\n\n**El.mono adopta una postura serena y le dedica una sonrisa amable a Sera**",
+      "mensaje_sha256": "b73c2c22da2ddb458f4999e4f5a06a3bde596726104546e8bf17035627971a4d",
+      "tipo_discord": 19,
+      "referencia": "1441119415713271820",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1441133087315722331",
+      "texto_sha256": "b9e08d99e3b6babfa7c34f067e30c3a6c972f70020202f60f4a7d9227dcda260",
+      "adjuntos": []
+    },
+    {
+      "id": "1441135643659997497",
+      "fecha_utc": "2025-11-20T18:38:32.454000+00:00",
+      "fecha_local": "2025-11-20",
+      "editado_utc": "2025-11-20T18:46:23.592000+00:00",
+      "texto": "Seraphina:\nVaya, agradezco mucho tu sinceridad y me alegra bastante que hayas tomado esa decisión \n\n**Me levanté de la silla mientras caminaba hacia donde él estaba**\n\nQuieres que te ayude a conseguirlo?, quizás no sea alguien sabía cómo tu maestro, pero me gustaría al menos hacer lo que alguna vez quise que hicieran conmigo \n\n**Le ofrecí mi mano**\n\nAceptas mi ayuda?\n\n**Me quedé ahí por unos segundos y poco a poco retiré mi mano**\n\nQuizás ahorita no me conoces, pero estoy segura de que nos llevaremos bien, piénsalo...\n\n**Bajé mi mano lentamente**\n\nTengo que ir con Guxi, de seguro le gustará la noticia de que has vuelto \n\n**Me di media vuelta para alejarme y salir de la base**\n\nNos vemos luego Wukong \n\n🏴‍☠️ Seraphina sale de escena 🏴‍☠️",
+      "mensaje_sha256": "6bd0d5df9be04db629e0e86686c03e18c54b83f82067dfde5a13186b10598d2b",
+      "tipo_discord": 19,
+      "referencia": "1441133087315722331",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1441135643659997497",
+      "texto_sha256": "9bd36ec8ea7e97371d9ccb5af14c493cb4b7227a18201bb668cbfc2220c53f43",
+      "adjuntos": []
+    }
+  ]
+}

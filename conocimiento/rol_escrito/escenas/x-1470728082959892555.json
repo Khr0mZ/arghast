@@ -1,0 +1,80 @@
+{
+  "id": "x-1470728082959892555",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1470728082959892555",
+  "hilo_id": "1465411590789795962",
+  "hilo_nombre": "Shiaru - El ron de Bonny",
+  "titulo": "Liz revela quién le pagó con una gema",
+  "resumen": "Bonny reconoce una pista sobre las piedras desaparecidas en el collar de la dueña de los dormitorios.",
+  "relato": "Liz entra en la taberna y recibe una copa de vino auténtico de Picks. Bonny pregunta por su negocio y observa el caro collar que lleva. La propietaria explica que uno de los recién llegados, al que llama hombre patata, le pagó varias noches con esa gema. Bonny repite el apodo, termina la cerveza y paga el vino de Liz antes de marcharse. La conversación establece una pista sobre el destino de una piedra, sin identificar aquí por nombre al cliente ni recuperar la joya.",
+  "participantes": [
+    "Liz",
+    "Happy Bonny",
+    "Picks"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1470728082959892555",
+      "afirmacion": "Liz dice que el hombre patata le pagó con la gema que lleva en el collar.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "No asignar un nombre al cliente a partir del apodo sin cotejo adicional.",
+    "El negocio de dormitorios de Liz es distinto del futuro proyecto Final Feliz de Oghma."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-02-10T10:28:19.784000+00:00",
+  "fin_utc": "2026-02-10T10:28:19.784000+00:00",
+  "fecha_local": "2026-02-10",
+  "intervalo": {
+    "anterior": 5,
+    "siguiente": 6,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1469407509797408869",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1471947631876903063",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 5,
+        "fecha": "2026-02-06",
+        "inicio_referencia_utc": "2026-02-06T19:00:35+00:00",
+        "fin_estimado_utc": "2026-02-06T21:58:33+00:00",
+        "duracion_video_segundos": 10678,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1469407509797408869"
+      },
+      {
+        "capitulo": 6,
+        "fecha": "2026-02-13",
+        "inicio_referencia_utc": "2026-02-13T19:14:05+00:00",
+        "fin_estimado_utc": "2026-02-13T22:31:58+00:00",
+        "duracion_video_segundos": 11873,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1471947631876903063"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1470728082959892555",
+      "fecha_utc": "2026-02-10T10:28:19.784000+00:00",
+      "fecha_local": "2026-02-10",
+      "editado_utc": "2026-02-11T06:02:37.447000+00:00",
+      "texto": "**La bella y sensual propietaria de los dormitorios con final feliz entró en la taberna de Shiaru. Se abrió paso con un vaivén seductor de caderas, casi felino, mientras la mayoría de maleantes la seguía con ojos vivaces y sonrisas torcidas. Pero nada de eso alteraba a Liz, estaba más que acostumbrada a tratar con ese tipo de hombres, y sabía exactamente cómo manejar sus miradas… e incluso cómo aprovecharlas.\nLes dedicó una sonrisa coqueta antes de dirigirse a la barra, donde Picks ya le tenía preparada una copa de vino.\nUn vino de verdad. No ese brebaje sospechoso que servía al resto.**\n\nHappy Bonny: ¿Como va el negocio? **Pregunta la líder pirata que está sentada a su lado con una cerveza**\n\nLiz: Se hace lo que se puede **Contesta sin mirarla**\n\nHappy Bonny: Ummm, creía que iba mejor que nunca **Le coge el collar que lleva en el cuello** Este collar se ve realmente caro, bonita gema...\n\nLiz: Um? **Mira el collar con la gema** Ah, esto? Uno de los nuevos que llegaron a la isla me pagó varias noches con esto. Al hombre patata parece que le gusta bastante mis servicios premium\n\nHappy Bonny: El hombre patata eh... **La pirata se bebe la cerveza de un trago. Lanza unas monedas hacia Picks** Invito yo al vino, disfrútalo Liz\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "c35142b001e6186abfbc772505d91c5fadff5e5defaa51fea470449ea4c043fe",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1470728082959892555",
+      "texto_sha256": "f15b6e6753c41c35d28f637012d48387cfdc8620c632de5f3135e7d0a887fe9d",
+      "adjuntos": []
+    }
+  ]
+}

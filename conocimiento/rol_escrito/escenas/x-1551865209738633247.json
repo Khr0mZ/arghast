@@ -1,0 +1,98 @@
+{
+  "id": "x-1551865209738633247",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1551865209738633247",
+  "hilo_id": "1524091803647741996",
+  "hilo_nombre": "Jungla - En alguna parte de Xoltacán",
+  "titulo": "Naór encuentra a Kema'ar ante la puerta secreta",
+  "resumen": "Tras velar las tumbas de Aztlán, busca al tío ausente y descubre el cadáver de su abuelo y un mensaje de traición.",
+  "relato": "Después de la catástrofe de Aztlán, Naór acompaña en silencio el descanso de cientos de cuerpos. Cuando los demás regresan a Iktan, acuerda sin palabras con Citlali que lleve a Leo de vuelta: el lugar no es seguro para el niño. La princesa permanece tres ciclos ante las tumbas de su familia.\n\nAl cuarto día se pregunta por Ichte, su tío materno, cuyo cadáver no apareció. Recuerda su oposición a decisiones de Kamar y un pasadizo bajo las murallas del palacio destinado a la huida real. Lo encuentra con la puerta ya abierta.\n\nAnte ella está Kema'ar, su abuelo y antiguo rey, muerto pero sostenido en pie por la lanza clavada. El texto recoge la leyenda que lo presenta como guerrero de la guerra yuan-ti y creador del primer Concilio de Clanes. En la pared hay una palabra en escritura antigua trazada con sangre: traidor.\n\nLa viñeta termina en el hallazgo. No se identifica al autor del mensaje ni se demuestra que Ichte causara la masacre o cómo murió Kema'ar.",
+  "participantes": [
+    "Naór",
+    "Kema'ar"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1551865209738633247",
+      "afirmacion": "Leo vuelve con Citlali, Naór permanece y busca indicios del tío Ichte, cuyo cuerpo falta.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1551865224422756422",
+      "afirmacion": "Encuentra a Kema'ar muerto ante la puerta abierta y la palabra traidor escrita con sangre.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La catástrofe antecede a la escena; no se recrea su ejecución.",
+    "Ichte es hermano de la reina, Kamar es padre de Naór y Kema'ar su abuelo según el texto.",
+    "La acusación escrita y la ausencia del tío no bastan para adjudicar culpabilidad."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-09-22T07:58:18.263000+00:00",
+  "fin_utc": "2026-09-22T07:58:21.764000+00:00",
+  "fecha_local": "2026-09-22",
+  "intervalo": {
+    "anterior": 65,
+    "siguiente": 66,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1551657228354719810",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 65,
+        "fecha": "2026-09-21",
+        "inicio_referencia_utc": "2026-09-21T18:10:46+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1551657228354719810"
+      },
+      {
+        "capitulo": 66,
+        "fecha": "2026-09-22",
+        "inicio_referencia_utc": "2026-09-22T18:20:03+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1551865209738633247",
+      "fecha_utc": "2026-09-22T07:58:18.263000+00:00",
+      "fecha_local": "2026-09-22",
+      "editado_utc": null,
+      "texto": "**AZTLÁN**\nTras la catástrofe de Aztlán, Naor guardó silencio durante todo el tiempo que ella y sus compañeros dedicaron a dar descanso a los cientos de cuerpos de su gente.\n\nCuando sus compañeros partieron de regreso a Iktan, Citlali <@408026114548695061>  y Naor cruzaron una última mirada. No hizo falta decir nada. Ambas entendieron lo mismo: Leo debía regresar a Iktan con Citlali. Aquel no era lugar para el pequeño.\n\nNaor decidió quedarse.\n\nPasaron los días. Durante tres ciclos solares permaneció sentada frente a las tumbas de sus familiares, contemplando en silencio lo que alguna vez había sido su hogar.\n\nAl cuarto día, la princesa se alzó.\n\nHabía algo que la atormentaba.\n\nDe entre todos los cadáveres encontrados, faltaba uno.\n\nIchte.\n\nSu tío. El hermano de la reina.\n\nNunca habían tenido una gran relación. Ichte siempre se había mostrado contrario a muchas de las decisiones de Kamar, el padre de Naor.\n\nEntonces Naor recordó algo.\n\nDurante su infancia había escuchado hablar de un antiguo camino construido bajo las murallas del palacio. Un pasadizo secreto que, en caso de ataque, podía facilitar la huida de la familia real.",
+      "mensaje_sha256": "4499380a0212e27c20e65a7edd4cd79d69c5b7463d629b948624489674a94745",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1551865209738633247",
+      "texto_sha256": "0712b10e87d2991894b0e688ff15ec6cc63331e3f204bbed7d6292fa46f088a4",
+      "adjuntos": []
+    },
+    {
+      "id": "1551865224422756422",
+      "fecha_utc": "2026-09-22T07:58:21.764000+00:00",
+      "fecha_local": "2026-09-22",
+      "editado_utc": null,
+      "texto": "Lo encontró.\n\nPero la sorpresa llegó al descubrir que la puerta secreta ya estaba abierta.\n\nY frente a ella se encontraba el cuerpo, ya muerto y frío, del antiguo rey de Aztlán.\n\nKema'ar.\n\nEl abuelo de Naor.\n\nSorprendente en pie.\n\nSu lanza estaba clavada firmemente en el suelo, sosteniendo todavía su figura erguida. En Aztlán se contaba la leyenda de que Kema'ar había sido el más grande de sus reyes: el guerrero que luchó en la antigua guerra contra los yuan-ti y que creó el primer Concilio de Clanes.\n\nY allí estaba ahora.\nMuerto.\nPero todavía de pie.\n\nComo si incluso después de la muerte se negara a caer ante un enemigo.\n\nNaor levantó la mirada.\n\nEn la pared, justo al lado de la entrada, aparecían unos símbolos antiguos pintados con sangre. Escrituras pertenecientes al antiguo idioma de Aztlán.\n\nLa palabra era clara.\n\nEl mensaje también.\n\nTRAIDOR.",
+      "mensaje_sha256": "26385c74ec507ff04b819f7800623d4c9e01fec92d9978cb4d4883ee8e76fce4",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1551865224422756422",
+      "texto_sha256": "c83385a889f2e54bc47e19346a974911d3d23a986d37c3efc6c7c66553991e63",
+      "adjuntos": []
+    }
+  ]
+}

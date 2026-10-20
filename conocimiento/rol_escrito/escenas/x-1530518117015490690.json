@@ -1,0 +1,210 @@
+{
+  "id": "x-1530518117015490690",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1530356065936347307",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "Eleanor devuelve la calma a Erandi",
+  "resumen": "La kender cree que debe volver a luchar, pero Eleanor le asegura que el peligro inmediato pasó y propone conocer la ciudad.",
+  "relato": "Erandi despierta todavía atrapada en el recuerdo de una batalla y grita que deben ayudar a Molly y a los piratas. Eleanor la sostiene, le pide que la mire y asegura que la capitana, sus compañeros y ella siguen vivos. Le explica que están en la taberna de Iktan y que ha dormido después de sobrepasarse. La kender sigue desorientada y pregunta cómo llegaron. Eleanor reconoce que también está reuniendo las piezas y pospone una explicación más completa hasta que termine de despertar. Agradece a Ilikar y a Sir Poncelot haber mantenido viva a Erandi, sin que Poncelot responda aquí. Después se la lleva para explorar, buscar comida y alojamiento y preguntar por los líderes y las normas de la ciudad.",
+  "participantes": [
+    "Erandi",
+    "Eleanor"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1530566908557136032",
+      "afirmacion": "Eleanor tranquiliza a Erandi y le dice que la batalla pasó y Molly sigue viva.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1530567640807116840",
+      "afirmacion": "Eleanor agradece a Ilikar y Poncelot que hayan mantenido con vida a Erandi.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1530571801611079801",
+      "afirmacion": "Eleanor abandona la escena con Erandi.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Cuatro partes leídas completas. Los episodios navales y la incursión submarina son relatos retrospectivos, no combates reconstruidos aquí.",
+    "Las interpretaciones de los espías sobre un beso o noviazgo entre Tessa y Eldrath son erróneas y negadas en el intercambio.",
+    "Malena es el nombre que Tessa aplica a la líder del mismo pueblo a quien Naór llama Walulu; mantener el error de memoria en las fuentes sin crear una segunda jefa.",
+    "La identidad del dragón que pagaría por los hermanos y su relación con la destrucción de su hogar siguen como sospecha de Eldrath.",
+    "Los detalles del camino de confianza no se transcriben: no inventar ejercicios ni resultados.",
+    "El deseo privado de Naór de atacar a Citlali no llega a ejecutarse."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-07-25T10:12:34.748000+00:00",
+  "fin_utc": "2026-07-25T13:45:54.153000+00:00",
+  "fecha_local": "2026-07-25",
+  "intervalo": {
+    "anterior": 47,
+    "siguiente": 48,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1530274670023278874",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1532095200023937216",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 47,
+        "fecha": "2026-07-24",
+        "inicio_referencia_utc": "2026-07-24T18:01:14+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1530274670023278874"
+      },
+      {
+        "capitulo": 48,
+        "fecha": "2026-07-29",
+        "inicio_referencia_utc": "2026-07-29T18:34:59+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1532095200023937216"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1530518117015490690",
+      "fecha_utc": "2026-07-25T10:12:34.748000+00:00",
+      "fecha_local": "2026-07-25",
+      "editado_utc": null,
+      "texto": "Erandi: \n**Escucha todo el algarabio, las personas hablando que se encuentran intermezcladas, siente los olores del alcohol y la gente sudorienta y humedad, algunas...¿Son familiares..?**\n-M-Mi...se..ñora..d-don...de estamos...? Q-que...ha pasado...?\n**Recuerda como último el bravor de la batalla, y alli abre por completo los ojos, estremeciéndose mientras alza la voz**\n-LA CAPITANA MOLLY! LOS PIRATAS! HAY QUE AYUDARLOS!!\n**se podria apreciar su tono de voz angustiante, mientras su cuerpo se estremece en tus brazos, sin entender que ocurre**\n-ELLOS VIENEN! HAY QUE PREPARARNOS!!\n<@449688546580627476>",
+      "mensaje_sha256": "2a2cdfa241b4d59e7075d34ea9b1e9b3f689468743cf832c523eaab74900d176",
+      "tipo_discord": 19,
+      "referencia": "1529957197948260414",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1530518117015490690",
+      "texto_sha256": "0a2590e3592ddfdb9d74d177cb3b5c54de921dd1b41ef4fb496adc9cf373d081",
+      "adjuntos": []
+    },
+    {
+      "id": "1530566908557136032",
+      "fecha_utc": "2026-07-25T13:26:27.558000+00:00",
+      "fecha_local": "2026-07-25",
+      "editado_utc": null,
+      "texto": "Eleanor:\n\n**Al sentir cómo se estremece en mis brazos, la sujeto con más firmeza y bajo la mirada hacia ella.**\n-Erandi. **Mi voz sale firme, clara, buscando atravesar el ruido de la taberna.**\n-Mírame. **Acomodo la capa sobre sus hombros, impidiendo que intente incorporarse de golpe.**\n-Ya pasó. **Mantengo una mano sobre su espalda, sosteniéndola contra mi pecho.**\n-La Capitana Molly está viva, los piratas están vivos y tú también.\n**La observo de cerca, seria, pero sin dureza.**\n-Estamos en Iktan. Llegamos a la taberna.\n**Hago una breve pausa, dejando que respire.**\n-Te sobrepasaste. Dormiste más de lo que querías. **Mi mirada se suaviza apenas.**\n-Pero no llegaste tarde.\n**Apoyo mi frente un instante sobre su cabeza.**\n-No tienes que volver a la batalla, pequeña.\n**La abrazo con más cuidado.**\n-Ya hiciste suficiente.",
+      "mensaje_sha256": "3281c02de6cbbdd96b67b72ee7aabe300c5c7622927942bcb4fe7615e943b0e3",
+      "tipo_discord": 19,
+      "referencia": "1530518117015490690",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1530566908557136032",
+      "texto_sha256": "6e6a54128c66321e0d2da617fda6144405bf75501fea89ead64de8b8d9775bbe",
+      "adjuntos": []
+    },
+    {
+      "id": "1530567640807116840",
+      "fecha_utc": "2026-07-25T13:29:22.140000+00:00",
+      "fecha_local": "2026-07-25",
+      "editado_utc": null,
+      "texto": "Eleanor:\n\n**Mantengo a Erandi apoyada contra mí, ligeramente de lado. Luego giro la mirada hacia Ilikar y hacia el calvo de Poncelot.**\n-Ilikar, Sir Poncelot.\n**Inclino la cabeza con seriedad.**\n-Gracias.\n**Mi mirada baja un instante hacia Erandi antes de volver a ellos.**\n-Por mantenerla con vida.\n**Hago una breve pausa.**\n-No olvidaré esto, estoy en deuda.",
+      "mensaje_sha256": "1d78dbdb08339dd38ccd382868ff8cba05f354f9b01196cc841c9718fdee5f38",
+      "tipo_discord": 19,
+      "referencia": "1530566731804840168",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1530567640807116840",
+      "texto_sha256": "903213b59b79bf5f5c5c37ee2c7407697d3ea66d5690bb7ff2458bfc6dadb44c",
+      "adjuntos": []
+    },
+    {
+      "id": "1530568119607890110",
+      "fecha_utc": "2026-07-25T13:31:16.295000+00:00",
+      "fecha_local": "2026-07-25",
+      "editado_utc": null,
+      "texto": "Erandi:\n**Ve a ella, escuchando lo que dice**\n-Ah...? Que...?\n**Ve a su alrededor, notando que efectivamente no estaba en la jungla, ni en Shiaru, ni veia a los piratas o a Molly, incluso esa taberna es distinta a la taberna pestilente de Shiaru**\n-...que..Iktan...?",
+      "mensaje_sha256": "12660843cc83e2064caf1d99bdb710b172554e8122c057d97cb9e5ffa4714a7d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1530568119607890110",
+      "texto_sha256": "234056943b12ce62c8d898284dc6a59099f367c8f71ad59fc353343339739818",
+      "adjuntos": []
+    },
+    {
+      "id": "1530568391113576561",
+      "fecha_utc": "2026-07-25T13:32:21.027000+00:00",
+      "fecha_local": "2026-07-25",
+      "editado_utc": null,
+      "texto": "Erandi:\n-Donde...es Iktan...? Y...cuando llegaron ellos? \n**Nota a Ilikar y a una ...¿Tortuga?**\n-como...que dormi..de mas? \n**Detalla mejor a los demas**\n-AH! EL SEÑOR ILIKAR! Y ESTA...con una tortuga...?",
+      "mensaje_sha256": "ff216afddcbd035b9118006abd992b76dfcb9e433dbfe68b2f16d43867566579",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1530568391113576561",
+      "texto_sha256": "013c40c165f8996012a6018ac6fdf0f69af97efb30ef154d4f1c27bf75351504",
+      "adjuntos": []
+    },
+    {
+      "id": "1530568709985407047",
+      "fecha_utc": "2026-07-25T13:33:37.052000+00:00",
+      "fecha_local": "2026-07-25",
+      "editado_utc": "2026-07-25T13:33:50.940000+00:00",
+      "texto": "Erandi:\n**ve a Eleanor**\n-....Es una Tortuga enorme...como ese trio de Hipopotamos...o el señor Perro....¿Era un perro no...? Tengo el recuerdo de un hombre perro....",
+      "mensaje_sha256": "af5c794e7738a62de6c9358c45b484d49ed59da3b31c3cfb603c98d6b2e7f95b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1530568709985407047",
+      "texto_sha256": "a6b94563917a6f0d447e0270e3adad4fec4a1071dafdfcfff93f5c1ef45e8afa",
+      "adjuntos": []
+    },
+    {
+      "id": "1530569642312204429",
+      "fecha_utc": "2026-07-25T13:37:19.336000+00:00",
+      "fecha_local": "2026-07-25",
+      "editado_utc": null,
+      "texto": "Eleanor: \n\n-Un hombre perro? que cosa mas raras hay aqui, pero podemos investigar\n\n**veo a ilikar entrar en la taverna y procedo a llevarme a erandi ** \n\n-Vamos a explorar este ciudad y luego vemos de conseguir algo de comida y un lugar para descansar, ademas estaria bien presentarse a los jefes de la aldea para prestar nuestros servicios",
+      "mensaje_sha256": "91527b143adb66961ba8e5b206fbe95fc914af1999e8fd118d3d78cd13c0af31",
+      "tipo_discord": 19,
+      "referencia": "1530568709985407047",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1530569642312204429",
+      "texto_sha256": "f46accf6c39f30d869b33f679577f08b0ebc358911c2de4060dc319a28a6e7ef",
+      "adjuntos": []
+    },
+    {
+      "id": "1530570353922015373",
+      "fecha_utc": "2026-07-25T13:40:08.997000+00:00",
+      "fecha_local": "2026-07-25",
+      "editado_utc": null,
+      "texto": "Erandi:\n**Se deja llevar cual muñeca, no entendiendo una puta mierda**de \n-...como...llegamos aquí...a que se refiere con que dormi de mas..?\n**Ve a la gente**\n-Hablar..con los líderes..? Los conoce..?",
+      "mensaje_sha256": "db41b4b5fbf2258cf6ed579db97d1ffb19c5007ab9794db985da171ac6114264",
+      "tipo_discord": 19,
+      "referencia": "1530569642312204429",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1530570353922015373",
+      "texto_sha256": "37f5456f750b4b468647a0d5162171149a0f1254fb31f99771574a3c7ec99641",
+      "adjuntos": []
+    },
+    {
+      "id": "1530571651467444236",
+      "fecha_utc": "2026-07-25T13:45:18.356000+00:00",
+      "fecha_local": "2026-07-25",
+      "editado_utc": null,
+      "texto": "Eleanor:\n\n**Mantengo a Erandi en brazos mientras avanzo hacia la salida, dejando que observe la taberna y a los presentes desde mi hombro.**\n-No los conozco. **Miro hacia la gente del lugar con calma.**\n-Pero podemos preguntar por ellos.\n**Bajo la mirada hacia Erandi.** -Y espero que eso no sea un problema. Acabamos de llegar, no pretendo irrumpir ante nadie como si este lugar me perteneciera.\n**Hago una breve pausa.**\n-Solo quiero saber dónde estamos, quién mantiene el orden y qué normas debemos evitar romper antes de que tú encuentres una forma accidental de romperlas.\n**Mi tono permanece serio, aunque hay una ligera suavidad en la mirada.**\n-Y sobre cómo llegamos aquí... **La acomodo mejor entre mis brazos.**\n-Te lo explicaré cuando hayas terminado de despertar del todo. **Miro de reojo hacia la tortuga enorme y luego hacia Ilikar.**\n-Porque, sinceramente, también estoy reuniendo las piezas.",
+      "mensaje_sha256": "f7608cc272f31a4f1c3a284e9c3391b87101fa30eaf26ab772a8d4ab635724bc",
+      "tipo_discord": 19,
+      "referencia": "1530570353922015373",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1530571651467444236",
+      "texto_sha256": "51c7a31c3373dbfdb0601cdd4db45040317dea5dfdc23cfb6b35e61188a6a223",
+      "adjuntos": []
+    },
+    {
+      "id": "1530571801611079801",
+      "fecha_utc": "2026-07-25T13:45:54.153000+00:00",
+      "fecha_local": "2026-07-25",
+      "editado_utc": null,
+      "texto": "🔴 Eleanor sale de la escena junto a Erandi 🔴",
+      "mensaje_sha256": "1e753f92b73d668796ba1a9e2682e5208a16a021c3f963999aca7023044fc01e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1530571801611079801",
+      "texto_sha256": "f591f02dae1d3df3af03976dea75b0245cd3e99f82bb1cc0b2a047cb7d1f7d7b",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "id": "x-1469244129182482615",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1469244129182482615",
+  "hilo_id": "1465411590789795962",
+  "hilo_nombre": "Shiaru - El ron de Bonny",
+  "titulo": "Bonny encarga averiguar qué pasó con las gemas",
+  "resumen": "Muestra a Nox un collar obtenido por Ione y juega con la promesa de gratitud para que investigue sus huecos vacíos.",
+  "relato": "Nox vuelve al poblado con Sir Poncelot tras una vuelta en la que presenta a la Marina como enemiga y pregunta por sus tres compañeros desaparecidos, los trillizos. Al acercarse a Bonny afirma haber obedecido la orden de quedarse quieto, aunque el relato ya mostró su salida. Busca también a Ione.\n\nBonny dice que la envió a un recado y muestra un collar de oro traído de la mina de la Marina. Sus huecos sugieren que antes llevaba gemas, y promete gran gratitud a quien descubra qué les ocurrió. Nox examina el tamaño de los espacios, atraído por su coqueteo.\n\nLa dueña recupera el collar y lo despacha bruscamente. Ya fuera, él considera si Ione o el compañero al que llama ubres azules pudieron quedarse las piedras, pero no dispone de prueba. La conversación inicia una búsqueda sin identificar al ladrón ni recuperar joya alguna.",
+  "participantes": [
+    "Nox",
+    "Happy Bonny",
+    "Sir Poncelot"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1469244129182482615",
+      "afirmacion": "Nox pregunta por los trillizos desaparecidos y vuelve a buscar a Ione.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1469254086917492916",
+      "afirmacion": "Bonny muestra el collar y encarga averiguar qué pasó con sus gemas.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1469268087361638595",
+      "afirmacion": "Nox sospecha privadamente de compañeros sin aportar prueba.",
+      "tipo": "pensamiento"
+    }
+  ],
+  "notas": [
+    "No convertir la gratitud insinuada en un pago concreto o una relación consumada.",
+    "La desaparición de las gemas y la de los trillizos son preguntas separadas."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-02-06T08:11:37.633000+00:00",
+  "fin_utc": "2026-02-06T18:44:42.352000+00:00",
+  "fecha_local": "2026-02-06",
+  "intervalo": {
+    "anterior": 4,
+    "siguiente": 5,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1469044877005160624",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1469407509797408869",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 4,
+        "fecha": "2026-02-05",
+        "inicio_referencia_utc": "2026-02-05T18:59:34+00:00",
+        "fin_estimado_utc": "2026-02-05T21:22:17+00:00",
+        "duracion_video_segundos": 8563,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1469044877005160624"
+      },
+      {
+        "capitulo": 5,
+        "fecha": "2026-02-06",
+        "inicio_referencia_utc": "2026-02-06T19:00:35+00:00",
+        "fin_estimado_utc": "2026-02-06T21:58:33+00:00",
+        "duracion_video_segundos": 10678,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1469407509797408869"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1469244129182482615",
+      "fecha_utc": "2026-02-06T08:11:37.633000+00:00",
+      "fecha_local": "2026-02-06",
+      "editado_utc": null,
+      "texto": "Nox: **durante esa vuelta con Sir Poncelot , Nox le ha estado explicando en forma de cuento un poco mas sobre lo poco que sabe de la isla , haciendo incapie en que la Marina son los malos y en que próximamente se tendrá que hacer alguna expedición hacia el Sur del Garfio . \nTambien le ha hablado sobre sus tres amigos desaparecidos , \"los trillizos\" por si en algun momneto los ha visto . \nDespués de un encuentro con criaturas escamosas y de con dificultad para convencerle de que no son corceles domables  vuelven al poblado . \n\nNox llegaría al bar y se acercaría a la mesa de Bonny**\n\nMe quedado quieto y no he hecho nada como mandaste .**le dice a Happy Bonny** <@214405113677217793> \nAlguien ha visto ha Ione no la encuentro por ningún lado . \nQuiza tu ? **le dice a un pirata que se urga la oreja con la punta de una navaja **",
+      "mensaje_sha256": "09a41e8ee5a5771e754e362c6d691db202502cf04d514b4e57c425297221210f",
+      "tipo_discord": 19,
+      "referencia": "1469042855300431915",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1469244129182482615",
+      "texto_sha256": "0c0470f826686053ea1665edde8a4477c56c47485da17bf70e4c13520d039099",
+      "adjuntos": []
+    },
+    {
+      "id": "1469254086917492916",
+      "fecha_utc": "2026-02-06T08:51:11.742000+00:00",
+      "fecha_local": "2026-02-06",
+      "editado_utc": "2026-02-06T08:56:23.029000+00:00",
+      "texto": "Happy Bonny: **Como siempre, cuando te acercas a la mesa de Bonny, sus hombres colocan sus manos en las empuñadura de sus armas, atentos a cualquier tontería. No es por ti, no eres tan especial, lo hacen con todos** Vaya... Aquí estas... Te estuve buscando, Noxi... **Una sonrisita se le dibuja en el rostro al oír a Ione** Rastas-sucias? Ummm.... Si, la he visto antes, la he mandado a un pequeño recadito... **Saca el collar de oro y lo pone en la mesa** Me ha traído esto de la mina del otro dia de la Marina. Pero mira, ves eso huecos, seguramente habia ahi unas gemas... Ay... Seguro que eran preciosas y muy caras.... Si alguien descubriera que ha pasado con ellas, le estaría muy muy muy muy agradecida. Ya me entiendes **Su voz es dulce y juguetona, sabes que lo hace a posta, le encanta juguetear**",
+      "mensaje_sha256": "1956bd7c21bd4aa4efac4114d397188fd85819d37fa540c2d602068cf836c781",
+      "tipo_discord": 19,
+      "referencia": "1469244129182482615",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1469254086917492916",
+      "texto_sha256": "05cd04b67ade1e7e5777f19e746aaac61a40416b1a25aa1c0725abe6ef0029f1",
+      "adjuntos": []
+    },
+    {
+      "id": "1469256646843699332",
+      "fecha_utc": "2026-02-06T09:01:22.076000+00:00",
+      "fecha_local": "2026-02-06",
+      "editado_utc": null,
+      "texto": "Nox : cuanto de agradecida ? ** le sonrrie de forma seductora **",
+      "mensaje_sha256": "e6cc703d5511c21f0a3ae39fbef02f202c0f40e0ebcc6d0e04764487211e871b",
+      "tipo_discord": 19,
+      "referencia": "1469254086917492916",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1469256646843699332",
+      "texto_sha256": "db18e83fb166a6f16e2025560ad963a3de403cef776b95f70430230a27f1f782",
+      "adjuntos": []
+    },
+    {
+      "id": "1469257850550485134",
+      "fecha_utc": "2026-02-06T09:06:09.062000+00:00",
+      "fecha_local": "2026-02-06",
+      "editado_utc": null,
+      "texto": "Happy Bonny: Realmente muy agradecida **Dice con una voz sensual y coqueta mientras bebe un trago de cerveza y deja que le caigan gotas por la comisura de los labios**",
+      "mensaje_sha256": "7f318b3c3d861a12fab7ae0b1b64caeffe1b0d6b888e780d6d589655942b0cf1",
+      "tipo_discord": 19,
+      "referencia": "1469256646843699332",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1469257850550485134",
+      "texto_sha256": "2fe493409d3482dd9e165eaf97ba15b2d7b6f29a3820de523561af4fcff853f6",
+      "adjuntos": []
+    },
+    {
+      "id": "1469262964031750235",
+      "fecha_utc": "2026-02-06T09:26:28.211000+00:00",
+      "fecha_local": "2026-02-06",
+      "editado_utc": null,
+      "texto": "Nox : **ve esas gotas caer y siente la gran tentacion de acercar sus labios . \nPrimero por que hace tiempo que no bebe nada decente y unas gotas le saciarian y segundo .. Las noches a solas en el barco son largas ...  ** \n\nGemas dices no ? \n**mientras examina el collar a ver que tamaño sería mas o menos de gemas y hacerse una idea de elo que busca **",
+      "mensaje_sha256": "52bc5a36d86d88572ef77468960b7390bd7cdc6387d00dca41218feff8cc44fd",
+      "tipo_discord": 19,
+      "referencia": "1469257850550485134",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1469262964031750235",
+      "texto_sha256": "3a9c14afbfbd8f0ab78241a1ea5f0d8f8aed452f4e1bddf29721366c421c9996",
+      "adjuntos": []
+    },
+    {
+      "id": "1469266795197370552",
+      "fecha_utc": "2026-02-06T09:41:41.632000+00:00",
+      "fecha_local": "2026-02-06",
+      "editado_utc": null,
+      "texto": "Happy Bonny: **Se limpia los labios con el pulgar para luego lamerlo lentamente mientras te mira** Gemas.... **Se reclina hacia delante en la mesa insinuándose para que veas sus dotes de mujer y te arrebata el collar de oro de un tirón** Ahora, sino tienes nada mas que decirme. ¡Lárgate! **Su voz cambia a una mas ruda y notas como los piratas de Bonny se inquietan y se preparan por si haces algo**",
+      "mensaje_sha256": "5d9ff0f81e8663a7ddcc33bcc53c1accd41b39a5a6e53f12ae546999113b10ee",
+      "tipo_discord": 19,
+      "referencia": "1469262964031750235",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1469266795197370552",
+      "texto_sha256": "7e76e5b5563783939ff2eaeb11f5531e11c4d9749f7490d1bcf0022fceda08a1",
+      "adjuntos": []
+    },
+    {
+      "id": "1469268087361638595",
+      "fecha_utc": "2026-02-06T09:46:49.708000+00:00",
+      "fecha_local": "2026-02-06",
+      "editado_utc": "2026-02-06T09:52:46.126000+00:00",
+      "texto": "Nox: (que va hacer ? XD) \n**con el grito esta ya saliendo por la puerta de la taberna ** \n\n*a ver Ione <@753394009153732689>  no creo que sea tan audaz de robar solo las gemas y no el collar entero ... pero y si fue con ese ubres azules... hmmmmm donde estará..? <@401738213850480643>*",
+      "mensaje_sha256": "86e7543c822fd67452753eaa15a8f60a1b35b44b1df2408de1d3b6fbdc36eee9",
+      "tipo_discord": 19,
+      "referencia": "1469266795197370552",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1469268087361638595",
+      "texto_sha256": "1152091205455370c936aafd7d508999d1e1cc16caa00069abaf58836ca991f2",
+      "adjuntos": []
+    },
+    {
+      "id": "1469403448641454080",
+      "fecha_utc": "2026-02-06T18:44:42.352000+00:00",
+      "fecha_local": "2026-02-06",
+      "editado_utc": null,
+      "texto": "🔴Fin de la Escena🔴",
+      "mensaje_sha256": "7cf91fe5d932d3ec39e2077ac336cd9d8994d2ed3ad38c425f80807ce7adcec7",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1469403448641454080",
+      "texto_sha256": "7b48f784e7d27f7d504591e65457ee8f6f5f093e0fa68b31981cee30b6cd3584",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "k-1461053420592173320",
+  "campana": "kuroto",
+  "unidad_revision": "k-1461053420592173320",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Regreso con la caja intacta",
+  "resumen": "Wukong aparta su ira y prepara el viaje.",
+  "relato": "Wukong vuelve por el portal furioso con alguien a quien acusa de haber partido una montaña para buscarlo. Alude a un palacio de jade y a un Consejo de Bestias que dirige bien el lugar sin él. Se tranquiliza recordando que los animales están vivos y que no hubo bajas, aunque el daño deberá repararse. Saca parcialmente una caja de madera, comprueba con preocupación que está intacta y vuelve a guardarla. Después recoge sus cosas en la buhardilla para trasladarse al campamento del sur. No se muestra la destrucción anterior ni se revela el contenido de la caja.",
+  "participantes": [
+    "Wukong"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1461053420592173320",
+      "afirmacion": "Wukong regresa furioso, comprueba una caja y prepara su traslado al sur.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La destrucción de la montaña se conoce por Wukong y no se asigna una autoría no identificada en ese primer mensaje.",
+    "La renuncia a una vida divina forma parte del relato del mono; no implica poderes nuevos otorgados en esta escena.",
+    "La unión simbólica de Guxi y Sera es un testimonio explícito de ella, distinto de la ceremonia futura.",
+    "El interior de la caja permanece oculto; no se inventa anillo, propuesta de matrimonio ni otro regalo concreto.",
+    "Los sentimientos y pensamientos privados no equivalen a declaraciones o acuerdos que el otro conozca íntegramente."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-01-14T17:44:40.529000+00:00",
+  "fin_utc": "2026-01-14T17:44:40.529000+00:00",
+  "fecha_local": "2026-01-14",
+  "intervalo": {
+    "anterior": 179,
+    "siguiente": 180,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1458905021985853695",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1461435221806284870",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 179,
+        "fecha": "2026-01-08",
+        "inicio_referencia_utc": "2026-01-08T19:27:25+00:00",
+        "fin_estimado_utc": "2026-01-08T21:59:18+00:00",
+        "duracion_video_segundos": 9113,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1458905021985853695"
+      },
+      {
+        "capitulo": 180,
+        "fecha": "2026-01-15",
+        "inicio_referencia_utc": "2026-01-15T19:01:30+00:00",
+        "fin_estimado_utc": "2026-01-15T22:02:29+00:00",
+        "duracion_video_segundos": 10859,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1461435221806284870"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1461053420592173320",
+      "fecha_utc": "2026-01-14T17:44:40.529000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": "2026-01-14T17:46:13.750000+00:00",
+      "texto": "Wukong\n\n**El monje sale del portal completamente hecho una furia. Da un pisotón y mira hacia arriba**\n\n- no creas que he acabado contigo maldito loco de las narices adicto a las cuadras de caballos!!!! Si algún día te vuelvo a pillar no voy a conformarme con saltarte dos dientes o ponerte un ojo morado!!! Te voy a arrancar la coleta de cuajo!!!\n\n**Vuelve a andar de camino a la entrada de la base aún furioso**\n\n- pero en qué cabeza cabe??? Partir un monte en dos para buscar a alguien?? Es que en tu puto palacio de jade no llamáis a la puerta??? Suerte tienes que los animales están bien y no hay que lamentar bajas... ya te pillaré ya... que calladito te lo tenias...\n\n**Una vez dentro de la base intento respirar profundo y calmarse un poco**\n\n- vale fiera... ya esta... no hay bajas... Y el Consejo de Bestias dirige bien el lugar sin ti... ya buscarás una solución para arreglar el destrozo. Al menos esto estaba intacto... Por un momento pensé que habrían volado todas... \n\n**El mono mete su mano en su bolsa y saca parcialmente una cajita de madera. La mira preocupado y la guarda de nuevo soltando un suspiro**\n\n- me voy a comer una mierda tan grande como el palacio de Sho... Pero al menos que no que no se diga que el protector de la guardiana de kuroto era un cobarde...\n\n**De un salto entró en su buhardilla y comenzó a empacar cosas para instalarse en el campamento del Sur**",
+      "mensaje_sha256": "575f603626faad01f9c4a5c50b6bdd5165f92a72542943ef44a39663e528feb6",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1461053420592173320",
+      "texto_sha256": "e3bbeee57bc2b2cdb7da19c87844db11ece40798b3546c620f63a2c54d9acce2",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "id": "k-1442517717654700032",
+  "campana": "kuroto",
+  "unidad_revision": "k-1442517717654700032",
+  "hilo_id": "1379945696089604209",
+  "hilo_nombre": "Sho, Barrios bajos - Capital de Kuroto",
+  "titulo": "Thiary retira el anillo de Kurobane",
+  "resumen": "Le reprocha no haber entregado información y trabajar con Danifae; lo expulsa sin matarlo.",
+  "relato": "Cinco shinobis cortan el paso a Kurobane y Thiary le reclama el trabajo de información sobre Kalista y Jelbreg. Reprocha que, en cambio, haya colaborado con Danifae y lo responsabiliza de una muerte y del peligro para sus negocios. Son acusaciones de la ladrona en esta confrontación, no una reconstrucción de la cadena causal.\n\nEl ninja acepta sus errores, llora y dice no saber cómo repararlos. Thiary lo inmoviliza, baja luego el arma y exige el anillo. Él se lo quita y entrega. Ella decide que no vale la pena matarlo y lo expulsa de sus calles; después manda seguirlo. No se activa un castigo mágico del anillo en estos mensajes.",
+  "participantes": [
+    "Kurobane",
+    "Thiary",
+    "Shinobis"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1442521101942128660",
+      "afirmacion": "Thiary denuncia el incumplimiento y la colaboración con Danifae.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1442527922874355807",
+      "afirmacion": "El ninja entrega el anillo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1442529722750996511",
+      "afirmacion": "Thiary lo expulsa sin ejecutarlo.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Las dos conversaciones se presentan por separado."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-11-24T14:10:24.572000+00:00",
+  "fin_utc": "2025-11-24T15:00:08.750000+00:00",
+  "fecha_local": "2025-11-24",
+  "intervalo": {
+    "anterior": 168,
+    "siguiente": 169,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1442596662206922943",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 168,
+        "fecha": "2025-11-20",
+        "inicio_referencia_utc": "2025-11-20T19:03:40+00:00",
+        "fin_estimado_utc": "2025-11-20T22:00:36+00:00",
+        "duracion_video_segundos": 10616,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816"
+      },
+      {
+        "capitulo": 169,
+        "fecha": "2025-11-24",
+        "inicio_referencia_utc": "2025-11-24T19:23:51+00:00",
+        "fin_estimado_utc": "2025-11-24T22:32:50+00:00",
+        "duracion_video_segundos": 11339,
+        "tipo_referencia": "aviso_de_contraste",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1442596662206922943"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida. Una hora tomada de un aviso con título discrepante se utiliza solo como referencia aproximada de ese día."
+  },
+  "fuentes": [
+    {
+      "id": "1442517717654700032",
+      "fecha_utc": "2025-11-24T14:10:24.572000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "**El ninja andaba por las calles de los barrios bajos con la capucha echada para pasar desapercibido. Cuando dobla la esquina en un callejón, se encuentra con cinco Shinobis de los Cuchillas Negras que le cierran el paso**\n\nThiary: Así que andabas por aquí... Pequeño ninja ** A tu espalda, la líder de la cofradía estaba con los brazos cruzados y la cadera ladeada. En una postura relajada**\n<@240564189448503306>",
+      "mensaje_sha256": "4dfdfcb9eed8a6fb4954d93c45a8b571b1af28fc8b0409514d67d67dc660ce9b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442517717654700032",
+      "texto_sha256": "3525b762618d8a8f1ba5ffddac9c2273daa2ce39527f9e5a4e405636e6448390",
+      "adjuntos": []
+    },
+    {
+      "id": "1442518665152040990",
+      "fecha_utc": "2025-11-24T14:14:10.473000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Kuro:\n\nHola Thiary. \n\n**Dice serio y con un tono de cansancio mientras se quita la mascara y la guarda**\n\nQue necesitas?\n\n**Pregunta serio mientras se quita la capucha para que se vean esas venas oscuras y esos ojos oscuros**",
+      "mensaje_sha256": "36a43132c0e4b3e04796c5cd7f2d712699be5d4b0d68fdf3b3f3276153decb52",
+      "tipo_discord": 19,
+      "referencia": "1442517717654700032",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442518665152040990",
+      "texto_sha256": "514e9158e00cc62cdbea8e9008a8b48a35c91488fdc3824b3ec282c55b69498b",
+      "adjuntos": []
+    },
+    {
+      "id": "1442519299884581057",
+      "fecha_utc": "2025-11-24T14:16:41.805000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Thiary: ¿Que es lo que necesito....? **Se toca la barbilla pensativa** Ah si, envíe a uno de mis hombres a buscar información a palacio y no me ha traído nada... **Se rasca la cabeza** ¿Sabes?",
+      "mensaje_sha256": "73edbe65df30a247a0639ecc85388b5e782e7dd84c040f8c1d55b0890a110188",
+      "tipo_discord": 19,
+      "referencia": "1442518665152040990",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442519299884581057",
+      "texto_sha256": "7022731e03e4195c0fca64c0a8873e8590e80149b01836994cbd19af5d8833e2",
+      "adjuntos": []
+    },
+    {
+      "id": "1442519997657120910",
+      "fecha_utc": "2025-11-24T14:19:28.167000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Kuro:\n\nTienes razón, Thiary.\n\n**Dice serio mientras le mira a los ojos**\n\nNecesitaba información y se la compré al que no debería",
+      "mensaje_sha256": "d6bbe4703e6f1d4065fcd48ffd456c2d2a6cf255b1e0cf54f9c91987d8f35d26",
+      "tipo_discord": 19,
+      "referencia": "1442519299884581057",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442519997657120910",
+      "texto_sha256": "f5feaeb15f0b002d96bc67dfdf95ba2e69acb9e2f16bae0d70e91ff60c3a9a85",
+      "adjuntos": []
+    },
+    {
+      "id": "1442521101942128660",
+      "fecha_utc": "2025-11-24T14:23:51.449000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Thiary: No es eso de lo que me quejo.... **Te fulmina con la mirada** Hicimos un trato... Yo te daba trabajo y tu información de Jelbreg y Kali... y Kalista. Pero ahora me entero que en vez de trabajar para mi que soy la que te paga... Trabajaste con esa sucia araña... **Ves como Thiary desenfunda su wakizashi y los demás Shinobis que te rodean la imitan** ¿Algo que decir, ninja?",
+      "mensaje_sha256": "8bc0faff3199d1551fb913157318b836ab3f9d0f325be7d80919c7a7db616766",
+      "tipo_discord": 19,
+      "referencia": "1442519997657120910",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442521101942128660",
+      "texto_sha256": "351c00254c1be0374d279ce75601da83c8208b28e59de91b6cdfc2f4c5698cce",
+      "adjuntos": []
+    },
+    {
+      "id": "1442521809420423218",
+      "fecha_utc": "2025-11-24T14:26:40.125000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Kuro:\n\nNo tengo nada que decir. Haz lo que tengas pensado hacer.\n\n**Dice sin sentimientos mientras pone los brazos en horizontal, como si fuera una T**",
+      "mensaje_sha256": "3f2406ccbeaf32c5e428829598f7c25b32462a77bd518a592dd351f74e02020f",
+      "tipo_discord": 19,
+      "referencia": "1442521101942128660",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442521809420423218",
+      "texto_sha256": "cd3e128396144d36692e4dfbadb4773ec5bc5eb36957e24bcfafdac99962b995",
+      "adjuntos": []
+    },
+    {
+      "id": "1442523285995917334",
+      "fecha_utc": "2025-11-24T14:32:32.168000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Thiary: ¿No tienes nada que decir? ¡Prenderle! **Hace un movimiento con la cabeza y los Shinobis te inmoviliza colocandote de rodillas** Has traicionado a tus compañeros, has actuado por tu propia cuenta y por ello ella ha muerto.... **Levanta el arma y dice con algo de tristeza** No eramos grandes amigas, pero sabía manejarse y entender la situación. Era una buena socia... Y ahora por tu culpa mis negocios están en la cuerda floja... ¿Y tu no tienes nada que decir?",
+      "mensaje_sha256": "be779305df757a8b9e17b6c28bf93d26b2545347ebfe391a748b87faa2177788",
+      "tipo_discord": 19,
+      "referencia": "1442521809420423218",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442523285995917334",
+      "texto_sha256": "75f2e56178724b39c2ca217d5ad6ff0b0877546f4fcef48d862d93e45d8d001f",
+      "adjuntos": []
+    },
+    {
+      "id": "1442524252078215370",
+      "fecha_utc": "2025-11-24T14:36:22.500000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": "2025-11-24T14:36:58.787000+00:00",
+      "texto": "Kuro:\n\nVale. Lo he jodido todo. He traicionado a todo el mundo, me he metido en un lugar que no debería, han matado a muchas personas por mi culpa, he perdido a muchos compañeros. Estoy pensando en como arreglarlo y no se cómo hacerlo.\n\n**Dice triste mientras suelta unas pocas lágrimas**",
+      "mensaje_sha256": "96395939c67d1f3712de9745ebc921e6f8c5ed44db90ae9fadb14484cf346754",
+      "tipo_discord": 19,
+      "referencia": "1442523285995917334",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442524252078215370",
+      "texto_sha256": "559f56f15cf7e4feadce7a6cb15bcca4d87456b988f40da36e781b01cd4e560d",
+      "adjuntos": []
+    },
+    {
+      "id": "1442525284380184748",
+      "fecha_utc": "2025-11-24T14:40:28.620000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Thiary: ¿Arreglarlo? ¿Como vas ha hacer eso? Eres un poderoso hechicero capaz de hacer retroceder el tiempo... Me temo que no **Baja el arma** Me pregunto si los cazadores hicieron mal en arrancarte a esa sombra, almenos Osurai tenía claro sus objetivos...",
+      "mensaje_sha256": "78f70f70637a3e3d8c12bf1691c3327fe0e9214e8e293a979cf6bc7e02c7aa87",
+      "tipo_discord": 19,
+      "referencia": "1442524252078215370",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442525284380184748",
+      "texto_sha256": "162487d38b824924c31219b5f1f317f9005f169a08f7e05907e34d6374749de8",
+      "adjuntos": []
+    },
+    {
+      "id": "1442525976021045360",
+      "fecha_utc": "2025-11-24T14:43:13.520000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Kuro:\n\nNo sé cómo hacerlo, Thiary. No lo sé. \n\n**Dice entre lágrimas**",
+      "mensaje_sha256": "fb235b51cbc3779d7cce4c57427e825fa864fef59aa99805872290fa0f1de735",
+      "tipo_discord": 19,
+      "referencia": "1442525284380184748",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442525976021045360",
+      "texto_sha256": "6e45477e90209b7ceab25a3478a6af130f45dbe8ea00327cf3dc7747e1cf6ebd",
+      "adjuntos": []
+    },
+    {
+      "id": "1442527291501445254",
+      "fecha_utc": "2025-11-24T14:48:27.155000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Thiary: ¿Y que tal dejando de hacerte la víctima y disculparte con aquellos a los que has destrozado? **Pone una mueca**¿Discípulo de las Sombras? No me hagas reír... **Te acerca la mano** El anillo",
+      "mensaje_sha256": "bd357ab870d3d813e0f686caf565b0ccc89d10cee7bfc7dde78717b49403fc42",
+      "tipo_discord": 19,
+      "referencia": "1442525976021045360",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442527291501445254",
+      "texto_sha256": "7baf032539524202f75ec82f620b0bcd462582a7dc35fe7f59f4ca680a90f92c",
+      "adjuntos": []
+    },
+    {
+      "id": "1442527922874355807",
+      "fecha_utc": "2025-11-24T14:50:57.686000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Kuro:\n\nEso haré.\n\n**Dice triste mientras se quita el guante, se quita el anillo y se lo entrega**",
+      "mensaje_sha256": "124e1da3c32035d1bc3debbc5e3a62d7724f3e1a246dba90e051c7b1275daf71",
+      "tipo_discord": 19,
+      "referencia": "1442527291501445254",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442527922874355807",
+      "texto_sha256": "df55ca78a52976f5de6df7488cb8bbd045d08b5e7bd7bab73025f4fe65a90c86",
+      "adjuntos": []
+    },
+    {
+      "id": "1442529722750996511",
+      "fecha_utc": "2025-11-24T14:58:06.810000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Thiary: Las mismas palabras que me dijiste a mi cuando te propuse el trabajo... **Te agarra de la barbilla para levantarte la cabeza para que la mires. Su cara es de enfado y rabia** ¿A cuantos les has dicho eso y al final no has hecho nada? Palabras vacías... **Levanta la mano para dar una orden a los Shinobis** No vale la pena ni gastar energía de mis muchachos en matarte... **Te suelta con desprecio y se gira después de coger el anillo** Marchate de mis calles, ninja",
+      "mensaje_sha256": "fcd8e472af8033e6c9f2da9b8f558b297c0245d13a1bd6dfd7ef31e8c5b59d2a",
+      "tipo_discord": 19,
+      "referencia": "1442527922874355807",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442529722750996511",
+      "texto_sha256": "4e02568fa8d54032c851745b692b3d6972d0e07cec2093bf4af17ea3d4e794f4",
+      "adjuntos": []
+    },
+    {
+      "id": "1442530234204422265",
+      "fecha_utc": "2025-11-24T15:00:08.750000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Kuro:\n\n**Se levanta lentamente y se va corriendo a la ciudad, saliendo de los barrios bajos**",
+      "mensaje_sha256": "b824930861f8e5496a3de81b05276ab262cac982a866939e55867389a450ee19",
+      "tipo_discord": 19,
+      "referencia": "1442529722750996511",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1442530234204422265",
+      "texto_sha256": "175e938d0f72771d763d93db2d7d523baf63003a7b71c3100abbe6ba837a1d3a",
+      "adjuntos": []
+    }
+  ]
+}

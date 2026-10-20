@@ -1,0 +1,98 @@
+{
+  "id": "x-1516685883649032414",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1516685883649032414",
+  "hilo_id": "1495828307843747971",
+  "hilo_nombre": "??? - En alguna parte",
+  "titulo": "Una unión impuesta y una grieta aprovechable",
+  "resumen": "Deyvon entra como consorte en los aposentos de Aunfaere y descubre que ella también odia la imposición de su madre.",
+  "relato": "Deyvon entra en los aposentos de Aunfaere como nuevo consorte. El narrador precisa que no hubo ceremonia de boda: las dos matronas decidieron la unión y ninguno pudo negarse. Él reconoce en la sacerdotisa cicatrices de látigo parecidas a las suyas.\n\nLa intimidad que sigue está gobernada por deber y jerarquía, sin gestos de afecto. Cuando el varón intenta dominar la situación, Aunfaere se impone físicamente y declara que en sus aposentos manda ella. Su voz deja ver que también resiente ese matrimonio.\n\nDeyvon percibe que el odio de la mujer apunta a Miz'lin y decide aprovecharlo para recuperar el favor de Brythya. La escena establece convivencia y coerción política, sin reconciliación amorosa ni confianza ya ganada. El descubrimiento del resentimiento es, para el espía, una oportunidad de manipulación.",
+  "participantes": [
+    "Deyvon",
+    "Aunfaere"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1516685883649032414",
+      "afirmacion": "La unión fue decidida por las matronas sin ceremonia ni posibilidad de negarse para los consortes.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1516686014960373760",
+      "afirmacion": "Aunfaere impone autoridad y Deyvon percibe su resentimiento hacia Miz'lin como oportunidad.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Conservar el carácter impuesto y coercitivo; no presentarlo como romance consentido.",
+    "El propósito de aprovechar el odio es información íntima de Deyvon.",
+    "Las generalizaciones sobre la sociedad drow pertenecen a esta narración del mundo ficticio."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-06-17T06:08:13.323000+00:00",
+  "fin_utc": "2026-06-17T06:08:44.630000+00:00",
+  "fecha_local": "2026-06-17",
+  "intervalo": {
+    "anterior": 38,
+    "siguiente": 39,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149383024690/1515976737605816332",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1517589464363434048",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 38,
+        "fecha": "2026-06-15",
+        "inicio_referencia_utc": "2026-06-15T18:00:00+00:00",
+        "fin_estimado_utc": "2026-06-15T20:23:29+00:00",
+        "duracion_video_segundos": 8609,
+        "tipo_referencia": "programacion",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149383024690/1515976737605816332"
+      },
+      {
+        "capitulo": 39,
+        "fecha": "2026-06-19",
+        "inicio_referencia_utc": "2026-06-19T17:58:26+00:00",
+        "fin_estimado_utc": "2026-06-19T20:14:22+00:00",
+        "duracion_video_segundos": 8156,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1517589464363434048"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida."
+  },
+  "fuentes": [
+    {
+      "id": "1516685883649032414",
+      "fecha_utc": "2026-06-17T06:08:13.323000+00:00",
+      "fecha_local": "2026-06-17",
+      "editado_utc": null,
+      "texto": "**Deyvon entró en los aposentos de su nueva consorte, la sacerdotisa Aunfaere. No había habido boda; aquello era una ceremonia absurda para los drows. Las sacerdotisas de Lolth simplemente tomaban lo que querían y los hombres no tenían ni voz ni voto en ello. Aunfaere no había elegido a Deyvon, pero sí lo habían hecho su madre, la Matrona Miz'lin, y la Madre Matrona Brythya Unthuar. Así que ella, al igual que el varón, tampoco había tenido oportunidad de negarse. La elfa empezó a desnudarse poco a poco y Deyvon pudo contemplar la figura de la sacerdotisa. Su piel conservaba la juventud propia de alguien que no debía de tener más de setenta años que él. Sin embargo, el joven drow vio algo más en aquel cuerpo. Cicatrices de látigo. Muy parecidas a las que él también llevaba marcadas en la piel.**\n\nAunfaere: ¿Vas a desnudarte o quieres que te obligue? **Preguntó la mujer mientras se recostaba sobre la cama, completamente desnuda.**",
+      "mensaje_sha256": "1c5013c93f28d6c36bdc5b627aa44b2cc9772685aa069357cde5408651117481",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1516685883649032414",
+      "texto_sha256": "d34b9ef8ba566cb2c1ded32e37906035e8b357ed229ad385fcf0bf117164ccef",
+      "adjuntos": []
+    },
+    {
+      "id": "1516686014960373760",
+      "fecha_utc": "2026-06-17T06:08:44.630000+00:00",
+      "fecha_local": "2026-06-17",
+      "editado_utc": "2026-06-17T06:08:57.086000+00:00",
+      "texto": "Deyvon: Sí... como guste, mi señora. **Respondió el pícaro, volviendo en sí. A pesar de aquellas cicatrices, la joven Aunfaere era una belleza incluso para los estándares drow. El drow se desnudó y se metió en la cama junto a la mujer. No hubo besos, ni caricias, ni susurros. En el idioma drow no existía espacio para la palabra \"amor\". Deyvon se colocó sobre ella de manera instintiva, como había hecho en más de una ocasión con alguna acólita de su casa que le había llamado la atención, dispuesto a dejar claro que era él quien dominaba la situación. Pero el joven drow olvidaba un detalle importante. Aunfaere no era una simple acólita. Era una sacerdotisa de Lolth. Una noble. La segunda hija de la Tercera Casa de Ches Farak. La mujer mostró los dientes cuando él se colocó encima y, con un movimiento rápido y brusco, lo agarró y lo hizo rodar sobre el colchón hasta invertir las posiciones. Ahora era ella quien estaba encima. Las sacerdotisas de Lolth no eran simples clérigas que predicaban la palabra de su diosa. En la academia eran entrenadas en el arte de la guerra y, además, la mayoría eran más fuertes y corpulentas que los varones. Aquello les otorgaba una ventaja evidente cuando decidían imponerse.**\n\nAunfaere: No te confundas, varón. **Dijo la sacerdotisa una vez quedó sobre él.** Puede que aún no tenga el control de mi casa, pero en mis aposentos mando yo. ¿Lo has entendido? **La voz de la mujer temblaba ligeramente. Era evidente que resentía aquel \"matrimonio\" y que, al igual que Deyvon, jamás había tenido la oportunidad de negarse. Pero había algo más. Algo que el pícaro percibió de inmediato. Resentimiento. Odio. No hacia él. Hacia su madre, la Matrona Miz'lin. Y aquello era algo de lo que Deyvon Unthuar se dio cuenta al instante. Algo que pensaba aprovechar para recuperar la confianza de su propia madre.**\n\n🔴Fin de la escena 🔴",
+      "mensaje_sha256": "db438a2387e802a737f9e70045d4a6b34ad125dda99f4a6b921db4356495475c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1495828307843747971/1516686014960373760",
+      "texto_sha256": "b60d551ecafb98ae92d63163ae75472904f8d6cafd02c27351942d3a061342c2",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "id": "x-1525484008106889297",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1525484008106889297",
+  "hilo_id": "1524091803647741996",
+  "hilo_nombre": "Jungla - En alguna parte de Xoltacán",
+  "titulo": "La tripulación sostiene a su capitana",
+  "resumen": "Ilikar y Poncelot organizan el campamento mientras comparten el dolor por Nox.",
+  "relato": "Ione se derrumba junto al timón y pierde la forma bestial. Ilikar la cubre con cuero, la anima a permitirse tristeza y ofrece guiar a la tripulación hasta que pueda retomar el mando. Poncelot decide ayudar sin invadirla, atiende a los marineros y organiza el desembarco para levantar un campamento. Jacky se culpa en voz baja y después se nota su ausencia.\n\nMientras transportan material, el goliat invita al gnomo a llorar y ambos admiten que sienten no haber hecho suficiente. Ilikar se presenta como miembro de Thuun-Khaz y promete no perder otro aliado. Poncelot recuerda que, de niño bajo tierra, las historias de Banzo avivaron su deseo de aventuras. Es su testimonio, sin trasladar automáticamente evidencias de otra campaña.\n\nPara alimentar y animar a los supervivientes, Ilikar ofrece treinta monedas por la presa mayor. Dos trillizos y Babs parten a cazar; Mugre, Ojoausente y el hermano sordo preparan la cena. No se decide el ganador de la apuesta.",
+  "participantes": [
+    "Ione",
+    "Ilikar",
+    "Sir Poncelot",
+    "Jacky Jackson",
+    "Tripulación del Zampaolas"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1525494910483173577",
+      "afirmacion": "Ilikar cubre y consuela a Ione.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1525572817691607123",
+      "afirmacion": "Se presenta como Ilikar de Thuun-Khaz y reafirma su apoyo.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1525603562732916766",
+      "afirmacion": "Poncelot cuenta que Banzo lo inspiró de niño.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1525618405246373949",
+      "afirmacion": "La tripulación colabora en la comida y se advierte que Jacky falta.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Leídas las cuatro partes completas y vistas las imágenes de Citlali rejuvenecida y SúperZippo.",
+    "La barca contiene trenzas y tributos; no se recupera ni se entierra el cadáver de Nox.",
+    "Mirlín se vincula con Nox por las trenzas reconocidas y la explicación de sus engaños, sin desplegar una biografía nueva.",
+    "Citlali se llama madre y describe un rescate y adopción, sin afirmar vínculo biológico. Amaru es el nombre que le dio; Molly usa Jim para el mismo hombre en la pregunta posterior.",
+    "El mecanismo de sangre y llave es explicación de Citlali. Ya se han narrado heridas y sangrado: no inventar un umbral o clase de sangre que concilie la formulación literal.",
+    "La zona de la verdad se conjura, pero no se narra aceptación o efecto individual; no eleva automáticamente todo testimonio a hecho probado.",
+    "La Batida Salvaje es teoría de Poncelot basada en sus libros; Titánia es su clasificación errónea de Citlali.",
+    "La acusación de abandono y la culpa de los supervivientes no demuestran responsabilidad causal en la muerte.",
+    "Los gruñidos de Luna en forma de osa no son comprendidos como palabras por el grupo.",
+    "La silueta y el sonar son una coda del narrador, sin conocimiento de los viajeros ni identificación del vehículo."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-07-11T12:48:49.655000+00:00",
+  "fin_utc": "2026-07-11T21:42:52.430000+00:00",
+  "fecha_local": "2026-07-11",
+  "intervalo": {
+    "anterior": 43,
+    "siguiente": 44,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1525209204300841101",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527010759236653109",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 43,
+        "fecha": "2026-07-10",
+        "inicio_referencia_utc": "2026-07-10T18:35:33+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1525209204300841101"
+      },
+      {
+        "capitulo": 44,
+        "fecha": "2026-07-15",
+        "inicio_referencia_utc": "2026-07-15T17:55:09+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527010759236653109"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1525484008106889297",
+      "fecha_utc": "2026-07-11T12:48:49.655000+00:00",
+      "fecha_local": "2026-07-11",
+      "editado_utc": null,
+      "texto": "Ione: **Mantiene aun agarrado el timon... Sus garras se aferran aun al timon haciendo crujir la madera... Sus rastas mojadas por el salitre caen sobre su rostro tapandola los ojos... Se mantiene en silencio como una estatua... Hasta que todo se derrumba... Sus brazos tiemblan y sus rodillas ceden... Un llanto grutural rompe el silencio para despues convertirse en un lloro... Esa forma bestial desaparece y solo queda la piel desnuda de Ione... Sus hombros temblando por el llanto... Las lagrimas recorriendo su rostro para terminar sobre las tablas de la cubierta...**",
+      "mensaje_sha256": "0cce54f79c081a9510c0fb99e95157c5a75899f5ea7916244cdf36c728fa5faf",
+      "tipo_discord": 19,
+      "referencia": "1525042844560003125",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525484008106889297",
+      "texto_sha256": "5186016bba7aa074b45476d7c048e3eed1294d6fe10f140ded0d28522a79e6bb",
+      "adjuntos": []
+    },
+    {
+      "id": "1525484139229220997",
+      "fecha_utc": "2026-07-11T12:49:20.917000+00:00",
+      "fecha_local": "2026-07-11",
+      "editado_utc": null,
+      "texto": "<@220602485977382912> <@210947008716996609>",
+      "mensaje_sha256": "2e2f79be0a08ba2851878116af0fe03fa437a9215b210702835e35852a5a471e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525484139229220997",
+      "texto_sha256": "df0feafd0bcfff4bc02d48c2127f201109287343c5d07280f425ad63b17bfdcb",
+      "adjuntos": []
+    },
+    {
+      "id": "1525494910483173577",
+      "fecha_utc": "2026-07-11T13:32:08.984000+00:00",
+      "fecha_local": "2026-07-11",
+      "editado_utc": "2026-07-11T13:35:51.101000+00:00",
+      "texto": "**Ilikar está apoyado en uno de los cañones, mirando con nostalgia hacia tierra firme. En su mente se juntan las dudas sobre qué será de ellos y cuánto cambiará todo a partir de ahora, cargando con el doloroso recuerdo de aquel hombre que se sacrificó en batalla.**\n\n*​Ilikar podía ayudar, pero Ilikar solo pensó en destruir barco.* - **ronda por su cabeza la culpa mientras se le ve enfadarse**\n\n**​Con el peso de ese pensamiento, gira su cara hacia la capitana.**\n\n​Ilikar: Capi...\n\n**Se detiene en seco. Ver a Ione así, arrodillada, desnuda, vulnerable y frágil ante los ojos del mundo... Le da un vuelco al corazón, pero no hay espacio para la duda. Con paso firme pero silencioso, se acerca a ella.**\n\n** Sostiene entre sus manos la lona de cuero que traía consigo y, deslizándose a su espalda con cuidado, la cubre, protegiéndola del frío y de las miradas del resto.\nSin romper el silencio, se pone en cuclillas frente a ella. Su mano, enorme y marcada por las quemaduras de la cadena, se mueve con una delicadeza sencilla para tomar su barbilla y elevar su rostro, obligándola a mirarlo a los ojos. Quiere que ella vea la devoción y la fe de su amigo.**\n\nIlikar: Ione... Ilikar sabe qué pasa por tu cabeza. - **dice, posando por un segundo su mano cerca del corazón de ella - **Está bien estar triste. Eso dice que Ione tiene corazón gigante... Pero tormenta siempre pasa, capitana. Debes seguir. Debes ser fuerte...** - Mira de reojo al resto de la tripulación, que deambula por la cubierta como almas en pena, apagados y rotos.** \n\nIlikar: Debes ser fuerte por ellos... por ese valiente hombre que descansa en cielo... y por ti. Tripulación necesita luz en la oscuridad, Ione. Tú debes ser esa luz. Si tú caminas, Ilikar camina detrás de ti, siempre. Aunque el mar se trague el mundo, Ilikar no te dejará caer. Tú eres esperanza de nosotros...\n\n**Ilikar se pone en pié, mirando hacia tierra y sin temblarle la voz, completamente dispuesto, se pronuncia**\n\nIlikar: Si aun así, dolor de corazón es fuerte, Ilikar está aqui. Si necesitas tiempo para sanar, Ilikar guiará a tripulación y dará esperanza, hasta que Ione crea estar lista.",
+      "mensaje_sha256": "f7cff730e201c568f93b0c64a44d56ae59c753078e45f4ced25451f9b6d715ba",
+      "tipo_discord": 19,
+      "referencia": "1525484008106889297",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525494910483173577",
+      "texto_sha256": "a7cbf4e31e87c719789d78c6071b3872a757cdd08a8d0e025ca44c0d4bdc98e4",
+      "adjuntos": []
+    },
+    {
+      "id": "1525502042431291574",
+      "fecha_utc": "2026-07-11T14:00:29.373000+00:00",
+      "fecha_local": "2026-07-11",
+      "editado_utc": "2026-07-11T15:30:04.516000+00:00",
+      "texto": "Sir Poncelot \n\n**El gnomo estaba sentado sobre una gran caja en cubierta. Su mirada se perdía en dirección de donde venían: el mar donde se produjo la batalla y vió como su amigo y hermano de armas desapareció en una explosión con la intención de salvar el día.\n\nSus pensamientos se rompieron cuando Merlucilla le dió un golpecito con el morro. Sir Poncelot miró a su fiel montura y le abrazó su enorme testa**\n\n- has luchado bien mi amado corcel. Gracias por cubrirme las espaldas en esta cruenta batalla... Merced un descanso... Cuando bajemos de la fortaleza cuidaré de ti como mereces\n\n**El caballero mira a los ojos al tigre**\n\n- creo que este caballero de pacotilla debe tomar tú ejemplo querido equino... Debo apoyar a la capitana. Es la persona que más sufrirá por todos estos acontecimientos. Tengo que ser su mayor apoyo en estos momentos. Como compañero y amigo.\n\n**Sir Poncelot baja de la caja y busca con la mirada a la pirata hasta que ve la escena: Ione en el suelo sollozando y el goliath atendiendola**\n\n*Es probable que ahora mismo no me necesite. Una herida con demasiadas vendas no sana bien. Dejemos al Golem de hielo cuidar de ella por ahora...*\n\n**El pequeño caballero se frotó la cara. Cara que no podía esconder toda la tristeza que sentía. El gnomo estaba loco, pero estar loco no significa que no seas consciente de las tragedias. Se dirigió uno a uno a los integrantes de la tripulación para ver cómo se encontraban y darles indicaciones a los que estaban en condiciones de desembarcar y preparar un campamento provisional para atender a los heridos y reagruparse.\n\nAntes de comenzar con el desembarco echó una última mirada a la pirata, y el peso de la tristeza que ya notaba creció un poco más**",
+      "mensaje_sha256": "276c23c554e8db90ed8bec68c7f75fda617528683d5547596272486ee042a0fc",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525502042431291574",
+      "texto_sha256": "f8f43720ef4de03cfe4cc9c46296beccf24ace4be8105ad9e26b904064b53fd9",
+      "adjuntos": []
+    },
+    {
+      "id": "1525503804613726290",
+      "fecha_utc": "2026-07-11T14:07:29.510000+00:00",
+      "fecha_local": "2026-07-11",
+      "editado_utc": null,
+      "texto": "La Tripulación del Zampaolas: **Los  Trillizos, Mugre, Ojoausente, Babs estaban devastadors. Observaba el horizonte, hacia el lugar que había tenido el sacrificio, con la cabeza gacha y sus pañuelos y sombreros fuera de sus cabezas, junto a su pecho en señal de respeto.**\n\nJakie: **El pobre ex-soldado de la Marina, que ahora era todo un pirata, se encontraba apartado de la tripulación. Con los ojos llenos de lágrimas y las manos sobre la cabeza, lloraba desconsoladamente susurrando unas palabras** *Es culpa mía... Es culpa mía... Es culpa mía...*",
+      "mensaje_sha256": "8f41b729c6b2459709630661546eb8e3742583dc06ff0c1fa54415122538f4e9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525503804613726290",
+      "texto_sha256": "8ce645059ff5a044fe3c9df74d50cb0ad564664e0f26e71980a715d2f29b0a11",
+      "adjuntos": []
+    },
+    {
+      "id": "1525539123920769044",
+      "fecha_utc": "2026-07-11T16:27:50.289000+00:00",
+      "fecha_local": "2026-07-11",
+      "editado_utc": "2026-07-11T16:31:35.413000+00:00",
+      "texto": "**Ilikar al ver que la capitana sigue en silencio, la recoloca con suavidad en el timón**\n\nIlikar: Estar mucho tiempo de rodillas duele, capitana. Aun recuerda Ilikar cuando padre castigaba de rodillas con piedras debajo, por robar en tribu. Tambien castigaba colgando a Ilikar de abismo... Castigo favorito de Ilikar era bañar en lago helado, Ilikar disfruta de baño, ¡Ah! Cuando en noch... - **Ilikar pausa su cháchara** - *mejor callar* \n\nIlikar: Bien, ¡hay trabajo que hacer! - **dice Ilikar mientras baja las escaleras y se dirije a Proa** <@220602485977382912>",
+      "mensaje_sha256": "f85a5206ee935e44ed5ce35010fadefb5f6d02ba9af9af8614f5e04bd0a601c7",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525539123920769044",
+      "texto_sha256": "7b39d26962fbe04c53ba134b3a6c1e6ed8efa6edf4312f2280227a4a9ca59581",
+      "adjuntos": []
+    },
+    {
+      "id": "1525544355383738389",
+      "fecha_utc": "2026-07-11T16:48:37.567000+00:00",
+      "fecha_local": "2026-07-11",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**El caballero cargaba telas y maderos, mientras tiraba de las riendas de Merlucilla que llevaba en su lomo ms material**\n\n- joven de hielo, me alegra ver su figura de una pieza. Me ha maravillado su combate de hoy. Tiene mis respetos como compañero de armas\n\n**Mira a la capitana para luego volver a mirar al goliath**\n\n- como se encuentra lady Ione? Quería acercarme para ofrecerle mi humilde hombro y alguna palabra consoladora. Pero vos ya habéis cumplido ese papel... Ni me imagino la herida que debe estar sufriendo por dentro ahora mismo...\n\n**Pega un tirón de las riendas del tigre y comienza a desembarcar**\n\n- seria de agradecer que cargara suministros y material. Pretendo montar un campamento provisional para atender a los heridos y poder reagruparnos... Dios sabe que necesitamos levantar cabeza cuanto antes...\n\n**El tono del gnomo era serio y apesadumbrado. No quedaba casi nada del caballero vivaz y enérgico de siempre**",
+      "mensaje_sha256": "67d2842f1f2d62343e660bf717623fb61c73389c99eb479361fdd7fa207be95b",
+      "tipo_discord": 19,
+      "referencia": "1525539123920769044",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525544355383738389",
+      "texto_sha256": "13334a1011b1f6b397161c0ffbeb7984c2f1f2bebf447e286adaae6699a13b0a",
+      "adjuntos": []
+    },
+    {
+      "id": "1525548649348862152",
+      "fecha_utc": "2026-07-11T17:05:41.328000+00:00",
+      "fecha_local": "2026-07-11",
+      "editado_utc": null,
+      "texto": "**El goliath mira al pequeño caballero con orgullo**\n\nIlikar: Es cierto las historias de Sir Poncelot. Eres gran guerrero, ha sido honor luchar mano a mano contigo. - **dice mientras recoje varias cajas y las sube a su hombro**\n\n**Ilikar acompaña a Sir Poncelot por la rampa a dejar varias cajas. Al dejarlas en tierra, antes de que Sir Poncelot vuelva a por mas material, nota una voz seria y potente a su espalda**\n\n**El goliath ha podido ver através de la armadura del gnomo. Cuanto mas raudo es un guerrero, más fácil es ver através de su cuerpo. Ilikar sabe esto de primera mano. Esa capa de orgullo y plena confianza que llevan ambos, oculta un frágil corazón.**\n\nIlikar: ¡Joven caballero! ¡No temas a mostrar tristeza! ¿¡Crees que Ilikar va a burlarse de algo así!? ¡Hoy has demostrado grandeza, no solo en combate, fuera de el tambien! Quizás Ilikar no conocia al señor Nox, y no es capaz de sentir tristeza tuya y de resto de tripulación - **dice mientras se gira con orgullo mirando al resto** - ¡Pero una cosa sabe Ilikar, ese hombre fue valiente y murió con el máximo honor. Esta bien llorar su muerte, pero a partir de aquí, hay que honrarlo superando sus expectativas, demostrar que tenia razón en confiar en vosotros!\n\n**Ilikar mira a la jungla sonriendo**\n\nIlikar: Dentro de infierno verde espera un nuevo hogar. !Esta noche beberemos, celebraremos victoria y le debemos dar un entierro digno al compañero caido en batalla! - **baja la voz para que solo le escuchen los que estan cerca** - Capitana necesita de nosotros más que nunca, y nosotros necesitamos de capitana. - **vuelve a elevar su volumen mientras mira y extiende la mano al cielo** - ¡Futuro de tripulacion de Zampaolas esta en nuestra mano ahora camaradas!",
+      "mensaje_sha256": "c9503f57812e30530fd1038f2c7595301f5b3808c14fa4d39185e1a1b72b1ed8",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525548649348862152",
+      "texto_sha256": "ebbd9ae6f7e0ebcfa7766e62f4396ca51be5941c0569148bf564fdeb27343bf7",
+      "adjuntos": []
+    },
+    {
+      "id": "1525564081262825522",
+      "fecha_utc": "2026-07-11T18:07:00.583000+00:00",
+      "fecha_local": "2026-07-11",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**El gnomo escucha las palabras de goliath y se para en seco sin darse la vuelta. Agacha un poco la cabeza y aprieta los puños haciendo que el pequeño caballero tiemble un poco**\n\n- amables palabras me dedica joven. Pero el deber de un caballero es proteger de cualquier mal a quien sea que lo necesite... Y he fracasado al no poder proteger al joven escudero Nox... Y ese hecho me aflige. Me perfora el pecho como una lanza. El dolor es insoportable. El hombre dentro de esta armadura quiere revolcarse en el suelo y gritar. Pero el caballero que soy tiene un deber que cumplir. Y ese deber conlleva protegeros a todos, y ahora mismo quien más me necesita es lady Ione. Y hasta que lady Ione no vuelva a sonreír... Este fracaso de caballero no puede permitirse llorar...\n\n**En ese momento el gnomo se gira a ilikar mostrando su rostro. Tiene la cara deformada debido al esfuerzo que hace por soportar las lágrimas. Forzando una sonrisa antinatural. Un pequeño moquillo asomando por la nariz. Y unas lágrimas del tamaño de canicas luchando por brotar de sus ojos**",
+      "mensaje_sha256": "7c6eb376e39c68ca613a468701bfc6543aca923b25ee84e139b1c49293695cd3",
+      "tipo_discord": 19,
+      "referencia": "1525548649348862152",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525564081262825522",
+      "texto_sha256": "68a90c3a6dd3dd63a0328c1e0fbfdf05d4aee5002d77b48e791a9da2ee49eaad",
+      "adjuntos": []
+    },
+    {
+      "id": "1525572817691607123",
+      "fecha_utc": "2026-07-11T18:41:43.510000+00:00",
+      "fecha_local": "2026-07-11",
+      "editado_utc": null,
+      "texto": "**Ilikar se acerca a Sir Poncelot, y le mira con admiración. Coloca su mano en el hombro de Sir Poncelot**\n\nIlikar: Deja salir lo que necesites joven caballero. Ilikar tambien siente que pudo haber echo más, pero una vez mi padre me dijo unas palabras. No es derrotado quien pierde una batalla, sino el que renuncia a librar la siguiente. \n\n**Ilikar se acerca a Sir Poncelot y con su brazo lo arropa, dandole un breve abrazo** - Mira al futuro con orgullo, Sir Poncelot. A partir de ahora lo que nos queda, es ser más fuertes y en la próxima batalla, yo Ilikar de Thuun-Khaz, juro en nombre de mi tribu que no perderé, ni veré como muere otro aliado.\n\n**Ilikar, con sus palabras, intenta avivar de nuevo la llama de Sir Poncelot, se aleja de el y le mira con los ojos llenos de orgullo, como cuando aquel dia su padre, aun con el brazo arrancado, no paraba de inspirar al joven Ilikar.**\n\nIlikar: Ilikar tiene una idea. Terminemos de desembarcar y cuando la capitana vuelva, la haremos sentir orgullosa de nosotros. Su corazón será el que haga el resto del trabajo.",
+      "mensaje_sha256": "bc4f0fca489ef7c17110314fb88212b7094ae2eab97d2ee2bc9c02884a3591c6",
+      "tipo_discord": 19,
+      "referencia": "1525564081262825522",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525572817691607123",
+      "texto_sha256": "ea8a36e853a210b1f905592be33b3a2cbde1e7a2845a06a60f6ecc6909bc4911",
+      "adjuntos": []
+    },
+    {
+      "id": "1525596536849956884",
+      "fecha_utc": "2026-07-11T20:15:58.598000+00:00",
+      "fecha_local": "2026-07-11",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Las palabras del goliath fueron como una palmada en la espalda. Aunque leve, aligeraron un poco la presión que sentia. Cuando volvió en si sacudió la cabeza y se dió dos palmadas en la cara**\n\n*Diantres! Si que soy un caballero de pacotilla!*\n\n**Acto seguido siguió a toda aprisa a ilikar hasta ponerse a su altura para seguir descargando junto a el**\n\n- tienes mi más sincera gratitud por tu apoyo criatura de hielo. Por un segundo mi corazón ha flaqueado, pero gracias a tus sinceras palabras respiro un poco mejor...\n\n**Mientras caminan, el gnomo lo mira fijamente desde abajo**\n\n- sabes? Extrañamente tú presencia y dialéctica me han traído a la mente a un bien amigo que tuve en mis tiempos infantes. Aunque suene curioso también compartía una envergadura similar a la tuya. Y contrastando con ello, sus palabras eran amables y llenas de empatía. Os parecéis...",
+      "mensaje_sha256": "01e34cf3c0bbb2e66956dcb7d36092bf8d64a44a0ed4f6e4fc4cd0a10aa35e16",
+      "tipo_discord": 19,
+      "referencia": "1525572817691607123",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525596536849956884",
+      "texto_sha256": "d32a9f5ca4eaf8315dbb866f744720fdf61e4420321662d33c738c9084713857",
+      "adjuntos": []
+    },
+    {
+      "id": "1525600596525060166",
+      "fecha_utc": "2026-07-11T20:32:06.500000+00:00",
+      "fecha_local": "2026-07-11",
+      "editado_utc": null,
+      "texto": "**El gran goliath acompaña a Sir Poncelot en su rutina, de subir, bajar cajas y volver a subir, mientras sigue la conversación sin parar de sonreir e intentar animar al pequeño**\n\nIlikar: ¿Ah si? Cuentame mas de el... Es cierto, Ilikar no conoce a Sir Poncelot, podrias hablarle a Ilikar de tus aventuras por las noches. Es más, ahora debemos empezar a entrenar, deberiamos entrenar juntos, tengo un amigo donde vamos, sabio señor Tortas. El nos entrena, Sir Poncelot nos cuenta sus aventuras y Ilikar trae cerveza y comida, seria increible plan.\n\nPero dime, Sir Poncelot, sobre tus amistades.",
+      "mensaje_sha256": "b00c772b8bd48cde84303deca7a1dcc6b6aea322d9fd18b4061d87bcfcb2d118",
+      "tipo_discord": 19,
+      "referencia": "1525596536849956884",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525600596525060166",
+      "texto_sha256": "ecbeaaa8d6e72391c1572f295f8da030b7f48fc4593541ab67ec91b8ca771bc3",
+      "adjuntos": []
+    },
+    {
+      "id": "1525603562732916766",
+      "fecha_utc": "2026-07-11T20:43:53.699000+00:00",
+      "fecha_local": "2026-07-11",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**Parece que la conversación con el goliath hace que la mente del gnomo se calme un poco**\n\n- créame jov n roca helada, que esa idea suya es un gran plan nocturno. Y en cuanto a mis aventuras y desventuras podrían tenerte noche y noches en vela. Me atrevería a decir sin miedo a equivocarme que algún bardo podría escribir un libro con ellas...\n\n**El caballero mira hacia arriba, al cielo**\n\n- mi amigo... Como bien he comentado era grande como una montaña. Con la piel ilustrada como si un pintor intentara contar una magnífica historia. A pesar de su imponente y aterrador aspecto, su voz era amable y dialogar con el cuando podía era lo mejor que este gnomo podía hacer en sus soporosos días bajo tierra... Yo únicamente era un infante con cuatro pelos mal colocados en la barbilla que soñaba con vivir aventuras como los héroes que salvaron mi ciudad hace mucho y emular a los guerreros y aventureros de mis libros era mi juego preferido. Ese gran hombre me contó muchas historias sobre la superficie. Y no hizo si no avivar aun más mis deseos de aventura. Podría decir sin temor que mi amigo Banzo fue participe, seguro que sin planearlo, de que ese pequeño gnomo soñador se convirtiera en el caballero que es hoy...",
+      "mensaje_sha256": "1b47f09faac458fd7c8c1ef542c77c0e36d5420bbd05933f526233696f14c109",
+      "tipo_discord": 19,
+      "referencia": "1525600596525060166",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525603562732916766",
+      "texto_sha256": "5ceb16c7378edf79800791e78b17c4ba94c7040ec3cfd6b584936201e826bc81",
+      "adjuntos": []
+    },
+    {
+      "id": "1525616985189253221",
+      "fecha_utc": "2026-07-11T21:37:13.862000+00:00",
+      "fecha_local": "2026-07-11",
+      "editado_utc": "2026-07-11T21:39:58.967000+00:00",
+      "texto": "Ilikar: Seguro fue así. Igual que el inspiró al pequeño Poncelot, ahora toca a ti, caballero. Ese amigo tuyo, parecia poderoso y fuerte. Si algun dia Ilikar le ve, seguro acepta un combate.\n\n**Ilikar termina de bajar los 4 últimos barriles del barco, y con la tarde en su punto más alto, piensa que ya es hora de ir buscando una comida digna de esta noche**\n\n**Ilikar se dirige a los demás, retándolos** - ¡Jovenes piratas, esta noche debemos darnos la recompensa y crear un gran banquete para honrar a vuestro amigo! Compitamos como guerreros, a ver quien trae la mejor presa para esta noche!\n\nIlikar: ¡Yo, Ilikar de Thuun-Khaz, pongo 30 monedas de oro para el que traiga la presa más grande! ¡Y prometo que esta noche beberéis el mejor líquido de esta tierra! !Un brebaje que entrará por vuestra boca como un puñetazo tras robar un beso, bajará por vuestra garganta como una caricia y calentará vuestro pecho como una mujer bien dotada!\n\n**Ilikar sabe que esa cerveza es una delicia, sobretodo si la deja enfriar entre las rocas, pero aún así, sigue siendo cerveza, cerveza común y corriente. Esta noche descubrirán que tras una dura batalla, todo sabe mejor, todo se siente mejor y no hay mejor manera de despedir a un camarada, como haciendo una fiesta en su honor**\n\n**Ilikar vuelve su mirada a Sir Poncelot, desafiándolo y sonriéndole sabiendo que tienen algo pendiente**\n\nIlikar: Sir Poncelot, nuestra batalla fue un desastre y olvidé contar cuantas cabezas corté, pero creo que fueron más de mil soldados, y cientos de barcos...\n\nPero da igual, decidamos ahora, el que traiga la presa mas grande, gana. <@214405113677217793>",
+      "mensaje_sha256": "5ba804871b2239b91959bc09b2676acfa7af5357fe23c7265f61e2cda18a259c",
+      "tipo_discord": 19,
+      "referencia": "1525603562732916766",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525616985189253221",
+      "texto_sha256": "da9a643de8fe98ab494ad34035d693262095bad1e2d9b4513033d5311fc45d27",
+      "adjuntos": []
+    },
+    {
+      "id": "1525618405246373949",
+      "fecha_utc": "2026-07-11T21:42:52.430000+00:00",
+      "fecha_local": "2026-07-11",
+      "editado_utc": null,
+      "texto": "Tripulación del Zampaolas: **La tripulación te mira. No dicen nada pero muestran una pequeña sonrisa. Saben lo que pretendes hacer en estos dificiles momentos, así que un par de los trillizos y Babs, bajan a la playa para dirigirse a la jungla a buscar alguna presa de comer. Mugre, Ojoausente y el trillizo sordo, se quedan en el barco ayudando a prepararlo todo para la cena.**\n**Pero, ahora que te fijas, falta alguien más... ¿Dónde esta Jacke Jackson?** <@616683133374562304>",
+      "mensaje_sha256": "8065dd47611fb01b1d70c1758e6618c18a17def11ee9fea442c10652b3b6fb73",
+      "tipo_discord": 19,
+      "referencia": "1525616985189253221",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525618405246373949",
+      "texto_sha256": "c1ff71d5318e491d845cad98c9597edd8d27321614498242b380fc3716a15e12",
+      "adjuntos": []
+    }
+  ]
+}

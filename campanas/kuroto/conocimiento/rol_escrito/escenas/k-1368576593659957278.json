@@ -1,0 +1,91 @@
+{
+  "id": "k-1368576593659957278",
+  "campana": "kuroto",
+  "unidad_revision": "k-1368576593659957278",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "Kurobane vuelve solo al refugio",
+  "resumen": "Kurobane regresa a su base secreta y duda en silencio sobre su futuro con el grupo.",
+  "relato": "Kurobane vuelve al sur y se sienta un momento en el primer escalón de su refugio. Después entra, cierra la puerta y se aproxima al balcón. Para sí expresa arrepentimiento y se pregunta si debe continuar ayudando a los demás o seguir solo. No habla con otro personaje ni toma todavía una decisión; el cierre explícito deja esta breve pausa de soledad como consecuencia emocional del incidente anterior.",
+  "participantes": [
+    "Kurobane"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1368576593659957278",
+      "afirmacion": "Kurobane se pregunta en privado si continuar ayudando al grupo o actuar solo.",
+      "tipo": "pensamiento"
+    }
+  ],
+  "notas": [
+    "Los demás personajes no conocen automáticamente esta duda privada.",
+    "Escena mínima sin resolución de la decisión, cerrada expresamente por su participante."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-04T13:14:46.852000+00:00",
+  "fin_utc": "2025-05-04T14:56:00.038000+00:00",
+  "fecha_local": "2025-05-04",
+  "intervalo": {
+    "anterior": 111,
+    "siguiente": 112,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1369742246882054214",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 111,
+        "fecha": "2025-05-01",
+        "inicio_referencia_utc": "2025-05-01T18:30:18+00:00",
+        "fin_estimado_utc": "2025-05-01T21:17:50+00:00",
+        "duracion_video_segundos": 10052,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983"
+      },
+      {
+        "capitulo": 112,
+        "fecha": "2025-05-07",
+        "inicio_referencia_utc": "2025-05-07T18:26:24+00:00",
+        "fin_estimado_utc": "2025-05-07T21:22:03+00:00",
+        "duracion_video_segundos": 10539,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1369742246882054214"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1368576593659957278",
+      "fecha_utc": "2025-05-04T13:14:46.852000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": "2025-05-04T14:56:09.320000+00:00",
+      "texto": "Kurobane:\n\n**Vuelve al sur, vuelve a la base secreta, se sienta en el primer escalón**\n\n*Lo siento mucho*\n\n**Piensa mientras sube a la base**\n\n*Ahora qué debo hacer? Seguir ayudando o seguir yo solo?*\n\n**Piensa mientras cierra la puerta detrás de él y se acerca lentamente al balcón**",
+      "mensaje_sha256": "aee77462c2dac61ba7a3ef458524a9aa30dac90bda5f8baa320ab2fac10d2897",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1368576593659957278",
+      "texto_sha256": "e389297253f4a3fe2266078763eafb22677b7622fb804c202e25363d87ae7a02",
+      "adjuntos": []
+    },
+    {
+      "id": "1368602066448158814",
+      "fecha_utc": "2025-05-04T14:56:00.038000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "🔴 **Fin de escena** 🔴",
+      "mensaje_sha256": "622b009d3e77063741adf27e00319f087d649d2f1eabd6b2752980035e2f767f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1368602066448158814",
+      "texto_sha256": "01f60a608407a9976ecfd6c172368754c52b5008ed5ce58d0995b8d735a8961d",
+      "adjuntos": []
+    }
+  ]
+}

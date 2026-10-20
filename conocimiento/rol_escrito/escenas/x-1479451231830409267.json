@@ -1,0 +1,102 @@
+{
+  "id": "x-1479451231830409267",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1479371105306279997",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "Bling observa el Ron de Bonny",
+  "resumen": "La hada busca una forma de recuperar su mondadientes de Picks.",
+  "relato": "Bling anuncia que necesita una bolsa y sale a hacer unas cosas, pero cambia el rumbo hacia el Ron de Bonny. Desde el tejado observa por un agujero de bala a la dueña y sus secuaces. Imita los gestos de Bonny y trata de sondear pensamientos superficiales de los presentes; no obtiene un secreto concreto que pueda darse por descubierto.\n\nLa hada se concentra en Picks porque le dijeron que el mono tiene su mondadientes. Durante la vigilancia ve a Bonny amenazar y extorsionar a varios, incluido Patata. Decide que no puede pedir el objeto con las manos vacías y luego alcanza a Nox e Ione para acompañarlos. La observación y sus planes quedan privados, sin recuperación del mondadientes.",
+  "participantes": [
+    "Bling",
+    "Happy Bonny",
+    "Picks",
+    "Patata"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1479451231830409267",
+      "afirmacion": "Bling vigila el Ron de Bonny y busca el mondadientes que cree en poder de Picks.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1479512805093802075",
+      "afirmacion": "Bling observa extorsiones, incluida la de Patata, y decide que necesita una oferta antes de pedir el objeto.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Las escenas de vigilancia y compraventa se intercalan; cada mensaje se asigna una sola vez.",
+    "Las indicaciones OOC para elegir una prenda del sastre acompañan los regalos narrativos y no crean sucesos adicionales.",
+    "La aparente licantropía de Nelli no identifica su especie transformada, mordedor ni parentesco con Ione.",
+    "Los testimonios enfrentados del campamento no equivalen a una revisión de la sesión audiovisual.",
+    "La tasación interna de Nox no es el precio de venta; el pago efectivo es doscientos veinte oros."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-03-06T12:11:00.543000+00:00",
+  "fin_utc": "2026-03-06T16:15:40.753000+00:00",
+  "fecha_local": "2026-03-06",
+  "intervalo": {
+    "anterior": 12,
+    "siguiente": 13,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1479193258008772802",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1479570997991706655",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 12,
+        "fecha": "2026-03-05",
+        "inicio_referencia_utc": "2026-03-05T19:05:36+00:00",
+        "fin_estimado_utc": "2026-03-05T22:20:15+00:00",
+        "duracion_video_segundos": 11679,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1479193258008772802"
+      },
+      {
+        "capitulo": 13,
+        "fecha": "2026-03-06",
+        "inicio_referencia_utc": "2026-03-06T20:06:30+00:00",
+        "fin_estimado_utc": "2026-03-06T22:22:52+00:00",
+        "duracion_video_segundos": 8182,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1479570997991706655"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1479451231830409267",
+      "fecha_utc": "2026-03-06T12:11:00.543000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": null,
+      "texto": "Bling: Bueno chicos tengo que hacer un par de cositas, necesito una mochila o una bolsa para guardar las cosas y... bueno tengo cosas que hacer y vuelvo en un rato!\n**Saldría volando camino de la plaza, pero cambia sutilmente de dirección hacia el bar el Ron de Bonny, donde se posa en el tejado y empieza a observar el interior a través de algun agujero de bala**\n*Porque será tan temida esta señora, será como la Reina Madre del lugar? De momento he conseguido evitarla pero me dijeron que su mono tiene mi mondadientes...*\n**Seguirá un buen rato observando a Bonny, sus movimientos y forma de gesticular. Se amolda la ropa de modo que parece una mini Bonny mientras la imita como si fumara una cigarrillo y disparase una pistola. Al rato, observará a sus secuaces, intentando adentrarse en sus pensamientos, solo los más superficiales, para ver si descubre algún secretito y no ser detectada. Al rato, mareada de tanta obscenidad y pensamientos de locura, se centra en el mono Picks y sus movimientos**\n*Picks Picks...tienes algo mío..hmmm*",
+      "mensaje_sha256": "6bd35ca32c18556b7ba64960d4a852153441189063879b39d24f4ecf3f3222c0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479451231830409267",
+      "texto_sha256": "d31638c6158e9045ede6dceea4f2c9e3b1dc3352df6f5991b3342b3143663400",
+      "adjuntos": []
+    },
+    {
+      "id": "1479512805093802075",
+      "fecha_utc": "2026-03-06T16:15:40.753000+00:00",
+      "fecha_local": "2026-03-06",
+      "editado_utc": null,
+      "texto": "Bling: **En el rato en el que ha estado observando, ha podido ver como Bonny amenazaba y extorsionaba a varios, entre ellos el conocido Patata**\n*Esta señora no es tonta, lo tiene muy bien montado y va repleta de objetos que parecen mágicos, dudo que el mondadientes haya pasado inadvertido... definitivamente no puedo entrar con las manos vacías a pedirlo sin más...*\n**En este momento, ve como salen Ione <@753394009153732689>  y Nox <@616683133374562304>  del Zampaolas y va a su encuentro, posándose rápidamente entre las rastas de la capitana**\nHolii soy yo, Ione, os puedo acompañar?",
+      "mensaje_sha256": "c638057e50572e4374448f21fa0f6e1f776feb0b12b8abbcf1b5873025897051",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1479512805093802075",
+      "texto_sha256": "2c81942c044afdb705a1b2d618e9fca3c77e256880bc0b3a75f8eb11ab5e4425",
+      "adjuntos": []
+    }
+  ]
+}

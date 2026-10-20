@@ -1,0 +1,421 @@
+{
+  "id": "k-1465313929507897417",
+  "campana": "kuroto",
+  "unidad_revision": "k-1463807432684863501",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Recuperar el bastón y anegar Sho",
+  "resumen": "La broma termina con el mono escapando y la base inundada.",
+  "relato": "Shizzuka tiene el bastón mientras cuchichea con Arwen y Chani. Wukong descubre la broma y corre a recuperarlo, pero las pequeñas se dispersan y él acaba de bruces. Ofrece comida a quien se lo devuelva, sin éxito; la kender recuerda que Ikaari ya les prometió una comilona. Jhin se suma al juego para mantener el objeto fuera de su alcance. Las bromas escalan hasta que el mono se transforma en pulpo gigante y persigue a todos con los tentáculos. Atrapa a Shizzuka, pero ella se convierte en tiburón y lo muerde; Arwen forcejea y le transmite parásitos, mientras Chani huye entre gritos.\n\nEl objetivo real del pulpo es el bastón: lo recupera con un tentáculo libre, deshace la transformación y se escapa de Sho para bañarse. Shizzuka queda como tiburón fuera del agua, por lo que Chani invoca agua y Arwen añade su magia. La base termina inundada y una ola expulsa a los presentes. La kender recupera su forma, se ríe y propone ir a comer con Ikaari. Las tres amigas parten empapadas y Jhin las persigue. Un marcador explícito declara el fin del rol escrito del grupo: la última escena recupera el caos cotidiano tras la victoria y el funeral.",
+  "participantes": [
+    "Wukong",
+    "Shizzuka",
+    "Arwen",
+    "Chanecuxtli",
+    "Jhin",
+    "Banzo"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1465315935177932926",
+      "afirmacion": "El mono detecta el bastón entre las pequeñas e intenta recuperarlo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1465342220923175148",
+      "afirmacion": "Wukong se transforma en pulpo para atrapar a quienes juegan con su bastón.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1465345790015832188",
+      "afirmacion": "Shizzuka se transforma en tiburón y muerde un tentáculo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1465350465767084247",
+      "afirmacion": "Wukong recupera el arma, vuelve a su aspecto y sale para bañarse.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1465353973673234644",
+      "afirmacion": "Chani invoca agua para ayudar a Shizzuka en forma de tiburón.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1465355375300710563",
+      "afirmacion": "La ola expulsa al grupo y la kender recupera su forma antes de proponer ir con Ikaari.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1465357393507520523",
+      "afirmacion": "Jhin sale detrás de las pequeñas.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El narrador confirma expresamente la derrota de Ootakemaru y la muerte de Kurobane; no son solo rumores. Su cremación queda representada.",
+    "Wukong no estaba muerto según la vigilia y despierta en escena; no describirlo como una resurrección equivalente a la de Shirz.",
+    "La experiencia del Palacio de Jade y la prueba están representadas; los episodios del camino que no aparecen directamente se atribuyen al relato posterior del mono.",
+    "La afirmación consoladora de Banzo de que Arwen y Wukong no pueden morir no se convierte en regla de invulnerabilidad.",
+    "Tang Sanzang queda acreditado como nombre del monje Tang; Eerlang/Erlang son variantes del nombre de Shen en la misma conversación. No se añaden deidades externas ni poderes no representados.",
+    "La ficha visual de Sempereia se ha leído íntegra. Solo el nombre y la historia están en el papel según la aclaración del autor; la etimología y la apariencia poética adicional no son un texto que Sera haya leído necesariamente.",
+    "El relato de origen de la flor se conserva como leyenda del regalo, no como demostración histórica de una unión divina.",
+    "El afecto tras la entrega no constituye por sí mismo nueva pareja o ruptura del vínculo simbólico con Guxi.",
+    "La paternidad afectiva de Jhin y Shizzuka se explicita mutuamente, sin inventar filiación biológica.",
+    "Las exageraciones de Shizzuka sobre la guerra y su liderazgo no sustituyen la crónica completa de la batalla.",
+    "Se omiten las bromas sexuales asociadas al bastón en la redacción editorial sin alterar los originales; se conserva la secuencia narrativa de robo, persecución, recuperación e inundación.",
+    "El estado automático proponía abierta, pero el último mensaje declara el fin del rol escrito del grupo. Se cierra esta ficha, conservando pendientes de campaña en el informe del hilo."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-01-26T11:54:25.011000+00:00",
+  "fin_utc": "2026-01-26T18:27:32.556000+00:00",
+  "fecha_local": "2026-01-26",
+  "intervalo": {
+    "anterior": 181,
+    "siguiente": 182,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1463611734899167390",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1465425150315991041",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 181,
+        "fecha": "2026-01-21",
+        "inicio_referencia_utc": "2026-01-21T19:10:08+00:00",
+        "fin_estimado_utc": "2026-01-21T22:02:01+00:00",
+        "duracion_video_segundos": 10313,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1463611734899167390"
+      },
+      {
+        "capitulo": 182,
+        "fecha": "2026-01-26",
+        "inicio_referencia_utc": "2026-01-26T19:16:02+00:00",
+        "fin_estimado_utc": "2026-01-26T21:44:10+00:00",
+        "duracion_video_segundos": 8888,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1465425150315991041"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1465313929507897417",
+      "fecha_utc": "2026-01-26T11:54:25.011000+00:00",
+      "fecha_local": "2026-01-26",
+      "editado_utc": null,
+      "texto": "Shizzuka: **Esta junto a Arwen y Chani hablando en corrillo, tramando algo. Cuando te fijas en ellas escuchas a la kender** ¿Y dices que un amigo de Wukong se metía el palo por el culo? Creéis que Wukong hará lo mismo con su palo **Ves que tiene tu palo en las manos y lo huele para ver si huele a culo** <@408026114548695061> <@753394009153732689>",
+      "mensaje_sha256": "5e297984cb177eecb4baaabd65b3ca40f58f2445b0ff837722f9dbc666771f4f",
+      "tipo_discord": 19,
+      "referencia": "1465287153088200745",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1465313929507897417",
+      "texto_sha256": "fbcc1e51f1be8f1ce70e89b8fd7ec4f3bd05ea65a9e3198cd2b8fe3afa2e2776",
+      "adjuntos": []
+    },
+    {
+      "id": "1465315935177932926",
+      "fecha_utc": "2026-01-26T12:02:23.200000+00:00",
+      "fecha_local": "2026-01-26",
+      "editado_utc": null,
+      "texto": "Wukong\n\n**Hace un escaneo rápido de la sala. Mira a Banzo mirando hacia otro lado disimulando muy mal. No muy lejos, las niñas cuchichean entre ellas y, obviamente, se ve uno de los extremos del bastón sobresalir del corrillo**\n\n- malditos goblins ladrones!!! No sé os puede dejar de vigilar un segundo!!!\n\n**El mono sale corriendo hacia las niñas y se abalanza en plancha, lo que hace que estas se dispersen en todas direcciones y Wukong coma suelo en un tremendo barrigazo**\n\n- Auch... De aquí salgo en silla de ruedas a este paso...\n \n**El.monje se levanta, mira hacia donde se han dispersado a las niñas y le grita a Banzo**\n\n- tú!! Eres peor que un niño grande!!! Ayúdame a atrapar a estas cucarachas!!!\n\n**Wukong ubica a la kender y sale corriendo a por ella**",
+      "mensaje_sha256": "3d67c0cccbc7168b976721063a9095fd7d17c72cc9b2b663bc370c87854aacb3",
+      "tipo_discord": 19,
+      "referencia": "1465313929507897417",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1465315935177932926",
+      "texto_sha256": "58287cfdc155efe456cee4cfe50c8ab0ad2d189f362d561a2391113448eacb2a",
+      "adjuntos": []
+    },
+    {
+      "id": "1465317414110625963",
+      "fecha_utc": "2026-01-26T12:08:15.805000+00:00",
+      "fecha_local": "2026-01-26",
+      "editado_utc": null,
+      "texto": "Shizzuka: **Sale corriendo cuando Wukong le persigue mientras la niña corre con el palo que se balancea de lado a lado** Eeeeeeh!! No te lo voy a devolver! Te puedes hacer daño si te lo metes por el culo!!!",
+      "mensaje_sha256": "e04f1d3f718643e7f5ac726fb395e52f66aee4928cc9dcde234a93deca15e3c5",
+      "tipo_discord": 19,
+      "referencia": "1465315935177932926",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1465317414110625963",
+      "texto_sha256": "ba4cad5b8607f48d9c66943a055e9c0a848dca76f56c3bf4080e0051ded6591d",
+      "adjuntos": []
+    },
+    {
+      "id": "1465319865140121725",
+      "fecha_utc": "2026-01-26T12:18:00.176000+00:00",
+      "fecha_local": "2026-01-26",
+      "editado_utc": null,
+      "texto": "Wukong \n\n**Ese comentario enfureció al mono**\n\n- el culo? El culo te lo voy a poner rojo yo a ti a base de azotes cuando te enganche, diablo con coletas!!!\n\n**Cuando vio que el tamaño de la kender le daba ventaja en la huida aún siendo lo veloz que era, pensó en un plan**\n\n- vale! Atentos todos! Invito a comer todo lo que pueda a quien atrape a Shizuka y me devuelva el bastón!!!\n\n<@616683133374562304> <@408026114548695061> <@753394009153732689>",
+      "mensaje_sha256": "0c0114af13e8d87e112b14d18d89f7a447937a4b0a2efb07b83238c96f2e2986",
+      "tipo_discord": 19,
+      "referencia": "1465317414110625963",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1465319865140121725",
+      "texto_sha256": "fa80576ca0e133474651e7898abb15a1528a3c54ef6f6f8e87f2ed58fb4d9dab",
+      "adjuntos": []
+    },
+    {
+      "id": "1465324303351287962",
+      "fecha_utc": "2026-01-26T12:35:38.328000+00:00",
+      "fecha_local": "2026-01-26",
+      "editado_utc": "2026-01-26T12:36:23.253000+00:00",
+      "texto": "Shizzuka: No cuela Wukong!! Ya le dijo Ikaari a Arwen que la iba a invitar a comer a su taberna si venciamos a Ootakemaru! Jajajajaja **La niña se cuela por debajo de la mesa para escapar**",
+      "mensaje_sha256": "6a17555a9b0d865ce317292c5ce20915361c04d51087db1549f1547dcdbb5750",
+      "tipo_discord": 19,
+      "referencia": "1465319865140121725",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1465324303351287962",
+      "texto_sha256": "31d209ba86240d341f3605c46d3ad49b81c795ab6dfe7142a8542a041ac4e475",
+      "adjuntos": []
+    },
+    {
+      "id": "1465337743671562293",
+      "fecha_utc": "2026-01-26T13:29:02.750000+00:00",
+      "fecha_local": "2026-01-26",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n\n**El pollo seguía corriendo por todas las direcciones hasta que se detuvo un momento para medirle el culo al mono y después mirar el bastón**\n\nPío, yo creo que si le cabe pío, a ver deja le intento pío \n\n**Saqué mi bastón de entre mis hojitas para comprobar dicha teoría**",
+      "mensaje_sha256": "b024958bd9ea0bf13f992716896d5eb18448f96645852989e6d0abc68fc3ccd0",
+      "tipo_discord": 19,
+      "referencia": "1465319865140121725",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1465337743671562293",
+      "texto_sha256": "e4b334f74ee8d9b32077ae1fa8118d1073e2adb616795bba8b6517a7a8191f06",
+      "adjuntos": []
+    },
+    {
+      "id": "1465338585891999846",
+      "fecha_utc": "2026-01-26T13:32:23.551000+00:00",
+      "fecha_local": "2026-01-26",
+      "editado_utc": null,
+      "texto": "Jhin:\n**Sin saber mucho que estaba pasando solo veía a la niñas jugar con wukong**\nShizuka pásame el bastón que no lo atrapé",
+      "mensaje_sha256": "d8f282d35664e50ead78f73e88688937e5294587a86e8576b7ac40ffd42d06cf",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1465338585891999846",
+      "texto_sha256": "e118137d0478569e7bfb28dbfded137302968e1fd6da5240b37175868f7ab48a",
+      "adjuntos": []
+    },
+    {
+      "id": "1465342220923175148",
+      "fecha_utc": "2026-01-26T13:46:50.210000+00:00",
+      "fecha_local": "2026-01-26",
+      "editado_utc": null,
+      "texto": "Wukong \n\n**En la cara del mono ya habían dos o tres venas hinchadas a punto de reventar. Ya solo faltaba que jhin apareciera por sorpresa y espoleara más a las niñas. El colmo fue notar que Chani intentaba darle en el trasero con su bastón**\n\n- ya basta panda de salvajes!!!\n\n**Hizo un sello con las manos y una nube de humo lo cubrió, y de ella empezaron a salir varios tentáculos enormes intentando atrapar a todos los de la sala. Cuando el humo se disipó se vio a un pulpo gigante, con vendas en los tentáculos y el juzu verde rodeando la parte baja de la \"cabeza\".\n\nPoco a poco los tentáculos fueron persiguiendo a cada uno de los allí presentes**",
+      "mensaje_sha256": "b74fae551f3fe1f1b5e7bc9df6111514ecd2edc69c8645248618b9c8d493c931",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1465342220923175148",
+      "texto_sha256": "738c6434c0aaaa51be95c88bdcfa1c41b7110b34e0f225a3eafca46037d7c0ac",
+      "adjuntos": []
+    },
+    {
+      "id": "1465343467847680223",
+      "fecha_utc": "2026-01-26T13:51:47.500000+00:00",
+      "fecha_local": "2026-01-26",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n**Salí corriendo enseguida que ví aquellos tentáculos salir del humo y que unos empezaron a perseguirme**\n\nPOCOOOOO!! AYUDA PÍO!!, MONITO SE VOLVIÓ EN UN NO MONITO!! POCOOOOO!!",
+      "mensaje_sha256": "e1f0d1e73c3334385be401f8ec1797c9f63d15d5407304216fc012ff5647be3d",
+      "tipo_discord": 19,
+      "referencia": "1465342220923175148",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1465343467847680223",
+      "texto_sha256": "0223df55d618ffc28c0b92f5be54e726f56bbd815bd6c30acfc350ef64fe1ca9",
+      "adjuntos": []
+    },
+    {
+      "id": "1465345790015832188",
+      "fecha_utc": "2026-01-26T14:01:01.148000+00:00",
+      "fecha_local": "2026-01-26",
+      "editado_utc": null,
+      "texto": "Shizzuka: **Esos biscosos y pegajosos tentáculos consiguen atrapar a la niña kender y la empiezan a envolver como un rollito de primavera dejándola totalmente oculta. Solo se ve el palo de Wukong sobresalir. Pero entonces.... Unas luces brillantes de color verde salen de entre las juntas de donde está atrapada la niña y... BOOOOM. Un enorme tiburon blanco con dos coletas logra zafarse de los tentáculos y... Ñac! Notas como los afilados dientes del tiburón se clavan en tu tentáculo**",
+      "mensaje_sha256": "ca156a6092175fc4214f62b300d415bada180d8898903ed1b88c9b2f5d92321d",
+      "tipo_discord": 19,
+      "referencia": "1465342220923175148",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1465345790015832188",
+      "texto_sha256": "c482386affe4e76bf995649fe8c3d2d870d171210ef2a3ec4ae452581e90e4c2",
+      "adjuntos": [
+        {
+          "id": "1465345789739143383",
+          "nombre": "image0.gif",
+          "tipo": "image/gif",
+          "archivo": "adjuntos/1465345789739143383.gif",
+          "url": "rol_escrito/adjuntos/1465345789739143383.gif",
+          "bytes": 192110,
+          "sha256": "47d632ea3df4ba3699c90571e476cd0359b75d23c784f024f6f6195489c976ba"
+        }
+      ]
+    },
+    {
+      "id": "1465347305728380939",
+      "fecha_utc": "2026-01-26T14:07:02.522000+00:00",
+      "fecha_local": "2026-01-26",
+      "editado_utc": null,
+      "texto": "Arwen: **La enredas en tus tentaculos solo pudiendo ver su pelo enredado. Pero hay un problemilla... La niña esta infestada de toda clase de parasitos...y parece que han encontrado un tentaculoso huesped**",
+      "mensaje_sha256": "b17d04a072100f2c764d691b284ce224d5e9d7228f1c75eb05c3a77282ba25d1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1465347305728380939",
+      "texto_sha256": "57f993d25364e28000f23ea3a52a229d25ef091f656163fa85436a1788e7d43d",
+      "adjuntos": []
+    },
+    {
+      "id": "1465348609468924122",
+      "fecha_utc": "2026-01-26T14:12:13.358000+00:00",
+      "fecha_local": "2026-01-26",
+      "editado_utc": null,
+      "texto": "Jhin:\n*Bueno habrá mono pulpo para cenar pobrecito*\nShizuka no te comas a wukong que si no. No podremos celebrar",
+      "mensaje_sha256": "d1a21fee00019ac06a290580e2504b5833004aa6c1d9d7b3db88ab4d39d4af4a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1465348609468924122",
+      "texto_sha256": "f088079c5f7fee60f50af1e2deb8e6d65edef2bc5cfe473af954f679229850ed",
+      "adjuntos": []
+    },
+    {
+      "id": "1465350465767084247",
+      "fecha_utc": "2026-01-26T14:19:35.934000+00:00",
+      "fecha_local": "2026-01-26",
+      "editado_utc": "2026-01-26T14:20:02.625000+00:00",
+      "texto": "Wukong\n\n**Con los tentáculos intentaba inmovilizar a su presa o al menos tenerlo distraído lo suficiente para fijar el blanco en su verdadero objetivo: el bastón.\n\nAprovechando que Shizuka se centraba en morder los tentáculos, Chani huía de ellos, Arwen forcejeaba para escapar y jhin combatía con ellos con la espada, el único tentáculo libre que le quedaba agarró el bastón ahora que Shizuka no podía sujetarlo.\n\nUna vez recuperada su arma, wukong deshizo la transformación con otra nube de humo. Y de allá salió de un salto hacia el techo**\n\n- Jah! Mono gana pedazo de burros! \n\n**Ahí estaba el monje, agarrado al techo con los pies, sujetando el bastón con la boca, mientras con una mano se rascaba entero por los piojos de Arwen y con la otra mano les dedicaba a su público un cariñoso \"fuck you all\"**\n\n- y ahora con vuestro permiso... Necesito un puto baño!!!\n\n**Aprovechando la confusión salió de la base cual ninja con su agilidad**",
+      "mensaje_sha256": "3fd153ba1beafe27500c0bc77cb2d9fd6d041b50b04ed721d746d9a69b6934fa",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1465350465767084247",
+      "texto_sha256": "b320fdf7083e4504913ddc5807af92ab9ddd434957e23bd3dc02f145321ca6bc",
+      "adjuntos": []
+    },
+    {
+      "id": "1465353602381123718",
+      "fecha_utc": "2026-01-26T14:32:03.761000+00:00",
+      "fecha_local": "2026-01-26",
+      "editado_utc": null,
+      "texto": "Shizzuka: **Los demás veis como en en centro de la base, hay un tiburón blanco saltando como pez fuera del agua**",
+      "mensaje_sha256": "d6bf7b4b5d99fbdeab4516a88a0c208f0987a8a3c3d934a76e76b83dda9dfee8",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1465353602381123718",
+      "texto_sha256": "f51f245f66ac5ead6d7e7cb8399b9307df658c7a89a5d9e605e2ab87d3776a32",
+      "adjuntos": []
+    },
+    {
+      "id": "1465353973673234644",
+      "fecha_utc": "2026-01-26T14:33:32.284000+00:00",
+      "fecha_local": "2026-01-26",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n\nPÍO!!, SE NOS MUERE SHIZZUKA PÍO!!\n\n**Procedo a invocar agua en toda la base para que Shizzuka pueda volver a respirar**\n\nRESPIRA PÍO!!, RESPIRA PIGLUGLUGLU!!",
+      "mensaje_sha256": "986c84de577a607082feeef97ff748951e8af9263a3c5ce594b8959fca8336a3",
+      "tipo_discord": 19,
+      "referencia": "1465353602381123718",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1465353973673234644",
+      "texto_sha256": "46686544b90196e9aed85db28861115c06423843d32fc0514f22ae3014c677c0",
+      "adjuntos": []
+    },
+    {
+      "id": "1465354263562813595",
+      "fecha_utc": "2026-01-26T14:34:41.399000+00:00",
+      "fecha_local": "2026-01-26",
+      "editado_utc": null,
+      "texto": "Arwen: yo me encargoooo **Sus manos brillan en dorado... Y se escucha el sonido del mar... Pero estais lejos de la costa**",
+      "mensaje_sha256": "08a9b7a82a4d4269cd10c5b4a2a4ad103ae7e4d7b5255989bb035e84b21130f5",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1465354263562813595",
+      "texto_sha256": "a767f4a524de4c2bea8ed314b20c0efb06599e3920d765e65c6048dbcfac5e15",
+      "adjuntos": []
+    },
+    {
+      "id": "1465354864354787473",
+      "fecha_utc": "2026-01-26T14:37:04.639000+00:00",
+      "fecha_local": "2026-01-26",
+      "editado_utc": null,
+      "texto": "jhin:\nno no no no no no\n**sin saber como ni de todo el porque la base estaba llena de agua luchando por respirar**",
+      "mensaje_sha256": "1e931b48f1f2ff960be8afd54fb86985b674503b1653bd33af160b85863c6048",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1465354864354787473",
+      "texto_sha256": "da00ca8dd85b0d36c943b7f7ed786d005bfc384f948d71fc90794ca796df222e",
+      "adjuntos": []
+    },
+    {
+      "id": "1465354919526531248",
+      "fecha_utc": "2026-01-26T14:37:17.793000+00:00",
+      "fecha_local": "2026-01-26",
+      "editado_utc": null,
+      "texto": "https://tenor.com/view/man-watching-looking-fear-scared-gif-20121830",
+      "mensaje_sha256": "a47316bddaf413b73a133b5a930ccdc2c978aa4c9c7fec5e7081907ee255eb0d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1465354919526531248",
+      "texto_sha256": "83eaed49fbe60dd04cd1ab87daaf9298d17ce3ba01709f2b72d96f346d2be382",
+      "adjuntos": [],
+      "no_narrativo": true,
+      "nota_editorial": "Contexto o marcador no narrativo; conservado en la exportación íntegra."
+    },
+    {
+      "id": "1465355375300710563",
+      "fecha_utc": "2026-01-26T14:39:06.458000+00:00",
+      "fecha_local": "2026-01-26",
+      "editado_utc": null,
+      "texto": "Shizzuka: **La base se inunda y por la puerta sale una enorme ola de agua que arrastra a todos los presentes hacia fuera. La niña kender hace PUF! y se vuelve otra vez a su forma original mientras rie. Cuando el agua se calma mira a Chani y Arwen** Oye, vamos a ver a Ikaari que nos debe una comilona! Vanoooooos!!!",
+      "mensaje_sha256": "7b1df65ab1c4398116da28244f98fb683ea0ecfa3fccebcc55f9982326116034",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1465355375300710563",
+      "texto_sha256": "6a7903846bf8097c7672c3e56f39a644de2086a2d45aac0d2279d21ed8e22080",
+      "adjuntos": []
+    },
+    {
+      "id": "1465356752273805312",
+      "fecha_utc": "2026-01-26T14:44:34.754000+00:00",
+      "fecha_local": "2026-01-26",
+      "editado_utc": null,
+      "texto": "Arwen: **Escupe agua por la boca** ¡Siiiii vamooooos!",
+      "mensaje_sha256": "bf39d4c4ac10e2db0630ae1cd04522ea349745094b9beb842cd83dcb72e79b9f",
+      "tipo_discord": 19,
+      "referencia": "1465355375300710563",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1465356752273805312",
+      "texto_sha256": "57ce4a655ebe73d985939f5c1f1c2c696d634441651c27ceb2c9022de6805a3d",
+      "adjuntos": []
+    },
+    {
+      "id": "1465356829683879936",
+      "fecha_utc": "2026-01-26T14:44:53.210000+00:00",
+      "fecha_local": "2026-01-26",
+      "editado_utc": "2026-01-26T14:44:59.423000+00:00",
+      "texto": "Chanecuxtli:\n\n**Con las hojitas brillosas y el agua escurriendo por la madera, empiezo a seguir a Shizzuka y a Arwen, pero antes de eso, con ojos y alma inocente, me acerqué a Jhin e imite el gesto que hizo Wukong con la mano, pensando que era una señal de despedida**\n\nPío!!\n\n**Salí corriendo hacia mis amigas**\n\n<@171702246952665098>",
+      "mensaje_sha256": "d3419cb0c5e18e89170f67058261c49d08a9692e0445a505c59679ed9ac0ed25",
+      "tipo_discord": 19,
+      "referencia": "1465355375300710563",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1465356829683879936",
+      "texto_sha256": "83e25691c743c035d3daae77e59d42c3727e863047b1dce3de1f844f746ec5de",
+      "adjuntos": []
+    },
+    {
+      "id": "1465357393507520523",
+      "fecha_utc": "2026-01-26T14:47:07.636000+00:00",
+      "fecha_local": "2026-01-26",
+      "editado_utc": null,
+      "texto": "jhin:\n**se levanta despues de haber salido por una ventana de la base todo empapado y mira a las niñas**\nShizuka arwen y chani como os pille\n**sale corriendo detras de las niñas**",
+      "mensaje_sha256": "19fe81694f6e7ccd25d28a44526a0a0f21930e0ca34545dc3446f623d1c2874c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1465357393507520523",
+      "texto_sha256": "5c47b403960683418af3c4b9c0dd768b381588011cdd5bdc5d2718226864bbbd",
+      "adjuntos": []
+    },
+    {
+      "id": "1465412862842241187",
+      "fecha_utc": "2026-01-26T18:27:32.556000+00:00",
+      "fecha_local": "2026-01-26",
+      "editado_utc": null,
+      "texto": "🔴Fin del Rol Escrito de <@&1219989260787253278>🔴",
+      "mensaje_sha256": "d1281be8f546606ace6bbef7ace602eb7286714244113dcb6a6941b3ca14f8a2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1465412862842241187",
+      "texto_sha256": "b0840a96f8465ca930bc3a7b9900b9b32a2bc294afcb54a943417e75144502ad",
+      "adjuntos": []
+    }
+  ]
+}

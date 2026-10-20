@@ -1,0 +1,221 @@
+{
+  "id": "k-1368711266256031755",
+  "campana": "kuroto",
+  "unidad_revision": "k-1368711266256031755",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Intercambio a través de las piedras",
+  "resumen": "Guxi y Kurobane acuerdan colaborar pese al conflicto.",
+  "relato": "Guxi contacta a Kurobane mediante las piedras de mensaje y le explica cómo dar paso al otro interlocutor. El humano, que está meditando y entrenando en su refugio del sur, resume su versión de la crisis: encontró a Kalista muy alterada y la protegió; después llegaron Banzo, Arwen y Danifae, y una carta entregada por esta última desencadenó un conflicto. Según él, Kalista paralizó al goliat y se marchó, y Kurobane tuvo que huir de Banzo. Guxi añade lo que vio de la salida de Kalista y la desaparición de Jelbreg el día de la muerte del shogun. Pide localizar a ambos, ofrece encargarse del drow y solicita que Kurobane dé la piedra a Kalista si la encuentra. El humano acepta ayudar con reservas, aunque en privado no quiere hablar con ella. Terminan la comunicación sin un reencuentro ni una reconciliación.",
+  "participantes": [
+    "Guxi",
+    "Kurobane"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1368714318719488100",
+      "afirmacion": "Kurobane relata su versión del conflicto iniciado por una carta que Danifae dio a Banzo.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1368715188315885659",
+      "afirmacion": "Guxi propone repartirse la búsqueda de Kalista y Jelbreg para evitar peleas internas.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1368715897044467772",
+      "afirmacion": "Kurobane acepta ayudar con reservas y mantiene privado que no quiere hablar con Kalista.",
+      "tipo": "pensamiento"
+    }
+  ],
+  "notas": [
+    "Veintitrés mensajes completos con tres encuentros separados. El relato de Kurobane es retrospectivo y parcial; no sustituye las fuentes de la escena que cuenta.",
+    "La muerte del shogun se menciona expresamente en el diálogo de Guxi. No se deduce aquí su causa.",
+    "La figura que cruza el portal no se identifica con Wasabi ni con otro participante por proximidad.",
+    "No se aclara a cuáles dos compañeros dirige Jelbreg su declaración de confianza. La armadura de Banzo no demuestra una infiltración ni una misión nueva."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-04T22:09:55.301000+00:00",
+  "fin_utc": "2025-05-04T22:30:43.790000+00:00",
+  "fecha_local": "2025-05-05",
+  "intervalo": {
+    "anterior": 111,
+    "siguiente": 112,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1369742246882054214",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 111,
+        "fecha": "2025-05-01",
+        "inicio_referencia_utc": "2025-05-01T18:30:18+00:00",
+        "fin_estimado_utc": "2025-05-01T21:17:50+00:00",
+        "duracion_video_segundos": 10052,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983"
+      },
+      {
+        "capitulo": 112,
+        "fecha": "2025-05-07",
+        "inicio_referencia_utc": "2025-05-07T18:26:24+00:00",
+        "fin_estimado_utc": "2025-05-07T21:22:03+00:00",
+        "duracion_video_segundos": 10539,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1369742246882054214"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1368711266256031755",
+      "fecha_utc": "2025-05-04T22:09:55.301000+00:00",
+      "fecha_local": "2025-05-05",
+      "editado_utc": null,
+      "texto": "guxi: <@240564189448503306> estas? cambio",
+      "mensaje_sha256": "eb4aab6bcaff047236e6fbb3a21827659183c1862b6d890e2fa37d1a8f8bf52c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368711266256031755",
+      "texto_sha256": "0624f8cf7b2c760eda95334a0d278f826a26ee7f789a279bb106ecb7d6eb3d94",
+      "adjuntos": []
+    },
+    {
+      "id": "1368711632473165855",
+      "fecha_utc": "2025-05-04T22:11:22.614000+00:00",
+      "fecha_local": "2025-05-05",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nPasa algo?\n\n**Pregunta a la piedra mientras sigue en su base en el sur**",
+      "mensaje_sha256": "af65894690bb63980a6335ca81d5ba591a311d24bff2f8e7a30b99e0247d4cb4",
+      "tipo_discord": 19,
+      "referencia": "1368711266256031755",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368711632473165855",
+      "texto_sha256": "d5c54b000ab7fc3eb4f3ad607fcf0c31c7fe34f521c888f3b2f9c92253645443",
+      "adjuntos": []
+    },
+    {
+      "id": "1368711918331756554",
+      "fecha_utc": "2025-05-04T22:12:30.768000+00:00",
+      "fecha_local": "2025-05-05",
+      "editado_utc": null,
+      "texto": "guxi: **ves que tarda unos minutos en responder** tienes que soltar la parte superior de la piedra para indicarlo digamos cambio y corto",
+      "mensaje_sha256": "1032991f153c101af5a5b3d93ad00b67d8784aa111fbf47b28a5da82af3b3460",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368711918331756554",
+      "texto_sha256": "533a7b7f8bb4adc1928137f8ad8d9fc88b6f5d5db091521e568e664df51c1154",
+      "adjuntos": []
+    },
+    {
+      "id": "1368712305738780752",
+      "fecha_utc": "2025-05-04T22:14:03.133000+00:00",
+      "fecha_local": "2025-05-05",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nOh, entiendo. Pasa algo? cambio\n\n**Pregunta a la piedra mientras se levanta porque estaba meditando y entrenando**",
+      "mensaje_sha256": "20e5becd646b097d5f42ff2956fd6297c5bf96f43320e895b57ea18309c4f1da",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368712305738780752",
+      "texto_sha256": "4a5a8a7e1367dc782f699df711d1b4eb343381a8af0cce2f10a7f200830ee5d4",
+      "adjuntos": []
+    },
+    {
+      "id": "1368712586459090996",
+      "fecha_utc": "2025-05-04T22:15:10.062000+00:00",
+      "fecha_local": "2025-05-05",
+      "editado_utc": null,
+      "texto": "guxi: cuando tuvimos que salir corriendo creo que escuche a varias personas salir del portal pero con la confusion no estoy seguro creo que uno era banzo , pero antes me podrias contar que pasa por favor , Corto",
+      "mensaje_sha256": "972f7fdec90b8987476275e4471b61db8839a37ebde225cb4c0d39ff469fa096",
+      "tipo_discord": 19,
+      "referencia": "1368712305738780752",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368712586459090996",
+      "texto_sha256": "b8e9903bc400055fea5228f036e4186447dcdd1b6055d76462edcbd25f6c02bc",
+      "adjuntos": []
+    },
+    {
+      "id": "1368714318719488100",
+      "fecha_utc": "2025-05-04T22:22:03.065000+00:00",
+      "fecha_local": "2025-05-05",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nTodo empieza cuando encontre a Kalista super mal, la lleve a un sitio seguro, luego Banzo, Arwen y Danifae, localizaron el sitio porque Banzo necesitaba ayuda con un tema de flores. Danifae le dió una carta a Banzo. Danifae se fue. Y por esa carta, explotó todo, Kalista paralizó a Banzo y se fue, tuve que huir de Banzo porque se enfado mucho. Y partir de hay no se nada. Cambio\n\n**Cuenta con una tranquilidad pasmosa comparandolo a como lo vio la última, en su tono puedes notar que no está por la labor a ayudar a los cazadores**",
+      "mensaje_sha256": "ebd31aa8ffda7033e3b60b37b21258cfd49eddecc6d0bd62378df70ee28a4686",
+      "tipo_discord": 19,
+      "referencia": "1368712586459090996",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368714318719488100",
+      "texto_sha256": "34ed37363399b62fb18089265e8e4eb9ca4a4be936cff28c165655cd42fe9c71",
+      "adjuntos": []
+    },
+    {
+      "id": "1368715188315885659",
+      "fecha_utc": "2025-05-04T22:25:30.393000+00:00",
+      "fecha_local": "2025-05-05",
+      "editado_utc": null,
+      "texto": "guxi: **se cae hacia atras de la silla ** yo la vi correr cuando estaban ellos dos solos en la base el mismo dia de la muerte del ... **hace una pausa dramatica para coger aire** shogun intente ir a buscarla para ir a por ella pero no la encontre y jelbreg desaparecio , hay que encontrar a los dos jelbreg yo me encargo de el tu busca a kalista lo ultimo que necesitamos ahora son peleas internas si la ves dale la piedra por favor, cambio",
+      "mensaje_sha256": "15fc6f326ed0ddf9d3460096d3676f67bfa260ec731cdedc2893546c7585a226",
+      "tipo_discord": 19,
+      "referencia": "1368714318719488100",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368715188315885659",
+      "texto_sha256": "c097d20810aba2672bdba7f38293fe1e42dbd4ac6e0a76df15ed679f7817c382",
+      "adjuntos": []
+    },
+    {
+      "id": "1368715897044467772",
+      "fecha_utc": "2025-05-04T22:28:19.367000+00:00",
+      "fecha_local": "2025-05-05",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\n*Él me ha ayudado, pero no quiero hablar con ella*\n\nTe ayudaré. Pero, no te prometo que salga bien. cambio y corto.\n\n**Dice indeferente mientras se guarda la piedra**",
+      "mensaje_sha256": "7dd28a118a0d2129337f6e743995605ddc500ecb51a6632cd6d239108289897d",
+      "tipo_discord": 19,
+      "referencia": "1368715188315885659",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368715897044467772",
+      "texto_sha256": "5ee4da2dc121aca51dfc0e5d4b4c02379d903ad1b54221436cac3034cd96c418",
+      "adjuntos": []
+    },
+    {
+      "id": "1368716002619166841",
+      "fecha_utc": "2025-05-04T22:28:44.538000+00:00",
+      "fecha_local": "2025-05-05",
+      "editado_utc": null,
+      "texto": "🌘  Kurobane \"sale\" de escena 🌘",
+      "mensaje_sha256": "3851b1a720dc5b13ad6969f7ced9a52981424bbde14eddf1abef5dbc5be739f2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368716002619166841",
+      "texto_sha256": "edc7b6169c9fdf3e21007db7dff46a99d2de366d26a8aa19a3307a653439b23e",
+      "adjuntos": []
+    },
+    {
+      "id": "1368716407952379946",
+      "fecha_utc": "2025-05-04T22:30:21.177000+00:00",
+      "fecha_local": "2025-05-05",
+      "editado_utc": null,
+      "texto": "guxi: **se guarda la piedra y se levanta** *bueno donde estara este hermano tonto, el sur? no creo estara por la capital  con suerte sin encuentro a banzo el no estara lejos*",
+      "mensaje_sha256": "11402aa9e384b7ecba955e66cf4fb9f901affd2a66c5a5f674b14c67cac83b06",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368716407952379946",
+      "texto_sha256": "29b1b9de5b785d8997fc46899c45e00887416b1ee56bf7672951c1bdd39133b9",
+      "adjuntos": []
+    },
+    {
+      "id": "1368716502798307418",
+      "fecha_utc": "2025-05-04T22:30:43.790000+00:00",
+      "fecha_local": "2025-05-05",
+      "editado_utc": null,
+      "texto": "🔩 guxi sale de escena🔩",
+      "mensaje_sha256": "8c0f24ddf3289802afb76b9f558405d39235e359ec364978da15ce230585c7ae",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1368716502798307418",
+      "texto_sha256": "e684c549af93a258b115f68a37386a6f33541b453519e2877a0cc24cd84938f3",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "id": "k-1367792798895439954",
+  "campana": "kuroto",
+  "unidad_revision": "k-1367792798895439954",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Banzo termina la reparación de la habitación de Shirz",
+  "resumen": "Tras la salida apresurada de Kalista y Jelbreg, Guxi y Banzo trabajan en el agujero de la habitación de Shirz.",
+  "relato": "Banzo ve salir corriendo a Kalista y pregunta a Jelbreg qué le ha dicho. El drow no responde: mira hacia donde se ha ido ella y desaparece mediante teletransporte. Guxi había intentado alcanzar a Kalista sin conseguirlo y decide volver a reparar el agujero de la habitación de Shirz. Gur abandona también la base, pensando en buscar a su antiguo maestro y mostrarle un nuevo poder, sin explicarlo a los demás. Banzo se queda un momento observando un pañuelo morado que le dio Fukami y después ofrece ayuda a Guxi, cargando y colocando tablones según sus indicaciones. Tras un rato, el artesano, cansado y con dificultades para ver bien, propone continuar al día siguiente. Banzo se ofrece a terminar lo que queda y Guxi le confía los últimos martillazos antes de retirarse a su habitación. El goliat concluye la reparación aproximadamente una hora después, pese a golpearse algún dedo, y sale por el portal hacia Ukyio.",
+  "participantes": [
+    "Banzo",
+    "Kalista",
+    "Jelbreg",
+    "Guxi",
+    "Gur"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1367793577358266440",
+      "afirmacion": "Jelbreg se teletransporta tras la salida de Kalista.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1367794297704812605",
+      "afirmacion": "Guxi vuelve al agujero de la habitación de Shirz tras no alcanzar a Kalista.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1367794698105655398",
+      "afirmacion": "Gur piensa buscar a su antiguo maestro y sale sin comunicarlo.",
+      "tipo": "pensamiento"
+    },
+    {
+      "mensaje_id": "1367797145163534378",
+      "afirmacion": "Banzo ayuda a Guxi con cinco tablones.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1367807458864529448",
+      "afirmacion": "Guxi propone descansar y seguir otro día, cansado y viendo mal.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1367808473340973188",
+      "afirmacion": "Guxi deja los últimos martillazos a Banzo y se retira.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1367809234997346364",
+      "afirmacion": "Banzo termina el trabajo pendiente y marcha hacia Ukyio.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Catorce mensajes íntegros. Se completa esta reparación concreta, no todas las goteras ni todos los daños de la base.",
+    "La causa de la marcha de Kalista y el contenido de su conversación anterior no aparecen aquí. Las suposiciones de Banzo y Gur son pensamientos privados."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-02T09:20:15.618000+00:00",
+  "fin_utc": "2025-05-02T10:42:04.481000+00:00",
+  "fecha_local": "2025-05-02",
+  "intervalo": {
+    "anterior": 111,
+    "siguiente": 112,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1369742246882054214",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 111,
+        "fecha": "2025-05-01",
+        "inicio_referencia_utc": "2025-05-01T18:30:18+00:00",
+        "fin_estimado_utc": "2025-05-01T21:17:50+00:00",
+        "duracion_video_segundos": 10052,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983"
+      },
+      {
+        "capitulo": 112,
+        "fecha": "2025-05-07",
+        "inicio_referencia_utc": "2025-05-07T18:26:24+00:00",
+        "fin_estimado_utc": "2025-05-07T21:22:03+00:00",
+        "duracion_video_segundos": 10539,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1369742246882054214"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1367792798895439954",
+      "fecha_utc": "2025-05-02T09:20:15.618000+00:00",
+      "fecha_local": "2025-05-02",
+      "editado_utc": null,
+      "texto": "Banzo : **al ver salir a Kalista <@753394009153732689>  corriendo de su cuarto se acerca a Jelbreg <@214405113677217793>  y le dice ** \n\nEnserio ? \nQue le has dicho ya a ver ...",
+      "mensaje_sha256": "1245d00d7d98aa0ac93bf3d362c8f5c5f4a6ad37413adf30bb145c05f8be5a2d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1367792798895439954",
+      "texto_sha256": "481c07f14255a1751f3d8324e455cc452009e975ee0e8d3b2f659b12edd6ef99",
+      "adjuntos": []
+    },
+    {
+      "id": "1367793577358266440",
+      "fecha_utc": "2025-05-02T09:23:21.218000+00:00",
+      "fecha_local": "2025-05-02",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Sus ojos no te miran, están clavados por donde ha salido Kalista con una expresión muy seria. Ves que dice algo en infracomún y sus manos empiezan a moverse, en unos instantes el drow desaparece en un destello mágico... ha usado su teletransporte**\n\n🔴 Jelbreg sale de Escena 🔴",
+      "mensaje_sha256": "a56be047803f69bc4f2a95812774ed81e6bce2a908fed3b1cb6e1a96897af21d",
+      "tipo_discord": 19,
+      "referencia": "1367792798895439954",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1367793577358266440",
+      "texto_sha256": "28ccccda256613cba6600d7b26572ba8ea09f96ea6d5bb453d85e6a6b89f12ae",
+      "adjuntos": []
+    },
+    {
+      "id": "1367793670069157888",
+      "fecha_utc": "2025-05-02T09:23:43.322000+00:00",
+      "fecha_local": "2025-05-02",
+      "editado_utc": null,
+      "texto": "Gur: *habrá leído mis pensamientos??*",
+      "mensaje_sha256": "552207b488b1312cfbb6c249186ed1e9bd3ac5b7ba027042c20758d54d496dcd",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1367793670069157888",
+      "texto_sha256": "94cea21c6637e49557ba103d74e781639ef35bf163e0ed0a8f51dc4e25e9288c",
+      "adjuntos": []
+    },
+    {
+      "id": "1367794297704812605",
+      "fecha_utc": "2025-05-02T09:26:12.962000+00:00",
+      "fecha_local": "2025-05-02",
+      "editado_utc": null,
+      "texto": "guxi: que demonios *habia ido a por kalista pero no le dio tiempo a alcanzarla al ver que ha desparecido los dos se da la vuelta y se pone a arreglar el agujero de la habitacion de shirz**",
+      "mensaje_sha256": "4bdddcf107758934670a7e79a97179448dcadfede01bf2c39157f7bc5cf8dfc8",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1367794297704812605",
+      "texto_sha256": "94b6174af221735654d581f8bdcaa336ae2ce3f6d51c4e5901f23f99d896e38c",
+      "adjuntos": []
+    },
+    {
+      "id": "1367794698105655398",
+      "fecha_utc": "2025-05-02T09:27:48.425000+00:00",
+      "fecha_local": "2025-05-02",
+      "editado_utc": null,
+      "texto": "Gur:*tengo que enseñarle mi nuevo poder a mi sensei … bueno exsensei… por cierto donde estará ? **Gur muy pensativo sale de la base sin decir nada, inmerso en sus pensamientos**",
+      "mensaje_sha256": "851b3bb9f4596f32bb69017e4729f43668f30f199e7ac43a8859f70e3abe0efb",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1367794698105655398",
+      "texto_sha256": "a8bef8d35f8c85239609277995f56f0d5309638a4bcf0968dd98ace8516916e8",
+      "adjuntos": []
+    },
+    {
+      "id": "1367794834097704971",
+      "fecha_utc": "2025-05-02T09:28:20.848000+00:00",
+      "fecha_local": "2025-05-02",
+      "editado_utc": null,
+      "texto": "<:d20:1075726193736830996> **Gur sale de escena** <:d20:1075726193736830996>",
+      "mensaje_sha256": "e757964eaa2ebef1757615963b5ebf15547894fd59b27e7360a53921573ddfe7",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1367794834097704971",
+      "texto_sha256": "731aecbcdd79d5b171d1ba37ee81298fa65cf68505e9c88a6fbcd1d016f52672",
+      "adjuntos": []
+    },
+    {
+      "id": "1367797145163534378",
+      "fecha_utc": "2025-05-02T09:37:31.849000+00:00",
+      "fecha_local": "2025-05-02",
+      "editado_utc": null,
+      "texto": "Banzo: *madre mía estos dos están chalados siempre están igual a saber las barbaridades que se han dicho* \n\n**Banzo se sienta en el salón y saca un pañuelo color morado que le dio Fukami (sra gordita) y se queda observándolo.  \n\nEy Guxi <@171702246952665098> te hecho  un mano \n**coge 5 tablones se los hecha al hombro y se coloc l lado de Guxi para ir dandoselos o colocándolos donde indique **",
+      "mensaje_sha256": "6bfd021a475d76ae5f041283cd64b113d6805328277fd4918f6bda44e7797cc9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1367797145163534378",
+      "texto_sha256": "5a3a4583f1d08454e50dcf1e4e6d47aeaad1902bbd35d8067812bd578bf0d452",
+      "adjuntos": []
+    },
+    {
+      "id": "1367800956439494737",
+      "fecha_utc": "2025-05-02T09:52:40.528000+00:00",
+      "fecha_local": "2025-05-02",
+      "editado_utc": null,
+      "texto": "Guxi: gracias que haríamos sin ti  **suspira** * esto no puede hacerlo uno solo* cuidado hay clavos en el suelo",
+      "mensaje_sha256": "f863e5644a9ef98ff14eb6005f755dccf5a1fea647216615a05b659c3b2cc533",
+      "tipo_discord": 19,
+      "referencia": "1367797145163534378",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1367800956439494737",
+      "texto_sha256": "4342b326bbf13f136ff6ec3a3abee8f06a6e2df632c7097f01946d4fe55d5812",
+      "adjuntos": []
+    },
+    {
+      "id": "1367807116483756053",
+      "fecha_utc": "2025-05-02T10:17:09.197000+00:00",
+      "fecha_local": "2025-05-02",
+      "editado_utc": "2025-05-02T10:17:24.173000+00:00",
+      "texto": "Banzo : **pasado un rato** , oye Guxi ,como vamos va quedando bien eso ?",
+      "mensaje_sha256": "e210e65518c87ce2eafa663ca6be3108e70f168723d6db5ea403487c35122aa1",
+      "tipo_discord": 19,
+      "referencia": "1367800956439494737",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1367807116483756053",
+      "texto_sha256": "1887818310d8c796eed2d5f1194810b8cf4f433589ee4c56ea31a8e38eb193ef",
+      "adjuntos": []
+    },
+    {
+      "id": "1367807458864529448",
+      "fecha_utc": "2025-05-02T10:18:30.827000+00:00",
+      "fecha_local": "2025-05-02",
+      "editado_utc": null,
+      "texto": "Guxi: parece que por hoy está bien ** se hecha la mano a la cara no está viendo bien** descansemos y lo terminamos mañana te parece?",
+      "mensaje_sha256": "234b7e24d2da2319976b55b4688d9913e0c98cace7dee4732c16ae5f836f8ad8",
+      "tipo_discord": 19,
+      "referencia": "1367807116483756053",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1367807458864529448",
+      "texto_sha256": "95148b156d960a468446c156292baa6a4d9e8af3efe5513e04a35a3583090ced",
+      "adjuntos": []
+    },
+    {
+      "id": "1367808006795821067",
+      "fecha_utc": "2025-05-02T10:20:41.464000+00:00",
+      "fecha_local": "2025-05-02",
+      "editado_utc": null,
+      "texto": "Banzo : Estás cansado , ya lo acabo yo , he visto como lo haces es fácil",
+      "mensaje_sha256": "975e26525a0a5d16441b9cee251c6a2b8f42a026e1c81dfdd621579ff1ca1715",
+      "tipo_discord": 19,
+      "referencia": "1367807458864529448",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1367808006795821067",
+      "texto_sha256": "7eda18e8ec62acd38f52812ebefd30715494d3acfc1720fec9aafb875651a49a",
+      "adjuntos": []
+    },
+    {
+      "id": "1367808473340973188",
+      "fecha_utc": "2025-05-02T10:22:32.697000+00:00",
+      "fecha_local": "2025-05-02",
+      "editado_utc": "2025-05-02T10:25:35.157000+00:00",
+      "texto": "Guxi; gracias banzo ** te dedica una ligera sonrisa ** solo queda martillar confio en ti **se va lentamente hacia su habitacion**",
+      "mensaje_sha256": "eccaca5252991b2833d0a73148191bc6854247f23e400c1b776173dd71ee7fb0",
+      "tipo_discord": 19,
+      "referencia": "1367808006795821067",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1367808473340973188",
+      "texto_sha256": "dffd3bcd3672141866453f845d7f1567b1e193f6d4599fd36a92fa928b196a14",
+      "adjuntos": []
+    },
+    {
+      "id": "1367809234997346364",
+      "fecha_utc": "2025-05-02T10:25:34.290000+00:00",
+      "fecha_local": "2025-05-02",
+      "editado_utc": "2025-05-02T10:25:52.742000+00:00",
+      "texto": "Banzo : **tardaría quizá 1 hora más en acabar lo que quedava , no sin darse algun martillazo en los dedos ** \n\nBueno esto ya está **da dos palmadas a modo de trabajo bien hecho y se dirige al portal hacia Ukyio**",
+      "mensaje_sha256": "e0d0ea31bcfd00a149f34b78ad714aa966d35aa803bd0f6476343945540f6790",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1367809234997346364",
+      "texto_sha256": "9cb8b8761d86c949d7a7b634fbea5197be3998e04482eba7db816d6c603130f1",
+      "adjuntos": []
+    },
+    {
+      "id": "1367813388159422504",
+      "fecha_utc": "2025-05-02T10:42:04.481000+00:00",
+      "fecha_local": "2025-05-02",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena 🔴",
+      "mensaje_sha256": "adea7d793aff237a13a2c034bc80463c241229c5c245ab216b1e12250adb3fc3",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1367813388159422504",
+      "texto_sha256": "298fa93bf0457633e2be1e0841043d853cccb9548c7ae2d8426119f0cb0a929e",
+      "adjuntos": []
+    }
+  ]
+}

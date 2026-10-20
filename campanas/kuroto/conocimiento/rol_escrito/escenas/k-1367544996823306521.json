@@ -1,0 +1,95 @@
+{
+  "id": "k-1367544996823306521",
+  "campana": "kuroto",
+  "unidad_revision": "k-1367544996823306521",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Kurobane se viste de gala",
+  "resumen": "Kurobane cambia de ropa después de ayudar con las flores y regresa a la capital.",
+  "relato": "Después de ayudar a Kalista con las flores, Kurobane vuelve a la base y busca un lugar apartado para cambiarse. Se viste de gala y se pone unos guantes a juego antes de guardar sus cosas y salir hacia la capital. En privado se pregunta cómo habrá muerto alguien y espera que haya sido de vejez; la fuente no identifica a esa persona. También piensa que no quiere que lo vean todo, sin precisar qué intenta ocultar. No comparte esas preocupaciones con otro personaje.",
+  "participantes": [
+    "Kurobane"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1367544996823306521",
+      "afirmacion": "Kurobane se cambia en privado, se viste de gala con guantes y sale hacia la capital.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1367544996823306521",
+      "afirmacion": "Se pregunta en privado por la causa de una muerte sin identificar a la persona.",
+      "tipo": "pensamiento"
+    }
+  ],
+  "notas": [
+    "Dos mensajes íntegros, incluido el cierre. No se atribuye una muerte concreta ni se revela qué ocultan los guantes."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-01T16:55:35+00:00",
+  "fin_utc": "2025-05-01T17:02:27.592000+00:00",
+  "fecha_local": "2025-05-01",
+  "intervalo": {
+    "anterior": 110,
+    "siguiente": 111,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367206327377727518",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 110,
+        "fecha": "2025-04-30",
+        "inicio_referencia_utc": "2025-04-30T18:29:35+00:00",
+        "fin_estimado_utc": "2025-04-30T20:53:27+00:00",
+        "duracion_video_segundos": 8632,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367206327377727518"
+      },
+      {
+        "capitulo": 111,
+        "fecha": "2025-05-01",
+        "inicio_referencia_utc": "2025-05-01T18:30:18+00:00",
+        "fin_estimado_utc": "2025-05-01T21:17:50+00:00",
+        "duracion_video_segundos": 10052,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1367544996823306521",
+      "fecha_utc": "2025-05-01T16:55:35+00:00",
+      "fecha_local": "2025-05-01",
+      "editado_utc": "2025-05-01T17:01:18.471000+00:00",
+      "texto": "Kurobane:\n\n**Despues de ayudar a Kalista con las flores, entra en la sala de los cazadores e irá a una zona para que no le vean cambiarse**\n\n*Cómo habrá muerto? Espero que haya sido por vejez...*\n\n**Antes de salir totalmente vestido de gala se pone unos guantes a conjunto**\n\n\n*No quiero que vean todo*\n\n**Sale de la base no sin antes guardar todo en su bolsa en dirección a la capital**",
+      "mensaje_sha256": "b5dc1d09c52948ec451261860d8aaf74c0f81f9f8018968768003e688e8cb379",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1367544996823306521",
+      "texto_sha256": "07d44841efa76709847ce9b36599badd7f697d73a8e5fbfee537c2a7f4b20b1e",
+      "adjuntos": []
+    },
+    {
+      "id": "1367546727359315978",
+      "fecha_utc": "2025-05-01T17:02:27.592000+00:00",
+      "fecha_local": "2025-05-01",
+      "editado_utc": null,
+      "texto": "🔴 Fin de la escena 🔴",
+      "mensaje_sha256": "8b1318f38cd6b3f37555a641f65b1197267362be7bc6cf8729bf5dbc26586973",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1367546727359315978",
+      "texto_sha256": "17de8d95942b0fb6967047c232c2803aac08862ce9732e9e4ad54f0347d72b95",
+      "adjuntos": []
+    }
+  ]
+}

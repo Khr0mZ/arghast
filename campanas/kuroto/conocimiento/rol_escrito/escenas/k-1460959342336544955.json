@@ -1,0 +1,80 @@
+{
+  "id": "k-1460959342336544955",
+  "campana": "kuroto",
+  "unidad_revision": "k-1460885744435597458",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "Hayate lleva la Pluma Ancestral a la guerra",
+  "resumen": "El aarakocra se despide de su hermano y sale con una flecha heredada como emblema de su linaje.",
+  "relato": "Después de recibir la misiva de guerra, Hayate se despide de su hermano en el templo. Parte tranquilo porque el bosque queda a su cuidado. Lleva sus mejores vestimentas y flechas, entre ellas la Pluma Ancestral, símbolo heráldico de su ciudad que su hermano, heredero por linaje real, le ha cedido. La narración identifica a Hayate como hermano bastardo y presenta la flecha como testimonio de un linaje dañado por Ootakemaru que todavía puede actuar. Con una última mirada al refugio, alza el vuelo entre las montañas; no se muestra su llegada al frente.",
+  "participantes": [
+    "Hayate",
+    "Hermano de Hayate"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1460959342336544955",
+      "afirmacion": "Hayate parte del templo con la Pluma Ancestral cedida por su hermano.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Dos partes leídas completas. Adjunto Banzo.png visto: ojos de Kalista y Jelbreg con la frase Siempre estaremos contigo, grandullón; apoyo a la despedida, sin probar su presencia física.",
+    "La última intervención de Carulla es un comentario del jugador sobre una campaña futura, no la caída consumada de una diosa.",
+    "La pequeña criatura de ocho patas sale sin que nadie lo perciba; no asignarle nombre, genealogía ni propósito por inferencia."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-01-14T11:30:50.525000+00:00",
+  "fin_utc": "2026-01-14T11:30:50.525000+00:00",
+  "fecha_local": "2026-01-14",
+  "intervalo": {
+    "anterior": 179,
+    "siguiente": 180,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1458905021985853695",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1461435221806284870",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 179,
+        "fecha": "2026-01-08",
+        "inicio_referencia_utc": "2026-01-08T19:27:25+00:00",
+        "fin_estimado_utc": "2026-01-08T21:59:18+00:00",
+        "duracion_video_segundos": 9113,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1458905021985853695"
+      },
+      {
+        "capitulo": 180,
+        "fecha": "2026-01-15",
+        "inicio_referencia_utc": "2026-01-15T19:01:30+00:00",
+        "fin_estimado_utc": "2026-01-15T22:02:29+00:00",
+        "duracion_video_segundos": 10859,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1461435221806284870"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1460959342336544955",
+      "fecha_utc": "2026-01-14T11:30:50.525000+00:00",
+      "fecha_local": "2026-01-14",
+      "editado_utc": null,
+      "texto": "**Templo de Hayate**\n\nHayate abandona el templo después de recibir la misiva de guerra, despidiéndose de su hermano entre abrazos, sonrisas y lágrimas. Se va tranquilo, con todos los asuntos zanjados, sabiendo que el bosque se mantendrá seguro y vigilado por su hermano. \nPortando sus mejores vestimentas, cubren su negro plumaje y muestran cuidados grabados del trueno y el viento. De su carcaj sobresalen sus mejores flechas, pero una llama la atención entre  las otras. La conocida como Pluma Ancestral, es el emblema heráldico de los Aarakocras de su ciudad natal. Heredada por su hermano por linaje real, se la ha cedido a su hermano bastardo Hayate para mostrar que su linaje perdido en manos de Otakemaru aún tiene fuerza en esta guerra.\nAlzando el vuelo, da un último vistazo al templo que le ha traído la paz, da las gracias al bosque por arroparlo, y desaparece con un último relámpago que ilumina las montañas",
+      "mensaje_sha256": "8015a8989301df1b97e2f30c4db9e78beba6b8edb2b59ece061b747c93ffea24",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1460959342336544955",
+      "texto_sha256": "915f849d6f9afb6e3eecd508558d20350d07c226ac5f5a4ca339aadb2a64c5de",
+      "adjuntos": []
+    }
+  ]
+}

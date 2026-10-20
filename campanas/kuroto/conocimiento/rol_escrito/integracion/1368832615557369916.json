@@ -1,0 +1,610 @@
+{
+  "hilo_id": "1368832615557369916",
+  "hilo": "??? - En alguna parte",
+  "campana": "kuroto",
+  "unidades_leidas": 3,
+  "alcance": "Lectura íntegra de cuatro partes y dos adjuntos visuales. Dos escenas consecutivas de una expedición y una visita posterior independiente a Dhelshicirv.",
+  "identidades": [
+    {
+      "nombre": "Jelbreg",
+      "alias": [],
+      "pruebas": [
+        "1368869561528483871",
+        "1368881409963589753"
+      ],
+      "nota": "Se declara hijo de la matrona de una segunda casa noble y hermano de Danifae. No fijar ciudad ni nombre de la madre.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1368869561528483871",
+          "escena": "k-1368832615557369916",
+          "fecha_utc": "2025-05-05T08:38:55.835000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1368869561528483871"
+        },
+        {
+          "mensaje_id": "1368881409963589753",
+          "escena": "k-1368832615557369916",
+          "fecha_utc": "2025-05-05T09:26:00.722000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1368881409963589753"
+        }
+      ]
+    },
+    {
+      "nombre": "Palathier",
+      "alias": [
+        "Phalatzier",
+        "Palatziher"
+      ],
+      "pruebas": [
+        "1368860354708373538",
+        "1368926442913792121",
+        "1368970504592953347"
+      ],
+      "nota": "Variaciones ortográficas del mismo nombre en estos intercambios; adoradora de Eilistraee.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1368860354708373538",
+          "escena": "k-1368832615557369916",
+          "fecha_utc": "2025-05-05T08:02:20.758000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1368860354708373538"
+        },
+        {
+          "mensaje_id": "1368926442913792121",
+          "escena": "k-1368832615557369916",
+          "fecha_utc": "2025-05-05T12:24:57.414000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1368926442913792121"
+        },
+        {
+          "mensaje_id": "1368970504592953347",
+          "escena": "k-1368832615557369916",
+          "fecha_utc": "2025-05-05T15:20:02.537000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1368970504592953347"
+        }
+      ]
+    },
+    {
+      "nombre": "Wasabi",
+      "alias": [
+        "La culebrilla"
+      ],
+      "pruebas": [
+        "1368834888501039184",
+        "1369302630827819050"
+      ],
+      "nota": "Serpiente que comunica mediante pizarra. Las cursivas de lo escrito no son pensamientos inaudibles por defecto.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1368834888501039184",
+          "escena": "k-1368832615557369916",
+          "fecha_utc": "2025-05-05T06:21:09.141000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1368834888501039184"
+        },
+        {
+          "mensaje_id": "1369302630827819050",
+          "escena": "k-1369187353549344921",
+          "fecha_utc": "2025-05-06T13:19:47.602000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1369302630827819050"
+        }
+      ]
+    },
+    {
+      "nombre": "Dhelshicirv",
+      "alias": [
+        "Pelota con ojos",
+        "Delvisqui"
+      ],
+      "pruebas": [
+        "1380855146560618497",
+        "1380908332919029811",
+        "1381023595316383835"
+      ],
+      "nota": "Contemplador y dueño de la tienda. Delvisqui es el intento infantil de Arwen de pronunciar su nombre.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1380855146560618497",
+          "escena": "k-1380828945834049547",
+          "fecha_utc": "2025-06-07T10:25:21.988000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1380855146560618497"
+        },
+        {
+          "mensaje_id": "1380908332919029811",
+          "escena": "k-1380828945834049547",
+          "fecha_utc": "2025-06-07T13:56:42.604000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1380908332919029811"
+        },
+        {
+          "mensaje_id": "1381023595316383835",
+          "escena": "k-1380828945834049547",
+          "fecha_utc": "2025-06-07T21:34:43.301000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1381023595316383835"
+        }
+      ]
+    },
+    {
+      "nombre": "Maroxi",
+      "alias": [],
+      "pruebas": [
+        "1381028686563905667",
+        "1381034994985603112"
+      ],
+      "nota": "Cambiaformas/cambiante según esta conversación. Papi es apelativo de Xyllya, sin parentesco biológico probado.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1381028686563905667",
+          "escena": "k-1380828945834049547",
+          "fecha_utc": "2025-06-07T21:54:57.149000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1381028686563905667"
+        },
+        {
+          "mensaje_id": "1381034994985603112",
+          "escena": "k-1380828945834049547",
+          "fecha_utc": "2025-06-07T22:20:01.194000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1381034994985603112"
+        }
+      ]
+    }
+  ],
+  "arcos": [
+    {
+      "nombre": "El secreto de la guerra drow",
+      "avance": "Jelbreg muestra un batallón acompañado por demonios. Atribuye otras tropas y riesgo de invasión a la reacción de las matronas. Banzo y Palathier pactan callar ante Danifae y los demás cazadores y dejar su contención a Jelbreg.",
+      "pruebas": [
+        "1368873220152754226",
+        "1368881409963589753",
+        "1368891241282011176",
+        "1369284590769934367"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1368873220152754226",
+          "escena": "k-1368832615557369916",
+          "fecha_utc": "2025-05-05T08:53:28.119000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1368873220152754226"
+        },
+        {
+          "mensaje_id": "1368881409963589753",
+          "escena": "k-1368832615557369916",
+          "fecha_utc": "2025-05-05T09:26:00.722000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1368881409963589753"
+        },
+        {
+          "mensaje_id": "1368891241282011176",
+          "escena": "k-1368832615557369916",
+          "fecha_utc": "2025-05-05T10:05:04.691000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1368891241282011176"
+        },
+        {
+          "mensaje_id": "1369284590769934367",
+          "escena": "k-1369187353549344921",
+          "fecha_utc": "2025-05-06T12:08:06.517000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1369284590769934367"
+        }
+      ]
+    },
+    {
+      "nombre": "Las marcas y el miedo de Kalista",
+      "avance": "Jelbreg explica la vigilancia materna mediante el sello abierto, fuerza a Banzo a identificar a Kalista y pide buscarla para aclarar su miedo. Acuerdan que Banzo la entretenga y Palathier lo busque en el Gato Tuerto. La explicación y el encuentro no se realizan aquí.",
+      "pruebas": [
+        "1368892850334335059",
+        "1368895527353323552",
+        "1369301589218693210",
+        "1369318040117706804",
+        "1369323275368402944"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1368892850334335059",
+          "escena": "k-1368832615557369916",
+          "fecha_utc": "2025-05-05T10:11:28.319000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1368892850334335059"
+        },
+        {
+          "mensaje_id": "1368895527353323552",
+          "escena": "k-1368832615557369916",
+          "fecha_utc": "2025-05-05T10:22:06.570000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1368895527353323552"
+        },
+        {
+          "mensaje_id": "1369301589218693210",
+          "escena": "k-1369187353549344921",
+          "fecha_utc": "2025-05-06T13:15:39.263000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1369301589218693210"
+        },
+        {
+          "mensaje_id": "1369318040117706804",
+          "escena": "k-1369187353549344921",
+          "fecha_utc": "2025-05-06T14:21:01.463000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1369318040117706804"
+        },
+        {
+          "mensaje_id": "1369323275368402944",
+          "escena": "k-1369187353549344921",
+          "fecha_utc": "2025-05-06T14:41:49.644000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1369323275368402944"
+        }
+      ]
+    },
+    {
+      "nombre": "Supervivencia en la Infraoscuridad",
+      "avance": "Matan a dos oseogarfios, huyen heridos y descansan. Al despertar, Banzo y Palathier abaten tres criaturas del estanque. Jelbreg solo había salido a buscar bluecaps y finalmente los transporta fuera. Una presencia oculta queda insinuada.",
+      "pruebas": [
+        "1368958548670943334",
+        "1368963196194390076",
+        "1369249811403903028",
+        "1369256372952367156",
+        "1369325277821407263"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1368958548670943334",
+          "escena": "k-1368832615557369916",
+          "fecha_utc": "2025-05-05T14:32:32.023000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1368958548670943334"
+        },
+        {
+          "mensaje_id": "1368963196194390076",
+          "escena": "k-1368832615557369916",
+          "fecha_utc": "2025-05-05T14:51:00.079000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1368963196194390076"
+        },
+        {
+          "mensaje_id": "1369249811403903028",
+          "escena": "k-1369187353549344921",
+          "fecha_utc": "2025-05-06T09:49:54.470000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1369249811403903028"
+        },
+        {
+          "mensaje_id": "1369256372952367156",
+          "escena": "k-1369187353549344921",
+          "fecha_utc": "2025-05-06T10:15:58.865000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1369256372952367156"
+        },
+        {
+          "mensaje_id": "1369325277821407263",
+          "escena": "k-1369187353549344921",
+          "fecha_utc": "2025-05-06T14:49:47.066000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1369325277821407263"
+        }
+      ]
+    },
+    {
+      "nombre": "El libro y la deuda de Maroxi",
+      "avance": "Xyllya lo lleva con Arwen a Dhelshicirv. Tras el ataque de entrada, logran negociar: Maroxi rechaza ser espécimen y acepta deber un objeto mágico poderoso. El contemplador abre el libro, anuncia cuatro fuentes poderosas y conserva el volumen para estudiarlo. Maroxi lleva un ojo de vigilancia con amenaza punitiva.",
+      "pruebas": [
+        "1381023595316383835",
+        "1381031551512350808",
+        "1381039393115996192",
+        "1381042217501589675",
+        "1381043446537781298",
+        "1381044003088105603"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1381023595316383835",
+          "escena": "k-1380828945834049547",
+          "fecha_utc": "2025-06-07T21:34:43.301000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1381023595316383835"
+        },
+        {
+          "mensaje_id": "1381031551512350808",
+          "escena": "k-1380828945834049547",
+          "fecha_utc": "2025-06-07T22:06:20.206000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1381031551512350808"
+        },
+        {
+          "mensaje_id": "1381039393115996192",
+          "escena": "k-1380828945834049547",
+          "fecha_utc": "2025-06-07T22:37:29.790000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1381039393115996192"
+        },
+        {
+          "mensaje_id": "1381042217501589675",
+          "escena": "k-1380828945834049547",
+          "fecha_utc": "2025-06-07T22:48:43.176000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1381042217501589675"
+        },
+        {
+          "mensaje_id": "1381043446537781298",
+          "escena": "k-1380828945834049547",
+          "fecha_utc": "2025-06-07T22:53:36.201000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1381043446537781298"
+        },
+        {
+          "mensaje_id": "1381044003088105603",
+          "escena": "k-1380828945834049547",
+          "fecha_utc": "2025-06-07T22:55:48.893000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1381044003088105603"
+        }
+      ]
+    }
+  ],
+  "pendientes": [
+    {
+      "pregunta": "¿Cumplen los tres el secreto y Jelbreg pide ayuda antes de que Danifae avise a las matronas?",
+      "pruebas": [
+        "1368891241282011176",
+        "1369298357314650204"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1368891241282011176",
+          "escena": "k-1368832615557369916",
+          "fecha_utc": "2025-05-05T10:05:04.691000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1368891241282011176"
+        },
+        {
+          "mensaje_id": "1369298357314650204",
+          "escena": "k-1369187353549344921",
+          "fecha_utc": "2025-05-06T13:02:48.717000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1369298357314650204"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué ha comprendido Kalista, por qué teme a Jelbreg y llega a producirse el encuentro?",
+      "pruebas": [
+        "1369301589218693210",
+        "1369323275368402944"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1369301589218693210",
+          "escena": "k-1369187353549344921",
+          "fecha_utc": "2025-05-06T13:15:39.263000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1369301589218693210"
+        },
+        {
+          "mensaje_id": "1369323275368402944",
+          "escena": "k-1369187353549344921",
+          "fecha_utc": "2025-05-06T14:41:49.644000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1369323275368402944"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién observa la salida desde las sombras y conoce el pacto?",
+      "pruebas": [
+        "1369325277821407263"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1369325277821407263",
+          "escena": "k-1369187353549344921",
+          "fecha_utc": "2025-05-06T14:49:47.066000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1369325277821407263"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál es la traducción completa del ritual y qué cuatro fuentes necesita?",
+      "pruebas": [
+        "1381043446537781298",
+        "1381043842215706664"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1381043446537781298",
+          "escena": "k-1380828945834049547",
+          "fecha_utc": "2025-06-07T22:53:36.201000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1381043446537781298"
+        },
+        {
+          "mensaje_id": "1381043842215706664",
+          "escena": "k-1380828945834049547",
+          "fecha_utc": "2025-06-07T22:55:10.538000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1381043842215706664"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué objeto lleva Maroxi, se cumple la deuda y se retira el ojo?",
+      "pruebas": [
+        "1381039393115996192",
+        "1381044003088105603"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1381039393115996192",
+          "escena": "k-1380828945834049547",
+          "fecha_utc": "2025-06-07T22:37:29.790000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1381039393115996192"
+        },
+        {
+          "mensaje_id": "1381044003088105603",
+          "escena": "k-1380828945834049547",
+          "fecha_utc": "2025-06-07T22:55:48.893000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1381044003088105603"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Está disponible el espejo entregado a la reina y qué contiene el otro libro de Bahaal para ayudar a Shirz?",
+      "pruebas": [
+        "1381036705590546469",
+        "1381038728197177475"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1381036705590546469",
+          "escena": "k-1380828945834049547",
+          "fecha_utc": "2025-06-07T22:26:49.034000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1381036705590546469"
+        },
+        {
+          "mensaje_id": "1381038728197177475",
+          "escena": "k-1380828945834049547",
+          "fecha_utc": "2025-06-07T22:34:51.261000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1381038728197177475"
+        }
+      ]
+    }
+  ],
+  "relaciones": [
+    {
+      "personas": [
+        "Jelbreg",
+        "Banzo",
+        "Palathier"
+      ],
+      "desarrollo": "Pacto de confianza y secreto con intimidación y coacción mágica presentes. Se protegen, curan y cargan mutuamente durante la huida.",
+      "pruebas": [
+        "1368891241282011176",
+        "1368892850334335059",
+        "1368964018026582176",
+        "1368968187948957897"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1368891241282011176",
+          "escena": "k-1368832615557369916",
+          "fecha_utc": "2025-05-05T10:05:04.691000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1368891241282011176"
+        },
+        {
+          "mensaje_id": "1368892850334335059",
+          "escena": "k-1368832615557369916",
+          "fecha_utc": "2025-05-05T10:11:28.319000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1368892850334335059"
+        },
+        {
+          "mensaje_id": "1368964018026582176",
+          "escena": "k-1368832615557369916",
+          "fecha_utc": "2025-05-05T14:54:16.019000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1368964018026582176"
+        },
+        {
+          "mensaje_id": "1368968187948957897",
+          "escena": "k-1368832615557369916",
+          "fecha_utc": "2025-05-05T15:10:50.206000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1368968187948957897"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Banzo",
+        "Palathier"
+      ],
+      "desarrollo": "Amistad explícita: él lamenta involucrarla y ella afirma que ayudar a amigos la satisface.",
+      "pruebas": [
+        "1368972083144560641",
+        "1368973989728358493"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1368972083144560641",
+          "escena": "k-1368832615557369916",
+          "fecha_utc": "2025-05-05T15:26:18.893000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1368972083144560641"
+        },
+        {
+          "mensaje_id": "1368973989728358493",
+          "escena": "k-1368832615557369916",
+          "fecha_utc": "2025-05-05T15:33:53.458000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1368973989728358493"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Jelbreg",
+        "Wasabi"
+      ],
+      "desarrollo": "Caricias, alimentación y vigilancia encomendada junto a amenazas para guardar silencio; no reducir la relación a afecto voluntario.",
+      "pruebas": [
+        "1369299482843287562",
+        "1369304145793777724"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1369299482843287562",
+          "escena": "k-1369187353549344921",
+          "fecha_utc": "2025-05-06T13:07:17.064000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1369299482843287562"
+        },
+        {
+          "mensaje_id": "1369304145793777724",
+          "escena": "k-1369187353549344921",
+          "fecha_utc": "2025-05-06T13:25:48.798000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1369304145793777724"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Xyllya",
+        "Maroxi",
+        "Arwen"
+      ],
+      "desarrollo": "La shadar-kai los guía, traduce y transporta; Maroxi da la poción para salvarla y Arwen se la administra.",
+      "pruebas": [
+        "1381017380809084948",
+        "1381017872771452988",
+        "1381241591758323786"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1381017380809084948",
+          "escena": "k-1380828945834049547",
+          "fecha_utc": "2025-06-07T21:10:01.647000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1381017380809084948"
+        },
+        {
+          "mensaje_id": "1381017872771452988",
+          "escena": "k-1380828945834049547",
+          "fecha_utc": "2025-06-07T21:11:58.940000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1381017872771452988"
+        },
+        {
+          "mensaje_id": "1381241591758323786",
+          "escena": "k-1380828945834049547",
+          "fecha_utc": "2025-06-08T12:00:57.703000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1381241591758323786"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Maroxi",
+        "Dhelshicirv"
+      ],
+      "desarrollo": "Contrato de estudio y traducción por una deuda de objeto poderoso, controlado por un ojo y amenaza de desintegración.",
+      "pruebas": [
+        "1381039393115996192",
+        "1381042217501589675",
+        "1381042682335461599"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1381039393115996192",
+          "escena": "k-1380828945834049547",
+          "fecha_utc": "2025-06-07T22:37:29.790000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1381039393115996192"
+        },
+        {
+          "mensaje_id": "1381042217501589675",
+          "escena": "k-1380828945834049547",
+          "fecha_utc": "2025-06-07T22:48:43.176000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1381042217501589675"
+        },
+        {
+          "mensaje_id": "1381042682335461599",
+          "escena": "k-1380828945834049547",
+          "fecha_utc": "2025-06-07T22:50:34.001000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1368832615557369916/1381042682335461599"
+        }
+      ]
+    }
+  ],
+  "precauciones_editoriales": [
+    "Las palabras y el alcance de las amenazas drow mantienen atribución a Jelbreg.",
+    "La posibilidad de que Kalista esté hechizada es descartada por Jelbreg, sin explicación definitiva alternativa.",
+    "La procedencia marciana de Dhelshicirv y los viajes anteriores son testimonios de Xyllya.",
+    "El contemplador abre el libro, pero no entrega traducción completa ni recibe el objeto.",
+    "La hipótesis de los cuatro templos pertenece a Maroxi.",
+    "Los apelativos papi, madre cuervo y pelota no crean parentescos ni especies externas.",
+    "La caverna y el retrato visualizan el entorno y la criatura; no añaden acciones."
+  ],
+  "estado_seguimiento": "al_cierre_del_hilo",
+  "nota_seguimiento": "Cada cuestión conserva el contexto de sus mensajes originales. Los cotejos enlazan las respuestas halladas en otras escenas; la ausencia de un cotejo no demuestra que siga abierta después de otros capítulos.",
+  "fecha_hasta_utc": "2025-06-08T12:05:52.479000+00:00"
+}

@@ -1,6 +1,6 @@
 # Relaciones de Kuroto
 
-Las 181 sesiones disponibles tienen relato revisado, con numeración hasta el capítulo 182. El capítulo 92 no figura en las fuentes recuperadas.
+Las 181 sesiones disponibles tienen relato revisado, con numeración hasta el capítulo 182. No se dispone del vídeo ni de la transcripción del capítulo 92.
 
 Las siguientes escenas describen interacciones documentadas entre personajes o facciones. Compartir una escena no se convierte automáticamente en una alianza, parentesco o pertenencia permanente.
 

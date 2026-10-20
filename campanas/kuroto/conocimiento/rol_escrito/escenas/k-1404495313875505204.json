@@ -1,0 +1,333 @@
+{
+  "id": "k-1404495313875505204",
+  "campana": "kuroto",
+  "unidad_revision": "k-1404495313875505204",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Chanecuxtli sigue a Jhin",
+  "resumen": "La pequeña criatura acompaña a Jhin mientras este prepara una visita a Shizzuka; Shirz y Kurobane regresan a Sho.",
+  "relato": "Con las hojas del cuerpo todavía chamuscadas tras una aventura no desarrollada aquí, Chanecuxtli sigue a Jhin e imita sus pasos. El cazador se agacha y la acaricia con una ternura que contrasta con su habitual seriedad. Le explica que prepara una visita a Shizzuka y acepta que lo acompañe. Cuando le ofrece uno de los bocadillos de su cesta, la pequeña criatura lo prueba y lo rechaza; prefiere escarbar en la tierra y comerse varios gusanos. Jhin comenta que quizá le gustarían los insectos preparados por Ushi, mientras piensa en privado que debería ir a palacio.\n\nMás adelante Shirz y Kurobane atraviesan el portal. El ninja pregunta por novedades y se retira a su habitación para meditar, avisando al clérigo de que pedirá ayuda si la necesita. Shirz ve la cesta de Jhin y pregunta qué es la criatura que lo acompaña. Chanecuxtli se aproxima a los recién llegados dando saltitos y sonidos curiosos. El cierre llega sin mostrar la visita a Shizzuka ni resolver la pregunta de Shirz.",
+  "participantes": [
+    "Chanecuxtli",
+    "Jhin",
+    "Shirz",
+    "Kurobane"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1404495313875505204",
+      "afirmacion": "Chanecuxtli sigue a Jhin con las hojas chamuscadas.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1404498567707754699",
+      "afirmacion": "Jhin explica que prepara una visita a Shizuka.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1404500572282818731",
+      "afirmacion": "Jhin ofrece un bocadillo de su cesta.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1404502823319896155",
+      "afirmacion": "Chanecuxtli prefiere comer un gusano encontrado en la tierra.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1404859786369044663",
+      "afirmacion": "Kurobane vuelve atravesando el portal después del clérigo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1404862763834146909",
+      "afirmacion": "Kurobane decide meditar en su habitación.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1404876458240901143",
+      "afirmacion": "Chanecuxtli se acerca a los recién llegados.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No identificar a Chanecuxtli con Seraphina por compartir autor; son personajes diferentes en el texto.",
+    "Shizuka y Shizzuka son variantes presentes de la destinataria nombrada por Jhin; no se representa el encuentro.",
+    "No se atribuye especie, origen ni capacidades nuevas a Chanecuxtli a partir de su apariencia."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-08-11T16:02:57.089000+00:00",
+  "fin_utc": "2025-08-13T06:22:53.584000+00:00",
+  "fecha_local": "2025-08-11",
+  "intervalo": {
+    "anterior": 144,
+    "siguiente": 145,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1403438861371310241",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1405610480659202078",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 144,
+        "fecha": "2025-08-08",
+        "inicio_referencia_utc": "2025-08-08T18:04:41+00:00",
+        "fin_estimado_utc": "2025-08-08T20:55:52+00:00",
+        "duracion_video_segundos": 10271,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1403438861371310241"
+      },
+      {
+        "capitulo": 145,
+        "fecha": "2025-08-14",
+        "inicio_referencia_utc": "2025-08-14T17:53:54+00:00",
+        "fin_estimado_utc": "2025-08-14T21:52:01+00:00",
+        "duracion_video_segundos": 14287,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1405610480659202078"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1404495313875505204",
+      "fecha_utc": "2025-08-11T16:02:57.089000+00:00",
+      "fecha_local": "2025-08-11",
+      "editado_utc": "2025-08-11T16:05:16.482000+00:00",
+      "texto": "Chanecuxtli:\n\n**Después de esa lamentable aventura y aún con las hojas de mi cuerpo chamusqueadas, seguí con mucha cautela a uno de los amigos de Arwen, el que casi no hablaba mucho y se le veía una mala cara**\n\nPio, pio\n\n**Mis pasos trataban de imitar a los de el, aunque la diferencia de tamaños era notable, así que en momentos tenia que correr para poder alcanzarle y seguir igual sus pasos**\n\n<@171702246952665098>",
+      "mensaje_sha256": "eb6bc53d5a1f8eea1aaafa32abccb69c9019c20c10dc9f70ae525fbb6963d6eb",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1404495313875505204",
+      "texto_sha256": "70209012185d5f783d3ee42b3547c5d55c71ad46b23e983ab58c6a859c58ecc9",
+      "adjuntos": []
+    },
+    {
+      "id": "1404496707651371078",
+      "fecha_utc": "2025-08-11T16:08:29.391000+00:00",
+      "fecha_local": "2025-08-11",
+      "editado_utc": null,
+      "texto": "Jhin: hola pequeñín\n*Se agacha para ponerse en su altura y acariciarle la cabeza se le nota una actitud blanda y amable como la de un padre al contrario de lo que suele aparentar*",
+      "mensaje_sha256": "07e13fa432bb2eac21cf8a0d3699abc0bffb528f109da83b8f873670c1964ada",
+      "tipo_discord": 19,
+      "referencia": "1404495313875505204",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1404496707651371078",
+      "texto_sha256": "7da79bb437deb7a79f8a72d09a8fc860d2f0b3219d81fd815cb8c0a63ebb6164",
+      "adjuntos": []
+    },
+    {
+      "id": "1404497289157808354",
+      "fecha_utc": "2025-08-11T16:10:48.033000+00:00",
+      "fecha_local": "2025-08-11",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n\nPio, a dónde vas?\n\n**Me dejaba acariciar la cabeza, moviendola del lado contrario de la mano del señor**",
+      "mensaje_sha256": "3de5696ef750ae01ecac16085c56561598c30e21651adb80b56017d02a420575",
+      "tipo_discord": 19,
+      "referencia": "1404496707651371078",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1404497289157808354",
+      "texto_sha256": "a68300675053605f904d0649d48d6a953e80e35b6891ca2a61ae8965c36b2ab2",
+      "adjuntos": []
+    },
+    {
+      "id": "1404498567707754699",
+      "fecha_utc": "2025-08-11T16:15:52.863000+00:00",
+      "fecha_local": "2025-08-11",
+      "editado_utc": null,
+      "texto": "Jhin: \nPreparando unas cosas para visitar a Shizuka \n*Le sonríe de forma cálida*",
+      "mensaje_sha256": "906c1d26739f6e78aa65073e0111c711e9ca6b2d1de4f8a5310eeff5a5580343",
+      "tipo_discord": 19,
+      "referencia": "1404497289157808354",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1404498567707754699",
+      "texto_sha256": "b989926be9802f51fd9887765f30a125eb940b069670c828d6e447a9644cd956",
+      "adjuntos": []
+    },
+    {
+      "id": "1404498906083229736",
+      "fecha_utc": "2025-08-11T16:17:13.538000+00:00",
+      "fecha_local": "2025-08-11",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n\nA quién?\n\n**Volvía a mover mi cabeza con duda y parpadear con esos grandes ojos amarillos**\n\nPuedo ir?, pio",
+      "mensaje_sha256": "f5f68a7c299fd804366081c42b7628b8c4e60d8ab51376f54c33e5e7bb3b7dfd",
+      "tipo_discord": 19,
+      "referencia": "1404498567707754699",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1404498906083229736",
+      "texto_sha256": "eb1496fb02ac839d6d247b8e5efce7e4168926cb9a7ec667a44c70546da6918b",
+      "adjuntos": []
+    },
+    {
+      "id": "1404499762283282462",
+      "fecha_utc": "2025-08-11T16:20:37.672000+00:00",
+      "fecha_local": "2025-08-11",
+      "editado_utc": null,
+      "texto": "Jhin: seguro que le caes bien \nTienes hambre?",
+      "mensaje_sha256": "14622a59ecf8fcbfc1da5187d63e8a39d62bfe7f26d8888cf79e520ea08baee1",
+      "tipo_discord": 19,
+      "referencia": "1404498906083229736",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1404499762283282462",
+      "texto_sha256": "f9bfc0d6f49dcf3280fcc22dfcc6928f95da8533c476d613d555176d57507c6e",
+      "adjuntos": []
+    },
+    {
+      "id": "1404500148859437147",
+      "fecha_utc": "2025-08-11T16:22:09.839000+00:00",
+      "fecha_local": "2025-08-11",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n\nAlgo, un poco, si\n\n**Moví la cabeza afirmando mientras rascaba el suelo con mis patitas**\n\nComer, comer, comer, pío pío",
+      "mensaje_sha256": "c599703fc3d79ab9cf515bd0f723d6a13eae5243255042b3e047931d92ad3076",
+      "tipo_discord": 19,
+      "referencia": "1404499762283282462",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1404500148859437147",
+      "texto_sha256": "7f656497ee7febed598c975ee781585d7881916627683fc639b2d30027a05130",
+      "adjuntos": []
+    },
+    {
+      "id": "1404500572282818731",
+      "fecha_utc": "2025-08-11T16:23:50.791000+00:00",
+      "fecha_local": "2025-08-11",
+      "editado_utc": null,
+      "texto": "Jhin: **saca una pequeña cesta con algunos bocadillos que iba a compartir con Shizuka le da uno de ellos**\nToma uno pequeñin",
+      "mensaje_sha256": "b5f2cfcc45a5cead096f729496df8da9938472f04606f7d1a18016a71d5ddc9f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1404500572282818731",
+      "texto_sha256": "997e91833dab2267476ed54c3c745a31a341f2a95fa75f4b920e949729a7fcb9",
+      "adjuntos": []
+    },
+    {
+      "id": "1404501088031342694",
+      "fecha_utc": "2025-08-11T16:25:53.755000+00:00",
+      "fecha_local": "2025-08-11",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n\n**Mire lo que sacó y ladee la cabeza, primero a la izquierda y después a la derecha, de ahí dí un picotazo al bocadillo, pero el sabor no fue mucho de mi agrado**\n\nNo gusta, pío \n\n**Salí corriendo hasta donde hubiera tierra y empecé a rascar**",
+      "mensaje_sha256": "863332caa29ae0dddb624ade5760f4e61ef9cb6d16ea89b0cdd036e8efe85cd1",
+      "tipo_discord": 19,
+      "referencia": "1404500572282818731",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1404501088031342694",
+      "texto_sha256": "c038a4ca44047918d8acb6458a2edd2ed7b9063350e1cced52b3241c8fa44a5e",
+      "adjuntos": []
+    },
+    {
+      "id": "1404502292467548274",
+      "fecha_utc": "2025-08-11T16:30:40.915000+00:00",
+      "fecha_local": "2025-08-11",
+      "editado_utc": "2025-08-11T16:32:32.609000+00:00",
+      "texto": "Jhin: algo me dice que le gusta la comida más natural \n**Se acerca a ella para ver qué está haciendo**",
+      "mensaje_sha256": "499b0c3c174f46dd866319592dc4fa8c0b59dc6e28713601ff1976bbf37505fc",
+      "tipo_discord": 19,
+      "referencia": "1404501088031342694",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1404502292467548274",
+      "texto_sha256": "e0cebbbcece6b14c554455dc1631cb116f573ff56de08bd83a38d56e1dbaa64a",
+      "adjuntos": []
+    },
+    {
+      "id": "1404502823319896155",
+      "fecha_utc": "2025-08-11T16:32:47.480000+00:00",
+      "fecha_local": "2025-08-11",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n\n**Después de rascar por unos segundos, algo salía arrastrándose de la tierra, un gusanito que no tenía ni idea que terminaría en mi estómago**\n\n**En cuanto se asomó, un picotazo lo alcanzó y lo sorbí como un espagueti**\n\nÑam!, rico!",
+      "mensaje_sha256": "0ad902fc86ed80d5ea657981dbd1984f563c001829ffd35d8f36603c0b71984b",
+      "tipo_discord": 19,
+      "referencia": "1404502292467548274",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1404502823319896155",
+      "texto_sha256": "1dcb957221929a47cc75253513591754a4f8f9ba3661b643453b978a30dc7c0b",
+      "adjuntos": []
+    },
+    {
+      "id": "1404503187469107271",
+      "fecha_utc": "2025-08-11T16:34:14.300000+00:00",
+      "fecha_local": "2025-08-11",
+      "editado_utc": null,
+      "texto": "Jhin: seguro que los insectos que prepara ushi te encantarían \n*Debería irme a palacio me estoy preocupando*",
+      "mensaje_sha256": "3d1605c23524636b309fb11cf098927be4bf5c840cf24654771e5428c5035a9e",
+      "tipo_discord": 19,
+      "referencia": "1404502823319896155",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1404503187469107271",
+      "texto_sha256": "16ca3a3e4bdc8b3cc1669ea89d25e3c6152188ca26b002ba0f43a268474ab715",
+      "adjuntos": []
+    },
+    {
+      "id": "1404503680928972811",
+      "fecha_utc": "2025-08-11T16:36:11.950000+00:00",
+      "fecha_local": "2025-08-11",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n\n**Después de comerme otros tres gusanos, me puse a lado de él**\n\nYa vamos?, o no vamos?, o nos quedamos?",
+      "mensaje_sha256": "1a5817fa76844fd4a0fbd5ba6e20e51d7b757b76cdc8dd44a4c40b5c8b48f024",
+      "tipo_discord": 19,
+      "referencia": "1404503187469107271",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1404503680928972811",
+      "texto_sha256": "23a0153eccf904b3aaed0e0dee548d18826657fb307ad89a5c3cd9b5aaaaddf0",
+      "adjuntos": []
+    },
+    {
+      "id": "1404859786369044663",
+      "fecha_utc": "2025-08-12T16:11:14.103000+00:00",
+      "fecha_local": "2025-08-12",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\n**Aparece atravesando el portal después del clérigo**\n\nHa habido alguna novedad, desde mi ausencia.\n\n**Dice serio mientras camina hacia la puerta**\n\n<@214405113677217793>",
+      "mensaje_sha256": "93708c5cee5b5536d473ea19831efd72050ad4bf5e8bb836de57151af0a61ed7",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1404859786369044663",
+      "texto_sha256": "3ced4016b2f6abf35255bca7cd8488a79ba1d48f14550fcdc00a22bb70ba4341",
+      "adjuntos": []
+    },
+    {
+      "id": "1404862140363571293",
+      "fecha_utc": "2025-08-12T16:20:35.339000+00:00",
+      "fecha_local": "2025-08-12",
+      "editado_utc": null,
+      "texto": "Shirz: **El elfo ve a Jhin con una cesta de bocadillos y sonríe, seguro que está preparando algo para Shizzuka. Mira abajo y ve...** Oye Jhin, que es eso?\n<@171702246952665098> <@408026114548695061>",
+      "mensaje_sha256": "1b3c3eb087a0d0e69fcca26cbc66569cf8aa7c361dc1c8bac4b6907968d7071b",
+      "tipo_discord": 19,
+      "referencia": "1404859786369044663",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1404862140363571293",
+      "texto_sha256": "52014900de932210e446e812fa82636fbc49233174b794fd23b92fed0f2a6ab6",
+      "adjuntos": []
+    },
+    {
+      "id": "1404862763834146909",
+      "fecha_utc": "2025-08-12T16:23:03.986000+00:00",
+      "fecha_local": "2025-08-12",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nIré a meditar en la habitación, si necesito ayuda le avisaré, señor Shirz.\n\n**Dice serio pero con una mirada decidida, antes de caminar hacia la habitación**",
+      "mensaje_sha256": "5ec76f703deb8eb30bc1b68c781c8e44b90ffc923380c12e53642a31958ceddf",
+      "tipo_discord": 19,
+      "referencia": "1404862140363571293",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1404862763834146909",
+      "texto_sha256": "93db934d95052841a0cf3bc3a2f0af89f1c72cbba719efcd591992333511fbd9",
+      "adjuntos": []
+    },
+    {
+      "id": "1404876458240901143",
+      "fecha_utc": "2025-08-12T17:17:28.987000+00:00",
+      "fecha_local": "2025-08-12",
+      "editado_utc": "2025-08-12T17:19:17.178000+00:00",
+      "texto": "Chanecuxtli:\n\n**Vi a los recién llegados y me acerqué a ellos dando brinquitos**\n\nPío?\n\n**Les moví la cabeza con algo de curiosidad mientras parpadeaba repetidas veces**\n\nPpprrr\n\n<@240564189448503306> <@214405113677217793>",
+      "mensaje_sha256": "6c22621a6716f56a7fdb9fe7f549003bd9dfab3f0b73deb3cbb439dae0ed381f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1404876458240901143",
+      "texto_sha256": "98a50811441b8a483967b9af2611b8a12d7880670f90f35ec5150d5885cc868d",
+      "adjuntos": []
+    },
+    {
+      "id": "1405074113126469715",
+      "fecha_utc": "2025-08-13T06:22:53.584000+00:00",
+      "fecha_local": "2025-08-13",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "25227cf7e98b2bb077b2057e744121cdde49a2a97a96ff200a45ce6658ee7409",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1405074113126469715",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

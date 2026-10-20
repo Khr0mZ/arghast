@@ -1,0 +1,353 @@
+{
+  "id": "k-1365233291413950485",
+  "campana": "kuroto",
+  "unidad_revision": "k-1365233291413950485",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "El juguetero accidentado y su pronóstico",
+  "resumen": "Hayate recibe a un gnomo que ofrece investigar la crisis de recursos mientras repara su máquina.",
+  "relato": "Una figura y una máquina humeante caen cerca del templo de Hayate. El aarakocra investiga las ramas rotas, apaga el fuego y reconoce a un juguetero gnomo, al que invita a té y ayuda a trasladar su artefacto, Dorothi. El visitante dice no haber obtenido los recursos buscados y atribuye su escasez a la guerra y a la influencia creciente de Ootakemaru. Presenta sus propias cifras y calcula un posible colapso de Kuroto en seis a nueve meses, sin aportar aquí una demostración. Alarmado, Hayate pide un informe y ayuda para investigar los recursos del enemigo; piensa también en informar a la corte. El gnomo acepta colaborar mientras repara la máquina e instala un taller improvisado. Advierte sobre manipularla sin su intervención y se concentra en sus herramientas. Sus predicciones quedan como afirmaciones por verificar, no como un plazo establecido del mundo.",
+  "participantes": [
+    "Hayate",
+    "Juguetero gnomo sin nombre"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1365249651305091134",
+      "afirmacion": "Hayate ofrece alojamiento, ayuda con la máquina y té al juguetero.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1365256431573663774",
+      "afirmacion": "El gnomo enuncia una teoría estadística de colapso, sin demostrarla en esta escena.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1365256791667249223",
+      "afirmacion": "El plazo de seis a nueve meses es una estimación del gnomo, no un anuncio narratorial de desenlace.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1365306162207129600",
+      "afirmacion": "El juguetero acepta ayudar mientras repara a Dorothi.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1365315587638694032",
+      "afirmacion": "El gnomo organiza un taller improvisado en el templo.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Leídos completos106mensajes y las dos partes. No hay adjuntos. Tres escenas intercaladas, dos escenarios distintos. El cierre final explícito pertenece al taller del templo; no cierra por sí solo la conversación administrativa.",
+    "El gnomo aparece como??? y juguetero conocido por Hayate, sin nombre personal acreditado. No es Banzo aunque comparta autor_ref. Dorothi/Dorothy es la máquina, no una persona.",
+    "Las probabilidades77,4% y90% y el plazo6–9meses son hipótesis del personaje sin datos verificables aquí. No se imponen como cuenta atrás canónica ni resultado autorizado de trama importante.",
+    "La sospecha de infiltración pertenece a Jelbreg; no hay prueba de que Kurobane trabaje para el culto. Su historia de origen es una declaración, no una escena retrospectiva presenciada.",
+    "Osurei es el nombre que Kurobane ofrece para llamarlo; no se crea una segunda identidad independiente sin cotejo.",
+    "Los pensamientos de Hayate sobre la Reina Cuervo no son información compartida. La cooperación administrativa no demuestra haber resuelto fraude, crisis económica ni instalado ya el buzón.",
+    "La salida final de Hayate se conserva aparte en k-1365350069766983712, sin fusionar sus fuentes o intervalo."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-04-25T07:49:41.481000+00:00",
+  "fin_utc": "2025-04-25T15:01:33.789000+00:00",
+  "fecha_local": "2025-04-25",
+  "intervalo": {
+    "anterior": 109,
+    "siguiente": 110,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1365035149171101736",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367206327377727518",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 109,
+        "fecha": "2025-04-24",
+        "inicio_referencia_utc": "2025-04-24T18:42:06+00:00",
+        "fin_estimado_utc": "2025-04-24T21:37:07+00:00",
+        "duracion_video_segundos": 10501,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1365035149171101736"
+      },
+      {
+        "capitulo": 110,
+        "fecha": "2025-04-30",
+        "inicio_referencia_utc": "2025-04-30T18:29:35+00:00",
+        "fin_estimado_utc": "2025-04-30T20:53:27+00:00",
+        "duracion_video_segundos": 8632,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367206327377727518"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1365233291413950485",
+      "fecha_utc": "2025-04-25T07:49:41.481000+00:00",
+      "fecha_local": "2025-04-25",
+      "editado_utc": "2025-04-25T07:50:19.512000+00:00",
+      "texto": "???: ** en la lejania del cielo veríamos lo que parece una diminuta figura o un cohete no se distingue bien que es ,  despues de una serie de giros raros , quien se haya fijado podria intuir que ha caido en lo que creeis que son las inmediaciones del templo de Hayate <@694971576340447292> ha caído **",
+      "mensaje_sha256": "8eb283516dfb90f747d75f34430d9bf8be6071ceb324b8c7b3fb1f882f9b9861",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1365233291413950485",
+      "texto_sha256": "5eecabf11b72bb34df3500bc65b77e8abeab4f03d9a1531222b9aae2b1c8b076",
+      "adjuntos": []
+    },
+    {
+      "id": "1365236722069405788",
+      "fecha_utc": "2025-04-25T08:03:19.413000+00:00",
+      "fecha_local": "2025-04-25",
+      "editado_utc": "2025-04-25T08:05:07.576000+00:00",
+      "texto": "**(TEMPLO)** Hayate: **meditando en las inmediaciones del templo, siente una conmoción que rompe su trance espiritual** \n*Algo pasa en el bosque, los pájaros están volando muy bajos y no parece que vaya a llover* **Levantará el vuelo para hacer un reconocimiento del bosque cercano al templo, localizando varios árboles con las ramas rotas. Descenderá a investigar con cautela** \n*Parece que algo grande ha caído del cielo!*",
+      "mensaje_sha256": "afb2bb5f8b521c2ebc5f894d9857199528988a7c4c313649e8cb70ae2b27c22b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1365236722069405788",
+      "texto_sha256": "cca4b1747d6a3a3bfa993b5544fd7096e077d7ba783abfb5007bc56a1395971c",
+      "adjuntos": []
+    },
+    {
+      "id": "1365238509673254922",
+      "fecha_utc": "2025-04-25T08:10:25.611000+00:00",
+      "fecha_local": "2025-04-25",
+      "editado_utc": "2025-04-25T08:14:59.166000+00:00",
+      "texto": "(TEMPLO)  ??? :** verías una maquinaria extraña soltando humo por todos lados y una pequeña figura humanoide intentando sofocar los fuegos de este artilugio raro . Todo esto te suena familiar , hasta que la reconoces , ya sabes quien es . **",
+      "mensaje_sha256": "26212fb86c521374a9a8c9e4d47e62aeb7ef38c5adeea688bde807b683c66aee",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1365238509673254922",
+      "texto_sha256": "7e8464a5be7b26f3b1e54a2cc7ca0ae3845c4165435e8cd979430b7b7ab3e087",
+      "adjuntos": []
+    },
+    {
+      "id": "1365241356837978112",
+      "fecha_utc": "2025-04-25T08:21:44.428000+00:00",
+      "fecha_local": "2025-04-25",
+      "editado_utc": null,
+      "texto": "**(TEMPLO)** Hayate: **preocupado por el bosque, se apresurará a apagar el pequeño fuego con un fuerte aleteo, mientras se dirige a la pequeña figura** \nTu otra vez? Ya te advertí que los cielos no pertenecen a los terrestres! \n**Una vez apagado el fuego, evaluará el estado del accidentado**\nEstás bien?? ¡Me alegro de verte otra vez por aquí",
+      "mensaje_sha256": "89e0f9a2c2bb49211c9898464bf6a055ddfd59860c14c65325c5434f7eb46114",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1365241356837978112",
+      "texto_sha256": "41e6d7131a3bfd00f410ac146349c0f74dd74461750409a2a62e6bc8abbc7c42",
+      "adjuntos": []
+    },
+    {
+      "id": "1365241662678499370",
+      "fecha_utc": "2025-04-25T08:22:57.346000+00:00",
+      "fecha_local": "2025-04-25",
+      "editado_utc": "2025-04-25T08:23:12.040000+00:00",
+      "texto": "Parece que sigues con tus artilugios! **sonriendo admirado**",
+      "mensaje_sha256": "93a9bb0f3649ed4f56f695f35bb169fad5dbf4fdb8977775f3768905495302c8",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1365241662678499370",
+      "texto_sha256": "dabc99f28af055af6f4ece720c7c1cbd65518cf23e58eafdf4570a6d9af19e87",
+      "adjuntos": []
+    },
+    {
+      "id": "1365245897688088616",
+      "fecha_utc": "2025-04-25T08:39:47.051000+00:00",
+      "fecha_local": "2025-04-25",
+      "editado_utc": "2025-04-25T08:40:40.303000+00:00",
+      "texto": "???: ** Se le vería sucio lleno de ollin  en la cara , saltando de lado a lado intentado sofocar unas llamas en su trasero , hasta que lo consigue y sentado en el suelo mira a Hayate **\nOhh , pero si es mi buen amigo emplumado.**sonrriente se levanta y se acerca a él ** \nY yo te repito que las hasañas de este humilde juguetero no sólo gobernaran los sielos,  si no incluso las estrellas ** se acerca mucho a tus ojos , y ya te es familiar esa cara de loco y esa risa de psicópata ** JAJAJAJAJAJ \n**deja de reír se pone totalmente serio , se queda como 10 segundo mirándole y señala la máquina estrellada **\nEsta ves creo que me quedarre una temporrada , parrese que la pequeña Dorothi(refiriéndose a la máquina voladora ) ha dejado de ser virgen . ** vuelve a mirar a Hayate y vuelve a reír de forma totalmente exagerada **\nJAJAJAJAJAJAJAJ \n**se pone serio otra vez durante 10 segundos ** \nMe va  a invitarr a un té porr lo menos o pasaremos una bonita velada en el bosque . \n** y vuelve a reír de la misma forma **",
+      "mensaje_sha256": "998bef0ad912272d29e5459fd258a3581af5f69de0055659d98b406c99cda1df",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1365245897688088616",
+      "texto_sha256": "f2ccfa77328402f6eb25617d29fadf166a70b662ec35d7f5b5c81eac247ff04f",
+      "adjuntos": []
+    },
+    {
+      "id": "1365249651305091134",
+      "fecha_utc": "2025-04-25T08:54:41.983000+00:00",
+      "fecha_local": "2025-04-25",
+      "editado_utc": null,
+      "texto": "**(TEMPLO)** Hayate: siempre apuntando alto, pequeño amigo! Supongo que has vuelto para recolectar en las montañas otra vez. \nYa sabes que eres bienvenido al templo, puedes estar el tiempo que necesites. Venga, te ayudo a transportar tus cacharros a dentro y tomamos un té fuerte para ponernos al día",
+      "mensaje_sha256": "0a69f7dd9a3af73a13bdcbda2a92cd4eeb395bf7824c719246404cb34a6f93a0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1365249651305091134",
+      "texto_sha256": "e4a077f6a2d022497277fee82ca87f9f835e36e3b7b7fd222d18eab5fe55542f",
+      "adjuntos": []
+    },
+    {
+      "id": "1365251679427235840",
+      "fecha_utc": "2025-04-25T09:02:45.525000+00:00",
+      "fecha_local": "2025-04-25",
+      "editado_utc": "2025-04-25T09:14:05.023000+00:00",
+      "texto": "(TEMPLO)???: ** los dos amigos van transportando la maquinaria lo más cercano posible al templo, una vez dentro tomando el té: **\nEsta ves no he podido recolectar nada , los anasilis realisados durrante mi recorrido no han dado los resultados esperados . In  mein opinion la falta de recursos de tu isla es algo antirraturral .",
+      "mensaje_sha256": "47ecfd6cb124ebef16efb6428e1516c6f5b79a53cb9e3dde4400005f5186d085",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1365251679427235840",
+      "texto_sha256": "f2da5e2f5e72dddb656b315163f5b90d7a7e1d35a1ed971bc26101b38b264a19",
+      "adjuntos": []
+    },
+    {
+      "id": "1365252922878726207",
+      "fecha_utc": "2025-04-25T09:07:41.987000+00:00",
+      "fecha_local": "2025-04-25",
+      "editado_utc": "2025-04-25T09:11:45.685000+00:00",
+      "texto": "**(TEMPLO)** A qué te refieres, con que es antinatural? Tienes alguna teoría en tu privilegiada mente? \n**Los ojos del aarakocra se quedan fijados hacia el gnomo, mostrándose atento a lo que pueda decir**\n*Algo me dice que se vienen más problemas*",
+      "mensaje_sha256": "85308a9c7e7b76898ad190a6ef878592416ce0e89515f83acf1c047c996fce37",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1365252922878726207",
+      "texto_sha256": "343a8762bea8e984bf1c1dcad49d167537869a0a838274bfc141a9281545dc3e",
+      "adjuntos": []
+    },
+    {
+      "id": "1365256431573663774",
+      "fecha_utc": "2025-04-25T09:21:38.525000+00:00",
+      "fecha_local": "2025-04-25",
+      "editado_utc": null,
+      "texto": "**(TEMPLO)** \n???: Mein teoría amigo mio es que la influensia de ese tal Ootakemarru del que me hablaste esta crresiendo en niveles desorbitados . Esto junto con la falta de recursos  que sufre el país debido a la guerra, haría que estadisticamente haya un 77,4 % de posibilidades de que tu querida isla amigo mío  colapse por completo y entre  en una espirral autodestructiva que causarria en la desaparricion  de lo que conosemos hoy como la prresiosa Kuroto",
+      "mensaje_sha256": "45cc13682cc5cc378993006835990a4570a7f196f6b1463625057560504876b3",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1365256431573663774",
+      "texto_sha256": "68e0b504beb9dc2fc2ec8097f61fbc55495a39b007684f5a0c06dab0cb66aac1",
+      "adjuntos": []
+    },
+    {
+      "id": "1365256791667249223",
+      "fecha_utc": "2025-04-25T09:23:04.378000+00:00",
+      "fecha_local": "2025-04-25",
+      "editado_utc": null,
+      "texto": "Estimo que esto podrria pasar en quisa... de 6 a 9 meses.  Todo esto in mein humilde opinion",
+      "mensaje_sha256": "a526cff050bba4bcf2b4a763ccd83d8743924cee23948443f54ff4d929d37137",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1365256791667249223",
+      "texto_sha256": "969f8e65e3f38c3299691db6acdacb503610c36ea4543411f6ffb59a60fa435b",
+      "adjuntos": []
+    },
+    {
+      "id": "1365257015286435862",
+      "fecha_utc": "2025-04-25T09:23:57.693000+00:00",
+      "fecha_local": "2025-04-25",
+      "editado_utc": null,
+      "texto": "Sin contar que el malo de esta historia ataque antes amigo mio",
+      "mensaje_sha256": "c7c5f8a08847caa36bdf095b752b3ce64f2ab2d62e73956e654896e95e8f547f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1365257015286435862",
+      "texto_sha256": "58a6e61fb5eb3c02bc76fbccc95b194fed5525c33cb06cfb846d013ccd668f2e",
+      "adjuntos": []
+    },
+    {
+      "id": "1365257479214202890",
+      "fecha_utc": "2025-04-25T09:25:48.302000+00:00",
+      "fecha_local": "2025-04-25",
+      "editado_utc": null,
+      "texto": "Eso aumentarria mein porsentage  en un 90 % de posibilidades de que Kuroto haga BOOOOOM ! **rie otra vez como loco y se vuelve a poner serio** no es tema de risa ** afirma con la cabeza  y da un sorbo a la taza **",
+      "mensaje_sha256": "b4ab9108c4eaa495b3cffe2b5da4b264b1ca38c510a1cb40eb91b84882631928",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1365257479214202890",
+      "texto_sha256": "1edbafacc071db8ee94e74ee956ff5ce3bbffb6fbc9ebc0e8ea367f4b4a3c662",
+      "adjuntos": []
+    },
+    {
+      "id": "1365285218302296105",
+      "fecha_utc": "2025-04-25T11:16:01.816000+00:00",
+      "fecha_local": "2025-04-25",
+      "editado_utc": "2025-04-25T11:18:12.963000+00:00",
+      "texto": "**(TEMPLO)** Hayate: **Estupefacto, sin apartar la mirada del gnomo** Eso que dices es muy grave! 6 meses…es muy poco tiempo, debemos informar cuánto antes! **Notándose una inquietud poco propia en Hayate, caminará en círculos un rato, pensativo** *No debería abandonar el templo, la Reina Cuervo no ha respondido mis últimas comunicaciones…¿Espera a que yo resuelva el problema? ¿Nos estará observando? ¿Qué hago…?*\n**Tras unos instantes, se girará otra vez hacia su compañero con los ojos muy abiertos, intentando conectar con él** Sé que no es tu tierra, pero... podrías ayudarnos..? No estoy seguro que nuestro gobierno, el Shogunato, ni los de mi gremio, los Cazadores, estén al corriente de este factor. Nos ayudaría mucho si pudieras hacer un informe, de manera de que podamos mostrar este inminente colapso. Y, de forma personal, te estaría eternamente agradecido si investigases la naturaleza de los recursos que está usando Otakemaru, ¡quizás así podamos encontrar una manera de pararle los pies!",
+      "mensaje_sha256": "f241003a11f1a8b691f1a7217ac45db641a7dd6afd08b10cad9fde9537fd376b",
+      "tipo_discord": 19,
+      "referencia": "1365256431573663774",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1365285218302296105",
+      "texto_sha256": "cca4422494555858eab028d0109b6308950100f575576930aa2e6479c9a87cde",
+      "adjuntos": []
+    },
+    {
+      "id": "1365285282215100478",
+      "fecha_utc": "2025-04-25T11:16:17.054000+00:00",
+      "fecha_local": "2025-04-25",
+      "editado_utc": null,
+      "texto": "<@616683133374562304>",
+      "mensaje_sha256": "1ba1093c9323d127e7f9ee89628c8cb401cfe51d840be3fb90bb16302cf677d8",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1365285282215100478",
+      "texto_sha256": "3308bf4e0062fe070e1d9fb755e340dcc6c9d991669c162aed939e118811dd7c",
+      "adjuntos": [],
+      "no_narrativo": true,
+      "nota_editorial": "Contexto o marcador no narrativo; conservado en la exportación íntegra."
+    },
+    {
+      "id": "1365306162207129600",
+      "fecha_utc": "2025-04-25T12:39:15.232000+00:00",
+      "fecha_local": "2025-04-25",
+      "editado_utc": "2025-04-25T13:15:35.361000+00:00",
+      "texto": "**(TEMPLO)**???: no es tan fácil mon ami Hayate <@694971576340447292> , pero dalo por hecho,  igualmente he de quedarme aquí hasta que logre reparar a la pequeña Dorothi,  así que si , os ayudaré a ti y los cazadores en lo que pueda .",
+      "mensaje_sha256": "5b7d5b0b3beaf077bae89aae2713e41147a34fc52ed56bcc558e378765ff14df",
+      "tipo_discord": 19,
+      "referencia": "1365285218302296105",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1365306162207129600",
+      "texto_sha256": "5bbff7d3de3c3ff73f14486dd82f5c448ff600b8f28db95e4304226556f76d35",
+      "adjuntos": []
+    },
+    {
+      "id": "1365315587638694032",
+      "fecha_utc": "2025-04-25T13:16:42.430000+00:00",
+      "fecha_local": "2025-04-25",
+      "editado_utc": null,
+      "texto": "(TEMPLO) \n???: **despeja una de las mesas del templo y empieza a colocar sus utensilios para hacer una especie de taller improvisado **",
+      "mensaje_sha256": "f05bfe7db44052280b615d074337ebc5c03a9636f93507b70ecb4773b23acd81",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1365315587638694032",
+      "texto_sha256": "91b41b8828a9b6d4dde651c1a52cf865ac79a231f601da0d7ddfaca7c26bec20",
+      "adjuntos": []
+    },
+    {
+      "id": "1365318154154414100",
+      "fecha_utc": "2025-04-25T13:26:54.335000+00:00",
+      "fecha_local": "2025-04-25",
+      "editado_utc": "2025-04-25T14:01:49.914000+00:00",
+      "texto": "**(TEMPLO)** Hayate:  **se acerca al gnomo y, estrechándole la diminuta pero fuerte mano, se agacha a su altura y le agarra suavemente su hombro con el otro brazo** Agradezco enormemente tu ayuda. Te presentaré a unos amigos del gremio e intentaré concertar una cita con los eruditos de la corte del Shogun. Seguramente te puedan compensar, por ejemplo, ayudándote con Dorothy, qué te parece? <@616683133374562304>",
+      "mensaje_sha256": "ad470b00d980f97040fbf40dbdfa2339efbe37bfcd557fec427ce48a1407e16f",
+      "tipo_discord": 19,
+      "referencia": "1365315587638694032",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1365318154154414100",
+      "texto_sha256": "a67181344a24b18e37a76544ec989fbd8a65f49abee74056bce17d31b429516e",
+      "adjuntos": []
+    },
+    {
+      "id": "1365339353571655832",
+      "fecha_utc": "2025-04-25T14:51:08.670000+00:00",
+      "fecha_local": "2025-04-25",
+      "editado_utc": "2025-04-25T14:51:39.732000+00:00",
+      "texto": "??? : Ya me conoses no me gustan que toqueten mis cosas y menos las partes íntimas de mi pequeña invesion ** le da unos golpecitos a la máquina mientras dice **: es muy sensible si metes el dedo en el orrificio equivicado quisas haga Boom ! **se acerca ha hayate y hace un gesto de explosion con las manos , acto seguido risa malvada** \nPerro no negarre una ayuda si así la ofresen. Un plan sin fisurras mon ami no tengo pruebas pero tampoco dudas **dice recolocandose el bigote **",
+      "mensaje_sha256": "b35562cbd7de087000a26fb00307e07c825efd0d0f959605844bea43b6792d99",
+      "tipo_discord": 19,
+      "referencia": "1365318154154414100",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1365339353571655832",
+      "texto_sha256": "22f6f88d71fded8df12d51208b8cff3d45511e0e61d254a1a74d796e747f8fd9",
+      "adjuntos": []
+    },
+    {
+      "id": "1365341975510908988",
+      "fecha_utc": "2025-04-25T15:01:33.789000+00:00",
+      "fecha_local": "2025-04-25",
+      "editado_utc": "2025-04-25T15:02:01.590000+00:00",
+      "texto": "(TEMPLO)\n???: **se le vería ya inmerso en sus artilugios ** \n💣 FIN DE LA ESCENA 💣",
+      "mensaje_sha256": "efac12dde925046dea6c5afb2dce8908b2dbc2e1cb7d97f85e54280c6b629f3e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1365341975510908988",
+      "texto_sha256": "8592548a4c15e63a291749b95ed3f2358c36a6132eb8b71b1f7ae2de9ce91aa2",
+      "adjuntos": []
+    }
+  ]
+}

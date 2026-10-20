@@ -1,0 +1,92 @@
+{
+  "id": "x-1483867371851743262",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1483867371851743262",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "Naór busca el camino a Iktan",
+  "resumen": "La leonina avanza por la jungla convencida de estar cerca de su destino.",
+  "relato": "En la jungla cercana al poblado, Naór cree estar a punto de llegar a Iktan si su orientación es correcta. No encuentra rastros de los escamosos. Con hambre, continúa olfateando en busca de una presa. El breve tramo no confirma su posición, la llegada ni una captura.",
+  "participantes": [
+    "Naór"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1483867371851743262",
+      "afirmacion": "Naór continúa hacia lo que cree Iktan y busca comida.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La orientación expresada por ella no sustituye una ubicación verificada."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-03-18T16:39:10.372000+00:00",
+  "fin_utc": "2026-03-18T16:39:10.372000+00:00",
+  "fecha_local": "2026-03-18",
+  "intervalo": {
+    "anterior": 16,
+    "siguiente": 17,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1482097192952008844",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1483903081971187732",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 16,
+        "fecha": "2026-03-13",
+        "inicio_referencia_utc": "2026-03-13T19:24:52+00:00",
+        "fin_estimado_utc": "2026-03-13T21:51:11+00:00",
+        "duracion_video_segundos": 8779,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1482097192952008844"
+      },
+      {
+        "capitulo": 17,
+        "fecha": "2026-03-18",
+        "inicio_referencia_utc": "2026-03-18T19:00:44+00:00",
+        "fin_estimado_utc": "2026-03-18T21:59:05+00:00",
+        "duracion_video_segundos": 10701,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1483903081971187732"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1483867371851743262",
+      "fecha_utc": "2026-03-18T16:39:10.372000+00:00",
+      "fecha_local": "2026-03-18",
+      "editado_utc": null,
+      "texto": "**JUNGLA CERCANÍAS DEL POBLADO** \n\nNaór: Si mi orientación no me falla debo estar a nada de llegar a Iktan . \nAun no visto ningún rastro de esos escamosos \n\n**le rugen las tripas ** \nHora de papear \n**sigue su camino convencida de su rumbo mientras olfatea en busca de alguna presa**",
+      "mensaje_sha256": "6429c1bf5431f6aa45b6557b6caaf1ee78b60667fd1ae767ebf54a0c7bb60852",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1483867371851743262",
+      "texto_sha256": "d0a5ed19c9a26f76a7c849c81a54a1cdbdeb3f0ded4bc035c53d9cd89d4c07f8",
+      "adjuntos": []
+    },
+    {
+      "id": "1484136776464597013",
+      "fecha_utc": "2026-03-19T10:29:41.437000+00:00",
+      "fecha_local": "2026-03-19",
+      "editado_utc": null,
+      "texto": "🔴 Fin de escena🔴",
+      "mensaje_sha256": "7cd66c0291b83c2429819000496ff963714c5d9cd8e370c2b6ff0e56d638a77c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1484136776464597013",
+      "texto_sha256": "7aa24b8aa6fd3f35301a7f77b3905a178395ed16125386e060d23c65cafcba7d",
+      "adjuntos": [],
+      "no_narrativo": true,
+      "nota_editorial": "Marcador de cierre conservado junto a la conversación."
+    }
+  ]
+}

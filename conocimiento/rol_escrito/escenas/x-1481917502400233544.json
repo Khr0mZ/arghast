@@ -1,0 +1,91 @@
+{
+  "id": "x-1481917502400233544",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1481917502400233544",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "Nox se marcha sin disculparse",
+  "resumen": "Nox mantiene su advertencia sobre los desconocidos y se aleja de Citlali.",
+  "relato": "Ante la petición de disculpas de Citlali, Nox reconoce que sus palabras pudieron doler, pero sostiene que tenía razón al advertirle de no dar información a alguien que acaba de conocer. Le recuerda cómo Tryel evitó responder por qué estaba allí y atribuye su propia desconfianza a la piratería. Se despide y se aleja hacia el barco. El cierre no contiene una disculpa ni una reconciliación aceptada por la anciana.",
+  "participantes": [
+    "Nox",
+    "Citlali"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1481917502400233544",
+      "afirmacion": "Nox justifica sus palabras y se marcha sin pedir perdón.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Continuación explícita de la disputa de x-1481637221940334603; se conserva separada por el límite original."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-03-13T07:31:05.268000+00:00",
+  "fin_utc": "2026-03-13T07:31:22.147000+00:00",
+  "fecha_local": "2026-03-13",
+  "intervalo": {
+    "anterior": 15,
+    "siguiente": 16,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1481731102304370731",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1482097192952008844",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 15,
+        "fecha": "2026-03-12",
+        "inicio_referencia_utc": "2026-03-12T19:10:03+00:00",
+        "fin_estimado_utc": "2026-03-12T22:12:44+00:00",
+        "duracion_video_segundos": 10961,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1481731102304370731"
+      },
+      {
+        "capitulo": 16,
+        "fecha": "2026-03-13",
+        "inicio_referencia_utc": "2026-03-13T19:24:52+00:00",
+        "fin_estimado_utc": "2026-03-13T21:51:11+00:00",
+        "duracion_video_segundos": 8779,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1482097192952008844"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1481917502400233544",
+      "fecha_utc": "2026-03-13T07:31:05.268000+00:00",
+      "fecha_local": "2026-03-13",
+      "editado_utc": null,
+      "texto": "Nox: Quiza las palabras te dolieron pero sabes que tengo razón,  no la conoces de nada y le respondes a todo . \nTe fijaste lo que hizo cuando yo le pregunte que hacían aqui ? \nEnfin ... supongo que la piratería hace que desconfíes de todos . \n\nNos vemos pronto Citlali . \n**se aleja un poco hacia el barco ** \nEspero...",
+      "mensaje_sha256": "7e848c5058ad57e7ac01fc201268fac24712cf4a98cb40337239e9ea3284765f",
+      "tipo_discord": 19,
+      "referencia": "1481720975853883494",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1481917502400233544",
+      "texto_sha256": "05e6a3a05bcc1bb37465af0a34aa7d0f695a177021d97bb5c033378c59611300",
+      "adjuntos": []
+    },
+    {
+      "id": "1481917573196021851",
+      "fecha_utc": "2026-03-13T07:31:22.147000+00:00",
+      "fecha_local": "2026-03-13",
+      "editado_utc": "2026-03-13T07:31:31.364000+00:00",
+      "texto": "🔴 FIN DE LA ESCENA 🔴",
+      "mensaje_sha256": "d36ef2882e2ce89e367cbcecf48906d6cf1cedc5a65ef25fc91efa06651dc7bb",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1481917573196021851",
+      "texto_sha256": "776a5af778b870b89da08c1173ed9efad5b08c79aabb5222072e6ca413e33a3c",
+      "adjuntos": []
+    }
+  ]
+}

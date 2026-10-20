@@ -1,0 +1,324 @@
+{
+  "id": "k-1446050891336519711",
+  "campana": "kuroto",
+  "unidad_revision": "k-1446050891336519711",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Vogthar destruye el altar",
+  "resumen": "Un superviviente de la tribu de Banzo lo derrota mientras busca al dragón de sombras.",
+  "relato": "Cuando Banzo abandona la cala, un hacha enorme cae junto al altar de Kalista. Su filo helado está parcialmente fundido. Aparece Vogthar, antiguo compañero de su tribu, con medio rostro y parte del torso deformados. Banzo queda paralizado por el miedo y recuerda las humillaciones sufridas de niño. Vogthar afirma que su pueblo cayó ante un dragón de sombras y que ha llegado siguiendo al barquero que transportó a Banzo; también declara haberle cortado las piernas para obtener información. La referencia al pescador rompe la parálisis de Banzo, que lo ataca, aunque duda al recordar cómo Vogthar lo arrojó montaña abajo durante la prueba de adultez. El golpe de hacha apenas lo daña. Vogthar lo agarra del cuello y lo arroja contra el altar, destruyéndolo. Banzo prueba con arena y puñetazos, pero su adversario le retuerce la mano y lo golpea repetidamente. Incapaz de obtener la ubicación del dragón, Vogthar lo deja inconsciente y anuncia que preguntará a otros. Banzo no revela dónde está el objetivo; queda gravemente herido entre los restos del memorial.",
+  "participantes": [
+    "Banzo",
+    "Vogthar"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1446058441956397087",
+      "afirmacion": "Se identifica a Vogthar como antiguo compañero de la tribu de Banzo y se describen sus heridas.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1446065900666093598",
+      "afirmacion": "Vogthar afirma haber mutilado al barquero y exige saber dónde está el dragón.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1446079062878584903",
+      "afirmacion": "Arroja a Banzo contra el altar de Kalista y lo destruye.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1446158383194570774",
+      "afirmacion": "Vogthar deja inconsciente a Banzo y se marcha a buscar información.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Leídas visualmente las imágenes 1446058690854518845.png y 1446165047129936063.png: retrato de Vogthar con medio cuerpo lesionado y Banzo con el rostro muy golpeado.",
+    "El marcador final bromea con que Banzo ha muerto, pero la narración lo deja inconsciente; no registrar una muerte.",
+    "Banzo piensa que las heridas corresponden al ataque de Jelbreg, pero no pronuncia su nombre ante Vogthar.",
+    "La mutilación del barquero la declara Vogthar; no se presencia en esta escena."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-12-04T08:09:58.821000+00:00",
+  "fin_utc": "2025-12-04T16:54:13.854000+00:00",
+  "fecha_local": "2025-12-04",
+  "intervalo": {
+    "anterior": 170,
+    "siguiente": 171,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1443679606723838074",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1446214322580881569",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 170,
+        "fecha": "2025-11-27",
+        "inicio_referencia_utc": "2025-11-27T19:07:07+00:00",
+        "fin_estimado_utc": "2025-11-27T22:32:48+00:00",
+        "duracion_video_segundos": 12341,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1443679606723838074"
+      },
+      {
+        "capitulo": 171,
+        "fecha": "2025-12-04",
+        "inicio_referencia_utc": "2025-12-04T18:59:08+00:00",
+        "fin_estimado_utc": "2025-12-04T21:35:38+00:00",
+        "duracion_video_segundos": 9390,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1446214322580881569"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1446050891336519711",
+      "fecha_utc": "2025-12-04T08:09:58.821000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": null,
+      "texto": "Banzo : **estaría saliendo de esa cala , cogiendo camino ya hacia la base ** \n*debo apresurarse Kurobane debe estar hablando ya con Shirz o Phalatzier en el sur*",
+      "mensaje_sha256": "e21feedcfc8104adec4923bef1bd7ffbac2ce3a6c7f9dbd3cd2674af23f3b16a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1446050891336519711",
+      "texto_sha256": "c2937bb526d23b2e5afed3c40fcb6a4b076b1307ba97792ff8ef28d7794529ee",
+      "adjuntos": []
+    },
+    {
+      "id": "1446053516538810520",
+      "fecha_utc": "2025-12-04T08:20:24.718000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": "2025-12-04T08:22:12.609000+00:00",
+      "texto": "**Mientras te alejas un par de pasos de la pequeño altar de piedras que has construido para tu amiga fallecida, escuchas un silbido que corta el aire a toda velocidad. No es una persona. No es una flecha. Algo enorme y metálico gira en el aire directo hacia ti y se clava a escasos centímetros del altar de Kalista. El impacto levanta una nube de arena que te ciega por un instante.**\n**Cuando finalmente se disipa, distingues lo que ha caído. Una enorme hacha de doble filo, hecha de un metal que destella con un tono blanquecino. Alrededor del punto de impacto, una fina capa de escarcha comienza a cubrir la arena. Reconoces esa hacha… pero ahora parece distinta. La mitad del filo helado está derretida, deformada, como si algo la hubiera fundido...**\n**Entonces, una risa conocida resuena por toda la cala.**\n\n???: Vaya vaya vaya... si es el pequeño Banzito...",
+      "mensaje_sha256": "195eb3a35b2a1f01bba645ac189ae9f745207054a0b0cf3925cdef9a88382cb3",
+      "tipo_discord": 19,
+      "referencia": "1446050891336519711",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1446053516538810520",
+      "texto_sha256": "18f9995dd2950a4d42e9ee020c7fdaca48d006c230019c22ef1faf83d58bd981",
+      "adjuntos": []
+    },
+    {
+      "id": "1446055914795827251",
+      "fecha_utc": "2025-12-04T08:29:56.507000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": "2025-12-04T08:31:15.405000+00:00",
+      "texto": "Banzo : **va a hechar mano rápidamente de su arma, ve ese arma ,y se queda helado , totalmente paralizado con los ojos abiertos , un sudor frío le recorre desde la nuca hasta los pies **\n\n*ese hacha ... no no puede ser\nEs imposible, cayeron en las cumbres heladas*\n\n**en ese momento escucha la voz y nosotros que estamos fuera de esta escena logramos ver con claridad lo que nunca habíamos visto en el goliath, ni dragones ni demonios ni dioses causaron lo que una simple voz ha hecho.\n Sus rodillas empiezan a tintinear,  acaso esta temblando de miedo? **",
+      "mensaje_sha256": "e47366da9645cae6297c3dc8c00faacd4b90c629ff3681ab6f692ca7ecd10d55",
+      "tipo_discord": 19,
+      "referencia": "1446053516538810520",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1446055914795827251",
+      "texto_sha256": "d59f9c0747e222ca3970b03dee1f6b7b4e560bfe969281674b9a11dc33a714e5",
+      "adjuntos": []
+    },
+    {
+      "id": "1446058441956397087",
+      "fecha_utc": "2025-12-04T08:39:59.029000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": null,
+      "texto": "Vogthar: **Un enorme goliat de más de dos metros, de musculatura imponente y marcada, cruza la cala hasta alcanzar el hacha. La arranca del suelo con una facilidad antinatural, y al incorporarse reconoces a un antiguo compañero de tu tribu: Vogthar. Pero cuando se vuelve hacia ti, la visión te golpea como un puñetazo. La mitad de su rostro y parte del torso presentan el mismo aspecto que su hacha: piel ennegrecida, derretida y deformada, con zonas donde el hueso queda expuesto. Heridas terribles cuyo origen ya puedes intuir.** Me preguntaba que se había hecho del rechoncho y patoso Banzito... Quien iba a decirme que me encontraría a un barquero que me explicó como llevó a un goliat hasta una isla al este...",
+      "mensaje_sha256": "dadd0596974819d5448ee268b0b1c43768cea3670973f611c1d2292a75357172",
+      "tipo_discord": 19,
+      "referencia": "1446055914795827251",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1446058441956397087",
+      "texto_sha256": "7845d874c3fdf3051cb6ae506454ea33c3c7ca43e6d683430e4617b1ac8ad8bb",
+      "adjuntos": []
+    },
+    {
+      "id": "1446058691248918609",
+      "fecha_utc": "2025-12-04T08:40:58.465000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "2d2b2263d28f8ca7939d459c5ed010f7efb927fcf06e89a2b0414b448d9531db",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1446058691248918609",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1446058690854518845",
+          "nombre": "image.png",
+          "tipo": "image/webp",
+          "archivo": "adjuntos/1446058690854518845.png",
+          "url": "rol_escrito/adjuntos/1446058690854518845.png",
+          "bytes": 274875,
+          "sha256": "d7c94ea030e222433a67db64285ae14307138162292e0bc651b90ec98c319eb5"
+        }
+      ]
+    },
+    {
+      "id": "1446060130796965888",
+      "fecha_utc": "2025-12-04T08:46:41.680000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": null,
+      "texto": "Banzo : Vogthar... \n**agacha la cabeza instintivamente** \n\nPero ... como ... ? \nYo .. yo... \nVolví, te lo juro , vi lo que paso .. nuestro pueblo ,cayo en la nieve . \n\n*esas heridas .. estuvo en el ataque de Jelbreg*",
+      "mensaje_sha256": "05848e058c57f036312d44dc9177a31db545993b1866466d050c323c223f5732",
+      "tipo_discord": 19,
+      "referencia": "1446058441956397087",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1446060130796965888",
+      "texto_sha256": "da2c2360e1f43fadd896951a723b84e85428f47910d05d46dd8b6dcd28a1d74f",
+      "adjuntos": []
+    },
+    {
+      "id": "1446063380384190537",
+      "fecha_utc": "2025-12-04T08:59:36.442000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": null,
+      "texto": "Vogthar: ¿Así que el cobarde de Banzito volvió? **Mueve el hacha con una mano, parece fácil, pero sabes que ese hacha pesa más que tu. Su rostro se endurece** No caímos en la nieve... Caímos ante esa criatura, esa oscuridad hecha dragon",
+      "mensaje_sha256": "a325eba89fd8d8faf28b95df459c9c097d3f8f3bdc39f472a24cfb8411c92b7a",
+      "tipo_discord": 19,
+      "referencia": "1446060130796965888",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1446063380384190537",
+      "texto_sha256": "80388a2cdb86a644e93ff5ff62cbab5d254389a4e0709457fc0daa0feeb964cd",
+      "adjuntos": []
+    },
+    {
+      "id": "1446064534929281117",
+      "fecha_utc": "2025-12-04T09:04:11.707000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": null,
+      "texto": "Banzo : **Sin levantar la mirada **\nNo se .. no se que hablas  Vogthar..**miente lo que su actitud le permitiría** Los drow nos traicionaron . Luche allí contra ellos \n\n\n*que te pasa banzo , ataca joder* \n\n** las rodillas seguirían titileando ligeramente y la postura corporal de Banzo sería como que se hace pequeño ante la presencia de su antiguo compañero **",
+      "mensaje_sha256": "26ddab6996f72099049524d66f1b5f51253d489a3ae9e69672de4ddfcb6d2578",
+      "tipo_discord": 19,
+      "referencia": "1446063380384190537",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1446064534929281117",
+      "texto_sha256": "d8e64ec335b07b6ce4c1095c1a5f076e765a2f9022f43c3bec405fb2f07550ee",
+      "adjuntos": []
+    },
+    {
+      "id": "1446065900666093598",
+      "fecha_utc": "2025-12-04T09:09:37.324000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": null,
+      "texto": "Vogthar: ¿Sabes? Mientras le cortaba las piernas al barquero que me trajo aquí (el que te tajo a ti), me confesó que hace unas semanas, un enorme dragon de sombras atacó la ciudad. **Aprieta los puños en el mango del hacha de frío necrotico** Así que esperaba que un superviviente de nuestra tribu, estaría cazando al monstruo... ¿Dónde está?",
+      "mensaje_sha256": "b9ce3564cec462270d758d152e42eee424d738557512e47ed67094968931868b",
+      "tipo_discord": 19,
+      "referencia": "1446064534929281117",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1446065900666093598",
+      "texto_sha256": "2d8b3e412554aa19c4624a66eed6b9592c06a792c0d214ba1bd3b3315291b345",
+      "adjuntos": []
+    },
+    {
+      "id": "1446073883659735155",
+      "fecha_utc": "2025-12-04T09:41:20.618000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": "2025-12-04T09:41:39.221000+00:00",
+      "texto": "Banzo : **cuando escucha eso del pescador algo hace click y le hace reaccionar . \n\nToma el hacha y apreta a correr hacia Vogthar ** \n\nASESINOOOOOO !!\n\n**salta en vertical a una altura sobrehumana pero lo ves claro , en el momento en que Banzo te mira duda ** \n\nFLASHBACK \n** ese dia nacieron dos goliath en la aldea , uno ya traía las marcas y la mirada de su poderoso linaje . \nEl otro rechoncho solo reía y lloraba para comer . \n\nFueron creciendo y el joven Vogthar solo recibía alagos , ganaba cualquier entrenamiento incluso contra los mas adolescentes.  Por contra el rechoncho se escaqueaba para escuchar historia de un viejo loco , su abuelo . \nEn la prueba de adultez Vogthar rompió todos los records de tiempo en subir ese pico . No sin antes tirar al rechoncho montaña abajo para saciar su aburrimiento . Era demasiado facil esa prueba para lo que claramente sería el próximo lider goliat de la aldea de la cumbres nevadas ** \n\nARRRRRRRRRGGGGG!! \n\n**ves claramente que le entran dudad en ese ataque y notas una obertura fácil , ya que el hacha de Banzo esta demasiado elevada **",
+      "mensaje_sha256": "440a49d034152f812d7cf53aeabdf04614cfb2b34dca594e3752bd215505a748",
+      "tipo_discord": 19,
+      "referencia": "1446065900666093598",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1446073883659735155",
+      "texto_sha256": "308c3a51e8ee489c2b87476cdbf947aa1d311d7ef9785016bbe89e73ca7bae8a",
+      "adjuntos": []
+    },
+    {
+      "id": "1446079062878584903",
+      "fecha_utc": "2025-12-04T10:01:55.440000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": "2025-12-04T10:02:52.093000+00:00",
+      "texto": "Vogthar: **Sin moverse del sitio, notas como sus músculos se ensancha. Parece que empieza a salirle más y más bello marrón que se eriza por todo su cuerpo que parece el de un gran oso (Bárbaro del Totem senda del Oso). Te agarra del cuello con una mano con gran facilidad , dejándote colgado en el aire y tu hacha clavada en el hombro del bárbaro. Esta parece no haberle causado mucho daño...** Decepcionante, como siempre... **Notas que sus manos de cierran con mayor fuerza ahogandote por unos segundos para después lanzarte hacia un lado. Caes encima del altar de Kalista que lo destrozas complemente. Vogthar te grita enfurecido** ¡¿DÓNDE ESTÁ EL DRAGON?!",
+      "mensaje_sha256": "5288d1a338a1602f4d4234fa44a28d818a6b60d4949b0e1291a04f33928551eb",
+      "tipo_discord": 19,
+      "referencia": "1446073883659735155",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1446079062878584903",
+      "texto_sha256": "9e616defc83c784ab6e0c454947c219d676cc226c84577a09626b7826562de7e",
+      "adjuntos": []
+    },
+    {
+      "id": "1446153352667861083",
+      "fecha_utc": "2025-12-04T14:57:07.506000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": null,
+      "texto": "Banzo : **se saca un par de rocas de encima inca la rodilla en la arena ,y coge un puñado con la mano ,  escupe sangre a un lado **\n\n*vamos vamos vamos joder espavila*\n\nQue te den por culo Vogthar ! \n\n**se lanza contra el con los puños desnudos ,le lanza el puñado de arena a los ojos para impedir su visión.   Empieza a pegarle con todas sus fuerzas una serie de 10 puñetazos . \nLos nudillos de Banzo empiezan a sangrar y por un segundo ve una revancha posible , todo eso se esfuma en cuanto ve la cara de Vogthar con una sonrisa y sin ninguna mueca de dolor ** \n*mierda...*",
+      "mensaje_sha256": "a3378001ab4721ef9c9c4f2dfa54b7a6db6614940a2b1353dd814e79f97431d5",
+      "tipo_discord": 19,
+      "referencia": "1446079062878584903",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1446153352667861083",
+      "texto_sha256": "3858e529d119c4e22649fe2ae48f6395345ea0213dedb447702f8d1169b9778d",
+      "adjuntos": []
+    },
+    {
+      "id": "1446154965814087850",
+      "fecha_utc": "2025-12-04T15:03:32.110000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": "2025-12-04T15:04:01.416000+00:00",
+      "texto": "Vogthar: **Te mira con una sonrisa con uno de tus puños en su cara.** Sigues siendo un blandengue **Ves que coge tu puño y te lo dobla haciendote un daño terrible. Luego te da un puñetazo que notas como si un enorme oso salvaje de 600 kg de peso se estampara contra ti. Algo cruje y ves salir unos dientes volando, pero al momento los alcanzas cayendo al suelo** ¿Te asustaste del dragon como te asustaste en las pruebas que hicimos de crios? **Notas como sus puños empiezan a golpearte, son como si te tiraran hormigón directo a la cara una y otra vez** Vamos! Dímelo!",
+      "mensaje_sha256": "e134538b814035a8aa11195a38045592f0047dc5458d3a87837fcd84a7ea58ec",
+      "tipo_discord": 19,
+      "referencia": "1446153352667861083",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1446154965814087850",
+      "texto_sha256": "076ab8f07f50a616539508856fe03e4210c466764d92294d41eded62fed7d1d6",
+      "adjuntos": []
+    },
+    {
+      "id": "1446156747386650625",
+      "fecha_utc": "2025-12-04T15:10:36.870000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": null,
+      "texto": "Banzo : **cada puñetazo le flashea a recuerdos donde era humillado en su aldea , despues de varios directos a la cara a Banzo solo le quedan fuerzas  para a duras penas decirle** \n\nQue ... \nte.. \njodan  \n\n** un últimos esfuerzo hace que pueda levantar la mano y sacarle el dedo de en medio ** \n\n** su cara esta irreconocible , nariz desfigurada los ojos ni se ven y la sangre brota por nariz boca y orejas .**",
+      "mensaje_sha256": "0f252700e5eab29904b24cc44caac3187ea5c836eba6774baf01ff6419f3991a",
+      "tipo_discord": 19,
+      "referencia": "1446154965814087850",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1446156747386650625",
+      "texto_sha256": "65b7d734ab603b5bc09c788ece5b21e9626350b09d20e7d03a83e7eedbed5576",
+      "adjuntos": []
+    },
+    {
+      "id": "1446158383194570774",
+      "fecha_utc": "2025-12-04T15:17:06.877000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": "2025-12-04T15:17:50.323000+00:00",
+      "texto": "Vogthar: **Se levanta después de haber estado un largo rato dándote en la cara. Te escupe encima** Eres una vergüenza para nuestra raza y tribu. Te marchaste con el rabo entre las piernas y ahora eres incapaz de enfrentarte al asesino de tu familia. ¿Te escondiste cuando el dragon atacó la ciudad? Como hacías en la aldea cuando te buscábamos para jugar contigo... **Se aparta de ti y recoge el hacha para colgarsela a la espalda** Encontraré a alguien que me diga donde está esa sucia serpiente alada. No te interpongas **Te da un último puñetazo en la cara dejándote inconsciente. Te desmayas recordando que Vogthar no pregunta de manera educada, alguien perderá las piernas como ese pobre barquero**",
+      "mensaje_sha256": "5c678efdda7c4093cc3cafb716f6795350951ff4230a99dedaa72bf9c48122db",
+      "tipo_discord": 19,
+      "referencia": "1446156747386650625",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1446158383194570774",
+      "texto_sha256": "a3b8dfb593af28c24ada00e6bfe8f347334c8b9557f1b4b6a256926d2dfb1b0d",
+      "adjuntos": []
+    },
+    {
+      "id": "1446165047369007215",
+      "fecha_utc": "2025-12-04T15:43:35.740000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "4246157b4f86294624d32fc30a73a236ef94413766a59c0a5b0c728b1976d5ee",
+      "tipo_discord": 19,
+      "referencia": "1446158383194570774",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1446165047369007215",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1446165047129936063",
+          "nombre": "file_000000008fb471f5bd76e537d997523c.png",
+          "tipo": "image/png",
+          "archivo": "adjuntos/1446165047129936063.png",
+          "url": "rol_escrito/adjuntos/1446165047129936063.png",
+          "bytes": 1040576,
+          "sha256": "b20df9576842ef52cdf5739bf1f3b6af7d639d9f0852c2b3766a638b2dfe6888"
+        }
+      ]
+    },
+    {
+      "id": "1446182823307513887",
+      "fecha_utc": "2025-12-04T16:54:13.854000+00:00",
+      "fecha_local": "2025-12-04",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena (Banzo a Muerto) 🔴",
+      "mensaje_sha256": "85bd29dca6657bfd98a480626a2a1ec76309d1fe883c7bf16250932e1048997e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1446182823307513887",
+      "texto_sha256": "304b3e6ce58a061fd079a1d4e5c66ea15abea564ba487e782f1162754b9d43ef",
+      "adjuntos": []
+    }
+  ]
+}

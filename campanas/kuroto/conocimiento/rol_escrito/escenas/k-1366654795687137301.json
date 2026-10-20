@@ -1,0 +1,85 @@
+{
+  "id": "k-1366654795687137301",
+  "campana": "kuroto",
+  "unidad_revision": "k-1366654795687137301",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Danifae encuentra un refugio clandestino",
+  "resumen": "Una marca conduce a Danifae a un refugio donde una humana de cabello blanco y varios shinobis reciben su propuesta de intercambiar información.",
+  "relato": "Danifae recorre Sho con la capucha puesta y descubre una marca discreta en la esquina de un callejón. La sigue entre escombros hasta una puerta maltrecha y desciende por una escalera oscura. Comenta que esperaba encontrar el lugar con más dificultad. En el nivel inferior descubre un refugio clandestino: una mujer humana de cabello blanco la observa mientras varios shinobis salen de las sombras y la rodean. Danifae les pide calma, afirma ir desarmada y explica que únicamente pretende intercambiar información. La escena termina antes de que sus interlocutores respondan.",
+  "participantes": [
+    "Danifae",
+    "Humana de cabello blanco sin identificar",
+    "Shinobis del refugio"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1366654795687137301",
+      "afirmacion": "Danifae sigue una marca hasta un refugio subterráneo, donde la rodean shinobis ante una humana de cabello blanco.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1366654795687137301",
+      "afirmacion": "Danifae afirma estar desarmada y propone intercambiar información.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "El cierre explícito no contiene acuerdo, información intercambiada ni respuesta del refugio. No identificar a la humana ni dar nombre a la organización.",
+    "No se comprueba que vaya desarmada: es su declaración ante quienes la rodean."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-04-29T05:58:14.510000+00:00",
+  "fin_utc": "2025-04-29T05:58:14.510000+00:00",
+  "fecha_local": "2025-04-29",
+  "intervalo": {
+    "anterior": 109,
+    "siguiente": 110,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1365035149171101736",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367206327377727518",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 109,
+        "fecha": "2025-04-24",
+        "inicio_referencia_utc": "2025-04-24T18:42:06+00:00",
+        "fin_estimado_utc": "2025-04-24T21:37:07+00:00",
+        "duracion_video_segundos": 10501,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1365035149171101736"
+      },
+      {
+        "capitulo": 110,
+        "fecha": "2025-04-30",
+        "inicio_referencia_utc": "2025-04-30T18:29:35+00:00",
+        "fin_estimado_utc": "2025-04-30T20:53:27+00:00",
+        "duracion_video_segundos": 8632,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367206327377727518"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1366654795687137301",
+      "fecha_utc": "2025-04-29T05:58:14.510000+00:00",
+      "fecha_local": "2025-04-29",
+      "editado_utc": null,
+      "texto": "Danifae: **Camina por las calles de Sho con la capucha echada sobre la cabeza. Sus ojos se deslizan atentos hasta detenerse en una discreta marca en la esquina de un callejón. Sonríe levemente y se adentra en la penumbra. Avanza entre escombros hasta llegar a una puerta maltrecha, la empuja con decisión y comienza a descender por unas escaleras oscuras.** Vaya.... pensaba que sería más difícil de encontrar... **En el nivel inferior, la recibe una atmósfera cargada de clandestinidad: un refugio oculto, reservado solo para quienes viven al margen de la ley. Una mujer humana de cabello blanco la observa con gesto alerta, mientras varios shinobis emergen de las sombras, rodeando a la recién llegada.** Uy, uy, uy... No os pongáis nerviosos chicos que voy desarmada... Solo vengo a intercambiar información... **Una sonrisa se dibuja en su cara**\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "0fbb154070505ed2cfb20f430918eb8f7204b75b73b81573faaf9d0556dfdbcc",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1366654795687137301",
+      "texto_sha256": "e155e7236f3971c5cbb1191bcc75c42710893b9ae28da1034a5135b32a722c2f",
+      "adjuntos": []
+    }
+  ]
+}

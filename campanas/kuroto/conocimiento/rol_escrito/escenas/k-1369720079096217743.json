@@ -1,0 +1,317 @@
+{
+  "id": "k-1369720079096217743",
+  "campana": "kuroto",
+  "unidad_revision": "k-1369547278054068246",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Dos palmas marcadas",
+  "resumen": "Banzo y Kalista comparan sus marcas y buscan cómo actuar.",
+  "relato": "Más tarde, Banzo y Guxi vuelven por el portal; Palathier llega con Kalista y la acompaña al interior. El goliat abraza a la tritón, se disculpa por los rodeos empleados para avisarla y advierte que deben cubrirse las espaldas. Pide hablar con ella a solas. Palathier acepta vigilar fuera y Guxi se dirige a la biblioteca. Banzo pregunta a Kalista si ha notado algo en las manos: ella muestra la palma y él se quita un guante para enseñarle sus propias marcas. El goliat concluye que los han marcado. Kalista pregunta cómo librarse de aquello, pero Banzo solo responde que él o ella podrían saber de qué se trata y que Palathier no ha encontrado una solución. Considera necesario decidir juntos qué hacer, aunque cree que los dos solos no podrán. La conversación se cierra sin identificar expresamente en estas líneas a los responsables, explicar el efecto de las marcas ni eliminarlas.",
+  "participantes": [
+    "Banzo",
+    "Kalista",
+    "Palathier",
+    "Guxi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1369722778596675594",
+      "afirmacion": "Banzo abraza a Kalista y pide hablar con ella a solas.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1369722881642332304",
+      "afirmacion": "Palathier acepta vigilar fuera.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1369728932013932756",
+      "afirmacion": "Kalista muestra su palma.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1369731016473837638",
+      "afirmacion": "Banzo se quita un guante para mostrar sus marcas.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1369731640078635149",
+      "afirmacion": "Banzo afirma que los han marcado.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1369733960221069406",
+      "afirmacion": "Banzo considera que los dos solos no pueden resolver el problema.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Cincuenta y cinco mensajes completos, tres encuentros diferenciados.",
+    "El croquis no se adjunta ni se explica. No se reconstruyen sus pasos por los resultados posteriores.",
+    "La búsqueda de pintura es condicional y se responde que no la hay: no se da por aplicado el barniz ni por ocultos los tatuajes.",
+    "Las afirmaciones sobre el origen, los efectos o la retirada de las marcas siguen sin aclararse. Los pronombres él y ella no bastan aquí para adjudicar responsables.",
+    "La conversación privada final no se comparte con Palathier ni Guxi. El grito a Ōtakemaru es una expresión de Kaniza, no un contacto con el enemigo."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2025-05-07T16:58:35.025000+00:00",
+  "fin_utc": "2025-05-07T18:06:45.831000+00:00",
+  "fecha_local": "2025-05-07",
+  "intervalo": {
+    "anterior": 111,
+    "siguiente": 112,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1369742246882054214",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 111,
+        "fecha": "2025-05-01",
+        "inicio_referencia_utc": "2025-05-01T18:30:18+00:00",
+        "fin_estimado_utc": "2025-05-01T21:17:50+00:00",
+        "duracion_video_segundos": 10052,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983"
+      },
+      {
+        "capitulo": 112,
+        "fecha": "2025-05-07",
+        "inicio_referencia_utc": "2025-05-07T18:26:24+00:00",
+        "fin_estimado_utc": "2025-05-07T21:22:03+00:00",
+        "duracion_video_segundos": 10539,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1369742246882054214"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1369720079096217743",
+      "fecha_utc": "2025-05-07T16:58:35.025000+00:00",
+      "fecha_local": "2025-05-07",
+      "editado_utc": "2025-05-07T16:59:02.428000+00:00",
+      "texto": "Banzo : **aparecen Banzo <@171702246952665098> y Guxi por el portal **",
+      "mensaje_sha256": "16bead2744cd34fcc4739ec4e0a0c103866eb19e93ecd79ffd49ef12d8d8963e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369720079096217743",
+      "texto_sha256": "2a844e60781c5bc8e0f6505c0cfd73a51abc3b385ffe5a4f54ade9476d35b384",
+      "adjuntos": []
+    },
+    {
+      "id": "1369720793105174638",
+      "fecha_utc": "2025-05-07T17:01:25.258000+00:00",
+      "fecha_local": "2025-05-07",
+      "editado_utc": null,
+      "texto": "Banzo ** entra en la base se quedaría de pie en la sala de reuniones apoyado en la puerta de su habitación **",
+      "mensaje_sha256": "88e91d283982c35119998410180cad54f5a1744d9e1fe0c41a327b9f5834654f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369720793105174638",
+      "texto_sha256": "05faabc77d8c4a3b95ee07f018adc41a82fddec7b04332013e911c91b79569a0",
+      "adjuntos": []
+    },
+    {
+      "id": "1369721029290754188",
+      "fecha_utc": "2025-05-07T17:02:21.569000+00:00",
+      "fecha_local": "2025-05-07",
+      "editado_utc": null,
+      "texto": "**Aparecen Palathier y Kalista por el portal. Palathier acompaña rápidamente hacia adentro de la base** <@753394009153732689>",
+      "mensaje_sha256": "08bb80cd78095112499935912d49176288852e993aea6840c4e27a26f30b3e8e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369721029290754188",
+      "texto_sha256": "7781096fe93d7378ad53ca0c7a9d187b95bb958a97bafc10d0a1300c86db61ef",
+      "adjuntos": []
+    },
+    {
+      "id": "1369721131665199164",
+      "fecha_utc": "2025-05-07T17:02:45.977000+00:00",
+      "fecha_local": "2025-05-07",
+      "editado_utc": null,
+      "texto": "A ver si han llegado ya",
+      "mensaje_sha256": "76c61cae9b8a324b5a3858fdc73695fb3cbe6dc303db3eb05d7d9b5d34742a68",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369721131665199164",
+      "texto_sha256": "5b360f53de22c5bbd10f769ddbfb4de39d52775b30cbe20494ef6abff569dd12",
+      "adjuntos": []
+    },
+    {
+      "id": "1369722778596675594",
+      "fecha_utc": "2025-05-07T17:09:18.636000+00:00",
+      "fecha_local": "2025-05-07",
+      "editado_utc": null,
+      "texto": "Banzo : por fin ... gracias Palathier.  **Banzo abraza a Kalista **\nSiento haber dado tantas vueltas para avisarte pero debemos cubrirnos las espaldas... estamos jodidos Kalista siéntate.  \nPhalathier te importaría dejarnos a solar un momento por favor ? <@694971576340447292> <@753394009153732689>",
+      "mensaje_sha256": "54da137d68a0316042dfdf1c9e7ddda61ffc1e1910894b21fb4430ac7a722365",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369722778596675594",
+      "texto_sha256": "94840e448d9db72b57c7f42e44dbb43d90353323f2a90e6e5bc31183aac2e1ac",
+      "adjuntos": []
+    },
+    {
+      "id": "1369722881642332304",
+      "fecha_utc": "2025-05-07T17:09:43.204000+00:00",
+      "fecha_local": "2025-05-07",
+      "editado_utc": null,
+      "texto": "Palathier: Voy a vigilar a fuera, sin problema",
+      "mensaje_sha256": "1a08e712ba1f5679b2c765987d23438da6187fa59ce882c8322a39053a828fc4",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369722881642332304",
+      "texto_sha256": "5db74ce53f7badee29c058c03433cb733004b2cb4e3d0cce80370aeefea2a5e9",
+      "adjuntos": []
+    },
+    {
+      "id": "1369723692913000611",
+      "fecha_utc": "2025-05-07T17:12:56.626000+00:00",
+      "fecha_local": "2025-05-07",
+      "editado_utc": null,
+      "texto": "Kalista: **Se sorprende** Esta bien....dime...",
+      "mensaje_sha256": "608968df37cd8027e82991de4beb77b9b50ab882b5b1af00722027d15be96674",
+      "tipo_discord": 19,
+      "referencia": "1369722778596675594",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369723692913000611",
+      "texto_sha256": "d0feb8e0b2b9704a0e237a26a8f6939477fe3dc10e9938d9da455c4e3d476ffd",
+      "adjuntos": []
+    },
+    {
+      "id": "1369725259762241557",
+      "fecha_utc": "2025-05-07T17:19:10.192000+00:00",
+      "fecha_local": "2025-05-07",
+      "editado_utc": null,
+      "texto": "Banzo : has notado algo en tus manos ?",
+      "mensaje_sha256": "5ba088035e63606444f77f363a23707a3bdf1f7c5df8478f9c6bca46b74dfc95",
+      "tipo_discord": 19,
+      "referencia": "1369723692913000611",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369725259762241557",
+      "texto_sha256": "3ec61d6de6ff1e4e0c074a9943153152c17527415589c3a06d0f80fddf5dd984",
+      "adjuntos": []
+    },
+    {
+      "id": "1369726276314861688",
+      "fecha_utc": "2025-05-07T17:23:12.557000+00:00",
+      "fecha_local": "2025-05-07",
+      "editado_utc": "2025-05-07T17:25:50.009000+00:00",
+      "texto": "Guxi: os veo luego estaré por la biblioteca ya sabéis dónde encontrarme",
+      "mensaje_sha256": "3340baee63b673ca08da6ca6d608dbd856711f2935bf246093371eeafca410af",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369726276314861688",
+      "texto_sha256": "942d62610987d90cb1ecfdb6e1db5084425c82ec06275476f17d1e78b80c946e",
+      "adjuntos": []
+    },
+    {
+      "id": "1369728932013932756",
+      "fecha_utc": "2025-05-07T17:33:45.725000+00:00",
+      "fecha_local": "2025-05-07",
+      "editado_utc": null,
+      "texto": "Kalista: si...**Enseña su palma**",
+      "mensaje_sha256": "e4285fd7c45cc8c93cbb1929bd5cb357c24bc84150835b8f16f784d78659db54",
+      "tipo_discord": 19,
+      "referencia": "1369725259762241557",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369728932013932756",
+      "texto_sha256": "4e6b5733b611d3773f98aa9b17cbcbf94bb05a34f569c235298316e1122bff93",
+      "adjuntos": []
+    },
+    {
+      "id": "1369731016473837638",
+      "fecha_utc": "2025-05-07T17:42:02.699000+00:00",
+      "fecha_local": "2025-05-07",
+      "editado_utc": null,
+      "texto": "Banzo : **se desabrocha un guante y le enseña las marcas **",
+      "mensaje_sha256": "ecf00185ae89a770f539145b6ef5b0b459ac0b7adb15b7af308a2b973e325604",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369731016473837638",
+      "texto_sha256": "4808f954c9a0028a95f9bd6603de9101ae4f4158ffad925722c5925819b35d6e",
+      "adjuntos": []
+    },
+    {
+      "id": "1369731640078635149",
+      "fecha_utc": "2025-05-07T17:44:31.378000+00:00",
+      "fecha_local": "2025-05-07",
+      "editado_utc": null,
+      "texto": "Banzo: nos han marcado ...",
+      "mensaje_sha256": "cf5902543d47ba4d774ba55d8349668638fa7b4625ea9a190bacbbb03469876b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369731640078635149",
+      "texto_sha256": "df155067f4c1a4410abe47fe6de96369395d4baa98c7fcad463650355a9fdfe7",
+      "adjuntos": []
+    },
+    {
+      "id": "1369732260445687940",
+      "fecha_utc": "2025-05-07T17:46:59.285000+00:00",
+      "fecha_local": "2025-05-07",
+      "editado_utc": null,
+      "texto": "Kalista: **traga saliva** Vale ¿y como nos libramos de esto?",
+      "mensaje_sha256": "9adaed44b331ae1cb0f7b81df884011d1b34967f3d944d7655a6e66a2bb8778d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369732260445687940",
+      "texto_sha256": "cc7a895500d674d0480fe001aaa4450c40969ed815babf85916b1577fc24f920",
+      "adjuntos": []
+    },
+    {
+      "id": "1369733509953884292",
+      "fecha_utc": "2025-05-07T17:51:57.191000+00:00",
+      "fecha_local": "2025-05-07",
+      "editado_utc": null,
+      "texto": "Banzo : creo que sabes la respuesta ...",
+      "mensaje_sha256": "8683e0ce4f739c84a4774428d441786674a35d08cec78c60c479fc5e643a1478",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369733509953884292",
+      "texto_sha256": "6f6ebb949a1867f32e27706f5933e6cb8bc6830206e27f6d11540db1a1804002",
+      "adjuntos": []
+    },
+    {
+      "id": "1369733726220845189",
+      "fecha_utc": "2025-05-07T17:52:48.753000+00:00",
+      "fecha_local": "2025-05-07",
+      "editado_utc": null,
+      "texto": "o el ... o ella ... creo que son los unicos que sabrian de que va esto .. he preguntado a Phalatzier y no sabe como remendarlo ...",
+      "mensaje_sha256": "483c4a702739d440be4490a82dbeab2d9dcabe2a0a69cf5b1e50317de0b15c12",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369733726220845189",
+      "texto_sha256": "6884693ae6e3ad9c719c7017151de72b61a4225fd434cc2008a88ae67cb2a03c",
+      "adjuntos": []
+    },
+    {
+      "id": "1369733960221069406",
+      "fecha_utc": "2025-05-07T17:53:44.543000+00:00",
+      "fecha_local": "2025-05-07",
+      "editado_utc": null,
+      "texto": "banzo : nos toca decidir que hacemos Kalista .. pero solos tu y yo no podemos .",
+      "mensaje_sha256": "7faf2714e8dd72dfb8d56ec37d5aab87c11e016bc7837a1ab1ba8b83a353c776",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369733960221069406",
+      "texto_sha256": "0b10b9116ce23c7a500c963a4c115fd382178d956123ee6e858d231a3576550d",
+      "adjuntos": []
+    },
+    {
+      "id": "1369737237180186644",
+      "fecha_utc": "2025-05-07T18:06:45.831000+00:00",
+      "fecha_local": "2025-05-07",
+      "editado_utc": null,
+      "texto": "😏  FIN DE LA ESCENA 🧐",
+      "mensaje_sha256": "41f9dc20c51aff644ee99c9f530b5fc65657c903e32a666732207a3f91c0141b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1369737237180186644",
+      "texto_sha256": "6ca964145e4323d224d823f00deae791856aba3791f866a34c62f8a43c6e2dad",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "id": "k-1374313364607598612",
+  "campana": "kuroto",
+  "unidad_revision": "k-1374313364607598612",
+  "hilo_id": "1362071806441160834",
+  "hilo_nombre": "Base Ukyio - Sala principal",
+  "titulo": "El repetidor de caracolas funciona solo un momento",
+  "resumen": "Archi y Ralph instalan una placa en Ukyio, hablan con Guxi y el aparato termina quemándose.",
+  "relato": "Archi llega a Ukyio con Ralph y una mochila pesada. Suben el equipo al tejado e instalan una placa repetidora para extender la señal de las caracolas entre los cazadores. Tras golpear el cristal de cuarzo y producir chispas, el inventor llama a Guxi.\n\nEl aprendiz responde desde el puerto de Sho y confirma que oye la comunicación. Archi celebra los ajustes y pregunta qué lo ocupa: trabaja en una embarcación para ir a la isla Espejismo y necesita darse prisa. La prueba empieza a sufrir interferencias, alarmas, música y ruido blanco. Sale humo de la placa y se rompe tras varios chispazos.\n\nArchi acepta el avance parcial y decide ir con Ralph al puerto. El intercambio demuestra una comunicación breve, sin red estable ni cobertura permanente para todos los cazadores.",
+  "participantes": [
+    "Archi",
+    "Ralph",
+    "Guxi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1374317011349540924",
+      "afirmacion": "Archi y Ralph instalan la placa repetidora en el tejado.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1374376721456824351",
+      "afirmacion": "Guxi recibe la llamada de prueba.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1374377687954755667",
+      "afirmacion": "Guxi dice preparar una embarcación hacia la isla Espejismo.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1374380643936505968",
+      "afirmacion": "El repetidor sufre interferencias, humea y se rompe.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La prueba fallida no da por completada una infraestructura funcional.",
+    "Mantener el episodio en Kuroto sin transferir automáticamente anécdotas del Archi de Xoltacan."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-20T09:10:39.630000+00:00",
+  "fin_utc": "2025-05-20T13:38:00.272000+00:00",
+  "fecha_local": "2025-05-20",
+  "intervalo": {
+    "anterior": 116,
+    "siguiente": 117,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1374091924474040400",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1374452181180354571",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 116,
+        "fecha": "2025-05-19",
+        "inicio_referencia_utc": "2025-05-19T18:30:27+00:00",
+        "fin_estimado_utc": "2025-05-19T21:06:27+00:00",
+        "duracion_video_segundos": 9360,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1374091924474040400"
+      },
+      {
+        "capitulo": 117,
+        "fecha": "2025-05-20",
+        "inicio_referencia_utc": "2025-05-20T18:22:02+00:00",
+        "fin_estimado_utc": "2025-05-20T21:21:18+00:00",
+        "duracion_video_segundos": 10756,
+        "tipo_referencia": "aviso_de_contraste",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1374452181180354571"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida. Una hora tomada de un aviso con título discrepante se utiliza solo como referencia aproximada de ese día."
+  },
+  "fuentes": [
+    {
+      "id": "1374313364607598612",
+      "fecha_utc": "2025-05-20T09:10:39.630000+00:00",
+      "fecha_local": "2025-05-20",
+      "editado_utc": null,
+      "texto": "Archi: **llegaría Archi a la puerta de la base de Ukyio , con un gran mochilon llevado a duras penas por el pequeño Ralph **",
+      "mensaje_sha256": "71503efc50db1ee34b44a7d8d2ac873006a64a565f6cc2b785bd69ad200b7efb",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1374313364607598612",
+      "texto_sha256": "dc57fa202242f351d89b05ac15ab8cb6cd50a062fb77c69c16775e8f6ff717af",
+      "adjuntos": []
+    },
+    {
+      "id": "1374317011349540924",
+      "fecha_utc": "2025-05-20T09:25:09.081000+00:00",
+      "fecha_local": "2025-05-20",
+      "editado_utc": null,
+      "texto": "Archi: **suben entre el y Ralph la cargada mochila al tejado de la base y comienza la instalación de esa placa repetidora para que la señal de las caracolas llegue a todos los cazadores **",
+      "mensaje_sha256": "8cbcab9b04fa0ab08819e661af871b0a164f62f18992821f61360f40c7fc89d0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1374317011349540924",
+      "texto_sha256": "101a2fbdf40afcd3301c4ed153662a4ddc25b16cb04f39a6f6328079a0eb4436",
+      "adjuntos": []
+    },
+    {
+      "id": "1374374943155814552",
+      "fecha_utc": "2025-05-20T13:15:21.100000+00:00",
+      "fecha_local": "2025-05-20",
+      "editado_utc": null,
+      "texto": "Archi : probemos que tal va esto ...",
+      "mensaje_sha256": "3229bc570b63cd28ba4a10b3acc02ad1ef8705fc602a50d2ee14422fe333cd02",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1374374943155814552",
+      "texto_sha256": "211daa56345a7e2b9803f6232919723d15f856d3eacb7b15b49c824967cf1c9a",
+      "adjuntos": []
+    },
+    {
+      "id": "1374376440014966965",
+      "fecha_utc": "2025-05-20T13:21:17.979000+00:00",
+      "fecha_local": "2025-05-20",
+      "editado_utc": null,
+      "texto": "Archi: **saca una caracolofono , le da unos martillazos a la placa de cristal de cuarzo y una chispas saltan hasta ella .** \nProbando probando , hola mundo aquí archi \n\nGuxi mon petit genio estás ahí? Cambio <@171702246952665098>",
+      "mensaje_sha256": "cd380f2eab15134fcd99afb81cbd51bd65530ae6e665d5603f46514e2fb5e0e8",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1374376440014966965",
+      "texto_sha256": "73fc7896713f4f7d04f4d3005fc8b9c5c352fb98e0a06acc89858f4831dc7b0b",
+      "adjuntos": []
+    },
+    {
+      "id": "1374376721456824351",
+      "fecha_utc": "2025-05-20T13:22:25.080000+00:00",
+      "fecha_local": "2025-05-20",
+      "editado_utc": "2025-05-20T13:23:16.651000+00:00",
+      "texto": "guxi: ** oye un ruido proveniente de la mochila y coge el aparato ** dime archi parece que funciono al final **se nota un tono de voz apagado**",
+      "mensaje_sha256": "2377aec172cd4c7f301f9461b8e715de2ccdeb16312bb577eed0e384b7f4002e",
+      "tipo_discord": 19,
+      "referencia": "1374376440014966965",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1374376721456824351",
+      "texto_sha256": "3d518b242c3e9db364ee46943e7e2d83a68699fcde089dfe5ff62e67624ab47d",
+      "adjuntos": []
+    },
+    {
+      "id": "1374377438339006587",
+      "fecha_utc": "2025-05-20T13:25:15.998000+00:00",
+      "fecha_local": "2025-05-20",
+      "editado_utc": null,
+      "texto": "Archi : **risa de auténtico maniaco durante 30 segundos aprox** \nEurrreeeeeka mon ami , tebias razón en los ajustes del parámetro modular.  \nPor cierto que te ocupa no te veo desde hace un par de días \nCambio",
+      "mensaje_sha256": "2cf4ce6e8339a824ef3d2383c7480cb07d9507e6b5e8ff7e8e3a7ea761ef95ad",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1374377438339006587",
+      "texto_sha256": "bf829e587759ac402be34a44d02eb2d4b0beccc83b0f5fdc01406f96b0e96d5d",
+      "adjuntos": []
+    },
+    {
+      "id": "1374377687954755667",
+      "fecha_utc": "2025-05-20T13:26:15.511000+00:00",
+      "fecha_local": "2025-05-20",
+      "editado_utc": "2025-05-20T13:27:56.345000+00:00",
+      "texto": "guxi: estoy en el puerto de sho trabajando en una embarcacion para ir a la isla espejismo debo darme prisa cambio",
+      "mensaje_sha256": "713c204ff2d16ef737c8d92a724cbc4f44a6d35e2a5a72000f444e0806a62f2a",
+      "tipo_discord": 19,
+      "referencia": "1374377438339006587",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1374377687954755667",
+      "texto_sha256": "2d295138145a282fbe0a74e9935bc83245c58d8b55c194872a7116cadde6dc2c",
+      "adjuntos": []
+    },
+    {
+      "id": "1374380643936505968",
+      "fecha_utc": "2025-05-20T13:38:00.272000+00:00",
+      "fecha_local": "2025-05-20",
+      "editado_utc": "2025-05-21T08:46:56.579000+00:00",
+      "texto": "Archi :** empiezas ha escuchar un montón de interferencias,  suena música medieval , lo que parece una alarma , voces con interferencias,  una canción de los  Rolling, y luego ruido blanco \n\nArchi ve como empieza a salir humo de la placa \n\nNo no no \n**pega tres chispazos y se rompe ... ** \n\nBueno algo es algo ... \nIré con el pequeño saltamontes , al puerto de sho Ralph en marcha \n\n\n🔧 FIN DE LA ESCENA 🔧",
+      "mensaje_sha256": "0629a97ee84ef52831e8c50610605fd04ff9b4c283d1bbb863c552d2d774b49d",
+      "tipo_discord": 19,
+      "referencia": "1374377687954755667",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1374380643936505968",
+      "texto_sha256": "5459353b521d4c82d5c84c9939a3b2c94af1dfb882c168145a2c6f564ed3d95c",
+      "adjuntos": []
+    }
+  ]
+}

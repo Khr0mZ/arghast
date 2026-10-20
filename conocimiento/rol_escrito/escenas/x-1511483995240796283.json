@@ -1,0 +1,154 @@
+{
+  "id": "x-1511483995240796283",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1511483995240796283",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "La vuelta de Ione reabre su disputa con Nox",
+  "resumen": "Llega dispuesta a celebrar, pero encuentra al expulsado en su cubierta y recupera la amenaza anterior.",
+  "relato": "Ione sube al Zampaolas con ropa de un marine y anuncia cerveza y noticias para celebrar. Al oír a Nox en cubierta se le borra la sonrisa. Le recuerda que no debe estar en su barco y reitera la amenaza de la última conversación.\n\nÉl evita una respuesta directa y se burla de su falta de ropa habitual, preguntando si otra luna llena hizo que atacara a alguien. Ione niega que sepa lo ocurrido y hace girar Diálogo. El pirata insiste en pedir a quién ha herido. La conversación queda en ese punto y continúa después; no se narra un golpe en estos seis mensajes.",
+  "participantes": [
+    "Ione",
+    "Nox"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1511486179361558678",
+      "afirmacion": "Ione recuerda la prohibición de estar en el barco.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1511488030844649606",
+      "afirmacion": "Hace girar Diálogo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1511489568950587563",
+      "afirmacion": "Nox vuelve a preguntarle por víctimas de su condición.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "La ropa del marine no permite reconstruir lo ocurrido fuera de escena.",
+    "Diálogo es su bate, no una tercera persona."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-06-02T21:37:46.480000+00:00",
+  "fin_utc": "2026-06-02T21:59:55.356000+00:00",
+  "fecha_local": "2026-06-02",
+  "intervalo": {
+    "anterior": 36,
+    "siguiente": 37,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1511430616145723484",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1512525575573475348",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 36,
+        "fecha": "2026-06-02",
+        "inicio_referencia_utc": "2026-06-02T18:05:24+00:00",
+        "fin_estimado_utc": "2026-06-02T20:38:28+00:00",
+        "duracion_video_segundos": 9184,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1511430616145723484"
+      },
+      {
+        "capitulo": 37,
+        "fecha": "2026-06-05",
+        "inicio_referencia_utc": "2026-06-05T18:36:17+00:00",
+        "fin_estimado_utc": "2026-06-05T20:56:06+00:00",
+        "duracion_video_segundos": 8389,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1512525575573475348"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1511483995240796283",
+      "fecha_utc": "2026-06-02T21:37:46.480000+00:00",
+      "fecha_local": "2026-06-02",
+      "editado_utc": "2026-06-02T21:40:54.916000+00:00",
+      "texto": "Ione: **Llega con una mirada pensativa mientras sube a cubierta, la ropa no es la suya si no de ese pobre marine que a saber lo que esta pasando... Pero cuando esta apunto de subir a cubierta sonrie y dice** CHICOS, CELEBREMOS, TENEMOS CERVEZA DE SOBRA... Y HAY ALGO QUE NO OS VAIS A CREER... <@616683133374562304> <@214405113677217793>",
+      "mensaje_sha256": "e7099e8889e81927bb957190f70b1a87e678d4f3be1e7dea7bb9740605e026ec",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511483995240796283",
+      "texto_sha256": "cc52529cb2ed65ff2ea18acf0e88bc194199744e9daba908b44733a05b6880ce",
+      "adjuntos": []
+    },
+    {
+      "id": "1511485369798099084",
+      "fecha_utc": "2026-06-02T21:43:14.200000+00:00",
+      "fecha_local": "2026-06-02",
+      "editado_utc": null,
+      "texto": "Nox: **contempla el horizonte en silencio mientras el resto de la tripulación habla de festejos.\nEscucha a Ione acercarse.\nEsta vez no sonríe.**\n\nVaya ... ya has llegado\n\n**Su mirada sigue clavada en el mar **",
+      "mensaje_sha256": "8bfbc2895b989d312b0290b492be4d31d02c1463b356b332042cce12050686a9",
+      "tipo_discord": 19,
+      "referencia": "1511483995240796283",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511485369798099084",
+      "texto_sha256": "b4ad9528e31899d1c38aa9fcbecf30421fd5f9dc4429f3984aa284a821c99402",
+      "adjuntos": []
+    },
+    {
+      "id": "1511486179361558678",
+      "fecha_utc": "2026-06-02T21:46:27.215000+00:00",
+      "fecha_local": "2026-06-02",
+      "editado_utc": null,
+      "texto": "Ione: **Para cuando termina de subir escucha tu voz. Su sonrisa se borra y ese mismo sentimiento que tenia antes vuelve a ella** ¿Que haces aqui? ¿No tienes a una fulana que tirarte por ahi o una taberna entera para emborracharte? **Baja su tono** Te dije que la proxima vez que te viera en mi barco sabes lo que pasaria",
+      "mensaje_sha256": "e1f24ceb2d2cef4573cd5ead7413862d397578cb1714b793f8c7a748e755231c",
+      "tipo_discord": 19,
+      "referencia": "1511485369798099084",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511486179361558678",
+      "texto_sha256": "06e53287b9e69ff78d3cd4d9c0a29d09e8bbfd3347ad281a960dbc599ac2c66f",
+      "adjuntos": []
+    },
+    {
+      "id": "1511487546214060094",
+      "fecha_utc": "2026-06-02T21:51:53.098000+00:00",
+      "fecha_local": "2026-06-02",
+      "editado_utc": "2026-06-02T21:52:33.428000+00:00",
+      "texto": "Nox :**se gira finalmente al escuchar aquella amenaza.\nSus ojos recorren a Ione durante un instante. La falta de su ropa habitual, las marcas del cansancio y aquella ira contenida le dicen más que sus palabras.\nAlza una ceja.**\n\nVaya... esa es una bienvenida bastante fría incluso para ti.\n**La observa unos segundos más antes de apoyar ambos codos sobre la barandilla.**\nDéjame adivinar...\n**Su tono se vuelve ligeramente burlón.**\n¿Te ha vuelto a pasar?\n**Inclina la cabeza.**\nLuna llena, fakta de ropa  y preguntándote por qué todo el mundo te mira raro?\n**Una media sonrisa aparece en su rostro.**\n me temo que no soy el único que ha tenido una semana complicada.",
+      "mensaje_sha256": "52627512eb4e0feaaf8f086a98612b85376055632be1a407eb4fdb49164e2c1d",
+      "tipo_discord": 19,
+      "referencia": "1511486179361558678",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511487546214060094",
+      "texto_sha256": "0c25cd73aae7988dcf98a9b20e0c2cc2caf488737cabae3f079f9c49f73736e9",
+      "adjuntos": []
+    },
+    {
+      "id": "1511488030844649606",
+      "fecha_utc": "2026-06-02T21:53:48.643000+00:00",
+      "fecha_local": "2026-06-02",
+      "editado_utc": null,
+      "texto": "Ione: no tienes ni idea de nada **Saca a dialogo y lo hace girar en su mano** No me metas en tu mismo saco",
+      "mensaje_sha256": "bf240e00136508de38bcc66a95143beb53fa43279470bdc265fc9f761df8d3fd",
+      "tipo_discord": 19,
+      "referencia": "1511487546214060094",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511488030844649606",
+      "texto_sha256": "a0c352939daca0d6d063681b8141ec5cbf1884b51fb524bf8c556e76c974158a",
+      "adjuntos": []
+    },
+    {
+      "id": "1511489568950587563",
+      "fecha_utc": "2026-06-02T21:59:55.356000+00:00",
+      "fecha_local": "2026-06-02",
+      "editado_utc": null,
+      "texto": "Nox: ** observa el bate girar entre sus manos y alza ambas cejas.**\n\nNo, claro que no.. Yo tomo malas decisiones al parecer\n\nPero no ataco a los mios . \nDime ... quien ha recibido algun garrazo o mordisco esta vez ? \n\n**sigue con la postura relajada apoyado en la barandilla con los pies cruzados frente a Ione **",
+      "mensaje_sha256": "a303e8934154a2600d98d1a2db0a677c1ef2f8e92743f45ed5e13f3ad36b6e5b",
+      "tipo_discord": 19,
+      "referencia": "1511488030844649606",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511489568950587563",
+      "texto_sha256": "2a7dfd3f77f2d1df51eb29fbcf7776e86b2e0ba08faf7b9a5de7becd1b8858d3",
+      "adjuntos": []
+    }
+  ]
+}

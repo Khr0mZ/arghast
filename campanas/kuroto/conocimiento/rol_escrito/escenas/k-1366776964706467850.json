@@ -1,0 +1,431 @@
+{
+  "id": "k-1366776964706467850",
+  "campana": "kuroto",
+  "unidad_revision": "k-1366776964706467850",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Sospechas en la casa del té",
+  "resumen": "Kalista replantea con Kurobane la investigación del atentado, revela que se ha trasladado a un refugio bajo el agua y le organiza una estancia para descansar.",
+  "relato": "Kurobane deja sus libros en la biblioteca y llega cansado a la casa del té. Una mujer lo conduce hasta Kalista, que realiza la ceremonia y explica que quiere agradecerle su dedicación. La puerta se cierra y una melodía da intimidad a la conversación. Kurobane relaciona su empeño en protegerla con la devastación de su pueblo, que atribuye al culto y a la ambición de su jefe. Kalista comparte nuevas dudas sobre el atentado: considera improbable que un tritón ejecutase el ataque en tierra y plantea que la daga marina podría ser una pista falsa. Para ella, el autor material podría diferir de quien lo encargó; propone encontrar primero al atacante y destaca que tuvo acceso al arma de un noble. Kurobane confirma que sigue dispuesto a ser su sombra y a investigar juntos. Kalista responde que se instaló la noche anterior en un lugar secreto bajo las aguas, cuya ubicación no revela. Le permite escoltarla durante misiones o en presencia de los cazadores, pero asegura poder protegerse en su refugio. Tras reiterar su agradecimiento, se marcha y deja preparado un detalle para su descanso: entran varias mujeres que ofrecen unos servicios descritos solo como especiales. Kurobane no acepta la propuesta y, después de un tiempo, regresa a las inmediaciones de la base, todavía preocupado por la seguridad de Kalista.",
+  "participantes": [
+    "Kurobane",
+    "Kalista",
+    "Anfitriona de la casa del té",
+    "Mujeres de la casa del té"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1366777421482954924",
+      "afirmacion": "Una anfitriona conduce a Kurobane hasta Kalista, que prepara el té.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1366778353411035204",
+      "afirmacion": "Kalista explica que busca agradecer la dedicación de Kurobane.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1366780782789525664",
+      "afirmacion": "Kurobane relata la destrucción de su pueblo y la atribuye al culto y a la ambición de su jefe.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1366786794934243379",
+      "afirmacion": "Kalista plantea que la daga marina pudo dejarse como pista falsa y distingue autor material de instigador.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1366788525101416488",
+      "afirmacion": "Kurobane mantiene su promesa de escoltarla y ofrece investigar juntos.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1366794327262629888",
+      "afirmacion": "Kalista limita la escolta a misiones o presencia de cazadores y alude a un refugio bajo el agua.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1366805182960238614",
+      "afirmacion": "Kalista afirma que se mudó la noche anterior, sale y deja preparada la visita de varias mujeres.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1366807684233433138",
+      "afirmacion": "Kurobane no acepta los servicios ofrecidos y regresa cerca de la base.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Las deducciones sobre especie del atacante, pista falsa y relación con nobles son hipótesis de Kalista. No identificar culpable ni dar por resuelta la trama.",
+    "El escondite y la mudanza se conocen por declaración de Kalista; no se visita el lugar ni se revela ubicación. Su afirmación de ser intocable bajo el agua no acredita invulnerabilidad.",
+    "La música se describe como cobertura de susurros. Las mujeres que entran después no se presentan como testigos de la conversación confidencial.",
+    "El significado de servicios especiales se mantiene en el nivel de detalle del original; no se inventan actos ni aceptación.",
+    "Los pensamientos finales de Kurobane sobre la expresión mi querida sombra y la seguridad de Kalista no son comunicados a ella."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-04-29T14:03:41.874000+00:00",
+  "fin_utc": "2025-04-29T16:06:01.158000+00:00",
+  "fecha_local": "2025-04-29",
+  "intervalo": {
+    "anterior": 109,
+    "siguiente": 110,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1365035149171101736",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367206327377727518",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 109,
+        "fecha": "2025-04-24",
+        "inicio_referencia_utc": "2025-04-24T18:42:06+00:00",
+        "fin_estimado_utc": "2025-04-24T21:37:07+00:00",
+        "duracion_video_segundos": 10501,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1365035149171101736"
+      },
+      {
+        "capitulo": 110,
+        "fecha": "2025-04-30",
+        "inicio_referencia_utc": "2025-04-30T18:29:35+00:00",
+        "fin_estimado_utc": "2025-04-30T20:53:27+00:00",
+        "duracion_video_segundos": 8632,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367206327377727518"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1366776964706467850",
+      "fecha_utc": "2025-04-29T14:03:41.874000+00:00",
+      "fecha_local": "2025-04-29",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\n**Después de un tiempo investigando, dejaría los libros en cada estante y saldría de la biblioteca en dirección a la casa del té, está intentando mantener el tipo aun estando cansado**\n\n*Porque querrá quedar en la casa de té y no la base de los Cazadores*\n\n**Antes de llegar pasaría por delante de ella pero él no se daría cuenta y entraría a la casa de té**",
+      "mensaje_sha256": "455d66f0cee98133f6d86325d22dc47b73bc575d848399d94835c52bb1241e41",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1366776964706467850",
+      "texto_sha256": "49803de8a386076a2db493e2288727c418cfb3d2e7e07ceab4d2446b4e5acbd5",
+      "adjuntos": []
+    },
+    {
+      "id": "1366777421482954924",
+      "fecha_utc": "2025-04-29T14:05:30.778000+00:00",
+      "fecha_local": "2025-04-29",
+      "editado_utc": null,
+      "texto": "**Una mujer muy maquillada y con un kimono elegante te guia hasta una sala, donde ves a Kalista realizar una ceremonia del te, tomando este con sus dos manos**\n\nKalista: te estaba esperando, por favor toma asiento",
+      "mensaje_sha256": "b299c562bd51214030b2f635da21e1d4ea325a08a9649fc52603ae3ffc4bccd7",
+      "tipo_discord": 19,
+      "referencia": "1366776964706467850",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1366777421482954924",
+      "texto_sha256": "b779c8e40c23643781ec049af28e130eef2aa74c7f274667cfa33cd4c3af9793",
+      "adjuntos": []
+    },
+    {
+      "id": "1366777817647284366",
+      "fecha_utc": "2025-04-29T14:07:05.231000+00:00",
+      "fecha_local": "2025-04-29",
+      "editado_utc": "2025-04-29T14:08:25.229000+00:00",
+      "texto": "Kurobane:\n\n**Haría una reverencia a la mujer en son de agradecimiento y tomaría asiento**\n\nDe que quería hablar?\n\n**Pregunta serio mientras se sienta enfrente**",
+      "mensaje_sha256": "7bf2807ee7fe28d630a1d18813f8586aa1c21f9d272ae18f0231a6155be64426",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1366777817647284366",
+      "texto_sha256": "bdb41a9b29dc56f67f8dcbb8ac176e53b4a969a22c3ea4e82699ca7f252bc95a",
+      "adjuntos": []
+    },
+    {
+      "id": "1366778353411035204",
+      "fecha_utc": "2025-04-29T14:09:12.967000+00:00",
+      "fecha_local": "2025-04-29",
+      "editado_utc": null,
+      "texto": "Kalista: ...Te he visto muy aplicado con la mision que te he otorgado....estoy agradecida por ello....Y esta es mi forma de devolverte el gesto **Te sonrie suave y se sirve un te como dicta el protocolo. Mira a un punto detras de ti y una puerta se cierra...tras ella un suave sonido de una melodia empieza a sonar**",
+      "mensaje_sha256": "ed19742d5d7def021b584e19ae4b81cf8be947bf155caacd45d55feb60e06d23",
+      "tipo_discord": 19,
+      "referencia": "1366777817647284366",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1366778353411035204",
+      "texto_sha256": "08a6d523547468719d7c73595879d83e8c4ee118afb3cd49aac9e7f95072a257",
+      "adjuntos": []
+    },
+    {
+      "id": "1366779264611127376",
+      "fecha_utc": "2025-04-29T14:12:50.214000+00:00",
+      "fecha_local": "2025-04-29",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nNo debes darme nada, señorita Kalista. Me recuerda a mi en aquel momento, cuando me dieron mi sobrenombre en la orden juré  que nadie pasaría por lo mismo. \n\n**Dice serio mientras se echa para atrás la capucha y se quita la bufanda, dice algo en el idioma del monasterio, puedes deducir que está dando las gracias a los dioses, antes de tomarse un poco del té**",
+      "mensaje_sha256": "ded4334b8df312a2f5032948361ab6727601ff85eae99662fb845da87b2ea238",
+      "tipo_discord": 19,
+      "referencia": "1366778353411035204",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1366779264611127376",
+      "texto_sha256": "5065e11ad45b1dc485ab99e26d41444b19762d4ceb5e444649d5c0c86865b60f",
+      "adjuntos": []
+    },
+    {
+      "id": "1366779515019464785",
+      "fecha_utc": "2025-04-29T14:13:49.916000+00:00",
+      "fecha_local": "2025-04-29",
+      "editado_utc": null,
+      "texto": "Kalista: **Te sonrie** ¿A usted? ¿En que sentido? No tengo sus diestras habilidades",
+      "mensaje_sha256": "bc01e5e68d7dcef2ef1d4c8e9f6efc11cb6fd3812e8d8a737000d0d3048836ea",
+      "tipo_discord": 19,
+      "referencia": "1366779264611127376",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1366779515019464785",
+      "texto_sha256": "cc52d3a8f597c79a46677d1e1008278bc4bb588558682f8029cf2ddc18777cd4",
+      "adjuntos": []
+    },
+    {
+      "id": "1366780782789525664",
+      "fecha_utc": "2025-04-29T14:18:52.176000+00:00",
+      "fecha_local": "2025-04-29",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nMe recuerda a mi antes de entrar a la orden. En el sentido, de que fue atacada por alguien que no sabe quien es. En su momento no supe que mi pueblo fue devastado por la ambición que el culto a ese ser, dejo en el jefe.\n\n**Te mira a los ojos muy fijamente, pero puedes ver y sentir que no solo te mira a ti si no que sus ojos reflejan ese mar de fuego que hubo ese día**",
+      "mensaje_sha256": "7d79fb4aa0e757787cba41b3699694ede450aafeea54fc14a25ec25ddcd707ef",
+      "tipo_discord": 19,
+      "referencia": "1366779515019464785",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1366780782789525664",
+      "texto_sha256": "c74c175ce1499d4450bd88210a46fa492c6353c54c9187325903364869b0377a",
+      "adjuntos": []
+    },
+    {
+      "id": "1366781432294543451",
+      "fecha_utc": "2025-04-29T14:21:27.030000+00:00",
+      "fecha_local": "2025-04-29",
+      "editado_utc": null,
+      "texto": "Kalista: **Se te queda mirando unos segundo y deja la taza de te en la mesa ...Y baja el tono de voz de forma que solo tu y ella pueden oir lo que va a decir, pues la musica tapa vuestros susurros** Si es cierto que fui atacada....pero cada vez tengo mas dudas sobre quien pudo ser....",
+      "mensaje_sha256": "3b9a32730a8cf3e461e5027ba7e05febccdc589c07a94546647b9f6d6034144a",
+      "tipo_discord": 19,
+      "referencia": "1366780782789525664",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1366781432294543451",
+      "texto_sha256": "407c8921afe81daf76a3ee91aa5e8c3e26545c98765564e62f3af29a4aaa8236",
+      "adjuntos": []
+    },
+    {
+      "id": "1366782617692930099",
+      "fecha_utc": "2025-04-29T14:26:09.651000+00:00",
+      "fecha_local": "2025-04-29",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nDudas? Quien cree que puede ser el ser que te ha atacado?\n\n**Pregunta susurrando lo suficiente para que ella lo escuche**",
+      "mensaje_sha256": "578c23db6b22c91dfb9681ca952591fc405c706820339b06850dd87790c4f518",
+      "tipo_discord": 19,
+      "referencia": "1366781432294543451",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1366782617692930099",
+      "texto_sha256": "703f9e3a9da891c30ebae2b5f9e03a7fbc365bdd18ea51c8b6efba81b814b418",
+      "adjuntos": []
+    },
+    {
+      "id": "1366785881892978829",
+      "fecha_utc": "2025-04-29T14:39:07.897000+00:00",
+      "fecha_local": "2025-04-29",
+      "editado_utc": null,
+      "texto": "Kalista: me resulta extraño que un triton sea mi atacante...Somos diestros en el agua pero en tierra...somos vulnerables...¿Donde se hubiera escondido mi atacante? No es que seamos diestros escalando arboles precisamente....**Te susurra**",
+      "mensaje_sha256": "07eb3f7f0b4ab44ed765ae021ae11028feb627f1f3c28868b8946ef25f30c0c1",
+      "tipo_discord": 19,
+      "referencia": "1366782617692930099",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1366785881892978829",
+      "texto_sha256": "1b3134fe7b5f8338ac4f6e53c719312c33c39b6c678fcf4c5b8c6e6dc189fd43",
+      "adjuntos": []
+    },
+    {
+      "id": "1366786234743132253",
+      "fecha_utc": "2025-04-29T14:40:32.023000+00:00",
+      "fecha_local": "2025-04-29",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nContinue.\n\n**Dice serio mientras la escucha atentamente**",
+      "mensaje_sha256": "39205c2f179b48bc00b6f664c9cd5ad1f5a501e52aec45909edfa401e7d594ec",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1366786234743132253",
+      "texto_sha256": "c5cc44e5748d8ed9867c55e85eed69c1a9490c6b82427a69c739f42658b6d6ea",
+      "adjuntos": []
+    },
+    {
+      "id": "1366786794934243379",
+      "fecha_utc": "2025-04-29T14:42:45.583000+00:00",
+      "fecha_local": "2025-04-29",
+      "editado_utc": null,
+      "texto": "Kalista: ....el perpetrador...no pudo ser de mi especie...tal vez....la mente detras del intento si lo sea....pero el perpretador no lo es....tal vez la daga...fue una falsa pista para confundirnos....Pero es interesante....que el perpretador haya tenido en algun momento acceso a las armas de un noble....",
+      "mensaje_sha256": "9e5b5bad9241329224883335be5b508ce7fe86f98bd078b48a03f0beeba14043",
+      "tipo_discord": 19,
+      "referencia": "1366786234743132253",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1366786794934243379",
+      "texto_sha256": "2eb96a64c0661b722913c048c0c22950282e34b97dff24f4dd79b3b3d4ad2eb2",
+      "adjuntos": []
+    },
+    {
+      "id": "1366787540316852394",
+      "fecha_utc": "2025-04-29T14:45:43.296000+00:00",
+      "fecha_local": "2025-04-29",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nPor eso he estado investigando su reino, señorita. Quiero que el que haya pagado o enviado a alguien pague por lo que ha hecho.\n\n**Dice serio pero sonriente mientras te acaricia lentamente el hombro**",
+      "mensaje_sha256": "c3ef7f4f9a54ed0313ca44862b8a4cea214e8d89460265d7763064153030764c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1366787540316852394",
+      "texto_sha256": "744210288f2983e1b79f4ca9e118251b151a9cf6dd488ba27534e1b8cab7d0f7",
+      "adjuntos": []
+    },
+    {
+      "id": "1366787824174497962",
+      "fecha_utc": "2025-04-29T14:46:50.973000+00:00",
+      "fecha_local": "2025-04-29",
+      "editado_utc": null,
+      "texto": "Kalista: ...si atrapamos al perpretador...tendremos a la mente maestra...Es mas facil ir por partes",
+      "mensaje_sha256": "47a4cc3f74b80d12d2d389bf58e97218a7f5be4b24207630eabde8c45e9aa650",
+      "tipo_discord": 19,
+      "referencia": "1366787540316852394",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1366787824174497962",
+      "texto_sha256": "9f0077ac075a42474d1e0ef334269fa3f86a8a29c5f34775ca49fc1d7b4eab3b",
+      "adjuntos": []
+    },
+    {
+      "id": "1366788525101416488",
+      "fecha_utc": "2025-04-29T14:49:38.087000+00:00",
+      "fecha_local": "2025-04-29",
+      "editado_utc": "2025-04-29T14:51:55.618000+00:00",
+      "texto": "Kurobane:\n\nTiene razón. Si no le es molestia, iré contigo donde tenga que ir. Le dije que seré su sombra. Y eso sigue en pie.\n\n**Dice serio pero con convicción**\n\nY si usted quiere lo podemos investigar juntos\n\n**Dice con una sonrisa que intenta tranquilizar**",
+      "mensaje_sha256": "5da431f21fe10aba5f4b777f8056d82a0cf79fcfa6b42e39e402450c990b311d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1366788525101416488",
+      "texto_sha256": "a98d423b48b8e48a7d6a3d3d8ed5930ba14265cbd4accf67e49f95647834b22a",
+      "adjuntos": []
+    },
+    {
+      "id": "1366789852103970938",
+      "fecha_utc": "2025-04-29T14:54:54.469000+00:00",
+      "fecha_local": "2025-04-29",
+      "editado_utc": null,
+      "texto": "Kalista: **Te sonrie satisfecha** No se preocupe...me he instalado en otro lugar...oculto a todos ojos...lejos de las miradas de todos...Solo yo conozco de ese lugar y asi sera. **Posa su mano en la q que tienes en su hombro** Lo investigaremos....pero no pierdas de vista nunca las sombras...",
+      "mensaje_sha256": "87c1fa4b6a6dbcacdfcbf7df8ef3152a79e9aabcef3327778e0c6598e5dc7c6d",
+      "tipo_discord": 19,
+      "referencia": "1366788525101416488",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1366789852103970938",
+      "texto_sha256": "9a626e8dbade9a5658a6442196678bc1caf82a00ae39a16b6830d37101a7ec77",
+      "adjuntos": []
+    },
+    {
+      "id": "1366790450874159166",
+      "fecha_utc": "2025-04-29T14:57:17.227000+00:00",
+      "fecha_local": "2025-04-29",
+      "editado_utc": "2025-04-29T15:07:49.986000+00:00",
+      "texto": "Kurobane:\n\n**Quita lentamente la mano del hombro de la chica recordando que esta invadiendo su espacio personal**\n\nEntonces como nos comunicaremos? No es peligroso para usted el irse sola a otro lugar?\n\n**Pregunta serio pero preocupado antes de tomar un sorbo al té**",
+      "mensaje_sha256": "b4dfb197628c02829501d4b46d8810f80e5d745e82893b9daaff23c79a3561e9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1366790450874159166",
+      "texto_sha256": "08d00274d892dc778689b0c718403937e04ba21f414b4dc449c6a31009970b63",
+      "adjuntos": []
+    },
+    {
+      "id": "1366794327262629888",
+      "fecha_utc": "2025-04-29T15:12:41.430000+00:00",
+      "fecha_local": "2025-04-29",
+      "editado_utc": null,
+      "texto": "Kalista: **Niega con la cabeza** Ya se lo dije, soy escurridiza y a nadie se le ocurriria buscar a un pez bajo el agua **Dice en voz alta** No se preocupe...puede escoltarme mientras este en presencia de cazadores o durante las misiones",
+      "mensaje_sha256": "05494ed389e2980feb7132d3b54de55fd37bc486c44dbf33a8661883e4c258de",
+      "tipo_discord": 19,
+      "referencia": "1366790450874159166",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1366794327262629888",
+      "texto_sha256": "91db486979756d662567a442da1ac6868c91f0f58024e105be40599fb0ceefe0",
+      "adjuntos": []
+    },
+    {
+      "id": "1366797130978562200",
+      "fecha_utc": "2025-04-29T15:23:49.888000+00:00",
+      "fecha_local": "2025-04-29",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\n**Agarra su mano lentamente**\n\n*Espero que no le moleste*\n\nSi ve peligro su vida en ese nuevo lugar no dude en avisarme.\n\n**Dice sonriente pero preocupado mientras le acaricia su mano**",
+      "mensaje_sha256": "f3fa2186f3657e067332ca35d02cd25eb50b450c971b2a17f142234cb6fdfd6e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1366797130978562200",
+      "texto_sha256": "f2c77c3aa051c7a796a94b0d0d440840918534d22136e5f2a91797468600bccc",
+      "adjuntos": []
+    },
+    {
+      "id": "1366797709977190451",
+      "fecha_utc": "2025-04-29T15:26:07.932000+00:00",
+      "fecha_local": "2025-04-29",
+      "editado_utc": null,
+      "texto": "Kalista: **Le sonrie suave** No se preocupe, bajo las aguas soy intocable...**Se levanta y se pone de pie** Le he preparado un detalle especial para que descanse aqui",
+      "mensaje_sha256": "568b5092dafad4f54cc6f355618ad6071233f36063543f62c1d3886a0f4e21b1",
+      "tipo_discord": 19,
+      "referencia": "1366797130978562200",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1366797709977190451",
+      "texto_sha256": "95eeb2c28318242231e01a3ab1b307aea1fdbe9703e12c6ec796459b11de93cc",
+      "adjuntos": []
+    },
+    {
+      "id": "1366802356854984796",
+      "fecha_utc": "2025-04-29T15:44:35.834000+00:00",
+      "fecha_local": "2025-04-29",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nVeo que vuelves al agua, no?\n\n**Pregunta serio pero confuso es la primera persona que conoce que \"vive\" bajo el agua**\n\nUn detalle... Para mi? Ya le dije que no hace falta.\n\n**Comenta serio pero sonriente mientras la mira levantarse**",
+      "mensaje_sha256": "9e13016ecf47bfd0cd05151cfafc86e4baadf5f8c80b3d7eb7aef682b6fe3502",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1366802356854984796",
+      "texto_sha256": "86c532ed33fb28b6532e69a9ed190434a1e887aea2b003011438ef0350034f85",
+      "adjuntos": []
+    },
+    {
+      "id": "1366805182960238614",
+      "fecha_utc": "2025-04-29T15:55:49.630000+00:00",
+      "fecha_local": "2025-04-29",
+      "editado_utc": null,
+      "texto": "Kalista: **Asiente** Ya me mude anoche **Te sonrie y va hacia la puerta** Creo que apreciaras mi regalo, nos vemos mi querida sombra **Cierra tras ella**\n**Al poco un puñado de mujeres entran y digamos que te ofrecen....servicios especiales**",
+      "mensaje_sha256": "3be373c866419313209d07d4deb2159f83050d7b2fad93e7a2be3b952329c9a1",
+      "tipo_discord": 19,
+      "referencia": "1366802356854984796",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1366805182960238614",
+      "texto_sha256": "84b9b2c6a8b9e767ca0daa8a20056040cfbebc4814a9b2cedbf8dcaa00a157a7",
+      "adjuntos": []
+    },
+    {
+      "id": "1366805289071804587",
+      "fecha_utc": "2025-04-29T15:56:14.929000+00:00",
+      "fecha_local": "2025-04-29",
+      "editado_utc": null,
+      "texto": "💙 **Kalista sale de escena**💙",
+      "mensaje_sha256": "4c2c8ac6f0abd4665871c3d8804ba642920a50806982ca7409e8d32a0292051d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1366805289071804587",
+      "texto_sha256": "b928dea5e7101dcbc8ff59a474923d07d495c8cd532b23151935ef2a06b2dcc9",
+      "adjuntos": []
+    },
+    {
+      "id": "1366807684233433138",
+      "fecha_utc": "2025-04-29T16:05:45.980000+00:00",
+      "fecha_local": "2025-04-29",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\n**Se queda quieto sin hacer nada aunque las mujeres sean hermosas, él no cae en los deseos de los \"servicios especiales\" y después de un tiempo vuelve a las inmediaciones de la base de los cazadores**\n\n*Me llama mi querida Sombra y se va*\n\n**Piensa nervioso mirándose la mano con la que le toco su mano**\n\n*Espero que donde se quede esté segura*\n\n🌘  Kurobane sale de escena 🌘",
+      "mensaje_sha256": "21c53ee66e309a48237d2a8c9c14db6e6eee1abe9a9293c1a634156ad5043037",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1366807684233433138",
+      "texto_sha256": "2bbbed51b119569cb10b7db5b22143aab224ada8a8592203352cc2ffaa192827",
+      "adjuntos": []
+    },
+    {
+      "id": "1366807747894706307",
+      "fecha_utc": "2025-04-29T16:06:01.158000+00:00",
+      "fecha_local": "2025-04-29",
+      "editado_utc": null,
+      "texto": "❌ FIN DE LA ESCENA ❌",
+      "mensaje_sha256": "6cfe0355198f6bf92f54b0bd62eae3b80322ddd2584644c9778ac603077c6249",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1366807747894706307",
+      "texto_sha256": "bd3467b08494afbf52ea41448145b325cc0eb5b1eb0993bea513a3951e9a2610",
+      "adjuntos": []
+    }
+  ]
+}

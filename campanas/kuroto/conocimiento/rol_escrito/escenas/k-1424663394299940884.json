@@ -1,0 +1,106 @@
+{
+  "id": "k-1424663394299940884",
+  "campana": "kuroto",
+  "unidad_revision": "k-1424663394299940884",
+  "hilo_id": "1379945696089604209",
+  "hilo_nombre": "Sho, Barrios bajos - Capital de Kuroto",
+  "titulo": "Archi se mete en el baúl para intentar escapar",
+  "resumen": "Envía primero a Wilson y se introduce después, dejando el cofre dentro de la filacteria. No se muestra dónde termina.",
+  "relato": "En su encierro, Archi conversa con la bota Wilson sobre pasar de una cárcel a otra. Acaba convocando el baúl mágico y mete el calzado dentro. Cuando vuelve a abrirlo, Wilson ya no está. Entonces se introduce él mismo y cierra desde dentro, dejando el cofre en la filacteria. El texto pregunta por el éxito de la fuga y no revela su destino: no puede darse por libre al gnomo.",
+  "participantes": [
+    "Archi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1425116154812305468",
+      "afirmacion": "Archi envía la bota y se introduce después en el baúl.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Wilson sigue siendo una bota a la que Archi atribuye conversación, sin autonomía acreditada.",
+    "El baúl permanece en la filacteria y el resultado de la tentativa queda abierto."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-10-06T07:43:42.167000+00:00",
+  "fin_utc": "2025-10-07T13:42:48.685000+00:00",
+  "fecha_local": "2025-10-06",
+  "intervalo": {
+    "anterior": 160,
+    "siguiente": 161,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1423373613540573317",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1425183138606219264",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 160,
+        "fecha": "2025-10-02",
+        "inicio_referencia_utc": "2025-10-02T18:18:19+00:00",
+        "fin_estimado_utc": "2025-10-02T21:07:14+00:00",
+        "duracion_video_segundos": 10135,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1423373613540573317"
+      },
+      {
+        "capitulo": 161,
+        "fecha": "2025-10-07",
+        "inicio_referencia_utc": "2025-10-07T18:08:41+00:00",
+        "fin_estimado_utc": "2025-10-07T20:58:07+00:00",
+        "duracion_video_segundos": 10166,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1425183138606219264"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1424663394299940884",
+      "fecha_utc": "2025-10-06T07:43:42.167000+00:00",
+      "fecha_local": "2025-10-06",
+      "editado_utc": null,
+      "texto": "Archi: pero Wilson estas seguro ... es un plan peligroso , pasaremos de una cárcel a otra ...\n\n\nSi tienes razón allí podremos estirar las piernas ... \n\nNo .. no pienso lanzarte dentro del baúl .\n\n**parece que Wilson la bota y Archi están tramando un plan de escape **",
+      "mensaje_sha256": "3169861f66025f0f49d23643c4cffcb16a25e8e0c540b54bd40cd973502528cb",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1424663394299940884",
+      "texto_sha256": "8e352198f724b0e46c485336e8e4770b3cad0e6a98d73ac529e1a24d22b93b85",
+      "adjuntos": []
+    },
+    {
+      "id": "1425116154812305468",
+      "fecha_utc": "2025-10-07T13:42:48.685000+00:00",
+      "fecha_local": "2025-10-07",
+      "editado_utc": null,
+      "texto": "Archi : pero Wilson de verdad quieres ir tú primero ? \n\nEres una leyenda ... \n\nAdelante pues .. \n**El gnomo convoca el baul magico  con su conjuro .\nLanza la bota Wilson dentro del baul , lo cierra , lo abre y ya no esta ** \nAmigo voy para allá... \n**hecha un vistazo a la cárcel de 1metro y medio por  metro y media ,donde ha estado estas últimas semanas  y se mete el mismo en el cofre para cerrarlo **\n\n\nA donde habrá ido el gnomo y su compañero Wilson ? \nEl cofre aun permanece en la filacteria . \nSera una huida maestra? O una fuga fallida?",
+      "mensaje_sha256": "60476eea648e80a49c3e44029d0de7f4625a8d36a0f5a2216e509bf82c6d5d0f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1425116154812305468",
+      "texto_sha256": "886d74b9fd4ed71d58dc4c190441c91fccc517064d901a8313b9f061f2f2d968",
+      "adjuntos": []
+    },
+    {
+      "id": "1425897641903919194",
+      "fecha_utc": "2025-10-09T17:28:09.727000+00:00",
+      "fecha_local": "2025-10-09",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "5da840a8ca677d46f8692abef8e9a8c3c901b1e86666f7f588a97cb8e9d92b9d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1425897641903919194",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": [],
+      "no_narrativo": true,
+      "nota_editorial": "Marcador de cierre conservado junto a la conversación."
+    }
+  ]
+}

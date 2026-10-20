@@ -1,0 +1,460 @@
+{
+  "hilo_id": "1558234683177963582",
+  "hilo": "Tutucan - La ciudad de los Elementos",
+  "campana": "xoltacan",
+  "unidades_leidas": 4,
+  "alcance": "98 mensajes, cinco partes y tres imágenes completos. Se conserva la apertura geográfica como contexto.",
+  "identidades": [
+    {
+      "nombre": "Mamá Citlali",
+      "alias": [
+        "Citlali"
+      ],
+      "pruebas": [
+        "1559190986641510451",
+        "1559192631769038863"
+      ],
+      "nota": "Nistra llama Mamá Citlali a la mujer que responde con la cabecera Citlali.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1559190986641510451",
+          "escena": "x-1559189680812068915",
+          "fecha_utc": "2026-10-12T13:08:19.583000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559190986641510451"
+        },
+        {
+          "mensaje_id": "1559192631769038863",
+          "escena": "x-1559189680812068915",
+          "fecha_utc": "2026-10-12T13:14:51.812000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559192631769038863"
+        }
+      ]
+    },
+    {
+      "nombre": "Naór",
+      "alias": [
+        "Naór Tar’Khuan",
+        "Naór Tar’Kuan"
+      ],
+      "pruebas": [
+        "1560966286215749715",
+        "1561087206167154802",
+        "1561103713987203176"
+      ],
+      "nota": "Son grafías de su nombre y apellido usadas en el mismo encuentro; el texto original conserva sus variantes.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1560966286215749715",
+          "escena": "x-1560943405993820192",
+          "fecha_utc": "2026-10-17T10:42:43.985000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1560966286215749715"
+        },
+        {
+          "mensaje_id": "1561087206167154802",
+          "escena": "x-1561074179602645003",
+          "fecha_utc": "2026-10-17T18:43:13.548000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561087206167154802"
+        },
+        {
+          "mensaje_id": "1561103713987203176",
+          "escena": "x-1561074179602645003",
+          "fecha_utc": "2026-10-17T19:48:49.319000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561103713987203176"
+        }
+      ]
+    },
+    {
+      "nombre": "Chanecuxtli",
+      "alias": [
+        "Chani"
+      ],
+      "pruebas": [
+        "1561088354831962113"
+      ],
+      "nota": "Ella misma explica expresamente que todos la llaman Chani.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1561088354831962113",
+          "escena": "x-1561074179602645003",
+          "fecha_utc": "2026-10-17T18:47:47.411000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561088354831962113"
+        }
+      ]
+    },
+    {
+      "nombre": "Jivirix",
+      "alias": [],
+      "pruebas": [
+        "1559574127579365408"
+      ],
+      "nota": "Oghma lo identifica como una espada y como su patrón. No se incorpora como personaje materialmente presente en la mesa.",
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1559574127579365408",
+          "escena": "x-1559568055775002647",
+          "fecha_utc": "2026-10-13T14:30:47.501000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559574127579365408"
+        }
+      ]
+    }
+  ],
+  "arcos": [
+    {
+      "nombre": "Nistra y las noticias de Shiaru",
+      "avance": "La mercenaria conversa con la tripulación y atribuye sus noticias a Jacky. La mención de Nox despierta el duelo de Citlali, a quien Oghma e Ione consuelan.",
+      "pruebas": [
+        "1559554595510951997",
+        "1559559211862589541",
+        "1559566079963959478"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1559554595510951997",
+          "escena": "x-1559189680812068915",
+          "fecha_utc": "2026-10-13T13:13:10.693000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559554595510951997"
+        },
+        {
+          "mensaje_id": "1559559211862589541",
+          "escena": "x-1559189680812068915",
+          "fecha_utc": "2026-10-13T13:31:31.317000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559559211862589541"
+        },
+        {
+          "mensaje_id": "1559566079963959478",
+          "escena": "x-1559189680812068915",
+          "fecha_utc": "2026-10-13T13:58:48.800000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559566079963959478"
+        }
+      ]
+    },
+    {
+      "nombre": "Oghma y Jivirix",
+      "avance": "Oghma relata su pacto con la espada y admite desconocer qué espera de ella en Xoltacan. Ione pide conocer al patrón.",
+      "pruebas": [
+        "1559574127579365408",
+        "1559579757799284737",
+        "1559583932570149009",
+        "1559586408706867221"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1559574127579365408",
+          "escena": "x-1559568055775002647",
+          "fecha_utc": "2026-10-13T14:30:47.501000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559574127579365408"
+        },
+        {
+          "mensaje_id": "1559579757799284737",
+          "escena": "x-1559568055775002647",
+          "fecha_utc": "2026-10-13T14:53:09.850000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559579757799284737"
+        },
+        {
+          "mensaje_id": "1559583932570149009",
+          "escena": "x-1559568055775002647",
+          "fecha_utc": "2026-10-13T15:09:45.193000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559583932570149009"
+        },
+        {
+          "mensaje_id": "1559586408706867221",
+          "escena": "x-1559568055775002647",
+          "fecha_utc": "2026-10-13T15:19:35.550000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559586408706867221"
+        }
+      ]
+    },
+    {
+      "nombre": "El legado de Kamar",
+      "avance": "Vak derrota a Naór. Tras un sueño familiar, ella pide entrenamiento y promete un futuro combate que supere el legado de su padre. No se muestra aún entrenamiento realizado.",
+      "pruebas": [
+        "1561015798032629815",
+        "1561074179602645003",
+        "1561103713987203176",
+        "1561105376554909860"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1561015798032629815",
+          "escena": "x-1560943405993820192",
+          "fecha_utc": "2026-10-17T13:59:28.522000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561015798032629815"
+        },
+        {
+          "mensaje_id": "1561074179602645003",
+          "escena": "x-1561074179602645003",
+          "fecha_utc": "2026-10-17T17:51:27.773000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561074179602645003"
+        },
+        {
+          "mensaje_id": "1561103713987203176",
+          "escena": "x-1561074179602645003",
+          "fecha_utc": "2026-10-17T19:48:49.319000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561103713987203176"
+        },
+        {
+          "mensaje_id": "1561105376554909860",
+          "escena": "x-1561074179602645003",
+          "fecha_utc": "2026-10-17T19:55:25.706000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561105376554909860"
+        }
+      ]
+    },
+    {
+      "nombre": "El collar de los Mo’",
+      "avance": "Oghma entrega vino a Meztli y recibe un collar del clan; se lo pone y se considera admitida, pero su pregunta por las costumbres queda sin respuesta.",
+      "pruebas": [
+        "1561127027828981902",
+        "1561139635499966599"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1561127027828981902",
+          "escena": "x-1561109624776687849",
+          "fecha_utc": "2026-10-17T21:21:27.772000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561127027828981902"
+        },
+        {
+          "mensaje_id": "1561139635499966599",
+          "escena": "x-1561109624776687849",
+          "fecha_utc": "2026-10-17T22:11:33.675000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561139635499966599"
+        }
+      ]
+    },
+    {
+      "nombre": "Gran Prix Multiversal",
+      "avance": "La ciudad recibe carteles de reclutamiento que remiten al señor Lopato. Se anuncia el evento, sin carrera ni premios entregados.",
+      "pruebas": [
+        "1560768663332720700"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1560768663332720700",
+          "escena": "x-1560768663332720700",
+          "fecha_utc": "2026-10-16T21:37:27.018000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1560768663332720700"
+        }
+      ]
+    }
+  ],
+  "pendientes": [
+    {
+      "pregunta": "¿Habla Ione con Jacky Jackson después de decidir que no lo presionará de inmediato?",
+      "pruebas": [
+        "1559571892640419861"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1559571892640419861",
+          "escena": "x-1559568055775002647",
+          "fecha_utc": "2026-10-13T14:21:54.650000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559571892640419861"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Se presenta Jivirix ante Ione y Nistra, y qué espera el patrón de Oghma en la isla?",
+      "pruebas": [
+        "1559564081537622148",
+        "1559583932570149009",
+        "1559586408706867221"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1559564081537622148",
+          "escena": "x-1559189680812068915",
+          "fecha_utc": "2026-10-13T13:50:52.338000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559564081537622148"
+        },
+        {
+          "mensaje_id": "1559583932570149009",
+          "escena": "x-1559568055775002647",
+          "fecha_utc": "2026-10-13T15:09:45.193000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559583932570149009"
+        },
+        {
+          "mensaje_id": "1559586408706867221",
+          "escena": "x-1559568055775002647",
+          "fecha_utc": "2026-10-13T15:19:35.550000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559586408706867221"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Entrena Vak a Naór y llega ella a cumplir el combate prometido?",
+      "pruebas": [
+        "1561103713987203176",
+        "1561105376554909860",
+        "1561109020180226190"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1561103713987203176",
+          "escena": "x-1561074179602645003",
+          "fecha_utc": "2026-10-17T19:48:49.319000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561103713987203176"
+        },
+        {
+          "mensaje_id": "1561105376554909860",
+          "escena": "x-1561074179602645003",
+          "fecha_utc": "2026-10-17T19:55:25.706000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561105376554909860"
+        },
+        {
+          "mensaje_id": "1561109020180226190",
+          "escena": "x-1561074179602645003",
+          "fecha_utc": "2026-10-17T20:09:54.414000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561109020180226190"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué ceremonia o costumbres debe seguir Oghma tras recibir el collar de los Mo’?",
+      "pruebas": [
+        "1561139635499966599"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1561139635499966599",
+          "escena": "x-1561109624776687849",
+          "fecha_utc": "2026-10-17T22:11:33.675000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561139635499966599"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Se inscribe alguien mediante el señor Lopato y se disputa el Gran Prix?",
+      "pruebas": [
+        "1560768663332720700"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1560768663332720700",
+          "escena": "x-1560768663332720700",
+          "fecha_utc": "2026-10-16T21:37:27.018000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1560768663332720700"
+        }
+      ]
+    }
+  ],
+  "relaciones": [
+    {
+      "personas": [
+        "Mamá Citlali",
+        "Oghma",
+        "Ione"
+      ],
+      "desarrollo": "Oghma e Ione acompañan el duelo de Citlali hasta que se duerme; no se presenta el consuelo como resolución de su pérdida.",
+      "pruebas": [
+        "1559559211862589541",
+        "1559561115103396012",
+        "1559566079963959478"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1559559211862589541",
+          "escena": "x-1559189680812068915",
+          "fecha_utc": "2026-10-13T13:31:31.317000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559559211862589541"
+        },
+        {
+          "mensaje_id": "1559561115103396012",
+          "escena": "x-1559189680812068915",
+          "fecha_utc": "2026-10-13T13:39:05.085000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559561115103396012"
+        },
+        {
+          "mensaje_id": "1559566079963959478",
+          "escena": "x-1559189680812068915",
+          "fecha_utc": "2026-10-13T13:58:48.800000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559566079963959478"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Nistra",
+        "Jacky Jackson"
+      ],
+      "desarrollo": "Nistra afirma que ayudaron al grumete y que él les contó lo sucedido. No se representa aquel encuentro en el presente hilo.",
+      "pruebas": [
+        "1559554595510951997"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1559554595510951997",
+          "escena": "x-1559189680812068915",
+          "fecha_utc": "2026-10-13T13:13:10.693000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559554595510951997"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Naór",
+        "Kamar",
+        "Vak"
+      ],
+      "desarrollo": "Naór se declara hija de Kamar y pide ayuda a su antiguo compañero; Vak recuerda con afecto al padre y exige que ella cumpla una promesa de combate.",
+      "pruebas": [
+        "1561023577753387060",
+        "1561103713987203176",
+        "1561105376554909860"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1561023577753387060",
+          "escena": "x-1560943405993820192",
+          "fecha_utc": "2026-10-17T14:30:23.352000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561023577753387060"
+        },
+        {
+          "mensaje_id": "1561103713987203176",
+          "escena": "x-1561074179602645003",
+          "fecha_utc": "2026-10-17T19:48:49.319000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561103713987203176"
+        },
+        {
+          "mensaje_id": "1561105376554909860",
+          "escena": "x-1561074179602645003",
+          "fecha_utc": "2026-10-17T19:55:25.706000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561105376554909860"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Oghma",
+        "Meztli"
+      ],
+      "desarrollo": "Oghma solicita entrar en los Mo’ y ofrece vino; Meztli entrega un collar y se retira con la botella.",
+      "pruebas": [
+        "1561124502719434764",
+        "1561127027828981902"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1561124502719434764",
+          "escena": "x-1561109624776687849",
+          "fecha_utc": "2026-10-17T21:11:25.739000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561124502719434764"
+        },
+        {
+          "mensaje_id": "1561127027828981902",
+          "escena": "x-1561109624776687849",
+          "fecha_utc": "2026-10-17T21:21:27.772000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561127027828981902"
+        }
+      ]
+    }
+  ],
+  "precauciones_editoriales": [
+    "Las apariciones de la familia de Naór son sueños y visiones; no se convierten en resurrecciones.",
+    "El McKuroto, los recuerdos de Chani y las menciones a otras islas se citan como fuentes de Xoltacan; no se importan identidades por coincidencia de nombre o autor.",
+    "El cartel del Gran Prix promete premios, no certifica resultados."
+  ],
+  "estado_seguimiento": "al_cierre_del_hilo",
+  "nota_seguimiento": "Cada cuestión conserva el contexto de sus mensajes originales. Los cotejos enlazan las respuestas halladas en otras escenas; la ausencia de un cotejo no demuestra que siga abierta después de otros capítulos.",
+  "fecha_hasta_utc": "2026-10-18T13:42:20.097000+00:00"
+}

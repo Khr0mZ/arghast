@@ -1,0 +1,353 @@
+{
+  "id": "x-1559336689938337865",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1559336689938337865",
+  "hilo_id": "1524091803647741996",
+  "hilo_nombre": "Jungla - En alguna parte de Xoltacán",
+  "titulo": "Naór conoce la muerte de Ilikar y el santuario queda expuesto",
+  "resumen": "Tortas relata el aliento de Eldrath; un Zin-Carla observado por Kiaransalee se retira tras recibir el hacha de Naór.",
+  "relato": "Tortas conduce a Naór hasta el santuario de Ilikar. La princesa se aferra al cuerpo y habla como si aún pudiera responderle, imaginando el concilio y el futuro de Ilikan. La negación se acompaña de temblores y garras que se rompen contra la roca. Tortas llora y dice que no pudo salvarlo, aunque el goliat los salvó a ellos y a Iktan.\n\nEl maestro explica que Ilikar se convirtió en algo parecido a un lobo gigante antes del final. Después, Eldrath en forma de dragón lanzó un aliento que alcanzó al goliat y acabó con Clolgendranx. Es el testimonio de Tortas sobre la batalla, no una escena del combate. Naór reacciona al conocerlo.\n\nEl narrador revela un Zin-Carla invisible que observa sin moverse. Kiaransalee ve a través de sus ojos mediante un orbe negro y anuncia un juego, mientras Yiccardaria protesta. Esa información no es conocida por Naór ni Tortas.\n\nLa leona percibe una magia muerta extraña y lanza un hacha hacia su origen. Para ella solo hay silencio; el lector ve que el arma se hunde en la cara del no muerto, que la arranca y regenera la herida antes de recibir una orden y marcharse. Naór no identifica a la criatura.\n\nDeclaran inseguro el lugar y preparan trasladar el cuerpo a Tutukan con ayuda de Walulu. Parten llevando a Ilikar. La princesa conserva una carta encontrada bajo su puerta a su nombre, sin abrirla todavía. Ni el contenido ni el plan de Kiaransalee se revelan.",
+  "participantes": [
+    "Naór",
+    "Tortas",
+    "Ilikar",
+    "Zin-Carla",
+    "Kiaransalee",
+    "Yiccardaria"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1560057582423515210",
+      "afirmacion": "Tortas confirma que no logró salvar a Ilikar.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1560214053287362693",
+      "afirmacion": "Relata que el aliento de Eldrath en forma de dragón alcanzó a Ilikar al matar a Clolgendranx.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1560258250111189045",
+      "afirmacion": "Kiaransalee observa el santuario a través del Zin-Carla y de un orbe negro.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1560285772861673493",
+      "afirmacion": "El hacha hiere al no muerto, que regenera y se retira sin revelar su identidad a los presentes.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1560346179156312136",
+      "afirmacion": "Preparan el traslado a Tutukan y Naór conserva una carta sin abrir.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El comportamiento de duelo se relata sin diagnóstico psicológico añadido.",
+    "El testimonio de Tortas especifica el ataque; su lectura no marca la sesión de vídeo como revisada.",
+    "El sentido de Naór detecta algo extraño, pero no le revela nombre, origen ni observadora divina.",
+    "La regeneración demostrada en esa herida no acredita inmunidad absoluta.",
+    "La carta se conserva cerrada; no inventar su texto ni confirmar autoría más allá del nombre que lleva."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-10-12T22:47:17.956000+00:00",
+  "fin_utc": "2026-10-15T17:38:38.941000+00:00",
+  "fecha_local": "2026-10-13",
+  "intervalo": {
+    "anterior": 70,
+    "siguiente": 71,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1558177942457028612",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560352956941865032",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 70,
+        "fecha": "2026-10-09",
+        "inicio_referencia_utc": "2026-10-09T18:01:52+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1558177942457028612"
+      },
+      {
+        "capitulo": 71,
+        "fecha": "2026-10-15",
+        "inicio_referencia_utc": "2026-10-15T18:02:01+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560352956941865032"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1559336689938337865",
+      "fecha_utc": "2026-10-12T22:47:17.956000+00:00",
+      "fecha_local": "2026-10-13",
+      "editado_utc": null,
+      "texto": "**Tortas va caminando por un sendero acompañada de Naor**\n\nEscucha Naor, lo que vas a ver es probable que ponga a prueba tu fortaleza interna \n\n<@616683133374562304>",
+      "mensaje_sha256": "6d68dec81bdc126632b47fb07dc0b96095e1501581648363642ab6b09b53f7ed",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1559336689938337865",
+      "texto_sha256": "8062499517882227556baac8d0fd094b3b11b61af5a47571adf0b7b64ea8284b",
+      "adjuntos": []
+    },
+    {
+      "id": "1559828509160116345",
+      "fecha_utc": "2026-10-14T07:21:36.796000+00:00",
+      "fecha_local": "2026-10-14",
+      "editado_utc": null,
+      "texto": "Naór: **caminaba al lado de Tortas,  cuando escuche aquello la miré algo extrañada y afirme con la cabeza **",
+      "mensaje_sha256": "7cf5f98348bbd23e4c9b8577179b13a29b7ff3828f7392af391288bb59a50722",
+      "tipo_discord": 19,
+      "referencia": "1559336689938337865",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1559828509160116345",
+      "texto_sha256": "5fdc903c815136a1d9145300debd66c9731b38e12f360e415a597ec3f356f028",
+      "adjuntos": []
+    },
+    {
+      "id": "1559829969285283911",
+      "fecha_utc": "2026-10-14T07:27:24.917000+00:00",
+      "fecha_local": "2026-10-14",
+      "editado_utc": null,
+      "texto": "Tortas: Hacia muchos años que no podía visitar este lugar, por la amenaza del dragón, y dadas las circunstancias... egoístamente decidí que sea aquí donde descanse",
+      "mensaje_sha256": "8fc84a965bb8d9ceffb9155b958c3280b1a4ed2716b0be4880d8dbe578c48592",
+      "tipo_discord": 19,
+      "referencia": "1559828509160116345",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1559829969285283911",
+      "texto_sha256": "c57016936a66019e37ccebada3b85df3d9590c407f9706c1d2c2ae7af85e6775",
+      "adjuntos": []
+    },
+    {
+      "id": "1559831109200650322",
+      "fecha_utc": "2026-10-14T07:31:56.694000+00:00",
+      "fecha_local": "2026-10-14",
+      "editado_utc": "2026-10-14T07:32:14.652000+00:00",
+      "texto": "Naór: donde descanse ? \nA que te refieres Tortas ? \nTras unos segundos después de preguntar eso se frena en seco . \n**Naór se queda inmóvil **\n\nNo... \nNo no \nNo puede ser . \n\n**Naór empieza a correr hacia delante en dirección al santuario**",
+      "mensaje_sha256": "b8d21f7cffb19d36990416a903cb58aeafd698347f95307aa0934a0bcdf34630",
+      "tipo_discord": 19,
+      "referencia": "1559829969285283911",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1559831109200650322",
+      "texto_sha256": "843e8e9ff7ea0fd7f066092fee8843bd3508e9e80592ae42c54b11f5ea43d001",
+      "adjuntos": []
+    },
+    {
+      "id": "1559861615816343553",
+      "fecha_utc": "2026-10-14T09:33:10.038000+00:00",
+      "fecha_local": "2026-10-14",
+      "editado_utc": null,
+      "texto": "**Tortas baja la cabeza hacia el suelo, resopla y pone los brazos en su espalda y continua andando detrás de Naor**",
+      "mensaje_sha256": "1daf4d29e556734b9df6ed1e8677fbdc632f11c598e5e685426fe36573ef5c44",
+      "tipo_discord": 19,
+      "referencia": "1559831109200650322",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1559861615816343553",
+      "texto_sha256": "e44483091025ad2e54a69f87f0c9ca5bce88e7d56ab84146e901ad3638fd977a",
+      "adjuntos": []
+    },
+    {
+      "id": "1559964558406193287",
+      "fecha_utc": "2026-10-14T16:22:13.464000+00:00",
+      "fecha_local": "2026-10-14",
+      "editado_utc": null,
+      "texto": "Naór : **llegaría al lugar , que vería ? ** \n<@210947008716996609> <@297459767117611008>",
+      "mensaje_sha256": "50529cfb0c0e38d9f2e79727c7feac54e8174c058607744f5aacfd31270562ba",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1559964558406193287",
+      "texto_sha256": "8cbeb91bc4dfc47a9c46edcdc4593c665b2040be346721841b9e4392ad1239ef",
+      "adjuntos": []
+    },
+    {
+      "id": "1559974781544169514",
+      "fecha_utc": "2026-10-14T17:02:50.850000+00:00",
+      "fecha_local": "2026-10-14",
+      "editado_utc": null,
+      "texto": "**El aire allí dentro era distinto. Húmedo, puro y envuelto en el sonido constante y arrullador de múltiples cascadas que caían por las paredes de roca recubiertas de un espeso manto de musgo y vegetación.**\n\n**Los gruesos rayos de un sol dorado se filtraban desde lo alto, atravesando las ramas de un árbol inmenso y bañando el santuario oculto con una luz que parecía de otro mundo. Pequeñas motas doradas flotaban suspendidas en el ambiente, bailando sobre estanques de un azul turquesa tan cristalino que reflejaban cada destello que se colaba por la gruta.**\n\n**El suelo, tapizado de infinitas flores blancas y verdes profundos, parecía haber sido preparado con una delicadeza natural y con un propósito.**\n\n**Es un refugio de paz inviolable, un rincón del mundo donde el tiempo parece haberse detenido para siempre para custodiar el silencio más profundo.**",
+      "mensaje_sha256": "3e45d20215f4f1b8beaaa6998e66bd7dd7b873d70d272865e9b4a31bfac19ef2",
+      "tipo_discord": 19,
+      "referencia": "1559964558406193287",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1559974781544169514",
+      "texto_sha256": "cf4e0d48927035b47218ef00ccfebf9052085d580e828d73e5b1af9122376f3b",
+      "adjuntos": []
+    },
+    {
+      "id": "1560040943695044629",
+      "fecha_utc": "2026-10-14T21:25:45.136000+00:00",
+      "fecha_local": "2026-10-14",
+      "editado_utc": null,
+      "texto": "**Tortas se acerca a la altura de Naor y le señala el lateral donde está el cuerpo en el lecho de flores mientras se le cae una lágrima del ojo** \n\n<@616683133374562304>",
+      "mensaje_sha256": "a4caa5a0c76108e8ba03c77f2a9ac13de87eeb6b38abc1fea0ec1088d812be9b",
+      "tipo_discord": 19,
+      "referencia": "1559974781544169514",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1560040943695044629",
+      "texto_sha256": "92c6300fd8b0c20d516d3d5fe6fab426dc227fd89bf69c9ce2226af7db81730a",
+      "adjuntos": []
+    },
+    {
+      "id": "1560053484525715607",
+      "fecha_utc": "2026-10-14T22:15:35.103000+00:00",
+      "fecha_local": "2026-10-15",
+      "editado_utc": "2026-10-14T22:18:18.755000+00:00",
+      "texto": "Naor :**se acercó lentamente al lecho de flores, con la mirada clavada en aquel cuerpo que tanto se negaba a reconocer como perdido. Se arrodilló a su lado y, por un instante, permaneció inmóvil, como si el mundo entero hubiera dejado de existir.\n\nSus manos buscaron los brazos de Ilikar y los aferraron con fuerza, temblando. Después, apoyó la cabeza sobre su pecho, escuchando un silencio que no podía aceptar.\n\nNo le quedaban lágrimas. Quizá las había llorado todas mucho antes de llegar allí.**\n\nNo… No puede ser **susurró, apretándolo contra ella, como si abrazarlo con suficiente fuerza pudiera impedir que se marchara.**\n\nEh .. Ilikar <@210947008716996609>  me escuchas verdad . Se que si ...\n\nNo puedes quedarte mucho rato descansando.. . De acuerdo ... ahora vamos a ir a la capital sabes ..\n\n**la uñas de Naór empiezan a arañar el suelo como cuando entra en esa clase de estado en el que no es consciente de mucho ... quizá después de todo lo que ha pasado su cuerpo ha desarrollado ese sistema como autoproteccion para que no enloquezca después de todo lo sucedido , no lo sabemos ** \n\nSii .. no te preocupes.  Tortas esta aquí también.  Ella nos ayudará... \n\n**habla con el como si el mismo goliath le contestase ** \n\nNo .. no la he visto . Quizá a partido , ya veremos a esa loca de Tryel al llegar allí.  \n\nSeguro que en la reunión podremos alcanzar un  acuerdo para tu pueblo.  Ilikan estará contigo pronto . \n\n**la intensidad de las garras de los pies de Naór se intensifican , no paran , le tiemblan las piernas mientras sigue con esa conversación sinsetido** \n\nA que es así Tortas? <@297459767117611008>  díselo tu ..",
+      "mensaje_sha256": "f5c5d753e05e1790b724dce3c97f6659d0f0346a6355b2de5fd4bdfbca62a2b0",
+      "tipo_discord": 19,
+      "referencia": "1560040943695044629",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1560053484525715607",
+      "texto_sha256": "53385aa4636d5c7cd66dd194cf099166d92258d80bcbfbabc7eca999f9a156bd",
+      "adjuntos": []
+    },
+    {
+      "id": "1560057582423515210",
+      "fecha_utc": "2026-10-14T22:31:52.118000+00:00",
+      "fecha_local": "2026-10-15",
+      "editado_utc": null,
+      "texto": "**Tortas le pone la mano en el hombro**\n\nNaor, hice todo lo que pude..... Pero no conseguí salvarlo\n\n**Cae de rodillas al lado de Naor con la cara llena de lágrimas**\n\nÉl si nos salvó a nosotros, y a Iktan... \n\n**Se le empieza a hacer complicado hablar por las lágrimas**\n\nSu pueblo...  estaría orgulloso de haber visto como luchaba contra ese dragón",
+      "mensaje_sha256": "681049ad8a43e473bd8b7612c274d4f5f5ac7589f9cdbb9c8e8ea809c5506270",
+      "tipo_discord": 19,
+      "referencia": "1560053484525715607",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1560057582423515210",
+      "texto_sha256": "e7751501ed7baf15d7264881af39942572e814c10c0aab066f00ac98f6878d39",
+      "adjuntos": []
+    },
+    {
+      "id": "1560059814640357448",
+      "fecha_utc": "2026-10-14T22:40:44.320000+00:00",
+      "fecha_local": "2026-10-15",
+      "editado_utc": "2026-10-14T22:41:14.712000+00:00",
+      "texto": "Naór : \nno estés triste Tortas ... el está bien .. solo esta cansado . \n\n**la intensidad de ese tic nervioso de Naor es tal que ya varias de las garras se han roto contra la roca y la sangre empieza a brotar de ellas , aún asi no puede parar . \n\nNaór te mira y te sonríe , pero ves que es una cara con una mirada vacía.  Es como si no fuese ella .\n\nSu mente ha dicho basta . Y no va a admitir que Ilikar no volverá.  ** \n\nSolo esta cansado ... \n\n**Vuelve a apoyar su cabeza en el pecho del goliath repitiendo una y otra y otra vez  esa frase susurrada ** \nSolo esta descansando \n\nSolo esta descansando \n\nSolo esta descansando...",
+      "mensaje_sha256": "fad271409aaf3b24d8c58f3e7cac6e6923bc761863117784a833e03000bf878c",
+      "tipo_discord": 19,
+      "referencia": "1560057582423515210",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1560059814640357448",
+      "texto_sha256": "3bc87e7e7e7236b6c8384d24fa0d697ce401b794722318c9a5a51aebe74882ac",
+      "adjuntos": []
+    },
+    {
+      "id": "1560060073257214043",
+      "fecha_utc": "2026-10-14T22:41:45.979000+00:00",
+      "fecha_local": "2026-10-15",
+      "editado_utc": null,
+      "texto": "Tortas: \n\nLo traje aquí, porque en este lugar pasé muchos años meditando y siempre lo he considerado sagrado, prácticamente nadie ha estado aquí antes...\n\nAunque por las huellas que veo en el suelo y esa piedrecita, ha debido recibir una visita de una vieja amiga......\n\nAntes de que la batalla terminase le sucedió algo extraño... se convirtió en algo como un lobo gigante.....\n\nY luego.....",
+      "mensaje_sha256": "d57c31eb4c76eb73a798c2d86356fab8ab44e436987bb4b75cb52ccce885759b",
+      "tipo_discord": 19,
+      "referencia": "1560059814640357448",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1560060073257214043",
+      "texto_sha256": "4049637c118be5e1356f847fb281072fc7940c30cee2bec08ddc30f3f7160ed2",
+      "adjuntos": []
+    },
+    {
+      "id": "1560191761723170879",
+      "fecha_utc": "2026-10-15T07:25:02.956000+00:00",
+      "fecha_local": "2026-10-15",
+      "editado_utc": "2026-10-15T07:25:40.875000+00:00",
+      "texto": "Naór : \nSolo esta descansando... \n**sigue susurrando mientras los temblores siguen por todo su cuerpo \n\n\nHasta que al escuchar eso del lobo reacciona un poco , como una especie de tic en el ojo . \n\nEn la mente de Naor por un segundo pasa la escena de Ione <@753394009153732689>  en su cabaña preguntándole por los nahuales de lobos y ese lobo gigante con la que la vio en la travesía hacia Tutukán **\n\nSolo esta descansando... \n**prosigue con los susurros **",
+      "mensaje_sha256": "f3e9ed90a0f87c41bfb9a0c7ef660318a3b4db5d1c8dddeda7cf5f692290a9d5",
+      "tipo_discord": 19,
+      "referencia": "1560060073257214043",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1560191761723170879",
+      "texto_sha256": "598ed410103f48a43d0f9e4d57d5a35683ab6c0bcf2f8afdc53f78413c7ec193",
+      "adjuntos": []
+    },
+    {
+      "id": "1560214053287362693",
+      "fecha_utc": "2026-10-15T08:53:37.679000+00:00",
+      "fecha_local": "2026-10-15",
+      "editado_utc": null,
+      "texto": "Tortas:\n\nLuego Eldrath en forma de dragón lanzó un aliento que impactó también a Ilikar acabando así con Clolgendranx pero haciendo caer también a nuestro preciado joven....",
+      "mensaje_sha256": "1911d7be36af85d6624a717049118e9b7606fefd3789dd1d3e32845122bc79e8",
+      "tipo_discord": 19,
+      "referencia": "1560191761723170879",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1560214053287362693",
+      "texto_sha256": "840773efbf24de78a1d44e0419544ad0922db309b27b0b54da09e2c5c76c1392",
+      "adjuntos": []
+    },
+    {
+      "id": "1560258250111189045",
+      "fecha_utc": "2026-10-15T11:49:15.023000+00:00",
+      "fecha_local": "2026-10-15",
+      "editado_utc": null,
+      "texto": "**Una criatura oculta bajo un manto mágico observaba la escena, invisible ante cualquier mirada. Sus ojos grises permanecían fijos en la leona y la tortuga, que seguían junto al cadáver del goliat. Sin embargo, aquella criatura no parecía ser quien contemplaba la escena. El Zin-Carla permanecía completamente inmóvil, sin hacer el más mínimo movimiento, como si se tratara de una estatua. Alguien observaba a través de aquellos ojos grises y muertos.**\n\nYiccardaria: No puedes hacer eso. Si los... **La yochlol observaba un orbe negro en cuya superficie se reflejaba todo cuanto veía el Zin-Carla. Intentó continuar, pero no tuvo ocasión de terminar la frase**\n\nKiaransalee: Ahora puedo hacer lo que quiera, sirvienta... **La diosa la interrumpió sin apartar la mirada del orbe. Yiccardaria agachó la cabeza, aunque la rabia que sentía era evidente. Aquella muestra de impotencia complacía a Kiaransalee, la nueva dueña de la Red de los Pozos Demoníacos.** Vamos a jugar a un juego. **Una sonrisa se dibujó en el rostro de la diosa mientras volvía a concentrar su atención en el orbe. En su superficie, Naór permanecía junto al difunto Ilikar.**",
+      "mensaje_sha256": "dc58e0f5d09a367026cbe0a1af6c455b67d13e13cd8e4f3931510b4fe0ee8735",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1560258250111189045",
+      "texto_sha256": "658b47a05d6ae26d70df121581f5521370cb01dcd853c21c31366f8a95bd03ef",
+      "adjuntos": []
+    },
+    {
+      "id": "1560281404456173579",
+      "fecha_utc": "2026-10-15T13:21:15.449000+00:00",
+      "fecha_local": "2026-10-15",
+      "editado_utc": "2026-10-15T13:29:37.633000+00:00",
+      "texto": "Naór: \n**el temblor en el cuerpo de Naór cesa al instante cuando escucha a Tortas , se queda inmovil y por primera vez parece que vuelve en si ** \n\nQue ? \n\n**le dice a Tortas con una mirada afilada y girando la cabeza poco a poco hacia el ** \n\nQue acabas de ... decir ? ...\n\n\n**Naór se va incorporando incrédula de lo que acaba de escuchar pero en ese instante algo capta su atención,   un aroma entra en sus fosas nasales , algo mágico , algo  que debía estar allí, algo que no debía estar en Xoltacán .  El olor de una magia que nunca antes había olido , algo tan profundamente muerto y oscuro que no se podría describir . \n\nmira a Tortas diciéndole ** \n\nNo estamos solos ... \n\n**acto seguido haciendo un giro con todo su cuerpo para conseguir el mayor impulso posible lanzo una de sus hachas hacia la dirección de donde creía que provenía el olor de esa magia pestilente y putrefacta .** <@214405113677217793>",
+      "mensaje_sha256": "9d5c6f27b15ec5832c5ed9cac87b6d74b9f385e8e03ffa9cf234b5e7a65174cc",
+      "tipo_discord": 19,
+      "referencia": "1560214053287362693",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1560281404456173579",
+      "texto_sha256": "899b9f10979213bf44a46089ed97525595f1374113eb9f8deda643119e28d207",
+      "adjuntos": []
+    },
+    {
+      "id": "1560285772861673493",
+      "fecha_utc": "2026-10-15T13:38:36.958000+00:00",
+      "fecha_local": "2026-10-15",
+      "editado_utc": null,
+      "texto": "**El hacha de mano atravesó la espesa vejetacion que cubría toda la zona en donde se encontraban.**\n**Silencio. No hubo respuesta alguna, ni un simple sonido. No parecía que hubiera nadie allí**\n\n**Pero nosotros, los espectadores si veríamos algo. El hacha había impactado en toda la cara del Zin-Carla, hundiéndose a casi la mitad del filo de esta. Pero la criatura ni se inmutó, ni un grito de dolor. Agarro el hacha con su mano y se la arrancó de cuajo. La herida era profunda, casi se le partía la cara por la mitad, algo que habría tumbado a cualquier criatura. Pero el Zin-Carla no era un simple no-muerto, era algo superior, el regalo de una diosa. Cuando dejó caer el hacha de mano al suelo, su rostro empezaba a regenerarse por completo y sin dejar marca allí donde debería haber una herida. En ese momento pareció recibir una orden. Miro por última vez a Naór, Tortas y el goliat para darse la vuelta y perderse en la vejetacion de Xoltacan**",
+      "mensaje_sha256": "fc355c370da7f3a90ac383e77ebdebf4a6d92ff892b515a16baf805849f8a508",
+      "tipo_discord": 19,
+      "referencia": "1560281404456173579",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1560285772861673493",
+      "texto_sha256": "0b7b56df095c50b03c2b103f0932242b09a2b0ed5e8b6258950d864406862b54",
+      "adjuntos": []
+    },
+    {
+      "id": "1560287427120201791",
+      "fecha_utc": "2026-10-15T13:45:11.364000+00:00",
+      "fecha_local": "2026-10-15",
+      "editado_utc": "2026-10-15T13:50:29.578000+00:00",
+      "texto": "Naór: ** tras unos segundos , el aroma fétido desapareció ** \n\n\nEsto ya  no es un sitio seguro \n**miro a Tortas ** <@297459767117611008> \n\nDebemos llevarlo a otro lugar . \n\nConozco un sitio seguro en Tutukán  \n\nPreparemos todo . Debemos partir . \n<@210947008716996609>",
+      "mensaje_sha256": "63f3f4fc315efce937756d5400ba5fc8aa7786085bf28c4046c82f7d436b31b4",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1560287427120201791",
+      "texto_sha256": "483397f6868cb56443480ce13c8e876a08f3be93610dc2762ee27e0fd0aa8944",
+      "adjuntos": []
+    },
+    {
+      "id": "1560288774725046303",
+      "fecha_utc": "2026-10-15T13:50:32.658000+00:00",
+      "fecha_local": "2026-10-15",
+      "editado_utc": null,
+      "texto": "Tortas: buenos sentidos mantienes Naor... A pesar de la triste noticia\n\nNo me gustaría que mancillen este lugar ni el cuerpo de mi querido alumno....\n\n**Sus brazos astrales salen y con sumo cuidado levanta el cuerpo de Ilikar para llevarlo hasta Tutukan junto con Naor**",
+      "mensaje_sha256": "8468ea37f3ae81b2fa449eb6856e5a780e11ed5c9bb4d2f65ce7f7a0249724eb",
+      "tipo_discord": 19,
+      "referencia": "1560287427120201791",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1560288774725046303",
+      "texto_sha256": "bd139361fc2576bca63b401473d07ceb79a406777c95fe43cd54796e92790517",
+      "adjuntos": []
+    },
+    {
+      "id": "1560346179156312136",
+      "fecha_utc": "2026-10-15T17:38:38.941000+00:00",
+      "fecha_local": "2026-10-15",
+      "editado_utc": null,
+      "texto": "Naor : **tras los acontecimientos Naor y Tortas informaron a Walulu de lo sucedido para que les ayudasen a trasladar el lugar de descanso de Ilikar a Tutukan , ya que seria una larga travesía necesitan no solo de la fuerza de la leona y la tortuga .\n\nHechos los preparativos,  cada cual se equipo con lo necesario y sus pertenencias y pusieron rumbo a la travesía por la jungla . \n\nPero algo conservo la leona guardado con el mismo miedo a abrirlo que ganas por leerlo . Una carta que encontró en su casa bajo la puerta bajo el nombre de Ilikar . ** \n\n🔴 FIN DE LA ESCENA 🔴",
+      "mensaje_sha256": "1e4be1eb4b938e2edcd31c094a033837a036f64d98938f1a4297c89e98ae95c8",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1560346179156312136",
+      "texto_sha256": "b3ef1b546683f556380aac57fd5af40eb1c71645350df3354c292b0d7b92bd85",
+      "adjuntos": []
+    }
+  ]
+}

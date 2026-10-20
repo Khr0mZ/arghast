@@ -1,0 +1,124 @@
+{
+  "id": "x-1545549891495792650",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1545549891495792650",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "Naór recoge a Eztli y propone clases de vuelo",
+  "resumen": "Con la autorización de recogida, sale de la escuela con Eztli y Leo para buscar a Ilikar.",
+  "relato": "Naór enseña a la directora la autorización para recoger a Eztli y se marcha con él y Leo. Anuncia unas clases de vuelo mientras señala el edificio más alto de Iktan. El pequeño quetzalcoatlus ladea la cabeza sin comprender. Naór propone buscar a Ilikar, y Eztli sigue a Leo intentando morderle la cola. La escena deja a los tres en camino, sin mostrar todavía la lección ni un salto desde el edificio.",
+  "participantes": [
+    "Naór",
+    "Eztli",
+    "Leo"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1545549891495792650",
+      "afirmacion": "Naór utiliza la autorización para recoger a Eztli y anuncia clases de vuelo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1545550730151202816",
+      "afirmacion": "Propone buscar a Ilikar con los pequeños.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "La autorización materializa el acuerdo de recogida entre las madres narrado antes.",
+    "No confundir el anuncio de la clase con aprendizaje ya conseguido."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-09-04T21:43:29.061000+00:00",
+  "fin_utc": "2026-09-04T21:50:33.217000+00:00",
+  "fecha_local": "2026-09-04",
+  "intervalo": {
+    "anterior": 57,
+    "siguiente": 58,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1545132987136344065",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1545494409435680809",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 57,
+        "fecha": "2026-09-03",
+        "inicio_referencia_utc": "2026-09-03T18:02:12+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1545132987136344065"
+      },
+      {
+        "capitulo": 58,
+        "fecha": "2026-09-04",
+        "inicio_referencia_utc": "2026-09-04T18:01:23+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1545494409435680809"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1545549891495792650",
+      "fecha_utc": "2026-09-04T21:43:29.061000+00:00",
+      "fecha_local": "2026-09-04",
+      "editado_utc": null,
+      "texto": "Naór : **después de un rato esperando le enseña la autorización a la directora para recoger a Eztli y se va junto a él i Leo ** \n\nBien canijos, hoy toca ... clases de vuelo \n**señala el edificio más alto de Iktan **",
+      "mensaje_sha256": "70ceca2e93430bc1a89aa82a87199a0a5fdab224a0e68636dd658a17396314f4",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1545549891495792650",
+      "texto_sha256": "c461bbc9862a6db5976c90cf54658187186c0ceefdb6f9ca8c9cdc1718228ebd",
+      "adjuntos": []
+    },
+    {
+      "id": "1545550052276305970",
+      "fecha_utc": "2026-09-04T21:44:07.394000+00:00",
+      "fecha_local": "2026-09-04",
+      "editado_utc": null,
+      "texto": "Eztli:\n**Parpadeo lento y ladeo la cabeza**",
+      "mensaje_sha256": "39ff933d21648b27aaae9310607e722ed9995028ab17a615b78f371dcf72c7c9",
+      "tipo_discord": 19,
+      "referencia": "1545549891495792650",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1545550052276305970",
+      "texto_sha256": "f46095d29c34a0c4b3b9861cd9c078437897657d31ccf6ebcc0bb813550e59ca",
+      "adjuntos": []
+    },
+    {
+      "id": "1545550730151202816",
+      "fecha_utc": "2026-09-04T21:46:49.012000+00:00",
+      "fecha_local": "2026-09-04",
+      "editado_utc": null,
+      "texto": "Naór : vamos a buscar a Ilikar <@210947008716996609>  chicos",
+      "mensaje_sha256": "93e182d5885f76c8fbfe3a0f78c9f59df6889daf88cec59d00b36b41be61bd02",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1545550730151202816",
+      "texto_sha256": "575f49c243c369244afabdd866adbd77185dc25337efdcfcab8e605ab16d0a0a",
+      "adjuntos": []
+    },
+    {
+      "id": "1545551670535135303",
+      "fecha_utc": "2026-09-04T21:50:33.217000+00:00",
+      "fecha_local": "2026-09-04",
+      "editado_utc": null,
+      "texto": "Eztli:\n**Empiezo a seguir a Leo, intentando morderle la cola**",
+      "mensaje_sha256": "6e1f2309e31dd6334e2a96d8a6b4d19739d14d90a09995af70012bca3194d1ea",
+      "tipo_discord": 19,
+      "referencia": "1545550730151202816",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1545551670535135303",
+      "texto_sha256": "c8adac78efeb3b2712d44a9c3d3c37ef9befaba0575f61c568de14f55cfa7661",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "id": "x-1561109624776687849",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1560943405993820192",
+  "hilo_id": "1558234683177963582",
+  "hilo_nombre": "Tutucan - La ciudad de los Elementos",
+  "titulo": "Oghma recibe el collar de los Mo’",
+  "resumen": "La anciana busca a Meztli con una botella de vino y obtiene de ella un distintivo del clan.",
+  "relato": "Oghma entra en la sala con vino y pregunta por Meztli, la líder de los Mo’, porque quiere presentarse y explorar la posibilidad de unirse al clan. Khir critica su presencia, Four Robin bromea con que basta abrir la botella para atraer a la dirigente y Chani se presenta amistosamente. Oghma abre el vino mediante un chasquido y deja que el corcho flote para difundir su aroma.\n\nMeztli aparece y Oghma le ofrece la botella mientras expone su petición. La líder se muestra más interesada en el vino que en la visitante, pero, al recordar el asunto de los clanes, le lanza uno de sus collares y se retira con la bebida. Oghma recoge el distintivo, se lo pone y celebra la facilidad del encuentro. Dice que ya es una Mo’ y pregunta si debe seguir alguna ceremonia o costumbre. La escena se cierra sin una respuesta a esa última pregunta ni demostración de poderes nuevos.",
+  "participantes": [
+    "Oghma",
+    "Meztli",
+    "Chanecuxtli",
+    "Khir",
+    "Four Robin"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1561109624776687849",
+      "afirmacion": "Oghma busca a Meztli para hablar de entrar en los Mo’.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1561118554282131517",
+      "afirmacion": "Oghma abre la botella y difunde su aroma.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1561127027828981902",
+      "afirmacion": "Meztli entrega un collar del clan Mo’ y se retira con el vino.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1561139635499966599",
+      "afirmacion": "Oghma se pone el collar y pregunta por las costumbres del clan.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Los recuerdos y apariciones de la familia de Naór se distinguen del encuentro material con Vak y los demás líderes. No acreditan una resurrección.",
+    "Las grafías Tar’Khuan, Tar’Kuan y Tar’kuan aparecen en la misma identificación de Naór; se conservan en el texto original.",
+    "Chanecuxtli = Chani está acreditado expresamente por su presentación en este hilo de Xoltacan. La alusión a recuerdos de Kuroto no autoriza a fusionar sus evidencias entre campañas.",
+    "El collar de Oghma queda entregado; no se inventan poderes, ceremonias ni una respuesta a su pregunta final.",
+    "Se ha inspeccionado la ilustración familiar y se conserva como adjunto, sin deducir sucesos adicionales de ella."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-10-17T20:12:18.561000+00:00",
+  "fin_utc": "2026-10-18T13:42:20.097000+00:00",
+  "fecha_local": "2026-10-17",
+  "intervalo": {
+    "anterior": 72,
+    "siguiente": null,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236",
+    "siguiente_fuente": null,
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 72,
+        "fecha": "2026-10-16",
+        "inicio_referencia_utc": "2026-10-16T18:28:13+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1561109624776687849",
+      "fecha_utc": "2026-10-17T20:12:18.561000+00:00",
+      "fecha_local": "2026-10-17",
+      "editado_utc": null,
+      "texto": "Oghma:\n**Aparece por la entrada con una botella de vino bajo el brazo. Avanza curioseando los murales y los relieves hasta que se da cuenta de los presentes. Se detiene un momento obsevando la escena**\n\nHola, espero no molestar venia buscando a...\n\n**Al darse cuenta de que estan ahi alguno de los lideres levanta una ceja y sonrie**\n\nPero si esta reunida la flor y la nata de Tutucan. Que bien que me viene\n\n**Saca la botella de debajo del brazo y la muestra con una sonrisa**\n\nResulta que estoy buscando a Meztli, la señora de los Mo'. Venia a traerle un vinillo, presentarle mis respetos y si la cosa va bien hacerme un hueco entre los suyos\n\n**Sigue sonriendo y mira a su alrededor**\n\nPues eso, alguno sabe donde puedo encontrar a la muchacha? Que si se calienta el vino voy a tener que bebermelo e ir a por otra botella",
+      "mensaje_sha256": "6e312b3faa63f5ebffe09c5c43ea93aee0666f5c5b7a2ba279c19ee92f78d844",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561109624776687849",
+      "texto_sha256": "c55471901cc1eea4bf3da11b1e79bef9f33509e2c003c39ed0dacef4f2b18c13",
+      "adjuntos": []
+    },
+    {
+      "id": "1561111128661032981",
+      "fecha_utc": "2026-10-17T20:18:17.115000+00:00",
+      "fecha_local": "2026-10-17",
+      "editado_utc": "2026-10-17T20:18:54.810000+00:00",
+      "texto": "Khir: Ya dejan entrar a cualquiera a este sitio **Dice la aarakocra mientras va comiendo fruta que le ofrecen**\n\nFour Robin: Esa seguro que está tirada en algún callejón durmiendo la mona después de pasarse el día bebiendo **El tabaxi sonríe mientras lanza la moneda al aire. Cuando la agarra al caer te señala la botella** Pero seguro que si abres eso aparece",
+      "mensaje_sha256": "055a70dfd5d1c5bf265dd0b814679d245b2375fcdfce15054cb17979b6fe0d8d",
+      "tipo_discord": 19,
+      "referencia": "1561109624776687849",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561111128661032981",
+      "texto_sha256": "98d39f62d3894cf07c4fbfdb32b272fabacbdc151d4b7bd39a158e81eb54dcf0",
+      "adjuntos": []
+    },
+    {
+      "id": "1561112032684679201",
+      "fecha_utc": "2026-10-17T20:21:52.651000+00:00",
+      "fecha_local": "2026-10-17",
+      "editado_utc": null,
+      "texto": "Chani:\nOh!! Yo tengo una buena historia Pío, una vez fuimos a la tumba de una pez azúl muy linda pío y mi amiga y lider de los guardianes de Kuroto Pío se robó una botella de vino y nos la tomamos entre Arwen, ella y yo, pío, me dolió la cabeza al día siguiente pío...\n\n**Me acercaba a la mujer**\n\nHola Pío, yo soy Chani, pío y todos ellos son mis amigos Pío, al menos los que quisieron, pío \n\n<@277455010571223040>",
+      "mensaje_sha256": "e738307b960fbbcd84dc29453b94492e29653f472505096d3f2580c3e276cad0",
+      "tipo_discord": 19,
+      "referencia": "1561111128661032981",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561112032684679201",
+      "texto_sha256": "8c784117ab4e7c00e7d4e2ba859c3f2060c9e61652911e5533fd98082aa8d4e6",
+      "adjuntos": []
+    },
+    {
+      "id": "1561112469420773497",
+      "fecha_utc": "2026-10-17T20:23:36.777000+00:00",
+      "fecha_local": "2026-10-17",
+      "editado_utc": null,
+      "texto": "Khir: Señorita Chani... **Pone sus plumas en su frente en señal de cansancio** Recuerde lo del pio...",
+      "mensaje_sha256": "cb8a2ccdfe892aa596c5073eb1e42881b735c37a67ac1def7876ab788b11ad41",
+      "tipo_discord": 19,
+      "referencia": "1561112032684679201",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561112469420773497",
+      "texto_sha256": "c6a0d0431096efebd64e1b6e09a743b897bf45b226f62b1e36ccd2c5b21bf485",
+      "adjuntos": []
+    },
+    {
+      "id": "1561118554282131517",
+      "fecha_utc": "2026-10-17T20:47:47.521000+00:00",
+      "fecha_local": "2026-10-17",
+      "editado_utc": "2026-10-17T20:50:22.064000+00:00",
+      "texto": "Oghma:\n**Mira a Khir y se lleva una mano al pecho con una sonrisa**\n\nDe verdad que lo siento mucho, hasta que llegue mi señor el Conde Moor mis recursos son limitados. Aunque hay que reconocer que estos trapos no me impidieron convertirme en salvadora y heroina, no le parecieron encantadoras las declaraciones de los reyes al respecto?\n\n**Mueve un poco la mano que tenia en el pecho entre sus ropajes para acariciar el rubi y asegurarse de que sigue ahi antes de girarse hacia Four Robin y levanta la botella**\n\nQue aparece si la abro? Ya me cae incluso mejor, abramosla entonces\n\n**Se vuelve hacia Chani con una sonrisa mucho mas calida, escucha la historia y suelta una carcajada**\n\nY quien no querria ser amigo tuyo? Soy Oghma, un placer. Robar vino no es algo malo si es para honrar a los difuntos o para evitar que se avinagre\n\n**Con un chasquido de dedos el corcho del vino sale con un sonoro POP y empieza a flotar alrededor para esparcir el aroma**",
+      "mensaje_sha256": "cbb926df9a79471e782dda344f893b27cd14dfb3faaec4604481384af79b70c3",
+      "tipo_discord": 19,
+      "referencia": "1561112032684679201",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561118554282131517",
+      "texto_sha256": "0db602a96223d4dfa540fb1a5462653ad11df2c27236e87cd4aa4849ac4f1d98",
+      "adjuntos": []
+    },
+    {
+      "id": "1561119319113605201",
+      "fecha_utc": "2026-10-17T20:50:49.871000+00:00",
+      "fecha_local": "2026-10-17",
+      "editado_utc": null,
+      "texto": "Meztli: **La humana líder del Clan Mo' aparece por la puerta principal asomando la cabeza** ¿He oído como se abría una botella?",
+      "mensaje_sha256": "f7db994d575e8324742421ca8a29c9755db952a7261d46f983e8952489e67c84",
+      "tipo_discord": 19,
+      "referencia": "1561118554282131517",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561119319113605201",
+      "texto_sha256": "af39501db08213b76404ee89b9e5903fcd6f9aa26625dbe1ff92dfc692ef5737",
+      "adjuntos": []
+    },
+    {
+      "id": "1561121055752327199",
+      "fecha_utc": "2026-10-17T20:57:43.918000+00:00",
+      "fecha_local": "2026-10-17",
+      "editado_utc": null,
+      "texto": "Chani:\nHola Meztli Pío, te estaban buscando pío \n\n**Le hago mi característico saludo**\n\nUsted también es muy amigable Oghma Pío",
+      "mensaje_sha256": "896b221a456ba7e61ebb351e29e3b1fe04f7b744ccd7942ad31833e41098554f",
+      "tipo_discord": 19,
+      "referencia": "1561119319113605201",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561121055752327199",
+      "texto_sha256": "6cdb69c09f61d1178be5566e2833c5448a26a89e6ed9714d80ce463470434407",
+      "adjuntos": []
+    },
+    {
+      "id": "1561124502719434764",
+      "fecha_utc": "2026-10-17T21:11:25.739000+00:00",
+      "fecha_local": "2026-10-17",
+      "editado_utc": null,
+      "texto": "Oghma:\n**Se gira hacia la puerta principal al escuchar la voz, haciendo que el corcho caiga al suelo y se acerca con la botella en la mano**\n\nMeztli, verdad? Te estaba buscando, soy Oghma, encantada\n\n**Le ofrece la botella con una sonrisa**\n\n*Claro, al ser un clan de aire se preocupa mucho por que las botellas esten llenas de el, que genialidad*\n\nVenia a traerte este vinacho, presentarme y hablar sobre lo de la posibilidad de unirme a tu clan, tengo grandes planes que seguro que si no te interesan al menos te resultaran amenos",
+      "mensaje_sha256": "0710924d09027bd445eea695916a02880acdb999970b5825b5c30f4258f8167d",
+      "tipo_discord": 19,
+      "referencia": "1561119319113605201",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561124502719434764",
+      "texto_sha256": "8b1067f2b54e34732bc6a07b389bd5a0dccc83743cdd403ec84f9edef99962f5",
+      "adjuntos": []
+    },
+    {
+      "id": "1561127027828981902",
+      "fecha_utc": "2026-10-17T21:21:27.772000+00:00",
+      "fecha_local": "2026-10-17",
+      "editado_utc": null,
+      "texto": "Meztli: Ajá, ajá si, si, claro claro **Se acerca con paso firme levantando mucho los pies y extendiendo el brazo.** Encantada, yo me llamo Meztli y si, vamos a ser tu y yo muy buenas amigas, claro que si, si si si. **Cuando está a punto de darle la mano a Oghma, vemos que agarra la botella que lleva la anciana. Parece que em realidad se estaba presentando a la botella y no a la que la ha traído** Muy muy muy buenas amigas... Eh? ¿Quien eres tu? ¿Que quieres? **Mira a la vieja con cara de no haberse dado cuenta que estaba allí. En ese momento se escucha la tos de uno de los líderes de fondo y Meztli reacciona** Ah si... Lo de los clanes... ¿Quieres un collar de los míos? **Te lanza un collar del Clan Mo' como si no importara nada** Toma, para ti. Ahora dejarme que me voy a conversar con mi nueva amiga esta bonita botella de vino **Mientras dice eso se dirige a una habitación esquivando a la mediana Arwen que seguia durmiendo**",
+      "mensaje_sha256": "912d00a46884a8baecc823910128fc1e31aea3f39967fa4057170db02815fcec",
+      "tipo_discord": 19,
+      "referencia": "1561124502719434764",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561127027828981902",
+      "texto_sha256": "c445dcc5da06dbe1e510e204c1cd7ca647cad565f61a0068e5252f1b54b3c654",
+      "adjuntos": []
+    },
+    {
+      "id": "1561129494192988325",
+      "fecha_utc": "2026-10-17T21:31:15.799000+00:00",
+      "fecha_local": "2026-10-17",
+      "editado_utc": null,
+      "texto": "Chani:\n**Niego con la cabeza**\n\nPerdón por la actitud de Meztli Pío, si no bebe no es feliz pío \n\n**Veía con cara traviesa a Khir**\n\nJe, Pío",
+      "mensaje_sha256": "5d8b08a1d74ae950469779e44d0f81cf58205b3602a9663d385a009375ae10d5",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561129494192988325",
+      "texto_sha256": "3783edb6e7a8a5cf1c8a4418be68a98eaa6125e8c4ceec87afaf03262a34dfac",
+      "adjuntos": []
+    },
+    {
+      "id": "1561139635499966599",
+      "fecha_utc": "2026-10-17T22:11:33.675000+00:00",
+      "fecha_local": "2026-10-18",
+      "editado_utc": null,
+      "texto": "Oghma:\n\n**Atrapa el collar un poco sorprendida mientras ve como Meztli se retira con su nueva amiga. Despues baja la mirada hacia el collar y lo examina detenidamente**\n\nYa esta? Asi de facil?\n\n**Se coloca el collar con una sonrisa de satisfaccion y se vuelve hacia Chani**\n\nPerdonarla? Pero si ha sido encantadora, una mujer que sabe lo que quiere, no pierde el tiempo y no pone pegas. Asi da gusto!\n\n**Mira hacia la puerta por la que se ha retirado Meztli**\n\n*Espero que mañana se acuerde de que me ha admitido*\n\n**Se acomoda el collar mirando a los presentes**\n\nBueno, ya soy una Mo'. Hay alguna ceremonia o costumbre que tenga que seguir o solo es beber y ser discreta?",
+      "mensaje_sha256": "ee7e5d03092e3bb67857cb69ae8f7f34626bdd050fd8c6e9aeb39483859faf6d",
+      "tipo_discord": 19,
+      "referencia": "1561127027828981902",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561139635499966599",
+      "texto_sha256": "58f158857f8e329aa57859b5bc8444138a67d7f5a3ec2b827088ada6d82953b8",
+      "adjuntos": []
+    },
+    {
+      "id": "1561373872371142770",
+      "fecha_utc": "2026-10-18T13:42:20.097000+00:00",
+      "fecha_local": "2026-10-18",
+      "editado_utc": null,
+      "texto": "🔴  Fin de la Escena  🔴",
+      "mensaje_sha256": "1f5740b669cee5d3b43560698ccb6ced8a95e86df01946dff5b0f022128f3b84",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561373872371142770",
+      "texto_sha256": "9c806361cc79509cf3003e3076234dcfe302651c351f978336f44d9cd98c8ac4",
+      "adjuntos": []
+    }
+  ]
+}

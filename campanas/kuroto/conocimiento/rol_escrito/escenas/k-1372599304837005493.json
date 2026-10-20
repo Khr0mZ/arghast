@@ -1,0 +1,304 @@
+{
+  "id": "k-1372599304837005493",
+  "campana": "kuroto",
+  "unidad_revision": "k-1372541970546688123",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Rua nombra protector a Banzo",
+  "resumen": "La audiencia formaliza el compromiso de Banzo mediante un collar del Shogun.",
+  "relato": "Después de sus aventuras con el equipo Cuervo, Banzo llega a palacio para una audiencia con Rua. Se presenta con un protocolo más cuidado, fruto de las enseñanzas de sus compañeros. Rua reconoce la dureza de la pérdida del shogun, pero recuerda que el trabajo del reino continúa. Ante las preguntas de Banzo, explica que aún no hay noticias del sucesor y que debe transcurrir otra semana de luto. El goliat teme que haya intereses contrarios a lo construido por el difunto, incluidos los cazadores, y se arrodilla para ofrecer formalmente su protección. Rua saca una joya roja con el símbolo del Shogun, se la coloca y acepta que sea su protector. Banzo asume el compromiso en nombre propio y de los cazadores. Después se sienta a tomar té y contar aventuras; el detalle de esa conversación no se representa.",
+  "participantes": [
+    "Banzo",
+    "Rua"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1372613866323709963",
+      "afirmacion": "Rua explica que la elección del sucesor espera otra semana de luto.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1372614892040749056",
+      "afirmacion": "Banzo pide oficializar su protección.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1372622486533050408",
+      "afirmacion": "Rua le coloca el collar y acepta su servicio como protector.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1372629732163588288",
+      "afirmacion": "Banzo se sienta a conversar con Rua.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El contenido y el destinatario último del mensaje de Wasabi no están transcritos.",
+    "El cierre explícito de la audiencia aparece separado en k-1372808381399564328; se propone enlazarlo a esta conversación."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-15T15:39:35.935000+00:00",
+  "fin_utc": "2025-05-15T17:40:30.375000+00:00",
+  "fecha_local": "2025-05-15",
+  "intervalo": {
+    "anterior": 114,
+    "siguiente": 115,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1372279071790338181",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1372641487094808689",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 114,
+        "fecha": "2025-05-14",
+        "inicio_referencia_utc": "2025-05-14T18:26:52+00:00",
+        "fin_estimado_utc": "2025-05-14T21:26:47+00:00",
+        "duracion_video_segundos": 10795,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1372279071790338181"
+      },
+      {
+        "capitulo": 115,
+        "fecha": "2025-05-15",
+        "inicio_referencia_utc": "2025-05-15T18:26:58+00:00",
+        "fin_estimado_utc": "2025-05-15T21:47:48+00:00",
+        "duracion_video_segundos": 12050,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1372641487094808689"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1372599304837005493",
+      "fecha_utc": "2025-05-15T15:39:35.935000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": "2025-05-15T15:40:53.175000+00:00",
+      "texto": "Banzo : **después de sus aventuras con el equipo cuervo ,banzo se encuentra en Sho andando por las calles en dirección a palacio**\n\n**al llegar se encuentra con los guardias que custodian la entrada** <@214405113677217793>",
+      "mensaje_sha256": "eb9cb0357d4b9c7c59058e6f2e6f47b9ef50d61396b037c69ed367f196f1406b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1372599304837005493",
+      "texto_sha256": "ceaad4be66d0c1369db2dc3f85b9b8a13737b131360805eabd0cac4f33d5dda4",
+      "adjuntos": []
+    },
+    {
+      "id": "1372600869996068984",
+      "fecha_utc": "2025-05-15T15:45:49.098000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Guardias: **Te devuelven el saludo y se apartan un poco para dejarte paso para entrar**",
+      "mensaje_sha256": "a5946eefc48a87ec6ca3ac9e479ff4f3b88eacc4c4aabce14383ea21fbf61b83",
+      "tipo_discord": 19,
+      "referencia": "1372599304837005493",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1372600869996068984",
+      "texto_sha256": "d1985d12db198ebbb01c3e0d1f3cbecb7d9d6fc03758bb20ea162ad32abc5892",
+      "adjuntos": []
+    },
+    {
+      "id": "1372602186219130920",
+      "fecha_utc": "2025-05-15T15:51:02.910000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Banzo : va entrando hacia la zona de recepción de palacio , se dirige a uno de los trabajadores . \n**hace un gesto con la cabeza a modo de saludo ** \nTenía audiencia con la señora Rúa. \n**se quita el yelmo y lo sostiene bajo el brazo, esperando a ser llamado . **",
+      "mensaje_sha256": "47cdf7f3659f9a878a96ca143ff299b5df65ff832c66ffac9ed5f506da1fdac2",
+      "tipo_discord": 19,
+      "referencia": "1372600869996068984",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1372602186219130920",
+      "texto_sha256": "823c187833b8239096f16240a9985cd162af337f2fd9084433b16fb69e402b39",
+      "adjuntos": []
+    },
+    {
+      "id": "1372602590235197460",
+      "fecha_utc": "2025-05-15T15:52:39.235000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "**Tras unos minutos de espera, los soldados te avisas y te acompañan hasta la sala donde esta Rua sentada esperandote** Rua: Gracias por venir Banzo. Adelante, siéntate",
+      "mensaje_sha256": "60699948d72424905f0ea761133d6599c73ef6d5175ab36e8c9369f78dbea239",
+      "tipo_discord": 19,
+      "referencia": "1372602186219130920",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1372602590235197460",
+      "texto_sha256": "52580e0564931241e3621e7033a57f01501c56927e54eb028b8e224afd6e7a02",
+      "adjuntos": []
+    },
+    {
+      "id": "1372604111832223806",
+      "fecha_utc": "2025-05-15T15:58:42.012000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": "2025-05-15T16:03:12.762000+00:00",
+      "texto": "Banzo : ** Se vería que ha mejorado a la hora de presentar respeto y tema de protocolo , kalista ,Guxi y los demás han tenido empeño en ello ** \n\nHola Rúa, he sabido que has tenido varios temas que te han mantenido ocupada . \nNo he venido antes por no importunar . \nLo primero , como te encuentras?",
+      "mensaje_sha256": "29c2445261a3745d971a64c70b77c83d25bcf33aa52b4eac0533085f934acb4f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1372604111832223806",
+      "texto_sha256": "fa5582a5ab665803d719bab9aa299b4e97644a566383b2e7f433db51b6c2603b",
+      "adjuntos": []
+    },
+    {
+      "id": "1372605640635322500",
+      "fecha_utc": "2025-05-15T16:04:46.507000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Rua: **Te sonríe pero con una cara triste** Bueno... es duro pensar que él ya no esta... **Se le cae una lagrima** Pero el trabajo del reino debe seguir…",
+      "mensaje_sha256": "56211614219e02dcd5822ca3706e5ef476b3b1c6e8eaf99a0fcc3c3ac40caf5a",
+      "tipo_discord": 19,
+      "referencia": "1372604111832223806",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1372605640635322500",
+      "texto_sha256": "2b0657da93fe027333078429cde1e75a147cd0cc8b6c6568e7e32b798323efa9",
+      "adjuntos": []
+    },
+    {
+      "id": "1372610838594064404",
+      "fecha_utc": "2025-05-15T16:25:25.797000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Banzo : Si... estamos ara mismo en una rueda que no se puede parar .\nNo quise atormentarla el día del velatorio pero se habla sobre la sucesión... \nTiene alguna noticia? Le han propuesto algo algún tipo de exigencias o algo ?",
+      "mensaje_sha256": "5d7dca4da02cab9381bbbc6af01a3705defc6f8f569196c322a58e3a625e1acb",
+      "tipo_discord": 19,
+      "referencia": "1372605640635322500",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1372610838594064404",
+      "texto_sha256": "eacfbc9d268d09fa97761a198f37e9e22bdacb7c8b19ea4c34f485dea0cab1dd",
+      "adjuntos": []
+    },
+    {
+      "id": "1372613866323709963",
+      "fecha_utc": "2025-05-15T16:37:27.664000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Rua: No tengo noticias, aún no se va ha escoger al sucesor. Debemos esperar una semana más al luto del anterior. **Te posa una mano en el brazo** Tu tranquilo Banzo, pase lo que pase saldrá bien.",
+      "mensaje_sha256": "cf3460e9df3cbbe1c84afcc037e431f3d5dee1404d9ec8fd1ad57317a23b9682",
+      "tipo_discord": 19,
+      "referencia": "1372610838594064404",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1372613866323709963",
+      "texto_sha256": "09567ce856c574e548c22b71456e24850d15b600a2ee762c39e7acaf09459ab6",
+      "adjuntos": []
+    },
+    {
+      "id": "1372614598791794779",
+      "fecha_utc": "2025-05-15T16:40:22.298000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Banzo : no se yo señorita Rúa... muchos más ojos que de costumbre están puestos en usted . \nHay sombras que quieren hacer desaparecer todo lo que el shogun quiso construir , incluido los cazadores .",
+      "mensaje_sha256": "5c116de1d504cb2bd0dff8cd4e08453db7ccdfbf32fe32d7b355ca6eb1a83285",
+      "tipo_discord": 19,
+      "referencia": "1372613866323709963",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1372614598791794779",
+      "texto_sha256": "1ffdde66c66e94ceb30f7f047f740b81700b16959168d5e8b00fa31af01c89d4",
+      "adjuntos": []
+    },
+    {
+      "id": "1372614892040749056",
+      "fecha_utc": "2025-05-15T16:41:32.214000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Banzo : por eso me ofrecí,  me gustaría no estar muy lejos de su lado en estas próximas semanas , por lo menos hasta que se aclare.\nPor eso vine . Para oficializar mi protección hacia usted . \n**Se pone de rodillas con la mano en el pecho **",
+      "mensaje_sha256": "0884a624e8e224700c1889718326167a870e5440a40bb034461178bc45f7b19d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1372614892040749056",
+      "texto_sha256": "3f93ebf95a186c6d0a87d405a75dc415fdc2452535943a31f33d7f49d40c3c48",
+      "adjuntos": []
+    },
+    {
+      "id": "1372620373966721214",
+      "fecha_utc": "2025-05-15T17:03:19.207000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Rua: Gracias Banzo. **Te mira con una gran sonrisa. Ves que coge una pequeña caja de la que saca un collar, es una joya roja con el símbolo del Shogun.** Acércate amigo mío...",
+      "mensaje_sha256": "a0077436bd454273e28719b6998dd1282e1d30a715e6cad1391d96687a17d764",
+      "tipo_discord": 19,
+      "referencia": "1372614892040749056",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1372620373966721214",
+      "texto_sha256": "a728dbdd1a2065ec3a6e8bb8de572decf5bf8e938eda09d127d80ee8fb13155c",
+      "adjuntos": []
+    },
+    {
+      "id": "1372621233719607426",
+      "fecha_utc": "2025-05-15T17:06:44.188000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Banzo :** se acerca **",
+      "mensaje_sha256": "992eb6a9cfc5e094e085a9839c99de41522e890dac382e732133e01e781b8d52",
+      "tipo_discord": 19,
+      "referencia": "1372620373966721214",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1372621233719607426",
+      "texto_sha256": "e0338d1c517159f692aca1b6b101b3dc0876e5922aaf95fae1b55b8810bb478f",
+      "adjuntos": []
+    },
+    {
+      "id": "1372622486533050408",
+      "fecha_utc": "2025-05-15T17:11:42.882000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Rua: Banzo, el goliat que vino de otras tierras, que ha demostrado cariño por nuestra isla y una gran bondad hacia sus habitantes. **Te coloca el collar suavemente** Es un honor, para mi, que seas mi protector en estos tiempos tan difíciles. Gracias, amigo mío. **Te sonríe**",
+      "mensaje_sha256": "667ed01c37b4b521573204d255b8eae249bc418c006bd2dd9f73f11119c5659a",
+      "tipo_discord": 19,
+      "referencia": "1372621233719607426",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1372622486533050408",
+      "texto_sha256": "d9496918f781f1ad85269125f72cd4486049a6742eaa31f3f92b88612327f96c",
+      "adjuntos": []
+    },
+    {
+      "id": "1372622936061640855",
+      "fecha_utc": "2025-05-15T17:13:30.058000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": "2025-05-15T17:13:54.136000+00:00",
+      "texto": "Banzo : en representación de los cazadores y como Banzo de las cumbres nevadas , acepto . \n**al agachar la cabeza le hace una última mirada y le susurra :** amiga mía **y sonrrie **",
+      "mensaje_sha256": "eaa6039655f15de35f8be736d0381c2339cd05c6065639f7b25eca66e4b62db6",
+      "tipo_discord": 19,
+      "referencia": "1372622486533050408",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1372622936061640855",
+      "texto_sha256": "a0ee91aebd24e1bd4351201027adba9110bc57ceb224a0a62807e09b0471c3c0",
+      "adjuntos": []
+    },
+    {
+      "id": "1372623865158566038",
+      "fecha_utc": "2025-05-15T17:17:11.572000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Rua: Siéntate un rato conmigo y acompáñame con una taza de té. Y me explicas más aventuras de los cazadores, siempre me han gustado **Te sonríe mientras sirve una taza de te**\n\n(No hace falta rolearlo, nos quedamos de chachara y marujeo xD)",
+      "mensaje_sha256": "9f645e9a379540c53f98adac593b820ffd67cffa5dfbecb216e561dafaa1363b",
+      "tipo_discord": 19,
+      "referencia": "1372622936061640855",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1372623865158566038",
+      "texto_sha256": "984b31cbc29ec87727603cf67cc47d1986ccb505183500fd8eb47629f3a621b0",
+      "adjuntos": []
+    },
+    {
+      "id": "1372629732163588288",
+      "fecha_utc": "2025-05-15T17:40:30.375000+00:00",
+      "fecha_local": "2025-05-15",
+      "editado_utc": null,
+      "texto": "Banzo : **toma asiento y le empieza a explicar aventuras , intenta seguir el protocolo pero de ves en cuando se le olvida **",
+      "mensaje_sha256": "80a02c58d6608cb90873b6c65a239c6d28c86107ee8c9164a0ca56d185f89cde",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1372629732163588288",
+      "texto_sha256": "b5f46369349b87a194af71e089449ceb7537cc5a9403f25f566a0ef794a6e61b",
+      "adjuntos": []
+    },
+    {
+      "id": "1372808381399564328",
+      "fecha_utc": "2025-05-16T05:30:23.672000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": null,
+      "texto": "❌ FIN DE LA ESCENA ❌",
+      "mensaje_sha256": "5e0152bc9950259b80f05e9aea365dac8fa58b25747f806e764b71e86ab46e9b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1372808381399564328",
+      "texto_sha256": "bd3467b08494afbf52ea41448145b325cc0eb5b1eb0993bea513a3951e9a2610",
+      "adjuntos": [],
+      "no_narrativo": true,
+      "nota_editorial": "Marcador de cierre conservado junto a la conversación."
+    }
+  ]
+}

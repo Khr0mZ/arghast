@@ -1,0 +1,383 @@
+{
+  "id": "k-1441940221380919296",
+  "campana": "kuroto",
+  "unidad_revision": "k-1441872941250773073",
+  "hilo_id": "1387915737502580886",
+  "hilo_nombre": "Sho, Palacio del Shogunato - Capital de Kuroto",
+  "titulo": "Una figura nacida de los recuerdos",
+  "resumen": "La meditación revela el origen emocional de la oscuridad de Banzo y le devuelve paz.",
+  "relato": "Wukong lleva a Banzo a una sala semiderruida, enciende hojas aromáticas y usa su yelmo como gong para acompasar la respiración. Banzo cuenta que una drow reunió las esferas, fue traicionada por los suyos y se transformó; durante la pelea le arrebató el poder de sus ancestros. Reconoce pérdida, pero también alivio de aquella carga. El monje conecta su ki y guía el recorrido por recuerdos de Jelbreg, la elección del liderazgo, Rua, sus compañeros y una promesa a Kalista en una tienda de campaña. Esta memoria se vuelve caótica hasta formar sombras y lamentos. Banzo llega a una playa y a una despedida de Jelbreg. La narración aclara que las viejas auras ya no están y tampoco hay presencia ni ki de Kalista: dolor, venganza y perturbación se concentran en una figura tritón que le permite seguir protegiendo a los suyos y a Kuroto. Wukong lo saca gradualmente de la meditación. Banzo llora, sonríe y afirma sentirse fuerte y en paz. El monje recuerda que no todo depende de él, le ofrece su fraternidad y termina saliendo emocionado. Su interpretación afectuosa de la figura no altera la ausencia explícita de Kalista.",
+  "participantes": [
+    "Banzo",
+    "Wukong"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1442086615915954308",
+      "afirmacion": "Banzo relata la pérdida del poder ancestral y su alivio parcial.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1442090131308675153",
+      "afirmacion": "Wukong describe y comienza la meditación compartida.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1442198530117734592",
+      "afirmacion": "El recuerdo muestra una promesa de amistad y protección del reino.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1442257139690377309",
+      "afirmacion": "La forma tritón canaliza el dolor del goliat y no contiene presencia ni ki de Kalista.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1442276136179470460",
+      "afirmacion": "Banzo se siente en paz y agradece la guía.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1442445457098932224",
+      "afirmacion": "Wukong le ofrece apoyo fraternal y sale emocionado.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "Tres desarrollos sucesivos con relatos y fuentes propios.",
+    "La mención inicial de Kuro es una duda OOC de Banzo y no confirma que esté presente.",
+    "La figura de la meditación es la focalización del dolor de Banzo; no hay presencia o ki de Kalista, según 1442257139690377309. Las palabras posteriores de Wukong sobre un poco de ella son consuelo e interpretación, no una resurrección ni un espíritu confirmado.",
+    "Las vidas y conversaciones de los recuerdos no se reconstruyen con detalles no transcritos.",
+    "Los gritos de Chani por no respirar son incidentes cómicos de abrazos y zarandeo; se recupera y no muere.",
+    "La salida de Wukong cierra su meditación; el FIN aislado posterior de k-1442784569269948489 puede enlazarse sin inventar otro episodio."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-11-22T23:55:38.731000+00:00",
+  "fin_utc": "2025-11-24T09:23:16.313000+00:00",
+  "fecha_local": "2025-11-23",
+  "intervalo": {
+    "anterior": 168,
+    "siguiente": 169,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1442596662206922943",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 168,
+        "fecha": "2025-11-20",
+        "inicio_referencia_utc": "2025-11-20T19:03:40+00:00",
+        "fin_estimado_utc": "2025-11-20T22:00:36+00:00",
+        "duracion_video_segundos": 10616,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816"
+      },
+      {
+        "capitulo": 169,
+        "fecha": "2025-11-24",
+        "inicio_referencia_utc": "2025-11-24T19:23:51+00:00",
+        "fin_estimado_utc": "2025-11-24T22:32:50+00:00",
+        "duracion_video_segundos": 11339,
+        "tipo_referencia": "aviso_de_contraste",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1442596662206922943"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida. Una hora tomada de un aviso con título discrepante se utiliza solo como referencia aproximada de ese día."
+  },
+  "fuentes": [
+    {
+      "id": "1441940221380919296",
+      "fecha_utc": "2025-11-22T23:55:38.731000+00:00",
+      "fecha_local": "2025-11-23",
+      "editado_utc": null,
+      "texto": "Wukong\n\n**Se queda mirando entrañable a las pequeñas que salen corriendo en busca del tito Guxi**\n\n- allá van. Da gusto ver esa energía y esa inocencia... Lo que daría por volver a ser un monete... Cuando solo importaba hacer el burro con los amigos...\n\n**Se gira de nuevo a Banzo**\n\n- a ver grandullón... No me gusta un pelo ese ki extraño tuyo que noto...\n\n**El monje mira a su alrededor buscando algo, hasta que por fin lo encuentra**\n\n- bien, esa sala nos servirá... Ven conmigo. Hay que comprobar algo.\n\n**Wukong le hace una seña al goliath para que le siga mientras se dirige a una sala lateral del destruido palacio. Parecía una pequeña biblioteca derruida casi por completo. Podía verse parte del cielo casi nocturno por la pared y techos derrumbados**\n\n<@616683133374562304>",
+      "mensaje_sha256": "e60d48fce0672eb7fdfbe3bb019299b49880a4bafeb4e926a9c718ea74adbf3b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1441940221380919296",
+      "texto_sha256": "212ad001ccb7ad60bacdcf5cda7c6339621d8e0a87261dc733a53acb11b97e5c",
+      "adjuntos": []
+    },
+    {
+      "id": "1442074562727645268",
+      "fecha_utc": "2025-11-23T08:49:28.204000+00:00",
+      "fecha_local": "2025-11-23",
+      "editado_utc": null,
+      "texto": "Banzo : ** recoloca una de las columnas del patio **\nNo te alejes mucho Arwen \n\n**escucha a Wukong y se dirige con el a la sala **",
+      "mensaje_sha256": "0872c632f377a01ff6c7b809e2e1e741e0a9960663d018d215318950a64cf5d7",
+      "tipo_discord": 19,
+      "referencia": "1441940221380919296",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442074562727645268",
+      "texto_sha256": "ede69e1e70bab4d808d06fc8d1458903b9c9d305d53f9aea415512ed028dd1d5",
+      "adjuntos": []
+    },
+    {
+      "id": "1442077102143963196",
+      "fecha_utc": "2025-11-23T08:59:33.648000+00:00",
+      "fecha_local": "2025-11-23",
+      "editado_utc": null,
+      "texto": "Wukong \n\n**Aparta cascotes con el pie para despejar el suelo y le hace un gesto a su compañero para que se siente mientras el hace lo mismo. Hace un circulo pequeñito con piedras y echa unas hojas dentro las cuáles prende con una vela cercana que se había salvado de la destrucción**\n\n- a ver grandullón. Creo recordar que tú ya has meditado antes. Voy a necesitar que te sientes en la misma posición que yo e intentes meditar pero esta seguirás un ritmo concreto que te marcaré yo...\n\n**El.mono mira alrededor d enuebo buscando y acaba mira dobla cabeza del bárbaro**\n\n- Me prestas tú casco?\n\n**Las hojas del centro ya desprendían una ligera mezcla de aromas bastante agradables. Mientras Wukong esperaba la respuesta de Banzo este iba colocándose en posición de loto y cogió con una mano un trocito de madera y con la otra el juzu de jade**",
+      "mensaje_sha256": "cb0ede99b43c5d852345952a59911f4496ddf855dfedd257ee336610a735f8aa",
+      "tipo_discord": 19,
+      "referencia": "1442074562727645268",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442077102143963196",
+      "texto_sha256": "198d34e075b2d71bb914c807fba5b758b7702bfadd36c6da7f88267b45f675c7",
+      "adjuntos": []
+    },
+    {
+      "id": "1442081714116624465",
+      "fecha_utc": "2025-11-23T09:17:53.228000+00:00",
+      "fecha_local": "2025-11-23",
+      "editado_utc": null,
+      "texto": "Banzo : **le hace caso a las mismas vez que le mira un poco extrañado ** \nQue quieres hacer ? \n**se saca el yelmo y se lo da **",
+      "mensaje_sha256": "8e2547ba5eea2d87932a94b5f861478dfc90aa130f252539e4c097e01f074071",
+      "tipo_discord": 19,
+      "referencia": "1442077102143963196",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442081714116624465",
+      "texto_sha256": "48647875f2850cde7ff484778ff01d5ad4cc9f9cd6792e96bc9c09754bcd3d19",
+      "adjuntos": []
+    },
+    {
+      "id": "1442084482323845272",
+      "fecha_utc": "2025-11-23T09:28:53.220000+00:00",
+      "fecha_local": "2025-11-23",
+      "editado_utc": null,
+      "texto": "Wukong\n\n**Coge el yelmo del goliath mientras le dedica una sonrisa para que no se preocupe**\n\n- solo vamos a identificar el cambio que has sufrido. Me puedes contar lo que creas que ha podido pasar durante el ataque para que ahora estés... \"Menos acompañado\" espiritualmente?\n\n**El mono nunca ha sabido exactamente el motivo por el que su compañero desprendiera un aura tan grande. Pero si sabía que ese aura estaba compuesta de muchísimos kis... Pero está vez el aura era más pequeña, triste y oscura**\n\n- cuéntame mientras termino de preparar el tema",
+      "mensaje_sha256": "bc855d87d063ecab793b05d047b502d44c6c3104bb6b0e088edfd9ace95e3b99",
+      "tipo_discord": 19,
+      "referencia": "1442081714116624465",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442084482323845272",
+      "texto_sha256": "daebb5a4262c269398f5a71627c3457d5bc9acb29e639939e369bfeffa21db53",
+      "adjuntos": []
+    },
+    {
+      "id": "1442086615915954308",
+      "fecha_utc": "2025-11-23T09:37:21.908000+00:00",
+      "fecha_local": "2025-11-23",
+      "editado_utc": null,
+      "texto": "Banzo : la drow finalmente se hizo con las esferas y cayó en la traicion de los suyos . \nSimplemente dejo de existir para transformarse en .. otra cosa . \nDurante la pelea sentí como me arrebataba mi poder con un solo gesto . \nDesde que aprendí a pelear mis ancestros me han acompañado , eran pocos , pero tras la caida de la cumbres nevadas todos se unieron a mi , desde entonces cargo tanto con su sufrimiento cono con su fuerza . \nEso ya ha desaparecido . \nPero ... debo decirte que ... me siento .. me siento liberado de cierta carga .",
+      "mensaje_sha256": "0cca0b18e5d95a451f7710ff7a61f002863fca48537da577ab0a2d311d9924a8",
+      "tipo_discord": 19,
+      "referencia": "1442084482323845272",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442086615915954308",
+      "texto_sha256": "cc5c815f540da77133753a1399ad945b4ee9a4858c274195489c794bad4e952c",
+      "adjuntos": []
+    },
+    {
+      "id": "1442090131308675153",
+      "fecha_utc": "2025-11-23T09:51:20.043000+00:00",
+      "fecha_local": "2025-11-23",
+      "editado_utc": "2025-11-23T09:54:12.964000+00:00",
+      "texto": "Wukong\n\n**Mira a su compañero con una expresión entre pena y ternura. No sabía que cargaba con tanto a sus espaldas. El goliath siempre había sido tan alegre y vivaracho que nunca pensó que arrastraba con algo tan pesado**\n\n- eso da sentido a algunas cosas... Ahora averigüemos que... O quien llevas contigo...\n\n**El monje coloca el yelmo del goliath al lado de la mano que sustiene el madero y le da un golpecito para que resuene como una pequeñito gong**\n\n- vale. Imita mi postura. Quiero que durante el primer minuto uses los pensamientos que usas normalmente para meditar. Cuando lo hagas quiero que exhales profundo, y que cuando oigas este repicar vayas saltando de recuerdo en recuerdo. Recuerdos importantes. Da igual el sentimiento que te provoquen. Lo importante es que esos recuerdos pesen. Ah, y mantén el ritmo constante en la respiración. Eso te ayudará a que los sentimientos no te dominen.\n\n**Wukong afianza su postura moviendo un poquito las posaderas y vuelve a mirar a su amigo**\n\n- Vamos tío duro... Estás listo? Yo conectaré mi ki a tu aura y podré ver lo que tú ves. Con suerte si seguimos el sendero de recuerdos correctos lleguemos al origen de tu cambio. Y no tengas miedo, podrás notarme en todo momento. No voy a dejarte solo amigo.\n\n**Dicho esto el monje golpea por primera vez el yelmo / gong para iniciar la meditación. La sala ya está inundada del aroma de esa mezcla de hojas que ayudan a relajarse**\n\n<@616683133374562304> <@214405113677217793>",
+      "mensaje_sha256": "6fa47a39c8c3cc5024e2bc6dacec37778d9544695aad487e7dd415c361c473b4",
+      "tipo_discord": 19,
+      "referencia": "1442086615915954308",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442090131308675153",
+      "texto_sha256": "44ec1ac4902b5a45418470964c07f178a2b78c01a99644b1624278cb07433cb8",
+      "adjuntos": []
+    },
+    {
+      "id": "1442095642242580520",
+      "fecha_utc": "2025-11-23T10:13:13.952000+00:00",
+      "fecha_local": "2025-11-23",
+      "editado_utc": null,
+      "texto": "Banzo : suena complicado Wukong , cuando medito intentó dejar la mente en blanco ... \n**ve la absoluta decisión en su amigo y como tiene tan claro lo que hacer que solo hace que trasmitirle confianza ** \nEsta bien , vamos a hacerlo . \n**entrecruzan las piernas y posa la manos en sus rodillas , coge aire y lo suela **\n*vamos alla*",
+      "mensaje_sha256": "a7ddf0f38a45b118f441e0acd81fa22761a0a9fb365adeaa314a4af43a29b9a5",
+      "tipo_discord": 19,
+      "referencia": "1442090131308675153",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442095642242580520",
+      "texto_sha256": "5a822c03117e5093e3a4030a296be6af8491f29d72a6e07b914e72e3533078c3",
+      "adjuntos": []
+    },
+    {
+      "id": "1442097932462718997",
+      "fecha_utc": "2025-11-23T10:22:19.983000+00:00",
+      "fecha_local": "2025-11-23",
+      "editado_utc": "2025-11-23T10:33:41.418000+00:00",
+      "texto": "Wukong\n\n**Intenta acompasar su respiración a la del goliath y cuando este exhala fuerte como le pidió da el primer gong**\n\n<@214405113677217793>",
+      "mensaje_sha256": "d31d3587625b66e73803a88e66f50b1348c2139244a97e79ef07027978632ed2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442097932462718997",
+      "texto_sha256": "252929a8c3cd8d98caa6ec5708161001e4a510fab7a86b49f68e14cfee56b8fa",
+      "adjuntos": []
+    },
+    {
+      "id": "1442186043477463040",
+      "fecha_utc": "2025-11-23T16:12:27.286000+00:00",
+      "fecha_local": "2025-11-23",
+      "editado_utc": null,
+      "texto": "Banzo : **al sonar el primer gong , Banzo se centra en su libro de leyendas,  donde empezó a aprender sobre los drows con tal de comprender algo mejor a su amigo , su pasado , sus miedos su pesar **",
+      "mensaje_sha256": "95f3e901d38400c46f878025fbcecfd6c511e656bab92fd92d129927c438cf6f",
+      "tipo_discord": 19,
+      "referencia": "1442097932462718997",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442186043477463040",
+      "texto_sha256": "5568a394a10ff3df4309289d50137444c35f35bb04be7dedf8d40e603e509bed",
+      "adjuntos": []
+    },
+    {
+      "id": "1442189030971277535",
+      "fecha_utc": "2025-11-23T16:24:19.560000+00:00",
+      "fecha_local": "2025-11-23",
+      "editado_utc": null,
+      "texto": "Wukong\n\n*Veo que jelbreg era un pilar fundamental para ti, verdad pequeñín? Vamos a dar un pequeño salto. Que más abraza ese corazón tamaño XXL tuyo?*\n\n**El mono da el.segundo gong**",
+      "mensaje_sha256": "21ae5748087e580b8e2b7fc6d6c87ba2908b7b6f1b3a8f1b247437af211773b1",
+      "tipo_discord": 19,
+      "referencia": "1442186043477463040",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442189030971277535",
+      "texto_sha256": "6b252c94a0e7e3062f7f7326f4d91bdbbaecd34e98c1b5b48f7b73deffcd02a7",
+      "adjuntos": []
+    },
+    {
+      "id": "1442191049501048852",
+      "fecha_utc": "2025-11-23T16:32:20.815000+00:00",
+      "fecha_local": "2025-11-23",
+      "editado_utc": "2025-11-23T16:33:04.408000+00:00",
+      "texto": "Banzo : ** base de los cazadores,  muchos de ellos quieres que Banzo lídere el grupo , las dudas le llenan el corazón,  la idea de que las vidas de sus compañeros dependan de alguna de sus decisiones le hace rechazar la idea . Cede al ver la voluntad de todos . \nLlegan las votaciones , sabe que si Kalista sale elegida para dirigir el país estara en el punto de mira de muchos peligros ,  pasará lo mismo que con Rúa? Se pregunta el goliat \nAquí notas como una perturbación cuando se centra en el pensamiento de Rúa,  amor nostalgia engaño traición y rabia se mezclan para oscurecer un poco la visión y sin tu ayuda posiblemente romper la meditación **",
+      "mensaje_sha256": "920fb167124a7d1c951d0484a25c0d529ae8560068e929a1ea94c8d4a8ad8f31",
+      "tipo_discord": 19,
+      "referencia": "1442189030971277535",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442191049501048852",
+      "texto_sha256": "83e1328cb56441bf59ae9f5aa16f2431ce7854ec5bb506c691d11f709cf8db43",
+      "adjuntos": []
+    },
+    {
+      "id": "1442192120906518529",
+      "fecha_utc": "2025-11-23T16:36:36.258000+00:00",
+      "fecha_local": "2025-11-23",
+      "editado_utc": null,
+      "texto": "Wukong\n\n* Vamos campeón. Céntrate en la respiración. Eres un hombre fuerte. De físico y de mente. Tú corazón puede serlo igual o más. El amor es una moneda con dos caras, no te aferres a eso. La amistad... Eso sí es algo que puede ser eterno. Agarralo y no lo sueltes. Ve por ahi. Respira...*\n\n**Suena otro gong**",
+      "mensaje_sha256": "4ebae3ea9da741f155ef70e5790b267fa33416b69e623dbbc10200e7785fafce",
+      "tipo_discord": 19,
+      "referencia": "1442191049501048852",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442192120906518529",
+      "texto_sha256": "0845c2615bf7d42a0b33b9be8419f4d7f7cb7c88caf0f28408d1a36650955fb8",
+      "adjuntos": []
+    },
+    {
+      "id": "1442195375988539493",
+      "fecha_utc": "2025-11-23T16:49:32.330000+00:00",
+      "fecha_local": "2025-11-23",
+      "editado_utc": "2025-11-23T17:17:33.698000+00:00",
+      "texto": "Banzo : **Rodrigo , Gur , Hayate , Palathier , Koratari , Aka , Higueki,  Errk, Corko,Maroxi recuerdos fugaces de misiones entre risas y golpes \nKuro Jhin Arwen Guxi Seraphina ,Kazuki , Wukong ,recuerdos de misiones complicadas donde tanto destino como función de los cazadores empezó a cambiar o torcerse . \nLe hacen recuperar el ritmo de respiración y logra mantener la meditación.  \n\nLlegando a un punto clave,  es una tienda de campaña donde la figura de Khalista esta plantada delante de Banzo **",
+      "mensaje_sha256": "f2ac2772810b618d47819eb117b0b0d9fcee25a82d930f684f6e208dce8ecd6a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442195375988539493",
+      "texto_sha256": "1ebc262dc7df887f1ab206f84effc9606716221a678fbc69230f1040c68b3c11",
+      "adjuntos": []
+    },
+    {
+      "id": "1442196243672596590",
+      "fecha_utc": "2025-11-23T16:52:59.202000+00:00",
+      "fecha_local": "2025-11-23",
+      "editado_utc": null,
+      "texto": "Wukong\n\n*Lo presentía... La tritón aún no había aparecido. Te lo guardabas en el fondo verdad compañero? Al final lo más importante siempre está en el sitio más protegido. Vamos grandullón. Entra en esa tienda. Puede doler, doy consciente. Pero tú puedes con esto y más. Estoy contigo Banzo*\n\n**Un tercer gong suena**",
+      "mensaje_sha256": "54c04ac8b4f72632666ad68e338f14b869f4a64d01d72cfcb34e89d20627e0c7",
+      "tipo_discord": 19,
+      "referencia": "1442195375988539493",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442196243672596590",
+      "texto_sha256": "73e78a514f5d1db4c994fd4793aa093bbcb322855d929f43a190b90567cd2437",
+      "adjuntos": []
+    },
+    {
+      "id": "1442198530117734592",
+      "fecha_utc": "2025-11-23T17:02:04.333000+00:00",
+      "fecha_local": "2025-11-23",
+      "editado_utc": null,
+      "texto": "Banzo : **puedes entrar en ese recuerdo,  escuchas la.conversacion completa del goliat y la tritón , donde le explica el futuro de su amigo y de ella misma , unas indicaciones y una confianza depositada en el . Una promesa no cumplida aun , de amistad y protección hacia el reino entero **",
+      "mensaje_sha256": "93ab2b58f1f8c493612e2f8391f1f1810ea2665acacc54c05f87cc09aac3e5fc",
+      "tipo_discord": 19,
+      "referencia": "1442196243672596590",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442198530117734592",
+      "texto_sha256": "08ecb09d0bd7508c34cc49b944b24aceb6c31fc421a16bb235cf617e5b0bc71c",
+      "adjuntos": []
+    },
+    {
+      "id": "1442221208329519369",
+      "fecha_utc": "2025-11-23T18:32:11.240000+00:00",
+      "fecha_local": "2025-11-23",
+      "editado_utc": null,
+      "texto": "Wukong\n\n**Ese último recuerdo parece caótico. Como si se resistiera a ser observado. Se ven fragmentos y voces entrecortadas. Promesas. Reproches. Lágrimas. Miedo... Mucho miedo. Una amistad. Frágil pero verdadera... Contra más intentaba el monje ver con nitidez ese recuerdo más caótico se volvía, hasta que cayó en algo obvio desde el principio**\n\n*No he notado ninguna de las auras que notaba en banzo desde que lo conozco. Esto está muy vacío... Entonces... De quien es el aura oscura que noto ahora en su ki?*\n\n**De pronto ese último recuerdo caótico empezó a convertirse en un huracán de sombras que rodeaba al mono. Entre ese viento se escuchaban susurros y lamentos**\n\n- Banzo! Banzo! Controla la respiración! Controla tu mente! Enfócate en darle forma a esta sombra... Y veremos el rostro y oiremos la voz de quien comparte su aura contigo!!!\n\n<@616683133374562304>",
+      "mensaje_sha256": "7cb1155a35cd1445d6339f633bcb875b56b9d1ac6c4308ff7dc0b85fb2b1c6e7",
+      "tipo_discord": 19,
+      "referencia": "1442198530117734592",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442221208329519369",
+      "texto_sha256": "20acabe53c652cc730ea9621588c3cfa9f5d77674d5093633d96971f2b05b3ea",
+      "adjuntos": []
+    },
+    {
+      "id": "1442257139690377309",
+      "fecha_utc": "2025-11-23T20:54:57.944000+00:00",
+      "fecha_local": "2025-11-23",
+      "editado_utc": null,
+      "texto": "Banzo : **le cuesta concentrarse,  aun con los ojos cerrados veríamos como se mueven de lado a lado \nLos recuerdos llegan a una playa , una playa donde se reencuentra con Jelbreg y llega un hasta luego .\n\n\nNo queda nada de esas auras , solo un dolor tan grande y una oscuridad en su interior que el goliat  sin saber como , ha focalizado en la unión de dos recuerdos , no sientes la presencia de nadie ni el ki de kalista , pero ves como todo ese dolor sed de venganza y perturbación se ha centrado en un figura que toma la forma de triton,  triton que le ha dado una vía de salida a esa oscuridad interna para que Banzo pueda seguir con el objetivo que le hace seguir aqui , proteger a los suyos,  y ahora los suyos no son solo los cazadores sino el peso de todo Kuroto**",
+      "mensaje_sha256": "932443798a4a2855dd0d4068e955e6ae7e81204341d808e95bd9b890bb9643d1",
+      "tipo_discord": 19,
+      "referencia": "1442221208329519369",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442257139690377309",
+      "texto_sha256": "da0c414686a8de7e255a058fea43d986744bbb21a2de1ad800f334d2bc3cd8a7",
+      "adjuntos": []
+    },
+    {
+      "id": "1442260233354219620",
+      "fecha_utc": "2025-11-23T21:07:15.531000+00:00",
+      "fecha_local": "2025-11-23",
+      "editado_utc": null,
+      "texto": "Wukong\n\n*Vaya locura... Es increíble que un sentimiento tan puro como la amistad genere tal oscuridad en el alma de alguien*\n\n- Banzo! Lo has hecho bien colega! Vamos a salir de aquí poco a poco... Sigue mi voz. Respira más despacio mientras la sigues... \n\n**El mono iba golpeando el yelmo/gong a un ritmo acompasando la respiración del goliath. Cuando su respiración volvió a la normalidad Wukong alargó el brazo por encima del humo de las hiervas hasta tocar la mano de Banzo, la cual la tenía apollada en la rodilla**\n\n- Grandullón. Abre los ojos. Hemos terminado. Lo has hecho genial colega... Como te encuentras? Que sientes después de ver esa forma entre la oscuridad?",
+      "mensaje_sha256": "4ea43304f74f1c7f79f6e2c06f67b851f7cef7ffe93c74c2fbab406a5b424483",
+      "tipo_discord": 19,
+      "referencia": "1442257139690377309",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442260233354219620",
+      "texto_sha256": "7b48ea37055305973571a2ead7f8156056a39374695f6ce157c1c82681328599",
+      "adjuntos": []
+    },
+    {
+      "id": "1442276136179470460",
+      "fecha_utc": "2025-11-23T22:10:27.060000+00:00",
+      "fecha_local": "2025-11-23",
+      "editado_utc": "2025-11-23T22:19:32.619000+00:00",
+      "texto": "Banzo : **nota como se le cae una lágrima del ojo y justo cuando llega a la comisura del labio se forma una sonrisa, la típica del gordinflon .**\n\nMe .. me .. me siento bien wukong . Me siento mas fuerte que nunca . Y en paz .. \n\nGracias por guiarme amigo",
+      "mensaje_sha256": "4897874e9a0099c94f1aa9a03cbf5b583b133bbb7d4baa0164615ff7c4ccb309",
+      "tipo_discord": 19,
+      "referencia": "1442260233354219620",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442276136179470460",
+      "texto_sha256": "70b4b277f09d98086bd6c30537c7f73bdf8d83fd423fdd15cfd0dddc534804eb",
+      "adjuntos": []
+    },
+    {
+      "id": "1442445457098932224",
+      "fecha_utc": "2025-11-24T09:23:16.313000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Wukong\n\n**Apaga lo poco que queda de las hojas aromáticas con la mano. Se levanta lentamente apoyándose en su rodilla. Se limpia el polvo del trasero. Y por último le ofrece la mano a su compañero para que se levante mientras lo mialra con una mirada tierna**\n\n- He visto lo que perdiste. He visto lo que ganaste en estas tierras. Y he visto con tristeza como te han arrebatado todo lo que atesorabas con amor y recelo. Solo quiero decirte que la vida es cambiante Banzo. Nada es para siempre, incluso las cosas que deberían serlo. Y lo que se va, no se va por culpa de uno mismo. Si no por qué debe ser así por un motivo que casi siempre se nos escapa. Pero siempre por un motivo.\n\n**Ayuda a levantarse al goliath... Con mucho esfuerzo...**\n\n- El sigue por ahí. Y claro que estás en tu derecho de luchar por el. Pero ten en cuenta una sola cosa. No TODO depende de ti. Deja hueco en tu corazón para el fracaso. Hay más de una variable en los momentos importantes de la vida. Y en cuanto a ella... No ha querido dejarte solo. Un poquito de ella está en ti... Contigo. Y te quiere ayudar. Atesora eso vale?\n\n**El mono se abraza a Banzo, a la altura de la tripa ya que la altura del bárbaro no deja alcanzar más**\n\n- Se que has perdido dos hermanos. Pero si me permites... Aún te queda uno aquí. Y piensa devolverte con creces todo el cariño, confianza y apoyo que ha recibido de ti... Sniff...\n\n**Wukong mira hacia arriba para con dos lagrimillas y un moco en el rostro**\n\n- y ahora vamonos leñe... Que al final me voy a poner moñas yo también... Sniff... Y no es cuestión de que las niñas vean a dos adultos hechos y derechos llorando así... Snifffffff\n\n**El mono había soltado a su compañero y había salido de la habitación. Se escuchaba sorber mocos con bastante fuerza**\n\n🐒Wukong sale de escena llorando a moco tendido🐒",
+      "mensaje_sha256": "a8bd9fb2182e2f432c2e5818961ab060585ff4a7a2cd767a2455abf6afbbf6a1",
+      "tipo_discord": 19,
+      "referencia": "1442276136179470460",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442445457098932224",
+      "texto_sha256": "b388fb354689c8c7ccc5c1167d0adc2ceb74b20befb990b0b75f66565ebb6b3f",
+      "adjuntos": []
+    },
+    {
+      "id": "1442784569269948489",
+      "fecha_utc": "2025-11-25T07:50:46.955000+00:00",
+      "fecha_local": "2025-11-25",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "f2d7504aec6df87e0b828309630714cc50ec80846f0c3514c96c615a60484eb0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1442784569269948489",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": [],
+      "no_narrativo": true,
+      "nota_editorial": "Marcador de cierre conservado junto a la conversación."
+    }
+  ]
+}

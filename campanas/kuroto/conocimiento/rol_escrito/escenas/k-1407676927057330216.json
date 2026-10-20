@@ -1,0 +1,300 @@
+{
+  "id": "k-1407676927057330216",
+  "campana": "kuroto",
+  "unidad_revision": "k-1407676927057330216",
+  "hilo_id": "1387915737502580886",
+  "hilo_nombre": "Sho, Palacio del Shogunato - Capital de Kuroto",
+  "titulo": "Dos cuerpos en los barrios bajos",
+  "resumen": "La llamada de Banzo hace salir a Jelbreg y deja a Wasabi acompañando a Kalista.",
+  "relato": "Banzo despierta por caracola a Jelbreg con una noticia urgente: ha encontrado dos tritones muertos en los callejones de los barrios bajos. El drow le pide ocultarlos y decide acudir. Kalista teme que Islyn y el general exijan represalias y recuerda haber pedido a Thiary que se mantuvieran lejos de los soldados, sin que eso pruebe responsabilidad de la cofradía. No puede acompañarlo porque pronto la reclamarán para trabajar. Le pide precaución y que deje a Wasabi como mensajero y compañía. Jelbreg toca el collar y la pequeña culebra emerge de su humo, todavía somnolienta; le encarga cuidar de Kalista. Él parte hacia Banzo y la Shogun queda mirando la ciudad desde el balcón. La escena no muestra los cadáveres ni una identificación del asesino.",
+  "participantes": [
+    "Banzo",
+    "Jelbreg",
+    "Kalista",
+    "Wasabi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1407679537717706843",
+      "afirmacion": "Banzo informa por llamada de dos tritones muertos.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1407681171109711954",
+      "afirmacion": "Jelbreg pide ocultar los cuerpos y anuncia que va hacia allí.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1407686254367215647",
+      "afirmacion": "Wasabi sale del collar y recibe la tarea de cuidar de Kalista.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Banzo participa por caracola desde fuera del palacio.",
+    "La referencia de Jelbreg a las seis de la mañana es hora narrativa expresada y no coincide necesariamente con la publicación de Discord.",
+    "El pensamiento de Wasabi es privado; no se convierte en respuesta verbal o información de Kalista."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-08-20T10:45:32.783000+00:00",
+  "fin_utc": "2025-08-20T11:25:12.336000+00:00",
+  "fecha_local": "2025-08-20",
+  "intervalo": {
+    "anterior": 147,
+    "siguiente": 148,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1406697567479271588",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1408150475005493401",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 147,
+        "fecha": "2025-08-17",
+        "inicio_referencia_utc": "2025-08-17T17:53:35+00:00",
+        "fin_estimado_utc": "2025-08-17T20:19:39+00:00",
+        "duracion_video_segundos": 8764,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1406697567479271588"
+      },
+      {
+        "capitulo": 148,
+        "fecha": "2025-08-21",
+        "inicio_referencia_utc": "2025-08-21T18:06:59+00:00",
+        "fin_estimado_utc": "2025-08-21T21:15:11+00:00",
+        "duracion_video_segundos": 11292,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1408150475005493401"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1407676927057330216",
+      "fecha_utc": "2025-08-20T10:45:32.783000+00:00",
+      "fecha_local": "2025-08-20",
+      "editado_utc": null,
+      "texto": "Ring ring Banzo : Jelbreg  , tenemos un problema.  \nDos mas bien...",
+      "mensaje_sha256": "311810b61a47b2b288c939f0b9b65283fd37406e2f806e0615c1bc9b25bc6f18",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1407676927057330216",
+      "texto_sha256": "efe912d720136bdb29d4e721be0df78dd1ce3496a52d0b02bcba99ede3e8de09",
+      "adjuntos": []
+    },
+    {
+      "id": "1407677824591990825",
+      "fecha_utc": "2025-08-20T10:49:06.772000+00:00",
+      "fecha_local": "2025-08-20",
+      "editado_utc": "2025-08-20T10:49:18.006000+00:00",
+      "texto": "Jelbreg: Maldita sea... Que narices quiere a esta ahora... Eh? Nada nada, sigue durmiendo **Escuchas un beso y luego la voz del drow recién levantado** ¿Que quieres Banzo.... Son las 6 de la mañana...",
+      "mensaje_sha256": "a9d49195b1b02a3088b9a14c2e9cdd23aa762f5bec59cd18d49a21c70a51db41",
+      "tipo_discord": 19,
+      "referencia": "1407676927057330216",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1407677824591990825",
+      "texto_sha256": "63c07794e90fb20e29cb1e295a9571f91ec155ff11640d645920c413c615c92e",
+      "adjuntos": []
+    },
+    {
+      "id": "1407678578186780744",
+      "fecha_utc": "2025-08-20T10:52:06.443000+00:00",
+      "fecha_local": "2025-08-20",
+      "editado_utc": null,
+      "texto": "Kalista: **Suspira, se acurruca contra ti y sonrie por el beso volviendo a cerrar los ojos** Cuelga y duerme conmigo....",
+      "mensaje_sha256": "d96ce8a466528de81dff0569a87d95ed8bd44c7bd0f7ef3e63304542d8f21f52",
+      "tipo_discord": 19,
+      "referencia": "1407677824591990825",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1407678578186780744",
+      "texto_sha256": "e9d1ef5b8fa14f9ebf25ca8c2b02619ee302d7daafc4178ea89227228bdc9a87",
+      "adjuntos": []
+    },
+    {
+      "id": "1407679537717706843",
+      "fecha_utc": "2025-08-20T10:55:55.213000+00:00",
+      "fecha_local": "2025-08-20",
+      "editado_utc": null,
+      "texto": "Banzo : dos tritones muertos en los callejones de barrios bajos.  Ven aquí ahora **te dice en voz baja **",
+      "mensaje_sha256": "1ba834a4c39fb361cd1b1d870f0dbea5e17cd6694212085d41b2d4cba87d35d9",
+      "tipo_discord": 19,
+      "referencia": "1407677824591990825",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1407679537717706843",
+      "texto_sha256": "e1c92524cffb81d0149dc569fcb347de3aa2da18faf444a119f8fb391b627613",
+      "adjuntos": []
+    },
+    {
+      "id": "1407679980820758590",
+      "fecha_utc": "2025-08-20T10:57:40.857000+00:00",
+      "fecha_local": "2025-08-20",
+      "editado_utc": null,
+      "texto": "Jelbreg: **El drow se sobresalta un poco en la cama, se levanta quedándose sentado** ¿Como? ¿Quien ha sido? Pero... Mierda...\n<@753394009153732689>",
+      "mensaje_sha256": "d90f8a66e6fadda6aaaf92d10fc5613dc94e957fc51b43baa23e4e29075865e8",
+      "tipo_discord": 19,
+      "referencia": "1407679537717706843",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1407679980820758590",
+      "texto_sha256": "b294fb975bde5e219b57fc24ed9d819745e4184425a2d5e6d59962c748a27dce",
+      "adjuntos": []
+    },
+    {
+      "id": "1407680354462072953",
+      "fecha_utc": "2025-08-20T10:59:09.940000+00:00",
+      "fecha_local": "2025-08-20",
+      "editado_utc": null,
+      "texto": "Kalista: **Abre los ojos y mira a Jelbreg** ¿Que pasa? **Dice medio dormida estirandose sobre la cama**",
+      "mensaje_sha256": "92d66e3f81e9e167f5977b7ee1be8d7207abb5a57e9b3563143e2f572cfef1d2",
+      "tipo_discord": 19,
+      "referencia": "1407679980820758590",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1407680354462072953",
+      "texto_sha256": "e9299b6772a12052479e57d80ad72a0a525630daa69e463607337d76d39adc33",
+      "adjuntos": []
+    },
+    {
+      "id": "1407681171109711954",
+      "fecha_utc": "2025-08-20T11:02:24.644000+00:00",
+      "fecha_local": "2025-08-20",
+      "editado_utc": null,
+      "texto": "Jelbreg: Banzo dice que ha encontrado dos cuerpos de tritones en los barrios bajos **Te mira mientras te quita el pelo de la cara** Banzo! Banzo! Intenta ocultarlos, voy para allá\n<@616683133374562304>",
+      "mensaje_sha256": "881e6c5d97f045c220857f48086fa39efdcdbadb259660c63f4faa4105d9b98b",
+      "tipo_discord": 19,
+      "referencia": "1407680354462072953",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1407681171109711954",
+      "texto_sha256": "e2027b4be489ee3b9045fd3c5a6abd6c1046edda4ada5ac78dfbacaee406b4b1",
+      "adjuntos": []
+    },
+    {
+      "id": "1407681995882102926",
+      "fecha_utc": "2025-08-20T11:05:41.285000+00:00",
+      "fecha_local": "2025-08-20",
+      "editado_utc": null,
+      "texto": "Kalista: **Abre los ojos ampliamente** ¿Dos? Mierda...si se enteran la perla o el general va a ser un problema...¿No dije a Thiary que se mantuvieran lejos de ellos?...Van a pedir que rueden cabezas...**Mira a Jelbreg con preocupacion, incorporandose**",
+      "mensaje_sha256": "030ff38a41d4fe47d4bda637c08558b8fa7de6ab1b867188daa5ebd15b471a09",
+      "tipo_discord": 19,
+      "referencia": "1407681171109711954",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1407681995882102926",
+      "texto_sha256": "9a9acc6c0ab4b657c01d0c78f4d8decc7c58e50318cbf5ca4b90c9410536f04d",
+      "adjuntos": []
+    },
+    {
+      "id": "1407683404044177448",
+      "fecha_utc": "2025-08-20T11:11:17.017000+00:00",
+      "fecha_local": "2025-08-20",
+      "editado_utc": null,
+      "texto": "Jelbreg: **El drow se viste con su armadura negra, su capa y se coloca el estoque en el cinto.** Voy a ir a echar un vistazo... **Te mira unos segundos** ¿Estaràs bien? ¿O te quieres venir?",
+      "mensaje_sha256": "e710745fa9ddc37af62eaad7cf4546ec66ae0848a198b70df54ee3b5d6526374",
+      "tipo_discord": 19,
+      "referencia": "1407681995882102926",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1407683404044177448",
+      "texto_sha256": "c824c6e45906b3709d5879d59cd266e17f9e83f6a677787a44609da1abfd3a97",
+      "adjuntos": []
+    },
+    {
+      "id": "1407684030463217736",
+      "fecha_utc": "2025-08-20T11:13:46.367000+00:00",
+      "fecha_local": "2025-08-20",
+      "editado_utc": null,
+      "texto": "Kalista: Me llamaran dentro de poco para trabajar... Y sera peor si me voy y no digo nada...tengo que quedarme **Te ve vistiendote aun desde la cama** Ten cuidado por favor",
+      "mensaje_sha256": "702f4a7a34d7ddbe2631e94767ed6f6dd7cf25331df61f86bec29f68cf3b5b7a",
+      "tipo_discord": 19,
+      "referencia": "1407683404044177448",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1407684030463217736",
+      "texto_sha256": "930c4c47b739de97e990b3f1dd98acc74f79e5fad39ec31a63703bc06e1d2535",
+      "adjuntos": []
+    },
+    {
+      "id": "1407684864710410290",
+      "fecha_utc": "2025-08-20T11:17:05.267000+00:00",
+      "fecha_local": "2025-08-20",
+      "editado_utc": null,
+      "texto": "Jelbreg: **Te sonríe y apoya una rodilla en la cama para acercarse a ti y darte un beso en los labios** Lo tendré, ya lo sabes. Tú ten cuidado, cualquier cosa me avisas y vengo al instante.",
+      "mensaje_sha256": "2bc27a52a6db2517ae667171b870f1fc78f328c789a4f4b3fbbe1c219184504b",
+      "tipo_discord": 19,
+      "referencia": "1407684030463217736",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1407684864710410290",
+      "texto_sha256": "be99c7ab6d7cfa5cbba8ff916f8080ce544b0dadbc0e7f546d9afc3a25a04cbf",
+      "adjuntos": []
+    },
+    {
+      "id": "1407685374725193768",
+      "fecha_utc": "2025-08-20T11:19:06.864000+00:00",
+      "fecha_local": "2025-08-20",
+      "editado_utc": null,
+      "texto": "Kalista: **Te sonrie suave** Deja a Wasabi aqui por si pasa algo enviartelo como siempre",
+      "mensaje_sha256": "99bd37053f72bdedc679f5330b608800dafb4ebc65d6dad74cee18188415ccfd",
+      "tipo_discord": 19,
+      "referencia": "1407684864710410290",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1407685374725193768",
+      "texto_sha256": "1035a69d24c506d11e3dfdcf98ee62543704d7f7846a2e75e474c58bccd752c6",
+      "adjuntos": []
+    },
+    {
+      "id": "1407686254367215647",
+      "fecha_utc": "2025-08-20T11:22:36.587000+00:00",
+      "fecha_local": "2025-08-20",
+      "editado_utc": null,
+      "texto": "Jelbreg: **El drow sonríe y se toca el collar. Este brilla y de su interior sale un humo que toma la forma de una pequeña culebrilla. Lleva un cepillo de dientes en la boca y legañas en los ojos, parece que se acaba de despertar** Wasabi, cuida de Kalista en mi ausencia",
+      "mensaje_sha256": "5009e49cbc69afdcee31ac2c6e06d04723773af535a9208c226e65cee78338a4",
+      "tipo_discord": 19,
+      "referencia": "1407685374725193768",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1407686254367215647",
+      "texto_sha256": "4bc82ebae6a3ecfdfa741a94f9c532e6d1306a961954281dfb300f0131a92691",
+      "adjuntos": []
+    },
+    {
+      "id": "1407686330691096596",
+      "fecha_utc": "2025-08-20T11:22:54.784000+00:00",
+      "fecha_local": "2025-08-20",
+      "editado_utc": null,
+      "texto": "👻Jelbreg sale de escena👻",
+      "mensaje_sha256": "07b4eda20d4be57576de5280aff146299466256c9aaa4ca8a19b53d3c29bd675",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1407686330691096596",
+      "texto_sha256": "e9f9404411569db369cee160947cb256ad78a96d12c7b675c0cd6e6c12487aa5",
+      "adjuntos": []
+    },
+    {
+      "id": "1407686488258248734",
+      "fecha_utc": "2025-08-20T11:23:32.351000+00:00",
+      "fecha_local": "2025-08-20",
+      "editado_utc": null,
+      "texto": "Wasabi: *Ni dormir me dejan estos locos*",
+      "mensaje_sha256": "aa52129736d829a3241d4e15beb68381674acd65f728806a4aeaff44beba02cc",
+      "tipo_discord": 19,
+      "referencia": "1407686254367215647",
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1407686488258248734",
+      "texto_sha256": "0aa13a06b03e27e3cc385b328e7599773c7f5e432ea59b8c4be5c4f8c5488f72",
+      "adjuntos": []
+    },
+    {
+      "id": "1407686727434371157",
+      "fecha_utc": "2025-08-20T11:24:29.375000+00:00",
+      "fecha_local": "2025-08-20",
+      "editado_utc": null,
+      "texto": "Kalista: **Suspira viendolo marchar, se pone una bata y observa por el balcon la ciudad**",
+      "mensaje_sha256": "ea29d4006e46f0b41d44a0a3a879c33eb3c42def88caa627b1095c85ccd97ce9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1407686727434371157",
+      "texto_sha256": "48af580937a53623010f8a77d51167e36cf0d037f6e674d9af8f70eedcda0ee1",
+      "adjuntos": []
+    },
+    {
+      "id": "1407686907626000386",
+      "fecha_utc": "2025-08-20T11:25:12.336000+00:00",
+      "fecha_local": "2025-08-20",
+      "editado_utc": null,
+      "texto": "🔴 **Fin de la escena**🔴",
+      "mensaje_sha256": "a25ea080152389ad4c022bfb7d119f12dd148365ab0633f52d3411922263091b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1407686907626000386",
+      "texto_sha256": "fd9ba154471f616e08e81ad46f897a8652de315aed1179fd89ee2346342a76e7",
+      "adjuntos": []
+    }
+  ]
+}

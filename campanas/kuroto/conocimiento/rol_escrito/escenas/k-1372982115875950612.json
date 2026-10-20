@@ -1,0 +1,206 @@
+{
+  "id": "k-1372982115875950612",
+  "campana": "kuroto",
+  "unidad_revision": "k-1372982115875950612",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "Kurobane pide a Guxi ayuda con el libro cultista",
+  "resumen": "El ninja contacta con Guxi mediante la piedra y acuerda llevarle el libro a las afueras de Sho.",
+  "relato": "Kurobane deposita sobre la mesa el libro que recibió de Kalista, sin quitar la tela que lo envuelve, y activa su piedra de comunicación para pedir ayuda a Guxi. El artesano responde desde su taller, donde está trabajando en otro asunto. El ninja le explica que necesita investigar un libro cultista y le indica cómo encontrar su refugio por las marcas de medialuna de los árboles.\n\nGuxi avisa de que está en las montañas de Sho y tardaría en llegar al sur. Propone en cambio que Kurobane viaje hasta las afueras de la ciudad. Este acepta, recoge cuidadosamente el volumen, arregla la ilusión del refugio y se dirige al portal del campamento. La escena termina antes de la reunión: no se examina el libro ni se describe un resultado de la investigación.",
+  "participantes": [
+    "Kurobane",
+    "Guxi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1372984074351939814",
+      "afirmacion": "Kurobane solicita ayuda de Guxi para investigar un libro cultista.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1372985062496272434",
+      "afirmacion": "Guxi propone reunirse en las afueras de Sho.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1372986483631456347",
+      "afirmacion": "Kurobane recoge el libro y marcha hacia el portal del sur.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Guxi participa por la piedra desde su taller; no llega al refugio en estos mensajes.",
+    "La inspección del libro queda para otra escena."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-16T17:00:45.199000+00:00",
+  "fin_utc": "2025-05-16T17:18:06.553000+00:00",
+  "fecha_local": "2025-05-16",
+  "intervalo": {
+    "anterior": 115,
+    "siguiente": 116,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1372641487094808689",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1374091924474040400",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 115,
+        "fecha": "2025-05-15",
+        "inicio_referencia_utc": "2025-05-15T18:26:58+00:00",
+        "fin_estimado_utc": "2025-05-15T21:47:48+00:00",
+        "duracion_video_segundos": 12050,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1372641487094808689"
+      },
+      {
+        "capitulo": 116,
+        "fecha": "2025-05-19",
+        "inicio_referencia_utc": "2025-05-19T18:30:27+00:00",
+        "fin_estimado_utc": "2025-05-19T21:06:27+00:00",
+        "duracion_video_segundos": 9360,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1374091924474040400"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida."
+  },
+  "fuentes": [
+    {
+      "id": "1372982115875950612",
+      "fecha_utc": "2025-05-16T17:00:45.199000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": "2025-05-16T17:01:42.684000+00:00",
+      "texto": "Kurobane:\n\n**Colocaría en la mesa el libro que le dió Kalista sin quitarle la tela**\n\n*Hablaré con Guxi*\n\nGuxi <@171702246952665098> , estás? Cambio\n\n**Dice serio activando la piedra**",
+      "mensaje_sha256": "98c33be60c623685f13cfd3683640f22cb57a45673bf37bd0cb62d8acb883cfa",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1372982115875950612",
+      "texto_sha256": "0427d2314d21dcf23da11b4d109f4cf31a3d17302bdcbe147c033d13bbc8d388",
+      "adjuntos": []
+    },
+    {
+      "id": "1372982910554083388",
+      "fecha_utc": "2025-05-16T17:03:54.665000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": null,
+      "texto": "guxi: **ve la piedra moverse en el escritorio mientras esta trabajando en su taller** dime kurobane *que querra ahora el?*",
+      "mensaje_sha256": "eaa519806c1109efa78fd3df017c48e270e310d77c2800d50b78b7f3d5c2eaa6",
+      "tipo_discord": 19,
+      "referencia": "1372982115875950612",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1372982910554083388",
+      "texto_sha256": "da4e4ccfa6f25789820406754ec00715a22f1f500d92fdc5148c2a6f1eb4bbd1",
+      "adjuntos": []
+    },
+    {
+      "id": "1372983168482672722",
+      "fecha_utc": "2025-05-16T17:04:56.160000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nEstás ocupado? Cambio",
+      "mensaje_sha256": "ab0544d3ff08a9f5fdc14a906bf3c49a387934ae42f679a77cd1118c9de5e1ba",
+      "tipo_discord": 19,
+      "referencia": "1372982910554083388",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1372983168482672722",
+      "texto_sha256": "52e131c2f4fd5625433c5f5e1b7352f22df6a10e908cac86003d1a3d6d86c8af",
+      "adjuntos": []
+    },
+    {
+      "id": "1372983397672288377",
+      "fecha_utc": "2025-05-16T17:05:50.803000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": "2025-05-16T17:06:35.495000+00:00",
+      "texto": "guxi: estoy trabajando en algo pero dime **una pequeña pausa dramatica* ¿que necesitas? <@240564189448503306>",
+      "mensaje_sha256": "39346411311befae32d11831edfd19de87e504d190dee8e4f64b19b2ed01751f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1372983397672288377",
+      "texto_sha256": "81b9a2ee8b89de63668beb93192a3605a3f0d636cc688c72ae2ec055d4c89c75",
+      "adjuntos": []
+    },
+    {
+      "id": "1372984074351939814",
+      "fecha_utc": "2025-05-16T17:08:32.136000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nMe han dado un libro de los cultistas y necesito su ayuda. Cambio",
+      "mensaje_sha256": "affc4550f466c30a1c9479e7366bdc3736c56f873b02ba713993dff81412ca00",
+      "tipo_discord": 19,
+      "referencia": "1372983397672288377",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1372984074351939814",
+      "texto_sha256": "13f8ffc1924bf96db1e257ef0389b71a625d0c2e8f1c5cc8fae8c426cebbaaef",
+      "adjuntos": []
+    },
+    {
+      "id": "1372984194237595868",
+      "fecha_utc": "2025-05-16T17:09:00.719000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": "2025-05-16T17:09:10.505000+00:00",
+      "texto": "guxi: ¿donde estas? cambio",
+      "mensaje_sha256": "25fc061f3d4b4a72df35d45f45f8f6c60dd320669c666796d8c3d96b92c4a6ae",
+      "tipo_discord": 19,
+      "referencia": "1372984074351939814",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1372984194237595868",
+      "texto_sha256": "df709ddc9dbc61fa038a86813501b49d60e9d614ef605f3b35a5872cb8a1f4f6",
+      "adjuntos": []
+    },
+    {
+      "id": "1372984491898835034",
+      "fecha_utc": "2025-05-16T17:10:11.687000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": "2025-05-16T17:10:45.049000+00:00",
+      "texto": "Kurobane:\n\nEn el sur, a las afueras del campamento. Sigue las marcas de medialuna de los árboles. Cambio",
+      "mensaje_sha256": "8ae3797bf9abaa3b320d203d9ec230c3c1fce2384199d6735e65f11ada46a092",
+      "tipo_discord": 19,
+      "referencia": "1372984194237595868",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1372984491898835034",
+      "texto_sha256": "43bdd2e4e1fce01a603b1235404847f19a5e00a42b3c57b1ab75255b9a5e45de",
+      "adjuntos": []
+    },
+    {
+      "id": "1372984785298919477",
+      "fecha_utc": "2025-05-16T17:11:21.639000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": null,
+      "texto": "Guxi: tardare un poco en llegar estoy en las montañas de sho . Cambio",
+      "mensaje_sha256": "8c7621272aee199ff7bddd84384d2691ae736a452166524f8004a8a03bfe3bb0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1372984785298919477",
+      "texto_sha256": "22457cf8708e8214d28d82491c413d79e64471d654ce2208f883fb9332bc7f40",
+      "adjuntos": []
+    },
+    {
+      "id": "1372985062496272434",
+      "fecha_utc": "2025-05-16T17:12:27.728000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": null,
+      "texto": "guxi: puedes venir tu a sho nos podemos ver en las afueras ? cambio",
+      "mensaje_sha256": "1f74fb0e56dcbb9b96da1a5620498bb0de8be91a2d694c61401b155fc1d14084",
+      "tipo_discord": 19,
+      "referencia": "1372984491898835034",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1372985062496272434",
+      "texto_sha256": "7407ccb781b4347cc33539c98c70b6483c147aaf99e83aa9c281ed8f6af2cba2",
+      "adjuntos": []
+    },
+    {
+      "id": "1372986483631456347",
+      "fecha_utc": "2025-05-16T17:18:06.553000+00:00",
+      "fecha_local": "2025-05-16",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nOído. Cambio y corto.\n\n**Recoge lentamente el libro y con mucho cuidado, sale de la base, arregla la ilusión, terminando llegando al portal del sur**\n\n🌘  Kurobane sale de escena 🌘 \n\n🔴 Fin de escena 🔴",
+      "mensaje_sha256": "d3d8247658ff5379ffa986806eedf3be8cf98ce0a2f99624b897a1be489e0e1c",
+      "tipo_discord": 19,
+      "referencia": "1372985062496272434",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1372986483631456347",
+      "texto_sha256": "333aa88f1c94ef11a51e6f752789c63ff5a5ad363d6d6fbe6c2c570a4ac49877",
+      "adjuntos": []
+    }
+  ]
+}

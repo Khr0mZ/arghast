@@ -1,0 +1,93 @@
+{
+  "id": "k-1438418459686862858",
+  "campana": "kuroto",
+  "unidad_revision": "k-1438418459686862858",
+  "hilo_id": "1362071806441160834",
+  "hilo_nombre": "Base Ukyio - Sala principal",
+  "titulo": "Yiccardaria amenaza a Danifae tras salvarla",
+  "resumen": "La drow sale de Jigeku No Mori con una telaraña sosteniéndole la cabeza y culpa de su fracaso a la lich de Vol.",
+  "relato": "Danifae sale del bosque jadeando, apoyándose en los árboles y tocándose la telaraña que ahora mantiene su cabeza unida al cuello. Yiccardaria aparece como una vela derretida y adopta una hermosa forma drow. Le recuerda que sin su ayuda habría perdido más que la cabeza y afirma que Lolth no tolerará ese fracaso.\n\nDanifae intenta justificarse culpando a la lich de la casa de Vol. Varias arañas la rodean mientras Yiccardaria amenaza con dejarla morir la próxima vez o devolverla como un Zin-carla. La yochlol se transforma en una araña pequeña y desaparece.\n\nLa drow guarda para sí la intención de acabar matándola. La escena muestra su dependencia y hostilidad, sin narrar el enfrentamiento anterior ni convertir su pensamiento en una amenaza pronunciada.",
+  "participantes": [
+    "Danifae",
+    "Yiccardaria"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1438418459686862858",
+      "afirmacion": "Danifae sale herida, Yiccardaria afirma haberla salvado y la amenaza; la drow piensa en matarla.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La causa concreta de la derrota se conserva como explicación de Danifae.",
+    "La intención final es un pensamiento privado.",
+    "La conversión en Zin-carla es una amenaza, sin transformación realizada."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-11-13T06:41:25.312000+00:00",
+  "fin_utc": "2025-11-13T06:42:09.197000+00:00",
+  "fecha_local": "2025-11-13",
+  "intervalo": {
+    "anterior": 166,
+    "siguiente": 167,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438244036996628491",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438607930604781589",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 166,
+        "fecha": "2025-11-12",
+        "inicio_referencia_utc": "2025-11-12T19:07:55+00:00",
+        "fin_estimado_utc": "2025-11-12T22:08:14+00:00",
+        "duracion_video_segundos": 10819,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438244036996628491"
+      },
+      {
+        "capitulo": 167,
+        "fecha": "2025-11-13",
+        "inicio_referencia_utc": "2025-11-13T19:14:04+00:00",
+        "fin_estimado_utc": "2025-11-13T22:25:02+00:00",
+        "duracion_video_segundos": 11458,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438607930604781589"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1438418459686862858",
+      "fecha_utc": "2025-11-13T06:41:25.312000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": null,
+      "texto": "Danifae: **La drow se tambalea de lado a lado apoyada en los árboles del bosque de Jigeku No Mori. Sale del bosque jadeando, ha peridod toda esta compostura de prepotència. Se toca el cuello, en ese lugar donde ahora un tela de araña le sujeta la cabeza. Suelta una terrible mueca de rabia**\n\nYiccardaria: No llega a ser por mi, y habrías perdido algo más que la cabeza, Danifae **Dice el demonio en forma de vela derretida con una voz burbujeante. Aparece de entre los árboles mientras se va formando en esa figura drow de gran belleza** Lady Lolth no permitirá tal fracaso\n\nDanifae: Ah sido la lich de la casa de Vol, sino... **Empieza a escusarte, pero pronto ve como un gran número de arañas se han arremolinado a su alrededor. Mira a Yiccardaria con una mueca**\n\nYiccardaria: La próxima te dejaré morir **Los ojos de la yochlol se clavan en la drow de manera fulminante** Podría devolverte como un Zin-carla. Así, almenos, dejarías de perder el tiempo.\n\nDanifae: **La drow le devuelve la misma mirada al demonio que tiene delante mientras esté se vuelve a convertir en una masa viscosa para luego cambiar a una pequeña e inocente araña que desaparece en el bosque** *Te aseguro que seré yo quien te acabe matando, Yiccardaria*",
+      "mensaje_sha256": "c61da15d16b6f0ba4e81473675c80f4ec9aa74b2424f49f25d04fba341165b5d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1438418459686862858",
+      "texto_sha256": "20e50d6f6ed4e28d1a8ede8fb0f17116cc796e0be5c7aaf112f55d285bc795e4",
+      "adjuntos": []
+    },
+    {
+      "id": "1438418643754156033",
+      "fecha_utc": "2025-11-13T06:42:09.197000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena 🔴",
+      "mensaje_sha256": "0e4c4b9fc7d49e78d07d5d72bead1ea742a6464af2d3058970641771589fe488",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1438418643754156033",
+      "texto_sha256": "298fa93bf0457633e2be1e0841043d853cccb9548c7ae2d8426119f0cb0a929e",
+      "adjuntos": []
+    }
+  ]
+}

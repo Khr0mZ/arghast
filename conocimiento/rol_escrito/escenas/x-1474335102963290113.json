@@ -1,0 +1,167 @@
+{
+  "id": "x-1474335102963290113",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1474335102963290113",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "El catalejo recuperado y el loro del mástil",
+  "resumen": "Luna devuelve a Nox su catalejo y ambos se interesan por un loro que llega al Zampaolas.",
+  "relato": "Nox busca algunas pertenencias en el barco y llama a Luna, sospechando dónde están. Mientras espera, ve llegar al mástil del Zampaolas un loro con una pequeña bolsa. El ave percibe que lo observan y responde a la sonrisa del pirata. Luna sale bromeando sobre sus gritos y se entusiasma con el animal.\n\nNox le pide expresamente su catalejo. Ella lo saca de uno de sus saquillos y lo devuelve, advirtiendo con ironía que debería vigilar mejor sus cosas. Él acepta que las guarde, le recuerda que ya vive en el barco y que lo suyo también es de ella mientras no desaparezca. Después observa al loro a través del catalejo y propone ir a por él. La escena termina sin captura, sin apertura de la bolsa y sin explicación de su contenido.",
+  "participantes": [
+    "Nox",
+    "Luna",
+    "Loro sin nombre"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1474335102963290113",
+      "afirmacion": "Un loro llega al mástil con una bolsa mientras Nox busca sus cosas.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1474410513453682749",
+      "afirmacion": "Luna devuelve el catalejo que tenía guardado.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1474412285203058944",
+      "afirmacion": "Nox comparte sus pertenencias con Luna y propone acercarse al loro.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "El cierre explícito detiene la escena antes de resolver la propuesta; no se supone un tesoro dentro de la bolsa."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-02-20T09:21:20.368000+00:00",
+  "fin_utc": "2026-02-20T18:12:22.878000+00:00",
+  "fecha_local": "2026-02-20",
+  "intervalo": {
+    "anterior": 8,
+    "siguiente": 9,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1474119475925094500",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1474483152939516034",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 8,
+        "fecha": "2026-02-19",
+        "inicio_referencia_utc": "2026-02-19T19:04:14+00:00",
+        "fin_estimado_utc": "2026-02-19T21:36:22+00:00",
+        "duracion_video_segundos": 9128,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1474119475925094500"
+      },
+      {
+        "capitulo": 9,
+        "fecha": "2026-02-20",
+        "inicio_referencia_utc": "2026-02-20T19:09:18+00:00",
+        "fin_estimado_utc": "2026-02-20T22:22:01+00:00",
+        "duracion_video_segundos": 11563,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1474483152939516034"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1474335102963290113",
+      "fecha_utc": "2026-02-20T09:21:20.368000+00:00",
+      "fecha_local": "2026-02-20",
+      "editado_utc": "2026-02-20T09:21:42.092000+00:00",
+      "texto": "Nox: **se encuentra en el barco buscando algunas de sus pertenencias que no encuentra ** \nLunaaa !!! <@410954935421763585> ** dice intuyendo donde pueden estar .\n\nMira al cielo resoplando y ve como un loro <@214405113677217793>  llega con una bolsita y se posa en lo alto del mástil del Zampaolas** \n\n*por fin.. un golpe de suerte*\n**sonríe de medio lado **",
+      "mensaje_sha256": "fa805750a57f551642de665f4dcd96f1aa4bd24c975dba98d3bfdd304d48213d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1474335102963290113",
+      "texto_sha256": "7835542ebe1d03bc3101cb26510b869e42f42b824c2e32fd652aa7059f2a54f1",
+      "adjuntos": []
+    },
+    {
+      "id": "1474382181336875161",
+      "fecha_utc": "2026-02-20T12:28:24.727000+00:00",
+      "fecha_local": "2026-02-20",
+      "editado_utc": null,
+      "texto": "Loro Random: **Mira hacia abajo y se da cuenta que Nox le esta observando. Al ver esa sonrisa de medio lado, el loro también sonríe**",
+      "mensaje_sha256": "ffa2f7f5d874d769e36eb9dc5003e9cfb791bafd77bfccce6b40f17052107f74",
+      "tipo_discord": 19,
+      "referencia": "1474335102963290113",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1474382181336875161",
+      "texto_sha256": "67d45ee31c2fe4a807cbbc75af6052cb09e7f98f80757bb227f331019db88c6a",
+      "adjuntos": []
+    },
+    {
+      "id": "1474404709199642706",
+      "fecha_utc": "2026-02-20T13:57:55.788000+00:00",
+      "fecha_local": "2026-02-20",
+      "editado_utc": null,
+      "texto": "Luna: ** Luna salta un poco al oir el grito de Nox, sonrie y sale a su encuentro ** \n\n      Que paso señor mayor que grita tanto, haz olvidado tus medicamentos? \n\n    ** Luego se gira hacia el loro ** pero que monooooo, quiero uno!!!!! ** comienza a aletear a ver si emprende vuelvo **",
+      "mensaje_sha256": "bc5e0929e338a480f8f026016025798bcc4e361dd9b3b77e2b37b129123b3d07",
+      "tipo_discord": 19,
+      "referencia": "1474335102963290113",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1474404709199642706",
+      "texto_sha256": "d325ccdb2a5622829bfcaec6a474de2d9410a72e42c32c777b003c072ed9a201",
+      "adjuntos": []
+    },
+    {
+      "id": "1474408661370798110",
+      "fecha_utc": "2026-02-20T14:13:38.059000+00:00",
+      "fecha_local": "2026-02-20",
+      "editado_utc": null,
+      "texto": "Nox : esta bien que guardes las cosas para que no se pierdan... dicho esto . \n\nmi catalejo ... \n** te hace el gestito con la mano para que se lo devuelvas **",
+      "mensaje_sha256": "d5b374a671b57339a662d02611a15497c00620ddd9856d6da80f3bc4965ce326",
+      "tipo_discord": 19,
+      "referencia": "1474404709199642706",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1474408661370798110",
+      "texto_sha256": "223788d0d6ac0ef48ccdbce6c6458816e627153fbc8c2c96b37bde31cf5ce07f",
+      "adjuntos": []
+    },
+    {
+      "id": "1474410513453682749",
+      "fecha_utc": "2026-02-20T14:20:59.630000+00:00",
+      "fecha_local": "2026-02-20",
+      "editado_utc": null,
+      "texto": "Luna: ** Sonriendo saca el catalejo desde uno de sus saquillos ** \n\n      Toma.. solo por esta vez, debes cuidar mejor tus cosas, puede que alguien te robe",
+      "mensaje_sha256": "4c041a9d0df4a40bc368daf11212092ce467a1223334c355e354e2ec21903be3",
+      "tipo_discord": 19,
+      "referencia": "1474408661370798110",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1474410513453682749",
+      "texto_sha256": "1cd53737701f7bb3a08578b6b70857100cb2067f1a8f8ea700b77b22414070d4",
+      "adjuntos": []
+    },
+    {
+      "id": "1474412285203058944",
+      "fecha_utc": "2026-02-20T14:28:02.048000+00:00",
+      "fecha_local": "2026-02-20",
+      "editado_utc": null,
+      "texto": "Nox: Ya vives en este barco Luna , lo mio es tuyo . Me parece bien que custodies las cosas que quieras mientras no desaparezcas genial . \n**le mueve un poco el flequillo y con el catalejo observa al loro ** \n\nAsi que te gusta ese loro no ? \nVamos por el ?",
+      "mensaje_sha256": "39b7bc81e43478f79cda0f78f1ad987b075e5331dba0eb05898ff069a848ef40",
+      "tipo_discord": 19,
+      "referencia": "1474410513453682749",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1474412285203058944",
+      "texto_sha256": "f3b53bd93436683373b140771a81634e5b64b0bdf3ca437ed1a0d577fbfbaf61",
+      "adjuntos": []
+    },
+    {
+      "id": "1474468744016167006",
+      "fecha_utc": "2026-02-20T18:12:22.878000+00:00",
+      "fecha_local": "2026-02-20",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "f268b49c9dec46aafba50a320e01e276ddf6f98ebbce9a4c61715b02d86100ae",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1474468744016167006",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

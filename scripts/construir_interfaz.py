@@ -75,6 +75,10 @@ def build_data():
     chapter_histories = load_chapter_histories(chapters, fact_index)
     for chapter in chapters:
         chapter['history'] = chapter_histories.get(chapter['capitulo'])
+    from fechas_emision import attach_dates
+    attach_dates('xoltacan', chapters)
+    from rol_escrito import load_written_role
+    data['writtenRole'] = load_written_role('xoltacan', chapters)
     return data
 
 

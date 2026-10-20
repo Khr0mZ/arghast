@@ -1,0 +1,335 @@
+{
+  "id": "x-1486994030767378563",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1486994030767378563",
+  "hilo_id": "1481938373894738061",
+  "hilo_nombre": "Fuerte Aurora - Base de la Marina",
+  "titulo": "Molly interroga a Nox sobre el símbolo de Citlali",
+  "resumen": "Relaciona el saqueo de unas ruinas con piratas y muestra una inscripción que Nox reconoce. Ofrece colaborar antes de que lleguen los superiores.",
+  "relato": "Nox permanece en una celda de la Torre-Prisión, sobre un peñasco unido al fuerte por un puente colgante. Molly lleva comida y le pregunta qué planea. Él enumera sus sueños de saqueo y libertad, mientras ella contrapone la amenaza de una horca y recuerda promesas que deja sin terminar.\n\nLa capitana relata el ataque a una expedición en las ruinas del norte. Los cuerpos troceados parecían apuntar a caníbales, pero las huellas y la disposición de la pelea le hacen sospechar piratas. Nox propone visitar el lugar con ella; Molly rechaza sacarlo y confirma que estaba saqueado. Entonces le enseña un papel con una inscripción que la narración identifica como la misma que él vio en el tatuaje de Mamá Citlali.\n\nNox reconoce haberla visto y piensa que la anciana vale cada vez más, sin revelar dónde. Pide a Molly que comparta lo que buscan sus superiores. La capitana no obtiene esa información: le ofrece colaborar para ser libre o esperar a los sacerdotes de la Marina, cuya magia amenaza con arrancarle la verdad antes de ejecutarlo. Le da dos semanas para decidir. Él calcula que aún tiene tiempo.\n\nAl salir de la prisión, el recluta Max entrega a Molly una carta urgente del capitán Tórtola Jones. Su lectura provoca otra reacción de frustración. La escena no transcribe esa carta ni decide la respuesta del preso.",
+  "participantes": [
+    "Nox",
+    "Molly",
+    "Max"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1487414251378446417",
+      "afirmacion": "Molly relata el ataque a la expedición.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1487425258125398197",
+      "afirmacion": "Muestra una inscripción equivalente al tatuaje de Citlali.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1487427042088587346",
+      "afirmacion": "Nox admite haber visto el símbolo.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1487514319750172773",
+      "afirmacion": "Molly fija dos semanas y amenaza con interrogatorio mágico.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1488156896862015518",
+      "afirmacion": "Max entrega la carta de Tórtola.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El ataque y las hipótesis de autoría se conocen por Molly; no se reconstruye una batalla ni se confirma a sus responsables.",
+    "El símbolo compartido no demuestra que Citlali cometiera el saqueo.",
+    "La amenaza de ejecución no se registra como muerte realizada."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-03-27T07:43:23.948000+00:00",
+  "fin_utc": "2026-03-30T12:44:12.830000+00:00",
+  "fecha_local": "2026-03-27",
+  "intervalo": {
+    "anterior": 20,
+    "siguiente": 21,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1486810041481957547",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1488971383768744069",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 20,
+        "fecha": "2026-03-26",
+        "inicio_referencia_utc": "2026-03-26T19:31:58+00:00",
+        "fin_estimado_utc": "2026-03-26T22:20:44+00:00",
+        "duracion_video_segundos": 10126,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1486810041481957547"
+      },
+      {
+        "capitulo": 21,
+        "fecha": "2026-04-01",
+        "inicio_referencia_utc": "2026-04-01T18:40:21+00:00",
+        "fin_estimado_utc": "2026-04-01T21:22:11+00:00",
+        "duracion_video_segundos": 9710,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1488971383768744069"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida."
+  },
+  "fuentes": [
+    {
+      "id": "1486994030767378563",
+      "fecha_utc": "2026-03-27T07:43:23.948000+00:00",
+      "fecha_local": "2026-03-27",
+      "editado_utc": null,
+      "texto": "**En el peñasco cercano al Fuerte Aurora, al que sólo se puede acceder por un puente colgante, se alza la Torre-Prisión de la Marina. Destartalada y con agujeros en el techo, sirve como calabozo para los enemigos de los hombres de azul.\nTras recorrer sus pasillos y descender por las escaleras de caracol, se llega finalmente a las celdas… donde se encuentra nuestro querido pirata Nox.**\n\nMolly: Como te va, Noxie? **La Capitana de la Marina llega con un plato de comida**\n<@616683133374562304>",
+      "mensaje_sha256": "c9a2222a3bc8a55a766f13543f4422dbc2b5a7284bc5c26f81e50e8f000063bd",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1486994030767378563",
+      "texto_sha256": "76897e4b06fa0cd182d3a6f13e0744d16cb30f213a0752dd790e6403a4ad6133",
+      "adjuntos": []
+    },
+    {
+      "id": "1487392623319584799",
+      "fecha_utc": "2026-03-28T10:07:15.818000+00:00",
+      "fecha_local": "2026-03-28",
+      "editado_utc": null,
+      "texto": "Nox: **estaría tumbado con T pose en el suelo , abriría un ojo y vería a Molly **\n\nCreo que tenéis goteras .",
+      "mensaje_sha256": "e61093eee33e705e450ab5288c03314cce74f31446fb5931248ca4323f415b77",
+      "tipo_discord": 19,
+      "referencia": "1486994030767378563",
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1487392623319584799",
+      "texto_sha256": "efda1fa1fad12e10ce3bf513c1d557ffe8f76a63db0831c83baa395d11d082cb",
+      "adjuntos": []
+    },
+    {
+      "id": "1487397769210626048",
+      "fecha_utc": "2026-03-28T10:27:42.694000+00:00",
+      "fecha_local": "2026-03-28",
+      "editado_utc": null,
+      "texto": "Molly: He elegido la mejor \"habitación\" para ti **Lanza el plato con la comida entre los barrotes. El plato de unas vueltas y se cae algo de la comida por la celda, son gachas. Agarra una silla y se sienta a unos metros de la celda** ¿Que estas planeando?",
+      "mensaje_sha256": "7831ef351c5a073de57fc89f31ef8fbf2c0f83d84b860476e3faf206b05cc9cd",
+      "tipo_discord": 19,
+      "referencia": "1487392623319584799",
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1487397769210626048",
+      "texto_sha256": "c3a7e4f7cfabe000fcf1a21bad7152455d771f402dfd1a73f03de359a2dd0c3a",
+      "adjuntos": []
+    },
+    {
+      "id": "1487405040326021302",
+      "fecha_utc": "2026-03-28T10:56:36.263000+00:00",
+      "fecha_local": "2026-03-28",
+      "editado_utc": "2026-03-28T10:58:56.078000+00:00",
+      "texto": "Nox: **coge el plato y lo huele, y come **\nNo me habrás envenenado no querida? \n\nPlanear ? \nPlaneo saquear robar y desvalijar hacerme con los mayores tesoros de esta apestosa isla. \nDestronar a una reina , coronar a otra, salvar a una doncella en apuros **le señala con la cuchara**  ver los últimos días de otra zarpar en un hermosos navio y emborracharme mientras la tripulación canta canciones de las leyendas del gran capitán Nox \n\n**te sonrrie ** \nCreo que no me dejo nada querida .",
+      "mensaje_sha256": "ab021bcae4af5b4d4c84614e7fc893349c4a5a98c1485d1227a356edefa6ffc2",
+      "tipo_discord": 19,
+      "referencia": "1487397769210626048",
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1487405040326021302",
+      "texto_sha256": "cec95e062a1b6438c867c931795b91405f372debf9cd9a2f43b99778367ff63e",
+      "adjuntos": []
+    },
+    {
+      "id": "1487406593904476200",
+      "fecha_utc": "2026-03-28T11:02:46.665000+00:00",
+      "fecha_local": "2026-03-28",
+      "editado_utc": null,
+      "texto": "Molly: **Se te queda mirando un largo rato sin decir nada, con los ojos entrecerrados examinandote** Habladurías. Eso es lo que dices siempre. Igual que cuando me prometi... **Se calla mostrando una cara de odio y luego suspira** Tus sueños de pirata son solo eso, Noxie, sueños...",
+      "mensaje_sha256": "10e03b25be6c01461ced48778f7a4a1284f09f736bbfbf82d60ed1e251e0e657",
+      "tipo_discord": 19,
+      "referencia": "1487405040326021302",
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1487406593904476200",
+      "texto_sha256": "b792a72ab074218eeec185a1ee44b78815ed05762a13c2e57b5a63e159955851",
+      "adjuntos": []
+    },
+    {
+      "id": "1487412055018574014",
+      "fecha_utc": "2026-03-28T11:24:28.696000+00:00",
+      "fecha_local": "2026-03-28",
+      "editado_utc": "2026-03-28T11:24:46.020000+00:00",
+      "texto": "Nox : **deja el plato a un lado y se levanta , se acerca hasta los barrotes . El rostro le cambia por completo es totalmente serio ** \n\nYa te lo dije una vez cariño ... \n\nLOS SUEÑOS DE LAS PERSONAS ...\n\nNO TIENEN FIN ! \n\n**se sienta con las piernas cruzadas y empieza a reír a carcajada pura **",
+      "mensaje_sha256": "247b23f07b177ce92dbf6fbcb75338991fd96df567d4f102344074dbc906a22d",
+      "tipo_discord": 19,
+      "referencia": "1487406593904476200",
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1487412055018574014",
+      "texto_sha256": "d5bf73be789673e7e094795a5de23e084e4db2e9231c542f2e6a84e36fc46873",
+      "adjuntos": []
+    },
+    {
+      "id": "1487414251378446417",
+      "fecha_utc": "2026-03-28T11:33:12.349000+00:00",
+      "fecha_local": "2026-03-28",
+      "editado_utc": null,
+      "texto": "Molly: Hasta que estas colgado de una soga o con un disparo en la cabeza **No hace caso a tu carcajada. Saca una botella de lo que parece un buen vino y sirve una copa** Hace un par de dias, una expedición de la Marina fue atacada mientras buscaban en unas ruinas al norte de aquí. **Bebe un trago del vino** Parecía un ataque de esos caníbales... Habían troceado los cuerpos y por lo que parece, se los habían comido. **No muestra pena alguna por los camaradas muertos** Pero, las huellas y el lugar de la pelea no parecían de esos caníbales... **Se levanta y te ofrece la copa de vino de la que acaba de beber** Parecía más bien un ataque suicida, como los que hacen, ya sabes, tus amigos pirata ¿No sabrás quien ha podido ser, no?",
+      "mensaje_sha256": "573e9a346cb0f5ae9bf0efee3efeccd9b58e1f8c514a414e7316d0b919412068",
+      "tipo_discord": 19,
+      "referencia": "1487412055018574014",
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1487414251378446417",
+      "texto_sha256": "11d85d24583a44c829eab9733d42cc77030a36d6b7772aaac7f5df593fab68ab",
+      "adjuntos": []
+    },
+    {
+      "id": "1487418785878249585",
+      "fecha_utc": "2026-03-28T11:51:13.458000+00:00",
+      "fecha_local": "2026-03-28",
+      "editado_utc": "2026-03-28T11:51:41.967000+00:00",
+      "texto": "Nox : encerrado aquí como quieres que me haya podido enterar de algo querida ...\n\nPero quizá si me llevas a la zona podamos deducirlo juntos, trabajo en equipo. Como aquellas cortinas de encaje que elegimos juntos para el camarote... \n\nBuscavan algo en concreto tus hombres?",
+      "mensaje_sha256": "d6344e256b764ba6ae383b445406b5d5a76fd6f40018459a74757f1eb41f4611",
+      "tipo_discord": 19,
+      "referencia": "1487414251378446417",
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1487418785878249585",
+      "texto_sha256": "47796f940f878d98f79ebaf44dd903ea2172f91fad0a33d204c7993c5b73b8b7",
+      "adjuntos": []
+    },
+    {
+      "id": "1487420908577620028",
+      "fecha_utc": "2026-03-28T11:59:39.549000+00:00",
+      "fecha_local": "2026-03-28",
+      "editado_utc": null,
+      "texto": "Molly: No voy a sacarte de aquí, eres más preciado de lo que crees **Agita el vaso de vino delante de los barrotes para que lo cojas** Te conozco, Jim. No eres tonto por mucho que te esfuerces en parecerlo y, como aquella vez en Carnan cuando nos quedamos solos en aquella cueva solitaria, siempre tienes un plan B. Así que dime, podrían haber sido algunos piratas de esos que conoces?",
+      "mensaje_sha256": "920aa4929b4c0001939f2e24af780be1a956ada78ff7dd2f8dce5be9169ce11d",
+      "tipo_discord": 19,
+      "referencia": "1487418785878249585",
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1487420908577620028",
+      "texto_sha256": "18a0ff67b41f3014bca350a32cb72cd996d1482d5e535b87409cf11eef12b5aa",
+      "adjuntos": []
+    },
+    {
+      "id": "1487422564845490217",
+      "fecha_utc": "2026-03-28T12:06:14.434000+00:00",
+      "fecha_local": "2026-03-28",
+      "editado_utc": null,
+      "texto": "Nox: **coge la copa y la bebe de un trago ** no hace falta que me sigas dando comida y bebida para que me hablando Mery Anne ... \nCon esos ojos negros ya me puedes sacar todo lo que quieras \n**te sonrie de medio lado ** \n\n\nManda un grupo de hombres , deberás tener alguien cualificado en simbologia nativa no es asi ? \nQue vaya y examine la zona . Si encuentra algun tipo de zona cofre o estqncia saqueada .. entonces si . Habrán sido piratas.  \nDe lo contrario sin estar en la zona no puedo decirte mucha cosa mas como comprenderás... \n\nQue crees que me seria mas difícil escaparme yendo contigo a la zona ?  o estando solo en una celda a la espera de que la princesa salga de palacio ? \n\nVamos querida ambos sabemos que te soy mas valioso fuera que dentro de 4 barrotes húmedos y con los ensamblajes oxidados...",
+      "mensaje_sha256": "e2cc198da32e4ad6b061670993fa2bc911d2bb83fd11e9057062b4f3224be947",
+      "tipo_discord": 19,
+      "referencia": "1487420908577620028",
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1487422564845490217",
+      "texto_sha256": "dc9eb89267330f4b642bbda86184e298b79203c78624240cc78e559d9c3c0560",
+      "adjuntos": []
+    },
+    {
+      "id": "1487425258125398197",
+      "fecha_utc": "2026-03-28T12:16:56.562000+00:00",
+      "fecha_local": "2026-03-28",
+      "editado_utc": "2026-03-28T12:17:36.068000+00:00",
+      "texto": "Molly: **Se acerca a los barrotes y pone una voz más sensual** Para mi eres mucho más útil atado en una cama que encerrado aquí... **Se separa de los barrotes** Pero, tengo que cumplir órdenes. Ya lo sabes, me he vuelto una Capitana de la Marina **Levanta los hombros y vuelve a sentarse en la silla** El lugar estaba saqueado, sino por que crees que he venido a hablar contigo, Noxie? Solo quiero saber si tu o alguno de tus amiguitos ha tenido algo que ver, pero veo que me será difícil. **Se lleva las manos a los bolsillos y saca un trozo de papel y sin decir nada, te lo enseña. Puedes ver que hay una especie de inscripción. Una que ya has visto antes, en un tatuaje. El tatuaje de Mama Citlali. Molly se te queda mirando fijamente, quiere notar la más mínima reacción en tu rostro**\n<@408026114548695061>",
+      "mensaje_sha256": "4de809fa28714fb3433d631a6bb665baadc86a1b7f8ffd2551e0b160ab864484",
+      "tipo_discord": 19,
+      "referencia": "1487422564845490217",
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1487425258125398197",
+      "texto_sha256": "22c91480ed37810866ac097e8d3906727e19b9c3832b5edddc4da01ad9e0680b",
+      "adjuntos": []
+    },
+    {
+      "id": "1487426236560052365",
+      "fecha_utc": "2026-03-28T12:20:49.839000+00:00",
+      "fecha_local": "2026-03-28",
+      "editado_utc": null,
+      "texto": "Nox :No querida ... yo no he tenido nada que ver ...\n\n **se fija en el papel ** \nHmmm interesante muy interesante  \n\n*La anciana cada vez cobra mas valor*\n\nEstaba en el templo ese símbolo?",
+      "mensaje_sha256": "f445f6248ce8183a1ec0f87231da694d35e77fdd31f0102cb3a2044c6772c4ca",
+      "tipo_discord": 19,
+      "referencia": "1487425258125398197",
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1487426236560052365",
+      "texto_sha256": "2fcc22707523ce17c1de28ff2562edba054eb5e7c3e02339591665e3b5473d2c",
+      "adjuntos": []
+    },
+    {
+      "id": "1487426768934539284",
+      "fecha_utc": "2026-03-28T12:22:56.767000+00:00",
+      "fecha_local": "2026-03-28",
+      "editado_utc": null,
+      "texto": "Molly: ¿Lo habías visto antes? **Su voz a cambiado a algo más seria**",
+      "mensaje_sha256": "82895de35af311f4561f8eace70df6eae9084eb95b27031144afec2842ccff35",
+      "tipo_discord": 19,
+      "referencia": "1487426236560052365",
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1487426768934539284",
+      "texto_sha256": "147b96686c430d0a4ebb53c1327d332851d1f88231c4cb5a2db8757369c542f3",
+      "adjuntos": []
+    },
+    {
+      "id": "1487427042088587346",
+      "fecha_utc": "2026-03-28T12:24:01.892000+00:00",
+      "fecha_local": "2026-03-28",
+      "editado_utc": null,
+      "texto": "Nox : Un buen filete y una botella de vino me harían recordar mejor querida ... \n\nPero bueno no puedo quedarme de tu compañía.. \n\n\nSi . Lo he visto antes .",
+      "mensaje_sha256": "aaf8f778a8525211e919ee5c3e0d05896a03936f93ba354bcd4579aa3ebd0362",
+      "tipo_discord": 19,
+      "referencia": "1487426768934539284",
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1487427042088587346",
+      "texto_sha256": "1070f3f17707a975eab37baf2182b68ea6c2bd55dc187775d15e1515e671e862",
+      "adjuntos": []
+    },
+    {
+      "id": "1487428848885956729",
+      "fecha_utc": "2026-03-28T12:31:12.666000+00:00",
+      "fecha_local": "2026-03-28",
+      "editado_utc": null,
+      "texto": "Molly: ¿Donde? **Sigue con el semblante serio** Es importante, Jim. Si nos ayudas en esto, puede que consigas mucho más que en eso con lo que sueñas",
+      "mensaje_sha256": "4202f64185493d7437c0d6c2c3b4a21157ab20518daf2b62641c5aa72effda23",
+      "tipo_discord": 19,
+      "referencia": "1487427042088587346",
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1487428848885956729",
+      "texto_sha256": "86696638c4564d7ef9b7c71b2e427d22a18227ea80dcbf30d2e693e56dd57e46",
+      "adjuntos": []
+    },
+    {
+      "id": "1487465381785243719",
+      "fecha_utc": "2026-03-28T14:56:22.788000+00:00",
+      "fecha_local": "2026-03-28",
+      "editado_utc": null,
+      "texto": "Nox : pareces un poco alterada ... \nCompartamos información de acuerdo . \nTu me dices que andan buscando tus superiores y yo te ayudo a encontrarlo",
+      "mensaje_sha256": "328ea14383db19df7aca791424a6dcfcadb2afe561c48745e53bfc59b92e4d91",
+      "tipo_discord": 19,
+      "referencia": "1487428848885956729",
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1487465381785243719",
+      "texto_sha256": "f8d386687c1ba559c61dca83d8fb42dbc546dc266d8979c9852c587595d8a68a",
+      "adjuntos": []
+    },
+    {
+      "id": "1487514319750172773",
+      "fecha_utc": "2026-03-28T18:10:50.508000+00:00",
+      "fecha_local": "2026-03-28",
+      "editado_utc": null,
+      "texto": "Molly: **Suspira** Sigues siendo un cabezota... Ya te dije que esto era un asunto demasiado grande para ti. **Se levanta de la silla** Los Superiores de la Marina no tardarán en llegar, puedes colaborar conmigo y ser libre para cumplir esos sueños que tienes. O esperar que esos sacerdotes de la Marina te saquen la verdad con su magia y luego te cuelguen de una horca. **Se da media vuelta para empezar a marcharse** Tienes dos semanas para pensarlo, Jim. *Elige bien esta vez...*",
+      "mensaje_sha256": "d4839413ee86e06eca32a27a0b52829cb9537be9ea4d3e7c3d452e164d91bcf0",
+      "tipo_discord": 19,
+      "referencia": "1487465381785243719",
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1487514319750172773",
+      "texto_sha256": "ecfc754dc0a85a3d11a69d456bc7dc4d053988c8611164c9f960b0f9d9574058",
+      "adjuntos": []
+    },
+    {
+      "id": "1488152114491428956",
+      "fecha_utc": "2026-03-30T12:25:12.624000+00:00",
+      "fecha_local": "2026-03-30",
+      "editado_utc": null,
+      "texto": "Nox : **Le haría un gesto caballeresco junto con una reverencia y se dejaría caer hacia atrás otra vez en la T pose .**\n\n*dos semanas ... hay tiempo*",
+      "mensaje_sha256": "f2fdc340cc964a055ca91c3f9ef730d45b6a13476ad6c35fa7e2b711970e3668",
+      "tipo_discord": 19,
+      "referencia": "1487514319750172773",
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1488152114491428956",
+      "texto_sha256": "2ae581e4e03a4f40bd6692031b7b50fc1ef1624cb2602b37ed4fbfa88066ef2f",
+      "adjuntos": []
+    },
+    {
+      "id": "1488156896862015518",
+      "fecha_utc": "2026-03-30T12:44:12.830000+00:00",
+      "fecha_local": "2026-03-30",
+      "editado_utc": "2026-03-30T12:46:10.307000+00:00",
+      "texto": "Molly: **La Capitana sale de la Torre-Prision del Fuerte Aurora con el ceño fruncido. No ha obtenido lo que quiere y eso le frustra** *Maldito seas Jim... Solo te intento ayudar...* **Un joven recluta se acerca con varios papeles en las manos**\n\nRecluta Max: ¡Capitana, capitana! A llegado una carta urgente para usted **Dice con aspavientos** Es del Capitán Tórtola Jones.\n\nMolly: **Levanta el labio en señal de desagrado y recoge la carta. Sin mucha explicación, deja marchar al recluta y la lee** ¡Joder...! Joder, joder jodeeeeeer\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "71ca394c29330814f8941fb4aacbc045c8fe5d3ecb59053c64e366f35dae7e65",
+      "tipo_discord": 19,
+      "referencia": "1488152114491428956",
+      "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1488156896862015518",
+      "texto_sha256": "44f678691fc7b743aa1621084a1f930d6a6a1e4c29708b016313e09000c47006",
+      "adjuntos": []
+    }
+  ]
+}

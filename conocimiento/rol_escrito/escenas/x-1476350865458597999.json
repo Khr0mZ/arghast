@@ -1,0 +1,80 @@
+{
+  "id": "x-1476350865458597999",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1474765127654834266",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "Una llegada a cubierta",
+  "resumen": "Nox oye que alguien ha llegado al barco.",
+  "relato": "Nox se queda observando el huevo en el camarote hasta oír que alguien sube a cubierta. Anuncia que parece haber llegado alguien, sin identificarlo ni representar todavía el encuentro. Este mensaje continúa la escena en un tramo temporal posterior.",
+  "participantes": [
+    "Nox"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1476350865458597999",
+      "afirmacion": "Nox escucha una llegada a cubierta sin identificar al recién llegado.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Los dos primeros relatos pertenecen al primer grupo de cortes_horarios_historicos; el tercero contiene exclusivamente el único mensaje del segundo grupo.",
+    "La visión privada no acredita la identidad del bebé ni un parentesco con Jim.",
+    "La advertencia de maldición, las explicaciones religiosas y la causa del poder de Ione no se convierten en hechos confirmados.",
+    "Reunir plata y anunciar una idea no acredita que se haya ejecutado tratamiento alguno."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-02-25T22:51:15.598000+00:00",
+  "fin_utc": "2026-02-25T22:51:15.598000+00:00",
+  "fecha_local": "2026-02-25",
+  "intervalo": {
+    "anterior": 10,
+    "siguiente": 11,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1476293643718361240",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1476657677277991027",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 10,
+        "fecha": "2026-02-25",
+        "inicio_referencia_utc": "2026-02-25T19:03:39+00:00",
+        "fin_estimado_utc": "2026-02-25T21:43:11+00:00",
+        "duracion_video_segundos": 9572,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1476293643718361240"
+      },
+      {
+        "capitulo": 11,
+        "fecha": "2026-02-26",
+        "inicio_referencia_utc": "2026-02-26T19:10:07+00:00",
+        "fin_estimado_utc": "2026-02-26T22:26:48+00:00",
+        "duracion_video_segundos": 11801,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1476657677277991027"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1476350865458597999",
+      "fecha_utc": "2026-02-25T22:51:15.598000+00:00",
+      "fecha_local": "2026-02-25",
+      "editado_utc": null,
+      "texto": "Nox : **se quedaría mirando el huevo hasta que escucha que alguien sube a cubierta ** \nParece que ha llegado alguien",
+      "mensaje_sha256": "9d6bf943f47005514bda15c41b20721a37933ae0ece0a2a120dfe80c6bf0f689",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1476350865458597999",
+      "texto_sha256": "39e3ec314dcbc9cbe8ad0c8768069382886dcd666267a8dbce5dbdcb3813abb1",
+      "adjuntos": []
+    }
+  ]
+}

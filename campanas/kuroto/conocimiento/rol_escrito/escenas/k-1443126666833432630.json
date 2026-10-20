@@ -1,0 +1,360 @@
+{
+  "id": "k-1443126666833432630",
+  "campana": "kuroto",
+  "unidad_revision": "k-1443126666833432630",
+  "hilo_id": "1379945696089604209",
+  "hilo_nombre": "Sho, Barrios bajos - Capital de Kuroto",
+  "titulo": "Thiary recluta a Chanecuxtli para vigilar a Whell",
+  "resumen": "La niña acepta observar a los tritones y recibe un anillo colgado de una cadena. Thiary mezcla comida y afecto con una amenaza si falla.",
+  "relato": "Thiary encuentra a Chanecuxtli correteando en la cofradía y le quita una bolsa de monedas que tomó de una habitación prohibida. La amenaza con arrancarle las plumas, cambia enseguida de actitud y le sirve semillas. Mientras evalúa para qué podría servirle, la niña cuenta sus transformaciones, su capacidad de hablar con seres del bosque y anteriores observaciones del palacio.\n\nAl saber que puede volverse diminuta, Thiary le pide espiar a los tritones de palacio y al general Whell. Chanecuxtli acepta con entusiasmo y después pregunta qué significa espiar. La mujer le explica que debe acercarse sin ser vista, escuchar y seguirlos. Le cuelga del cuello un anillo negro en una cadena y exige secreto sobre su trabajo.\n\nCuando la niña celebra el encargo, Thiary la calla y advierte del peligro de que la descubran, pero también amenaza con hacerle pagar un fallo. Luego suaviza el gesto, devuelve las monedas y vuelve a llenar el plato. Tras su marcha, abre un expositor de anillos con luces que indican el estado de sus portadores y se detiene en un hueco no identificado. La escena no revela a quién corresponde.",
+  "participantes": [
+    "Chanecuxtli",
+    "Thiary"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1443138765689454635",
+      "afirmacion": "Thiary pide vigilar a los tritones y a Whell.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1443140385156366421",
+      "afirmacion": "Explica a Chani en qué consiste el espionaje.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1443142145048449134",
+      "afirmacion": "Coloca el anillo en una cadena al cuello.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1443144915327385690",
+      "afirmacion": "Amenaza con castigarla si falla.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1443148007465029713",
+      "afirmacion": "El expositor muestra luces relacionadas con portadores.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El entusiasmo infantil y la comida recibida no eliminan la amenaza ni acreditan comprensión previa del encargo.",
+    "La entrega del anillo no demuestra que se active un vínculo mágico: su estado se aclara en la despedida posterior.",
+    "No se atribuye el hueco del expositor a un personaje concreto sin nombre."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-11-26T06:30:09.370000+00:00",
+  "fin_utc": "2025-11-26T07:54:57.373000+00:00",
+  "fecha_local": "2025-11-26",
+  "intervalo": {
+    "anterior": 169,
+    "siguiente": 170,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1442596662206922943",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1443679606723838074",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 169,
+        "fecha": "2025-11-24",
+        "inicio_referencia_utc": "2025-11-24T19:23:51+00:00",
+        "fin_estimado_utc": "2025-11-24T22:32:50+00:00",
+        "duracion_video_segundos": 11339,
+        "tipo_referencia": "aviso_de_contraste",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1442596662206922943"
+      },
+      {
+        "capitulo": 170,
+        "fecha": "2025-11-27",
+        "inicio_referencia_utc": "2025-11-27T19:07:07+00:00",
+        "fin_estimado_utc": "2025-11-27T22:32:48+00:00",
+        "duracion_video_segundos": 12341,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1443679606723838074"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida. Una hora tomada de un aviso con título discrepante se utiliza solo como referencia aproximada de ese día."
+  },
+  "fuentes": [
+    {
+      "id": "1443126666833432630",
+      "fecha_utc": "2025-11-26T06:30:09.370000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Thiary: **La líder de los Cuchillas Negras estaba en la barra de su local repiqueteando los dedos encima de la mesa. Perdida en sus pensamientos, o planeando alguna cosa de poca legalidad, quien sabe que planea una mente criminal como la de nuestra amiga... Un ligero ruido la saco de esos pensamientos y vio a una bola de plumas pasar cerca suyo. La agarró por las patas como un pollo boca abajo** ¿Ya estas corriendo por ahí otra vez?\n<@408026114548695061>",
+      "mensaje_sha256": "710bbb67160deee60082a622d23ed2d65e0f60f5b57f1b3e2d44fa7404a51e37",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1443126666833432630",
+      "texto_sha256": "3d53cb35c92e663908596403e3839297cd2142a354148cc5fed8dfec4ca6f193",
+      "adjuntos": []
+    },
+    {
+      "id": "1443127405865861190",
+      "fecha_utc": "2025-11-26T06:33:05.569000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n**Agarré mi sombrero con mis alitas para que no se cayera de mi cabeza**\n\nHola Thiary, estaba cazando unos bichitos, por aquí hay muchos y me los estaba comiendo para dejar limpio aquí \n\n**Le sonreí con total normalidad**",
+      "mensaje_sha256": "b2b294235cc9e0112016de98ed5216b92c6577f6ebf558c924ea07ed23dac7f6",
+      "tipo_discord": 19,
+      "referencia": "1443126666833432630",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1443127405865861190",
+      "texto_sha256": "710e577bd7956d197918cc35510d852e086515a598bd699bdaddbb22b21a54b8",
+      "adjuntos": []
+    },
+    {
+      "id": "1443128425723330683",
+      "fecha_utc": "2025-11-26T06:37:08.722000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Thiary: Ya.... **Te saca una bolsita llena de monedas de oro de entre las plumas** ¿Cuantas veces te he dicho que no entres en esa habitación? Sino fueras mi \"amiga\" te habría arrancado las plumas **Te mira con una cara de venganza horrible, pero la vuelve a cambiar rápido** Pero, gracias a ti, mis negocios mejorarán. Así que te salvas... Por esta vez... **Te deja en la barra y saca un plato con semillas para ti** ¿Y ahora que hago contigo?",
+      "mensaje_sha256": "2fa1c4d49372012788190976995ed08e568f949a24fbd8b40c0d882b666baa54",
+      "tipo_discord": 19,
+      "referencia": "1443127405865861190",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1443128425723330683",
+      "texto_sha256": "09e2ceea8f6a5273fe50e7a6bb3d35bda97676b2c22c8fb340d026f6c1040a11",
+      "adjuntos": []
+    },
+    {
+      "id": "1443129885718483087",
+      "fecha_utc": "2025-11-26T06:42:56.812000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\nEstaban tiradas, las guardé para que no se perdieran \n\n**Me cubrí la cara con mis alitas al momento en que dijo que me arrancaría las plumas**\n\nN..no lo hagas, duele mucho\n\n**Bajé poco a poco las alas al ver que se había calmado y me emocioné al ver el plato de semillas, las cuales empecé a comer casi con desesperación**\n\nÑam ñam ñam pío\n\n**Levanté los hombros al escuchar la pregunta, no sabía que se trataba de una pregunta retórica**\n\nNo che, pío, puedo hacer muchas cosas, por ejemplo...\n\n**Me cubrí los ojos con mis alitas y después me las quite, se podía ver qué aquellos ojos amarillos brillaban un poco (Dark vision), pero al estar en un lugar iluminado, no servía de mucho**\n\nAsí puedo ver cuando está oscuro, oscuro, oscuro, Pío",
+      "mensaje_sha256": "d303cf2364069b249ac2dafc8f7368508f4d33ec793a58985523cebc3164e297",
+      "tipo_discord": 19,
+      "referencia": "1443128425723330683",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1443129885718483087",
+      "texto_sha256": "4e0a21af0e1108dacde996b6dcacc72d0925e814a88d3dc8c439ae10cb4c9fda",
+      "adjuntos": []
+    },
+    {
+      "id": "1443131146777919548",
+      "fecha_utc": "2025-11-26T06:47:57.472000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": "2025-11-26T06:48:44.803000+00:00",
+      "texto": "Thiary: Uh, yo puedo ver a los que se esconden en la oscuridad **Ves que te enseña uno de los múltiples anillos que lleva mientras te sonríe y sus ojos se iluminan en negro (Ver Invisibilidad)** ¿En que me podrías servir...? **Piensa mientras repiquetea los dedos en la mesa y te ve comer esas semillas**",
+      "mensaje_sha256": "9a29d2601eeb93abbec8f13b8d98bead894de0703ff608a6a25d955602c21f2d",
+      "tipo_discord": 19,
+      "referencia": "1443129885718483087",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1443131146777919548",
+      "texto_sha256": "809a79eafeee2129fd149d5e14bb44c9ad6b85d9a2c1afd132db9ac812375003",
+      "adjuntos": []
+    },
+    {
+      "id": "1443131874548645939",
+      "fecha_utc": "2025-11-26T06:50:50.986000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\nOooooohhhh, que bonitos son!!\n\n**Me sentaba frente a ella mientras movía las patitas y seguía comiendo las semillas**\n\nTambién puedo hablar con las plantas y los animales, platican mucho a veces porque nadie los escucha, también puedo traer rayos, quieres ver? Pío?\n\n**Froté mis alitas y estas empezaban a brillar, estaba a punto de llamar a la tormenta**",
+      "mensaje_sha256": "8aae6a2d61b2c5da5e43a9e19d85dd48ea5507dcdc484295e95fd58900d77f43",
+      "tipo_discord": 19,
+      "referencia": "1443131146777919548",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1443131874548645939",
+      "texto_sha256": "de5fa7f7e6df5c140140de6401ac1c032ba49f143669171bb9ea45006eec1005",
+      "adjuntos": []
+    },
+    {
+      "id": "1443133317653200948",
+      "fecha_utc": "2025-11-26T06:56:35.049000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": "2025-11-26T06:56:51.735000+00:00",
+      "texto": "Thiary: Eh? No no no, Arwen ya ha estado \"chispeando\" mucho por aquí... **Apoya su cabeza en la barra mientras sigue mirando como comes y piensa en voz alta** ¿Recaudadora? Umm, no creo, demasiado pequeña, te darían una paliza... ¿Informante? Dudo que alguien se deje embaucar por un pollito que dice pío...",
+      "mensaje_sha256": "9928a977ffdfbdc32fa9c6da711169bcee4856c6af61112e0ce1f135308e575c",
+      "tipo_discord": 19,
+      "referencia": "1443131874548645939",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1443133317653200948",
+      "texto_sha256": "76a70848510efc7d1dd3abc14b4dcc96e53532b425639169aeff142df61b8788",
+      "adjuntos": []
+    },
+    {
+      "id": "1443134823563657218",
+      "fecha_utc": "2025-11-26T07:02:34.086000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\nTambién puedo traer bichitos y hacerlos graaaaandes!!, o traer amiguitos grandes también, o me puedo hacer un amiguito grande también, también me enseñaron a camuflajearme bien, por ejemplo, la vez que ayude a Tezca a decirle lo que la mujer azul amable hacía con el señor malo, grosero y gruñón, nadie me había visto, me hice bolita y pensaron que era una plantita, hasta que los hombres azules y groseros me agarraron de aquí\n\n**Me señalé el cuello**\n\ny me enseñaron los dientes, así gggrrr y me dijeron que me iban a comer",
+      "mensaje_sha256": "678a1ee8e041885e0a5a9e1607f337dd4c18a48b895158792d5e7d677e92b4c4",
+      "tipo_discord": 19,
+      "referencia": "1443133317653200948",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1443134823563657218",
+      "texto_sha256": "db0d7ed8e6df60e4b34687b4f9dd786f560619ee5052d6e606b592ec59a679ca",
+      "adjuntos": []
+    },
+    {
+      "id": "1443136094060412939",
+      "fecha_utc": "2025-11-26T07:07:36.996000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Thiary: Ya ya ya... **Dice mientras mueve la mano en señal de no hacerte mucho caso** Tezca? El ninja? Así que te envío a ti para hacer su trabajo... Debería haberme ahorrado unas monedas con él... Pero, ahora que lo dices... Creo que ya se en que me podrías ayudar **Sonríe de oreja a oreja** ¿Has dicho que te puedes volverte un amigo grande? ¿Puedes hacerte como Arwen y ser un amigo pequeñiiiiito?",
+      "mensaje_sha256": "4a03c37e0b79b30e8db88f90258585ca5646b1777a4a1896c12f9b38da5e107a",
+      "tipo_discord": 19,
+      "referencia": "1443134823563657218",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1443136094060412939",
+      "texto_sha256": "bc2773d3a881e9b120756238e21cbde7420faf1b9f81e8fab71328bc5eb6ade7",
+      "adjuntos": []
+    },
+    {
+      "id": "1443136618667049000",
+      "fecha_utc": "2025-11-26T07:09:42.072000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": "2025-11-26T07:10:08.397000+00:00",
+      "texto": "Chanecuxtli:\nSisisi, si puedo, puedo hacerme muy pequeñita, la vez que conocí a la mujer azul amable y al hombre grosero y gruñón, era una mosquita, y me puse cerca de ellos y no sabía que era yo hasta que hice PUFF y le solté un picotazo en la mano al hombre gruñón por haber hecho llorar a Arwen",
+      "mensaje_sha256": "8c39476eecef2f82e9f6269fc58dba039526974f3197dceb9851927e71864693",
+      "tipo_discord": 19,
+      "referencia": "1443136094060412939",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1443136618667049000",
+      "texto_sha256": "a6844326e7fed127ae6fba4ed82bd4dfcc67185d84bc8e326b81258728a56ffa",
+      "adjuntos": []
+    },
+    {
+      "id": "1443138765689454635",
+      "fecha_utc": "2025-11-26T07:18:13.962000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Thiary: ¿No te caía bien el señor gruñón? **Se acerca a ti como para decirte un secreto** Yo creo que no era tan gruñón como aparentaba **Levanta la cabeza con una sonrisita nostàlgica** Pues necesitarás de esos truquitos tuyos, ¿podrias espiar a los hombres azules que hay por palacio y a ese general llamado Whell? ¿Le harías este favor a Thiary? Serias una nueva miembro de los Cuchillas Negras y te pagaría por ello y podrías comprarte... *No se que compra un pollo*...eeeeh, más semillas o lo que sea",
+      "mensaje_sha256": "486f42f5b5cfc486dd3b0634c44c2ebc208f6d77f3e7ace6b1564e937f251315",
+      "tipo_discord": 19,
+      "referencia": "1443136618667049000",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1443138765689454635",
+      "texto_sha256": "f2d966dc34a4a51d903d80c4caab31fad5986c631ea7bb9960c6303ce5ce4c5d",
+      "adjuntos": []
+    },
+    {
+      "id": "1443139314212147333",
+      "fecha_utc": "2025-11-26T07:20:24.740000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n**Me levanté sobre la barra y respondí haciendo el saludo militar**\n\nSi puedo, pío!, yo voy a espiar a los hombres azules y al General llamado Whell!!\n\n**Sonreí con ternura**\n\nQué es espiar?",
+      "mensaje_sha256": "4d5d34d8b933dff4a986602e0533108bcf8bd78af233b9b4ff444b42bf24c78e",
+      "tipo_discord": 19,
+      "referencia": "1443138765689454635",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1443139314212147333",
+      "texto_sha256": "27452331ab4ded5f4e7a8cca60b98361fe2fd1d4173e7ccc65db8f38a386c03b",
+      "adjuntos": []
+    },
+    {
+      "id": "1443140385156366421",
+      "fecha_utc": "2025-11-26T07:24:40.073000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Thiary: **Facepalm de la ladrona al escuchar eso último** Ay... Pues te acercas a ellos en forma de algo pequeñitos. Los escuchas atentamente, los sigues a ver que hacen y sobre todo, que no te vean",
+      "mensaje_sha256": "f3a0dccfa1489701ea188430e3a081c7a35eb59fdda6246aab11a8a2311568cc",
+      "tipo_discord": 19,
+      "referencia": "1443139314212147333",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1443140385156366421",
+      "texto_sha256": "fa01e2369dfd137a090a26d227b6989ae6044532950260fb85abe3f3fc03357a",
+      "adjuntos": []
+    },
+    {
+      "id": "1443140967128371230",
+      "fecha_utc": "2025-11-26T07:26:58.826000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\nAaah, lo mismo que hacía cuando estaba la mujer azul amable y el hombre gruñón, sisisi, si puedo hacerlo y si se hacerlo, pío \n\n**Sin perder la posición, volví a sonreírle a Thiary**\n\nYo voy a espiar a los hombres azules y al general llamado Whell y te diré lo que dicen, pío",
+      "mensaje_sha256": "e5efc2914736911256175e9a2cbd1c6c529d2c9654fd88ec91259ca142e28e5f",
+      "tipo_discord": 19,
+      "referencia": "1443140385156366421",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1443140967128371230",
+      "texto_sha256": "a4bd0e19d4fed0d42b12c73d4c7bb197c21c68f0d9d7eb279381bc3e759fddca",
+      "adjuntos": []
+    },
+    {
+      "id": "1443142145048449134",
+      "fecha_utc": "2025-11-26T07:31:39.664000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Thiary: Esa es la actitud **Se agacha debajo de la barra para agarrar algo, y luego lo ata a una fina cadena de metal. Te lo coloca en el cuello y ves un anillo negro de los Cuchillas Negras** Ahora eres de mis chicos... No enseñes mucho el collar o te lo querrán robar. Ah, y no le digas a nadie que trabajas para mi, vale?",
+      "mensaje_sha256": "bfc1befdffba76c43497bf2ec902ae661a0d5f10367cda8c6bc6ec08f8e969ad",
+      "tipo_discord": 19,
+      "referencia": "1443140967128371230",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1443142145048449134",
+      "texto_sha256": "497aa764bf27b0d98f4435d19bb83f1851aad9cf01d94d0635f695d1d0dce99a",
+      "adjuntos": []
+    },
+    {
+      "id": "1443143465016885414",
+      "fecha_utc": "2025-11-26T07:36:54.369000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n**Mire el anillo que ahora estaba colgando de mi cuello y empecé a piar de felicidad**\n\nSI PÍO!! SI PÍO!! YO TE VOY A AYUDAR PÍO!!, y no le diré a nadie, pío, soy buena guardando secretos, Pío, así como la vez que me acerqué al cuarto de la mujer azul amable y el hombre gruñón y empezaron a gritar: Ah~ Ah~ Si~ Así~\n\n**Imite aquellos sonidos de igual manera que hice frente a Kurobane**\n\nY cuando le dije a Kurobane, me dijo que no dijera eso y no lo he dicho, pío",
+      "mensaje_sha256": "aa5b6da7dcef398097fb325dba3526838f62a99f40c19110c0c01f02d508e789",
+      "tipo_discord": 19,
+      "referencia": "1443142145048449134",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1443143465016885414",
+      "texto_sha256": "744183699aa8220538243e73fdfad6f9567db443dfc03acf6c73a494122d491c",
+      "adjuntos": []
+    },
+    {
+      "id": "1443144915327385690",
+      "fecha_utc": "2025-11-26T07:42:40.150000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Thiary: **Cuando empiezas a piar te cierra el pico con una mano** No me hacen falta tantos detalles de esos dos... Y vigila que no te pillen, puede ser peligroso, no me gustaria que te pasara nada **Dice con  una cara tiste mientras te suelta el pico** Porque si me fallas **Su cara cambia a una sombría y malvada**...debo ser yo quien te lo haga pagar.",
+      "mensaje_sha256": "c8aabe10938d3373926080f9da35e351be0823393c02293e77d643a8146a23d5",
+      "tipo_discord": 19,
+      "referencia": "1443143465016885414",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1443144915327385690",
+      "texto_sha256": "4c7cab17a403d38e5eb23903d800a0a20ea9e3f3df3a57027e27d5da0bfbc1b6",
+      "adjuntos": []
+    },
+    {
+      "id": "1443145412268523563",
+      "fecha_utc": "2025-11-26T07:44:38.630000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n**Pasé saliva al ver esa cara de nuevo, mis hojitas se agitaron con algo de fuerza al sentir el inminente peligro**\n\nPío?, s..si, yo..yo no voy a.. a fallar, pío, yo.. yo puedo\n\n**Entrecerré los ojitos con una sonrisa de nervios**",
+      "mensaje_sha256": "f8e09f195d11b683c89f78b519bc01419ff2fea3dab1d654f9b8e2ed1f5479ef",
+      "tipo_discord": 19,
+      "referencia": "1443144915327385690",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1443145412268523563",
+      "texto_sha256": "269d578d1898e3196c65d753c7f22f238215a3600d9fc4d0f0aa4a401ba30979",
+      "adjuntos": []
+    },
+    {
+      "id": "1443146308843208774",
+      "fecha_utc": "2025-11-26T07:48:12.390000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Thiary: **Notas un suave Tap Tap en la cabeza. La líder de la cofradía te ofrece una sonrisa amable y ves que te lanza la bolsa de dinero que robaste** Toma, quédatelo, cómprate algo bonito de mi parte **Rellena el plato con mas semillas**",
+      "mensaje_sha256": "24f617ecf9f350d02a6da8a2655282694ca7397b38ac7b766101b33eac4bd28a",
+      "tipo_discord": 19,
+      "referencia": "1443145412268523563",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1443146308843208774",
+      "texto_sha256": "ee9c05361697bb3d586e780a14ab33cbc53522f17547f5f2c7f24f4bd48a1949",
+      "adjuntos": []
+    },
+    {
+      "id": "1443146813006676030",
+      "fecha_utc": "2025-11-26T07:50:12.592000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": "2025-11-26T07:51:12.889000+00:00",
+      "texto": "Chanecuxtli:\nSiiiiii!!\n\n**Me volví a sentar en la orilla de la barra para acabarme las semillas mientras movía mis patitas de nuevo, después pensaba en tomar una siesta y al despertar me iría a dónde están los hombres azules y el General llamado Whell**",
+      "mensaje_sha256": "feb0dbebfedc1499324f8301802d7ec101134bce91dc391049896914b6d8e6bd",
+      "tipo_discord": 19,
+      "referencia": "1443146308843208774",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1443146813006676030",
+      "texto_sha256": "e411ad91b304302a391f27abb62ab6d63cdb49f8f9ef77fc4fd34cf9a682df0c",
+      "adjuntos": []
+    },
+    {
+      "id": "1443148007465029713",
+      "fecha_utc": "2025-11-26T07:54:57.373000+00:00",
+      "fecha_local": "2025-11-26",
+      "editado_utc": null,
+      "texto": "Thiary: **Cuando la criatura se marcha, la mujer abre un cajón que hay debajo de la barra. Abre un gran expositor de anillos en la que hay varios huecos vacíos, encima de ellos, una lucecita se ilumina o no, depende del estado del portador. Pasa sus dedos por ellos suavemente pero, se para en un hueco...** *Je, muy listo...*\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "36aa6235f6c8a6b3899935c7547cf707d806184a55ddc11778828e18b3066edd",
+      "tipo_discord": 19,
+      "referencia": "1443146813006676030",
+      "url_discord": "https://discord.com/channels/946724148628041748/1379945696089604209/1443148007465029713",
+      "texto_sha256": "12fa65cc6e224aa256f0872955298bca96cad1d1d826d91aa0577cca8ec5971f",
+      "adjuntos": []
+    }
+  ]
+}

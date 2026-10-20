@@ -1,0 +1,79 @@
+{
+  "id": "x-1552224226310758421",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1552224226310758421",
+  "hilo_id": "1524091803647741996",
+  "hilo_nombre": "Jungla - En alguna parte de Xoltacán",
+  "titulo": "Guayacán cree llegar por fin a Iktan",
+  "resumen": "Perdido durante semanas, encuentra una posible salida y se aferra al encargo de Leona.",
+  "relato": "Guayacán camina exhausto después de semanas perdido por la jungla. Se pregunta dónde están sus otros dos compañeros y cómo ha sobrevivido. La frustración con los insectos lo lleva a golpear un árbol antes de obligarse a pensar con calma.\n\nSe anima recordando a Leona, su enseñanza y la promesa de salvar Cuicapalli. Quiere saber si el jefe se ha recuperado y si su maestra sigue bien, pero no dispone de noticias. Esos deseos no actualizan lo ocurrido realmente en la aldea.\n\nAl fin cree reconocer las afueras de Iktan. La propia narración introduce la duda de si ve la ciudad o necesita creerlo para seguir. Termina avanzando hacia ese objetivo, sin mostrar una entrada confirmada, reencuentro o informe entregado.",
+  "participantes": [
+    "Guayacán"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1552224226310758421",
+      "afirmacion": "Guayacán sigue perdido y cree distinguir Iktan mientras recuerda su promesa a Leona.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "El cierre mantiene incertidumbre sobre la llegada.",
+    "No atribuirle conocimiento de la muerte de Eromov que aparece en otro hilo de acontecimientos.",
+    "Los sentimientos hacia Leona permanecen pensamientos privados."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-09-23T07:44:54.484000+00:00",
+  "fin_utc": "2026-09-23T07:44:54.484000+00:00",
+  "fecha_local": "2026-09-23",
+  "intervalo": {
+    "anterior": 66,
+    "siguiente": 69,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 66,
+        "fecha": "2026-09-22",
+        "inicio_referencia_utc": "2026-09-22T18:20:03+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241"
+      },
+      {
+        "capitulo": 69,
+        "fecha": "2026-10-08",
+        "inicio_referencia_utc": "2026-10-08T18:17:02+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1552224226310758421",
+      "fecha_utc": "2026-09-23T07:44:54.484000+00:00",
+      "fecha_local": "2026-09-23",
+      "editado_utc": "2026-09-23T07:45:05+00:00",
+      "texto": "Guayacan: \n**Tras semanas perdido como el pobre diablo que es, extrañado del como, preocupado por done se encuentren sus otros 2 compañeros, y aun sorprendido de como ha podido sobrevivir en estos ultimos dias, continua caminando como alma que lo lleva el diablo, hastiado de los insectos de la jungla**\n-RGHGHH!!! MALDITAS PLAGAS! COMO LAS ODIO! \n**observa a sus alrededores, intentando hacer logica de toda esta maleza**\n-Donde mierdas esta esa ciudad?! MALDITA SEA!\n**da un puñetazo a un arbol, respirando agitado de la frustracion**\n-....\n**cierra los ojos, intentando entrar en sus cabales**\n-...enojarme no lograra nada...mi maestra depende de mi! Si no fuera asi de idiota no estaria en esta situacion! Tienes que concentrarte chico! \n**se palmea sus mejillas plumiferas, intentando ubicarse**\n-Solo sigue el sonido, eventualmente tendras que llegar a esa maldita ciudad...\n\n\n**continuo su travesia, extenuado de todo este asunto, con las preguntas revolviendole la cabeza: ¿Estara Cuicapalli bien? ¿El actual libre se habra recuperado? ¿Y que seria de su maestra, Leona? ¿Seguira tan vivaz como siempre? Pensar en su figura, su sonrisa, su energia desbordante y ese espiritu luchador le daba confort..un confort que para este pobre imbecil era dificil de explicar, pero que le daba un nuevo sentido a su vida**\n-*\"Llegare Leona...llegare...te lo prometo...salvaremos Cuicapalli y luego podre demostrarte mi valia! Hare lo que sea por ti..!\"*\n**Se decia el joven a si mismo, convencido de que podria alcanzar cualquier cosa mientras ella estuviera a su lado, mientras le diera la energia pra seguir adelante, mientras pudiera continuar entrenando, mejorando, alcanzando la maxima grandeza y estar a la par de su fuerza inagotable**\n\n\n**Y como si la suerte le sonriera, al fin, tras dias de penurias en la jungla, las afueras de Iktan se presentaban ante el, o eso era lo que su espiritu deseaba pensar, lo que su mente necesitaba creer para no volverse loco en una jungla tan omnimiosa, salvaje y plagada de sus bichos insoportables, y con este objetivo que arde en su pecho y desea completar**\n\n🔴 Fin de la escena 🔴",
+      "mensaje_sha256": "266a0b20d8230e149d946c0a161bdb2375d42f1f6103f37f60cec7bfed026ad9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1552224226310758421",
+      "texto_sha256": "091528af333d0feedcb092aef20c7fae40d535a309518b2c695021a0c76f139c",
+      "adjuntos": []
+    }
+  ]
+}

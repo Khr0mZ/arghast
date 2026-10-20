@@ -1,0 +1,80 @@
+{
+  "id": "k-1441775344251047940",
+  "campana": "kuroto",
+  "unidad_revision": "k-1441775344251047940",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Shirz se declara prisión de Bhaal",
+  "resumen": "La voz de Bhaal exige recuperar un arma en Brunami y Shirz se resiste.",
+  "relato": "Shirz vuelve a la base después de ayudar en la ciudad, marcado por la visión de cuerpos calcinados y afectados por necrosis. Bhaal irrumpe en su mente y se atribuye la amenaza sobre todo cuanto lo rodea. Le ordena ir a Brunami, cerca del Bosque del Valle, matar al portador de su arma y recuperarla para volver a estar completos. El clérigo se apoya en una pared y, con dificultad, rechaza obedecer: se define como prisión del dios, no como su peón. La voz amenaza con romper los barrotes que lo contienen y se aleja entre risas, dejando a Shirz sin aliento. No se inicia el viaje ni se identifica dentro de la narración al portador.",
+  "participantes": [
+    "Shirz",
+    "Bhaal"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1441775344251047940",
+      "afirmacion": "Bhaal ordena en la mente de Shirz recuperar su arma en Brunami y el clérigo se niega a servirle.",
+      "tipo": "pensamiento"
+    }
+  ],
+  "notas": [
+    "El intercambio mental y las amenazas no son conocimiento compartido con los demás.",
+    "El aparte dirigido a un jugador y el nombre Vince no identifican por sí solos al portador en la ficción; no se incorpora una identidad de otra campaña.",
+    "Las atribuciones de Bhaal sobre la destrucción son palabras del dios, no demostración causal independiente."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-11-22T13:00:28.960000+00:00",
+  "fin_utc": "2025-11-22T13:00:28.960000+00:00",
+  "fecha_local": "2025-11-22",
+  "intervalo": {
+    "anterior": 168,
+    "siguiente": 169,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1442596662206922943",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 168,
+        "fecha": "2025-11-20",
+        "inicio_referencia_utc": "2025-11-20T19:03:40+00:00",
+        "fin_estimado_utc": "2025-11-20T22:00:36+00:00",
+        "duracion_video_segundos": 10616,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816"
+      },
+      {
+        "capitulo": 169,
+        "fecha": "2025-11-24",
+        "inicio_referencia_utc": "2025-11-24T19:23:51+00:00",
+        "fin_estimado_utc": "2025-11-24T22:32:50+00:00",
+        "duracion_video_segundos": 11339,
+        "tipo_referencia": "aviso_de_contraste",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1442596662206922943"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida. Una hora tomada de un aviso con título discrepante se utiliza solo como referencia aproximada de ese día."
+  },
+  "fuentes": [
+    {
+      "id": "1441775344251047940",
+      "fecha_utc": "2025-11-22T13:00:28.960000+00:00",
+      "fecha_local": "2025-11-22",
+      "editado_utc": "2025-11-22T13:01:34.788000+00:00",
+      "texto": "Shirz: **El shadar-kai volvía a la base después de ayudar a los demás en la ciudad. Cuerpos calcinados, derretidos...envueltos en un hedor de putrefacción y muerte que solo puede dejar la necrosis...**\n\nBhaal: *Te lo advertí, mi elegido, te advertí que me apoderaria de todo aquello que te rodea.* **Una risa terrible resuena en la mente del clérigo** *¡Así que obedeceme! Ves a Brunami, cerca del Bosque del Valle, el portador de mi Arma está allí. Matarle y recuperala... Y así volveremos a estar... Completos...*\n\nShirz: **El clérigo de la Muerte se resiste, coloca una mano en la cabeza y se apoya en la pared** No.... Soy tu prisión y no tu peon...\n\nBhaal: *Pues entonces... Pronto romperé esos barrotes que me detienen...* **La risa se alejaba dejando al shadar-kai respirando con dificultad**\n\n<@220602485977382912> (I coming for you, Vince!)\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "f8dc171f0ca675a3c2a97892546e8bc6b7b33ab3c2a8b110a9dd8afef08bc558",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1441775344251047940",
+      "texto_sha256": "a81194f6107c46f75eaff54312aa383714c0f28241549cad9ab2e222c1f151f6",
+      "adjuntos": []
+    }
+  ]
+}

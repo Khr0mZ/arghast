@@ -1,0 +1,80 @@
+{
+  "id": "x-1501220172042866839",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1501136594319441992",
+  "hilo_id": "1465411590789795962",
+  "hilo_nombre": "Shiaru - El ron de Bonny",
+  "titulo": "Citlali espera encadenada en la cama de Bonny",
+  "resumen": "Le preocupa el huevo y quiere volver con los demás.",
+  "relato": "Citlali sigue tendida en la cama de Bonny, con dolor en la mejilla y una cadena que limita sus movimientos. No sabe cuánto durará la retención. Piensa que debe cuidar el huevo y regresar porque los demás pueden estar en peligro. La ausencia de marcas nuevas le hace creer que siguen vivos, aunque no puede comprobarlo. La breve intervención deja clara su voluntad de salir, sin mostrar un intento de fuga ni una liberación.",
+  "participantes": [
+    "Citlali"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1501220172042866839",
+      "afirmacion": "Citlali quiere salir del cautiverio y volver a cuidar el huevo.",
+      "tipo": "pensamiento"
+    }
+  ],
+  "notas": [
+    "Titular a Citlali reina de las hadas y llamar pegaso al ocupante del huevo son errores de Poncelot.",
+    "La escena muestra retención real, aunque la búsqueda del caballero no logre localizarla.",
+    "Las lecturas que hace el gnomo de una decoración lujosa son interpretaciones cómicas de desperfectos.",
+    "No asociar automáticamente nuevos tatuajes a muertes comprobadas solo por la creencia de Citlali."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2026-05-05T13:53:00.337000+00:00",
+  "fin_utc": "2026-05-05T13:53:00.337000+00:00",
+  "fecha_local": "2026-05-05",
+  "intervalo": {
+    "anterior": 28,
+    "siguiente": 29,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1499123028947370107",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1502008201464250389",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 28,
+        "fecha": "2026-04-29",
+        "inicio_referencia_utc": "2026-04-29T18:59:27+00:00",
+        "fin_estimado_utc": "2026-04-29T21:04:36+00:00",
+        "duracion_video_segundos": 7509,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1499123028947370107"
+      },
+      {
+        "capitulo": 29,
+        "fecha": "2026-05-07",
+        "inicio_referencia_utc": "2026-05-07T18:04:02+00:00",
+        "fin_estimado_utc": "2026-05-07T20:45:23+00:00",
+        "duracion_video_segundos": 9681,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1502008201464250389"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1501220172042866839",
+      "fecha_utc": "2026-05-05T13:53:00.337000+00:00",
+      "fecha_local": "2026-05-05",
+      "editado_utc": null,
+      "texto": "Mamá Citlali:\n**Seguía acostada sobre la cama de Bonny, no dejaba de suspirar mientras sentía aún el dolor en mi mejilla por aquella herida**\n\n*Cuánto tiempo me tendrá retenida aquí?, ya es demasiado... Necesito cuidar el huevo y regresar, los niños están en peligro... Al menos no han salido mas tatuajes, eso significa que siguen vivos*\n\n**La cadena no me dejaba moverme a grandes distancias, tampoco es como que me moviera tanto**\n\n*Ya quiero irme de aquí...*",
+      "mensaje_sha256": "1b45714cc86943009d0239c418373dbc8692defbdbe028ba4f696333af92b4bc",
+      "tipo_discord": 19,
+      "referencia": "1501136594319441992",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1501220172042866839",
+      "texto_sha256": "e69ca41237a64462b77e9d8352e9a228c42211c8f4820c00ff66a0855dcd58f3",
+      "adjuntos": []
+    }
+  ]
+}

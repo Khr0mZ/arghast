@@ -1,0 +1,80 @@
+{
+  "id": "x-1547366869168558241",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1546998488703967303",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "Un concurso desvía a Ilikar de su búsqueda",
+  "resumen": "La promesa de una cena romántica como premio lo atrae hacia la taberna.",
+  "relato": "Ilikar se aleja convencido de que Tortas será el mejor yunque para su equipo. Recuerda su paciencia y resistencia, y avanza por Iktan con ese objetivo. Un anuncio en la puerta de la taberna cambia su rumbo: esa noche habrá un concurso de culturismo y el premio será una cena romántica para dos en la nueva terraza. El goliat repasa mentalmente sus poses y entra decidido a impresionar al público. La fuente no muestra la competición ni adjudica el premio.",
+  "participantes": [
+    "Ilikar"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1547366869168558241",
+      "afirmacion": "Ilikar entra a la taberna al ver el concurso de culturismo, antes de reclutar a Tortas.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Imagen adjunta de Archi y Pinky junto a la choza vista completa; funciona como ilustración del encuentro.",
+    "Las especulaciones de Ilikar sobre que Coyote sea un pájaro son un malentendido cómico, no una identidad nueva.",
+    "El traslado inconsciente no muestra el procedimiento posterior ni permite inventar una agresión concreta.",
+    "La acusación de ser la criatura más buscada es una hipérbole del narrador del mensaje, sin expediente independiente."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2026-09-09T22:03:30.296000+00:00",
+  "fin_utc": "2026-09-09T22:03:30.296000+00:00",
+  "fecha_local": "2026-09-10",
+  "intervalo": {
+    "anterior": 59,
+    "siguiente": 60,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1546226980192649230",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1547671000508928031",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 59,
+        "fecha": "2026-09-06",
+        "inicio_referencia_utc": "2026-09-06T18:28:05+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1546226980192649230"
+      },
+      {
+        "capitulo": 60,
+        "fecha": "2026-09-10",
+        "inicio_referencia_utc": "2026-09-10T18:11:36+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1547671000508928031"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1547366869168558241",
+      "fecha_utc": "2026-09-09T22:03:30.296000+00:00",
+      "fecha_local": "2026-09-10",
+      "editado_utc": "2026-09-09T22:07:13.985000+00:00",
+      "texto": "**Ilikar se alejó de aquel lugar, tras despedirse de los demás**\n\n*El debe ser nuestro yunque, no hay nadie mejor* - **murmuró Ilikar, avanzando paso a paso por las calles de Iktan con rumbo fijo.**\n\n*Aquel que estuvo sobre una piedra durante siglos, aquel que logró engañar a un pueblo entero por su paciencia y su constitución, él es nuestro pilar.* - **la imagen de Tortas se formaba nítida en su cabeza.**\n\n**Una pequeña sonrisa asomó al rostro del gigante, no era alegría pura, ni maldad, sino algo que se le asemejaba. La sonrisa de la ambición. Esa que afloraba de forma natural cada vez que pensaba en cómo superaría un nuevo desafío. La sonrisa de un campeón.**\n\nIlikar: Veamos si el maestro est... - **las palabras murieron en sus labios. Su mirada se clavó en algo junto a las puertas de la taberna, dejándole la mente en blanco por un instante.**\n\n**El camino del gigante cambió en un solo segundo. Ante él se presentaba un nuevo desafío que no podía rechazar. Ya era hora de impresionar a Iktan con aquellas posturas que había perfeccionado durante años. Su expansión dorsal, el pecho de perfil, su doble bíceps... por su mente empezaron a desfilar en bucle sus mejores poses ganadoras.**\n\n**Empujó la puerta sin titubear, dejando a su espalda el silencio de la calle vacía para irrumpir en el ruidoso calor del atestado local, pisando más fuerte y confiado que nunca.**\n\n**Atrás, clavado en la madera junto a la puerta, quedó el culpable de su desvío. Un gran anuncio dominado por el dibujo de un hombre musculoso. Debajo de la figura, unas letras llamativas: \"Concurso de culturismo esta noche. Premio: Cena Romántica para dos, inaugurando la nueva terraza de verano\".**\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "212ca7e66240106903309285ea919043bc6344690dc648a64433a53dce8df417",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1547366869168558241",
+      "texto_sha256": "e4bd90816d0dc8c60e7bb22ff358b68dbd6c5b7c9505555f92235e04e51031d7",
+      "adjuntos": []
+    }
+  ]
+}

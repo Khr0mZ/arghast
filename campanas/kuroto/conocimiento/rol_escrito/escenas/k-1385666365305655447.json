@@ -1,0 +1,77 @@
+{
+  "id": "k-1385666365305655447",
+  "campana": "kuroto",
+  "unidad_revision": "k-1385666365305655447",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Kazuki ayuda a los civiles desplazados",
+  "resumen": "El noble colabora en poner a salvo a quienes llegan a Sho.",
+  "relato": "Después de regresar y descansar, Kazuki ayuda a poner a salvo a los civiles que llegan de distintos lugares de Kuroto. Sigue las instrucciones de los soldados y se mantiene dispuesto a combatir a cualquier yokai que aparezca cerca. La escena no describe un encuentro concreto ni confirma una muerte de yokai.",
+  "participantes": [
+    "Kazuki Noen"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1385666365305655447",
+      "afirmacion": "Kazuki ayuda a evacuar civiles siguiendo las órdenes de los soldados.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La disposición condicional a combatir no se convierte en una batalla sucedida."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-06-20T17:03:25.925000+00:00",
+  "fin_utc": "2025-06-20T17:03:25.925000+00:00",
+  "fecha_local": "2025-06-20",
+  "intervalo": {
+    "anterior": 130,
+    "siguiente": 131,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1385318614470496400",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387130423632724151",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 130,
+        "fecha": "2025-06-19",
+        "inicio_referencia_utc": "2025-06-19T18:01:24+00:00",
+        "fin_estimado_utc": "2025-06-19T21:47:20+00:00",
+        "duracion_video_segundos": 13556,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1385318614470496400"
+      },
+      {
+        "capitulo": 131,
+        "fecha": "2025-06-24",
+        "inicio_referencia_utc": "2025-06-24T18:00:45+00:00",
+        "fin_estimado_utc": "2025-06-24T21:04:44+00:00",
+        "duracion_video_segundos": 11039,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387130423632724151"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1385666365305655447",
+      "fecha_utc": "2025-06-20T17:03:25.925000+00:00",
+      "fecha_local": "2025-06-20",
+      "editado_utc": null,
+      "texto": "Kazuki: \n\n**Después de volver y descansar, estaría ayudando a poner a salvo a los civiles que van llegando de todas partes de Kuroto, siguiendo las ordenes de los soldados mientras si ve algún yokai cerca terminaría con él**\n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "9eb044feaaaa205d1adff2f97f4cbe47ff815b89ccd6cd105fbbcb5f3f30bd6a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1385666365305655447",
+      "texto_sha256": "0dbfff0273ad736f4e70fae28f0f12d14914ffdc912818a4701498c6305c86ef",
+      "adjuntos": []
+    }
+  ]
+}

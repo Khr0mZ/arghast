@@ -1,0 +1,357 @@
+{
+  "id": "k-1418239170924646531",
+  "campana": "kuroto",
+  "unidad_revision": "k-1418239170924646531",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Osurai agrede a Seraphina",
+  "resumen": "La sombra controla el cuerpo del ninja y deja a Sera gravemente herida; los mujinas buscan auxilio.",
+  "relato": "Seraphina vuelve a Sho para recoger herramientas que necesita Guxi y encuentra la casa a oscuras. Cree reconocer a Kurobane ante una vela e intenta hablar con él, pero la voz responde que es mejor que el ninja y que su debilidad le ha permitido tomar el control. Sera lo identifica como Osurai y lo enfrenta verbalmente. Cuando intenta escapar, queda inmovilizada. La sombra se aproxima con el rostro marcado de venas oscuras y la hiere repetidamente con un estoque negro mientras presenta la agresión como castigo por una traición que no concreta.\n\nSera llama a Kurobane y le pide reaccionar; Osurai asegura que no está y no volverá, sin que esa afirmación quede comprobada. Después de marcarla con una daga mediante un símbolo que ella reconoce de la habitación del ninja, la deja inconsciente y sangrando. Antes de marcharse amenaza a quienes pretendan seguirlo. Tres mujinas salen aterrados de los arbustos al desaparecer la oscuridad. Tip entra, descubre a Sera y alerta a sus hermanos; uno corre a buscar ayuda mientras los otros dos intentan asistirla con medios limitados por su tamaño. El rescate y la recuperación no se producen todavía en este cierre.",
+  "participantes": [
+    "Seraphina",
+    "Osurai",
+    "Tip",
+    "Hermanos de Tip"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1418239170924646531",
+      "afirmacion": "Sera vuelve a recoger cosas de Guxi.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1418241014359003156",
+      "afirmacion": "La voz declara que la debilidad de Kurobane le ha permitido tomar el control.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1418241371969687552",
+      "afirmacion": "Seraphina identifica al interlocutor como Osurai.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1418241908467171500",
+      "afirmacion": "Sera queda inmovilizada ante Osurai.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1418245097459421225",
+      "afirmacion": "Osurai la hiere con el estoque y llama a su agresión castigo por traición.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1418247368716845137",
+      "afirmacion": "Osurai afirma que Kurobane no volverá y marca a Sera con una daga.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1418254129855336590",
+      "afirmacion": "Seraphina pierde el conocimiento.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1418254924612898817",
+      "afirmacion": "Osurai se marcha después de amenazar a quienes lo sigan.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1418258784392052939",
+      "afirmacion": "Tres mujinas descubren a Sera; uno sale a buscar auxilio y dos intentan ayudar.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La agresión es explícita y se atribuye a Osurai en el cuerpo del ninja; no se adjudica automáticamente la voluntad del ataque a Kurobane.",
+    "La proclamación de que Kurobane ha desaparecido para siempre es del agresor, sin confirmación narrativa.",
+    "El símbolo grabado no recibe nombre ni efecto mágico comprobado en este fragmento.",
+    "Seraphina queda viva, inconsciente y gravemente herida, sin inventar muerte, curación ni identidad del futuro auxiliador."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-09-18T14:16:07.958000+00:00",
+  "fin_utc": "2025-09-18T15:34:11.189000+00:00",
+  "fecha_local": "2025-09-18",
+  "intervalo": {
+    "anterior": 157,
+    "siguiente": 158,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1417940586811363481",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1418299599050899618",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 157,
+        "fecha": "2025-09-17",
+        "inicio_referencia_utc": "2025-09-17T18:29:21+00:00",
+        "fin_estimado_utc": "2025-09-17T21:15:50+00:00",
+        "duracion_video_segundos": 9989,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1417940586811363481"
+      },
+      {
+        "capitulo": 158,
+        "fecha": "2025-09-18",
+        "inicio_referencia_utc": "2025-09-18T18:15:55+00:00",
+        "fin_estimado_utc": "2025-09-18T20:58:06+00:00",
+        "duracion_video_segundos": 9731,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1418299599050899618"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1418239170924646531",
+      "fecha_utc": "2025-09-18T14:16:07.958000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": "2025-09-18T14:16:19.016000+00:00",
+      "texto": "Seraphina:\n\n**Regresé a la base por unas cosas que necesitaba Guxi y que había dejado en la habitación, nunca tenía las cosas en orden y por eso era demasiado olvidadizo**\n\nLe voy a poner las herramientas en un hilo y se las voy a colgar en el cuello, a ver si así no se le olvidan...",
+      "mensaje_sha256": "2a4bb376c53e6493aba1174363734fcc062ebb6c5fd6f9e1f7e88345d2b6c415",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418239170924646531",
+      "texto_sha256": "081cc42ac8f5dce630a37459174a70d740955e9ef3447eb37e82155fdd3c2dad",
+      "adjuntos": []
+    },
+    {
+      "id": "1418239690620010649",
+      "fecha_utc": "2025-09-18T14:18:11.863000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": "2025-09-18T14:18:34.635000+00:00",
+      "texto": "**La base está en completa oscuridad, solo ves a una persona que conoces bien sentado delante de una pequeña vela, escuchas una risa muy siniestra crees que sabes de quien es, al escuchar tu voz**",
+      "mensaje_sha256": "17b779792a6f8cab8a0d184a6f15db9ca146ed7ba42a7828acdb990d1801a030",
+      "tipo_discord": 19,
+      "referencia": "1418239170924646531",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418239690620010649",
+      "texto_sha256": "23f980f4f1f22de90a4cddad78431b909eda58db7b20b3b12a32c233c8d74313",
+      "adjuntos": []
+    },
+    {
+      "id": "1418240286353653860",
+      "fecha_utc": "2025-09-18T14:20:33.897000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\n**Un escalofrío recorrió todo mi cuerpo al ver esas penumbras, sabía perfectamente de quien se trataba y también sabía que las cosas no habían terminado muy bien que digamos**\n\nCopito?, quieres que hablemos?...",
+      "mensaje_sha256": "6842babe61551eba68ba99c6fa832cd5818ceabe2665948df59458886f1003dc",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418240286353653860",
+      "texto_sha256": "e3c9374aa9886049ad8cf70db57e2fb5550c59990349b990ce8ed10ab2ac8d77",
+      "adjuntos": []
+    },
+    {
+      "id": "1418241014359003156",
+      "fecha_utc": "2025-09-18T14:23:27.467000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": null,
+      "texto": "???:\n\nCopito? Soy mucho mejor que él. \n\n**Comenta con un tono frio sin moverse, pero sientes que la voz llega de todas partes de la oscuridad**\n\nY él está tan débil, que me ha dejado tomar el control de la situación.",
+      "mensaje_sha256": "2ff39a49c4d099ebd9bda64df32555febd78478c061b4df6016351c3f8db41b0",
+      "tipo_discord": 19,
+      "referencia": "1418240286353653860",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418241014359003156",
+      "texto_sha256": "0d84ede8687a3c3d154e444ecc9b8901bc2d730c0019eee5f6bf631591ab0960",
+      "adjuntos": []
+    },
+    {
+      "id": "1418241371969687552",
+      "fecha_utc": "2025-09-18T14:24:52.728000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\nTu no deberías de estar aquí, sabes perfectamente que ese cuerpo no te pertenece, Osurai \n\n**Mis orejas se movían a todas direcciones, no estaba segura si era una ilusión lo que estaba delante mío y tenía que estar atenta a todo**",
+      "mensaje_sha256": "f3929d7306a9f7d982798b944f4d8c4cd5358ff7bfbea124015dd42985da91df",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418241371969687552",
+      "texto_sha256": "746daebf6ac462eb0e11980a2fdb25a2c9492408091b7c0141e809dc32df162f",
+      "adjuntos": []
+    },
+    {
+      "id": "1418241908467171500",
+      "fecha_utc": "2025-09-18T14:27:00.639000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": null,
+      "texto": "Osurai:\n\nSeraphina, Seraphina, Seraphina. Actualmente si me pertenece.\n\n**Dice sonriente antes de que de un visto y no visto, notas algo detrás de ti, te sientes inmovilizada**",
+      "mensaje_sha256": "b460c03b1ab7777d2b2ed76635943270337b6db6ac52e394fab42fbf8f7ccffe",
+      "tipo_discord": 19,
+      "referencia": "1418241371969687552",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418241908467171500",
+      "texto_sha256": "72c3098ea5066ab299fd70f5c083ae5266f3f05b326757394f7663a130312872",
+      "adjuntos": []
+    },
+    {
+      "id": "1418242592058904748",
+      "fecha_utc": "2025-09-18T14:29:43.620000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\n**Quise salir corriendo pero mi cuerpo me lo impidió**\n\nOSURAI!! MAS TE VALE QUE TE LARGUES DE AQUÍ!! \n\n**Seguía haciendo fuerza para intentar liberarme**",
+      "mensaje_sha256": "adcf6542b1afe01d0ef740f2aab8331914d20b61f21cadb0b9201595be6b2816",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418242592058904748",
+      "texto_sha256": "3e7a7a39d9f51a35bb80d27a247c94b80286a8095825151ccfcdaee3b8f6feb3",
+      "adjuntos": []
+    },
+    {
+      "id": "1418243651800404008",
+      "fecha_utc": "2025-09-18T14:33:56.282000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": null,
+      "texto": "Osurai:\n\n**Se pone delante de ti, sus ojos son totalmente azules, se le ven unas marcas negras en la cara, como si fueran venas**\n\nShhhh.\n\n**Pone uno de sus dedos encima de sus labios**\n\nEsto va a ser tan, pero que tan divertido. Va a estar de muerte.\n\n**Dice sonriente mientras se acerca lentamente con una sonrisa como la de un maniático, notas que algo te atraviesa uno de los lados**",
+      "mensaje_sha256": "2a99282fe74bdda58e09f033f95e045d7a4fcf1691a0636012080d00806dcf2b",
+      "tipo_discord": 19,
+      "referencia": "1418242592058904748",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418243651800404008",
+      "texto_sha256": "c8ce53cc0a5e672dde2c5a26e23ff0f3cc83181728e8cb2afd09edf9d80b4462",
+      "adjuntos": []
+    },
+    {
+      "id": "1418244195835052115",
+      "fecha_utc": "2025-09-18T14:36:05.990000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": "2025-09-18T14:36:16.729000+00:00",
+      "texto": "Seraphina:\n\n**Un sonido ahogado salió de mi boca, el dolor era tan agudo que no me dió tiempo ni siquiera de gritar**\n\nO...Osurai...",
+      "mensaje_sha256": "78c7cfea72a2e01e9c93668a511cecf449927402dea02b655b623b319f43ef23",
+      "tipo_discord": 19,
+      "referencia": "1418243651800404008",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418244195835052115",
+      "texto_sha256": "48efc602d679779d1155b01b90547435303bfa7574070a0af6ea1f95cdc470b6",
+      "adjuntos": []
+    },
+    {
+      "id": "1418245097459421225",
+      "fecha_utc": "2025-09-18T14:39:40.954000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": null,
+      "texto": "Osurai:\n\nAhórrate las palabras. La traición se paga con sangre.\n\n**Comenta entre risas mientras clava ese estoque negro cerca de puntos vitales para prolongar el sufrimiento**",
+      "mensaje_sha256": "6d01238b4b5c7312844a07609a699609222d62c1a60158be3bf4530dbe744193",
+      "tipo_discord": 19,
+      "referencia": "1418244195835052115",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418245097459421225",
+      "texto_sha256": "5434815e4d891dbbb84c739d462e35b794465e1fcbbe9f0c6ebbe662e399fd11",
+      "adjuntos": []
+    },
+    {
+      "id": "1418245713627709553",
+      "fecha_utc": "2025-09-18T14:42:07.860000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\n**La sangre empezaba a escurrirse de mi boca pero seguía sin gritar**\n\nC..Copito... R..re..a..cci..o..na...\n\n**Intentaba mantenerme despierta pero el dolor estaba cubriendome por completo**",
+      "mensaje_sha256": "a250369adb54e502ed114f6a0f1ba7fcc436536cf8de1046f974b281db0e3759",
+      "tipo_discord": 19,
+      "referencia": "1418245097459421225",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418245713627709553",
+      "texto_sha256": "d1575949c481fa8115cc8dbe839b36541576ea13759abeba44842376a019f957",
+      "adjuntos": []
+    },
+    {
+      "id": "1418247368716845137",
+      "fecha_utc": "2025-09-18T14:48:42.464000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": "2025-09-18T14:52:28.567000+00:00",
+      "texto": "Osurai:\n\nÉl no está aquí, y no lo estará nunca mas.\n\n**Susurra sonriente mientras ves como caes al suelo por el cansancio de los estocazos, esa sombra se acerca lentamente coge una daga y tatua una marca que reconoces por verla en la habitación del ninja. Su aura aumenta cada vez que escucha tus gritos, son como música para él**",
+      "mensaje_sha256": "906faae73c519d89dbeae14586a76fd57f76244ee7d12bd6e95f53d3907a777b",
+      "tipo_discord": 19,
+      "referencia": "1418245713627709553",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418247368716845137",
+      "texto_sha256": "13c9bad31e086107d3c721d468ec9efa9d3b85bed289feff4c3c8df2c31d5b04",
+      "adjuntos": []
+    },
+    {
+      "id": "1418252615225049150",
+      "fecha_utc": "2025-09-18T15:09:33.329000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\n**Chillé al sentir la Daga sobre mi piel, seguía gritando el nombre de Kurobane, sabía que dentro de el aún quedaba una pequeña escencia de el**",
+      "mensaje_sha256": "b5caa95a3b2c4dea9376669fbf3d3f5998e6a151e91ea63f8239fca994921f8f",
+      "tipo_discord": 19,
+      "referencia": "1418247368716845137",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418252615225049150",
+      "texto_sha256": "77f865b7bdc69c44ef22d5f45ed513c34f59619a5d01dc238a4b8fd7fa300344",
+      "adjuntos": []
+    },
+    {
+      "id": "1418253500508537057",
+      "fecha_utc": "2025-09-18T15:13:04.397000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": null,
+      "texto": "Osurai:\n\n**Se pueden observar que los ojos del ninja se vuelven aun mas azules, poco a poco, el fondo de se vuelve tan negro como la noche**\n\nAlguno de los dos, te la devolverá y eso he hecho.\n\n**Dice sonriente antes de pasar esa misma daga por su lengua para saborear tu sangre**",
+      "mensaje_sha256": "a87b5656bc35ac6e37b5f7499da6b688b2ee67dfd3717c37256fad46a1d1cbe9",
+      "tipo_discord": 19,
+      "referencia": "1418252615225049150",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418253500508537057",
+      "texto_sha256": "eb2a4ce1151924ce2e43485613b63962b6b9bed0accf9a1c926d4482106d70c1",
+      "adjuntos": []
+    },
+    {
+      "id": "1418254129855336590",
+      "fecha_utc": "2025-09-18T15:15:34.445000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\n**Caí inconsciente al suelo, sintiendo la sangre escurrirse debajo de mi en un charco, mis intentos de mantenerme consciente no estaban funcionando y el dolor era cada vez insoportable**",
+      "mensaje_sha256": "690a62316189e7e3cfb76105c0b00de84508b16e72ad7e1d162df28269a90fef",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418254129855336590",
+      "texto_sha256": "3c0f39e3780ae8669d562d0ef5256782098a1c7ab2fb969e85745464f057de0f",
+      "adjuntos": []
+    },
+    {
+      "id": "1418254924612898817",
+      "fecha_utc": "2025-09-18T15:18:43.930000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": "2025-09-18T15:21:43.936000+00:00",
+      "texto": "Osurai:\n\nLe recomiendo que no me sigan o no tendré piedad la próxima vez.\n\n**Susurra agarrando la oreja  de la coneja con desprecio, antes de empujarla con desprecio, irse de la base acompañado por esas oscuridades, dejándola ahí medio muerta e inconsciente, sale por la puerta y vuelve al lugar donde todo empezó**",
+      "mensaje_sha256": "262505b3b13c5b7cfd47d2f4bac395c83ea08b31e831a6a9f60c1865d377fdf4",
+      "tipo_discord": 19,
+      "referencia": "1418254129855336590",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418254924612898817",
+      "texto_sha256": "c2693eb63a3885793ec241c8ebf770ef6d471964b71b8c449dbe5c5af5d2fe8d",
+      "adjuntos": []
+    },
+    {
+      "id": "1418257492080590939",
+      "fecha_utc": "2025-09-18T15:28:56.062000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": null,
+      "texto": "🌑 Osurai sale de escena 🌑",
+      "mensaje_sha256": "074a54ef1ee686fa38882cc2e43e97457a0fcfc9a9c11a8cb59fb21ad1e58bf3",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418257492080590939",
+      "texto_sha256": "7538e8e4f76a3c8b0306c116412c926f8477f1ae533ee634d05aaeba7b867580",
+      "adjuntos": []
+    },
+    {
+      "id": "1418258784392052939",
+      "fecha_utc": "2025-09-18T15:34:04.173000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": null,
+      "texto": "**De entre unos arbustos que hay en el jardín, salen tres figuras aterrorizada viendo como esa oscuridad desaparece por el portal de la base. Uno de ellos se mete en la base y suelta un chillido ahogado al ver a Seraphina tirada. El mujina Tip, sale corriendo hacia sus hermanos y empiezan a hablar con aspavientos en ese idioma silvano. Entre collejas y golpes entre ellos, al final uno de ellos sale corriendo en busca de ayuda. Los otros dos entran en la base e intentan ayudar a la pobre conejita como pueden, pero con su tamaño no pueden hacer mucho**",
+      "mensaje_sha256": "9ae30c4bd04adbd867c06d5fd8303e467d0874fc787f652751351f80fbaa7bd4",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418258784392052939",
+      "texto_sha256": "802878cd4eb7b77b82b46a329fcc8ce7b8245cda2733786e3d641879c8f111d1",
+      "adjuntos": []
+    },
+    {
+      "id": "1418258813819289700",
+      "fecha_utc": "2025-09-18T15:34:11.189000+00:00",
+      "fecha_local": "2025-09-18",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena🔴",
+      "mensaje_sha256": "ff67a6e8760fb7c642b8d84a8821d37be24e23085494446a0f2a3e8078fe968d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1418258813819289700",
+      "texto_sha256": "eccc879371ba0f00136e2f5f09e926887159b42bf31da579cc59a0dde99666bc",
+      "adjuntos": []
+    }
+  ]
+}

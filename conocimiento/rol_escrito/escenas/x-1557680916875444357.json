@@ -1,0 +1,215 @@
+{
+  "id": "x-1557680916875444357",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1557409904099065879",
+  "hilo_id": "1524091803647741996",
+  "hilo_nombre": "Jungla - En alguna parte de Xoltacán",
+  "titulo": "Tryel llega demasiado tarde al lecho de Ilikar",
+  "resumen": "Los hermanos heridos siguen el conjuro hasta el santuario y la curación no puede salvarlo.",
+  "relato": "Tryel avanza herida y agotada con Eldrath, manteniendo Detectar Persona centrado en Ilikar. Los recuerdos del goliat y de su piedra la ayudan a seguir la dirección. Su hermano la carga para recorrer el último tramo.\n\nEn el santuario encuentran huellas de tortuga, vendas con sangre, escamas y el cuerpo sobre un lecho de flores. La elfa llega a trompicones, se arrodilla y apoya las manos con magia azul en el pecho. La respuesta narrativa establece que ya es demasiado tarde. No lo devuelve a la vida ni explica aún por sí sola cómo murió.",
+  "participantes": [
+    "Tryel",
+    "Eldrath",
+    "Ilikar"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1557680916875444357",
+      "afirmacion": "Tryel sigue el conjuro centrado en Ilikar.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1557722850998358130",
+      "afirmacion": "Eldrath la carga para continuar.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1557769669132419147",
+      "afirmacion": "La curación llega demasiado tarde.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Ambas ilustraciones del lugar inspeccionadas; son ambiente y disposición espacial.",
+    "La primera viñeta declara retrospectiva; conservar su fecha documental y esa indicación sin mover las unidades.",
+    "Las escamas y vendas no identifican por sí solas al causante de la muerte."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-10-08T09:07:50.895000+00:00",
+  "fin_utc": "2026-10-08T15:00:31.082000+00:00",
+  "fecha_local": "2026-10-08",
+  "intervalo": {
+    "anterior": 66,
+    "siguiente": 69,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 66,
+        "fecha": "2026-09-22",
+        "inicio_referencia_utc": "2026-09-22T18:20:03+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241"
+      },
+      {
+        "capitulo": 69,
+        "fecha": "2026-10-08",
+        "inicio_referencia_utc": "2026-10-08T18:17:02+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1557680916875444357",
+      "fecha_utc": "2026-10-08T09:07:50.895000+00:00",
+      "fecha_local": "2026-10-08",
+      "editado_utc": null,
+      "texto": "**Tryel se apoyó contra el tronco de un árbol, tratando de recuperar el aliento en mitad de aquella jungla. Las heridas apenas le permitían avanzar y, por mucho que intentara ignorarlo, cada paso le costaba más de lo que estaba dispuesta a admitir.**\n**Su hermano la ayudaba a mantenerse en pie, aunque él tampoco se encontraba en condiciones de seguir durante mucho tiempo. Atravesar aquella jungla ya habría sido difícil en circunstancias normales; hacerlo heridos y exhaustos era una auténtica tortura.**\n\n**Después de unos instantes, Tryel consiguió recuperar el aire y volvió a abrir los ojos.**\n**Sus pupilas brillaban con una tenue luz azulada, sobrenatural. El conjuro seguía activo.**\n**En su mente se esforzaba por mantener una única imagen. El goliat.**\n**Su primer encuentro. El momento en que la lanzó contra aquel montón de no-muertos. Su risa burlona, que había intentado ocultar cuando le entregó el Palopalo. Cada recuerdo hacía que la imagen se volviera más nítida. Mientras pudiera mantener al goliat en su mente, el conjuro de Detectar Persona seguiría guiándola hacia él. Hacia su... Amigo.**\n\n**Tryel respiró profundamente y señaló entre la espesura.**\n\nTryel: El... El... El rastro sigue por ahí... **murmuró, todavía jadeando**. Estamos cerca... El... Eldrath...\n<@753394009153732689>",
+      "mensaje_sha256": "e6a6ba8b8f44af52d668059d57cdbaf4ea2fb7cc6c1a234508b9de44a09e1d5a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1557680916875444357",
+      "texto_sha256": "3424cfed5732d0eb1388541f639f850e7c75ce423f45ec0e6c7912b9c6a4cdab",
+      "adjuntos": []
+    },
+    {
+      "id": "1557722850998358130",
+      "fecha_utc": "2026-10-08T11:54:28.769000+00:00",
+      "fecha_local": "2026-10-08",
+      "editado_utc": null,
+      "texto": "Eldrath: **Miro a su hermana, estaba agotado pero se puso de pie aun con su cuerpo protestando.**\n\nVale... Vamos a hacerlo como hace rato...otra vez.\n\n**Se acerco y se agacho delante de su hermana dandola la espalda cerca de ella.**\n\nSube Tryel. Si queda poco te llevare hasta alli.",
+      "mensaje_sha256": "2b5c93266e0a8669b9ec08a7848e04efd2b00dfa654ead7a1d88766a72bf14c9",
+      "tipo_discord": 19,
+      "referencia": "1557680916875444357",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1557722850998358130",
+      "texto_sha256": "b9649b1771d215fba9dc33e75ad92a0364bd9b596ef7881b113d2d37409abc9b",
+      "adjuntos": []
+    },
+    {
+      "id": "1557751650452774954",
+      "fecha_utc": "2026-10-08T13:48:55.094000+00:00",
+      "fecha_local": "2026-10-08",
+      "editado_utc": null,
+      "texto": "**El camino por el que llegáis es este**",
+      "mensaje_sha256": "ae4ae4d67b445a9830b57404a184d0963ffa9d6d9f2b479c2914427f8b729ca0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1557751650452774954",
+      "texto_sha256": "818057cbca3832f983715bb795518600eb2c27cad96391ad7477f8ff7a00a304",
+      "adjuntos": []
+    },
+    {
+      "id": "1557751674477613086",
+      "fecha_utc": "2026-10-08T13:49:00.822000+00:00",
+      "fecha_local": "2026-10-08",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "da2eda7603800eeabfc40c10af2bcabd411af34d2d496f4d3fc8abb0f43d2634",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1557751674477613086",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "adjuntos": [
+        {
+          "id": "1557751674041274460",
+          "nombre": "Firefly_A_secluded_ancient_forest_cleari_414990_WIh.jpg",
+          "tipo": "image/jpeg",
+          "archivo": "adjuntos/1557751674041274460.jpg",
+          "url": "rol_escrito/adjuntos/1557751674041274460.jpg",
+          "bytes": 414618,
+          "sha256": "2985a4afeddf741a50414572bc9677e69e19d44f0cc1c848bcfc56336b0e5cc1"
+        }
+      ]
+    },
+    {
+      "id": "1557751921924644866",
+      "fecha_utc": "2026-10-08T13:49:59.818000+00:00",
+      "fecha_local": "2026-10-08",
+      "editado_utc": null,
+      "texto": "**Si seguís el rastro más encontraréis el cuerpo de Ilikar en el lecho de flores de la derecha**",
+      "mensaje_sha256": "8b3fefd807d5564075de5d42a8a3fb8c3d6bb835b0e2592bfd2135d407e4bcb2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1557751921924644866",
+      "texto_sha256": "563782d3b89310723dbcbb404165196d874b44f104426cf918d951d482d14d07",
+      "adjuntos": []
+    },
+    {
+      "id": "1557752003793526966",
+      "fecha_utc": "2026-10-08T13:50:19.337000+00:00",
+      "fecha_local": "2026-10-08",
+      "editado_utc": null,
+      "texto": "**Junto al árbol**",
+      "mensaje_sha256": "afa7f997a90c55949526dcd102b6e0756ecab51d7f8c5e474046034eb70cd27e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1557752003793526966",
+      "texto_sha256": "97e4a0315bf2693a8feca325c48b81d7e68cfb7047823382fb35ac346b1d41b7",
+      "adjuntos": [
+        {
+          "id": "1557752003428360233",
+          "nombre": "Firefly_A_breathtaking_hidden_sanctuary_behind_a_pristine__waterfall_of_crystal_clear_water_c_303936.jpg",
+          "tipo": "image/jpeg",
+          "archivo": "adjuntos/1557752003428360233.jpg",
+          "url": "rol_escrito/adjuntos/1557752003428360233.jpg",
+          "bytes": 305738,
+          "sha256": "ed0bd3475435ef6b7f328c321ecbcd72fdc196c0e0d5139de53a8eec441eb25b"
+        }
+      ]
+    },
+    {
+      "id": "1557752377019338763",
+      "fecha_utc": "2026-10-08T13:51:48.321000+00:00",
+      "fecha_local": "2026-10-08",
+      "editado_utc": null,
+      "texto": "<@214405113677217793> <@753394009153732689>",
+      "mensaje_sha256": "db401fa7e5a839312861ed509b502e09ee6c79009487e947c2a6703e169ef695",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1557752377019338763",
+      "texto_sha256": "3dffd6f2268703a8bb84f8188a9401c64009c63dd9dd8085e227cd89a66c2fbd",
+      "adjuntos": []
+    },
+    {
+      "id": "1557753802466263162",
+      "fecha_utc": "2026-10-08T13:57:28.174000+00:00",
+      "fecha_local": "2026-10-08",
+      "editado_utc": null,
+      "texto": "**Hay pisadas de Tortuga en la zona, vendajes cubiertos de sangre apartados en un lateral, algunas escamas rotas, y una piedra grande en otro lateral donde incide la luz del sol**",
+      "mensaje_sha256": "aff4734e748de6d0bef0c0155cbae5eb2f076e1cdad9a99e80a9ffb81764af3a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1557753802466263162",
+      "texto_sha256": "f90c78c3b086b75af62e0ab3884c01177258078a8267497931b7db1328db6d84",
+      "adjuntos": []
+    },
+    {
+      "id": "1557769669132419147",
+      "fecha_utc": "2026-10-08T15:00:31.082000+00:00",
+      "fecha_local": "2026-10-08",
+      "editado_utc": "2026-10-08T15:01:06.285000+00:00",
+      "texto": "Tryel: **Baja de la espalda de su hermano con un quejido** Il... Ilikar... **Se separa de Eldrath para ir a trompicones hacia el cuerpo del goliat, apoyándose en cada árbol a su paso. Al pararse en uno de estos, mira las vendas cubiertas de sangre** No... No... **Niega con la cabeza mientras con un último esfuerzo cae de rodillas junto al cuerpo de su amigo. Pone sus manos en el pecho del goliat y estas empiezan a brillar con un azul marino. La elfa empieza a usar su magia curativa para intentar ayudarlo... pero ya era demasiado tarde.**",
+      "mensaje_sha256": "1986edc659c3ef5b2f048136e782620ad78a21abcc89ecd5d2cdd7e3ae5db67d",
+      "tipo_discord": 19,
+      "referencia": "1557753802466263162",
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1557769669132419147",
+      "texto_sha256": "d89915842bb9c1d8b18fda251a04abbeaa6e42bb3b6275dde63db5a51ec31319",
+      "adjuntos": []
+    }
+  ]
+}

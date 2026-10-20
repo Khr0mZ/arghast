@@ -1,0 +1,239 @@
+{
+  "id": "x-1479828448095768588",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1479828448095768588",
+  "hilo_id": "1465411590789795962",
+  "hilo_nombre": "Shiaru - El ron de Bonny",
+  "titulo": "Aerendriel entrega dos cartas a Jacky",
+  "resumen": "El marino acepta llevarlas a Veramont y Lunebris, pero necesita un pasaje y tiempo para ver a su mujer.",
+  "relato": "Aerendriel encuentra a Jacky en la taberna, hablando a la tripulación de un posible tesoro, y le entrega dos sobres. Indica que en Puerto de las Espadas deberá buscar a Seraphine Veramont, matriarca de la familia del suroeste del puerto, y a Octavian Lunebris, patriarca del distrito de las bibliotecas. Aquí no se transcribe el contenido de estas cartas.\n\nJacky acepta con la condición de poder ver a su mujer. El elfo se lo permite después de las entregas, aunque explica que habrá viajes de ida y vuelta. El mensajero calcula semanas y solicita que le paguen el transporte. Aerendriel asegura que no se preocupe, mientras en privado reconoce que carece de dinero suficiente y tendrá que improvisar.\n\nJacky guarda los sobres y celebra con Babs su posible regreso. El elfo sale pensando dónde conseguir un barco. Las cartas están entregadas al mensajero, pero no han zarpado ni llegado a sus destinatarios.",
+  "participantes": [
+    "Aerendriel Xalathor",
+    "Jacky Jackson",
+    "Babs"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1479835895271129269",
+      "afirmacion": "Aerendriel entrega cartas para Seraphine Veramont y Octavian Lunebris.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1479842176031526944",
+      "afirmacion": "Jacky advierte que los viajes tardarán semanas y pide transporte.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1479843381940326450",
+      "afirmacion": "Aerendriel promete el transporte pese a su preocupación privada por el dinero.",
+      "tipo": "pensamiento"
+    },
+    {
+      "mensaje_id": "1479844979856638133",
+      "afirmacion": "Jacky guarda los sobres y espera el billete antes de zarpar.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No asumir que sean idénticas a la carta familiar anterior ni reconstruir su contenido no mostrado.",
+    "Seraphine Veramont no se fusiona con Seraphina Longhop de Kuroto por semejanza nominal.",
+    "Jackie y Jacky son variantes del mismo Jackson en el diálogo."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-03-07T13:09:55.909000+00:00",
+  "fin_utc": "2026-03-07T19:20:00.609000+00:00",
+  "fecha_local": "2026-03-07",
+  "intervalo": {
+    "anterior": 13,
+    "siguiente": 14,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1479570997991706655",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1480286934453452832",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 13,
+        "fecha": "2026-03-06",
+        "inicio_referencia_utc": "2026-03-06T20:06:30+00:00",
+        "fin_estimado_utc": "2026-03-06T22:22:52+00:00",
+        "duracion_video_segundos": 8182,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1479570997991706655"
+      },
+      {
+        "capitulo": 14,
+        "fecha": "2026-03-08",
+        "inicio_referencia_utc": "2026-03-08T19:31:31+00:00",
+        "fin_estimado_utc": "2026-03-08T22:37:35+00:00",
+        "duracion_video_segundos": 11164,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1480286934453452832"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1479828448095768588",
+      "fecha_utc": "2026-03-07T13:09:55.909000+00:00",
+      "fecha_local": "2026-03-07",
+      "editado_utc": null,
+      "texto": "Aerendriel:\n\n**Se encontraría por la ciudad con dos sobres en las manos, entraría en el ron de Bonny con un poco de miedo, buscando a Jacky <@214405113677217793> **",
+      "mensaje_sha256": "5220971d5f263f5872394aae76901995c1862efe662878ba1377e446ebf2f38f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479828448095768588",
+      "texto_sha256": "f440185203bb2d2ced3535a8456b73bc2cc77680ef107e83cdbcdf6de2a6897c",
+      "adjuntos": []
+    },
+    {
+      "id": "1479831457106100224",
+      "fecha_utc": "2026-03-07T13:21:53.313000+00:00",
+      "fecha_local": "2026-03-07",
+      "editado_utc": null,
+      "texto": "Jackie Jackson: **El antiguo Marine ahora ya más pirata que algunos de este apestoso pueblo, estaba en la mesa junto a los demás miembros de la tripulación de Nox e Ione. Parecía discutir sobre un nuevo mapa en el que cree que hay un tesoro. Pero los demás ni Le hacen caso**",
+      "mensaje_sha256": "85b702bbe486fa66cedeb491ff14aa2a92a9162590e538f8f6059419321a169b",
+      "tipo_discord": 19,
+      "referencia": "1479828448095768588",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479831457106100224",
+      "texto_sha256": "1d95db418e79927db9cf0c9bfa64faaab6b7f315dcac2cfcc073eed24ec6e329",
+      "adjuntos": []
+    },
+    {
+      "id": "1479832241004744794",
+      "fecha_utc": "2026-03-07T13:25:00.209000+00:00",
+      "fecha_local": "2026-03-07",
+      "editado_utc": null,
+      "texto": "Aerendriel:\n\n**Se acercaría a la mesa**\n\nHola Jackie, tengo las cosas listas para tu misión de vuelta al puerto de espadas. \n\n**Dice serio pero con una pequeña sonrisa mientras acaricia lentamente los sobres**",
+      "mensaje_sha256": "64056c2c91c2a592790fb973c86408a1810d16e9a5a8aaa8239b73cfa9be736a",
+      "tipo_discord": 19,
+      "referencia": "1479831457106100224",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479832241004744794",
+      "texto_sha256": "c3c6114d73bc20922dd7cf82a3e466817490cf8d6d4d7397cc71b70558999c7d",
+      "adjuntos": []
+    },
+    {
+      "id": "1479832821555003483",
+      "fecha_utc": "2026-03-07T13:27:18.623000+00:00",
+      "fecha_local": "2026-03-07",
+      "editado_utc": null,
+      "texto": "Jackie: Ya te digo yo Babs que aquí hay... **Se gira hacia ti** Oh, hola emmm... ¿Como se llamaba? **Mira los sobres** Eh si, si... Pero... ¿que debía hacer?",
+      "mensaje_sha256": "8bf23c76b4942e33b58b904c979c227e6ea25f58bf97fc3a48dcabc3534f3658",
+      "tipo_discord": 19,
+      "referencia": "1479832241004744794",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479832821555003483",
+      "texto_sha256": "eb9740c34d93ebfff0dd43705ff0d2b6531180f399d890bd7d3ccd38050e702c",
+      "adjuntos": []
+    },
+    {
+      "id": "1479835895271129269",
+      "fecha_utc": "2026-03-07T13:39:31.454000+00:00",
+      "fecha_local": "2026-03-07",
+      "editado_utc": null,
+      "texto": "Aerendriel:\n\nPues mira, has de ir a la zona sur-oeste del puerto principal, busca a la familia Veramont, habla con la matriarca Seraphine Veramont y entregarle esta carta\n\n**Le entrega la carta a los Veramont**\n\nY luego, te vas al distrito de las bibliotecas, busca a la familia Lunebris, habla con el patriarca Octavian Lunebris y le entregas está.\n\n**Le entrega la carta a los Lunebris**",
+      "mensaje_sha256": "f0748604219273ee33e046279e7ff08d74bd6e0324d959c5537a1c9d6a197e22",
+      "tipo_discord": 19,
+      "referencia": "1479832821555003483",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479835895271129269",
+      "texto_sha256": "a27f5dd81078e3103f6228d7db38eb7ba86fb2bfdc8a17f0c6954d9cb6779773",
+      "adjuntos": []
+    },
+    {
+      "id": "1479837145807192186",
+      "fecha_utc": "2026-03-07T13:44:29.605000+00:00",
+      "fecha_local": "2026-03-07",
+      "editado_utc": null,
+      "texto": "Jackie Jackson: **Toma las cartas y te asiente** Esta bien pero, podré ir a ver a mi mujer, no? Nox me dijo que me daríais tiempo para estar con ella",
+      "mensaje_sha256": "1aad422c3f07c3251cb85c0c5cea0c226bf6f0be6c4dd8af99306ac2b98fb3e5",
+      "tipo_discord": 19,
+      "referencia": "1479835895271129269",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479837145807192186",
+      "texto_sha256": "a9175980f7e6e011b0eb046eee9566c18a2bb86163541558935d39bcf3a08914",
+      "adjuntos": []
+    },
+    {
+      "id": "1479839563290775743",
+      "fecha_utc": "2026-03-07T13:54:05.978000+00:00",
+      "fecha_local": "2026-03-07",
+      "editado_utc": "2026-03-07T14:00:01.983000+00:00",
+      "texto": "Aerendriel:\n\nMe parece bien. Pero necesito que entregues las cartas y luego podrás. Pero tendrías que ir yendo y viniendo.\n\n**Dice serio pero con un toque sonriente mientras le pone la mano encima del hombro**",
+      "mensaje_sha256": "e002d4cbf96c1a392c57da63b49702c84ba61a1bd5b44a1b4990b572da5bfe35",
+      "tipo_discord": 19,
+      "referencia": "1479837145807192186",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479839563290775743",
+      "texto_sha256": "71d7c8c367ca9168e00bb8c08c1d7133c3ac91856457bfba1bfdc4114b20f9e1",
+      "adjuntos": []
+    },
+    {
+      "id": "1479842176031526944",
+      "fecha_utc": "2026-03-07T14:04:28.904000+00:00",
+      "fecha_local": "2026-03-07",
+      "editado_utc": null,
+      "texto": "Jackie Jackson: ¡Pero tardaré semanas de viaje si voy viniendo y yendo! **Agacha la cabeza un poco triste jugueteando con un anillo de matrimonio** Bueno, algo es algo por poder volver a ver a mi mujer... Almenos me pagareis el transporte",
+      "mensaje_sha256": "5e26ffa185f513505779017641c43c20850c7ea760d4dbe912ddf8ad9b6e3244",
+      "tipo_discord": 19,
+      "referencia": "1479839563290775743",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479842176031526944",
+      "texto_sha256": "5bee7a93401394d78805ebe1bcc809c32b83b3da3c7cfa9744ff5823d59f3bfd",
+      "adjuntos": []
+    },
+    {
+      "id": "1479843381940326450",
+      "fecha_utc": "2026-03-07T14:09:16.415000+00:00",
+      "fecha_local": "2026-03-07",
+      "editado_utc": "2026-03-07T14:09:43.063000+00:00",
+      "texto": "Aerendriel:\n\nPor el transporte, no te preocupes.\n\n**Dice sonriente mientras piensa que no tiene mucho dinero y que posiblemente tocará improvisar**",
+      "mensaje_sha256": "01e9b902281a2fc296c3fdbb5c2bd916e138a4703009a9b9b7ac9f6858fbfd1f",
+      "tipo_discord": 19,
+      "referencia": "1479842176031526944",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479843381940326450",
+      "texto_sha256": "ebdc6fe3f5336c712a6a83099d26c98fd1b9c824b60f940894bcbf202f0efade",
+      "adjuntos": []
+    },
+    {
+      "id": "1479844979856638133",
+      "fecha_utc": "2026-03-07T14:15:37.388000+00:00",
+      "fecha_local": "2026-03-07",
+      "editado_utc": null,
+      "texto": "Jackie Jackson: **Levanta los hombros y se guarda los sobres** Entiendo. Pues cuando tenga el billete, zarpare **Se gira a Babs y lo agita por los hombros. El pirata-perro se mueve de lado a lado soltando babas por el aire** ¡Babs, tío, volveré a ver a mi mujer!",
+      "mensaje_sha256": "3526635d1e180efaed4fd817b191f8056c14c2e64b72e5a8aca3572255647908",
+      "tipo_discord": 19,
+      "referencia": "1479843381940326450",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479844979856638133",
+      "texto_sha256": "154c106175b48cac1fdedecb3e359925e349aad58cf65482fa35dcffecaa3007",
+      "adjuntos": []
+    },
+    {
+      "id": "1479845476701311066",
+      "fecha_utc": "2026-03-07T14:17:35.845000+00:00",
+      "fecha_local": "2026-03-07",
+      "editado_utc": "2026-03-07T14:18:09.693000+00:00",
+      "texto": "Aerendriel:\n\n**Se giraría mientras Jackie celebra, para mirar hacia la salida y pensar en si hay algún lugar de Shiaru donde pueda conseguirle un barco**",
+      "mensaje_sha256": "20c95146e61b9f75853d6c2ec5411ecac46c216b9d60b7407deef8d080fa1c6d",
+      "tipo_discord": 19,
+      "referencia": "1479844979856638133",
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479845476701311066",
+      "texto_sha256": "9c460c44a703460e12a5d6229f2d212e8dea30a1a48a625d2065be59368c2c0d",
+      "adjuntos": []
+    },
+    {
+      "id": "1479921581357535505",
+      "fecha_utc": "2026-03-07T19:20:00.609000+00:00",
+      "fecha_local": "2026-03-07",
+      "editado_utc": null,
+      "texto": "🔴Fin de la Escena🔴",
+      "mensaje_sha256": "2214ed1c8bd9d5f324bdbbc5bc36ff9aa8ebd6c9882e62350abe9e0edcae0ba9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1479921581357535505",
+      "texto_sha256": "7b48f784e7d27f7d504591e65457ee8f6f5f093e0fa68b31981cee30b6cd3584",
+      "adjuntos": []
+    }
+  ]
+}

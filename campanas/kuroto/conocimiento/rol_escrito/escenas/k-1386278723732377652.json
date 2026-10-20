@@ -1,0 +1,290 @@
+{
+  "id": "k-1386278723732377652",
+  "campana": "kuroto",
+  "unidad_revision": "k-1385809829695848478",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "Guxi y Archi empiezan a blindar el Camaro",
+  "resumen": "Los artífices acuerdan reforzar la carreta y añadir cañones, priorizando resistencia sobre velocidad.",
+  "relato": "Guxi encuentra a Archi limpiando la artillería y propone convertir el Camaro en una plataforma de combate: cañones, ruedas reforzadas y una protección delantera capaz de abrir paso. La carreta presenta daños y hasta una rueda perdida, aunque su dueño inicialmente la considere inmejorable.\n\nArchi rechaza aumentar la velocidad o cambiar el combustible, pues prefiere resistencia. Sí acepta montar los cañones y un frontal de ariete. Consigue el visto bueno del oficial de artillería y ambos reparten tareas: Guxi trabaja en las ruedas y el gnomo en el chasis.\n\nMientras se despide teatralmente de los antiguos paseos rápidos, Archi instala también un dispositivo con polvo oscuro, pequeños cristales y una runa central, sin explicar su función. Guxi continúa la reparación con música para no escuchar sus comentarios. El refuerzo queda en proceso; todavía no se demuestra un nuevo rendimiento ni una prueba del vehículo.",
+  "participantes": [
+    "Guxi",
+    "Archi",
+    "Oficial de artillería"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1386284052289683486",
+      "afirmacion": "Archi acepta los cañones y el ariete pero prioriza resistencia sobre velocidad.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1386300400067412120",
+      "afirmacion": "Archi obtiene la aprobación del oficial y comienza el refuerzo del chasis.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1386307404332924970",
+      "afirmacion": "Archi instala un dispositivo con polvo, cristales y una runa sin revelar su función.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Leídas completas las cinco partes y los tres adjuntos. La imagen del pánico es ilustrativa; el dibujo final de Banzo es una referencia humorística del disfraz.",
+    "La inscripción gráfica del diario de Kurobane se conserva como original. Su escritura no se traduce ni se inventa un contenido a partir del dibujo.",
+    "La unidad original reúne varias interacciones con cierres y salidas; las subescenas conservan cobertura exacta sin duplicar mensajes.",
+    "Las cifras de atención médica son las que Banzo comunica, sin elevarlas a un balance general de la batalla.",
+    "La apariencia de Brythya que Banzo cree ver sobre Danifae se presenta como percepción del goliat, no como transformación física confirmada.",
+    "La promesa de Danifae se refiere a sus armas frente a Ootakemaru y no equivale a afiliación ni contrato firmado.",
+    "No se realiza todavía la visita a los templos ni se elimina la condición de Kurobane."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2025-06-22T09:36:43.551000+00:00",
+  "fin_utc": "2025-06-22T11:32:35.438000+00:00",
+  "fecha_local": "2025-06-22",
+  "intervalo": {
+    "anterior": 130,
+    "siguiente": 131,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1385318614470496400",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387130423632724151",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 130,
+        "fecha": "2025-06-19",
+        "inicio_referencia_utc": "2025-06-19T18:01:24+00:00",
+        "fin_estimado_utc": "2025-06-19T21:47:20+00:00",
+        "duracion_video_segundos": 13556,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1385318614470496400"
+      },
+      {
+        "capitulo": 131,
+        "fecha": "2025-06-24",
+        "inicio_referencia_utc": "2025-06-24T18:00:45+00:00",
+        "fin_estimado_utc": "2025-06-24T21:04:44+00:00",
+        "duracion_video_segundos": 11039,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1387130423632724151"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1386278723732377652",
+      "fecha_utc": "2025-06-22T09:36:43.551000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "guxi: **voy a ver si encuentro a ese gnomo tengo una idea** <@616683133374562304> archi estas por aqui?",
+      "mensaje_sha256": "47bc1eceb2f5b8dc286e7b97cc8177add4ce2eab5ffe863509ed6fa974780fae",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386278723732377652",
+      "texto_sha256": "0b5a46a6ecd5623b1b45e8e28a500b31b5f35d93e4a4334c97db7e5f99289af6",
+      "adjuntos": []
+    },
+    {
+      "id": "1386279396931014767",
+      "fecha_utc": "2025-06-22T09:39:24.054000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "Archi : **a lo lejos en la zona de artillería ves a archi lleno de ollin saliendo y entrando de los cañones para limpiarlos  **",
+      "mensaje_sha256": "1cb520ff7b9d043945cbf1f867e4570c42aeca821fd6ddeee6943aec4b85525c",
+      "tipo_discord": 19,
+      "referencia": "1386278723732377652",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386279396931014767",
+      "texto_sha256": "8b8a0ff3793576fde356850ac8072a62fdf003715876c80ebe6fa37ffa2147da",
+      "adjuntos": []
+    },
+    {
+      "id": "1386279753949905066",
+      "fecha_utc": "2025-06-22T09:40:49.174000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "guxi: hola archi **mira a los cañones y a su camaro** tengo una idea que quiza pueda ser divertida para ti y salve unas cuantas vidas te apuntas?",
+      "mensaje_sha256": "62cde5a6b3882956cfd0a1fc08089a2532e5b1d4293557394e1f73ceed42876f",
+      "tipo_discord": 19,
+      "referencia": "1386279396931014767",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386279753949905066",
+      "texto_sha256": "eb445b9b16a1ad7503bceae6e737c8924c56e15b94f564414943455855b40213",
+      "adjuntos": []
+    },
+    {
+      "id": "1386280366926467155",
+      "fecha_utc": "2025-06-22T09:43:15.319000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "Archi : oh joven guxi! Le andaba buscando **se sacude un poco de ollin mientras levanta una ceja y se frota el bigote ** \nUsted dirá...",
+      "mensaje_sha256": "fbe1f387b8612d4c7a0b70375fe7d30bffc57ae9c8ecb3f8b2a9eba94ebb9f40",
+      "tipo_discord": 19,
+      "referencia": "1386279753949905066",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386280366926467155",
+      "texto_sha256": "f1dac04786ae6c32b275f2e46a142c615cd204bf0a8957d57cdb6e7c8b3bbdad",
+      "adjuntos": []
+    },
+    {
+      "id": "1386280712801488926",
+      "fecha_utc": "2025-06-22T09:44:37.782000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "guxi: **mira sonriendo a el camaro y ves una sonrisa que solo le has visto cuando se le ocurre una idea alocada** que te parece si lo mejoramos ?",
+      "mensaje_sha256": "578ca1bdc6dd7aaea1f8b9fe48b4c340526f7d10b93b5f713199dd3f3378c68f",
+      "tipo_discord": 19,
+      "referencia": "1386280366926467155",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386280712801488926",
+      "texto_sha256": "89229539cd02989a8c8fda5715339fbfa79769c2f7e9ed45eaf465e680661be0",
+      "adjuntos": []
+    },
+    {
+      "id": "1386282165897138187",
+      "fecha_utc": "2025-06-22T09:50:24.227000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "Archi: **Le mira y mira al camaro ,le vuelve a mirar así varias veces ** \nYo lo veo inmejorable.  \n\n**ves al camaro que le falta una rueda y hay varias partes del casco que están dañadas por ataques de demonio , si el camaro tuviese cara estaría 😵‍💫 **\n\nBueno ... que se te ocurre ? \n**los dos artifices se juntan en una roca que hace las veces de mesa **",
+      "mensaje_sha256": "56071bf5d6600a976721174915a8a0605379909b64922eceb85203cae7e4ce77",
+      "tipo_discord": 19,
+      "referencia": "1386280712801488926",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386282165897138187",
+      "texto_sha256": "4244fb861fba0606526f24c5234a7467ec43f01d66a676e156ec521cb8d4fa85",
+      "adjuntos": []
+    },
+    {
+      "id": "1386282881042874458",
+      "fecha_utc": "2025-06-22T09:53:14.731000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "guxi: es algo sencillo al menos de primeras ves esos dos  cañones? montemoslos encima llevemos la artilleria pesada a primera linea ** te señala el plano del motor **si usas este combustible y refuerzas las ruedas iras el doble de rapido ademas si le ponemos una placa delantera con pinchos podremos aplastar todos los demonios pequeños que se pongan delante y para los otros los cañones",
+      "mensaje_sha256": "2593039cd645bda1b531db69a1cb5a6b74a0e8481045591a786aca5a867b1382",
+      "tipo_discord": 19,
+      "referencia": "1386282165897138187",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386282881042874458",
+      "texto_sha256": "67a795c9e33e7e17efb8a51baa4a18dde4a8b4571ce8826db20d07e37616f4d0",
+      "adjuntos": []
+    },
+    {
+      "id": "1386284052289683486",
+      "fecha_utc": "2025-06-22T09:57:53.978000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "Archi: mmmmmm **piensa y se frota la perilla**\nPrefiero sacrificar algo de velocidad por tener más resistencia.  \nNo necesita combustible eso está solventado . \nPero lo de los cañones y reforzar la parte de alante en forma de ariete ... eso puede funcionar y es fácil. \n\nGuxi ! Se me ha ocurrido una idea \n**te empieza a contar tu misma idea como si fuese suya🤣  ** \nManos a la obra ! \nMon ami Oficial.! <@214405113677217793>  **le plantea la idea al oficial a cargo de la división de artillería ** \n**se pone la máscara de soldar y acerca el camaro a los cañones **",
+      "mensaje_sha256": "7344761685c290ff31232b9f41cb499cfb8af11680b80140ff73bfbec5ec0340",
+      "tipo_discord": 19,
+      "referencia": "1386282881042874458",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386284052289683486",
+      "texto_sha256": "9a6904d83154107e75d70f63bdfe01425501ce041a6532f92d5d2b7e68bc1c07",
+      "adjuntos": []
+    },
+    {
+      "id": "1386284628180209735",
+      "fecha_utc": "2025-06-22T10:00:11.281000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "guxi: empezamos a trabajar entonces **se pone los guantes y se pone a trabajar junto con archi ** tenemos que darnos prisa tiene que estar listo lo mas rapido posible tu encargate de convencer al oficial",
+      "mensaje_sha256": "0f2e0d7d9fd97d60aadd6296653d0ed2e39a7122a836d66542a4dc2a48d62807",
+      "tipo_discord": 19,
+      "referencia": "1386284052289683486",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386284628180209735",
+      "texto_sha256": "62ca0c4843e26d6a0b8459152733192d6ccb77a69aa70be3049647ccbd963dc0",
+      "adjuntos": []
+    },
+    {
+      "id": "1386300400067412120",
+      "fecha_utc": "2025-06-22T11:02:51.592000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "Archi : **llega corriendo tropezandose con todo **\nHecho ! Han dado el visto bueno . \nRecordemos primero reforzamos el chasis y las ruedas para que soporte más peso . \n**toca suavemente al camaro como si fuese su chica **\nMon ami **empieza a llorar **\nSe acabaron los días de velocidad a la puesta del sol",
+      "mensaje_sha256": "15ca79b600f6ac92708b9c7f6a2a00877a1de4ca875206fe2b456c4788b7f797",
+      "tipo_discord": 19,
+      "referencia": "1386284628180209735",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386300400067412120",
+      "texto_sha256": "a0de7ff98529f0e165225e4c6a332d76185a9ae92a74d5f42637c77275a34d57",
+      "adjuntos": []
+    },
+    {
+      "id": "1386300837202104351",
+      "fecha_utc": "2025-06-22T11:04:35.813000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "guxi: ** chasquea los dedos** ahora surcara el campo de batalla como un toro desbocado archi , te parece si me encargo de las ruedas y tu del chasis?",
+      "mensaje_sha256": "bf9bbeed5f5313320c0b8409346a88b67013c4fda2120e8038fbb5937919807e",
+      "tipo_discord": 19,
+      "referencia": "1386300400067412120",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386300837202104351",
+      "texto_sha256": "866de58c2d1407721e2e3c6791742880ba7792819264128e642f1f6b0c5f367d",
+      "adjuntos": []
+    },
+    {
+      "id": "1386301740718231653",
+      "fecha_utc": "2025-06-22T11:08:11.228000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "Archi :  **sigue llorando desconsolado en plan anime ** \nSiii siii . \nTratalo con amor por favor joven guxi \n**dice ya metido debajo del camaro** \nLas partes bajas solo las tocare yo pequeño ... \n**se pone a trabajar mientras le va diciendo cosas muy turbias al camaro**",
+      "mensaje_sha256": "3c56cee6a367f3b7e52e351347748ea11bb5934f311653cbf1698461b01a8336",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386301740718231653",
+      "texto_sha256": "58aac86c90768b129648471d01a139e93486c9329a30a6fdb6e55766fd12d420",
+      "adjuntos": []
+    },
+    {
+      "id": "1386302326444130367",
+      "fecha_utc": "2025-06-22T11:10:30.876000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "guxi: se nota que le has puesto mucho cariño la verdad la tratare como si fuera mi hijo **se pone a reforzar las ruedas** donde deje la llave 34 ** trabaja hasta que alguien le detenga**",
+      "mensaje_sha256": "81c8fc03d056a669aefd0fb8720af6d99cdc4ebb0f51d94a3d8c96d3ed68e0fa",
+      "tipo_discord": 19,
+      "referencia": "1386301740718231653",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386302326444130367",
+      "texto_sha256": "41fc279befc5d380112f92940235e11e8a907bc16f2fc887d768db8a523fea6f",
+      "adjuntos": []
+    },
+    {
+      "id": "1386303613491609751",
+      "fecha_utc": "2025-06-22T11:15:37.732000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "Archi: *mi hijo dice*\n**se rie mientras parece que se sube la bragueta del pantalón y acaricia una de las piezas que ha sacado del chasis **",
+      "mensaje_sha256": "75feb4e07282a991b59963ce7d3ccc477e9c13f7b4586ab4fe4dce25576de846",
+      "tipo_discord": 19,
+      "referencia": "1386302326444130367",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386303613491609751",
+      "texto_sha256": "cc4f0f9b6a62ab6b089a1684d5fcdfa3e458e96f74a4528ff54627de99b32fcb",
+      "adjuntos": []
+    },
+    {
+      "id": "1386307404332924970",
+      "fecha_utc": "2025-06-22T11:30:41.539000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "Archi: Shhhhh , esto me duele más a mi que a ti ... **parece que está instalando algún tipo dispositivo,  saca un poco de polvo oscuro y engarza un par de cristalinos pequeños , acaba con una runa de activación en el centro **",
+      "mensaje_sha256": "58f42bb22955d9946e074e31cd385b8c8b35a7df991360e97e54241375a61972",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386307404332924970",
+      "texto_sha256": "6f16d4d5f25fb99e2cb9ee42f5a7c3a626c2605ebe388e7b3a793399dfc5e4b9",
+      "adjuntos": []
+    },
+    {
+      "id": "1386307882059825182",
+      "fecha_utc": "2025-06-22T11:32:35.438000+00:00",
+      "fecha_local": "2025-06-22",
+      "editado_utc": null,
+      "texto": "guxi: **saca un pequeño dispositivo que parece reproducir una melodia** *mejor me pongo musica asi no lo escucho* **sigue trabajando**",
+      "mensaje_sha256": "931ae2e55fd4737fe1767639b38e713468c577f5ed3a7145cb642a0dc80b209a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1386307882059825182",
+      "texto_sha256": "cab6f8697c601dc1298b7c7926dd5a12dcb8f22f0db181483d48e6889fe03374",
+      "adjuntos": []
+    }
+  ]
+}

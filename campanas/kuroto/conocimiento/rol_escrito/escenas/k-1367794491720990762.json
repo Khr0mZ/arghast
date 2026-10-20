@@ -1,0 +1,94 @@
+{
+  "id": "k-1367794491720990762",
+  "campana": "kuroto",
+  "unidad_revision": "k-1367794491720990762",
+  "hilo_id": "1362071806441160834",
+  "hilo_nombre": "Base Ukyio - Sala principal",
+  "titulo": "Wukong reza por el shogun",
+  "resumen": "Los vecinos confirman la noticia que le dejó Banzo.",
+  "relato": "Wukong reconoce en el dibujo de Banzo un aviso de muerte y sale con Kim a preguntar. Los aldeanos confirman que ha muerto el shogun. El monje acude a la capilla, ofrece incienso y sake y se arrodilla a orar. Sigue preguntándose si hubo veneno y por qué quienes lo atendieron no lo detectaron; esas dudas no acreditan todavía una causa del fallecimiento.",
+  "participantes": [
+    "Wukong",
+    "Kim"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1367794491720990762",
+      "afirmacion": "Confirma la muerte y ofrece oraciones en la capilla.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La muerte del shogun se confirma por la narración de esta unidad, aclarando el jefe del aviso anterior.",
+    "No diagnosticar la enfermedad de Maroxi por semejanza de venas ni identificar el artefacto más allá de la esfera citada.",
+    "La discrepancia sobre los límites de acceso de Wukong se conserva: Banzo corrige a Errk y el permiso se invoca sin documento leído.",
+    "El cambio de cita no prueba traición ni conspiración contra Kalista."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-02T09:26:59.219000+00:00",
+  "fin_utc": "2025-05-02T09:27:16.112000+00:00",
+  "fecha_local": "2025-05-02",
+  "intervalo": {
+    "anterior": 111,
+    "siguiente": 112,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1369742246882054214",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 111,
+        "fecha": "2025-05-01",
+        "inicio_referencia_utc": "2025-05-01T18:30:18+00:00",
+        "fin_estimado_utc": "2025-05-01T21:17:50+00:00",
+        "duracion_video_segundos": 10052,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983"
+      },
+      {
+        "capitulo": 112,
+        "fecha": "2025-05-07",
+        "inicio_referencia_utc": "2025-05-07T18:26:24+00:00",
+        "fin_estimado_utc": "2025-05-07T21:22:03+00:00",
+        "duracion_video_segundos": 10539,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1369742246882054214"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1367794491720990762",
+      "fecha_utc": "2025-05-02T09:26:59.219000+00:00",
+      "fecha_local": "2025-05-02",
+      "editado_utc": null,
+      "texto": "Wukong:  **después de ver el dibujo de Banzo en la mesa (un monigote con barba blanca vestido de muchos colores y con los ojos en cruz, acompañado de la palabra jefe en letra infantil y una flecha que señalaba al muñeco) pudo intuir lo que pasaba. Cogió a Kim y lo cargó a su espalda en un canguro hecho con un pañuelo enorme y salió a las calles de Ukiyo, donde los aldeanos le confirmaron la noticia: el shogun había muerto**\n\n*Llegamos tarde*\n\nCon estas palabras en la cabeza y un paso como fúnebre decidió ir a la capilla del pueblo. Le hizo una reverencia al monje, cogió un par de palitos de incienso, los encendió y los puso en el.pequeño altar central de la capilla. Seguidamente se arrodilló y sacó de su bolsa una calabaza y un vasito, lo llenó de sake y lo dejó también en el altar a modo de ofrenda por el alma del shogun. Cerró los ojos, juntó las manos y se puso a orar**\n\n*Espero que Guxi y Kalista encuentren al responsable... Se me quedan muchas dudas en el aire... Si de verdad ha muerto envenenado... Por qué Khoratari y ermitaño no consiguieron identificar la causa de su enfermedad? Y mucho menos curarlo... Eran expertos y tenían medios para identificar venenos, pero no notaron nada... Esto no puede pintar peor...*",
+      "mensaje_sha256": "fbff80bb385c5e2fa43408e312e40d253856a703bf2b593cf396a7897bfe4cc9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1367794491720990762",
+      "texto_sha256": "864e233faf7d24edf213883fb4af6c7d9699736162abc903467fd4fb94e9bde6",
+      "adjuntos": []
+    },
+    {
+      "id": "1367794562575110225",
+      "fecha_utc": "2025-05-02T09:27:16.112000+00:00",
+      "fecha_local": "2025-05-02",
+      "editado_utc": null,
+      "texto": "🔴 el mono sale 🔴",
+      "mensaje_sha256": "cb8a3383d5b19f1608cd1ce9943ca1b7053e4dc88d659eb26bf0d3d03be8a062",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1367794562575110225",
+      "texto_sha256": "3c326b44eac16b70c647c6cd58d498db8974dc08a15b23c5861885899a872c58",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "id": "x-1554917984831541319",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1554917984831541319",
+  "hilo_id": "1504602363728756846",
+  "hilo_nombre": "Iktan - La ciudad oculta",
+  "titulo": "Bling consulta las anomalías de la isla",
+  "resumen": "Archi acepta investigar posibles fracturas de realidad, pero todavía no sabe cerrarlas ni ha visto una directamente.",
+  "relato": "Bling pierde el hilo de la reunión y termina sentándose junto a Archi en la barra. Al reconocerlo como el inventor que buscaba, explica su preocupación por fenómenos extraños en distintos puntos de la isla. Los llama anomalías y describe una cerca del pantano que mueve vegetación, altera la lluvia y afecta a los animales. No conoce su causa ni sus consecuencias futuras.\n\nArchi dice tener sensores que no han registrado nada semejante y pregunta si podrían ser portales o fenómenos feéricos. El hada reconoce una sensación parecida a su bosque de origen, mezclada con algo que no comprende. Él propone la hipótesis de fracturas de realidad y especula sobre espacio, tiempo y causalidad, pero admite que nunca ha presenciado una directamente.\n\nBling quiere reunir una expedición para estabilizarlas o cerrarlas y promete volver si sobrevive al dragón. Archi acepta revisar sus investigaciones. Antes de despedirse, ella aclara que puede aumentar algo de tamaño, aproximadamente hasta el de un gnomo o mediano, sin hacer una demostración. El acuerdo deja abierta la investigación y no acredita un método para reparar las anomalías.",
+  "participantes": [
+    "Bling",
+    "Archi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1554934720041853029",
+      "afirmacion": "Bling describe anomalías que desplazan vegetación y alteran la lluvia cerca del pantano.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1554946713465262214",
+      "afirmacion": "Relaciona sus sensaciones con el bosque feérico, pero percibe algo añadido.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1554948706174763029",
+      "afirmacion": "Archi plantea fracturas de realidad como hipótesis y admite no haber visto una directamente.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1554955530592722955",
+      "afirmacion": "Archi acepta investigar mientras ella combate al dragón.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "La clasificación Fadalis psychoaerulia la propone Archi; no usarla como certeza taxonómica externa.",
+    "La capacidad de alterar espacio o tiempo es una conjetura del inventor, sin demostración.",
+    "No confundir el bosque feérico de origen con una localización cartografiada nueva en Xoltacan."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-09-30T18:08:56.563000+00:00",
+  "fin_utc": "2026-09-30T21:45:30.770000+00:00",
+  "fecha_local": "2026-09-30",
+  "intervalo": {
+    "anterior": 66,
+    "siguiente": 69,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 66,
+        "fecha": "2026-09-22",
+        "inicio_referencia_utc": "2026-09-22T18:20:03+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1552023077615833241"
+      },
+      {
+        "capitulo": 69,
+        "fecha": "2026-10-08",
+        "inicio_referencia_utc": "2026-10-08T18:17:02+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1557820377701548265"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1554917984831541319",
+      "fecha_utc": "2026-09-30T18:08:56.563000+00:00",
+      "fecha_local": "2026-09-30",
+      "editado_utc": null,
+      "texto": "Archi : Ya he llegado !!!!!! Ronda por aquí!",
+      "mensaje_sha256": "3131fcdb376cea7f8ba4ef0c29aac9f50f697073008e88011b2a9fd69e1908e6",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1554917984831541319",
+      "texto_sha256": "606c3c1a658105bda7dd9d288b7b067d0bd8bf800b0884e1397330e240a2cb17",
+      "adjuntos": []
+    },
+    {
+      "id": "1554921129544650883",
+      "fecha_utc": "2026-09-30T18:21:26.321000+00:00",
+      "fecha_local": "2026-09-30",
+      "editado_utc": null,
+      "texto": "**El hada recoge la copita con zumo de frutas varias que ha pedido en la barra y al girarse no ve al grupo**\n*Pero...ya ha acabado la reunión? Si no me he enterado de nada...bueno, ya me los encontraré antes de mañana espero...*\nPerdone anciano, le importa si me siento contigo en la barra?\n<@616683133374562304>",
+      "mensaje_sha256": "fe2c04f3144442f443df7e794e8636149d30a852be2c61f011bcef881129398d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1554921129544650883",
+      "texto_sha256": "ee22267d26f8d80013aaffb361c4ddeafbe36ab59bd0fd9a69ab24102670ab7a",
+      "adjuntos": []
+    },
+    {
+      "id": "1554922271779586223",
+      "fecha_utc": "2026-09-30T18:25:58.651000+00:00",
+      "fecha_local": "2026-09-30",
+      "editado_utc": null,
+      "texto": "Archi : Por los engranajes de optimus prime , es una Fadalis psychoaerulia.  \n\nSiéntate claro , mi nombre es Augustus Archival Percival Daniel Patricks de Von Bergen \n\nPuedes llamarme Archi",
+      "mensaje_sha256": "daa79b9089734d8f83d575075602920f3470bec3f7317791ba4f7f5b55208ed2",
+      "tipo_discord": 19,
+      "referencia": "1554921129544650883",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1554922271779586223",
+      "texto_sha256": "55c7beb1aa9c45a06c0acde8bb444226156cf2038515eddca21ffd5c3ae0031e",
+      "adjuntos": []
+    },
+    {
+      "id": "1554923963245789346",
+      "fecha_utc": "2026-09-30T18:32:41.928000+00:00",
+      "fecha_local": "2026-09-30",
+      "editado_utc": "2026-09-30T18:33:23.753000+00:00",
+      "texto": "Yo soy Bling Bang a secas! Brindemos por mis nuevos amigos que hacen reuniones cortas y para tener éxito mañana con el bicho verde este del bosque!\n**Al girarse con la copa en alto se fijaría más en el gnomo que tiene a su lado, escupiendo de la sorpresa lo que estaba bebiendo**\nPffffff! Pero no serás tú el inventor???",
+      "mensaje_sha256": "d0f6c5ad59c78ecc71bda8f84406ea1634795419e7ec87fc8c2364d8abd609ff",
+      "tipo_discord": 19,
+      "referencia": "1554922271779586223",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1554923963245789346",
+      "texto_sha256": "fe80a27ff6472dd87ee72c02693127100b46844c325de8c8d9b9575effb78660",
+      "adjuntos": []
+    },
+    {
+      "id": "1554925929422266449",
+      "fecha_utc": "2026-09-30T18:40:30.701000+00:00",
+      "fecha_local": "2026-09-30",
+      "editado_utc": null,
+      "texto": "Archi : oooooh tu también vas ? Pues como cuidadito eee \n\nSisi el mismo",
+      "mensaje_sha256": "f4a0d1a6bf7d26c0b5a97588ad633993a65e2210ca11310060f6f27c0409015f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1554925929422266449",
+      "texto_sha256": "daa3606f53939c2cc90c2ba2ae0974f12ac91f345cc93ab5e116c40e819672b6",
+      "adjuntos": []
+    },
+    {
+      "id": "1554929192099905569",
+      "fecha_utc": "2026-09-30T18:53:28.584000+00:00",
+      "fecha_local": "2026-09-30",
+      "editado_utc": "2026-09-30T18:55:06.723000+00:00",
+      "texto": "**Abre muchísimo los ojos y se abalanza hacia Archi, haciendo tambalear la copa encima de la barra y se queda volando con nervio de un lado para otro delante de la cara del gnomo**\n\nTe estaba buscando a ti! He oído de lo que eres capaz y creo que tú ingenio y tus inventos me pueden ayudar con un problema! Un gran problema !!! Aún desconozco la gravedad y las consecuencias que pueden llevar a la isla pero hay que hacer algo!",
+      "mensaje_sha256": "5ba6066ed7ee9c6a492bf7ec10dc231f859aa637287f8c3d0bfeaf0a7beedced",
+      "tipo_discord": 19,
+      "referencia": "1554925929422266449",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1554929192099905569",
+      "texto_sha256": "3cf16e24e107a435bac3dd8ee8d519dcde28f4080a686c1da84d9bc6498c34e7",
+      "adjuntos": []
+    },
+    {
+      "id": "1554930950020792384",
+      "fecha_utc": "2026-09-30T19:00:27.705000+00:00",
+      "fecha_local": "2026-09-30",
+      "editado_utc": null,
+      "texto": "Archi: bueno bueno que gran ímpetu . \n\nY que pasa , mas dragones mas krakens !?",
+      "mensaje_sha256": "341a81eadbc4400ffb447028cc5f33d3ac5d130bb74625e94af00ab363401324",
+      "tipo_discord": 19,
+      "referencia": "1554929192099905569",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1554930950020792384",
+      "texto_sha256": "b801215467e5e76dc1988c2e206ddb2953e3b9bdffa8d0cb59d0ffb32d7cf2aa",
+      "adjuntos": []
+    },
+    {
+      "id": "1554934720041853029",
+      "fecha_utc": "2026-09-30T19:15:26.548000+00:00",
+      "fecha_local": "2026-09-30",
+      "editado_utc": "2026-09-30T19:36:07.726000+00:00",
+      "texto": "**Al notar la incomodidad de Archi  con su efusividad, se sienta apoyada a la jarra del gnomo y con la mirada perdida fruto de la desesperación**\nNonono, nada de dragones y krakers! O si, no lo sé!\nLo que si sé es que en algunos rincones de la isla están ocurriendo fenómenos muy extraños, de naturaleza fuera de lugar, y no se la razón ni las consecuencias a largo plazo..! Las llamo anomalías, y me pregunto si conoces o se te ocurre alguna manera de cerrarlas! En algunos sitios que he ido investigando y controlando no parece que pase nada, pero en algunas...la última que visité afectaba al bosque próximo al pantano, haciendo mover de sitio la vegetación, provocado lluvias extrañas... está afectando a los pobres animalitos que viven allá tan tranquilos! Y me llegan rumores de más anomalías que debería investigar...\n**Mira a Archi con ojitos de hada a punto de llorar**",
+      "mensaje_sha256": "bc47929d534f43c60ab0925972019140109d89bd2070850dfdef0a747b4a6de9",
+      "tipo_discord": 19,
+      "referencia": "1554930950020792384",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1554934720041853029",
+      "texto_sha256": "c4c5134297fac318492483018ebe740ecd997b3b3f4bd0efc9a508b0be0a1ee6",
+      "adjuntos": []
+    },
+    {
+      "id": "1554941675858694235",
+      "fecha_utc": "2026-09-30T19:43:04.944000+00:00",
+      "fecha_local": "2026-09-30",
+      "editado_utc": null,
+      "texto": "Archi : no pero no llores , tranquila tranquila . A ver explica bien al viejo Archi . \nAnomalías dices ? \nTengo un par de sensores colocados en la isla pero no ha detectado nada extraños . Estamos hablando de algún tipo de portal o algo asi ? \n\nLos tuyos son del mundo feerico te resulta algo parecido a eso o es diferente ?",
+      "mensaje_sha256": "1d107faab455c0af1eed0f462955d4f9ca52d350cfc51cb6e0580b62bbdec0a7",
+      "tipo_discord": 19,
+      "referencia": "1554934720041853029",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1554941675858694235",
+      "texto_sha256": "6338e3c4c8bbf4b29ccb9253fce9dd9bf7715f8e9a2c838732f6ed91a4533ead",
+      "adjuntos": []
+    },
+    {
+      "id": "1554946713465262214",
+      "fecha_utc": "2026-09-30T20:03:06.003000+00:00",
+      "fecha_local": "2026-09-30",
+      "editado_utc": null,
+      "texto": "**Se calma un poco y se pone de pie, dispuesta a explicarse**\nEn algunos aspectos, si que podrían tratarse de efectos provocados por algo parecido a un portal...ya que en sus alrededores afectan a las reglas de esta realidad, y cuando he estado investigándolos he tenido la ligera sensación de estar en casa, en el bosque feérico como lo conocéis aquí. \n**Traga saliva**\nPero hay algo más en estas sensaciones, algo que se mezcla y parece esconderse...",
+      "mensaje_sha256": "8ab2938d394633c295adf7e9e77105c387c1e0e3c781768c77e6ab6128b568dc",
+      "tipo_discord": 19,
+      "referencia": "1554941675858694235",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1554946713465262214",
+      "texto_sha256": "d558bb10ee828223b217ef3c6185b408adc5b14ef7324198571671f751f682b8",
+      "adjuntos": []
+    },
+    {
+      "id": "1554948706174763029",
+      "fecha_utc": "2026-09-30T20:11:01.102000+00:00",
+      "fecha_local": "2026-09-30",
+      "editado_utc": null,
+      "texto": "Archi: Hmmmm… eso que describes suena sospechosamente a distorsiones provocadas por fracturas en la realidad… Qué fascinante.\n\nHe leído sobre ellas,\nMientras otros científicos perdían su tiempo estudiando cosas mundanas como la gravedad, yo me dedicaba a comprender cómo romper las leyes de la existencia.\n\nAunque… debo admitir que nunca he presenciado una directamente.\nHasta ahora.\nJejejejeje… Si mis cálculos son correctos, una fractura de este tipo podría permitir alterar el espacio, el tiempo… incluso las leyes de la causalidad.\n\nY si mis cálculos no son correctos…\n\nBueno.\n\n¡Será mucho más divertido averiguarlo! Muahahahahaha.\n\nHabrá que echar un ojo a eso amiga mía.",
+      "mensaje_sha256": "1409117a64d2d1646b9a87b9457cc2603dfaf8b6eced53cf57e98572020482f9",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1554948706174763029",
+      "texto_sha256": "7a518a93f4cc6aa0f960931003e4529a18d60ed817859988726f11bdb63e16dc",
+      "adjuntos": []
+    },
+    {
+      "id": "1554954510810611796",
+      "fecha_utc": "2026-09-30T20:34:05.035000+00:00",
+      "fecha_local": "2026-09-30",
+      "editado_utc": "2026-09-30T20:34:52.787000+00:00",
+      "texto": "Qué alivio, parece que entiendes de lo que te hablo!\n\nQuiero montar una expedición para poder estabilizar o cerrar esta anomalía, pero antes quiero saber cómo hacerlo o conseguir algo que me pueda ayudar ya que con mi poder y conocimiento no he sido capaz\n\n**Vuelve a revolotear, haciendo gestos de boxeo**\n\nSi sobrevivo al gran lagarto, vendré a verte a ver si se te ha ocurrido alguna idea y vemos que hacemos? Si quieres lo podemos visitar también",
+      "mensaje_sha256": "d14b4cb16f4f0bbed23379dd1317411c7c615823c6a740edfb8f264bc35c995e",
+      "tipo_discord": 19,
+      "referencia": "1554948706174763029",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1554954510810611796",
+      "texto_sha256": "5df2bcd4633ce8c4a7b0d7eeb6be919a2d115937994fcf9419e90289c63cbb51",
+      "adjuntos": []
+    },
+    {
+      "id": "1554955530592722955",
+      "fecha_utc": "2026-09-30T20:38:08.170000+00:00",
+      "fecha_local": "2026-09-30",
+      "editado_utc": null,
+      "texto": "Archi : Bien yo de mientras indagare en mis investigaciones a ver si veo algo parecido . \n\nPor cierto , tu te has visto en tamaño humano alguna vez , ganarías bastante eee.\n\n**se frota la barba**",
+      "mensaje_sha256": "064733c5af443b6e2aca4cae91dc3f50fc5305ce02cef97c10da8a9b520fe035",
+      "tipo_discord": 19,
+      "referencia": "1554954510810611796",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1554955530592722955",
+      "texto_sha256": "978a50c99c719cd9ff81254e56d953317e0beb4e8464d34fe21294f5f754220e",
+      "adjuntos": []
+    },
+    {
+      "id": "1554957569796087809",
+      "fecha_utc": "2026-09-30T20:46:14.354000+00:00",
+      "fecha_local": "2026-09-30",
+      "editado_utc": null,
+      "texto": "De tamaño humano nooo, son muuy graandes..! No me gusta mucho hacerlo pero lo que si sé hacer es hacerme un poco más grande, así como el tamaño de un gnomo o casi de un mediano!\n\n**Se acaba el zumo de un trago, desparramandolo por encima suyo por el gran tamaño de la copa**\n\nHa sido un placer Archi! Te agradezco mucho el interés y la posible ayuda! Con suerte nos vemos en un par de días!\n\n** Alarga la mano feliz**",
+      "mensaje_sha256": "e51e9b85200c29e09858f2bafb84354024736f6148d0e0bd3fc833a62a02ba5d",
+      "tipo_discord": 19,
+      "referencia": "1554955530592722955",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1554957569796087809",
+      "texto_sha256": "4717f22fca3a9e56eb0dc52bb7e51ced39a2de63420a270712250cd321e084c6",
+      "adjuntos": []
+    },
+    {
+      "id": "1554965701574271071",
+      "fecha_utc": "2026-09-30T21:18:33.121000+00:00",
+      "fecha_local": "2026-09-30",
+      "editado_utc": null,
+      "texto": "Archi : **te mira y ves como de su brazo mecánico sale una mano pequeñita y te la ofrece ** \n\nPues no estarías nada mal chica .\n\nUn gusto .",
+      "mensaje_sha256": "14dfbd92ea4f2ab239cc58113d65c700ec6fe9b2fc16ddbafa19002739015bc8",
+      "tipo_discord": 19,
+      "referencia": "1554957569796087809",
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1554965701574271071",
+      "texto_sha256": "385357d2e13a628c6f512d7bb00f2870c350138eb9f73de6c23e72a16cb09cad",
+      "adjuntos": []
+    },
+    {
+      "id": "1554971579379748934",
+      "fecha_utc": "2026-09-30T21:41:54.499000+00:00",
+      "fecha_local": "2026-09-30",
+      "editado_utc": null,
+      "texto": "**Bling vuelve volando por el agujero del techo hacia el tejado de la taberna al nuevo nido que se ha construido**",
+      "mensaje_sha256": "000fdbd1930cfd4e1803156022432772031703130ae92a19cccde52f93d04c7f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1554971579379748934",
+      "texto_sha256": "1e9cc6b3e7e256eff8ef89e0ba66883f7af3ae2467658d81a2234a324d6743b6",
+      "adjuntos": []
+    },
+    {
+      "id": "1554972435567218801",
+      "fecha_utc": "2026-09-30T21:45:18.630000+00:00",
+      "fecha_local": "2026-09-30",
+      "editado_utc": null,
+      "texto": "Archi : **se queda bebiendo en la taberna y consultando archivos en su tableta ** \n\n*mira que le quedaba bien ese traje a Oghma <@277455010571223040> . Que con el tiempo todo cae dicen , ja.  Me rio de la gravedad*",
+      "mensaje_sha256": "177e1eb28768502e2c03e1263df30b7cda324538a52007c91a09178667e2aa8a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1554972435567218801",
+      "texto_sha256": "907ad83f8e5e9ab445e645162d3ac35fa704e27b7a7e5c8b1123d964b6a34133",
+      "adjuntos": []
+    },
+    {
+      "id": "1554972486485942386",
+      "fecha_utc": "2026-09-30T21:45:30.770000+00:00",
+      "fecha_local": "2026-09-30",
+      "editado_utc": null,
+      "texto": "🔴 FIN DE LA ESCENA🔴",
+      "mensaje_sha256": "00437a1aba134741244516cf00f13598cf7213b1f5a0c8440c57b640ec52e03b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1554972486485942386",
+      "texto_sha256": "11e202ab419420f8fc4877fcc6ac88b0e80ad9bc44cd13febb30e34eb4788021",
+      "adjuntos": []
+    }
+  ]
+}

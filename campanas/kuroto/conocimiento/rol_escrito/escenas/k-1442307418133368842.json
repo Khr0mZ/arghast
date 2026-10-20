@@ -1,0 +1,337 @@
+{
+  "id": "k-1442307418133368842",
+  "campana": "kuroto",
+  "unidad_revision": "k-1442307418133368842",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "La cura no evita la ruptura",
+  "resumen": "Chani ayuda a un Kurobane debilitado, pero lo acusa de rechazar a sus compañeros y huye.",
+  "relato": "Kurobane aparece en Sho, se quita la máscara y cae de rodillas tosiendo sangre negra. Chani llega después de despedirse de Thiary, feliz de poder volver a piar sin restricciones, pero se alarma al verlo. El ninja admite que no está bien y acaba cediendo ante su insistencia en curarlo. Ella coloca las alas luminosas sobre su espalda y canta hasta que él vuelve a moverse y le agradece la ayuda. La piel recupera poco a poco su color, aunque el dolor no desaparece por completo.\n\nEl alivio se transforma en reproche. Chani llora y le picotea la frente porque le había ofrecido ayuda y él se había marchado. Rechaza el abrazo que intenta darle y contrapone al Tezca cariñoso de sus recuerdos con alguien que la aparta y quiere parecerse a los malos. Kurobane explica que absorbió de Banzo una energía oscura y necrótica y que su cuerpo la está expulsando; pide perdón y deja abierta la puerta de su habitación. Ella responde que preferir morir antes que pedir ayuda no es actuar como compañero ni como Cazador, y huye llorando de Sho. El ninja sale detrás para intentar reparar el daño y protegerla, sin que se muestre todavía un reencuentro.",
+  "participantes": [
+    "Kurobane",
+    "Chanecuxtli"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1442307418133368842",
+      "afirmacion": "Kurobane cae de rodillas con tos y sangre negra.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1442313361390964903",
+      "afirmacion": "El ninja pide a Chani que lo ayude antes de caer inerte.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1442316062707421195",
+      "afirmacion": "Chani aplica sus alas luminosas y canta para ayudarlo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1442316803022782495",
+      "afirmacion": "Kurobane vuelve a moverse y le da las gracias.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1442321600258244689",
+      "afirmacion": "Chani reprocha que la haya apartado y contrapone su conducta con su Tezca.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1442322585223172197",
+      "afirmacion": "El ninja atribuye su estado a energía absorbida de Banzo y se disculpa.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1442323722877927547",
+      "afirmacion": "Chani critica su rechazo de ayuda y sale llorando.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1442324261686743231",
+      "afirmacion": "Kurobane sale tras Chani para intentar arreglarlo.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La mejoría tras la ayuda es visible, sin declarar curación total ni desaparición certificada de energía necrótica.",
+    "El episodio previo con Banzo se conoce por la explicación de Kurobane, sin reconstruirlo.",
+    "Las frases «no eres mi Tezca» expresan el dolor y el rechazo de Chani; no prueban impostura o regreso de Osurai.",
+    "No se supone reconciliación por el hecho de que el ninja la siga."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-11-24T00:14:45.259000+00:00",
+  "fin_utc": "2025-11-24T01:21:55.975000+00:00",
+  "fecha_local": "2025-11-24",
+  "intervalo": {
+    "anterior": 168,
+    "siguiente": 169,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1442596662206922943",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "fecha_de_sesion_asumida",
+    "referencias": [
+      {
+        "capitulo": 168,
+        "fecha": "2025-11-20",
+        "inicio_referencia_utc": "2025-11-20T19:03:40+00:00",
+        "fin_estimado_utc": "2025-11-20T22:00:36+00:00",
+        "duracion_video_segundos": 10616,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1441142043761180816"
+      },
+      {
+        "capitulo": 169,
+        "fecha": "2025-11-24",
+        "inicio_referencia_utc": "2025-11-24T19:23:51+00:00",
+        "fin_estimado_utc": "2025-11-24T22:32:50+00:00",
+        "duracion_video_segundos": 11339,
+        "tipo_referencia": "aviso_de_contraste",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1442596662206922943"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. La posición depende de una fecha de sesión asumida. Una hora tomada de un aviso con título discrepante se utiliza solo como referencia aproximada de ese día."
+  },
+  "fuentes": [
+    {
+      "id": "1442307418133368842",
+      "fecha_utc": "2025-11-24T00:14:45.259000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": "2025-11-24T00:15:35.774000+00:00",
+      "texto": "Kuro:\n\n**Una sombra se abalanza sobre la base de los cazadores de Sho, haciéndose visible, se vería al ninja, quitándose su mascara y tosiendo sangre negra como hizo en la playa, caería de rodillas**\n\n*Que habia sido esa energía... Espero que Banzo esté mejor...*",
+      "mensaje_sha256": "e3f5e1bcccdf2e2db6c12f41cee8d6b57172339590ab0270f931095c97c7fba6",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442307418133368842",
+      "texto_sha256": "3dce502dcc697163972a6c0fd1e1e82a07e2e5fea83dbf8a788ebfc9ca6c25bd",
+      "adjuntos": []
+    },
+    {
+      "id": "1442308944788848701",
+      "fecha_utc": "2025-11-24T00:20:49.242000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\nADIOS THIARY!! NOS VEMOS DESPUÉS!!\n\n**cerré la puerta de la base, tomé aire y la contuve por unos segundos**\n\nPÍO PÍO PÍO PÍO PÍO PÍO PÍO PÍO PÍO PÍO PÍO PÍO PÍO PÍO PÍO PÍO!!\n\n**Hasta que se me acabó el aire, pude decir todos los píos que no había podido decir con Thiary**\n\nFiu, fue difícil, pío, ahorita no está y puedo decir pío cuando quiera, pío \n\n**Caminé contenta por la entrada de la base**",
+      "mensaje_sha256": "ea538715f52f8953f64a93decce3e884b38a80707655a19caf00cf886efdd54d",
+      "tipo_discord": 19,
+      "referencia": "1442307418133368842",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442308944788848701",
+      "texto_sha256": "5b41476615d03348ee8d8b7a666a029d44a82bb90fa91408a156ad1679e77fdf",
+      "adjuntos": []
+    },
+    {
+      "id": "1442310435792748555",
+      "fecha_utc": "2025-11-24T00:26:44.725000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Kuro:\n\n**Se escucharía una tos muy fea, y se vería al ninja de rodillas, tosiendo un poco de sangre**\n\n*Mi cuerpo no está aguantando...*",
+      "mensaje_sha256": "eea4d72312057010de5530c99efc89ef202eb8be3372cc9f7dd04f77f67a0864",
+      "tipo_discord": 19,
+      "referencia": "1442308944788848701",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442310435792748555",
+      "texto_sha256": "ab9b49ae8eb66790d82edd378b543f2cfb4a5761b11ab4b52a1704f209239b60",
+      "adjuntos": []
+    },
+    {
+      "id": "1442311113139032126",
+      "fecha_utc": "2025-11-24T00:29:26.217000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n**Escuché aquella tos**\n\nSalud!!\n\n**Pero al escuchar que no se detenía, me acerqué para ver de que se trataba, y al notar que era Kurobane quien estaba de rodillas, salí corriendo a ayudar**\n\nNO NO NO PÍO!!, ESTAS BIEN PÍO?",
+      "mensaje_sha256": "4459323f158a2f95e04a2edc90163344ab0652ea603f9358bbe4f2efff29d8b5",
+      "tipo_discord": 19,
+      "referencia": "1442310435792748555",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442311113139032126",
+      "texto_sha256": "e21dc889c9f132c44bce0b579588cce974fba7b67ef73c3fbea1db500422273e",
+      "adjuntos": []
+    },
+    {
+      "id": "1442311636525383803",
+      "fecha_utc": "2025-11-24T00:31:31.002000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Kuro:\n\nNo, no lo estoy.... Chani...\n\n**Dice serio pero casi sin fuerzas, notas que sus ojos, son unos ojos de cansancio**",
+      "mensaje_sha256": "e69c04147c331fbbe04976e6961265d6441bdadac3125efcf6a5a953972c11f8",
+      "tipo_discord": 19,
+      "referencia": "1442311113139032126",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442311636525383803",
+      "texto_sha256": "5f5535df177046dec75c1a9e044502345b1af6fbb27295658f685d7245fce244",
+      "adjuntos": []
+    },
+    {
+      "id": "1442312577538588815",
+      "fecha_utc": "2025-11-24T00:35:15.357000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\nDEJAME CURARTE PÍO!! ESCÚCHAME PÍO!!, DEJAME HACERLO!! PÍO!!\n\n**Jamás se había visto a Chani así de molesta y preocupada, las alas empezaron a brillar con demasiada fuerza**\n\nTE VOY A CURAR QUIERAS O NO!! PÍO!!",
+      "mensaje_sha256": "7949f2b5ea9134de1028e2bb52a737c0ddd8ec797ba16e9b01e9938918b8f60b",
+      "tipo_discord": 19,
+      "referencia": "1442311636525383803",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442312577538588815",
+      "texto_sha256": "00d80aea25510fb577d34276406e557fd1bd647fd14c9f98c94fbb78eea02162",
+      "adjuntos": []
+    },
+    {
+      "id": "1442313361390964903",
+      "fecha_utc": "2025-11-24T00:38:22.242000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": "2025-11-24T00:43:47.866000+00:00",
+      "texto": "Kuro:\n\nHazlo... Por favor...\n\n**Se escucharía como si fuera un hilo de voz mientras caía hacia delante inerte**",
+      "mensaje_sha256": "99a71f03fb6ce22f5a0f181df06beb4692566e7429c01b56e7d3e3e97ff99165",
+      "tipo_discord": 19,
+      "referencia": "1442312577538588815",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442313361390964903",
+      "texto_sha256": "d1b1a11cd67853ce517bc72de4a07ba9274873e6a4454c30c421f0a404a3bd73",
+      "adjuntos": []
+    },
+    {
+      "id": "1442316062707421195",
+      "fecha_utc": "2025-11-24T00:49:06.286000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n**Me puse arriba de Kurobane, poniendo mis alitas en su espalda**\n\nAMO XIMOKUESO XIMOCHIKAUILI, KENA TIKAXITIS!! PÍO!!\n(No estés triste, se fuerte, si lo lograrás)\n\n**El brillo de mis alas se hacia cada vez más cegadora, no iba a dejarlo irse así**\n\nXIMEUA!!, XIMIJOTI!!\n(Levanté, Respira)",
+      "mensaje_sha256": "c70491cb052ce7f879b423ad5d06c4f5041fe4c4b04d63c6bc87fb54de7d02ee",
+      "tipo_discord": 19,
+      "referencia": "1442313361390964903",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442316062707421195",
+      "texto_sha256": "884581ac5ff3a3367104c1947ce56d1936824201a492d99c10827be23d86f21e",
+      "adjuntos": []
+    },
+    {
+      "id": "1442316803022782495",
+      "fecha_utc": "2025-11-24T00:52:02.791000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Kuro:\n\n**Se movería lentamente para quedarse mirando al techo de la base**\n\nGracias... Chani...\n\n**Dice serio pero notas una pequeña sonrisa mientras te acaricia la cabeza**",
+      "mensaje_sha256": "e9048dc6eeafcf8c842a238d06e34b3e3dae56018508aa04dcae65be51cb135a",
+      "tipo_discord": 19,
+      "referencia": "1442316062707421195",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442316803022782495",
+      "texto_sha256": "3cf6b7dc58c395e138b4138e1abc9830ffbb3b9100c3a0f32b969e6a3af489f7",
+      "adjuntos": []
+    },
+    {
+      "id": "1442317210537300008",
+      "fecha_utc": "2025-11-24T00:53:39.950000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\nTONTO!! PÍO!! TONTO!!\n\n**Le picotee la frente mientras estaba llorando**\n\nTE DIJE QUE TE CURARÍA!! PÍO!! NO ME ESCUCHASTE!! PÍO!!, TE FUISTE!! PÍO!! NO QUERIAS VERME!! PÍO!!",
+      "mensaje_sha256": "e22c568655340d1cab9294576c4f73b2313cdb2472b00bbeacbb9bb66085fd24",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442317210537300008",
+      "texto_sha256": "c2ccd1e1d98a30bc29e6841f121673c56ecb6cf4014b01bd3d022d5218747701",
+      "adjuntos": []
+    },
+    {
+      "id": "1442318602396242102",
+      "fecha_utc": "2025-11-24T00:59:11.795000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Kuro:\n\n**La abrace mientras aguantaba los picotazos**\n\nA veces, los adultos dicen cosas que no quieren pero, en realidad, las necesitan.",
+      "mensaje_sha256": "b6a5a0f76ecef321873a1e9870b30ef6291fb2af41b0abaadc02c54651d65df0",
+      "tipo_discord": 19,
+      "referencia": "1442317210537300008",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442318602396242102",
+      "texto_sha256": "6a62072df0f45ab7d450443c2b2d9988ea10ba407099e92dead9336598f6b056",
+      "adjuntos": []
+    },
+    {
+      "id": "1442319909760798790",
+      "fecha_utc": "2025-11-24T01:04:23.495000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\n\nTONTO!! PÍO!! TONTO!!, TEZCA MALO!! PIO!! TEZCA MALO!! PÍO!!\n\n**Me movía para soltarme de su abrazo**\n\nMI TEZCA NO HARIA ESO!! PÍO!!, TU NO ERES MI TEZCA, PÍO!!",
+      "mensaje_sha256": "7eb7faf2f0dde9c9fb1ad0fcd3c23030a7e501ae3bb0d80ba2089e1efaad5740",
+      "tipo_discord": 19,
+      "referencia": "1442318602396242102",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442319909760798790",
+      "texto_sha256": "b57971217d19b6918cb33c12c793a9f0e4ac28fe9b245fa3d19f2a70f1afe5b7",
+      "adjuntos": []
+    },
+    {
+      "id": "1442320622469251234",
+      "fecha_utc": "2025-11-24T01:07:13.418000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Kuro:\n\n**La suelta y se sienta con las piernas cruzadas en el suelo, su piel va lentamente recuperando su color natural, sus ojos se quedan rojos con un poco de grises**\n\nClaro que soy, yo... Chani...\n\n**Dice serio pero con una sonrisa tranquila y relajada, aunque un poco adolorido**",
+      "mensaje_sha256": "baa4178116bdbe2afb82b77d1fdb10f92141cdc3c6db25a354819a7835bd527a",
+      "tipo_discord": 19,
+      "referencia": "1442319909760798790",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442320622469251234",
+      "texto_sha256": "708797965fc83cd87f9d54b3ee5ea7f8f8fb8f01f628a1426704833b861e61c7",
+      "adjuntos": []
+    },
+    {
+      "id": "1442321600258244689",
+      "fecha_utc": "2025-11-24T01:11:06.541000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Chanecuxtli:\nNO!! TU NO ERES MI TEZCA!!, EL ME TRATA CON CARIÑO, TÚ ME HICISTE A UN LADO, EL ME ACURRUCA PARA DORMIR, TU NO HAS DORMIDO, EL ME DEFENDIÓ CONTRA LOS MALOS, TU QUIERES SER COMO LOS MALOS!!\n\n**No había ningún pío, solo había molestia y tristeza**\n\nTU NO ERES MI TEZCA!!, TU NO ERES MI KUROBANE!!",
+      "mensaje_sha256": "aa5d26fbf0ef92df952e964ad0d0082efdbf022427ad9e82eb1c5e01d2044bde",
+      "tipo_discord": 19,
+      "referencia": "1442320622469251234",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442321600258244689",
+      "texto_sha256": "be02f9871bdf02cc265109b277e0c3c5d23c7abd75d62670729fd48eab68e2f4",
+      "adjuntos": []
+    },
+    {
+      "id": "1442322585223172197",
+      "fecha_utc": "2025-11-24T01:15:01.375000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Kuro:\n\nChani... Estoy así porque Banzo tenía una energía oscura y necrótica, y la tuve que absorber. Mi cuerpo va lentamente echándola de mi. Te pido perdón por haberte tratado mal.\n\n**Dice serio pero decepcionado, notas que no hay ninguna mentira en sus palabras mientras se levanta lentamente y se dirige a su habitación**\n\nMi puerta siempre estará abierta para ti...",
+      "mensaje_sha256": "58395dc142ff407ed2358fe33921df6a2a3e0208d0f5ab067a93093850f71bdf",
+      "tipo_discord": 19,
+      "referencia": "1442321600258244689",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442322585223172197",
+      "texto_sha256": "d6038fc2b40cd747429fe5f988612adb2b85684a74d975fa2e1fa9a1772a61b6",
+      "adjuntos": []
+    },
+    {
+      "id": "1442323722877927547",
+      "fecha_utc": "2025-11-24T01:19:32.613000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": "2025-11-24T01:19:52.406000+00:00",
+      "texto": "Chanecuxtli:\nYO NO QUIERO ESO!! YO QUIERO A KUROBANE!! YO QUIERO ESO!!\n\n**Seguí llorando hasta que pude volver a gesticular palabras**\n\nPreferías morir a pedir ayuda, pío... Eso no hace un compañero.. pío... Eso no hace un cazador...\n\n**Me levanté y salí corriendo de la base con la vista borrosa, ya no había lugar al cual volver, ya no quedaba cama para dormir, ahora quedaba solo yo y nadie más**\n\n🐤 Chanecuxtli sale de escena 🌱",
+      "mensaje_sha256": "85dda63304418c02fd953afed5278b33f5bed451a8ac32f5c2237f56f476cd4c",
+      "tipo_discord": 19,
+      "referencia": "1442322585223172197",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442323722877927547",
+      "texto_sha256": "742e8cf96f946a6282d5990a43925323ec80fe69c78fd58be0b05a7e0f882fcd",
+      "adjuntos": []
+    },
+    {
+      "id": "1442324261686743231",
+      "fecha_utc": "2025-11-24T01:21:41.075000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "Kuro:\n\n**Saldría detrás de Chani, para arreglar el error y protegerla en lo que pueda**\n\n🌕  Kurobane sale de escena 🌕",
+      "mensaje_sha256": "f2a804be8e6813c47bc7a583d532f999dff1016aaa207c7753966b837e0351e7",
+      "tipo_discord": 19,
+      "referencia": "1442323722877927547",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442324261686743231",
+      "texto_sha256": "a10ecd827e92cac5261d63ba62c8807fa47dace43304d661332da4f49144fa99",
+      "adjuntos": []
+    },
+    {
+      "id": "1442324324181872712",
+      "fecha_utc": "2025-11-24T01:21:55.975000+00:00",
+      "fecha_local": "2025-11-24",
+      "editado_utc": null,
+      "texto": "🔴  Fin de escena 🔴",
+      "mensaje_sha256": "d8efef2dc5e5fed6fa0982363330821edc316112a8a11b77b276790904f707e1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1442324324181872712",
+      "texto_sha256": "89cbe3b5872871307a0eb183d0520fc216a2874954328319f27ffd7e3554e552",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "x-1468977973762850954",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1468977973762850954",
+  "hilo_id": "1465410265544921190",
+  "hilo_nombre": "Shiaru - El poblado pirata",
+  "titulo": "Ione vuelve al barco",
+  "resumen": "La mujer abandona la jungla y alcanza la embarcación nadando.",
+  "relato": "Al cabo de un rato, Ione sale de entre las hojas de la jungla en forma de mujer, cubierta de sangre y sin ropa. Se echa al mar, nada hasta el barco y sube a bordo. El fragmento prolonga su retirada anterior, sin mostrar conversación, limpieza ni reacción de otros tripulantes.",
+  "participantes": [
+    "Ione"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1468977973762850954",
+      "afirmacion": "Ione sale de la jungla y vuelve nadando al barco.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No se añaden heridas propias, un ritual o consecuencias médicas a la sangre descrita.",
+    "Conservar la continuación en su intervalo, sin fusionar la escena de la caza."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-02-05T14:34:01.236000+00:00",
+  "fin_utc": "2026-02-05T14:34:01.236000+00:00",
+  "fecha_local": "2026-02-05",
+  "intervalo": {
+    "anterior": 3,
+    "siguiente": 4,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1468327704360390872",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1469044877005160624",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 3,
+        "fecha": "2026-02-03",
+        "inicio_referencia_utc": "2026-02-03T19:29:48+00:00",
+        "fin_estimado_utc": "2026-02-03T22:20:47+00:00",
+        "duracion_video_segundos": 10259,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1468327704360390872"
+      },
+      {
+        "capitulo": 4,
+        "fecha": "2026-02-05",
+        "inicio_referencia_utc": "2026-02-05T18:59:34+00:00",
+        "fin_estimado_utc": "2026-02-05T21:22:17+00:00",
+        "duracion_video_segundos": 8563,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1469044877005160624"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1468977973762850954",
+      "fecha_utc": "2026-02-05T14:34:01.236000+00:00",
+      "fecha_local": "2026-02-05",
+      "editado_utc": null,
+      "texto": "Ione: **Al rato una mujer ensangrentada y desnuda sale de entre las hojas de de la jungla y se hecha al mar, nadando hacia el barco y metiendose en el**",
+      "mensaje_sha256": "3f01e8a8f31e89dbbc08019577d493bd6362fde85f17746b8a4a60a0de4e8a62",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1468977973762850954",
+      "texto_sha256": "b92a53244e3b27558dfc27ec4d293810a335fd899e8980c8163d6dcb5766764d",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "k-1406215565936300054",
+  "campana": "kuroto",
+  "unidad_revision": "k-1406215565936300054",
+  "hilo_id": "1387915737502580886",
+  "hilo_nombre": "Sho, Palacio del Shogunato - Capital de Kuroto",
+  "titulo": "Llegada con los materiales",
+  "resumen": "Guxi prepara el trabajo de comunicación.",
+  "relato": "Guxi va al palacio con los materiales para terminar las piedras de comunicación. Se propone empezar si le permiten pasar; la autorización y el resultado no aparecen todavía.",
+  "participantes": [
+    "Guxi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1406215565936300054",
+      "afirmacion": "Trae materiales y condiciona el trabajo al acceso.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No hay vínculo causal demostrado entre ambos apuntes ni fabricación terminada en esta unidad."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2025-08-16T09:58:37.141000+00:00",
+  "fin_utc": "2025-08-16T09:58:37.141000+00:00",
+  "fecha_local": "2025-08-16",
+  "intervalo": {
+    "anterior": 146,
+    "siguiente": 147,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1405973993948975124",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1406697567479271588",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 146,
+        "fecha": "2025-08-15",
+        "inicio_referencia_utc": "2025-08-15T17:58:25+00:00",
+        "fin_estimado_utc": "2025-08-15T21:02:41+00:00",
+        "duracion_video_segundos": 11056,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1405973993948975124"
+      },
+      {
+        "capitulo": 147,
+        "fecha": "2025-08-17",
+        "inicio_referencia_utc": "2025-08-17T17:53:35+00:00",
+        "fin_estimado_utc": "2025-08-17T20:19:39+00:00",
+        "duracion_video_segundos": 8764,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1406697567479271588"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1406215565936300054",
+      "fecha_utc": "2025-08-16T09:58:37.141000+00:00",
+      "fecha_local": "2025-08-16",
+      "editado_utc": null,
+      "texto": "Guxi: \n**Va al palacio con todos los materiales necesarios para terminar la piedras de comunicación y si le dejan pasar se pondrá a trabajar**",
+      "mensaje_sha256": "5072bae0286a37f5bb312a376c647fb68d3a0ef8fe2072f8ceab455c57984d14",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1387915737502580886/1406215565936300054",
+      "texto_sha256": "1bad6f6b24ece847593072ee4be85087b39d6dc6e4cea20e8748bd92f68b2577",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,378 @@
+{
+  "id": "k-1368389904710631424",
+  "campana": "kuroto",
+  "unidad_revision": "k-1368389904710631424",
+  "hilo_id": "1362858862608384070",
+  "hilo_nombre": "Sho - Capital de Kuroto",
+  "titulo": "Una búsqueda sin resultado entre la tetería y el puerto",
+  "resumen": "Kurobane y Guxi revisan la tetería y el puerto sin encontrar a la persona que buscan. Guxi termina llevándolo por el aire de vuelta a la base.",
+  "relato": "Kurobane conduce a Guxi hasta la tetería y le pide que vigile y lo avise por la piedra si aparece Banzo. Guxi pregunta si pretende forzar la cerradura; Kurobane lo rechaza por ilegal yobserva por las ventanas usando visión en la oscuridad. Su compañero se coloca unas gafas con la misma función yrevisa el lado opuesto. No encuentran nada yvan al puerto. Kurobane menciona como única alternativa la habitación de la persona buscada en la base, pero Guxi cree improbable que esté allí porque antes reinaba el silencio. Desde un pequeño altillo tampoco detectan lo que buscan. Agobiado, Kurobane se sienta encogido yagradece la ayuda, proponiendo ir solo a un lugar especial que no identifica. Guxi se resiste a rendirse: lo levanta con esfuerzo ycomienza a volar cargándolo. A petición del agotado Kurobane, regresan con dificultad a las inmediaciones de la base. No se localiza a nadie.",
+  "participantes": [
+    "Kurobane",
+    "Guxi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1368390392915165255",
+      "afirmacion": "Kurobane pide aviso por la piedra siGuxi ve a Banzo.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1368391259043004416",
+      "afirmacion": "Kurobane rechaza forzar la cerradura yobserva por las ventanas con visión en la oscuridad.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1368391545778081833",
+      "afirmacion": "Guxi revisa el lado opuesto usando gafas de visión en la oscuridad.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1368392049904189501",
+      "afirmacion": "La búsqueda en la tetería no da resultado y Kurobane propone ir al puerto.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1368396156215885966",
+      "afirmacion": "Guxi carga a Kurobane yempieza a volar con gran esfuerzo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1368397320835829881",
+      "afirmacion": "Ambos alcanzan con dificultad las inmediaciones de la base.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "No se identifica expresamente en esta unidad a la persona buscada. No fijar automáticamente que seaKalista solo por el contexto previo; Banzo es alguien por cuya presencia solicitan aviso.",
+    "La habitación y el lugar especial no se visitan en el texto. No añadir ubicación secreta ni reunión posterior.",
+    "La imposibilidad de encontrarla desde ventanas odesde el puerto no demuestra que estuviera ausente de todaSho."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-05-04T00:52:56.738000+00:00",
+  "fin_utc": "2025-05-04T01:25:57.208000+00:00",
+  "fecha_local": "2025-05-04",
+  "intervalo": {
+    "anterior": 111,
+    "siguiente": 112,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1369742246882054214",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 111,
+        "fecha": "2025-05-01",
+        "inicio_referencia_utc": "2025-05-01T18:30:18+00:00",
+        "fin_estimado_utc": "2025-05-01T21:17:50+00:00",
+        "duracion_video_segundos": 10052,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1367568902531317983"
+      },
+      {
+        "capitulo": 112,
+        "fecha": "2025-05-07",
+        "inicio_referencia_utc": "2025-05-07T18:26:24+00:00",
+        "fin_estimado_utc": "2025-05-07T21:22:03+00:00",
+        "duracion_video_segundos": 10539,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1369742246882054214"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1368389904710631424",
+      "fecha_utc": "2025-05-04T00:52:56.738000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nPor aqui...\n\n**Le dice a Guxi <@171702246952665098> , casi llegando a la teteria**",
+      "mensaje_sha256": "87807ad9c666887b20953853077a3c0423af76abdd5e74e54bf3ed5a4e4d0af8",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1368389904710631424",
+      "texto_sha256": "2df036e875e3e49ff786237767b663c6ca95ac961ebad7d1b574559c90499ed7",
+      "adjuntos": []
+    },
+    {
+      "id": "1368390063133687899",
+      "fecha_utc": "2025-05-04T00:53:34.509000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "guxi: **ves que el tambien esta cansado pero te sigue sin decir una palabra**",
+      "mensaje_sha256": "2aef41a0d70cdb3b526f236e832b4ee43036e0f82124d7a2d7f7f3cbfe0dc7d3",
+      "tipo_discord": 19,
+      "referencia": "1368389904710631424",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1368390063133687899",
+      "texto_sha256": "44185fcc8f67dffb84c29735ec384d4d8ed19165172727d23b4ea2975508c636",
+      "adjuntos": []
+    },
+    {
+      "id": "1368390392915165255",
+      "fecha_utc": "2025-05-04T00:54:53.135000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "**Llegan a la tetería**\n\nKurobane:\n\nQuédate por aquí y si ves a Banzo me avisas por la piedra.",
+      "mensaje_sha256": "277cdd8d87cd732ac55777dda6dbd8e1b7641a154f24a46b8b4b96ca44ad29b8",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1368390392915165255",
+      "texto_sha256": "9484cea9a02dc52326963ea56ff0f09d028d0f3e9232844a5e97d258680e355e",
+      "adjuntos": []
+    },
+    {
+      "id": "1368390542584447057",
+      "fecha_utc": "2025-05-04T00:55:28.819000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "guxi: vas a **ves que traga algo de saliva** forzar la cerradura?",
+      "mensaje_sha256": "20d7f383926282fa6a8503ca32d252c91e099da632ce9a711af84ce20c7d9b62",
+      "tipo_discord": 19,
+      "referencia": "1368390392915165255",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1368390542584447057",
+      "texto_sha256": "25ca54089bd10fbd86fe54fcd2de837a55b8b23b2c8c63514a181a092e5c8a05",
+      "adjuntos": []
+    },
+    {
+      "id": "1368391259043004416",
+      "fecha_utc": "2025-05-04T00:58:19.636000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": "2025-05-04T00:59:31.223000+00:00",
+      "texto": "Kurobane:\n\n**Niega con la cabeza**\n\nEso es ilegal, Guxi.\n\n**Ves que sus ojos se vuelven totalmente negros (Darkvision), y se pone a observar por las pequeñas ventanas durante un tiempo a la mayor velocidad le da el cuerpo**",
+      "mensaje_sha256": "ba0fd80526ce055f83255e89793837686b0934d9615fc7ec7d6c27c429242b97",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1368391259043004416",
+      "texto_sha256": "d3a0acffd1377256c62b9cffd6bb013cb98408f0b9b5db603774437549b9837a",
+      "adjuntos": []
+    },
+    {
+      "id": "1368391545778081833",
+      "fecha_utc": "2025-05-04T00:59:27.999000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "guxi: **respira aliviado y ves que se pone unas gafas de darkvision  y se pone a mirar por el lado contrario ** voy por este lado avisame si ves algo",
+      "mensaje_sha256": "79e4c05d98de7e253f16251518564e0cec46cc62eb082230ad3c6f918ee7508b",
+      "tipo_discord": 19,
+      "referencia": "1368391259043004416",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1368391545778081833",
+      "texto_sha256": "6147958755b113c73e20b8a76207f4411b7c4773e9740f81a0fd0c29697b40e6",
+      "adjuntos": []
+    },
+    {
+      "id": "1368392049904189501",
+      "fecha_utc": "2025-05-04T01:01:28.192000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "**No encontramos nada ni por tu lado ni por el suyo**\n\nKurobane:\n\nNada... Guxi.... El siguiente punto es el puerto....\n\n**Dice roto y maldiciendo con palabras en común que no has escuchado nunca**",
+      "mensaje_sha256": "c6c9e45be0f4fd01273d8029f6b60573d3d98d32c7e2b1a264a3280c45e1c320",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1368392049904189501",
+      "texto_sha256": "964d62731a65095a78ca0e4874192235edac9a06c67907f0637f1f1855023351",
+      "adjuntos": []
+    },
+    {
+      "id": "1368392365978419302",
+      "fecha_utc": "2025-05-04T01:02:43.550000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "guxi: no desesperes vamos y punto arrepentirse no sirve de nada creeme lo se **te dedica una sonrisa complice**",
+      "mensaje_sha256": "2305242bd9a1d4dcafa66e884c669fe5c75f9feda35b167a4c30e6dcfe31b38e",
+      "tipo_discord": 19,
+      "referencia": "1368392049904189501",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1368392365978419302",
+      "texto_sha256": "34bbac8432649eda7d284347396454835668621ca516491ec143a38b5b60904a",
+      "adjuntos": []
+    },
+    {
+      "id": "1368392581360128052",
+      "fecha_utc": "2025-05-04T01:03:34.901000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nTienes razón.\n\n**Pone rumbo al puerto**",
+      "mensaje_sha256": "c4c466d8b80ea842e683ed3edac8c5cdc5ea1e559aba84a2d0da05247bd23b0e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1368392581360128052",
+      "texto_sha256": "abf7181acc5c23e86ae3df692d166a427236004183a7015d5326a9b14184a83c",
+      "adjuntos": []
+    },
+    {
+      "id": "1368392864911986750",
+      "fecha_utc": "2025-05-04T01:04:42.505000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "guxi: **te sigue** cual seria el siguiente sitio por si quieres dividirnos",
+      "mensaje_sha256": "afdb5c9446a9ea2883a621269d42ac441cd5b675a390da11d265c9a99212bac2",
+      "tipo_discord": 19,
+      "referencia": "1368392581360128052",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1368392864911986750",
+      "texto_sha256": "928586b8a7102854bce9a115a78c3f91c60bceabfd564f6379db1f4d419ef392",
+      "adjuntos": []
+    },
+    {
+      "id": "1368393256282493048",
+      "fecha_utc": "2025-05-04T01:06:15.815000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nSu habitación en la base... Y no tengo otro sitio en mente.\n\n**Lo ves agobiandose por momentos mientras sigue corriendo**",
+      "mensaje_sha256": "dde14fe39ed90fe9b6432f12c6d7e4dc67f69f3106157b769964f54c685c8313",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1368393256282493048",
+      "texto_sha256": "722123f1041592130e07c64219f6cc4faaa406b56b8cf3c1817229f124038629",
+      "adjuntos": []
+    },
+    {
+      "id": "1368393615285682228",
+      "fecha_utc": "2025-05-04T01:07:41.408000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "guxi: no creo que este ahi hubiera oido algo la base estaba en silencio antes de que llegaras tu , vamos al puerto cuando lleguemos tengo una idea para cubrir mas terreno **intenta sonar seguro**",
+      "mensaje_sha256": "082237db161981bf1749ba85c5813e0747345faeefe64ffb03d0447f462cc834",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1368393615285682228",
+      "texto_sha256": "72d1aec74d00bc916c49e894bee17037e549ddaf1d4ffbd84509af029e9bc845",
+      "adjuntos": []
+    },
+    {
+      "id": "1368394025370910861",
+      "fecha_utc": "2025-05-04T01:09:19.180000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\n**Asiente en silencio mientras va al puerto**",
+      "mensaje_sha256": "0de41ab331a577c783b4cd406288194146e9e7eecc578c3a37684e09ae874e7c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1368394025370910861",
+      "texto_sha256": "0a09558c89862150c541494d1d111388401e91ef1fda48b36b7bedeab201d8f6",
+      "adjuntos": []
+    },
+    {
+      "id": "1368394829733822526",
+      "fecha_utc": "2025-05-04T01:12:30.955000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "**Llegan al puerto después de un tiempo**\n\nKurobane:\n\n**Ves que se sube en un pequeño altillo con dificultad para ver todo el puerto**\n\nTampoco....\n\n**Baja del altillo, se sienta y se hace bolita**",
+      "mensaje_sha256": "96ef4489d8e4b351ab8e1037c871682f8238a75e25bc73bb1c6dbe3dac25f33f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1368394829733822526",
+      "texto_sha256": "55168bf4d3118d51231d093c66340f3822cc79ee66ed2021a084ef236a57d611",
+      "adjuntos": []
+    },
+    {
+      "id": "1368395173020831896",
+      "fecha_utc": "2025-05-04T01:13:52.801000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "guxi: ¿ya esta? no pierdas la esperanza hombre **ves que se agacha con las dos manos como si fuera a levantar algo pesado**",
+      "mensaje_sha256": "dc177be9bca41b0c6edc36b1be5d89d3fe46f15050e35ebd3bcc633c7d70410d",
+      "tipo_discord": 19,
+      "referencia": "1368394829733822526",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1368395173020831896",
+      "texto_sha256": "8b40c9afc07f87c9e6195aa1497240abb4e3c205cf561630bad9a6e58efde679",
+      "adjuntos": []
+    },
+    {
+      "id": "1368395687477383200",
+      "fecha_utc": "2025-05-04T01:15:55.457000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nDeberías volver a la base.... Gracias por la ayuda....\n\n**Dice decaido mientras se levanta**\n\nIré a un lugar especial...\n\n**Le cuesta decir la palabra especial**",
+      "mensaje_sha256": "2cca6f45b40749b7e077362534f7483aa6a16f93c3e3c78c76b78513f8f8aad7",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1368395687477383200",
+      "texto_sha256": "88e5160ba6d686b19668ab4e90064dc77d4c29e19a2bd4a2b15e0c64f1375667",
+      "adjuntos": []
+    },
+    {
+      "id": "1368396156215885966",
+      "fecha_utc": "2025-05-04T01:17:47.213000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "guxi: **antes de que empieces a levantarte ves como guxi te coge y te levanta como puede sus piernas tiemblan cuando reaccionas estas a unos cuantos metros del suelo** dios mio como pesas todavia nos queda un sitio has dicho agarrate donde puedas **empieza a volar a toda velocidad como superman**",
+      "mensaje_sha256": "85ac903054dd7035040bd43f293146be8f24871b8c002ef1a4307932aac558d1",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1368396156215885966",
+      "texto_sha256": "1f56d4f8271948109b56ca0a01edf733618b0f8d2481ea803bc6527ed62be493",
+      "adjuntos": []
+    },
+    {
+      "id": "1368396724137099446",
+      "fecha_utc": "2025-05-04T01:20:02.616000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "Kurobane:\n\nVolvamos a base...\n\n**Dice acabado y destrozado**",
+      "mensaje_sha256": "fbec4a39f0984b212bdb1307f481beb20c080ca13406e0ea3b349fb5ee107cd7",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1368396724137099446",
+      "texto_sha256": "6d9e6c51e86308ad0372bb1fe1b8f153fb9eee013aaf6363ea7a0559fb08759b",
+      "adjuntos": []
+    },
+    {
+      "id": "1368397057660031039",
+      "fecha_utc": "2025-05-04T01:21:22.134000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "guxi: **si ves la expresion de guxi es esfuerzo total** si vamos *dios mio como pesa este ninja* todo no estara perdido **se nota el esfuerzo en su voz**",
+      "mensaje_sha256": "2c3a57e3c5114a277f92bb0a73b42d3237a33c0415375043732c5c1d75922db6",
+      "tipo_discord": 19,
+      "referencia": "1368396724137099446",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1368397057660031039",
+      "texto_sha256": "eb5bcdf6ac4576e82a792e9ffb2df2c4defe5c0c9cb1695e6a7347bb845af45e",
+      "adjuntos": []
+    },
+    {
+      "id": "1368397320835829881",
+      "fecha_utc": "2025-05-04T01:22:24.880000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "**Llegan a las inmediaciones de la base, a duras penas**",
+      "mensaje_sha256": "475e7d577c745832f881991090d19a50db5fffe88d52b59429ce94c1c589913a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1368397320835829881",
+      "texto_sha256": "c8eb95af67a3ec2685fb171122b2958d7afd4a0c6b855459959b044632c0ba2b",
+      "adjuntos": []
+    },
+    {
+      "id": "1368397451219701790",
+      "fecha_utc": "2025-05-04T01:22:55.966000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": "2025-05-04T01:23:27.276000+00:00",
+      "texto": "🌘  Kurobane sale de escena 🌘",
+      "mensaje_sha256": "883d165b17707d3dc2bb10b5af5f11d16d5e3012f62aee38dc759c026ca5b060",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1368397451219701790",
+      "texto_sha256": "c95c2d2144e50caef4db8a65812f7e48d8f1d17ec38631b3a00505e2759d70d5",
+      "adjuntos": []
+    },
+    {
+      "id": "1368398211403747349",
+      "fecha_utc": "2025-05-04T01:25:57.208000+00:00",
+      "fecha_local": "2025-05-04",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena 🔴",
+      "mensaje_sha256": "7d86c61626e46a124dd1a0f7ee96214bb9aca38dfdd2b5d7f75e3371e77e7f49",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362858862608384070/1368398211403747349",
+      "texto_sha256": "298fa93bf0457633e2be1e0841043d853cccb9548c7ae2d8426119f0cb0a929e",
+      "adjuntos": []
+    }
+  ]
+}

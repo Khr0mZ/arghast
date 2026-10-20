@@ -1,0 +1,296 @@
+{
+  "id": "k-1402262741057671258",
+  "campana": "kuroto",
+  "unidad_revision": "k-1402262741057671258",
+  "hilo_id": "1362071806441160834",
+  "hilo_nombre": "Base Ukyio - Sala principal",
+  "titulo": "La línea abierta de Guxi transmite una cita",
+  "resumen": "El cristal comunica las bases y deja oír la conversación de Archi con Cozzy; la ampliación a palacio y al sur queda pendiente.",
+  "relato": "Guxi prueba su cristal de comunicación y Archi le responde con interferencias desde la base de Sho. Mientras el aprendiz ajusta la conexión, Cozzy se interesa por el invento y convierte la charla con Archi en una invitación a pasar una noche de pirotecnia, espionaje, sabotajes y caos. Ella acepta y se marcha a animar al shogun, sin que se describa ninguna de esas actividades.\n\nAl corregir un cable de tierra, Guxi advierte que la línea ha permanecido abierta y ha oído todo el coqueteo. La comunicación ya se recibe con claridad. El aprendiz quiere pedir permiso para colocar cristales en palacio y en el campamento del sur; Archi propone encontrarse al día siguiente para terminarlos y se preocupa por conseguir ropa de Tsugami para la cita.\n\nLa escena acredita una prueba de voz entre las bases. No muestra la cita ni la instalación del resto de la red.",
+  "participantes": [
+    "Guxi",
+    "Archi",
+    "Cozzy"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1402266486164291695",
+      "afirmacion": "Archi propone una cita con pirotecnia, espionaje y sabotajes.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1402266795498536981",
+      "afirmacion": "Cozzy acepta la invitación para esa noche.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1402272417166135346",
+      "afirmacion": "Guxi arregla la tierra del circuito y revela que ha oído la conversación por la línea abierta.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1402275831580987515",
+      "afirmacion": "Quiere pedir permiso para instalar cristales en palacio y en el sur.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1402280837227221042",
+      "afirmacion": "Archi propone terminar esas instalaciones al día siguiente.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "La ubicación de Guxi se rotula inicialmente como base de Sho, mientras la respuesta sitúa el problema de recepción en Ukyio subterránea; conservar la ambigüedad local.",
+    "La alusión a volar la capital se formula como broma en el coqueteo, sin atentado narrado.",
+    "El enlace Tenor es una reacción, sin suceso adicional."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-08-05T12:11:30.250000+00:00",
+  "fin_utc": "2025-08-05T20:09:06.300000+00:00",
+  "fecha_local": "2025-08-05",
+  "intervalo": {
+    "anterior": 142,
+    "siguiente": 143,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1400539301288349778",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1403077303029989558",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 142,
+        "fecha": "2025-07-31",
+        "inicio_referencia_utc": "2025-07-31T18:02:52+00:00",
+        "fin_estimado_utc": "2025-07-31T21:03:04+00:00",
+        "duracion_video_segundos": 10812,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1400539301288349778"
+      },
+      {
+        "capitulo": 143,
+        "fecha": "2025-08-07",
+        "inicio_referencia_utc": "2025-08-07T18:07:58+00:00",
+        "fin_estimado_utc": "2025-08-07T22:23:43+00:00",
+        "duracion_video_segundos": 15345,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1403077303029989558"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1402262741057671258",
+      "fecha_utc": "2025-08-05T12:11:30.250000+00:00",
+      "fecha_local": "2025-08-05",
+      "editado_utc": null,
+      "texto": "guxi: **ha estado trabajando en la base de sho preparando el cristal de comunicación durante varios dias** \nparece que esta todo listo \n<@616683133374562304> base de sho me oyen?",
+      "mensaje_sha256": "ff8f282e81a00f6281bceb6bc679aed6badf1998876ca9f561722f4fb24aa8fe",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1402262741057671258",
+      "texto_sha256": "a628209c290284252c89cbec0e44e25369b8bd067c5701e7e1d61a4ab56b8972",
+      "adjuntos": []
+    },
+    {
+      "id": "1402263728493428819",
+      "fecha_utc": "2025-08-05T12:15:25.673000+00:00",
+      "fecha_local": "2025-08-05",
+      "editado_utc": "2025-08-05T12:18:23.269000+00:00",
+      "texto": "BASE SHO \nArchi : **una voz muy ronca le contesta ** \nMás o menos , se te escucha cortado. \nQuiza es porque es subterráneo la base de Ukyio.  \nPrueba de reajustar la frecuencia arcana a ver que tal",
+      "mensaje_sha256": "a8af34cb22c5bef51c078950cfd215d705f2e7206bfa147eedf4c5d66906d9ff",
+      "tipo_discord": 19,
+      "referencia": "1402262741057671258",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1402263728493428819",
+      "texto_sha256": "7481989121c01c9a226bd2a1448f1fa095d81c7551176f482f768aa736699879",
+      "adjuntos": []
+    },
+    {
+      "id": "1402264081683054592",
+      "fecha_utc": "2025-08-05T12:16:49.880000+00:00",
+      "fecha_local": "2025-08-05",
+      "editado_utc": "2025-08-05T12:21:11.081000+00:00",
+      "texto": "BASE DE SHO\nCozzy: uy esto es nuevo ¿Es algo q has contruido puchamoncito mio?",
+      "mensaje_sha256": "0c927b25f403d480aff0b8597907cff6fa1c7f68cf0e00b172f1b221d2f6c3d7",
+      "tipo_discord": 19,
+      "referencia": "1402263728493428819",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1402264081683054592",
+      "texto_sha256": "623cd86eccedae1b74bcb042341be0ec4a8e873d7aea497541afa21353209b63",
+      "adjuntos": []
+    },
+    {
+      "id": "1402265186663927849",
+      "fecha_utc": "2025-08-05T12:21:13.328000+00:00",
+      "fecha_local": "2025-08-05",
+      "editado_utc": "2025-08-05T12:21:25.744000+00:00",
+      "texto": "BASE SHO\nArchi: Mon amour,  un placer verte . Aún me duele la cabeza de la fiesta del otro dia . \n\nSi . Es un proyecto de Guxi , pero creo que este no es para hacer boom . **pone cara de culo** buuuu... aburrido .",
+      "mensaje_sha256": "03f6b448583cc5d27ca6d14e672796495dae4164eac42218a0116a2bf708bf0f",
+      "tipo_discord": 19,
+      "referencia": "1402264081683054592",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1402265186663927849",
+      "texto_sha256": "f7231a422d2d9ee62673b49f8d1d8ac452cf1c7759b30e07e82f001afb3bce65",
+      "adjuntos": []
+    },
+    {
+      "id": "1402265481125040250",
+      "fecha_utc": "2025-08-05T12:22:23.533000+00:00",
+      "fecha_local": "2025-08-05",
+      "editado_utc": null,
+      "texto": "BASE DE SHO\nCozzy: Jo...bueno...me debes unos cuantos boom boom de esta noche puchamoncito",
+      "mensaje_sha256": "860f45d14d87c044143f462ea40798f82bb1fd764bb8d8982e861e2f7ac62a04",
+      "tipo_discord": 19,
+      "referencia": "1402265186663927849",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1402265481125040250",
+      "texto_sha256": "0499c5006c32749173705d4865ccb9a6bfcb4795f17f6adf2d88e82743b07f90",
+      "adjuntos": []
+    },
+    {
+      "id": "1402266486164291695",
+      "fecha_utc": "2025-08-05T12:26:23.153000+00:00",
+      "fecha_local": "2025-08-05",
+      "editado_utc": null,
+      "texto": "BASE SHO \nArchi: Te tengo preparado un plan de actividades que te gustará, moncheri.  Incluye pirotecnias,  espionaje,  saboteos y caos.  Una cita perfecta eeee . \n\nSolo espero que algún dia me la acepte mi lady **dice haciéndose el remolon**",
+      "mensaje_sha256": "f9bc42b27dbc2d842f95487f96f002a64514571ce76a9bc139e215aac57e9025",
+      "tipo_discord": 19,
+      "referencia": "1402265481125040250",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1402266486164291695",
+      "texto_sha256": "115d734463f5ba5fbb386af798cd6f4aa57d6587bf4da3f04983321a4fe96558",
+      "adjuntos": []
+    },
+    {
+      "id": "1402266795498536981",
+      "fecha_utc": "2025-08-05T12:27:36.904000+00:00",
+      "fecha_local": "2025-08-05",
+      "editado_utc": null,
+      "texto": "BASE DE SHO\nCozzy: **Se escucha un ronroneo** Esta noche entonces...si no habra muchos boom boom por la capital",
+      "mensaje_sha256": "98a837248d3d504ccc9a44fb6fa14677eee47f7589b432fbfc5fa4e30e26516f",
+      "tipo_discord": 19,
+      "referencia": "1402266486164291695",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1402266795498536981",
+      "texto_sha256": "638d9ffe1d2fc1261908a22d74f018278693e07cc3cce3b62aa989251559b62e",
+      "adjuntos": []
+    },
+    {
+      "id": "1402269108245889035",
+      "fecha_utc": "2025-08-05T12:36:48.306000+00:00",
+      "fecha_local": "2025-08-05",
+      "editado_utc": null,
+      "texto": "https://tenor.com/view/the-mask-jim-carrey-heartbeat-love-gif-7425811",
+      "mensaje_sha256": "c4cdfacd81047ff1afdcdb8fe9be9fb67faab8db672d31742c357b7b18035006",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1402269108245889035",
+      "texto_sha256": "ce74c18bab3e11d52d7b199c648298042aa4cebe4859acb5ec1310ad501f1fd1",
+      "adjuntos": []
+    },
+    {
+      "id": "1402270443314090014",
+      "fecha_utc": "2025-08-05T12:42:06.611000+00:00",
+      "fecha_local": "2025-08-05",
+      "editado_utc": null,
+      "texto": "BASE SHO \nArchi: ouh yeah baby",
+      "mensaje_sha256": "474fe1a0678a4cdd7f2a2db3f511cc1ac686686b0f3b48e02d890105dc309f6c",
+      "tipo_discord": 19,
+      "referencia": "1402266795498536981",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1402270443314090014",
+      "texto_sha256": "0e952866c9d197dd2b320880a35bd809a7678ba0d87b4f0346736d546966f9a1",
+      "adjuntos": []
+    },
+    {
+      "id": "1402271403520168059",
+      "fecha_utc": "2025-08-05T12:45:55.542000+00:00",
+      "fecha_local": "2025-08-05",
+      "editado_utc": null,
+      "texto": "BASE DE SHO \nCozzy: **Se oye un besito** Adiosito voy a hacer de mis cosas por ahi, asi animo a su magestad la Shogun que seguro anda aburrida con tanto papel, le voy a animar la tarde.\n🃏 **Cozzy sale de escena** 🃏",
+      "mensaje_sha256": "6c58a18f1478b21e6a35313d493a49ca18c4b31e88bc27a35ccd96f40995db73",
+      "tipo_discord": 19,
+      "referencia": "1402270443314090014",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1402271403520168059",
+      "texto_sha256": "cbd2d125e3df0b4a36855a65136c858fe389b75f732bb2db2e553a849034f8d2",
+      "adjuntos": []
+    },
+    {
+      "id": "1402272417166135346",
+      "fecha_utc": "2025-08-05T12:49:57.214000+00:00",
+      "fecha_local": "2025-08-05",
+      "editado_utc": null,
+      "texto": "guxi: \nya se lo que pasa el cable de toma a tierra no esta enchufado\n**termina las ultimas preparaciones**\narchi me escuchas? recuerda darle al boton para cortar y dejar la linea libre que os he escuchado todo \n<@616683133374562304>",
+      "mensaje_sha256": "0c7043f0e46c825a05c33ffb5790d66c97fe57a355b826425a855a479d45fe9f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1402272417166135346",
+      "texto_sha256": "ceb215500e21fd4566efa3fc960580ab0f8a45ce2457293486d08a75518f6bb3",
+      "adjuntos": []
+    },
+    {
+      "id": "1402275531012964414",
+      "fecha_utc": "2025-08-05T13:02:19.613000+00:00",
+      "fecha_local": "2025-08-05",
+      "editado_utc": null,
+      "texto": "Archi: **rie por qué le hayan escuchado ** \nBien , ahora si se te escucha",
+      "mensaje_sha256": "f5874d7f6964983549196392a7c73c9733df6e9d30ec40ae5e7104d1784c43e8",
+      "tipo_discord": 19,
+      "referencia": "1402272417166135346",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1402275531012964414",
+      "texto_sha256": "84ab066341d1c2393665c3edd033681bace6feb9d88c40a09353fc17b8d4f431",
+      "adjuntos": []
+    },
+    {
+      "id": "1402275831580987515",
+      "fecha_utc": "2025-08-05T13:03:31.274000+00:00",
+      "fecha_local": "2025-08-05",
+      "editado_utc": null,
+      "texto": "guxi: perfecto se te oye bien tambien , voy preparando las cosas para que nos de permiso para poner una en palacio y en el sur , cambio",
+      "mensaje_sha256": "081dae59023b7ee6763381b6fd76c61ffbb7419f60f47257c1db7c9b63ecd5ab",
+      "tipo_discord": 19,
+      "referencia": "1402275531012964414",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1402275831580987515",
+      "texto_sha256": "6d8f3233e46da807275e46ce4e0ea4e082497f0cc52597e3ca500356ede2cf1c",
+      "adjuntos": []
+    },
+    {
+      "id": "1402280837227221042",
+      "fecha_utc": "2025-08-05T13:23:24.713000+00:00",
+      "fecha_local": "2025-08-05",
+      "editado_utc": null,
+      "texto": "Archi : yo tengo que ir a la tienda de Tsugami a por un traje que esta koche tengo una cita . \nQuedamos para mañana acabar la de palacio y el campamento te parece ?",
+      "mensaje_sha256": "91cc8edb89a661cd23b5bacabdc6ca71a0e5faa792cec677d32d5b5c68f8be3a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1402280837227221042",
+      "texto_sha256": "f57f4fe41398e754be2e67b46fbcc676eafda6ebba24b9c065b203d04a3d6a27",
+      "adjuntos": []
+    },
+    {
+      "id": "1402382870080651264",
+      "fecha_utc": "2025-08-05T20:08:51.241000+00:00",
+      "fecha_local": "2025-08-05",
+      "editado_utc": null,
+      "texto": "guxi: si mañana quedamos",
+      "mensaje_sha256": "5ac62e00309a87b4b6ba911fb93ae9f996322787e1fb9af2d1acb482e067b586",
+      "tipo_discord": 19,
+      "referencia": "1402280837227221042",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1402382870080651264",
+      "texto_sha256": "f9d421415d60c9aa5afed6a2ce85693efc06380f1e4cca79a99cd46ab9eba71f",
+      "adjuntos": []
+    },
+    {
+      "id": "1402382933242679306",
+      "fecha_utc": "2025-08-05T20:09:06.300000+00:00",
+      "fecha_local": "2025-08-05",
+      "editado_utc": null,
+      "texto": "🔴 fin de escena🔴",
+      "mensaje_sha256": "77fa57643585d226efe0ee70c4b894448b68f012f72122e79bace253ed0c0a47",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1402382933242679306",
+      "texto_sha256": "906cd6a490f27f6a27bf957ba49b4845aca936431f5924262141d6e0dea25762",
+      "adjuntos": []
+    }
+  ]
+}

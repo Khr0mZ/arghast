@@ -1,0 +1,79 @@
+{
+  "id": "k-1437437542982221845",
+  "campana": "kuroto",
+  "unidad_revision": "k-1437437542982221845",
+  "hilo_id": "1362071806441160834",
+  "hilo_nombre": "Base Ukyio - Sala principal",
+  "titulo": "Xyllya llora al soñar la muerte de Arwen",
+  "resumen": "La shadar-kai despierta angustiada ante una visión de su amiga, sin que esa muerte ocurra en la escena.",
+  "relato": "Xyllya vuelve a soñar con cadáveres y finales de vidas, un paisaje que suele observar con fascinación. Esta vez una muerte la conduce a un bosque oscuro y cubierto de niebla. Allí ve a Arwen atrapada entre árboles muertos que sangran, herida y cubierta de necrosis. Una figura cadavérica alada acaricia a la niña y le arranca el corazón.\n\nLa criatura se vuelve hacia la shadar-kai y sonríe. Xyllya queda paralizada y siente un dolor en el pecho que sustituye su habitual regocijo ante la muerte. Despierta jadeando, sudorosa y con lágrimas. Se pregunta por qué la pérdida de esa niña le provoca pena cuando sabe que todos acabarán muriendo.\n\nLa narración termina con ese desconcierto íntimo. Es una pesadilla o visión onírica: no acredita la muerte real de Arwen ni identifica por nombre a la figura alada.",
+  "participantes": [
+    "Xyllya",
+    "Arwen en el sueño"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1437437542982221845",
+      "afirmacion": "Xyllya sueña la muerte de Arwen, despierta llorando y se pregunta por su propia pena.",
+      "tipo": "pensamiento"
+    }
+  ],
+  "notas": [
+    "Conservar la distinción entre sueño y suceso ocurrido.",
+    "La angustia es privada de Xyllya; no se narra que la comparta con Arwen."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-11-10T13:43:36.545000+00:00",
+  "fin_utc": "2025-11-10T13:43:36.545000+00:00",
+  "fecha_local": "2025-11-10",
+  "intervalo": {
+    "anterior": 165,
+    "siguiente": 166,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1436069852543586424",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438244036996628491",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 165,
+        "fecha": "2025-11-06",
+        "inicio_referencia_utc": "2025-11-06T19:08:37+00:00",
+        "fin_estimado_utc": "2025-11-06T22:46:55+00:00",
+        "duracion_video_segundos": 13098,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1436069852543586424"
+      },
+      {
+        "capitulo": 166,
+        "fecha": "2025-11-12",
+        "inicio_referencia_utc": "2025-11-12T19:07:55+00:00",
+        "fin_estimado_utc": "2025-11-12T22:08:14+00:00",
+        "duracion_video_segundos": 10819,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438244036996628491"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1437437542982221845",
+      "fecha_utc": "2025-11-10T13:43:36.545000+00:00",
+      "fecha_local": "2025-11-10",
+      "editado_utc": null,
+      "texto": "**Huesos, cuerpos y vísceras llenan los sueños de la shadar-kai Xyllya. La parca de la muerte siempre ha soñado con el final de cada ser vivo que se cruza en su camino, deseando estar cerca para observarlo. No todos aprecian la belleza del final de una vida… pero ella sí.\nMientras deambula por ese lúgubre lugar, pisando cráneos y huesos, una muerte llama su atención. Al acercarse, puede distinguir un gran bosque, frondoso y oscuro, envuelto en una densa niebla. Al caminar en busca de la víctima de esa visión, nota una extraña sensación en el pecho, algo que nunca había experimentado antes.\nEsa sensación se convierte en dolor intenso cuando ve a la criatura cuyo destino está condenado. Enredada entre las ramas de árboles muertos que sangran como si estuvieran vivos, se encuentra la pequeña Arwen. Su cuerpo está cubierto de necrosis y cortes profundos, una visión terrible incluso para los ojos de la shadar-kai.\nA su lado, una figura cadavérica con dos enormes alas extendidas acaricia suavemente el rostro de la niña. Su mano se desliza por el pequeño cuerpo hasta el pecho, donde, con un movimiento rápido y preciso, arrastra su mano hacia dentro y arranca el corazón.\nAl notar la presencia de Xyllya, la criatura se gira para mirarla con una enorme sonrisa. En ese instante, Xyllya queda paralizada, sin experimentar el regocijo habitual ante la muerte, sino un dolor profundo en el pecho que la despierta abruptamente.**\n\nXyllya: **Abre los ojos jadeando, con el cuerpo sudoroso por los nervios. No puede comprender lo que le está pasando; siempre ha tenido estos sueños y nunca había sentido este dolor. Al posar sus manos sobre su rostro, nota lágrimas que se escapan… ¿Siente pena por esa niña? ¿Por qué… si todos acabamos muriendo?**\n<@&1219989260787253278> \n\n🔴Fin de la escena🔴",
+      "mensaje_sha256": "d6c7de73f73173207d6059a472d483ed8a6cb1adafbaf7b503ea6b37fe309d24",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362071806441160834/1437437542982221845",
+      "texto_sha256": "e402e2dbda52d047ce5d7e98a4d36f596e7a28081049ec3468f5fc52416653d0",
+      "adjuntos": []
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "id": "k-1463807432684863501",
+  "campana": "kuroto",
+  "unidad_revision": "k-1463807432684863501",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "La vigilia de los que quedan",
+  "resumen": "Sho celebra la paz mientras Arwen teme por su protector.",
+  "relato": "Días después de la derrota de Ootakemaru, soldados y yokais desmontan juntos las defensas del sur. En Sho se preparan festejos y empieza a hacerse visible una convivencia antes impensable. Ante la base, sin embargo, una fila de ciudadanos rinde homenaje a Kurobane, muerto en la batalla, mientras Wukong permanece inconsciente tras agotar su ki. Arwen ha probado remedios y consultas a sus amigos de la naturaleza sin conseguir despertarlo. O-Fortune, Miautruska y el Capitán Gorrión la acompañan; la gata distingue su sueño de la muerte y trata de darle esperanza.\n\nBanzo agradece durante horas el respeto de la población y después abraza a la niña, que teme perder también a su protector. Le asegura que el mono solo está agotado, aunque él mismo siente miedo. Desde el tejado le muestra la multitud y describe una familia que ya abarca a humanos y yokais de la isla. Para aliviar la espera, propone esconder el bastón de Wukong y darle una broma cuando despierte. Arwen acepta y sale en forma de perro a buscar a Chani y Shizzuka. La intención de bromear convive con el duelo, sin borrar la pérdida del ninja.",
+  "participantes": [
+    "Banzo",
+    "Arwen",
+    "Wukong",
+    "Miautruska",
+    "Capitán Gorrión",
+    "O-Fortune"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1463807432684863501",
+      "afirmacion": "El narrador confirma la derrota de Ootakemaru, el duelo por Kurobane y la convalecencia del mono.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1463812793676468307",
+      "afirmacion": "Arwen intenta sin éxito despertar a su protector con remedios.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1463817603196649522",
+      "afirmacion": "Miautruska distingue la inconsciencia de Wukong de una muerte.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1463828029967958018",
+      "afirmacion": "Banzo muestra la multitud a Arwen y propone esconder el bastón.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "El narrador confirma expresamente la derrota de Ootakemaru y la muerte de Kurobane; no son solo rumores. Su cremación queda representada.",
+    "Wukong no estaba muerto según la vigilia y despierta en escena; no describirlo como una resurrección equivalente a la de Shirz.",
+    "La experiencia del Palacio de Jade y la prueba están representadas; los episodios del camino que no aparecen directamente se atribuyen al relato posterior del mono.",
+    "La afirmación consoladora de Banzo de que Arwen y Wukong no pueden morir no se convierte en regla de invulnerabilidad.",
+    "Tang Sanzang queda acreditado como nombre del monje Tang; Eerlang/Erlang son variantes del nombre de Shen en la misma conversación. No se añaden deidades externas ni poderes no representados.",
+    "La ficha visual de Sempereia se ha leído íntegra. Solo el nombre y la historia están en el papel según la aclaración del autor; la etimología y la apariencia poética adicional no son un texto que Sera haya leído necesariamente.",
+    "El relato de origen de la flor se conserva como leyenda del regalo, no como demostración histórica de una unión divina.",
+    "El afecto tras la entrega no constituye por sí mismo nueva pareja o ruptura del vínculo simbólico con Guxi.",
+    "La paternidad afectiva de Jhin y Shizzuka se explicita mutuamente, sin inventar filiación biológica.",
+    "Las exageraciones de Shizzuka sobre la guerra y su liderazgo no sustituyen la crónica completa de la batalla.",
+    "Se omiten las bromas sexuales asociadas al bastón en la redacción editorial sin alterar los originales; se conserva la secuencia narrativa de robo, persecución, recuperación e inundación.",
+    "El estado automático proponía abierta, pero el último mensaje declara el fin del rol escrito del grupo. Se cierra esta ficha, conservando pendientes de campaña en el informe del hilo."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-01-22T08:08:08.179000+00:00",
+  "fin_utc": "2026-01-22T09:49:13.587000+00:00",
+  "fecha_local": "2026-01-22",
+  "intervalo": {
+    "anterior": 181,
+    "siguiente": 182,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1463611734899167390",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1465425150315991041",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 181,
+        "fecha": "2026-01-21",
+        "inicio_referencia_utc": "2026-01-21T19:10:08+00:00",
+        "fin_estimado_utc": "2026-01-21T22:02:01+00:00",
+        "duracion_video_segundos": 10313,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1463611734899167390"
+      },
+      {
+        "capitulo": 182,
+        "fecha": "2026-01-26",
+        "inicio_referencia_utc": "2026-01-26T19:16:02+00:00",
+        "fin_estimado_utc": "2026-01-26T21:44:10+00:00",
+        "duracion_video_segundos": 8888,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1465425150315991041"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1463807432684863501",
+      "fecha_utc": "2026-01-22T08:08:08.179000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "**Han pasado un par de días desde que acabasteis con Ootakemaru.\nJunto a varios yokais, los soldados del Shogunato han comenzado a desmontar las avanzadillas y los puestos de defensa del sur. A pesar de las numerosas bajas en ambos bandos, el ambiente se ha vuelto más sereno: los yokais colaboran con los soldados, les lanzan bromas amistosas, y estos responden entre risas, olvidando por un momento antiguos prejuicios.**\n\n**En las calles de Sho se respira un aire festivo. Los comerciantes empiezan a decorar sus locales para la celebración que tendrá lugar en unos días. Los niños corren entre los puestos, jugando con pequeños yokais que recorren la ciudad en libertad, mientras los adultos ríen y cuelgan adornos por las calles. Tras tanto tiempo, por fin se siente una atmósfera alegre y reconfortante.**\n\n**Sin embargo, no en todos los rincones de Sho se comparte ese sentimiento. Una larga fila de ciudadanos se ha reunido ante la base de los antiguos Cazadores para rendir homenaje a Kurobane, el miembro de la familia caído frente a Ootakemaru.\nLa mayoría de vosotros estáis allí, junto a su ataúd… pero hay alguien cuya ausencia pesa. Wukong, el protector de la Guardiana de Kuroto, continúa postrado, aún convaleciente tras haber agotado todo su ki en aquel último y devastador ataque.**\n<@&1219989260787253278>",
+      "mensaje_sha256": "c403784f1ab75cac6b0cdb1449134056bd4f0e53a51522a67a4095e1279f649d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1463807432684863501",
+      "texto_sha256": "f22f3f0a3871e110d64713e11235fd7a14ee28ef20a6d16006433ee202ac2fa4",
+      "adjuntos": []
+    },
+    {
+      "id": "1463812793676468307",
+      "fecha_utc": "2026-01-22T08:29:26.339000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "Arwen: **La niña ha tratado de volcar todos sus esfuerzos en hacer que su guardian despierte. Desde usar sus hiervas, sus pocimas, sus olores ratos y hasta hablar con sus amigos de los bosques y la naturaleza para saber que ocurre... Pero por mucho que intenta no consigue despertarlo** Wukong...Arwen quiere comer contigo... Abre un ojito aunq sea...**Esta con la manitas sobre la cama y con la cabeza apoyada en esta** <@220602485977382912> <@214405113677217793>",
+      "mensaje_sha256": "538c011415f7432534e3cd3da0ca015dba07e53232847031953f38c07eb9675b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1463812793676468307",
+      "texto_sha256": "907708364fb87033f2e873da95d4a0094ac977ada169b72fdab240579ec7a598",
+      "adjuntos": []
+    },
+    {
+      "id": "1463815800723996726",
+      "fecha_utc": "2026-01-22T08:41:23.275000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "**O-Fortune, la señora Miautruska y el Capitán Gorrión están junto a ti acurrucados en tu cabecita y entre tus bracitos. Te abrazan y te intentan dar todo su amor en estos momentos mientras esperas que tu Protector, despierte. No se van a separar de ti, ni del monito que ha dado todo su ki para salvaros**",
+      "mensaje_sha256": "74c1940ed101fe18880b3387da709f494e173c3b36982b0b29baebc53f3c12af",
+      "tipo_discord": 19,
+      "referencia": "1463812793676468307",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1463815800723996726",
+      "texto_sha256": "568d6493fdc8d404e46035ca18eeb040effa7e15b93ca453a28c1a9a0c31da2c",
+      "adjuntos": []
+    },
+    {
+      "id": "1463816388379541768",
+      "fecha_utc": "2026-01-22T08:43:43.383000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "Arwen: **En silvano** Miautruska... ¿Tu has tenido que despedirte de muchos amigos alguna vez?",
+      "mensaje_sha256": "d414552a172396f34ae863bb057cbe10918ed6fcd42eba2fb90d6487e6f48af3",
+      "tipo_discord": 19,
+      "referencia": "1463815800723996726",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1463816388379541768",
+      "texto_sha256": "87def9db60bf838880298363ad98153689e0b1b5b87bb71b402626c715a0eb4b",
+      "adjuntos": []
+    },
+    {
+      "id": "1463817603196649522",
+      "fecha_utc": "2026-01-22T08:48:33.018000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": "2026-01-22T08:49:58.918000+00:00",
+      "texto": "Miautruska: **La gata con seis patitas, ronronea mientras se restriega entre tus bracitos y pasa su frondosa cola por tu rostro secandote alguna lagrimilla** Algunos, mi pequeña.... **Dice con voz algo triste. Pone sus patitas en la cara de Wukong y lo mueve para despertarlo (sin éxito) ** Pero este no está muerto, solo es un mono vago que no se quiere levantar",
+      "mensaje_sha256": "53cc5baa67a9b634135ed55777c7fd84d3c26032d3a2abc2b2d3a3e1c2f4428f",
+      "tipo_discord": 19,
+      "referencia": "1463816388379541768",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1463817603196649522",
+      "texto_sha256": "597791e98149a8101be3841aae6abfcc5e6181a1d0300d2282fe52fd12d46cef",
+      "adjuntos": []
+    },
+    {
+      "id": "1463818771289608244",
+      "fecha_utc": "2026-01-22T08:53:11.513000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "Arwen: Arwen no quiere despedirse de mas... Mama... Chile...Nin nin... Kalista No quiere que monito tambien se vaya...**Acurruca mas su cabecita contra el Capitan Gorrion**",
+      "mensaje_sha256": "6f1356f864d6b4dcd861d5f015b8c38ecb0a4c771eaf5fe4481a9936fc12a622",
+      "tipo_discord": 19,
+      "referencia": "1463817603196649522",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1463818771289608244",
+      "texto_sha256": "373198641ca4dfc4af7f49abb5b1f3b12e2b7099919667695c54318929c6950c",
+      "adjuntos": []
+    },
+    {
+      "id": "1463820539561771111",
+      "fecha_utc": "2026-01-22T09:00:13.102000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "Capitán Gorrión: **Deja que te apoyes en él, a pesar de ser un pajarito, tiene la suficiente fuerza para aguantar tu cabeza de niña.** Oh, mon ami, pejqueña Arguen. Le monito no puejede moguig, e le Protectore du Guardiana. **Escuchas por lo bajo un piar** Ji je le ocuge mogigse, ige a bujcaglo y remataglo",
+      "mensaje_sha256": "4526dd8c2e1b288dfed2994b40ec60b1cd8da9cecabca0e76358c93aec45bd4f",
+      "tipo_discord": 19,
+      "referencia": "1463818771289608244",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1463820539561771111",
+      "texto_sha256": "b66f97a9be556a80faaba6fae83d5ef35c9fb4b7fd1dec09761aa28e791875d3",
+      "adjuntos": []
+    },
+    {
+      "id": "1463821365600845927",
+      "fecha_utc": "2026-01-22T09:03:30.045000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "Arwen: ...Si se le pasa por la cabeza tienes permiso de picarlo donde mas duela...**Abraza al gorrion**",
+      "mensaje_sha256": "854d9465aaadea3e8762f9f5731bb85c820ef52b8fe36890ee9fc77a59db1eda",
+      "tipo_discord": 19,
+      "referencia": "1463820539561771111",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1463821365600845927",
+      "texto_sha256": "c1f7429be6fb62fccfce05e841632a6b0c1ed1adeb500857656df0219addd316",
+      "adjuntos": []
+    },
+    {
+      "id": "1463823744454627411",
+      "fecha_utc": "2026-01-22T09:12:57.208000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "Banzo : **esta en las puertas de la base , contemplando la larga hilera de gente que esta esperando para rendir homenaje al monje caído <@240564189448503306> .  \nVa agradeciendo uno por uno a todo habitante y Yokai de la isla , durante horas se pasa haciendo eso ** \n\n*Joder Wukong <@220602485977382912> ... espabila de una vez ... no me puedes hacer esto . No ahora en el final ..\n Así va acabar esto?* \n\n**se sienta al lado de Wukong y Arwen dándole vueltas a la cajita que su amigo le entregó ** \n\nSolo está agotado Arwen , tranquila . Wukong es como tu . No puede morir , tanto el como tu ahora sois uno con la isla . Vosotros sois kuroto y kuroto nunca morirá.  \n**te sonrrie pero en el fondo ves un ápice de preocupación y miedo en su mirada** <@753394009153732689>",
+      "mensaje_sha256": "058457a73f179ea3cca70d5a7108499e4cf3c565419f6e3d85d396026da5f94b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1463823744454627411",
+      "texto_sha256": "27fc0a8f530ef0b3fd82c7f683a7b34af3c5d78068b2b92a941f474895b26c9a",
+      "adjuntos": []
+    },
+    {
+      "id": "1463824265655619732",
+      "fecha_utc": "2026-01-22T09:15:01.472000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "Arwen: **Te mira...si eso se lo hubieras dicho recien llego te creeria... Pero la pequeña ha visto a muchos ya marcharse** ¿Me das un abrazo Banzo?",
+      "mensaje_sha256": "7dcfbf16b8ccce141f43657070b6148d97e08682d313acedec2ba5561bcd8cc9",
+      "tipo_discord": 19,
+      "referencia": "1463823744454627411",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1463824265655619732",
+      "texto_sha256": "5b3af4bd34d261a2778de02037242fdd7ed2f768c0f71d57a2b04dc81342623a",
+      "adjuntos": []
+    },
+    {
+      "id": "1463825619921010781",
+      "fecha_utc": "2026-01-22T09:20:24.354000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "Banzo : **te mira por unos segundos **\n\n*como has crecido...*\n\n** te agarra con cuidado y te da un abrazo rodeandote con sus brazos y acovijandote en su pecho** \n\nTodo va estar bien de acuerdo ... no me moveré de tu lado hasta que a este holgazan le de por despertar. \n**observa a Wukong tumbado**\n*eso espero amigo... eso espero ... \nLo deseo con todo mi corazón*",
+      "mensaje_sha256": "af2d86dfaf4a25fbe033d5d0ffa3bae19fca273e82c4e0c03570b0e7a573a0a0",
+      "tipo_discord": 19,
+      "referencia": "1463824265655619732",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1463825619921010781",
+      "texto_sha256": "c9587b12a283d15a92e10c2b92779a66b323e4040b3806954e52cb541c3a5002",
+      "adjuntos": []
+    },
+    {
+      "id": "1463826026512650331",
+      "fecha_utc": "2026-01-22T09:22:01.293000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "Arwen: **Se abraza a ti** ¿Tu tambien estas triste?",
+      "mensaje_sha256": "1db258b996f6a5164a803750ae191ecd6bba2a19572bd932e9e85144d9931ad6",
+      "tipo_discord": 19,
+      "referencia": "1463825619921010781",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1463826026512650331",
+      "texto_sha256": "2790f0a7b0e3156860097e5a8e9afd737c10a2164e83e83607e71bb6033571d3",
+      "adjuntos": []
+    },
+    {
+      "id": "1463828029967958018",
+      "fecha_utc": "2026-01-22T09:29:58.954000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "Banzo : triste ... \n**se queda pensando en la pregunta ** \nCreo que no es tristeza . \nMira te mostrare algo . \n**se levanta y sale por la puerta trasera de la base , pega un salto y sube al tejado con ella ** \n\nVes eso ... \n**te muestra como miles de personas junto a Yokais están haciendo cola y reuniéndose para agradecer a los cazadores y rendir homenaje** \n\nAl principio fue kalista jelbreg , tu , tip tap top , guxi wukong aka gur ... luego se unieron sera kuro chani kazu .. incluso ese gnomo loco . La última en entrar en la familia fue Vespera . \n\nPero ahora ... ahora la familia es todo esto ... hasta donde baña la luz es nuestra familia Arwen . \nY no no es tristeza ... \nEs preocupación \n\nPero sabes que . Así no se consigue nada , asi que vamos a escondere ese palo que tanto le gusta a Wukong para hacerle una broma cuando despierte ! Te parece ?",
+      "mensaje_sha256": "b7804e66cbb7ae68fe6b8dba0a514502742e9bd433ad4d3d1e9757c82998d0ed",
+      "tipo_discord": 19,
+      "referencia": "1463826026512650331",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1463828029967958018",
+      "texto_sha256": "b35f7e5d2fdbaef9ea881f0c75993d9f90dd5f86878b8bb8d1966f98509dd68d",
+      "adjuntos": []
+    },
+    {
+      "id": "1463828600770920532",
+      "fecha_utc": "2026-01-22T09:32:15.044000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "Arwen: **Mira alrededor cuando llamas a todos familia para despues mirarte a ti y asentir con una pequeña sonrisa** Vale, arwen sabe donde esconderlo y que no lo encuentre rapido",
+      "mensaje_sha256": "25da0a8a96e4f305b4c1b58976c1d5070ade5d5ecbda2d66bfb0eac92c7884ac",
+      "tipo_discord": 19,
+      "referencia": "1463828029967958018",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1463828600770920532",
+      "texto_sha256": "1605f33ae52f62a9ca7939fe31054434b715f6399845e7570766db5dffe6b25b",
+      "adjuntos": []
+    },
+    {
+      "id": "1463830044005896307",
+      "fecha_utc": "2026-01-22T09:37:59.138000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "**(omitir el pelo que le sale. Banzo por el.casco , calvo for ever ) **",
+      "mensaje_sha256": "732931c41c32d9a7da7287f8e05200a3788c8eb43764f666be77e6e367546dbc",
+      "tipo_discord": 19,
+      "referencia": "1463828600770920532",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1463830044005896307",
+      "texto_sha256": "32c54b8ac0f534126205d4d2dfc54292de267bdce689dc7129046c3e754a9466",
+      "adjuntos": [
+        {
+          "id": "1463830043246723095",
+          "nombre": "file_00000000d9fc7246b1fcc34cdf9cc092.png",
+          "tipo": "image/png",
+          "archivo": "adjuntos/1463830043246723095.png",
+          "url": "rol_escrito/adjuntos/1463830043246723095.png",
+          "bytes": 2514030,
+          "sha256": "346bcd27ebb0aa882433dc5b2f45c9f3b4dfc0e1358ddb21665afe2e49dfb2df"
+        }
+      ]
+    },
+    {
+      "id": "1463830534873677876",
+      "fecha_utc": "2026-01-22T09:39:56.170000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "Arwen: podriamos esconderselo en lo alto del palacio cambiando el palo de la bandera, esterrarlo en el jardin o si encontramos al esrirado del chino meterselo por el trasero... Si se metia lanzas seguro el palo tambien podria meterselo",
+      "mensaje_sha256": "bc5c57f4e345928f3f491d2d6b69a40d2a9f5d007c460a864a5c7ac3011f7dc5",
+      "tipo_discord": 19,
+      "referencia": "1463830044005896307",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1463830534873677876",
+      "texto_sha256": "b3b0b886ae7a3831ea3eabd471e3a52c0eb38c87bf2de105092a277551b49f29",
+      "adjuntos": []
+    },
+    {
+      "id": "1463831938216231038",
+      "fecha_utc": "2026-01-22T09:45:30.753000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": "2026-01-22T09:47:54.079000+00:00",
+      "texto": "Banzo : pero Arwen !!! Jajajaj **se hecha a reir ** \nPequeña demonia , cualquiera de las ideas me encanta . \nVenga bajemos , y démonos prisa , ese mono seguro que estará soñando cochinadas , no tardara mucho en despertar... \nAsique debemos darnos prisa , vamos corre . \n**pega un salto y bajáis otra vez a la.base junto Arwen y se acercan a Wukong**\n Arwen ve a buscar a Chani y a Shizzuka las necesitamos para esta mision secreta verdad ? ** te sonrrie \n\nDespués Banzo hecharia una ojeada en busca de Seraphina <@408026114548695061> **",
+      "mensaje_sha256": "c66a38a33cd605c7ba808f189e225da1368729c9466db4d41e6b3c425b7c46d2",
+      "tipo_discord": 19,
+      "referencia": "1463830534873677876",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1463831938216231038",
+      "texto_sha256": "24d5ae348d9b97ec04e73e2ce8ff4cca014c60f4c6f4d3a3af3a8eea3f443471",
+      "adjuntos": []
+    },
+    {
+      "id": "1463832872850030623",
+      "fecha_utc": "2026-01-22T09:49:13.587000+00:00",
+      "fecha_local": "2026-01-22",
+      "editado_utc": null,
+      "texto": "Arwen: **Baja contigo** A la orden **Saludo militar y se vuelve perro para ratrear a ambas niñas y encontrarlas** <@214405113677217793> <@408026114548695061>",
+      "mensaje_sha256": "6f93660cd32eb328855d0c7b9bf4b328b141feb05c627b9b5459ea24aadb1731",
+      "tipo_discord": 19,
+      "referencia": "1463831938216231038",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1463832872850030623",
+      "texto_sha256": "6149410fdc0ac014d1382569876c41f40a9698b0fd2b21257124a34cac4a2a60",
+      "adjuntos": []
+    }
+  ]
+}

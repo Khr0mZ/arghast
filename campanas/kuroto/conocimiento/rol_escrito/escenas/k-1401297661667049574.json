@@ -1,0 +1,217 @@
+{
+  "id": "k-1401297661667049574",
+  "campana": "kuroto",
+  "unidad_revision": "k-1401249875118522508",
+  "hilo_id": "1362072544009523360",
+  "hilo_nombre": "Base Sho - Sala principal",
+  "titulo": "Sin rencores",
+  "resumen": "Sera y Archi cierran su malestar por lo ocurrido en Ukiyo.",
+  "relato": "Seraphina acude a Sho buscando a Guxi y encuentra en cambio a Archi. Todavía afectada por la misión de Ukiyo, se disculpa por haberlo atacado y teme que conserve rencor. El gnomo la tranquiliza: reconoce que actuó bajo la influencia de magia oscura y le ofrece la mano. Ella la estrecha aliviada y propone compartir una cerveza para conocerse mejor.\n\nArchi dice haber trabajado con Guxi y exagera su relación docente y lo ocurrido durante la conversación anterior, afirmando que el artificiero habló abiertamente de su intimidad. Sera duda de esa versión porque conoce su timidez; ambos responden con bromas sobre su carácter y la relación de la pareja. El gnomo termina admitiendo que Guxi no lo gritó como acababa de sugerir. Al aceptar su invitación a la primera ronda, Seraphina lo toma del brazo y salen juntos hacia Sho, hablando de canciones de mar. El encuentro cierra su disgusto personal por el ataque, sin representar todavía la reunión con Guxi ni la consumición.",
+  "participantes": [
+    "Seraphina",
+    "Archi"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1401299157116911667",
+      "afirmacion": "Sera se disculpa con Archi por haberlo lastimado.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1401300845915799582",
+      "afirmacion": "Archi atribuye el ataque a la influencia mágica y ofrece reconciliarse.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1401301946551238736",
+      "afirmacion": "Seraphina estrecha su mano y se siente aliviada.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1401306256135684168",
+      "afirmacion": "Sera pone en duda la versión de Archi sobre la franqueza pública de Guxi.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1401310256360853554",
+      "afirmacion": "Archi y Sera salen juntos para beber.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La descripción técnica corresponde a un proyecto y una fase de montaje; no hay prueba de comunicación ni certificación de cobertura global.",
+    "Archi exagera su condición de maestro y la conversación íntima; Guxi la contradice y no se presenta esa exageración como hecho.",
+    "El compromiso de Guxi y Sera queda expresamente confirmado; no se inventa boda ni embarazo."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-08-02T20:16:37.393000+00:00",
+  "fin_utc": "2025-08-02T21:06:40.202000+00:00",
+  "fecha_local": "2025-08-02",
+  "intervalo": {
+    "anterior": 142,
+    "siguiente": 143,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1400539301288349778",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1403077303029989558",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 142,
+        "fecha": "2025-07-31",
+        "inicio_referencia_utc": "2025-07-31T18:02:52+00:00",
+        "fin_estimado_utc": "2025-07-31T21:03:04+00:00",
+        "duracion_video_segundos": 10812,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1400539301288349778"
+      },
+      {
+        "capitulo": 143,
+        "fecha": "2025-08-07",
+        "inicio_referencia_utc": "2025-08-07T18:07:58+00:00",
+        "fin_estimado_utc": "2025-08-07T22:23:43+00:00",
+        "duracion_video_segundos": 15345,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1403077303029989558"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1401297661667049574",
+      "fecha_utc": "2025-08-02T20:16:37.393000+00:00",
+      "fecha_local": "2025-08-02",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\n**Guxi se había tardado en volver, por lo que me desesperé (que casi no se me da) y lo fui a buscar directo a la base, entrando como si nada y pasandome de largo**\n\nGuxi!! Cariño!! Estás aquí?\n\n**Empecé a caminar por los pasillos esperando encontrarlo**\n\nA ver si no se fue a comprar otra pinche revista como la que quemó...",
+      "mensaje_sha256": "2d3ef81084133263b0d72832ee2276692d07862324f7925670b7b57488504772",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1401297661667049574",
+      "texto_sha256": "6cfb71993f87e6732ace0643381945427baa372dc1e10fc622e028c36fd59176",
+      "adjuntos": []
+    },
+    {
+      "id": "1401298387604734042",
+      "fecha_utc": "2025-08-02T20:19:30.470000+00:00",
+      "fecha_local": "2025-08-02",
+      "editado_utc": null,
+      "texto": "Archi : *hmmm revista eee ...* \n\nQue grata y agradable sorpresa la tormenta de los mares aparece en escena \n**baja del tejado levitación mientras hace una gran reverencia **\n\nLady Seraphina \n**aterriza enfrente tuyo **",
+      "mensaje_sha256": "8d7d4bcb826392f9115cb3fc54e71b93883e78f872515d0e36caf48d0cb98f93",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1401298387604734042",
+      "texto_sha256": "ae27ca41425767a42ce05beda295b695114d65aeefadb3bb0a16ff2cd9d432b3",
+      "adjuntos": []
+    },
+    {
+      "id": "1401299157116911667",
+      "fecha_utc": "2025-08-02T20:22:33.936000+00:00",
+      "fecha_local": "2025-08-02",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\nOh!, qué tal Archi?, también me da gusto verte, por cierto, ya estás mejor?, aún así quería disculparme contigo, no quise lastimarte \n\n**Aún tenía ese sentimiento de tristeza por aquella misión**\n\nEspero que no haya rencores, y si los hay, que los podamos solucionar con una cerveza o lo que haya",
+      "mensaje_sha256": "5e7c1137234aa4d78e80937910ab3da40e28bd8e7f4873840f0b5eff555eabff",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1401299157116911667",
+      "texto_sha256": "073f20779774df44ab0a6b09c8fa941a69461ffa0737f186a3e30ae9325db5eb",
+      "adjuntos": []
+    },
+    {
+      "id": "1401300845915799582",
+      "fecha_utc": "2025-08-02T20:29:16.577000+00:00",
+      "fecha_local": "2025-08-02",
+      "editado_utc": null,
+      "texto": "Archi : pero como ? Aún con eso ? \nNo se preocupe my lady estaba bajo la influencia de esa magia tenebrosa. \n\n**Te ofrece la mano **\nSin rencores ?",
+      "mensaje_sha256": "e3b998314b9579ee09a0324f4229d0c005f62c5d9dcdb756ed92f277ee534205",
+      "tipo_discord": 19,
+      "referencia": "1401299157116911667",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1401300845915799582",
+      "texto_sha256": "70c92bdeb8bf030ae2667c0833fc24b6e771737651570604dd0bcf2e82b5966b",
+      "adjuntos": []
+    },
+    {
+      "id": "1401301946551238736",
+      "fecha_utc": "2025-08-02T20:33:38.989000+00:00",
+      "fecha_local": "2025-08-02",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\n**Sonreí más aliviada**\n\nSin rencores Archi\n\n**Estreché su mano, sintiéndome menos angustiada**\n\nPero aún así te debo una cerveza, que hace falta que nos conozcamos mucho más, por cierto, no viste a Guxi?, me dijo que trabajaría en algo y que regresaría, pero se tardó demasiado",
+      "mensaje_sha256": "1da30a0c82415cf26567a126ee9c0b61fa84f44f892dd51caffc69f28b724185",
+      "tipo_discord": 19,
+      "referencia": "1401300845915799582",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1401301946551238736",
+      "texto_sha256": "693a9e0f0f31a5e3d17f13d4c9a4e55e5d35320644f59788fc541aec44355681",
+      "adjuntos": []
+    },
+    {
+      "id": "1401305179956969492",
+      "fecha_utc": "2025-08-02T20:46:29.893000+00:00",
+      "fecha_local": "2025-08-02",
+      "editado_utc": "2025-08-02T20:47:20.709000+00:00",
+      "texto": "Archi: **al estrechar la mano haría otra reverencia para besar la mano de Sera ** \nImposible rechazar una copa . \n\nY si he estado trabajando duro esta tarde y lo he visto un rato . \nFue una buena charla entre varones .\nUn grande maese guxi . Cada dia me siento mas orgulloso de el sabes . El me considera su maestro pero yo creo que ya puede volar solo . \nEl ver como se fue hace un rato volando mientras gritaba al viendo sobre sus hazañas en la alcoba **hace el paripe como que llora y se limpia con un pañuelo ** .\nEste chico me llena de orgullo .",
+      "mensaje_sha256": "fed99d3ecbf657aef952f5ec8dc6dd954c43a6129f6154d7c2e131300076bcd5",
+      "tipo_discord": 19,
+      "referencia": "1401301946551238736",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1401305179956969492",
+      "texto_sha256": "430a7b8e267f70ce5c28c47e24601ff40adf14d2eb2f40ff01913af976779ac4",
+      "adjuntos": []
+    },
+    {
+      "id": "1401306256135684168",
+      "fecha_utc": "2025-08-02T20:50:46.474000+00:00",
+      "fecha_local": "2025-08-02",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\nOooooohhhh, así que tú eres quien le ha enseñado todo lo que sabe, ya veo.. ya veo...\n\n**Me le quedé viendo con semblante de duda al escuchar lo de las hazañas**\n\nGuxi?, gritando al viento eso?, ppffff JAJAJAJA, esa cosita tímida hablando de sexo al mundo?, lo dudo un poco, aunque la de las hazañas soy yo\n\n**Simulo un semblante de orgullo**\n\nNo es por hacer de menos a mi pequeño, pero quien lleva el timón de este barco, es la capitana",
+      "mensaje_sha256": "ede4e734b46e83810bb4e95b4514c27d60bd3eb5d08c7ce940a648a9d27e9987",
+      "tipo_discord": 19,
+      "referencia": "1401305179956969492",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1401306256135684168",
+      "texto_sha256": "1013cf5c6c0983faf3f25a100ca116bdcdddbac3838f3fc7bc5cd12dddf3c798",
+      "adjuntos": []
+    },
+    {
+      "id": "1401307240761135165",
+      "fecha_utc": "2025-08-02T20:54:41.227000+00:00",
+      "fecha_local": "2025-08-02",
+      "editado_utc": null,
+      "texto": "Archi: bueno quizá no lo ha chillado,  pero decirlo si que lo ha dicho . Cada vez se suelta mas debe estar orgullosa my lady . \n**la mira de arriba abajo detenidamente**\nY que lo diga señorita . Se ve quien lleva los pantalones \n**se frota el bigote y le ofrece el brazo mientras levita para salir de la base ** \nMe deja que le invite a la primera ronda por lo menos madam?",
+      "mensaje_sha256": "7c422848783ac1e4e8e35165b3d2764dac7d91b1d00e3c83757241bf512dc4ec",
+      "tipo_discord": 19,
+      "referencia": "1401306256135684168",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1401307240761135165",
+      "texto_sha256": "9c48f234c6d43a1b3a8554ff5c6b6b1687e5a64828b90fcccf928d15e61d05fe",
+      "adjuntos": []
+    },
+    {
+      "id": "1401309601755959386",
+      "fecha_utc": "2025-08-02T21:04:04.132000+00:00",
+      "fecha_local": "2025-08-02",
+      "editado_utc": null,
+      "texto": "Seraphina:\n\nNo es ni necesario que lo preguntes, en dónde haya alcohol, ahí voy a estar \n\n**Le tomo del brazo**\n\nAndando señor elegante, que hoy tenemos que brindar por muchas cosas, ya se nos ocurrirán cuales, pero tenemos que celebrar",
+      "mensaje_sha256": "a51ffca6d4dbf94c05c85f10122416e7301c9ec150639ba4b4d6f3358bfb2371",
+      "tipo_discord": 19,
+      "referencia": "1401307240761135165",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1401309601755959386",
+      "texto_sha256": "18595bc4c82f1e756f61b4a3724f62e5a903ce985a68d1c16f1415e68a895922",
+      "adjuntos": []
+    },
+    {
+      "id": "1401310256360853554",
+      "fecha_utc": "2025-08-02T21:06:40.202000+00:00",
+      "fecha_local": "2025-08-02",
+      "editado_utc": null,
+      "texto": "Archi: amen a eso . \n**ambos salen de base en dirección a Sho ** \nEnseñeme alguna de esas canciones de alta mar señorita **dice mientras desparecen en el camino ** \n\n\n🔴 FIN DE LA ESCENA  🔴",
+      "mensaje_sha256": "3a1ab9c82df2d47bbec323665062da2ca3d40c86f2f9f1a73ac67fefc142c631",
+      "tipo_discord": 19,
+      "referencia": "1401309601755959386",
+      "url_discord": "https://discord.com/channels/946724148628041748/1362072544009523360/1401310256360853554",
+      "texto_sha256": "58b47d1329f2a1fadede8735ddc03a439fa447912c7fb5439f8cf2e84d85cd75",
+      "adjuntos": []
+    }
+  ]
+}

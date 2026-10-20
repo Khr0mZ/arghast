@@ -1,0 +1,91 @@
+{
+  "id": "k-1438477444284809339",
+  "campana": "kuroto",
+  "unidad_revision": "k-1438477444284809339",
+  "hilo_id": "1362468595212488835",
+  "hilo_nombre": "Campamento Sur - Sur de Kuroto",
+  "titulo": "La última alarma de Alfonso",
+  "resumen": "Un vigía muere a manos de los Karasu-Tengu, pero su caída hace sonar la alarma de la tercera oleada.",
+  "relato": "Alfonso vigila una torre próxima a la Puerta Negra en una calma inquietante, pese a las noticias sobre la desaparición de la cúpula protectora. Ve una bandada aproximarse e intenta alcanzar la campana. Los Karasu-Tengu lo decapitan antes de que pueda dar la alarma y se posan en la torre sin advertir que su cuerpo conserva la cadena entre las manos. Al desplomarse, el peso del soldado hace sonar la campana. Las otras torres responden y el aviso se extiende por el sur, anunciando la tercera oleada.",
+  "participantes": [
+    "Alfonso"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1438477444284809339",
+      "afirmacion": "Los Karasu-Tengu matan al vigía; su cuerpo hace sonar la campana y desencadena la alarma.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Las subescenas respetan los dos grupos temporales de cortes_horarios_interfaz.json.",
+    "No se reconstruye la batalla omitida entre ambos momentos."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2025-11-13T10:35:48.336000+00:00",
+  "fin_utc": "2025-11-13T10:35:57.596000+00:00",
+  "fecha_local": "2025-11-13",
+  "intervalo": {
+    "anterior": 166,
+    "siguiente": 167,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438244036996628491",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438607930604781589",
+    "ambito": "entre_capitulos",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 166,
+        "fecha": "2025-11-12",
+        "inicio_referencia_utc": "2025-11-12T19:07:55+00:00",
+        "fin_estimado_utc": "2025-11-12T22:08:14+00:00",
+        "duracion_video_segundos": 10819,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438244036996628491"
+      },
+      {
+        "capitulo": 167,
+        "fecha": "2025-11-13",
+        "inicio_referencia_utc": "2025-11-13T19:14:04+00:00",
+        "fin_estimado_utc": "2025-11-13T22:25:02+00:00",
+        "duracion_video_segundos": 11458,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1438607930604781589"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+  },
+  "fuentes": [
+    {
+      "id": "1438477444284809339",
+      "fecha_utc": "2025-11-13T10:35:48.336000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": null,
+      "texto": "**El soldado Alfonso vigilaba desde una de las torres cercanas a la Puerta Negra, donde reinaba una inquietante calma. A pesar de las noticias sobre la desaparición de la Cúpula Protectora de los Guardianes, los demonios seguían ocultos tras aquella imponente puerta.\nAlfonso entrecerró los ojos al notar algo moviéndose a gran velocidad en el horizonte. Apenas tuvo tiempo de reaccionar: corrió hacia la campana para dar la alarma, pero una bandada de Karasu-Tengu descendió sobre él antes de que pudiera hacerlo. Un golpe certero, un destello, y su cabeza rodó por el suelo de madera.\nLas criaturas aladas se posaron sobre la torre, graznando triunfantes al reclamar su primera víctima. Sin embargo, no notaron que el cuerpo sin vida del soldado seguía aferrado a la cadena de la campana. Cuando cayó, su peso la hizo sonar con fuerza.\nEl toque metálico retumbó en la distancia, y una tras otra, las campanas de las torres vecinas respondieron. En cuestión de minutos, el eco de la alarma se extendió por todo el sur, anunciando el inicio de un nuevo horror: la llegada de la Tercera Oleada.**",
+      "mensaje_sha256": "4e77ef3fecacada6a70f1b1781c27d0363e2446de2e0a30510557421fd1571ec",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1438477444284809339",
+      "texto_sha256": "07ce6a9e3253e2af39997cf13f659533e4356711d7e3e172212850e0832340a0",
+      "adjuntos": []
+    },
+    {
+      "id": "1438477483124064388",
+      "fecha_utc": "2025-11-13T10:35:57.596000+00:00",
+      "fecha_local": "2025-11-13",
+      "editado_utc": null,
+      "texto": "<@&1219989260787253278>",
+      "mensaje_sha256": "4c74c6806c04a2ea676bb4a1791655acc3fdd339039090bd7129eb3fd5cfea82",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1362468595212488835/1438477483124064388",
+      "texto_sha256": "4b713069b7d3977c92ad427a0f64d4c461caac254513ff484f9e1c3948216972",
+      "adjuntos": []
+    }
+  ]
+}
