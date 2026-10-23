@@ -27,7 +27,7 @@ LABELS = [
     'Identificación y referencias', 'Síntesis de las tramas principales',
     'Leer contexto de la transcripción', 'Volver a las crónicas',
     'Buscar un capítulo', 'Buscar un personaje', 'Buscar un lugar',
-    'Buscar una facción', 'Buscar un vestigio', 'Estado', 'Capítulo',
+    'Buscar una facción', 'Buscar un vestigio', 'Contenido', 'Estado', 'Capítulo',
     'Evidencia', 'Resultados de búsqueda', 'Buscar en esta transcripción',
     'Buscar una pregunta o respuesta',
     'Activar edición', 'Salir de edición', 'Editar contenido', 'Activar',
@@ -47,6 +47,7 @@ LABELS = [
     'Leer historia', 'Capítulos', 'Escenas', 'Página', 'Fuentes y contexto',
     'Antes del capítulo', 'Después del capítulo',
     'Saltar a', 'Índice de la historia', 'Buscar en la historia',
+    'Notas sobre las fuentes de este capítulo',
 ]
 
 

@@ -15,14 +15,14 @@
   const chapters = new Map(data.chapters.map(c => [c.capitulo, c]));
   const entities = new Map(data.entities.map(e => [e.name, e]));
   const entityAliases = new Map(data.entities.flatMap(e=>e.aliases.map(label=>[label,e])));
-  const sections={inicio:'Portada',capitulos:'Crónicas',cronologia:'Acontecimientos',personajes:'Personajes',atlas:'Lugares',facciones:'Facciones',objetos:'Vestigios',misiones:'Misiones',misterios:'Misterios y desenlaces',relaciones:'Relaciones',metodo:'Fuentes y método',nombres:'Nombres y equivalencias'};
+  const sections={inicio:'Portada',capitulos:'Crónicas',cronologia:'Acontecimientos',personajes:'Personajes',atlas:'Lugares',facciones:'Facciones',objetos:'Vestigios',misiones:'Misiones',misterios:'Misterios y desenlaces',relaciones:'Relaciones',nombres:'Nombres y equivalencias'};
   const campaignLettering = /* ROTULOS_XOLTACAN */{};
   function applyCampaignLettering() {
     if(campaignId!=='xoltacan'||document.body.dataset.view!=='campaign') {
       document.querySelectorAll('.campaign-lettering').forEach(span=>span.replaceWith(document.createTextNode(span.textContent)));
       return;
     }
-    const selectors='.nav-links a,.nav-label,.campaign-picker label,.campaign-picker>a,#campaign-context,#page-title,.primary-button,.secondary-button,.expedition-link strong,.detail-tabs a,.detail-tabs button,.section-head h1,.section-head h2,.section-head>a,.footer a,.story-heading h2,.context-details>summary,.filters label,.chapter-nav a,.document h1,.role-interlude>summary strong,.role-block-title,.chronicle-views a,.reading-jump h2,.reading-jump label';
+    const selectors='.nav-links a,.nav-label,.campaign-picker label,.campaign-picker>a,#campaign-context,#page-title,.primary-button,.secondary-button,.expedition-link strong,.detail-tabs a,.detail-tabs button,.section-head h1,.section-head h2,.section-head>a,.footer a,.story-heading h2,.context-details>summary,.filters label,.chapter-nav a,.document h1,.document-section>h2,.role-block-title,.chronicle-views a,.reading-jump h2,.reading-jump label,.section-navigation button,.section-navigation>span,.reading-context>h3,.role-audio-transcript>h3';
     document.querySelectorAll(selectors).forEach(element=>{
       for(const node of [...element.childNodes]) {
         if(node.nodeType!==Node.TEXT_NODE)continue;
@@ -62,7 +62,7 @@
   const badge = f => `<span class="badge ${classes[f.tipo] || ''}">${esc(labels[f.tipo] || f.tipo)}</span>`;
   const chip = name => entities.has(name)?`<a class="entity-chip" href="${routeEntity(name)}">${esc(name)}</a>`:'';
   const short = (text,size=165) => text.length>size ? text.slice(0,size).replace(/\s\S*$/,'')+'…' : text;
-  let state={page:1,chapter:'',kind:'',chapterQuery:'',entityQuery:'',questionQuery:'',questionStatus:'',roleQuery:'',tab:'relato',transcriptQuery:'',transcriptLimit:120};
+  let state={page:1,chapter:'',kind:'',searchType:'',chapterQuery:'',entityQuery:'',questionQuery:'',questionStatus:'',roleQuery:'',tab:'relato',transcriptQuery:'',transcriptLimit:120};
   let searchTimer;
   const transcriptLoads=new Map();
   const transcriptErrors=new Set();
@@ -90,10 +90,49 @@
   }
   const searchIndex = data.facts.map(f => ({fact:f,text:fold([f.titulo,f.afirmacion,f.cita,f.ambito,f.limitacion,...(f.etiquetas_originales||[]),...f.entidades,...f.entidades.flatMap(name=>entities.get(name)?.aliases || [])].join(' '))}));
   const matched = (query,chapter='',kind='') => { const terms=fold(query).trim().split(/\s+/).filter(Boolean); return searchIndex.filter(item=>(!chapter || item.fact.capitulo===Number(chapter))&&(!kind || item.fact.tipo===kind)&&terms.every(term=>item.text.includes(term))).map(item=>item.fact); };
+  const searchTypes={registro:'Acontecimientos',capitulo:'Crónicas',personaje:'Personajes',lugar:'Lugares',faccion:'Facciones',objeto:'Vestigios',rol:'Rol escrito',pregunta:'Misterios y desenlaces',documento:'Misiones, relaciones y otros documentos'};
+  let campaignSearchIndex;
+  function roleSearchText(scene) {
+    return fold([scene.titulo,scene.resumen,scene.relato,scene.busqueda,...(scene.participantes||[]),...(scene.fuentes||[]).map(source=>source.texto)].join(' '));
+  }
+  function campaignEntries() {
+    if(campaignSearchIndex)return campaignSearchIndex;
+    const entries=[];
+    const scenes=roleScenes(),scenesById=new Map(scenes.map(scene=>[scene.id,scene]));
+    const add=(type,title,href,body,chapterNumbers=[],extra='',meta='')=>entries.push({type,title,href,body:String(body||''),chapters:[...new Set(chapterNumbers)],text:fold([title,body,extra].join(' ')),titleText:fold(title),meta});
+    const historyText=history=>(history?.etapas||[]).map(stage=>stage.titulo+' '+stage.texto).join(' ');
+    const referenceChapters=ids=>ids.map(id=>facts.get(id)?.capitulo).filter(n=>n!=null);
+    for(const item of searchIndex)entries.push({type:'registro',title:item.fact.titulo,titleText:fold(item.fact.titulo),text:item.text,chapters:[item.fact.capitulo],fact:item.fact});
+    for(const c of data.chapters)add('capitulo',c.titulo,'#capitulo/'+c.capitulo,c.resumen,[c.capitulo],[chapterName(c.capitulo),historyText(c.history),...(c.misiones||[]),...(c.misiones_editoriales||[]).map(m=>typeof m==='string'?m:[m.titulo,m.descripcion,m.estado].join(' ')),...(c.preguntas||[]),...(c.contradicciones||[]),...(c.nombres||[])].join(' '),chapterName(c.capitulo));
+    for(const e of data.entities)add(e.type,e.name,routeEntity(e.name),[e.description,historyText(e.history),e.note].filter(Boolean).join(' '),referenceChapters([...e.facts,...(e.history?.etapas||[]).flatMap(stage=>stage.referencias)]),e.aliases.join(' '),searchTypes[e.type]);
+    for(const scene of scenes)add('rol',scene.titulo,roleRoute(scene),scene.relato||scene.resumen,[scene.intervalo?.anterior,scene.intervalo?.siguiente].filter(n=>chapters.has(n)),roleSearchText(scene),'Rol escrito · '+roleDate(scene));
+    for(const q of questions.values())add('pregunta',q.pregunta,'#pregunta/'+encodeURIComponent(q.id),[q.respuesta,q.pendiente].filter(Boolean).join(' '),[q.capitulo,...referenceChapters(q.referencias)],q.id+' '+q.referencias.join(' '),questionStates[q.estado]);
+    for(const [key,doc] of Object.entries(data.documents))if(key!=='metodo')add('documento',sections[key]||doc.title,['atlas','facciones'].includes(key)?'#documento/'+key:'#'+key,doc.text,[],doc.title);
+    for(const report of data.writtenRole?.integration||[])for(const category of ['identidades','arcos','pendientes','relaciones'])for(const item of report[category]||[]) {
+      const source=item.fuentes_rol?.[0]||item.cotejo_posterior?.fuentes_rol?.[0];
+      if(!source)continue;
+      const scene=scenesById.get(source.escena);
+      if(!scene)continue;
+      add('rol',item.nombre||item.pregunta||(item.personas||[]).join(' · '),roleRoute(scene)+'/'+encodeURIComponent(source.mensaje_id),[item.avance,item.desarrollo,item.nota,item.cotejo_posterior?.respuesta,item.cotejo_posterior?.pendiente].filter(Boolean).join(' '),[scene.intervalo?.anterior,scene.intervalo?.siguiente].filter(n=>chapters.has(n)),(item.alias||[]).join(' '),'Rol escrito · '+report.hilo);
+    }
+    campaignSearchIndex=entries;
+    return entries;
+  }
   function heading(title,trail='Enciclopedia') {
     document.getElementById('page-title').textContent=title;
     document.getElementById('breadcrumbs').textContent=trail;
     document.title=title+' · '+campaign.name+' · Arghast';
+  }
+  function sectionNavigation(items) {
+    return `<nav class="section-navigation" aria-label="Ir a un apartado"><span>Saltar a</span>${items.map(([id,label])=>`<button type="button" data-section-target="${esc(id)}">${esc(label)}</button>`).join('')}</nav>`;
+  }
+  function documentSection(id,title,body,classes='') {
+    return `<section class="document-section ${classes}" aria-labelledby="${esc(id)}"><h2 id="${esc(id)}" tabindex="-1">${esc(title)}</h2>${body}</section>`;
+  }
+  function catalogueViews(type,overview=false) {
+    const category=categories[type];
+    if(!category.document||!data.documents[category.document])return '';
+    return `<nav class="chronicle-views catalogue-views" aria-label="Vistas de ${esc(category.title)}"><a href="#${category.route}"${overview?'':' aria-current="page"'}>${esc(category.title)}</a><a href="#documento/${category.document}"${overview?' aria-current="page"':''}>${esc(category.overview)}</a></nav>`;
   }
   function campaignURL(id) {
     const url=new URL(location.href);
@@ -134,8 +173,8 @@
   function entityType(name) {
     return categories[entities.get(name)?.type]?.title || 'Referencia del pasaje';
   }
-  function filters() {
-    return `<div class="filters"><label>Capítulo<select class="filter-select" data-filter="chapter"><option value="">Todos los capítulos</option>${data.chapters.map(c=>`<option value="${c.capitulo}" ${String(c.capitulo)===state.chapter?'selected':''}>${String(c.capitulo).padStart(2,'0')} · ${esc(short(c.titulo,45))}</option>`).join('')}</select></label><label>Evidencia<select class="filter-select" data-filter="kind"><option value="">Todos los tipos</option>${Object.entries(labels).map(([key,label])=>`<option value="${key}" ${state.kind===key?'selected':''}>${label}</option>`).join('')}</select></label><button class="secondary-button" data-reset>Restablecer</button></div>`;
+  function filters(global=false) {
+    return `<div class="filters">${global?`<label>Contenido<select class="filter-select" data-filter="searchType"><option value="">Todo el contenido</option>${Object.entries(searchTypes).map(([key,label])=>`<option value="${key}" ${state.searchType===key?'selected':''}>${esc(label)}</option>`).join('')}</select></label>`:''}<label>Capítulo<select class="filter-select" data-filter="chapter"><option value="">Todos los capítulos</option>${data.chapters.map(c=>`<option value="${c.capitulo}" ${String(c.capitulo)===state.chapter?'selected':''}>${String(c.capitulo).padStart(2,'0')} · ${esc(short(c.titulo,45))}</option>`).join('')}</select></label><label>Evidencia<select class="filter-select" data-filter="kind"><option value="">Todos los tipos</option>${Object.entries(labels).map(([key,label])=>`<option value="${key}" ${state.kind===key?'selected':''}>${label}</option>`).join('')}</select></label><button class="secondary-button" data-reset>Restablecer</button></div>`;
   }
   function paginated(list,render=event,size=35) {
     const count=Math.ceil(list.length/size);
@@ -168,7 +207,7 @@
     const progress=reviewedCount<data.chapters.length?`<div class="campaign-status"><span class="eyebrow">Progreso del archivo</span><h2>Revisión pendiente</h2><p>${available} de ${data.chapters.length} transcripciones disponibles. ${reviewedCount} sesiones revisadas; ${data.chapters.length-reviewedCount} pendientes de lectura editorial.</p></div>`:'';
     const latest=data.chapters.filter(chapter=>chapter.estado==='revisado').at(-1);
     const latestStory=latest?`<section class="home-latest"><div class="section-head"><div><p class="eyebrow">Última crónica · ${chapterName(latest.capitulo)}</p><h2>${esc(latest.titulo)}</h2><p>${esc(short(latest.resumen,420))}</p></div><a class="primary-button" href="#capitulo/${latest.capitulo}">Leer el relato →</a></div></section>`:'';
-    content.innerHTML=campaignHero()+homeStats()+progress+homeShortcuts()+latestStory+`<nav class="hero-actions archive-actions" aria-label="Consultar el archivo"><a class="secondary-button" href="#metodo">${sections.metodo}</a><a class="secondary-button" href="#campanas">Elegir campaña</a></nav>`;
+    content.innerHTML=campaignHero()+homeStats()+progress+homeShortcuts()+latestStory+`<nav class="hero-actions archive-actions" aria-label="Consultar el archivo"><a class="secondary-button" href="#campanas">Elegir campaña</a></nav>`;
   }
   function civilDate(value) {
     if(!value)return 'Fecha por confirmar';
@@ -246,7 +285,7 @@
   }
   function readingHref(kind,id) {return '#lectura/'+kind+'/'+encodeURIComponent(id);}
   function chronicleViews(active,reading='#lectura') {
-    return `<nav class="chronicle-views" aria-label="Vistas de las crónicas">${[['lectura','Leer historia',reading],['capitulos','Capítulos','#capitulos'],['rol','Escenas','#rol']].map(([key,label,href])=>`<a href="${href}"${key===active?' aria-current="page"':''}>${label}</a>`).join('')}</nav>`;
+    return `<nav class="chronicle-views" aria-label="Vistas de las crónicas">${[['lectura','Leer historia',reading],['capitulos','Capítulos','#capitulos'],['rol','Escenas','#rol']].map(([key,label,href])=>`<a href="${href}"${key===active?' aria-current="page"':''}>${label}${key==='lectura'?'':`<span class="chronicle-view-count">${key==='capitulos'?data.chapters.length:roleScenes().length}</span>`}</a>`).join('')}</nav>`;
   }
   function readingItems() {
     const ordered=data.chapters.slice().sort((a,b)=>a.capitulo-b.capitulo);
@@ -271,7 +310,7 @@
     const notes=scene?.notas?.length?`<ul>${scene.notas.map(note=>`<li>${esc(note)}</li>`).join('')}</ul>`:'';
     const context=chapter?`${chapterDates(chapter)}${references?`<p class="reading-references">${references}</p>`:''}<a href="#capitulo/${chapter.capitulo}">Ver ficha del capítulo</a>`:`<p>${esc(scene.intervalo?.nota||'')}</p>${notes}<a href="${roleRoute(scene)}">Ver escena y mensajes</a>`;
     const titleId='reading-title-'+item.kind+'-'+item.id;
-    return `<article class="reading-entry" data-reading-kind="${item.kind}" data-reading-id="${esc(item.id)}" data-reading-index="${index}" aria-labelledby="${esc(titleId)}"><header class="reading-heading"><p class="eyebrow">${esc(label)}</p><h2 class="reading-title" id="${esc(titleId)}" tabindex="-1">${esc(item.title)}</h2>${date}${position}</header>${future}<div class="reading-prose">${prose}</div><details class="context-details reading-context"><summary>Fuentes y contexto</summary>${context}</details></article>`;
+    return `<article class="reading-entry" data-reading-kind="${item.kind}" data-reading-id="${esc(item.id)}" data-reading-index="${index}" aria-labelledby="${esc(titleId)}"><header class="reading-heading"><p class="eyebrow">${esc(label)}</p><h2 class="reading-title" id="${esc(titleId)}" tabindex="-1">${esc(item.title)}</h2>${date}${position}</header>${future}<div class="reading-prose">${prose}</div><section class="reading-context" aria-label="Fuentes y contexto"><h3>Fuentes y contexto</h3>${context}</section></article>`;
   }
   let readingStream=null;
   function readingJump() {
@@ -342,18 +381,17 @@
       readingStream.observer.observe(readingStream.sentinel);
     }
   }
-  function roleBlock(scenes,title,{collapsible=false,afterCatalogue=false}={}) {
+  function roleBlock(scenes,title,{afterCatalogue=false,id=''}={}) {
     if(!scenes.length)return '';
     const description=afterCatalogue?'Estas interacciones son posteriores al último vídeo incorporado. Pueden corresponder a capítulos todavía ausentes del catálogo; no se atribuyen automáticamente a la continuación inmediata de ese vídeo.':'';
     const body=`${description?`<p class="role-placement-note">${description}</p>`:''}<div class="role-cards">${scenes.map(roleCard).join('')}</div>`;
-    const label=title.startsWith('Rol escrito · ')?title.slice(14):title;
-    return collapsible?`<details class="role-interlude${afterCatalogue?' role-after-catalogue':''}" data-role-count="${scenes.length}"><summary><strong>${esc(label)}</strong><span>${scenes.length} ${scenes.length===1?'escena':'escenas'} · ${esc(roleDate(scenes[0]))}${scenes.length>1?' / '+esc(roleDate(scenes.at(-1))):''}</span></summary>${body}</details>`:`<section class="role-block${afterCatalogue?' role-after-catalogue':''}" aria-label="${esc(title)}"><h2 class="role-block-title">${esc(title)}</h2>${body}</section>`;
+    return `<section class="role-block${afterCatalogue?' role-after-catalogue':''}" data-role-count="${scenes.length}" aria-label="${esc(title)}"><h2 class="role-block-title"${id?` id="${esc(id)}" tabindex="-1"`:''}>${esc(title)}</h2><p class="role-block-count">${scenes.length} ${scenes.length===1?'escena':'escenas'} · ${esc(roleDate(scenes[0]))}${scenes.length>1?' / '+esc(roleDate(scenes.at(-1))):''}</p>${body}</section>`;
   }
   function chapterRole(n,before) {
     const scenes=roleScenes().filter(scene=>before?scene.intervalo?.siguiente===n:scene.intervalo?.anterior===n||(n===Math.max(...chapters.keys())&&scene.intervalo?.ambito==='despues_del_catalogo'));
     const regular=scenes.filter(scene=>scene.intervalo?.ambito!=='despues_del_catalogo');
     const later=scenes.filter(scene=>scene.intervalo?.ambito==='despues_del_catalogo');
-    return roleBlock(regular,before?'Antes del capítulo':'Después del capítulo')+roleBlock(later,'Rol posterior al catálogo',{collapsible:true,afterCatalogue:true});
+    return roleBlock(regular,before?'Antes del capítulo':'Después del capítulo',{id:before?'chapter-role-before-title':'chapter-role-after-title'})+roleBlock(later,'Rol posterior al catálogo',{afterCatalogue:true,id:'chapter-role-later-title'});
   }
   function roleInline(text) {
     const safe=esc(text);
@@ -366,14 +404,14 @@
       const value=attachment.url||'',valid=/^https:\/\/(?:cdn\.discordapp\.com|media\.discordapp\.net)\/attachments\/\d+\/\d+\//.test(value)||/^(?!\/)(?!.*(?:^|\/)\.\.(?:\/|$))[a-zA-Z0-9_./ -]+$/.test(value);
       return valid?`<li><a href="${esc(value)}" target="_blank" rel="noopener noreferrer">${esc(attachment.nombre||'Archivo adjunto')} ↗</a></li>`:'';
     }).join('');
-    const audio=(source.transcripciones_audio||[]).map(note=>`<details class="context-details role-audio-transcript"><summary>Nota de voz <small>Transcripción automática</small></summary><p>Puede contener errores, especialmente en los nombres. El audio original se conserva en los adjuntos.</p><div class="role-message-text">${esc(note.texto)}</div></details>`).join('');
+    const audio=(source.transcripciones_audio||[]).map(note=>`<section class="role-audio-transcript" aria-label="Nota de voz"><h3>Nota de voz <small>Transcripción automática</small></h3><p>Puede contener errores, especialmente en los nombres. El audio original se conserva en los adjuntos.</p><div class="role-message-text">${esc(note.texto)}</div></section>`).join('');
     const forwarded=(source.reenviados||[]).map(item=>`<div class="role-forwarded"><p>Contenido reenviado${item.fecha_original_utc?' · '+esc(announcementTime(item.fecha_original_utc)):''}</p><div class="role-message-text">${roleInline(item.texto)}</div></div>`).join('');
     return `<article class="role-message" id="mensaje-${esc(source.id)}"><header>${source.personaje?`<strong>${esc(source.personaje)}</strong>`:source.no_narrativo?'<span>Contexto del hilo</span>':'<span>Mensaje original</span>'}${source.fecha_utc?`<time datetime="${esc(source.fecha_utc)}">${esc(announcementTime(source.fecha_utc))}</time>`:''}${url?`<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">Ver en Discord ↗</a>`:''}</header>${source.nota_editorial?`<p class="role-source-note">${esc(source.nota_editorial)}</p>`:''}<div class="role-message-text">${segments||'<span class="role-empty-message">Mensaje sin texto.</span>'}</div>${forwarded}${attachments?`<ul class="role-attachments" aria-label="Archivos adjuntos">${attachments}</ul>`:''}${audio}</article>`;
   }
   function roleList() {
     heading('Rol escrito',sections.capitulos+' · '+campaign.name);
     const all=roleScenes(),terms=fold(state.roleQuery).trim().split(/\s+/).filter(Boolean);
-    const scenes=all.filter(scene=>terms.every(term=>fold([scene.titulo,scene.resumen,scene.relato,scene.busqueda,...(scene.participantes||[]),...(scene.fuentes||[]).map(source=>source.texto)].join(' ')).includes(term)));
+    const scenes=all.filter(scene=>terms.every(term=>roleSearchText(scene).includes(term)));
     const groups=new Map();for(const scene of scenes){const interval=scene.intervalo||{},key=[interval.ambito,interval.anterior,interval.siguiente].join('/');if(!groups.has(key))groups.set(key,[]);groups.get(key).push(scene);}
     content.innerHTML=chronicleViews('rol')+`<div class="section-head"><div><p class="eyebrow">${esc(campaign.name)} · Crónicas</p><h1>Rol escrito</h1><p>${all.length} escenas conservadas · fechas de los mensajes en horario de Madrid.</p></div></div><p class="archive-note">Interacciones escritas de Discord, situadas por su fecha respecto a los directos originales en Twitch. Las escenas abiertas conservan ese estado y los pensamientos pertenecen al personaje que los expresa.</p><div class="filters"><label>Buscar en el rol escrito<input type="search" id="role-search" value="${esc(state.roleQuery)}" placeholder="Personaje, escena o texto…"></label></div>${scenes.length?[...groups.values()].map(group=>roleBlock(group,roleInterval(group[0]),{afterCatalogue:group[0].intervalo?.ambito==='despues_del_catalogo'})).join(''):'<div class="empty"><p>No hay escenas que coincidan con esta búsqueda.</p></div>'}`;
   }
@@ -391,7 +429,7 @@
     const timings=(interval.referencias||[]).map(ref=>`<li>${esc(ref.catalogado?chapterName(ref.capitulo):'Directo '+ref.capitulo)} · ${esc(civilDate(ref.fecha))}${ref.inicio_referencia_utc?' · hora de referencia ('+esc(referenceLabels[ref.tipo_referencia]||'fecha')+'): '+esc(announcementTime(ref.inicio_referencia_utc)):''}${ref.fin_estimado_utc?' · final estimado: '+esc(announcementTime(ref.fin_estimado_utc)):''}${discordURL(ref.fuente)?` <a href="${esc(ref.fuente)}" target="_blank" rel="noopener noreferrer">Fuente en Discord ↗</a>`:''}</li>`).join('');
     const timingDetails=interval.nota?`<details class="context-details"><summary>Fuentes de las fechas</summary><p>${esc(interval.nota)}</p>${timings?`<ul>${timings}</ul>`:''}</details>`:'';
     const original=scene.fuentes?sources.map(roleSource).join(''):scene.sourceFile?roleSourcesLoading(scene):'';
-    content.innerHTML=chronicleViews('rol',readingHref('rol',scene.id))+`<div class="section-head"><div><p class="eyebrow">Rol escrito · ${esc(roleDate(scene))}</p><h1>${esc(scene.titulo||'Interacción escrita')}</h1><p>${esc(status)}</p></div></div><div class="document role-scene-context"><p class="role-interval">${roleInterval(scene,true)}</p>${interval.ambito==='despues_del_catalogo'?'<p class="role-placement-note">Posterior al último vídeo incorporado. Pueden faltar capítulos intermedios en la biblioteca.</p>':''}${timingDetails}${participants?`<div class="chips" aria-label="Personajes participantes">${participants}</div>`:''}${prose?`<div class="role-prose">${String(prose).split(/\n\s*\n/).map(paragraph=>`<p>${esc(paragraph)}</p>`).join('')}</div>`:''}${!scene.revisada?'<p class="limitations">La lectura editorial de esta escena está pendiente. Los mensajes originales se conservan a continuación.</p>':''}${notes?`<ul class="role-editorial-notes">${notes}</ul>`:''}${evidence?`<details class="context-details"><summary>Evidencias del rol escrito</summary><ul>${evidence}</ul></details>`:''}</div><div class="section-head role-original-heading"><div><p class="eyebrow">Discord · ${scene.mensajes??sources.length} mensajes</p><h2>Interacción original</h2><p>Formato habitual: acciones en negrita y pensamientos en cursiva; las notas aclaran las excepciones. Un pensamiento no implica que los demás personajes lo conozcan.</p></div></div><div class="role-transcript" aria-label="Mensajes originales de la escena">${original}</div><nav class="chapter-nav">${interval.anterior!=null&&chapters.has(interval.anterior)?`<a href="#capitulo/${interval.anterior}">← ${chapterName(interval.anterior)}</a>`:'<span></span>'}<a href="#capitulos">Volver a las crónicas</a>${interval.siguiente!=null&&chapters.has(interval.siguiente)?`<a href="#capitulo/${interval.siguiente}">${chapterName(interval.siguiente)} →</a>`:'<span></span>'}</nav>`;
+    content.innerHTML=chronicleViews('rol',readingHref('rol',scene.id))+`<div class="section-head"><div><p class="eyebrow">Rol escrito · ${esc(roleDate(scene))}</p><h1 id="role-scene-title" tabindex="-1">${esc(scene.titulo||'Interacción escrita')}</h1><p>${esc(status)}</p></div></div>`+sectionNavigation([['role-scene-title','Rol escrito'],...(evidence?[['role-evidence-title','Evidencias del rol escrito']]:[]),['role-original-title','Interacción original']])+`<div class="document role-scene-context"><p class="role-interval">${roleInterval(scene,true)}</p>${interval.ambito==='despues_del_catalogo'?'<p class="role-placement-note">Posterior al último vídeo incorporado. Pueden faltar capítulos intermedios en la biblioteca.</p>':''}${timingDetails}${participants?`<div class="chips" aria-label="Personajes participantes">${participants}</div>`:''}${prose?`<div class="role-prose">${String(prose).split(/\n\s*\n/).map(paragraph=>`<p>${esc(paragraph)}</p>`).join('')}</div>`:''}${!scene.revisada?'<p class="limitations">La lectura editorial de esta escena está pendiente. Los mensajes originales se conservan a continuación.</p>':''}${notes?`<ul class="role-editorial-notes">${notes}</ul>`:''}${evidence?documentSection('role-evidence-title','Evidencias del rol escrito',`<ul>${evidence}</ul>`,'role-evidence'):''}</div><div class="section-head role-original-heading"><div><p class="eyebrow">Discord · ${scene.mensajes??sources.length} mensajes</p><h2 id="role-original-title" tabindex="-1">Interacción original</h2><p>Formato habitual: acciones en negrita y pensamientos en cursiva; las notas aclaran las excepciones. Un pensamiento no implica que los demás personajes lo conozcan.</p></div></div><div class="role-transcript" aria-label="Mensajes originales de la escena">${original}</div><nav class="chapter-nav">${interval.anterior!=null&&chapters.has(interval.anterior)?`<a href="#capitulo/${interval.anterior}">← ${chapterName(interval.anterior)}</a>`:'<span></span>'}<a href="#capitulos">Volver a las crónicas</a>${interval.siguiente!=null&&chapters.has(interval.siguiente)?`<a href="#capitulo/${interval.siguiente}">${chapterName(interval.siguiente)} →</a>`:'<span></span>'}</nav>`;
     if(/^\d+$/.test(messageId||''))requestAnimationFrame(()=>document.getElementById('mensaje-'+messageId)?.scrollIntoView({block:'center',behavior:'instant'}));
   }
   function roleFollowup(kind) {
@@ -407,25 +445,16 @@
       const comparison=item.cotejo_posterior,answer=comparison?`<p><strong>${comparison.orden_temporal==='posterior'?'Respuesta posterior en el rol':'Cotejo entre escenas'} · ${esc(comparison.estado)}.</strong> ${esc(comparison.respuesta)}</p>${comparison.pendiente?`<p>${esc(comparison.pendiente)}</p>`:''}<p class="role-followup-sources">${(comparison.fuentes_rol||[]).map(source=>`<a href="#rol/${encodeURIComponent(source.escena)}/${esc(source.mensaje_id)}">Mensaje ${esc(source.mensaje_id)}</a>`).join(' · ')}</p>`:'';
       return `<article class="role-followup-entry"><h4>${esc(name)}</h4>${text?`<p>${esc(text)}</p>`:''}${item.alias?.length?`<p>Alias o formas: ${item.alias.map(esc).join(' · ')}.</p>`:''}<p class="role-followup-sources">${sources}</p>${answer}</article>`;
     }).join('')}</section>`).join('');
-    return `<details class="role-interlude role-followup"><summary><strong>Rol escrito</strong><span>${groups.reduce((total,group)=>total+group.items.length,0)} entradas con sus mensajes originales</span></summary><div class="document">${bodies}</div></details>`;
+    return documentSection('role-followup-title','Rol escrito',`<p class="section-count">${groups.reduce((total,group)=>total+group.items.length,0)} entradas con sus mensajes originales</p><div class="document">${bodies}</div>`,'role-followup');
   }
   function chapterList() {
     heading(sections.capitulos,campaign.name+' · Sesión a sesión');
     const terms=fold(state.chapterQuery).trim().split(/\s+/).filter(Boolean);
     const list=data.chapters.filter(c=>terms.every(term=>fold(c.capitulo+' '+c.titulo).includes(term)));
     const gap=data.catalog?.capitulos_ausentes||[];
-    const scenes=roleScenes(),placed=new Set(),visible=new Set(list.map(c=>c.capitulo));
-    const before=list.length?scenes.filter(scene=>scene.intervalo?.siguiente===list[0].capitulo&&scene.intervalo?.anterior==null):[];
-    before.forEach(scene=>placed.add(scene.id));
-    const cards=list.map(c=>{
-      const preceding=scenes.filter(scene=>!placed.has(scene.id)&&scene.intervalo?.siguiente===c.capitulo&&!visible.has(scene.intervalo?.anterior)&&scene.intervalo?.ambito!=='despues_del_catalogo');
-      preceding.forEach(scene=>placed.add(scene.id));
-      const after=scenes.filter(scene=>!placed.has(scene.id)&&scene.intervalo?.anterior===c.capitulo&&scene.intervalo?.ambito!=='despues_del_catalogo');
-      after.forEach(scene=>placed.add(scene.id));
-      return roleBlock(preceding,'Rol escrito · '+roleInterval(preceding[0]||{}),{collapsible:true})+`<a class="card chapter-card" href="#capitulo/${c.capitulo}"><span class="card-crest" aria-hidden="true">${String(c.capitulo).padStart(2,'0')}</span><span class="card-tag">${chapterName(c.capitulo)}${c.duracion?' · '+clock(c.duracion):''}</span><h2 class="card-title">${esc(c.titulo)}</h2>${chapterDates(c,true)}<p class="card-copy">${esc(c.resumen?short(c.resumen,190):c.transcripcion_disponible?'Transcripción incorporada. Lectura y relato pendientes.':'Vídeo localizado. Transcripción y relato pendientes.')}</p><div class="card-meta"><span>${c.registros.length} registros</span><span>${c.estado==='revisado'?'Revisado':'Pendiente de revisión'} ${icons.arrow}</span></div></a>`+roleBlock(after,'Rol escrito · '+roleInterval(after[0]||{}),{collapsible:true});
-    }).join('');
-    const later=scenes.filter(scene=>scene.intervalo?.ambito==='despues_del_catalogo'&&(!terms.length||visible.has(Math.max(...chapters.keys()))));
-    content.innerHTML=chronicleViews('capitulos')+`<div class="section-head"><div><p class="eyebrow">${esc(campaign.name)} · Sesión a sesión</p><h1>${sections.capitulos}</h1><p>${data.chapters.length} vídeos catalogados · ${reviewedCount} capítulos revisados.${scenes.length?' '+scenes.length+' escenas de rol escrito.':''}</p></div></div>${gap.length?`<p class="notice">El capítulo ${gap.join(', ')} no figura en la lista consultada. Conservamos la numeración original, sin rellenar ese hueco.</p>`:''}<div class="filters"><label>Buscar un capítulo<input id="chapter-search" type="search" value="${esc(state.chapterQuery)}" placeholder="Número o título…"></label></div><div class="grid chapter-grid">${roleBlock(before,'Rol antes del primer capítulo',{collapsible:true})}${cards||'<div class="empty">No hay capítulos que coincidan con esta búsqueda.</div>'}${roleBlock(later,'Rol posterior al catálogo',{collapsible:true,afterCatalogue:true})}</div>`;
+    const scenes=roleScenes();
+    const cards=list.map(c=>`<a class="card chapter-card" href="#capitulo/${c.capitulo}"><span class="card-crest" aria-hidden="true">${String(c.capitulo).padStart(2,'0')}</span><span class="card-tag">${chapterName(c.capitulo)}${c.duracion?' · '+clock(c.duracion):''}</span><h2 class="card-title">${esc(c.titulo)}</h2>${chapterDates(c,true)}<p class="card-copy">${esc(c.resumen?short(c.resumen,190):c.transcripcion_disponible?'Transcripción incorporada. Lectura y relato pendientes.':'Vídeo localizado. Transcripción y relato pendientes.')}</p><div class="card-meta"><span>${c.registros.length} registros</span><span>${c.estado==='revisado'?'Revisado':'Pendiente de revisión'} ${icons.arrow}</span></div></a>`).join('');
+    content.innerHTML=chronicleViews('capitulos')+`<div class="section-head"><div><p class="eyebrow">${esc(campaign.name)} · Sesión a sesión</p><h1>${sections.capitulos}</h1><p>${data.chapters.length} vídeos catalogados · ${reviewedCount} capítulos revisados.${scenes.length?' '+scenes.length+' escenas de rol escrito en Escenas y Leer historia.':''}</p></div></div>${gap.length?`<p class="notice">El capítulo ${gap.join(', ')} no figura en la lista consultada. Conservamos la numeración original, sin rellenar ese hueco.</p>`:''}<div class="filters"><label>Buscar un capítulo<input id="chapter-search" type="search" value="${esc(state.chapterQuery)}" placeholder="Número o título…"></label></div><div class="grid chapter-grid">${cards||'<div class="empty">No hay capítulos que coincidan con esta búsqueda.</div>'}</div>`;
   }
   function chapterView(n) {
     const c=chapters.get(n); if(!c)return missing();
@@ -438,7 +467,7 @@
     else if(state.tab==='preguntas')body=`<p class="archive-note">Preguntas planteadas en esta sesión, cotejadas con los capítulos posteriores. El estado corresponde al último capítulo revisado en cada entrada.</p><div class="list">${(c.seguimiento||[]).map(questionCard).join('')}</div>`;
     else body=`<div class="document"><p class="limitations">${state.tab==='preguntas'?'Estas preguntas describen lo desconocido en este capítulo. Consulta los misterios actuales para ver respuestas posteriores.':'Información y cautelas conservadas en la revisión del capítulo.'}</p><ul>${(c[state.tab] || []).map(line=>`<li>${inline(line)}</li>`).join('') || '<li>Sin entradas en esta sección.</li>'}</ul></div>`;
     const sourceNotes=[...(c.nombres||[]),...(c.contradicciones||[])];
-    const notes=sourceNotes.length?`<details class="context-details"><summary>Notas sobre las fuentes de este capítulo</summary><div class="document"><ul>${sourceNotes.map(text=>`<li>${inline(text)}</li>`).join('')}</ul></div></details>`:'';
+    const notes=sourceNotes.length?documentSection('chapter-source-title','Notas sobre las fuentes de este capítulo',`<div class="document"><ul>${sourceNotes.map(text=>`<li>${inline(text)}</li>`).join('')}</ul></div>`,'chapter-source-notes'):'';
     content.innerHTML=chronicleViews('capitulos',readingHref('capitulo',n))+`<div class="section-head"><div><p class="eyebrow">${chapterName(n)} · ${c.registros.length} registros</p><h1>${esc(c.titulo)}</h1></div><a class="secondary-button" href="${esc(c.url)}" target="_blank" rel="noopener noreferrer">Ver en YouTube ↗</a></div>${chapterDates(c)}<nav class="detail-tabs" aria-label="Secciones del capítulo">${Object.entries(tabs).map(([key,label])=>`<button data-tab="${key}" class="${state.tab===key?'active':''}" aria-pressed="${state.tab===key}">${label}</button>`).join('')}</nav>${body}${notes}<nav class="chapter-nav">${chapters.has(n-1)?`<a href="#capitulo/${n-1}">← ${chapterName(n-1)}</a>`:'<span></span>'}<a href="#capitulos">Volver a las crónicas</a>${chapters.has(n+1)?`<a href="#capitulo/${n+1}">${chapterName(n+1)} →</a>`:'<span></span>'}</nav>`;
   }
   function transcriptView(n) {
@@ -457,7 +486,7 @@
     heading(f.titulo,`${chapterName(f.capitulo)} · ${f.id}`);
     const around=(data.transcripts[String(f.capitulo)] || []).filter(([t])=>secs(t)>=Math.max(0,secs(f.evidencia_cue?.inicio || f.inicio)-25)&&secs(t)<=secs(f.evidencia_cue?.inicio || f.inicio)+40);
     const context=around.length?`<div class="transcript">${around.map(([t,s])=>`<div class="transcript-row"><a href="${esc(chapters.get(f.capitulo).url)}&t=${Math.floor(secs(t))}s" target="_blank" rel="noopener noreferrer">${clock(t)}</a><p>${esc(s)}</p></div>`).join('')}</div>`:data.transcriptFiles?.[String(f.capitulo)]?transcriptLoading(f.capitulo):'<p>Contexto no disponible.</p>';
-    content.innerHTML=`<div class="section-head"><a class="secondary-button" href="#capitulo/${f.capitulo}">← ${chapterName(f.capitulo)}</a><button class="secondary-button" data-copy="${esc(f.id)}">Copiar referencia</button></div>${event(f,true)}<details class="context-details"><summary>Leer contexto de la transcripción</summary>${context}</details><p class="archive-note">Fuente automática · ${esc(f.ambito || 'Ámbito sin determinar')} · Intervalo de contexto ${clock(f.inicio)}–${clock(f.fin)}. La cita se localiza en ${clock(f.evidencia_cue?.inicio || f.inicio)}; comprobar su interpretación en el contexto.</p>`;
+    content.innerHTML=`<div class="section-head"><a class="secondary-button" href="#capitulo/${f.capitulo}">← ${chapterName(f.capitulo)}</a><button class="secondary-button" data-copy="${esc(f.id)}">Copiar referencia</button></div>${event(f,true)}${documentSection('record-context-title','Leer contexto de la transcripción',context,'context-details transcript-context')}<p class="archive-note">Fuente automática · ${esc(f.ambito || 'Ámbito sin determinar')} · Intervalo de contexto ${clock(f.inicio)}–${clock(f.fin)}. La cita se localiza en ${clock(f.evidencia_cue?.inicio || f.inicio)}; comprobar su interpretación en el contexto.</p>`;
   }
   function questionCard(q) {
     const color={resuelta:'confirmed',parcial:'statement',pendiente:'speculation',sin_revisar:'speculation'}[q.estado];
@@ -476,7 +505,8 @@
     const all=[...questions.values()],terms=fold(state.questionQuery).trim().split(/\s+/).filter(Boolean);
     const list=all.filter(q=>(!state.questionStatus||q.estado===state.questionStatus)&&terms.every(t=>fold(q.pregunta+' '+q.respuesta+' '+q.pendiente+' '+q.id+' '+q.referencias.join(' ')).includes(t)));
     const counts=data.seguimiento.estados;
-    content.innerHTML=`<div class="section-head"><div><p class="eyebrow">Del planteamiento a la última evidencia</p><h1>${sections.misterios}</h1><p>${all.length} preguntas históricas · ${counts.resuelta||0} resueltas · ${counts.parcial||0} parciales · ${counts.pendiente||0} pendientes${counts.sin_revisar?` · ${counts.sin_revisar} sin revisar`:''}</p></div></div><p class="section-description">Cada pregunta conserva su contexto original y se enlaza con respuestas posteriores. Una nueva pista no cierra por sí sola un misterio. ${data.seguimiento.por_actualizar?`${data.seguimiento.por_actualizar} entradas necesitan cotejar los capítulos nuevos.`:`Cotejo completo hasta el capítulo ${data.seguimiento.ultimo_capitulo}.`}</p><div class="filters"><label>Buscar una pregunta o respuesta<input id="question-search" type="search" value="${esc(state.questionQuery)}" placeholder="Nombre, asunto o referencia…"></label><label>Estado<select class="filter-select" data-filter="questionStatus"><option value="">Todos los estados</option>${Object.entries(questionStates).map(([key,label])=>`<option value="${key}" ${state.questionStatus===key?'selected':''}>${label}</option>`).join('')}</select></label></div>${paginated(list,questionCard,20)}<details class="context-details"><summary>Síntesis de las tramas principales</summary><article class="document">${markdown(documentText(data.documents.misterios,sections.misterios))}</article></details>${roleFollowup('misterios')}`;
+    const followup=roleFollowup('misterios');
+    content.innerHTML=`<div class="section-head"><div><p class="eyebrow">Del planteamiento a la última evidencia</p><h1 id="question-list-title" tabindex="-1">${sections.misterios}</h1><p>${all.length} preguntas históricas · ${counts.resuelta||0} resueltas · ${counts.parcial||0} parciales · ${counts.pendiente||0} pendientes${counts.sin_revisar?` · ${counts.sin_revisar} sin revisar`:''}</p></div></div><p class="section-description">Cada pregunta conserva su contexto original y se enlaza con respuestas posteriores. Una nueva pista no cierra por sí sola un misterio. ${data.seguimiento.por_actualizar?`${data.seguimiento.por_actualizar} entradas necesitan cotejar los capítulos nuevos.`:`Cotejo completo hasta el capítulo ${data.seguimiento.ultimo_capitulo}.`}</p>`+sectionNavigation([['question-list-title',sections.misterios],...(followup?[['role-followup-title','Rol escrito']]:[]),['mystery-synthesis-title','Síntesis de las tramas principales']])+`<div class="filters"><label>Buscar una pregunta o respuesta<input id="question-search" type="search" value="${esc(state.questionQuery)}" placeholder="Nombre, asunto o referencia…"></label><label>Estado<select class="filter-select" data-filter="questionStatus"><option value="">Todos los estados</option>${Object.entries(questionStates).map(([key,label])=>`<option value="${key}" ${state.questionStatus===key?'selected':''}>${label}</option>`).join('')}</select></label></div>${paginated(list,questionCard,20)}${followup}${documentSection('mystery-synthesis-title','Síntesis de las tramas principales',`<article class="document">${markdown(documentText(data.documents.misterios,sections.misterios))}</article>`,'mystery-synthesis')}`;
   }
   function entityList(type) {
     const category=categories[type];
@@ -484,9 +514,7 @@
     heading(category.title,'Enciclopedia · '+category.title);
     const terms=fold(state.entityQuery).trim().split(/\s+/).filter(Boolean);
     const list=data.entities.filter(e=>e.type===type&&terms.every(t=>fold(e.name+' '+e.aliases.join(' ')).includes(t)));
-    const doc=data.documents[category.document];
-    const overview=doc?`<details class="context-details"><summary>${esc(category.overview)}</summary><article class="document">${markdown(documentText(doc,category.title))}</article></details>`:'';
-    content.innerHTML=`<div class="section-head"><div><p class="eyebrow">${esc(campaign.name)} · Enciclopedia</p><h1>${category.title}</h1><p>${category.copy}</p></div></div><div class="filters"><label>${category.search}<input id="entity-search" type="search" value="${esc(state.entityQuery)}" placeholder="Nombre o variante…"></label></div>${paginated(list,entityCard,36)}${overview}`;
+    content.innerHTML=catalogueViews(type)+`<div class="section-head"><div><p class="eyebrow">${esc(campaign.name)} · Enciclopedia</p><h1>${category.title}</h1><p>${category.copy}</p></div></div><div class="filters"><label>${category.search}<input id="entity-search" type="search" value="${esc(state.entityQuery)}" placeholder="Nombre o variante…"></label></div>${paginated(list,entityCard,36)}`;
   }
   function entityView(name) {
     const e=entities.get(name)||entityAliases.get(name); if(!e)return missing();
@@ -494,14 +522,15 @@
     heading(e.name,'Enciclopedia · '+category.title);
     const refs=(e.references||[]).map(id=>facts.has(id)?`<a href="#registro/${id}">${id}</a>`:`<a href="#capitulo/${Number(id)}">${chapterName(Number(id))}</a>`).join(' · ');
     const written=roleScenes().filter(scene=>(scene.participantes||[]).some(label=>label===e.name||entityAliases.get(label)===e));
-    content.innerHTML=`<a class="source-link" href="#${category.route}">← Volver a ${category.title.toLowerCase()}</a><div class="section-head"><div><p class="eyebrow">${entityType(e.name)} · ${e.facts.length} registros</p><h1>${esc(e.name)}</h1></div></div>${e.description?`<p class="${e.history?'entity-intro':'chapter-summary'}">${esc(e.description)}</p>`:''}${e.history?entityHistory(e):''}${e.note?`<details class="context-details"><summary>Identificación y referencias</summary><div class="document"><p>${esc(e.note)}</p><p>${refs}</p></div></details>`:''}${e.history?'<div class="section-head"><div><p class="eyebrow">Los acontecimientos que sostienen el relato</p><h2>Registros y evidencias</h2></div></div>':''}${paginated(e.facts.map(id=>facts.get(id)),f=>event(f,true),25)}${roleBlock(written,'Rol escrito',{collapsible:true})}`;
+    const navigation=[...(e.history?[['narrative-story-title','Historia']]:[]),...(written.length?[['entity-role-title','Rol escrito']]:[]),['entity-evidence-title','Registros y evidencias'],...(e.note?[['entity-identification-title','Identificación y referencias']]:[])];
+    content.innerHTML=`<a class="source-link" href="#${category.route}">← Volver a ${category.title.toLowerCase()}</a><div class="section-head"><div><p class="eyebrow">${entityType(e.name)} · ${e.facts.length} registros${written.length?' · '+written.length+' escenas de rol escrito':''}</p><h1>${esc(e.name)}</h1></div></div>${e.description?`<p class="${e.history?'entity-intro':'chapter-summary'}">${esc(e.description)}</p>`:''}`+sectionNavigation(navigation)+`${e.history?entityHistory(e):''}${roleBlock(written,'Rol escrito',{id:'entity-role-title'})}<div class="section-head"><div><h2 id="entity-evidence-title" tabindex="-1">Registros y evidencias</h2></div></div>${paginated(e.facts.map(id=>facts.get(id)),f=>event(f,true),25)}${e.note?documentSection('entity-identification-title','Identificación y referencias',`<div class="document"><p>${esc(e.note)}</p><p>${refs}</p></div>`,'entity-identification'):''}`;
   }
   function entityHistory(e) {
     const titles={personaje:'Historia',lugar:'Historia y acontecimientos',faccion:'Intereses y evolución',objeto:'Origen y recorrido'};
     return narrativeHistory(e.history,{kind:e.type,title:titles[e.type],kicker:'Hasta el capítulo '+e.history.revisado_hasta});
   }
   function narrativeHistory(history,{kind,title,kicker}) {
-    return `<section class="character-story narrative-story" data-story-kind="${esc(kind)}" aria-labelledby="narrative-story-title"><header class="story-heading"><div class="story-emblem" aria-hidden="true">${crest(kind==='capitulo'?'objeto':kind)}</div><div><p class="eyebrow">${esc(kicker)}</p><h2 id="narrative-story-title">${esc(title)}</h2></div></header><div class="story-stages">${history.etapas.map((stage,index)=>`<article class="story-stage"><div class="story-step" aria-hidden="true">${String(index+1).padStart(2,'0')}</div><div class="story-prose"><h3>${esc(stage.titulo)}</h3><p>${esc(stage.texto)}</p><nav class="story-sources" aria-label="Fuentes de ${esc(stage.titulo)}"><span>Fuentes</span>${stage.referencias.map(id=>{const f=facts.get(id);return `<a href="#registro/${id}" title="${esc(f.titulo)}">${id} <span>· ${clock(f.evidencia_cue?.inicio||f.inicio)}</span></a>`;}).join('')}</nav></div></article>`).join('')}</div></section>`;
+    return `<section class="character-story narrative-story" data-story-kind="${esc(kind)}" aria-labelledby="narrative-story-title"><header class="story-heading"><div class="story-emblem" aria-hidden="true">${crest(kind==='capitulo'?'objeto':kind)}</div><div><p class="eyebrow">${esc(kicker)}</p><h2 id="narrative-story-title" tabindex="-1">${esc(title)}</h2></div></header><div class="story-stages">${history.etapas.map((stage,index)=>`<article class="story-stage"><div class="story-step" aria-hidden="true">${String(index+1).padStart(2,'0')}</div><div class="story-prose"><h3>${esc(stage.titulo)}</h3><p>${esc(stage.texto)}</p><nav class="story-sources" aria-label="Fuentes de ${esc(stage.titulo)}"><span>Fuentes</span>${stage.referencias.map(id=>{const f=facts.get(id);return `<a href="#registro/${id}" title="${esc(f.titulo)}">${id} <span>· ${clock(f.evidencia_cue?.inicio||f.inicio)}</span></a>`;}).join('')}</nav></div></article>`).join('')}</div></section>`;
   }
   function listing(query='') {
     if(!reviewedCount)return pendingSection(query?'Buscar en '+campaign.name:sections.cronologia,'Todavía no hay acontecimientos revisados de '+campaign.name+'. Puedes buscar por número o título en su catálogo de capítulos.');
@@ -510,12 +539,29 @@
     document.getElementById('search-status').textContent=query?`${results.length} resultados para ${query}`:'';
     content.innerHTML=`<div class="section-head"><div><p class="eyebrow">El archivo, con sus evidencias</p><h1>${query?`Resultados para «${esc(query)}»`:sections.cronologia}</h1><p>${query?'Se buscan todos los términos, ignorando acentos, en registros y equivalencias documentadas.':'Orden de capítulos y minutos del vídeo. No equivale a un calendario interno entre los grupos de la campaña.'}</p></div></div>${filters()}${paginated(results)}`;
   }
+  function campaignSearch(query) {
+    const terms=fold(query).trim().split(/\s+/).filter(Boolean);
+    const results=campaignEntries().filter(item=>(!state.searchType||item.type===state.searchType)&&(!state.chapter||item.chapters.includes(Number(state.chapter)))&&(!state.kind||item.fact?.tipo===state.kind)&&terms.every(term=>item.text.includes(term)));
+    const rank=item=>item.titleText===fold(query).trim()?0:terms.every(term=>item.titleText.includes(term))?1:2;
+    results.sort((a,b)=>rank(a)-rank(b));
+    const resultCard=item=>{
+      if(item.fact)return event(item.fact);
+      const body=item.type==='documento'?item.body.replace(/\[([^\]]+)\]\([^)]+\)/g,'$1').replace(/[#*`|>]/g,''):item.body;
+      const at=terms.map(term=>fold(body).indexOf(term)).find(at=>at>=0)??0;
+      const start=at>110?Math.max(0,body.lastIndexOf(' ',at-70)+1):0;
+      const preview=(start?'…':'')+short(body.slice(start),300);
+      return `<a class="card search-result" data-search-type="${esc(item.type)}" href="${esc(item.href)}"><span class="card-tag">${esc(searchTypes[item.type])}</span><h3 class="card-title">${esc(item.title)}</h3>${preview?`<p class="card-copy">${esc(preview)}</p>`:''}<div class="card-meta"><span>${esc(item.meta)}</span><span>Consultar ${icons.arrow}</span></div></a>`;
+    };
+    heading('Resultados de búsqueda','Búsqueda · '+campaign.name+' · '+query);
+    document.getElementById('search-status').textContent=`${results.length} resultados para ${query}`;
+    content.innerHTML=`<div class="section-head"><div><p class="eyebrow">${esc(campaign.name)}</p><h1>Resultados para «${esc(query)}»</h1><p>Crónicas, acontecimientos, fichas, misterios, documentos y rol escrito, incluidos sus mensajes originales. Se buscan todos los términos, ignorando mayúsculas y acentos.</p></div></div>${filters(true)}${paginated(results,resultCard)}`;
+  }
   function targetLink(raw,label) {
     if(/^https:\/\//i.test(raw))return `<a href="${esc(raw)}" target="_blank" rel="noopener noreferrer">${label}</a>`;
     const match=raw.match(/(?:^|\/)capitulos\/(\d+)\.(?:md|json)/);
     if(match){ const ids=(label.match(/\b\d{2}-\d{3}\b/g)||[]).filter(id=>facts.has(id)); return `<a href="${ids.length===1?'#registro/'+ids[0]:'#capitulo/'+Number(match[1])}">${label}</a>`; }
-    const doc=Object.entries(data.documents).find(([key])=>raw.toUpperCase().includes(({atlas:'ATLAS',facciones:'FACCIONES',misterios:'MISTERIOS',misiones:'MISIONES',contradicciones:'CONTRADICCIONES',relaciones:'RELACIONES',nombres:'NOMBRES',metodo:'METODO'}[key])+'.MD'));
-    return doc?`<a href="#${doc[0]}">${label}</a>`:label;
+    const doc=Object.entries(data.documents).find(([key])=>key!=='metodo'&&raw.toUpperCase().includes(({atlas:'ATLAS',facciones:'FACCIONES',misterios:'MISTERIOS',misiones:'MISIONES',contradicciones:'CONTRADICCIONES',relaciones:'RELACIONES',nombres:'NOMBRES'}[key])+'.MD'));
+    return doc?`<a href="#${['atlas','facciones'].includes(doc[0])?'documento/':''}${doc[0]}">${label}</a>`:label;
   }
   function inline(text) {
     const protectedParts=[];
@@ -542,10 +588,12 @@
     return (doc?.text||'').replace(/^# [^\r\n]+/,'# '+title);
   }
   function documentView(key) {
-    const doc=data.documents[key];if(!doc)return !reviewedCount?pendingSection({misiones:'Misiones',relaciones:'Relaciones',metodo:'Fuentes y método'}[key]||'Archivo de '+campaign.name):missing();
-    const title=sections[key]||doc.title;
+    const doc=data.documents[key];if(!doc||key==='metodo')return missing();
+    const category=Object.entries(categories).find(([,category])=>category.document===key);
+    const title=category?category[1].overview:sections[key]||doc.title;
     heading(title,'Enciclopedia · '+title);
-    content.innerHTML='<article class="document">'+markdown(documentText(doc,title))+'</article>'+roleFollowup(key);
+    const followup=roleFollowup(key);
+    content.innerHTML=(category?catalogueViews(category[0],true):'')+(followup?sectionNavigation([['campaign-document',title],['role-followup-title','Rol escrito']]):'')+'<article class="document" id="campaign-document" tabindex="-1">'+markdown(documentText(doc,title))+'</article>'+followup;
   }
   function missing(){heading('No se encontró la entrada');content.innerHTML='<div class="empty"><h1>Esta entrada no está en el archivo.</h1><p>Vuelve al índice o busca otra grafía.</p><a class="primary-button" href="#inicio">Ir al inicio</a></div>';}
   function current(){const parts=location.hash.slice(1).split('/');let value='';try{value=decodeURIComponent(parts.slice(1).join('/'));}catch{}return [parts[0]||(archive.world&&!Object.hasOwn(campaignMetadata,requestedCampaign)?'campanas':'inicio'),value];}
@@ -562,13 +610,15 @@
     document.querySelectorAll('#sidebar .nav-label,#sidebar .nav-links').forEach(node=>node.hidden=worldView);
     document.getElementById('app-stats').textContent=worldView?Object.keys(campaignMetadata).length+' campañas independientes':`${data.chapters.length} crónicas · ${data.facts.length} acontecimientos`;
     if(route==='entidades'){history.replaceState(null,'','#personajes');return render(true);}
+    if(route==='metodo'){history.replaceState(null,'','#inicio');return render(true);}
     if(route!=='busqueda'){document.getElementById('search-status').textContent='';if(reset)searchInput.value='';}
     if(reset){state.page=1;state.tab='relato';state.chapterQuery='';state.entityQuery='';state.questionQuery='';state.questionStatus='';state.roleQuery='';state.transcriptQuery='';state.transcriptLimit=120;}
     const selectedEntity=route==='entidad'?(entities.get(arg)||entityAliases.get(arg)):null;
-    document.querySelectorAll('#sidebar a[href^="#"]').forEach(a=>{const active=a.hash==='#'+route || ((route==='capitulo'||route==='rol'||route==='lectura')&&a.hash==='#capitulos')||(route==='pregunta'&&a.hash==='#misterios')||(selectedEntity&&a.hash==='#'+categories[selectedEntity.type].route);a.classList.toggle('active',active);if(active)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');});
+    const selectedDocumentCategory=route==='documento'?Object.values(categories).find(category=>category.document===arg):null;
+    document.querySelectorAll('#sidebar a[href^="#"]').forEach(a=>{const active=a.hash==='#'+route || ((route==='capitulo'||route==='rol'||route==='lectura')&&a.hash==='#capitulos')||(route==='pregunta'&&a.hash==='#misterios')||(selectedEntity&&a.hash==='#'+categories[selectedEntity.type].route)||(selectedDocumentCategory&&a.hash==='#'+selectedDocumentCategory.route);a.classList.toggle('active',active);if(active)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');});
     document.getElementById('sidebar').classList.remove('open');document.getElementById('menu-toggle')?.setAttribute('aria-expanded','false');
     const category=Object.entries(categories).find(([,value])=>value.route===route);
-    if(route==='campanas')worldHome();else if(route==='inicio')home();else if(route==='capitulos')chapterList();else if(route==='lectura')readingView(arg);else if(route==='rol')arg?roleView(arg):roleList();else if(route==='capitulo')chapterView(Number(arg));else if(route==='registro')recordView(arg);else if(route==='pregunta')questionView(arg);else if(route==='misterios')questionList();else if(category)entityList(category[0]);else if(route==='entidad')entityView(arg);else if(route==='cronologia')listing();else if(route==='busqueda'){searchInput.value=arg;listing(arg);}else documentView(route);
+    if(route==='campanas')worldHome();else if(route==='inicio')home();else if(route==='capitulos')chapterList();else if(route==='lectura')readingView(arg);else if(route==='rol')arg?roleView(arg):roleList();else if(route==='capitulo')chapterView(Number(arg));else if(route==='registro')recordView(arg);else if(route==='pregunta')questionView(arg);else if(route==='misterios')questionList();else if(category)entityList(category[0]);else if(route==='entidad')entityView(arg);else if(route==='documento')documentView(arg);else if(route==='cronologia')listing();else if(route==='busqueda'){searchInput.value=arg;campaignSearch(arg);}else documentView(route);
     document.getElementById('search-clear').hidden=!searchInput.value;
     editor?.decorate(current());
     applyCampaignLettering();
@@ -576,11 +626,12 @@
   content.addEventListener('click',async eventObject=>{
     const roleMessage=eventObject.target.closest('[data-role-message]');if(roleMessage){eventObject.preventDefault();const target=document.getElementById('mensaje-'+roleMessage.dataset.roleMessage);target?.scrollIntoView({block:'center',behavior:'instant'});return;}
     const button=eventObject.target.closest('button');if(!button)return;
+    if(button.dataset.sectionTarget){const target=document.getElementById(button.dataset.sectionTarget);target?.scrollIntoView({block:'start',behavior:'instant'});target?.focus({preventScroll:true});return;}
     if(button.hasAttribute('data-reading-jump-toggle')){toggleReadingJump();return;}
     if(button.hasAttribute('data-reading-jump-close')){closeReadingJump(true);return;}
     if(button.dataset.page){state.page=Number(button.dataset.page);render();content.scrollIntoView({block:'start'});}
     if(button.dataset.tab){state.tab=button.dataset.tab;state.transcriptLimit=120;render();}
-    if(button.hasAttribute('data-reset')){state.chapter='';state.kind='';state.page=1;render();}
+    if(button.hasAttribute('data-reset')){state.chapter='';state.kind='';state.searchType='';state.page=1;render();}
     if(button.hasAttribute('data-transcript-more')){state.transcriptLimit+=200;const scrollY=window.scrollY;render();window.scrollTo(0,scrollY);}
     if(button.dataset.transcriptRetry){transcriptErrors.delete(button.dataset.transcriptRetry);render();}
     if(button.dataset.roleRetry){roleErrors.delete(button.dataset.roleRetry);render();}
@@ -589,7 +640,7 @@
   });
   content.addEventListener('change',eventObject=>{const key=eventObject.target.dataset.filter;if(key){state[key]=eventObject.target.value;state.page=1;render();}});
   content.addEventListener('input',eventObject=>{const input=eventObject.target;if(input.id==='reading-jump-search'){readingJumpResults(input.value);return;}const field={'chapter-search':'chapterQuery','entity-search':'entityQuery','transcript-search':'transcriptQuery','question-search':'questionQuery','role-search':'roleQuery'}[input.id];if(field){const selection=input.selectionStart,scroll=window.scrollY;state[field]=input.value;state.page=1;state.transcriptLimit=120;render();const restored=document.getElementById(input.id);restored.focus();restored.setSelectionRange(selection,selection);window.scrollTo(0,scroll);}});
-  searchInput.addEventListener('input',()=>{clearTimeout(searchTimer);searchTimer=setTimeout(()=>{state.page=1;state.chapter='';state.kind='';const q=searchInput.value.trim();history.replaceState(null,'',q?'#busqueda/'+encodeURIComponent(q):'#inicio');render();},180);});
+  searchInput.addEventListener('input',()=>{clearTimeout(searchTimer);searchTimer=setTimeout(()=>{state.page=1;state.chapter='';state.kind='';state.searchType='';const q=searchInput.value.trim();history.replaceState(null,'',q?'#busqueda/'+encodeURIComponent(q):'#inicio');render();},180);});
   document.getElementById('search-clear').addEventListener('click',()=>{clearTimeout(searchTimer);searchInput.value='';location.hash='#inicio';render();searchInput.focus();});
   document.getElementById('menu-toggle')?.addEventListener('click',eventObject=>{const open=document.getElementById('sidebar').classList.toggle('open');eventObject.currentTarget.setAttribute('aria-expanded',String(open));});
   document.getElementById('campaign-selector').addEventListener('change',eventObject=>{const id=eventObject.target.value;if(Object.hasOwn(campaignMetadata,id))location.assign(campaignURL(id));else location.hash='campanas';});
@@ -610,6 +661,7 @@
     reviewedCount=data.chapters.filter(c=>c.estado==='revisado').length;
     searchIndex.length=0;
     for(const f of data.facts)searchIndex.push({fact:f,text:fold([f.titulo,f.afirmacion,f.cita,f.ambito,f.limitacion,...(f.etiquetas_originales||[]),...f.entidades,...f.entidades.flatMap(name=>entities.get(name)?.aliases||[])].join(' '))});
+    campaignSearchIndex=undefined;
     render();
   }});
   render();

@@ -103,7 +103,7 @@ try {
   await route('#capitulo/39');await check('El capítulo abre con el relato de su sesión','document.querySelector("[data-tab=relato]").classList.contains("active")&&document.querySelectorAll(".story-stage").length===4');
   await evaluate('document.querySelector("[data-tab=hechos]").click()');
   await check('Acontecimientos del capítulo 39','document.querySelectorAll(".event").length===20');
-  await check('Notas de fuentes integradas en el capítulo','!!document.querySelector("details.context-details")&&!document.querySelector("[data-tab=contradicciones]")');
+  await check('Notas de fuentes visibles en el capítulo','!!document.querySelector("section.chapter-source-notes")&&!document.querySelector(".chapter-source-notes").closest("details")&&!document.querySelector("[data-tab=contradicciones]")');
   await evaluate('document.querySelector("[data-tab=preguntas]").click()');
   await check('Cada pregunta de capítulo tiene seguimiento actualizado','(()=>{const q=JSON.parse(document.getElementById("xoltacan-data").textContent).seguimiento.preguntas.filter(q=>q.capitulo===39);const cards=[...document.querySelectorAll(".question-card")];return cards.length===q.length&&cards.every((card,i)=>card.dataset.status===q[i].estado)})()');
   await evaluate('document.querySelector("[data-tab=transcripcion]").click()');
@@ -138,7 +138,8 @@ try {
   await check('Cipo queda localizado y el fragmento sigue pendiente','document.querySelector(".question-card").dataset.status==="parcial"&&document.getElementById("content").innerText.includes("Tentacol")&&document.getElementById("content").innerText.includes("fragmento de espada")');
   await route('#entidad/Tortas');
   await check('Tortas conserva su historia actualizada y las edades discrepantes','document.querySelectorAll(".story-stage").length===JSON.parse(document.getElementById("xoltacan-data").textContent).entities.find(e=>e.name==="Tortas").history.etapas.length&&document.getElementById("content").innerText.includes("77")');
-  for(const section of ['misterios','misiones','relaciones','nombres','metodo']){await route('#'+section);if(section==='misterios')await evaluate('document.querySelector("details.context-details").open=true');await check('Documento '+section,'document.querySelector(".document").innerText.length>100');}
+  for(const section of ['misterios','misiones','relaciones','nombres']){await route('#'+section);await check('Documento '+section,'document.querySelector(".document").innerText.length>100');}
+  await route('#metodo');await check('La antigua página de método vuelve a portada',`location.hash==='#inicio'&&!!document.querySelector('.hero')&&!document.querySelector('a[href="#metodo"]')`);
   await route('#capitulo/21');
   await check('El día aceptado se muestra como fecha y conserva los avisos alternativos','document.querySelector(".chapter-dates dd").dataset.dateStatus==="asumida"&&document.querySelector(".chapter-dates dd").textContent==="01/04/2026"&&document.querySelector(".date-sources").textContent.includes("02/04/2026")&&document.querySelector(".chapter-dates dd time").getAttribute("datetime")==="2026-04-01"');
   await route('#capitulo/38');
@@ -189,7 +190,8 @@ try {
   await check('Equivalencias y acentos','document.querySelectorAll(".entity-card").length>0 && document.getElementById("content").innerText.includes("Naór")');
   await evaluate('document.querySelector(".entity-card").click()');await sleep(160);await check('Ficha de entidad','document.querySelectorAll(".event").length>0');
   await route('#atlas');await check('Búsqueda local se limpia al cambiar de sección','document.getElementById("entity-search").value===""&&document.querySelectorAll(".entity-card").length>0');
-  await check('Contexto geográfico integrado','document.querySelector(".document").textContent.length>100');
+  await evaluate(`document.querySelector('.catalogue-views a[href="#documento/atlas"]').click()`);await sleep(180);
+  await check('Contexto geográfico con vista propia y texto visible','location.hash==="#documento/atlas"&&document.querySelector(".document").innerText.length>100&&!document.querySelector(".document").closest("details")&&document.querySelector("#sidebar a.active").hash==="#atlas"');
   await route('#busqueda/zzzzxoltacansindatos');await check('Búsqueda sin coincidencias','!!document.querySelector(".empty")');
   await route('#personajes');await screenshot('personajes-escritorio');
   await check('Todas las categorías tienen relatos con referencias','JSON.parse(document.getElementById("xoltacan-data").textContent).entities.every(e=>e.history?.etapas.length&&e.history.etapas.every(s=>s.referencias.length))');

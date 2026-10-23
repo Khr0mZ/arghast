@@ -31,7 +31,10 @@ const env={BUCKET:new Bucket(),ARGHAST_EDIT_CODE:'codigo-solo-de-prueba'},pendin
 const ctx={waitUntil:p=>pending.push(p)};
 async function request(path,body,token='',origin='https://khr0mz.github.io',method=body?'POST':'GET'){
   const response=await worker.fetch(new Request('https://editor.example/api/editor'+path,{method,headers:{Origin:origin,'Content-Type':'application/json',Authorization:'Bearer '+token},...(body?{body:JSON.stringify(body)}:{})}),env,ctx);
-  const result=response.headers.get('Content-Encoding')==='gzip'?await new Response(response.body.pipeThrough(new DecompressionStream('gzip'))).json():response.status===204?null:await response.json();
+  // El cuerpo que entrega el Worker debe ser JSON. Workers aplica por su cuenta
+  // Content-Encoding al transmitir: descomprimir aquí ocultaba la doble compresión.
+  assert.equal(response.headers.get('Content-Encoding'),null);
+  const result=response.status===204?null:await response.json();
   return {status:response.status,result,headers:response.headers};
 }
 assert.equal((await request('/unlock',{code:'incorrecto'})).status,403);
@@ -63,6 +66,14 @@ for(const [campaign,data] of [['xoltacan',world],['kuroto',world.campaigns.kurot
   const second=(await import('data:text/javascript;base64,'+Buffer.from(source+'\n// restart').toString('base64'))).default;
   const response=await second.fetch(new Request('https://editor.example/api/editor/document/'+campaign+'?since='+revision),env,ctx);
   assert.equal((await response.json()).unchanged,true);
+  const changed=structuredClone(saved.result.content);changed.facts[0].cita='Corrección posterior a la primera versión';
+  assert.equal((await request('/save-document',{...body,content:changed,revision},token)).status,200);
+  const updated=await request('/document/'+campaign);
+  assert.equal(updated.result.content.facts[0].cita,changed.facts[0].cita);
+  assert.equal(updated.result.history.length,2);
+  assert.notEqual(updated.result.revision,revision);
+  assert.deepEqual((await request('/document/'+campaign+'?revision='+revision)).result.content,saved.result.content);
+  assert.equal((await request('/save-document',{...body,revision},token)).status,409);
   console.log(campaign+': guardado completo, concurrencia, historial, persistencia y transcripciones protegidas');
 }
 assert.equal((await request('/lock',{},token)).status,200);

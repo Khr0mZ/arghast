@@ -23,6 +23,8 @@ La construcción general regenera también la interfaz. Para actualizar solo HTM
 python -X utf8 scripts/construir_interfaz.py
 ```
 
+Las fichas muestran historia, rol escrito, registros e identificación en apartados visibles, con un índice «Saltar a». El seguimiento escrito de misiones, misterios y relaciones, las evidencias y las notas de voz también se leen sin desplegarlos. Solo los justificantes de fechas y las opciones de edición conservan desplegables. Las vistas de crónicas distinguen la lectura continua, los capítulos y las escenas; los catálogos de lugares y facciones enlazan sus documentos de contexto en una vista propia. «Fuentes y método» deja de ser una página de la interfaz; se conserva el documento de archivo y las citas permanecen junto a los contenidos.
+
 Comprobaciones reales de navegador:
 
 ```powershell

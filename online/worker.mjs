@@ -9,6 +9,9 @@ const hash=async value=>Array.from(new Uint8Array(await crypto.subtle.digest('SH
 const json=(value,status=200)=>Response.json(value,{status,headers:{'Cache-Control':'no-store','X-Content-Type-Options':'nosniff'}});
 const fail=(status,message)=>json({error:message},status);
 const keyFor=campaign=>`campaigns/${campaign}/head.json`;
+// R2 conserva gzip; el runtime comprime la respuesta HTTP. Entregar JSON evita
+// que Content-Encoding: gzip vuelva a comprimir un cuerpo ya comprimido.
+const documentResponse=obj=>new Response(obj.body.pipeThrough(new DecompressionStream('gzip')),{headers:{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store','X-Content-Type-Options':'nosniff'}});
 async function head(bucket,campaign){const obj=await bucket.get(keyFor(campaign));return {etag:obj?.etag,value:obj?await obj.json():{revision:0,history:[]}};}
 async function limit(bucket,ip){
   const minute=Math.floor(Date.now()/60000),key=`attempts/${minute}/${await hash(ip)}`;
@@ -37,13 +40,13 @@ async function handle(request,env,ctx){
       if(!version)return fail(404,'Versión no disponible.');
       const obj=await bucket.get(`campaigns/${campaign}/versions/${version.revision}.json.gz`);
       if(!obj)return fail(503,'No se ha podido recuperar esta versión.');
-      return new Response(obj.body,{headers:{'Content-Type':'application/json; charset=utf-8','Content-Encoding':'gzip','Cache-Control':'no-store'}});
+      return documentResponse(obj);
     }
     if(url.searchParams.get('since')===String(value.revision))return json({unchanged:true});
     if(value.revision===0)return json({original:true,revision:0,history:[]});
     const obj=await bucket.get(`campaigns/${campaign}/versions/${value.revision}.json.gz`);
     if(!obj)return fail(503,'No se ha podido recuperar la campaña.');
-    return new Response(obj.body,{headers:{'Content-Type':'application/json; charset=utf-8','Content-Encoding':'gzip','Cache-Control':'no-store'}});
+    return documentResponse(obj);
   }
   if(request.method!=='POST')return fail(404,'Ruta no disponible.');
   if(!['/api/editor/unlock','/api/editor/lock','/api/editor/save-document'].includes(path))return fail(404,'Ruta no disponible.');

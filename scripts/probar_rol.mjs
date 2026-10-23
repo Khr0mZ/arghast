@@ -42,6 +42,92 @@ try {
     const url=new URL(siteURL);url.searchParams.set('campana',campaign);url.hash='inicio';
     await call('Emulation.setDeviceMetricsOverride',{width:1440,height:1080,deviceScaleFactor:1,mobile:false});
     await call('Page.navigate',{url:url.href});await ready('!!document.querySelector(".hero")');
+    // Un nombre presente solo en mensajes también debe salir en la barra principal.
+    await route('#rol');
+    await evaluate('(()=>{const input=document.getElementById("role-search");input.value="tsugami";input.dispatchEvent(new Event("input",{bubbles:true}));})()');
+    const roleMatches=await evaluate('[...document.querySelectorAll(".role-card")].map(a=>a.hash).sort()');
+    if(!roleMatches.length)throw new Error('Falta el caso real de Tsugami en '+campaign);
+    await evaluate('(()=>{const input=document.getElementById("global-search");input.focus();input.value="tsugami";input.dispatchEvent(new Event("input",{bubbles:true}));})()');
+    await ready('location.hash==="#busqueda/tsugami"&&!!document.querySelector("[data-filter=searchType]")');
+    if(campaign==='xoltacan')await check('xoltacan: el filtro nuevo conserva el rótulo de Ambystoma','document.querySelector("[data-filter=searchType]").closest("label").querySelector(".campaign-lettering").textContent==="Contenido"');
+    await check(campaign+': búsqueda principal conserva foco','document.activeElement.id==="global-search"');
+    await check(campaign+': buscar no descarga originales de las escenas','!globalThis.arghastWrittenRoleSources');
+    await evaluate('(()=>{const select=document.querySelector("[data-filter=searchType]");select.value="rol";select.dispatchEvent(new Event("change",{bubbles:true}));})()');
+    await check(campaign+': Tsugami encuentra las mismas escenas que el buscador de rol',`JSON.stringify([...document.querySelectorAll('.search-result[data-search-type="rol"]')].map(a=>a.hash).filter(hash=>hash.split('/').length===2).sort())===${JSON.stringify(JSON.stringify(roleMatches))}`);
+    const originalOnly=roleMatches.find(hash=>{const scene=scenes.find(s=>hash==='#rol/'+s.id);return !JSON.stringify([scene.titulo,scene.resumen,scene.relato,scene.participantes]).toLowerCase().includes('tsugami');});
+    if(!originalOnly)throw new Error('No hay una coincidencia exclusiva de los mensajes originales en '+campaign);
+    await check(campaign+': incluye nombres ausentes del título y del relato',`[...document.querySelectorAll('.search-result')].some(a=>a.hash===${JSON.stringify(originalOnly)})`);
+    await call('Emulation.setDeviceMetricsOverride',{width:320,height:780,deviceScaleFactor:1,mobile:true});
+    await sleep(350);
+    await check(campaign+': resultados y filtros caben en móvil','document.documentElement.scrollWidth<=320');
+    await screenshot(campaign+'-busqueda-tsugami');
+    await call('Emulation.setDeviceMetricsOverride',{width:1440,height:1080,deviceScaleFactor:1,mobile:false});
+    await evaluate('(()=>{const input=document.getElementById("global-search");input.value="TSÚGAMI";input.dispatchEvent(new Event("input",{bubbles:true}));})()');
+    await ready('document.getElementById("search-status").textContent.includes("TSÚGAMI")');
+    await check(campaign+': la consulta nueva restablece el filtro de contenido','document.querySelector("[data-filter=searchType]").value===""');
+    await evaluate('(()=>{const select=document.querySelector("[data-filter=searchType]");select.value="rol";select.dispatchEvent(new Event("change",{bubbles:true}));})()');
+    await check(campaign+': búsqueda ignora mayúsculas y tildes',`JSON.stringify([...document.querySelectorAll('.search-result')].map(a=>a.hash).filter(hash=>hash.split('/').length===2).sort())===${JSON.stringify(JSON.stringify(roleMatches))}`);
+    await evaluate(`[...document.querySelectorAll('.search-result')].find(a=>a.hash===${JSON.stringify(originalOnly)}).click()`);
+    const originalScene=scenes.find(s=>originalOnly==='#rol/'+s.id);
+    await ready('document.querySelectorAll(".role-message").length==='+originalScene.mensajes);
+    await check(campaign+': el resultado abre sus mensajes originales','document.querySelector(".role-transcript").textContent.toLowerCase().includes("tsugami")');
+    await check(campaign+': las escenas encontradas pertenecen a la campaña elegida',`location.search.includes('campana=${campaign}')&&${JSON.stringify(roleMatches)}.every(hash=>hash.startsWith('#rol/${campaign==='xoltacan'?'x':'k'}-'))`);
+    await call('Page.navigate',{url:'about:blank'});await ready('!document.getElementById("xoltacan-data")');
+    await call('Page.navigate',{url:url.href});await ready('!!document.querySelector(".hero")');
+    const search=async(query,type)=>{
+      await evaluate('(()=>{const input=document.getElementById("global-search");input.value='+JSON.stringify(query)+';input.dispatchEvent(new Event("input",{bubbles:true}));})()');
+      await ready('document.getElementById("search-status").textContent.endsWith('+JSON.stringify('resultados para '+query)+')');
+      await evaluate('(()=>{const select=document.querySelector("[data-filter=searchType]");select.value='+JSON.stringify(type)+';select.dispatchEvent(new Event("change",{bubbles:true}));})()');
+    };
+    const searchedChapter=data.chapters[0],searchedEntity=data.entities[0],searchedQuestion=data.seguimiento.preguntas[0];
+    for(const [name,query,type,href] of [
+      ['crónicas',searchedChapter.titulo,'capitulo','#capitulo/'+searchedChapter.capitulo],
+      ['historia de las fichas',searchedEntity.description||searchedEntity.name,searchedEntity.type,'#entidad/'+encodeURIComponent(searchedEntity.name)],
+      ['preguntas y respuestas',searchedQuestion.pregunta,'pregunta','#pregunta/'+searchedQuestion.id],
+      ['documentos de misiones','Misiones','documento','#misiones']
+    ]){
+      await search(query,type);
+      await check(campaign+': búsqueda principal encuentra '+name,`[...document.querySelectorAll('.search-result')].some(a=>a.getAttribute('href')===${JSON.stringify(href)})`);
+    }
+    await search('metodo','documento');
+    await check(campaign+': la búsqueda no ofrece la página de método',`![...document.querySelectorAll('.search-result')].some(a=>a.hash==='#metodo'||a.hash==='#documento/metodo')`);
+    await search('a','rol');
+    const firstPage=await evaluate('[...document.querySelectorAll(".search-result")].map(a=>a.hash)');
+    await evaluate(`document.querySelector('[data-page="2"]').click()`);
+    await check(campaign+': paginación incluye más resultados de rol',`document.querySelector('.pagination').textContent.includes('Página 2')&&[...document.querySelectorAll('.search-result')].every(a=>!${JSON.stringify(firstPage)}.includes(a.hash))`);
+    await evaluate('document.querySelector("[data-reset]").click()');
+    await check(campaign+': restablecer limpia filtros y vuelve a la primera página','document.querySelector("[data-filter=searchType]").value===""&&document.querySelector(".pagination").textContent.includes("Página 1")');
+    await search('zzsincoincidencias987654321','');
+    await check(campaign+': consulta sin resultados muestra un estado vacío','document.querySelector(".count").textContent==="0 resultados"&&!!document.querySelector(".empty")');
+    await evaluate('document.getElementById("search-clear").click()');
+    await ready('!!document.querySelector(".hero")');
+    await check(campaign+': limpiar búsqueda vuelve a portada','document.getElementById("global-search").value===""&&document.getElementById("search-status").textContent===""');
+    await check(campaign+': portada y pie sin página de método',`!document.querySelector('a[href="#metodo"]')`);
+    for(const type of ['personaje','lugar','faccion','objeto']){
+      const entity=data.entities.find(e=>e.type===type&&scenes.some(s=>(s.participantes||[]).some(p=>p===e.name||e.aliases.includes(p))))||data.entities.find(e=>e.type===type);
+      await route('#entidad/'+encodeURIComponent(entity.name));
+      await check(campaign+': '+type+' muestra sus apartados sin desplegables','!document.querySelector("#content details")&&[...document.querySelectorAll("[data-section-target]")].every(b=>!!document.getElementById(b.dataset.sectionTarget))');
+      const paragraphs=(entity.history?.etapas||[]).map(stage=>stage.texto);
+      await check(campaign+': '+type+' conserva todo su relato',`JSON.stringify([...document.querySelectorAll('.narrative-story .story-prose>p')].map(p=>p.textContent))===${JSON.stringify(JSON.stringify(paragraphs))}`);
+      if(type==='personaje'){
+        await check(campaign+': rol escrito antes de los registros de vídeo','!!document.querySelector(".role-card")&&!!(document.querySelector(".role-block").compareDocumentPosition(document.getElementById("entity-evidence-title"))&Node.DOCUMENT_POSITION_FOLLOWING)');
+        await evaluate(`document.querySelector('[data-section-target="entity-role-title"]').click()`);
+        await check(campaign+': saltar al rol conserva la ficha y lleva el foco al apartado','document.activeElement.id==="entity-role-title"&&location.hash.startsWith("#entidad/")&&document.activeElement.getBoundingClientRect().top>=0&&document.activeElement.getBoundingClientRect().top<innerHeight');
+        await screenshot(campaign+'-perfil-rol-visible');
+        await call('Emulation.setDeviceMetricsOverride',{width:320,height:780,deviceScaleFactor:1,mobile:true});await sleep(350);
+        await evaluate('window.scrollTo({top:0,behavior:"instant"})');
+        await check(campaign+': apartados de ficha y navegación caben en móvil','document.documentElement.scrollWidth<=320');
+        await screenshot(campaign+'-perfil-apartados-movil');
+        await call('Emulation.setDeviceMetricsOverride',{width:1440,height:1080,deviceScaleFactor:1,mobile:false});
+      }
+    }
+    for(const section of ['atlas','facciones']){
+      await route('#'+section);
+      await check(campaign+': '+section+' ofrece un acceso visible a su contexto',`[...document.querySelectorAll('.catalogue-views a')].some(a=>a.hash==='#documento/${section}')&&!document.querySelector('#content details')`);
+      await route('#documento/'+section);
+      await check(campaign+': contexto de '+section+' visible y situado en su sección',`document.querySelector('.document').innerText.length>100&&!document.querySelector('#content details')&&document.querySelector('#sidebar a.active').hash==='#${section}'`);
+    }
+    await route('#inicio');
     await check(campaign+': la portada lleva directamente a leer la historia','document.querySelector(".hero .primary-button").hash==="#lectura"&&document.querySelector(".hero .primary-button").textContent.includes("Leer historia")');
     await evaluate('document.querySelector(".hero .primary-button").click()');await ready('!!document.querySelector(".reading-stream")');
     await check(campaign+': el salto queda flotante desde el inicio','(()=>{const e=document.querySelector(".reading-jump"),r=e.getBoundingClientRect();return getComputedStyle(e).position==="fixed"&&r.top>=0&&r.bottom<=innerHeight&&r.right<=innerWidth})()');
@@ -52,9 +138,9 @@ try {
     await evaluate('document.querySelector("[data-reading-jump-close]").click()');
     await check(campaign+': lectura sin controles de paginación','!document.querySelector(".reading-pagination,#reading-page-select,[data-reading-next],[data-reading-previous]")');
     const initial=await evaluate('document.querySelectorAll(".reading-entry").length');
-    await evaluate(`globalThis.__readingFirst=document.querySelector('.reading-entry');globalThis.__readingDetails=__readingFirst.querySelector('details');__readingDetails.open=true;window.scrollTo({behavior:"instant",top:Math.max(0,scrollY+document.querySelector('.reading-status').getBoundingClientRect().top-innerHeight-500)});globalThis.__readingY=scrollY`);
+    await evaluate(`globalThis.__readingFirst=document.querySelector('.reading-entry');globalThis.__readingContext=__readingFirst.querySelector('.reading-context');window.scrollTo({behavior:"instant",top:Math.max(0,scrollY+document.querySelector('.reading-status').getBoundingClientRect().top-innerHeight-500)});globalThis.__readingY=scrollY`);
     await ready('document.querySelectorAll(".reading-entry").length>'+initial);
-    await check(campaign+': añade relatos sin sustituir los ya abiertos','document.querySelector(".reading-entry")===globalThis.__readingFirst&&globalThis.__readingDetails.open');
+    await check(campaign+': añade relatos sin sustituir los ya abiertos','document.querySelector(".reading-entry")===globalThis.__readingFirst&&document.querySelector(".reading-entry .reading-context")===globalThis.__readingContext');
     await check(campaign+': conserva la posición al añadir contenido','Math.abs(scrollY-globalThis.__readingY)<3');
     await evaluate(`(async()=>{for(let i=0;i<${Math.ceil(total/6)+2};i++){const end=document.querySelector('.reading-status');if(end.dataset.finished==='true')return;window.scrollTo({behavior:"instant",top:Math.max(0,scrollY+end.getBoundingClientRect().top-innerHeight-500)});await new Promise(resolve=>requestAnimationFrame(()=>requestAnimationFrame(resolve)));}throw new Error('No termina la lectura continua');})()`);
     const options=await evaluate('[...document.querySelectorAll(".reading-entry")].map(e=>"#lectura/"+e.dataset.readingKind+"/"+e.dataset.readingId)');
@@ -82,7 +168,7 @@ try {
     await route('#lectura/capitulo/'+firstChapter.capitulo);
     const chapterParagraphs=firstChapter.history?.etapas?.length?firstChapter.history.etapas.flatMap(s=>s.texto.split(/\n\s*\n/).filter(Boolean)):(firstChapter.resumen||'').split(/\n\s*\n/).filter(Boolean);
     await check(campaign+': el enlace al capítulo conserva su relato completo',`JSON.stringify([...document.querySelectorAll('.reading-entry:first-child .reading-prose p')].map(p=>p.textContent))===${JSON.stringify(JSON.stringify(chapterParagraphs))}`);
-    await check(campaign+': las fuentes quedan recogidas durante la lectura','!!document.querySelector(".reading-context")&&!document.querySelector(".reading-context").open');
+    await check(campaign+': fuentes y contexto visibles durante la lectura','!!document.querySelector("section.reading-context")&&!document.querySelector(".reading-context").closest("details")&&!!document.querySelector(".reading-context a")');
     await check(campaign+': leer el relato no descarga los mensajes originales','!globalThis.arghastWrittenRoleSources');
     await screenshot(campaign+'-lectura-escritorio');
     await evaluate('globalThis.__originalReadingObserver=globalThis.IntersectionObserver;globalThis.IntersectionObserver=undefined');
@@ -129,7 +215,8 @@ try {
     await check(campaign+': mensajes íntegros de la escena',`document.querySelectorAll('.role-message').length===${selected.mensajes}&&globalThis.arghastWrittenRoleSources[${JSON.stringify(campaign+'/'+selected.id)}].length===${selected.mensajes}`);
     await check(campaign+': evidencias y relato visibles','document.querySelectorAll(".role-prose p").length>0&&document.querySelectorAll("[data-role-message]").length>0');
     await check(campaign+': ningún mensaje introduce HTML ejecutable','!document.querySelector("#content script,#content iframe,#content object")');
-    await evaluate('document.querySelector("[data-role-message]").closest("details").open=true;document.querySelector("[data-role-message]").click()');
+    await check(campaign+': las evidencias escritas se ven sin desplegarlas','!!document.querySelector(".role-evidence")&&!document.querySelector(".role-evidence").closest("details")');
+    await evaluate('document.querySelector("[data-role-message]").click()');
     await check(campaign+': evidencia conserva la escena',`location.hash===${JSON.stringify('#rol/'+selected.id)}`);
     await check(campaign+': fuentes de horario separadas del relato','[...document.querySelectorAll(".context-details summary")].some(e=>e.textContent==="Fuentes de las fechas")');
     await screenshot(campaign+'-escena-escritorio');
@@ -140,7 +227,7 @@ try {
     await evaluate('const i=document.getElementById("role-search");i.value='+JSON.stringify(selected.participantes[0]||selected.titulo.split(' ')[0])+';i.dispatchEvent(new Event("input",{bubbles:true}))');
     await check(campaign+': búsqueda conserva foco y muestra la escena',`document.activeElement.id==='role-search'&&[...document.querySelectorAll('.role-card')].some(e=>e.dataset.roleId===${JSON.stringify(selected.id)})`);
     await route('#capitulos');
-    await check(campaign+': crónicas integra las escenas','document.querySelectorAll(".role-interlude").length>0');
+    await check(campaign+': capítulos y escenas tienen accesos visibles y contadores',`!document.querySelector('.chapter-grid details')&&[...document.querySelectorAll('.chronicle-views a')].some(a=>a.hash==='#rol'&&a.querySelector('.chronicle-view-count').textContent==='${scenes.length}')`);
     await check(campaign+': crónicas sin desbordamiento a 320 píxeles','document.documentElement.scrollWidth<=320');
     const numbers=data.chapters.map(c=>c.capitulo);
     await check(campaign+': ningún enlace inventa un capítulo',`[...document.querySelectorAll('#content a[href^="#capitulo/"]')].every(e=>${JSON.stringify(numbers)}.includes(Number(e.hash.split('/')[1])))`);
@@ -158,7 +245,7 @@ try {
       for(const section of ['misiones','misterios','relaciones','nombres']){
         await route('#'+section);
         await check(campaign+': '+section+' enlaza el seguimiento del rol','document.querySelectorAll(".role-followup-entry").length>0');
-        await evaluate('document.querySelector(".role-followup").open=true');
+        await check(campaign+': seguimiento de '+section+' visible sin desplegables','!!document.querySelector("section.role-followup")&&[...document.querySelectorAll(".role-followup-entry")].every(e=>!e.closest("details"))');
         await check(campaign+': seguimiento de '+section+' cabe a 320 píxeles','document.documentElement.scrollWidth<=320');
       }
       const href=await evaluate('document.querySelector(".role-followup-sources a").getAttribute("href")');

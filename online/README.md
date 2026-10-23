@@ -20,6 +20,12 @@ Cada guardado crea una versión completa comprimida y actualiza el puntero de la
 campaña mediante una escritura condicional por ETag. Dos jugadores que guardan
 desde la misma revisión no pueden sobrescribirse. El historial y las sesiones
 se conservan en almacenamiento remoto y sobreviven a nuevas instancias del Worker.
+Los objetos siguen comprimidos en R2; al servir la versión actual o una histórica,
+el Worker los descomprime y entrega JSON. El runtime gestiona la compresión HTTP:
+devolver los bytes gzip con `Content-Encoding: gzip` provoca una segunda capa,
+que impide al navegador leer la revisión y causa falsos conflictos al guardar.
+El editor solo permite editar tras cargar una revisión y descarta respuestas de
+sincronización anteriores al borrador abierto.
 Las transcripciones continúan sirviéndose desde GitHub Pages y nunca se aceptan
 como parte del documento editable. CORS permite la web publicada y el propio
 servicio; todas las escrituras requieren un código validado en el servidor.

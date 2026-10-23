@@ -283,15 +283,21 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 .date-sources small { display:block; margin-top:4px; }
 .chapter-dates-compact { display:grid; gap:4px; font-size:12px; color:var(--quiet); line-height:1.5; }
 @media (max-width:560px) { .chapter-dates { grid-template-columns:1fr; gap:14px; padding:17px 20px; } .chapter-dates dd { font-size:17px; } }
+/* Narrative sections stay visible; the section index scrolls without hiding them. */
+.section-navigation { display:flex; flex-wrap:wrap; align-items:center; gap:4px 20px; margin:22px 0 28px; padding:12px 0; border-top:1px solid var(--edge-soft); border-bottom:1px solid var(--edge-soft); }
+.section-navigation > span { color:var(--quiet); font:13px/1.6 var(--font-ui,var(--font-display)); }
+.section-navigation button { max-width:100%; min-width:0; padding:7px 0; border:0; background:transparent; color:var(--accent-soft); font:15px/1.6 var(--font-ui,var(--font-display)); text-align:left; white-space:normal; overflow-wrap:anywhere; text-decoration:underline; text-underline-offset:5px; text-decoration-color:var(--edge); }
+.section-navigation button:hover { color:var(--light); text-decoration-color:currentColor; }
+.document-section { margin:32px 0; min-width:0; }
+.document-section > h2 { margin:0 0 18px; color:var(--light); font:24px/1.4 var(--font-ui,var(--font-display)); overflow-wrap:anywhere; }
+.document-section > .document { margin:0; }
+.document .document-section > h2 { color:var(--link); }
+.document-section > h2,.role-block-title,#narrative-story-title,#entity-evidence-title,#question-list-title,#role-scene-title,#role-original-title,#campaign-document { scroll-margin-top:130px; }
+.section-count,.role-block-count { color:var(--quiet); font:12px/1.8 Georgia,serif; }
+.role-block-count { margin:-5px 0 18px; }
+.footer:not(:has(.editor-exit:not([hidden]),.editor-status:not(:empty))) { display:none; }
 /* Written scenes retain their Discord sources and their position around a live session. */
-.role-interlude { grid-column:1 / -1; min-width:0; margin:7px 0 15px; padding:0; border:1px solid var(--edge); border-radius:3px 14px 3px 14px; background:var(--deep); color:var(--light); }
-.role-interlude > summary { cursor:pointer; padding:18px 22px; line-height:1.65; }
-.role-interlude > summary strong { font-family:var(--font-ui,var(--font-display)); font-size:17px; font-weight:400; color:var(--accent-soft); }
-.role-interlude > summary > span { display:block; margin:6px 0 0 16px; font-size:11px; color:var(--quiet); }
-.role-interlude[open] > summary { border-bottom:1px solid var(--edge-soft); }
 .role-cards { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:15px; min-width:0; }
-.role-interlude > .role-cards { padding:19px; }
-.role-interlude > .role-placement-note { margin:18px 20px 0; }
 .role-block { margin:25px 0 30px; min-width:0; }
 .role-block > h2 { margin:0 0 17px; color:var(--light); font:24px/1.4 var(--font-ui,var(--font-display)); }
 .role-block .section-head { align-items:center; }
@@ -318,7 +324,9 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 .role-attachments a { color:var(--link); text-decoration:underline; }
 .role-empty-message { color:var(--muted); font-style:italic; }
 .role-source-note { color:var(--muted); font:italic 12px/1.8 Georgia,serif; }
-.role-audio-transcript > summary small { display:block; margin:5px 0 0 15px; font:11px/1.7 Georgia,serif; }
+.role-audio-transcript { margin-top:22px; padding-top:18px; border-top:1px solid var(--edge-soft); }
+.role-audio-transcript > h3 { margin:0 0 12px; color:var(--link); font:19px/1.5 var(--font-ui,var(--font-display)); }
+.role-audio-transcript > h3 small { display:block; margin-top:5px; font:11px/1.7 Georgia,serif; }
 .role-editorial-notes { font-size:13px; }
 .role-forwarded { margin:15px 0; padding:10px 17px; border-left:3px solid var(--edge); }
 .role-forwarded > p { color:var(--muted); font-size:11px; }
@@ -328,10 +336,12 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 .role-followup-entry { margin:24px 0; }
 .role-followup-entry h4 { margin:0 0 8px; font:700 16px/1.6 Georgia,serif; }
 .role-followup-sources { font-size:11px; overflow-wrap:anywhere; }
-.chronicle-views { display:flex; gap:24px; align-items:center; margin:0 0 28px; border-bottom:1px solid var(--edge); }
+.chronicle-views { display:flex; flex-wrap:wrap; gap:4px 24px; align-items:center; margin:0 0 28px; border-bottom:1px solid var(--edge); }
 .chronicle-views a { display:inline-flex; align-items:center; min-height:48px; padding:10px 0; border-bottom:3px solid transparent; margin-bottom:-1px; color:var(--quiet); font:16px/1.5 var(--font-ui,var(--font-display)); text-decoration:none; }
 .chronicle-views a:hover,.chronicle-views a[aria-current] { color:var(--accent-soft); border-bottom-color:var(--accent); }
 .chronicle-views a:focus-visible { outline:2px solid var(--accent); outline-offset:5px; }
+.chronicle-view-count { margin-left:7px; color:var(--quiet); font:11px/1.5 Georgia,serif; font-variant-numeric:tabular-nums; }
+.catalogue-views a { max-width:100%; overflow-wrap:anywhere; }
 .reading-stream { max-width:850px; margin:0 auto; border:1px solid var(--edge); border-radius:3px 16px 3px 16px; color:var(--ink); background:var(--parchment); box-shadow:var(--shadow); overflow-wrap:anywhere; }
 .reading-entry { padding:clamp(24px,5vw,64px); scroll-margin-top:115px; }
 .reading-entry + .reading-entry { border-top:3px double var(--edge); }
@@ -345,7 +355,7 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 .reading-stage + .reading-stage { margin-top:36px; }
 .reading-prose h3 { margin:0 0 17px; font:24px/1.4 Georgia,serif; color:var(--ink); }
 .reading-context { margin-top:38px; padding-top:20px; border-top:1px solid var(--edge-soft); font:13px/1.85 Georgia,serif; }
-.reading-context > summary { color:var(--link); }
+.reading-context > h3 { margin:0 0 15px; color:var(--link); font:18px/1.5 var(--font-ui,var(--font-display)); }
 .reading-context a { color:var(--link); text-decoration:underline; text-underline-offset:3px; }
 .reading-context > .chapter-dates { margin-top:20px; }
 .reading-references { overflow-wrap:anywhere; }
@@ -378,10 +388,6 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 }
 @media (max-width:700px) { .role-cards { grid-template-columns:1fr; } }
 @media (max-width:560px) {
-  .role-interlude > summary { padding:16px; }
-  .role-interlude > summary strong { font-size:15px; }
-  .role-interlude > .role-cards { padding:13px; }
-  .role-interlude > .role-placement-note { margin:13px 13px 0; }
   .role-card .card-title { font-size:23px; }
   .role-message { padding:19px 17px; }
   .role-message > header { gap:5px 12px; }
