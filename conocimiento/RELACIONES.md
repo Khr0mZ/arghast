@@ -63,3 +63,11 @@ Las referencias a capítulos completos abarcan varios pasajes. Cada ficha permit
 | Chopito — voz del bosque | El pulpo llama súbdito al emisor y pide dejarle los cuerpos para alimentarse. Se conserva como declaración; no prueba vasallaje del dragón ni que Chopito proteja a Tentacol de la compulsión. | [41-049–41-051](capitulos/41.md) |
 
 Los [misterios](MISTERIOS.md) y los documentos de continuidad recogen los asuntos pendientes. Las tablas indican cuándo se documenta cada relación.
+
+## Vínculos al cierre de la batalla del Garfio
+
+Ione y Poncelot refuerzan su confianza: él le regala el fular y combate a su lado; Ilikar vuelve a Shiaru y ayuda a maniobrar, abordar y protegerla. Jack recibe la promesa de protección y el gorro de Ione ([42-004, 42-008–42-009, 42-029, 42-037 y 42-067](capitulos/42.md)).
+
+Nox comienza en el Invictus buscando una patente de corso, pero sabotea a la Marina, libera a Pinky y acaba impidiendo que Tórtola desvíe el buque. Reconoce a Ione como capitana y pide volver a su tripulación. Ella busca su cuerpo sin encontrarlo; no se convierte su vínculo en una relación sentimental confirmada ([42-005, 42-031, 42-041–42-042 y 42-053–42-064](capitulos/42.md)).
+
+Bonnie entrega la moneda a Ione y exige que retire el Zampaolas. Los otros reyes la rodean: Taylor le reprocha ocultar Xoltacan y le dispara ante Diente de Oro, Banana y Sonriente. El desenlace rompe la posición anterior de Bonnie sin mostrar una nueva autoridad de Shiaru ([42-065–42-072](capitulos/42.md)).

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [14-004](../capitulos/14.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### Una parte de la negociación con Liz
 

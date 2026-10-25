@@ -12,7 +12,7 @@ Base para revisar equivalencia: [40-003](../capitulos/40.md).
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### Un hallazgo de Cipo
 

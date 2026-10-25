@@ -1,0 +1,35 @@
+{
+  "capitulo": 42,
+  "fuente": "xoltacan_subtitulos/subtitulos/42 - 3IUV_YN_zxM.es-orig.vtt",
+  "sha256": "0c48ce273e2d202636ac50bf49bcde6d375e3ca17f89d8598042da56d325ff9d",
+  "total_segmentos": 3234,
+  "bloques": [
+    {
+      "bloque": 1,
+      "inicio": "00:00:00.399",
+      "fin": "00:47:03.309",
+      "segmentos": 1078,
+      "palabras": 6151,
+      "primer_segmento": "c000001",
+      "ultimo_segmento": "c002155"
+    },
+    {
+      "bloque": 2,
+      "inicio": "00:47:03.319",
+      "fin": "01:33:30.390",
+      "segmentos": 1078,
+      "palabras": 6260,
+      "primer_segmento": "c002157",
+      "ultimo_segmento": "c004311"
+    },
+    {
+      "bloque": 3,
+      "inicio": "01:33:30.400",
+      "fin": "02:24:42.800",
+      "segmentos": 1078,
+      "palabras": 6057,
+      "primer_segmento": "c004313",
+      "ultimo_segmento": "c006467"
+    }
+  ]
+}

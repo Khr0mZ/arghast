@@ -36,6 +36,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 21, 00:06:00.000: Venta y robo del casino ([21-002](capitulos/21.md)).
 - Cap. 23, 00:21:00.000: Negociación fallida y herramientas ([23-003](capitulos/23.md)).
 - Cap. 35, 00:20:00.000: Negocios de Nox y nombre Armin ([35-004](capitulos/35.md)).
+- Cap. 42, 00:08:05.039: Shiaru reúne a sus defensores en la plaza ([42-006](capitulos/42.md)).
 
 ## Atlan
 
@@ -409,6 +410,9 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 13, 00:29:30.000: Croquis de Jacki, botella y silencio de Kilzer ([13-008](capitulos/13.md)).
 - Cap. 24, 00:16:00.000: Bonnie encarga matar a los supuestos ladrones ([24-003](capitulos/24.md)).
 - Cap. 38, 01:46:00.000: Los antiguos tripulantes llegan después del combate ([38-013](capitulos/38.md)).
+- Cap. 42, 00:08:05.039: Shiaru reúne a sus defensores en la plaza ([42-006](capitulos/42.md)).
+- Cap. 42, 00:23:12.440: Los defensores embarcan y ocupan sus puestos ([42-013](capitulos/42.md)).
+- Cap. 42, 00:51:44.735: Ione ordena liberar la carga para aprovechar su peso ([42-027](capitulos/42.md)).
 
 ## Baton
 
@@ -750,6 +754,30 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 37, 02:09:00.000: Bonnie presta el ojo con una condición que Nox planea incumplir ([37-017](capitulos/37.md)).
 - Cap. 37, 02:14:00.000: Luna roba pólvora y Nox parte hacia el fuerte ([37-018](capitulos/37.md)).
 - Cap. 38, 02:17:00.000: Ione tranquiliza a Poncelot y se revela la propiedad del cofre ([38-018](capitulos/38.md)).
+- Cap. 42, 00:08:05.039: Shiaru reúne a sus defensores en la plaza ([42-006](capitulos/42.md)).
+- Cap. 42, 00:20:27.440: Bonnie reclama la defensa de la libertad de Shiaru ([42-011](capitulos/42.md)).
+- Cap. 42, 00:22:00.919: La moneda de Bonnie acompaña su transformación eléctrica ([42-012](capitulos/42.md)).
+- Cap. 42, 00:30:07.559: Siete barcos piratas salen bajo la tormenta ([42-015](capitulos/42.md)).
+- Cap. 42, 00:31:35.600: La Marina forma dos líneas de fuego frente a los piratas ([42-016](capitulos/42.md)).
+- Cap. 42, 00:37:59.520: El Relámpago del Mar avanza con Bonnie preparando rayos ([42-018](capitulos/42.md)).
+- Cap. 42, 00:40:52.240: Nox advierte del poder de Bonnie y Tórtola muestra una luz verde ([42-020](capitulos/42.md)).
+- Cap. 42, 00:56:31.240: Bonnie descarga rayos sobre la flota ([42-030](capitulos/42.md)).
+- Cap. 42, 01:13:56.560: Los rayos alimentan el barco de Bonnie ([42-039](capitulos/42.md)).
+- Cap. 42, 01:21:29.120: La presión de Marina obliga a varios piratas a virar ([42-043](capitulos/42.md)).
+- Cap. 42, 01:27:39.000: El Relámpago del Mar atraviesa y parte barcos de la Marina ([42-046](capitulos/42.md)).
+- Cap. 42, 01:32:27.000: El ataque de Bonnie anima a unos piratas mientras otros se marchan ([42-048](capitulos/42.md)).
+- Cap. 42, 01:40:50.159: El Relámpago del Mar prepara otra embestida ([42-052](capitulos/42.md)).
+- Cap. 42, 01:47:26.080: La Marina concentra varios flancos contra Bonnie ([42-056](capitulos/42.md)).
+- Cap. 42, 01:55:33.920: Bonnie vuelve a abrirse paso entre la flota ([42-059](capitulos/42.md)).
+- Cap. 42, 02:00:20.239: El Invictus explota contra la flota y los buques restantes se retiran ([42-062](capitulos/42.md)).
+- Cap. 42, 02:07:00.000: La búsqueda entre los restos no encuentra a Nox ([42-064](capitulos/42.md)).
+- Cap. 42, 02:09:35.040: Cuatro reyes piratas destruyen una nueva flota de la Marina ([42-065](capitulos/42.md)).
+- Cap. 42, 02:12:59.000: Bonnie entrega la moneda a Ione y les ordena marcharse ([42-066](capitulos/42.md)).
+- Cap. 42, 02:17:14.319: Los otros reyes rodean al Relámpago del Mar sin su poder mágico ([42-068](capitulos/42.md)).
+- Cap. 42, 02:18:23.399: Bonnie saluda a Diente de Oro, Banana, Sonriente y Taylor ([42-069](capitulos/42.md)).
+- Cap. 42, 02:22:01.359: Taylor dice haber capturado al joven Jackie rumbo a Puerto de Espadas ([42-070](capitulos/42.md)).
+- Cap. 42, 02:22:59.960: Taylor acusa a Bonnie de romper un pacto y ocultar Xoltacan ([42-071](capitulos/42.md)).
+- Cap. 42, 02:23:47.600: Taylor dispara a la frente de Bonnie y el director despide a tres personajes ([42-072](capitulos/42.md)).
 
 ## Brújula de deseos de Nox
 
@@ -815,6 +843,12 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 
 - Cap. 11, 02:41:20.000: Nox toma una moneda de los cinco reyes piratas ([11-024](capitulos/11.md)).
 - Cap. 26, 00:20:00.000: Cinco convocados y tesoro disputado ([26-006](capitulos/26.md)).
+- Cap. 42, 00:22:00.919: La moneda de Bonnie acompaña su transformación eléctrica ([42-012](capitulos/42.md)).
+- Cap. 42, 02:09:35.040: Cuatro reyes piratas destruyen una nueva flota de la Marina ([42-065](capitulos/42.md)).
+- Cap. 42, 02:17:14.319: Los otros reyes rodean al Relámpago del Mar sin su poder mágico ([42-068](capitulos/42.md)).
+- Cap. 42, 02:18:23.399: Bonnie saluda a Diente de Oro, Banana, Sonriente y Taylor ([42-069](capitulos/42.md)).
+- Cap. 42, 02:22:59.960: Taylor acusa a Bonnie de romper un pacto y ocultar Xoltacan ([42-071](capitulos/42.md)).
+- Cap. 42, 02:23:47.600: Taylor dispara a la frente de Bonnie y el director despide a tres personajes ([42-072](capitulos/42.md)).
 
 ## Cipo
 
@@ -862,6 +896,11 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 41, 00:21:23.000: Naór ofrece respetos de Atlan y encarga a Leo vigilar la tortuga ([41-009](capitulos/41.md)).
 - Cap. 41, 00:38:03.000: Cipo recupera sus llamas y Naór deja a Leo vigilado ([41-014](capitulos/41.md)).
 - Cap. 41, 00:57:46.000: Vigilancia mágica del festival y presencia de Cipo ([41-024](capitulos/41.md)).
+- Cap. 42, 00:10:43.200: La tripulación sitúa al supuesto dragón de Ilikar en un barril de arena ([42-007](capitulos/42.md)).
+- Cap. 42, 01:08:34.880: Poncelot dispara a Cipo y prende una nave enemiga ([42-036](capitulos/42.md)).
+- Cap. 42, 01:24:34.960: Ilikar se impulsa hacia el barco en llamas y llama a Cipo ([42-045](capitulos/42.md)).
+- Cap. 42, 01:35:06.560: Ilikar y Cipo derriban el mástil de un buque ([42-050](capitulos/42.md)).
+- Cap. 42, 01:49:27.280: Nox cambia los emblemas del Invictus y Pinky prende la pólvora ([42-057](capitulos/42.md)).
 
 ## Citlali
 
@@ -1280,6 +1319,10 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 14, 01:39:00.000: Diario: hija enferma, entidad y tres objetos ([14-015](capitulos/14.md)).
 - Cap. 14, 01:46:15.000: La hija espectral guarda el relicario y niega que pueda salir ([14-016](capitulos/14.md)).
 
+## Diente de Oro
+
+- Cap. 42, 02:18:23.399: Bonnie saluda a Diente de Oro, Banana, Sonriente y Taylor ([42-069](capitulos/42.md)).
+
 ## Din
 
 - Cap. 24, 00:09:00.000: Din busca a su hermano Sam y es estafado ([24-002](capitulos/24.md)).
@@ -1370,6 +1413,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 41, 02:16:37.800: Naór evacua al grupo y Winscore ve un dragón verde ([41-051](capitulos/41.md)).
 - Cap. 41, 02:24:09.319: Tortas reconoce el olor del dragón verde en Blink ([41-054](capitulos/41.md)).
 - Cap. 41, 02:26:36.080: Leo llega al encuentro y la guarida sigue sin localizarse ([41-055](capitulos/41.md)).
+- Cap. 42, 00:04:11.920: Ilikar vuelve de Iktan y busca aliados contra el dragón ([42-004](capitulos/42.md)).
 
 ## El Bocado del Jaguar
 
@@ -1382,6 +1426,15 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 09, 00:44:00.000: Mamá descubre la mentira de Axi y guía la expedición ([09-014](capitulos/09.md)).
 - Cap. 20, 00:48:00.000: Desvío hacia el Garfio y alucinaciones ([20-007](capitulos/20.md)).
 - Cap. 23, 00:33:00.000: Jack regresa y Nox está encadenado ([23-004](capitulos/23.md)).
+- Cap. 42, 00:35:48.040: Ione decide flanquear por los arrecifes ([42-017](capitulos/42.md)).
+- Cap. 42, 00:43:10.359: Nox propone una ruta por el arrecife y Tórtola manda barcos delante ([42-021](capitulos/42.md)).
+- Cap. 42, 00:45:54.319: La Marina comienza a avanzar y disparar ([42-023](capitulos/42.md)).
+- Cap. 42, 00:50:20.240: Ilikar prepara sus pociones y el ancla ([42-026](capitulos/42.md)).
+- Cap. 42, 01:01:35.680: Una ilusión de Nox hace encallar al primer escolta ([42-033](capitulos/42.md)).
+- Cap. 42, 01:04:21.559: El segundo escolta queda atrapado y ordenan recuperar su munición ([42-034](capitulos/42.md)).
+- Cap. 42, 01:12:00.159: El ancla permite al Zampaolas cerrar el giro ([42-037](capitulos/42.md)).
+- Cap. 42, 01:19:54.520: Pinky incendia la pólvora de los escoltas ([42-042](capitulos/42.md)).
+- Cap. 42, 01:28:43.760: Nox dirige el Invictus hacia la flota y prepara la pólvora ([42-047](capitulos/42.md)).
 
 ## El Huevo Emplumado
 
@@ -1536,10 +1589,13 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 37, 01:57:00.000: Entrega de una carreta y recompensas ([37-015](capitulos/37.md)).
 - Cap. 37, 02:14:00.000: Luna roba pólvora y Nox parte hacia el fuerte ([37-018](capitulos/37.md)).
 - Cap. 38, 00:00:00.000: Reencuentro de la escudera y rastreo del licántropo ([38-001](capitulos/38.md)).
+- Cap. 42, 00:08:05.039: Shiaru reúne a sus defensores en la plaza ([42-006](capitulos/42.md)).
+- Cap. 42, 00:20:27.440: Bonnie reclama la defensa de la libertad de Shiaru ([42-011](capitulos/42.md)).
 
 ## Elger Banana
 
 - Cap. 06, 01:15:20.000: Ione identifica a Elger Banana ([06-018](capitulos/06.md)).
+- Cap. 42, 02:18:23.399: Bonnie saluda a Diente de Oro, Banana, Sonriente y Taylor ([42-069](capitulos/42.md)).
 
 ## Erandy
 
@@ -1582,6 +1638,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 38, 02:04:00.000: Aportación de oro y reparto del cofre ([38-016](capitulos/38.md)).
 - Cap. 38, 02:17:00.000: Ione tranquiliza a Poncelot y se revela la propiedad del cofre ([38-018](capitulos/38.md)).
 - Cap. 40, 00:00:24.960: Ilikar entra en la selva buscando un regalo ([40-001](capitulos/40.md)).
+- Cap. 42, 00:08:05.039: Shiaru reúne a sus defensores en la plaza ([42-006](capitulos/42.md)).
 
 ## Erendriel
 
@@ -1787,6 +1844,11 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 35, 01:33:00.000: Explosión de pólvora y torre infiltrada ([35-011](capitulos/35.md)).
 - Cap. 35, 01:44:00.000: Nox libera Molly y Pinky ([35-012](capitulos/35.md)).
 - Cap. 37, 02:14:00.000: Luna roba pólvora y Nox parte hacia el fuerte ([37-018](capitulos/37.md)).
+- Cap. 42, 00:31:35.600: La Marina forma dos líneas de fuego frente a los piratas ([42-016](capitulos/42.md)).
+
+## Fular de alas de mosca de Ione
+
+- Cap. 42, 00:17:08.880: Poncelot regala a Ione un fular de alas de mosca ([42-009](capitulos/42.md)).
 
 ## Gemas del collar antiguo
 
@@ -1812,6 +1874,11 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 24, 02:40:00.000: Camarotes llenos y el médico prepara máquinas ([24-021](capitulos/24.md)).
 - Cap. 26, 00:00:00.000: Compra de armadura y suplantación de Ione por Coyote ([26-001](capitulos/26.md)).
 - Cap. 26, 00:06:00.000: Ione sale de la consulta y niega haber recibido el informe ([26-003](capitulos/26.md)).
+- Cap. 42, 00:08:05.039: Shiaru reúne a sus defensores en la plaza ([42-006](capitulos/42.md)).
+
+## Gorro de capitana de Ione
+
+- Cap. 42, 00:15:43.480: Ione promete proteger a Jack y le confía su gorro ([42-008](capitulos/42.md)).
 
 ## Granja de Patata
 
@@ -1992,6 +2059,24 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 40, 02:42:05.120: Una competición de fuerza termina con la cabra de la cena ([40-040](capitulos/40.md)).
 - Cap. 40, 02:44:33.840: Leona e Ilikar lanzan a Tortas al lago ([40-041](capitulos/40.md)).
 - Cap. 40, 02:48:50.319: Triel ocupa la piedra sagrada y Eldrat la aparta ([40-042](capitulos/40.md)).
+- Cap. 42, 00:01:58.439: Las frutas alteran temporalmente a los cuatro viajeros ([42-002](capitulos/42.md)).
+- Cap. 42, 00:02:29.160: Ione prepara al Zampaolas para el enfrentamiento directo ([42-003](capitulos/42.md)).
+- Cap. 42, 00:04:11.920: Ilikar vuelve de Iktan y busca aliados contra el dragón ([42-004](capitulos/42.md)).
+- Cap. 42, 00:08:05.039: Shiaru reúne a sus defensores en la plaza ([42-006](capitulos/42.md)).
+- Cap. 42, 00:10:43.200: La tripulación sitúa al supuesto dragón de Ilikar en un barril de arena ([42-007](capitulos/42.md)).
+- Cap. 42, 00:20:27.440: Bonnie reclama la defensa de la libertad de Shiaru ([42-011](capitulos/42.md)).
+- Cap. 42, 00:23:12.440: Los defensores embarcan y ocupan sus puestos ([42-013](capitulos/42.md)).
+- Cap. 42, 00:50:20.240: Ilikar prepara sus pociones y el ancla ([42-026](capitulos/42.md)).
+- Cap. 42, 00:53:35.200: Ilikar inutiliza el mástil de un barco enemigo ([42-028](capitulos/42.md)).
+- Cap. 42, 01:12:00.159: El ancla permite al Zampaolas cerrar el giro ([42-037](capitulos/42.md)).
+- Cap. 42, 01:13:11.639: Ilikar bebe una poción para hablar con animales ([42-038](capitulos/42.md)).
+- Cap. 42, 01:15:18.000: Nox contempla a Ione y decide iniciar la revuelta ([42-040](capitulos/42.md)).
+- Cap. 42, 01:24:34.960: Ilikar se impulsa hacia el barco en llamas y llama a Cipo ([42-045](capitulos/42.md)).
+- Cap. 42, 01:33:30.400: Sir Poncelot asume las órdenes mientras Ione está indispuesta ([42-049](capitulos/42.md)).
+- Cap. 42, 01:35:06.560: Ilikar y Cipo derriban el mástil de un buque ([42-050](capitulos/42.md)).
+- Cap. 42, 01:37:37.480: Sir Poncelot y Merlucilla IV despejan cubiertas y regresan ([42-051](capitulos/42.md)).
+- Cap. 42, 02:02:20.520: Ione se lanza a buscar a Nox y sus compañeros la siguen ([42-063](capitulos/42.md)).
+- Cap. 42, 02:14:52.159: Ione retira el Zampaolas de la batalla sin renunciar a buscar a Nox ([42-067](capitulos/42.md)).
 
 ## Infiltrada serpiente del festival de Iktan
 
@@ -2007,6 +2092,29 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 41, 00:51:00.720: La prisionera sufre pese a la curación ([41-021](capitulos/41.md)).
 - Cap. 41, 00:52:24.000: Tenta se presenta y sumerge a la cautiva ([41-022](capitulos/41.md)).
 - Cap. 41, 00:54:38.599: Advertencia, revelación de la emboscada y muerte entre serpientes ([41-023](capitulos/41.md)).
+
+## Invictus
+
+- Cap. 42, 00:38:36.800: Nox navega con Tórtola a bordo del Invictus ([42-019](capitulos/42.md)).
+- Cap. 42, 00:40:52.240: Nox advierte del poder de Bonnie y Tórtola muestra una luz verde ([42-020](capitulos/42.md)).
+- Cap. 42, 00:43:10.359: Nox propone una ruta por el arrecife y Tórtola manda barcos delante ([42-021](capitulos/42.md)).
+- Cap. 42, 00:44:21.040: Nox encuentra a una figura encadenada en los calabozos del Invictus ([42-022](capitulos/42.md)).
+- Cap. 42, 00:57:29.760: Nox libera a Pinky de la celda del Invictus ([42-031](capitulos/42.md)).
+- Cap. 42, 01:00:27.720: Una fruta da a Pinky apariencia masculina ([42-032](capitulos/42.md)).
+- Cap. 42, 01:01:35.680: Una ilusión de Nox hace encallar al primer escolta ([42-033](capitulos/42.md)).
+- Cap. 42, 01:04:21.559: El segundo escolta queda atrapado y ordenan recuperar su munición ([42-034](capitulos/42.md)).
+- Cap. 42, 01:15:18.000: Nox contempla a Ione y decide iniciar la revuelta ([42-040](capitulos/42.md)).
+- Cap. 42, 01:17:29.040: La carta de sueño permite capturar al almirante ([42-041](capitulos/42.md)).
+- Cap. 42, 01:19:54.520: Pinky incendia la pólvora de los escoltas ([42-042](capitulos/42.md)).
+- Cap. 42, 01:28:43.760: Nox dirige el Invictus hacia la flota y prepara la pólvora ([42-047](capitulos/42.md)).
+- Cap. 42, 01:41:37.239: Tórtola rompe sus ataduras y se bate con Nox ([42-053](capitulos/42.md)).
+- Cap. 42, 01:45:25.000: Nox arroja a Tórtola y gobierna el Invictus herido ([42-055](capitulos/42.md)).
+- Cap. 42, 01:49:27.280: Nox cambia los emblemas del Invictus y Pinky prende la pólvora ([42-057](capitulos/42.md)).
+- Cap. 42, 01:55:33.920: Bonnie vuelve a abrirse paso entre la flota ([42-059](capitulos/42.md)).
+- Cap. 42, 01:57:16.599: Tórtola sobrevive a la caída e intenta llegar al timón ([42-060](capitulos/42.md)).
+- Cap. 42, 01:58:47.960: Los tatuajes y el orbe preceden a la decisión de Nox de quedarse ([42-061](capitulos/42.md)).
+- Cap. 42, 02:00:20.239: El Invictus explota contra la flota y los buques restantes se retiran ([42-062](capitulos/42.md)).
+- Cap. 42, 02:09:35.040: Cuatro reyes piratas destruyen una nueva flota de la Marina ([42-065](capitulos/42.md)).
 
 ## Ione
 
@@ -2303,6 +2411,32 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 38, 02:12:00.000: Significado de la mordedura y decepción de Ilikar ([38-017](capitulos/38.md)).
 - Cap. 38, 02:17:00.000: Ione tranquiliza a Poncelot y se revela la propiedad del cofre ([38-018](capitulos/38.md)).
 - Cap. 40, 02:36:36.680: Origen de Ilikar y posibles aliados en Shiaru ([40-039](capitulos/40.md)).
+- Cap. 42, 00:01:20.600: Poncelot regresa con un paquete para Ione ([42-001](capitulos/42.md)).
+- Cap. 42, 00:01:58.439: Las frutas alteran temporalmente a los cuatro viajeros ([42-002](capitulos/42.md)).
+- Cap. 42, 00:02:29.160: Ione prepara al Zampaolas para el enfrentamiento directo ([42-003](capitulos/42.md)).
+- Cap. 42, 00:04:11.920: Ilikar vuelve de Iktan y busca aliados contra el dragón ([42-004](capitulos/42.md)).
+- Cap. 42, 00:10:43.200: La tripulación sitúa al supuesto dragón de Ilikar en un barril de arena ([42-007](capitulos/42.md)).
+- Cap. 42, 00:15:43.480: Ione promete proteger a Jack y le confía su gorro ([42-008](capitulos/42.md)).
+- Cap. 42, 00:17:08.880: Poncelot regala a Ione un fular de alas de mosca ([42-009](capitulos/42.md)).
+- Cap. 42, 00:18:54.000: Mugre dispara accidentalmente contra Ione ([42-010](capitulos/42.md)).
+- Cap. 42, 00:23:12.440: Los defensores embarcan y ocupan sus puestos ([42-013](capitulos/42.md)).
+- Cap. 42, 00:35:48.040: Ione decide flanquear por los arrecifes ([42-017](capitulos/42.md)).
+- Cap. 42, 00:50:20.240: Ilikar prepara sus pociones y el ancla ([42-026](capitulos/42.md)).
+- Cap. 42, 00:51:44.735: Ione ordena liberar la carga para aprovechar su peso ([42-027](capitulos/42.md)).
+- Cap. 42, 00:55:11.720: Jack dispara a la orden de Poncelot ([42-029](capitulos/42.md)).
+- Cap. 42, 01:08:34.880: Poncelot dispara a Cipo y prende una nave enemiga ([42-036](capitulos/42.md)).
+- Cap. 42, 01:12:00.159: El ancla permite al Zampaolas cerrar el giro ([42-037](capitulos/42.md)).
+- Cap. 42, 01:13:11.639: Ilikar bebe una poción para hablar con animales ([42-038](capitulos/42.md)).
+- Cap. 42, 01:15:18.000: Nox contempla a Ione y decide iniciar la revuelta ([42-040](capitulos/42.md)).
+- Cap. 42, 01:22:46.000: Ione y Poncelot enlazan barcos enemigos con una cadena ([42-044](capitulos/42.md)).
+- Cap. 42, 01:24:34.960: Ilikar se impulsa hacia el barco en llamas y llama a Cipo ([42-045](capitulos/42.md)).
+- Cap. 42, 01:33:30.400: Sir Poncelot asume las órdenes mientras Ione está indispuesta ([42-049](capitulos/42.md)).
+- Cap. 42, 01:51:35.480: Nox reconoce a Ione como capitana y pide volver ([42-058](capitulos/42.md)).
+- Cap. 42, 02:02:20.520: Ione se lanza a buscar a Nox y sus compañeros la siguen ([42-063](capitulos/42.md)).
+- Cap. 42, 02:07:00.000: La búsqueda entre los restos no encuentra a Nox ([42-064](capitulos/42.md)).
+- Cap. 42, 02:09:35.040: Cuatro reyes piratas destruyen una nueva flota de la Marina ([42-065](capitulos/42.md)).
+- Cap. 42, 02:12:59.000: Bonnie entrega la moneda a Ione y les ordena marcharse ([42-066](capitulos/42.md)).
+- Cap. 42, 02:14:52.159: Ione retira el Zampaolas de la batalla sin renunciar a buscar a Nox ([42-067](capitulos/42.md)).
 
 ## Ivet
 
@@ -2348,6 +2482,14 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 33, 00:28:00.000: Margaret y Morris se suman ([33-005](capitulos/33.md)).
 - Cap. 35, 00:40:00.000: Uniforme Jack y viaje al fuerte ([35-006](capitulos/35.md)).
 - Cap. 38, 01:46:00.000: Los antiguos tripulantes llegan después del combate ([38-013](capitulos/38.md)).
+- Cap. 42, 00:08:05.039: Shiaru reúne a sus defensores en la plaza ([42-006](capitulos/42.md)).
+- Cap. 42, 00:15:43.480: Ione promete proteger a Jack y le confía su gorro ([42-008](capitulos/42.md)).
+- Cap. 42, 00:23:12.440: Los defensores embarcan y ocupan sus puestos ([42-013](capitulos/42.md)).
+- Cap. 42, 00:55:11.720: Jack dispara a la orden de Poncelot ([42-029](capitulos/42.md)).
+
+## Jackie, cautivo referido por Taylor
+
+- Cap. 42, 02:22:01.359: Taylor dice haber capturado al joven Jackie rumbo a Puerto de Espadas ([42-070](capitulos/42.md)).
 
 ## Johnson
 
@@ -2944,6 +3086,43 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 35, 01:52:00.000: Tórtola retiene viajeros y compra mentira ([35-013](capitulos/35.md)).
 - Cap. 37, 01:00:00.000: Una trampa captura a un marine y Nox lo mata ([37-008](capitulos/37.md)).
 - Cap. 37, 01:34:00.000: Un tiranosaurio irrumpe y retrocede ante los susurros ([37-011](capitulos/37.md)).
+- Cap. 42, 00:02:29.160: Ione prepara al Zampaolas para el enfrentamiento directo ([42-003](capitulos/42.md)).
+- Cap. 42, 00:05:36.440: Nox busca una patente de corso con la Marina ([42-005](capitulos/42.md)).
+- Cap. 42, 00:15:43.480: Ione promete proteger a Jack y le confía su gorro ([42-008](capitulos/42.md)).
+- Cap. 42, 00:20:27.440: Bonnie reclama la defensa de la libertad de Shiaru ([42-011](capitulos/42.md)).
+- Cap. 42, 00:31:35.600: La Marina forma dos líneas de fuego frente a los piratas ([42-016](capitulos/42.md)).
+- Cap. 42, 00:35:48.040: Ione decide flanquear por los arrecifes ([42-017](capitulos/42.md)).
+- Cap. 42, 00:38:36.800: Nox navega con Tórtola a bordo del Invictus ([42-019](capitulos/42.md)).
+- Cap. 42, 00:40:52.240: Nox advierte del poder de Bonnie y Tórtola muestra una luz verde ([42-020](capitulos/42.md)).
+- Cap. 42, 00:43:10.359: Nox propone una ruta por el arrecife y Tórtola manda barcos delante ([42-021](capitulos/42.md)).
+- Cap. 42, 00:44:21.040: Nox encuentra a una figura encadenada en los calabozos del Invictus ([42-022](capitulos/42.md)).
+- Cap. 42, 00:45:54.319: La Marina comienza a avanzar y disparar ([42-023](capitulos/42.md)).
+- Cap. 42, 00:47:03.319: La salva coordinada de la Marina alcanza al Zampaolas ([42-024](capitulos/42.md)).
+- Cap. 42, 00:53:35.200: Ilikar inutiliza el mástil de un barco enemigo ([42-028](capitulos/42.md)).
+- Cap. 42, 00:55:11.720: Jack dispara a la orden de Poncelot ([42-029](capitulos/42.md)).
+- Cap. 42, 00:56:31.240: Bonnie descarga rayos sobre la flota ([42-030](capitulos/42.md)).
+- Cap. 42, 00:57:29.760: Nox libera a Pinky de la celda del Invictus ([42-031](capitulos/42.md)).
+- Cap. 42, 01:00:27.720: Una fruta da a Pinky apariencia masculina ([42-032](capitulos/42.md)).
+- Cap. 42, 01:01:35.680: Una ilusión de Nox hace encallar al primer escolta ([42-033](capitulos/42.md)).
+- Cap. 42, 01:04:21.559: El segundo escolta queda atrapado y ordenan recuperar su munición ([42-034](capitulos/42.md)).
+- Cap. 42, 01:06:18.720: Los refuerzos de Marina prolongan el fuego sobre los piratas ([42-035](capitulos/42.md)).
+- Cap. 42, 01:08:34.880: Poncelot dispara a Cipo y prende una nave enemiga ([42-036](capitulos/42.md)).
+- Cap. 42, 01:13:56.560: Los rayos alimentan el barco de Bonnie ([42-039](capitulos/42.md)).
+- Cap. 42, 01:15:18.000: Nox contempla a Ione y decide iniciar la revuelta ([42-040](capitulos/42.md)).
+- Cap. 42, 01:19:54.520: Pinky incendia la pólvora de los escoltas ([42-042](capitulos/42.md)).
+- Cap. 42, 01:21:29.120: La presión de Marina obliga a varios piratas a virar ([42-043](capitulos/42.md)).
+- Cap. 42, 01:22:46.000: Ione y Poncelot enlazan barcos enemigos con una cadena ([42-044](capitulos/42.md)).
+- Cap. 42, 01:24:34.960: Ilikar se impulsa hacia el barco en llamas y llama a Cipo ([42-045](capitulos/42.md)).
+- Cap. 42, 01:27:39.000: El Relámpago del Mar atraviesa y parte barcos de la Marina ([42-046](capitulos/42.md)).
+- Cap. 42, 01:28:43.760: Nox dirige el Invictus hacia la flota y prepara la pólvora ([42-047](capitulos/42.md)).
+- Cap. 42, 01:32:27.000: El ataque de Bonnie anima a unos piratas mientras otros se marchan ([42-048](capitulos/42.md)).
+- Cap. 42, 01:35:06.560: Ilikar y Cipo derriban el mástil de un buque ([42-050](capitulos/42.md)).
+- Cap. 42, 01:37:37.480: Sir Poncelot y Merlucilla IV despejan cubiertas y regresan ([42-051](capitulos/42.md)).
+- Cap. 42, 01:40:50.159: El Relámpago del Mar prepara otra embestida ([42-052](capitulos/42.md)).
+- Cap. 42, 01:47:26.080: La Marina concentra varios flancos contra Bonnie ([42-056](capitulos/42.md)).
+- Cap. 42, 01:55:33.920: Bonnie vuelve a abrirse paso entre la flota ([42-059](capitulos/42.md)).
+- Cap. 42, 02:00:20.239: El Invictus explota contra la flota y los buques restantes se retiran ([42-062](capitulos/42.md)).
+- Cap. 42, 02:09:35.040: Cuatro reyes piratas destruyen una nueva flota de la Marina ([42-065](capitulos/42.md)).
 
 ## Marina, la sirena
 
@@ -3073,6 +3252,16 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 36, 01:46:00.000: Ione ataca a sus aliados y los intentos de calmarla fallan ([36-013](capitulos/36.md)).
 - Cap. 36, 02:12:00.000: Curación del tigre y regreso a la forma humana ([36-016](capitulos/36.md)).
 - Cap. 36, 02:26:00.000: Reparto de recompensas, fiesta y alojamiento ([36-018](capitulos/36.md)).
+- Cap. 42, 00:23:12.440: Los defensores embarcan y ocupan sus puestos ([42-013](capitulos/42.md)).
+- Cap. 42, 00:28:52.440: Poncelot prepara una armadura improvisada para el tigre ([42-014](capitulos/42.md)).
+- Cap. 42, 00:47:03.319: La salva coordinada de la Marina alcanza al Zampaolas ([42-024](capitulos/42.md)).
+- Cap. 42, 00:49:23.400: Sir Poncelot tranquiliza al tigre ([42-025](capitulos/42.md)).
+- Cap. 42, 00:51:44.735: Ione ordena liberar la carga para aprovechar su peso ([42-027](capitulos/42.md)).
+- Cap. 42, 01:12:00.159: El ancla permite al Zampaolas cerrar el giro ([42-037](capitulos/42.md)).
+- Cap. 42, 01:13:11.639: Ilikar bebe una poción para hablar con animales ([42-038](capitulos/42.md)).
+- Cap. 42, 01:33:30.400: Sir Poncelot asume las órdenes mientras Ione está indispuesta ([42-049](capitulos/42.md)).
+- Cap. 42, 01:37:37.480: Sir Poncelot y Merlucilla IV despejan cubiertas y regresan ([42-051](capitulos/42.md)).
+- Cap. 42, 02:02:20.520: Ione se lanza a buscar a Nox y sus compañeros la siguen ([42-063](capitulos/42.md)).
 
 ## Merlucilla V
 
@@ -3140,6 +3329,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 37, 01:57:00.000: Entrega de una carreta y recompensas ([37-015](capitulos/37.md)).
 - Cap. 37, 02:06:00.000: Nox recibe una moneda de oro tras descontar deudas ([37-016](capitulos/37.md)).
 - Cap. 37, 02:09:00.000: Bonnie presta el ojo con una condición que Nox planea incumplir ([37-017](capitulos/37.md)).
+- Cap. 42, 00:08:05.039: Shiaru reúne a sus defensores en la plaza ([42-006](capitulos/42.md)).
 
 ## Moneda negra del mercante
 
@@ -3150,6 +3340,9 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 
 - Cap. 32, 01:26:00.000: Bonnie activa moneda y combate como rayo ([32-014](capitulos/32.md)).
 - Cap. 32, 02:12:00.000: Bonnie devuelve moneda a Pix y sale ([32-020](capitulos/32.md)).
+- Cap. 42, 00:22:00.919: La moneda de Bonnie acompaña su transformación eléctrica ([42-012](capitulos/42.md)).
+- Cap. 42, 00:37:59.520: El Relámpago del Mar avanza con Bonnie preparando rayos ([42-018](capitulos/42.md)).
+- Cap. 42, 02:12:59.000: Bonnie entrega la moneda a Ione y les ordena marcharse ([42-066](capitulos/42.md)).
 
 ## Monedas antiguas de Ayoto
 
@@ -3178,6 +3371,9 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 24, 00:16:00.000: Bonnie encarga matar a los supuestos ladrones ([24-003](capitulos/24.md)).
 - Cap. 28, 02:00:00.000: Ione castiga a Jack y Mugre detiene a Ojo Ausente ([28-022](capitulos/28.md)).
 - Cap. 38, 01:46:00.000: Los antiguos tripulantes llegan después del combate ([38-013](capitulos/38.md)).
+- Cap. 42, 00:08:05.039: Shiaru reúne a sus defensores en la plaza ([42-006](capitulos/42.md)).
+- Cap. 42, 00:18:54.000: Mugre dispara accidentalmente contra Ione ([42-010](capitulos/42.md)).
+- Cap. 42, 00:23:12.440: Los defensores embarcan y ocupan sus puestos ([42-013](capitulos/42.md)).
 
 ## Mungo
 
@@ -3665,12 +3861,42 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 38, 00:32:00.000: Ilikar se incorpora a la tripulación ([38-005](capitulos/38.md)).
 - Cap. 39, 00:00:00.000: Regreso de Ayoto y crianza de Etley ([39-001](capitulos/39.md)).
 - Cap. 39, 00:04:00.000: Cueva refugio y recuerdo incierto de Nox ([39-002](capitulos/39.md)).
+- Cap. 42, 00:01:58.439: Las frutas alteran temporalmente a los cuatro viajeros ([42-002](capitulos/42.md)).
+- Cap. 42, 00:05:36.440: Nox busca una patente de corso con la Marina ([42-005](capitulos/42.md)).
+- Cap. 42, 00:38:36.800: Nox navega con Tórtola a bordo del Invictus ([42-019](capitulos/42.md)).
+- Cap. 42, 00:40:52.240: Nox advierte del poder de Bonnie y Tórtola muestra una luz verde ([42-020](capitulos/42.md)).
+- Cap. 42, 00:43:10.359: Nox propone una ruta por el arrecife y Tórtola manda barcos delante ([42-021](capitulos/42.md)).
+- Cap. 42, 00:44:21.040: Nox encuentra a una figura encadenada en los calabozos del Invictus ([42-022](capitulos/42.md)).
+- Cap. 42, 00:57:29.760: Nox libera a Pinky de la celda del Invictus ([42-031](capitulos/42.md)).
+- Cap. 42, 01:00:27.720: Una fruta da a Pinky apariencia masculina ([42-032](capitulos/42.md)).
+- Cap. 42, 01:01:35.680: Una ilusión de Nox hace encallar al primer escolta ([42-033](capitulos/42.md)).
+- Cap. 42, 01:04:21.559: El segundo escolta queda atrapado y ordenan recuperar su munición ([42-034](capitulos/42.md)).
+- Cap. 42, 01:15:18.000: Nox contempla a Ione y decide iniciar la revuelta ([42-040](capitulos/42.md)).
+- Cap. 42, 01:17:29.040: La carta de sueño permite capturar al almirante ([42-041](capitulos/42.md)).
+- Cap. 42, 01:19:54.520: Pinky incendia la pólvora de los escoltas ([42-042](capitulos/42.md)).
+- Cap. 42, 01:28:43.760: Nox dirige el Invictus hacia la flota y prepara la pólvora ([42-047](capitulos/42.md)).
+- Cap. 42, 01:41:37.239: Tórtola rompe sus ataduras y se bate con Nox ([42-053](capitulos/42.md)).
+- Cap. 42, 01:44:07.679: Nox acepta una estocada para paralizar a Tórtola ([42-054](capitulos/42.md)).
+- Cap. 42, 01:45:25.000: Nox arroja a Tórtola y gobierna el Invictus herido ([42-055](capitulos/42.md)).
+- Cap. 42, 01:49:27.280: Nox cambia los emblemas del Invictus y Pinky prende la pólvora ([42-057](capitulos/42.md)).
+- Cap. 42, 01:51:35.480: Nox reconoce a Ione como capitana y pide volver ([42-058](capitulos/42.md)).
+- Cap. 42, 01:55:33.920: Bonnie vuelve a abrirse paso entre la flota ([42-059](capitulos/42.md)).
+- Cap. 42, 01:57:16.599: Tórtola sobrevive a la caída e intenta llegar al timón ([42-060](capitulos/42.md)).
+- Cap. 42, 01:58:47.960: Los tatuajes y el orbe preceden a la decisión de Nox de quedarse ([42-061](capitulos/42.md)).
+- Cap. 42, 02:00:20.239: El Invictus explota contra la flota y los buques restantes se retiran ([42-062](capitulos/42.md)).
+- Cap. 42, 02:02:20.520: Ione se lanza a buscar a Nox y sus compañeros la siguen ([42-063](capitulos/42.md)).
+- Cap. 42, 02:07:00.000: La búsqueda entre los restos no encuentra a Nox ([42-064](capitulos/42.md)).
+- Cap. 42, 02:12:59.000: Bonnie entrega la moneda a Ione y les ordena marcharse ([42-066](capitulos/42.md)).
+- Cap. 42, 02:14:52.159: Ione retira el Zampaolas de la batalla sin renunciar a buscar a Nox ([42-067](capitulos/42.md)).
+- Cap. 42, 02:23:47.600: Taylor dispara a la frente de Bonnie y el director despide a tres personajes ([42-072](capitulos/42.md)).
 
 ## Ojo Ausente
 
 - Cap. 13, 00:29:30.000: Croquis de Jacki, botella y silencio de Kilzer ([13-008](capitulos/13.md)).
 - Cap. 24, 00:16:00.000: Bonnie encarga matar a los supuestos ladrones ([24-003](capitulos/24.md)).
 - Cap. 28, 02:00:00.000: Ione castiga a Jack y Mugre detiene a Ojo Ausente ([28-022](capitulos/28.md)).
+- Cap. 42, 00:08:05.039: Shiaru reúne a sus defensores en la plaza ([42-006](capitulos/42.md)).
+- Cap. 42, 00:23:12.440: Los defensores embarcan y ocupan sus puestos ([42-013](capitulos/42.md)).
 
 ## Ojo-orbe recuperado por Nox
 
@@ -3681,6 +3907,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 37, 00:32:00.000: La esfera reacciona ante Citlali ([37-005](capitulos/37.md)).
 - Cap. 37, 02:09:00.000: Bonnie presta el ojo con una condición que Nox planea incumplir ([37-017](capitulos/37.md)).
 - Cap. 37, 02:14:00.000: Luna roba pólvora y Nox parte hacia el fuerte ([37-018](capitulos/37.md)).
+- Cap. 42, 01:58:47.960: Los tatuajes y el orbe preceden a la decisión de Nox de quedarse ([42-061](capitulos/42.md)).
 
 ## Parroter
 
@@ -3968,6 +4195,16 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 35, 01:44:00.000: Nox libera Molly y Pinky ([35-012](capitulos/35.md)).
 - Cap. 35, 02:10:00.000: Resisten llamada y Molly toma bote ([35-015](capitulos/35.md)).
 - Cap. 35, 02:17:00.000: Pinky recapturada y amenaza a Tórtola ([35-016](capitulos/35.md)).
+- Cap. 42, 00:44:21.040: Nox encuentra a una figura encadenada en los calabozos del Invictus ([42-022](capitulos/42.md)).
+- Cap. 42, 00:57:29.760: Nox libera a Pinky de la celda del Invictus ([42-031](capitulos/42.md)).
+- Cap. 42, 01:00:27.720: Una fruta da a Pinky apariencia masculina ([42-032](capitulos/42.md)).
+- Cap. 42, 01:15:18.000: Nox contempla a Ione y decide iniciar la revuelta ([42-040](capitulos/42.md)).
+- Cap. 42, 01:19:54.520: Pinky incendia la pólvora de los escoltas ([42-042](capitulos/42.md)).
+- Cap. 42, 01:28:43.760: Nox dirige el Invictus hacia la flota y prepara la pólvora ([42-047](capitulos/42.md)).
+- Cap. 42, 01:45:25.000: Nox arroja a Tórtola y gobierna el Invictus herido ([42-055](capitulos/42.md)).
+- Cap. 42, 01:49:27.280: Nox cambia los emblemas del Invictus y Pinky prende la pólvora ([42-057](capitulos/42.md)).
+- Cap. 42, 02:00:20.239: El Invictus explota contra la flota y los buques restantes se retiran ([42-062](capitulos/42.md)).
+- Cap. 42, 02:23:47.600: Taylor dispara a la frente de Bonnie y el director despide a tres personajes ([42-072](capitulos/42.md)).
 
 ## Pirata llamado Jim
 
@@ -4034,6 +4271,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 23, 00:33:00.000: Jack regresa y Nox está encadenado ([23-004](capitulos/23.md)).
 - Cap. 31, 00:24:00.000: Naór, princesa de Atlan, y el objetivo de llegar a Iktan ([31-005](capitulos/31.md)).
 - Cap. 32, 00:14:00.000: Patata explica guerra y autoridades ([32-004](capitulos/32.md)).
+- Cap. 42, 02:22:01.359: Taylor dice haber capturado al joven Jackie rumbo a Puerto de Espadas ([42-070](capitulos/42.md)).
 
 ## Ras Racor
 
@@ -4051,6 +4289,20 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 14, 01:46:15.000: La hija espectral guarda el relicario y niega que pueda salir ([14-016](capitulos/14.md)).
 - Cap. 14, 02:30:10.000: Cofre abierto y aparición del capitán al reunir los objetos ([14-021](capitulos/14.md)).
 - Cap. 14, 02:52:40.000: La rotura del relicario dispersa al capitán y los tripulantes ([14-024](capitulos/14.md)).
+
+## Relámpago del Mar
+
+- Cap. 42, 00:30:07.559: Siete barcos piratas salen bajo la tormenta ([42-015](capitulos/42.md)).
+- Cap. 42, 00:37:59.520: El Relámpago del Mar avanza con Bonnie preparando rayos ([42-018](capitulos/42.md)).
+- Cap. 42, 00:40:52.240: Nox advierte del poder de Bonnie y Tórtola muestra una luz verde ([42-020](capitulos/42.md)).
+- Cap. 42, 00:56:31.240: Bonnie descarga rayos sobre la flota ([42-030](capitulos/42.md)).
+- Cap. 42, 01:13:56.560: Los rayos alimentan el barco de Bonnie ([42-039](capitulos/42.md)).
+- Cap. 42, 01:27:39.000: El Relámpago del Mar atraviesa y parte barcos de la Marina ([42-046](capitulos/42.md)).
+- Cap. 42, 01:28:43.760: Nox dirige el Invictus hacia la flota y prepara la pólvora ([42-047](capitulos/42.md)).
+- Cap. 42, 01:40:50.159: El Relámpago del Mar prepara otra embestida ([42-052](capitulos/42.md)).
+- Cap. 42, 01:47:26.080: La Marina concentra varios flancos contra Bonnie ([42-056](capitulos/42.md)).
+- Cap. 42, 01:55:33.920: Bonnie vuelve a abrirse paso entre la flota ([42-059](capitulos/42.md)).
+- Cap. 42, 02:17:14.319: Los otros reyes rodean al Relámpago del Mar sin su poder mágico ([42-068](capitulos/42.md)).
 
 ## Roca de los sacerdotes al norte de Iktan
 
@@ -4149,6 +4401,16 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 40, 00:44:11.240: La supuesta deshidratación revela la velocidad del anciano ([40-012](capitulos/40.md)).
 - Cap. 40, 02:36:36.680: Origen de Ilikar y posibles aliados en Shiaru ([40-039](capitulos/40.md)).
 - Cap. 41, 00:00:10.800: Blink sale de Shiaru y una fruta altera su voz ([41-001](capitulos/41.md)).
+- Cap. 42, 00:01:20.600: Poncelot regresa con un paquete para Ione ([42-001](capitulos/42.md)).
+- Cap. 42, 00:04:11.920: Ilikar vuelve de Iktan y busca aliados contra el dragón ([42-004](capitulos/42.md)).
+- Cap. 42, 00:05:36.440: Nox busca una patente de corso con la Marina ([42-005](capitulos/42.md)).
+- Cap. 42, 00:08:05.039: Shiaru reúne a sus defensores en la plaza ([42-006](capitulos/42.md)).
+- Cap. 42, 00:20:27.440: Bonnie reclama la defensa de la libertad de Shiaru ([42-011](capitulos/42.md)).
+- Cap. 42, 00:22:00.919: La moneda de Bonnie acompaña su transformación eléctrica ([42-012](capitulos/42.md)).
+- Cap. 42, 00:30:07.559: Siete barcos piratas salen bajo la tormenta ([42-015](capitulos/42.md)).
+- Cap. 42, 00:31:35.600: La Marina forma dos líneas de fuego frente a los piratas ([42-016](capitulos/42.md)).
+- Cap. 42, 02:12:59.000: Bonnie entrega la moneda a Ione y les ordena marcharse ([42-066](capitulos/42.md)).
+- Cap. 42, 02:14:52.159: Ione retira el Zampaolas de la batalla sin renunciar a buscar a Nox ([42-067](capitulos/42.md)).
 
 ## Sir Poncelot
 
@@ -4365,11 +4627,37 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 38, 02:12:00.000: Significado de la mordedura y decepción de Ilikar ([38-017](capitulos/38.md)).
 - Cap. 38, 02:17:00.000: Ione tranquiliza a Poncelot y se revela la propiedad del cofre ([38-018](capitulos/38.md)).
 - Cap. 40, 02:36:36.680: Origen de Ilikar y posibles aliados en Shiaru ([40-039](capitulos/40.md)).
+- Cap. 42, 00:01:20.600: Poncelot regresa con un paquete para Ione ([42-001](capitulos/42.md)).
+- Cap. 42, 00:01:58.439: Las frutas alteran temporalmente a los cuatro viajeros ([42-002](capitulos/42.md)).
+- Cap. 42, 00:02:29.160: Ione prepara al Zampaolas para el enfrentamiento directo ([42-003](capitulos/42.md)).
+- Cap. 42, 00:04:11.920: Ilikar vuelve de Iktan y busca aliados contra el dragón ([42-004](capitulos/42.md)).
+- Cap. 42, 00:10:43.200: La tripulación sitúa al supuesto dragón de Ilikar en un barril de arena ([42-007](capitulos/42.md)).
+- Cap. 42, 00:17:08.880: Poncelot regala a Ione un fular de alas de mosca ([42-009](capitulos/42.md)).
+- Cap. 42, 00:18:54.000: Mugre dispara accidentalmente contra Ione ([42-010](capitulos/42.md)).
+- Cap. 42, 00:20:27.440: Bonnie reclama la defensa de la libertad de Shiaru ([42-011](capitulos/42.md)).
+- Cap. 42, 00:23:12.440: Los defensores embarcan y ocupan sus puestos ([42-013](capitulos/42.md)).
+- Cap. 42, 00:28:52.440: Poncelot prepara una armadura improvisada para el tigre ([42-014](capitulos/42.md)).
+- Cap. 42, 00:47:03.319: La salva coordinada de la Marina alcanza al Zampaolas ([42-024](capitulos/42.md)).
+- Cap. 42, 00:49:23.400: Sir Poncelot tranquiliza al tigre ([42-025](capitulos/42.md)).
+- Cap. 42, 00:51:44.735: Ione ordena liberar la carga para aprovechar su peso ([42-027](capitulos/42.md)).
+- Cap. 42, 00:55:11.720: Jack dispara a la orden de Poncelot ([42-029](capitulos/42.md)).
+- Cap. 42, 01:08:34.880: Poncelot dispara a Cipo y prende una nave enemiga ([42-036](capitulos/42.md)).
+- Cap. 42, 01:15:18.000: Nox contempla a Ione y decide iniciar la revuelta ([42-040](capitulos/42.md)).
+- Cap. 42, 01:22:46.000: Ione y Poncelot enlazan barcos enemigos con una cadena ([42-044](capitulos/42.md)).
+- Cap. 42, 01:24:34.960: Ilikar se impulsa hacia el barco en llamas y llama a Cipo ([42-045](capitulos/42.md)).
+- Cap. 42, 01:33:30.400: Sir Poncelot asume las órdenes mientras Ione está indispuesta ([42-049](capitulos/42.md)).
+- Cap. 42, 01:37:37.480: Sir Poncelot y Merlucilla IV despejan cubiertas y regresan ([42-051](capitulos/42.md)).
+- Cap. 42, 02:02:20.520: Ione se lanza a buscar a Nox y sus compañeros la siguen ([42-063](capitulos/42.md)).
+- Cap. 42, 02:14:52.159: Ione retira el Zampaolas de la batalla sin renunciar a buscar a Nox ([42-067](capitulos/42.md)).
 
 ## Smith
 
 - Cap. 35, 01:08:00.000: Smith admite viajeros y Nox interroga guardia ([35-008](capitulos/35.md)).
 - Cap. 35, 01:24:00.000: Tórtola rechaza alojamiento y tortillas vendidas ([35-010](capitulos/35.md)).
+
+## Sonriente
+
+- Cap. 42, 02:18:23.399: Bonnie saluda a Diente de Oro, Banana, Sonriente y Taylor ([42-069](capitulos/42.md)).
 
 ## Tacha
 
@@ -4393,6 +4681,14 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 26, 01:31:00.000: Nox activa las estatuas y siente picor en la espalda ([26-017](capitulos/26.md)).
 - Cap. 26, 01:46:00.000: Trampas desactivadas y una voz tras verter sangre ([26-019](capitulos/26.md)).
 - Cap. 26, 02:09:00.000: El anfitrión necesita lo que Nox lleva en la espalda ([26-022](capitulos/26.md)).
+- Cap. 42, 01:58:47.960: Los tatuajes y el orbe preceden a la decisión de Nox de quedarse ([42-061](capitulos/42.md)).
+
+## Taylor
+
+- Cap. 42, 02:18:23.399: Bonnie saluda a Diente de Oro, Banana, Sonriente y Taylor ([42-069](capitulos/42.md)).
+- Cap. 42, 02:22:01.359: Taylor dice haber capturado al joven Jackie rumbo a Puerto de Espadas ([42-070](capitulos/42.md)).
+- Cap. 42, 02:22:59.960: Taylor acusa a Bonnie de romper un pacto y ocultar Xoltacan ([42-071](capitulos/42.md)).
+- Cap. 42, 02:23:47.600: Taylor dispara a la frente de Bonnie y el director despide a tres personajes ([42-072](capitulos/42.md)).
 
 ## Templo de Lares
 
@@ -4626,6 +4922,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 41, 02:20:48.880: Winscore y Blink se presentan ante el anciano ([41-053](capitulos/41.md)).
 - Cap. 41, 02:24:09.319: Tortas reconoce el olor del dragón verde en Blink ([41-054](capitulos/41.md)).
 - Cap. 41, 02:26:36.080: Leo llega al encuentro y la guarida sigue sin localizarse ([41-055](capitulos/41.md)).
+- Cap. 42, 00:04:11.920: Ilikar vuelve de Iktan y busca aliados contra el dragón ([42-004](capitulos/42.md)).
 
 ## Tribu de la Hoja Caída
 
@@ -4754,6 +5051,16 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 03, 01:14:00.000: Trampa del hada e Ione atrapada ([03-015](capitulos/03.md)).
 - Cap. 03, 01:34:00.000: Engaño caballeresco y plan de infiltración ([03-020](capitulos/03.md)).
 - Cap. 06, 00:08:00.000: Huida estudiada y pertenencia de Chochi ([06-005](capitulos/06.md)).
+- Cap. 42, 00:04:11.920: Ilikar vuelve de Iktan y busca aliados contra el dragón ([42-004](capitulos/42.md)).
+- Cap. 42, 00:05:36.440: Nox busca una patente de corso con la Marina ([42-005](capitulos/42.md)).
+- Cap. 42, 00:08:05.039: Shiaru reúne a sus defensores en la plaza ([42-006](capitulos/42.md)).
+- Cap. 42, 00:23:12.440: Los defensores embarcan y ocupan sus puestos ([42-013](capitulos/42.md)).
+- Cap. 42, 00:30:07.559: Siete barcos piratas salen bajo la tormenta ([42-015](capitulos/42.md)).
+- Cap. 42, 00:47:03.319: La salva coordinada de la Marina alcanza al Zampaolas ([42-024](capitulos/42.md)).
+- Cap. 42, 00:51:44.735: Ione ordena liberar la carga para aprovechar su peso ([42-027](capitulos/42.md)).
+- Cap. 42, 01:06:18.720: Los refuerzos de Marina prolongan el fuego sobre los piratas ([42-035](capitulos/42.md)).
+- Cap. 42, 01:51:35.480: Nox reconoce a Ione como capitana y pide volver ([42-058](capitulos/42.md)).
+- Cap. 42, 02:14:52.159: Ione retira el Zampaolas de la batalla sin renunciar a buscar a Nox ([42-067](capitulos/42.md)).
 
 ## Tutucan
 
@@ -4776,6 +5083,20 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 35, 02:17:00.000: Pinky recapturada y amenaza a Tórtola ([35-016](capitulos/35.md)).
 - Cap. 36, 00:20:00.000: Molly informa de una posición estratégica ([36-004](capitulos/36.md)).
 - Cap. 37, 02:09:00.000: Bonnie presta el ojo con una condición que Nox planea incumplir ([37-017](capitulos/37.md)).
+- Cap. 42, 00:05:36.440: Nox busca una patente de corso con la Marina ([42-005](capitulos/42.md)).
+- Cap. 42, 00:38:36.800: Nox navega con Tórtola a bordo del Invictus ([42-019](capitulos/42.md)).
+- Cap. 42, 00:40:52.240: Nox advierte del poder de Bonnie y Tórtola muestra una luz verde ([42-020](capitulos/42.md)).
+- Cap. 42, 00:43:10.359: Nox propone una ruta por el arrecife y Tórtola manda barcos delante ([42-021](capitulos/42.md)).
+- Cap. 42, 00:57:29.760: Nox libera a Pinky de la celda del Invictus ([42-031](capitulos/42.md)).
+- Cap. 42, 01:01:35.680: Una ilusión de Nox hace encallar al primer escolta ([42-033](capitulos/42.md)).
+- Cap. 42, 01:04:21.559: El segundo escolta queda atrapado y ordenan recuperar su munición ([42-034](capitulos/42.md)).
+- Cap. 42, 01:17:29.040: La carta de sueño permite capturar al almirante ([42-041](capitulos/42.md)).
+- Cap. 42, 01:41:37.239: Tórtola rompe sus ataduras y se bate con Nox ([42-053](capitulos/42.md)).
+- Cap. 42, 01:44:07.679: Nox acepta una estocada para paralizar a Tórtola ([42-054](capitulos/42.md)).
+- Cap. 42, 01:45:25.000: Nox arroja a Tórtola y gobierna el Invictus herido ([42-055](capitulos/42.md)).
+- Cap. 42, 01:55:33.920: Bonnie vuelve a abrirse paso entre la flota ([42-059](capitulos/42.md)).
+- Cap. 42, 01:57:16.599: Tórtola sobrevive a la caída e intenta llegar al timón ([42-060](capitulos/42.md)).
+- Cap. 42, 01:58:47.960: Los tatuajes y el orbe preceden a la decisión de Nox de quedarse ([42-061](capitulos/42.md)).
 
 ## Valle Blanco
 
@@ -4898,6 +5219,9 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 36, 02:32:00.000: Una bestia corre y aúlla en la escena final ([36-019](capitulos/36.md)).
 - Cap. 40, 01:50:53.280: Pruebas de fuerza, respeto por los árboles y una isla lejana ([40-028](capitulos/40.md)).
 - Cap. 41, 00:14:04.950: Los visitantes reciben bebida y Blink presenta a Winscore ([41-007](capitulos/41.md)).
+- Cap. 42, 02:09:35.040: Cuatro reyes piratas destruyen una nueva flota de la Marina ([42-065](capitulos/42.md)).
+- Cap. 42, 02:22:01.359: Taylor dice haber capturado al joven Jackie rumbo a Puerto de Espadas ([42-070](capitulos/42.md)).
+- Cap. 42, 02:22:59.960: Taylor acusa a Bonnie de romper un pacto y ocultar Xoltacan ([42-071](capitulos/42.md)).
 
 ## Yuan-ti
 
@@ -4955,6 +5279,38 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 38, 00:54:00.000: Un pulpo gigante sujeta el barco ([38-007](capitulos/38.md)).
 - Cap. 38, 01:58:00.000: El Zampaolas queda desencajado ([38-015](capitulos/38.md)).
 - Cap. 38, 02:04:00.000: Aportación de oro y reparto del cofre ([38-016](capitulos/38.md)).
+- Cap. 42, 00:02:29.160: Ione prepara al Zampaolas para el enfrentamiento directo ([42-003](capitulos/42.md)).
+- Cap. 42, 00:10:43.200: La tripulación sitúa al supuesto dragón de Ilikar en un barril de arena ([42-007](capitulos/42.md)).
+- Cap. 42, 00:15:43.480: Ione promete proteger a Jack y le confía su gorro ([42-008](capitulos/42.md)).
+- Cap. 42, 00:23:12.440: Los defensores embarcan y ocupan sus puestos ([42-013](capitulos/42.md)).
+- Cap. 42, 00:30:07.559: Siete barcos piratas salen bajo la tormenta ([42-015](capitulos/42.md)).
+- Cap. 42, 00:35:48.040: Ione decide flanquear por los arrecifes ([42-017](capitulos/42.md)).
+- Cap. 42, 00:47:03.319: La salva coordinada de la Marina alcanza al Zampaolas ([42-024](capitulos/42.md)).
+- Cap. 42, 00:49:23.400: Sir Poncelot tranquiliza al tigre ([42-025](capitulos/42.md)).
+- Cap. 42, 00:50:20.240: Ilikar prepara sus pociones y el ancla ([42-026](capitulos/42.md)).
+- Cap. 42, 00:51:44.735: Ione ordena liberar la carga para aprovechar su peso ([42-027](capitulos/42.md)).
+- Cap. 42, 00:53:35.200: Ilikar inutiliza el mástil de un barco enemigo ([42-028](capitulos/42.md)).
+- Cap. 42, 00:55:11.720: Jack dispara a la orden de Poncelot ([42-029](capitulos/42.md)).
+- Cap. 42, 01:06:18.720: Los refuerzos de Marina prolongan el fuego sobre los piratas ([42-035](capitulos/42.md)).
+- Cap. 42, 01:08:34.880: Poncelot dispara a Cipo y prende una nave enemiga ([42-036](capitulos/42.md)).
+- Cap. 42, 01:12:00.159: El ancla permite al Zampaolas cerrar el giro ([42-037](capitulos/42.md)).
+- Cap. 42, 01:15:18.000: Nox contempla a Ione y decide iniciar la revuelta ([42-040](capitulos/42.md)).
+- Cap. 42, 01:22:46.000: Ione y Poncelot enlazan barcos enemigos con una cadena ([42-044](capitulos/42.md)).
+- Cap. 42, 01:24:34.960: Ilikar se impulsa hacia el barco en llamas y llama a Cipo ([42-045](capitulos/42.md)).
+- Cap. 42, 01:28:43.760: Nox dirige el Invictus hacia la flota y prepara la pólvora ([42-047](capitulos/42.md)).
+- Cap. 42, 01:32:27.000: El ataque de Bonnie anima a unos piratas mientras otros se marchan ([42-048](capitulos/42.md)).
+- Cap. 42, 01:33:30.400: Sir Poncelot asume las órdenes mientras Ione está indispuesta ([42-049](capitulos/42.md)).
+- Cap. 42, 01:37:37.480: Sir Poncelot y Merlucilla IV despejan cubiertas y regresan ([42-051](capitulos/42.md)).
+- Cap. 42, 01:45:25.000: Nox arroja a Tórtola y gobierna el Invictus herido ([42-055](capitulos/42.md)).
+- Cap. 42, 01:49:27.280: Nox cambia los emblemas del Invictus y Pinky prende la pólvora ([42-057](capitulos/42.md)).
+- Cap. 42, 01:51:35.480: Nox reconoce a Ione como capitana y pide volver ([42-058](capitulos/42.md)).
+- Cap. 42, 01:58:47.960: Los tatuajes y el orbe preceden a la decisión de Nox de quedarse ([42-061](capitulos/42.md)).
+- Cap. 42, 02:00:20.239: El Invictus explota contra la flota y los buques restantes se retiran ([42-062](capitulos/42.md)).
+- Cap. 42, 02:02:20.520: Ione se lanza a buscar a Nox y sus compañeros la siguen ([42-063](capitulos/42.md)).
+- Cap. 42, 02:07:00.000: La búsqueda entre los restos no encuentra a Nox ([42-064](capitulos/42.md)).
+- Cap. 42, 02:12:59.000: Bonnie entrega la moneda a Ione y les ordena marcharse ([42-066](capitulos/42.md)).
+- Cap. 42, 02:14:52.159: Ione retira el Zampaolas de la batalla sin renunciar a buscar a Nox ([42-067](capitulos/42.md)).
+- Cap. 42, 02:17:14.319: Los otros reyes rodean al Relámpago del Mar sin su poder mágico ([42-068](capitulos/42.md)).
 
 ## Zarial
 

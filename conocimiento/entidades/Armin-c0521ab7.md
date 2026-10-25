@@ -8,11 +8,11 @@ El director corrige a Armin el nombre utilizado por los jugadores en 35-004. El 
 
 Etiquetas agrupadas: Armin (herrero de Shiaru, grafía provisional); Herrero de Shiaru (sin nombre); Peter / Armin (herrero, equivalencia contextual provisional).
 
-Base para revisar equivalencia: [16-004](../capitulos/16.md), [23-003](../capitulos/23.md), [35-004](../capitulos/35.md).
+Base para revisar equivalencia: [16-004](../capitulos/16.md), [23-003](../capitulos/23.md), [35-004](../capitulos/35.md), [42-006](../capitulos/42.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### El herrero al que siempre se vuelve
 
@@ -25,6 +25,12 @@ Fuentes: [07-031 · Mamá prepara la crianza y Patata compra un hacha](../capitu
 Antes de otra visita a Aurora, Nox consigue una armadura más barata alegando un falso impuesto de Bonnie. La escena también fija Armin como nombre del herrero frente a otros nombres utilizados por los jugadores. El negocio muestra que ni los comercios de Shiaru quedan al margen de las maniobras de los piratas.
 
 Fuentes: [35-004 · Negocios de Nox y nombre Armin](../capitulos/35.md) · 00:20:00.000.
+
+### Dos mazos en la plaza
+
+Armin espera entre los defensores reunidos en la plaza de Shiaru con dos mazos enormes. Su presencia lo sitúa en la preparación de la defensa, sin atribuirle todavía bajas o reparaciones concretas durante el enfrentamiento.
+
+Fuentes: [42-006 · Shiaru reúne a sus defensores en la plaza](../capitulos/42.md) · 00:08:05.039.
 
 ## Registros y evidencias
 
@@ -107,4 +113,12 @@ Tipo: `hecho_confirmado`.
 Nox vende una antitoxina y una poción de salud al alquimista Morti/Mortis por setenta y cinco monedas en total, tras negociar otras ofertas. Compra una armadura de cuero tachonado por treinta en vez de cuarenta y cinco, alegando un falso impuesto de Bonnie. El director confirma Armin como nombre del herrero, frente a Pit usado por los jugadores. Un intento posterior de robo falla y Nox recibe un objeto sin valor.
 
 El engaño de Nox no confirma un impuesto real del diez por ciento.
+
+## [42-006 · Shiaru reúne a sus defensores en la plaza](../capitulos/42.md) · 00:08:05.039
+
+Tipo: `hecho_confirmado`.
+
+La plaza reúne a los habitantes y aliados de Shiaru. Gobs prepara agujas, una sierra y un taladro; Armin espera con dos enormes mazos. Un grupo de mujeres prepara armas de fuego. Eleanor y Erandy están presentes junto a miembros del Zampaolas. Jack aparece nervioso detrás de Ilikar; también se muestran Baps, Mugre y Ojo Ausente. Bonnie conversa con Molly.
+
+El pasaje no nombra con claridad a la mujer que encabeza al grupo armado. Su contexto no basta para atribuir a Liz cada intervención o confirmar que Gobs opere a alguien.
 

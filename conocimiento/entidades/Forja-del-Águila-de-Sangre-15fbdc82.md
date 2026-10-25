@@ -12,7 +12,7 @@ Base para revisar equivalencia: [16-018](../capitulos/16.md), [30-021](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### Equiparse en el interior de la isla
 

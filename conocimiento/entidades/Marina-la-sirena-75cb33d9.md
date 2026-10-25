@@ -12,7 +12,7 @@ Base para revisar equivalencia: [06-015](../capitulos/06.md), [06-025](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### Una liberación que conduce a una trampa
 

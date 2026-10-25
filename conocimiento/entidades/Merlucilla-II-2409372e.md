@@ -12,7 +12,7 @@ Base para revisar equivalencia: [06-020](../capitulos/06.md), [11-004](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### Un hipocampo rescatado entre tiburones
 

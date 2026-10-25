@@ -1,5 +1,5 @@
 {
-  "revisado_hasta": 41,
+  "revisado_hasta": 42,
   "entidades": {
     "Atlan": [
       {
@@ -150,6 +150,25 @@
           "13-008",
           "20-007",
           "20-008"
+        ]
+      },
+      {
+        "titulo": "Un arrecife entre dos maniobras",
+        "texto": "El arrecife condiciona la primera fase de la batalla naval. Ione intenta aprovechar el menor calado del Zampaolas para rodear la formación enemiga; el director advierte que cruzarlo puede romper el casco. En el Invictus, Nox propone una ruta recta y Tórtola manda las naves pequeñas delante para proteger la suya. La coincidencia de ambas maniobras no demuestra por sí sola que el paso sea seguro o que los barcos encallen.",
+        "referencias": [
+          "42-017",
+          "42-021"
+        ]
+      },
+      {
+        "titulo": "La batalla entre rocas y aguas estrechas",
+        "texto": "El arrecife condiciona la batalla: solo un paso profundo permite a las grandes naves circular y sus aguas pueden engañarse mediante ilusiones. Nox hace encallar dos escoltas desviándolos hacia rocas ocultas; Ione utiliza el espigón y el ancla de Ilikar para cerrar la maniobra del Zampaolas. El Invictus termina atravesando el paso y asoma al combate bajo el rumbo fijado por Nox.",
+        "referencias": [
+          "42-026",
+          "42-033",
+          "42-034",
+          "42-037",
+          "42-047"
         ]
       }
     ],
@@ -415,6 +434,13 @@
           "31-005",
           "31-007"
         ]
+      },
+      {
+        "titulo": "El destino del barco capturado",
+        "texto": "Taylor refiere que capturó un pequeño barco que se dirigía a Puerto de Espadas. Allí viajaba el joven al que recuerda como Jackie, que hablaba de los tesoros de una isla. El testimonio no muestra la llegada de ese barco a puerto ni fija el lugar concreto de su captura.",
+        "referencias": [
+          "42-070"
+        ]
       }
     ],
     "Ras Racor": [
@@ -492,6 +518,25 @@
           "38-007",
           "38-015",
           "38-016"
+        ]
+      },
+      {
+        "titulo": "Una defensa reunida en la plaza",
+        "texto": "Los habitantes y aliados de Shiaru se concentran en la plaza para afrontar a la Marina. Bonnie invoca la acogida dada a los viajeros y reclama defender la libertad del poblado. Después de los discursos los piratas embarcan y la defensa se desplaza al mar, donde se aproxima una flota mayor desde Aurora.",
+        "referencias": [
+          "42-006",
+          "42-011",
+          "42-013",
+          "42-016"
+        ]
+      },
+      {
+        "titulo": "La costa que Ione no quiere abandonar",
+        "texto": "El oleaje lleva el Zampaolas cerca de la costa, sin encallarlo en Shiaru. Tras la búsqueda infructuosa de Nox, Bonnie ordena retirarse y no volver al poblado. Ione saca a sus compañeros de la batalla, pero expresa su negativa a abandonar Shiaru porque quiere seguir buscándolo.",
+        "referencias": [
+          "42-063",
+          "42-066",
+          "42-067"
         ]
       }
     ],

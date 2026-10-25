@@ -12,7 +12,7 @@ Base para revisar equivalencia: [35-014](../capitulos/35.md), [36-019](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### Una isla de pueblos vivos y ruinas disputadas
 
@@ -59,4 +59,28 @@ Tipo: `hecho_confirmado`.
 Los vecinos reciben a los extranjeros con bebida y adornos florales; también ofrecen a Leo un líquido que no se identifica como cerveza. Winscore bebe sentado en una piedra. Blink lo reconoce por una aventura con Mamá y un dragón y le presenta a Naór. Ella lo saluda y le da la bienvenida a Xoltacan. Él explica que explora estas tierras y ha acudido al festival.
 
 El recuerdo de Blink no especifica qué dragón: no atribuir acciones nuevas a Winscore ni identificarlo con el verde de Iktan.
+
+## [42-065 · Cuatro reyes piratas destruyen una nueva flota de la Marina](../capitulos/42.md) · 02:09:35.040
+
+Tipo: `hecho_confirmado`.
+
+Al bajar el fuego se descubre otra flota de la Marina con un buque que dobla al Invictus. El mar comienza a congelarse; un estallido azul inmoviliza los barcos y una tormenta de fuego cae sobre ellos y los destruye. Tras una nube negra aparecen cuatro buques piratas con enseñas de banana, símbolo femenino, calavera goblin y bandera pirata clásica. El director anuncia que han llegado los otros cuatro reyes piratas.
+
+No se atribuyen individualmente el hielo ni el fuego a un rey concreto. La descripción aproximada de centenar de barcos no se convierte en un inventario exacto.
+
+## [42-070 · Taylor dice haber capturado al joven Jackie rumbo a Puerto de Espadas](../capitulos/42.md) · 02:22:01.359
+
+Tipo: `declaracion_personaje`.
+
+Taylor recuerda que Bonnie faltó a las últimas reuniones. Afirma que capturaron un pequeño barco rumbo a Puerto de Espadas y a un joven al que recuerda como Jackie, quien hablaba de una isla con grandes tesoros y grandes piratas. Bonnie responde que leyó su carta y pregunta si ha venido a lo que debía.
+
+Es relato de Taylor, no captura mostrada. No identifica con certeza al cautivo con Jack, el exmarine del Zampaolas; la duda del propio hablante sobre el nombre se conserva.
+
+## [42-071 · Taylor acusa a Bonnie de romper un pacto y ocultar Xoltacan](../capitulos/42.md) · 02:22:59.960
+
+Tipo: `declaracion_personaje`.
+
+Taylor sostiene que Bonnie rompió su trato y ocultó la isla de grandes tesoros a los otros reyes, por lo que debían acudir. Anuncia que ella sabe lo que viene. Bonnie enciende un puro y responde que nunca le cayó bien.
+
+La acusación no aporta los términos completos del pacto ni una deliberación independiente de los demás reyes.
 

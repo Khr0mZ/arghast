@@ -18,6 +18,10 @@
     "catalogo_kuroto": {
       "archivo": "campanas/kuroto/catalogo.json",
       "sha256": "4b1ec6f97e94909c14a1ecf530bd4f76c2ef13a3915a2555191573fab6cff0a1"
+    },
+    "xoltacan42": {
+      "archivo": "xoltacan_subtitulos/subtitulos/42 - 3IUV_YN_zxM.info.json",
+      "sha256": "a656247701bf6d73958015a92d29e6d8f466165eb882abd0404def344ea0a937"
     }
   },
   "campanas": {
@@ -226,6 +230,11 @@
         "video_id": "vB6Y1LQ2IaM",
         "segundos": 9104,
         "fuente": "xoltacan41"
+      },
+      "42": {
+        "video_id": "3IUV_YN_zxM",
+        "segundos": 8684,
+        "fuente": "xoltacan42"
       }
     },
     "kuroto": {

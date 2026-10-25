@@ -8,11 +8,11 @@ Goliat recién presentado en el capítulo 38, distinto de Ayoto.
 
 Etiquetas agrupadas: Ilikar / Ilicar (goliat, grafía provisional).
 
-Base para revisar equivalencia: [38-003](../capitulos/38.md), [38-005](../capitulos/38.md).
+Base para revisar equivalencia: [38-003](../capitulos/38.md), [38-005](../capitulos/38.md), [42-004](../capitulos/42.md), [42-007](../capitulos/42.md), [42-013](../capitulos/42.md), [42-026](../capitulos/42.md), [42-028](../capitulos/42.md), [42-037](../capitulos/42.md), [42-038](../capitulos/42.md), [42-045](../capitulos/42.md), [42-050](../capitulos/42.md), [42-051](../capitulos/42.md), [42-063](../capitulos/42.md), [42-067](../capitulos/42.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### Un náufrago que encuentra una tripulación
 
@@ -37,6 +37,24 @@ Fuentes: [40-001 · Ilikar entra en la selva buscando un regalo](../capitulos/40
 Lanza a Triel a través de la masa y combate con lanza y hielo. Encuentra un rastro del dragón al norte, pero el grupo necesita descansar. Eldrat le concede la futura cabeza a cambio de poder interrogar antes al dragón. Ilikar declara proceder de Valle Blanco, en las tierras frías del norte; debe volver a Shiaru y propone reclutar a Ione y Sir Poncelot. Todavía no obtiene el trofeo. Los juegos con Leona acaban con Tortas en el lago.
 
 Fuentes: [40-019 · Puños del monje y lanzamiento de Triel a través de la masa](../capitulos/40.md) · 01:16:30.480 · [40-020 · Hielo de Ilikar y tentativa de envolver a Triel](../capitulos/40.md) · 01:22:34.719 · [40-023 · Triel imita las patadas de Tortas e Ilikar mantiene la presión](../capitulos/40.md) · 01:37:01.719 · [40-025 · Eldrat reprende a Triel y comparte la celebración](../capitulos/40.md) · 01:45:06.400 · [40-030 · La Serpiente del Bosque y la cueva de la emboscada](../capitulos/40.md) · 02:02:39.199 · [40-033 · Rastro hacia el norte y decisión de recuperarse](../capitulos/40.md) · 02:11:01.520 · [40-034 · Leona obliga a Ilikar a descansar y lo carga](../capitulos/40.md) · 02:19:02.120 · [40-037 · Pacto entre Eldrat e Ilikar para interrogar al dragón](../capitulos/40.md) · 02:31:24.600 · [40-039 · Origen de Ilikar y posibles aliados en Shiaru](../capitulos/40.md) · 02:36:36.680 · [40-041 · Leona e Ilikar lanzan a Tortas al lago](../capitulos/40.md) · 02:44:33.840.
+
+### El regreso a la tripulación
+
+Después de entrenar con Tortas y compartir la amenaza del dragón verde, Ilikar vuelve a Shiaru para buscar ayuda. Encuentra a Ione preparando la defensa y la acompaña: ayuda con el barco, recoge un arma y asegura que el ser de fuego al que llaman pequeño dragón está apartado en un barril de arena. Embarca tras su capitana mientras Jack lo sigue. No se representa un acuerdo nuevo para cazar al dragón.
+
+Fuentes: [42-004 · Ilikar vuelve de Iktan y busca aliados contra el dragón](../capitulos/42.md) · 00:04:11.920 · [42-007 · La tripulación sitúa al supuesto dragón de Ilikar en un barril de arena](../capitulos/42.md) · 00:10:43.200 · [42-013 · Los defensores embarcan y ocupan sus puestos](../capitulos/42.md) · 00:23:12.440.
+
+### El ancla como arma y como impulso
+
+Ilikar agranda su cuerpo para arrojar una bala encadenada y romper un mástil enemigo. Se ofrece a Ione para maniobrar con el ancla y la engancha al espigón durante el giro cerrado del Zampaolas. Después bebe una poción de hablar con animales, prepara el ancla con aceite y la clava en el barco incendiado por Cipo. Tira de ella y utiliza el impulso para lanzarse hacia la cubierta; llama al elemental que regresaba por la cadena para que se una a él.
+
+Fuentes: [42-026 · Ilikar prepara sus pociones y el ancla](../capitulos/42.md) · 00:50:20.240 · [42-028 · Ilikar inutiliza el mástil de un barco enemigo](../capitulos/42.md) · 00:53:35.200 · [42-037 · El ancla permite al Zampaolas cerrar el giro](../capitulos/42.md) · 01:12:00.159 · [42-038 · Ilikar bebe una poción para hablar con animales](../capitulos/42.md) · 01:13:11.639 · [42-045 · Ilikar se impulsa hacia el barco en llamas y llama a Cipo](../capitulos/42.md) · 01:24:34.960.
+
+### De destruir cubiertas a proteger a la capitana
+
+Ilikar derriba un mástil mientras Cipo salpica fuego desde su cadena y participa en la destrucción de buques de la Marina. Tras el estallido ordena dirigir el Zampaolas hacia Ione. Le recuerda que debe seguir viva y ayuda a que la tripulación se retire del combate.
+
+Fuentes: [42-050 · Ilikar y Cipo derriban el mástil de un buque](../capitulos/42.md) · 01:35:06.560 · [42-051 · Sir Poncelot y Merlucilla IV despejan cubiertas y regresan](../capitulos/42.md) · 01:37:37.480 · [42-063 · Ione se lanza a buscar a Nox y sus compañeros la siguen](../capitulos/42.md) · 02:02:20.520 · [42-067 · Ione retira el Zampaolas de la batalla sin renunciar a buscar a Nox](../capitulos/42.md) · 02:14:52.159.
 
 ## Registros y evidencias
 
@@ -375,4 +393,148 @@ Tipo: `hecho_confirmado`.
 Eldrat, Ilikar y Leona perciben que la población, incluida Walulu, mira con extrañeza y disgusto la piedra que antes ocupaba Tortas. Triel está sentada allí intentando meditar: cree que puede conseguir brazos astrales por imitarlo. Eldrat la reprende, la retira tirándole de la oreja y se disculpa ante Walulu por ocupar la piedra sagrada. No se manifiesta ningún poder. El capítulo termina con Tortas escondido bajo el agua y Leona e Ilikar considerando si lanzar también la cabra restante.
 
 La creencia de Triel no prueba que la piedra conceda poderes. El último lanzamiento de la cabra se debate, pero no se resuelve.
+
+## [42-002 · Las frutas alteran temporalmente a los cuatro viajeros](../capitulos/42.md) · 00:01:58.439
+
+Tipo: `explicacion_director`.
+
+El director resuelve cuatro efectos de fruta: la lengua de Poncelot puede alcanzar objetos pequeños a diez pies; Ione gana dos puntos de Fuerza durante la partida; la sombra de Ilikar se estira y puede señalar objetos para avisar a sus compañeros; la piel de Nox desarrolla espinas que dañan a quien lo golpee cuerpo a cuerpo.
+
+Los efectos son resoluciones de la sesión. No acreditan cambios permanentes ni una conexión narrativa con Kuroto, citado en una broma de mesa.
+
+## [42-003 · Ione prepara al Zampaolas para el enfrentamiento directo](../capitulos/42.md) · 00:02:29.160
+
+Tipo: `declaracion_personaje`.
+
+Ione relata la reparación y el aprovisionamiento del Zampaolas: barriles de pólvora, aceite hirviendo, una cadena procedente de un barco naufragado para Ilikar, una ballesta para Poncelot, cañones, balas y munición unida por cadenas. Recuerda una profecía que aconsejaba hacerse pasar por marines, pero opta por prepararse para luchar de frente.
+
+No se reproduce la profecía completa ni se demuestra en este pasaje que todos los recursos preparados lleguen a utilizarse.
+
+## [42-004 · Ilikar vuelve de Iktan y busca aliados contra el dragón](../capitulos/42.md) · 00:04:11.920
+
+Tipo: `declaracion_personaje`.
+
+Ilikar recuerda que ha cruzado la isla, comparte un enemigo en el dragón verde y ha entrenado como monje gracias a Tortas. Vuelve a Shiaru en busca de su tripulación y de Poncelot, a quien considera experto en dragones. La necesidad de Ione lo lleva a preparar el barco y recoger un arma nueva para el combate próximo.
+
+El nombre entrecortado del dragón no fija su grafía ni lo identifica con Clodidrax. No se representa una aceptación de la caza por Poncelot o Ione; tampoco se identifica aquí el arma recién recogida.
+
+## [42-006 · Shiaru reúne a sus defensores en la plaza](../capitulos/42.md) · 00:08:05.039
+
+Tipo: `hecho_confirmado`.
+
+La plaza reúne a los habitantes y aliados de Shiaru. Gobs prepara agujas, una sierra y un taladro; Armin espera con dos enormes mazos. Un grupo de mujeres prepara armas de fuego. Eleanor y Erandy están presentes junto a miembros del Zampaolas. Jack aparece nervioso detrás de Ilikar; también se muestran Baps, Mugre y Ojo Ausente. Bonnie conversa con Molly.
+
+El pasaje no nombra con claridad a la mujer que encabeza al grupo armado. Su contexto no basta para atribuir a Liz cada intervención o confirmar que Gobs opere a alguien.
+
+## [42-007 · La tripulación sitúa al supuesto dragón de Ilikar en un barril de arena](../capitulos/42.md) · 00:10:43.200
+
+Tipo: `declaracion_personaje`.
+
+Poncelot pregunta por el pequeño ser de fuego que acompaña a Ilikar, lo llama bebé dragón rojo y teme nuevos incendios. Ilikar asegura que está en el barco; Ione explica que el goliat lo ha puesto en un barril con arena. La capitana lo llama demonio por los desperfectos que le atribuye.
+
+No se abre el barril en este intervalo. La identificación contextual con Cipo se apoya en su vínculo con Ilikar desde el capítulo 40 y su presencia posterior en el Zampaolas; no se identifica con el Dragón de Erendriel. Dragón y demonio son denominaciones de los viajeros, sin cambio de naturaleza demostrado.
+
+## [42-011 · Bonnie reclama la defensa de la libertad de Shiaru](../capitulos/42.md) · 00:20:27.440
+
+Tipo: `hecho_confirmado`.
+
+Bonnie impone silencio y llama a los presentes a defender Shiaru contra la Marina. Recuerda que acogió a compañeros como Eleanor, Poncelot e Ilikar y les exige permanecer en sus puestos. Presenta el poblado como un lugar donde ser libres bajo su autoridad y amenaza a quienes huyan.
+
+Las amenazas y la declaración de libertad pertenecen al discurso de Bonnie; no se representan huidas ni ejecuciones de desertores.
+
+## [42-013 · Los defensores embarcan y ocupan sus puestos](../capitulos/42.md) · 00:23:12.440
+
+Tipo: `hecho_confirmado`.
+
+Los piratas corren a los muelles. Ione llama a los Zampaolas a hacer rugir los mares y los cañones y procura dar seguridad a sus compañeros. Poncelot monta al tigre y embarca; Ilikar sigue a su capitana y Jack va tras él. Mugre orienta a Ojo Ausente cuando toma la dirección equivocada. En el Zampaolas están los trillizos, los cañones y la ballesta; Ojo Ausente sube a vigilar, Mugre baja a preparar comida y Baps revisa los cañones olfateándolos.
+
+La mención colectiva de los trillizos no asigna acciones separadas a Mingo, Mango o Mungo. No debe confundirse el tigre con el tiburón Merlucilla V de la extracción anterior.
+
+## [42-026 · Ilikar prepara sus pociones y el ancla](../capitulos/42.md) · 00:50:20.240
+
+Tipo: `hecho_confirmado`.
+
+Ilikar pregunta por la distancia a los enemigos y por la posibilidad de saltar desde el barco al espigón y recorrerlo a pie. Guarda cuatro pociones de efectos todavía inciertos y sube a popa junto a la capitana con el ancla en la mano. Le ofrece utilizarla para corregir la maniobra si cruzan las piedras.
+
+La posibilidad de desembarcar en el espigón se acepta, pero Ilikar no desembarca aquí. No se identifica la procedencia de las pociones.
+
+## [42-028 · Ilikar inutiliza el mástil de un barco enemigo](../capitulos/42.md) · 00:53:35.200
+
+Tipo: `hecho_confirmado`.
+
+Ilikar toma una bala unida a una cadena, aumenta de tamaño en popa y la hace girar para lanzarla con la mano en lugar de utilizar el cañón. El impacto rompe el mástil de una nave enemiga, que se balancea y queda sin poder moverse. Ilikar celebra el golpe aullando.
+
+Se confirma la inutilización del mástil y del movimiento, no un hundimiento inmediato.
+
+## [42-037 · El ancla permite al Zampaolas cerrar el giro](../capitulos/42.md) · 01:12:00.159
+
+Tipo: `hecho_confirmado`.
+
+Siguiendo el plan de Ione, Ilikar lanza el ancla contra las piedras del espigón, la engancha y se afirma con los pies sobre el barco. La distribución del peso y el tirón ayudan al Zampaolas a girar de forma cerrada. Ilikar señala el hueco abierto en la formación enemiga y propone aprovecharlo; la capitana responde que la romperán por detrás.
+
+La maniobra es la resolución aceptada en mesa; no proporciona distancias o propiedades físicas verificadas fuera de la escena.
+
+## [42-038 · Ilikar bebe una poción para hablar con animales](../capitulos/42.md) · 01:13:11.639
+
+Tipo: `hecho_confirmado`.
+
+Ilikar empieza a beber una de las pociones que había preparado y se concreta que es la de hablar con animales. También recuerda un producto llamado merluza recibido de Ione, al que en mesa atribuyen una ventaja relacionada con el encanto. No se muestra todavía una conversación entre Ilikar y Merlucilla.
+
+La transcripción dice «charro» en la explicación de la merluza; se conserva la lectura mecánica como incierta y no se convierte en un objeto o efecto plenamente identificado.
+
+## [42-040 · Nox contempla a Ione y decide iniciar la revuelta](../capitulos/42.md) · 01:15:18.000
+
+Tipo: `hecho_confirmado`.
+
+Desde el puesto de vigía Nox observa el Zampaolas con su catalejo: ve a Ione coordinando a su gente, a Poncelot y al nuevo integrante que utiliza el ancla. Sonríe y dice «Esa es mi chica». Baja aprovechando que parte de los hombres transporta municiones y da la señal a Pinky para que salga y ataque. Con barba y chaqueta azul, Pinky pasa inicialmente por un miembro de la tripulación.
+
+La mirada y la frase documentan el vínculo expresado por Nox; no acreditan que Ione pueda verlo ni que los marines conozcan la transformación de Pinky.
+
+## [42-045 · Ilikar se impulsa hacia el barco en llamas y llama a Cipo](../capitulos/42.md) · 01:24:34.960
+
+Tipo: `hecho_confirmado`.
+
+Ilikar prepara su ancla con un barril de aceite y la lanza contra el barco que Cipo ha incendiado. La clava, tira de la nave para acercarla y utiliza la tensión para impulsarse hacia ella. Los tirones del ancla y de la cadena de Poncelot desplazan los barcos. Cipo había comenzado a regresar al Zampaolas por la cadena, pero Ilikar lo llama y el elemental da la vuelta para saltar sobre él. Antes de lanzarse, Ilikar reta a Poncelot a no ser el último.
+
+El bloque termina esta acción con Ilikar desplazándose hacia los barcos; no se anticipa aquí el resultado del abordaje o del choque.
+
+## [42-049 · Sir Poncelot asume las órdenes mientras Ione está indispuesta](../capitulos/42.md) · 01:33:30.400
+
+Tipo: `hecho_confirmado`.
+
+El director explica que la capitana ha bebido del barril llevado por Ilikar y está indispuesta. Sir Poncelot se sitúa en el mascarón de proa, da órdenes contra los abordajes y pide aproximarse a los barcos enemigos para saltar con Merlucilla.
+
+La indisposición es transitoria; Ione vuelve a actuar más adelante. No acredita una sustitución permanente de capitana.
+
+## [42-050 · Ilikar y Cipo derriban el mástil de un buque](../capitulos/42.md) · 01:35:06.560
+
+Tipo: `hecho_confirmado`.
+
+Ilikar toma una segunda poción antes de saltar al barco que arde. Pide a Cipo que se agarre a la cadena y salpique fuego. Gira la cadena, propaga las llamas y rompe el mástil, que cae sobre el capitán en el timón. El director confirma que ha destrozado el barco.
+
+No se identifica el contenido de esta segunda poción por nombre; el capitán de ese barco no queda identificado como Tórtola.
+
+## [42-051 · Sir Poncelot y Merlucilla IV despejan cubiertas y regresan](../capitulos/42.md) · 01:37:37.480
+
+Tipo: `hecho_confirmado`.
+
+Sir Poncelot monta al tigre Merlucilla, salta contra un artillero y atraviesa las cubiertas embistiendo a los marines. El director admite que Ilikar y Poncelot saltan a otros barcos y los destrozan. Más adelante aclara que han vuelto al Zampaolas antes de que se hundan las naves abordadas.
+
+Las referencias musicales de los jugadores no añaden transformaciones o poderes. No se fija un número individual de muertos ni de barcos para cada personaje.
+
+## [42-063 · Ione se lanza a buscar a Nox y sus compañeros la siguen](../capitulos/42.md) · 02:02:20.520
+
+Tipo: `hecho_confirmado`.
+
+El oleaje acerca el Zampaolas a la costa sin hacerlo encallar. Ione pierde el control, raja tablas con las garras, corta la cuerda de la ballesta y se lanza con un virote hacia los restos en llamas para buscar a Nox. Sir Poncelot llora mientras trata de convencerse de que Nox tenía otro plan de huida. Ilikar ordena poner rumbo a la capitana para protegerla.
+
+La esperanza de Poncelot no acredita supervivencia. La forma lupina de Ione se confirma al explicar su búsqueda, no como efecto de la explosión.
+
+## [42-067 · Ione retira el Zampaolas de la batalla sin renunciar a buscar a Nox](../capitulos/42.md) · 02:14:52.159
+
+Tipo: `hecho_confirmado`.
+
+Sir Poncelot pide a Ilikar que ayude a la capitana y salgan de allí. Ilikar ordena desplegar velas y recuerda a Ione que debe vivir tras lo hecho por Nox. Ella gruñe, señala tierra y se niega a abandonar Shiaru, aunque acepta retirarse de la batalla para proteger a su tripulación. Toma el timón con las garras y vira el Zampaolas.
+
+La retirada no representa haber salido ya de la isla ni una búsqueda reanudada después.
 

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [01-007](../capitulos/01.md), [31-023](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### La ciudad que no se deja encontrar fácilmente
 

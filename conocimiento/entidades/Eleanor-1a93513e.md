@@ -12,7 +12,7 @@ Base para revisar equivalencia: [32-002](../capitulos/32.md), [33-003](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### Una recién llegada en plena guerra
 
@@ -347,4 +347,20 @@ Tipo: `declaracion_personaje`.
 Erandy se reencuentra con Eleanor y por fin duerme bien. Ione encarga a los hipopótamos reparar y sacar el barco, cartografía los alrededores para prever ataques y encuentra al licántropo que agredió a Blink. Lo persigue, incluso transformada, sin alcanzarlo. Poncelot explora, habla con Liz de un regalo y limpia las cloacas.
 
 
+
+## [42-006 · Shiaru reúne a sus defensores en la plaza](../capitulos/42.md) · 00:08:05.039
+
+Tipo: `hecho_confirmado`.
+
+La plaza reúne a los habitantes y aliados de Shiaru. Gobs prepara agujas, una sierra y un taladro; Armin espera con dos enormes mazos. Un grupo de mujeres prepara armas de fuego. Eleanor y Erandy están presentes junto a miembros del Zampaolas. Jack aparece nervioso detrás de Ilikar; también se muestran Baps, Mugre y Ojo Ausente. Bonnie conversa con Molly.
+
+El pasaje no nombra con claridad a la mujer que encabeza al grupo armado. Su contexto no basta para atribuir a Liz cada intervención o confirmar que Gobs opere a alguien.
+
+## [42-011 · Bonnie reclama la defensa de la libertad de Shiaru](../capitulos/42.md) · 00:20:27.440
+
+Tipo: `hecho_confirmado`.
+
+Bonnie impone silencio y llama a los presentes a defender Shiaru contra la Marina. Recuerda que acogió a compañeros como Eleanor, Poncelot e Ilikar y les exige permanecer en sus puestos. Presenta el poblado como un lugar donde ser libres bajo su autoridad y amenaza a quienes huyan.
+
+Las amenazas y la declaración de libertad pertenecen al discurso de Bonnie; no se representan huidas ni ejecuciones de desertores.
 

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [32-002](../capitulos/32.md), [36-001](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### La escudera de Eleanor
 
@@ -339,4 +339,12 @@ Tipo: `declaracion_personaje`.
 Ilikar relata otro duelo con la capitana y sus entrenamientos para soportar el calor de Shiaru. Tras una conversación con Erandy, busca un trofeo para la maestra mencionada en ella. Ha entrado en la selva y sigue a un pequeño acompañante intentando encontrar la salida.
 
 La recapitulación no identifica por nombre a la capitana ni a la maestra, ni precisa de quién es maestra. No atribuir la compensación nocturna a un acto sexual concreto.
+
+## [42-006 · Shiaru reúne a sus defensores en la plaza](../capitulos/42.md) · 00:08:05.039
+
+Tipo: `hecho_confirmado`.
+
+La plaza reúne a los habitantes y aliados de Shiaru. Gobs prepara agujas, una sierra y un taladro; Armin espera con dos enormes mazos. Un grupo de mujeres prepara armas de fuego. Eleanor y Erandy están presentes junto a miembros del Zampaolas. Jack aparece nervioso detrás de Ilikar; también se muestran Baps, Mugre y Ojo Ausente. Bonnie conversa con Molly.
+
+El pasaje no nombra con claridad a la mujer que encabeza al grupo armado. Su contexto no basta para atribuir a Liz cada intervención o confirmar que Gobs opere a alguien.
 

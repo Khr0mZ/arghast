@@ -12,7 +12,7 @@ Base para revisar equivalencia: [41-023](../capitulos/41.md), [41-038](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### El refuerzo que atrapa a Naór
 

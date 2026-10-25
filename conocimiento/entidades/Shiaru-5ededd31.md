@@ -8,11 +8,11 @@ Entrada documentada en los registros citados.
 
 Etiquetas agrupadas: Shiaru.
 
-Base para revisar equivalencia: [01-001](../capitulos/01.md), [01-009](../capitulos/01.md), [01-024](../capitulos/01.md).
+Base para revisar equivalencia: [01-001](../capitulos/01.md), [01-009](../capitulos/01.md), [01-024](../capitulos/01.md), [42-006](../capitulos/42.md), [42-011](../capitulos/42.md), [42-013](../capitulos/42.md), [42-016](../capitulos/42.md), [42-063](../capitulos/42.md), [42-066](../capitulos/42.md), [42-067](../capitulos/42.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### El primer puerto y sus deudas
 
@@ -31,6 +31,18 @@ Fuentes: [10-005 · Pix desaparece tras tirar basura al agua](../capitulos/10.md
 El regreso de Molly reorganiza las operaciones contra la Marina. Desde Shiaru salen nuevas misiones de rescate, sabotaje e interceptación de suministros, mientras Ione intenta recuperar el Zampaolas. La lucha contra un pulpo gigante permite por fin desencajar el casco de la taberna. El barco aún necesita reparar la proa y la guerra no termina con ese avance: el poblado continúa como hogar provisional y centro de decisiones de los aventureros.
 
 Fuentes: [35-019 · Bonnie y Molly reencuentran; recompensas](../capitulos/35.md) · 02:42:00.000 · [36-001 · Ione repara el barco y Erandy busca a Eleanor](../capitulos/36.md) · 00:00:00.000 · [36-004 · Molly informa de una posición estratégica](../capitulos/36.md) · 00:20:00.000 · [37-004 · Emboscada a los suministros con Tlachka al mando](../capitulos/37.md) · 00:24:00.000 · [38-007 · Un pulpo gigante sujeta el barco](../capitulos/38.md) · 00:54:00.000 · [38-015 · El Zampaolas queda desencajado](../capitulos/38.md) · 01:58:00.000 · [38-016 · Aportación de oro y reparto del cofre](../capitulos/38.md) · 02:04:00.000.
+
+### Una defensa reunida en la plaza
+
+Los habitantes y aliados de Shiaru se concentran en la plaza para afrontar a la Marina. Bonnie invoca la acogida dada a los viajeros y reclama defender la libertad del poblado. Después de los discursos los piratas embarcan y la defensa se desplaza al mar, donde se aproxima una flota mayor desde Aurora.
+
+Fuentes: [42-006 · Shiaru reúne a sus defensores en la plaza](../capitulos/42.md) · 00:08:05.039 · [42-011 · Bonnie reclama la defensa de la libertad de Shiaru](../capitulos/42.md) · 00:20:27.440 · [42-013 · Los defensores embarcan y ocupan sus puestos](../capitulos/42.md) · 00:23:12.440 · [42-016 · La Marina forma dos líneas de fuego frente a los piratas](../capitulos/42.md) · 00:31:35.600.
+
+### La costa que Ione no quiere abandonar
+
+El oleaje lleva el Zampaolas cerca de la costa, sin encallarlo en Shiaru. Tras la búsqueda infructuosa de Nox, Bonnie ordena retirarse y no volver al poblado. Ione saca a sus compañeros de la batalla, pero expresa su negativa a abandonar Shiaru porque quiere seguir buscándolo.
+
+Fuentes: [42-063 · Ione se lanza a buscar a Nox y sus compañeros la siguen](../capitulos/42.md) · 02:02:20.520 · [42-066 · Bonnie entrega la moneda a Ione y les ordena marcharse](../capitulos/42.md) · 02:12:59.000 · [42-067 · Ione retira el Zampaolas de la batalla sin renunciar a buscar a Nox](../capitulos/42.md) · 02:14:52.159.
 
 ## Registros y evidencias
 
@@ -497,4 +509,84 @@ Tipo: `declaracion_personaje`.
 Blink relata que salió de Shiaru tras varios intentos, despertó fuera del poblado y lleva días perdida intentando llegar a Cuicapalli. Evita a los humanos, habla con animales y come frutas. El director establece que una fruta le vuelve la voz grave y gutural, con ventaja para intimidar y desventaja para persuadir durante esta jornada.
 
 El despertar fuera del poblado procede de Blink: no se establece un mecanismo de teletransporte ni permanencia del efecto vocal.
+
+## [42-001 · Poncelot regresa con un paquete para Ione](../capitulos/42.md) · 00:01:20.600
+
+Tipo: `declaracion_personaje`.
+
+Sir Poncelot cuenta que ha ayudado a Ione a preparar el barco para la batalla. Antes de zarpar corre a recoger un paquete encargado a Alice y regresa al puerto con él.
+
+Alice solo se menciona como destinataria del encargo; no queda identificada con una persona del catálogo. El contenido del paquete se muestra más tarde.
+
+## [42-004 · Ilikar vuelve de Iktan y busca aliados contra el dragón](../capitulos/42.md) · 00:04:11.920
+
+Tipo: `declaracion_personaje`.
+
+Ilikar recuerda que ha cruzado la isla, comparte un enemigo en el dragón verde y ha entrenado como monje gracias a Tortas. Vuelve a Shiaru en busca de su tripulación y de Poncelot, a quien considera experto en dragones. La necesidad de Ione lo lleva a preparar el barco y recoger un arma nueva para el combate próximo.
+
+El nombre entrecortado del dragón no fija su grafía ni lo identifica con Clodidrax. No se representa una aceptación de la caza por Poncelot o Ione; tampoco se identifica aquí el arma recién recogida.
+
+## [42-005 · Nox busca una patente de corso con la Marina](../capitulos/42.md) · 00:05:36.440
+
+Tipo: `declaracion_personaje`.
+
+Nox explica que su trato con la Marina pretende obtener una patente de corso y seguir su propio rumbo después de que lo echaran de la tripulación. Ha examinado timones, cabos y velas de tres barcos y hablado con el almirante sobre el ataque y la defensa de Shiaru.
+
+La patente es el objetivo declarado del trato, no un documento cuya entrega se muestre. El apelativo Paloma del repaso inicial se vincula a Tórtola por la continuidad de la misma operación naval, sin crear un almirante nuevo.
+
+## [42-006 · Shiaru reúne a sus defensores en la plaza](../capitulos/42.md) · 00:08:05.039
+
+Tipo: `hecho_confirmado`.
+
+La plaza reúne a los habitantes y aliados de Shiaru. Gobs prepara agujas, una sierra y un taladro; Armin espera con dos enormes mazos. Un grupo de mujeres prepara armas de fuego. Eleanor y Erandy están presentes junto a miembros del Zampaolas. Jack aparece nervioso detrás de Ilikar; también se muestran Baps, Mugre y Ojo Ausente. Bonnie conversa con Molly.
+
+El pasaje no nombra con claridad a la mujer que encabeza al grupo armado. Su contexto no basta para atribuir a Liz cada intervención o confirmar que Gobs opere a alguien.
+
+## [42-011 · Bonnie reclama la defensa de la libertad de Shiaru](../capitulos/42.md) · 00:20:27.440
+
+Tipo: `hecho_confirmado`.
+
+Bonnie impone silencio y llama a los presentes a defender Shiaru contra la Marina. Recuerda que acogió a compañeros como Eleanor, Poncelot e Ilikar y les exige permanecer en sus puestos. Presenta el poblado como un lugar donde ser libres bajo su autoridad y amenaza a quienes huyan.
+
+Las amenazas y la declaración de libertad pertenecen al discurso de Bonnie; no se representan huidas ni ejecuciones de desertores.
+
+## [42-012 · La moneda de Bonnie acompaña su transformación eléctrica](../capitulos/42.md) · 00:22:00.919
+
+Tipo: `hecho_confirmado`.
+
+Bonnie saca la moneda de los capitanes piratas y la aprieta. Chisporrotea, sus ojos brillan azules y su aspecto cambia entre rayos; aparece un símbolo de rayo y se oscurece el cielo. Proclama que solo uno de los bandos conservará esas tierras y se dirige al muelle para embarcar.
+
+Se representa la activación y sus efectos visibles, sin explicar el origen de la moneda, sus límites completos o una maldición demostrada.
+
+## [42-015 · Siete barcos piratas salen bajo la tormenta](../capitulos/42.md) · 00:30:07.559
+
+Tipo: `explicacion_director`.
+
+El director describe cinco barcos piratas además del Zampaolas y del enorme buque de Bonnie. La pequeña flota incluye cascos deteriorados y artillería de funcionamiento incierto. Dejan espacio para el Zampaolas y avanzan bajo un cielo negro, lluvia y relámpagos.
+
+La cifra corresponde a la flota descrita antes del enfrentamiento, no a los supervivientes posteriores. La artillería averiada se plantea como posibilidad general, sin inventario por buque.
+
+## [42-016 · La Marina forma dos líneas de fuego frente a los piratas](../capitulos/42.md) · 00:31:35.600
+
+Tipo: `hecho_confirmado`.
+
+Numerosos barcos de guerra de la Marina aparecen desde el sur, en dirección del Fuerte Aurora, con velas blancas, madera cuidada y muchos cañones. Los piratas empiezan a disparar sin una formación clara. La Marina espera, gira sus naves de costado y escalona dos filas para permitir que ambas disparen sin alcanzarse entre sí.
+
+No se da un total exacto de barcos de la Marina. La formación táctica no demuestra todavía que haya destruido ningún buque pirata.
+
+## [42-066 · Bonnie entrega la moneda a Ione y les ordena marcharse](../capitulos/42.md) · 02:12:59.000
+
+Tipo: `hecho_confirmado`.
+
+Mientras suben a Ione al Zampaolas, Bonnie desaparece de su barco como un rayo y aparece en cubierta. Su forma poderosa y la electricidad se retiran a la moneda. Se la pone en la mano a Ione y ordena que se vayan. Ante su resistencia a abandonar a Nox, insiste en que deben salir para poder buscarlo si sigue vivo y les prohíbe volver a Shiaru.
+
+La condición «si Nox está vivo» no confirma su supervivencia. La devolución no explica por sí sola todas las facultades, cargas o reglas de la moneda.
+
+## [42-067 · Ione retira el Zampaolas de la batalla sin renunciar a buscar a Nox](../capitulos/42.md) · 02:14:52.159
+
+Tipo: `hecho_confirmado`.
+
+Sir Poncelot pide a Ilikar que ayude a la capitana y salgan de allí. Ilikar ordena desplegar velas y recuerda a Ione que debe vivir tras lo hecho por Nox. Ella gruñe, señala tierra y se niega a abandonar Shiaru, aunque acepta retirarse de la batalla para proteger a su tripulación. Toma el timón con las garras y vira el Zampaolas.
+
+La retirada no representa haber salido ya de la isla ni una búsqueda reanudada después.
 

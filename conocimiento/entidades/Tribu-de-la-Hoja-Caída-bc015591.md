@@ -12,7 +12,7 @@ Base para revisar equivalencia: [30-007](../capitulos/30.md), [30-009](../capitu
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### Una presentación amistosa ante Cuicapalli
 

@@ -43,3 +43,9 @@ Las fichas de entidades permiten consultar las apariciones de cada lugar. La ent
 La [roca de los sacerdotes al norte de Iktan](capitulos/41.md) es una ubicación exterior descriptiva, distinta de la piedra sagrada del festival y del claro de los restos envenenados. El informe de la cautiva y el conejo guían hasta dos figuras que preparan viales; allí se libra el combate (41-023, 41-027–41-030, 41-038–41-046). No hay coordenadas que permitan colocarla con precisión en un mapa.
 
 Tentacol declara proceder de aguas profundas y bosques de algas próximos a **Perlasal**. Naór desea conocerlas, pero en esta sesión no obtiene respiración acuática ni comienza el viaje (41-010).
+
+## El arrecife y la costa en el capítulo 42
+
+La defensa de Shiaru se desplaza a los arrecifes del Garfio. El menor calado permite al Zampaolas maniobrar con el ancla de Ilikar; Nox altera la apariencia de las aguas para encallar a dos escoltas y conduce después el Invictus a la batalla. La explosión acerca al Zampaolas a la costa sin encallarlo. Su retirada no establece un nuevo asentamiento ni el abandono definitivo de Shiaru ([42-017, 42-033–42-037, 42-047 y 42-062–42-067](capitulos/42.md)).
+
+Taylor refiere una captura de un barco rumbo a Puerto de Espadas. Es un destino del viaje relatado, sin ubicación exacta de la captura ni llegada mostrada ([42-070](capitulos/42.md)).

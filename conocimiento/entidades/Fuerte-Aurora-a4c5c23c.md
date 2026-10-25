@@ -12,7 +12,7 @@ Base para revisar equivalencia: [07-010](../capitulos/07.md), [12-009](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### La expansión de la Marina toma forma
 
@@ -153,4 +153,12 @@ Tipo: `hecho_confirmado`.
 Luna finge beber para escuchar y toma una pequeña bolsa de pólvora del carro. Eleanor consulta los precios del mercado y coloca al caballo un cartel que lo declara propiedad de Poncelot, aunque el director indica que pertenece a Bonnie. Nox mira al Zampaolas y a Ione, se despide en voz baja, sube a un bote y se aleja al mar sin llamar la atención. Su jugador aclara que va al fuerte, no a Puerto Espadas.
 
 Se declara un destino, pero no se muestra la llegada. Llevarse el ojo incumple la condición. El cartel no acredita una transferencia autorizada del caballo.
+
+## [42-016 · La Marina forma dos líneas de fuego frente a los piratas](../capitulos/42.md) · 00:31:35.600
+
+Tipo: `hecho_confirmado`.
+
+Numerosos barcos de guerra de la Marina aparecen desde el sur, en dirección del Fuerte Aurora, con velas blancas, madera cuidada y muchos cañones. Los piratas empiezan a disparar sin una formación clara. La Marina espera, gira sus naves de costado y escalona dos filas para permitir que ambas disparen sin alcanzarse entre sí.
+
+No se da un total exacto de barcos de la Marina. La formación táctica no demuestra todavía que haya destruido ningún buque pirata.
 

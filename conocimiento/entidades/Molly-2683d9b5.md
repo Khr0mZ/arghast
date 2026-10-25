@@ -8,11 +8,11 @@ Molly/Moli es la capitana de Marina. Distinta de la sirena Marina.
 
 Etiquetas agrupadas: Molly (capitana de Marina); Molly (capitana de la Marina); Molly / Moli (capitana de Marina, grafía provisional).
 
-Base para revisar equivalencia: [05-008](../capitulos/05.md), [05-009](../capitulos/05.md), [23-001](../capitulos/23.md).
+Base para revisar equivalencia: [05-008](../capitulos/05.md), [05-009](../capitulos/05.md), [23-001](../capitulos/23.md), [42-006](../capitulos/42.md), [42-011](../capitulos/42.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### Una capitana con vínculos en ambos bandos
 
@@ -31,6 +31,12 @@ Fuentes: [28-020 · Bonnie declara una alianza con Molly para proteger la isla](
 En Shiaru se reúne amistosamente con Bonnie y empieza a colaborar contra las posiciones controladas por Tórtola. Señala un emplazamiento estratégico que el grupo debe ocupar y participa en el encargo de emboscar el convoy de cañones y pólvora. También reconoce que Tórtola está obsesionado con la isla y que no le explicó lo que habían despertado. Su antiguo cargo no basta para situarla del lado de todas las operaciones actuales de la Marina.
 
 Fuentes: [35-019 · Bonnie y Molly reencuentran; recompensas](../capitulos/35.md) · 02:42:00.000 · [36-004 · Molly informa de una posición estratégica](../capitulos/36.md) · 00:20:00.000 · [37-004 · Emboscada a los suministros con Tlachka al mando](../capitulos/37.md) · 00:24:00.000 · [37-017 · Bonnie presta el ojo con una condición que Nox planea incumplir](../capitulos/37.md) · 02:09:00.000.
+
+### Junto a Bonnie en los preparativos
+
+Molly conversa con Bonnie durante la concentración de los defensores de Shiaru. La escena conserva su cercanía en los preparativos contra la armada, sin transcribir el contenido de esa conversación ni adjudicarle una orden naval.
+
+Fuentes: [42-006 · Shiaru reúne a sus defensores en la plaza](../capitulos/42.md) · 00:08:05.039 · [42-011 · Bonnie reclama la defensa de la libertad de Shiaru](../capitulos/42.md) · 00:20:27.440.
 
 ## Registros y evidencias
 
@@ -377,4 +383,12 @@ Tipo: `hecho_confirmado`.
 Nox propone estudiar el ojo para anticipar acontecimientos. Molly dice que Tórtola está obsesionado con la isla y que no le contó lo que habían despertado ni dejó notas. Ambas aceptan prestarlo solo si permanece en Shiaru. Nox acepta, pero una tirada oculta su decepción y revela su intención de incumplir. Envuelve el ojo y, bajo la tela, roba una bolsa con cuarenta y ocho monedas de oro sin que ellas lo adviertan.
 
 No se recapitula aquí la identidad de lo despertado. Luna dice que escucha desde la barra, pero no se acredita que oiga todo el acuerdo.
+
+## [42-006 · Shiaru reúne a sus defensores en la plaza](../capitulos/42.md) · 00:08:05.039
+
+Tipo: `hecho_confirmado`.
+
+La plaza reúne a los habitantes y aliados de Shiaru. Gobs prepara agujas, una sierra y un taladro; Armin espera con dos enormes mazos. Un grupo de mujeres prepara armas de fuego. Eleanor y Erandy están presentes junto a miembros del Zampaolas. Jack aparece nervioso detrás de Ilikar; también se muestran Baps, Mugre y Ojo Ausente. Bonnie conversa con Molly.
+
+El pasaje no nombra con claridad a la mujer que encabeza al grupo armado. Su contexto no basta para atribuir a Liz cada intervención o confirmar que Gobs opere a alguien.
 

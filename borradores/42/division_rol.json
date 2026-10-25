@@ -1,0 +1,69 @@
+{
+  "campana": "xoltacan",
+  "unidad_revision": "x-1524356880258961458",
+  "motivo": "La duración conservada del vídeo 42 introduce un corte operativo entre el primer mensaje y los cinco siguientes de esta unidad. Se releen los seis mensajes y se divide editorialmente sin perder ni duplicar fuentes.",
+  "corte_estimado_utc": "2026-07-09T20:55:43+00:00",
+  "limitacion": "El corte ordena por publicación y duración del vídeo; no certifica la hora real de la partida ni un salto temporal dentro de la ficción.",
+  "original_editorial": {
+    "archivo": "borradores/42/rol_antes/x-1524356880258961458.json",
+    "sha256": "e760b118c37e7dfc632440ed0ae2cc51c765321aec55837f3789ee90f8d3fd3e"
+  },
+  "fuentes_privadas_verificadas": {
+    "manifest_sha256": "081ae3843c5ae2a978286ebad7031113c0f2b3000b329615602bf901c1103ae0",
+    "archivo_hilo_sha256": "11f9e055db34072785f7585956a329298ea78a2ae6af7392a8de1e153ab5c415",
+    "mensajes": 6
+  },
+  "escenas": [
+    {
+      "id": "x-1524356880258961458",
+      "titulo": "El insomnio de Citlali",
+      "mensajes": 1,
+      "fuentes_ids": [
+        "1524356880258961458"
+      ],
+      "anterior": 41,
+      "siguiente": 42,
+      "relato": "Citlali no consigue dormir en el templo de Iktan. Los siseos de las serpientes y unos recuerdos cargados de culpa le impiden descansar. Mira a Eztli dormir en paz y oye las voces de Walulu y una elfa en otra habitación, sin intervenir en su conversación.\n\nVuelve a pronunciar el nombre de Amaru entre amargura y añoranza. Mientras busca un trozo de chocolate en su falda, nota algo extraño dentro del bolsillo y se pregunta qué es. Este mensaje no identifica todavía el objeto ni muestra la melodía, el dolor o la marca que se narrarán después."
+    },
+    {
+      "id": "x-1524890107604369578",
+      "titulo": "La caja de música y la urgencia de Citlali",
+      "mensajes": 5,
+      "fuentes_ids": [
+        "1524890107604369578",
+        "1524891626672226514",
+        "1524892945361141930",
+        "1524895630839906345",
+        "1524896902540296242"
+      ],
+      "anterior": 42,
+      "siguiente": 43,
+      "relato": "La búsqueda de Citlali da lugar al hallazgo de una pequeña caja de música con manivela, madera gastada y delicados grabados en la tapa. Al hacerla sonar, la melodía le recuerda a sus niños y enlaza la imagen de Amaru y de un bebé en un cofre con otra de Nox sonriendo junto a una hoguera.\n\nLa quietud se vuelve extraña: viento y hojas parecen detenerse. Citlali siente un ardor bajo la piel que crece hasta quitarle el aire y apenas puede pedir ayuda a Walulu. Después llega el silencio y el dolor cesa. Se levanta de golpe, despierta a Eztli y se dispone a salir con urgencia.\n\nLa narración le impone la certeza de que debe correr hacia un lugar, sin que comprenda cómo sabe hacerlo. Al mirar el brazo no distingue una quemadura evidente, pero sí un trazo oscuro diminuto que empieza a formarse y crecer bajo la piel. El vínculo con lo ocurrido casi cuarenta años antes aparece como una advertencia evocada por el narrador; no se revela todavía la causa de la marca, su mecanismo ni el estado actual de Amaru. La carrera continúa en la unidad siguiente."
+    }
+  ],
+  "estadisticas_antes": {
+    "escenas": 303,
+    "unidades_leidas": 244,
+    "mensajes_en_escenas": 6241,
+    "mensajes_originales": 6243,
+    "adjuntos_en_escenas": 65,
+    "notas_de_voz": 17
+  },
+  "estadisticas_despues": {
+    "escenas": 304,
+    "unidades_leidas": 244,
+    "mensajes_en_escenas": 6241,
+    "mensajes_originales": 6243,
+    "adjuntos_en_escenas": 65,
+    "notas_de_voz": 17
+  },
+  "fuentes_conservadas_integras_una_vez": true,
+  "informes_hilo": "Sin cambios: no contienen vínculos de escena a los mensajes trasladados; sus evidencias por mensaje siguen existiendo.",
+  "verificacion": {
+    "load_written_role": "correcto",
+    "escenas": 304,
+    "mensajes": 6241,
+    "fuentes_sha256": "cotejadas con los mensajes originales y el manifest privado"
+  },
+  "formato_final": "Se conserva LF en los archivos existentes para evitar cambios de formato ajenos a la revision; el manifest refleja el hash final."
+}

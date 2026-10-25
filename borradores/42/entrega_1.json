@@ -1,0 +1,1162 @@
+{
+  "bloque": 1,
+  "lectura_completa": true,
+  "primer_segmento": "c000001",
+  "ultimo_segmento": "c002155",
+  "etapas": [
+    {
+      "titulo": "Preparar el Zampaolas y elegir un bando",
+      "referencias": [
+        "42-001",
+        "42-002",
+        "42-003",
+        "42-004",
+        "42-005",
+        "42-006",
+        "42-007"
+      ],
+      "texto": "Sir Poncelot regresa al puerto con un paquete para Ione después de ayudar a preparar el Zampaolas. La capitana ha reparado y armado su nave con cañones, munición encadenada, pólvora, aceite y una ballesta para el gnomo. Recuerda que una profecía aconsejaba hacerse pasar por marines, pero prefiere afrontar la batalla. Ilikar vuelve de su entrenamiento con Tortas y de la investigación del dragón verde para buscar aliados en Shiaru; al encontrar a su capitana necesitada de ayuda, se suma a los preparativos. Nox ha tomado otro camino: declara que trabaja con la Marina para conseguir una patente de corso y marcar su propio rumbo tras su expulsión de la tripulación. Las frutas añaden efectos peculiares a los cuatro: lengua extensible, fuerza aumentada, sombra capaz de señalar y piel espinosa. En la plaza se reúnen los defensores. Gobs ordena instrumental, Armin espera con sus mazos y los compañeros comprueban sus armas. La ausencia del ser de fuego al que llaman pequeño dragón alarma a Poncelot, aunque Ilikar e Ione aseguran haberlo dejado en un barril de arena en el barco."
+    },
+    {
+      "titulo": "Promesas antes de zarpar",
+      "referencias": [
+        "42-008",
+        "42-009",
+        "42-010",
+        "42-011",
+        "42-012",
+        "42-013",
+        "42-014",
+        "42-015"
+      ],
+      "texto": "Jack confiesa su miedo a combatir contra la Marina, a la que perteneció. Ione le promete protección mientras luche a su lado y le entrega su gorro para que lo conserve hasta el final. También ella siente miedo, aunque intenta ocultarlo. Poncelot le agradece la acogida con un fular de alas de mosca; Ione se lo pone y abraza al caballero. Un disparo accidental de Mugre interrumpe el momento y deja herida a la capitana y brevemente ciego al gnomo. Bonnie impone silencio y exige defender la libertad de Shiaru. Aprieta su moneda pirata: su cuerpo chisporrotea, brillan sus ojos y se forman nubes negras. Los piratas corren a embarcar. Ione anima al Zampaolas; Poncelot llega montado en su tigre, al que ha preparado una armadura improvisada. Ilikar y Jack siguen a su capitana mientras los demás ocupan sus puestos. La flotilla reúne cinco buques además del Zampaolas y de la nave de Bonnie. Bajo lluvia y relámpagos, los cascos deteriorados avanzan hacia la batalla."
+    },
+    {
+      "titulo": "Dos maniobras en el arrecife",
+      "referencias": [
+        "42-016",
+        "42-017",
+        "42-018",
+        "42-019",
+        "42-020",
+        "42-021",
+        "42-022",
+        "42-023"
+      ],
+      "texto": "La Marina aparece desde el sur con numerosos barcos de guerra bien cuidados. Los piratas disparan sin orden, mientras sus enemigos forman dos filas escalonadas y esperan. Ione decide aprovechar el menor calado del Zampaolas para cruzar el arrecife y atacar por detrás, aunque el paso amenaza con dañar el casco. Bonnie adelanta su Relámpago del Mar, reprende el gasto prematuro de munición y prepara chispas en una mano. En otra parte de la flota navega el Invictus de Tórtola, cuya reputación lo presenta como nunca derrotado. Nox se encuentra a bordo. Advierte al almirante sobre la tormenta y el poder de Bonnie; Tórtola responde mostrando una luz verde cuya identificación como desintegrar pertenece a los comentarios de mesa. Nox aconseja mantener una ruta recta por el arrecife y Tórtola manda las naves pequeñas por delante. El pirata anuncia que señalará el camino desde proa, pero baja al interior. En los calabozos encuentra una figura humanoide encadenada dentro de una gran jaula, todavía sin identidad. La escena vuelve al mar cuando la Marina empieza a avanzar y disparar."
+    }
+  ],
+  "afirmaciones": [
+    {
+      "id": "42-001",
+      "titulo": "Poncelot regresa con un paquete para Ione",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Sir Poncelot cuenta que ha ayudado a Ione a preparar el barco para la batalla. Antes de zarpar corre a recoger un paquete encargado a Alice y regresa al puerto con él.",
+      "inicio": "00:01:20.600",
+      "fin": "00:01:50.109",
+      "cita": "que le pidió a Alice y a última hora",
+      "evidencia_cue": {
+        "inicio": "00:01:38.079",
+        "fin": "00:01:40.550",
+        "texto": "que le pidió a Alice y a última hora"
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Ione",
+        "Shiaru"
+      ],
+      "ambito": "preparativos y comienzo de la batalla por Shiaru",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Alice solo se menciona como destinataria del encargo; no queda identificada con una persona del catálogo. El contenido del paquete se muestra más tarde."
+    },
+    {
+      "id": "42-002",
+      "titulo": "Ione prepara al Zampaolas para el enfrentamiento directo",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Ione relata la reparación y el aprovisionamiento del Zampaolas: barriles de pólvora, aceite hirviendo, una cadena procedente de un barco naufragado para Ilikar, una ballesta para Poncelot, cañones, balas y munición unida por cadenas. Recuerda una profecía que aconsejaba hacerse pasar por marines, pero opta por prepararse para luchar de frente.",
+      "inicio": "00:02:29.160",
+      "fin": "00:03:31.229",
+      "cita": "combate. Ha preparado eh barriles llenos",
+      "evidencia_cue": {
+        "inicio": "00:02:37.360",
+        "fin": "00:02:40.190",
+        "texto": "combate. Ha preparado eh barriles llenos"
+      },
+      "entidades": [
+        "Ione",
+        "Zampaolas",
+        "Sir Poncelot",
+        "Ilikar",
+        "Marina"
+      ],
+      "ambito": "preparativos y comienzo de la batalla por Shiaru",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se reproduce la profecía completa ni se demuestra en este pasaje que todos los recursos preparados lleguen a utilizarse."
+    },
+    {
+      "id": "42-003",
+      "titulo": "Ilikar vuelve de Iktan y busca aliados contra el dragón",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Ilikar recuerda que ha cruzado la isla, comparte un enemigo en el dragón verde y ha entrenado como monje gracias a Tortas. Vuelve a Shiaru en busca de su tripulación y de Poncelot, a quien considera experto en dragones. La necesidad de Ione lo lleva a preparar el barco y recoger un arma nueva para el combate próximo.",
+      "inicio": "00:04:11.920",
+      "fin": "00:05:03.270",
+      "cita": "y ahora pues ha decidido volver a Sharu",
+      "evidencia_cue": {
+        "inicio": "00:04:36.639",
+        "fin": "00:04:39.230",
+        "texto": "y ahora pues ha decidido volver a Sharu"
+      },
+      "entidades": [
+        "Ilikar",
+        "Tortas",
+        "Dragón verde del bosque de Iktan",
+        "Shiaru",
+        "Sir Poncelot",
+        "Ione",
+        "Tripulación del Zampaolas"
+      ],
+      "ambito": "preparativos y comienzo de la batalla por Shiaru",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El nombre entrecortado del dragón no fija su grafía ni lo identifica con Clodidrax. No se representa una aceptación de la caza por Poncelot o Ione; tampoco se identifica aquí el arma recién recogida."
+    },
+    {
+      "id": "42-004",
+      "titulo": "Nox busca una patente de corso con la Marina",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Nox explica que su trato con la Marina pretende obtener una patente de corso y seguir su propio rumbo después de que lo echaran de la tripulación. Ha examinado timones, cabos y velas de tres barcos y hablado con el almirante sobre el ataque y la defensa de Shiaru.",
+      "inicio": "00:05:36.440",
+      "fin": "00:06:43.830",
+      "cita": "tener mi patente de corso, que era el",
+      "evidencia_cue": {
+        "inicio": "00:05:43.960",
+        "fin": "00:05:45.790",
+        "texto": "tener mi patente de corso, que era el"
+      },
+      "entidades": [
+        "Nox",
+        "Marina",
+        "Tórtola",
+        "Tripulación del Zampaolas",
+        "Shiaru"
+      ],
+      "ambito": "preparativos y comienzo de la batalla por Shiaru",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La patente es el objetivo declarado del trato, no un documento cuya entrega se muestre. El apelativo Paloma del repaso inicial se vincula a Tórtola por la continuidad de la misma operación naval, sin crear un almirante nuevo."
+    },
+    {
+      "id": "42-005",
+      "titulo": "Las frutas alteran temporalmente a los cuatro viajeros",
+      "tipo": "explicacion_director",
+      "afirmacion": "El director resuelve cuatro efectos de fruta: la lengua de Poncelot puede alcanzar objetos pequeños a diez pies; Ione gana dos puntos de Fuerza durante la partida; la sombra de Ilikar se estira y puede señalar objetos para avisar a sus compañeros; la piel de Nox desarrolla espinas que dañan a quien lo golpee cuerpo a cuerpo.",
+      "inicio": "00:01:58.439",
+      "fin": "00:07:12.469",
+      "cita": "perdón. Tu sombra se estira y puedes",
+      "evidencia_cue": {
+        "inicio": "00:05:14.080",
+        "fin": "00:05:16.230",
+        "texto": "perdón. Tu sombra se estira y puedes"
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Ione",
+        "Ilikar",
+        "Nox"
+      ],
+      "ambito": "preparativos y comienzo de la batalla por Shiaru",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Los efectos son resoluciones de la sesión. No acreditan cambios permanentes ni una conexión narrativa con Kuroto, citado en una broma de mesa."
+    },
+    {
+      "id": "42-006",
+      "titulo": "Shiaru reúne a sus defensores en la plaza",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La plaza reúne a los habitantes y aliados de Shiaru. Gobs prepara agujas, una sierra y un taladro; Armin espera con dos enormes mazos. Un grupo de mujeres prepara armas de fuego. Eleanor y Erandy están presentes junto a miembros del Zampaolas. Jack aparece nervioso detrás de Ilikar; también se muestran Baps, Mugre y Ojo Ausente. Bonnie conversa con Molly.",
+      "inicio": "00:08:05.039",
+      "fin": "00:10:33.269",
+      "cita": "agujas, una sierra, dice, \"Vale, esto lo",
+      "evidencia_cue": {
+        "inicio": "00:08:34.479",
+        "fin": "00:08:36.750",
+        "texto": "agujas, una sierra, dice, \"Vale, esto lo"
+      },
+      "entidades": [
+        "Shiaru",
+        "Gobs",
+        "Armin",
+        "Eleanor",
+        "Erandy",
+        "Jack",
+        "Ilikar",
+        "Baps",
+        "Mugre",
+        "Ojo Ausente",
+        "Bonnie",
+        "Molly",
+        "Tripulación del Zampaolas"
+      ],
+      "ambito": "preparativos y comienzo de la batalla por Shiaru",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El pasaje no nombra con claridad a la mujer que encabeza al grupo armado. Su contexto no basta para atribuir a Liz cada intervención o confirmar que Gobs opere a alguien."
+    },
+    {
+      "id": "42-007",
+      "titulo": "La tripulación sitúa al supuesto dragón de Ilikar en un barril de arena",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Poncelot pregunta por el pequeño ser de fuego que acompaña a Ilikar, lo llama bebé dragón rojo y teme nuevos incendios. Ilikar asegura que está en el barco; Ione explica que el goliat lo ha puesto en un barril con arena. La capitana lo llama demonio por los desperfectos que le atribuye.",
+      "inicio": "00:10:43.200",
+      "fin": "00:12:26.509",
+      "cita": "Se ha encargado y Carl. Lo metió en un",
+      "evidencia_cue": {
+        "inicio": "00:12:16.079",
+        "fin": "00:12:17.790",
+        "texto": "Se ha encargado y Carl. Lo metió en un"
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Cipo",
+        "Ilikar",
+        "Ione",
+        "Zampaolas"
+      ],
+      "ambito": "preparativos y comienzo de la batalla por Shiaru",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se abre el barril en este intervalo. La identificación contextual con Cipo se apoya en su vínculo con Ilikar desde el capítulo 40 y su presencia posterior en el Zampaolas; no se identifica con el Dragón de Erendriel. Dragón y demonio son denominaciones de los viajeros, sin cambio de naturaleza demostrado."
+    },
+    {
+      "id": "42-008",
+      "titulo": "Ione promete proteger a Jack y le confía su gorro",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Jack reconoce que antes pertenecía a la Marina y teme no ser un buen pirata al combatir contra ella. Ione le promete que saldrá vivo mientras permanezca en su barco y participe a su lado. Le entrega su gorro de capitana para que lo guarde y le pide que se lo devuelva al terminar. Sonríe para animarlo aunque también siente miedo.",
+      "inicio": "00:15:43.480",
+      "fin": "00:17:06.029",
+      "cita": "así que no te preocupes, saldrás vivo,",
+      "evidencia_cue": {
+        "inicio": "00:16:20.880",
+        "fin": "00:16:25.870",
+        "texto": "así que no te preocupes, saldrás vivo,"
+      },
+      "entidades": [
+        "Jack",
+        "Ione",
+        "Marina",
+        "Zampaolas",
+        "Gorro de capitana de Ione"
+      ],
+      "ambito": "preparativos y comienzo de la batalla por Shiaru",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La promesa no demuestra la supervivencia posterior de Jack. Jacki se vincula al Jack exmarine ya catalogado por el nombre, su pasado y su pertenencia a la misma tripulación."
+    },
+    {
+      "id": "42-009",
+      "titulo": "Poncelot regala a Ione un fular de alas de mosca",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Poncelot agradece a Ione que lo acogiera y lo tratara como uno de los suyos. Le entrega el paquete: un fular descrito por las vetas de alas de mosca y su transparencia. Ione se lo pone como bufanda, le da las gracias y lo abraza, para incomodidad protocolaria del caballero.",
+      "inicio": "00:17:08.880",
+      "fin": "00:18:53.990",
+      "cita": "vale. Bel fular de mosca que supongo que",
+      "evidencia_cue": {
+        "inicio": "00:18:17.799",
+        "fin": "00:18:19.630",
+        "texto": "vale. Bel fular de mosca que supongo que"
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Ione",
+        "Fular de alas de mosca de Ione"
+      ],
+      "ambito": "preparativos y comienzo de la batalla por Shiaru",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La descripción de los subtítulos es vacilante. No se atribuyen propiedades mágicas al fular ni se confirma que el material proceda de Merlucilla III."
+    },
+    {
+      "id": "42-010",
+      "titulo": "Mugre dispara accidentalmente contra Ione",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Un disparo interrumpe el abrazo. El director aplica tres puntos de daño a Ione y una ceguera de un turno a Poncelot por el contenido de la bolita que estalla. Mugre sostiene la pistola y pide perdón. La pérdida adicional de cuatro monedas no se ejecuta como tal porque Ione dice no tener dinero.",
+      "inicio": "00:18:54.000",
+      "fin": "00:20:27.430",
+      "cita": "Y veis que el que ha disparado es Mugre,",
+      "evidencia_cue": {
+        "inicio": "00:20:04.559",
+        "fin": "00:20:07.270",
+        "texto": "Y veis que el que ha disparado es Mugre,"
+      },
+      "entidades": [
+        "Mugre",
+        "Ione",
+        "Sir Poncelot"
+      ],
+      "ambito": "preparativos y comienzo de la batalla por Shiaru",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El proyectil se describe alternativamente con comida y un término censurado. No hay ataque confirmado de la Marina en la plaza; los efectos mezclan cartas o intervenciones de la mesa con la narración."
+    },
+    {
+      "id": "42-011",
+      "titulo": "Bonnie reclama la defensa de la libertad de Shiaru",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Bonnie impone silencio y llama a los presentes a defender Shiaru contra la Marina. Recuerda que acogió a compañeros como Eleanor, Poncelot e Ilikar y les exige permanecer en sus puestos. Presenta el poblado como un lugar donde ser libres bajo su autoridad y amenaza a quienes huyan.",
+      "inicio": "00:20:27.440",
+      "fin": "00:22:00.909",
+      "cita": "pero somos la escoria de Shiaru, así que",
+      "evidencia_cue": {
+        "inicio": "00:20:53.280",
+        "fin": "00:20:56.230",
+        "texto": "pero somos la escoria de Shiaru, así que"
+      },
+      "entidades": [
+        "Bonnie",
+        "Shiaru",
+        "Marina",
+        "Eleanor",
+        "Sir Poncelot",
+        "Ilikar"
+      ],
+      "ambito": "preparativos y comienzo de la batalla por Shiaru",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Las amenazas y la declaración de libertad pertenecen al discurso de Bonnie; no se representan huidas ni ejecuciones de desertores."
+    },
+    {
+      "id": "42-012",
+      "titulo": "La moneda de Bonnie acompaña su transformación eléctrica",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Bonnie saca la moneda de los capitanes piratas y la aprieta. Chisporrotea, sus ojos brillan azules y su aspecto cambia entre rayos; aparece un símbolo de rayo y se oscurece el cielo. Proclama que solo uno de los bandos conservará esas tierras y se dirige al muelle para embarcar.",
+      "inicio": "00:22:00.919",
+      "fin": "00:23:12.430",
+      "cita": "capitanes piratas, veis que se la pone",
+      "evidencia_cue": {
+        "inicio": "00:22:06.200",
+        "fin": "00:22:08.390",
+        "texto": "capitanes piratas, veis que se la pone"
+      },
+      "entidades": [
+        "Bonnie",
+        "Moneda pirata de Bonnie",
+        "Cinco reyes piratas",
+        "Shiaru"
+      ],
+      "ambito": "preparativos y comienzo de la batalla por Shiaru",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Se representa la activación y sus efectos visibles, sin explicar el origen de la moneda, sus límites completos o una maldición demostrada."
+    },
+    {
+      "id": "42-013",
+      "titulo": "Los defensores embarcan y ocupan sus puestos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los piratas corren a los muelles. Ione llama a los Zampaolas a hacer rugir los mares y los cañones y procura dar seguridad a sus compañeros. Poncelot monta al tigre y embarca; Ilikar sigue a su capitana y Jack va tras él. Mugre orienta a Ojo Ausente cuando toma la dirección equivocada. En el Zampaolas están los trillizos, los cañones y la ballesta; Ojo Ausente sube a vigilar, Mugre baja a preparar comida y Baps revisa los cañones olfateándolos.",
+      "inicio": "00:23:12.440",
+      "fin": "00:28:47.630",
+      "cita": "Vale. Ione empieza a correr al barco, se",
+      "evidencia_cue": {
+        "inicio": "00:24:38.559",
+        "fin": "00:24:40.750",
+        "texto": "Vale. Ione empieza a correr al barco, se"
+      },
+      "entidades": [
+        "Ione",
+        "Tripulación del Zampaolas",
+        "Zampaolas",
+        "Sir Poncelot",
+        "Merlucilla IV",
+        "Ilikar",
+        "Jack",
+        "Mugre",
+        "Ojo Ausente",
+        "Baps"
+      ],
+      "ambito": "preparativos y comienzo de la batalla por Shiaru",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La mención colectiva de los trillizos no asigna acciones separadas a Mingo, Mango o Mungo. No debe confundirse el tigre con el tiburón Merlucilla V de la extracción anterior."
+    },
+    {
+      "id": "42-014",
+      "titulo": "Poncelot prepara una armadura improvisada para el tigre",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Sir Poncelot ajusta su armadura y armas y explica que ha preparado una protección improvisada para su montura con maderos y trozos de barril. Lleva casco y capa que describe como de sierpes. La mesa aclara entre bromas que esas piezas no prueban trofeos de auténticos dragones.",
+      "inicio": "00:28:52.440",
+      "fin": "00:30:02.750",
+      "cita": "maderos y trozos de barril y demás, le",
+      "evidencia_cue": {
+        "inicio": "00:29:08.080",
+        "fin": "00:29:11.110",
+        "texto": "maderos y trozos de barril y demás, le"
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Merlucilla IV"
+      ],
+      "ambito": "preparativos y comienzo de la batalla por Shiaru",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Las bromas sobre un conjunto de matadragones no acreditan que Poncelot haya matado a esos dragones ni permiten identificar el origen de cada pieza."
+    },
+    {
+      "id": "42-015",
+      "titulo": "Siete barcos piratas salen bajo la tormenta",
+      "tipo": "explicacion_director",
+      "afirmacion": "El director describe cinco barcos piratas además del Zampaolas y del enorme buque de Bonnie. La pequeña flota incluye cascos deteriorados y artillería de funcionamiento incierto. Dejan espacio para el Zampaolas y avanzan bajo un cielo negro, lluvia y relámpagos.",
+      "inicio": "00:30:07.559",
+      "fin": "00:31:08.830",
+      "cita": "son cinco barcos más el vuestro y el de",
+      "evidencia_cue": {
+        "inicio": "00:30:18.240",
+        "fin": "00:30:22.110",
+        "texto": "son cinco barcos más el vuestro y el de"
+      },
+      "entidades": [
+        "Bonnie",
+        "Zampaolas",
+        "Relámpago del Mar",
+        "Shiaru",
+        "Tripulación del Zampaolas"
+      ],
+      "ambito": "preparativos y comienzo de la batalla por Shiaru",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La cifra corresponde a la flota descrita antes del enfrentamiento, no a los supervivientes posteriores. La artillería averiada se plantea como posibilidad general, sin inventario por buque."
+    },
+    {
+      "id": "42-016",
+      "titulo": "La Marina forma dos líneas de fuego frente a los piratas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Numerosos barcos de guerra de la Marina aparecen desde el sur, en dirección del Fuerte Aurora, con velas blancas, madera cuidada y muchos cañones. Los piratas empiezan a disparar sin una formación clara. La Marina espera, gira sus naves de costado y escalona dos filas para permitir que ambas disparen sin alcanzarse entre sí.",
+      "inicio": "00:31:35.600",
+      "fin": "00:35:42.670",
+      "cita": "para que puedan disparar las dos filas",
+      "evidencia_cue": {
+        "inicio": "00:35:33.320",
+        "fin": "00:35:35.069",
+        "texto": "para que puedan disparar las dos filas"
+      },
+      "entidades": [
+        "Marina",
+        "Fuerte Aurora",
+        "Shiaru",
+        "Bonnie"
+      ],
+      "ambito": "preparativos y comienzo de la batalla por Shiaru",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se da un total exacto de barcos de la Marina. La formación táctica no demuestra todavía que haya destruido ningún buque pirata."
+    },
+    {
+      "id": "42-017",
+      "titulo": "Ione decide flanquear por los arrecifes",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ione pregunta si el Zampaolas puede cruzar entre las rocas. El director permite el paso, advirtiendo del riesgo de roturas en el arrecife. La capitana ordena dirigirse allí para rodear a la Marina y atacar por detrás, aprovechando el menor calado de su barco. El Zampaolas empieza la maniobra.",
+      "inicio": "00:35:48.040",
+      "fin": "00:37:59.510",
+      "cita": "\"Rodeémoslos,",
+      "evidencia_cue": {
+        "inicio": "00:37:02.200",
+        "fin": "00:37:03.990",
+        "texto": "\"Rodeémoslos,"
+      },
+      "entidades": [
+        "Ione",
+        "Zampaolas",
+        "El Garfio",
+        "Marina"
+      ],
+      "ambito": "preparativos y comienzo de la batalla por Shiaru",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La decisión y el movimiento inicial no garantizan el flanqueo completo ni que otros barcos puedan seguir el mismo recorrido sin daños."
+    },
+    {
+      "id": "42-018",
+      "titulo": "El Relámpago del Mar avanza con Bonnie preparando rayos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El buque de Bonnie, llamado Relámpago del Mar, avanza entre las otras naves. Parece despedir rayos. Bonnie reprende a los piratas por gastar munición antes de tiempo y levanta una mano donde se acumulan chispas, preparando una acción.",
+      "inicio": "00:37:59.520",
+      "fin": "00:38:34.510",
+      "cita": "del mar de Bonnie, veis que tira hacia",
+      "evidencia_cue": {
+        "inicio": "00:38:01.040",
+        "fin": "00:38:04.950",
+        "texto": "del mar de Bonnie, veis que tira hacia"
+      },
+      "entidades": [
+        "Bonnie",
+        "Relámpago del Mar",
+        "Moneda pirata de Bonnie"
+      ],
+      "ambito": "preparativos y comienzo de la batalla por Shiaru",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El nombre del buque procede de la continuidad del pasaje. La acción preparada aún no se resuelve en este bloque y no se atribuye cada descarga del barco directamente a la moneda."
+    },
+    {
+      "id": "42-019",
+      "titulo": "Nox navega con Tórtola a bordo del Invictus",
+      "tipo": "explicacion_director",
+      "afirmacion": "La narración muestra al Invictus, buque de Tórtola, navegando hacia el norte fuera del primer despliegue. El director lo presenta como un barco al que nadie ha logrado derrotar ni dañar el casco. Tórtola gobierna un pequeño timón instalado en el enorme principal, asistido por un hombre. Nox come junto al timón, vestido con ropa limpia y nueva, antes de observar las naves con el catalejo.",
+      "inicio": "00:38:36.800",
+      "fin": "00:40:52.230",
+      "cita": "Y vemos el Invictus.",
+      "evidencia_cue": {
+        "inicio": "00:39:01.440",
+        "fin": "00:39:05.030",
+        "texto": "Y vemos el Invictus."
+      },
+      "entidades": [
+        "Invictus",
+        "Tórtola",
+        "Nox",
+        "Marina"
+      ],
+      "ambito": "preparativos y comienzo de la batalla por Shiaru",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La reputación de invicto no equivale a una invulnerabilidad mecánica demostrada. No se crea un personaje para el ayudante sin nombre."
+    },
+    {
+      "id": "42-020",
+      "titulo": "Nox advierte del poder de Bonnie y Tórtola muestra una luz verde",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tórtola dice mantener a Nox a bordo porque todavía puede utilizarlo. Ambos observan la formación pirata y hablan de atacar por detrás. Nox llama la atención sobre el buque mayor y la tormenta repentina y advierte del poder de Bonnie. Tórtola responde que también tiene sus trucos y muestra una luz verde al mover el ala. En la mesa se identifica el gesto con desintegrar.",
+      "inicio": "00:40:52.240",
+      "fin": "00:43:10.349",
+      "cita": "yo también tengo mis trucos.",
+      "evidencia_cue": {
+        "inicio": "00:42:41.400",
+        "fin": "00:42:44.710",
+        "texto": "yo también tengo mis trucos."
+      },
+      "entidades": [
+        "Nox",
+        "Tórtola",
+        "Bonnie",
+        "Invictus",
+        "Relámpago del Mar",
+        "Marina"
+      ],
+      "ambito": "preparativos y comienzo de la batalla por Shiaru",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La identificación de desintegrar se comenta fuera del diálogo: el director distingue lo que reconocen los jugadores de lo que saben sus personajes. No se ha lanzado aún el conjuro contra un objetivo en este intervalo."
+    },
+    {
+      "id": "42-021",
+      "titulo": "Nox propone una ruta por el arrecife y Tórtola manda barcos delante",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox recomienda que los barcos de detrás sigan en línea recta para no encallar. Tórtola advierte que el plan debe funcionar por el bien de ambos y ordena situar delante las naves pequeñas, de modo que encallen antes que el Invictus si algo falla. Nox anuncia que irá a proa para señalar el camino, pero mira a ambos lados y entra en el interior del barco.",
+      "inicio": "00:43:10.359",
+      "fin": "00:44:18.829",
+      "cita": "en línea recta. Cualquier desvío les",
+      "evidencia_cue": {
+        "inicio": "00:43:26.160",
+        "fin": "00:43:28.069",
+        "texto": "en línea recta. Cualquier desvío les"
+      },
+      "entidades": [
+        "Nox",
+        "Tórtola",
+        "Invictus",
+        "Marina",
+        "El Garfio"
+      ],
+      "ambito": "preparativos y comienzo de la batalla por Shiaru",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El pasaje no prueba por sí solo un sabotaje consumado ni que las naves lleguen a encallar. La promesa de ir a proa precede a la decisión visible de bajar al interior."
+    },
+    {
+      "id": "42-022",
+      "titulo": "Nox encuentra a una figura encadenada en los calabozos del Invictus",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Al bajar, Nox se cruza con un marine que se queja de algo que el capitán ha traído. Sigue hacia los calabozos que había examinado. Un guardia abandona la zona al oír órdenes de preparación y Nox ve una gran jaula con una figura humanoide agachada y oscura, suspendida o sujeta por enormes cadenas en los brazos.",
+      "inicio": "00:44:21.040",
+      "fin": "00:45:54.309",
+      "cita": "verías una una jaula grande y dentro",
+      "evidencia_cue": {
+        "inicio": "00:45:27.520",
+        "fin": "00:45:31.910",
+        "texto": "verías una una jaula grande y dentro"
+      },
+      "entidades": [
+        "Nox",
+        "Invictus",
+        "Marina",
+        "Pinky"
+      ],
+      "ambito": "preparativos y comienzo de la batalla por Shiaru",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "En este intervalo no se identifica la especie, nombre o naturaleza de la figura. La etiqueta Pinky procede de la identificación posterior del mismo cautivo en el capítulo; su silueta no demuestra por sí sola una conexión con la criatura de Aurora. No se representa aún su liberación."
+    },
+    {
+      "id": "42-023",
+      "titulo": "La Marina comienza a avanzar y disparar",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La narración vuelve al enfrentamiento naval. Las naves de la Marina empiezan a avanzar y a disparar; el director sitúa impactos sobre objetivos del combate. El bloque termina mientras continúa esa primera descarga.",
+      "inicio": "00:45:54.319",
+      "fin": "00:47:03.309",
+      "cita": "empiezan a disparar. Voy a hacer un",
+      "evidencia_cue": {
+        "inicio": "00:46:18.960",
+        "fin": "00:46:20.950",
+        "texto": "empiezan a disparar. Voy a hacer un"
+      },
+      "entidades": [
+        "Marina",
+        "El Garfio"
+      ],
+      "ambito": "preparativos y comienzo de la batalla por Shiaru",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El corte del bloque no contiene aún un balance de daños, hundimientos ni bajas."
+    }
+  ],
+  "misiones": [
+    "Defender Shiaru: Ione arma el Zampaolas y Bonnie reúne siete barcos piratas frente a una armada mayor. Empieza el combate sin resultado decidido en este tramo (42-002, 42-011–42-018, 42-023).",
+    "Flanquear a la Marina: Ione ordena cruzar el arrecife para buscar la retaguardia; el paso puede dañar el casco y la maniobra aún continúa (42-017).",
+    "Conseguir una patente de corso: Nox describe su trato con la Marina y colabora con Tórtola a bordo del Invictus, sin entrega documental mostrada (42-004, 42-019–42-021).",
+    "Buscar aliados para cazar al dragón: Ilikar regresa a Shiaru con esa intención, pero se incorpora a la batalla y no obtiene aquí una aceptación de Ione o Poncelot (42-003).",
+    "Proteger a Jack y conservar el gorro: Ione le promete apoyo y le confía el gorro hasta el final de la batalla; la devolución queda por comprobar (42-008)."
+  ],
+  "preguntas": [
+    "¿Qué ocurre con la figura humanoide encadenada que Nox encuentra en los calabozos del Invictus y por qué la transporta Tórtola? La silueta inicial no establece identidad ni especie (42-022).",
+    "¿Obtendrá Nox la patente de corso que persigue y qué pretende al bajar a los calabozos después de anunciar que guiaría desde proa? Su presencia con la Marina no acredita todavía el resultado de su trato (42-004, 42-019–42-022).",
+    "¿Conseguirá el Zampaolas cruzar el arrecife y flanquear a la Marina sin romper el casco? La orden y el movimiento inicial no prueban el éxito (42-017).",
+    "¿Volverá Jack para devolver el gorro a Ione cuando termine la batalla? La promesa de protección no anticipa su supervivencia (42-008)."
+  ],
+  "contradicciones": [
+    "El director llama a Tórtola capitán y almirante durante la misma operación. El apelativo inicial Paloma parece un juego o variante; no se crea otra autoridad ni se resuelve por ello la identidad del Tórtola distinto referido en órdenes antiguas (42-004, 42-019–42-021).",
+    "La mesa reconoce desintegrar en la luz verde de Tórtola, pero el director distingue el conocimiento de jugadores y personajes. No se atribuye automáticamente ese saber a Nox u otros viajeros (42-020).",
+    "La patente de corso es el objetivo de Nox, la seguridad de Jack es una promesa y el flanqueo por el arrecife una maniobra iniciada: ninguna de esas formulaciones demuestra su resultado (42-004, 42-008, 42-017).",
+    "El tigre embarcado es Merlucilla IV, distinto del tiburón Merlucilla V. Las bromas sobre objetos de matadragones no convierten sus materiales en trofeos de dragones verdaderos (42-013–42-014).",
+    "La activación de la moneda y la transformación eléctrica de Bonnie se muestran; el origen, la maldición y los límites del poder no se explican por completo (42-012, 42-018)."
+  ],
+  "nombres_dudosos": [
+    "Sir Poncelot/Sir Ponce y variantes, Ione/Yone/Jones e Ilikar/Ilicar/Icar corresponden a los viajeros ya catalogados por continuidad de sus turnos (42-001–42-003, 42-008–42-009).",
+    "Jacki/Jack es el exmarine del Zampaolas ya catalogado, por nombre, pasado y pertenencia al mismo grupo. No se crea una segunda persona por la variante de los subtítulos (42-006, 42-008, 42-013).",
+    "El nombre cortado cloroalgo del dragón no basta para fijar una grafía o unir al dragón de Iktan con Clodidrax. Poncelot sigue siendo un aliado buscado, sin aceptación representada (42-003).",
+    "Relámpago del Mar denomina el buque de Bonnie en el avance. Invictus es el de Tórtola; ambos permanecen separados del Zampaolas (42-018–42-019).",
+    "Alice es un nombre mencionado en el encargo del paquete, sin identificación suficiente para nueva ficha. El fular no queda ligado materialmente a Merlucilla III (42-001, 42-009).",
+    "La figura encadenada del Invictus no se nombra en su primera aparición. La identificación posterior con Pinky se integra en la ficha, manteniendo la incertidumbre de esa primera visión y sin crear otra identidad (42-022).",
+    "El ser del barril de arena se vincula contextualmente a Cipo por su relación con Ilikar y su presencia posterior en el Zampaolas. Los viajeros lo llaman bebé dragón o demonio, sin identificarlo con el Dragón de Erendriel (42-007)."
+  ],
+  "historias_entidades": [
+    {
+      "nombre": "Sir Poncelot",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "Un obsequio antes de la batalla",
+          "texto": "Poncelot ayuda a preparar el Zampaolas y recoge un regalo para Ione. Le agradece que lo haya acogido y le entrega un fular de alas de mosca; ella se lo pone y lo abraza. Tras el accidente de Mugre y el llamamiento de Bonnie, embarca con el tigre Merlucilla IV, protegido con maderos y trozos de barril. La experiencia contra dragones que le atribuye Ilikar no representa una nueva hazaña ni su aceptación de esa caza.",
+          "referencias": [
+            "42-001",
+            "42-003",
+            "42-009",
+            "42-010",
+            "42-013",
+            "42-014"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Ione",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "Capitana entre el miedo y las promesas",
+          "texto": "Ione prepara el Zampaolas para un combate frontal y trata de sostener el ánimo de sus compañeros. A Jack, preocupado por enfrentarse a su antigua Marina, le promete que saldrá vivo y le confía el gorro de capitana para que se lo devuelva al terminar. Recibe con afecto el regalo de Poncelot y después anima a la tripulación a embarcar. Ante la formación enemiga, decide buscar su retaguardia cruzando el arrecife con el barco de menor calado.",
+          "referencias": [
+            "42-002",
+            "42-008",
+            "42-009",
+            "42-013",
+            "42-017"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Ilikar",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "El regreso a la tripulación",
+          "texto": "Después de entrenar con Tortas y compartir la amenaza del dragón verde, Ilikar vuelve a Shiaru para buscar ayuda. Encuentra a Ione preparando la defensa y la acompaña: ayuda con el barco, recoge un arma y asegura que el ser de fuego al que llaman pequeño dragón está apartado en un barril de arena. Embarca tras su capitana mientras Jack lo sigue. No se representa un acuerdo nuevo para cazar al dragón.",
+          "referencias": [
+            "42-003",
+            "42-007",
+            "42-013"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Nox",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "A bordo del Invictus",
+          "texto": "Nox declara que busca una patente de corso mediante su trato con la Marina. Tras examinar varios barcos, navega con Tórtola en el Invictus y conversa con él sobre cómo atacar a los piratas. Advierte del poder de Bonnie y recomienda mantener una ruta por el arrecife. Aunque dice que irá a proa, baja al interior y encuentra una figura humanoide encadenada en una jaula. Su presencia a bordo no demuestra que ya haya recibido la patente ni explica aún su decisión de buscar los calabozos.",
+          "referencias": [
+            "42-004",
+            "42-019",
+            "42-020",
+            "42-021",
+            "42-022"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Bonnie",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "La tormenta sobre Shiaru",
+          "texto": "Bonnie reúne a los defensores de Shiaru y los exhorta a combatir a la Marina. Al apretar su moneda pirata cambia de aspecto entre rayos y el cielo se oscurece. Embarca, avanza en el Relámpago del Mar y prepara una nueva descarga mientras exige a sus aliados que dejen de malgastar munición. El discurso y la transformación no resuelven todavía el resultado de la batalla ni el origen de su poder.",
+          "referencias": [
+            "42-011",
+            "42-012",
+            "42-015",
+            "42-018"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Jack",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "Jacki es una variante contextual del Jack exmarine del Zampaolas, sin nueva identidad.",
+      "etapas": [
+        {
+          "titulo": "El gorro confiado por Ione",
+          "texto": "Antes de la batalla Jack reconoce que su pasado en la Marina lo hace temer no estar a la altura como pirata. Ione le ofrece protección y le entrega su gorro de capitana, que Jack promete devolver cuando termine el enfrentamiento. Sigue a Ilikar al embarcar. La promesa compartida documenta confianza y preocupación; no anticipa su supervivencia.",
+          "referencias": [
+            "42-008",
+            "42-013"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Tórtola",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "Una aproximación por la retaguardia",
+          "texto": "Tórtola gobierna el Invictus mientras su armada encara a los defensores de Shiaru. Mantiene a Nox a bordo por su utilidad y escucha sus advertencias sobre Bonnie. Responde mostrando una luz verde y ordena que los barcos pequeños entren antes que su nave en la ruta del arrecife. Los rangos de capitán y almirante alternan en el diálogo; no crean dos personas en esta escena.",
+          "referencias": [
+            "42-019",
+            "42-020",
+            "42-021"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Mugre",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "Un disparo antes del combate",
+          "texto": "En los preparativos de Shiaru Mugre dispara accidentalmente una pistola y alcanza a Ione; pide perdón y aparta el arma. Después ayuda a Ojo Ausente a tomar el camino de los muelles y, ya en el Zampaolas, baja a preparar comida mientras la tripulación ocupa sus puestos.",
+          "referencias": [
+            "42-010",
+            "42-013"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Ojo Ausente",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "Volver al puesto de vigía",
+          "texto": "La confusión de Ojo Ausente persiste durante la concentración: mira en dirección contraria a Bonnie y después se encamina hacia el lado equivocado. Mugre lo corrige. En el Zampaolas vuelve a subir al puesto de vigía pese a sus problemas de visión.",
+          "referencias": [
+            "42-006",
+            "42-013"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Baps",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "Preparativos entre comida y cañones",
+          "texto": "Baps aparece más pendiente de lo que encuentra en el suelo que de la reunión. Cuando advierte que los demás se han marchado, corre al muelle y embarca. A bordo del Zampaolas se acerca a olfatear los cañones como parte de su revisión.",
+          "referencias": [
+            "42-006",
+            "42-013"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Gobs",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "Instrumental para la defensa",
+          "texto": "Gobs acude a la concentración de Shiaru y organiza agujas, una sierra y un taladro en su mochila antes de la batalla. El pasaje muestra su disposición y su instrumental, sin representar una intervención médica.",
+          "referencias": [
+            "42-006"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Armin",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "Dos mazos en la plaza",
+          "texto": "Armin espera entre los defensores reunidos en la plaza de Shiaru con dos mazos enormes. Su presencia lo sitúa en la preparación de la defensa, sin atribuirle todavía bajas o reparaciones concretas durante el enfrentamiento.",
+          "referencias": [
+            "42-006"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Molly",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "Junto a Bonnie en los preparativos",
+          "texto": "Molly conversa con Bonnie durante la concentración de los defensores de Shiaru. La escena conserva su cercanía en los preparativos contra la armada, sin transcribir el contenido de esa conversación ni adjudicarle una orden naval.",
+          "referencias": [
+            "42-006",
+            "42-011"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Merlucilla IV",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "Un tigre a bordo del Zampaolas",
+          "texto": "Poncelot monta de nuevo al tigre para llegar al muelle y embarcar en el Zampaolas. Antes de la batalla explica que le ha improvisado protección con maderos y partes de barril. Este regreso corresponde al tigre Merlucilla IV, no transforma al tiburón de la extracción del barco en un felino.",
+          "referencias": [
+            "42-013",
+            "42-014"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Cipo",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "El supuesto dragón en un barril de arena",
+          "texto": "Durante los preparativos, Poncelot pregunta por el ser de fuego que acompaña a Ilikar y lo llama bebé dragón rojo. Ilikar afirma que está en el barco e Ione explica que lo han dejado en un barril de arena. La continuidad con el acompañante de Ilikar y la presencia posterior de Cipo en el Zampaolas sostienen la identificación contextual. Las denominaciones de dragón y demonio usadas por los viajeros no lo convierten en el Dragón de Erendriel ni establecen una naturaleza demoníaca.",
+          "referencias": [
+            "42-007"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Shiaru",
+      "tipo": "lugar",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "Una defensa reunida en la plaza",
+          "texto": "Los habitantes y aliados de Shiaru se concentran en la plaza para afrontar a la Marina. Bonnie invoca la acogida dada a los viajeros y reclama defender la libertad del poblado. Después de los discursos los piratas embarcan y la defensa se desplaza al mar, donde se aproxima una flota mayor desde Aurora.",
+          "referencias": [
+            "42-006",
+            "42-011",
+            "42-013",
+            "42-016"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "El Garfio",
+      "tipo": "lugar",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "Un arrecife entre dos maniobras",
+          "texto": "El arrecife condiciona la primera fase de la batalla naval. Ione intenta aprovechar el menor calado del Zampaolas para rodear la formación enemiga; el director advierte que cruzarlo puede romper el casco. En el Invictus, Nox propone una ruta recta y Tórtola manda las naves pequeñas delante para proteger la suya. La coincidencia de ambas maniobras no demuestra por sí sola que el paso sea seguro o que los barcos encallen.",
+          "referencias": [
+            "42-017",
+            "42-021"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Zampaolas",
+      "tipo": "objeto",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "Preparado para cruzar el arrecife",
+          "texto": "Ione repara y equipa el Zampaolas con artillería, munición encadenada, pólvora, aceite y una ballesta. La tripulación ocupa sus puestos y el barco se integra en la pequeña flota de Bonnie. Al ver las filas de la Marina, la capitana decide cruzar el arrecife para atacar por detrás, aprovechando su menor calado sin eliminar el riesgo de daños.",
+          "referencias": [
+            "42-002",
+            "42-013",
+            "42-015",
+            "42-017"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Tripulación del Zampaolas",
+      "tipo": "faccion",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "Lealtades antes de la batalla",
+          "texto": "Ione prepara a sus compañeros para combatir y les dirige palabras de ánimo. Jack expresa su miedo a pelear contra su antigua Marina y recibe una promesa de protección. Poncelot e Ilikar la siguen al barco junto a los demás; Ojo Ausente vuelve a vigilar y Mugre baja a la cocina. Nox, expulsado según su propio relato, está entretanto con Tórtola buscando una patente de corso.",
+          "referencias": [
+            "42-004",
+            "42-008",
+            "42-013"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Marina",
+      "tipo": "faccion",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "La armada ante Shiaru",
+          "texto": "La Marina despliega desde el sur numerosos barcos de guerra y espera el avance de los piratas con dos filas escalonadas. Tórtola navega en el Invictus junto a Nox, que ha estudiado varios buques y colabora en la aproximación por el arrecife. El almirante coloca barcos menores delante del suyo y las primeras naves comienzan a avanzar y disparar. Todavía no hay un balance de la batalla.",
+          "referencias": [
+            "42-004",
+            "42-016",
+            "42-019",
+            "42-020",
+            "42-021",
+            "42-023"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Moneda pirata de Bonnie",
+      "tipo": "objeto",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "Rayos y cambio de aspecto",
+          "texto": "Bonnie aprieta la moneda de los capitanes piratas durante su discurso. Su cuerpo chisporrotea, sus ojos brillan azules y aparece un aspecto marcado por el rayo mientras se oscurece el cielo. Después prepara descargas desde el barco. La activación se observa, pero no explica la procedencia del objeto o todos sus límites.",
+          "referencias": [
+            "42-012",
+            "42-018"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Gorro de capitana de Ione",
+      "tipo": "objeto",
+      "nueva": true,
+      "descripcion": "Gorro de capitana que Ione confía a Jack antes de la batalla del Arrecife del Garfio.",
+      "nota": "No confundirlo con el casco de Poncelot. La entrega no otorga a Jack el mando del Zampaolas.",
+      "etapas": [
+        {
+          "titulo": "Una custodia para el final de la batalla",
+          "texto": "Ante el miedo de Jack, Ione se quita el gorro de capitana y se lo entrega para que lo guarde. Le pide que se lo devuelva al terminar el combate y él acepta. El objeto convierte la promesa de protección en una tarea compartida, todavía sin devolución mostrada en este tramo.",
+          "referencias": [
+            "42-008"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Fular de alas de mosca de Ione",
+      "tipo": "objeto",
+      "nueva": true,
+      "descripcion": "Fular transparente descrito con alas de mosca, regalado por Poncelot a Ione antes de la batalla.",
+      "nota": "Descripción y material de lectura provisional; no establecer que proceda de la montura muerta del gnomo.",
+      "etapas": [
+        {
+          "titulo": "Un agradecimiento de Poncelot",
+          "texto": "Poncelot encarga y recoge un paquete antes de embarcar. Se lo entrega a Ione como agradecimiento por haberlo acogido y tratado como compañero. El regalo se describe como un fular transparente con vetas de alas de mosca; Ione se lo pone y abraza al gnomo. No se presentan propiedades mágicas ni una procedencia de Merlucilla III.",
+          "referencias": [
+            "42-001",
+            "42-009"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Relámpago del Mar",
+      "tipo": "objeto",
+      "nueva": true,
+      "descripcion": "Enorme buque de Bonnie que participa en la defensa naval de Shiaru.",
+      "nota": "Nombre leído en el pasaje del avance; no confundirlo con el Zampaolas ni atribuirle la reputación del Invictus.",
+      "etapas": [
+        {
+          "titulo": "La nave de Bonnie entre rayos",
+          "texto": "El enorme barco de Bonnie forma con el Zampaolas y otras cinco naves la pequeña flota defensora de Shiaru. Bajo la tormenta adelanta a los barcos piratas y parece desprender rayos mientras Bonnie prepara chispas y ordena no malgastar munición. El relato lo llama Relámpago del Mar.",
+          "referencias": [
+            "42-015",
+            "42-018"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Invictus",
+      "tipo": "objeto",
+      "nueva": true,
+      "descripcion": "Buque de Tórtola, presentado como nunca derrotado, donde Nox encuentra una jaula en los calabozos.",
+      "nota": "La reputación de invicto no acredita invulnerabilidad mecánica. Su cautivo no queda identificado en el primer tramo.",
+      "etapas": [
+        {
+          "titulo": "La aproximación de Tórtola",
+          "texto": "El Invictus navega hacia el norte con Tórtola y Nox a bordo mientras el resto de la armada forma ante los piratas. El director lo presenta como una nave nunca derrotada ni dañada. Tórtola ordena colocar barcos menores delante durante la aproximación por el arrecife. En sus niveles inferiores Nox encuentra una jaula con una figura humanoide encadenada, aún sin identificar.",
+          "referencias": [
+            "42-019",
+            "42-020",
+            "42-021",
+            "42-022"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Pinky",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "Identidad integrada tras la identificación del bloque posterior; el relato de la primera visión conserva la incertidumbre de Nox.",
+      "etapas": [
+        {
+          "titulo": "Una silueta en los calabozos del Invictus",
+          "texto": "Al bajar por el interior del Invictus, Nox encuentra una gran jaula vigilada por un marine que se marcha al comenzar los preparativos. Dentro hay una figura humanoide oscura y agachada, sujeta por enormes cadenas en los brazos. La primera visión no la identifica; el nombre Pinky procede del reconocimiento posterior en este capítulo. El aspecto inicial no establece por sí solo motivo o duración del cautiverio.",
+          "referencias": [
+            "42-022"
+          ]
+        }
+      ]
+    }
+  ]
+}

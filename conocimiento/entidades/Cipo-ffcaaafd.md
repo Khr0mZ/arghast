@@ -8,11 +8,11 @@ Cipo/Cibo/Zipo son variantes del elemental. No todos los familiares o reptiles d
 
 Etiquetas agrupadas: Cipo; Cipo (grafía provisional); Cipo / Cibo (elemental de fuego, grafía provisional); Cipo / Zipo (grafía provisional).
 
-Base para revisar equivalencia: [01-022](../capitulos/01.md), [27-003](../capitulos/27.md), [36-009](../capitulos/36.md).
+Base para revisar equivalencia: [01-022](../capitulos/01.md), [27-003](../capitulos/27.md), [36-009](../capitulos/36.md), [42-007](../capitulos/42.md), [42-036](../capitulos/42.md), [42-045](../capitulos/42.md), [42-050](../capitulos/42.md), [42-057](../capitulos/42.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### Una presencia de fuego junto a Mamá
 
@@ -37,6 +37,24 @@ Fuentes: [40-003 · Cipo rescata un fragmento de espada y Leona guía a Ilikar](
 Chopito descubre una silueta en el agua y Tentacol encuentra a Cipo ennegrecido, humeante y debilitado. Lo acerca al fuego hasta que recupera el rojo y las llamas. Naór lo reconoce y más tarde el director lo señala entre los asistentes al festival. Queda documentado su paradero después de la patada, sin que se informe a Ilikar en escena o se revele la historia del fragmento de espada.
 
 Fuentes: [41-008 · Tentacol rescata a Cipo del agua y lo acerca al fuego](../capitulos/41.md) · 00:18:07.000 · [41-009 · Naór ofrece respetos de Atlan y encarga a Leo vigilar la tortuga](../capitulos/41.md) · 00:21:23.000 · [41-014 · Cipo recupera sus llamas y Naór deja a Leo vigilado](../capitulos/41.md) · 00:38:03.000 · [41-024 · Vigilancia mágica del festival y presencia de Cipo](../capitulos/41.md) · 00:57:46.000.
+
+### El supuesto dragón en un barril de arena
+
+Durante los preparativos, Poncelot pregunta por el ser de fuego que acompaña a Ilikar y lo llama bebé dragón rojo. Ilikar afirma que está en el barco e Ione explica que lo han dejado en un barril de arena. La continuidad con el acompañante de Ilikar y la presencia posterior de Cipo en el Zampaolas sostienen la identificación contextual. Las denominaciones de dragón y demonio usadas por los viajeros no lo convierten en el Dragón de Erendriel ni establecen una naturaleza demoníaca.
+
+Fuentes: [42-007 · La tripulación sitúa al supuesto dragón de Ilikar en un barril de arena](../capitulos/42.md) · 00:10:43.200.
+
+### Un incendio y una cadena de regreso
+
+Poncelot utiliza un virote para enviar a Cipo a un barco de la Marina. El elemental cae sobre la cubierta y hace arder la madera mientras los ocupantes buscan agua. Más tarde intenta regresar al Zampaolas por la cadena del ancla; al cruzarse con Ilikar, que vuela hacia el barco incendiado, escucha su llamada y da la vuelta para subirse al goliat.
+
+Fuentes: [42-036 · Poncelot dispara a Cipo y prende una nave enemiga](../capitulos/42.md) · 01:08:34.880 · [42-045 · Ilikar se impulsa hacia el barco en llamas y llama a Cipo](../capitulos/42.md) · 01:24:34.960.
+
+### Fuego desde la cadena de Ilikar
+
+Cipo se sujeta a la cadena de Ilikar durante el abordaje. Mientras el goliat la gira, el elemental salpica fuego por el buque; el mástil acaba roto y la nave destrozada. Su presencia en otro barco se distingue de la de Pinky en el Invictus.
+
+Fuentes: [42-050 · Ilikar y Cipo derriban el mástil de un buque](../capitulos/42.md) · 01:35:06.560 · [42-057 · Nox cambia los emblemas del Invictus y Pinky prende la pólvora](../capitulos/42.md) · 01:49:27.280.
 
 ## Registros y evidencias
 
@@ -391,4 +409,44 @@ Tipo: `hecho_confirmado`.
 Los compañeros buscan el rastro de la infiltrada y vigilan al Anciano. La magia ilusoria deja un recorrido hacia la entrada, sin detectar otra aura semejante dentro del poblado. Leo es enviado a la taberna. Winscore observa que la estatua también brilla ante detectar magia, y Blink vigila desde una posición elevada. Los asistentes continúan bailando sin conocer el incidente. El director señala a Cipo en la fiesta como una pequeña llama que empieza a moverse y estirarse.
 
 El brillo acredita una detección mágica; no explica su causa. Cipo está identificado por el director en 01:01:20.599–01:01:30.349. No equiparar la estatua con la piedra sagrada ni asignar a ésta el aura.
+
+## [42-007 · La tripulación sitúa al supuesto dragón de Ilikar en un barril de arena](../capitulos/42.md) · 00:10:43.200
+
+Tipo: `declaracion_personaje`.
+
+Poncelot pregunta por el pequeño ser de fuego que acompaña a Ilikar, lo llama bebé dragón rojo y teme nuevos incendios. Ilikar asegura que está en el barco; Ione explica que el goliat lo ha puesto en un barril con arena. La capitana lo llama demonio por los desperfectos que le atribuye.
+
+No se abre el barril en este intervalo. La identificación contextual con Cipo se apoya en su vínculo con Ilikar desde el capítulo 40 y su presencia posterior en el Zampaolas; no se identifica con el Dragón de Erendriel. Dragón y demonio son denominaciones de los viajeros, sin cambio de naturaleza demostrado.
+
+## [42-036 · Poncelot dispara a Cipo y prende una nave enemiga](../capitulos/42.md) · 01:08:34.880
+
+Tipo: `hecho_confirmado`.
+
+Ione ordena atarse con cuerdas, preparar el ancla y acudir a la ballesta. Sir Poncelot coloca a Cipo sobre un virote y lo dispara contra un barco enemigo. El elemental cae sobre la cubierta, saluda y hace arder la madera a su alrededor; los marines intentan buscar agua. La acción no dirige a Cipo al Invictus.
+
+Las bromas sobre fabricar más Cipos no acreditan que puedan duplicarlo. Se muestra el incendio del barco, sin seguimiento individual de todos sus ocupantes.
+
+## [42-045 · Ilikar se impulsa hacia el barco en llamas y llama a Cipo](../capitulos/42.md) · 01:24:34.960
+
+Tipo: `hecho_confirmado`.
+
+Ilikar prepara su ancla con un barril de aceite y la lanza contra el barco que Cipo ha incendiado. La clava, tira de la nave para acercarla y utiliza la tensión para impulsarse hacia ella. Los tirones del ancla y de la cadena de Poncelot desplazan los barcos. Cipo había comenzado a regresar al Zampaolas por la cadena, pero Ilikar lo llama y el elemental da la vuelta para saltar sobre él. Antes de lanzarse, Ilikar reta a Poncelot a no ser el último.
+
+El bloque termina esta acción con Ilikar desplazándose hacia los barcos; no se anticipa aquí el resultado del abordaje o del choque.
+
+## [42-050 · Ilikar y Cipo derriban el mástil de un buque](../capitulos/42.md) · 01:35:06.560
+
+Tipo: `hecho_confirmado`.
+
+Ilikar toma una segunda poción antes de saltar al barco que arde. Pide a Cipo que se agarre a la cadena y salpique fuego. Gira la cadena, propaga las llamas y rompe el mástil, que cae sobre el capitán en el timón. El director confirma que ha destrozado el barco.
+
+No se identifica el contenido de esta segunda poción por nombre; el capitán de ese barco no queda identificado como Tórtola.
+
+## [42-057 · Nox cambia los emblemas del Invictus y Pinky prende la pólvora](../capitulos/42.md) · 01:49:27.280
+
+Tipo: `hecho_confirmado`.
+
+Al pasar junto al Zampaolas, Nox usa una imagen mayor para volver negras las velas del Invictus. La bandera blanca con una paloma cambia por una calavera de lobo con trenzas. Ordena a Pinko prender la pólvora; las manos de fuego encienden un reguero hacia la despensa, mientras menciona su búsqueda de Cipo.
+
+Pinko y Pinky se alternan para la misma intervención en el barco; el nombre de apariencia no crea otro personaje. El cambio de enseñas mediante ilusión no demuestra una nueva propiedad material del barco.
 

@@ -8,11 +8,11 @@ Objeto retirado por Nox, entregado a Bonnie y estudiado después. No fusiona ilu
 
 Etiquetas agrupadas: Ojo-orbe de serpiente (recuperado28); Ojo / esfera custodiada por Bonnie.
 
-Base para revisar equivalencia: [28-013](../capitulos/28.md), [28-019](../capitulos/28.md), [37-005](../capitulos/37.md), [37-017](../capitulos/37.md).
+Base para revisar equivalencia: [28-013](../capitulos/28.md), [28-019](../capitulos/28.md), [37-005](../capitulos/37.md), [37-017](../capitulos/37.md), [42-061](../capitulos/42.md).
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### Un ojo arrancado durante la huida
 
@@ -25,6 +25,12 @@ Fuentes: [28-013 · Ojo-orbe arrancado de una estatua](../capitulos/28.md) · 01
 Poncelot entrega el orbe a Bonnie y Nox le comunica sus visiones en privado. Más adelante ella afirma que también reacciona ante Citlali, aunque desconoce la relación. Nox propone estudiarlo para anticipar sucesos y lo obtiene prestado con la condición de mantenerlo en Shiaru. La tirada revela su intención de incumplirla y el capítulo termina con su salida en bote hacia el fuerte. No se muestra qué ocurre con el objeto después de ese viaje.
 
 Fuentes: [28-019 · Orbe entregado y visiones enviadas a Bonnie](../capitulos/28.md) · 01:43:00.000 · [28-021 · Anciana nativa y pacto de intercambio de información](../capitulos/28.md) · 01:53:00.000 · [37-005 · La esfera reacciona ante Citlali](../capitulos/37.md) · 00:32:00.000 · [37-017 · Bonnie presta el ojo con una condición que Nox planea incumplir](../capitulos/37.md) · 02:09:00.000 · [37-018 · Luna roba pólvora y Nox parte hacia el fuerte](../capitulos/37.md) · 02:14:00.000.
+
+### En la chaqueta antes del estallido
+
+Cuando va a escapar del Invictus, Nox nota los tatuajes de su espalda y encuentra el orbe con ojo de serpiente en su chaqueta. A continuación abandona el cabo y corre para detener a Tórtola. No se manifiesta una función del objeto ni se acredita una fuga provocada por él.
+
+Fuentes: [42-061 · Los tatuajes y el orbe preceden a la decisión de Nox de quedarse](../capitulos/42.md) · 01:58:47.960.
 
 ## Registros y evidencias
 
@@ -83,4 +89,12 @@ Tipo: `hecho_confirmado`.
 Luna finge beber para escuchar y toma una pequeña bolsa de pólvora del carro. Eleanor consulta los precios del mercado y coloca al caballo un cartel que lo declara propiedad de Poncelot, aunque el director indica que pertenece a Bonnie. Nox mira al Zampaolas y a Ione, se despide en voz baja, sube a un bote y se aleja al mar sin llamar la atención. Su jugador aclara que va al fuerte, no a Puerto Espadas.
 
 Se declara un destino, pero no se muestra la llegada. Llevarse el ojo incumple la condición. El cartel no acredita una transferencia autorizada del caballo.
+
+## [42-061 · Los tatuajes y el orbe preceden a la decisión de Nox de quedarse](../capitulos/42.md) · 01:58:47.960
+
+Tipo: `hecho_confirmado`.
+
+Nox mira alternativamente la cuerda, el mar y el Zampaolas. Nota los tatuajes de su espalda y encuentra en su chaqueta el orbe con ojo de serpiente. Suelta el cabo, echa una última mirada al Zampaolas y corre para sujetar a Tórtola e impedir que llegue al timón y desvíe el barco.
+
+La proximidad temporal no prueba que el orbe o los tatuajes lo dominen, lo protejan o le permitan escapar. Su efecto concreto queda sin explicar.
 

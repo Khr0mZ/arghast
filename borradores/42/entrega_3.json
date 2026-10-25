@@ -1,0 +1,1198 @@
+{
+  "bloque": 3,
+  "lectura_completa": true,
+  "primer_segmento": "c004313",
+  "ultimo_segmento": "c006467",
+  "etapas": [
+    {
+      "titulo": "Abordajes entre fuego y acero",
+      "texto": "Mientras Ione está indispuesta por la bebida, Sir Poncelot toma las órdenes desde la proa del Zampaolas y prepara el abordaje con Merlucilla. Ilikar salta hacia un barco incendiado después de tomar otra poción. Cipo se agarra a su cadena y va salpicando fuego mientras el goliat la hace girar. El mástil se rompe y cae sobre el capitán enemigo; el director confirma la destrucción del buque. Poncelot y su tigre atraviesan cubiertas, derriban a los artilleros y enlazan saltos hacia otros barcos. Ambos regresan al Zampaolas antes de que las naves abordadas se hundan. Bonnie prepara otra embestida luminosa mientras la Marina concentra sus disparos contra ella desde varios flancos.",
+      "referencias": [
+        "42-201",
+        "42-202",
+        "42-203",
+        "42-204",
+        "42-208"
+      ]
+    },
+    {
+      "titulo": "La última maniobra de Hawkins",
+      "texto": "En el Invictus, Tórtola rompe con el pico las cuerdas que lo retenían y se enfrenta a Nox sobre el mástil. Nox no encuentra hueco para herirlo y acepta una estocada en el estómago para tocarlo y paralizarlo. Después lo arroja abajo, se retira el estoque y baja sangrando hasta el timón. Al pasar junto al Zampaolas vuelve negras las velas mediante una imagen mayor y sustituye la paloma de la bandera por una calavera de lobo con trenzas. Ordena a Pinky, llamada también Pinko durante la escena, prender el reguero de pólvora que lleva a la despensa. La visión de la sangre y del pabellón conmueve a Ione. Nox le transmite que ya es una verdadera capitana y pide volver a su cubierta cuando termine, si ella lo permite. La promesa queda sin cumplirse en escena.",
+      "referencias": [
+        "42-205",
+        "42-206",
+        "42-207",
+        "42-209",
+        "42-210"
+      ]
+    },
+    {
+      "titulo": "El estallido del Invictus",
+      "texto": "Bonnie vuelve a atravesar la flota con su barco envuelto en rayos. Nox fija el rumbo del Invictus y se dispone a saltar al mar, pero Tórtola ha sobrevivido a la caída e intenta paralizarlo. Nox resiste y advierte que el aviar se acerca al timón. Nota entonces los tatuajes de su espalda y encuentra el orbe del ojo de serpiente en su chaqueta. No se explica qué hacen esas señales: Nox suelta la cuerda y corre para retener a Tórtola e impedir que desvíe el barco. El Invictus avanza ardiendo hasta que una enorme explosión arrasa la zona y sacude al Zampaolas. Algunos buques de la Marina se retiran. Ione se lanza con la ballesta hacia los restos; Poncelot llora intentando creer que Nox tenía un plan de huida e Ilikar ordena seguir a la capitana.",
+      "referencias": [
+        "42-211",
+        "42-212",
+        "42-213",
+        "42-214",
+        "42-215"
+      ]
+    },
+    {
+      "titulo": "Una búsqueda y cuatro banderas",
+      "texto": "Ione busca a Nox entre cascos rotos y cadáveres que no son el suyo. En forma de loba rastrea su olor sin encontrarlo; recuerda los años compartidos y el apoyo que él le había dado, pese al malentendido que los separaba. El Zampaolas llega a su lado y Bonnie se aproxima con pesar. Entonces aparece otra flota de la Marina, con un buque mayor que el Invictus. El agua se hiela y una tormenta de fuego destruye los barcos. Surgen cuatro buques con los emblemas de los reyes piratas que faltaban. Bonnie aparece en el Zampaolas, recoge su electricidad en la moneda y se la devuelve a Ione. Les exige marcharse. Ione acepta sacar a su tripulación de la batalla, aunque se niega a abandonar Shiaru y la búsqueda de Nox.",
+      "referencias": [
+        "42-216",
+        "42-217",
+        "42-218",
+        "42-219"
+      ]
+    },
+    {
+      "titulo": "El precio del secreto de Bonnie",
+      "texto": "Sin el poder de la moneda, el Relámpago del Mar queda rodeado por los otros cuatro buques. Sus capitanes suben por las pasarelas: la mujer Diente de Oro, el orangután Banana, el orco Sonriente y el humano Taylor. Este último reprocha a Bonnie sus ausencias y cuenta que capturó a un joven llamado, según recuerda, Jackie, cuando viajaba hacia Puerto de Espadas. El muchacho hablaba de una isla con grandes tesoros. Bonnie ya había leído la carta sobre ello. Taylor la acusa de ocultar Xoltacan y romper su pacto; ella enciende un puro y le responde con desprecio. Él coloca una pistola en su frente y dispara. El capítulo termina con la despedida del director a Bonnie, Nox y Pinky. La búsqueda no ha encontrado el cuerpo de Nox y no se representa la escena posterior al disparo.",
+      "referencias": [
+        "42-220",
+        "42-221",
+        "42-222",
+        "42-223",
+        "42-224"
+      ]
+    }
+  ],
+  "afirmaciones": [
+    {
+      "id": "42-201",
+      "titulo": "Sir Poncelot asume las órdenes mientras Ione está indispuesta",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El director explica que la capitana ha bebido del barril llevado por Ilikar y está indispuesta. Sir Poncelot se sitúa en el mascarón de proa, da órdenes contra los abordajes y pide aproximarse a los barcos enemigos para saltar con Merlucilla.",
+      "inicio": "01:33:30.400",
+      "fin": "01:34:39.229",
+      "cita": "porque pues gritándoles eh que que",
+      "evidencia_cue": {
+        "inicio": "01:34:03.560",
+        "fin": "01:34:05.510",
+        "texto": "porque pues gritándoles eh que que"
+      },
+      "entidades": [
+        "Ione",
+        "Sir Poncelot",
+        "Ilikar",
+        "Merlucilla IV",
+        "Zampaolas"
+      ],
+      "ambito": "batalla naval y desenlace en el Arrecife del Garfio",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La indisposición es transitoria; Ione vuelve a actuar más adelante. No acredita una sustitución permanente de capitana."
+    },
+    {
+      "id": "42-202",
+      "titulo": "Ilikar y Cipo derriban el mástil de un buque",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ilikar toma una segunda poción antes de saltar al barco que arde. Pide a Cipo que se agarre a la cadena y salpique fuego. Gira la cadena, propaga las llamas y rompe el mástil, que cae sobre el capitán en el timón. El director confirma que ha destrozado el barco.",
+      "inicio": "01:35:06.560",
+      "fin": "01:37:36.430",
+      "cita": "ataque a alguien o algo. Has destrozado",
+      "evidencia_cue": {
+        "inicio": "01:37:31.639",
+        "fin": "01:37:33.149",
+        "texto": "ataque a alguien o algo. Has destrozado"
+      },
+      "entidades": [
+        "Ilikar",
+        "Cipo",
+        "Marina"
+      ],
+      "ambito": "batalla naval y desenlace en el Arrecife del Garfio",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se identifica el contenido de esta segunda poción por nombre; el capitán de ese barco no queda identificado como Tórtola."
+    },
+    {
+      "id": "42-203",
+      "titulo": "Sir Poncelot y Merlucilla IV despejan cubiertas y regresan",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Sir Poncelot monta al tigre Merlucilla, salta contra un artillero y atraviesa las cubiertas embistiendo a los marines. El director admite que Ilikar y Poncelot saltan a otros barcos y los destrozan. Más adelante aclara que han vuelto al Zampaolas antes de que se hundan las naves abordadas.",
+      "inicio": "01:37:37.480",
+      "fin": "01:48:59.270",
+      "cita": "y veríais como los los vais destrozando.",
+      "evidencia_cue": {
+        "inicio": "01:40:17.560",
+        "fin": "01:40:20.669",
+        "texto": "y veríais como los los vais destrozando."
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Merlucilla IV",
+        "Ilikar",
+        "Zampaolas",
+        "Marina"
+      ],
+      "ambito": "batalla naval y desenlace en el Arrecife del Garfio",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Las referencias musicales de los jugadores no añaden transformaciones o poderes. No se fija un número individual de muertos ni de barcos para cada personaje."
+    },
+    {
+      "id": "42-204",
+      "titulo": "El Relámpago del Mar prepara otra embestida",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El barco de Bonnie vira después de destruir buques y vuelve a iluminarse para repetir su ataque a gran velocidad contra la flota.",
+      "inicio": "01:40:50.159",
+      "fin": "01:41:30.350",
+      "cita": "el barco empieza a iluminarse, ¿sabes?",
+      "evidencia_cue": {
+        "inicio": "01:41:13.840",
+        "fin": "01:41:16.629",
+        "texto": "el barco empieza a iluminarse, ¿sabes?"
+      },
+      "entidades": [
+        "Bonnie",
+        "Relámpago del Mar",
+        "Marina"
+      ],
+      "ambito": "batalla naval y desenlace en el Arrecife del Garfio",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La maniobra se prepara en este momento; la ejecución posterior se describe en otro pasaje."
+    },
+    {
+      "id": "42-205",
+      "titulo": "Tórtola rompe sus ataduras y se bate con Nox",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El aviar atado observa el caos de su barco y usa el pico para liberarse. Nox lo desafía desde el mástil con el estoque. Tórtola reprocha a Hawkins haber abusado de su confianza y ambos comienzan a combatir sobre el mástil.",
+      "inicio": "01:41:37.239",
+      "fin": "01:44:07.669",
+      "cita": "pelear con un capitán de la marina,",
+      "evidencia_cue": {
+        "inicio": "01:43:20.520",
+        "fin": "01:43:22.589",
+        "texto": "pelear con un capitán de la marina,"
+      },
+      "entidades": [
+        "Tórtola",
+        "Nox",
+        "Invictus"
+      ],
+      "ambito": "batalla naval y desenlace en el Arrecife del Garfio",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La continuidad del prisionero aviar y la identificación posterior del barco sostienen Tórtola. El vocativo Jones dirigido por Nox no crea otro adversario; no se identifica al Tórtola de unas órdenes antiguas."
+    },
+    {
+      "id": "42-206",
+      "titulo": "Nox acepta una estocada para paralizar a Tórtola",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Al no encontrar un hueco en la defensa de Tórtola, Nox permite que el estoque enemigo se clave en su estómago. Le agarra la muñeca y lanza un conjuro reconocido como Hold Person. El director confirma que el capitán queda paralizado y Nox gasta inspiración.",
+      "inicio": "01:44:07.679",
+      "fin": "01:45:19.629",
+      "cita": "queda totalmente paralizado, se queda",
+      "evidencia_cue": {
+        "inicio": "01:44:46.080",
+        "fin": "01:44:48.229",
+        "texto": "queda totalmente paralizado, se queda"
+      },
+      "entidades": [
+        "Nox",
+        "Tórtola"
+      ],
+      "ambito": "batalla naval y desenlace en el Arrecife del Garfio",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La denominación del conjuro está deformada por los subtítulos; la parálisis sí se confirma expresamente. No representa inmunidad de Nox a la herida."
+    },
+    {
+      "id": "42-207",
+      "titulo": "Nox arroja a Tórtola y gobierna el Invictus herido",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox se retira el estoque del vientre y lanza al aviar desde el mástil mientras Pinky golpea a los marines y los arroja por la borda. Con la camisa ensangrentada, Nox baja y toma el timón para rodear al Zampaolas y dirigir el Invictus contra los otros barcos. El director lo llama barco del capitán Tórtola.",
+      "inicio": "01:45:25.000",
+      "fin": "01:48:31.990",
+      "cita": "acabáis de ver el barco del Invictus, el",
+      "evidencia_cue": {
+        "inicio": "01:48:15.239",
+        "fin": "01:48:18.270",
+        "texto": "acabáis de ver el barco del Invictus, el"
+      },
+      "entidades": [
+        "Nox",
+        "Tórtola",
+        "Pinky",
+        "Invictus",
+        "Zampaolas"
+      ],
+      "ambito": "batalla naval y desenlace en el Arrecife del Garfio",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La caída no mata al aviar: reaparece herido más adelante. Capitán y almirante son tratamientos variables del mismo aviar del Invictus en esta escena."
+    },
+    {
+      "id": "42-208",
+      "titulo": "La Marina concentra varios flancos contra Bonnie",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La Marina deshace a otros barcos piratas que intentan auxiliar a sus compañeros. Al reconocer la amenaza del barco de Bonnie, varios buques viran para dispararle desde distintos flancos y dificultar que esquive.",
+      "inicio": "01:47:26.080",
+      "fin": "01:48:11.109",
+      "cita": "virar los barcos despreocupándose de",
+      "evidencia_cue": {
+        "inicio": "01:47:57.360",
+        "fin": "01:47:59.350",
+        "texto": "virar los barcos despreocupándose de"
+      },
+      "entidades": [
+        "Marina",
+        "Bonnie",
+        "Relámpago del Mar"
+      ],
+      "ambito": "batalla naval y desenlace en el Arrecife del Garfio",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El daño a otros piratas no acredita que todos los aliados hayan perecido ni una derrota definitiva de la Marina."
+    },
+    {
+      "id": "42-209",
+      "titulo": "Nox cambia los emblemas del Invictus y Pinky prende la pólvora",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Al pasar junto al Zampaolas, Nox usa una imagen mayor para volver negras las velas del Invictus. La bandera blanca con una paloma cambia por una calavera de lobo con trenzas. Ordena a Pinko prender la pólvora; las manos de fuego encienden un reguero hacia la despensa, mientras menciona su búsqueda de Cipo.",
+      "inicio": "01:49:27.280",
+      "fin": "01:51:29.870",
+      "cita": "prende la pólvora.",
+      "evidencia_cue": {
+        "inicio": "01:51:03.760",
+        "fin": "01:51:05.629",
+        "texto": "prende la pólvora."
+      },
+      "entidades": [
+        "Nox",
+        "Pinky",
+        "Cipo",
+        "Invictus",
+        "Zampaolas"
+      ],
+      "ambito": "batalla naval y desenlace en el Arrecife del Garfio",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Pinko y Pinky se alternan para la misma intervención en el barco; el nombre de apariencia no crea otro personaje. El cambio de enseñas mediante ilusión no demuestra una nueva propiedad material del barco."
+    },
+    {
+      "id": "42-210",
+      "titulo": "Nox reconoce a Ione como capitana y pide volver",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ione ve la sangre y el nuevo pabellón de Nox y pierde la sonrisa. Prepara una maniobra con la ballesta, pero Nox le envía un mensaje mental: elogia que su tripulación la obedezca, la reconoce como verdadera capitana y propone reunirse en el Zampaolas si le permite volver. Ione pregunta qué piensa hacer; él pide confianza.",
+      "inicio": "01:51:35.480",
+      "fin": "01:55:03.950",
+      "cita": "verdadera capitana.",
+      "evidencia_cue": {
+        "inicio": "01:53:55.840",
+        "fin": "01:53:59.669",
+        "texto": "verdadera capitana."
+      },
+      "entidades": [
+        "Nox",
+        "Ione",
+        "Zampaolas",
+        "Tripulación del Zampaolas"
+      ],
+      "ambito": "batalla naval y desenlace en el Arrecife del Garfio",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La propuesta de reencuentro es una intención, no un retorno consumado. La autorización para subir de nuevo no se formula inequívocamente."
+    },
+    {
+      "id": "42-211",
+      "titulo": "Bonnie vuelve a abrirse paso entre la flota",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox pretende fijar el timón del Invictus y saltar al agua con un cabo. Bonnie, que ha observado su combate con Tórtola, vira su barco hacia el norte y repite la embestida: la velocidad y los rayos destruyen los buques situados en esa dirección.",
+      "inicio": "01:55:33.920",
+      "fin": "01:57:16.589",
+      "cita": "revientan por esa esa velocidad y esos",
+      "evidencia_cue": {
+        "inicio": "01:57:09.800",
+        "fin": "01:57:13.229",
+        "texto": "revientan por esa esa velocidad y esos"
+      },
+      "entidades": [
+        "Nox",
+        "Bonnie",
+        "Tórtola",
+        "Invictus",
+        "Relámpago del Mar",
+        "Marina"
+      ],
+      "ambito": "batalla naval y desenlace en el Arrecife del Garfio",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La admiración o ironía de Bonnie hacia Hawkins no determina el destino posterior de Nox."
+    },
+    {
+      "id": "42-212",
+      "titulo": "Tórtola sobrevive a la caída e intenta llegar al timón",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Cuando Nox toma la cuerda para abandonar el Invictus, Tórtola, herido por la caída desde el mástil, le ordena detenerse e intenta paralizarlo. Nox resiste. El aviar ve la pólvora y avanza hacia el timón.",
+      "inicio": "01:57:16.599",
+      "fin": "01:58:46.390",
+      "cita": "pero consigues resistir",
+      "evidencia_cue": {
+        "inicio": "01:58:14.480",
+        "fin": "01:58:18.510",
+        "texto": "pero consigues resistir"
+      },
+      "entidades": [
+        "Nox",
+        "Tórtola",
+        "Invictus"
+      ],
+      "ambito": "batalla naval y desenlace en el Arrecife del Garfio",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Se acredita que está vivo tras caer, sin atribuirle aún una maniobra ejecutada con el timón."
+    },
+    {
+      "id": "42-213",
+      "titulo": "Los tatuajes y el orbe preceden a la decisión de Nox de quedarse",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox mira alternativamente la cuerda, el mar y el Zampaolas. Nota los tatuajes de su espalda y encuentra en su chaqueta el orbe con ojo de serpiente. Suelta el cabo, echa una última mirada al Zampaolas y corre para sujetar a Tórtola e impedir que llegue al timón y desvíe el barco.",
+      "inicio": "01:58:47.960",
+      "fin": "02:00:17.669",
+      "cita": "ese orbe con el ojo de serpiente que que",
+      "evidencia_cue": {
+        "inicio": "01:59:39.000",
+        "fin": "01:59:42.550",
+        "texto": "ese orbe con el ojo de serpiente que que"
+      },
+      "entidades": [
+        "Nox",
+        "Tórtola",
+        "Zampaolas",
+        "Invictus",
+        "Tatuajes de la espalda de Nox",
+        "Ojo-orbe recuperado por Nox"
+      ],
+      "ambito": "batalla naval y desenlace en el Arrecife del Garfio",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La proximidad temporal no prueba que el orbe o los tatuajes lo dominen, lo protejan o le permitan escapar. Su efecto concreto queda sin explicar."
+    },
+    {
+      "id": "42-214",
+      "titulo": "El Invictus explota contra la flota y los buques restantes se retiran",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El Invictus en llamas avanza contra la flota mientras se oye la risa de Pinko. Una enorme explosión revienta la zona, levanta una columna de fuego y sacude al Zampaolas, obligando a todos a agarrarse. Los buques de la Marina que aún llegaban comienzan a virar para marcharse.",
+      "inicio": "02:00:20.239",
+      "fin": "02:02:18.510",
+      "cita": "y veis una enorme explosión",
+      "evidencia_cue": {
+        "inicio": "02:01:00.119",
+        "fin": "02:01:05.109",
+        "texto": "y veis una enorme explosión"
+      },
+      "entidades": [
+        "Invictus",
+        "Nox",
+        "Pinky",
+        "Marina",
+        "Zampaolas",
+        "Bonnie"
+      ],
+      "ambito": "batalla naval y desenlace en el Arrecife del Garfio",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Nox y Pinky estaban a bordo antes de la explosión, pero no se muestra un cuerpo identificable de ninguno. La retirada descrita no impide la llegada de refuerzos posteriores."
+    },
+    {
+      "id": "42-215",
+      "titulo": "Ione se lanza a buscar a Nox y sus compañeros la siguen",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El oleaje acerca el Zampaolas a la costa sin hacerlo encallar. Ione pierde el control, raja tablas con las garras, corta la cuerda de la ballesta y se lanza con un virote hacia los restos en llamas para buscar a Nox. Sir Poncelot llora mientras trata de convencerse de que Nox tenía otro plan de huida. Ilikar ordena poner rumbo a la capitana para protegerla.",
+      "inicio": "02:02:20.520",
+      "fin": "02:06:59.350",
+      "cita": "Ione, pero ha sido más rápida que que",
+      "evidencia_cue": {
+        "inicio": "02:04:38.800",
+        "fin": "02:04:42.430",
+        "texto": "Ione, pero ha sido más rápida que que"
+      },
+      "entidades": [
+        "Ione",
+        "Nox",
+        "Sir Poncelot",
+        "Ilikar",
+        "Zampaolas",
+        "Merlucilla IV"
+      ],
+      "ambito": "batalla naval y desenlace en el Arrecife del Garfio",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La esperanza de Poncelot no acredita supervivencia. La forma lupina de Ione se confirma al explicar su búsqueda, no como efecto de la explosión."
+    },
+    {
+      "id": "42-216",
+      "titulo": "La búsqueda entre los restos no encuentra a Nox",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ione nada y revisa restos de los barcos. Ve otros cuerpos, pero ninguno de Nox. Explica que, pese a su malentendido, no quería verlo morir: habían pasado años juntos y él la había sostenido durante penurias. En forma de loba intenta reconocer su olor entre el humo, sin conseguirlo, hasta que el Zampaolas llega a su lado. Bonnie se aproxima mostrando pesar y cierto orgullo.",
+      "inicio": "02:07:00.000",
+      "fin": "02:09:35.030",
+      "cita": "de Nox.",
+      "evidencia_cue": {
+        "inicio": "02:07:20.440",
+        "fin": "02:07:22.990",
+        "texto": "de Nox."
+      },
+      "entidades": [
+        "Ione",
+        "Nox",
+        "Zampaolas",
+        "Bonnie"
+      ],
+      "ambito": "batalla naval y desenlace en el Arrecife del Garfio",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No hallar el cuerpo deja el paradero sin resolver. La emoción de Bonnie no prueba que disponga de información sobre una huida."
+    },
+    {
+      "id": "42-217",
+      "titulo": "Cuatro reyes piratas destruyen una nueva flota de la Marina",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Al bajar el fuego se descubre otra flota de la Marina con un buque que dobla al Invictus. El mar comienza a congelarse; un estallido azul inmoviliza los barcos y una tormenta de fuego cae sobre ellos y los destruye. Tras una nube negra aparecen cuatro buques piratas con enseñas de banana, símbolo femenino, calavera goblin y bandera pirata clásica. El director anuncia que han llegado los otros cuatro reyes piratas.",
+      "inicio": "02:09:35.040",
+      "fin": "02:12:58.990",
+      "cita": "Los cuatro reyes pirata, ¿qué faltaban?",
+      "evidencia_cue": {
+        "inicio": "02:12:44.960",
+        "fin": "02:12:49.790",
+        "texto": "Los cuatro reyes pirata, ¿qué faltaban?"
+      },
+      "entidades": [
+        "Marina",
+        "Cinco reyes piratas",
+        "Bonnie",
+        "Ione",
+        "Invictus",
+        "Xoltacan"
+      ],
+      "ambito": "batalla naval y desenlace en el Arrecife del Garfio",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se atribuyen individualmente el hielo ni el fuego a un rey concreto. La descripción aproximada de centenar de barcos no se convierte en un inventario exacto."
+    },
+    {
+      "id": "42-218",
+      "titulo": "Bonnie devuelve la moneda a Ione y les ordena marcharse",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Mientras suben a Ione al Zampaolas, Bonnie desaparece de su barco como un rayo y aparece en cubierta. Su forma poderosa y la electricidad se retiran a la moneda. Se la pone en la mano a Ione y ordena que se vayan. Ante su resistencia a abandonar a Nox, insiste en que deben salir para poder buscarlo si sigue vivo y les prohíbe volver a Shiaru.",
+      "inicio": "02:12:59.000",
+      "fin": "02:14:52.149",
+      "cita": "te pone la moneda en la mano",
+      "evidencia_cue": {
+        "inicio": "02:13:37.719",
+        "fin": "02:13:40.549",
+        "texto": "te pone la moneda en la mano"
+      },
+      "entidades": [
+        "Bonnie",
+        "Ione",
+        "Nox",
+        "Moneda pirata de Bonnie",
+        "Zampaolas",
+        "Shiaru"
+      ],
+      "ambito": "batalla naval y desenlace en el Arrecife del Garfio",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La condición «si Nox está vivo» no confirma su supervivencia. La devolución no explica por sí sola todas las facultades, cargas o reglas de la moneda."
+    },
+    {
+      "id": "42-219",
+      "titulo": "Ione retira el Zampaolas de la batalla sin renunciar a buscar a Nox",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Sir Poncelot pide a Ilikar que ayude a la capitana y salgan de allí. Ilikar ordena desplegar velas y recuerda a Ione que debe vivir tras lo hecho por Nox. Ella gruñe, señala tierra y se niega a abandonar Shiaru, aunque acepta retirarse de la batalla para proteger a su tripulación. Toma el timón con las garras y vira el Zampaolas.",
+      "inicio": "02:14:52.159",
+      "fin": "02:17:14.309",
+      "cita": "tripulación que proteger,",
+      "evidencia_cue": {
+        "inicio": "02:16:59.240",
+        "fin": "02:17:01.230",
+        "texto": "tripulación que proteger,"
+      },
+      "entidades": [
+        "Ione",
+        "Sir Poncelot",
+        "Ilikar",
+        "Nox",
+        "Zampaolas",
+        "Shiaru",
+        "Tripulación del Zampaolas"
+      ],
+      "ambito": "batalla naval y desenlace en el Arrecife del Garfio",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La retirada no representa haber salido ya de la isla ni una búsqueda reanudada después."
+    },
+    {
+      "id": "42-220",
+      "titulo": "Los otros reyes rodean al Relámpago del Mar sin su poder mágico",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El Zampaolas abandona el combate. Bonnie permanece con los barcos piratas supervivientes en el Relámpago del Mar, que ha perdido sus destellos eléctricos y su carga mágica. Los cuatro buques recién llegados rodean su nave y tienden pasarelas para que suban sus dirigentes.",
+      "inicio": "02:17:14.319",
+      "fin": "02:18:23.389",
+      "cita": "encima del relámpago del mar.",
+      "evidencia_cue": {
+        "inicio": "02:18:05.719",
+        "fin": "02:18:10.030",
+        "texto": "encima del relámpago del mar."
+      },
+      "entidades": [
+        "Bonnie",
+        "Relámpago del Mar",
+        "Cinco reyes piratas",
+        "Zampaolas"
+      ],
+      "ambito": "batalla naval y desenlace en el Arrecife del Garfio",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Perder el poder ligado a la moneda no vuelve pequeño al barco ni explica su construcción original. No se representa una batalla nueva con los cuatro dirigentes."
+    },
+    {
+      "id": "42-221",
+      "titulo": "Bonnie saluda a Diente de Oro, Banana, Sonriente y Taylor",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Suben al barco de Bonnie un gran orangután acompañado de monos, una mujer procedente de una tripulación mayoritariamente femenina, un orco con compañeros pequeños verdes y un humano de barba larga. Bonnie saluda a la mujer como Diente de Oro, al orangután como Banana, al orco como Sonriente y al humano como Taylor. La descripción inicial de una pierna de palo del humano se corrige expresamente.",
+      "inicio": "02:18:23.399",
+      "fin": "02:22:01.349",
+      "cita": "oro.\"",
+      "evidencia_cue": {
+        "inicio": "02:21:35.439",
+        "fin": "02:21:38.070",
+        "texto": "oro.\""
+      },
+      "entidades": [
+        "Bonnie",
+        "Cinco reyes piratas",
+        "Diente de Oro",
+        "Elger Banana",
+        "Sonriente",
+        "Taylor"
+      ],
+      "ambito": "batalla naval y desenlace en el Arrecife del Garfio",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Los nombres son apodos o grafías provisionales. Banana se vincula con Elger Banana por el título, el pabellón de banana y la descripción simiesca del capítulo 6, manteniendo gorila referido frente a orangután observado. La broma sobre un primo de Bucón no prueba parentesco."
+    },
+    {
+      "id": "42-222",
+      "titulo": "Taylor dice haber capturado al joven Jackie rumbo a Puerto de Espadas",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Taylor recuerda que Bonnie faltó a las últimas reuniones. Afirma que capturaron un pequeño barco rumbo a Puerto de Espadas y a un joven al que recuerda como Jackie, quien hablaba de una isla con grandes tesoros y grandes piratas. Bonnie responde que leyó su carta y pregunta si ha venido a lo que debía.",
+      "inicio": "02:22:01.359",
+      "fin": "02:22:59.950",
+      "cita": "Jackie, puede ser.",
+      "evidencia_cue": {
+        "inicio": "02:22:37.160",
+        "fin": "02:22:40.950",
+        "texto": "Jackie, puede ser."
+      },
+      "entidades": [
+        "Taylor",
+        "Bonnie",
+        "Jackie, cautivo referido por Taylor",
+        "Puerto de Espadas",
+        "Xoltacan"
+      ],
+      "ambito": "batalla naval y desenlace en el Arrecife del Garfio",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Es relato de Taylor, no captura mostrada. No identifica con certeza al cautivo con Jack, el exmarine del Zampaolas; la duda del propio hablante sobre el nombre se conserva."
+    },
+    {
+      "id": "42-223",
+      "titulo": "Taylor acusa a Bonnie de romper un pacto y ocultar Xoltacan",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Taylor sostiene que Bonnie rompió su trato y ocultó la isla de grandes tesoros a los otros reyes, por lo que debían acudir. Anuncia que ella sabe lo que viene. Bonnie enciende un puro y responde que nunca le cayó bien.",
+      "inicio": "02:22:59.960",
+      "fin": "02:23:47.590",
+      "cita": "Y tú nos has ocultado eso.",
+      "evidencia_cue": {
+        "inicio": "02:23:20.279",
+        "fin": "02:23:25.070",
+        "texto": "Y tú nos has ocultado eso."
+      },
+      "entidades": [
+        "Taylor",
+        "Bonnie",
+        "Cinco reyes piratas",
+        "Xoltacan"
+      ],
+      "ambito": "batalla naval y desenlace en el Arrecife del Garfio",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La acusación no aporta los términos completos del pacto ni una deliberación independiente de los demás reyes."
+    },
+    {
+      "id": "42-224",
+      "titulo": "Taylor dispara a la frente de Bonnie y el director despide a tres personajes",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ante la mirada de los otros tres reyes, Taylor desenfunda una pistola, la coloca en la frente de Bonnie y dispara. La sesión termina en ese momento. En la despedida, el director pide decir adiós a Bonnie, Nox y Pinky y avisa de que la siguiente partida sucederá antes de estos hechos.",
+      "inicio": "02:23:47.600",
+      "fin": "02:24:42.800",
+      "cita": "Se le pone en la frente a Bonnie",
+      "evidencia_cue": {
+        "inicio": "02:23:58.840",
+        "fin": "02:24:02.510",
+        "texto": "Se le pone en la frente a Bonnie"
+      },
+      "entidades": [
+        "Taylor",
+        "Bonnie",
+        "Nox",
+        "Pinky",
+        "Cinco reyes piratas"
+      ],
+      "ambito": "batalla naval y desenlace en el Arrecife del Garfio",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La despedida enmarca estas pérdidas, pero el disparo no va seguido de una comprobación médica o escena del cuerpo y Nox no fue encontrado. El aviso temporal no autoriza incorporar conocimientos posteriores a capítulos anteriores."
+    }
+  ],
+  "misiones": [
+    "Romper el cerco naval: los abordajes, las embestidas de Bonnie y la explosión del Invictus destruyen buques; los refuerzos posteriores caen con la llegada de los otros reyes. El Zampaolas sale del combate (42-202–42-204, 42-214, 42-217, 42-219).",
+    "Buscar a Nox: Ione se arroja a los restos y rastrea su olor, sin encontrarlo ni recuperar su cuerpo. Mantiene su intención de buscarlo al retirarse (42-215–42-216, 42-219).",
+    "Preservar al Zampaolas y su tripulación: regresan quienes abordaron, recogen a Ione y ella vira para abandonar la batalla después de que Bonnie devuelva la moneda (42-203, 42-218–42-219).",
+    "Evitar que Tórtola desvíe el Invictus: Nox renuncia a su salto y trata de retener al aviar antes de la explosión. No se narra una supervivencia posterior de ninguno (42-212–42-214)."
+  ],
+  "preguntas": [
+    "¿Qué ocurrió con Nox y Pinky tras la explosión del Invictus? El director los despide en el cierre, pero Ione no encuentra a Nox ni se recuperan sus cuerpos (42-214–42-216, 42-224).",
+    "¿Qué función tuvieron los tatuajes y el ojo-orbe cuando Nox renunció a escapar? La reacción no demuestra dominación, protección o una vía de huida (42-213).",
+    "¿Qué ocurre con Bonnie después del disparo de Taylor? La sesión termina con el disparo a la frente y la despedida del director, sin representar una escena posterior (42-224).",
+    "¿Qué exigía el pacto de los cinco reyes y qué harán ahora en Xoltacan? Taylor acusa a Bonnie de ocultar la isla, sin exponer todas las cláusulas ni mostrar el siguiente paso del grupo (42-221–42-224).",
+    "¿Quién es exactamente el joven Jackie del relato de Taylor y cuál es su destino? El nombre es recordado con duda y la captura solo se cuenta de palabra (42-222).",
+    "¿Dónde proseguirá Ione la búsqueda de Nox y qué hará con la moneda devuelta? Retira el barco del combate, pero no quiere abandonar Shiaru (42-218–42-219)."
+  ],
+  "contradicciones": [
+    "El aviar del Invictus recibe tratamientos de capitán y almirante. La continuidad del cautivo con pico, el duelo, la caída y su regreso herido permite conservar una identidad en la escena, sin fusionar al Tórtola mencionado en órdenes antiguas (42-205–42-207, 42-212).",
+    "La Marina que vira para retirarse tras el estallido no es la flota completa: después aparecen nuevos refuerzos, destruidos mediante hielo y fuego (42-214, 42-217).",
+    "Las despedidas del director a Bonnie, Nox y Pinky se conservan como encuadre del cierre. No sustituyen una recuperación de cuerpos ni añaden escenas posteriores al disparo (42-216, 42-224).",
+    "Ione se retira de la batalla, pero expresa que no abandonará Shiaru. No presentar su maniobra como salida definitiva de la isla ni como regreso ya consumado al pueblo (42-219).",
+    "El comentario sobre la pierna de palo del último rey se corrige expresamente. La comparación del orangután con un primo de Bucón y las canciones sobre Poncelot son bromas, sin parentesco o poderes confirmados (42-203, 42-221)."
+  ],
+  "nombres_dudosos": [
+    "Invictus es el buque de Tórtola. No confundirlo con el Zampaolas ni con el Relámpago del Mar de Bonnie (42-207, 42-220).",
+    "Pinky/Pinko designan la intervención continua de quien enciende la pólvora; el director comenta que ahora es un viejo. No crear una segunda persona solo por la variante o la apariencia, ni confundirla con Cipo (42-209, 42-214, 42-224).",
+    "El tigre de Sir Poncelot corresponde a Merlucilla IV, distinto de su tiburón Merlucilla V y de anteriores monturas (42-203).",
+    "Taylor/Tylor/Tayor son lecturas del rey humano de barba larga. Diente de Oro y Sonriente son los apodos con que Bonnie saluda a la mujer y al orco; no se inventan nombres personales (42-221).",
+    "Banana es aquí el rey orangután, vinculado a Elger Banana por el título y la bandera de banana del capítulo 6. La descripción anterior de gorila se conserva como testimonio, sin inventar una transformación (42-221).",
+    "Jackie es el joven que Taylor dice haber capturado. No se fusiona sin prueba con Jack, el exmarine integrado en el Zampaolas (42-222)."
+  ],
+  "historias_entidades": [
+    {
+      "nombre": "Nox",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "El Invictus en llamas",
+          "texto": "Nox acepta una herida para paralizar a Tórtola y convertir el Invictus en un barco explosivo. Reconoce a Ione como capitana y le pide volver al Zampaolas. Cuando el aviar amenaza el timón, abandona su propia huida y corre a detenerlo. El barco estalla; Ione no encuentra su cuerpo. El director lo incluye entre las despedidas del cierre, sin representar una salida ni recuperar sus restos.",
+          "referencias": [
+            "42-206",
+            "42-209",
+            "42-210",
+            "42-213",
+            "42-214",
+            "42-216",
+            "42-224"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Ione",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "Capitana ante la pérdida",
+          "texto": "Ione ve la sangre y el pabellón de Nox, escucha que la reconoce como capitana y presencia la explosión del Invictus. Se arroja a los restos y busca su olor en forma lupina sin encontrarlo. Bonnie le devuelve la moneda y exige que se marche. Ione aparta al Zampaolas del combate para salvar a la tripulación, manteniendo su intención de permanecer en Shiaru y buscar a Nox.",
+          "referencias": [
+            "42-210",
+            "42-215",
+            "42-216",
+            "42-218",
+            "42-219"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Sir Poncelot",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "El abordaje y la incredulidad",
+          "texto": "Sir Poncelot dirige la aproximación del Zampaolas durante la indisposición de Ione y aborda barcos montado en Merlucilla IV. Después de la explosión llora e intenta convencerse de que Nox habrá preparado otra huida. Pide ayuda a Ilikar para poner a salvo a la capitana.",
+          "referencias": [
+            "42-201",
+            "42-203",
+            "42-215",
+            "42-219"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Ilikar",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "De destruir cubiertas a proteger a la capitana",
+          "texto": "Ilikar derriba un mástil mientras Cipo salpica fuego desde su cadena y participa en la destrucción de buques de la Marina. Tras el estallido ordena dirigir el Zampaolas hacia Ione. Le recuerda que debe seguir viva y ayuda a que la tripulación se retire del combate.",
+          "referencias": [
+            "42-202",
+            "42-203",
+            "42-215",
+            "42-219"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Merlucilla IV",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "El tigre entre los barcos",
+          "texto": "Sir Poncelot monta a Merlucilla IV para saltar entre barcos y atravesar las cubiertas derribando artilleros y marines. El tigre y su jinete vuelven al Zampaolas antes del hundimiento de las naves abordadas. Poncelot apoya una mano sobre su montura cuando observa la explosión y llora por Nox.",
+          "referencias": [
+            "42-203",
+            "42-215"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Cipo",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "Fuego desde la cadena de Ilikar",
+          "texto": "Cipo se sujeta a la cadena de Ilikar durante el abordaje. Mientras el goliat la gira, el elemental salpica fuego por el buque; el mástil acaba roto y la nave destrozada. Su presencia en otro barco se distingue de la de Pinky en el Invictus.",
+          "referencias": [
+            "42-202",
+            "42-209"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Tórtola",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "El aviar del Invictus",
+          "texto": "El aviar cautivo del Invictus rompe sus ataduras y combate con Hawkins sobre el mástil. Nox se deja herir para paralizarlo y lo arroja abajo. Sobrevive a la caída, intenta devolverle la parálisis y avanza hacia el timón antes de la explosión. Nox renuncia a saltar para impedir que cambie el rumbo. La escena alterna capitán y almirante, sin identificarlo con el Tórtola de antiguas órdenes.",
+          "referencias": [
+            "42-205",
+            "42-206",
+            "42-207",
+            "42-212",
+            "42-213"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Pinky",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "La pólvora del Invictus",
+          "texto": "Durante la lucha en el Invictus, Pinky arroja marines por la borda. Nox le ordena prender la pólvora y ella enciende el reguero hacia la despensa mientras protesta por no poder encontrar a Cipo. El director alterna Pinky y Pinko y describe una apariencia anciana masculina. Se oye su risa en el buque que estalla y la despide en el cierre; no se recupera su cuerpo.",
+          "referencias": [
+            "42-207",
+            "42-209",
+            "42-214",
+            "42-224"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Bonnie",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "La moneda devuelta y el disparo de Taylor",
+          "texto": "Bonnie embiste a la Marina con su nave envuelta en rayos y presencia el ataque de Nox. Cuando llegan los otros reyes, devuelve la moneda a Ione y exige que salgan del combate. Su barco pierde el poder eléctrico y queda rodeado. Taylor sostiene que ocultó Xoltacan y rompió su pacto. Bonnie le responde con desprecio; él le dispara a la frente y la sesión termina.",
+          "referencias": [
+            "42-204",
+            "42-211",
+            "42-218",
+            "42-220",
+            "42-223",
+            "42-224"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Invictus",
+      "tipo": "objeto",
+      "nueva": true,
+      "descripcion": "Buque de la Marina gobernado por Tórtola y utilizado por Nox para un ataque explosivo.",
+      "nota": "Se conserva separado del Zampaolas y del Relámpago del Mar; no se documenta su construcción ni la recuperación de restos.",
+      "etapas": [
+        {
+          "titulo": "De buque de Tórtola a barco explosivo",
+          "texto": "El Invictus es identificado como el barco del capitán Tórtola. Nox toma el timón herido, altera sus velas y pabellón con una imagen mayor y manda prender su pólvora. Deja la nave rumbo a la flota, pero permanece a bordo para impedir que el aviar cambie el curso. Una explosión arrasa el barco y la zona cercana.",
+          "referencias": [
+            "42-207",
+            "42-209",
+            "42-213",
+            "42-214"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Relámpago del Mar",
+      "tipo": "objeto",
+      "nueva": true,
+      "descripcion": "Gran barco de Bonnie, capaz de embestir envuelto en electricidad durante la batalla del Garfio.",
+      "nota": "El nombre se oye al subir los otros reyes; el poder se presenta ligado al de su capitana y a la moneda, sin explicar reglas completas.",
+      "etapas": [
+        {
+          "titulo": "La última defensa de Bonnie",
+          "texto": "El Relámpago del Mar rompe la formación naval mediante embestidas y rayos. Al devolver Bonnie la moneda a Ione, pierde su brillo y su carga mágica, aunque sigue siendo un barco enorme. Los cuatro buques de los otros reyes piratas lo rodean y tienden pasarelas para abordar una reunión que termina con el disparo contra Bonnie.",
+          "referencias": [
+            "42-204",
+            "42-211",
+            "42-220",
+            "42-224"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Taylor",
+      "tipo": "personaje",
+      "nueva": true,
+      "descripcion": "Rey pirata humano de barba larga que acusa a Bonnie de ocultar Xoltacan y le dispara.",
+      "nota": "Taylor/Tylor son grafías de subtítulos; se conserva Taylor por repeticiones claras. Su versión de la captura y del pacto es testimonio.",
+      "etapas": [
+        {
+          "titulo": "La acusación contra Bonnie",
+          "texto": "Taylor llega con los otros reyes piratas y sube al Relámpago del Mar. Es un humano de barba larga; la mención inicial a una pierna de palo se corrige. Dice haber capturado a Jackie y conocido por él la isla de los tesoros. Acusa a Bonnie de ocultar Xoltacan y romper su trato, coloca una pistola en su frente y dispara.",
+          "referencias": [
+            "42-221",
+            "42-222",
+            "42-223",
+            "42-224"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Diente de Oro",
+      "tipo": "personaje",
+      "nueva": true,
+      "descripcion": "Reina pirata saludada por Bonnie como Diente de Oro al final de la batalla.",
+      "nota": "Apodo documentado; no se explican su nombre personal, poderes o postura individual sobre la acusación.",
+      "etapas": [
+        {
+          "titulo": "La llegada de los otros reyes",
+          "texto": "Una capitana procedente de un buque con tripulación mayoritariamente femenina sube al barco de Bonnie. Bonnie la saluda como Diente de Oro. Permanece entre los reyes que observan el enfrentamiento de Taylor con Bonnie; no se le atribuye individualmente el ataque de hielo o fuego contra la Marina.",
+          "referencias": [
+            "42-217",
+            "42-221",
+            "42-224"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Elger Banana",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "Rey pirata orangután acompañado de monos y saludado por Bonnie como Banana.",
+      "nota": "Se conserva la diferencia entre gorila referido en el capítulo 6 y orangután observado aquí, sin narrar una transformación.",
+      "etapas": [
+        {
+          "titulo": "Una bandera de banana",
+          "texto": "Un gran orangután llega en uno de los cuatro buques piratas. Sus monos colocan varias pasarelas para permitirle subir al barco de Bonnie, donde come una banana mientras observa a los heridos. Bonnie lo saluda como Banana. El apodo, su condición de rey y la bandera enlazan con Elger Banana, presentado en el capítulo 6 mediante un relato que lo describía como gorila. Presencia el enfrentamiento final con Taylor.",
+          "referencias": [
+            "42-217",
+            "42-221",
+            "42-224"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Sonriente",
+      "tipo": "personaje",
+      "nueva": true,
+      "descripcion": "Rey pirata orco llamado Sonriente por Bonnie.",
+      "nota": "El apodo no fija nombre personal. La calavera goblin del pabellón y los compañeros pequeños verdes no convierten al capitán en goblin.",
+      "etapas": [
+        {
+          "titulo": "El rey orco",
+          "texto": "Un orco llega acompañado de pequeños seres verdes desde uno de los buques de los otros reyes. Sube al barco de Bonnie con expresión risueña y ella lo llama Sonriente. Observa el enfrentamiento con Taylor; no se describen sus poderes ni una intervención propia.",
+          "referencias": [
+            "42-217",
+            "42-221",
+            "42-224"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Jackie, cautivo referido por Taylor",
+      "tipo": "personaje",
+      "nueva": true,
+      "descripcion": "Joven cautivo mencionado por Taylor como fuente de noticias sobre Xoltacan.",
+      "nota": "Se mantiene separado de Jack, exmarine del Zampaolas, mientras no se contraste la correspondencia; no se demuestra su destino posterior.",
+      "etapas": [
+        {
+          "titulo": "El testimonio que conduce a la isla",
+          "texto": "Taylor relata que capturó un barco que viajaba hacia Puerto de Espadas y a un joven cuyo nombre recuerda como Jackie. Según él, el cautivo hablaba de una isla de tesoros y grandes piratas. Bonnie había leído la carta enviada sobre ese hallazgo. La captura no se muestra y el nombre sigue siendo incierto.",
+          "referencias": [
+            "42-222"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Moneda pirata de Bonnie",
+      "tipo": "objeto",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "El poder vuelve a manos de Ione",
+          "texto": "Después de las embestidas del Relámpago del Mar, Bonnie aparece en el Zampaolas y su electricidad se recoge en la moneda. La coloca en la mano de Ione y exige la retirada. El barco de Bonnie queda sin su brillo y carga mágica antes de ser rodeado por los otros reyes.",
+          "referencias": [
+            "42-218",
+            "42-220"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Ojo-orbe recuperado por Nox",
+      "tipo": "objeto",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "En la chaqueta antes del estallido",
+          "texto": "Cuando va a escapar del Invictus, Nox nota los tatuajes de su espalda y encuentra el orbe con ojo de serpiente en su chaqueta. A continuación abandona el cabo y corre para detener a Tórtola. No se manifiesta una función del objeto ni se acredita una fuga provocada por él.",
+          "referencias": [
+            "42-213"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Tatuajes de la espalda de Nox",
+      "tipo": "objeto",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "La sensación previa a quedarse",
+          "texto": "Nox siente sus tatuajes mientras sopesa saltar al mar desde el Invictus. Al palparse encuentra el ojo-orbe en su chaqueta y después corre contra Tórtola. La escena conserva la reacción sin explicar si las marcas influyen en su decisión o producen otro efecto.",
+          "referencias": [
+            "42-213"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Zampaolas",
+      "tipo": "objeto",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "Fuera de la zona de explosión",
+          "texto": "El Zampaolas recoge a quienes han abordado barcos enemigos y pasa junto al Invictus. La explosión lo escora y el oleaje lo empuja hacia la costa sin encallarlo. Ilikar ordena regresar hacia Ione, que busca a Nox entre los restos. Tras la devolución de la moneda, Ione toma el timón y lo retira del combate.",
+          "referencias": [
+            "42-203",
+            "42-214",
+            "42-215",
+            "42-216",
+            "42-219"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Tripulación del Zampaolas",
+      "tipo": "faccion",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "La capitana y la retirada",
+          "texto": "Nox reconoce que la tripulación obedece a Ione como verdadera capitana. Sus compañeros combaten, vuelven a recogerla cuando busca a Nox y le piden abandonar el combate para sobrevivir. Ione pone a salvo al barco sin renunciar a su intención de seguir buscando en Shiaru.",
+          "referencias": [
+            "42-210",
+            "42-215",
+            "42-219"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Cinco reyes piratas",
+      "tipo": "faccion",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "Los cuatro que faltaban llegan a Xoltacan",
+          "texto": "Los otros cuatro reyes llegan después de que hielo y fuego destruyan una nueva flota de la Marina. Sus barcos rodean al de Bonnie y suben Diente de Oro, Banana, Sonriente y Taylor. Este acusa a Bonnie de ocultar la isla y romper un pacto; los otros observan cuando él le dispara. No se explican todos los términos del acuerdo ni se asignan poderes individuales a los recién llegados.",
+          "referencias": [
+            "42-217",
+            "42-220",
+            "42-221",
+            "42-223",
+            "42-224"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Marina",
+      "tipo": "faccion",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "Las flotas del Garfio",
+          "texto": "La Marina pierde buques ante los abordajes, las embestidas de Bonnie y la explosión del Invictus. Mientras unos barcos se retiran, llegan refuerzos con un buque mayor. Una congelación repentina seguida de fuego destruye esa nueva formación, justo antes de aparecer los otros cuatro reyes piratas.",
+          "referencias": [
+            "42-202",
+            "42-203",
+            "42-208",
+            "42-211",
+            "42-214",
+            "42-217"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Puerto de Espadas",
+      "tipo": "lugar",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "El destino del barco capturado",
+          "texto": "Taylor refiere que capturó un pequeño barco que se dirigía a Puerto de Espadas. Allí viajaba el joven al que recuerda como Jackie, que hablaba de los tesoros de una isla. El testimonio no muestra la llegada de ese barco a puerto ni fija el lugar concreto de su captura.",
+          "referencias": [
+            "42-222"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Shiaru",
+      "tipo": "lugar",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "La costa que Ione no quiere abandonar",
+          "texto": "El oleaje lleva el Zampaolas cerca de la costa, sin encallarlo en Shiaru. Tras la búsqueda infructuosa de Nox, Bonnie ordena retirarse y no volver al poblado. Ione saca a sus compañeros de la batalla, pero expresa su negativa a abandonar Shiaru porque quiere seguir buscándolo.",
+          "referencias": [
+            "42-215",
+            "42-218",
+            "42-219"
+          ]
+        }
+      ]
+    }
+  ]
+}

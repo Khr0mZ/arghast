@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revisado_hasta": 41,
+  "revisado_hasta": 42,
   "preguntas": [
     {
       "id": "P26-001",
@@ -13,7 +13,7 @@
         "28-011"
       ],
       "pendiente": "El origen y contenido de las marcas, su propósito completo y la identidad de quien busca lo que Nox lleva en la espalda.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P26-002",
@@ -28,7 +28,7 @@
         "28-014"
       ],
       "pendiente": "Los efectos de sentarse realmente en el trono.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P26-003",
@@ -39,7 +39,7 @@
       "respuesta": "No se identifica al controlador de los ojos rojos ni a la entidad llamada nuestro Señor. Las alusiones posteriores de otros hombres serpiente no prueban que todas designen al mismo ser.",
       "referencias": [],
       "pendiente": "La identidad del controlador y del Señor, y la relación entre ambos.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P26-004",
@@ -53,18 +53,24 @@
         "39-020"
       ],
       "pendiente": "El motivo de la suplantación y el contenido o uso del informe que recibió.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P26-005",
       "capitulo": 26,
       "indice": 5,
       "pregunta": "¿Qué decidirán los cinco piratas en su reunión? Se refiere la convocatoria, pero no se celebra aquí (26-006).",
-      "estado": "pendiente",
-      "respuesta": "Los capítulos posteriores muestran nuevos conflictos y preparativos militares, pero no una reunión de los cinco piratas ni sus decisiones.",
-      "referencias": [],
-      "pendiente": "La celebración de la reunión, sus asistentes y las decisiones adoptadas.",
-      "revisado_hasta": 41
+      "estado": "parcial",
+      "respuesta": "Los cuatro reyes que faltaban llegan a Xoltacan y suben al barco de Bonnie: Diente de Oro, Banana, Sonriente y Taylor. Taylor la acusa de ocultar la isla e incumplir su pacto y le dispara a la frente. Se muestra el encuentro y esa acción, sin las cláusulas completas del acuerdo, una deliberación conjunta o la política posterior de los cinco.",
+      "referencias": [
+        "42-065",
+        "42-068",
+        "42-069",
+        "42-071",
+        "42-072"
+      ],
+      "pendiente": "Los términos del pacto y las decisiones posteriores de los reyes sobre Xoltacan.",
+      "revisado_hasta": 42
     },
     {
       "id": "P27-001",
@@ -79,7 +85,7 @@
         "37-004"
       ],
       "pendiente": "El objetivo específico del ataque a Cuicapalli y la composición o ubicación de las fuerzas supervivientes.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P27-002",
@@ -92,7 +98,7 @@
         "30-001"
       ],
       "pendiente": "Su identidad precisa y quién conoce el secreto del traje y del pico.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P27-003",
@@ -106,7 +112,7 @@
         "39-013"
       ],
       "pendiente": "Si el destierro ha sido revocado y con qué autorización puede permanecer en Cuicapalli.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P27-004",
@@ -114,17 +120,16 @@
       "indice": 4,
       "pregunta": "¿Dónde está la abuela que busca Cipo? El director confirma que no se han reencontrado desde su invocación (27-003).",
       "estado": "pendiente",
-      "respuesta": "Pinky declara después que busca a Cipo y Ayoto le indica que estuvo en Cuicapalli. Ella parte hacia ese objetivo. Más adelante se la encuentra presa en un campamento de la Marina y en Aurora; tras una liberación, Tórtola la captura de nuevo. Cipo aparece por separado en las ruinas del lago. No se representa un reencuentro entre ambos.",
+      "respuesta": "Pinky es liberada del Invictus por Nox. Participa en el sabotaje y recuerda que sus captores le impedían encontrar a Cipo. El elemental combate en otros barcos con Poncelot e Ilikar; no se representa un encuentro entre ambos. El director despide a Pinky después de la explosión.",
       "referencias": [
-        "29-007",
-        "29-008",
-        "34-012",
-        "35-012",
-        "35-016",
-        "36-009"
+        "42-031",
+        "42-036",
+        "42-045",
+        "42-057",
+        "42-072"
       ],
-      "pendiente": "La identificación explícita de la abuela del pasaje original y un reencuentro documentado con Cipo.",
-      "revisado_hasta": 41
+      "pendiente": "Un reencuentro documentado entre Cipo y Pinky y lo que el elemental conoce de su destino.",
+      "revisado_hasta": 42
     },
     {
       "id": "P28-001",
@@ -135,7 +140,7 @@
       "respuesta": "La gran criatura queda atrás durante la huida, sin ser derrotada. Los capítulos posteriores no muestran su destino ni explican qué entidad concreta forman las serpientes.",
       "referencias": [],
       "pendiente": "La identidad de la criatura y su destino después de la huida.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P28-002",
@@ -149,7 +154,7 @@
         "35-015"
       ],
       "pendiente": "La identidad de la serpiente alada, la relación entre ambas visiones y el significado del ritual.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P28-003",
@@ -160,7 +165,7 @@
       "respuesta": "No se documenta la recuperación, destrucción o uso posterior del collar dejado dentro de la fruta. Las lagunas de memoria de Blink no se atribuyen de forma confirmada a ese abandono.",
       "referencias": [],
       "pendiente": "Las consecuencias de abandonar el collar y quién lo conserva o utiliza después.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P28-004",
@@ -178,7 +183,7 @@
         "39-020"
       ],
       "pendiente": "La naturaleza exacta de lo protegido y la relación completa entre Citlali, sus marcas y lo despertado.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P28-005",
@@ -196,7 +201,7 @@
         "37-004"
       ],
       "pendiente": "La lista completa de superiores y los términos o fines que no se han revelado de la alianza.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P29-001",
@@ -209,7 +214,7 @@
         "31-001"
       ],
       "pendiente": "La identidad y organización de los profundos, el lugar y funcionamiento de los rituales y el destino de los secuestrados.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P29-002",
@@ -220,7 +225,7 @@
       "respuesta": "No se da después una duración exacta de las branquias ni una explicación completa de qué sirénidos pueden concederlas. El efecto observado en los viajeros no establece por sí solo una regla general.",
       "referencias": [],
       "pendiente": "La duración de las branquias y las condiciones o personas capaces de otorgarlas.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P29-003",
@@ -233,7 +238,7 @@
         "39-001"
       ],
       "pendiente": "La religión y deidad de Ivet y los actos que permitirían ganar su confianza.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P29-004",
@@ -244,7 +249,7 @@
       "respuesta": "Los capítulos posteriores no aclaran a qué familia se refiere Coyote ni el posible sacrificio por el que preguntó Maris.",
       "referencias": [],
       "pendiente": "El pasado familiar aludido y la respuesta a la pregunta sobre el sacrificio.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P29-005",
@@ -257,7 +262,7 @@
         "34-005"
       ],
       "pendiente": "El destino final de los restos y la diferencia entre su deterioro y la conservación mencionada en el capítulo 16.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P30-001",
@@ -271,7 +276,7 @@
         "40-006"
       ],
       "pendiente": "El resultado del antídoto y el estado de Eromov.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P30-002",
@@ -288,7 +293,7 @@
         "41-023"
       ],
       "pendiente": "Identificar a quien añadió el veneno y a las dos visitantes anteriores.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P30-003",
@@ -299,7 +304,7 @@
       "respuesta": "No se regresa a la prisión ni se informa después de posibles cautivos supervivientes. El cadáver retirado no permite deducir el estado de todas las personas tras la reja.",
       "referencias": [],
       "pendiente": "Si quedaban cautivos vivos y qué ocurrió con ellos.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P30-004",
@@ -315,7 +320,7 @@
         "31-027"
       ],
       "pendiente": "La formulación y destino exactos del encargo referido por Eromov.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P30-005",
@@ -336,7 +341,7 @@
         "41-051"
       ],
       "pendiente": "La organización de los grupos, sus aliados y las relaciones entre las distintas operaciones.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P31-001",
@@ -352,7 +357,7 @@
         "41-055"
       ],
       "pendiente": "La grafía exacta y la relación demostrada del dragón con las ruinas.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P31-002",
@@ -370,7 +375,7 @@
         "41-054"
       ],
       "pendiente": "El mecanismo completo de la influencia y una neutralización permanente.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P31-003",
@@ -381,7 +386,7 @@
       "respuesta": "Los episodios posteriores no proporcionan los nombres de los cinco héroes ni identifican con certeza el fragmento o a quienes abrieron la prisión. Las otras visiones no permiten fusionar sus entidades por semejanza.",
       "referencias": [],
       "pendiente": "Las identidades de los héroes, el fragmento y los responsables de abrir la puerta, y una fecha verificable.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P31-004",
@@ -392,7 +397,7 @@
       "respuesta": "No se amplía el relato de Walulu sobre el altercado en el que murió su padre.",
       "referencias": [],
       "pendiente": "Las circunstancias y los responsables de la muerte de su padre.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P31-005",
@@ -411,7 +416,7 @@
         "41-023"
       ],
       "pendiente": "Las consecuencias concretas de revelar la ruta y la asistencia efectiva al concilio.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P31-006",
@@ -422,7 +427,7 @@
       "respuesta": "No se especifica después qué mejora eligió Triel con el tatuaje pagado por Eldrat.",
       "referencias": [],
       "pendiente": "El efecto concreto del tatuaje de Triel.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P32-001",
@@ -437,7 +442,7 @@
         "38-001"
       ],
       "pendiente": "",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P32-002",
@@ -450,7 +455,7 @@
         "35-016"
       ],
       "pendiente": "La identidad del general y si participa en un nuevo ataque.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P32-003",
@@ -465,7 +470,7 @@
         "36-004"
       ],
       "pendiente": "Los términos completos del acuerdo con la Marina y el propósito íntegro del plan de Bonnie para Citlali.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P32-004",
@@ -484,7 +489,7 @@
         "39-020"
       ],
       "pendiente": "",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P33-001",
@@ -495,7 +500,7 @@
       "respuesta": "Axi no recibe después un diagnóstico ni explica lo ocurrido durante aquella noche. La amnesia y los animales muertos no confirman por sí solos licantropía u otra causa.",
       "referencias": [],
       "pendiente": "La causa de los cadáveres y de la amnesia de Axi.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P33-002",
@@ -506,7 +511,7 @@
       "respuesta": "No se identifica después a quien entregó la piedra rota ni se localiza al individuo que saltó por el acantilado. Tampoco se establece la función del objeto.",
       "referencias": [],
       "pendiente": "La identidad y el paradero de quien entregó la piedra.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P33-003",
@@ -522,7 +527,7 @@
         "39-020"
       ],
       "pendiente": "La ubicación inicial ocultada por Nox, la amenaza concreta que teme y su participación en aquel traslado.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P33-004",
@@ -535,7 +540,7 @@
         "35-002"
       ],
       "pendiente": "El destino de Morris y cómo se transmitió la noticia de la muerte de Margaret.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P34-001",
@@ -549,7 +554,7 @@
         "41-005"
       ],
       "pendiente": "La causa de las lagunas de memoria y de sus regresos anteriores a Shiaru.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P34-002",
@@ -569,7 +574,7 @@
         "40-017"
       ],
       "pendiente": "",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P34-003",
@@ -583,7 +588,7 @@
         "35-016"
       ],
       "pendiente": "El balance del campamento y la causa o destino de la desaparición de Paco.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P34-004",
@@ -599,7 +604,7 @@
         "39-020"
       ],
       "pendiente": "La especie exacta de la cría y si Cuicapalli aceptaría alojarla.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P35-001",
@@ -612,7 +617,7 @@
         "37-017"
       ],
       "pendiente": "Las identidades de las criaturas y la ubicación o significado de la pirámide de la visión.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P35-002",
@@ -628,32 +633,43 @@
         "37-017"
       ],
       "pendiente": "El contenido íntegro de los informes, la situación oficial de Molly y la charla prometida en el barco.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P35-003",
       "capitulo": 35,
       "indice": 3,
       "pregunta": "¿Qué piratas anuncia Nox que están en camino y qué prepara el almirante? No se muestra su llegada (35-016).",
-      "estado": "parcial",
-      "respuesta": "Después se intercepta un convoy de cañones y pólvora que la Marina mueve hacia Aurora para atacar. Molly proporciona la ruta. No se documentan los nombres o la llegada de los piratas anunciados por Nox.",
+      "estado": "resuelta",
+      "respuesta": "La ofensiva de Tórtola se concreta en una flota contra Shiaru, con el Invictus en la operación de retaguardia. Los piratas anunciados llegan como los otros cuatro reyes: Diente de Oro, Banana, Sonriente y Taylor, reconocidos por Bonnie. Su llegada destruye los nuevos refuerzos de la Marina; no supone una alianza estable con Bonnie, a quien Taylor acusa y dispara.",
       "referencias": [
-        "37-004",
-        "37-007"
+        "42-005",
+        "42-019",
+        "42-065",
+        "42-069",
+        "42-071",
+        "42-072"
       ],
-      "pendiente": "La identidad y llegada de los piratas anunciados y el resto de la estrategia del almirante.",
-      "revisado_hasta": 41
+      "pendiente": "",
+      "revisado_hasta": 42
     },
     {
       "id": "P35-004",
       "capitulo": 35,
       "indice": 4,
       "pregunta": "¿Los perseguidores siguen al grupo y qué ocurre con Smith y Pinky? Se ordena seguirlos y se confirma la recaptura de Pinky (35-010, 35-013 y 35-016).",
-      "estado": "pendiente",
-      "respuesta": "No se vuelve a mostrar a Smith ni se verifica el seguimiento ordenado contra los viajeros. La última captura confirmada de Pinky sigue siendo la del capítulo 35, sin una liberación o un destino posterior documentados.",
-      "referencias": [],
-      "pendiente": "El destino de Smith, la ejecución de la persecución y la evolución posterior del cautiverio de Pinky.",
-      "revisado_hasta": 41
+      "estado": "parcial",
+      "respuesta": "Nox encuentra a Pinky encadenada en el Invictus de Tórtola y la libera. Tras el cambio de apariencia de una fruta, combate a los marines y prende la pólvora que acaba en la explosión del buque. El director la despide en el cierre. No se vuelve a localizar a Smith ni se demuestra el seguimiento ordenado contra los viajeros después de la fuga de Aurora.",
+      "referencias": [
+        "42-031",
+        "42-032",
+        "42-042",
+        "42-057",
+        "42-062",
+        "42-072"
+      ],
+      "pendiente": "El destino de Smith y la ejecución del seguimiento ordenado contra los viajeros.",
+      "revisado_hasta": 42
     },
     {
       "id": "P36-001",
@@ -666,7 +682,7 @@
         "38-001"
       ],
       "pendiente": "La identidad del hombre lobo y su relación con la bestia del cierre.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P36-002",
@@ -677,7 +693,7 @@
       "respuesta": "No se muestra después el interrogatorio del marine ni se cuenta qué hace Bonnie con él.",
       "referencias": [],
       "pendiente": "La información del marine y su destino tras la entrega.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P36-003",
@@ -693,21 +709,24 @@
         "41-005"
       ],
       "pendiente": "La causa del regreso de Blink y de sus lagunas de memoria.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P36-004",
       "capitulo": 36,
       "indice": 4,
       "pregunta": "¿Se ocuparán las ruinas y se reparará a tiempo el Zampaolas? No se muestran una guarnición ni una nueva navegación (36-017–36-018).",
-      "estado": "pendiente",
-      "respuesta": "El grupo consigue desencajar el Zampaolas y Erandy aporta dinero para materiales. La proa sigue rota y no se acredita que el barco esté listo para navegar. No se muestra la ocupación de las ruinas por una guarnición.",
+      "estado": "parcial",
+      "respuesta": "Ione relata haber reparado y armado el Zampaolas. La nave sale de Shiaru, maniobra en el arrecife, combate y se retira con su tripulación. Queda documentada su navegación posterior; las averías de la batalla son nuevas. No se muestra una guarnición pirata ocupando las ruinas estratégicas de la Marina.",
       "referencias": [
-        "38-015",
-        "38-016"
+        "42-003",
+        "42-013",
+        "42-017",
+        "42-037",
+        "42-067"
       ],
-      "pendiente": "La reparación completa y fecha de navegación del Zampaolas, y la ocupación de las ruinas.",
-      "revisado_hasta": 41
+      "pendiente": "La ocupación de las ruinas por una guarnición pirata.",
+      "revisado_hasta": 42
     },
     {
       "id": "P37-001",
@@ -715,24 +734,33 @@
       "indice": 1,
       "pregunta": "¿Qué han despertado y qué contiene el ojo? ¿Cómo reacciona ante Citlali? Hay testimonios y se propone un experimento reservado (37-005, 37-017).",
       "estado": "pendiente",
-      "respuesta": "No se representa el experimento propuesto ni se identifica de forma definitiva lo despertado o el contenido del ojo. Las marcas de Citlali reciben atención posterior, pero no se prueba su mecanismo de interacción con el objeto.",
+      "respuesta": "El ojo-orbe permanece con Nox: lo encuentra en su chaqueta cuando nota los tatuajes de su espalda antes de decidir quedarse en el Invictus. No se representa el experimento con Citlali ni se identifica lo despertado, el contenido del ojo o una dominación que explique su decisión. La explosión deja sin documentar el destino posterior del objeto.",
       "referencias": [
         "39-017",
-        "39-018"
+        "39-018",
+        "42-061",
+        "42-062"
       ],
-      "pendiente": "La identidad de lo despertado, la función del ojo y el resultado de una prueba con Citlali.",
-      "revisado_hasta": 41
+      "pendiente": "La identidad de lo despertado, la función y destino del ojo y el resultado de una prueba con Citlali.",
+      "revisado_hasta": 42
     },
     {
       "id": "P37-002",
       "capitulo": 37,
       "indice": 2,
       "pregunta": "¿Llegará Nox a Aurora con el ojo y qué hará tras incumplir la condición? Parte sin informar (37-018).",
-      "estado": "pendiente",
-      "respuesta": "No se muestra una llegada posterior de Nox a Aurora ni el uso del ojo fuera de Shiaru. Tampoco se representan las consecuencias del incumplimiento.",
-      "referencias": [],
-      "pendiente": "La llegada de Nox, sus acciones con el ojo y las consecuencias de quebrantar el acuerdo.",
-      "revisado_hasta": 41
+      "estado": "parcial",
+      "respuesta": "Nox aparece trabajando con Tórtola en el Invictus y conserva el ojo-orbe fuera de Shiaru. Abandona la colaboración con la Marina mediante el sabotaje, libera a Pinky y dirige el buque contra la flota. No se muestra su llegada anterior al Fuerte Aurora ni una exigencia de Bonnie por la condición incumplida; el objeto sigue en su chaqueta antes de la explosión.",
+      "referencias": [
+        "42-005",
+        "42-019",
+        "42-031",
+        "42-041",
+        "42-061",
+        "42-062"
+      ],
+      "pendiente": "La llegada concreta a Aurora, la reacción de Bonnie al incumplimiento y el destino posterior del ojo.",
+      "revisado_hasta": 42
     },
     {
       "id": "P37-003",
@@ -745,7 +773,7 @@
         "38-001"
       ],
       "pendiente": "El contacto con el reino, la financiación y el resultado de la propuesta de alianza.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P37-004",
@@ -756,7 +784,7 @@
       "respuesta": "No se inspecciona después el cuerpo del tiranosaurio ni se confirma su estado con una nueva escena.",
       "referencias": [],
       "pendiente": "El estado definitivo del tiranosaurio tras el cañonazo.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P38-001",
@@ -771,7 +799,7 @@
         "40-039"
       ],
       "pendiente": "Los efectos de la mordedura de Ione sobre Ilikar.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P38-002",
@@ -784,7 +812,7 @@
         "40-039"
       ],
       "pendiente": "La causa de las heridas con que apareció en la playa y los detalles de sus antecedentes tribales.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P38-003",
@@ -795,18 +823,25 @@
       "respuesta": "No se muestra que Bonnie descubra el reparto de su cofre ni que reclame los objetos o imponga consecuencias.",
       "referencias": [],
       "pendiente": "La reacción de Bonnie y cualquier reclamación por el cofre.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P38-004",
       "capitulo": 38,
       "indice": 4,
       "pregunta": "¿Cuándo repararán la proa y podrá navegar el barco? Desencajarlo no equivale a repararlo (38-015).",
-      "estado": "pendiente",
-      "respuesta": "No se documenta después una reparación completa de la proa ni una navegación del Zampaolas.",
-      "referencias": [],
-      "pendiente": "La reparación de la proa y la fecha o primera navegación posterior.",
-      "revisado_hasta": 41
+      "estado": "resuelta",
+      "respuesta": "Ione cuenta que ha reparado y preparado el Zampaolas para la batalla. Sale con la flotilla pirata, cruza la zona de arrecifes, realiza giros con ayuda del ancla y se retira navegando. Esto acredita que volvió a estar operativo después de su extracción, aunque reciba nuevas averías en combate.",
+      "referencias": [
+        "42-003",
+        "42-013",
+        "42-017",
+        "42-024",
+        "42-037",
+        "42-067"
+      ],
+      "pendiente": "",
+      "revisado_hasta": 42
     },
     {
       "id": "P39-001",
@@ -817,7 +852,7 @@
       "respuesta": "Los yuan-ti reclaman la piel de Citlali como clave y su maldición cura a una abominación. El capítulo 40 no retoma la explicación de las marcas ni identifica al Señor; el nuevo veneno del bosque no demuestra una relación causal con ellas.",
       "referencias": [],
       "pendiente": "La función de la piel y de las marcas, y la identidad del Señor.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P39-002",
@@ -828,7 +863,7 @@
       "respuesta": "Citlali expresa una duda sobre el bebé y la influencia del alcohol. El capítulo 40 no aporta una identificación ni confirma parentesco entre Citlali y Nox.",
       "referencias": [],
       "pendiente": "La identidad del bebé y la relación real entre Citlali y Nox.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P39-003",
@@ -843,7 +878,7 @@
         "40-017"
       ],
       "pendiente": "Las identidades de los elfos, la enfermedad y el impedimento del dragón.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P39-004",
@@ -864,7 +899,7 @@
         "41-051"
       ],
       "pendiente": "El resultado de la conversación con Citlali y las causas completas de las amenazas.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P39-005",
@@ -877,7 +912,7 @@
         "41-051"
       ],
       "pendiente": "La identidad de la presencia del capítulo 39 y el destino de los yuan-ti tras el derrumbe.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     }
   ],
   "cotejo_capitulo_40": "Preguntas cotejadas individualmente con los tres bloques completos. Las respuestas sin novedad conservan su evidencia y estado; se actualizan únicamente las continuidades aportadas por esta sesión."

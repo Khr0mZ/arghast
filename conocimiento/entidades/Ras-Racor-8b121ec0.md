@@ -12,7 +12,7 @@ Base para revisar equivalencia: [17-006](../capitulos/17.md), [17-010](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### La ciudad detrás de la patrulla
 

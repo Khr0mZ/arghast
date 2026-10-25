@@ -12,7 +12,7 @@ Base para revisar equivalencia: [31-015](../capitulos/31.md), [40-002](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### El enemigo que permanece en el bosque
 
@@ -241,4 +241,12 @@ Tipo: `hecho_confirmado`.
 Naór va a la taberna y trae a Leo para que vea a Tortas. Durante la conversación se expresa poca disposición a combatir a un dragón y Winscore empieza a apuntar el nombre y los datos que el anciano intenta recordar. Tortas dice conocer el nombre y comienza a deletrearlo con mucha lentitud. La transcripción alterna formas irreconocibles y no completa una grafía segura. Cuando preguntan por la guarida, el director aclara que Tortas no sabe dónde está. Se hace de noche, la gente abandona la fiesta y Leo empieza a dormirse mientras Naór intenta mantenerlo atento. La sesión termina con el anciano todavía pronunciando el nombre.
 
 Los enunciados sobre el roble rojo y subir una montaña no se establecen como ruta; el director corrige expresamente que desconoce la guarida. El deletreo incompleto no autoriza a fijar Colgen o Clodidrax ni a fusionar sus fichas. El comentario de Chopito sobre cuatro horas no confirma una duración literal de esta escena.
+
+## [42-004 · Ilikar vuelve de Iktan y busca aliados contra el dragón](../capitulos/42.md) · 00:04:11.920
+
+Tipo: `declaracion_personaje`.
+
+Ilikar recuerda que ha cruzado la isla, comparte un enemigo en el dragón verde y ha entrenado como monje gracias a Tortas. Vuelve a Shiaru en busca de su tripulación y de Poncelot, a quien considera experto en dragones. La necesidad de Ione lo lleva a preparar el barco y recoger un arma nueva para el combate próximo.
+
+El nombre entrecortado del dragón no fija su grafía ni lo identifica con Clodidrax. No se representa una aceptación de la caza por Poncelot o Ione; tampoco se identifica aquí el arma recién recogida.
 

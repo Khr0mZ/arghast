@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revisado_hasta": 41,
+  "revisado_hasta": 42,
   "preguntas": [
     {
       "id": "P40-001",
@@ -18,7 +18,7 @@
         "41-051"
       ],
       "pendiente": "El origen de la animación de los restos y la función causal del veneno.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P40-002",
@@ -33,7 +33,7 @@
         "40-024"
       ],
       "pendiente": "La extensión restante del daño y la recuperación de la vegetación.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P40-003",
@@ -50,7 +50,7 @@
         "41-055"
       ],
       "pendiente": "La grafía, la ubicación de la guarida y la relación de identidad con Clodidrax.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P40-004",
@@ -58,13 +58,14 @@
       "indice": 4,
       "pregunta": "¿Qué información necesita Eldrat del dragón y aceptarán Ione y Poncelot ayudar? El interrogatorio y el reclutamiento no se realizan (40-037, 40-039).",
       "estado": "pendiente",
-      "respuesta": "Eldrat obtiene de Ilikar el compromiso de preguntar antes de entregarle la cabeza del dragón. No revela el contenido de sus preguntas. Ilikar propone a Ione y Poncelot como aliados, sin invitación ni aceptación mostradas.",
+      "respuesta": "Ilikar vuelve a Shiaru tras entrenar con Tortas y buscar al dragón verde. Quiere reunir a su tripulación y a Poncelot, pero la necesidad de defender Shiaru lo lleva a preparar y combatir en el Zampaolas. No revela las preguntas de Eldrat ni se representa la aceptación de una expedición de caza por Ione o Poncelot.",
       "referencias": [
         "40-037",
-        "40-039"
+        "40-039",
+        "42-004"
       ],
-      "pendiente": "Las preguntas de Eldrat, el reclutamiento y el cumplimiento del pacto.",
-      "revisado_hasta": 41
+      "pendiente": "La información que Eldrat necesita y la aceptación y ejecución de la caza e interrogatorio.",
+      "revisado_hasta": 42
     },
     {
       "id": "P40-005",
@@ -82,7 +83,7 @@
         "41-054"
       ],
       "pendiente": "La edad de Tortas y la historia de su inmovilidad.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P40-006",
@@ -101,7 +102,7 @@
         "41-046"
       ],
       "pendiente": "El envío y resultado de la ayuda a Eromov y el alcance restante de la operación contra Iktan.",
-      "revisado_hasta": 41
+      "revisado_hasta": 42
     },
     {
       "id": "P40-007",
@@ -109,15 +110,17 @@
       "indice": 7,
       "pregunta": "¿Dónde está Cipo tras la patada y de dónde procede el fragmento de espada recuperado? No se resuelven su búsqueda ni la historia del arma (40-003–40-009).",
       "estado": "parcial",
-      "respuesta": "Chopito descubre a Cipo saliendo del agua y Tentacol lo acerca al fuego. Recupera el rojo y las llamas y el director lo señala después en el festival de Iktan. Queda resuelto el paradero posterior, sin que Ilikar sea informado en escena; la procedencia, dueño e historia del fragmento de espada continúan desconocidos.",
+      "respuesta": "Tras el rescate por Tentacol en el capítulo 41, Cipo vuelve a aparecer con el grupo del Zampaolas. Poncelot lo dispara contra una cubierta y después acompaña a Ilikar por la cadena durante los abordajes. Queda documentada la reunión posterior con el goliat, sin narrar cómo supo del rescate. El fragmento de espada sigue sin origen, dueño o función explicados.",
       "referencias": [
         "41-008",
-        "41-009",
         "41-014",
-        "41-024"
+        "41-024",
+        "42-036",
+        "42-045",
+        "42-050"
       ],
-      "pendiente": "El origen y la historia del fragmento de espada; no se documenta que Ilikar conozca el rescate.",
-      "revisado_hasta": 41
+      "pendiente": "El origen, dueño e historia del fragmento de espada.",
+      "revisado_hasta": 42
     }
   ]
 }

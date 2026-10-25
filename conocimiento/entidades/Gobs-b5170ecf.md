@@ -8,11 +8,11 @@ Médico y matasanos de Shiaru se agrupan por función y establecimiento; no todo
 
 Etiquetas agrupadas: Gobs (médico de Shiaru, grafía provisional); Gobs (médico, grafía provisional); Matasanos de Shiaru.
 
-Base para revisar equivalencia: [08-006](../capitulos/08.md), [10-002](../capitulos/10.md), [24-021](../capitulos/24.md), [26-001](../capitulos/26.md).
+Base para revisar equivalencia: [08-006](../capitulos/08.md), [10-002](../capitulos/10.md), [24-021](../capitulos/24.md), [26-001](../capitulos/26.md), [42-006](../capitulos/42.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### Un médico al que se acude con recelo
 
@@ -25,6 +25,12 @@ Fuentes: [08-006 · El elfo rechaza la amputación propuesta por el médico](../
 El entorno de su consulta vuelve a aparecer cuando Ione sale incómoda después de adquirir un tatuaje. Poncelot cree haberle entregado antes un informe y recibido un abrazo, pero la verdadera Ione lo niega: Coyote la había suplantado. El episodio documenta la confusión de los visitantes, no una prueba de que Gobs conozca o dirija el engaño.
 
 Fuentes: [26-001 · Compra de armadura y suplantación de Ione por Coyote](../capitulos/26.md) · 00:00:00.000 · [26-003 · Ione sale de la consulta y niega haber recibido el informe](../capitulos/26.md) · 00:06:00.000.
+
+### Instrumental para la defensa
+
+Gobs acude a la concentración de Shiaru y organiza agujas, una sierra y un taladro en su mochila antes de la batalla. El pasaje muestra su disposición y su instrumental, sin representar una intervención médica.
+
+Fuentes: [42-006 · Shiaru reúne a sus defensores en la plaza](../capitulos/42.md) · 00:08:05.039.
 
 ## Registros y evidencias
 
@@ -91,4 +97,12 @@ Tipo: `hecho_confirmado`.
 Ione sale de la consulta médica incómoda y rascándose, tras comprar un tatuaje ofrecido por el director. Poncelot aparece con la armadura nueva. Insiste en que le dio un informe del ataque y recibió su abrazo, pero ella lo niega y afirma que reparaba el barco. Blink se reúne con ellos. No descubren al suplantador durante la charla.
 
 No se especifica la habilidad del tatuaje. La armadura anterior se perdió por una tirada; la atribución a demonios es una creencia de Poncelot.
+
+## [42-006 · Shiaru reúne a sus defensores en la plaza](../capitulos/42.md) · 00:08:05.039
+
+Tipo: `hecho_confirmado`.
+
+La plaza reúne a los habitantes y aliados de Shiaru. Gobs prepara agujas, una sierra y un taladro; Armin espera con dos enormes mazos. Un grupo de mujeres prepara armas de fuego. Eleanor y Erandy están presentes junto a miembros del Zampaolas. Jack aparece nervioso detrás de Ilikar; también se muestran Baps, Mugre y Ojo Ausente. Bonnie conversa con Molly.
+
+El pasaje no nombra con claridad a la mujer que encabeza al grupo armado. Su contexto no basta para atribuir a Liz cada intervención o confirmar que Gobs opere a alguien.
 

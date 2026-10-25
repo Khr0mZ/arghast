@@ -1,5 +1,5 @@
 {
-  "revisado_hasta": 41,
+  "revisado_hasta": 42,
   "entidades": {
     "Anillo familiar de Erendriel": [
       {
@@ -234,6 +234,22 @@
           "32-020",
           "11-024"
         ]
+      },
+      {
+        "titulo": "Rayos y cambio de aspecto",
+        "texto": "Bonnie aprieta la moneda de los capitanes piratas durante su discurso. Su cuerpo chisporrotea, sus ojos brillan azules y aparece un aspecto marcado por el rayo mientras se oscurece el cielo. Después prepara descargas desde el barco. La activación se observa, pero no explica la procedencia del objeto o todos sus límites.",
+        "referencias": [
+          "42-012",
+          "42-018"
+        ]
+      },
+      {
+        "titulo": "El poder vuelve a manos de Ione",
+        "texto": "Después de las embestidas del Relámpago del Mar, Bonnie aparece en el Zampaolas y su electricidad se recoge en la moneda. La coloca en la mano de Ione y exige la retirada. El barco de Bonnie queda sin su brillo y carga mágica antes de ser rodeado por los otros reyes.",
+        "referencias": [
+          "42-066",
+          "42-068"
+        ]
       }
     ],
     "Monedas antiguas de Ayoto": [
@@ -275,6 +291,13 @@
           "37-005",
           "37-017",
           "37-018"
+        ]
+      },
+      {
+        "titulo": "En la chaqueta antes del estallido",
+        "texto": "Cuando va a escapar del Invictus, Nox nota los tatuajes de su espalda y encuentra el orbe con ojo de serpiente en su chaqueta. A continuación abandona el cabo y corre para detener a Tórtola. No se manifiesta una función del objeto ni se acredita una fuga provocada por él.",
+        "referencias": [
+          "42-061"
         ]
       }
     ],
@@ -356,6 +379,13 @@
           "26-022",
           "28-015"
         ]
+      },
+      {
+        "titulo": "La sensación previa a quedarse",
+        "texto": "Nox siente sus tatuajes mientras sopesa saltar al mar desde el Invictus. Al palparse encuentra el ojo-orbe en su chaqueta y después corre contra Tórtola. La escena conserva la reacción sin explicar si las marcas influyen en su decisión o producen otro efecto.",
+        "referencias": [
+          "42-061"
+        ]
       }
     ],
     "Zampaolas": [
@@ -391,6 +421,40 @@
           "38-009",
           "38-015",
           "38-016"
+        ]
+      },
+      {
+        "titulo": "Preparado para cruzar el arrecife",
+        "texto": "Ione repara y equipa el Zampaolas con artillería, munición encadenada, pólvora, aceite y una ballesta. La tripulación ocupa sus puestos y el barco se integra en la pequeña flota de Bonnie. Al ver las filas de la Marina, la capitana decide cruzar el arrecife para atacar por detrás, aprovechando su menor calado sin eliminar el riesgo de daños.",
+        "referencias": [
+          "42-003",
+          "42-013",
+          "42-015",
+          "42-017"
+        ]
+      },
+      {
+        "titulo": "Cañonazos y giros en el arrecife",
+        "texto": "El Zampaolas recibe impactos que abren el casco y arrancan una pieza añadida, por lo que su tripulación corre a reparar. Ione ordena redistribuir la carga y utiliza el ancla de Ilikar para cerrar un giro junto al espigón. La ballesta dispara primero a Cipo contra un barco y después un virote encadenado para enlazar naves enemigas. Mantiene la maniobra mientras el fuego cruzado y los refuerzos amenazan a la flota pirata.",
+        "referencias": [
+          "42-024",
+          "42-027",
+          "42-035",
+          "42-036",
+          "42-037",
+          "42-044",
+          "42-045"
+        ]
+      },
+      {
+        "titulo": "Fuera de la zona de explosión",
+        "texto": "El Zampaolas recoge a quienes han abordado barcos enemigos y pasa junto al Invictus. La explosión lo escora y el oleaje lo empuja hacia la costa sin encallarlo. Ilikar ordena regresar hacia Ione, que busca a Nox entre los restos. Tras la entrega de la moneda, Ione toma el timón y lo retira del combate.",
+        "referencias": [
+          "42-051",
+          "42-062",
+          "42-063",
+          "42-064",
+          "42-067"
         ]
       }
     ],
@@ -445,6 +509,87 @@
           "41-029",
           "41-030",
           "41-051"
+        ]
+      }
+    ],
+    "Gorro de capitana de Ione": [
+      {
+        "titulo": "Una custodia para el final de la batalla",
+        "texto": "Ante el miedo de Jack, Ione se quita el gorro de capitana y se lo entrega para que lo guarde. Le pide que se lo devuelva al terminar el combate y él acepta. El objeto convierte la promesa de protección en una tarea compartida, todavía sin devolución mostrada en este tramo.",
+        "referencias": [
+          "42-008"
+        ]
+      }
+    ],
+    "Fular de alas de mosca de Ione": [
+      {
+        "titulo": "Un agradecimiento de Poncelot",
+        "texto": "Poncelot encarga y recoge un paquete antes de embarcar. Se lo entrega a Ione como agradecimiento por haberlo acogido y tratado como compañero. El regalo se describe como un fular transparente con vetas de alas de mosca; Ione se lo pone y abraza al gnomo. No se presentan propiedades mágicas ni una procedencia de Merlucilla III.",
+        "referencias": [
+          "42-001",
+          "42-009"
+        ]
+      }
+    ],
+    "Relámpago del Mar": [
+      {
+        "titulo": "La nave de Bonnie entre rayos",
+        "texto": "El enorme barco de Bonnie forma con el Zampaolas y otras cinco naves la pequeña flota defensora de Shiaru. Bajo la tormenta adelanta a los barcos piratas y parece desprender rayos mientras Bonnie prepara chispas y ordena no malgastar munición. El relato lo llama Relámpago del Mar.",
+        "referencias": [
+          "42-015",
+          "42-018"
+        ]
+      },
+      {
+        "titulo": "El barco que recibe la tormenta",
+        "texto": "La nave de Bonnie ataca con sus baterías mientras su capitana hace caer rayos sobre la Marina. Después los rayos golpean sus propias velas sin incendiarlas: la luz parece recorrer el casco hasta el timón. Transformado en una estela azul eléctrica, el Relámpago del Mar atraviesa la línea enemiga y parte varios barcos por la mitad.",
+        "referencias": [
+          "42-030",
+          "42-039",
+          "42-046"
+        ]
+      },
+      {
+        "titulo": "La última defensa de Bonnie",
+        "texto": "El Relámpago del Mar rompe la formación naval mediante embestidas y rayos. Al entregar Bonnie la moneda a Ione, pierde su brillo y su carga mágica, aunque sigue siendo un barco enorme. Los cuatro buques de los otros reyes piratas lo rodean y tienden pasarelas para abordar una reunión que termina con el disparo contra Bonnie.",
+        "referencias": [
+          "42-052",
+          "42-059",
+          "42-068",
+          "42-072"
+        ]
+      }
+    ],
+    "Invictus": [
+      {
+        "titulo": "La aproximación de Tórtola",
+        "texto": "El Invictus navega hacia el norte con Tórtola y Nox a bordo mientras el resto de la armada forma ante los piratas. El director lo presenta como una nave nunca derrotada ni dañada. Tórtola ordena colocar barcos menores delante durante la aproximación por el arrecife. En sus niveles inferiores Nox encuentra una jaula con una figura humanoide encadenada, aún sin identificar.",
+        "referencias": [
+          "42-019",
+          "42-020",
+          "42-021",
+          "42-022"
+        ]
+      },
+      {
+        "titulo": "De prisión a nave saboteada",
+        "texto": "El Invictus contiene la celda donde Nox libera a Pinky y recibe la munición recuperada de sus escoltas encallados. El pirata duerme a su mando, toma el timón y cruza el arrecife hacia la batalla. El buque aparece como una nave blanca enorme e impecable, algo mayor e imponente que la de Bonnie. En su interior Nox prepara una línea de pólvora entre la zona de carga y el mástil, mientras Pinky combate a los marines.",
+        "referencias": [
+          "42-031",
+          "42-034",
+          "42-041",
+          "42-042",
+          "42-047"
+        ]
+      },
+      {
+        "titulo": "De buque de Tórtola a barco explosivo",
+        "texto": "El Invictus es identificado como el barco del capitán Tórtola. Nox toma el timón herido, altera sus velas y pabellón con una imagen mayor y manda prender su pólvora. Deja la nave rumbo a la flota, pero permanece a bordo para impedir que el aviar cambie el curso. Una explosión arrasa el barco y la zona cercana.",
+        "referencias": [
+          "42-055",
+          "42-057",
+          "42-061",
+          "42-062"
         ]
       }
     ]

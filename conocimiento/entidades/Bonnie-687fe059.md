@@ -8,11 +8,11 @@ Happy Bonnie/Bonny designan a la misma dirigente pirata.
 
 Etiquetas agrupadas: Happy Bonnie / Bonny (grafía provisional).
 
-Base para revisar equivalencia: [01-011](../capitulos/01.md), [11-029](../capitulos/11.md), [32-020](../capitulos/32.md).
+Base para revisar equivalencia: [01-011](../capitulos/01.md), [11-029](../capitulos/11.md), [32-020](../capitulos/32.md), [42-011](../capitulos/42.md), [42-012](../capitulos/42.md), [42-015](../capitulos/42.md), [42-018](../capitulos/42.md), [42-030](../capitulos/42.md), [42-039](../capitulos/42.md), [42-046](../capitulos/42.md), [42-048](../capitulos/42.md), [42-052](../capitulos/42.md), [42-059](../capitulos/42.md), [42-066](../capitulos/42.md), [42-068](../capitulos/42.md), [42-071](../capitulos/42.md), [42-072](../capitulos/42.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### Happy Bonnie y el precio de Shiaru
 
@@ -31,6 +31,24 @@ Fuentes: [10-008 · Bonnie impone el rescate de Pix vivo](../capitulos/10.md) ·
 Cuando Nox entrega el ojo-orbe y describe sus visiones, Bonnie afirma que ha protegido Xoltacan durante cinco años junto a Molly y que la llegada de superiores de la Marina alteró el acuerdo. Durante el asalto a Shiaru activa una moneda pirata y combate convertida en rayo. Tras el rescate de Molly ambas organizan operaciones contra la Marina. Bonnie conserva información sobre Citlali y presta el ojo a Nox solo si permanece en Shiaru. El alcance completo de sus planes sigue sin revelarse.
 
 Fuentes: [28-019 · Orbe entregado y visiones enviadas a Bonnie](../capitulos/28.md) · 01:43:00.000 · [28-020 · Bonnie declara una alianza con Molly para proteger la isla](../capitulos/28.md) · 01:50:00.000 · [28-021 · Anciana nativa y pacto de intercambio de información](../capitulos/28.md) · 01:53:00.000 · [32-014 · Bonnie activa moneda y combate como rayo](../capitulos/32.md) · 01:26:00.000 · [32-018 · Trato roto y control de Bonnie](../capitulos/32.md) · 02:04:00.000 · [35-019 · Bonnie y Molly reencuentran; recompensas](../capitulos/35.md) · 02:42:00.000 · [37-004 · Emboscada a los suministros con Tlachka al mando](../capitulos/37.md) · 00:24:00.000 · [37-017 · Bonnie presta el ojo con una condición que Nox planea incumplir](../capitulos/37.md) · 02:09:00.000.
+
+### La tormenta sobre Shiaru
+
+Bonnie reúne a los defensores de Shiaru y los exhorta a combatir a la Marina. Al apretar su moneda pirata cambia de aspecto entre rayos y el cielo se oscurece. Embarca, avanza en el Relámpago del Mar y prepara una nueva descarga mientras exige a sus aliados que dejen de malgastar munición. El discurso y la transformación no resuelven todavía el resultado de la batalla ni el origen de su poder.
+
+Fuentes: [42-011 · Bonnie reclama la defensa de la libertad de Shiaru](../capitulos/42.md) · 00:20:27.440 · [42-012 · La moneda de Bonnie acompaña su transformación eléctrica](../capitulos/42.md) · 00:22:00.919 · [42-015 · Siete barcos piratas salen bajo la tormenta](../capitulos/42.md) · 00:30:07.559 · [42-018 · El Relámpago del Mar avanza con Bonnie preparando rayos](../capitulos/42.md) · 00:37:59.520.
+
+### La tormenta del Relámpago del Mar
+
+Bonnie combina las baterías de su barco con rayos que incendian los buques enemigos. Después atrae la tormenta sobre su propia nave: las velas se iluminan y la energía parece recorrerla hasta el timón. El Relámpago del Mar se vuelve azul brillante, deja una estela eléctrica y atraviesa varias naves, partiéndolas por la mitad. Su ataque anima a parte de los piratas, aunque la Marina sigue recibiendo refuerzos.
+
+Fuentes: [42-030 · Bonnie descarga rayos sobre la flota](../capitulos/42.md) · 00:56:31.240 · [42-039 · Los rayos alimentan el barco de Bonnie](../capitulos/42.md) · 01:13:56.560 · [42-046 · El Relámpago del Mar atraviesa y parte barcos de la Marina](../capitulos/42.md) · 01:27:39.000 · [42-048 · El ataque de Bonnie anima a unos piratas mientras otros se marchan](../capitulos/42.md) · 01:32:27.000.
+
+### La moneda devuelta y el disparo de Taylor
+
+Bonnie embiste a la Marina con su nave envuelta en rayos y presencia el ataque de Nox. Cuando llegan los otros reyes, entrega la moneda a Ione y exige que salgan del combate. Su barco pierde el poder eléctrico y queda rodeado. Taylor sostiene que ocultó Xoltacan y rompió su pacto. Bonnie le responde con desprecio; él le dispara a la frente y la sesión termina.
+
+Fuentes: [42-052 · El Relámpago del Mar prepara otra embestida](../capitulos/42.md) · 01:40:50.159 · [42-059 · Bonnie vuelve a abrirse paso entre la flota](../capitulos/42.md) · 01:55:33.920 · [42-066 · Bonnie entrega la moneda a Ione y les ordena marcharse](../capitulos/42.md) · 02:12:59.000 · [42-068 · Los otros reyes rodean al Relámpago del Mar sin su poder mágico](../capitulos/42.md) · 02:17:14.319 · [42-071 · Taylor acusa a Bonnie de romper un pacto y ocultar Xoltacan](../capitulos/42.md) · 02:22:59.960 · [42-072 · Taylor dispara a la frente de Bonnie y el director despide a tres personajes](../capitulos/42.md) · 02:23:47.600.
 
 ## Registros y evidencias
 
@@ -761,4 +779,196 @@ Tipo: `hecho_confirmado`.
 Ione quiere una revancha y pide a Poncelot que la enfade. Él teme que lo sustituyan, pero ella reafirma su confianza y le asegura que no será reemplazado. La emoción la transforma en loba; abraza y lame al gnomo y prepara el duelo con Ilikar, sin que se muestre el resultado. Erandy encuentra parecido el jade a otro anterior. En una escena reservada, un hipopótamo arroja al agua el cofre vacío y se ve una placa de propiedad de Happy Bonnie.
 
 Según el director, los personajes no observan la placa porque están distraídos. No se acredita un robo intencional con conocimiento de la propietaria; las consecuencias quedan pendientes.
+
+## [42-006 · Shiaru reúne a sus defensores en la plaza](../capitulos/42.md) · 00:08:05.039
+
+Tipo: `hecho_confirmado`.
+
+La plaza reúne a los habitantes y aliados de Shiaru. Gobs prepara agujas, una sierra y un taladro; Armin espera con dos enormes mazos. Un grupo de mujeres prepara armas de fuego. Eleanor y Erandy están presentes junto a miembros del Zampaolas. Jack aparece nervioso detrás de Ilikar; también se muestran Baps, Mugre y Ojo Ausente. Bonnie conversa con Molly.
+
+El pasaje no nombra con claridad a la mujer que encabeza al grupo armado. Su contexto no basta para atribuir a Liz cada intervención o confirmar que Gobs opere a alguien.
+
+## [42-011 · Bonnie reclama la defensa de la libertad de Shiaru](../capitulos/42.md) · 00:20:27.440
+
+Tipo: `hecho_confirmado`.
+
+Bonnie impone silencio y llama a los presentes a defender Shiaru contra la Marina. Recuerda que acogió a compañeros como Eleanor, Poncelot e Ilikar y les exige permanecer en sus puestos. Presenta el poblado como un lugar donde ser libres bajo su autoridad y amenaza a quienes huyan.
+
+Las amenazas y la declaración de libertad pertenecen al discurso de Bonnie; no se representan huidas ni ejecuciones de desertores.
+
+## [42-012 · La moneda de Bonnie acompaña su transformación eléctrica](../capitulos/42.md) · 00:22:00.919
+
+Tipo: `hecho_confirmado`.
+
+Bonnie saca la moneda de los capitanes piratas y la aprieta. Chisporrotea, sus ojos brillan azules y su aspecto cambia entre rayos; aparece un símbolo de rayo y se oscurece el cielo. Proclama que solo uno de los bandos conservará esas tierras y se dirige al muelle para embarcar.
+
+Se representa la activación y sus efectos visibles, sin explicar el origen de la moneda, sus límites completos o una maldición demostrada.
+
+## [42-015 · Siete barcos piratas salen bajo la tormenta](../capitulos/42.md) · 00:30:07.559
+
+Tipo: `explicacion_director`.
+
+El director describe cinco barcos piratas además del Zampaolas y del enorme buque de Bonnie. La pequeña flota incluye cascos deteriorados y artillería de funcionamiento incierto. Dejan espacio para el Zampaolas y avanzan bajo un cielo negro, lluvia y relámpagos.
+
+La cifra corresponde a la flota descrita antes del enfrentamiento, no a los supervivientes posteriores. La artillería averiada se plantea como posibilidad general, sin inventario por buque.
+
+## [42-016 · La Marina forma dos líneas de fuego frente a los piratas](../capitulos/42.md) · 00:31:35.600
+
+Tipo: `hecho_confirmado`.
+
+Numerosos barcos de guerra de la Marina aparecen desde el sur, en dirección del Fuerte Aurora, con velas blancas, madera cuidada y muchos cañones. Los piratas empiezan a disparar sin una formación clara. La Marina espera, gira sus naves de costado y escalona dos filas para permitir que ambas disparen sin alcanzarse entre sí.
+
+No se da un total exacto de barcos de la Marina. La formación táctica no demuestra todavía que haya destruido ningún buque pirata.
+
+## [42-018 · El Relámpago del Mar avanza con Bonnie preparando rayos](../capitulos/42.md) · 00:37:59.520
+
+Tipo: `hecho_confirmado`.
+
+El buque de Bonnie, llamado Relámpago del Mar, avanza entre las otras naves. Parece despedir rayos. Bonnie reprende a los piratas por gastar munición antes de tiempo y levanta una mano donde se acumulan chispas, preparando una acción.
+
+El nombre del buque procede de la continuidad del pasaje. La acción preparada aún no se resuelve en este bloque y no se atribuye cada descarga del barco directamente a la moneda.
+
+## [42-020 · Nox advierte del poder de Bonnie y Tórtola muestra una luz verde](../capitulos/42.md) · 00:40:52.240
+
+Tipo: `hecho_confirmado`.
+
+Tórtola dice mantener a Nox a bordo porque todavía puede utilizarlo. Ambos observan la formación pirata y hablan de atacar por detrás. Nox llama la atención sobre el buque mayor y la tormenta repentina y advierte del poder de Bonnie. Tórtola responde que también tiene sus trucos y muestra una luz verde al mover el ala. En la mesa se identifica el gesto con desintegrar.
+
+La identificación de desintegrar se comenta fuera del diálogo: el director distingue lo que reconocen los jugadores de lo que saben sus personajes. No se ha lanzado aún el conjuro contra un objetivo en este intervalo.
+
+## [42-030 · Bonnie descarga rayos sobre la flota](../capitulos/42.md) · 00:56:31.240
+
+Tipo: `hecho_confirmado`.
+
+Bonnie avanza con su barco, alza la mano y cierra el puño. Empiezan a caer rayos que golpean los barcos de la Marina: uno rompe un mástil y prende la nave. Otros impactos destrozan barcos, mientras los marines saltan al agua aterrorizados.
+
+La escena muestra varios impactos, pero no fija un recuento exhaustivo de naves hundidas o marines muertos.
+
+## [42-039 · Los rayos alimentan el barco de Bonnie](../capitulos/42.md) · 01:13:56.560
+
+Tipo: `hecho_confirmado`.
+
+El barco de Bonnie avanza sin retroceder y dispara una batería de cinco o seis cañones, destrozando o dañando varios buques enemigos. Los rayos de la tormenta empiezan entonces a caer sobre su propia nave: las velas se iluminan y la energía parece recorrer el barco hacia el timón donde está Bonnie, sin incendiarlo como a los barcos de la Marina.
+
+La escena describe el recorrido visible de los rayos, sin explicar por completo el mecanismo del buque.
+
+## [42-043 · La presión de Marina obliga a varios piratas a virar](../capitulos/42.md) · 01:21:29.120
+
+Tipo: `hecho_confirmado`.
+
+Los piratas siguen disparando y dañan cañones enemigos, pero varios barcos están muy deteriorados y algunos buscan otra dirección. La Marina hunde una nave pirata y sus hombres saltan al agua para salvarse. A pesar de las pérdidas infligidas por los piratas y Bonnie, siguen llegando refuerzos de la Marina.
+
+Virar y buscar otra salida no equivale a una retirada completa de todos los piratas; el combate continúa.
+
+## [42-046 · El Relámpago del Mar atraviesa y parte barcos de la Marina](../capitulos/42.md) · 01:27:39.000
+
+Tipo: `hecho_confirmado`.
+
+El barco de Bonnie queda de un azul brillante, rodeado por una estela eléctrica. Sale disparado como un rayo, pasa delante de varios enemigos y aparece al otro lado. Los barcos atravesados por el Relámpago del Mar se parten por la mitad y quedan destrozados.
+
+La comparación con la velocidad de Fly es una referencia descriptiva de mesa; no establece que Fly intervenga en la batalla.
+
+## [42-048 · El ataque de Bonnie anima a unos piratas mientras otros se marchan](../capitulos/42.md) · 01:32:27.000
+
+Tipo: `hecho_confirmado`.
+
+Algunos barcos piratas desisten o se alejan, otros ya están destrozados y varios continúan combatiendo. La pasada de Bonnie anima a quienes siguen disparando, pero la Marina aumenta sus fuerzas: el director compara tres barcos destruidos por Bonnie con cinco nuevos que aparecen. El Zampaolas mantiene ante sí dos naves medio chamuscadas.
+
+La comparación de tres por cinco expresa el crecimiento de los refuerzos; no constituye un inventario definitivo de ambas flotas.
+
+## [42-052 · El Relámpago del Mar prepara otra embestida](../capitulos/42.md) · 01:40:50.159
+
+Tipo: `hecho_confirmado`.
+
+El barco de Bonnie vira después de destruir buques y vuelve a iluminarse para repetir su ataque a gran velocidad contra la flota.
+
+La maniobra se prepara en este momento; la ejecución posterior se describe en otro pasaje.
+
+## [42-056 · La Marina concentra varios flancos contra Bonnie](../capitulos/42.md) · 01:47:26.080
+
+Tipo: `hecho_confirmado`.
+
+La Marina deshace a otros barcos piratas que intentan auxiliar a sus compañeros. Al reconocer la amenaza del barco de Bonnie, varios buques viran para dispararle desde distintos flancos y dificultar que esquive.
+
+El daño a otros piratas no acredita que todos los aliados hayan perecido ni una derrota definitiva de la Marina.
+
+## [42-059 · Bonnie vuelve a abrirse paso entre la flota](../capitulos/42.md) · 01:55:33.920
+
+Tipo: `hecho_confirmado`.
+
+Nox pretende fijar el timón del Invictus y saltar al agua con un cabo. Bonnie, que ha observado su combate con Tórtola, vira su barco hacia el norte y repite la embestida: la velocidad y los rayos destruyen los buques situados en esa dirección.
+
+La admiración o ironía de Bonnie hacia Hawkins no determina el destino posterior de Nox.
+
+## [42-062 · El Invictus explota contra la flota y los buques restantes se retiran](../capitulos/42.md) · 02:00:20.239
+
+Tipo: `hecho_confirmado`.
+
+El Invictus en llamas avanza contra la flota mientras se oye la risa de Pinko. Una enorme explosión revienta la zona, levanta una columna de fuego y sacude al Zampaolas, obligando a todos a agarrarse. Los buques de la Marina que aún llegaban comienzan a virar para marcharse.
+
+Nox y Pinky estaban a bordo antes de la explosión, pero no se muestra un cuerpo identificable de ninguno. La retirada descrita no impide la llegada de refuerzos posteriores.
+
+## [42-064 · La búsqueda entre los restos no encuentra a Nox](../capitulos/42.md) · 02:07:00.000
+
+Tipo: `hecho_confirmado`.
+
+Ione nada y revisa restos de los barcos. Ve otros cuerpos, pero ninguno de Nox. Explica que, pese a su malentendido, no quería verlo morir: habían pasado años juntos y él la había sostenido durante penurias. En forma de loba intenta reconocer su olor entre el humo, sin conseguirlo, hasta que el Zampaolas llega a su lado. Bonnie se aproxima mostrando pesar y cierto orgullo.
+
+No hallar el cuerpo deja el paradero sin resolver. La emoción de Bonnie no prueba que disponga de información sobre una huida.
+
+## [42-065 · Cuatro reyes piratas destruyen una nueva flota de la Marina](../capitulos/42.md) · 02:09:35.040
+
+Tipo: `hecho_confirmado`.
+
+Al bajar el fuego se descubre otra flota de la Marina con un buque que dobla al Invictus. El mar comienza a congelarse; un estallido azul inmoviliza los barcos y una tormenta de fuego cae sobre ellos y los destruye. Tras una nube negra aparecen cuatro buques piratas con enseñas de banana, símbolo femenino, calavera goblin y bandera pirata clásica. El director anuncia que han llegado los otros cuatro reyes piratas.
+
+No se atribuyen individualmente el hielo ni el fuego a un rey concreto. La descripción aproximada de centenar de barcos no se convierte en un inventario exacto.
+
+## [42-066 · Bonnie entrega la moneda a Ione y les ordena marcharse](../capitulos/42.md) · 02:12:59.000
+
+Tipo: `hecho_confirmado`.
+
+Mientras suben a Ione al Zampaolas, Bonnie desaparece de su barco como un rayo y aparece en cubierta. Su forma poderosa y la electricidad se retiran a la moneda. Se la pone en la mano a Ione y ordena que se vayan. Ante su resistencia a abandonar a Nox, insiste en que deben salir para poder buscarlo si sigue vivo y les prohíbe volver a Shiaru.
+
+La condición «si Nox está vivo» no confirma su supervivencia. La devolución no explica por sí sola todas las facultades, cargas o reglas de la moneda.
+
+## [42-068 · Los otros reyes rodean al Relámpago del Mar sin su poder mágico](../capitulos/42.md) · 02:17:14.319
+
+Tipo: `hecho_confirmado`.
+
+El Zampaolas abandona el combate. Bonnie permanece con los barcos piratas supervivientes en el Relámpago del Mar, que ha perdido sus destellos eléctricos y su carga mágica. Los cuatro buques recién llegados rodean su nave y tienden pasarelas para que suban sus dirigentes.
+
+Perder el poder ligado a la moneda no vuelve pequeño al barco ni explica su construcción original. No se representa una batalla nueva con los cuatro dirigentes.
+
+## [42-069 · Bonnie saluda a Diente de Oro, Banana, Sonriente y Taylor](../capitulos/42.md) · 02:18:23.399
+
+Tipo: `hecho_confirmado`.
+
+Suben al barco de Bonnie un gran orangután acompañado de monos, una mujer procedente de una tripulación mayoritariamente femenina, un orco con compañeros pequeños verdes y un humano de barba larga. Bonnie saluda a la mujer como Diente de Oro, al orangután como Banana, al orco como Sonriente y al humano como Taylor. La descripción inicial de una pierna de palo del humano se corrige expresamente.
+
+Los nombres son apodos o grafías provisionales. Banana se vincula con Elger Banana por el título, el pabellón de banana y la descripción simiesca del capítulo 6, manteniendo gorila referido frente a orangután observado. La broma sobre un primo de Bucón no prueba parentesco.
+
+## [42-070 · Taylor dice haber capturado al joven Jackie rumbo a Puerto de Espadas](../capitulos/42.md) · 02:22:01.359
+
+Tipo: `declaracion_personaje`.
+
+Taylor recuerda que Bonnie faltó a las últimas reuniones. Afirma que capturaron un pequeño barco rumbo a Puerto de Espadas y a un joven al que recuerda como Jackie, quien hablaba de una isla con grandes tesoros y grandes piratas. Bonnie responde que leyó su carta y pregunta si ha venido a lo que debía.
+
+Es relato de Taylor, no captura mostrada. No identifica con certeza al cautivo con Jack, el exmarine del Zampaolas; la duda del propio hablante sobre el nombre se conserva.
+
+## [42-071 · Taylor acusa a Bonnie de romper un pacto y ocultar Xoltacan](../capitulos/42.md) · 02:22:59.960
+
+Tipo: `declaracion_personaje`.
+
+Taylor sostiene que Bonnie rompió su trato y ocultó la isla de grandes tesoros a los otros reyes, por lo que debían acudir. Anuncia que ella sabe lo que viene. Bonnie enciende un puro y responde que nunca le cayó bien.
+
+La acusación no aporta los términos completos del pacto ni una deliberación independiente de los demás reyes.
+
+## [42-072 · Taylor dispara a la frente de Bonnie y el director despide a tres personajes](../capitulos/42.md) · 02:23:47.600
+
+Tipo: `hecho_confirmado`.
+
+Ante la mirada de los otros tres reyes, Taylor desenfunda una pistola, la coloca en la frente de Bonnie y dispara. La sesión termina en ese momento. En la despedida, el director pide decir adiós a Bonnie, Nox y Pinky y avisa de que la siguiente partida sucederá antes de estos hechos.
+
+La despedida enmarca estas pérdidas, pero el disparo no va seguido de una comprobación médica o escena del cuerpo y Nox no fue encontrado. El aviso temporal no autoriza incorporar conocimientos posteriores a capítulos anteriores.
 

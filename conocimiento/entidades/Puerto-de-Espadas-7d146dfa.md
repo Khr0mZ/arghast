@@ -8,11 +8,11 @@ Variantes editoriales del puerto exterior citado como procedencia y destino; no 
 
 Etiquetas agrupadas: Puerto de Espadas; Puerto de las Espadas; Puerto Espadas.
 
-Base para revisar equivalencia: [01-005](../capitulos/01.md), [12-007](../capitulos/12.md), [23-004](../capitulos/23.md), [31-005](../capitulos/31.md).
+Base para revisar equivalencia: [01-005](../capitulos/01.md), [12-007](../capitulos/12.md), [23-004](../capitulos/23.md), [31-005](../capitulos/31.md), [42-070](../capitulos/42.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### El mundo exterior que sigue influyendo
 
@@ -25,6 +25,12 @@ Fuentes: [01-005 · Familia y viaje del elfo](../capitulos/01.md) · 00:05:57.00
 El mercante maldito se presenta como un navío procedente de Puerto de Espadas y Tesara declara venir también de allí. El lugar conecta la campaña insular con exploradores, familias y viajes marítimos, aunque no se escenifica una visita del grupo al puerto. No deben confundirse sus relatos de origen con un recorrido completo por la ciudad.
 
 Fuentes: [14-007 · La mujer del bote pide ayuda para el mercante](../capitulos/14.md) · 00:37:00.000 · [31-005 · Naór, princesa de Atlan, y el objetivo de llegar a Iktan](../capitulos/31.md) · 00:24:00.000 · [31-007 · Tesa se presenta como historiadora y Coyote conoce Iktan](../capitulos/31.md) · 00:40:00.000.
+
+### El destino del barco capturado
+
+Taylor refiere que capturó un pequeño barco que se dirigía a Puerto de Espadas. Allí viajaba el joven al que recuerda como Jackie, que hablaba de los tesoros de una isla. El testimonio no muestra la llegada de ese barco a puerto ni fija el lugar concreto de su captura.
+
+Fuentes: [42-070 · Taylor dice haber capturado al joven Jackie rumbo a Puerto de Espadas](../capitulos/42.md) · 02:22:01.359.
 
 ## Registros y evidencias
 
@@ -99,4 +105,12 @@ Tipo: `declaracion_personaje`.
 Patata describe una guerra entre piratas y la Marina llegada de Puerto de Espadas, la diversidad de los nativos, el control de Bonnie y al pirata Nox. Luna representa mediante una ilusión a un marine y a Kilzer incendiando el barco. Recomienda Cuicapalli como un lugar más limpio, a varios días de camino.
 
 Son valoraciones de Patata y una reconstrucción ilusoria, no una investigación nueva ni una confirmación del cargo de Nox.
+
+## [42-070 · Taylor dice haber capturado al joven Jackie rumbo a Puerto de Espadas](../capitulos/42.md) · 02:22:01.359
+
+Tipo: `declaracion_personaje`.
+
+Taylor recuerda que Bonnie faltó a las últimas reuniones. Afirma que capturaron un pequeño barco rumbo a Puerto de Espadas y a un joven al que recuerda como Jackie, quien hablaba de una isla con grandes tesoros y grandes piratas. Bonnie responde que leyó su carta y pregunta si ha venido a lo que debía.
+
+Es relato de Taylor, no captura mostrada. No identifica con certeza al cautivo con Jack, el exmarine del Zampaolas; la duda del propio hablante sobre el nombre se conserva.
 

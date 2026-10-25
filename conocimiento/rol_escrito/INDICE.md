@@ -1,6 +1,6 @@
 # Rol escrito · Xoltacan
 
-303 escenas con relato editorial y texto original completo. Fechas en horario de Madrid.
+304 escenas con relato editorial y texto original completo. Fechas en horario de Madrid.
 
 La ordenación utiliza las fechas originales de Twitch, las horas de referencia y la duración de los vídeos. Admite retrasos y conserva la incertidumbre de los días asumidos. Los pensamientos no se atribuyen a los demás personajes.
 
@@ -189,7 +189,8 @@ La ordenación utiliza las fechas originales de Twitch, las horas de referencia 
 | 2026-07-07 | [Ilikar vuelve con cerveza y Zippo se queda a bordo](escenas/x-1524093212027781302.md) | 53 |
 | 2026-07-08 | [El neogi no puede someter al Zin-Carla](escenas/x-1524293375191289978.md) | 2 |
 | 2026-07-08 | [Nox recuerda el objeto que dejó a Citlali](escenas/x-1524351953889394719.md) | 2 |
-| 2026-07-08 | [La caja de música y la urgencia de Citlali](escenas/x-1524356880258961458.md) | 6 |
+| 2026-07-08 | [El insomnio de Citlali](escenas/x-1524356880258961458.md) | 1 |
+| 2026-07-09 | [La caja de música y la urgencia de Citlali](escenas/x-1524890107604369578.md) | 5 |
 | 2026-07-10 | [Citlali corre hacia Shiaru con Eztli](escenas/x-1524899934913167481.md) | 5 |
 | 2026-07-10 | [El Zampaolas amanece después de la batalla](escenas/x-1525042844560003125.md) | 3 |
 | 2026-07-11 | [Coyote comparte cerveza y silencio con Tortas](escenas/x-1525260719728103424.md) | 47 |

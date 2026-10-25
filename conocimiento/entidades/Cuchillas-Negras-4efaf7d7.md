@@ -12,7 +12,7 @@ Base para revisar equivalencia: [11-029](../capitulos/11.md).
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### Un símbolo en la mano de Bonnie
 

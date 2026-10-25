@@ -8,11 +8,11 @@ Mismo gnomo. Sus distintas monturas numeradas se conservan separadas.
 
 Etiquetas agrupadas: Sir Poncelot; Sir Poncelot (grafía confirmada por jugador).
 
-Base para revisar equivalencia: [03-008](../capitulos/03.md), [11-004](../capitulos/11.md).
+Base para revisar equivalencia: [03-008](../capitulos/03.md), [11-004](../capitulos/11.md), [42-001](../capitulos/42.md), [42-004](../capitulos/42.md), [42-009](../capitulos/42.md), [42-010](../capitulos/42.md), [42-013](../capitulos/42.md), [42-014](../capitulos/42.md), [42-025](../capitulos/42.md), [42-029](../capitulos/42.md), [42-036](../capitulos/42.md), [42-044](../capitulos/42.md), [42-045](../capitulos/42.md), [42-049](../capitulos/42.md), [42-051](../capitulos/42.md), [42-063](../capitulos/42.md), [42-067](../capitulos/42.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### Un caballero y muchas Merlucillas
 
@@ -43,6 +43,24 @@ Fuentes: [36-015 · Ione recupera el control e intimida al otro lobo](../capitul
 Ilikar propone incorporarlo a la caza del dragón junto con Ione y le atribuye grandes hazañas contra dragones, dinosaurios y gigantes. Esas proezas pertenecen al relato del goliat, no se representan en esta sesión. Eldrat considera visitar a ambos; no hay invitación ni aceptación mostradas.
 
 Fuentes: [40-039 · Origen de Ilikar y posibles aliados en Shiaru](../capitulos/40.md) · 02:36:36.680.
+
+### Un obsequio antes de la batalla
+
+Poncelot ayuda a preparar el Zampaolas y recoge un regalo para Ione. Le agradece que lo haya acogido y le entrega un fular de alas de mosca; ella se lo pone y lo abraza. Tras el accidente de Mugre y el llamamiento de Bonnie, embarca con el tigre Merlucilla IV, protegido con maderos y trozos de barril. La experiencia contra dragones que le atribuye Ilikar no representa una nueva hazaña ni su aceptación de esa caza.
+
+Fuentes: [42-001 · Poncelot regresa con un paquete para Ione](../capitulos/42.md) · 00:01:20.600 · [42-004 · Ilikar vuelve de Iktan y busca aliados contra el dragón](../capitulos/42.md) · 00:04:11.920 · [42-009 · Poncelot regala a Ione un fular de alas de mosca](../capitulos/42.md) · 00:17:08.880 · [42-010 · Mugre dispara accidentalmente contra Ione](../capitulos/42.md) · 00:18:54.000 · [42-013 · Los defensores embarcan y ocupan sus puestos](../capitulos/42.md) · 00:23:12.440 · [42-014 · Poncelot prepara una armadura improvisada para el tigre](../capitulos/42.md) · 00:28:52.440.
+
+### La ballesta y el elemental
+
+Poncelot calma al tigre Merlucilla tras el primer impacto y anima a Jack a obedecer el fuego ordenado por Ione. Utiliza la ballesta del Zampaolas para lanzar a Cipo a una nave enemiga, donde el elemental incendia la cubierta. Más tarde dispara un virote con cadena para ejecutar el plan de colisión de la capitana, mientras Ilikar lo reta a seguirlo al abordaje.
+
+Fuentes: [42-025 · Sir Poncelot tranquiliza al tigre](../capitulos/42.md) · 00:49:23.400 · [42-029 · Jack dispara a la orden de Poncelot](../capitulos/42.md) · 00:55:11.720 · [42-036 · Poncelot dispara a Cipo y prende una nave enemiga](../capitulos/42.md) · 01:08:34.880 · [42-044 · Ione y Poncelot enlazan barcos enemigos con una cadena](../capitulos/42.md) · 01:22:46.000 · [42-045 · Ilikar se impulsa hacia el barco en llamas y llama a Cipo](../capitulos/42.md) · 01:24:34.960.
+
+### El abordaje y la incredulidad
+
+Sir Poncelot dirige la aproximación del Zampaolas durante la indisposición de Ione y aborda barcos montado en Merlucilla IV. Después de la explosión llora e intenta convencerse de que Nox habrá preparado otra huida. Pide ayuda a Ilikar para poner a salvo a la capitana.
+
+Fuentes: [42-049 · Sir Poncelot asume las órdenes mientras Ione está indispuesta](../capitulos/42.md) · 01:33:30.400 · [42-051 · Sir Poncelot y Merlucilla IV despejan cubiertas y regresan](../capitulos/42.md) · 01:37:37.480 · [42-063 · Ione se lanza a buscar a Nox y sus compañeros la siguen](../capitulos/42.md) · 02:02:20.520 · [42-067 · Ione retira el Zampaolas de la batalla sin renunciar a buscar a Nox](../capitulos/42.md) · 02:14:52.159.
 
 ## Registros y evidencias
 
@@ -1749,4 +1767,180 @@ Tipo: `declaracion_personaje`.
 Ilikar declara que procede de Valle Blanco, en las tierras frías del norte. Quiere un trofeo con el que hacerse amigo de un líder y del que su capitana esté orgullosa; Eldrat intenta atraerlo con posibles combates y premios posteriores. Ilikar dice que debe volver a Shiaru y propone sumar la fuerza de su capitana Ione y de Sir Poncelot. Atribuye a Poncelot la muerte de dragones, dinosaurios y gigantes del bosque. Eldrat considera visitarlos y propone competiciones de natación, robo, combate y lanzamiento para prepararse; Ilikar ofrece costumbres de fuerza de su tierra.
 
 Las hazañas de Poncelot se transmiten como testimonio de Ilikar; no se revisitan ni verifican en esta escena. Ione y Poncelot no están presentes ni aceptan participar. El lanzamiento de una cabra a 142 metros es un recuerdo contado durante la broma de los juegos.
+
+## [42-001 · Poncelot regresa con un paquete para Ione](../capitulos/42.md) · 00:01:20.600
+
+Tipo: `declaracion_personaje`.
+
+Sir Poncelot cuenta que ha ayudado a Ione a preparar el barco para la batalla. Antes de zarpar corre a recoger un paquete encargado a Alice y regresa al puerto con él.
+
+Alice solo se menciona como destinataria del encargo; no queda identificada con una persona del catálogo. El contenido del paquete se muestra más tarde.
+
+## [42-002 · Las frutas alteran temporalmente a los cuatro viajeros](../capitulos/42.md) · 00:01:58.439
+
+Tipo: `explicacion_director`.
+
+El director resuelve cuatro efectos de fruta: la lengua de Poncelot puede alcanzar objetos pequeños a diez pies; Ione gana dos puntos de Fuerza durante la partida; la sombra de Ilikar se estira y puede señalar objetos para avisar a sus compañeros; la piel de Nox desarrolla espinas que dañan a quien lo golpee cuerpo a cuerpo.
+
+Los efectos son resoluciones de la sesión. No acreditan cambios permanentes ni una conexión narrativa con Kuroto, citado en una broma de mesa.
+
+## [42-003 · Ione prepara al Zampaolas para el enfrentamiento directo](../capitulos/42.md) · 00:02:29.160
+
+Tipo: `declaracion_personaje`.
+
+Ione relata la reparación y el aprovisionamiento del Zampaolas: barriles de pólvora, aceite hirviendo, una cadena procedente de un barco naufragado para Ilikar, una ballesta para Poncelot, cañones, balas y munición unida por cadenas. Recuerda una profecía que aconsejaba hacerse pasar por marines, pero opta por prepararse para luchar de frente.
+
+No se reproduce la profecía completa ni se demuestra en este pasaje que todos los recursos preparados lleguen a utilizarse.
+
+## [42-004 · Ilikar vuelve de Iktan y busca aliados contra el dragón](../capitulos/42.md) · 00:04:11.920
+
+Tipo: `declaracion_personaje`.
+
+Ilikar recuerda que ha cruzado la isla, comparte un enemigo en el dragón verde y ha entrenado como monje gracias a Tortas. Vuelve a Shiaru en busca de su tripulación y de Poncelot, a quien considera experto en dragones. La necesidad de Ione lo lleva a preparar el barco y recoger un arma nueva para el combate próximo.
+
+El nombre entrecortado del dragón no fija su grafía ni lo identifica con Clodidrax. No se representa una aceptación de la caza por Poncelot o Ione; tampoco se identifica aquí el arma recién recogida.
+
+## [42-007 · La tripulación sitúa al supuesto dragón de Ilikar en un barril de arena](../capitulos/42.md) · 00:10:43.200
+
+Tipo: `declaracion_personaje`.
+
+Poncelot pregunta por el pequeño ser de fuego que acompaña a Ilikar, lo llama bebé dragón rojo y teme nuevos incendios. Ilikar asegura que está en el barco; Ione explica que el goliat lo ha puesto en un barril con arena. La capitana lo llama demonio por los desperfectos que le atribuye.
+
+No se abre el barril en este intervalo. La identificación contextual con Cipo se apoya en su vínculo con Ilikar desde el capítulo 40 y su presencia posterior en el Zampaolas; no se identifica con el Dragón de Erendriel. Dragón y demonio son denominaciones de los viajeros, sin cambio de naturaleza demostrado.
+
+## [42-009 · Poncelot regala a Ione un fular de alas de mosca](../capitulos/42.md) · 00:17:08.880
+
+Tipo: `hecho_confirmado`.
+
+Poncelot agradece a Ione que lo acogiera y lo tratara como uno de los suyos. Le entrega el paquete: un fular descrito por las vetas de alas de mosca y su transparencia. Ione se lo pone como bufanda, le da las gracias y lo abraza, para incomodidad protocolaria del caballero.
+
+La descripción de los subtítulos es vacilante. No se atribuyen propiedades mágicas al fular ni se confirma que el material proceda de Merlucilla III.
+
+## [42-010 · Mugre dispara accidentalmente contra Ione](../capitulos/42.md) · 00:18:54.000
+
+Tipo: `hecho_confirmado`.
+
+Un disparo interrumpe el abrazo. El director aplica tres puntos de daño a Ione y una ceguera de un turno a Poncelot por el contenido de la bolita que estalla. Mugre sostiene la pistola y pide perdón. La pérdida adicional de cuatro monedas no se ejecuta como tal porque Ione dice no tener dinero.
+
+El proyectil se describe alternativamente con comida y un término censurado. No hay ataque confirmado de la Marina en la plaza; los efectos mezclan cartas o intervenciones de la mesa con la narración.
+
+## [42-011 · Bonnie reclama la defensa de la libertad de Shiaru](../capitulos/42.md) · 00:20:27.440
+
+Tipo: `hecho_confirmado`.
+
+Bonnie impone silencio y llama a los presentes a defender Shiaru contra la Marina. Recuerda que acogió a compañeros como Eleanor, Poncelot e Ilikar y les exige permanecer en sus puestos. Presenta el poblado como un lugar donde ser libres bajo su autoridad y amenaza a quienes huyan.
+
+Las amenazas y la declaración de libertad pertenecen al discurso de Bonnie; no se representan huidas ni ejecuciones de desertores.
+
+## [42-013 · Los defensores embarcan y ocupan sus puestos](../capitulos/42.md) · 00:23:12.440
+
+Tipo: `hecho_confirmado`.
+
+Los piratas corren a los muelles. Ione llama a los Zampaolas a hacer rugir los mares y los cañones y procura dar seguridad a sus compañeros. Poncelot monta al tigre y embarca; Ilikar sigue a su capitana y Jack va tras él. Mugre orienta a Ojo Ausente cuando toma la dirección equivocada. En el Zampaolas están los trillizos, los cañones y la ballesta; Ojo Ausente sube a vigilar, Mugre baja a preparar comida y Baps revisa los cañones olfateándolos.
+
+La mención colectiva de los trillizos no asigna acciones separadas a Mingo, Mango o Mungo. No debe confundirse el tigre con el tiburón Merlucilla V de la extracción anterior.
+
+## [42-014 · Poncelot prepara una armadura improvisada para el tigre](../capitulos/42.md) · 00:28:52.440
+
+Tipo: `declaracion_personaje`.
+
+Sir Poncelot ajusta su armadura y armas y explica que ha preparado una protección improvisada para su montura con maderos y trozos de barril. Lleva casco y capa que describe como de sierpes. La mesa aclara entre bromas que esas piezas no prueban trofeos de auténticos dragones.
+
+Las bromas sobre un conjunto de matadragones no acreditan que Poncelot haya matado a esos dragones ni permiten identificar el origen de cada pieza.
+
+## [42-024 · La salva coordinada de la Marina alcanza al Zampaolas](../capitulos/42.md) · 00:47:03.319
+
+Tipo: `hecho_confirmado`.
+
+La Marina responde a los disparos piratas con una salva sincronizada que rompe mástiles de varias naves. Un cañonazo alcanza el Zampaolas y hace saltar parte del casco. Merlucilla se refugia en los brazos de Sir Poncelot; se ordena reparar la abertura para impedir que entre más agua y los tripulantes corren con tablones.
+
+El pasaje no identifica inequívocamente a quien da la orden inicial de reparación ni confirma que esta termine antes del siguiente ataque.
+
+## [42-025 · Sir Poncelot tranquiliza al tigre](../capitulos/42.md) · 00:49:23.400
+
+Tipo: `hecho_confirmado`.
+
+Sir Poncelot baja de sus brazos al pesado Merlucilla e intenta tranquilizarlo. Declara que no sabe de barcos y se mantiene disponible para combatir o ayudar cuando se lo pidan. La tirada permite ir calmando al tigre, que todavía conserva algo de nerviosismo.
+
+La montura de esta escena es el tigre Merlucilla IV; no se convierte por el nombre compartido en el tiburón Merlucilla V.
+
+## [42-027 · Ione ordena liberar la carga para aprovechar su peso](../capitulos/42.md) · 00:51:44.735
+
+Tipo: `hecho_confirmado`.
+
+Ione ordena a Baps y Mugroso soltar la carga salvo los barriles y las municiones, dejando que su peso se distribuya al girar el barco, y manda preparar los cañones. Baps interpreta por un momento que debe arrojar carga y se acerca al gato; la capitana aclara que quiere aflojar la carga, no tirarla por la borda. Poncelot protege a su montura.
+
+Mugroso aparece como destinatario de la orden, sin que este fragmento establezca una identidad personal adicional. No se arrojan aquí los barriles, la munición ni Merlucilla.
+
+## [42-029 · Jack dispara a la orden de Poncelot](../capitulos/42.md) · 00:55:11.720
+
+Tipo: `hecho_confirmado`.
+
+Sir Poncelot pasa junto a Jack, situado en un cañón, y le transmite la orden de disparar de la capitana. El gnomo se encarama al mascarón, se sujeta con una cuerda y anima a atacar con la lanza alzada. El disparo de Jack alcanza una nave enemiga y la deja muy dañada.
+
+La idea de lanzar al propio Poncelot se plantea como comentario, pero él aclara que por ahora permanece agarrado al mascarón.
+
+## [42-036 · Poncelot dispara a Cipo y prende una nave enemiga](../capitulos/42.md) · 01:08:34.880
+
+Tipo: `hecho_confirmado`.
+
+Ione ordena atarse con cuerdas, preparar el ancla y acudir a la ballesta. Sir Poncelot coloca a Cipo sobre un virote y lo dispara contra un barco enemigo. El elemental cae sobre la cubierta, saluda y hace arder la madera a su alrededor; los marines intentan buscar agua. La acción no dirige a Cipo al Invictus.
+
+Las bromas sobre fabricar más Cipos no acreditan que puedan duplicarlo. Se muestra el incendio del barco, sin seguimiento individual de todos sus ocupantes.
+
+## [42-040 · Nox contempla a Ione y decide iniciar la revuelta](../capitulos/42.md) · 01:15:18.000
+
+Tipo: `hecho_confirmado`.
+
+Desde el puesto de vigía Nox observa el Zampaolas con su catalejo: ve a Ione coordinando a su gente, a Poncelot y al nuevo integrante que utiliza el ancla. Sonríe y dice «Esa es mi chica». Baja aprovechando que parte de los hombres transporta municiones y da la señal a Pinky para que salga y ataque. Con barba y chaqueta azul, Pinky pasa inicialmente por un miembro de la tripulación.
+
+La mirada y la frase documentan el vínculo expresado por Nox; no acreditan que Ione pueda verlo ni que los marines conozcan la transformación de Pinky.
+
+## [42-044 · Ione y Poncelot enlazan barcos enemigos con una cadena](../capitulos/42.md) · 01:22:46.000
+
+Tipo: `hecho_confirmado`.
+
+Ione propone repetir una maniobra de giro para hacer chocar dos cascos enemigos entre sí. Ordena emplear un virote con cadena contra el barco de atrás y deja a sus compañeros margen para actuar de otra manera. Sir Poncelot dispara y confirma que uno de los barcos queda encadenado, pendiente del movimiento posterior.
+
+El plan busca una colisión, pero este primer disparo solo confirma el enlace: el desenlace de la colisión no se adelanta.
+
+## [42-045 · Ilikar se impulsa hacia el barco en llamas y llama a Cipo](../capitulos/42.md) · 01:24:34.960
+
+Tipo: `hecho_confirmado`.
+
+Ilikar prepara su ancla con un barril de aceite y la lanza contra el barco que Cipo ha incendiado. La clava, tira de la nave para acercarla y utiliza la tensión para impulsarse hacia ella. Los tirones del ancla y de la cadena de Poncelot desplazan los barcos. Cipo había comenzado a regresar al Zampaolas por la cadena, pero Ilikar lo llama y el elemental da la vuelta para saltar sobre él. Antes de lanzarse, Ilikar reta a Poncelot a no ser el último.
+
+El bloque termina esta acción con Ilikar desplazándose hacia los barcos; no se anticipa aquí el resultado del abordaje o del choque.
+
+## [42-049 · Sir Poncelot asume las órdenes mientras Ione está indispuesta](../capitulos/42.md) · 01:33:30.400
+
+Tipo: `hecho_confirmado`.
+
+El director explica que la capitana ha bebido del barril llevado por Ilikar y está indispuesta. Sir Poncelot se sitúa en el mascarón de proa, da órdenes contra los abordajes y pide aproximarse a los barcos enemigos para saltar con Merlucilla.
+
+La indisposición es transitoria; Ione vuelve a actuar más adelante. No acredita una sustitución permanente de capitana.
+
+## [42-051 · Sir Poncelot y Merlucilla IV despejan cubiertas y regresan](../capitulos/42.md) · 01:37:37.480
+
+Tipo: `hecho_confirmado`.
+
+Sir Poncelot monta al tigre Merlucilla, salta contra un artillero y atraviesa las cubiertas embistiendo a los marines. El director admite que Ilikar y Poncelot saltan a otros barcos y los destrozan. Más adelante aclara que han vuelto al Zampaolas antes de que se hundan las naves abordadas.
+
+Las referencias musicales de los jugadores no añaden transformaciones o poderes. No se fija un número individual de muertos ni de barcos para cada personaje.
+
+## [42-063 · Ione se lanza a buscar a Nox y sus compañeros la siguen](../capitulos/42.md) · 02:02:20.520
+
+Tipo: `hecho_confirmado`.
+
+El oleaje acerca el Zampaolas a la costa sin hacerlo encallar. Ione pierde el control, raja tablas con las garras, corta la cuerda de la ballesta y se lanza con un virote hacia los restos en llamas para buscar a Nox. Sir Poncelot llora mientras trata de convencerse de que Nox tenía otro plan de huida. Ilikar ordena poner rumbo a la capitana para protegerla.
+
+La esperanza de Poncelot no acredita supervivencia. La forma lupina de Ione se confirma al explicar su búsqueda, no como efecto de la explosión.
+
+## [42-067 · Ione retira el Zampaolas de la batalla sin renunciar a buscar a Nox](../capitulos/42.md) · 02:14:52.159
+
+Tipo: `hecho_confirmado`.
+
+Sir Poncelot pide a Ilikar que ayude a la capitana y salgan de allí. Ilikar ordena desplegar velas y recuerda a Ione que debe vivir tras lo hecho por Nox. Ella gruñe, señala tierra y se niega a abandonar Shiaru, aunque acepta retirarse de la batalla para proteger a su tripulación. Toma el timón con las garras y vira el Zampaolas.
+
+La retirada no representa haber salido ya de la isla ni una búsqueda reanudada después.
 

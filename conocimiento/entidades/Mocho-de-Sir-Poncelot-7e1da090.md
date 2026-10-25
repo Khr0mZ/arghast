@@ -12,7 +12,7 @@ Base para revisar equivalencia: [06-009](../capitulos/06.md), [20-005](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### De limpiar a combatir y domar
 

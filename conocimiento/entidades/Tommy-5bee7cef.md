@@ -12,7 +12,7 @@ Base para revisar equivalencia: [24-017](../capitulos/24.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### Un nombre que la escena no termina de fijar
 

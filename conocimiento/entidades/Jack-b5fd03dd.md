@@ -8,11 +8,11 @@ El centinela capturado en la mina continúa como Jack, exmarine junto a Nox y lu
 
 Etiquetas agrupadas: Jack / Jacki (grafía provisional); Jack / Jacki (prisionero de Marina integrado con piratas); Jack / Jackie (marine cautivo, variantes de apellido); Jack / Jackie Jackson (grafía provisional); Marine centinela capturado (Jack, identificación provisional).
 
-Base para revisar equivalencia: [03-021](../capitulos/03.md), [05-001](../capitulos/05.md), [05-003](../capitulos/05.md), [33-002](../capitulos/33.md), [38-013](../capitulos/38.md).
+Base para revisar equivalencia: [03-021](../capitulos/03.md), [05-001](../capitulos/05.md), [05-003](../capitulos/05.md), [33-002](../capitulos/33.md), [38-013](../capitulos/38.md), [42-008](../capitulos/42.md), [42-013](../capitulos/42.md), [42-029](../capitulos/42.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### Un marine que quería volver a casa
 
@@ -25,6 +25,18 @@ Fuentes: [03-029 · Nox se lleva al marine cautivo](../capitulos/03.md) · 02:41
 La preparación del envío se retrasa y tiene consecuencias para Erendriel. Cuando Jack vuelve de Puerto de Espadas, busca a Nox, que entonces está cautivo en Aurora. Más adelante finge ser capitán durante la ausencia de los demás y Ione lo castiga con una semana de limpieza de los bajos del barco. Continúa haciendo recados y reclutando compañeros para expediciones, y acaba reapareciendo con la vieja tripulación en la lucha del pulpo. No se confirma que ese regreso haya resuelto por completo su deuda o su separación de Lucy.
 
 Fuentes: [15-021 · Bonnie retiene al elfo por envío tardío](../capitulos/15.md) · 02:54:30.000 · [23-004 · Jack regresa y Nox está encadenado](../capitulos/23.md) · 00:33:00.000 · [28-018 · Jack fingió ser capitán durante la ausencia](../capitulos/28.md) · 01:38:00.000 · [28-022 · Ione castiga a Jack y Mugre detiene a Ojo Ausente](../capitulos/28.md) · 02:00:00.000 · [33-002 · Jack recluta Poncelot en Zampaolas](../capitulos/33.md) · 00:08:00.000 · [38-013 · Los antiguos tripulantes llegan después del combate](../capitulos/38.md) · 01:46:00.000.
+
+### El gorro confiado por Ione
+
+Antes de la batalla Jack reconoce que su pasado en la Marina lo hace temer no estar a la altura como pirata. Ione le ofrece protección y le entrega su gorro de capitana, que Jack promete devolver cuando termine el enfrentamiento. Sigue a Ilikar al embarcar. La promesa compartida documenta confianza y preocupación; no anticipa su supervivencia.
+
+Fuentes: [42-008 · Ione promete proteger a Jack y le confía su gorro](../capitulos/42.md) · 00:15:43.480 · [42-013 · Los defensores embarcan y ocupan sus puestos](../capitulos/42.md) · 00:23:12.440.
+
+### Artillero del Zampaolas
+
+Apostado junto a un cañón del Zampaolas, Jack recibe de Poncelot la orden de abrir fuego de la capitana. Su disparo alcanza una nave de la Marina y la deja muy dañada, mientras el gnomo anima al ataque desde el mascarón.
+
+Fuentes: [42-029 · Jack dispara a la orden de Poncelot](../capitulos/42.md) · 00:55:11.720.
 
 ## Registros y evidencias
 
@@ -307,4 +319,36 @@ Tipo: `hecho_confirmado`.
 Ilikar corta un tentáculo para comer y Ione ayuda a subirlo. Gustavo, Mugre, Baps y Jack aparecen disparando al pulpo ya muerto para salvar a su capitana. Ella los ignora bajo el efecto de la calma. Erandy pregunta por la raza de un hombre perro, que responde bulldocus serios. Poncelot alimenta al tiburón con el pulpo.
 
 La narración los presenta como antigua tripulación, sin confirmar que los cuatro sean miembros actuales. La apariencia del hombre perro no lo identifica automáticamente como licántropo.
+
+## [42-006 · Shiaru reúne a sus defensores en la plaza](../capitulos/42.md) · 00:08:05.039
+
+Tipo: `hecho_confirmado`.
+
+La plaza reúne a los habitantes y aliados de Shiaru. Gobs prepara agujas, una sierra y un taladro; Armin espera con dos enormes mazos. Un grupo de mujeres prepara armas de fuego. Eleanor y Erandy están presentes junto a miembros del Zampaolas. Jack aparece nervioso detrás de Ilikar; también se muestran Baps, Mugre y Ojo Ausente. Bonnie conversa con Molly.
+
+El pasaje no nombra con claridad a la mujer que encabeza al grupo armado. Su contexto no basta para atribuir a Liz cada intervención o confirmar que Gobs opere a alguien.
+
+## [42-008 · Ione promete proteger a Jack y le confía su gorro](../capitulos/42.md) · 00:15:43.480
+
+Tipo: `hecho_confirmado`.
+
+Jack reconoce que antes pertenecía a la Marina y teme no ser un buen pirata al combatir contra ella. Ione le promete que saldrá vivo mientras permanezca en su barco y participe a su lado. Le entrega su gorro de capitana para que lo guarde y le pide que se lo devuelva al terminar. Sonríe para animarlo aunque también siente miedo.
+
+La promesa no demuestra la supervivencia posterior de Jack. Jacki se vincula al Jack exmarine ya catalogado por el nombre, su pasado y su pertenencia a la misma tripulación.
+
+## [42-013 · Los defensores embarcan y ocupan sus puestos](../capitulos/42.md) · 00:23:12.440
+
+Tipo: `hecho_confirmado`.
+
+Los piratas corren a los muelles. Ione llama a los Zampaolas a hacer rugir los mares y los cañones y procura dar seguridad a sus compañeros. Poncelot monta al tigre y embarca; Ilikar sigue a su capitana y Jack va tras él. Mugre orienta a Ojo Ausente cuando toma la dirección equivocada. En el Zampaolas están los trillizos, los cañones y la ballesta; Ojo Ausente sube a vigilar, Mugre baja a preparar comida y Baps revisa los cañones olfateándolos.
+
+La mención colectiva de los trillizos no asigna acciones separadas a Mingo, Mango o Mungo. No debe confundirse el tigre con el tiburón Merlucilla V de la extracción anterior.
+
+## [42-029 · Jack dispara a la orden de Poncelot](../capitulos/42.md) · 00:55:11.720
+
+Tipo: `hecho_confirmado`.
+
+Sir Poncelot pasa junto a Jack, situado en un cañón, y le transmite la orden de disparar de la capitana. El gnomo se encarama al mascarón, se sujeta con una cuerda y anima a atacar con la lanza alzada. El disparo de Jack alcanza una nave enemiga y la deja muy dañada.
+
+La idea de lanzar al propio Poncelot se plantea como comentario, pero él aclara que por ahora permanece agarrado al mascarón.
 

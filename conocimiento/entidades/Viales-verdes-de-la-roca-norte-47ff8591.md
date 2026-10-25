@@ -12,7 +12,7 @@ Base para revisar equivalencia: [41-028](../capitulos/41.md), [41-029](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### De la preparación a la recogida
 

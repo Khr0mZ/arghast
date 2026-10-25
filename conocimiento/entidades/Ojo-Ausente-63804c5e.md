@@ -8,17 +8,23 @@ Sobrenombre usado para el mismo pirata recurrente. No confundir con un ojo u orb
 
 Etiquetas agrupadas: Ojo Ausente; Ojo Ausente (pirata sin nombre); Ojo ausente (pirata, grafía provisional).
 
-Base para revisar equivalencia: [13-008](../capitulos/13.md), [24-003](../capitulos/24.md), [28-022](../capitulos/28.md).
+Base para revisar equivalencia: [13-008](../capitulos/13.md), [24-003](../capitulos/24.md), [28-022](../capitulos/28.md), [42-006](../capitulos/42.md), [42-013](../capitulos/42.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### Mapas defectuosos y tensiones en la tripulación
 
 Ojo Ausente ayuda a Jack y Baps a preparar un croquis del Garfio con las posiciones de la Marina que recuerdan, aunque el resultado contiene figuras y etiquetas defectuosas. Sigue apareciendo en el círculo de Ione durante una partida de cartas en la que varios piratas intentan no enfadarla. Más adelante carga una ballesta mientras Poncelot narra una aventura, con aparente intención hostil, pero Mugre lo detiene. No se muestra un ataque consumado ni una ruptura definitiva con la tripulación.
 
 Fuentes: [13-008 · Croquis de Jacki, botella y silencio de Kilzer](../capitulos/13.md) · 00:29:30.000 · [24-003 · Bonnie encarga matar a los supuestos ladrones](../capitulos/24.md) · 00:16:00.000 · [28-022 · Ione castiga a Jack y Mugre detiene a Ojo Ausente](../capitulos/28.md) · 02:00:00.000.
+
+### Volver al puesto de vigía
+
+La confusión de Ojo Ausente persiste durante la concentración: mira en dirección contraria a Bonnie y después se encamina hacia el lado equivocado. Mugre lo corrige. En el Zampaolas vuelve a subir al puesto de vigía pese a sus problemas de visión.
+
+Fuentes: [42-006 · Shiaru reúne a sus defensores en la plaza](../capitulos/42.md) · 00:08:05.039 · [42-013 · Los defensores embarcan y ocupan sus puestos](../capitulos/42.md) · 00:23:12.440.
 
 ## Registros y evidencias
 
@@ -45,4 +51,20 @@ Tipo: `hecho_confirmado`.
 Ione observa la amenaza de la cimitarra y prepara una banqueta, pero no oye la conversación de Bonnie y Nox. Él pide una ronda para el grupo. Ione convierte la capitanía fingida de Jack en un castigo: limpiar durante una semana los bajos del barco. Él comienza a dirigirse hacia allí. Poncelot cuenta la aventura; Ojo Ausente carga una ballesta aparentemente para agredirlo, pero Mugre lo detiene.
 
 Ione no conoce el pacto privado por observar el peligro. Jack no se convierte en capitán real y Ojo Ausente no llega a disparar.
+
+## [42-006 · Shiaru reúne a sus defensores en la plaza](../capitulos/42.md) · 00:08:05.039
+
+Tipo: `hecho_confirmado`.
+
+La plaza reúne a los habitantes y aliados de Shiaru. Gobs prepara agujas, una sierra y un taladro; Armin espera con dos enormes mazos. Un grupo de mujeres prepara armas de fuego. Eleanor y Erandy están presentes junto a miembros del Zampaolas. Jack aparece nervioso detrás de Ilikar; también se muestran Baps, Mugre y Ojo Ausente. Bonnie conversa con Molly.
+
+El pasaje no nombra con claridad a la mujer que encabeza al grupo armado. Su contexto no basta para atribuir a Liz cada intervención o confirmar que Gobs opere a alguien.
+
+## [42-013 · Los defensores embarcan y ocupan sus puestos](../capitulos/42.md) · 00:23:12.440
+
+Tipo: `hecho_confirmado`.
+
+Los piratas corren a los muelles. Ione llama a los Zampaolas a hacer rugir los mares y los cañones y procura dar seguridad a sus compañeros. Poncelot monta al tigre y embarca; Ilikar sigue a su capitana y Jack va tras él. Mugre orienta a Ojo Ausente cuando toma la dirección equivocada. En el Zampaolas están los trillizos, los cañones y la ballesta; Ojo Ausente sube a vigilar, Mugre baja a preparar comida y Baps revisa los cañones olfateándolos.
+
+La mención colectiva de los trillizos no asigna acciones separadas a Mingo, Mango o Mungo. No debe confundirse el tigre con el tiburón Merlucilla V de la extracción anterior.
 

@@ -924,7 +924,12 @@
     {
       "id": "x-1524356880258961458",
       "archivo": "escenas/x-1524356880258961458.json",
-      "sha256": "e760b118c37e7dfc632440ed0ae2cc51c765321aec55837f3789ee90f8d3fd3e"
+      "sha256": "4e058f83362351aec1da30d2991ea83a8261ec60be4a6bf6fc8d3e8953ecd1e7"
+    },
+    {
+      "id": "x-1524890107604369578",
+      "archivo": "escenas/x-1524890107604369578.json",
+      "sha256": "157fb698c9e70654dcc50df249358c2e596ac1527d599ee4d7887518b4fd1a4d"
     },
     {
       "id": "x-1524899934913167481",
@@ -1523,7 +1528,7 @@
     }
   ],
   "estadisticas": {
-    "escenas": 303,
+    "escenas": 304,
     "unidades_leidas": 244,
     "mensajes_en_escenas": 6241,
     "mensajes_originales": 6243,

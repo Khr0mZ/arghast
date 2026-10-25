@@ -1,0 +1,2361 @@
+{
+  "criterio": "Una ficha por identidad revisada. Las etiquetas de extracción permanecen en las fuentes y no crean automáticamente personas, objetos o lugares.",
+  "grupos": [
+    {
+      "nombre": "Nox",
+      "referencias": [
+        "07-009",
+        "26-021"
+      ],
+      "nota": "Jim Hawkins es el nombre declarado del capitán Nox; Naór es otra persona.",
+      "descripcion": "Pirata relacionado con Ione y Bonnie, vinculado al Zampaolas.",
+      "etiquetas": [
+        "Jim Hawkins (identidad declarada de Nox)",
+        "Nox",
+        "Nox / Jim Hawkins"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Naór",
+      "referencias": [
+        "16-003",
+        "31-005"
+      ],
+      "nota": "Leonina hija de Camar. Tarcan/Tarquan son grafías de reconocimiento, no identidades distintas.",
+      "descripcion": "Princesa leonina de Atlan enviada a contactar con dirigentes de otros clanes.",
+      "etiquetas": [
+        "Naór Tarcan (grafía provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Ione",
+      "referencias": [
+        "03-027",
+        "38-005"
+      ],
+      "nota": "Etiqueta única. No fusionar con Coyote, que la suplanta.",
+      "descripcion": "Pirata que se transforma en mujer lobo y posteriormente capitanea el Zampaolas.",
+      "etiquetas": [
+        "Ione"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Citlali",
+      "referencias": [
+        "03-013",
+        "34-004",
+        "39-017"
+      ],
+      "nota": "El grupo llama Mamá a Citlali. Coyote aparece como un personaje distinto junto a ella en 39-017.",
+      "descripcion": "Anciana nativa conocida como Mamá, portadora de tatuajes y cuidadora de un huevo de dinosaurio.",
+      "etiquetas": [
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Patata",
+      "referencias": [
+        "01-002",
+        "16-001"
+      ],
+      "nota": "Patatamán y Patata designan al mismo agricultor; Patata Hammer es su arma.",
+      "descripcion": "Agricultor que busca establecer una granja en Xoltacan y utiliza magia de curación.",
+      "etiquetas": [
+        "Patata / Patatamán (grafía provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Kilzer",
+      "referencias": [
+        "01-003",
+        "13-006"
+      ],
+      "nota": "Kilzer/Kilcer son variantes del mismo personaje en las fichas.",
+      "descripcion": "Visitante con pasado de robos que proyecta un casino en Shiaru.",
+      "etiquetas": [
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Erendriel",
+      "referencias": [
+        "01-005",
+        "08-007",
+        "16-004",
+        "29-003"
+      ],
+      "nota": "El elfo presentado como Erendriel pide explícitamente ser llamado Salazor en 08-007. Se agrupan sus menciones sin convertir el alias en otro personaje.",
+      "descripcion": "Elfo de una familia de exploradores de Puerto de Espadas, acompañado por un pequeño dragón.",
+      "etiquetas": [
+        "Erendriel (grafía provisional)",
+        "Salazor (nombre usado por el elfo)",
+        "Cuerpo de Erendriel exhibido"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Tlachka",
+      "referencias": [
+        "01-004",
+        "08-001",
+        "27-004",
+        "37-002"
+      ],
+      "nota": "Mismo guerrero nativo: las variantes de grafía editorial no son personajes distintos.",
+      "descripcion": "Guerrero nativo que relata haber sobrevivido a un sacrificio durante un eclipse.",
+      "etiquetas": [
+        "Guerrero nativo (Tlachka, grafía provisional)",
+        "Tlachka / Tlacha (grafía provisional)",
+        "Tlachka / Tlacha / Tlaxka (grafía provisional)",
+        "Tlachka / Tlatka (nativo, grafía provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Ayoto",
+      "referencias": [
+        "02-006",
+        "02-021",
+        "16-007"
+      ],
+      "nota": "Goliat de los dos escudos; distinto de Axi.",
+      "descripcion": "Goliat criado por una tribu de Xoltacan, devoto del Sol y combatiente con dos escudos.",
+      "etiquetas": [
+        "Ayoto (grafía provisional)",
+        "Ayoto / Ayuto (grafía provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Axi",
+      "referencias": [
+        "02-006",
+        "06-030",
+        "09-001"
+      ],
+      "nota": "Equivalencia contextual conservada de la revisión: mismo humano arquero y continuidad de la mordedura. No existe anuncio nominal formal localizado.",
+      "descripcion": "Arquero humano conocido inicialmente como Chochi, superviviente de una tribu destruida.",
+      "etiquetas": [
+        "Axi (identificación contextual con Chochi)",
+        "Axi / Chochi (identificación contextual provisional)",
+        "Axi / Chochi (identificación contextual)",
+        "Chochi (grafía provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Blink",
+      "referencias": [
+        "03-005",
+        "14-003"
+      ],
+      "nota": "La propia hada dice que utiliza ambos nombres en 03-005.",
+      "descripcion": "Hada procedente de un bosque de otro mundo, usuaria de magia y telequinesis.",
+      "etiquetas": [
+        "Blink / Blank"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Lunaria",
+      "referencias": [
+        "05-015",
+        "05-016"
+      ],
+      "nota": "Luna es la abreviatura de Lunaria, no la diosa lunar ni Blink.",
+      "descripcion": "Kender que participa en expediciones, manipula objetos y utiliza magia.",
+      "etiquetas": [
+        "Lunaria / Luna"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Sir Poncelot",
+      "referencias": [
+        "03-008",
+        "11-004"
+      ],
+      "nota": "Mismo gnomo. Sus distintas monturas numeradas se conservan separadas.",
+      "descripcion": "Gnomo caballero que llama Merlucilla a sucesivas monturas de especies distintas.",
+      "etiquetas": [
+        "Sir Poncelot",
+        "Sir Poncelot (grafía confirmada por jugador)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Pinky",
+      "referencias": [
+        "08-026",
+        "12-019",
+        "26-014"
+      ],
+      "nota": "Pinky/Pinki son variantes editoriales de la druida. No fusionar con su nieta ni con toda abuela.",
+      "descripcion": "Druida asociada a la taberna de Bonnie y a plantas, frutas y animales.",
+      "etiquetas": [
+        "Pinky",
+        "Pinky (grafía provisional)",
+        "Pinky / Pinki (grafía provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Bonnie",
+      "referencias": [
+        "01-011",
+        "11-029",
+        "32-020"
+      ],
+      "nota": "Happy Bonnie/Bonny designan a la misma dirigente pirata.",
+      "descripcion": "Dirigente pirata de Shiaru, acreedora de Nox e Ione y dueña de Pix.",
+      "etiquetas": [
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Pix",
+      "referencias": [
+        "10-005",
+        "11-023"
+      ],
+      "nota": "Mono de Bonnie. No un pixi o hada por semejanza fonética.",
+      "descripcion": "Mono de Bonnie secuestrado por hombres lagarto y rescatado por el grupo.",
+      "etiquetas": [
+        "Pix",
+        "Pix (mono de Bonnie)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Molly",
+      "referencias": [
+        "05-008",
+        "05-009",
+        "23-001"
+      ],
+      "nota": "Molly/Moli es la capitana de Marina. Distinta de la sirena Marina.",
+      "descripcion": "Capitana de la Marina vinculada a las deudas de los piratas y al Fuerte Aurora.",
+      "etiquetas": [
+        "Molly (capitana de Marina)",
+        "Molly (capitana de la Marina)",
+        "Molly / Moli (capitana de Marina, grafía provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Marina, la sirena",
+      "referencias": [
+        "06-015",
+        "06-025"
+      ],
+      "nota": "Nombre personal de una sirena liberada de una botella, distinto de la organización Marina.",
+      "descripcion": "Sirena que guía una expedición hasta ruinas submarinas.",
+      "etiquetas": [
+        "Marina (sirena liberada de botella)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Liz",
+      "referencias": [
+        "01-025",
+        "04-030",
+        "06-004"
+      ],
+      "nota": "Encargada de la Sirena Borracha; Liz/Lizy son variantes de la misma interlocutora comercial.",
+      "descripcion": "Encargada de la Sirena Borracha que negocia alojamiento, servicios y compras.",
+      "etiquetas": [
+        "Encargada de la Sirena Borracha (sin nombre)",
+        "Liz",
+        "Liz / Lizy (encargada de Sirena Borracha, grafía provisional)",
+        "Liz / Lizy (encargada de la Sirena Borracha, grafía provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Jack",
+      "referencias": [
+        "03-021",
+        "05-001",
+        "05-003",
+        "33-002",
+        "38-013"
+      ],
+      "nota": "El centinela capturado en la mina continúa como Jack, exmarine junto a Nox y luego tripulante. Jackson no permite fusionarlo con cualquier enemigo así llamado.",
+      "descripcion": "Exmarine capturado por Nox, esposo de Lucy según su declaración y posteriormente integrado con los piratas.",
+      "etiquetas": [
+        "Jack / Jacki (grafía provisional)",
+        "Jack / Jacki (prisionero de Marina integrado con piratas)",
+        "Jack / Jackie (marine cautivo, variantes de apellido)",
+        "Jack / Jackie Jackson (grafía provisional)",
+        "Marine centinela capturado (Jack, identificación provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Baton",
+      "referencias": [
+        "14-003",
+        "16-005",
+        "16-007"
+      ],
+      "nota": "El director identifica su rescate del campamento de la Marina; no es uno de los piratas que capturaron a Blink.",
+      "descripcion": "Nativo rescatado de la Marina que guía a los visitantes hacia Cuicapalli.",
+      "etiquetas": [
+        "Baton (grafía provisional)",
+        "Baton (nativo rescatado, grafía provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Nelli",
+      "referencias": [
+        "14-003",
+        "16-005",
+        "22-002"
+      ],
+      "nota": "Nativa rescatada, distinta de los piratas que capturaron a Blink.",
+      "descripcion": "Nativa rescatada de la Marina que participa en la vida de Cuicapalli.",
+      "etiquetas": [
+        "Nelli (grafía provisional)",
+        "Nelli (nativa rescatada, grafía provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Cipo",
+      "referencias": [
+        "01-022",
+        "27-003",
+        "36-009"
+      ],
+      "nota": "Cipo/Cibo/Zipo son variantes del elemental. No todos los familiares o reptiles de Mamá son Cipo.",
+      "descripcion": "Elemental de fuego invocado inicialmente por Mamá.",
+      "etiquetas": [
+        "Cipo",
+        "Cipo (grafía provisional)",
+        "Cipo / Cibo (elemental de fuego, grafía provisional)",
+        "Cipo / Zipo (grafía provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Eldrat",
+      "referencias": [
+        "14-001",
+        "31-007"
+      ],
+      "nota": "Yelber el Magnífico es un alias adoptado por Eldrat, no otro personaje.",
+      "descripcion": "Elfo hermano de Triel, combatiente que usa dagas psíquicas y una kusarigama.",
+      "etiquetas": [
+        "Alias Yelber el Magnífico usado por Eldrat",
+        "Eldrat (elfo hermano, grafía provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Triel",
+      "referencias": [
+        "14-001",
+        "31-006"
+      ],
+      "nota": "Hermana elfa de Eldrat. No se identifica con la elfa pálida anónima del capítulo 39 solo por aparecer en Iktan.",
+      "descripcion": "Elfa hermana de Eldrat que participa en expediciones y usa una espada azul.",
+      "etiquetas": [
+        "Triel (elfa hermana, grafía provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Coyote",
+      "referencias": [
+        "24-004",
+        "26-001",
+        "31-001",
+        "39-020"
+      ],
+      "nota": "Cambiaformas que suplanta a Ione. Distinto de Citlali y del animal coyote adoptado por Nox.",
+      "descripcion": "Cambiaformas de Iktan que utiliza disfraces y suplanta identidades.",
+      "etiquetas": [
+        "Coyote",
+        "Coyote (cambiaformas)",
+        "Coyote (cambiaformas, grafía provisional)",
+        "Coyote (suplantador de Ione)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Leona",
+      "referencias": [
+        "19-002",
+        "21-004",
+        "30-001"
+      ],
+      "nota": "Coneja y harengon bárbara son descripciones del mismo personaje; no Naór leonina.",
+      "descripcion": "Harengon bárbara que se relaciona con Cuicapalli y participa en la investigación de la Hoja Caída.",
+      "etiquetas": [
+        "Leona (coneja, grafía provisional)",
+        "Leona (harengon bárbara)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Leo",
+      "referencias": [
+        "21-007",
+        "31-001",
+        "31-006"
+      ],
+      "nota": "Niño harengon rescatado en el capítulo 21 y protegido por Naór en el 31. La continuidad del rescate y de lo ocurrido con sus padres es explícita.",
+      "descripcion": "Niño harengon rescatado después del ataque a su familia y acogido por Naór.",
+      "etiquetas": [
+        "Leo (conejo protegido por Naór)",
+        "Leo (niño harengon)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Guayacán",
+      "referencias": [
+        "22-002",
+        "27-004",
+        "30-001"
+      ],
+      "nota": "Guayacán/Epinayu es el mismo combatiente de aspecto aviar; Pinayu/Pirachu designan linajes, no personajes.",
+      "descripcion": "Combatiente de aspecto aviar que declara un linaje ancestral y acompaña a Leona.",
+      "etiquetas": [
+        "Guayacán (grafía provisional)",
+        "Guayacán Epinayu (grafía provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Winscore",
+      "referencias": [
+        "24-001",
+        "30-001",
+        "34-001"
+      ],
+      "nota": "Winscor/Winscore son variantes del mismo explorador enano.",
+      "descripcion": "Explorador enano que combate con armas de coral y participa en expediciones desde Shiaru y Cuicapalli.",
+      "etiquetas": [
+        "Winscor (enano explorador, grafía provisional)",
+        "Winscore (enano, grafía provisional)",
+        "Winscore / Winscor (explorador enano, grafía provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Zarial",
+      "referencias": [
+        "20-002",
+        "20-003",
+        "21-001",
+        "34-001"
+      ],
+      "nota": "Zarial/Tarial/Azarial son variantes de la misma paladina según la continuidad de Triel y Shiaru.",
+      "descripcion": "Paladina que busca maestros y poder, compañera de Triel en expediciones.",
+      "etiquetas": [
+        "Zarial / Azarial (paladina, grafía provisional)",
+        "Zarial / Tarial (grafía provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Eromov",
+      "referencias": [
+        "16-015",
+        "30-003",
+        "30-004"
+      ],
+      "nota": "Líder elefante de Cuicapalli, distintas variantes de reconocimiento no crean líderes nuevos.",
+      "descripcion": "Anciano líder de Cuicapalli que solicita ayuda frente a amenazas y posteriormente enferma por veneno.",
+      "etiquetas": [
+        "Eromov (líder de Cuicapalli, grafía provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Camar Taruan",
+      "referencias": [
+        "16-003",
+        "16-015",
+        "31-027"
+      ],
+      "nota": "Padre de Naór, rey leonino; grafía del apellido sin audio cotejado.",
+      "descripcion": "Rey leonino de Atlan y padre de Naór, promotor de un concilio de clanes.",
+      "etiquetas": [
+        "Camar Taruan (rey leonino, grafía provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Walulu",
+      "referencias": [
+        "31-023",
+        "31-024",
+        "39-017",
+        "39-018"
+      ],
+      "nota": "La misma chamana enmascarada y dirigente de Iktan, vinculada a Coyote; la sucesión del cargo se relata en el capítulo 31. Las variantes proceden de la transcripción y de las etiquetas editoriales.",
+      "descripcion": "Chamana enmascarada y dirigente de Iktan, amiga infantil de Naór y protectora de sus caminos ocultos.",
+      "etiquetas": [
+        "Gualulu / Walulu (líder de Iktan, grafía provisional)",
+        "Walulu / Waluro / Gualulo (chamana enmascarada, grafía provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Parroter",
+      "referencias": [
+        "16-014",
+        "16-017",
+        "30-003",
+        "30-020"
+      ],
+      "nota": "Alquimista kenku de Cuicapalli, posteriormente nombrado Parroter. Agrupación contextual por localidad, oficio y especie, sin otro kenku alquimista descrito.",
+      "descripcion": "Alquimista kenku de Cuicapalli que estudia la enfermedad de Eromov.",
+      "etiquetas": [
+        "Alquimista kenku de Cuicapalli (sin nombre)",
+        "Parroter (alquimista kenku de Cuicapalli)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Tacha",
+      "referencias": [
+        "16-014",
+        "16-021",
+        "22-005"
+      ],
+      "nota": "Tabernero hiena de Cuicapalli, no Tlachka.",
+      "descripcion": "Tabernero y cocinero hiena de Cuicapalli.",
+      "etiquetas": [
+        "Tacha (tabernero hiena, grafía provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Gobs",
+      "referencias": [
+        "08-006",
+        "10-002",
+        "24-021",
+        "26-001"
+      ],
+      "nota": "Médico y matasanos de Shiaru se agrupan por función y establecimiento; no todo alquimista es Gobs.",
+      "descripcion": "Médico de Shiaru conocido por propuestas de intervenciones y tratamientos arriesgados.",
+      "etiquetas": [
+        "Gobs (médico de Shiaru, grafía provisional)",
+        "Gobs (médico, grafía provisional)",
+        "Matasanos de Shiaru"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Armin",
+      "referencias": [
+        "16-004",
+        "23-003",
+        "35-004"
+      ],
+      "nota": "El director corrige a Armin el nombre utilizado por los jugadores en 35-004. El herrero de Shiaru es distinto del herrero tabaxi de Cuicapalli.",
+      "descripcion": "Herrero de Shiaru que vende armas, armaduras y herramientas.",
+      "etiquetas": [
+        "Armin (herrero de Shiaru, grafía provisional)",
+        "Herrero de Shiaru (sin nombre)",
+        "Peter / Armin (herrero, equivalencia contextual provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Baps",
+      "referencias": [
+        "02-004",
+        "24-003",
+        "38-013"
+      ],
+      "nota": "Tripulante recurrente; no fusionarlo con el joven aprendiz anónimo del mapa.",
+      "descripcion": "Tripulante pirata del entorno de Nox e Ione.",
+      "etiquetas": [
+        "Baps (grafía provisional)",
+        "Baps (tripulante, grafía provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Mugre",
+      "referencias": [
+        "02-004",
+        "24-003",
+        "28-022",
+        "38-013"
+      ],
+      "nota": "Sopa Mugre y Mugre corresponden al tripulante recurrente nombrado junto a Baps y Gustavo.",
+      "descripcion": "Tripulante pirata relacionado con el Zampaolas.",
+      "etiquetas": [
+        "Mugre",
+        "Mugre (grafía provisional)",
+        "Mugre (tripulante, grafía provisional)",
+        "Sopa Mugre (grafía provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Gustavo",
+      "referencias": [
+        "02-004",
+        "09-009",
+        "38-013"
+      ],
+      "nota": "Se reúnen las etiquetas del tripulante recurrente Gustavo/Gustav. La ficha del capítulo 09 mantiene limitada su intervención, sin reasignarle el papel del aprendiz del mapa.",
+      "descripcion": "Tripulante que aparece junto a otros piratas del Zampaolas.",
+      "etiquetas": [
+        "Gustavo (acompañante, identidad pendiente)",
+        "Gustavo (tripulante, identidad/grafía provisional)",
+        "Gustavo / Gustav (grafía provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Ojo Ausente",
+      "referencias": [
+        "13-008",
+        "24-003",
+        "28-022"
+      ],
+      "nota": "Sobrenombre usado para el mismo pirata recurrente. No confundir con un ojo u orbe mágico.",
+      "descripcion": "Pirata apodado Ojo Ausente, relacionado con el grupo de tripulantes de Shiaru.",
+      "etiquetas": [
+        "Ojo Ausente",
+        "Ojo Ausente (pirata sin nombre)",
+        "Ojo ausente (pirata, grafía provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Eleanor",
+      "referencias": [
+        "32-002",
+        "33-003",
+        "36-003"
+      ],
+      "nota": "Casa Roosevelt y reino Aragón describen procedencia y filiación, no dos personas.",
+      "descripcion": "Guerrera de la casa Roosevelt que afirma servir a una corona de Aragón, acompañada por una escudera kender.",
+      "etiquetas": [
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Erandy",
+      "referencias": [
+        "32-002",
+        "36-001",
+        "38-003"
+      ],
+      "nota": "Misma escudera de Eleanor por presentación y continuidad. Grafía del nombre no verificada con audio.",
+      "descripcion": "Escudera kender de Eleanor que utiliza magia y cura a Ilikar.",
+      "etiquetas": [
+        "Erandy / Eri / Maya (escudera kender, grafía provisional)",
+        "Eri / Maya (escudera kender, grafía provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Ilikar",
+      "referencias": [
+        "38-003",
+        "38-005"
+      ],
+      "nota": "Goliat recién presentado en el capítulo 38, distinto de Ayoto.",
+      "descripcion": "Goliat rescatado por Erandy que se une a una expedición marítima con Ione.",
+      "etiquetas": [
+        "Ilikar / Ilicar (goliat, grafía provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Tesara Queen",
+      "referencias": [
+        "31-004",
+        "31-005"
+      ],
+      "nota": "Tesa es la abreviatura de la historiadora Tesara Queen.",
+      "descripcion": "Historiadora humana procedente de Puerto de Espadas que documenta costumbres y explora con el grupo.",
+      "etiquetas": [
+        "Tesara Queen / Tesa (historiadora humana)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Maris",
+      "referencias": [
+        "24-006",
+        "29-002",
+        "29-019"
+      ],
+      "nota": "Sirena que vuelve a encontrarse con Coyote y guía al grupo hacia Perlasal; distinta de Marina, liberada en el capítulo 6.",
+      "descripcion": "Sirena relacionada con Coyote y Perlasal.",
+      "etiquetas": [
+        "Maris (sirena de Perlasal, grafía provisional)",
+        "Maris (sirena, grafía provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Merlucilla I",
+      "referencias": [
+        "03-008",
+        "04-003",
+        "11-004"
+      ],
+      "nota": "Dinosaurio inicial, distinto de los animales posteriores numerados.",
+      "descripcion": "Primera montura de Poncelot, un dinosaurio.",
+      "etiquetas": [
+        "Merlucilla (dinosaurio, grafía provisional)",
+        "Merlucilla (montura de Poncelot)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Merlucilla II",
+      "referencias": [
+        "06-020",
+        "11-004"
+      ],
+      "nota": "Hipocampo salvado de tiburones. No la misma criatura que Merlucilla I.",
+      "descripcion": "Hipocampo utilizado por Poncelot como segunda montura.",
+      "etiquetas": [
+        "Hipocampo Merlucilla II",
+        "Merlucilla II (hipocampo)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Merlucilla III",
+      "referencias": [
+        "20-005",
+        "21-001",
+        "26-011"
+      ],
+      "nota": "La mosca capturada en el capítulo 20 recibe explícitamente el nombre de Merlucilla tercera en 21-001.",
+      "descripcion": "Mosca gigante que Poncelot convierte en su tercera montura.",
+      "etiquetas": [
+        "Merlucilla III (mosca)",
+        "Mosca gigante B (montura de Poncelot)",
+        "Mosca gigante B / Merlucilla III"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Merlucilla IV",
+      "referencias": [
+        "26-009",
+        "33-002"
+      ],
+      "nota": "Tigre posterior a la mosca, no una transformación de ésta.",
+      "descripcion": "Tigre utilizado por Poncelot como cuarta montura.",
+      "etiquetas": [
+        "Merlucilla IV (tigre)",
+        "Tigre Merlucilla IV"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Merlucilla V",
+      "referencias": [
+        "38-008",
+        "38-011"
+      ],
+      "nota": "Tiburón adoptado en el capítulo 38, distinto del cadáver de tiburón llamado Princesa en el capítulo 6.",
+      "descripcion": "Tiburón convertido por Poncelot en su quinta montura.",
+      "etiquetas": [
+        "Tiburón Merlucilla V"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Dragón de Erendriel",
+      "referencias": [
+        "01-006",
+        "01-010",
+        "08-011",
+        "10-024"
+      ],
+      "nota": "Las dos etiquetas describen al pequeño dragón compañero de Erendriel. No se inventa un nombre propio.",
+      "descripcion": "Pequeño dragón que acompaña a Erendriel y procede de un huevo conservado por el elfo.",
+      "etiquetas": [
+        "Dragoncito de Erendriel (sin nombre)",
+        "Dragón joven del elfo (nombre sin confirmar)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Etley",
+      "referencias": [
+        "34-018",
+        "34-020",
+        "39-001"
+      ],
+      "nota": "Cría que nació del huevo de Mamá y posteriormente recibe un nombre en el capítulo 39. Se agrupa por la continuidad del nacimiento y de sus cuidados.",
+      "descripcion": "Cría de dinosaurio nacida del huevo criado por Citlali.",
+      "etiquetas": [
+        "Cría dinosaurio de Mamá (sin nombre)",
+        "Etley / Etle / Etil (cría dinosaurio, grafía provisional)"
+      ],
+      "tipo": "personaje"
+    },
+    {
+      "nombre": "Din",
+      "etiquetas": [
+        "Din (nativo, grafía provisional)"
+      ],
+      "referencias": [
+        "24-002"
+      ],
+      "nota": "Etiqueta individual conservada sin inferir identidad con otra persona.",
+      "tipo": "personaje",
+      "descripcion": "Nativo acompañado por su hermano Sam."
+    },
+    {
+      "nombre": "Sam",
+      "etiquetas": [
+        "Sam (hermano de Din)"
+      ],
+      "referencias": [
+        "24-002"
+      ],
+      "nota": "Etiqueta individual conservada sin inferir identidad con otra persona.",
+      "tipo": "personaje",
+      "descripcion": "Hermano de Din."
+    },
+    {
+      "nombre": "Lucy",
+      "etiquetas": [
+        "Lucy (esposa declarada de Jack)"
+      ],
+      "referencias": [
+        "05-003"
+      ],
+      "nota": "Etiqueta individual conservada sin inferir identidad con otra persona.",
+      "tipo": "personaje",
+      "descripcion": "Esposa de Jack según el relato de éste."
+    },
+    {
+      "nombre": "Marga",
+      "etiquetas": [
+        "Margaret / Marga (trabajadora de Liz)"
+      ],
+      "referencias": [
+        "33-005"
+      ],
+      "nota": "Etiqueta individual conservada sin inferir identidad con otra persona.",
+      "tipo": "personaje",
+      "descripcion": "Trabajadora de Liz que acompaña a los piratas buscando ingresos."
+    },
+    {
+      "nombre": "Margarita",
+      "etiquetas": [
+        "Margarita (hermana gemela declarada)"
+      ],
+      "referencias": [
+        "33-005"
+      ],
+      "nota": "Etiqueta individual conservada sin inferir identidad con otra persona.",
+      "tipo": "personaje",
+      "descripcion": "Hermana gemela de Marga según la declaración de ésta."
+    },
+    {
+      "nombre": "Morris",
+      "etiquetas": [
+        "Morris (pirata, grafía provisional)"
+      ],
+      "referencias": [
+        "33-005"
+      ],
+      "nota": "Etiqueta individual conservada sin inferir identidad con otra persona.",
+      "tipo": "personaje",
+      "descripcion": "Pirata que acompaña a la expedición de Nox."
+    },
+    {
+      "nombre": "Chalta",
+      "etiquetas": [
+        "Chalta (hombre tigre, grafía provisional)"
+      ],
+      "referencias": [
+        "19-003"
+      ],
+      "nota": "Etiqueta individual conservada sin inferir identidad con otra persona.",
+      "tipo": "personaje",
+      "descripcion": "Hombre tigre mencionado en una expedición."
+    },
+    {
+      "nombre": "Chimy",
+      "etiquetas": [
+        "Chimy (mago zanahoria, grafía provisional)"
+      ],
+      "referencias": [
+        "10-009"
+      ],
+      "nota": "Etiqueta individual conservada sin inferir identidad con otra persona.",
+      "tipo": "personaje",
+      "descripcion": "Mago llamado Chimy en la fuente."
+    },
+    {
+      "nombre": "Elger Banana",
+      "etiquetas": [
+        "Elger Banana (rey pirata, grafía provisional)"
+      ],
+      "referencias": [
+        "06-018"
+      ],
+      "nota": "Etiqueta individual conservada sin inferir identidad con otra persona.",
+      "tipo": "personaje",
+      "descripcion": "Rey pirata mencionado por la sirena Marina."
+    },
+    {
+      "nombre": "Ivet",
+      "etiquetas": [
+        "Ivet / Irbet (oficiante de Perlasal, grafía provisional)"
+      ],
+      "referencias": [
+        "29-020"
+      ],
+      "nota": "Etiqueta individual conservada sin inferir identidad con otra persona.",
+      "tipo": "personaje",
+      "descripcion": "Oficiante de Perlasal."
+    },
+    {
+      "nombre": "Morti",
+      "etiquetas": [
+        "Morti / Mortis (alquimista, grafía provisional)"
+      ],
+      "referencias": [
+        "35-004"
+      ],
+      "nota": "Etiqueta individual conservada sin inferir identidad con otra persona.",
+      "tipo": "personaje",
+      "descripcion": "Alquimista con quien Nox negocia pociones en Shiaru."
+    },
+    {
+      "nombre": "Melisa",
+      "etiquetas": [
+        "Melisa (trabajadora de posada, grafía provisional)"
+      ],
+      "referencias": [
+        "14-004"
+      ],
+      "nota": "Etiqueta individual conservada sin inferir identidad con otra persona.",
+      "tipo": "personaje",
+      "descripcion": "Trabajadora de posada mencionada en una negociación con Patata."
+    },
+    {
+      "nombre": "Juana",
+      "etiquetas": [
+        "Juana (trabajadora de posada, grafía provisional)"
+      ],
+      "referencias": [
+        "14-004"
+      ],
+      "nota": "Etiqueta individual conservada sin inferir identidad con otra persona.",
+      "tipo": "personaje",
+      "descripcion": "Trabajadora de posada mencionada junto a Melisa."
+    },
+    {
+      "nombre": "Tim",
+      "etiquetas": [
+        "Tim (pirata del muelle)"
+      ],
+      "referencias": [
+        "34-006"
+      ],
+      "nota": "Etiqueta individual conservada sin inferir identidad con otra persona.",
+      "tipo": "personaje",
+      "descripcion": "Pirata que aparece en el muelle."
+    },
+    {
+      "nombre": "Fred",
+      "etiquetas": [
+        "Fred (caído mencionado por guardias)"
+      ],
+      "referencias": [
+        "11-016"
+      ],
+      "nota": "Etiqueta individual conservada sin inferir identidad con otra persona.",
+      "tipo": "personaje",
+      "descripcion": "Caído mencionado por guardias de hombres lagarto."
+    },
+    {
+      "nombre": "Johnson",
+      "etiquetas": [
+        "Johnson (marine de Aurora)"
+      ],
+      "referencias": [
+        "35-010"
+      ],
+      "nota": "Etiqueta individual conservada sin inferir identidad con otra persona.",
+      "tipo": "personaje",
+      "descripcion": "Marine del Fuerte Aurora."
+    },
+    {
+      "nombre": "Smith",
+      "etiquetas": [
+        "Smith (marine de Aurora)"
+      ],
+      "referencias": [
+        "35-008"
+      ],
+      "nota": "Etiqueta individual conservada sin inferir identidad con otra persona.",
+      "tipo": "personaje",
+      "descripcion": "Marine del Fuerte Aurora."
+    },
+    {
+      "nombre": "Jones",
+      "etiquetas": [
+        "Jones (figura mencionada en reunión de los cinco)"
+      ],
+      "referencias": [
+        "26-006"
+      ],
+      "nota": "Etiqueta individual conservada sin inferir identidad con otra persona.",
+      "tipo": "personaje",
+      "descripcion": "Figura mencionada durante una reunión de los cinco; identidad limitada."
+    },
+    {
+      "nombre": "Tórtola",
+      "etiquetas": [
+        "Tórtola (almirante, grafía provisional)"
+      ],
+      "referencias": [
+        "35-010"
+      ],
+      "nota": "Etiqueta individual conservada sin inferir identidad con otra persona.",
+      "tipo": "personaje",
+      "descripcion": "Almirante de la Marina que interviene en el Fuerte Aurora."
+    },
+    {
+      "nombre": "Tórtola de las órdenes",
+      "etiquetas": [
+        "Tórtola (capitán referido en órdenes27)"
+      ],
+      "referencias": [
+        "27-014"
+      ],
+      "nota": "Etiqueta individual conservada sin inferir identidad con otra persona.",
+      "tipo": "personaje",
+      "descripcion": "Capitán mencionado en unas órdenes; identidad con el almirante no establecida.",
+      "visible": false
+    },
+    {
+      "nombre": "Angélica Thunder",
+      "etiquetas": [
+        "Angélica Thunder (tabernera de Iktan)"
+      ],
+      "referencias": [
+        "31-022"
+      ],
+      "nota": "Etiqueta individual conservada sin inferir identidad con otra persona.",
+      "tipo": "personaje",
+      "descripcion": "Tabernera de Iktan que rechaza los avances de Coyote."
+    },
+    {
+      "nombre": "Angelique",
+      "etiquetas": [
+        "Angelique (persona de taberna Iktan, grafía provisional)"
+      ],
+      "referencias": [
+        "39-020"
+      ],
+      "nota": "Etiqueta individual conservada sin inferir identidad con otra persona.",
+      "tipo": "personaje",
+      "descripcion": "Persona de la taberna de Iktan a quien Coyote intenta cortejar.",
+      "visible": false
+    },
+    {
+      "nombre": "Clodidrax",
+      "etiquetas": [
+        "Clodidrax / Clotis (dragón del bosque, grafía provisional)"
+      ],
+      "referencias": [
+        "39-016"
+      ],
+      "nota": "Etiqueta individual conservada sin inferir identidad con otra persona.",
+      "tipo": "personaje",
+      "descripcion": "Dragón del bosque que negocia paso e información con Citlali."
+    },
+    {
+      "nombre": "Mingo",
+      "etiquetas": [
+        "Mingo (pirata buscado, grafía provisional)"
+      ],
+      "referencias": [
+        "12-009",
+        "33-016",
+        "33-019",
+        "34-003"
+      ],
+      "nota": "Nox reconoce a Mingo, Mango y Mungo como sus tripulantes en el capítulo 33. Relatan que cayeron por la borda antes de llegar a la isla. Esa identificación conecta la búsqueda del capítulo 12 con el reencuentro; no se narra una transformación de especie.",
+      "tipo": "personaje",
+      "descripcion": "Hipopótamo de la tripulación de Nox, buscado tras su llegada a Xoltacan y reencontrado entre los caníbales."
+    },
+    {
+      "nombre": "Mango",
+      "etiquetas": [
+        "Mango (pirata buscado, grafía provisional)"
+      ],
+      "referencias": [
+        "12-009",
+        "33-016",
+        "33-019",
+        "34-003"
+      ],
+      "nota": "La identificación de Nox en el capítulo 33 vincula a Mango con el tripulante buscado antes. Las menciones del trío no permiten asignar a Mango cada acción individual de un hipopótamo sin nombre.",
+      "tipo": "personaje",
+      "descripcion": "Hipopótamo de la tripulación de Nox, reencontrado junto a Mingo y Mungo y devuelto al entorno del Zampaolas."
+    },
+    {
+      "nombre": "Pirata llamado Jim",
+      "etiquetas": [
+        "Pirata Jim asesinado por Bonnie (grafía provisional)"
+      ],
+      "referencias": [
+        "24-017"
+      ],
+      "nota": "Persona mencionada; se conserva separada de otras identidades dudosas.",
+      "tipo": "personaje",
+      "descripcion": "Pirata ejecutado por Bonnie; el nombre en esta escena no queda fijado."
+    },
+    {
+      "nombre": "Tommy",
+      "etiquetas": [
+        "Tommy (pirata mencionado, grafía provisional)"
+      ],
+      "referencias": [
+        "24-017"
+      ],
+      "nota": "Persona mencionada; se conserva separada de otras identidades dudosas.",
+      "tipo": "personaje",
+      "descripcion": "Pirata mencionado en una escena de Bonnie con nombres inestables."
+    },
+    {
+      "nombre": "Arcan",
+      "etiquetas": [
+        "Arcan (figura de templo, grafía provisional)"
+      ],
+      "referencias": [
+        "20-003"
+      ],
+      "nota": "Persona mencionada; se conserva separada de otras identidades dudosas.",
+      "tipo": "personaje",
+      "descripcion": "Figura legendaria que Zarial toma como referencia; biografía no acreditada."
+    },
+    {
+      "nombre": "Puerto de Espadas",
+      "etiquetas": [
+        "Puerto de Espadas",
+        "Puerto de las Espadas",
+        "Puerto Espadas"
+      ],
+      "referencias": [
+        "01-005",
+        "12-007",
+        "23-004",
+        "31-005"
+      ],
+      "nota": "Variantes editoriales del puerto exterior citado como procedencia y destino; no tres puertos distintos.",
+      "tipo": "lugar",
+      "descripcion": "Puerto exterior a Xoltacan, lugar de origen de Erendriel y destino propuesto para Jack."
+    },
+    {
+      "nombre": "Atlan",
+      "etiquetas": [
+        "Atlan (reino leonino)",
+        "Atlan (reino leonino, grafía provisional)",
+        "Atlan / Atlat (reino leonino, grafía provisional)"
+      ],
+      "referencias": [
+        "16-003",
+        "17-006",
+        "20-004",
+        "31-024"
+      ],
+      "nota": "Naór se presenta hija del mismo Camar y princesa de Atlan; Atlat es variante. No identifica el nombre de su capital ni fusiona reino y ciudad natal.",
+      "tipo": "lugar",
+      "descripcion": "Reino leonino de Camar Taruan al sur, del que procede Naór."
+    },
+    {
+      "nombre": "Cuicapalli",
+      "etiquetas": [
+        "Cuicapalli",
+        "Cuicapalli (identificación contextual provisional)"
+      ],
+      "referencias": [
+        "01-004",
+        "16-014",
+        "16-015"
+      ],
+      "nota": "Misma grafía normalizada contextual de Cuikapali; no certeza adicional sobre ortografía oficial.",
+      "tipo": "lugar",
+      "descripcion": "Ciudad nativa de distintas especies dirigida por Eromov."
+    },
+    {
+      "nombre": "Iktan",
+      "etiquetas": [
+        "Iktan",
+        "Iktan (identificación contextual provisional)"
+      ],
+      "referencias": [
+        "01-007",
+        "31-023"
+      ],
+      "nota": "Ictan e Iktan corresponden al topónimo normalizado en las fichas.",
+      "tipo": "lugar",
+      "descripcion": "Población de procedencia declarada de Mamá, visitada en el capítulo 31."
+    },
+    {
+      "nombre": "Ras Racor",
+      "etiquetas": [
+        "Ras Racor (ciudad lagarto, grafía provisional)",
+        "Ras Racor (grafía provisional)"
+      ],
+      "referencias": [
+        "17-006",
+        "17-010",
+        "20-001"
+      ],
+      "nota": "Dos rótulos editoriales para la misma ciudad; grafía fonética pendiente.",
+      "tipo": "lugar",
+      "descripcion": "Ciudad de hombres lagarto, con monarquía y arena ceremonial."
+    },
+    {
+      "nombre": "Ruki Peten",
+      "etiquetas": [
+        "Ruki Peten (grafía provisional)",
+        "Ruki Peten (pantano, grafía provisional)"
+      ],
+      "referencias": [
+        "10-009",
+        "11-009",
+        "17-004"
+      ],
+      "nota": "Variación de metadatos del mismo pantano; grafía provisional.",
+      "tipo": "lugar",
+      "descripcion": "Pantano al norte de Shiaru atravesado hacia el poblado de hombres lagarto."
+    },
+    {
+      "nombre": "El Garfio",
+      "etiquetas": [
+        "El Garfio",
+        "El Garfio (costa)",
+        "Garfio"
+      ],
+      "referencias": [
+        "04-001",
+        "07-010",
+        "09-014",
+        "20-007",
+        "23-004"
+      ],
+      "nota": "Topónimo costero recurrente. Sus campamentos, excavaciones y fuerte se mantienen como lugares subordinados distintos.",
+      "tipo": "lugar",
+      "descripcion": "Zona costera asociada a exploraciones y posiciones de la Marina."
+    },
+    {
+      "nombre": "Fuerte Aurora",
+      "etiquetas": [
+        "Fuerte Aurora",
+        "Fuerte Aurora (grafía provisional)"
+      ],
+      "referencias": [
+        "07-010",
+        "12-009",
+        "23-004"
+      ],
+      "nota": "Variación editorial del mismo fuerte; no absorbe la etiqueta genérica Fuerte de la Marina sin identificación específica.",
+      "tipo": "lugar",
+      "descripcion": "Fortaleza de la Marina, donde estuvo Molly y se ejecuta la infiltración del capítulo 23."
+    },
+    {
+      "nombre": "La Sirena Borracha",
+      "etiquetas": [
+        "La Sirena Borracha",
+        "Sirena Borracha (taberna)"
+      ],
+      "referencias": [
+        "01-024",
+        "04-030",
+        "09-032"
+      ],
+      "nota": "Mismo establecimiento con Liz como encargada. No fusiona Taberna de Bonnie ni Local de Liz por inferencia de proximidad.",
+      "tipo": "lugar",
+      "descripcion": "Posada de Shiaru con alojamiento, comercio y servicios, atendida por Liz."
+    },
+    {
+      "nombre": "Casino de Kilzer",
+      "etiquetas": [
+        "Casino de Kilzer",
+        "Casino propuesto de Shiaru"
+      ],
+      "referencias": [
+        "11-031",
+        "13-011",
+        "17-001",
+        "17-002",
+        "29-002"
+      ],
+      "nota": "Proyecto y negocio posterior son fases de la misma iniciativa de Kilzer y Nox. La fusión no implica que estuviera abierto desde el capítulo 11.",
+      "tipo": "lugar",
+      "descripcion": "Negocio de Kilzer en Shiaru, preparado tras negociar con Nox la licencia y el reparto."
+    },
+    {
+      "nombre": "Hospital de Shiaru",
+      "etiquetas": [
+        "Hospital de Shiaru",
+        "Hospital de campaña de Shiaru"
+      ],
+      "referencias": [
+        "08-003",
+        "08-006",
+        "24-021"
+      ],
+      "nota": "Dos denominaciones editoriales del establecimiento médico de Shiaru; sin asumir identidad de todos sus profesionales.",
+      "tipo": "lugar",
+      "descripcion": "Lugar de atención de heridos en Shiaru."
+    },
+    {
+      "nombre": "Zampaolas",
+      "etiquetas": [
+        "Barco Zampaolas (grafía provisional)",
+        "Zampaolas"
+      ],
+      "referencias": [
+        "01-033",
+        "33-002",
+        "38-006"
+      ],
+      "nota": "Mismo barco a través de capítulos. La tripulación Zampaolas se mantiene como organización separada del casco.",
+      "tipo": "objeto",
+      "descripcion": "Barco asociado a Nox e Ione; llega averiado y estampado junto a la taberna de Shiaru."
+    },
+    {
+      "nombre": "Tripulación del Zampaolas",
+      "etiquetas": [
+        "Zampaolas (tripulación)"
+      ],
+      "referencias": [
+        "03-015",
+        "06-005"
+      ],
+      "nota": "Colectivo de personas, distinto de la embarcación aunque comparta nombre.",
+      "tipo": "faccion",
+      "descripcion": "Grupo pirata al que Ione invita o incorpora compañeros."
+    },
+    {
+      "nombre": "Marina",
+      "etiquetas": [
+        "Marina"
+      ],
+      "referencias": [
+        "03-019",
+        "05-007",
+        "23-004"
+      ],
+      "nota": "Organización militar. Marina, la sirena liberada del capítulo 6, sigue como personaje separado.",
+      "tipo": "faccion",
+      "descripcion": "Organización extranjera con soldados, buques, excavaciones y fortificaciones en Xoltacan."
+    },
+    {
+      "nombre": "Anillo familiar de Erendriel",
+      "etiquetas": [
+        "Anillo familiar del elfo",
+        "Anillo familiar de Erendriel",
+        "Anillo de Erendriel en poder de Nox"
+      ],
+      "referencias": [
+        "05-010",
+        "12-007",
+        "28-019"
+      ],
+      "nota": "El anillo familiar mostrado por Erendriel reaparece citado por Nox como el anillo del elfo muerto. No identifica a su familia o un cargo y no se confunde con el anillo negro de Bonnie.",
+      "tipo": "objeto",
+      "descripcion": "Anillo con círculo, X y gema roja, mostrado por Erendriel a Jack; Nox dice llevarlo tras su muerte."
+    },
+    {
+      "nombre": "Diario Terran del nawal",
+      "etiquetas": [
+        "Diario en Terran del templo",
+        "Libro de Nox preparado en Terran",
+        "Diario Terran de nawal"
+      ],
+      "referencias": [
+        "08-021",
+        "08-024",
+        "11-011",
+        "12-004",
+        "12-008",
+        "35-009"
+      ],
+      "nota": "El director confirma en el capítulo 12 que el libro entregado por Erendriel es el diario recogido del nawal. No es el diario en común del mercante maldito.",
+      "tipo": "objeto",
+      "descripcion": "Diario del templo de los nawals cuya escritura degenera; Nox lo utiliza para rituales y glifos."
+    },
+    {
+      "nombre": "Gemas del collar antiguo",
+      "etiquetas": [
+        "Gemas extraídas del collar",
+        "Gemas del collar antiguo"
+      ],
+      "referencias": [
+        "04-020",
+        "04-021",
+        "04-030",
+        "09-031",
+        "11-028"
+      ],
+      "nota": "Mismas gemas repartidas tras extraerlas del collar de misión de Bonnie. No fusiona otros collares ni otras gemas de tesoro.",
+      "tipo": "objeto",
+      "descripcion": "Gemas extraídas del collar encontrado con los piratas enviados por Bonnie y distribuidas entre compañeros."
+    },
+    {
+      "nombre": "Tatuajes de la espalda de Nox",
+      "etiquetas": [
+        "Tatuajes de la espalda de Nox",
+        "Tatuajes de espalda de Nox"
+      ],
+      "referencias": [
+        "07-025",
+        "26-017",
+        "26-019"
+      ],
+      "nota": "Dos formas editoriales del mismo conjunto de tatuajes. No son las marcas de Mamá ni los tatuajes comerciales de Cuicapalli.",
+      "tipo": "objeto",
+      "descripcion": "Tatuajes que Nox muestra a Mamá y que reaccionan durante la exploración de la pirámide serpiente."
+    },
+    {
+      "nombre": "Ojo-orbe recuperado por Nox",
+      "etiquetas": [
+        "Ojo-orbe de serpiente (recuperado28)",
+        "Ojo / esfera custodiada por Bonnie"
+      ],
+      "referencias": [
+        "28-013",
+        "28-019",
+        "37-005",
+        "37-017"
+      ],
+      "nota": "Objeto retirado por Nox, entregado a Bonnie y estudiado después. No fusiona ilusión de ojo ni entidades de las visiones.",
+      "tipo": "objeto",
+      "descripcion": "Ojo brillante de la serpiente convertido en objeto de estudio y custodiado en Shiaru."
+    },
+    {
+      "nombre": "Mocho de Sir Poncelot",
+      "etiquetas": [
+        "Mocho de Poncelot",
+        "Fregona de Poncelot"
+      ],
+      "referencias": [
+        "06-009",
+        "20-005"
+      ],
+      "nota": "La misma herramienta doméstica desempeña el papel de una lanza sagrada para Poncelot y procede del local de Liz. No sustituye a su espada o a su posterior espina-lanza.",
+      "tipo": "objeto",
+      "descripcion": "Utensilio de limpieza usado por Poncelot como arma y como señuelo para su mosca."
+    },
+    {
+      "nombre": "Negociación",
+      "etiquetas": [
+        "Negociación (arma de Ione)",
+        "Negociación (puños americanos de Ione)",
+        "Nudilleras de Ione"
+      ],
+      "referencias": [
+        "09-006",
+        "23-008",
+        "36-012"
+      ],
+      "nota": "El director nombra Negociación al otorgar los metales de puño a Ione; siguientes usos coinciden. No fusiona su bate Diálogo.",
+      "tipo": "objeto",
+      "descripcion": "Arma de puños de Ione, utilizada durante infiltraciones y combates."
+    },
+    {
+      "nombre": "Monedas antiguas de Ayoto",
+      "etiquetas": [
+        "Tres monedas antiguas de Ayoto",
+        "Monedas antiguas de Ayoto"
+      ],
+      "referencias": [
+        "13-025",
+        "27-009"
+      ],
+      "nota": "Botín antiguo recogido por Ayoto; después entrega dos monedas a los babuinos. No se agregan las monedas comunes ni las monedas antiguas de otras excavaciones.",
+      "tipo": "objeto",
+      "descripcion": "Monedas recogidas por Ayoto en el sótano del templo de la danza."
+    },
+    {
+      "nombre": "Perla de comunicación de Coyote",
+      "etiquetas": [
+        "Perla marina de Coyote",
+        "Perla comunicadora de Coyote"
+      ],
+      "referencias": [
+        "24-012",
+        "24-014",
+        "29-005"
+      ],
+      "nota": "Continuidad del objeto marino de Coyote que permite conversar con la sirena en la orilla. No es perla de botín de Ayoto ni las de otras expediciones.",
+      "tipo": "objeto",
+      "descripcion": "Perla usada por Coyote para comunicarse con Maris y preparar su rescate."
+    },
+    {
+      "nombre": "Cinco reyes piratas",
+      "etiquetas": [
+        "Cinco reyes piratas (Honk, grafía provisional)",
+        "Cinco reyes piratas (grupo referido)"
+      ],
+      "referencias": [
+        "11-024",
+        "26-006"
+      ],
+      "nota": "Mismo colectivo referido por su número. Honk es reconocimiento incierto, no nombre canónico del colectivo ni un sexto miembro confirmado.",
+      "tipo": "faccion",
+      "descripcion": "Cinco dirigentes piratas asociados a monedas especiales; Nox refiere una reunión de los cinco."
+    },
+    {
+      "nombre": "Cuchillas Negras",
+      "etiquetas": [
+        "Cuchillas Negras (identificación de anillo)"
+      ],
+      "referencias": [
+        "11-029"
+      ],
+      "nota": "Nombre reconocido al ver el anillo; el vínculo concreto de Bonnie no se convierte en una pertenencia confirmada.",
+      "tipo": "faccion",
+      "descripcion": "Organización o denominación reconocida por el símbolo de dos espadas del anillo negro de Bonnie."
+    },
+    {
+      "nombre": "Collar de Blink",
+      "tipo": "objeto",
+      "etiquetas": [
+        "Collar de Blink",
+        "Collar serpiente de charca"
+      ],
+      "referencias": [
+        "19-014",
+        "25-021",
+        "28-010"
+      ],
+      "descripcion": "Collar obtenido por Blink en la charca y relacionado con las voces y las incursiones de los hombres serpiente.",
+      "nota": "Blink lo guarda en una fruta en el capítulo 19, lo revela en el 25 y lo abandona en el templo en el 28. Es distinto del collar de gemas de la misión de Bonnie."
+    },
+    {
+      "nombre": "Mapa de Poncelot",
+      "tipo": "objeto",
+      "etiquetas": [
+        "Mapa Slaz del cofre (grafía provisional)",
+        "Mapa de Poncelot (destino Ezlat provisional)"
+      ],
+      "referencias": [
+        "20-014",
+        "25-019",
+        "26-015",
+        "28-001"
+      ],
+      "descripcion": "Mapa obtenido por Poncelot y usado para llegar a la pirámide de la expedición de los capítulos 26 y 28.",
+      "nota": "Slaz y Ezlat son lecturas o recuerdos del destino del mismo mapa. La grafía del lugar sigue sin fijarse; no son dos mapas por esa variación."
+    },
+    {
+      "nombre": "Xoltacan",
+      "tipo": "lugar",
+      "etiquetas": [
+        "Xoltacan"
+      ],
+      "referencias": [
+        "35-014",
+        "36-019"
+      ],
+      "descripcion": "Isla en la que transcurre la campaña.",
+      "nota": "Entrada documentada en los registros citados."
+    },
+    {
+      "nombre": "Shiaru",
+      "tipo": "lugar",
+      "etiquetas": [
+        "Shiaru"
+      ],
+      "referencias": [
+        "01-001",
+        "01-009",
+        "01-024"
+      ],
+      "descripcion": "Poblado costero bajo la autoridad de Bonnie.",
+      "nota": "Entrada documentada en los registros citados."
+    },
+    {
+      "nombre": "Tutucan",
+      "tipo": "lugar",
+      "etiquetas": [
+        "Tutucan"
+      ],
+      "referencias": [
+        "16-003",
+        "16-016",
+        "17-011"
+      ],
+      "descripcion": "Ciudad elegida para reunir el concilio de líderes.",
+      "nota": "Entrada documentada en los registros citados."
+    },
+    {
+      "nombre": "Perlasal",
+      "tipo": "lugar",
+      "etiquetas": [
+        "Perlasal"
+      ],
+      "referencias": [
+        "29-020",
+        "29-021",
+        "29-023"
+      ],
+      "descripcion": "Población submarina de sirénidos visitada por los viajeros.",
+      "nota": "Entrada documentada en los registros citados."
+    },
+    {
+      "nombre": "El Bocado del Jaguar",
+      "tipo": "lugar",
+      "etiquetas": [
+        "El Bocado del Jaguar"
+      ],
+      "referencias": [
+        "16-018"
+      ],
+      "descripcion": "Taberna de Cuicapalli, donde Tacha prepara el banquete del cocodrilo.",
+      "nota": "Entrada documentada en los registros citados."
+    },
+    {
+      "nombre": "Forja del Águila de Sangre",
+      "tipo": "lugar",
+      "etiquetas": [
+        "Forja del Águila de Sangre"
+      ],
+      "referencias": [
+        "16-018",
+        "30-021"
+      ],
+      "descripcion": "Forja de Cuicapalli donde se ofrecen armas y armaduras.",
+      "nota": "Entrada documentada en los registros citados."
+    },
+    {
+      "nombre": "Cabaña del Sueño",
+      "tipo": "lugar",
+      "etiquetas": [
+        "Cabaña del Sueño"
+      ],
+      "referencias": [
+        "16-018"
+      ],
+      "descripcion": "Establecimiento de Cuicapalli vinculado al sabio y sus tatuajes.",
+      "nota": "Entrada documentada en los registros citados."
+    },
+    {
+      "nombre": "Humo del Paso de los Muertos",
+      "tipo": "lugar",
+      "etiquetas": [
+        "Humo del Paso de los Muertos"
+      ],
+      "referencias": [
+        "16-018"
+      ],
+      "descripcion": "Establecimiento de alquimia de Cuicapalli.",
+      "nota": "Entrada documentada en los registros citados."
+    },
+    {
+      "nombre": "La Madriguera",
+      "tipo": "lugar",
+      "etiquetas": [
+        "La Madriguera"
+      ],
+      "referencias": [
+        "16-018"
+      ],
+      "descripcion": "Alojamiento de Cuicapalli con servicios de sastrería.",
+      "nota": "Entrada documentada en los registros citados."
+    },
+    {
+      "nombre": "El Huevo Emplumado",
+      "tipo": "lugar",
+      "etiquetas": [
+        "El Huevo Emplumado"
+      ],
+      "referencias": [
+        "31-020",
+        "31-022"
+      ],
+      "descripcion": "Taberna de Iktan visitada por los viajeros.",
+      "nota": "Entrada documentada en los registros citados."
+    },
+    {
+      "nombre": "Granja de Patata",
+      "tipo": "lugar",
+      "etiquetas": [
+        "Granja de Patata"
+      ],
+      "referencias": [
+        "15-003",
+        "15-007",
+        "16-001"
+      ],
+      "descripcion": "Granja de Patata situada junto al camino cercano a Shiaru.",
+      "nota": "Entrada documentada en los registros citados."
+    },
+    {
+      "nombre": "Cueva de la Hoja Caída",
+      "tipo": "lugar",
+      "etiquetas": [
+        "Cueva de la Hoja Caída"
+      ],
+      "referencias": [
+        "30-007",
+        "30-010",
+        "30-012"
+      ],
+      "descripcion": "Cueva investigada en relación con el envenenamiento de Eromov.",
+      "nota": "Entrada documentada en los registros citados."
+    },
+    {
+      "nombre": "Templo de los nawals",
+      "tipo": "lugar",
+      "etiquetas": [
+        "Templo de los nawals"
+      ],
+      "referencias": [
+        "08-008",
+        "08-016",
+        "08-020"
+      ],
+      "descripcion": "Ruinas donde el grupo encontró un diario y a una mujer que se transformaba en pantera.",
+      "nota": "Entrada documentada en los registros citados."
+    },
+    {
+      "nombre": "Templo de Lares",
+      "tipo": "lugar",
+      "etiquetas": [
+        "Templo de Lares (grafía provisional)"
+      ],
+      "referencias": [
+        "18-007",
+        "18-008",
+        "18-010"
+      ],
+      "descripcion": "Templo investigado por encargo de Eromov, ocupado por hombres serpiente.",
+      "nota": "Entrada documentada en los registros citados."
+    },
+    {
+      "nombre": "Tribu de la Hoja Caída",
+      "tipo": "faccion",
+      "etiquetas": [
+        "Tribu de la Hoja Caída"
+      ],
+      "referencias": [
+        "30-007",
+        "30-009",
+        "30-020"
+      ],
+      "descripcion": "Nombre con el que se presentan las visitantes relacionadas con la investigación del veneno.",
+      "nota": "Entrada documentada en los registros citados."
+    },
+    {
+      "nombre": "Profundos",
+      "tipo": "faccion",
+      "etiquetas": [
+        "Profundos (opresores de Perlasal)"
+      ],
+      "referencias": [
+        "29-021",
+        "29-022"
+      ],
+      "descripcion": "Grupo al que Maris atribuye los secuestros y los rituales de los merros.",
+      "nota": "Entrada documentada en los registros citados."
+    },
+    {
+      "nombre": "Yuan-ti",
+      "tipo": "faccion",
+      "etiquetas": [
+        "Yuan-ti"
+      ],
+      "referencias": [
+        "18-007",
+        "22-012",
+        "22-020"
+      ],
+      "descripcion": "Hombres serpiente presentes en templos e incursiones de la campaña.",
+      "nota": "Entrada documentada en los registros citados."
+    },
+    {
+      "nombre": "Nawals",
+      "tipo": "faccion",
+      "etiquetas": [
+        "Nawals (grafía provisional)"
+      ],
+      "referencias": [
+        "08-009",
+        "08-020"
+      ],
+      "descripcion": "Tradición o grupo relacionado con los rituales de transformación.",
+      "nota": "Entrada documentada en los registros citados."
+    },
+    {
+      "nombre": "Patata Hammer",
+      "tipo": "objeto",
+      "etiquetas": [
+        "Patata Hammer (martillo de Patata)"
+      ],
+      "referencias": [
+        "16-001",
+        "16-009"
+      ],
+      "descripcion": "Martillo obtenido por Patata después de que se rompiera su espada.",
+      "nota": "Entrada documentada en los registros citados."
+    },
+    {
+      "nombre": "Collar antiguo de oro con gemas",
+      "tipo": "objeto",
+      "etiquetas": [
+        "Collar antiguo de oro con gemas"
+      ],
+      "referencias": [
+        "04-020",
+        "04-021",
+        "04-029"
+      ],
+      "descripcion": "Collar encontrado durante la búsqueda de los piratas enviados por Bonnie.",
+      "nota": "Entrada documentada en los registros citados."
+    },
+    {
+      "nombre": "Collar de plata de Leo",
+      "tipo": "objeto",
+      "etiquetas": [
+        "Collar de plata de Leo"
+      ],
+      "referencias": [
+        "21-007",
+        "21-012",
+        "21-013"
+      ],
+      "descripcion": "Collar de Leo usado por Naór durante el combate de la cueva de lobos.",
+      "nota": "Entrada documentada en los registros citados."
+    },
+    {
+      "nombre": "Brújula de deseos de Nox",
+      "tipo": "objeto",
+      "etiquetas": [
+        "Brújula de deseos de Nox"
+      ],
+      "referencias": [
+        "33-006",
+        "33-009",
+        "33-017"
+      ],
+      "descripcion": "Brújula cuya dirección cambia según el deseo de Nox.",
+      "nota": "Entrada documentada en los registros citados."
+    },
+    {
+      "nombre": "Moneda pirata de Bonnie",
+      "tipo": "objeto",
+      "etiquetas": [
+        "Moneda pirata de Bonnie"
+      ],
+      "referencias": [
+        "32-014",
+        "32-020"
+      ],
+      "descripcion": "Moneda que Bonnie utiliza durante la defensa de Shiaru.",
+      "nota": "Entrada documentada en los registros citados."
+    },
+    {
+      "nombre": "Moneda negra del mercante",
+      "tipo": "objeto",
+      "etiquetas": [
+        "Moneda negra del mercante"
+      ],
+      "referencias": [
+        "14-019",
+        "14-021"
+      ],
+      "descripcion": "Moneda obtenida del marinero de la boca cosida en el mercante maldito.",
+      "nota": "Entrada documentada en los registros citados."
+    },
+    {
+      "nombre": "Diario de capitán del mercante",
+      "tipo": "objeto",
+      "etiquetas": [
+        "Diario de capitán del mercante"
+      ],
+      "referencias": [
+        "14-015",
+        "14-016"
+      ],
+      "descripcion": "Diario que relata la enfermedad de la hija del capitán y una negociación con una entidad.",
+      "nota": "Entrada documentada en los registros citados."
+    },
+    {
+      "nombre": "Relicario de gema negra",
+      "tipo": "objeto",
+      "etiquetas": [
+        "Relicario de gema negra"
+      ],
+      "referencias": [
+        "14-015",
+        "14-016",
+        "14-021"
+      ],
+      "descripcion": "Relicario vinculado a la maldición del mercante y a la marca de Patata.",
+      "nota": "Entrada documentada en los registros citados."
+    },
+    {
+      "nombre": "Diálogo",
+      "tipo": "objeto",
+      "etiquetas": [
+        "Diálogo (bate de Ione)"
+      ],
+      "referencias": [
+        "03-021",
+        "04-017",
+        "05-025"
+      ],
+      "descripcion": "Bate de Ione, distinto de sus armas de puño.",
+      "nota": "Entrada documentada en los registros citados."
+    },
+    {
+      "nombre": "Espada azul de escamas de Triel",
+      "tipo": "objeto",
+      "etiquetas": [
+        "Espada azul de escamas de Triel"
+      ],
+      "referencias": [
+        "14-002",
+        "15-006"
+      ],
+      "descripcion": "Espada de Triel descrita como hecha con escamas azules de dragón.",
+      "nota": "Entrada documentada en los registros citados."
+    },
+    {
+      "nombre": "Pociones de Arwen",
+      "tipo": "objeto",
+      "etiquetas": [
+        "Pociones de Arwen"
+      ],
+      "referencias": [
+        "28-010",
+        "34-009"
+      ],
+      "descripcion": "Pociones mencionadas y utilizadas por los viajeros durante la campaña.",
+      "nota": "Entrada documentada en los registros citados."
+    },
+    {
+      "nombre": "Mungo",
+      "tipo": "personaje",
+      "etiquetas": [
+        "Tercer pirata buscado por Nox (sin nombre claro)"
+      ],
+      "descripcion": "Tercer hipopótamo del grupo de tripulantes reencontrado por Nox junto a Mingo y Mango.",
+      "nota": "El capítulo 12 deja sin nombre claro al tercer compañero buscado. En el capítulo 33, Nox reconoce al trío Mingo, Mango y Mungo como su tripulación. La correspondencia del tercero se establece por esa continuidad, sin atribuirle por separado las acciones anónimas del grupo.",
+      "referencias": [
+        "12-009",
+        "33-016",
+        "33-019",
+        "34-003"
+      ]
+    },
+    {
+      "nombre": "Tortas",
+      "tipo": "personaje",
+      "etiquetas": [
+        "Tortas (anciano tortuga, grafía provisional)"
+      ],
+      "referencias": [
+        "40-007",
+        "40-011",
+        "40-029",
+        "40-035"
+      ],
+      "descripcion": "Tortuga monje venerada como Gran Anciano y protectora de Iktan.",
+      "nota": "Su aspecto pétreo no es una petrificación. Se conservan en tensión la edad declarada de 77 años y los siglos atribuidos por Walulu."
+    },
+    {
+      "nombre": "Dragón verde del bosque de Iktan",
+      "tipo": "personaje",
+      "etiquetas": [
+        "Dragón verde del bosque de Iktan"
+      ],
+      "referencias": [
+        "31-015",
+        "40-002",
+        "40-030",
+        "40-032"
+      ],
+      "descripcion": "Adversario del bosque relacionado con el veneno, las heridas de Triel y la caza proyectada por Ilikar y Eldrat.",
+      "nota": "Nombre propio de reconocimiento incierto. No se fusiona con Clodidrax ni se afirma que sean necesariamente criaturas diferentes. La destrucción de las casas antiguas tampoco fija su autoría."
+    },
+    {
+      "nombre": "Masa zombi del claro envenenado",
+      "tipo": "personaje",
+      "etiquetas": [
+        "Masa zombi del claro envenenado",
+        "Zombis desprendidos de la masa (capítulo 40)"
+      ],
+      "referencias": [
+        "40-016",
+        "40-017",
+        "40-018",
+        "40-024"
+      ],
+      "descripcion": "Amalgama de fauna muerta que desprende zombis venenosos durante el combate del capítulo 40.",
+      "nota": "Nombre editorial descriptivo. Los zombis menores se integran en su historia; no se identifica con la masa del capítulo 31 ni se fija creador o especie de bestiario."
+    },
+    {
+      "nombre": "Claro de los restos envenenados",
+      "tipo": "lugar",
+      "etiquetas": [
+        "Claro de los restos envenenados (capítulo 40)"
+      ],
+      "referencias": [
+        "40-013",
+        "40-015",
+        "40-016"
+      ],
+      "descripcion": "Foco de vegetación marchita y cadáveres en las inmediaciones del lago al norte de Iktan.",
+      "nota": "Etiqueta geográfica descriptiva; no fija coordenadas, no abarca toda la orilla ni acredita la descontaminación posterior."
+    },
+    {
+      "nombre": "Valle Blanco",
+      "tipo": "lugar",
+      "etiquetas": [
+        "Valle Blanco (origen declarado de Ilikar)"
+      ],
+      "referencias": [
+        "40-039"
+      ],
+      "descripcion": "Lugar de las tierras frías del norte del que Ilikar declara proceder.",
+      "nota": "Procedencia declarada sin coordenadas. No se equipara con Tunkaz ni se confunde con Shiaru, donde Ilikar se ha alojado."
+    },
+    {
+      "nombre": "Muestra de veneno del claro",
+      "tipo": "objeto",
+      "etiquetas": [
+        "Muestra de veneno del claro (capítulo 40)",
+        "Muestra de veneno entregada a Walulu"
+      ],
+      "referencias": [
+        "40-026",
+        "40-035"
+      ],
+      "descripcion": "Botella de veneno recogida tras el combate y entregada por Leona a Walulu.",
+      "nota": "Una sola muestra con dos etiquetas: se desconoce el recolector inicial; la entrega sí identifica a Leona y la custodia de Walulu. El análisis queda pendiente."
+    },
+    {
+      "nombre": "Fragmento de espada bajo la roca",
+      "tipo": "objeto",
+      "etiquetas": [
+        "Fragmento de espada bajo la roca (40)"
+      ],
+      "referencias": [
+        "40-003"
+      ],
+      "descripcion": "Pieza de espada rota que Cipo extrae de debajo de una roca sostenida por Ilikar.",
+      "nota": "No se establecen propietario, antigüedad ni relación con otras espadas."
+    },
+    {
+      "nombre": "Piedra sagrada de Iktan",
+      "tipo": "objeto",
+      "etiquetas": [
+        "Piedra sagrada de Iktan (asiento de Tortas)"
+      ],
+      "referencias": [
+        "40-008",
+        "40-013",
+        "40-042"
+      ],
+      "descripcion": "Soporte venerado que ocupaba Tortas y donde Triel intenta meditar al final del festival.",
+      "nota": "Su valor sagrado está documentado. No se demuestra que otorgue brazos astrales ni otro poder propio."
+    },
+    {
+      "nombre": "Tentacol",
+      "tipo": "personaje",
+      "etiquetas": [
+        "Tentacol / Tentac (viajero acuático, grafía provisional)",
+        "Tentacol",
+        "Tentac",
+        "Tenta"
+      ],
+      "referencias": [
+        "41-006",
+        "41-008",
+        "41-010",
+        "41-022",
+        "41-029",
+        "41-049"
+      ],
+      "descripcion": "Viajero acuático próximo a Perlasal que lleva a Chopito en un frasco y combate junto a Naór, Blink y Winscore.",
+      "nota": "Grafía provisional. La presentación Tenta y la continuidad con el pulpo enlazan las variantes; no se fija raza ni una identidad anterior."
+    },
+    {
+      "nombre": "Chopito",
+      "tipo": "personaje",
+      "etiquetas": [
+        "Chopito (pulpo, grafía provisional)",
+        "Chopito"
+      ],
+      "referencias": [
+        "41-006",
+        "41-010",
+        "41-020",
+        "41-029",
+        "41-030",
+        "41-050"
+      ],
+      "descripcion": "Pulpo telepático vinculado a Tentacol, transportado en un recipiente con agua y capaz de intervenir en la investigación.",
+      "nota": "Su pretensión de recibir adoración o poseer súbditos es testimonio suyo, sin divinidad ni mando sobre el dragón demostrados."
+    },
+    {
+      "nombre": "Infiltrada serpiente del festival de Iktan",
+      "tipo": "personaje",
+      "etiquetas": [
+        "Infiltrada serpiente del festival de Iktan (41)",
+        "Prisionera serpiente del festival de Iktan (capítulo 41)"
+      ],
+      "referencias": [
+        "41-011",
+        "41-012",
+        "41-016",
+        "41-019",
+        "41-023"
+      ],
+      "descripcion": "Mujer con apariencia ilusoria de nativa que intenta inducir a Winscore a retirar al Anciano y muere durante el interrogatorio.",
+      "nota": "Identidad descriptiva sin nombre ni rango. Walulu la vincula al grupo del veneno de Eromov; la causa de su muerte y la presencia que anuncia siguen abiertas."
+    },
+    {
+      "nombre": "Sacerdotes serpiente de la roca norte",
+      "tipo": "personaje",
+      "etiquetas": [
+        "Sacerdotes serpiente de la roca norte (capítulo 41)"
+      ],
+      "referencias": [
+        "41-023",
+        "41-028",
+        "41-029",
+        "41-030",
+        "41-033",
+        "41-034"
+      ],
+      "descripcion": "Dos adversarios localizados fuera de Iktan bajo apariencia de mujeres nativas, preparando viales junto a una roca.",
+      "nota": "Ficha colectiva descriptiva. Sus capacidades se registran por intervención; no se atribuye a ambos todo efecto individual ni se identifica por nombre al superviviente."
+    },
+    {
+      "nombre": "Abominación de la roca norte",
+      "tipo": "personaje",
+      "etiquetas": [
+        "Abominaciones serpiente del festival (capítulo 41)",
+        "Abominación de la roca norte"
+      ],
+      "referencias": [
+        "41-023",
+        "41-038",
+        "41-039",
+        "41-046"
+      ],
+      "descripcion": "Gran criatura serpentina que sale de la vegetación, apresa a Naór con la cola y es derrotada en el combate del capítulo 41.",
+      "nota": "Solo una aparición confirmada. La mención previa de dos grandes abominaciones permanece como declaración no verificada; no se fija subespecie de bestiario."
+    },
+    {
+      "nombre": "Conejo cornudo del bosque de Iktan",
+      "tipo": "personaje",
+      "etiquetas": [
+        "Conejo cornudo del bosque de Iktan (capítulo 41)"
+      ],
+      "referencias": [
+        "41-027"
+      ],
+      "descripcion": "Animal consultado por Blink que señala la dirección de las mujeres junto a la roca al norte de Iktan.",
+      "nota": "Nombre editorial descriptivo, sin identificar especie fantástica por parecido. Su relato de la gran serpiente conserva atribución y no confirma identidad con el dragón."
+    },
+    {
+      "nombre": "Roca de los sacerdotes al norte de Iktan",
+      "tipo": "lugar",
+      "etiquetas": [
+        "Roca de los sacerdotes al norte de Iktan (capítulo 41)"
+      ],
+      "referencias": [
+        "41-023",
+        "41-027",
+        "41-028",
+        "41-029",
+        "41-038"
+      ],
+      "descripcion": "Lugar exterior al poblado donde dos figuras con ilusiones preparan viales y el grupo libra el combate.",
+      "nota": "Etiqueta descriptiva sin coordenadas precisas. Es distinta de la piedra sagrada del Anciano y del claro de los restos envenenados del capítulo 40."
+    },
+    {
+      "nombre": "Viales verdes de la roca norte",
+      "tipo": "objeto",
+      "etiquetas": [
+        "Viales verdes de la roca norte (capítulo 41)"
+      ],
+      "referencias": [
+        "41-028",
+        "41-029",
+        "41-030",
+        "41-051"
+      ],
+      "descripcion": "Recipientes de líquido verdoso preparados por los adversarios del norte de Iktan; Winscore recoge recipientes tras el combate.",
+      "nota": "El grupo los trata como venenos, sin análisis de composición. No se fusionan con la botella de Leona ni con la tinta del familiar."
+    }
+  ],
+  "exclusiones": [
+    {
+      "etiqueta": "Sucesos de descanso en Shiaru",
+      "razon": "Agrupador editorial de sucesos; no persona, lugar, objeto u organización."
+    },
+    {
+      "etiqueta": "Reglas caseras de combate",
+      "razon": "Explicación de reglas de juego; conservar el registro de fuente fuera del catálogo de entidades."
+    },
+    {
+      "etiqueta": "Heridas y rejuvenecimiento de Mamá",
+      "razon": "Estado y evolución de un personaje; deben aparecer dentro de Mamá, no como entidad nueva."
+    },
+    {
+      "etiqueta": "Deudas de Nox",
+      "razon": "Relación económica y trama del personaje, no entidad autónoma."
+    },
+    {
+      "etiqueta": "Juego ceremonial de pelota",
+      "razon": "Actividad narrada; no ficha de persona, lugar, objeto u organización."
+    },
+    {
+      "etiqueta": "Festival de Cuicapalli",
+      "razon": "Acontecimiento de cronología, no una segunda entidad de Cuicapalli."
+    },
+    {
+      "etiqueta": "Explosión de pólvora Aurora",
+      "razon": "Acontecimiento del fuerte, no lugar u objeto autónomo."
+    },
+    {
+      "etiqueta": "Visión de Mamá al registrar cadáver",
+      "razon": "Acontecimiento visionario con valor como evidencia, no entidad nueva."
+    },
+    {
+      "etiqueta": "Visión de portal tentacular (28)",
+      "razon": "Escena de visión. Conservar hechos e imágenes en registros y misterios sin crear ficha de visión como personaje."
+    },
+    {
+      "etiqueta": "Visión de ritual de eclipse (28)",
+      "razon": "Escena de visión, no persona, lugar u organización identificada."
+    },
+    {
+      "etiqueta": "Ilusión de ojo en isla (cierre28)",
+      "razon": "Aparición/efecto de escena, no segundo ojo físico ni entidad independiente."
+    },
+    {
+      "etiqueta": "Influencia mental del dragón verde de Iktan",
+      "razon": "Efecto del dragón, a documentar dentro de su historia, no personaje adicional."
+    },
+    {
+      "etiqueta": "Branquias temporales concedidas por sirenos",
+      "razon": "Efecto mágico temporal sobre viajeros, no objeto o criatura independiente."
+    },
+    {
+      "etiqueta": "Burbujas de respiración acuática",
+      "razon": "Efecto mágico temporal, no objeto permanente identificado."
+    },
+    {
+      "etiqueta": "Burbujas de respiración de la sirena",
+      "razon": "Efecto mágico temporal, no objeto o personaje independiente."
+    },
+    {
+      "etiqueta": "Maldición de drenaje de Citlali",
+      "razon": "Condición/trama de Citlali, no una entidad adicional."
+    },
+    {
+      "etiqueta": "Alias Yelber el Magnífico usado por Eldrat",
+      "razon": "Alias de personaje conocido; se consulta en Eldrat y en el registro que lo utiliza, no como otra persona."
+    }
+  ],
+  "propuestas_dudosas": [
+    {
+      "etiquetas": [
+        "Angélica Thunder (tabernera de Iktan)",
+        "Angelique (persona de taberna Iktan, grafía provisional)"
+      ],
+      "referencias": [
+        "31-022",
+        "39-020"
+      ],
+      "nota": "Probable misma tabernera por entorno, relación con Coyote y nombre parecido. No anuncio inequívoco de identidad en fichas; mantener separado hasta cotejo."
+    },
+    {
+      "etiquetas": [
+        "Dragón verde del bosque de Iktan",
+        "Clodidrax / Clotis (dragón del bosque, grafía provisional)"
+      ],
+      "referencias": [
+        "31-015",
+        "39-016"
+      ],
+      "nota": "Mismo entorno y especie dragón, pero no basta para atribuir nombre y acciones de31 al interlocutor invisible de39 sin confirmación."
+    },
+    {
+      "etiquetas": [
+        "Tórtola (almirante, grafía provisional)",
+        "Tórtola (capitán referido en órdenes27)"
+      ],
+      "referencias": [
+        "27-014",
+        "35-010"
+      ],
+      "nota": "Probable continuidad de mando; rango distinto y ausencia de identificación visual anterior no permiten cerrarla solo por nombre."
+    },
+    {
+      "etiquetas": [
+        "Alquimista de Shiaru (sin nombre)",
+        "Morti / Mortis (alquimista, grafía provisional)"
+      ],
+      "referencias": [
+        "09-033",
+        "35-004"
+      ],
+      "nota": "Mismo oficio y pueblo no prueba establecimiento único ni mismo individuo."
+    },
+    {
+      "etiquetas": [
+        "Pirata Jim asesinado por Bonnie (grafía provisional)",
+        "Tommy (pirata mencionado, grafía provisional)"
+      ],
+      "referencias": [
+        "24-017"
+      ],
+      "nota": "Escena usa dos nombres sin fijación. No fusionar con Nox/Jim Hawkins ni fabricar dos muertes."
+    },
+    {
+      "etiquetas": [
+        "Loro del sombrero pirata (nombre no diegético)",
+        "Loro pirata (sin nombre)",
+        "Loro de Shiaru",
+        "Loro pirata recurrente"
+      ],
+      "referencias": [
+        "06-012",
+        "08-014",
+        "26-004",
+        "35-003"
+      ],
+      "nota": "Recurrente ave pirata probable, pero no se establece que todas las apariciones sean un único animal."
+    }
+  ]
+}

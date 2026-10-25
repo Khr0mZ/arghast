@@ -12,7 +12,7 @@ Base para revisar equivalencia: [12-009](../capitulos/12.md), [33-016](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### Un tripulante al que Nox daba por perdido
 

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [31-023](../capitulos/31.md), [31-024](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### La heredera que protege los caminos ocultos
 

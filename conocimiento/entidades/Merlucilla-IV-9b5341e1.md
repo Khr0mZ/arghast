@@ -8,11 +8,11 @@ Tigre posterior a la mosca, no una transformación de ésta.
 
 Etiquetas agrupadas: Merlucilla IV (tigre); Tigre Merlucilla IV.
 
-Base para revisar equivalencia: [26-009](../capitulos/26.md), [33-002](../capitulos/33.md).
+Base para revisar equivalencia: [26-009](../capitulos/26.md), [33-002](../capitulos/33.md), [42-013](../capitulos/42.md), [42-014](../capitulos/42.md), [42-024](../capitulos/42.md), [42-025](../capitulos/42.md), [42-027](../capitulos/42.md), [42-037](../capitulos/42.md), [42-051](../capitulos/42.md), [42-063](../capitulos/42.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 41.
+Relato revisado hasta el capítulo 42.
 
 ### Un tigre tras la pérdida de la mosca
 
@@ -25,6 +25,24 @@ Fuentes: [26-010 · Pinky mata a la mosca para atraer al tigre](../capitulos/26.
 El tigre continúa al lado de Poncelot en expediciones posteriores y llega a arrastrar los restos del elfo colgado cuando caen al suelo. En las ruinas arrasadas por un gran dinosaurio vuelve a quedar expuesto al combate y a los ataques de Ione fuera de control. Las curaciones permiten que regrese con el grupo. La incorporación posterior de un tiburón como Merlucilla V no demuestra por sí sola la muerte de este tigre.
 
 Fuentes: [29-003 · El cadáver del elfo cae y el tigre se lo lleva](../capitulos/29.md) · 00:09:00.000 · [33-009 · Cueva y exploración sin luz](../capitulos/33.md) · 00:54:00.000 · [36-013 · Ione ataca a sus aliados y los intentos de calmarla fallan](../capitulos/36.md) · 01:46:00.000 · [36-016 · Curación del tigre y regreso a la forma humana](../capitulos/36.md) · 02:12:00.000 · [38-009 · Poncelot calma y cura al tiburón](../capitulos/38.md) · 01:12:00.000.
+
+### Un tigre a bordo del Zampaolas
+
+Poncelot monta de nuevo al tigre para llegar al muelle y embarcar en el Zampaolas. Antes de la batalla explica que le ha improvisado protección con maderos y partes de barril. Este regreso corresponde al tigre Merlucilla IV, no transforma al tiburón de la extracción del barco en un felino.
+
+Fuentes: [42-013 · Los defensores embarcan y ocupan sus puestos](../capitulos/42.md) · 00:23:12.440 · [42-014 · Poncelot prepara una armadura improvisada para el tigre](../capitulos/42.md) · 00:28:52.440.
+
+### El tigre bajo los cañones
+
+Un cañonazo sobre el Zampaolas asusta al tigre Merlucilla, que se refugia en brazos de Poncelot. El gnomo lo baja y consigue tranquilizarlo parcialmente; después lo protege cuando Baps confunde la orden de aflojar la carga con arrojarla al mar. Durante el giro con el ancla el animal permanece agarrado al barco.
+
+Fuentes: [42-024 · La salva coordinada de la Marina alcanza al Zampaolas](../capitulos/42.md) · 00:47:03.319 · [42-025 · Sir Poncelot tranquiliza al tigre](../capitulos/42.md) · 00:49:23.400 · [42-027 · Ione ordena liberar la carga para aprovechar su peso](../capitulos/42.md) · 00:51:44.735 · [42-037 · El ancla permite al Zampaolas cerrar el giro](../capitulos/42.md) · 01:12:00.159.
+
+### El tigre entre los barcos
+
+Sir Poncelot monta a Merlucilla IV para saltar entre barcos y atravesar las cubiertas derribando artilleros y marines. El tigre y su jinete vuelven al Zampaolas antes del hundimiento de las naves abordadas. Poncelot apoya una mano sobre su montura cuando observa la explosión y llora por Nox.
+
+Fuentes: [42-051 · Sir Poncelot y Merlucilla IV despejan cubiertas y regresan](../capitulos/42.md) · 01:37:37.480 · [42-063 · Ione se lanza a buscar a Nox y sus compañeros la siguen](../capitulos/42.md) · 02:02:20.520.
 
 ## Registros y evidencias
 
@@ -251,4 +269,84 @@ Tipo: `hecho_confirmado`.
 Ione entrega el jade a Poncelot y pide conservar más dinero para reparar el barco. Erandy y Blink aceptan no cobrar. Blink propone un nido en el mástil, pero Ione rechaza convertir el barco en un hotel y permite visitas avisadas. Ofrece un camarote a Poncelot y al tigre; él prefiere alojarse con Liz por protección. Ione invita a todos a una fiesta con cerveza gratis. Poncelot vende dos jades por cien monedas en total; la moneda antigua sigue en su casco.
 
 
+
+## [42-013 · Los defensores embarcan y ocupan sus puestos](../capitulos/42.md) · 00:23:12.440
+
+Tipo: `hecho_confirmado`.
+
+Los piratas corren a los muelles. Ione llama a los Zampaolas a hacer rugir los mares y los cañones y procura dar seguridad a sus compañeros. Poncelot monta al tigre y embarca; Ilikar sigue a su capitana y Jack va tras él. Mugre orienta a Ojo Ausente cuando toma la dirección equivocada. En el Zampaolas están los trillizos, los cañones y la ballesta; Ojo Ausente sube a vigilar, Mugre baja a preparar comida y Baps revisa los cañones olfateándolos.
+
+La mención colectiva de los trillizos no asigna acciones separadas a Mingo, Mango o Mungo. No debe confundirse el tigre con el tiburón Merlucilla V de la extracción anterior.
+
+## [42-014 · Poncelot prepara una armadura improvisada para el tigre](../capitulos/42.md) · 00:28:52.440
+
+Tipo: `declaracion_personaje`.
+
+Sir Poncelot ajusta su armadura y armas y explica que ha preparado una protección improvisada para su montura con maderos y trozos de barril. Lleva casco y capa que describe como de sierpes. La mesa aclara entre bromas que esas piezas no prueban trofeos de auténticos dragones.
+
+Las bromas sobre un conjunto de matadragones no acreditan que Poncelot haya matado a esos dragones ni permiten identificar el origen de cada pieza.
+
+## [42-024 · La salva coordinada de la Marina alcanza al Zampaolas](../capitulos/42.md) · 00:47:03.319
+
+Tipo: `hecho_confirmado`.
+
+La Marina responde a los disparos piratas con una salva sincronizada que rompe mástiles de varias naves. Un cañonazo alcanza el Zampaolas y hace saltar parte del casco. Merlucilla se refugia en los brazos de Sir Poncelot; se ordena reparar la abertura para impedir que entre más agua y los tripulantes corren con tablones.
+
+El pasaje no identifica inequívocamente a quien da la orden inicial de reparación ni confirma que esta termine antes del siguiente ataque.
+
+## [42-025 · Sir Poncelot tranquiliza al tigre](../capitulos/42.md) · 00:49:23.400
+
+Tipo: `hecho_confirmado`.
+
+Sir Poncelot baja de sus brazos al pesado Merlucilla e intenta tranquilizarlo. Declara que no sabe de barcos y se mantiene disponible para combatir o ayudar cuando se lo pidan. La tirada permite ir calmando al tigre, que todavía conserva algo de nerviosismo.
+
+La montura de esta escena es el tigre Merlucilla IV; no se convierte por el nombre compartido en el tiburón Merlucilla V.
+
+## [42-027 · Ione ordena liberar la carga para aprovechar su peso](../capitulos/42.md) · 00:51:44.735
+
+Tipo: `hecho_confirmado`.
+
+Ione ordena a Baps y Mugroso soltar la carga salvo los barriles y las municiones, dejando que su peso se distribuya al girar el barco, y manda preparar los cañones. Baps interpreta por un momento que debe arrojar carga y se acerca al gato; la capitana aclara que quiere aflojar la carga, no tirarla por la borda. Poncelot protege a su montura.
+
+Mugroso aparece como destinatario de la orden, sin que este fragmento establezca una identidad personal adicional. No se arrojan aquí los barriles, la munición ni Merlucilla.
+
+## [42-037 · El ancla permite al Zampaolas cerrar el giro](../capitulos/42.md) · 01:12:00.159
+
+Tipo: `hecho_confirmado`.
+
+Siguiendo el plan de Ione, Ilikar lanza el ancla contra las piedras del espigón, la engancha y se afirma con los pies sobre el barco. La distribución del peso y el tirón ayudan al Zampaolas a girar de forma cerrada. Ilikar señala el hueco abierto en la formación enemiga y propone aprovecharlo; la capitana responde que la romperán por detrás.
+
+La maniobra es la resolución aceptada en mesa; no proporciona distancias o propiedades físicas verificadas fuera de la escena.
+
+## [42-038 · Ilikar bebe una poción para hablar con animales](../capitulos/42.md) · 01:13:11.639
+
+Tipo: `hecho_confirmado`.
+
+Ilikar empieza a beber una de las pociones que había preparado y se concreta que es la de hablar con animales. También recuerda un producto llamado merluza recibido de Ione, al que en mesa atribuyen una ventaja relacionada con el encanto. No se muestra todavía una conversación entre Ilikar y Merlucilla.
+
+La transcripción dice «charro» en la explicación de la merluza; se conserva la lectura mecánica como incierta y no se convierte en un objeto o efecto plenamente identificado.
+
+## [42-049 · Sir Poncelot asume las órdenes mientras Ione está indispuesta](../capitulos/42.md) · 01:33:30.400
+
+Tipo: `hecho_confirmado`.
+
+El director explica que la capitana ha bebido del barril llevado por Ilikar y está indispuesta. Sir Poncelot se sitúa en el mascarón de proa, da órdenes contra los abordajes y pide aproximarse a los barcos enemigos para saltar con Merlucilla.
+
+La indisposición es transitoria; Ione vuelve a actuar más adelante. No acredita una sustitución permanente de capitana.
+
+## [42-051 · Sir Poncelot y Merlucilla IV despejan cubiertas y regresan](../capitulos/42.md) · 01:37:37.480
+
+Tipo: `hecho_confirmado`.
+
+Sir Poncelot monta al tigre Merlucilla, salta contra un artillero y atraviesa las cubiertas embistiendo a los marines. El director admite que Ilikar y Poncelot saltan a otros barcos y los destrozan. Más adelante aclara que han vuelto al Zampaolas antes de que se hundan las naves abordadas.
+
+Las referencias musicales de los jugadores no añaden transformaciones o poderes. No se fija un número individual de muertos ni de barcos para cada personaje.
+
+## [42-063 · Ione se lanza a buscar a Nox y sus compañeros la siguen](../capitulos/42.md) · 02:02:20.520
+
+Tipo: `hecho_confirmado`.
+
+El oleaje acerca el Zampaolas a la costa sin hacerlo encallar. Ione pierde el control, raja tablas con las garras, corta la cuerda de la ballesta y se lanza con un virote hacia los restos en llamas para buscar a Nox. Sir Poncelot llora mientras trata de convencerse de que Nox tenía otro plan de huida. Ilikar ordena poner rumbo a la capitana para protegerla.
+
+La esperanza de Poncelot no acredita supervivencia. La forma lupina de Ione se confirma al explicar su búsqueda, no como efecto de la explosión.
 
