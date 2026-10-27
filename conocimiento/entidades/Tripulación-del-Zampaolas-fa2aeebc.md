@@ -12,7 +12,7 @@ Base para revisar equivalencia: [03-015](../capitulos/03.md), [06-005](../capitu
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 42.
+Relato revisado hasta el capítulo 43.
 
 ### Reunirse alrededor de un barco averiado
 
@@ -149,4 +149,12 @@ Tipo: `hecho_confirmado`.
 Sir Poncelot pide a Ilikar que ayude a la capitana y salgan de allí. Ilikar ordena desplegar velas y recuerda a Ione que debe vivir tras lo hecho por Nox. Ella gruñe, señala tierra y se niega a abandonar Shiaru, aunque acepta retirarse de la batalla para proteger a su tripulación. Toma el timón con las garras y vira el Zampaolas.
 
 La retirada no representa haber salido ya de la isla ni una búsqueda reanudada después.
+
+## [43-006 · Los habitantes se concentran en Shiaru](../capitulos/43.md) · 00:08:03.360
+
+Tipo: `hecho_confirmado`.
+
+La plaza de Shiaru reúne a los defensores. Gobs guarda una sierra y otras herramientas en su bolsa; Armin lleva dos enormes mazas. Liz y sus compañeras preparan armas de fuego, entre ellas una escopeta y un rifle largo. Ione, Ilikar y Sir Poncelot están con la tripulación del Zampaolas mientras Bonnie pronuncia su discurso.
+
+La presencia de los viajeros corresponde a la concentración anterior a la batalla naval, no confirma su supervivencia después del capítulo 42. Las comparaciones con Frankenstein describen humorísticamente a Gobs y no acreditan una operación realizada aquí.
 

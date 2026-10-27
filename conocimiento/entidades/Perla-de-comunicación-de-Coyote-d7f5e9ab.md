@@ -12,7 +12,7 @@ Base para revisar equivalencia: [24-012](../capitulos/24.md), [24-014](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 42.
+Relato revisado hasta el capítulo 43.
 
 ### Un regalo que mantiene abierto el contacto
 

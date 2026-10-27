@@ -144,6 +144,24 @@ try {
   await check('La navegación posterior resuelve la reparación del Zampaolas','document.querySelector(".question-card").dataset.status==="resuelta"&&document.getElementById("content").innerText.includes("Zampaolas")');
   await route('#entidad/Taylor');
   await check('Taylor tiene historia con evidencias del capítulo 42','document.querySelectorAll(".story-stage").length>0&&document.querySelectorAll(".story-sources a").length>0&&document.getElementById("content").innerText.includes("Bonnie")');
+  await route('#capitulo/43');
+  await check('El capítulo 43 abre once etapas del frente terrestre','document.querySelector("[data-tab=relato]").classList.contains("active")&&document.querySelectorAll(".story-stage").length===11&&document.getElementById("content").innerText.includes("Citlali")&&[...document.querySelectorAll("#content a")].some(a=>a.href.includes("tSdmoZCWEZQ"))');
+  await check('El 43 separa la emisión del 10 de julio y la publicación del 27 de octubre','document.querySelector(".chapter-dates").innerText.includes("10/07/2026")&&document.querySelector(".chapter-dates").innerText.includes("27/10/2026")');
+  await screenshot('capitulo-43-escritorio');
+  await evaluate('document.querySelector("[data-tab=hechos]").click()');
+  await check('Las 62 evidencias terrestres están incorporadas','document.querySelectorAll(".event").length===62');
+  await evaluate('document.querySelector("[data-tab=preguntas]").click()');
+  await check('Las ocho preguntas del 43 conservan su seguimiento','document.querySelectorAll(".question-card").length===8&&[...document.querySelectorAll(".question-card")].every(c=>c.dataset.status==="pendiente")');
+  await route('#registro/43-062');
+  await check('El altar final abre el vídeo y contexto del 43','document.querySelector(".quote").textContent.length>0&&document.querySelector(".evidence a").href.includes("tSdmoZCWEZQ")&&document.querySelectorAll(".context-details .transcript-row").length>0');
+  await route('#entidad/Altar de los símbolos de Citlali');
+  await check('El altar tiene ficha de vestigio y relato con fuentes','document.querySelectorAll(".story-stage").length===1&&document.querySelectorAll(".story-sources a").length>0&&(()=>{const e=JSON.parse(document.getElementById("xoltacan-data").textContent).entities.find(e=>e.name==="Altar de los símbolos de Citlali");return e.type==="objeto"&&e.history.revisado_hasta===43})()');
+  await route('#entidad/Amaru');
+  await check('Amaru conduce a Nox y conserva el reconocimiento materno','document.getElementById("page-title").textContent==="Nox"&&document.getElementById("content").innerText.includes("Citlali")');
+  await route('#pregunta/P39-002');
+  await check('La identidad materna avanza sin inventar los años del cofre','document.querySelector(".question-card").dataset.status==="parcial"&&document.getElementById("content").innerText.includes("Amaru")&&document.getElementById("content").innerText.includes("crianza")');
+  await check('La activación de Bonnie se cita una sola vez entre ambos frentes','(()=>{const d=JSON.parse(document.getElementById("xoltacan-data").textContent);const stages=d.entities.find(e=>e.name==="Bonnie").history.etapas.filter(s=>s.referencias.some(r=>r.startsWith("43-")));return stages.length===1&&stages[0].referencias.includes("42-012")})()');
+  await check('El aviso posterior no crea una escena de rol vacía','(()=>{const r=JSON.parse(document.getElementById("xoltacan-data").textContent).writtenRole;const s=r.scenes.find(s=>s.id==="x-1525042844560003125");return r.scenes.length===304&&r.stats.mensajes_en_escenas===6241&&s.mensajes===3&&s.intervalo.anterior===42&&s.intervalo.siguiente===43})()');
   await route('#registro/41-023');
   await check('La muerte de la infiltrada enlaza la nueva fuente y su contexto','document.querySelector(".quote").textContent.length>0&&document.querySelector(".evidence a").href.includes("vB6Y1LQ2IaM")&&document.querySelectorAll(".context-details .transcript-row").length>0');
   await route('#entidad/Tentacol');
@@ -227,7 +245,7 @@ try {
   await route('#capitulos');await screenshot('capitulos-escritorio');
   for(const width of [320,768]){
     await call('Emulation.setDeviceMetricsOverride',{width,height:900,deviceScaleFactor:1,mobile:width<560});
-    for(const section of ['personajes','capitulo/39','capitulo/40','capitulo/41','capitulo/42','misterios','entidad/Ione','entidad/Tortas','entidad/Tentacol','entidad/Shiaru','entidad/Marina','entidad/Zampaolas']){
+    for(const section of ['personajes','capitulo/39','capitulo/40','capitulo/41','capitulo/42','capitulo/43','misterios','entidad/Ione','entidad/Tortas','entidad/Tentacol','entidad/Shiaru','entidad/Marina','entidad/Zampaolas']){
       await route('#'+section);
       await check('Códice sin desbordamiento a '+width+' px en '+section,'document.documentElement.scrollWidth<=window.innerWidth');
     }
@@ -248,6 +266,7 @@ try {
   await route('#capitulo/40');await screenshot('capitulo-40-movil');
   await route('#capitulo/41');await screenshot('capitulo-41-movil');
   await route('#capitulo/42');await screenshot('capitulo-42-movil');
+  await route('#capitulo/43');await screenshot('capitulo-43-movil');
   await route('#personajes');await screenshot('personajes-movil');
   await route('#entidad/Ione');await screenshot('historia-personaje-movil');
   await route('#entidad/Zampaolas');await screenshot('relato-objeto-movil');

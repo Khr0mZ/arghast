@@ -8,11 +8,11 @@ Misma escudera de Eleanor por presentación y continuidad. Grafía del nombre no
 
 Etiquetas agrupadas: Erandy / Eri / Maya (escudera kender, grafía provisional); Eri / Maya (escudera kender, grafía provisional).
 
-Base para revisar equivalencia: [32-002](../capitulos/32.md), [36-001](../capitulos/36.md), [38-003](../capitulos/38.md).
+Base para revisar equivalencia: [32-002](../capitulos/32.md), [36-001](../capitulos/36.md), [38-003](../capitulos/38.md), [43-002](../capitulos/43.md), [43-009](../capitulos/43.md), [43-014](../capitulos/43.md), [43-016](../capitulos/43.md), [43-019](../capitulos/43.md), [43-020](../capitulos/43.md), [43-021](../capitulos/43.md), [43-022](../capitulos/43.md), [43-023](../capitulos/43.md), [43-026](../capitulos/43.md), [43-027](../capitulos/43.md), [43-029](../capitulos/43.md), [43-033](../capitulos/43.md), [43-035](../capitulos/43.md), [43-038](../capitulos/43.md), [43-047](../capitulos/43.md), [43-052](../capitulos/43.md), [43-060](../capitulos/43.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 42.
+Relato revisado hasta el capítulo 43.
 
 ### La escudera de Eleanor
 
@@ -25,6 +25,24 @@ Fuentes: [32-002 · Eleanor y escudera llegan](../capitulos/32.md) · 00:04:30.0
 Después del reencuentro con Eleanor, Erandy encuentra a Ilikar herido en la playa y lo cura. Participa en el esfuerzo por liberar el Zampaolas y utiliza su magia para calmar a Ione cuando, en forma de loba, ataca al tiburón de Poncelot. También aporta diez monedas para reparar el barco. El tesoro extraído durante la maniobra le proporciona un jade, mientras la tripulación recupera por fin la posibilidad de sacar su nave de la taberna.
 
 Fuentes: [38-001 · Reencuentro de la escudera y rastreo del licántropo](../capitulos/38.md) · 00:00:00.000 · [38-003 · La escudera salva a Ilikar](../capitulos/38.md) · 00:12:00.000 · [38-012 · Muere el pulpo e Ione ataca al tiburón](../capitulos/38.md) · 01:39:00.000 · [38-015 · El Zampaolas queda desencajado](../capitulos/38.md) · 01:58:00.000 · [38-016 · Aportación de oro y reparto del cofre](../capitulos/38.md) · 02:04:00.000.
+
+### Proteger a su señora y sostener la defensa
+
+Erandy acompaña a Eleanor en la preparación del frente terrestre y piensa en trampas para detener a la Marina. Antes de marchar, envuelve a su señora en una protección del Sol que puede evitar su caída. Cuando Molly advierte que quizá deban huir, Erandy no quiere dejarla a su suerte. En el embudo prepara sus espíritus guardianes, pero recibe el consejo de aprovechar la distancia e invoca al Sol para lanzar una bola de fuego. La primera descarga mata a algunos defensores cercanos y le causa pequeñas heridas; prepara su respuesta de fuego.
+
+Fuentes: [43-002 · Erandy y Eleanor se preparan para la defensa terrestre](../capitulos/43.md) · 00:00:41.280 · [43-009 · Erandy protege a Eleanor antes de marchar](../capitulos/43.md) · 00:12:06.720 · [43-014 · Molly llega al punto defensivo y permite huir si es necesario](../capitulos/43.md) · 00:23:58.679 · [43-016 · El grupo despliega una emboscada y refuerza sus defensas](../capitulos/43.md) · 00:28:25.039 · [43-019 · Erandy invoca al Sol y prepara una bola de fuego](../capitulos/43.md) · 00:34:53.599 · [43-020 · La primera descarga de la Marina mata a piratas de la defensa](../capitulos/43.md) · 00:37:58.599 · [43-021 · Eleanor levanta el escudo y Erandy recibe heridas de bala](../capitulos/43.md) · 00:40:02.440 · [43-022 · Erandy elige el lugar para lanzar su bola de fuego](../capitulos/43.md) · 00:41:04.280.
+
+### El trance del fuego solar
+
+Erandy invoca al Señor Sol y utiliza sucesivas bolas de fuego para quebrar los pelotones, dañar su artillería y dispersar a los mandos de la Marina. Aunque la metralla la hiere, sigue avanzando. Su jugadora la describe en trance, ajena al escudo protector que Eleanor deja y a lo que ocurre con la cría y el oso. No escucha la orden de permanecer en retaguardia y continúa lanzando rayos abrasadores. La descripción religiosa expresa su vivencia del poder, sin acreditar una posesión divina.
+
+Fuentes: [43-023 · Erandy invoca al Sol y prende un batallón](../capitulos/43.md) · 00:41:56.520 · [43-026 · La artillería alcanza a Erandy, Molly y Eleanor](../capitulos/43.md) · 00:49:27.520 · [43-027 · Otra bola de fuego destroza tropas, caballos y artillería](../capitulos/43.md) · 00:51:32.559 · [43-029 · Eleanor deja el escudo como cobertura para su escudera](../capitulos/43.md) · 00:54:33.400 · [43-033 · Erandy se entrega al trance solar y dispersa a más mandos](../capitulos/43.md) · 01:03:02.599 · [43-035 · Eleanor marca la retaguardia y llama a cargar](../capitulos/43.md) · 01:09:48.000 · [43-038 · Erandy ignora la orden y lanza rayos abrasadores](../capitulos/43.md) · 01:15:59.920.
+
+### El fuego del dios y el agotamiento
+
+Erandy interpreta la columna de fuego como la presencia de su dios solar y transforma esa creencia en una nueva ofensiva incendiaria. Recupera por ayuda del chat un último espacio de conjuro y vuelve a lanzar fuego contra los marines. Terminada la batalla queda temblando, agotada y apenas sostenida por su voluntad y devoción, mientras Eleanor comprueba cómo está.
+
+Fuentes: [43-047 · Erandy interpreta la explosión como presencia del dios solar y vuelve a atacar](../capitulos/43.md) · 01:30:41.679 · [43-052 · Erandy recupera magia por el chat y lanza fuego cerca de sus aliados](../capitulos/43.md) · 01:44:54.520 · [43-060 · Eleanor comprueba el agotamiento extremo de Erandy](../capitulos/43.md) · 01:58:56.480.
 
 ## Registros y evidencias
 
@@ -347,4 +365,212 @@ Tipo: `hecho_confirmado`.
 La plaza reúne a los habitantes y aliados de Shiaru. Gobs prepara agujas, una sierra y un taladro; Armin espera con dos enormes mazos. Un grupo de mujeres prepara armas de fuego. Eleanor y Erandy están presentes junto a miembros del Zampaolas. Jack aparece nervioso detrás de Ilikar; también se muestran Baps, Mugre y Ojo Ausente. Bonnie conversa con Molly.
 
 El pasaje no nombra con claridad a la mujer que encabeza al grupo armado. Su contexto no basta para atribuir a Liz cada intervención o confirmar que Gobs opere a alguien.
+
+## [43-002 · Erandy y Eleanor se preparan para la defensa terrestre](../capitulos/43.md) · 00:00:41.280
+
+Tipo: `declaracion_personaje`.
+
+Erandy relata que ella y Eleanor, tras conocer la amenaza de los chaquetas azules, hablaron en la taberna con Bonnie y Molly y pensaron en colocar trampas. Entiende que Molly encabeza el frente terrestre. Eleanor recuerda sus entrenamientos y que un enano azul anunciando el fin le hizo conocer el peligro, tras lo cual fue con su escudera a hablar con Bonnie e inspeccionar el punto que debían proteger.
+
+El enano del repaso no queda nombrado; la apariencia y el cartel no bastan para crear o asignar una identidad. Los preparativos se cuentan como contexto de lo sucedido entre sesiones.
+
+## [43-005 · Las defensas de la jungla ya han sido inspeccionadas](../capitulos/43.md) · 00:06:34.120
+
+Tipo: `explicacion_director`.
+
+El director recuerda que Molly y Bonnie colaboraban para proteger Shiaru y que la exmarina advirtió del ataque tras su destitución. Molly ha llevado a Erandy y Eleanor al punto defensivo: hay cuerdas, trampas y combatientes escondidos para disparar desde la jungla. Después de revisar el despliegue vuelven al poblado para recibir las últimas órdenes.
+
+La colaboración y la destitución se recuerdan como antecedentes. El pasaje no nombra las ruinas del capítulo 36 y no basta para identificar ese punto con su ocupación definitiva.
+
+## [43-009 · Erandy protege a Eleanor antes de marchar](../capitulos/43.md) · 00:12:06.720
+
+Tipo: `hecho_confirmado`.
+
+Molly llama a Eleanor para partir. Erandy pide un momento y posa la mano sobre el hombro de su señora, invocando la virtud y la calidez del Sol. En la mesa se establece una protección de ocho horas que, al caer a cero puntos de vida, permite quedar con uno.
+
+El nombre inglés del hechizo se oye de forma incompleta. Se conserva el efecto explicado en la mesa, sin presentarlo como inmortalidad ni como una activación ya consumida al recibir daño.
+
+## [43-010 · Molly conduce a unos veinte piratas hacia el embudo](../capitulos/43.md) · 00:14:50.120
+
+Tipo: `hecho_confirmado`.
+
+Molly muestra a Eleanor un grupo de aproximadamente veinte piratas y reconoce la diferencia con los soldados de la Marina en la que sirvió. Aunque están decididos, su preparación es deficiente. Ordena marchar por la jungla para defender un embudo e impedir que el enemigo llegue a Shiaru.
+
+La cifra se plantea como aproximación narrativa. No indica el número de supervivientes al terminar el combate ni vuelve a otorgar a Molly un cargo vigente en la Marina.
+
+## [43-014 · Molly llega al punto defensivo y permite huir si es necesario](../capitulos/43.md) · 00:23:58.679
+
+Tipo: `hecho_confirmado`.
+
+Erandy, Eleanor y Molly avanzan entre trampas, tiradores ocultos y vallas bajas hasta el punto acordado. Molly reconoce que no cree que puedan ganar y asegura que comprenderá que huyan si corren peligro. Erandy no quiere dejarla a su suerte. Molly aclara que ya no es capitana y dirige a Eleanor una mirada para que proteja a la escudera si la situación se vuelve insostenible.
+
+La derrota es la valoración previa de Molly, no el resultado confirmado de la sesión. No se representa todavía una huida ni el sacrificio de nadie.
+
+## [43-015 · Eleanor entrega a Molly el broche de su tierra](../capitulos/43.md) · 00:27:15.159
+
+Tipo: `hecho_confirmado`.
+
+Eleanor explica que ayuda a los defensores por el buen trato que han dado a Erandy, que no habría recibido lo mismo en el reino de la caballera. Se quita el broche de su tierra y se lo entrega a Molly. Alude a una leyenda y dice que, si recuperase su cuerpo, quizá podría intentar hacer algo; espera no necesitar comprobarlo. Molly agradece el gesto.
+
+La alusión a recuperar el cuerpo es hipotética. No demuestra que Eleanor pueda resucitar a Molly, que la leyenda sea cierta o que Molly haya muerto. No se ve ni se describe el emblema del broche.
+
+## [43-016 · El grupo despliega una emboscada y refuerza sus defensas](../capitulos/43.md) · 00:28:25.039
+
+Tipo: `hecho_confirmado`.
+
+Además del grupo de piratas, dos miembros más seguros de la tripulación de Bonnie ayudan a ordenar las posiciones. Molly espera pelotones con caballos, cañones y rifles por un solo camino y quiere canalizarlos para evitar un ataque simultáneo. Eleanor aplica una protección de cinco puntos de vida temporales a Molly, Erandy y ella misma. Erandy prepara sus espíritus guardianes para cuando el enemigo se acerque. Molly distribuye a sus hombres entre el bosque y la retaguardia y queda en medio del terreno.
+
+Se conserva la explicación de puntos temporales usada en la partida, sin corregirla mediante reglas externas. Los espíritus se dejan preparados; este intervalo no muestra su daño ni su duración efectiva.
+
+## [43-019 · Erandy invoca al Sol y prepara una bola de fuego](../capitulos/43.md) · 00:34:53.599
+
+Tipo: `hecho_confirmado`.
+
+Ante el avance enemigo, Erandy propone usar los espíritus guardianes como barrera. El director le advierte que esperar a ese alcance pondría al ejército encima del grupo y le anima a aprovechar la distancia. Eleanor declara favor divino y empieza a leer las escrituras de su espada. Erandy junta las manos, pide al Sol ayuda para defender a los débiles y prepara una bola de fuego para cuando los marines estén a distancia.
+
+La plegaria prepara el lanzamiento; el impacto de la bola de fuego se narra en 43-023. No se reconstruye un discurso completo de las escrituras de Eleanor.
+
+## [43-020 · La primera descarga de la Marina mata a piratas de la defensa](../capitulos/43.md) · 00:37:58.599
+
+Tipo: `hecho_confirmado`.
+
+Los marines ven a Molly y a los piratas. Un oficial ordena a los fusileros acabar con ellos y las líneas disparan por turnos. Las ráfagas alcanzan los pequeños grupos de defensores; algunos piratas próximos a Erandy mueren mientras continúa el fuego intenso.
+
+Las bajas son piratas sin nombre y no se da un total. No se atribuyen a esos muertos identidades catalogadas ni se presenta la descarga como la caída definitiva de la defensa.
+
+## [43-021 · Eleanor levanta el escudo y Erandy recibe heridas de bala](../capitulos/43.md) · 00:40:02.440
+
+Tipo: `hecho_confirmado`.
+
+El director pide a Eleanor y Erandy que se defiendan de la descarga. Eleanor levanta el escudo y siente impactos que parecen empujarla hacia atrás. Erandy recibe roces y pequeñas heridas de algunos proyectiles. La Marina permanece parada disparando contra sus posiciones.
+
+No se comunica aquí una muerte, caída a cero o activación de la protección de ocho horas. El relato no fija una cantidad de daño numérica para cada una.
+
+## [43-022 · Erandy elige el lugar para lanzar su bola de fuego](../capitulos/43.md) · 00:41:04.280
+
+Tipo: `hecho_confirmado`.
+
+Tras la descarga, Erandy recuerda que tenía preparada una bola de fuego y confirma con el director que llega a la posición enemiga. Señala dónde lanzarla y ajustan el punto para abarcar a varios grupos. El director le pide representar el lanzamiento.
+
+El impacto de esa bola de fuego se documenta en 43-023. No se calcula un censo de bajas a partir de los tokens.
+
+## [43-023 · Erandy invoca al Sol y prende un batallón](../capitulos/43.md) · 00:41:56.520
+
+Tipo: `hecho_confirmado`.
+
+Erandy canaliza fuego por manos y brazos, con los ojos dorados, mientras invoca al Señor Sol y reclama castigo para quienes subyugan a los débiles. Su bola de fuego explota entre los marines: algunos salen despedidos y otros corren ardiendo. Los piratas, antes desmotivados, se animan y cargan; sus gritos a favor del saqueo y la esclavitud no reproducen la justificación de la escudera. Molly comenta a Eleanor que la pequeña esconde muchas cosas, carga su pistola y avanza.
+
+La invocación y el aspecto solar forman parte de la interpretación de Erandy; no demuestran por sí solos posesión divina. La reacción pirata no implica que compartan su defensa de los inocentes.
+
+## [43-026 · La artillería alcanza a Erandy, Molly y Eleanor](../capitulos/43.md) · 00:49:27.520
+
+Tipo: `hecho_confirmado`.
+
+Los cañones disparan sobre los piratas. Erandy recibe metralla, resuelta con quince puntos de daño; Molly también resulta alcanzada. Eleanor se protege detrás del escudo cuando una bala cae frente a ella, pero la fuerza la empuja hacia atrás y recibe treinta y tres puntos de daño.
+
+El escudo reduce o contiene parte del impacto descrito, pero no evita el daño. No se especifica aquí la gravedad total de las heridas de Molly.
+
+## [43-027 · Otra bola de fuego destroza tropas, caballos y artillería](../capitulos/43.md) · 00:51:32.559
+
+Tipo: `hecho_confirmado`.
+
+Erandy apunta una nueva bola de fuego hacia los batallones y sus cañones. La explosión lanza marines y rifles por los aires, arroja piezas de cañón a la jungla y quema caballos de los mandos, haciendo caer al menos a un general. El director aclara que las fichas de la escena representan pelotones y que las tropas siguen llegando.
+
+Los puntos de vida restaurados en las fichas representan el desarrollo de los pelotones y no resurrecciones literales. No se confirma la muerte de todos los generales o la destrucción de toda la artillería.
+
+## [43-029 · Eleanor deja el escudo como cobertura para su escudera](../capitulos/43.md) · 00:54:33.400
+
+Tipo: `hecho_confirmado`.
+
+Eleanor clava su escudo delante de Erandy para proporcionarle cobertura y corre al frente sin él. Aclara que no se lleva a la escudera: deja el escudo vertical, como una torre. Molly la ve sin escudo, sonríe y continúa cargando a su lado.
+
+Dejar el escudo en retaguardia es una decisión de combate; no se muestra aquí que Eleanor lo pierda definitivamente.
+
+## [43-031 · Los golpes masivos hacen flaquear la formación](../capitulos/43.md) · 00:59:01.520
+
+Tipo: `hecho_confirmado`.
+
+Tras las bolas de fuego y la caída de la cría, varios fusileros abandonan su posición y retroceden. El director describe que la formación empieza a flaquear por la devastación de los ataques masivos, un cambio especialmente perceptible para Eleanor por su experiencia con ejércitos.
+
+La formación debilitada no equivale todavía a la rendición o derrota definitiva de toda la Marina.
+
+## [43-033 · Erandy se entrega al trance solar y dispersa a más mandos](../capitulos/43.md) · 01:03:02.599
+
+Tipo: `hecho_confirmado`.
+
+La jugadora explica que Erandy, normalmente consciente y controlada, está ahora en un trance abrazado por el Sol: no ha advertido el escudo, el lanzamiento de la cría ni el resto de la escena. Con voz profunda reclama que ardan quienes quieren purgar la tierra y lanza otra bola de fuego. El director acepta la descripción: una pequeña esfera se forma junto a los generales y explota, los lanza heridos a la jungla y espanta los caballos. Los marines empiezan a separarse por los caminos mientras Citlali irrumpe entre ellos.
+
+El trance es interpretación aceptada en mesa, sin identidad divina separada ni diagnóstico. Los generales descritos como medio muertos no se registran todos como fallecidos.
+
+## [43-035 · Eleanor marca la retaguardia y llama a cargar](../capitulos/43.md) · 01:09:48.000
+
+Tipo: `hecho_confirmado`.
+
+Molly y otros piratas alcanzan a Citlali y al oso. Al ver que Erandy se ha acercado, Eleanor clava el estandarte y le ordena no avanzar más: su lugar es la retaguardia. Reconoce a Lunaria cuando el oso cae ante ella y, viendo rota la formación enemiga, llama a los demás a cargar. Sin el escudo, combate con su espada entre los marines y ataca a un perro.
+
+La orden del estandarte no demuestra que Erandy la obedezca. La caída del oso en esta escena no acredita que se trate de otro animal.
+
+## [43-038 · Erandy ignora la orden y lanza rayos abrasadores](../capitulos/43.md) · 01:15:59.920
+
+Tipo: `hecho_confirmado`.
+
+Erandy no escucha la orden de Eleanor y se desplaza hacia otro general, invocando la defensa de la Madre Tierra y del Señor Sol. Lanza los tres rayos de un conjuro reconocido en mesa como scorching ray: algunos fallan y otros chamuscan y abaten marines. Sigue descrita fuera de sí. Etley permanece en medio de la batalla, entre el fuego, pese a la intención previa de Citlali de esconderlo.
+
+No se confirma que todos los rayos acierten al general escogido. Las bromas sobre pollo asado no son una muerte documentada de Etley.
+
+## [43-046 · Citlali cambia la curación por la absorción violenta de vida](../capitulos/43.md) · 01:28:17.920
+
+Tipo: `hecho_confirmado`.
+
+Citlali se levanta con los tatuajes brillando entre carmesí y verde, extendidos por casi todo su cuerpo. La voz le ordena matar y arrebatar juventud. Agarra a los marines por el cuello y absorbe su energía vital; sus manos y tatuajes brillan con mayor intensidad. El director muestra a Erandy que la anciana avanza ahora más deprisa y arroja a sus víctimas como despojos.
+
+La palabra curar al comienzo de la descripción no significa una curación beneficiosa para los marines: se narra explícitamente su drenaje. La voz es una incitación, no una regla universal del poder.
+
+## [43-047 · Erandy interpreta la explosión como presencia del dios solar y vuelve a atacar](../capitulos/43.md) · 01:30:41.679
+
+Tipo: `declaracion_personaje`.
+
+Erandy interpreta la explosión como si el propio dios del sol se presentara ante ella y la invitara a quemarlo todo. Con una sonrisa exaltada solicita gastar sus usos para lanzar otra bola de fuego contra un pelotón. El director admite la acción y describe a los marines saliendo por los aires; Erandy comienza a acusar el agotamiento de tanta magia.
+
+La divinidad solar pertenece a la interpretación de Erandy. París y las comparaciones de los jugadores no añaden un destino o una aparición divina objetiva.
+
+## [43-050 · Los compañeros ven rejuvenecer a Citlali y envejecer a sus víctimas](../capitulos/43.md) · 01:39:22.000
+
+Tipo: `hecho_confirmado`.
+
+Los marines están aterrados por la caballera, las bolas de fuego y la violencia de Citlali. Mientras ella oye los siseos como algo cada vez más agradable, pasa delante de Lunaria, Eleanor y Erandy. Los demás ven que ya no parece una anciana: está más joven, mientras los restos que deja en el suelo se ven arrugados y envejecidos.
+
+En una frase el reconocimiento escribe piratas para los restos, pero la secuencia continua describe el ataque a los marines. No se inventa una edad exacta ni duración permanente del rejuvenecimiento.
+
+## [43-052 · Erandy recupera magia por el chat y lanza fuego cerca de sus aliados](../capitulos/43.md) · 01:44:54.520
+
+Tipo: `hecho_confirmado`.
+
+Aunque está cansada, Erandy siente una última chispa y recupera por intervención del chat un espacio de conjuro de tercer nivel para lanzar una bola de fuego. Sigue invitando a los enemigos a recibir el abrazo del dios del sol y hace estallar el conjuro. La discusión de alcance incluye a aliados y a Citlali, y el director exige las salvaciones correspondientes.
+
+La chispa se concede explícitamente por el chat. No se presenta como restauración ilimitada ni como prueba objetiva de favor divino; no se infiere daño individual de quienes no muestran su tirada.
+
+## [43-053 · Eleanor se cura al atravesar el fuego](../capitulos/43.md) · 01:47:54.800
+
+Tipo: `hecho_confirmado`.
+
+Eleanor levanta la mano hacia la bola de fuego que cae, representa tomar una parte de la llama y llevarla al pecho, y se dirige sonriendo al enemigo que queda vivo. El director resuelve una recuperación de treinta y cinco puntos de vida y confirma que vuelve a estar completamente curada.
+
+La curación se resuelve en su turno; la representación de coger fuego no demuestra una capacidad universal de absorber cualquier conjuro ni inmunidad general al fuego.
+
+## [43-055 · La caída de los generales rompe la resistencia terrestre](../capitulos/43.md) · 01:51:11.920
+
+Tipo: `hecho_confirmado`.
+
+Molly y los piratas combaten por los laterales, junto a la jungla, contra los marines que intentan huir. Eleanor imbuye su espada con la energía usada en el oso y parte a un general por la mitad. El director confirma que Citlali ha matado a otro mando y que las bolas de fuego han deshecho la formación. Los supervivientes sueltan las armas y corren; los piratas persiguen a quienes huyen hacia la jungla.
+
+Bonnie aparece como vocativo aislado del director en la escena terrestre; se mantiene la continuidad de Molly, sin transportar a Bonnie desde el combate naval. No se establece la muerte de todos los miembros de la Marina de la isla.
+
+## [43-060 · Eleanor comprueba el agotamiento extremo de Erandy](../capitulos/43.md) · 01:58:56.480
+
+Tipo: `hecho_confirmado`.
+
+Eleanor se gira para comprobar cómo está Erandy. La escudera permanece con la cabeza baja, temblando y con la mirada fija en el suelo. Su jugadora describe que el cuerpo está agotado y en shock, sostenido apenas por su voluntad y su entrega al dios; si la movieran, se desplomaría. Lunaria y Etley no comprenden bien el duelo de Citlali, aunque perciben que algo grave ocurre.
+
+No se declara la muerte de Erandy ni se describe que ya la hayan movido o trasladado. Las comparaciones con otras obras son referencias de la jugadora, no identidades de campaña.
 

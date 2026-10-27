@@ -12,7 +12,7 @@ Base para revisar equivalencia: [14-015](../capitulos/14.md), [14-016](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 42.
+Relato revisado hasta el capítulo 43.
 
 ### La pieza guardada por la hija del capitán
 

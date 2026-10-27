@@ -8,11 +8,11 @@ Happy Bonnie/Bonny designan a la misma dirigente pirata.
 
 Etiquetas agrupadas: Happy Bonnie / Bonny (grafía provisional).
 
-Base para revisar equivalencia: [01-011](../capitulos/01.md), [11-029](../capitulos/11.md), [32-020](../capitulos/32.md), [42-011](../capitulos/42.md), [42-012](../capitulos/42.md), [42-015](../capitulos/42.md), [42-018](../capitulos/42.md), [42-030](../capitulos/42.md), [42-039](../capitulos/42.md), [42-046](../capitulos/42.md), [42-048](../capitulos/42.md), [42-052](../capitulos/42.md), [42-059](../capitulos/42.md), [42-066](../capitulos/42.md), [42-068](../capitulos/42.md), [42-071](../capitulos/42.md), [42-072](../capitulos/42.md).
+Base para revisar equivalencia: [01-011](../capitulos/01.md), [11-029](../capitulos/11.md), [32-020](../capitulos/32.md), [42-011](../capitulos/42.md), [42-012](../capitulos/42.md), [42-015](../capitulos/42.md), [42-018](../capitulos/42.md), [42-030](../capitulos/42.md), [42-039](../capitulos/42.md), [42-046](../capitulos/42.md), [42-048](../capitulos/42.md), [42-052](../capitulos/42.md), [42-059](../capitulos/42.md), [42-066](../capitulos/42.md), [42-068](../capitulos/42.md), [42-071](../capitulos/42.md), [42-072](../capitulos/42.md), [43-001](../capitulos/43.md), [43-005](../capitulos/43.md), [43-006](../capitulos/43.md), [43-007](../capitulos/43.md), [43-010](../capitulos/43.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 42.
+Relato revisado hasta el capítulo 43.
 
 ### Happy Bonnie y el precio de Shiaru
 
@@ -36,7 +36,7 @@ Fuentes: [28-019 · Orbe entregado y visiones enviadas a Bonnie](../capitulos/28
 
 Bonnie reúne a los defensores de Shiaru y los exhorta a combatir a la Marina. Al apretar su moneda pirata cambia de aspecto entre rayos y el cielo se oscurece. Embarca, avanza en el Relámpago del Mar y prepara una nueva descarga mientras exige a sus aliados que dejen de malgastar munición. El discurso y la transformación no resuelven todavía el resultado de la batalla ni el origen de su poder.
 
-Fuentes: [42-011 · Bonnie reclama la defensa de la libertad de Shiaru](../capitulos/42.md) · 00:20:27.440 · [42-012 · La moneda de Bonnie acompaña su transformación eléctrica](../capitulos/42.md) · 00:22:00.919 · [42-015 · Siete barcos piratas salen bajo la tormenta](../capitulos/42.md) · 00:30:07.559 · [42-018 · El Relámpago del Mar avanza con Bonnie preparando rayos](../capitulos/42.md) · 00:37:59.520.
+Fuentes: [42-011 · Bonnie reclama la defensa de la libertad de Shiaru](../capitulos/42.md) · 00:20:27.440 · [42-012 · La moneda de Bonnie acompaña su transformación eléctrica](../capitulos/42.md) · 00:22:00.919 · [42-015 · Siete barcos piratas salen bajo la tormenta](../capitulos/42.md) · 00:30:07.559 · [42-018 · El Relámpago del Mar avanza con Bonnie preparando rayos](../capitulos/42.md) · 00:37:59.520 · [43-001 · La sesión comienza al mismo tiempo que el capítulo naval](../capitulos/43.md) · 00:00:01.280 · [43-005 · Las defensas de la jungla ya han sido inspeccionadas](../capitulos/43.md) · 00:06:34.120 · [43-006 · Los habitantes se concentran en Shiaru](../capitulos/43.md) · 00:08:03.360 · [43-007 · La moneda de Bonnie convoca la tormenta de la partida](../capitulos/43.md) · 00:10:14.800 · [43-010 · Molly conduce a unos veinte piratas hacia el embudo](../capitulos/43.md) · 00:14:50.120.
 
 ### La tormenta del Relámpago del Mar
 
@@ -44,7 +44,7 @@ Bonnie combina las baterías de su barco con rayos que incendian los buques enem
 
 Fuentes: [42-030 · Bonnie descarga rayos sobre la flota](../capitulos/42.md) · 00:56:31.240 · [42-039 · Los rayos alimentan el barco de Bonnie](../capitulos/42.md) · 01:13:56.560 · [42-046 · El Relámpago del Mar atraviesa y parte barcos de la Marina](../capitulos/42.md) · 01:27:39.000 · [42-048 · El ataque de Bonnie anima a unos piratas mientras otros se marchan](../capitulos/42.md) · 01:32:27.000.
 
-### La moneda devuelta y el disparo de Taylor
+### La entrega de la moneda y el disparo de Taylor
 
 Bonnie embiste a la Marina con su nave envuelta en rayos y presencia el ataque de Nox. Cuando llegan los otros reyes, entrega la moneda a Ione y exige que salgan del combate. Su barco pierde el poder eléctrico y queda rodeado. Taylor sostiene que ocultó Xoltacan y rompió su pacto. Bonnie le responde con desprecio; él le dispara a la frente y la sesión termina.
 
@@ -971,4 +971,44 @@ Tipo: `hecho_confirmado`.
 Ante la mirada de los otros tres reyes, Taylor desenfunda una pistola, la coloca en la frente de Bonnie y dispara. La sesión termina en ese momento. En la despedida, el director pide decir adiós a Bonnie, Nox y Pinky y avisa de que la siguiente partida sucederá antes de estos hechos.
 
 La despedida enmarca estas pérdidas, pero el disparo no va seguido de una comprobación médica o escena del cuerpo y Nox no fue encontrado. El aviso temporal no autoriza incorporar conocimientos posteriores a capítulos anteriores.
+
+## [43-002 · Erandy y Eleanor se preparan para la defensa terrestre](../capitulos/43.md) · 00:00:41.280
+
+Tipo: `declaracion_personaje`.
+
+Erandy relata que ella y Eleanor, tras conocer la amenaza de los chaquetas azules, hablaron en la taberna con Bonnie y Molly y pensaron en colocar trampas. Entiende que Molly encabeza el frente terrestre. Eleanor recuerda sus entrenamientos y que un enano azul anunciando el fin le hizo conocer el peligro, tras lo cual fue con su escudera a hablar con Bonnie e inspeccionar el punto que debían proteger.
+
+El enano del repaso no queda nombrado; la apariencia y el cartel no bastan para crear o asignar una identidad. Los preparativos se cuentan como contexto de lo sucedido entre sesiones.
+
+## [43-005 · Las defensas de la jungla ya han sido inspeccionadas](../capitulos/43.md) · 00:06:34.120
+
+Tipo: `explicacion_director`.
+
+El director recuerda que Molly y Bonnie colaboraban para proteger Shiaru y que la exmarina advirtió del ataque tras su destitución. Molly ha llevado a Erandy y Eleanor al punto defensivo: hay cuerdas, trampas y combatientes escondidos para disparar desde la jungla. Después de revisar el despliegue vuelven al poblado para recibir las últimas órdenes.
+
+La colaboración y la destitución se recuerdan como antecedentes. El pasaje no nombra las ruinas del capítulo 36 y no basta para identificar ese punto con su ocupación definitiva.
+
+## [43-006 · Los habitantes se concentran en Shiaru](../capitulos/43.md) · 00:08:03.360
+
+Tipo: `hecho_confirmado`.
+
+La plaza de Shiaru reúne a los defensores. Gobs guarda una sierra y otras herramientas en su bolsa; Armin lleva dos enormes mazas. Liz y sus compañeras preparan armas de fuego, entre ellas una escopeta y un rifle largo. Ione, Ilikar y Sir Poncelot están con la tripulación del Zampaolas mientras Bonnie pronuncia su discurso.
+
+La presencia de los viajeros corresponde a la concentración anterior a la batalla naval, no confirma su supervivencia después del capítulo 42. Las comparaciones con Frankenstein describen humorísticamente a Gobs y no acreditan una operación realizada aquí.
+
+## [43-007 · La moneda de Bonnie convoca la tormenta de la partida](../capitulos/43.md) · 00:10:14.800
+
+Tipo: `hecho_confirmado`.
+
+Bonnie sostiene la moneda de los reyes piratas. Empieza a brillar y de ella salen rayos que la envuelven; el director la presenta como una de las cinco reinas piratas. Tras su grito, los piratas corren a los muelles y unas nubes negras levantan una tormenta atribuida a su poder.
+
+Es la preparación compartida con el comienzo del capítulo 42, vista desde el otro grupo. No se cuentan dos activaciones distintas ni se describe un nuevo origen de la moneda.
+
+## [43-016 · El grupo despliega una emboscada y refuerza sus defensas](../capitulos/43.md) · 00:28:25.039
+
+Tipo: `hecho_confirmado`.
+
+Además del grupo de piratas, dos miembros más seguros de la tripulación de Bonnie ayudan a ordenar las posiciones. Molly espera pelotones con caballos, cañones y rifles por un solo camino y quiere canalizarlos para evitar un ataque simultáneo. Eleanor aplica una protección de cinco puntos de vida temporales a Molly, Erandy y ella misma. Erandy prepara sus espíritus guardianes para cuando el enemigo se acerque. Molly distribuye a sus hombres entre el bosque y la retaguardia y queda en medio del terreno.
+
+Se conserva la explicación de puntos temporales usada en la partida, sin corregirla mediante reglas externas. Los espíritus se dejan preparados; este intervalo no muestra su daño ni su duración efectiva.
 

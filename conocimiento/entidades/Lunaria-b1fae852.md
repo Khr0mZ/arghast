@@ -8,11 +8,11 @@ Luna es la abreviatura de Lunaria, no la diosa lunar ni Blink.
 
 Etiquetas agrupadas: Lunaria / Luna.
 
-Base para revisar equivalencia: [05-015](../capitulos/05.md), [05-016](../capitulos/05.md).
+Base para revisar equivalencia: [05-015](../capitulos/05.md), [05-016](../capitulos/05.md), [43-004](../capitulos/43.md), [43-011](../capitulos/43.md), [43-012](../capitulos/43.md), [43-013](../capitulos/43.md), [43-024](../capitulos/43.md), [43-030](../capitulos/43.md), [43-034](../capitulos/43.md), [43-036](../capitulos/43.md), [43-039](../capitulos/43.md), [43-042](../capitulos/43.md), [43-048](../capitulos/43.md), [43-054](../capitulos/43.md), [43-060](../capitulos/43.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 42.
+Relato revisado hasta el capítulo 43.
 
 ### De prisionera de la Marina a exploradora
 
@@ -31,6 +31,24 @@ Fuentes: [16-006 · Luna y Triel encuentran a una leonina que muerde el mapa](..
 Luna ayuda a defender Shiaru durante el asalto de la Marina, aunque una bola de fuego también hiere a Patata. En Aurora provoca una explosión como parte de la distracción del grupo. Más tarde practica transformaciones y, durante la emboscada al convoy, se vuelve dinosaurio e incendia una carreta de pólvora. Su magia vuelve a cambiar el terreno cuando ayuda a defender a Citlali y Etley: dos explosiones derrumban la cueva, dejando a ambos atrapados. Luna adopta forma de oso y excava con Ayoto para rescatarlos. Viaja después a Iktan, donde Walulu cura discretamente a la cría mientras ella imita un ritual.
 
 Fuentes: [32-010 · Fuego amigo y nuevos refuerzos](../capitulos/32.md) · 00:48:00.000 · [35-010 · Tórtola rechaza alojamiento y tortillas vendidas](../capitulos/35.md) · 01:24:00.000 · [37-012 · Luna incendia una carreta de suministros](../capitulos/37.md) · 01:40:00.000 · [39-006 · Ayoto libera a Citlali y Luna se revela](../capitulos/39.md) · 00:34:00.000 · [39-011 · La segunda bola de fuego derrumba la cueva](../capitulos/39.md) · 01:13:00.000 · [39-012 · Citlali y Etley siguen vivos mientras comienza la excavación](../capitulos/39.md) · 01:20:00.000 · [39-017 · Iktan admite y cura a los viajeros](../capitulos/39.md) · 01:55:00.000.
+
+### Un oso para ayudar a Mamá
+
+Tras recorrer Iktan y preguntar por sus misterios, Lunaria aparece en la jungla recogiendo hierbas que no conoce con precisión. Al encontrar a Citlali angustiada, primero le ofrece un té. Cuando la anciana insiste en llegar cuanto antes a Shiaru, se transforma en oso, la transporta y sujeta con los dientes una cuerda atada a la cría, que sigue detrás con dificultad. No presencia como propia la visión de Citlali.
+
+Fuentes: [43-004 · Lunaria explora el poblado y busca respuestas](../capitulos/43.md) · 00:05:36.400 · [43-011 · El malestar de Citlali la lleva a pedir ayuda a Luna](../capitulos/43.md) · 00:17:31.240 · [43-012 · Luna se transforma en oso para transportar a Citlali](../capitulos/43.md) · 00:20:23.720 · [43-013 · Citlali tiene una visión de un pirata y de la batalla bajo el agua](../capitulos/43.md) · 00:21:34.240.
+
+### Artillería en forma de oso
+
+Lunaria atraviesa la jungla en forma de oso llevando a Citlali y arrastrando a Etley. Al llegar al frente arroja la cría contra los pelotones y después toma un cañón para golpear a los marines. La detonación del arma hacia el suelo la hiere y la impulsa antes de caer sobre los soldados. Acepta que Eleanor la monte y repite la maniobra del cañón, saliendo ambas despedidas. El espectáculo depende del disparo, sin convertir su forma animal en una criatura capaz de volar.
+
+Fuentes: [43-024 · Citlali y Lunaria ven formarse una tormenta sobre el mar](../capitulos/43.md) · 00:45:41.480 · [43-030 · Lunaria arroja a Etley contra los marines](../capitulos/43.md) · 00:55:42.480 · [43-034 · Lunaria utiliza un cañón como garrote y sale impulsada](../capitulos/43.md) · 01:07:07.760 · [43-036 · Eleanor utiliza el perro caído para montar sobre Lunaria](../capitulos/43.md) · 01:12:11.000 · [43-039 · Un segundo disparo lanza a Lunaria y Eleanor](../capitulos/43.md) · 01:18:25.199 · [43-042 · Eleanor propone imbuir al oso con la energía de smite](../capitulos/43.md) · 01:21:50.120.
+
+### Del oso luminoso a las alas protectoras
+
+Lunaria cae como un gran oso bajo la energía divina de Eleanor, impacta en la formación y recupera después su forma habitual. Combina sus recursos de hechicería y una dote cromática para que unas alas espectrales protejan a Citlali y Etley mientras lanza otra bola de fuego. Al acabar la batalla no comprende del todo lo ocurrido a Nox, pero ve el llanto de Citlali.
+
+Fuentes: [43-048 · El oso de Lunaria impacta con la energía de Eleanor](../capitulos/43.md) · 01:33:33.920 · [43-054 · Lunaria protege a Citlali y Etley antes de lanzar otra bola de fuego](../capitulos/43.md) · 01:48:39.760 · [43-060 · Eleanor comprueba el agotamiento extremo de Erandy](../capitulos/43.md) · 01:58:56.480.
 
 ## Registros y evidencias
 
@@ -1209,4 +1227,196 @@ Tipo: `hecho_confirmado`.
 Ayoto busca dormir fuera de la taberna, junto al local cerrado del alquimista. Luna prueba sus ganzúas para demostrar que la cerradura es insegura. Un guardia se acerca, exige a Coyote que se lleve a su amiga y anuncia que informará a Walulu. Luna guarda las herramientas y ofrece mostrar otras cerraduras a cambio de botellas en la taberna. No roba en el local.
 
 
+
+## [43-004 · Lunaria explora el poblado y busca respuestas](../capitulos/43.md) · 00:05:36.400
+
+Tipo: `declaracion_personaje`.
+
+Lunaria, llamada Luna, cuenta que ha recorrido el poblado que desconocía y preguntado a sus habitantes y a la chamana. Se sitúa ahora en la jungla después de sus insistentes preguntas.
+
+El lugar se identifica contextualmente con Iktan por la continuidad del capítulo anterior de su grupo. No se expone una respuesta concreta de la chamana ni se atribuye un conocimiento nuevo a Luna.
+
+## [43-011 · El malestar de Citlali la lleva a pedir ayuda a Luna](../capitulos/43.md) · 00:17:31.240
+
+Tipo: `hecho_confirmado`.
+
+Mientras corre, Citlali vuelve a sentir que algo va mal y un pinchazo en la cabeza. Encuentra a Lunaria recogiendo hierbas que no identifica bien y llega con la cría medio dormida, arrastrada del ala. Luna le ofrece un té, pero Citlali insiste en que necesitan llegar a Shiaru cuanto antes y le pide ayuda.
+
+La intuición no identifica el peligro o el estado de Nox. Recoger hierbas y proponer un té no demuestra un conocimiento botánico seguro ni que llegue a administrar una infusión.
+
+## [43-012 · Luna se transforma en oso para transportar a Citlali](../capitulos/43.md) · 00:20:23.720
+
+Tipo: `hecho_confirmado`.
+
+Para acelerar el viaje, Luna se transforma en oso. Antes ata una cuerda a la cría, después la sujeta con los dientes y lleva a Citlali encima mientras el pequeño sigue arrastrado y corre como puede detrás.
+
+La transformación corresponde a Lunaria, no a Erandy. La narración describe un transporte incómodo; no comunica en este intervalo heridas, muerte o abandono de la cría.
+
+## [43-013 · Citlali tiene una visión de un pirata y de la batalla bajo el agua](../capitulos/43.md) · 00:21:34.240
+
+Tipo: `hecho_confirmado`.
+
+Mientras monta al oso, Citlali tiene otra visión. Ve de espaldas a un pirata con adornos en el pelo y aspecto desaliñado que empieza a girarse. Unas burbujas la envuelven y siente que está bajo el agua, aunque puede respirar. Desde abajo contempla una batalla de barcos, fuego y restos que caen al mar junto con piratas y marines. Al abrir los ojos sigue viajando sobre Luna hacia Shiaru; el director aclara que la visión no le causa daño.
+
+El pirata no recibe nombre en esta visión. El punto de vista submarino no prueba un ahogamiento real de Citlali o Nox, una muerte individual ni la posición exacta de la visión dentro de la batalla naval.
+
+## [43-024 · Citlali y Lunaria ven formarse una tormenta sobre el mar](../capitulos/43.md) · 00:45:41.480
+
+Tipo: `hecho_confirmado`.
+
+Citlali y Lunaria avanzan hacia Shiaru por la jungla, tan deprisa como permite la forma de oso de Lunaria. Llevan a la cría atada y arrastrada detrás. Oyen ruidos atronadores y Citlali, situada más alta, distingue al este grandes nubes negras sobre el mar que empiezan a formar una tormenta. Anima a Lunaria a acelerar mientras esta da tirones a la cuerda de la cría.
+
+Los comentarios sobre enseñar a volar a la cría son bromas; no acreditan que vuele. La observación de Citlali no identifica por sí sola a quien provoca la tormenta.
+
+## [43-030 · Lunaria arroja a Etley contra los marines](../capitulos/43.md) · 00:55:42.480
+
+Tipo: `hecho_confirmado`.
+
+Las trampas de la jungla saltan al paso de quienes llegan: se disparan dardos y se activan mecanismos con ganchos. Lunaria, en forma de oso, lanza al grupo enemigo la cría que lleva atada. Citlali acompaña el lanzamiento con un silbido de ataque. Etley agita las alas, pero no consigue volar: cae sobre los marines y abre un hueco entre varios pelotones.
+
+La cría se identifica por el cuidado de Citlali y el nombre oído como Echil/Etil; una mención aislada parecida a Erandy al caer no cambia su identidad. No se demuestra vuelo autónomo ni se toma el pentakill como recuento exacto.
+
+## [43-032 · Citlali entra con el arco y después con sus chanclas](../capitulos/43.md) · 01:00:00.480
+
+Tipo: `hecho_confirmado`.
+
+Citlali aparece sobre el oso con el arco preparado y dispara una flecha que se clava en un marine y casi lo derriba. Harta y deseosa de ver a Nox, se dispone a bajar y lanzarse al cuerpo a cuerpo. Se describe más joven y rápida que al comienzo de sus aventuras y corre hacia la Marina para repartir golpes con sus chanclas.
+
+El deseo de ver a Nox no implica que conozca su situación durante la batalla naval. El rejuvenecimiento comparado no fija edad, duración o causa de ese estado.
+
+## [43-034 · Lunaria utiliza un cañón como garrote y sale impulsada](../capitulos/43.md) · 01:07:07.760
+
+Tipo: `hecho_confirmado`.
+
+Lunaria ruge y arremete en forma de oso hacia un cañón. Lo toma para barrer a los marines a golpes. En uno de los movimientos el arma queda dirigida hacia abajo y dispara o estalla: le causa nueve puntos de daño y la impulsa al aire. El director describe después que cae sobre un montón de marines. Lunaria ruge hacia Etley como si mostrase cómo volar, sin convertir ese impulso en vuelo propio.
+
+La propulsión depende del cañón. La escena usa explota y disparar sin establecer que el arma quede destruida; vuelve a utilizarla después.
+
+## [43-035 · Eleanor marca la retaguardia y llama a cargar](../capitulos/43.md) · 01:09:48.000
+
+Tipo: `hecho_confirmado`.
+
+Molly y otros piratas alcanzan a Citlali y al oso. Al ver que Erandy se ha acercado, Eleanor clava el estandarte y le ordena no avanzar más: su lugar es la retaguardia. Reconoce a Lunaria cuando el oso cae ante ella y, viendo rota la formación enemiga, llama a los demás a cargar. Sin el escudo, combate con su espada entre los marines y ataca a un perro.
+
+La orden del estandarte no demuestra que Erandy la obedezca. La caída del oso en esta escena no acredita que se trate de otro animal.
+
+## [43-036 · Eleanor utiliza el perro caído para montar sobre Lunaria](../capitulos/43.md) · 01:12:11.000
+
+Tipo: `hecho_confirmado`.
+
+Eleanor aprovecha el cuerpo del perro cuando cae para saltar y subirse sobre Lunaria. La jugadora de Lunaria acepta llevarla. Eleanor anuncia que se transformará sobre el oso para infundir más miedo. Los generales de la Marina intentan recuperar la formación y ordenan acabar con el oso y con la señora que avanza golpeando con chanclas.
+
+Este intervalo anuncia la transformación; su apariencia concreta se describe después. Los gritos de los generales no confirman que recuperen el control.
+
+## [43-037 · El toque de Citlali cierra sus heridas y rejuvenece su piel](../capitulos/43.md) · 01:13:34.760
+
+Tipo: `hecho_confirmado`.
+
+Citlali sigue golpeando con las chanclas como si fueran dagas hasta llegar ante un hombre y tocarle el cuello con un toque frío, descrito como de muerte. Los personajes cercanos ven que su piel arrugada se tensa y parece rejuvenecer durante unos segundos. La sangre de las heridas que había recibido deja de brotar y el director la describe totalmente curada. Continúa avanzando y abatiendo miembros de los pelotones.
+
+El pasaje relaciona el toque con el cambio visible y la curación; no identifica por nombre el conjuro, demuestra una juventud permanente ni explica toda su longevidad.
+
+## [43-039 · Un segundo disparo lanza a Lunaria y Eleanor](../capitulos/43.md) · 01:18:25.199
+
+Tipo: `hecho_confirmado`.
+
+Lunaria golpea el cañón contra el suelo buscando hacerlo disparar otra vez. Tras un primer golpe que lo mueve, repite y consigue una nueva detonación que la lanza al aire con Eleanor montada encima. El director deja a ambas suspendidas para resolver la caída en su turno posterior.
+
+No es una capacidad de vuelo autónoma. La descripción posterior dice los tres al contar la escena, sin identificar aquí a un tercer jinete o pasajero.
+
+## [43-040 · Eleanor adopta la forma de ángel caído](../capitulos/43.md) · 01:19:43.800
+
+Tipo: `hecho_confirmado`.
+
+Eleanor concreta la transformación anunciada: la llama forma de ángel caído. Su piel se vuelve grisácea y muy pálida, aparecen alas rotas a su espalda, todo el ojo queda negro y la espada pasa de tener letras brillantes a resplandecer entera de color morado. Permanece sobre Lunaria en el aire, a la espera de la caída.
+
+La forma se nombra en mesa; no fija por sí sola especie, ascendencia o afiliación a un ser celestial concreto. Las alas rotas no acreditan que sostenga el vuelo.
+
+## [43-041 · La combatiente que acompaña al grupo protege a Citlali](../capitulos/43.md) · 01:20:48.239
+
+Tipo: `hecho_confirmado`.
+
+La combatiente que venía avanzando con los piratas observa a Eleanor sobre el oso y sigue luchando. Al pasar junto a Citlali intercepta un golpe de un marine y le advierte que debería estar en otro lugar porque corre peligro. Citlali responde «Yo soy el peligro» y continúa combatiendo. Por continuidad se conserva la escena junto a Molly.
+
+El director dice Bonnie al inicio y después una variante oída como Morí; la escena venía siguiendo a Molly en el mismo frente. La atribución se conserva como contextual y no se afirma una llegada inequívoca de Bonnie a tierra.
+
+## [43-042 · Eleanor propone imbuir al oso con la energía de smite](../capitulos/43.md) · 01:21:50.120
+
+Tipo: `explicacion_director`.
+
+Todavía en el aire sobre Lunaria y en su forma de ángel caído, Eleanor propone imbuir al oso con la energía de smite durante la caída, aunque tenga que gastar sus espacios de conjuro. El director acepta resolverlo como un smite del nivel máximo disponible y empieza a concretar los dados correspondientes al segundo nivel.
+
+La propuesta se resuelve durante el descenso y el impacto de 43-043 y 43-048. Es una resolución particular de la mesa, sin establecer reglas generales.
+
+## [43-043 · Eleanor prepara el descenso de Lunaria con un golpe divino](../capitulos/43.md) · 01:22:34.560
+
+Tipo: `hecho_confirmado`.
+
+Mientras descienden, Eleanor guarda la espada y pone su símbolo en la frente de Lunaria, transformada en oso. Invoca la corona de Castilla y le ordena acabar con los enemigos. Busca entre los generales a la amenaza mayor. El director sitúa al grupo por delante de una formación de la Marina que está cediendo.
+
+La invocación de Castilla no corrige retroactivamente las declaraciones anteriores de Aragón ni fija una nueva nacionalidad. La caída se resuelve después.
+
+## [43-044 · La explosión en el mar interrumpe el combate y hace arder los tatuajes de Citlali](../capitulos/43.md) · 01:23:57.280
+
+Tipo: `hecho_confirmado`.
+
+Una explosión tremenda silencia momentáneamente el campo terrestre. Todos miran hacia el mar; Eleanor y Lunaria, aún en altura, ven una columna de fuego entre los barcos de guerra de la costa del Garfio. Al mismo tiempo, Citlali siente un dolor devastador en sus tatuajes, suelta las alpargatas y cae de rodillas gritando y arañándose.
+
+La escena terrestre registra la explosión y la reacción de Citlali; no convierte a quienes miran desde la jungla en testigos de cada acción de Nox en el Invictus.
+
+## [43-048 · El oso de Lunaria impacta con la energía de Eleanor](../capitulos/43.md) · 01:33:33.920
+
+Tipo: `hecho_confirmado`.
+
+Lunaria y Eleanor descienden desde cien pies y resuelven la caída del oso con un golpe divino. El resultado anunciado es de setenta y siete puntos de daño. El oso se ilumina, golpea el suelo y lanza por los aires a quienes lo rodean, desplazando también a Citlali. Lunaria abandona la forma de oso después del impacto; Molly permanece luchando en el terreno.
+
+La narración confunde un vocativo al situar al jinete, pero las tiradas y turnos mantienen la combinación de Lunaria y Eleanor. No se presenta la cifra como daño sufrido por Lunaria ni como una muerte suya.
+
+## [43-050 · Los compañeros ven rejuvenecer a Citlali y envejecer a sus víctimas](../capitulos/43.md) · 01:39:22.000
+
+Tipo: `hecho_confirmado`.
+
+Los marines están aterrados por la caballera, las bolas de fuego y la violencia de Citlali. Mientras ella oye los siseos como algo cada vez más agradable, pasa delante de Lunaria, Eleanor y Erandy. Los demás ven que ya no parece una anciana: está más joven, mientras los restos que deja en el suelo se ven arrugados y envejecidos.
+
+En una frase el reconocimiento escribe piratas para los restos, pero la secuencia continua describe el ataque a los marines. No se inventa una edad exacta ni duración permanente del rejuvenecimiento.
+
+## [43-054 · Lunaria protege a Citlali y Etley antes de lanzar otra bola de fuego](../capitulos/43.md) · 01:48:39.760
+
+Tipo: `hecho_confirmado`.
+
+Ya fuera de la forma de oso, Lunaria propone combinar sus puntos de hechicería con los usos de una dote del dragón cromático para excluir del daño a Citlali y a la cría llamada pollo. El director acepta la propuesta. Unas alas espectrales de dragón rodean a ambos y los protegen durante la explosión.
+
+La combinación se admite para esta representación concreta, sin convertirla en una regla general. La protección no prueba que Citlali no hubiera recibido quemaduras del fuego anterior.
+
+## [43-055 · La caída de los generales rompe la resistencia terrestre](../capitulos/43.md) · 01:51:11.920
+
+Tipo: `hecho_confirmado`.
+
+Molly y los piratas combaten por los laterales, junto a la jungla, contra los marines que intentan huir. Eleanor imbuye su espada con la energía usada en el oso y parte a un general por la mitad. El director confirma que Citlali ha matado a otro mando y que las bolas de fuego han deshecho la formación. Los supervivientes sueltan las armas y corren; los piratas persiguen a quienes huyen hacia la jungla.
+
+Bonnie aparece como vocativo aislado del director en la escena terrestre; se mantiene la continuidad de Molly, sin transportar a Bonnie desde el combate naval. No se establece la muerte de todos los miembros de la Marina de la isla.
+
+## [43-057 · Citlali consume la vida del marine retenido](../capitulos/43.md) · 01:54:11.440
+
+Tipo: `hecho_confirmado`.
+
+Citlali aparta las alas que la protegían; su ropa aún tiene fuego y algunas partes de su piel están quemadas, aunque no manifiesta dolor. Coloca una mano en el pecho del marine que retiene Eleanor y sigue absorbiéndolo hasta dejarlo envejecido, consumido y reducido a huesos y piel. Lo suelta como un despojo.
+
+La ausencia de una queja no significa invulnerabilidad al fuego ni curación automática de las quemaduras. No se asignan una edad ni una cantidad numérica de energía robada.
+
+## [43-058 · Los piratas celebran la victoria y Molly llega herida](../capitulos/43.md) · 01:55:31.560
+
+Tipo: `hecho_confirmado`.
+
+El director da por terminado el combate: la mayoría de los marines han caído y los pocos que quedan huyen. Los piratas celebran mientras los combatientes recuperan el aliento. Molly se acerca cansada, respira con dificultad y tiene heridas, disparos y manchas de sangre. Expresa su sorpresa por el oso gigante y la cría arrojada, y se detiene al mirar a Citlali.
+
+La victoria se limita al frente terrestre mostrado. Los gritos de haber acabado con todos se matizan con los supervivientes que el propio director describe huyendo.
+
+## [43-060 · Eleanor comprueba el agotamiento extremo de Erandy](../capitulos/43.md) · 01:58:56.480
+
+Tipo: `hecho_confirmado`.
+
+Eleanor se gira para comprobar cómo está Erandy. La escudera permanece con la cabeza baja, temblando y con la mirada fija en el suelo. Su jugadora describe que el cuerpo está agotado y en shock, sostenido apenas por su voluntad y su entrega al dios; si la movieran, se desplomaría. Lunaria y Etley no comprenden bien el duelo de Citlali, aunque perciben que algo grave ocurre.
+
+No se declara la muerte de Erandy ni se describe que ya la hayan movido o trasladado. Las comparaciones con otras obras son referencias de la jugadora, no identidades de campaña.
 

@@ -24,14 +24,21 @@
         "42-061",
         "42-062",
         "42-064",
-        "42-072"
+        "42-072",
+        "43-044",
+        "43-045",
+        "43-051",
+        "43-059",
+        "43-061"
       ],
-      "nota": "Jim Hawkins es el nombre declarado del capitán Nox; Naór es otra persona.",
+      "nota": "Jim Hawkins es el nombre declarado del capitán Nox; Naór es otra persona. En el capítulo 43, Citlali reconoce en Nox al hijo que llama Amaru; la escena no reconstruye el rescate del cofre ni su crianza.",
       "descripcion": "Pirata relacionado con Ione y Bonnie, vinculado al Zampaolas.",
       "etiquetas": [
         "Jim Hawkins (identidad declarada de Nox)",
         "Nox",
-        "Nox / Jim Hawkins"
+        "Nox / Jim Hawkins",
+        "Amaru",
+        "Amaru (reconocido por Citlali)"
       ],
       "tipo": "personaje"
     },
@@ -80,7 +87,25 @@
       "referencias": [
         "03-013",
         "34-004",
-        "39-017"
+        "39-017",
+        "43-003",
+        "43-011",
+        "43-012",
+        "43-013",
+        "43-024",
+        "43-030",
+        "43-032",
+        "43-037",
+        "43-041",
+        "43-044",
+        "43-045",
+        "43-046",
+        "43-050",
+        "43-051",
+        "43-057",
+        "43-059",
+        "43-061",
+        "43-062"
       ],
       "nota": "El grupo llama Mamá a Citlali. Coyote aparece como un personaje distinto junto a ella en 39-017.",
       "descripcion": "Anciana nativa conocida como Mamá, portadora de tatuajes y cuidadora de un huevo de dinosaurio.",
@@ -199,7 +224,20 @@
       "nombre": "Lunaria",
       "referencias": [
         "05-015",
-        "05-016"
+        "05-016",
+        "43-004",
+        "43-011",
+        "43-012",
+        "43-013",
+        "43-024",
+        "43-030",
+        "43-034",
+        "43-036",
+        "43-039",
+        "43-042",
+        "43-048",
+        "43-054",
+        "43-060"
       ],
       "nota": "Luna es la abreviatura de Lunaria, no la diosa lunar ni Blink.",
       "descripcion": "Kender que participa en expediciones, manipula objetos y utiliza magia.",
@@ -282,7 +320,12 @@
         "42-066",
         "42-068",
         "42-071",
-        "42-072"
+        "42-072",
+        "43-001",
+        "43-005",
+        "43-006",
+        "43-007",
+        "43-010"
       ],
       "nota": "Happy Bonnie/Bonny designan a la misma dirigente pirata.",
       "descripcion": "Dirigente pirata de Shiaru, acreedora de Nox e Ione y dueña de Pix.",
@@ -312,7 +355,23 @@
         "05-009",
         "23-001",
         "42-006",
-        "42-011"
+        "42-011",
+        "43-005",
+        "43-010",
+        "43-014",
+        "43-015",
+        "43-016",
+        "43-020",
+        "43-023",
+        "43-026",
+        "43-028",
+        "43-029",
+        "43-035",
+        "43-041",
+        "43-048",
+        "43-055",
+        "43-058",
+        "43-059"
       ],
       "nota": "Molly/Moli es la capitana de Marina. Distinta de la sirena Marina.",
       "descripcion": "Capitana de la Marina vinculada a las deudas de los piratas y al Fuerte Aurora.",
@@ -341,7 +400,9 @@
       "referencias": [
         "01-025",
         "04-030",
-        "06-004"
+        "06-004",
+        "43-006",
+        "43-008"
       ],
       "nota": "Encargada de la Sirena Borracha; Liz/Lizy son variantes de la misma interlocutora comercial.",
       "descripcion": "Encargada de la Sirena Borracha que negocia alojamiento, servicios y compras.",
@@ -631,7 +692,9 @@
         "10-002",
         "24-021",
         "26-001",
-        "42-006"
+        "42-006",
+        "43-001",
+        "43-006"
       ],
       "nota": "Médico y matasanos de Shiaru se agrupan por función y establecimiento; no todo alquimista es Gobs.",
       "descripcion": "Médico de Shiaru conocido por propuestas de intervenciones y tratamientos arriesgados.",
@@ -648,7 +711,9 @@
         "16-004",
         "23-003",
         "35-004",
-        "42-006"
+        "42-006",
+        "43-001",
+        "43-006"
       ],
       "nota": "El director corrige a Armin el nombre utilizado por los jugadores en 35-004. El herrero de Shiaru es distinto del herrero tabaxi de Cuicapalli.",
       "descripcion": "Herrero de Shiaru que vende armas, armaduras y herramientas.",
@@ -735,7 +800,29 @@
       "referencias": [
         "32-002",
         "33-003",
-        "36-003"
+        "36-003",
+        "43-002",
+        "43-009",
+        "43-014",
+        "43-015",
+        "43-016",
+        "43-017",
+        "43-019",
+        "43-021",
+        "43-026",
+        "43-029",
+        "43-035",
+        "43-036",
+        "43-039",
+        "43-040",
+        "43-042",
+        "43-043",
+        "43-048",
+        "43-049",
+        "43-053",
+        "43-055",
+        "43-056",
+        "43-060"
       ],
       "nota": "Casa Roosevelt y reino Aragón describen procedencia y filiación, no dos personas.",
       "descripcion": "Guerrera de la casa Roosevelt que afirma servir a una corona de Aragón, acompañada por una escudera kender.",
@@ -749,7 +836,25 @@
       "referencias": [
         "32-002",
         "36-001",
-        "38-003"
+        "38-003",
+        "43-002",
+        "43-009",
+        "43-014",
+        "43-016",
+        "43-019",
+        "43-020",
+        "43-021",
+        "43-022",
+        "43-023",
+        "43-026",
+        "43-027",
+        "43-029",
+        "43-033",
+        "43-035",
+        "43-038",
+        "43-047",
+        "43-052",
+        "43-060"
       ],
       "nota": "Misma escudera de Eleanor por presentación y continuidad. Grafía del nombre no verificada con audio.",
       "descripcion": "Escudera kender de Eleanor que utiliza magia y cura a Ilikar.",
@@ -913,7 +1018,18 @@
       "referencias": [
         "34-018",
         "34-020",
-        "39-001"
+        "39-001",
+        "43-003",
+        "43-011",
+        "43-012",
+        "43-024",
+        "43-030",
+        "43-031",
+        "43-034",
+        "43-038",
+        "43-054",
+        "43-058",
+        "43-060"
       ],
       "nota": "Cría que nació del huevo de Mamá y posteriormente recibe un nombre en el capítulo 39. Se agrupa por la continuidad del nacimiento y de sus cuidados.",
       "descripcion": "Cría de dinosaurio nacida del huevo criado por Citlali.",
@@ -1340,7 +1456,9 @@
       ],
       "referencias": [
         "01-007",
-        "31-023"
+        "31-023",
+        "43-003",
+        "43-004"
       ],
       "nota": "Ictan e Iktan corresponden al topónimo normalizado en las fichas.",
       "tipo": "lugar",
@@ -1396,7 +1514,25 @@
         "42-033",
         "42-034",
         "42-037",
-        "42-047"
+        "42-047",
+        "43-005",
+        "43-010",
+        "43-014",
+        "43-016",
+        "43-018",
+        "43-020",
+        "43-022",
+        "43-024",
+        "43-025",
+        "43-027",
+        "43-030",
+        "43-033",
+        "43-035",
+        "43-044",
+        "43-051",
+        "43-055",
+        "43-058",
+        "43-061"
       ],
       "nota": "Topónimo costero recurrente. Sus campamentos, excavaciones y fuerte se mantienen como lugares subordinados distintos.",
       "tipo": "lugar",
@@ -1489,7 +1625,8 @@
         "42-062",
         "42-063",
         "42-064",
-        "42-067"
+        "42-067",
+        "43-061"
       ],
       "nota": "Mismo barco a través de capítulos. La tripulación Zampaolas se mantiene como organización separada del casco.",
       "tipo": "objeto",
@@ -1548,7 +1685,28 @@
         "42-056",
         "42-059",
         "42-062",
-        "42-065"
+        "42-065",
+        "43-001",
+        "43-018",
+        "43-019",
+        "43-020",
+        "43-021",
+        "43-022",
+        "43-025",
+        "43-026",
+        "43-027",
+        "43-030",
+        "43-031",
+        "43-033",
+        "43-035",
+        "43-036",
+        "43-038",
+        "43-048",
+        "43-051",
+        "43-052",
+        "43-055",
+        "43-057",
+        "43-058"
       ],
       "nota": "Organización militar. Marina, la sirena liberada del capítulo 6, sigue como personaje separado.",
       "tipo": "faccion",
@@ -1789,7 +1947,16 @@
         "42-016",
         "42-063",
         "42-066",
-        "42-067"
+        "42-067",
+        "43-001",
+        "43-005",
+        "43-006",
+        "43-007",
+        "43-008",
+        "43-010",
+        "43-011",
+        "43-012",
+        "43-013"
       ],
       "descripcion": "Poblado costero bajo la autoridad de Bonnie.",
       "nota": "Entrada documentada en los registros citados."
@@ -2073,7 +2240,9 @@
         "42-012",
         "42-018",
         "42-066",
-        "42-068"
+        "42-068",
+        "43-001",
+        "43-007"
       ],
       "descripcion": "Moneda que Bonnie utiliza durante la defensa de Shiaru.",
       "nota": "Entrada documentada en los registros citados."
@@ -2540,6 +2709,86 @@
       "nota": "Se mantiene separado de Jack, exmarine del Zampaolas, mientras no se contraste la correspondencia; no se demuestra su destino posterior.",
       "referencias": [
         "42-070"
+      ]
+    },
+    {
+      "nombre": "Broche de Eleanor",
+      "tipo": "objeto",
+      "etiquetas": [
+        "Broche de Eleanor"
+      ],
+      "descripcion": "Broche de la tierra de Eleanor que la caballera entrega a Molly antes del combate terrestre del Garfio.",
+      "nota": "No se describe el símbolo ni se demuestra un poder propio del objeto. La leyenda evocada permanece hipotética.",
+      "referencias": [
+        "43-015"
+      ]
+    },
+    {
+      "nombre": "Caja de música de Citlali",
+      "tipo": "objeto",
+      "etiquetas": [
+        "Caja de música de Citlali",
+        "Caja musical de Citlali"
+      ],
+      "descripcion": "Caja de música hallada por Citlali en Iktan cuya melodía evoca a sus hijos y a Nox antes de su carrera hacia Shiaru.",
+      "nota": "Vincular con las escenas escritas revisadas de Citlali, sin convertir la proximidad temporal de la música y el dolor en causa probada.",
+      "referencias": [
+        "43-003",
+        "43-059"
+      ]
+    },
+    {
+      "nombre": "Estandarte de Eleanor",
+      "tipo": "objeto",
+      "etiquetas": [
+        "Estandarte de Eleanor"
+      ],
+      "descripcion": "Estandarte que Eleanor utiliza para marcar dónde debe permanecer su escudera.",
+      "nota": "No se infiere un escudo heráldico, reino representado o relación de identidad con otras banderas.",
+      "referencias": [
+        "43-035",
+        "43-038"
+      ]
+    },
+    {
+      "nombre": "Cañón tomado por Lunaria",
+      "tipo": "objeto",
+      "etiquetas": [
+        "Cañón tomado por Lunaria"
+      ],
+      "descripcion": "Pieza de artillería del frente que Lunaria usa para golpear y salir impulsada con sus disparos.",
+      "nota": "La designación describe un uso temporal; no afirma propiedad permanente, encantamiento o vuelo autónomo.",
+      "referencias": [
+        "43-034",
+        "43-039",
+        "43-042"
+      ]
+    },
+    {
+      "nombre": "Entidad serpentina vinculada a Citlali",
+      "tipo": "personaje",
+      "etiquetas": [
+        "Entidad serpentina vinculada a Citlali"
+      ],
+      "descripcion": "Ser serpentino que habla con Citlali, la incita a drenar vida y activa un altar vinculado a sus tatuajes.",
+      "nota": "Identidad descriptiva sin nombre propio ni naturaleza divina confirmada. La continuidad del interlocutor y el epílogo no identifica automáticamente a todas las serpientes de visiones previas con él.",
+      "referencias": [
+        "43-045",
+        "43-046",
+        "43-050",
+        "43-062"
+      ]
+    },
+    {
+      "nombre": "Altar de los símbolos de Citlali",
+      "tipo": "objeto",
+      "etiquetas": [
+        "Altar de los símbolos de Citlali"
+      ],
+      "descripcion": "Altar de localización no revelada cuyos símbolos coinciden con los tatuajes de Citlali.",
+      "nota": "Altar material de localización y función desconocidas. Sus símbolos se identifican con los tatuajes de Citlali; la escena no acredita que los personajes conozcan su ubicación.",
+      "referencias": [
+        "43-062"
       ]
     }
   ],

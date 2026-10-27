@@ -49,3 +49,11 @@ Tentacol declara proceder de aguas profundas y bosques de algas próximos a **Pe
 La defensa de Shiaru se desplaza a los arrecifes del Garfio. El menor calado permite al Zampaolas maniobrar con el ancla de Ilikar; Nox altera la apariencia de las aguas para encallar a dos escoltas y conduce después el Invictus a la batalla. La explosión acerca al Zampaolas a la costa sin encallarlo. Su retirada no establece un nuevo asentamiento ni el abandono definitivo de Shiaru ([42-017, 42-033–42-037, 42-047 y 42-062–42-067](capitulos/42.md)).
 
 Taylor refiere una captura de un barco rumbo a Puerto de Espadas. Es un destino del viaje relatado, sin ubicación exacta de la captura ni llegada mostrada ([42-070](capitulos/42.md)).
+
+## La jungla del Garfio en el capítulo 43
+
+El frente terrestre forma parte de la misma defensa que el arrecife del capítulo 42. Molly conduce a los piratas hasta un embudo con trampas y tiradores ocultos para impedir el avance sobre Shiaru. Liz permanece en el poblado tras barricadas. El punto no se identifica con las ruinas del lago del capítulo 36 ([43-001, 43-005, 43-008, 43-010 y 43-014–43-018](capitulos/43.md)).
+
+Citlali y Lunaria llegan desde la jungla; los personajes ven la explosión naval desde tierra y al final distinguen el Zampaolas detenido o varado en la costa oriental. No se representa aún el encuentro con sus tripulantes ([43-011–43-013, 43-024, 43-044 y 43-061](capitulos/43.md)).
+
+El altar del epílogo carece de localización. La imagen no da coordenadas ni prueba que esté en el campo de batalla o en un templo ya explorado ([43-062](capitulos/43.md)).

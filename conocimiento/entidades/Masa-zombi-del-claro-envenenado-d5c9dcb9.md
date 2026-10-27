@@ -12,7 +12,7 @@ Base para revisar equivalencia: [40-016](../capitulos/40.md), [40-017](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 42.
+Relato revisado hasta el capítulo 43.
 
 ### Los restos se levantan
 

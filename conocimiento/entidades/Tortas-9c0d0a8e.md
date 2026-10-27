@@ -12,7 +12,7 @@ Base para revisar equivalencia: [40-007](../capitulos/40.md), [40-011](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 42.
+Relato revisado hasta el capítulo 43.
 
 ### El protector abandona la piedra
 

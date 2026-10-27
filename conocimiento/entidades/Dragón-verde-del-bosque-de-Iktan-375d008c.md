@@ -12,7 +12,7 @@ Base para revisar equivalencia: [31-015](../capitulos/31.md), [40-002](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 42.
+Relato revisado hasta el capítulo 43.
 
 ### El enemigo que permanece en el bosque
 

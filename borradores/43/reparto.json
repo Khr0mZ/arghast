@@ -1,0 +1,35 @@
+{
+  "capitulo": 43,
+  "fuente": "xoltacan_subtitulos/subtitulos/43 - tSdmoZCWEZQ.es-orig.vtt",
+  "sha256": "b7fafe645f959a5286ef69aed75a8e318a9165a42b277c9b63e8fc0879c8ae92",
+  "total_segmentos": 2763,
+  "bloques": [
+    {
+      "bloque": 1,
+      "inicio": "00:00:01.280",
+      "fin": "00:41:56.510",
+      "segmentos": 921,
+      "palabras": 5139,
+      "primer_segmento": "c000001",
+      "ultimo_segmento": "c001841"
+    },
+    {
+      "bloque": 2,
+      "inicio": "00:41:56.520",
+      "fin": "01:22:34.550",
+      "segmentos": 921,
+      "palabras": 5308,
+      "primer_segmento": "c001843",
+      "ultimo_segmento": "c003683"
+    },
+    {
+      "bloque": 3,
+      "inicio": "01:22:34.560",
+      "fin": "02:06:16.559",
+      "segmentos": 921,
+      "palabras": 5178,
+      "primer_segmento": "c003685",
+      "ultimo_segmento": "c005525"
+    }
+  ]
+}

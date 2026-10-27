@@ -1,0 +1,5529 @@
+# Capítulo 43: Batalla en la Jungla del Garfio
+
+Transcripción derivada, no resumen. Voz y hablante sin identificar automáticamente.
+
+[00:00:01.280] Bienvenidos al capítulo número 43
+
+[00:00:05.040] de las aventuras de Xoltacan. Y lo
+
+[00:00:09.160] primero que vamos a hacer antes de que
+
+[00:00:11.440] me expliquéis cómo os habéis estado
+
+[00:00:14.440] preparando estos días de la última vez
+
+[00:00:16.000] que os vi,
+
+[00:00:18.439] estaríais en contexto, empezaremos justo
+
+[00:00:21.680] en el mismo momento que empezaron los
+
+[00:00:24.279] los de ayer su partida, ¿vale? para que
+
+[00:00:26.920] tengáis conecto. Así que nada, vamos a
+
+[00:00:30.039] empezar como siempre y empezamos por
+
+[00:00:32.239] orden. A ver qué tenemos aquí. Eh, Andy,
+
+[00:00:35.000] ¿qué ha hecho nuestra pequeña Kender
+
+[00:00:37.960] durante est este tiempo?
+
+[00:00:40.360] Es la última vez que la vi.
+
+[00:00:41.280] Eh, Erandy junto con Eleanor, su
+
+[00:00:47.760] caballera,
+
+[00:00:49.559] al que le rinde pleitecía, eh, se había
+
+[00:00:53.079] hecho eco de el ataque de los chaquetas
+
+[00:00:56.879] azules que se iba a avecinar dentro de
+
+[00:01:00.680] unos días. Eh, para no quedarse sin
+
+[00:01:04.600] hacer nada. Eh, había se estaban
+
+[00:01:08.040] planteando si no podrían al menos ayudar
+
+[00:01:10.880] colocando trampas o algo del estilo para
+
+[00:01:14.360] no hacerle fácil las cosas a los que
+
+[00:01:17.000] estén en tierra.
+
+[00:01:18.720] Eh,
+
+[00:01:20.560] estamos en la taberna discutiendo eso
+
+[00:01:23.200] junto con eh Happy Bonnie y Molly
+
+[00:01:27.040] también, que es la que está, hasta donde
+
+[00:01:30.240] tengo entendido, liderando el ataque en
+
+[00:01:32.520] tierra. Y pues
+
+[00:01:35.799] eh debo decir que la pobre Randy muy
+
+[00:01:39.200] adentro estaba como, ¿por qué ten que
+
+[00:01:41.479] estar hablando tanto cuando hay no hay
+
+[00:01:43.399] que estar perdiendo el tiempo de tanta
+
+[00:01:44.840] habladería? Pero bueno, ella es muy
+
+[00:01:47.119] buena para hacer es muy buena, tiene
+
+[00:01:49.880] demasiado corazón para el cuerpo que
+
+[00:01:51.360] tiene. Así que eh de momento estaríamos
+
+[00:01:55.159] en esa charla junto con ella para
+
+[00:01:58.320] aproximarnos a el punto en tierra donde
+
+[00:02:02.840] eh tienen la estrategia montada.
+
+[00:02:06.560] Vale, pues
+
+[00:02:10.039] no va a haber tiradas de de Sharu,
+
+[00:02:13.680] porque ya que os vais a preparar para un
+
+[00:02:15.040] combate, no quiero que os pase algo
+
+[00:02:17.040] difícil. Así que vamos a seguir con
+
+[00:02:20.120] Elianor, que ¿qué ha estado haciendo
+
+[00:02:22.280] nuestra señora?
+
+[00:02:25.400] Pues la última conversación que tuvimos,
+
+[00:02:29.040] yo le mencioné que iba a ir para el
+
+[00:02:30.959] punto.
+
+[00:02:32.959] Sí, bueno, desde en verdad es desde
+
+[00:02:34.800] desde la última vez que te vimos en en
+
+[00:02:36.440] partida,
+
+[00:02:38.000] o sea, es un resumen de lo que habéis
+
+[00:02:39.560] estado haciendo y contexto, el rol
+
+[00:02:41.680] escrito, ¿sabes? Más que nada para que
+
+[00:02:43.080] así queda en el vídeo y quien ve los
+
+[00:02:44.440] vídeos queda guay. Claro. Eh, pues desde
+
+[00:02:48.280] la última vez eh lo mismo de siempre,
+
+[00:02:51.680] entrenar, hablar con la gente y de
+
+[00:02:54.120] repente vio a un enano azul, calvo como
+
+[00:02:58.200] siempre, que te puedes ver en su calva,
+
+[00:03:00.760] eh, con un cartel diciendo que el fin se
+
+[00:03:02.920] acerca. Escuchando lo que decía, me
+
+[00:03:04.640] entré del problema y fui a hablar con
+
+[00:03:08.599] Pigoni junto a mi escuadera y
+
+[00:03:13.040] y llegando a a tierra, por decirlo de
+
+[00:03:16.120] alguna forma, pues no nos dirigimos a
+
+[00:03:18.680] punto que teníamos que ir a proteger,
+
+[00:03:21.000] sobre todo para ir a ver qué lo que
+
+[00:03:22.920] había.
+
+[00:03:24.000] Vale, pues me encanta lo del [risas]
+
+[00:03:27.840] Pues seguimos con con mamá que que ha
+
+[00:03:31.760] estado haciendo
+
+[00:03:33.680] la señora desde la última vez. Bueno,
+
+[00:03:35.920] llora,
+
+[00:03:36.599] ya empezamos, [risas]
+
+[00:03:38.772] [resoplido]
+
+[00:03:40.159] ya empezamos.
+
+[00:03:41.319] Estoy viendo. No puede ser. Este,
+
+[00:03:45.400] bueno, pues desde la última este partida
+
+[00:03:48.879] eh se quedó en Nickan y estuvo cuidando
+
+[00:03:52.480] de del pequeño bebé a que se recuperara
+
+[00:03:55.319] por completo y demás y empezó a tener
+
+[00:03:59.599] otra vez esos recuerdos que no la
+
+[00:04:01.599] dejaban dormir, que constantemente la
+
+[00:04:04.280] están torturando
+
+[00:04:06.000] y entre sus cosas encontró una un
+
+[00:04:09.120] objeto, una cajita musical. Hijo de tu
+
+[00:04:13.040] [ __ ] madre, te odio, Caruluya. [risas]
+
+[00:04:17.417] [resoplido]
+
+[00:04:20.000] Y este, ah,
+
+[00:04:22.680] en el momento que empezó a escuchar la
+
+[00:04:24.720] melodía, empezó a recordar a todos sus
+
+[00:04:27.360] hijos y de repente le llegó el el
+
+[00:04:31.199] recuerdo de Nox.
+
+[00:04:33.360] En ese momento este empezó a sentir un
+
+[00:04:36.360] gran dolor, no sabe qué qué es lo que
+
+[00:04:38.600] estaba sucediendo y empezó a ver algo
+
+[00:04:41.800] extraño en su piel. Entonces,
+
+[00:04:45.280] instinto de madre enseguida dijo, "Algo
+
+[00:04:47.680] está pasando. Necesito ir a ver qué está
+
+[00:04:50.639] sucediendo." Así que tomó al al bebé y
+
+[00:04:53.880] empezó a correr a través de la jungla
+
+[00:04:56.639] recordando esos ayeres
+
+[00:04:59.400] que [risas]
+
+[00:05:00.600] [ __ ] tu madre, Carula,
+
+[00:05:03.240] voy a llorar de nuevo.
+
+[00:05:06.840] Ya pásale hasta [risas] ahí no más.
+
+[00:05:09.919] El bebé, el bebé es este.
+
+[00:05:12.520] Ese es el bebecito.
+
+[00:05:13.639] Ay, también va. Lo pongo ahí en la en la
+
+[00:05:15.400] de esto.
+
+[00:05:17.600] Eh, sí, tiene que estar, pero no va a
+
+[00:05:19.919] atacar. Está chiquito.
+
+[00:05:21.479] Yo te lo pongo.
+
+[00:05:22.400] Pero se puede morir.
+
+[00:05:24.160] Exacto,
+
+[00:05:24.520] exacto.
+
+[00:05:27.199] No
+
+[00:05:27.479] podemos usar de escudo.
+
+[00:05:29.000] No, no. [risas]
+
+[00:05:30.000] O sea, si ya muere el pájaro, yo ya
+
+[00:05:32.240] Aqua. Haz lo que quieras. destruye
+
+[00:05:33.479] Soltacán si quieres. [risas]
+
+[00:05:36.400] Y nada, seguimos con la pequeña, nuestra
+
+[00:05:39.440] otra pequeña Kender Luna, que qué ha
+
+[00:05:42.240] estado haciendo
+
+[00:05:45.080] el Luna tiene que haber estado, o sea,
+
+[00:05:46.759] el Luna ha estado recorriendo este
+
+[00:05:48.639] poblado nuevo,
+
+[00:05:51.479] este poblado que no conocía,
+
+[00:05:55.520] eh, molestando, bueno, no molestando en
+
+[00:05:58.960] realidad tratando de que la gente le
+
+[00:06:01.319] explique y y seguramente acosando
+
+[00:06:04.080] fuertemente a la otra chamán.
+
+[00:06:06.400] Porque obviamente
+
+[00:06:08.319] necesitaba sacar información que
+
+[00:06:10.919] seguramente no me dieron nada, pero
+
+[00:06:14.280] da igual, ¿eh?
+
+[00:06:17.000] Así que yo yo creo que ahora está en la
+
+[00:06:19.080] jungla porque tiene que haber aburrido a
+
+[00:06:20.560] medio a medio pueblo
+
+[00:06:24.360] con sus cosas, así que pero eso
+
+[00:06:29.720] vale. Pues
+
+[00:06:34.120] como ya sabéis,
+
+[00:06:37.240] Bonnie y todo y esos piratas se han
+
+[00:06:40.680] estado preparando estas semanas
+
+[00:06:44.039] para ese ataque de la marina que les
+
+[00:06:47.240] informó la excitana de la marina Molly,
+
+[00:06:51.199] que bueno, se descubrió que Molly y
+
+[00:06:53.240] Bonnie pues trabajaban juntas para
+
+[00:06:54.919] proteger Shiaru de invasores
+
+[00:06:58.039] y parece que al final por culpa de
+
+[00:07:02.280] un pirata que mete las narices donde no
+
+[00:07:04.280] llaman, pues ha liado un poco todo. Así
+
+[00:07:08.199] que al final pues echaron a Molly. Mol
+
+[00:07:10.160] informó a Bonnie para defender eso y se
+
+[00:07:13.560] han estado defendiendo y vosotros
+
+[00:07:15.080] formáis parte de esa defensa. Erandi y
+
+[00:07:18.960] Elanor,
+
+[00:07:21.639] habéis estado, visteis el punto, o sea,
+
+[00:07:24.039] visto, Moni os llevó al sitio ese donde
+
+[00:07:26.479] visteis las defensas, que habían cosas
+
+[00:07:30.039] que incluso habíais pensado vosotros,
+
+[00:07:32.199] ¿sabes? esa esa gran estrategia que
+
+[00:07:34.240] habíais pensado, pues está por ahí,
+
+[00:07:36.000] cuerdas por ahí para defender, veis
+
+[00:07:38.120] soldados escondidos en la jungla para
+
+[00:07:40.039] salir, ¿sabes? Para disparar, trampas,
+
+[00:07:42.639] está bastante bien defendido.
+
+[00:07:45.680] Así que hicisteis esas revisiones y
+
+[00:07:48.520] volvisteis para Shiaro,
+
+[00:07:51.440] para,
+
+[00:07:53.080] bueno, las últimas órdenes y
+
+[00:07:55.599] posiblemente quizá
+
+[00:07:57.840] por si no volvéis a ver Siaro nunca más.
+
+[00:08:01.479] Así que
+
+[00:08:03.360] nos vamos a acercar a al poblado de
+
+[00:08:07.360] Siaru,
+
+[00:08:08.879] donde vemos a la mayoría de gente
+
+[00:08:12.080] reunida en la plaza.
+
+[00:08:17.080] Este
+
+[00:08:20.400] vemos a casi toda la gente en la plaza.
+
+[00:08:24.639] Vemos a Cops, ese
+
+[00:08:29.000] ese médico entre comillas que cura a la
+
+[00:08:33.120] gente pues cortándole el pie a uno,
+
+[00:08:34.800] poniéndosela a otro. Es un poco señor
+
+[00:08:37.440] Frankenstein, ¿sabes? Podemos decir,
+
+[00:08:39.159] pero está ahí defendiendo. Quiere
+
+[00:08:41.839] defender también Sharu, veis que coge
+
+[00:08:43.360] una bolsa y empieza a llenarla con una
+
+[00:08:45.200] sierra, con una radial, ¿sabes? Cosas de
+
+[00:08:47.760] medicina según él. También vemos a
+
+[00:08:51.600] nuestro herrero favorito, Armin. sabes,
+
+[00:08:54.519] con dos enormes mazas. Tampoco sabe bien
+
+[00:08:57.399] qué está haciendo y vosotros tampoco no
+
+[00:08:58.959] entendéis muy bien porque ya sabéis que
+
+[00:09:00.320] habla como
+
+[00:09:02.519] que parece que solo entienden uno o dos
+
+[00:09:04.680] en Shiaro.
+
+[00:09:06.600] ¿Veis también incluso a arriba al norte
+
+[00:09:10.040] a Lis y a sus
+
+[00:09:14.959] digamos amigas también preparándose.
+
+[00:09:18.360] Veis que ellas van bastante bien
+
+[00:09:19.560] armadas, que saca una escopeta de debajo
+
+[00:09:21.680] de la falta. ¿Veis a otra que está
+
+[00:09:23.320] preparando un rifle francotirador?
+
+[00:09:25.320] ¿Sabes? Están ahí todas preparándose. Y
+
+[00:09:28.440] también todos esos borrachos pirata que
+
+[00:09:30.640] habéis estado conociendo, esos que
+
+[00:09:32.279] estaban tirados, que incluso algunos os
+
+[00:09:34.000] habrán robado dinero y vosotros quizá os
+
+[00:09:35.880] habéis encontrado dinero de ellos por
+
+[00:09:37.320] ahí, pues estáis todos reunidos ahí en
+
+[00:09:40.279] la plaza. Veis también a algunas caras
+
+[00:09:43.440] conocidas como Ilicar, Ione, Sir
+
+[00:09:47.360] Poncelot que están ahí también en junto
+
+[00:09:50.079] a la tripulación de Zampaolas.
+
+[00:09:52.760] Y veis a
+
+[00:09:54.839] Bonnie al final dando ese
+
+[00:09:58.880] discurso final, ¿sabes? para motivar a
+
+[00:10:03.640] pues a todo Xaru para poder acabar con
+
+[00:10:07.120] la Marina y poder defender
+
+[00:10:09.959] esa libertad que dicen los piratas que
+
+[00:10:12.680] tienen.
+
+[00:10:14.800] Así que veis como mueve esa moneda,
+
+[00:10:18.640] esa moneda de los reyes pirata, la
+
+[00:10:20.360] sostiene en la mano y veis como empieza
+
+[00:10:23.440] a brillar y los rayos empiezan a salir
+
+[00:10:26.120] de esa moneda, empiezan a envolverla
+
+[00:10:28.680] y veis como, bueno, se convierte
+
+[00:10:33.560] en esa Bonnie, esa reina de
+
+[00:10:38.320] es una de las de las cinco reinas
+
+[00:10:40.000] pirata.
+
+[00:10:41.399] Y veis que con un grito al alza
+
+[00:10:44.320] grita y toda su tripulación y los
+
+[00:10:46.279] piratas empiezan a ir hacia los muelles
+
+[00:10:48.720] [ __ ] esos barcos. Veis que también
+
+[00:10:51.320] empieza a levantarse unas nubes negras
+
+[00:10:54.200] en el cielo
+
+[00:10:56.079] y empieza a venir una tormenta gracias
+
+[00:10:57.959] al poder de esa reina.
+
+[00:11:03.360] Y con ello
+
+[00:11:05.320] quedáis Eliano Orierandi. Veis que
+
+[00:11:08.839] muchos piratas ya se han ido hacia esos
+
+[00:11:10.880] barcos y quedáis unos pocos.
+
+[00:11:16.880] Veis que quedáis unos pocos para
+
+[00:11:18.120] defendiraru veis que Liz y sus mujeres
+
+[00:11:21.720] pues se colocan por todo Xaru en las
+
+[00:11:24.040] esquinas prepándose con esos rifles
+
+[00:11:25.880] totalmente cubiertas con barricadas a
+
+[00:11:28.760] otros piratas. Los más digamos
+
+[00:11:31.880] perjudicados, los que tienen pues dos
+
+[00:11:34.120] patas de palo, ¿vale? o cuatro patas de
+
+[00:11:37.800] palo. Pues todos esos vees que son los
+
+[00:11:40.639] que están defendiendo Sharu porque son
+
+[00:11:42.000] los que se pueden mover menos, así que
+
+[00:11:43.600] quizá una posición más estable les
+
+[00:11:46.200] mejore.
+
+[00:11:48.079] Y veis que un pequeño grupo se junta con
+
+[00:11:52.399] Bonnie y se acerca a vosotros enante.
+
+[00:12:01.000] Ay, no, que este no tiene que estar
+
+[00:12:02.120] aquí. Este, perdón. Vale,
+
+[00:12:06.720] Molly cerquitado.
+
+[00:12:09.920] Y veis que se acerca Molly a vosotros
+
+[00:12:14.320] y os dice
+
+[00:12:16.639] señora Elenor.
+
+[00:12:20.600] Sí,
+
+[00:12:22.000] creo que es nuestro momento.
+
+[00:12:25.760] Sí, no debemos perder más tiempo.
+
+[00:12:29.560] Mira.
+
+[00:12:30.199] Ah.
+
+[00:12:33.959] Me permite. Ah, quería
+
+[00:12:39.800] usar un hechizo. Quizás pueda venir bien
+
+[00:12:42.279] para la contienda. Lo único es que no sé
+
+[00:12:44.519] cuánto dura esto. Me imagino que
+
+[00:12:49.079] no dices auxilio,
+
+[00:12:50.920] ¿no? Deathw, que es uno que dejé
+
+[00:12:54.360] preparado.
+
+[00:12:55.399] 8 horas.
+
+[00:12:57.160] 8 horas. Ajá. Bueno, buenísimo. Pues
+
+[00:13:00.240] ella observa a su a la caballera y dice,
+
+[00:13:05.000] "Sí, tenemos unos pocos hombres que son
+
+[00:13:08.199] mejores en la
+
+[00:13:11.120] área frontal, será mejor que pueda estar
+
+[00:13:14.279] cubierta, mi señora." Y ella te posa la
+
+[00:13:17.519] mano
+
+[00:13:19.040] e
+
+[00:13:21.959] en tu hombro.
+
+[00:13:24.120] ¿Dónde estás tú? Porque tengo que
+
+[00:13:25.279] estarte. Ya va.
+
+[00:13:29.880] Ajá. Estás tarjeteado. Muy bien.
+
+[00:13:32.760] Y aquí está. Yes.
+
+[00:13:37.399] No sé por qué, pero bueno. Yupi.
+
+[00:13:40.120] Ah, porque lo había quitado. Sorry,
+
+[00:13:41.920] porque soy bruta.
+
+[00:13:43.560] Nada, tranqui, no te preocupes.
+
+[00:13:44.600] Simplemente roléame el hoyo. Se lo pongo
+
+[00:13:46.000] yo.
+
+[00:13:48.959] Pero no me dejo.
+
+[00:13:50.279] Tú, tú roléalo y ahora se lo pongo yo
+
+[00:13:52.000] automátic manualmente.
+
+[00:13:53.839] Sí, va.
+
+[00:13:55.240] Aquí tiene
+
+[00:13:57.040] que la virtud del sol le ilumina en el
+
+[00:14:00.360] sendero.
+
+[00:14:02.560] Le ilumina en el sendero y le dé la
+
+[00:14:05.360] fuerza para poder llegar a la victoria.
+
+[00:14:09.160] Y sientes como ella va tomando más
+
+[00:14:11.720] energía del sol que puede de su bolsito.
+
+[00:14:14.680] Te va irradiando esa calidez del sol,
+
+[00:14:17.519] como que sientes ese calor
+
+[00:14:20.360] de verano,
+
+[00:14:22.720] como la calor que tanto te molesta, va
+
+[00:14:26.000] consumiendo todo tu cuerpo, pero es de
+
+[00:14:28.040] una manera agradable
+
+[00:14:30.160] y sientes como que el sol te resguarda.
+
+[00:14:33.600] Así que si caes a cero, pues tienes como
+
+[00:14:36.000] un pseudo relentless endurance.
+
+[00:14:37.920] Básicamente,
+
+[00:14:40.759] vale, pues
+
+[00:14:41.959] que era un [ __ ]
+
+[00:14:43.199] ¿Ves que te envuelve?
+
+[00:14:44.320] Sí, si cuando me matan, cuando me cuando
+
+[00:14:47.079] me matan, me levanto uno de vida.
+
+[00:14:50.120] Vale, pues veis que Moli os mira, mira
+
+[00:14:54.639] hacia atrás, te señala y te dice,
+
+[00:15:00.279] "Sé que no es mucho y te aseguro yo que
+
+[00:15:03.480] soy la primera en notar la diferencia,
+
+[00:15:06.519] ya que estuve con la Marina,
+
+[00:15:09.440] pero esto es lo que tenemos." Y
+
+[00:15:11.800] encontrarías un grupo de piratas, ponle
+
+[00:15:15.040] 20.
+
+[00:15:17.320] Bueno, digamos que Eleanor, tú que has
+
+[00:15:20.759] visto soldados ejércitos, vemos que esto
+
+[00:15:24.160] no es ni por asomo ni un pelotón
+
+[00:15:27.079] casiente,
+
+[00:15:28.920] son monos con pistola, podríamos decir,
+
+[00:15:31.839] pero parecen bastante decididos a
+
+[00:15:35.000] defender
+
+[00:15:37.519] pues su libertad, entre comillas, así
+
+[00:15:39.680] que quizá eso da alguna ventaja.
+
+[00:15:42.920] Le pongo la mano en el hombro a a Mol.
+
+[00:15:46.199] menos es nada, así que
+
+[00:15:50.440] se mueren que no sean en vano.
+
+[00:15:54.639] Y ves que te hace te hace un gesto y
+
+[00:15:57.759] mira a los otros y dice, "Bien, si
+
+[00:16:00.839] estamos todos preparados en marcha.
+
+[00:16:04.560] Vamos a acabar con esto. Vamos a
+
+[00:16:06.560] defender ese embudo y no permitir que
+
+[00:16:08.600] lleguen hasta aquí."
+
+[00:16:11.360] Y veis que empiezan a marchar
+
+[00:16:14.800] y empezáis a marchar a través de la
+
+[00:16:16.800] jungla.
+
+[00:16:20.680] Y voy a preguntar porque no me habéis
+
+[00:16:22.560] dicho nada, pero Mama y Luna, ¿tenéis
+
+[00:16:25.920] algo pensado por vuestro camino?
+
+[00:16:32.000] Yo ya estoy sufriendo. [risas]
+
+[00:16:34.680] Nada. Mamá, mamá va sufriendo.
+
+[00:16:38.959] Nada especial.
+
+[00:16:40.360] Vale,
+
+[00:16:41.680] lo que habíamos dicho. Vamos a [risas]
+
+[00:16:44.079] Bueno, a ver. Este, [música] obviamente
+
+[00:16:47.120] voy a estar yo corriendo en la jungla,
+
+[00:16:49.720] ¿vale? Espérate.
+
+[00:16:50.720] Este, lo más que puedo.
+
+[00:16:54.720] Y pues lo más seguro es que me encuentre
+
+[00:16:56.560] a Luna en la jungla.
+
+[00:17:02.319] Hijo [risas] de la burger. Si me vas a
+
+[00:17:04.160] poner ya no puedo más.
+
+[00:17:08.559] Si no he hecho nada.
+
+[00:17:12.520] Ay, Dios. Ah,
+
+[00:17:15.600] me estoy me voy a voy a ahogar mis
+
+[00:17:17.799] penas.
+
+[00:17:19.199] Está sufriendo mucho. Mátala no más.
+
+[00:17:21.559] Ajá. Ya, mátame ya. Ya estoy muerta.
+
+[00:17:24.081] [risas] Ya estoy.
+
+[00:17:26.640] Vale, pues
+
+[00:17:27.799] antes muerta que sencilla.
+
+[00:17:29.360] Mamá. Antes ataque sencillo,
+
+[00:17:31.240] vas pongo, vas corriendo por la jungla
+
+[00:17:35.840] y ves que
+
+[00:17:39.480] te vienen eh esas sensaciones que has
+
+[00:17:43.600] tenido durante
+
+[00:17:46.360] bueno, ese esos momentos como que algo
+
+[00:17:49.600] pasaba mal y me vas a tener que tirar un
+
+[00:17:52.440] T6.
+
+[00:17:54.320] Sí, no, ya.
+
+[00:17:56.240] Mira, Arqueo.
+
+[00:17:57.880] Arqueo si empieza a buscar muchos
+
+[00:17:59.320] enemigos, ¿eh? Arqueo está empezando muy
+
+[00:18:01.080] mal.
+
+[00:18:04.440] Ahí te va un de se
+
+[00:18:05.559] pero eres un goliate. Me caes bien.
+
+[00:18:08.622] [risas]
+
+[00:18:09.840] A mí no me dijiste lo mismo, ¿eh? Una
+
+[00:18:11.280] Yoto, perro. [risas]
+
+[00:18:14.517] [grito ahogado]
+
+[00:18:15.919] Pues mamá, notas esa sensación, ese
+
+[00:18:20.159] malestar y notas como un pequeño
+
+[00:18:22.679] pinchazo en la cabeza y notas eso que
+
+[00:18:25.480] algo
+
+[00:18:26.600] algo va a ocurrir,
+
+[00:18:29.280] algo no anda bien.
+
+[00:18:33.600] Y
+
+[00:18:34.080] yo ya me lo presiento.
+
+[00:18:36.080] Dime, dime.
+
+[00:18:39.720] Bájame esos dos. Vería que estás
+
+[00:18:41.880] corriendo por la por la jungla y
+
+[00:18:46.799] veríamos a nuestra pequeña Kender, a
+
+[00:18:49.679] Luna. ¿Qué está haciendo Luna?
+
+[00:18:51.440] Recogiendo, recogiendo hierbas
+
+[00:18:54.400] como como toda una experta que no tiene
+
+[00:18:56.679] idea que está recogiendo, pero recoge
+
+[00:19:01.039] en algún momento usaré las hierbas que
+
+[00:19:02.840] he conseguido para para algo,
+
+[00:19:05.919] para hacer algo.
+
+[00:19:06.720] Pero claro, [risas]
+
+[00:19:09.000] ¿qué? No sé.
+
+[00:19:11.480] Pues
+
+[00:19:11.840] pues vas a ver llegar a a la mamá ahí
+
+[00:19:14.799] corriendo arrastrando al pobre
+
+[00:19:18.159] este [risas] de la alita, medio dormido
+
+[00:19:21.080] el pobre.
+
+[00:19:26.039] Y este la vas a ver con un semblante de
+
+[00:19:31.200] pánico, incertidumbre,
+
+[00:19:33.679] mal. Realmente vas a ver mal a mamá.
+
+[00:19:40.120] Ya. Eh, si te veo complicada, eh,
+
+[00:19:49.200] voy hacia donde estás tú y y digo, e,
+
+[00:19:53.200] mamá, ¿te pasa algo? ¿Necesitas un
+
+[00:19:56.080] tecito? Justamente encontré unas hierbas
+
+[00:19:58.360] que te podrían servir.
+
+[00:20:01.760] Necesito que vayamos a Shiaru. No, no
+
+[00:20:04.640] queda tiempo. Algo no está bien. Algo no
+
+[00:20:06.919] está. No, está bien. Necesitamos ir lo
+
+[00:20:09.600] más rápido posible.
+
+[00:20:11.559] En serio, nunca las cosas están bien,
+
+[00:20:13.440] pero bueno, eso
+
+[00:20:18.520] yo sé lo que te digo. Por favor, ayúdame
+
+[00:20:20.480] a llegar lo más rápido posible.
+
+[00:20:23.720] Ah, si es para si es para llegar rápido.
+
+[00:20:27.080] Pienso en que me la podría llevar a
+
+[00:20:30.080] cuestas, pero eh veo el pájaro y y ah
+
+[00:20:34.400] bueno,
+
+[00:20:38.080] me me transformo en oso.
+
+[00:20:41.720] Antes de eso, sí le paso un lazo al
+
+[00:20:46.480] pajarete,
+
+[00:20:48.360] lo amarro. No necesita que vaya cómodo,
+
+[00:20:51.360] ¿vale? [risas]
+
+[00:20:55.039] Literalmente lo amarro
+
+[00:20:57.960] y una vez en oso voy mordiendo la
+
+[00:21:01.159] cuerda.
+
+[00:21:02.720] Eh, subo a la mamá arriba y al pájaro lo
+
+[00:21:08.600] arrastro. Perme a lo mismo.
+
+[00:21:11.960] Va, [risas] va como puede.
+
+[00:21:15.039] Vale.
+
+[00:21:15.679] Pobrecito
+
+[00:21:17.520] entendible. Yo me lo imagino que el
+
+[00:21:19.279] pobre debe ir así y y va arrastrándose
+
+[00:21:21.600] un poco, quizá a veces clava el pico y y
+
+[00:21:23.679] da la vuelta, ¿sabes? Y vuelve a
+
+[00:21:25.600] intentar ir corriendo así.
+
+[00:21:28.159] Exacto.
+
+[00:21:29.559] Vale, pues
+
+[00:21:34.240] mam,
+
+[00:21:37.520] lo siento mucho, pero me han tirado una
+
+[00:21:38.840] carta legendaria.
+
+[00:21:39.960] Sí, ya, ya, ya me lo imagino.
+
+[00:21:43.440] Mam.
+
+[00:21:45.559] Mientras vas montando en ese oso
+
+[00:21:49.600] y ves a a pobre Ezir ahí detrás
+
+[00:21:52.960] corriendo como puede,
+
+[00:21:55.279] tienes una de esas visiones que has
+
+[00:21:58.919] tenido siempre
+
+[00:22:01.400] y puedes ver a un pirata de espaldas.
+
+[00:22:09.279] Ves a prosigue
+
+[00:22:10.679] ese pirata con esos avalorios que tiene
+
+[00:22:14.240] en el pelo, a ver, no está muy bien
+
+[00:22:16.440] peinado, ¿eh? Y
+
+[00:22:19.559] aunque lo simplemente lo estás viendo,
+
+[00:22:21.520] pero huele mal seguro por como su
+
+[00:22:24.600] aspecto
+
+[00:22:27.440] y de repente ves que se va, se gira, se
+
+[00:22:30.279] empieza a girar y de repente ves
+
+[00:22:35.880] todo de burbujas.
+
+[00:22:38.720] ves burbujas que empiecen como a a
+
+[00:22:40.960] rodearte, ¿sabes? Y empiezas a a a notar
+
+[00:22:44.159] como como si tú vas debajo del agua,
+
+[00:22:46.240] pero puedes respirar.
+
+[00:22:49.440] Y pero es que cuando esas burbujas
+
+[00:22:50.799] acaban de pasar
+
+[00:22:53.039] es como verías hacia arriba y es como
+
+[00:22:57.320] cuando mira si mirases desde abajo del
+
+[00:22:59.640] agua de de del mar y arriba hubiese un
+
+[00:23:02.600] combate enorme con barcos de guerra y
+
+[00:23:05.720] veis fuego caer al agua, trozos de pues
+
+[00:23:09.120] trozos del barco, un mástil, una vela
+
+[00:23:11.120] rasgada, algunos que otros piratas,
+
+[00:23:13.960] ¿sabes? gente de la Marina y empiezas
+
+[00:23:15.799] pues empiezas a ver todo eso
+
+[00:23:19.159] y en ese momento ves que
+
+[00:23:22.279] abres otra vez los ojos y sigues montada
+
+[00:23:25.840] en Luna y te diriges a toda velocidad
+
+[00:23:28.960] hacia Shiaro.
+
+[00:23:32.640] ¿Cuánto [resoplido] de daño?
+
+[00:23:34.159] No hace daño,
+
+[00:23:35.440] ¿no? Ah, qué bueno. Menos mal. [risas]
+
+[00:23:38.840] Nada más es el daño psicológico propio.
+
+[00:23:41.240] Sí, gracias, Argeo. [risas]
+
+[00:23:45.640] Vale, pues con esto nos vamos a
+
+[00:23:51.000] aquí.
+
+[00:23:57.520] Ay, Dios.
+
+[00:23:58.679] Nos vamos a coner Andy, Elanor y Molly.
+
+[00:24:04.880] Hemos avanzado un tramo por esa jungla.
+
+[00:24:07.520] ¿Habéis visto que por el camino que
+
+[00:24:09.360] hemos andado hay bastantes trampas,
+
+[00:24:11.880] gente apostada por ahí entre las los
+
+[00:24:14.559] matorrales para hacer algún que otro
+
+[00:24:16.320] ataque sorpresa? Y también incluso
+
+[00:24:18.840] habéis visto zonas como pequeñas entre
+
+[00:24:23.400] la la jungla, pues pequeñas vallas de
+
+[00:24:26.559] una altura de poco menos de 1 metro,
+
+[00:24:28.520] ¿sabes? Por si la marina se mete ahí,
+
+[00:24:30.360] pues que se corte o le ralentice o no
+
+[00:24:33.279] puedan pasar
+
+[00:24:35.120] hasta que llegáis a ese lugar.
+
+[00:24:38.240] Este lugar que es para Bonnie dice bien,
+
+[00:24:44.240] este es el punto acordado.
+
+[00:24:48.080] Os mira y dice,
+
+[00:24:52.480] "Si os puede hacer sincera y lo mismo
+
+[00:24:54.440] que le dije a Bonnie,
+
+[00:24:57.159] esto no es un combate que podamos ganar.
+
+[00:25:03.039] Es algo que de lo que soy muy
+
+[00:25:05.159] consciente.
+
+[00:25:07.000] Sí, ves que os mira
+
+[00:25:09.799] mira la pequeña Randy
+
+[00:25:12.520] y sabe que que sabes ya eres mayor,
+
+[00:25:15.840] ¿sabes? Pero te ve pues eso, como eres
+
+[00:25:17.480] una de Kender más pequeña, tan apegada a
+
+[00:25:20.880] tu señora, ves que se acerca y te pone
+
+[00:25:24.880] la la mano en la cabeza, mira, te mira a
+
+[00:25:26.600] ti, Elanor, y te dice,
+
+[00:25:31.360] "Si hay algún peligro y tenéis que huír.
+
+[00:25:39.960] Yo lo entenderé.
+
+[00:25:48.120] y ves que se levanta. Mira, yo quisiera
+
+[00:25:50.919] que tengamos que tomar ese último
+
+[00:25:53.559] recurso, señora capitana, señora. Y que
+
+[00:25:58.399] se pone así como firme.
+
+[00:26:01.559] ¿Ves que también
+
+[00:26:02.399] porque antes sujeta la capa de Eleanor
+
+[00:26:05.360] la suelta? Se fueron así, señora
+
+[00:26:09.200] y ves que termina y te dice con Molly.
+
+[00:26:11.520] Está bien, ya no soy capitana.
+
+[00:26:14.640] Ah, eh,
+
+[00:26:17.799] Lady Molly, claro.
+
+[00:26:22.240] Lo que quiero decir es, bueno, ya
+
+[00:26:26.760] estamos aquí
+
+[00:26:29.440] y no creo que yo no quisiera dejarle
+
+[00:26:33.360] parada, aunque
+
+[00:26:35.279] quienes antes
+
+[00:26:37.600] trabajaba le han dado la espalda y
+
+[00:26:40.240] distintamente de los motivos no los
+
+[00:26:42.120] conozco.
+
+[00:26:43.919] Pero si usted es tan pro de algo que por
+
+[00:26:46.840] lo que entiendo es bueno,
+
+[00:26:49.480] la verdad es que no me sentiría bien en
+
+[00:26:51.559] la conciencia sabiendo que la hemos
+
+[00:26:53.200] dejado a su suerte. Señora,
+
+[00:26:57.279] no te preocupes. Y ves que te mira a ti,
+
+[00:26:58.880] dice, "No te preocupes." Y después
+
+[00:27:00.240] levanta la cabeza, mira a Elanor y como
+
+[00:27:02.720] que te hace una mirada cómplice,
+
+[00:27:05.279] ¿sabes? Como diciendo, "¿Sabes? Si si la
+
+[00:27:09.080] vida de la pequeña está en riesgo o
+
+[00:27:10.399] algo, largaos.
+
+[00:27:15.159] sucede algo, voy a dejar,
+
+[00:27:22.320] vamos a dejar las cosas de lado.
+
+[00:27:25.679] Sinceramente, mi ayuda hacia vosotros
+
+[00:27:28.653] [resoplido] no es porque
+
+[00:27:31.440] sea el único bando que conozca,
+
+[00:27:34.840] sino porque sois los únicos que habéis
+
+[00:27:36.559] tratado bien grande.
+
+[00:27:40.440] que en mi reino no lo hubieran hecho, ya
+
+[00:27:41.960] que no es de mi tierra.
+
+[00:27:44.840] Por eso os respeto. ¿Ves como se quita
+
+[00:27:47.360] el broche de su tierra y se lo entrega a
+
+[00:27:49.440] ella?
+
+[00:27:55.519] Lo coge, te mira
+
+[00:28:00.240] bien.
+
+[00:28:00.640] Hay una leyenda. Hay una leyenda en mis
+
+[00:28:02.600] tierras.
+
+[00:28:04.440] Si logro recuperar tu cuerpo y espero
+
+[00:28:06.799] que no tenga que tener y espero no tener
+
+[00:28:08.480] que hacerlo, creo que podría llegar a
+
+[00:28:10.919] intentar hacer algo.
+
+[00:28:14.279] Yo espero que solo sea que no solo sea
+
+[00:28:16.519] una leyenda.
+
+[00:28:20.240] Gracias señora Arandi Eleanor.
+
+[00:28:25.039] Y ahora y ves que te miras por encima
+
+[00:28:27.360] del hombro hacia detrás tuyo y veis a
+
+[00:28:29.840] esa a esos 20 o seis, imaginaos más más
+
+[00:28:32.840] piratas, esos 20 piratas detrás. Uno se
+
+[00:28:34.679] está sacando un moco, otro está un poco
+
+[00:28:36.480] temblando. No son los mejores piratas,
+
+[00:28:39.080] pero son piratas.
+
+[00:28:41.480] Sí que veis que también lleváis a un
+
+[00:28:43.279] par, que estos los veis un par
+
+[00:28:46.519] como más seguros de sí mismo, que son
+
+[00:28:49.919] los de la tripulación de Bonnie, ¿vale?
+
+[00:28:53.159] Que os le han dicho para acompañar a
+
+[00:28:54.919] Molly, que estos sí que veis que incluso
+
+[00:28:57.880] a van algunos piratas y les como,
+
+[00:29:00.200] "Colócate bien, atento, ¿sabes? Esto no
+
+[00:29:01.880] sé qué, la pistola, ¿sabes?" Y les den
+
+[00:29:03.559] como un poco de de órdenes,
+
+[00:29:07.840] mira. Y veis que Molly mira y dice,
+
+[00:29:10.080] "Bien, pues preparémonos. Solo pueden
+
+[00:29:13.320] venir por ese camino.
+
+[00:29:15.679] Vendrán
+
+[00:29:17.440] en pelotones, lo más seguro. Caballos,
+
+[00:29:20.159] cañones, gente con rifles.
+
+[00:29:23.640] Hay que intentar hacerles embudo para
+
+[00:29:25.240] que no puedan golpearnos todos a la vez.
+
+[00:29:30.240] Permíteme. ¿Ves como le voy a poner la
+
+[00:29:32.200] mano en el hombro a
+
+[00:29:34.760] Molly? Voy a tocar a Andy y me va a
+
+[00:29:38.519] afectar a mí también, pero voy a tirar
+
+[00:29:40.760] un una,
+
+[00:29:42.279] ¿vale?
+
+[00:29:44.799] Que nos da cinco de vida temporal extra.
+
+[00:29:47.120] Vale, eh, no la puesta. Ponoslo vosotros
+
+[00:29:49.640] os lo pongo yo. Si
+
+[00:29:51.840] ya me lo pongo.
+
+[00:29:52.559] Yo lo que quisiera es dejar preparada
+
+[00:29:54.360] acción que para cuando estén más cerca
+
+[00:29:56.440] los
+
+[00:29:58.399] los la primera tanda de Marines pues
+
+[00:30:01.080] tenga los espíritus guardianes ya
+
+[00:30:03.080] listos.
+
+[00:30:04.640] Vale, listo.
+
+[00:30:08.679] Que eso nos puede hacer como de defensa
+
+[00:30:11.200] un poquito. Vale,
+
+[00:30:13.960] pues veis que Molly pues mete un sirvido
+
+[00:30:17.519] y bueno, enviaría pues algunos, vamos a
+
+[00:30:20.120] poner estos por aquí, ¿sabes? Envía
+
+[00:30:21.480] algunos al bosque por aquí, otros algues
+
+[00:30:23.320] por aquí, otros los pone por aquí en la
+
+[00:30:24.760] en la retaguardia,
+
+[00:30:26.960] ¿sabes? Y estos pues sabes, los aposta,
+
+[00:30:29.320] imaginaos que son grupitos, ¿eh? de
+
+[00:30:30.799] soldados
+
+[00:30:32.320] y los apuesta como para emboscar. Y veis
+
+[00:30:34.679] que Molí simplemente avanza y se queda
+
+[00:30:36.919] en como en mitad del terreno.
+
+[00:30:42.799] Eh,
+
+[00:30:45.440] me gustaría
+
+[00:30:47.480] eh Uy, [ __ ] se me ha movido toda la
+
+[00:30:49.039] cámara para el fondo.
+
+[00:30:51.120] Me gustaría saber si puedo [ __ ]
+
+[00:30:52.279] bastantes hojas y tirármelas encima y
+
+[00:30:55.279] estaría acostado
+
+[00:30:57.720] por ahí, ahí donde estoy,
+
+[00:30:59.919] ¿eh? que sí,
+
+[00:31:03.840] pero tendrás que tirada de siglas. Sí,
+
+[00:31:05.279] así como
+
+[00:31:06.639] Sí, ahora te la dejo así como tal. La la
+
+[00:31:08.960] idea es cuando vea que están cercas eh
+
+[00:31:11.880] activar lo del lo del palad conquista
+
+[00:31:14.320] que se transforma en esta [ __ ] Ah,
+
+[00:31:16.480] no, eso es lo del lo de la raza, ¿eh?
+
+[00:31:18.600] Sí, lo de raza del del caído.
+
+[00:31:22.360] Sí,
+
+[00:31:28.200] vale. ¡Uf! ¡Uf!
+
+[00:31:31.480] Qué bueno. [risas]
+
+[00:31:32.480] ¡Uf! Vale, pues. Uy, ¿qué ha sonado?
+
+[00:31:36.519] Suena un estornudo.
+
+[00:31:38.200] [ __ ] qué susto. Me han tirado un
+
+[00:31:39.760] maldito bit. No me tires [ __ ]
+
+[00:31:42.796] [risas]
+
+[00:31:43.960] Vale, pues
+
+[00:31:46.279] nada, veis que os intentáis preparar por
+
+[00:31:48.240] ahí y
+
+[00:31:51.919] veis que empieza a sonar.
+
+[00:31:55.840] ¿Dónde está? Aquí. ¿Veis
+
+[00:32:03.559] que empieza
+
+[00:32:06.240] a ver ruido,
+
+[00:32:08.320] pisadas?
+
+[00:32:10.159] A ver, ramas que se apartan,
+
+[00:32:12.760] ruedas de carretas, de cañones
+
+[00:32:16.880] y veis que
+
+[00:32:19.120] van viniendo esos marinos.
+
+[00:32:23.039] Lo primero que veis
+
+[00:32:25.559] es, uy, ¿por qué se han movido todos
+
+[00:32:26.960] estos? No lo sé. Bueno, lo voy a poner
+
+[00:32:28.720] aquí. Ah, vale, sí. Vale. Lo primero que
+
+[00:32:31.399] veis es una un varios [música] grupos de
+
+[00:32:36.080] marines que van con esas pistolas
+
+[00:32:38.399] pequeñas y van cogidos con unos perros y
+
+[00:32:41.840] veis que los perros van tirando y van
+
+[00:32:43.840] ladrando unos a otros.
+
+[00:32:50.279] ¿Veis que van porladando, buscando ese
+
+[00:32:52.080] camino, rastreando los perros, buscando
+
+[00:32:54.600] trampas? ¿Veis que justo detrás
+
+[00:32:58.639] veis que vienen los pelotones ya de
+
+[00:33:00.600] marines que van con ahí ah todos en
+
+[00:33:04.399] perfecta sintonía, totalmente diferentes
+
+[00:33:07.559] aquellos que tenéis vosotros detrás?
+
+[00:33:11.360] Justo detrás de estos
+
+[00:33:14.200] veis a otros que estos llevan unos
+
+[00:33:16.760] rifles bastante largos.
+
+[00:33:20.159] Seguramente
+
+[00:33:23.000] pues hombres con el rifle para disparar
+
+[00:33:25.000] de más lejos. Acompañados al lateral
+
+[00:33:29.120] por un par de pelotones con cañones que
+
+[00:33:32.880] van ahí
+
+[00:33:34.919] arrastrándonos como pueden, seguidos al
+
+[00:33:37.639] final
+
+[00:33:40.760] por un grupo de capitanes de la Marina
+
+[00:33:44.480] montados en caballos de guerra.
+
+[00:33:49.679] Y veis que van avanzando por la jungla.
+
+[00:33:53.519] Sí que veis que los perros huen hacia
+
+[00:33:56.399] los lados,
+
+[00:33:58.159] huelen las trampas apostadas para aquí,
+
+[00:34:00.480] pero que ya están planeadas para que no
+
+[00:34:02.880] se desviaran y fueran directos por el
+
+[00:34:07.000] embudo.
+
+[00:34:09.560] Así que
+
+[00:34:13.679] Elianor, el Andy, ¿qué queréis hacer?
+
+[00:34:18.839] Yo lo he dicho, pero tengo la acción
+
+[00:34:20.440] preparada.
+
+[00:34:23.240] Esperar
+
+[00:34:23.639] los perros desde aquí.
+
+[00:34:26.320] Esperáis. Vale.
+
+[00:34:28.040] Espera, espera, espera. Yo yo veo a los
+
+[00:34:29.480] perros desde aquí,
+
+[00:34:30.879] ¿eh? Sí, sí, sí, sí.
+
+[00:34:33.480] Yo no me voy a quedar ahí tirado. No me
+
+[00:34:35.760] he acordado de los [ __ ] perros. [risas]
+
+[00:34:39.079] No, no, claro, claro. O sea, hay
+
+[00:34:40.240] distancia, van viniendo ahí,
+
+[00:34:43.599] incluso la [ __ ] me le
+
+[00:34:45.119] Oye, me mueves a los ¿Por qué me mueves
+
+[00:34:46.679] a los caballos?
+
+[00:34:49.599] Ah, da un momento que dejo de
+
+[00:34:50.839] seleccionar todo y me selecciono a mí
+
+[00:34:52.639] ahí.
+
+[00:34:53.599] Vale,
+
+[00:34:54.480] pues ah, porque tendrás por el el
+
+[00:34:57.280] hechizo ese que tienes. Vale, pues nada,
+
+[00:35:00.079] incluso veis que vais avanzando. Sí, sí.
+
+[00:35:02.680] veis a todo ese batallón y veis a Molly
+
+[00:35:04.640] también ahí preparada con algún unos
+
+[00:35:07.200] grupos de piratas detrás y ves que
+
+[00:35:09.880] suspira, ¿sabes de rollo? Bien,
+
+[00:35:12.760] vamos a acabar con esto. A ver cuánto
+
+[00:35:14.560] podemos aguantar.
+
+[00:35:21.000] ¿Qué queréis hacer? ¿Queréis hacer
+
+[00:35:22.119] alguna cosa?
+
+[00:35:24.200] Yo lo he dicho, yo cuando los tenga lo
+
+[00:35:25.760] suficientemente cerca, yo tengo mis
+
+[00:35:27.480] espíritus guardianes ya listos para al
+
+[00:35:29.720] menos ahí hacer esto de barricada un
+
+[00:35:34.040] poquito lo que pueda hacer.
+
+[00:35:35.680] Te te comento que los de guardian son
+
+[00:35:37.520] trendapies, o sea, están aquí.
+
+[00:35:39.720] Sí, yo sé, pero
+
+[00:35:41.200] cuando estén aquí está todo el ejército
+
+[00:35:43.160] encima vuestro.
+
+[00:35:47.160] Aprovechar, aprovechar la distancia.
+
+[00:35:50.319] Voy a
+
+[00:35:52.240] poder lanzar con bonus
+
+[00:35:54.720] y luego
+
+[00:35:55.880] eh si queréis me lo podéis rolear, ¿eh?
+
+[00:35:58.319] No hace falta que no acción no sé qué.
+
+[00:36:00.319] No, no. ¿Qué haría tus paradín en ese
+
+[00:36:02.240] momento?
+
+[00:36:02.920] Sí, sí. No es que claro, estaba viendo
+
+[00:36:06.160] si se podía lanzar como unos que puedo
+
+[00:36:07.640] usar durante un ataque entonces también
+
+[00:36:10.520] porque dura un esa [ __ ]
+
+[00:36:13.520] Una facción, ¿no? Vale, pues sí, sí. Me
+
+[00:36:16.200] tiraré favor divino.
+
+[00:36:18.240] ¿Veis como comienzo a leer las
+
+[00:36:20.839] escrituras que tiene la espada,
+
+[00:36:23.920] a nombrar un discurso.
+
+[00:36:27.960] Déjame buscarte el discurso, por favor.
+
+[00:36:29.920] Es necesario. [risas]
+
+[00:36:31.359] Vale,
+
+[00:36:36.720] mientras que otro puede ir yendo, pero
+
+[00:36:38.040] me voy a me voy a tirar eh
+
+[00:36:41.599] Vale,
+
+[00:36:41.800] mientras tanto, otro
+
+[00:36:48.960] Vale.
+
+[00:36:51.280] Eh,
+
+[00:36:54.079] yo viendo como se van a ir acercando, yo
+
+[00:36:58.560] lo que hago es que junto mis manos
+
+[00:37:01.760] al justo de todo, como en los handending
+
+[00:37:04.560] de Sakura de Naruto, junta las manitas
+
+[00:37:07.240] como haciendo una plegaria y intenta
+
+[00:37:10.520] comunicarse con eh su Dios diciéndole,
+
+[00:37:16.000] "Voy a necesitar toda la ayuda del sol.
+
+[00:37:19.760] Ilumina mis manos, calienta mi cuerpo y
+
+[00:37:23.800] permítame que los que intenten
+
+[00:37:28.119] vulnerar a los más débiles. Sean
+
+[00:37:30.560] quemados por su gracia,
+
+[00:37:33.839] todo sea en pro de la justicia y
+
+[00:37:36.200] defender a los más débiles. Entonces, lo
+
+[00:37:38.960] que voy a hacer es que cuando los tenga
+
+[00:37:40.359] lo suficientemente, o sea, cuando esté
+
+[00:37:42.520] más o menos por aquí, les voy a lanzar
+
+[00:37:45.800] un fireball, algo de eso.
+
+[00:37:48.480] mi pedido. Ya vengo rapidito.
+
+[00:37:51.520] Vale. Eh, bueno, preparas acción y tiras
+
+[00:37:54.240] fireball, ¿no? Vale, vale. Pues veríais
+
+[00:37:58.599] que
+
+[00:38:01.520] irían avanzando.
+
+[00:38:04.560] A lo voy a poner por aquí.
+
+[00:38:07.960] ¿Veis que irían avanzando hacia
+
+[00:38:10.359] vosotros? La bola de fuego es 120 pies.
+
+[00:38:13.000] No,
+
+[00:38:14.359] creo que
+
+[00:38:14.720] sí, 120.
+
+[00:38:15.760] Vale.
+
+[00:38:16.280] Sí.
+
+[00:38:17.920] 20 [risas]
+
+[00:38:20.240] le dice
+
+[00:38:21.280] llega de sobrada, ¿no? Ah, no, mira, 120
+
+[00:38:23.440] por aquí.
+
+[00:38:24.520] Pues mira, uno más qui más.
+
+[00:38:29.920] Vale,
+
+[00:38:30.800] vale. Pues ahora cuando venga el Andy
+
+[00:38:33.839] que me lo rode
+
+[00:38:35.400] y nada, veis como empiezan a a venir
+
+[00:38:37.720] todo ese grupo que ya se pone en esa
+
+[00:38:40.000] posición
+
+[00:38:41.240] que ya ven a ese grupo de piratas,
+
+[00:38:43.880] ¿sabes? que incluso veis que los
+
+[00:38:45.880] caballeros se van con el caballo y ves
+
+[00:38:48.000] que se detienen un momento mirando a
+
+[00:38:50.560] Molly y bueno, los que estáis ahí por
+
+[00:38:53.119] por el camino y veis que mira, dice,
+
+[00:38:59.119] "Fusileros,
+
+[00:39:00.800] acabar con estos."
+
+[00:39:03.000] Y veis que esos fusileros van a empezar
+
+[00:39:04.960] a disparar. Voy a hacer esto, pero esto,
+
+[00:39:06.960] no os preocupéis que es random, ¿eh?
+
+[00:39:12.160] Vale, pues veis que esos fuseros van a
+
+[00:39:14.480] empezar a a disparar y veis como
+
+[00:39:18.280] empiezan a a darle a los pequeños grupos
+
+[00:39:22.319] que tenéis por detrás,
+
+[00:39:25.960] ¿vale?
+
+[00:39:28.720] ¿Veis que le disparan algún? Mira, voy a
+
+[00:39:29.920] poner este aquí porque si tengo ruptos.
+
+[00:39:32.760] ¿Veis que empiezan a dispararle por
+
+[00:39:34.760] sabes? Algunos grupos. Veis que algunos
+
+[00:39:36.680] de los piratas que están justo a
+
+[00:39:37.880] vosotros se mueren, ¿sabes? algunos que
+
+[00:39:39.440] hay justo al lado tuyo, Erandy. Y veis
+
+[00:39:43.040] que, bueno, pues el fuego de la marina
+
+[00:39:45.599] es bastante intenso. Veis que es se
+
+[00:39:47.480] ponen del rollo como lo típico. La
+
+[00:39:49.560] primera línea, pues unos de rodillas y
+
+[00:39:51.599] empiezan a disparar todos al unísono. Se
+
+[00:39:53.319] levantan, se ponen los de la parte de
+
+[00:39:55.000] atrás, disparan, o sea, ves que empiezan
+
+[00:39:56.880] a lanzar esas ráfagas y eran de él honor
+
+[00:40:02.440] hacerme una tirada de salvación de de
+
+[00:40:05.640] destrez.
+
+[00:40:07.800] Bu,
+
+[00:40:09.240] ya voy.
+
+[00:40:12.440] No te puedo levantar el escudo y
+
+[00:40:13.702] [música] tirarte en vez de esa
+
+[00:40:16.560] constitución.
+
+[00:40:17.680] Venga,
+
+[00:40:21.640] vale. Lo que levantas más mejor el club,
+
+[00:40:24.079] te escondes detrás de él.
+
+[00:40:30.240] Vale, pues ves que el te pones delante,
+
+[00:40:33.599] ¿sabes? pones escudo delante que empieza
+
+[00:40:35.319] a disparar, que notas esos disparos en
+
+[00:40:37.480] el escudo que incluso parece que te
+
+[00:40:40.160] mueven hacia atrás y erandi, tú ves que
+
+[00:40:43.200] empiezan a caer pues todos esos
+
+[00:40:44.800] disparos, ¿sabes? Que ves que te vienen
+
+[00:40:46.440] por algún rado y alguno quizá te
+
+[00:40:49.000] rozaría, ¿sabes? Haría una pequeña
+
+[00:40:51.000] herida y es hacer el daño este, ¿vale? Y
+
+[00:40:56.040] notarías que por alguno de esos disparos
+
+[00:40:57.920] sí que te da alguna pequeña herida y
+
+[00:40:59.760] veis que la Marida, la Marina se ha
+
+[00:41:01.640] quedado ahí parada. para disparar contra
+
+[00:41:04.280] vosotros. Y Erandy, ¿tú tenías algo
+
+[00:41:06.839] preparado?
+
+[00:41:08.480] Sí, una ola de fuego. Lo que pasa es que
+
+[00:41:10.880] yo no sé cuánto era estación nunca lo
+
+[00:41:12.599] usado en mi [ __ ]
+
+[00:41:14.000] llegas perfectamente.
+
+[00:41:14.760] 120.
+
+[00:41:15.319] Sí, sí, llegas.
+
+[00:41:17.160] Entonces sí llego. Va,
+
+[00:41:18.680] entonces lo voy a lanzar a los hij de
+
+[00:41:20.440] [ __ ] Eso.
+
+[00:41:21.599] Venga, [risas]
+
+[00:41:22.599] quémalos. Quémalos.
+
+[00:41:24.000] Llega. Creo que hasta aquí.
+
+[00:41:27.680] Aquí lo puedo lanzar.
+
+[00:41:30.520] Puedes ponerlo aquí.
+
+[00:41:37.079] Creo que puede ir incluso un poco más
+
+[00:41:38.160] para atrás y le afectaría a los tres
+
+[00:41:39.880] detrás.
+
+[00:41:41.560] Sí, pero bueno, no os preocupéis por la
+
+[00:41:43.200] cantidad.
+
+[00:41:43.680] Ya fue.
+
+[00:41:44.800] No os preocupéis por la cantidad que
+
+[00:41:46.040] iremos más también.
+
+[00:41:49.040] Vale, es para es para dar más ambiente.
+
+[00:41:50.640] No, no, sí, pero prefiero
+
+[00:41:53.440] pues el Andy, roléamelo. Ves que lanzas
+
+[00:41:56.520] una bola de fuego contra ese grupo que
+
+[00:41:58.520] estaba ahí parado, ese ejército parado.
+
+[00:42:00.240] Y cuéntame qué les pasa.
+
+[00:42:03.280] Este, ustedes pueden ver que sienten
+
+[00:42:06.920] un calor abrazador, se giran hacia atrás
+
+[00:42:10.440] y pueden ver que empieza a canalizar una
+
+[00:42:13.640] energía
+
+[00:42:15.359] eh que encandece. en su bolso. Lo va
+
+[00:42:19.800] extrayendo como puede, como si fuese el
+
+[00:42:22.160] hombre antorcha de los de Marvel.
+
+[00:42:25.599] Se va mostrando el fuego que irradia en
+
+[00:42:29.559] sus manos, en sus brazos. Sus ojos son
+
+[00:42:33.400] dorados mientras va canalizando la
+
+[00:42:36.240] fuerza del sol y dice, "Por la gloria
+
+[00:42:40.920] del Señor sol que irradia las mañanas,
+
+[00:42:44.640] que cubre con su luz los campos, las
+
+[00:42:48.440] montañas, los ríos y los valles.
+
+[00:42:52.520] entregue la fuerza, que la madre la
+
+[00:42:55.079] escuche, que clame por la defensa de los
+
+[00:42:58.640] inocentes
+
+[00:43:00.160] y cubra con su calor a quienes deseen
+
+[00:43:03.800] subyugar,
+
+[00:43:06.160] a los más débiles.
+
+[00:43:08.800] Entrégame su fuerza
+
+[00:43:11.280] y hágales perecer en el calor eterno de
+
+[00:43:14.280] Sobreo. y va como mostr va agarrando ese
+
+[00:43:18.400] fuego, hace un grito como de lucha,
+
+[00:43:23.920] muy salvaje,
+
+[00:43:26.160] lleno de esa ira y lo canaliza en esa
+
+[00:43:30.240] bola de fuego que va inundando a la
+
+[00:43:33.520] gente alrededor suyo y de alguna manera
+
+[00:43:36.040] se siente incluso acogida porque ese
+
+[00:43:39.240] calor del fuego, aunque sea en cierta
+
+[00:43:42.359] manera doloroso, es también como catar
+
+[00:43:45.119] ártico le da le da confort.
+
+[00:43:48.240] Vale, pero es que esa esa bola de fuego
+
+[00:43:51.559] directa contra ese grupo de marines que
+
+[00:43:54.040] ves que explotan, algunos salen volando,
+
+[00:43:56.520] ves que otros salen chillando,
+
+[00:43:57.520] quemándose y ves que incluso los piratas
+
+[00:44:01.440] que tienes detrás tú algunos que han
+
+[00:44:03.000] caído disparados, han escuchado e eh eso
+
+[00:44:07.079] que has estado clamando por la justicia,
+
+[00:44:09.680] ¿sabes? Por la bondad, ¿sabes? por toda
+
+[00:44:11.319] esa gente y ves que están los piratas
+
+[00:44:13.240] ahí, que están un poco desmotivados,
+
+[00:44:14.520] empiezan a escucharte, se empiezan a
+
+[00:44:16.280] vomitar y empiezan
+
+[00:44:18.440] ahí por el saqueo, por el esclavismo y
+
+[00:44:22.880] empiezan a correr hacia ahí. Ah, y
+
+[00:44:24.839] empiezan a ir hacia ellos. Son piratas,
+
+[00:44:29.155] [risas]
+
+[00:44:30.280] ¿vale? Y es que pues los motivas, os voy
+
+[00:44:33.280] a poner, os voy a poner esto, ¿vale?
+
+[00:44:35.920] Pero para para ir haciendo turnos,
+
+[00:44:38.000] ¿vale? Pero vosotros no os rayéis. O
+
+[00:44:39.880] sea, hacer tirada de esto y ya está,
+
+[00:44:42.960] o sea, de iniciativas, pero es
+
+[00:44:44.520] simplemente por por lo leo.
+
+[00:44:46.680] La recibo. Pues
+
+[00:44:48.559] sí, dale tir haz una tirada de
+
+[00:44:50.640] iniciativa normal y ya está con el en el
+
+[00:44:52.520] chat arriba, el carrusel de arriba, si
+
+[00:44:54.119] le das a tu retrato.
+
+[00:44:56.040] Ah, sí, ya, ya.
+
+[00:44:57.839] Perfecto.
+
+[00:44:59.079] Y nada, era simplemente para hacer eso.
+
+[00:45:00.720] Y mira, pues ves que hacéis todo eso,
+
+[00:45:03.520] incluso Mole, ¿sabes? Sonría la pequeña,
+
+[00:45:06.280] vea eso, esa gran explosión.
+
+[00:45:09.319] Mira a la niña así de reojo, te mira a
+
+[00:45:11.359] ti, Elianor y dice, "Vaya, parece que
+
+[00:45:14.720] esconde [música] muchas cosas esa
+
+[00:45:16.000] pequeña."
+
+[00:45:17.760] Y ves que
+
+[00:45:18.240] mejor no no la
+
+[00:45:20.000] carga la pistola y dice, "Vamos a
+
+[00:45:21.920] demostrar los que somos." [música] Y ves
+
+[00:45:23.520] que empieza también a cargar. Voy a
+
+[00:45:25.520] mover estos.
+
+[00:45:27.640] Vale, como van cargando. Ya está.
+
+[00:45:36.480] Y
+
+[00:45:38.480] nos vamos a ir a
+
+[00:45:41.480] a esa jungla otra vez
+
+[00:45:45.319] donde vemos a mamá.
+
+[00:45:49.240] ¿Estás
+
+[00:45:55.240] mamá?
+
+[00:45:57.480] Estáis de camino y Luna. Vais a toda
+
+[00:46:00.960] prisa, bueno, todo lo rápido que puede
+
+[00:46:02.559] ir un oso, ¿sabes? Atravesando la
+
+[00:46:04.800] jungla, yendo con el pobre detrás,
+
+[00:46:07.359] ¿sabes? Que se va, estaría lleno de
+
+[00:46:09.200] lianas, de hojas en la cara, de alguna
+
+[00:46:11.119] rama, ¿sabes? El pobre, ¿sabes? que va
+
+[00:46:12.720] arrastrando
+
+[00:46:14.440] y aún estáis un poco lejos de
+
+[00:46:19.079] de Siaru,
+
+[00:46:22.760] pero
+
+[00:46:24.400] escucháis
+
+[00:46:25.960] ruidos atronadores,
+
+[00:46:28.400] incluso desde lejos.
+
+[00:46:31.240] Tú, mamá, que vas ahí más alta que que
+
+[00:46:34.359] Luna, a lo lejos,
+
+[00:46:37.839] hacia la costa, hacia el este, sí, hacia
+
+[00:46:40.559] el este,
+
+[00:46:42.240] verías ahí encima del mar como unas
+
+[00:46:46.440] grandes nubes negras empiezan a formarse
+
+[00:46:50.640] y a crear una tormenta en el cielo.
+
+[00:46:55.960] Y ves que eso te eriza la piel. ¿Sabes
+
+[00:47:01.160] que va a pasar algo?
+
+[00:47:05.047] [risas]
+
+[00:47:09.000] Me me acerco al oído de Luna. Vamos, mi
+
+[00:47:12.160] niña, vamos. Estamos muy cerca. Vamos.
+
+[00:47:15.119] Tú tú puedes. Corre, corre.
+
+[00:47:21.800] Apuro el paso y cada cierto tiempo pego
+
+[00:47:24.000] un tirón
+
+[00:47:26.520] a la cuerda, así como para que para que
+
+[00:47:28.520] pegue un par de rebotes,
+
+[00:47:30.240] ¿vale? [risas]
+
+[00:47:31.160] El [ __ ]
+
+[00:47:32.359] para que aprenda a volar.
+
+[00:47:34.400] Claro, para que aprenda a volar. Sí, sí,
+
+[00:47:35.880] sí. Es la idea.
+
+[00:47:37.079] Vale, [risas]
+
+[00:47:38.559] pues nada, veis que pues empezáis y ya
+
+[00:47:41.559] empezáis a ir hacia toda la velocidad,
+
+[00:47:43.319] hacia la costa, hacia lo más rápido que
+
+[00:47:45.839] podéis. y
+
+[00:47:48.720] nos vemos al combate.
+
+[00:47:51.640] Uy, me saltan las malditas músicas
+
+[00:47:53.599] estas, pero bueno, es cosa
+
+[00:47:59.839] tenía una cosa puesta aquí
+
+[00:48:03.520] que si tienen las músicas puestas en el
+
+[00:48:05.760] en la escena,
+
+[00:48:06.680] sí,
+
+[00:48:08.240] se superponen a la otra que hayas
+
+[00:48:10.280] puesto.
+
+[00:48:10.839] Por eso voy a poner efectos como si
+
+[00:48:13.960] estuvierais en combate y nada. ¿Veis que
+
+[00:48:18.839] la lucha sigue por ahí? Escuchar esos
+
+[00:48:20.920] disparados, esos gritos y él vosotros
+
+[00:48:24.400] también lo notáis.
+
+[00:48:27.440] Llega un momento que que
+
+[00:48:29.880] hay esa lluvia fina, ¿sabes? Un poco,
+
+[00:48:33.880] ¿sabes? No mucha eso como que o acaba de
+
+[00:48:37.440] empezar a llover o está acabando de
+
+[00:48:39.079] llover esa pequeña lluvia y a la que
+
+[00:48:41.520] miráis el cielo y miráis hacia hacia el
+
+[00:48:43.880] mar veis esas nubes enormes que empiezan
+
+[00:48:47.720] a formarse, esas nubes creadas por el
+
+[00:48:50.160] poder de una de las reinas piratas. Y
+
+[00:48:53.200] veis que esa tormenta empieza a formarse
+
+[00:48:56.000] encima del mar.
+
+[00:48:58.240] Así que
+
+[00:49:00.720] miráis hacia delante y veis a, bueno,
+
+[00:49:03.400] todos esos piratas en llamas chamuscados
+
+[00:49:05.440] en el suelo, pero veis que los los otros
+
+[00:49:07.880] capines dicen, "No podemos rendirnos los
+
+[00:49:11.359] cañones." Y veis que van a empezar a
+
+[00:49:13.880] disparar los cañones.
+
+[00:49:18.559] Esto también lo haré al esto, ¿eh?
+
+[00:49:22.040] Es que si pongo mucha gente hacer un
+
+[00:49:24.079] combate tardamos tres días.
+
+[00:49:27.520] Vale, pues veis que dispara con esos
+
+[00:49:30.520] esas grandes cañones que empiezan a a
+
+[00:49:32.880] caer por encima de los
+
+[00:49:35.520] de todos los piratas y
+
+[00:49:38.680] Erandy Eleanor hacerme una tirada de
+
+[00:49:41.119] salvación y Elanor si te pones detrás
+
+[00:49:43.400] del escudo
+
+[00:49:45.480] hay constitución.
+
+[00:49:50.640] Vamos a hacer también a Molly.
+
+[00:49:54.440] Tirar esa ración destreza.
+
+[00:49:56.960] Uy, esta vez sí es que salió buena.
+
+[00:49:58.799] Venga, ahí ojo y bonit también. Vamos
+
+[00:50:01.359] ahí.
+
+[00:50:03.680] Vale, pues veis que empiezan a a caer
+
+[00:50:05.880] esos cañones, empiezan a a chocaros y
+
+[00:50:09.880] nada, veis que recibirás nada, 15
+
+[00:50:12.760] puntitos de daño tú, eh, Erandy. Es que
+
+[00:50:16.200] las explosiones pues quizá te un poco de
+
+[00:50:18.119] esa metralla te golpea encima. Vale, eh,
+
+[00:50:22.119] son 15.
+
+[00:50:24.040] Veis que a Molly pues también le cae
+
+[00:50:26.400] encima de esa metrae que intenta pasar
+
+[00:50:28.119] por donde puede y
+
+[00:50:31.559] Eleanor, tú te pones detrás del escudo,
+
+[00:50:35.079] ves que cae justo una una bala de cañón
+
+[00:50:37.359] justo delante tuyo y ves que con el
+
+[00:50:39.079] escudo pues lo bloqueas un poco, pero
+
+[00:50:40.920] ves que te tira hacia atrás un poco, que
+
+[00:50:42.640] sales disparado un poco hacia atrás,
+
+[00:50:44.400] ¿sabes? Ahí con el escudo protegiéndote
+
+[00:50:47.079] y vas a recibir
+
+[00:50:49.839] pues 33 de daño, ¿vale? que te tiras un
+
+[00:50:53.200] poco hacia atrás, ¿sabes? Como que te
+
+[00:50:55.079] empujabra un poco esos cañones
+
+[00:50:58.599] y
+
+[00:51:00.359] Andy,
+
+[00:51:03.440] ¿ves que
+
+[00:51:04.000] perdón, te tengo que tirar la
+
+[00:51:07.079] eh no no te preocupes, no no me tires la
+
+[00:51:10.760] quiero ver, déjame ver la
+
+[00:51:12.839] Sí, lo que quiero que os flipéis en este
+
+[00:51:14.559] combatento,
+
+[00:51:15.799] sí, sí, sí. No, no, no. ¿Por qué me voy
+
+[00:51:17.400] para allá? Oye,
+
+[00:51:19.240] traición. [risas]
+
+[00:51:20.559] Erandy traiciona a Eleanor. Toma plot
+
+[00:51:23.079] twist.
+
+[00:51:28.839] Tratar las reglas. [risas]
+
+[00:51:32.559] Quiero ir a ver, quiero ir a ver el
+
+[00:51:33.760] fuego más de cerca.
+
+[00:51:35.559] La idea es [risas] la idea es tirar bola
+
+[00:51:37.920] de fuego, no ser la bola de fuego.
+
+[00:51:40.720] Vale, pues qué quieres hacer
+
+[00:51:44.079] otra, pero quería ver si podía tratar de
+
+[00:51:46.760] darle a los cañones. [risas]
+
+[00:51:48.680] Sí, claro. O sea, llegas perfectamente a
+
+[00:51:51.440] los puedo agarrar la la
+
+[00:51:56.319] llegas a los cañones, llegas
+
+[00:51:57.680] perfectamente
+
+[00:51:59.680] aquí más o menos.
+
+[00:52:01.559] Sí, yo creo no veo el template, pero tú
+
+[00:52:03.240] ponlo que ahí yo veo. Ahí sí, ponlo ahí.
+
+[00:52:11.559] Ahí tú
+
+[00:52:14.680] hijo [ __ ]
+
+[00:52:16.079] Con quitarnos con quitarnos a los
+
+[00:52:17.760] caballos, que para mí es el problema, es
+
+[00:52:20.520] que los caballos corren y pegan y lo
+
+[00:52:22.880] peor es que te tiran al suelo. Espero
+
+[00:52:24.079] que un perro.
+
+[00:52:25.240] Vale. Eh, uy, esto que se habrá petado
+
+[00:52:28.440] con tanta [ __ ] Ah, no,
+
+[00:52:33.319] no sé qué ha pasado.
+
+[00:52:35.400] Tiene que si tiró el daño reciente va a
+
+[00:52:38.440] hacer las tiradas.
+
+[00:52:39.400] Sí, acaba de hacer las tiradas, pero
+
+[00:52:41.040] creo que cuando tira tantas tiradas a
+
+[00:52:42.599] veces se peta, se vuelve un poco loco,
+
+[00:52:44.440] ¿eh?
+
+[00:52:47.240] Vale, voy a hacer así. Listo. Vale, veis
+
+[00:52:49.680] que pues otra bola de fuego de Andy.
+
+[00:52:53.160] Veis que va directa contra esos
+
+[00:52:55.160] batallones de de marines que estaban un
+
+[00:52:57.799] poco postrados, ¿sabes? aguantando las
+
+[00:52:59.520] órdenes de los capitanes, ¿vale? Que
+
+[00:53:01.200] estaban viendo como los piratas estaban
+
+[00:53:02.680] viniendo y estaban aguantando después de
+
+[00:53:04.400] recibir esa bola de fuego. Y veis que
+
+[00:53:06.520] cuando van a avanzar ven otra vez esa
+
+[00:53:09.240] bola de fuego de Andy que sale de sus
+
+[00:53:11.680] manos contra ellos y veis que el gran
+
+[00:53:14.000] batallón que había pues sale por los
+
+[00:53:15.720] aires volando. Veis algunos hombres con
+
+[00:53:17.799] el rifle también, ves algunos piezas de
+
+[00:53:20.480] cañón dando vueltas, ¿sabes? Cayendo por
+
+[00:53:22.680] la jungla. Incluso algunos caballos de
+
+[00:53:26.280] los generales pues explotan, salen,
+
+[00:53:28.599] salen en llamas y el general pues se cae
+
+[00:53:30.200] al suelo y veis toda esa gran explosión.
+
+[00:53:34.880] Y voy a decir una cosa, porque no os
+
+[00:53:36.200] preocupéis, ¿eh? Imaginaos que van
+
+[00:53:38.839] viniendo, ¿eh? Yo esto lo hago para
+
+[00:53:42.000] para que vengan tropas,
+
+[00:53:43.200] sí, para que vayan Imaginaos que no es
+
+[00:53:45.000] que sea una tropa, sino que aquí hay 20
+
+[00:53:47.079] personas en cada token, ¿sabes?
+
+[00:53:48.880] Pelotones. Exacto.
+
+[00:53:51.720] Vale,
+
+[00:53:53.520] o sea, los pongo full vida, pero
+
+[00:53:54.720] vosotros no os preocupéis por la vida de
+
+[00:53:56.319] de estos que no pasa.
+
+[00:53:58.000] Sí, sí, sí.
+
+[00:53:59.440] Y nada, pues
+
+[00:54:01.680] veis que pues Molly igual Molly pues
+
+[00:54:05.280] seguiría, uy, no tengo Molly seguiría
+
+[00:54:07.680] avanzando, ¿sabes? como pudiera
+
+[00:54:10.400] empezaría a disparar alguno de esos
+
+[00:54:12.920] alguno de esos piratas, moriría algún
+
+[00:54:14.920] perro de camino, los pobres, y
+
+[00:54:17.480] intentaría defender algunos mientras su
+
+[00:54:19.440] los camaradas piratas pues van junto a
+
+[00:54:21.680] ella,
+
+[00:54:23.640] ¿sabes? Y van disparando contra todo
+
+[00:54:26.480] marine posible.
+
+[00:54:29.559] Vengo un poco más y ya está.
+
+[00:54:33.400] Y Eliano,
+
+[00:54:35.400] acabas de ser empujada un poco hacia
+
+[00:54:37.079] atrás, ¿sabes? por ese esos cañones
+
+[00:54:40.520] y ves como todos los piratas como ya
+
+[00:54:42.640] están hacia delante de ti.
+
+[00:54:45.240] Se han tirado antes.
+
+[00:54:46.400] Eh, sí. Lo que voy a hacer es clavar el
+
+[00:54:50.319] escudo delante de Andy por si quieren
+
+[00:54:52.240] disparar que tenga cobertura
+
+[00:54:53.839] y voy a correr hacia adelante.
+
+[00:54:55.119] V. Vale. Oh, me gusta.
+
+[00:54:59.480] Eh, no me dejas mi toque. Ah, porque
+
+[00:55:01.200] tengo la
+
+[00:55:04.079] Pues voy a usar a mí.
+
+[00:55:07.359] Voy a usar la acción para correr. Vale,
+
+[00:55:09.000] vale. Sí, sí.
+
+[00:55:11.160] Te llevas a Erandy,
+
+[00:55:13.240] ¿eh? No, le dejo el escudo delante de
+
+[00:55:14.960] ella para que puedo usarla como
+
+[00:55:15.880] cobertura.
+
+[00:55:16.640] Vale, perfecto.
+
+[00:55:17.440] O sea, lo como el típico golpe fuerte
+
+[00:55:19.359] hacia el suelo para que se quede de pie.
+
+[00:55:20.799] Vale, sí, como una torre. Vale,
+
+[00:55:21.839] perfecto. Sí, me gusta, me mola. Y el
+
+[00:55:23.440] Andy detrás. Vale, perfecto. Me mola.
+
+[00:55:26.240] Vale, pues nada, pues hares corriendo a
+
+[00:55:29.480] toda prisa, que ves que Moni te ve,
+
+[00:55:31.280] ¿sabes? que te ve sin el escudo, mira
+
+[00:55:33.000] hacia atrás y como le sale una pequeña
+
+[00:55:35.280] sonrisita y nada, empieza a cargar junto
+
+[00:55:37.720] a ti. Y ahora nos iremos
+
+[00:55:42.480] por aquí cerca
+
+[00:55:45.760] porque veis como
+
+[00:55:49.000] esa esa jugla
+
+[00:55:51.480] donde habían trampas y algunas espinas,
+
+[00:55:55.079] algún que otro gancho, veis como
+
+[00:55:58.359] empiezan a saltar. Clic, clic, [música]
+
+[00:56:01.200] clic, clic, van saltando esas trampas,
+
+[00:56:04.960] van saltando dardos que habían
+
+[00:56:06.319] dispuesto, pues algunas palancas que se
+
+[00:56:08.119] levantan intentando clavar algo. Y
+
+[00:56:11.640] podríamos ver
+
+[00:56:14.720] dónde está aquí.
+
+[00:56:17.920] Alguien más salir de de ahí.
+
+[00:56:25.520] Y el pollo también, ¿eh? que lo lleváis
+
+[00:56:27.599] saltado. [risas]
+
+[00:56:29.520] El pollito pío. El pollito pío.
+
+[00:56:33.039] Vale, podéis tirar iniciativa si
+
+[00:56:34.319] queréis. Luna
+
+[00:56:38.799] y
+
+[00:56:41.400] ¿cómo queréis cómo queréis hacer la
+
+[00:56:42.799] entrada?
+
+[00:56:46.559] O si veo si veo un grupo de gente y voy
+
+[00:56:50.000] con el pollo así, lo que voy a intentar
+
+[00:56:52.559] es [risas]
+
+[00:56:55.200] es hacer así a lo más Pokémon
+
+[00:56:58.839] con para tirarles el pollo encima.
+
+[00:57:01.960] ¿Por qué? [risas]
+
+[00:57:04.079] Al pollito. Vale. Sí, sí.
+
+[00:57:06.559] Vamos a hacer, vamos a poner como si
+
+[00:57:07.839] hubiese
+
+[00:57:09.619] [risas]
+
+[00:57:11.520] por favor pon mientras está en el aire.
+
+[00:57:14.280] Haz alguna prueba para que para ver si
+
+[00:57:15.680] puede volar el pollo.
+
+[00:57:16.680] Pollito, yo te elijo.
+
+[00:57:20.200] Vale.
+
+[00:57:21.559] Pues me gusta. Vas a lanzar tu mamá pesa
+
+[00:57:24.400] el pollo que hace y sale.
+
+[00:57:27.640] ¿Quieres decirle algo a Echil mientras
+
+[00:57:29.280] está en el aire?
+
+[00:57:31.280] Le le lanzo el silvido de ataque.
+
+[00:57:35.200] El silvido de ataque. Venga, ¿dónde
+
+[00:57:36.839] estáil? Etil, no me falles, ¿vale? Etil,
+
+[00:57:40.599] sabemos que eres eres un poco cortito,
+
+[00:57:42.720] pero no me falles. Échil,
+
+[00:57:45.799] imagino.
+
+[00:57:48.720] Bueno, a ver, un nueve no está mal,
+
+[00:57:50.680] ¿sabes? Teniendo un menos cu,
+
+[00:57:53.839] pues veis que el va a salir volando, o
+
+[00:57:56.720] sea, va a salir así. Veis que
+
+[00:57:59.799] empieza a mover las alitas, ¿sabes? Para
+
+[00:58:02.839] intentarse aprender a volar.
+
+[00:58:06.119] que veis que un momento empieza a
+
+[00:58:07.440] agitarlas muy rápido, que le vemos como
+
+[00:58:10.280] el aire le empieza a venir la cara,
+
+[00:58:13.240] vemos esa escena pues de eran de que ya
+
+[00:58:15.880] se cree volando, pero en verdad está
+
+[00:58:17.760] cayendo porque no está volando, pero
+
+[00:58:20.520] veis como cae encima de de esos marines
+
+[00:58:24.359] y con el aviso de de su madre, ese
+
+[00:58:27.680] silvido de ataque, veis que pues cae
+
+[00:58:31.119] como un pico hacia un batallón, ¿sabes?
+
+[00:58:33.799] Y veis como hace y empieza como a
+
+[00:58:36.400] reventar a varios batallones que empieza
+
+[00:58:37.760] a hacer un agujero, ¿sabes? Y veis como
+
+[00:58:40.039] pues acaba con unos cuantos de estos
+
+[00:58:42.079] marines que quizá veríais pues como la
+
+[00:58:43.799] parte central,
+
+[00:58:45.839] ¿sabes? Totalmente que han salido
+
+[00:58:47.240] volando y veis a a Erendy que ha caído
+
+[00:58:50.319] ahí encima.
+
+[00:58:52.160] ha hecho un pentakill básicamente.
+
+[00:58:55.075] [risas] Es
+
+[00:58:59.119] ese es mi muchacho.
+
+[00:59:01.520] Y nada, veríais eso, que la marina ve
+
+[00:59:03.720] pues cómo cae ese ese pájaro, esa bola
+
+[00:59:05.920] de fuego que que ha caído antes. ¿Veis
+
+[00:59:08.559] que esa formación que tenían, sobre todo
+
+[00:59:11.920] tú lo ves en Eleanor que estás
+
+[00:59:14.720] acostumbrada a los ejércitos todos?
+
+[00:59:17.119] ¿Veis que empieza a flaquear esos
+
+[00:59:20.400] fusileros que están totalmente ergidos?
+
+[00:59:22.599] Así veis que después de la bola, de las
+
+[00:59:24.599] bolas de fuego, de sus generales que no
+
+[00:59:26.319] les impidieran moverse y después de que
+
+[00:59:28.760] un pájaro enorme siendo bebé cayera
+
+[00:59:31.520] encima de ellos, ves que como empiezan a
+
+[00:59:34.720] moverse un poco para atrás. Algunos
+
+[00:59:36.319] empiezan a dejar la formación hacia un
+
+[00:59:37.880] lado y empiezas a notar eso, que
+
+[00:59:43.440] están empezando a flaar.
+
+[00:59:46.240] Ves que tanto
+
+[00:59:48.640] ataque directo masivo contra ellos ha
+
+[00:59:51.319] sido bastante devastador.
+
+[00:59:56.039] Y mam, ¿qué quieres hacer?
+
+[01:00:00.480] Imagínate esta situación.
+
+[01:00:02.920] Sale el pollo volando, un oso saliendo
+
+[01:00:06.200] de de este de entre la maleza
+
+[01:00:09.680] y una señora con tremendo arco ya
+
+[01:00:11.720] apuntando
+
+[01:00:13.920] y al primero que vean le vale madre ya
+
+[01:00:17.359] está harta. A ver, vamos a ver qué a a
+
+[01:00:21.680] quién estaría bien. Ah, mira, este está
+
+[01:00:25.200] más cerquita.
+
+[01:00:27.559] Le voy a lanzar tremendo flechazo.
+
+[01:00:31.920] Mamá, estás molesta. Para gata mejor.
+
+[01:00:34.599] No,
+
+[01:00:35.720] espérate.
+
+[01:00:36.839] Vale,
+
+[01:00:37.480] tú tranquilo.
+
+[01:00:45.599] Entonces puedes pueden ver una flecha
+
+[01:00:48.359] yendo con una furia y se se este se
+
+[01:00:52.599] aclava en uno de los marines. Ah.
+
+[01:00:56.119] casi tirándose a al suelo
+
+[01:01:00.319] y pues ya la señora ya está ya está
+
+[01:01:02.839] molesta, ya está harta, se baja
+
+[01:01:06.559] este
+
+[01:01:08.520] su siguiente movimiento dependiendo ya
+
+[01:01:10.359] va a bajar del oso y ya va a ir directo
+
+[01:01:13.440] a a ataques a lanzar. Ya, ya, ya está
+
+[01:01:17.359] cansada. Quiere ver a Nox.
+
+[01:01:19.599] Saca las alpargatas,
+
+[01:01:21.280] ¿no? Ah, exacto. Buah, [risas]
+
+[01:01:24.640] ya lista.
+
+[01:01:25.839] Hace así, hace así, baja y hace, se
+
+[01:01:28.559] descalza.
+
+[01:01:29.160] Espérate.
+
+[01:01:29.760] Las coge y dice, "Venga,
+
+[01:01:31.240] no, aguanta. No, no, no, no se descalza.
+
+[01:01:33.559] Estas ya las ya las trae preparadas en
+
+[01:01:35.200] la falda.
+
+[01:01:35.960] A ver,
+
+[01:01:36.960] las trae colgando
+
+[01:01:37.680] como si fuera Kratos.
+
+[01:01:39.160] Claro, es [risas] Kratos. Es mamá
+
+[01:01:42.079] Kratos.
+
+[01:01:43.680] Gracias.
+
+[01:01:46.160] Vale, pues te tiro para adelante, ¿eh?
+
+[01:01:48.039] Para que empieces a ¿Cómo entras al
+
+[01:01:49.880] batallón pirata? Flípate.
+
+[01:01:52.160] Ayer un gole empezó a dar vueltas con
+
+[01:01:53.799] una cadena y con con cipo. ¿Cómo quieres
+
+[01:01:56.039] entrar?
+
+[01:01:58.520] Siendo que ya está un poquito más joven
+
+[01:02:00.480] de como estaba al inicio de la de las de
+
+[01:02:03.599] aquí de estas partidas, obviamente la
+
+[01:02:06.079] velocidad ya aumentó, así que tanto la
+
+[01:02:09.200] euforia y el enojo, obviamente ya va a
+
+[01:02:12.480] correr la señora, ya le va le va a dar
+
+[01:02:14.319] igual si le truenan las rodillas, va a
+
+[01:02:16.760] correr directamente hacia los marines y
+
+[01:02:18.760] va a empezar a a repartir este
+
+[01:02:20.720] chanclazos,
+
+[01:02:22.039] ¿vale? Y pues nada,
+
+[01:02:25.359] el Andy,
+
+[01:02:27.799] mientras estabas en ese combate
+
+[01:02:30.240] te ha puesto Elanor, tu señora, ese
+
+[01:02:32.160] escudo delante, estás ahí protegida y a
+
+[01:02:34.599] la que echas un ojito para mirar,
+
+[01:02:37.640] verías como eso de la jungla sale un
+
+[01:02:41.359] enorme oso con una señora mayor encima y
+
+[01:02:44.839] como lanzan un lo que parece un bebé de
+
+[01:02:47.599] un dinosaurio contra el grupo y después
+
+[01:02:50.319] la señora baja.
+
+[01:02:52.680] superrápido con la ciudad que no te
+
+[01:02:54.400] esperabas de ella y empieza a repartir
+
+[01:02:57.200] chanclazos a toda la marina como puede.
+
+[01:03:02.599] Yo no sé si me lo puedas comprar, pero
+
+[01:03:06.039] de normal Erandy
+
+[01:03:08.839] e
+
+[01:03:10.520] está consciente y usa el poder del fuego
+
+[01:03:15.119] o de la luz del sol de un modo que es
+
+[01:03:19.160] controlado, pero ahora que está sacando
+
+[01:03:22.200] todo su poder, ella está en un estado
+
+[01:03:25.680] tan entrance y tan abrazado por el sol
+
+[01:03:29.599] que realmente no está ahí, está
+
+[01:03:33.160] Vale,
+
+[01:03:33.680] ella tener, ella no ha no ha
+
+[01:03:36.160] concientizado el momento que le han
+
+[01:03:37.680] colocado el escudo al frente, el salto,
+
+[01:03:40.599] el pájaro, ella está eh como disociando.
+
+[01:03:45.880] Entonces, quien está allí es más la
+
+[01:03:49.119] presencia del sol que ella misma. Así
+
+[01:03:52.440] que ella lo que hace es que de manera eh
+
+[01:03:57.720] inconsciente.
+
+[01:04:01.200] No puedo moverme porque no estoy
+
+[01:04:02.920] haciendo esto bien. Okay, ahora sí va
+
+[01:04:05.400] movilizándose
+
+[01:04:08.760] más o menos. Aquí es cuántos me había
+
+[01:04:10.880] movido como ya son los 30. Es que no
+
+[01:04:12.720] pude leer bien. Estaba chiquito.
+
+[01:04:13.920] Sí. ¿Qué? Tú dime qué quieres hacer.
+
+[01:04:16.799] Va. Yo estoy más o menos por aquí. Voy a
+
+[01:04:19.160] colocar mejor por acá.
+
+[01:04:21.760] Estoy visualizando
+
+[01:04:24.480] a lo que tengo que es el enemigo.
+
+[01:04:30.400] toma una bocanada de aire
+
+[01:04:33.319] y teniendo una voz profunda,
+
+[01:04:36.839] casi que no es ella, sino que se siente
+
+[01:04:41.079] lejana, como distante, va concentrando
+
+[01:04:46.000] esa energía del sol, un poco como la
+
+[01:04:47.760] bruja escarlata,
+
+[01:04:49.839] y les dice
+
+[01:04:53.160] que se quemen, que se quemen todos con
+
+[01:04:56.559] la fuerza del sol, señor
+
+[01:05:00.200] Abrázalos,
+
+[01:05:02.000] muéstrales tu cantor,
+
+[01:05:04.319] hazle ver
+
+[01:05:06.520] quién quien clama la tierra y desea
+
+[01:05:10.240] purgarla,
+
+[01:05:12.359] solo recibirá el castigo del fuego.
+
+[01:05:18.200] Lanzo otra bola. Vale,
+
+[01:05:19.960] que no sé por qué me está haciendo esta
+
+[01:05:21.319] vaina, pero
+
+[01:05:23.400] eh ahora sí lo voy a lanzar más o menos
+
+[01:05:28.760] por aquí.
+
+[01:05:33.920] Caigan, caigan todos con la fuerza del
+
+[01:05:37.000] fuego.
+
+[01:05:38.520] El señor les mostrará sua. Incapescente.
+
+[01:05:44.520] El pollo. Pollo rotizado.
+
+[01:05:46.400] El pollo. [risas] Me imagino que lo
+
+[01:05:47.760] habría tirado aquí.
+
+[01:05:51.039] Que se me muere, que se lía parda se
+
+[01:05:53.279] muere el pollo.
+
+[01:05:56.900] [risas]
+
+[01:05:59.400] Perdón.
+
+[01:06:00.240] Tranqui, tranqui, no pase nada. Pues
+
+[01:06:04.599] Andy, lo mismo. ¿Ves eso que sí? estás
+
+[01:06:06.520] totalmente fuera de ti. Es como todo ese
+
+[01:06:09.520] fuego saliera de ti contra contra toda
+
+[01:06:12.680] esa marina que veis que es como esta vez
+
+[01:06:15.000] como un grito, como ese sonido de tu voz
+
+[01:06:18.319] que atraviesa pues casi todos los
+
+[01:06:20.400] marines de por aquí y veis que cuando
+
+[01:06:22.039] llega junto a los generales veis que
+
+[01:06:24.640] como una pequeña bola se junta y en ese
+
+[01:06:27.160] momento estalla y veis como los algunos
+
+[01:06:29.720] generales salen volando, ¿sabes? Caen la
+
+[01:06:31.920] jungla medio muertos. Los caballos
+
+[01:06:33.960] también empiezan a gritar y empiezan a
+
+[01:06:35.359] salir corriendo. Y veis en ese momento
+
+[01:06:37.839] cuando veis a a la ya los marines que
+
+[01:06:40.799] ven a sus generales también sufrir,
+
+[01:06:43.000] empiezan a moverse
+
+[01:06:45.640] por los caminos, ¿sabes? Y empiezan a a
+
+[01:06:47.680] disociar un poco, ¿sabes? Separándose un
+
+[01:06:49.960] poco el caos de la batalla. esa esa
+
+[01:06:52.119] señora mayor que acaba de llegar aquí
+
+[01:06:53.799] empieza a repartir hostias, pues venus
+
+[01:06:56.839] un caos bastante descontrolado y veis
+
+[01:07:01.160] que eso [música] pues hace flaquear su
+
+[01:07:03.200] formación.
+
+[01:07:04.880] Así que
+
+[01:07:07.760] Luna,
+
+[01:07:09.400] ¿tú qué vas a hacer?
+
+[01:07:13.319] Luna acaba de escuchar un grito de
+
+[01:07:15.839] abrazar y no entiende que es por quemar.
+
+[01:07:19.440] Así que el oso pega un rugido
+
+[01:07:23.400] y y empieza a hacer carrera
+
+[01:07:26.720] pasando por encima directamente de ese
+
+[01:07:30.079] que está ahí,
+
+[01:07:31.039] ¿vale?
+
+[01:07:32.079] y y y porque quiere ir hasta donde está
+
+[01:07:35.000] el cañón para prácticamente tomarlo y
+
+[01:07:40.160] como
+
+[01:07:41.839] como batear a todo lo que hace hacer un
+
+[01:07:45.839] es que lo está tomando bruto, lo va a
+
+[01:07:47.799] tomar
+
+[01:07:48.559] y como arrasar con todo lo que pueda.
+
+[01:07:50.920] Vale, con el cañón.
+
+[01:07:52.880] Sí, con el cañón.
+
+[01:07:53.839] Vale,
+
+[01:07:55.839] hazme, vamos a ver si sale bien esto.
+
+[01:07:58.920] Hazme una tirada de juego de manos.
+
+[01:08:12.487] [risas]
+
+[01:08:14.000] Vale, pues voy a hacer esto, que es lo
+
+[01:08:16.839] que lo que quería hacer. Ahora verás,
+
+[01:08:20.480] ¿vale?
+
+[01:08:20.799] A morirse su [ __ ] madre.
+
+[01:08:23.480] ¿Veis que ves que pues empiezas a a
+
+[01:08:26.719] mover el cañón, ¿sabes? [ __ ] qué poco
+
+[01:08:29.960] daño. Ves que empiezas a mover el cañón,
+
+[01:08:31.679] ¿sabes? Golpeando a tus marines que ves
+
+[01:08:33.080] que empiezan a a volar por los ailes y
+
+[01:08:35.080] en uno de esos momentos, movimiento, que
+
+[01:08:36.560] el cañón pues como está hacia abajo,
+
+[01:08:39.359] simplemente se escucha a un
+
+[01:08:42.560] y de repente pues explota, ves que te
+
+[01:08:46.080] golpea un poco haciéndote pues esos
+
+[01:08:47.960] pequeños nu nueve golpes y puntos de
+
+[01:08:50.040] daño, pero ves que es como un torpedo, o
+
+[01:08:52.359] sea, eres volando hacia arriba, ¿vale? O
+
+[01:08:54.920] sea, eres eres un oso ahora en el aire
+
+[01:08:57.000] con un cañón. Vale, ya salido hacia
+
+[01:08:59.000] arriba, ¿sabes? Despedido.
+
+[01:09:00.880] Ah, perfecto.
+
+[01:09:01.880] Vale,
+
+[01:09:03.759] vale. Te voy a dejar, si quieres un rato
+
+[01:09:05.080] en el aire por si quieres hacer algo al
+
+[01:09:06.560] próximo.
+
+[01:09:08.000] Sí. Tratar de caer sobre alguno de los
+
+[01:09:10.127] [risas]
+
+[01:09:10.960] de los de los tipos así.
+
+[01:09:13.319] Vale,
+
+[01:09:14.199] usarlo de
+
+[01:09:15.520] Claro,
+
+[01:09:16.080] claro, claro.
+
+[01:09:17.759] Vale. Pues pero que vas a salir volando
+
+[01:09:19.319] y pum, que es encima de un montón de
+
+[01:09:21.000] marines, ¿sabes? que los tienes debajo
+
+[01:09:22.719] que están ah inando de salir
+
+[01:09:25.679] y y rugirle al pollo como para que me
+
+[01:09:28.759] entienda que así se vuela. [risas]
+
+[01:09:34.159] Aprende así como aprende [risas]
+
+[01:09:37.359] así se vuela.
+
+[01:09:38.799] ¿Ves que el pollo te mira como la dea la
+
+[01:09:40.159] cabeza y mira mira el cañón? No le deis
+
+[01:09:42.960] ideas al pollo.
+
+[01:09:46.152] [risas]
+
+[01:09:48.000] Y nada, pues veríais que nada, los
+
+[01:09:50.199] piratas empiezan a a entrar y veis que
+
+[01:09:53.520] ya llega Molly y alguno de otros piratas
+
+[01:09:56.719] y se unen a esa señora y a ese oso con
+
+[01:10:01.760] cañón, ¿sabes?, al combate
+
+[01:10:06.440] y veis que vais empezando a llegar todos
+
+[01:10:08.360] como pueden.
+
+[01:10:10.920] Voy a poner por aquí más o menos. Ya
+
+[01:10:12.239] está.
+
+[01:10:13.800] Y
+
+[01:10:15.320] el
+
+[01:10:17.760] ves ya la batalla enfrascada la gente
+
+[01:10:19.880] pues golpes por aquí, espadas, duelos de
+
+[01:10:22.800] espadas típicos de piratas, ¿sabes? que
+
+[01:10:24.520] acaban siempre con clin clin clin, un
+
+[01:10:26.520] disparo en la frente y muerto.
+
+[01:10:30.159] Eh, viendo que Eran se acercado, ¿vesom
+
+[01:10:33.120] quito el estandarte? Lo clavo.
+
+[01:10:35.960] No avances más de aquí.
+
+[01:10:38.560] La retaguardia es tu lugar. Voy a voy a
+
+[01:10:41.239] voltear hacia delante mientras avanzo
+
+[01:10:42.800] con el resto porque sigo moviendo los
+
+[01:10:45.159] caballos.
+
+[01:10:48.960] Eh,
+
+[01:10:50.880] por aquí para darle a para quitarnos ya
+
+[01:10:54.120] los carros, sobre todo. ¿Ves que cuando
+
+[01:10:55.880] llegas por ahí de repente cae un oso
+
+[01:10:57.760] enorme delante tuyo?
+
+[01:11:00.169] [risas]
+
+[01:11:03.960] Yo conozco a ese oso. [risas]
+
+[01:11:10.920] Ahora, ahora este es el momento. Su
+
+[01:11:12.920] formación se ha roto. Voy a mirar a
+
+[01:11:14.880] todos.
+
+[01:11:17.360] El miedo camina entre sus filas. A la
+
+[01:11:19.239] carga, hermanos.
+
+[01:11:21.440] Eh, con la misma espalda que ya tenía
+
+[01:11:23.400] cargada. Voy a dar un flash al perro.
+
+[01:11:25.280] Venga,
+
+[01:11:30.800] porque no me quiere abrir con la K
+
+[01:11:32.840] ahora. Su [ __ ] madre. Lo
+
+[01:11:34.880] le vais a amarrar un cañón al pájaro, al
+
+[01:11:36.760] pollo.
+
+[01:11:42.600] Era con ventaja, pero sí pega. Nada, le
+
+[01:11:45.560] pegas igual y nada, es que entras ahí en
+
+[01:11:48.560] elor, entras en el combate con la
+
+[01:11:50.239] espada, vas sin escudo, ¿no? Que la has
+
+[01:11:51.480] dejado atrás.
+
+[01:11:53.600] Entrase con la espada, pues ahí pues
+
+[01:11:55.639] cortando a todo marine que te pasa por
+
+[01:11:58.440] delante, avanzando en, bueno, pues en
+
+[01:12:01.320] toda ese ya ese revoltorio de gente
+
+[01:12:05.639] peleando unos con otros.
+
+[01:12:09.320] Sí,
+
+[01:12:11.000] espérate que tenía otro ataque.
+
+[01:12:12.480] Ah, dale, dale. Sí, sí, si quieres.
+
+[01:12:22.280] Ay,
+
+[01:12:29.920] y me gustaría utilizar el cadáver del
+
+[01:12:31.840] perro en lo que se va cayendo para
+
+[01:12:34.040] saltar y subirme encima de Luna.
+
+[01:12:37.040] Encima del oso. Vale, Luna, ¿te vas a
+
+[01:12:39.159] dejar?
+
+[01:12:41.280] Sí, claro.
+
+[01:12:42.080] Vale, pues perfecto. Pues entonces
+
+[01:12:43.440] vate que vate que volar conmigo con el
+
+[01:12:45.760] cañón después. [risas]
+
+[01:12:49.639] Esto es táctica. Espera,
+
+[01:12:51.880] mira, ayer ayer tuviste ataque marítimo,
+
+[01:12:55.000] hoy ataque aéreo.
+
+[01:12:55.920] Sí, esto no es, espero que tengas buenas
+
+[01:12:58.639] acrobacias porque si no te vas a dar una
+
+[01:13:00.159] buena [ __ ] [risas]
+
+[01:13:01.920] No solo, no solo no tengo buenas
+
+[01:13:03.280] acrobacias, sino que me voy a
+
+[01:13:04.840] transformar encima del [ __ ] oso para
+
+[01:13:06.360] infundir más miedo con el oso.
+
+[01:13:07.800] Oh, vale, vale, vale. Me mola. Vale,
+
+[01:13:10.199] pues nada, veríais que
+
+[01:13:13.000] los los piratas y todo y los marines
+
+[01:13:16.159] pues ya están bastante descontrolados.
+
+[01:13:17.560] ¿Veis algunos generales que empiezan,
+
+[01:13:19.120] idiotas, la formación?
+
+[01:13:21.639] acabar con ese maldito oso que es
+
+[01:13:23.480] simpleo y no podéis acabar con esa
+
+[01:13:25.880] señora que va con chanclas y veis a la
+
+[01:13:28.440] señora pues avanzando pues a todo trapo
+
+[01:13:31.520] por ese lugar.
+
+[01:13:34.760] Así que mamá, ¿qué quieres? Empieza
+
+[01:13:40.040] lo sabroso.
+
+[01:13:41.679] La señora recordando falda
+
+[01:13:45.440] se encuera,
+
+[01:13:47.196] [risas]
+
+[01:13:48.360] ¿no? Recordando sus sus tiempos mozos la
+
+[01:13:52.920] ven como si las chanclas fueran este
+
+[01:13:56.080] dagas.
+
+[01:13:57.480] Entonces se va este va haciendo lo
+
+[01:14:00.480] típico de una persona con unas dagas
+
+[01:14:02.480] moviéndose de un lado a otro, atacando,
+
+[01:14:04.600] golpeando demás, hasta que llega
+
+[01:14:07.840] enfrente
+
+[01:14:09.480] de esta persona
+
+[01:14:12.920] y le y lo le este le da un toque
+
+[01:14:16.760] pues este cerca de aquí del cuello, un
+
+[01:14:21.000] toque frío,
+
+[01:14:23.040] un toque de muerte.
+
+[01:14:24.960] Uh, vale.
+
+[01:14:30.320] Pues
+
+[01:14:32.000] los que estáis cerca,
+
+[01:14:34.520] sobre todo Molly, eh, bueno, Luna, pero
+
+[01:14:38.120] está en forma de oso y Eleanor, ¿vale?
+
+[01:14:40.920] Tú eran, ¿dónde estás? Ah, tú estás
+
+[01:14:42.159] atrás. Vale, por los que estáis aquí
+
+[01:14:43.920] cerca junto a mama, veis que cuando está
+
+[01:14:46.040] haciendo eso toca a ese hombre y veríais
+
+[01:14:48.480] como que es una señora mayor con su piel
+
+[01:14:51.320] arrugada, pero que en algunos momentos
+
+[01:14:52.920] ves como que esa piel como empieza
+
+[01:14:56.080] a tensarse, a como por rejuvenecerse por
+
+[01:14:59.120] unos segundos. Y veis que la señora que
+
+[01:15:01.560] después de recibir quizá algunos balazos
+
+[01:15:03.760] mientras luchaba, después de hacer eso,
+
+[01:15:07.159] la sangre ha dejado de brotar y parece
+
+[01:15:08.840] totalmente curado. Y veis como sigue
+
+[01:15:10.880] avanzando. ¿Qué quieres hacer más?
+
+[01:15:14.320] Ella no se va a detener para
+
+[01:15:16.600] absolutamente nada. O sea,
+
+[01:15:19.560] va a seguir repartiendo
+
+[01:15:22.080] guama valiéndole.
+
+[01:15:25.447] [risas]
+
+[01:15:26.199] Vamos a ver. Ya está con la bonus. A
+
+[01:15:29.080] ver.
+
+[01:15:30.520] Vamos a ver qué
+
+[01:15:34.520] hoy es que sí, sí, sí.
+
+[01:15:38.239] Es que la la señora viene con todo, ¿eh?
+
+[01:15:42.440] Vale,
+
+[01:15:43.000] viene tal. Espérame, espérame, espérame.
+
+[01:15:45.800] Bueno, no sé si si puedo.
+
+[01:15:48.199] Okay,
+
+[01:15:49.560] vale. Es que vas matando algún que
+
+[01:15:51.920] sabes, un batallón de cinco, pues
+
+[01:15:53.520] empiezas a a matar bastantes de ellos.
+
+[01:15:59.920] Er,
+
+[01:16:02.360] ella eh no escuchó la orden, pero para
+
+[01:16:05.520] nada. Esta es a su a su bola. Salud.
+
+[01:16:10.400] Gracias.
+
+[01:16:12.520] Se coloca
+
+[01:16:16.360] por aquí. Ya estaría tocando agua, ¿no?
+
+[01:16:18.880] Aquí en este punto de aquí,
+
+[01:16:20.840] ¿eh? No, no te preocupes, puedes pasar.
+
+[01:16:23.000] Okay. Va. Entonces, eh, le coloco por
+
+[01:16:25.600] aquí más o menos. Observa a el primer
+
+[01:16:28.719] general que vea, que en este caso es el
+
+[01:16:30.199] que tiene aquí detrás, y dice
+
+[01:16:35.520] que cagan,
+
+[01:16:37.400] perezcan, sientan la fuerza del fuego.
+
+[01:16:42.080] Nadie para tocar las tierras de la madre
+
+[01:16:44.960] tierra y del señor del fuego, el señor
+
+[01:16:48.520] Dol.
+
+[01:16:51.560] a lanzar un sconch rey hacia su
+
+[01:16:53.560] dirección como es de 120 pie.
+
+[01:16:58.000] Vamos a ver si le da. Ay, qué pena.
+
+[01:17:01.080] Bueno, son dos rayos más.
+
+[01:17:04.719] Ah, sí,
+
+[01:17:05.239] sí. No, el shocking son varios rayos.
+
+[01:17:07.920] Son tres.
+
+[01:17:08.800] Son tres. Entonces sigo disfrutándole a
+
+[01:17:11.800] ese manjeteo.
+
+[01:17:14.520] Eso.
+
+[01:17:15.199] Tíralo sin gastar hechizo para que no.
+
+[01:17:18.199] Es hacer
+
+[01:17:20.440] son tres.
+
+[01:17:22.520] Yo lo hago. Ya lo hago.
+
+[01:17:24.760] Me imagino que mientras van pasando las
+
+[01:17:26.719] bolas de fuego, mi pobre [risas] pollito
+
+[01:17:29.199] así como de
+
+[01:17:32.719] estilo matri. [risas]
+
+[01:17:35.960] Vale. Y el tercero, sí, sí. El pollo
+
+[01:17:38.159] está como flipando y ve todo de fuego
+
+[01:17:39.719] por todos lados. O sea, el pollo está
+
+[01:17:40.840] flipando ahora mismo. O sea, te lo has
+
+[01:17:42.480] traído y está en mitad de la batalla. O
+
+[01:17:45.120] sea, no, no voy a traer al pollo que no
+
+[01:17:46.719] quiero luche. Ahí en mitad.
+
+[01:17:47.880] No, si dijo, dije que lo iba a esconder.
+
+[01:17:52.400] Alguien lo lanzó.
+
+[01:17:53.880] Pues menos uno. Sí, le dio.
+
+[01:17:56.679] Sí,
+
+[01:17:57.719] al luna no le dijiste nada.
+
+[01:18:00.280] Tiempo
+
+[01:18:01.120] eran. Ves que empezar a lanzar esos
+
+[01:18:02.480] rayos que empiezan a pasar por al lado
+
+[01:18:04.239] de algunos marines. Ves que chamuscan
+
+[01:18:06.080] chamuscando a varios. Sí que algunos de
+
+[01:18:08.080] esos rayos pasan de largo y no no le
+
+[01:18:10.600] consigues dar, pero sí que ves que
+
+[01:18:12.679] acabas con algunos cuantos de de algunos
+
+[01:18:15.760] batallones y ves que pues sigues en esa
+
+[01:18:18.480] forma como
+
+[01:18:21.000] ida de ti.
+
+[01:18:25.199] Luna,
+
+[01:18:28.840] ¿qué vamos a hacer? [música]
+
+[01:18:32.480] viéndolo, viéndolo visto, eh, lo primero
+
+[01:18:35.719] que voy a intentar hacer
+
+[01:18:38.520] es literalmente golpear con el cañón al
+
+[01:18:42.199] piso a ver si reacciona.
+
+[01:18:45.159] Golpear, o sea, así, pum,
+
+[01:18:48.000] pum. A ver si lo
+
+[01:18:50.960] en esta forma no puedo.
+
+[01:18:53.639] A ver si lo logro
+
+[01:18:56.120] hacer disparar. Hay una tirada de
+
+[01:18:57.440] atletismo.
+
+[01:19:04.120] Pensé que iba a haber fuego, pero estoy
+
+[01:19:05.520] divirtiendo más con el oso. [risas]
+
+[01:19:12.600] A ver, haces pum y empiezas como se
+
+[01:19:17.639] empieza como a moverse un poco y quizá
+
+[01:19:20.199] otro golpe haría ya directamente hacer
+
+[01:19:22.880] que estallar otra vez para arriba.
+
+[01:19:26.400] De nuevo le doy
+
+[01:19:28.520] boom y ves que pum salís los dos. Sale
+
+[01:19:31.840] el oso, ¿sabes? Me imagino oso como
+
+[01:19:33.719] montado así en el de esto y encima del
+
+[01:19:35.520] oso veis a Eleanor, ¿vale? Queanor
+
+[01:19:40.440] vemos que te has convertido en algo.
+
+[01:19:43.800] ¿Qué? ¿Qué eres?
+
+[01:19:47.600] No se te oye.
+
+[01:19:54.120] Vale, el micrófono si quieres. Eh
+
+[01:19:57.280] eh es la forma de de Ángel caído. Eh ya
+
+[01:20:00.639] te pasaré foto para la persona que que
+
+[01:20:02.080] me transforme y la puedas cambiar.
+
+[01:20:04.520] Eh, pero su piel se torna grisácia
+
+[01:20:07.800] creando a a un válido muy claro. Se veía
+
+[01:20:12.560] unas solas rotas detrás de ella y su
+
+[01:20:14.719] espada en vez de en vez de estar
+
+[01:20:16.520] pillando solo las letras a la brilla
+
+[01:20:17.840] entera de de color morado,
+
+[01:20:20.400] ¿vale?
+
+[01:20:22.360] Y se vería sus ojos, sus pupilas
+
+[01:20:24.239] totalmente que cubriría toda su retina,
+
+[01:20:26.120] o sea, todo el ojo sería negro.
+
+[01:20:28.480] Vale, pues saléis volando los tres y de
+
+[01:20:35.239] momento os vais a quedar ahí en el
+
+[01:20:37.239] próximo turno vais a caer de alguna
+
+[01:20:38.840] manera o ya no ver qué queréis hacer.
+
+[01:20:42.480] Vale, voy a poner aquí a
+
+[01:20:46.360] si da igual.
+
+[01:20:48.239] Y nada, veríais que Bonnie pues entra en
+
+[01:20:51.600] el combate y nada, pues veis que incluso
+
+[01:20:54.760] ve al oso, ve como te sube seron encima
+
+[01:20:57.000] y hace como un gesto de que pensaba que
+
+[01:20:59.600] era que eras más
+
+[01:21:01.800] recta en los combates y lo primero que
+
+[01:21:03.639] has hecho es subirte encima de un oso
+
+[01:21:06.051] [risas] y lo que ves es que se tira el
+
+[01:21:07.440] combate, empieza a luchar y ve a esa
+
+[01:21:09.480] mujer mayor y mamá, ¿ves que te mira?
+
+[01:21:14.159] ¿Sabes cuando pasa incluso junto a ti
+
+[01:21:16.480] peleando? Y en una de esos que algún
+
+[01:21:19.080] marine hay te va a dar un golpe, ves que
+
+[01:21:21.800] Morí lo gopea el paso y te mira y dice,
+
+[01:21:25.000] "Señora,
+
+[01:21:26.600] debería estar en otro lugar, ¿no? Aquí
+
+[01:21:29.400] corre peligro.
+
+[01:21:33.080] Yo soy el peligro. [risas]
+
+[01:21:36.800] Y ves que en ese momento acab acaba de
+
+[01:21:38.920] golpear y sonríe y sigue peleando.
+
+[01:21:43.719] Ah, me mamé. [risas] Sí, ahí está bien.
+
+[01:21:50.120] Eleanor, estás en el cielo a bastante
+
+[01:21:54.360] altura encima de un oso que acaba de
+
+[01:21:56.120] salir despegado gracias a un cañón. Y tú
+
+[01:21:58.960] estás en esa forma de ángel caído. ¿Qué
+
+[01:22:01.000] vas a hacer?
+
+[01:22:03.280] Eh,
+
+[01:22:05.159] no sé si me lo compres, así me gasté
+
+[01:22:07.480] todos los slot que tenga.
+
+[01:22:09.120] ¿Qué quieres hacer? Eh, quisiera imbuir
+
+[01:22:11.520] al oso eh, mientras vamos cayendo eh, en
+
+[01:22:15.639] la energía del smite.
+
+[01:22:18.719] Vale. [risas]
+
+[01:22:20.600] Eh, no, no hace no hace falta que que me
+
+[01:22:23.840] dé esto que vas a tirar el smite de
+
+[01:22:25.040] máximo nivel, ¿no?
+
+[01:22:27.080] Sí,
+
+[01:22:27.600] vale. Eh, eso son dos de ocho más nivel
+
+[01:22:31.480] de conjuro, que es nivel dos, pues son
+
+[01:22:34.560] tres de ocho. Vale, vale, vale,
+
+[01:22:38.800] vale. Pues en el turno del oso lo
+
+[01:22:40.000] haremos. ¿Ves que cómo lo haces? Ves que
+
+[01:22:42.080] saltáis yes al oso con el smite,
+
+[01:22:46.400] ¿eh? ¿Ves como guardo la espada en el
+
+[01:22:48.199] costado? Cojo el símbolo, se lo pongo en
+
+[01:22:50.600] la en la cabeza.
+
+[01:23:01.360] Puro meteorito
+
+[01:23:07.440] por la corona de Castilla. Yo te ordeno
+
+[01:23:09.880] acabar con estos enemigos.
+
+[01:23:12.080] Voy le doy un le pongo el el sello en la
+
+[01:23:15.120] frente mientras vamos cayendo,
+
+[01:23:17.199] ¿vale?
+
+[01:23:17.520] Y voy mirando fijamente a ver quién es
+
+[01:23:18.880] el el que puedo concebir como el más
+
+[01:23:21.400] peligroso de aquí. Vale, alguno de
+
+[01:23:24.040] seguramente alguno de estos generales,
+
+[01:23:25.560] ¿sabes? Os moveré por aquí si queréis.
+
+[01:23:27.520] Mira, os muevo así y así os pongo aquí.
+
+[01:23:29.600] Vale,
+
+[01:23:31.360] vale.
+
+[01:23:32.239] Que cag encima del caballo [risas]
+
+[01:23:36.199] y
+
+[01:23:37.920] veis que
+
+[01:23:40.120] estáis ganando la batalla. Veis que la
+
+[01:23:42.000] formación, pues aunque vosotros sois
+
+[01:23:44.840] super caóticos, ¿sabes? Porque esto no
+
+[01:23:46.719] ha sido una batalla, sino ha sido como
+
+[01:23:48.199] una especie de carnicería por bichos
+
+[01:23:50.600] grandes que han estado arrasándolo todo.
+
+[01:23:54.520] Veis que
+
+[01:23:57.280] de repente
+
+[01:23:59.040] escucháis
+
+[01:24:00.760] una enorme explosión.
+
+[01:24:06.320] ¿Por qué me haces esto, Paul?
+
+[01:24:08.798] [risas][resoplido]
+
+[01:24:14.693] [risas]
+
+[01:24:18.520] Ay,
+
+[01:24:18.840] te voy aar.
+
+[01:24:21.600] Escucháis una explosión tremenda.
+
+[01:24:25.920] Veis que el combate incluso se queda
+
+[01:24:28.600] totalmente en silencio y toda la gente
+
+[01:24:31.440] que hay en el combate mira hacia el mar,
+
+[01:24:35.600] ¿sabes? Eso dura unos pocos segundos,
+
+[01:24:37.159] ¿eh? Mira hacia el mar y veo una columna
+
+[01:24:39.960] de fuego enorme.
+
+[01:24:42.280] Elianor y Luna lo veis desde desde
+
+[01:24:44.239] arriba, ¿sabes?
+
+[01:24:45.560] Esto te voy a decir nosotros lo vemos
+
+[01:24:46.840] mejor.
+
+[01:24:47.480] Claro, lo veis en mejor perspectiva
+
+[01:24:49.719] y veis eso. Veis el mar del calor
+
+[01:24:52.480] sofocante que es son las costas del
+
+[01:24:54.280] garfio de de Xoltacan. Y veis esos
+
+[01:24:57.520] barcos de guerra y veis como en una zona
+
+[01:25:01.239] de esas una enorme columna de fuego se
+
+[01:25:05.360] extiende hacia arriba.
+
+[01:25:09.239] Y mamá,
+
+[01:25:13.643] [resoplido] justo en ese momento
+
+[01:25:17.239] eh notas todos tus tatuajes
+
+[01:25:21.920] que empiezan a dolerte, pero a dolerte
+
+[01:25:24.560] de una manera devastadora, incluso te
+
+[01:25:27.320] hacen soltar esas alpargatas que estabas
+
+[01:25:29.520] rabiosa golpeando y [música] empiezan a
+
+[01:25:31.880] dolerte muchísimo.
+
+[01:25:36.440] [ __ ] madre.
+
+[01:25:39.320] Van a ver a la señora que cae de
+
+[01:25:42.119] rodillas
+
+[01:25:44.040] gritando de un dolor.
+
+[01:25:47.679] Es como si la piel estuviera [música]
+
+[01:25:50.480] ardiendo, se estuviera deshaciendo.
+
+[01:25:53.560] La la ven este [música] arañándose,
+
+[01:25:57.560] está destrozada.
+
+[01:26:01.360] sabe perfectamente qué es lo que pasó.
+
+[01:26:04.119] Sí, empie
+
+[01:26:06.320] empiezas a notar un un un vacío
+
+[01:26:10.360] y empiezas a ver es ese momento que has
+
+[01:26:14.119] visto antes, ese pirata que sabes que es
+
+[01:26:16.280] Noxes ha girado, ese montón de de agua
+
+[01:26:19.560] ahogándote y ves en ese momento en esa
+
+[01:26:23.119] gente que caía de los barcos que tú
+
+[01:26:24.880] estabas mirando desde arriba, ves esa
+
+[01:26:27.280] figura de Nox como cae.
+
+[01:26:30.880] Ah, qué dioses. y
+
+[01:26:35.440] lo ves que no puedes hacer nada.
+
+[01:26:38.400] Intentas llegar a él
+
+[01:26:41.760] y no puedes hacer nada.
+
+[01:26:45.719] Y entonces
+
+[01:26:48.760] silencio,
+
+[01:26:51.280] no escuchas nada
+
+[01:26:54.880] y en un momento empiezas a escuchar un
+
+[01:26:57.639] siseo.
+
+[01:27:01.000] Uy, señor.
+
+[01:27:05.199] Y mientras estás así intentando [ __ ] a
+
+[01:27:08.159] Nox, ves como una mano se pone por en tu
+
+[01:27:12.360] brazo acompañándote,
+
+[01:27:15.080] incluso cogiéndote la mano y ayudándote
+
+[01:27:18.480] a llegar a Nox de alguna manera
+
+[01:27:22.280] y en ese momento ves a tu lado esa
+
+[01:27:27.920] criatura, ese ser.
+
+[01:27:32.600] Y ves que te susurra al oído y te dice,
+
+[01:27:37.320] "Usa tu poder y mátalos a todos.
+
+[01:27:42.119] Se lo merecen."
+
+[01:27:44.199] Y ves que te empieza empiezas a ver las
+
+[01:27:46.320] caras de todos los marines que están
+
+[01:27:48.440] ahora mismo aquí como un poco anunadados
+
+[01:27:52.119] por ese por esa explosión y te y vuelves
+
+[01:27:56.320] a escuchar,
+
+[01:27:58.440] "Mátalos!
+
+[01:28:00.920] Mátalos,
+
+[01:28:03.119] mátalos.
+
+[01:28:06.566] [suspiro][resoplido]
+
+[01:28:07.119] Y Aqua, ¿qué vas a hacer? Ay, Aqua mama,
+
+[01:28:09.679] ¿qué vas a hacer?
+
+[01:28:14.080] Empieza sabroso esto, ¿eh?
+
+[01:28:17.920] Van a ver que poco a poco la señora
+
+[01:28:20.639] después de estar gritando, este,
+
+[01:28:23.960] agonizando en el suelo, se empieza a
+
+[01:28:25.960] levantar.
+
+[01:28:27.440] Los tatuajes le empiezan como que a
+
+[01:28:29.719] brillar en un tono entre carmesí y
+
+[01:28:33.239] verde.
+
+[01:28:35.440] Casi casi todo su cuerpo ahora está
+
+[01:28:37.600] cubierto de de ese tipo de este
+
+[01:28:40.626] [resoplido]
+
+[01:28:41.199] de tatuajes.
+
+[01:28:43.280] Se levanta con una determinación
+
+[01:28:46.520] brutal.
+
+[01:28:48.639] Ya no es la la señora tierna que que
+
+[01:28:52.400] estaban conociendo. Bueno, tierna.
+
+[01:28:56.400] Ahora está sedienta [música] de sangre
+
+[01:28:58.880] porque le quitaron lo más precioso que
+
+[01:29:01.520] tenía en su vida.
+
+[01:29:03.800] Y en ese momento volver a escuchar en tu
+
+[01:29:05.520] cabeza,
+
+[01:29:07.320] mátalos, arrebátales toda su juventud.
+
+[01:29:16.639] Y empieza la mamá
+
+[01:29:19.800] a curar
+
+[01:29:23.480] a cada uno. Pero ahora ya no es ese
+
+[01:29:25.719] toque, ya no es ese toque delicado.
+
+[01:29:27.719] Ahora realmente los está agarrando del
+
+[01:29:29.320] cuello, apretándolos. Y pueden ver como
+
+[01:29:32.800] esa ese brillo empieza a recorrerle la
+
+[01:29:35.520] este la mano a la señora y los tatuajes
+
+[01:29:39.560] ahora le empiezan a brillar mucho más.
+
+[01:29:41.920] Ya, ya este
+
+[01:29:44.280] todo su cuerpo empieza a a absorber esa
+
+[01:29:48.480] energía vital de cada uno de ellos
+
+[01:29:51.760] y no les está dando oportunidad ni
+
+[01:29:53.679] siquiera de reaccionar.
+
+[01:29:56.360] Bien,
+
+[01:29:58.199] pues
+
+[01:30:00.719] vamos a ver [música] a ahora Erand.
+
+[01:30:03.760] Erandi, ¿has visto? escuchado esa
+
+[01:30:05.480] explosión enorme que te has girado, eso
+
+[01:30:08.320] es milésima de segundo que te has girado
+
+[01:30:10.719] ver esa enorme explosión y
+
+[01:30:14.280] cuando vuelves a mirar ves que el
+
+[01:30:17.080] combate es como volviera en acción y
+
+[01:30:19.600] verías como esa mujer mayor que habías
+
+[01:30:22.119] visto que estaba golpeando
+
+[01:30:24.520] va incluso más rápido ahora moviéndose
+
+[01:30:26.800] entre todos los marines y ya no usa esas
+
+[01:30:28.760] chanclas sino como es eso, las agarra
+
+[01:30:31.440] del cuello y los va tirando como si
+
+[01:30:33.080] fueran despojos. Es como está totalmente
+
+[01:30:36.600] ida igual que tú.
+
+[01:30:41.679] Vamos a ver si me compras lo siguiente,
+
+[01:30:43.800] porque había venido aquí y dije,
+
+[01:30:46.280] "Oh, momento fric,
+
+[01:30:49.880] aquí te va." Yo veo esa explosión
+
+[01:30:53.440] y en su mente ida lo que piensa es que
+
+[01:30:57.440] se le ha presentado al frente el mismo
+
+[01:31:00.840] Dios del sol. Esa explosión es el Dios
+
+[01:31:04.560] del sol que le está hablando y le dice,
+
+[01:31:07.480] "Así es. Si tú quieres ver todo arder,
+
+[01:31:10.760] mándalo toda a la [ __ ] y que arda, que
+
+[01:31:14.280] arda París. Y ella dice, "Sí, yo voy a
+
+[01:31:17.520] hacer arder París. Quiero utilizar mi
+
+[01:31:20.280] acción para hacer justamente esto,
+
+[01:31:25.800] pero quiero usar todos los usos para ver
+
+[01:31:27.880] si me dejas tener un último bola de
+
+[01:31:30.840] fuego para hacerlo justamente por acá
+
+[01:31:34.679] porque se le [música] a ella se le
+
+[01:31:36.320] ilumina la cara. Vale,
+
+[01:31:38.119] literalmente está como extasiada.
+
+[01:31:42.320] Dale.
+
+[01:31:43.320] Está en ese momento de fulgor de Sí, sí,
+
+[01:31:48.320] mi señor, lo veo.
+
+[01:31:50.840] Estás tendiendo las manos hacia la
+
+[01:31:52.520] explosión en ese silencio. Como que se
+
+[01:31:54.760] le ilumina, sonríe. Lo he visto. Es
+
+[01:31:58.880] usted.
+
+[01:32:00.920] Yo me traigo a usted. Les haré ver. Les
+
+[01:32:05.040] vero todos que su calor y su amor es
+
+[01:32:09.119] incondicional.
+
+[01:32:10.719] Sí. Y se gira hacia ello ajustamente al
+
+[01:32:14.159] pelotón mientras se va acercando con una
+
+[01:32:16.719] sonrisa sádica. Es sádica de loca.
+
+[01:32:20.960] Venga,
+
+[01:32:21.400] vamos deir todos. Sientan el calor, el
+
+[01:32:25.199] calor del sol. que les abrace, que les
+
+[01:32:28.840] dé [risas] todo su amor.
+
+[01:32:31.480] Vengan conmigo en este gran abrazo.
+
+[01:32:35.679] Está
+
+[01:32:37.360] está loca, loca.
+
+[01:32:39.960] Venga, pues tira tu bola de fuego.
+
+[01:32:42.880] Yo me estoy embarazando.
+
+[01:32:45.520] Yo me estoy embarazando, [risas] dice.
+
+[01:32:52.880] Ardan conmigo.
+
+[01:32:54.159] Y vas dando giros como si fuese una niña
+
+[01:32:56.639] bailando, como si fuese, no sé, la
+
+[01:32:58.560] exorcista o algo.
+
+[01:33:02.920] Nombre, hombre.
+
+[01:33:07.199] Y nada, ves que caes a otra bola de
+
+[01:33:09.600] fuego y boom, salen milinés más por los
+
+[01:33:13.560] aires y pues estás incluso empiezas a
+
+[01:33:18.320] estar un poco agotada en el de toda esa
+
+[01:33:21.199] energía que has estado usando, pero
+
+[01:33:23.520] parece que has chamuscado a casi todos
+
+[01:33:27.000] los marines tú sola [risas]
+
+[01:33:30.360] y
+
+[01:33:33.920] la gente que vuela.
+
+[01:33:35.960] Luna, Elianor, ¿cómo cómo vais a vais a
+
+[01:33:39.480] bajar en picadísimo? No,
+
+[01:33:42.280] por supuesto. Hay que caer con
+
+[01:33:46.119] Pues
+
+[01:33:48.119] hazme una tirada, eh, si queréis hacer
+
+[01:33:50.960] una de cada uno. Luna, hazme una tirada
+
+[01:33:52.520] de caída, que son 10, pues 10 de seis. Y
+
+[01:33:56.719] Eleanor hace una tirada del smite que
+
+[01:33:59.199] son tres de ocho, ¿no? El smite si no me
+
+[01:34:00.760] equivoco.
+
+[01:34:02.520] Sí.
+
+[01:34:03.239] Pues venga,
+
+[01:34:04.000] nivel dos. Ahora tranquilo.
+
+[01:34:05.920] Diciste 10 de seis.
+
+[01:34:07.480] 10 de seis. Estáis a 100 pies de alto.
+
+[01:34:14.480] Espérate, espérate. ¿Dónde está el
+
+[01:34:15.639] smite? Que no lo veo.
+
+[01:34:17.360] No, tírame simplemente tres de o ya
+
+[01:34:19.400] está. No me tires el smite. Tírame tres
+
+[01:34:21.119] de o y fuera.
+
+[01:34:23.320] Ah, vale.
+
+[01:34:29.000] Vale, pues son cinco, si
+
+[01:34:32.119] puedes 77 de daño, que veis que vais
+
+[01:34:35.760] bajando y veis que en ese momento
+
+[01:34:38.320] me imagino que el oso se ilumina,
+
+[01:34:40.840] ¿sabes? con de esa luz, de ese smite y
+
+[01:34:43.440] veis que me lo imagino incluso cayendo a
+
+[01:34:46.080] toda velocidad y justo cuando va a caer
+
+[01:34:49.239] se rentiza la cámara y un pelito del oso
+
+[01:34:52.800] hace p hace contanto con el suelo y hace
+
+[01:34:55.360] todo bum y explota todo a su alrededor y
+
+[01:34:58.440] veis que sale todo volando, que incluso,
+
+[01:35:01.320] mamá, tú estabas por ahí corriendo, que
+
+[01:35:04.040] esa caída del oso lo que hace es tirarte
+
+[01:35:05.960] un poco hacia delante, ¿sabes? así un
+
+[01:35:08.040] poco volando, [música] pero sigues
+
+[01:35:10.119] reventando a a Marines por donde pasan
+
+[01:35:16.920] y
+
+[01:35:20.920] Molly, Molly simplemente se va a quedar
+
+[01:35:22.840] aquí simplemente luchando. Y Erandy, has
+
+[01:35:26.639] caído con junto con Luna [música]
+
+[01:35:29.239] que ha caído haciéndose smite, que se ha
+
+[01:35:30.639] iluminado todo por un segundo y estás
+
+[01:35:32.760] ahora justamente encima de del oso,
+
+[01:35:35.080] ¿sabes? mirando por encima de por encima
+
+[01:35:37.719] de todo el mundo y ves pues la [música]
+
+[01:35:39.920] marina bastante destrozada. Espérate,
+
+[01:35:45.360] ¿qué quieres hacer?
+
+[01:35:48.400] Eh, después de ver qué oso baja, si está
+
+[01:35:52.360] bien o lo veo bien. No creo.
+
+[01:35:55.000] Sí, sí, sí.
+
+[01:35:55.679] No, no, no. El otro no. Lo que voy lo
+
+[01:35:57.800] que lo que te iba a decir era que claro
+
+[01:36:00.360] con el impacto también eh voy a volver a
+
+[01:36:05.480] Vale,
+
+[01:36:07.199] vale,
+
+[01:36:07.560] claro, es como ya hizo su ulti con el
+
+[01:36:11.080] oso,
+
+[01:36:11.639] ¿vale?
+
+[01:36:12.159] Y vuelve a modo luna
+
+[01:36:14.520] y ahora vienen las
+
+[01:36:15.400] Está subiendo en el caballo.
+
+[01:36:18.040] Empieza el fuego. Ahora sí.
+
+[01:36:21.239] Vale. Subido sombre en el caballo.
+
+[01:36:23.320] Eh, ¿cómo? ¿Cómo? ¿Cómo?
+
+[01:36:25.960] Si este está subido el caballo.
+
+[01:36:27.360] No, no, los caballos están muertos o se
+
+[01:36:29.080] han ido. No, no, ya no, ya no hay
+
+[01:36:30.440] caballos. Están todos los caballos
+
+[01:36:31.719] muertos. Madre, [risas]
+
+[01:36:34.880] si le sabéis tirar no sé cuántas bolas
+
+[01:36:36.360] de fuego.
+
+[01:36:39.440] Habrá alguno moribundo para curarlo y
+
+[01:36:40.760] llevármelo
+
+[01:36:42.280] de caballo.
+
+[01:36:44.360] Si puedes invocar un caballo tú con
+
+[01:36:47.239] Sí, pero si me puedo ahorrar el spell
+
+[01:36:48.960] para tener un caballo de guerra que no
+
+[01:36:50.480] puede invocar caballos de guerra,
+
+[01:36:52.239] pero que lo tienes que alimentar al
+
+[01:36:53.320] caballo, se te va a morir. Estás en
+
+[01:36:55.199] chotacán. Mira, mira, mira, Poncelo,
+
+[01:36:57.320] cómo se lo mueren.
+
+[01:36:59.741] [risas]
+
+[01:36:59.800] Que no sé por qué queréis mascotas. Que
+
+[01:37:01.040] os las voy a matar.
+
+[01:37:02.560] Me convenciste.
+
+[01:37:05.639] Eh, pues mira, me voy a acercar a a
+
+[01:37:07.440] estos de aquí,
+
+[01:37:08.920] ¿vale?
+
+[01:37:09.840] Eh,
+
+[01:37:11.639] me voy a acercar como caminando
+
+[01:37:12.920] despacio, como arrastando uno los pies y
+
+[01:37:14.760] cuando estoy en medio voy a voy a mirar
+
+[01:37:16.800] hacia arriba.
+
+[01:37:18.480] Voy a mirar cada uno de a cada uno de
+
+[01:37:20.360] los ojos y y no sé si me la compres,
+
+[01:37:23.280] pero me gustaría que que se active la
+
+[01:37:25.040] hora de cuando me transformo, deir miedo
+
+[01:37:27.600] y que tenga que salvar para ver si los
+
+[01:37:29.719] asusto.
+
+[01:37:30.119] Vale, pues sí, sí lo roleamos
+
+[01:37:32.239] simplemente como te muestras.
+
+[01:37:35.560] Sí, prácticamente voy como caminándome
+
+[01:37:37.080] arrastrando como que estoy medio herida.
+
+[01:37:41.480] No os acerquéis más, ¿eh? Levanto la
+
+[01:37:44.560] espada. Voy a dar un ataque,
+
+[01:37:47.280] ¿vale?
+
+[01:37:47.880] Eh,
+
+[01:37:51.440] si alguno está asustado, no lo sé.
+
+[01:37:58.719] Pues sí, le darías un buen golpe y
+
+[01:38:02.199] verías que pues ves que todos empiezan a
+
+[01:38:04.480] verte con esa aura que tienes y sí que
+
+[01:38:06.800] algunos como empiezan como intentar
+
+[01:38:08.480] retroceder observándote un poco
+
+[01:38:10.599] asustados también por todo lo que está
+
+[01:38:12.480] pasando de las 1000 bolas de fuego.
+
+[01:38:15.639] Te te decía lo del miedo porque si están
+
+[01:38:18.159] asustados con mi obra no se puede mover.
+
+[01:38:20.960] Ah, vale, pues sí. Bueno, se quedarían
+
+[01:38:22.400] como aterrorizados así, ¿sabes? Lo
+
+[01:38:23.760] típico que se quedan un poco así
+
+[01:38:25.040] acojonados, agachando la cabeza, ¿sabes?
+
+[01:38:28.239] Como intentando eso, tenerte te tienen
+
+[01:38:30.800] como entre miedo y y respeto, ¿sabes? Y
+
+[01:38:33.960] se quedan así.
+
+[01:38:37.119] Y
+
+[01:38:38.560] voy a voy a mirar al camado herido,
+
+[01:38:42.320] si me lo permites.
+
+[01:38:44.040] Vale.
+
+[01:38:44.440] Me gustaría tirar un comand.
+
+[01:38:46.480] Vale.
+
+[01:38:48.040] ¿Ves como le pongo la espada delante de
+
+[01:38:49.520] su cara?
+
+[01:38:56.320] asustado. Es que va agachar la cabeza un
+
+[01:38:59.880] segundo, ¿sabes?
+
+[01:39:03.000] Yo eso sí me gusta. [risas]
+
+[01:39:07.560] ¿Veis? Es que os digo roleármelo y me
+
+[01:39:09.719] tiráis el hechizo. Ahora te ha salvado,
+
+[01:39:11.000] ya no se arrodilla.
+
+[01:39:14.018] [risas]
+
+[01:39:15.880] Sacado un
+
+[01:39:16.360] Ahorita lo arrodillamos, no hay
+
+[01:39:17.599] problema.
+
+[01:39:18.880] Vale, pues
+
+[01:39:22.000] le tocarían a los marines, pero veis que
+
+[01:39:25.119] es eso, ya están un poco aterrados por
+
+[01:39:27.239] esa esa caballera que ha aparecido aquí,
+
+[01:39:30.320] por esa explosión de de ese oso que
+
+[01:39:32.880] ahora aparecido una niña, que me la
+
+[01:39:34.320] imagino ya con las manos con el fuego en
+
+[01:39:36.679] las manos. Sí. Y esa otra pequeña niña
+
+[01:39:41.360] que también está como en una aura de
+
+[01:39:42.880] fuego, que no ha parado de lanzar fuego
+
+[01:39:45.040] hacia ellos, que los ha destrozado por
+
+[01:39:47.000] completo
+
+[01:39:49.040] y a esa señora mayor
+
+[01:39:52.440] que ya no ya no, yo ya creo que ya no
+
+[01:39:54.320] está tan mayor
+
+[01:39:55.639] esa señora mayor que ha estado
+
+[01:39:57.679] atravesando las filas de los de los
+
+[01:40:01.840] marines cargándoles con furia, ¿sabes?
+
+[01:40:05.400] incluso apretando para rametarles toda
+
+[01:40:09.080] esa esencia
+
+[01:40:12.000] y escuchas
+
+[01:40:14.639] mientras haces eso, ese siseo
+
+[01:40:16.880] en tus oídos, mamm,
+
+[01:40:19.760] escuchas eso
+
+[01:40:21.880] y esos siseos se vuelven como algo
+
+[01:40:25.080] agradable que empieza en sonreír y lo
+
+[01:40:29.440] que está haciendo [música] eso se
+
+[01:40:30.800] empieza a encontrar a justo.
+
+[01:40:35.520] Y veis que vas avanzando y llega un
+
+[01:40:37.679] momento
+
+[01:40:39.239] que incluso los demás también lo vais a
+
+[01:40:40.920] ver porque va a pasar por delante de
+
+[01:40:42.599] Luna, por al lado de Eleanor, acabando
+
+[01:40:46.080] con algunos marines que está aterrado,
+
+[01:40:48.679] incluso con la gran velocidad que tiene
+
+[01:40:51.440] va a retroceder un segundo que va a
+
+[01:40:53.679] pasar por delante de Erandi
+
+[01:40:57.080] y veis a mamá,
+
+[01:41:02.480] Pero es diferente.
+
+[01:41:09.360] Empieza su peruana.
+
+[01:41:11.639] Exacto.
+
+[01:41:13.840] ¿Veis que ya no es esa señora mayor?
+
+[01:41:18.840] ¿Ves como
+
+[01:41:21.520] toda esa rabia que le está quitando,
+
+[01:41:24.840] ¿sabes? ¿Veis que incluso cuando miráis
+
+[01:41:26.679] al suelo veis los restos de los piratas
+
+[01:41:29.040] que está dejando y están como arrugados?
+
+[01:41:32.560] Es como si fueran viejos.
+
+[01:41:37.520] Y veis a mamá, bueno, más joven.
+
+[01:41:43.239] Está sabrosa ahora la vieja dicen.
+
+[01:41:45.325] [risas]
+
+[01:41:46.159] Ya, ya, ya.
+
+[01:41:50.400] ¿Qué vas a hacer, mamá?
+
+[01:41:54.040] ¿Quién es el que está dando las órdenes?
+
+[01:41:56.360] Eh, ya casi pocos. O sea, habéis acabado
+
+[01:41:59.520] con algunos. Están, imaginaos que
+
+[01:42:01.520] empiezan a a huir algunos. Hay
+
+[01:42:03.199] resquicios. [música] Quizá hay algún
+
+[01:42:04.679] general dando órdenes, que si quieres
+
+[01:42:06.599] pues puede ser este que intenta dar
+
+[01:42:08.360] órdenes, pero
+
+[01:42:11.239] no es que le hagan caso todos, ¿sabes?
+
+[01:42:12.760] La gente ya en la guerra empieza a
+
+[01:42:14.520] priorizar salvarse que hacerle caso al
+
+[01:42:16.400] general.
+
+[01:42:18.560] Okay, quiero ir directamente con él.
+
+[01:42:23.920] ven que va haciendo de lado a las
+
+[01:42:27.280] personas que están enfrente, le da igual
+
+[01:42:30.080] los ataques, si le pegan realmente no lo
+
+[01:42:33.960] siente.
+
+[01:42:35.719] está tan enfocada en los siseos, en
+
+[01:42:39.040] escuchar esa voz que le está seduciendo
+
+[01:42:42.239] muy al fondo
+
+[01:42:44.880] hasta llegar directamente con esta
+
+[01:42:47.719] persona
+
+[01:42:49.239] y volver a tomarlo del cuello con esa
+
+[01:42:52.719] rabia.
+
+[01:42:54.679] Tú me quitaste lo que más deseaba. Todos
+
+[01:42:58.080] ustedes me quitaron a mi hijo
+
+[01:43:01.599] y no lo voy a permitir si es necesario
+
+[01:43:05.960] quitarles todo y aún así esto no
+
+[01:43:09.440] compensa lo que hicieron.
+
+[01:43:11.760] Y mientras va diciendo eso, nuevamente
+
+[01:43:14.080] esa energía va absorbiéndola
+
+[01:43:17.679] y va va nutrindose. Ya no es amor lo que
+
+[01:43:21.199] está sintiendo, es rabia, es
+
+[01:43:23.159] frustración,
+
+[01:43:24.880] es impulso de matar.
+
+[01:43:27.199] y
+
+[01:43:27.440] con tal de poder volver a ver a su hijo
+
+[01:43:30.840] y mamá
+
+[01:43:33.840] entras en furia que han usado una carta
+
+[01:43:36.040] que lo acabo de ver ha quedado perfecto.
+
+[01:43:39.320] Entras en furia como un bárbaro. O sea,
+
+[01:43:42.599] ahora literalmente estás totalmente lo
+
+[01:43:45.320] que has descrito, llena de rabia. Y esto
+
+[01:43:47.840] lo la rabia lo que te consuma.
+
+[01:43:53.040] Se la voy a chupar todo. [risas]
+
+[01:43:55.960] Qué rico.
+
+[01:43:57.960] Qué
+
+[01:44:01.920] Dios.
+
+[01:44:03.320] Lo va a dejar seco.
+
+[01:44:06.159] Seco.
+
+[01:44:07.520] Así en corto. [risas]
+
+[01:44:13.239] Vale, pues ya se ha muerto así. Y veis
+
+[01:44:15.960] que acabas con él, ves que acaba
+
+[01:44:19.000] absorbiendo, que muchos de los marines
+
+[01:44:20.480] que hay a tu lado empiezan como a
+
+[01:44:22.400] retroceder, que algunos entran en la
+
+[01:44:24.400] jungla y al pocos segundos escuchas un
+
+[01:44:27.719] ah, ¿sabes? Como que caen en las trampas
+
+[01:44:30.800] y empiezan a estar aterrados. Incluso
+
+[01:44:32.679] los que se retiran un poco de ti mapa,
+
+[01:44:34.159] llegan atrás, se giran y ven a ese ser y
+
+[01:44:37.480] se quedan totalmente paralizados.
+
+[01:44:40.280] Claro.
+
+[01:44:41.880] Y parece que estáis acabando con la
+
+[01:44:44.000] mayoría de madrines.
+
+[01:44:46.280] De hecho, no se podría mover. Está 10.
+
+[01:44:48.040] De hecho, se tendría que quedar ahí.
+
+[01:44:49.719] Bueno, que me hace por eso. Y
+
+[01:44:52.199] bueno, entiendes. [risas]
+
+[01:44:54.520] Er, Andy,
+
+[01:44:58.199] eh, estás aún te notas cansada, ¿vale?
+
+[01:45:03.119] aún bastante cansada por eso, pero
+
+[01:45:06.960] en ese momento notas como
+
+[01:45:10.480] una pequeña chispa,
+
+[01:45:13.080] una última chispa y notas como esa magia
+
+[01:45:18.000] vuelve otra vez a tus manos y
+
+[01:45:22.480] vas a recuperar un espacio de conjuro de
+
+[01:45:24.199] nivel tres gracias al chat
+
+[01:45:27.440] para que tires una bola de fuego.
+
+[01:45:32.440] Pues ustedes ven como de repente vas
+
+[01:45:35.920] viendo al resto,
+
+[01:45:38.159] se camina un poco, más o menos por aquí
+
+[01:45:44.599] le sonríe.
+
+[01:45:47.677] [risas]
+
+[01:45:48.719] No se preocupen, van a también recibir
+
+[01:45:51.679] el rico, delicioso,
+
+[01:45:55.199] el cándido brazo del Dios del sol.
+
+[01:46:00.159] Abracen, abracen el calor. Reciban su
+
+[01:46:04.599] amor. Él es noble.
+
+[01:46:09.719] Ay, no agarré que no. Ya va. Ah, no, no,
+
+[01:46:12.800] no. Ya va.
+
+[01:46:15.960] No, no, no, no. Este no,
+
+[01:46:17.760] no me deja, no me deja. [risas]
+
+[01:46:19.199] Ya está. Al principio
+
+[01:46:22.080] claro cerca, ¿no? Entonces, bueno, él ya
+
+[01:46:24.760] está camicase, ¿no? Al parecer [risas]
+
+[01:46:28.239] no sé
+
+[01:46:31.040] day que estoy aquí como que creo que
+
+[01:46:33.159] agarró el que no es. [risas]
+
+[01:46:35.199] Ah, este es el daylight,
+
+[01:46:36.400] ¿no? Por eso lo hiciera.
+
+[01:46:44.159] What the fuck. Ah, la bola de es el sol
+
+[01:46:48.320] cayendo. Listo.
+
+[01:46:50.239] Exacto.
+
+[01:46:51.320] Claro.
+
+[01:46:52.320] Bola de sol. ¿Qué bola de fuego?
+
+[01:46:55.159] Yo lo siento lo que estén ahí, pero es
+
+[01:46:56.760] que Ajá.
+
+[01:46:59.239] ¿Quién está ahí? Ah, pues no
+
+[01:47:03.080] te da salvación de destreza.
+
+[01:47:05.624] [risas]
+
+[01:47:05.800] Lo siento. Y también la mamá también.
+
+[01:47:09.360] Ay, mamá también.
+
+[01:47:11.920] ¿Puedo puedo rolearte alg? No te voy, no
+
+[01:47:14.040] te voy a tirar, no te voy a tirar
+
+[01:47:15.280] salvación. No te voy a tirar la
+
+[01:47:16.599] salvación, pero lo que voy a hacer es
+
+[01:47:18.040] levantar la mano hacia arriba, me que
+
+[01:47:20.000] tocar mi mano, toque el fuego
+
+[01:47:21.080] momentáneamente y voy a tirar y si me
+
+[01:47:22.960] permites tirarme Leo
+
+[01:47:24.440] eh sí, pero tírame salvación porque si
+
+[01:47:26.000] no si no se rompe el F, así que tírame
+
+[01:47:28.119] salvación.
+
+[01:47:29.119] Hacer lo que queráis, pero tirarme
+
+[01:47:30.360] salvación por narices.
+
+[01:47:33.400] Y mientras están ardiendo se escucha su
+
+[01:47:35.280] risa de fondo así pariática. [risas]
+
+[01:47:44.599] Esto me viene me viene sabroso.
+
+[01:47:48.599] Vale, pues esto por aquí.
+
+[01:47:52.239] El pollo. No,
+
+[01:47:53.080] vale, no. Ahora voy, ahora lo arreglo.
+
+[01:47:54.800] Vale, pues Eleanor, roléame qué quieres
+
+[01:47:57.719] hacer.
+
+[01:48:00.560] Eh,
+
+[01:48:02.199] espérate que me están eh ves como
+
+[01:48:04.599] levanto la mano hacia arriba metiendo la
+
+[01:48:05.880] mano en la bola de fuego mientras cae y
+
+[01:48:08.000] me voy y voy a agarrar como parte de esa
+
+[01:48:10.440] llama me y como para ponérmela en el
+
+[01:48:13.960] pecho. Voy a mirar a esta a estos a este
+
+[01:48:16.599] que queda vivo. Voy a sonreírle y y si
+
+[01:48:20.840] me permites tirarmele,
+
+[01:48:23.159] ¿eh? Vale. Los 35,
+
+[01:48:26.040] los 35,
+
+[01:48:27.000] ¿vale? que son las 35 de vida,
+
+[01:48:30.920] ¿vale? Y ves que pues levantas esa mano
+
+[01:48:32.440] y te vuelves a curar entero.
+
+[01:48:36.719] Y
+
+[01:48:39.760] Luna, ves que vuelve a estar en sí, me
+
+[01:48:42.400] imagino que estás en el suelo después de
+
+[01:48:44.080] la caída.
+
+[01:48:45.599] Te levantas y de repente ves como
+
+[01:48:47.000] delante tuyo hay una cae una bola de
+
+[01:48:49.119] fuego, pero que te cae hasta aquí, o
+
+[01:48:50.760] sea, la puedes oler y todo.
+
+[01:48:53.679] Mm. Fuego, fuego, fuego. Me gusta esto.
+
+[01:48:56.560] Eh, eh. Yo yo aquí también te quiero
+
+[01:49:02.080] eh hacer algo mezclado.
+
+[01:49:04.440] Vale.
+
+[01:49:05.320] Tengo el como esta es hechicera
+
+[01:49:09.199] hechicera también.
+
+[01:49:10.480] M
+
+[01:49:11.280] yo tengo dentro de los puntos de
+
+[01:49:13.280] hechicería para poder
+
+[01:49:16.199] eh quitar objetivos.
+
+[01:49:18.199] Vale, si el Carful, vale, el Carful,
+
+[01:49:22.280] pero el Carful quiero usarlo con las dos
+
+[01:49:24.400] cargas que tengo del dote de del dragón
+
+[01:49:29.400] cromático. Básicamente lo que quiero es
+
+[01:49:31.280] lo siguiente. Voy a tirar la bola de
+
+[01:49:32.400] fuego, pero eh eh si me compras usar los
+
+[01:49:36.880] puntos de hechicería y las cargas para
+
+[01:49:39.320] que de alguna forma la las alas que
+
+[01:49:42.800] estarían conmigo
+
+[01:49:45.000] eh protejan a Citiali al y al pollo de
+
+[01:49:49.520] la bola de fuego.
+
+[01:49:51.119] Vale, perfecto. Sí, me parece bien. Si
+
+[01:49:54.000] quieres te muevo así y así no no le
+
+[01:49:56.040] salas.
+
+[01:49:58.400] Gracias. Vale, pues sí ves que haces
+
+[01:50:01.159] eso,
+
+[01:50:02.760] pero a mí no me quites.
+
+[01:50:05.199] No, no, ahora devuelvo ahíño.
+
+[01:50:07.719] No, sí, sí. [música] Yo yo es que yo
+
+[01:50:09.679] también tengo algo que rolear en ese
+
+[01:50:11.080] momento de lo de la bola de juego.
+
+[01:50:25.560] Pues eso, el Luna, lo mismo es como es
+
+[01:50:30.800] la hora de purgar, eh, pero pero la la
+
+[01:50:34.639] ven como concentrarse un poco más y como
+
+[01:50:37.040] que estas alas, unas alas espectrales
+
+[01:50:39.880] tipo, o sea, son alas de dragón en
+
+[01:50:41.960] realidad.
+
+[01:50:42.800] A ver, yo también
+
+[01:50:43.679] eh se ponen alrededor de del pollo
+
+[01:50:48.800] y de Citiali para que no le las proteja,
+
+[01:50:52.480] ¿vale?
+
+[01:50:54.079] Es que eso rodean al pollo y y mama.
+
+[01:50:56.360] ¿Ves como te rodean esas salas de fuego
+
+[01:50:58.840] que te protegen y que hay una explosión?
+
+[01:51:00.880] ¿Qué quieres hacer?
+
+[01:51:07.280] Me espero a mi turno.
+
+[01:51:08.360] No, no, sí, vale.
+
+[01:51:10.000] Sí, sí, tú tranquilo.
+
+[01:51:11.920] Vale, pues nada, veríais que Mori pues
+
+[01:51:15.880] va por los por los pasos laterales, ya
+
+[01:51:17.840] que estáis está explotando todo en
+
+[01:51:19.480] medio. Veis a Bonnie y la mayoría de
+
+[01:51:21.719] piratas que pues empiezan a ir por las
+
+[01:51:23.679] partes laterales, ¿sabes?, al lado de la
+
+[01:51:25.360] jungla, matando a todos los a todos los
+
+[01:51:27.280] marines que intentan huir y verías como
+
+[01:51:29.760] van acabando con algunos de ellos,
+
+[01:51:32.079] ¿vale? Se podrían ir acabando
+
+[01:51:36.000] y
+
+[01:51:38.639] el honor
+
+[01:51:44.239] eh
+
+[01:51:45.920] lo que va a hacer es acabar con
+
+[01:51:47.560] estamente.
+
+[01:51:50.400] Espérate que me está saliendo a Yoto
+
+[01:51:52.400] cuando marco A con la T.
+
+[01:51:56.320] Ya quisiera,
+
+[01:51:58.040] ya quisiera que Yoto. Ah,
+
+[01:52:06.760] pues cómo lo haces.
+
+[01:52:10.360] Como mi espada se vuelve inir con la
+
+[01:52:12.119] misma energía que estaba con el oso
+
+[01:52:15.320] para tirar el también. Vale,
+
+[01:52:18.440] eh
+
+[01:52:21.400] ves como la levanto, tiro una slash
+
+[01:52:23.639] hacia abajo como para hacer un engaño y
+
+[01:52:26.360] tiro la espada hacia arriba y justo cae
+
+[01:52:28.199] el rayo haciendo que te te quede la
+
+[01:52:30.400] espada clavada en su cabeza. Vale, pues
+
+[01:52:33.800] es que lo haces y y
+
+[01:52:36.800] lo partes en dos
+
+[01:52:41.239] y en ese momento
+
+[01:52:44.719] sí
+
+[01:52:46.320] que ese momento que partes al general
+
+[01:52:48.760] por la mitad
+
+[01:52:50.040] ves que la mayoría ya de pocos mines que
+
+[01:52:52.360] quedan que Tilali acaba de matar a otro
+
+[01:52:54.520] general, la otra bola de fuego de de
+
+[01:52:57.119] Luna Spot y la de y la de Randin pues
+
+[01:52:59.159] han acabado con nosotros Y veis ya los
+
+[01:53:01.840] marines que como ya no verán ningún ord
+
+[01:53:04.239] de autoridad, empiezan incluso a soltar
+
+[01:53:06.199] las armas y a empezar a correr. Y ves
+
+[01:53:09.000] que empiezan a correr lo que puedan.
+
+[01:53:10.840] Veis que los piratas sí que intentan
+
+[01:53:12.320] acabar con todos los que intentan salir
+
+[01:53:14.079] a la jungla y algunos os escucháis
+
+[01:53:16.920] gritar entrando en la jungla.
+
+[01:53:22.199] Sé
+
+[01:53:24.440] mover a a por aquí. Sí, posible.
+
+[01:53:29.520] Lo que quiero es ahora mismo es eh
+
+[01:53:33.079] cómo agarrar al al que tengo aquí
+
+[01:53:34.480] delante, ya que voy a aul cuál cuál
+
+[01:53:38.480] a este. Como agarrarlo de aquí del
+
+[01:53:40.239] cuello para que se quede ahí quieto.
+
+[01:53:42.719] Agarra este, agarra este, agarra este.
+
+[01:53:44.400] Me parece. No, no, no. Me parece bien,
+
+[01:53:46.119] me parece bien. Vale, vale.
+
+[01:53:47.320] No matarlo. O sea,
+
+[01:53:49.040] viendo cómo tienes sus ojos en venganza,
+
+[01:53:50.719] sé lo que es la venganza, sé lo que es
+
+[01:53:52.679] la muerte y siento que algo no anda muy
+
+[01:53:55.760] bien, entonces no voy a quitar una baja,
+
+[01:53:57.560] pero sin cogerlo desde la nuca como para
+
+[01:54:01.119] no te vas a,
+
+[01:54:02.440] ¿vale? Que lo coges y se queda así
+
+[01:54:04.079] parado y y ve a la a la joven
+
+[01:54:09.560] patrona.
+
+[01:54:11.440] Y mamá, ¿qué vas a hacer?
+
+[01:54:15.440] Después de esas alas de fuego que me
+
+[01:54:18.679] protegieron de la bola de fuego,
+
+[01:54:21.520] ven como una mano las las aparta.
+
+[01:54:26.199] La ropa no está completamente quemada,
+
+[01:54:28.800] pero pueden ver fuego en esa ropa.
+
+[01:54:33.400] Puede incluso no tanto, pero sí pueden
+
+[01:54:36.040] ver ciertas partes de [música] la piel
+
+[01:54:38.079] de esta señora quemada
+
+[01:54:41.040] y aún así no refleja que le esté
+
+[01:54:43.199] doliendo.
+
+[01:54:45.000] va a poner después de que ve que
+
+[01:54:49.239] esta enorme mujer está agarrando a a
+
+[01:54:52.560] este Marín, lo le [música] va a poner la
+
+[01:54:55.199] mano en el pecho y va a seguir
+
+[01:54:57.560] absorbiendo, o sea, va nuevamente, o
+
+[01:55:00.400] sea, va a quitarles todo, todo hasta que
+
+[01:55:04.239] ella se sienta satisfecha y va a estar
+
+[01:55:07.639] muy cabrón que se sienta ya satisfecha.
+
+[01:55:11.480] Y ves que lo haces.
+
+[01:55:15.199] le arrebatas toda esa como una especie
+
+[01:55:17.560] de vida vital que ves que el hombre como
+
+[01:55:18.920] empieza a chuparse como un viejo que
+
+[01:55:20.639] queda totalmente chupado en los huesos y
+
+[01:55:23.199] ves que lo sueltas y es como un masojo
+
+[01:55:25.560] de de huesos en una bolsa.
+
+[01:55:28.840] Y
+
+[01:55:31.560] me diríais que
+
+[01:55:33.880] ya habéis acabado con la mayoría de
+
+[01:55:38.719] de marines.
+
+[01:55:41.000] Los pocos que hay ya están huyendo.
+
+[01:55:45.880] Y veis que los payatas empiezan como a
+
+[01:55:48.760] celebrar la victoria. Vale, voy a hacer
+
+[01:55:50.599] estoquito y así
+
+[01:55:54.719] ves que los piratas como empiezan a
+
+[01:55:56.480] celebrar la victoria. ¿sabes?
+
+[01:55:58.800] [grito ahogado]
+
+[01:55:59.199] a gritar que han acabado con con todos
+
+[01:56:01.000] esos marines y estáis
+
+[01:56:05.000] vosotros
+
+[01:56:06.840] la mayoría jadeando de ir hacia un lado
+
+[01:56:09.119] a otro, de salir volando hacia arriba y
+
+[01:56:11.079] caer.
+
+[01:56:14.920] Voy a quitar todo esto porque así será
+
+[01:56:16.400] más cómodo. Y nada,
+
+[01:56:19.159] veis que os habéis acabado el combate
+
+[01:56:24.400] y
+
+[01:56:26.599] Moli se acerca.
+
+[01:56:30.520] Ves que está un poco cansada, ¿sabes? Va
+
+[01:56:34.400] respirando con dificultad, ves que tiene
+
+[01:56:36.000] algunas heridas, algunos disparos,
+
+[01:56:37.760] ¿sabes? Con, ¿sabes? manchas de sangre y
+
+[01:56:41.320] ves que llega donde estáis vosotros y
+
+[01:56:44.079] este vaya no me esperaba un combate así
+
+[01:56:47.719] y menos que apareciera
+
+[01:56:50.040] un oso gigante con lanzando un pájaro y
+
+[01:56:53.679] y ves que mira a Luna y al pollo. Dice,
+
+[01:56:57.599] "Y esa señora mayor que
+
+[01:57:00.880] y ves que se te queda mirando." Mamá,
+
+[01:57:06.040] ella está Sitlali está de espaldas.
+
+[01:57:10.040] Eh, está tratando de asimilar lo que
+
+[01:57:13.280] está sintiendo.
+
+[01:57:15.079] Poco a poco voltea la mirada hacia donde
+
+[01:57:18.560] este vino la explosión
+
+[01:57:21.199] y ese rostro joven
+
+[01:57:24.040] está lleno de lágrimas.
+
+[01:57:29.360] ¿Qué vais a hacer?
+
+[01:57:30.079] ¿Qué pasa, mamá? No, yo le pregunto
+
+[01:57:32.360] directamente, ¿qué pasa?
+
+[01:57:35.480] Sí, sí, sí si el pollito está bien
+
+[01:57:40.280] sin entender lo que está pasando.
+
+[01:57:44.679] Saco de entre mi falda la cajita
+
+[01:57:48.960] musical.
+
+[01:57:51.760] Nox se ha ido.
+
+[01:57:56.440] Nox siempre se va.
+
+[01:57:58.840] ¿Qué sería extraño?
+
+[01:58:01.119] ¿Qué qué
+
+[01:58:05.280] siempre vuelve es?
+
+[01:58:11.040] Empezaba a
+
+[01:58:13.440] mover la cajita musical,
+
+[01:58:16.679] se le hace un nudo en la garganta
+
+[01:58:20.960] y ven que las lágrimas no se detienen.
+
+[01:58:25.360] Levanta la mirada hacia Molly.
+
+[01:58:29.239] Y no es necesario decir nada.
+
+[01:58:33.280] Sabe, sabes, Molly sabe perfectamente
+
+[01:58:37.840] qué significa esa mirada, una mirada
+
+[01:58:40.880] rota
+
+[01:58:42.520] de alguien que acaba de perder a su
+
+[01:58:46.280] hijo.
+
+[01:58:48.800] Es
+
+[01:58:48.880] que Molia abre mucho los ojos, incluso
+
+[01:58:50.840] se le cae el arma al suelo y se queda
+
+[01:58:53.719] totalmente parada.
+
+[01:58:56.480] Ele, ¿qué haces?
+
+[01:59:01.800] Yo lo que eh en lo que termino de
+
+[01:59:04.159] escuchar
+
+[01:59:06.239] volteo, voy a voy a ver a ver Andy y
+
+[01:59:11.840] ver cómo se encuentra
+
+[01:59:14.520] y cómo está Andy. Eh, tú puedes ver que
+
+[01:59:17.760] ellas de hecho cuando hay un momento en
+
+[01:59:20.960] que se queda completamente en silencio,
+
+[01:59:24.079] eh, cuando se va calmando el fragor de
+
+[01:59:27.159] la batalla, ella está como con la cabeza
+
+[01:59:31.040] hacia abajo, se le ve que el cuerpo le
+
+[01:59:34.560] tiembla un poco, como todavía teniendo
+
+[01:59:37.639] los resquicios [música] de la
+
+[01:59:39.280] adrenalina, corriendo por sus venas,
+
+[01:59:42.719] pero no dice nada. Es como que la mirada
+
+[01:59:45.440] está fija, es en el suelo,
+
+[01:59:48.800] pero es más como sabes Rock Lee en las
+
+[01:59:52.560] pruebas Chun
+
+[01:59:54.719] que Gary cuando lo ve estaba ido, pero
+
+[01:59:58.880] porque su cuerpo estaba desmayado de que
+
+[02:00:02.679] estaba tanto en shock que estaba es así
+
+[02:00:05.320] de de pie.
+
+[02:00:07.520] Vale.
+
+[02:00:08.119] Sí, sí, sí. como Adán en en Ragnarok
+
+[02:00:12.360] seguía.
+
+[02:00:13.960] Ya está. Realmente lo que le permite
+
+[02:00:16.599] estar en pie es su voluntad y el la
+
+[02:00:21.800] pasión que y el digamos ese ese
+
+[02:00:27.800] es el servicio que le tiene al a su Dios
+
+[02:00:32.719] que le permite estar en pie, pero
+
+[02:00:34.599] realmente su cuerpo está agotado, o sea,
+
+[02:00:37.360] se si tú la mueves un poco se desploma.
+
+[02:00:41.000] ¿Vale?
+
+[02:00:44.800] Y
+
+[02:00:47.679] veis
+
+[02:00:49.599] como mientras los piratas están
+
+[02:00:53.119] vociferando esa victoria,
+
+[02:00:57.760] los que estáis aquí apartados
+
+[02:01:00.880] estáis con esa
+
+[02:01:04.159] expresión de decaída.
+
+[02:01:07.239] Luna no parece saber qué está [música]
+
+[02:01:08.679] pasando, pero ve a mamá llorar. El pollo
+
+[02:01:12.280] también está como un poco agazapado, no
+
+[02:01:14.639] lo entiende, pero también siente que
+
+[02:01:17.400] algo está pasando mal. Bonnie también. Y
+
+[02:01:21.159] y Erandy juntos.
+
+[02:01:24.800] Y entonces, mamá,
+
+[02:01:28.679] cuando estás mirando hacia el horizonte,
+
+[02:01:31.199] donde ves [música] esa columna de humo
+
+[02:01:34.520] por encima de los árboles,
+
+[02:01:38.920] hay algo más. [música] Uy, no, no he
+
+[02:01:40.560] hecho de noche. Se ha hecho de noche.
+
+[02:01:44.360] Ves que
+
+[02:01:47.440] miras hacia ese es hacia hacia el este y
+
+[02:01:51.320] ves eso por encima de los árboles. Pero
+
+[02:01:56.760] en ese momento ves algo más
+
+[02:02:01.760] cercano a la costa, justo al sur. Al
+
+[02:02:07.159] este, justo yendo hacia el este, donde
+
+[02:02:08.679] estáis ahora. hacia la costa, hacia la
+
+[02:02:10.840] playa.
+
+[02:02:12.920] Ves por encima de los árboles
+
+[02:02:16.560] unas banderas negras,
+
+[02:02:21.199] unas velas negras que pasan de un barco
+
+[02:02:23.360] que parece que está yendo como a la
+
+[02:02:26.440] deriva por la costa
+
+[02:02:29.400] con una bandera ondeando.
+
+[02:02:32.800] Una bandera que has visto más de una
+
+[02:02:35.920] vez.
+
+[02:02:40.079] la bandera del Zampagolas.
+
+[02:02:43.560] Y veis como en ese momento,
+
+[02:02:45.960] pum, se para
+
+[02:02:48.239] y se queda meciéndose
+
+[02:02:50.560] como si estuviera varado
+
+[02:02:53.760] hacia el este
+
+[02:02:56.360] en la costa.
+
+[02:03:00.400] Y si lo que
+
+[02:03:03.360] lo que hace es eh intenta caminar hacia
+
+[02:03:08.520] el San Paolas con esa ilusión
+
+[02:03:12.560] de que volverá a ver a Amaru,
+
+[02:03:16.599] pero en cuanto da apenas el primer paso,
+
+[02:03:20.800] sus piernas flaquean.
+
+[02:03:24.280] tiene la mirada completamente perdida.
+
+[02:03:27.400] Tiene una ilusión fantasma
+
+[02:03:30.520] queriendo ver si todavía está si es
+
+[02:03:34.685] [música] que volverá con sus chistes
+
+[02:03:39.000] de tan malos, con ese olor a rón,
+
+[02:03:44.520] esa esas trenzas desechas
+
+[02:03:49.559] y esa imagen tan infantil.
+
+[02:03:53.000] en ese cofre.
+
+[02:03:55.400] La última vez que lo vio de niño y la
+
+[02:03:59.079] primera vez que lo vio de hombre.
+
+[02:04:02.840] Trata de arrastrarse, de seguir
+
+[02:04:06.400] caminando,
+
+[02:04:08.119] queriendo ir a a ver el barco, a ver si
+
+[02:04:11.559] si sigue ahí, si está ahí.
+
+[02:04:15.599] Sabe que no. algo algo dentro de ella le
+
+[02:04:18.000] dice que no, pero sigue insiste
+
+[02:04:22.679] y
+
+[02:04:24.239] ella intenta llegar allá como puede.
+
+[02:04:30.320] Y veis los demás
+
+[02:04:34.840] como mama pues eso, va hacia esa
+
+[02:04:37.679] dirección a la que vosotros veis a
+
+[02:04:39.520] correr hacia ahí. Podéis ver por encima
+
+[02:04:41.119] de los árboles ese barco varado, ¿sabes?
+
+[02:04:44.159] Se peleáis la bandera y algo de las
+
+[02:04:46.599] velas.
+
+[02:04:49.000] Y con esto veríamos que nos vamos
+
+[02:04:52.040] alejando de Kuroto
+
+[02:04:54.159] para alejar
+
+[02:04:54.880] Curoto.
+
+[02:04:55.400] Ay, de Curoto.
+
+[02:04:56.000] ¿Qué pasó? ¿Qué pasó?
+
+[02:04:58.000] Vale, tienes inspiración, pero ya tienes
+
+[02:04:59.520] inspiración, mamá.
+
+[02:05:00.840] Guárdamelo. [risas]
+
+[02:05:05.760] Pues nos vamos alejando
+
+[02:05:08.639] y fundiríamos a negro, pero no nos
+
+[02:05:12.199] iríamos.
+
+[02:05:14.559] Porque
+
+[02:05:16.440] veríamos a
+
+[02:05:18.880] ese ser que ha estado hablando con mama
+
+[02:05:22.440] durante mucho tiempo.
+
+[02:05:26.000] Y veis que en ese momento pasa la mano,
+
+[02:05:29.480] se acerca como una especie de altar,
+
+[02:05:32.239] pasa la mano por encima
+
+[02:05:34.840] y veis como unas marcas,
+
+[02:05:38.520] una especie de símbolos se iluminan.
+
+[02:05:43.400] Y al iluminarse
+
+[02:05:45.599] vemos que son exactamente los símbolos
+
+[02:05:49.920] que tiene mamá en el cuerpo
+
+[02:05:53.800] y la serpiente si sea aún
+
+[02:05:57.559] ya es la hora.
+
+[02:06:01.040] Y con esto
+
+[02:06:04.400] sí acabamos el capítulo de Xoltacan
+
+[02:06:08.239] y le podéis decir adiós a YouTube.
+
+[02:06:13.840] Co?

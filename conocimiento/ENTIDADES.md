@@ -9,6 +9,10 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 41, 01:42:01.320: Naór queda atrapada y sufre veneno durante el combate ([41-039](capitulos/41.md)).
 - Cap. 41, 02:08:00.000: La abominación cae tras los últimos ataques ([41-046](capitulos/41.md)).
 
+## Altar de los símbolos de Citlali
+
+- Cap. 43, 02:05:14.559: El ser serpentino activa un altar con los símbolos de Citlali ([43-062](capitulos/43.md)).
+
 ## Angélica Thunder
 
 - Cap. 31, 02:34:00.000: Naór y Triel comen mientras Coyote habla con la tabernera ([31-022](capitulos/31.md)).
@@ -37,6 +41,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 23, 00:21:00.000: Negociación fallida y herramientas ([23-003](capitulos/23.md)).
 - Cap. 35, 00:20:00.000: Negocios de Nox y nombre Armin ([35-004](capitulos/35.md)).
 - Cap. 42, 00:08:05.039: Shiaru reúne a sus defensores en la plaza ([42-006](capitulos/42.md)).
+- Cap. 43, 00:08:03.360: Los habitantes se concentran en Shiaru ([43-006](capitulos/43.md)).
 
 ## Atlan
 
@@ -778,6 +783,15 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 42, 02:22:01.359: Taylor dice haber capturado al joven Jackie rumbo a Puerto de Espadas ([42-070](capitulos/42.md)).
 - Cap. 42, 02:22:59.960: Taylor acusa a Bonnie de romper un pacto y ocultar Xoltacan ([42-071](capitulos/42.md)).
 - Cap. 42, 02:23:47.600: Taylor dispara a la frente de Bonnie y el director despide a tres personajes ([42-072](capitulos/42.md)).
+- Cap. 43, 00:00:41.280: Erandy y Eleanor se preparan para la defensa terrestre ([43-002](capitulos/43.md)).
+- Cap. 43, 00:06:34.120: Las defensas de la jungla ya han sido inspeccionadas ([43-005](capitulos/43.md)).
+- Cap. 43, 00:08:03.360: Los habitantes se concentran en Shiaru ([43-006](capitulos/43.md)).
+- Cap. 43, 00:10:14.800: La moneda de Bonnie convoca la tormenta de la partida ([43-007](capitulos/43.md)).
+- Cap. 43, 00:28:25.039: El grupo despliega una emboscada y refuerza sus defensas ([43-016](capitulos/43.md)).
+
+## Broche de Eleanor
+
+- Cap. 43, 00:27:15.159: Eleanor entrega a Molly el broche de su tierra ([43-015](capitulos/43.md)).
 
 ## Brújula de deseos de Nox
 
@@ -788,6 +802,11 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 ## Cabaña del Sueño
 
 - Cap. 16, 02:10:40.000: Comercios de Cuicapalli y tatuajes ([16-018](capitulos/16.md)).
+
+## Caja de música de Citlali
+
+- Cap. 43, 00:03:45.400: Citlali recuerda la caja de música y huye de Iktan con la cría ([43-003](capitulos/43.md)).
+- Cap. 43, 01:57:06.040: La caja musical acompaña el duelo de Citlali por Nox ([43-059](capitulos/43.md)).
 
 ## Camar Taruan
 
@@ -809,6 +828,11 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 21, 00:06:00.000: Venta y robo del casino ([21-002](capitulos/21.md)).
 - Cap. 23, 00:00:00.000: La carta de Nox impulsa el rescate ([23-001](capitulos/23.md)).
 - Cap. 29, 00:00:00.000: Trampas reforzadas y casino aún cerrado ([29-001](capitulos/29.md)).
+
+## Cañón tomado por Lunaria
+
+- Cap. 43, 01:07:07.760: Lunaria utiliza un cañón como garrote y sale impulsada ([43-034](capitulos/43.md)).
+- Cap. 43, 01:18:25.199: Un segundo disparo lanza a Lunaria y Eleanor ([43-039](capitulos/43.md)).
 
 ## Chalta
 
@@ -849,6 +873,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 42, 02:18:23.399: Bonnie saluda a Diente de Oro, Banana, Sonriente y Taylor ([42-069](capitulos/42.md)).
 - Cap. 42, 02:22:59.960: Taylor acusa a Bonnie de romper un pacto y ocultar Xoltacan ([42-071](capitulos/42.md)).
 - Cap. 42, 02:23:47.600: Taylor dispara a la frente de Bonnie y el director despide a tres personajes ([42-072](capitulos/42.md)).
+- Cap. 43, 00:10:14.800: La moneda de Bonnie convoca la tormenta de la partida ([43-007](capitulos/43.md)).
 
 ## Cipo
 
@@ -1123,6 +1148,35 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 39, 02:04:00.000: Hospitalidad de la ciudad oculta y una elfa enferma ([39-018](capitulos/39.md)).
 - Cap. 39, 02:12:00.000: Descanso en Iktan y expulsión de Coyote ([39-020](capitulos/39.md)).
 - Cap. 41, 00:14:04.950: Los visitantes reciben bebida y Blink presenta a Winscore ([41-007](capitulos/41.md)).
+- Cap. 43, 00:03:45.400: Citlali recuerda la caja de música y huye de Iktan con la cría ([43-003](capitulos/43.md)).
+- Cap. 43, 00:17:31.240: El malestar de Citlali la lleva a pedir ayuda a Luna ([43-011](capitulos/43.md)).
+- Cap. 43, 00:20:23.720: Luna se transforma en oso para transportar a Citlali ([43-012](capitulos/43.md)).
+- Cap. 43, 00:21:34.240: Citlali tiene una visión de un pirata y de la batalla bajo el agua ([43-013](capitulos/43.md)).
+- Cap. 43, 00:45:41.480: Citlali y Lunaria ven formarse una tormenta sobre el mar ([43-024](capitulos/43.md)).
+- Cap. 43, 00:55:42.480: Lunaria arroja a Etley contra los marines ([43-030](capitulos/43.md)).
+- Cap. 43, 01:00:00.480: Citlali entra con el arco y después con sus chanclas ([43-032](capitulos/43.md)).
+- Cap. 43, 01:03:02.599: Erandy se entrega al trance solar y dispersa a más mandos ([43-033](capitulos/43.md)).
+- Cap. 43, 01:09:48.000: Eleanor marca la retaguardia y llama a cargar ([43-035](capitulos/43.md)).
+- Cap. 43, 01:12:11.000: Eleanor utiliza el perro caído para montar sobre Lunaria ([43-036](capitulos/43.md)).
+- Cap. 43, 01:13:34.760: El toque de Citlali cierra sus heridas y rejuvenece su piel ([43-037](capitulos/43.md)).
+- Cap. 43, 01:15:59.920: Erandy ignora la orden y lanza rayos abrasadores ([43-038](capitulos/43.md)).
+- Cap. 43, 01:20:48.239: La combatiente que acompaña al grupo protege a Citlali ([43-041](capitulos/43.md)).
+- Cap. 43, 01:23:57.280: La explosión en el mar interrumpe el combate y hace arder los tatuajes de Citlali ([43-044](capitulos/43.md)).
+- Cap. 43, 01:26:01.360: Una visión de Nox y el ser serpentino incita a Citlali a matar ([43-045](capitulos/43.md)).
+- Cap. 43, 01:28:17.920: Citlali cambia la curación por la absorción violenta de vida ([43-046](capitulos/43.md)).
+- Cap. 43, 01:33:33.920: El oso de Lunaria impacta con la energía de Eleanor ([43-048](capitulos/43.md)).
+- Cap. 43, 01:39:22.000: Los compañeros ven rejuvenecer a Citlali y envejecer a sus víctimas ([43-050](capitulos/43.md)).
+- Cap. 43, 01:41:50.400: Citlali mata al general mientras los marines huyen hacia las trampas ([43-051](capitulos/43.md)).
+- Cap. 43, 01:44:54.520: Erandy recupera magia por el chat y lanza fuego cerca de sus aliados ([43-052](capitulos/43.md)).
+- Cap. 43, 01:48:39.760: Lunaria protege a Citlali y Etley antes de lanzar otra bola de fuego ([43-054](capitulos/43.md)).
+- Cap. 43, 01:51:11.920: La caída de los generales rompe la resistencia terrestre ([43-055](capitulos/43.md)).
+- Cap. 43, 01:53:22.199: Eleanor retiene a un marine para Citlali sin rematarlo ella ([43-056](capitulos/43.md)).
+- Cap. 43, 01:54:11.440: Citlali consume la vida del marine retenido ([43-057](capitulos/43.md)).
+- Cap. 43, 01:55:31.560: Los piratas celebran la victoria y Molly llega herida ([43-058](capitulos/43.md)).
+- Cap. 43, 01:57:06.040: La caja musical acompaña el duelo de Citlali por Nox ([43-059](capitulos/43.md)).
+- Cap. 43, 01:58:56.480: Eleanor comprueba el agotamiento extremo de Erandy ([43-060](capitulos/43.md)).
+- Cap. 43, 02:01:24.800: Citlali ve el Zampaolas detenido en la costa y trata de alcanzarlo ([43-061](capitulos/43.md)).
+- Cap. 43, 02:05:14.559: El ser serpentino activa un altar con los símbolos de Citlali ([43-062](capitulos/43.md)).
 
 ## Claro de los restos envenenados
 
@@ -1435,6 +1489,22 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 42, 01:12:00.159: El ancla permite al Zampaolas cerrar el giro ([42-037](capitulos/42.md)).
 - Cap. 42, 01:19:54.520: Pinky incendia la pólvora de los escoltas ([42-042](capitulos/42.md)).
 - Cap. 42, 01:28:43.760: Nox dirige el Invictus hacia la flota y prepara la pólvora ([42-047](capitulos/42.md)).
+- Cap. 43, 00:00:01.280: La sesión comienza al mismo tiempo que el capítulo naval ([43-001](capitulos/43.md)).
+- Cap. 43, 00:06:34.120: Las defensas de la jungla ya han sido inspeccionadas ([43-005](capitulos/43.md)).
+- Cap. 43, 00:14:50.120: Molly conduce a unos veinte piratas hacia el embudo ([43-010](capitulos/43.md)).
+- Cap. 43, 00:23:58.679: Molly llega al punto defensivo y permite huir si es necesario ([43-014](capitulos/43.md)).
+- Cap. 43, 00:28:25.039: El grupo despliega una emboscada y refuerza sus defensas ([43-016](capitulos/43.md)).
+- Cap. 43, 00:30:42.799: Eleanor intenta ocultarse bajo hojas y prepara su transformación ([43-017](capitulos/43.md)).
+- Cap. 43, 00:31:46.279: Los marines llegan con perros, artillería y oficiales montados ([43-018](capitulos/43.md)).
+- Cap. 43, 00:37:58.599: La primera descarga de la Marina mata a piratas de la defensa ([43-020](capitulos/43.md)).
+- Cap. 43, 00:41:04.280: Erandy elige el lugar para lanzar su bola de fuego ([43-022](capitulos/43.md)).
+- Cap. 43, 00:48:18.839: La tormenta de una reina pirata se ve desde la lucha terrestre ([43-025](capitulos/43.md)).
+- Cap. 43, 00:51:32.559: Otra bola de fuego destroza tropas, caballos y artillería ([43-027](capitulos/43.md)).
+- Cap. 43, 00:55:42.480: Lunaria arroja a Etley contra los marines ([43-030](capitulos/43.md)).
+- Cap. 43, 01:23:57.280: La explosión en el mar interrumpe el combate y hace arder los tatuajes de Citlali ([43-044](capitulos/43.md)).
+- Cap. 43, 01:41:50.400: Citlali mata al general mientras los marines huyen hacia las trampas ([43-051](capitulos/43.md)).
+- Cap. 43, 01:51:11.920: La caída de los generales rompe la resistencia terrestre ([43-055](capitulos/43.md)).
+- Cap. 43, 02:01:24.800: Citlali ve el Zampaolas detenido en la costa y trata de alcanzarlo ([43-061](capitulos/43.md)).
 
 ## El Huevo Emplumado
 
@@ -1591,11 +1661,51 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 38, 00:00:00.000: Reencuentro de la escudera y rastreo del licántropo ([38-001](capitulos/38.md)).
 - Cap. 42, 00:08:05.039: Shiaru reúne a sus defensores en la plaza ([42-006](capitulos/42.md)).
 - Cap. 42, 00:20:27.440: Bonnie reclama la defensa de la libertad de Shiaru ([42-011](capitulos/42.md)).
+- Cap. 43, 00:00:41.280: Erandy y Eleanor se preparan para la defensa terrestre ([43-002](capitulos/43.md)).
+- Cap. 43, 00:06:34.120: Las defensas de la jungla ya han sido inspeccionadas ([43-005](capitulos/43.md)).
+- Cap. 43, 00:12:06.720: Erandy protege a Eleanor antes de marchar ([43-009](capitulos/43.md)).
+- Cap. 43, 00:14:50.120: Molly conduce a unos veinte piratas hacia el embudo ([43-010](capitulos/43.md)).
+- Cap. 43, 00:23:58.679: Molly llega al punto defensivo y permite huir si es necesario ([43-014](capitulos/43.md)).
+- Cap. 43, 00:27:15.159: Eleanor entrega a Molly el broche de su tierra ([43-015](capitulos/43.md)).
+- Cap. 43, 00:28:25.039: El grupo despliega una emboscada y refuerza sus defensas ([43-016](capitulos/43.md)).
+- Cap. 43, 00:30:42.799: Eleanor intenta ocultarse bajo hojas y prepara su transformación ([43-017](capitulos/43.md)).
+- Cap. 43, 00:31:46.279: Los marines llegan con perros, artillería y oficiales montados ([43-018](capitulos/43.md)).
+- Cap. 43, 00:34:53.599: Erandy invoca al Sol y prepara una bola de fuego ([43-019](capitulos/43.md)).
+- Cap. 43, 00:40:02.440: Eleanor levanta el escudo y Erandy recibe heridas de bala ([43-021](capitulos/43.md)).
+- Cap. 43, 00:41:56.520: Erandy invoca al Sol y prende un batallón ([43-023](capitulos/43.md)).
+- Cap. 43, 00:49:27.520: La artillería alcanza a Erandy, Molly y Eleanor ([43-026](capitulos/43.md)).
+- Cap. 43, 00:54:33.400: Eleanor deja el escudo como cobertura para su escudera ([43-029](capitulos/43.md)).
+- Cap. 43, 00:59:01.520: Los golpes masivos hacen flaquear la formación ([43-031](capitulos/43.md)).
+- Cap. 43, 01:09:48.000: Eleanor marca la retaguardia y llama a cargar ([43-035](capitulos/43.md)).
+- Cap. 43, 01:12:11.000: Eleanor utiliza el perro caído para montar sobre Lunaria ([43-036](capitulos/43.md)).
+- Cap. 43, 01:13:34.760: El toque de Citlali cierra sus heridas y rejuvenece su piel ([43-037](capitulos/43.md)).
+- Cap. 43, 01:15:59.920: Erandy ignora la orden y lanza rayos abrasadores ([43-038](capitulos/43.md)).
+- Cap. 43, 01:18:25.199: Un segundo disparo lanza a Lunaria y Eleanor ([43-039](capitulos/43.md)).
+- Cap. 43, 01:19:43.800: Eleanor adopta la forma de ángel caído ([43-040](capitulos/43.md)).
+- Cap. 43, 01:20:48.239: La combatiente que acompaña al grupo protege a Citlali ([43-041](capitulos/43.md)).
+- Cap. 43, 01:21:50.120: Eleanor propone imbuir al oso con la energía de smite ([43-042](capitulos/43.md)).
+- Cap. 43, 01:22:34.560: Eleanor prepara el descenso de Lunaria con un golpe divino ([43-043](capitulos/43.md)).
+- Cap. 43, 01:23:57.280: La explosión en el mar interrumpe el combate y hace arder los tatuajes de Citlali ([43-044](capitulos/43.md)).
+- Cap. 43, 01:33:33.920: El oso de Lunaria impacta con la energía de Eleanor ([43-048](capitulos/43.md)).
+- Cap. 43, 01:37:05.639: Eleanor aterroriza a los marines, pero falla su orden de arrodillarse ([43-049](capitulos/43.md)).
+- Cap. 43, 01:39:22.000: Los compañeros ven rejuvenecer a Citlali y envejecer a sus víctimas ([43-050](capitulos/43.md)).
+- Cap. 43, 01:47:54.800: Eleanor se cura al atravesar el fuego ([43-053](capitulos/43.md)).
+- Cap. 43, 01:51:11.920: La caída de los generales rompe la resistencia terrestre ([43-055](capitulos/43.md)).
+- Cap. 43, 01:53:22.199: Eleanor retiene a un marine para Citlali sin rematarlo ella ([43-056](capitulos/43.md)).
+- Cap. 43, 01:54:11.440: Citlali consume la vida del marine retenido ([43-057](capitulos/43.md)).
+- Cap. 43, 01:58:56.480: Eleanor comprueba el agotamiento extremo de Erandy ([43-060](capitulos/43.md)).
 
 ## Elger Banana
 
 - Cap. 06, 01:15:20.000: Ione identifica a Elger Banana ([06-018](capitulos/06.md)).
 - Cap. 42, 02:18:23.399: Bonnie saluda a Diente de Oro, Banana, Sonriente y Taylor ([42-069](capitulos/42.md)).
+
+## Entidad serpentina vinculada a Citlali
+
+- Cap. 43, 01:26:01.360: Una visión de Nox y el ser serpentino incita a Citlali a matar ([43-045](capitulos/43.md)).
+- Cap. 43, 01:28:17.920: Citlali cambia la curación por la absorción violenta de vida ([43-046](capitulos/43.md)).
+- Cap. 43, 01:39:22.000: Los compañeros ven rejuvenecer a Citlali y envejecer a sus víctimas ([43-050](capitulos/43.md)).
+- Cap. 43, 02:05:14.559: El ser serpentino activa un altar con los símbolos de Citlali ([43-062](capitulos/43.md)).
 
 ## Erandy
 
@@ -1639,6 +1749,32 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 38, 02:17:00.000: Ione tranquiliza a Poncelot y se revela la propiedad del cofre ([38-018](capitulos/38.md)).
 - Cap. 40, 00:00:24.960: Ilikar entra en la selva buscando un regalo ([40-001](capitulos/40.md)).
 - Cap. 42, 00:08:05.039: Shiaru reúne a sus defensores en la plaza ([42-006](capitulos/42.md)).
+- Cap. 43, 00:00:41.280: Erandy y Eleanor se preparan para la defensa terrestre ([43-002](capitulos/43.md)).
+- Cap. 43, 00:06:34.120: Las defensas de la jungla ya han sido inspeccionadas ([43-005](capitulos/43.md)).
+- Cap. 43, 00:12:06.720: Erandy protege a Eleanor antes de marchar ([43-009](capitulos/43.md)).
+- Cap. 43, 00:14:50.120: Molly conduce a unos veinte piratas hacia el embudo ([43-010](capitulos/43.md)).
+- Cap. 43, 00:23:58.679: Molly llega al punto defensivo y permite huir si es necesario ([43-014](capitulos/43.md)).
+- Cap. 43, 00:27:15.159: Eleanor entrega a Molly el broche de su tierra ([43-015](capitulos/43.md)).
+- Cap. 43, 00:28:25.039: El grupo despliega una emboscada y refuerza sus defensas ([43-016](capitulos/43.md)).
+- Cap. 43, 00:34:53.599: Erandy invoca al Sol y prepara una bola de fuego ([43-019](capitulos/43.md)).
+- Cap. 43, 00:37:58.599: La primera descarga de la Marina mata a piratas de la defensa ([43-020](capitulos/43.md)).
+- Cap. 43, 00:40:02.440: Eleanor levanta el escudo y Erandy recibe heridas de bala ([43-021](capitulos/43.md)).
+- Cap. 43, 00:41:04.280: Erandy elige el lugar para lanzar su bola de fuego ([43-022](capitulos/43.md)).
+- Cap. 43, 00:41:56.520: Erandy invoca al Sol y prende un batallón ([43-023](capitulos/43.md)).
+- Cap. 43, 00:49:27.520: La artillería alcanza a Erandy, Molly y Eleanor ([43-026](capitulos/43.md)).
+- Cap. 43, 00:51:32.559: Otra bola de fuego destroza tropas, caballos y artillería ([43-027](capitulos/43.md)).
+- Cap. 43, 00:54:33.400: Eleanor deja el escudo como cobertura para su escudera ([43-029](capitulos/43.md)).
+- Cap. 43, 00:59:01.520: Los golpes masivos hacen flaquear la formación ([43-031](capitulos/43.md)).
+- Cap. 43, 01:03:02.599: Erandy se entrega al trance solar y dispersa a más mandos ([43-033](capitulos/43.md)).
+- Cap. 43, 01:09:48.000: Eleanor marca la retaguardia y llama a cargar ([43-035](capitulos/43.md)).
+- Cap. 43, 01:15:59.920: Erandy ignora la orden y lanza rayos abrasadores ([43-038](capitulos/43.md)).
+- Cap. 43, 01:28:17.920: Citlali cambia la curación por la absorción violenta de vida ([43-046](capitulos/43.md)).
+- Cap. 43, 01:30:41.679: Erandy interpreta la explosión como presencia del dios solar y vuelve a atacar ([43-047](capitulos/43.md)).
+- Cap. 43, 01:39:22.000: Los compañeros ven rejuvenecer a Citlali y envejecer a sus víctimas ([43-050](capitulos/43.md)).
+- Cap. 43, 01:44:54.520: Erandy recupera magia por el chat y lanza fuego cerca de sus aliados ([43-052](capitulos/43.md)).
+- Cap. 43, 01:47:54.800: Eleanor se cura al atravesar el fuego ([43-053](capitulos/43.md)).
+- Cap. 43, 01:51:11.920: La caída de los generales rompe la resistencia terrestre ([43-055](capitulos/43.md)).
+- Cap. 43, 01:58:56.480: Eleanor comprueba el agotamiento extremo de Erandy ([43-060](capitulos/43.md)).
 
 ## Erendriel
 
@@ -1796,6 +1932,10 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 15, 00:31:00.000: La espada de Triel tiene escamas de dragón azul ([15-006](capitulos/15.md)).
 - Cap. 40, 01:37:01.719: Triel imita las patadas de Tortas e Ilikar mantiene la presión ([40-023](capitulos/40.md)).
 
+## Estandarte de Eleanor
+
+- Cap. 43, 01:09:48.000: Eleanor marca la retaguardia y llama a cargar ([43-035](capitulos/43.md)).
+
 ## Etley
 
 - Cap. 34, 02:32:00.000: Eclosiona bebé dinosaurio ([34-018](capitulos/34.md)).
@@ -1813,6 +1953,17 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 39, 01:34:00.000: Citlali drena a Tlachka y el grupo marcha al norte ([39-014](capitulos/39.md)).
 - Cap. 39, 01:55:00.000: Iktan admite y cura a los viajeros ([39-017](capitulos/39.md)).
 - Cap. 39, 02:12:00.000: Descanso en Iktan y expulsión de Coyote ([39-020](capitulos/39.md)).
+- Cap. 43, 00:03:45.400: Citlali recuerda la caja de música y huye de Iktan con la cría ([43-003](capitulos/43.md)).
+- Cap. 43, 00:17:31.240: El malestar de Citlali la lleva a pedir ayuda a Luna ([43-011](capitulos/43.md)).
+- Cap. 43, 00:20:23.720: Luna se transforma en oso para transportar a Citlali ([43-012](capitulos/43.md)).
+- Cap. 43, 00:45:41.480: Citlali y Lunaria ven formarse una tormenta sobre el mar ([43-024](capitulos/43.md)).
+- Cap. 43, 00:55:42.480: Lunaria arroja a Etley contra los marines ([43-030](capitulos/43.md)).
+- Cap. 43, 00:59:01.520: Los golpes masivos hacen flaquear la formación ([43-031](capitulos/43.md)).
+- Cap. 43, 01:07:07.760: Lunaria utiliza un cañón como garrote y sale impulsada ([43-034](capitulos/43.md)).
+- Cap. 43, 01:15:59.920: Erandy ignora la orden y lanza rayos abrasadores ([43-038](capitulos/43.md)).
+- Cap. 43, 01:48:39.760: Lunaria protege a Citlali y Etley antes de lanzar otra bola de fuego ([43-054](capitulos/43.md)).
+- Cap. 43, 01:55:31.560: Los piratas celebran la victoria y Molly llega herida ([43-058](capitulos/43.md)).
+- Cap. 43, 01:58:56.480: Eleanor comprueba el agotamiento extremo de Erandy ([43-060](capitulos/43.md)).
 
 ## Forja del Águila de Sangre
 
@@ -1875,6 +2026,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 26, 00:00:00.000: Compra de armadura y suplantación de Ione por Coyote ([26-001](capitulos/26.md)).
 - Cap. 26, 00:06:00.000: Ione sale de la consulta y niega haber recibido el informe ([26-003](capitulos/26.md)).
 - Cap. 42, 00:08:05.039: Shiaru reúne a sus defensores en la plaza ([42-006](capitulos/42.md)).
+- Cap. 43, 00:08:03.360: Los habitantes se concentran en Shiaru ([43-006](capitulos/43.md)).
 
 ## Gorro de capitana de Ione
 
@@ -2014,6 +2166,8 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 41, 02:18:04.399: Naór presencia el movimiento de Tortas y ofrece las cabezas ([41-052](capitulos/41.md)).
 - Cap. 41, 02:20:48.880: Winscore y Blink se presentan ante el anciano ([41-053](capitulos/41.md)).
 - Cap. 41, 02:26:36.080: Leo llega al encuentro y la guarida sigue sin localizarse ([41-055](capitulos/41.md)).
+- Cap. 43, 00:03:45.400: Citlali recuerda la caja de música y huye de Iktan con la cría ([43-003](capitulos/43.md)).
+- Cap. 43, 00:05:36.400: Lunaria explora el poblado y busca respuestas ([43-004](capitulos/43.md)).
 
 ## Ilikar
 
@@ -2077,6 +2231,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 42, 01:37:37.480: Sir Poncelot y Merlucilla IV despejan cubiertas y regresan ([42-051](capitulos/42.md)).
 - Cap. 42, 02:02:20.520: Ione se lanza a buscar a Nox y sus compañeros la siguen ([42-063](capitulos/42.md)).
 - Cap. 42, 02:14:52.159: Ione retira el Zampaolas de la batalla sin renunciar a buscar a Nox ([42-067](capitulos/42.md)).
+- Cap. 43, 00:08:03.360: Los habitantes se concentran en Shiaru ([43-006](capitulos/43.md)).
 
 ## Infiltrada serpiente del festival de Iktan
 
@@ -2437,6 +2592,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 42, 02:09:35.040: Cuatro reyes piratas destruyen una nueva flota de la Marina ([42-065](capitulos/42.md)).
 - Cap. 42, 02:12:59.000: Bonnie entrega la moneda a Ione y les ordena marcharse ([42-066](capitulos/42.md)).
 - Cap. 42, 02:14:52.159: Ione retira el Zampaolas de la batalla sin renunciar a buscar a Nox ([42-067](capitulos/42.md)).
+- Cap. 43, 00:08:03.360: Los habitantes se concentran en Shiaru ([43-006](capitulos/43.md)).
 
 ## Ivet
 
@@ -2849,6 +3005,8 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 31, 00:10:00.000: Venta de perlas y tatuaje de Triel ([31-003](capitulos/31.md)).
 - Cap. 33, 00:04:00.000: Axi despierta sin memoria entre cadáveres ([33-001](capitulos/33.md)).
 - Cap. 35, 00:06:00.000: Venta de jade y patrulla engañada ([35-002](capitulos/35.md)).
+- Cap. 43, 00:08:03.360: Los habitantes se concentran en Shiaru ([43-006](capitulos/43.md)).
+- Cap. 43, 00:11:05.320: Liz y otros defensores permanecen tras barricadas ([43-008](capitulos/43.md)).
 
 ## Lucy
 
@@ -3004,6 +3162,30 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 39, 01:40:00.000: Animales vigilantes y rastros de viajeros anteriores ([39-015](capitulos/39.md)).
 - Cap. 39, 01:55:00.000: Iktan admite y cura a los viajeros ([39-017](capitulos/39.md)).
 - Cap. 39, 02:08:00.000: Luna prueba las ganzúas y Coyote recibe una reprimenda ([39-019](capitulos/39.md)).
+- Cap. 43, 00:05:36.400: Lunaria explora el poblado y busca respuestas ([43-004](capitulos/43.md)).
+- Cap. 43, 00:17:31.240: El malestar de Citlali la lleva a pedir ayuda a Luna ([43-011](capitulos/43.md)).
+- Cap. 43, 00:20:23.720: Luna se transforma en oso para transportar a Citlali ([43-012](capitulos/43.md)).
+- Cap. 43, 00:21:34.240: Citlali tiene una visión de un pirata y de la batalla bajo el agua ([43-013](capitulos/43.md)).
+- Cap. 43, 00:45:41.480: Citlali y Lunaria ven formarse una tormenta sobre el mar ([43-024](capitulos/43.md)).
+- Cap. 43, 00:55:42.480: Lunaria arroja a Etley contra los marines ([43-030](capitulos/43.md)).
+- Cap. 43, 01:00:00.480: Citlali entra con el arco y después con sus chanclas ([43-032](capitulos/43.md)).
+- Cap. 43, 01:07:07.760: Lunaria utiliza un cañón como garrote y sale impulsada ([43-034](capitulos/43.md)).
+- Cap. 43, 01:09:48.000: Eleanor marca la retaguardia y llama a cargar ([43-035](capitulos/43.md)).
+- Cap. 43, 01:12:11.000: Eleanor utiliza el perro caído para montar sobre Lunaria ([43-036](capitulos/43.md)).
+- Cap. 43, 01:13:34.760: El toque de Citlali cierra sus heridas y rejuvenece su piel ([43-037](capitulos/43.md)).
+- Cap. 43, 01:18:25.199: Un segundo disparo lanza a Lunaria y Eleanor ([43-039](capitulos/43.md)).
+- Cap. 43, 01:19:43.800: Eleanor adopta la forma de ángel caído ([43-040](capitulos/43.md)).
+- Cap. 43, 01:20:48.239: La combatiente que acompaña al grupo protege a Citlali ([43-041](capitulos/43.md)).
+- Cap. 43, 01:21:50.120: Eleanor propone imbuir al oso con la energía de smite ([43-042](capitulos/43.md)).
+- Cap. 43, 01:22:34.560: Eleanor prepara el descenso de Lunaria con un golpe divino ([43-043](capitulos/43.md)).
+- Cap. 43, 01:23:57.280: La explosión en el mar interrumpe el combate y hace arder los tatuajes de Citlali ([43-044](capitulos/43.md)).
+- Cap. 43, 01:33:33.920: El oso de Lunaria impacta con la energía de Eleanor ([43-048](capitulos/43.md)).
+- Cap. 43, 01:39:22.000: Los compañeros ven rejuvenecer a Citlali y envejecer a sus víctimas ([43-050](capitulos/43.md)).
+- Cap. 43, 01:48:39.760: Lunaria protege a Citlali y Etley antes de lanzar otra bola de fuego ([43-054](capitulos/43.md)).
+- Cap. 43, 01:51:11.920: La caída de los generales rompe la resistencia terrestre ([43-055](capitulos/43.md)).
+- Cap. 43, 01:54:11.440: Citlali consume la vida del marine retenido ([43-057](capitulos/43.md)).
+- Cap. 43, 01:55:31.560: Los piratas celebran la victoria y Molly llega herida ([43-058](capitulos/43.md)).
+- Cap. 43, 01:58:56.480: Eleanor comprueba el agotamiento extremo de Erandy ([43-060](capitulos/43.md)).
 
 ## Mango
 
@@ -3123,6 +3305,44 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 42, 01:55:33.920: Bonnie vuelve a abrirse paso entre la flota ([42-059](capitulos/42.md)).
 - Cap. 42, 02:00:20.239: El Invictus explota contra la flota y los buques restantes se retiran ([42-062](capitulos/42.md)).
 - Cap. 42, 02:09:35.040: Cuatro reyes piratas destruyen una nueva flota de la Marina ([42-065](capitulos/42.md)).
+- Cap. 43, 00:00:41.280: Erandy y Eleanor se preparan para la defensa terrestre ([43-002](capitulos/43.md)).
+- Cap. 43, 00:06:34.120: Las defensas de la jungla ya han sido inspeccionadas ([43-005](capitulos/43.md)).
+- Cap. 43, 00:14:50.120: Molly conduce a unos veinte piratas hacia el embudo ([43-010](capitulos/43.md)).
+- Cap. 43, 00:21:34.240: Citlali tiene una visión de un pirata y de la batalla bajo el agua ([43-013](capitulos/43.md)).
+- Cap. 43, 00:31:46.279: Los marines llegan con perros, artillería y oficiales montados ([43-018](capitulos/43.md)).
+- Cap. 43, 00:34:53.599: Erandy invoca al Sol y prepara una bola de fuego ([43-019](capitulos/43.md)).
+- Cap. 43, 00:37:58.599: La primera descarga de la Marina mata a piratas de la defensa ([43-020](capitulos/43.md)).
+- Cap. 43, 00:40:02.440: Eleanor levanta el escudo y Erandy recibe heridas de bala ([43-021](capitulos/43.md)).
+- Cap. 43, 00:41:04.280: Erandy elige el lugar para lanzar su bola de fuego ([43-022](capitulos/43.md)).
+- Cap. 43, 00:41:56.520: Erandy invoca al Sol y prende un batallón ([43-023](capitulos/43.md)).
+- Cap. 43, 00:48:18.839: La tormenta de una reina pirata se ve desde la lucha terrestre ([43-025](capitulos/43.md)).
+- Cap. 43, 00:49:27.520: La artillería alcanza a Erandy, Molly y Eleanor ([43-026](capitulos/43.md)).
+- Cap. 43, 00:51:32.559: Otra bola de fuego destroza tropas, caballos y artillería ([43-027](capitulos/43.md)).
+- Cap. 43, 00:54:01.680: Molly continúa el avance con los piratas ([43-028](capitulos/43.md)).
+- Cap. 43, 00:55:42.480: Lunaria arroja a Etley contra los marines ([43-030](capitulos/43.md)).
+- Cap. 43, 00:59:01.520: Los golpes masivos hacen flaquear la formación ([43-031](capitulos/43.md)).
+- Cap. 43, 01:00:00.480: Citlali entra con el arco y después con sus chanclas ([43-032](capitulos/43.md)).
+- Cap. 43, 01:03:02.599: Erandy se entrega al trance solar y dispersa a más mandos ([43-033](capitulos/43.md)).
+- Cap. 43, 01:07:07.760: Lunaria utiliza un cañón como garrote y sale impulsada ([43-034](capitulos/43.md)).
+- Cap. 43, 01:09:48.000: Eleanor marca la retaguardia y llama a cargar ([43-035](capitulos/43.md)).
+- Cap. 43, 01:12:11.000: Eleanor utiliza el perro caído para montar sobre Lunaria ([43-036](capitulos/43.md)).
+- Cap. 43, 01:13:34.760: El toque de Citlali cierra sus heridas y rejuvenece su piel ([43-037](capitulos/43.md)).
+- Cap. 43, 01:15:59.920: Erandy ignora la orden y lanza rayos abrasadores ([43-038](capitulos/43.md)).
+- Cap. 43, 01:20:48.239: La combatiente que acompaña al grupo protege a Citlali ([43-041](capitulos/43.md)).
+- Cap. 43, 01:22:34.560: Eleanor prepara el descenso de Lunaria con un golpe divino ([43-043](capitulos/43.md)).
+- Cap. 43, 01:26:01.360: Una visión de Nox y el ser serpentino incita a Citlali a matar ([43-045](capitulos/43.md)).
+- Cap. 43, 01:28:17.920: Citlali cambia la curación por la absorción violenta de vida ([43-046](capitulos/43.md)).
+- Cap. 43, 01:30:41.679: Erandy interpreta la explosión como presencia del dios solar y vuelve a atacar ([43-047](capitulos/43.md)).
+- Cap. 43, 01:33:33.920: El oso de Lunaria impacta con la energía de Eleanor ([43-048](capitulos/43.md)).
+- Cap. 43, 01:37:05.639: Eleanor aterroriza a los marines, pero falla su orden de arrodillarse ([43-049](capitulos/43.md)).
+- Cap. 43, 01:39:22.000: Los compañeros ven rejuvenecer a Citlali y envejecer a sus víctimas ([43-050](capitulos/43.md)).
+- Cap. 43, 01:41:50.400: Citlali mata al general mientras los marines huyen hacia las trampas ([43-051](capitulos/43.md)).
+- Cap. 43, 01:44:54.520: Erandy recupera magia por el chat y lanza fuego cerca de sus aliados ([43-052](capitulos/43.md)).
+- Cap. 43, 01:48:39.760: Lunaria protege a Citlali y Etley antes de lanzar otra bola de fuego ([43-054](capitulos/43.md)).
+- Cap. 43, 01:51:11.920: La caída de los generales rompe la resistencia terrestre ([43-055](capitulos/43.md)).
+- Cap. 43, 01:53:22.199: Eleanor retiene a un marine para Citlali sin rematarlo ella ([43-056](capitulos/43.md)).
+- Cap. 43, 01:54:11.440: Citlali consume la vida del marine retenido ([43-057](capitulos/43.md)).
+- Cap. 43, 01:55:31.560: Los piratas celebran la victoria y Molly llega herida ([43-058](capitulos/43.md)).
 
 ## Marina, la sirena
 
@@ -3330,6 +3550,25 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 37, 02:06:00.000: Nox recibe una moneda de oro tras descontar deudas ([37-016](capitulos/37.md)).
 - Cap. 37, 02:09:00.000: Bonnie presta el ojo con una condición que Nox planea incumplir ([37-017](capitulos/37.md)).
 - Cap. 42, 00:08:05.039: Shiaru reúne a sus defensores en la plaza ([42-006](capitulos/42.md)).
+- Cap. 43, 00:00:41.280: Erandy y Eleanor se preparan para la defensa terrestre ([43-002](capitulos/43.md)).
+- Cap. 43, 00:06:34.120: Las defensas de la jungla ya han sido inspeccionadas ([43-005](capitulos/43.md)).
+- Cap. 43, 00:12:06.720: Erandy protege a Eleanor antes de marchar ([43-009](capitulos/43.md)).
+- Cap. 43, 00:14:50.120: Molly conduce a unos veinte piratas hacia el embudo ([43-010](capitulos/43.md)).
+- Cap. 43, 00:23:58.679: Molly llega al punto defensivo y permite huir si es necesario ([43-014](capitulos/43.md)).
+- Cap. 43, 00:27:15.159: Eleanor entrega a Molly el broche de su tierra ([43-015](capitulos/43.md)).
+- Cap. 43, 00:28:25.039: El grupo despliega una emboscada y refuerza sus defensas ([43-016](capitulos/43.md)).
+- Cap. 43, 00:37:58.599: La primera descarga de la Marina mata a piratas de la defensa ([43-020](capitulos/43.md)).
+- Cap. 43, 00:41:56.520: Erandy invoca al Sol y prende un batallón ([43-023](capitulos/43.md)).
+- Cap. 43, 00:49:27.520: La artillería alcanza a Erandy, Molly y Eleanor ([43-026](capitulos/43.md)).
+- Cap. 43, 00:54:01.680: Molly continúa el avance con los piratas ([43-028](capitulos/43.md)).
+- Cap. 43, 00:54:33.400: Eleanor deja el escudo como cobertura para su escudera ([43-029](capitulos/43.md)).
+- Cap. 43, 01:09:48.000: Eleanor marca la retaguardia y llama a cargar ([43-035](capitulos/43.md)).
+- Cap. 43, 01:13:34.760: El toque de Citlali cierra sus heridas y rejuvenece su piel ([43-037](capitulos/43.md)).
+- Cap. 43, 01:20:48.239: La combatiente que acompaña al grupo protege a Citlali ([43-041](capitulos/43.md)).
+- Cap. 43, 01:33:33.920: El oso de Lunaria impacta con la energía de Eleanor ([43-048](capitulos/43.md)).
+- Cap. 43, 01:51:11.920: La caída de los generales rompe la resistencia terrestre ([43-055](capitulos/43.md)).
+- Cap. 43, 01:55:31.560: Los piratas celebran la victoria y Molly llega herida ([43-058](capitulos/43.md)).
+- Cap. 43, 01:57:06.040: La caja musical acompaña el duelo de Citlali por Nox ([43-059](capitulos/43.md)).
 
 ## Moneda negra del mercante
 
@@ -3343,6 +3582,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 42, 00:22:00.919: La moneda de Bonnie acompaña su transformación eléctrica ([42-012](capitulos/42.md)).
 - Cap. 42, 00:37:59.520: El Relámpago del Mar avanza con Bonnie preparando rayos ([42-018](capitulos/42.md)).
 - Cap. 42, 02:12:59.000: Bonnie entrega la moneda a Ione y les ordena marcharse ([42-066](capitulos/42.md)).
+- Cap. 43, 00:10:14.800: La moneda de Bonnie convoca la tormenta de la partida ([43-007](capitulos/43.md)).
 
 ## Monedas antiguas de Ayoto
 
@@ -3889,6 +4129,12 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 42, 02:12:59.000: Bonnie entrega la moneda a Ione y les ordena marcharse ([42-066](capitulos/42.md)).
 - Cap. 42, 02:14:52.159: Ione retira el Zampaolas de la batalla sin renunciar a buscar a Nox ([42-067](capitulos/42.md)).
 - Cap. 42, 02:23:47.600: Taylor dispara a la frente de Bonnie y el director despide a tres personajes ([42-072](capitulos/42.md)).
+- Cap. 43, 00:03:45.400: Citlali recuerda la caja de música y huye de Iktan con la cría ([43-003](capitulos/43.md)).
+- Cap. 43, 01:00:00.480: Citlali entra con el arco y después con sus chanclas ([43-032](capitulos/43.md)).
+- Cap. 43, 01:26:01.360: Una visión de Nox y el ser serpentino incita a Citlali a matar ([43-045](capitulos/43.md)).
+- Cap. 43, 01:41:50.400: Citlali mata al general mientras los marines huyen hacia las trampas ([43-051](capitulos/43.md)).
+- Cap. 43, 01:57:06.040: La caja musical acompaña el duelo de Citlali por Nox ([43-059](capitulos/43.md)).
+- Cap. 43, 02:01:24.800: Citlali ve el Zampaolas detenido en la costa y trata de alcanzarlo ([43-061](capitulos/43.md)).
 
 ## Ojo Ausente
 
@@ -4411,6 +4657,16 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 42, 00:31:35.600: La Marina forma dos líneas de fuego frente a los piratas ([42-016](capitulos/42.md)).
 - Cap. 42, 02:12:59.000: Bonnie entrega la moneda a Ione y les ordena marcharse ([42-066](capitulos/42.md)).
 - Cap. 42, 02:14:52.159: Ione retira el Zampaolas de la batalla sin renunciar a buscar a Nox ([42-067](capitulos/42.md)).
+- Cap. 43, 00:00:01.280: La sesión comienza al mismo tiempo que el capítulo naval ([43-001](capitulos/43.md)).
+- Cap. 43, 00:00:41.280: Erandy y Eleanor se preparan para la defensa terrestre ([43-002](capitulos/43.md)).
+- Cap. 43, 00:06:34.120: Las defensas de la jungla ya han sido inspeccionadas ([43-005](capitulos/43.md)).
+- Cap. 43, 00:08:03.360: Los habitantes se concentran en Shiaru ([43-006](capitulos/43.md)).
+- Cap. 43, 00:10:14.800: La moneda de Bonnie convoca la tormenta de la partida ([43-007](capitulos/43.md)).
+- Cap. 43, 00:11:05.320: Liz y otros defensores permanecen tras barricadas ([43-008](capitulos/43.md)).
+- Cap. 43, 00:14:50.120: Molly conduce a unos veinte piratas hacia el embudo ([43-010](capitulos/43.md)).
+- Cap. 43, 00:17:31.240: El malestar de Citlali la lleva a pedir ayuda a Luna ([43-011](capitulos/43.md)).
+- Cap. 43, 00:21:34.240: Citlali tiene una visión de un pirata y de la batalla bajo el agua ([43-013](capitulos/43.md)).
+- Cap. 43, 00:45:41.480: Citlali y Lunaria ven formarse una tormenta sobre el mar ([43-024](capitulos/43.md)).
 
 ## Sir Poncelot
 
@@ -4649,6 +4905,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 42, 01:37:37.480: Sir Poncelot y Merlucilla IV despejan cubiertas y regresan ([42-051](capitulos/42.md)).
 - Cap. 42, 02:02:20.520: Ione se lanza a buscar a Nox y sus compañeros la siguen ([42-063](capitulos/42.md)).
 - Cap. 42, 02:14:52.159: Ione retira el Zampaolas de la batalla sin renunciar a buscar a Nox ([42-067](capitulos/42.md)).
+- Cap. 43, 00:08:03.360: Los habitantes se concentran en Shiaru ([43-006](capitulos/43.md)).
 
 ## Smith
 
@@ -5061,6 +5318,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 42, 01:06:18.720: Los refuerzos de Marina prolongan el fuego sobre los piratas ([42-035](capitulos/42.md)).
 - Cap. 42, 01:51:35.480: Nox reconoce a Ione como capitana y pide volver ([42-058](capitulos/42.md)).
 - Cap. 42, 02:14:52.159: Ione retira el Zampaolas de la batalla sin renunciar a buscar a Nox ([42-067](capitulos/42.md)).
+- Cap. 43, 00:08:03.360: Los habitantes se concentran en Shiaru ([43-006](capitulos/43.md)).
 
 ## Tutucan
 
@@ -5311,6 +5569,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 42, 02:12:59.000: Bonnie entrega la moneda a Ione y les ordena marcharse ([42-066](capitulos/42.md)).
 - Cap. 42, 02:14:52.159: Ione retira el Zampaolas de la batalla sin renunciar a buscar a Nox ([42-067](capitulos/42.md)).
 - Cap. 42, 02:17:14.319: Los otros reyes rodean al Relámpago del Mar sin su poder mágico ([42-068](capitulos/42.md)).
+- Cap. 43, 02:01:24.800: Citlali ve el Zampaolas detenido en la costa y trata de alcanzarlo ([43-061](capitulos/43.md)).
 
 ## Zarial
 

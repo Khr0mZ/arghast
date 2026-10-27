@@ -29,11 +29,11 @@
   "intervalo": {
     "anterior": 42,
     "siguiente": 43,
-    "anterior_catalogado": false,
-    "siguiente_catalogado": false,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
     "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1524846150652264642",
     "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1525209204300841101",
-    "ambito": "despues_del_catalogo",
+    "ambito": "entre_capitulos",
     "criterio": "horario_y_duracion_con_retrasos",
     "confianza": "cronologica",
     "referencias": [
@@ -41,24 +41,24 @@
         "capitulo": 42,
         "fecha": "2026-07-09",
         "inicio_referencia_utc": "2026-07-09T18:30:59+00:00",
-        "fin_estimado_utc": null,
-        "duracion_video_segundos": null,
-        "tipo_referencia": "tarjeta_twitch_sin_video",
-        "catalogado": false,
+        "fin_estimado_utc": "2026-07-09T20:55:43+00:00",
+        "duracion_video_segundos": 8684,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
         "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1524846150652264642"
       },
       {
         "capitulo": 43,
         "fecha": "2026-07-10",
         "inicio_referencia_utc": "2026-07-10T18:35:33+00:00",
-        "fin_estimado_utc": null,
-        "duracion_video_segundos": null,
-        "tipo_referencia": "tarjeta_twitch_sin_video",
-        "catalogado": false,
+        "fin_estimado_utc": "2026-07-10T20:41:48+00:00",
+        "duracion_video_segundos": 7575,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
         "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1525209204300841101"
       }
     ],
-    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
   },
   "fuentes": [
     {
@@ -110,7 +110,9 @@
       "referencia": null,
       "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525248830570893413",
       "texto_sha256": "73577005ffc6993340d07070d14b5b26d8d05964493372ff997a0c41136b3220",
-      "adjuntos": []
+      "adjuntos": [],
+      "no_narrativo": true,
+      "nota_editorial": "Aviso por mención de usuarios, sin acción narrativa; conserva la posición de la escena que anuncia."
     }
   ]
 }

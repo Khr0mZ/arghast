@@ -12,7 +12,7 @@ Base para revisar equivalencia: [18-007](../capitulos/18.md), [22-012](../capitu
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 42.
+Relato revisado hasta el capítulo 43.
 
 ### Una amenaza antigua que vuelve a salir
 

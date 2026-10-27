@@ -1,5 +1,5 @@
 {
-  "revisado_hasta": 42,
+  "revisado_hasta": 43,
   "entidades": {
     "Anillo familiar de Erendriel": [
       {
@@ -240,11 +240,13 @@
         "texto": "Bonnie aprieta la moneda de los capitanes piratas durante su discurso. Su cuerpo chisporrotea, sus ojos brillan azules y aparece un aspecto marcado por el rayo mientras se oscurece el cielo. Después prepara descargas desde el barco. La activación se observa, pero no explica la procedencia del objeto o todos sus límites.",
         "referencias": [
           "42-012",
-          "42-018"
+          "42-018",
+          "43-001",
+          "43-007"
         ]
       },
       {
-        "titulo": "El poder vuelve a manos de Ione",
+        "titulo": "El poder pasa a manos de Ione",
         "texto": "Después de las embestidas del Relámpago del Mar, Bonnie aparece en el Zampaolas y su electricidad se recoge en la moneda. La coloca en la mano de Ione y exige la retirada. El barco de Bonnie queda sin su brillo y carga mágica antes de ser rodeado por los otros reyes.",
         "referencias": [
           "42-066",
@@ -456,6 +458,13 @@
           "42-064",
           "42-067"
         ]
+      },
+      {
+        "titulo": "Visto desde la jungla",
+        "texto": "Después del combate terrestre, Citlali reconoce por encima de los árboles sus velas negras y su bandera. El barco parece ir a la deriva junto a la costa y se detiene, meciéndose como varado al este. Citlali intenta alcanzarlo esperando encontrar a Nox, sin que se muestre el encuentro ni una inspección de la nave.",
+        "referencias": [
+          "43-061"
+        ]
       }
     ],
     "Muestra de veneno del claro": [
@@ -590,6 +599,61 @@
           "42-057",
           "42-061",
           "42-062"
+        ]
+      }
+    ],
+    "Broche de Eleanor": [
+      {
+        "titulo": "Un ofrecimiento antes del combate",
+        "texto": "En el punto defensivo de la jungla, Eleanor se quita el broche de su tierra y se lo entrega a Molly. Explica que ayuda por el buen trato dado a Erandy y alude a una leyenda con la que quizá podría intentar algo si recuperara el cuerpo de Molly. El gesto expresa el compromiso anterior al combate; no identifica el emblema del objeto, garantiza una resurrección o demuestra que la ex capitana haya muerto.",
+        "referencias": [
+          "43-015"
+        ]
+      }
+    ],
+    "Caja de música de Citlali": [
+      {
+        "titulo": "Una melodía antes de la carrera",
+        "texto": "Citlali cuenta que encontró una caja de música durante su estancia en Iktan. La melodía le hizo recordar a sus hijos y a Nox. Después sintió dolor y vio algo extraño en su piel, acontecimientos que la impulsaron a llevarse a la cría y correr hacia Shiaru. La sucesión de hechos no demuestra que la caja causara el dolor o la marca; su origen y mecanismo permanecen sin explicar.",
+        "referencias": [
+          "43-003"
+        ]
+      },
+      {
+        "titulo": "La música junto al llanto",
+        "texto": "Terminada la batalla, Citlali saca de la falda una caja musical y la mueve mientras dice que Nox se ha ido. Las lágrimas continúan y su mirada hace comprender a Molly la pérdida que siente. La escena no explica de dónde procede el objeto ni qué melodía reproduce.",
+        "referencias": [
+          "43-059"
+        ]
+      }
+    ],
+    "Estandarte de Eleanor": [
+      {
+        "titulo": "El límite de la retaguardia",
+        "texto": "Eleanor clava el estandarte cuando Erandy se acerca a la zona del enfrentamiento y lo utiliza como referencia para ordenarle que no avance más. La escudera, absorta en el trance solar, no escucha la orden y se mueve hacia otro general. El objeto documenta la instrucción táctica, sin aportar aquí emblema, inscripción o pertenencia institucional nueva.",
+        "referencias": [
+          "43-035",
+          "43-038"
+        ]
+      }
+    ],
+    "Cañón tomado por Lunaria": [
+      {
+        "titulo": "De garrote a propulsor",
+        "texto": "Lunaria toma uno de los cañones del frente y lo utiliza en forma de oso para barrer a los marines. Un disparo hacia abajo la hiere y la impulsa al aire antes de caer sobre los enemigos. Más tarde, con Eleanor a lomos, golpea el arma contra el suelo hasta provocar otro disparo que las vuelve a lanzar. El objeto pasa de artillería enemiga a herramienta improvisada de combate y desplazamiento.",
+        "referencias": [
+          "43-034",
+          "43-039",
+          "43-042"
+        ]
+      }
+    ],
+    "Altar de los símbolos de Citlali": [
+      {
+        "titulo": "Los símbolos de Citlali",
+        "texto": "El epílogo muestra una especie de altar al que se acerca el ser que habla con Citlali. Al pasar la mano sobre él enciende marcas y símbolos exactamente iguales a los de su cuerpo. La localización y la función completa del altar no se revelan.",
+        "referencias": [
+          "43-062"
         ]
       }
     ]

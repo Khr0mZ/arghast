@@ -8,11 +8,11 @@ Topónimo costero recurrente. Sus campamentos, excavaciones y fuerte se mantiene
 
 Etiquetas agrupadas: El Garfio; El Garfio (costa); Garfio; Arrecife del Garfio.
 
-Base para revisar equivalencia: [04-001](../capitulos/04.md), [07-010](../capitulos/07.md), [09-014](../capitulos/09.md), [20-007](../capitulos/20.md), [23-004](../capitulos/23.md), [42-017](../capitulos/42.md), [42-021](../capitulos/42.md), [42-026](../capitulos/42.md), [42-033](../capitulos/42.md), [42-034](../capitulos/42.md), [42-037](../capitulos/42.md), [42-047](../capitulos/42.md).
+Base para revisar equivalencia: [04-001](../capitulos/04.md), [07-010](../capitulos/07.md), [09-014](../capitulos/09.md), [20-007](../capitulos/20.md), [23-004](../capitulos/23.md), [42-017](../capitulos/42.md), [42-021](../capitulos/42.md), [42-026](../capitulos/42.md), [42-033](../capitulos/42.md), [42-034](../capitulos/42.md), [42-037](../capitulos/42.md), [42-047](../capitulos/42.md), [43-005](../capitulos/43.md), [43-010](../capitulos/43.md), [43-014](../capitulos/43.md), [43-016](../capitulos/43.md), [43-018](../capitulos/43.md), [43-020](../capitulos/43.md), [43-022](../capitulos/43.md), [43-024](../capitulos/43.md), [43-025](../capitulos/43.md), [43-027](../capitulos/43.md), [43-030](../capitulos/43.md), [43-033](../capitulos/43.md), [43-035](../capitulos/43.md), [43-044](../capitulos/43.md), [43-051](../capitulos/43.md), [43-055](../capitulos/43.md), [43-058](../capitulos/43.md), [43-061](../capitulos/43.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 42.
+Relato revisado hasta el capítulo 43.
 
 ### La costa que da nombre a una ruta
 
@@ -31,6 +31,24 @@ Fuentes: [42-017 · Ione decide flanquear por los arrecifes](../capitulos/42.md)
 El arrecife condiciona la batalla: solo un paso profundo permite a las grandes naves circular y sus aguas pueden engañarse mediante ilusiones. Nox hace encallar dos escoltas desviándolos hacia rocas ocultas; Ione utiliza el espigón y el ancla de Ilikar para cerrar la maniobra del Zampaolas. El Invictus termina atravesando el paso y asoma al combate bajo el rumbo fijado por Nox.
 
 Fuentes: [42-026 · Ilikar prepara sus pociones y el ancla](../capitulos/42.md) · 00:50:20.240 · [42-033 · Una ilusión de Nox hace encallar al primer escolta](../capitulos/42.md) · 01:01:35.680 · [42-034 · El segundo escolta queda atrapado y ordenan recuperar su munición](../capitulos/42.md) · 01:04:21.559 · [42-037 · El ancla permite al Zampaolas cerrar el giro](../capitulos/42.md) · 01:12:00.159 · [42-047 · Nox dirige el Invictus hacia la flota y prepara la pólvora](../capitulos/42.md) · 01:28:43.760.
+
+### Un embudo defendido en la jungla
+
+En paralelo al frente naval de la misma batalla, el frente de tierra del Garfio se prepara con cuerdas, trampas, vallas bajas y tiradores ocultos. Molly, Eleanor y Erandy regresan al punto acordado con un pequeño grupo de piratas. La Marina avanza con perros rastreadores y una columna de fusileros, cañones y oficiales montados. El terreno pretende impedir que todos ataquen al mismo tiempo, pero la primera descarga causa bajas antes de que se complete la respuesta de Erandy.
+
+Fuentes: [43-005 · Las defensas de la jungla ya han sido inspeccionadas](../capitulos/43.md) · 00:06:34.120 · [43-010 · Molly conduce a unos veinte piratas hacia el embudo](../capitulos/43.md) · 00:14:50.120 · [43-014 · Molly llega al punto defensivo y permite huir si es necesario](../capitulos/43.md) · 00:23:58.679 · [43-016 · El grupo despliega una emboscada y refuerza sus defensas](../capitulos/43.md) · 00:28:25.039 · [43-018 · Los marines llegan con perros, artillería y oficiales montados](../capitulos/43.md) · 00:31:46.279 · [43-020 · La primera descarga de la Marina mata a piratas de la defensa](../capitulos/43.md) · 00:37:58.599 · [43-022 · Erandy elige el lugar para lanzar su bola de fuego](../capitulos/43.md) · 00:41:04.280.
+
+### Fuego y artillería entre los árboles
+
+En paralelo al frente naval de la misma batalla, la jungla del Garfio reúne el frente terrestre y los accesos con dardos y mecanismos de trampa. Los cañonazos y las bolas de fuego arrojan metralla, caballos y piezas de artillería entre los árboles. Al este se ve sobre el mar la tormenta de una reina pirata, mientras la formación de la Marina pierde cohesión en los caminos. Lunaria y Citlali irrumpen desde la maleza con Etley y se unen a Eleanor, Erandy y Molly.
+
+Fuentes: [43-024 · Citlali y Lunaria ven formarse una tormenta sobre el mar](../capitulos/43.md) · 00:45:41.480 · [43-025 · La tormenta de una reina pirata se ve desde la lucha terrestre](../capitulos/43.md) · 00:48:18.839 · [43-027 · Otra bola de fuego destroza tropas, caballos y artillería](../capitulos/43.md) · 00:51:32.559 · [43-030 · Lunaria arroja a Etley contra los marines](../capitulos/43.md) · 00:55:42.480 · [43-033 · Erandy se entrega al trance solar y dispersa a más mandos](../capitulos/43.md) · 01:03:02.599 · [43-035 · Eleanor marca la retaguardia y llama a cargar](../capitulos/43.md) · 01:09:48.000.
+
+### La columna de fuego sobre la batalla
+
+En paralelo al frente naval de la misma batalla, quienes combaten en la jungla del Garfio ven levantarse una columna de fuego entre los barcos de la costa. El combate terrestre continúa hasta que los marines pierden a sus mandos y huyen hacia las trampas de la vegetación. Tras la victoria, Citlali y sus compañeros distinguen al Zampaolas detenido en la costa oriental por encima de los árboles.
+
+Fuentes: [43-044 · La explosión en el mar interrumpe el combate y hace arder los tatuajes de Citlali](../capitulos/43.md) · 01:23:57.280 · [43-051 · Citlali mata al general mientras los marines huyen hacia las trampas](../capitulos/43.md) · 01:41:50.400 · [43-055 · La caída de los generales rompe la resistencia terrestre](../capitulos/43.md) · 01:51:11.920 · [43-058 · Los piratas celebran la victoria y Molly llega herida](../capitulos/43.md) · 01:55:31.560 · [43-061 · Citlali ve el Zampaolas detenido en la costa y trata de alcanzarlo](../capitulos/43.md) · 02:01:24.800.
 
 ## Registros y evidencias
 
@@ -145,4 +163,132 @@ Tipo: `hecho_confirmado`.
 El Invictus atraviesa el arrecife y asoma a la batalla, descrito como un enorme buque blanco impecable, algo mayor e imponente que el de Bonnie. Nox fija rumbo hacia la flota, se lanza invisibilidad mayor y ayuda a Pinky a atacar marines, arrojando algunos por la borda y usando el estoque por detrás. Después toma un barril de pólvora y traza un reguero desde la zona de carga hasta la base del mástil mayor. Corta un cabo y sube a una red lateral del mástil, mirando al Zampaolas.
 
 Se prepara un reguero de pólvora, pero no se enciende en este intervalo. El rumbo hacia la flota no equivale todavía a una colisión.
+
+## [43-001 · La sesión comienza al mismo tiempo que el capítulo naval](../capitulos/43.md) · 00:00:01.280
+
+Tipo: `explicacion_director`.
+
+El director sitúa el comienzo de esta sesión en el mismo momento en que empezó la partida del grupo anterior. El frente terrestre de la defensa del Garfio se presenta así en paralelo al inicio del capítulo naval, antes de conocer en escena todos sus resultados.
+
+La numeración de los capítulos no demuestra que toda esta acción suceda después del final del 42. No se trasladan sus muertes, decisiones o ausencias al inicio del 43.
+
+## [43-005 · Las defensas de la jungla ya han sido inspeccionadas](../capitulos/43.md) · 00:06:34.120
+
+Tipo: `explicacion_director`.
+
+El director recuerda que Molly y Bonnie colaboraban para proteger Shiaru y que la exmarina advirtió del ataque tras su destitución. Molly ha llevado a Erandy y Eleanor al punto defensivo: hay cuerdas, trampas y combatientes escondidos para disparar desde la jungla. Después de revisar el despliegue vuelven al poblado para recibir las últimas órdenes.
+
+La colaboración y la destitución se recuerdan como antecedentes. El pasaje no nombra las ruinas del capítulo 36 y no basta para identificar ese punto con su ocupación definitiva.
+
+## [43-010 · Molly conduce a unos veinte piratas hacia el embudo](../capitulos/43.md) · 00:14:50.120
+
+Tipo: `hecho_confirmado`.
+
+Molly muestra a Eleanor un grupo de aproximadamente veinte piratas y reconoce la diferencia con los soldados de la Marina en la que sirvió. Aunque están decididos, su preparación es deficiente. Ordena marchar por la jungla para defender un embudo e impedir que el enemigo llegue a Shiaru.
+
+La cifra se plantea como aproximación narrativa. No indica el número de supervivientes al terminar el combate ni vuelve a otorgar a Molly un cargo vigente en la Marina.
+
+## [43-014 · Molly llega al punto defensivo y permite huir si es necesario](../capitulos/43.md) · 00:23:58.679
+
+Tipo: `hecho_confirmado`.
+
+Erandy, Eleanor y Molly avanzan entre trampas, tiradores ocultos y vallas bajas hasta el punto acordado. Molly reconoce que no cree que puedan ganar y asegura que comprenderá que huyan si corren peligro. Erandy no quiere dejarla a su suerte. Molly aclara que ya no es capitana y dirige a Eleanor una mirada para que proteja a la escudera si la situación se vuelve insostenible.
+
+La derrota es la valoración previa de Molly, no el resultado confirmado de la sesión. No se representa todavía una huida ni el sacrificio de nadie.
+
+## [43-016 · El grupo despliega una emboscada y refuerza sus defensas](../capitulos/43.md) · 00:28:25.039
+
+Tipo: `hecho_confirmado`.
+
+Además del grupo de piratas, dos miembros más seguros de la tripulación de Bonnie ayudan a ordenar las posiciones. Molly espera pelotones con caballos, cañones y rifles por un solo camino y quiere canalizarlos para evitar un ataque simultáneo. Eleanor aplica una protección de cinco puntos de vida temporales a Molly, Erandy y ella misma. Erandy prepara sus espíritus guardianes para cuando el enemigo se acerque. Molly distribuye a sus hombres entre el bosque y la retaguardia y queda en medio del terreno.
+
+Se conserva la explicación de puntos temporales usada en la partida, sin corregirla mediante reglas externas. Los espíritus se dejan preparados; este intervalo no muestra su daño ni su duración efectiva.
+
+## [43-017 · Eleanor intenta ocultarse bajo hojas y prepara su transformación](../capitulos/43.md) · 00:30:42.799
+
+Tipo: `hecho_confirmado`.
+
+Eleanor pide cubrirse de hojas y tumbarse para ocultarse; el director exige una tirada de sigilo. Planea activar una transformación al acercarse los enemigos y en la mesa corrigen que procede de la opción racial del caído, no de su juramento de conquista.
+
+La preparación no muestra todavía la transformación o su efecto. La referencia al caído no fija por sí sola un origen biográfico nuevo ni justifica atribuir un resultado de sigilo no verbalizado.
+
+## [43-018 · Los marines llegan con perros, artillería y oficiales montados](../capitulos/43.md) · 00:31:46.279
+
+Tipo: `hecho_confirmado`.
+
+Se oyen pasos, ramas y ruedas. Avanzan grupos de marines con pistolas y perros que rastrean trampas; detrás vienen pelotones ordenados, fusileros con armas largas, equipos que arrastran cañones y capitanes sobre caballos de guerra. Los perros olfatean las trampas laterales, dispuestas para impedir que se desvíen del embudo. Al verlos, Eleanor abandona la idea de permanecer tumbada.
+
+Los oficiales, perros y caballos carecen aquí de nombres individuales. No se afirma que todos los perros queden atrapados o que las trampas ya hayan causado bajas.
+
+## [43-020 · La primera descarga de la Marina mata a piratas de la defensa](../capitulos/43.md) · 00:37:58.599
+
+Tipo: `hecho_confirmado`.
+
+Los marines ven a Molly y a los piratas. Un oficial ordena a los fusileros acabar con ellos y las líneas disparan por turnos. Las ráfagas alcanzan los pequeños grupos de defensores; algunos piratas próximos a Erandy mueren mientras continúa el fuego intenso.
+
+Las bajas son piratas sin nombre y no se da un total. No se atribuyen a esos muertos identidades catalogadas ni se presenta la descarga como la caída definitiva de la defensa.
+
+## [43-022 · Erandy elige el lugar para lanzar su bola de fuego](../capitulos/43.md) · 00:41:04.280
+
+Tipo: `hecho_confirmado`.
+
+Tras la descarga, Erandy recuerda que tenía preparada una bola de fuego y confirma con el director que llega a la posición enemiga. Señala dónde lanzarla y ajustan el punto para abarcar a varios grupos. El director le pide representar el lanzamiento.
+
+El impacto de esa bola de fuego se documenta en 43-023. No se calcula un censo de bajas a partir de los tokens.
+
+## [43-025 · La tormenta de una reina pirata se ve desde la lucha terrestre](../capitulos/43.md) · 00:48:18.839
+
+Tipo: `explicacion_director`.
+
+Durante el combate terrestre cae una lluvia fina y se ven enormes nubes formándose sobre el mar. El director las atribuye al poder de una de las reinas piratas. Los mandos de la Marina insisten en no rendirse y ordenan disparar los cañones.
+
+Este intervalo no nombra a la reina. La atribución a una reina pirata no convierte todos los sucesos del capítulo 42 en anteriores a esta escena.
+
+## [43-027 · Otra bola de fuego destroza tropas, caballos y artillería](../capitulos/43.md) · 00:51:32.559
+
+Tipo: `hecho_confirmado`.
+
+Erandy apunta una nueva bola de fuego hacia los batallones y sus cañones. La explosión lanza marines y rifles por los aires, arroja piezas de cañón a la jungla y quema caballos de los mandos, haciendo caer al menos a un general. El director aclara que las fichas de la escena representan pelotones y que las tropas siguen llegando.
+
+Los puntos de vida restaurados en las fichas representan el desarrollo de los pelotones y no resurrecciones literales. No se confirma la muerte de todos los generales o la destrucción de toda la artillería.
+
+## [43-030 · Lunaria arroja a Etley contra los marines](../capitulos/43.md) · 00:55:42.480
+
+Tipo: `hecho_confirmado`.
+
+Las trampas de la jungla saltan al paso de quienes llegan: se disparan dardos y se activan mecanismos con ganchos. Lunaria, en forma de oso, lanza al grupo enemigo la cría que lleva atada. Citlali acompaña el lanzamiento con un silbido de ataque. Etley agita las alas, pero no consigue volar: cae sobre los marines y abre un hueco entre varios pelotones.
+
+La cría se identifica por el cuidado de Citlali y el nombre oído como Echil/Etil; una mención aislada parecida a Erandy al caer no cambia su identidad. No se demuestra vuelo autónomo ni se toma el pentakill como recuento exacto.
+
+## [43-044 · La explosión en el mar interrumpe el combate y hace arder los tatuajes de Citlali](../capitulos/43.md) · 01:23:57.280
+
+Tipo: `hecho_confirmado`.
+
+Una explosión tremenda silencia momentáneamente el campo terrestre. Todos miran hacia el mar; Eleanor y Lunaria, aún en altura, ven una columna de fuego entre los barcos de guerra de la costa del Garfio. Al mismo tiempo, Citlali siente un dolor devastador en sus tatuajes, suelta las alpargatas y cae de rodillas gritando y arañándose.
+
+La escena terrestre registra la explosión y la reacción de Citlali; no convierte a quienes miran desde la jungla en testigos de cada acción de Nox en el Invictus.
+
+## [43-051 · Citlali mata al general mientras los marines huyen hacia las trampas](../capitulos/43.md) · 01:41:50.400
+
+Tipo: `hecho_confirmado`.
+
+Citlali busca a quien aún da órdenes y atraviesa las filas para agarrarlo por el cuello. Le reprocha que todos le arrebataron a su hijo y vuelve a absorber su energía. Una carta del chat añade furia como la de un bárbaro. El director confirma la muerte del general. Otros marines retroceden y algunos gritan al caer en trampas de la jungla.
+
+El cargo es descriptivo y el general no recibe un nombre. La acusación de Citlali expresa su duelo y rabia, sin probar que este oficial causara personalmente lo ocurrido a Nox. La carta es una ayuda de juego, no un nuevo origen biográfico de sus poderes.
+
+## [43-055 · La caída de los generales rompe la resistencia terrestre](../capitulos/43.md) · 01:51:11.920
+
+Tipo: `hecho_confirmado`.
+
+Molly y los piratas combaten por los laterales, junto a la jungla, contra los marines que intentan huir. Eleanor imbuye su espada con la energía usada en el oso y parte a un general por la mitad. El director confirma que Citlali ha matado a otro mando y que las bolas de fuego han deshecho la formación. Los supervivientes sueltan las armas y corren; los piratas persiguen a quienes huyen hacia la jungla.
+
+Bonnie aparece como vocativo aislado del director en la escena terrestre; se mantiene la continuidad de Molly, sin transportar a Bonnie desde el combate naval. No se establece la muerte de todos los miembros de la Marina de la isla.
+
+## [43-061 · Citlali ve el Zampaolas detenido en la costa y trata de alcanzarlo](../capitulos/43.md) · 02:01:24.800
+
+Tipo: `hecho_confirmado`.
+
+Citlali observa hacia la costa por encima de los árboles y ve velas negras y el pabellón del Zampaolas. El barco avanza como a la deriva y se detiene meciéndose, descrito como varado al este. Ella intenta ir hacia él con la esperanza de volver a ver a Amaru, recordando sus trenzas, el olor a ron y sus malos chistes. Sus piernas flaquean, pero insiste en caminar o arrastrarse. Los demás también pueden ver la bandera y parte de las velas. La sesión no narra un encuentro con quienes van a bordo.
+
+El duelo por Nox y la memoria de Amaru se enlazan expresamente mediante sus trenzas, ron, chistes y el contraste entre niño y hombre: Citlali reconoce al hijo perdido en Nox. No se cuenta cómo salió del cofre ni se reconstruye su crianza. Varado es la descripción visual desde la jungla, sin una inspección del casco o prueba de otro naufragio. La corrección de Kuroto a Xoltacan al cerrar no traslada la escena a otra campaña.
 

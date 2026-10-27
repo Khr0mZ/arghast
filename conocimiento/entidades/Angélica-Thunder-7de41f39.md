@@ -12,7 +12,7 @@ Base para revisar equivalencia: [31-022](../capitulos/31.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 42.
+Relato revisado hasta el capítulo 43.
 
 ### La anfitriona de Iktan
 

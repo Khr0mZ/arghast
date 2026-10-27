@@ -8,11 +8,11 @@ Molly/Moli es la capitana de Marina. Distinta de la sirena Marina.
 
 Etiquetas agrupadas: Molly (capitana de Marina); Molly (capitana de la Marina); Molly / Moli (capitana de Marina, grafía provisional).
 
-Base para revisar equivalencia: [05-008](../capitulos/05.md), [05-009](../capitulos/05.md), [23-001](../capitulos/23.md), [42-006](../capitulos/42.md), [42-011](../capitulos/42.md).
+Base para revisar equivalencia: [05-008](../capitulos/05.md), [05-009](../capitulos/05.md), [23-001](../capitulos/23.md), [42-006](../capitulos/42.md), [42-011](../capitulos/42.md), [43-005](../capitulos/43.md), [43-010](../capitulos/43.md), [43-014](../capitulos/43.md), [43-015](../capitulos/43.md), [43-016](../capitulos/43.md), [43-020](../capitulos/43.md), [43-023](../capitulos/43.md), [43-026](../capitulos/43.md), [43-028](../capitulos/43.md), [43-029](../capitulos/43.md), [43-035](../capitulos/43.md), [43-041](../capitulos/43.md), [43-048](../capitulos/43.md), [43-055](../capitulos/43.md), [43-058](../capitulos/43.md), [43-059](../capitulos/43.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 42.
+Relato revisado hasta el capítulo 43.
 
 ### Una capitana con vínculos en ambos bandos
 
@@ -37,6 +37,24 @@ Fuentes: [35-019 · Bonnie y Molly reencuentran; recompensas](../capitulos/35.md
 Molly conversa con Bonnie durante la concentración de los defensores de Shiaru. La escena conserva su cercanía en los preparativos contra la armada, sin transcribir el contenido de esa conversación ni adjudicarle una orden naval.
 
 Fuentes: [42-006 · Shiaru reúne a sus defensores en la plaza](../capitulos/42.md) · 00:08:05.039 · [42-011 · Bonnie reclama la defensa de la libertad de Shiaru](../capitulos/42.md) · 00:20:27.440.
+
+### Al frente del embudo terrestre
+
+Molly prepara la defensa de tierra de Shiaru y acompaña a Eleanor y Erandy al punto protegido por trampas y tiradores. Reconoce la inferior preparación de sus aproximadamente veinte piratas y cree que no podrán vencer. Les permite retirarse si es necesario, especialmente para proteger a Erandy, y recuerda que ya no ostenta su antiguo cargo de capitana. Recibe de Eleanor un broche y un ofrecimiento ligado a una leyenda. Después distribuye la emboscada y espera en el terreno cuando los fusileros de la Marina abren fuego.
+
+Fuentes: [43-005 · Las defensas de la jungla ya han sido inspeccionadas](../capitulos/43.md) · 00:06:34.120 · [43-010 · Molly conduce a unos veinte piratas hacia el embudo](../capitulos/43.md) · 00:14:50.120 · [43-014 · Molly llega al punto defensivo y permite huir si es necesario](../capitulos/43.md) · 00:23:58.679 · [43-015 · Eleanor entrega a Molly el broche de su tierra](../capitulos/43.md) · 00:27:15.159 · [43-016 · El grupo despliega una emboscada y refuerza sus defensas](../capitulos/43.md) · 00:28:25.039 · [43-020 · La primera descarga de la Marina mata a piratas de la defensa](../capitulos/43.md) · 00:37:58.599.
+
+### Junto a la carga terrestre
+
+Molly observa la fuerza de Erandy y carga junto a Eleanor y los piratas. La metralla la alcanza, pero continúa disparando y protegiendo a sus compañeros. Más tarde se une al frente de Citlali y Lunaria. El pasaje en que una aliada intercepta un golpe contra Citlali y la advierte del peligro se conserva por continuidad junto a Molly, aunque el reconocimiento alterna Bonnie y Morí y exige cautela en la atribución.
+
+Fuentes: [43-023 · Erandy invoca al Sol y prende un batallón](../capitulos/43.md) · 00:41:56.520 · [43-026 · La artillería alcanza a Erandy, Molly y Eleanor](../capitulos/43.md) · 00:49:27.520 · [43-028 · Molly continúa el avance con los piratas](../capitulos/43.md) · 00:54:01.680 · [43-029 · Eleanor deja el escudo como cobertura para su escudera](../capitulos/43.md) · 00:54:33.400 · [43-035 · Eleanor marca la retaguardia y llama a cargar](../capitulos/43.md) · 01:09:48.000 · [43-041 · La combatiente que acompaña al grupo protege a Citlali](../capitulos/43.md) · 01:20:48.239.
+
+### La victoria terrestre y la noticia de Nox
+
+Molly sigue luchando en el frente de la jungla y recorre los flancos con los piratas durante la retirada de los marines. Al terminar se acerca herida, ensangrentada y sin aliento. La expresión de Citlali, que llora a Nox como a un hijo, la deja inmóvil y hace que se le caiga el arma.
+
+Fuentes: [43-048 · El oso de Lunaria impacta con la energía de Eleanor](../capitulos/43.md) · 01:33:33.920 · [43-055 · La caída de los generales rompe la resistencia terrestre](../capitulos/43.md) · 01:51:11.920 · [43-058 · Los piratas celebran la victoria y Molly llega herida](../capitulos/43.md) · 01:55:31.560 · [43-059 · La caja musical acompaña el duelo de Citlali por Nox](../capitulos/43.md) · 01:57:06.040.
 
 ## Registros y evidencias
 
@@ -391,4 +409,156 @@ Tipo: `hecho_confirmado`.
 La plaza reúne a los habitantes y aliados de Shiaru. Gobs prepara agujas, una sierra y un taladro; Armin espera con dos enormes mazos. Un grupo de mujeres prepara armas de fuego. Eleanor y Erandy están presentes junto a miembros del Zampaolas. Jack aparece nervioso detrás de Ilikar; también se muestran Baps, Mugre y Ojo Ausente. Bonnie conversa con Molly.
 
 El pasaje no nombra con claridad a la mujer que encabeza al grupo armado. Su contexto no basta para atribuir a Liz cada intervención o confirmar que Gobs opere a alguien.
+
+## [43-002 · Erandy y Eleanor se preparan para la defensa terrestre](../capitulos/43.md) · 00:00:41.280
+
+Tipo: `declaracion_personaje`.
+
+Erandy relata que ella y Eleanor, tras conocer la amenaza de los chaquetas azules, hablaron en la taberna con Bonnie y Molly y pensaron en colocar trampas. Entiende que Molly encabeza el frente terrestre. Eleanor recuerda sus entrenamientos y que un enano azul anunciando el fin le hizo conocer el peligro, tras lo cual fue con su escudera a hablar con Bonnie e inspeccionar el punto que debían proteger.
+
+El enano del repaso no queda nombrado; la apariencia y el cartel no bastan para crear o asignar una identidad. Los preparativos se cuentan como contexto de lo sucedido entre sesiones.
+
+## [43-005 · Las defensas de la jungla ya han sido inspeccionadas](../capitulos/43.md) · 00:06:34.120
+
+Tipo: `explicacion_director`.
+
+El director recuerda que Molly y Bonnie colaboraban para proteger Shiaru y que la exmarina advirtió del ataque tras su destitución. Molly ha llevado a Erandy y Eleanor al punto defensivo: hay cuerdas, trampas y combatientes escondidos para disparar desde la jungla. Después de revisar el despliegue vuelven al poblado para recibir las últimas órdenes.
+
+La colaboración y la destitución se recuerdan como antecedentes. El pasaje no nombra las ruinas del capítulo 36 y no basta para identificar ese punto con su ocupación definitiva.
+
+## [43-009 · Erandy protege a Eleanor antes de marchar](../capitulos/43.md) · 00:12:06.720
+
+Tipo: `hecho_confirmado`.
+
+Molly llama a Eleanor para partir. Erandy pide un momento y posa la mano sobre el hombro de su señora, invocando la virtud y la calidez del Sol. En la mesa se establece una protección de ocho horas que, al caer a cero puntos de vida, permite quedar con uno.
+
+El nombre inglés del hechizo se oye de forma incompleta. Se conserva el efecto explicado en la mesa, sin presentarlo como inmortalidad ni como una activación ya consumida al recibir daño.
+
+## [43-010 · Molly conduce a unos veinte piratas hacia el embudo](../capitulos/43.md) · 00:14:50.120
+
+Tipo: `hecho_confirmado`.
+
+Molly muestra a Eleanor un grupo de aproximadamente veinte piratas y reconoce la diferencia con los soldados de la Marina en la que sirvió. Aunque están decididos, su preparación es deficiente. Ordena marchar por la jungla para defender un embudo e impedir que el enemigo llegue a Shiaru.
+
+La cifra se plantea como aproximación narrativa. No indica el número de supervivientes al terminar el combate ni vuelve a otorgar a Molly un cargo vigente en la Marina.
+
+## [43-014 · Molly llega al punto defensivo y permite huir si es necesario](../capitulos/43.md) · 00:23:58.679
+
+Tipo: `hecho_confirmado`.
+
+Erandy, Eleanor y Molly avanzan entre trampas, tiradores ocultos y vallas bajas hasta el punto acordado. Molly reconoce que no cree que puedan ganar y asegura que comprenderá que huyan si corren peligro. Erandy no quiere dejarla a su suerte. Molly aclara que ya no es capitana y dirige a Eleanor una mirada para que proteja a la escudera si la situación se vuelve insostenible.
+
+La derrota es la valoración previa de Molly, no el resultado confirmado de la sesión. No se representa todavía una huida ni el sacrificio de nadie.
+
+## [43-015 · Eleanor entrega a Molly el broche de su tierra](../capitulos/43.md) · 00:27:15.159
+
+Tipo: `hecho_confirmado`.
+
+Eleanor explica que ayuda a los defensores por el buen trato que han dado a Erandy, que no habría recibido lo mismo en el reino de la caballera. Se quita el broche de su tierra y se lo entrega a Molly. Alude a una leyenda y dice que, si recuperase su cuerpo, quizá podría intentar hacer algo; espera no necesitar comprobarlo. Molly agradece el gesto.
+
+La alusión a recuperar el cuerpo es hipotética. No demuestra que Eleanor pueda resucitar a Molly, que la leyenda sea cierta o que Molly haya muerto. No se ve ni se describe el emblema del broche.
+
+## [43-016 · El grupo despliega una emboscada y refuerza sus defensas](../capitulos/43.md) · 00:28:25.039
+
+Tipo: `hecho_confirmado`.
+
+Además del grupo de piratas, dos miembros más seguros de la tripulación de Bonnie ayudan a ordenar las posiciones. Molly espera pelotones con caballos, cañones y rifles por un solo camino y quiere canalizarlos para evitar un ataque simultáneo. Eleanor aplica una protección de cinco puntos de vida temporales a Molly, Erandy y ella misma. Erandy prepara sus espíritus guardianes para cuando el enemigo se acerque. Molly distribuye a sus hombres entre el bosque y la retaguardia y queda en medio del terreno.
+
+Se conserva la explicación de puntos temporales usada en la partida, sin corregirla mediante reglas externas. Los espíritus se dejan preparados; este intervalo no muestra su daño ni su duración efectiva.
+
+## [43-020 · La primera descarga de la Marina mata a piratas de la defensa](../capitulos/43.md) · 00:37:58.599
+
+Tipo: `hecho_confirmado`.
+
+Los marines ven a Molly y a los piratas. Un oficial ordena a los fusileros acabar con ellos y las líneas disparan por turnos. Las ráfagas alcanzan los pequeños grupos de defensores; algunos piratas próximos a Erandy mueren mientras continúa el fuego intenso.
+
+Las bajas son piratas sin nombre y no se da un total. No se atribuyen a esos muertos identidades catalogadas ni se presenta la descarga como la caída definitiva de la defensa.
+
+## [43-023 · Erandy invoca al Sol y prende un batallón](../capitulos/43.md) · 00:41:56.520
+
+Tipo: `hecho_confirmado`.
+
+Erandy canaliza fuego por manos y brazos, con los ojos dorados, mientras invoca al Señor Sol y reclama castigo para quienes subyugan a los débiles. Su bola de fuego explota entre los marines: algunos salen despedidos y otros corren ardiendo. Los piratas, antes desmotivados, se animan y cargan; sus gritos a favor del saqueo y la esclavitud no reproducen la justificación de la escudera. Molly comenta a Eleanor que la pequeña esconde muchas cosas, carga su pistola y avanza.
+
+La invocación y el aspecto solar forman parte de la interpretación de Erandy; no demuestran por sí solos posesión divina. La reacción pirata no implica que compartan su defensa de los inocentes.
+
+## [43-026 · La artillería alcanza a Erandy, Molly y Eleanor](../capitulos/43.md) · 00:49:27.520
+
+Tipo: `hecho_confirmado`.
+
+Los cañones disparan sobre los piratas. Erandy recibe metralla, resuelta con quince puntos de daño; Molly también resulta alcanzada. Eleanor se protege detrás del escudo cuando una bala cae frente a ella, pero la fuerza la empuja hacia atrás y recibe treinta y tres puntos de daño.
+
+El escudo reduce o contiene parte del impacto descrito, pero no evita el daño. No se especifica aquí la gravedad total de las heridas de Molly.
+
+## [43-028 · Molly continúa el avance con los piratas](../capitulos/43.md) · 00:54:01.680
+
+Tipo: `hecho_confirmado`.
+
+Molly sigue avanzando, dispara y trata de proteger a quienes marchan con ella. Los piratas la acompañan y disparan contra los marines. Durante el avance muere algún perro de combate.
+
+El reconocimiento dice primero que Molly dispara a piratas y después que combate con ellos contra marines; se conserva el avance y apoyo, sin convertir la frase contradictoria en un ataque deliberado contra sus aliados.
+
+## [43-029 · Eleanor deja el escudo como cobertura para su escudera](../capitulos/43.md) · 00:54:33.400
+
+Tipo: `hecho_confirmado`.
+
+Eleanor clava su escudo delante de Erandy para proporcionarle cobertura y corre al frente sin él. Aclara que no se lleva a la escudera: deja el escudo vertical, como una torre. Molly la ve sin escudo, sonríe y continúa cargando a su lado.
+
+Dejar el escudo en retaguardia es una decisión de combate; no se muestra aquí que Eleanor lo pierda definitivamente.
+
+## [43-035 · Eleanor marca la retaguardia y llama a cargar](../capitulos/43.md) · 01:09:48.000
+
+Tipo: `hecho_confirmado`.
+
+Molly y otros piratas alcanzan a Citlali y al oso. Al ver que Erandy se ha acercado, Eleanor clava el estandarte y le ordena no avanzar más: su lugar es la retaguardia. Reconoce a Lunaria cuando el oso cae ante ella y, viendo rota la formación enemiga, llama a los demás a cargar. Sin el escudo, combate con su espada entre los marines y ataca a un perro.
+
+La orden del estandarte no demuestra que Erandy la obedezca. La caída del oso en esta escena no acredita que se trate de otro animal.
+
+## [43-037 · El toque de Citlali cierra sus heridas y rejuvenece su piel](../capitulos/43.md) · 01:13:34.760
+
+Tipo: `hecho_confirmado`.
+
+Citlali sigue golpeando con las chanclas como si fueran dagas hasta llegar ante un hombre y tocarle el cuello con un toque frío, descrito como de muerte. Los personajes cercanos ven que su piel arrugada se tensa y parece rejuvenecer durante unos segundos. La sangre de las heridas que había recibido deja de brotar y el director la describe totalmente curada. Continúa avanzando y abatiendo miembros de los pelotones.
+
+El pasaje relaciona el toque con el cambio visible y la curación; no identifica por nombre el conjuro, demuestra una juventud permanente ni explica toda su longevidad.
+
+## [43-041 · La combatiente que acompaña al grupo protege a Citlali](../capitulos/43.md) · 01:20:48.239
+
+Tipo: `hecho_confirmado`.
+
+La combatiente que venía avanzando con los piratas observa a Eleanor sobre el oso y sigue luchando. Al pasar junto a Citlali intercepta un golpe de un marine y le advierte que debería estar en otro lugar porque corre peligro. Citlali responde «Yo soy el peligro» y continúa combatiendo. Por continuidad se conserva la escena junto a Molly.
+
+El director dice Bonnie al inicio y después una variante oída como Morí; la escena venía siguiendo a Molly en el mismo frente. La atribución se conserva como contextual y no se afirma una llegada inequívoca de Bonnie a tierra.
+
+## [43-048 · El oso de Lunaria impacta con la energía de Eleanor](../capitulos/43.md) · 01:33:33.920
+
+Tipo: `hecho_confirmado`.
+
+Lunaria y Eleanor descienden desde cien pies y resuelven la caída del oso con un golpe divino. El resultado anunciado es de setenta y siete puntos de daño. El oso se ilumina, golpea el suelo y lanza por los aires a quienes lo rodean, desplazando también a Citlali. Lunaria abandona la forma de oso después del impacto; Molly permanece luchando en el terreno.
+
+La narración confunde un vocativo al situar al jinete, pero las tiradas y turnos mantienen la combinación de Lunaria y Eleanor. No se presenta la cifra como daño sufrido por Lunaria ni como una muerte suya.
+
+## [43-055 · La caída de los generales rompe la resistencia terrestre](../capitulos/43.md) · 01:51:11.920
+
+Tipo: `hecho_confirmado`.
+
+Molly y los piratas combaten por los laterales, junto a la jungla, contra los marines que intentan huir. Eleanor imbuye su espada con la energía usada en el oso y parte a un general por la mitad. El director confirma que Citlali ha matado a otro mando y que las bolas de fuego han deshecho la formación. Los supervivientes sueltan las armas y corren; los piratas persiguen a quienes huyen hacia la jungla.
+
+Bonnie aparece como vocativo aislado del director en la escena terrestre; se mantiene la continuidad de Molly, sin transportar a Bonnie desde el combate naval. No se establece la muerte de todos los miembros de la Marina de la isla.
+
+## [43-058 · Los piratas celebran la victoria y Molly llega herida](../capitulos/43.md) · 01:55:31.560
+
+Tipo: `hecho_confirmado`.
+
+El director da por terminado el combate: la mayoría de los marines han caído y los pocos que quedan huyen. Los piratas celebran mientras los combatientes recuperan el aliento. Molly se acerca cansada, respira con dificultad y tiene heridas, disparos y manchas de sangre. Expresa su sorpresa por el oso gigante y la cría arrojada, y se detiene al mirar a Citlali.
+
+La victoria se limita al frente terrestre mostrado. Los gritos de haber acabado con todos se matizan con los supervivientes que el propio director describe huyendo.
+
+## [43-059 · La caja musical acompaña el duelo de Citlali por Nox](../capitulos/43.md) · 01:57:06.040
+
+Tipo: `declaracion_personaje`.
+
+Citlali vuelve la mirada hacia la explosión con su rostro rejuvenecido lleno de lágrimas. Saca una caja musical de la falda y dice que Nox se ha ido. Mientras mueve la caja no puede dejar de llorar. Mira a Molly; el director explica que esta comprende la mirada de quien acaba de perder a su hijo. Molly abre los ojos, deja caer el arma y queda inmóvil.
+
+La escena presenta el duelo y la comprensión de Molly; no muestra el cuerpo de Nox ni explica el origen de la caja. Las réplicas sobre que Nox siempre vuelve no anulan ese duelo.
 

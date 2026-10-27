@@ -12,7 +12,7 @@ Base para revisar equivalencia: [30-007](../capitulos/30.md), [30-010](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 42.
+Relato revisado hasta el capítulo 43.
 
 ### Una visita que debía evitar una guerra
 

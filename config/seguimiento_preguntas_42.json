@@ -1,23 +1,26 @@
 {
   "version": 1,
-  "revisado_hasta": 42,
+  "revisado_hasta": 43,
   "preguntas": [
     {
       "id": "P42-001",
       "capitulo": 42,
       "indice": 1,
       "pregunta": "¿Qué destino tienen Nox, Pinky y Tórtola tras la explosión del Invictus? El director despide a Nox y Pinky, pero la búsqueda no recupera el cuerpo de Nox ni se representa el destino del aviar (42-060–42-064, 42-072).",
-      "estado": "pendiente",
-      "revisado_hasta": 42,
-      "respuesta": "Nox renuncia a saltar para impedir que Tórtola cambie el rumbo. Pinky permanece combatiendo cuando el Invictus estalla; el director despide a ambos al terminar. Ione encuentra otros cuerpos, sin recuperar el de Nox. No se muestra una escena posterior de Tórtola.",
+      "estado": "parcial",
+      "revisado_hasta": 43,
+      "respuesta": "La explosión se contempla desde tierra. Citlali ve a Nox cayendo al agua en una visión y después declara que se ha ido; el director presenta su mirada ante Molly como la de quien ha perdido a su hijo. Se desarrolla así la pérdida de Nox que enmarcaba la despedida del capítulo 42, sin narrar una recuperación de su cuerpo. Pinky y Tórtola no reciben una escena posterior al estallido.",
       "referencias": [
         "42-060",
-        "42-061",
         "42-062",
         "42-064",
-        "42-072"
+        "42-072",
+        "43-044",
+        "43-045",
+        "43-059",
+        "43-061"
       ],
-      "pendiente": "Cualquier destino posterior o recuperación de los tres tras el estallido."
+      "pendiente": "El destino de Pinky y Tórtola y cualquier recuperación o escena posterior de los tres."
     },
     {
       "id": "P42-002",
@@ -25,13 +28,16 @@
       "indice": 2,
       "pregunta": "¿Qué función tienen los tatuajes y el ojo-orbe en la última decisión de Nox y dónde queda el objeto? Su presencia en la chaqueta no acredita dominación, protección o una vía de escape (42-061).",
       "estado": "pendiente",
-      "revisado_hasta": 42,
-      "respuesta": "Nox nota los tatuajes y encuentra el ojo en su chaqueta antes de soltar la cuerda. No se atribuye al objeto una orden, una protección o una huida, y después estalla el Invictus.",
+      "revisado_hasta": 43,
+      "respuesta": "El ojo queda con Nox antes del estallido y no se recupera en el capítulo 43. El dolor y el altar de símbolos que se muestran ahora pertenecen a Citlali: no se identifican sus marcas con las de Nox ni se atribuye al ojo una orden, protección o fuga.",
       "referencias": [
         "42-061",
-        "42-062"
+        "42-062",
+        "43-044",
+        "43-045",
+        "43-062"
       ],
-      "pendiente": "La función de las señales y el paradero posterior del ojo-orbe."
+      "pendiente": "La función de los tatuajes y el ojo en la decisión de Nox y el paradero posterior del objeto."
     },
     {
       "id": "P42-003",
@@ -39,7 +45,7 @@
       "indice": 3,
       "pregunta": "¿Qué consecuencias tiene el disparo de Taylor contra Bonnie y quién controlará Shiaru? La sesión cierra con el disparo a la frente y la despedida del director, sin mostrar el nuevo gobierno (42-068–42-072).",
       "estado": "pendiente",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "respuesta": "Taylor dispara a la frente de Bonnie ante los otros reyes y el director la despide. La escena no continúa con una elección de dirigente ni una descripción de Shiaru bajo otra autoridad.",
       "referencias": [
         "42-068",
@@ -54,7 +60,7 @@
       "indice": 4,
       "pregunta": "¿Cuáles eran las cláusulas del pacto entre los cinco reyes y qué harán en Xoltacan? Taylor acusa a Bonnie de ocultar la isla y faltar a reuniones, pero no expone todo el acuerdo (42-069–42-072).",
       "estado": "pendiente",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "respuesta": "Taylor relaciona el pacto con las reuniones y con no ocultar una isla de grandes tesoros. Bonnie reconoce haber leído su carta. No se leen todas las cláusulas ni se expone un plan común posterior.",
       "referencias": [
         "42-069",
@@ -70,7 +76,7 @@
       "indice": 5,
       "pregunta": "¿Quién es el joven Jackie que Taylor dice haber capturado rumbo a Puerto de Espadas y cuál es su destino? No se demuestra su identidad con Jack, presente en el Zampaolas (42-008, 42-029, 42-070).",
       "estado": "pendiente",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "respuesta": "La captura del joven rumbo a Puerto de Espadas procede del relato de Taylor y su nombre se recuerda con duda. Jack, el exmarine, ha estado presente en el Zampaolas; no se establece que el testimonio trate sobre él ni una segunda captura.",
       "referencias": [
         "42-008",
@@ -84,14 +90,15 @@
       "capitulo": 42,
       "indice": 6,
       "pregunta": "¿Dónde continuará Ione la búsqueda de Nox y cómo utilizará la moneda recibida? Acepta salir de la batalla, pero se niega a abandonar Shiaru (42-066–42-067).",
-      "estado": "pendiente",
-      "revisado_hasta": 42,
-      "respuesta": "Bonnie pone la moneda en la mano de Ione. La capitana vira para proteger a los suyos y retirarse, aunque rechaza abandonar Shiaru. No activa el objeto ni vuelve a ejecutar una búsqueda después de la retirada en esta sesión.",
+      "estado": "parcial",
+      "revisado_hasta": 43,
+      "respuesta": "Al finalizar el frente terrestre, Citlali y sus compañeros ven el pabellón y las velas del Zampaolas detenerse como varados en la costa al este de la jungla. Citlali intenta llegar, pero no se representa el encuentro. Se documenta la posición posterior del barco desde fuera, sin mostrar nuevas acciones de Ione o el uso de la moneda.",
       "referencias": [
         "42-066",
-        "42-067"
+        "42-067",
+        "43-061"
       ],
-      "pendiente": "El siguiente refugio, la continuación de la búsqueda y el uso de la moneda por Ione."
+      "pendiente": "La continuación de la búsqueda de Ione y la activación o uso de la moneda por ella."
     },
     {
       "id": "P42-007",
@@ -99,7 +106,7 @@
       "indice": 7,
       "pregunta": "¿A qué reyes y monedas corresponden los ataques de hielo y fuego y cuáles son sus límites? La llegada de las cuatro banderas no distribuye individualmente esos poderes (42-065–42-069).",
       "estado": "pendiente",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "respuesta": "El hielo y el fuego destruyen los refuerzos justo antes de aparecer las cuatro banderas y los reyes. La narración los presenta como su llegada, sin identificar cuál ejecuta cada fenómeno ni describir una activación individual de sus monedas.",
       "referencias": [
         "42-065",

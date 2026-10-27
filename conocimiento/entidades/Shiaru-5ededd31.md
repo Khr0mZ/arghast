@@ -8,11 +8,11 @@ Entrada documentada en los registros citados.
 
 Etiquetas agrupadas: Shiaru.
 
-Base para revisar equivalencia: [01-001](../capitulos/01.md), [01-009](../capitulos/01.md), [01-024](../capitulos/01.md), [42-006](../capitulos/42.md), [42-011](../capitulos/42.md), [42-013](../capitulos/42.md), [42-016](../capitulos/42.md), [42-063](../capitulos/42.md), [42-066](../capitulos/42.md), [42-067](../capitulos/42.md).
+Base para revisar equivalencia: [01-001](../capitulos/01.md), [01-009](../capitulos/01.md), [01-024](../capitulos/01.md), [42-006](../capitulos/42.md), [42-011](../capitulos/42.md), [42-013](../capitulos/42.md), [42-016](../capitulos/42.md), [42-063](../capitulos/42.md), [42-066](../capitulos/42.md), [42-067](../capitulos/42.md), [43-001](../capitulos/43.md), [43-005](../capitulos/43.md), [43-006](../capitulos/43.md), [43-007](../capitulos/43.md), [43-008](../capitulos/43.md), [43-010](../capitulos/43.md), [43-011](../capitulos/43.md), [43-012](../capitulos/43.md), [43-013](../capitulos/43.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 42.
+Relato revisado hasta el capítulo 43.
 
 ### El primer puerto y sus deudas
 
@@ -43,6 +43,12 @@ Fuentes: [42-006 · Shiaru reúne a sus defensores en la plaza](../capitulos/42.
 El oleaje lleva el Zampaolas cerca de la costa, sin encallarlo en Shiaru. Tras la búsqueda infructuosa de Nox, Bonnie ordena retirarse y no volver al poblado. Ione saca a sus compañeros de la batalla, pero expresa su negativa a abandonar Shiaru porque quiere seguir buscándolo.
 
 Fuentes: [42-063 · Ione se lanza a buscar a Nox y sus compañeros la siguen](../capitulos/42.md) · 02:02:20.520 · [42-066 · Bonnie entrega la moneda a Ione y les ordena marcharse](../capitulos/42.md) · 02:12:59.000 · [42-067 · Ione retira el Zampaolas de la batalla sin renunciar a buscar a Nox](../capitulos/42.md) · 02:14:52.159.
+
+### La defensa que permanece en tierra
+
+En paralelo al frente naval de la misma batalla, mientras Bonnie y los barcos parten bajo la tormenta, Liz y sus compañeras se sitúan con rifles y barricadas en el poblado. Molly marcha con Eleanor, Erandy y un pequeño contingente hacia un embudo de la jungla para impedir que la Marina llegue a Shiaru. Al mismo tiempo, Citlali intenta regresar con ayuda de Lunaria, impulsada por un dolor y una visión que aún no sabe interpretar.
+
+Fuentes: [43-001 · La sesión comienza al mismo tiempo que el capítulo naval](../capitulos/43.md) · 00:00:01.280 · [43-005 · Las defensas de la jungla ya han sido inspeccionadas](../capitulos/43.md) · 00:06:34.120 · [43-006 · Los habitantes se concentran en Shiaru](../capitulos/43.md) · 00:08:03.360 · [43-007 · La moneda de Bonnie convoca la tormenta de la partida](../capitulos/43.md) · 00:10:14.800 · [43-008 · Liz y otros defensores permanecen tras barricadas](../capitulos/43.md) · 00:11:05.320 · [43-010 · Molly conduce a unos veinte piratas hacia el embudo](../capitulos/43.md) · 00:14:50.120 · [43-011 · El malestar de Citlali la lleva a pedir ayuda a Luna](../capitulos/43.md) · 00:17:31.240 · [43-012 · Luna se transforma en oso para transportar a Citlali](../capitulos/43.md) · 00:20:23.720 · [43-013 · Citlali tiene una visión de un pirata y de la batalla bajo el agua](../capitulos/43.md) · 00:21:34.240.
 
 ## Registros y evidencias
 
@@ -589,4 +595,84 @@ Tipo: `hecho_confirmado`.
 Sir Poncelot pide a Ilikar que ayude a la capitana y salgan de allí. Ilikar ordena desplegar velas y recuerda a Ione que debe vivir tras lo hecho por Nox. Ella gruñe, señala tierra y se niega a abandonar Shiaru, aunque acepta retirarse de la batalla para proteger a su tripulación. Toma el timón con las garras y vira el Zampaolas.
 
 La retirada no representa haber salido ya de la isla ni una búsqueda reanudada después.
+
+## [43-001 · La sesión comienza al mismo tiempo que el capítulo naval](../capitulos/43.md) · 00:00:01.280
+
+Tipo: `explicacion_director`.
+
+El director sitúa el comienzo de esta sesión en el mismo momento en que empezó la partida del grupo anterior. El frente terrestre de la defensa del Garfio se presenta así en paralelo al inicio del capítulo naval, antes de conocer en escena todos sus resultados.
+
+La numeración de los capítulos no demuestra que toda esta acción suceda después del final del 42. No se trasladan sus muertes, decisiones o ausencias al inicio del 43.
+
+## [43-002 · Erandy y Eleanor se preparan para la defensa terrestre](../capitulos/43.md) · 00:00:41.280
+
+Tipo: `declaracion_personaje`.
+
+Erandy relata que ella y Eleanor, tras conocer la amenaza de los chaquetas azules, hablaron en la taberna con Bonnie y Molly y pensaron en colocar trampas. Entiende que Molly encabeza el frente terrestre. Eleanor recuerda sus entrenamientos y que un enano azul anunciando el fin le hizo conocer el peligro, tras lo cual fue con su escudera a hablar con Bonnie e inspeccionar el punto que debían proteger.
+
+El enano del repaso no queda nombrado; la apariencia y el cartel no bastan para crear o asignar una identidad. Los preparativos se cuentan como contexto de lo sucedido entre sesiones.
+
+## [43-005 · Las defensas de la jungla ya han sido inspeccionadas](../capitulos/43.md) · 00:06:34.120
+
+Tipo: `explicacion_director`.
+
+El director recuerda que Molly y Bonnie colaboraban para proteger Shiaru y que la exmarina advirtió del ataque tras su destitución. Molly ha llevado a Erandy y Eleanor al punto defensivo: hay cuerdas, trampas y combatientes escondidos para disparar desde la jungla. Después de revisar el despliegue vuelven al poblado para recibir las últimas órdenes.
+
+La colaboración y la destitución se recuerdan como antecedentes. El pasaje no nombra las ruinas del capítulo 36 y no basta para identificar ese punto con su ocupación definitiva.
+
+## [43-006 · Los habitantes se concentran en Shiaru](../capitulos/43.md) · 00:08:03.360
+
+Tipo: `hecho_confirmado`.
+
+La plaza de Shiaru reúne a los defensores. Gobs guarda una sierra y otras herramientas en su bolsa; Armin lleva dos enormes mazas. Liz y sus compañeras preparan armas de fuego, entre ellas una escopeta y un rifle largo. Ione, Ilikar y Sir Poncelot están con la tripulación del Zampaolas mientras Bonnie pronuncia su discurso.
+
+La presencia de los viajeros corresponde a la concentración anterior a la batalla naval, no confirma su supervivencia después del capítulo 42. Las comparaciones con Frankenstein describen humorísticamente a Gobs y no acreditan una operación realizada aquí.
+
+## [43-007 · La moneda de Bonnie convoca la tormenta de la partida](../capitulos/43.md) · 00:10:14.800
+
+Tipo: `hecho_confirmado`.
+
+Bonnie sostiene la moneda de los reyes piratas. Empieza a brillar y de ella salen rayos que la envuelven; el director la presenta como una de las cinco reinas piratas. Tras su grito, los piratas corren a los muelles y unas nubes negras levantan una tormenta atribuida a su poder.
+
+Es la preparación compartida con el comienzo del capítulo 42, vista desde el otro grupo. No se cuentan dos activaciones distintas ni se describe un nuevo origen de la moneda.
+
+## [43-008 · Liz y otros defensores permanecen tras barricadas](../capitulos/43.md) · 00:11:05.320
+
+Tipo: `hecho_confirmado`.
+
+Después de la marcha de los barcos quedan pocos defensores en Shiaru. Liz y sus mujeres se reparten por las esquinas con rifles y barricadas. Otros piratas de movilidad reducida permanecen en posiciones estables para defender el poblado.
+
+Las exageraciones sobre el número de patas de palo no fijan un censo o diagnósticos. La escena no describe todavía un ataque contra esas barricadas.
+
+## [43-010 · Molly conduce a unos veinte piratas hacia el embudo](../capitulos/43.md) · 00:14:50.120
+
+Tipo: `hecho_confirmado`.
+
+Molly muestra a Eleanor un grupo de aproximadamente veinte piratas y reconoce la diferencia con los soldados de la Marina en la que sirvió. Aunque están decididos, su preparación es deficiente. Ordena marchar por la jungla para defender un embudo e impedir que el enemigo llegue a Shiaru.
+
+La cifra se plantea como aproximación narrativa. No indica el número de supervivientes al terminar el combate ni vuelve a otorgar a Molly un cargo vigente en la Marina.
+
+## [43-011 · El malestar de Citlali la lleva a pedir ayuda a Luna](../capitulos/43.md) · 00:17:31.240
+
+Tipo: `hecho_confirmado`.
+
+Mientras corre, Citlali vuelve a sentir que algo va mal y un pinchazo en la cabeza. Encuentra a Lunaria recogiendo hierbas que no identifica bien y llega con la cría medio dormida, arrastrada del ala. Luna le ofrece un té, pero Citlali insiste en que necesitan llegar a Shiaru cuanto antes y le pide ayuda.
+
+La intuición no identifica el peligro o el estado de Nox. Recoger hierbas y proponer un té no demuestra un conocimiento botánico seguro ni que llegue a administrar una infusión.
+
+## [43-013 · Citlali tiene una visión de un pirata y de la batalla bajo el agua](../capitulos/43.md) · 00:21:34.240
+
+Tipo: `hecho_confirmado`.
+
+Mientras monta al oso, Citlali tiene otra visión. Ve de espaldas a un pirata con adornos en el pelo y aspecto desaliñado que empieza a girarse. Unas burbujas la envuelven y siente que está bajo el agua, aunque puede respirar. Desde abajo contempla una batalla de barcos, fuego y restos que caen al mar junto con piratas y marines. Al abrir los ojos sigue viajando sobre Luna hacia Shiaru; el director aclara que la visión no le causa daño.
+
+El pirata no recibe nombre en esta visión. El punto de vista submarino no prueba un ahogamiento real de Citlali o Nox, una muerte individual ni la posición exacta de la visión dentro de la batalla naval.
+
+## [43-024 · Citlali y Lunaria ven formarse una tormenta sobre el mar](../capitulos/43.md) · 00:45:41.480
+
+Tipo: `hecho_confirmado`.
+
+Citlali y Lunaria avanzan hacia Shiaru por la jungla, tan deprisa como permite la forma de oso de Lunaria. Llevan a la cría atada y arrastrada detrás. Oyen ruidos atronadores y Citlali, situada más alta, distingue al este grandes nubes negras sobre el mar que empiezan a formar una tormenta. Anima a Lunaria a acelerar mientras esta da tirones a la cuerda de la cría.
+
+Los comentarios sobre enseñar a volar a la cría son bromas; no acreditan que vuele. La observación de Citlali no identifica por sí sola a quien provoca la tormenta.
 

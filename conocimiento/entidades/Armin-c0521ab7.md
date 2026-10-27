@@ -8,11 +8,11 @@ El director corrige a Armin el nombre utilizado por los jugadores en 35-004. El 
 
 Etiquetas agrupadas: Armin (herrero de Shiaru, grafía provisional); Herrero de Shiaru (sin nombre); Peter / Armin (herrero, equivalencia contextual provisional).
 
-Base para revisar equivalencia: [16-004](../capitulos/16.md), [23-003](../capitulos/23.md), [35-004](../capitulos/35.md), [42-006](../capitulos/42.md).
+Base para revisar equivalencia: [16-004](../capitulos/16.md), [23-003](../capitulos/23.md), [35-004](../capitulos/35.md), [42-006](../capitulos/42.md), [43-001](../capitulos/43.md), [43-006](../capitulos/43.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 42.
+Relato revisado hasta el capítulo 43.
 
 ### El herrero al que siempre se vuelve
 
@@ -30,7 +30,7 @@ Fuentes: [35-004 · Negocios de Nox y nombre Armin](../capitulos/35.md) · 00:20
 
 Armin espera entre los defensores reunidos en la plaza de Shiaru con dos mazos enormes. Su presencia lo sitúa en la preparación de la defensa, sin atribuirle todavía bajas o reparaciones concretas durante el enfrentamiento.
 
-Fuentes: [42-006 · Shiaru reúne a sus defensores en la plaza](../capitulos/42.md) · 00:08:05.039.
+Fuentes: [42-006 · Shiaru reúne a sus defensores en la plaza](../capitulos/42.md) · 00:08:05.039 · [43-001 · La sesión comienza al mismo tiempo que el capítulo naval](../capitulos/43.md) · 00:00:01.280 · [43-006 · Los habitantes se concentran en Shiaru](../capitulos/43.md) · 00:08:03.360.
 
 ## Registros y evidencias
 
@@ -121,4 +121,12 @@ Tipo: `hecho_confirmado`.
 La plaza reúne a los habitantes y aliados de Shiaru. Gobs prepara agujas, una sierra y un taladro; Armin espera con dos enormes mazos. Un grupo de mujeres prepara armas de fuego. Eleanor y Erandy están presentes junto a miembros del Zampaolas. Jack aparece nervioso detrás de Ilikar; también se muestran Baps, Mugre y Ojo Ausente. Bonnie conversa con Molly.
 
 El pasaje no nombra con claridad a la mujer que encabeza al grupo armado. Su contexto no basta para atribuir a Liz cada intervención o confirmar que Gobs opere a alguien.
+
+## [43-006 · Los habitantes se concentran en Shiaru](../capitulos/43.md) · 00:08:03.360
+
+Tipo: `hecho_confirmado`.
+
+La plaza de Shiaru reúne a los defensores. Gobs guarda una sierra y otras herramientas en su bolsa; Armin lleva dos enormes mazas. Liz y sus compañeras preparan armas de fuego, entre ellas una escopeta y un rifle largo. Ione, Ilikar y Sir Poncelot están con la tripulación del Zampaolas mientras Bonnie pronuncia su discurso.
+
+La presencia de los viajeros corresponde a la concentración anterior a la batalla naval, no confirma su supervivencia después del capítulo 42. Las comparaciones con Frankenstein describen humorísticamente a Gobs y no acreditan una operación realizada aquí.
 

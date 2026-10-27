@@ -8,11 +8,11 @@ Cría que nació del huevo de Mamá y posteriormente recibe un nombre en el cap�
 
 Etiquetas agrupadas: Cría dinosaurio de Mamá (sin nombre); Etley / Etle / Etil (cría dinosaurio, grafía provisional).
 
-Base para revisar equivalencia: [34-018](../capitulos/34.md), [34-020](../capitulos/34.md), [39-001](../capitulos/39.md).
+Base para revisar equivalencia: [34-018](../capitulos/34.md), [34-020](../capitulos/34.md), [39-001](../capitulos/39.md), [43-003](../capitulos/43.md), [43-011](../capitulos/43.md), [43-012](../capitulos/43.md), [43-024](../capitulos/43.md), [43-030](../capitulos/43.md), [43-031](../capitulos/43.md), [43-034](../capitulos/43.md), [43-038](../capitulos/43.md), [43-054](../capitulos/43.md), [43-058](../capitulos/43.md), [43-060](../capitulos/43.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 42.
+Relato revisado hasta el capítulo 43.
 
 ### El huevo que consiguió nacer
 
@@ -25,6 +25,24 @@ Fuentes: [07-023 · Mamá toma el huevo para criarlo](../capitulos/07.md) · 01:
 Citlali la llama Etley y la cuida mientras aprende a cazar. Los hombres serpiente los encuentran en una cueva y amenazan a la cría. Tras el derrumbe, Etley y Citlali quedan enterradas, pero siguen vivas hasta que sus compañeros y los guardias logran sacarlas. Ayoto ayuda a curarla con una fruta y Walulu vuelve a atenderla cuando llegan a Iktan. Al cierre, Etley duerme en el templo con su cuidadora; no se revela todavía el alcance de su naturaleza o de las expectativas que otros depositaron en el huevo.
 
 Fuentes: [39-001 · Regreso de Ayoto y crianza de Etley](../capitulos/39.md) · 00:00:00.000 · [39-004 · Los hombres serpiente amenazan a Etley](../capitulos/39.md) · 00:16:00.000 · [39-012 · Citlali y Etley siguen vivos mientras comienza la excavación](../capitulos/39.md) · 01:20:00.000 · [39-013 · Los guardias ayudan a rescatar a Citlali y Etley](../capitulos/39.md) · 01:27:00.000 · [39-014 · Citlali drena a Tlachka y el grupo marcha al norte](../capitulos/39.md) · 01:34:00.000 · [39-017 · Iktan admite y cura a los viajeros](../capitulos/39.md) · 01:55:00.000 · [39-020 · Descanso en Iktan y expulsión de Coyote](../capitulos/39.md) · 02:12:00.000.
+
+### La cría en el viaje apresurado
+
+Citlali dice haber cuidado a la cría hasta su recuperación en Iktan y después se la lleva al comenzar su carrera. El pequeño, todavía sin intervenir en combate, aparece medio dormido y arrastrado del ala. Cuando Lunaria se convierte en oso, queda sujeto con una cuerda y sigue como puede mientras ella lleva a Citlali. El transporte es incómodo, pero este viaje no narra su muerte o una herida concreta.
+
+Fuentes: [43-003 · Citlali recuerda la caja de música y huye de Iktan con la cría](../capitulos/43.md) · 00:03:45.400 · [43-011 · El malestar de Citlali la lleva a pedir ayuda a Luna](../capitulos/43.md) · 00:17:31.240 · [43-012 · Luna se transforma en oso para transportar a Citlali](../capitulos/43.md) · 00:20:23.720.
+
+### La cría entra en la batalla
+
+Etley llega arrastrado y atado tras el oso de Lunaria. Esta lo arroja hacia los marines y Citlali lo anima con un silbido de ataque. Aunque agita las alas, no vuela: su caída golpea a varios pelotones y abre un hueco en la formación. Permanece después en el centro de la lucha, entre bolas y rayos de fuego, pese a la intención previa de Citlali de esconderlo. Las bromas sobre cocinarlo no documentan su muerte.
+
+Fuentes: [43-024 · Citlali y Lunaria ven formarse una tormenta sobre el mar](../capitulos/43.md) · 00:45:41.480 · [43-030 · Lunaria arroja a Etley contra los marines](../capitulos/43.md) · 00:55:42.480 · [43-031 · Los golpes masivos hacen flaquear la formación](../capitulos/43.md) · 00:59:01.520 · [43-034 · Lunaria utiliza un cañón como garrote y sale impulsada](../capitulos/43.md) · 01:07:07.760 · [43-038 · Erandy ignora la orden y lanza rayos abrasadores](../capitulos/43.md) · 01:15:59.920.
+
+### Entre las alas y el duelo
+
+Lunaria protege a la cría de Citlali, llamada pollo durante la batalla, con alas espectrales al preparar su explosión de fuego. La cría sobrevive al combate mostrado y al terminar permanece agazapada, sin entender la pérdida pero percibiendo que algo grave les ha ocurrido a sus compañeros.
+
+Fuentes: [43-054 · Lunaria protege a Citlali y Etley antes de lanzar otra bola de fuego](../capitulos/43.md) · 01:48:39.760 · [43-058 · Los piratas celebran la victoria y Molly llega herida](../capitulos/43.md) · 01:55:31.560 · [43-060 · Eleanor comprueba el agotamiento extremo de Erandy](../capitulos/43.md) · 01:58:56.480.
 
 ## Registros y evidencias
 
@@ -147,4 +165,92 @@ Tipo: `hecho_confirmado`.
 Citlali y Etley duermen en el templo. Ella oye en la habitación contigua a los elfos y a Walulu, que tratan la enfermedad de la elfa. Ayoto y Tlachka piden habitaciones individuales en la taberna para evitar a Coyote. El director confirma que es un cambiaformas. Coyote intenta obtener el amor de Angelique sin éxito; un guardia lo expulsa y duerme fuera, cerca del poste donde lo cuelgan. Se confirma la llegada a Iktan y se sugiere que algo observa el entorno, sin identificarlo.
 
 Coyote y Citlali son personajes distintos aunque compartan jugador. El alias aportado en el contexto no acredita una identidad única.
+
+## [43-003 · Citlali recuerda la caja de música y huye de Iktan con la cría](../capitulos/43.md) · 00:03:45.400
+
+Tipo: `declaracion_personaje`.
+
+Citlali relata que permaneció en Iktan cuidando al pequeño hasta su recuperación y que los recuerdos volvieron a impedirle dormir. Encontró una caja de música; su melodía le recordó a sus hijos y a Nox. Sintió un dolor intenso y vio algo extraño en la piel. Interpretando que algo iba mal, tomó a la cría y echó a correr por la jungla. El director incorpora al pequeño a la escena, aclarando que aún no ataca.
+
+El repaso no identifica el mecanismo o la causa del dolor. El recuerdo de Nox y la intuición maternal no prueban su muerte ni fijan una hora con respecto al desenlace del capítulo 42. Las bromas sobre usar al pequeño de escudo no representan que lo hagan aquí.
+
+## [43-011 · El malestar de Citlali la lleva a pedir ayuda a Luna](../capitulos/43.md) · 00:17:31.240
+
+Tipo: `hecho_confirmado`.
+
+Mientras corre, Citlali vuelve a sentir que algo va mal y un pinchazo en la cabeza. Encuentra a Lunaria recogiendo hierbas que no identifica bien y llega con la cría medio dormida, arrastrada del ala. Luna le ofrece un té, pero Citlali insiste en que necesitan llegar a Shiaru cuanto antes y le pide ayuda.
+
+La intuición no identifica el peligro o el estado de Nox. Recoger hierbas y proponer un té no demuestra un conocimiento botánico seguro ni que llegue a administrar una infusión.
+
+## [43-012 · Luna se transforma en oso para transportar a Citlali](../capitulos/43.md) · 00:20:23.720
+
+Tipo: `hecho_confirmado`.
+
+Para acelerar el viaje, Luna se transforma en oso. Antes ata una cuerda a la cría, después la sujeta con los dientes y lleva a Citlali encima mientras el pequeño sigue arrastrado y corre como puede detrás.
+
+La transformación corresponde a Lunaria, no a Erandy. La narración describe un transporte incómodo; no comunica en este intervalo heridas, muerte o abandono de la cría.
+
+## [43-024 · Citlali y Lunaria ven formarse una tormenta sobre el mar](../capitulos/43.md) · 00:45:41.480
+
+Tipo: `hecho_confirmado`.
+
+Citlali y Lunaria avanzan hacia Shiaru por la jungla, tan deprisa como permite la forma de oso de Lunaria. Llevan a la cría atada y arrastrada detrás. Oyen ruidos atronadores y Citlali, situada más alta, distingue al este grandes nubes negras sobre el mar que empiezan a formar una tormenta. Anima a Lunaria a acelerar mientras esta da tirones a la cuerda de la cría.
+
+Los comentarios sobre enseñar a volar a la cría son bromas; no acreditan que vuele. La observación de Citlali no identifica por sí sola a quien provoca la tormenta.
+
+## [43-030 · Lunaria arroja a Etley contra los marines](../capitulos/43.md) · 00:55:42.480
+
+Tipo: `hecho_confirmado`.
+
+Las trampas de la jungla saltan al paso de quienes llegan: se disparan dardos y se activan mecanismos con ganchos. Lunaria, en forma de oso, lanza al grupo enemigo la cría que lleva atada. Citlali acompaña el lanzamiento con un silbido de ataque. Etley agita las alas, pero no consigue volar: cae sobre los marines y abre un hueco entre varios pelotones.
+
+La cría se identifica por el cuidado de Citlali y el nombre oído como Echil/Etil; una mención aislada parecida a Erandy al caer no cambia su identidad. No se demuestra vuelo autónomo ni se toma el pentakill como recuento exacto.
+
+## [43-031 · Los golpes masivos hacen flaquear la formación](../capitulos/43.md) · 00:59:01.520
+
+Tipo: `hecho_confirmado`.
+
+Tras las bolas de fuego y la caída de la cría, varios fusileros abandonan su posición y retroceden. El director describe que la formación empieza a flaquear por la devastación de los ataques masivos, un cambio especialmente perceptible para Eleanor por su experiencia con ejércitos.
+
+La formación debilitada no equivale todavía a la rendición o derrota definitiva de toda la Marina.
+
+## [43-034 · Lunaria utiliza un cañón como garrote y sale impulsada](../capitulos/43.md) · 01:07:07.760
+
+Tipo: `hecho_confirmado`.
+
+Lunaria ruge y arremete en forma de oso hacia un cañón. Lo toma para barrer a los marines a golpes. En uno de los movimientos el arma queda dirigida hacia abajo y dispara o estalla: le causa nueve puntos de daño y la impulsa al aire. El director describe después que cae sobre un montón de marines. Lunaria ruge hacia Etley como si mostrase cómo volar, sin convertir ese impulso en vuelo propio.
+
+La propulsión depende del cañón. La escena usa explota y disparar sin establecer que el arma quede destruida; vuelve a utilizarla después.
+
+## [43-038 · Erandy ignora la orden y lanza rayos abrasadores](../capitulos/43.md) · 01:15:59.920
+
+Tipo: `hecho_confirmado`.
+
+Erandy no escucha la orden de Eleanor y se desplaza hacia otro general, invocando la defensa de la Madre Tierra y del Señor Sol. Lanza los tres rayos de un conjuro reconocido en mesa como scorching ray: algunos fallan y otros chamuscan y abaten marines. Sigue descrita fuera de sí. Etley permanece en medio de la batalla, entre el fuego, pese a la intención previa de Citlali de esconderlo.
+
+No se confirma que todos los rayos acierten al general escogido. Las bromas sobre pollo asado no son una muerte documentada de Etley.
+
+## [43-054 · Lunaria protege a Citlali y Etley antes de lanzar otra bola de fuego](../capitulos/43.md) · 01:48:39.760
+
+Tipo: `hecho_confirmado`.
+
+Ya fuera de la forma de oso, Lunaria propone combinar sus puntos de hechicería con los usos de una dote del dragón cromático para excluir del daño a Citlali y a la cría llamada pollo. El director acepta la propuesta. Unas alas espectrales de dragón rodean a ambos y los protegen durante la explosión.
+
+La combinación se admite para esta representación concreta, sin convertirla en una regla general. La protección no prueba que Citlali no hubiera recibido quemaduras del fuego anterior.
+
+## [43-058 · Los piratas celebran la victoria y Molly llega herida](../capitulos/43.md) · 01:55:31.560
+
+Tipo: `hecho_confirmado`.
+
+El director da por terminado el combate: la mayoría de los marines han caído y los pocos que quedan huyen. Los piratas celebran mientras los combatientes recuperan el aliento. Molly se acerca cansada, respira con dificultad y tiene heridas, disparos y manchas de sangre. Expresa su sorpresa por el oso gigante y la cría arrojada, y se detiene al mirar a Citlali.
+
+La victoria se limita al frente terrestre mostrado. Los gritos de haber acabado con todos se matizan con los supervivientes que el propio director describe huyendo.
+
+## [43-060 · Eleanor comprueba el agotamiento extremo de Erandy](../capitulos/43.md) · 01:58:56.480
+
+Tipo: `hecho_confirmado`.
+
+Eleanor se gira para comprobar cómo está Erandy. La escudera permanece con la cabeza baja, temblando y con la mirada fija en el suelo. Su jugadora describe que el cuerpo está agotado y en shock, sostenido apenas por su voluntad y su entrega al dios; si la movieran, se desplomaría. Lunaria y Etley no comprenden bien el duelo de Citlali, aunque perciben que algo grave ocurre.
+
+No se declara la muerte de Erandy ni se describe que ya la hayan movido o trasladado. Las comparaciones con otras obras son referencias de la jugadora, no identidades de campaña.
 

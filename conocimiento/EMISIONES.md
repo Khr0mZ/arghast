@@ -1,6 +1,6 @@
 # Fechas de emisión y publicación
 
-La cronología utiliza 201 fechas documentadas en los avisos y 22 fechas asumidas tras el cotejo editorial. Xoltacan tiene fecha para sus 41 capítulos y Kuroto para sus 181 capítulos catalogados. Las fechas asumidas se identifican en este informe y conservan sus [estimaciones y fuentes de origen](ESTIMACIONES_EMISIONES.md).
+La cronología utiliza 202 fechas documentadas en los avisos y 22 fechas asumidas tras el cotejo editorial. Xoltacan tiene fecha para sus 41 capítulos y Kuroto para sus 181 capítulos catalogados. Las fechas asumidas se identifican en este informe y conservan sus [estimaciones y fuentes de origen](ESTIMACIONES_EMISIONES.md).
 
 Fechas civiles en Europe/Madrid. Twitch, publicación en YouTube, aviso de Discord y programación prevista se conservan separados. Aceptar el día no supone aceptar la hora programada como inicio real del rol. Véase el [cotejo de los calendarios](PROGRAMACION_TWITCH.md).
 
@@ -50,6 +50,7 @@ Fechas civiles en Europe/Madrid. Twitch, publicación en YouTube, aviso de Disco
 | 40 | El Festival del Anciano de Piedra | [02/07/2026](ESTIMACIONES_EMISIONES.md) (asumida) | [18/10/2026](https://discord.com/channels/946724148628041748/946724149131378707/1561312850138505226) | [18/10/2026](https://discord.com/channels/946724148628041748/946724149131378707/1561312850138505226) |
 | 41 | Serpientes en Iktan | [03/07/2026](https://discord.com/channels/946724148628041748/946724149131378707/1522672340213694706) | [20/10/2026](https://discord.com/channels/946724148628041748/946724149131378707/1562037763434610738) | [20/10/2026](https://discord.com/channels/946724148628041748/946724149131378707/1562037763434610738) |
 | 42 | Batalla en el Arrecife del Garfio | [09/07/2026](https://discord.com/channels/946724148628041748/946724149131378707/1524846150652264642) | 25/10/2026 | Sin aviso localizado |
+| 43 | Batalla en la Jungla del Garfio | [10/07/2026](https://discord.com/channels/946724148628041748/946724149131378707/1525209204300841101) | 27/10/2026 | Sin aviso localizado |
 
 ## Kuroto
 

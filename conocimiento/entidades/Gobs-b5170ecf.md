@@ -8,11 +8,11 @@ Médico y matasanos de Shiaru se agrupan por función y establecimiento; no todo
 
 Etiquetas agrupadas: Gobs (médico de Shiaru, grafía provisional); Gobs (médico, grafía provisional); Matasanos de Shiaru.
 
-Base para revisar equivalencia: [08-006](../capitulos/08.md), [10-002](../capitulos/10.md), [24-021](../capitulos/24.md), [26-001](../capitulos/26.md), [42-006](../capitulos/42.md).
+Base para revisar equivalencia: [08-006](../capitulos/08.md), [10-002](../capitulos/10.md), [24-021](../capitulos/24.md), [26-001](../capitulos/26.md), [42-006](../capitulos/42.md), [43-001](../capitulos/43.md), [43-006](../capitulos/43.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 42.
+Relato revisado hasta el capítulo 43.
 
 ### Un médico al que se acude con recelo
 
@@ -30,7 +30,7 @@ Fuentes: [26-001 · Compra de armadura y suplantación de Ione por Coyote](../ca
 
 Gobs acude a la concentración de Shiaru y organiza agujas, una sierra y un taladro en su mochila antes de la batalla. El pasaje muestra su disposición y su instrumental, sin representar una intervención médica.
 
-Fuentes: [42-006 · Shiaru reúne a sus defensores en la plaza](../capitulos/42.md) · 00:08:05.039.
+Fuentes: [42-006 · Shiaru reúne a sus defensores en la plaza](../capitulos/42.md) · 00:08:05.039 · [43-001 · La sesión comienza al mismo tiempo que el capítulo naval](../capitulos/43.md) · 00:00:01.280 · [43-006 · Los habitantes se concentran en Shiaru](../capitulos/43.md) · 00:08:03.360.
 
 ## Registros y evidencias
 
@@ -105,4 +105,12 @@ Tipo: `hecho_confirmado`.
 La plaza reúne a los habitantes y aliados de Shiaru. Gobs prepara agujas, una sierra y un taladro; Armin espera con dos enormes mazos. Un grupo de mujeres prepara armas de fuego. Eleanor y Erandy están presentes junto a miembros del Zampaolas. Jack aparece nervioso detrás de Ilikar; también se muestran Baps, Mugre y Ojo Ausente. Bonnie conversa con Molly.
 
 El pasaje no nombra con claridad a la mujer que encabeza al grupo armado. Su contexto no basta para atribuir a Liz cada intervención o confirmar que Gobs opere a alguien.
+
+## [43-006 · Los habitantes se concentran en Shiaru](../capitulos/43.md) · 00:08:03.360
+
+Tipo: `hecho_confirmado`.
+
+La plaza de Shiaru reúne a los defensores. Gobs guarda una sierra y otras herramientas en su bolsa; Armin lleva dos enormes mazas. Liz y sus compañeras preparan armas de fuego, entre ellas una escopeta y un rifle largo. Ione, Ilikar y Sir Poncelot están con la tripulación del Zampaolas mientras Bonnie pronuncia su discurso.
+
+La presencia de los viajeros corresponde a la concentración anterior a la batalla naval, no confirma su supervivencia después del capítulo 42. Las comparaciones con Frankenstein describen humorísticamente a Gobs y no acreditan una operación realizada aquí.
 

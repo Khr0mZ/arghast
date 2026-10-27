@@ -8,11 +8,11 @@ Mismo barco a través de capítulos. La tripulación Zampaolas se mantiene como 
 
 Etiquetas agrupadas: Barco Zampaolas (grafía provisional); Zampaolas.
 
-Base para revisar equivalencia: [01-033](../capitulos/01.md), [33-002](../capitulos/33.md), [38-006](../capitulos/38.md), [42-003](../capitulos/42.md), [42-013](../capitulos/42.md), [42-015](../capitulos/42.md), [42-017](../capitulos/42.md), [42-024](../capitulos/42.md), [42-027](../capitulos/42.md), [42-035](../capitulos/42.md), [42-036](../capitulos/42.md), [42-037](../capitulos/42.md), [42-044](../capitulos/42.md), [42-045](../capitulos/42.md), [42-051](../capitulos/42.md), [42-062](../capitulos/42.md), [42-063](../capitulos/42.md), [42-064](../capitulos/42.md), [42-067](../capitulos/42.md).
+Base para revisar equivalencia: [01-033](../capitulos/01.md), [33-002](../capitulos/33.md), [38-006](../capitulos/38.md), [42-003](../capitulos/42.md), [42-013](../capitulos/42.md), [42-015](../capitulos/42.md), [42-017](../capitulos/42.md), [42-024](../capitulos/42.md), [42-027](../capitulos/42.md), [42-035](../capitulos/42.md), [42-036](../capitulos/42.md), [42-037](../capitulos/42.md), [42-044](../capitulos/42.md), [42-045](../capitulos/42.md), [42-051](../capitulos/42.md), [42-062](../capitulos/42.md), [42-063](../capitulos/42.md), [42-064](../capitulos/42.md), [42-067](../capitulos/42.md), [43-061](../capitulos/43.md).
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 42.
+Relato revisado hasta el capítulo 43.
 
 ### Un barco que se convierte en casa inmóvil
 
@@ -49,6 +49,12 @@ Fuentes: [42-024 · La salva coordinada de la Marina alcanza al Zampaolas](../ca
 El Zampaolas recoge a quienes han abordado barcos enemigos y pasa junto al Invictus. La explosión lo escora y el oleaje lo empuja hacia la costa sin encallarlo. Ilikar ordena regresar hacia Ione, que busca a Nox entre los restos. Tras la entrega de la moneda, Ione toma el timón y lo retira del combate.
 
 Fuentes: [42-051 · Sir Poncelot y Merlucilla IV despejan cubiertas y regresan](../capitulos/42.md) · 01:37:37.480 · [42-062 · El Invictus explota contra la flota y los buques restantes se retiran](../capitulos/42.md) · 02:00:20.239 · [42-063 · Ione se lanza a buscar a Nox y sus compañeros la siguen](../capitulos/42.md) · 02:02:20.520 · [42-064 · La búsqueda entre los restos no encuentra a Nox](../capitulos/42.md) · 02:07:00.000 · [42-067 · Ione retira el Zampaolas de la batalla sin renunciar a buscar a Nox](../capitulos/42.md) · 02:14:52.159.
+
+### Visto desde la jungla
+
+Después del combate terrestre, Citlali reconoce por encima de los árboles sus velas negras y su bandera. El barco parece ir a la deriva junto a la costa y se detiene, meciéndose como varado al este. Citlali intenta alcanzarlo esperando encontrar a Nox, sin que se muestre el encuentro ni una inspección de la nave.
+
+Fuentes: [43-061 · Citlali ve el Zampaolas detenido en la costa y trata de alcanzarlo](../capitulos/43.md) · 02:01:24.800.
 
 ## Registros y evidencias
 
@@ -539,4 +545,12 @@ Tipo: `hecho_confirmado`.
 El Zampaolas abandona el combate. Bonnie permanece con los barcos piratas supervivientes en el Relámpago del Mar, que ha perdido sus destellos eléctricos y su carga mágica. Los cuatro buques recién llegados rodean su nave y tienden pasarelas para que suban sus dirigentes.
 
 Perder el poder ligado a la moneda no vuelve pequeño al barco ni explica su construcción original. No se representa una batalla nueva con los cuatro dirigentes.
+
+## [43-061 · Citlali ve el Zampaolas detenido en la costa y trata de alcanzarlo](../capitulos/43.md) · 02:01:24.800
+
+Tipo: `hecho_confirmado`.
+
+Citlali observa hacia la costa por encima de los árboles y ve velas negras y el pabellón del Zampaolas. El barco avanza como a la deriva y se detiene meciéndose, descrito como varado al este. Ella intenta ir hacia él con la esperanza de volver a ver a Amaru, recordando sus trenzas, el olor a ron y sus malos chistes. Sus piernas flaquean, pero insiste en caminar o arrastrarse. Los demás también pueden ver la bandera y parte de las velas. La sesión no narra un encuentro con quienes van a bordo.
+
+El duelo por Nox y la memoria de Amaru se enlazan expresamente mediante sus trenzas, ron, chistes y el contraste entre niño y hombre: Citlali reconoce al hijo perdido en Nox. No se cuenta cómo salió del cofre ni se reconstruye su crianza. Varado es la descripción visual desde la jungla, sin una inspección del casco o prueba de otro naufragio. La corrección de Kuroto a Xoltacan al cerrar no traslada la escena a otra campaña.
 

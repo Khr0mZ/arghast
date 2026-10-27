@@ -1,0 +1,46 @@
+{
+  "escena": "x-1525042844560003125",
+  "mensajes": 3,
+  "fuente_aviso": "1525248830570893413",
+  "texto_sha256": "73577005ffc6993340d07070d14b5b26d8d05964493372ff997a0c41136b3220",
+  "original_editorial": {
+    "archivo": "borradores/43/rol_antes/x-1525042844560003125.json",
+    "sha256": "9f56ad4b595a24bbf9a424311ae4f7f8560b891a3acb584644ade1d594d4cdd3"
+  },
+  "motivo": "La duración del capítulo 43 sitúa un aviso de usuarios después del corte estimado. El aviso carece de acción y se conserva con su escena, sin inventar otra ni duplicar mensajes.",
+  "corte_estimado_utc": "2026-07-10T20:41:48+00:00",
+  "antes": [
+    {
+      "frame": 42,
+      "fuentes_ids": [
+        "1524091803647741996",
+        "1525042844560003125"
+      ]
+    },
+    {
+      "frame": 43,
+      "fuentes_ids": [
+        "1525248830570893413"
+      ]
+    }
+  ],
+  "despues": [
+    {
+      "frame": 42,
+      "fuentes_ids": [
+        "1524091803647741996",
+        "1525042844560003125",
+        "1525248830570893413"
+      ]
+    }
+  ],
+  "estadisticas": {
+    "escenas": 304,
+    "unidades_leidas": 244,
+    "mensajes_en_escenas": 6241,
+    "mensajes_originales": 6243,
+    "adjuntos_en_escenas": 65,
+    "notas_de_voz": 17
+  },
+  "fuentes_originales_conservadas": true
+}

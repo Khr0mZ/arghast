@@ -8,11 +8,11 @@ Ictan e Iktan corresponden al topónimo normalizado en las fichas.
 
 Etiquetas agrupadas: Iktan; Iktan (identificación contextual provisional).
 
-Base para revisar equivalencia: [01-007](../capitulos/01.md), [31-023](../capitulos/31.md).
+Base para revisar equivalencia: [01-007](../capitulos/01.md), [31-023](../capitulos/31.md), [43-003](../capitulos/43.md), [43-004](../capitulos/43.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 42.
+Relato revisado hasta el capítulo 43.
 
 ### La ciudad que no se deja encontrar fácilmente
 
@@ -49,6 +49,12 @@ Fuentes: [41-002 · Naór consigue plaza para Leo y espera a un emisario de Atla
 Walulu confirma precauciones y deshace el disfraz de una infiltrada, que muere después de revelar la posición de otros adversarios. Los visitantes vigilan el festival, reúnen a la población y buscan al norte. Vencen en el combate junto a una roca y regresan tras la orden de una voz del bosque. Tortas se mueve y habla al terminar la fiesta. La amenaza inmediata se combate, sin acreditar la eliminación de toda la red o de la presencia dracónica.
 
 Fuentes: [41-015 · Walulu confirma las precauciones tras el aviso de Leona](../capitulos/41.md) · 00:42:00.000 · [41-016 · Las raíces de Walulu revelan a la infiltrada serpiente](../capitulos/41.md) · 00:43:49.720 · [41-023 · Advertencia, revelación de la emboscada y muerte entre serpientes](../capitulos/41.md) · 00:54:38.599 · [41-024 · Vigilancia mágica del festival y presencia de Cipo](../capitulos/41.md) · 00:57:46.000 · [41-025 · Tenta informa y un guardia rechaza las órdenes de Winscore](../capitulos/41.md) · 01:02:02.000 · [41-026 · La multitud se reúne y el grupo parte al norte con sigilo](../capitulos/41.md) · 01:06:00.000 · [41-028 · Dos mujeres con la misma aura trabajan junto a la roca](../capitulos/41.md) · 01:14:55.000 · [41-038 · Una abominación sale de la vegetación](../capitulos/41.md) · 01:41:33.000 · [41-046 · La abominación cae tras los últimos ataques](../capitulos/41.md) · 02:08:00.000 · [41-049 · Una voz obliga a dejar los cuerpos en el bosque](../capitulos/41.md) · 02:14:26.760 · [41-051 · Naór evacua al grupo y Winscore ve un dragón verde](../capitulos/41.md) · 02:16:37.800 · [41-052 · Naór presencia el movimiento de Tortas y ofrece las cabezas](../capitulos/41.md) · 02:18:04.399 · [41-055 · Leo llega al encuentro y la guarida sigue sin localizarse](../capitulos/41.md) · 02:26:36.080.
+
+### La salida urgente de Citlali
+
+Citlali recuerda que en Iktan cuidó a la cría y volvió a sufrir insomnio. Allí encontró una caja de música ligada a recuerdos de sus hijos y de Nox; después del dolor y la señal extraña en la piel decidió marcharse. Lunaria había estado recorriendo el poblado e interrogando a sus habitantes antes de aparecer en la jungla. Estos repasos no confirman nuevas respuestas sobre sus misterios.
+
+Fuentes: [43-003 · Citlali recuerda la caja de música y huye de Iktan con la cría](../capitulos/43.md) · 00:03:45.400 · [43-004 · Lunaria explora el poblado y busca respuestas](../capitulos/43.md) · 00:05:36.400.
 
 ## Registros y evidencias
 
@@ -507,4 +513,20 @@ Tipo: `hecho_confirmado`.
 Naór va a la taberna y trae a Leo para que vea a Tortas. Durante la conversación se expresa poca disposición a combatir a un dragón y Winscore empieza a apuntar el nombre y los datos que el anciano intenta recordar. Tortas dice conocer el nombre y comienza a deletrearlo con mucha lentitud. La transcripción alterna formas irreconocibles y no completa una grafía segura. Cuando preguntan por la guarida, el director aclara que Tortas no sabe dónde está. Se hace de noche, la gente abandona la fiesta y Leo empieza a dormirse mientras Naór intenta mantenerlo atento. La sesión termina con el anciano todavía pronunciando el nombre.
 
 Los enunciados sobre el roble rojo y subir una montaña no se establecen como ruta; el director corrige expresamente que desconoce la guarida. El deletreo incompleto no autoriza a fijar Colgen o Clodidrax ni a fusionar sus fichas. El comentario de Chopito sobre cuatro horas no confirma una duración literal de esta escena.
+
+## [43-003 · Citlali recuerda la caja de música y huye de Iktan con la cría](../capitulos/43.md) · 00:03:45.400
+
+Tipo: `declaracion_personaje`.
+
+Citlali relata que permaneció en Iktan cuidando al pequeño hasta su recuperación y que los recuerdos volvieron a impedirle dormir. Encontró una caja de música; su melodía le recordó a sus hijos y a Nox. Sintió un dolor intenso y vio algo extraño en la piel. Interpretando que algo iba mal, tomó a la cría y echó a correr por la jungla. El director incorpora al pequeño a la escena, aclarando que aún no ataca.
+
+El repaso no identifica el mecanismo o la causa del dolor. El recuerdo de Nox y la intuición maternal no prueban su muerte ni fijan una hora con respecto al desenlace del capítulo 42. Las bromas sobre usar al pequeño de escudo no representan que lo hagan aquí.
+
+## [43-004 · Lunaria explora el poblado y busca respuestas](../capitulos/43.md) · 00:05:36.400
+
+Tipo: `declaracion_personaje`.
+
+Lunaria, llamada Luna, cuenta que ha recorrido el poblado que desconocía y preguntado a sus habitantes y a la chamana. Se sitúa ahora en la jungla después de sus insistentes preguntas.
+
+El lugar se identifica contextualmente con Iktan por la continuidad del capítulo anterior de su grupo. No se expone una respuesta concreta de la chamana ni se atribuye un conocimiento nuevo a Luna.
 

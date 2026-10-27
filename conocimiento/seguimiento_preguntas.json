@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "ultimo_capitulo": 42,
+  "ultimo_capitulo": 43,
   "preguntas": [
     {
       "id": "P01-001",
@@ -16,7 +16,7 @@
         "36-012"
       ],
       "pendiente": "La acción exacta de Nox aquella noche y la relación causal precisa con la luna llena.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "8134f5b187629eda3f53be57a060e3f69a46d54c137cfb7d59f7bd485b2c34e7",
       "referencias_origen": [
         "01-019",
@@ -33,7 +33,7 @@
       "respuesta": "No se explica posteriormente la coincidencia concreta entre el mapa de Nox y la armadura del guerrero. Las revelaciones sobre sus tatuajes y otras estatuas no identifican por sí mismas los símbolos de ese mapa.",
       "referencias": [],
       "pendiente": "Significado, origen y función de las coincidencias del mapa con la armadura.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "7137ec2c6e00cd094edbe0d69a0f7135da2811b9856fd0f490694abccf2b3731",
       "referencias_origen": [
         "01-034"
@@ -46,12 +46,15 @@
       "indice": 3,
       "pregunta": "¿Por qué murieron los hijos adoptivos de Mamá antes que ella? Su relato no da causa: 01-007.",
       "estado": "pendiente",
-      "respuesta": "No se establece por qué murieron los hijos adoptivos de Citlali. Su recuerdo posterior de un bebé que intentó salvar y perdió no identifica a todos aquellos hijos ni demuestra una causa común.",
+      "respuesta": "No se establece una causa común para las muertes de los hijos adoptivos recordados por Citlali. El capítulo 43 desarrolla su pérdida de Nox, reconocido como Amaru, pero ese desenlace no explica las muertes anteriores de todos sus hijos.",
       "referencias": [
-        "39-002"
+        "43-003",
+        "43-045",
+        "43-059",
+        "43-061"
       ],
-      "pendiente": "Causa, fechas e identidad de los hijos fallecidos; relación comprobada con el bebé del recuerdo.",
-      "revisado_hasta": 42,
+      "pendiente": "Causas y circunstancias de las muertes anteriores y la historia completa de cada hijo.",
+      "revisado_hasta": 43,
       "sha256_pregunta": "af7049e7f5c33d77f0cdfff0ca4bfef2749648a177de5676c900067730ada4c0",
       "referencias_origen": [
         "01-007"
@@ -67,7 +70,7 @@
       "respuesta": "No se verifica la existencia ni la ubicación de las pirámides de oro de la leyenda. Las pirámides exploradas en otros capítulos no se identifican como esas construcciones.",
       "referencias": [],
       "pendiente": "Existencia y ubicación de las pirámides de oro descritas por Mamá.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "c4ad64cd325b36c8187256330bea78b13951e18002996351f187e18f1f18715d",
       "referencias_origen": [
         "01-021"
@@ -86,7 +89,7 @@
         "28-019"
       ],
       "pendiente": "Historia de su familia, identificación de la reliquia y reparación documentada.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "b2e04b3a4a46d2bbb41180a9ecd694e2ad0a765870f9ef88b25f0488c91c7952",
       "referencias_origen": [
         "01-005",
@@ -105,7 +108,7 @@
         "15-012"
       ],
       "pendiente": "Confirmación explícita del nombre y su grafía.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "c3c12aea4149019d7f62cdc6a6f9e92beb086d219b24a85676ee652d8d77e86b",
       "referencias_origen": [],
       "requiere_actualizacion": false
@@ -122,7 +125,7 @@
         "37-016"
       ],
       "pendiente": "Saldo inicial, cuantía descontada por lo obtenido en el capítulo 1 y saldo completo actualizado.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "b0fdff38a8396c6258245e6f5f55e5d167b806077ec057fe97b41ba191871cc9",
       "referencias_origen": [
         "01-011",
@@ -139,7 +142,7 @@
       "respuesta": "No aparece una fecha o duración posterior que permita calcular exactamente el intervalo entre el accidente y la llegada de los otros personajes. Se conserva la referencia inicial a varios meses de servicio.",
       "referencias": [],
       "pendiente": "Fecha del accidente y duración exacta hasta las llegadas del capítulo 1.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "b4599efb629a4f0ce54e597d14dde70d930eec7ea5a071967b4799b471d8a9a5",
       "referencias_origen": [
         "01-030"
@@ -158,7 +161,7 @@
         "04-003"
       ],
       "pendiente": "Reconstrucción explícita de aquella noche, origen de cada desperfecto y trayecto hasta la selva.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "4e294d7e54a3ff4f5360dc99d71f2ad703a9d60a3792701b8f271151c2abc9ce",
       "referencias_origen": [
         "02-001",
@@ -178,7 +181,7 @@
       "respuesta": "No se identifica de manera explícita al autor del zarpazo de Nox ni la causa concreta del enfado de Bonnie en esa escena. La licantropía de Ione no demuestra retrospectivamente que ella causara esa herida.",
       "referencias": [],
       "pendiente": "Autor y circunstancias del zarpazo; motivo preciso del enfado inicial de Bonnie.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "aa655a8995769a712842f1ffb23b598a3864be62a8e1ed513e8b074e6511304e",
       "referencias_origen": [
         "02-004",
@@ -197,7 +200,7 @@
         "17-003"
       ],
       "pendiente": "Nombre y ubicación de la tribu, fecha de la masacre y responsables.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "54bee2b7a0aa829f5026c9e901c328ce0f29ee5203734e1ac9d490abdfde60fa",
       "referencias_origen": [
         "02-017",
@@ -216,7 +219,7 @@
         "16-007"
       ],
       "pendiente": "Nombre y ubicación de la tribu adoptiva y corroboración de su expulsión.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "86fee9fc3bfec23be70307b4abbb6d62b469ead4b4e1d34a2f66b0b508735d74",
       "referencias_origen": [
         "02-021"
@@ -234,7 +237,7 @@
         "15-010"
       ],
       "pendiente": "Identificación de la tribu de la emboscada y especie del dinosaurio del capítulo 2.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "d770d3dc4d91eb4fc52b827e280b77e6a3e1605edddf71fb8a6d581b04f51373",
       "referencias_origen": [
         "02-012",
@@ -253,7 +256,7 @@
         "03-024"
       ],
       "pendiente": "Contenido exacto del trato nocturno y ejecución o cancelación del encargo.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "98c0c5f0dd16e623dc1afd1c41455fcd46632de7589100bd76923834c88a43b5",
       "referencias_origen": [
         "02-023"
@@ -271,7 +274,7 @@
         "06-005"
       ],
       "pendiente": "Repetición del pulso, liquidación de las apuestas y aceptación de todos los participantes.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "a974bc8d53034e1d398d8166a598c96f103223a81f5a54d8c1a33888377a13f6",
       "referencias_origen": [
         "02-027",
@@ -292,7 +295,7 @@
         "23-015"
       ],
       "pendiente": "Objetivo completo de la excavación del capítulo 3 y relación comprobada con las demás investigaciones.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "5ae34daff4f1f94819b720ad6bb500983aec471e57309530a5c0a644f62ff72b",
       "referencias_origen": [
         "03-003",
@@ -313,7 +316,7 @@
         "34-001"
       ],
       "pendiente": "Ubicación e identidad de su bosque y mecanismo, fecha y causa del tránsito a este mundo.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "788a1c52a08c0d51b79553ff70db8af1cc004c08a77b9237af291ad25f2f9c9b",
       "referencias_origen": [
         "03-005"
@@ -335,7 +338,7 @@
         "38-012"
       ],
       "pendiente": "Origen de la licantropía y un método definitivo de control o curación.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "1ea35c4dc57593a2feb9edc6fa19d37d62d00ce21d2ff6d133229e0d69d2b58e",
       "referencias_origen": [
         "03-024",
@@ -359,7 +362,7 @@
         "38-013"
       ],
       "pendiente": "",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "5fabce5a87240276b13b7e70f7703ce764ecc1aa5672d2b801ea95b1c9b8a111",
       "referencias_origen": [
         "03-029",
@@ -376,7 +379,7 @@
       "respuesta": "No se localiza una cifra y una acusación inequívocas para el cartel de Nox. Las recompensas posteriores ofrecidas por Molly se refieren a Ione o a información y no permiten completar el cartel de Nox.",
       "referencias": [],
       "pendiente": "Importe y acusación exactos del cartel de búsqueda de Nox.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "482e0056977765bd7cbaccd712c434ac38d94a607fe3026c6ee190ee51eb3404",
       "referencias_origen": [
         "03-022"
@@ -396,7 +399,7 @@
         "38-015"
       ],
       "pendiente": "Aceptación explícita de una incorporación formal a la tripulación.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "cf56f7f98f67aa8d6969e1c6a006f7c3b1f8f5645993ecc1c5a6b7353f933e5b",
       "referencias_origen": [
         "03-015",
@@ -413,7 +416,7 @@
       "respuesta": "No se confirma la especie precisa del dinosaurio Merlucilla I ni se identifica o encuentra a su madre. La recapitulación posterior sobre su muerte no completa esos datos.",
       "referencias": [],
       "pendiente": "Especie de Merlucilla I e identificación comprobada de su madre.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "e66ae28f6ecda098fd17850a0e645faa87a43f8de266cd5fe45e6dca1f09cc8a",
       "referencias_origen": [
         "03-011"
@@ -433,7 +436,7 @@
         "11-032"
       ],
       "pendiente": "Motivo concreto de la orden de no hablar con Nox y alcance completo de lo que Bonnie sabe.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "92ad0f565863188a56d43e8520e4838d7b4e3227ce3ba70d985eb73cdabac7b1",
       "referencias_origen": [
         "04-029"
@@ -451,7 +454,7 @@
         "05-005"
       ],
       "pendiente": "Civilización o tribu de origen y procedencia arqueológica exacta del collar.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "070d1a6aac6020db91c71da1c4002fd1ebdd93b3ae22a343d06aed09978cffb2",
       "referencias_origen": [
         "04-020"
@@ -471,7 +474,7 @@
         "11-032"
       ],
       "pendiente": "Inventario conciliado y confirmación de recuperación y entrega de todas las gemas.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "7226675b1930d926ee4cd4819d175a1f7df30edbdedf1491666b68a5708a77a7",
       "referencias_origen": [
         "04-029",
@@ -485,10 +488,14 @@
       "indice": 4,
       "pregunta": "¿Qué criatura divina se manifiesta a Mamá? ¿Qué equilibrio propone preservar y por qué quiere que suelten más a Ione? No se da nombre: 04-024.",
       "estado": "pendiente",
-      "respuesta": "No se proporciona un nombre o identidad posterior para la criatura divina que visitó a Mamá ni se explica plenamente el equilibrio que defendían. No se vincula de forma comprobada a otra deidad o entidad de las tramas posteriores.",
-      "referencias": [],
-      "pendiente": "Identidad de la criatura, significado del equilibrio y motivo completo de su interés por Ione.",
-      "revisado_hasta": 42,
+      "respuesta": "El capítulo 43 muestra un ser serpentino que toma la mano de Citlali, le ordena matar y robar juventud, y activa símbolos iguales a sus tatuajes. No se ofrece una identificación expresa de ese ser con la criatura que habló del equilibrio en el capítulo 4, ni se completa el sentido de su propuesta sobre Ione.",
+      "referencias": [
+        "43-045",
+        "43-046",
+        "43-062"
+      ],
+      "pendiente": "La identidad de la presencia del capítulo 4, el equilibrio que propone y el motivo de su consejo sobre Ione.",
+      "revisado_hasta": 43,
       "sha256_pregunta": "256857e69ed61f065fdfbe740849f5467ee138fef3f55be5e5d8df1aa00b53bf",
       "referencias_origen": [
         "04-024"
@@ -510,7 +517,7 @@
         "38-013"
       ],
       "pendiente": "",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "d845cb308428108fe93debf9f686dd547c8c5fd39716d1044d295b29f706e2bd",
       "referencias_origen": [],
       "requiere_actualizacion": false
@@ -526,7 +533,7 @@
         "11-004"
       ],
       "pendiente": "Revelación de la muerte de Merlucilla I a Poncelot y su reacción.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "1167fc7d0d31e8ecbcf5037b0c96fae527e22210fe1d3ba04e828228f9bdece8",
       "referencias_origen": [
         "04-003"
@@ -542,7 +549,7 @@
       "respuesta": "No se identifica el conjuro del pergamino tomado del pirata en el capítulo 4. Los pergaminos de otras expediciones no se consideran el mismo objeto sin una conexión explícita.",
       "referencias": [],
       "pendiente": "Nombre y función del conjuro del pergamino del capítulo 4.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "9eaa08724f29aa83b287f8fa058cc896936042daf4147d6e0b715836dacdd62a",
       "referencias_origen": [
         "04-015"
@@ -560,7 +567,7 @@
         "07-011"
       ],
       "pendiente": "Duración y desaparición documentadas de cada efecto concreto del capítulo 4.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "04803240a5347e2ebc0379d29edaf04fb9d54a93414313b19a8cf889d790ffb8",
       "referencias_origen": [
         "04-010"
@@ -579,7 +586,7 @@
         "36-004"
       ],
       "pendiente": "Cláusulas completas del contrato, otras copias y efecto jurídico de sustraerlo.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "a57e36aa89c906cc233115963c8f6c3599996518b716611c66ab0968633f6aa2",
       "referencias_origen": [
         "05-008",
@@ -596,7 +603,7 @@
       "respuesta": "No se transcribe el contenido de la nota que Nox dejó en el buque incendiado ni se confirma que Molly la recibiera o leyera. Las cartas posteriores son comunicaciones distintas.",
       "referencias": [],
       "pendiente": "Texto, supervivencia y recepción de la nota del capítulo 5.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "76900c8627b1d3a2426d8d0fdfecd8d167076f7737ab5dc6c209c63c7f0687fb",
       "referencias_origen": [
         "05-024",
@@ -619,7 +626,7 @@
         "36-004"
       ],
       "pendiente": "Identidad y número de supervivientes o víctimas del incendio y la explosión del buque.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "83cc2477467678fe17c2f70fde8ab6a2108a09dacde9099c4cb2e4226bd0a43e",
       "referencias_origen": [
         "05-029",
@@ -639,7 +646,7 @@
         "37-016"
       ],
       "pendiente": "Saldo nuevo y trabajo concreto anunciado por Bonnie tras el incendio.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "0a84248832691383554209120bb4a2ab4e18c04621e7b06337e84f6dc9ac0d31",
       "referencias_origen": [
         "05-031"
@@ -660,7 +667,7 @@
         "38-013"
       ],
       "pendiente": "Reencuentro con Lucy, cumplimiento de los cobros y significado de la pérdida de su familia.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "62f24f5b1595ae5064162a5d908ca7be479cd55a6ae82fa2b8e19f44d4e0f2bf",
       "referencias_origen": [
         "05-007",
@@ -679,7 +686,7 @@
         "07-030"
       ],
       "pendiente": "Contenido y destino exactos de los dos mapas y de los documentos conservados por Erendriel.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "7590a6dd27f85b9a13777a8d3f68796e9b5180cad7cf2ad4a78199e1b7d8c949",
       "referencias_origen": [
         "05-024",
@@ -700,7 +707,7 @@
         "35-018"
       ],
       "pendiente": "Historia completa de la relación y del abandono, incluida la versión de Molly.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "f477e8cfc11549df1820b6616c17c160d4726dff61921911182b97b310449347",
       "referencias_origen": [
         "05-009"
@@ -720,7 +727,7 @@
         "28-019"
       ],
       "pendiente": "Nombre de la familia y explicación explícita del uso alterno de Erendriel y Salazor.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "fc0083171b189c830e7ab42c6cab6a9eb7103e958b122978f4eec057d6580d6c",
       "referencias_origen": [
         "05-010",
@@ -740,7 +747,7 @@
         "33-001"
       ],
       "pendiente": "Confirmación o descarte del contagio y relación causal con la mordedura de Ione.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "81bf5244ce0bfc10eba4a32dfbbdacddef0e7b597241e7507e03152b5eeaf3b4",
       "referencias_origen": [
         "06-030"
@@ -758,7 +765,7 @@
         "09-002"
       ],
       "pendiente": "",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "df6f9211b3f0378c6e6fda396e8a99fa3cb267e78b781844bb7b0c35e19f3429",
       "referencias_origen": [
         "06-032",
@@ -777,7 +784,7 @@
         "08-003"
       ],
       "pendiente": "Tratamientos y precios de ambos heridos, especialmente la atención concreta a Chochi.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "2ebdf70c8a7f440a183dfdcb5166a696e6c9105b5d9c84a83ab05a5a9558649d",
       "referencias_origen": [
         "06-038"
@@ -796,7 +803,7 @@
         "11-008"
       ],
       "pendiente": "Conciliación entre cinco y diez monedas y reparto definitivo al resto del grupo.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "47b6acbff743a605cf1a5db58c377b08971358ab00e115898c48095224cedda4",
       "referencias_origen": [
         "06-037"
@@ -814,7 +821,7 @@
         "14-003"
       ],
       "pendiente": "Identidad y destino de los piratas atados y relación comprobada con los captores del hada.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "e38a3986dbab8b6049260d3658461adb67aa8a9b119b3f62c88112e30cfeb72a",
       "referencias_origen": [
         "06-003",
@@ -835,7 +842,7 @@
         "11-032"
       ],
       "pendiente": "Recuperación completa y recuento final conciliado de las gemas reclamadas.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "7a13bd09375690bb173b8938c2dbb3b29bfa5a8716212a7b5766c3cd3b25473a",
       "referencias_origen": [
         "06-004"
@@ -857,7 +864,7 @@
         "42-069"
       ],
       "pendiente": "La composición completa de su flota y el tesoro preciso que buscaban sus piratas.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "7c73b3b5836f41c9a60eba38ad6e612b8f139a8cbb0046394a6583fa35c02d5e",
       "referencias_origen": [
         "06-016",
@@ -874,7 +881,7 @@
       "respuesta": "No se identifica posteriormente el conjuro que reducía a Marina ni se comprueba la duración de la restauración de su tamaño. No se utiliza a Maris, la sirena de Perlasal, como continuación automática de Marina.",
       "referencias": [],
       "pendiente": "Conjuro original y duración comprobada de la restauración de Marina.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "b5ba46c24b7f6ad3120ad3e645732c555b0e3f7dd74c4901478c9d0e96f4af0c",
       "referencias_origen": [
         "06-025"
@@ -892,7 +899,7 @@
         "11-004"
       ],
       "pendiente": "Conocimiento explícito de Poncelot sobre la muerte de Merlucilla I.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "9f3d1cc2ef49930a6ec23fb760daf48401538a4d09cf89e87a3e0208489f86e5",
       "referencias_origen": [
         "06-009"
@@ -913,7 +920,7 @@
         "37-005"
       ],
       "pendiente": "Texto, mecanismo y finalidad de los tatuajes; significado del mapa inicial y su relación comprobada con ellos.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "e6f91ae956e48fd8b33bc84eb147a92420658fd1e519ab12c3caf9efea977949",
       "referencias_origen": [
         "07-025"
@@ -933,7 +940,7 @@
         "39-001"
       ],
       "pendiente": "Precio, especie precisa y conocimiento de Mamá sobre el pacto de venta.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "02d074eff8a38618754ea7c2a6705898be9f81a1245f50d08d8f2d1aa58ae644",
       "referencias_origen": [
         "07-023",
@@ -950,7 +957,7 @@
       "respuesta": "No se muestra a Bonnie ejecutar la amenaza de cobro contra Nox y Mamá por la cría. El huevo y su cuidado continúan en otras tramas, pero no se documenta una resolución del pacto o la reacción de Bonnie a su incumplimiento.",
       "referencias": [],
       "pendiente": "Reacción y consecuencias de Bonnie ante la falta de entrega de la cría o su eventual muerte.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "058a59c40813be34b797b19cd044e979442768a908afd37021eced4ac26d2b21",
       "referencias_origen": [
         "07-033"
@@ -966,7 +973,7 @@
       "respuesta": "No se identifica a la pirata pequeña fugitiva ni se confirma un regreso suyo. No se la equipara con otros personajes pequeños o con figuras femeninas de expediciones posteriores.",
       "referencias": [],
       "pendiente": "Nombre, afiliación y destino de la fugitiva.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "52957b3a75565fc95c625d1992ba2172379f5352dbb4e72d44fa1b0890403530",
       "referencias_origen": [
         "07-021",
@@ -983,7 +990,7 @@
       "respuesta": "No se recupera un interrogatorio posterior del cautivo del nido ni se aclara su destino después de dejarlo en la taberna. El marine Jack es otro cautivo y su trayectoria no resuelve esta pregunta.",
       "referencias": [],
       "pendiente": "Información obtenida del pirata del nido y su destino posterior.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "d63d6e71da5937ddae85767181427fd7f364c5db1b2b6ff643d23ccfd374bfff",
       "referencias_origen": [
         "07-016",
@@ -1000,7 +1007,7 @@
       "respuesta": "No se traduce explícitamente la copia de símbolos de estas ruinas ni se identifica su cultura. El diario del templo de los nawals pertenece a una expedición diferente y no se toma como traducción de esa copia.",
       "referencias": [],
       "pendiente": "Cultura de las ruinas del nido y traducción de sus símbolos.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "6752dc002c2817123e1face2dd1ee55c8fdce038abc9f1e28f8f9b285a3197da",
       "referencias_origen": [
         "07-026"
@@ -1016,7 +1023,7 @@
       "respuesta": "No se atribuyen posteriormente a un autor concreto las pérdidas de las tiradas de descanso. Los robos representados en otras escenas no demuestran quién sustrajo aquellos objetos o monedas.",
       "referencias": [],
       "pendiente": "Autoría y circunstancias de la pérdida de las herramientas y las monedas.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "751be85c98e57fb487ff7a442e94418b4274c59dc3829861c71dc18cb6726f5a",
       "referencias_origen": [
         "07-001",
@@ -1035,7 +1042,7 @@
         "11-004"
       ],
       "pendiente": "Confirmación explícita de que la montura comida por el pulpo era Merlucilla II.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "86e4fe964298a375d8e24b914aecb2179c48ae126a82e3e826a563d642a729f9",
       "referencias_origen": [
         "07-004"
@@ -1053,7 +1060,7 @@
         "26-004"
       ],
       "pendiente": "Origen del alias Nox y de su título de capitán.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "f7b19083f2bbe76ad5bd828be51adb26b6e646af885d3700fadd79b5a182bcf8",
       "referencias_origen": [
         "07-009"
@@ -1072,7 +1079,7 @@
         "18-002"
       ],
       "pendiente": "Identidad, tribu y motivo de residencia de la nawal del templo.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "454c37977b7b30b4fa6351e58c073e44e0b64ce0d1601a003ea2548c3b08479e",
       "referencias_origen": [
         "08-022",
@@ -1092,7 +1099,7 @@
         "12-008"
       ],
       "pendiente": "Nombre del autor, fechas y texto completo o detalles de sus rituales.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "a778047a98000b470ccecb0c98443e03dd74deddcf00a2b1f1bd11ca99b0f777",
       "referencias_origen": [
         "08-021",
@@ -1111,7 +1118,7 @@
         "12-008"
       ],
       "pendiente": "Relación causal individual entre las plantas, el mortero y la transformación de la nawal.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "6b7dcd5cbf226b4a55f3f9b2a4f97d805782f354db67ca8b4404a2d921f8de9d",
       "referencias_origen": [
         "08-020",
@@ -1128,7 +1135,7 @@
       "respuesta": "No se documenta el desenlace del pirata que Gobs empezó a intervenir. Las consultas y cadáveres de otras escenas no permiten identificarlo como superviviente, fallecido o paciente transformado.",
       "referencias": [],
       "pendiente": "Resultado de la intervención y destino del pirata herido.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "0c534180edf4d9f98ef4b978cf1c25bb3d27d0b1f6c4d9b1016d31d3b872a5df",
       "referencias_origen": [
         "08-010"
@@ -1146,7 +1153,7 @@
         "14-003"
       ],
       "pendiente": "Identificación completa de los rastros y de quienes los dejaron.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "560c92a6358d672a7ff163ce65fed3db97ea9370c0494d5a6430625874560aa7",
       "referencias_origen": [
         "08-004"
@@ -1164,7 +1171,7 @@
         "10-011"
       ],
       "pendiente": "Conjuro exacto y utilización del pergamino de truco.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "4e716e26bc61f0a30c20e755edb3a0c9bc4a7886994fab7891343ba5246b959b",
       "referencias_origen": [
         "08-019"
@@ -1180,7 +1187,7 @@
       "respuesta": "No se representa una reparación o sustitución inequívoca de aquella espada corta rota. Kilzer utiliza armas después, pero eso no permite determinar qué hizo con la hoja dañada ni identificar la espada guardada como su reemplazo.",
       "referencias": [],
       "pendiente": "Reparación, retirada o sustitución documentadas de la espada corta del capítulo 8.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "0dfaac0167eb685f5fc4dde83229861a9cf6b536e57666a2f7d2ca13c9cd73bc",
       "referencias_origen": [
         "08-027"
@@ -1196,7 +1203,7 @@
       "respuesta": "No se localiza una declaración posterior que feche o explique la adopción del nombre Axi. La continuidad con Chochi sigue respaldada por el arquero, el cautiverio y la mordedura, sin una escena nominal de cambio.",
       "referencias": [],
       "pendiente": "Momento y explicación del cambio de nombre de Chochi a Axi.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "6395381b5da73445bb7376686187a7cba88e9f8c1e172b21882604b793bd4e88",
       "referencias_origen": [
         "09-004",
@@ -1215,7 +1222,7 @@
         "39-002"
       ],
       "pendiente": "Contenido exacto de la visión al tomar la mano de Nox y su significado u origen.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "4548c3a73a7b7f31fcc16099deade375b57f5091d871afdfaa10470affde3402",
       "referencias_origen": [
         "09-003"
@@ -1235,7 +1242,7 @@
         "39-017"
       ],
       "pendiente": "Causa del escozor y vínculo demostrado entre los tatuajes de Citlali y Nox.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "a605a0c012fa84d4e389bd996ac53c369167249eaf0b3e41f15fadce9f66518c",
       "referencias_origen": [
         "09-028",
@@ -1252,7 +1259,7 @@
       "respuesta": "No se identifica a quienes debían volver ni se explica la acusación de traición de aquellos guardianes. Las revelaciones posteriores sobre otras entidades, cárceles y hombres serpiente no se conectan explícitamente con esta declaración.",
       "referencias": [],
       "pendiente": "Identidad de quienes deben volver y causa histórica de la acusación contra Mamá.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "846dd753f4a7f03b3303f84121a069194c4e95c8f73624dfbf90473284ba41fc",
       "referencias_origen": [
         "09-026",
@@ -1269,7 +1276,7 @@
       "respuesta": "No se muestra al aprendiz abrir el mapa recibido de Nox ni realizar una expedición con él. Los mapas que aparecen después no se identifican como ese ejemplar.",
       "referencias": [],
       "pendiente": "Contenido, destino y resultado de la expedición del aprendiz.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "54142c0a399f835744a799275f46345d2ee0bba2fc68b5b6aa00e002bc987c71",
       "referencias_origen": [
         "09-009"
@@ -1288,7 +1295,7 @@
         "12-013"
       ],
       "pendiente": "Efectos comprobados de ingerir, fumar o utilizar las hojas perfumadas.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "5a9e9458e6d59acfce3e7fddccd41b399afc93396cb638f924d882e458314c7c",
       "referencias_origen": [
         "09-024"
@@ -1304,7 +1311,7 @@
       "respuesta": "No se representa una escena del robo ni una confesión que identifique de forma definitiva a quien tomó la hierba de Ione. Que Pinky enseñe una bolsa con su nombre sigue siendo una pista.",
       "referencias": [],
       "pendiente": "Autor, momento y circunstancias del robo de la hierba.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "196f1a372871406a2547e8dc9904e47d8b4da20a914d83ac6c08dce4710d9449",
       "referencias_origen": [
         "09-002",
@@ -1321,7 +1328,7 @@
       "respuesta": "No aparece una conciliación posterior de las dos duraciones. Se conservan los veintiún días y la semana adjudicados en sus respectivas escenas, sin calcular una caducidad que la fuente no resuelve.",
       "referencias": [],
       "pendiente": "Duración definitiva y fecha de expiración de la inmunidad al alcohol de Lunaria.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "70e8739d19346777c5340a73dbf317562045d1781dcabc38ecbdd43fa0816ff9",
       "referencias_origen": [
         "09-008"
@@ -1339,7 +1346,7 @@
         "33-001"
       ],
       "pendiente": "Diagnóstico del contagio y relación causal con la mordedura.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "0cd0b212ef26a135938c67d66fb74bff5ba4b6877e57c06bf1ac10a20f4948ec",
       "referencias_origen": [
         "09-007",
@@ -1360,7 +1367,7 @@
         "11-029"
       ],
       "pendiente": "Finalidad exacta del secuestro y detalles de cómo capturaron a Pix.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "acc92419b53b2014627c39b55fde85cf0cff1527a090ee1fcfa03995d85374ab",
       "referencias_origen": [
         "10-005",
@@ -1383,7 +1390,7 @@
         "17-010"
       ],
       "pendiente": "Nombre formal de la aldea y detalle de sus creencias propias, sin confundirla con Ras Racor.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "e2e39c5ebebb4a9ad3706a4f4a187e27eb0ed34ecd824ea39c17e4924729c9c2",
       "referencias_origen": [
         "10-025"
@@ -1405,7 +1412,7 @@
         "13-001"
       ],
       "pendiente": "",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "1113f23e21358cb9b8ef3266c0d7cc8094f702bc01f1617041aba822fa5786d2",
       "referencias_origen": [
         "10-027"
@@ -1425,7 +1432,7 @@
         "16-004"
       ],
       "pendiente": "Destino y eventual recuperación de las armas originales confiscadas.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "f10cf58e69490f2c12ae1751189e37f4b625c2abbfd79c3e5e6e7a23df602407",
       "referencias_origen": [
         "10-018",
@@ -1448,7 +1455,7 @@
         "11-029"
       ],
       "pendiente": "",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "2c1566eaa183cedc372cb1c157199af14d91137cd1fd5ecfc113b96e3cd5223b",
       "referencias_origen": [
         "10-026"
@@ -1464,7 +1471,7 @@
       "respuesta": "No se proporciona el nombre del truco del pergamino. Los pergaminos de fuego y otros documentos obtenidos en expediciones posteriores no se identifican como este objeto.",
       "referencias": [],
       "pendiente": "Nombre del conjuro contenido en el pergamino de truco.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "e56ede45ec4aa054cc4c9f41432f9f2a973b2af20150f271baaab282c56e7945",
       "referencias_origen": [
         "10-011"
@@ -1476,13 +1483,16 @@
       "capitulo": 11,
       "indice": 1,
       "pregunta": "¿La visión del bebé corresponde al pasado de Mamá? ¿Quién es y dónde está el cofre? Solo se relata la visión (11-003).",
-      "estado": "pendiente",
-      "respuesta": "Citlali recuerda después que intentó salvar y perdió a un bebé y se pregunta si el alcohol influyó en creer que Nox era ese niño. No se confirma la historicidad de toda la visión, la identidad real del bebé o la ubicación del cofre.",
+      "estado": "parcial",
+      "respuesta": "Citlali recuerda al niño del cofre al intentar reencontrar a Nox, lo llama Amaru y lo reconoce como el hijo perdido. El duelo se presenta ante Molly como la pérdida de un hijo. Esto aclara la identificación materna que alimentaba las visiones, sin reconstruir todos los hechos de aquella escena ni localizar el cofre.",
       "referencias": [
-        "39-002"
+        "43-003",
+        "43-045",
+        "43-059",
+        "43-061"
       ],
-      "pendiente": "Identidad del bebé, lugar del cofre y correspondencia de la visión con hechos históricos.",
-      "revisado_hasta": 42,
+      "pendiente": "La ubicación del cofre y la reconstrucción del rescate, la crianza y los años intermedios.",
+      "revisado_hasta": 43,
       "sha256_pregunta": "2382af58fba69a98bf6bdb0ffaf92f93e768db06b00af14bbed9e53d2e8144cf",
       "referencias_origen": [
         "11-003"
@@ -1498,7 +1508,7 @@
       "respuesta": "No se describen posteriormente las reglas del juramento o la maldición ni se muestra una sanción concreta por mentir. Las mentiras y conflictos de Nox en otras escenas no permiten deducir un efecto mágico no declarado.",
       "referencias": [],
       "pendiente": "Mecánica, duración y sanción del juramento o maldición.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "5a6f60189a838a6747a32e1cac4901799ae4320c6b29de9b289648ffe6f49f3a",
       "referencias_origen": [
         "11-003"
@@ -1517,7 +1527,7 @@
         "12-008"
       ],
       "pendiente": "",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "70c1178fbc94368b6f56e40f6d4407e730e360350d147e861289d096b650037d",
       "referencias_origen": [
         "11-011",
@@ -1542,7 +1552,7 @@
         "42-068"
       ],
       "pendiente": "Los poderes y restricciones completos de las cinco monedas y el efecto político de poseerlas.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "9641ad31005107aadaf21034af9cd0bca06a58ac89ee59eb3bebc5abb7a3fb6b",
       "referencias_origen": [
         "11-024"
@@ -1558,7 +1568,7 @@
       "respuesta": "No se explica completamente la afiliación de Bonnie a las Cuchillas Negras ni la facultad con la que percibe a Nox invisible. Sus poderes posteriores y su moneda no demuestran por sí solos el mecanismo de aquella percepción.",
       "referencias": [],
       "pendiente": "Afiliación concreta a las Cuchillas Negras y mecanismo de percepción de la invisibilidad.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "97598829059a171e0106df51682ddcad502c9506ce2f3cd12a73154cad5f751d",
       "referencias_origen": [
         "11-029"
@@ -1578,7 +1588,7 @@
         "12-004"
       ],
       "pendiente": "Contenido de la cita del muelle y conexión explícita con la entrevista relatada después.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "5f5979dbc3f9a42187e5af8b7312524bf0ad649970284323aac327aa53df01b8",
       "referencias_origen": [
         "11-029"
@@ -1594,7 +1604,7 @@
       "respuesta": "No se obtiene un inventario posterior que concilie las tres, dos y una gemas y todas las entregas mencionadas. Las ventas y gemas de otras expediciones no resuelven automáticamente ese saldo.",
       "referencias": [],
       "pendiente": "Número exacto, identidad de cada gema y custodia de la última pendiente.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "5304aaa730b3a7521ed0adb472db1322387a711c4bfa30522486ed53f27fbee0",
       "referencias_origen": [
         "11-028",
@@ -1617,7 +1627,7 @@
         "16-004"
       ],
       "pendiente": "Restitución o destino del resto del equipo y del dinero confiscado.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "40ab2e0cc8bc98d036255c3f9ee42732b9d105b87a31bc3206d8dc10037afdbf",
       "referencias_origen": [
         "11-026"
@@ -1637,7 +1647,7 @@
         "13-001"
       ],
       "pendiente": "Secuelas médicas completas y momentos precisos de recuperación.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "6a0b42099f80ac5b495082f81a499f93049f300351e730bb4cde5fba96b2ddec",
       "referencias_origen": [
         "11-030"
@@ -1658,7 +1668,7 @@
         "17-021"
       ],
       "pendiente": "",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "41e74a587e9b918a1d2e771531e89e4a8ee66f02fae7915a8167250bb661c8f7",
       "referencias_origen": [
         "11-032"
@@ -1681,7 +1691,7 @@
         "29-001"
       ],
       "pendiente": "Validez completa de la licencia, apertura al público y resultados económicos del casino.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "0380b04469b6ebf46b6829f8e27610e66ced60a0516310a1f72382470a381fe4",
       "referencias_origen": [
         "11-031"
@@ -1702,7 +1712,7 @@
         "16-004"
       ],
       "pendiente": "Términos completos del compromiso y forma precisa en que Bonnie impuso el castigo.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "16365fdd821a859997ab904ab470cb01391662297e9c06b379fb33faa982f20e",
       "referencias_origen": [
         "12-003",
@@ -1725,7 +1735,7 @@
         "37-004"
       ],
       "pendiente": "Objeto concreto de cada lugar marcado y objetivo completo de las investigaciones de la Marina.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "cc19387b2d507b721f157198616cbf25077130d2a6af77c7924fa8abafef1c7b",
       "referencias_origen": [
         "12-009",
@@ -1746,7 +1756,7 @@
         "34-003"
       ],
       "pendiente": "",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "8e8155ea04731cd25bb8623d87a19f12ea1f3413fd3905776b428fa004fef952",
       "referencias_origen": [
         "12-009",
@@ -1766,7 +1776,7 @@
         "16-007"
       ],
       "pendiente": "Identidad completa de todos los presos, razones de su encierro y destino del cautivo pintado.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "de4413d90517ce0bbc6d0204d2052650cc82e78a5bb30234a7c0d8aefce9573a",
       "referencias_origen": [
         "12-017",
@@ -1784,7 +1794,7 @@
       "respuesta": "No se confirma posteriormente que el pirata liberado sobreviva, reciba ayuda o abandone el campamento. No se identifica con otros piratas o cautivos por semejanza o ausencia de nombre.",
       "referencias": [],
       "pendiente": "Supervivencia, recuperación y destino del pirata abatido al huir.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "a3eee32f2fc825fa581fce83e37d04accf23c1a26f15ae0bb8959e673953dc20",
       "referencias_origen": [
         "12-024"
@@ -1802,7 +1812,7 @@
         "13-001"
       ],
       "pendiente": "Texto de la carta del campamento y recepción o lectura por sus destinatarios.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "f86e743d2d5bf309241ec630a20a29b04a50bb0ddf57739fd33e4408132c6467",
       "referencias_origen": [
         "12-030",
@@ -1823,7 +1833,7 @@
         "37-004"
       ],
       "pendiente": "Correspondencia de todas las marcas con lugares, objetivos y resultados específicos de investigación.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "492f6c756ec90d521353a14ea512b718187b886a7a6a04154a84d61741d9204b",
       "referencias_origen": [
         "12-030"
@@ -1841,7 +1851,7 @@
         "14-003"
       ],
       "pendiente": "",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "fb257195c13f099a991d920a9b169dc5fbd6755ce23273aefd5af351b2a23c33",
       "referencias_origen": [
         "12-005"
@@ -1860,7 +1870,7 @@
         "26-009"
       ],
       "pendiente": "Momento y mecanismo de la reversión y final documentado de las alucinaciones originales.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "13824ec454114aa480a460c5f97024c4c23d311f9f5cdfd72a8825a5d8cb2fcb",
       "referencias_origen": [
         "12-023",
@@ -1881,7 +1891,7 @@
         "18-002"
       ],
       "pendiente": "Identificar a quien retiró el cadáver y explicar su motivo.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "3816a5ea01d5f02495f639e1e5e698d68ae244700fc28a642b8542e444827a20",
       "referencias_origen": [
         "13-002"
@@ -1897,7 +1907,7 @@
       "respuesta": "Hasta el capítulo 39 no se identifica a los constructores ni la cultura o deidad de este templo concreto. Los nombres de otros templos no permiten equipararlos.",
       "referencias": [],
       "pendiente": "Identificar a los constructores y la adscripción del templo de la danza.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "926c0f8618d4ada22991c43c3a96aeb3c635b92232175619748849dd9fab11f5",
       "referencias_origen": [
         "13-014",
@@ -1915,7 +1925,7 @@
       "respuesta": "No se documenta después que se cultiven estas semillas o que se utilicen para modificar el escudo. El caparazón obtenido por Ayoto en otra misión no demuestra que se ejecute este proyecto.",
       "referencias": [],
       "pendiente": "Mostrar la plantación o la modificación con los materiales recogidos.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "c05cddb343eb67c5821a151f833fda24366123ceeb700ed01ebaf29a0e83d016",
       "referencias_origen": [
         "13-021"
@@ -1933,7 +1943,7 @@
         "14-004"
       ],
       "pendiente": "Explicar cómo reactivaron la plataforma y completaron la salida.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "9bafa2b4bd157e3e867cb1ee4663a1d2d3b6dcfd0bede86764f194255b1c5a1b",
       "referencias_origen": [
         "13-026"
@@ -1949,7 +1959,7 @@
       "respuesta": "Los capítulos posteriores no aclaran la nueva tirada que sustituyó a las ocho monedas ni el botín concreto de Kilzer en aquel sótano.",
       "referencias": [],
       "pendiente": "Precisar ambos resultados de la tabla de tesoro.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "d9380845ca10cd99081a2f1a88dcf15f3079109d91a23be2e2a3be223f4dd5d6",
       "referencias_origen": [
         "13-025"
@@ -1968,7 +1978,7 @@
         "17-002"
       ],
       "pendiente": "Conocer el acuerdo definitivo de propiedad, porcentajes y obligaciones.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "446e0ef031047807360dd5d4f6c03b2df454d8579e315fd1344492d366b3779b",
       "referencias_origen": [
         "13-011",
@@ -1989,7 +1999,7 @@
         "23-013"
       ],
       "pendiente": "",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "746061f39e47891f4540ea15602a7941dc1875337aed4c1423525f513759ebdc",
       "referencias_origen": [
         "13-008",
@@ -2006,7 +2016,7 @@
       "respuesta": "No se revela posteriormente el nombre de la entidad del diario ni el precio completo de su trato con el capitán. Las otras presencias serpentinas de la campaña no se identifican automáticamente con ella.",
       "referencias": [],
       "pendiente": "Identificar a la entidad y reconstruir el pacto del mercante.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "71fb1689506a5d93b14778059787a65ac659c08aadff2c0d3037370c47b91685",
       "referencias_origen": [
         "14-015"
@@ -2022,7 +2032,7 @@
       "respuesta": "No aparece una explicación posterior de la coincidencia entre la mujer del bote y la hija espectral, ni de su afirmación de que no podía salir.",
       "referencias": [],
       "pendiente": "Explicar las dos apariciones y las restricciones de la hija.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "b6a83666994538e73d1c6cd79818009ed4403fd4e59c8a861d0758b9ba5bab28",
       "referencias_origen": [
         "14-007",
@@ -2040,7 +2050,7 @@
       "respuesta": "No se amplía posteriormente el testimonio del marinero de la lengua enjaulada. Sus gestos no bastan para establecer a quién acusa o el motivo de la traición.",
       "referencias": [],
       "pendiente": "Precisar el destinatario y la causa de la acusación de traición.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "8d9ab65bd0d51db0246bc11c44d7342815abe6c8f18fa48136cd4eed2926cabf",
       "referencias_origen": [
         "14-015",
@@ -2057,7 +2067,7 @@
       "respuesta": "Después de la desaparición de la tripulación y el regreso del grupo a tierra no se confirma el destino del mercante, de la hija o de las almas.",
       "referencias": [],
       "pendiente": "Conocer el destino de la nave y de sus ocupantes.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "4e788ead0938a9e1847b7064feb9d409b9ccb030bb43c08aacdd9cfc7c0cdc22",
       "referencias_origen": [
         "14-024",
@@ -2074,7 +2084,7 @@
       "respuesta": "No se confirma posteriormente una marca o maldición nueva en Eldrat atribuida a la moneda negra. La frase del marinero sigue sin un efecto adjudicado.",
       "referencias": [],
       "pendiente": "Determinar si existió una maldición y cuáles fueron sus efectos.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "9f6ef564f93916d7cb6c0939e2eb5cad7aaff6508a999d42b5511b1893eb552d",
       "referencias_origen": [
         "14-019"
@@ -2093,7 +2103,7 @@
         "15-020"
       ],
       "pendiente": "Conocer el contenido de aquella convocatoria y si hubo una recompensa por el mercante.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "b5bb147dbd5c7fe8351ea5e23fb9997104e74230d4fa75de078637296bb5c025",
       "referencias_origen": [
         "14-025"
@@ -2111,7 +2121,7 @@
         "31-022"
       ],
       "pendiente": "Identificar su procedencia y aclarar lo ocurrido con las dríadas.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "a999868b1d90d082129f8e3e558e6f0338f5b743a24fa731647c9f078a0caad8",
       "referencias_origen": [
         "14-001",
@@ -2130,7 +2140,7 @@
         "23-013"
       ],
       "pendiente": "",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "7e26d74141977b34b98bb2a5328430723f8406c9d82e33ae3292f451bcd5dc0e",
       "referencias_origen": [
         "14-006"
@@ -2149,7 +2159,7 @@
         "16-004"
       ],
       "pendiente": "",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "5baaf52ce8e5bcee454fbaf993d6d6d7addf64ed6546b2b6333f899051019883",
       "referencias_origen": [
         "15-021"
@@ -2171,7 +2181,7 @@
         "42-070"
       ],
       "pendiente": "El cobro de la lista, la reunión con Lucy y la identidad del Jackie mencionado por Taylor.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "aaf92d4eff5ff93e4d6799cdabb877d5a40c1b260485b46d850a61a4492e20ca",
       "referencias_origen": [
         "15-021"
@@ -2187,7 +2197,7 @@
       "respuesta": "No se proporciona después un nombre o una historia específica de ese poblado caníbal ni una explicación del secuestro. El campamento de los hipopótamos es otra expedición y no se identifica con este asentamiento.",
       "referencias": [],
       "pendiente": "Identificar el poblado y establecer el motivo del secuestro.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "9bbdf5ec35539528c50f37cc1efa3c5d47be3c8148330a994aa5a76664c73a1e",
       "referencias_origen": [
         "15-010",
@@ -2204,7 +2214,7 @@
       "respuesta": "No se descifra después el tatuaje copiado del combatiente ni se confirma qué relación tenía con su recuperación. Los tatuajes de Nox y Citlali son pistas distintas.",
       "referencias": [],
       "pendiente": "Leer el tatuaje y determinar su función.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "9267e2e5be51f3ff39c94ca7fb18123ee54f4cf590264ef660c944e9fb4242ea",
       "referencias_origen": [
         "15-019"
@@ -2226,7 +2236,7 @@
         "29-001"
       ],
       "pendiente": "Confirmar la apertura y los ingresos ordinarios del casino y del huerto.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "2d7ba87de16287219f83bcc838c3a7e8043998e359c452ae709beee958bbe697",
       "referencias_origen": [
         "15-001",
@@ -2244,7 +2254,7 @@
       "respuesta": "No se confirma posteriormente que Tarin sea el nombre del dragón de Erendriel. El nombre Etley corresponde a la cría del huevo de Mamá, no a este dragón.",
       "referencias": [],
       "pendiente": "Confirmar el nombre del dragón de Erendriel mediante una identificación directa.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "13879911d0f87170239cf00690809ac6a349ba0af6e13a0a5973fe04c07958b3",
       "referencias_origen": [
         "15-012"
@@ -2268,7 +2278,7 @@
         "39-018"
       ],
       "pendiente": "Obtener un diagnóstico, explicar el origen de la maldición y el fracaso de la curación de Triel.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "dbf8f1df1d1d3415b2d2fb5e5abb71322472373610a1df2c1b94ac0732ac418e",
       "referencias_origen": [
         "15-002"
@@ -2284,7 +2294,7 @@
       "respuesta": "Los episodios posteriores muestran los restos de Erendriel y el anillo en poder de Nox, pero no reconstruyen la ejecución ni especifican quién lo mató y cómo. La advertencia de Bonnie sobre el retraso no sustituye esa escena.",
       "referencias": [],
       "pendiente": "Identificar al ejecutor, el método y el incumplimiento concreto castigado.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "502b8bd64c0b9e28dcb350435e91153a231f5572fa3b6199a057121f31a4ea71",
       "referencias_origen": [
         "16-002",
@@ -2302,7 +2312,7 @@
       "respuesta": "No se confirma el paradero posterior del dragón de Erendriel ni se reproduce el negocio que Bonnie quería tratar con Nox por la vacante. El pacto anterior sobre la criatura de Mamá no identifica automáticamente ese negocio.",
       "referencias": [],
       "pendiente": "Localizar al dragón y conocer la propuesta de Bonnie.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "34b44dccbe60078df3097d96ce428755bba647cb217aba7417a71d60b96ce4c1",
       "referencias_origen": [
         "16-002",
@@ -2322,7 +2332,7 @@
         "31-026"
       ],
       "pendiente": "Identificar a la entidad liberada y explicar su relación con las serpientes y la expansión extranjera.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "cd5fe5de312727e71099bcb447cf8daa3e583764083f86f84d2f0a6046cadfc8",
       "referencias_origen": [
         "16-016",
@@ -2343,7 +2353,7 @@
         "31-027"
       ],
       "pendiente": "Confirmar la celebración y la asistencia efectiva al concilio.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "00fd0b993272a395ee4c173b26e97d90fda6f3b8d9a11b2c1d1fc8eb3a9f3efe",
       "referencias_origen": [
         "16-003",
@@ -2360,7 +2370,7 @@
       "respuesta": "No se designa posteriormente al campeón solar ni se identifica a Ayoto como tal. Sus símbolos y creencias no cumplen por sí solos la leyenda relatada por Naór.",
       "referencias": [],
       "pendiente": "Identificar al campeón y comprobar o descartar su relación con Ayoto.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "95a61e8bc12d960326669beef523c8f0da42e84a65a0e4887f7e97e3bf36a5cb",
       "referencias_origen": [
         "16-017"
@@ -2376,7 +2386,7 @@
       "respuesta": "No se nombran de forma inequívoca las dos visitantes de aquella reunión. Las mujeres de la Hoja Caída de una reunión posterior no se equiparan automáticamente con la alada y la mediana de esta escena.",
       "referencias": [],
       "pendiente": "Identificar a ambas visitantes y el motivo de su presencia.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "2e758d9fb2352dc335951ff852e6be993093342019eef3c89a89dba602263f3f",
       "referencias_origen": [
         "16-015"
@@ -2394,7 +2404,7 @@
         "18-002"
       ],
       "pendiente": "Determinar si existe algún vínculo real entre ambas personas, aparte de la imagen.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "986288e3c78fe25904a24f85af7d902648131cf2aa1d04790f7992937b03760a",
       "referencias_origen": [
         "16-019"
@@ -2410,7 +2420,7 @@
       "respuesta": "No se identifican después la especie de las plantas fucsias ni el contenido de los dos tubos que tomó Lunaria. Su experimentación posterior no confirma una entrega de este encargo.",
       "referencias": [],
       "pendiente": "Identificar las plantas y los contenidos, y comprobar si se cumplió el encargo.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "ed5c2d477b78a2a3b5be245176acd0133973b2cd00241cb0428da5b7d3c1fda3",
       "referencias_origen": [
         "16-017",
@@ -2432,7 +2442,7 @@
         "25-004"
       ],
       "pendiente": "Precisar el efecto y el pago del tatuaje de Naór; no se reconstruye toda la ruta de Lunaria.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "758235c6d909c0fbed7ce74dc624b43f64d154a9e71ebe8218b46bd7d83e31e3",
       "referencias_origen": [
         "16-021"
@@ -2450,7 +2460,7 @@
         "31-027"
       ],
       "pendiente": "Fijar la ubicación precisa y la grafía oficial de Atlan.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "9cf6a0405b7719c1ea3cc4d7da59ae9c3574bd61f2f05be3a77d662e14ebce9f",
       "referencias_origen": [
         "17-006",
@@ -2467,7 +2477,7 @@
       "respuesta": "No se dan después los nombres del rey, la reina o la figura enmascarada de Ras Racor, ni se desarrolla un tratado concreto para aquella alianza.",
       "referencias": [],
       "pendiente": "Identificar a los tres dirigentes y los términos efectivos de la alianza.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "4269ed09588dbdd1e85b32da74145cfb871adbe010c6b3e3c3a6f0ca3a3c93aa",
       "referencias_origen": [
         "17-010",
@@ -2488,7 +2498,7 @@
         "31-027"
       ],
       "pendiente": "Confirmar la celebración del concilio de Tutucan.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "0dd93fbeba19249fbae344548e226ff4a32deb61a0b701d1d67bad82c16c0fed",
       "referencias_origen": [
         "17-021",
@@ -2509,7 +2519,7 @@
         "41-028"
       ],
       "pendiente": "Establecer la relación directa entre los avistamientos de la patrulla y la crisis de Cuicapalli.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "979882beb500d46d9fa101db86a64b9646e17077f16921a627966594e94d9e61",
       "referencias_origen": [
         "17-007"
@@ -2522,18 +2532,16 @@
       "indice": 1,
       "pregunta": "¿Qué significan la palabra «tiempo», las botas con símbolos y las heridas persistentes de Mamá? (18-005, 18-009)",
       "estado": "pendiente",
-      "respuesta": "Se amplía la documentación del daño y rejuvenecimiento de Citlali: drena vida de Winscore y Tlachka, su maldición cura a un enemigo serpiente y los yuan-ti reclaman su piel como clave. Walulu examina sus tatuajes. No se explica la palabra tiempo ni el origen y vínculo de los símbolos de las botas.",
+      "respuesta": "En el capítulo 43 los tatuajes de Citlali duelen al producirse la explosión naval; luego brillan durante la absorción de vida. Sus compañeros observan curación y rejuvenecimiento. En el epílogo, un ser enciende símbolos idénticos en un altar. No se explica con ello la palabra «tiempo», el significado completo de las botas o el origen de las heridas anteriores.",
       "referencias": [
-        "19-007",
-        "34-009",
-        "39-008",
-        "39-010",
-        "39-014",
-        "39-017",
-        "39-018"
+        "43-037",
+        "43-044",
+        "43-046",
+        "43-050",
+        "43-062"
       ],
-      "pendiente": "Explicar tiempo, la procedencia y símbolos de las botas y la causa de las heridas y la maldición.",
-      "revisado_hasta": 42,
+      "pendiente": "El significado de «tiempo», las botas y la causa completa de las heridas y marcas.",
+      "revisado_hasta": 43,
       "sha256_pregunta": "06ab0f444b45513b026a0d6f311edd05adfbf0ee179f6b8f6de40af7c617f00b",
       "referencias_origen": [
         "18-005",
@@ -2550,7 +2558,7 @@
       "respuesta": "No se identifican después las dos criaturas marinas del templo ni el ritual concreto alimentado con aquella sangre. Los rituales del kraken relatados en Perlasal no se vinculan expresamente a esta sala.",
       "referencias": [],
       "pendiente": "Identificar a las víctimas y el ritual de ese templo.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "eb1cc64e926a224b8da1db3fbdcd9e6e04a494e1b862163509d23385f60c890c",
       "referencias_origen": [
         "18-012",
@@ -2567,7 +2575,7 @@
       "respuesta": "No se aclara posteriormente la identidad del dios llamado Lares o Larcamas ni su equivalencia con Set. Compartir iconografía serpentina no permite fusionar ambos nombres.",
       "referencias": [],
       "pendiente": "Identificar la deidad del templo y determinar su relación con Set.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "8dbd08ede4c55ad94379ceed84953e7e9359341aaa243090086ae421309ceae2",
       "referencias_origen": [
         "18-007",
@@ -2584,7 +2592,7 @@
       "respuesta": "Las visiones posteriores contienen figuras serpentinas, pero no identifican de forma expresa la sombra del cierre de este capítulo. Tampoco se transmite a un personaje aquella perspectiva de cámara.",
       "referencias": [],
       "pendiente": "Identificar la sombra y cualquier acceso de los personajes a esa información.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "6b8224b15d2f26dfde5bc20cf292f4ee45da7ac9c7700ad1191839f2a264b41c",
       "referencias_origen": [
         "18-021"
@@ -2605,7 +2613,7 @@
         "26-021"
       ],
       "pendiente": "Identificar la presencia del collar y verificar su capacidad de controlar o modificar criaturas.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "fb7c22cb1a9397335a7d5a567cc43a01ac817cf5e7d152e89b15d12993caadd3",
       "referencias_origen": [
         "19-014",
@@ -2618,17 +2626,17 @@
       "capitulo": 19,
       "indice": 2,
       "pregunta": "¿Por qué el intento de curación de Mamá causa daño y rejuvenecimiento? Blink conoce el fenómeno, no explicación (19-007).",
-      "estado": "pendiente",
-      "respuesta": "El drenaje de Citlali se confirma cuando roba dieciocho puntos de vida a Winscore para curarse. En el capítulo 39 el mismo poder cura a la abominación serpiente y después vuelve a drenar a Tlachka. Walulu empieza a estudiar las marcas, sin explicar todavía el origen o el funcionamiento completo de la maldición.",
+      "estado": "parcial",
+      "respuesta": "El episodio muestra de manera explícita que Citlali absorbe energía vital, cierra sus heridas y rejuvenece mientras las víctimas envejecen. El ser serpentino le ordena arrebatar juventud. Queda documentada la relación funcional entre esos efectos en el combate, sin explicar el origen del poder o por qué se manifestó al intentar curar a un aliado en el capítulo 19.",
       "referencias": [
-        "34-009",
-        "39-008",
-        "39-014",
-        "39-017",
-        "39-018"
+        "43-037",
+        "43-045",
+        "43-046",
+        "43-050",
+        "43-057"
       ],
-      "pendiente": "Explicar la causa del drenaje y rejuvenecimiento y cómo remediarlos.",
-      "revisado_hasta": 42,
+      "pendiente": "El origen y las reglas de la absorción, y la causa concreta del daño durante aquel intento de curación.",
+      "revisado_hasta": 43,
       "sha256_pregunta": "be0af725599ce02d45fc59171e01a7cc24de45e11e1948bacd5f98e1e0ca7a4f",
       "referencias_origen": [
         "19-007"
@@ -2649,7 +2657,7 @@
         "28-010"
       ],
       "pendiente": "Conocer los resultados del entrenamiento de Leona y las consecuencias de abandonar el collar.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "e9981656e09e0e8c1b349a8b84ff87189242b57653cb2d7831d53d4170e29fbb",
       "referencias_origen": [
         "19-016",
@@ -2666,7 +2674,7 @@
       "respuesta": "No se amplía después la biografía de Arcan ni se explica con nuevas fuentes el motivo de la búsqueda de fuerza de Zarial.",
       "referencias": [],
       "pendiente": "Identificar a Arcan y documentar la motivación y tradición de Zarial.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "2150d68ad9f27416701150ebf8fa0fb959da9eeb14af553c715df9ac80aa4adf",
       "referencias_origen": [
         "20-003"
@@ -2688,7 +2696,7 @@
         "28-001"
       ],
       "pendiente": "Aclarar la identificación y el nombre exacto del destino marcado con la X.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "069dbb7106082c39a093b6fc95762fa6f3ba9b08ddc285d2d7cbe1953d494bba",
       "referencias_origen": [
         "20-014"
@@ -2706,7 +2714,7 @@
         "23-001"
       ],
       "pendiente": "Determinar la finalidad de aquel campamento, la trampa de gas y la serpiente.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "93d3a452938af0bd49198b209f09d962216c8ced1fa5d70e994bb3f098d97d21",
       "referencias_origen": [
         "20-008",
@@ -2724,7 +2732,7 @@
       "respuesta": "No se encuentra ni identifica después a la criatura de la leyenda leonina que come moscas. Las serpientes de múltiples cabezas de otras escenas no se equiparan con ella por semejanza.",
       "referencias": [],
       "pendiente": "Corroborar la leyenda e identificar a su criatura.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "034e427a83e95ee0be695bda7aa92a7c54d0dd2b2ccc42b8cea53a96aeea5653",
       "referencias_origen": [
         "20-006"
@@ -2740,7 +2748,7 @@
       "respuesta": "No se identifica posteriormente a la tercera criatura arrastrada ni se cuenta su destino. La presencia de dos padres muertos no resuelve por sí sola el tercer rastro.",
       "referencias": [],
       "pendiente": "Identificar a la tercera criatura y su desenlace.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "35a775ba64ed93bec5b70adaebc2503b81202ad6778e6d3c29120a692dae9369",
       "referencias_origen": [
         "21-006",
@@ -2757,7 +2765,7 @@
       "respuesta": "No se establece después un vínculo doctrinal o causal entre el humano-lobo, los lobos lunares y el culto serpiente. La reacción del collar es un indicio, no una explicación completa.",
       "referencias": [],
       "pendiente": "Comprobar la relación entre ese ritual, la transformación y el culto serpiente.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "5a5dcf2e337a8fcad19600aa9b3d65b1181dd1d1da9c6ab1da8f444a47aa5d4f",
       "referencias_origen": [
         "21-010",
@@ -2774,7 +2782,7 @@
       "respuesta": "No se da posteriormente un nombre o identificación inequívoca a la mujer pez de aquella visión. Maris y Marina no se identifican con ella por compartir rasgos acuáticos.",
       "referencias": [],
       "pendiente": "Identificar a la entidad de la visión de Blink y Zarial.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "7053946d224fa76747b736ff2f7b060f11c495363e2eac49ae89426319bb02cf",
       "referencias_origen": [
         "21-015"
@@ -2797,7 +2805,7 @@
         "41-055"
       ],
       "pendiente": "Confirmar la decisión de Eromov sobre la custodia y las consecuencias duraderas para Leo.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "d47255e9324aff5329153baa81f38cfede7d80113cefd1f89cb809f98ef29202",
       "referencias_origen": [
         "21-016"
@@ -2817,7 +2825,7 @@
         "39-010"
       ],
       "pendiente": "Reconstruir la infiltración del festival y el motivo de preguntar a Mamá por el collar.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "7b9fe87f5e738ab80ef618398156236dbf7220f20b83f9611c6b0edee63fa875",
       "referencias_origen": [
         "22-011",
@@ -2838,7 +2846,7 @@
         "26-015"
       ],
       "pendiente": "Confirmar si recibió el aviso concreto de Cuicapalli y conocer la identidad y finalidad del atacante.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "60439856f914a489339d6bc40f8d1564b2267bde352e2c913b1bcbdfb84e2390",
       "referencias_origen": [
         "22-018"
@@ -2858,7 +2866,7 @@
         "30-001"
       ],
       "pendiente": "Confirmar su especie real y el linaje declarado.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "e0c7aee13b3f9aea063deb0548d34f5268edc01af9219864560cb623c692d9cb",
       "referencias_origen": [
         "22-002",
@@ -2879,7 +2887,7 @@
         "39-014"
       ],
       "pendiente": "Celebrar el concilio y localizar el destino de una expedición organizada al norte.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "4ebbf033b44f83fa88835ce36e2a59ad6ae9a92be757595230791a86291ef7a8",
       "referencias_origen": [
         "22-020"
@@ -2898,7 +2906,7 @@
         "35-015"
       ],
       "pendiente": "Identificar a la diosa, corroborar la relación entre las apariciones y explicar el conocimiento de Hawkins.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "d96f54a55b86ec7301ed0f92b57933dcf1fd9c5428d80d0b273a371a9f405c49",
       "referencias_origen": [
         "23-011"
@@ -2918,7 +2926,7 @@
         "28-001"
       ],
       "pendiente": "Leer el nombre de la ciudad de los documentos y verificar su relación con el mapa.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "7d784589beb6a3462e5c6d0ae9003d5f189b5237ea6dff2706c90e04516b47d8",
       "referencias_origen": [
         "23-015"
@@ -2939,7 +2947,7 @@
         "35-016"
       ],
       "pendiente": "Confirmar la equivalencia del palomo con Tórtola y explicar el símbolo.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "c7f79039d5bbe50d216c17e2a10ea20df49804d78eafb2f7713c461443cbc34d",
       "referencias_origen": [
         "23-011",
@@ -2956,7 +2964,7 @@
       "respuesta": "No se da un desenlace posterior al galeón abandonado ni a los presos que Nox dejó sin liberar. La aparición de otros perros de Aurora no identifica individualmente a los aliados de aquella fuga.",
       "referencias": [],
       "pendiente": "Conocer los destinos del galeón, los perros aliados y los cautivos.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "5b7556f28609b1bf1bae1b02c041018865fa3a8ac8ff78479f77292d934b381d",
       "referencias_origen": [
         "23-010",
@@ -2978,7 +2986,7 @@
         "29-022"
       ],
       "pendiente": "Identificar el robo y a los impostores concretos, y establecer sus vínculos con los demás grupos.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "f157b28a455965e0a82445e06c608b21360c5fd4cada79c2f4eaa1f92ee8625f",
       "referencias_origen": [
         "24-007",
@@ -3000,7 +3008,7 @@
         "29-020"
       ],
       "pendiente": "Conocer las coordenadas completas y si puede repararse la concha.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "128dfc0254554790d0e42da684eb57da6e1f5ea11fb79f1c6d5752e89bd6f4ca",
       "referencias_origen": [
         "24-014",
@@ -3017,7 +3025,7 @@
       "respuesta": "Los capítulos posteriores no localizan a Sam ni explican la reacción de Ione a su nombre. El acuerdo de búsqueda con Bonnie no se muestra cumplido.",
       "referencias": [],
       "pendiente": "Localizar a Sam y explicar qué sabe o recuerda Ione.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "8c58ca3545afaa8a75fc85fd07da032e6ec59ecb225099af1c22462973017809",
       "referencias_origen": [
         "24-016"
@@ -3038,7 +3046,7 @@
         "39-020"
       ],
       "pendiente": "Documentar una identidad anterior, si existe, y su historia sin deducirla de la intérprete.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "ce736d7e83fb574377900e374e26995bbffb371600ebe0500e0ac47e235b0d7e",
       "referencias_origen": [
         "24-005",
@@ -3058,7 +3066,7 @@
         "31-003"
       ],
       "pendiente": "",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "9924d39aedfc6e0d81f12f43e7d0e859715283860c8c016a683f4aabe9515127",
       "referencias_origen": [
         "24-021"
@@ -3077,7 +3085,7 @@
         "26-022"
       ],
       "pendiente": "Identificar al mandante y explicar la necesidad del mapa y del collar.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "c5a3c2cca63fdb9ae2656ab67a13089f9ae10dd8c24aa72e386f1dd1ecb18d93",
       "referencias_origen": [
         "25-021"
@@ -3100,7 +3108,7 @@
         "28-009"
       ],
       "pendiente": "Confirmar el nombre y la ubicación exactos del destino y aclarar la identidad de la entidad del templo.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "fe11053d2d0de0ceafe7d86f0132f2fac35c7d935a75f5d20508495cd7aec32d",
       "referencias_origen": [
         "25-019"
@@ -3120,7 +3128,7 @@
         "28-010"
       ],
       "pendiente": "Identificar su naturaleza, vínculo con la presencia mental y relación con los demás collares.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "b63d3c8f83a07712695e5d2df7fdf7dcff5de071e3803e0a38ee3dbcb290758c",
       "referencias_origen": [
         "25-021"
@@ -3136,7 +3144,7 @@
       "respuesta": "Los pergaminos robados no reciben una identificación posterior de sus conjuros. La espina-lanza se utiliza en combate, pero no se amplían de forma inequívoca todos sus efectos. No se asignan a ella las habilidades de clase de Poncelot.",
       "referencias": [],
       "pendiente": "Identificar ambos conjuros y la descripción completa de la espina-lanza.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "306f58be3c81a1caff479bb34263e2072105fd37e906e274fe1ca2e16070d5c5",
       "referencias_origen": [
         "25-012",
@@ -3156,7 +3164,7 @@
         "28-011"
       ],
       "pendiente": "El origen y contenido de las marcas, su propósito completo y la identidad de quien busca lo que Nox lleva en la espalda.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "9c93dc704726967ff0005e794734a55dbd3c2444f15d6006e12c759a702afba0",
       "referencias_origen": [
         "26-017",
@@ -3178,7 +3186,7 @@
         "28-014"
       ],
       "pendiente": "Los efectos de sentarse realmente en el trono.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "1cc398f13a7e6d886988e295cab4a4510717955f1f8d49ba7e612675122d6382",
       "referencias_origen": [
         "26-023"
@@ -3194,7 +3202,7 @@
       "respuesta": "No se identifica al controlador de los ojos rojos ni a la entidad llamada nuestro Señor. Las alusiones posteriores de otros hombres serpiente no prueban que todas designen al mismo ser.",
       "referencias": [],
       "pendiente": "La identidad del controlador y del Señor, y la relación entre ambos.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "0f738aa80a9376a45e730b7227816df8b3de3f7a1b3b9804938277c4c92d65d4",
       "referencias_origen": [
         "26-021",
@@ -3214,7 +3222,7 @@
         "39-020"
       ],
       "pendiente": "El motivo de la suplantación y el contenido o uso del informe que recibió.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "d139aa5406e41e1f71db9dcd9df339a5483866d3d327adcdc8e624675df5a7c7",
       "referencias_origen": [
         "26-001",
@@ -3237,7 +3245,7 @@
         "42-072"
       ],
       "pendiente": "Los términos del pacto y las decisiones posteriores de los reyes sobre Xoltacan.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "b61b77c1bc2126a1f5d7f3437a9db66ff8e3e684ec5062bc0ce8f9280e6cdf74",
       "referencias_origen": [
         "26-006"
@@ -3257,7 +3265,7 @@
         "37-004"
       ],
       "pendiente": "El objetivo específico del ataque a Cuicapalli y la composición o ubicación de las fuerzas supervivientes.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "54f74fc7bf53514f4264f81be0aeeb8d20fb19171ce2befc568292151e6bc306",
       "referencias_origen": [
         "27-014",
@@ -3277,7 +3285,7 @@
         "30-001"
       ],
       "pendiente": "Su identidad precisa y quién conoce el secreto del traje y del pico.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "316d10b3b5a302d97c1426aa596534a8306db033bd69c79bebb44e34567d661d",
       "referencias_origen": [
         "27-020",
@@ -3297,7 +3305,7 @@
         "39-013"
       ],
       "pendiente": "Si el destierro ha sido revocado y con qué autorización puede permanecer en Cuicapalli.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "3190a63913158c03e998e14302261741a589dcd0568e2e3fa9730c2828a296f6",
       "referencias_origen": [
         "27-002",
@@ -3321,7 +3329,7 @@
         "42-072"
       ],
       "pendiente": "Un reencuentro documentado entre Cipo y Pinky y lo que el elemental conoce de su destino.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "f7eb230fd38169cc3f09fe76d1a5b1ccd7af7025717eaa10b445fdff77ac8eed",
       "referencias_origen": [
         "27-003"
@@ -3337,7 +3345,7 @@
       "respuesta": "La gran criatura queda atrás durante la huida, sin ser derrotada. Los capítulos posteriores no muestran su destino ni explican qué entidad concreta forman las serpientes.",
       "referencias": [],
       "pendiente": "La identidad de la criatura y su destino después de la huida.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "34693ef0a04527c4add601febf20818f6f5e0ca60d323723bf5e7d1d979dfd4a",
       "referencias_origen": [
         "28-009",
@@ -3357,7 +3365,7 @@
         "35-015"
       ],
       "pendiente": "La identidad de la serpiente alada, la relación entre ambas visiones y el significado del ritual.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "7d5a51f1c84e7145af293b4e0ec431c3de2e6b5d4886d1fdd002c423d35d59ba",
       "referencias_origen": [
         "28-015"
@@ -3373,7 +3381,7 @@
       "respuesta": "No se documenta la recuperación, destrucción o uso posterior del collar dejado dentro de la fruta. Las lagunas de memoria de Blink no se atribuyen de forma confirmada a ese abandono.",
       "referencias": [],
       "pendiente": "Las consecuencias de abandonar el collar y quién lo conserva o utiliza después.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "b075f8a37cf32333d5e064f81f6e1c80b97f6bc190571dc52cd0747c927e3562",
       "referencias_origen": [
         "28-010"
@@ -3396,7 +3404,7 @@
         "39-020"
       ],
       "pendiente": "La naturaleza exacta de lo protegido y la relación completa entre Citlali, sus marcas y lo despertado.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "e0615ca72cdfea3e9dec3044986f311645459e280cc962342b07f96cff198447",
       "referencias_origen": [
         "28-020",
@@ -3410,17 +3418,17 @@
       "indice": 5,
       "pregunta": "¿Qué superiores llegaron a Fuerte Aurora y qué implica la alianza de Bonnie y Molly? Se dispone de un testimonio, sin inspeccionar su llegada (28-020).",
       "estado": "parcial",
-      "respuesta": "Los episodios de Aurora identifican a Tórtola como la autoridad que ha tomado el mando y destituido a Molly. Nox libera a Molly, que vuelve a Shiaru y coopera con Bonnie aportando posiciones estratégicas y rutas de suministros. No se reconstruye una lista completa de los superiores llegados ni todo el acuerdo protector.",
+      "respuesta": "Tórtola continúa siendo la autoridad identificada en la crisis de Aurora y Molly sigue destituida. El director confirma que Molly y Bonnie trabajaban juntas para proteger Shiaru; Molly dirige ahora unos veinte piratas en tierra y termina herida tras la victoria. No se reconstruyen todos los superiores llegados a Aurora ni las cláusulas completas de su acuerdo protector.",
       "referencias": [
         "35-009",
-        "35-013",
-        "35-018",
-        "35-019",
-        "36-004",
-        "37-004"
+        "35-016",
+        "43-005",
+        "43-010",
+        "43-014",
+        "43-058"
       ],
-      "pendiente": "La lista completa de superiores y los términos o fines que no se han revelado de la alianza.",
-      "revisado_hasta": 42,
+      "pendiente": "La relación completa de superiores de Aurora y los términos íntegros del acuerdo de Molly y Bonnie.",
+      "revisado_hasta": 43,
       "sha256_pregunta": "7852b4441e2e4a5adaa8afba2e00da94a3895f2c6c120b4f80458ccaf6bca0e4",
       "referencias_origen": [
         "28-020"
@@ -3438,7 +3446,7 @@
         "31-001"
       ],
       "pendiente": "La identidad y organización de los profundos, el lugar y funcionamiento de los rituales y el destino de los secuestrados.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "f67c517a1d4e18c61709773d81e08ed788f96048af7f1dda2469b63456da1401",
       "referencias_origen": [
         "29-021",
@@ -3455,7 +3463,7 @@
       "respuesta": "No se da después una duración exacta de las branquias ni una explicación completa de qué sirénidos pueden concederlas. El efecto observado en los viajeros no establece por sí solo una regla general.",
       "referencias": [],
       "pendiente": "La duración de las branquias y las condiciones o personas capaces de otorgarlas.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "43b7e8d5ac9bfed2df6e34e1af3afa95aa5852f6e1a436f13f331c428662351b",
       "referencias_origen": [
         "29-019"
@@ -3473,7 +3481,7 @@
         "39-001"
       ],
       "pendiente": "La religión y deidad de Ivet y los actos que permitirían ganar su confianza.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "d25a00e1be20e93e2577d3c3382b52341eaab62645424de5f1a9804ee089aca4",
       "referencias_origen": [
         "29-020",
@@ -3490,7 +3498,7 @@
       "respuesta": "Los capítulos posteriores no aclaran a qué familia se refiere Coyote ni el posible sacrificio por el que preguntó Maris.",
       "referencias": [],
       "pendiente": "El pasado familiar aludido y la respuesta a la pregunta sobre el sacrificio.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "3a5218f27654925f9d6ff3093b19b0b7e2c248e3402d91e6da3b317143582cff",
       "referencias_origen": [
         "29-022"
@@ -3508,7 +3516,7 @@
         "34-005"
       ],
       "pendiente": "El destino final de los restos y la diferencia entre su deterioro y la conservación mencionada en el capítulo 16.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "0f72189da7a92c0ec8c6bbe8cbe1b613bc5f39b6abe699946176e3e0f5797991",
       "referencias_origen": [
         "29-003"
@@ -3527,7 +3535,7 @@
         "40-006"
       ],
       "pendiente": "El resultado del antídoto y el estado de Eromov.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "bec83be1cedf2f3af9f6159131797aef4fa47e01e8774b7aca02280d3a118ee3",
       "referencias_origen": [
         "30-020",
@@ -3550,7 +3558,7 @@
         "41-023"
       ],
       "pendiente": "Identificar a quien añadió el veneno y a las dos visitantes anteriores.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "568b105f28708618c4f197300f246b11b3f652e030ce098dc3b642eaf70217a6",
       "referencias_origen": [
         "30-005",
@@ -3568,7 +3576,7 @@
       "respuesta": "No se regresa a la prisión ni se informa después de posibles cautivos supervivientes. El cadáver retirado no permite deducir el estado de todas las personas tras la reja.",
       "referencias": [],
       "pendiente": "Si quedaban cautivos vivos y qué ocurrió con ellos.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "968a75c82d114ca14cbec4b18af9afcd34dfe01d8b38d318f2a059933ea5d67d",
       "referencias_origen": [
         "30-017"
@@ -3589,7 +3597,7 @@
         "31-027"
       ],
       "pendiente": "La formulación y destino exactos del encargo referido por Eromov.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "cb02d5e4fb38e458e056192ba09a7ab15aab0f83e2e54e0c8c40982eb2e7648c",
       "referencias_origen": [
         "30-020"
@@ -3615,7 +3623,7 @@
         "41-051"
       ],
       "pendiente": "La organización de los grupos, sus aliados y las relaciones entre las distintas operaciones.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "167192f0d20ab17cc96cb1703c353b865707561ee4e0762e7e366c59d57590f8",
       "referencias_origen": [
         "30-020"
@@ -3636,7 +3644,7 @@
         "41-055"
       ],
       "pendiente": "La grafía exacta y la relación demostrada del dragón con las ruinas.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "4d3ca79af53200561e272cda49113b83ad0afe00cda452c19b86cbed965485f2",
       "referencias_origen": [
         "31-015",
@@ -3660,7 +3668,7 @@
         "41-054"
       ],
       "pendiente": "El mecanismo completo de la influencia y una neutralización permanente.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "4884ed0f8f6000cb6391d59ff1b75ea600a67f898841973a1b85f82c20aa3c3d",
       "referencias_origen": [
         "31-008",
@@ -3677,7 +3685,7 @@
       "respuesta": "Los episodios posteriores no proporcionan los nombres de los cinco héroes ni identifican con certeza el fragmento o a quienes abrieron la prisión. Las otras visiones no permiten fusionar sus entidades por semejanza.",
       "referencias": [],
       "pendiente": "Las identidades de los héroes, el fragmento y los responsables de abrir la puerta, y una fecha verificable.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "b8a851e2b5d046d6aa63a14524297e18a94e94ee4adc5c7c3edd873099cbd345",
       "referencias_origen": [
         "31-025",
@@ -3694,7 +3702,7 @@
       "respuesta": "No se amplía el relato de Walulu sobre el altercado en el que murió su padre.",
       "referencias": [],
       "pendiente": "Las circunstancias y los responsables de la muerte de su padre.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "7c54f1520fe6ed0086213631ddcbfa596a158a75c5af8f12a8eb1d8944f61e5e",
       "referencias_origen": [
         "31-024"
@@ -3718,7 +3726,7 @@
         "41-023"
       ],
       "pendiente": "Las consecuencias concretas de revelar la ruta y la asistencia efectiva al concilio.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "c760ffbecb43efe264ec8c22b76a47df6354f8ab27b5b2d658540fb3e121442c",
       "referencias_origen": [
         "31-027",
@@ -3735,7 +3743,7 @@
       "respuesta": "No se especifica después qué mejora eligió Triel con el tatuaje pagado por Eldrat.",
       "referencias": [],
       "pendiente": "El efecto concreto del tatuaje de Triel.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "fb1a79d897e669086e45f6b5589b680d6092d75692d95dfddb406a389ace915d",
       "referencias_origen": [
         "31-003"
@@ -3755,7 +3763,7 @@
         "38-001"
       ],
       "pendiente": "",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "2fe68607c0e558746c4938f53bab257823a8c6dd70b4a2ad4ec6008ed1646629",
       "referencias_origen": [
         "32-002"
@@ -3773,7 +3781,7 @@
         "35-016"
       ],
       "pendiente": "La identidad del general y si participa en un nuevo ataque.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "3a4fb25757bd13468b542d7c6061934e70a95320eebbc21182a99e7141c6583b",
       "referencias_origen": [
         "32-013",
@@ -3787,14 +3795,16 @@
       "indice": 3,
       "pregunta": "¿Cuáles eran los términos del acuerdo de Bonnie con la Marina y qué piensa hacer con Mamá? Solo se dispone de su declaración y de la escena reservada (32-018 y 32-020).",
       "estado": "parcial",
-      "respuesta": "Bonnie y Molly confirman después un intercambio de información y rutas para mantener la seguridad. Citlali relata su liberación y la advertencia de evitar Shiaru; el director atribuye esa separación a la protección frente a la Marina. El pacto completo y el alcance del plan de Bonnie no se revelan.",
+      "respuesta": "La apertura del capítulo 43 confirma la colaboración de Molly y Bonnie para proteger Shiaru y la advertencia de ataque que lleva a preparar la defensa. Citlali reaparece y se une al frente terrestre; Molly reconoce su duelo. No se leen el pacto completo o nuevas cláusulas sobre la custodia de Citlali, ni se explica toda la protección que Bonnie pretendía darle.",
       "referencias": [
-        "34-001",
-        "34-020",
-        "36-004"
+        "35-009",
+        "37-005",
+        "43-005",
+        "43-010",
+        "43-059"
       ],
-      "pendiente": "Los términos completos del acuerdo con la Marina y el propósito íntegro del plan de Bonnie para Citlali.",
-      "revisado_hasta": 42,
+      "pendiente": "Las condiciones completas del pacto y el alcance del plan protector respecto a Citlali.",
+      "revisado_hasta": 43,
       "sha256_pregunta": "6b86f7c62b4ce3b8a23966fa14d62ef9a73c3151b31d833ddc29bdf2f171fecd",
       "referencias_origen": [
         "32-018",
@@ -3819,7 +3829,7 @@
         "39-020"
       ],
       "pendiente": "",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "734a213bdfce7f0b9c96cbcaf333690e3b8e047b1649ad0929e36919f7f09af9",
       "referencias_origen": [
         "32-019"
@@ -3835,7 +3845,7 @@
       "respuesta": "Axi no recibe después un diagnóstico ni explica lo ocurrido durante aquella noche. La amnesia y los animales muertos no confirman por sí solos licantropía u otra causa.",
       "referencias": [],
       "pendiente": "La causa de los cadáveres y de la amnesia de Axi.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "856391338946aae9317102692b8470496294affbe1a988b847df1cef1bdeff02",
       "referencias_origen": [
         "33-001"
@@ -3851,7 +3861,7 @@
       "respuesta": "No se identifica después a quien entregó la piedra rota ni se localiza al individuo que saltó por el acantilado. Tampoco se establece la función del objeto.",
       "referencias": [],
       "pendiente": "La identidad y el paradero de quien entregó la piedra.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "7140cfc2e20dfc9fe5bc21cb3ea5e5cd95ca5f2e468136a0404fc3153b0b2d69",
       "referencias_origen": [
         "33-018"
@@ -3872,7 +3882,7 @@
         "39-020"
       ],
       "pendiente": "La ubicación inicial ocultada por Nox, la amenaza concreta que teme y su participación en aquel traslado.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "559458accc5312b12ef84bd3ffd6a12a2efc31eb5048c498cfbb4a1925cb4014",
       "referencias_origen": [
         "33-006"
@@ -3890,7 +3900,7 @@
         "35-002"
       ],
       "pendiente": "El destino de Morris y cómo se transmitió la noticia de la muerte de Margaret.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "05630e32334c6e7e4a4f2d069c96acba18e4d71edb8bd3b9e65fdaa1d4d33472",
       "referencias_origen": [
         "33-012",
@@ -3910,7 +3920,7 @@
         "41-005"
       ],
       "pendiente": "La causa de las lagunas de memoria y de sus regresos anteriores a Shiaru.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "570018439e33e087cdb59d36fc137dd27bd80efa842e74988967bcd8c14b37f0",
       "referencias_origen": [
         "34-001"
@@ -3935,7 +3945,7 @@
         "40-017"
       ],
       "pendiente": "",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "684291adc1a980ec4959d122a5c7d1468f88796611baf8bc66e9794506c2ca70",
       "referencias_origen": [
         "34-001",
@@ -3955,7 +3965,7 @@
         "35-016"
       ],
       "pendiente": "El balance del campamento y la causa o destino de la desaparición de Paco.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "bda6b70d4204651604de067c3db3b52de6310d7807fdb707060c2b5e977a1ba2",
       "referencias_origen": [
         "34-017"
@@ -3968,15 +3978,17 @@
       "indice": 4,
       "pregunta": "¿Cuál es el nombre y la especie de la cría? ¿La aceptarán en Cuicapalli? Queda pendiente (34-018–34-020).",
       "estado": "parcial",
-      "respuesta": "La cría recibe en el capítulo 39 un nombre reconocido como Etley y variantes. Los guardias de Cuicapalli ayudan a rescatarla con Citlali del derrumbe. Después ambas llegan a Iktan y se alojan en el templo. No se fija la especie exacta ni se representa una decisión de aceptar su residencia en Cuicapalli.",
+      "respuesta": "La cría se mantiene bajo la identidad provisional Etley y aparece también como pollo o pollito. Citlali cuenta que permaneció en Iktan cuidándola hasta su recuperación; después la lleva a la jungla. Lunaria la arroja contra los pelotones: agita las alas sin volar y permanece viva al terminar. No se precisa su especie ni una decisión de admitir su residencia en Cuicapalli.",
       "referencias": [
-        "39-001",
         "39-013",
-        "39-017",
-        "39-020"
+        "39-020",
+        "43-003",
+        "43-030",
+        "43-054",
+        "43-060"
       ],
-      "pendiente": "La especie exacta de la cría y si Cuicapalli aceptaría alojarla.",
-      "revisado_hasta": 42,
+      "pendiente": "La especie precisa y la aceptación formal de su residencia en Cuicapalli.",
+      "revisado_hasta": 43,
       "sha256_pregunta": "da2b6ed1a167fa65f34c75368114798366a630562335582557d2682e5183ae3c",
       "referencias_origen": [
         "34-018",
@@ -3995,7 +4007,7 @@
         "37-017"
       ],
       "pendiente": "Las identidades de las criaturas y la ubicación o significado de la pirámide de la visión.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "dff8bd6de80ec6b0920d7386b9313b1b94bd27b8b0a7556b79b719a5232f96d1",
       "referencias_origen": [
         "35-014",
@@ -4009,15 +4021,18 @@
       "indice": 2,
       "pregunta": "¿Qué dicen los informes de Molly y cuál será su situación oficial tras huir? ¿Qué contará a Nox? Queda pendiente (35-016 y 35-020).",
       "estado": "parcial",
-      "respuesta": "Molly coopera con Bonnie y aporta la ubicación de unas ruinas estratégicas y una ruta de suministros que ella recomendó a la Marina. En una charla posterior con Nox y Bonnie dice que Tórtola está obsesionado con la isla y que le ocultó lo despertado. No se lee el contenido completo de sus informes ni se acredita su restitución oficial. Tampoco se muestra la conversación en el barco que habían acordado.",
+      "respuesta": "Molly aporta la advertencia para organizar la defensa y dirige el frente terrestre con los piratas. Afirma que ya no es capitana y termina herida tras la victoria; el mando que ejerce en la jungla no es una restitución en la Marina. No se lee el contenido íntegro de sus informes ni se reproduce la conversación pendiente con Nox.",
       "referencias": [
         "36-004",
         "37-004",
         "37-005",
-        "37-017"
+        "43-005",
+        "43-010",
+        "43-014",
+        "43-058"
       ],
-      "pendiente": "El contenido íntegro de los informes, la situación oficial de Molly y la charla prometida en el barco.",
-      "revisado_hasta": 42,
+      "pendiente": "El contenido completo de los informes, su situación institucional definitiva y la charla pendiente con Nox.",
+      "revisado_hasta": 43,
       "sha256_pregunta": "f26915325c2eadf07ac2c90ebff92732277cf26a8743e186cb320174695f16da",
       "referencias_origen": [
         "35-016",
@@ -4041,7 +4056,7 @@
         "42-072"
       ],
       "pendiente": "",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "b9ff552423bd212bb1a7972b35daed9168f303e12da80bb0029a91f2d7708b40",
       "referencias_origen": [
         "35-016"
@@ -4064,7 +4079,7 @@
         "42-072"
       ],
       "pendiente": "El destino de Smith y la ejecución del seguimiento ordenado contra los viajeros.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "76b96169171b74bbc19e2c2f0ff6c4723e5689266466d59c35b4bbc386c3c644",
       "referencias_origen": [
         "35-010",
@@ -4084,7 +4099,7 @@
         "38-001"
       ],
       "pendiente": "La identidad del hombre lobo y su relación con la bestia del cierre.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "7543a6c105e6ce1892c0358265f3b6037b3c518f17456cf40c2d32a7675897c1",
       "referencias_origen": [
         "36-014",
@@ -4102,7 +4117,7 @@
       "respuesta": "No se muestra después el interrogatorio del marine ni se cuenta qué hace Bonnie con él.",
       "referencias": [],
       "pendiente": "La información del marine y su destino tras la entrega.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "34e006d4de83deb813330ca3a8721c0786a77ed4267251343c469eebeb81df3b",
       "referencias_origen": [
         "36-017"
@@ -4123,7 +4138,7 @@
         "41-005"
       ],
       "pendiente": "La causa del regreso de Blink y de sus lagunas de memoria.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "c455f5db862bc669ddb06e46dd1a4f63d970cb3c822815cca2b969bd2739ffc9",
       "referencias_origen": [
         "36-001"
@@ -4145,7 +4160,7 @@
         "42-067"
       ],
       "pendiente": "La ocupación de las ruinas por una guarnición pirata.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "6b397082a041cb688059848ceab0e057bc2fae8d3ad2eb097088a9f8d9674132",
       "referencias_origen": [
         "36-017",
@@ -4167,7 +4182,7 @@
         "42-062"
       ],
       "pendiente": "La identidad de lo despertado, la función y destino del ojo y el resultado de una prueba con Citlali.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "a3d3850fb4fdd3b6dcbbacc044c01ed46942d4f873614d5619968c9a571aa27b",
       "referencias_origen": [
         "37-005",
@@ -4191,7 +4206,7 @@
         "42-062"
       ],
       "pendiente": "La llegada concreta a Aurora, la reacción de Bonnie al incumplimiento y el destino posterior del ojo.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "f10f76c40411cd6e5ac34cc73fb1bba04f6a32034b1fae761a828c971efcecee",
       "referencias_origen": [
         "37-018"
@@ -4209,7 +4224,7 @@
         "38-001"
       ],
       "pendiente": "El contacto con el reino, la financiación y el resultado de la propuesta de alianza.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "5cab38bc3e050995810a1b20ee07ed168dd12d7abcf18d498164cdc63d5b7ecd",
       "referencias_origen": [
         "37-003"
@@ -4225,7 +4240,7 @@
       "respuesta": "No se inspecciona después el cuerpo del tiranosaurio ni se confirma su estado con una nueva escena.",
       "referencias": [],
       "pendiente": "El estado definitivo del tiranosaurio tras el cañonazo.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "ceae243e4df7d1ce1fcb5b3b0f7fd18f31ae3a0b33b0fd1f82c14e53466c067e",
       "referencias_origen": [
         "37-014"
@@ -4245,7 +4260,7 @@
         "40-039"
       ],
       "pendiente": "Los efectos de la mordedura de Ione sobre Ilikar.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "88972e90dea3a1c34a72d9a5285e63e008e5461fed2ab9c91426a4cd59f77505",
       "referencias_origen": [
         "38-014"
@@ -4263,7 +4278,7 @@
         "40-039"
       ],
       "pendiente": "La causa de las heridas con que apareció en la playa y los detalles de sus antecedentes tribales.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "30b5a3c6ede97ee6da015af5c40f9b6f5873e2e48ddf3038ebd077f5b2307a23",
       "referencias_origen": [
         "38-003"
@@ -4279,7 +4294,7 @@
       "respuesta": "No se muestra que Bonnie descubra el reparto de su cofre ni que reclame los objetos o imponga consecuencias.",
       "referencias": [],
       "pendiente": "La reacción de Bonnie y cualquier reclamación por el cofre.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "514325df325e81ad4d386380085f737ed462dc6872b5bede55446977485cedfd",
       "referencias_origen": [
         "38-018"
@@ -4302,7 +4317,7 @@
         "42-067"
       ],
       "pendiente": "",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "0f71b19984ce62da2df239dd35dbcda06552fe84aa96ad70dd204e5999b09702",
       "referencias_origen": [
         "38-015"
@@ -4314,11 +4329,15 @@
       "capitulo": 39,
       "indice": 1,
       "pregunta": "¿Por qué la piel o las marcas de Citlali son una clave y quién es el Señor mencionado por las serpientes? Las alusiones y la telepatía no lo resuelven (39-008, 39-010).",
-      "estado": "pendiente",
-      "respuesta": "Los yuan-ti reclaman la piel de Citlali como clave y su maldición cura a una abominación. El capítulo 40 no retoma la explicación de las marcas ni identifica al Señor; el nuevo veneno del bosque no demuestra una relación causal con ellas.",
-      "referencias": [],
-      "pendiente": "La función de la piel y de las marcas, y la identidad del Señor.",
-      "revisado_hasta": 42,
+      "estado": "parcial",
+      "respuesta": "El epílogo del capítulo 43 confirma que los símbolos del altar activado por el ser serpentino son exactamente los de Citlali. Durante el combate la entidad la incita a drenar vida y juventud. Esto acredita un vínculo concreto de las marcas con el altar y ese interlocutor, sin revelar toda su función como clave o identificar al Señor mencionado por los yuan-ti.",
+      "referencias": [
+        "43-045",
+        "43-046",
+        "43-062"
+      ],
+      "pendiente": "La función completa de la piel o las marcas como clave y la identidad del Señor.",
+      "revisado_hasta": 43,
       "sha256_pregunta": "efc36987358be5dae25d806acf379edfbd052f7e4b2cac6bba81e8e3d428f0b0",
       "referencias_origen": [
         "39-008",
@@ -4331,11 +4350,16 @@
       "capitulo": 39,
       "indice": 2,
       "pregunta": "¿Es Nox el bebé que perdió Citlali o un recuerdo alterado por el alcohol? La hipótesis no se confirma (39-002).",
-      "estado": "pendiente",
-      "respuesta": "Citlali expresa una duda sobre el bebé y la influencia del alcohol. El capítulo 40 no aporta una identificación ni confirma parentesco entre Citlali y Nox.",
-      "referencias": [],
-      "pendiente": "La identidad del bebé y la relación real entre Citlali y Nox.",
-      "revisado_hasta": 42,
+      "estado": "parcial",
+      "respuesta": "El capítulo 43 sostiene el reconocimiento materno: Citlali ve a Nox en la experiencia de la explosión, lo llora como a un hijo y, al intentar llegar al Zampaolas, lo llama Amaru y recuerda al niño del cofre frente al hombre de trenzas, ron y malos chistes. Ya no queda solo la duda expresada bajo el alcohol. No se narra cómo salió del cofre ni se reconstruyen su crianza y los años que los separan.",
+      "referencias": [
+        "43-003",
+        "43-045",
+        "43-059",
+        "43-061"
+      ],
+      "pendiente": "La reconstrucción del rescate del bebé y su vida hasta convertirse en Nox.",
+      "revisado_hasta": 43,
       "sha256_pregunta": "d38ecda79e08b132a78021c61268d24b575f2b717f65cac325d71e45582a2f7e",
       "referencias_origen": [
         "39-002"
@@ -4355,7 +4379,7 @@
         "40-017"
       ],
       "pendiente": "Las identidades de los elfos, la enfermedad y el impedimento del dragón.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "6ca9bbbd03dbe8b270bf51f632b362ea5356bf90b06e01d312470bf03c48bc6d",
       "referencias_origen": [
         "39-016",
@@ -4383,7 +4407,7 @@
         "41-051"
       ],
       "pendiente": "El resultado de la conversación con Citlali y las causas completas de las amenazas.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "6e5e2520f8aba1a23828112284bd6c69c11441fb7f27734f094b15c629078b5c",
       "referencias_origen": [
         "39-017",
@@ -4402,7 +4426,7 @@
         "41-051"
       ],
       "pendiente": "La identidad de la presencia del capítulo 39 y el destino de los yuan-ti tras el derrumbe.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "b04fc0d31ffef152c795339f6ff1224eca6be49b7f610f2610680aec99a1915b",
       "referencias_origen": [
         "39-011",
@@ -4426,7 +4450,7 @@
         "41-051"
       ],
       "pendiente": "El origen de la animación de los restos y la función causal del veneno.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "bb1ef82bc081210a22ee28280bc713f0920bcf82889effbdddb49cbec78110ff",
       "referencias_origen": [
         "40-016",
@@ -4449,7 +4473,7 @@
         "40-024"
       ],
       "pendiente": "La extensión restante del daño y la recuperación de la vegetación.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "90088c2a7813412165ada5c67e3711ddd0e2ee5b7b88d0593a234a8b2526efc4",
       "referencias_origen": [
         "40-013",
@@ -4473,7 +4497,7 @@
         "41-055"
       ],
       "pendiente": "La grafía, la ubicación de la guarida y la relación de identidad con Clodidrax.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "5bb18b813de70d31bfa0e9a8b5a336b586da171769efce4f47561936d75375ce",
       "referencias_origen": [
         "40-030",
@@ -4494,7 +4518,7 @@
         "42-004"
       ],
       "pendiente": "La información que Eldrat necesita y la aceptación y ejecución de la caza e interrogatorio.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "7be0bd82fc2a5c41b7a0705bcc8e3135c3b89e703410d2186d4030fa389b9168",
       "referencias_origen": [
         "40-037",
@@ -4518,7 +4542,7 @@
         "41-054"
       ],
       "pendiente": "La edad de Tortas y la historia de su inmovilidad.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "44cdd9774aee8d47519a785a822a55b1ab55e0e248f80cc2e19883bb36a58682",
       "referencias_origen": [
         "40-011",
@@ -4544,7 +4568,7 @@
         "41-046"
       ],
       "pendiente": "El envío y resultado de la ayuda a Eromov y el alcance restante de la operación contra Iktan.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "af3c2965b01bc4098a3ff00ef61ebbc5d174124dcdecf2da3102df1628fd62de",
       "referencias_origen": [
         "40-002",
@@ -4569,7 +4593,7 @@
         "42-050"
       ],
       "pendiente": "El origen, dueño e historia del fragmento de espada.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "baf96371f6bd6f356a843bd244678399b6e8a267021bf1fc0c500ec3398e9175",
       "referencias_origen": [
         "40-003",
@@ -4589,7 +4613,7 @@
         "41-004"
       ],
       "pendiente": "La identidad, el paradero y el motivo del retraso del emisario.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "a06545db4d17d832746d2febca5ae6c00454030a5ddb953185f9cf63eb1701b1",
       "referencias_origen": [
         "41-002",
@@ -4610,7 +4634,7 @@
         "41-051"
       ],
       "pendiente": "La identidad y propósito de la presencia anunciada como «ella».",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "f87c517c7bf1546e3be69c467d4c27a7d1cd6fbf2fdf0c581eadc93686cc08fa",
       "referencias_origen": [
         "41-018",
@@ -4631,7 +4655,7 @@
         "41-023"
       ],
       "pendiente": "La causa del dolor, la salida de serpientes y la muerte.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "41bd1ed6ad186f3379a7ab4b5d3ab520c7bdb15d433d26ebb79a1bc471a31013",
       "referencias_origen": [
         "41-021",
@@ -4654,7 +4678,7 @@
         "41-046"
       ],
       "pendiente": "La finalidad de retirar al Anciano, los integrantes restantes y el mando de la operación.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "7e47effa957f6142c269302c8f84efd3b0b5c4139042815fd692bcbf7709a92a",
       "referencias_origen": [
         "41-011",
@@ -4679,7 +4703,7 @@
         "41-051"
       ],
       "pendiente": "El destino del cautivo vivo y la información que pudiera proporcionar.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "8291f2352b194b10992346b8542baf39c3bdb415b09f2998e96b96f84f7b8015",
       "referencias_origen": [
         "41-042",
@@ -4703,7 +4727,7 @@
         "41-051"
       ],
       "pendiente": "La composición de los líquidos y su relación con otras muestras.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "b832372d44e248ded79884764b9077bf347a60fc1648ee5b3f8fc9252a93e235",
       "referencias_origen": [
         "41-019",
@@ -4724,7 +4748,7 @@
         "41-047"
       ],
       "pendiente": "El fabricante, proveedor y organización que equipa a los adversarios.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "10c5c516a78037c8098ffe2b7d929382e0bf242b16ed32e167bd83d26ab78142",
       "referencias_origen": [
         "41-047"
@@ -4743,7 +4767,7 @@
         "41-050"
       ],
       "pendiente": "La causa de la excepción de Tentacol a la compulsión.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "cb1b9ce085d9007698b6d923b0b89e1d6da51fea9ed46a5e9053c7d6686e3463",
       "referencias_origen": [
         "41-049",
@@ -4764,7 +4788,7 @@
         "41-055"
       ],
       "pendiente": "La grafía, la guarida y la relación de identidad con Clodidrax.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "8a0f7fc040061d93cd41998ff9ff4bb8e27649a1104b7cc23c4b3a10f10d22fd",
       "referencias_origen": [
         "41-051",
@@ -4784,7 +4808,7 @@
         "41-010"
       ],
       "pendiente": "La visita y el método para que Naór respire bajo el agua.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "ba96721d56ad27b5f6c148436099ca11abece223df7212861c2f6e8a1d4ef0d7",
       "referencias_origen": [
         "41-010"
@@ -4802,7 +4826,7 @@
         "41-024"
       ],
       "pendiente": "El origen y la función del brillo mágico detectado en el Anciano.",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "sha256_pregunta": "94366b38b1dbbc8111a66ce43165984ae00021263222e79ed1c28d91ec5df76b",
       "referencias_origen": [
         "41-024"
@@ -4814,17 +4838,20 @@
       "capitulo": 42,
       "indice": 1,
       "pregunta": "¿Qué destino tienen Nox, Pinky y Tórtola tras la explosión del Invictus? El director despide a Nox y Pinky, pero la búsqueda no recupera el cuerpo de Nox ni se representa el destino del aviar (42-060–42-064, 42-072).",
-      "estado": "pendiente",
-      "revisado_hasta": 42,
-      "respuesta": "Nox renuncia a saltar para impedir que Tórtola cambie el rumbo. Pinky permanece combatiendo cuando el Invictus estalla; el director despide a ambos al terminar. Ione encuentra otros cuerpos, sin recuperar el de Nox. No se muestra una escena posterior de Tórtola.",
+      "estado": "parcial",
+      "revisado_hasta": 43,
+      "respuesta": "La explosión se contempla desde tierra. Citlali ve a Nox cayendo al agua en una visión y después declara que se ha ido; el director presenta su mirada ante Molly como la de quien ha perdido a su hijo. Se desarrolla así la pérdida de Nox que enmarcaba la despedida del capítulo 42, sin narrar una recuperación de su cuerpo. Pinky y Tórtola no reciben una escena posterior al estallido.",
       "referencias": [
         "42-060",
-        "42-061",
         "42-062",
         "42-064",
-        "42-072"
+        "42-072",
+        "43-044",
+        "43-045",
+        "43-059",
+        "43-061"
       ],
-      "pendiente": "Cualquier destino posterior o recuperación de los tres tras el estallido.",
+      "pendiente": "El destino de Pinky y Tórtola y cualquier recuperación o escena posterior de los tres.",
       "sha256_pregunta": "67e664752784036a96c6addb0036c253a72d14037d75389ef78621d42c42ff15",
       "referencias_origen": [
         "42-060",
@@ -4839,13 +4866,16 @@
       "indice": 2,
       "pregunta": "¿Qué función tienen los tatuajes y el ojo-orbe en la última decisión de Nox y dónde queda el objeto? Su presencia en la chaqueta no acredita dominación, protección o una vía de escape (42-061).",
       "estado": "pendiente",
-      "revisado_hasta": 42,
-      "respuesta": "Nox nota los tatuajes y encuentra el ojo en su chaqueta antes de soltar la cuerda. No se atribuye al objeto una orden, una protección o una huida, y después estalla el Invictus.",
+      "revisado_hasta": 43,
+      "respuesta": "El ojo queda con Nox antes del estallido y no se recupera en el capítulo 43. El dolor y el altar de símbolos que se muestran ahora pertenecen a Citlali: no se identifican sus marcas con las de Nox ni se atribuye al ojo una orden, protección o fuga.",
       "referencias": [
         "42-061",
-        "42-062"
+        "42-062",
+        "43-044",
+        "43-045",
+        "43-062"
       ],
-      "pendiente": "La función de las señales y el paradero posterior del ojo-orbe.",
+      "pendiente": "La función de los tatuajes y el ojo en la decisión de Nox y el paradero posterior del objeto.",
       "sha256_pregunta": "fcf7ca6378ec0803b03e9378d39c1d868e39872991a0ebc38a20316aa58b2515",
       "referencias_origen": [
         "42-061"
@@ -4858,7 +4888,7 @@
       "indice": 3,
       "pregunta": "¿Qué consecuencias tiene el disparo de Taylor contra Bonnie y quién controlará Shiaru? La sesión cierra con el disparo a la frente y la despedida del director, sin mostrar el nuevo gobierno (42-068–42-072).",
       "estado": "pendiente",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "respuesta": "Taylor dispara a la frente de Bonnie ante los otros reyes y el director la despide. La escena no continúa con una elección de dirigente ni una descripción de Shiaru bajo otra autoridad.",
       "referencias": [
         "42-068",
@@ -4879,7 +4909,7 @@
       "indice": 4,
       "pregunta": "¿Cuáles eran las cláusulas del pacto entre los cinco reyes y qué harán en Xoltacan? Taylor acusa a Bonnie de ocultar la isla y faltar a reuniones, pero no expone todo el acuerdo (42-069–42-072).",
       "estado": "pendiente",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "respuesta": "Taylor relaciona el pacto con las reuniones y con no ocultar una isla de grandes tesoros. Bonnie reconoce haber leído su carta. No se leen todas las cláusulas ni se expone un plan común posterior.",
       "referencias": [
         "42-069",
@@ -4901,7 +4931,7 @@
       "indice": 5,
       "pregunta": "¿Quién es el joven Jackie que Taylor dice haber capturado rumbo a Puerto de Espadas y cuál es su destino? No se demuestra su identidad con Jack, presente en el Zampaolas (42-008, 42-029, 42-070).",
       "estado": "pendiente",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "respuesta": "La captura del joven rumbo a Puerto de Espadas procede del relato de Taylor y su nombre se recuerda con duda. Jack, el exmarine, ha estado presente en el Zampaolas; no se establece que el testimonio trate sobre él ni una segunda captura.",
       "referencias": [
         "42-008",
@@ -4922,14 +4952,15 @@
       "capitulo": 42,
       "indice": 6,
       "pregunta": "¿Dónde continuará Ione la búsqueda de Nox y cómo utilizará la moneda recibida? Acepta salir de la batalla, pero se niega a abandonar Shiaru (42-066–42-067).",
-      "estado": "pendiente",
-      "revisado_hasta": 42,
-      "respuesta": "Bonnie pone la moneda en la mano de Ione. La capitana vira para proteger a los suyos y retirarse, aunque rechaza abandonar Shiaru. No activa el objeto ni vuelve a ejecutar una búsqueda después de la retirada en esta sesión.",
+      "estado": "parcial",
+      "revisado_hasta": 43,
+      "respuesta": "Al finalizar el frente terrestre, Citlali y sus compañeros ven el pabellón y las velas del Zampaolas detenerse como varados en la costa al este de la jungla. Citlali intenta llegar, pero no se representa el encuentro. Se documenta la posición posterior del barco desde fuera, sin mostrar nuevas acciones de Ione o el uso de la moneda.",
       "referencias": [
         "42-066",
-        "42-067"
+        "42-067",
+        "43-061"
       ],
-      "pendiente": "El siguiente refugio, la continuación de la búsqueda y el uso de la moneda por Ione.",
+      "pendiente": "La continuación de la búsqueda de Ione y la activación o uso de la moneda por ella.",
       "sha256_pregunta": "d7360c103606984f596d0332a9d9fdbc8c36d18dda17bbd90fddec1995cc2b43",
       "referencias_origen": [
         "42-066",
@@ -4943,7 +4974,7 @@
       "indice": 7,
       "pregunta": "¿A qué reyes y monedas corresponden los ataques de hielo y fuego y cuáles son sus límites? La llegada de las cuatro banderas no distribuye individualmente esos poderes (42-065–42-069).",
       "estado": "pendiente",
-      "revisado_hasta": 42,
+      "revisado_hasta": 43,
       "respuesta": "El hielo y el fuego destruyen los refuerzos justo antes de aparecer las cuatro banderas y los reyes. La narración los presenta como su llegada, sin identificar cuál ejecuta cada fenómeno ni describir una activación individual de sus monedas.",
       "referencias": [
         "42-065",
@@ -4956,11 +4987,179 @@
         "42-069"
       ],
       "requiere_actualizacion": false
+    },
+    {
+      "id": "P43-001",
+      "capitulo": 43,
+      "indice": 1,
+      "pregunta": "¿Quién es el ser serpentino vinculado a Citlali y qué anuncia con «ya es la hora»? La incita a quitar juventud y activa símbolos iguales a sus tatuajes, sin revelar su nombre o plan completo (43-045–43-046, 43-062).",
+      "estado": "pendiente",
+      "revisado_hasta": 43,
+      "respuesta": "El ser acompaña la visión de Citlali, le ordena matar y robar juventud y reaparece activando el altar. No recibe un nombre propio ni se desarrolla su anuncio final.",
+      "referencias": [
+        "43-045",
+        "43-046",
+        "43-062"
+      ],
+      "pendiente": "Su identidad, naturaleza y plan tras el anuncio.",
+      "sha256_pregunta": "571b003f8470243c95110c7854a5f270555172163183ae37fbea48e5e39013d3",
+      "referencias_origen": [
+        "43-045",
+        "43-046",
+        "43-062"
+      ],
+      "requiere_actualizacion": false
+    },
+    {
+      "id": "P43-002",
+      "capitulo": 43,
+      "indice": 2,
+      "pregunta": "¿Dónde está el altar de los símbolos de Citlali y qué produce su activación? El epílogo no lo localiza ni muestra la consecuencia de encender las marcas (43-062).",
+      "estado": "pendiente",
+      "revisado_hasta": 43,
+      "respuesta": "Se iluminan símbolos exactamente iguales a los tatuajes de Citlali cuando la entidad pasa la mano. La escena no aporta una ubicación o una consecuencia posterior de la activación.",
+      "referencias": [
+        "43-062"
+      ],
+      "pendiente": "La localización, función y consecuencias del altar.",
+      "sha256_pregunta": "3bbebcaa5f7a60fff092327b36e3e9f2892235c98db553baadde7c8410fc8630",
+      "referencias_origen": [
+        "43-062"
+      ],
+      "requiere_actualizacion": false
+    },
+    {
+      "id": "P43-003",
+      "capitulo": 43,
+      "indice": 3,
+      "pregunta": "¿Qué ocurrió entre el niño Amaru del recuerdo de Citlali y la vida adulta de Nox? El reconocimiento materno los enlaza, sin reconstruir el rescate del cofre, la crianza o los años intermedios (43-059, 43-061).",
+      "estado": "pendiente",
+      "revisado_hasta": 43,
+      "respuesta": "El duelo y los recuerdos enlazan al niño Amaru con Nox. La narración no reconstruye su salida del cofre ni cómo se convirtió en el pirata adulto.",
+      "referencias": [
+        "43-059",
+        "43-061"
+      ],
+      "pendiente": "El rescate, la crianza y la cronología entre ambos momentos.",
+      "sha256_pregunta": "fc825d56a66fa742cf7cad9668d6aadb1a90ddde7d28470a733e332337073e0e",
+      "referencias_origen": [
+        "43-059",
+        "43-061"
+      ],
+      "requiere_actualizacion": false
+    },
+    {
+      "id": "P43-004",
+      "capitulo": 43,
+      "indice": 4,
+      "pregunta": "¿Cómo evolucionarán la absorción vital, el rejuvenecimiento y las quemaduras de Citlali? El cambio se observa, pero no se fija una edad final, su duración o todo el alcance de la influencia serpentina (43-037, 43-046, 43-050–43-051, 43-057).",
+      "estado": "pendiente",
+      "revisado_hasta": 43,
+      "respuesta": "Se ven curación, absorción vital, rejuvenecimiento y después nuevas quemaduras. La entidad incita a quitar juventud, sin fijar una edad final o duración ni exponer todas las reglas del poder.",
+      "referencias": [
+        "43-037",
+        "43-046",
+        "43-050",
+        "43-057"
+      ],
+      "pendiente": "La duración, los efectos posteriores y los límites de la influencia y de la absorción.",
+      "sha256_pregunta": "6d770b4eafa20b300b7faa6120ba2b5a313265cce95856664a3ac5d785b913f9",
+      "referencias_origen": [
+        "43-037",
+        "43-046",
+        "43-050",
+        "43-051",
+        "43-057"
+      ],
+      "requiere_actualizacion": false
+    },
+    {
+      "id": "P43-005",
+      "capitulo": 43,
+      "indice": 5,
+      "pregunta": "¿Qué encuentra Citlali cuando alcance el Zampaolas? Ve la bandera y las velas, pero el capítulo termina antes del encuentro con los tripulantes (43-059, 43-061).",
+      "estado": "pendiente",
+      "revisado_hasta": 43,
+      "respuesta": "Citlali ve parte del Zampaolas y trata de ir hacia él, incluso arrastrándose. El corte llega antes de que hable con sus tripulantes o suba a bordo.",
+      "referencias": [
+        "43-059",
+        "43-061"
+      ],
+      "pendiente": "El encuentro y la información que reciba de la tripulación.",
+      "sha256_pregunta": "25775032b7195240e989d809cc1386689e068aac7b23cd7722db21051ede6f21",
+      "referencias_origen": [
+        "43-059",
+        "43-061"
+      ],
+      "requiere_actualizacion": false
+    },
+    {
+      "id": "P43-006",
+      "capitulo": 43,
+      "indice": 6,
+      "pregunta": "¿Cómo se recuperará Erandy de su agotamiento y qué consecuencias tendrá su trance? La escudera apenas se mantiene en pie; su interpretación de la explosión no acredita una aparición del dios solar (43-033, 43-047, 43-052, 43-060).",
+      "estado": "pendiente",
+      "revisado_hasta": 43,
+      "respuesta": "Eleanor comprueba que la escudera tiembla, fija la mirada en el suelo y apenas sigue de pie. Erandy interpreta la explosión como su dios, pero no se acredita una aparición objetiva ni se narra su recuperación.",
+      "referencias": [
+        "43-033",
+        "43-047",
+        "43-052",
+        "43-060"
+      ],
+      "pendiente": "Su recuperación y las consecuencias físicas o personales de la experiencia.",
+      "sha256_pregunta": "1c25c768ae7a041b5acfb439400fe0726276f9cd82d65486bf15aff8e9aacca3",
+      "referencias_origen": [
+        "43-033",
+        "43-047",
+        "43-052",
+        "43-060"
+      ],
+      "requiere_actualizacion": false
+    },
+    {
+      "id": "P43-007",
+      "capitulo": 43,
+      "indice": 7,
+      "pregunta": "¿Qué leyenda evoca Eleanor al entregar su broche a Molly y qué podría hacer con ella? La propuesta es condicional y no demuestra una resurrección o un poder del objeto (43-015).",
+      "estado": "pendiente",
+      "revisado_hasta": 43,
+      "respuesta": "Eleanor entrega el broche y alude a una leyenda por si pudiera recuperar el cuerpo de Molly. Molly sigue viva al concluir el combate; no se prueba una resurrección o una propiedad del objeto.",
+      "referencias": [
+        "43-015",
+        "43-058"
+      ],
+      "pendiente": "El contenido de la leyenda y la capacidad concreta a la que alude Eleanor.",
+      "sha256_pregunta": "e2f830bebd86cb27269b483975d7057e5760d08c471b79f204c8c0fb2d9a6eb5",
+      "referencias_origen": [
+        "43-015"
+      ],
+      "requiere_actualizacion": false
+    },
+    {
+      "id": "P43-008",
+      "capitulo": 43,
+      "indice": 8,
+      "pregunta": "¿Cuál es la procedencia de la caja de música y qué relación causal, si la hay, tiene su melodía con las marcas y el dolor de Citlali? El recuerdo y el duelo no explican un mecanismo del objeto (43-003, 43-059).",
+      "estado": "pendiente",
+      "revisado_hasta": 43,
+      "respuesta": "La melodía evoca a los hijos y a Nox, y la caja acompaña después el duelo de Citlali. No se revela en el vídeo su procedencia o un mecanismo que cause el dolor y las marcas.",
+      "referencias": [
+        "43-003",
+        "43-059"
+      ],
+      "pendiente": "La procedencia del objeto y cualquier efecto propio que pueda demostrarse.",
+      "sha256_pregunta": "1d8dd70290d5442f6eb13674ebd2b10f75fd4750ab0513effef4747b86375ff2",
+      "referencias_origen": [
+        "43-003",
+        "43-059"
+      ],
+      "requiere_actualizacion": false
     }
   ],
   "estados": {
-    "parcial": 60,
-    "pendiente": 175,
+    "parcial": 66,
+    "pendiente": 177,
     "resuelta": 18
   },
   "por_actualizar": 0

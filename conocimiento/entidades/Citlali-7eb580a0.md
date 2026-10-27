@@ -8,11 +8,11 @@ El grupo llama Mamá a Citlali. Coyote aparece como un personaje distinto junto 
 
 Etiquetas agrupadas: Mamá / Citlali (identificación contextual provisional).
 
-Base para revisar equivalencia: [03-013](../capitulos/03.md), [34-004](../capitulos/34.md), [39-017](../capitulos/39.md).
+Base para revisar equivalencia: [03-013](../capitulos/03.md), [34-004](../capitulos/34.md), [39-017](../capitulos/39.md), [43-003](../capitulos/43.md), [43-011](../capitulos/43.md), [43-012](../capitulos/43.md), [43-013](../capitulos/43.md), [43-024](../capitulos/43.md), [43-030](../capitulos/43.md), [43-032](../capitulos/43.md), [43-037](../capitulos/43.md), [43-041](../capitulos/43.md), [43-044](../capitulos/43.md), [43-045](../capitulos/43.md), [43-046](../capitulos/43.md), [43-050](../capitulos/43.md), [43-051](../capitulos/43.md), [43-057](../capitulos/43.md), [43-059](../capitulos/43.md), [43-061](../capitulos/43.md), [43-062](../capitulos/43.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 42.
+Relato revisado hasta el capítulo 43.
 
 ### Mamá y el huevo de las ruinas
 
@@ -37,6 +37,24 @@ Fuentes: [34-001 · Recapitulaciones y libertad de Citlali](../capitulos/34.md) 
 Citlali cuida de Etley en una antigua cueva yuan-ti, pero los hombres serpiente vuelven a encontrarlos. En el combate su maldición cura a una abominación enemiga y oye que necesitan su piel como clave. Las explosiones derrumban el refugio y ambos quedan atrapados, vivos y heridos, hasta que sus compañeros y los guardias los rescatan. De camino a Iktan, el dragón invisible Clodidrax le ofrece paso a cambio de noticias de dos elfos pálidos. Walulu admite al grupo, cura a la cría y pide hablar sobre sus tatuajes. El significado de las marcas y el trato con el dragón permanecen abiertos.
 
 Fuentes: [39-008 · La maldición de Citlali cura a la serpiente](../capitulos/39.md) · 00:50:00.000 · [39-010 · Los refuerzos buscan la piel de Citlali](../capitulos/39.md) · 01:05:00.000 · [39-013 · Los guardias ayudan a rescatar a Citlali y Etley](../capitulos/39.md) · 01:27:00.000 · [39-016 · Un dragón invisible ofrece un trato a Citlali](../capitulos/39.md) · 01:50:00.000 · [39-017 · Iktan admite y cura a los viajeros](../capitulos/39.md) · 01:55:00.000 · [39-018 · Hospitalidad de la ciudad oculta y una elfa enferma](../capitulos/39.md) · 02:04:00.000.
+
+### La caja de música y el viaje sobre el oso
+
+Citlali relata su estancia en Iktan, el cuidado de la cría y el insomnio. Una caja de música le devuelve recuerdos de sus hijos y de Nox; el dolor y una señal extraña en la piel la llevan a correr con el pequeño. En la jungla pide ayuda a Lunaria para llegar a Shiaru y viaja sobre ella cuando adopta forma de oso. Tiene una visión de un pirata sin nombre y de una batalla naval vista desde debajo del agua. Vuelve en sí todavía sobre su compañera, sin daño por la visión. Su urgencia y las imágenes no determinan la muerte de Nox ni el significado de la marca.
+
+Fuentes: [43-003 · Citlali recuerda la caja de música y huye de Iktan con la cría](../capitulos/43.md) · 00:03:45.400 · [43-011 · El malestar de Citlali la lleva a pedir ayuda a Luna](../capitulos/43.md) · 00:17:31.240 · [43-012 · Luna se transforma en oso para transportar a Citlali](../capitulos/43.md) · 00:20:23.720 · [43-013 · Citlali tiene una visión de un pirata y de la batalla bajo el agua](../capitulos/43.md) · 00:21:34.240.
+
+### El peligro llega a la jungla
+
+Citlali anima a Lunaria a acelerar cuando oye la batalla y ve la tormenta del mar. Acompaña con un silbido de ataque el lanzamiento de Etley, dispara su arco y baja para combatir con las chanclas. Expresa que quiere ver a Nox, sin conocer por ello su situación en la batalla naval. Su toque frío a un enemigo coincide con una breve tersura juvenil de su piel y el cierre de sus heridas. Cuando una aliada le advierte del peligro, responde que el peligro es ella y sigue luchando.
+
+Fuentes: [43-024 · Citlali y Lunaria ven formarse una tormenta sobre el mar](../capitulos/43.md) · 00:45:41.480 · [43-030 · Lunaria arroja a Etley contra los marines](../capitulos/43.md) · 00:55:42.480 · [43-032 · Citlali entra con el arco y después con sus chanclas](../capitulos/43.md) · 01:00:00.480 · [43-037 · El toque de Citlali cierra sus heridas y rejuvenece su piel](../capitulos/43.md) · 01:13:34.760 · [43-041 · La combatiente que acompaña al grupo protege a Citlali](../capitulos/43.md) · 01:20:48.239.
+
+### La pérdida, el drenaje y los símbolos
+
+La explosión marítima provoca un dolor devastador en los tatuajes de Citlali y una visión de Nox cayendo entre el agua. El ser que la acompaña le ordena matar y arrebatar juventud. Citlali drena a los marines, rejuvenece ante sus compañeros y mata a un general entre reproches por la pérdida de su hijo. Después saca una caja musical y llora a Nox; Molly comprende su dolor. Al ver el Zampaolas intenta llegar a la costa, pero las piernas le flaquean. El epílogo revela al público que los símbolos de su cuerpo coinciden con los que el ser activa en un altar.
+
+Fuentes: [43-044 · La explosión en el mar interrumpe el combate y hace arder los tatuajes de Citlali](../capitulos/43.md) · 01:23:57.280 · [43-045 · Una visión de Nox y el ser serpentino incita a Citlali a matar](../capitulos/43.md) · 01:26:01.360 · [43-046 · Citlali cambia la curación por la absorción violenta de vida](../capitulos/43.md) · 01:28:17.920 · [43-050 · Los compañeros ven rejuvenecer a Citlali y envejecer a sus víctimas](../capitulos/43.md) · 01:39:22.000 · [43-051 · Citlali mata al general mientras los marines huyen hacia las trampas](../capitulos/43.md) · 01:41:50.400 · [43-057 · Citlali consume la vida del marine retenido](../capitulos/43.md) · 01:54:11.440 · [43-059 · La caja musical acompaña el duelo de Citlali por Nox](../capitulos/43.md) · 01:57:06.040 · [43-061 · Citlali ve el Zampaolas detenido en la costa y trata de alcanzarlo](../capitulos/43.md) · 02:01:24.800 · [43-062 · El ser serpentino activa un altar con los símbolos de Citlali](../capitulos/43.md) · 02:05:14.559.
 
 ## Registros y evidencias
 
@@ -1791,4 +1809,236 @@ Tipo: `hecho_confirmado`.
 Los vecinos reciben a los extranjeros con bebida y adornos florales; también ofrecen a Leo un líquido que no se identifica como cerveza. Winscore bebe sentado en una piedra. Blink lo reconoce por una aventura con Mamá y un dragón y le presenta a Naór. Ella lo saluda y le da la bienvenida a Xoltacan. Él explica que explora estas tierras y ha acudido al festival.
 
 El recuerdo de Blink no especifica qué dragón: no atribuir acciones nuevas a Winscore ni identificarlo con el verde de Iktan.
+
+## [43-003 · Citlali recuerda la caja de música y huye de Iktan con la cría](../capitulos/43.md) · 00:03:45.400
+
+Tipo: `declaracion_personaje`.
+
+Citlali relata que permaneció en Iktan cuidando al pequeño hasta su recuperación y que los recuerdos volvieron a impedirle dormir. Encontró una caja de música; su melodía le recordó a sus hijos y a Nox. Sintió un dolor intenso y vio algo extraño en la piel. Interpretando que algo iba mal, tomó a la cría y echó a correr por la jungla. El director incorpora al pequeño a la escena, aclarando que aún no ataca.
+
+El repaso no identifica el mecanismo o la causa del dolor. El recuerdo de Nox y la intuición maternal no prueban su muerte ni fijan una hora con respecto al desenlace del capítulo 42. Las bromas sobre usar al pequeño de escudo no representan que lo hagan aquí.
+
+## [43-011 · El malestar de Citlali la lleva a pedir ayuda a Luna](../capitulos/43.md) · 00:17:31.240
+
+Tipo: `hecho_confirmado`.
+
+Mientras corre, Citlali vuelve a sentir que algo va mal y un pinchazo en la cabeza. Encuentra a Lunaria recogiendo hierbas que no identifica bien y llega con la cría medio dormida, arrastrada del ala. Luna le ofrece un té, pero Citlali insiste en que necesitan llegar a Shiaru cuanto antes y le pide ayuda.
+
+La intuición no identifica el peligro o el estado de Nox. Recoger hierbas y proponer un té no demuestra un conocimiento botánico seguro ni que llegue a administrar una infusión.
+
+## [43-012 · Luna se transforma en oso para transportar a Citlali](../capitulos/43.md) · 00:20:23.720
+
+Tipo: `hecho_confirmado`.
+
+Para acelerar el viaje, Luna se transforma en oso. Antes ata una cuerda a la cría, después la sujeta con los dientes y lleva a Citlali encima mientras el pequeño sigue arrastrado y corre como puede detrás.
+
+La transformación corresponde a Lunaria, no a Erandy. La narración describe un transporte incómodo; no comunica en este intervalo heridas, muerte o abandono de la cría.
+
+## [43-013 · Citlali tiene una visión de un pirata y de la batalla bajo el agua](../capitulos/43.md) · 00:21:34.240
+
+Tipo: `hecho_confirmado`.
+
+Mientras monta al oso, Citlali tiene otra visión. Ve de espaldas a un pirata con adornos en el pelo y aspecto desaliñado que empieza a girarse. Unas burbujas la envuelven y siente que está bajo el agua, aunque puede respirar. Desde abajo contempla una batalla de barcos, fuego y restos que caen al mar junto con piratas y marines. Al abrir los ojos sigue viajando sobre Luna hacia Shiaru; el director aclara que la visión no le causa daño.
+
+El pirata no recibe nombre en esta visión. El punto de vista submarino no prueba un ahogamiento real de Citlali o Nox, una muerte individual ni la posición exacta de la visión dentro de la batalla naval.
+
+## [43-024 · Citlali y Lunaria ven formarse una tormenta sobre el mar](../capitulos/43.md) · 00:45:41.480
+
+Tipo: `hecho_confirmado`.
+
+Citlali y Lunaria avanzan hacia Shiaru por la jungla, tan deprisa como permite la forma de oso de Lunaria. Llevan a la cría atada y arrastrada detrás. Oyen ruidos atronadores y Citlali, situada más alta, distingue al este grandes nubes negras sobre el mar que empiezan a formar una tormenta. Anima a Lunaria a acelerar mientras esta da tirones a la cuerda de la cría.
+
+Los comentarios sobre enseñar a volar a la cría son bromas; no acreditan que vuele. La observación de Citlali no identifica por sí sola a quien provoca la tormenta.
+
+## [43-030 · Lunaria arroja a Etley contra los marines](../capitulos/43.md) · 00:55:42.480
+
+Tipo: `hecho_confirmado`.
+
+Las trampas de la jungla saltan al paso de quienes llegan: se disparan dardos y se activan mecanismos con ganchos. Lunaria, en forma de oso, lanza al grupo enemigo la cría que lleva atada. Citlali acompaña el lanzamiento con un silbido de ataque. Etley agita las alas, pero no consigue volar: cae sobre los marines y abre un hueco entre varios pelotones.
+
+La cría se identifica por el cuidado de Citlali y el nombre oído como Echil/Etil; una mención aislada parecida a Erandy al caer no cambia su identidad. No se demuestra vuelo autónomo ni se toma el pentakill como recuento exacto.
+
+## [43-032 · Citlali entra con el arco y después con sus chanclas](../capitulos/43.md) · 01:00:00.480
+
+Tipo: `hecho_confirmado`.
+
+Citlali aparece sobre el oso con el arco preparado y dispara una flecha que se clava en un marine y casi lo derriba. Harta y deseosa de ver a Nox, se dispone a bajar y lanzarse al cuerpo a cuerpo. Se describe más joven y rápida que al comienzo de sus aventuras y corre hacia la Marina para repartir golpes con sus chanclas.
+
+El deseo de ver a Nox no implica que conozca su situación durante la batalla naval. El rejuvenecimiento comparado no fija edad, duración o causa de ese estado.
+
+## [43-033 · Erandy se entrega al trance solar y dispersa a más mandos](../capitulos/43.md) · 01:03:02.599
+
+Tipo: `hecho_confirmado`.
+
+La jugadora explica que Erandy, normalmente consciente y controlada, está ahora en un trance abrazado por el Sol: no ha advertido el escudo, el lanzamiento de la cría ni el resto de la escena. Con voz profunda reclama que ardan quienes quieren purgar la tierra y lanza otra bola de fuego. El director acepta la descripción: una pequeña esfera se forma junto a los generales y explota, los lanza heridos a la jungla y espanta los caballos. Los marines empiezan a separarse por los caminos mientras Citlali irrumpe entre ellos.
+
+El trance es interpretación aceptada en mesa, sin identidad divina separada ni diagnóstico. Los generales descritos como medio muertos no se registran todos como fallecidos.
+
+## [43-035 · Eleanor marca la retaguardia y llama a cargar](../capitulos/43.md) · 01:09:48.000
+
+Tipo: `hecho_confirmado`.
+
+Molly y otros piratas alcanzan a Citlali y al oso. Al ver que Erandy se ha acercado, Eleanor clava el estandarte y le ordena no avanzar más: su lugar es la retaguardia. Reconoce a Lunaria cuando el oso cae ante ella y, viendo rota la formación enemiga, llama a los demás a cargar. Sin el escudo, combate con su espada entre los marines y ataca a un perro.
+
+La orden del estandarte no demuestra que Erandy la obedezca. La caída del oso en esta escena no acredita que se trate de otro animal.
+
+## [43-036 · Eleanor utiliza el perro caído para montar sobre Lunaria](../capitulos/43.md) · 01:12:11.000
+
+Tipo: `hecho_confirmado`.
+
+Eleanor aprovecha el cuerpo del perro cuando cae para saltar y subirse sobre Lunaria. La jugadora de Lunaria acepta llevarla. Eleanor anuncia que se transformará sobre el oso para infundir más miedo. Los generales de la Marina intentan recuperar la formación y ordenan acabar con el oso y con la señora que avanza golpeando con chanclas.
+
+Este intervalo anuncia la transformación; su apariencia concreta se describe después. Los gritos de los generales no confirman que recuperen el control.
+
+## [43-037 · El toque de Citlali cierra sus heridas y rejuvenece su piel](../capitulos/43.md) · 01:13:34.760
+
+Tipo: `hecho_confirmado`.
+
+Citlali sigue golpeando con las chanclas como si fueran dagas hasta llegar ante un hombre y tocarle el cuello con un toque frío, descrito como de muerte. Los personajes cercanos ven que su piel arrugada se tensa y parece rejuvenecer durante unos segundos. La sangre de las heridas que había recibido deja de brotar y el director la describe totalmente curada. Continúa avanzando y abatiendo miembros de los pelotones.
+
+El pasaje relaciona el toque con el cambio visible y la curación; no identifica por nombre el conjuro, demuestra una juventud permanente ni explica toda su longevidad.
+
+## [43-038 · Erandy ignora la orden y lanza rayos abrasadores](../capitulos/43.md) · 01:15:59.920
+
+Tipo: `hecho_confirmado`.
+
+Erandy no escucha la orden de Eleanor y se desplaza hacia otro general, invocando la defensa de la Madre Tierra y del Señor Sol. Lanza los tres rayos de un conjuro reconocido en mesa como scorching ray: algunos fallan y otros chamuscan y abaten marines. Sigue descrita fuera de sí. Etley permanece en medio de la batalla, entre el fuego, pese a la intención previa de Citlali de esconderlo.
+
+No se confirma que todos los rayos acierten al general escogido. Las bromas sobre pollo asado no son una muerte documentada de Etley.
+
+## [43-041 · La combatiente que acompaña al grupo protege a Citlali](../capitulos/43.md) · 01:20:48.239
+
+Tipo: `hecho_confirmado`.
+
+La combatiente que venía avanzando con los piratas observa a Eleanor sobre el oso y sigue luchando. Al pasar junto a Citlali intercepta un golpe de un marine y le advierte que debería estar en otro lugar porque corre peligro. Citlali responde «Yo soy el peligro» y continúa combatiendo. Por continuidad se conserva la escena junto a Molly.
+
+El director dice Bonnie al inicio y después una variante oída como Morí; la escena venía siguiendo a Molly en el mismo frente. La atribución se conserva como contextual y no se afirma una llegada inequívoca de Bonnie a tierra.
+
+## [43-044 · La explosión en el mar interrumpe el combate y hace arder los tatuajes de Citlali](../capitulos/43.md) · 01:23:57.280
+
+Tipo: `hecho_confirmado`.
+
+Una explosión tremenda silencia momentáneamente el campo terrestre. Todos miran hacia el mar; Eleanor y Lunaria, aún en altura, ven una columna de fuego entre los barcos de guerra de la costa del Garfio. Al mismo tiempo, Citlali siente un dolor devastador en sus tatuajes, suelta las alpargatas y cae de rodillas gritando y arañándose.
+
+La escena terrestre registra la explosión y la reacción de Citlali; no convierte a quienes miran desde la jungla en testigos de cada acción de Nox en el Invictus.
+
+## [43-045 · Una visión de Nox y el ser serpentino incita a Citlali a matar](../capitulos/43.md) · 01:26:01.360
+
+Tipo: `hecho_confirmado`.
+
+Citlali siente un vacío y revive una escena de agua que la ahoga y de Nox cayendo entre quienes se precipitan de los barcos. Intenta alcanzarlo sin poder. Tras un siseo, una criatura le toma el brazo y la mano como para ayudarla a llegar a él, y le susurra que use su poder y mate a todos. Ve los rostros de los marines y vuelve a escuchar la orden.
+
+Es una experiencia de Citlali, no la recuperación física de Nox ni una prueba del nombre o naturaleza divina del interlocutor. No se identifica al ser con Set, el ojo-orbe o cualquier serpiente de otra escena.
+
+## [43-046 · Citlali cambia la curación por la absorción violenta de vida](../capitulos/43.md) · 01:28:17.920
+
+Tipo: `hecho_confirmado`.
+
+Citlali se levanta con los tatuajes brillando entre carmesí y verde, extendidos por casi todo su cuerpo. La voz le ordena matar y arrebatar juventud. Agarra a los marines por el cuello y absorbe su energía vital; sus manos y tatuajes brillan con mayor intensidad. El director muestra a Erandy que la anciana avanza ahora más deprisa y arroja a sus víctimas como despojos.
+
+La palabra curar al comienzo de la descripción no significa una curación beneficiosa para los marines: se narra explícitamente su drenaje. La voz es una incitación, no una regla universal del poder.
+
+## [43-048 · El oso de Lunaria impacta con la energía de Eleanor](../capitulos/43.md) · 01:33:33.920
+
+Tipo: `hecho_confirmado`.
+
+Lunaria y Eleanor descienden desde cien pies y resuelven la caída del oso con un golpe divino. El resultado anunciado es de setenta y siete puntos de daño. El oso se ilumina, golpea el suelo y lanza por los aires a quienes lo rodean, desplazando también a Citlali. Lunaria abandona la forma de oso después del impacto; Molly permanece luchando en el terreno.
+
+La narración confunde un vocativo al situar al jinete, pero las tiradas y turnos mantienen la combinación de Lunaria y Eleanor. No se presenta la cifra como daño sufrido por Lunaria ni como una muerte suya.
+
+## [43-050 · Los compañeros ven rejuvenecer a Citlali y envejecer a sus víctimas](../capitulos/43.md) · 01:39:22.000
+
+Tipo: `hecho_confirmado`.
+
+Los marines están aterrados por la caballera, las bolas de fuego y la violencia de Citlali. Mientras ella oye los siseos como algo cada vez más agradable, pasa delante de Lunaria, Eleanor y Erandy. Los demás ven que ya no parece una anciana: está más joven, mientras los restos que deja en el suelo se ven arrugados y envejecidos.
+
+En una frase el reconocimiento escribe piratas para los restos, pero la secuencia continua describe el ataque a los marines. No se inventa una edad exacta ni duración permanente del rejuvenecimiento.
+
+## [43-051 · Citlali mata al general mientras los marines huyen hacia las trampas](../capitulos/43.md) · 01:41:50.400
+
+Tipo: `hecho_confirmado`.
+
+Citlali busca a quien aún da órdenes y atraviesa las filas para agarrarlo por el cuello. Le reprocha que todos le arrebataron a su hijo y vuelve a absorber su energía. Una carta del chat añade furia como la de un bárbaro. El director confirma la muerte del general. Otros marines retroceden y algunos gritan al caer en trampas de la jungla.
+
+El cargo es descriptivo y el general no recibe un nombre. La acusación de Citlali expresa su duelo y rabia, sin probar que este oficial causara personalmente lo ocurrido a Nox. La carta es una ayuda de juego, no un nuevo origen biográfico de sus poderes.
+
+## [43-052 · Erandy recupera magia por el chat y lanza fuego cerca de sus aliados](../capitulos/43.md) · 01:44:54.520
+
+Tipo: `hecho_confirmado`.
+
+Aunque está cansada, Erandy siente una última chispa y recupera por intervención del chat un espacio de conjuro de tercer nivel para lanzar una bola de fuego. Sigue invitando a los enemigos a recibir el abrazo del dios del sol y hace estallar el conjuro. La discusión de alcance incluye a aliados y a Citlali, y el director exige las salvaciones correspondientes.
+
+La chispa se concede explícitamente por el chat. No se presenta como restauración ilimitada ni como prueba objetiva de favor divino; no se infiere daño individual de quienes no muestran su tirada.
+
+## [43-054 · Lunaria protege a Citlali y Etley antes de lanzar otra bola de fuego](../capitulos/43.md) · 01:48:39.760
+
+Tipo: `hecho_confirmado`.
+
+Ya fuera de la forma de oso, Lunaria propone combinar sus puntos de hechicería con los usos de una dote del dragón cromático para excluir del daño a Citlali y a la cría llamada pollo. El director acepta la propuesta. Unas alas espectrales de dragón rodean a ambos y los protegen durante la explosión.
+
+La combinación se admite para esta representación concreta, sin convertirla en una regla general. La protección no prueba que Citlali no hubiera recibido quemaduras del fuego anterior.
+
+## [43-055 · La caída de los generales rompe la resistencia terrestre](../capitulos/43.md) · 01:51:11.920
+
+Tipo: `hecho_confirmado`.
+
+Molly y los piratas combaten por los laterales, junto a la jungla, contra los marines que intentan huir. Eleanor imbuye su espada con la energía usada en el oso y parte a un general por la mitad. El director confirma que Citlali ha matado a otro mando y que las bolas de fuego han deshecho la formación. Los supervivientes sueltan las armas y corren; los piratas persiguen a quienes huyen hacia la jungla.
+
+Bonnie aparece como vocativo aislado del director en la escena terrestre; se mantiene la continuidad de Molly, sin transportar a Bonnie desde el combate naval. No se establece la muerte de todos los miembros de la Marina de la isla.
+
+## [43-056 · Eleanor retiene a un marine para Citlali sin rematarlo ella](../capitulos/43.md) · 01:53:22.199
+
+Tipo: `hecho_confirmado`.
+
+Eleanor agarra por el cuello y la nuca al marine que tiene delante para mantenerlo quieto. Explica que reconoce la venganza en los ojos de Citlali, siente que algo va mal y decide no matarlo ella. El enemigo queda retenido frente a la joven Mamá.
+
+No es un rescate del marine ni una orden de rendición aceptada. Eleanor lo inmoviliza y deja su siguiente destino a Citlali.
+
+## [43-057 · Citlali consume la vida del marine retenido](../capitulos/43.md) · 01:54:11.440
+
+Tipo: `hecho_confirmado`.
+
+Citlali aparta las alas que la protegían; su ropa aún tiene fuego y algunas partes de su piel están quemadas, aunque no manifiesta dolor. Coloca una mano en el pecho del marine que retiene Eleanor y sigue absorbiéndolo hasta dejarlo envejecido, consumido y reducido a huesos y piel. Lo suelta como un despojo.
+
+La ausencia de una queja no significa invulnerabilidad al fuego ni curación automática de las quemaduras. No se asignan una edad ni una cantidad numérica de energía robada.
+
+## [43-058 · Los piratas celebran la victoria y Molly llega herida](../capitulos/43.md) · 01:55:31.560
+
+Tipo: `hecho_confirmado`.
+
+El director da por terminado el combate: la mayoría de los marines han caído y los pocos que quedan huyen. Los piratas celebran mientras los combatientes recuperan el aliento. Molly se acerca cansada, respira con dificultad y tiene heridas, disparos y manchas de sangre. Expresa su sorpresa por el oso gigante y la cría arrojada, y se detiene al mirar a Citlali.
+
+La victoria se limita al frente terrestre mostrado. Los gritos de haber acabado con todos se matizan con los supervivientes que el propio director describe huyendo.
+
+## [43-059 · La caja musical acompaña el duelo de Citlali por Nox](../capitulos/43.md) · 01:57:06.040
+
+Tipo: `declaracion_personaje`.
+
+Citlali vuelve la mirada hacia la explosión con su rostro rejuvenecido lleno de lágrimas. Saca una caja musical de la falda y dice que Nox se ha ido. Mientras mueve la caja no puede dejar de llorar. Mira a Molly; el director explica que esta comprende la mirada de quien acaba de perder a su hijo. Molly abre los ojos, deja caer el arma y queda inmóvil.
+
+La escena presenta el duelo y la comprensión de Molly; no muestra el cuerpo de Nox ni explica el origen de la caja. Las réplicas sobre que Nox siempre vuelve no anulan ese duelo.
+
+## [43-060 · Eleanor comprueba el agotamiento extremo de Erandy](../capitulos/43.md) · 01:58:56.480
+
+Tipo: `hecho_confirmado`.
+
+Eleanor se gira para comprobar cómo está Erandy. La escudera permanece con la cabeza baja, temblando y con la mirada fija en el suelo. Su jugadora describe que el cuerpo está agotado y en shock, sostenido apenas por su voluntad y su entrega al dios; si la movieran, se desplomaría. Lunaria y Etley no comprenden bien el duelo de Citlali, aunque perciben que algo grave ocurre.
+
+No se declara la muerte de Erandy ni se describe que ya la hayan movido o trasladado. Las comparaciones con otras obras son referencias de la jugadora, no identidades de campaña.
+
+## [43-061 · Citlali ve el Zampaolas detenido en la costa y trata de alcanzarlo](../capitulos/43.md) · 02:01:24.800
+
+Tipo: `hecho_confirmado`.
+
+Citlali observa hacia la costa por encima de los árboles y ve velas negras y el pabellón del Zampaolas. El barco avanza como a la deriva y se detiene meciéndose, descrito como varado al este. Ella intenta ir hacia él con la esperanza de volver a ver a Amaru, recordando sus trenzas, el olor a ron y sus malos chistes. Sus piernas flaquean, pero insiste en caminar o arrastrarse. Los demás también pueden ver la bandera y parte de las velas. La sesión no narra un encuentro con quienes van a bordo.
+
+El duelo por Nox y la memoria de Amaru se enlazan expresamente mediante sus trenzas, ron, chistes y el contraste entre niño y hombre: Citlali reconoce al hijo perdido en Nox. No se cuenta cómo salió del cofre ni se reconstruye su crianza. Varado es la descripción visual desde la jungla, sin una inspección del casco o prueba de otro naufragio. La corrección de Kuroto a Xoltacan al cerrar no traslada la escena a otra campaña.
+
+## [43-062 · El ser serpentino activa un altar con los símbolos de Citlali](../capitulos/43.md) · 02:05:14.559
+
+Tipo: `hecho_confirmado`.
+
+En un epílogo separado de los personajes, el director vuelve al ser que lleva tiempo hablando con Mamá. Se acerca a una especie de altar y pasa la mano por encima. Se iluminan marcas y símbolos que son exactamente los que Citlali tiene en el cuerpo. La serpiente sisea que ya es la hora, y termina el capítulo.
+
+No se indica dónde está el altar ni qué acontecimiento anuncia la frase. El epílogo es información para los espectadores, sin acceso de los combatientes establecido. No identifica al ser por nombre ni lo equipara automáticamente con otras serpientes.
 

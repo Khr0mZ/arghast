@@ -1,5 +1,5 @@
 {
-  "revisado_hasta": 42,
+  "revisado_hasta": 43,
   "personajes": {
     "Angélica Thunder": [
       {
@@ -42,7 +42,9 @@
         "titulo": "Dos mazos en la plaza",
         "texto": "Armin espera entre los defensores reunidos en la plaza de Shiaru con dos mazos enormes. Su presencia lo sitúa en la preparación de la defensa, sin atribuirle todavía bajas o reparaciones concretas durante el enfrentamiento.",
         "referencias": [
-          "42-006"
+          "42-006",
+          "43-001",
+          "43-006"
         ]
       }
     ],
@@ -133,7 +135,12 @@
           "42-011",
           "42-012",
           "42-015",
-          "42-018"
+          "42-018",
+          "43-001",
+          "43-005",
+          "43-006",
+          "43-007",
+          "43-010"
         ]
       },
       {
@@ -147,7 +154,7 @@
         ]
       },
       {
-        "titulo": "La moneda devuelta y el disparo de Taylor",
+        "titulo": "La entrega de la moneda y el disparo de Taylor",
         "texto": "Bonnie embiste a la Marina con su nave envuelta en rayos y presencia el ataque de Nox. Cuando llegan los otros reyes, entrega la moneda a Ione y exige que salgan del combate. Su barco pierde el poder eléctrico y queda rodeado. Taylor sostiene que ocultó Xoltacan y rompió su pacto. Bonnie le responde con desprecio; él le dispara a la frente y la sesión termina.",
         "referencias": [
           "42-052",
@@ -428,6 +435,46 @@
           "37-003",
           "37-015"
         ]
+      },
+      {
+        "titulo": "El broche y el deber hacia Erandy",
+        "texto": "Eleanor participa en la preparación del embudo con Erandy y recibe su protección antes de partir. Explica a Molly que ayuda por el buen trato dado a la escudera, que contrasta con lo que esta habría recibido en su reino. Entrega a la ex capitana el broche de su tierra y alude a una leyenda con la que quizá podría intentar algo si recuperara su cuerpo. A continuación refuerza a sus aliadas, considera ocultarse bajo hojas y prepara su poder mientras llegan los marines. Durante la primera descarga sostiene el escudo contra las balas. La leyenda no confirma un poder de resurrección ni una muerte ya ocurrida.",
+        "referencias": [
+          "43-002",
+          "43-009",
+          "43-014",
+          "43-015",
+          "43-016",
+          "43-017",
+          "43-019",
+          "43-021"
+        ]
+      },
+      {
+        "titulo": "Del escudo protector al ángel caído",
+        "texto": "Eleanor resiste un cañonazo con el escudo y después lo clava delante de Erandy para protegerla. Avanza sin él, marca la retaguardia con el estandarte y llama a cargar cuando la formación enemiga flaquea. Utiliza un perro caído para saltar a lomos de Lunaria y adopta su forma de ángel caído, con alas rotas, piel pálida, ojos negros y espada violeta. Un segundo disparo del cañón las lanza al aire y propone imbuir al oso con smite para aprovechar la caída.",
+        "referencias": [
+          "43-026",
+          "43-029",
+          "43-035",
+          "43-036",
+          "43-039",
+          "43-040",
+          "43-042"
+        ]
+      },
+      {
+        "titulo": "El impacto y los últimos mandos",
+        "texto": "Eleanor imbuye el descenso de Lunaria en forma de oso con un golpe divino. Tras el impacto aterroriza a algunos marines con su aura, aunque su orden de arrodillarse es resistida. Se cura antes de acabar con un general. Luego inmoviliza a un marine y deja que Citlali lo drene, preocupada por lo que ve en ella. Al terminar comprueba el agotamiento extremo de Erandy.",
+        "referencias": [
+          "43-043",
+          "43-048",
+          "43-049",
+          "43-053",
+          "43-055",
+          "43-056",
+          "43-060"
+        ]
       }
     ],
     "Elger Banana": [
@@ -471,6 +518,42 @@
           "38-012",
           "38-015",
           "38-016"
+        ]
+      },
+      {
+        "titulo": "Proteger a su señora y sostener la defensa",
+        "texto": "Erandy acompaña a Eleanor en la preparación del frente terrestre y piensa en trampas para detener a la Marina. Antes de marchar, envuelve a su señora en una protección del Sol que puede evitar su caída. Cuando Molly advierte que quizá deban huir, Erandy no quiere dejarla a su suerte. En el embudo prepara sus espíritus guardianes, pero recibe el consejo de aprovechar la distancia e invoca al Sol para lanzar una bola de fuego. La primera descarga mata a algunos defensores cercanos y le causa pequeñas heridas; prepara su respuesta de fuego.",
+        "referencias": [
+          "43-002",
+          "43-009",
+          "43-014",
+          "43-016",
+          "43-019",
+          "43-020",
+          "43-021",
+          "43-022"
+        ]
+      },
+      {
+        "titulo": "El trance del fuego solar",
+        "texto": "Erandy invoca al Señor Sol y utiliza sucesivas bolas de fuego para quebrar los pelotones, dañar su artillería y dispersar a los mandos de la Marina. Aunque la metralla la hiere, sigue avanzando. Su jugadora la describe en trance, ajena al escudo protector que Eleanor deja y a lo que ocurre con la cría y el oso. No escucha la orden de permanecer en retaguardia y continúa lanzando rayos abrasadores. La descripción religiosa expresa su vivencia del poder, sin acreditar una posesión divina.",
+        "referencias": [
+          "43-023",
+          "43-026",
+          "43-027",
+          "43-029",
+          "43-033",
+          "43-035",
+          "43-038"
+        ]
+      },
+      {
+        "titulo": "El fuego del dios y el agotamiento",
+        "texto": "Erandy interpreta la columna de fuego como la presencia de su dios solar y transforma esa creencia en una nueva ofensiva incendiaria. Recupera por ayuda del chat un último espacio de conjuro y vuelve a lanzar fuego contra los marines. Terminada la batalla queda temblando, agotada y apenas sostenida por su voluntad y devoción, mientras Eleanor comprueba cómo está.",
+        "referencias": [
+          "43-047",
+          "43-052",
+          "43-060"
         ]
       }
     ],
@@ -541,6 +624,35 @@
           "39-017",
           "39-020"
         ]
+      },
+      {
+        "titulo": "La cría en el viaje apresurado",
+        "texto": "Citlali dice haber cuidado a la cría hasta su recuperación en Iktan y después se la lleva al comenzar su carrera. El pequeño, todavía sin intervenir en combate, aparece medio dormido y arrastrado del ala. Cuando Lunaria se convierte en oso, queda sujeto con una cuerda y sigue como puede mientras ella lleva a Citlali. El transporte es incómodo, pero este viaje no narra su muerte o una herida concreta.",
+        "referencias": [
+          "43-003",
+          "43-011",
+          "43-012"
+        ]
+      },
+      {
+        "titulo": "La cría entra en la batalla",
+        "texto": "Etley llega arrastrado y atado tras el oso de Lunaria. Esta lo arroja hacia los marines y Citlali lo anima con un silbido de ataque. Aunque agita las alas, no vuela: su caída golpea a varios pelotones y abre un hueco en la formación. Permanece después en el centro de la lucha, entre bolas y rayos de fuego, pese a la intención previa de Citlali de esconderlo. Las bromas sobre cocinarlo no documentan su muerte.",
+        "referencias": [
+          "43-024",
+          "43-030",
+          "43-031",
+          "43-034",
+          "43-038"
+        ]
+      },
+      {
+        "titulo": "Entre las alas y el duelo",
+        "texto": "Lunaria protege a la cría de Citlali, llamada pollo durante la batalla, con alas espectrales al preparar su explosión de fuego. La cría sobrevive al combate mostrado y al terminar permanece agazapada, sin entender la pérdida pero percibiendo que algo grave les ha ocurrido a sus compañeros.",
+        "referencias": [
+          "43-054",
+          "43-058",
+          "43-060"
+        ]
       }
     ],
     "Fred": [
@@ -575,7 +687,9 @@
         "titulo": "Instrumental para la defensa",
         "texto": "Gobs acude a la concentración de Shiaru y organiza agujas, una sierra y un taladro en su mochila antes de la batalla. El pasaje muestra su disposición y su instrumental, sin representar una intervención médica.",
         "referencias": [
-          "42-006"
+          "42-006",
+          "43-001",
+          "43-006"
         ]
       }
     ],
@@ -922,6 +1036,14 @@
           "31-003",
           "35-002"
         ]
+      },
+      {
+        "titulo": "Rifles y barricadas en Shiaru",
+        "texto": "Liz prepara armas con sus compañeras durante la concentración en la plaza. Después de que los barcos zarpen permanece en Shiaru, distribuyendo a las mujeres con rifles por esquinas y barricadas para defender el poblado. La sesión todavía no muestra que la Marina alcance esas posiciones.",
+        "referencias": [
+          "43-006",
+          "43-008"
+        ]
       }
     ],
     "Lucy": [
@@ -1179,6 +1301,40 @@
         "referencias": [
           "42-006",
           "42-011"
+        ]
+      },
+      {
+        "titulo": "Al frente del embudo terrestre",
+        "texto": "Molly prepara la defensa de tierra de Shiaru y acompaña a Eleanor y Erandy al punto protegido por trampas y tiradores. Reconoce la inferior preparación de sus aproximadamente veinte piratas y cree que no podrán vencer. Les permite retirarse si es necesario, especialmente para proteger a Erandy, y recuerda que ya no ostenta su antiguo cargo de capitana. Recibe de Eleanor un broche y un ofrecimiento ligado a una leyenda. Después distribuye la emboscada y espera en el terreno cuando los fusileros de la Marina abren fuego.",
+        "referencias": [
+          "43-005",
+          "43-010",
+          "43-014",
+          "43-015",
+          "43-016",
+          "43-020"
+        ]
+      },
+      {
+        "titulo": "Junto a la carga terrestre",
+        "texto": "Molly observa la fuerza de Erandy y carga junto a Eleanor y los piratas. La metralla la alcanza, pero continúa disparando y protegiendo a sus compañeros. Más tarde se une al frente de Citlali y Lunaria. El pasaje en que una aliada intercepta un golpe contra Citlali y la advierte del peligro se conserva por continuidad junto a Molly, aunque el reconocimiento alterna Bonnie y Morí y exige cautela en la atribución.",
+        "referencias": [
+          "43-023",
+          "43-026",
+          "43-028",
+          "43-029",
+          "43-035",
+          "43-041"
+        ]
+      },
+      {
+        "titulo": "La victoria terrestre y la noticia de Nox",
+        "texto": "Molly sigue luchando en el frente de la jungla y recorre los flancos con los piratas durante la retirada de los marines. Al terminar se acerca herida, ensangrentada y sin aliento. La expresión de Citlali, que llora a Nox como a un hijo, la deja inmóvil y hace que se le caiga el arma.",
+        "referencias": [
+          "43-048",
+          "43-055",
+          "43-058",
+          "43-059"
         ]
       }
     ],
@@ -2112,6 +2268,18 @@
         "texto": "Taylor relata que capturó un barco que viajaba hacia Puerto de Espadas y a un joven cuyo nombre recuerda como Jackie. Según él, el cautivo hablaba de una isla de tesoros y grandes piratas. Bonnie había leído la carta enviada sobre ese hallazgo. La captura no se muestra y el nombre sigue siendo incierto.",
         "referencias": [
           "42-070"
+        ]
+      }
+    ],
+    "Entidad serpentina vinculada a Citlali": [
+      {
+        "titulo": "La orden de matar y el altar encendido",
+        "texto": "El ser se aproxima durante la visión en que Citlali intenta alcanzar a Nox y le toma la mano. Le ordena matar a los marines y quitarles la juventud; su siseo se vuelve agradable mientras ella drena a sus enemigos. En el epílogo, la misma figura se acerca a un altar y enciende símbolos idénticos a los tatuajes de Citlali, anunciando que ya es la hora.",
+        "referencias": [
+          "43-045",
+          "43-046",
+          "43-050",
+          "43-062"
         ]
       }
     ]

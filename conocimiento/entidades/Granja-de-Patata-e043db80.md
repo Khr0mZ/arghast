@@ -12,7 +12,7 @@ Base para revisar equivalencia: [15-003](../capitulos/15.md), [15-007](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 42.
+Relato revisado hasta el capítulo 43.
 
 ### Sembrar junto al camino
 

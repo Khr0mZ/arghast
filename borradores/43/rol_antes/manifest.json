@@ -1,0 +1,2154 @@
+{
+  "schema": 1,
+  "campana": "xoltacan",
+  "zona_horaria": "Europe/Madrid",
+  "revision_completa": true,
+  "manifest_original_sha256": "081ae3843c5ae2a978286ebad7031113c0f2b3000b329615602bf901c1103ae0",
+  "criterio_temporal": "horario_y_duracion_con_retrasos",
+  "escenas": [
+    {
+      "id": "x-1465411590789795962",
+      "archivo": "escenas/x-1465411590789795962.json",
+      "sha256": "a0fb47d209180eb3922bb0fadc67c5b296a62496eab8364425361940535c6dd0"
+    },
+    {
+      "id": "x-1466700090918965396",
+      "archivo": "escenas/x-1466700090918965396.json",
+      "sha256": "118318ec1342bdeb6a72cb631ac01bff267cff431416521c0a62f58deb582871"
+    },
+    {
+      "id": "x-1467354350086131712",
+      "archivo": "escenas/x-1467354350086131712.json",
+      "sha256": "dcd648ff230dbe306cbfaa05a7429958674866bd2dbc9c2d6380e5c597f9c6a0"
+    },
+    {
+      "id": "x-1467485757097639938",
+      "archivo": "escenas/x-1467485757097639938.json",
+      "sha256": "28aefa36f6121120e3434ef261012182e147c6d64d553dcd0ddec1c78b24cb99"
+    },
+    {
+      "id": "x-1467785008793124950",
+      "archivo": "escenas/x-1467785008793124950.json",
+      "sha256": "2ac02849731bf705eafc6b0a545d59c8a13df1d1b7ecef36d9df4c40e57efa79"
+    },
+    {
+      "id": "x-1468515963455410250",
+      "archivo": "escenas/x-1468515963455410250.json",
+      "sha256": "3aa5c7592375eefc3717fbe80ab6a0c144f5d8266939b3e11eaf546258e9333a"
+    },
+    {
+      "id": "x-1468551353885261954",
+      "archivo": "escenas/x-1468551353885261954.json",
+      "sha256": "d9fdda60e12a9d037f8390eb32d2f815093c243a17dccea5bec32013ed1e52ca"
+    },
+    {
+      "id": "x-1468619012509536378",
+      "archivo": "escenas/x-1468619012509536378.json",
+      "sha256": "c6662d695d5ff1b06cb5213042a7a57e1d6d169dd9f6442a3be980fee12b46ef"
+    },
+    {
+      "id": "x-1468867358767579179",
+      "archivo": "escenas/x-1468867358767579179.json",
+      "sha256": "c007aa675bb8fc45edba2eb6d3bcd76d6dec2de6d7a06b6905f5302516a6c983"
+    },
+    {
+      "id": "x-1468884283354648713",
+      "archivo": "escenas/x-1468884283354648713.json",
+      "sha256": "620f530c92d412c2e7a18155a8b3ac440d5b7a54e3d5c8b0eeb70252fd954261"
+    },
+    {
+      "id": "x-1468977973762850954",
+      "archivo": "escenas/x-1468977973762850954.json",
+      "sha256": "c5ee9a72cbd63c8448672e53138933bc0b1a74d3a2eb2d84794e948d5660ac0d"
+    },
+    {
+      "id": "x-1469234004980011161",
+      "archivo": "escenas/x-1469234004980011161.json",
+      "sha256": "de41cde43df8154b3bf72b6e0c6f2e77997353b0afb2c18108c1382ec9f3f770"
+    },
+    {
+      "id": "x-1469244129182482615",
+      "archivo": "escenas/x-1469244129182482615.json",
+      "sha256": "070e21e3f0de8b7f76065da1e736920b3b47aa0cd294c2e6676dd1e538e43da2"
+    },
+    {
+      "id": "x-1470728082959892555",
+      "archivo": "escenas/x-1470728082959892555.json",
+      "sha256": "2ffadd1cf4aa2cd5fdd65bd3c112162621951043e52706ab78eeb974aca38709"
+    },
+    {
+      "id": "x-1470784021985493186",
+      "archivo": "escenas/x-1470784021985493186.json",
+      "sha256": "86a89afd1234080103d8d63a378adf5ab23ed883e1b8438af007ac29dfd18160"
+    },
+    {
+      "id": "x-1471063866669531137",
+      "archivo": "escenas/x-1471063866669531137.json",
+      "sha256": "ae7d50e071248ed50802a7ac090e098f3ef6e67c909455d4bb1c295ba7e17df3"
+    },
+    {
+      "id": "x-1471262002801283202",
+      "archivo": "escenas/x-1471262002801283202.json",
+      "sha256": "35f304d0b0f7916974408817d66b8ee9e5808a06ce0ea2c11573f81d724fc555"
+    },
+    {
+      "id": "x-1471453926686589032",
+      "archivo": "escenas/x-1471453926686589032.json",
+      "sha256": "d4d29befc6143a9ffe6daf5ecd050caf68a44e62b86567fbff2b5a1a66ba0bfa"
+    },
+    {
+      "id": "x-1471472414809653332",
+      "archivo": "escenas/x-1471472414809653332.json",
+      "sha256": "63cb0a0df04c40ab6980a71f2abcd0a98682e41b64b1af60b965a4388439b686"
+    },
+    {
+      "id": "x-1471501361916018901",
+      "archivo": "escenas/x-1471501361916018901.json",
+      "sha256": "e6bab6f8c46a8e2a4c20b4c624cab0099c7bf89cb02c94f22c6b37d9911183e1"
+    },
+    {
+      "id": "x-1472552556910612541",
+      "archivo": "escenas/x-1472552556910612541.json",
+      "sha256": "c5f4f3a2f7e76b62a7805121ac21939f50ada371b8bf7e4fc0a90224216546e7"
+    },
+    {
+      "id": "x-1472895769026756670",
+      "archivo": "escenas/x-1472895769026756670.json",
+      "sha256": "c836c601bf477424a17e6273f3fb37b5f4b81acd4167a3e301dfdf44447f56a0"
+    },
+    {
+      "id": "x-1473013492142444616",
+      "archivo": "escenas/x-1473013492142444616.json",
+      "sha256": "a18a3e497aca6586c3d5e37c6b339cd02f046efad4df9b23a95f91ac8ceb38f3"
+    },
+    {
+      "id": "x-1473022563222425660",
+      "archivo": "escenas/x-1473022563222425660.json",
+      "sha256": "ac80bf40056c842367cc36eff0ba7982924a7233789cbbf43df0ef9379c7d18a"
+    },
+    {
+      "id": "x-1473415250140201052",
+      "archivo": "escenas/x-1473415250140201052.json",
+      "sha256": "ea755bdf9fb021b5aa59a5cad6a31eb2e95baa15ef7ae3417b43f83a85b210ca"
+    },
+    {
+      "id": "x-1473695195198521487",
+      "archivo": "escenas/x-1473695195198521487.json",
+      "sha256": "450fdfac10bc937183b60ea20640a9493c5684ddee54caaf80cb4ecaaacd72dd"
+    },
+    {
+      "id": "x-1474335102963290113",
+      "archivo": "escenas/x-1474335102963290113.json",
+      "sha256": "4b45f0a211caee07b2ea0765c6caa4cffc9486013119b1c635744601771df33f"
+    },
+    {
+      "id": "x-1474765127654834266",
+      "archivo": "escenas/x-1474765127654834266.json",
+      "sha256": "a158f1fc248ae6773fad91766c9fa436b776c4e93e4386c21eaee9cbf4feee8a"
+    },
+    {
+      "id": "x-1475458615182884899",
+      "archivo": "escenas/x-1475458615182884899.json",
+      "sha256": "1a98b36fe78a6b106008062da67cafcc1771b521ab4f0486bdcdbdf16a31ddd8"
+    },
+    {
+      "id": "x-1476278021508960306",
+      "archivo": "escenas/x-1476278021508960306.json",
+      "sha256": "71d453e6603b7e55c00a517cbdb5f1a73ccb8bddf2500d11094b1b838ad9f258"
+    },
+    {
+      "id": "x-1476350865458597999",
+      "archivo": "escenas/x-1476350865458597999.json",
+      "sha256": "68ac5044c524b74ddfad7f0f2a06f2ef4d6a2d9ebbf93d30a235bb26a781a8d8"
+    },
+    {
+      "id": "x-1476353945050943620",
+      "archivo": "escenas/x-1476353945050943620.json",
+      "sha256": "166cb3646883ad5cd578b04735a280104177c5d95a7ca31ef6642711605daab8"
+    },
+    {
+      "id": "x-1476494777800458351",
+      "archivo": "escenas/x-1476494777800458351.json",
+      "sha256": "f6737701239ef592b00ada671aff33ee75ad723a42a362590812548776731af8"
+    },
+    {
+      "id": "x-1476619358179688701",
+      "archivo": "escenas/x-1476619358179688701.json",
+      "sha256": "d3c1ea563e491197ab40f19bf3dc82d7bca4c5e1367772f2fd1f441039d67a1b"
+    },
+    {
+      "id": "x-1476961014330298519",
+      "archivo": "escenas/x-1476961014330298519.json",
+      "sha256": "b3857d1d6e518289375095b80c1872ddaf19d35e4d571ead8403ef72dfb72327"
+    },
+    {
+      "id": "x-1477277657363255359",
+      "archivo": "escenas/x-1477277657363255359.json",
+      "sha256": "1dc84164d99c00d235492188875821688a239ff40abcfa8409ba338aa77c9d45"
+    },
+    {
+      "id": "x-1477623178846273671",
+      "archivo": "escenas/x-1477623178846273671.json",
+      "sha256": "84b01d8221110494504d974df2a233e0bbe882ae15e536686fe090660ca60c6e"
+    },
+    {
+      "id": "x-1478809294416642139",
+      "archivo": "escenas/x-1478809294416642139.json",
+      "sha256": "3603a20663e83ed2a86b02f1a5e043daab175f9fae673c51b3df2fe30007ec04"
+    },
+    {
+      "id": "x-1479032390113558528",
+      "archivo": "escenas/x-1479032390113558528.json",
+      "sha256": "09c29473e81722844103dd3c4d7b0cb6ae995556ddc4a1413a55d70b18fd01c3"
+    },
+    {
+      "id": "x-1479078210724692109",
+      "archivo": "escenas/x-1479078210724692109.json",
+      "sha256": "dd707c19e0754473aebce201b8d04f5dbd74ac27baea33e5e888f2cc7d683b71"
+    },
+    {
+      "id": "x-1479371105306279997",
+      "archivo": "escenas/x-1479371105306279997.json",
+      "sha256": "950b9ad971eb107fb6050a55660109a84ce063456a642d3a8e6e3b8676310fb0"
+    },
+    {
+      "id": "x-1479387576749260852",
+      "archivo": "escenas/x-1479387576749260852.json",
+      "sha256": "4f5b7cef29bd5714043b5dd6145187f3acb76e139e5cbd2fab45537f3f6e5d3a"
+    },
+    {
+      "id": "x-1479420727064006696",
+      "archivo": "escenas/x-1479420727064006696.json",
+      "sha256": "f5e1e1e3f0e410ef2a19b8287e0d030202ceb4fef37b5f497242733d3af67d52"
+    },
+    {
+      "id": "x-1479421267017728095",
+      "archivo": "escenas/x-1479421267017728095.json",
+      "sha256": "ce9fa47b84122c2ea3d63714b3e955812db33dff6f737d71c55197c89a391260"
+    },
+    {
+      "id": "x-1479451231830409267",
+      "archivo": "escenas/x-1479451231830409267.json",
+      "sha256": "442f8b39cc82403dfca2e74fe2ede8501432078cb1ec3cb79595896d08088231"
+    },
+    {
+      "id": "x-1479452841037795431",
+      "archivo": "escenas/x-1479452841037795431.json",
+      "sha256": "ce22b4b7b6e6098f5c6285594034cc72dd53ae793122f8c19859be6f904d0f82"
+    },
+    {
+      "id": "x-1479828448095768588",
+      "archivo": "escenas/x-1479828448095768588.json",
+      "sha256": "3e37da6b7c044e0f70cda12dcd3536863ac918fac9c904737cf7b2d2ac493cee"
+    },
+    {
+      "id": "x-1479936809256620233",
+      "archivo": "escenas/x-1479936809256620233.json",
+      "sha256": "1e121aee8f724b251f1455fdc8fe859bdc43596ef03daeeae1452326be578894"
+    },
+    {
+      "id": "x-1479974842530009088",
+      "archivo": "escenas/x-1479974842530009088.json",
+      "sha256": "c1eb28ec8be6ce5200d33717bf8ad2d5d6994bb2bde8f4d73971e280a558ff44"
+    },
+    {
+      "id": "x-1480164369731026955",
+      "archivo": "escenas/x-1480164369731026955.json",
+      "sha256": "54787b61454f7dee565c84e3dc9d0f0347031269cd6905766ec9b3c193225f41"
+    },
+    {
+      "id": "x-1480501980714635377",
+      "archivo": "escenas/x-1480501980714635377.json",
+      "sha256": "3ed1ee3a36b70ae216e5f13458f3e483210f109b25113a8c93f258e639b00bae"
+    },
+    {
+      "id": "x-1480548648877031537",
+      "archivo": "escenas/x-1480548648877031537.json",
+      "sha256": "354dc146e7baf5375ec1dc8fe01fcd4a6f2482d55776d12f9d17e3c259a6def2"
+    },
+    {
+      "id": "x-1480568753543708713",
+      "archivo": "escenas/x-1480568753543708713.json",
+      "sha256": "c056dc7b536a7bec04677be15957abac76a150ace40ed56c8e4a87692cb8a6fe"
+    },
+    {
+      "id": "x-1480625321408725155",
+      "archivo": "escenas/x-1480625321408725155.json",
+      "sha256": "c90a11d42646a2509a127ab0abb26257bb694a687e6061a4f343931bae68c7b9"
+    },
+    {
+      "id": "x-1481320941383323689",
+      "archivo": "escenas/x-1481320941383323689.json",
+      "sha256": "5323058158aa51e0f6a65b82cd996290a73de797d417d867f7a55359b43d152b"
+    },
+    {
+      "id": "x-1481637221940334603",
+      "archivo": "escenas/x-1481637221940334603.json",
+      "sha256": "1b2f57d90c65dcaa264c100426a2f173058c5955554928ecbe0f5f12610400a6"
+    },
+    {
+      "id": "x-1481675439809495166",
+      "archivo": "escenas/x-1481675439809495166.json",
+      "sha256": "4966ab2af93355b66ccb7758a7f8937a8469c08facc67390935bc3bdb4119be2"
+    },
+    {
+      "id": "x-1481917502400233544",
+      "archivo": "escenas/x-1481917502400233544.json",
+      "sha256": "bd3bb6c9666fdb9f231ce73d157e981a304c2b8076b009a76fe38da82cdda17a"
+    },
+    {
+      "id": "x-1481920577970114692",
+      "archivo": "escenas/x-1481920577970114692.json",
+      "sha256": "937f7b69c7968e658607a028e99775b1108e9c629afdbf2d9e51b331f02402e5"
+    },
+    {
+      "id": "x-1481938373894738061",
+      "archivo": "escenas/x-1481938373894738061.json",
+      "sha256": "525a8ee09c7d8ff7a5a1fb93158956c19968fbcaf53b7228b476a6180aae2105"
+    },
+    {
+      "id": "x-1482013027099476090",
+      "archivo": "escenas/x-1482013027099476090.json",
+      "sha256": "9927535da70d3339d25bc24b04dbd18933ed6e436388d78a180cdb4a05d8c56e"
+    },
+    {
+      "id": "x-1482056841369489448",
+      "archivo": "escenas/x-1482056841369489448.json",
+      "sha256": "b093d0ba8e7c1921c3968bb41f22b55088f00703217cc5d428bc19dafb0338c3"
+    },
+    {
+      "id": "x-1482318486817738803",
+      "archivo": "escenas/x-1482318486817738803.json",
+      "sha256": "4f24c51a983e8e0f417400b7d58138354bcba6296cec52add74422ae4901a713"
+    },
+    {
+      "id": "x-1482330037255671808",
+      "archivo": "escenas/x-1482330037255671808.json",
+      "sha256": "0a7adf973228658e49c7634d8dcc24f11bb60c7037fdca598e8fd1423e2b8d96"
+    },
+    {
+      "id": "x-1482375495793250517",
+      "archivo": "escenas/x-1482375495793250517.json",
+      "sha256": "ec192628aceae99009e887ffc21dc50687adc1685cdc5cd2b191607a053997dc"
+    },
+    {
+      "id": "x-1482713491503579136",
+      "archivo": "escenas/x-1482713491503579136.json",
+      "sha256": "385621fb72f1e606d0075eceebfaf219f4fbd54900c855c2b89bcead0e121a01"
+    },
+    {
+      "id": "x-1482733716840120510",
+      "archivo": "escenas/x-1482733716840120510.json",
+      "sha256": "759ed2dc3d205f520dbdfc2ddaa4d3fba14cec45cfb2a57eb27dae1b80198432"
+    },
+    {
+      "id": "x-1483024244794196050",
+      "archivo": "escenas/x-1483024244794196050.json",
+      "sha256": "5a637b07ad488fb483efb0918fb2657369f6bba56bd2b512224ce0ebc2cd79ba"
+    },
+    {
+      "id": "x-1483447609946542101",
+      "archivo": "escenas/x-1483447609946542101.json",
+      "sha256": "f80def3df936a256b2dabd23b19b64bac74b52ec632ff8ef5a2023e092e2ea8c"
+    },
+    {
+      "id": "x-1483867371851743262",
+      "archivo": "escenas/x-1483867371851743262.json",
+      "sha256": "a04ec493b38c1934d5a78e2351f75cfdb41a5c5956bbc9f27d94ed16ab234cd5"
+    },
+    {
+      "id": "x-1484138901583953951",
+      "archivo": "escenas/x-1484138901583953951.json",
+      "sha256": "4bdbecc1cbab0046e7dedb5765267decd35f35baa32f76f1dc1e6784aca4a366"
+    },
+    {
+      "id": "x-1484182511868317776",
+      "archivo": "escenas/x-1484182511868317776.json",
+      "sha256": "af8929f38b00aeadc9f98f98b8af1d83bbe21749e160a803cbc6f2db2b386f1f"
+    },
+    {
+      "id": "x-1484211697303420999",
+      "archivo": "escenas/x-1484211697303420999.json",
+      "sha256": "564f8a38f59770c7e431bc9f9b4a4c3f679a5620f91afe002ade63d2fff9ec41"
+    },
+    {
+      "id": "x-1484222155477614603",
+      "archivo": "escenas/x-1484222155477614603.json",
+      "sha256": "50effe88ecbabc1d32fc90b874d07bf8c80b98cbc711e8c88e26a7370607a668"
+    },
+    {
+      "id": "x-1484233839172911214",
+      "archivo": "escenas/x-1484233839172911214.json",
+      "sha256": "2881937e82fd788e66535d07ab547738c20a49b45025f575cdfb7d7ff47ee609"
+    },
+    {
+      "id": "x-1484320379274002692",
+      "archivo": "escenas/x-1484320379274002692.json",
+      "sha256": "43f972ab235c21e5d12909333a8ae4b7bc0dbc8eadd7ed6479ba2cd9f66343d8"
+    },
+    {
+      "id": "x-1484955354566758650",
+      "archivo": "escenas/x-1484955354566758650.json",
+      "sha256": "c270b28abe1475611155d75a31f08cb309e22330166acaf30277854bb9fa7519"
+    },
+    {
+      "id": "x-1485221493045465139",
+      "archivo": "escenas/x-1485221493045465139.json",
+      "sha256": "39316f77d85dce73b3aa8de5a6faa03559e221ab662971e8e578fe0d0a148fb2"
+    },
+    {
+      "id": "x-1486621029311975574",
+      "archivo": "escenas/x-1486621029311975574.json",
+      "sha256": "b562dca1bce8c9bce095c708c65a71bc2a737483305ac95df1f56f5fbd6d8ac2"
+    },
+    {
+      "id": "x-1486980590283522058",
+      "archivo": "escenas/x-1486980590283522058.json",
+      "sha256": "bdb68cbb3682e70111be511b69819a672c12748e315bc250283ec5128d56df37"
+    },
+    {
+      "id": "x-1486994030767378563",
+      "archivo": "escenas/x-1486994030767378563.json",
+      "sha256": "744d002310f9f16fbf329f6d7a29f769c0511268fc264163bbfc86b9afd5e151"
+    },
+    {
+      "id": "x-1487767525403131954",
+      "archivo": "escenas/x-1487767525403131954.json",
+      "sha256": "7dd0a0b7f7909c374b2322c4358e53a762a63be22946ee3d7d517d7d232b3524"
+    },
+    {
+      "id": "x-1488113276922495088",
+      "archivo": "escenas/x-1488113276922495088.json",
+      "sha256": "5f9c892b3f37f476014076ed83a36a4c905e8300d051e381de857bc661abed30"
+    },
+    {
+      "id": "x-1489533834339811389",
+      "archivo": "escenas/x-1489533834339811389.json",
+      "sha256": "8a073b6c839ee534c4eae8bd86dee7b2e29219a79232648d9c3d0c4aca040ce0"
+    },
+    {
+      "id": "x-1489580183265476690",
+      "archivo": "escenas/x-1489580183265476690.json",
+      "sha256": "d8fafec201d4db956d18d2cbdf863de58a82b2f1c6471720ed17be0a5f02f649"
+    },
+    {
+      "id": "x-1490769386221469876",
+      "archivo": "escenas/x-1490769386221469876.json",
+      "sha256": "4e98d9c7543224757f8d2f5ecd72f408a69de9420b0838ba4a4734ed8d72a2e8"
+    },
+    {
+      "id": "x-1492176792763760711",
+      "archivo": "escenas/x-1492176792763760711.json",
+      "sha256": "711d48664cbe5e07c3f6aa80668470073e3c8471fe2e0edd78235ca70097fe01"
+    },
+    {
+      "id": "x-1493245724471726171",
+      "archivo": "escenas/x-1493245724471726171.json",
+      "sha256": "493a216f5c4ed943067e83c97f9298e40bea7fb9f64a277bfc0667a2df03bcda"
+    },
+    {
+      "id": "x-1494293901647941632",
+      "archivo": "escenas/x-1494293901647941632.json",
+      "sha256": "0943897062264b666f00b9f7ca7f282fa5862760c0313c7a6a051846da521f3f"
+    },
+    {
+      "id": "x-1494456833711149166",
+      "archivo": "escenas/x-1494456833711149166.json",
+      "sha256": "a229b0aca1183c33d22b52803309413540b6b7e346121e3ff0ae7070659204a1"
+    },
+    {
+      "id": "x-1494565628995178496",
+      "archivo": "escenas/x-1494565628995178496.json",
+      "sha256": "c76fb629944372a4077b955fb41f3a47214cff857214c7449dae16c1f42770b6"
+    },
+    {
+      "id": "x-1494696236714950698",
+      "archivo": "escenas/x-1494696236714950698.json",
+      "sha256": "041bd3ee771f0768ac51b65f236cfcf54eab529ece30f7d654f80b9097fa8639"
+    },
+    {
+      "id": "x-1495031081336967241",
+      "archivo": "escenas/x-1495031081336967241.json",
+      "sha256": "40f431823ac7b0075f41ac7ed674417624fa946365e9d0d9bd28fbcadd366387"
+    },
+    {
+      "id": "x-1495510829133594706",
+      "archivo": "escenas/x-1495510829133594706.json",
+      "sha256": "c7af8d10b371a923e8dd56469df45d8e81401ecf5ed9e9e3db5dfb9f95b8f15b"
+    },
+    {
+      "id": "x-1495716479587319899",
+      "archivo": "escenas/x-1495716479587319899.json",
+      "sha256": "bb620a5d994bf4f697b60d506a831a5e37297d99d3b1724a0bb0498e518844f7"
+    },
+    {
+      "id": "x-1495803939105407148",
+      "archivo": "escenas/x-1495803939105407148.json",
+      "sha256": "856901c215bc0847eb2851c38c2e930c1001f95cd8d3207959fe7594a1c02207"
+    },
+    {
+      "id": "x-1495828307843747971",
+      "archivo": "escenas/x-1495828307843747971.json",
+      "sha256": "79eae98cb4ee9e686017c1f5f37ccaa9413614976c2d480a391892d0905ec640"
+    },
+    {
+      "id": "x-1496498258170875994",
+      "archivo": "escenas/x-1496498258170875994.json",
+      "sha256": "e7a3479e0ce22983f5c81150cf7c54fdfd28507d17b8477c81c89248306079c7"
+    },
+    {
+      "id": "x-1496540795740885013",
+      "archivo": "escenas/x-1496540795740885013.json",
+      "sha256": "3c33dbc75dc0c0e968fe23a5872cff7a6c2f29eb1146fa3142c854c1478d7d1c"
+    },
+    {
+      "id": "x-1497126880858607700",
+      "archivo": "escenas/x-1497126880858607700.json",
+      "sha256": "ea11dfda382a68a1a877380578aee08583a4c7074e82545a4aa70a98c6c970aa"
+    },
+    {
+      "id": "x-1497223667044847666",
+      "archivo": "escenas/x-1497223667044847666.json",
+      "sha256": "fceaa9eba39ca973ba7aad063bf96d186e75d3051485064442e53bc1bf0e5ea8"
+    },
+    {
+      "id": "x-1497619131359559731",
+      "archivo": "escenas/x-1497619131359559731.json",
+      "sha256": "8a9f5526b9f4f0bc20533cc4a97c1ad20bc229363557fece267ddae8b13189b8"
+    },
+    {
+      "id": "x-1499175488139296859",
+      "archivo": "escenas/x-1499175488139296859.json",
+      "sha256": "0d3175d90acc94f9839af76f61be5dbe9571be86370659109cba38affc3f8c46"
+    },
+    {
+      "id": "x-1499175494615044227",
+      "archivo": "escenas/x-1499175494615044227.json",
+      "sha256": "2fb04781cefe02c64f55849d1cb0cfeac868dcf6f94bdfa2592abc4d313633e6"
+    },
+    {
+      "id": "x-1499340631514943589",
+      "archivo": "escenas/x-1499340631514943589.json",
+      "sha256": "c2fbe0498486658bcaafd965ca0058ee0713539c347508cc5c8562a554db88bc"
+    },
+    {
+      "id": "x-1499411997509554316",
+      "archivo": "escenas/x-1499411997509554316.json",
+      "sha256": "4a43815a0a7552c584aceaab2ddafabadaf9d18c7e63080fda4416b1ecccce46"
+    },
+    {
+      "id": "x-1499418685063041086",
+      "archivo": "escenas/x-1499418685063041086.json",
+      "sha256": "bc94beddba52c3638e17678b060cd19db1da97cdd16a4bd80a224eb5766922bc"
+    },
+    {
+      "id": "x-1499441897444216833",
+      "archivo": "escenas/x-1499441897444216833.json",
+      "sha256": "43d2bd9e246ebef63c92c7015f99e488b69699d579af4c9fbde9c956d70e0b5c"
+    },
+    {
+      "id": "x-1500067860217597993",
+      "archivo": "escenas/x-1500067860217597993.json",
+      "sha256": "3e701ebc2829a7ca67692ea7c6ec92fdb47fa5f1c0672c65f8de9058d5e6b1a6"
+    },
+    {
+      "id": "x-1501136594319441992",
+      "archivo": "escenas/x-1501136594319441992.json",
+      "sha256": "d2be4d2a32508dc61eb365b993673f1938ed9da094ae64d005635de30acfa9e5"
+    },
+    {
+      "id": "x-1501220172042866839",
+      "archivo": "escenas/x-1501220172042866839.json",
+      "sha256": "fd08aa1d26c732a1040fdfb0e50df8bb8147cdc9f6613472ec3700311a5848c7"
+    },
+    {
+      "id": "x-1502314611448348904",
+      "archivo": "escenas/x-1502314611448348904.json",
+      "sha256": "de112ae71e0ba5cae950c6551b3ad68facae54866f4eb8ea3e5530aa8f061b99"
+    },
+    {
+      "id": "x-1502317868253970632",
+      "archivo": "escenas/x-1502317868253970632.json",
+      "sha256": "5b54d293c6102fef179c811fb2b7af7072e89d433eb7be793ec9a23b0a9e9487"
+    },
+    {
+      "id": "x-1502338558827167976",
+      "archivo": "escenas/x-1502338558827167976.json",
+      "sha256": "b0df631a4604d54a2953f6ec6025480b4df2cae70cb9356d2560da34736f6ee6"
+    },
+    {
+      "id": "x-1502416387870556191",
+      "archivo": "escenas/x-1502416387870556191.json",
+      "sha256": "bc918796470f5643964889bfd3e8e885c1a3ba7e6c40d3f43cbc42bf79e8d5ca"
+    },
+    {
+      "id": "x-1502430369985855568",
+      "archivo": "escenas/x-1502430369985855568.json",
+      "sha256": "d5a8087a20a653acb3346776c41c202a00bea0fdf9d556d9fb0a2d4ec59b24d3"
+    },
+    {
+      "id": "x-1503179517689069712",
+      "archivo": "escenas/x-1503179517689069712.json",
+      "sha256": "93ed48e64622a6ce99f38e2ab1c82c6b45687e7be3b39b5966efc499cb4b6a99"
+    },
+    {
+      "id": "x-1503285689469636658",
+      "archivo": "escenas/x-1503285689469636658.json",
+      "sha256": "d65c3eb592bfc7c9a2f5b20af0e5e19fc0f1d7c2297fc10416cfdbd655f8d11e"
+    },
+    {
+      "id": "x-1503298446470287542",
+      "archivo": "escenas/x-1503298446470287542.json",
+      "sha256": "770df4417e4d4260cb233eb25bb713393b3982d76a1fe5dd7f601ef07b7171e2"
+    },
+    {
+      "id": "x-1504486125593690366",
+      "archivo": "escenas/x-1504486125593690366.json",
+      "sha256": "5e54dee2d306ff20833995ae760a010adb713cb46d3f5febb403076f16d76e2e"
+    },
+    {
+      "id": "x-1504615516642480128",
+      "archivo": "escenas/x-1504615516642480128.json",
+      "sha256": "00ca0b60de5079235947f1cfbebe11968c73c4d9a6fd1bfc44cb48041cf391d3"
+    },
+    {
+      "id": "x-1504724660288356372",
+      "archivo": "escenas/x-1504724660288356372.json",
+      "sha256": "3e459e4cfa6e7797b11dfb57f8a7ed340c6deb7cf628af026d933d67e3b7acf8"
+    },
+    {
+      "id": "x-1504953926569558127",
+      "archivo": "escenas/x-1504953926569558127.json",
+      "sha256": "425f38bc0024dc97e5dfb05954f4d1f5682fd0374e18ca6a8e206d119b640c54"
+    },
+    {
+      "id": "x-1504969212240592937",
+      "archivo": "escenas/x-1504969212240592937.json",
+      "sha256": "0a5d7474b79df674aa2d1b30d89458a93dfdf7c93ff15968f64d210fbf32c688"
+    },
+    {
+      "id": "x-1504973878026567932",
+      "archivo": "escenas/x-1504973878026567932.json",
+      "sha256": "1a3d173c4731db851efd788f131fdd4358294b98c36cc289bb000d57aaadc604"
+    },
+    {
+      "id": "x-1505095606950166569",
+      "archivo": "escenas/x-1505095606950166569.json",
+      "sha256": "02a86fa938f93d352a1f28645f363e18aaa2f037b714a6afd64c4fd76c8c9c60"
+    },
+    {
+      "id": "x-1505136569097650276",
+      "archivo": "escenas/x-1505136569097650276.json",
+      "sha256": "e0fd56324b3b71c71a9da4728e9fec4ed7d45d7a33a7ef7c0947d193fa9e7c00"
+    },
+    {
+      "id": "x-1505152709840470138",
+      "archivo": "escenas/x-1505152709840470138.json",
+      "sha256": "3af04354d824b5ca241b93c09641e17f2c9c2b69c67ae349a207eb959cec8ac3"
+    },
+    {
+      "id": "x-1505176584590721064",
+      "archivo": "escenas/x-1505176584590721064.json",
+      "sha256": "8d4b9abaeec9d2bc5ca271b8838a01050f96a383a3f7dc431766180c89731677"
+    },
+    {
+      "id": "x-1505190932088098826",
+      "archivo": "escenas/x-1505190932088098826.json",
+      "sha256": "d45214bd80bfe0b9676ccdf026122acd40c1c419d05e24f938077a5953ea34a9"
+    },
+    {
+      "id": "x-1505253245143089152",
+      "archivo": "escenas/x-1505253245143089152.json",
+      "sha256": "3758a46b71699c12a813d74a32acb793f58d1d9a2d4cf646352bd16f21d15b62"
+    },
+    {
+      "id": "x-1505604450889371892",
+      "archivo": "escenas/x-1505604450889371892.json",
+      "sha256": "c62e11ab78760e14bb1a6c08f719e1397bf929e058ff271843178ec4122ef8df"
+    },
+    {
+      "id": "x-1505862190089900063",
+      "archivo": "escenas/x-1505862190089900063.json",
+      "sha256": "eff77a317f2c158258d378438cbc4e36d6c9bb5f50a0d2512bc91da68f77a9f7"
+    },
+    {
+      "id": "x-1506323491224424640",
+      "archivo": "escenas/x-1506323491224424640.json",
+      "sha256": "b028ab69e6566a99e3b7ac85b55979139d467c0e5b7b43e73d6c41f2a30c99f5"
+    },
+    {
+      "id": "x-1506338859191894037",
+      "archivo": "escenas/x-1506338859191894037.json",
+      "sha256": "e6447a67139327205e256c8cc4a99c0bc59fd4c96a346736dbc07fbb0a684910"
+    },
+    {
+      "id": "x-1506584437201047605",
+      "archivo": "escenas/x-1506584437201047605.json",
+      "sha256": "5e7381166cf4c984d651117536f2c6164dc2a5ae4a9239189dacbc4746256855"
+    },
+    {
+      "id": "x-1506987669291274262",
+      "archivo": "escenas/x-1506987669291274262.json",
+      "sha256": "00e1cb65883f69806268c76e81a583e6d70ef1c6e0affbbd86fa87afcb591c11"
+    },
+    {
+      "id": "x-1507311901221060748",
+      "archivo": "escenas/x-1507311901221060748.json",
+      "sha256": "6914fb59486100f801112499f361e23dd978bb6e1c81e24f1b9ab7ace8e04c5e"
+    },
+    {
+      "id": "x-1508758741682622495",
+      "archivo": "escenas/x-1508758741682622495.json",
+      "sha256": "66e2ee74daab3de96146cd0667c9b669127751e8555734cfbe26984426bfe383"
+    },
+    {
+      "id": "x-1511346532874457281",
+      "archivo": "escenas/x-1511346532874457281.json",
+      "sha256": "4f360029fac03d76db5d6fefa13cd55293401e6535ea05cfed78f384e5236c13"
+    },
+    {
+      "id": "x-1511376374424670498",
+      "archivo": "escenas/x-1511376374424670498.json",
+      "sha256": "93c8b9f17b572bdb9ca3fa3e633b6ed14d43da1d7da857ed3342902bb762c16d"
+    },
+    {
+      "id": "x-1511483995240796283",
+      "archivo": "escenas/x-1511483995240796283.json",
+      "sha256": "68204694490b54d29f9a9971a263e141ae829890a84b79c77a1e85ba6531ef08"
+    },
+    {
+      "id": "x-1511490994456236043",
+      "archivo": "escenas/x-1511490994456236043.json",
+      "sha256": "59746eb8aec5b6f15f98b324a15b109706bdbcae411aca4462cc6ce09d8fe857"
+    },
+    {
+      "id": "x-1511524474162384936",
+      "archivo": "escenas/x-1511524474162384936.json",
+      "sha256": "483e213d1dbd394d936df8dba3b184c80628c2086b22d942839f27806ff627a0"
+    },
+    {
+      "id": "x-1511609971555438592",
+      "archivo": "escenas/x-1511609971555438592.json",
+      "sha256": "7d8c981ef3af1d253f32d76d6667c492702412354f2d343dc187b2a1595fad64"
+    },
+    {
+      "id": "x-1511660935931236402",
+      "archivo": "escenas/x-1511660935931236402.json",
+      "sha256": "7a371816af17ef8ad350bcaa961cb484f5565aceb8632e1536742532290d5689"
+    },
+    {
+      "id": "x-1511661770618699908",
+      "archivo": "escenas/x-1511661770618699908.json",
+      "sha256": "452f131c7e9305aa366a22c8d49d49a0e7bb80056519a0bcb2d15b08b92daa4e"
+    },
+    {
+      "id": "x-1512802557343563898",
+      "archivo": "escenas/x-1512802557343563898.json",
+      "sha256": "232127bc0073995ab2f60c06fa0936291eb50f71aaf9c482d74e209ee55fb14f"
+    },
+    {
+      "id": "x-1512806793753919538",
+      "archivo": "escenas/x-1512806793753919538.json",
+      "sha256": "1ccd43721d5dbaa2f162691d9f90a6003048187b32b5289527825dfab78621fd"
+    },
+    {
+      "id": "x-1513147359494934628",
+      "archivo": "escenas/x-1513147359494934628.json",
+      "sha256": "5b0c5723c01e2c3e946ffd90d7fb16951cacc9f45f82c20ec854c48eb18483a9"
+    },
+    {
+      "id": "x-1513461604342038629",
+      "archivo": "escenas/x-1513461604342038629.json",
+      "sha256": "a6822b9459bceb0c51a6891a54c7e62c6ce9ebed0cc20d223f20ac8613b1009a"
+    },
+    {
+      "id": "x-1513583476257984624",
+      "archivo": "escenas/x-1513583476257984624.json",
+      "sha256": "0bd1371a15d94d4bd07311eb602abd85a657ea2406d695bf6f69da2f8f2c5a44"
+    },
+    {
+      "id": "x-1514558057596583968",
+      "archivo": "escenas/x-1514558057596583968.json",
+      "sha256": "40e9c42fc276e4bae08a062e252f87cfa9c180f5be68a3aaef6c017c83dd2a2e"
+    },
+    {
+      "id": "x-1515764851010441447",
+      "archivo": "escenas/x-1515764851010441447.json",
+      "sha256": "e694d6928fd574f6ac4ed2bcc7dac40d9cdfb0f244491e034a5a6844cfd3b417"
+    },
+    {
+      "id": "x-1516189670839685300",
+      "archivo": "escenas/x-1516189670839685300.json",
+      "sha256": "39b64bce2202e63cabc9edae5935f5cafc1366be394256b432fac8f2c2c6eb3b"
+    },
+    {
+      "id": "x-1516201353410777199",
+      "archivo": "escenas/x-1516201353410777199.json",
+      "sha256": "a45b7ec01f7ebd0772c7222100c2852558a5cb2bac4cdbab44fa7cd3fa051a80"
+    },
+    {
+      "id": "x-1516235876576002112",
+      "archivo": "escenas/x-1516235876576002112.json",
+      "sha256": "59eb682b3efa77bf7b193db1f5a40f68cd797d175cad2b8510e91a6d227a3873"
+    },
+    {
+      "id": "x-1516287341340266516",
+      "archivo": "escenas/x-1516287341340266516.json",
+      "sha256": "ae149d9fb2dba29ef3491654aae7a7b601fd0f52b9fdadd1f656ea46cf015e85"
+    },
+    {
+      "id": "x-1516328473982013461",
+      "archivo": "escenas/x-1516328473982013461.json",
+      "sha256": "b30f279e97c566ca9a35ffaf1819593ed670f547c017d93ea52a17e3db383a80"
+    },
+    {
+      "id": "x-1516341525163016312",
+      "archivo": "escenas/x-1516341525163016312.json",
+      "sha256": "2ee190e45a83bc1dade20f4d0a6eda5f2d66b21e7eb9aa87f274de9ccbdc79f7"
+    },
+    {
+      "id": "x-1516347955882229931",
+      "archivo": "escenas/x-1516347955882229931.json",
+      "sha256": "e7f54fce17515092900da1bd642a819a94112525c271355992be2b085931ecd0"
+    },
+    {
+      "id": "x-1516482233697959968",
+      "archivo": "escenas/x-1516482233697959968.json",
+      "sha256": "b86ffa285bd958bd868ab2057fcfe283bb9ab2d660b69a6d269235ce7ba42bf5"
+    },
+    {
+      "id": "x-1516685883649032414",
+      "archivo": "escenas/x-1516685883649032414.json",
+      "sha256": "38761edcf70e20e242116ab012b735ad7e0f8689a310c7090b1eb52b282ad6c6"
+    },
+    {
+      "id": "x-1517047264676286604",
+      "archivo": "escenas/x-1517047264676286604.json",
+      "sha256": "c2465052c19d3e1f1876765f32c7ca1d38abdf5328a7734c50ed6c38dedd5f74"
+    },
+    {
+      "id": "x-1518544881499242497",
+      "archivo": "escenas/x-1518544881499242497.json",
+      "sha256": "e85be6a354530ed4b7b798108abb74e5dafff615166134f7efbf457576002c9e"
+    },
+    {
+      "id": "x-1518946340959162538",
+      "archivo": "escenas/x-1518946340959162538.json",
+      "sha256": "4fb36240883d27a23649d896954bdee2f58163aaa08160d44e0c785b9d49661b"
+    },
+    {
+      "id": "x-1519673335766843392",
+      "archivo": "escenas/x-1519673335766843392.json",
+      "sha256": "bcabebe70d8ed9f67ca97a710f3349bc39135ab16b856fa077202581c3b6e6e2"
+    },
+    {
+      "id": "x-1520741447748419594",
+      "archivo": "escenas/x-1520741447748419594.json",
+      "sha256": "ff9e2435e8417931b5e42aca09206ca6b92e69f788ddde16d29c57971aff85d2"
+    },
+    {
+      "id": "x-1520787975313690774",
+      "archivo": "escenas/x-1520787975313690774.json",
+      "sha256": "404bfb9e6e2b955784ce1ffc37a568b67c7a376dda98f5665cd769a30219648b"
+    },
+    {
+      "id": "x-1521107436256104471",
+      "archivo": "escenas/x-1521107436256104471.json",
+      "sha256": "66f3cb4ad2dced67eb790e74fe964fc871671e7bfff0e516d8f2f8b8e167faf6"
+    },
+    {
+      "id": "x-1521415101553442837",
+      "archivo": "escenas/x-1521415101553442837.json",
+      "sha256": "71af770bf2584539918774a2fb58f002b51b5e4196222f3ffa24cb98c39efc30"
+    },
+    {
+      "id": "x-1521437881569247252",
+      "archivo": "escenas/x-1521437881569247252.json",
+      "sha256": "a1e91f07c86eabbd85ff15956d8a78b1450a42b3a5f49f30e2f7ee8885864115"
+    },
+    {
+      "id": "x-1521450189230051438",
+      "archivo": "escenas/x-1521450189230051438.json",
+      "sha256": "c8f7c44f21d88468a11712a9ea895d518d54a2cb79ab0e32ed10c3893145b9dd"
+    },
+    {
+      "id": "x-1521808344829132881",
+      "archivo": "escenas/x-1521808344829132881.json",
+      "sha256": "98fa42539b2d515f601ed6072ad86722388e88d2425a9a25b43bd0340a8abaa4"
+    },
+    {
+      "id": "x-1521864785157951640",
+      "archivo": "escenas/x-1521864785157951640.json",
+      "sha256": "0752eb0d0803cddedd8986db1d7eb634c477f23ce2266c2d29a596ee97acf7cd"
+    },
+    {
+      "id": "x-1522537846169141389",
+      "archivo": "escenas/x-1522537846169141389.json",
+      "sha256": "be7f35fa538e8dffdf5b3b5c035b15d1a2e76f29da12c4a9d935eda70b924643"
+    },
+    {
+      "id": "x-1523003757917507584",
+      "archivo": "escenas/x-1523003757917507584.json",
+      "sha256": "3e9b4a787a09ccd79ce8056a54bc4f0d2f312241aa38063094489480bb52567f"
+    },
+    {
+      "id": "x-1523224925190750248",
+      "archivo": "escenas/x-1523224925190750248.json",
+      "sha256": "4d59f3cdee5e78b094d50291ca9339f8c26b104a1307072bc21f490d78bae953"
+    },
+    {
+      "id": "x-1523723120999923743",
+      "archivo": "escenas/x-1523723120999923743.json",
+      "sha256": "f6e9e24318d25aad5de24f722daffa4c62ac5627b8dc453e0c2b8219443090af"
+    },
+    {
+      "id": "x-1523910607592493128",
+      "archivo": "escenas/x-1523910607592493128.json",
+      "sha256": "9a69d7cc161794619d00340fb3c214ae8c7dd57f08023011b3f5aab4eebfdafa"
+    },
+    {
+      "id": "x-1524093212027781302",
+      "archivo": "escenas/x-1524093212027781302.json",
+      "sha256": "a9b29ca15f4df7d993ea5f7aab7bfbccc1b4e0d64d90682731953a99127ff053"
+    },
+    {
+      "id": "x-1524293375191289978",
+      "archivo": "escenas/x-1524293375191289978.json",
+      "sha256": "232c6c49033d2f0e6f9f940fc60ba8c038b782dc12ed6681fbc537156cc8db7a"
+    },
+    {
+      "id": "x-1524351953889394719",
+      "archivo": "escenas/x-1524351953889394719.json",
+      "sha256": "c0a5eef104f856a4effb5765e97b31b4ebd1ad596cceceeece90d77901ae1fcc"
+    },
+    {
+      "id": "x-1524356880258961458",
+      "archivo": "escenas/x-1524356880258961458.json",
+      "sha256": "4e058f83362351aec1da30d2991ea83a8261ec60be4a6bf6fc8d3e8953ecd1e7"
+    },
+    {
+      "id": "x-1524890107604369578",
+      "archivo": "escenas/x-1524890107604369578.json",
+      "sha256": "157fb698c9e70654dcc50df249358c2e596ac1527d599ee4d7887518b4fd1a4d"
+    },
+    {
+      "id": "x-1524899934913167481",
+      "archivo": "escenas/x-1524899934913167481.json",
+      "sha256": "943400dd183d822970ba9dbbe65cbb74acecd03b2c8e28e3d8d2066c5e0d7c15"
+    },
+    {
+      "id": "x-1525042844560003125",
+      "archivo": "escenas/x-1525042844560003125.json",
+      "sha256": "9f56ad4b595a24bbf9a424311ae4f7f8560b891a3acb584644ade1d594d4cdd3"
+    },
+    {
+      "id": "x-1525260719728103424",
+      "archivo": "escenas/x-1525260719728103424.json",
+      "sha256": "32bb9a7c1e3d27a051d86a25595e1e7168cfbb262c196af982751dc950fbf2a2"
+    },
+    {
+      "id": "x-1525362897662906398",
+      "archivo": "escenas/x-1525362897662906398.json",
+      "sha256": "616ced506471aad74c89980e8282aedb8cb5ab3c036e367aa41c09141323a35d"
+    },
+    {
+      "id": "x-1525484008106889297",
+      "archivo": "escenas/x-1525484008106889297.json",
+      "sha256": "5261c27ee98c4fe2a6130dbf355088507938550fec21b5e907cb568d418ca1f0"
+    },
+    {
+      "id": "x-1525542230541074553",
+      "archivo": "escenas/x-1525542230541074553.json",
+      "sha256": "d9532bfcf6e43db5b9cdad38d3b6703cdeb471b8d15d73ae8e406e2b12083451"
+    },
+    {
+      "id": "x-1525644061778645023",
+      "archivo": "escenas/x-1525644061778645023.json",
+      "sha256": "54922ebff6b5d83c0f690515544792630299ad79df453382365656765fabaa50"
+    },
+    {
+      "id": "x-1525804526529937569",
+      "archivo": "escenas/x-1525804526529937569.json",
+      "sha256": "3462a0ac3d0c702ff28e62776a55a83ee4cf5d7525ab5a17f8fb0e7b89f996ea"
+    },
+    {
+      "id": "x-1525967593243148289",
+      "archivo": "escenas/x-1525967593243148289.json",
+      "sha256": "138e226c6899c413808f528a2c1d93f72d7385d4b92557a9730e40fdc56fcf04"
+    },
+    {
+      "id": "x-1525998683902967951",
+      "archivo": "escenas/x-1525998683902967951.json",
+      "sha256": "12a0efe7ca83e7328088f1f559c0bb58093be3292c3d96c9373cbadd9a19b282"
+    },
+    {
+      "id": "x-1526525316980539414",
+      "archivo": "escenas/x-1526525316980539414.json",
+      "sha256": "8f0ef4ac47c6612faa2f75e922d864e10f813f33d4838244c8cd767b01bd2877"
+    },
+    {
+      "id": "x-1526554335436341368",
+      "archivo": "escenas/x-1526554335436341368.json",
+      "sha256": "065ade4fa44ba3eb999d9717987da3aa7db9f0b4510b9b7f510f670014aa0a71"
+    },
+    {
+      "id": "x-1526619340940509205",
+      "archivo": "escenas/x-1526619340940509205.json",
+      "sha256": "13e878fa0a423d9676307a08e8627674d5f76005378404835f867fb8e0068137"
+    },
+    {
+      "id": "x-1526863765306474568",
+      "archivo": "escenas/x-1526863765306474568.json",
+      "sha256": "5b1e90dc7344c987de0251bbc44463b8b00e422a9f30ee99fa251ebeb37b0811"
+    },
+    {
+      "id": "x-1527063194193887403",
+      "archivo": "escenas/x-1527063194193887403.json",
+      "sha256": "c31f3ab46a5905e4e81b4428c1840e5b2c60b3bae1153acc56282802473bac25"
+    },
+    {
+      "id": "x-1527241315186774116",
+      "archivo": "escenas/x-1527241315186774116.json",
+      "sha256": "ffb9be932359a576a4622691d0655d79f9cc3534eaf7330c12e441bf598b0728"
+    },
+    {
+      "id": "x-1527436690531029186",
+      "archivo": "escenas/x-1527436690531029186.json",
+      "sha256": "160ac1f06d6dd9d05c8a7c2a73b96c8c6150b8f6f9ca801369dca757335c269c"
+    },
+    {
+      "id": "x-1527444416187596951",
+      "archivo": "escenas/x-1527444416187596951.json",
+      "sha256": "7e56eaafc8c4abf47d084ca7bf30646315e2547fe1acfc2402d6aa655ab5f621"
+    },
+    {
+      "id": "x-1527455379028574428",
+      "archivo": "escenas/x-1527455379028574428.json",
+      "sha256": "52710c80c87eb7d6efcf153d0a6f3826e03726e60aa65a3f9042150e5f09bee2"
+    },
+    {
+      "id": "x-1527609013494222929",
+      "archivo": "escenas/x-1527609013494222929.json",
+      "sha256": "9c158e2505eff90fd147507ea93cc1ff54f146c90647bacc869db05cbc8d1c56"
+    },
+    {
+      "id": "x-1527615427444871301",
+      "archivo": "escenas/x-1527615427444871301.json",
+      "sha256": "9fc70cfa4200593547724a817063bd88334039b0ca8c89b61dc5735ceac85757"
+    },
+    {
+      "id": "x-1528714214393516133",
+      "archivo": "escenas/x-1528714214393516133.json",
+      "sha256": "e791febb2381e5c4ccc45e15ba4c018a6c83ebca9b24b17b352998a9a5c453af"
+    },
+    {
+      "id": "x-1528730818372178051",
+      "archivo": "escenas/x-1528730818372178051.json",
+      "sha256": "07960cd8123e2a73229526288b2f626f1af8b504f7975197b5a915b05968d330"
+    },
+    {
+      "id": "x-1528736536982454303",
+      "archivo": "escenas/x-1528736536982454303.json",
+      "sha256": "792fd8a310103b44aa66bab67ee0cf0f6927b7f6fa410971d9ed8d7d8d690afc"
+    },
+    {
+      "id": "x-1528736821545144380",
+      "archivo": "escenas/x-1528736821545144380.json",
+      "sha256": "5d7801b706200cd67f68bc6602cf34c7668100052300affd5f85f264436a053f"
+    },
+    {
+      "id": "x-1528783643185516614",
+      "archivo": "escenas/x-1528783643185516614.json",
+      "sha256": "5d0cf3c74ce4289b20e1cb45a96e6f858ea661d56271fe7d951c808fd7bbaedd"
+    },
+    {
+      "id": "x-1529725213242298398",
+      "archivo": "escenas/x-1529725213242298398.json",
+      "sha256": "2d912b55fd9aa2d2c35667080d79d962fdf04ad1002600ff48498bc134fae535"
+    },
+    {
+      "id": "x-1529725326790496439",
+      "archivo": "escenas/x-1529725326790496439.json",
+      "sha256": "9ae1b4026f8697b09fdbd140f96915f90bc54cbfbcf8c2b3a31ead7ec5d3d590"
+    },
+    {
+      "id": "x-1529957197948260414",
+      "archivo": "escenas/x-1529957197948260414.json",
+      "sha256": "1fb924b2097001c88d17ad2a05f53c3af05cd02046d55eb2730469483283e3e9"
+    },
+    {
+      "id": "x-1530316770995339374",
+      "archivo": "escenas/x-1530316770995339374.json",
+      "sha256": "15570d8e2b59cb2ded1448e1a147629836ba0c28a154fdd0e9d1d88d0c7a4b56"
+    },
+    {
+      "id": "x-1530356065936347307",
+      "archivo": "escenas/x-1530356065936347307.json",
+      "sha256": "88cd2b309615162698bdd949d81e3a4e523f145f4c0a30655937e36ce38a9521"
+    },
+    {
+      "id": "x-1530518117015490690",
+      "archivo": "escenas/x-1530518117015490690.json",
+      "sha256": "310201d9f6ba95eddfbce3cbf3c8816fc924e765790e7e890d413e28de4d1b98"
+    },
+    {
+      "id": "x-1530576387507753053",
+      "archivo": "escenas/x-1530576387507753053.json",
+      "sha256": "b7c718507a016e4a13c3f1415e77060f1de0c833dad9cd7aca897fa7c728bfad"
+    },
+    {
+      "id": "x-1530644840214429887",
+      "archivo": "escenas/x-1530644840214429887.json",
+      "sha256": "dabdab2d032759b69904d0d61c63a47b9bc0bc4f3c5110279008b463b9cb69aa"
+    },
+    {
+      "id": "x-1530967691991584870",
+      "archivo": "escenas/x-1530967691991584870.json",
+      "sha256": "3a9180984e1e76d1d9f2bea5c13c6d5c9a6303ac37900044e32dcaf08bf94a3d"
+    },
+    {
+      "id": "x-1531013198478708756",
+      "archivo": "escenas/x-1531013198478708756.json",
+      "sha256": "3e0b71812bd18b00298c297c39db91373ec9d37d6b13aa90d96dd5c0d1a06edd"
+    },
+    {
+      "id": "x-1531074007103832238",
+      "archivo": "escenas/x-1531074007103832238.json",
+      "sha256": "9aef2ae81f3edd516cc76b1cd95de683d35c30a7e1b1fab0dffd6c10173676e2"
+    },
+    {
+      "id": "x-1531236090323669164",
+      "archivo": "escenas/x-1531236090323669164.json",
+      "sha256": "67b88b39c4b5ae10c87105b549b96d56560262b05f7d845126f5abb831fb0b7e"
+    },
+    {
+      "id": "x-1532155716633231392",
+      "archivo": "escenas/x-1532155716633231392.json",
+      "sha256": "9116651d68552dcc0f965d5146384e26446cd7ff94b4a72732eeac0982e9e420"
+    },
+    {
+      "id": "x-1534940909018546227",
+      "archivo": "escenas/x-1534940909018546227.json",
+      "sha256": "cb106b68f1420d0bf0e39b555ac7dafcd36cd4e7fe4f65c369e04b317f8c309d"
+    },
+    {
+      "id": "x-1535034920198607038",
+      "archivo": "escenas/x-1535034920198607038.json",
+      "sha256": "01dfb3b16271057301ba4b5975aff3d34c5b85571e7bc7c1c987ed5bfb5abec2"
+    },
+    {
+      "id": "x-1535461403065057411",
+      "archivo": "escenas/x-1535461403065057411.json",
+      "sha256": "8a6f05b7ec1658a3132c84c78278b561af52fff3aa03ecbc5fb5fdca5f1c9e1b"
+    },
+    {
+      "id": "x-1536490724164378715",
+      "archivo": "escenas/x-1536490724164378715.json",
+      "sha256": "84fb522cabce880fe79043ff3f3ff6ccc54fcddc4bea5256aa1a35f957f65b5f"
+    },
+    {
+      "id": "x-1537510110232977481",
+      "archivo": "escenas/x-1537510110232977481.json",
+      "sha256": "f24f2d80b0571a294ea51b5a30a2734fd673d91afa26866951356de1c5a06db7"
+    },
+    {
+      "id": "x-1537586608071770186",
+      "archivo": "escenas/x-1537586608071770186.json",
+      "sha256": "88dc0d391f79b89d52609fcd1596afe667c92b580a75df538d206914519192d3"
+    },
+    {
+      "id": "x-1537587717364387901",
+      "archivo": "escenas/x-1537587717364387901.json",
+      "sha256": "56562a00ce18bfa1efa64e899aa2e99bbaabef4660d0d4620f92e6cb0c370631"
+    },
+    {
+      "id": "x-1537924729187606548",
+      "archivo": "escenas/x-1537924729187606548.json",
+      "sha256": "7e8410c645314fc6902f108d94a9023a97aecdd1169816e93dbd115d5723f2ac"
+    },
+    {
+      "id": "x-1537944402897674381",
+      "archivo": "escenas/x-1537944402897674381.json",
+      "sha256": "d370c4ac491f9cc1432955da1ee8d73e83ca71d1656b8ed7e44b6e0687a867a2"
+    },
+    {
+      "id": "x-1537945553915089056",
+      "archivo": "escenas/x-1537945553915089056.json",
+      "sha256": "db34a47148bd3f957260fef8085698fd550d82922e89bf41636eacb4e55d123d"
+    },
+    {
+      "id": "x-1538492122120855563",
+      "archivo": "escenas/x-1538492122120855563.json",
+      "sha256": "2774bf7ca70dd58d58af37bd6d53c4bb42b011e33f5a890758eb46dcb2714554"
+    },
+    {
+      "id": "x-1541069161609043968",
+      "archivo": "escenas/x-1541069161609043968.json",
+      "sha256": "7304146f00f5d298a4290bc180d82a8775f0fa70e50310943d0ddc36b119807b"
+    },
+    {
+      "id": "x-1541205788079558657",
+      "archivo": "escenas/x-1541205788079558657.json",
+      "sha256": "d63dc2c64f1374170d21e3d6e0c73dabe1741cc151359e0a74a3c1125891df97"
+    },
+    {
+      "id": "x-1541875578326753473",
+      "archivo": "escenas/x-1541875578326753473.json",
+      "sha256": "7860739812b1c74fff2d308c6566b743c9cc45d03e96ce1bb5dad0af9b965bf0"
+    },
+    {
+      "id": "x-1542789464588423252",
+      "archivo": "escenas/x-1542789464588423252.json",
+      "sha256": "f039694414129d260e5e796ad884756dbfd8c52f639f4a1d2769fe866200c55a"
+    },
+    {
+      "id": "x-1542790265864065034",
+      "archivo": "escenas/x-1542790265864065034.json",
+      "sha256": "da8037f4b20d9f2db29497481f81e2cc9a83f65da6d49e089c70645afe5e64e2"
+    },
+    {
+      "id": "x-1544040982084067438",
+      "archivo": "escenas/x-1544040982084067438.json",
+      "sha256": "0eeba406366f3bc3fda6cb99bf21477b5ec63a8cac270471f38d99132fb31a05"
+    },
+    {
+      "id": "x-1544400464982966352",
+      "archivo": "escenas/x-1544400464982966352.json",
+      "sha256": "53bede5d0d0aab2b48cbdd0fa8a54ebb92f9acb99eb70265e6653c31f1f0a932"
+    },
+    {
+      "id": "x-1544846174010343455",
+      "archivo": "escenas/x-1544846174010343455.json",
+      "sha256": "846c7f6b5b05230d5a2312aaea8e7c441a285e23216e61a94a664e5626349a0e"
+    },
+    {
+      "id": "x-1545189463263551569",
+      "archivo": "escenas/x-1545189463263551569.json",
+      "sha256": "a37d06f489318a794797e368f57b8a6b9061baaafc7982fbd2e0d9d617a05022"
+    },
+    {
+      "id": "x-1545549891495792650",
+      "archivo": "escenas/x-1545549891495792650.json",
+      "sha256": "99033337b15d07017abfea630782547b5d5445d22d95a34aee87b66841deccc3"
+    },
+    {
+      "id": "x-1545565329369997404",
+      "archivo": "escenas/x-1545565329369997404.json",
+      "sha256": "b5d891bcbb58c212988cd86dac578d04b307b7d0dd18a59a80548cef41196a55"
+    },
+    {
+      "id": "x-1546203784097562654",
+      "archivo": "escenas/x-1546203784097562654.json",
+      "sha256": "a1ff84cd2d05d1c91a86e4b38093824c13fa2a6c7c73a8178e5c775341a8cbde"
+    },
+    {
+      "id": "x-1546437630781296680",
+      "archivo": "escenas/x-1546437630781296680.json",
+      "sha256": "5864013039b1c7e068a1208c4b1efa3d012bc19ffc448e88e7e92885ace81a0a"
+    },
+    {
+      "id": "x-1546998488703967303",
+      "archivo": "escenas/x-1546998488703967303.json",
+      "sha256": "5d1749114cc1606d095f7dbba02c9faca1ea86bf269f18d335806d954d1867a3"
+    },
+    {
+      "id": "x-1547355711212879964",
+      "archivo": "escenas/x-1547355711212879964.json",
+      "sha256": "a038c0f976f51e900766b1b013ff2f810a576a5f6f67f3262f90a188d5760e6d"
+    },
+    {
+      "id": "x-1547366869168558241",
+      "archivo": "escenas/x-1547366869168558241.json",
+      "sha256": "c82334892fae886acbd44de9fb1440258f53b775c28f7015f4b749cfffbe3490"
+    },
+    {
+      "id": "x-1547451605174063194",
+      "archivo": "escenas/x-1547451605174063194.json",
+      "sha256": "3acce9c41b3c620411b969b1d6a65619dcbdbef219da83d0f9de6000dcb0a90f"
+    },
+    {
+      "id": "x-1547906697228722229",
+      "archivo": "escenas/x-1547906697228722229.json",
+      "sha256": "f078456b9f9f266f83ef7400a49fe1ef0176031922c517bc148d06fcadd3ef42"
+    },
+    {
+      "id": "x-1547968684373581907",
+      "archivo": "escenas/x-1547968684373581907.json",
+      "sha256": "05218dfd2ef36e23ad3172b74b3275d8d19c8f3887b2be1de32ad4fd39530b1b"
+    },
+    {
+      "id": "x-1548656869957046353",
+      "archivo": "escenas/x-1548656869957046353.json",
+      "sha256": "b74112a175ab398ba589ac806e180e61b26250dcfdb26836ef2df85a38b6b048"
+    },
+    {
+      "id": "x-1548658454711902291",
+      "archivo": "escenas/x-1548658454711902291.json",
+      "sha256": "f910417b21e0d31b7fa8b937cd7f967834cf2383555a2dcc3d4bb37514cb108a"
+    },
+    {
+      "id": "x-1549169601684701335",
+      "archivo": "escenas/x-1549169601684701335.json",
+      "sha256": "15e0b7020b83ec31948c421c15ee09acb350c77c07b09a53bf73c433e89a20e8"
+    },
+    {
+      "id": "x-1549847511047602250",
+      "archivo": "escenas/x-1549847511047602250.json",
+      "sha256": "67c973fb57cdc8a9aa2dfdb2c680d3ef453169100d4d3569ecaf4714377dba9a"
+    },
+    {
+      "id": "x-1549852667398987898",
+      "archivo": "escenas/x-1549852667398987898.json",
+      "sha256": "b6ef58046926d51cee9f703b8956503c6c89d5710adb8cfd9b5b00cea2c0dd7d"
+    },
+    {
+      "id": "x-1551716233915662387",
+      "archivo": "escenas/x-1551716233915662387.json",
+      "sha256": "8d20ff0b32f397910727369c5a68a9fc30bca9c072d070da18d7f0bc55b80b2d"
+    },
+    {
+      "id": "x-1551865209738633247",
+      "archivo": "escenas/x-1551865209738633247.json",
+      "sha256": "f7c2441d4d53ac75b72bb0b2e9d99ea3450f545949cca98d3304abf4dfadba33"
+    },
+    {
+      "id": "x-1552089442221564006",
+      "archivo": "escenas/x-1552089442221564006.json",
+      "sha256": "a8e436f5aeebd416c198c82d1861660575bcf77b506a5ee9b06f5f8d2ed4dea9"
+    },
+    {
+      "id": "x-1552224226310758421",
+      "archivo": "escenas/x-1552224226310758421.json",
+      "sha256": "a6a5d04579d5bf9c0a6ca512b27e6909043058b8cd65dfdaf700dc02eb080c8d"
+    },
+    {
+      "id": "x-1552234324106149940",
+      "archivo": "escenas/x-1552234324106149940.json",
+      "sha256": "aa59cde942f841ad1b3b2be705bb15bc55c24cdcee1999d2566c71a42fb42787"
+    },
+    {
+      "id": "x-1552280972878155787",
+      "archivo": "escenas/x-1552280972878155787.json",
+      "sha256": "3a4be487cc4f1e47a290e607f166216cd2db18871ed3049f76fe766652fbd6d2"
+    },
+    {
+      "id": "x-1552353179503427617",
+      "archivo": "escenas/x-1552353179503427617.json",
+      "sha256": "9b403061cc6f38b3f5d0770277caafb2661431d5ccf2d3390538da99ab225b58"
+    },
+    {
+      "id": "x-1552369078063202355",
+      "archivo": "escenas/x-1552369078063202355.json",
+      "sha256": "3021a344b4be9be1edc91bf91b99da475ca6dc13051965c6f465ad61c4d3b04d"
+    },
+    {
+      "id": "x-1552612115121053770",
+      "archivo": "escenas/x-1552612115121053770.json",
+      "sha256": "e735b0e7dad4104fa7b0628388b50442235e4d052461c6e35174954cd5f0dc14"
+    },
+    {
+      "id": "x-1552722043718602783",
+      "archivo": "escenas/x-1552722043718602783.json",
+      "sha256": "103dd7a60183dcc5f30866bf9f20fac411f7f3123b2beb6dae3e9b85a29da128"
+    },
+    {
+      "id": "x-1552757326815957153",
+      "archivo": "escenas/x-1552757326815957153.json",
+      "sha256": "2919503ca97a5a6edd1e295ad530bdbfb680372c30af69ca5e3c89e68aee6a1c"
+    },
+    {
+      "id": "x-1552821125669453849",
+      "archivo": "escenas/x-1552821125669453849.json",
+      "sha256": "f0a71953c0b2127ec4b94243d2c6bed9e3b793c3af786a355deb811c3f5cc947"
+    },
+    {
+      "id": "x-1553099916652454060",
+      "archivo": "escenas/x-1553099916652454060.json",
+      "sha256": "cd48f36c79d95095ec4bd00e363946f4447ab8fe6220413e8aac01649270a705"
+    },
+    {
+      "id": "x-1553354971863588865",
+      "archivo": "escenas/x-1553354971863588865.json",
+      "sha256": "d92ac7a62e78c0b03c95b5fed8b3c6f545350dc3e257fe7a5abd6990a8b4c325"
+    },
+    {
+      "id": "x-1553735210586349669",
+      "archivo": "escenas/x-1553735210586349669.json",
+      "sha256": "d487ca5ebd719973f172f4acfe3c770217445c3bd50f5386a3106077938fd2ec"
+    },
+    {
+      "id": "x-1554054358348341299",
+      "archivo": "escenas/x-1554054358348341299.json",
+      "sha256": "56cba12d474010c793e5dcbd226eabd7546e4e76448fea13e20de1b239c10919"
+    },
+    {
+      "id": "x-1554089252814454795",
+      "archivo": "escenas/x-1554089252814454795.json",
+      "sha256": "02fe4e177e7c5c5872eacc173d4035f42e47f1e763cb8ff847db41d36637907e"
+    },
+    {
+      "id": "x-1554563931186659471",
+      "archivo": "escenas/x-1554563931186659471.json",
+      "sha256": "85c2f33df989b8217de36f984d9078c4414aae84392c8d4428829fbcf8b99823"
+    },
+    {
+      "id": "x-1554774127074877451",
+      "archivo": "escenas/x-1554774127074877451.json",
+      "sha256": "2ff857080df5e78a87b53697a8f63f5dffbd0d9cae6135e2dda04ca18eaeaacf"
+    },
+    {
+      "id": "x-1554894519269326900",
+      "archivo": "escenas/x-1554894519269326900.json",
+      "sha256": "86b922912c4868c4e4198eb23dbf597197d1002bfa6cc0f2ba54fa27252ff147"
+    },
+    {
+      "id": "x-1554917984831541319",
+      "archivo": "escenas/x-1554917984831541319.json",
+      "sha256": "e305ae9dfaac58d320a4fcf875a93713261b59ae06995086a0f3c3cd50656415"
+    },
+    {
+      "id": "x-1554972185376989266",
+      "archivo": "escenas/x-1554972185376989266.json",
+      "sha256": "a1b3d853f131caaa1a950230c08935fa5987f0d67f489f153d7987bbba1f95f4"
+    },
+    {
+      "id": "x-1555211670056599685",
+      "archivo": "escenas/x-1555211670056599685.json",
+      "sha256": "f8291c34159addbc830821959359da398dc1caef3d83be094f59e251b09e3ddd"
+    },
+    {
+      "id": "x-1555344675840204922",
+      "archivo": "escenas/x-1555344675840204922.json",
+      "sha256": "7df8066de6d8dfaaa908899ca2662b4d3532f16e4370c21ad9b872ad214fdb28"
+    },
+    {
+      "id": "x-1555383366596034593",
+      "archivo": "escenas/x-1555383366596034593.json",
+      "sha256": "d657f61568265b5f80532c68ec2578d39602bee1ed42bb9c48d3731423c75e00"
+    },
+    {
+      "id": "x-1555463015321575545",
+      "archivo": "escenas/x-1555463015321575545.json",
+      "sha256": "9e4ca5d95bcfee2166148db99f0700d7cc53950c38ccc37e43949b456646db76"
+    },
+    {
+      "id": "x-1555494577794973729",
+      "archivo": "escenas/x-1555494577794973729.json",
+      "sha256": "474cb9c50ea23fcad1addc0a0e08dff867a8d55b34ab49b0d0900ea1871c58a3"
+    },
+    {
+      "id": "x-1555915016367120498",
+      "archivo": "escenas/x-1555915016367120498.json",
+      "sha256": "7cd75b497a535ff34b10a69cc8dff24298998262795d6a41787472c09a1a32dd"
+    },
+    {
+      "id": "x-1555995330401800234",
+      "archivo": "escenas/x-1555995330401800234.json",
+      "sha256": "3aedf02aa0f57040d4c47e4b77e795f4f43214ea40d1ba1fb9bfa78c07b2af18"
+    },
+    {
+      "id": "x-1557347983882977352",
+      "archivo": "escenas/x-1557347983882977352.json",
+      "sha256": "424059b6a8c00af7ddbc3e826db880248adc75fe87518beca4af05d54579496d"
+    },
+    {
+      "id": "x-1557409904099065879",
+      "archivo": "escenas/x-1557409904099065879.json",
+      "sha256": "67f0a2d3996d1a45c6e7dcd8a939e18784bcbefec48d645ba92b266675e5ac6b"
+    },
+    {
+      "id": "x-1557680916875444357",
+      "archivo": "escenas/x-1557680916875444357.json",
+      "sha256": "715b02fb67bae713e068ad0d2680921290058c7e2e7fb4e12b7c6de8cfc7abf7"
+    },
+    {
+      "id": "x-1557866970752356444",
+      "archivo": "escenas/x-1557866970752356444.json",
+      "sha256": "96652bbf9bcb7eaba35b04ce5c00b01cc8cef0d2a8c95fb86103a068d1c88f0c"
+    },
+    {
+      "id": "x-1557886002498896003",
+      "archivo": "escenas/x-1557886002498896003.json",
+      "sha256": "f6e86a652ae3a681f85134fb8f45a357c85cf735b73c71469eae2cbe371c3da8"
+    },
+    {
+      "id": "x-1558113345444253847",
+      "archivo": "escenas/x-1558113345444253847.json",
+      "sha256": "dcf326ff5299ee61f5df7d576104f62219a5fd139adb3a13c639a0e828e6bb84"
+    },
+    {
+      "id": "x-1559189680812068915",
+      "archivo": "escenas/x-1559189680812068915.json",
+      "sha256": "e67100a1357cc3f918e5ab94a528583fd3e6b34f839456577a2e2335a8953bf1"
+    },
+    {
+      "id": "x-1559256808684658861",
+      "archivo": "escenas/x-1559256808684658861.json",
+      "sha256": "22da397513eac2bc5f73c500ac500c7fc9cbfdca67367165a20569bef040018b"
+    },
+    {
+      "id": "x-1559336689938337865",
+      "archivo": "escenas/x-1559336689938337865.json",
+      "sha256": "7f83cebbe83d2ec55613d441c966a1c10baa2d9076e1b0035d15229bdd2765f9"
+    },
+    {
+      "id": "x-1559568055775002647",
+      "archivo": "escenas/x-1559568055775002647.json",
+      "sha256": "3780f31c7be976b4247bdc3e25dee9fc4f074ac65e4151397259058e58fd2148"
+    },
+    {
+      "id": "x-1560768663332720700",
+      "archivo": "escenas/x-1560768663332720700.json",
+      "sha256": "ecdc13ce4014ca946f9b4bde2be0133e0606b5afda86295fc05895c8f5514db7"
+    },
+    {
+      "id": "x-1560943405993820192",
+      "archivo": "escenas/x-1560943405993820192.json",
+      "sha256": "321eba45f071b57fef553448713188586ef6dc4b7f65f0a76baaf8c41124f1b6"
+    },
+    {
+      "id": "x-1561074179602645003",
+      "archivo": "escenas/x-1561074179602645003.json",
+      "sha256": "f3f86f90acfea250a77df00c44e0bb2ca7eb151a3a2fdda4d37d10ab3105bb19"
+    },
+    {
+      "id": "x-1561109624776687849",
+      "archivo": "escenas/x-1561109624776687849.json",
+      "sha256": "89998b69acf7a90d371b24e338cba651a19f98366b812927b9f58334d330ac18"
+    },
+    {
+      "id": "x-1561356511383654422",
+      "archivo": "escenas/x-1561356511383654422.json",
+      "sha256": "502991d9e54e8dcdf20e690082fa90335e629f5538d8f6d94425a44ab3c5cf31"
+    },
+    {
+      "id": "x-1561659442070560880",
+      "archivo": "escenas/x-1561659442070560880.json",
+      "sha256": "13a98a7bb7e312ebd3b406f83d7e43d61c7c7cb61b618b19f75f9c115476d966"
+    }
+  ],
+  "estadisticas": {
+    "escenas": 304,
+    "unidades_leidas": 244,
+    "mensajes_en_escenas": 6241,
+    "mensajes_originales": 6243,
+    "adjuntos_en_escenas": 65,
+    "notas_de_voz": 17
+  },
+  "integracion_hilos": [
+    {
+      "archivo": "integracion/1465410265544921190.json",
+      "sha256": "a305fc26399ab00a8040ae006bad5d1a89e3d0637d9ea33c0b642eb04dc0c308"
+    },
+    {
+      "archivo": "integracion/1481938373894738061.json",
+      "sha256": "c42827cbf9c233cee88d57bcc6d5690beb8a79ac03b962833ad20d19fe18bef1"
+    },
+    {
+      "archivo": "integracion/1502317868253970632.json",
+      "sha256": "84a58ccf9e09c63278fa8307e85f29313d2be5f710b0e7210372acd6f97b862e"
+    },
+    {
+      "archivo": "integracion/1558234683177963582.json",
+      "sha256": "e85ebe9b54cbe2314fd61489688e1db35dcd41179fa1bc39117217813c8195c0"
+    },
+    {
+      "archivo": "integracion/1465411590789795962.json",
+      "sha256": "a6eeb848fcf21e18847e1a9280dff0b6eb6af77ef7ffa054c162a76433b72542"
+    },
+    {
+      "archivo": "integracion/1482149664131383316.json",
+      "sha256": "c04078cd94011e849d970740cf330e2d6dd57babe0b7757f4df2ddafdeed0d06"
+    },
+    {
+      "archivo": "integracion/1495828307843747971.json",
+      "sha256": "73f46bb3ca4328f3909e83d290d2736e1d0a7b028a99609d0f23d7d831acfede"
+    },
+    {
+      "archivo": "integracion/1504602363728756846.json",
+      "sha256": "055ba67fbe2e4de3a3d77b6b95a8c1c8fd0da22a05038ab9d5c0f5c621d54d65"
+    },
+    {
+      "archivo": "integracion/1524091803647741996.json",
+      "sha256": "ba2118e1e1c14cf9772c7f5107b3baf42c4ec8903c0bcda0e487ee86f4a01bc7"
+    }
+  ],
+  "excluidos_no_narrativos": [
+    {
+      "unidad": "x-1465410265544921190",
+      "motivo": "Presentación ambiental y mapa de apertura, sin acciones jugadas.",
+      "fuentes": [
+        {
+          "id": "1465410265544921190",
+          "mensaje_sha256": "ee92b5abb823882bda1964a44f231e594451e51ddfc284e2edc6d75ecf0af8be"
+        }
+      ],
+      "conservados_en_escenas": [
+        {
+          "mensaje_id": "1465410265544921190",
+          "escena": "x-1467785008793124950"
+        }
+      ]
+    },
+    {
+      "unidad": "x-1472895769026756670",
+      "motivo": "Contexto o marcador no narrativo; conservado en la exportación íntegra.",
+      "fuentes": [
+        {
+          "id": "1473341256431304808",
+          "mensaje_sha256": "7ec036dd17c4e3152463ecb9f671002975df5b60163509c3b4ea7ef523d4e235"
+        }
+      ],
+      "conservados_en_escenas": [
+        {
+          "mensaje_id": "1473341256431304808",
+          "escena": "x-1473013492142444616"
+        }
+      ]
+    },
+    {
+      "unidad": "x-1479368127727800430",
+      "motivo": "Rótulo de localización y cierre administrativo, sin contenido de rol jugado.",
+      "fuentes": [
+        {
+          "id": "1479368127727800430",
+          "mensaje_sha256": "eff38cb4a93435c1708f54bc5a6a7dd9a880c88011863470d587e96e6fa7f5f0"
+        },
+        {
+          "id": "1479368251283603486",
+          "mensaje_sha256": "b9eb6e236d83b7a61d4fcb79dc83ae50ce7bcad927399bbd4c99025172dc800f"
+        }
+      ],
+      "conservados_en_escenas": [
+        {
+          "mensaje_id": "1479368127727800430",
+          "escena": "x-1479371105306279997"
+        },
+        {
+          "mensaje_id": "1479368251283603486",
+          "escena": "x-1479371105306279997"
+        }
+      ]
+    },
+    {
+      "unidad": "x-1480465731010171056",
+      "motivo": "Marcador de cierre sin contenido narrativo.",
+      "fuentes": [
+        {
+          "id": "1480465731010171056",
+          "mensaje_sha256": "51096a289da9f19df2a639ee0bdc3100d1af6792bddcd6896ef9ab1679e832a1"
+        }
+      ],
+      "conservados_en_escenas": [
+        {
+          "mensaje_id": "1480465731010171056",
+          "escena": "x-1480164369731026955"
+        }
+      ]
+    },
+    {
+      "unidad": "x-1480501980714635377",
+      "motivo": "Contexto o marcador no narrativo; conservado en la exportación íntegra.",
+      "fuentes": [
+        {
+          "id": "1480581317145137283",
+          "mensaje_sha256": "44b174a6d1cc00600f4c3ab688458fc51251612ce5cc0617ea7ea0dc0eb4445b"
+        },
+        {
+          "id": "1480610276616437932",
+          "mensaje_sha256": "e1c4c3c3c70de382a6ebc1cdc95667046d1e4940b56fe799547e71df658e941b"
+        },
+        {
+          "id": "1480944990518644756",
+          "mensaje_sha256": "c2c9938d1e35f7f63f956dd863a25ac4cdc9955a9d8f11c83a013590067e40b7"
+        },
+        {
+          "id": "1480964099037724752",
+          "mensaje_sha256": "10546a7c9f8291af0e725aeffb662b2aefe572c4b5041bd882ac0ee035f3cb71"
+        }
+      ],
+      "conservados_en_escenas": [
+        {
+          "mensaje_id": "1480581317145137283",
+          "escena": "x-1480568753543708713"
+        },
+        {
+          "mensaje_id": "1480610276616437932",
+          "escena": "x-1480568753543708713"
+        },
+        {
+          "mensaje_id": "1480944990518644756",
+          "escena": "x-1480625321408725155"
+        },
+        {
+          "mensaje_id": "1480964099037724752",
+          "escena": "x-1480625321408725155"
+        }
+      ]
+    },
+    {
+      "unidad": "x-1481637221940334603",
+      "motivo": "Contexto o marcador no narrativo; conservado en la exportación íntegra.",
+      "fuentes": [
+        {
+          "id": "1481689196287623289",
+          "mensaje_sha256": "7ef0d4dbe6c0d4461b5621873159888b8d38ad07bd32f07ee53463cb9d1bc01a"
+        },
+        {
+          "id": "1481714714500403292",
+          "mensaje_sha256": "33721e449ef36948207ee780969404beca4759e6a1db80320a68ff888f1e9870"
+        }
+      ],
+      "conservados_en_escenas": [
+        {
+          "mensaje_id": "1481689196287623289",
+          "escena": "x-1481675439809495166"
+        },
+        {
+          "mensaje_id": "1481714714500403292",
+          "escena": "x-1481675439809495166"
+        }
+      ]
+    },
+    {
+      "unidad": "x-1481920577970114692",
+      "motivo": "Contexto o marcador no narrativo; conservado en la exportación íntegra.",
+      "fuentes": [
+        {
+          "id": "1482039170313490493",
+          "mensaje_sha256": "eccbc095997586709e0b8638455883fb7ad9225c857071cf700ca68fbf7bd056"
+        }
+      ],
+      "conservados_en_escenas": [
+        {
+          "mensaje_id": "1482039170313490493",
+          "escena": "x-1482013027099476090"
+        }
+      ]
+    },
+    {
+      "unidad": "x-1482713491503579136",
+      "motivo": "Contexto o marcador no narrativo; conservado en la exportación íntegra.",
+      "fuentes": [
+        {
+          "id": "1482776801892896980",
+          "mensaje_sha256": "ed3c5cf529cc70e2a8e3557160733b48f2ecb951f0a1a5bcbca6e8f4580fe1c5"
+        },
+        {
+          "id": "1482788792241754162",
+          "mensaje_sha256": "6f0bef17b6b1e200918901221dc9be676ed0f0b70194bff727d53a9990b77c92"
+        }
+      ],
+      "conservados_en_escenas": [
+        {
+          "mensaje_id": "1482776801892896980",
+          "escena": "x-1482733716840120510"
+        },
+        {
+          "mensaje_id": "1482788792241754162",
+          "escena": "x-1482733716840120510"
+        }
+      ]
+    },
+    {
+      "unidad": "x-1484136776464597013",
+      "motivo": "Marcador administrativo sin acciones narrativas.",
+      "fuentes": [
+        {
+          "id": "1484136776464597013",
+          "mensaje_sha256": "7cd66c0291b83c2429819000496ff963714c5d9cd8e370c2b6ff0e56d638a77c"
+        }
+      ],
+      "conservados_en_escenas": [
+        {
+          "mensaje_id": "1484136776464597013",
+          "escena": "x-1483867371851743262"
+        }
+      ]
+    },
+    {
+      "unidad": "x-1484182511868317776",
+      "motivo": "Contexto o marcador no narrativo; conservado en la exportación íntegra.",
+      "fuentes": [
+        {
+          "id": "1484216883002740827",
+          "mensaje_sha256": "013b1be11eb0fd9be9c600eda868bb1e8b091f1a78ae964b90943b4554986f0a"
+        },
+        {
+          "id": "1484219333038178436",
+          "mensaje_sha256": "afb6aea9d6cb9b5fbfd905323a5386c60780f30ffe304f3086f604991c973feb"
+        },
+        {
+          "id": "1484229568184455190",
+          "mensaje_sha256": "22daff861a46b99c36fdca676a5660703f7c55f2d20943aadc43013000a316ad"
+        }
+      ],
+      "conservados_en_escenas": [
+        {
+          "mensaje_id": "1484216883002740827",
+          "escena": "x-1484211697303420999"
+        },
+        {
+          "mensaje_id": "1484219333038178436",
+          "escena": "x-1484211697303420999"
+        },
+        {
+          "mensaje_id": "1484229568184455190",
+          "escena": "x-1484211697303420999"
+        }
+      ]
+    },
+    {
+      "unidad": "x-1494565628995178496",
+      "motivo": "Contexto o marcador no narrativo; conservado en la exportación íntegra.",
+      "fuentes": [
+        {
+          "id": "1494701000684998878",
+          "mensaje_sha256": "e08941c46baa3428781dcb7887c3541dee87e3dc11b287ab177fc10a4d0d2dc7"
+        }
+      ],
+      "conservados_en_escenas": [
+        {
+          "mensaje_id": "1494701000684998878",
+          "escena": "x-1494696236714950698"
+        }
+      ]
+    },
+    {
+      "unidad": "x-1494991607467081828",
+      "motivo": "Marcador de cierre sin narración.",
+      "fuentes": [
+        {
+          "id": "1494991607467081828",
+          "mensaje_sha256": "e2c9d7686ff503237e06c89a1bd49efd6addd839d813dfa60ef1989263ea43ea"
+        }
+      ],
+      "conservados_en_escenas": [
+        {
+          "mensaje_id": "1494991607467081828",
+          "escena": "x-1494696236714950698"
+        }
+      ]
+    },
+    {
+      "unidad": "x-1495510829133594706",
+      "motivo": "Contexto o marcador no narrativo; conservado en la exportación íntegra.",
+      "fuentes": [
+        {
+          "id": "1495809790922850474",
+          "mensaje_sha256": "9a1d4b5549d63654a2337af83e0c60635f17111cfddb887c217c3598bf5bb86d"
+        }
+      ],
+      "conservados_en_escenas": [
+        {
+          "mensaje_id": "1495809790922850474",
+          "escena": "x-1495510829133594706"
+        }
+      ]
+    },
+    {
+      "unidad": "x-1496498258170875994",
+      "motivo": "Contexto o marcador no narrativo; conservado en la exportación íntegra.",
+      "fuentes": [
+        {
+          "id": "1496521070826491986",
+          "mensaje_sha256": "7789f04a38287be2c4b3ebbf46ea8923ad653a14ce642fdded67f1dbd74a00af"
+        },
+        {
+          "id": "1496534231877292163",
+          "mensaje_sha256": "19098983191a2cb9a21abffce6aa7cc631d6627121093d358de5b358453c0ece"
+        },
+        {
+          "id": "1496549746205261945",
+          "mensaje_sha256": "e761a56d69e4a7c2a5d5cd42fcda5b79488219be14bf1922887420770a25ba10"
+        },
+        {
+          "id": "1496552395751292948",
+          "mensaje_sha256": "56baba4137ab40ad0e222d4b048c37ac43e2bca62d18b136c74f52e08b6a212e"
+        }
+      ],
+      "conservados_en_escenas": [
+        {
+          "mensaje_id": "1496521070826491986",
+          "escena": "x-1496498258170875994"
+        },
+        {
+          "mensaje_id": "1496534231877292163",
+          "escena": "x-1496498258170875994"
+        },
+        {
+          "mensaje_id": "1496549746205261945",
+          "escena": "x-1496540795740885013"
+        },
+        {
+          "mensaje_id": "1496552395751292948",
+          "escena": "x-1496540795740885013"
+        }
+      ]
+    },
+    {
+      "unidad": "x-1505176584590721064",
+      "motivo": "Contexto o marcador no narrativo; conservado en la exportación íntegra.",
+      "fuentes": [
+        {
+          "id": "1505176623073202256",
+          "mensaje_sha256": "82e258acb8e4129ac59827842f87a3ce86bd30181995f55b1be9ddfd39fa1d1a"
+        }
+      ],
+      "conservados_en_escenas": [
+        {
+          "mensaje_id": "1505176623073202256",
+          "escena": "x-1505176584590721064"
+        }
+      ]
+    },
+    {
+      "unidad": "x-1467763361042403476",
+      "motivo": "Solo contiene un marcador FIN.",
+      "fuentes": [
+        {
+          "id": "1467763361042403476",
+          "mensaje_sha256": "84af7f57e3b715dce1b3ceb3658c007057a1a83d372a656391f40af35eabb67b"
+        }
+      ],
+      "conservados_en_escenas": [
+        {
+          "mensaje_id": "1467763361042403476",
+          "escena": "x-1467485757097639938"
+        }
+      ]
+    },
+    {
+      "unidad": "x-1479368273815404737",
+      "motivo": "Marcador FIN sin contenido narrativo nuevo.",
+      "fuentes": [
+        {
+          "id": "1479368273815404737",
+          "mensaje_sha256": "c23b23b76414b2db734cc3ce7db73c5c5a3b8b47b597bb3da4485bf9439b0b73"
+        }
+      ],
+      "conservados_en_escenas": [
+        {
+          "mensaje_id": "1479368273815404737",
+          "escena": "x-1479032390113558528"
+        }
+      ]
+    },
+    {
+      "unidad": "x-1511306355691225119",
+      "motivo": "Únicamente un marcador FIN.",
+      "fuentes": [
+        {
+          "id": "1511306355691225119",
+          "mensaje_sha256": "e21f0a0ea5048ea65938874b45736ddebdb12289d494c7a2f5570a0c191b0d96"
+        }
+      ],
+      "conservados_en_escenas": [
+        {
+          "mensaje_id": "1511306355691225119",
+          "escena": "x-1508758741682622495"
+        }
+      ]
+    },
+    {
+      "unidad": "x-1524909334910472242",
+      "motivo": "Marcador de cierre sin narración.",
+      "fuentes": [
+        {
+          "id": "1524909334910472242",
+          "mensaje_sha256": "9298dd7b35c20d475014ba2d16e84ecbc44155ec527190ae88234c4b43a02f63"
+        }
+      ],
+      "conservados_en_escenas": [
+        {
+          "mensaje_id": "1524909334910472242",
+          "escena": "x-1523910607592493128"
+        }
+      ]
+    },
+    {
+      "unidad": "x-1485340589322010929",
+      "motivo": "FIN tardío de la captura, preservado como contexto de esa conversación.",
+      "fuentes": [
+        {
+          "id": "1485340589322010929",
+          "mensaje_sha256": "842b61b52050f2bd9812dab2a42c67d29339922cfcbc2ff861aaaab98522599a"
+        }
+      ],
+      "conservados_en_escenas": [
+        {
+          "mensaje_id": "1485340589322010929",
+          "escena": "x-1484222155477614603"
+        }
+      ]
+    },
+    {
+      "unidad": "x-1522619808582205501",
+      "motivo": "Marcador tardío y comentario ajeno a la ficción, conservado como contexto.",
+      "fuentes": [
+        {
+          "id": "1522619808582205501",
+          "mensaje_sha256": "3931c66166a7937b47fb79d866fa9b2a127b1f1f731976d007653e5a1f145c95"
+        }
+      ],
+      "conservados_en_escenas": [
+        {
+          "mensaje_id": "1522619808582205501",
+          "escena": "x-1521450189230051438"
+        }
+      ]
+    },
+    {
+      "unidad": "x-1526863893564096542",
+      "motivo": "Mención de aviso sin contenido narrativo, preservada junto a la escena anterior.",
+      "fuentes": [
+        {
+          "id": "1526863893564096542",
+          "mensaje_sha256": "963066baca1c234ba4dc4f6e3d0ae82b783b5323f65b8b3d9319659fad48c15a"
+        }
+      ],
+      "conservados_en_escenas": [
+        {
+          "mensaje_id": "1526863893564096542",
+          "escena": "x-1526863765306474568"
+        }
+      ]
+    },
+    {
+      "unidad": "x-1482149664131383316",
+      "motivo": "Apertura cartográfica del hilo.",
+      "fuentes": [
+        {
+          "id": "1482149664131383316",
+          "mensaje_sha256": "99ea80b279e10376d45304134c4dc132cd43e56a6a67435a844bd0efb0a99c81"
+        }
+      ],
+      "conservados_en_escenas": [
+        {
+          "mensaje_id": "1482149664131383316",
+          "escena": "x-1482330037255671808"
+        }
+      ]
+    },
+    {
+      "unidad": "x-1484136791664496722",
+      "motivo": "Marcador FIN aislado.",
+      "fuentes": [
+        {
+          "id": "1484136791664496722",
+          "mensaje_sha256": "205160eb7613a265b35418798f311b01fdbcbe81f0752be231777c859ad0a7de"
+        }
+      ],
+      "conservados_en_escenas": [
+        {
+          "mensaje_id": "1484136791664496722",
+          "escena": "x-1483024244794196050"
+        }
+      ]
+    },
+    {
+      "unidad": "x-1529725537583370322",
+      "motivo": "Mención aislada sin contenido narrativo.",
+      "fuentes": [
+        {
+          "id": "1529725537583370322",
+          "mensaje_sha256": "ada81f1e470539392dc33edaff2a8b69cd99c1c2a4882f60aa43607e5cb1fdc2"
+        }
+      ],
+      "conservados_en_escenas": [
+        {
+          "mensaje_id": "1529725537583370322",
+          "escena": "x-1529725326790496439"
+        }
+      ]
+    },
+    {
+      "unidad": "x-1553735369688621208",
+      "motivo": "Mención aislada sin acciones ni diálogo.",
+      "fuentes": [
+        {
+          "id": "1553735369688621208",
+          "mensaje_sha256": "94b87cb4e1a795aaafd7615b6cb78b393663977184404cd50ca9bb8a77163656"
+        }
+      ],
+      "conservados_en_escenas": [
+        {
+          "mensaje_id": "1553735369688621208",
+          "escena": "x-1553735210586349669"
+        }
+      ]
+    },
+    {
+      "unidad": "x-1504602363728756846",
+      "motivo": "Apertura descriptiva de canal con mapa; no contiene una escena jugada.",
+      "fuentes": [
+        {
+          "id": "1504602363728756846",
+          "mensaje_sha256": "9f1634f520323c2fcdfb77b9ca4f8c4ec69cab8d53270c6d1d12d21b91dff4ca"
+        }
+      ],
+      "conservados_en_escenas": [
+        {
+          "mensaje_id": "1504602363728756846",
+          "escena": "x-1504615516642480128"
+        }
+      ]
+    },
+    {
+      "unidad": "x-1558399591072800849",
+      "motivo": "Marcador aislado de cierre, sin acción, diálogo o pensamiento nuevo.",
+      "fuentes": [
+        {
+          "id": "1558399591072800849",
+          "mensaje_sha256": "6cb75a779e69361c231a63d566401d08cf0b284563706188567fedc1f6aa7b3b"
+        }
+      ],
+      "conservados_en_escenas": [
+        {
+          "mensaje_id": "1558399591072800849",
+          "escena": "x-1557886002498896003"
+        }
+      ]
+    },
+    {
+      "unidad": "x-1524091803647741996",
+      "motivo": "Apertura cartográfica sin acciones narrativas.",
+      "fuentes": [
+        {
+          "id": "1524091803647741996",
+          "mensaje_sha256": "3b05aa2f3d984bb1667a00bef95907edb99c777ad3a3efe6715dfa2d1e70d681"
+        }
+      ],
+      "conservados_en_escenas": [
+        {
+          "mensaje_id": "1524091803647741996",
+          "escena": "x-1525042844560003125"
+        }
+      ]
+    },
+    {
+      "unidad": "x-1558234683177963582",
+      "motivo": "Apertura geográfica del hilo con plano y comentario de ambiente; se conserva como contexto de la primera interacción.",
+      "fuentes": [
+        {
+          "id": "1558234683177963582",
+          "mensaje_sha256": "044b7784d89886ebe9a0d5ac3f5933c18d6d2a543a956b75427c761f650aef80"
+        }
+      ],
+      "conservados_en_escenas": [
+        {
+          "mensaje_id": "1558234683177963582",
+          "escena": "x-1559189680812068915"
+        }
+      ]
+    }
+  ],
+  "hilos_de_reglas": [
+    {
+      "campana": "xoltacan",
+      "hilo": "1465405184028180794",
+      "motivo": "Reglas del formato, no interacción narrativa",
+      "mensajes": 2
+    }
+  ]
+}

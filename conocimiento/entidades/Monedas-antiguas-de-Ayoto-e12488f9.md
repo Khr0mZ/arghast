@@ -12,7 +12,7 @@ Base para revisar equivalencia: [13-025](../capitulos/13.md), [27-009](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 42.
+Relato revisado hasta el capítulo 43.
 
 ### Del sótano del templo a una alianza con babuinos
 

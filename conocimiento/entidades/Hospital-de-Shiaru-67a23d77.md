@@ -12,7 +12,7 @@ Base para revisar equivalencia: [08-003](../capitulos/08.md), [08-006](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 42.
+Relato revisado hasta el capítulo 43.
 
 ### Volver herido no garantiza tranquilidad
 

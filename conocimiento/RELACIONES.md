@@ -71,3 +71,13 @@ Ione y Poncelot refuerzan su confianza: él le regala el fular y combate a su la
 Nox comienza en el Invictus buscando una patente de corso, pero sabotea a la Marina, libera a Pinky y acaba impidiendo que Tórtola desvíe el buque. Reconoce a Ione como capitana y pide volver a su tripulación. Ella busca su cuerpo sin encontrarlo; no se convierte su vínculo en una relación sentimental confirmada ([42-005, 42-031, 42-041–42-042 y 42-053–42-064](capitulos/42.md)).
 
 Bonnie entrega la moneda a Ione y exige que retire el Zampaolas. Los otros reyes la rodean: Taylor le reprocha ocultar Xoltacan y le dispara ante Diente de Oro, Banana y Sonriente. El desenlace rompe la posición anterior de Bonnie sin mostrar una nueva autoridad de Shiaru ([42-065–42-072](capitulos/42.md)).
+
+## El frente terrestre y el reconocimiento de Amaru
+
+Molly organiza la defensa terrestre mientras Bonnie dirige la naval. Eleanor ayuda por el trato dado a Erandy y le entrega un broche a Molly. Erandy protege a su señora; Eleanor deja su escudo para cubrirla e intenta mantenerla en retaguardia, pero el trance de la escudera la empuja a seguir avanzando ([43-002, 43-005, 43-009–43-010, 43-014–43-016, 43-029, 43-035 y 43-038](capitulos/43.md)).
+
+Lunaria lleva a Citlali y a Etley por la jungla, lucha junto a ellas y las protege del fuego. Eleanor monta al oso y combina su energía con el impacto de la caída. La cooperación no equivale a compartir el conocimiento de las visiones privadas de Citlali ([43-011–43-013, 43-030, 43-036, 43-039–43-042, 43-048 y 43-054](capitulos/43.md)).
+
+Citlali reconoce en Nox al hijo que llama Amaru, llora su pérdida y trata de alcanzar el Zampaolas. Molly comprende su mirada y queda conmocionada. La historia del niño en el cofre y sus años hasta la vida adulta aún no se reconstruyen ([43-045, 43-051, 43-059 y 43-061](capitulos/43.md)).
+
+El ser serpentino incita a Citlali a matar y quitar juventud. La escena final enlaza sus símbolos con un altar, sin dar un nombre a la entidad o equipararla automáticamente con otras presencias de la campaña ([43-045–43-046, 43-050 y 43-062](capitulos/43.md)).

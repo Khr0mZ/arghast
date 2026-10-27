@@ -1104,6 +1104,32 @@
         "sha256_metadatos": "a656247701bf6d73958015a92d29e6d8f466165eb882abd0404def344ea0a937",
         "publicacion_reportada_utc": "2026-10-25T10:00:29+00:00"
       }
+    },
+    "43": {
+      "video_id": "tSdmoZCWEZQ",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2026-07-10",
+        "fuentes": [
+          "1525209204300841101"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "La tarjeta conservada identifica campaña, capítulo y título. La emisión se distingue del tiempo ficticio de la batalla y de la publicación posterior.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2026-07-10"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2026-10-27",
+        "fecha_aviso": null,
+        "fuentes": [],
+        "origen_fecha": "metadatos_youtube",
+        "archivo_metadatos": "xoltacan_subtitulos/subtitulos/43 - tSdmoZCWEZQ.info.json",
+        "sha256_metadatos": "343b6f86d38b9a740224ded76ad586c59e2529a92f4db58fd9b204860c619dfe",
+        "publicacion_reportada_utc": "2026-10-27T10:00:27+00:00"
+      }
     }
   }
 }

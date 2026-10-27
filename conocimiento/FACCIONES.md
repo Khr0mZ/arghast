@@ -30,3 +30,9 @@ En el festival de Iktan se documenta otra operación de los **yuan-ti**: una inf
 La tripulación del Zampaolas combate con la pequeña flotilla de Shiaru contra la Marina. Nox rompe su colaboración con Tórtola mediante el sabotaje. Las embestidas de Bonnie y el estallido del Invictus destruyen buques; otros refuerzos llegan y son aniquilados por hielo y fuego cuando aparecen los cuatro reyes restantes ([42-005, 42-011–42-019, 42-041–42-048 y 42-062–42-065](capitulos/42.md)).
 
 Los cinco reyes coinciden en el barco de Bonnie. Diente de Oro, Elger Banana, Sonriente y Taylor llegan a una isla cuyo secreto Taylor reprocha a Bonnie haber guardado. El disparo final no equivale a una deliberación sobre el gobierno de la isla; las cláusulas del pacto y los planes posteriores permanecen abiertos ([42-068–42-072](capitulos/42.md)).
+
+## Resultado terrestre del capítulo 43
+
+La alianza defensiva de Molly y Bonnie se contempla desde la jungla. Molly sigue sin su antiguo cargo de capitana de la Marina y dirige piratas cuya preparación juzga inferior. Erandy, Eleanor, Citlali y Lunaria rompen a los pelotones con fuego, golpes y ataques masivos. La caída de los mandos fuerza la huida de los supervivientes; no se elimina toda la organización ([43-005, 43-010, 43-014, 43-023, 43-027, 43-031, 43-055 y 43-058](capitulos/43.md)).
+
+La victoria de Molly en tierra no demuestra una restitución en la Marina ni un nuevo gobierno de Shiaru después del disparo de Taylor contra Bonnie. Los dos capítulos cubren frentes y momentos parcialmente simultáneos ([43-001, 43-044, 43-058–43-059](capitulos/43.md)).

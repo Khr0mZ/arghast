@@ -12,7 +12,7 @@ Base para revisar equivalencia: [11-024](../capitulos/11.md), [26-006](../capitu
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 42.
+Relato revisado hasta el capítulo 43.
 
 ### Las monedas y la autoridad pirata
 
@@ -97,4 +97,12 @@ Tipo: `hecho_confirmado`.
 Ante la mirada de los otros tres reyes, Taylor desenfunda una pistola, la coloca en la frente de Bonnie y dispara. La sesión termina en ese momento. En la despedida, el director pide decir adiós a Bonnie, Nox y Pinky y avisa de que la siguiente partida sucederá antes de estos hechos.
 
 La despedida enmarca estas pérdidas, pero el disparo no va seguido de una comprobación médica o escena del cuerpo y Nox no fue encontrado. El aviso temporal no autoriza incorporar conocimientos posteriores a capítulos anteriores.
+
+## [43-007 · La moneda de Bonnie convoca la tormenta de la partida](../capitulos/43.md) · 00:10:14.800
+
+Tipo: `hecho_confirmado`.
+
+Bonnie sostiene la moneda de los reyes piratas. Empieza a brillar y de ella salen rayos que la envuelven; el director la presenta como una de las cinco reinas piratas. Tras su grito, los piratas corren a los muelles y unas nubes negras levantan una tormenta atribuida a su poder.
+
+Es la preparación compartida con el comienzo del capítulo 42, vista desde el otro grupo. No se cuentan dos activaciones distintas ni se describe un nuevo origen de la moneda.
 

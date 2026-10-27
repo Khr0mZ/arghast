@@ -12,7 +12,7 @@ Base para revisar equivalencia: [28-010](../capitulos/28.md), [34-009](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 42.
+Relato revisado hasta el capítulo 43.
 
 ### Recuperar a los compañeros en momentos críticos
 

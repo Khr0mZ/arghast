@@ -8,11 +8,11 @@ Organización militar. Marina, la sirena liberada del capítulo 6, sigue como pe
 
 Etiquetas agrupadas: Marina.
 
-Base para revisar equivalencia: [03-019](../capitulos/03.md), [05-007](../capitulos/05.md), [23-004](../capitulos/23.md), [42-005](../capitulos/42.md), [42-016](../capitulos/42.md), [42-019](../capitulos/42.md), [42-020](../capitulos/42.md), [42-021](../capitulos/42.md), [42-023](../capitulos/42.md), [42-024](../capitulos/42.md), [42-033](../capitulos/42.md), [42-034](../capitulos/42.md), [42-035](../capitulos/42.md), [42-042](../capitulos/42.md), [42-043](../capitulos/42.md), [42-046](../capitulos/42.md), [42-048](../capitulos/42.md), [42-050](../capitulos/42.md), [42-051](../capitulos/42.md), [42-056](../capitulos/42.md), [42-059](../capitulos/42.md), [42-062](../capitulos/42.md), [42-065](../capitulos/42.md).
+Base para revisar equivalencia: [03-019](../capitulos/03.md), [05-007](../capitulos/05.md), [23-004](../capitulos/23.md), [42-005](../capitulos/42.md), [42-016](../capitulos/42.md), [42-019](../capitulos/42.md), [42-020](../capitulos/42.md), [42-021](../capitulos/42.md), [42-023](../capitulos/42.md), [42-024](../capitulos/42.md), [42-033](../capitulos/42.md), [42-034](../capitulos/42.md), [42-035](../capitulos/42.md), [42-042](../capitulos/42.md), [42-043](../capitulos/42.md), [42-046](../capitulos/42.md), [42-048](../capitulos/42.md), [42-050](../capitulos/42.md), [42-051](../capitulos/42.md), [42-056](../capitulos/42.md), [42-059](../capitulos/42.md), [42-062](../capitulos/42.md), [42-065](../capitulos/42.md), [43-001](../capitulos/43.md), [43-018](../capitulos/43.md), [43-019](../capitulos/43.md), [43-020](../capitulos/43.md), [43-021](../capitulos/43.md), [43-022](../capitulos/43.md), [43-025](../capitulos/43.md), [43-026](../capitulos/43.md), [43-027](../capitulos/43.md), [43-030](../capitulos/43.md), [43-031](../capitulos/43.md), [43-033](../capitulos/43.md), [43-035](../capitulos/43.md), [43-036](../capitulos/43.md), [43-038](../capitulos/43.md), [43-048](../capitulos/43.md), [43-051](../capitulos/43.md), [43-052](../capitulos/43.md), [43-055](../capitulos/43.md), [43-057](../capitulos/43.md), [43-058](../capitulos/43.md).
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 42.
+Relato revisado hasta el capítulo 43.
 
 ### Explorar, ocupar y disputar las ruinas
 
@@ -49,6 +49,24 @@ Fuentes: [42-024 · La salva coordinada de la Marina alcanza al Zampaolas](../ca
 La Marina pierde buques ante los abordajes, las embestidas de Bonnie y la explosión del Invictus. Mientras unos barcos se retiran, llegan refuerzos con un buque mayor. Una congelación repentina seguida de fuego destruye esa nueva formación, justo antes de aparecer los otros cuatro reyes piratas.
 
 Fuentes: [42-050 · Ilikar y Cipo derriban el mástil de un buque](../capitulos/42.md) · 01:35:06.560 · [42-051 · Sir Poncelot y Merlucilla IV despejan cubiertas y regresan](../capitulos/42.md) · 01:37:37.480 · [42-056 · La Marina concentra varios flancos contra Bonnie](../capitulos/42.md) · 01:47:26.080 · [42-059 · Bonnie vuelve a abrirse paso entre la flota](../capitulos/42.md) · 01:55:33.920 · [42-062 · El Invictus explota contra la flota y los buques restantes se retiran](../capitulos/42.md) · 02:00:20.239 · [42-065 · Cuatro reyes piratas destruyen una nueva flota de la Marina](../capitulos/42.md) · 02:09:35.040.
+
+### Una columna contra el embudo
+
+En paralelo al despliegue naval, la Marina avanza por tierra hacia Shiaru. Los perros rastrean las trampas del camino, seguidos por pelotones, fusileros con armas largas, equipos de cañón y capitanes montados. Al descubrir a Molly y a los defensores, los fusileros disparan en líneas alternas: matan a piratas sin nombre y hieren a Erandy. La escudera prepara una respuesta de fuego.
+
+Fuentes: [43-001 · La sesión comienza al mismo tiempo que el capítulo naval](../capitulos/43.md) · 00:00:01.280 · [43-018 · Los marines llegan con perros, artillería y oficiales montados](../capitulos/43.md) · 00:31:46.279 · [43-019 · Erandy invoca al Sol y prepara una bola de fuego](../capitulos/43.md) · 00:34:53.599 · [43-020 · La primera descarga de la Marina mata a piratas de la defensa](../capitulos/43.md) · 00:37:58.599 · [43-021 · Eleanor levanta el escudo y Erandy recibe heridas de bala](../capitulos/43.md) · 00:40:02.440 · [43-022 · Erandy elige el lugar para lanzar su bola de fuego](../capitulos/43.md) · 00:41:04.280.
+
+### La formación terrestre se descompone
+
+En paralelo al frente naval de la misma batalla, la Marina intenta mantener sus pelotones y responde con cañones que hieren a los atacantes. Las bolas de fuego destruyen artillería y caballos, mientras el lanzamiento de Etley abre un hueco y el avance de Citlali, Lunaria y Eleanor agrava el caos. Varios soldados retroceden o se separan por los caminos y los mandos gritan para recomponer la formación. La resistencia aún continúa.
+
+Fuentes: [43-025 · La tormenta de una reina pirata se ve desde la lucha terrestre](../capitulos/43.md) · 00:48:18.839 · [43-026 · La artillería alcanza a Erandy, Molly y Eleanor](../capitulos/43.md) · 00:49:27.520 · [43-027 · Otra bola de fuego destroza tropas, caballos y artillería](../capitulos/43.md) · 00:51:32.559 · [43-030 · Lunaria arroja a Etley contra los marines](../capitulos/43.md) · 00:55:42.480 · [43-031 · Los golpes masivos hacen flaquear la formación](../capitulos/43.md) · 00:59:01.520 · [43-033 · Erandy se entrega al trance solar y dispersa a más mandos](../capitulos/43.md) · 01:03:02.599 · [43-035 · Eleanor marca la retaguardia y llama a cargar](../capitulos/43.md) · 01:09:48.000 · [43-036 · Eleanor utiliza el perro caído para montar sobre Lunaria](../capitulos/43.md) · 01:12:11.000 · [43-038 · Erandy ignora la orden y lanza rayos abrasadores](../capitulos/43.md) · 01:15:59.920.
+
+### La derrota del frente de la jungla
+
+En paralelo al frente naval de la misma batalla, la formación terrestre pierde hombres y mandos ante el impacto del oso, las bolas de fuego y el drenaje de Citlali. Eleanor y Citlali eliminan a los últimos generales; los supervivientes sueltan las armas e intentan huir, perseguidos por piratas o atrapados en la jungla. La victoria proclamada por sus adversarios se limita a esta batalla, sin demostrar la eliminación de toda la organización.
+
+Fuentes: [43-048 · El oso de Lunaria impacta con la energía de Eleanor](../capitulos/43.md) · 01:33:33.920 · [43-051 · Citlali mata al general mientras los marines huyen hacia las trampas](../capitulos/43.md) · 01:41:50.400 · [43-052 · Erandy recupera magia por el chat y lanza fuego cerca de sus aliados](../capitulos/43.md) · 01:44:54.520 · [43-055 · La caída de los generales rompe la resistencia terrestre](../capitulos/43.md) · 01:51:11.920 · [43-057 · Citlali consume la vida del marine retenido](../capitulos/43.md) · 01:54:11.440 · [43-058 · Los piratas celebran la victoria y Molly llega herida](../capitulos/43.md) · 01:55:31.560.
 
 ## Registros y evidencias
 
@@ -723,4 +741,308 @@ Tipo: `hecho_confirmado`.
 Al bajar el fuego se descubre otra flota de la Marina con un buque que dobla al Invictus. El mar comienza a congelarse; un estallido azul inmoviliza los barcos y una tormenta de fuego cae sobre ellos y los destruye. Tras una nube negra aparecen cuatro buques piratas con enseñas de banana, símbolo femenino, calavera goblin y bandera pirata clásica. El director anuncia que han llegado los otros cuatro reyes piratas.
 
 No se atribuyen individualmente el hielo ni el fuego a un rey concreto. La descripción aproximada de centenar de barcos no se convierte en un inventario exacto.
+
+## [43-002 · Erandy y Eleanor se preparan para la defensa terrestre](../capitulos/43.md) · 00:00:41.280
+
+Tipo: `declaracion_personaje`.
+
+Erandy relata que ella y Eleanor, tras conocer la amenaza de los chaquetas azules, hablaron en la taberna con Bonnie y Molly y pensaron en colocar trampas. Entiende que Molly encabeza el frente terrestre. Eleanor recuerda sus entrenamientos y que un enano azul anunciando el fin le hizo conocer el peligro, tras lo cual fue con su escudera a hablar con Bonnie e inspeccionar el punto que debían proteger.
+
+El enano del repaso no queda nombrado; la apariencia y el cartel no bastan para crear o asignar una identidad. Los preparativos se cuentan como contexto de lo sucedido entre sesiones.
+
+## [43-005 · Las defensas de la jungla ya han sido inspeccionadas](../capitulos/43.md) · 00:06:34.120
+
+Tipo: `explicacion_director`.
+
+El director recuerda que Molly y Bonnie colaboraban para proteger Shiaru y que la exmarina advirtió del ataque tras su destitución. Molly ha llevado a Erandy y Eleanor al punto defensivo: hay cuerdas, trampas y combatientes escondidos para disparar desde la jungla. Después de revisar el despliegue vuelven al poblado para recibir las últimas órdenes.
+
+La colaboración y la destitución se recuerdan como antecedentes. El pasaje no nombra las ruinas del capítulo 36 y no basta para identificar ese punto con su ocupación definitiva.
+
+## [43-010 · Molly conduce a unos veinte piratas hacia el embudo](../capitulos/43.md) · 00:14:50.120
+
+Tipo: `hecho_confirmado`.
+
+Molly muestra a Eleanor un grupo de aproximadamente veinte piratas y reconoce la diferencia con los soldados de la Marina en la que sirvió. Aunque están decididos, su preparación es deficiente. Ordena marchar por la jungla para defender un embudo e impedir que el enemigo llegue a Shiaru.
+
+La cifra se plantea como aproximación narrativa. No indica el número de supervivientes al terminar el combate ni vuelve a otorgar a Molly un cargo vigente en la Marina.
+
+## [43-013 · Citlali tiene una visión de un pirata y de la batalla bajo el agua](../capitulos/43.md) · 00:21:34.240
+
+Tipo: `hecho_confirmado`.
+
+Mientras monta al oso, Citlali tiene otra visión. Ve de espaldas a un pirata con adornos en el pelo y aspecto desaliñado que empieza a girarse. Unas burbujas la envuelven y siente que está bajo el agua, aunque puede respirar. Desde abajo contempla una batalla de barcos, fuego y restos que caen al mar junto con piratas y marines. Al abrir los ojos sigue viajando sobre Luna hacia Shiaru; el director aclara que la visión no le causa daño.
+
+El pirata no recibe nombre en esta visión. El punto de vista submarino no prueba un ahogamiento real de Citlali o Nox, una muerte individual ni la posición exacta de la visión dentro de la batalla naval.
+
+## [43-018 · Los marines llegan con perros, artillería y oficiales montados](../capitulos/43.md) · 00:31:46.279
+
+Tipo: `hecho_confirmado`.
+
+Se oyen pasos, ramas y ruedas. Avanzan grupos de marines con pistolas y perros que rastrean trampas; detrás vienen pelotones ordenados, fusileros con armas largas, equipos que arrastran cañones y capitanes sobre caballos de guerra. Los perros olfatean las trampas laterales, dispuestas para impedir que se desvíen del embudo. Al verlos, Eleanor abandona la idea de permanecer tumbada.
+
+Los oficiales, perros y caballos carecen aquí de nombres individuales. No se afirma que todos los perros queden atrapados o que las trampas ya hayan causado bajas.
+
+## [43-019 · Erandy invoca al Sol y prepara una bola de fuego](../capitulos/43.md) · 00:34:53.599
+
+Tipo: `hecho_confirmado`.
+
+Ante el avance enemigo, Erandy propone usar los espíritus guardianes como barrera. El director le advierte que esperar a ese alcance pondría al ejército encima del grupo y le anima a aprovechar la distancia. Eleanor declara favor divino y empieza a leer las escrituras de su espada. Erandy junta las manos, pide al Sol ayuda para defender a los débiles y prepara una bola de fuego para cuando los marines estén a distancia.
+
+La plegaria prepara el lanzamiento; el impacto de la bola de fuego se narra en 43-023. No se reconstruye un discurso completo de las escrituras de Eleanor.
+
+## [43-020 · La primera descarga de la Marina mata a piratas de la defensa](../capitulos/43.md) · 00:37:58.599
+
+Tipo: `hecho_confirmado`.
+
+Los marines ven a Molly y a los piratas. Un oficial ordena a los fusileros acabar con ellos y las líneas disparan por turnos. Las ráfagas alcanzan los pequeños grupos de defensores; algunos piratas próximos a Erandy mueren mientras continúa el fuego intenso.
+
+Las bajas son piratas sin nombre y no se da un total. No se atribuyen a esos muertos identidades catalogadas ni se presenta la descarga como la caída definitiva de la defensa.
+
+## [43-021 · Eleanor levanta el escudo y Erandy recibe heridas de bala](../capitulos/43.md) · 00:40:02.440
+
+Tipo: `hecho_confirmado`.
+
+El director pide a Eleanor y Erandy que se defiendan de la descarga. Eleanor levanta el escudo y siente impactos que parecen empujarla hacia atrás. Erandy recibe roces y pequeñas heridas de algunos proyectiles. La Marina permanece parada disparando contra sus posiciones.
+
+No se comunica aquí una muerte, caída a cero o activación de la protección de ocho horas. El relato no fija una cantidad de daño numérica para cada una.
+
+## [43-022 · Erandy elige el lugar para lanzar su bola de fuego](../capitulos/43.md) · 00:41:04.280
+
+Tipo: `hecho_confirmado`.
+
+Tras la descarga, Erandy recuerda que tenía preparada una bola de fuego y confirma con el director que llega a la posición enemiga. Señala dónde lanzarla y ajustan el punto para abarcar a varios grupos. El director le pide representar el lanzamiento.
+
+El impacto de esa bola de fuego se documenta en 43-023. No se calcula un censo de bajas a partir de los tokens.
+
+## [43-023 · Erandy invoca al Sol y prende un batallón](../capitulos/43.md) · 00:41:56.520
+
+Tipo: `hecho_confirmado`.
+
+Erandy canaliza fuego por manos y brazos, con los ojos dorados, mientras invoca al Señor Sol y reclama castigo para quienes subyugan a los débiles. Su bola de fuego explota entre los marines: algunos salen despedidos y otros corren ardiendo. Los piratas, antes desmotivados, se animan y cargan; sus gritos a favor del saqueo y la esclavitud no reproducen la justificación de la escudera. Molly comenta a Eleanor que la pequeña esconde muchas cosas, carga su pistola y avanza.
+
+La invocación y el aspecto solar forman parte de la interpretación de Erandy; no demuestran por sí solos posesión divina. La reacción pirata no implica que compartan su defensa de los inocentes.
+
+## [43-025 · La tormenta de una reina pirata se ve desde la lucha terrestre](../capitulos/43.md) · 00:48:18.839
+
+Tipo: `explicacion_director`.
+
+Durante el combate terrestre cae una lluvia fina y se ven enormes nubes formándose sobre el mar. El director las atribuye al poder de una de las reinas piratas. Los mandos de la Marina insisten en no rendirse y ordenan disparar los cañones.
+
+Este intervalo no nombra a la reina. La atribución a una reina pirata no convierte todos los sucesos del capítulo 42 en anteriores a esta escena.
+
+## [43-026 · La artillería alcanza a Erandy, Molly y Eleanor](../capitulos/43.md) · 00:49:27.520
+
+Tipo: `hecho_confirmado`.
+
+Los cañones disparan sobre los piratas. Erandy recibe metralla, resuelta con quince puntos de daño; Molly también resulta alcanzada. Eleanor se protege detrás del escudo cuando una bala cae frente a ella, pero la fuerza la empuja hacia atrás y recibe treinta y tres puntos de daño.
+
+El escudo reduce o contiene parte del impacto descrito, pero no evita el daño. No se especifica aquí la gravedad total de las heridas de Molly.
+
+## [43-027 · Otra bola de fuego destroza tropas, caballos y artillería](../capitulos/43.md) · 00:51:32.559
+
+Tipo: `hecho_confirmado`.
+
+Erandy apunta una nueva bola de fuego hacia los batallones y sus cañones. La explosión lanza marines y rifles por los aires, arroja piezas de cañón a la jungla y quema caballos de los mandos, haciendo caer al menos a un general. El director aclara que las fichas de la escena representan pelotones y que las tropas siguen llegando.
+
+Los puntos de vida restaurados en las fichas representan el desarrollo de los pelotones y no resurrecciones literales. No se confirma la muerte de todos los generales o la destrucción de toda la artillería.
+
+## [43-028 · Molly continúa el avance con los piratas](../capitulos/43.md) · 00:54:01.680
+
+Tipo: `hecho_confirmado`.
+
+Molly sigue avanzando, dispara y trata de proteger a quienes marchan con ella. Los piratas la acompañan y disparan contra los marines. Durante el avance muere algún perro de combate.
+
+El reconocimiento dice primero que Molly dispara a piratas y después que combate con ellos contra marines; se conserva el avance y apoyo, sin convertir la frase contradictoria en un ataque deliberado contra sus aliados.
+
+## [43-030 · Lunaria arroja a Etley contra los marines](../capitulos/43.md) · 00:55:42.480
+
+Tipo: `hecho_confirmado`.
+
+Las trampas de la jungla saltan al paso de quienes llegan: se disparan dardos y se activan mecanismos con ganchos. Lunaria, en forma de oso, lanza al grupo enemigo la cría que lleva atada. Citlali acompaña el lanzamiento con un silbido de ataque. Etley agita las alas, pero no consigue volar: cae sobre los marines y abre un hueco entre varios pelotones.
+
+La cría se identifica por el cuidado de Citlali y el nombre oído como Echil/Etil; una mención aislada parecida a Erandy al caer no cambia su identidad. No se demuestra vuelo autónomo ni se toma el pentakill como recuento exacto.
+
+## [43-031 · Los golpes masivos hacen flaquear la formación](../capitulos/43.md) · 00:59:01.520
+
+Tipo: `hecho_confirmado`.
+
+Tras las bolas de fuego y la caída de la cría, varios fusileros abandonan su posición y retroceden. El director describe que la formación empieza a flaquear por la devastación de los ataques masivos, un cambio especialmente perceptible para Eleanor por su experiencia con ejércitos.
+
+La formación debilitada no equivale todavía a la rendición o derrota definitiva de toda la Marina.
+
+## [43-032 · Citlali entra con el arco y después con sus chanclas](../capitulos/43.md) · 01:00:00.480
+
+Tipo: `hecho_confirmado`.
+
+Citlali aparece sobre el oso con el arco preparado y dispara una flecha que se clava en un marine y casi lo derriba. Harta y deseosa de ver a Nox, se dispone a bajar y lanzarse al cuerpo a cuerpo. Se describe más joven y rápida que al comienzo de sus aventuras y corre hacia la Marina para repartir golpes con sus chanclas.
+
+El deseo de ver a Nox no implica que conozca su situación durante la batalla naval. El rejuvenecimiento comparado no fija edad, duración o causa de ese estado.
+
+## [43-033 · Erandy se entrega al trance solar y dispersa a más mandos](../capitulos/43.md) · 01:03:02.599
+
+Tipo: `hecho_confirmado`.
+
+La jugadora explica que Erandy, normalmente consciente y controlada, está ahora en un trance abrazado por el Sol: no ha advertido el escudo, el lanzamiento de la cría ni el resto de la escena. Con voz profunda reclama que ardan quienes quieren purgar la tierra y lanza otra bola de fuego. El director acepta la descripción: una pequeña esfera se forma junto a los generales y explota, los lanza heridos a la jungla y espanta los caballos. Los marines empiezan a separarse por los caminos mientras Citlali irrumpe entre ellos.
+
+El trance es interpretación aceptada en mesa, sin identidad divina separada ni diagnóstico. Los generales descritos como medio muertos no se registran todos como fallecidos.
+
+## [43-034 · Lunaria utiliza un cañón como garrote y sale impulsada](../capitulos/43.md) · 01:07:07.760
+
+Tipo: `hecho_confirmado`.
+
+Lunaria ruge y arremete en forma de oso hacia un cañón. Lo toma para barrer a los marines a golpes. En uno de los movimientos el arma queda dirigida hacia abajo y dispara o estalla: le causa nueve puntos de daño y la impulsa al aire. El director describe después que cae sobre un montón de marines. Lunaria ruge hacia Etley como si mostrase cómo volar, sin convertir ese impulso en vuelo propio.
+
+La propulsión depende del cañón. La escena usa explota y disparar sin establecer que el arma quede destruida; vuelve a utilizarla después.
+
+## [43-035 · Eleanor marca la retaguardia y llama a cargar](../capitulos/43.md) · 01:09:48.000
+
+Tipo: `hecho_confirmado`.
+
+Molly y otros piratas alcanzan a Citlali y al oso. Al ver que Erandy se ha acercado, Eleanor clava el estandarte y le ordena no avanzar más: su lugar es la retaguardia. Reconoce a Lunaria cuando el oso cae ante ella y, viendo rota la formación enemiga, llama a los demás a cargar. Sin el escudo, combate con su espada entre los marines y ataca a un perro.
+
+La orden del estandarte no demuestra que Erandy la obedezca. La caída del oso en esta escena no acredita que se trate de otro animal.
+
+## [43-036 · Eleanor utiliza el perro caído para montar sobre Lunaria](../capitulos/43.md) · 01:12:11.000
+
+Tipo: `hecho_confirmado`.
+
+Eleanor aprovecha el cuerpo del perro cuando cae para saltar y subirse sobre Lunaria. La jugadora de Lunaria acepta llevarla. Eleanor anuncia que se transformará sobre el oso para infundir más miedo. Los generales de la Marina intentan recuperar la formación y ordenan acabar con el oso y con la señora que avanza golpeando con chanclas.
+
+Este intervalo anuncia la transformación; su apariencia concreta se describe después. Los gritos de los generales no confirman que recuperen el control.
+
+## [43-037 · El toque de Citlali cierra sus heridas y rejuvenece su piel](../capitulos/43.md) · 01:13:34.760
+
+Tipo: `hecho_confirmado`.
+
+Citlali sigue golpeando con las chanclas como si fueran dagas hasta llegar ante un hombre y tocarle el cuello con un toque frío, descrito como de muerte. Los personajes cercanos ven que su piel arrugada se tensa y parece rejuvenecer durante unos segundos. La sangre de las heridas que había recibido deja de brotar y el director la describe totalmente curada. Continúa avanzando y abatiendo miembros de los pelotones.
+
+El pasaje relaciona el toque con el cambio visible y la curación; no identifica por nombre el conjuro, demuestra una juventud permanente ni explica toda su longevidad.
+
+## [43-038 · Erandy ignora la orden y lanza rayos abrasadores](../capitulos/43.md) · 01:15:59.920
+
+Tipo: `hecho_confirmado`.
+
+Erandy no escucha la orden de Eleanor y se desplaza hacia otro general, invocando la defensa de la Madre Tierra y del Señor Sol. Lanza los tres rayos de un conjuro reconocido en mesa como scorching ray: algunos fallan y otros chamuscan y abaten marines. Sigue descrita fuera de sí. Etley permanece en medio de la batalla, entre el fuego, pese a la intención previa de Citlali de esconderlo.
+
+No se confirma que todos los rayos acierten al general escogido. Las bromas sobre pollo asado no son una muerte documentada de Etley.
+
+## [43-041 · La combatiente que acompaña al grupo protege a Citlali](../capitulos/43.md) · 01:20:48.239
+
+Tipo: `hecho_confirmado`.
+
+La combatiente que venía avanzando con los piratas observa a Eleanor sobre el oso y sigue luchando. Al pasar junto a Citlali intercepta un golpe de un marine y le advierte que debería estar en otro lugar porque corre peligro. Citlali responde «Yo soy el peligro» y continúa combatiendo. Por continuidad se conserva la escena junto a Molly.
+
+El director dice Bonnie al inicio y después una variante oída como Morí; la escena venía siguiendo a Molly en el mismo frente. La atribución se conserva como contextual y no se afirma una llegada inequívoca de Bonnie a tierra.
+
+## [43-043 · Eleanor prepara el descenso de Lunaria con un golpe divino](../capitulos/43.md) · 01:22:34.560
+
+Tipo: `hecho_confirmado`.
+
+Mientras descienden, Eleanor guarda la espada y pone su símbolo en la frente de Lunaria, transformada en oso. Invoca la corona de Castilla y le ordena acabar con los enemigos. Busca entre los generales a la amenaza mayor. El director sitúa al grupo por delante de una formación de la Marina que está cediendo.
+
+La invocación de Castilla no corrige retroactivamente las declaraciones anteriores de Aragón ni fija una nueva nacionalidad. La caída se resuelve después.
+
+## [43-045 · Una visión de Nox y el ser serpentino incita a Citlali a matar](../capitulos/43.md) · 01:26:01.360
+
+Tipo: `hecho_confirmado`.
+
+Citlali siente un vacío y revive una escena de agua que la ahoga y de Nox cayendo entre quienes se precipitan de los barcos. Intenta alcanzarlo sin poder. Tras un siseo, una criatura le toma el brazo y la mano como para ayudarla a llegar a él, y le susurra que use su poder y mate a todos. Ve los rostros de los marines y vuelve a escuchar la orden.
+
+Es una experiencia de Citlali, no la recuperación física de Nox ni una prueba del nombre o naturaleza divina del interlocutor. No se identifica al ser con Set, el ojo-orbe o cualquier serpiente de otra escena.
+
+## [43-046 · Citlali cambia la curación por la absorción violenta de vida](../capitulos/43.md) · 01:28:17.920
+
+Tipo: `hecho_confirmado`.
+
+Citlali se levanta con los tatuajes brillando entre carmesí y verde, extendidos por casi todo su cuerpo. La voz le ordena matar y arrebatar juventud. Agarra a los marines por el cuello y absorbe su energía vital; sus manos y tatuajes brillan con mayor intensidad. El director muestra a Erandy que la anciana avanza ahora más deprisa y arroja a sus víctimas como despojos.
+
+La palabra curar al comienzo de la descripción no significa una curación beneficiosa para los marines: se narra explícitamente su drenaje. La voz es una incitación, no una regla universal del poder.
+
+## [43-047 · Erandy interpreta la explosión como presencia del dios solar y vuelve a atacar](../capitulos/43.md) · 01:30:41.679
+
+Tipo: `declaracion_personaje`.
+
+Erandy interpreta la explosión como si el propio dios del sol se presentara ante ella y la invitara a quemarlo todo. Con una sonrisa exaltada solicita gastar sus usos para lanzar otra bola de fuego contra un pelotón. El director admite la acción y describe a los marines saliendo por los aires; Erandy comienza a acusar el agotamiento de tanta magia.
+
+La divinidad solar pertenece a la interpretación de Erandy. París y las comparaciones de los jugadores no añaden un destino o una aparición divina objetiva.
+
+## [43-048 · El oso de Lunaria impacta con la energía de Eleanor](../capitulos/43.md) · 01:33:33.920
+
+Tipo: `hecho_confirmado`.
+
+Lunaria y Eleanor descienden desde cien pies y resuelven la caída del oso con un golpe divino. El resultado anunciado es de setenta y siete puntos de daño. El oso se ilumina, golpea el suelo y lanza por los aires a quienes lo rodean, desplazando también a Citlali. Lunaria abandona la forma de oso después del impacto; Molly permanece luchando en el terreno.
+
+La narración confunde un vocativo al situar al jinete, pero las tiradas y turnos mantienen la combinación de Lunaria y Eleanor. No se presenta la cifra como daño sufrido por Lunaria ni como una muerte suya.
+
+## [43-049 · Eleanor aterroriza a los marines, pero falla su orden de arrodillarse](../capitulos/43.md) · 01:37:05.639
+
+Tipo: `hecho_confirmado`.
+
+Eleanor se acerca a los enemigos y muestra su aura de temor mientras los golpea con la espada. Algunos quedan aterrorizados e inmóviles ante ella. Dirige un conjuro de orden a un enemigo herido con la espada ante su rostro, pero el director confirma que supera la salvación y no se arrodilla.
+
+La resolución corrige la primera descripción de un retroceso por miedo. La rodilla inclinada sugerida inicialmente no se conserva como resultado del conjuro.
+
+## [43-050 · Los compañeros ven rejuvenecer a Citlali y envejecer a sus víctimas](../capitulos/43.md) · 01:39:22.000
+
+Tipo: `hecho_confirmado`.
+
+Los marines están aterrados por la caballera, las bolas de fuego y la violencia de Citlali. Mientras ella oye los siseos como algo cada vez más agradable, pasa delante de Lunaria, Eleanor y Erandy. Los demás ven que ya no parece una anciana: está más joven, mientras los restos que deja en el suelo se ven arrugados y envejecidos.
+
+En una frase el reconocimiento escribe piratas para los restos, pero la secuencia continua describe el ataque a los marines. No se inventa una edad exacta ni duración permanente del rejuvenecimiento.
+
+## [43-051 · Citlali mata al general mientras los marines huyen hacia las trampas](../capitulos/43.md) · 01:41:50.400
+
+Tipo: `hecho_confirmado`.
+
+Citlali busca a quien aún da órdenes y atraviesa las filas para agarrarlo por el cuello. Le reprocha que todos le arrebataron a su hijo y vuelve a absorber su energía. Una carta del chat añade furia como la de un bárbaro. El director confirma la muerte del general. Otros marines retroceden y algunos gritan al caer en trampas de la jungla.
+
+El cargo es descriptivo y el general no recibe un nombre. La acusación de Citlali expresa su duelo y rabia, sin probar que este oficial causara personalmente lo ocurrido a Nox. La carta es una ayuda de juego, no un nuevo origen biográfico de sus poderes.
+
+## [43-052 · Erandy recupera magia por el chat y lanza fuego cerca de sus aliados](../capitulos/43.md) · 01:44:54.520
+
+Tipo: `hecho_confirmado`.
+
+Aunque está cansada, Erandy siente una última chispa y recupera por intervención del chat un espacio de conjuro de tercer nivel para lanzar una bola de fuego. Sigue invitando a los enemigos a recibir el abrazo del dios del sol y hace estallar el conjuro. La discusión de alcance incluye a aliados y a Citlali, y el director exige las salvaciones correspondientes.
+
+La chispa se concede explícitamente por el chat. No se presenta como restauración ilimitada ni como prueba objetiva de favor divino; no se infiere daño individual de quienes no muestran su tirada.
+
+## [43-054 · Lunaria protege a Citlali y Etley antes de lanzar otra bola de fuego](../capitulos/43.md) · 01:48:39.760
+
+Tipo: `hecho_confirmado`.
+
+Ya fuera de la forma de oso, Lunaria propone combinar sus puntos de hechicería con los usos de una dote del dragón cromático para excluir del daño a Citlali y a la cría llamada pollo. El director acepta la propuesta. Unas alas espectrales de dragón rodean a ambos y los protegen durante la explosión.
+
+La combinación se admite para esta representación concreta, sin convertirla en una regla general. La protección no prueba que Citlali no hubiera recibido quemaduras del fuego anterior.
+
+## [43-055 · La caída de los generales rompe la resistencia terrestre](../capitulos/43.md) · 01:51:11.920
+
+Tipo: `hecho_confirmado`.
+
+Molly y los piratas combaten por los laterales, junto a la jungla, contra los marines que intentan huir. Eleanor imbuye su espada con la energía usada en el oso y parte a un general por la mitad. El director confirma que Citlali ha matado a otro mando y que las bolas de fuego han deshecho la formación. Los supervivientes sueltan las armas y corren; los piratas persiguen a quienes huyen hacia la jungla.
+
+Bonnie aparece como vocativo aislado del director en la escena terrestre; se mantiene la continuidad de Molly, sin transportar a Bonnie desde el combate naval. No se establece la muerte de todos los miembros de la Marina de la isla.
+
+## [43-056 · Eleanor retiene a un marine para Citlali sin rematarlo ella](../capitulos/43.md) · 01:53:22.199
+
+Tipo: `hecho_confirmado`.
+
+Eleanor agarra por el cuello y la nuca al marine que tiene delante para mantenerlo quieto. Explica que reconoce la venganza en los ojos de Citlali, siente que algo va mal y decide no matarlo ella. El enemigo queda retenido frente a la joven Mamá.
+
+No es un rescate del marine ni una orden de rendición aceptada. Eleanor lo inmoviliza y deja su siguiente destino a Citlali.
+
+## [43-057 · Citlali consume la vida del marine retenido](../capitulos/43.md) · 01:54:11.440
+
+Tipo: `hecho_confirmado`.
+
+Citlali aparta las alas que la protegían; su ropa aún tiene fuego y algunas partes de su piel están quemadas, aunque no manifiesta dolor. Coloca una mano en el pecho del marine que retiene Eleanor y sigue absorbiéndolo hasta dejarlo envejecido, consumido y reducido a huesos y piel. Lo suelta como un despojo.
+
+La ausencia de una queja no significa invulnerabilidad al fuego ni curación automática de las quemaduras. No se asignan una edad ni una cantidad numérica de energía robada.
+
+## [43-058 · Los piratas celebran la victoria y Molly llega herida](../capitulos/43.md) · 01:55:31.560
+
+Tipo: `hecho_confirmado`.
+
+El director da por terminado el combate: la mayoría de los marines han caído y los pocos que quedan huyen. Los piratas celebran mientras los combatientes recuperan el aliento. Molly se acerca cansada, respira con dificultad y tiene heridas, disparos y manchas de sangre. Expresa su sorpresa por el oso gigante y la cría arrojada, y se detiene al mirar a Citlali.
+
+La victoria se limita al frente terrestre mostrado. Los gritos de haber acabado con todos se matizan con los supervivientes que el propio director describe huyendo.
 

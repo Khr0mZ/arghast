@@ -12,7 +12,7 @@ Base para revisar equivalencia: [03-008](../capitulos/03.md), [04-003](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 42.
+Relato revisado hasta el capítulo 43.
 
 ### El primer supuesto caballo de Poncelot
 

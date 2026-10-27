@@ -12,7 +12,7 @@ Base para revisar equivalencia: [04-020](../capitulos/04.md), [04-021](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 42.
+Relato revisado hasta el capítulo 43.
 
 ### Un reparto que deja una deuda detrás
 

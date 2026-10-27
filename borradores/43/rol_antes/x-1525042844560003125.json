@@ -1,0 +1,116 @@
+{
+  "id": "x-1525042844560003125",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1525042844560003125",
+  "hilo_id": "1524091803647741996",
+  "hilo_nombre": "Jungla - En alguna parte de Xoltacán",
+  "titulo": "El Zampaolas amanece después de la batalla",
+  "resumen": "Los supervivientes permanecen varados cerca de la Costa del Garfio, recordando la moneda de Bonny y la muerte de Nox.",
+  "relato": "La tormenta amaina sobre el Zampaolas, varado cerca de la Costa del Garfio, a varias millas de Shiaru. El mar arrastra hasta la playa restos de los barcos hundidos durante la batalla anterior. Los supervivientes guardan silencio.\n\nRecuerdan que Happy Bonny entregó a Ione una de las Cinco Monedas de los Reyes Pirata e insistió en que abandonaran Shiaru. Sobre todo pesa la muerte de Nox. El mensaje establece las secuelas y el duelo al amanecer, sin reconstruir el combate que precede al rol.",
+  "participantes": [
+    "Tripulación del Zampaolas"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1525042844560003125",
+      "afirmacion": "El narrador sitúa el barco varado y confirma el recuerdo de la moneda entregada y de la muerte de Nox.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "La batalla es antecedente; esta viñeta muestra su resultado y los recuerdos de los supervivientes.",
+    "La mención de usuarios posterior es aviso, sin acción adicional."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-07-10T07:35:48.069000+00:00",
+  "fin_utc": "2026-07-10T21:14:18.961000+00:00",
+  "fecha_local": "2026-07-10",
+  "intervalo": {
+    "anterior": 42,
+    "siguiente": 43,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1524846150652264642",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1525209204300841101",
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 42,
+        "fecha": "2026-07-09",
+        "inicio_referencia_utc": "2026-07-09T18:30:59+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1524846150652264642"
+      },
+      {
+        "capitulo": 43,
+        "fecha": "2026-07-10",
+        "inicio_referencia_utc": "2026-07-10T18:35:33+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1525209204300841101"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1524091803647741996",
+      "fecha_utc": "2026-07-07T16:36:42.246000+00:00",
+      "fecha_local": "2026-07-07",
+      "editado_utc": "2026-07-07T16:37:53.645000+00:00",
+      "texto": "*En la jungla pequeña jungla... Se te van a zampaaaaar. En la jungla, la negra jungla... Una guarnición serááááááás🎶 Dee heeheeheehee, weeoh bam-bam, bueh A-wimoweh, a-wimoweh*🎶  *Bueno que puedo decir plantas raras, frutos raros y toda clase de bichos raros que te pueden comer de un bocado ¿A que no hay mejor sitio para dar un relajante paseo?*",
+      "mensaje_sha256": "3b05aa2f3d984bb1667a00bef95907edb99c777ad3a3efe6715dfa2d1e70d681",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1524091803647741996",
+      "texto_sha256": "0c9e9b47862087bd86ece9ba364ac3c2b22638d486d1aa9e2d9f7ef5b5453eda",
+      "adjuntos": [
+        {
+          "id": "1524091804910354543",
+          "nombre": "Jungle.jpg",
+          "tipo": "image/jpeg",
+          "archivo": "adjuntos/1524091804910354543.jpg",
+          "url": "rol_escrito/adjuntos/1524091804910354543.jpg",
+          "bytes": 5214784,
+          "sha256": "650dae49a0cdb7c61b6f5937fd8a2bd1b4a16828cfb292315bbe6a55e7f02bd4"
+        }
+      ],
+      "no_narrativo": true,
+      "nota_editorial": "Apertura cartográfica sin acciones narrativas."
+    },
+    {
+      "id": "1525042844560003125",
+      "fecha_utc": "2026-07-10T07:35:48.069000+00:00",
+      "fecha_local": "2026-07-10",
+      "editado_utc": null,
+      "texto": "**La tormenta había amainado. Las últimas gotas de lluvia golpeaban el Zampaolas, acompañadas por los primeros rayos del sol de la mañana. El pequeño navío permanecía varado cerca de la Costa del Garfio, a varias millas de Shiaru.**\n**El mar, aún embravecido por la batalla de la noche anterior, arrastraba hasta la orilla los restos de los barcos hundidos. Tablones astillados, barriles destrozados, sombreros, velas rasgadas y toda clase de despojos del combate se amontonaban sobre la playa, como el último recuerdo de una guerra recién librada.**\n**A bordo, los supervivientes del Zampaolas permanecían en silencio, cada uno perdido en sus propios pensamientos.**\n**La imagen de la Reina Pirata Happy Bonny entregando una de las Cinco Monedas de los Reyes Pirata a Ione y su insistencia por que abandonaran Shiaru, seguía grabada en sus mentes. Pero había un recuerdo que pesaba todavía más.**\n**La muerte de Nox.**\n**La realidad los golpeaba con la misma fuerza con la que las olas rompían contra el casco del Zampaolas**.",
+      "mensaje_sha256": "cdb39d33153fedb6bf19180d84a96278763ccdb6399eb753527ee4abec962d45",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525042844560003125",
+      "texto_sha256": "79e35b94f02a5034605c740d9e2ea9ebb31daacc7126c3657d9b35614ebdd203",
+      "adjuntos": []
+    },
+    {
+      "id": "1525248830570893413",
+      "fecha_utc": "2026-07-10T21:14:18.961000+00:00",
+      "fecha_local": "2026-07-10",
+      "editado_utc": null,
+      "texto": "<@753394009153732689> <@220602485977382912> <@210947008716996609>",
+      "mensaje_sha256": "e8e05664763073dd7bd6cf58c2abe1af0ad0f92911d4c5881129acb02da1dc43",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1525248830570893413",
+      "texto_sha256": "73577005ffc6993340d07070d14b5b26d8d05964493372ff997a0c41136b3220",
+      "adjuntos": []
+    }
+  ]
+}
