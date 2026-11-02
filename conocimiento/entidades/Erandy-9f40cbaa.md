@@ -12,7 +12,7 @@ Base para revisar equivalencia: [32-002](../capitulos/32.md), [36-001](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 43.
+Relato revisado hasta el capítulo 44.
 
 ### La escudera de Eleanor
 

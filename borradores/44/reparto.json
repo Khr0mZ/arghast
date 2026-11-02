@@ -1,0 +1,35 @@
+{
+  "capitulo": 44,
+  "fuente": "xoltacan_subtitulos/subtitulos/44 - KAfKPeZImT4.es-orig.vtt",
+  "sha256": "872ab6b8cb7097b7c1c5b0bcd20cf00a3e9264347bdf88b606f7b6972455f466",
+  "total_segmentos": 2516,
+  "bloques": [
+    {
+      "bloque": 1,
+      "inicio": "00:00:00.000",
+      "fin": "00:39:10.430",
+      "segmentos": 838,
+      "palabras": 4415,
+      "primer_segmento": "c000001",
+      "ultimo_segmento": "c001675"
+    },
+    {
+      "bloque": 2,
+      "inicio": "00:39:10.440",
+      "fin": "01:19:07.350",
+      "segmentos": 839,
+      "palabras": 4082,
+      "primer_segmento": "c001677",
+      "ultimo_segmento": "c003353"
+    },
+    {
+      "bloque": 3,
+      "inicio": "01:19:07.360",
+      "fin": "01:55:35.760",
+      "segmentos": 839,
+      "palabras": 4528,
+      "primer_segmento": "c003355",
+      "ultimo_segmento": "c005033"
+    }
+  ]
+}

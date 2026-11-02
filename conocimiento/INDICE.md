@@ -49,3 +49,4 @@ Las fichas reúnen acontecimientos seleccionados y citados. La tabla distingue d
 | 41 | [Serpientes en Iktan](capitulos/41.md) | disponible | revisado | [texto](../derivados/41/lectura.md) |
 | 42 | [Batalla en el Arrecife del Garfio](capitulos/42.md) | disponible | revisado | [texto](../derivados/42/lectura.md) |
 | 43 | [Batalla en la Jungla del Garfio](capitulos/43.md) | disponible | revisado | [texto](../derivados/43/lectura.md) |
+| 44 | [Una cura para Eromov](capitulos/44.md) | disponible | revisado | [texto](../derivados/44/lectura.md) |

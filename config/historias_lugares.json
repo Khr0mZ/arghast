@@ -1,5 +1,5 @@
 {
-  "revisado_hasta": 43,
+  "revisado_hasta": 44,
   "entidades": {
     "Atlan": [
       {
@@ -129,6 +129,26 @@
           "40-036",
           "40-038"
         ]
+      },
+      {
+        "titulo": "Una expedición y el regreso del ingrediente",
+        "texto": "Leona y Guayacán mantienen las rondas de vigilancia mientras Eromov sigue enfermo. Tlachka y Ayoto se reúnen con ellos junto a la cocina de Tacha. La llamada urgente de Parroter lleva a los cuatro a buscar espinas en una cueva junto a un lago cercano. Vuelven con el ingrediente y con el cadáver del devorafango. Mientras Tlachka cocina y Ayoto busca ayuda para trabajar el caparazón, el alquimista administra el remedio a Eromov ante sus guardias. Sus venas negras empiezan a menguar. La cura local no demuestra que hayan llegado los expertos esperados de Iktan ni identifica todas las muestras utilizadas.",
+        "referencias": [
+          "44-001",
+          "44-003",
+          "44-004",
+          "44-007",
+          "44-008",
+          "44-011",
+          "44-012",
+          "44-013",
+          "44-047",
+          "44-048",
+          "44-049",
+          "44-050",
+          "44-055",
+          "44-056"
+        ]
       }
     ],
     "El Bocado del Jaguar": [
@@ -138,6 +158,17 @@
         "referencias": [
           "16-018",
           "16-021"
+        ]
+      },
+      {
+        "titulo": "Una comida antes de la urgencia",
+        "texto": "El entorno de Tacha reúne de nuevo a los viajeros: Tlachka tuesta mazorcas, el tabernero sirve lechón y Leona y Guayacán comen tras sus rondas. Ayoto se incorpora al encuentro. La reunión se transforma en el reclutamiento para buscar un ingrediente de la cura de Eromov cuando Leona vuelve de hablar con Parroter.",
+        "referencias": [
+          "44-004",
+          "44-005",
+          "44-006",
+          "44-007",
+          "44-012"
         ]
       }
     ],
@@ -729,6 +760,24 @@
           "41-032",
           "41-038",
           "41-046"
+        ]
+      }
+    ],
+    "Cueva del lago cercano a Cuicapalli": [
+      {
+        "titulo": "Dos amenazas en una cueva de la infancia",
+        "texto": "Al buscar un hábitat húmedo para el devorafango, Leona recuerda una gran cueva junto a un lago donde jugaba con otros niños. Guía allí a sus compañeros, que encuentran barro, olor pestilente y huesos. Una masa de moho se alza cerca de la entrada. Contiene restos aparentemente humanoides y no tiene una boca definida. Leona entra en ella buscando el ingrediente y Ayoto la rescata. Después llega el devorafango y llena la sala de ácido. El grupo combate mientras Leona obtiene espinas desde su boca. La cueva no se identifica con la Hoja Caída, el refugio derrumbado de Citlali o la guarida del dragón.",
+        "referencias": [
+          "44-013",
+          "44-016",
+          "44-017",
+          "44-018",
+          "44-020",
+          "44-022",
+          "44-029",
+          "44-031",
+          "44-037",
+          "44-040"
         ]
       }
     ]

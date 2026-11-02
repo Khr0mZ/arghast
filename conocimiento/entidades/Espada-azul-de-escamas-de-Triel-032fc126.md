@@ -12,7 +12,7 @@ Base para revisar equivalencia: [14-002](../capitulos/14.md), [15-006](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 43.
+Relato revisado hasta el capítulo 44.
 
 ### El pasado de los hermanos en una hoja
 

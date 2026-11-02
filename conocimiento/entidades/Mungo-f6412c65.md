@@ -12,7 +12,7 @@ Base para revisar equivalencia: [12-009](../capitulos/12.md), [33-016](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 43.
+Relato revisado hasta el capítulo 44.
 
 ### El tercero de los hipopótamos reencontrados
 

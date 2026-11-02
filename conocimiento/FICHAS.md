@@ -12,9 +12,9 @@ Catálogo revisado de personajes, lugares, facciones y objetos. Las variantes ac
 | [Armin](entidades/Armin-c0521ab7.md) | 07, 09, 11, 12, 13, 15, 16, 21, 23, 35, 42, 43 | 12 |
 | [Atlan](entidades/Atlan-519e55fc.md) | 17, 20, 31, 41 | 11 |
 | [Axi](entidades/Axi-076869f2.md) | 02, 06, 09, 10, 11, 12, 13, 15, 17, 18, 20, 21, 22, 27, 33 | 165 |
-| [Ayoto](entidades/Ayoto-7c7c4eff.md) | 02, 04, 08, 10, 13, 14, 16, 18, 19, 22, 27, 29, 39 | 179 |
+| [Ayoto](entidades/Ayoto-7c7c4eff.md) | 02, 04, 08, 10, 13, 14, 16, 18, 19, 22, 27, 29, 39, 44 | 205 |
 | [Baps](entidades/Baps-1ea4d7bb.md) | 02, 07, 09, 13, 24, 38, 42 | 9 |
-| [Baton](entidades/Baton-bcc71aca.md) | 14, 16, 18, 22 | 11 |
+| [Baton](entidades/Baton-bcc71aca.md) | 14, 16, 18, 22, 44 | 12 |
 | [Blink](entidades/Blink-a37430e2.md) | 03, 04, 06, 08, 10, 11, 12, 14, 16, 19, 21, 22, 25, 26, 28, 34, 36, 41 | 230 |
 | [Bonnie](entidades/Bonnie-687fe059.md) | 01, 02, 03, 04, 05, 06, 07, 09, 10, 11, 12, 13, 14, 15, 16, 24, 25, 26, 28, 32, 33, 34, 35, 36, 37, 38, 42, 43 | 120 |
 | [Broche de Eleanor](entidades/Broche-de-Eleanor-96e7b600.md) | 43 | 1 |
@@ -22,6 +22,7 @@ Catálogo revisado de personajes, lugares, facciones y objetos. Las variantes ac
 | [Cabaña del Sueño](entidades/Cabaña-del-Sueño-f4cb44ee.md) | 16 | 1 |
 | [Caja de música de Citlali](entidades/Caja-de-música-de-Citlali-c17242c3.md) | 43 | 2 |
 | [Camar Taruan](entidades/Camar-Taruan-d8a37da1.md) | 16, 17, 20, 31 | 7 |
+| [Caparazón del Devorafango](entidades/Caparazón-del-Devorafango-33ac95ab.md) | 44 | 4 |
 | [Casino de Kilzer](entidades/Casino-de-Kilzer-5693ba3b.md) | 11, 13, 15, 17, 21, 23, 29 | 8 |
 | [Cañón tomado por Lunaria](entidades/Cañón-tomado-por-Lunaria-7e3a81cd.md) | 43 | 2 |
 | [Chalta](entidades/Chalta-514d0cb0.md) | 19 | 1 |
@@ -36,10 +37,12 @@ Catálogo revisado de personajes, lugares, facciones y objetos. Las variantes ac
 | [Collar de Blink](entidades/Collar-de-Blink-46915cef.md) | 19, 21, 22, 25, 26, 28 | 13 |
 | [Collar de plata de Leo](entidades/Collar-de-plata-de-Leo-f78f577f.md) | 21 | 3 |
 | [Conejo cornudo del bosque de Iktan](entidades/Conejo-cornudo-del-bosque-de-Iktan-66a4bf9d.md) | 41 | 1 |
-| [Coyote](entidades/Coyote-443d0b41.md) | 24, 26, 29, 31, 32, 39, 40 | 64 |
+| [Coyote](entidades/Coyote-443d0b41.md) | 24, 26, 29, 31, 32, 39, 40, 44 | 65 |
 | [Cuchillas Negras](entidades/Cuchillas-Negras-4efaf7d7.md) | 11 | 1 |
 | [Cueva de la Hoja Caída](entidades/Cueva-de-la-Hoja-Caída-20edad06.md) | 30 | 4 |
-| [Cuicapalli](entidades/Cuicapalli-93f3918c.md) | 01, 16, 17, 18, 19, 20, 21, 22, 24, 25, 26, 27, 28, 29, 30, 31, 32, 34, 39, 40, 41 | 54 |
+| [Cueva del lago cercano a Cuicapalli](entidades/Cueva-del-lago-cercano-a-Cuicapalli-a70a1ca5.md) | 44 | 5 |
+| [Cuicapalli](entidades/Cuicapalli-93f3918c.md) | 01, 16, 17, 18, 19, 20, 21, 22, 24, 25, 26, 27, 28, 29, 30, 31, 32, 34, 39, 40, 41, 44 | 66 |
+| [Devorafango](entidades/Devorafango-19096b0a.md) | 44 | 24 |
 | [Diario de capitán del mercante](entidades/Diario-de-capitán-del-mercante-7f77e970.md) | 14 | 2 |
 | [Diario Terran del nawal](entidades/Diario-Terran-del-nawal-5733150d.md) | 08, 10, 11, 12, 35 | 9 |
 | [Diente de Oro](entidades/Diente-de-Oro-4ca4182b.md) | 42 | 1 |
@@ -47,7 +50,7 @@ Catálogo revisado de personajes, lugares, facciones y objetos. Las variantes ac
 | [Diálogo](entidades/Diálogo-b6ce38f4.md) | 03, 04, 05 | 3 |
 | [Dragón de Erendriel](entidades/Dragón-de-Erendriel-3d428606.md) | 01, 05, 07, 08, 10, 12, 15, 16 | 35 |
 | [Dragón verde del bosque de Iktan](entidades/Dragón-verde-del-bosque-de-Iktan-375d008c.md) | 31, 40, 41, 42 | 27 |
-| [El Bocado del Jaguar](entidades/El-Bocado-del-Jaguar-9346dffa.md) | 16 | 1 |
+| [El Bocado del Jaguar](entidades/El-Bocado-del-Jaguar-9346dffa.md) | 16, 44 | 2 |
 | [El Garfio](entidades/El-Garfio-eb99b8e6.md) | 04, 07, 09, 20, 23, 42, 43 | 30 |
 | [El Huevo Emplumado](entidades/El-Huevo-Emplumado-37d0429c.md) | 31 | 2 |
 | [Eldrat](entidades/Eldrat-6a7a599b.md) | 14, 15, 16, 17, 20, 21, 23, 31, 40 | 103 |
@@ -56,8 +59,9 @@ Catálogo revisado de personajes, lugares, facciones y objetos. Las variantes ac
 | [Entidad serpentina vinculada a Citlali](entidades/Entidad-serpentina-vinculada-a-Citlali-1bb929e3.md) | 43 | 4 |
 | [Erandy](entidades/Erandy-9f40cbaa.md) | 32, 36, 37, 38, 40, 42, 43 | 66 |
 | [Erendriel](entidades/Erendriel-3d1de7c3.md) | 01, 05, 07, 08, 10, 11, 12, 15, 16, 17, 29, 34 | 115 |
-| [Eromov](entidades/Eromov-d32723db.md) | 16, 18, 19, 21, 22, 30, 40, 41 | 29 |
+| [Eromov](entidades/Eromov-d32723db.md) | 16, 18, 19, 21, 22, 30, 40, 41, 44 | 37 |
 | [Espada azul de escamas de Triel](entidades/Espada-azul-de-escamas-de-Triel-032fc126.md) | 14, 15, 40 | 3 |
+| [Espinas del Devorafango](entidades/Espinas-del-Devorafango-a86c9a6a.md) | 44 | 9 |
 | [Estandarte de Eleanor](entidades/Estandarte-de-Eleanor-837678a0.md) | 43 | 1 |
 | [Etley](entidades/Etley-2a71e705.md) | 34, 39, 43 | 26 |
 | [Forja del Águila de Sangre](entidades/Forja-del-Águila-de-Sangre-15fbdc82.md) | 16, 30 | 2 |
@@ -69,11 +73,12 @@ Catálogo revisado de personajes, lugares, facciones y objetos. Las variantes ac
 | [Gobs](entidades/Gobs-b5170ecf.md) | 08, 09, 10, 11, 24, 26, 42, 43 | 10 |
 | [Gorro de capitana de Ione](entidades/Gorro-de-capitana-de-Ione-bf4d4070.md) | 42 | 1 |
 | [Granja de Patata](entidades/Granja-de-Patata-e043db80.md) | 15, 16 | 3 |
-| [Guayacán](entidades/Guayacán-c518627b.md) | 22, 27, 30, 40 | 50 |
+| [Guayacán](entidades/Guayacán-c518627b.md) | 22, 27, 30, 40, 44 | 82 |
 | [Gustavo](entidades/Gustavo-ec29b76d.md) | 02, 09, 38 | 3 |
+| [Herrero de Cuicapalli](entidades/Herrero-de-Cuicapalli-1106fdb1.md) | 44 | 2 |
 | [Hospital de Shiaru](entidades/Hospital-de-Shiaru-67a23d77.md) | 08, 24 | 3 |
 | [Humo del Paso de los Muertos](entidades/Humo-del-Paso-de-los-Muertos-36fcb957.md) | 16 | 1 |
-| [Iktan](entidades/Iktan-335d5cc8.md) | 01, 17, 19, 20, 31, 39, 40, 41, 43 | 59 |
+| [Iktan](entidades/Iktan-335d5cc8.md) | 01, 17, 19, 20, 31, 39, 40, 41, 43, 44 | 63 |
 | [Ilikar](entidades/Ilikar-755f167e.md) | 38, 40, 42, 43 | 61 |
 | [Infiltrada serpiente del festival de Iktan](entidades/Infiltrada-serpiente-del-festival-de-Iktan-cc19509d.md) | 41 | 12 |
 | [Invictus](entidades/Invictus-5085618a.md) | 42 | 20 |
@@ -88,7 +93,7 @@ Catálogo revisado de personajes, lugares, facciones y objetos. Las variantes ac
 | [La Madriguera](entidades/La-Madriguera-4a6de756.md) | 16 | 1 |
 | [La Sirena Borracha](entidades/La-Sirena-Borracha-11fa65c0.md) | 01, 04, 06, 09 | 8 |
 | [Leo](entidades/Leo-5bc426e8.md) | 21, 31, 41 | 28 |
-| [Leona](entidades/Leona-2b8bf065.md) | 19, 21, 30, 40, 41 | 72 |
+| [Leona](entidades/Leona-2b8bf065.md) | 19, 21, 30, 40, 41, 44 | 113 |
 | [Liz](entidades/Liz-44787480.md) | 01, 04, 06, 07, 09, 10, 11, 13, 14, 20, 25, 31, 33, 35, 43 | 21 |
 | [Lucy](entidades/Lucy-a3fa95a3.md) | 05, 12 | 2 |
 | [Lunaria](entidades/Lunaria-b1fae852.md) | 05, 07, 09, 10, 13, 16, 22, 25, 30, 32, 35, 37, 39, 43 | 171 |
@@ -96,9 +101,10 @@ Catálogo revisado de personajes, lugares, facciones y objetos. Las variantes ac
 | [Mapa de Poncelot](entidades/Mapa-de-Poncelot-dfb6c5b3.md) | 20, 23, 25, 26 | 10 |
 | [Marga](entidades/Marga-390fe8dc.md) | 33, 35 | 8 |
 | [Margarita](entidades/Margarita-67c31b1e.md) | 33 | 1 |
-| [Marina](entidades/Marina-5c9ebdaf.md) | 03, 04, 05, 20, 23, 26, 28, 32, 34, 35, 37, 42, 43 | 122 |
+| [Marina](entidades/Marina-5c9ebdaf.md) | 03, 04, 05, 20, 23, 26, 28, 32, 34, 35, 37, 42, 43, 44 | 123 |
 | [Marina, la sirena](entidades/Marina-la-sirena-75cb33d9.md) | 06 | 9 |
 | [Maris](entidades/Maris-ff5819bb.md) | 24, 29, 31 | 18 |
+| [Masa de moho de la cueva](entidades/Masa-de-moho-de-la-cueva-06899748.md) | 44 | 14 |
 | [Masa zombi del claro envenenado](entidades/Masa-zombi-del-claro-envenenado-d5c9dcb9.md) | 40 | 9 |
 | [Melisa](entidades/Melisa-e693c0bd.md) | 14 | 1 |
 | [Merlucilla I](entidades/Merlucilla-I-7e0eccb5.md) | 03, 04, 06, 11 | 10 |
@@ -124,7 +130,7 @@ Catálogo revisado de personajes, lugares, facciones y objetos. Las variantes ac
 | [Nox](entidades/Nox-43930f60.md) | 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 23, 24, 25, 26, 28, 32, 33, 34, 35, 36, 37, 38, 39, 42, 43 | 376 |
 | [Ojo Ausente](entidades/Ojo-Ausente-63804c5e.md) | 13, 24, 28, 42 | 5 |
 | [Ojo-orbe recuperado por Nox](entidades/Ojo-orbe-recuperado-por-Nox-12b28a6c.md) | 28, 37, 42 | 8 |
-| [Parroter](entidades/Parroter-b4c38dab.md) | 16, 18, 30 | 8 |
+| [Parroter](entidades/Parroter-b4c38dab.md) | 16, 18, 30, 44 | 15 |
 | [Patata](entidades/Patata-0cae58ab.md) | 01, 04, 06, 07, 10, 11, 13, 14, 15, 16, 17, 18, 24, 26, 30, 32, 35 | 169 |
 | [Patata Hammer](entidades/Patata-Hammer-f0ff1927.md) | 16 | 2 |
 | [Perla de comunicación de Coyote](entidades/Perla-de-comunicación-de-Coyote-d7f5e9ab.md) | 24, 29 | 4 |
@@ -147,7 +153,7 @@ Catálogo revisado de personajes, lugares, facciones y objetos. Las variantes ac
 | [Sir Poncelot](entidades/Sir-Poncelot-7646ac87.md) | 03, 04, 06, 07, 11, 18, 20, 21, 23, 25, 26, 28, 29, 33, 35, 36, 37, 38, 40, 42, 43 | 236 |
 | [Smith](entidades/Smith-9f542590.md) | 35 | 2 |
 | [Sonriente](entidades/Sonriente-47913733.md) | 42 | 1 |
-| [Tacha](entidades/Tacha-92eaae45.md) | 16, 18, 19, 22, 27, 30 | 11 |
+| [Tacha](entidades/Tacha-92eaae45.md) | 16, 18, 19, 22, 27, 30, 44 | 18 |
 | [Tatuajes de la espalda de Nox](entidades/Tatuajes-de-la-espalda-de-Nox-b049b6f3.md) | 07, 09, 26, 42 | 7 |
 | [Taylor](entidades/Taylor-c2793b82.md) | 42 | 4 |
 | [Templo de Lares](entidades/Templo-de-Lares-3d1910e1.md) | 18 | 3 |
@@ -155,7 +161,7 @@ Catálogo revisado de personajes, lugares, facciones y objetos. Las variantes ac
 | [Tentacol](entidades/Tentacol-0a1037cb.md) | 41 | 27 |
 | [Tesara Queen](entidades/Tesara-Queen-ad298bcb.md) | 31, 40 | 21 |
 | [Tim](entidades/Tim-aac09a64.md) | 34 | 1 |
-| [Tlachka](entidades/Tlachka-2b338118.md) | 01, 04, 08, 25, 27, 29, 37, 39 | 107 |
+| [Tlachka](entidades/Tlachka-2b338118.md) | 01, 04, 08, 25, 27, 29, 37, 39, 44 | 129 |
 | [Tommy](entidades/Tommy-5bee7cef.md) | 24 | 1 |
 | [Tortas](entidades/Tortas-9c0d0a8e.md) | 40, 41, 42 | 44 |
 | [Tribu de la Hoja Caída](entidades/Tribu-de-la-Hoja-Caída-bc015591.md) | 30 | 3 |
@@ -168,6 +174,6 @@ Catálogo revisado de personajes, lugares, facciones y objetos. Las variantes ac
 | [Walulu](entidades/Walulu-b09835b6.md) | 31, 39, 40, 41 | 30 |
 | [Winscore](entidades/Winscore-0649306b.md) | 24, 30, 34, 41 | 70 |
 | [Xoltacan](entidades/Xoltacan-38a8651d.md) | 35, 36, 40, 41, 42 | 7 |
-| [Yuan-ti](entidades/Yuan-ti-682c1e38.md) | 18, 22, 40, 41 | 22 |
+| [Yuan-ti](entidades/Yuan-ti-682c1e38.md) | 18, 22, 40, 41, 44 | 24 |
 | [Zampaolas](entidades/Zampaolas-e0f1bbc3.md) | 01, 02, 03, 04, 05, 07, 09, 11, 13, 33, 34, 35, 36, 37, 38, 42, 43 | 62 |
 | [Zarial](entidades/Zarial-c5a038cf.md) | 20, 21, 34 | 32 |

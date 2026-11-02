@@ -12,7 +12,7 @@ Base para revisar equivalencia: [03-021](../capitulos/03.md), [04-017](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 43.
+Relato revisado hasta el capítulo 44.
 
 ### El bate con el que Ione evita las palabras
 

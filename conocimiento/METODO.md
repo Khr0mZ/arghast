@@ -78,3 +78,9 @@ Al incorporar capítulos, el seguimiento señala los cotejos anteriores que nece
 6. Conservar dudas y revisar relaciones con los episodios ya documentados.
 
 `revisado` significa que se leyó todo el episodio y se redactó una selección estructurada de hechos relevantes; no garantiza extracción exhaustiva de cada detalle. No implica audio cotejado ni revisión externa. Los episodios sin ficha permanecen pendientes aunque su transcripción ya esté preparada.
+
+## Incorporación del capítulo 44
+
+«Una cura para Eromov» se incorpora después de leer completos los 2.516 segmentos en tres bloques sin solapamiento. El [reparto](../borradores/44/reparto.json), las tres entregas y la [integración](../borradores/44/integracion.json) conservan la cobertura. La [procedencia](../config/fuente_xoltacan_44.json) registra las dos variantes VTT, sus dos representaciones TXT y el metadato original con sus cinco hashes. El audio no se ha cotejado.
+
+El directo está documentado el 15 de julio de 2026 mediante el anuncio conservado; YouTube publicó el vídeo el 1 de noviembre. La duración de 6.934 segundos orienta la colocación del rol escrito, sin certificar el comienzo o el final reales de la partida. Las fuentes e identidades de Kuroto permanecen separadas.

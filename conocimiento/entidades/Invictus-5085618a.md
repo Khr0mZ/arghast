@@ -12,7 +12,7 @@ Base para revisar equivalencia: [42-019](../capitulos/42.md), [42-020](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 43.
+Relato revisado hasta el capítulo 44.
 
 ### La aproximación de Tórtola
 

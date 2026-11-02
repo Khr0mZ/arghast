@@ -12,7 +12,7 @@ Base para revisar equivalencia: [18-007](../capitulos/18.md), [22-012](../capitu
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 43.
+Relato revisado hasta el capítulo 44.
 
 ### Una amenaza antigua que vuelve a salir
 
@@ -221,4 +221,20 @@ Tipo: `hecho_confirmado`.
 De vuelta en Iktan, el grupo encuentra a la población reunida ante la gran tortuga venerada como estatua. Tortas se mueve muy lentamente, mira alrededor y habla. Naór coloca las cabezas como ofrenda, se arrodilla y llora porque lleva visitando el lugar desde pequeña y nunca había conseguido verlo moverse. Tortas dice recordar sus primeros bigotes y la llama Bigotitos.
 
 Las cabezas se ofrecen a Tortas en esta escena, aunque Naór las había destinado antes a Leo y Walulu. La sorpresa de este grupo no implica que Tortas estuviera inmóvil entre los capítulos 40 y 41 ni que se repita cronológicamente su despertar.
+
+## [44-001 · Leona busca rastros tras su misión de aviso](../capitulos/44.md) · 00:00:47.039
+
+Tipo: `declaracion_personaje`.
+
+Leona recuerda que salió por órdenes para avisar sobre las serpientes y pedir que acudieran personas capaces de ayudar. Se ha reunido de nuevo con Guayacán y, mientras espera los resultados de esa ayuda, ha buscado pistas de las serpientes cerca del poblado.
+
+El contexto enlaza el aviso previo a Iktan, sin detallar en este repaso una llegada efectiva de recetas, protecciones o refuerzos. La presentación de Leona como posible futura líder no equivale a una investidura.
+
+## [44-002 · Tlachka recuerda Iktan y prepara fruta y mazorcas](../capitulos/44.md) · 00:01:35.200
+
+Tipo: `declaracion_personaje`.
+
+Tlachka relata su paso por Iktan y recuerda personas que se transformaban en serpientes. Ha buscado descanso apartado de Coyote, recogido frutas en los alrededores y preparado mazorcas para vender.
+
+El repaso no identifica una nueva infiltrada o un combate distinto. Su recuerdo de Iktan no le atribuye por sí solo las acciones del grupo del capítulo 41.
 

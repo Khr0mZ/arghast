@@ -12,7 +12,7 @@ Base para revisar equivalencia: [31-020](../capitulos/31.md), [31-022](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 43.
+Relato revisado hasta el capítulo 44.
 
 ### Descansar después del bosque
 

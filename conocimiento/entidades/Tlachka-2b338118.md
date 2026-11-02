@@ -8,11 +8,11 @@ Mismo guerrero nativo: las variantes de grafía editorial no son personajes dist
 
 Etiquetas agrupadas: Guerrero nativo (Tlachka, grafía provisional); Tlachka / Tlacha (grafía provisional); Tlachka / Tlacha / Tlaxka (grafía provisional); Tlachka / Tlatka (nativo, grafía provisional).
 
-Base para revisar equivalencia: [01-004](../capitulos/01.md), [08-001](../capitulos/08.md), [27-004](../capitulos/27.md), [37-002](../capitulos/37.md).
+Base para revisar equivalencia: [01-004](../capitulos/01.md), [08-001](../capitulos/08.md), [27-004](../capitulos/27.md), [37-002](../capitulos/37.md), [44-002](../capitulos/44.md), [44-004](../capitulos/44.md), [44-005](../capitulos/44.md), [44-006](../capitulos/44.md), [44-007](../capitulos/44.md), [44-012](../capitulos/44.md), [44-013](../capitulos/44.md), [44-016](../capitulos/44.md), [44-022](../capitulos/44.md), [44-026](../capitulos/44.md), [44-030](../capitulos/44.md), [44-035](../capitulos/44.md), [44-040](../capitulos/44.md), [44-041](../capitulos/44.md), [44-045](../capitulos/44.md), [44-047](../capitulos/44.md), [44-050](../capitulos/44.md), [44-054](../capitulos/44.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 43.
+Relato revisado hasta el capítulo 44.
 
 ### Las advertencias de un superviviente
 
@@ -31,6 +31,12 @@ Fuentes: [25-003 · Luna experimenta y Tlachka vende elotes](../capitulos/25.md)
 Bonnie y Molly lo ponen al mando de una emboscada contra un convoy de suministros de la Marina. El grupo consigue entregar una de las carretas y recibe una recompensa. Después encuentra a Citlali cerca de Cuicapalli, ayuda a defender a Etley y, cuando se derrumba la cueva, va a buscar guardias para el rescate. Sobrevive al drenaje de vida de Citlali y la acompaña hacia el norte hasta Iktan. Al final busca alojamiento separado para evitar las molestias de Coyote.
 
 Fuentes: [37-004 · Emboscada a los suministros con Tlachka al mando](../capitulos/37.md) · 00:24:00.000 · [37-015 · Entrega de una carreta y recompensas](../capitulos/37.md) · 01:57:00.000 · [39-013 · Los guardias ayudan a rescatar a Citlali y Etley](../capitulos/39.md) · 01:27:00.000 · [39-014 · Citlali drena a Tlachka y el grupo marcha al norte](../capitulos/39.md) · 01:34:00.000 · [39-020 · Descanso en Iktan y expulsión de Coyote](../capitulos/39.md) · 02:12:00.000.
+
+### Del rescate a la cocina de Cuicapalli
+
+Tlachka recuerda su estancia en Iktan, donde buscó descanso apartado de Coyote, y vuelve a preparar frutas y mazorcas junto a Tacha. Deja la comida para acompañar la búsqueda del ingrediente de Eromov. Al hurgar en el moho encuentra huesos aparentemente humanoides, no las espinas buscadas. Sus golpes dejan a la masa moribunda. Ante el devorafango ataca el vientre sin espinas con el arma cargada por el ácido recibido. Cuando Guayacán inmoviliza al animal, abre sus mandíbulas y ofrece a Leona la mano para sacarla con el ingrediente. Después ayuda a Ayoto a arrastrar el cadáver, rompe púas de la cola para facilitar el traslado y cocina carne con chiles junto al agua. Tacha observa la preparación y Leona prueba el plato. Su presencia en Cuicapalli no acredita que se haya revocado formalmente su destierro.
+
+Fuentes: [44-002 · Tlachka recuerda Iktan y prepara fruta y mazorcas](../capitulos/44.md) · 00:01:35.200 · [44-004 · Leona y Guayacán vuelven de las rondas y comen junto a Tlachka](../capitulos/44.md) · 00:03:29.480 · [44-005 · Guayacán cambia la voz al reconocer a Tlachka](../capitulos/44.md) · 00:05:57.880 · [44-006 · Ayoto se reúne con sus compañeros y cuenta sus viajes](../capitulos/44.md) · 00:09:26.200 · [44-007 · Un guardia lleva a Leona y Guayacán ante Parroter](../capitulos/44.md) · 00:12:48.240 · [44-012 · Leona recluta a Ayoto y Tlachka para buscar las espinas](../capitulos/44.md) · 00:20:54.760 · [44-013 · Leona recuerda una cueva de su infancia junto a un lago](../capitulos/44.md) · 00:25:46.960 · [44-016 · La cueva junto al lago huele mal y contiene huesos](../capitulos/44.md) · 00:32:38.600 · [44-022 · Tlachka extrae huesos humanoides del moho](../capitulos/44.md) · 00:41:10.960 · [44-026 · Ayoto vuelve a provocar y Tlachka mantiene golpes no letales](../capitulos/44.md) · 00:48:27.000 · [44-030 · La masa queda moribunda entre restos de huesos](../capitulos/44.md) · 00:57:52.799 · [44-035 · Tlachka golpea el vientre desprotegido con ácido en el arma](../capitulos/44.md) · 01:09:11.159 · [44-040 · Tlachka intenta abrir la mandíbula mientras Leona sigue dentro](../capitulos/44.md) · 01:18:34.280 · [44-041 · Guayacán aclara que sujeta el cuello para ayudar a Leona](../capitulos/44.md) · 01:19:07.360 · [44-045 · Tlachka abre la mandíbula y saca a Leona con las espinas](../capitulos/44.md) · 01:27:11.760 · [44-047 · Ayoto y Tlachka arrastran el cadáver hacia Cuicapalli](../capitulos/44.md) · 01:31:52.080 · [44-050 · Tlachka limpia y cocina la carne con chile](../capitulos/44.md) · 01:40:34.320 · [44-054 · Leona prueba la carne y resiste la salsa más picante](../capitulos/44.md) · 01:48:50.360.
 
 ## Registros y evidencias
 
@@ -889,4 +895,180 @@ Tipo: `hecho_confirmado`.
 Citlali y Etley duermen en el templo. Ella oye en la habitación contigua a los elfos y a Walulu, que tratan la enfermedad de la elfa. Ayoto y Tlachka piden habitaciones individuales en la taberna para evitar a Coyote. El director confirma que es un cambiaformas. Coyote intenta obtener el amor de Angelique sin éxito; un guardia lo expulsa y duerme fuera, cerca del poste donde lo cuelgan. Se confirma la llegada a Iktan y se sugiere que algo observa el entorno, sin identificarlo.
 
 Coyote y Citlali son personajes distintos aunque compartan jugador. El alias aportado en el contexto no acredita una identidad única.
+
+## [44-002 · Tlachka recuerda Iktan y prepara fruta y mazorcas](../capitulos/44.md) · 00:01:35.200
+
+Tipo: `declaracion_personaje`.
+
+Tlachka relata su paso por Iktan y recuerda personas que se transformaban en serpientes. Ha buscado descanso apartado de Coyote, recogido frutas en los alrededores y preparado mazorcas para vender.
+
+El repaso no identifica una nueva infiltrada o un combate distinto. Su recuerdo de Iktan no le atribuye por sí solo las acciones del grupo del capítulo 41.
+
+## [44-004 · Leona y Guayacán vuelven de las rondas y comen junto a Tlachka](../capitulos/44.md) · 00:03:29.480
+
+Tipo: `hecho_confirmado`.
+
+Leona y Guayacán regresan a Cuicapalli cubiertos de hojas y con marcas de sus rondas por los alrededores. Esperan que Eromov mejore y que lleguen refuerzos. Se acercan a Tacha y piden comida. Tlachka se ha hecho un hueco junto a la cocina para tostar mazorcas como acompañamiento.
+
+La expectativa de refuerzos no representa su llegada. El establecimiento se vincula contextualmente a la taberna de Tacha ya catalogada; no se pronuncia un nombre nuevo para el local.
+
+## [44-005 · Guayacán cambia la voz al reconocer a Tlachka](../capitulos/44.md) · 00:05:57.880
+
+Tipo: `hecho_confirmado`.
+
+La interpretación distingue una voz normal de Guayacán y otra que adopta al ponerse firme ante Tlachka, a quien reconoce del enfrentamiento contra la Marina. Hablan de las serpientes de Iktan y de la búsqueda de venenos, sin aportar una muestra nueva. Tacha sirve tres platos de lechón y Guayacán cambia su porción de carne por una mazorca de Tlachka.
+
+El cambio de voz no declara la especie o identidad oculta de Guayacán. Las alusiones humorísticas al perro y a su cola no prueban una acción nueva de Coyote o un conocimiento del veneno.
+
+## [44-006 · Ayoto se reúne con sus compañeros y cuenta sus viajes](../capitulos/44.md) · 00:09:26.200
+
+Tipo: `declaracion_personaje`.
+
+Ayoto llega a la comida, saluda a Tlachka, Leona y Guayacán y cuenta que ha vuelto de Iktan a Cuicapalli para informarse de lo ocurrido. Recuerda su estancia bajo el mar, su desorientación en el bosque, las amenazas en una ciudad oculta y la ayuda de un perro extraño. Afirma haber ayudado en el agua y querer hacerlo también en tierra.
+
+El repaso es su testimonio. La mención del perro no contiene un nombre y no crea una identidad nueva; tampoco demuestra una misión submarina distinta o resultados no representados aquí.
+
+## [44-007 · Un guardia lleva a Leona y Guayacán ante Parroter](../capitulos/44.md) · 00:12:48.240
+
+Tipo: `hecho_confirmado`.
+
+Un guardia busca a Leona porque Parroter la reclama con urgencia. Guayacán sigue a su maestra hasta la choza de Eromov. Ayoto y Tlachka se quedan comiendo con Tacha; Ayoto ofrece comida a otro guardia, que la acepta sin abandonar expresamente su puesto.
+
+Los guardias permanecen sin nombre y no se fusionan por compartir función. La demora en la comida no se convierte en un daño concreto a Eromov.
+
+## [44-012 · Leona recluta a Ayoto y Tlachka para buscar las espinas](../capitulos/44.md) · 00:20:54.760
+
+Tipo: `hecho_confirmado`.
+
+Mientras Tacha continúa sirviendo comida, Leona y Guayacán vuelven a buscar a Ayoto y Tlachka. La harengon explica la urgencia de salvar a Eromov y solicita ayuda a ambos. Tras un equívoco sobre si el dirigente tiene una espina en la garganta, aclara que deben buscar una criatura de barro y sacar de su boca el ingrediente mientras viva. El grupo acepta salir con ella hacia cuevas, ríos o lagos.
+
+La espina en la garganta de Eromov es un malentendido corregido, no un diagnóstico. Las dificultades de conexión pertenecen a la mesa y no se convierten en sucesos de la ficción.
+
+## [44-013 · Leona recuerda una cueva de su infancia junto a un lago](../capitulos/44.md) · 00:25:46.960
+
+Tipo: `hecho_confirmado`.
+
+Los cuatro salen de Cuicapalli y se internan en la jungla. Leona busca agua estancada y lugares húmedos mientras Ayoto rastrea sin conocer bien al animal. Tras la búsqueda, la harengon recuerda un lago cercano y una gran cueva donde jugaba con otros niños. Considera que su barro y humedad encajan con la descripción y conduce allí a sus compañeros.
+
+La cueva carece de topónimo en el pasaje. El recuerdo de Leona no la identifica con la Hoja Caída o con la cueva derrumbada del capítulo 39, ni confirma todavía la presencia del devorafango.
+
+## [44-014 · Las frutas afectan las sombras y el brillo de los viajeros](../capitulos/44.md) · 00:28:39.960
+
+Tipo: `explicacion_director`.
+
+Al comer frutas, la sombra de Leona grita sin sonido cuando ataca; Ayoto pasa a temer a su propia sombra; Guayacán brilla de verde, con desventaja para el sigilo y ventaja para el carisma. Durante el mismo intercambio, el director concede al grupo bendición y un dado de cuatro para la partida.
+
+No se adjudica inequívocamente un efecto individual de fruta a Tlachka. La procedencia de la bendición colectiva no se explica con suficiente claridad para atribuírsela a su fruta. Los efectos no acreditan rasgos permanentes o una identidad nueva de las sombras.
+
+## [44-015 · El viaje continúa entre sombras y una interrupción del mono](../capitulos/44.md) · 00:31:13.039
+
+Tipo: `hecho_confirmado`.
+
+Los compañeros siguen a Leona. Ayoto, temblando por el temor a su sombra, busca la cobertura de un árbol, aunque el director recuerda que la sombra lo sigue. Un mono observa a los viajeros y, tras unos segundos de miradas, lanza una piel de plátano; uno declara una caída cómica. El animal se ríe y trepa para alejarse.
+
+No queda fijado con seguridad el actor de todas las intervenciones del incidente. El mono no recibe nombre ni se identifica con Pix; tampoco se narra que sea capturado o comido.
+
+## [44-016 · La cueva junto al lago huele mal y contiene huesos](../capitulos/44.md) · 00:32:38.600
+
+Tipo: `hecho_confirmado`.
+
+Los viajeros llegan al lago y a la cueva embarrada que recuerda Leona. Ella se aproxima a la entrada y observa un interior de olor pestilente con huesos por el suelo. Los interpreta como restos de comida de la criatura buscada y llama a los demás para que se acerquen.
+
+Los huesos no se identifican por especie, nombre o causa exacta de muerte. Su presencia no demuestra aún qué criatura los dejó ni una conexión con los restos envenenados de Iktan.
+
+## [44-017 · El grupo se reúne ante la entrada y recuerda la condición del encargo](../capitulos/44.md) · 00:34:38.200
+
+Tipo: `hecho_confirmado`.
+
+Los cuatro alcanzan la cueva. Leona intenta atraer a la bestia con llamadas como si fuese un gato y promete no matarla por un rato. Guayacán recuerda que deben extraer la espina mientras viva o la misión no servirá, y Leona confirma la instrucción.
+
+Las llamadas no identifican al animal como felino ni prueban que responda. El recordatorio habla de la criatura del encargo antes de que el grupo identifique a su primer adversario.
+
+## [44-022 · Tlachka extrae huesos humanoides del moho](../capitulos/44.md) · 00:41:10.960
+
+Tipo: `hecho_confirmado`.
+
+Tlachka intenta abrir la boca de la criatura para buscar una espina, pero el director aclara que es una masa de moho sin boca propiamente dicha. Introduce la mano y tira del material: extrae restos de huesos que parecen humanoides y se están consumiendo. Dice a Leona que no encuentra lo que buscan y ella decide probar.
+
+Los huesos no reciben identidad personal, fecha o procedencia. Buscar una espina en el moho no demuestra que sea el Devorafango del encargo.
+
+## [44-026 · Ayoto vuelve a provocar y Tlachka mantiene golpes no letales](../capitulos/44.md) · 00:48:27.000
+
+Tipo: `hecho_confirmado`.
+
+Ayoto intenta nuevos golpes y vuelve a aplicar su maniobra de provocación cuando uno alcanza a la masa. El director confirma el fallo de su salvación. Después Tlachka golpea con su macuahuitl y acuerda emplear daño no letal.
+
+La intención de evitar la muerte se refiere a los golpes declarados en esta fase; no determina por sí sola el estado final de la criatura.
+
+## [44-030 · La masa queda moribunda entre restos de huesos](../capitulos/44.md) · 00:57:52.799
+
+Tipo: `hecho_confirmado`.
+
+Tlachka continúa atacando y la masa queda a un punto de vida según la resolución del director. Al abrir y apartar el moho salen nuevos restos de huesos que parecían estar siendo consumidos en su interior. Más tarde se corrige el comentario de que está muerta: seguía moribunda al comenzar la siguiente amenaza.
+
+El reconocimiento alterna formulaciones de letal y no letal en estos golpes; se conserva el estado explícito de un punto de vida. No se fija aquí su muerte ni la identidad de los restos.
+
+## [44-035 · Tlachka golpea el vientre desprotegido con ácido en el arma](../capitulos/44.md) · 01:09:11.159
+
+Tipo: `hecho_confirmado`.
+
+Tlachka se acerca con el arma descrita como cargada por el escupitajo ácido y ataca al Devorafango derribado. El director precisa que el vientre no tiene las espinas que cubren la espalda. Tlachka encadena golpes y suma el ácido al daño. Los impactos hacen que la criatura se agite y Leona se golpee de un lado a otro dentro de su boca.
+
+El ácido en el arma se conserva como efecto resuelto en esta acción, no como una modificación permanente del arma. La sucesión de ataques no se convierte en varios turnos o personas distintas.
+
+## [44-040 · Tlachka intenta abrir la mandíbula mientras Leona sigue dentro](../capitulos/44.md) · 01:18:34.280
+
+Tipo: `hecho_confirmado`.
+
+Tlachka pregunta si Leona ya tiene la espina y el director recuerda que sigue dentro y sus compañeros no pueden saberlo automáticamente. Guayacán pide obtener más. Ante la interpretación de que el agarre dificulta la salida, Tlachka coloca un pie en la mandíbula inferior y prepara un apoyo para forzar su apertura.
+
+Guayacán aclara después que pretende estabilizar el cuello y no cerrar deliberadamente la boca (44-041). Tlachka abre las mandíbulas y saca a Leona en 44-045.
+
+## [44-041 · Guayacán aclara que sujeta el cuello para ayudar a Leona](../capitulos/44.md) · 01:19:07.360
+
+Tipo: `hecho_confirmado`.
+
+Tlachka intenta forzar la mandíbula superior de la criatura para abrirla. El director interpreta inicialmente que Guayacán está cerrando la boca con Leona dentro, pero este aclara que solo quiere estabilizar el cuello para que su maestra pueda extraer las espinas. El director acepta la corrección; la primera tirada para agarrar la boca no consigue abrirla.
+
+La aclaración sustituye la primera interpretación de cerrar la boca. No se narra un intento deliberado de encerrar o asfixiar a Leona.
+
+## [44-045 · Tlachka abre la mandíbula y saca a Leona con las espinas](../capitulos/44.md) · 01:27:11.760
+
+Tipo: `hecho_confirmado`.
+
+Con la criatura restringida, Tlachka vuelve a abrirle la boca hasta dejarla casi vertical. Ve a Leona arrancando espinas dentro, mantiene la mandíbula inferior con una pierna y le ofrece la mano. Leona acepta; Tlachka la saca con el ingrediente. Ella espera que las dos espinas recogidas sean suficientes.
+
+La salida se representa expresamente, sin asumir un rescate anterior. El número de dos queda reiterado al entregar las púas a Parroter.
+
+## [44-047 · Ayoto y Tlachka arrastran el cadáver hacia Cuicapalli](../capitulos/44.md) · 01:31:52.080
+
+Tipo: `hecho_confirmado`.
+
+Ayoto y Tlachka deciden llevarse la criatura para obtener raciones y aprovechar su caparazón. La arrastran con dificultad; sus espinas se les clavan. Tlachka rompe parte de las púas de la cola con su arma para crear un lugar por donde agarrarla y continúan hasta Cuicapalli con el enorme cadáver.
+
+La decisión de comerla y las propuestas de aprovechar piel o partes no prueban todavía una comida cocinada, una venta ni la fabricación de equipo. La grafía del arma fluctúa y no se crea un arma nueva por cada variante.
+
+## [44-049 · Ayoto pide un artesano del norte y paga a Tacha](../capitulos/44.md) · 01:38:38.760
+
+Tipo: `hecho_confirmado`.
+
+Junto al cadáver se discute cómo separar el caparazón para fabricar otro escudo. Ayoto pregunta dónde encontrar a quien trabaja pieles y le indican una tienda al norte. Antes de ir, entrega dos monedas de oro a Tacha porque suele darles de comer y cree que no le han pagado.
+
+El pago a Tacha se distingue de la promesa de pagar al herrero. No se fija un precio de fabricación del nuevo escudo.
+
+## [44-050 · Tlachka limpia y cocina la carne con chile](../capitulos/44.md) · 01:40:34.320
+
+Tipo: `hecho_confirmado`.
+
+Mientras Ayoto busca al artesano, Tlachka abre el cadáver, extrae carne y la limpia junto al agua. Después la prepara con chile machacado al fuego. Tacha, que primero la había olido con desagrado, se queda observando la receta por curiosidad y se acerca cuando empieza a oler bien. Tlachka prueba la carne una vez hecha.
+
+Las comparaciones con gamba describen textura y caparazón, sin fijar una especie de bestiario. No se registra una intoxicación ni se demuestra que el calor elimine todos los riesgos mencionados por Parroter.
+
+## [44-054 · Leona prueba la carne y resiste la salsa más picante](../capitulos/44.md) · 01:48:50.360
+
+Tipo: `hecho_confirmado`.
+
+Leona toma una bebida mientras espera, prueba la carne que prepara Tlachka y pide más picante. Moja su porción en la salsa más fuerte disponible y supera la tirada de constitución para soportar el picor. Dice que está buena y continúa comiendo, aunque pide todavía más salsa.
+
+La tirada se refiere al picante añadido. Su éxito no demuestra inmunidad a venenos ni que el plato sea inocuo a largo plazo.
 

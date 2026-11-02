@@ -12,7 +12,7 @@ Base para revisar equivalencia: [41-006](../capitulos/41.md), [41-008](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 43.
+Relato revisado hasta el capítulo 44.
 
 ### Un viajero de las aguas profundas
 

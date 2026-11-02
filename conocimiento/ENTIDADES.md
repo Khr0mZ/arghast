@@ -406,6 +406,32 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 39, 01:40:00.000: Animales vigilantes y rastros de viajeros anteriores ([39-015](capitulos/39.md)).
 - Cap. 39, 02:08:00.000: Luna prueba las ganzúas y Coyote recibe una reprimenda ([39-019](capitulos/39.md)).
 - Cap. 39, 02:12:00.000: Descanso en Iktan y expulsión de Coyote ([39-020](capitulos/39.md)).
+- Cap. 44, 00:09:26.200: Ayoto se reúne con sus compañeros y cuenta sus viajes ([44-006](capitulos/44.md)).
+- Cap. 44, 00:12:48.240: Un guardia lleva a Leona y Guayacán ante Parroter ([44-007](capitulos/44.md)).
+- Cap. 44, 00:20:54.760: Leona recluta a Ayoto y Tlachka para buscar las espinas ([44-012](capitulos/44.md)).
+- Cap. 44, 00:25:46.960: Leona recuerda una cueva de su infancia junto a un lago ([44-013](capitulos/44.md)).
+- Cap. 44, 00:28:39.960: Las frutas afectan las sombras y el brillo de los viajeros ([44-014](capitulos/44.md)).
+- Cap. 44, 00:31:13.039: El viaje continúa entre sombras y una interrupción del mono ([44-015](capitulos/44.md)).
+- Cap. 44, 00:32:38.600: La cueva junto al lago huele mal y contiene huesos ([44-016](capitulos/44.md)).
+- Cap. 44, 00:34:38.200: El grupo se reúne ante la entrada y recuerda la condición del encargo ([44-017](capitulos/44.md)).
+- Cap. 44, 00:37:53.760: Leona evita que la masa la envuelva ([44-020](capitulos/44.md)).
+- Cap. 44, 00:39:10.440: Ayoto atrae la atención de la masa de moho ([44-021](capitulos/44.md)).
+- Cap. 44, 00:46:05.520: La criatura hiere desde dentro y Ayoto replica a un fallo ([44-025](capitulos/44.md)).
+- Cap. 44, 00:48:27.000: Ayoto vuelve a provocar y Tlachka mantiene golpes no letales ([44-026](capitulos/44.md)).
+- Cap. 44, 00:51:43.880: Guayacán logra aturdir a la masa ([44-028](capitulos/44.md)).
+- Cap. 44, 00:54:29.280: Ayoto saca a Leona y ocupa su lugar dentro de la masa ([44-029](capitulos/44.md)).
+- Cap. 44, 00:57:52.799: La masa queda moribunda entre restos de huesos ([44-030](capitulos/44.md)).
+- Cap. 44, 00:59:10.680: El Devorafango entra y cubre la sala de ácido ([44-031](capitulos/44.md)).
+- Cap. 44, 01:06:05.119: Ayoto sube al lomo y derriba al Devorafango ([44-034](capitulos/44.md)).
+- Cap. 44, 01:10:42.520: Un mordisco deja a Guayacán al límite y la cola derriba a Ayoto ([44-036](capitulos/44.md)).
+- Cap. 44, 01:16:18.560: Ayoto dirige sus golpes hacia la cola ([44-039](capitulos/44.md)).
+- Cap. 44, 01:20:46.880: La criatura golpea con la cola y Leona extrae otra espina ([44-042](capitulos/44.md)).
+- Cap. 44, 01:24:46.159: Ayoto se levanta y combate cegado por el barro ([44-044](capitulos/44.md)).
+- Cap. 44, 01:31:52.080: Ayoto y Tlachka arrastran el cadáver hacia Cuicapalli ([44-047](capitulos/44.md)).
+- Cap. 44, 01:38:38.760: Ayoto pide un artesano del norte y paga a Tacha ([44-049](capitulos/44.md)).
+- Cap. 44, 01:41:12.400: El herrero exige que Ayoto lleve el material a la tienda ([44-051](capitulos/44.md)).
+- Cap. 44, 01:44:11.679: Guayacán usa su oficio de peletero para separar el caparazón ([44-053](capitulos/44.md)).
+- Cap. 44, 01:50:19.480: Ayoto reúne el exoesqueleto para encargar un escudo ([44-055](capitulos/44.md)).
 
 ## Baps
 
@@ -432,6 +458,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 22, 00:16:00.000: Festival y Guayacán presentado ([22-002](capitulos/22.md)).
 - Cap. 22, 00:53:00.000: Ayoto gana el banquete y un caparazón ([22-006](capitulos/22.md)).
 - Cap. 22, 01:07:00.000: Guayacán gana una carrera con sabotajes ([22-008](capitulos/22.md)).
+- Cap. 44, 01:41:12.400: El herrero exige que Ayoto lleve el material a la tienda ([44-051](capitulos/44.md)).
 
 ## Blink
 
@@ -817,6 +844,13 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 20, 00:20:00.000: Una mujer acuática y una riña llevan a Poncelot al grupo ([20-004](capitulos/20.md)).
 - Cap. 31, 02:49:00.000: Gualulu, amiga de la infancia de Naór, y la muerte de su padre ([31-024](capitulos/31.md)).
 - Cap. 31, 03:04:00.000: Naór convoca un concilio y Gualulu apoya al rey ([31-027](capitulos/31.md)).
+
+## Caparazón del Devorafango
+
+- Cap. 44, 01:31:52.080: Ayoto y Tlachka arrastran el cadáver hacia Cuicapalli ([44-047](capitulos/44.md)).
+- Cap. 44, 01:38:38.760: Ayoto pide un artesano del norte y paga a Tacha ([44-049](capitulos/44.md)).
+- Cap. 44, 01:44:11.679: Guayacán usa su oficio de peletero para separar el caparazón ([44-053](capitulos/44.md)).
+- Cap. 44, 01:50:19.480: Ayoto reúne el exoesqueleto para encargar un escudo ([44-055](capitulos/44.md)).
 
 ## Casino de Kilzer
 
@@ -1287,6 +1321,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 39, 02:08:00.000: Luna prueba las ganzúas y Coyote recibe una reprimenda ([39-019](capitulos/39.md)).
 - Cap. 39, 02:12:00.000: Descanso en Iktan y expulsión de Coyote ([39-020](capitulos/39.md)).
 - Cap. 40, 00:01:42.600: La enfermedad de Triel y el encargo de Leona ([40-002](capitulos/40.md)).
+- Cap. 44, 00:01:35.200: Tlachka recuerda Iktan y prepara fruta y mazorcas ([44-002](capitulos/44.md)).
 
 ## Cuchillas Negras
 
@@ -1298,6 +1333,14 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 30, 00:54:00.000: Charcas venenosas conectadas y muestra tomada ([30-010](capitulos/30.md)).
 - Cap. 30, 01:08:00.000: Mujer del caldero capturada inicialmente ([30-012](capitulos/30.md)).
 - Cap. 30, 01:41:00.000: Criaturas de charcas muertas y victoria ([30-016](capitulos/30.md)).
+
+## Cueva del lago cercano a Cuicapalli
+
+- Cap. 44, 00:25:46.960: Leona recuerda una cueva de su infancia junto a un lago ([44-013](capitulos/44.md)).
+- Cap. 44, 00:32:38.600: La cueva junto al lago huele mal y contiene huesos ([44-016](capitulos/44.md)).
+- Cap. 44, 00:34:38.200: El grupo se reúne ante la entrada y recuerda la condición del encargo ([44-017](capitulos/44.md)).
+- Cap. 44, 00:35:15.160: Una masa de moho se alza cerca de Leona ([44-018](capitulos/44.md)).
+- Cap. 44, 00:59:10.680: El Devorafango entra y cubre la sala de ácido ([44-031](capitulos/44.md)).
 
 ## Cuicapalli
 
@@ -1355,6 +1398,45 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 41, 00:00:10.800: Blink sale de Shiaru y una fruta altera su voz ([41-001](capitulos/41.md)).
 - Cap. 41, 00:02:22.040: Winscore llega al festival de Iktan ([41-003](capitulos/41.md)).
 - Cap. 41, 00:42:00.000: Walulu confirma las precauciones tras el aviso de Leona ([41-015](capitulos/41.md)).
+- Cap. 44, 00:00:47.039: Leona busca rastros tras su misión de aviso ([44-001](capitulos/44.md)).
+- Cap. 44, 00:02:34.160: Guayacán cuida la ciudad en ausencia de Leona ([44-003](capitulos/44.md)).
+- Cap. 44, 00:03:29.480: Leona y Guayacán vuelven de las rondas y comen junto a Tlachka ([44-004](capitulos/44.md)).
+- Cap. 44, 00:09:26.200: Ayoto se reúne con sus compañeros y cuenta sus viajes ([44-006](capitulos/44.md)).
+- Cap. 44, 00:12:48.240: Un guardia lleva a Leona y Guayacán ante Parroter ([44-007](capitulos/44.md)).
+- Cap. 44, 00:15:35.240: Eromov sigue postrado y Parroter lo refresca ([44-008](capitulos/44.md)).
+- Cap. 44, 00:25:46.960: Leona recuerda una cueva de su infancia junto a un lago ([44-013](capitulos/44.md)).
+- Cap. 44, 01:31:52.080: Ayoto y Tlachka arrastran el cadáver hacia Cuicapalli ([44-047](capitulos/44.md)).
+- Cap. 44, 01:38:38.760: Ayoto pide un artesano del norte y paga a Tacha ([44-049](capitulos/44.md)).
+- Cap. 44, 01:40:34.320: Tlachka limpia y cocina la carne con chile ([44-050](capitulos/44.md)).
+- Cap. 44, 01:41:12.400: El herrero exige que Ayoto lleve el material a la tienda ([44-051](capitulos/44.md)).
+- Cap. 44, 01:53:33.719: El remedio de Parroter reduce las venas negras de Eromov ([44-056](capitulos/44.md)).
+
+## Devorafango
+
+- Cap. 44, 00:17:01.759: Parroter describe al devorafango y dónde buscarlo ([44-010](capitulos/44.md)).
+- Cap. 44, 00:19:04.039: Las espinas deben extraerse mientras el devorafango vive ([44-011](capitulos/44.md)).
+- Cap. 44, 00:20:54.760: Leona recluta a Ayoto y Tlachka para buscar las espinas ([44-012](capitulos/44.md)).
+- Cap. 44, 00:34:38.200: El grupo se reúne ante la entrada y recuerda la condición del encargo ([44-017](capitulos/44.md)).
+- Cap. 44, 00:59:10.680: El Devorafango entra y cubre la sala de ácido ([44-031](capitulos/44.md)).
+- Cap. 44, 01:02:17.559: Leona se mete en la boca de la nueva criatura ([44-032](capitulos/44.md)).
+- Cap. 44, 01:03:53.720: Guayacán bebe una poción antes de volver a atacar ([44-033](capitulos/44.md)).
+- Cap. 44, 01:06:05.119: Ayoto sube al lomo y derriba al Devorafango ([44-034](capitulos/44.md)).
+- Cap. 44, 01:09:11.159: Tlachka golpea el vientre desprotegido con ácido en el arma ([44-035](capitulos/44.md)).
+- Cap. 44, 01:10:42.520: Un mordisco deja a Guayacán al límite y la cola derriba a Ayoto ([44-036](capitulos/44.md)).
+- Cap. 44, 01:13:10.880: Leona arranca una espina recordando a Eromov ([44-037](capitulos/44.md)).
+- Cap. 44, 01:14:33.040: Guayacán se cura y sujeta al rival por la boca ([44-038](capitulos/44.md)).
+- Cap. 44, 01:16:18.560: Ayoto dirige sus golpes hacia la cola ([44-039](capitulos/44.md)).
+- Cap. 44, 01:18:34.280: Tlachka intenta abrir la mandíbula mientras Leona sigue dentro ([44-040](capitulos/44.md)).
+- Cap. 44, 01:19:07.360: Guayacán aclara que sujeta el cuello para ayudar a Leona ([44-041](capitulos/44.md)).
+- Cap. 44, 01:20:46.880: La criatura golpea con la cola y Leona extrae otra espina ([44-042](capitulos/44.md)).
+- Cap. 44, 01:22:18.910: Guayacán inmoviliza a la criatura en el suelo ([44-043](capitulos/44.md)).
+- Cap. 44, 01:24:46.159: Ayoto se levanta y combate cegado por el barro ([44-044](capitulos/44.md)).
+- Cap. 44, 01:27:11.760: Tlachka abre la mandíbula y saca a Leona con las espinas ([44-045](capitulos/44.md)).
+- Cap. 44, 01:28:35.840: Leona hiere a la criatura y Guayacán la remata ([44-046](capitulos/44.md)).
+- Cap. 44, 01:31:52.080: Ayoto y Tlachka arrastran el cadáver hacia Cuicapalli ([44-047](capitulos/44.md)).
+- Cap. 44, 01:36:45.280: Parroter recibe dos espinas y empieza a preparar el remedio ([44-048](capitulos/44.md)).
+- Cap. 44, 01:40:34.320: Tlachka limpia y cocina la carne con chile ([44-050](capitulos/44.md)).
+- Cap. 44, 01:44:11.679: Guayacán usa su oficio de peletero para separar el caparazón ([44-053](capitulos/44.md)).
 
 ## Diario Terran del nawal
 
@@ -1472,6 +1554,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 ## El Bocado del Jaguar
 
 - Cap. 16, 02:10:40.000: Comercios de Cuicapalli y tatuajes ([16-018](capitulos/16.md)).
+- Cap. 44, 00:03:29.480: Leona y Guayacán vuelven de las rondas y comen junto a Tlachka ([44-004](capitulos/44.md)).
 
 ## El Garfio
 
@@ -1925,12 +2008,32 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 40, 00:23:18.240: Walulu recibe la advertencia y promete ayuda a Cuicapalli ([40-006](capitulos/40.md)).
 - Cap. 41, 00:35:30.000: El golpe de Winscore provoca la intervención del guardia ([41-013](capitulos/41.md)).
 - Cap. 41, 00:48:00.000: Walulu vincula la infiltración con el veneno de Eromov ([41-019](capitulos/41.md)).
+- Cap. 44, 00:03:29.480: Leona y Guayacán vuelven de las rondas y comen junto a Tlachka ([44-004](capitulos/44.md)).
+- Cap. 44, 00:12:48.240: Un guardia lleva a Leona y Guayacán ante Parroter ([44-007](capitulos/44.md)).
+- Cap. 44, 00:15:35.240: Eromov sigue postrado y Parroter lo refresca ([44-008](capitulos/44.md)).
+- Cap. 44, 00:16:18.160: Parroter ha avanzado pero necesita otro ingrediente ([44-009](capitulos/44.md)).
+- Cap. 44, 00:19:04.039: Las espinas deben extraerse mientras el devorafango vive ([44-011](capitulos/44.md)).
+- Cap. 44, 00:20:54.760: Leona recluta a Ayoto y Tlachka para buscar las espinas ([44-012](capitulos/44.md)).
+- Cap. 44, 01:13:10.880: Leona arranca una espina recordando a Eromov ([44-037](capitulos/44.md)).
+- Cap. 44, 01:53:33.719: El remedio de Parroter reduce las venas negras de Eromov ([44-056](capitulos/44.md)).
 
 ## Espada azul de escamas de Triel
 
 - Cap. 14, 00:03:15.000: Cocodrilo alimentado y panteras derrotadas por los hermanos ([14-002](capitulos/14.md)).
 - Cap. 15, 00:31:00.000: La espada de Triel tiene escamas de dragón azul ([15-006](capitulos/15.md)).
 - Cap. 40, 01:37:01.719: Triel imita las patadas de Tortas e Ilikar mantiene la presión ([40-023](capitulos/40.md)).
+
+## Espinas del Devorafango
+
+- Cap. 44, 00:19:04.039: Las espinas deben extraerse mientras el devorafango vive ([44-011](capitulos/44.md)).
+- Cap. 44, 00:20:54.760: Leona recluta a Ayoto y Tlachka para buscar las espinas ([44-012](capitulos/44.md)).
+- Cap. 44, 00:34:38.200: El grupo se reúne ante la entrada y recuerda la condición del encargo ([44-017](capitulos/44.md)).
+- Cap. 44, 01:13:10.880: Leona arranca una espina recordando a Eromov ([44-037](capitulos/44.md)).
+- Cap. 44, 01:18:34.280: Tlachka intenta abrir la mandíbula mientras Leona sigue dentro ([44-040](capitulos/44.md)).
+- Cap. 44, 01:20:46.880: La criatura golpea con la cola y Leona extrae otra espina ([44-042](capitulos/44.md)).
+- Cap. 44, 01:27:11.760: Tlachka abre la mandíbula y saca a Leona con las espinas ([44-045](capitulos/44.md)).
+- Cap. 44, 01:36:45.280: Parroter recibe dos espinas y empieza a preparar el remedio ([44-048](capitulos/44.md)).
+- Cap. 44, 01:53:33.719: El remedio de Parroter reduce las venas negras de Eromov ([44-056](capitulos/44.md)).
 
 ## Estandarte de Eleanor
 
@@ -2090,12 +2193,49 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 30, 01:54:00.000: Cabezas para hablar con los muertos y evacuación por el humo ([30-018](capitulos/30.md)).
 - Cap. 30, 02:12:00.000: Descanso y reflexión de Luna sobre el exceso de fuego ([30-022](capitulos/30.md)).
 - Cap. 40, 00:01:42.600: La enfermedad de Triel y el encargo de Leona ([40-002](capitulos/40.md)).
+- Cap. 44, 00:00:47.039: Leona busca rastros tras su misión de aviso ([44-001](capitulos/44.md)).
+- Cap. 44, 00:02:34.160: Guayacán cuida la ciudad en ausencia de Leona ([44-003](capitulos/44.md)).
+- Cap. 44, 00:03:29.480: Leona y Guayacán vuelven de las rondas y comen junto a Tlachka ([44-004](capitulos/44.md)).
+- Cap. 44, 00:05:57.880: Guayacán cambia la voz al reconocer a Tlachka ([44-005](capitulos/44.md)).
+- Cap. 44, 00:09:26.200: Ayoto se reúne con sus compañeros y cuenta sus viajes ([44-006](capitulos/44.md)).
+- Cap. 44, 00:12:48.240: Un guardia lleva a Leona y Guayacán ante Parroter ([44-007](capitulos/44.md)).
+- Cap. 44, 00:15:35.240: Eromov sigue postrado y Parroter lo refresca ([44-008](capitulos/44.md)).
+- Cap. 44, 00:17:01.759: Parroter describe al devorafango y dónde buscarlo ([44-010](capitulos/44.md)).
+- Cap. 44, 00:19:04.039: Las espinas deben extraerse mientras el devorafango vive ([44-011](capitulos/44.md)).
+- Cap. 44, 00:20:54.760: Leona recluta a Ayoto y Tlachka para buscar las espinas ([44-012](capitulos/44.md)).
+- Cap. 44, 00:25:46.960: Leona recuerda una cueva de su infancia junto a un lago ([44-013](capitulos/44.md)).
+- Cap. 44, 00:28:39.960: Las frutas afectan las sombras y el brillo de los viajeros ([44-014](capitulos/44.md)).
+- Cap. 44, 00:31:13.039: El viaje continúa entre sombras y una interrupción del mono ([44-015](capitulos/44.md)).
+- Cap. 44, 00:32:38.600: La cueva junto al lago huele mal y contiene huesos ([44-016](capitulos/44.md)).
+- Cap. 44, 00:34:38.200: El grupo se reúne ante la entrada y recuerda la condición del encargo ([44-017](capitulos/44.md)).
+- Cap. 44, 00:35:15.160: Una masa de moho se alza cerca de Leona ([44-018](capitulos/44.md)).
+- Cap. 44, 00:36:00.920: Guayacán entra en furia y golpea dos veces a la masa ([44-019](capitulos/44.md)).
+- Cap. 44, 00:44:16.480: La angustia de Guayacán acompaña sus golpes no letales ([44-024](capitulos/44.md)).
+- Cap. 44, 00:51:43.880: Guayacán logra aturdir a la masa ([44-028](capitulos/44.md)).
+- Cap. 44, 00:59:10.680: El Devorafango entra y cubre la sala de ácido ([44-031](capitulos/44.md)).
+- Cap. 44, 01:03:53.720: Guayacán bebe una poción antes de volver a atacar ([44-033](capitulos/44.md)).
+- Cap. 44, 01:10:42.520: Un mordisco deja a Guayacán al límite y la cola derriba a Ayoto ([44-036](capitulos/44.md)).
+- Cap. 44, 01:14:33.040: Guayacán se cura y sujeta al rival por la boca ([44-038](capitulos/44.md)).
+- Cap. 44, 01:18:34.280: Tlachka intenta abrir la mandíbula mientras Leona sigue dentro ([44-040](capitulos/44.md)).
+- Cap. 44, 01:19:07.360: Guayacán aclara que sujeta el cuello para ayudar a Leona ([44-041](capitulos/44.md)).
+- Cap. 44, 01:22:18.910: Guayacán inmoviliza a la criatura en el suelo ([44-043](capitulos/44.md)).
+- Cap. 44, 01:27:11.760: Tlachka abre la mandíbula y saca a Leona con las espinas ([44-045](capitulos/44.md)).
+- Cap. 44, 01:28:35.840: Leona hiere a la criatura y Guayacán la remata ([44-046](capitulos/44.md)).
+- Cap. 44, 01:36:45.280: Parroter recibe dos espinas y empieza a preparar el remedio ([44-048](capitulos/44.md)).
+- Cap. 44, 01:43:32.159: Leona y Guayacán priorizan descansar y comer ([44-052](capitulos/44.md)).
+- Cap. 44, 01:44:11.679: Guayacán usa su oficio de peletero para separar el caparazón ([44-053](capitulos/44.md)).
+- Cap. 44, 01:50:19.480: Ayoto reúne el exoesqueleto para encargar un escudo ([44-055](capitulos/44.md)).
 
 ## Gustavo
 
 - Cap. 02, 00:06:15.000: Tripulación y enfado de Bonnie ([02-004](capitulos/02.md)).
 - Cap. 09, 00:26:30.000: El joven cambia el mapa robado por el mapa de Nox ([09-009](capitulos/09.md)).
 - Cap. 38, 01:46:00.000: Los antiguos tripulantes llegan después del combate ([38-013](capitulos/38.md)).
+
+## Herrero de Cuicapalli
+
+- Cap. 44, 01:41:12.400: El herrero exige que Ayoto lleve el material a la tienda ([44-051](capitulos/44.md)).
+- Cap. 44, 01:50:19.480: Ayoto reúne el exoesqueleto para encargar un escudo ([44-055](capitulos/44.md)).
 
 ## Hospital de Shiaru
 
@@ -2168,6 +2308,10 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 41, 02:26:36.080: Leo llega al encuentro y la guarida sigue sin localizarse ([41-055](capitulos/41.md)).
 - Cap. 43, 00:03:45.400: Citlali recuerda la caja de música y huye de Iktan con la cría ([43-003](capitulos/43.md)).
 - Cap. 43, 00:05:36.400: Lunaria explora el poblado y busca respuestas ([43-004](capitulos/43.md)).
+- Cap. 44, 00:00:47.039: Leona busca rastros tras su misión de aviso ([44-001](capitulos/44.md)).
+- Cap. 44, 00:01:35.200: Tlachka recuerda Iktan y prepara fruta y mazorcas ([44-002](capitulos/44.md)).
+- Cap. 44, 00:05:57.880: Guayacán cambia la voz al reconocer a Tlachka ([44-005](capitulos/44.md)).
+- Cap. 44, 00:09:26.200: Ayoto se reúne con sus compañeros y cuenta sus viajes ([44-006](capitulos/44.md)).
 
 ## Ilikar
 
@@ -2983,6 +3127,47 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 40, 02:48:50.319: Triel ocupa la piedra sagrada y Eldrat la aparta ([40-042](capitulos/40.md)).
 - Cap. 41, 00:42:00.000: Walulu confirma las precauciones tras el aviso de Leona ([41-015](capitulos/41.md)).
 - Cap. 41, 00:48:00.000: Walulu vincula la infiltración con el veneno de Eromov ([41-019](capitulos/41.md)).
+- Cap. 44, 00:00:47.039: Leona busca rastros tras su misión de aviso ([44-001](capitulos/44.md)).
+- Cap. 44, 00:02:34.160: Guayacán cuida la ciudad en ausencia de Leona ([44-003](capitulos/44.md)).
+- Cap. 44, 00:03:29.480: Leona y Guayacán vuelven de las rondas y comen junto a Tlachka ([44-004](capitulos/44.md)).
+- Cap. 44, 00:05:57.880: Guayacán cambia la voz al reconocer a Tlachka ([44-005](capitulos/44.md)).
+- Cap. 44, 00:09:26.200: Ayoto se reúne con sus compañeros y cuenta sus viajes ([44-006](capitulos/44.md)).
+- Cap. 44, 00:12:48.240: Un guardia lleva a Leona y Guayacán ante Parroter ([44-007](capitulos/44.md)).
+- Cap. 44, 00:15:35.240: Eromov sigue postrado y Parroter lo refresca ([44-008](capitulos/44.md)).
+- Cap. 44, 00:16:18.160: Parroter ha avanzado pero necesita otro ingrediente ([44-009](capitulos/44.md)).
+- Cap. 44, 00:17:01.759: Parroter describe al devorafango y dónde buscarlo ([44-010](capitulos/44.md)).
+- Cap. 44, 00:19:04.039: Las espinas deben extraerse mientras el devorafango vive ([44-011](capitulos/44.md)).
+- Cap. 44, 00:20:54.760: Leona recluta a Ayoto y Tlachka para buscar las espinas ([44-012](capitulos/44.md)).
+- Cap. 44, 00:25:46.960: Leona recuerda una cueva de su infancia junto a un lago ([44-013](capitulos/44.md)).
+- Cap. 44, 00:28:39.960: Las frutas afectan las sombras y el brillo de los viajeros ([44-014](capitulos/44.md)).
+- Cap. 44, 00:31:13.039: El viaje continúa entre sombras y una interrupción del mono ([44-015](capitulos/44.md)).
+- Cap. 44, 00:32:38.600: La cueva junto al lago huele mal y contiene huesos ([44-016](capitulos/44.md)).
+- Cap. 44, 00:34:38.200: El grupo se reúne ante la entrada y recuerda la condición del encargo ([44-017](capitulos/44.md)).
+- Cap. 44, 00:35:15.160: Una masa de moho se alza cerca de Leona ([44-018](capitulos/44.md)).
+- Cap. 44, 00:36:00.920: Guayacán entra en furia y golpea dos veces a la masa ([44-019](capitulos/44.md)).
+- Cap. 44, 00:37:53.760: Leona evita que la masa la envuelva ([44-020](capitulos/44.md)).
+- Cap. 44, 00:41:10.960: Tlachka extrae huesos humanoides del moho ([44-022](capitulos/44.md)).
+- Cap. 44, 00:42:32.599: Leona se introduce en la masa para desgarrarla ([44-023](capitulos/44.md)).
+- Cap. 44, 00:44:16.480: La angustia de Guayacán acompaña sus golpes no letales ([44-024](capitulos/44.md)).
+- Cap. 44, 00:46:05.520: La criatura hiere desde dentro y Ayoto replica a un fallo ([44-025](capitulos/44.md)).
+- Cap. 44, 00:50:20.640: Leona sigue arrancando material sin encontrar la espina ([44-027](capitulos/44.md)).
+- Cap. 44, 00:51:43.880: Guayacán logra aturdir a la masa ([44-028](capitulos/44.md)).
+- Cap. 44, 00:54:29.280: Ayoto saca a Leona y ocupa su lugar dentro de la masa ([44-029](capitulos/44.md)).
+- Cap. 44, 01:02:17.559: Leona se mete en la boca de la nueva criatura ([44-032](capitulos/44.md)).
+- Cap. 44, 01:09:11.159: Tlachka golpea el vientre desprotegido con ácido en el arma ([44-035](capitulos/44.md)).
+- Cap. 44, 01:10:42.520: Un mordisco deja a Guayacán al límite y la cola derriba a Ayoto ([44-036](capitulos/44.md)).
+- Cap. 44, 01:13:10.880: Leona arranca una espina recordando a Eromov ([44-037](capitulos/44.md)).
+- Cap. 44, 01:14:33.040: Guayacán se cura y sujeta al rival por la boca ([44-038](capitulos/44.md)).
+- Cap. 44, 01:18:34.280: Tlachka intenta abrir la mandíbula mientras Leona sigue dentro ([44-040](capitulos/44.md)).
+- Cap. 44, 01:19:07.360: Guayacán aclara que sujeta el cuello para ayudar a Leona ([44-041](capitulos/44.md)).
+- Cap. 44, 01:20:46.880: La criatura golpea con la cola y Leona extrae otra espina ([44-042](capitulos/44.md)).
+- Cap. 44, 01:22:18.910: Guayacán inmoviliza a la criatura en el suelo ([44-043](capitulos/44.md)).
+- Cap. 44, 01:27:11.760: Tlachka abre la mandíbula y saca a Leona con las espinas ([44-045](capitulos/44.md)).
+- Cap. 44, 01:28:35.840: Leona hiere a la criatura y Guayacán la remata ([44-046](capitulos/44.md)).
+- Cap. 44, 01:36:45.280: Parroter recibe dos espinas y empieza a preparar el remedio ([44-048](capitulos/44.md)).
+- Cap. 44, 01:43:32.159: Leona y Guayacán priorizan descansar y comer ([44-052](capitulos/44.md)).
+- Cap. 44, 01:48:50.360: Leona prueba la carne y resiste la salsa más picante ([44-054](capitulos/44.md)).
+- Cap. 44, 01:53:33.719: El remedio de Parroter reduce las venas negras de Eromov ([44-056](capitulos/44.md)).
 
 ## Liz
 
@@ -3343,6 +3528,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 43, 01:53:22.199: Eleanor retiene a un marine para Citlali sin rematarlo ella ([43-056](capitulos/43.md)).
 - Cap. 43, 01:54:11.440: Citlali consume la vida del marine retenido ([43-057](capitulos/43.md)).
 - Cap. 43, 01:55:31.560: Los piratas celebran la victoria y Molly llega herida ([43-058](capitulos/43.md)).
+- Cap. 44, 00:05:57.880: Guayacán cambia la voz al reconocer a Tlachka ([44-005](capitulos/44.md)).
 
 ## Marina, la sirena
 
@@ -3376,6 +3562,23 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 29, 02:26:00.000: Promesa pública y hospitalidad de la taberna ([29-023](capitulos/29.md)).
 - Cap. 29, 02:32:00.000: Habitación pagada y descanso local ([29-024](capitulos/29.md)).
 - Cap. 31, 00:00:00.000: Coyote vuelve, los gemelos exploran y Naór cría a Leo ([31-001](capitulos/31.md)).
+
+## Masa de moho de la cueva
+
+- Cap. 44, 00:35:15.160: Una masa de moho se alza cerca de Leona ([44-018](capitulos/44.md)).
+- Cap. 44, 00:36:00.920: Guayacán entra en furia y golpea dos veces a la masa ([44-019](capitulos/44.md)).
+- Cap. 44, 00:37:53.760: Leona evita que la masa la envuelva ([44-020](capitulos/44.md)).
+- Cap. 44, 00:39:10.440: Ayoto atrae la atención de la masa de moho ([44-021](capitulos/44.md)).
+- Cap. 44, 00:41:10.960: Tlachka extrae huesos humanoides del moho ([44-022](capitulos/44.md)).
+- Cap. 44, 00:42:32.599: Leona se introduce en la masa para desgarrarla ([44-023](capitulos/44.md)).
+- Cap. 44, 00:44:16.480: La angustia de Guayacán acompaña sus golpes no letales ([44-024](capitulos/44.md)).
+- Cap. 44, 00:46:05.520: La criatura hiere desde dentro y Ayoto replica a un fallo ([44-025](capitulos/44.md)).
+- Cap. 44, 00:48:27.000: Ayoto vuelve a provocar y Tlachka mantiene golpes no letales ([44-026](capitulos/44.md)).
+- Cap. 44, 00:50:20.640: Leona sigue arrancando material sin encontrar la espina ([44-027](capitulos/44.md)).
+- Cap. 44, 00:51:43.880: Guayacán logra aturdir a la masa ([44-028](capitulos/44.md)).
+- Cap. 44, 00:54:29.280: Ayoto saca a Leona y ocupa su lugar dentro de la masa ([44-029](capitulos/44.md)).
+- Cap. 44, 00:57:52.799: La masa queda moribunda entre restos de huesos ([44-030](capitulos/44.md)).
+- Cap. 44, 00:59:10.680: El Devorafango entra y cubre la sala de ácido ([44-031](capitulos/44.md)).
 
 ## Masa zombi del claro envenenado
 
@@ -4165,6 +4368,13 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 30, 00:19:00.000: Marcas verdes y veneno similar al de las serpientes ([30-004](capitulos/30.md)).
 - Cap. 30, 02:04:00.000: Eromov envía a Parroter a investigar una cura ([30-020](capitulos/30.md)).
 - Cap. 30, 02:12:00.000: Descanso y reflexión de Luna sobre el exceso de fuego ([30-022](capitulos/30.md)).
+- Cap. 44, 00:12:48.240: Un guardia lleva a Leona y Guayacán ante Parroter ([44-007](capitulos/44.md)).
+- Cap. 44, 00:15:35.240: Eromov sigue postrado y Parroter lo refresca ([44-008](capitulos/44.md)).
+- Cap. 44, 00:16:18.160: Parroter ha avanzado pero necesita otro ingrediente ([44-009](capitulos/44.md)).
+- Cap. 44, 00:17:01.759: Parroter describe al devorafango y dónde buscarlo ([44-010](capitulos/44.md)).
+- Cap. 44, 00:19:04.039: Las espinas deben extraerse mientras el devorafango vive ([44-011](capitulos/44.md)).
+- Cap. 44, 01:36:45.280: Parroter recibe dos espinas y empieza a preparar el remedio ([44-048](capitulos/44.md)).
+- Cap. 44, 01:53:33.719: El remedio de Parroter reduce las venas negras de Eromov ([44-056](capitulos/44.md)).
 
 ## Patata
 
@@ -4929,6 +5139,13 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 30, 00:26:00.000: Envenenamiento por ingestión tras una reunión ([30-005](capitulos/30.md)).
 - Cap. 30, 00:27:00.000: Autor del veneno todavía sin confesión ([30-006](capitulos/30.md)).
 - Cap. 30, 02:12:00.000: Descanso y reflexión de Luna sobre el exceso de fuego ([30-022](capitulos/30.md)).
+- Cap. 44, 00:03:29.480: Leona y Guayacán vuelven de las rondas y comen junto a Tlachka ([44-004](capitulos/44.md)).
+- Cap. 44, 00:05:57.880: Guayacán cambia la voz al reconocer a Tlachka ([44-005](capitulos/44.md)).
+- Cap. 44, 00:12:48.240: Un guardia lleva a Leona y Guayacán ante Parroter ([44-007](capitulos/44.md)).
+- Cap. 44, 00:20:54.760: Leona recluta a Ayoto y Tlachka para buscar las espinas ([44-012](capitulos/44.md)).
+- Cap. 44, 01:38:38.760: Ayoto pide un artesano del norte y paga a Tacha ([44-049](capitulos/44.md)).
+- Cap. 44, 01:40:34.320: Tlachka limpia y cocina la carne con chile ([44-050](capitulos/44.md)).
+- Cap. 44, 01:48:50.360: Leona prueba la carne y resiste la salsa más picante ([44-054](capitulos/44.md)).
 
 ## Tatuajes de la espalda de Nox
 
@@ -5129,6 +5346,28 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 39, 01:34:00.000: Citlali drena a Tlachka y el grupo marcha al norte ([39-014](capitulos/39.md)).
 - Cap. 39, 01:40:00.000: Animales vigilantes y rastros de viajeros anteriores ([39-015](capitulos/39.md)).
 - Cap. 39, 02:12:00.000: Descanso en Iktan y expulsión de Coyote ([39-020](capitulos/39.md)).
+- Cap. 44, 00:01:35.200: Tlachka recuerda Iktan y prepara fruta y mazorcas ([44-002](capitulos/44.md)).
+- Cap. 44, 00:03:29.480: Leona y Guayacán vuelven de las rondas y comen junto a Tlachka ([44-004](capitulos/44.md)).
+- Cap. 44, 00:05:57.880: Guayacán cambia la voz al reconocer a Tlachka ([44-005](capitulos/44.md)).
+- Cap. 44, 00:09:26.200: Ayoto se reúne con sus compañeros y cuenta sus viajes ([44-006](capitulos/44.md)).
+- Cap. 44, 00:12:48.240: Un guardia lleva a Leona y Guayacán ante Parroter ([44-007](capitulos/44.md)).
+- Cap. 44, 00:20:54.760: Leona recluta a Ayoto y Tlachka para buscar las espinas ([44-012](capitulos/44.md)).
+- Cap. 44, 00:25:46.960: Leona recuerda una cueva de su infancia junto a un lago ([44-013](capitulos/44.md)).
+- Cap. 44, 00:28:39.960: Las frutas afectan las sombras y el brillo de los viajeros ([44-014](capitulos/44.md)).
+- Cap. 44, 00:31:13.039: El viaje continúa entre sombras y una interrupción del mono ([44-015](capitulos/44.md)).
+- Cap. 44, 00:32:38.600: La cueva junto al lago huele mal y contiene huesos ([44-016](capitulos/44.md)).
+- Cap. 44, 00:34:38.200: El grupo se reúne ante la entrada y recuerda la condición del encargo ([44-017](capitulos/44.md)).
+- Cap. 44, 00:41:10.960: Tlachka extrae huesos humanoides del moho ([44-022](capitulos/44.md)).
+- Cap. 44, 00:48:27.000: Ayoto vuelve a provocar y Tlachka mantiene golpes no letales ([44-026](capitulos/44.md)).
+- Cap. 44, 00:57:52.799: La masa queda moribunda entre restos de huesos ([44-030](capitulos/44.md)).
+- Cap. 44, 01:09:11.159: Tlachka golpea el vientre desprotegido con ácido en el arma ([44-035](capitulos/44.md)).
+- Cap. 44, 01:18:34.280: Tlachka intenta abrir la mandíbula mientras Leona sigue dentro ([44-040](capitulos/44.md)).
+- Cap. 44, 01:19:07.360: Guayacán aclara que sujeta el cuello para ayudar a Leona ([44-041](capitulos/44.md)).
+- Cap. 44, 01:27:11.760: Tlachka abre la mandíbula y saca a Leona con las espinas ([44-045](capitulos/44.md)).
+- Cap. 44, 01:31:52.080: Ayoto y Tlachka arrastran el cadáver hacia Cuicapalli ([44-047](capitulos/44.md)).
+- Cap. 44, 01:38:38.760: Ayoto pide un artesano del norte y paga a Tacha ([44-049](capitulos/44.md)).
+- Cap. 44, 01:40:34.320: Tlachka limpia y cocina la carne con chile ([44-050](capitulos/44.md)).
+- Cap. 44, 01:48:50.360: Leona prueba la carne y resiste la salsa más picante ([44-054](capitulos/44.md)).
 
 ## Tommy
 
@@ -5505,6 +5744,8 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 41, 02:14:26.760: Una voz obliga a dejar los cuerpos en el bosque ([41-049](capitulos/41.md)).
 - Cap. 41, 02:16:37.800: Naór evacua al grupo y Winscore ve un dragón verde ([41-051](capitulos/41.md)).
 - Cap. 41, 02:18:04.399: Naór presencia el movimiento de Tortas y ofrece las cabezas ([41-052](capitulos/41.md)).
+- Cap. 44, 00:00:47.039: Leona busca rastros tras su misión de aviso ([44-001](capitulos/44.md)).
+- Cap. 44, 00:01:35.200: Tlachka recuerda Iktan y prepara fruta y mazorcas ([44-002](capitulos/44.md)).
 
 ## Zampaolas
 

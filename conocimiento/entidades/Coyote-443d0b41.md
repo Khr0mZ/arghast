@@ -12,7 +12,7 @@ Base para revisar equivalencia: [24-004](../capitulos/24.md), [26-001](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 43.
+Relato revisado hasta el capítulo 44.
 
 ### Un guía que cambia de rostro
 
@@ -545,4 +545,12 @@ Tipo: `declaracion_personaje`.
 Eldrat relata que su hermana regresó envenenada, según él por el dragón verde, y que la cuidó por miedo a perderla. Ha entrenado con Coyote y Tesara, aunque su pique con el primero perjudicó el ejercicio. Leona explica que rastreaba serpientes por el envenenamiento del líder de Cuicapalli cuando este la envió ante la posibilidad de un ataque durante el festival; dejó a su aprendiz Guayacán cuidándolo.
 
 La autoría del veneno de Triel y el posible ataque se presentan en recapitulaciones de personajes. El ataque no ha ocurrido dentro de este bloque.
+
+## [44-002 · Tlachka recuerda Iktan y prepara fruta y mazorcas](../capitulos/44.md) · 00:01:35.200
+
+Tipo: `declaracion_personaje`.
+
+Tlachka relata su paso por Iktan y recuerda personas que se transformaban en serpientes. Ha buscado descanso apartado de Coyote, recogido frutas en los alrededores y preparado mazorcas para vender.
+
+El repaso no identifica una nueva infiltrada o un combate distinto. Su recuerdo de Iktan no le atribuye por sí solo las acciones del grupo del capítulo 41.
 

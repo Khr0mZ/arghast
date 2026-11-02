@@ -8,11 +8,11 @@ Tabernero hiena de Cuicapalli, no Tlachka.
 
 Etiquetas agrupadas: Tacha (tabernero hiena, grafía provisional).
 
-Base para revisar equivalencia: [16-014](../capitulos/16.md), [16-021](../capitulos/16.md), [22-005](../capitulos/22.md).
+Base para revisar equivalencia: [16-014](../capitulos/16.md), [16-021](../capitulos/16.md), [22-005](../capitulos/22.md), [44-004](../capitulos/44.md), [44-005](../capitulos/44.md), [44-007](../capitulos/44.md), [44-012](../capitulos/44.md), [44-049](../capitulos/44.md), [44-050](../capitulos/44.md), [44-054](../capitulos/44.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 43.
+Relato revisado hasta el capítulo 44.
 
 ### El tabernero que alimenta a Cuicapalli
 
@@ -25,6 +25,12 @@ Fuentes: [16-014 · Entrada a Cuicapalli y conversación en Primordial](../capit
 La investigación del envenenamiento de Eromov determina que el tóxico se ingirió tras una reunión cuya comida preparó Tacha. Eso no prueba que él lo administrara: no hay confesión ni escena que muestre quién lo añadió. La campaña mantiene abiertas las sospechas de infiltración y traición mientras el grupo investiga a la Hoja Caída. Tacha sigue sirviendo comida al regreso.
 
 Fuentes: [30-005 · Envenenamiento por ingestión tras una reunión](../capitulos/30.md) · 00:26:00.000 · [30-006 · Autor del veneno todavía sin confesión](../capitulos/30.md) · 00:27:00.000 · [30-022 · Descanso y reflexión de Luna sobre el exceso de fuego](../capitulos/30.md) · 02:12:00.000.
+
+### El plato que despierta su curiosidad
+
+Tacha sirve lechón mientras Tlachka prepara mazorcas junto a su cocina. La reunión se interrumpe cuando Parroter llama a Leona; Ayoto y Tlachka siguen comiendo hasta que ella vuelve para pedirles ayuda. Tras la expedición, Ayoto le entrega dos monedas porque cree que no han pagado sus comidas. Tacha huele con desagrado la carne del animal traído, pero observa cómo Tlachka la limpia y cocina con chiles. Cuando el aroma mejora se acerca con curiosidad y Leona prueba el plato con la salsa más fuerte. Estas comidas no aportan una confesión sobre el envenenamiento anterior de Eromov.
+
+Fuentes: [44-004 · Leona y Guayacán vuelven de las rondas y comen junto a Tlachka](../capitulos/44.md) · 00:03:29.480 · [44-005 · Guayacán cambia la voz al reconocer a Tlachka](../capitulos/44.md) · 00:05:57.880 · [44-007 · Un guardia lleva a Leona y Guayacán ante Parroter](../capitulos/44.md) · 00:12:48.240 · [44-012 · Leona recluta a Ayoto y Tlachka para buscar las espinas](../capitulos/44.md) · 00:20:54.760 · [44-049 · Ayoto pide un artesano del norte y paga a Tacha](../capitulos/44.md) · 01:38:38.760 · [44-050 · Tlachka limpia y cocina la carne con chile](../capitulos/44.md) · 01:40:34.320 · [44-054 · Leona prueba la carne y resiste la salsa más picante](../capitulos/44.md) · 01:48:50.360.
 
 ## Registros y evidencias
 
@@ -115,4 +121,60 @@ Tipo: `hecho_confirmado`.
 Tacha sirve comida. Guayacán pide fruta y sigue admirando a Leona, de la que quiere aprender mientras la protege. Luna reflexiona sobre sus nuevas bolas de fuego: destruyen demasiado y necesita elegir mejor dónde apuntar. El director cierra la sesión con la investigación de Parroter todavía en marcha, sin una cura para Eromov y con la amenaza sin resolver.
 
 Las expresiones sobre salvar al jefe reflejan esperanza o una valoración de la expedición; no representan una curación realizada.
+
+## [44-004 · Leona y Guayacán vuelven de las rondas y comen junto a Tlachka](../capitulos/44.md) · 00:03:29.480
+
+Tipo: `hecho_confirmado`.
+
+Leona y Guayacán regresan a Cuicapalli cubiertos de hojas y con marcas de sus rondas por los alrededores. Esperan que Eromov mejore y que lleguen refuerzos. Se acercan a Tacha y piden comida. Tlachka se ha hecho un hueco junto a la cocina para tostar mazorcas como acompañamiento.
+
+La expectativa de refuerzos no representa su llegada. El establecimiento se vincula contextualmente a la taberna de Tacha ya catalogada; no se pronuncia un nombre nuevo para el local.
+
+## [44-005 · Guayacán cambia la voz al reconocer a Tlachka](../capitulos/44.md) · 00:05:57.880
+
+Tipo: `hecho_confirmado`.
+
+La interpretación distingue una voz normal de Guayacán y otra que adopta al ponerse firme ante Tlachka, a quien reconoce del enfrentamiento contra la Marina. Hablan de las serpientes de Iktan y de la búsqueda de venenos, sin aportar una muestra nueva. Tacha sirve tres platos de lechón y Guayacán cambia su porción de carne por una mazorca de Tlachka.
+
+El cambio de voz no declara la especie o identidad oculta de Guayacán. Las alusiones humorísticas al perro y a su cola no prueban una acción nueva de Coyote o un conocimiento del veneno.
+
+## [44-007 · Un guardia lleva a Leona y Guayacán ante Parroter](../capitulos/44.md) · 00:12:48.240
+
+Tipo: `hecho_confirmado`.
+
+Un guardia busca a Leona porque Parroter la reclama con urgencia. Guayacán sigue a su maestra hasta la choza de Eromov. Ayoto y Tlachka se quedan comiendo con Tacha; Ayoto ofrece comida a otro guardia, que la acepta sin abandonar expresamente su puesto.
+
+Los guardias permanecen sin nombre y no se fusionan por compartir función. La demora en la comida no se convierte en un daño concreto a Eromov.
+
+## [44-012 · Leona recluta a Ayoto y Tlachka para buscar las espinas](../capitulos/44.md) · 00:20:54.760
+
+Tipo: `hecho_confirmado`.
+
+Mientras Tacha continúa sirviendo comida, Leona y Guayacán vuelven a buscar a Ayoto y Tlachka. La harengon explica la urgencia de salvar a Eromov y solicita ayuda a ambos. Tras un equívoco sobre si el dirigente tiene una espina en la garganta, aclara que deben buscar una criatura de barro y sacar de su boca el ingrediente mientras viva. El grupo acepta salir con ella hacia cuevas, ríos o lagos.
+
+La espina en la garganta de Eromov es un malentendido corregido, no un diagnóstico. Las dificultades de conexión pertenecen a la mesa y no se convierten en sucesos de la ficción.
+
+## [44-049 · Ayoto pide un artesano del norte y paga a Tacha](../capitulos/44.md) · 01:38:38.760
+
+Tipo: `hecho_confirmado`.
+
+Junto al cadáver se discute cómo separar el caparazón para fabricar otro escudo. Ayoto pregunta dónde encontrar a quien trabaja pieles y le indican una tienda al norte. Antes de ir, entrega dos monedas de oro a Tacha porque suele darles de comer y cree que no le han pagado.
+
+El pago a Tacha se distingue de la promesa de pagar al herrero. No se fija un precio de fabricación del nuevo escudo.
+
+## [44-050 · Tlachka limpia y cocina la carne con chile](../capitulos/44.md) · 01:40:34.320
+
+Tipo: `hecho_confirmado`.
+
+Mientras Ayoto busca al artesano, Tlachka abre el cadáver, extrae carne y la limpia junto al agua. Después la prepara con chile machacado al fuego. Tacha, que primero la había olido con desagrado, se queda observando la receta por curiosidad y se acerca cuando empieza a oler bien. Tlachka prueba la carne una vez hecha.
+
+Las comparaciones con gamba describen textura y caparazón, sin fijar una especie de bestiario. No se registra una intoxicación ni se demuestra que el calor elimine todos los riesgos mencionados por Parroter.
+
+## [44-054 · Leona prueba la carne y resiste la salsa más picante](../capitulos/44.md) · 01:48:50.360
+
+Tipo: `hecho_confirmado`.
+
+Leona toma una bebida mientras espera, prueba la carne que prepara Tlachka y pide más picante. Moja su porción en la salsa más fuerte disponible y supera la tirada de constitución para soportar el picor. Dice que está buena y continúa comiendo, aunque pide todavía más salsa.
+
+La tirada se refiere al picante añadido. Su éxito no demuestra inmunidad a venenos ni que el plato sea inocuo a largo plazo.
 

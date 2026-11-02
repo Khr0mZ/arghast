@@ -12,7 +12,7 @@ Base para revisar equivalencia: [38-003](../capitulos/38.md), [38-005](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 43.
+Relato revisado hasta el capítulo 44.
 
 ### Un náufrago que encuentra una tripulación
 

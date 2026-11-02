@@ -1,5 +1,5 @@
 {
-  "revisado_hasta": 43,
+  "revisado_hasta": 44,
   "entidades": {
     "Anillo familiar de Erendriel": [
       {
@@ -654,6 +654,38 @@
         "texto": "El epílogo muestra una especie de altar al que se acerca el ser que habla con Citlali. Al pasar la mano sobre él enciende marcas y símbolos exactamente iguales a los de su cuerpo. La localización y la función completa del altar no se revelan.",
         "referencias": [
           "43-062"
+        ]
+      }
+    ],
+    "Espinas del Devorafango": [
+      {
+        "titulo": "De la boca al remedio",
+        "texto": "Parroter necesita las espinas bucales del devorafango y exige que se arranquen mientras viva. Tras buscar sin éxito en el moho, Leona entra en la boca del animal y fuerza una protuberancia afirmándose con el hacha. Consigue dos espinas y sale con ayuda de Tlachka. Parroter acepta el ingrediente, tritura una púa y prepara una poción aún pastosa. Al administrarla a Eromov sus venas negras empiezan a menguar, aunque el tratamiento y la recuperación no quedan completos.",
+        "referencias": [
+          "44-011",
+          "44-012",
+          "44-017",
+          "44-022",
+          "44-027",
+          "44-032",
+          "44-037",
+          "44-040",
+          "44-042",
+          "44-045",
+          "44-048",
+          "44-056"
+        ]
+      }
+    ],
+    "Caparazón del Devorafango": [
+      {
+        "titulo": "Material para un escudo por hacer",
+        "texto": "Ayoto quiere un nuevo escudo hecho con el exoesqueleto del animal abatido. El herrero exige que le lleven el material y Guayacán aplica su formación de peletero para separar piezas, con cortes imperfectos. Ayoto las recibe, piensa añadir dedos como adornos y se dirige hacia la tienda apoyado en Guayacán. El capítulo no muestra un encargo aceptado ni un escudo terminado.",
+        "referencias": [
+          "44-047",
+          "44-049",
+          "44-053",
+          "44-055"
         ]
       }
     ]

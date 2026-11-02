@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revisado_hasta": 43,
+  "revisado_hasta": 44,
   "preguntas": [
     {
       "id": "P26-001",
@@ -13,7 +13,7 @@
         "28-011"
       ],
       "pendiente": "El origen y contenido de las marcas, su propósito completo y la identidad de quien busca lo que Nox lleva en la espalda.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P26-002",
@@ -28,7 +28,7 @@
         "28-014"
       ],
       "pendiente": "Los efectos de sentarse realmente en el trono.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P26-003",
@@ -39,7 +39,7 @@
       "respuesta": "No se identifica al controlador de los ojos rojos ni a la entidad llamada nuestro Señor. Las alusiones posteriores de otros hombres serpiente no prueban que todas designen al mismo ser.",
       "referencias": [],
       "pendiente": "La identidad del controlador y del Señor, y la relación entre ambos.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P26-004",
@@ -53,7 +53,7 @@
         "39-020"
       ],
       "pendiente": "El motivo de la suplantación y el contenido o uso del informe que recibió.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P26-005",
@@ -70,7 +70,7 @@
         "42-072"
       ],
       "pendiente": "Los términos del pacto y las decisiones posteriores de los reyes sobre Xoltacan.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P27-001",
@@ -85,7 +85,7 @@
         "37-004"
       ],
       "pendiente": "El objetivo específico del ataque a Cuicapalli y la composición o ubicación de las fuerzas supervivientes.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P27-002",
@@ -93,12 +93,15 @@
       "indice": 2,
       "pregunta": "¿Qué ocultan el traje y el pico de Guayacán y quién lo sabe? Se ven dientes humanos y sus intentos de ocultarlos, pero no declara su identidad precisa (27-020–27-021).",
       "estado": "pendiente",
-      "respuesta": "Guayacán vuelve a reparar su traje en una recapitulación posterior. No se declara su especie o identidad real ni se establece qué personajes conocen lo que oculta.",
+      "respuesta": "Guayacán había reparado el traje y ahora alterna su voz al reconocer a Tlachka. El pico utilizado en el combate se describe como parte del traje. No revela su identidad precisa ni establece qué personajes conocen el secreto.",
       "referencias": [
-        "30-001"
+        "30-001",
+        "44-005",
+        "44-043",
+        "44-046"
       ],
       "pendiente": "Su identidad precisa y quién conoce el secreto del traje y del pico.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P27-003",
@@ -106,13 +109,18 @@
       "indice": 3,
       "pregunta": "¿Puede Tlachka volver formalmente a Cuicapalli después de su destierro? Entrar sin reconocimiento no equivale a un indulto (27-002–27-004 y 27-020).",
       "estado": "pendiente",
-      "respuesta": "Tlachka vuelve a participar en actividades relacionadas con Cuicapalli y, en el capítulo 39, trae guardias que ayudan a rescatar a Citlali y Etley. No se muestra una revocación formal del destierro.",
+      "respuesta": "Tlachka participa de nuevo en la vida de Cuicapalli: cocina junto a Tacha, acepta la expedición por Eromov y regresa con el cadáver de la criatura. Esa presencia y la cooperación con los habitantes no muestran una revocación formal del destierro.",
       "referencias": [
         "29-001",
-        "39-013"
+        "39-013",
+        "44-002",
+        "44-004",
+        "44-012",
+        "44-047",
+        "44-050"
       ],
       "pendiente": "Si el destierro ha sido revocado y con qué autorización puede permanecer en Cuicapalli.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P27-004",
@@ -129,7 +137,7 @@
         "42-072"
       ],
       "pendiente": "Un reencuentro documentado entre Cipo y Pinky y lo que el elemental conoce de su destino.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P28-001",
@@ -140,7 +148,7 @@
       "respuesta": "La gran criatura queda atrás durante la huida, sin ser derrotada. Los capítulos posteriores no muestran su destino ni explican qué entidad concreta forman las serpientes.",
       "referencias": [],
       "pendiente": "La identidad de la criatura y su destino después de la huida.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P28-002",
@@ -154,7 +162,7 @@
         "35-015"
       ],
       "pendiente": "La identidad de la serpiente alada, la relación entre ambas visiones y el significado del ritual.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P28-003",
@@ -165,7 +173,7 @@
       "respuesta": "No se documenta la recuperación, destrucción o uso posterior del collar dejado dentro de la fruta. Las lagunas de memoria de Blink no se atribuyen de forma confirmada a ese abandono.",
       "referencias": [],
       "pendiente": "Las consecuencias de abandonar el collar y quién lo conserva o utiliza después.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P28-004",
@@ -183,7 +191,7 @@
         "39-020"
       ],
       "pendiente": "La naturaleza exacta de lo protegido y la relación completa entre Citlali, sus marcas y lo despertado.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P28-005",
@@ -201,7 +209,7 @@
         "43-058"
       ],
       "pendiente": "La relación completa de superiores de Aurora y los términos íntegros del acuerdo de Molly y Bonnie.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P29-001",
@@ -214,7 +222,7 @@
         "31-001"
       ],
       "pendiente": "La identidad y organización de los profundos, el lugar y funcionamiento de los rituales y el destino de los secuestrados.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P29-002",
@@ -225,7 +233,7 @@
       "respuesta": "No se da después una duración exacta de las branquias ni una explicación completa de qué sirénidos pueden concederlas. El efecto observado en los viajeros no establece por sí solo una regla general.",
       "referencias": [],
       "pendiente": "La duración de las branquias y las condiciones o personas capaces de otorgarlas.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P29-003",
@@ -238,7 +246,7 @@
         "39-001"
       ],
       "pendiente": "La religión y deidad de Ivet y los actos que permitirían ganar su confianza.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P29-004",
@@ -249,7 +257,7 @@
       "respuesta": "Los capítulos posteriores no aclaran a qué familia se refiere Coyote ni el posible sacrificio por el que preguntó Maris.",
       "referencias": [],
       "pendiente": "El pasado familiar aludido y la respuesta a la pregunta sobre el sacrificio.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P29-005",
@@ -262,21 +270,27 @@
         "34-005"
       ],
       "pendiente": "El destino final de los restos y la diferencia entre su deterioro y la conservación mencionada en el capítulo 16.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P30-001",
       "capitulo": 30,
       "indice": 1,
       "pregunta": "¿Conseguirá Parroter un antídoto y sobrevivirá Eromov? La investigación comienza, pero la curación no se muestra (30-020 y 30-022).",
-      "estado": "pendiente",
-      "respuesta": "Leona relata que Eromov sigue envenenado, que la envió a Iktan para advertir de un ataque y que Guayacán quedó cuidándolo. Walulu promete enviar hombres, recetas y protecciones. Esto aporta un estado referido y un ofrecimiento de ayuda, pero no muestra un antídoto administrado ni la recuperación del líder.",
+      "estado": "parcial",
+      "respuesta": "Parroter prepara y administra un remedio con las espinas extraídas del devorafango vivo. Las venas negras de Eromov empiezan a menguar ante sus guardias y el alquimista anuncia que hará más. Ya hay un antídoto utilizado y una mejoría visible; la recuperación completa y la supervivencia posterior siguen sin representarse.",
       "referencias": [
         "40-002",
-        "40-006"
+        "40-006",
+        "44-008",
+        "44-011",
+        "44-037",
+        "44-045",
+        "44-048",
+        "44-056"
       ],
-      "pendiente": "El resultado del antídoto y el estado de Eromov.",
-      "revisado_hasta": 43
+      "pendiente": "La evolución con las dosis posteriores y la recuperación completa de Eromov.",
+      "revisado_hasta": 44
     },
     {
       "id": "P30-002",
@@ -293,7 +307,7 @@
         "41-023"
       ],
       "pendiente": "Identificar a quien añadió el veneno y a las dos visitantes anteriores.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P30-003",
@@ -304,7 +318,7 @@
       "respuesta": "No se regresa a la prisión ni se informa después de posibles cautivos supervivientes. El cadáver retirado no permite deducir el estado de todas las personas tras la reja.",
       "referencias": [],
       "pendiente": "Si quedaban cautivos vivos y qué ocurrió con ellos.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P30-004",
@@ -320,7 +334,7 @@
         "31-027"
       ],
       "pendiente": "La formulación y destino exactos del encargo referido por Eromov.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P30-005",
@@ -341,7 +355,7 @@
         "41-051"
       ],
       "pendiente": "La organización de los grupos, sus aliados y las relaciones entre las distintas operaciones.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P31-001",
@@ -357,7 +371,7 @@
         "41-055"
       ],
       "pendiente": "La grafía exacta y la relación demostrada del dragón con las ruinas.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P31-002",
@@ -375,7 +389,7 @@
         "41-054"
       ],
       "pendiente": "El mecanismo completo de la influencia y una neutralización permanente.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P31-003",
@@ -386,7 +400,7 @@
       "respuesta": "Los episodios posteriores no proporcionan los nombres de los cinco héroes ni identifican con certeza el fragmento o a quienes abrieron la prisión. Las otras visiones no permiten fusionar sus entidades por semejanza.",
       "referencias": [],
       "pendiente": "Las identidades de los héroes, el fragmento y los responsables de abrir la puerta, y una fecha verificable.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P31-004",
@@ -397,7 +411,7 @@
       "respuesta": "No se amplía el relato de Walulu sobre el altercado en el que murió su padre.",
       "referencias": [],
       "pendiente": "Las circunstancias y los responsables de la muerte de su padre.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P31-005",
@@ -416,7 +430,7 @@
         "41-023"
       ],
       "pendiente": "Las consecuencias concretas de revelar la ruta y la asistencia efectiva al concilio.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P31-006",
@@ -427,7 +441,7 @@
       "respuesta": "No se especifica después qué mejora eligió Triel con el tatuaje pagado por Eldrat.",
       "referencias": [],
       "pendiente": "El efecto concreto del tatuaje de Triel.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P32-001",
@@ -442,7 +456,7 @@
         "38-001"
       ],
       "pendiente": "",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P32-002",
@@ -455,7 +469,7 @@
         "35-016"
       ],
       "pendiente": "La identidad del general y si participa en un nuevo ataque.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P32-003",
@@ -472,7 +486,7 @@
         "43-059"
       ],
       "pendiente": "Las condiciones completas del pacto y el alcance del plan protector respecto a Citlali.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P32-004",
@@ -491,7 +505,7 @@
         "39-020"
       ],
       "pendiente": "",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P33-001",
@@ -502,7 +516,7 @@
       "respuesta": "Axi no recibe después un diagnóstico ni explica lo ocurrido durante aquella noche. La amnesia y los animales muertos no confirman por sí solos licantropía u otra causa.",
       "referencias": [],
       "pendiente": "La causa de los cadáveres y de la amnesia de Axi.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P33-002",
@@ -513,7 +527,7 @@
       "respuesta": "No se identifica después a quien entregó la piedra rota ni se localiza al individuo que saltó por el acantilado. Tampoco se establece la función del objeto.",
       "referencias": [],
       "pendiente": "La identidad y el paradero de quien entregó la piedra.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P33-003",
@@ -529,7 +543,7 @@
         "39-020"
       ],
       "pendiente": "La ubicación inicial ocultada por Nox, la amenaza concreta que teme y su participación en aquel traslado.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P33-004",
@@ -542,7 +556,7 @@
         "35-002"
       ],
       "pendiente": "El destino de Morris y cómo se transmitió la noticia de la muerte de Margaret.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P34-001",
@@ -556,7 +570,7 @@
         "41-005"
       ],
       "pendiente": "La causa de las lagunas de memoria y de sus regresos anteriores a Shiaru.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P34-002",
@@ -576,7 +590,7 @@
         "40-017"
       ],
       "pendiente": "",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P34-003",
@@ -590,7 +604,7 @@
         "35-016"
       ],
       "pendiente": "El balance del campamento y la causa o destino de la desaparición de Paco.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P34-004",
@@ -608,7 +622,7 @@
         "43-060"
       ],
       "pendiente": "La especie precisa y la aceptación formal de su residencia en Cuicapalli.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P35-001",
@@ -621,7 +635,7 @@
         "37-017"
       ],
       "pendiente": "Las identidades de las criaturas y la ubicación o significado de la pirámide de la visión.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P35-002",
@@ -640,7 +654,7 @@
         "43-058"
       ],
       "pendiente": "El contenido completo de los informes, su situación institucional definitiva y la charla pendiente con Nox.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P35-003",
@@ -658,7 +672,7 @@
         "42-072"
       ],
       "pendiente": "",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P35-004",
@@ -676,7 +690,7 @@
         "42-072"
       ],
       "pendiente": "El destino de Smith y la ejecución del seguimiento ordenado contra los viajeros.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P36-001",
@@ -689,7 +703,7 @@
         "38-001"
       ],
       "pendiente": "La identidad del hombre lobo y su relación con la bestia del cierre.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P36-002",
@@ -700,7 +714,7 @@
       "respuesta": "No se muestra después el interrogatorio del marine ni se cuenta qué hace Bonnie con él.",
       "referencias": [],
       "pendiente": "La información del marine y su destino tras la entrega.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P36-003",
@@ -716,7 +730,7 @@
         "41-005"
       ],
       "pendiente": "La causa del regreso de Blink y de sus lagunas de memoria.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P36-004",
@@ -733,7 +747,7 @@
         "42-067"
       ],
       "pendiente": "La ocupación de las ruinas por una guarnición pirata.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P37-001",
@@ -749,7 +763,7 @@
         "42-062"
       ],
       "pendiente": "La identidad de lo despertado, la función y destino del ojo y el resultado de una prueba con Citlali.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P37-002",
@@ -767,7 +781,7 @@
         "42-062"
       ],
       "pendiente": "La llegada concreta a Aurora, la reacción de Bonnie al incumplimiento y el destino posterior del ojo.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P37-003",
@@ -780,7 +794,7 @@
         "38-001"
       ],
       "pendiente": "El contacto con el reino, la financiación y el resultado de la propuesta de alianza.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P37-004",
@@ -791,7 +805,7 @@
       "respuesta": "No se inspecciona después el cuerpo del tiranosaurio ni se confirma su estado con una nueva escena.",
       "referencias": [],
       "pendiente": "El estado definitivo del tiranosaurio tras el cañonazo.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P38-001",
@@ -806,7 +820,7 @@
         "40-039"
       ],
       "pendiente": "Los efectos de la mordedura de Ione sobre Ilikar.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P38-002",
@@ -819,7 +833,7 @@
         "40-039"
       ],
       "pendiente": "La causa de las heridas con que apareció en la playa y los detalles de sus antecedentes tribales.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P38-003",
@@ -830,7 +844,7 @@
       "respuesta": "No se muestra que Bonnie descubra el reparto de su cofre ni que reclame los objetos o imponga consecuencias.",
       "referencias": [],
       "pendiente": "La reacción de Bonnie y cualquier reclamación por el cofre.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P38-004",
@@ -848,7 +862,7 @@
         "42-067"
       ],
       "pendiente": "",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P39-001",
@@ -863,7 +877,7 @@
         "43-062"
       ],
       "pendiente": "La función completa de la piel o las marcas como clave y la identidad del Señor.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P39-002",
@@ -879,7 +893,7 @@
         "43-061"
       ],
       "pendiente": "La reconstrucción del rescate del bebé y su vida hasta convertirse en Nox.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P39-003",
@@ -894,7 +908,7 @@
         "40-017"
       ],
       "pendiente": "Las identidades de los elfos, la enfermedad y el impedimento del dragón.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P39-004",
@@ -915,7 +929,7 @@
         "41-051"
       ],
       "pendiente": "El resultado de la conversación con Citlali y las causas completas de las amenazas.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P39-005",
@@ -928,7 +942,7 @@
         "41-051"
       ],
       "pendiente": "La identidad de la presencia del capítulo 39 y el destino de los yuan-ti tras el derrumbe.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     }
   ],
   "cotejo_capitulo_40": "Preguntas cotejadas individualmente con los tres bloques completos. Las respuestas sin novedad conservan su evidencia y estado; se actualizan únicamente las continuidades aportadas por esta sesión."

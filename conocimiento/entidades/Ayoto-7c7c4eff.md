@@ -8,11 +8,11 @@ Goliat de los dos escudos; distinto de Axi.
 
 Etiquetas agrupadas: Ayoto (grafía provisional); Ayoto / Ayuto (grafía provisional).
 
-Base para revisar equivalencia: [02-006](../capitulos/02.md), [02-021](../capitulos/02.md), [16-007](../capitulos/16.md).
+Base para revisar equivalencia: [02-006](../capitulos/02.md), [02-021](../capitulos/02.md), [16-007](../capitulos/16.md), [44-006](../capitulos/44.md), [44-007](../capitulos/44.md), [44-012](../capitulos/44.md), [44-013](../capitulos/44.md), [44-014](../capitulos/44.md), [44-015](../capitulos/44.md), [44-016](../capitulos/44.md), [44-020](../capitulos/44.md), [44-021](../capitulos/44.md), [44-025](../capitulos/44.md), [44-026](../capitulos/44.md), [44-029](../capitulos/44.md), [44-031](../capitulos/44.md), [44-034](../capitulos/44.md), [44-036](../capitulos/44.md), [44-039](../capitulos/44.md), [44-042](../capitulos/44.md), [44-044](../capitulos/44.md), [44-047](../capitulos/44.md), [44-049](../capitulos/44.md), [44-051](../capitulos/44.md), [44-053](../capitulos/44.md), [44-055](../capitulos/44.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 43.
+Relato revisado hasta el capítulo 44.
 
 ### Un devoto del Sol entre dos mundos
 
@@ -31,6 +31,12 @@ Fuentes: [10-024 · Ayoto y el elfo regresan sin sus compañeros ni Pix](../capi
 Reclutado por Coyote, desciende hacia Perlasal para ayudar al pueblo de Maris. Sufre la magia de los merros y descubre que su interés religioso no basta para acceder al templo de Ivet. Después relata que una negociación con los sirénidos fracasó y vuelve a entrenar a los habitantes de Cuicapalli. Al encontrar a Citlali y Etley amenazados por los hombres serpiente, ocupa el lugar de ella en un agarre. Tras el derrumbe de la cueva excava para rescatarlos, ayuda a curar a la cría con una fruta y acompaña al grupo hasta Iktan.
 
 Fuentes: [29-013 · Ayoto paralizado y copias que protegen al mago](../capitulos/29.md) · 01:04:00.000 · [29-025 · Ayoto no obtiene acceso religioso sin actos](../capitulos/29.md) · 02:36:00.000 · [39-001 · Regreso de Ayoto y crianza de Etley](../capitulos/39.md) · 00:00:00.000 · [39-006 · Ayoto libera a Citlali y Luna se revela](../capitulos/39.md) · 00:34:00.000 · [39-012 · Citlali y Etley siguen vivos mientras comienza la excavación](../capitulos/39.md) · 01:20:00.000 · [39-014 · Citlali drena a Tlachka y el grupo marcha al norte](../capitulos/39.md) · 01:34:00.000 · [39-020 · Descanso en Iktan y expulsión de Coyote](../capitulos/39.md) · 02:12:00.000.
+
+### Dos rescates y un escudo por hacer
+
+Ayoto vuelve a aparecer en Cuicapalli, relata su regreso de Iktan y recuerda sus viajes por el mar y el bosque. Comparte comida con los compañeros y un guardia antes de aceptar la misión de Leona. Una fruta lo hace temer a su propia sombra. En la cueva atrae los ataques del moho, abre un hueco con sus escudos y saca a Leona ocupando su lugar dentro. Después resiste el ácido del devorafango, salta a su lomo y lo derriba, sufriendo los pinchazos de las espinas y los golpes de su cola. El barro lo ciega durante una intervención del chat. Tras la victoria arrastra el cadáver con Tlachka y quiere aprovechar el caparazón para un nuevo escudo. Paga a Tacha dos monedas por la comida y busca al herrero del norte, que exige recibir el material en su tienda. Guayacán separa las piezas y lo ayuda a caminar hacia ella. No se representa la fabricación, el precio ni la entrega de otro escudo.
+
+Fuentes: [44-006 · Ayoto se reúne con sus compañeros y cuenta sus viajes](../capitulos/44.md) · 00:09:26.200 · [44-007 · Un guardia lleva a Leona y Guayacán ante Parroter](../capitulos/44.md) · 00:12:48.240 · [44-012 · Leona recluta a Ayoto y Tlachka para buscar las espinas](../capitulos/44.md) · 00:20:54.760 · [44-013 · Leona recuerda una cueva de su infancia junto a un lago](../capitulos/44.md) · 00:25:46.960 · [44-014 · Las frutas afectan las sombras y el brillo de los viajeros](../capitulos/44.md) · 00:28:39.960 · [44-015 · El viaje continúa entre sombras y una interrupción del mono](../capitulos/44.md) · 00:31:13.039 · [44-016 · La cueva junto al lago huele mal y contiene huesos](../capitulos/44.md) · 00:32:38.600 · [44-020 · Leona evita que la masa la envuelva](../capitulos/44.md) · 00:37:53.760 · [44-021 · Ayoto atrae la atención de la masa de moho](../capitulos/44.md) · 00:39:10.440 · [44-025 · La criatura hiere desde dentro y Ayoto replica a un fallo](../capitulos/44.md) · 00:46:05.520 · [44-026 · Ayoto vuelve a provocar y Tlachka mantiene golpes no letales](../capitulos/44.md) · 00:48:27.000 · [44-029 · Ayoto saca a Leona y ocupa su lugar dentro de la masa](../capitulos/44.md) · 00:54:29.280 · [44-031 · El Devorafango entra y cubre la sala de ácido](../capitulos/44.md) · 00:59:10.680 · [44-034 · Ayoto sube al lomo y derriba al Devorafango](../capitulos/44.md) · 01:06:05.119 · [44-036 · Un mordisco deja a Guayacán al límite y la cola derriba a Ayoto](../capitulos/44.md) · 01:10:42.520 · [44-039 · Ayoto dirige sus golpes hacia la cola](../capitulos/44.md) · 01:16:18.560 · [44-042 · La criatura golpea con la cola y Leona extrae otra espina](../capitulos/44.md) · 01:20:46.880 · [44-044 · Ayoto se levanta y combate cegado por el barro](../capitulos/44.md) · 01:24:46.159 · [44-047 · Ayoto y Tlachka arrastran el cadáver hacia Cuicapalli](../capitulos/44.md) · 01:31:52.080 · [44-049 · Ayoto pide un artesano del norte y paga a Tacha](../capitulos/44.md) · 01:38:38.760 · [44-051 · El herrero exige que Ayoto lleve el material a la tienda](../capitulos/44.md) · 01:41:12.400 · [44-053 · Guayacán usa su oficio de peletero para separar el caparazón](../capitulos/44.md) · 01:44:11.679 · [44-055 · Ayoto reúne el exoesqueleto para encargar un escudo](../capitulos/44.md) · 01:50:19.480.
 
 ## Registros y evidencias
 
@@ -1465,4 +1471,212 @@ Tipo: `hecho_confirmado`.
 Citlali y Etley duermen en el templo. Ella oye en la habitación contigua a los elfos y a Walulu, que tratan la enfermedad de la elfa. Ayoto y Tlachka piden habitaciones individuales en la taberna para evitar a Coyote. El director confirma que es un cambiaformas. Coyote intenta obtener el amor de Angelique sin éxito; un guardia lo expulsa y duerme fuera, cerca del poste donde lo cuelgan. Se confirma la llegada a Iktan y se sugiere que algo observa el entorno, sin identificarlo.
 
 Coyote y Citlali son personajes distintos aunque compartan jugador. El alias aportado en el contexto no acredita una identidad única.
+
+## [44-006 · Ayoto se reúne con sus compañeros y cuenta sus viajes](../capitulos/44.md) · 00:09:26.200
+
+Tipo: `declaracion_personaje`.
+
+Ayoto llega a la comida, saluda a Tlachka, Leona y Guayacán y cuenta que ha vuelto de Iktan a Cuicapalli para informarse de lo ocurrido. Recuerda su estancia bajo el mar, su desorientación en el bosque, las amenazas en una ciudad oculta y la ayuda de un perro extraño. Afirma haber ayudado en el agua y querer hacerlo también en tierra.
+
+El repaso es su testimonio. La mención del perro no contiene un nombre y no crea una identidad nueva; tampoco demuestra una misión submarina distinta o resultados no representados aquí.
+
+## [44-007 · Un guardia lleva a Leona y Guayacán ante Parroter](../capitulos/44.md) · 00:12:48.240
+
+Tipo: `hecho_confirmado`.
+
+Un guardia busca a Leona porque Parroter la reclama con urgencia. Guayacán sigue a su maestra hasta la choza de Eromov. Ayoto y Tlachka se quedan comiendo con Tacha; Ayoto ofrece comida a otro guardia, que la acepta sin abandonar expresamente su puesto.
+
+Los guardias permanecen sin nombre y no se fusionan por compartir función. La demora en la comida no se convierte en un daño concreto a Eromov.
+
+## [44-012 · Leona recluta a Ayoto y Tlachka para buscar las espinas](../capitulos/44.md) · 00:20:54.760
+
+Tipo: `hecho_confirmado`.
+
+Mientras Tacha continúa sirviendo comida, Leona y Guayacán vuelven a buscar a Ayoto y Tlachka. La harengon explica la urgencia de salvar a Eromov y solicita ayuda a ambos. Tras un equívoco sobre si el dirigente tiene una espina en la garganta, aclara que deben buscar una criatura de barro y sacar de su boca el ingrediente mientras viva. El grupo acepta salir con ella hacia cuevas, ríos o lagos.
+
+La espina en la garganta de Eromov es un malentendido corregido, no un diagnóstico. Las dificultades de conexión pertenecen a la mesa y no se convierten en sucesos de la ficción.
+
+## [44-013 · Leona recuerda una cueva de su infancia junto a un lago](../capitulos/44.md) · 00:25:46.960
+
+Tipo: `hecho_confirmado`.
+
+Los cuatro salen de Cuicapalli y se internan en la jungla. Leona busca agua estancada y lugares húmedos mientras Ayoto rastrea sin conocer bien al animal. Tras la búsqueda, la harengon recuerda un lago cercano y una gran cueva donde jugaba con otros niños. Considera que su barro y humedad encajan con la descripción y conduce allí a sus compañeros.
+
+La cueva carece de topónimo en el pasaje. El recuerdo de Leona no la identifica con la Hoja Caída o con la cueva derrumbada del capítulo 39, ni confirma todavía la presencia del devorafango.
+
+## [44-014 · Las frutas afectan las sombras y el brillo de los viajeros](../capitulos/44.md) · 00:28:39.960
+
+Tipo: `explicacion_director`.
+
+Al comer frutas, la sombra de Leona grita sin sonido cuando ataca; Ayoto pasa a temer a su propia sombra; Guayacán brilla de verde, con desventaja para el sigilo y ventaja para el carisma. Durante el mismo intercambio, el director concede al grupo bendición y un dado de cuatro para la partida.
+
+No se adjudica inequívocamente un efecto individual de fruta a Tlachka. La procedencia de la bendición colectiva no se explica con suficiente claridad para atribuírsela a su fruta. Los efectos no acreditan rasgos permanentes o una identidad nueva de las sombras.
+
+## [44-015 · El viaje continúa entre sombras y una interrupción del mono](../capitulos/44.md) · 00:31:13.039
+
+Tipo: `hecho_confirmado`.
+
+Los compañeros siguen a Leona. Ayoto, temblando por el temor a su sombra, busca la cobertura de un árbol, aunque el director recuerda que la sombra lo sigue. Un mono observa a los viajeros y, tras unos segundos de miradas, lanza una piel de plátano; uno declara una caída cómica. El animal se ríe y trepa para alejarse.
+
+No queda fijado con seguridad el actor de todas las intervenciones del incidente. El mono no recibe nombre ni se identifica con Pix; tampoco se narra que sea capturado o comido.
+
+## [44-016 · La cueva junto al lago huele mal y contiene huesos](../capitulos/44.md) · 00:32:38.600
+
+Tipo: `hecho_confirmado`.
+
+Los viajeros llegan al lago y a la cueva embarrada que recuerda Leona. Ella se aproxima a la entrada y observa un interior de olor pestilente con huesos por el suelo. Los interpreta como restos de comida de la criatura buscada y llama a los demás para que se acerquen.
+
+Los huesos no se identifican por especie, nombre o causa exacta de muerte. Su presencia no demuestra aún qué criatura los dejó ni una conexión con los restos envenenados de Iktan.
+
+## [44-017 · El grupo se reúne ante la entrada y recuerda la condición del encargo](../capitulos/44.md) · 00:34:38.200
+
+Tipo: `hecho_confirmado`.
+
+Los cuatro alcanzan la cueva. Leona intenta atraer a la bestia con llamadas como si fuese un gato y promete no matarla por un rato. Guayacán recuerda que deben extraer la espina mientras viva o la misión no servirá, y Leona confirma la instrucción.
+
+Las llamadas no identifican al animal como felino ni prueban que responda. El recordatorio habla de la criatura del encargo antes de que el grupo identifique a su primer adversario.
+
+## [44-020 · Leona evita que la masa la envuelva](../capitulos/44.md) · 00:37:53.760
+
+Tipo: `hecho_confirmado`.
+
+La masa se lanza sobre Leona para envolverla. Tras la salvación, la harengon se aparta y la criatura cae al suelo sin alcanzarla. Ayoto se prepara para actuar.
+
+Este intento falla. Leona entra voluntariamente en la masa más adelante (44-023); es distinta del devorafango.
+
+## [44-021 · Ayoto atrae la atención de la masa de moho](../capitulos/44.md) · 00:39:10.440
+
+Tipo: `hecho_confirmado`.
+
+Ayoto corre para dejar espacio a sus compañeros y golpea a la criatura con el escudo de pinchos. Utiliza una maniobra de provocación y el director confirma que pasa a ser el objetivo de la masa. Los golpes siguientes no alcanzan al rival.
+
+La provocación se conserva como resolución de la maniobra en combate; no permite atribuir inteligencia, lenguaje o una especie precisa al moho.
+
+## [44-025 · La criatura hiere desde dentro y Ayoto replica a un fallo](../capitulos/44.md) · 00:46:05.520
+
+Tipo: `hecho_confirmado`.
+
+Leona resiste el daño que recibe en el interior de la masa. El rival intenta golpear a Ayoto y falla el primer ataque; el goliat aprovecha para responder con una réplica que impacta. La criatura efectúa después otro ataque contra él.
+
+Las reducciones de daño se discuten en mesa sin describir un nuevo poder narrativo separado. El resultado exacto del segundo ataque no queda verbalmente fijado con la misma claridad.
+
+## [44-026 · Ayoto vuelve a provocar y Tlachka mantiene golpes no letales](../capitulos/44.md) · 00:48:27.000
+
+Tipo: `hecho_confirmado`.
+
+Ayoto intenta nuevos golpes y vuelve a aplicar su maniobra de provocación cuando uno alcanza a la masa. El director confirma el fallo de su salvación. Después Tlachka golpea con su macuahuitl y acuerda emplear daño no letal.
+
+La intención de evitar la muerte se refiere a los golpes declarados en esta fase; no determina por sí sola el estado final de la criatura.
+
+## [44-028 · Guayacán logra aturdir a la masa](../capitulos/44.md) · 00:51:43.880
+
+Tipo: `hecho_confirmado`.
+
+Guayacán insiste en golpear de forma no letal y logra aplicar un golpe aturdidor. Con el rival aturdido, sus siguientes golpes se resuelven con ventaja. Leona sigue expuesta al daño del interior, pero la masa no realiza el ataque que iba a dirigir contra Ayoto porque está aturdida.
+
+El aturdimiento no equivale a una muerte ni acredita haber obtenido el ingrediente.
+
+## [44-029 · Ayoto saca a Leona y ocupa su lugar dentro de la masa](../capitulos/44.md) · 00:54:29.280
+
+Tipo: `hecho_confirmado`.
+
+Ayoto combate con sus dos escudos y emplea la última carga de uno para rasgar la masa y abrir un hueco. A través de él ve a Leona arrancando material. Utiliza una maniobra para alcanzarla y tirar de ella mientras la harengon desgarra cuanto puede. El director resuelve el intercambio: Leona sale y Ayoto queda dentro.
+
+Las explicaciones de la dote y la maniobra no establecen reglas generales fuera de esta resolución. No se confirma la identidad del material arrancado como ingrediente del antídoto.
+
+## [44-030 · La masa queda moribunda entre restos de huesos](../capitulos/44.md) · 00:57:52.799
+
+Tipo: `hecho_confirmado`.
+
+Tlachka continúa atacando y la masa queda a un punto de vida según la resolución del director. Al abrir y apartar el moho salen nuevos restos de huesos que parecían estar siendo consumidos en su interior. Más tarde se corrige el comentario de que está muerta: seguía moribunda al comenzar la siguiente amenaza.
+
+El reconocimiento alterna formulaciones de letal y no letal en estos golpes; se conserva el estado explícito de un punto de vida. No se fija aquí su muerte ni la identidad de los restos.
+
+## [44-031 · El Devorafango entra y cubre la sala de ácido](../capitulos/44.md) · 00:59:10.680
+
+Tipo: `hecho_confirmado`.
+
+Guayacán oye ruido detrás del grupo. Una criatura enorme entra por la boca de la cueva: está cubierta de barro, tiene ojos grandes y saltones, espinas en la espalda y protuberancias dentadas alrededor de la boca. Escupe una gran descarga que llena de ácido la sala y alcanza también la zona de la masa de moho. Ayoto describe el ácido cayéndole sobre la espalda cuando el moho se abre encima de él y utiliza su resistencia para mitigar el daño.
+
+La identificación con el Devorafango enlaza sus rasgos con el encargo, sin añadir una especie de bestiario. Una reacción de absorción de ácido se declara sin nombre del actor suficientemente claro en ese instante; el arma de Tlachka se describe luego cargada con ese ácido.
+
+## [44-034 · Ayoto sube al lomo y derriba al Devorafango](../capitulos/44.md) · 01:06:05.119
+
+Tipo: `hecho_confirmado`.
+
+Ayoto corre hacia el nuevo enemigo, salta con el escudo y consigue subir encima. Lo golpea desde arriba, pero las espinas dorsales se le clavan al contacto. El director aclara que es daño de los pinchazos y no envenenamiento. El goliat se arroja hacia un lado y dirige un golpe a una rodilla para derribarlo; la criatura cae al suelo.
+
+No se inventa cómo termina la estancia anterior de Ayoto en el moho: esta acción lo sitúa ya atacando al nuevo rival. El daño de las espinas se distingue del ácido y del veneno que afecta a Eromov.
+
+## [44-036 · Un mordisco deja a Guayacán al límite y la cola derriba a Ayoto](../capitulos/44.md) · 01:10:42.520
+
+Tipo: `hecho_confirmado`.
+
+El Devorafango se levanta a cuatro patas y empieza a regurgitar, sin expulsar todavía a Leona. Muerde a Guayacán, que queda a un punto de vida tras aplicar la reducción de su furia. Luego golpea a Ayoto con la cola; el goliat falla la salvación de fuerza y cae al suelo.
+
+Guayacán queda gravemente herido pero consciente, sin una muerte representada. La regurgitación no se confunde con una salida de Leona en ese momento.
+
+## [44-039 · Ayoto dirige sus golpes hacia la cola](../capitulos/44.md) · 01:16:18.560
+
+Tipo: `hecho_confirmado`.
+
+Ayoto reanuda sus ataques contra el Devorafango. Tras resolver los impactos, precisa que quiere concentrarlos en la cola para dañarla todo lo posible.
+
+La elección de blanco no documenta que corte o inutilice la cola. Los ajustes de dados, críticos y selección de objetivos se conservan como correcciones de mesa, sin una curación del enemigo por error de interfaz.
+
+## [44-042 · La criatura golpea con la cola y Leona extrae otra espina](../capitulos/44.md) · 01:20:46.880
+
+Tipo: `hecho_confirmado`.
+
+La criatura no puede morder bien mientras la sujetan del cuello, pero golpea a Ayoto con la cola cuando sigue en el suelo. Leona continúa arrancando espinas desde el interior y consigue extraer otra.
+
+El perjuicio de estar en el suelo no equivale a inconsciencia. El texto no identifica por posición izquierda o derecha una espina especial.
+
+## [44-044 · Ayoto se levanta y combate cegado por el barro](../capitulos/44.md) · 01:24:46.159
+
+Tipo: `hecho_confirmado`.
+
+El director representa una intervención del chat mediante barro de las espinas de la cola que entra en los ojos de Ayoto y lo ciega. Ayoto se levanta, se orienta por el oído y trata de golpear a la criatura que sabe que tiene delante. Los ataques discutidos en este turno no alcanzan.
+
+La ceguera se atribuye al barro y al chat; no se diagnostica veneno ni una lesión ocular permanente. No se fija una duración que los subtítulos no completan.
+
+## [44-047 · Ayoto y Tlachka arrastran el cadáver hacia Cuicapalli](../capitulos/44.md) · 01:31:52.080
+
+Tipo: `hecho_confirmado`.
+
+Ayoto y Tlachka deciden llevarse la criatura para obtener raciones y aprovechar su caparazón. La arrastran con dificultad; sus espinas se les clavan. Tlachka rompe parte de las púas de la cola con su arma para crear un lugar por donde agarrarla y continúan hasta Cuicapalli con el enorme cadáver.
+
+La decisión de comerla y las propuestas de aprovechar piel o partes no prueban todavía una comida cocinada, una venta ni la fabricación de equipo. La grafía del arma fluctúa y no se crea un arma nueva por cada variante.
+
+## [44-049 · Ayoto pide un artesano del norte y paga a Tacha](../capitulos/44.md) · 01:38:38.760
+
+Tipo: `hecho_confirmado`.
+
+Junto al cadáver se discute cómo separar el caparazón para fabricar otro escudo. Ayoto pregunta dónde encontrar a quien trabaja pieles y le indican una tienda al norte. Antes de ir, entrega dos monedas de oro a Tacha porque suele darles de comer y cree que no le han pagado.
+
+El pago a Tacha se distingue de la promesa de pagar al herrero. No se fija un precio de fabricación del nuevo escudo.
+
+## [44-051 · El herrero exige que Ayoto lleve el material a la tienda](../capitulos/44.md) · 01:41:12.400
+
+Tipo: `hecho_confirmado`.
+
+Ayoto llega herido a la tienda del norte y ofrece pagar e invitar a comer al artesano si lo ayuda a trabajar la criatura. El hombre no quiere dejar la tienda sola y pide que le traigan el cadáver. Ayoto propone que Baton vigile, pero el artesano lo rechaza llamándolo ladrón. Baton niega haber robado a nadie; Ayoto insiste en la invitación y regresa sin lograr que el herrero abandone su puesto.
+
+La acusación contra Baton pertenece al herrero y queda contestada, sin prueba independiente de un robo. El oficio de herrero se confirma al describir la salida de Ayoto; no se le asigna el nombre Armin ni se confunde con el artesano de Shiaru.
+
+## [44-053 · Guayacán usa su oficio de peletero para separar el caparazón](../capitulos/44.md) · 01:44:11.679
+
+Tipo: `hecho_confirmado`.
+
+Ayoto vuelve para pedir ayuda con el caparazón que quiere convertir en un segundo escudo. Guayacán explica que sabe tratar cuero y criaturas escamosas por su formación de peletero. El director admite una tirada con sus herramientas. Logra extraer piezas, pero el corte no queda perfecto y el trabajo le lleva un rato.
+
+El caparazón es un exoesqueleto, aclarado después por el director; no se convierte en piel convencional. Extraer piezas no significa haber fabricado el escudo.
+
+## [44-055 · Ayoto reúne el exoesqueleto para encargar un escudo](../capitulos/44.md) · 01:50:19.480
+
+Tipo: `hecho_confirmado`.
+
+Guayacán entrega a Ayoto las piezas extraídas. Discuten la diferencia entre escamas y caparazón hasta que el director aclara que se trata de un exoesqueleto como el de una gamba. Ayoto agradece la ayuda, propone cortar dedos de la criatura para decorar el escudo como el que ya lleva y se dispone a trasladar el material al herrero. Guayacán le ofrece el brazo al verlo caminar con tanta dificultad; los dos avanzan apoyándose hacia la tienda.
+
+El nuevo escudo sigue siendo un proyecto. No se muestra un encargo aceptado, pago al herrero, acabado o estadística de armadura. El apoyo mutuo no equivale a una curación.
 

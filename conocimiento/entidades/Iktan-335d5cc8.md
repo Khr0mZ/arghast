@@ -12,7 +12,7 @@ Base para revisar equivalencia: [01-007](../capitulos/01.md), [31-023](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 43.
+Relato revisado hasta el capítulo 44.
 
 ### La ciudad que no se deja encontrar fácilmente
 
@@ -529,4 +529,36 @@ Tipo: `declaracion_personaje`.
 Lunaria, llamada Luna, cuenta que ha recorrido el poblado que desconocía y preguntado a sus habitantes y a la chamana. Se sitúa ahora en la jungla después de sus insistentes preguntas.
 
 El lugar se identifica contextualmente con Iktan por la continuidad del capítulo anterior de su grupo. No se expone una respuesta concreta de la chamana ni se atribuye un conocimiento nuevo a Luna.
+
+## [44-001 · Leona busca rastros tras su misión de aviso](../capitulos/44.md) · 00:00:47.039
+
+Tipo: `declaracion_personaje`.
+
+Leona recuerda que salió por órdenes para avisar sobre las serpientes y pedir que acudieran personas capaces de ayudar. Se ha reunido de nuevo con Guayacán y, mientras espera los resultados de esa ayuda, ha buscado pistas de las serpientes cerca del poblado.
+
+El contexto enlaza el aviso previo a Iktan, sin detallar en este repaso una llegada efectiva de recetas, protecciones o refuerzos. La presentación de Leona como posible futura líder no equivale a una investidura.
+
+## [44-002 · Tlachka recuerda Iktan y prepara fruta y mazorcas](../capitulos/44.md) · 00:01:35.200
+
+Tipo: `declaracion_personaje`.
+
+Tlachka relata su paso por Iktan y recuerda personas que se transformaban en serpientes. Ha buscado descanso apartado de Coyote, recogido frutas en los alrededores y preparado mazorcas para vender.
+
+El repaso no identifica una nueva infiltrada o un combate distinto. Su recuerdo de Iktan no le atribuye por sí solo las acciones del grupo del capítulo 41.
+
+## [44-005 · Guayacán cambia la voz al reconocer a Tlachka](../capitulos/44.md) · 00:05:57.880
+
+Tipo: `hecho_confirmado`.
+
+La interpretación distingue una voz normal de Guayacán y otra que adopta al ponerse firme ante Tlachka, a quien reconoce del enfrentamiento contra la Marina. Hablan de las serpientes de Iktan y de la búsqueda de venenos, sin aportar una muestra nueva. Tacha sirve tres platos de lechón y Guayacán cambia su porción de carne por una mazorca de Tlachka.
+
+El cambio de voz no declara la especie o identidad oculta de Guayacán. Las alusiones humorísticas al perro y a su cola no prueban una acción nueva de Coyote o un conocimiento del veneno.
+
+## [44-006 · Ayoto se reúne con sus compañeros y cuenta sus viajes](../capitulos/44.md) · 00:09:26.200
+
+Tipo: `declaracion_personaje`.
+
+Ayoto llega a la comida, saluda a Tlachka, Leona y Guayacán y cuenta que ha vuelto de Iktan a Cuicapalli para informarse de lo ocurrido. Recuerda su estancia bajo el mar, su desorientación en el bosque, las amenazas en una ciudad oculta y la ayuda de un perro extraño. Afirma haber ayudado en el agua y querer hacerlo también en tierra.
+
+El repaso es su testimonio. La mención del perro no contiene un nombre y no crea una identidad nueva; tampoco demuestra una misión submarina distinta o resultados no representados aquí.
 

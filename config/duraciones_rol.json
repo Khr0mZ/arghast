@@ -26,6 +26,10 @@
     "xoltacan43": {
       "archivo": "xoltacan_subtitulos/subtitulos/43 - tSdmoZCWEZQ.info.json",
       "sha256": "343b6f86d38b9a740224ded76ad586c59e2529a92f4db58fd9b204860c619dfe"
+    },
+    "xoltacan44": {
+      "archivo": "xoltacan_subtitulos/subtitulos/44 - KAfKPeZImT4.info.json",
+      "sha256": "004ed3444f7308f9e805e2cb93107a50b6b69b6ec1537b4a635f90171fda588a"
     }
   },
   "campanas": {
@@ -244,6 +248,11 @@
         "video_id": "tSdmoZCWEZQ",
         "segundos": 7575,
         "fuente": "xoltacan43"
+      },
+      "44": {
+        "video_id": "KAfKPeZImT4",
+        "segundos": 6934,
+        "fuente": "xoltacan44"
       }
     },
     "kuroto": {

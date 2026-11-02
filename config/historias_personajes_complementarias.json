@@ -1,5 +1,5 @@
 {
-  "revisado_hasta": 43,
+  "revisado_hasta": 44,
   "personajes": {
     "Angélica Thunder": [
       {
@@ -87,6 +87,13 @@
           "22-002",
           "22-006",
           "22-008"
+        ]
+      },
+      {
+        "titulo": "La tienda que no le confían",
+        "texto": "Ayoto propone que Baton vigile la tienda para que el herrero pueda salir a examinar la criatura. El artesano se niega, lo llama ladrón y Baton responde que no ha robado a nadie. No se prueba el supuesto robo ni se le entrega la vigilancia del establecimiento.",
+        "referencias": [
+          "44-051"
         ]
       }
     ],
@@ -598,6 +605,18 @@
           "41-015",
           "41-019"
         ]
+      },
+      {
+        "titulo": "La primera mejoría tras el remedio",
+        "texto": "Eromov sigue postrado en Cuicapalli, temblando y tosiendo bajo las hojas con que Parroter lo cuida. Apenas levanta la trompa para saludar a Leona. El alquimista teme que no aguante mucho más y solicita un ingrediente que obliga a una nueva expedición. Durante la extracción, Leona recuerda que Eromov la encontró de pequeña; la escena no reconstruye toda su infancia. Al cierre Parroter administra la preparación ante los guardias. Las venas negras visibles sobre la piel grisácea empiezan a menguar y el alquimista anuncia que hará más. Hay una mejoría representada, sin una recuperación completa ni un regreso del dirigente a sus funciones.",
+        "referencias": [
+          "44-008",
+          "44-009",
+          "44-011",
+          "44-012",
+          "44-037",
+          "44-056"
+        ]
       }
     ],
     "Etley": [
@@ -731,6 +750,34 @@
         "texto": "Leona lo llama su aprendiz y explica que lo deja en Cuicapalli cuidando al envenenado Eromov mientras ella advierte a Walulu. La recapitulación no fija una sucesión de Leona ni resuelve el secreto anterior de Guayacán.",
         "referencias": [
           "40-002"
+        ]
+      },
+      {
+        "titulo": "Vigilancia, rescate y oficio de peletero",
+        "texto": "Guayacán cuenta que ha cuidado Cuicapalli mientras Leona estaba fuera, estudiando sus defensas y el ánimo de sus habitantes. Alterna la voz al reconocer a Tlachka, sin revelar su especie. Acompaña a su maestra ante Parroter y a la cueva. La angustia al verla dentro del moho lo hace fallar algunos golpes, pero acaba aturdiendo a la masa para facilitar el rescate. El devorafango lo hiere con ácido y un mordisco que lo deja al límite de sus fuerzas. Usa curaciones y aclara que su agarre pretende estabilizar el cuello para que Leona pueda trabajar. Inmoviliza al animal y, después de la salida de ella y sus ataques, lo remata con el pico de su traje. De vuelta participa en la entrega del ingrediente. Su formación de peletero le permite extraer piezas del exoesqueleto, aunque los cortes no quedan perfectos. Termina ayudando al también malherido Ayoto a llevarlas al herrero; el apoyo no sustituye una curación.",
+        "referencias": [
+          "44-003",
+          "44-005",
+          "44-007",
+          "44-010",
+          "44-011",
+          "44-017",
+          "44-018",
+          "44-019",
+          "44-024",
+          "44-028",
+          "44-031",
+          "44-033",
+          "44-036",
+          "44-038",
+          "44-040",
+          "44-041",
+          "44-043",
+          "44-046",
+          "44-048",
+          "44-052",
+          "44-053",
+          "44-055"
         ]
       }
     ],
@@ -1013,6 +1060,37 @@
           "41-023",
           "41-038",
           "41-046"
+        ]
+      },
+      {
+        "titulo": "Las espinas para salvar a Eromov",
+        "texto": "De nuevo en Cuicapalli tras su misión de aviso, Leona busca rastros de las serpientes y participa en las rondas de vigilancia. Parroter la llama ante el empeoramiento de Eromov y le encarga espinas de la boca de un devorafango, que deben arrancarse con el animal vivo. Reúne a Guayacán, Ayoto y Tlachka y los guía hacia una cueva junto a un lago donde jugaba de pequeña. Allí entra voluntariamente en una masa de moho buscando el ingrediente; Ayoto logra sacarla ocupando su lugar. Cuando aparece el devorafango, se introduce en su boca. Clava el hacha para afirmarse y el recuerdo de Eromov cuando la encontró de niña aviva su esfuerzo. Arranca dos espinas y acepta la mano de Tlachka para salir. Después ataca al animal antes del remate de Guayacán. Entrega las espinas a Parroter, confirma que las obtuvo en vida y prueba la carne que prepara Tlachka. El alquimista pide avisarla al ver mejorar al dirigente. Ni este vínculo de infancia ni su responsabilidad en la misión equivalen a una adopción formal o una investidura como sucesora.",
+        "referencias": [
+          "44-001",
+          "44-004",
+          "44-007",
+          "44-008",
+          "44-009",
+          "44-011",
+          "44-012",
+          "44-013",
+          "44-016",
+          "44-017",
+          "44-018",
+          "44-020",
+          "44-023",
+          "44-027",
+          "44-029",
+          "44-032",
+          "44-035",
+          "44-037",
+          "44-040",
+          "44-042",
+          "44-045",
+          "44-046",
+          "44-048",
+          "44-054",
+          "44-056"
         ]
       }
     ],
@@ -1525,6 +1603,19 @@
           "30-020",
           "30-022"
         ]
+      },
+      {
+        "titulo": "Un antídoto que empieza a funcionar",
+        "texto": "Parroter sigue atendiendo a Eromov y manda llamar a Leona. Dice haber avanzado con los materiales recibidos, sin identificar por separado todas sus procedencias. Pide espinas del interior de la boca de un devorafango, extraídas mientras viva, y describe su hábitat húmedo y el peligro de sus secreciones corrosivas. Leona y Guayacán regresan con dos espinas obtenidas en vida. El alquimista los reprende por haber matado al animal, algo que no era necesario para el encargo, pero acepta el ingrediente. Tritura una púa y prepara el remedio. Tras administrarlo ve menguar las venas negras de Eromov, pide avisar a Leona y anuncia que hará más para continuar el tratamiento.",
+        "referencias": [
+          "44-007",
+          "44-008",
+          "44-009",
+          "44-010",
+          "44-011",
+          "44-048",
+          "44-056"
+        ]
       }
     ],
     "Pinky": [
@@ -1670,6 +1761,19 @@
           "30-005",
           "30-006",
           "30-022"
+        ]
+      },
+      {
+        "titulo": "El plato que despierta su curiosidad",
+        "texto": "Tacha sirve lechón mientras Tlachka prepara mazorcas junto a su cocina. La reunión se interrumpe cuando Parroter llama a Leona; Ayoto y Tlachka siguen comiendo hasta que ella vuelve para pedirles ayuda. Tras la expedición, Ayoto le entrega dos monedas porque cree que no han pagado sus comidas. Tacha huele con desagrado la carne del animal traído, pero observa cómo Tlachka la limpia y cocina con chiles. Cuando el aroma mejora se acerca con curiosidad y Leona prueba el plato con la salsa más fuerte. Estas comidas no aportan una confesión sobre el envenenamiento anterior de Eromov.",
+        "referencias": [
+          "44-004",
+          "44-005",
+          "44-007",
+          "44-012",
+          "44-049",
+          "44-050",
+          "44-054"
         ]
       }
     ],
@@ -2280,6 +2384,64 @@
           "43-046",
           "43-050",
           "43-062"
+        ]
+      }
+    ],
+    "Masa de moho de la cueva": [
+      {
+        "titulo": "Los huesos del interior",
+        "texto": "La materia del suelo se levanta junto a Leona y trata de envolverla. Guayacán la golpea y más adelante consigue aturdirla. Cuando Tlachka intenta encontrar una boca, descubre huesos aparentemente humanoides que la masa está consumiendo. Leona entra voluntariamente para buscar una espina, pero solo arranca material hasta que Ayoto abre un hueco y la saca, quedándose dentro. Tras nuevos ataques la masa queda moribunda. Un comentario que la da por muerta se corrige; la llegada del devorafango y su ácido no confirma su destino final ni identifica a las víctimas de los huesos.",
+        "referencias": [
+          "44-018",
+          "44-019",
+          "44-020",
+          "44-022",
+          "44-023",
+          "44-028",
+          "44-029",
+          "44-030",
+          "44-031"
+        ]
+      }
+    ],
+    "Devorafango": [
+      {
+        "titulo": "El animal buscado y el ingrediente extraído",
+        "texto": "Parroter describe al devorafango como una criatura peligrosa de cuevas húmedas, capaz de escupir sustancias que queman la piel. El objetivo se distingue de la masa de moho que los viajeros encuentran primero. Después entra un animal enorme cubierto de barro, con ojos saltones, espinas dorsales, protuberancias bucales y una cola poderosa. Escupe ácido sobre la sala. Leona se mete en su boca para extraer las espinas; Ayoto lo derriba y Tlachka ataca su vientre desprotegido. La criatura se incorpora, hiere gravemente a Guayacán y derriba a Ayoto. Guayacán logra inmovilizarla y Tlachka saca a Leona con dos espinas obtenidas en vida. Leona vuelve a golpear y Guayacán la remata. El cadáver llega a Cuicapalli, donde se cocina parte de la carne y se recupera exoesqueleto para un proyecto de escudo.",
+        "referencias": [
+          "44-010",
+          "44-011",
+          "44-012",
+          "44-013",
+          "44-017",
+          "44-018",
+          "44-031",
+          "44-032",
+          "44-034",
+          "44-035",
+          "44-036",
+          "44-037",
+          "44-038",
+          "44-040",
+          "44-041",
+          "44-042",
+          "44-043",
+          "44-045",
+          "44-046",
+          "44-047",
+          "44-053",
+          "44-050",
+          "44-056"
+        ]
+      }
+    ],
+    "Herrero de Cuicapalli": [
+      {
+        "titulo": "El material debe llegar a la tienda",
+        "texto": "Ayoto busca al artesano del norte para trabajar el caparazón del animal. El herrero no quiere dejar su tienda y rechaza que Baton la vigile, acusándolo de ladrón. Pide que le lleven el material. Después Ayoto y Guayacán van hacia él con piezas del exoesqueleto, sin que se represente aún la aceptación del trabajo o la entrega de un escudo.",
+        "referencias": [
+          "44-051",
+          "44-055"
         ]
       }
     ]

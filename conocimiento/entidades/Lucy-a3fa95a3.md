@@ -12,7 +12,7 @@ Base para revisar equivalencia: [05-003](../capitulos/05.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 43.
+Relato revisado hasta el capítulo 44.
 
 ### La persona a la que Jack quiere regresar
 

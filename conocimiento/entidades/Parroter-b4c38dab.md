@@ -8,11 +8,11 @@ Alquimista kenku de Cuicapalli, posteriormente nombrado Parroter. Agrupación co
 
 Etiquetas agrupadas: Alquimista kenku de Cuicapalli (sin nombre); Parroter (alquimista kenku de Cuicapalli).
 
-Base para revisar equivalencia: [16-014](../capitulos/16.md), [16-017](../capitulos/16.md), [30-003](../capitulos/30.md), [30-020](../capitulos/30.md).
+Base para revisar equivalencia: [16-014](../capitulos/16.md), [16-017](../capitulos/16.md), [30-003](../capitulos/30.md), [30-020](../capitulos/30.md), [44-007](../capitulos/44.md), [44-008](../capitulos/44.md), [44-009](../capitulos/44.md), [44-010](../capitulos/44.md), [44-011](../capitulos/44.md), [44-048](../capitulos/44.md), [44-056](../capitulos/44.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 43.
+Relato revisado hasta el capítulo 44.
 
 ### El alquimista de Cuicapalli
 
@@ -25,6 +25,12 @@ Fuentes: [16-017 · Taberna tranquila, encargo fucsia y campeón del sol](../cap
 Más adelante Parroter intenta tratar a Eromov, enfermo y cubierto de manchas verdes. Luna interviene imitando sus gestos, pero eso no demuestra que lo ayude. Tras la expedición a la Hoja Caída, el líder le encarga estudiar las muestras de veneno y los restos recuperados. La última escena de esa investigación lo deja todavía trabajando: no hay una cura confirmada para Eromov.
 
 Fuentes: [30-003 · Luna es admitida como chamán e interfiere en el trabajo de Parroter](../capitulos/30.md) · 00:12:00.000 · [30-004 · Marcas verdes y veneno similar al de las serpientes](../capitulos/30.md) · 00:19:00.000 · [30-020 · Eromov envía a Parroter a investigar una cura](../capitulos/30.md) · 02:04:00.000 · [30-022 · Descanso y reflexión de Luna sobre el exceso de fuego](../capitulos/30.md) · 02:12:00.000.
+
+### Un antídoto que empieza a funcionar
+
+Parroter sigue atendiendo a Eromov y manda llamar a Leona. Dice haber avanzado con los materiales recibidos, sin identificar por separado todas sus procedencias. Pide espinas del interior de la boca de un devorafango, extraídas mientras viva, y describe su hábitat húmedo y el peligro de sus secreciones corrosivas. Leona y Guayacán regresan con dos espinas obtenidas en vida. El alquimista los reprende por haber matado al animal, algo que no era necesario para el encargo, pero acepta el ingrediente. Tritura una púa y prepara el remedio. Tras administrarlo ve menguar las venas negras de Eromov, pide avisar a Leona y anuncia que hará más para continuar el tratamiento.
+
+Fuentes: [44-007 · Un guardia lleva a Leona y Guayacán ante Parroter](../capitulos/44.md) · 00:12:48.240 · [44-008 · Eromov sigue postrado y Parroter lo refresca](../capitulos/44.md) · 00:15:35.240 · [44-009 · Parroter ha avanzado pero necesita otro ingrediente](../capitulos/44.md) · 00:16:18.160 · [44-010 · Parroter describe al devorafango y dónde buscarlo](../capitulos/44.md) · 00:17:01.759 · [44-011 · Las espinas deben extraerse mientras el devorafango vive](../capitulos/44.md) · 00:19:04.039 · [44-048 · Parroter recibe dos espinas y empieza a preparar el remedio](../capitulos/44.md) · 01:36:45.280 · [44-056 · El remedio de Parroter reduce las venas negras de Eromov](../capitulos/44.md) · 01:53:33.719.
 
 ## Registros y evidencias
 
@@ -91,4 +97,60 @@ Tipo: `hecho_confirmado`.
 Tacha sirve comida. Guayacán pide fruta y sigue admirando a Leona, de la que quiere aprender mientras la protege. Luna reflexiona sobre sus nuevas bolas de fuego: destruyen demasiado y necesita elegir mejor dónde apuntar. El director cierra la sesión con la investigación de Parroter todavía en marcha, sin una cura para Eromov y con la amenaza sin resolver.
 
 Las expresiones sobre salvar al jefe reflejan esperanza o una valoración de la expedición; no representan una curación realizada.
+
+## [44-007 · Un guardia lleva a Leona y Guayacán ante Parroter](../capitulos/44.md) · 00:12:48.240
+
+Tipo: `hecho_confirmado`.
+
+Un guardia busca a Leona porque Parroter la reclama con urgencia. Guayacán sigue a su maestra hasta la choza de Eromov. Ayoto y Tlachka se quedan comiendo con Tacha; Ayoto ofrece comida a otro guardia, que la acepta sin abandonar expresamente su puesto.
+
+Los guardias permanecen sin nombre y no se fusionan por compartir función. La demora en la comida no se convierte en un daño concreto a Eromov.
+
+## [44-008 · Eromov sigue postrado y Parroter lo refresca](../capitulos/44.md) · 00:15:35.240
+
+Tipo: `hecho_confirmado`.
+
+Al entrar, Leona comprueba el estado de Eromov. Está tendido en la cama bajo mantas de hojas, tiembla y tose. Parroter cambia las hojas mojadas de su frente para refrescarlo. El dirigente apenas consigue levantar la trompa para saludar y Leona le pide que no se esfuerce.
+
+La escena confirma que Eromov sigue vivo y enfermo en ese momento. No acredita todavía un antídoto administrado, una recuperación ni un fallecimiento posterior.
+
+## [44-009 · Parroter ha avanzado pero necesita otro ingrediente](../capitulos/44.md) · 00:16:18.160
+
+Tipo: `declaracion_personaje`.
+
+Leona dice que no encuentra el rastro de las serpientes. Parroter le indica que ahora necesita otra cosa: con lo que ella trajo ha podido avanzar, pero le falta un ingrediente peligroso. Leona se ofrece a ir por él de inmediato.
+
+Parroter no identifica aquí cada material recibido. No se equiparan por esta frase las muestras de la Hoja Caída, del claro del dragón y de los viales verdes de Iktan, ni se da por terminado el remedio.
+
+## [44-010 · Parroter describe al devorafango y dónde buscarlo](../capitulos/44.md) · 00:17:01.759
+
+Tipo: `declaracion_personaje`.
+
+Parroter nombra al devorafango. Leona y Guayacán no logran identificarlo mediante las tiradas de historia. El alquimista lo describe como una criatura peligrosa que escupe sustancias capaces de quemar la piel y que vive en cuevas junto a ríos, lagos y zonas con agua. Leona decide buscar en lugares húmedos.
+
+El nombre se conserva como lectura provisional de Débora Fango/Borafango y variantes. La descripción aún es información de Parroter, no observación del grupo. El intercambio sobre la procedencia de Guayacán no fija una ciudad natal o su especie.
+
+## [44-011 · Las espinas deben extraerse mientras el devorafango vive](../capitulos/44.md) · 00:19:04.039
+
+Tipo: `declaracion_personaje`.
+
+Parroter precisa que necesita las espinas del interior de la boca del devorafango y que deben arrancarlas mientras siga vivo: si lo matan antes no servirán. Pueden matarlo después si quieren. Advierte que Eromov quizá no aguante mucho más y Leona se compromete a volver deprisa, con ayuda de los dos compañeros que siguen comiendo.
+
+El encargo requiere espinas en plural; los viajeros lo simplifican después a una espina, sin fijar aquí una cantidad exacta suficiente. Entrar en la boca es la propuesta de Leona, no el único método expresamente impuesto por Parroter. No se han obtenido o utilizado todavía.
+
+## [44-048 · Parroter recibe dos espinas y empieza a preparar el remedio](../capitulos/44.md) · 01:36:45.280
+
+Tipo: `hecho_confirmado`.
+
+Leona y Guayacán vuelven a Parroter. Leona anuncia que tiene dos espinas y explica que las arrancaron con la criatura viva. El alquimista los reprende porque había dicho que no era necesario matarla; Leona niega haber dado ella el golpe final. Parroter toma una púa, la rompe y tritura en su mesa de alquimia y comienza una poción que tardará un poco. También advierte que comer esa criatura les sentará mal.
+
+La reprimenda no invalida que el ingrediente se extrajera en vida. El aviso alimentario es de Parroter y no equivale a una intoxicación ya sufrida por los compañeros.
+
+## [44-056 · El remedio de Parroter reduce las venas negras de Eromov](../capitulos/44.md) · 01:53:33.719
+
+Tipo: `hecho_confirmado`.
+
+El cierre entra en la casa de Eromov, que reposa cubierto con hojas, con la piel grisácea y venas negras por el cuerpo. Parroter termina la preparación aún pastosa y se la administra mientras observan los guardias. Las venas empiezan a menguar; el alquimista sonríe, pide que avisen a Leona y anuncia que hará más porque Eromov se pondrá mejor. El director cierra diciendo que parece que mejorará bastante.
+
+Se representa una mejoría visible tras administrar el remedio, sin vuelta a sus funciones o curación completa. La continuación del tratamiento es la intención de Parroter; no se narra una segunda dosis ya administrada.
 

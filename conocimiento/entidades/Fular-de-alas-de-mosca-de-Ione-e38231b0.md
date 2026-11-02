@@ -12,7 +12,7 @@ Base para revisar equivalencia: [42-001](../capitulos/42.md), [42-009](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 43.
+Relato revisado hasta el capítulo 44.
 
 ### Un agradecimiento de Poncelot
 

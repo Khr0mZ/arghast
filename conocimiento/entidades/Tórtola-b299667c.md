@@ -12,7 +12,7 @@ Base para revisar equivalencia: [35-010](../capitulos/35.md), [42-019](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 43.
+Relato revisado hasta el capítulo 44.
 
 ### El mando que endurece Aurora
 

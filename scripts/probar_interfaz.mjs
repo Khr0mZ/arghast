@@ -155,13 +155,34 @@ try {
   await route('#registro/43-062');
   await check('El altar final abre el vídeo y contexto del 43','document.querySelector(".quote").textContent.length>0&&document.querySelector(".evidence a").href.includes("tSdmoZCWEZQ")&&document.querySelectorAll(".context-details .transcript-row").length>0');
   await route('#entidad/Altar de los símbolos de Citlali');
-  await check('El altar tiene ficha de vestigio y relato con fuentes','document.querySelectorAll(".story-stage").length===1&&document.querySelectorAll(".story-sources a").length>0&&(()=>{const e=JSON.parse(document.getElementById("xoltacan-data").textContent).entities.find(e=>e.name==="Altar de los símbolos de Citlali");return e.type==="objeto"&&e.history.revisado_hasta===43})()');
+  await check('El altar tiene ficha de vestigio y relato con fuentes',`document.querySelectorAll(".story-stage").length===1&&document.querySelectorAll(".story-sources a").length>0&&(()=>{const e=JSON.parse(document.getElementById("xoltacan-data").textContent).entities.find(e=>e.name==="Altar de los símbolos de Citlali");return e.type==="objeto"&&e.history.revisado_hasta===${Math.max(...expectedChapters.map(c=>c.capitulo))}})()`);
   await route('#entidad/Amaru');
   await check('Amaru conduce a Nox y conserva el reconocimiento materno','document.getElementById("page-title").textContent==="Nox"&&document.getElementById("content").innerText.includes("Citlali")');
   await route('#pregunta/P39-002');
   await check('La identidad materna avanza sin inventar los años del cofre','document.querySelector(".question-card").dataset.status==="parcial"&&document.getElementById("content").innerText.includes("Amaru")&&document.getElementById("content").innerText.includes("crianza")');
   await check('La activación de Bonnie se cita una sola vez entre ambos frentes','(()=>{const d=JSON.parse(document.getElementById("xoltacan-data").textContent);const stages=d.entities.find(e=>e.name==="Bonnie").history.etapas.filter(s=>s.referencias.some(r=>r.startsWith("43-")));return stages.length===1&&stages[0].referencias.includes("42-012")})()');
   await check('El aviso posterior no crea una escena de rol vacía','(()=>{const r=JSON.parse(document.getElementById("xoltacan-data").textContent).writtenRole;const s=r.scenes.find(s=>s.id==="x-1525042844560003125");return r.scenes.length===304&&r.stats.mensajes_en_escenas===6241&&s.mensajes===3&&s.intervalo.anterior===42&&s.intervalo.siguiente===43})()');
+  const chapter44=expectedChapters.find(c=>c.capitulo===44);
+  await route('#capitulo/44');
+  await check('El capítulo 44 abre su relato y enlaza el vídeo nuevo','document.querySelector("[data-tab=relato]").classList.contains("active")&&document.querySelectorAll(".story-stage").length>=4&&document.getElementById("content").innerText.includes("Eromov")&&[...document.querySelectorAll("#content a")].some(a=>a.href.includes("KAfKPeZImT4"))');
+  await check('El 44 distingue el directo de julio y la publicación de noviembre','document.querySelector(".chapter-dates").innerText.includes("15/07/2026")&&document.querySelector(".chapter-dates").innerText.includes("01/11/2026")');
+  await screenshot('capitulo-44-escritorio');
+  await evaluate('document.querySelector("[data-tab=hechos]").click()');
+  await check('Todas las evidencias del capítulo 44 se pueden consultar',`document.querySelectorAll(".event").length===${chapter44.afirmaciones.length}`);
+  await evaluate('document.querySelector("[data-tab=preguntas]").click()');
+  await check('Las nuevas preguntas del 44 tienen seguimiento',`document.querySelectorAll(".question-card").length===${chapter44.preguntas.length}&&[...document.querySelectorAll(".question-card")].every(c=>c.dataset.status==="pendiente")`);
+  await route('#registro/'+chapter44.afirmaciones.at(-1).id);
+  await check('El desenlace del 44 abre su fuente y el contexto original','document.querySelector(".quote").textContent.length>0&&document.querySelector(".evidence a").href.includes("KAfKPeZImT4")&&document.querySelectorAll(".context-details .transcript-row").length>0');
+  await route('#pregunta/P30-001');
+  await check('El antídoto avanza sin cerrar la recuperación completa','document.querySelector(".question-card").dataset.status==="parcial"&&document.getElementById("content").innerText.includes("Parroter")&&document.getElementById("content").innerText.includes("recuperación")');
+  await check('La masa de moho y el devorafango conservan fichas distintas','(()=>{const e=JSON.parse(document.getElementById("xoltacan-data").textContent).entities;return e.some(x=>x.name==="Masa de moho de la cueva")&&e.some(x=>x.name==="Devorafango")})()');
+  await check('Las misiones del 44 no se repiten en un apéndice',`(()=>{const t=JSON.parse(document.getElementById("xoltacan-data").textContent).documents.misiones.text;return (t.match(/- Cap[.] 44:/g)||[]).length===${chapter44.misiones.length}&&!t.includes("## Actualización del capítulo 44")})()`);
+  await route('#pregunta/P40-006');
+  await check('La ayuda de Iktan distingue los materiales entregados de los expertos esperados','document.querySelector(".question-card").dataset.status==="parcial"&&document.querySelector(".question-card").innerText.includes("viales y recetas")&&document.querySelectorAll(".role-question-sources a").length===2');
+  await evaluate('document.querySelector(".role-question-sources a").click()');
+  for(let i=0;i<40;i++){if(await evaluate('!!document.getElementById("mensaje-1525820723434618981")'))break;await sleep(150);}
+  await check('La evidencia escrita abre la escena y el mensaje exactos','location.hash==="#rol/x-1525362897662906398/1525820723434618981"&&document.querySelectorAll(".role-message").length===36&&document.getElementById("mensaje-1525820723434618981").innerText.includes("viales y las recetas")');
+  await check('El mensaje conserva su fuente original de Discord','document.querySelector("#mensaje-1525820723434618981 header a").href==="https://discord.com/channels/946724148628041748/1482149664131383316/1525820723434618981"');
   await route('#registro/41-023');
   await check('La muerte de la infiltrada enlaza la nueva fuente y su contexto','document.querySelector(".quote").textContent.length>0&&document.querySelector(".evidence a").href.includes("vB6Y1LQ2IaM")&&document.querySelectorAll(".context-details .transcript-row").length>0');
   await route('#entidad/Tentacol');
@@ -245,7 +266,7 @@ try {
   await route('#capitulos');await screenshot('capitulos-escritorio');
   for(const width of [320,768]){
     await call('Emulation.setDeviceMetricsOverride',{width,height:900,deviceScaleFactor:1,mobile:width<560});
-    for(const section of ['personajes','capitulo/39','capitulo/40','capitulo/41','capitulo/42','capitulo/43','misterios','entidad/Ione','entidad/Tortas','entidad/Tentacol','entidad/Shiaru','entidad/Marina','entidad/Zampaolas']){
+    for(const section of ['personajes','capitulo/39','capitulo/40','capitulo/41','capitulo/42','capitulo/43','capitulo/44','misterios','entidad/Ione','entidad/Tortas','entidad/Tentacol','entidad/Shiaru','entidad/Marina','entidad/Zampaolas']){
       await route('#'+section);
       await check('Códice sin desbordamiento a '+width+' px en '+section,'document.documentElement.scrollWidth<=window.innerWidth');
     }
@@ -267,6 +288,7 @@ try {
   await route('#capitulo/41');await screenshot('capitulo-41-movil');
   await route('#capitulo/42');await screenshot('capitulo-42-movil');
   await route('#capitulo/43');await screenshot('capitulo-43-movil');
+  await route('#capitulo/44');await screenshot('capitulo-44-movil');
   await route('#personajes');await screenshot('personajes-movil');
   await route('#entidad/Ione');await screenshot('historia-personaje-movil');
   await route('#entidad/Zampaolas');await screenshot('relato-objeto-movil');

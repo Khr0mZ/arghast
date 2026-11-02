@@ -12,7 +12,7 @@ Base para revisar equivalencia: [08-021](../capitulos/08.md), [08-024](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 43.
+Relato revisado hasta el capítulo 44.
 
 ### El manuscrito que sale del templo
 

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [14-001](../capitulos/14.md), [31-007](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 43.
+Relato revisado hasta el capítulo 44.
 
 ### Dos hermanos acostumbrados a sobrevivir juntos
 

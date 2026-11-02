@@ -8,11 +8,11 @@ El director identifica su rescate del campamento de la Marina; no es uno de los 
 
 Etiquetas agrupadas: Baton (grafía provisional); Baton (nativo rescatado, grafía provisional).
 
-Base para revisar equivalencia: [14-003](../capitulos/14.md), [16-005](../capitulos/16.md), [16-007](../capitulos/16.md).
+Base para revisar equivalencia: [14-003](../capitulos/14.md), [16-005](../capitulos/16.md), [16-007](../capitulos/16.md), [44-051](../capitulos/44.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 43.
+Relato revisado hasta el capítulo 44.
 
 ### Del cautiverio al camino de casa
 
@@ -25,6 +25,12 @@ Fuentes: [16-005 · Baton y Nelli guían a Cuicapalli](../capitulos/16.md) · 00
 Después orienta a los aventureros hacia un templo ocupado por yuan-ti. También participa con Nelli en la preparación del festival de Cuicapalli, con juegos, comida y premios. Sus apariciones posteriores muestran su regreso a la vida de la comunidad, que los ataques de los hombres serpiente vuelven a poner en peligro.
 
 Fuentes: [18-008 · Chocolate y ruta de Baton](../capitulos/18.md) · 00:42:00.000 · [22-002 · Festival y Guayacán presentado](../capitulos/22.md) · 00:16:00.000 · [22-006 · Ayoto gana el banquete y un caparazón](../capitulos/22.md) · 00:53:00.000 · [22-008 · Guayacán gana una carrera con sabotajes](../capitulos/22.md) · 01:07:00.000.
+
+### La tienda que no le confían
+
+Ayoto propone que Baton vigile la tienda para que el herrero pueda salir a examinar la criatura. El artesano se niega, lo llama ladrón y Baton responde que no ha robado a nadie. No se prueba el supuesto robo ni se le entrega la vigilancia del establecimiento.
+
+Fuentes: [44-051 · El herrero exige que Ayoto lleve el material a la tienda](../capitulos/44.md) · 01:41:12.400.
 
 ## Registros y evidencias
 
@@ -115,4 +121,12 @@ Tipo: `hecho_confirmado`.
 Guayacán toma la delantera en la carrera. Pinky hace crecer fresas para distraerlo, pero él resiste. Axi miente sobre una presa jugosa para distraer a Ayoto. Este golpea a Axi con Sentinel y lo retrasa. Guayacán utiliza ki, gana y recibe una obsidiana. Baton y Nelli quedan agotados. Guayacán presume y Ayoto discute sobre la fuerza.
 
 
+
+## [44-051 · El herrero exige que Ayoto lleve el material a la tienda](../capitulos/44.md) · 01:41:12.400
+
+Tipo: `hecho_confirmado`.
+
+Ayoto llega herido a la tienda del norte y ofrece pagar e invitar a comer al artesano si lo ayuda a trabajar la criatura. El hombre no quiere dejar la tienda sola y pide que le traigan el cadáver. Ayoto propone que Baton vigile, pero el artesano lo rechaza llamándolo ladrón. Baton niega haber robado a nadie; Ayoto insiste en la invitación y regresa sin lograr que el herrero abandone su puesto.
+
+La acusación contra Baton pertenece al herrero y queda contestada, sin prueba independiente de un robo. El oficio de herrero se confirma al describir la salida de Ayoto; no se le asigna el nombre Armin ni se confunde con el artesano de Shiaru.
 

@@ -14,6 +14,7 @@ Las notas siguientes describen principalmente el estado tras los capítulos 1–
 - [Continuidad del capítulo 41](continuidad_41.md).
 - [Continuidad del capítulo 42](continuidad_42.md).
 - [Continuidad del capítulo 43](continuidad_43.md).
+- [Continuidad del capítulo 44](continuidad_44.md).
 - [Estado de los misterios al cierre](MISTERIOS.md).
 
 Un asunto pendiente en una nota antigua puede quedar resuelto más adelante. Los capítulos y registros citados indican cuándo se documenta cada dato. En una campaña West Marches, el orden de publicación no equivale a un calendario interno compartido por todos los grupos.

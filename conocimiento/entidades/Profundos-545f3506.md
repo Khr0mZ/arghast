@@ -12,7 +12,7 @@ Base para revisar equivalencia: [29-021](../capitulos/29.md), [29-022](../capitu
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 43.
+Relato revisado hasta el capítulo 44.
 
 ### La amenaza que describe Maris
 

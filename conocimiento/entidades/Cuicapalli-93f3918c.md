@@ -8,11 +8,11 @@ Misma grafía normalizada contextual de Cuikapali; no certeza adicional sobre or
 
 Etiquetas agrupadas: Cuicapalli; Cuicapalli (identificación contextual provisional).
 
-Base para revisar equivalencia: [01-004](../capitulos/01.md), [16-014](../capitulos/16.md), [16-015](../capitulos/16.md).
+Base para revisar equivalencia: [01-004](../capitulos/01.md), [16-014](../capitulos/16.md), [16-015](../capitulos/16.md), [44-001](../capitulos/44.md), [44-003](../capitulos/44.md), [44-004](../capitulos/44.md), [44-007](../capitulos/44.md), [44-008](../capitulos/44.md), [44-011](../capitulos/44.md), [44-012](../capitulos/44.md), [44-013](../capitulos/44.md), [44-047](../capitulos/44.md), [44-048](../capitulos/44.md), [44-049](../capitulos/44.md), [44-050](../capitulos/44.md), [44-055](../capitulos/44.md), [44-056](../capitulos/44.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 43.
+Relato revisado hasta el capítulo 44.
 
 ### Una comunidad que recibe a los extranjeros
 
@@ -37,6 +37,12 @@ Fuentes: [30-005 · Envenenamiento por ingestión tras una reunión](../capitulo
 Con Eromov todavía envenenado según Leona, Guayacán queda cuidándolo y ella actúa como representante ante Walulu para advertir del posible ataque al festival de Iktan. La chamana promete enviar hombres, recetas y protecciones. Leona se presenta después como futura líder de Cuicapalli, pero admite que no es oficial. El regreso de la enviada, la ayuda y la cura no se muestran.
 
 Fuentes: [40-002 · La enfermedad de Triel y el encargo de Leona](../capitulos/40.md) · 00:01:42.600 · [40-006 · Walulu recibe la advertencia y promete ayuda a Cuicapalli](../capitulos/40.md) · 00:23:18.240 · [40-036 · Brazos astrales de Tortas y deseo de aprender de Triel](../capitulos/40.md) · 02:25:53.120 · [40-038 · Leona recibe trato de futura líder y los hermanos buscan aliados](../capitulos/40.md) · 02:33:15.520.
+
+### Una expedición y el regreso del ingrediente
+
+Leona y Guayacán mantienen las rondas de vigilancia mientras Eromov sigue enfermo. Tlachka y Ayoto se reúnen con ellos junto a la cocina de Tacha. La llamada urgente de Parroter lleva a los cuatro a buscar espinas en una cueva junto a un lago cercano. Vuelven con el ingrediente y con el cadáver del devorafango. Mientras Tlachka cocina y Ayoto busca ayuda para trabajar el caparazón, el alquimista administra el remedio a Eromov ante sus guardias. Sus venas negras empiezan a menguar. La cura local no demuestra que hayan llegado los expertos esperados de Iktan ni identifica todas las muestras utilizadas.
+
+Fuentes: [44-001 · Leona busca rastros tras su misión de aviso](../capitulos/44.md) · 00:00:47.039 · [44-003 · Guayacán cuida la ciudad en ausencia de Leona](../capitulos/44.md) · 00:02:34.160 · [44-004 · Leona y Guayacán vuelven de las rondas y comen junto a Tlachka](../capitulos/44.md) · 00:03:29.480 · [44-007 · Un guardia lleva a Leona y Guayacán ante Parroter](../capitulos/44.md) · 00:12:48.240 · [44-008 · Eromov sigue postrado y Parroter lo refresca](../capitulos/44.md) · 00:15:35.240 · [44-011 · Las espinas deben extraerse mientras el devorafango vive](../capitulos/44.md) · 00:19:04.039 · [44-012 · Leona recluta a Ayoto y Tlachka para buscar las espinas](../capitulos/44.md) · 00:20:54.760 · [44-013 · Leona recuerda una cueva de su infancia junto a un lago](../capitulos/44.md) · 00:25:46.960 · [44-047 · Ayoto y Tlachka arrastran el cadáver hacia Cuicapalli](../capitulos/44.md) · 01:31:52.080 · [44-048 · Parroter recibe dos espinas y empieza a preparar el remedio](../capitulos/44.md) · 01:36:45.280 · [44-049 · Ayoto pide un artesano del norte y paga a Tacha](../capitulos/44.md) · 01:38:38.760 · [44-050 · Tlachka limpia y cocina la carne con chile](../capitulos/44.md) · 01:40:34.320 · [44-055 · Ayoto reúne el exoesqueleto para encargar un escudo](../capitulos/44.md) · 01:50:19.480 · [44-056 · El remedio de Parroter reduce las venas negras de Eromov](../capitulos/44.md) · 01:53:33.719.
 
 ## Registros y evidencias
 
@@ -471,4 +477,100 @@ Tipo: `declaracion_personaje`.
 El guardia conduce a Winscore y la sospechosa al templo de piedra. Walulu escucha que puede haber un ataque y confirma que Leona llegó desde Cuicapalli para advertirlos; por eso aumentaron las precauciones. Winscore mantiene la acusación de disfraz mágico y el guardia refiere el olor. Walulu examina a la mujer y empieza a actuar con magia.
 
 Testimonio de medidas preventivas aplicadas, sin enumerar su alcance. No hay información nueva de la ayuda prometida a Eromov.
+
+## [44-001 · Leona busca rastros tras su misión de aviso](../capitulos/44.md) · 00:00:47.039
+
+Tipo: `declaracion_personaje`.
+
+Leona recuerda que salió por órdenes para avisar sobre las serpientes y pedir que acudieran personas capaces de ayudar. Se ha reunido de nuevo con Guayacán y, mientras espera los resultados de esa ayuda, ha buscado pistas de las serpientes cerca del poblado.
+
+El contexto enlaza el aviso previo a Iktan, sin detallar en este repaso una llegada efectiva de recetas, protecciones o refuerzos. La presentación de Leona como posible futura líder no equivale a una investidura.
+
+## [44-003 · Guayacán cuida la ciudad en ausencia de Leona](../capitulos/44.md) · 00:02:34.160
+
+Tipo: `declaracion_personaje`.
+
+Guayacán explica que, por petición de Leona y decisión propia, ha cuidado Cuicapalli mientras ella estaba fuera. Ha estudiado la vigilancia, los puntos por donde entran bestias, la distribución del lugar y el ánimo de los habitantes.
+
+La responsabilidad de vigilancia no implica que haya sido nombrado dirigente ni que los peligros de la ciudad hayan desaparecido.
+
+## [44-004 · Leona y Guayacán vuelven de las rondas y comen junto a Tlachka](../capitulos/44.md) · 00:03:29.480
+
+Tipo: `hecho_confirmado`.
+
+Leona y Guayacán regresan a Cuicapalli cubiertos de hojas y con marcas de sus rondas por los alrededores. Esperan que Eromov mejore y que lleguen refuerzos. Se acercan a Tacha y piden comida. Tlachka se ha hecho un hueco junto a la cocina para tostar mazorcas como acompañamiento.
+
+La expectativa de refuerzos no representa su llegada. El establecimiento se vincula contextualmente a la taberna de Tacha ya catalogada; no se pronuncia un nombre nuevo para el local.
+
+## [44-006 · Ayoto se reúne con sus compañeros y cuenta sus viajes](../capitulos/44.md) · 00:09:26.200
+
+Tipo: `declaracion_personaje`.
+
+Ayoto llega a la comida, saluda a Tlachka, Leona y Guayacán y cuenta que ha vuelto de Iktan a Cuicapalli para informarse de lo ocurrido. Recuerda su estancia bajo el mar, su desorientación en el bosque, las amenazas en una ciudad oculta y la ayuda de un perro extraño. Afirma haber ayudado en el agua y querer hacerlo también en tierra.
+
+El repaso es su testimonio. La mención del perro no contiene un nombre y no crea una identidad nueva; tampoco demuestra una misión submarina distinta o resultados no representados aquí.
+
+## [44-007 · Un guardia lleva a Leona y Guayacán ante Parroter](../capitulos/44.md) · 00:12:48.240
+
+Tipo: `hecho_confirmado`.
+
+Un guardia busca a Leona porque Parroter la reclama con urgencia. Guayacán sigue a su maestra hasta la choza de Eromov. Ayoto y Tlachka se quedan comiendo con Tacha; Ayoto ofrece comida a otro guardia, que la acepta sin abandonar expresamente su puesto.
+
+Los guardias permanecen sin nombre y no se fusionan por compartir función. La demora en la comida no se convierte en un daño concreto a Eromov.
+
+## [44-008 · Eromov sigue postrado y Parroter lo refresca](../capitulos/44.md) · 00:15:35.240
+
+Tipo: `hecho_confirmado`.
+
+Al entrar, Leona comprueba el estado de Eromov. Está tendido en la cama bajo mantas de hojas, tiembla y tose. Parroter cambia las hojas mojadas de su frente para refrescarlo. El dirigente apenas consigue levantar la trompa para saludar y Leona le pide que no se esfuerce.
+
+La escena confirma que Eromov sigue vivo y enfermo en ese momento. No acredita todavía un antídoto administrado, una recuperación ni un fallecimiento posterior.
+
+## [44-013 · Leona recuerda una cueva de su infancia junto a un lago](../capitulos/44.md) · 00:25:46.960
+
+Tipo: `hecho_confirmado`.
+
+Los cuatro salen de Cuicapalli y se internan en la jungla. Leona busca agua estancada y lugares húmedos mientras Ayoto rastrea sin conocer bien al animal. Tras la búsqueda, la harengon recuerda un lago cercano y una gran cueva donde jugaba con otros niños. Considera que su barro y humedad encajan con la descripción y conduce allí a sus compañeros.
+
+La cueva carece de topónimo en el pasaje. El recuerdo de Leona no la identifica con la Hoja Caída o con la cueva derrumbada del capítulo 39, ni confirma todavía la presencia del devorafango.
+
+## [44-047 · Ayoto y Tlachka arrastran el cadáver hacia Cuicapalli](../capitulos/44.md) · 01:31:52.080
+
+Tipo: `hecho_confirmado`.
+
+Ayoto y Tlachka deciden llevarse la criatura para obtener raciones y aprovechar su caparazón. La arrastran con dificultad; sus espinas se les clavan. Tlachka rompe parte de las púas de la cola con su arma para crear un lugar por donde agarrarla y continúan hasta Cuicapalli con el enorme cadáver.
+
+La decisión de comerla y las propuestas de aprovechar piel o partes no prueban todavía una comida cocinada, una venta ni la fabricación de equipo. La grafía del arma fluctúa y no se crea un arma nueva por cada variante.
+
+## [44-049 · Ayoto pide un artesano del norte y paga a Tacha](../capitulos/44.md) · 01:38:38.760
+
+Tipo: `hecho_confirmado`.
+
+Junto al cadáver se discute cómo separar el caparazón para fabricar otro escudo. Ayoto pregunta dónde encontrar a quien trabaja pieles y le indican una tienda al norte. Antes de ir, entrega dos monedas de oro a Tacha porque suele darles de comer y cree que no le han pagado.
+
+El pago a Tacha se distingue de la promesa de pagar al herrero. No se fija un precio de fabricación del nuevo escudo.
+
+## [44-050 · Tlachka limpia y cocina la carne con chile](../capitulos/44.md) · 01:40:34.320
+
+Tipo: `hecho_confirmado`.
+
+Mientras Ayoto busca al artesano, Tlachka abre el cadáver, extrae carne y la limpia junto al agua. Después la prepara con chile machacado al fuego. Tacha, que primero la había olido con desagrado, se queda observando la receta por curiosidad y se acerca cuando empieza a oler bien. Tlachka prueba la carne una vez hecha.
+
+Las comparaciones con gamba describen textura y caparazón, sin fijar una especie de bestiario. No se registra una intoxicación ni se demuestra que el calor elimine todos los riesgos mencionados por Parroter.
+
+## [44-051 · El herrero exige que Ayoto lleve el material a la tienda](../capitulos/44.md) · 01:41:12.400
+
+Tipo: `hecho_confirmado`.
+
+Ayoto llega herido a la tienda del norte y ofrece pagar e invitar a comer al artesano si lo ayuda a trabajar la criatura. El hombre no quiere dejar la tienda sola y pide que le traigan el cadáver. Ayoto propone que Baton vigile, pero el artesano lo rechaza llamándolo ladrón. Baton niega haber robado a nadie; Ayoto insiste en la invitación y regresa sin lograr que el herrero abandone su puesto.
+
+La acusación contra Baton pertenece al herrero y queda contestada, sin prueba independiente de un robo. El oficio de herrero se confirma al describir la salida de Ayoto; no se le asigna el nombre Armin ni se confunde con el artesano de Shiaru.
+
+## [44-056 · El remedio de Parroter reduce las venas negras de Eromov](../capitulos/44.md) · 01:53:33.719
+
+Tipo: `hecho_confirmado`.
+
+El cierre entra en la casa de Eromov, que reposa cubierto con hojas, con la piel grisácea y venas negras por el cuerpo. Parroter termina la preparación aún pastosa y se la administra mientras observan los guardias. Las venas empiezan a menguar; el alquimista sonríe, pide que avisen a Leona y anuncia que hará más porque Eromov se pondrá mejor. El director cierra diciendo que parece que mejorará bastante.
+
+Se representa una mejoría visible tras administrar el remedio, sin vuelta a sus funciones o curación completa. La continuación del tratamiento es la intención de Parroter; no se narra una segunda dosis ya administrada.
 

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revisado_hasta": 43,
+  "revisado_hasta": 44,
   "preguntas": [
     {
       "id": "P40-001",
@@ -18,7 +18,7 @@
         "41-051"
       ],
       "pendiente": "El origen de la animación de los restos y la función causal del veneno.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P40-002",
@@ -33,7 +33,7 @@
         "40-024"
       ],
       "pendiente": "La extensión restante del daño y la recuperación de la vegetación.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P40-003",
@@ -50,7 +50,7 @@
         "41-055"
       ],
       "pendiente": "La grafía, la ubicación de la guarida y la relación de identidad con Clodidrax.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P40-004",
@@ -65,7 +65,7 @@
         "42-004"
       ],
       "pendiente": "La información que Eldrat necesita y la aceptación y ejecución de la caza e interrogatorio.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P40-005",
@@ -83,7 +83,7 @@
         "41-054"
       ],
       "pendiente": "La edad de Tortas y la historia de su inmovilidad.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     },
     {
       "id": "P40-006",
@@ -91,7 +91,7 @@
       "indice": 6,
       "pregunta": "¿Llegará la ayuda prometida a Eromov y se producirá el ataque al festival? No se muestran el envío, una cura ni el ataque anunciado (40-002, 40-006, 40-036).",
       "estado": "parcial",
-      "respuesta": "Walulu confirma que aumentó las precauciones tras el aviso de Leona. La amenaza se concreta en una infiltrada y adversarios localizados al norte, con un combate que termina en victoria local. No se muestra la llegada de hombres, recetas o protecciones a Cuicapalli ni una cura de Eromov; tampoco la eliminación de toda la red.",
+      "respuesta": "Walulu había confirmado precauciones tras el aviso de Leona y el grupo de Iktan venció a los adversarios localizados al norte. La escena escrita «Guayacán vigila y Leona vuelve con ayuda de Iktan» documenta que Leona entrega viales y recetas a Parroter, quien empieza a trabajar con ellos; los expertos quedan anunciados. En el capítulo 44 el alquimista prepara y administra el remedio con las espinas y Eromov mejora. Hay entrega de materiales y avance del tratamiento, sin llegada comprobada de los expertos, composición completa del remedio o recuperación definitiva.",
       "referencias": [
         "41-015",
         "41-016",
@@ -99,10 +99,25 @@
         "41-023",
         "41-028",
         "41-038",
-        "41-046"
+        "41-046",
+        "44-001",
+        "44-004",
+        "44-009",
+        "44-048",
+        "44-056"
       ],
-      "pendiente": "El envío y resultado de la ayuda a Eromov y el alcance restante de la operación contra Iktan.",
-      "revisado_hasta": 43
+      "pendiente": "La llegada de los expertos prometidos, la recuperación completa de Eromov y el alcance restante de la operación contra Iktan.",
+      "revisado_hasta": 44,
+      "fuentes_rol": [
+        {
+          "escena": "x-1525362897662906398",
+          "mensaje_id": "1525820723434618981"
+        },
+        {
+          "escena": "x-1525362897662906398",
+          "mensaje_id": "1525825232810541056"
+        }
+      ]
     },
     {
       "id": "P40-007",
@@ -120,7 +135,7 @@
         "42-050"
       ],
       "pendiente": "El origen, dueño e historia del fragmento de espada.",
-      "revisado_hasta": 43
+      "revisado_hasta": 44
     }
   ]
 }

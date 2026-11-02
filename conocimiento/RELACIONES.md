@@ -81,3 +81,11 @@ Lunaria lleva a Citlali y a Etley por la jungla, lucha junto a ellas y las prote
 Citlali reconoce en Nox al hijo que llama Amaru, llora su pérdida y trata de alcanzar el Zampaolas. Molly comprende su mirada y queda conmocionada. La historia del niño en el cofre y sus años hasta la vida adulta aún no se reconstruyen ([43-045, 43-051, 43-059 y 43-061](capitulos/43.md)).
 
 El ser serpentino incita a Citlali a matar y quitar juventud. La escena final enlaza sus símbolos con un altar, sin dar un nombre a la entidad o equipararla automáticamente con otras presencias de la campaña ([43-045–43-046, 43-050 y 43-062](capitulos/43.md)).
+
+## La búsqueda del antídoto de Eromov
+
+Leona, Guayacán, Ayoto y Tlachka se reúnen en Cuicapalli y cooperan en la búsqueda encargada por Parroter. Guayacán sigue llamando maestra a Leona y su angustia al verla dentro del moho afecta a sus acciones. Ayoto la saca de la masa ocupando su lugar; ante el devorafango, Guayacán lo inmoviliza y Tlachka abre sus mandíbulas para extraerla con las espinas ([44-001–44-013, 44-024, 44-029, 44-041–44-045](capitulos/44.md)).
+
+El recuerdo de Eromov encontrando a Leona de pequeña impulsa a la harengon a arrancar la primera espina. Es un vínculo personal representado, sin una filiación biológica, adopción formal o sucesión política confirmadas ([44-037](capitulos/44.md)).
+
+Parroter recibe el ingrediente obtenido en vida y administra el remedio, con una mejoría visible de Eromov. El herrero rechaza confiar su tienda a Baton y lo acusa de ladrón; Baton lo niega, sin que se pruebe el robo. Al terminar, Guayacán y Ayoto se apoyan para llevar el exoesqueleto hacia la tienda ([44-048, 44-051, 44-055–44-056](capitulos/44.md)).

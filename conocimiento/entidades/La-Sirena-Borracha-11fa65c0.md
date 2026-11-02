@@ -12,7 +12,7 @@ Base para revisar equivalencia: [01-024](../capitulos/01.md), [04-030](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 43.
+Relato revisado hasta el capítulo 44.
 
 ### El punto de encuentro de los recién llegados
 

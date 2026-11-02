@@ -8,11 +8,11 @@ Líder elefante de Cuicapalli, distintas variantes de reconocimiento no crean l�
 
 Etiquetas agrupadas: Eromov (líder de Cuicapalli, grafía provisional).
 
-Base para revisar equivalencia: [16-015](../capitulos/16.md), [30-003](../capitulos/30.md), [30-004](../capitulos/30.md).
+Base para revisar equivalencia: [16-015](../capitulos/16.md), [30-003](../capitulos/30.md), [30-004](../capitulos/30.md), [44-008](../capitulos/44.md), [44-009](../capitulos/44.md), [44-011](../capitulos/44.md), [44-012](../capitulos/44.md), [44-037](../capitulos/44.md), [44-056](../capitulos/44.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 43.
+Relato revisado hasta el capítulo 44.
 
 ### El dirigente que abre Cuicapalli a los viajeros
 
@@ -37,6 +37,12 @@ Fuentes: [40-002 · La enfermedad de Triel y el encargo de Leona](../capitulos/4
 Walulu identifica a la infiltrada como parte del grupo que lo envenenó y recuerda la información transmitida por Leona. Eso amplía la atribución de la dirigente, sin señalar al individuo que contaminó la comida. La sesión no muestra la llegada de la ayuda prometida, un antídoto administrado o la recuperación de Eromov.
 
 Fuentes: [41-015 · Walulu confirma las precauciones tras el aviso de Leona](../capitulos/41.md) · 00:42:00.000 · [41-019 · Walulu vincula la infiltración con el veneno de Eromov](../capitulos/41.md) · 00:48:00.000.
+
+### La primera mejoría tras el remedio
+
+Eromov sigue postrado en Cuicapalli, temblando y tosiendo bajo las hojas con que Parroter lo cuida. Apenas levanta la trompa para saludar a Leona. El alquimista teme que no aguante mucho más y solicita un ingrediente que obliga a una nueva expedición. Durante la extracción, Leona recuerda que Eromov la encontró de pequeña; la escena no reconstruye toda su infancia. Al cierre Parroter administra la preparación ante los guardias. Las venas negras visibles sobre la piel grisácea empiezan a menguar y el alquimista anuncia que hará más. Hay una mejoría representada, sin una recuperación completa ni un regreso del dirigente a sus funciones.
+
+Fuentes: [44-008 · Eromov sigue postrado y Parroter lo refresca](../capitulos/44.md) · 00:15:35.240 · [44-009 · Parroter ha avanzado pero necesita otro ingrediente](../capitulos/44.md) · 00:16:18.160 · [44-011 · Las espinas deben extraerse mientras el devorafango vive](../capitulos/44.md) · 00:19:04.039 · [44-012 · Leona recluta a Ayoto y Tlachka para buscar las espinas](../capitulos/44.md) · 00:20:54.760 · [44-037 · Leona arranca una espina recordando a Eromov](../capitulos/44.md) · 01:13:10.880 · [44-056 · El remedio de Parroter reduce las venas negras de Eromov](../capitulos/44.md) · 01:53:33.719.
 
 ## Registros y evidencias
 
@@ -271,4 +277,68 @@ Tipo: `declaracion_personaje`.
 Naór y Blink ven a la prisionera y preguntan qué sucede. Walulu afirma ante Naór que pertenece al grupo que envenenó a Eromov. Explica que aumentaron la vigilancia tras la información de Leona, pero parece que los enemigos se colaron, y propone buscar más. Una de las recién llegadas se marcha corriendo al oír hablar de serpientes. Los demás plantean buscar magia y averiguar el objetivo de la cautiva.
 
 La atribución al grupo es de Walulu, sin prueba de que esta mujer administrara el veneno. No queda nombrada la voz de quien sale: cotejar la continuación antes de atribuir a Naór o Blink.
+
+## [44-004 · Leona y Guayacán vuelven de las rondas y comen junto a Tlachka](../capitulos/44.md) · 00:03:29.480
+
+Tipo: `hecho_confirmado`.
+
+Leona y Guayacán regresan a Cuicapalli cubiertos de hojas y con marcas de sus rondas por los alrededores. Esperan que Eromov mejore y que lleguen refuerzos. Se acercan a Tacha y piden comida. Tlachka se ha hecho un hueco junto a la cocina para tostar mazorcas como acompañamiento.
+
+La expectativa de refuerzos no representa su llegada. El establecimiento se vincula contextualmente a la taberna de Tacha ya catalogada; no se pronuncia un nombre nuevo para el local.
+
+## [44-007 · Un guardia lleva a Leona y Guayacán ante Parroter](../capitulos/44.md) · 00:12:48.240
+
+Tipo: `hecho_confirmado`.
+
+Un guardia busca a Leona porque Parroter la reclama con urgencia. Guayacán sigue a su maestra hasta la choza de Eromov. Ayoto y Tlachka se quedan comiendo con Tacha; Ayoto ofrece comida a otro guardia, que la acepta sin abandonar expresamente su puesto.
+
+Los guardias permanecen sin nombre y no se fusionan por compartir función. La demora en la comida no se convierte en un daño concreto a Eromov.
+
+## [44-008 · Eromov sigue postrado y Parroter lo refresca](../capitulos/44.md) · 00:15:35.240
+
+Tipo: `hecho_confirmado`.
+
+Al entrar, Leona comprueba el estado de Eromov. Está tendido en la cama bajo mantas de hojas, tiembla y tose. Parroter cambia las hojas mojadas de su frente para refrescarlo. El dirigente apenas consigue levantar la trompa para saludar y Leona le pide que no se esfuerce.
+
+La escena confirma que Eromov sigue vivo y enfermo en ese momento. No acredita todavía un antídoto administrado, una recuperación ni un fallecimiento posterior.
+
+## [44-009 · Parroter ha avanzado pero necesita otro ingrediente](../capitulos/44.md) · 00:16:18.160
+
+Tipo: `declaracion_personaje`.
+
+Leona dice que no encuentra el rastro de las serpientes. Parroter le indica que ahora necesita otra cosa: con lo que ella trajo ha podido avanzar, pero le falta un ingrediente peligroso. Leona se ofrece a ir por él de inmediato.
+
+Parroter no identifica aquí cada material recibido. No se equiparan por esta frase las muestras de la Hoja Caída, del claro del dragón y de los viales verdes de Iktan, ni se da por terminado el remedio.
+
+## [44-011 · Las espinas deben extraerse mientras el devorafango vive](../capitulos/44.md) · 00:19:04.039
+
+Tipo: `declaracion_personaje`.
+
+Parroter precisa que necesita las espinas del interior de la boca del devorafango y que deben arrancarlas mientras siga vivo: si lo matan antes no servirán. Pueden matarlo después si quieren. Advierte que Eromov quizá no aguante mucho más y Leona se compromete a volver deprisa, con ayuda de los dos compañeros que siguen comiendo.
+
+El encargo requiere espinas en plural; los viajeros lo simplifican después a una espina, sin fijar aquí una cantidad exacta suficiente. Entrar en la boca es la propuesta de Leona, no el único método expresamente impuesto por Parroter. No se han obtenido o utilizado todavía.
+
+## [44-012 · Leona recluta a Ayoto y Tlachka para buscar las espinas](../capitulos/44.md) · 00:20:54.760
+
+Tipo: `hecho_confirmado`.
+
+Mientras Tacha continúa sirviendo comida, Leona y Guayacán vuelven a buscar a Ayoto y Tlachka. La harengon explica la urgencia de salvar a Eromov y solicita ayuda a ambos. Tras un equívoco sobre si el dirigente tiene una espina en la garganta, aclara que deben buscar una criatura de barro y sacar de su boca el ingrediente mientras viva. El grupo acepta salir con ella hacia cuevas, ríos o lagos.
+
+La espina en la garganta de Eromov es un malentendido corregido, no un diagnóstico. Las dificultades de conexión pertenecen a la mesa y no se convierten en sucesos de la ficción.
+
+## [44-037 · Leona arranca una espina recordando a Eromov](../capitulos/44.md) · 01:13:10.880
+
+Tipo: `hecho_confirmado`.
+
+Dentro de la boca, Leona clava el hacha para estabilizarse y se esfuerza por arrancar una protuberancia espinosa. Se engancha a una de las muelas descritas por el director. La pieza se resiste, pero el recuerdo de Eromov cuando la encontró de pequeña refuerza su rabia: finalmente consigue arrancar una de las espinas. Desde fuera se oye a la criatura gritar y agitarse.
+
+La extracción ocurre mientras el animal sigue vivo, conforme al encargo. El recuerdo atribuye a Eromov haberla encontrado de niña, sin fijar adopción legal, parentesco biológico o toda su crianza.
+
+## [44-056 · El remedio de Parroter reduce las venas negras de Eromov](../capitulos/44.md) · 01:53:33.719
+
+Tipo: `hecho_confirmado`.
+
+El cierre entra en la casa de Eromov, que reposa cubierto con hojas, con la piel grisácea y venas negras por el cuerpo. Parroter termina la preparación aún pastosa y se la administra mientras observan los guardias. Las venas empiezan a menguar; el alquimista sonríe, pide que avisen a Leona y anuncia que hará más porque Eromov se pondrá mejor. El director cierra diciendo que parece que mejorará bastante.
+
+Se representa una mejoría visible tras administrar el remedio, sin vuelta a sus funciones o curación completa. La continuación del tratamiento es la intención de Parroter; no se narra una segunda dosis ya administrada.
 

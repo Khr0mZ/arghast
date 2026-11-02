@@ -12,7 +12,7 @@ Base para revisar equivalencia: [09-006](../capitulos/09.md), [23-008](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 43.
+Relato revisado hasta el capítulo 44.
 
 ### Las armas de puño de la capitana
 

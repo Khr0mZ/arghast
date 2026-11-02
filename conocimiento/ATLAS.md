@@ -57,3 +57,9 @@ El frente terrestre forma parte de la misma defensa que el arrecife del capítul
 Citlali y Lunaria llegan desde la jungla; los personajes ven la explosión naval desde tierra y al final distinguen el Zampaolas detenido o varado en la costa oriental. No se representa aún el encuentro con sus tripulantes ([43-011–43-013, 43-024, 43-044 y 43-061](capitulos/43.md)).
 
 El altar del epílogo carece de localización. La imagen no da coordenadas ni prueba que esté en el campo de batalla o en un templo ya explorado ([43-062](capitulos/43.md)).
+
+## La cueva del lago cercano a Cuicapalli
+
+Leona orienta la búsqueda del devorafango hacia una cueva húmeda junto a un lago donde jugaba de pequeña. El lugar recibe una etiqueta descriptiva, sin topónimo propio. No se identifica con la Hoja Caída, la cueva derrumbada de Citlali o la guarida del dragón ([44-013, 44-016–44-018](capitulos/44.md)).
+
+La masa de moho consume huesos aparentemente humanoides y carece de boca definida. El devorafango llega después y llena de ácido la sala: ambos rivales tienen historias separadas. El grupo vuelve a Cuicapalli con las espinas y el cadáver del segundo, sin identificar a las víctimas de los huesos o comprobar el destino final del moho ([44-022–44-023, 44-029–44-032, 44-045–44-048](capitulos/44.md)).

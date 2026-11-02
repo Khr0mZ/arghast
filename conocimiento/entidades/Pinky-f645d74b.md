@@ -12,7 +12,7 @@ Base para revisar equivalencia: [08-026](../capitulos/08.md), [12-019](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 43.
+Relato revisado hasta el capítulo 44.
 
 ### Plantas, negocios y chocolate
 

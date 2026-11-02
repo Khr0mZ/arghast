@@ -36,3 +36,9 @@ Los cinco reyes coinciden en el barco de Bonnie. Diente de Oro, Elger Banana, So
 La alianza defensiva de Molly y Bonnie se contempla desde la jungla. Molly sigue sin su antiguo cargo de capitana de la Marina y dirige piratas cuya preparación juzga inferior. Erandy, Eleanor, Citlali y Lunaria rompen a los pelotones con fuego, golpes y ataques masivos. La caída de los mandos fuerza la huida de los supervivientes; no se elimina toda la organización ([43-005, 43-010, 43-014, 43-023, 43-027, 43-031, 43-055 y 43-058](capitulos/43.md)).
 
 La victoria de Molly en tierra no demuestra una restitución en la Marina ni un nuevo gobierno de Shiaru después del disparo de Taylor contra Bonnie. Los dos capítulos cubren frentes y momentos parcialmente simultáneos ([43-001, 43-044, 43-058–43-059](capitulos/43.md)).
+
+## Cuicapalli durante el capítulo 44
+
+Leona y Guayacán mantienen la vigilancia mientras Eromov sigue enfermo. La escena escrita previa ya muestra a Leona entregando [viales y recetas de Iktan](https://discord.com/channels/946724148628041748/1482149664131383316/1525820723434618981) y a [Parroter empezando a trabajar](https://discord.com/channels/946724148628041748/1482149664131383316/1525825232810541056). La expedición por las espinas y el remedio del capítulo 44 amplían ese avance. Los expertos siguen esperados; tampoco se inviste a Leona como dirigente ([44-001, 44-003–44-004, 44-007–44-013, 44-048, 44-056](capitulos/44.md)).
+
+Las alusiones a serpientes y materiales recibidos no identifican al autor que contaminó la comida de Eromov. Tampoco equiparan el ácido del devorafango, los pinchazos de sus espinas o el moho de la cueva con el veneno y los no muertos de otras expediciones ([44-009–44-011, 44-022, 44-031, 44-034](capitulos/44.md)).

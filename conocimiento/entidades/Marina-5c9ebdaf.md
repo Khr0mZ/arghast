@@ -12,7 +12,7 @@ Base para revisar equivalencia: [03-019](../capitulos/03.md), [05-007](../capitu
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 43.
+Relato revisado hasta el capítulo 44.
 
 ### Explorar, ocupar y disputar las ruinas
 
@@ -1045,4 +1045,12 @@ Tipo: `hecho_confirmado`.
 El director da por terminado el combate: la mayoría de los marines han caído y los pocos que quedan huyen. Los piratas celebran mientras los combatientes recuperan el aliento. Molly se acerca cansada, respira con dificultad y tiene heridas, disparos y manchas de sangre. Expresa su sorpresa por el oso gigante y la cría arrojada, y se detiene al mirar a Citlali.
 
 La victoria se limita al frente terrestre mostrado. Los gritos de haber acabado con todos se matizan con los supervivientes que el propio director describe huyendo.
+
+## [44-005 · Guayacán cambia la voz al reconocer a Tlachka](../capitulos/44.md) · 00:05:57.880
+
+Tipo: `hecho_confirmado`.
+
+La interpretación distingue una voz normal de Guayacán y otra que adopta al ponerse firme ante Tlachka, a quien reconoce del enfrentamiento contra la Marina. Hablan de las serpientes de Iktan y de la búsqueda de venenos, sin aportar una muestra nueva. Tacha sirve tres platos de lechón y Guayacán cambia su porción de carne por una mazorca de Tlachka.
+
+El cambio de voz no declara la especie o identidad oculta de Guayacán. Las alusiones humorísticas al perro y a su cola no prueban una acción nueva de Coyote o un conocimiento del veneno.
 

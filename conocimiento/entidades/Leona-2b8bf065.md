@@ -8,11 +8,11 @@ Coneja y harengon bárbara son descripciones del mismo personaje; no Naór leoni
 
 Etiquetas agrupadas: Leona (coneja, grafía provisional); Leona (harengon bárbara).
 
-Base para revisar equivalencia: [19-002](../capitulos/19.md), [21-004](../capitulos/21.md), [30-001](../capitulos/30.md).
+Base para revisar equivalencia: [19-002](../capitulos/19.md), [21-004](../capitulos/21.md), [30-001](../capitulos/30.md), [44-001](../capitulos/44.md), [44-004](../capitulos/44.md), [44-007](../capitulos/44.md), [44-008](../capitulos/44.md), [44-009](../capitulos/44.md), [44-011](../capitulos/44.md), [44-012](../capitulos/44.md), [44-013](../capitulos/44.md), [44-016](../capitulos/44.md), [44-017](../capitulos/44.md), [44-018](../capitulos/44.md), [44-020](../capitulos/44.md), [44-023](../capitulos/44.md), [44-027](../capitulos/44.md), [44-029](../capitulos/44.md), [44-032](../capitulos/44.md), [44-035](../capitulos/44.md), [44-037](../capitulos/44.md), [44-040](../capitulos/44.md), [44-042](../capitulos/44.md), [44-045](../capitulos/44.md), [44-046](../capitulos/44.md), [44-048](../capitulos/44.md), [44-054](../capitulos/44.md), [44-056](../capitulos/44.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 43.
+Relato revisado hasta el capítulo 44.
 
 ### Aprender a no resolverlo todo con el hacha
 
@@ -49,6 +49,12 @@ Fuentes: [40-034 · Leona obliga a Ilikar a descansar y lo carga](../capitulos/4
 Walulu confirma que su advertencia desde Cuicapalli motivó un aumento de las precauciones. La infiltración se descubre pese a esas medidas y los visitantes localizan después a los adversarios del norte. Leona es citada como mensajera, sin atribuirle las acciones de Naór ni un regreso representado a Cuicapalli.
 
 Fuentes: [41-015 · Walulu confirma las precauciones tras el aviso de Leona](../capitulos/41.md) · 00:42:00.000 · [41-019 · Walulu vincula la infiltración con el veneno de Eromov](../capitulos/41.md) · 00:48:00.000 · [41-023 · Advertencia, revelación de la emboscada y muerte entre serpientes](../capitulos/41.md) · 00:54:38.599 · [41-038 · Una abominación sale de la vegetación](../capitulos/41.md) · 01:41:33.000 · [41-046 · La abominación cae tras los últimos ataques](../capitulos/41.md) · 02:08:00.000.
+
+### Las espinas para salvar a Eromov
+
+De nuevo en Cuicapalli tras su misión de aviso, Leona busca rastros de las serpientes y participa en las rondas de vigilancia. Parroter la llama ante el empeoramiento de Eromov y le encarga espinas de la boca de un devorafango, que deben arrancarse con el animal vivo. Reúne a Guayacán, Ayoto y Tlachka y los guía hacia una cueva junto a un lago donde jugaba de pequeña. Allí entra voluntariamente en una masa de moho buscando el ingrediente; Ayoto logra sacarla ocupando su lugar. Cuando aparece el devorafango, se introduce en su boca. Clava el hacha para afirmarse y el recuerdo de Eromov cuando la encontró de niña aviva su esfuerzo. Arranca dos espinas y acepta la mano de Tlachka para salir. Después ataca al animal antes del remate de Guayacán. Entrega las espinas a Parroter, confirma que las obtuvo en vida y prueba la carne que prepara Tlachka. El alquimista pide avisarla al ver mejorar al dirigente. Ni este vínculo de infancia ni su responsabilidad en la misión equivalen a una adopción formal o una investidura como sucesora.
+
+Fuentes: [44-001 · Leona busca rastros tras su misión de aviso](../capitulos/44.md) · 00:00:47.039 · [44-004 · Leona y Guayacán vuelven de las rondas y comen junto a Tlachka](../capitulos/44.md) · 00:03:29.480 · [44-007 · Un guardia lleva a Leona y Guayacán ante Parroter](../capitulos/44.md) · 00:12:48.240 · [44-008 · Eromov sigue postrado y Parroter lo refresca](../capitulos/44.md) · 00:15:35.240 · [44-009 · Parroter ha avanzado pero necesita otro ingrediente](../capitulos/44.md) · 00:16:18.160 · [44-011 · Las espinas deben extraerse mientras el devorafango vive](../capitulos/44.md) · 00:19:04.039 · [44-012 · Leona recluta a Ayoto y Tlachka para buscar las espinas](../capitulos/44.md) · 00:20:54.760 · [44-013 · Leona recuerda una cueva de su infancia junto a un lago](../capitulos/44.md) · 00:25:46.960 · [44-016 · La cueva junto al lago huele mal y contiene huesos](../capitulos/44.md) · 00:32:38.600 · [44-017 · El grupo se reúne ante la entrada y recuerda la condición del encargo](../capitulos/44.md) · 00:34:38.200 · [44-018 · Una masa de moho se alza cerca de Leona](../capitulos/44.md) · 00:35:15.160 · [44-020 · Leona evita que la masa la envuelva](../capitulos/44.md) · 00:37:53.760 · [44-023 · Leona se introduce en la masa para desgarrarla](../capitulos/44.md) · 00:42:32.599 · [44-027 · Leona sigue arrancando material sin encontrar la espina](../capitulos/44.md) · 00:50:20.640 · [44-029 · Ayoto saca a Leona y ocupa su lugar dentro de la masa](../capitulos/44.md) · 00:54:29.280 · [44-032 · Leona se mete en la boca de la nueva criatura](../capitulos/44.md) · 01:02:17.559 · [44-035 · Tlachka golpea el vientre desprotegido con ácido en el arma](../capitulos/44.md) · 01:09:11.159 · [44-037 · Leona arranca una espina recordando a Eromov](../capitulos/44.md) · 01:13:10.880 · [44-040 · Tlachka intenta abrir la mandíbula mientras Leona sigue dentro](../capitulos/44.md) · 01:18:34.280 · [44-042 · La criatura golpea con la cola y Leona extrae otra espina](../capitulos/44.md) · 01:20:46.880 · [44-045 · Tlachka abre la mandíbula y saca a Leona con las espinas](../capitulos/44.md) · 01:27:11.760 · [44-046 · Leona hiere a la criatura y Guayacán la remata](../capitulos/44.md) · 01:28:35.840 · [44-048 · Parroter recibe dos espinas y empieza a preparar el remedio](../capitulos/44.md) · 01:36:45.280 · [44-054 · Leona prueba la carne y resiste la salsa más picante](../capitulos/44.md) · 01:48:50.360 · [44-056 · El remedio de Parroter reduce las venas negras de Eromov](../capitulos/44.md) · 01:53:33.719.
 
 ## Registros y evidencias
 
@@ -627,4 +633,332 @@ Tipo: `declaracion_personaje`.
 Naór y Blink ven a la prisionera y preguntan qué sucede. Walulu afirma ante Naór que pertenece al grupo que envenenó a Eromov. Explica que aumentaron la vigilancia tras la información de Leona, pero parece que los enemigos se colaron, y propone buscar más. Una de las recién llegadas se marcha corriendo al oír hablar de serpientes. Los demás plantean buscar magia y averiguar el objetivo de la cautiva.
 
 La atribución al grupo es de Walulu, sin prueba de que esta mujer administrara el veneno. No queda nombrada la voz de quien sale: cotejar la continuación antes de atribuir a Naór o Blink.
+
+## [44-001 · Leona busca rastros tras su misión de aviso](../capitulos/44.md) · 00:00:47.039
+
+Tipo: `declaracion_personaje`.
+
+Leona recuerda que salió por órdenes para avisar sobre las serpientes y pedir que acudieran personas capaces de ayudar. Se ha reunido de nuevo con Guayacán y, mientras espera los resultados de esa ayuda, ha buscado pistas de las serpientes cerca del poblado.
+
+El contexto enlaza el aviso previo a Iktan, sin detallar en este repaso una llegada efectiva de recetas, protecciones o refuerzos. La presentación de Leona como posible futura líder no equivale a una investidura.
+
+## [44-003 · Guayacán cuida la ciudad en ausencia de Leona](../capitulos/44.md) · 00:02:34.160
+
+Tipo: `declaracion_personaje`.
+
+Guayacán explica que, por petición de Leona y decisión propia, ha cuidado Cuicapalli mientras ella estaba fuera. Ha estudiado la vigilancia, los puntos por donde entran bestias, la distribución del lugar y el ánimo de los habitantes.
+
+La responsabilidad de vigilancia no implica que haya sido nombrado dirigente ni que los peligros de la ciudad hayan desaparecido.
+
+## [44-004 · Leona y Guayacán vuelven de las rondas y comen junto a Tlachka](../capitulos/44.md) · 00:03:29.480
+
+Tipo: `hecho_confirmado`.
+
+Leona y Guayacán regresan a Cuicapalli cubiertos de hojas y con marcas de sus rondas por los alrededores. Esperan que Eromov mejore y que lleguen refuerzos. Se acercan a Tacha y piden comida. Tlachka se ha hecho un hueco junto a la cocina para tostar mazorcas como acompañamiento.
+
+La expectativa de refuerzos no representa su llegada. El establecimiento se vincula contextualmente a la taberna de Tacha ya catalogada; no se pronuncia un nombre nuevo para el local.
+
+## [44-005 · Guayacán cambia la voz al reconocer a Tlachka](../capitulos/44.md) · 00:05:57.880
+
+Tipo: `hecho_confirmado`.
+
+La interpretación distingue una voz normal de Guayacán y otra que adopta al ponerse firme ante Tlachka, a quien reconoce del enfrentamiento contra la Marina. Hablan de las serpientes de Iktan y de la búsqueda de venenos, sin aportar una muestra nueva. Tacha sirve tres platos de lechón y Guayacán cambia su porción de carne por una mazorca de Tlachka.
+
+El cambio de voz no declara la especie o identidad oculta de Guayacán. Las alusiones humorísticas al perro y a su cola no prueban una acción nueva de Coyote o un conocimiento del veneno.
+
+## [44-006 · Ayoto se reúne con sus compañeros y cuenta sus viajes](../capitulos/44.md) · 00:09:26.200
+
+Tipo: `declaracion_personaje`.
+
+Ayoto llega a la comida, saluda a Tlachka, Leona y Guayacán y cuenta que ha vuelto de Iktan a Cuicapalli para informarse de lo ocurrido. Recuerda su estancia bajo el mar, su desorientación en el bosque, las amenazas en una ciudad oculta y la ayuda de un perro extraño. Afirma haber ayudado en el agua y querer hacerlo también en tierra.
+
+El repaso es su testimonio. La mención del perro no contiene un nombre y no crea una identidad nueva; tampoco demuestra una misión submarina distinta o resultados no representados aquí.
+
+## [44-007 · Un guardia lleva a Leona y Guayacán ante Parroter](../capitulos/44.md) · 00:12:48.240
+
+Tipo: `hecho_confirmado`.
+
+Un guardia busca a Leona porque Parroter la reclama con urgencia. Guayacán sigue a su maestra hasta la choza de Eromov. Ayoto y Tlachka se quedan comiendo con Tacha; Ayoto ofrece comida a otro guardia, que la acepta sin abandonar expresamente su puesto.
+
+Los guardias permanecen sin nombre y no se fusionan por compartir función. La demora en la comida no se convierte en un daño concreto a Eromov.
+
+## [44-008 · Eromov sigue postrado y Parroter lo refresca](../capitulos/44.md) · 00:15:35.240
+
+Tipo: `hecho_confirmado`.
+
+Al entrar, Leona comprueba el estado de Eromov. Está tendido en la cama bajo mantas de hojas, tiembla y tose. Parroter cambia las hojas mojadas de su frente para refrescarlo. El dirigente apenas consigue levantar la trompa para saludar y Leona le pide que no se esfuerce.
+
+La escena confirma que Eromov sigue vivo y enfermo en ese momento. No acredita todavía un antídoto administrado, una recuperación ni un fallecimiento posterior.
+
+## [44-009 · Parroter ha avanzado pero necesita otro ingrediente](../capitulos/44.md) · 00:16:18.160
+
+Tipo: `declaracion_personaje`.
+
+Leona dice que no encuentra el rastro de las serpientes. Parroter le indica que ahora necesita otra cosa: con lo que ella trajo ha podido avanzar, pero le falta un ingrediente peligroso. Leona se ofrece a ir por él de inmediato.
+
+Parroter no identifica aquí cada material recibido. No se equiparan por esta frase las muestras de la Hoja Caída, del claro del dragón y de los viales verdes de Iktan, ni se da por terminado el remedio.
+
+## [44-010 · Parroter describe al devorafango y dónde buscarlo](../capitulos/44.md) · 00:17:01.759
+
+Tipo: `declaracion_personaje`.
+
+Parroter nombra al devorafango. Leona y Guayacán no logran identificarlo mediante las tiradas de historia. El alquimista lo describe como una criatura peligrosa que escupe sustancias capaces de quemar la piel y que vive en cuevas junto a ríos, lagos y zonas con agua. Leona decide buscar en lugares húmedos.
+
+El nombre se conserva como lectura provisional de Débora Fango/Borafango y variantes. La descripción aún es información de Parroter, no observación del grupo. El intercambio sobre la procedencia de Guayacán no fija una ciudad natal o su especie.
+
+## [44-011 · Las espinas deben extraerse mientras el devorafango vive](../capitulos/44.md) · 00:19:04.039
+
+Tipo: `declaracion_personaje`.
+
+Parroter precisa que necesita las espinas del interior de la boca del devorafango y que deben arrancarlas mientras siga vivo: si lo matan antes no servirán. Pueden matarlo después si quieren. Advierte que Eromov quizá no aguante mucho más y Leona se compromete a volver deprisa, con ayuda de los dos compañeros que siguen comiendo.
+
+El encargo requiere espinas en plural; los viajeros lo simplifican después a una espina, sin fijar aquí una cantidad exacta suficiente. Entrar en la boca es la propuesta de Leona, no el único método expresamente impuesto por Parroter. No se han obtenido o utilizado todavía.
+
+## [44-012 · Leona recluta a Ayoto y Tlachka para buscar las espinas](../capitulos/44.md) · 00:20:54.760
+
+Tipo: `hecho_confirmado`.
+
+Mientras Tacha continúa sirviendo comida, Leona y Guayacán vuelven a buscar a Ayoto y Tlachka. La harengon explica la urgencia de salvar a Eromov y solicita ayuda a ambos. Tras un equívoco sobre si el dirigente tiene una espina en la garganta, aclara que deben buscar una criatura de barro y sacar de su boca el ingrediente mientras viva. El grupo acepta salir con ella hacia cuevas, ríos o lagos.
+
+La espina en la garganta de Eromov es un malentendido corregido, no un diagnóstico. Las dificultades de conexión pertenecen a la mesa y no se convierten en sucesos de la ficción.
+
+## [44-013 · Leona recuerda una cueva de su infancia junto a un lago](../capitulos/44.md) · 00:25:46.960
+
+Tipo: `hecho_confirmado`.
+
+Los cuatro salen de Cuicapalli y se internan en la jungla. Leona busca agua estancada y lugares húmedos mientras Ayoto rastrea sin conocer bien al animal. Tras la búsqueda, la harengon recuerda un lago cercano y una gran cueva donde jugaba con otros niños. Considera que su barro y humedad encajan con la descripción y conduce allí a sus compañeros.
+
+La cueva carece de topónimo en el pasaje. El recuerdo de Leona no la identifica con la Hoja Caída o con la cueva derrumbada del capítulo 39, ni confirma todavía la presencia del devorafango.
+
+## [44-014 · Las frutas afectan las sombras y el brillo de los viajeros](../capitulos/44.md) · 00:28:39.960
+
+Tipo: `explicacion_director`.
+
+Al comer frutas, la sombra de Leona grita sin sonido cuando ataca; Ayoto pasa a temer a su propia sombra; Guayacán brilla de verde, con desventaja para el sigilo y ventaja para el carisma. Durante el mismo intercambio, el director concede al grupo bendición y un dado de cuatro para la partida.
+
+No se adjudica inequívocamente un efecto individual de fruta a Tlachka. La procedencia de la bendición colectiva no se explica con suficiente claridad para atribuírsela a su fruta. Los efectos no acreditan rasgos permanentes o una identidad nueva de las sombras.
+
+## [44-015 · El viaje continúa entre sombras y una interrupción del mono](../capitulos/44.md) · 00:31:13.039
+
+Tipo: `hecho_confirmado`.
+
+Los compañeros siguen a Leona. Ayoto, temblando por el temor a su sombra, busca la cobertura de un árbol, aunque el director recuerda que la sombra lo sigue. Un mono observa a los viajeros y, tras unos segundos de miradas, lanza una piel de plátano; uno declara una caída cómica. El animal se ríe y trepa para alejarse.
+
+No queda fijado con seguridad el actor de todas las intervenciones del incidente. El mono no recibe nombre ni se identifica con Pix; tampoco se narra que sea capturado o comido.
+
+## [44-016 · La cueva junto al lago huele mal y contiene huesos](../capitulos/44.md) · 00:32:38.600
+
+Tipo: `hecho_confirmado`.
+
+Los viajeros llegan al lago y a la cueva embarrada que recuerda Leona. Ella se aproxima a la entrada y observa un interior de olor pestilente con huesos por el suelo. Los interpreta como restos de comida de la criatura buscada y llama a los demás para que se acerquen.
+
+Los huesos no se identifican por especie, nombre o causa exacta de muerte. Su presencia no demuestra aún qué criatura los dejó ni una conexión con los restos envenenados de Iktan.
+
+## [44-017 · El grupo se reúne ante la entrada y recuerda la condición del encargo](../capitulos/44.md) · 00:34:38.200
+
+Tipo: `hecho_confirmado`.
+
+Los cuatro alcanzan la cueva. Leona intenta atraer a la bestia con llamadas como si fuese un gato y promete no matarla por un rato. Guayacán recuerda que deben extraer la espina mientras viva o la misión no servirá, y Leona confirma la instrucción.
+
+Las llamadas no identifican al animal como felino ni prueban que responda. El recordatorio habla de la criatura del encargo antes de que el grupo identifique a su primer adversario.
+
+## [44-018 · Una masa de moho se alza cerca de Leona](../capitulos/44.md) · 00:35:15.160
+
+Tipo: `hecho_confirmado`.
+
+Guayacán advierte que el suelo junto a Leona empieza a moverse de forma extraña. Le avisa del peligro y la materia del suelo se levanta como una masa enorme, dando comienzo al enfrentamiento en la entrada de la cueva.
+
+Masa de moho es una etiqueta editorial descriptiva. El pasaje no la llama devorafango ni muestra espinas bucales; se conserva separada de la criatura del encargo y de la masa zombi del capítulo 40.
+
+## [44-019 · Guayacán entra en furia y golpea dos veces a la masa](../capitulos/44.md) · 00:36:00.920
+
+Tipo: `hecho_confirmado`.
+
+Guayacán quiere demostrar a Leona que su entrenamiento ha dado resultado. Entra en furia, se acerca a la masa y conecta dos golpes. Intenta añadir una ráfaga de golpes, pero el director la anula porque ya ha utilizado la acción adicional para entrar en furia. Acepta la corrección y termina su turno.
+
+La ráfaga anunciada no se cuenta como ataques realizados. El pasaje confirma dos impactos, sin derrota de la masa ni recuperación de las espinas.
+
+## [44-020 · Leona evita que la masa la envuelva](../capitulos/44.md) · 00:37:53.760
+
+Tipo: `hecho_confirmado`.
+
+La masa se lanza sobre Leona para envolverla. Tras la salvación, la harengon se aparta y la criatura cae al suelo sin alcanzarla. Ayoto se prepara para actuar.
+
+Este intento falla. Leona entra voluntariamente en la masa más adelante (44-023); es distinta del devorafango.
+
+## [44-022 · Tlachka extrae huesos humanoides del moho](../capitulos/44.md) · 00:41:10.960
+
+Tipo: `hecho_confirmado`.
+
+Tlachka intenta abrir la boca de la criatura para buscar una espina, pero el director aclara que es una masa de moho sin boca propiamente dicha. Introduce la mano y tira del material: extrae restos de huesos que parecen humanoides y se están consumiendo. Dice a Leona que no encuentra lo que buscan y ella decide probar.
+
+Los huesos no reciben identidad personal, fecha o procedencia. Buscar una espina en el moho no demuestra que sea el Devorafango del encargo.
+
+## [44-023 · Leona se introduce en la masa para desgarrarla](../capitulos/44.md) · 00:42:32.599
+
+Tipo: `hecho_confirmado`.
+
+Leona se enfurece por los golpes recibidos y decide introducirse en la masa para arrancar su contenido desde dentro. El director insiste en que no tiene una boca definida, pero acepta que se lance al interior. Queda retenida y sin visión mientras desgarra trozos del moho con las manos.
+
+La entrada en la masa es voluntaria. El material desgarrado no se registra como las espinas necesarias para el remedio.
+
+## [44-024 · La angustia de Guayacán acompaña sus golpes no letales](../capitulos/44.md) · 00:44:16.480
+
+Tipo: `hecho_confirmado`.
+
+Guayacán quiere debilitar a la criatura sin matarla para que Leona pueda arrancar una espina. Declara sus golpes no letales y pretende aturdir al rival si consigue impactar, pero falla los ataques de este turno. Explica que está angustiado al ver a Leona dentro y que esa preocupación lo vuelve torpe.
+
+El propósito de dejar inconsciente al rival no significa que lo consiga en este turno. No se atribuye a Leona una relación familiar o romántica nueva por la angustia de Guayacán.
+
+## [44-025 · La criatura hiere desde dentro y Ayoto replica a un fallo](../capitulos/44.md) · 00:46:05.520
+
+Tipo: `hecho_confirmado`.
+
+Leona resiste el daño que recibe en el interior de la masa. El rival intenta golpear a Ayoto y falla el primer ataque; el goliat aprovecha para responder con una réplica que impacta. La criatura efectúa después otro ataque contra él.
+
+Las reducciones de daño se discuten en mesa sin describir un nuevo poder narrativo separado. El resultado exacto del segundo ataque no queda verbalmente fijado con la misma claridad.
+
+## [44-027 · Leona sigue arrancando material sin encontrar la espina](../capitulos/44.md) · 00:50:20.640
+
+Tipo: `hecho_confirmado`.
+
+Leona continúa dentro de la masa y vuelve a arrancar trozos con las manos. Causa daño al desgarrarla y sigue intentando llevarse la espina que busca, sin que en esta acción se describa su extracción.
+
+Un efecto de carta provoca aparte cinco puntos de daño a los presentes; la broma sobre picante no se convierte en una causa fisiológica o un acontecimiento nuevo del mundo.
+
+## [44-028 · Guayacán logra aturdir a la masa](../capitulos/44.md) · 00:51:43.880
+
+Tipo: `hecho_confirmado`.
+
+Guayacán insiste en golpear de forma no letal y logra aplicar un golpe aturdidor. Con el rival aturdido, sus siguientes golpes se resuelven con ventaja. Leona sigue expuesta al daño del interior, pero la masa no realiza el ataque que iba a dirigir contra Ayoto porque está aturdida.
+
+El aturdimiento no equivale a una muerte ni acredita haber obtenido el ingrediente.
+
+## [44-029 · Ayoto saca a Leona y ocupa su lugar dentro de la masa](../capitulos/44.md) · 00:54:29.280
+
+Tipo: `hecho_confirmado`.
+
+Ayoto combate con sus dos escudos y emplea la última carga de uno para rasgar la masa y abrir un hueco. A través de él ve a Leona arrancando material. Utiliza una maniobra para alcanzarla y tirar de ella mientras la harengon desgarra cuanto puede. El director resuelve el intercambio: Leona sale y Ayoto queda dentro.
+
+Las explicaciones de la dote y la maniobra no establecen reglas generales fuera de esta resolución. No se confirma la identidad del material arrancado como ingrediente del antídoto.
+
+## [44-032 · Leona se mete en la boca de la nueva criatura](../capitulos/44.md) · 01:02:17.559
+
+Tipo: `hecho_confirmado`.
+
+Leona aprovecha la boca abierta tras la descarga y se introduce en el Devorafango, pese al peligro. Empieza a arrancar desde dentro dientes, cartílagos o lo que puede alcanzar. El director confirma que permanece en su boca mientras desgarra esas estructuras.
+
+Es la segunda criatura, distinta de la masa sin boca de la que Ayoto la había sacado. Entrar voluntariamente no equivale a describir una deglución completa o llegar a un estómago.
+
+## [44-035 · Tlachka golpea el vientre desprotegido con ácido en el arma](../capitulos/44.md) · 01:09:11.159
+
+Tipo: `hecho_confirmado`.
+
+Tlachka se acerca con el arma descrita como cargada por el escupitajo ácido y ataca al Devorafango derribado. El director precisa que el vientre no tiene las espinas que cubren la espalda. Tlachka encadena golpes y suma el ácido al daño. Los impactos hacen que la criatura se agite y Leona se golpee de un lado a otro dentro de su boca.
+
+El ácido en el arma se conserva como efecto resuelto en esta acción, no como una modificación permanente del arma. La sucesión de ataques no se convierte en varios turnos o personas distintas.
+
+## [44-036 · Un mordisco deja a Guayacán al límite y la cola derriba a Ayoto](../capitulos/44.md) · 01:10:42.520
+
+Tipo: `hecho_confirmado`.
+
+El Devorafango se levanta a cuatro patas y empieza a regurgitar, sin expulsar todavía a Leona. Muerde a Guayacán, que queda a un punto de vida tras aplicar la reducción de su furia. Luego golpea a Ayoto con la cola; el goliat falla la salvación de fuerza y cae al suelo.
+
+Guayacán queda gravemente herido pero consciente, sin una muerte representada. La regurgitación no se confunde con una salida de Leona en ese momento.
+
+## [44-037 · Leona arranca una espina recordando a Eromov](../capitulos/44.md) · 01:13:10.880
+
+Tipo: `hecho_confirmado`.
+
+Dentro de la boca, Leona clava el hacha para estabilizarse y se esfuerza por arrancar una protuberancia espinosa. Se engancha a una de las muelas descritas por el director. La pieza se resiste, pero el recuerdo de Eromov cuando la encontró de pequeña refuerza su rabia: finalmente consigue arrancar una de las espinas. Desde fuera se oye a la criatura gritar y agitarse.
+
+La extracción ocurre mientras el animal sigue vivo, conforme al encargo. El recuerdo atribuye a Eromov haberla encontrado de niña, sin fijar adopción legal, parentesco biológico o toda su crianza.
+
+## [44-038 · Guayacán se cura y sujeta al rival por la boca](../capitulos/44.md) · 01:14:33.040
+
+Tipo: `hecho_confirmado`.
+
+Muy herido, Guayacán utiliza otra curación sobre sí mismo y decide apoyar la extracción en lugar de seguir fallando golpes. Intenta sujetar al animal por el cuello o la boca y el director resuelve que lo agarra de la boca. Mantiene al Devorafango apresado para ayudar a sus compañeros.
+
+La curación se declara sin cantidad inequívoca. La interpretación inicial del agarre se aclara después: Guayacán intenta estabilizar el cuello para ayudar a Leona (44-041).
+
+## [44-040 · Tlachka intenta abrir la mandíbula mientras Leona sigue dentro](../capitulos/44.md) · 01:18:34.280
+
+Tipo: `hecho_confirmado`.
+
+Tlachka pregunta si Leona ya tiene la espina y el director recuerda que sigue dentro y sus compañeros no pueden saberlo automáticamente. Guayacán pide obtener más. Ante la interpretación de que el agarre dificulta la salida, Tlachka coloca un pie en la mandíbula inferior y prepara un apoyo para forzar su apertura.
+
+Guayacán aclara después que pretende estabilizar el cuello y no cerrar deliberadamente la boca (44-041). Tlachka abre las mandíbulas y saca a Leona en 44-045.
+
+## [44-041 · Guayacán aclara que sujeta el cuello para ayudar a Leona](../capitulos/44.md) · 01:19:07.360
+
+Tipo: `hecho_confirmado`.
+
+Tlachka intenta forzar la mandíbula superior de la criatura para abrirla. El director interpreta inicialmente que Guayacán está cerrando la boca con Leona dentro, pero este aclara que solo quiere estabilizar el cuello para que su maestra pueda extraer las espinas. El director acepta la corrección; la primera tirada para agarrar la boca no consigue abrirla.
+
+La aclaración sustituye la primera interpretación de cerrar la boca. No se narra un intento deliberado de encerrar o asfixiar a Leona.
+
+## [44-042 · La criatura golpea con la cola y Leona extrae otra espina](../capitulos/44.md) · 01:20:46.880
+
+Tipo: `hecho_confirmado`.
+
+La criatura no puede morder bien mientras la sujetan del cuello, pero golpea a Ayoto con la cola cuando sigue en el suelo. Leona continúa arrancando espinas desde el interior y consigue extraer otra.
+
+El perjuicio de estar en el suelo no equivale a inconsciencia. El texto no identifica por posición izquierda o derecha una espina especial.
+
+## [44-043 · Guayacán inmoviliza a la criatura en el suelo](../capitulos/44.md) · 01:22:18.910
+
+Tipo: `hecho_confirmado`.
+
+Guayacán refuerza su agarre por el cuello para dejar a la criatura restringida y facilitar la salida de Leona. Supera la tirada de atletismo y el director confirma que la mantiene sujeta contra el suelo. Intenta además golpearla en el ojo con el pico de su traje, aunque ese ataque no logra efecto.
+
+El pico pertenece al traje que describe Guayacán; no modifica su especie ni demuestra que tenga un pico anatómico.
+
+## [44-045 · Tlachka abre la mandíbula y saca a Leona con las espinas](../capitulos/44.md) · 01:27:11.760
+
+Tipo: `hecho_confirmado`.
+
+Con la criatura restringida, Tlachka vuelve a abrirle la boca hasta dejarla casi vertical. Ve a Leona arrancando espinas dentro, mantiene la mandíbula inferior con una pierna y le ofrece la mano. Leona acepta; Tlachka la saca con el ingrediente. Ella espera que las dos espinas recogidas sean suficientes.
+
+La salida se representa expresamente, sin asumir un rescate anterior. El número de dos queda reiterado al entregar las púas a Parroter.
+
+## [44-046 · Leona hiere a la criatura y Guayacán la remata](../capitulos/44.md) · 01:28:35.840
+
+Tipo: `hecho_confirmado`.
+
+La criatura atrapada falla su siguiente colazo. Ya fuera de ella, Leona grita y encadena varios ataques, incluido un golpe adicional tras un crítico. Guayacán mantiene el agarre, aprieta para asfixiarla y usa el pico del traje contra sus ojos. Después de ese ataque, el director confirma que han destrozado y derrotado a la criatura.
+
+La muerte se confirma tras la intervención de Guayacán, sin adjudicar todo el combate a un único participante ni inventar un golpe de Ayoto en ese turno.
+
+## [44-048 · Parroter recibe dos espinas y empieza a preparar el remedio](../capitulos/44.md) · 01:36:45.280
+
+Tipo: `hecho_confirmado`.
+
+Leona y Guayacán vuelven a Parroter. Leona anuncia que tiene dos espinas y explica que las arrancaron con la criatura viva. El alquimista los reprende porque había dicho que no era necesario matarla; Leona niega haber dado ella el golpe final. Parroter toma una púa, la rompe y tritura en su mesa de alquimia y comienza una poción que tardará un poco. También advierte que comer esa criatura les sentará mal.
+
+La reprimenda no invalida que el ingrediente se extrajera en vida. El aviso alimentario es de Parroter y no equivale a una intoxicación ya sufrida por los compañeros.
+
+## [44-052 · Leona y Guayacán priorizan descansar y comer](../capitulos/44.md) · 01:43:32.159
+
+Tipo: `hecho_confirmado`.
+
+Guayacán se dirige a Leona como maestra y pregunta si deberían hacer algo por la criatura que los otros se han llevado. Leona considera que ya consiguieron el ingrediente, tiene hambre tras el combate y propone comer. Guayacán admite que tampoco les vendría mal un descanso.
+
+La conversación acredita el trato de maestra, no una orden religiosa o un rango nuevo. Proponer descansar no documenta todavía un descanso largo o una curación.
+
+## [44-054 · Leona prueba la carne y resiste la salsa más picante](../capitulos/44.md) · 01:48:50.360
+
+Tipo: `hecho_confirmado`.
+
+Leona toma una bebida mientras espera, prueba la carne que prepara Tlachka y pide más picante. Moja su porción en la salsa más fuerte disponible y supera la tirada de constitución para soportar el picor. Dice que está buena y continúa comiendo, aunque pide todavía más salsa.
+
+La tirada se refiere al picante añadido. Su éxito no demuestra inmunidad a venenos ni que el plato sea inocuo a largo plazo.
+
+## [44-056 · El remedio de Parroter reduce las venas negras de Eromov](../capitulos/44.md) · 01:53:33.719
+
+Tipo: `hecho_confirmado`.
+
+El cierre entra en la casa de Eromov, que reposa cubierto con hojas, con la piel grisácea y venas negras por el cuerpo. Parroter termina la preparación aún pastosa y se la administra mientras observan los guardias. Las venas empiezan a menguar; el alquimista sonríe, pide que avisen a Leona y anuncia que hará más porque Eromov se pondrá mejor. El director cierra diciendo que parece que mejorará bastante.
+
+Se representa una mejoría visible tras administrar el remedio, sin vuelta a sus funciones o curación completa. La continuación del tratamiento es la intención de Parroter; no se narra una segunda dosis ya administrada.
 
