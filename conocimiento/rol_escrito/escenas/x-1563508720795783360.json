@@ -1,0 +1,324 @@
+{
+  "id": "x-1563508720795783360",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1563508720795783360",
+  "hilo_id": "1558234683177963582",
+  "hilo_nombre": "Tutucan - La ciudad de los Elementos",
+  "titulo": "Naór acompaña a Tessa ante Ilikar y Tortas reconoce su duelo",
+  "resumen": "Tessa confiesa el miedo que le ha dejado la batalla; Naór la acoge como parte de su clan y Tortas lamenta no haber salvado a su alumno.",
+  "relato": "Naór está en la sala del templo de Tutucan dedicada a Ilikar. En sus pensamientos le cuenta que Vak la entrena para que algún día pueda superarlo o darle un gran combate; imagina que a Ilikar le habría gustado enfrentarse al anciano. También le promete volver esa noche y pescar algo, aunque la paciencia le cuesta más sin sus historias. Al salir con Leo, la leonina se cruza con Tessa, que recorre el templo tomando apuntes y bocetos de su arquitectura.\n\nLa arqueóloga está tan absorta que choca con Naór y deja caer la libreta. Se disculpa nerviosamente y la trata de princesa. Leo se alegra de verla y la abraza. Cuando Tessa menciona lo que ha oído sobre la pérdida de Ilikar, Naór le pregunta si luchó a su lado. Tessa recuerda la expedición contra el dragón verde y a sus compañeros de combate. Naór le agradece que estuviera allí, le dice que no fue culpa suya y le pide que deje el tratamiento de princesa: por haber cuidado de Leo, la considera parte de su clan. Le ofrece ir a ver al goliat.\n\nAntes de acompañarla, Naór envía a Leo al templo de los Clanes para un calentamiento de centenares de ejercicios con el espadón a la espalda. En el camino al mausoleo aparece Tortas. La leonina lo deja pasar primero y anima a Tessa a seguirlo. La cercanía del cuerpo devuelve a la joven las imágenes del combate: sus compañeros heridos o exhaustos, un dragón verde, otro compañero transformado en dragón e Ilikar convertido en hombre lobo. Son recuerdos que ella revive ante el resultado de aquella lucha.\n\nTortas admite que no pudo salvar a Ilikar. Tessa confiesa que se embarcó para viajar, descubrir secretos y hacer que su familia se sintiera orgullosa, y que nunca estuvo preparada para dragones, ejércitos de muertos o cultos malignos. Teme no regresar a casa, perder a quienes ama y descubrir que sus amigos son algo que no comprende. Sus dudas sobre las transformaciones de los elfos incluyen una sospecha dolorosa: se pregunta si, de no haber ocurrido una de ellas, Ilikar seguiría vivo. La escena no convierte esa conjetura en la causa demostrada de su muerte.\n\nNaór recoge otra vez la libreta de Tessa y promete que devolverán a Xoltacan el hogar que había descrito a Ilikar, por él y por quienes vendrán. Después se despide del cuerpo con un beso en la mano y un gesto sobre el altar, antes de marcharse a atender a Leo. Tortas intenta consolar a Tessa recordando que su alumno siempre avanzaba para proteger a los demás, pero termina llorando. Se arrodilla y sostiene sus manos: como maestro, siente que debió haber sido él quien cayera. El silencio no trae una respuesta del goliat; el movimiento de sus ropas deja al descubierto una libreta de cuero.",
+  "participantes": [
+    "Naór",
+    "Leo",
+    "Tessa",
+    "Tortas",
+    "Ilikar"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1563508720795783360",
+      "afirmacion": "Naór piensa que Vak la está entrenando para un futuro combate.",
+      "tipo": "pensamiento"
+    },
+    {
+      "mensaje_id": "1563550657011781633",
+      "afirmacion": "Naór considera a Tessa parte de su clan por haber cuidado de Leo y niega que la pérdida sea culpa suya.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1563622676654850070",
+      "afirmacion": "Tessa revive la batalla contra el dragón verde y las transformaciones de sus compañeros.",
+      "tipo": "pensamiento"
+    },
+    {
+      "mensaje_id": "1563815499056554025",
+      "afirmacion": "Tessa confiesa miedo a morir y a las transformaciones de sus amigos; su vínculo causal con la muerte es una duda personal.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1563850181890416701",
+      "afirmacion": "Naór promete recuperar Xoltacan y sale del mausoleo para atender el entrenamiento de Leo.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1563852328296128543",
+      "afirmacion": "Tortas llora ante Ilikar y expresa la culpa de no haber protegido a su alumno.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1563957937838366901",
+      "afirmacion": "El cuerpo permanece inerte y una libreta asoma entre sus ropas.",
+      "tipo": "descripcion"
+    }
+  ],
+  "notas": [
+    "Las variantes de nombres utilizadas por Tessa en su recuerdo se conservan en los originales; este relato no crea equivalencias nuevas para Nerea, Iker, Norma o los distintos nombres de los elfos.",
+    "La idea de que Tortas debió morir en lugar de Ilikar expresa su duelo y su culpa, no una obligación ni un hecho alternativo.",
+    "La secuencia continúa con la apertura de la libreta; esta división distingue la confesión de los supervivientes del legado escrito del goliat."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-10-24T11:05:27.625000+00:00",
+  "fin_utc": "2026-10-25T16:50:29.314000+00:00",
+  "fecha_local": "2026-10-24",
+  "intervalo": {
+    "anterior": 72,
+    "siguiente": null,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236",
+    "siguiente_fuente": null,
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 72,
+        "fecha": "2026-10-16",
+        "inicio_referencia_utc": "2026-10-16T18:28:13+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1563508720795783360",
+      "fecha_utc": "2026-10-24T11:05:27.625000+00:00",
+      "fecha_local": "2026-10-24",
+      "editado_utc": null,
+      "texto": "Naor: **se encuentra en la sala dedicada a Ilikar <@210947008716996609>  en el templo de Tutukán ** \n\n*Vak es un viejo... Aunque es muy fuerte, te habría gustado combatir contra él. Me está entrenando. Es algo extraño, porque lo hace para que algún día pueda superarlo o, al menos, darle un gran combate.\n\nBueno... Esta noche vendré a verte. Iré a pescar algo. El tema de la paciencia me cuesta... Sobre todo si no estás a mi lado contándome esas historias de tu gente*\n\nLeo... no toques eso .. \nVamos es hora de irse . \n\n**Naór abandonado la sala del templo coge una antorcha y empieza a recorres los pasillos ** <@220602485977382912>  <@297459767117611008>",
+      "mensaje_sha256": "4b2536707f85730d9d5ab75990924dd82bf6dc29d70c21f36872246cd8679490",
+      "texto_sha256": "d8824a56f9e8eb800d65b125af3dadbf9a591affb35a1242e3cdfd9813ee72b5",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563508720795783360",
+      "adjuntos": []
+    },
+    {
+      "id": "1563510676498948107",
+      "fecha_utc": "2026-10-24T11:13:13.901000+00:00",
+      "fecha_local": "2026-10-24",
+      "editado_utc": null,
+      "texto": "Tessa\n\n**La humana iba recorriendo lentamente los pasillos de aquel templo. Maravillada con los grabados, las pinturas, los altares... Tomando notas sin cesar. Haciendo algún que otro torpe boceto de lo que veía.\n\nTan ensimismada estaba en lo suyo, que no vio que la leonina giró una esquina y no pudo evitar chocarse con aquel muro de músculos y pelo**\n\n- ah! Pero... Perdónperdonperdonpeedon!!! No estaba mirando por donde iba...!\n\n**Con torpeza y prisas a partes iguales, Tessa se agachó para recoger su libreta y su pluma**\n\n- lo siento... Estaba maravillada con la arquitectura y...\n\n**Al mirar hacia arriba vio a Naor. No pudo evitar que un escalofrío le recorriera el cuerpo**\n\n- Ne....Nerea... Quiero decir... Princesa Nerea... Le pido disculpas...",
+      "mensaje_sha256": "18a525a3214852975c7aabf3b2718f8e86bfaae71d0a4fa834e59b7fb38e57fb",
+      "texto_sha256": "9bc923a072bb465581b7d2561434c5f338782314fb751a6b9704b5e3628094ce",
+      "tipo_discord": 19,
+      "referencia": "1563508720795783360",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563510676498948107",
+      "adjuntos": []
+    },
+    {
+      "id": "1563515869068402780",
+      "fecha_utc": "2026-10-24T11:33:51.906000+00:00",
+      "fecha_local": "2026-10-24",
+      "editado_utc": null,
+      "texto": "Leo : Tessa !!!!!!! **se tira desde la cabeza de Naór hacia ti y te da un abrazo ** \nHola , Tessa. Tu también has llegado ya...\n\n**hecha un vistazo a su libreta , no entiende mucho o casi nada la verdad pero identifica un par de símbolos y grabados ** \n\n*quizá podría ayudarme con lo del cuaderno de Ilikar...*\n\nBienvenida ...",
+      "mensaje_sha256": "a5820e61f8579734204ce6b599dbed0e8306e8eee9df2e0781951a3c3214c85b",
+      "texto_sha256": "5b90b83aa714273f69db53040904efb4aec042f61da4e952216226af49ed59bd",
+      "tipo_discord": 19,
+      "referencia": "1563510676498948107",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563515869068402780",
+      "adjuntos": []
+    },
+    {
+      "id": "1563533896673660981",
+      "fecha_utc": "2026-10-24T12:45:30.022000+00:00",
+      "fecha_local": "2026-10-24",
+      "editado_utc": null,
+      "texto": "Tessa\n\n**Ese abrazo sorprende a la exploradora, que le devuelve el apretón al pequeño**\n\n- Teo! Cariño... como estás? Cuanto tiempo sin verte... has crecido eh? Espero que te estés portando mejor...\n\n**Coge sus cosas y se levanta después de dejar al harengon en el suelo y acariciarle la cabeza**\n\n- princesa...  me alegro de verla... \n\n*Que raro se me hace tratarla de usted...*\n\n- como... Esto... Como estáis? Me he enterado de... Bueno... En Tutucán hay mucha gente y... Bueno, he escuchado cosas. Y lo de Iker...",
+      "mensaje_sha256": "f1b6a4e06ca4102e8e6debc7c45a09cee6ab18254aef7320d6dcf41813821a39",
+      "texto_sha256": "4f8f71117409540bf8d1298bf62f78a8fc7080fcd7ab4b2e14968320ab4eaf8f",
+      "tipo_discord": 19,
+      "referencia": "1563515869068402780",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563533896673660981",
+      "adjuntos": []
+    },
+    {
+      "id": "1563546581062516909",
+      "fecha_utc": "2026-10-24T13:35:54.216000+00:00",
+      "fecha_local": "2026-10-24",
+      "editado_utc": null,
+      "texto": "Naór: ya... bueno ... \nLuchaste a su lado ... no es así ?",
+      "mensaje_sha256": "f5aee69d0d544a1d4efa8f1d0272d3cd5590ae27128acf4d436604f525d5beaf",
+      "texto_sha256": "51b32eb7e0cbaaaea1db3df8a07a7f58fd2a6dac5106692f9c85d6d36ec45c3a",
+      "tipo_discord": 19,
+      "referencia": "1563533896673660981",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563546581062516909",
+      "adjuntos": []
+    },
+    {
+      "id": "1563547455038030036",
+      "fecha_utc": "2026-10-24T13:39:22.588000+00:00",
+      "fecha_local": "2026-10-24",
+      "editado_utc": "2026-10-24T14:22:10.265000+00:00",
+      "texto": "Tessa\n\n**La humana bajó la mirada y apretó el cuaderno con ambas manos**\n\n- Si... Formé parte del grupo que se enfrentó a ese dragón verde... Junto con Iker, la maestra Norma, un hada llamada Ping y... Los... Hermanos elfos...",
+      "mensaje_sha256": "9081f1206bb7a24b454ee4a552feefefb8225178a2b333783a45ae005367ee60",
+      "texto_sha256": "198732882257ebaea87ceea229f68ae0993263797831c8b70c77e6591c599b94",
+      "tipo_discord": 19,
+      "referencia": "1563546581062516909",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563547455038030036",
+      "adjuntos": []
+    },
+    {
+      "id": "1563550657011781633",
+      "fecha_utc": "2026-10-24T13:52:05.998000+00:00",
+      "fecha_local": "2026-10-24",
+      "editado_utc": null,
+      "texto": "Naór: ya veo .. \n**se fija como aprietas el cuaderno ** \n\nGracias por combatir a su lado . \nNo es culpa tuya lo que paso . \n**te pone la mano en el hombro ** \nY no me llames princesa.  \nHas cuidado de Leo cuando lo he necesitado . Para mi eres parte de mi clan . \n\nQuieres .. quieres verle ?",
+      "mensaje_sha256": "e070832ccb4434d6a47527a11ccb584c0f388a1a84841fb1043623ea8252c942",
+      "texto_sha256": "5b29ff3bf73742306431b7a1e0d6b8ad85238ebc525b671cd201dc2953765c0c",
+      "tipo_discord": 19,
+      "referencia": "1563547455038030036",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563550657011781633",
+      "adjuntos": []
+    },
+    {
+      "id": "1563559371915395163",
+      "fecha_utc": "2026-10-24T14:26:43.793000+00:00",
+      "fecha_local": "2026-10-24",
+      "editado_utc": null,
+      "texto": "Tessa\n\n**Tessa levanta la mirada y, con expresión de sorpresa, se queda mirando a la leonina. Es la primera vez que la ve tan cercana y sobria. Normalmente es alguien de sangre caliente y lengua afilada**\n\n- claro... Se merece mis respetos. Siempre tenía palabras de ánimos para todos. En mis libros hablaban de su raza como gente bruta, sin modales y de escasa inteligencia... Pero nada de eso se acercaba a como era Iker...",
+      "mensaje_sha256": "78af88b042ed2d37b7bcaa1fb45d0687b593e5869ad6d183e37ef190e1aed1dc",
+      "texto_sha256": "00be790277b1fc3e752361fd5e6b9323b4e8f6d7933b18db57b6313e4d157ea5",
+      "tipo_discord": 19,
+      "referencia": "1563550657011781633",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563559371915395163",
+      "adjuntos": []
+    },
+    {
+      "id": "1563589470349955215",
+      "fecha_utc": "2026-10-24T16:26:19.819000+00:00",
+      "fecha_local": "2026-10-24",
+      "editado_utc": null,
+      "texto": "Naór : Leo , ves al templo de los Clanes y empieza el calentamiento.  \n\nRecuerda . Hemos subido el ritmo . 500 flexiones 500 dominadas y 500 flexiones . \n**le da un beso en la frente ,  aunque parece que haya crecido algo durante este tiempo aún es sigue siendo su pequeño . \nEl joven Leo empieza de camino hacia la salida hasta que Naór le chilla **\n\nEhhh ! \nTodo eso con la espada a tu espalda ! \n**le lanza el espadon ** \n\nVen acompañame **le dice a Tessa ** \n\n**te guía hasta el mausoleo de  Ilikar **",
+      "mensaje_sha256": "b2ea81987f8f07a279c09b260a5079c89cecf2ae5103ca90bbc650aee96cca38",
+      "texto_sha256": "562cbc629a35a50a9b0de657777e2a7a7c12f1b5d3cb29a56f47f287e58a3dd2",
+      "tipo_discord": 19,
+      "referencia": "1563559371915395163",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563589470349955215",
+      "adjuntos": []
+    },
+    {
+      "id": "1563594416655048835",
+      "fecha_utc": "2026-10-24T16:45:59.110000+00:00",
+      "fecha_local": "2026-10-24",
+      "editado_utc": null,
+      "texto": "Tortas:\n\n**Los pasos de Naór y Tessa ya se alejaban hacia la sala cuando una figura apareció al fondo del pasillo, viniendo en dirección contraria.\n\nTortas caminaba con ese paso suyo que no distingue entre ir deprisa e ir despacio porque para ella ambas cosas son lo mismo. No levantó la vista hasta que estuvo lo suficientemente cerca para que la luz de las antorchas le alcanzara de lleno.\n\nSe detuvo.\n\nMiró a Naór primero. Después a Tessa. Después hacia la sala donde estaba Ilikar, con una mirada que no era de pregunta sino de quien ya sabe la respuesta y simplemente confirma lo que esperaba encontrar.**",
+      "mensaje_sha256": "9bbaca1f02cf1586518c465daeac86981a6179732c5b3e89f12ededac7e9cc11",
+      "texto_sha256": "cbe63e3a24f21d230f38b971dd6a2921f677c97b6bacbe0032292690912c62dd",
+      "tipo_discord": 19,
+      "referencia": "1563589470349955215",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563594416655048835",
+      "adjuntos": []
+    },
+    {
+      "id": "1563596487043059874",
+      "fecha_utc": "2026-10-24T16:54:12.729000+00:00",
+      "fecha_local": "2026-10-24",
+      "editado_utc": null,
+      "texto": "Naór:**le asiente ** \n detrás de usted maestra ...\n\n**le pone la mano en el hombro a Tessa para que ella avance también ** <@220602485977382912>",
+      "mensaje_sha256": "38e984a6811f493030fc4d5174af70e523ec85b6d62f8d6c597be5d4014a1083",
+      "texto_sha256": "46a4280e894f8e6d25828ab974918c91867da2927684620730412dd7609479e5",
+      "tipo_discord": 19,
+      "referencia": "1563594416655048835",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563596487043059874",
+      "adjuntos": []
+    },
+    {
+      "id": "1563598496404082772",
+      "fecha_utc": "2026-10-24T17:02:11.798000+00:00",
+      "fecha_local": "2026-10-24",
+      "editado_utc": null,
+      "texto": "Tortas: \n**Va con los brazos agarrados en la espalda y entra despacio al mausoleo apartándose a un lado para que Tessa pase**",
+      "mensaje_sha256": "3d6e09f02304ba6a302e54094e3459f2d82a9a9a076422d6e8659cdc3af04073",
+      "texto_sha256": "9a2cc4814756d5308948852fe6ff23af35ee7a242b09377d0eed3491bbe8fd82",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563598496404082772",
+      "adjuntos": []
+    },
+    {
+      "id": "1563622676654850070",
+      "fecha_utc": "2026-10-24T18:38:16.819000+00:00",
+      "fecha_local": "2026-10-24",
+      "editado_utc": "2026-10-24T18:42:18.880000+00:00",
+      "texto": "Tessa\n\n**Saluda a la anciana tortuga con un gesto. Al notar la mano de Naor en el hombro la mira con tristeza. Tristeza por ella y tristeza por lo que descansaba delante.\n\nEntra en la sala tras Tortas. Los nervios se apoderaban de ella. Ya estuvo en esa misma estancia días antes tras su conversación con Naor en el templo de los elementos, pero no pudo estar allí más de un par de minutos al recordar lo que ocurrió contra aquel dragón verde y observar el resultado. No podía borrar esos últimos instantes del combate... Tryel a un suspiro de morir cubierta de sangre, tortas socorriendola, Bling agotada en el suelo, y delante de ella, a apenas unos metros, una batalla a tres bandas: el dragón verde intentando clavarle sus colmillos a Eldrath convertido en dragón, y este luchando contra esa criatura a la vez que contra Ilikar convertido en hombre lobo...**\n\n<@616683133374562304> <@297459767117611008>",
+      "mensaje_sha256": "8bf5183ae0432f38baba4a37a48f11f1181cf2cd4687d95864b4e498ff24d235",
+      "texto_sha256": "cb605e1fdb4f8ff2d07825a1c0951da3759ac58ea0f672914203a04453e95c6e",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563622676654850070",
+      "adjuntos": []
+    },
+    {
+      "id": "1563687721036288138",
+      "fecha_utc": "2026-10-24T22:56:44.608000+00:00",
+      "fecha_local": "2026-10-25",
+      "editado_utc": "2026-10-24T23:18:33.173000+00:00",
+      "texto": "**Tortas está mirando hacia el frente impasible**\n\nNo pude salvarlo Tessara",
+      "mensaje_sha256": "8988e43b9307284d7045dd670d25d2e1c47ded9b8613fb6f04d343000666d6bf",
+      "texto_sha256": "dd4f9ff5d8ce750d682ca51d9bfa53b945cdbd15ce7b2da64726d00ceff76e1e",
+      "tipo_discord": 19,
+      "referencia": "1563622676654850070",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563687721036288138",
+      "adjuntos": []
+    },
+    {
+      "id": "1563815499056554025",
+      "fecha_utc": "2026-10-25T07:24:29.262000+00:00",
+      "fecha_local": "2026-10-25",
+      "editado_utc": null,
+      "texto": "Tessa\n\n**Tessa mira fijamente el cuerpo del goliath y aprieta más aún si cabe su libreta**\n\n- maestra... Nerea... Tengo... Tengo miedo... Yo solo soy una simple arqueóloga novata... Una chica de familia pudiente... Yo solo quería viajar. Ver mundo. Descubrir los secretos que el tiempo ha escondido. Y... Hacer que mis padres se sientan orgullosos de mi...\n\n**No puede evitar bajar la mirada y temblar al recordar todo lo sucedido**\n\n- pero esto... Esperaba trampas... Templos que se derrumban a mí paso... Bolas gigantes persiguiéndome... Pero nunca imaginé dragones... Ejércitos de no muertos... Serpientes malvadas adoradoras de dioses malignos...\n\n**La humana nota como esos temblores hacen que de sus manos caiga de nuevo ese cuaderno. Se sujeta a si misma con ambos brazos y lucha por aguantar las lágrimas**\n\n- tengo miedo... Miedo de no volver a casa con vida, de no ver a mi familia más. Miedo de encariñarme de más gente y verla morir. O peor... De que sean algo que no son... Eldrim y Mirien... No sé qué son... Los considero amigos pero... Ahora mismo me dan miedo... Si Eldrim no se hubiera convertido en... En eso... Quiza Iker seguiría vivo... Y si vuelve a pasar y nos pone en peligro a los demás? Y si a ella también lo ocurre? Intento volver a mirarlos con normalidad. Pero tengo miedo...\n\n<@616683133374562304> <@297459767117611008>",
+      "mensaje_sha256": "dc1ef2e1e6b3bad7facea45372d1c34b95c0b5b0886805cf89573208ff79c8a4",
+      "texto_sha256": "3beb9a06e430348e4a62469d88ee8593c4ad52ead691a4811fe75b16b5f2a1c2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563815499056554025",
+      "adjuntos": []
+    },
+    {
+      "id": "1563850181890416701",
+      "fecha_utc": "2026-10-25T09:42:18.294000+00:00",
+      "fecha_local": "2026-10-25",
+      "editado_utc": "2026-10-25T09:42:45.940000+00:00",
+      "texto": "Naór : **recoge el cuaderno de Tessa del suelo ** \n\nLe explique a Ilikar  como era Xoltacán un dia ... \n\nMi hogar ... \n\n**aprieta los puños **\nHaremos que vuelva a ser como antes ...\n**te devuelve el cuaderno ** \nPor el... por los nuestros ... y por los que vendrán... \n\n**te pone una mano en el hombro , se gira hacia Tortas <@297459767117611008> le asiente con la cabeza **\n\nDebo marchar Leo estará por acabar el calentamiento . \n\nY Tessa ... gracias otra vez . \n\n**mira el mausoleo , se besa la mano y toca el altar sonriendo a Ilikar ** \n*luego vengo ... te dejo en buenas manos*\n\n🦁 Naór sale de escena🦁",
+      "mensaje_sha256": "342787f9591332c1b15efa8b5b0e8bb05b86e3c77a86f3f883cebd2c2a845a8d",
+      "texto_sha256": "655dc45c0b341c9727800dbc998ec250d9f7052e13adb4d526ef4526e21c7622",
+      "tipo_discord": 19,
+      "referencia": "1563815499056554025",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563850181890416701",
+      "adjuntos": []
+    },
+    {
+      "id": "1563852328296128543",
+      "fecha_utc": "2026-10-25T09:50:50.037000+00:00",
+      "fecha_local": "2026-10-25",
+      "editado_utc": "2026-10-25T09:51:49.615000+00:00",
+      "texto": "**Tortas pone su mano en la barbilla de Tessa para levantar suavemente su cabeza**\n\nÉl no habría querido vernos así, el nunca agachó la cabeza, siempre pudimos ver su espalda, sin cicatrices, porque nunca se retiraba en combate, siempre iba de frente.... \n\n**Se entrecorta un poco su voz y vuelve a mirar hacia el frente con el cuerpo erguido** \n\nSiempre estuvo ahí luchando por protegernos.....\n\nY yo..... \n\n**Sonidos de empezar a llorar**\n\nComo su maestra....\n\n**Aprieta el puño**\n\nNo pude protegerlo......\n\n**Se acerca al cuerpo pone sus manos en la de Ilikar con suavidad y se arrodilla**\n\n_Tenia que haber sido yo <@210947008716996609> _",
+      "mensaje_sha256": "ea4d8a9517fb9abbcfced1a0874d753a5b6e9f29c0c79ec1392212393bfcd036",
+      "texto_sha256": "fa6bba2fd7d6c366b42e8e6e478b65375e0a9763c291ba73d864752c38166cf3",
+      "tipo_discord": 19,
+      "referencia": "1563815499056554025",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563852328296128543",
+      "adjuntos": []
+    },
+    {
+      "id": "1563957937838366901",
+      "fecha_utc": "2026-10-25T16:50:29.314000+00:00",
+      "fecha_local": "2026-10-25",
+      "editado_utc": "2026-10-25T17:05:18.323000+00:00",
+      "texto": "**Las palabras rotas de Tortas resonaron contra la piedra fría del mausoleo, perdiéndose en un eco ahogado. El templo absorbió su llanto, pero esta vez Ilikar no pudo responder.**\n\n**No hubo esa risa corta y grave con la que solía quitarle importancia a las heridas. No hubo una de sus manos enormes dándole un par de golpes torpes en la espalda para animarlo, de esos que casi te tiraban al suelo pero sanaban. Solo quedaba el silencio absoluto de un amigo que siempre fue el primero en dar un paso al frente animando a los demás a seguirle, y que, por primera vez, no iba a levantarse para proteger a nadie.**\n\n**Cuando Tortas se arrodilló y posó sus manos temblorosas sobre las de su alumno, el ambiente pareció cambiar. A pesar del frío innegable de la muerte, había una extraña y sobrecogedora paz en el rostro del gigante. Sus manos inmensas, llenas de callos y cicatrices, aquellas que siempre aparecían para levantarte, descansaban inertes pero firmes. En ese contacto, no había rastro de tragedia ni de dolor, era como si... Ilikar intentara reconfortar a su maestro. Como si le dijera que no había culpa, que había caído de frente, y que su guardia simplemente había terminado en paz.**\n\n**Fue ese mismo gesto de Tortas el que hizo que los gruesos ropajes del Goliat cedieran ligeramente. Al moverse la tela, algo asomó de su escondite, desde uno de los bolsillos de su pantalón, deslizándose suavemente hasta quedar a la vista.**\n\n**Era su libreta.**\n\n**La gastada cubierta de cuero, atada con cuidado, se ofreció en silencio a la vista de Tortas y Tessa.**\n\n<@297459767117611008> <@220602485977382912>",
+      "mensaje_sha256": "e9039bff093eab657de29ec5547eeaeb653e6247970b7c8e96fb2069608cb36b",
+      "texto_sha256": "5694a0f41a244750699b57e7fc2695b3dc92fe999c74088cac5be9e715bce698",
+      "tipo_discord": 19,
+      "referencia": "1563852328296128543",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563957937838366901",
+      "adjuntos": []
+    }
+  ]
+}

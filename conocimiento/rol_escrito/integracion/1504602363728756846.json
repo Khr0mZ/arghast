@@ -753,7 +753,38 @@
           "fecha_utc": "2026-08-16T21:33:38.644000+00:00",
           "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1538662045661143223"
         }
-      ]
+      ],
+      "cotejo_posterior": {
+        "estado": "parcial",
+        "respuesta": "Meztli lee la mente de Zoltan y percibe huecos negros. Él explica que despertó atado entre caníbales, con pelo blanco, marcas negras y una tormenta interior, sin recordar su vida anterior. La descripción amplía el estado de su memoria y de sus poderes.",
+        "pendiente": "No se determina el origen de Zoltan ni se dan resultados de las mediciones. Tampoco se resuelve aquí qué recuerda del naufragio ni quién es la mujer de sus visiones.",
+        "pruebas": [
+          "1564683414269984829",
+          "1564684720753746081",
+          "1564689167173034086"
+        ],
+        "fuentes_rol": [
+          {
+            "mensaje_id": "1564683414269984829",
+            "escena": "x-1564634323779321960",
+            "fecha_utc": "2026-10-27T16:53:16.374000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564683414269984829"
+          },
+          {
+            "mensaje_id": "1564684720753746081",
+            "escena": "x-1564634323779321960",
+            "fecha_utc": "2026-10-27T16:58:27.864000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564684720753746081"
+          },
+          {
+            "mensaje_id": "1564689167173034086",
+            "escena": "x-1564634323779321960",
+            "fecha_utc": "2026-10-27T17:16:07.973000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564689167173034086"
+          }
+        ],
+        "orden_temporal": "posterior"
+      }
     },
     {
       "pregunta": "¿Cómo funcionan y se estabilizan las anomalías de Bling? Las fracturas son hipótesis de Archi.",

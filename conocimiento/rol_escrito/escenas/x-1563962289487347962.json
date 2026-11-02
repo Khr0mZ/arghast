@@ -1,0 +1,76 @@
+{
+  "id": "x-1563962289487347962",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1563962289487347962",
+  "hilo_id": "1563962289487347962",
+  "hilo_nombre": "Templo Elemental - La ciudad de los Elementos",
+  "titulo": "El Templo Elemental, sede de los líderes de la isla",
+  "resumen": "La apertura del hilo presenta el lugar donde residen los líderes de los clanes y se concentra el poder de la isla.",
+  "relato": "El Templo Elemental se presenta como el lugar donde se reúne el poder de la isla y donde reside cada dirigente de sus clanes. La apertura aconseja a quien lo visite no ofender a esos habitantes y remata la advertencia, en tono de burla, con la posibilidad de terminar convertido en el siguiente sacrificio de la ciudad.\n\nLa imagen adjunta muestra un plano del recinto con salas, mesas y un espacio central, rodeado por agua y vegetación. Acompaña la descripción del escenario, pero no sitúa allí a visitantes concretos ni documenta una reunión, una audiencia o un sacrificio. Este hilo solo contiene esa presentación; no hay todavía una interacción que desarrolle su vida política.",
+  "participantes": [],
+  "evidencias": [
+    {
+      "mensaje_id": "1563962289487347962",
+      "afirmacion": "La presentación sitúa en el Templo Elemental la residencia de los líderes de los clanes y el poder de la isla.",
+      "tipo": "descripcion"
+    }
+  ],
+  "notas": [
+    "Texto de ambientación íntegro e imagen completa inspeccionados. La advertencia sobre sacrificios no documenta un sacrificio realizado ni una condena concreta.",
+    "No se asignan nombres a líderes que este único mensaje no nombra."
+  ],
+  "estado": "abierta",
+  "revisada": true,
+  "inicio_utc": "2026-10-25T17:07:46.828000+00:00",
+  "fin_utc": "2026-10-25T17:07:46.828000+00:00",
+  "fecha_local": "2026-10-25",
+  "intervalo": {
+    "anterior": 72,
+    "siguiente": null,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236",
+    "siguiente_fuente": null,
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 72,
+        "fecha": "2026-10-16",
+        "inicio_referencia_utc": "2026-10-16T18:28:13+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1563962289487347962",
+      "fecha_utc": "2026-10-25T17:07:46.828000+00:00",
+      "fecha_local": "2026-10-25",
+      "editado_utc": null,
+      "texto": "*Donde se reúne el poder de toda la isla. Cada líder de cada clan de la isla reside aquí. Cuidado con pisar colas de furros ajenas... y con pisar las que no deben ser pisadas, puede que si lo haces te ganes un boleto a ser el siguiente sacrificio de la ciudad.*",
+      "mensaje_sha256": "86b22d7de4443cd755a47b877179f4cd9cc65490a6f24f7bcbb1835d5b04d6c7",
+      "texto_sha256": "6263a1e37fdcae03d5f59634854f4c4d12fa34d5a5ea87c408bdc8c5868114ba",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1563962289487347962/1563962289487347962",
+      "adjuntos": [
+        {
+          "id": "1563962290158698526",
+          "nombre": "Templo_de_Tutucan.jpg",
+          "tipo": "image/jpeg",
+          "archivo": "adjuntos/1563962290158698526.jpg",
+          "url": "rol_escrito/adjuntos/1563962290158698526.jpg",
+          "bytes": 6063411,
+          "sha256": "f58bcf81edf43965a8bd4cfdbcd2d3ac21d07d605d3c2f6f26c70d05b8410863"
+        }
+      ]
+    }
+  ]
+}

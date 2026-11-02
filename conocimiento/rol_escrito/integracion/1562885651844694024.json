@@ -1,0 +1,1092 @@
+{
+  "hilo_id": "1562885651844694024",
+  "hilo": "Base de los Clanes Elementales - La ciudad de los Elementos",
+  "campana": "xoltacan",
+  "alcance": "192 mensajes leídos completos en cuatro partes, desde la apertura del 22 de octubre hasta el cierre del 2 de noviembre de 2026; tres imágenes inspeccionadas. Seis relatos con cobertura disjunta de todos los mensajes.",
+  "identidades": [
+    {
+      "nombre": "Nox",
+      "alias": [
+        "Jim Hawkins"
+      ],
+      "nota": "El propio pirata da ambos nombres al presentarse ante Four Robin. La equivalencia ya presente en el catálogo queda confirmada de nuevo en esta escena.",
+      "pruebas": [
+        "1565032554149716029",
+        "1565293881648742541"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1565032554149716029",
+          "escena": "x-1564782728141078691",
+          "fecha_utc": "2026-10-28T16:00:37.808000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565032554149716029"
+        },
+        {
+          "mensaje_id": "1565293881648742541",
+          "escena": "x-1565288184290611351",
+          "fecha_utc": "2026-10-29T09:19:03.139000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565293881648742541"
+        }
+      ]
+    },
+    {
+      "nombre": "Ione",
+      "alias": [
+        "Ione Nottley"
+      ],
+      "nota": "Se presenta con nombre y apellido ante Chani.",
+      "pruebas": [
+        "1564694516294881384"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564694516294881384",
+          "escena": "x-1564690567965835406",
+          "fecha_utc": "2026-10-27T17:37:23.303000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564694516294881384"
+        }
+      ]
+    },
+    {
+      "nombre": "Chanecuxtli",
+      "alias": [
+        "Chani"
+      ],
+      "nota": "Se identifica con su nombre completo y su apelativo como líder de Chik’in. Se transforma explícitamente de mariquita a su figura de ave.",
+      "pruebas": [
+        "1564694148739760249",
+        "1565417927052632107"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564694148739760249",
+          "escena": "x-1564690567965835406",
+          "fecha_utc": "2026-10-27T17:35:55.671000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564694148739760249"
+        },
+        {
+          "mensaje_id": "1565417927052632107",
+          "escena": "x-1565288184290611351",
+          "fecha_utc": "2026-10-29T17:31:57.868000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565417927052632107"
+        }
+      ]
+    },
+    {
+      "nombre": "Arwen",
+      "alias": [],
+      "nota": "La cucaracha se transforma en una mediana que se presenta como Arwen, líder de Aak. Sus títulos y recuerdos de Kuroto se conservan como declaración pronunciada en Xoltacan.",
+      "pruebas": [
+        "1564713424972423189"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564713424972423189",
+          "escena": "x-1564690567965835406",
+          "fecha_utc": "2026-10-27T18:52:31.483000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564713424972423189"
+        }
+      ]
+    },
+    {
+      "nombre": "Four Robin",
+      "alias": [],
+      "nota": "Tabaxi que se presenta como líder del Clan Balam, asociado al espionaje por la explicación de Arwen.",
+      "pruebas": [
+        "1565027286863061143",
+        "1564789060147347578"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1565027286863061143",
+          "escena": "x-1564782728141078691",
+          "fecha_utc": "2026-10-28T15:39:41.989000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565027286863061143"
+        },
+        {
+          "mensaje_id": "1564789060147347578",
+          "escena": "x-1564782728141078691",
+          "fecha_utc": "2026-10-27T23:53:04.314000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564789060147347578"
+        }
+      ]
+    },
+    {
+      "nombre": "Sylphara",
+      "alias": [],
+      "nota": "Owlin de grandes gafas y líder de Kaan, responsable de una biblioteca muy desordenada. Chani la considera la más inteligente de los clanes.",
+      "pruebas": [
+        "1565288184290611351",
+        "1566244195545514045"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1565288184290611351",
+          "escena": "x-1565288184290611351",
+          "fecha_utc": "2026-10-29T08:56:24.783000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565288184290611351"
+        },
+        {
+          "mensaje_id": "1566244195545514045",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-11-01T00:15:15.628000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566244195545514045"
+        }
+      ]
+    },
+    {
+      "nombre": "Picks",
+      "alias": [
+        "Piks"
+      ],
+      "nota": "El mono invocado y llamado Piks vuelve a nombrarse Picks en la continuación inmediata del mismo recorrido.",
+      "pruebas": [
+        "1564786172935409806",
+        "1564787880142831738"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564786172935409806",
+          "escena": "x-1564782728141078691",
+          "fecha_utc": "2026-10-27T23:41:35.949000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564786172935409806"
+        },
+        {
+          "mensaje_id": "1564787880142831738",
+          "escena": "x-1564782728141078691",
+          "fecha_utc": "2026-10-27T23:48:22.979000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564787880142831738"
+        }
+      ]
+    },
+    {
+      "nombre": "Kurobane",
+      "alias": [
+        "Tezca"
+      ],
+      "nota": "Chani identifica expresamente ambos nombres al contar la historia de su amigo muerto. La identidad no se fusiona con personajes de Kuroto por nombre o jugador.",
+      "pruebas": [
+        "1566281530471616555"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1566281530471616555",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-11-01T02:43:36.968000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566281530471616555"
+        }
+      ]
+    },
+    {
+      "nombre": "Osurai",
+      "alias": [],
+      "nota": "Presencia que, según Chani, intentaba controlar a Tezca y llegó a hablar con ella; no aparece ahora en la base.",
+      "pruebas": [
+        "1566655604372545677"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1566655604372545677",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-11-02T03:30:03.136000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566655604372545677"
+        }
+      ]
+    },
+    {
+      "nombre": "Meztli",
+      "alias": [],
+      "nota": "Líder de Mo’ que recibe a Zoltan, demuestra su magia e interpreta los hallazgos tras leer su mente.",
+      "pruebas": [
+        "1564643579195039755",
+        "1564683414269984829"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564643579195039755",
+          "escena": "x-1564634323779321960",
+          "fecha_utc": "2026-10-27T14:14:58.952000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564643579195039755"
+        },
+        {
+          "mensaje_id": "1564683414269984829",
+          "escena": "x-1564634323779321960",
+          "fecha_utc": "2026-10-27T16:53:16.374000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564683414269984829"
+        }
+      ]
+    },
+    {
+      "nombre": "Khir",
+      "alias": [],
+      "nota": "Jefa del clan al que Ione ya pertenece; escucha su informe y la remite, junto a Nox, al conocimiento de Kaan. El nombre del clan de Khir no se explicita en este bloque.",
+      "pruebas": [
+        "1565063983776530493",
+        "1565089930546258062"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1565063983776530493",
+          "escena": "x-1565057934667415553",
+          "fecha_utc": "2026-10-28T18:05:31.215000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565063983776530493"
+        },
+        {
+          "mensaje_id": "1565089930546258062",
+          "escena": "x-1565057934667415553",
+          "fecha_utc": "2026-10-28T19:48:37.407000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565089930546258062"
+        }
+      ]
+    }
+  ],
+  "arcos": [
+    {
+      "nombre": "La base y la distribución de los Clanes Elementales",
+      "avance": "La base tiene salas propias para cada clan; algunas personas residen allí. Los murales reúnen creación, funciones y líderes. Arwen identifica Kaan y Balam como clanes de Tierra, dedicados respectivamente al conocimiento y el espionaje, y ofrece la asistencia de Aak a heridos y enfermos.",
+      "pruebas": [
+        "1562885651844694024",
+        "1564700805586616375",
+        "1564786866174173205",
+        "1564789060147347578",
+        "1565056011512057997"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1562885651844694024",
+          "escena": "x-1564634323779321960",
+          "fecha_utc": "2026-10-22T17:49:36.411000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1562885651844694024"
+        },
+        {
+          "mensaje_id": "1564700805586616375",
+          "escena": "x-1564690567965835406",
+          "fecha_utc": "2026-10-27T18:02:22.787000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564700805586616375"
+        },
+        {
+          "mensaje_id": "1564786866174173205",
+          "escena": "x-1564782728141078691",
+          "fecha_utc": "2026-10-27T23:44:21.230000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564786866174173205"
+        },
+        {
+          "mensaje_id": "1564789060147347578",
+          "escena": "x-1564782728141078691",
+          "fecha_utc": "2026-10-27T23:53:04.314000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564789060147347578"
+        },
+        {
+          "mensaje_id": "1565056011512057997",
+          "escena": "x-1564782728141078691",
+          "fecha_utc": "2026-10-28T17:33:50.479000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565056011512057997"
+        }
+      ]
+    },
+    {
+      "nombre": "Mo’ recibe el informe de Zoltan",
+      "avance": "Meztli encarga una botella y la recibe de Zoltan, que informa sobre Yoali, Nox y los Ojos. Tras la lectura mental, interpreta los Ojos como artefacto de resurrección de Sseth y la misión al Reino Lejano como búsqueda de una fuente de poder para impedirla. Zoltan pide respeto a su intimidad y comparte su amnesia.",
+      "pruebas": [
+        "1564643579195039755",
+        "1564665074214244386",
+        "1564683414269984829",
+        "1564684720753746081",
+        "1564689167173034086"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564643579195039755",
+          "escena": "x-1564634323779321960",
+          "fecha_utc": "2026-10-27T14:14:58.952000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564643579195039755"
+        },
+        {
+          "mensaje_id": "1564665074214244386",
+          "escena": "x-1564634323779321960",
+          "fecha_utc": "2026-10-27T15:40:23.764000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564665074214244386"
+        },
+        {
+          "mensaje_id": "1564683414269984829",
+          "escena": "x-1564634323779321960",
+          "fecha_utc": "2026-10-27T16:53:16.374000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564683414269984829"
+        },
+        {
+          "mensaje_id": "1564684720753746081",
+          "escena": "x-1564634323779321960",
+          "fecha_utc": "2026-10-27T16:58:27.864000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564684720753746081"
+        },
+        {
+          "mensaje_id": "1564689167173034086",
+          "escena": "x-1564634323779321960",
+          "fecha_utc": "2026-10-27T17:16:07.973000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564689167173034086"
+        }
+      ]
+    },
+    {
+      "nombre": "La estrategia de Nox ante los clanes",
+      "avance": "Nox comunica privadamente a Ione la intención de ganar información y rango y colocar a tripulantes en puestos altos. Promete a Chani seis o siete reclutas y recorre varios líderes; abandona la base para buscarlos en la taberna, sin que este hilo acredite su ingreso.",
+      "pruebas": [
+        "1564702096799047811",
+        "1564703789011701961",
+        "1564696347075026965",
+        "1565428340050108428",
+        "1565709935914909747"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564702096799047811",
+          "escena": "x-1564690567965835406",
+          "fecha_utc": "2026-10-27T18:07:30.636000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564702096799047811"
+        },
+        {
+          "mensaje_id": "1564703789011701961",
+          "escena": "x-1564690567965835406",
+          "fecha_utc": "2026-10-27T18:14:14.091000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564703789011701961"
+        },
+        {
+          "mensaje_id": "1564696347075026965",
+          "escena": "x-1564690567965835406",
+          "fecha_utc": "2026-10-27T17:44:39.795000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564696347075026965"
+        },
+        {
+          "mensaje_id": "1565428340050108428",
+          "escena": "x-1565288184290611351",
+          "fecha_utc": "2026-10-29T18:13:20.520000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565428340050108428"
+        },
+        {
+          "mensaje_id": "1565709935914909747",
+          "escena": "x-1565288184290611351",
+          "fecha_utc": "2026-10-30T12:52:18.206000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565709935914909747"
+        }
+      ]
+    },
+    {
+      "nombre": "La información y las cartas del Clan Balam",
+      "avance": "Four Robin recibe a Nox durante una partida que reserva a miembros de los clanes. Nox le ofrece una lectura del juego después de la intervención de Picks, pero no participa, cobra ni se muestra el resultado de la mano.",
+      "pruebas": [
+        "1565027286863061143",
+        "1565038313117716687",
+        "1565041631734792263",
+        "1565043160172855348"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1565027286863061143",
+          "escena": "x-1564782728141078691",
+          "fecha_utc": "2026-10-28T15:39:41.989000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565027286863061143"
+        },
+        {
+          "mensaje_id": "1565038313117716687",
+          "escena": "x-1564782728141078691",
+          "fecha_utc": "2026-10-28T16:23:30.853000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565038313117716687"
+        },
+        {
+          "mensaje_id": "1565041631734792263",
+          "escena": "x-1564782728141078691",
+          "fecha_utc": "2026-10-28T16:36:42.073000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565041631734792263"
+        },
+        {
+          "mensaje_id": "1565043160172855348",
+          "escena": "x-1564782728141078691",
+          "fecha_utc": "2026-10-28T16:42:46.481000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565043160172855348"
+        }
+      ]
+    },
+    {
+      "nombre": "Khir y la consulta histórica de Kaan",
+      "avance": "Ione entrega el informe sobre los Ojos y el regreso de Nox; él desconfía de apoyarse únicamente en la profecía y consigue la derivación a Kaan. Ayuda a Sylphara a encontrar un libro presuntamente maldito y recibe volúmenes sobre los yuan-ti y la historia insular. La lectura queda interrumpida sin conclusiones explícitas.",
+      "pruebas": [
+        "1565068483883176017",
+        "1565082580418830347",
+        "1565089930546258062",
+        "1565387987980783759",
+        "1565390709421379695",
+        "1565405730390024324"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1565068483883176017",
+          "escena": "x-1565057934667415553",
+          "fecha_utc": "2026-10-28T18:23:24.124000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565068483883176017"
+        },
+        {
+          "mensaje_id": "1565082580418830347",
+          "escena": "x-1565057934667415553",
+          "fecha_utc": "2026-10-28T19:19:25+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565082580418830347"
+        },
+        {
+          "mensaje_id": "1565089930546258062",
+          "escena": "x-1565057934667415553",
+          "fecha_utc": "2026-10-28T19:48:37.407000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565089930546258062"
+        },
+        {
+          "mensaje_id": "1565387987980783759",
+          "escena": "x-1565288184290611351",
+          "fecha_utc": "2026-10-29T15:32:59.837000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565387987980783759"
+        },
+        {
+          "mensaje_id": "1565390709421379695",
+          "escena": "x-1565288184290611351",
+          "fecha_utc": "2026-10-29T15:43:48.679000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565390709421379695"
+        },
+        {
+          "mensaje_id": "1565405730390024324",
+          "escena": "x-1565288184290611351",
+          "fecha_utc": "2026-10-29T16:43:29.957000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565405730390024324"
+        }
+      ]
+    },
+    {
+      "nombre": "Coliflor para Merendar",
+      "avance": "Sylphara busca el libro y atribuye a su interior una maldición; ordena no abrirlo. Nox y Picks lo localizan y lo entregan sin que se muestre la apertura o activación de esa amenaza.",
+      "pruebas": [
+        "1565387987980783759",
+        "1565390709421379695",
+        "1565393575821447351"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1565387987980783759",
+          "escena": "x-1565288184290611351",
+          "fecha_utc": "2026-10-29T15:32:59.837000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565387987980783759"
+        },
+        {
+          "mensaje_id": "1565390709421379695",
+          "escena": "x-1565288184290611351",
+          "fecha_utc": "2026-10-29T15:43:48.679000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565390709421379695"
+        },
+        {
+          "mensaje_id": "1565393575821447351",
+          "escena": "x-1565288184290611351",
+          "fecha_utc": "2026-10-29T15:55:12.082000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565393575821447351"
+        }
+      ]
+    },
+    {
+      "nombre": "La custodia de tres yuan-ti",
+      "avance": "Opi entrega tres cautivos que dice haber curado y protegido con medidas mágicas. Chani propone experimentar para descubrir debilidades, pero la objeción de Opi la lleva a prometer que no les hará daño. Los guarda en una esfera de raíces; el interrogatorio y el destino de los tres quedan fuera del cierre.",
+      "pruebas": [
+        "1566211516347318293",
+        "1566219549429465142",
+        "1566220599041335317",
+        "1566222155006611578",
+        "1566239213970661479"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1566211516347318293",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-10-31T22:05:24.300000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566211516347318293"
+        },
+        {
+          "mensaje_id": "1566219549429465142",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-10-31T22:37:19.536000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566219549429465142"
+        },
+        {
+          "mensaje_id": "1566220599041335317",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-10-31T22:41:29.783000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566220599041335317"
+        },
+        {
+          "mensaje_id": "1566222155006611578",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-10-31T22:47:40.754000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566222155006611578"
+        },
+        {
+          "mensaje_id": "1566239213970661479",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-10-31T23:55:27.928000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566239213970661479"
+        }
+      ]
+    },
+    {
+      "nombre": "El jardín y el licor de Chani",
+      "avance": "Chani cultiva un jardín con plantas de los lugares que marcaron su vida y prepara licor de hierbas de sabor amargo. Ofrece una bebida a Opi; la conversación sobre sus recuerdos acaba desplazando las preguntas de investigación.",
+      "pruebas": [
+        "1566235767183773737",
+        "1566244195545514045",
+        "1566256820035780819"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1566235767183773737",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-10-31T23:41:46.150000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566235767183773737"
+        },
+        {
+          "mensaje_id": "1566244195545514045",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-11-01T00:15:15.628000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566244195545514045"
+        },
+        {
+          "mensaje_id": "1566256820035780819",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-11-01T01:05:25.541000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566256820035780819"
+        }
+      ]
+    },
+    {
+      "nombre": "La piedra negra y el duelo de Chani",
+      "avance": "El colgante contiene, según Chani, cenizas de Kurobane/Tezca, que se sacrificó por sus amigos. Ella revela la presencia de Osurai, su último hechizo para permitirle regresar y una espera superior a dos siglos. Opi la acompaña sin prometer el retorno ni borrar su tristeza.",
+      "pruebas": [
+        "1566281530471616555",
+        "1566286873159012434",
+        "1566655604372545677",
+        "1566656921245716552",
+        "1566661008091643935"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1566281530471616555",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-11-01T02:43:36.968000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566281530471616555"
+        },
+        {
+          "mensaje_id": "1566286873159012434",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-11-01T03:04:50.764000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566286873159012434"
+        },
+        {
+          "mensaje_id": "1566655604372545677",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-11-02T03:30:03.136000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566655604372545677"
+        },
+        {
+          "mensaje_id": "1566656921245716552",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-11-02T03:35:17.103000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566656921245716552"
+        },
+        {
+          "mensaje_id": "1566661008091643935",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-11-02T03:51:31.483000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566661008091643935"
+        }
+      ]
+    }
+  ],
+  "pendientes": [
+    {
+      "pregunta": "¿Qué ocurrió con los recuerdos de Zoltan y qué contienen los huecos negros que percibe Meztli?",
+      "nota": "La lectura mental detecta lagunas, pero la conversación solo recoge el despertar de Zoltan entre caníbales y sus síntomas; no explica el origen.",
+      "pruebas": [
+        "1564683414269984829",
+        "1564684720753746081",
+        "1564689167173034086"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564683414269984829",
+          "escena": "x-1564634323779321960",
+          "fecha_utc": "2026-10-27T16:53:16.374000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564683414269984829"
+        },
+        {
+          "mensaje_id": "1564684720753746081",
+          "escena": "x-1564634323779321960",
+          "fecha_utc": "2026-10-27T16:58:27.864000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564684720753746081"
+        },
+        {
+          "mensaje_id": "1564689167173034086",
+          "escena": "x-1564634323779321960",
+          "fecha_utc": "2026-10-27T17:16:07.973000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564689167173034086"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Se incorporarán los muchachos de la tripulación al Clan Chik’in y qué puestos alcanzarán en los clanes?",
+      "nota": "Nox promete llevarlos, plantea en privado una estrategia de ascensos y parte a buscarlos. Este hilo no representa los ingresos ni los ascensos.",
+      "pruebas": [
+        "1564696347075026965",
+        "1564702096799047811",
+        "1565428340050108428",
+        "1565709935914909747"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564696347075026965",
+          "escena": "x-1564690567965835406",
+          "fecha_utc": "2026-10-27T17:44:39.795000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564696347075026965"
+        },
+        {
+          "mensaje_id": "1564702096799047811",
+          "escena": "x-1564690567965835406",
+          "fecha_utc": "2026-10-27T18:07:30.636000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564702096799047811"
+        },
+        {
+          "mensaje_id": "1565428340050108428",
+          "escena": "x-1565288184290611351",
+          "fecha_utc": "2026-10-29T18:13:20.520000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565428340050108428"
+        },
+        {
+          "mensaje_id": "1565709935914909747",
+          "escena": "x-1565288184290611351",
+          "fecha_utc": "2026-10-30T12:52:18.206000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565709935914909747"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué conclusiones obtiene Nox de los libros de Kaan sobre Sseth, Merrshaulk y el encierro de la muerte sibilante?",
+      "nota": "Se muestran temas y títulos, pero ninguna respuesta de los libros. Las historias de la biblioteca tienen fiabilidad desigual.",
+      "pruebas": [
+        "1565397987243331745",
+        "1565405730390024324",
+        "1565415868891144444"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1565397987243331745",
+          "escena": "x-1565288184290611351",
+          "fecha_utc": "2026-10-29T16:12:43.847000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565397987243331745"
+        },
+        {
+          "mensaje_id": "1565405730390024324",
+          "escena": "x-1565288184290611351",
+          "fecha_utc": "2026-10-29T16:43:29.957000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565405730390024324"
+        },
+        {
+          "mensaje_id": "1565415868891144444",
+          "escena": "x-1565288184290611351",
+          "fecha_utc": "2026-10-29T17:23:47.164000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565415868891144444"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué información aportará la sacerdotisa emplumada y qué sucederá con los tres yuan-ti cautivos?",
+      "nota": "Chani dice que siguen cotejando declaraciones con los escritos y remite a Sylphara. Promete no causar daño, pero el interrogatorio, la situación exacta de la sacerdotisa y el destino final de los tres cautivos no quedan resueltos.",
+      "pruebas": [
+        "1566238332076163224",
+        "1566239213970661479",
+        "1566244195545514045"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1566238332076163224",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-10-31T23:51:57.668000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566238332076163224"
+        },
+        {
+          "mensaje_id": "1566239213970661479",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-10-31T23:55:27.928000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566239213970661479"
+        },
+        {
+          "mensaje_id": "1566244195545514045",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-11-01T00:15:15.628000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566244195545514045"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Podrá regresar Kurobane/Tezca y qué efecto tiene todavía el último hechizo de Chani?",
+      "nota": "Chani lleva más de doscientos años esperando. Opi ofrece ayuda futura condicionada a su capacidad y a la voluntad del muerto, sin prometer ni representar una resurrección.",
+      "pruebas": [
+        "1566286873159012434",
+        "1566655604372545677",
+        "1566656921245716552",
+        "1566658409284239504"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1566286873159012434",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-11-01T03:04:50.764000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566286873159012434"
+        },
+        {
+          "mensaje_id": "1566655604372545677",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-11-02T03:30:03.136000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566655604372545677"
+        },
+        {
+          "mensaje_id": "1566656921245716552",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-11-02T03:35:17.103000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566656921245716552"
+        },
+        {
+          "mensaje_id": "1566658409284239504",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-11-02T03:41:11.879000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566658409284239504"
+        }
+      ]
+    }
+  ],
+  "relaciones": [
+    {
+      "personas": [
+        "Zoltan",
+        "Meztli"
+      ],
+      "desarrollo": "El nuevo miembro de Mo’ pasa de desafiar en broma a su líder a entregarle vino e informar. La intrusión mental provoca una protesta por la intimidad, seguida de una conversación más cordial sobre la amnesia de él.",
+      "pruebas": [
+        "1564643579195039755",
+        "1564665074214244386",
+        "1564684720753746081",
+        "1564689167173034086"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564643579195039755",
+          "escena": "x-1564634323779321960",
+          "fecha_utc": "2026-10-27T14:14:58.952000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564643579195039755"
+        },
+        {
+          "mensaje_id": "1564665074214244386",
+          "escena": "x-1564634323779321960",
+          "fecha_utc": "2026-10-27T15:40:23.764000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564665074214244386"
+        },
+        {
+          "mensaje_id": "1564684720753746081",
+          "escena": "x-1564634323779321960",
+          "fecha_utc": "2026-10-27T16:58:27.864000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564684720753746081"
+        },
+        {
+          "mensaje_id": "1564689167173034086",
+          "escena": "x-1564634323779321960",
+          "fecha_utc": "2026-10-27T17:16:07.973000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564689167173034086"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Nox",
+        "Ione"
+      ],
+      "desarrollo": "Los camaradas se comunican privadamente mientras recaban información. Nox propone ascensos para la tripulación e Ione acepta intentarlo, aunque teme que provoque problemas con los aliados de los que dependen.",
+      "pruebas": [
+        "1564694526566604821",
+        "1564702096799047811",
+        "1564702618650152971"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564694526566604821",
+          "escena": "x-1564690567965835406",
+          "fecha_utc": "2026-10-27T17:37:25.752000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564694526566604821"
+        },
+        {
+          "mensaje_id": "1564702096799047811",
+          "escena": "x-1564690567965835406",
+          "fecha_utc": "2026-10-27T18:07:30.636000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564702096799047811"
+        },
+        {
+          "mensaje_id": "1564702618650152971",
+          "escena": "x-1564690567965835406",
+          "fecha_utc": "2026-10-27T18:09:35.055000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564702618650152971"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Nox",
+        "Chanecuxtli"
+      ],
+      "desarrollo": "Chani confía en la promesa de nuevos miembros; Nox usa esa relación para acceder al entorno de los líderes y reitera que irá a buscar a los muchachos. Tras un incidente con su forma de mariquita, él se disculpa y ella lo perdona.",
+      "pruebas": [
+        "1564696347075026965",
+        "1565417927052632107",
+        "1565418651664781546",
+        "1565419535929049211",
+        "1565428340050108428"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564696347075026965",
+          "escena": "x-1564690567965835406",
+          "fecha_utc": "2026-10-27T17:44:39.795000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564696347075026965"
+        },
+        {
+          "mensaje_id": "1565417927052632107",
+          "escena": "x-1565288184290611351",
+          "fecha_utc": "2026-10-29T17:31:57.868000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565417927052632107"
+        },
+        {
+          "mensaje_id": "1565418651664781546",
+          "escena": "x-1565288184290611351",
+          "fecha_utc": "2026-10-29T17:34:50.629000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565418651664781546"
+        },
+        {
+          "mensaje_id": "1565419535929049211",
+          "escena": "x-1565288184290611351",
+          "fecha_utc": "2026-10-29T17:38:21.454000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565419535929049211"
+        },
+        {
+          "mensaje_id": "1565428340050108428",
+          "escena": "x-1565288184290611351",
+          "fecha_utc": "2026-10-29T18:13:20.520000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565428340050108428"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Arwen",
+        "Chanecuxtli",
+        "Vak"
+      ],
+      "desarrollo": "Arwen y Chani recuerdan experiencias compartidas y tratan a Vak con una familiaridad que él vive como amenaza; se esconde tras los candados para evitar sus juegos.",
+      "pruebas": [
+        "1564703112726446191",
+        "1564725373693071431",
+        "1564727630962626681",
+        "1564731795029626941"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564703112726446191",
+          "escena": "x-1564690567965835406",
+          "fecha_utc": "2026-10-27T18:11:32.852000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564703112726446191"
+        },
+        {
+          "mensaje_id": "1564725373693071431",
+          "escena": "x-1564690567965835406",
+          "fecha_utc": "2026-10-27T19:40:00.280000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564725373693071431"
+        },
+        {
+          "mensaje_id": "1564727630962626681",
+          "escena": "x-1564690567965835406",
+          "fecha_utc": "2026-10-27T19:48:58.455000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564727630962626681"
+        },
+        {
+          "mensaje_id": "1564731795029626941",
+          "escena": "x-1564690567965835406",
+          "fecha_utc": "2026-10-27T20:05:31.246000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564731795029626941"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Ione",
+        "Khir"
+      ],
+      "desarrollo": "Ione actúa como nueva integrante e informa a su jefa; Khir reconoce el servicio, pero insiste en exigencias de higiene y distancia.",
+      "pruebas": [
+        "1565063983776530493",
+        "1565067387143983189",
+        "1565081161716338801"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1565063983776530493",
+          "escena": "x-1565057934667415553",
+          "fecha_utc": "2026-10-28T18:05:31.215000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565063983776530493"
+        },
+        {
+          "mensaje_id": "1565067387143983189",
+          "escena": "x-1565057934667415553",
+          "fecha_utc": "2026-10-28T18:19:02.641000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565067387143983189"
+        },
+        {
+          "mensaje_id": "1565081161716338801",
+          "escena": "x-1565057934667415553",
+          "fecha_utc": "2026-10-28T19:13:46.755000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565081161716338801"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Nox",
+        "Sylphara"
+      ],
+      "desarrollo": "La colaboración de Nox en la búsqueda de un libro abre una relación basada en el interés compartido por el conocimiento; ella le facilita fuentes para su investigación.",
+      "pruebas": [
+        "1565369701998133423",
+        "1565390709421379695",
+        "1565393575821447351",
+        "1565405730390024324"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1565369701998133423",
+          "escena": "x-1565288184290611351",
+          "fecha_utc": "2026-10-29T14:20:20.119000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565369701998133423"
+        },
+        {
+          "mensaje_id": "1565390709421379695",
+          "escena": "x-1565288184290611351",
+          "fecha_utc": "2026-10-29T15:43:48.679000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565390709421379695"
+        },
+        {
+          "mensaje_id": "1565393575821447351",
+          "escena": "x-1565288184290611351",
+          "fecha_utc": "2026-10-29T15:55:12.082000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565393575821447351"
+        },
+        {
+          "mensaje_id": "1565405730390024324",
+          "escena": "x-1565288184290611351",
+          "fecha_utc": "2026-10-29T16:43:29.957000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565405730390024324"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Opi",
+        "Chanecuxtli"
+      ],
+      "desarrollo": "Opi pone un límite al trato de los cautivos y consigue la promesa de no dañarlos. Después aprende a escucharla sin abrumarla y la acompaña en su duelo con un abrazo, sin ofrecer certezas falsas sobre el regreso de Tezca.",
+      "pruebas": [
+        "1566222155006611578",
+        "1566239213970661479",
+        "1566261500425936897",
+        "1566658409284239504",
+        "1566661008091643935"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1566222155006611578",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-10-31T22:47:40.754000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566222155006611578"
+        },
+        {
+          "mensaje_id": "1566239213970661479",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-10-31T23:55:27.928000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566239213970661479"
+        },
+        {
+          "mensaje_id": "1566261500425936897",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-11-01T01:24:01.433000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566261500425936897"
+        },
+        {
+          "mensaje_id": "1566658409284239504",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-11-02T03:41:11.879000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566658409284239504"
+        },
+        {
+          "mensaje_id": "1566661008091643935",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-11-02T03:51:31.483000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566661008091643935"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Chanecuxtli",
+        "Kurobane"
+      ],
+      "desarrollo": "Chani relata que compartió la intimidad y el dolor de Tezca, conserva una piedra con sus cenizas y sigue esperando su retorno tras más de doscientos años. La relación se conoce retrospectivamente por su testimonio.",
+      "pruebas": [
+        "1566281530471616555",
+        "1566652874409123931",
+        "1566655604372545677",
+        "1566656921245716552"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1566281530471616555",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-11-01T02:43:36.968000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566281530471616555"
+        },
+        {
+          "mensaje_id": "1566652874409123931",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-11-02T03:19:12.262000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566652874409123931"
+        },
+        {
+          "mensaje_id": "1566655604372545677",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-11-02T03:30:03.136000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566655604372545677"
+        },
+        {
+          "mensaje_id": "1566656921245716552",
+          "escena": "x-1566211516347318293",
+          "fecha_utc": "2026-11-02T03:35:17.103000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566656921245716552"
+        }
+      ]
+    }
+  ],
+  "precauciones_editoriales": [
+    "Todos los originales de este informe pertenecen a Xoltacan. Los recuerdos y títulos ligados a Kuroto no justifican reescribir sus identidades o hechos.",
+    "Los planes de Nox compartidos por mensaje con Ione y los pensamientos interiores de otros personajes mantienen su alcance privado.",
+    "La recitación vacilante de la profecía por Zoltan no sustituye al texto de una fuente completa de la profecía.",
+    "Las preguntas de los títulos de libros no se convierten en respuestas, ni el acceso a la biblioteca en una lectura concluida de sus volúmenes.",
+    "Las bromas sobre plantar a Patata no se convierten en una acción realizada ni acreditan cultivos de personas.",
+    "Las propuestas de resurrección y las promesas de reclutamiento o trato a prisioneros conservan su condición de intenciones sin desenlace representado."
+  ],
+  "unidades_leidas": 1,
+  "estado_seguimiento": "al_cierre_del_hilo",
+  "nota_seguimiento": "Cada cuestión conserva el contexto de sus mensajes originales. Los cotejos enlazan las respuestas halladas en otras escenas; la ausencia de un cotejo no demuestra que siga abierta después de otros capítulos.",
+  "fecha_hasta_utc": "2026-11-02T03:51:31.483000+00:00"
+}

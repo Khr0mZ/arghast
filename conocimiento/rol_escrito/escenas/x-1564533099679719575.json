@@ -1,0 +1,70 @@
+{
+  "id": "x-1564533099679719575",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1564533099679719575",
+  "hilo_id": "1558234683177963582",
+  "hilo_nombre": "Tutucan - La ciudad de los Elementos",
+  "titulo": "Nistra reconoce que Amaru encierra algo más que un nombre",
+  "resumen": "El cotilleo de Tsugami llega a Nistra y Dimleila; la drow reconoce la palabra, pero no llega a explicar qué significa.",
+  "relato": "A la mañana siguiente Tsugami sigue contando a sus clientes lo sucedido con los piratas, el olor de la taberna y los abrazos de la noche anterior. Interpreta mal los vínculos entre los presentes y convierte la relación de Citlali y Nox en un cotilleo sentimental. Dimleila consigue apartarla un momento pagando más comida, y habla en infracomún con Nistra, cansada de la charla y desconcertada por el nombre Amaru.\n\nLa drow está absorta en sus propios recuerdos. Cuando Dimleila le toca el brazo para hacerla reaccionar, Nistra la mira de tal manera que la duergar retira la mano inmediatamente. La palabra sí ha despertado algo: Nistra se pregunta de qué le suena y concluye que, sea lo que sea, no es un nombre. La escena termina sin que revele a qué la asocia ni que Nox o Citlali escuchen esa observación.",
+  "participantes": [
+    "Tsugami",
+    "Nistra",
+    "Dimleila"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1564533099679719575",
+      "afirmacion": "Dimleila y Nistra hablan en infracomún y Nistra dice que Amaru no es un nombre, sin explicar su significado.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "La interpretación romántica de Tsugami es cotilleo y contradice el contexto familiar de la escena anterior.",
+    "El posible significado de Amaru solo se enuncia ante Dimleila; no pasa a ser conocimiento de Nox ni de Citlali."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-10-27T06:55:58.583000+00:00",
+  "fin_utc": "2026-10-27T06:55:58.583000+00:00",
+  "fecha_local": "2026-10-27",
+  "intervalo": {
+    "anterior": 72,
+    "siguiente": null,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236",
+    "siguiente_fuente": null,
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 72,
+        "fecha": "2026-10-16",
+        "inicio_referencia_utc": "2026-10-16T18:28:13+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1564533099679719575",
+      "fecha_utc": "2026-10-27T06:55:58.583000+00:00",
+      "fecha_local": "2026-10-27",
+      "editado_utc": "2026-10-27T07:28:49.803000+00:00",
+      "texto": "Tsugami: Pues lo que te digo, han entrado por esa puerta y olían fatal. ¡Era horrible! **La tabernera seguía dándoles la chapa a un grupo de clientes, sin que pareciera importarle si tenían ganas de escucharla o no.** Y encima, la guarra esa se puso a toquetear al pobre chaval al que le regalé la vestimenta... **Puso los ojos en blanco, indignada.** Sí, sí, la que te he contado antes. La que llamaba Amaru al apestoso ese y a la que él no paraba de decirle que se callara. Yo creo que son novios... ¡Pero luego va la puerca y se tira a los brazos del otro muchacho! <@408026114548695061> **El tintineo de unas monedas al caer sobre la mesa interrumpió su relato. Tsugami bajó la mirada hacia el dinero y, de inmediato, cambió de actitud.** ¡Ay, sí, por supuesto! Ahora os traigo algo más de comer.\n\nDimleila: **Esperó a que la tabernera se alejara hacia la barra, contando las monedas, antes de inclinarse hacia su compañera y hablarle en infracomún.** Por las horribles patas de Lolth, esa mujer no se calla ni debajo del agua... Es peor que una matrona en celo. Y ni siquiera entiendo la mitad de las cosas que dice. **Frunció el ceño, todavía desconcertada.** ¿Qué clase de nombre es Amaru?\n\nNistra: **No respondió de inmediato. Llevaba un rato perdida en sus propios recuerdos, tan absorta en ellos que apenas parecía consciente de lo que sucedía a su alrededor.**\n**Solo volvió en sí cuando Dimleila le tocó el brazo para llamar su atención.**\n**La reacción de la drow fue instantánea. Clavó en la duergar una mirada tan fulminante que esta retiró la mano de inmediato. La expresión de horror que se dibujó en el rostro de Dimleila dejaba bastante claro que había comprendido el mensaje: a Nistra no se la tocaba sin su permiso.** De que me suena Amaru... **Murmuró en infracomún, con la mirada perdida.** Sea lo que sea... No es un nombre... <@616683133374562304> \n\n🔴Fin de la escena 🔴",
+      "mensaje_sha256": "d0575f4005586345e26528cc5c4f2a92a3aab2a169f438cb148ee4d069c5b495",
+      "texto_sha256": "4a9c4582e29b3f10b3e032f7139dcaa6cfcf22b10a38676184cda89c554f7fe2",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564533099679719575",
+      "adjuntos": []
+    }
+  ]
+}

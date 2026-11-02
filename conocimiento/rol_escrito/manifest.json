@@ -1525,36 +1525,128 @@
       "id": "x-1561659442070560880",
       "archivo": "escenas/x-1561659442070560880.json",
       "sha256": "13a98a7bb7e312ebd3b406f83d7e43d61c7c7cb61b618b19f75f9c115476d966"
+    },
+    {
+      "id": "x-1562833905764278313",
+      "archivo": "escenas/x-1562833905764278313.json",
+      "sha256": "f759b4ac89bc638c8e0fe590a23b40e7716bd66c8da92aabfe93a529af21dcd3"
+    },
+    {
+      "id": "x-1563508720795783360",
+      "archivo": "escenas/x-1563508720795783360.json",
+      "sha256": "28db2ab1e86d91382ef01c0d10ab50ab6ae5c5f19b6bc892899efe76e7682c3b"
+    },
+    {
+      "id": "x-1563959420193480704",
+      "archivo": "escenas/x-1563959420193480704.json",
+      "sha256": "9568212570dd3c4dba6631dce32e3cc336628bf0945c351478e6db0a2ab10d5f"
+    },
+    {
+      "id": "x-1563962289487347962",
+      "archivo": "escenas/x-1563962289487347962.json",
+      "sha256": "cfbd81c2b43208f2480e289e74936d3c77832b56908cbac933519ad3a2a91d13"
+    },
+    {
+      "id": "x-1563965482334158929",
+      "archivo": "escenas/x-1563965482334158929.json",
+      "sha256": "a498ca2adab543c7efb4193db9a45a84230e864c7378d37f512dee0feed50f5d"
+    },
+    {
+      "id": "x-1564254792304304229",
+      "archivo": "escenas/x-1564254792304304229.json",
+      "sha256": "b2da6286061c85822075c962322c1ea2db01d2a102d88502ebe88633ca53dd2c"
+    },
+    {
+      "id": "x-1564350433743601665",
+      "archivo": "escenas/x-1564350433743601665.json",
+      "sha256": "9284c1b1e35b5121747693b273d19cf4c743a477605ce4fe922ad9d4951cc13b"
+    },
+    {
+      "id": "x-1564398743661453384",
+      "archivo": "escenas/x-1564398743661453384.json",
+      "sha256": "e7e05cfff22e8647f2ddb5c70f8bfc4d08c3f9f7127c3ae9efc5612c4c96b11c"
+    },
+    {
+      "id": "x-1564533099679719575",
+      "archivo": "escenas/x-1564533099679719575.json",
+      "sha256": "6c855afeb8133b2e651c30e97443b748e31b124473c3d1819c055478be70e546"
+    },
+    {
+      "id": "x-1564561375844368386",
+      "archivo": "escenas/x-1564561375844368386.json",
+      "sha256": "b27549580674f7ab16d03173ca9723205b687d262225248c496cddedb6f86757"
+    },
+    {
+      "id": "x-1564634323779321960",
+      "archivo": "escenas/x-1564634323779321960.json",
+      "sha256": "2e3581f9d45648098d165d57b158b6088a344b9c95b175514f13ba4414a9c067"
+    },
+    {
+      "id": "x-1564671654599065621",
+      "archivo": "escenas/x-1564671654599065621.json",
+      "sha256": "ce9ebe9d150f6d4f87246155ffc238cbbfdfa9da6dd3afb28bd0fc4af0483f70"
+    },
+    {
+      "id": "x-1564690567965835406",
+      "archivo": "escenas/x-1564690567965835406.json",
+      "sha256": "0be260749a944d7ce7d52bb5d8c041f5c86bbca42089d97ae83d3345c886715e"
+    },
+    {
+      "id": "x-1564782728141078691",
+      "archivo": "escenas/x-1564782728141078691.json",
+      "sha256": "2db4b7073117e5c64193f809cacbce104dde794b551a1421834b236facd51abd"
+    },
+    {
+      "id": "x-1565057934667415553",
+      "archivo": "escenas/x-1565057934667415553.json",
+      "sha256": "a04f3550bd3ebdfed9cb15f37df17e317d016472b93a956e53513ef748437975"
+    },
+    {
+      "id": "x-1565069308265242697",
+      "archivo": "escenas/x-1565069308265242697.json",
+      "sha256": "0fb0b9c9efc1a84966f8c7a6ce752b919ecc3b5182dac6fe26dfeccfcf3f9e35"
+    },
+    {
+      "id": "x-1565288184290611351",
+      "archivo": "escenas/x-1565288184290611351.json",
+      "sha256": "0e3b4fc95807fb9817b66244d3c88c64d1e98148d7807cd091c8fc0148983c37"
+    },
+    {
+      "id": "x-1565719701248544955",
+      "archivo": "escenas/x-1565719701248544955.json",
+      "sha256": "9820c214fad770d00d6a91e2fafb69f10f0d2ca196af8d403717ca1d2b102fd2"
+    },
+    {
+      "id": "x-1566151881695174838",
+      "archivo": "escenas/x-1566151881695174838.json",
+      "sha256": "976687331040a4197bccb3c9b9e42ab8b625fa4f810f197f2def5b93a6967e1a"
+    },
+    {
+      "id": "x-1566211516347318293",
+      "archivo": "escenas/x-1566211516347318293.json",
+      "sha256": "885a8796389079c362d1fab003b8f46ef354ae2e028746b9a50f9f09945082c7"
     }
   ],
   "estadisticas": {
-    "escenas": 304,
-    "unidades_leidas": 244,
-    "mensajes_en_escenas": 6241,
-    "mensajes_originales": 6243,
-    "adjuntos_en_escenas": 65,
+    "escenas": 324,
+    "unidades_leidas": 248,
+    "mensajes_en_escenas": 6717,
+    "mensajes_originales": 6719,
+    "adjuntos_en_escenas": 75,
     "notas_de_voz": 17
   },
   "integracion_hilos": [
     {
       "archivo": "integracion/1465410265544921190.json",
-      "sha256": "a305fc26399ab00a8040ae006bad5d1a89e3d0637d9ea33c0b642eb04dc0c308"
+      "sha256": "d849c13f5ec2c66f84d2408e25fe862ad98755417dee88eda3a5e84ef4ec6cbc"
+    },
+    {
+      "archivo": "integracion/1465411590789795962.json",
+      "sha256": "6c3310542258399dabe1350751626ef143f774e1c1d33480a211974e7a8184cb"
     },
     {
       "archivo": "integracion/1481938373894738061.json",
       "sha256": "c42827cbf9c233cee88d57bcc6d5690beb8a79ac03b962833ad20d19fe18bef1"
-    },
-    {
-      "archivo": "integracion/1502317868253970632.json",
-      "sha256": "84a58ccf9e09c63278fa8307e85f29313d2be5f710b0e7210372acd6f97b862e"
-    },
-    {
-      "archivo": "integracion/1558234683177963582.json",
-      "sha256": "e85ebe9b54cbe2314fd61489688e1db35dcd41179fa1bc39117217813c8195c0"
-    },
-    {
-      "archivo": "integracion/1465411590789795962.json",
-      "sha256": "a6eeb848fcf21e18847e1a9280dff0b6eb6af77ef7ffa054c162a76433b72542"
     },
     {
       "archivo": "integracion/1482149664131383316.json",
@@ -1565,12 +1657,32 @@
       "sha256": "73f46bb3ca4328f3909e83d290d2736e1d0a7b028a99609d0f23d7d831acfede"
     },
     {
+      "archivo": "integracion/1502317868253970632.json",
+      "sha256": "84a58ccf9e09c63278fa8307e85f29313d2be5f710b0e7210372acd6f97b862e"
+    },
+    {
       "archivo": "integracion/1504602363728756846.json",
-      "sha256": "055ba67fbe2e4de3a3d77b6b95a8c1c8fd0da22a05038ab9d5c0f5c621d54d65"
+      "sha256": "880ae33d7ef8b0b8c750f5d9f8a3088dc963c217065094ea3023096514f786c6"
     },
     {
       "archivo": "integracion/1524091803647741996.json",
-      "sha256": "ba2118e1e1c14cf9772c7f5107b3baf42c4ec8903c0bcda0e487ee86f4a01bc7"
+      "sha256": "24458fde4568b21050474d40f97b90a03fab417f1952b6a45468380986b3f0a2"
+    },
+    {
+      "archivo": "integracion/1558234683177963582.json",
+      "sha256": "64a18a870cfeb7ea1fb6b639a19461d9cfb34ca9b6818af3e3726907b6742ad8"
+    },
+    {
+      "archivo": "integracion/1562885651844694024.json",
+      "sha256": "f53f0cd69e7b6d0d8d056399d542a1e0200be756baf2a04220a1da44b53be4c1"
+    },
+    {
+      "archivo": "integracion/1563959420193480704.json",
+      "sha256": "caee100a385e084caef931a42e4e9923f7b3b2eb9dc880094ece24dc6d7ae39a"
+    },
+    {
+      "archivo": "integracion/1563962289487347962.json",
+      "sha256": "4d3f0f5b26b568920574012587a29017209bf0b8254462c128bde1d2cd7e72c8"
     }
   ],
   "excluidos_no_narrativos": [
@@ -2149,6 +2261,68 @@
       "hilo": "1465405184028180794",
       "motivo": "Reglas del formato, no interacción narrativa",
       "mensajes": 2
+    }
+  ],
+  "incrementos_revisados": [
+    {
+      "sincronizacion_sha256": "0455228dae0df15a1e3826a5d44947e4e77d6aebeec077e1569439dc3bc9b5c5",
+      "descargado_utc": "2026-11-02T15:42:36.570797+00:00",
+      "nuevos_mensajes": 476,
+      "revision_completa": true,
+      "hilos": [
+        {
+          "hilo_id": "1558234683177963582",
+          "mensajes": 181,
+          "escenas": 9,
+          "partes_leidas": 5,
+          "imagenes_vistas": [
+            "1563967542244933832",
+            "1564061457497194717"
+          ],
+          "ficha_sha256": "fd44e01a573a2d0f37a4e70b19f6cadcc09d645eb6678d395b51db0d93ead735"
+        },
+        {
+          "hilo_id": "1562885651844694024",
+          "mensajes": 192,
+          "escenas": 6,
+          "partes_leidas": 4,
+          "imagenes_vistas": [
+            "1562885653362909265",
+            "1565027285898100746",
+            "1566281530043531385"
+          ],
+          "ficha_sha256": "9170165ee8350f5bb3e943eddbacc4f43522c5170bfc2d2d64ce7576d7b77158"
+        },
+        {
+          "hilo_id": "1563959420193480704",
+          "mensajes": 102,
+          "escenas": 4,
+          "partes_leidas": 3,
+          "imagenes_vistas": [
+            "1563959420659040346",
+            "1564032378563858432",
+            "1564671740599205918"
+          ],
+          "ficha_sha256": "ac79574b162a463cf37a451f441a5af2ed00766c832d86ba0fbcf027534c53cd"
+        },
+        {
+          "hilo_id": "1563962289487347962",
+          "mensajes": 1,
+          "escenas": 1,
+          "partes_leidas": 1,
+          "imagenes_vistas": [
+            "1563962290158698526"
+          ],
+          "ficha_sha256": "83c44932dca14caa1196af449cf9a880a283b247f8198315ff3863a9ad241343"
+        }
+      ],
+      "audio_adjuntos": [
+        {
+          "adjunto_id": "1564060660017402018",
+          "duracion_segundos": 246.9333125,
+          "nota": "Audio original conservado. El reconocimiento automático no proporciona una transcripción de habla fiable; no se atribuyen palabras a personajes."
+        }
+      ]
     }
   ]
 }

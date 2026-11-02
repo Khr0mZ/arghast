@@ -2245,42 +2245,89 @@
       ],
       "cotejo_posterior": {
         "estado": "parcial",
-        "respuesta": "En Fuerte Aurora, Citlali cuenta que salvó a un niño al que llamó Amaru y reconoce a Jim; Nox duda de esa identificación en un pensamiento privado. En Jungla, Citlali explica que fue su hijo adoptivo. La relación queda acreditada como su testimonio explícito, con la duda de Nox conservada.",
-        "pendiente": "No se convierte ese relato en parentesco biológico ni en corroboración externa de todos los recuerdos. Lo que sabía Bones no queda íntegramente aclarado.",
+        "respuesta": "Citlali declara haber rescatado al bebé de quienes buscaban usar su sangre y haberlo ocultado en el cofre. La nana provoca en Nox una visión propia de la huida por la selva, el templo y la mujer que lo abriga antes de cerrarlo. Él confirma que Bones lo encontró en el cofre y lo crio, y más tarde agradece a Citlali haberle dado aquella oportunidad para vivir. Ella vincula el tatuaje de su frente con la muerte de Nox.",
+        "pendiente": "La filiación biológica no queda establecida. El motivo y el funcionamiento completo de las marcas, lo que sabía Bones y las circunstancias del regreso de Nox siguen sin una explicación comprobada. El pensamiento final de Nox sobre su madre es privado.",
         "pruebas": [
-          "1514040036704649306",
-          "1514049003828936824",
-          "1514051269218533497",
-          "1530706825903865968"
+          "1564414134680952953",
+          "1564425592500260917",
+          "1566184381415161908",
+          "1566186066782855241",
+          "1566208675121598549"
         ],
-        "orden_temporal": "posterior",
         "fuentes_rol": [
           {
-            "mensaje_id": "1514040036704649306",
-            "escena": "x-1513583476257984624",
-            "fecha_utc": "2026-06-09T22:54:34.254000+00:00",
-            "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1514040036704649306"
+            "mensaje_id": "1564414134680952953",
+            "escena": "x-1564398743661453384",
+            "fecha_utc": "2026-10-26T23:03:15.117000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564414134680952953"
           },
           {
-            "mensaje_id": "1514049003828936824",
-            "escena": "x-1513583476257984624",
-            "fecha_utc": "2026-06-09T23:30:12.183000+00:00",
-            "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1514049003828936824"
+            "mensaje_id": "1564425592500260917",
+            "escena": "x-1564398743661453384",
+            "fecha_utc": "2026-10-26T23:48:46.874000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564425592500260917"
           },
           {
-            "mensaje_id": "1514051269218533497",
-            "escena": "x-1513583476257984624",
-            "fecha_utc": "2026-06-09T23:39:12.294000+00:00",
-            "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1514051269218533497"
+            "mensaje_id": "1566184381415161908",
+            "escena": "x-1566151881695174838",
+            "fecha_utc": "2026-10-31T20:17:34.828000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566184381415161908"
           },
           {
-            "mensaje_id": "1530706825903865968",
-            "escena": "x-1530644840214429887",
-            "fecha_utc": "2026-07-25T22:42:26.453000+00:00",
-            "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1530706825903865968"
+            "mensaje_id": "1566186066782855241",
+            "escena": "x-1566151881695174838",
+            "fecha_utc": "2026-10-31T20:24:16.651000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566186066782855241"
+          },
+          {
+            "mensaje_id": "1566208675121598549",
+            "escena": "x-1566151881695174838",
+            "fecha_utc": "2026-10-31T21:54:06.899000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566208675121598549"
           }
-        ]
-      }
+        ],
+        "orden_temporal": "posterior"
+      },
+      "historial_cotejos": [
+        {
+          "estado": "parcial",
+          "respuesta": "En Fuerte Aurora, Citlali cuenta que salvó a un niño al que llamó Amaru y reconoce a Jim; Nox duda de esa identificación en un pensamiento privado. En Jungla, Citlali explica que fue su hijo adoptivo. La relación queda acreditada como su testimonio explícito, con la duda de Nox conservada.",
+          "pendiente": "No se convierte ese relato en parentesco biológico ni en corroboración externa de todos los recuerdos. Lo que sabía Bones no queda íntegramente aclarado.",
+          "pruebas": [
+            "1514040036704649306",
+            "1514049003828936824",
+            "1514051269218533497",
+            "1530706825903865968"
+          ],
+          "orden_temporal": "posterior",
+          "fuentes_rol": [
+            {
+              "mensaje_id": "1514040036704649306",
+              "escena": "x-1513583476257984624",
+              "fecha_utc": "2026-06-09T22:54:34.254000+00:00",
+              "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1514040036704649306"
+            },
+            {
+              "mensaje_id": "1514049003828936824",
+              "escena": "x-1513583476257984624",
+              "fecha_utc": "2026-06-09T23:30:12.183000+00:00",
+              "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1514049003828936824"
+            },
+            {
+              "mensaje_id": "1514051269218533497",
+              "escena": "x-1513583476257984624",
+              "fecha_utc": "2026-06-09T23:39:12.294000+00:00",
+              "url_discord": "https://discord.com/channels/946724148628041748/1481938373894738061/1514051269218533497"
+            },
+            {
+              "mensaje_id": "1530706825903865968",
+              "escena": "x-1530644840214429887",
+              "fecha_utc": "2026-07-25T22:42:26.453000+00:00",
+              "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1530706825903865968"
+            }
+          ]
+        }
+      ]
     },
     {
       "pregunta": "¿Qué dicen los párrafos restantes de los tatuajes, quién los originó y a qué sendero conduce la traducción parcial?",
@@ -2922,7 +2969,45 @@
           "fecha_utc": "2026-06-02T22:05:35.223000+00:00",
           "url_discord": "https://discord.com/channels/946724148628041748/1465410265544921190/1511490994456236043"
         }
-      ]
+      ],
+      "cotejo_posterior": {
+        "estado": "parcial",
+        "respuesta": "Ione admite que lo echó de menos, Nox la abraza y se disculpa, y ambos vuelven a actuar juntos. Él la llama capitana y le pide reunir al grupo para hablar.",
+        "pendiente": "El hilo no restituye expresamente su cargo de segundo ni desarrolla toda la reconciliación pendiente.",
+        "pruebas": [
+          "1564058180000940053",
+          "1564059503635337478",
+          "1564061594324041739",
+          "1564063022555729992"
+        ],
+        "fuentes_rol": [
+          {
+            "mensaje_id": "1564058180000940053",
+            "escena": "x-1563959420193480704",
+            "fecha_utc": "2026-10-25T23:28:48.908000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564058180000940053"
+          },
+          {
+            "mensaje_id": "1564059503635337478",
+            "escena": "x-1563959420193480704",
+            "fecha_utc": "2026-10-25T23:34:04.487000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564059503635337478"
+          },
+          {
+            "mensaje_id": "1564061594324041739",
+            "escena": "x-1563959420193480704",
+            "fecha_utc": "2026-10-25T23:42:22.946000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564061594324041739"
+          },
+          {
+            "mensaje_id": "1564063022555729992",
+            "escena": "x-1563959420193480704",
+            "fecha_utc": "2026-10-25T23:48:03.463000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564063022555729992"
+          }
+        ],
+        "orden_temporal": "posterior"
+      }
     },
     {
       "pruebas": [

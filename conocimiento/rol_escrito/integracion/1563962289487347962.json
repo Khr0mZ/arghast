@@ -1,0 +1,53 @@
+{
+  "hilo_id": "1563962289487347962",
+  "hilo": "Templo Elemental - La ciudad de los Elementos",
+  "campana": "xoltacan",
+  "alcance": "Lectura íntegra de la única presentación del hilo y del plano adjunto del Templo Elemental.",
+  "identidades": [
+    {
+      "nombre": "Templo Elemental",
+      "alias": [
+        "Templo de Tutucan"
+      ],
+      "nota": "Lugar presentado como residencia de los líderes de cada clan y concentración del poder de la isla. No se nombra a ningún líder concreto.",
+      "pruebas": [
+        "1563962289487347962"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1563962289487347962",
+          "escena": "x-1563962289487347962",
+          "fecha_utc": "2026-10-25T17:07:46.828000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563962289487347962/1563962289487347962"
+        }
+      ]
+    }
+  ],
+  "arcos": [
+    {
+      "nombre": "La sede del poder de los clanes",
+      "avance": "La apertura ubica a los dirigentes de la isla en un mismo recinto; no hay audiencia ni decisión narradas.",
+      "pruebas": [
+        "1563962289487347962"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1563962289487347962",
+          "escena": "x-1563962289487347962",
+          "fecha_utc": "2026-10-25T17:07:46.828000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563962289487347962/1563962289487347962"
+        }
+      ]
+    }
+  ],
+  "pendientes": [],
+  "relaciones": [],
+  "precauciones_editoriales": [
+    "Presentación ambiental, no escena de una reunión realizada.",
+    "No convertir la amenaza humorística de un sacrificio en acontecimiento o misión confirmados."
+  ],
+  "unidades_leidas": 1,
+  "estado_seguimiento": "al_cierre_del_hilo",
+  "nota_seguimiento": "Cada cuestión conserva el contexto de sus mensajes originales. Los cotejos enlazan las respuestas halladas en otras escenas; la ausencia de un cotejo no demuestra que siga abierta después de otros capítulos.",
+  "fecha_hasta_utc": "2026-10-25T17:07:46.828000+00:00"
+}

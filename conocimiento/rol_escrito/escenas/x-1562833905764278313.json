@@ -1,0 +1,145 @@
+{
+  "id": "x-1562833905764278313",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1562833905764278313",
+  "hilo_id": "1558234683177963582",
+  "hilo_nombre": "Tutucan - La ciudad de los Elementos",
+  "titulo": "Oghma encarga a Tsugami un vestuario a cuenta del conde Moor",
+  "resumen": "Una carta presentada por Oghma pide ropa nueva, mientras Tsugami convierte las medidas en una larga sesión de cotilleos.",
+  "relato": "Oghma entra en el McKuroto con un sobre sellado y lo deposita solemnemente en una zona seca de la barra. Dice venir de parte del conde Moor, escandalizado por sus últimas apariciones públicas y por lo que considera un vestuario indigno de su casa. Lee una carta en la que el conde encarga a Tsugami las mejores telas, diseños y accesorios, sin reparar en gastos, y promete hacerse cargo de las cuentas. Oghma acepta la renovación con fingida resignación: quiere elegancia, bolsillos grandes y un escote que le permita parecer respetable sin demasiado esfuerzo.\n\nTsugami empieza a tomarle las medidas a ojo, pero la conversación se convierte enseguida en un repaso de sus recuerdos de Kuroto. Habla de clientes mal vestidos, de un mono, de una muchacha y su marido inventor, y de un elfo de piel oscura que vestía de negro. Oghma sigue el cotilleo y compara a la shogun tritón con Irvette, la reina de Perlasal a la que dice haber ayudado. Hace flotar un vaso y pide bebida, dispuesta a seguir escuchando.\n\nLa mención de Archi provoca otra cadena de historias. Tsugami dice recordar a un Archi de Kuroto, aunque duda de que sea el mismo, y le atribuye un portal al Abismo, una posesión y una muerte de la que solo recibió noticias. También sospecha de intrigas en el ascenso de la shogun y cuenta que abandonó Kuroto después de la crisis de los yokais y de la creación de un sistema donde todas las opiniones valían lo mismo. Oghma no confirma esos relatos: bromea sobre los gustos y las excentricidades de los genios, mientras en privado relaciona la historia del demonio con la conducta del Archi que ella conoce.\n\nLas medidas terminan antes que los rumores. Tsugami prolonga durante unas siete horas sus anécdotas sobre conocidos, matrimonios y disputas domésticas. El encargo queda planteado; la escena no muestra la entrega de las prendas ni el pago del conde.",
+  "participantes": [
+    "Oghma",
+    "Tsugami"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1562833905764278313",
+      "afirmacion": "Oghma lee una carta que atribuye al conde Moor y encarga ropa nueva cuyo coste promete asumir él.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1563057554001502289",
+      "afirmacion": "Tsugami cuenta rumores sobre un Archi de Kuroto y expresa dudas sobre si es el mismo que conoce Oghma.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1563133773577588859",
+      "afirmacion": "Tsugami termina las medidas y prolonga sus anécdotas de Kuroto hasta el cierre de la escena.",
+      "tipo": "descripcion"
+    }
+  ],
+  "notas": [
+    "La carta se conserva como documento presentado y leído por Oghma; no se representa al conde redactándola ni abonando la ropa.",
+    "Las historias de Kuroto son recuerdos, rumores y opiniones de Tsugami dentro de una escena de Xoltacan. No verifican por sí solas hechos ni equivalencias de identidades de la otra campaña.",
+    "La asociación de Oghma entre Archi y un demonio aparece como pensamiento privado."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-10-22T14:23:59.184000+00:00",
+  "fin_utc": "2026-10-23T10:15:33.242000+00:00",
+  "fecha_local": "2026-10-22",
+  "intervalo": {
+    "anterior": 72,
+    "siguiente": null,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236",
+    "siguiente_fuente": null,
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 72,
+        "fecha": "2026-10-16",
+        "inicio_referencia_utc": "2026-10-16T18:28:13+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1562833905764278313",
+      "fecha_utc": "2026-10-22T14:23:59.184000+00:00",
+      "fecha_local": "2026-10-22",
+      "editado_utc": "2026-10-22T14:27:00.645000+00:00",
+      "texto": "Oghma:\n**Entra en McKuroto con una sonrisa de oreja a oreja y un elegante sobre sellado entre sus dedos. Se acerca a la barra buscando una parte seca y lo deposita con solemnidad**\n\nTsugami, querida, vengo de parte de mi señor, el conde Moor. Parece que le han llegado noticias de mis ultimas apariciones publicas y por lo visto esta escandalizado con mi vestuario. Ya sabes como son los nobles, muy sensibles con estas cosas\n\n**Abre el sobre, desdobla la carta y se aclara la garganta para intentar darle un toque distinguido**\n\n\"Estimada señora Tsugami\nHa llegado a mis oidos que mi querida Oghma lleva algun tiempo presentandose en sociedad con unos ropajes absolutamente indignos de una dama de su categoria y por extension de mi propia casa. Considero esta situacion intolerable y le enconmiendo personalmente que ponga remedio a semejante tragedia. Deseo que disponga de las mejores telas, los diseños mas elegante, atrevidos y cuantos accesorios considere oportunos. No repare en gastos, pues yo mismo correre con todos ellos.\nConfio plenamente en su buen gusto y profesionalidad.\nAtentamente,\nConde Moor\"\n\n**Dobla cuidadosamente la carta, se encoge de hombros y mira a Tsugami sonriendo con una expresion de fingida resignacion**\n\nPensaba que estos trapitos aun aguantarian unos añitos mas, pero bueno, tampoco vamos a llevarle la contraria a un conde, verdad? Asi que haz lo que consideres oportuno. Algo elegante, distinguido, que quite el hipo... y con bolsillos grandes, siempre hay cosas importantes que guardar.\n\n**Se acerca un poco a la barra dandole un toque mas confidencial**\n\nY no te preocupes por el dinero, el conde es un hombre de palabra. Ya se encargara de arreglar las cuentas cuando llegue.\n\n**Sonrie satisfecha**\n\nPor cierto, añadele algo que haga parecer respetable a una mujer sin necesidad de serlo, un buen escotazo!",
+      "mensaje_sha256": "94aef057f9cdd7601e1951804e19f2711904c331a3dfb3717bcc3d9278c2001a",
+      "texto_sha256": "83079fc92ef787d0abbc64d5daa6b05add558a37c3405cbfe8408ffe056cabd3",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1562833905764278313",
+      "adjuntos": []
+    },
+    {
+      "id": "1562876758607269898",
+      "fecha_utc": "2026-10-22T17:14:16.098000+00:00",
+      "fecha_local": "2026-10-22",
+      "editado_utc": null,
+      "texto": "Tsugami: Ya decía yo que una distinguida señora que trabaja para un Conde no podía ir así vestía... **Te mira de arriba abajo** Pero claro, luego recorde cuando estaba yo allí en Kuroto con mi tienda de ropa. **Apoya un coda en la barra y con el otro te dice que te acerques a modo de cotilleo** Había cada uno... Yo no se como los dejaban entrar al palacio de la Shogun con ese aspecto... Y ese olor... Había un mono.... Dios mio, cuanto pelo **Niega con la cabeza** Me acuerdo también de esa chica que llegó, vestía peor que tú, pero yo le ayude a vestir mejor, un apena que se casara con el rarito ese que hacía cachivaches raros... Y el peor... El elfo ese negro... El muchacho era de piel muy muy oscura, como esos que a veces vienen a beber..., ¡¡¡y el tío va y se vestía de negro!!!! Hay que ser tonto... **Empieza a servir alguna copa de algo** Yo no se como esa muchacha de alta cuna se fijo en el... Quizá es cosa de los peces. ¿Te he contado que la Shogun era un pez? **Cuando parece que te va a dar la copa, se la bebe de un trago**",
+      "mensaje_sha256": "20ebdd6159db4b126f86685e1cb0a114986e9225926ed3156790acce78a51555",
+      "texto_sha256": "062d23d4a1c56db38c346d9a5e924d64904dd5cb12d8272ea587b15e458d172d",
+      "tipo_discord": 19,
+      "referencia": "1562833905764278313",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1562876758607269898",
+      "adjuntos": []
+    },
+    {
+      "id": "1562949371119542362",
+      "fecha_utc": "2026-10-22T22:02:48.270000+00:00",
+      "fecha_local": "2026-10-23",
+      "editado_utc": null,
+      "texto": "Oghma:\n**Sonrie curiosa y escucha los cotilleos con los ojos bien abiertos asintiendo de vez en cuando**\n\nPero, querida, que gente interesante has conocido! Y dices que la muchacha se caso con uno que hacia cacharros raros? Una chica lista, a mi tambien me gustan los hombres que trabajan con las manos, conoces a Archi? Vaya partidazo\n\n**Suelta una risita y sigue escuchando hasta que se menciona a la shogun**\n\nUna shogun pez? No te lo vas a creer, pero soy amiga intima de una reina pez! La reina Irvette de Perlasal, una mujer encantadora y muy agradecida. Le he salvado la ciudad un par de veces y volveria a hacerlo, le cuesta soltar recompensa, pero cuando lo hace realmente merece la pena...\n\n**Mira uno de los vasos y lo hace flotar lentamente hasta posarse en la barra**\n\nSi has vestido a una Shogun, a nobles y hasta a un mono, seguro que conmigo lo tienes facil\n\n**Mira el vaso vacio y le guiña un ojo**\n\nEcha un chorrillo, anda, que con tanta historia se me seca la boca. Y dime, la shogun pez esa usaba zapatos o solo un calcetin grande para cola?",
+      "mensaje_sha256": "307e3ff74eaa752342966fd3bca541dc89c3af85e334efc536c806d6db825cf2",
+      "texto_sha256": "1bf2dd25e4a3e79671ea37b24b3f7bbab0d126d08bb05480d6492bd89f3e8464",
+      "tipo_discord": 19,
+      "referencia": "1562876758607269898",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1562949371119542362",
+      "adjuntos": []
+    },
+    {
+      "id": "1563057554001502289",
+      "fecha_utc": "2026-10-23T05:12:41.079000+00:00",
+      "fecha_local": "2026-10-23",
+      "editado_utc": "2026-10-23T05:38:07.918000+00:00",
+      "texto": "Tsugami: Uy no creas, el muchacho de los cacharros al principio le gustaba todo **Mira hacia los lados** Ya sabes, el sushi y las salchichas. Y sabes que? Decían que la coneja se había tirado al mono sin que él se enterra **Levanta los brazos en señal de indiferencia** Luego tuvieron como 17 hijos, con el de los cachivaches. El mono se fue a un templo. A llorar supongo **Cuando dices el nombre del gnomo te mira con cara extrañada** Archi? Me suena el nombre... Creo que en Kuroto había un Archi. Pero no creo que sea el mismo. El de allí era lo peor... ¿Sabes que abrió un portal al Abismo y lo poseio un demonio superior? Pues lo que te digo chica. Además, no creo que sea el mismo ya que el que conocí estalló en mil pedazos, o eso me dijeron. **Pone cara de asco** Además era un putero, si sobrevivió a eso seguro que lo mató alguna enfermedad por meter la cola donde no debe **Se emociona cuando lo hablas de la shogun** Uy no no, tenía patas. Como decía que se llamaba? Ah si, tritón. Muy maja ella. **Vuelve a mirar hacia los lados a ver si les escucha alguien** Pero sabes que? Yo creo que su novio el moreno y ella montaron alguna trama profunda, llena de engaños y magia de esa rara para llegar a ser la Shogun. Que yo la votaria igualmente, ya que la anterior Shogun era una demonio pero oye, seguro que hubo una trama política. Yo eso me lo huelo, no como esos lelos de los Cazadores que no se enteraban de nada.... **Niega con la cabeza. De repente se sobresalta** ¿Te he contado la vez que gaste seis rollos de tela para vestir a un goliat súper gordo? Dios mío que gordo estaba.... **Mientras habla, te va midiendo a simple vista para tomar tus medidas**",
+      "mensaje_sha256": "5640922f9e3e19d00067875c98124f067538eaf30f5ba6276609f41c443dfc78",
+      "texto_sha256": "afb5ed17ed3238caae3012705155ec0a7c56c459933b53e891c8c436e9e0c77b",
+      "tipo_discord": 19,
+      "referencia": "1562949371119542362",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563057554001502289",
+      "adjuntos": []
+    },
+    {
+      "id": "1563131174715396198",
+      "fecha_utc": "2026-10-23T10:05:13.625000+00:00",
+      "fecha_local": "2026-10-23",
+      "editado_utc": null,
+      "texto": "Oghma:\n**Escucha atentamente los cotilleos**  \n\nHay paladares mas refinados que otros. Salchisushi no suena tan mal, no? Pero 17 niños, que horror, acabaria poniendoles numeros\n\n**Al llegar a la parte de Archi levanta las cejas sorprendida**\n\nUn portal al abismo dices? Bueno, seguro que tendria sus motivos, los genios a veces hacen cosas que los demas no comprendemos\n\n**Se encoge de hombros y sonrie con picardia**\n\nLo de dejarse poseer tampoco tiene que ser tan malo, querida, depende mucho de quien lo haga y de lo que sepa hacer...\n\n*Un demonio superior... eso explicaria que se comportara como el señor de este abismo*\n\n**Suelta una risita**\n\nNo sere yo quien lo juzgue por disfrutar de la compañia femenina, bastantes penas hay ya en la vida como para privarse de lo pequeños placeres, no?\n\n**Asiente satisfecha con sus explicaciones y vuelve a sonreir al escuchar la historia de la shogun**\n\nSi consiguio quitarle el puesto a una demonio debia ser bastante lista y un poco pilluela, cosas muy necearias para gobernar, supongo\n\n**Va girandose y levantando los brazos para que Tsugami pueda ir ajustando las medidas**",
+      "mensaje_sha256": "2fd2fb8ba8f01fb54c1d2b7149ad8bb9e653d3a961d6a63367bb953e8a3856af",
+      "texto_sha256": "1b90e1a05de6ebbde351869052734975622918787769aec9d1b3033bdabd90f7",
+      "tipo_discord": 19,
+      "referencia": "1563057554001502289",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563131174715396198",
+      "adjuntos": []
+    },
+    {
+      "id": "1563133773577588859",
+      "fecha_utc": "2026-10-23T10:15:33.242000+00:00",
+      "fecha_local": "2026-10-23",
+      "editado_utc": null,
+      "texto": "Tsugami: Uy, no te lo puedes llegar a imaginar **Dice la señora acabando de tomar tus medidas a ojo** Yo cuando se acabó todo ese lio de los yokais y el señor supremo de esos bichos, y los Cazadores esos empezaron a crear como una especie de estado democrático que todo el mundo podía opinar.... yo me largué. Va a valer lo mismo mi opinión, que soy una señora con cultura y conocimiento, que el de la Josefina que la estafaban siempre en la verdulería, si hombre. **Levanta la cabeza como si estuviera ofendida** Eso con la pez no pasaba... una pena que se muriera. **La señora va a estar contándote cosas de Kuroto durante bien bien unas 7 horas. Los problemas del exmarido de Fatima, cuando el guardia Jose Carlos abandono a su mujer para irse con un furro horrible, cuando Mari Pili se hizo las mechas y parecia que se le hubieran cagado encima y un monton de cosas innecesarias mas** \n\n🔴 Fin de la escena 🔴",
+      "mensaje_sha256": "7e420eb79494410e200026b23d0011cd7b5c2ab525420c800892416954a625ce",
+      "texto_sha256": "43225b6fa5467daa7ca16bae45682a94b0e79d57947d1871eca181f8d5131d2c",
+      "tipo_discord": 19,
+      "referencia": "1563131174715396198",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563133773577588859",
+      "adjuntos": []
+    }
+  ]
+}

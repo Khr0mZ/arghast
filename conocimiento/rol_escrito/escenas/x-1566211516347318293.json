@@ -1,0 +1,434 @@
+{
+  "id": "x-1566211516347318293",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1566211516347318293",
+  "hilo_id": "1562885651844694024",
+  "hilo_nombre": "Base de los Clanes Elementales - La ciudad de los Elementos",
+  "titulo": "Opi frena los experimentos y escucha el duelo de Chani",
+  "resumen": "Tres yuan-ti quedan bajo custodia de Chani, que promete no dañarlos; al hablar con Opi revela la historia de las cenizas de Kurobane y su espera de más de dos siglos.",
+  "relato": "Opi llega a la base con tres yuan-ti fuertemente atados, cuidando que no tropiecen. Explica que se retrasó porque tuvo que cerrarles muchas heridas y que las medidas mágicas deberían impedir la violencia y la fuga. Chani, que carga semillas, se sobresalta al verlos: considera peligroso traerlos allí, pero reconoce el esfuerzo de mantenerlos con vida. Los encierra en una esfera de raíces y plantea experimentar con ellos para descubrir debilidades con las que proteger a todos.\n\nOpi rechaza ese curso de acción. Le dice que causar sufrimiento innecesario no es aceptable y propone estudiar cadáveres si necesita conocer sus cuerpos. Chani confiesa que otras personas le presentan los experimentos como un deber, aunque ella comprende que toda criatura tiene vida y que alguien puede servir a un poder maligno sin entenderlo. Recuerda el caso de una amiga que siguió al rey demonio. Opi insiste en que liderar su clan no la obliga a repetir la crueldad de sus enemigos. Ella se anima al sentirse comprendida, hace rodar la esfera hacia su clan y acaba prometiendo expresamente que sus métodos para interrogar no harán daño a los prisioneros. El diálogo no muestra todavía el interrogatorio ni su destino final.\n\nMientras recogen las semillas que Chani dejó caer, Opi pregunta por una sacerdotisa emplumada, su estado y la información que haya dado. Ella solo explica que siguen cotejando declaraciones con escritos y que Sylphara es quien conoce mejor los libros y lo dicho por la sacerdotisa. Las preguntas sobre su seguridad y sus revelaciones no reciben una respuesta concreta. La oferta de licor de hierbas abre otra conversación: Chani cultiva su propio jardín y admite que a veces incorpora pequeñas dosis de plantas venenosas para darle picante. Lo cuenta como parte de sus cultivos y de sus intentos de mejorar el sabor de la bebida.\n\nChani se marea ante la sucesión de preguntas. Opi recoge las semillas, propone sentarse y reconoce que está aprendiendo cómo conocer a los demás sin abrumarlos. Ella se relaja al hablar de un jardín con plantas de la tierra de Arwen y de los lugares donde conoció a sus amigos. Cuando saca la piedra negra que lleva al cuello, él pregunta por su historia.\n\nSegún cuenta Chani, la piedra guarda las cenizas de Kurobane, a quien llamaba Tezca. Lo recuerda como alguien triste, escondido en las sombras, que cometió errores pero llegó a sonreír y dio la vida para salvarlos. Ella conoció su sufrimiento al entrar un día en su habitación siguiendo una sombra; él decía que había alguien más en su cabeza que no lo dejaba ser libre. Después se hicieron cercanos y ella empezó a dormir a su lado. A petición de Opi, identifica a aquella presencia como Osurai, que quería controlarlo y llegó a asustarla hablando con ella. Relata que Tezca desapareció un tiempo y reapareció en la batalla final, donde se sacrificó.\n\nChani dice que lanzó su último hechizo para que pudiera regresar cuando estuviera preparado, pero ha esperado más de doscientos años y teme que no vuelva. Opi no borra ese dolor ni promete una resurrección: considera la tristeza una respuesta que debe respetar y expresa solo su disposición a intentar ayudar a traerlo de vuelta algún día, si él quisiera y si Opi llegara a tener ese poder. Cuando ella pregunta entre lágrimas si ya no regresará, Opi admite que no lo sabe y ofrece acompañarla para descubrirlo. Chani se refugia en sus brazos y él la sostiene con cuidado, en silencio, hasta el cierre explícito de la escena.",
+  "participantes": [
+    "Opi",
+    "Chanecuxtli"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1566219549429465142",
+      "afirmacion": "Opi explica que ha curado a los tres yuan-ti y que las medidas mágicas deberían impedir ataques o fugas.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1566220599041335317",
+      "afirmacion": "Chani encierra a los cautivos en raíces y propone usarlos en experimentos para descubrir debilidades.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1566222155006611578",
+      "afirmacion": "Opi se opone a experimentar con prisioneros vivos y propone buscar otra vía.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1566239213970661479",
+      "afirmacion": "Chani promete no causar daño y dice que siguen comparando declaraciones con escritos.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1566244195545514045",
+      "afirmacion": "Chani remite a Sylphara para lo que dicen los escritos y la sacerdotisa.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1566281530471616555",
+      "afirmacion": "Chani identifica a Kurobane con el nombre Tezca y explica que su piedra contiene las cenizas de su amigo.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1566655604372545677",
+      "afirmacion": "Chani identifica a Osurai como la presencia que quería controlar a Tezca y relata el sacrificio de este.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1566656921245716552",
+      "afirmacion": "Chani dice que lleva más de doscientos años esperando el regreso de Tezca.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1566661008091643935",
+      "afirmacion": "Opi acompaña el llanto de Chani con un abrazo hasta el cierre explícito.",
+      "tipo": "accion"
+    }
+  ],
+  "notas": [
+    "Las curaciones previas y la eficacia esperada de las medidas mágicas se conocen por lo que declara Opi, no por una comprobación independiente durante esta escena.",
+    "Los prisioneros siguen bajo custodia; no se muestra un experimento, interrogatorio, liberación ni desenlace posterior.",
+    "La historia de Kurobane/Tezca, Osurai y la batalla final es un testimonio retrospectivo de Chani en Xoltacan. No se incorpora como lectura ni evidencia nueva de Kuroto.",
+    "Opi ofrece una posibilidad condicionada de ayudar a una futura resurrección; no afirma poder realizarla ahora ni promete que Tezca vuelva.",
+    "La imagen adjunta muestra a Chani con un colgante oscuro; no puede verificar por sí sola su composición ni la identidad de las cenizas."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-10-31T22:05:24.300000+00:00",
+  "fin_utc": "2026-11-02T03:51:31.483000+00:00",
+  "fecha_local": "2026-10-31",
+  "intervalo": {
+    "anterior": 72,
+    "siguiente": null,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236",
+    "siguiente_fuente": null,
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 72,
+        "fecha": "2026-10-16",
+        "inicio_referencia_utc": "2026-10-16T18:28:13+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1566211516347318293",
+      "fecha_utc": "2026-10-31T22:05:24.300000+00:00",
+      "fecha_local": "2026-10-31",
+      "editado_utc": "2026-10-31T22:15:53.901000+00:00",
+      "texto": "Opi:\n**Entra en la base pastoreando pacientemente a 3 yuanti fuertemente amarrados con cuidado de que no se tropiecen y mira a su alrededor buscando a Chani**\n\nCasi hemos llegado, ella decidira que hacer con vosotros\n\n<@408026114548695061>",
+      "mensaje_sha256": "622c898172b874ee1ac33a9b78f7759d58f31e8c0285d7a360a71daf2dd140e6",
+      "texto_sha256": "70bb391640e8e043f12ae472bee914e8ae8f28444ab90a8dc0ae8c4b5331942c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566211516347318293",
+      "adjuntos": []
+    },
+    {
+      "id": "1566217782759129129",
+      "fecha_utc": "2026-10-31T22:30:18.329000+00:00",
+      "fecha_local": "2026-10-31",
+      "editado_utc": null,
+      "texto": "Chani:\n**Tenía una gran bolsa de semillas cargando entre mis brazos, no podía ver casi nada**\n\nEsto les va a enseñar a cuidar la naturaleza, pío, ellos van a aprender muy bien, pío \n\n**Voy dando paso a paso hasta que escucho aquel metal entrar hacia la base y también sonidos de arrastre**\n\nPío?, Opi pío ya llegó?\n\n**Intento hacer mi cabeza a un lado para poder ver si se trataba de el**",
+      "mensaje_sha256": "52c79c10ebd82321edd63049d7bde515b1f830a42487c91127f73ec69d2712a9",
+      "texto_sha256": "e9a70f0cf72bedad630fc38d865e536499bffad8c11ec212a19456476742f37e",
+      "tipo_discord": 19,
+      "referencia": "1566211516347318293",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566217782759129129",
+      "adjuntos": []
+    },
+    {
+      "id": "1566219549429465142",
+      "fecha_utc": "2026-10-31T22:37:19.536000+00:00",
+      "fecha_local": "2026-10-31",
+      "editado_utc": null,
+      "texto": "Opi:\n**Levanta la mano y la agita saludando**\n\nTarde un poco mas en venir, tenian muchas heridas que cerrar. Les he pedido que no sean violentos ni intenten escapar, las medidas magicas deberian mantener la seguridad",
+      "mensaje_sha256": "f0f12ac3da32bc8bf14ec9250c4562b083238ec9de8c0c55d924ae0b84d92fe5",
+      "texto_sha256": "cebb3900b789e76a1b75d4d7d20aed159133fc1914eef68dcdb7288f270974ac",
+      "tipo_discord": 19,
+      "referencia": "1566217782759129129",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566219549429465142",
+      "adjuntos": []
+    },
+    {
+      "id": "1566220599041335317",
+      "fecha_utc": "2026-10-31T22:41:29.783000+00:00",
+      "fecha_local": "2026-10-31",
+      "editado_utc": null,
+      "texto": "Chani:\n**Tiré las semillas al ver a las serpientes frente a mi, estaba impactada**\n\nOPI PÍO!! \n\n**Me cubrí el pico para no llamar la atención de los demás líderes**\n\nEs peligroso que los traigas aquí, pío, pero hiciste un buen trabajo al cuidarlos y traerlos con vida, pío \n\n**Me acerqué con cautela a las serpientes, mirandolas de arriba a abajo**\n\nCreo que podrá funcionar pío, no me gusta hacer esto pero es necesario para proteger a todos, pío \n\n**Una enredadera sale por debajo de la tierra y las encierra en una esfera de raíces**\n\nNecesitamos encontrar debilidades pío, serán nuestros experimentos pío, no me gusta pero es algo que se tiene que hacer, pío",
+      "mensaje_sha256": "fe836bd69c35feaf9694143c71e8235f255cbacecb821a016f3a627d3a9126b8",
+      "texto_sha256": "d9a3640e8670fafacbee173a604c5cf424b98e9ea6a454da7ff18d17e92251a5",
+      "tipo_discord": 19,
+      "referencia": "1566219549429465142",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566220599041335317",
+      "adjuntos": []
+    },
+    {
+      "id": "1566222155006611578",
+      "fecha_utc": "2026-10-31T22:47:40.754000+00:00",
+      "fecha_local": "2026-10-31",
+      "editado_utc": "2026-10-31T22:48:35.741000+00:00",
+      "texto": "Opi:\n**Observa la esfera de raices y despues mira a Chani apoyandole una mano en el hombro**\n\nEste curso de accion no es aceptable. Entiendo que intentas proteger a los demas, pero experimentar con ellos les causaria un sufrimiento innecesario. Debemos encontrar otra manera. Podrias estudiar cadaveres si necesitas conocer sus cuerpos",
+      "mensaje_sha256": "bd3146b0cf69a37509f28cf8235694162fc96a14ea8fde7abc862dd80500c9e5",
+      "texto_sha256": "56e1e172061fa8f56101ad39f68f6f40e8a36b61bd37aab66fa2a738c6b2440f",
+      "tipo_discord": 19,
+      "referencia": "1566220599041335317",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566222155006611578",
+      "adjuntos": []
+    },
+    {
+      "id": "1566226595478245468",
+      "fecha_utc": "2026-10-31T23:05:19.445000+00:00",
+      "fecha_local": "2026-11-01",
+      "editado_utc": null,
+      "texto": "Chani:\nVerdad que si?, pío?, pero dicen que \"es mi deber hacerlo\", pío \n\n**Hago puchero**\n\nQuiero hacer lo mejor pío, porque todos al fin de cuentas tenemos vida, pío, otros no saben a quienes en verdad siguen pío, una amiga de años lo entendió, pío, ella servía al rey demonio pío y no sabía que el hacía cosas malas, pío",
+      "mensaje_sha256": "dedb1c2ce22c542afdd95db6abfa6cd572f89ab229b5df12e8f845092f051c8d",
+      "texto_sha256": "e92d68cf4a572631875c22914a57a775358222c92dba10311ed0bf5b19297ef8",
+      "tipo_discord": 19,
+      "referencia": "1566222155006611578",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566226595478245468",
+      "adjuntos": []
+    },
+    {
+      "id": "1566228450510114920",
+      "fecha_utc": "2026-10-31T23:12:41.719000+00:00",
+      "fecha_local": "2026-11-01",
+      "editado_utc": "2026-10-31T23:25:40.899000+00:00",
+      "texto": "Opi:\n**Mantiene la mano sobre el hombro de Chani**\n\nNo tienes que hacer algo que consideres incorrecto. Podemos proteger a los demas sin hacerles daño a ellos. Eres la lider de tu clan, tu deber es proteger Xoltacan, no causar dolor por que alguien te lo pida.\nAunque sirvan a un dios maligno, experimentar con ellos no seria hacer el bien, cometeriamos la misma crueldad que queremos combatir",
+      "mensaje_sha256": "e7093719829ef051a5c79fa6d7c65072e590d7b02aa41f7e1017c06ced9bd170",
+      "texto_sha256": "99fa7c716021eaf87ac46537aa6ef97dec6c010214c3e1004641701cd081fcce",
+      "tipo_discord": 19,
+      "referencia": "1566226595478245468",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566228450510114920",
+      "adjuntos": []
+    },
+    {
+      "id": "1566235767183773737",
+      "fecha_utc": "2026-10-31T23:41:46.150000+00:00",
+      "fecha_local": "2026-11-01",
+      "editado_utc": null,
+      "texto": "Chani:\nTU ME ENTIENDES PÍO!!\n\n**Sonreí animada mientras agitaba mis alitas**\n\nEntonces vamos a hacer que estás serpientes piensen bien lo que hicieron y les vamos a dar un poquito de lo que se merecen \n\n**Empiezo a girar la esfera de ramas hacia nuestro clan**\n\nQuieres beber algo pío?, tengo mucho licor de hierbas que yo misma he hecho, pío, estoy procurando que no sea muy amargo, pero aún no me sale, pío",
+      "mensaje_sha256": "fbed23c35bad9101b34c4802c7ef7d676d30ee75d75a2ee9fc5197de6177cfba",
+      "texto_sha256": "ac85f24e427dc2934c18016f78a7790f032f5bf3533e06afd9705c83dbc40eda",
+      "tipo_discord": 19,
+      "referencia": "1566228450510114920",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566235767183773737",
+      "adjuntos": []
+    },
+    {
+      "id": "1566238332076163224",
+      "fecha_utc": "2026-10-31T23:51:57.668000+00:00",
+      "fecha_local": "2026-11-01",
+      "editado_utc": "2026-10-31T23:52:28.688000+00:00",
+      "texto": "Opi:\n**Observa como la esfera rueda por la zona**\n\nAceptare una bebida social, gracias. Que piensas hacer con los prisioneros? Que ha ocurrido con la sacerdotisa emplumada? esta bien? ha proporcionado alguna informacion?",
+      "mensaje_sha256": "9bf449591029e220b807c00484e68151c0d117441bb6865995d6b45e4be6153b",
+      "texto_sha256": "01fa5d5e4f1bd2a151d4121a661f239ac14e5a298a439e0a48c4ab8414d5bdb6",
+      "tipo_discord": 19,
+      "referencia": "1566235767183773737",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566238332076163224",
+      "adjuntos": []
+    },
+    {
+      "id": "1566239213970661479",
+      "fecha_utc": "2026-10-31T23:55:27.928000+00:00",
+      "fecha_local": "2026-11-01",
+      "editado_utc": null,
+      "texto": "Chani:\nTengo mis métodos para hacer que hablen, pío, prometo no hacerles daño pío \n\n**Miro la esfera y luego a Opi**\n\nAún seguimos investigando y comparando lo que dijeron con los escritos pío, todavía tenemos muchas cosas que resolver pío...",
+      "mensaje_sha256": "46fbfd6730874fabd7d28551efcb811b42c3bf03239980a5af9b263c0a896cfc",
+      "texto_sha256": "008e2c43bd0fe897df9e8df3d86e14fe5404d7220a7157d695731cbabd573418",
+      "tipo_discord": 19,
+      "referencia": "1566238332076163224",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566239213970661479",
+      "adjuntos": []
+    },
+    {
+      "id": "1566241722353061950",
+      "fecha_utc": "2026-11-01T00:05:25.973000+00:00",
+      "fecha_local": "2026-11-01",
+      "editado_utc": "2026-11-01T00:06:14.269000+00:00",
+      "texto": "Opi:\n**Asiente satisfecho al escuchar la promesa de Chani y se agacha a recoger las semillas que se le cayeron al ver a los yuanti**\n\nQue hierbas usas para el licor? Que dicen los escritos? Las cultivas tu misma? Que dijo la sacerdotisa?",
+      "mensaje_sha256": "f61c23c72375b71a887cfb99140642af444d86e56b2216156deb87cdd9998719",
+      "texto_sha256": "b5ff08d52ff68e7cd5d7232a86f1840a6c8df914a7d2d8133c3b4032bb6273fb",
+      "tipo_discord": 19,
+      "referencia": "1566239213970661479",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566241722353061950",
+      "adjuntos": []
+    },
+    {
+      "id": "1566244195545514045",
+      "fecha_utc": "2026-11-01T00:15:15.628000+00:00",
+      "fecha_local": "2026-11-01",
+      "editado_utc": null,
+      "texto": "Chani:\n**También empiezo a levantar las semillas pero me siento mareada de tanta pregunta**\n\nPio, ahora entiendo cuando dicen que me calle un rato, pío...\n\n**Me reincorporó sosteniendome la cabeza un momento**\n\nA veces uso un poco de hierbas venenosas para darle un toque picante, pío, pero no mucho, la dosis importa, pío y si, yo las cultivo, pío, tengo un jardín lleno de plantas de muchos tamaños y colores pío...\n\n**Baja un poco la mirada**\n\nSylphara pío es quien sabe de eso, pío, tiene muchos libros y ella es la más lista de los clanes, pío... También sabe lo que dijo la sacerdotisa, pío...",
+      "mensaje_sha256": "e6d3eccd6c113257e0e64acba74e474b19d560445ea74c4537d11a4c0ced9de5",
+      "texto_sha256": "f3a505448459fcbf9cf5c121c393c5a0b7eed3c42d9ee909ca0a0ad26f159c08",
+      "tipo_discord": 19,
+      "referencia": "1566241722353061950",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566244195545514045",
+      "adjuntos": []
+    },
+    {
+      "id": "1566246016972492861",
+      "fecha_utc": "2026-11-01T00:22:29.890000+00:00",
+      "fecha_local": "2026-11-01",
+      "editado_utc": null,
+      "texto": "Opi:\n**Termina de recoger las semilla y se las entrega mientras se queda observandola un momento**\n\nEstas bien? Pareces mareada. Podemos sentarnos a tomar ese licor. Hablame de tu jardin, eso tal vez te ayude a relajarte. Luego habra tiempo de hablar con Sylphara",
+      "mensaje_sha256": "a3f945a28171bfbdef6675bd3dd2f7dec8915ec191f0a9792faf124221ecae3d",
+      "texto_sha256": "5f404dc5d06dda3eba6cf736704764f485c407a7a1abb23321b7af2052c21d9d",
+      "tipo_discord": 19,
+      "referencia": "1566244195545514045",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566246016972492861",
+      "adjuntos": []
+    },
+    {
+      "id": "1566256820035780819",
+      "fecha_utc": "2026-11-01T01:05:25.541000+00:00",
+      "fecha_local": "2026-11-01",
+      "editado_utc": null,
+      "texto": "Chani:\n**Me siento un momento**\n\nLo siento pío, estoy acostumbrada a que yo sea la que hable mucho, pío \n\n**Sonrió mientras pienso en mi jardín**\n\nTe va a gustar mucho, pío, tengo variedad de plantas pío, incluso del lugar donde conocí a todos mis amigos y de dónde es Arwen Pío, tengo muchas historias de ahí que son muy lindas pío y otras no muchas pío, pero todas me enseñaron algo, pío \n\n**Pasaba mi ala por mi pecho, sacando mi collar con la piedra negra colgando de ella**",
+      "mensaje_sha256": "c1dfadf201d07ce6a9e62be4b5b0d1e90600654cb7059775795575e439ca5a95",
+      "texto_sha256": "dc0b1a77c1d23cb991979cc3737c75bef85740b0415834b6a02fff76cc63c224",
+      "tipo_discord": 19,
+      "referencia": "1566246016972492861",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566256820035780819",
+      "adjuntos": []
+    },
+    {
+      "id": "1566261500425936897",
+      "fecha_utc": "2026-11-01T01:24:01.433000+00:00",
+      "fecha_local": "2026-11-01",
+      "editado_utc": null,
+      "texto": "Opi:\n**Se sienta junto a Chani y la escucha con atencion**\n\nNo tienes que disculparte. Cuando no hay nadie en peligro ni sufriendo puedo relajarme y dedicarme a conocer a los demas. He visto que la gente hace preguntas para conocerse pero aun no entiendo bien cual es la cantidad exacta de preguntas que debo realizar. Creo que te he abrumado, lo siento. Intentare hacer las preguntas de una en una.\n\n**Observa la piedra negra del collar**\n\nQue historia tiene esa piedra?",
+      "mensaje_sha256": "11535a1eb4bcad8f780c18f5a39bf92fc9d0224d5a7a26bf0e7dafd63c74407b",
+      "texto_sha256": "0fac6924883db28b35723ca23deedc74235e018504580f500f19e3634677d998",
+      "tipo_discord": 19,
+      "referencia": "1566256820035780819",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566261500425936897",
+      "adjuntos": []
+    },
+    {
+      "id": "1566281530471616555",
+      "fecha_utc": "2026-11-01T02:43:36.968000+00:00",
+      "fecha_local": "2026-11-01",
+      "editado_utc": null,
+      "texto": "Chani:\n**Volteo a verlo con algo de sorpresa, pero después mostré una sonrisa sincera quitándome el collar y mirándolo con nostalgia**\n\nBueno... El fue un buen amigo pío, se llamaba Kurobane pío pero yo le decía Tezca pio, se parecía a otro amigo que hice pío, el estaba siempre en las sombras y cometió también muchos errores pío, nunca me dijo cual era su dolor pero podía verlo en sus ojos pío, el era alguien triste pero pude verlo sonreír pío, y el... El murió para salvarnos pío, y me dieron está piedra con sus cenizas para recordarlo pío, no sé si lo veré en esta vida o en la próxima pío, pero siempre lo recuerdo...",
+      "mensaje_sha256": "43440b52289da34a4332f605073fc53f5424722af228801c9a495040ed99f218",
+      "texto_sha256": "e17331716cc170d19fbac7e6c15889130eec3dc183b8e7d4842b286c09c04b73",
+      "tipo_discord": 19,
+      "referencia": "1566261500425936897",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566281530471616555",
+      "adjuntos": [
+        {
+          "id": "1566281530043531385",
+          "nombre": "rn_image_picker_lib_temp_611363df-6673-48f6-9d33-d5e4462eedf6.png",
+          "tipo": "image/png",
+          "archivo": "adjuntos/1566281530043531385.png",
+          "url": "rol_escrito/adjuntos/1566281530043531385.png",
+          "bytes": 2357873,
+          "sha256": "12aa11ae605c47fa1d67e268375de72a5fe0c84af86278e6b1b1d0bf557592b4"
+        }
+      ]
+    },
+    {
+      "id": "1566286873159012434",
+      "fecha_utc": "2026-11-01T03:04:50.764000+00:00",
+      "fecha_local": "2026-11-01",
+      "editado_utc": null,
+      "texto": "Opi:\n**Sigue mirando a la piedra durante unos instantes**\n\nDar la vida para salvar a otros es algo muy hermoso, aunque habria preferido que no hubiera tenido que hacerlo.\n\n*Calmar sus emociones con la ayuda de El no seria apropiado, la tristeza es una respuesta natural a la perdida que debe respetarse. Considerando opciones alternativas de consuelo*\n\nTal vez algun dia pueda ayudarte a traerlo de vuelta, si el esta de acuerdo. No se si podre llegar a realizar esa clase de milagros, pero estoy dispuesto a intentarlo si eso te hace feliz. Parece alguien importante para ti, hablame de Tezca, como os conocisteis?",
+      "mensaje_sha256": "62d0750c6ce8ae1561560a38483e070e77b556fa18f790453ce029b0e98cd2f6",
+      "texto_sha256": "44e1fab03caa0cf12e94d8d7a638c86a05a9492cd7404c35516d559038d6dd04",
+      "tipo_discord": 19,
+      "referencia": "1566281530471616555",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566286873159012434",
+      "adjuntos": []
+    },
+    {
+      "id": "1566652874409123931",
+      "fecha_utc": "2026-11-02T03:19:12.262000+00:00",
+      "fecha_local": "2026-11-02",
+      "editado_utc": null,
+      "texto": "Chani:\nPues verás pío, el siempre estaba escondido en las sombras y un día me acerqué a su habitación porque vi una sombra moviéndose por debajo de su puerta pío, entonces la seguí y entré pío, decía que alguien más estaba en su cabeza y no lo dejaba ser libre pío, era muy triste pío, después me tomó mucho cariño pío y me empecé a quedar a dormir con el, pio, intenté ayudarlo pero el solo pudo encontrar su camino, pío",
+      "mensaje_sha256": "031b0569ec967a18d25213cc328021a07238b71cb7a9f31a3fc6b4a4ddaf855e",
+      "texto_sha256": "4fde3cdb77dc78a5f5c804db0eff224408515e6db42be6287cc0ffaff44dd378",
+      "tipo_discord": 19,
+      "referencia": "1566286873159012434",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566652874409123931",
+      "adjuntos": []
+    },
+    {
+      "id": "1566654087762681977",
+      "fecha_utc": "2026-11-02T03:24:01.548000+00:00",
+      "fecha_local": "2026-11-02",
+      "editado_utc": null,
+      "texto": "Opi:\n**Escucha atentamente**\n\nParece que sufria mucho. Me alegro de que estuvieras a su lado mientras encontraba su camino\n\n**Se queda pensativo unos segundos**\n\nLlegasteis a descubrir quien mas estaba en su cabeza?",
+      "mensaje_sha256": "e3680ecc30af18b4d541ead36503b3cf22a35a60c740c38919eaf07321d7a895",
+      "texto_sha256": "d1826c756201154d29163e3b417bf5f8caeded9885b420adbc53d94c90512cef",
+      "tipo_discord": 19,
+      "referencia": "1566652874409123931",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566654087762681977",
+      "adjuntos": []
+    },
+    {
+      "id": "1566655604372545677",
+      "fecha_utc": "2026-11-02T03:30:03.136000+00:00",
+      "fecha_local": "2026-11-02",
+      "editado_utc": null,
+      "texto": "Chani:\nSe llamaba Osurai... Quería controlarlo pío, incluso llegó a hablar conmigo y me asustó mucho, pero después Tezca pío desapareció y no supe de el por algún tiempo hasta que apareció en la batalla final pío y bueno... El decidió dar su vida pío... Lancé mi último hechizo para que pudiera regresar cuando el estuviera listo pío, pero creo que no va a volver... \n\n**Levanté los hombros en resignación**\n\nPero yo sigo esperando pío, ya dirán los dioses si le permiten volver a vernos, pío",
+      "mensaje_sha256": "39e11dcb6dd29953df72f9833b4d392adae2dd73e2037f1a615bd8c0d72365f1",
+      "texto_sha256": "2e8de807c5c7f9763660e375a18660d86fc09d12e4500e07cddda737f1850d39",
+      "tipo_discord": 19,
+      "referencia": "1566654087762681977",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566655604372545677",
+      "adjuntos": []
+    },
+    {
+      "id": "1566656672129220732",
+      "fecha_utc": "2026-11-02T03:34:17.709000+00:00",
+      "fecha_local": "2026-11-02",
+      "editado_utc": null,
+      "texto": "Opi:\n**Vuelve a mirar la piedra negra**\n\nCuanto tiempo llevas esperando?",
+      "mensaje_sha256": "5c0f57a532c5b02b3118fd68cf4d10d69e461a2934cbf0f08b1ea9a4c0d32428",
+      "texto_sha256": "83b0fadfcb97ba7d0f88006d4d52ea627a460afb33fd69cf76c39dc746f79760",
+      "tipo_discord": 19,
+      "referencia": "1566655604372545677",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566656672129220732",
+      "adjuntos": []
+    },
+    {
+      "id": "1566656921245716552",
+      "fecha_utc": "2026-11-02T03:35:17.103000+00:00",
+      "fecha_local": "2026-11-02",
+      "editado_utc": null,
+      "texto": "Chani: \nMas de 200 años pío \n\n**Suspiré**\n\nNo va a volver, verdad pío?\n\n**Voltee a ver a Opi con lágrimas en los ojos**",
+      "mensaje_sha256": "59cc6c3b28ca769b5a65b250213070ce347d601bee2a592c50829eab5f206e45",
+      "texto_sha256": "c82db1c0dba00536ce1519653ea7cae12f9b5afbe08b08b8c85db09643544200",
+      "tipo_discord": 19,
+      "referencia": "1566656672129220732",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566656921245716552",
+      "adjuntos": []
+    },
+    {
+      "id": "1566658409284239504",
+      "fecha_utc": "2026-11-02T03:41:11.879000+00:00",
+      "fecha_local": "2026-11-02",
+      "editado_utc": null,
+      "texto": "Opi:\nNo lo se, pero estare aqui para ayudarte a descubrirlo\n\n**Separa los brazos**\n\nQuieres un abrazo?",
+      "mensaje_sha256": "f71b59f88d006674d5e423c1d7dfebeb032c63c71258dc7498c04a1a6c73a28d",
+      "texto_sha256": "bf4dff89b245071105424cfb81415c9bdcdae682402b261bef407c144d3c4fac",
+      "tipo_discord": 19,
+      "referencia": "1566656921245716552",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566658409284239504",
+      "adjuntos": []
+    },
+    {
+      "id": "1566659630447198251",
+      "fecha_utc": "2026-11-02T03:46:03.027000+00:00",
+      "fecha_local": "2026-11-02",
+      "editado_utc": null,
+      "texto": "Chani:\n**No respondí y solo me acurruqué en tus brazos mientras lloraba en silencio, el frío de su metal extrañamente se sentía muy cálido**",
+      "mensaje_sha256": "d8c236928469cd32d8063fefeaecde4c667659083f6cf8d31fe8b9f4bb37be3b",
+      "texto_sha256": "439bad12e50a7aa0bc8a83ffc915736dc40126b5d4bc09b3a329cae3673de4c4",
+      "tipo_discord": 19,
+      "referencia": "1566658409284239504",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566659630447198251",
+      "adjuntos": []
+    },
+    {
+      "id": "1566661008091643935",
+      "fecha_utc": "2026-11-02T03:51:31.483000+00:00",
+      "fecha_local": "2026-11-02",
+      "editado_utc": "2026-11-02T03:56:35.941000+00:00",
+      "texto": "Opi:\n**Abraza con cuidado a Chani y permanece en silencio e inmovil, moviendo solo el brazo de vez en cuando para darle palmaditas en la espalda**\n\n🔴 Fin de la escena 🔴",
+      "mensaje_sha256": "230d9b65158c61fd0572f5f4cefc62339f4a7dd1817fee09f58630b2f1763cfb",
+      "texto_sha256": "64d3aa14b0f5a011072652ffbf9ef34c711f879e073c362e1f5a0e30ccb2d854",
+      "tipo_discord": 19,
+      "referencia": "1566659630447198251",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1566661008091643935",
+      "adjuntos": []
+    }
+  ]
+}

@@ -2,8 +2,7 @@
   "hilo_id": "1558234683177963582",
   "hilo": "Tutucan - La ciudad de los Elementos",
   "campana": "xoltacan",
-  "unidades_leidas": 4,
-  "alcance": "98 mensajes, cinco partes y tres imágenes completos. Se conserva la apertura geográfica como contexto.",
+  "alcance": "98 mensajes, cinco partes y tres imágenes completos. Se conserva la apertura geográfica como contexto. Continuación revisada: Lectura completa de 181 mensajes nuevos, cinco partes, dos imágenes completas y contexto de la carta y el mausoleo. Audio conservado sin transcripción fiable; cotejo técnico realizado por el coordinador.",
   "identidades": [
     {
       "nombre": "Mamá Citlali",
@@ -94,6 +93,147 @@
           "escena": "x-1559568055775002647",
           "fecha_utc": "2026-10-13T14:30:47.501000+00:00",
           "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559574127579365408"
+        }
+      ]
+    },
+    {
+      "nombre": "Nox",
+      "alias": [
+        "Jim Hawkins",
+        "Amaru"
+      ],
+      "nota": "Nox declara Jim Hawkins como su nombre y Citlali explica que llamó Amaru al bebé que rescató. Él rechaza al principio ese nombre, pero al final pregunta por su significado, sin obtener respuesta. Son tratamientos de la misma persona, no personajes nuevos.",
+      "pruebas": [
+        "1564414134680952953",
+        "1564417421060870147",
+        "1566208675121598549"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564414134680952953",
+          "escena": "x-1564398743661453384",
+          "fecha_utc": "2026-10-26T23:03:15.117000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564414134680952953"
+        },
+        {
+          "mensaje_id": "1564417421060870147",
+          "escena": "x-1564398743661453384",
+          "fecha_utc": "2026-10-26T23:16:18.651000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564417421060870147"
+        },
+        {
+          "mensaje_id": "1566208675121598549",
+          "escena": "x-1566151881695174838",
+          "fecha_utc": "2026-10-31T21:54:06.899000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566208675121598549"
+        }
+      ]
+    },
+    {
+      "nombre": "Chanecuxtli",
+      "alias": [
+        "Chani"
+      ],
+      "nota": "La líder se presenta con ambos nombres y se identifica como cabeza de Chik’in, la Hormiga Roja.",
+      "pruebas": [
+        "1564662334360789033"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564662334360789033",
+          "escena": "x-1564561375844368386",
+          "fecha_utc": "2026-10-27T15:29:30.532000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564662334360789033"
+        }
+      ]
+    },
+    {
+      "nombre": "Jack",
+      "alias": [
+        "Jack Jackson",
+        "Jacky",
+        "Jackie",
+        "Jacky Jackson"
+      ],
+      "nota": "Nox enumera al mismo grumete como Jack «Jacky» Jackson; Jackie es la cabecera empleada durante su disculpa.",
+      "pruebas": [
+        "1564371097539837953",
+        "1565727413013585921"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564371097539837953",
+          "escena": "x-1564350433743601665",
+          "fecha_utc": "2026-10-26T20:12:14.263000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564371097539837953"
+        },
+        {
+          "mensaje_id": "1565727413013585921",
+          "escena": "x-1565719701248544955",
+          "fecha_utc": "2026-10-30T14:01:45.071000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1565727413013585921"
+        }
+      ]
+    },
+    {
+      "nombre": "Ilikan",
+      "alias": [],
+      "nota": "Hermano de Ilikar y destinatario de una carta escrita con antelación. No aparece físicamente ni consta que haya recibido la libreta.",
+      "pruebas": [
+        "1563971220137836677"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1563971220137836677",
+          "escena": "x-1563965482334158929",
+          "fecha_utc": "2026-10-25T17:43:16.061000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563971220137836677"
+        }
+      ]
+    },
+    {
+      "nombre": "Libreta de Ilikar",
+      "alias": [],
+      "nota": "Cuaderno de dibujos y ruta, con una carta al hermano del goliat. Tortas lo recoge y añade caminos seguros; no se acredita su entrega final.",
+      "pruebas": [
+        "1563965482334158929",
+        "1563967295896944691",
+        "1563976080325349430"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1563965482334158929",
+          "escena": "x-1563965482334158929",
+          "fecha_utc": "2026-10-25T17:20:28.062000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563965482334158929"
+        },
+        {
+          "mensaje_id": "1563967295896944691",
+          "escena": "x-1563965482334158929",
+          "fecha_utc": "2026-10-25T17:27:40.449000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563967295896944691"
+        },
+        {
+          "mensaje_id": "1563976080325349430",
+          "escena": "x-1563965482334158929",
+          "fecha_utc": "2026-10-25T18:02:34.820000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563976080325349430"
+        }
+      ]
+    },
+    {
+      "nombre": "Cinta roja de la glaive de Ilikar",
+      "alias": [],
+      "nota": "La ráfaga la suelta del arma y la ciñe al brazo de Tortas. El gesto transmite el legado en la narración, sin identificar una nueva entidad actuante.",
+      "pruebas": [
+        "1564045029293691024"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564045029293691024",
+          "escena": "x-1563965482334158929",
+          "fecha_utc": "2026-10-25T22:36:33.535000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564045029293691024"
         }
       ]
     }
@@ -236,6 +376,186 @@
           "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1560768663332720700"
         }
       ]
+    },
+    {
+      "nombre": "El legado de Ilikar y el camino de los Thuun-Khaz",
+      "avance": "La despedida confirma su muerte. La carta pide a Ilikan guiar al pueblo hasta Xoltacan; Tortas incorpora rutas y lugares seguros a la libreta y asume completar la misión. Quedan por demostrar la entrega al hermano y el viaje del pueblo.",
+      "pruebas": [
+        "1563971220137836677",
+        "1563976080325349430",
+        "1564015759783628823",
+        "1564061457799323698"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1563971220137836677",
+          "escena": "x-1563965482334158929",
+          "fecha_utc": "2026-10-25T17:43:16.061000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563971220137836677"
+        },
+        {
+          "mensaje_id": "1563976080325349430",
+          "escena": "x-1563965482334158929",
+          "fecha_utc": "2026-10-25T18:02:34.820000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563976080325349430"
+        },
+        {
+          "mensaje_id": "1564015759783628823",
+          "escena": "x-1563965482334158929",
+          "fecha_utc": "2026-10-25T20:40:15.140000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564015759783628823"
+        },
+        {
+          "mensaje_id": "1564061457799323698",
+          "escena": "x-1563965482334158929",
+          "fecha_utc": "2026-10-25T23:41:50.396000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564061457799323698"
+        }
+      ]
+    },
+    {
+      "nombre": "El regreso de Nox y el rescate del cofre",
+      "avance": "Nox vuelve a la tripulación y Zoltan atribuye el regreso al esfuerzo del grupo. Citlali confiesa que lo ocultó para salvarlo de perseguidores interesados en su sangre; la nana evoca su recuerdo infantil. Más tarde Nox reconoce el rescate, sin aceptar una identidad filial plena ni revelar el mecanismo de su retorno.",
+      "pruebas": [
+        "1564368693537013993",
+        "1564414134680952953",
+        "1564418878317011006",
+        "1564425592500260917",
+        "1566208675121598549"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564368693537013993",
+          "escena": "x-1564350433743601665",
+          "fecha_utc": "2026-10-26T20:02:41.104000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564368693537013993"
+        },
+        {
+          "mensaje_id": "1564414134680952953",
+          "escena": "x-1564398743661453384",
+          "fecha_utc": "2026-10-26T23:03:15.117000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564414134680952953"
+        },
+        {
+          "mensaje_id": "1564418878317011006",
+          "escena": "x-1564398743661453384",
+          "fecha_utc": "2026-10-26T23:22:06.088000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564418878317011006"
+        },
+        {
+          "mensaje_id": "1564425592500260917",
+          "escena": "x-1564398743661453384",
+          "fecha_utc": "2026-10-26T23:48:46.874000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564425592500260917"
+        },
+        {
+          "mensaje_id": "1566208675121598549",
+          "escena": "x-1566151881695174838",
+          "fecha_utc": "2026-10-31T21:54:06.899000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566208675121598549"
+        }
+      ]
+    },
+    {
+      "nombre": "La afiliación pirata a Chik’in",
+      "avance": "Nox promete aportar reclutas y luego presenta a Mingo, Mango, Mungo, Babs, Ojoausente, Sopamugre y Jacky. Chani los recibe, los lava y parte con el nuevo grupo hacia una reunión. No se supone que Nox quede afiliado solo por ser lavado o por presentarlos.",
+      "pruebas": [
+        "1564679322382508063",
+        "1565724595221438565",
+        "1565727413013585921",
+        "1565785741022331032"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564679322382508063",
+          "escena": "x-1564561375844368386",
+          "fecha_utc": "2026-10-27T16:37:00.792000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564679322382508063"
+        },
+        {
+          "mensaje_id": "1565724595221438565",
+          "escena": "x-1565719701248544955",
+          "fecha_utc": "2026-10-30T13:50:33.257000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1565724595221438565"
+        },
+        {
+          "mensaje_id": "1565727413013585921",
+          "escena": "x-1565719701248544955",
+          "fecha_utc": "2026-10-30T14:01:45.071000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1565727413013585921"
+        },
+        {
+          "mensaje_id": "1565785741022331032",
+          "escena": "x-1565719701248544955",
+          "fecha_utc": "2026-10-30T17:53:31.552000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1565785741022331032"
+        }
+      ]
+    },
+    {
+      "nombre": "Los orbes y la estrategia contra la maldición",
+      "avance": "Nox muestra dos orbes a Citlali, quien recuerda la fuente anunciada por Yoali. El pirata desea romper sus cadenas y recuperar la pista de Bones; propone actuar después de la liberación de la criatura, una estrategia que Citlali no da por demostrada. Ella ofrece colaborar.",
+      "pruebas": [
+        "1566183747139928126",
+        "1566184381415161908",
+        "1566186066782855241",
+        "1566200055449522217",
+        "1566205006095319211"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1566183747139928126",
+          "escena": "x-1566151881695174838",
+          "fecha_utc": "2026-10-31T20:15:03.605000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566183747139928126"
+        },
+        {
+          "mensaje_id": "1566184381415161908",
+          "escena": "x-1566151881695174838",
+          "fecha_utc": "2026-10-31T20:17:34.828000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566184381415161908"
+        },
+        {
+          "mensaje_id": "1566186066782855241",
+          "escena": "x-1566151881695174838",
+          "fecha_utc": "2026-10-31T20:24:16.651000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566186066782855241"
+        },
+        {
+          "mensaje_id": "1566200055449522217",
+          "escena": "x-1566151881695174838",
+          "fecha_utc": "2026-10-31T21:19:51.809000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566200055449522217"
+        },
+        {
+          "mensaje_id": "1566205006095319211",
+          "escena": "x-1566151881695174838",
+          "fecha_utc": "2026-10-31T21:39:32.135000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566205006095319211"
+        }
+      ]
+    },
+    {
+      "nombre": "El encargo de ropa de Oghma",
+      "avance": "Oghma presenta una carta atribuida al conde Moor y Tsugami toma medidas. No se ve la confección, entrega o pago del nuevo vestuario.",
+      "pruebas": [
+        "1562833905764278313",
+        "1563133773577588859"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1562833905764278313",
+          "escena": "x-1562833905764278313",
+          "fecha_utc": "2026-10-22T14:23:59.184000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1562833905764278313"
+        },
+        {
+          "mensaje_id": "1563133773577588859",
+          "escena": "x-1562833905764278313",
+          "fecha_utc": "2026-10-23T10:15:33.242000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563133773577588859"
+        }
+      ]
     }
   ],
   "pendientes": [
@@ -307,7 +627,24 @@
           "fecha_utc": "2026-10-17T20:09:54.414000+00:00",
           "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561109020180226190"
         }
-      ]
+      ],
+      "cotejo_posterior": {
+        "estado": "parcial",
+        "respuesta": "Naór piensa ante Ilikar que Vak ya la está entrenando para que algún día pueda superarlo o darle un gran combate.",
+        "pendiente": "Esta escena no representa el cumplimiento del combate prometido ni que Naór haya superado a Vak.",
+        "pruebas": [
+          "1563508720795783360"
+        ],
+        "fuentes_rol": [
+          {
+            "mensaje_id": "1563508720795783360",
+            "escena": "x-1563508720795783360",
+            "fecha_utc": "2026-10-24T11:05:27.625000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563508720795783360"
+          }
+        ],
+        "orden_temporal": "posterior"
+      }
     },
     {
       "pregunta": "¿Qué ceremonia o costumbres debe seguir Oghma tras recibir el collar de los Mo’?",
@@ -334,6 +671,195 @@
           "escena": "x-1560768663332720700",
           "fecha_utc": "2026-10-16T21:37:27.018000+00:00",
           "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1560768663332720700"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Recibe Ilikan la libreta y logra Tortas conducir al pueblo de Ilikar hasta Xoltacan?",
+      "nota": "Tortas asume la misión y añade rutas, pero no se representa la entrega ni el traslado de los Thuun-Khaz.",
+      "pruebas": [
+        "1563971220137836677",
+        "1563976080325349430",
+        "1564015759783628823"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1563971220137836677",
+          "escena": "x-1563965482334158929",
+          "fecha_utc": "2026-10-25T17:43:16.061000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563971220137836677"
+        },
+        {
+          "mensaje_id": "1563976080325349430",
+          "escena": "x-1563965482334158929",
+          "fecha_utc": "2026-10-25T18:02:34.820000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563976080325349430"
+        },
+        {
+          "mensaje_id": "1564015759783628823",
+          "escena": "x-1563965482334158929",
+          "fecha_utc": "2026-10-25T20:40:15.140000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564015759783628823"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué significa Amaru y por qué Nistra asegura que no es un nombre?",
+      "nota": "Nistra lo reconoce ante Dimleila. Nox pregunta a Citlali, pero él mismo aplaza la explicación antes de que responda.",
+      "pruebas": [
+        "1564533099679719575",
+        "1566208675121598549"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564533099679719575",
+          "escena": "x-1564533099679719575",
+          "fecha_utc": "2026-10-27T06:55:58.583000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564533099679719575"
+        },
+        {
+          "mensaje_id": "1566208675121598549",
+          "escena": "x-1566151881695174838",
+          "fecha_utc": "2026-10-31T21:54:06.899000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566208675121598549"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué mantiene vivo a Nox y qué relación tienen los dos orbes, sus ojos negros y la maldición de Citlali?",
+      "nota": "El arma se encasquilla, Nox muestra los orbes y Citlali formula una hipótesis con la fuente de Yoali. El cambio de ojos queda mostrado, pero no explicado.",
+      "pruebas": [
+        "1564417421060870147",
+        "1566183747139928126",
+        "1566184381415161908",
+        "1566208675121598549"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564417421060870147",
+          "escena": "x-1564398743661453384",
+          "fecha_utc": "2026-10-26T23:16:18.651000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564417421060870147"
+        },
+        {
+          "mensaje_id": "1566183747139928126",
+          "escena": "x-1566151881695174838",
+          "fecha_utc": "2026-10-31T20:15:03.605000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566183747139928126"
+        },
+        {
+          "mensaje_id": "1566184381415161908",
+          "escena": "x-1566151881695174838",
+          "fecha_utc": "2026-10-31T20:17:34.828000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566184381415161908"
+        },
+        {
+          "mensaje_id": "1566208675121598549",
+          "escena": "x-1566151881695174838",
+          "fecha_utc": "2026-10-31T21:54:06.899000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566208675121598549"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En qué consiste el plan de Nox para actuar cuando la criatura sea liberada y qué función tendrá cada aliado?",
+      "nota": "Nox afirma que impedir el ritual no bastará y habla de piezas con funciones concretas. No aporta los detalles ni demuestra que su planteamiento vaya a funcionar.",
+      "pruebas": [
+        "1566191554824118404",
+        "1566200055449522217",
+        "1566205006095319211"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1566191554824118404",
+          "escena": "x-1566151881695174838",
+          "fecha_utc": "2026-10-31T20:46:05.102000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566191554824118404"
+        },
+        {
+          "mensaje_id": "1566200055449522217",
+          "escena": "x-1566151881695174838",
+          "fecha_utc": "2026-10-31T21:19:51.809000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566200055449522217"
+        },
+        {
+          "mensaje_id": "1566205006095319211",
+          "escena": "x-1566151881695174838",
+          "fecha_utc": "2026-10-31T21:39:32.135000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566205006095319211"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué fue de la antigua tripulación del capitán Bones?",
+      "nota": "Nox reafirma que esclarecerlo es su prioridad, sin incorporar una respuesta nueva.",
+      "pruebas": [
+        "1566186066782855241"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1566186066782855241",
+          "escena": "x-1566151881695174838",
+          "fecha_utc": "2026-10-31T20:24:16.651000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566186066782855241"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Se entrega el vestuario encargado para Oghma y paga el conde Moor la cuenta?",
+      "nota": "La carta y las medidas solo documentan el encargo.",
+      "pruebas": [
+        "1562833905764278313",
+        "1563133773577588859"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1562833905764278313",
+          "escena": "x-1562833905764278313",
+          "fecha_utc": "2026-10-22T14:23:59.184000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1562833905764278313"
+        },
+        {
+          "mensaje_id": "1563133773577588859",
+          "escena": "x-1562833905764278313",
+          "fecha_utc": "2026-10-23T10:15:33.242000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563133773577588859"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cómo continúa la relación de Nox y Citlali tras el agradecimiento por el rescate?",
+      "nota": "Hay colaboración y respeto por el nombre Nox. El pensamiento final madre no lo escucha Citlali y no cierra el conflicto.",
+      "pruebas": [
+        "1566205006095319211",
+        "1566208675121598549",
+        "1566211106001789061",
+        "1566212543544819823"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1566205006095319211",
+          "escena": "x-1566151881695174838",
+          "fecha_utc": "2026-10-31T21:39:32.135000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566205006095319211"
+        },
+        {
+          "mensaje_id": "1566208675121598549",
+          "escena": "x-1566151881695174838",
+          "fecha_utc": "2026-10-31T21:54:06.899000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566208675121598549"
+        },
+        {
+          "mensaje_id": "1566211106001789061",
+          "escena": "x-1566151881695174838",
+          "fecha_utc": "2026-10-31T22:03:46.466000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566211106001789061"
+        },
+        {
+          "mensaje_id": "1566212543544819823",
+          "escena": "x-1566151881695174838",
+          "fecha_utc": "2026-10-31T22:09:29.203000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566212543544819823"
         }
       ]
     }
@@ -447,14 +973,251 @@
           "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1561127027828981902"
         }
       ]
+    },
+    {
+      "personas": [
+        "Naór",
+        "Tessa"
+      ],
+      "desarrollo": "Naór agradece que Tessa combatiera junto a Ilikar, la considera parte de su clan por cuidar de Leo y comparte el duelo sin exigirle trato de princesa.",
+      "pruebas": [
+        "1563550657011781633",
+        "1563850181890416701"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1563550657011781633",
+          "escena": "x-1563508720795783360",
+          "fecha_utc": "2026-10-24T13:52:05.998000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563550657011781633"
+        },
+        {
+          "mensaje_id": "1563850181890416701",
+          "escena": "x-1563508720795783360",
+          "fecha_utc": "2026-10-25T09:42:18.294000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563850181890416701"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Tortas",
+        "Ilikar",
+        "Ilikan"
+      ],
+      "desarrollo": "El maestro llora a su alumno y asume el camino pendiente para su hermano y su pueblo, añadiendo rutas seguras a la libreta.",
+      "pruebas": [
+        "1563965482334158929",
+        "1563971220137836677",
+        "1563976080325349430",
+        "1564015759783628823"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1563965482334158929",
+          "escena": "x-1563965482334158929",
+          "fecha_utc": "2026-10-25T17:20:28.062000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563965482334158929"
+        },
+        {
+          "mensaje_id": "1563971220137836677",
+          "escena": "x-1563965482334158929",
+          "fecha_utc": "2026-10-25T17:43:16.061000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563971220137836677"
+        },
+        {
+          "mensaje_id": "1563976080325349430",
+          "escena": "x-1563965482334158929",
+          "fecha_utc": "2026-10-25T18:02:34.820000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563976080325349430"
+        },
+        {
+          "mensaje_id": "1564015759783628823",
+          "escena": "x-1563965482334158929",
+          "fecha_utc": "2026-10-25T20:40:15.140000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564015759783628823"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Nox",
+        "Citlali"
+      ],
+      "desarrollo": "Del reproche violento pasan a una conversación sobria y a la ayuda ofrecida contra la maldición. Él agradece el rescate; ella respeta que se llame Nox. El vínculo de madre e hijo continúa con dolor y límites.",
+      "pruebas": [
+        "1564414134680952953",
+        "1566166727216337007",
+        "1566205006095319211",
+        "1566208675121598549",
+        "1566212543544819823"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564414134680952953",
+          "escena": "x-1564398743661453384",
+          "fecha_utc": "2026-10-26T23:03:15.117000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564414134680952953"
+        },
+        {
+          "mensaje_id": "1566166727216337007",
+          "escena": "x-1566151881695174838",
+          "fecha_utc": "2026-10-31T19:07:25.739000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566166727216337007"
+        },
+        {
+          "mensaje_id": "1566205006095319211",
+          "escena": "x-1566151881695174838",
+          "fecha_utc": "2026-10-31T21:39:32.135000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566205006095319211"
+        },
+        {
+          "mensaje_id": "1566208675121598549",
+          "escena": "x-1566151881695174838",
+          "fecha_utc": "2026-10-31T21:54:06.899000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566208675121598549"
+        },
+        {
+          "mensaje_id": "1566212543544819823",
+          "escena": "x-1566151881695174838",
+          "fecha_utc": "2026-10-31T22:09:29.203000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566212543544819823"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Ione",
+        "Nox"
+      ],
+      "desarrollo": "Ione lo presenta como su mejor amigo, interviene para contener la crisis y sale tras él. Más tarde Nox expresa sentir que la capitana lo necesita menos, una percepción suya.",
+      "pruebas": [
+        "1564371251378655286",
+        "1564418490407067659",
+        "1564427472471195670",
+        "1566186066782855241"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564371251378655286",
+          "escena": "x-1564350433743601665",
+          "fecha_utc": "2026-10-26T20:12:50.941000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564371251378655286"
+        },
+        {
+          "mensaje_id": "1564418490407067659",
+          "escena": "x-1564398743661453384",
+          "fecha_utc": "2026-10-26T23:20:33.603000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564418490407067659"
+        },
+        {
+          "mensaje_id": "1564427472471195670",
+          "escena": "x-1564398743661453384",
+          "fecha_utc": "2026-10-26T23:56:15.094000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564427472471195670"
+        },
+        {
+          "mensaje_id": "1566186066782855241",
+          "escena": "x-1566151881695174838",
+          "fecha_utc": "2026-10-31T20:24:16.651000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566186066782855241"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Oghma",
+        "Zoltan",
+        "Citlali"
+      ],
+      "desarrollo": "Los dos compañeros sostienen el duelo de Citlali tras la salida de Nox; el abrazo termina cuando Zoltan se incomoda con Oghma.",
+      "pruebas": [
+        "1564428022394921011",
+        "1564428391921221684",
+        "1564429075404029963",
+        "1564437138227859518"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564428022394921011",
+          "escena": "x-1564398743661453384",
+          "fecha_utc": "2026-10-26T23:58:26.206000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564428022394921011"
+        },
+        {
+          "mensaje_id": "1564428391921221684",
+          "escena": "x-1564398743661453384",
+          "fecha_utc": "2026-10-26T23:59:54.308000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564428391921221684"
+        },
+        {
+          "mensaje_id": "1564429075404029963",
+          "escena": "x-1564398743661453384",
+          "fecha_utc": "2026-10-27T00:02:37.263000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564429075404029963"
+        },
+        {
+          "mensaje_id": "1564437138227859518",
+          "escena": "x-1564398743661453384",
+          "fecha_utc": "2026-10-27T00:34:39.590000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564437138227859518"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Nox",
+        "Chanecuxtli",
+        "Patata"
+      ],
+      "desarrollo": "Patata facilita el encuentro y paga la comida; Nox ofrece reclutas y Chani cumple la acogida al clan y su peculiar disciplina de higiene.",
+      "pruebas": [
+        "1564649555704942785",
+        "1564662334360789033",
+        "1564679322382508063",
+        "1565785741022331032"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564649555704942785",
+          "escena": "x-1564561375844368386",
+          "fecha_utc": "2026-10-27T14:38:43.863000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564649555704942785"
+        },
+        {
+          "mensaje_id": "1564662334360789033",
+          "escena": "x-1564561375844368386",
+          "fecha_utc": "2026-10-27T15:29:30.532000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564662334360789033"
+        },
+        {
+          "mensaje_id": "1564679322382508063",
+          "escena": "x-1564561375844368386",
+          "fecha_utc": "2026-10-27T16:37:00.792000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564679322382508063"
+        },
+        {
+          "mensaje_id": "1565785741022331032",
+          "escena": "x-1565719701248544955",
+          "fecha_utc": "2026-10-30T17:53:31.552000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1565785741022331032"
+        }
+      ]
     }
   ],
   "precauciones_editoriales": [
     "Las apariciones de la familia de Naór son sueños y visiones; no se convierten en resurrecciones.",
     "El McKuroto, los recuerdos de Chani y las menciones a otras islas se citan como fuentes de Xoltacan; no se importan identidades por coincidencia de nombre o autor.",
-    "El cartel del Gran Prix promete premios, no certifica resultados."
+    "El cartel del Gran Prix promete premios, no certifica resultados.",
+    "Los relatos, rumores y recuerdos de Tsugami sobre Kuroto se conservan en Xoltacan sin importar identidades o sucesos como canon comprobado de Kuroto.",
+    "Las variantes de nombres de Tessa se mantienen en los originales; no se crean identidades ni equivalencias nuevas a partir de ellas.",
+    "La despedida de Ilikar confirma la muerte: flores, espíritus, sueño final y cinta roja no son una resurrección.",
+    "Nox ha regresado, pero el mecanismo, los ojos negros y el resultado del encasquillamiento no demuestran inmortalidad ni una posesión determinada.",
+    "Los recuerdos de bebé y los pensamientos de Nox no pasan automáticamente a ser conocimiento de Citlali, Nistra o el resto del grupo.",
+    "El audio permanece íntegro, sin una transcripción de habla fiable; no se inventan palabras para completarlo."
   ],
+  "unidades_leidas": 5,
   "estado_seguimiento": "al_cierre_del_hilo",
   "nota_seguimiento": "Cada cuestión conserva el contexto de sus mensajes originales. Los cotejos enlazan las respuestas halladas en otras escenas; la ausencia de un cotejo no demuestra que siga abierta después de otros capítulos.",
-  "fecha_hasta_utc": "2026-10-18T13:42:20.097000+00:00"
+  "fecha_hasta_utc": "2026-11-01T08:00:55.758000+00:00"
 }

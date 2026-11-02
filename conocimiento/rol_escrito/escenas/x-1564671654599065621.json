@@ -1,0 +1,133 @@
+{
+  "id": "x-1564671654599065621",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1564671654599065621",
+  "hilo_id": "1563959420193480704",
+  "hilo_nombre": "Cementerio - La ciudad de los Elementos",
+  "titulo": "Ione despierta entre tumbas y sale a buscar a Nox",
+  "resumen": "Después de beber, Ione despierta junto a un cadáver, cambia su ropa rota y se dirige a los clanes elementales en busca de Nox.",
+  "relato": "Ione despierta en una zanja con el cuerpo de una mujer encima. La primera impresión la asusta; después teme haberla matado ella misma, pero no encuentra golpes ni señales de garras en el cadáver y se tranquiliza. La escena conserva sus sospechas y su alivio, sin resolver cómo murió aquella mujer ni cómo acabaron juntas.\n\nCon la ropa destrozada por su transformación, Ione compara ambos atuendos y cambia el suyo por el de la fallecida. El nuevo conjunto le resulta incómodo y poco adecuado para correr, aunque le parece preferible a seguir desnuda. La imagen adjunta la presenta vestida de pirata; acompaña el cambio de aspecto sin añadir encuentros o acciones al texto.\n\nMientras sale de la zanja y se quita la tierra, atribuye su estado a haber bebido de un frasco que contenía una cabeza pequeña. Ha perdido de vista a Nox y trata de adivinar dónde lo encontraría: en el mayor problema posible y ante la gente más poderosa. Esa deducción la conduce hacia la base de los clanes elementales. No lo encuentra en este hilo; el cierre marca su salida para buscarlo.",
+  "participantes": [
+    "Ione"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1564671654599065621",
+      "afirmacion": "Ione despierta con una difunta en una zanja, cambia su ropa y reconoce haber perdido de vista a Nox.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1564671741106852030",
+      "afirmacion": "Una imagen acompaña el nuevo aspecto pirata de Ione.",
+      "tipo": "descripcion"
+    },
+    {
+      "mensaje_id": "1564672358189629491",
+      "afirmacion": "Ione se dirige a los clanes elementales con la intención de buscar a Nox.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1564672765548830852",
+      "afirmacion": "El marcador cierra la salida de Ione.",
+      "tipo": "descripcion"
+    }
+  ],
+  "notas": [
+    "No hay causa documentada de la muerte de la mujer de la zanja. El temor de Ione a haberla matado no es una confesión ni una prueba.",
+    "La búsqueda de Nox empieza aquí; su resultado corresponde a otras escenas.",
+    "Imagen completa inspeccionada: mujer con sombrero pirata, ropa negra y roja y fondo de ciudad con pirámides; no documenta un nuevo lugar de llegada."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-10-27T16:06:32.650000+00:00",
+  "fin_utc": "2026-10-27T16:10:57.521000+00:00",
+  "fecha_local": "2026-10-27",
+  "intervalo": {
+    "anterior": 72,
+    "siguiente": null,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236",
+    "siguiente_fuente": null,
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 72,
+        "fecha": "2026-10-16",
+        "inicio_referencia_utc": "2026-10-16T18:28:13+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1564671654599065621",
+      "fecha_utc": "2026-10-27T16:06:32.650000+00:00",
+      "fecha_local": "2026-10-27",
+      "editado_utc": null,
+      "texto": "Ione: **Amanece metida en una zanja con un cuerpo de una señora encima.**\n\n**Primero se asusta del cuerpo, para despues relajarse porque esta muerta. Despues se vuelve a asustar al pensar que la podria haber matado ella... Pero luego ve que no tiene ni golpes ni garras y se relaja.**\n\n**Se mira las ropas andrajosas y luego las del cadaver... Se encoge de hombros y hace un intercambio completamente justo de ropa.**\n\nEl tanga este se me mete por el culo... Y esto... Seguro que se me sale un pecho como corra mucho... Pero bueno, mejor esto que ir desnuda que luego tengo que quitarme a los babosos de encima. Aunque ahora que lo pienso... Los furros esos van desnudos... Bueno que mas da... Total media Arghast me ha visto en pelotas...\n\n**Va saliendo de la zanja como puede.**\n\nMierda... No debi beber de esa cosa que tenia una cabeza pequeña metida en un frasco... He perdido a Nox... \n\n**Se rasca la cabeza**\n\nBueno... Toca ir a buscarlo.",
+      "mensaje_sha256": "f3b7ec70104f4b1e673c77a123a0aab45a3fc3d7e8d19360afe643482364f63f",
+      "texto_sha256": "c06fb9204ae7102e4ee3cff3549e8be49e7d649da89de09bc3b94111f8a2c581",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564671654599065621",
+      "adjuntos": []
+    },
+    {
+      "id": "1564671741106852030",
+      "fecha_utc": "2026-10-27T16:06:53.275000+00:00",
+      "fecha_local": "2026-10-27",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "5481f74c9130f66aa9fcc812a01bd881203b2e9dbcda0175fac9fb3b76bfec70",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564671741106852030",
+      "adjuntos": [
+        {
+          "id": "1564671740599205918",
+          "nombre": "7203c7ff-5c05-4d16-8752-369e99e9b424.png",
+          "tipo": "image/png",
+          "archivo": "adjuntos/1564671740599205918.png",
+          "url": "rol_escrito/adjuntos/1564671740599205918.png",
+          "bytes": 2944758,
+          "sha256": "8a6c6b5c95e4c1f2299b2becb69b80598b8653928da109eb08b712d818955f35"
+        }
+      ]
+    },
+    {
+      "id": "1564672358189629491",
+      "fecha_utc": "2026-10-27T16:09:20.399000+00:00",
+      "fecha_local": "2026-10-27",
+      "editado_utc": "2026-10-27T16:10:23.498000+00:00",
+      "texto": "Si fuera Nox... A donde iria... A donde pueda meterme en el mayor embrollo posible con la gente mas poderosa y que menos deba... Lo tengo.\n\n**Se va quitando la tierra mientras camina para salir de aqui. Tuki Tuki a ver a los clanes elementales.**",
+      "mensaje_sha256": "ec9881feff802855900b98e31343c44c178d354cd7a796214e5067e6a8d72977",
+      "texto_sha256": "7bddd5468da5e9d1cbcf7b66397925f17faa4cff7b9b547f6a4156ee00ea4914",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564672358189629491",
+      "adjuntos": []
+    },
+    {
+      "id": "1564672765548830852",
+      "fecha_utc": "2026-10-27T16:10:57.521000+00:00",
+      "fecha_local": "2026-10-27",
+      "editado_utc": null,
+      "texto": "🔴 **Fin de escena**🔴",
+      "mensaje_sha256": "e849505a6af91b24f4a6128ed4de35cc2e719d379aba162683ac8f97ff5481b8",
+      "texto_sha256": "0e513b9a495850850524d0965f55df051cd0b6a138120693016da3f3ffd42ccd",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564672765548830852",
+      "adjuntos": []
+    }
+  ]
+}

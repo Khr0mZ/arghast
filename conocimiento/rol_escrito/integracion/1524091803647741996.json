@@ -710,6 +710,77 @@
           "fecha_utc": "2026-07-13T14:01:28.723000+00:00",
           "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1526227067094433792"
         }
+      ],
+      "cotejo_posterior": {
+        "estado": "parcial",
+        "respuesta": "Citlali reúne Jim Hawkins, Nox y Amaru al presentarlo y explica que lo cuidó desde bebé sin engendrarlo. Después cuenta que lo escondió en el cofre para alejar a perseguidores interesados en su sangre. Nox revive una escena infantil del cofre al escuchar la nana, confirma que Bones lo encontró allí y reconoce que Citlali le dio una oportunidad de vivir.",
+        "pendiente": "El sentido de Amaru queda expresamente aplazado. Nistra dice en privado que no es un nombre, sin explicar a qué lo asocia. El testimonio y la visión no resuelven toda la filiación, la persecución ni la causa del regreso de Nox.",
+        "pruebas": [
+          "1563983219559370773",
+          "1564023074578243775",
+          "1564414134680952953",
+          "1564425592500260917",
+          "1564533099679719575",
+          "1566186066782855241",
+          "1566208675121598549"
+        ],
+        "fuentes_rol": [
+          {
+            "mensaje_id": "1563983219559370773",
+            "escena": "x-1563959420193480704",
+            "fecha_utc": "2026-10-25T18:30:56.946000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1563983219559370773"
+          },
+          {
+            "mensaje_id": "1564023074578243775",
+            "escena": "x-1563959420193480704",
+            "fecha_utc": "2026-10-25T21:09:19.123000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564023074578243775"
+          },
+          {
+            "mensaje_id": "1564414134680952953",
+            "escena": "x-1564398743661453384",
+            "fecha_utc": "2026-10-26T23:03:15.117000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564414134680952953"
+          },
+          {
+            "mensaje_id": "1564425592500260917",
+            "escena": "x-1564398743661453384",
+            "fecha_utc": "2026-10-26T23:48:46.874000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564425592500260917"
+          },
+          {
+            "mensaje_id": "1564533099679719575",
+            "escena": "x-1564533099679719575",
+            "fecha_utc": "2026-10-27T06:55:58.583000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564533099679719575"
+          },
+          {
+            "mensaje_id": "1566186066782855241",
+            "escena": "x-1566151881695174838",
+            "fecha_utc": "2026-10-31T20:24:16.651000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566186066782855241"
+          },
+          {
+            "mensaje_id": "1566208675121598549",
+            "escena": "x-1566151881695174838",
+            "fecha_utc": "2026-10-31T21:54:06.899000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566208675121598549"
+          }
+        ],
+        "orden_temporal": "posterior"
+      },
+      "historial_cotejos": [
+        {
+          "estado": "parcial",
+          "respuesta": "Citlali identifica expresamente a Nox con Jim Hawkins y Amaru y sostiene haberlo cuidado desde bebé. Él responde al nombre en esa conversación, pero exige que no lo usen y rechaza el parentesco.",
+          "pendiente": "La explicación completa del cofre y de la crianza sigue ausente; esta declaración no equivale a una comprobación independiente ni a aceptación de Nox.",
+          "pruebas": [
+            "1563983219559370773",
+            "1564023074578243775",
+            "1564058180000940053"
+          ]
+        }
       ]
     },
     {
@@ -899,7 +970,52 @@
           "fecha_utc": "2026-10-15T17:38:38.941000+00:00",
           "url_discord": "https://discord.com/channels/946724148628041748/1524091803647741996/1560346179156312136"
         }
-      ]
+      ],
+      "cotejo_posterior": {
+        "estado": "parcial",
+        "respuesta": "Naór visita a Ilikar en la sala que le han dedicado en el templo de Tutucan; el duelo de Tessa y Tortas y la despedida posterior documentan la llegada del cuerpo. Tortas encuentra además en la libreta una carta dirigida a Ilikan, con el encargo de guiar a su pueblo hasta Xoltacan, y añade rutas seguras para continuar la misión.",
+        "pendiente": "La carta que Naór había encontrado bajo su puerta iba dirigida a ella. La nueva nota está dirigida a Ilikan: no se equiparan ambos documentos y el contenido de la carta de Naór continúa sin conocerse. Tampoco se muestra la entrega de la libreta al hermano ni el viaje del pueblo.",
+        "pruebas": [
+          "1563508720795783360",
+          "1563971220137836677",
+          "1563976080325349430",
+          "1564015759783628823",
+          "1564061457799323698"
+        ],
+        "fuentes_rol": [
+          {
+            "mensaje_id": "1563508720795783360",
+            "escena": "x-1563508720795783360",
+            "fecha_utc": "2026-10-24T11:05:27.625000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563508720795783360"
+          },
+          {
+            "mensaje_id": "1563971220137836677",
+            "escena": "x-1563965482334158929",
+            "fecha_utc": "2026-10-25T17:43:16.061000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563971220137836677"
+          },
+          {
+            "mensaje_id": "1563976080325349430",
+            "escena": "x-1563965482334158929",
+            "fecha_utc": "2026-10-25T18:02:34.820000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563976080325349430"
+          },
+          {
+            "mensaje_id": "1564015759783628823",
+            "escena": "x-1563965482334158929",
+            "fecha_utc": "2026-10-25T20:40:15.140000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564015759783628823"
+          },
+          {
+            "mensaje_id": "1564061457799323698",
+            "escena": "x-1563965482334158929",
+            "fecha_utc": "2026-10-25T23:41:50.396000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564061457799323698"
+          }
+        ],
+        "orden_temporal": "posterior"
+      }
     },
     {
       "pregunta": "¿Qué juego prepara Kiaransalee y cuál es el siguiente objetivo del Zin-Carla?",

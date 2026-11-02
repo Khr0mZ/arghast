@@ -1,0 +1,742 @@
+{
+  "hilo_id": "1563959420193480704",
+  "hilo": "Cementerio - La ciudad de los Elementos",
+  "campana": "xoltacan",
+  "alcance": "Lectura completa de 102 mensajes del 25 al 28 de octubre de 2026 y de sus tres imágenes: plano del cementerio, retrato de Yoali e imagen de Ione. Cuatro relatos conservan todo el texto, incluidos marcadores e imágenes sin texto.",
+  "identidades": [
+    {
+      "nombre": "Nox",
+      "alias": [
+        "Jim Hawkins",
+        "Jim",
+        "Amaru (nombre usado por Citlali)"
+      ],
+      "nota": "Citlali reúne los nombres de la misma persona; Nox prefiere Jim o Nox y rechaza Amaru y la maternidad que ella reivindica.",
+      "pruebas": [
+        "1563983219559370773",
+        "1564023074578243775",
+        "1564058180000940053"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1563983219559370773",
+          "escena": "x-1563959420193480704",
+          "fecha_utc": "2026-10-25T18:30:56.946000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1563983219559370773"
+        },
+        {
+          "mensaje_id": "1564023074578243775",
+          "escena": "x-1563959420193480704",
+          "fecha_utc": "2026-10-25T21:09:19.123000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564023074578243775"
+        },
+        {
+          "mensaje_id": "1564058180000940053",
+          "escena": "x-1563959420193480704",
+          "fecha_utc": "2026-10-25T23:28:48.908000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564058180000940053"
+        }
+      ]
+    },
+    {
+      "nombre": "Citlali",
+      "alias": [
+        "Mamá Citlali"
+      ],
+      "nota": "Citlali afirma haber cuidado a Nox desde bebé sin haberlo engendrado. El tratamiento de Titania solo acredita la interpretación de Poncelot.",
+      "pruebas": [
+        "1564023074578243775",
+        "1564027068822331453"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564023074578243775",
+          "escena": "x-1563959420193480704",
+          "fecha_utc": "2026-10-25T21:09:19.123000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564023074578243775"
+        },
+        {
+          "mensaje_id": "1564027068822331453",
+          "escena": "x-1563959420193480704",
+          "fecha_utc": "2026-10-25T21:25:11.425000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564027068822331453"
+        }
+      ]
+    },
+    {
+      "nombre": "Yoali",
+      "alias": [],
+      "nota": "Chamana de la choza del cementerio que cuida calaveras inquietas y practica un ritual para acceder a los recuerdos de Zoltan. Sus alusiones a la muerte no prueban una identidad divina.",
+      "pruebas": [
+        "1564031784419590227",
+        "1564309543339692215",
+        "1565098773909078057"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564031784419590227",
+          "escena": "x-1563959420193480704",
+          "fecha_utc": "2026-10-25T21:43:55.711000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564031784419590227"
+        },
+        {
+          "mensaje_id": "1564309543339692215",
+          "escena": "x-1564254792304304229",
+          "fecha_utc": "2026-10-26T16:07:38.598000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564309543339692215"
+        },
+        {
+          "mensaje_id": "1565098773909078057",
+          "escena": "x-1565069308265242697",
+          "fecha_utc": "2026-10-28T20:23:45.829000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565098773909078057"
+        }
+      ]
+    },
+    {
+      "nombre": "Uurg",
+      "alias": [],
+      "nota": "Nombre que Nox atribuye al mono muerto y al que identifica como espía de Elger «Banana» Kong; no se confirma otra grafía.",
+      "pruebas": [
+        "1563965127160627291"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1563965127160627291",
+          "escena": "x-1563959420193480704",
+          "fecha_utc": "2026-10-25T17:19:03.382000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1563965127160627291"
+        }
+      ]
+    },
+    {
+      "nombre": "Juanita",
+      "alias": [],
+      "nota": "Calavera animada a la que Yoali llama por su nombre; la muerte de la niña se conoce por su relato.",
+      "pruebas": [
+        "1564299004576010251",
+        "1564300807158104075"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564299004576010251",
+          "escena": "x-1564254792304304229",
+          "fecha_utc": "2026-10-26T15:25:45.961000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564299004576010251"
+        },
+        {
+          "mensaje_id": "1564300807158104075",
+          "escena": "x-1564254792304304229",
+          "fecha_utc": "2026-10-26T15:32:55.730000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564300807158104075"
+        }
+      ]
+    },
+    {
+      "nombre": "Piks",
+      "alias": [],
+      "nota": "Mono que susurra a Nox; el texto no presenta expresamente la equivalencia ortográfica con Pix. Mantener el cotejo de continuidad antes de fusionar etiquetas.",
+      "pruebas": [
+        "1564058180000940053"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564058180000940053",
+          "escena": "x-1563959420193480704",
+          "fecha_utc": "2026-10-25T23:28:48.908000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564058180000940053"
+        }
+      ]
+    }
+  ],
+  "arcos": [
+    {
+      "nombre": "El regreso de Nox",
+      "avance": "Nox vuelve a interactuar con sus compañeros; durante un abrazo Ione percibe una interrupción fugaz de la calidez y del latido, todavía sin explicación. Él solicita reunir al grupo para hablar.",
+      "pruebas": [
+        "1564061594324041739",
+        "1564063022555729992"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564061594324041739",
+          "escena": "x-1563959420193480704",
+          "fecha_utc": "2026-10-25T23:42:22.946000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564061594324041739"
+        },
+        {
+          "mensaje_id": "1564063022555729992",
+          "escena": "x-1563959420193480704",
+          "fecha_utc": "2026-10-25T23:48:03.463000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564063022555729992"
+        }
+      ]
+    },
+    {
+      "nombre": "La crianza de Amaru",
+      "avance": "Citlali explicita que cuidó al niño desde bebé sin engendrarlo. Aplaza la confesión sobre su regreso y Nox rechaza el parentesco y ese nombre.",
+      "pruebas": [
+        "1564023074578243775",
+        "1564058180000940053",
+        "1564342291857154141"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564023074578243775",
+          "escena": "x-1563959420193480704",
+          "fecha_utc": "2026-10-25T21:09:19.123000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564023074578243775"
+        },
+        {
+          "mensaje_id": "1564058180000940053",
+          "escena": "x-1563959420193480704",
+          "fecha_utc": "2026-10-25T23:28:48.908000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564058180000940053"
+        },
+        {
+          "mensaje_id": "1564342291857154141",
+          "escena": "x-1564254792304304229",
+          "fecha_utc": "2026-10-26T18:17:46.453000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564342291857154141"
+        }
+      ]
+    },
+    {
+      "nombre": "Memoria y tormenta de Zoltan",
+      "avance": "El ritual permite una visión de cuatro siluetas entre relámpagos; Yoali confirma un bloqueo oscuro sin identificar ni su origen ni la naturaleza del impedimento.",
+      "pruebas": [
+        "1565085191020486755",
+        "1565090358608797787",
+        "1565098773909078057",
+        "1565099881696329881"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1565085191020486755",
+          "escena": "x-1565069308265242697",
+          "fecha_utc": "2026-10-28T19:29:47.416000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565085191020486755"
+        },
+        {
+          "mensaje_id": "1565090358608797787",
+          "escena": "x-1565069308265242697",
+          "fecha_utc": "2026-10-28T19:50:19.465000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565090358608797787"
+        },
+        {
+          "mensaje_id": "1565098773909078057",
+          "escena": "x-1565069308265242697",
+          "fecha_utc": "2026-10-28T20:23:45.829000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565098773909078057"
+        },
+        {
+          "mensaje_id": "1565099881696329881",
+          "escena": "x-1565069308265242697",
+          "fecha_utc": "2026-10-28T20:28:09.946000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565099881696329881"
+        }
+      ]
+    },
+    {
+      "nombre": "Los barcos tras la caída de Shiaru",
+      "avance": "Ione sitúa el Zampaolas en una cala y solo cree que el barco de Bonny sobrevivió. Ella y Poncelot reconocen la posible intención de Nox de ir a robarlo, sin que se lleve a cabo.",
+      "pruebas": [
+        "1564330521784230101",
+        "1564337213964296283",
+        "1564338408292221011",
+        "1564340475757072385"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564330521784230101",
+          "escena": "x-1564254792304304229",
+          "fecha_utc": "2026-10-26T17:31:00.249000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564330521784230101"
+        },
+        {
+          "mensaje_id": "1564337213964296283",
+          "escena": "x-1564254792304304229",
+          "fecha_utc": "2026-10-26T17:57:35.789000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564337213964296283"
+        },
+        {
+          "mensaje_id": "1564338408292221011",
+          "escena": "x-1564254792304304229",
+          "fecha_utc": "2026-10-26T18:02:20.539000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564338408292221011"
+        },
+        {
+          "mensaje_id": "1564340475757072385",
+          "escena": "x-1564254792304304229",
+          "fecha_utc": "2026-10-26T18:10:33.461000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564340475757072385"
+        }
+      ]
+    },
+    {
+      "nombre": "La brújula y la moneda",
+      "avance": "Nox devuelve a Ione la moneda que reclama y recupera su brújula de la choza de Yoali. El hilo no demuestra propiedades nuevas de ninguno de los objetos.",
+      "pruebas": [
+        "1564063847487111369",
+        "1564341196397084723",
+        "1564342291857154141"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564063847487111369",
+          "escena": "x-1563959420193480704",
+          "fecha_utc": "2026-10-25T23:51:20.142000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564063847487111369"
+        },
+        {
+          "mensaje_id": "1564341196397084723",
+          "escena": "x-1564254792304304229",
+          "fecha_utc": "2026-10-26T18:13:25.275000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564341196397084723"
+        },
+        {
+          "mensaje_id": "1564342291857154141",
+          "escena": "x-1564254792304304229",
+          "fecha_utc": "2026-10-26T18:17:46.453000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564342291857154141"
+        }
+      ]
+    },
+    {
+      "nombre": "El cementerio y sus almas inquietas",
+      "avance": "Yoali cuida cráneos que se mueven y afirma que pertenecen a personas con muertes trágicas o pendientes, mientras deja descansar a quienes tienen paz.",
+      "pruebas": [
+        "1564254792304304229",
+        "1564299004576010251",
+        "1564309543339692215"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564254792304304229",
+          "escena": "x-1564254792304304229",
+          "fecha_utc": "2026-10-26T12:30:04.934000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564254792304304229"
+        },
+        {
+          "mensaje_id": "1564299004576010251",
+          "escena": "x-1564254792304304229",
+          "fecha_utc": "2026-10-26T15:25:45.961000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564299004576010251"
+        },
+        {
+          "mensaje_id": "1564309543339692215",
+          "escena": "x-1564254792304304229",
+          "fecha_utc": "2026-10-26T16:07:38.598000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564309543339692215"
+        }
+      ]
+    },
+    {
+      "nombre": "Ione busca al pirata",
+      "avance": "Tras la bebida, Ione despierta junto a una difunta, cambia su ropa y busca a Nox en la base de los clanes elementales.",
+      "pruebas": [
+        "1564671654599065621",
+        "1564672358189629491"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564671654599065621",
+          "escena": "x-1564671654599065621",
+          "fecha_utc": "2026-10-27T16:06:32.650000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564671654599065621"
+        },
+        {
+          "mensaje_id": "1564672358189629491",
+          "escena": "x-1564671654599065621",
+          "fecha_utc": "2026-10-27T16:09:20.399000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564672358189629491"
+        }
+      ]
+    }
+  ],
+  "pendientes": [
+    {
+      "pregunta": "¿Qué explica el frío y la ausencia momentánea de latido que Ione percibe al abrazar a Nox?",
+      "nota": "La anomalía remite en un segundo; ni Nox ni el narrador dan aquí una causa.",
+      "pruebas": [
+        "1564061594324041739",
+        "1564063022555729992"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564061594324041739",
+          "escena": "x-1563959420193480704",
+          "fecha_utc": "2026-10-25T23:42:22.946000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564061594324041739"
+        },
+        {
+          "mensaje_id": "1564063022555729992",
+          "escena": "x-1563959420193480704",
+          "fecha_utc": "2026-10-25T23:48:03.463000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564063022555729992"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué necesita confesar Citlali a Nox y por qué cree entender su regreso?",
+      "nota": "Aclara su papel de cuidadora, pero deja la confesión para otro momento y Nox rechaza el parentesco.",
+      "pruebas": [
+        "1564023074578243775",
+        "1564342291857154141"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564023074578243775",
+          "escena": "x-1563959420193480704",
+          "fecha_utc": "2026-10-25T21:09:19.123000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564023074578243775"
+        },
+        {
+          "mensaje_id": "1564342291857154141",
+          "escena": "x-1564254792304304229",
+          "fecha_utc": "2026-10-26T18:17:46.453000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564342291857154141"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué sabe Nox de Citlali y Zoltan y qué quiere contar al grupo en privado?",
+      "nota": "Pide a Ione que reúna a los chicos y señala discretamente a ambos, sin explicar el contenido.",
+      "pruebas": [
+        "1564061594324041739"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564061594324041739",
+          "escena": "x-1563959420193480704",
+          "fecha_utc": "2026-10-25T23:42:22.946000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564061594324041739"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quiénes son las cuatro siluetas que Zoltan ve en la tormenta de su memoria?",
+      "nota": "Solo se indican un aasimar, un goblin, un humano y una shadar-kai, sin nombres ni relaciones confirmadas.",
+      "pruebas": [
+        "1565090358608797787"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1565090358608797787",
+          "escena": "x-1565069308265242697",
+          "fecha_utc": "2026-10-28T19:50:19.465000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565090358608797787"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién o qué produce la oscuridad que bloquea los recuerdos de Zoltan?",
+      "nota": "Yoali admite ignorar si la produce él o si hay otra causa.",
+      "pruebas": [
+        "1565098773909078057",
+        "1565099881696329881"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1565098773909078057",
+          "escena": "x-1565069308265242697",
+          "fecha_utc": "2026-10-28T20:23:45.829000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565098773909078057"
+        },
+        {
+          "mensaje_id": "1565099881696329881",
+          "escena": "x-1565069308265242697",
+          "fecha_utc": "2026-10-28T20:28:09.946000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565099881696329881"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Por qué la muerte aún no ha reclamado a Zoltan?",
+      "nota": "Yoali plantea que debe descubrir la razón; la frase no establece por sí misma inmortalidad.",
+      "pruebas": [
+        "1565109200265281731"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1565109200265281731",
+          "escena": "x-1565069308265242697",
+          "fecha_utc": "2026-10-28T21:05:11.666000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565109200265281731"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Volverá el grupo por el Zampaolas o intentará hacerse con el buque de Bonny?",
+      "nota": "El primero queda localizado en una cala y la supervivencia del segundo sigue siendo incierta; no hay expedición realizada.",
+      "pruebas": [
+        "1564330521784230101",
+        "1564337213964296283",
+        "1564340475757072385"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564330521784230101",
+          "escena": "x-1564254792304304229",
+          "fecha_utc": "2026-10-26T17:31:00.249000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564330521784230101"
+        },
+        {
+          "mensaje_id": "1564337213964296283",
+          "escena": "x-1564254792304304229",
+          "fecha_utc": "2026-10-26T17:57:35.789000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564337213964296283"
+        },
+        {
+          "mensaje_id": "1564340475757072385",
+          "escena": "x-1564254792304304229",
+          "fecha_utc": "2026-10-26T18:10:33.461000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564340475757072385"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Se celebrará la cena que Zoltan ofrece a Yoali como pago?",
+      "nota": "Ella acepta la propuesta; el encuentro posterior no está en el hilo.",
+      "pruebas": [
+        "1565110297730220165",
+        "1565112261113024523"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1565110297730220165",
+          "escena": "x-1565069308265242697",
+          "fecha_utc": "2026-10-28T21:09:33.322000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565110297730220165"
+        },
+        {
+          "mensaje_id": "1565112261113024523",
+          "escena": "x-1565069308265242697",
+          "fecha_utc": "2026-10-28T21:17:21.429000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565112261113024523"
+        }
+      ]
+    }
+  ],
+  "relaciones": [
+    {
+      "personas": [
+        "Citlali",
+        "Nox"
+      ],
+      "desarrollo": "Citlali declara una maternidad de crianza desde la infancia y lo llama Amaru; Nox no la acepta y exige Jim o Nox. El afecto de ella y la resistencia de él permanecen en conflicto.",
+      "pruebas": [
+        "1564023074578243775",
+        "1564058180000940053",
+        "1564064323842605129"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564023074578243775",
+          "escena": "x-1563959420193480704",
+          "fecha_utc": "2026-10-25T21:09:19.123000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564023074578243775"
+        },
+        {
+          "mensaje_id": "1564058180000940053",
+          "escena": "x-1563959420193480704",
+          "fecha_utc": "2026-10-25T23:28:48.908000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564058180000940053"
+        },
+        {
+          "mensaje_id": "1564064323842605129",
+          "escena": "x-1563959420193480704",
+          "fecha_utc": "2026-10-25T23:53:13.714000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564064323842605129"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Nox",
+        "Ione"
+      ],
+      "desarrollo": "Ione admite cuánto lo echó de menos, recibe su abrazo y su disculpa y vuelve a llevarlo con el grupo. Él la trata como capitana y le solicita organizar una conversación privada.",
+      "pruebas": [
+        "1564059503635337478",
+        "1564061594324041739",
+        "1564063022555729992"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564059503635337478",
+          "escena": "x-1563959420193480704",
+          "fecha_utc": "2026-10-25T23:34:04.487000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564059503635337478"
+        },
+        {
+          "mensaje_id": "1564061594324041739",
+          "escena": "x-1563959420193480704",
+          "fecha_utc": "2026-10-25T23:42:22.946000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564061594324041739"
+        },
+        {
+          "mensaje_id": "1564063022555729992",
+          "escena": "x-1563959420193480704",
+          "fecha_utc": "2026-10-25T23:48:03.463000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564063022555729992"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Zoltan",
+        "Yoali"
+      ],
+      "desarrollo": "La promesa de ayudar con la memoria se concreta en un ritual y un fragmento nuevo, sin resolver el bloqueo. Su coqueteo termina en una cena aceptada como pago, aún no celebrada.",
+      "pruebas": [
+        "1564034158479802381",
+        "1565090358608797787",
+        "1565098773909078057",
+        "1565112261113024523"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564034158479802381",
+          "escena": "x-1563959420193480704",
+          "fecha_utc": "2026-10-25T21:53:21.731000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564034158479802381"
+        },
+        {
+          "mensaje_id": "1565090358608797787",
+          "escena": "x-1565069308265242697",
+          "fecha_utc": "2026-10-28T19:50:19.465000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565090358608797787"
+        },
+        {
+          "mensaje_id": "1565098773909078057",
+          "escena": "x-1565069308265242697",
+          "fecha_utc": "2026-10-28T20:23:45.829000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565098773909078057"
+        },
+        {
+          "mensaje_id": "1565112261113024523",
+          "escena": "x-1565069308265242697",
+          "fecha_utc": "2026-10-28T21:17:21.429000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565112261113024523"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Ione",
+        "Yoali"
+      ],
+      "desarrollo": "Ione combina temor y atracción por la chamana; las dos intercambian una invitación a salir entre los vivos y un corazón de fuego, sin relación consolidada.",
+      "pruebas": [
+        "1564315681355210884",
+        "1564315954002010123",
+        "1564342857173835797",
+        "1564343454341795951"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564315681355210884",
+          "escena": "x-1564254792304304229",
+          "fecha_utc": "2026-10-26T16:32:02.015000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564315681355210884"
+        },
+        {
+          "mensaje_id": "1564315954002010123",
+          "escena": "x-1564254792304304229",
+          "fecha_utc": "2026-10-26T16:33:07.019000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564315954002010123"
+        },
+        {
+          "mensaje_id": "1564342857173835797",
+          "escena": "x-1564254792304304229",
+          "fecha_utc": "2026-10-26T18:20:01.235000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564342857173835797"
+        },
+        {
+          "mensaje_id": "1564343454341795951",
+          "escena": "x-1564254792304304229",
+          "fecha_utc": "2026-10-26T18:22:23.611000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564343454341795951"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Sir Poncelot",
+        "Citlali",
+        "Zoltan"
+      ],
+      "desarrollo": "Poncelot protege a quien llama Lady Titania del coqueteo de Zoltan y lo reprende; Zoltan representa una disculpa y el gnomo vuelve a relajarse.",
+      "pruebas": [
+        "1564025650698780846",
+        "1564027068822331453",
+        "1564028469052973057",
+        "1564029435160694785"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564025650698780846",
+          "escena": "x-1563959420193480704",
+          "fecha_utc": "2026-10-25T21:19:33.318000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564025650698780846"
+        },
+        {
+          "mensaje_id": "1564027068822331453",
+          "escena": "x-1563959420193480704",
+          "fecha_utc": "2026-10-25T21:25:11.425000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564027068822331453"
+        },
+        {
+          "mensaje_id": "1564028469052973057",
+          "escena": "x-1563959420193480704",
+          "fecha_utc": "2026-10-25T21:30:45.266000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564028469052973057"
+        },
+        {
+          "mensaje_id": "1564029435160694785",
+          "escena": "x-1563959420193480704",
+          "fecha_utc": "2026-10-25T21:34:35.604000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564029435160694785"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Yoali",
+        "Juanita"
+      ],
+      "desarrollo": "Yoali reconoce a la pequeña calavera, la aquieta y cuenta su muerte, dentro de su cuidado de los fallecidos que no encuentran paz.",
+      "pruebas": [
+        "1564300807158104075",
+        "1564309543339692215"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1564300807158104075",
+          "escena": "x-1564254792304304229",
+          "fecha_utc": "2026-10-26T15:32:55.730000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564300807158104075"
+        },
+        {
+          "mensaje_id": "1564309543339692215",
+          "escena": "x-1564254792304304229",
+          "fecha_utc": "2026-10-26T16:07:38.598000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564309543339692215"
+        }
+      ]
+    }
+  ],
+  "precauciones_editoriales": [
+    "Las escenas nuevas pertenecen únicamente a Xoltacan. No se identifican siluetas por su parecido con personajes de Kuroto.",
+    "Las noticias de Shiaru, los barcos y la muerte de Bonny se conservan como declaraciones de Ione y Poncelot, con sus dudas explícitas.",
+    "La crianza declarada por Citlali no es maternidad biológica ni una aceptación por parte de Nox.",
+    "Pensamientos, percepción de espíritus y sensaciones íntimas no pasan a conocimiento general.",
+    "La carta visual del cementerio y los retratos no autorizan acontecimientos o identidades adicionales.",
+    "No se afirma que Ione matara a la mujer junto a la que despierta ni que se haya celebrado ya la cena de Zoltan y Yoali."
+  ],
+  "unidades_leidas": 1,
+  "estado_seguimiento": "al_cierre_del_hilo",
+  "nota_seguimiento": "Cada cuestión conserva el contexto de sus mensajes originales. Los cotejos enlazan las respuestas halladas en otras escenas; la ausencia de un cotejo no demuestra que siga abierta después de otros capítulos.",
+  "fecha_hasta_utc": "2026-10-28T21:25:40.473000+00:00"
+}

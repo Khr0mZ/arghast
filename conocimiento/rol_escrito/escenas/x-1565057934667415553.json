@@ -1,0 +1,329 @@
+{
+  "id": "x-1565057934667415553",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1565057934667415553",
+  "hilo_id": "1562885651844694024",
+  "hilo_nombre": "Base de los Clanes Elementales - La ciudad de los Elementos",
+  "titulo": "Ione informa a Khir y Nox pide acceso a la historia de la isla",
+  "resumen": "La líder recibe la explicación sobre los Ojos y el regreso de Nox, mientras él busca contrastar la profecía mediante información del Clan Kaan.",
+  "relato": "Al terminar el recorrido con Arwen, Ione necesita informar a la jefa de su propio clan y Nox se ofrece a acompañarla. Se pone el collar de pertenencia, saluda a los miembros de la sala y llama a Khir para hablar de su entrevista con la chamana. La encuentran eligiendo prendas que un pequeño tabaxi le muestra; la líder manda comunicar a Tsugami sus preferencias por el azul y el amarillo.\n\nLa visita empieza con rechazo a su higiene y su vestimenta. Ione pide que la escuchen antes de lanzarle agua y admite que se bañó dos días atrás. Khir se cubre el pico, exige distancia y le permite informar. Ione explica que los Ojos sirven para resucitar al dios serpiente y que la chamana los ayudó a rescatar a quien posee la clave para derrotarlo. Presenta a Nox como esa persona, recién recuperado del lugar donde está encerrado el dios y también como amigo y camarada cercano.\n\nNox usa Prestidigitación para limpiarse y perfumarse con orquídeas y azahar. Cuando Khir cuestiona su apariencia heroica, él rebaja el papel excepcional que le atribuyen: sostiene que harán falta todos para acabar con aquellas criaturas. La líder vuelve a recomendar a Tsugami para conseguir ropa adecuada, agradece la información de Ione y le exige ducharse antes de futuras visitas.\n\nAntes de irse, Nox objeta con cortesía que depositar toda la confianza en la predicción de una bruja puede ser precipitado. Quiere estudiar la historia de la isla, comparar los acontecimientos y comprobar si hay un patrón que permita ayudar con conocimiento. Khir lo remite al Clan Kaan y a su líder, a quien describe rodeada de papeles. Él agradece la orientación, se despide de Ione y toma ese rumbo. La conversación consigue el destino de su consulta, sin establecer todavía si la profecía es correcta ni cuál sería el papel exacto de Nox.",
+  "participantes": [
+    "Ione",
+    "Nox",
+    "Khir"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1565063983776530493",
+      "afirmacion": "Ione se coloca el collar de su clan y solicita hablar con Khir.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1565065303682187457",
+      "afirmacion": "Khir elige ropa mediante un tabaxi y manda recado a Tsugami.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1565068483883176017",
+      "afirmacion": "Ione informa sobre los Ojos y presenta a Nox como el camarada rescatado y la clave mencionada por la chamana.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1565078655422570567",
+      "afirmacion": "Nox rechaza concentrar en sí solo el mérito y atribuye la victoria futura al esfuerzo de todos.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1565082580418830347",
+      "afirmacion": "Nox pide acceso a la historia de la isla para contrastar la profecía.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1565089930546258062",
+      "afirmacion": "Khir remite a Nox al Clan Kaan.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "La condición de Nox como clave contra el dios serpiente se atribuye a lo que explica Ione, mientras él expresa sus dudas sobre descansar solo en una profecía.",
+    "Yohali aparece como grafía del mensaje de Ione al anunciar su informe; se conserva el original y se usa Yoali al referirse a la chamana en la prosa editorial."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-10-28T17:41:28.995000+00:00",
+  "fin_utc": "2026-10-29T08:42:11.054000+00:00",
+  "fecha_local": "2026-10-28",
+  "intervalo": {
+    "anterior": 72,
+    "siguiente": null,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236",
+    "siguiente_fuente": null,
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 72,
+        "fecha": "2026-10-16",
+        "inicio_referencia_utc": "2026-10-16T18:28:13+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1565057934667415553",
+      "fecha_utc": "2026-10-28T17:41:28.995000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "Ione: **Mira a Nox** Oye... Vas a tardar mucho... Yo tengo que ir a hablar con el jefe de mi clan.",
+      "mensaje_sha256": "64820f97f77eab256a9367dddf8f700b10a508964dd8a50c34035dde16aae12a",
+      "texto_sha256": "e8850e99431503322ebe98cd4734b11ca10411e3683fbfb4f6e7e939de62a632",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565057934667415553",
+      "adjuntos": []
+    },
+    {
+      "id": "1565063179745366087",
+      "fecha_utc": "2026-10-28T18:02:19.519000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "Nox : te acompaño así lo conozco también",
+      "mensaje_sha256": "9b506f96b1ed84f7cd13ba2a0727ada76804b70839b7afa21a455d47d852f734",
+      "texto_sha256": "1109aeb6a4926763a4e13dfcd6e7cd2db04e5f0e6a653b9142a9c34763082f12",
+      "tipo_discord": 19,
+      "referencia": "1565057934667415553",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565063179745366087",
+      "adjuntos": []
+    },
+    {
+      "id": "1565063983776530493",
+      "fecha_utc": "2026-10-28T18:05:31.215000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "Ione: **Asiente y camina a la puerta de su clan. Se saca el collar y se lo pone. Entra dentro del clan tras saludar a algunos de los miembros. Llama a la puerta.**\n\nJefa Khir, soy Ione la novata. Vengo a informarla sobre los avances de... Bueno la charla con la chamana Yohali",
+      "mensaje_sha256": "f847d1c62534296dadee047abbb5d7cbfe24a81b9fbeccf25c0c21143dad8010",
+      "texto_sha256": "96483a8b3f50d1731b0e4db78de7a60bce9d7734c0f2434eedc47ed91027de6e",
+      "tipo_discord": 19,
+      "referencia": "1565063179745366087",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565063983776530493",
+      "adjuntos": []
+    },
+    {
+      "id": "1565064013044519105",
+      "fecha_utc": "2026-10-28T18:05:38.193000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "<@214405113677217793>",
+      "mensaje_sha256": "4f9ccd27ced4022bb672e8e6f99366d7007ef2e5f4bd51ba46d8d4412d04e416",
+      "texto_sha256": "ac93d358c181353378177a6cb49577e35ef8406127fe712a70490ca6135fb57d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565064013044519105",
+      "adjuntos": []
+    },
+    {
+      "id": "1565065303682187457",
+      "fecha_utc": "2026-10-28T18:10:45.905000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "Khir: Este color es horrible! No ves que queda mal con el plumaje de ave púrpura... Yo no se de donde sacas tu esas ideas. Anda, ves a decirle a Tsugami que me quedo el azul y el amarillo **La líder del Clan estaba sentada en un divan mientras un pequeño tabaxi le estaba mostrando unas prendas de ropa muy distingida.** Si claro, pasa novata, así te conoz... **Silencio cuando ve entrar a Nox e Ione. Si cara cambia y se desgarra en una mueca de horror** Arg... Arg..",
+      "mensaje_sha256": "e52f70edfd4ea5cb687d61ee4a13e8cce4c743292ded5f950ac0e026f602c61d",
+      "texto_sha256": "5bbb65dc044b6013818e1085703f030a95276b713179ff253c99d4dbfb4a0745",
+      "tipo_discord": 19,
+      "referencia": "1565064013044519105",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565065303682187457",
+      "adjuntos": []
+    },
+    {
+      "id": "1565065323613257790",
+      "fecha_utc": "2026-10-28T18:10:50.657000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "<@616683133374562304>",
+      "mensaje_sha256": "2eb5da86026cc57718a208f5bfd1f1d92960c73496f47ea3c4326c8201456215",
+      "texto_sha256": "3308bf4e0062fe070e1d9fb755e340dcc6c9d991669c162aed939e118811dd7c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565065323613257790",
+      "adjuntos": []
+    },
+    {
+      "id": "1565065635992699053",
+      "fecha_utc": "2026-10-28T18:12:05.134000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "Ione: Me he bañado hace dos dias lo prometo jefa... Deja que hable antes de lanzarme agua... Por favor.\n\n**Levanto las manos.**",
+      "mensaje_sha256": "7c5c3a002411b0e37622ba13f73cba2a23ec45bf2c6c2127be344551f476eb15",
+      "texto_sha256": "fc50d0887023322e0aa34b525dd691a2538db88cdceb64a4cf2b3ece73eaac70",
+      "tipo_discord": 19,
+      "referencia": "1565065303682187457",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565065635992699053",
+      "adjuntos": []
+    },
+    {
+      "id": "1565067387143983189",
+      "fecha_utc": "2026-10-28T18:19:02.641000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "Khir: Arg... **Se tapa el pico con un pañuelo que tiene un bordado rosa muy coqueto** ¡¿Dos días?! Por favor... A ver, cuéntame que ha dicho la bruja esa de las calaveras. Pero no te acerques mucho, vale? Y... Y no toques nada, tampoco...",
+      "mensaje_sha256": "16b68ffdfcf7c3a989b6f2edc5ca91ae4cc4466f270e29444fb4d6a3810018a6",
+      "texto_sha256": "fa9d2319f91ea3d4608ae18cd77e919baf6c3a33e666c0367385cd195ba3f33d",
+      "tipo_discord": 19,
+      "referencia": "1565065635992699053",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565067387143983189",
+      "adjuntos": []
+    },
+    {
+      "id": "1565068483883176017",
+      "fecha_utc": "2026-10-28T18:23:24.124000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "Ione: **Se encoje de hombros. Y baja los brazos.** \n\nNos dijo para que sirve los ojos, son para resucitar al dios serpiente y... Tambien nos ayudo a rescatar a quien tiene la clave para poder vencer a ese dios. \n\n **Dio un paso al lado.**\n\nEl es Nox, la persona que  tiene la clave vencer esa cosa... Recien sacado del mismo sitio donde esta encerrado ese dios. Amigo y camarada cercano.",
+      "mensaje_sha256": "3a082638cbd1078b3fb11582d7c824632500ba532806f486f5828e5fca9dabbc",
+      "texto_sha256": "b11116291eff678a18f557174beae2235e871b0301e5ae1e287b4929c730117e",
+      "tipo_discord": 19,
+      "referencia": "1565067387143983189",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565068483883176017",
+      "adjuntos": []
+    },
+    {
+      "id": "1565068519907786793",
+      "fecha_utc": "2026-10-28T18:23:32.713000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "<@616683133374562304>",
+      "mensaje_sha256": "a0a8ec1f3ed06efdbbe33d887b0ca899292276ed37e3d94bcd47161a6e0baf6b",
+      "texto_sha256": "3308bf4e0062fe070e1d9fb755e340dcc6c9d991669c162aed939e118811dd7c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565068519907786793",
+      "adjuntos": []
+    },
+    {
+      "id": "1565075341389598821",
+      "fecha_utc": "2026-10-28T18:50:39.081000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "Khir: **Mira al pirata** ¿Tu también llevas dos días sin ducharte? <@616683133374562304>",
+      "mensaje_sha256": "7602a4f1647d601381b122531315f68ff631d995c7b4cb4e83eea90f2e09e4c6",
+      "texto_sha256": "2d51a3e550a1cf415da24ab2d85d8bd412e3e0991482b03033d723f8c2e78805",
+      "tipo_discord": 19,
+      "referencia": "1565068519907786793",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565075341389598821",
+      "adjuntos": []
+    },
+    {
+      "id": "1565076964161888367",
+      "fecha_utc": "2026-10-28T18:57:05.980000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "Nox : yo ?? \n**usa prestidigitacion para limpiarse y darle un toque de olor a orquídeas y azahar ** \n\nNo señorita . \n**se acerca a ella y se presenta **",
+      "mensaje_sha256": "3bb2d2af70431f4845378983b458fe0690cf15f36bebddfdc10abcfc28e95e4d",
+      "texto_sha256": "05b1a58356a04c54776942241b7d4787d089d80253b0ba738bce5dd4464355fd",
+      "tipo_discord": 19,
+      "referencia": "1565075341389598821",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565076964161888367",
+      "adjuntos": []
+    },
+    {
+      "id": "1565078010233888850",
+      "fecha_utc": "2026-10-28T19:01:15.383000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "Khir: Almenos tienes tus truquitos, y no como tu amiga **Mira a Ione de reojo** <@753394009153732689> Pero no te acerques mucho tampoco, digamos que tu vestuario es un poco... Bueno, ni lo llamaría vestuario. **Levanta una ceja al mirar tu ropa** ¿Así que tu eres la clave contra los Yuan-Ti? No luces muy heroico...",
+      "mensaje_sha256": "2b6002f9ed3daf940f55d8eb63f56cdcdbab99a16ebc7217d4b2c323fdd0919f",
+      "texto_sha256": "eddcf66f7cfbea2e240c46b2d2fa7cdbb94051b62dfa29e02506db919c2a56c5",
+      "tipo_discord": 19,
+      "referencia": "1565076964161888367",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565078010233888850",
+      "adjuntos": []
+    },
+    {
+      "id": "1565078655422570567",
+      "fecha_utc": "2026-10-28T19:03:49.208000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "Nox : exageraciones . Aquí la clave para acabar con esas criaturas somos todos señortia . \n\n**da un par de pasos atrás **",
+      "mensaje_sha256": "7f0d9264b7bf79ab8128160d8eea5719b7f1d8ca242326a4283e18102b7da572",
+      "texto_sha256": "9c6f677e159ebaff8a5ac1c276252f2e65ce20f69fe66f967223e9ae02638242",
+      "tipo_discord": 19,
+      "referencia": "1565078010233888850",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565078655422570567",
+      "adjuntos": []
+    },
+    {
+      "id": "1565081161716338801",
+      "fecha_utc": "2026-10-28T19:13:46.755000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "Khir: Bonitas palabras **Hace una sonrisa forzada** Pero si eres la clave para ayudar Xoltacan... **Hace una pausa tensa** Deberías ir vestido de manera adecuada. Te recomiendo a una mujer que conoce los mejores sastres de la ciudad. La señora Tsugami, esa dueña del McKuroto. **Se reclina cómodamente en el diván y mira a Ione** Gracias por informar novata. Pero a partir de ahora lo mejor será que te duches antes de venir a verme, vale?\n<@753394009153732689>",
+      "mensaje_sha256": "9e324ea0e5578bc11e0708518059d85f5f085f4cefbeb864a133f2adf5880b8c",
+      "texto_sha256": "4e9dbf413baa39032f1dd6c21460f996c9af68168a272edfd9f4f749a3d40143",
+      "tipo_discord": 19,
+      "referencia": "1565078655422570567",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565081161716338801",
+      "adjuntos": []
+    },
+    {
+      "id": "1565081520295649332",
+      "fecha_utc": "2026-10-28T19:15:12.247000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "Ione: **Aganta un quejido.** Si...señora...",
+      "mensaje_sha256": "26b4628267880e559cb6b41f87cebce2df20e37174648aa013ebb356827ab83a",
+      "texto_sha256": "180f64d5e50d2e0b4c5d433e59298fa992451ab5a7b8cebc205ea7ab79865a79",
+      "tipo_discord": 19,
+      "referencia": "1565081161716338801",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565081520295649332",
+      "adjuntos": []
+    },
+    {
+      "id": "1565082580418830347",
+      "fecha_utc": "2026-10-28T19:19:25+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "Nox : no quisiera ponerla en duda mi lady . Pero ciertamente poner toda la fe en la predicción de una bruja suena algo precipitado . \n\nSi no es mucho pedir me gustaría poder informarme bien de las historias que ya han acontecido en la isla para ver si se esta siguiendo algun patrón y poder aportar todo lo posible a su causa . No queremos nadie que le pase nada a su bonita isla . \n\nCon quien tendría que hablar para tener acceso a ese conocimiento? Si no es inoportuna mi pregunta",
+      "mensaje_sha256": "61cd3bac038381d4a8284b4fa4090b609dbe6f4492f1ac16130ce618aaaffa35",
+      "texto_sha256": "36e72676b7f5de998aa3d33f99ee4e17c396e038223de3e5a77d3783cdeb65dd",
+      "tipo_discord": 19,
+      "referencia": "1565081161716338801",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565082580418830347",
+      "adjuntos": []
+    },
+    {
+      "id": "1565089930546258062",
+      "fecha_utc": "2026-10-28T19:48:37.407000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "Khir: Lo de la información lo maneja el Clan Kaan. Encontrarás a si líder en su nido rebuscando entre papeles",
+      "mensaje_sha256": "9c91abcd099a06162fd6018257a53716f35f1fd39a5b5c0ec9557234df4e80f7",
+      "texto_sha256": "b8c08d23741cf3dddc4d1cbf4b603db99340fe63bcd7b9a35588202d57910e82",
+      "tipo_discord": 19,
+      "referencia": "1565082580418830347",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565089930546258062",
+      "adjuntos": []
+    },
+    {
+      "id": "1565284603491782689",
+      "fecha_utc": "2026-10-29T08:42:11.054000+00:00",
+      "fecha_local": "2026-10-29",
+      "editado_utc": null,
+      "texto": "Nox : Agradecido ..\n** le hace una reverencia tomaré nota sobre la vestimenta **\n\nNos vemos mas tarde **le dice a Ione <@753394009153732689> \n\nSe dirige a buscar la sala del clan kaan **",
+      "mensaje_sha256": "f84f674b225165bbe59f2446f8533d14643c2eda33aac3a021f23d02a077dd1c",
+      "texto_sha256": "294866283d46850c7ef6bd31a71438c7b264b1830de4a0975daad12a177fbbf1",
+      "tipo_discord": 19,
+      "referencia": "1565089930546258062",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1565284603491782689",
+      "adjuntos": []
+    }
+  ]
+}

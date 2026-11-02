@@ -1,0 +1,446 @@
+{
+  "id": "x-1565069308265242697",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1565069308265242697",
+  "hilo_id": "1563959420193480704",
+  "hilo_nombre": "Cementerio - La ciudad de los Elementos",
+  "titulo": "Yoali abre un fragmento de la tormenta de Zoltan",
+  "resumen": "Un ritual de Yoali permite a Zoltan ver cuatro siluetas entre relámpagos; la oscuridad sigue bloqueando el resto de sus recuerdos.",
+  "relato": "Zoltan vuelve solo a la choza de Yoali para preguntar por sus recuerdos. Una chispa involuntaria hace sonar un amuleto de huesos al entrar, y los dos sostienen primero un diálogo burlón sobre los espíritus de la colección. Él dice que ya lleva dentro una tormenta y que no admite más inquilinos. Yoali reconoce el motivo real de la visita: su amnesia. También le cuenta la muerte por celos del hombre a cuyo brazo perteneció el hueso que acaba de tomar, una historia que Zoltan recibe con humor incómodo.\n\nZoltan le transmite lo que, según él, Meztli vio al leerle la mente: desorden y huecos negros. Yoali lo conduce tras una cortina hasta una camilla y le pide que se tumbe y respire con calma. Quema unas hierbas cuyo humo llena la estancia con un sabor difícil de identificar. Al preguntarle cuándo empezó a perder la memoria, él niega un deterioro gradual: recuerda una tormenta y después un corte en negro. Hay destellos ocasionales, pero aún no conoce el patrón que los provoca.\n\nLa chamana recorre su frente y su cuello con las manos y le anuncia que le faltará el aire. Zoltan siente que algo extrae más que la respiración; los dedos se le crispan y una luz azul débil le recorre el antebrazo antes de apagarse. Se obliga a confiar en la advertencia y se afloja sobre la camilla. Entonces todo se vuelve negro. Oye lluvia sin sentirla y percibe la tormenta encima o dentro de él. Los relámpagos revelan un paisaje de nubes oscuras y rayos contra el suelo, y cuatro siluetas: un aasimar, un goblin, un humano y una shadar-kai. La conexión se corta a los pocos segundos. Las figuras no reciben nombres ni se establece todavía qué relación tienen con su pasado.\n\nAl abrir los ojos, Zoltan encuentra a Yoali muy cerca, aspirando junto a su rostro el aliento de sus pulmones. La cercanía lo distrae y reactiva el coqueteo. Ella explica que algo le impide ver más y que solo consigue fracciones. Él quiere saber si es una puerta, una pared o una presencia viva, pero Yoali no puede definirlo: lo percibe como oscuridad y desconoce si procede del propio Zoltan o de otra cosa. Le ofrece un té para recuperar el aliento.\n\nCuando Zoltan pregunta qué acaba de hacerle, Yoali relaciona el proceso con la creencia de ver la propia vida al borde de la muerte y dice que estuvo «un poquitín muerto». Es su explicación del ritual; la escena no confirma una muerte y resurrección independientes. Añade que aún le quedan cosas por hacer. Él responde con insinuaciones, hasta que la chamana le recuerda la fragilidad del hilo de la vida y la posibilidad de que alguien lo corte. Zoltan pierde la seguridad, retrocede y le agradece con más respeto tanto la ayuda como que no haya usado esas tijeras.\n\nYoali le permite volver, pero insiste en que no puede hacer todo el trabajo: él tendrá que encontrar su camino y averiguar por qué la muerte aún no lo ha reclamado. Al pedir un posible pago, Zoltan propone una cena, con las tijeras fuera de la mesa. Ella acepta. El visitante sale todavía afectado por la experiencia, entre llamas pequeñas y calaveras que repiquetean como lluvia. Quedan un fragmento nuevo de memoria, una futura cena pactada y el bloqueo oscuro todavía sin explicación.",
+  "participantes": [
+    "Zoltan",
+    "Yoali"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1565079118045782230",
+      "afirmacion": "Zoltan refiere que Meztli vio desorden y huecos negros en su mente.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1565085191020486755",
+      "afirmacion": "Zoltan describe un corte de memoria tras una tormenta y destellos cuyo patrón desconoce.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1565087458062901339",
+      "afirmacion": "Yoali le extrae el aliento durante el ritual.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1565090358608797787",
+      "afirmacion": "La visión muestra cuatro siluetas, un aasimar, un goblin, un humano y una shadar-kai, entre relámpagos.",
+      "tipo": "descripcion"
+    },
+    {
+      "mensaje_id": "1565098773909078057",
+      "afirmacion": "Yoali afirma que algo bloquea su acceso a los recuerdos y solo puede ver fracciones.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1565099881696329881",
+      "afirmacion": "Yoali no sabe si la oscuridad proviene de Zoltan o de algo más.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1565104566272524322",
+      "afirmacion": "Yoali explica el procedimiento mediante la proximidad a la muerte.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1565109200265281731",
+      "afirmacion": "Yoali exige también esfuerzo de Zoltan y deja abierta la razón por la que no ha muerto.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1565110297730220165",
+      "afirmacion": "Zoltan ofrece una cena como pago.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1565112261113024523",
+      "afirmacion": "Yoali acepta la cena como pago.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1565114354255401123",
+      "afirmacion": "El marcador cierra el encuentro.",
+      "tipo": "descripcion"
+    }
+  ],
+  "notas": [
+    "La tormenta y las cuatro siluetas son una visión del ritual, no un encuentro presencial en el cementerio.",
+    "No se asignan nombres a las cuatro siluetas por su especie ni se importa una identidad de otra campaña.",
+    "La explicación de Yoali sobre estar un poco muerto no se transforma en una certificación de muerte clínica o resurrección.",
+    "La cena está acordada, pero todavía no se ha celebrado en estas fuentes."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-10-28T18:26:40.672000+00:00",
+  "fin_utc": "2026-10-28T21:25:40.473000+00:00",
+  "fecha_local": "2026-10-28",
+  "intervalo": {
+    "anterior": 72,
+    "siguiente": null,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236",
+    "siguiente_fuente": null,
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 72,
+        "fecha": "2026-10-16",
+        "inicio_referencia_utc": "2026-10-16T18:28:13+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1565069308265242697",
+      "fecha_utc": "2026-10-28T18:26:40.672000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "**Zoltan llega a la choza de Yoali. Al ir a llamar, una chispa le salta del dedo y hace tintinear un amuleto de huesos colgado en la entrada. Se queda mirándolo**\n\nZoltan:\n\nPerdón, perdón, eso ha sido sin querer. \n\n**Aparta la cortina de la entrada con dos dedos y asoma medio cuerpo, como quien entra en una tienda a la hora de cerrar**\n\nBuenas tardes. ¿Es aquí donde se compran recuerdos? <@408026114548695061>",
+      "mensaje_sha256": "4e8347498ba3b814e519d8677143052c8b6e42d83235e3d9819cf707e04cd0f5",
+      "texto_sha256": "22725ca9b894b3e5b1763cff2f8ddd699f3cb915a10e97d3d69d5738a8f012ce",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565069308265242697",
+      "adjuntos": []
+    },
+    {
+      "id": "1565073179628675154",
+      "fecha_utc": "2026-10-28T18:42:03.677000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "Yoali:\n**La chamana se encontraba limpiando unos cuantos huesos nuevos, (¿de dónde los consiguió?, es mejor no preguntar)**\n\n¿Por qué preguntas?, ¿acaso quieres llevarte uno?, vienen con espíritu incluído por si te sientes solo o si quieres una plática amena",
+      "mensaje_sha256": "dd671c58b925cf086979379e3ecdcfe0e3b603ed00ffbc3a56306584deef7680",
+      "texto_sha256": "beb1145982845c9650a01db179ffd913bc276748976ce48771f1ebb4059f89f3",
+      "tipo_discord": 19,
+      "referencia": "1565069308265242697",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565073179628675154",
+      "adjuntos": []
+    },
+    {
+      "id": "1565074609982677053",
+      "fecha_utc": "2026-10-28T18:47:44.700000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "**Zoltan entra del todo, coge uno de los huesos con dos dedos, lo mira a contraluz y se lo lleva a la oreja, como quien escucha una caracola**\n\nZoltan:\n\nMmm…. este susurra algo. Creo que dice \"sácame de aquí\". Mal asunto, ¿eso no es motivo de devolución?\n\n**Lo deja con cuidado en su sitio, como si pudiera despertarse**\n\nGracias, pero no. Ya llevo a una compañera de viaje dentro, una tormenta que va y viene cuando le da la gana, y no admito más inquilinos. Aunque la plática amena me tienta",
+      "mensaje_sha256": "9cced3dcf2eaf484799309813deb48e68d860b37349c180d3cca1e9747756ff7",
+      "texto_sha256": "347e0828fc8a89b36aa543014af7fcf0b39b186a33abf03b829c1151904f1a98",
+      "tipo_discord": 19,
+      "referencia": "1565073179628675154",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565074609982677053",
+      "adjuntos": []
+    },
+    {
+      "id": "1565076022007963751",
+      "fecha_utc": "2026-10-28T18:53:21.353000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "Yoali:\nSupongo que vienes por lo de tu amnesia \n\n**Mire el hueso que tomó**\n\nAh, ese es del brazo de un hombre al que su mujer lo mató por celos, fue una historia muy graciosa, el le buscaba un regalo y ella lo vio con otra mujer que era la dueña de la tienda, lo apuñaló hasta la muerte y se quedó con el corazón \n\n**Sonrió contando todo eso como si fuera algo natural**\n\nPero bueno, historias pasadas~",
+      "mensaje_sha256": "71d2911660b95283e33a48775a7de35a3dbda4d173f9a5d505e173d2e12ed509",
+      "texto_sha256": "afdc794e9596018f9742177e2dc170da5dd8981be48c938ad4e3650e5cfdba8b",
+      "tipo_discord": 19,
+      "referencia": "1565074609982677053",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565076022007963751",
+      "adjuntos": []
+    },
+    {
+      "id": "1565079118045782230",
+      "fecha_utc": "2026-10-28T19:05:39.506000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "Zoltan:\n\nQué historia tan…. entrañable. Moraleja: no entres a comprar regalos en tiendas con dueñas simpáticas, y si lo haces, que sea con el corazón bien guardado. Literalmente\n\n**Se mira las palmas un instante, como comprobando que siguen limpias**\n\nMeztli me leyó la mente el otro día y me soltó que lo que hay dentro está \"desordenado, con huecos en negro\". Dicho con la delicadeza de quien te cuenta que le falta una pata a tu mesa",
+      "mensaje_sha256": "46599e837c6233807a9c161de90f79d6294333de59ee12b3e9004cd99b29f876",
+      "texto_sha256": "e7e1f002529519c1100a90d9ddf9a69cf01ad71c40b2cb0f688f70932f961aca",
+      "tipo_discord": 19,
+      "referencia": "1565076022007963751",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565079118045782230",
+      "adjuntos": []
+    },
+    {
+      "id": "1565080762699485339",
+      "fecha_utc": "2026-10-28T19:12:11.622000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "Yoali:\nEntiendo, ven~\n\n**Camino hacia donde está una cortina, mostrando una especie de camilla detrás de ella**\n\nNecesito que te acuestes aquí, intenta relajarte, respira con lentitud como lo hiciste la vez pasada",
+      "mensaje_sha256": "de8d44008c44b3079ec1c99cfc772ba5fb0d778915c2a84cd303c834cc2cd32e",
+      "texto_sha256": "5c76ef34674a5968abb76be51d10e17f1956f585e927a6fdb6c5da75d977aec5",
+      "tipo_discord": 19,
+      "referencia": "1565079118045782230",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565080762699485339",
+      "adjuntos": []
+    },
+    {
+      "id": "1565082600974979284",
+      "fecha_utc": "2026-10-28T19:19:29.901000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "Zoltan:\n\nAntes de tumbarme, una pregunta de cliente desconfiado: ¿esas manchas son de hierbas o son de clientes anteriores? Prefiero no saberlo, pero necesito saberlo\n\n**Cierra los ojos. Respira hondo, despacio, y deja que el aire salga como un suspiro largo**",
+      "mensaje_sha256": "8e12e0577daa80921845a5efe18d000e3611d76dc2e89484bbe3d4334f8b6795",
+      "texto_sha256": "7b8117f311d07f66153a9203077fcad022c0d1ae5a0bdffe7d0c82eda42357a4",
+      "tipo_discord": 19,
+      "referencia": "1565080762699485339",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565082600974979284",
+      "adjuntos": []
+    },
+    {
+      "id": "1565084175529410591",
+      "fecha_utc": "2026-10-28T19:25:45.304000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "Yoali:\nUn poco de ambos, a veces ceniza, a veces sangre, a veces sudor~\n\n**Empiezo a quemar algunas hierbas y dejar que el humo invada la habitación, el aroma es extraño, no puedes saber si es dulce o amargo, pero se te queda impregnado en la garganta cada que lo respiras y te deja el regusto en la boca**\n\nBien... ¿Desde cuándo empezaste a perder tus recuerdos?\n\n**Unas manos calientes recorren tu frente con suavidad y bajan lentamente hasta tu cuello**",
+      "mensaje_sha256": "840c7a93502934ab6af261c1e6a0f50616828a4166ae860daaedd2f2db0cdb51",
+      "texto_sha256": "c658a2a5bac0a68c5c86d00022fc0fa9d0dac366572e6eee20cb19913fa6f47b",
+      "tipo_discord": 19,
+      "referencia": "1565082600974979284",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565084175529410591",
+      "adjuntos": []
+    },
+    {
+      "id": "1565085191020486755",
+      "fecha_utc": "2026-10-28T19:29:47.416000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "**Zoltan, con los ojos cerrados, arruga la nariz al notar el humo**\n\nZoltan:\n\nCeniza, sangre y sudor. Menudo menú del día. Yo pido que me pongan el postre aparte\n\nDesde cuándo…. Lo gracioso es que no hay \"desde\". No fui perdiendo recuerdos poco a poco, como quien deja caer monedas del bolsillo. Fue un corte limpio. Una tormenta, y después, el negro.\n\nHay veces en las que tengo vagos recuerdos pero no he encontrado el patrón que los canaliza",
+      "mensaje_sha256": "ac32c4906b7be698f164690dde781898b7440c002549939189c4c0ff7145fddf",
+      "texto_sha256": "92f9a1e1d7fcf625ab81030999a20612012a85bf46b09513786559cb722f9009",
+      "tipo_discord": 19,
+      "referencia": "1565084175529410591",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565085191020486755",
+      "adjuntos": []
+    },
+    {
+      "id": "1565087458062901339",
+      "fecha_utc": "2026-10-28T19:38:47.921000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": "2026-10-28T19:40:14.191000+00:00",
+      "texto": "Yoali:\n**Las manos van subiendo de nuevo hasta tu frente y bajaba hasta tus labios**\n\nSentirás que te falta el aire un poco, no te preocupes, esto es parte del proceso~\n\n**Con mucho cuidado, sientes como tus labios se separan y el aire de tu cuerpo empieza a salir a través de tu respiración, pero hay algo más, como si hubiese algo absorbiendo tu aliento**",
+      "mensaje_sha256": "46667deaf55c064d0c1836a256fde0a0a2495f427d1bb955dd7ab26bff8d5c53",
+      "texto_sha256": "1ef0db21f74a5a68869e0b3fe200dcefe0ce65cc6e60960dbbff81541011005a",
+      "tipo_discord": 19,
+      "referencia": "1565085191020486755",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565087458062901339",
+      "adjuntos": []
+    },
+    {
+      "id": "1565088021961773118",
+      "fecha_utc": "2026-10-28T19:41:02.365000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "**Zoltan siente cómo el aire sale de su pecho y algo lo arrastra hacia fuera. Los dedos se le crispan sobre la camilla y un hilo de luz azul le recorre el antebrazo, tan débil que casi parece un temblor**\n\nZoltan:\n\nYoali…. esto no es…. \n\n**La frase se le corta por falta de aire. Aprieta la mandíbula y la chispa se apaga. Obliga a su mano a abrirse de nuevo, un dedo detrás de otro**\n\nTranquilo, tranquilo…. me lo dijiste. Es parte del proceso\n\n**Habla con la voz estrecha, casi sin sonido, y trata de colar un último chiste con lo poco que le queda**\n\nSi esto es un beso…. quiero que conste que invito yo a la cena\n\n**El cuerpo se le afloja. El pelo blanco se le levanta un poco, como si un viento invisible lo rozara, y la tormenta de dentro se queda a la espera, con un rumor lejano que se le hace más claro que nunca**",
+      "mensaje_sha256": "c66a78d5f46ecc45ce60739e70848e6e9ace4607df1817f68e2ea74ad2d03ebb",
+      "texto_sha256": "05c7bab1c1bdfc58d048cbba6c02c3d0d84dbb34f1f9e3a92b920e0073cd8147",
+      "tipo_discord": 19,
+      "referencia": "1565087458062901339",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565088021961773118",
+      "adjuntos": []
+    },
+    {
+      "id": "1565090358608797787",
+      "fecha_utc": "2026-10-28T19:50:19.465000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "**Por un momento, todo se vuelve negro, tu voz se vuelve eco y no hay rastro de vida o alguien más a tu alrededor**\n\n**Es frío, escuchas poco a poco la lluvia caer cerca de ti, no puedes sentirla pero la tormenta se encuentra sobre ti, o dentro de ti...**\n\n**Los relámpagos iluminan esa oscuridad, dejándote ver un poco más de lo que te rodea, una lejanía llena de nubes oscuras y rayos impactando en el suelo**\n\n**No estás solo, cuatro siluetas son iluminadas por los relámpagos: un aasimar, un goblin, un humano y una shadar-kai**\n\n**Fue cuestión de segundos para cortar esa conexión, no hay más que mostrar por el momento**\n\n**Al momento en que llegues a abrir los ojos, verás a la chamana sobre ti, aspirando cerca de tu rostro el aliento de tus pulmones, podrías sentir el calor de su rostro muy cerca del tuyo**",
+      "mensaje_sha256": "fb63d35b0868858d2ac03a81025920d6f967c94c9c34bde3fb3cbd597ec9b3a2",
+      "texto_sha256": "251a60a4160ee9510376d004b8b0f12bff336d0f236bffd7bc8fde93b08f7e20",
+      "tipo_discord": 19,
+      "referencia": "1565088021961773118",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565090358608797787",
+      "adjuntos": []
+    },
+    {
+      "id": "1565097392838017076",
+      "fecha_utc": "2026-10-28T20:18:16.556000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "**Zoltan abre la boca para soltar la pregunta que tenía preparada y no le sale nada. Se queda mirándola**\n\nZoltan:\n\nEh…. \n\n**Parpadea. El pensamiento que traía se le ha ido por algún sitio, y lo busca con la mirada en el techo, en el humo, en el cuerpo de Yoali, en su boca y por fin en sus ojos**\n\nCasi me quedo sin aire de verdad. Y no precisamente por el ritual\n\n**Levanta la mano con calma y le aparta un mechón de pelo del rostro. Un chispazo muy pequeño se desprende de sus dedos y se apaga contra el aire sin llegar a rozarla**",
+      "mensaje_sha256": "db6b27b08e5897531e6127c17cac7a8286c6c18599e59eec66b0f28d4f38413f",
+      "texto_sha256": "301510b7babf7cb8a2d5b1613740c6ebb7360a0e761f2e6692e6287b3d15dc81",
+      "tipo_discord": 19,
+      "referencia": "1565090358608797787",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565097392838017076",
+      "adjuntos": []
+    },
+    {
+      "id": "1565098773909078057",
+      "fecha_utc": "2026-10-28T20:23:45.829000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "Yoali:\n**Cierro los labios lentamente**\n\nHay algo que me bloquea, no me permite ver todo, solo por fracciones, te sientes bien?\n\n**Me quitaba de encima tuyo**\n\nEspero no haberte molestado, al menos no te maté, eso es bueno",
+      "mensaje_sha256": "5eca8aa2aeb04e30a8cb8f7e8839608c2037728cddab6e47d529d0b16551ce9b",
+      "texto_sha256": "7b1c8955a2abce2fd8f5e3380b4c7eacac5b8f744164e0085c8f7ccced368a6a",
+      "tipo_discord": 19,
+      "referencia": "1565097392838017076",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565098773909078057",
+      "adjuntos": []
+    },
+    {
+      "id": "1565099289284182120",
+      "fecha_utc": "2026-10-28T20:25:48.704000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "**Zoltan se palpa el pecho, el cuello y la frente con aire de inspector, y asiente con los labios fruncidos**\n\nZoltan:\n\nTengo todo en su sitio, creo.\n\n**Se sienta en el borde de la camilla con las piernas colgando y respira hondo. La sonrisa se le pierde un poco por el camino**\n\nTranquila, no me molestaste. Me dejaste un poco mareado y con ganas de dormir una semana, pero eso me pasa con cualquier cosa que me pone la cabeza del revés\n\n**Entrecierra los ojos, con la curiosidad ganándole al coqueteo**\n\nLo del bloqueo, eso sí me interesa. ¿Cómo es? ¿Es como una puerta cerrada, una pared, algo que se resiste cuando intentas empujar? ¿O se siente vivo, como si hubiera alguien al otro lado sujetando el pomo?\n\n**Se inclina hacia ella con las manos entre las rodillas**",
+      "mensaje_sha256": "90d4906df38bbaad08034ec1b22c9e621d8466ea241daf5cae8b6b17e785a99f",
+      "texto_sha256": "ca755c451db5a2e8912bdff9ce15d63917e67dc5946f7e3445f89b6e18bb1220",
+      "tipo_discord": 19,
+      "referencia": "1565098773909078057",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565099289284182120",
+      "adjuntos": []
+    },
+    {
+      "id": "1565099881696329881",
+      "fecha_utc": "2026-10-28T20:28:09.946000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": "2026-10-28T20:34:48.252000+00:00",
+      "texto": "Yoali:\nNo podría definirlo, es como oscuridad, no se si eres tu quien la produce o algo más \n\n**Le ofrezco un cuenco con un té de hierbas**\n\nBebe esto, te calmará un poco, o al menos te ayudará a recobrar un poco del aliento que te quité",
+      "mensaje_sha256": "6dbc086e7a06dcc4b2e2d53863c680d22c1f15c558866dc421054351befbf12b",
+      "texto_sha256": "ea092cb3daffbfe4108e85c5539875f78a86a03c61e8423e150ae2b0db41c0f7",
+      "tipo_discord": 19,
+      "referencia": "1565099289284182120",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565099881696329881",
+      "adjuntos": []
+    },
+    {
+      "id": "1565103728506441729",
+      "fecha_utc": "2026-10-28T20:43:27.097000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": "2026-10-28T20:43:50.907000+00:00",
+      "texto": "**Zoltan coge el cuenco con las dos manos y lo mira por encima, con una ceja levantada**\n**Le da un sorbo corto, hace una mueca de sorpresa y luego otro más largo**\n\nZoltan:\n\nEstá bueno. Sospechosamente bueno para venir de una mujer con una colección de huesos en la entrada\n\n**Baja el cuenco y se queda con la mirada en el líquido. El humo del té le sube por la cara, y la voz se le pone más lenta**\n\nOscuridad. Dices que no sabes si la produzco yo o si es otra cosa. Y ese aliento que me has quitado que se supone que es?\n\n_No me importaría que me lo quite de vez en cuando_",
+      "mensaje_sha256": "410a73688042663ff4dbe2ca54f7132b8ce3298fb70df34f112aa2845ac4d0d3",
+      "texto_sha256": "ee8f742015bb28eb3f09f3eaf75cb7d484698f4808dbe3eec4406df6804a0b5a",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565103728506441729",
+      "adjuntos": []
+    },
+    {
+      "id": "1565104566272524322",
+      "fecha_utc": "2026-10-28T20:46:46.836000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "Yoali:\nDicen que cuando estás a punto de morir, puedes ver pasar tu vida frente a tus ojos, así que estabas un poquitín muerto hace un momento \n\n**Nuevamente lo decía con toda la naturalidad del mundo**\n\nNo te preocupes, que no puedes morirte aún, tienes muchas cosas por hacer",
+      "mensaje_sha256": "7d196aed704ebd05fcb26fc346c06ba7320b6fac218feff7f00b6e2cd21349f3",
+      "texto_sha256": "7cbf72317711bd38c9083857a0fade09ccac334ec87f32a0dd29740ae8354d5b",
+      "tipo_discord": 19,
+      "referencia": "1565103728506441729",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565104566272524322",
+      "adjuntos": []
+    },
+    {
+      "id": "1565106218941288510",
+      "fecha_utc": "2026-10-28T20:53:20.863000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "**Zoltan se acerca despacio y le sonríe con la cabeza ladeada**\n\nZoltan:\n\n¿Un poquitín muerto? Pues si el cielo es tener tu cara encima cuando abres los ojos, me ha parecido bien el viaje\n\n**Se coloca a una distancia peligrosa y baja el tono**\n\nY eso de \"muchas cosas por hacer\"…. me gusta. Tengo una lista corta, pero admito sugerencias. Si alguna tiene que ver contigo, no me quejo",
+      "mensaje_sha256": "8d45999f34b1e25de309c10dd73ca5ef17092aca1b22333f4fbb1a244a8344cb",
+      "texto_sha256": "9ef914756c417950e73c74278627c84a5507774efd67eff832b3386a1f847406",
+      "tipo_discord": 19,
+      "referencia": "1565104566272524322",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565106218941288510",
+      "adjuntos": []
+    },
+    {
+      "id": "1565107372311978066",
+      "fecha_utc": "2026-10-28T20:57:55.848000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "Yoali:\nEn verdad que ustedes son tan interesantes~\n\n**Le pongo el dedo en el pecho para subirlo lentamente hasta su mentón**\n\nNo tientes tu suerte que la vida siempre cuelga de un delgado hilo, uno muy frágil, no sabes quien puede tener unas tijeras y acelerar el proceso de tu descanso eterno~",
+      "mensaje_sha256": "3c363a0f5871c29fc9058f61916f96487fa742f04f17d333d39a0ab7362fa575",
+      "texto_sha256": "64417b9b66f64e6b95939511516dc1c493fd74e258c414e67d5885d1c4e1695e",
+      "tipo_discord": 19,
+      "referencia": "1565106218941288510",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565107372311978066",
+      "adjuntos": []
+    },
+    {
+      "id": "1565108152523825324",
+      "fecha_utc": "2026-10-28T21:01:01.865000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "**Cuando el dedo de Yoali le sube hasta el mentón, Zoltan siente que el aire de la choza se vuelve más denso. La chispa que siempre le recorre los dedos se apaga de golpe, como si la tormenta se hubiera escondido**\n\nZoltan:\n\nAh….\n\n**Traga saliva sin querer y se queda completamente quieto. Los músculos del cuello se le tensan bajo su dedo, y un escalofrío le baja por la espalda**\n\nTijeras. Claro. Muy…. bien dicho\n\n**Intenta sonreír y le sale una mueca a medias. Retrocede un paso despacio, sin darle la espalda, con las manos abiertas, como quien se aparta de un animal que no sabe si va a morder**\n\n**Respira hondo, se endereza y baja la cabeza con un asentimiento más respetuoso que cualquiera de los que ha hecho antes**\n\nGracias por la ayuda. Y por no usar las tijeras. Hoy, al menos",
+      "mensaje_sha256": "df2b2645c7662ff353198775bd3163f4a77b7ef37a5489385e4b0c17b3d31ba2",
+      "texto_sha256": "a4fb766d6e14757eb2d92fa02be55919d03c2a32f7cbf128c06d48b74be73abd",
+      "tipo_discord": 19,
+      "referencia": "1565107372311978066",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565108152523825324",
+      "adjuntos": []
+    },
+    {
+      "id": "1565109200265281731",
+      "fecha_utc": "2026-10-28T21:05:11.666000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "Yoali:\nPuedes volver cuando quieras, pero no podré hacer todo el trabajo yo sola, también tendrás que esforzarte para encontrar tu camino y la razón por la cual la muerte aún no ha venido por tí \n\n**Sonreí abriendo la cortinilla para que el pudiera salir**\n\nSi quieres dejar algo como pago, no me quejaré~",
+      "mensaje_sha256": "429c355dd54ca0caacb42bd65df7794f25b7a2e969c7570c799ff1274083539c",
+      "texto_sha256": "1cf3e31c3c42b7375136c90fe3ed59dae25a53320fb098e652607ef7b03aa1ff",
+      "tipo_discord": 19,
+      "referencia": "1565108152523825324",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565109200265281731",
+      "adjuntos": []
+    },
+    {
+      "id": "1565110297730220165",
+      "fecha_utc": "2026-10-28T21:09:33.322000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "**Zoltan se detiene en la cortinilla, respira hondo y se vuelve con una media sonrisa que le cuesta sostener**\n\nZoltan:\n\nSi voy a seguir viniendo a que me asustes, quiero saber si el pago puede ser una cena. Con tijeras fuera de la mesa, por supuesto. O acepto sugerencias...\n\n**Le guiña un ojo y espera**",
+      "mensaje_sha256": "2b04ec0142fb1b308758c242fafef8b1db0116bca5a1b41144207cc60c388a9d",
+      "texto_sha256": "b97a0b02c067b68eb73c0e3c139601b8bb27b76dc0456b762d2f584d0355d3f0",
+      "tipo_discord": 19,
+      "referencia": "1565109200265281731",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565110297730220165",
+      "adjuntos": []
+    },
+    {
+      "id": "1565112261113024523",
+      "fecha_utc": "2026-10-28T21:17:21.429000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": "2026-10-28T21:23:56.615000+00:00",
+      "texto": "Yoali:\nMe parece un pago razonable \n\n**Le devuelve una sonrisa cómplice**\n\nEsperaré con ansias tu retorno \n\n**Movía los dedos en forma de despedida, soltando algunas pequeñas flamas de ellos mientras que las calaveras se movían como si estuvieran riendo, haciendo ruido parecido al de la lluvia cuando los huesos entrechocaban entre si**",
+      "mensaje_sha256": "3fb86eeeeec14b2cd7b64cdd73502fe577b749baf9517e4b107f9b1e59d58d42",
+      "texto_sha256": "50cfe617f8b0d0fe5e572ea27b0862106509da6fd53490da9fcffd595ac66c97",
+      "tipo_discord": 19,
+      "referencia": "1565110297730220165",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565112261113024523",
+      "adjuntos": []
+    },
+    {
+      "id": "1565114075380453511",
+      "fecha_utc": "2026-10-28T21:24:33.984000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": "2026-10-28T21:26:46.716000+00:00",
+      "texto": "**Zoltan se queda un segundo mirando las calaveras que se ríen y las llamitas que bailan en los dedos de ella. Se coloca bien el abrigo y sonríe, con las rodillas todavía algo flojas**\n\nZoltan:\n\nTrato hecho. Yo pongo la cena, tú pones los huesos de decoración\n\n**Sale por la cortinilla con la lluvia de huesos sonando a su espalda. Ya fuera, suelta el aire de golpe y se frota la nuca**\n\nJoder, en que lio he ido a meterme, pero es muy guapa",
+      "mensaje_sha256": "88c0d75b1206e491080674095ae0021443a9cdbd36965c7a5a547072ed7de39c",
+      "texto_sha256": "01bb0f2d627024bf56fa220469969f61e02b95173301afc9c2a852846e005afe",
+      "tipo_discord": 19,
+      "referencia": "1565112261113024523",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565114075380453511",
+      "adjuntos": []
+    },
+    {
+      "id": "1565114354255401123",
+      "fecha_utc": "2026-10-28T21:25:40.473000+00:00",
+      "fecha_local": "2026-10-28",
+      "editado_utc": null,
+      "texto": "🔴Fin de la escena <:Serafina_Uuuuhhhh:1485287491828187288> 🔴",
+      "mensaje_sha256": "ef1790a1a17431cf450411cd09d91fc295bf06e5277e5e08fc4d41a92f7d531d",
+      "texto_sha256": "3689f07f5ca5ded2debc4214f6e1f948b46fe5956e678583ad8433ec403dbfc7",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1565114354255401123",
+      "adjuntos": []
+    }
+  ]
+}

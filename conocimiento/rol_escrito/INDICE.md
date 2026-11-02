@@ -1,6 +1,6 @@
 # Rol escrito · Xoltacan
 
-304 escenas con relato editorial y texto original completo. Fechas en horario de Madrid.
+324 escenas con relato editorial y texto original completo. Fechas en horario de Madrid.
 
 La ordenación utiliza las fechas originales de Twitch, las horas de referencia y la duración de los vídeos. Admite retrasos y conserva la incertidumbre de los días asumidos. Los pensamientos no se atribuyen a los demás personajes.
 
@@ -310,3 +310,23 @@ La ordenación utiliza las fechas originales de Twitch, las horas de referencia 
 | 2026-10-17 | [Oghma recibe el collar de los Mo’](escenas/x-1561109624776687849.md) | 12 |
 | 2026-10-18 | [Un desconocido acaba en un nido sobre Tutukan](escenas/x-1561356511383654422.md) | 2 |
 | 2026-10-19 | [Aunfaere mata a Miz'lin y toma Rheydyn bajo Unthuar](escenas/x-1561659442070560880.md) | 4 |
+| 2026-10-22 | [Oghma encarga a Tsugami un vestuario a cuenta del conde Moor](escenas/x-1562833905764278313.md) | 6 |
+| 2026-10-24 | [Naór acompaña a Tessa ante Ilikar y Tortas reconoce su duelo](escenas/x-1563508720795783360.md) | 18 |
+| 2026-10-25 | [El regreso de Nox y la maternidad que Citlali no consigue contar](escenas/x-1563959420193480704.md) | 35 |
+| 2026-10-25 | [El Templo Elemental, sede de los líderes de la isla](escenas/x-1563962289487347962.md) | 1 |
+| 2026-10-25 | [La libreta de Ilikar deja a Tortas una promesa para Ilikan](escenas/x-1563965482334158929.md) | 14 |
+| 2026-10-26 | [Las calaveras de Yoali y un barco que Nox quiere recuperar](escenas/x-1564254792304304229.md) | 37 |
+| 2026-10-26 | [Nox vuelve a reunir a los piratas del McKuroto](escenas/x-1564350433743601665.md) | 26 |
+| 2026-10-26 | [Citlali cuenta el rescate del cofre y Nox revive la nana](escenas/x-1564398743661453384.md) | 33 |
+| 2026-10-27 | [Nistra reconoce que Amaru encierra algo más que un nombre](escenas/x-1564533099679719575.md) | 1 |
+| 2026-10-27 | [Patata presenta a Nox a Chani y él ofrece reclutas para Chik’in](escenas/x-1564561375844368386.md) | 38 |
+| 2026-10-27 | [Zoltan lleva vino y noticias a Meztli](escenas/x-1564634323779321960.md) | 19 |
+| 2026-10-27 | [Ione despierta entre tumbas y sale a buscar a Nox](escenas/x-1564671654599065621.md) | 4 |
+| 2026-10-27 | [Nox tantea los clanes entre Chani, Arwen y un Vak escondido](escenas/x-1564690567965835406.md) | 69 |
+| 2026-10-28 | [Arwen guía a los piratas hasta el Clan Balam](escenas/x-1564782728141078691.md) | 33 |
+| 2026-10-28 | [Ione informa a Khir y Nox pide acceso a la historia de la isla](escenas/x-1565057934667415553.md) | 19 |
+| 2026-10-28 | [Yoali abre un fragmento de la tormenta de Zoltan](escenas/x-1565069308265242697.md) | 26 |
+| 2026-10-29 | [Nox consulta la biblioteca de Sylphara](escenas/x-1565288184290611351.md) | 27 |
+| 2026-10-30 | [Chani incorpora a los piratas y empieza por lavarlos](escenas/x-1565719701248544955.md) | 20 |
+| 2026-10-31 | [Nox y Citlali pactan colaborar sin resolver el vínculo de Amaru](escenas/x-1566151881695174838.md) | 25 |
+| 2026-10-31 | [Opi frena los experimentos y escucha el duelo de Chani](escenas/x-1566211516347318293.md) | 25 |

@@ -9,6 +9,7 @@ const chapterSources=await fs.readdir(path.join(root,'conocimiento/capitulos'));
 const expectedChapters=await Promise.all(chapterSources.filter(name=>/^\d+\.json$/.test(name)).map(async name=>JSON.parse(await fs.readFile(path.join(root,'conocimiento/capitulos',name),'utf8'))));
 const expectedFacts=expectedChapters.reduce((total,chapter)=>total+chapter.afirmaciones.length,0);
 const questionCount=expectedChapters.reduce((total,chapter)=>total+chapter.preguntas.length,0);
+const expectedWrittenRole=JSON.parse(await fs.readFile(path.join(root,'conocimiento/rol_escrito/manifest.json'),'utf8'));
 const suppliedPalettes=JSON.parse(await fs.readFile(path.join(root,'config/paletas_campanas.json'),'utf8')).campanas;
 const expectedMaterialKeys=Object.fromEntries(await Promise.all(['xoltacan','kuroto'].map(async id=>{
   const uri='data:image/webp;base64,'+(await fs.readFile(path.join(root,'web/assets',id+'-panel-paleta.webp'))).toString('base64');
@@ -161,7 +162,7 @@ try {
   await route('#pregunta/P39-002');
   await check('La identidad materna avanza sin inventar los años del cofre','document.querySelector(".question-card").dataset.status==="parcial"&&document.getElementById("content").innerText.includes("Amaru")&&document.getElementById("content").innerText.includes("crianza")');
   await check('La activación de Bonnie se cita una sola vez entre ambos frentes','(()=>{const d=JSON.parse(document.getElementById("xoltacan-data").textContent);const stages=d.entities.find(e=>e.name==="Bonnie").history.etapas.filter(s=>s.referencias.some(r=>r.startsWith("43-")));return stages.length===1&&stages[0].referencias.includes("42-012")})()');
-  await check('El aviso posterior no crea una escena de rol vacía','(()=>{const r=JSON.parse(document.getElementById("xoltacan-data").textContent).writtenRole;const s=r.scenes.find(s=>s.id==="x-1525042844560003125");return r.scenes.length===304&&r.stats.mensajes_en_escenas===6241&&s.mensajes===3&&s.intervalo.anterior===42&&s.intervalo.siguiente===43})()');
+  await check('El aviso posterior no crea una escena de rol vacía',`(()=>{const r=JSON.parse(document.getElementById("xoltacan-data").textContent).writtenRole;const s=r.scenes.find(s=>s.id==="x-1525042844560003125");return r.scenes.length===${expectedWrittenRole.escenas.length}&&r.stats.mensajes_en_escenas===${expectedWrittenRole.estadisticas.mensajes_en_escenas}&&s.mensajes===3&&s.intervalo.anterior===42&&s.intervalo.siguiente===43})()`);
   const chapter44=expectedChapters.find(c=>c.capitulo===44);
   await route('#capitulo/44');
   await check('El capítulo 44 abre su relato y enlaza el vídeo nuevo','document.querySelector("[data-tab=relato]").classList.contains("active")&&document.querySelectorAll(".story-stage").length>=4&&document.getElementById("content").innerText.includes("Eromov")&&[...document.querySelectorAll("#content a")].some(a=>a.href.includes("KAfKPeZImT4"))');

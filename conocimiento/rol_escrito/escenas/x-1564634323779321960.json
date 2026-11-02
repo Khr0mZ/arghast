@@ -1,0 +1,347 @@
+{
+  "id": "x-1564634323779321960",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1564634323779321960",
+  "hilo_id": "1562885651844694024",
+  "hilo_nombre": "Base de los Clanes Elementales - La ciudad de los Elementos",
+  "titulo": "Zoltan lleva vino y noticias a Meztli",
+  "resumen": "El recién llegado informa a su líder sobre Yoali, Nox y los Ojos; la lectura mental de Meztli le permite ordenar el relato y advertir las lagunas de Zoltan.",
+  "relato": "La Base de los Clanes Elementales se presenta como un lugar donde la pertenencia a un grupo y las pruebas de sus líderes abren posibilidades de ascenso, aunque también de caída. El plano conservado muestra un recinto con salas diferenciadas alrededor de espacios comunes, un patio de tierra y canales exteriores; no identifica por sí solo a los ocupantes de cada dependencia.\n\nZoltan entra en la sala de Mo’ dispuesto a conocer a una líder imponente y encuentra aire cargado, velas consumidas y una mesa cubierta de botellas. Meztli aparece entre ellas, adormilada, lo toma primero por un nuevo esclavo y pregunta si trae bebida. Él se presenta como nuevo miembro del clan, bromea sobre su resaca y le ofrece agua. La respuesta es una enorme mano mágica que lo aprisiona: Meztli demuestra que su estado no la vuelve indefensa, exige una botella como primera misión y lo deja caer al suelo.\n\nAntes de marcharse, Zoltan menciona su visita a Yoali y una profecía relacionada con Sseth. Meztli le recuerda la obligación de informar de sus hallazgos: servir al clan puede aumentar su reputación y permitirle aspirar a otros rangos. Entonces Zoltan saca una botella que había guardado durante la celebración de Nox. La líder reconoce vino de Fukami y teme que proceda de un robo a Tsugami, dueña del McKuroto; él niega haberlo robado y muestra la ropa que ella le consiguió. Meztli conserva la botella, pero quiere desentenderse de cualquier problema con Tsugami.\n\nEntre bromas y explicaciones desordenadas, Zoltan cuenta que Yoali pidió un recuerdo para abrir el paso a otro plano, que allí buscaron el alma de Jim Hawkins y que sufrieron un combate peligroso antes de regresar con una luz que relaciona con su alma. Recita de memoria, con dudas, una profecía sobre el Fuego Divino, el Velo Negro, los Ojos de la Serpiente y la Última Muda. Añade que un mono pirata infiltrado murió cuando intentaba robar unos ojos y una moneda de poder. Se trata de la versión que Zoltan está comunicando a su líder, no de una nueva representación de esos sucesos.\n\nMeztli pierde el hilo hasta que entra mágicamente en sus pensamientos. Después ordena lo que ha comprendido: unos extranjeros encontraron los Ojos de Sseth, un artefacto para la resurrección del dios serpiente, y Yoali los envió al Reino Lejano a buscar una fuente de poder para impedirlo. También observa desorden y huecos negros en la mente de Zoltan. Él se tensa, protesta por la intrusión y pregunta si ella ha encontrado algo en esas lagunas; no recibe una explicación sobre su origen.\n\nLa tensión se convierte en una conversación más cordial. Meztli lo llama en broma Zoltantalli y comparte las últimas gotas de una botella. Zoltan admite que despertó atado entre caníbales, con el pelo blanco, marcas negras en el costado y una tormenta interior que no controla, sin recordar su vida anterior. Le devuelve la pregunta por su propia vida entre botellas. La escena los deja conversando, sin resolver todavía las lagunas de memoria de él ni el pasado de ella.",
+  "participantes": [
+    "Zoltan",
+    "Meztli"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1562885651844694024",
+      "afirmacion": "La apertura presenta las pruebas, ascensos y riesgos de los clanes; el adjunto conserva el plano de su base.",
+      "tipo": "descripcion"
+    },
+    {
+      "mensaje_id": "1564643579195039755",
+      "afirmacion": "Meztli aprisiona a Zoltan con una mano mágica y le encarga conseguir una botella.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1564661472250826764",
+      "afirmacion": "Meztli vincula informar al clan con reputación y posibles ascensos.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1564666825378234491",
+      "afirmacion": "Meztli reconoce el vino de Fukami y teme que Zoltan lo haya robado a Tsugami.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1564676222032679055",
+      "afirmacion": "Zoltan recita con vacilaciones la profecía y relata el intento de robo de los Ojos y la moneda.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1564683414269984829",
+      "afirmacion": "Tras leer su mente, Meztli explica la relación de los Ojos con Sseth y la misión al Reino Lejano.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1564689167173034086",
+      "afirmacion": "Zoltan explica cómo despertó entre caníbales y describe sus marcas, su tormenta y su amnesia.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "El mensaje inicial del 22 de octubre y el plano son contexto de la base; la conversación de Zoltan y Meztli comienza el 27 de octubre.",
+    "La profecía aparece como una recitación imprecisa de Zoltan; no se corrige ni se reconstruye un texto literal ausente.",
+    "La intrusión mental está explícitamente representada. Los huecos negros no revelan por sí solos qué recuerdos faltan.",
+    "Tlacotli y chontalli son tratamientos que el texto traduce como esclavo y extranjero. Zoltantalli es una broma de Meztli, no otra identidad."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-10-27T13:38:12.289000+00:00",
+  "fin_utc": "2026-10-27T17:20:11.013000+00:00",
+  "fecha_local": "2026-10-27",
+  "intervalo": {
+    "anterior": 72,
+    "siguiente": null,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236",
+    "siguiente_fuente": null,
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 72,
+        "fecha": "2026-10-16",
+        "inicio_referencia_utc": "2026-10-16T18:28:13+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1562885651844694024",
+      "fecha_utc": "2026-10-22T17:49:36.411000+00:00",
+      "fecha_local": "2026-10-22",
+      "editado_utc": null,
+      "texto": "*¿Cazadores de Kurokan? ¿Campeones  de Ukique? No se de donde vienes pero aquí vamos en grupo, en Clanes. La unión hace la fuerza, por lo que no temas adentrarte en cualquiera de ellos y superar las pruebas de sus peculiares lideres. Pero cuidado... cualquier ascenso en ellos tambien puede conllevar una caída. ¡Diviertanse! ¡Cuidado con el pajaro y la mediana!*",
+      "mensaje_sha256": "642a2c0f594d244f9fc9b12ae832d2a06b1d833a9c84df42b76772c2a2251be7",
+      "texto_sha256": "a923235792a57911601eadd237884ba70e3a245e535afe341f2a9a1ee54c472f",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1562885651844694024",
+      "adjuntos": [
+        {
+          "id": "1562885653362909265",
+          "nombre": "Clanes_Elementales.jpg",
+          "tipo": "image/jpeg",
+          "archivo": "adjuntos/1562885653362909265.jpg",
+          "url": "rol_escrito/adjuntos/1562885653362909265.jpg",
+          "bytes": 7057976,
+          "sha256": "0575ea5039e6972a0a10e878dde5ab46cc72982117c1f6b5b72db8fccdd74ef0"
+        }
+      ],
+      "no_narrativo": true,
+      "nota_editorial": "Presentación del escenario conservada como contexto de la conversación posterior."
+    },
+    {
+      "id": "1564634323779321960",
+      "fecha_utc": "2026-10-27T13:38:12.289000+00:00",
+      "fecha_local": "2026-10-27",
+      "editado_utc": "2026-10-27T14:04:47.199000+00:00",
+      "texto": "**Zoltan entra en la sala del clan Mo sacudiéndose el polvo del abrigo, mira a su alrededor y entra hablando por inercia sin ver antes que hay dentro**\n\nZoltan:\n\nDisculpe la intrusión, señora…. tú debes de ser Meztli, ¿no? Me dijeron que la jefa de Mo' era una mujer con labia y con ojo. A ver si es verdad...\n\n <@214405113677217793>",
+      "mensaje_sha256": "1cb90da80a73c6afc29d8eebec9c386125ebc8da5d1ca290a54073ba85e154f0",
+      "texto_sha256": "1f486040305b85e11fe2ab8367267be591e8dbc524ff927e8764998e5bdf93b3",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564634323779321960",
+      "adjuntos": []
+    },
+    {
+      "id": "1564640202981376102",
+      "fecha_utc": "2026-10-27T14:01:34+00:00",
+      "fecha_local": "2026-10-27",
+      "editado_utc": null,
+      "texto": "Meztli: **Realmente no verías a la líder del Clan al entrar en la sala de Mo'. El lugar tenía un ambiente denso y pesado, como si esa habitación llevara varios días sin ventirarla. Las velas estaban ya casi agotadas y lo más destacable sería una enorme mesa con un montón de botellas de alcohol por encima, la mayoría de ellas vacías. Después de sentarte y empezar a hablar, la líder del Clan Mo' aparece de entre las botellas de la mesa** Eh? Ummm... Auch... Mi cabeza... ¿Que pasa? ¿Quien eres tu? ¿El nuevo tlacotli? (significa esclavo) Espero que traigas una botella...",
+      "mensaje_sha256": "a31bd3fa9daeb3034cab3e8cdbed78645e067062adc4f40751fd13ebb15b0cf8",
+      "texto_sha256": "7248e87e7cf310e3c481ef544cf46ab23f50059bb88517ecad8d817203d7bcef",
+      "tipo_discord": 19,
+      "referencia": "1564634323779321960",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564640202981376102",
+      "adjuntos": []
+    },
+    {
+      "id": "1564641151145746513",
+      "fecha_utc": "2026-10-27T14:05:20.060000+00:00",
+      "fecha_local": "2026-10-27",
+      "editado_utc": null,
+      "texto": "**Zoltan levanta una ceja, echa un vistazo a la mesa llena de botellas y suelta un silbido bajito**\n\nZoltan:\n\nJoder…. y yo que venía preparado para una líder imponente. Pues nada, la pluma gana a la espada, pero hoy parece que a la tinta le ha ganado el aguardiente\n\n**Se levanta, coge una de las botellas, la mira a contraluz, comprueba que está vacía y la deja con cara de pena**\n\n¿Tlacotli? No, no, qué va. Soy Zoltan, un tio con rayos, nuevo en el clan. Y de botella, lo siento, vengo con las manos vacías…. pero con algo mejor\n\n**Coge una jarra de la mesa, la huele, hace una mueca y la cambia por un vaso de agua que encuentra por ahí. Se lo acerca a Meztli**",
+      "mensaje_sha256": "0b2737a7d5f62b5cdde9e1546440d3aa24a241409677fded8edeeb0104cfc1af",
+      "texto_sha256": "db7081e3cb556fb2fa3b838c366caa0e267101c7201a5a50b03f7776b89f9850",
+      "tipo_discord": 19,
+      "referencia": "1564640202981376102",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564641151145746513",
+      "adjuntos": []
+    },
+    {
+      "id": "1564643579195039755",
+      "fecha_utc": "2026-10-27T14:14:58.952000+00:00",
+      "fecha_local": "2026-10-27",
+      "editado_utc": null,
+      "texto": "Meztli: **Arquea una ceja cuando empiezas a toquetear sus botellas. Cuando le dejas el vaso de agua delante, simplemente te mira directamente a los ojos. Sin levantar la barbilla de encima la mesa, chasquea los dedos y una enorme mano mágica (Bigby's Hand) te agarra completamente atrapandote en ella** ¿Te parece imponente esto, chontalli? (significa extranjero) **Su mirada cambia, y ese aspecto de resaca que tenía, se le ha pasado por completo** ¿Y tu pasaste la prueba de los clanes? Cada día estamos peor... **Mira el vaso de agua** ¿Me has visto cara de pez? Consigue una botella, esa es tu primera misión para el Clan **Con otro chasquido desconvoca la mano y esto hace que te caigas de culo al suelo**",
+      "mensaje_sha256": "f29246bf8e7aced7bbffa67db550ffe3b58dc685e901a4569cab3fa0745af603",
+      "texto_sha256": "10538e0d661dbfc929e5b7300f8d8555a10606cd3d3f00bcfe4aea27b161bf1e",
+      "tipo_discord": 19,
+      "referencia": "1564641151145746513",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564643579195039755",
+      "adjuntos": []
+    },
+    {
+      "id": "1564659787545841685",
+      "fecha_utc": "2026-10-27T15:19:23.324000+00:00",
+      "fecha_local": "2026-10-27",
+      "editado_utc": null,
+      "texto": "**Zoltan se queda un segundo colgando en la mano mágica con cara de no creérselo. Cuando lo suelta, se estampa de culo contra el suelo**\n\nZoltan:\n\n¡Au! Joder….\n\n**Se levanta frotándose el trasero, se sacude el abrigo y mira la mano desaparecer con una media sonrisa**\n\nVale, vale, imponente, lo reconozco. Un truco muy interesante y encima sin levantar la barbilla de la mesa. Te lo compro, eres la jefa\n\n**Recoge el vaso de agua, lo mira, se encoge de hombros y se lo bebe él**\n\nY no, no te he visto cara de pez, te he visto cara de haber celebrado algo muy fuerte. ¿Chontalli? Me lo apunto.\n\n**Se acerca de nuevo a la mesa, apoya las manos**\n\nUna botella, dices. Primera misión del Clan Mo' y es ir de copas. Me gusta cómo trabajáis. \n\n**Se gira y mientras que se dirige hacia la puerta intenta provocar algo de interés en lo que venía a contarle**\n\nSupongo que te importa más el alcohol antes que saber lo que hicimos con Yoali y en el plano este to chungo al que nos mandó por no se qué movidas de  una profecía y cosas raras con un tal Sseth.........\n\n**Hace una pequeña pausa para esperar la reacción de la líder**",
+      "mensaje_sha256": "81b8b83b22c7920f5938402378ad64d24e0651c974ddebacfd073ad7de6df234",
+      "texto_sha256": "fc5ac5169424222c8134724cf2128c733fc1c58d21f8245f29f332241fafd7b1",
+      "tipo_discord": 19,
+      "referencia": "1564643579195039755",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564659787545841685",
+      "adjuntos": []
+    },
+    {
+      "id": "1564661472250826764",
+      "fecha_utc": "2026-10-27T15:26:04.989000+00:00",
+      "fecha_local": "2026-10-27",
+      "editado_utc": null,
+      "texto": "Meztli: Es tu obligación informar a la líder de tu Clan de tus hallazgos **Dice metiendo la lengua en alguna botella para intentar rascar las últimas gotas** Eso podría ayudarte en tu reputación en el Clan y aumentar de rango, incluso ser líder algún día **Te mira con una sonrisa que da más miedo que tranquilidad** Ganarías algunos puntos si me lo cuentas... **Sigue buscando algún rastro de alcohol de las botellas de encima de la mesa**",
+      "mensaje_sha256": "c77abaf01b824f69f628ab657ac75666400fc385b68b3a357816e6253074b1a9",
+      "texto_sha256": "b9bb6cd649b65ce842bc12c6bdba829bf31ee3a027246de982521311b1f3e928",
+      "tipo_discord": 19,
+      "referencia": "1564659787545841685",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564661472250826764",
+      "adjuntos": []
+    },
+    {
+      "id": "1564665074214244386",
+      "fecha_utc": "2026-10-27T15:40:23.764000+00:00",
+      "fecha_local": "2026-10-27",
+      "editado_utc": "2026-10-27T15:40:40.903000+00:00",
+      "texto": "**Zoltan se queda quieto con la mano en el marco de la puerta y suelta una risa corta por la nariz. Mira de reojo cómo rebusca en las botellas**\n\nSuena bien eso de los puntos... **Se gira y se dirige hacia ella metiendo su mano derecha por dentro de su nueva ropa**\n\n Fuimos a ver a Yoali, la chamana de Tutukán. Nos pidió un recuerdo a cambio de abrirnos la puerta a otro plano, y yo pensé: bueno, tampoco tenía tantos que perder….\n\n**Hace una pequeña pausa, se abre el abrigo un poco, como los vendedores de relojes de las películas, rebusca entre los bolsillos con cara de misterio y habla en bajito para él mismo **\n\nTengo relojes, tengo cuerdas de mandolina, tengo una piedra que creo que es de la suerte, una que seguro que no…. y esto\n\n**y saca una botella de alcohol que se había guardado de la taberna con toda la fiesta de Nox, sin abrir, que sostiene en alto con una sonrisa de oreja a oreja**\n\nTachán **Se la ofrece**",
+      "mensaje_sha256": "e631fa6bedef275ca57ef5309f4d8260c9661f849043b00805d205a4dc9b32ff",
+      "texto_sha256": "95e3fdf94be4f9c4224e9efbfe955ef0fbd1025be1e30f4b26462bcdf29faed6",
+      "tipo_discord": 19,
+      "referencia": "1564661472250826764",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564665074214244386",
+      "adjuntos": []
+    },
+    {
+      "id": "1564666825378234491",
+      "fecha_utc": "2026-10-27T15:47:21.274000+00:00",
+      "fecha_local": "2026-10-27",
+      "editado_utc": null,
+      "texto": "Meztli: **Mira la botella y se le abren mucho los ojos. La agarra y antes de que puedas darte cuenta ya está bebiendo** Glu, Glu, Glu... **De repente para para dar una bocanada de aire con una sonrisa en la cara** Así si! Con esto si puedo despertar... **Le mete otro trago** Ajá, si si... ¿Y que? ¿Que pasa con Yoali? Es una bruja rara sacada de pesadillas además yo... **De repente se queda callada con cara de pánico. Te mira fijamente** Un momento... Tu no pareces tener dinero para pagar esta botella... Es vino de Fukami... ¿No se la habrás robado a la vieja loca esa del McKuroto, no? **Si, Tsugami, la persona mas peligrosa de todo Xoltacan**",
+      "mensaje_sha256": "9bd42b2240966e114def4e43ae12ebaa1e7051abb8f45601b61df0f5d119e426",
+      "texto_sha256": "b39a30a29e7ac499872622908ac8d21ca04d2dcb1a13d93bcb306dac4013eb13",
+      "tipo_discord": 19,
+      "referencia": "1564665074214244386",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564666825378234491",
+      "adjuntos": []
+    },
+    {
+      "id": "1564668719341371464",
+      "fecha_utc": "2026-10-27T15:54:52.830000+00:00",
+      "fecha_local": "2026-10-27",
+      "editado_utc": null,
+      "texto": "Zoltan: \n\nTsugami??? Pero si es super agradable, de hecho mira que ropita tan chula que me ha conseguido.... Que bien se porta conmigo\n\n**Le enseña la ropa como si fuese modelo** \n\nTotal, que acabamos en un plano de locura de esos donde ni el aire ni la cabeza funcionan como deben. Allí estaba el alma de Jim Hawkins, un chavalote que parece que murió en combate con su tripulación y al que nadie había ido a buscar. Así que nos tocó a nosotros.\n\nY no te voy a mentir, casi la palmamos todos. Había bichos bastante chungos, el pitufo azul ese que se fue con los del clan Zunun o como se diga cayó unas cuantas veces, y a mi me tuvieron paralizado un ratete después de chamuscar a unos cuantos. Y bueno había una especie de luz cálida que parece que era como el alma de este tio y según nos explicó Yoali nos la trajimos de vuelta. \n\n**Se encoge de hombros** **Cruza los brazos y se pone un poco más serio**",
+      "mensaje_sha256": "e18b3fe52d43ec8e57d7776bc3bba121d834b9fc855788731ea45004edd655e9",
+      "texto_sha256": "3dc7af1f9a30fcae04841f12249d8435656fdb7d5d4788bf438463e98d51d05e",
+      "tipo_discord": 19,
+      "referencia": "1564666825378234491",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564668719341371464",
+      "adjuntos": []
+    },
+    {
+      "id": "1564674017817002085",
+      "fecha_utc": "2026-10-27T16:15:56.085000+00:00",
+      "fecha_local": "2026-10-27",
+      "editado_utc": null,
+      "texto": "Meztli: *Pobre muchacho.... Si Tsugami le ha puesto el ojo encima.... Pero bueno, mientras esté vivo puede servir para el Clan* Jim? Plano de que? Pitufo Azul? **Mira la botella por si habías bebido antes ya que dices cosas muy raras** Eres muy raro chontalli... Y no que que tratos quienes con Tsugami pero yo no quiero saber nada de ella... **Mira la botella** Bueno, la botella me la quedo, si preguntan la has robado tu",
+      "mensaje_sha256": "2096aaa0f297e1162a84d8b345ea5daad72f110e641d7955816656307fb52dfd",
+      "texto_sha256": "12cc581a136cd973f9342ce2eadaac5497689b1fd775a9f9c15957d271318b12",
+      "tipo_discord": 19,
+      "referencia": "1564668719341371464",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564674017817002085",
+      "adjuntos": []
+    },
+    {
+      "id": "1564676222032679055",
+      "fecha_utc": "2026-10-27T16:24:41.611000+00:00",
+      "fecha_local": "2026-10-27",
+      "editado_utc": null,
+      "texto": "Zoltan:\n\nQue no es robaaaada.....\n\nEl pitufo es el enano ese azul con armadura y barba blanca **hace el gesto de acariciarse la barba** que estaba el dia de la prueba.\n\nYoali nos habló de una profecía a ver si me acuerdo como era...\n\n**Tose un poco para poner voz de narrador**\n\nCuando el Fuego Divino sea devorado por el.....  Velo Negro o algo así, y la noche bebe el aliento de los pueblos de sangre fría o caliente creo que era los Ojos de la Serpiente volverán a contemplar a su Amo Dormido. Y luego terminaba diciendo algo como Solo entonces será hallado el Gran Santuario donde aguarda la Última Muda......\n\nUn movidote que flipas. Cuando volvimos a nuestros cuerpos resulta que había infiltrao un mono pirata bastante majo pero le volaron la cabeza porque iba a robar una especie de ojos de serpiente y una moneda con poderes.\n\nNo sé muy bien qué significa eso para la isla, ni para lo que se mueve por debajo, pero me dijeron que era importante y quería que lo supieras tú antes que nadie, que el nombre de Mo' estuvo en esa misión desde el primer minuto",
+      "mensaje_sha256": "63e26de6292ff42354478c6238a5f675c6671877631bbde7e60f667af667d15e",
+      "texto_sha256": "f9d36d442a4a6f43ecff190249d484796a95e975b6462dbc3b5b783c83d57080",
+      "tipo_discord": 19,
+      "referencia": "1564674017817002085",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564676222032679055",
+      "adjuntos": []
+    },
+    {
+      "id": "1564677658946830438",
+      "fecha_utc": "2026-10-27T16:30:24.198000+00:00",
+      "fecha_local": "2026-10-27",
+      "editado_utc": null,
+      "texto": "Meztli: **Te mira si decir nada y mete un buen trago de la botella** ¿Que? ¿Unos Ojos? **Se rasca la cabeza, le has dado tanta información y además desordenada que no se ha enterado de una mierda** Ajá... Vale... Lo que digas... **Vuelve a beber de la botella**",
+      "mensaje_sha256": "d80bc07f340114017a9cd7d542b93d98d20a82167835e808a634424d79bdfe68",
+      "texto_sha256": "6ed5a30a565f07daac0b66d8cb29ed45c1aee9d266efb467c19086c6179d30c7",
+      "tipo_discord": 19,
+      "referencia": "1564676222032679055",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564677658946830438",
+      "adjuntos": []
+    },
+    {
+      "id": "1564679348907155497",
+      "fecha_utc": "2026-10-27T16:37:07.116000+00:00",
+      "fecha_local": "2026-10-27",
+      "editado_utc": null,
+      "texto": "Zoltan:\n\n**Resopla y suspira al ver que no se ha enterado ni de media** \n\nQue hemos resucitao a un tio que nos dijo Yoali que nos ayudaría a acabar con los Yuanti estos que os estan atacando. Y los ojos son de Seth.... pensaba que sabrías quien es el dios serpiente, hasta a mi me lo contaron en el cole.........\n\n**Está un poco decepcionado por las neuronas de su Líder**\n\nTeneis objetos poderosos en Tutukan que parece que va más gente tras ellos, asi que andaos con ojo",
+      "mensaje_sha256": "e3c3d7ea51350b9d7eadb3d3bb7ff25da6133bcb44a84af1556488ea4ed9679d",
+      "texto_sha256": "774c3db2fbbbc261b8ce04c2f38182c0189940ccc6bbf40c2a448772fbe64f77",
+      "tipo_discord": 19,
+      "referencia": "1564677658946830438",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564679348907155497",
+      "adjuntos": []
+    },
+    {
+      "id": "1564683414269984829",
+      "fecha_utc": "2026-10-27T16:53:16.374000+00:00",
+      "fecha_local": "2026-10-27",
+      "editado_utc": null,
+      "texto": "Meztli: **Se acaba la botella de un trago y la deja sobre la mesa** Brupt... Se quien es el dios serpiente muchacho, mejor que tu. **Cruza los dedos entre si para mirarte sonriente** Pero si vienes y me cuentas sobre un Jim, un pitufo, un \"movido te que flipas\" y más palabros de esos chontalli, no, no me entero de nada muchacho. Pero tranquilo, puedo ayudarte **Los ojos de la líder del Clan Mo' se iluminan por un segundo de un color amarillento. Notas en tu cabeza como si de repente alguien se metiera ahí dentro y empezará a rebuscar como el que rebusca en un cajón de un escritorio. Esa sensación dura unos pocos segundos (Leer Pensamientos)** Vaya... Menudo estropicio tienes ahí dentro... Esta todo desordenado y con huecos en negro... Normal que te pasen estas cosas. **Levanta los hombros en señal de indiferencia** Pero ya me he enterado mejor de lo que pasa. Un grupo de chontallis encontraron unos Ojos extraños que resultan ser del mismísimo dios Sseth, un poderoso artefacto para la resurrección del dios serpiente. Y Yoali os mando a buscar una Fuente de poder en el Reino Lejano para poder evitarlo **Vuelve a acomodarse en la silla tranquilamente.** No ha estado mal para ser tu primera aportación a los Clanes **Mira por la mesa alguna botella que aún le quede algo de alcohol y te mira** ¿Te apetece un trago, chontalli?",
+      "mensaje_sha256": "583ef29d5dabd0fbb45ec48ba19da603d4de18329c2d9cc72f7fe285a7b53337",
+      "texto_sha256": "1e0496455379c9e5442fe0d2b7bafa66bb2bc6238cb596fc8ddbe538e03e1b3a",
+      "tipo_discord": 19,
+      "referencia": "1564679348907155497",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564683414269984829",
+      "adjuntos": []
+    },
+    {
+      "id": "1564684720753746081",
+      "fecha_utc": "2026-10-27T16:58:27.864000+00:00",
+      "fecha_local": "2026-10-27",
+      "editado_utc": null,
+      "texto": "Zoltan:\n\n**Zoltan se queda rígido un segundo. Un chispazo azul le recorre los dedos y le eriza el pelo blanco. Aprieta la mandíbula, respira hondo y suelta el aire despacio**\n\nPreferiría que llamaras a la puerta antes de entrar, ¿sabes?\n\n**Tamborilea con los dedos sobre la mesa y la mira de reojo**\n\nMe vas a llamar siempre Chontalli? Ya te he dicho que me llamo Zoltan. No has visto nada en esos huecos negros no?",
+      "mensaje_sha256": "5a99137197979d4a3f4333dc38e7b069ea58d608ee702ff8576278df19829836",
+      "texto_sha256": "6268b63470e30b2a7d5088b610346a43daf4466565781e46bf52c97068dc266a",
+      "tipo_discord": 19,
+      "referencia": "1564683414269984829",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564684720753746081",
+      "adjuntos": []
+    },
+    {
+      "id": "1564686892866474105",
+      "fecha_utc": "2026-10-27T17:07:05.736000+00:00",
+      "fecha_local": "2026-10-27",
+      "editado_utc": null,
+      "texto": "Meztli: Bueno, tu tampoco has llamado a la puerta cuando has entrado mientras... dormía **Sonríe mientras busca algún vaso limpio para servirte una copa, pero no hay. Así que te ofrece la botella en la que aún quedan unas gotas** Zoltantalli jeje Anda, siéntate y bebamos mientras me cuentas que le ha pasado a tu cabeza **Su rostro habría cambiado a uno con una sonrisa amplia y agradable, parecía más divertida**",
+      "mensaje_sha256": "1928ae2412183ac36e7eedf08aac0165edc270427ba30287772ad1839fff2343",
+      "texto_sha256": "978c25bcebbc453c060c54c8b3b3e88c7f339bed18812c7e9d3c4c31676bb554",
+      "tipo_discord": 19,
+      "referencia": "1564684720753746081",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564686892866474105",
+      "adjuntos": []
+    },
+    {
+      "id": "1564689167173034086",
+      "fecha_utc": "2026-10-27T17:16:07.973000+00:00",
+      "fecha_local": "2026-10-27",
+      "editado_utc": null,
+      "texto": "**Zoltan suelta una risa corta y niega con la cabeza**\n\nZoltan:\n\n¿Zoltantalli? Vale, me lo quedo. Subimos de categoría, de \"chontalli\" a algo con mi nombre. Lo apunto como ascenso con esto de la reputación del Clan\n\n**Coge la botella con las gotas que quedan, se sienta frente a ella dándole la vuelta a una silla y apoya los brazos en el respaldo. Da un trago corto (una gota)**\n\n**Se pasa la mano por el pelo blanco y lo deja caer entre los dedos**\n\nDesperté atado en una tribu de caníbales de esta isla con el pelo así, las marcas negras en costado y algo dentro que no pedí. Una tormenta que va y viene cuando le da la gana. No sé quién era antes, ni qué pasó.\n\n**Levanta la vista y sonríe con un toque de descaro, aunque algo más sincero que antes**\n\nY a tú por qué vives entre botellas vacías, jefa?",
+      "mensaje_sha256": "7cd1abe1074cbdda6ebbbf0e7c9ffcb907aadafba7613c8757004594b21343fa",
+      "texto_sha256": "45c602a61fcebceee27cdf55c96e2d98208018130ee9c1013fbc8a48fe9f27b7",
+      "tipo_discord": 19,
+      "referencia": "1564686892866474105",
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564689167173034086",
+      "adjuntos": []
+    },
+    {
+      "id": "1564690186556940289",
+      "fecha_utc": "2026-10-27T17:20:11.013000+00:00",
+      "fecha_local": "2026-10-27",
+      "editado_utc": null,
+      "texto": "🔴 Se quedan conversando apurando botellas vacías🔴",
+      "mensaje_sha256": "9c4e486738e99077e5c32657c3f756b247623dc5de85448d70b03c9f7bd13fd0",
+      "texto_sha256": "544352024733b32679c4f1ca0366301cd363d7898b6407e97e7c1740a1d76a78",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1562885651844694024/1564690186556940289",
+      "adjuntos": []
+    }
+  ]
+}

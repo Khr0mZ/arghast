@@ -1,0 +1,594 @@
+{
+  "id": "x-1563959420193480704",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1563959420193480704",
+  "hilo_id": "1563959420193480704",
+  "hilo_nombre": "Cementerio - La ciudad de los Elementos",
+  "titulo": "El regreso de Nox y la maternidad que Citlali no consigue contar",
+  "resumen": "En la cabaña del cementerio, los compañeros reciben a Nox, Ione recupera su forma humana y Citlali intenta explicar que lo crió cuando era un bebé.",
+  "relato": "La presentación del cementerio de Tutucan lo describe como lugar de entierro para ricos y pobres, civiles y guerreros, y anuncia la presencia de una chamana rodeada de adornos de hueso. La conversación comienza después de un ritual que ha dejado exhausto a Sir Poncelot. Nox está otra vez entre sus compañeros: examina el cadáver destrozado de un mono y lo identifica como Uurg, uno de los espías de Elger «Banana» Kong. Se pregunta qué hace allí, pero el hallazgo no demuestra por sí solo que haya llegado toda la gente del rey pirata.\n\nNox ofrece ron a Ione, todavía transformada en loba. Ella toma la botella con un cuidado y un dominio de su cuerpo que lo sorprenden, le da un empujón amistoso y registra al muerto para conservar una prenda con su olor. Zoltan exige explicaciones sobre el recién llegado y provoca la irritación de Ione al llamarla perro. Ella se aparta con la prenda e intenta regular el pulso y la respiración; su mantra interior para encerrar a la bestia permanece como pensamiento propio. La transformación va remitiendo poco a poco entre chasquidos y dolor.\n\nPoncelot presenta a los dos hombres con su habitual lenguaje caballeresco. Para él, Nox es el escudero de Ione y un héroe que se sacrificó con Bonny para salvar Shiaru; Zoltan es el compañero de manos relampagueantes, torpe de palabra y dado al coqueteo. Citlali añade que Ione se transforma cuando el miedo o la ira la sobrepasan y presenta a Nox como su hijo, reuniendo los nombres Jim Hawkins, Nox y Amaru. Ante el asombro general, aclara que no lo engendró: lo cuidó cuando era un bebé. Desea confesarle algo y explicar por qué cree entender su regreso, pero aplaza ambas cosas.\n\nLa revelación da pie a las interpretaciones de Poncelot, que llama a Citlali Lady Titania y ensaya parentescos de sus canciones. Esas asociaciones pertenecen a su visión caballeresca de los hechos. Cuando Zoltan aprovecha la conversación para coquetear con ella, el gnomo interviene como su protector y le exige respeto; Zoltan acaba representando una reverencia que lo tranquiliza. Yoali devuelve la atención al lugar y al cansancio de los presentes. Al verter el agua negra del cuenco, la llama se vuelve de nuevo brillante en vez de apagarse. Dice que la profecía está a medias y aconseja abandonar ese descanso de los muertos. A Zoltan, que pregunta por su memoria, le renueva la promesa de ayudar a recuperar fragmentos, aunque advierte que también dependerá de su voluntad.\n\nNox rechaza la maternidad que Citlali acaba de declarar. Nervioso ante su aspecto, acusa a Yoali de alguna brujería; la chamana dice haberla conocido ese día. Solo desde la percepción de Yoali se describen pequeñas luces alrededor de Citlali, que reconoce estar rodeada de sus pequeños. El mono Piks susurra a Nox mediante sonidos que los demás no oyen como palabras. Después de escucharlo, él vuelve a pedir que lo llamen Jim o Nox, no Amaru, y deja de lado a Citlali para preguntar a su capitana si lo ha echado de menos.\n\nIone, ya humana y con la ropa rota, admite que lo ha echado mucho de menos y le reprocha su conducta. Él la atrae a un abrazo y se disculpa. Durante un segundo, ella percibe frío en su cuerpo y ausencia de latido; enseguida regresan la calidez y el pulso. La anomalía la desconcierta, pero no obtiene una explicación. Nox le pide al oído que reúna a los chicos para hablar y señala de forma sutil a Citlali y Zoltan, sin revelar lo que sabe. Por el momento propone celebrar su vuelta con bebida y trucos de monedas.\n\nIone le devuelve el gorro y reclama una moneda que, según dice, le habían dado a ella; Nox se la entrega. Citlali agradece la ayuda de Poncelot y Zoltan y se alegra de verlo de nuevo, aunque reconoce lo difícil que será dejar de llamarlo Amaru. De camino a la salida, Ione informa a Nox de la muerte de Bonny, la huida de Shiaru, la llegada de los reyes piratas y la creciente amenaza de las serpientes. Le cuenta que Molly ha confesado a los dirigentes de la isla el origen de lo que despertaron y que los habitantes están pidiendo ayuda a extranjeros. Nox se muestra dispuesto a prestarla. El reencuentro recompone el grupo, pero deja sin resolver tanto su naturaleza tras el regreso como la confesión de Citlali.",
+  "participantes": [
+    "Nox",
+    "Ione",
+    "Sir Poncelot",
+    "Citlali",
+    "Zoltan",
+    "Yoali",
+    "Piks"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1563965127160627291",
+      "afirmacion": "Nox identifica al mono muerto como Uurg, espía de Elger «Banana» Kong.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1563968799366062253",
+      "afirmacion": "Ione registra el cadáver y conserva una prenda para retener su olor.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1563982990537793798",
+      "afirmacion": "Poncelot presenta a Nox ante Zoltan y relata su sacrificio en Shiaru.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1563983219559370773",
+      "afirmacion": "Citlali reúne los nombres Jim Hawkins, Nox y Amaru al presentar a su hijo.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1564023074578243775",
+      "afirmacion": "Citlali distingue haber criado a Nox de haberlo engendrado y aplaza una confesión.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1564034158479802381",
+      "afirmacion": "Yoali ofrece ayudar a Zoltan a recuperar fragmentos de memoria, con esfuerzo de su parte.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1564056143796502609",
+      "afirmacion": "Yoali percibe luces alrededor de Citlali; esa percepción no se atribuye al resto.",
+      "tipo": "descripcion"
+    },
+    {
+      "mensaje_id": "1564058180000940053",
+      "afirmacion": "Nox escucha a Piks y pide que lo llamen Jim o Nox, no Amaru.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1564061594324041739",
+      "afirmacion": "Ione percibe frío y falta fugaz de latido durante el abrazo; Nox pide una conversación privada.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1564063847487111369",
+      "afirmacion": "Nox entrega a Ione la moneda que ella reclama.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1564066435322478766",
+      "afirmacion": "Ione pone a Nox al corriente de la muerte de Bonny y de la amenaza de las serpientes.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1564066969869750379",
+      "afirmacion": "Nox expresa que habrá que ayudar a los habitantes de la isla.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "La filiación es una declaración de Citlali sobre crianza; Nox todavía la rechaza. No se afirma maternidad biológica.",
+    "Lady Titania, Damh y Niño Cambiado son interpretaciones de Poncelot, no identidades acreditadas por el narrador.",
+    "La percepción de luces se restringe a Yoali; el mantra de Ione y la inquietud inicial de Nox son privados.",
+    "Piks es la grafía del hilo; su identificación con Pix necesita cotejo de continuidad, no mera semejanza fonética.",
+    "Las imágenes completas muestran el plano del cementerio y el retrato de una chamana entre llamas, huesos y amuletos; no prueban sucesos adicionales."
+  ],
+  "estado": "continuacion",
+  "revisada": true,
+  "inicio_utc": "2026-10-25T16:56:22.735000+00:00",
+  "fin_utc": "2026-10-26T00:03:44.576000+00:00",
+  "fecha_local": "2026-10-25",
+  "intervalo": {
+    "anterior": 72,
+    "siguiente": null,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236",
+    "siguiente_fuente": null,
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 72,
+        "fecha": "2026-10-16",
+        "inicio_referencia_utc": "2026-10-16T18:28:13+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1563959420193480704",
+      "fecha_utc": "2026-10-25T16:56:22.735000+00:00",
+      "fecha_local": "2026-10-25",
+      "editado_utc": null,
+      "texto": "*¿Oléis eso? El dulce aroma rancio de la muerte. La parada final tanto de ricos y pobres, de civiles y guerreros. Aquí podrás enterrar a tus seres queridos. Por cierto, hay cierta chamana de buen ver que hace unas uñas preciosas de calaveritas... No te recomiendo preguntarla de donde saco esas decoraciones de huesos e insensato el que se interese mas allá de sus embrujos.*",
+      "mensaje_sha256": "a96dc3f02e71234cdae8927882d13b3c4b2a39651daddd5205e8731d04a6781a",
+      "texto_sha256": "f98d5f83b8e33184c8a604ff371f6df1c3ad16047b2e01748130671d5e89c62c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1563959420193480704",
+      "adjuntos": [
+        {
+          "id": "1563959420659040346",
+          "nombre": "Tutucan_Cementerio.jpg",
+          "tipo": "image/jpeg",
+          "archivo": "adjuntos/1563959420659040346.jpg",
+          "url": "rol_escrito/adjuntos/1563959420659040346.jpg",
+          "bytes": 4411751,
+          "sha256": "4ba7118314abd2a044cb4dedabbe3ea047b5980b5c66ee8a1e0cea5bea60ebb0"
+        }
+      ]
+    },
+    {
+      "id": "1563965127160627291",
+      "fecha_utc": "2026-10-25T17:19:03.382000+00:00",
+      "fecha_local": "2026-10-25",
+      "editado_utc": "2026-10-25T17:19:58.300000+00:00",
+      "texto": "Nox : **se acerca al cadáver del mono y con el pie le da la vuelta a lo que queda de el ** \n\nPues si que ha quedado hecho un asco ... \n**mira su pistola y a Piks sorprendido ** \nBueno .. que se le va hacer ..\n\n**se acerca y se pone de cuclillas a tocarle uno de los ojos que cuelgan de medio cráneo que queda ** \nEste era , Uurg.  Uno de los espías de Elger \"Banana\" Kong .. \n\nQue diablos hace por aquí... \n*Ya están aquí...?*\n**dice a los presentes ** \n<@753394009153732689>  <@297459767117611008>  <@408026114548695061> <@220602485977382912> \n\nOieeee Ione ... mira es una mezcla nueva **saca la botella de Ron y se la enseña al lobo a ver si espabila **",
+      "mensaje_sha256": "9a4e022303294ef5b3cad2027c0952c5305f5a6ed3f90715846f86fbb9ea7af9",
+      "texto_sha256": "c496f15aefc8678d777bd7b1b3717021c3eb618e34b0fd04e85d092d56e1c405",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1563965127160627291",
+      "adjuntos": []
+    },
+    {
+      "id": "1563966590893166779",
+      "fecha_utc": "2026-10-25T17:24:52.363000+00:00",
+      "fecha_local": "2026-10-25",
+      "editado_utc": null,
+      "texto": "Ione: **Emite un gimoteo y luego se sacude quitandose la tension. Acercandose ergida sobre sus dos patas y con un control que no la habias visto en esta forma, tomo la botella con cuidado de no arañarte y le dio un trago para despues devolvertela. **",
+      "mensaje_sha256": "9de8be2af0051a159ebf0dc1b456a31c7921f4559f35aa022c3d489d310d5488",
+      "texto_sha256": "72970633ea024c3281bd4f6c0b482c2a75f6946e8eb39cb4adcd685839de6b11",
+      "tipo_discord": 19,
+      "referencia": "1563965127160627291",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1563966590893166779",
+      "adjuntos": []
+    },
+    {
+      "id": "1563967465237774459",
+      "fecha_utc": "2026-10-25T17:28:20.823000+00:00",
+      "fecha_local": "2026-10-25",
+      "editado_utc": null,
+      "texto": "Nox :**se la queda mirando esperando que la botella salga disparada contra algo ** \n\nAnda ... \n Así sin mas ? \nno rompes nada ?",
+      "mensaje_sha256": "c97a118309c4ac36482197b927c0efc9e355d8c74d6a18fbe6d2d4827660b213",
+      "texto_sha256": "d06c85372b4299ad407252fff58d54ee8937bd5c4a1320572211e1961a68f98e",
+      "tipo_discord": 19,
+      "referencia": "1563966590893166779",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1563967465237774459",
+      "adjuntos": []
+    },
+    {
+      "id": "1563968799366062253",
+      "fecha_utc": "2026-10-25T17:33:38.904000+00:00",
+      "fecha_local": "2026-10-25",
+      "editado_utc": null,
+      "texto": "Ione: **Parecio sonreir, emitio un gruñido bajo amistoso y le dio un suave empujon con el hombro. Habia crecido un poco desde que no estabas.  Despues dirigio su mirada al cadaver del mono y se inclino hacia el y empezo a registrarlo y quitarle una de sus prendas para quedarse con el olor.**",
+      "mensaje_sha256": "9f4960d109deae81daaa918089e1f4818b5439448a07c482bb60e5a7b650a5a5",
+      "texto_sha256": "84c798fc3906bc4e08a6d54a666dc43d18435c502b1ddca947a043dba54b023d",
+      "tipo_discord": 19,
+      "referencia": "1563967465237774459",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1563968799366062253",
+      "adjuntos": []
+    },
+    {
+      "id": "1563974534800089129",
+      "fecha_utc": "2026-10-25T17:56:26.338000+00:00",
+      "fecha_local": "2026-10-25",
+      "editado_utc": null,
+      "texto": "Zoltan:\nA ver a ver a ver, a mi me teneis que contar unas cuantas cosas.... <@220602485977382912> Poncelot conoces a este tio? De dónde has salido tú?<@616683133374562304> Eres el dueño del perro ese? **Señala a Ione**",
+      "mensaje_sha256": "d6e3cb2064d559ca8881a32595c0487eed5a44cc914e20816ef9587e3d333b10",
+      "texto_sha256": "c62820f572508753d78de792d6228c70e2ba62f9740255bab66e103d3104545b",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1563974534800089129",
+      "adjuntos": []
+    },
+    {
+      "id": "1563976700835139616",
+      "fecha_utc": "2026-10-25T18:05:02.761000+00:00",
+      "fecha_local": "2026-10-25",
+      "editado_utc": null,
+      "texto": "Ione: **Levanta la vista fulminandolo y enseñandole los dientes por llamarla perro. Dio un resopido de astio y se dirigio con la prenda del mono muerto a una esquina. Se sento como los indios y cerro los ojos mientras luchaba por regular su respiracion y su latido.** *Calma Ione, respira... Guarda las garras... esconde los dientes... Encierra a la bestia* **Repetia en su mente como un mantra para tratar de relajarse.**",
+      "mensaje_sha256": "6ebb1bce792c67cd8d831f26dc9ccb5da4d76e4a48ee67ba7dcf875342c25369",
+      "texto_sha256": "ce0b26468b7d15aca67fc5cdeb6b093b78c6da02a985e73317b6130015096d54",
+      "tipo_discord": 19,
+      "referencia": "1563974534800089129",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1563976700835139616",
+      "adjuntos": []
+    },
+    {
+      "id": "1563982990537793798",
+      "fecha_utc": "2026-10-25T18:30:02.343000+00:00",
+      "fecha_local": "2026-10-25",
+      "editado_utc": "2026-10-25T18:30:58.219000+00:00",
+      "texto": "Sir Poncelot \n\n**El gnomo se sacudía la cabeza. El dolor era agudo y punzante. Cuando consiguió soportar un poco ese dolor se acercó a Zoltan aún con la mano en la sien**\n\n- a ver joven Zoltan... Auch... Disculpe mi estado... Este viaje psicotrópico ha dejado a este humilde caballero un poco baldado...\n\n**Intenta retomar su aire pomposo habitual. Se recoloca la armadura y se arregla la barba y se dirige a Zoltan**\n\n- ejem... Cof cof... Grrruu... Vale... Mi joven amigo elfo relampagueante! Este de aquí es el también joven escudero Nox! Fiel servidor de la capitana Ione! Orguyoso sirviente de su majestad Happy Bonny! Gran amigo de mi mediana persona! Hábil con las palabras! Descuidado con su aspecto personal y su olor! Pero no por ello desdeñable compañía!\n\n**Se vuelve a Nox**\n\n- estimado joven escudero! Este es Zoltan! Elfo adicto a la semi desnudez! Extrañamente hábil.xon la electricidad! Torpe con las palabras pero hábil en el arte de la seducción de damas de avanzada edad! En cierto modo... Ambos pueden tener algún ligero parecido...\n\n**Vuelve a dirigirse a Zoltan**\n\n- joven amigo de relampagueantes manos! Ese hombre dio su vida para salvar el reino de shiaru de la.invasuon por mar de los hechiceros oscuros de túnicas azules! Junto a su majestad  Bonny se sacrificaron para salvaguardar la integridad de la ciudad y sus habitantes! Un héroe en su totalidad!\n\n<@616683133374562304>",
+      "mensaje_sha256": "f9ce26ef4f60fb275ce0919970a955c480d35cadeea0fcfaaf765072cdcb6978",
+      "texto_sha256": "ae019e598d5f496ddc08a628418301244b98264ccac180b2a22e759314910876",
+      "tipo_discord": 19,
+      "referencia": "1563974534800089129",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1563982990537793798",
+      "adjuntos": []
+    },
+    {
+      "id": "1563983219559370773",
+      "fecha_utc": "2026-10-25T18:30:56.946000+00:00",
+      "fecha_local": "2026-10-25",
+      "editado_utc": null,
+      "texto": "Citlali:\nIone tiene un pequeñito problema, se convierte en lobo cuando se asusta demasiado o cuando su enfado la sobrepasa y respecto a quien es el hombre...\n\n**Dí un resoplido con una sonrisa en los labios**\n\nEs mi hijo, Jim Hawkins, Nox, Amaru",
+      "mensaje_sha256": "a1ee78587df5337c0bae4ec44e28d25c4110059ce48114fde62af004400652ce",
+      "texto_sha256": "acef2e83909b56feacfaeb97d651c6d22ec98f02e7f4013dfe360b0797a3fff6",
+      "tipo_discord": 19,
+      "referencia": "1563974534800089129",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1563983219559370773",
+      "adjuntos": []
+    },
+    {
+      "id": "1563990379332767805",
+      "fecha_utc": "2026-10-25T18:59:23.969000+00:00",
+      "fecha_local": "2026-10-25",
+      "editado_utc": null,
+      "texto": "Ione: **Sigue en silencio en una esquina con los ojos cerrados. Muy lentamente sus rasgos bestiales empezaban a remitir. Las orejas volvian  a su posicion normal, el hocico comenzaba a encogerse igual que los dientes, sus largas estremidades comenzaban a acortarse y volverse a una posicion mas humana con leves chasquidos de huesos que la hacian apretar un poco los dientes. Las garras comezaban a encogerse y el pelo comenzo a remitir.**",
+      "mensaje_sha256": "27cf8376885bfef88ade8ee7b825fe6c47272bd92596a75e739d12ab2c8dd58f",
+      "texto_sha256": "6905a17dc97d787485c55c171b28d8b0b11e7f0b290d820b61b4d51dcec24358",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1563990379332767805",
+      "adjuntos": []
+    },
+    {
+      "id": "1564014347552948358",
+      "fecha_utc": "2026-10-25T20:34:38.438000+00:00",
+      "fecha_local": "2026-10-25",
+      "editado_utc": null,
+      "texto": "**Zoltan estaba bebiendo de un vaso de agua y según dice citlali que es su hijo, se medio atraganta y lo escupe hacia un lateral**\n\nQue es tu que???!!!! **Mira a Nox mira a Citlali, Mira a Nox mira a Citlali, Mira a Nox mira a Citlali**\n\nNo sabía, que.... tuuu.........\n\nEn fin, osea que eres un tio famoso y maloliente, y Bonny no ha tenido tanta suerte como Nox entonces..... Seguro que fue una tia interesante\n\nY a esta que pasa que hay que darle huesos de vez en cuando para que los rumie?? **Señala a Ione**",
+      "mensaje_sha256": "793056f2fba2643ec94bb7a213f2d4dfbacd24a0b94cce95d9f52c24f09491a8",
+      "texto_sha256": "8789b5c811621c1b196aa418d67ef4f66ee662e0bccc97d8dc97b6a627fe0747",
+      "tipo_discord": 19,
+      "referencia": "1563983219559370773",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564014347552948358",
+      "adjuntos": []
+    },
+    {
+      "id": "1564021822205468765",
+      "fecha_utc": "2026-10-25T21:04:20.534000+00:00",
+      "fecha_local": "2026-10-25",
+      "editado_utc": "2026-10-25T21:04:45.319000+00:00",
+      "texto": "Sir Poncelot \n\n**El caballero se queda ojiplatico al oír a citlali**\n\n- por los bigotes de Cervantes! Que revelación! Nox es vástago de Lady Titania? Eso le convierte, joven Nox, en el hado Damh? Señor de las festividades y las canciones???",
+      "mensaje_sha256": "6d9ec5d7f746b3cb0bc2ebd6f3171c3a75aaf4fa397cab6aa866c14a88b26dd3",
+      "texto_sha256": "55135e794c746242e891713013440398ec5915806f3f238250995051b1b5c218",
+      "tipo_discord": 19,
+      "referencia": "1564014347552948358",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564021822205468765",
+      "adjuntos": []
+    },
+    {
+      "id": "1564023074578243775",
+      "fecha_utc": "2026-10-25T21:09:19.123000+00:00",
+      "fecha_local": "2026-10-25",
+      "editado_utc": null,
+      "texto": "Citlali:\nBueno... No es como que yo lo haya tenido, no tuve la oportunidad de engendrarlo ya que jamás tuve pareja, así que digamos que lo cuidé cuando el era un bebé \n\n**Mire a Nox**\n\nMi querido Amaru... Tengo algo que confesarte, pero aún no es el momento oportuno \n\n**Voltee a ver a todos**\n\nDespués les explicaré todo también a ustedes, y la razón por la cual creo entender porque es que volvió",
+      "mensaje_sha256": "b82137f029452fa8cd51bf706d89b877da6cb657a21be4f445302370cd550796",
+      "texto_sha256": "c39089dfe0e55251b9fdd14afb206ae3d727566a66d626c9fbe15121cf7dd3d5",
+      "tipo_discord": 19,
+      "referencia": "1564014347552948358",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564023074578243775",
+      "adjuntos": []
+    },
+    {
+      "id": "1564024234995482806",
+      "fecha_utc": "2026-10-25T21:13:55.788000+00:00",
+      "fecha_local": "2026-10-25",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**El gnomo se golpea la cara con ambas manos a lo Macaulay Culkin**\n\n- por las faldas de Santa Dulcinea! No es el hado Damh, si no el Niño Cambiado de las canciones? Esto cada vez toma un cáliz más novelesco si cabe!!!",
+      "mensaje_sha256": "848eb3bb35d14e1524e45cdb6e0e3ab29d57294e151509c9fc9b810499dee1ca",
+      "texto_sha256": "49217a7fc203dbba7ddc1310a70eb476a4a04561355c01e71b15643bc8eda959",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564024234995482806",
+      "adjuntos": []
+    },
+    {
+      "id": "1564024576432935056",
+      "fecha_utc": "2026-10-25T21:15:17.193000+00:00",
+      "fecha_local": "2026-10-25",
+      "editado_utc": null,
+      "texto": "**Zoltan se apoya en el hombro de Citlali y le dice picaresco**\n\nAsi que nunca has tenido pareja Citlali....???",
+      "mensaje_sha256": "834aceb7e92399967facfb7efeeb27a6d05aecb4d462debb0567fe75729ab50b",
+      "texto_sha256": "e08ec9a297e0fbfedb97b26761b2223587552865a6774513270eac9279b01f13",
+      "tipo_discord": 19,
+      "referencia": "1564023074578243775",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564024576432935056",
+      "adjuntos": []
+    },
+    {
+      "id": "1564025650698780846",
+      "fecha_utc": "2026-10-25T21:19:33.318000+00:00",
+      "fecha_local": "2026-10-25",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n- joven Zoltan\n\n\n**El.gnomo le da unos toquecitos en la pierna al humano**\n\n- si bien es cierto que le tengo en cierta estima... Este caballero no puede consentir esa actitud suya, claramente indicativo de un intento de cortejo... En mi rol de protector del pueblo, y en este caso concreto de mi señora Titania, no puedo permitir que continuéis por estos derroteros... Le suplico que cese",
+      "mensaje_sha256": "e841f6ed02594c25d9238e01381bc7e7a4de8e91a62209ee98b5340fe52e593b",
+      "texto_sha256": "8fe919f7ca2307c99b234b0ee122765835dbc52ab12a9c923b07eee538e1b864",
+      "tipo_discord": 19,
+      "referencia": "1564024576432935056",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564025650698780846",
+      "adjuntos": []
+    },
+    {
+      "id": "1564026392843132961",
+      "fecha_utc": "2026-10-25T21:22:30.259000+00:00",
+      "fecha_local": "2026-10-25",
+      "editado_utc": "2026-10-25T21:23:05.826000+00:00",
+      "texto": "Zoltan:\n\nAaaahhhh vamos Poncetlot solo estaba preguntando a la señorita... Titania? Por qué la llamas así",
+      "mensaje_sha256": "8861ea88d1e3fdf722654d2b02410b1a4ccdda484cfdf7ec2c7f3b59b8295a42",
+      "texto_sha256": "ab34b42893ac32b3236d48d1336979f4bf8f9c0e88f0175aac6bdf6af6a93b11",
+      "tipo_discord": 19,
+      "referencia": "1564025650698780846",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564026392843132961",
+      "adjuntos": []
+    },
+    {
+      "id": "1564027068822331453",
+      "fecha_utc": "2026-10-25T21:25:11.425000+00:00",
+      "fecha_local": "2026-10-25",
+      "editado_utc": null,
+      "texto": "Sir Poncelot \n\n**El rostro de Poncelot se endurece**\n\n- \"la señorita\" es Lady Titania. Reina de las hadas. Señora de Abalon. Le vuelvo a suplicar, joven Zoltan, que cambie su actitud ante una dama de tal alta alcurnia. Si no me veré en la obligación de reprenderle... Lo cual me dolería enormemente, créame...",
+      "mensaje_sha256": "51f7773f8043ef88962af1e1d05e123e6baac6c6b22c5e1f671feed52f265dc9",
+      "texto_sha256": "74b60042913d4df81ef4ec317d10338ea22d44e6bb01ec750c9447a73738ff7a",
+      "tipo_discord": 19,
+      "referencia": "1564026392843132961",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564027068822331453",
+      "adjuntos": []
+    },
+    {
+      "id": "1564028469052973057",
+      "fecha_utc": "2026-10-25T21:30:45.266000+00:00",
+      "fecha_local": "2026-10-25",
+      "editado_utc": null,
+      "texto": "Zoltan:\n\nPor favor, alteza disculpe mi oportunio\n\n**Da un paso hacia atrás y le hace una reverencia**\n\n**Se dirige hacia Poncetlot**\n\nMás no será necesario reprenderme joven caballero, le imploro guarde sus fuerzas para su bienaventurada recuperación de lo contrario concuerdo con su corazonada de que le dolería enormemente....\n\n**Y sonríe picaresco viendo que el pobre gnomo esta destrozado**",
+      "mensaje_sha256": "fe6752d09ea3b2490ff54a4324a945ee29a9f17b3c748c166837dd1e5635735a",
+      "texto_sha256": "105467251bc2e3fbf1df935a5f0be7f5003d27fc706c62e9eefd8e5d0b7d8af0",
+      "tipo_discord": 19,
+      "referencia": "1564027068822331453",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564028469052973057",
+      "adjuntos": []
+    },
+    {
+      "id": "1564029435160694785",
+      "fecha_utc": "2026-10-25T21:34:35.604000+00:00",
+      "fecha_local": "2026-10-25",
+      "editado_utc": "2026-10-25T21:34:48.735000+00:00",
+      "texto": "Sir Poncelot \n\n**La cara del gnomo se relaja y esboza un pequeña sonrisa**\n\n- así me gusta joven! Que sepa tratar a esta alta dama como caballero que es usted! Y no sé preocupe por mi estado de salud. Un caballero de verdad no abandona su puesto aunque haya perdido un miembro!\n\n**El caballero se deja caer sobre uno de los taburetes bastante agotado**\n\n- con un pequeño descanso... Si... Con dejar que mis posaderas y mis pies descanses un breve rato... Este caballero estará como nuevo...",
+      "mensaje_sha256": "b5477bb258efeef0ea1f3d307618c8ea79f7c9807b67bbf654139c81796f59fc",
+      "texto_sha256": "d786eda2f54a0c9cc2715e95f6d4350eafdfd7d7b4cb95ed539b15c83c5e97e3",
+      "tipo_discord": 19,
+      "referencia": "1564028469052973057",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564029435160694785",
+      "adjuntos": []
+    },
+    {
+      "id": "1564031784419590227",
+      "fecha_utc": "2026-10-25T21:43:55.711000+00:00",
+      "fecha_local": "2026-10-25",
+      "editado_utc": "2026-10-25T21:46:37.394000+00:00",
+      "texto": "Yoali:\nCada día los seres vivos me sorprenden más y eso que la profecía está a la mitad \n\n**Apagaba lo que quedaba del fuego tirándole el agua negra del cuenco, aunque no se apagó , si no que pareciera como que aquel fuego se purificó y la flama volvió a ser brillante y cálida**\n\nNo deberían de perder el tiempo, aunque entiendo que después de lo vivido es necesario un descanso mental, a pesar de que este es un lugar de descanso, es eterno y no les gustaría quedarse mas tiempo aquí\n\n**Miré a los presentes**",
+      "mensaje_sha256": "4212c78f60553c33b476e8cdc3665620b97cf100e2ecfe56f2525721075d9b41",
+      "texto_sha256": "0c17c4113ebc63841dc1959ec24e1fd26e1b1e36ce74344231da7c6000d84407",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564031784419590227",
+      "adjuntos": []
+    },
+    {
+      "id": "1564032379121569802",
+      "fecha_utc": "2026-10-25T21:46:17.499000+00:00",
+      "fecha_local": "2026-10-25",
+      "editado_utc": null,
+      "texto": "",
+      "mensaje_sha256": "50b91d01e3a9a860378eea8fa303bdcf56c0cf94bd76db7ee741934cc0d32812",
+      "texto_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564032379121569802",
+      "adjuntos": [
+        {
+          "id": "1564032378563858432",
+          "nombre": "file_0000000079347230a4906ec5edc76a68.png",
+          "tipo": "image/png",
+          "archivo": "adjuntos/1564032378563858432.png",
+          "url": "rol_escrito/adjuntos/1564032378563858432.png",
+          "bytes": 2497057,
+          "sha256": "2b4cb1931b7a6542e96e343c39cf267e0222d35610cf745c92b5274f700a9c4c"
+        }
+      ]
+    },
+    {
+      "id": "1564033160897892404",
+      "fecha_utc": "2026-10-25T21:49:23.889000+00:00",
+      "fecha_local": "2026-10-25",
+      "editado_utc": null,
+      "texto": "Zoltan \n\n**Zoltan agarra un taburete y se sienta en frente de Yoali, apoya los brazos cruzados en la mesa**\n\nYo también debería marchar o quieres que hablemos un rato, de ya sabes.... Eso de la memoria?",
+      "mensaje_sha256": "5d3da34305e9faef88122344c3521feecbaf0aa5fa54520709fefea9a40e6d69",
+      "texto_sha256": "2036314b2f25299add3ab4aad95dc1bb9bf0b9b283b1af7ed582e783505bd804",
+      "tipo_discord": 19,
+      "referencia": "1564031784419590227",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564033160897892404",
+      "adjuntos": []
+    },
+    {
+      "id": "1564034158479802381",
+      "fecha_utc": "2026-10-25T21:53:21.731000+00:00",
+      "fecha_local": "2026-10-25",
+      "editado_utc": null,
+      "texto": "Yoali:\nTu situación aún es sumamente curiosa para mi, pero una promesa es una promesa, sin embargo tienes que descansar tu también \n\n**Me levanté y le acaricié la mejilla**\n\nHaré lo necesario para darte las fracciones que has perdido, aunque será más tu fuerza de voluntad",
+      "mensaje_sha256": "f40f92f14cf15ce7cff9d02860fe06a4b8808ab7270f8d29c4134b80c1fb925e",
+      "texto_sha256": "7fd9b651f055397739b6642605f23ac23e4192ab7f8fa94e31fedc0041f3478b",
+      "tipo_discord": 19,
+      "referencia": "1564033160897892404",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564034158479802381",
+      "adjuntos": []
+    },
+    {
+      "id": "1564054089837445202",
+      "fecha_utc": "2026-10-25T23:12:33.737000+00:00",
+      "fecha_local": "2026-10-26",
+      "editado_utc": null,
+      "texto": "Nox : **se había quedado en estado ausente durante la conversación mirando fijamente al ojo de serpiente**\n\n  que no soy tu hijo momia  , deja de inventar cosas . Que clase de brujería le has hecho para que este ...\nPara que tenga... \n**hace una pausa estando aparentemente nervioso**\n\nASIII ! \n**le dice a Yoali ** <@408026114548695061>",
+      "mensaje_sha256": "add1197492067579695cb8d415a607fc68078a586d2c79db7199c3d759738a84",
+      "texto_sha256": "30ef92f5cc877b80f003b01afc9085918a84a5598f7578b1e51d7d5b2db65455",
+      "tipo_discord": 19,
+      "referencia": "1563983219559370773",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564054089837445202",
+      "adjuntos": []
+    },
+    {
+      "id": "1564055261394632785",
+      "fecha_utc": "2026-10-25T23:17:13.058000+00:00",
+      "fecha_local": "2026-10-26",
+      "editado_utc": "2026-10-25T23:17:37.076000+00:00",
+      "texto": "Ione: **Abrio los ojos y se puso en pie ya siendo humana. Iba con la ropa hecha jirones como cada vez que se transformaba.**\n\nPues antes de saber que era la vieja tu querias...\n\n👉 👌",
+      "mensaje_sha256": "7ad06371e7aeb7f7f880ea95d1915106a5fdaea09b6a79ff4d669e8de4f4f56b",
+      "texto_sha256": "6d7f7002f71e6c34eefe2625b494b3305cd963f6f348a708647e5ce3701cdaf6",
+      "tipo_discord": 19,
+      "referencia": "1564054089837445202",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564055261394632785",
+      "adjuntos": []
+    },
+    {
+      "id": "1564056143796502609",
+      "fecha_utc": "2026-10-25T23:20:43.439000+00:00",
+      "fecha_local": "2026-10-26",
+      "editado_utc": null,
+      "texto": "Yoali:\n**Voltea a ver a Nox para después mirar a Citlali**\n\nNo sé a qué te refieres, la conocí en este mismo día, pero por lo mucho o poco que puedo percibir, estás rodeada de pequeños, verdad?\n\n\nCitlali:\nTristemente así es, no conocí a ningún hombre y tampoco es como que alguno se interesará en mi \n\n**Desvíe la mirada hacia Yoali con un semblante de tristeza al escuchar lo de mis hijos**\n\nSi... Estoy rodeada de ellos\n\n**Dentro de la vista de Yoali, habían varías luces brillantes rodeando a Citlali**\n\n<@297459767117611008>",
+      "mensaje_sha256": "e668960348d0932c5d093efdaa53b25042d8ca79eccc99845b90a61d9a051035",
+      "texto_sha256": "390e4f036b3404d73031d1894a8a13d9f734ef05e06a820ac120252d473f7318",
+      "tipo_discord": 19,
+      "referencia": "1564054089837445202",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564056143796502609",
+      "adjuntos": []
+    },
+    {
+      "id": "1564058180000940053",
+      "fecha_utc": "2026-10-25T23:28:48.908000+00:00",
+      "fecha_local": "2026-10-26",
+      "editado_utc": "2026-10-25T23:30:58.987000+00:00",
+      "texto": "Nox :** Piks sube hasta el hombro de Nox y se pone las manos en la boca y le empieza a susurrar cosas .\nSe escucharían sonidos leves de mono. No palabras **\n\nAja .. aja.. \nSiii .. entiendo . \nQue dices ? \nElla ? **Señala a Citlali ** <@408026114548695061> \nLas dos ??** Señala a Ione y a Citlali .**\n**piks asiente ** \nVaya vaya .. **nox sonríe de medio lado ** \n\nBueno deja de decir tonterías de maldiciones y cosas . Y no me llames Amaru . \n**le dice a Citlali** \nJim ... jim o Nox . Son tres letras vieja disfrazada no es tan difícil.  Además...\nTu estabas hablando conmigo.. \n**pega un giro a la silla de Zoltan <@297459767117611008>  y lo atráe hasta el . \n\nNox se sentaría en uno de los banquitos y le pondría otro asiento a Ione . **\n\nQue ? Me has echado de menos o no ? Yo a ti .. un poco  . \nCa \nPi \nTa \nNa \n**te sonríe** \n\nSigues enfadada niña ? **te susurra**",
+      "mensaje_sha256": "a79181667eb0ae836750050c4389a43db51d0c934324920c891f384e21bd0fbb",
+      "texto_sha256": "5c31cf9d01681d3635d458ee6521af1750fd2a409a852bc29e5a4731f953439d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564058180000940053",
+      "adjuntos": []
+    },
+    {
+      "id": "1564059503635337478",
+      "fecha_utc": "2026-10-25T23:34:04.487000+00:00",
+      "fecha_local": "2026-10-26",
+      "editado_utc": null,
+      "texto": "Ione: **Hace un puchero. Nunca ha sido buena para mentir y ahora mucho menos.**\n\nEres un idiota Nox... Un jodido idiota. \n\n**Esta aguantandose el lanzarse a darte un abrazo.**\n\nSi, estoy molesta... Pero porque te he hechado de menos... Y mucho... No sabes cuanto.",
+      "mensaje_sha256": "be61fbf89010ac0c4ae64268e2b038133d19f3cd46bccd7e8394e82656ef2ba0",
+      "texto_sha256": "db191168fb5ebc00d7c30ccb6a3d23bc440e0feaf26a9ffcff8f5f091ee8a681",
+      "tipo_discord": 19,
+      "referencia": "1564058180000940053",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564059503635337478",
+      "adjuntos": []
+    },
+    {
+      "id": "1564061594324041739",
+      "fecha_utc": "2026-10-25T23:42:22.946000+00:00",
+      "fecha_local": "2026-10-26",
+      "editado_utc": "2026-10-25T23:43:59.764000+00:00",
+      "texto": "Nox : ven aqui ... \n\n**te da un abrazo acercándote fuerte hacia el . \n\nPasa algo raro,  como la otra vez . Cuando te acercas durante un segundo Nox parece que esta frío.  Incluso ahora que te ha pegado a su pecho para abrazarte , no escucha ningún latido . \nPero no . Es solo segundo . Enseguida notas esa calidez y .. bum bum ..bum bum ... el corazón late normal . \n\nTodo parece estar bien ... ** \nLo siento ... vale \n**te dice abrazándote se acerca mas a tu oreja y te susurra**\nReúne a los chicos ... tenemos que hablar. \n**se separa de ti y muy sutilmente te señala a Citlali y Zoltan con la mirada haciendo referencia a hablar de algo de ellos .\n\nNotas en la sonrisa de Nox que algo sabe** \n\nBien ... por el momento celebremos la vuelta . \n\nQueréis ver el trucos de las 10 monedas de oro \n\nLlevarme a un bar con ron música y buenas damas y os enseñaré ese y varios mas , amigos . \n\n** se levanta tambaleante bebe un trago , sevuelve a equilibrar y camina en busca de la salida **",
+      "mensaje_sha256": "f2541614a97e90c966a93eca28b9071d86bb46977ee9d2ff2d2205cf9df3c09c",
+      "texto_sha256": "a1fa2dd67350159f4f7bf254d47ee4c47a507852863ea12ba2ca325ae97198b0",
+      "tipo_discord": 19,
+      "referencia": "1564059503635337478",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564061594324041739",
+      "adjuntos": []
+    },
+    {
+      "id": "1564063022555729992",
+      "fecha_utc": "2026-10-25T23:48:03.463000+00:00",
+      "fecha_local": "2026-10-26",
+      "editado_utc": null,
+      "texto": "Ione: **Se queda sorprendida... Por un segundo se queda algo aturdida al notar esas anomalias, pero aparta la idea.**\n\n**Mira a los otros.**\n\nVenga, vamos.\n\n<@297459767117611008> <@408026114548695061> <@220602485977382912> \n\n**Va tras Nox, se quita el gorro y se lo pone en la cabeza.**\n\nTe falta tu gorro... Y dame la moneda anda que me la dieron a mi.",
+      "mensaje_sha256": "b715541ac1a7794f64d73d1759e97fd99b970d47c106e2b0220992f77b86cd0c",
+      "texto_sha256": "a604ce1c6d057544ab681d1dac26aa105198ae6232b2eee77ba0d91feb0eec2a",
+      "tipo_discord": 19,
+      "referencia": "1564061594324041739",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564063022555729992",
+      "adjuntos": []
+    },
+    {
+      "id": "1564063847487111369",
+      "fecha_utc": "2026-10-25T23:51:20.142000+00:00",
+      "fecha_local": "2026-10-26",
+      "editado_utc": "2026-10-25T23:52:28.698000+00:00",
+      "texto": "Nox : **saca la moneda,  se queda mirando a Zoltan ** \nSi claro .. \n**te la lanza y se acaba de colocar bien el gorro ** \nMe he de poner al dia. \nEntonces Bonny .. \nBueno .. supongo que rompió el pacto de los reyes , le advertí... \nNo todo es para siempre parece ser . \n\n**mira a Citlali **  <@408026114548695061> \nO si.. \n**te sonríe de medio lado y gira la cara para seguir andando con Ione y los demás **",
+      "mensaje_sha256": "f38b417f159f243d991d9f7fcbcad5664c2f0232b6562114337a6590872901c9",
+      "texto_sha256": "a3643208c2c0fc7b270cc8b164a8d17bc751fe84dfe9308a8bf33dec0097aab7",
+      "tipo_discord": 19,
+      "referencia": "1564063022555729992",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564063847487111369",
+      "adjuntos": []
+    },
+    {
+      "id": "1564064323842605129",
+      "fecha_utc": "2026-10-25T23:53:13.714000+00:00",
+      "fecha_local": "2026-10-26",
+      "editado_utc": "2026-10-25T23:53:37.427000+00:00",
+      "texto": "Citlali:\n**Abrazo a Poncelot y a Zoltan**\n\nGracias por su ayuda, han sido muy valientes \n\n**Miré a Ione y a Nox, esa mirada triste había desaparecido, me sentía de nuevo viva al ver a mi pequeño estar de vuelta**\n\nSerá un poco complicado que deje de llamarte Amaru\n\n**Negué con la cabeza mientras empezaba a seguir a todos hacia afuera de la cabaña**",
+      "mensaje_sha256": "fe51b62d9a3d2bf99240caca82006991f3aaecb7001d53f6e914c864d40abb7f",
+      "texto_sha256": "236d867267913da585620d623b30df0731eb23fb62b9d37fa14991421142f40a",
+      "tipo_discord": 19,
+      "referencia": "1564063022555729992",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564064323842605129",
+      "adjuntos": []
+    },
+    {
+      "id": "1564066435322478766",
+      "fecha_utc": "2026-10-26T00:01:37.130000+00:00",
+      "fecha_local": "2026-10-26",
+      "editado_utc": null,
+      "texto": "Ione: **Atrapo la moneda y la guardo. Dejo de lado la sonrisa y se puso seria**\n\nSi...Murio. Lo rompio y huimos de Siharu. Ahora estan los reyes pirata aqui. Y esas serpientes se han vuelto mucho mas peligrosas... El asunto ha escalado tanto que Molly ha confesado ante los lideres de esta isla el origen de todo.... Lo que despertaron. \n\n**Caminaba con la ropa destrozada, como siempre no la importaba que se la vieran las verguenzas.**\n\nLos de la isla estan sobrepasados por las serpientes, tanto que estan pidiendo ayuda a extraños como nosotros...",
+      "mensaje_sha256": "e94fc41a8390385de36f6c324a0a04aa3af37a83cf1d98384c6aa26a182c43d9",
+      "texto_sha256": "c36e00b17e5b57c4b523e75ff3af67a6a084f4aa9d01cf3084dcf7018989e129",
+      "tipo_discord": 19,
+      "referencia": "1564063847487111369",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564066435322478766",
+      "adjuntos": []
+    },
+    {
+      "id": "1564066969869750379",
+      "fecha_utc": "2026-10-26T00:03:44.576000+00:00",
+      "fecha_local": "2026-10-26",
+      "editado_utc": "2026-10-26T00:08:39.283000+00:00",
+      "texto": "Nox : bueno.. pues habrá que dársela entonces **dijo Nox en alto mientras sonreía y te pasaba la mano por encima del hombro , y una mano en la pistola para quien mirase mas de lo debido esas vergüenzas **",
+      "mensaje_sha256": "c144ddb31d5864202dde4efb66aa2cbca72541b77c68dcd3396fb803028984ba",
+      "texto_sha256": "5b5e7f9ed7686f65b896e31b05eb1bf8bd2e512766ff20da151bfc8ef236a8c9",
+      "tipo_discord": 19,
+      "referencia": "1564066435322478766",
+      "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564066969869750379",
+      "adjuntos": []
+    }
+  ]
+}

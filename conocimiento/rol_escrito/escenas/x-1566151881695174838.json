@@ -1,0 +1,425 @@
+{
+  "id": "x-1566151881695174838",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1566151881695174838",
+  "hilo_id": "1558234683177963582",
+  "hilo_nombre": "Tutucan - La ciudad de los Elementos",
+  "titulo": "Nox y Citlali pactan colaborar sin resolver el vínculo de Amaru",
+  "resumen": "La conversación sobria abre una colaboración contra la maldición, pero Nox prioriza a su antigua tripulación y deja sin explicar su plan y sus ojos negros.",
+  "relato": "Citlali alimenta y acaricia a Eztli mientras vuelve a tararear la nana. Nota que la criatura entiende mejor sus palabras y la trata con el afecto que dedicaría a un hijo. Nox la ve desde una esquina y duda entre acercarse o marcharse. El ruido de un carro con el que tropieza lo delata. Ella lo llama Amaru, pero contiene el impulso de aproximarse y silba a Eztli para indicarle que es un amigo.\n\nNox pregunta por el animal, pide permiso para acariciarlo y rompe así parte de la distancia. Asegura que Ione está ocupada con su clan. Después intenta admitir, con muchas vueltas, que quizá se excedió en lo que dijo la otra noche. Citlali lo interrumpe para disculparse ella: cree que le dio la noticia de manera equivocada, cuando apenas había regresado de la muerte. Él, sorprendido, acepta sus disculpas; la conversación puede continuar sin los gritos ni el alcohol del reencuentro.\n\nNox afirma que algo alteró su muerte y retrasó su momento, y abre la chaqueta para mostrar dos orbes. Citlali reacciona con dolor e intenta cubrirlos. Recuerda que Yoali les dijo que debían recuperar una fuente capaz de ayudar a destruir aquellos ojos y propone que eso explique su regreso. Dice que sintió su muerte y que el tatuaje de la frente responde a ella. Son explicaciones de los personajes, todavía sin verificación del mecanismo que lo mantiene vivo.\n\nEl pirata deja clara su prioridad: no pretende morir ni salvar a todo el mundo, sino romper aquello que lo ata a la isla y averiguar qué ocurrió con su antigua tripulación. Bones lo encontró de bebé en el cofre, lo crio como un hijo y le enseñó lo que sabe. Aunque acepta que, si nació allí, quizá deba resolver algo en Xoltacan, reivindica esa familia y ese propósito por encima de cualquier otro lazo. También confiesa la sensación de que Ione lo necesita cada vez menos. Citlali no intenta retenerlo; le basta saber que tuvo una vida y no murió de pequeño.\n\nNox añade que tienen que ganar una partida que ya está en marcha. Asegura que los yuan-ti no han encontrado los orbes a tiempo y dice tener un plan para enfrentarse a un dios. Solo adelanta que cada cual deberá cumplir una función cuando la criatura sea liberada: según su criterio, impedir el ritual no bastaría para acabar con la maldición de Citlali ni con sus propias cadenas. Ella responde que aún no lo saben y, aun así, ofrece su ayuda. Explica que el ser que la marcó es quien se lleva a sus hijos y provoca sus cambios de edad; atribuye su actual juventud a la muerte de Nox.\n\nCitlali decide llamarlo Nox para respetar el nombre con el que él se identifica. El gesto lo lleva a agradecer el límite y a preguntar por qué lo llamó Amaru, después de contar que Nox significa Noche y que nunca preguntó a su banda por el origen del apodo. Antes de oír la respuesta, sus pupilas se dilatan y aplaza la explicación para otro día. Al darse la vuelta, la narración muestra a los espectadores sus ojos completamente negros; su pensamiento indica que no es el momento. Citlali no presencia de igual manera lo que se reserva al plano exterior.\n\nAl marcharse, Nox agradece a Citlali que se arriesgara por él aquella noche y reconoce que le dio una oportunidad para vivir. Ella dice que lo hizo por amor y se pregunta, dolida, si Amaru murió entonces y ya no queda nadie a quien salvar con aquel nombre. Se retira con Eztli. Nox se pierde entre la niebla hacia la zona portuaria, preguntándose en privado hasta dónde estaría dispuesta a llegar y llamándola madre solo en sus pensamientos. La colaboración es posible y hay un primer agradecimiento, pero el significado de Amaru, la naturaleza de su regreso y el alcance de esa relación continúan abiertos.",
+  "participantes": [
+    "Nox",
+    "Citlali",
+    "Eztli"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1566165657052254440",
+      "afirmacion": "Nox intenta reconocer que se propasó en la taberna.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1566166727216337007",
+      "afirmacion": "Citlali se disculpa por la manera en que le dio la noticia.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1566183747139928126",
+      "afirmacion": "Nox muestra dos orbes y relaciona su regreso con algo que afecta a ambos.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1566184381415161908",
+      "afirmacion": "Citlali recuerda la indicación de Yoali sobre una fuente para destruir los ojos y la vincula hipotéticamente al regreso de Nox.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1566186066782855241",
+      "afirmacion": "Nox prioriza su libertad y conocer el destino de la tripulación de Bones.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1566200055449522217",
+      "afirmacion": "Nox plantea actuar cuando se libere la criatura, porque cree insuficiente impedir el ritual.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1566205006095319211",
+      "afirmacion": "Citlali ofrece colaborar y decide llamarlo Nox.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1566208675121598549",
+      "afirmacion": "Nox pregunta por Amaru, aplaza la respuesta, muestra ojos negros en el plano de los espectadores y agradece el rescate.",
+      "tipo": "descripcion"
+    },
+    {
+      "mensaje_id": "1566212543544819823",
+      "afirmacion": "Mientras se marcha, Nox llama madre a Citlali solo en sus pensamientos.",
+      "tipo": "pensamiento"
+    }
+  ],
+  "notas": [
+    "El relato conserva las hipótesis de los personajes sobre la muerte, los orbes, la fuente y la maldición, sin convertirlas en una explicación comprobada.",
+    "La estrategia que propone Nox es su plan: no demuestra que liberar a la criatura sea necesario ni que vaya a romper las maldiciones.",
+    "Los ojos completamente negros se muestran expresamente a los espectadores; no se atribuye ese conocimiento íntegro a Citlali.",
+    "Madre aparece al final en un pensamiento privado de Nox. No equivale a que él lo diga ante Citlali ni a una reconciliación completa.",
+    "Etzli es una grafía incidental del nombre de la criatura, que se conserva literalmente en la fuente."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-10-31T18:08:26.291000+00:00",
+  "fin_utc": "2026-11-01T08:00:55.758000+00:00",
+  "fecha_local": "2026-10-31",
+  "intervalo": {
+    "anterior": 72,
+    "siguiente": null,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236",
+    "siguiente_fuente": null,
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 72,
+        "fecha": "2026-10-16",
+        "inicio_referencia_utc": "2026-10-16T18:28:13+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1566151881695174838",
+      "fecha_utc": "2026-10-31T18:08:26.291000+00:00",
+      "fecha_local": "2026-10-31",
+      "editado_utc": null,
+      "texto": "Citlali:\n**Estaba dandole de comer a Etzli, lo acariciaba y le trataba con bastante amor, poco a poco se veía que estaba entendiendo más las palabras y algunas acciones a comparación de antes**\n\nBien hecho mi pequeño Etzli, vas muy bien \n\n**Mientras hacia todo esto, no dejaba de tararear la canción, aun seguía sintiendo ese vacío al recordarla pero la melodía no dejaba de ser nostálgica**\n\n<@616683133374562304>",
+      "mensaje_sha256": "b4bde91aae5559fa53e5e3a7afee2a2853aa057f7479b1f86badced0d719a7bf",
+      "texto_sha256": "c150bd19c55cd1afbbe94c01b5b9defa575a9b0db4041f77bf3f24922a9e16ac",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566151881695174838",
+      "adjuntos": []
+    },
+    {
+      "id": "1566153037225918645",
+      "fecha_utc": "2026-10-31T18:13:01.791000+00:00",
+      "fecha_local": "2026-10-31",
+      "editado_utc": "2026-10-31T18:13:08.300000+00:00",
+      "texto": "Nox: \n*la noche mas oscura ... bien ... nos prepararemos...*\n\n** vería a Citlali al girar la esquina y retrocederia.\nPara esconderse en la entrada a un callejon\n\nSe quedaría observando un rato **\n\n*Esa canción... que te pasa Jim ...*",
+      "mensaje_sha256": "5c0b59979bca78626c9503b66a6e5552110babacbe359d86e2b9c90431357971",
+      "texto_sha256": "3d715677ca1975dfa7a917484e6248dc5adf7fe8202c32d047eeff1c10db9265",
+      "tipo_discord": 19,
+      "referencia": "1566151881695174838",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566153037225918645",
+      "adjuntos": []
+    },
+    {
+      "id": "1566154469832532150",
+      "fecha_utc": "2026-10-31T18:18:43.351000+00:00",
+      "fecha_local": "2026-10-31",
+      "editado_utc": null,
+      "texto": "Citlali:\n**Le hablo con tanto amor a Eztli que casi es como si le estuviera hablando a mi propio hijo**\n\nEstás creciendo muy bien, no dudo en que te vas a convertir en un adulto maravilloso~",
+      "mensaje_sha256": "bb83a60239de9f46236ecc923769a2dcf0e622053a1ed4bac77b1210bbb20e9c",
+      "texto_sha256": "565fec528aa4825bdfbcef8a8f482ec326ef78565b40ba6aee7c645d361502b4",
+      "tipo_discord": 19,
+      "referencia": "1566153037225918645",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566154469832532150",
+      "adjuntos": []
+    },
+    {
+      "id": "1566157032610996346",
+      "fecha_utc": "2026-10-31T18:28:54.365000+00:00",
+      "fecha_local": "2026-10-31",
+      "editado_utc": null,
+      "texto": "Nox : **salgo de la esquina , hay algo que le dice que se acerque pero al mismo tiempo algo que le indica lo contrario ** \n\n*si que ha crecido ese bicho...* \n\n**se sigue acercando en sigilo pero frena y retrocede **\n\n* no Jim..., vete* \n**empieza a dar pasos hacia atrás para irse pero sin querer choca con el carro de un tendero interrumpiendo el silencio de la noche en aquella calle **",
+      "mensaje_sha256": "224a192a9a5f6851cfedb63e2d280f18dd07e7f2dfd4e3b79b45a2f4ec983e34",
+      "texto_sha256": "6231ad3fe6f9b404255975e1a15e95ef25ccbb5d17cbcffeb5d9fb71515f050c",
+      "tipo_discord": 19,
+      "referencia": "1566154469832532150",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566157032610996346",
+      "adjuntos": []
+    },
+    {
+      "id": "1566158237370286282",
+      "fecha_utc": "2026-10-31T18:33:41.602000+00:00",
+      "fecha_local": "2026-10-31",
+      "editado_utc": null,
+      "texto": "Citlali:\n**Enseguida voltee al escuchar todo el ajetreo**\n\nAmaru?\n\n**Lo miré con algo de preocupación, quise acercarme pero no podía, le indiqué a Eztli con el silbido de que era amigo para que no lo atacara**",
+      "mensaje_sha256": "ed96478936ef9e1b700dfd3b37bf9d981bbc9b117e5163c3059667525aa607db",
+      "texto_sha256": "3df0a5266dbee34bde260ce74537996b11d9a8396ad065b520cef92c54f7c0aa",
+      "tipo_discord": 19,
+      "referencia": "1566157032610996346",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566158237370286282",
+      "adjuntos": []
+    },
+    {
+      "id": "1566159780341481723",
+      "fecha_utc": "2026-10-31T18:39:49.475000+00:00",
+      "fecha_local": "2026-10-31",
+      "editado_utc": "2026-10-31T18:40:03.660000+00:00",
+      "texto": "Nox : \nEeeee... \nHola.  Buenas noches \n**disimula el hecho de que se quería ir ** \n\nTe he visto y bueno .. \n**señala a Eztli y da un par de pasos hacia delante**\nLo tienes enseñado a la emm criatura .. pajaro ... cosa ?\nO se lanzará como lámpara vez ?",
+      "mensaje_sha256": "64d40a2ff108e41fde46e3eccd17cedb16943622cdb12763482fb19091d3dcb6",
+      "texto_sha256": "d1e2eda4d336eee091fd5c7d99b397ca7f222999990101350df0b6c202c53fcf",
+      "tipo_discord": 19,
+      "referencia": "1566158237370286282",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566159780341481723",
+      "adjuntos": []
+    },
+    {
+      "id": "1566160780121088111",
+      "fecha_utc": "2026-10-31T18:43:47.841000+00:00",
+      "fecha_local": "2026-10-31",
+      "editado_utc": null,
+      "texto": "Citlali:\nNo te preocupes, ya sabe que eres amigo, a menos de que yo de la orden no te va a atacar y no tengo intenciones de hacerlo \n\n**Trataba de ver si alguien más venía con él**\n\nNo traes a Ione contigo, está bien?",
+      "mensaje_sha256": "89907d447e4d6af6e54530888da66590f2a746c18a34baadf1ae7e8329c1272b",
+      "texto_sha256": "384fa6002cf0c2322e7b671e54f8a0d7d6884429a95329f90446b63e5b9aad96",
+      "tipo_discord": 19,
+      "referencia": "1566159780341481723",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566160780121088111",
+      "adjuntos": []
+    },
+    {
+      "id": "1566161677076926558",
+      "fecha_utc": "2026-10-31T18:47:21.692000+00:00",
+      "fecha_local": "2026-10-31",
+      "editado_utc": null,
+      "texto": "Nox: no no ... esta con lo del clan , quiere causar una buena impresión a la lider .\n\n**se acerca algo mas ** \nSe ha duchado y todo sabes ..\n**levanta un poco la mano hacia Eztli** \nPuedo? \n** mostrando interés por tocarlo **",
+      "mensaje_sha256": "9858d70a29b8f92f95f125c94f2124991cf6aef2bbb29cf377f6edeab7820379",
+      "texto_sha256": "245e78e85fdb0cc7c86af9e7ab61ce5257e66e84e06c029d8d3f3d74fc557fa4",
+      "tipo_discord": 19,
+      "referencia": "1566160780121088111",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566161677076926558",
+      "adjuntos": []
+    },
+    {
+      "id": "1566163367100551339",
+      "fecha_utc": "2026-10-31T18:54:04.625000+00:00",
+      "fecha_local": "2026-10-31",
+      "editado_utc": null,
+      "texto": "Citlali:\nSi puedes\n\n**Volví a silbarle a Eztli para que se acercara a Nox y se dejara acariciar**\n\nAnda, no te hará daño",
+      "mensaje_sha256": "868bc00c69319fef570486e479e2f7a42aa52ad2f10d57df63c1cca6bd43b8cb",
+      "texto_sha256": "577e0fcfcaf7439d954235a60d42d92b09f32ff474ade4296f798cd5946c359b",
+      "tipo_discord": 19,
+      "referencia": "1566161677076926558",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566163367100551339",
+      "adjuntos": []
+    },
+    {
+      "id": "1566165657052254440",
+      "fecha_utc": "2026-10-31T19:03:10.592000+00:00",
+      "fecha_local": "2026-10-31",
+      "editado_utc": null,
+      "texto": "Nox : ** le hace un poco tap tap en la cabeza **\n\nHas crecido ... \n\n**se queda en silencio unos segundos ** \n\nEsto...\nEn cuanto a lo de la otra noche ... en el bar .. \n\nEmmm bueno . \nQuizá cabe la posibilidad que de alguna forma se puede interpretar de algun modo vajo la percepcion de quien estuviese alli pdoria haber malinterprestado las cosas de tal modo que sea posible que me propasara en según que declaraciones.  \n\n**va gesticulando algo nervioso.  Aunque sabes que tiene el don de la palabra parece que non quiere decir lo que parece  que quiere decir **",
+      "mensaje_sha256": "628436bb7de55d18c0499aadf0bc7621b92920ec8a3a6f51e342fdb32db1c6cd",
+      "texto_sha256": "cea4c091405649be4e8851e4e3e72c735d50595c5d79385b6edb007eb5d3035d",
+      "tipo_discord": 19,
+      "referencia": "1566163367100551339",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566165657052254440",
+      "adjuntos": []
+    },
+    {
+      "id": "1566166727216337007",
+      "fecha_utc": "2026-10-31T19:07:25.739000+00:00",
+      "fecha_local": "2026-10-31",
+      "editado_utc": null,
+      "texto": "Citlali:\n**Levanté la mano para detenerlo**\n\nNo es necesario que me expliques nada, se que los animos estuvieron a flor de piel y que te abrumó lo que te dije, por ello quiero disculparme",
+      "mensaje_sha256": "830bbcae3d057fb1cfd4a2746ea111034b4c8a89478fb0071ceffe43c866a414",
+      "texto_sha256": "f33b320cc843772f953a5f59eb6b01c9682250dd6923deda57886bcba4c306f2",
+      "tipo_discord": 19,
+      "referencia": "1566165657052254440",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566166727216337007",
+      "adjuntos": []
+    },
+    {
+      "id": "1566168137681084517",
+      "fecha_utc": "2026-10-31T19:13:02.020000+00:00",
+      "fecha_local": "2026-10-31",
+      "editado_utc": null,
+      "texto": "Nox : **se sorprendió al ver que era ella quien pedía perdón **\n\nEmmm si eso mismo ...\n\nBueno disculpas aceptadas...",
+      "mensaje_sha256": "294d0bff68daacbfd0265dd869a8ab430fff768c8b529e56203d4aa72ca11719",
+      "texto_sha256": "02602f558ec8ee2b14aec40f191f7cf7732084add61d40eeb593675464e50abb",
+      "tipo_discord": 19,
+      "referencia": "1566166727216337007",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566168137681084517",
+      "adjuntos": []
+    },
+    {
+      "id": "1566169651774361802",
+      "fecha_utc": "2026-10-31T19:19:03.008000+00:00",
+      "fecha_local": "2026-10-31",
+      "editado_utc": null,
+      "texto": "Citlali:\nNo debí darte la noticia de esa manera, fue muy equivocado de mi parte y más cuando apenas regresaste de... Bueno... Ya sabes \n\n**No quería mencionar su muerte, no era algo muy agradable de recordar**",
+      "mensaje_sha256": "7fae23ea6f0bc93d905f12aba17f5d2033989a3730178ac464d4a346eee25a7c",
+      "texto_sha256": "23cb5f27b582368bad319bb8c9f12a602a93baadd2380be07e520ae11c0c96ff",
+      "tipo_discord": 19,
+      "referencia": "1566168137681084517",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566169651774361802",
+      "adjuntos": []
+    },
+    {
+      "id": "1566183747139928126",
+      "fecha_utc": "2026-10-31T20:15:03.605000+00:00",
+      "fecha_local": "2026-10-31",
+      "editado_utc": null,
+      "texto": "Nox : respecto a eso ... \n\nAl morir algo sucedió .. yo no tendría que estar aquí. \nPero algo hizo que mi momento se retrasará... \n\nTiene que ver con ... nosotros...\n\n**abro la chaqueta para que vea los dos orbes **",
+      "mensaje_sha256": "85cd2e8eb4ba108f6f974c48bf92f91b34b04f401ec348cf7e98b73685394006",
+      "texto_sha256": "4c9e9d54ac79b829dc890ce0557ea97003029da838aecb01ed5cd8fa72336a69",
+      "tipo_discord": 19,
+      "referencia": "1566169651774361802",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566183747139928126",
+      "adjuntos": []
+    },
+    {
+      "id": "1566184381415161908",
+      "fecha_utc": "2026-10-31T20:17:34.828000+00:00",
+      "fecha_local": "2026-10-31",
+      "editado_utc": null,
+      "texto": "Citlali:\n\n**Empiezo a hacer gestos de dolor, intentando cubrir los orbes**\n\nYoali nos dijo que teníamos que recuperar la fuente que ayudaría a destruir esos ojos, probablemente esa sea la razón por la cual es que estás aquí y se bien que moriste... Lo sentí...\n\n**Subo la mano al tatuaje de la frente**\n\nNo era mentira cuando te dije que la muerte de mis hijos marcaba mi piel",
+      "mensaje_sha256": "8a1fbf773348737b8780337e3d056921e7713da7afde42239c8c2f598b4b45f9",
+      "texto_sha256": "53a13f606a715942d20fdb5e4ba1a5631587fe8c3464687425eff860d83b2fcc",
+      "tipo_discord": 19,
+      "referencia": "1566183747139928126",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566184381415161908",
+      "adjuntos": []
+    },
+    {
+      "id": "1566186066782855241",
+      "fecha_utc": "2026-10-31T20:24:16.651000+00:00",
+      "fecha_local": "2026-10-31",
+      "editado_utc": null,
+      "texto": "Nox : si aun no se ha ido esa marca sabes que estoy aquí de préstamos,  verdad... \n\nNo tengo intención de morir . Ni tampoco de salvar a nadie ni nada . \n\nSi algo me ata a esta isla mi intención es romper las cadenas y ser libre . \nIone cada vez me necesita menos y eso aunque me apene en cierto sentido siento que mi función para con ella ya cada vez es menos necesaria . \n\nNo te lo tomes a mal . \nSi lo que dices es cierto y mi nacimiento fue aquí entiendo que hayan cosas que tengo que arreglar . \n\nPero no tengo mas lazos que me unan a esta isla que por el motivo por el que vine . \n\nQuiero saber que paso con mi antigua tripulación . Con quienes me criaron . \nYo solo era un bebé cuando el capitán Bones me encontró en ese cofre . Me crió como su hijo y me enseño todo lo que se hoy en dia . \n\nQuiero que sepas que esa es mi prioridad .",
+      "mensaje_sha256": "76b30c53fc0ebed8887aed4f91cda8b121559654b5713c6430f45949cc999458",
+      "texto_sha256": "fcc3d2388580171d41ae362489f37192d6d0585b32c996861ec043c7692dc905",
+      "tipo_discord": 19,
+      "referencia": "1566184381415161908",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566186066782855241",
+      "adjuntos": []
+    },
+    {
+      "id": "1566189214687559711",
+      "fecha_utc": "2026-10-31T20:36:47.170000+00:00",
+      "fecha_local": "2026-10-31",
+      "editado_utc": null,
+      "texto": "Citlali:\nLo se, entiendo bien eso, al fin de cuentas yo solo fui el pequeño impulso que hizo que empezaras a navegar\n\n**Sentía un enorme nudo en la garganta al escuchar y decir todo eso**\n\nY no pienso detenerte, al menos tengo la certeza de que viviste mas que los demás, que no moriste siendo un bebé",
+      "mensaje_sha256": "49fd44e707d0794232b46d8fb3fca693b1644e6370abeea27001864fa4419c81",
+      "texto_sha256": "dd475c18befabd86c895c6a31eda15f0247a44039de8685ec1c5422806ab143a",
+      "tipo_discord": 19,
+      "referencia": "1566186066782855241",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566189214687559711",
+      "adjuntos": []
+    },
+    {
+      "id": "1566191554824118404",
+      "fecha_utc": "2026-10-31T20:46:05.102000+00:00",
+      "fecha_local": "2026-10-31",
+      "editado_utc": null,
+      "texto": "Nox : **la miraría y en la frialdad de las palabras de Nox se podría ver en su mirada un pequeño sentimiento de ... pena ? \nEs difícil saber que pasa por la mente del pirata , y mas ahora , después de todo lo sucedido ** \n\nAunque para eso debemos ganar la partida . \nLas piezas ya hace que se están moviendo . Los Yuan ti partieron con ventaja pero no han podido encontrar los orbes a tiempo.  \n\nTengo un plan .. pero jugar una partida con un dios .. es algo mas peligroso de las cosas que he hecho.",
+      "mensaje_sha256": "22d4371c5faeeb4b51c91df4b1b2d6ccca2ff7f752fc5fdbd9922c8028a25a16",
+      "texto_sha256": "0ab9d79b7fddc852f5208ccbf942f2e0bf8402e16d625fd45f605ccdf2c98749",
+      "tipo_discord": 19,
+      "referencia": "1566189214687559711",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566191554824118404",
+      "adjuntos": []
+    },
+    {
+      "id": "1566198306944716952",
+      "fecha_utc": "2026-10-31T21:12:54.933000+00:00",
+      "fecha_local": "2026-10-31",
+      "editado_utc": null,
+      "texto": "Citlali: \nQué tienes en mente?\n\n**Le miré con curiosidad aunque aun tenía el rostro marcado con dolor**\n\nTodos estamos en riesgo, de eso que no quepa duda\n\n**Bajé la mirada acariciando a Eztli**\n\nSabes, cuando te rescaté... Yo también terminé marcada por ese ser, el es quien se lleva a mis hijos y hacen que envejezca o rejuvenezca... Tu muerte hizo que me viera como estoy",
+      "mensaje_sha256": "f83464bb00bbc5e140638002bfc99bee74d7508fd53d9704b610e5da93f492fc",
+      "texto_sha256": "3f5f01282bcc196fb7e0c56b46003ee87ae1354bd654a18ba019189ad863c8c7",
+      "tipo_discord": 19,
+      "referencia": "1566191554824118404",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566198306944716952",
+      "adjuntos": []
+    },
+    {
+      "id": "1566200055449522217",
+      "fecha_utc": "2026-10-31T21:19:51.809000+00:00",
+      "fecha_local": "2026-10-31",
+      "editado_utc": "2026-10-31T21:43:47.125000+00:00",
+      "texto": "Nox : por el momento lo que debes saber es que cada uno deberá cumplir una función . \n\nTodas las piezas deberán actuar en el momento en que la criatura sea liberada . \n\nPues impedir el ritual no va acabar ni con tu maldición ni con las cadenas que me atan a este lugar .",
+      "mensaje_sha256": "ab8ad0234ff5fab46b1ca56c812b78ef6027f34c053da673317a7b0e446dcccd",
+      "texto_sha256": "35241e0d3d0e879595c6f785852400003a62b2982afba976feb75c339dfd6ca5",
+      "tipo_discord": 19,
+      "referencia": "1566198306944716952",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566200055449522217",
+      "adjuntos": []
+    },
+    {
+      "id": "1566205006095319211",
+      "fecha_utc": "2026-10-31T21:39:32.135000+00:00",
+      "fecha_local": "2026-10-31",
+      "editado_utc": null,
+      "texto": "Citlali:\nNo lo sabemos hasta que eso pase, pero puedes contar conmigo si así lo deseas, Nox\n\n**Para intentar al fin marcar un límite entre mis sentimientos y su persona, decidí dejar de llamarlo por el nombre que yo le había puesto y empezarlo a llamar como el siempre se sintió**\n\nHare lo que esté en mis manos",
+      "mensaje_sha256": "c0575111f3f348c7d9ec8d86169614c167325e020dabc432489463e01d9a8c7b",
+      "texto_sha256": "67f7e2f884b243d33dd49f09457cbdf6a3270f7ff5d49e427b8cf294d932facf",
+      "tipo_discord": 19,
+      "referencia": "1566200055449522217",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566205006095319211",
+      "adjuntos": []
+    },
+    {
+      "id": "1566208675121598549",
+      "fecha_utc": "2026-10-31T21:54:06.899000+00:00",
+      "fecha_local": "2026-10-31",
+      "editado_utc": null,
+      "texto": "Nox:** te pone la mano en el hombro ** \nSe que no es fácil para ti . Pero asi es mejor \n**le contesta cuando le llama por su apodo** \nNunca le pregunte a mi banda porque me pusieron el apodo de Nox . Solo se que significa Noche . \n\nPorque Amaru ? \n\n**notas que sus pupilas negras se dilatan un poco ** \n\nBueno ... mejor explícamelo otro día .  El bicho creo que tiene hambre ... \n\n**tarda unos segundo en reaccionar hasta que mira a Eztli ** \n\nHa de alimentarse para crecer ... \n\n**Nox se da media vuelta y te da la espalda .\n\nAhora nosotros que lo vemos desde fuera podríamos ver como los ojos de Nox se vuelven completamente negros **\n\n*no es el momento ...* \n\n**empieza a caminar** \n\nGracias... \nPor arriesgarte aquella noche . \nSupongo que me diste una oportunidad para vivir \n\n**se gira y te sonríe,  le ves la cara de siempre pero con una amplia sonrisa y sus ojos normales mientras te dice adiós con la mano **",
+      "mensaje_sha256": "1209a9163ce64017f4dfe69543d1dd0df3b069b5eef094915297c2eca72bdc27",
+      "texto_sha256": "abfa0dde9c4a081a7a1789c74d08d369d75f3694735647a5d187bc20c3a193c5",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566208675121598549",
+      "adjuntos": []
+    },
+    {
+      "id": "1566211106001789061",
+      "fecha_utc": "2026-10-31T22:03:46.466000+00:00",
+      "fecha_local": "2026-10-31",
+      "editado_utc": null,
+      "texto": "Citlali:\n**No entiendo muy bien lo que está pasando, pero el dolor pesa mas que otra cosa**\n\nSi.. está bien, también tiene que descansar, igual que tú \n\n**Veo que se empieza a alejar con esa sonrisa, esa maldita sonrisa que hace que duela aún más la despedida**\n\nNo agradezcas... Lo hice por amor...\n\n**Es lo único que suelto al aire antes de indicarle a Eztli que es hora de irnos**\n\nVamos mi niño, es hora de descansar...\n\n**Con el corazón hecho nudo, me alejo de ahí, no sin antes voltear nuevamente hacia donde está Nox y una lágrima se desliza por mi mejilla**\n\nCreo que Amaru murió ese día, verdad?... Así que no hay a quien salvar más...\n\n**Suspiro alejándome con Eztli, regresando a dónde podíamos dormir**",
+      "mensaje_sha256": "2099688689accf470e6c656331655b3a1ca371e07ea02d18d36cfc63102f9dbe",
+      "texto_sha256": "f261d6c603b3906c8a0a992b0b9206b30c24ecea5953ee7b582b3c43b8db4b8f",
+      "tipo_discord": 19,
+      "referencia": "1566208675121598549",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566211106001789061",
+      "adjuntos": []
+    },
+    {
+      "id": "1566212543544819823",
+      "fecha_utc": "2026-10-31T22:09:29.203000+00:00",
+      "fecha_local": "2026-10-31",
+      "editado_utc": "2026-10-31T22:12:18.858000+00:00",
+      "texto": "Nox : **se va alejando , tarareando una canción de piratas hasta que su figura empieza a desvanecerse entre la niebla de la noche torciendo hacia uno de los callejones que llevan a zona portuaria ** \n\n*y si no basta con hacer todo lo que hay en tus manos ? Hasta que punto estarás dispuesta a llegar ... ?\n\n\n\n\nMadre ...* \n\n**La oscuridad del callejón hace que la figura de Nox se pierda por completo escuchando solo el silbido de esa canción pirata**",
+      "mensaje_sha256": "6917534deb9310272edde81207af2f58806d717ae5792ce2b2898a7f9b789ada",
+      "texto_sha256": "5259bbc29a62f12dfc1ac5f2bf0257bc3e67298fe9cc30c3fb038dff867c94a8",
+      "tipo_discord": 19,
+      "referencia": "1566211106001789061",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566212543544819823",
+      "adjuntos": []
+    },
+    {
+      "id": "1566361384944402514",
+      "fecha_utc": "2026-11-01T08:00:55.758000+00:00",
+      "fecha_local": "2026-11-01",
+      "editado_utc": null,
+      "texto": "🔴 FIN DE LA ESCENA🔴",
+      "mensaje_sha256": "a24584861df417d5013225f4459f82bbca45b0e6ce829f8cf19c7ff5a4b3e8d5",
+      "texto_sha256": "11e202ab419420f8fc4877fcc6ac88b0e80ad9bc44cd13febb30e34eb4788021",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566361384944402514",
+      "adjuntos": []
+    }
+  ]
+}

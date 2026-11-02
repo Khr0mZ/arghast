@@ -629,6 +629,56 @@
           "fecha_utc": "2026-05-16T13:48:47.513000+00:00",
           "url_discord": "https://discord.com/channels/946724148628041748/1465411590789795962/1505205378143621312"
         }
+      ],
+      "cotejo_posterior": {
+        "estado": "parcial",
+        "respuesta": "Nox identifica al capitán Bones como quien lo encontró de bebé dentro del cofre, lo crio como hijo y le enseñó lo que sabe. Citlali se atribuye el rescate y el ocultamiento previo del niño; Nox acaba agradeciéndole aquella oportunidad de vivir.",
+        "pendiente": "Nox sigue buscando qué ocurrió con su antigua tripulación y con Bones. Su localización y su relación completa con Citlali permanecen sin aclarar, al igual que el significado de Amaru.",
+        "pruebas": [
+          "1564023074578243775",
+          "1564414134680952953",
+          "1566186066782855241",
+          "1566208675121598549"
+        ],
+        "fuentes_rol": [
+          {
+            "mensaje_id": "1564023074578243775",
+            "escena": "x-1563959420193480704",
+            "fecha_utc": "2026-10-25T21:09:19.123000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1563959420193480704/1564023074578243775"
+          },
+          {
+            "mensaje_id": "1564414134680952953",
+            "escena": "x-1564398743661453384",
+            "fecha_utc": "2026-10-26T23:03:15.117000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564414134680952953"
+          },
+          {
+            "mensaje_id": "1566186066782855241",
+            "escena": "x-1566151881695174838",
+            "fecha_utc": "2026-10-31T20:24:16.651000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566186066782855241"
+          },
+          {
+            "mensaje_id": "1566208675121598549",
+            "escena": "x-1566151881695174838",
+            "fecha_utc": "2026-10-31T21:54:06.899000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566208675121598549"
+          }
+        ],
+        "orden_temporal": "posterior"
+      },
+      "historial_cotejos": [
+        {
+          "estado": "parcial",
+          "respuesta": "Citlali aclara que no engendró a Nox y que lo cuidó cuando era un bebé; reúne Jim Hawkins, Nox y Amaru al presentarlo.",
+          "pendiente": "No se aporta aquí la localización del capitán ni su relación completa con ella. Citlali aplaza otra confesión y Nox rechaza su maternidad.",
+          "pruebas": [
+            "1563983219559370773",
+            "1564023074578243775",
+            "1564058180000940053"
+          ]
+        }
       ]
     },
     {

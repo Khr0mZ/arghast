@@ -1,0 +1,350 @@
+{
+  "id": "x-1565719701248544955",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1565719701248544955",
+  "hilo_id": "1558234683177963582",
+  "hilo_nombre": "Tutucan - La ciudad de los Elementos",
+  "titulo": "Chani incorpora a los piratas y empieza por lavarlos",
+  "resumen": "Nox lleva a su gente ante la líder de Chik’in, cuya primera tarea convierte la acogida al clan en una limpieza colectiva.",
+  "relato": "Días después Nox se asoma al McKuroto acompañado por Chani. Pide a la líder que espere mientras prepara una presentación adecuada para sus viejos compañeros. Dentro de la taberna los encuentra entregados a sus costumbres y decide contener el impulso de sacar la pistola. Improvisa incluso un arreglo para Ojoausente: distrae a Jacky, limpia con su ayuda el ojo de cristal que usa como foco arcano y lo coloca en la cuenca vacía del pirata.\n\nYa fuera, ordena formar filas y presenta a Chanecuxtli como la líder que les explicará cómo actuar a partir de ahora. Afirma que la capitana Nottley ya está informada. Enumera a Mingo, Mango y Mungo, Babs, Ojoausente, Sopamugre y Jack Jackson, al que llaman Jacky. No los vende como lo mejor de lo mejor, pero sí como hombres fieles. Chani los recibe en Chik’in con una sonrisa que intenta imponerse a su olor.\n\nSu primera misión consiste en reunirse lo más juntos posible. Cuando lo hacen, unas enredaderas los inmovilizan y una nube descarga agua sobre ellos, mientras ramas, animalitos y jabón completan una limpieza exhaustiva. Chani lo presenta como una primera forma de entrar en contacto con la naturaleza y anuncia la limpieza bucal como siguiente tarea. Nox descubre sorprendido el color verdadero de Babs e intenta escabullirse, recordando a la líder que le debe vino.\n\nChani extiende la misma disciplina a Nox. La nube y las ramas lo cercan hasta que queda inmovilizado. Durante un instante se pone serio y uno de sus ojos parece oscurecerse; la escena deja esa primera impresión entre los movimientos bruscos y la suciedad. Chani percibe algo que le eriza las hojas, pero continúa el lavado. La anécdota acaba en la taberna, donde ella va a pedir la bebida y Tsugami los retiene con sus historias.\n\nUn guardia de Tutucan llega finalmente para llamar a Chani a una reunión con dirigentes de las tribus. La druida parte acompañada por el nuevo grupo de miembros de Chik’in. Nox queda escuchando a Tsugami, que retoma sus cotilleos sobre Kuroto. La promesa de aportar reclutas se ha concretado; el resultado de la reunión y la formación posterior de los recién llegados no se representan aquí.",
+  "participantes": [
+    "Nox",
+    "Chanecuxtli",
+    "Mingo",
+    "Mango",
+    "Mungo",
+    "Babs",
+    "Ojoausente",
+    "Mugre",
+    "Jack",
+    "Tsugami"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1565723162887594055",
+      "afirmacion": "Nox presenta a los piratas ante la líder y dice que la capitana Nottley está informada.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1565724595221438565",
+      "afirmacion": "Chani da la bienvenida a los piratas al clan Chik’in.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1565727413013585921",
+      "afirmacion": "Nox enumera a los nuevos compañeros presentados ante Chani.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1565774193319088149",
+      "afirmacion": "Chani emplea enredaderas, lluvia, animales y jabón para lavar a los piratas.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1565777039615860907",
+      "afirmacion": "Durante el lavado parece oscurecerse brevemente un ojo de Nox.",
+      "tipo": "descripcion"
+    },
+    {
+      "mensaje_id": "1565785741022331032",
+      "afirmacion": "Chani se marcha a una reunión de líderes con el nuevo grupo de miembros de Chik’in.",
+      "tipo": "descripcion"
+    }
+  ],
+  "notas": [
+    "Las variantes Ojomugre y los nombres de la tripulación permanecen en el texto literal; no se crea un pirata adicional por una variante incidental.",
+    "El primer cambio aparente del ojo tiene incertidumbre explícita. La posterior conversación de Nox y Citlali aporta otro episodio distinto y más claro.",
+    "Las últimas afirmaciones de Tsugami sobre la shogun son cotilleos atribuidos a ella dentro de Xoltacan."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-10-30T13:31:06.443000+00:00",
+  "fin_utc": "2026-10-30T17:53:31.552000+00:00",
+  "fecha_local": "2026-10-30",
+  "intervalo": {
+    "anterior": 72,
+    "siguiente": null,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236",
+    "siguiente_fuente": null,
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 72,
+        "fecha": "2026-10-16",
+        "inicio_referencia_utc": "2026-10-16T18:28:13+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1565719701248544955",
+      "fecha_utc": "2026-10-30T13:31:06.443000+00:00",
+      "fecha_local": "2026-10-30",
+      "editado_utc": "2026-10-30T13:31:13.956000+00:00",
+      "texto": "Nox : ** se asoma a la Taberna desde  la ventana **\nAhí están .. como no .. \n\nEspera un momento querida líder Chani , quiero presentartelos como es debido  .\n** entra a la taberna y se dirige a la mesa ** \n\nMuchachos ... espero que hayáis descansado,  bebido y fornicado durante este tiempo . Porque nos toca ponernos a hacer de las nuestras . \n\n**les sonríe de oreja a oreja pero ve que ojo mugre anda sacándole la cera de la oreja a babs .**\n\nVa a echar mano de la pistola ,pero recuerda que esto no es Shiaru , por desgracia ... \n*será mejor comportarse  por esta vez*",
+      "mensaje_sha256": "6ccd05fe23934cded6d6c05bbba93dffacb13ae5508a586c8431dc90dfde792b",
+      "texto_sha256": "e394e3d8a647292dda29b7fa8da8b81bc660909840e424462aa16cf01d7e2925",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1565719701248544955",
+      "adjuntos": []
+    },
+    {
+      "id": "1565720832334897193",
+      "fecha_utc": "2026-10-30T13:35:36.115000+00:00",
+      "fecha_local": "2026-10-30",
+      "editado_utc": null,
+      "texto": "Chani:\n**Me asomaba poquito a poquito con algo de curiosidad**\n\nPío?\n\n**Intentaba ver pero la espalda de Nox no me lo permitía mucho, así que solo me quedaba esperar**",
+      "mensaje_sha256": "0e6536067c48a248ed1a65b428af7be33044d51fabd4982eb855cb5fa5e4c366",
+      "texto_sha256": "22af8c4cdba2df15e4e567496868775536537951b266f6b14f06b0baddea483b",
+      "tipo_discord": 19,
+      "referencia": "1565719701248544955",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1565720832334897193",
+      "adjuntos": []
+    },
+    {
+      "id": "1565723162887594055",
+      "fecha_utc": "2026-10-30T13:44:51.762000+00:00",
+      "fecha_local": "2026-10-30",
+      "editado_utc": "2026-10-30T13:45:10.871000+00:00",
+      "texto": "Nox: hmmm a ver .. \n** se los queda mirando ** \nSii... ya lo tengo .\n\n**saca de su chaqueta una ojo de cristal (su foco arcano)**\n Jackson mira .. esa no es Lucy ? \n**cuando el pobre Jacky se despista a mirar Nox le pone el ojo de cristal en la boca **\nPerfecto , escupe \n**le da un golpecito en la nuca para que escupa,  frota el ojo un poco **\nPerfecto , como nuevo . \na ver  a ver ... \n**lo encaja en la cuenca vacía de Ojomugre **\nMucho mejor . \n\nVale vamos . \n\n**sale con los muchachos a fuera ** \n\nOs presento a la líder de clan Chanecuxtli . <@408026114548695061> \nElla os explicará como funcionan las cosas a partir de ahora.  La Capitana Nottley ya esta informada .  \n\nFormar filas ! Malditos moluscos de mascarón . \nVamos vamos vamos .. \n\n**les da palmaditas en el trasero **",
+      "mensaje_sha256": "455e0f4cfa5b247a89f564d5db583d72cb07af54709abef19970f8c90c5a87a4",
+      "texto_sha256": "4b413dc1d358e4ccccd8307733d44a44c0b60c3a9bc4717cacb44f4b5c17720c",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1565723162887594055",
+      "adjuntos": []
+    },
+    {
+      "id": "1565724595221438565",
+      "fecha_utc": "2026-10-30T13:50:33.257000+00:00",
+      "fecha_local": "2026-10-30",
+      "editado_utc": null,
+      "texto": "Chani:\n**Los miro con bastante curiosidad, paseando de lado a lado y viéndolos de arriba a abajo**\n\nMucho gusto Pío \n\n**Les levanto el dedo de enmedio a todos**\n\nBienvenidos al clan Chik'in, pío, será todo un placer enseñarles lo que sé, espero que se sientan a gusto y poder convivir armónicamente con ustedes, pío \n\n**El olor era un poquito incómodo, trataba de no hacer arcadas que me dejarán en evidencia, siempre manteniendo una sonrisa**",
+      "mensaje_sha256": "e3b141801c53a88038091438349952026b58ed3bec24b1ef91d4b16fd54866a8",
+      "texto_sha256": "b30beac78a9f412098e1a88f778fd9c3307e30a72b9cac02dad2f78f6a6787f5",
+      "tipo_discord": 19,
+      "referencia": "1565723162887594055",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1565724595221438565",
+      "adjuntos": []
+    },
+    {
+      "id": "1565727413013585921",
+      "fecha_utc": "2026-10-30T14:01:45.071000+00:00",
+      "fecha_local": "2026-10-30",
+      "editado_utc": "2026-10-30T14:05:40.869000+00:00",
+      "texto": "Nox : ** te lo va presentando de uno en uno . \nPrimero los tres gemelos Mingo Mango Mungo, luego a Babs , Ojoausente, Sopamugre y por ultimo la guinda del pastel , Jack \"Jacky\" Jackson . **\n\nLo mejor de lo mejor no son .. pero son fieles a mas no poder . Buenos hombres allá donde los haya . Hijos de fulanas , rateros , bastardos y alguno que algún día guardó algo de honor . Seguro que aún le queda un poco señorita no se preocupe.",
+      "mensaje_sha256": "308fd5e28a4ae6e794074c0cfdc159ba390d6f925c682167de2dd8caf3de579c",
+      "texto_sha256": "67a2772e7f5eb824f9f33387bc3e8fbe42b717190bfc9cf30d93d0a8f9f81833",
+      "tipo_discord": 19,
+      "referencia": "1565724595221438565",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1565727413013585921",
+      "adjuntos": []
+    },
+    {
+      "id": "1565728595790274741",
+      "fecha_utc": "2026-10-30T14:06:27.067000+00:00",
+      "fecha_local": "2026-10-30",
+      "editado_utc": "2026-10-30T14:10:26.725000+00:00",
+      "texto": "Chani:\nQue... Curiosos... Pío \n\n**Sonrisita incómoda**\n\nPor suerte ya les tengo la primera misión, pío \n\n**Ahora era una sonrisa traviesa**\n\nNecesito que todos se reunan, pío, que queden lo más pegados posible, por favor, pío\n\n<@214405113677217793>",
+      "mensaje_sha256": "914ac91269155b046f662eaf0abb4bd8ad2c93463b186f85d78851bd35d15e9a",
+      "texto_sha256": "1a424903900ae3dc21dea5c9c11b8cf0a7be330b7dbbb54ed6232d74a935fbb1",
+      "tipo_discord": 19,
+      "referencia": "1565727413013585921",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1565728595790274741",
+      "adjuntos": []
+    },
+    {
+      "id": "1565729281420693646",
+      "fecha_utc": "2026-10-30T14:09:10.534000+00:00",
+      "fecha_local": "2026-10-30",
+      "editado_utc": null,
+      "texto": "Nox : **les da las indicaciones** \n\nBueno esto si podéis hacerlos muchachos , gran trabajo .. si señor \n**le pega un trago a su botella de ron , pero Chani si te fijas podrías ver que la botella esta vacía...** \n\nAhhhg , que rico . \n**se limpia la boca con la manga**",
+      "mensaje_sha256": "e24fc1aa26206c985578d3c6e4e62c3dd493060f2f5188a45516ccd5d8702172",
+      "texto_sha256": "d2c6fdfb9f742e7e572f1c1e3fab369a6ffa9d45bcd19c91c9ead66b7c466508",
+      "tipo_discord": 19,
+      "referencia": "1565728595790274741",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1565729281420693646",
+      "adjuntos": []
+    },
+    {
+      "id": "1565731838327132342",
+      "fecha_utc": "2026-10-30T14:19:20.148000+00:00",
+      "fecha_local": "2026-10-30",
+      "editado_utc": "2026-10-30T17:08:13.538000+00:00",
+      "texto": "Chani:\nPío?, oh, es verdad, que te debo una bebida pío, solo deja que terminemos nuestra pequeña primera misión y te llevo con Tsugami Pío \n\n**Le sonreí a Nox mientras dirigía con mis alitas a los piratas**",
+      "mensaje_sha256": "98c9291e85dbbbc62a9bbe71667b61760fc55fb6333454b503a0d39e7d9c5c98",
+      "texto_sha256": "05782d682c8cdd26e8115835b8bff877c906df3da8914071877aa8d7308a3052",
+      "tipo_discord": 19,
+      "referencia": "1565729281420693646",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1565731838327132342",
+      "adjuntos": []
+    },
+    {
+      "id": "1565773646738493541",
+      "fecha_utc": "2026-10-30T17:05:28.050000+00:00",
+      "fecha_local": "2026-10-30",
+      "editado_utc": null,
+      "texto": "Nox: **ves al grupo de piratas bien juntitos , uno le mete el dedo en la nariz a otro , otro saca la pistola y le apunta , el hipopótamo mudo no oara de hacerle gestos a su hermano ciego , y el sordo le traduce al ciego pero como no habla bien les cuesta entender **",
+      "mensaje_sha256": "4f08dbf1706a9f58c0285ae1ad6ca02a49f84d1d1aefe62f19d5a058697923f0",
+      "texto_sha256": "36ec7b5db9f8f892698d251f5c3e180d380ef4195fa3541dceb2be457f4549dc",
+      "tipo_discord": 19,
+      "referencia": "1565731838327132342",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1565773646738493541",
+      "adjuntos": []
+    },
+    {
+      "id": "1565774193319088149",
+      "fecha_utc": "2026-10-30T17:07:38.365000+00:00",
+      "fecha_local": "2026-10-30",
+      "editado_utc": "2026-10-30T17:08:24.020000+00:00",
+      "texto": "Chani:\n\n**Y en el momento en el que estuvieran muy juntos, una enredadera saldría del los atraparía con fuerza para evitar que alguno se escape y una nube les cubre por completo, haciendo que llueva sobre ellos mientras les restriego con jabón**\n\nTienen que estar en contacto con la naturaleza pío, así que lo primero es sentir el agua y enjabonarse bien, pío\n\n**Con ayuda de más ramitas y algunos animalitos, terminamos de limpiar por completo a todos esos piratas, ya no olían tan mal, aunque habían muchas cosas por mejorar**\n\nMuy bien equipo, pío, lo han logrado, pío, ahora vamos al clan que tocará la siguiente misión, Limpieza bucal Pío",
+      "mensaje_sha256": "2161008263cd8445d1d7e12322c9fa80ee14b5c93ddd7df598cef61f985b0284",
+      "texto_sha256": "b91735ab640a251cd7849622b6733d4108f960a548d777616e59b6fd75b79746",
+      "tipo_discord": 19,
+      "referencia": "1565773646738493541",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1565774193319088149",
+      "adjuntos": []
+    },
+    {
+      "id": "1565774783147151375",
+      "fecha_utc": "2026-10-30T17:09:58.991000+00:00",
+      "fecha_local": "2026-10-30",
+      "editado_utc": null,
+      "texto": "Nox :  por la quilla del Zampaolas !!!! \nBabs !!!!! Eres completamente blanco ... me habías engañado todo estos años bribón... \n\nEmmmm... bueno yo tengo que hacer cosas si eres tan amable de gestionarme lo del vino con la señora... se lo agradecería señorita Chanecuxtli",
+      "mensaje_sha256": "bb6fb610d58cfa05d899342fad603f5af5fe48c06fb0860151f3d0209f3d0f23",
+      "texto_sha256": "fb13a42eb3a42bfecbcc8d97b1e837a0d2f8093cef042b974ec1249c6b5db8d0",
+      "tipo_discord": 19,
+      "referencia": "1565774193319088149",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1565774783147151375",
+      "adjuntos": []
+    },
+    {
+      "id": "1565775155484041307",
+      "fecha_utc": "2026-10-30T17:11:27.763000+00:00",
+      "fecha_local": "2026-10-30",
+      "editado_utc": null,
+      "texto": "Chani:\nAh no Pío, aquí todos vamos a estar limpios, Pío~\n\n**La nube empieza a ponerse sobre ti y todas las ramas te apuntan con jabones ya listos**",
+      "mensaje_sha256": "c40ae6c44e07755d1871feaceb40271104b0ec1fba5b427e49fe93fa153a9ac7",
+      "texto_sha256": "4eccdc50c089d5e0ea4303f2d27bb6aa56626ac4457f717bc68d388c9359f0cc",
+      "tipo_discord": 19,
+      "referencia": "1565774783147151375",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1565775155484041307",
+      "adjuntos": []
+    },
+    {
+      "id": "1565775500646023249",
+      "fecha_utc": "2026-10-30T17:12:50.056000+00:00",
+      "fecha_local": "2026-10-30",
+      "editado_utc": null,
+      "texto": "Nox : AAAAAAHHHH !!! \n** terror en la cara nox , un hombre que ha mirado al abismo a los ojos sin temor a que le devuelva la mirada.  Pero ahora mismo.. terror . **",
+      "mensaje_sha256": "29ce42782d160d353dc667dbaeae4a9aaa23df0f687086d3008760eabc5c3ae9",
+      "texto_sha256": "3dbce27b758cf77ff31092c5f45758cc9ece88eaf618583b65032716e2ab4d9f",
+      "tipo_discord": 19,
+      "referencia": "1565775155484041307",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1565775500646023249",
+      "adjuntos": []
+    },
+    {
+      "id": "1565775977286471801",
+      "fecha_utc": "2026-10-30T17:14:43.696000+00:00",
+      "fecha_local": "2026-10-30",
+      "editado_utc": null,
+      "texto": "Chani:\nPOCOOOOO!!\n\n**Un cacareo de guerra indicó que era momento de atacar al sucio pirata que olía a muertito, la nube retumbaba y soltaba toda su furia mientras que las enredaderas buscaban atraparte los pies para inmovilizarlo**",
+      "mensaje_sha256": "e0514d332083a58cc4d4d35b9d2b79e735b55dd64f2a0f4a6482c9b413c854b3",
+      "texto_sha256": "3bafade1ed5bfaefdf7308f0ec573c8c6f87a0c8cd8f009630eaa883c3685c9a",
+      "tipo_discord": 19,
+      "referencia": "1565775500646023249",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1565775977286471801",
+      "adjuntos": []
+    },
+    {
+      "id": "1565777039615860907",
+      "fecha_utc": "2026-10-30T17:18:56.975000+00:00",
+      "fecha_local": "2026-10-30",
+      "editado_utc": "2026-10-30T17:19:05.276000+00:00",
+      "texto": "Nox : **sisi lo inmovilizas . Lo único que notas es que por un momento ves que Nox se pone serio .. ladea la cabeza mirandote y uno de sus ojos se empieza a engrecer como si la pupila creciera . \n\nPero pasa tan rápido que quizás ha sido producto de los movimiento bruscos .. o alomejor era solo mierda que tenia en el ojo roñoso... seguro que era eso **",
+      "mensaje_sha256": "1d7b499b97cec18ce4dc6ad118dca10315bb9424d9f12f2a55aa12e806d3b336",
+      "texto_sha256": "cae9017f3be65413507f4240ebf9ba51978547ebafc93e3346068197a4191ad5",
+      "tipo_discord": 19,
+      "referencia": "1565775977286471801",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1565777039615860907",
+      "adjuntos": []
+    },
+    {
+      "id": "1565777571134574623",
+      "fecha_utc": "2026-10-30T17:21:03.699000+00:00",
+      "fecha_local": "2026-10-30",
+      "editado_utc": null,
+      "texto": "Chani:\n**Al notar eso, sentí como mis hojitas se agitaban y se levantaban un poco, como si fuera miedo, traté de no prestarle atención y lo duché con todas las ganas que tenía**\n\nAhora sí vas a quedar limpio, pío~",
+      "mensaje_sha256": "c117147f82e26cfda3948069174dd99b2d411506e411d0f9cc71d1c351ce677a",
+      "texto_sha256": "564577c11b3a62eb419dad2f2fe46662a4d62e78906bbda078a918d7d544cc8f",
+      "tipo_discord": 19,
+      "referencia": "1565777039615860907",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1565777571134574623",
+      "adjuntos": []
+    },
+    {
+      "id": "1565779761349795861",
+      "fecha_utc": "2026-10-30T17:29:45.887000+00:00",
+      "fecha_local": "2026-10-30",
+      "editado_utc": null,
+      "texto": "Nox : **su cara de frustración lo dice todo , pero que va le va hacer ...**",
+      "mensaje_sha256": "0753f39f78a481cb319e62da179979d18b1c8ce8c075194394638ad1bcac8595",
+      "texto_sha256": "18e03fa96760c2fad4caa91edc9d2fac65af2f58ee7a75c40cb7cb741e46b1dd",
+      "tipo_discord": 19,
+      "referencia": "1565777571134574623",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1565779761349795861",
+      "adjuntos": []
+    },
+    {
+      "id": "1565781057477808335",
+      "fecha_utc": "2026-10-30T17:34:54.908000+00:00",
+      "fecha_local": "2026-10-30",
+      "editado_utc": null,
+      "texto": "Chani:\n**Mientras las ramitas y la nube hacen lo suyo, camino hacia Mc Kuroto para pedirle un vino a Tsugami, esperando a que me lo entregue y no me maree tanto con tanta plática, que la vez pasada nos quedamos casi un día hablando las dos**",
+      "mensaje_sha256": "bb6063b580733d5209bac75869a565f738299c8df61145018e23ae09a3f87920",
+      "texto_sha256": "45ec77c7956ea4ec5c89295160092e827596d0be92ba47112c535cce3bcf0163",
+      "tipo_discord": 19,
+      "referencia": "1565779761349795861",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1565781057477808335",
+      "adjuntos": []
+    },
+    {
+      "id": "1565781978022678730",
+      "fecha_utc": "2026-10-30T17:38:34.383000+00:00",
+      "fecha_local": "2026-10-30",
+      "editado_utc": null,
+      "texto": "<@214405113677217793>",
+      "mensaje_sha256": "7326a3907162363e317b058a9186a91477ede653f6e3bddd45e1110327ce636e",
+      "texto_sha256": "ac93d358c181353378177a6cb49577e35ef8406127fe712a70490ca6135fb57d",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1565781978022678730",
+      "adjuntos": []
+    },
+    {
+      "id": "1565785741022331032",
+      "fecha_utc": "2026-10-30T17:53:31.552000+00:00",
+      "fecha_local": "2026-10-30",
+      "editado_utc": "2026-10-30T17:54:12.104000+00:00",
+      "texto": "**Pues no va a ser así, Tsugami como siempre, te va a tener un par de horas hablando de sus cosas; la Juany que lo ha dejado con Felipe, en nieto de la Lore que se ha ido a la jungla a ser explorador y más de un cotilleo absurdo que no vale para nada.**\n\n**Despues de un buen rato, uno de los guardias de Tutucan, entra en la taberna buscando a Chani para una reunión con alguno de los líderes de las Tribus. La joven druida se marcha con el nuevo grupo de miembros del Clan Chik'in dejando solo al pirata Nox aguantando la chapa de la tabernera**\n\nTsugami: Uy, pues mira, una vez el drow vino a comprar lencería para la tritón... **Suspira** Eso si era un culebrón ¿Te he contado que a la pez la mato su cuñada?\n\n🔴 Fin de la escena🔴",
+      "mensaje_sha256": "d8165d504c9c608533ad8278e2df90ca858e10b6066b42b6fa3ec82861668167",
+      "texto_sha256": "f6fdc76798a58f8c180799285dacf6bdb3870bb987475372f69faa3f3e4a1d6f",
+      "tipo_discord": 19,
+      "referencia": "1565781057477808335",
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1565785741022331032",
+      "adjuntos": []
+    }
+  ]
+}
