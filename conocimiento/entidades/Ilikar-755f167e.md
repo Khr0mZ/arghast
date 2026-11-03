@@ -12,7 +12,7 @@ Base para revisar equivalencia: [38-003](../capitulos/38.md), [38-005](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 44.
+Relato revisado hasta el capítulo 45.
 
 ### Un náufrago que encuentra una tripulación
 
@@ -545,4 +545,12 @@ Tipo: `hecho_confirmado`.
 La plaza de Shiaru reúne a los defensores. Gobs guarda una sierra y otras herramientas en su bolsa; Armin lleva dos enormes mazas. Liz y sus compañeras preparan armas de fuego, entre ellas una escopeta y un rifle largo. Ione, Ilikar y Sir Poncelot están con la tripulación del Zampaolas mientras Bonnie pronuncia su discurso.
 
 La presencia de los viajeros corresponde a la concentración anterior a la batalla naval, no confirma su supervivencia después del capítulo 42. Las comparaciones con Frankenstein describen humorísticamente a Gobs y no acreditan una operación realizada aquí.
+
+## [45-001 · Los viajeros preparan la salida de Iktan hacia Perlasal](../capitulos/45.md) · 00:00:00.640
+
+Tipo: `declaracion_personaje`.
+
+Tentacol relata que ha buscado seguidores cerca de Iktan y hablado con Naór y Leo sobre ir a Perlasal. Naór cuenta sus intentos de superar el miedo al agua con Coyote, Tortas y Triel. Coyote quiere regresar a la ciudad submarina y alejarse de Iktan. Tortas recuerda sus esfuerzos por resolver cómo viajar bajo el agua y los brebajes de Coyote que le recordaron a Ilikar.
+
+Los recuerdos aluden a lo sucedido entre sesiones, sin volver a representar cada práctica. Llamar antiguo alumno a Ilikar no demuestra que Tortas conozca un desenlace de la batalla naval o que Ilikar haya muerto.
 

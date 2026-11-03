@@ -12,7 +12,7 @@ Base para revisar equivalencia: [24-017](../capitulos/24.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 44.
+Relato revisado hasta el capítulo 45.
 
 ### Una ejecución que no descubre a un impostor
 

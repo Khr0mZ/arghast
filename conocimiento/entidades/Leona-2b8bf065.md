@@ -12,7 +12,7 @@ Base para revisar equivalencia: [19-002](../capitulos/19.md), [21-004](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 44.
+Relato revisado hasta el capítulo 45.
 
 ### Aprender a no resolverlo todo con el hacha
 

@@ -8,11 +8,11 @@ Ictan e Iktan corresponden al topónimo normalizado en las fichas.
 
 Etiquetas agrupadas: Iktan; Iktan (identificación contextual provisional).
 
-Base para revisar equivalencia: [01-007](../capitulos/01.md), [31-023](../capitulos/31.md), [43-003](../capitulos/43.md), [43-004](../capitulos/43.md).
+Base para revisar equivalencia: [01-007](../capitulos/01.md), [31-023](../capitulos/31.md), [43-003](../capitulos/43.md), [43-004](../capitulos/43.md), [45-002](../capitulos/45.md), [45-003](../capitulos/45.md), [45-004](../capitulos/45.md), [45-008](../capitulos/45.md), [45-012](../capitulos/45.md), [45-015](../capitulos/45.md), [45-018](../capitulos/45.md), [45-019](../capitulos/45.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 44.
+Relato revisado hasta el capítulo 45.
 
 ### La ciudad que no se deja encontrar fácilmente
 
@@ -55,6 +55,12 @@ Fuentes: [41-015 · Walulu confirma las precauciones tras el aviso de Leona](../
 Citlali recuerda que en Iktan cuidó a la cría y volvió a sufrir insomnio. Allí encontró una caja de música ligada a recuerdos de sus hijos y de Nox; después del dolor y la señal extraña en la piel decidió marcharse. Lunaria había estado recorriendo el poblado e interrogando a sus habitantes antes de aparecer en la jungla. Estos repasos no confirman nuevas respuestas sobre sus misterios.
 
 Fuentes: [43-003 · Citlali recuerda la caja de música y huye de Iktan con la cría](../capitulos/43.md) · 00:03:45.400 · [43-004 · Lunaria explora el poblado y busca respuestas](../capitulos/43.md) · 00:05:36.400.
+
+### Una ruta acuática desde la ciudad oculta
+
+La preparación del viaje parte de la zona comercial de Iktan, donde el colegio reúne a Naór con la directora y el templo permite su consulta a Walulu. La ciudad queda junto al lago llamado provisionalmente Tachan. Coyote contacta allí con Maris y una enviada conduce al grupo por una gruta profunda que comunica con el mar. Leo permanece en el colegio cuando los viajeros salen.
+
+Fuentes: [45-002 · Iktan está junto al lago llamado Tachan](../capitulos/45.md) · 00:03:17.599 · [45-003 · La directora reprocha a Naór la conducta escolar de Leo](../capitulos/45.md) · 00:04:14.680 · [45-004 · Dos monedas consiguen que Leo permanezca dos horas más](../capitulos/45.md) · 00:06:26.560 · [45-008 · Naór quiere viajar a Perlasal por la convocatoria de Tutucan](../capitulos/45.md) · 00:15:03.279 · [45-012 · Coyote activa la perla dentro del agua y contacta con Maris](../capitulos/45.md) · 00:28:53.720 · [45-015 · Llega una guía sirénida enviada por la princesa Maris](../capitulos/45.md) · 00:36:29.920 · [45-018 · La guía pide buscar su escuadrón y Naór se aferra a Tortas](../capitulos/45.md) · 00:41:24.720 · [45-019 · El lago conduce por una gruta de corrientes hasta el mar](../capitulos/45.md) · 00:44:28.200.
 
 ## Registros y evidencias
 
@@ -561,4 +567,44 @@ Tipo: `declaracion_personaje`.
 Ayoto llega a la comida, saluda a Tlachka, Leona y Guayacán y cuenta que ha vuelto de Iktan a Cuicapalli para informarse de lo ocurrido. Recuerda su estancia bajo el mar, su desorientación en el bosque, las amenazas en una ciudad oculta y la ayuda de un perro extraño. Afirma haber ayudado en el agua y querer hacerlo también en tierra.
 
 El repaso es su testimonio. La mención del perro no contiene un nombre y no crea una identidad nueva; tampoco demuestra una misión submarina distinta o resultados no representados aquí.
+
+## [45-001 · Los viajeros preparan la salida de Iktan hacia Perlasal](../capitulos/45.md) · 00:00:00.640
+
+Tipo: `declaracion_personaje`.
+
+Tentacol relata que ha buscado seguidores cerca de Iktan y hablado con Naór y Leo sobre ir a Perlasal. Naór cuenta sus intentos de superar el miedo al agua con Coyote, Tortas y Triel. Coyote quiere regresar a la ciudad submarina y alejarse de Iktan. Tortas recuerda sus esfuerzos por resolver cómo viajar bajo el agua y los brebajes de Coyote que le recordaron a Ilikar.
+
+Los recuerdos aluden a lo sucedido entre sesiones, sin volver a representar cada práctica. Llamar antiguo alumno a Ilikar no demuestra que Tortas conozca un desenlace de la batalla naval o que Ilikar haya muerto.
+
+## [45-002 · Iktan está junto al lago llamado Tachan](../capitulos/45.md) · 00:03:17.599
+
+Tipo: `explicacion_director`.
+
+El director sitúa la ciudad oculta de Iktan junto a un lago al que llama Tachan. La narración se acerca a la zona comercial, con el templo y la herrería, donde un portazo anuncia la discusión a la salida del colegio.
+
+Tachan es una grafía provisional del nombre oído al recordar el director cómo lo llamó. No se identifica por ese nombre cada lago anterior de la campaña.
+
+## [45-008 · Naór quiere viajar a Perlasal por la convocatoria de Tutucan](../capitulos/45.md) · 00:15:03.279
+
+Tipo: `declaracion_personaje`.
+
+Naór va al templo y conversa con Walulu sobre Leo y su próxima visita a Perlasal. Vincula el viaje con la reunión de Tutucan y explica que ha practicado para soportar el agua. Espera contar con Coyote, que conoce el camino, y con Tentacol, que parece proceder de esas aguas.
+
+El proyecto diplomático no representa una audiencia con el liderazgo de Perlasal, una invitación ya entregada o la celebración del concilio.
+
+## [45-013 · Maris informa de nuevos ataques, secuestros y el cierre de Perlasal](../capitulos/45.md) · 00:31:30.919
+
+Tipo: `declaracion_personaje`.
+
+Maris cuenta que han cerrado Perlasal hace poco porque los Profundos volvieron a atacar y se llevaron a algunos de sus habitantes. Cree que los cautivos están en alguna cueva. Al saber que el grupo se encuentra en Iktan, promete buscar a una sirénida que pueda ayudarlo y le pide a Coyote que tenga cuidado.
+
+Las cuevas son una hipótesis de Maris, no una localización ya observada por ella en la llamada. Este relato no identifica al kraken, al dios de los atacantes o a los autores individuales de los secuestros.
+
+## [45-019 · El lago conduce por una gruta de corrientes hasta el mar](../capitulos/45.md) · 00:44:28.200
+
+Tipo: `hecho_confirmado`.
+
+El grupo sigue a la sirénida por un lago extremadamente profundo. Antes de llegar al fondo entran por una gruta lateral y las fuertes corrientes los impulsan durante un trayecto largo hasta un espacio abierto que parece el mar, con ruinas antiguas bajo el agua. La guía advierte que es una zona controlada por los Profundos. Naór recuerda al fin usar su nueva respiración y Chopito trata de abrirle los ojos; Triel disfruta nadando alrededor.
+
+Se narra una conexión física por túneles y corrientes, sin duración precisa o teletransporte. La salida no equivale a haber entrado en Perlasal y las ruinas aún no son el escondite del altar.
 

@@ -8,11 +8,11 @@ Entrada documentada en los registros citados.
 
 Etiquetas agrupadas: Tutucan.
 
-Base para revisar equivalencia: [16-003](../capitulos/16.md), [16-016](../capitulos/16.md), [17-011](../capitulos/17.md).
+Base para revisar equivalencia: [16-003](../capitulos/16.md), [16-016](../capitulos/16.md), [17-011](../capitulos/17.md), [45-077](../capitulos/45.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 44.
+Relato revisado hasta el capítulo 45.
 
 ### El destino político de una convocatoria
 
@@ -25,6 +25,12 @@ Fuentes: [16-003 · El rey leonino encarga a Naór convocar un concilio](../capi
 Tutucan vuelve a aparecer al investigar las reuniones anteriores al envenenamiento de Eromov y como posible lugar donde buscar conocimiento. Esas referencias no muestran todavía el concilio anunciado ni autorizan a inventar sus acuerdos. Al cierre del catálogo permanece como una expectativa central para la respuesta conjunta de los habitantes de la isla.
 
 Fuentes: [19-016 · Informe, collar y eruditos de otras ciudades](../capitulos/19.md) · 02:02:00.000 · [30-005 · Envenenamiento por ingestión tras una reunión](../capitulos/30.md) · 00:26:00.000 · [31-027 · Naór convoca un concilio y Gualulu apoya al rey](../capitulos/31.md) · 03:04:00.000.
+
+### Una nueva invitación al concilio
+
+Naór anuncia en el templo de Perlasal que se ha cantado la canción del concilio y que los dirigentes deben reunirse en Tutucan ante las amenazas compartidas. Ivet recuerda la ruptura producida tras el consejo anterior y solo promete meditar la asistencia. La reunión no se celebra durante esta sesión.
+
+Fuentes: [45-077 · La invitación al concilio queda pendiente de decisión](../capitulos/45.md) · 03:11:50.040.
 
 ## Registros y evidencias
 
@@ -115,4 +121,20 @@ Tipo: `explicacion_director`.
 Luna abandona la forma de gata y se incorpora. Tlachka recuerda que procede de Tutucan, donde fue arrojado al río y quedó a la deriva. Nox relata una estancia allí durante un ataque anterior. Compra comida crujiente para Tlachka y Luna que elimina su cansancio. Las frutas conceden ventaja en las salvaciones a Tlachka, dos D6 en los críticos a Nox y un dinosaurio espiritual protector a Luna. La piel verde y brillante de Eleanor le causa desventaja en Sigilo.
 
 
+
+## [45-008 · Naór quiere viajar a Perlasal por la convocatoria de Tutucan](../capitulos/45.md) · 00:15:03.279
+
+Tipo: `declaracion_personaje`.
+
+Naór va al templo y conversa con Walulu sobre Leo y su próxima visita a Perlasal. Vincula el viaje con la reunión de Tutucan y explica que ha practicado para soportar el agua. Espera contar con Coyote, que conoce el camino, y con Tentacol, que parece proceder de esas aguas.
+
+El proyecto diplomático no representa una audiencia con el liderazgo de Perlasal, una invitación ya entregada o la celebración del concilio.
+
+## [45-077 · La invitación al concilio queda pendiente de decisión](../capitulos/45.md) · 03:11:50.040
+
+Tipo: `hecho_confirmado`.
+
+Naór anuncia que se ha cantado la canción del concilio y convoca a los líderes a una reunión en Tutucan frente a las amenazas que afectan a la isla y al mar. Ivet recuerda que la última reunión terminó en separación y lamenta los ataques y abandonos entre pueblos. Tras mirar a su hija y a los suyos, dice que lo meditará, pero advierte que la respuesta de momento es poco favorable por sus problemas locales. Menciona que ha oído que los yuan-ti han vuelto; Naór lo confirma.
+
+Meditar la propuesta no equivale a aceptar la asistencia, enviar tropas o cerrar una alianza. No se fija aquí una nueva fecha del concilio. La mención de los yuan-ti no prueba que sean la misma organización que los Profundos.
 

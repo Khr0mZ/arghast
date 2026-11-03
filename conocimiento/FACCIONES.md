@@ -42,3 +42,11 @@ La victoria de Molly en tierra no demuestra una restitución en la Marina ni un 
 Leona y Guayacán mantienen la vigilancia mientras Eromov sigue enfermo. La escena escrita previa ya muestra a Leona entregando [viales y recetas de Iktan](https://discord.com/channels/946724148628041748/1482149664131383316/1525820723434618981) y a [Parroter empezando a trabajar](https://discord.com/channels/946724148628041748/1482149664131383316/1525825232810541056). La expedición por las espinas y el remedio del capítulo 44 amplían ese avance. Los expertos siguen esperados; tampoco se inviste a Leona como dirigente ([44-001, 44-003–44-004, 44-007–44-013, 44-048, 44-056](capitulos/44.md)).
 
 Las alusiones a serpientes y materiales recibidos no identifican al autor que contaminó la comida de Eromov. Tampoco equiparan el ácido del devorafango, los pinchazos de sus espinas o el moho de la cueva con el veneno y los no muertos de otras expediciones ([44-009–44-011, 44-022, 44-031, 44-034](capitulos/44.md)).
+
+## Los Profundos y la invitación a Perlasal
+
+Maris informa de nuevos secuestros y del cierre de Perlasal. La investigación localiza defensores y un rito con una sirena atada. Los interlocutores reclaman sacrificios y algo que poseen las sirenas para resucitar a su dios. No lo identifican con Chopito o el kraken. Se rescata a una cautiva y se vence a los presentes, pero el sacerdote muere sin interrogatorio y la instalación conserva magia ([45-013, 45-020, 45-045–45-048, 45-057, 45-068–45-073](capitulos/45.md)).
+
+Naór obtiene una audiencia con Ivet, que es madre de Maris, y la convoca a Tutucan. La oficiante recuerda una antigua promesa de unión incumplida; Naór defiende a Atlan. Ivet solo promete meditarlo y no confirma asistencia o tropas. Sus advertencias sobre los yuan-ti no hacen que estos y los Profundos sean la misma organización ([45-074–45-077](capitulos/45.md)).
+
+El [debate escrito posterior](https://discord.com/channels/946724148628041748/1482149664131383316/1527449224642433127) añade el relato de Naór sobre reliquias, la Llave del Sol y la Cámara de los Clanes Elementales. Sigue siendo su explicación de la convocatoria; no representa la reunión, la unión de los objetos o una guerra decidida por todos.

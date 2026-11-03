@@ -12,7 +12,7 @@ Base para revisar equivalencia: [01-001](../capitulos/01.md), [01-009](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 44.
+Relato revisado hasta el capítulo 45.
 
 ### El primer puerto y sus deudas
 

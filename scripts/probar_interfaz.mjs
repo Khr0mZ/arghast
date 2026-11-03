@@ -130,7 +130,7 @@ try {
   await evaluate('document.querySelector("[data-tab=hechos]").click()');
   await check('El capítulo 41 incluye sus 55 evidencias','document.querySelectorAll(".event").length===55');
   await evaluate('document.querySelector("[data-tab=preguntas]").click()');
-  await check('Las once preguntas del capítulo 41 conservan seguimiento','document.querySelectorAll(".question-card").length===11&&[...document.querySelectorAll(".question-card")].every(card=>card.dataset.status==="pendiente")');
+  await check('Las once preguntas del capítulo 41 conservan su estado actualizado','(()=>{const q=JSON.parse(document.getElementById("xoltacan-data").textContent).seguimiento.preguntas.filter(q=>q.capitulo===41);const cards=[...document.querySelectorAll(".question-card")];return cards.length===11&&cards.every(card=>q.some(item=>item.id===card.dataset.question&&item.estado===card.dataset.status))})()');
   await route('#capitulo/42');
   await check('El capítulo 42 abre sus trece etapas y la fuente nueva','document.querySelector("[data-tab=relato]").classList.contains("active")&&document.querySelectorAll(".story-stage").length===13&&document.getElementById("content").innerText.includes("Invictus")&&[...document.querySelectorAll("#content a")].some(a=>a.href.includes("3IUV_YN_zxM"))');
   await check('El capítulo 42 conserva el directo de julio y la publicación de octubre','document.querySelector(".chapter-dates").innerText.includes("09/07/2026")&&document.querySelector(".chapter-dates").innerText.includes("25/10/2026")');
@@ -184,10 +184,28 @@ try {
   for(let i=0;i<40;i++){if(await evaluate('!!document.getElementById("mensaje-1525820723434618981")'))break;await sleep(150);}
   await check('La evidencia escrita abre la escena y el mensaje exactos','location.hash==="#rol/x-1525362897662906398/1525820723434618981"&&document.querySelectorAll(".role-message").length===36&&document.getElementById("mensaje-1525820723434618981").innerText.includes("viales y las recetas")');
   await check('El mensaje conserva su fuente original de Discord','document.querySelector("#mensaje-1525820723434618981 header a").href==="https://discord.com/channels/946724148628041748/1482149664131383316/1525820723434618981"');
+  const chapter45=expectedChapters.find(c=>c.capitulo===45);
+  await route('#capitulo/45');
+  await check('El capítulo 45 abre su relato y la fuente nueva','document.querySelector("[data-tab=relato]").classList.contains("active")&&document.querySelectorAll(".story-stage").length>=10&&document.getElementById("content").innerText.includes("Perlasal")&&[...document.querySelectorAll("#content a")].some(a=>a.href.includes("30qLJWABsPE"))');
+  await check('El 45 distingue la emisión del 16 de julio y la publicación del 3 de noviembre','document.querySelector(".chapter-dates").innerText.includes("16/07/2026")&&document.querySelector(".chapter-dates").innerText.includes("03/11/2026")');
+  await screenshot('capitulo-45-escritorio');
+  await evaluate('document.querySelector("[data-tab=hechos]").click()');
+  await check('Todas las evidencias del 45 tienen su ficha',`document.querySelectorAll(".event").length===${chapter45.afirmaciones.length}`);
+  await evaluate('document.querySelector("[data-tab=preguntas]").click()');
+  await check('Las preguntas del 45 conservan su seguimiento',`document.querySelectorAll(".question-card").length===${chapter45.preguntas.length}&&[...document.querySelectorAll(".question-card")].every(c=>c.dataset.status!=="sin_revisar")`);
+  await route('#registro/'+chapter45.afirmaciones.at(-1).id);
+  await check('El final del 45 abre cita y contexto del vídeo correcto','document.querySelector(".quote").textContent.length>0&&document.querySelector(".evidence a").href.includes("30qLJWABsPE")&&document.querySelectorAll(".context-details .transcript-row").length>0');
+  await route('#pregunta/P41-010');
+  await check('La visita submarina de Naór resuelve su pregunta anterior','document.querySelector(".question-card").dataset.status==="resuelta"&&document.querySelector(".question-card").innerText.includes("Perlasal")&&[...document.querySelectorAll(".question-card a")].some(a=>a.hash.startsWith("#registro/45-"))');
+  await route('#pregunta/P29-001');
+  await check('El escondite aporta evidencia sin resolver toda la red o el kraken','document.querySelector(".question-card").dataset.status==="parcial"&&document.querySelector(".question-card").innerText.toLowerCase().includes("kraken")');
+  await check('Guía, cautiva y Maris conservan identidades distintas','(()=>{const d=JSON.parse(document.getElementById("xoltacan-data").textContent);return ["Guía sirénida enviada por Maris","Sirena cautiva del altar","Maris"].every(n=>d.entities.filter(e=>e.name===n).length===1)})()');
+  await check('Los altares del escondite y Citlali siguen separados del templo de Perlasal','(()=>{const e=JSON.parse(document.getElementById("xoltacan-data").textContent).entities;return e.find(x=>x.name==="Altar de los Profundos").type==="objeto"&&e.find(x=>x.name==="Altar de los símbolos de Citlali").type==="objeto"&&e.find(x=>x.name==="Templo de Perlasal").type==="lugar"})()');
+  await check('Las misiones del 45 aparecen una sola vez',`(()=>{const t=JSON.parse(document.getElementById("xoltacan-data").textContent).documents.misiones.text;return (t.match(/- Cap[.] 45:/g)||[]).length===${chapter45.misiones.length}&&!t.includes("## Actualización del capítulo 45")})()`);
   await route('#registro/41-023');
   await check('La muerte de la infiltrada enlaza la nueva fuente y su contexto','document.querySelector(".quote").textContent.length>0&&document.querySelector(".evidence a").href.includes("vB6Y1LQ2IaM")&&document.querySelectorAll(".context-details .transcript-row").length>0');
   await route('#entidad/Tentacol');
-  await check('Tentacol tiene historia y fuentes navegables','document.querySelectorAll(".story-stage").length===2&&document.querySelectorAll(".story-sources a").length>0&&document.getElementById("content").innerText.includes("Chopito")');
+  await check('Tentacol tiene historia y fuentes navegables','document.querySelectorAll(".story-stage").length===JSON.parse(document.getElementById("xoltacan-data").textContent).entities.find(e=>e.name==="Tentacol").history.etapas.length&&document.querySelectorAll(".story-sources a").length>0&&document.getElementById("content").innerText.includes("Chopito")');
   await route('#pregunta/P40-007');
   await check('Cipo queda localizado y el fragmento sigue pendiente','document.querySelector(".question-card").dataset.status==="parcial"&&document.getElementById("content").innerText.includes("Tentacol")&&document.getElementById("content").innerText.includes("fragmento de espada")');
   await route('#entidad/Tortas');
@@ -267,7 +285,7 @@ try {
   await route('#capitulos');await screenshot('capitulos-escritorio');
   for(const width of [320,768]){
     await call('Emulation.setDeviceMetricsOverride',{width,height:900,deviceScaleFactor:1,mobile:width<560});
-    for(const section of ['personajes','capitulo/39','capitulo/40','capitulo/41','capitulo/42','capitulo/43','capitulo/44','misterios','entidad/Ione','entidad/Tortas','entidad/Tentacol','entidad/Shiaru','entidad/Marina','entidad/Zampaolas']){
+    for(const section of ['personajes','capitulo/39','capitulo/40','capitulo/41','capitulo/42','capitulo/43','capitulo/44','capitulo/45','misterios','entidad/Ione','entidad/Tortas','entidad/Tentacol','entidad/Shiaru','entidad/Marina','entidad/Zampaolas']){
       await route('#'+section);
       await check('Códice sin desbordamiento a '+width+' px en '+section,'document.documentElement.scrollWidth<=window.innerWidth');
     }
@@ -290,6 +308,7 @@ try {
   await route('#capitulo/42');await screenshot('capitulo-42-movil');
   await route('#capitulo/43');await screenshot('capitulo-43-movil');
   await route('#capitulo/44');await screenshot('capitulo-44-movil');
+  await route('#capitulo/45');await screenshot('capitulo-45-movil');
   await route('#personajes');await screenshot('personajes-movil');
   await route('#entidad/Ione');await screenshot('historia-personaje-movil');
   await route('#entidad/Zampaolas');await screenshot('relato-objeto-movil');

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [16-018](../capitulos/16.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 44.
+Relato revisado hasta el capítulo 45.
 
 ### Los tatuajes del sabio
 

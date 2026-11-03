@@ -84,3 +84,9 @@ Al incorporar capítulos, el seguimiento señala los cotejos anteriores que nece
 «Una cura para Eromov» se incorpora después de leer completos los 2.516 segmentos en tres bloques sin solapamiento. El [reparto](../borradores/44/reparto.json), las tres entregas y la [integración](../borradores/44/integracion.json) conservan la cobertura. La [procedencia](../config/fuente_xoltacan_44.json) registra las dos variantes VTT, sus dos representaciones TXT y el metadato original con sus cinco hashes. El audio no se ha cotejado.
 
 El directo está documentado el 15 de julio de 2026 mediante el anuncio conservado; YouTube publicó el vídeo el 1 de noviembre. La duración de 6.934 segundos orienta la colocación del rol escrito, sin certificar el comienzo o el final reales de la partida. Las fuentes e identidades de Kuroto permanecen separadas.
+
+## Incorporación del capítulo 45
+
+«El escondite de los Profundos» se incorpora después de leer completos los 4.311 segmentos en tres bloques sin solapamiento. El [reparto](../borradores/45/reparto.json), las tres entregas y la [integración](../borradores/45/integracion.json) conservan su cobertura. La [procedencia](../config/fuente_xoltacan_45.json) registra las dos variantes VTT, sus TXT y el metadato original con cinco hashes. No se ha cotejado el audio.
+
+Se releen además cuatro escenas escritas completas, con 45 mensajes, para separar el monólogo previo de Tortas de los desenlaces posteriores: el concilio y la Llave del Sol, la monta del hipocampo y el cuidado de Leo. El [cotejo](../borradores/45/cotejo_rol.json) conserva identificadores y hashes sin alterar los originales. El directo está documentado el 16 de julio de 2026 y YouTube publicó el vídeo el 3 de noviembre.

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [43-034](../capitulos/43.md), [43-039](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 44.
+Relato revisado hasta el capítulo 45.
 
 ### De garrote a propulsor
 

@@ -8,7 +8,7 @@ Cada ámbito conserva su identidad visual: Arghast usa mar gris azulado y ocres 
 
 Los fondos abarcan toda el área de contenido. Arghast conserva el mapa oficial `arghast.webp` como fondo, con sus colores originales y capas de contraste mediante CSS. El original permanece intacto; `web/assets/arghast-mapa-oficial.webp` es la versión optimizada, con la misma resolución. Arghast, Xoltacan y Kuroto tienen ilustraciones verticales exclusivas para sus drawers. Las campañas tienen además fondos de contenido distintos de las portadas: un cenote selvático para Xoltacan y un jardín entre brumas para Kuroto. Las cinco imágenes se generan con imagegen y se integran sin conexión; sus prompts, originales y versiones WebP constan en [el registro de generación](web/assets/fondos-exclusivos.generacion.json).
 
-Abrir **`arghast.html`** con doble clic para consultar el mismo archivo sin servidor. Conservar a su lado **`transcripciones/`** para los subtítulos de Kuroto y **`rol_escrito/`** para las escenas de Discord y sus adjuntos; los paquetes ZIP incluyen ambas. `xoltacan.html` se conserva como entrada compatible al archivo unificado. **`kuroto.html`** abre directamente Kuroto con los mismos componentes de capítulos y fichas; **`arghast.html`** permite elegir campaña. El contenido de Xoltacan mantiene sus 44 capítulos revisados, 1233 registros, 173 fichas de entidades y sus relatos.
+Abrir **`arghast.html`** con doble clic para consultar el mismo archivo sin servidor. Conservar a su lado **`transcripciones/`** para los subtítulos de Kuroto y **`rol_escrito/`** para las escenas de Discord y sus adjuntos; los paquetes ZIP incluyen ambas. `xoltacan.html` se conserva como entrada compatible al archivo unificado. **`kuroto.html`** abre directamente Kuroto con los mismos componentes de capítulos y fichas; **`arghast.html`** permite elegir campaña. El contenido de Xoltacan mantiene sus 45 capítulos revisados, 1311 registros, 192 fichas de entidades y sus relatos.
 
 **Estado de Kuroto:** 181 vídeos catalogados; 181 transcripciones (178 de YouTube y 3 locales). 181 sesiones con relato revisado, 2092 evidencias y 1257 fichas con historia. Revisión continua hasta el capítulo 182; 0 sesiones pendientes. La lectura de los bloques está completada; la versión permanece en local para revisión, sin publicación autorizada.
 
@@ -18,7 +18,7 @@ Para continuar la incorporación de Kuroto, usar `.venv/Scripts/python.exe scrip
 
 El archivo revisado de Xoltacan reconstruye la campaña de Lichpol con buscador, capítulos, personajes, atlas, facciones, misiones, relaciones y misterios, con citas y enlaces al minuto. También puedes consultar su [índice Markdown](conocimiento/INDICE.md).
 
-El HTML integra los 44 capítulos, 1233 registros y transcripciones de Xoltacan. Las 181 transcripciones de Kuroto se abren por sesión desde `transcripciones/kuroto/`, sin cargar todo el archivo al entrar en la portada. Permite buscar en registros o dentro de una transcripción, filtrar evidencias y leer el contexto de una cita. Con el HTML, las transcripciones y el archivo de rol disponibles localmente se pueden leer las fuentes conservadas sin conexión; los vídeos y los enlaces a Discord requieren Internet. La interfaz se regenera con `python scripts/construir_interfaz.py`; el proceso general de Xoltacan, `python scripts/construir.py`, también la actualiza.
+El HTML integra los 45 capítulos, 1311 registros y transcripciones de Xoltacan. Las 181 transcripciones de Kuroto se abren por sesión desde `transcripciones/kuroto/`, sin cargar todo el archivo al entrar en la portada. Permite buscar en registros o dentro de una transcripción, filtrar evidencias y leer el contexto de una cita. Con el HTML, las transcripciones y el archivo de rol disponibles localmente se pueden leer las fuentes conservadas sin conexión; los vídeos y los enlaces a Discord requieren Internet. La interfaz se regenera con `python scripts/construir_interfaz.py`; el proceso general de Xoltacan, `python scripts/construir.py`, también la actualiza.
 
 Las fichas públicas se construyen con el catálogo revisado de identidades: las variantes confirmadas comparten ficha, y personajes, lugares, facciones y objetos tienen un tipo explícito. Las etiquetas originales siguen disponibles en la búsqueda. Las cautelas sobre transcripción y testimonios se consultan en las notas de cada capítulo. La prosa editorial utiliza español neutral; las citas literales conservan el reconocimiento original.
 
@@ -30,7 +30,7 @@ Los 95 personajes incluyen **Su historia en Xoltacan**, un relato editorial divi
 
 Los **28 lugares**, las **8 facciones** y los **36 objetos** tienen también relatos propios: historia y acontecimientos de cada lugar, intereses y evolución de cada facción, y origen, usos y recorrido de cada objeto. Los registros quedan después del relato. Sus textos editoriales se conservan en `config/historias_lugares.json`, `config/historias_facciones.json` y `config/historias_objetos.json`, con referencias y horizonte de revisión.
 
-Los **44 capítulos** abren en **Relato de la sesión**. Sus resúmenes revisados se conservan íntegros, separados en etapas con títulos y citas de esa misma sesión mediante `config/relatos_capitulos.json`. Las otras pestañas dan acceso a acontecimientos, misiones, preguntas y transcripción. Las divisiones se validan para no cortar frases, alterar el resumen ni incorporar referencias de capítulos posteriores. La construcción general regenera también esta presentación en las fichas Markdown.
+Los **45 capítulos** abren en **Relato de la sesión**. Sus resúmenes revisados se conservan íntegros, separados en etapas con títulos y citas de esa misma sesión mediante `config/relatos_capitulos.json`. Las otras pestañas dan acceso a acontecimientos, misiones, preguntas y transcripción. Las divisiones se validan para no cortar frases, alterar el resumen ni incorporar referencias de capítulos posteriores. La construcción general regenera también esta presentación en las fichas Markdown.
 
 Las historias de personajes se editan en `config/historias_personajes.json` y `config/historias_personajes_complementarias.json`; no se generan concatenando menciones. El constructor comprueba cobertura de todas las identidades canónicas, duplicados, referencias y horizonte de revisión mediante `scripts/historias.py`. Para revisar nuevos capítulos, actualizar la prosa, las referencias y `revisado_hasta` después de leer las fuentes, y definir las etapas de los nuevos resúmenes. Las entidades nuevas requieren su entrada editorial. Ejecutar `python scripts/construir.py` para regenerar todas las vistas Markdown y HTML.
 
@@ -42,7 +42,7 @@ Los borradores contienen la revisión vigente. `config/revision_editorial_vigent
 
 ## Fechas originales de emisión
 
-Las fichas y las tarjetas de ambas campañas separan **Directo en Twitch**, **Publicación en YouTube** y **Aviso de YouTube** cuando el anuncio no documenta la publicación exacta. Xoltacan tiene fecha para **sus 44 capítulos: 40 documentadas y 4 asumidas**; Kuroto, para **sus 181 capítulos: 163 documentadas y 18 asumidas**. Todos los capítulos catalogados tienen un día de emisión elegido. El cotejo de información y anuncios adopta Kuroto 49 el 24/09/2024, el 56 el 10/10/2024 y el 134 el 02/07/2025. La reconstrucción conjunta de los capítulos 55 y 56 sitúa el 55 el 09/10/2024, conservando el aviso literal del día 10. El capítulo 41 de Xoltacan se emitió en Twitch el 3 de julio de 2026 y se publicó en YouTube el 20 de octubre.
+Las fichas y las tarjetas de ambas campañas separan **Directo en Twitch**, **Publicación en YouTube** y **Aviso de YouTube** cuando el anuncio no documenta la publicación exacta. Xoltacan tiene fecha para **sus 45 capítulos: 41 documentadas y 4 asumidas**; Kuroto, para **sus 181 capítulos: 163 documentadas y 18 asumidas**. Todos los capítulos catalogados tienen un día de emisión elegido. El cotejo de información y anuncios adopta Kuroto 49 el 24/09/2024, el 56 el 10/10/2024 y el 134 el 02/07/2025. La reconstrucción conjunta de los capítulos 55 y 56 sitúa el 55 el 09/10/2024, conservando el aviso literal del día 10. El capítulo 41 de Xoltacan se emitió en Twitch el 3 de julio de 2026 y se publicó en YouTube el 20 de octubre.
 
 Consultar el [cotejo de todas las fechas](conocimiento/EMISIONES.md), con enlaces a los anuncios. Los originales completos de Discord permanecen en local y se verifican por SHA-256. La interfaz integra las fechas desde `config/emisiones_xoltacan.json` y `campanas/kuroto/revision/emisiones.json`; `config/fuentes_anuncios_discord.json` conserva las evidencias de procedencia. Se muestran fechas civiles en Europe/Madrid, independientes del calendario ficticio del mundo y del comienzo exacto del rol dentro de cada directo.
 
@@ -82,7 +82,7 @@ La última extracción completa del rol escrito es del **03/11/2026, 03:50:52 (M
 
 ## Material disponible
 
-Hay 44 capítulos catalogados, 88 VTT y 88 TXT conservados: dos variantes españolas por episodio (`es-orig` y `es`). Ningún episodio carece de subtítulos en este catálogo. Los subtítulos son automáticos y no prueban que todas las palabras del audio estén reconocidas correctamente. El inventario registra inicio, final, tamaño, variantes y SHA-256. No se han cotejado todas las duraciones con el vídeo ni verificado el audio.
+Hay 45 capítulos catalogados, 90 VTT y 90 TXT conservados: dos variantes españolas por episodio (`es-orig` y `es`). Ningún episodio carece de subtítulos en este catálogo. Los subtítulos son automáticos y no prueban que todas las palabras del audio estén reconocidas correctamente. El inventario registra inicio, final, tamaño, variantes y SHA-256. No se han cotejado todas las duraciones con el vídeo ni verificado el audio.
 
 El ZIP inicial de 6 KB contiene catálogo y descargador; el ZIP de transcripciones de aproximadamente 23 MB contiene las descargas. Se conservan ambos. El descargador inicial distingue solo `sin_subtitulos_o_error`: ese estado no permite concluir que falta una pista de YouTube. Se usa una sola variante por episodio para la lectura, dando preferencia a `es-orig`, y se conservan todas las variantes originales.
 
@@ -111,7 +111,7 @@ xoltacan.html                 enciclopedia interactiva lista para abrir
 derivados/
   originales_sha256.json      comprobación de integridad de TODOS los originales
   inventario.json             disponibilidad y estado de revisión por episodio
-  01/ … 44/                   segmentos JSONL, lectura Markdown y cambios de nombres
+  01/ … 45/                   segmentos JSONL, lectura Markdown y cambios de nombres
 conocimiento/
   INDICE.md                   capítulos y estado de revisión
   CRONOLOGIA.md               acontecimientos ordenados por episodio/minuto
@@ -147,7 +147,7 @@ La versión utilizada en la descarga inicial está fijada en `requirements-desca
 Para registrar un nuevo episodio (sustituir los valores de ejemplo por los reales):
 
 ```powershell
-.\.venv\Scripts\python.exe scripts/incorporar.py --capitulo 45 --url "https://www.youtube.com/watch?v=ID_DE_VIDEO" --titulo "Título real" --descargar
+.\.venv\Scripts\python.exe scripts/incorporar.py --capitulo 46 --url "https://www.youtube.com/watch?v=ID_DE_VIDEO" --titulo "Título real" --descargar
 ```
 
 El ejemplo usa un identificador ficticio y no se ejecuta literalmente. Para reintentar todos los episodios que no tengan VTT válido:
@@ -172,7 +172,7 @@ python -X utf8 scripts/consultar.py "Jivirix"
 python -X utf8 scripts/consultar.py "casino" --personaje Axi
 ```
 
-Los 44 capítulos disponibles se han leído completos y cuentan con fichas estructuradas: 1233 registros de acontecimientos, declaraciones y explicaciones con citas temporales. La reconstrucción cubre el material publicado de este catálogo; las tramas abiertas se mantienen con su seguimiento actualizado al capítulo 44. El estado de cada capítulo figura en el índice.
+Los 45 capítulos disponibles se han leído completos y cuentan con fichas estructuradas: 1311 registros de acontecimientos, declaraciones y explicaciones con citas temporales. La reconstrucción cubre el material publicado de este catálogo; las tramas abiertas se mantienen con su seguimiento actualizado al capítulo 45. El estado de cada capítulo figura en el índice.
 
 Las búsquedas de nombres pueden fallar por reconocimiento de voz; una ausencia en la búsqueda no prueba una ausencia en la sesión. Las fichas seleccionan acontecimientos relevantes y no sustituyen el diálogo original ni un cotejo de audio.
 

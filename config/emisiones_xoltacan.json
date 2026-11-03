@@ -1156,6 +1156,32 @@
         "sha256_metadatos": "004ed3444f7308f9e805e2cb93107a50b6b69b6ec1537b4a635f90171fda588a",
         "publicacion_reportada_utc": "2026-11-01T10:00:23+00:00"
       }
+    },
+    "45": {
+      "video_id": "30qLJWABsPE",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2026-07-16",
+        "fuentes": [
+          "1527375684333338644"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "La tarjeta conservada identifica campaña, capítulo y título; el aviso no fija el comienzo exacto de la partida.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2026-07-16"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2026-11-03",
+        "fecha_aviso": null,
+        "fuentes": [],
+        "origen_fecha": "metadatos_youtube",
+        "archivo_metadatos": "xoltacan_subtitulos/subtitulos/45 - 30qLJWABsPE.info.json",
+        "sha256_metadatos": "65a2cd52e0d8f48871845c82f36ba5caba08677e85a48cfb2678f0fcde23023a",
+        "publicacion_reportada_utc": "2026-11-03T10:00:38+00:00"
+      }
     }
   }
 }

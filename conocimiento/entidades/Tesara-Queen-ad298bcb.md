@@ -12,7 +12,7 @@ Base para revisar equivalencia: [31-004](../capitulos/31.md), [31-005](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 44.
+Relato revisado hasta el capítulo 45.
 
 ### Una historiadora que quiere conocer la isla
 

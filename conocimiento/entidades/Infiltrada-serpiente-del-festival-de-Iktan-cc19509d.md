@@ -12,7 +12,7 @@ Base para revisar equivalencia: [41-011](../capitulos/41.md), [41-012](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 44.
+Relato revisado hasta el capítulo 45.
 
 ### La falsa celebrante
 

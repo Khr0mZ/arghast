@@ -12,7 +12,7 @@ Base para revisar equivalencia: [18-007](../capitulos/18.md), [22-012](../capitu
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 44.
+Relato revisado hasta el capítulo 45.
 
 ### Una amenaza antigua que vuelve a salir
 
@@ -237,4 +237,12 @@ Tipo: `declaracion_personaje`.
 Tlachka relata su paso por Iktan y recuerda personas que se transformaban en serpientes. Ha buscado descanso apartado de Coyote, recogido frutas en los alrededores y preparado mazorcas para vender.
 
 El repaso no identifica una nueva infiltrada o un combate distinto. Su recuerdo de Iktan no le atribuye por sí solo las acciones del grupo del capítulo 41.
+
+## [45-077 · La invitación al concilio queda pendiente de decisión](../capitulos/45.md) · 03:11:50.040
+
+Tipo: `hecho_confirmado`.
+
+Naór anuncia que se ha cantado la canción del concilio y convoca a los líderes a una reunión en Tutucan frente a las amenazas que afectan a la isla y al mar. Ivet recuerda que la última reunión terminó en separación y lamenta los ataques y abandonos entre pueblos. Tras mirar a su hija y a los suyos, dice que lo meditará, pero advierte que la respuesta de momento es poco favorable por sus problemas locales. Menciona que ha oído que los yuan-ti han vuelto; Naór lo confirma.
+
+Meditar la propuesta no equivale a aceptar la asistencia, enviar tropas o cerrar una alianza. No se fija aquí una nueva fecha del concilio. La mención de los yuan-ti no prueba que sean la misma organización que los Profundos.
 

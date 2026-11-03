@@ -8,11 +8,11 @@ La misma chamana enmascarada y dirigente de Iktan, vinculada a Coyote; la sucesi
 
 Etiquetas agrupadas: Gualulu / Walulu (líder de Iktan, grafía provisional); Walulu / Waluro / Gualulo (chamana enmascarada, grafía provisional).
 
-Base para revisar equivalencia: [31-023](../capitulos/31.md), [31-024](../capitulos/31.md), [39-017](../capitulos/39.md), [39-018](../capitulos/39.md).
+Base para revisar equivalencia: [31-023](../capitulos/31.md), [31-024](../capitulos/31.md), [39-017](../capitulos/39.md), [39-018](../capitulos/39.md), [45-008](../capitulos/45.md), [45-009](../capitulos/45.md), [45-010](../capitulos/45.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 44.
+Relato revisado hasta el capítulo 45.
 
 ### La heredera que protege los caminos ocultos
 
@@ -43,6 +43,12 @@ Fuentes: [40-035 · Iktan recibe al protector y Walulu examina el veneno](../cap
 Confirma que aumentó las precauciones tras el aviso de Leona, pero una infiltrada logra entrar. Mediante raíces revela sus rasgos serpentinos y la retiene. Atribuye su grupo al del veneno de Eromov. Presencia un interrogatorio que acaba con la muerte de la cautiva y pide a Tentacol ayudar a los compañeros. No se muestra una cura de Eromov ni un análisis de las nuevas muestras o entrega de las cabezas a la dirigente.
 
 Fuentes: [41-015 · Walulu confirma las precauciones tras el aviso de Leona](../capitulos/41.md) · 00:42:00.000 · [41-016 · Las raíces de Walulu revelan a la infiltrada serpiente](../capitulos/41.md) · 00:43:49.720 · [41-017 · La prisionera se niega a responder y Walulu no puede forzarla](../capitulos/41.md) · 00:44:55.001 · [41-019 · Walulu vincula la infiltración con el veneno de Eromov](../capitulos/41.md) · 00:48:00.000 · [41-021 · La prisionera sufre pese a la curación](../capitulos/41.md) · 00:51:00.720 · [41-022 · Tenta se presenta y sumerge a la cautiva](../capitulos/41.md) · 00:52:24.000 · [41-023 · Advertencia, revelación de la emboscada y muerte entre serpientes](../capitulos/41.md) · 00:54:38.599 · [41-025 · Tenta informa y un guardia rechaza las órdenes de Winscore](../capitulos/41.md) · 01:02:02.000 · [41-048 · Cabezas para Leo y Walulu y regreso de Chopito a la botella](../capitulos/41.md) · 02:13:27.760 · [41-052 · Naór presencia el movimiento de Tortas y ofrece las cabezas](../capitulos/41.md) · 02:18:04.399.
+
+### Consejo para viajar y preocupación por Leo
+
+Walulu escucha a Naór sobre el colegio y la necesidad de llegar a Perlasal por el concilio de Tutucan. Ofrece un conjuro de respiración de aproximadamente una hora, pero advierte que podría no bastar. Naór busca otro método y pide a su amiga que vigile a Leo. La chamana cuestiona si la crianza es adecuada y luego acepta que Naór se considera su familia; su comentario posterior sobre antiguos bichos muertos expresa preocupación, sin determinar el futuro del niño.
+
+Fuentes: [45-008 · Naór quiere viajar a Perlasal por la convocatoria de Tutucan](../capitulos/45.md) · 00:15:03.279 · [45-009 · Walulu ofrece una burbuja de una hora, que no llega a lanzar aquí](../capitulos/45.md) · 00:17:00.959 · [45-010 · Naór afirma que ella es la familia de Leo](../capitulos/45.md) · 00:19:03.159.
 
 ## Registros y evidencias
 
@@ -285,4 +291,28 @@ Tipo: `hecho_confirmado`.
 Naór corta dos cabezas de los adversarios vencidos: una como recuerdo para Leo y otra como prueba para Walulu. Blink se apoya en una roca y se tapa las heridas. Tentacol recoge a Chopito y lo introduce de nuevo en una botella.
 
 La futura entrega a Walulu se anuncia; no aparece una conversación de entrega o un análisis suyo en este bloque. Las cabezas proceden de los vencidos, sin atribuirles nombres ni confundirlas con el prisionero vivo.
+
+## [45-008 · Naór quiere viajar a Perlasal por la convocatoria de Tutucan](../capitulos/45.md) · 00:15:03.279
+
+Tipo: `declaracion_personaje`.
+
+Naór va al templo y conversa con Walulu sobre Leo y su próxima visita a Perlasal. Vincula el viaje con la reunión de Tutucan y explica que ha practicado para soportar el agua. Espera contar con Coyote, que conoce el camino, y con Tentacol, que parece proceder de esas aguas.
+
+El proyecto diplomático no representa una audiencia con el liderazgo de Perlasal, una invitación ya entregada o la celebración del concilio.
+
+## [45-009 · Walulu ofrece una burbuja de una hora, que no llega a lanzar aquí](../capitulos/45.md) · 00:17:00.959
+
+Tipo: `declaracion_personaje`.
+
+Walulu ofrece un conjuro para aguantar aproximadamente una hora bajo el agua, pero duda de que baste para alcanzar Perlasal. Advierte del riesgo si la burbuja se rompe o pasa demasiado tiempo. Naór decide consultar a Coyote y Tortas; la chamana queda disponible si necesitan el hechizo.
+
+La propuesta no se convierte en una burbuja aplicada. El grupo obtiene después otro medio de respiración, sin que esta conversación fije cuánto dura ese otro efecto.
+
+## [45-010 · Naór afirma que ella es la familia de Leo](../capitulos/45.md) · 00:19:03.159
+
+Tipo: `hecho_confirmado`.
+
+Naór pide a Walulu que vigile a Leo en el colegio. Cuando la chamana sugiere buscarle una familia de verdad, la princesa vuelve y proclama que ella es su familia y que lo convertirá en un guerrero. Walulu lo acepta en la conversación. A solas, expresa su preocupación recordando que los bichos de una familia que Naór hizo de pequeña murieron.
+
+El recuerdo y la preocupación de Walulu no demuestran que Leo vaya a sufrir el mismo destino ni una evaluación de sus secuelas. La escena no formaliza una adopción ante Eromov o Atlan.
 

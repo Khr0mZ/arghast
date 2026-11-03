@@ -8,17 +8,23 @@ Padre de Naór, rey leonino; grafía del apellido sin audio cotejado.
 
 Etiquetas agrupadas: Camar Taruan (rey leonino, grafía provisional).
 
-Base para revisar equivalencia: [16-003](../capitulos/16.md), [16-015](../capitulos/16.md), [31-027](../capitulos/31.md).
+Base para revisar equivalencia: [16-003](../capitulos/16.md), [16-015](../capitulos/16.md), [31-027](../capitulos/31.md), [45-076](../capitulos/45.md), [45-077](../capitulos/45.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 44.
+Relato revisado hasta el capítulo 45.
 
 ### El rey que busca reunir a los clanes
 
 Camar, rey leonino de Atlan y padre de Naór, envía a su hija a convocar a los dirigentes del norte ante la expansión de los extranjeros. La misión lleva a la princesa a Cuicapalli, Ras Racor y finalmente Iktan. Según Naór, Atlan lleva siglos custodiando la frontera y la costa del sur, y su padre cree que ningún clan podrá afrontar solo el cambio de fuerzas en la isla. Walulu promete apoyar su convocatoria de un concilio en Tutucan la noche anterior al próximo solsticio. Todavía no se muestra la celebración del encuentro ni su resultado.
 
 Fuentes: [16-003 · El rey leonino encarga a Naór convocar un concilio](../capitulos/16.md) · 00:04:30.000 · [16-016 · Aceptación del concilio de Tutucan condicionada a los problemas locales](../capitulos/16.md) · 01:58:10.000 · [17-011 · Naór invita a los dirigentes a Tutucan](../capitulos/17.md) · 01:05:20.000 · [31-027 · Naór convoca un concilio y Gualulu apoya al rey](../capitulos/31.md) · 03:04:00.000.
+
+### Una promesa discutida por Ivet
+
+En la audiencia de Perlasal, Ivet recuerda que el padre de Naór prometió mantener unidas a las tribus y sostiene que la separación continuó. La princesa defiende la ayuda y protección prestadas por Atlan. El intercambio documenta dos posiciones sobre la promesa de Camar, sin reconstruir todos sus términos, confirmar quién incumplió cada parte o mostrar un nuevo acuerdo.
+
+Fuentes: [45-076 · Ivet reprocha la promesa de unión incumplida y Naór defiende a Atlan](../capitulos/45.md) · 03:10:25.239 · [45-077 · La invitación al concilio queda pendiente de decisión](../capitulos/45.md) · 03:11:50.040.
 
 ## Registros y evidencias
 
@@ -77,4 +83,12 @@ Tipo: `declaracion_personaje`.
 Naór solicita una conversación privada antes de que Walulu decida qué hacer con los visitantes. A solas en el templo, transmite la convocatoria de su padre: los clanes se reunirán en Tutucan la noche anterior al próximo solsticio. Explica que Atlan lleva cientos de años custodiando la frontera y la costa del sur, donde sus habitantes fueron apartados o destinados. Considera que la llegada de los extranjeros de azul y de los piratas cambia la situación. Su padre cree que no podrán vencer solos. Aunque Naór desconfía de los extranjeros, confía en él y pide el apoyo de Walulu. Ella promete apoyarlo como hizo su propio padre.
 
 No se proporciona una fecha absoluta ni se celebra el concilio. Los demás permanecen con los guardias y no oyen esta conversación privada.
+
+## [45-076 · Ivet reprocha la promesa de unión incumplida y Naór defiende a Atlan](../capitulos/45.md) · 03:10:25.239
+
+Tipo: `declaracion_personaje`.
+
+Ivet lamenta que las tribus de la superficie lleven años sin comunicarse con ellos. Recuerda una promesa del padre de Naór de mantener unidas a las tribus, pero sostiene que se han separado. Naór responde que Atlan quedó aislado con la responsabilidad del sur y que otros líderes evitan el contacto. Más adelante defiende que su pueblo sí ha ayudado y ha cumplido su promesa de proteger la frontera meridional.
+
+Son posiciones políticas de las interlocutoras; la discusión no reconstruye por sí sola todos los términos del pacto, las ayudas dadas o la responsabilidad de cada tribu.
 

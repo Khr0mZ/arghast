@@ -12,7 +12,7 @@ Base para revisar equivalencia: [35-014](../capitulos/35.md), [36-019](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 44.
+Relato revisado hasta el capítulo 45.
 
 ### Una isla de pueblos vivos y ruinas disputadas
 
@@ -83,4 +83,12 @@ Tipo: `declaracion_personaje`.
 Taylor sostiene que Bonnie rompió su trato y ocultó la isla de grandes tesoros a los otros reyes, por lo que debían acudir. Anuncia que ella sabe lo que viene. Bonnie enciende un puro y responde que nunca le cayó bien.
 
 La acusación no aporta los términos completos del pacto ni una deliberación independiente de los demás reyes.
+
+## [45-077 · La invitación al concilio queda pendiente de decisión](../capitulos/45.md) · 03:11:50.040
+
+Tipo: `hecho_confirmado`.
+
+Naór anuncia que se ha cantado la canción del concilio y convoca a los líderes a una reunión en Tutucan frente a las amenazas que afectan a la isla y al mar. Ivet recuerda que la última reunión terminó en separación y lamenta los ataques y abandonos entre pueblos. Tras mirar a su hija y a los suyos, dice que lo meditará, pero advierte que la respuesta de momento es poco favorable por sus problemas locales. Menciona que ha oído que los yuan-ti han vuelto; Naór lo confirma.
+
+Meditar la propuesta no equivale a aceptar la asistencia, enviar tropas o cerrar una alianza. No se fija aquí una nueva fecha del concilio. La mención de los yuan-ti no prueba que sean la misma organización que los Profundos.
 

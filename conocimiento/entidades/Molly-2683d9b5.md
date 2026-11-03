@@ -12,7 +12,7 @@ Base para revisar equivalencia: [05-008](../capitulos/05.md), [05-009](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 44.
+Relato revisado hasta el capítulo 45.
 
 ### Una capitana con vínculos en ambos bandos
 

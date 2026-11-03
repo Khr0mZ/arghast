@@ -12,7 +12,7 @@ Base para revisar equivalencia: [31-020](../capitulos/31.md), [31-022](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 44.
+Relato revisado hasta el capítulo 45.
 
 ### Descansar después del bosque
 
@@ -37,4 +37,12 @@ Tipo: `hecho_confirmado`.
 Naór paga 25 monedas por una gran cantidad de carne y la comparte con Leo y Triel. Al hablar de dragones, los llama serpientes aladas y dice que su padre luchó contra uno. Triel cuenta que su espada procede de un dragón que mató con su hermano. Coyote intenta seducir a una tabernera que ya conoce. Ella lo rechaza pese a sus cambios entre formas de perro y gato, recuerda que la líder lo expulsó antes y le advierte que su cuenta de bebidas sigue aumentando.
 
 El vocabulario de Naór no niega la existencia de la criatura vista. El relato de Triel no describe una nueva muerte de dragón en este capítulo. La tabernera rechaza las propuestas de Coyote.
+
+## [45-007 · Coyote evita la discusión y vuelve a ser expulsado de la taberna](../capitulos/45.md) · 00:13:36.440
+
+Tipo: `hecho_confirmado`.
+
+Coyote recuerda que insistió en cortejar a la tabernera y acabó expulsado, aunque salió con una cerveza robada. Al ver a Naór intenta pasar inadvertido y volver al local para evitar la discusión del colegio.
+
+La tabernera llamada Angelita se vincula provisionalmente a Angelique por la continuidad de esas escenas de Iktan, sin fusionarla con Angélica Thunder. El segundo lanzamiento se representa en 45-011; esta entrada conserva el contexto del intento de esconderse.
 

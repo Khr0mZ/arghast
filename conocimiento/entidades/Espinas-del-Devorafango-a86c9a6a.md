@@ -12,7 +12,7 @@ Base para revisar equivalencia: [44-011](../capitulos/44.md), [44-012](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 44.
+Relato revisado hasta el capítulo 45.
 
 ### De la boca al remedio
 

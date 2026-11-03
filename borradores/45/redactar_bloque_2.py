@@ -1,0 +1,261 @@
+"""Redacción del segundo bloque tras leer íntegros sus 1437 segmentos."""
+import json
+import sys
+from pathlib import Path
+
+ROOT=Path(__file__).resolve().parents[2]
+sys.path.insert(0,str(ROOT/'scripts'))
+from construir import validate_fact,write_json,seconds
+
+rows=json.loads((ROOT/'borradores/45/bloque_2_segmentos.json').read_text(encoding='utf-8'))
+source=ROOT/'xoltacan_subtitulos/subtitulos/45 - 30qLJWABsPE.es-orig.vtt'
+facts=[]
+
+
+def fact(number,title,start,end,quote_time,text,entities,limitation='',kind='hecho_confirmado'):
+    cue=next(s for s in rows if s['inicio'].startswith(quote_time))
+    item={'id':f'45-{number:03d}','titulo':title,'tipo':kind,'afirmacion':text,
+          'inicio':start,'fin':end,'cita':cue['texto_original'],
+          'evidencia_cue':{'inicio':cue['inicio'],'fin':cue['fin'],'texto':cue['texto_original']},
+          'entidades':entities,'ambito':'exploración del escondite de los Profundos',
+          'conocedores':[],'conocimiento_personaje':'desconocido',
+          'nota_conocimiento':'Acceso de Madame Oghma sin establecer en este pasaje.',
+          'confianza':'lectura de subtítulos; audio no cotejado','limitacion':limitation}
+    validate_fact(item,source)
+    facts.append(item)
+
+
+fact(101,'Tortas vira hacia el túnel y se raspa el caparazón','01:06:44.119','01:11:56.759','01:08:44.279',
+     'El rastro que Naór sigue conduce hacia un enorme muro submarino. Ella deja de impulsar el avance, pero no sabe frenar la inercia. Tortas consigue virar y descubre un pequeño túnel en la pared. Entra con una maniobra ajustada que le raspa el caparazón y sigue por un paso de subidas y bajadas, mientras Triel disfruta del trayecto. Tentacol y Chopito los siguen con más calma, los alcanzan y preguntan al Anciano si se ha hecho daño.',
+     ['Naór','Tortas','Triel','Tentacol','Chopito','Escondite de los Profundos'],
+     'El rastro procede de la magia residual de las armas investigada antes, no de un olor personal acreditado de Maris. Las comparaciones con vehículos y películas son bromas y no embarcaciones nuevas.')
+fact(102,'El túnel desemboca en una cámara de aire oscura','01:11:56.760','01:15:03.439','01:14:48.159',
+     'El grupo sale a una cueva marina oscura y húmeda. Naór olfatea y confirma que el rastro continúa por esa zona, sin intensificarse mucho. Tras una confusión entre los viajeros, el director aclara que han emergido del agua a una gran cámara de aire dentro de la cueva submarina. Coyote acusa el mareo del viaje y Naór salta a tierra.',
+     ['Naór','Tortas','Coyote','Triel','Escondite de los Profundos'],
+     'El entorno combina tierra, aire y agua: no se sitúa todo el refugio bajo el agua ni se infiere un final de la respiración acuática otorgada previamente.')
+fact(103,'Chopito guía a quienes no ven y Triel aporta luces','01:15:03.440','01:19:29.039','01:17:19.639',
+     'Chopito se coloca sobre Tentacol para guiarlo y después tira de las barbas de Tortas con sus ventosas hasta llevarlo a tierra. Tortas considera usar visión astral, pero el coste y la duración provocan dudas. Tentacol ofrece que su maestro guíe a todos y Triel termina creando pequeñas luces para iluminar la cueva. Coyote aprovecha la oscuridad para tocar a Tentacol; este lo reprende y transmite la protesta de Chopito, que se proclama el dios al que debe respetarse.',
+     ['Chopito','Tentacol','Tortas','Triel','Coyote','Escondite de los Profundos'],
+     'La visión astral se debate sin quedar confirmada como una capacidad empleada para iluminar toda la cueva. Las pretensiones religiosas de Chopito son suyas y no una divinidad demostrada.')
+fact(104,'Los restos marinos y tres sombras alertan al grupo','01:19:29.040','01:21:52.079','01:21:09.560',
+     'Naór y Chopito encuentran huesos y cadáveres mordidos de criaturas marinas, sin restos identificables de las sirenas que buscan. El lugar parece usado como refugio o descanso por una o varias criaturas. Naór arroja un hueso al agua. Tortas mete la cabeza y ve tres figuras que se apartan rápidamente de la luz de Triel y desaparecen en la oscuridad. Interpreta que podrían ser los compañeros de la sirena, aunque recuerda que le habían hablado de cuatro.',
+     ['Naór','Chopito','Tortas','Triel','Guía sirénida enviada por Maris','Escondite de los Profundos'],
+     'La conjetura de Tortas no identifica a las sombras con los desaparecidos. La ausencia de restos sirénidos no prueba por sí sola que todos estén vivos ni que hayan salido de la cueva.')
+fact(105,'Una criatura intenta agarrar a Coyote bajo el agua','01:21:52.080','01:23:58.718','01:23:08.960',
+     'Naór empuja a Coyote al agua. Algo le toca el pie e intenta sujetarlo, pero Coyote mueve las piernas y evita el agarre. Tortas vuelve a asomarse y observa el intento antes de perder de vista a la criatura. Le advierte que salga y deduce que los seres sumergidos no tienen intenciones amistosas.',
+     ['Naór','Coyote','Tortas','Profundos','Escondite de los Profundos'],
+     'El intento de agarre no captura ni arrastra a Coyote. La interpretación hostil de Tortas responde al intento observado, sin fijar todavía la identidad individual del atacante.')
+fact(106,'Los defensores deformados salen del agua','01:23:58.719','01:26:48.599','01:24:30.400',
+     'Mientras el grupo habla de lo sucedido, oye quejidos, pasos y chapoteos. Aparecen seres extraños a un lado y otros asoman desde el agua cercana. El director aclara que no sorprenden al grupo, que ya estaba pendiente de la amenaza. Comienza el enfrentamiento en la primera sala.',
+     ['Naór','Coyote','Tortas','Tentacol','Triel','Chopito','Profundos','Escondite de los Profundos'],
+     'Los defensores se conservan como habitantes hostiles del escondite, sin nombres personales ni una especie de bestiario fijada por las deformaciones.')
+fact(107,'Tentacol combate viendo a través de Chopito','01:26:48.600','01:28:48.519','01:28:14.920',
+     'Chopito entra en la botella y comunica telepáticamente que prestará sus ojos a Tentacol. Un enemigo se acerca por detrás, le alcanza con un primer golpe e intenta un segundo ataque con un brazo deformado que tiene dientes y una boca. El mordisco falla. Tentacol confirma que ve a través de su familiar mientras sus propios sentidos quedan limitados por esa percepción compartida.',
+     ['Tentacol','Chopito','Profundos'],
+     'La percepción compartida se diferencia del tentáculo mágico de Tentacol. La deformación del brazo pertenece al enemigo y no se atribuye a Chopito.')
+fact(108,'Coyote inspira a Naór después de fallar con el cuchillo','01:28:48.520','01:30:24.000','01:29:43.560',
+     'Coyote intenta apuñalar a un adversario y falla. Después concede inspiración bárdica a Naór mediante una provocación: le exige moverse o amenaza con llevarse al conejo. La ayuda queda disponible para que ella la use.',
+     ['Coyote','Naór','Profundos'],
+     'La amenaza de llevarse al conejo es la frase que acompaña a la inspiración; no se representa un secuestro, un traslado del niño o su presencia en esta cueva.')
+fact(109,'Los brazos astrales azules de Tortas golpean a los defensores','01:30:24.000','01:33:49.678','01:32:12.440',
+     'Tortas se orienta por la zona iluminada por Triel y golpea a uno de los seres que asoman del agua. Después vuelve a iluminarse de azul y manifiesta su figura y brazos astrales. La aparición alcanza también a enemigos cercanos, mientras el Anciano se dispone a cambiar de posición.',
+     ['Tortas','Triel','Profundos'],
+     'Los brazos y la apariencia astrales son una manifestación de Tortas. La referencia de la mesa a un genio o al poder absoluto no introduce a un ser separado ni confirma una naturaleza divina.')
+fact(110,'El rayo de Tentacol chamusca a dos enemigos y el tentáculo aporta frío','01:33:49.679','01:36:33.559','01:34:49.920',
+     'Tentacol se coloca siguiendo las indicaciones de Chopito y dirige un rayo contra dos adversarios que se encuentran juntos. Ambos quedan chamuscados. Manifiesta después su tentáculo y consigue un impacto crítico que inflige frío a uno de los enemigos.',
+     ['Tentacol','Chopito','Profundos'],
+     'El tentáculo invocado es un efecto mágico distinto del pulpo. Chamuscarlos no fija por sí solo la muerte de ambos en ese instante.')
+fact(111,'Triel distingue a los enemigos de los habitantes de Perlasal','01:36:33.560','01:37:52.519','01:37:41.360',
+     'Triel pregunta si debe golpear a esos seres o si son de Perlasal. Se aclara que la guía sirénida permanece junto al agua porque en tierra tendría que arrastrarse y el grupo le confirma que los atacantes no son sus amigos. Triel los apuñala y el director confirma que uno muere.',
+     ['Triel','Guía sirénida enviada por Maris','Perlasal','Profundos'],
+     'La guía aliada y los defensores hostiles son identidades distintas. Preguntar si son de Perlasal no identifica a todos los seres marinos como habitantes del mismo pueblo.')
+fact(112,'Naór se teletransporta y aparta de Tentacol a un atacante','01:37:52.520','01:39:32.718','01:39:19.920',
+     'Naór entra en furia y obtiene una posibilidad de teletransportarse a corta distancia. Evita volver al agua y se desplaza hasta un enemigo próximo a Tentacol. Lo agarra, utiliza el movimiento que le queda para llevárselo y lo deja entre ella y la roca, apartándolo de su compañero.',
+     ['Naór','Tentacol','Profundos'],
+     'La referencia humorística a teletransportarse a Kuroto no describe un viaje entre campañas. La resolución mueve a Naór; después utiliza un agarre y desplazamiento propios para mover al rival.')
+fact(113,'Chopito interviene y Coyote le brinda inspiración','01:39:32.719','01:42:44.799','01:42:28.119',
+     'Otro enemigo intenta golpear y morder a Coyote sin alcanzarlo. Chopito sale de la botella, entra en el agua y ataca a un adversario. Coyote vuelve a fallar con el cuchillo y decide apoyar al pulpo mediante inspiración bárdica, animando al gran y poderoso pulpito a acabar con el enemigo.',
+     ['Coyote','Chopito','Tentacol','Profundos'],
+     'La afirmación de Coyote de que los enemigos no tienen cerebro es un comentario táctico del jugador, no un diagnóstico confirmado. El ataque de Chopito no tiene una muerte individual inequívocamente atribuida en este intervalo.')
+fact(114,'Tortas y Tentacol mantienen el apoyo astral y a distancia','01:42:44.800','01:47:16.839','01:44:32.840',
+     'Tortas considera detenerse a escuchar otros movimientos en la oscuridad, pero opta por acercarse al combate y golpea con uno de sus brazos astrales azules; el siguiente ataque falla. Tentacol desplaza su tentáculo e intenta atacar con él, y después dispara dos descargas, de las que una alcanza al enemigo. El adversario retenido por Naór trata de hacerle soltarlo y consigue golpearla.',
+     ['Tortas','Tentacol','Naór','Chopito','Profundos'],
+     'El deseo de percibir más enemigos se discute sin producir una detección adicional confirmada. El agarre limita el desplazamiento del rival, sin impedir automáticamente todos sus ataques.')
+fact(115,'Triel abate otro defensor y Naór cae con el hacha sobre su presa','01:47:16.840','01:50:37.919','01:48:55.040',
+     'Triel recibe la indicación de atacar a los seres grandes y cubiertos de hongos, y otro de sus golpes mata a un defensor. Naór hiere al enemigo que había apartado y decide rematar la maniobra teletransportándose unos treinta pies por encima de él. El agarre termina al desplazarse ella sola. Cae con el hacha, impacta y aplasta al rival, recibiendo también parte del daño de caída. Después observa y manipula los dos trozos del cuerpo.',
+     ['Triel','Naór','Profundos'],
+     'La caída se resuelve con daño compartido aceptado en esta mesa; no se presenta como una regla general del teletransporte ni se atribuye a Naór transportar al enemigo con ella.')
+fact(116,'Tortas reúne los cadáveres y conserva una mano','01:50:37.920','01:55:19.319','01:54:05.599',
+     'Triel distribuye sus luces entre los compañeros y Chopito introduce una en el frasco. Coyote busca a los desaparecidos, pero no están en la primera sala. Tortas saca del agua un cadáver y reúne los cuerpos; el director confirma que están muertos. Naór le acerca el cuerpo dividido. El Anciano lamenta el destino de esas criaturas, separa una mano del cadáver partido y la guarda en su caparazón. Las luces se apagan al agotar su duración y Triel vuelve a crearlas antes de que continúen.',
+     ['Tortas','Triel','Chopito','Coyote','Naór','Profundos','Mano conservada por Tortas','Escondite de los Profundos'],
+     'La mano es un trofeo físico sin poder demostrado. No se identifica a los cadáveres con las sirenas secuestradas ni se transforma la broma sobre reparar el cuerpo en una resurrección.')
+fact(117,'Tres voces se oyen más allá del recodo y el idioma se corrige a Aquan','01:55:19.320','01:57:42.359','01:57:13.239',
+     'Tentacol llega a un recodo y escucha el eco de voces. Chopito lo insta a advertir al grupo y Tentacol transmite la noticia como indicación de su señor. Tortas distingue al menos tres voces, con dos discutiendo, aunque no comprende el motivo. El director nombra primero Auran, pero corrige expresamente el idioma a Aquan.',
+     ['Tentacol','Chopito','Tortas','Coyote','Escondite de los Profundos'],
+     'El conocimiento de Auran que Coyote declara no demuestra que comprenda esa conversación tras la corrección. Oír tres voces no equivale aún a localizar a tres cautivos.')
+fact(118,'La conversación exige sacrificios para resucitar a un dios','01:57:42.360','01:59:19.000','01:58:46.199',
+     'La escucha permite separar un gruñido de criatura de dos interlocutores que parecen mantener una relación de mando y servicio. Uno reclama más sacrificios para poder encontrar lo que buscan y añade que las sirenas tienen lo necesario para resucitar a su dios. Chopito interpreta por su cuenta que los sacrificios se hacen para él e insta a Tentacol a acercarse y ayudar.',
+     ['Tentacol','Chopito','Profundos','Escondite de los Profundos'],
+     'La intención y la necesidad del ritual son declaraciones de los interlocutores. No se identifica su dios con Chopito, el kraken o una deidad de otro contexto, ni se demuestra que pueda resucitarse con esos medios.',
+     'declaracion_personaje')
+fact(119,'El grupo sigue a Tentacol pese a la disputa sobre los sacrificios','01:59:19.000','02:01:16.919','01:59:26.639',
+     'Tentacol anuncia que su amo quiere celebrar los sacrificios y sigue avanzando. Naór trata de hacer intervenir a Triel porque puede haber alguien en peligro. La elfa no comparte de inmediato la alarma: recuerda un deporte de su ciudad en el que sacrifican al equipo perdedor. Naór acaba aceptando seguir para averiguar qué ocurre y el grupo se acerca con las luces.',
+     ['Tentacol','Chopito','Naór','Triel','Coyote','Tortas'],
+     'El comentario de Triel es un relato sobre su ciudad, sin una escena de juego o sacrificio ejecutada aquí. La voluntad de Chopito no obliga por sí sola a los otros compañeros a aceptar el culto.')
+fact(120,'Un islote con altar contiene una sirena atada y tres adversarios','02:01:16.920','02:02:54.479','02:02:19.880',
+     'Al doblar la esquina descubren un pequeño islote rodeado por una gran balsa de agua. Hay un humanoide cubierto de algas y con tentáculos en la barbilla, que parece de mayor rango que los defensores anteriores; el director descarta que sea un azotamentes. A su lado hay otro ser parecido a una sirena, aunque con rostro y especie distintos, y cerca se encuentra la criatura que gruñía. Sobre el altar yace una sirena atada que intenta moverse. Los presentes oyen al grupo y se giran para preguntar quiénes son.',
+     ['Naór','Tortas','Coyote','Triel','Tentacol','Chopito','Sacerdote de los Profundos','Sireno hechicero de los Profundos','Criatura tentacular del altar','Sirena cautiva del altar','Altar de los Profundos','Escondite de los Profundos'],
+     'Sacerdote y sireno hechicero son etiquetas editoriales de función integradas con el resto de la sesión; esta presentación no fija nombres personales. La cautiva no se identifica por nombre con Maris ni con ninguna compañera desaparecida.')
+fact(121,'Los oficiantes rechazan la divinidad de Chopito y ordenan atacar','02:02:54.480','02:04:22.439','02:03:38.199',
+     'Chopito se adelanta hablando en Aquan y llama fieles a los oficiantes, presentándose como el dios al que debían haber avisado de los sacrificios. Los dos lo miran sin reconocerlo como tal. Uno ordena acabar con el grupo y capturar a la rana por si sirve de sacrificio. Chopito rechaza el criterio del rito, propone sacrificar al grande y manda a Tentacol matarlo. Tentacol transmite que su señor quiere acabar con ellos y se inicia otro combate.',
+     ['Chopito','Tentacol','Profundos','Sacerdote de los Profundos','Sireno hechicero de los Profundos','Sirena cautiva del altar','Altar de los Profundos'],
+     'La rana parece referirse a Tentacol por el contexto, pero no se fija su especie por el insulto. La reacción hostil de los oficiantes no valida las pretensiones divinas del pulpo ni una relación de culto previa.')
+fact(122,'Tortas entra en el agua y se repliega en el caparazón','02:06:03.239','02:07:41.118','02:07:25.880',
+     'Tortas calcula la distancia al enemigo y se dispone a avanzar. El director corrige la presencia visual de sus brazos astrales: los del combate anterior ya han terminado y tendría que manifestarlos de nuevo. El Anciano entra en el agua, se aproxima y utiliza su acción para esconderse dentro del caparazón.',
+     ['Tortas','Profundos','Escondite de los Profundos'],
+     'La ficha mantenía un indicador del poder, pero la corrección de mesa impide afirmar que los brazos anteriores sigan activos. Encerrarse no lo vuelve inmune a los ataques.')
+fact(123,'La criatura del altar alcanza a Tortas con zarpas y dientes','02:07:41.119','02:09:28.598','02:09:18.280',
+     'La criatura del altar se acerca a Tortas y lo ataca con las zarpas. Supera la protección que le da el caparazón y alcanza el primer golpe. Después abre enormemente la cabeza y clava los dientes contra la concha, apretando. Tortas permanece dentro mientras sus compañeros se aproximan.',
+     ['Criatura tentacular del altar','Tortas','Altar de los Profundos'],
+     'El ataque se conserva como mordisco contra la concha; no demuestra que la criatura trague por completo a Tortas, lo mate o destruya el caparazón.')
+fact(124,'Triel y Coyote avanzan por el agua y él la inspira','02:09:28.599','02:10:44.470','02:10:34.520',
+     'Triel confirma que puede golpear a los adversarios y entra al agua para acercarse, aunque su movimiento se reduce por el terreno difícil. Coyote observa el peligro de Tortas, avanza lo que puede y concede inspiración bárdica a la elfa para que intervenga.',
+     ['Triel','Coyote','Tortas','Criatura tentacular del altar'],
+     'La inspiración queda declarada; su uso y el desenlace del combate se integran con las acciones posteriores de esta misma sesión.')
+
+
+def stage(title,text,*refs):
+    return {'titulo':title,'texto':text,'referencias':list(refs)}
+
+
+stages=[
+    stage('Un giro hacia la oscuridad',
+          'El rastro conduce al grupo contra un enorme muro submarino. Naór deja de impulsar a Tortas, pero no sabe frenar la inercia. El Anciano consigue virar hacia un túnel estrecho y entra rozando el caparazón. El trayecto continúa entre desniveles, con Triel celebrando la velocidad y Coyote mareado, mientras Tentacol y Chopito los alcanzan desde atrás. Emergen en una cueva oscura y húmeda donde el rastro continúa. Tras la confusión inicial, comprenden que han llegado a una cámara de aire. Chopito presta sus ojos a Tentacol y guía a Tortas tirando de sus barbas. Triel acaba creando luces para todos. En la primera sala encuentran restos mordidos de animales marinos, pero ninguna de las sirenas buscadas. Bajo el agua, Tortas distingue tres sombras que evitan la luz.',
+          '45-101','45-102','45-103','45-104'),
+    stage('Los habitantes hostiles del refugio',
+          'Naór empuja a Coyote al agua y algo intenta agarrarlo del pie. Él evita la presa y Tortas le advierte que salga: las sombras no parecen amistosas. Los quejidos y chapoteos anuncian la aparición de seres deformados a los lados de la sala. Chopito vuelve a la botella para permitir que Tentacol vea a través de él, mientras un enemigo ataca con un brazo terminado en una boca. Coyote falla con el cuchillo, pero anima a Naór con su inspiración. Tortas golpea y manifiesta sus brazos astrales azules. Tentacol chamusca a dos atacantes con un rayo y utiliza el frío de su tentáculo. Triel pregunta antes de atacar: los seres no son los amigos de Perlasal y la guía aliada se ha quedado en el agua. Sus golpes abaten a uno de los defensores.',
+          '45-105','45-106','45-107','45-108','45-109','45-110','45-111'),
+    stage('Un trofeo y otras voces',
+          'Naór entra en furia, se teletransporta hasta un atacante y lo arrastra lejos de Tentacol para enfrentarlo junto a la roca. Chopito entra en el agua para combatir y Coyote lo inspira, mientras Tortas y Tentacol mantienen sus golpes y descargas. Triel abate otro enemigo. Naór hiere al rival que había apresado y lo suelta al teletransportarse por encima de él; cae con el hacha y lo parte, sufriendo también el impacto. Terminado el enfrentamiento, Coyote busca sin encontrar a los desaparecidos. Tortas reúne los cadáveres, lamenta su suerte y conserva una mano del cuerpo dividido. Triel renueva las luces. Más allá de un recodo oyen tres voces. Tortas distingue una discusión, pero el idioma se aclara como Aquan tras una primera referencia errónea a Auran.',
+          '45-112','45-113','45-114','45-115','45-116','45-117'),
+    stage('El sacrificio que Chopito quiere reclamar',
+          'Entre los sonidos hay un gruñido de criatura y dos voces que parecen corresponder a un mando y su subordinado. Reclaman más sacrificios y dicen que las sirenas guardan lo necesario para resucitar a su dios. Chopito decide que los ritos se hacen para él y empuja a Tentacol a celebrarlos. Naór intenta que Triel intervenga porque alguien puede estar en peligro; la elfa recuerda, sin compartir de inmediato la alarma, un deporte de su ciudad que acaba con el sacrificio del equipo perdedor. El grupo sigue avanzando hasta un islote rodeado de agua. Allí los esperan un humanoide cubierto de algas y tentáculos en la barbilla, otro sirénido de aspecto diferente y la criatura que gruñía. Sobre el altar, una sirena atada intenta moverse.',
+          '45-118','45-119','45-120'),
+    stage('La concha bajo los dientes',
+          'Chopito se presenta en Aquan como el dios de los oficiantes, pero ninguno lo reconoce. La respuesta es una orden de atacar al grupo y capturar a la rana para otro sacrificio. El pulpo cambia de actitud: el rito no se hace como quiere y exige a Tentacol matar al adversario grande. Tortas calcula la distancia y entra en el agua. Sus brazos astrales anteriores ya se han extinguido, así que opta por refugiarse dentro del caparazón. La criatura del altar llega hasta él, lo alcanza con las zarpas y abre los dientes contra la concha, apretando sin que se narre una deglución completa. Triel y Coyote se acercan con dificultad por el agua. Coyote la anima con inspiración bárdica para que ayude al Anciano.',
+          '45-121','45-122','45-123','45-124')
+]
+
+histories=[]
+
+
+def history(name,kind,title,text,refs,new=False,description='',note=''):
+    histories.append({'nombre':name,'tipo':kind,'nueva':new,'descripcion':description,'nota':note,
+                      'etapas':[stage(title,text,*refs)]})
+
+
+history('Naór','personaje','El rastro y los saltos sobre la cueva',
+        'Naór sigue el rastro hacia el muro submarino y ayuda a impulsar el viaje sobre Tortas, aunque no ha aprendido a frenar. En la cueva empuja a Coyote al agua y descubre con sus compañeros la amenaza de los defensores. Durante el combate se teletransporta, arrastra a un atacante lejos de Tentacol y después cae sobre él con el hacha, partiéndolo a costa de recibir también daño. Ante las voces de los sacrificios intenta movilizar a Triel para proteger a quien esté en peligro.',
+        ['45-101','45-104','45-105','45-108','45-112','45-115','45-119'])
+history('Tortas','personaje','Brazos astrales y un recuerdo macabro',
+        'Tortas evita el muro y entra al túnel con un roce en el caparazón. En la cueva oscura se orienta con la ayuda de Chopito y las luces de Triel; descubre tres figuras bajo el agua y observa el intento de apresar a Coyote. Combate con sus brazos astrales azules y después reúne los cuerpos, de los que conserva una mano. Escucha voces tras otro recodo y entra en el agua ante el altar. Con el poder astral anterior ya extinguido se repliega en su concha, pero la criatura lo alcanza con zarpas y dientes.',
+        ['45-101','45-103','45-104','45-105','45-109','45-114','45-116','45-117','45-122','45-123'])
+history('Coyote','personaje','Inspirar entre los estanques',
+        'Coyote llega mareado a la cueva y Naór lo arroja al agua, donde evita que una criatura lo sujete del pie. Sus ataques iniciales con el cuchillo fallan, pero apoya a Naór y Chopito con inspiración bárdica. Busca a los desaparecidos sin hallarlos en la primera sala. Al comenzar la lucha del altar avanza por el agua hacia Tortas e inspira a Triel para que intervenga. La corrección del idioma oído a Aquan impide atribuirle comprensión por haber declarado conocer Auran.',
+        ['45-102','45-103','45-105','45-108','45-113','45-116','45-117','45-124'])
+history('Triel','personaje','Luces para una expedición submarina',
+        'Triel disfruta del viaje sobre Tortas y crea luces para guiar al grupo por la cámara de aire. Antes de atacar comprueba que los seres hostiles no son los habitantes aliados de Perlasal y abate a dos defensores durante el enfrentamiento. Distribuye las luces entre los compañeros y vuelve a crearlas cuando se extinguen. Su recuerdo de un juego sacrificial explica por qué no interpreta de inmediato los sacrificios como Naór. Ante el altar entra en el agua para ayudar a Tortas, animada por Coyote.',
+        ['45-101','45-103','45-111','45-115','45-116','45-119','45-124'])
+history('Tentacol','personaje','Los ojos y la voluntad de su maestro',
+        'Tentacol sigue al grupo con Chopito y comparte su visión para orientarse y combatir. Apartado un atacante por Naór, mantiene el apoyo con un rayo, descargas y su tentáculo frío. El eco de voces tras el recodo revela sacrificios y Tentacol transmite la interpretación de su amo, que los reclama para sí. Se aproxima al altar por voluntad de Chopito y anuncia la orden de acabar con sus oficiantes cuando estos rechazan al pulpo y quieren capturar a la rana.',
+        ['45-101','45-103','45-107','45-110','45-112','45-114','45-117','45-118','45-119','45-121'])
+history('Chopito','personaje','Un dios que los oficiantes no reconocen',
+        'Chopito guía a Tentacol y Tortas en la oscuridad, comparte su visión desde la botella y también entra en el agua para atacar. Coyote lo apoya con inspiración. Cuando oye hablar de sacrificios para resucitar a un dios, interpreta que están dedicados a él y hace avanzar a Tentacol. Se presenta en Aquan ante los oficiantes como su divinidad, pero estos no lo reconocen y ordenan atacar. El pulpo rechaza su manera de sacrificar y manda matar al adversario grande, sin que sus pretensiones queden confirmadas.',
+        ['45-101','45-103','45-107','45-110','45-113','45-116','45-117','45-118','45-119','45-121'])
+history('Profundos','faccion','Del escondite al altar',
+        'La exploración lleva al grupo a un refugio con restos mordidos de criaturas marinas, defendido por seres deformados que atacan desde el agua y desde los lados de la sala. Tras abatirlos, los viajeros oyen a dos interlocutores reclamar más sacrificios y afirmar que las sirenas poseen lo necesario para resucitar a su dios. En otro islote aparece una cautiva atada al altar. Los oficiantes rechazan la presentación de Chopito y mandan atacar al grupo y capturar otro posible sacrificio. La escena aporta una instalación y un rito concretos, sin demostrar todavía la identidad del dios con el kraken del relato de Maris.',
+        ['45-104','45-105','45-106','45-107','45-115','45-116','45-118','45-120','45-121'])
+history('Guía sirénida enviada por Maris','personaje','Un límite al salir del agua',
+        'La guía que acompaña al grupo permanece junto al agua durante el primer enfrentamiento porque tendría que arrastrarse para moverse por tierra. La pregunta de Triel permite distinguirla de los defensores deformados. Los huesos encontrados no identifican a sus compañeros desaparecidos y Tortas solo conjetura inicialmente que las tres sombras podrían ser quienes buscan.',
+        ['45-104','45-111'],True,
+        'Sirénida aliada enviada por Maris que acompaña la búsqueda de sus compañeros.',
+        'Identidad anónima distinta de Maris y de la sirena cautiva. No se afirma que sea la única superviviente ni se le asigna uno de los nombres aportados antes.')
+history('Escondite de los Profundos','lugar','Una cámara de aire entre túneles y estanques',
+        'Un muro submarino oculta el túnel por el que Tortas entra siguiendo la dirección del rastro de Naór. El paso desemboca en una cámara de aire húmeda y oscura, con zonas de tierra y agua. La primera sala contiene restos animales y defensores que evitan la luz. Tras el combate, un recodo conduce hacia el islote del altar, rodeado por una gran balsa y ocupado por los oficiantes, una criatura y una cautiva.',
+        ['45-101','45-102','45-104','45-106','45-116','45-117','45-120'],True,
+        'Refugio accesible por un túnel submarino que contiene una cámara de aire, estanques y un islote ritual.',
+        'Nombre editorial descriptivo. No es Perlasal ni se identifica con otras cuevas de la campaña por compartir agua y oscuridad.')
+history('Sacerdote de los Profundos','personaje','Sacrificios junto a la sirena',
+        'Un humanoide de aspecto marino, cubierto de algas y con tentáculos en la barbilla, ocupa el islote junto a una sirena atada. Parece de mayor rango que los defensores de la entrada. La discusión previa reclama más sacrificios y la resurrección de un dios, sin fijar toda la atribución de cada voz. Cuando Chopito se presenta como divinidad, los oficiantes no lo reconocen y ordenan atacar al grupo.',
+        ['45-118','45-120','45-121'],True,
+        'Oficiante de mayor rango aparente junto al altar, con algas sobre el cuerpo y tentáculos en la barbilla.',
+        'Sacerdote es una etiqueta editorial de función, sin nombre personal. El director descarta que sea un azotamentes; no se añade otra especie por semejanza.')
+history('Sireno hechicero de los Profundos','personaje','El acompañante de rostro extraño',
+        'Junto al oficiante y al altar aparece un ser semejante a una sirena, pero de cara distinta y descrito como de otra especie. Forma parte del grupo que observa a Chopito sin aceptarlo como dios y recibe a los viajeros con hostilidad. La presentación no le da nombre personal ni identifica inequívocamente qué frase de la discusión corresponde a su voz.',
+        ['45-118','45-120','45-121'],True,
+        'Ser acuático de rostro distinto al de los sirénidos aliados que acompaña al sacerdote del altar.',
+        'La etiqueta de hechicero integra su función con la continuación de la sesión; no se identifica automáticamente con un merro concreto del capítulo 29.')
+history('Criatura tentacular del altar','personaje','El gruñido junto al rito',
+        'El grupo oye un tercer sonido entre las voces, un gruñido constante de criatura. Al llegar al islote descubre al ser junto a los oficiantes. Cuando Tortas entra en el agua y se repliega en el caparazón, la criatura se acerca, lo alcanza con las zarpas y abre una enorme boca para apretar los dientes contra la concha. No se narra en esa acometida que lo trague o rompa su caparazón.',
+        ['45-118','45-120','45-122','45-123'],True,
+        'Criatura gruñidora que acompaña a los oficiantes del altar y ataca a Tortas con zarpas y dientes.',
+        'La descripción tentacular debe integrarse con la continuación. No se nombra una especie de bestiario ni se equipara a Chopito o al kraken.')
+history('Sirena cautiva del altar','personaje','Atada sobre el islote',
+        'Una sirena yace atada sobre el altar del islote e intenta moverse cuando llegan los viajeros. Los oficiantes acaban de discutir que necesitan más sacrificios y que las sirenas tienen algo necesario para resucitar a su dios. Su presencia concreta la amenaza, pero no explica aquí cuánto tiempo lleva prisionera ni su nombre o destino posterior.',
+        ['45-118','45-120','45-121'],True,
+        'Sirena encontrada atada y moviéndose sobre el altar del escondite.',
+        'No se identifica por nombre con Maris, con la guía aliada o con una de las cuatro personas enumeradas durante la búsqueda.')
+history('Altar de los Profundos','objeto','El lugar de la cautiva',
+        'El altar ocupa un islote rodeado de agua dentro del escondite. Una sirena permanece atada sobre él, flanqueada por dos oficiantes y una criatura. La conversación sobre sacrificios sitúa allí una amenaza inmediata, pero no demuestra por sí sola que el objeto posea poder mágico o haya resucitado a una divinidad.',
+        ['45-118','45-120','45-121'],True,
+        'Altar del islote interior donde el grupo encuentra una sirena atada.',
+        'Objeto ritual distinto del altar de los símbolos de Citlali. No se traslada identidad, poder o culto por compartir la palabra altar.')
+history('Mano conservada por Tortas','objeto','Un recuerdo del primer combate',
+        'Después de reunir los cadáveres de los defensores de la primera sala, Tortas se detiene ante el cuerpo que Naór ha partido con su caída. Lamenta el destino de las criaturas, separa una mano y la guarda en su caparazón antes de continuar. La procedencia queda documentada, sin que se le asigne poder, nombre personal del dueño o utilidad ritual.',
+        ['45-115','45-116'],True,
+        'Mano separada de un defensor muerto de la primera sala y guardada por Tortas en su caparazón.',
+        'Trofeo físico de un cadáver concreto. No se fusiona con otros restos obtenidos después de criaturas diferentes.')
+
+delivery={'bloque':2,'lectura_completa':True,'primer_segmento':'c002875','ultimo_segmento':'c005747',
+          'etapas':stages,'afirmaciones':facts,'historias_entidades':histories,
+          'misiones':[
+              'Seguir el rastro hacia el escondite: Tortas logra atravesar el túnel y Naór confirma que el rastro continúa por la cueva, donde el grupo encuentra una cámara de aire y zonas inundadas (45-101–45-104).',
+              'Buscar a los desaparecidos de Perlasal: los restos marinos y las tres sombras no los identifican. Tras el primer combate siguen ausentes, pero el grupo llega después a una sirena atada sobre un altar, aún sin nombre seguro (45-104–45-106, 45-111, 45-116, 45-120).',
+              'Atravesar la primera defensa: Tortas, Tentacol, Triel, Naór, Coyote y Chopito combaten a los habitantes deformados de la sala. El director confirma la muerte de los defensores y el grupo puede continuar (45-107–45-116).',
+              'Interrumpir el sacrificio y ayudar a Tortas: se descubren las voces, el plan declarado y la cautiva. La presentación de Chopito fracasa y el nuevo combate deja al Anciano bajo zarpas y dientes mientras Triel y Coyote se acercan (45-117–45-124).'
+          ],
+          'preguntas':[
+              '¿Qué poseen las sirenas que los oficiantes necesitan para resucitar a su dios y quién es esa divinidad? La conversación no lo identifica ni demuestra la eficacia del rito (45-118, 45-120–45-121).',
+              '¿A qué corresponde lo que los interlocutores esperan encontrar mediante más sacrificios? La conversación no nombra ese objetivo de forma completa (45-118).',
+              '¿Qué identidad tiene la sirena del altar y qué ha ocurrido con los demás desaparecidos? La cautiva no recibe nombre y los primeros cadáveres no son identificados como los compañeros buscados (45-104, 45-111, 45-116, 45-120).',
+              '¿Cómo saldrá Tortas de la presa de la criatura y se liberará a la cautiva? Las acciones posteriores de esta misma sesión deben integrar el desenlace, sin conservar este corte como misterio final (45-122–45-124).'
+          ],
+          'contradicciones':[
+              'La cueva tiene una gran cámara de aire y zonas inundadas. Los primeros desplazamientos y los sacrificios no se sitúan todos bajo el agua (45-102, 45-120, 45-122–45-124).',
+              'El idioma oído se llama primero Auran y se corrige expresamente a Aquan. La declaración de Coyote de conocer Auran no se toma como traducción garantizada de la conversación corregida (45-117–45-118).',
+              'Los cuerpos reunidos tras la primera lucha están muertos. La broma de Triel y Naór sobre unir el cuerpo con saliva no lo repara ni lo resucita (45-115–45-116).',
+              'La afirmación de Chopito de que los sacrificios son para él no es compartida por los oficiantes: no lo reconocen y ordenan atacar. No se confirma divinidad del pulpo ni identidad entre su culto declarado y el dios del rito (45-118–45-121).',
+              'La necesidad de resucitar a un dios es una declaración del enemigo. No identifica al dios con el kraken del relato de Maris ni prueba un sacrificio ya consumado de la cautiva (45-118, 45-120).',
+              'Los brazos astrales de Tortas se manifiestan durante la primera lucha y ya han terminado al empezar la segunda; el indicador visual de la ficha se corrige antes de avanzar. La criatura muerde la concha, sin deglución completa confirmada en esa acción (45-109, 45-122–45-123).',
+              'La referencia a teletransportarse a Kuroto es una broma de mesa, sin desplazamiento de personajes o evidencias entre campañas (45-112).'
+          ],
+          'nombres_dudosos':[
+              'Naór, Naor, Noor y variantes designan a la leonina. Bigotitos es el apelativo con que Tortas la llama; no se confunde con Leona o con Coyote (45-101, 45-104–45-105, 45-112, 45-115, 45-119).',
+              'Tortas y Torta son el Anciano tortuga. Triel, Trier, Tril y Tir corresponden a la elfa. Tenta y Tentacol son el viajero acompañado por Chopito (45-101–45-103, 45-109–45-111, 45-117, 45-122–45-124).',
+              'La guía sirénida aliada y la cautiva del altar permanecen separadas de Maris. La broma María Carmen no sustituye los nombres de las cuatro personas desaparecidas ni identifica a las sombras de la primera sala (45-104, 45-111, 45-120).',
+              'Sacerdote de los Profundos, sireno hechicero y criatura tentacular del altar son etiquetas descriptivas integrables con el resto del capítulo. No se fijan nombres propios o especies de bestiario por su aspecto (45-120–45-123).',
+              'La palabra rana en la orden de captura parece aludir a Tentacol, pero no establece su raza. Las comparaciones con genios o dioses en Tortas y Chopito siguen siendo manifestaciones o declaraciones, no identidades nuevas (45-109, 45-118, 45-121).',
+              'El altar de los Profundos es distinto del altar de los símbolos de Citlali. Los tentáculos de Chopito, el efecto frío de Tentacol y los rasgos del oficiante son elementos separados (45-107, 45-110, 45-120).'
+          ],
+          'continuidad':[
+              {'pregunta_id':'P29-001','nota':'La campaña deja de depender solo del relato de Maris: el grupo inspecciona una instalación con defensores, cautiva y oficiantes que reclaman sacrificios y resurrección de un dios. La conversación no identifica al dios con el kraken ni muestra aquí su crecimiento o localización.','referencias':['45-104','45-106','45-117','45-118','45-120','45-121']},
+              {'pregunta_id':'P29-003','nota':'El rito hostil no define la religión de Ivet ni se atribuye a Perlasal. El grupo distingue expresamente a su guía y a los habitantes aliados de los defensores del escondite.','referencias':['45-111','45-118','45-120']},
+              {'pregunta_id':'P41-010','nota':'Naór ya está realizando el viaje submarino y entra en el escondite. El medio concreto de respiración debe enlazarse con lo mostrado antes de este bloque; la cámara de aire no demuestra por sí sola respiración indefinida.','referencias':['45-101','45-102']},
+              {'pregunta_id':'P41-008','nota':'La telepatía y la visión compartida con Chopito se representan, pero no explican retrospectivamente la resistencia de Tentacol a la compulsión del bosque ni una divinidad protectora del pulpo.','referencias':['45-103','45-107','45-118','45-121']}
+          ]}
+
+assert len(rows)==1437 and rows[0]['id']=='c002875' and rows[-1]['id']=='c005747'
+assert len(facts)==24
+assert all(seconds(f['inicio'])<=seconds(f['evidencia_cue']['inicio'])<=seconds(f['fin']) for f in facts)
+write_json(ROOT/'borradores/45/entrega_2.json',delivery)
+print(f'Entrega 2: {len(facts)} hechos validados, {len(stages)} etapas y {len(histories)} historias; '+str(sum(len(s['texto'].split()) for s in stages))+' palabras de relato.')

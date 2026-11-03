@@ -12,7 +12,7 @@ Base para revisar equivalencia: [40-026](../capitulos/40.md), [40-035](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 44.
+Relato revisado hasta el capítulo 45.
 
 ### De los restos a manos de Walulu
 

@@ -1,5 +1,5 @@
 {
-  "revisado_hasta": 44,
+  "revisado_hasta": 45,
   "entidades": {
     "Anillo familiar de Erendriel": [
       {
@@ -330,6 +330,16 @@
           "29-008",
           "29-009",
           "29-019"
+        ]
+      },
+      {
+        "titulo": "Contacto desde el lago de Iktan",
+        "texto": "Coyote introduce la perla en el agua y su interior toma aspecto de un mar con remolino. Allí aparece Maris, que informa del nuevo ataque y busca una enviada capaz de ayudar al grupo. El objeto recupera así su función de contacto: la llegada posterior a las ruinas se hace mediante una guía y túneles físicos, no atravesando un portal abierto en la perla.",
+        "referencias": [
+          "45-012",
+          "45-013",
+          "45-015",
+          "45-019"
         ]
       }
     ],
@@ -686,6 +696,56 @@
           "44-049",
           "44-053",
           "44-055"
+        ]
+      }
+    ],
+    "Altar de los Profundos": [
+      {
+        "titulo": "El lugar de la cautiva",
+        "texto": "El altar ocupa un islote rodeado de agua dentro del escondite. Una sirena permanece atada sobre él, flanqueada por dos oficiantes y una criatura. La conversación sobre sacrificios sitúa allí una amenaza inmediata, pero no demuestra por sí sola que el objeto posea poder mágico o haya resucitado a una divinidad.",
+        "referencias": [
+          "45-045",
+          "45-047",
+          "45-048"
+        ]
+      },
+      {
+        "titulo": "La magia que permanece",
+        "texto": "Ante el altar, un sacerdote prepara el sacrificio de la sirena que los aventureros consiguen liberar. Después Tentacol coloca junto a Chopito al oficiante inconsciente y el pulpo lo ejecuta. Naór detecta una intensa concentración mágica en el altar y un resplandor extendido por el agua, como una consagración a una criatura desconocida. Nadie lo destruye ni desactiva en escena.",
+        "referencias": [
+          "45-052",
+          "45-068",
+          "45-069",
+          "45-071",
+          "45-072"
+        ]
+      }
+    ],
+    "Mano conservada por Tortas": [
+      {
+        "titulo": "Un recuerdo del primer combate",
+        "texto": "Después de reunir los cadáveres de los defensores de la primera sala, Tortas se detiene ante el cuerpo que Naór ha partido con su caída. Lamenta el destino de las criaturas, separa una mano y la guarda en su caparazón antes de continuar. La procedencia queda documentada, sin que se le asigne poder, nombre personal del dueño o utilidad ritual.",
+        "referencias": [
+          "45-042",
+          "45-043"
+        ]
+      }
+    ],
+    "Perla hallada en el escondite": [
+      {
+        "titulo": "El hallazgo de Tentacol",
+        "texto": "Tentacol registra un cuerpo del escondite menos destrozado que los demás y encuentra una perla. No se describen propiedades, precio ni un uso posterior durante la salida o la audiencia en Perlasal.",
+        "referencias": [
+          "45-070"
+        ]
+      }
+    ],
+    "Fragmento del rostro de la criatura del altar": [
+      {
+        "titulo": "Un recuerdo del daño al caparazón",
+        "texto": "Tras matar con sus puños astrales a la criatura del altar, Tortas arranca un fragmento de su rostro y continúa golpeando el cadáver mientras se queja del caparazón. La pieza se conserva como trofeo, sin propiedades mágicas o uso posterior demostrados.",
+        "referencias": [
+          "45-067"
         ]
       }
     ]

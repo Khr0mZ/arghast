@@ -8,11 +8,11 @@ Hermana elfa de Eldrat. No se identifica con la elfa pálida anónima del capít
 
 Etiquetas agrupadas: Triel (elfa hermana, grafía provisional).
 
-Base para revisar equivalencia: [14-001](../capitulos/14.md), [31-006](../capitulos/31.md).
+Base para revisar equivalencia: [14-001](../capitulos/14.md), [31-006](../capitulos/31.md), [45-014](../capitulos/45.md), [45-017](../capitulos/45.md), [45-019](../capitulos/45.md), [45-022](../capitulos/45.md), [45-024](../capitulos/45.md), [45-026](../capitulos/45.md), [45-027](../capitulos/45.md), [45-028](../capitulos/45.md), [45-030](../capitulos/45.md), [45-038](../capitulos/45.md), [45-042](../capitulos/45.md), [45-043](../capitulos/45.md), [45-046](../capitulos/45.md), [45-051](../capitulos/45.md), [45-055](../capitulos/45.md), [45-060](../capitulos/45.md), [45-065](../capitulos/45.md), [45-068](../capitulos/45.md), [45-070](../capitulos/45.md), [45-078](../capitulos/45.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 44.
+Relato revisado hasta el capítulo 45.
 
 ### La hermana que pelea espalda con espalda
 
@@ -43,6 +43,12 @@ Fuentes: [40-002 · La enfermedad de Triel y el encargo de Leona](../capitulos/4
 Admira los brazos verdes con los que Tortas lleva al goliat y le pide aprender. También cura a Eldrat y ayuda a buscar compañeros para la caza del dragón. Después ocupa la piedra sagrada e intenta meditar para conseguir el mismo poder. Los vecinos la miran con disgusto y su hermano la aparta. No obtiene brazos astrales ni se demuestra que el soporte tenga poderes.
 
 Fuentes: [40-036 · Brazos astrales de Tortas y deseo de aprender de Triel](../capitulos/40.md) · 02:25:53.120 · [40-038 · Leona recibe trato de futura líder y los hermanos buscan aliados](../capitulos/40.md) · 02:33:15.520 · [40-042 · Triel ocupa la piedra sagrada y Eldrat la aparta](../capitulos/40.md) · 02:48:50.319.
+
+### La apnea, las luces y los dos combates
+
+Triel sale del lago con un pez tras practicar la apnea. Las manos arrugadas no prueban una transformación; obtiene el medio real de respirar cuando Naór acerca a la guía para que también la bese. Disfruta del recorrido por las corrientes y de la velocidad de Tortas. En la cueva aporta luces, pregunta cómo distinguir a los aliados y combate a los defensores deformados. En la segunda lucha recibe heridas, mata al enemigo que la atacaba en el agua y ayuda mágicamente a Naór; Coyote consigue curarla después de un primer intento que no alcanzaba. Su propuesta de atacar a la cautiva es detenida y no se ejecuta. Guarda un hueso para su hermano, sin entregárselo en el vídeo. Al terminar la audiencia se interesa por un caballo de cola marina y pregunta si puede probarlo. La monta se representa posteriormente en el rol escrito, no en el cierre del vídeo.
+
+Fuentes: [45-014 · Triel sale del lago y sus prácticas no le dan respiración acuática](../capitulos/45.md) · 00:32:35.440 · [45-017 · Naór hace que Triel reciba el mismo medio de respiración](../capitulos/45.md) · 00:40:23.119 · [45-019 · El lago conduce por una gruta de corrientes hasta el mar](../capitulos/45.md) · 00:44:28.200 · [45-022 · Coyote reúne a todos para priorizar la búsqueda](../capitulos/45.md) · 00:52:24.960 · [45-024 · La guía da cuatro nombres de compañeros desaparecidos](../capitulos/45.md) · 00:59:14.760 · [45-026 · Se acercan cuatro tiburones y el grupo decide marcharse](../capitulos/45.md) · 01:02:46.480 · [45-027 · Naór impulsa a Tortas y todos escapan de los tiburones](../capitulos/45.md) · 01:03:21.079 · [45-028 · Tortas vira hacia el túnel y se raspa el caparazón](../capitulos/45.md) · 01:06:44.119 · [45-030 · Chopito guía a quienes no ven y Triel aporta luces](../capitulos/45.md) · 01:15:03.440 · [45-038 · Triel distingue a los enemigos de los habitantes de Perlasal](../capitulos/45.md) · 01:36:33.560 · [45-042 · Triel abate otro defensor y Naór cae con el hacha sobre su presa](../capitulos/45.md) · 01:47:16.840 · [45-043 · Tortas reúne los cadáveres y conserva una mano](../capitulos/45.md) · 01:50:37.920 · [45-046 · El grupo sigue a Tentacol pese a la disputa sobre los sacrificios](../capitulos/45.md) · 01:59:19.000 · [45-051 · Triel y Coyote avanzan por el agua y él la inspira](../capitulos/45.md) · 02:09:28.599 · [45-055 · La criatura del altar aturde a Naór y surgen refuerzos del agua](../capitulos/45.md) · 02:18:14.240 · [45-060 · Triel mata al enemigo que la atacaba en el agua](../capitulos/45.md) · 02:34:13.359 · [45-065 · Triel ayuda a Naór y Coyote cura a Triel](../capitulos/45.md) · 02:47:05.880 · [45-068 · La sirena cautiva es liberada y necesita ayuda para salir](../capitulos/45.md) · 02:53:25.760 · [45-070 · Tentacol encuentra una perla y los compañeros se llevan recuerdos](../capitulos/45.md) · 02:57:37.800 · [45-078 · La audiencia acaba entre salmos y la curiosidad de Triel](../capitulos/45.md) · 03:14:57.200.
 
 ## Registros y evidencias
 
@@ -949,4 +955,244 @@ Tipo: `declaracion_personaje`.
 Naór reconoce a Blink, que entró por los tejados tras observar la aldea desde el aire. Ambas van al festival con Leo. Naór advierte que una criatura ronda los alrededores: la describe como una serpiente verde alada. Atribuye a Triel la explicación de que es un dragón, pero ella niega que existan los dragones. Blink no declara haber encontrado esa amenaza durante su viaje.
 
 La negación pertenece a Naór: no modifica la naturaleza de criaturas documentadas. No se da nombre propio ni prueba para fusionar al dragón con Clodidrax.
+
+## [45-001 · Los viajeros preparan la salida de Iktan hacia Perlasal](../capitulos/45.md) · 00:00:00.640
+
+Tipo: `declaracion_personaje`.
+
+Tentacol relata que ha buscado seguidores cerca de Iktan y hablado con Naór y Leo sobre ir a Perlasal. Naór cuenta sus intentos de superar el miedo al agua con Coyote, Tortas y Triel. Coyote quiere regresar a la ciudad submarina y alejarse de Iktan. Tortas recuerda sus esfuerzos por resolver cómo viajar bajo el agua y los brebajes de Coyote que le recordaron a Ilikar.
+
+Los recuerdos aluden a lo sucedido entre sesiones, sin volver a representar cada práctica. Llamar antiguo alumno a Ilikar no demuestra que Tortas conozca un desenlace de la batalla naval o que Ilikar haya muerto.
+
+## [45-014 · Triel sale del lago y sus prácticas no le dan respiración acuática](../capitulos/45.md) · 00:32:35.440
+
+Tipo: `hecho_confirmado`.
+
+Una figura sale del agua: es Triel, que llevaba tiempo practicando y trae un pez. Naór intenta cogerlo para comerlo. La elfa cree estar cerca de aprender a respirar bajo el agua y explica su método de contener el aire sin soltar burbujas; Tortas lo prueba. Coyote insinúa que permanecer en el agua la transformará y hará olvidar la respiración en tierra, y ella decide salir.
+
+Las manos arrugadas de Triel no prueban una transformación acuática. El consejo de Coyote es una broma o engaño, no una regla confirmada del mundo; las prácticas de apnea no conceden aquí branquias.
+
+## [45-017 · Naór hace que Triel reciba el mismo medio de respiración](../capitulos/45.md) · 00:40:23.119
+
+Tipo: `hecho_confirmado`.
+
+Naór agarra del tobillo a la sirénida y la acerca a Triel. La guía besa a la elfa, que responde, y también le aparecen escamas. Triel queda incorporada al grupo que se dispone a descender.
+
+Triel participa después en el viaje submarino. No se presume por semejanza que sea la chica de pelo azul autorizada antes a recoger a Leo.
+
+## [45-018 · La guía pide buscar su escuadrón y Naór se aferra a Tortas](../capitulos/45.md) · 00:41:24.720
+
+Tipo: `hecho_confirmado`.
+
+Antes de ir a Perlasal, la guía pide encontrar a sus compañeros, amenazados por la vigilancia de los Profundos. Naór teme sumergirse pese a poder respirar y se aferra al caparazón de Tortas. Tentacol traduce las palabras tranquilizadoras de Chopito. El monje reacciona a una mención de enemigos y el grupo se pone en marcha.
+
+Leo permanece en el colegio; una broma de la mesa sobre que se ahoga no lo traslada a la expedición. El temor de Naór no implica pérdida del efecto respiratorio.
+
+## [45-019 · El lago conduce por una gruta de corrientes hasta el mar](../capitulos/45.md) · 00:44:28.200
+
+Tipo: `hecho_confirmado`.
+
+El grupo sigue a la sirénida por un lago extremadamente profundo. Antes de llegar al fondo entran por una gruta lateral y las fuertes corrientes los impulsan durante un trayecto largo hasta un espacio abierto que parece el mar, con ruinas antiguas bajo el agua. La guía advierte que es una zona controlada por los Profundos. Naór recuerda al fin usar su nueva respiración y Chopito trata de abrirle los ojos; Triel disfruta nadando alrededor.
+
+Se narra una conexión física por túneles y corrientes, sin duración precisa o teletransporte. La salida no equivale a haber entrado en Perlasal y las ruinas aún no son el escondite del altar.
+
+## [45-022 · Coyote reúne a todos para priorizar la búsqueda](../capitulos/45.md) · 00:52:24.960
+
+Tipo: `hecho_confirmado`.
+
+Mientras Triel confunde la búsqueda con encontrar Perlasal y Tortas lleva a Naór de un lado a otro, Coyote reúne a los compañeros. Explica que ayudar a la guía a encontrar a su escuadrón es la prioridad y una manera de ser bien recibidos en la ciudad. Deciden permanecer juntos para investigar.
+
+Ser bien recibidos es la expectativa de Coyote, no una autorización oficial de entrada. Los equívocos del grupo no representan una llegada o visita a Perlasal.
+
+## [45-024 · La guía da cuatro nombres de compañeros desaparecidos](../capitulos/45.md) · 00:59:14.760
+
+Tipo: `declaracion_personaje`.
+
+Triel dice haber encontrado gente con cola, aletas y una gran boca dentada; los otros sospechan tiburones y piden agarrarse a Tortas. Antes de salir, Tortas pregunta los nombres de los compañeros de la guía. Ella enumera Alfira, Zamuria, Jariora y María Antonieta.
+
+Las grafías de los nombres son provisionales. La enumeración no identifica a una cautiva posterior con ninguna de esas cuatro personas ni confirma quién sigue vivo. Los peces descritos por Triel no son miembros del escuadrón.
+
+## [45-026 · Se acercan cuatro tiburones y el grupo decide marcharse](../capitulos/45.md) · 01:02:46.480
+
+Tipo: `hecho_confirmado`.
+
+Triel vuelve a señalar las figuras y el director muestra cuatro tiburones acercándose. Los viajeros piden agarrarse al caparazón de Tortas y deciden alejarse por el rastro. Tentacol no sube porque puede moverse más deprisa por su cuenta.
+
+La cercanía entre el grito y la llegada no prueba que Tortas haya creado o invocado a los tiburones. No se inicia un combate contra ellos ni se identifican con los compañeros de la guía.
+
+## [45-027 · Naór impulsa a Tortas y todos escapan de los tiburones](../capitulos/45.md) · 01:03:21.079
+
+Tipo: `hecho_confirmado`.
+
+Naór entra en furia, se agarra a Tortas y utiliza sus piernas para impulsarlo hacia el norte por el rastro. Tras una tirada de Atletismo, el director fija la velocidad en sesenta y cinco pies. Tentacol recoge a Chopito y los sigue a gran velocidad. Los tiburones se quedan atrás y una escena humorística los muestra volviéndose entre sí. Naór vuelve a cerrar los ojos mientras mantiene el rastreo; al final se piden percepciones a Coyote y Tortas.
+
+El grupo deja atrás a los tiburones sin un combate contra ellos ni bajas representadas. La velocidad es la resolución particular de la mesa, no un vehículo o poder de rastreo nuevo.
+
+## [45-028 · Tortas vira hacia el túnel y se raspa el caparazón](../capitulos/45.md) · 01:06:44.119
+
+Tipo: `hecho_confirmado`.
+
+El rastro que Naór sigue conduce hacia un enorme muro submarino. Ella deja de impulsar el avance, pero no sabe frenar la inercia. Tortas consigue virar y descubre un pequeño túnel en la pared. Entra con una maniobra ajustada que le raspa el caparazón y sigue por un paso de subidas y bajadas, mientras Triel disfruta del trayecto. Tentacol y Chopito los siguen con más calma, los alcanzan y preguntan al Anciano si se ha hecho daño.
+
+El rastro procede de la magia residual de las armas investigada antes, no de un olor personal acreditado de Maris. Las comparaciones con vehículos y películas son bromas y no embarcaciones nuevas.
+
+## [45-029 · El túnel desemboca en una cámara de aire oscura](../capitulos/45.md) · 01:11:56.760
+
+Tipo: `hecho_confirmado`.
+
+El grupo sale a una cueva marina oscura y húmeda. Naór olfatea y confirma que el rastro continúa por esa zona, sin intensificarse mucho. Tras una confusión entre los viajeros, el director aclara que han emergido del agua a una gran cámara de aire dentro de la cueva submarina. Coyote acusa el mareo del viaje y Naór salta a tierra.
+
+El entorno combina tierra, aire y agua: no se sitúa todo el refugio bajo el agua ni se infiere un final de la respiración acuática otorgada previamente.
+
+## [45-030 · Chopito guía a quienes no ven y Triel aporta luces](../capitulos/45.md) · 01:15:03.440
+
+Tipo: `hecho_confirmado`.
+
+Chopito se coloca sobre Tentacol para guiarlo y después tira de las barbas de Tortas con sus ventosas hasta llevarlo a tierra. Tortas considera usar visión astral, pero el coste y la duración provocan dudas. Tentacol ofrece que su maestro guíe a todos y Triel termina creando pequeñas luces para iluminar la cueva. Coyote aprovecha la oscuridad para tocar a Tentacol; este lo reprende y transmite la protesta de Chopito, que se proclama el dios al que debe respetarse.
+
+La visión astral se debate sin quedar confirmada como una capacidad empleada para iluminar toda la cueva. Las pretensiones religiosas de Chopito son suyas y no una divinidad demostrada.
+
+## [45-031 · Los restos marinos y tres sombras alertan al grupo](../capitulos/45.md) · 01:19:29.040
+
+Tipo: `hecho_confirmado`.
+
+Naór y Chopito encuentran huesos y cadáveres mordidos de criaturas marinas, sin restos identificables de las sirenas que buscan. El lugar parece usado como refugio o descanso por una o varias criaturas. Naór arroja un hueso al agua. Tortas mete la cabeza y ve tres figuras que se apartan rápidamente de la luz de Triel y desaparecen en la oscuridad. Interpreta que podrían ser los compañeros de la sirena, aunque recuerda que le habían hablado de cuatro.
+
+La conjetura de Tortas no identifica a las sombras con los desaparecidos. La ausencia de restos sirénidos no prueba por sí sola que todos estén vivos ni que hayan salido de la cueva.
+
+## [45-033 · Los defensores deformados salen del agua](../capitulos/45.md) · 01:23:58.719
+
+Tipo: `hecho_confirmado`.
+
+Mientras el grupo habla de lo sucedido, oye quejidos, pasos y chapoteos. Aparecen seres extraños a un lado y otros asoman desde el agua cercana. El director aclara que no sorprenden al grupo, que ya estaba pendiente de la amenaza. Comienza el enfrentamiento en la primera sala.
+
+Los defensores se conservan como habitantes hostiles del escondite, sin nombres personales ni una especie de bestiario fijada por las deformaciones.
+
+## [45-036 · Los brazos astrales azules de Tortas golpean a los defensores](../capitulos/45.md) · 01:30:24.000
+
+Tipo: `hecho_confirmado`.
+
+Tortas se orienta por la zona iluminada por Triel y golpea a uno de los seres que asoman del agua. Después vuelve a iluminarse de azul y manifiesta su figura y brazos astrales. La aparición alcanza también a enemigos cercanos, mientras el Anciano se dispone a cambiar de posición.
+
+Los brazos y la apariencia astrales son una manifestación de Tortas. La referencia de la mesa a un genio o al poder absoluto no introduce a un ser separado ni confirma una naturaleza divina.
+
+## [45-038 · Triel distingue a los enemigos de los habitantes de Perlasal](../capitulos/45.md) · 01:36:33.560
+
+Tipo: `hecho_confirmado`.
+
+Triel pregunta si debe golpear a esos seres o si son de Perlasal. Se aclara que la guía sirénida permanece junto al agua porque en tierra tendría que arrastrarse y el grupo le confirma que los atacantes no son sus amigos. Triel los apuñala y el director confirma que uno muere.
+
+La guía aliada y los defensores hostiles son identidades distintas. Preguntar si son de Perlasal no identifica a todos los seres marinos como habitantes del mismo pueblo.
+
+## [45-042 · Triel abate otro defensor y Naór cae con el hacha sobre su presa](../capitulos/45.md) · 01:47:16.840
+
+Tipo: `hecho_confirmado`.
+
+Triel recibe la indicación de atacar a los seres grandes y cubiertos de hongos, y otro de sus golpes mata a un defensor. Naór hiere al enemigo que había apartado y decide rematar la maniobra teletransportándose unos treinta pies por encima de él. El agarre termina al desplazarse ella sola. Cae con el hacha, impacta y aplasta al rival, recibiendo también parte del daño de caída. Después observa y manipula los dos trozos del cuerpo.
+
+La caída se resuelve con daño compartido aceptado en esta mesa; no se presenta como una regla general del teletransporte ni se atribuye a Naór transportar al enemigo con ella.
+
+## [45-043 · Tortas reúne los cadáveres y conserva una mano](../capitulos/45.md) · 01:50:37.920
+
+Tipo: `hecho_confirmado`.
+
+Triel distribuye sus luces entre los compañeros y Chopito introduce una en el frasco. Coyote busca a los desaparecidos, pero no están en la primera sala. Tortas saca del agua un cadáver y reúne los cuerpos; el director confirma que están muertos. Naór le acerca el cuerpo dividido. El Anciano lamenta el destino de esas criaturas, separa una mano del cadáver partido y la guarda en su caparazón. Las luces se apagan al agotar su duración y Triel vuelve a crearlas antes de que continúen.
+
+La mano es un trofeo físico sin poder demostrado. No se identifica a los cadáveres con las sirenas secuestradas ni se transforma la broma sobre reparar el cuerpo en una resurrección.
+
+## [45-046 · El grupo sigue a Tentacol pese a la disputa sobre los sacrificios](../capitulos/45.md) · 01:59:19.000
+
+Tipo: `hecho_confirmado`.
+
+Tentacol anuncia que su amo quiere celebrar los sacrificios y sigue avanzando. Naór trata de hacer intervenir a Triel porque puede haber alguien en peligro. La elfa no comparte de inmediato la alarma: recuerda un deporte de su ciudad en el que sacrifican al equipo perdedor. Naór acaba aceptando seguir para averiguar qué ocurre y el grupo se acerca con las luces.
+
+El comentario de Triel es un relato sobre su ciudad, sin una escena de juego o sacrificio ejecutada aquí. La voluntad de Chopito no obliga por sí sola a los otros compañeros a aceptar el culto.
+
+## [45-047 · Un islote con altar contiene una sirena atada y tres adversarios](../capitulos/45.md) · 02:01:16.920
+
+Tipo: `hecho_confirmado`.
+
+Al doblar la esquina descubren un pequeño islote rodeado por una gran balsa de agua. Hay un humanoide cubierto de algas y con tentáculos en la barbilla, que parece de mayor rango que los defensores anteriores; el director descarta que sea un azotamentes. A su lado hay otro ser parecido a una sirena, aunque con rostro y especie distintos, y cerca se encuentra la criatura que gruñía. Sobre el altar yace una sirena atada que intenta moverse. Los presentes oyen al grupo y se giran para preguntar quiénes son.
+
+Sacerdote y hechicero acuático son etiquetas descriptivas de función, sin nombres personales o especies de bestiario fijados. La cautiva no se identifica por nombre con Maris o con una de las personas desaparecidas.
+
+## [45-051 · Triel y Coyote avanzan por el agua y él la inspira](../capitulos/45.md) · 02:09:28.599
+
+Tipo: `hecho_confirmado`.
+
+Triel confirma que puede golpear a los adversarios y entra al agua para acercarse, aunque su movimiento se reduce por el terreno difícil. Coyote observa el peligro de Tortas, avanza lo que puede y concede inspiración bárdica a la elfa para que intervenga.
+
+La inspiración queda declarada; su uso y el desenlace del combate se integran con las acciones posteriores de esta misma sesión.
+
+## [45-055 · La criatura del altar aturde a Naór y surgen refuerzos del agua](../capitulos/45.md) · 02:18:14.240
+
+Tipo: `hecho_confirmado`.
+
+La criatura tentacular ignora a Tortas y corre hacia Naór, que ha pasado de largo en dirección al sacerdote. Tortas falla el ataque de oportunidad. El monstruo abre la boca, alza sus tentáculos y grita; Naór no supera la salvación, tampoco tras repetirla, y queda aturdida. Después emergen otros enemigos del agua y uno hiere a Triel con ataques y mordisco.
+
+El director aclara más adelante que el grito no es un conjuro ni depende de concentración. La repetición de la salvación no elimina el aturdimiento en este turno.
+
+## [45-056 · Coyote mantiene su apariencia majestuosa y repele a un enemigo con susurros](../capitulos/45.md) · 02:21:18.760
+
+Tipo: `hecho_confirmado`.
+
+Triel se defiende en el agua. Coyote llega a la orilla bajo una apariencia y un aura de gracia que compara con las de un dios. El director le recuerda que ya mantiene un efecto de concentración. Elige unos susurros que infligen trece puntos de daño y obligan al adversario a apartarse, conservando su efecto anterior.
+
+La representación majestuosa no lo identifica como deidad. El aturdimiento de Naór procede del otro monstruo y no se disipa dañando a este sireno o interrumpiendo su concentración.
+
+## [45-060 · Triel mata al enemigo que la atacaba en el agua](../capitulos/45.md) · 02:34:13.359
+
+Tipo: `hecho_confirmado`.
+
+Triel recibe nuevos golpes y un mordisco del enemigo acuático, mantiene la luz que el grupo necesita y responde con ataques y patadas. El director confirma que mata a ese rival y avanza para reunirse con los demás.
+
+La luz no desaparece pese a la discusión sobre las tiradas. La descripción de los golpes no acredita una amputación ni convierte las bromas sobre sus heridas en un diagnóstico.
+
+## [45-061 · Los tres rivales resisten la orden de Coyote](../capitulos/45.md) · 02:36:21.160
+
+Tipo: `hecho_confirmado`.
+
+Coyote se acerca y lanza a tercer nivel una orden de alto sobre tres enemigos para impedir sus movimientos y acciones. Todos superan las salvaciones. Después busca curar a Triel, pero reconoce que está demasiado lejos y no llega a hacerlo en ese momento.
+
+La intención de parar a tres adversarios no es un éxito de control. La propuesta de curación no se cuenta como curación ya recibida por Triel.
+
+## [45-065 · Triel ayuda a Naór y Coyote cura a Triel](../capitulos/45.md) · 02:47:05.880
+
+Tipo: `hecho_confirmado`.
+
+Triel se acerca para apartar de su amiga al enemigo que sigue activo y lanza magia que permite a Naór realizar otro ataque. Coyote, ya liberado de la orden tras caer inconsciente quien la impuso, llega hasta Triel y la cura con un conjuro de tercer nivel. Después va hacia la cautiva y comienza a desatarla.
+
+La referencia inicial a amiga Leona se corrige por la llamada a Naór y la continuidad de la leonina del grupo. La broma sobre un órgano ausente no documenta una amputación real.
+
+## [45-068 · La sirena cautiva es liberada y necesita ayuda para salir](../capitulos/45.md) · 02:53:25.760
+
+Tipo: `hecho_confirmado`.
+
+Triel se acerca con las espadas y propone matar también a la sirena, pero los demás la detienen. Coyote termina de desatar a la cautiva, se presenta y explica que han venido a ayudar. Ella agradece el rescate y pide que la asistan porque la cola herida le impide nadar. Coyote se la carga a la espalda con dificultad por su poca fuerza y la aproxima al agua.
+
+La cautiva no recibe un nombre propio en este tramo y no se identifica con Maris. La amenaza de Triel no llega a ejecutarse ni implica la muerte de la rescatada.
+
+## [45-070 · Tentacol encuentra una perla y los compañeros se llevan recuerdos](../capitulos/45.md) · 02:57:37.800
+
+Tipo: `hecho_confirmado`.
+
+Triel felicita el golpe de Tortas y guarda un hueso que encuentra para llevárselo a su hermano. Tentacol registra un cuerpo menos destrozado y encuentra una perla. Examina también al rival con aspecto de pez, pero su investigación solo permite reconocerlo como tal. El director señala que se parece, sin ser idéntico, a los humanoides sirena; no lleva más objetos.
+
+No se atribuyen a la perla propiedades mágicas, precio ni una identidad con la perla de comunicación de Coyote. La investigación no fija una especie de bestiario ni muestra la entrega del hueso a Eldrat.
+
+## [45-073 · El grupo sale con la rescatada y llega a Perlasal](../capitulos/45.md) · 03:04:06.600
+
+Tipo: `hecho_confirmado`.
+
+Los compañeros salen de la caverna y se reúnen con la otra sirena que esperaba fuera. Ambas agradecen la ayuda y los guían nadando hasta Perlasal, un valle submarino de corales coloridos y construcciones de coral. Los soldados los paran con recelo, pero un gesto de las sirenas permite el paso.
+
+El rescate concluye con la salida y llegada a la población, pero no se muestra la curación de la cola. La acompañante que espera fuera no recibe nombre en este tramo.
+
+## [45-078 · La audiencia acaba entre salmos y la curiosidad de Triel](../capitulos/45.md) · 03:14:57.200
+
+Tipo: `hecho_confirmado`.
+
+Ivet vuelve al altar del templo para recitar salmos en Aquan ante su pueblo y permite a los visitantes permanecer. Tortas sigue buscando una piedra que le guste. Triel se aparta hacia dos sirenos que llevan una criatura parecida a un caballo con cola marina y pregunta si puede probarla. El capítulo termina antes de que la monte o reciba una respuesta.
+
+Los comentarios sobre plegarias a Chopito son bromas del personaje, no la identificación del culto de Ivet. El animal no recibe nombre ni se convierte en una montura adquirida por Triel.
 

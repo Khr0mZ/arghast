@@ -12,7 +12,7 @@ Base para revisar equivalencia: [42-065](../capitulos/42.md), [42-069](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 44.
+Relato revisado hasta el capítulo 45.
 
 ### El rey orco
 

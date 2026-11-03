@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revisado_hasta": 44,
+  "revisado_hasta": 45,
   "preguntas": [
     {
       "id": "P40-001",
@@ -18,7 +18,7 @@
         "41-051"
       ],
       "pendiente": "El origen de la animación de los restos y la función causal del veneno.",
-      "revisado_hasta": 44
+      "revisado_hasta": 45
     },
     {
       "id": "P40-002",
@@ -33,7 +33,7 @@
         "40-024"
       ],
       "pendiente": "La extensión restante del daño y la recuperación de la vegetación.",
-      "revisado_hasta": 44
+      "revisado_hasta": 45
     },
     {
       "id": "P40-003",
@@ -50,7 +50,7 @@
         "41-055"
       ],
       "pendiente": "La grafía, la ubicación de la guarida y la relación de identidad con Clodidrax.",
-      "revisado_hasta": 44
+      "revisado_hasta": 45
     },
     {
       "id": "P40-004",
@@ -65,7 +65,7 @@
         "42-004"
       ],
       "pendiente": "La información que Eldrat necesita y la aceptación y ejecución de la caza e interrogatorio.",
-      "revisado_hasta": 44
+      "revisado_hasta": 45
     },
     {
       "id": "P40-005",
@@ -73,17 +73,24 @@
       "indice": 5,
       "pregunta": "¿Qué explica los 77 años que declara Tortas frente a los siglos de inmovilidad que recuerda Walulu? No se ofrece una explicación (40-011, 40-031, 40-035).",
       "estado": "pendiente",
-      "respuesta": "Tortas recuerda los primeros bigotes de Naór y reconoce un olor que lleva muchos años percibiendo. La tradición de la ciudad y las bromas sobre su antigüedad no concilian la edad declarada de 77 años con los siglos que le atribuye Walulu.",
+      "respuesta": "La respuesta de 1496 y las diez y cuarenta y tres pertenece al calendario ficticio y el destello de Tortas no explica su edad. El rol posterior añade su afirmación de llevar unos setecientos años sin probar otra roca, sin conciliarla con los 77 años declarados y los siglos de inmovilidad que recuerda Walulu.",
       "referencias": [
         "40-011",
         "40-031",
         "40-035",
         "41-052",
         "41-053",
-        "41-054"
+        "41-054",
+        "45-011"
       ],
-      "pendiente": "La edad de Tortas y la historia de su inmovilidad.",
-      "revisado_hasta": 44
+      "pendiente": "La explicación de las cifras y su cronología personal.",
+      "revisado_hasta": 45,
+      "fuentes_rol": [
+        {
+          "escena": "x-1527436690531029186",
+          "mensaje_id": "1527458312293974169"
+        }
+      ]
     },
     {
       "id": "P40-006",
@@ -107,7 +114,7 @@
         "44-056"
       ],
       "pendiente": "La llegada de los expertos prometidos, la recuperación completa de Eromov y el alcance restante de la operación contra Iktan.",
-      "revisado_hasta": 44,
+      "revisado_hasta": 45,
       "fuentes_rol": [
         {
           "escena": "x-1525362897662906398",
@@ -135,7 +142,7 @@
         "42-050"
       ],
       "pendiente": "El origen, dueño e historia del fragmento de espada.",
-      "revisado_hasta": 44
+      "revisado_hasta": 45
     }
   ]
 }

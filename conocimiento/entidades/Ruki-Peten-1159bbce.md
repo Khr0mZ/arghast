@@ -12,7 +12,7 @@ Base para revisar equivalencia: [10-009](../capitulos/10.md), [11-009](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 44.
+Relato revisado hasta el capítulo 45.
 
 ### El pantano de la búsqueda de Pix
 

@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "revisado_hasta": 45,
+  "preguntas": [
+    {
+      "id": "P45-001",
+      "capitulo": 45,
+      "indice": 1,
+      "pregunta": "¿Qué destino tuvieron Alfira, Zamuria, Jariora y María Antonieta? La guía huyó cuando quedaban compañeros y la cautiva del altar no se identifica con uno de esos nombres (45-020, 45-024–45-025, 45-068).",
+      "estado": "pendiente",
+      "revisado_hasta": 45,
+      "respuesta": "La guía da cuatro nombres y corrige su primera afirmación de ser la única superviviente. La sirena rescatada no se presenta con nombre propio.",
+      "referencias": [
+        "45-020",
+        "45-024",
+        "45-025",
+        "45-068"
+      ],
+      "pendiente": "El destino e identidad de cada persona nombrada y de los demás integrantes."
+    },
+    {
+      "id": "P45-002",
+      "capitulo": 45,
+      "indice": 2,
+      "pregunta": "¿Quién es el dios que los oficiantes quieren resucitar y qué poseen las sirenas que necesitan para ello? Las palabras del culto no identifican a esa divinidad con Chopito o el kraken ni demuestran la eficacia del rito (45-045, 45-048, 45-057, 45-072).",
+      "estado": "pendiente",
+      "revisado_hasta": 45,
+      "respuesta": "Los oficiantes piden sacrificios y algo que las sirenas poseen para resucitar a su dios. Sus anuncios y las leyendas del kraken no identifican de manera inequívoca a ese ser.",
+      "referencias": [
+        "45-045",
+        "45-048",
+        "45-057",
+        "45-072"
+      ],
+      "pendiente": "La identidad del dios y los requisitos y eficacia del rito."
+    },
+    {
+      "id": "P45-003",
+      "capitulo": 45,
+      "indice": 3,
+      "pregunta": "¿Qué consagra el altar y por qué toda el agua del escondite emite magia? La detección no identifica el origen, el efecto completo o una forma de desactivarlo (45-071–45-072).",
+      "estado": "pendiente",
+      "revisado_hasta": 45,
+      "respuesta": "Naór detecta intensa magia en el altar y extendida por el agua. El grupo parte sin desactivar el lugar o identificar su consagrante.",
+      "referencias": [
+        "45-071",
+        "45-072",
+        "45-073"
+      ],
+      "pendiente": "El origen, alcance y consecuencias de la magia y su posible desactivación."
+    },
+    {
+      "id": "P45-004",
+      "capitulo": 45,
+      "indice": 4,
+      "pregunta": "¿Quedan otros Profundos, cautivos o rituales activos? Se vence a los defensores y se rescata a una sirena, pero no se interroga al sacerdote ni se desactiva el lugar o documenta toda la red (45-043, 45-069, 45-071, 45-073).",
+      "estado": "pendiente",
+      "revisado_hasta": 45,
+      "respuesta": "Los defensores de las salas son vencidos y se libera a una cautiva, pero el sacerdote muere antes de un interrogatorio y la instalación sigue mágica.",
+      "referencias": [
+        "45-043",
+        "45-069",
+        "45-071",
+        "45-073"
+      ],
+      "pendiente": "El alcance restante de la red, los demás cautivos y la actividad de otros rituales."
+    },
+    {
+      "id": "P45-005",
+      "capitulo": 45,
+      "indice": 5,
+      "pregunta": "¿Aceptará Ivet acudir al concilio de Tutucan? Su respuesta queda en meditarlo, de momento poco favorable por los problemas de Perlasal (45-077).",
+      "estado": "pendiente",
+      "revisado_hasta": 45,
+      "respuesta": "Ivet promete meditar la invitación y advierte que su respuesta actual es poco favorable. La discusión posterior entre los viajeros no es una nueva aceptación suya.",
+      "referencias": [
+        "45-077"
+      ],
+      "pendiente": "Su decisión definitiva y una eventual asistencia."
+    },
+    {
+      "id": "P45-006",
+      "capitulo": 45,
+      "indice": 6,
+      "pregunta": "¿Qué términos tuvo la antigua promesa de unión entre las tribus y qué explica su ruptura? Ivet y Naór ofrecen posiciones distintas sin reconstruir todo el pacto (45-076–45-077).",
+      "estado": "pendiente",
+      "revisado_hasta": 45,
+      "respuesta": "Ivet reprocha la unión incumplida y Naór defiende la protección del sur. En el rol posterior, Naór relata una guerra bajo su abuelo y una tregua mantenida por su padre, sin reconstruir todos los compromisos o confirmar cada atribución.",
+      "referencias": [
+        "45-076",
+        "45-077"
+      ],
+      "pendiente": "Los términos completos del pacto y la historia contrastada de sus incumplimientos.",
+      "fuentes_rol": [
+        {
+          "escena": "x-1527436690531029186",
+          "mensaje_id": "1527443109590466710"
+        },
+        {
+          "escena": "x-1527436690531029186",
+          "mensaje_id": "1527449224642433127"
+        }
+      ]
+    },
+    {
+      "id": "P45-007",
+      "capitulo": 45,
+      "indice": 7,
+      "pregunta": "¿Qué propiedades o utilidad tiene la perla hallada por Tentacol? Su obtención no identifica un efecto, precio o uso (45-070).",
+      "estado": "pendiente",
+      "revisado_hasta": 45,
+      "respuesta": "Tentacol recoge una perla al registrar un cadáver. No se identifica una propiedad, valor o uso y se mantiene distinta de la perla de comunicación de Coyote.",
+      "referencias": [
+        "45-070"
+      ],
+      "pendiente": "Su utilidad, propiedades y destino posterior."
+    },
+    {
+      "id": "P45-008",
+      "capitulo": 45,
+      "indice": 8,
+      "pregunta": "¿Se recuperará la cola de la sirena rescatada? Llega a Perlasal con ayuda, pero no se representa un tratamiento o una curación completa (45-068, 45-073).",
+      "estado": "pendiente",
+      "revisado_hasta": 45,
+      "respuesta": "La herida impide nadar a la cautiva y Coyote la ayuda. Sale de la cueva y llega a Perlasal sin curación completa representada.",
+      "referencias": [
+        "45-068",
+        "45-073"
+      ],
+      "pendiente": "El tratamiento y recuperación de la cola."
+    },
+    {
+      "id": "P45-009",
+      "capitulo": 45,
+      "indice": 9,
+      "pregunta": "¿Qué significa el destello de Tortas tras preguntar el año y la hora? La manifestación no fija un cambio de edad o capacidades ni concilia sus cronologías (45-011).",
+      "estado": "pendiente",
+      "revisado_hasta": 45,
+      "respuesta": "Tortas se ilumina tras recibir la fecha y hora ficticias. No se explica una modificación concreta de edad, poder o estado.",
+      "referencias": [
+        "45-011"
+      ],
+      "pendiente": "El sentido de la manifestación."
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "revisado_hasta": 44,
+  "revisado_hasta": 45,
   "entidades": {
     "Atlan": [
       {
@@ -27,6 +27,16 @@
           "41-002",
           "41-004",
           "41-009"
+        ]
+      },
+      {
+        "titulo": "La convocatoria ante Ivet",
+        "texto": "Naór se presenta en Perlasal como princesa de Atlan y ofrece una respuesta común a las amenazas de la isla y el mar. Ivet reprocha al padre de la princesa la promesa incumplida de mantener unidas a las tribus. Naór defiende que el reino ha ayudado a otros pueblos y sostenido la frontera sur pese al aislamiento. Son posiciones de las interlocutoras, sin un relato completo de cada pacto o ayuda. Perlasal no queda comprometida a enviar tropas o asistir al concilio.",
+        "referencias": [
+          "45-074",
+          "45-075",
+          "45-076",
+          "45-077"
         ]
       }
     ],
@@ -427,6 +437,20 @@
           "43-003",
           "43-004"
         ]
+      },
+      {
+        "titulo": "Una ruta acuática desde la ciudad oculta",
+        "texto": "La preparación del viaje parte de la zona comercial de Iktan, donde el colegio reúne a Naór con la directora y el templo permite su consulta a Walulu. La ciudad queda junto al lago llamado provisionalmente Tachan. Coyote contacta allí con Maris y una enviada conduce al grupo por una gruta profunda que comunica con el mar. Leo permanece en el colegio cuando los viajeros salen.",
+        "referencias": [
+          "45-002",
+          "45-003",
+          "45-004",
+          "45-008",
+          "45-012",
+          "45-015",
+          "45-018",
+          "45-019"
+        ]
       }
     ],
     "La Madriguera": [
@@ -486,6 +510,26 @@
         "texto": "Tentacol declara proceder de aguas profundas y bosques de algas próximos a Perlasal. Naór conoce el nombre y desea visitar esas aguas, pero sus intentos anteriores acabaron cerca del ahogamiento. La consulta a Chopito no proporciona un medio de respiración ni inicia un viaje; tampoco resuelve la crisis de los profundos documentada por Maris.",
         "referencias": [
           "41-010"
+        ]
+      },
+      {
+        "titulo": "El regreso con una rescatada",
+        "texto": "El nuevo ataque de los Profundos lleva a cerrar la población según Maris. La guía enviada a Iktan conduce al grupo por el lugar donde perdió a su escuadrón y después espera junto al agua mientras los viajeros exploran el escondite. Tras el combate regresa con ellos y con una cautiva de cola herida. Ambas facilitan el paso de los visitantes ante los guardias. Maris recibe a Coyote y presenta a Naór a su madre Ivet en el templo. La princesa convoca al concilio de Tutucan y la oficiante solo promete meditarlo. La visita y el rescate están representados; la alianza política y la eliminación de la amenaza siguen pendientes.",
+        "referencias": [
+          "45-008",
+          "45-009",
+          "45-013",
+          "45-015",
+          "45-018",
+          "45-019",
+          "45-022",
+          "45-072",
+          "45-073",
+          "45-074",
+          "45-075",
+          "45-076",
+          "45-077",
+          "45-078"
         ]
       }
     ],
@@ -695,6 +739,13 @@
           "30-005",
           "31-027"
         ]
+      },
+      {
+        "titulo": "Una nueva invitación al concilio",
+        "texto": "Naór anuncia en el templo de Perlasal que se ha cantado la canción del concilio y que los dirigentes deben reunirse en Tutucan ante las amenazas compartidas. Ivet recuerda la ruptura producida tras el consejo anterior y solo promete meditar la asistencia. La reunión no se celebra durante esta sesión.",
+        "referencias": [
+          "45-077"
+        ]
       }
     ],
     "Xoltacan": [
@@ -778,6 +829,94 @@
           "44-031",
           "44-037",
           "44-040"
+        ]
+      }
+    ],
+    "Colegio de Iktan": [
+      {
+        "titulo": "Las dos horas anteriores al viaje",
+        "texto": "La directora pretende excluir a Leo de clase por los incidentes que le atribuye, pero Naór negocia dos horas más con dos monedas. El niño permanece allí mientras ella prepara el viaje y autoriza a una chica de trenza y pelo azul para recogerlo. La discusión muestra la vida escolar posterior del pequeño, sin identificar inequívocamente el edificio con la academia de guerreros del capítulo 41.",
+        "referencias": [
+          "45-002",
+          "45-003",
+          "45-004",
+          "45-010",
+          "45-018"
+        ]
+      }
+    ],
+    "Lago Tachan": [
+      {
+        "titulo": "Corrientes entre Iktan y el mar",
+        "texto": "El director sitúa Iktan junto al lago llamado Tachan. Triel practica allí la apnea y Coyote usa sus aguas para contactar con Maris a través de la perla. La sirénida enviada por ella aparece desde el lago y guía a los viajeros por sus grandes profundidades. Antes de llegar al fondo entra por una gruta lateral cuyas corrientes los impulsan hasta el mar y unas ruinas.",
+        "referencias": [
+          "45-002",
+          "45-012",
+          "45-014",
+          "45-015",
+          "45-019"
+        ]
+      }
+    ],
+    "Ruinas del ataque al escuadrón sirénido": [
+      {
+        "titulo": "El rastro que parte hacia el norte",
+        "texto": "Después de atravesar las corrientes, los viajeros alcanzan un fondo marino con ruinas. La guía identifica allí la zona donde su escuadrón fue atacado y confiesa que huyó. Tentacol encuentra coral roto y cortes de armas; Naór reconoce una huella de magia que continúa al norte. El grupo abandona la zona para seguirla al acercarse cuatro tiburones, sin confundir estas ruinas con la llegada a Perlasal.",
+        "referencias": [
+          "45-019",
+          "45-020",
+          "45-021",
+          "45-023",
+          "45-026",
+          "45-027"
+        ]
+      }
+    ],
+    "Escondite de los Profundos": [
+      {
+        "titulo": "Una cámara de aire entre túneles y estanques",
+        "texto": "Un muro submarino oculta el túnel por el que Tortas entra siguiendo la dirección del rastro de Naór. El paso desemboca en una cámara de aire húmeda y oscura, con zonas de tierra y agua. La primera sala contiene restos animales y defensores que evitan la luz. Tras el combate, un recodo conduce hacia el islote del altar, rodeado por una gran balsa y ocupado por los oficiantes, una criatura y una cautiva.",
+        "referencias": [
+          "45-028",
+          "45-029",
+          "45-031",
+          "45-033",
+          "45-043",
+          "45-044",
+          "45-047"
+        ]
+      },
+      {
+        "titulo": "La salida con la cautiva",
+        "texto": "El combate se concentra entre agua, orillas y el altar donde se retiene a una sirena. Los aventureros vencen a los enemigos y la sacan de la caverna, aunque el sacerdote conservado inconsciente muere antes de que obtengan información. Naór detecta magia tanto en el altar como en el agua. El grupo abandona el lugar sin desactivarlo y parte hacia Perlasal con las dos sirenas.",
+        "referencias": [
+          "45-052",
+          "45-055",
+          "45-068",
+          "45-069",
+          "45-071",
+          "45-073"
+        ]
+      }
+    ],
+    "Templo de Perlasal": [
+      {
+        "titulo": "La visita anterior y el acceso restringido",
+        "texto": "Maris lleva a Coyote y sus compañeros al templo de una gran concha decorada. Ivet oficia con tocado y joyas y desconfía de los habitantes de la superficie. Hace responsable a Maris de haberlos traído. Cuando Ayoto intenta volver para conocer sus creencias, los guardias exigen permiso y la oficiante le pide actos que demuestren sus intenciones, sin revelar el nombre de su deidad.",
+        "referencias": [
+          "29-020",
+          "29-021",
+          "29-025"
+        ]
+      },
+      {
+        "titulo": "Una audiencia entre salmos",
+        "texto": "Maris conduce a los viajeros a un gran templo construido con coral y habla con su madre Ivet para que permita entrar a Naór. En el lugar hay escrituras de piedra y un altar ante el que se celebran plegarias en Aquan. La princesa plantea el concilio de Tutucan, la oficiante promete meditarlo y después vuelve a los salmos con el pueblo. Triel se aparta hacia una criatura marina con forma de caballo.",
+        "referencias": [
+          "45-075",
+          "45-076",
+          "45-077",
+          "45-078"
         ]
       }
     ]

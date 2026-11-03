@@ -9,6 +9,20 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 41, 01:42:01.320: Naór queda atrapada y sufre veneno durante el combate ([41-039](capitulos/41.md)).
 - Cap. 41, 02:08:00.000: La abominación cae tras los últimos ataques ([41-046](capitulos/41.md)).
 
+## Alfira
+
+- Cap. 45, 00:59:14.760: La guía da cuatro nombres de compañeros desaparecidos ([45-024](capitulos/45.md)).
+- Cap. 45, 01:01:00.400: Tortas amplifica los nombres mediante su proyección astral ([45-025](capitulos/45.md)).
+
+## Altar de los Profundos
+
+- Cap. 45, 02:01:16.920: Un islote con altar contiene una sirena atada y tres adversarios ([45-047](capitulos/45.md)).
+- Cap. 45, 02:02:54.480: Los oficiantes rechazan la divinidad de Chopito y ordenan atacar ([45-048](capitulos/45.md)).
+- Cap. 45, 02:07:41.119: La criatura del altar alcanza a Tortas con zarpas y dientes ([45-050](capitulos/45.md)).
+- Cap. 45, 02:11:05.040: Tentacol atraviesa a dos enemigos mientras el sacerdote alza el cuchillo ([45-052](capitulos/45.md)).
+- Cap. 45, 02:55:17.880: Chopito mata al sacerdote que habían conservado inconsciente ([45-069](capitulos/45.md)).
+- Cap. 45, 03:00:59.239: Naór percibe magia concentrada en el altar y en toda el agua ([45-071](capitulos/45.md)).
+
 ## Altar de los símbolos de Citlali
 
 - Cap. 43, 02:05:14.559: El ser serpentino activa un altar con los símbolos de Citlali ([43-062](capitulos/43.md)).
@@ -56,6 +70,9 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 41, 00:01:18.119: Naór consigue plaza para Leo y espera a un emisario de Atlan ([41-002](capitulos/41.md)).
 - Cap. 41, 00:07:46.000: Naór prepara con Leo las ofrendas del festival ([41-004](capitulos/41.md)).
 - Cap. 41, 00:21:23.000: Naór ofrece respetos de Atlan y encarga a Leo vigilar la tortuga ([41-009](capitulos/41.md)).
+- Cap. 45, 03:05:34.319: Maris recibe a Coyote y ofrece presentar a Naór ante su madre ([45-074](capitulos/45.md)).
+- Cap. 45, 03:08:31.120: Ivet admite a la princesa de Atlan en el templo de coral ([45-075](capitulos/45.md)).
+- Cap. 45, 03:10:25.239: Ivet reprocha la promesa de unión incumplida y Naór defiende a Atlan ([45-076](capitulos/45.md)).
 
 ## Axi
 
@@ -844,6 +861,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 20, 00:20:00.000: Una mujer acuática y una riña llevan a Poncelot al grupo ([20-004](capitulos/20.md)).
 - Cap. 31, 02:49:00.000: Gualulu, amiga de la infancia de Naór, y la muerte de su padre ([31-024](capitulos/31.md)).
 - Cap. 31, 03:04:00.000: Naór convoca un concilio y Gualulu apoya al rey ([31-027](capitulos/31.md)).
+- Cap. 45, 03:10:25.239: Ivet reprocha la promesa de unión incumplida y Naór defiende a Atlan ([45-076](capitulos/45.md)).
 
 ## Caparazón del Devorafango
 
@@ -896,6 +914,37 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 41, 02:13:27.760: Cabezas para Leo y Walulu y regreso de Chopito a la botella ([41-048](capitulos/41.md)).
 - Cap. 41, 02:14:26.760: Una voz obliga a dejar los cuerpos en el bosque ([41-049](capitulos/41.md)).
 - Cap. 41, 02:16:18.119: Chopito presenta al emisor como un súbdito ([41-050](capitulos/41.md)).
+- Cap. 45, 00:00:00.640: Los viajeros preparan la salida de Iktan hacia Perlasal ([45-001](capitulos/45.md)).
+- Cap. 45, 00:08:04.000: Chopito propone reclutar a Tortas ([45-005](capitulos/45.md)).
+- Cap. 45, 00:10:30.839: Tortas acepta acompañarlos sin rendir culto a Chopito ([45-006](capitulos/45.md)).
+- Cap. 45, 00:19:48.080: El grupo se reúne y Tortas reacciona al año y la hora ([45-011](capitulos/45.md)).
+- Cap. 45, 00:41:24.720: La guía pide buscar su escuadrón y Naór se aferra a Tortas ([45-018](capitulos/45.md)).
+- Cap. 45, 00:44:28.200: El lago conduce por una gruta de corrientes hasta el mar ([45-019](capitulos/45.md)).
+- Cap. 45, 00:48:40.520: La guía admite que huyó mientras quedaban compañeros ([45-020](capitulos/45.md)).
+- Cap. 45, 00:50:22.440: Tentacol encuentra coral roto y señales de armas cortantes ([45-021](capitulos/45.md)).
+- Cap. 45, 01:02:46.480: Se acercan cuatro tiburones y el grupo decide marcharse ([45-026](capitulos/45.md)).
+- Cap. 45, 01:03:21.079: Naór impulsa a Tortas y todos escapan de los tiburones ([45-027](capitulos/45.md)).
+- Cap. 45, 01:06:44.119: Tortas vira hacia el túnel y se raspa el caparazón ([45-028](capitulos/45.md)).
+- Cap. 45, 01:15:03.440: Chopito guía a quienes no ven y Triel aporta luces ([45-030](capitulos/45.md)).
+- Cap. 45, 01:19:29.040: Los restos marinos y tres sombras alertan al grupo ([45-031](capitulos/45.md)).
+- Cap. 45, 01:23:58.719: Los defensores deformados salen del agua ([45-033](capitulos/45.md)).
+- Cap. 45, 01:26:48.600: Tentacol combate viendo a través de Chopito ([45-034](capitulos/45.md)).
+- Cap. 45, 01:33:49.679: El rayo de Tentacol chamusca a dos enemigos y el tentáculo aporta frío ([45-037](capitulos/45.md)).
+- Cap. 45, 01:39:32.719: Chopito interviene y Coyote le brinda inspiración ([45-040](capitulos/45.md)).
+- Cap. 45, 01:42:44.800: Tortas y Tentacol mantienen el apoyo astral y a distancia ([45-041](capitulos/45.md)).
+- Cap. 45, 01:50:37.920: Tortas reúne los cadáveres y conserva una mano ([45-043](capitulos/45.md)).
+- Cap. 45, 01:55:19.320: Tres voces se oyen más allá del recodo y el idioma se corrige a Aquan ([45-044](capitulos/45.md)).
+- Cap. 45, 01:57:42.360: La conversación exige sacrificios para resucitar a un dios ([45-045](capitulos/45.md)).
+- Cap. 45, 01:59:19.000: El grupo sigue a Tentacol pese a la disputa sobre los sacrificios ([45-046](capitulos/45.md)).
+- Cap. 45, 02:01:16.920: Un islote con altar contiene una sirena atada y tres adversarios ([45-047](capitulos/45.md)).
+- Cap. 45, 02:02:54.480: Los oficiantes rechazan la divinidad de Chopito y ordenan atacar ([45-048](capitulos/45.md)).
+- Cap. 45, 02:11:05.040: Tentacol atraviesa a dos enemigos mientras el sacerdote alza el cuchillo ([45-052](capitulos/45.md)).
+- Cap. 45, 02:25:21.319: El hechicero devuelve un rayo y anuncia la llegada de su dios ([45-057](capitulos/45.md)).
+- Cap. 45, 02:27:49.760: El sacerdote golpea a Naór y Tentacol insiste con rayos y tentáculo ([45-058](capitulos/45.md)).
+- Cap. 45, 02:38:48.279: Chopito no logra sujetar al sacerdote y este ordena detenerse a Coyote ([45-062](capitulos/45.md)).
+- Cap. 45, 02:49:51.439: Tentacol debilita al último rival y Naór guarda una cabeza para Leo ([45-066](capitulos/45.md)).
+- Cap. 45, 02:55:17.880: Chopito mata al sacerdote que habían conservado inconsciente ([45-069](capitulos/45.md)).
+- Cap. 45, 03:03:19.000: Tentacol recuerda leyendas de un kraken de otro plano ([45-072](capitulos/45.md)).
 
 ## Cinco reyes piratas
 
@@ -1222,6 +1271,13 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 
 - Cap. 39, 01:50:00.000: Un dragón invisible ofrece un trato a Citlali ([39-016](capitulos/39.md)).
 
+## Colegio de Iktan
+
+- Cap. 45, 00:03:17.599: Iktan está junto al lago llamado Tachan ([45-002](capitulos/45.md)).
+- Cap. 45, 00:04:14.680: La directora reprocha a Naór la conducta escolar de Leo ([45-003](capitulos/45.md)).
+- Cap. 45, 00:06:26.560: Dos monedas consiguen que Leo permanezca dos horas más ([45-004](capitulos/45.md)).
+- Cap. 45, 00:19:03.159: Naór afirma que ella es la familia de Leo ([45-010](capitulos/45.md)).
+
 ## Collar antiguo de oro con gemas
 
 - Cap. 04, 01:34:20.000: Collar antiguo hallado en un cadáver ([04-020](capitulos/04.md)).
@@ -1322,6 +1378,54 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 39, 02:12:00.000: Descanso en Iktan y expulsión de Coyote ([39-020](capitulos/39.md)).
 - Cap. 40, 00:01:42.600: La enfermedad de Triel y el encargo de Leona ([40-002](capitulos/40.md)).
 - Cap. 44, 00:01:35.200: Tlachka recuerda Iktan y prepara fruta y mazorcas ([44-002](capitulos/44.md)).
+- Cap. 45, 00:00:00.640: Los viajeros preparan la salida de Iktan hacia Perlasal ([45-001](capitulos/45.md)).
+- Cap. 45, 00:13:36.440: Coyote evita la discusión y vuelve a ser expulsado de la taberna ([45-007](capitulos/45.md)).
+- Cap. 45, 00:15:03.279: Naór quiere viajar a Perlasal por la convocatoria de Tutucan ([45-008](capitulos/45.md)).
+- Cap. 45, 00:17:00.959: Walulu ofrece una burbuja de una hora, que no llega a lanzar aquí ([45-009](capitulos/45.md)).
+- Cap. 45, 00:19:48.080: El grupo se reúne y Tortas reacciona al año y la hora ([45-011](capitulos/45.md)).
+- Cap. 45, 00:28:53.720: Coyote activa la perla dentro del agua y contacta con Maris ([45-012](capitulos/45.md)).
+- Cap. 45, 00:31:30.919: Maris informa de nuevos ataques, secuestros y el cierre de Perlasal ([45-013](capitulos/45.md)).
+- Cap. 45, 00:32:35.440: Triel sale del lago y sus prácticas no le dan respiración acuática ([45-014](capitulos/45.md)).
+- Cap. 45, 00:36:29.920: Llega una guía sirénida enviada por la princesa Maris ([45-015](capitulos/45.md)).
+- Cap. 45, 00:38:02.000: Los besos de la sirénida permiten respirar a Coyote, Naór y Tortas ([45-016](capitulos/45.md)).
+- Cap. 45, 00:41:24.720: La guía pide buscar su escuadrón y Naór se aferra a Tortas ([45-018](capitulos/45.md)).
+- Cap. 45, 00:44:28.200: El lago conduce por una gruta de corrientes hasta el mar ([45-019](capitulos/45.md)).
+- Cap. 45, 00:48:40.520: La guía admite que huyó mientras quedaban compañeros ([45-020](capitulos/45.md)).
+- Cap. 45, 00:52:24.960: Coyote reúne a todos para priorizar la búsqueda ([45-022](capitulos/45.md)).
+- Cap. 45, 01:02:46.480: Se acercan cuatro tiburones y el grupo decide marcharse ([45-026](capitulos/45.md)).
+- Cap. 45, 01:03:21.079: Naór impulsa a Tortas y todos escapan de los tiburones ([45-027](capitulos/45.md)).
+- Cap. 45, 01:11:56.760: El túnel desemboca en una cámara de aire oscura ([45-029](capitulos/45.md)).
+- Cap. 45, 01:15:03.440: Chopito guía a quienes no ven y Triel aporta luces ([45-030](capitulos/45.md)).
+- Cap. 45, 01:21:52.080: Una criatura intenta agarrar a Coyote bajo el agua ([45-032](capitulos/45.md)).
+- Cap. 45, 01:23:58.719: Los defensores deformados salen del agua ([45-033](capitulos/45.md)).
+- Cap. 45, 01:28:48.520: Coyote inspira a Naór después de fallar con el cuchillo ([45-035](capitulos/45.md)).
+- Cap. 45, 01:39:32.719: Chopito interviene y Coyote le brinda inspiración ([45-040](capitulos/45.md)).
+- Cap. 45, 01:50:37.920: Tortas reúne los cadáveres y conserva una mano ([45-043](capitulos/45.md)).
+- Cap. 45, 01:55:19.320: Tres voces se oyen más allá del recodo y el idioma se corrige a Aquan ([45-044](capitulos/45.md)).
+- Cap. 45, 01:59:19.000: El grupo sigue a Tentacol pese a la disputa sobre los sacrificios ([45-046](capitulos/45.md)).
+- Cap. 45, 02:01:16.920: Un islote con altar contiene una sirena atada y tres adversarios ([45-047](capitulos/45.md)).
+- Cap. 45, 02:09:28.599: Triel y Coyote avanzan por el agua y él la inspira ([45-051](capitulos/45.md)).
+- Cap. 45, 02:13:41.159: Naór usa a Coyote como apoyo para llegar al sacerdote ([45-053](capitulos/45.md)).
+- Cap. 45, 02:21:18.760: Coyote mantiene su apariencia majestuosa y repele a un enemigo con susurros ([45-056](capitulos/45.md)).
+- Cap. 45, 02:25:21.319: El hechicero devuelve un rayo y anuncia la llegada de su dios ([45-057](capitulos/45.md)).
+- Cap. 45, 02:36:21.160: Los tres rivales resisten la orden de Coyote ([45-061](capitulos/45.md)).
+- Cap. 45, 02:38:48.279: Chopito no logra sujetar al sacerdote y este ordena detenerse a Coyote ([45-062](capitulos/45.md)).
+- Cap. 45, 02:47:05.880: Triel ayuda a Naór y Coyote cura a Triel ([45-065](capitulos/45.md)).
+- Cap. 45, 02:53:25.760: La sirena cautiva es liberada y necesita ayuda para salir ([45-068](capitulos/45.md)).
+- Cap. 45, 03:04:06.600: El grupo sale con la rescatada y llega a Perlasal ([45-073](capitulos/45.md)).
+- Cap. 45, 03:05:34.319: Maris recibe a Coyote y ofrece presentar a Naór ante su madre ([45-074](capitulos/45.md)).
+
+## Criatura tentacular del altar
+
+- Cap. 45, 02:01:16.920: Un islote con altar contiene una sirena atada y tres adversarios ([45-047](capitulos/45.md)).
+- Cap. 45, 02:07:41.119: La criatura del altar alcanza a Tortas con zarpas y dientes ([45-050](capitulos/45.md)).
+- Cap. 45, 02:09:28.599: Triel y Coyote avanzan por el agua y él la inspira ([45-051](capitulos/45.md)).
+- Cap. 45, 02:16:07.119: Tortas sale del caparazón y manifiesta brazos astrales ([45-054](capitulos/45.md)).
+- Cap. 45, 02:18:14.240: La criatura del altar aturde a Naór y surgen refuerzos del agua ([45-055](capitulos/45.md)).
+- Cap. 45, 02:29:58.920: Naór falla la ceguera mientras sigue aturdida ([45-059](capitulos/45.md)).
+- Cap. 45, 02:41:34.880: Naór deja inconsciente al sacerdote y ciega a otro adversario ([45-063](capitulos/45.md)).
+- Cap. 45, 02:44:55.200: Tortas castiga al enemigo que le dañó el caparazón ([45-064](capitulos/45.md)).
+- Cap. 45, 02:51:50.359: Tortas abate a la última criatura y recoge un trofeo ([45-067](capitulos/45.md)).
 
 ## Cuchillas Negras
 
@@ -1477,6 +1581,11 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 24, 02:32:00.000: Ropa, cultivo y reclutamiento ([24-020](capitulos/24.md)).
 - Cap. 24, 02:40:00.000: Camarotes llenos y el médico prepara máquinas ([24-021](capitulos/24.md)).
 
+## Directora del colegio de Iktan
+
+- Cap. 45, 00:04:14.680: La directora reprocha a Naór la conducta escolar de Leo ([45-003](capitulos/45.md)).
+- Cap. 45, 00:06:26.560: Dos monedas consiguen que Leo permanezca dos horas más ([45-004](capitulos/45.md)).
+
 ## Diálogo
 
 - Cap. 03, 01:43:20.000: Centinela aturdido y disfraz de Nox ([03-021](capitulos/03.md)).
@@ -1593,6 +1702,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 
 - Cap. 31, 02:21:00.000: Ciudad y ruinas de piedra derretida ([31-020](capitulos/31.md)).
 - Cap. 31, 02:34:00.000: Naór y Triel comen mientras Coyote habla con la tabernera ([31-022](capitulos/31.md)).
+- Cap. 45, 00:13:36.440: Coyote evita la discusión y vuelve a ser expulsado de la taberna ([45-007](capitulos/45.md)).
 
 ## Eldrat
 
@@ -1699,6 +1809,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 40, 02:42:05.120: Una competición de fuerza termina con la cabra de la cena ([40-040](capitulos/40.md)).
 - Cap. 40, 02:44:33.840: Leona e Ilikar lanzan a Tortas al lago ([40-041](capitulos/40.md)).
 - Cap. 40, 02:48:50.319: Triel ocupa la piedra sagrada y Eldrat la aparta ([40-042](capitulos/40.md)).
+- Cap. 45, 02:57:37.800: Tentacol encuentra una perla y los compañeros se llevan recuerdos ([45-070](capitulos/45.md)).
 
 ## Eleanor
 
@@ -2017,6 +2128,21 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 44, 01:13:10.880: Leona arranca una espina recordando a Eromov ([44-037](capitulos/44.md)).
 - Cap. 44, 01:53:33.719: El remedio de Parroter reduce las venas negras de Eromov ([44-056](capitulos/44.md)).
 
+## Escondite de los Profundos
+
+- Cap. 45, 01:06:44.119: Tortas vira hacia el túnel y se raspa el caparazón ([45-028](capitulos/45.md)).
+- Cap. 45, 01:11:56.760: El túnel desemboca en una cámara de aire oscura ([45-029](capitulos/45.md)).
+- Cap. 45, 01:15:03.440: Chopito guía a quienes no ven y Triel aporta luces ([45-030](capitulos/45.md)).
+- Cap. 45, 01:19:29.040: Los restos marinos y tres sombras alertan al grupo ([45-031](capitulos/45.md)).
+- Cap. 45, 01:21:52.080: Una criatura intenta agarrar a Coyote bajo el agua ([45-032](capitulos/45.md)).
+- Cap. 45, 01:23:58.719: Los defensores deformados salen del agua ([45-033](capitulos/45.md)).
+- Cap. 45, 01:50:37.920: Tortas reúne los cadáveres y conserva una mano ([45-043](capitulos/45.md)).
+- Cap. 45, 01:55:19.320: Tres voces se oyen más allá del recodo y el idioma se corrige a Aquan ([45-044](capitulos/45.md)).
+- Cap. 45, 01:57:42.360: La conversación exige sacrificios para resucitar a un dios ([45-045](capitulos/45.md)).
+- Cap. 45, 02:01:16.920: Un islote con altar contiene una sirena atada y tres adversarios ([45-047](capitulos/45.md)).
+- Cap. 45, 02:06:03.239: Tortas entra en el agua y se repliega en el caparazón ([45-049](capitulos/45.md)).
+- Cap. 45, 03:00:59.239: Naór percibe magia concentrada en el altar y en toda el agua ([45-071](capitulos/45.md)).
+
 ## Espada azul de escamas de Triel
 
 - Cap. 14, 00:03:15.000: Cocodrilo alimentado y panteras derrotadas por los hermanos ([14-002](capitulos/14.md)).
@@ -2076,6 +2202,10 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 ## Fragmento de espada bajo la roca
 
 - Cap. 40, 00:05:21.280: Cipo rescata un fragmento de espada y Leona guía a Ilikar ([40-003](capitulos/40.md)).
+
+## Fragmento del rostro de la criatura del altar
+
+- Cap. 45, 02:51:50.359: Tortas abate a la última criatura y recoge un trofeo ([45-067](capitulos/45.md)).
 
 ## Fred
 
@@ -2232,6 +2362,31 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 09, 00:26:30.000: El joven cambia el mapa robado por el mapa de Nox ([09-009](capitulos/09.md)).
 - Cap. 38, 01:46:00.000: Los antiguos tripulantes llegan después del combate ([38-013](capitulos/38.md)).
 
+## Guía sirénida enviada por Maris
+
+- Cap. 45, 00:36:29.920: Llega una guía sirénida enviada por la princesa Maris ([45-015](capitulos/45.md)).
+- Cap. 45, 00:38:02.000: Los besos de la sirénida permiten respirar a Coyote, Naór y Tortas ([45-016](capitulos/45.md)).
+- Cap. 45, 00:40:23.119: Naór hace que Triel reciba el mismo medio de respiración ([45-017](capitulos/45.md)).
+- Cap. 45, 00:41:24.720: La guía pide buscar su escuadrón y Naór se aferra a Tortas ([45-018](capitulos/45.md)).
+- Cap. 45, 00:44:28.200: El lago conduce por una gruta de corrientes hasta el mar ([45-019](capitulos/45.md)).
+- Cap. 45, 00:48:40.520: La guía admite que huyó mientras quedaban compañeros ([45-020](capitulos/45.md)).
+- Cap. 45, 00:52:24.960: Coyote reúne a todos para priorizar la búsqueda ([45-022](capitulos/45.md)).
+- Cap. 45, 00:59:14.760: La guía da cuatro nombres de compañeros desaparecidos ([45-024](capitulos/45.md)).
+- Cap. 45, 01:01:00.400: Tortas amplifica los nombres mediante su proyección astral ([45-025](capitulos/45.md)).
+- Cap. 45, 01:02:46.480: Se acercan cuatro tiburones y el grupo decide marcharse ([45-026](capitulos/45.md)).
+- Cap. 45, 01:03:21.079: Naór impulsa a Tortas y todos escapan de los tiburones ([45-027](capitulos/45.md)).
+- Cap. 45, 01:19:29.040: Los restos marinos y tres sombras alertan al grupo ([45-031](capitulos/45.md)).
+- Cap. 45, 01:36:33.560: Triel distingue a los enemigos de los habitantes de Perlasal ([45-038](capitulos/45.md)).
+
+## Hechicero acuático de los Profundos
+
+- Cap. 45, 02:01:16.920: Un islote con altar contiene una sirena atada y tres adversarios ([45-047](capitulos/45.md)).
+- Cap. 45, 02:02:54.480: Los oficiantes rechazan la divinidad de Chopito y ordenan atacar ([45-048](capitulos/45.md)).
+- Cap. 45, 02:11:05.040: Tentacol atraviesa a dos enemigos mientras el sacerdote alza el cuchillo ([45-052](capitulos/45.md)).
+- Cap. 45, 02:21:18.760: Coyote mantiene su apariencia majestuosa y repele a un enemigo con susurros ([45-056](capitulos/45.md)).
+- Cap. 45, 02:25:21.319: El hechicero devuelve un rayo y anuncia la llegada de su dios ([45-057](capitulos/45.md)).
+- Cap. 45, 02:38:48.279: Chopito no logra sujetar al sacerdote y este ordena detenerse a Coyote ([45-062](capitulos/45.md)).
+
 ## Herrero de Cuicapalli
 
 - Cap. 44, 01:41:12.400: El herrero exige que Ayoto lleve el material a la tienda ([44-051](capitulos/44.md)).
@@ -2312,6 +2467,11 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 44, 00:01:35.200: Tlachka recuerda Iktan y prepara fruta y mazorcas ([44-002](capitulos/44.md)).
 - Cap. 44, 00:05:57.880: Guayacán cambia la voz al reconocer a Tlachka ([44-005](capitulos/44.md)).
 - Cap. 44, 00:09:26.200: Ayoto se reúne con sus compañeros y cuenta sus viajes ([44-006](capitulos/44.md)).
+- Cap. 45, 00:00:00.640: Los viajeros preparan la salida de Iktan hacia Perlasal ([45-001](capitulos/45.md)).
+- Cap. 45, 00:03:17.599: Iktan está junto al lago llamado Tachan ([45-002](capitulos/45.md)).
+- Cap. 45, 00:15:03.279: Naór quiere viajar a Perlasal por la convocatoria de Tutucan ([45-008](capitulos/45.md)).
+- Cap. 45, 00:31:30.919: Maris informa de nuevos ataques, secuestros y el cierre de Perlasal ([45-013](capitulos/45.md)).
+- Cap. 45, 00:44:28.200: El lago conduce por una gruta de corrientes hasta el mar ([45-019](capitulos/45.md)).
 
 ## Ilikar
 
@@ -2376,6 +2536,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 42, 02:02:20.520: Ione se lanza a buscar a Nox y sus compañeros la siguen ([42-063](capitulos/42.md)).
 - Cap. 42, 02:14:52.159: Ione retira el Zampaolas de la batalla sin renunciar a buscar a Nox ([42-067](capitulos/42.md)).
 - Cap. 43, 00:08:03.360: Los habitantes se concentran en Shiaru ([43-006](capitulos/43.md)).
+- Cap. 45, 00:00:00.640: Los viajeros preparan la salida de Iktan hacia Perlasal ([45-001](capitulos/45.md)).
 
 ## Infiltrada serpiente del festival de Iktan
 
@@ -2744,6 +2905,11 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 29, 02:13:00.000: Maris asume la responsabilidad y los merros siguen siendo una amenaza ([29-021](capitulos/29.md)).
 - Cap. 29, 02:26:00.000: Promesa pública y hospitalidad de la taberna ([29-023](capitulos/29.md)).
 - Cap. 29, 02:36:00.000: Ayoto no obtiene acceso religioso sin actos ([29-025](capitulos/29.md)).
+- Cap. 45, 03:05:34.319: Maris recibe a Coyote y ofrece presentar a Naór ante su madre ([45-074](capitulos/45.md)).
+- Cap. 45, 03:08:31.120: Ivet admite a la princesa de Atlan en el templo de coral ([45-075](capitulos/45.md)).
+- Cap. 45, 03:10:25.239: Ivet reprocha la promesa de unión incumplida y Naór defiende a Atlan ([45-076](capitulos/45.md)).
+- Cap. 45, 03:11:50.040: La invitación al concilio queda pendiente de decisión ([45-077](capitulos/45.md)).
+- Cap. 45, 03:14:57.200: La audiencia acaba entre salmos y la curiosidad de Triel ([45-078](capitulos/45.md)).
 
 ## Jack
 
@@ -2790,6 +2956,11 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 ## Jackie, cautivo referido por Taylor
 
 - Cap. 42, 02:22:01.359: Taylor dice haber capturado al joven Jackie rumbo a Puerto de Espadas ([42-070](capitulos/42.md)).
+
+## Jariora
+
+- Cap. 45, 00:59:14.760: La guía da cuatro nombres de compañeros desaparecidos ([45-024](capitulos/45.md)).
+- Cap. 45, 01:01:00.400: Tortas amplifica los nombres mediante su proyección astral ([45-025](capitulos/45.md)).
 
 ## Johnson
 
@@ -3022,6 +3193,13 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 06, 00:18:30.000: Poncelot cree que Merlucilla escapó ([06-009](capitulos/06.md)).
 - Cap. 09, 02:51:30.000: Ione vende obsidiana y compra ropa a Nox ([09-032](capitulos/09.md)).
 
+## Lago Tachan
+
+- Cap. 45, 00:03:17.599: Iktan está junto al lago llamado Tachan ([45-002](capitulos/45.md)).
+- Cap. 45, 00:28:53.720: Coyote activa la perla dentro del agua y contacta con Maris ([45-012](capitulos/45.md)).
+- Cap. 45, 00:32:35.440: Triel sale del lago y sus prácticas no le dan respiración acuática ([45-014](capitulos/45.md)).
+- Cap. 45, 00:44:28.200: El lago conduce por una gruta de corrientes hasta el mar ([45-019](capitulos/45.md)).
+
 ## Leo
 
 - Cap. 21, 00:51:00.000: Leo, escondido, relata el secuestro ([21-007](capitulos/21.md)).
@@ -3052,6 +3230,14 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 41, 00:57:46.000: Vigilancia mágica del festival y presencia de Cipo ([41-024](capitulos/41.md)).
 - Cap. 41, 02:13:27.760: Cabezas para Leo y Walulu y regreso de Chopito a la botella ([41-048](capitulos/41.md)).
 - Cap. 41, 02:26:36.080: Leo llega al encuentro y la guarida sigue sin localizarse ([41-055](capitulos/41.md)).
+- Cap. 45, 00:00:00.640: Los viajeros preparan la salida de Iktan hacia Perlasal ([45-001](capitulos/45.md)).
+- Cap. 45, 00:04:14.680: La directora reprocha a Naór la conducta escolar de Leo ([45-003](capitulos/45.md)).
+- Cap. 45, 00:06:26.560: Dos monedas consiguen que Leo permanezca dos horas más ([45-004](capitulos/45.md)).
+- Cap. 45, 00:08:04.000: Chopito propone reclutar a Tortas ([45-005](capitulos/45.md)).
+- Cap. 45, 00:15:03.279: Naór quiere viajar a Perlasal por la convocatoria de Tutucan ([45-008](capitulos/45.md)).
+- Cap. 45, 00:19:03.159: Naór afirma que ella es la familia de Leo ([45-010](capitulos/45.md)).
+- Cap. 45, 00:19:48.080: El grupo se reúne y Tortas reacciona al año y la hora ([45-011](capitulos/45.md)).
+- Cap. 45, 02:49:51.439: Tentacol debilita al último rival y Naór guarda una cabeza para Leo ([45-066](capitulos/45.md)).
 
 ## Leona
 
@@ -3376,6 +3562,10 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 
 - Cap. 12, 00:28:50.000: Jack informa de Fuerte Aurora; Nox busca tres compañeros ([12-009](capitulos/12.md)).
 
+## Mano conservada por Tortas
+
+- Cap. 45, 01:50:37.920: Tortas reúne los cadáveres y conserva una mano ([45-043](capitulos/45.md)).
+
 ## Mapa de Poncelot
 
 - Cap. 20, 02:21:00.000: Mapa Slaz encontrado en un cofre ([20-014](capitulos/20.md)).
@@ -3562,6 +3752,17 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 29, 02:26:00.000: Promesa pública y hospitalidad de la taberna ([29-023](capitulos/29.md)).
 - Cap. 29, 02:32:00.000: Habitación pagada y descanso local ([29-024](capitulos/29.md)).
 - Cap. 31, 00:00:00.000: Coyote vuelve, los gemelos exploran y Naór cría a Leo ([31-001](capitulos/31.md)).
+- Cap. 45, 00:28:53.720: Coyote activa la perla dentro del agua y contacta con Maris ([45-012](capitulos/45.md)).
+- Cap. 45, 00:31:30.919: Maris informa de nuevos ataques, secuestros y el cierre de Perlasal ([45-013](capitulos/45.md)).
+- Cap. 45, 00:36:29.920: Llega una guía sirénida enviada por la princesa Maris ([45-015](capitulos/45.md)).
+- Cap. 45, 03:05:34.319: Maris recibe a Coyote y ofrece presentar a Naór ante su madre ([45-074](capitulos/45.md)).
+- Cap. 45, 03:08:31.120: Ivet admite a la princesa de Atlan en el templo de coral ([45-075](capitulos/45.md)).
+- Cap. 45, 03:11:50.040: La invitación al concilio queda pendiente de decisión ([45-077](capitulos/45.md)).
+
+## María Antonieta
+
+- Cap. 45, 00:59:14.760: La guía da cuatro nombres de compañeros desaparecidos ([45-024](capitulos/45.md)).
+- Cap. 45, 01:01:00.400: Tortas amplifica los nombres mediante su proyección astral ([45-025](capitulos/45.md)).
 
 ## Masa de moho de la cueva
 
@@ -3939,6 +4140,51 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 41, 02:18:04.399: Naór presencia el movimiento de Tortas y ofrece las cabezas ([41-052](capitulos/41.md)).
 - Cap. 41, 02:20:48.880: Winscore y Blink se presentan ante el anciano ([41-053](capitulos/41.md)).
 - Cap. 41, 02:26:36.080: Leo llega al encuentro y la guarida sigue sin localizarse ([41-055](capitulos/41.md)).
+- Cap. 45, 00:00:00.640: Los viajeros preparan la salida de Iktan hacia Perlasal ([45-001](capitulos/45.md)).
+- Cap. 45, 00:04:14.680: La directora reprocha a Naór la conducta escolar de Leo ([45-003](capitulos/45.md)).
+- Cap. 45, 00:06:26.560: Dos monedas consiguen que Leo permanezca dos horas más ([45-004](capitulos/45.md)).
+- Cap. 45, 00:08:04.000: Chopito propone reclutar a Tortas ([45-005](capitulos/45.md)).
+- Cap. 45, 00:10:30.839: Tortas acepta acompañarlos sin rendir culto a Chopito ([45-006](capitulos/45.md)).
+- Cap. 45, 00:13:36.440: Coyote evita la discusión y vuelve a ser expulsado de la taberna ([45-007](capitulos/45.md)).
+- Cap. 45, 00:15:03.279: Naór quiere viajar a Perlasal por la convocatoria de Tutucan ([45-008](capitulos/45.md)).
+- Cap. 45, 00:17:00.959: Walulu ofrece una burbuja de una hora, que no llega a lanzar aquí ([45-009](capitulos/45.md)).
+- Cap. 45, 00:19:03.159: Naór afirma que ella es la familia de Leo ([45-010](capitulos/45.md)).
+- Cap. 45, 00:19:48.080: El grupo se reúne y Tortas reacciona al año y la hora ([45-011](capitulos/45.md)).
+- Cap. 45, 00:32:35.440: Triel sale del lago y sus prácticas no le dan respiración acuática ([45-014](capitulos/45.md)).
+- Cap. 45, 00:38:02.000: Los besos de la sirénida permiten respirar a Coyote, Naór y Tortas ([45-016](capitulos/45.md)).
+- Cap. 45, 00:40:23.119: Naór hace que Triel reciba el mismo medio de respiración ([45-017](capitulos/45.md)).
+- Cap. 45, 00:41:24.720: La guía pide buscar su escuadrón y Naór se aferra a Tortas ([45-018](capitulos/45.md)).
+- Cap. 45, 00:44:28.200: El lago conduce por una gruta de corrientes hasta el mar ([45-019](capitulos/45.md)).
+- Cap. 45, 00:52:24.960: Coyote reúne a todos para priorizar la búsqueda ([45-022](capitulos/45.md)).
+- Cap. 45, 00:57:23.319: Naór detecta un rastro mágico hacia el norte ([45-023](capitulos/45.md)).
+- Cap. 45, 01:01:00.400: Tortas amplifica los nombres mediante su proyección astral ([45-025](capitulos/45.md)).
+- Cap. 45, 01:02:46.480: Se acercan cuatro tiburones y el grupo decide marcharse ([45-026](capitulos/45.md)).
+- Cap. 45, 01:03:21.079: Naór impulsa a Tortas y todos escapan de los tiburones ([45-027](capitulos/45.md)).
+- Cap. 45, 01:06:44.119: Tortas vira hacia el túnel y se raspa el caparazón ([45-028](capitulos/45.md)).
+- Cap. 45, 01:11:56.760: El túnel desemboca en una cámara de aire oscura ([45-029](capitulos/45.md)).
+- Cap. 45, 01:19:29.040: Los restos marinos y tres sombras alertan al grupo ([45-031](capitulos/45.md)).
+- Cap. 45, 01:21:52.080: Una criatura intenta agarrar a Coyote bajo el agua ([45-032](capitulos/45.md)).
+- Cap. 45, 01:23:58.719: Los defensores deformados salen del agua ([45-033](capitulos/45.md)).
+- Cap. 45, 01:28:48.520: Coyote inspira a Naór después de fallar con el cuchillo ([45-035](capitulos/45.md)).
+- Cap. 45, 01:37:52.520: Naór se teletransporta y aparta de Tentacol a un atacante ([45-039](capitulos/45.md)).
+- Cap. 45, 01:42:44.800: Tortas y Tentacol mantienen el apoyo astral y a distancia ([45-041](capitulos/45.md)).
+- Cap. 45, 01:47:16.840: Triel abate otro defensor y Naór cae con el hacha sobre su presa ([45-042](capitulos/45.md)).
+- Cap. 45, 01:50:37.920: Tortas reúne los cadáveres y conserva una mano ([45-043](capitulos/45.md)).
+- Cap. 45, 01:59:19.000: El grupo sigue a Tentacol pese a la disputa sobre los sacrificios ([45-046](capitulos/45.md)).
+- Cap. 45, 02:01:16.920: Un islote con altar contiene una sirena atada y tres adversarios ([45-047](capitulos/45.md)).
+- Cap. 45, 02:13:41.159: Naór usa a Coyote como apoyo para llegar al sacerdote ([45-053](capitulos/45.md)).
+- Cap. 45, 02:18:14.240: La criatura del altar aturde a Naór y surgen refuerzos del agua ([45-055](capitulos/45.md)).
+- Cap. 45, 02:27:49.760: El sacerdote golpea a Naór y Tentacol insiste con rayos y tentáculo ([45-058](capitulos/45.md)).
+- Cap. 45, 02:29:58.920: Naór falla la ceguera mientras sigue aturdida ([45-059](capitulos/45.md)).
+- Cap. 45, 02:41:34.880: Naór deja inconsciente al sacerdote y ciega a otro adversario ([45-063](capitulos/45.md)).
+- Cap. 45, 02:47:05.880: Triel ayuda a Naór y Coyote cura a Triel ([45-065](capitulos/45.md)).
+- Cap. 45, 02:49:51.439: Tentacol debilita al último rival y Naór guarda una cabeza para Leo ([45-066](capitulos/45.md)).
+- Cap. 45, 03:00:59.239: Naór percibe magia concentrada en el altar y en toda el agua ([45-071](capitulos/45.md)).
+- Cap. 45, 03:04:06.600: El grupo sale con la rescatada y llega a Perlasal ([45-073](capitulos/45.md)).
+- Cap. 45, 03:05:34.319: Maris recibe a Coyote y ofrece presentar a Naór ante su madre ([45-074](capitulos/45.md)).
+- Cap. 45, 03:08:31.120: Ivet admite a la princesa de Atlan en el templo de coral ([45-075](capitulos/45.md)).
+- Cap. 45, 03:10:25.239: Ivet reprocha la promesa de unión incumplida y Naór defiende a Atlan ([45-076](capitulos/45.md)).
+- Cap. 45, 03:11:50.040: La invitación al concilio queda pendiente de decisión ([45-077](capitulos/45.md)).
 
 ## Negociación
 
@@ -4559,6 +4805,11 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 24, 01:56:00.000: Perla con coordenadas y botín ([24-014](capitulos/24.md)).
 - Cap. 29, 00:20:00.000: Maris comunica la petición mediante una perla ([29-005](capitulos/29.md)).
 - Cap. 29, 00:36:00.000: Un agujero del lago conecta con el mar ([29-009](capitulos/29.md)).
+- Cap. 45, 00:28:53.720: Coyote activa la perla dentro del agua y contacta con Maris ([45-012](capitulos/45.md)).
+
+## Perla hallada en el escondite
+
+- Cap. 45, 02:57:37.800: Tentacol encuentra una perla y los compañeros se llevan recuerdos ([45-070](capitulos/45.md)).
 
 ## Perlasal
 
@@ -4567,12 +4818,31 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 29, 02:26:00.000: Promesa pública y hospitalidad de la taberna ([29-023](capitulos/29.md)).
 - Cap. 29, 02:36:00.000: Ayoto no obtiene acceso religioso sin actos ([29-025](capitulos/29.md)).
 - Cap. 41, 00:24:44.000: Tentacol habla de Perlasal y se aclara la telepatía de Chopito ([41-010](capitulos/41.md)).
+- Cap. 45, 00:00:00.640: Los viajeros preparan la salida de Iktan hacia Perlasal ([45-001](capitulos/45.md)).
+- Cap. 45, 00:10:30.839: Tortas acepta acompañarlos sin rendir culto a Chopito ([45-006](capitulos/45.md)).
+- Cap. 45, 00:15:03.279: Naór quiere viajar a Perlasal por la convocatoria de Tutucan ([45-008](capitulos/45.md)).
+- Cap. 45, 00:17:00.959: Walulu ofrece una burbuja de una hora, que no llega a lanzar aquí ([45-009](capitulos/45.md)).
+- Cap. 45, 00:19:48.080: El grupo se reúne y Tortas reacciona al año y la hora ([45-011](capitulos/45.md)).
+- Cap. 45, 00:28:53.720: Coyote activa la perla dentro del agua y contacta con Maris ([45-012](capitulos/45.md)).
+- Cap. 45, 00:31:30.919: Maris informa de nuevos ataques, secuestros y el cierre de Perlasal ([45-013](capitulos/45.md)).
+- Cap. 45, 00:36:29.920: Llega una guía sirénida enviada por la princesa Maris ([45-015](capitulos/45.md)).
+- Cap. 45, 00:41:24.720: La guía pide buscar su escuadrón y Naór se aferra a Tortas ([45-018](capitulos/45.md)).
+- Cap. 45, 00:52:24.960: Coyote reúne a todos para priorizar la búsqueda ([45-022](capitulos/45.md)).
+- Cap. 45, 01:36:33.560: Triel distingue a los enemigos de los habitantes de Perlasal ([45-038](capitulos/45.md)).
+- Cap. 45, 03:03:19.000: Tentacol recuerda leyendas de un kraken de otro plano ([45-072](capitulos/45.md)).
+- Cap. 45, 03:04:06.600: El grupo sale con la rescatada y llega a Perlasal ([45-073](capitulos/45.md)).
+- Cap. 45, 03:05:34.319: Maris recibe a Coyote y ofrece presentar a Naór ante su madre ([45-074](capitulos/45.md)).
+- Cap. 45, 03:10:25.239: Ivet reprocha la promesa de unión incumplida y Naór defiende a Atlan ([45-076](capitulos/45.md)).
+- Cap. 45, 03:11:50.040: La invitación al concilio queda pendiente de decisión ([45-077](capitulos/45.md)).
+- Cap. 45, 03:14:57.200: La audiencia acaba entre salmos y la curiosidad de Triel ([45-078](capitulos/45.md)).
 
 ## Piedra sagrada de Iktan
 
 - Cap. 40, 02:48:50.319: Triel ocupa la piedra sagrada y Eldrat la aparta ([40-042](capitulos/40.md)).
 - Cap. 41, 00:02:22.040: Winscore llega al festival de Iktan ([41-003](capitulos/41.md)).
 - Cap. 41, 00:21:23.000: Naór ofrece respetos de Atlan y encarga a Leo vigilar la tortuga ([41-009](capitulos/41.md)).
+- Cap. 45, 00:08:04.000: Chopito propone reclutar a Tortas ([45-005](capitulos/45.md)).
+- Cap. 45, 00:10:30.839: Tortas acepta acompañarlos sin rendir culto a Chopito ([45-006](capitulos/45.md)).
 
 ## Pinky
 
@@ -4715,6 +4985,32 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 
 - Cap. 29, 02:13:00.000: Maris asume la responsabilidad y los merros siguen siendo una amenaza ([29-021](capitulos/29.md)).
 - Cap. 29, 02:20:00.000: Secuestros y kraken que crece por rituales ([29-022](capitulos/29.md)).
+- Cap. 45, 00:31:30.919: Maris informa de nuevos ataques, secuestros y el cierre de Perlasal ([45-013](capitulos/45.md)).
+- Cap. 45, 00:41:24.720: La guía pide buscar su escuadrón y Naór se aferra a Tortas ([45-018](capitulos/45.md)).
+- Cap. 45, 00:44:28.200: El lago conduce por una gruta de corrientes hasta el mar ([45-019](capitulos/45.md)).
+- Cap. 45, 00:48:40.520: La guía admite que huyó mientras quedaban compañeros ([45-020](capitulos/45.md)).
+- Cap. 45, 01:21:52.080: Una criatura intenta agarrar a Coyote bajo el agua ([45-032](capitulos/45.md)).
+- Cap. 45, 01:23:58.719: Los defensores deformados salen del agua ([45-033](capitulos/45.md)).
+- Cap. 45, 01:26:48.600: Tentacol combate viendo a través de Chopito ([45-034](capitulos/45.md)).
+- Cap. 45, 01:28:48.520: Coyote inspira a Naór después de fallar con el cuchillo ([45-035](capitulos/45.md)).
+- Cap. 45, 01:30:24.000: Los brazos astrales azules de Tortas golpean a los defensores ([45-036](capitulos/45.md)).
+- Cap. 45, 01:33:49.679: El rayo de Tentacol chamusca a dos enemigos y el tentáculo aporta frío ([45-037](capitulos/45.md)).
+- Cap. 45, 01:36:33.560: Triel distingue a los enemigos de los habitantes de Perlasal ([45-038](capitulos/45.md)).
+- Cap. 45, 01:37:52.520: Naór se teletransporta y aparta de Tentacol a un atacante ([45-039](capitulos/45.md)).
+- Cap. 45, 01:39:32.719: Chopito interviene y Coyote le brinda inspiración ([45-040](capitulos/45.md)).
+- Cap. 45, 01:42:44.800: Tortas y Tentacol mantienen el apoyo astral y a distancia ([45-041](capitulos/45.md)).
+- Cap. 45, 01:47:16.840: Triel abate otro defensor y Naór cae con el hacha sobre su presa ([45-042](capitulos/45.md)).
+- Cap. 45, 01:50:37.920: Tortas reúne los cadáveres y conserva una mano ([45-043](capitulos/45.md)).
+- Cap. 45, 01:57:42.360: La conversación exige sacrificios para resucitar a un dios ([45-045](capitulos/45.md)).
+- Cap. 45, 02:02:54.480: Los oficiantes rechazan la divinidad de Chopito y ordenan atacar ([45-048](capitulos/45.md)).
+- Cap. 45, 02:06:03.239: Tortas entra en el agua y se repliega en el caparazón ([45-049](capitulos/45.md)).
+- Cap. 45, 02:18:14.240: La criatura del altar aturde a Naór y surgen refuerzos del agua ([45-055](capitulos/45.md)).
+- Cap. 45, 02:25:21.319: El hechicero devuelve un rayo y anuncia la llegada de su dios ([45-057](capitulos/45.md)).
+- Cap. 45, 02:34:13.359: Triel mata al enemigo que la atacaba en el agua ([45-060](capitulos/45.md)).
+- Cap. 45, 02:36:21.160: Los tres rivales resisten la orden de Coyote ([45-061](capitulos/45.md)).
+- Cap. 45, 02:49:51.439: Tentacol debilita al último rival y Naór guarda una cabeza para Leo ([45-066](capitulos/45.md)).
+- Cap. 45, 02:57:37.800: Tentacol encuentra una perla y los compañeros se llevan recuerdos ([45-070](capitulos/45.md)).
+- Cap. 45, 03:03:19.000: Tentacol recuerda leyendas de un kraken de otro plano ([45-072](capitulos/45.md)).
 
 ## Puerto de Espadas
 
@@ -4768,12 +5064,32 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 41, 01:25:13.000: Tenta manifiesta un tentáculo y se oculta ([41-032](capitulos/41.md)).
 - Cap. 41, 01:41:33.000: Una abominación sale de la vegetación ([41-038](capitulos/41.md)).
 
+## Ruinas del ataque al escuadrón sirénido
+
+- Cap. 45, 00:44:28.200: El lago conduce por una gruta de corrientes hasta el mar ([45-019](capitulos/45.md)).
+- Cap. 45, 00:48:40.520: La guía admite que huyó mientras quedaban compañeros ([45-020](capitulos/45.md)).
+- Cap. 45, 00:50:22.440: Tentacol encuentra coral roto y señales de armas cortantes ([45-021](capitulos/45.md)).
+- Cap. 45, 00:57:23.319: Naór detecta un rastro mágico hacia el norte ([45-023](capitulos/45.md)).
+
 ## Ruki Peten
 
 - Cap. 10, 00:22:20.000: Expedición en barca hasta Ruki Peten ([10-009](capitulos/10.md)).
 - Cap. 10, 00:27:40.000: Rastro de varias criaturas con pelos de mono ([10-010](capitulos/10.md)).
 - Cap. 11, 00:26:00.000: Planes, huevo interpretado como Pegaso y salida al norte ([11-009](capitulos/11.md)).
 - Cap. 17, 00:12:50.000: Naór, perdida en Ruki Peten, caza un cocodrilo ([17-004](capitulos/17.md)).
+
+## Sacerdote de los Profundos
+
+- Cap. 45, 02:01:16.920: Un islote con altar contiene una sirena atada y tres adversarios ([45-047](capitulos/45.md)).
+- Cap. 45, 02:02:54.480: Los oficiantes rechazan la divinidad de Chopito y ordenan atacar ([45-048](capitulos/45.md)).
+- Cap. 45, 02:11:05.040: Tentacol atraviesa a dos enemigos mientras el sacerdote alza el cuchillo ([45-052](capitulos/45.md)).
+- Cap. 45, 02:13:41.159: Naór usa a Coyote como apoyo para llegar al sacerdote ([45-053](capitulos/45.md)).
+- Cap. 45, 02:27:49.760: El sacerdote golpea a Naór y Tentacol insiste con rayos y tentáculo ([45-058](capitulos/45.md)).
+- Cap. 45, 02:38:48.279: Chopito no logra sujetar al sacerdote y este ordena detenerse a Coyote ([45-062](capitulos/45.md)).
+- Cap. 45, 02:41:34.880: Naór deja inconsciente al sacerdote y ciega a otro adversario ([45-063](capitulos/45.md)).
+- Cap. 45, 02:47:05.880: Triel ayuda a Naór y Coyote cura a Triel ([45-065](capitulos/45.md)).
+- Cap. 45, 02:49:51.439: Tentacol debilita al último rival y Naór guarda una cabeza para Leo ([45-066](capitulos/45.md)).
+- Cap. 45, 02:55:17.880: Chopito mata al sacerdote que habían conservado inconsciente ([45-069](capitulos/45.md)).
 
 ## Sacerdotes serpiente de la roca norte
 
@@ -5117,6 +5433,15 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 42, 02:14:52.159: Ione retira el Zampaolas de la batalla sin renunciar a buscar a Nox ([42-067](capitulos/42.md)).
 - Cap. 43, 00:08:03.360: Los habitantes se concentran en Shiaru ([43-006](capitulos/43.md)).
 
+## Sirena cautiva del altar
+
+- Cap. 45, 02:01:16.920: Un islote con altar contiene una sirena atada y tres adversarios ([45-047](capitulos/45.md)).
+- Cap. 45, 02:02:54.480: Los oficiantes rechazan la divinidad de Chopito y ordenan atacar ([45-048](capitulos/45.md)).
+- Cap. 45, 02:11:05.040: Tentacol atraviesa a dos enemigos mientras el sacerdote alza el cuchillo ([45-052](capitulos/45.md)).
+- Cap. 45, 02:47:05.880: Triel ayuda a Naór y Coyote cura a Triel ([45-065](capitulos/45.md)).
+- Cap. 45, 02:53:25.760: La sirena cautiva es liberada y necesita ayuda para salir ([45-068](capitulos/45.md)).
+- Cap. 45, 03:04:06.600: El grupo sale con la rescatada y llega a Perlasal ([45-073](capitulos/45.md)).
+
 ## Smith
 
 - Cap. 35, 01:08:00.000: Smith admite viajeros y Nox interroga guardia ([35-008](capitulos/35.md)).
@@ -5170,6 +5495,13 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 18, 00:42:00.000: Chocolate y ruta de Baton ([18-008](capitulos/18.md)).
 - Cap. 18, 01:05:00.000: Serpiente del altar y huellas recientes ([18-010](capitulos/18.md)).
 
+## Templo de Perlasal
+
+- Cap. 29, 02:06:00.000: Llegada a Perlasal y desconfianza de Ivet ([29-020](capitulos/29.md)).
+- Cap. 29, 02:36:00.000: Ayoto no obtiene acceso religioso sin actos ([29-025](capitulos/29.md)).
+- Cap. 45, 03:08:31.120: Ivet admite a la princesa de Atlan en el templo de coral ([45-075](capitulos/45.md)).
+- Cap. 45, 03:14:57.200: La audiencia acaba entre salmos y la curiosidad de Triel ([45-078](capitulos/45.md)).
+
 ## Templo de los nawals
 
 - Cap. 08, 00:20:35.000: Un pirata describe el ataque en un templo ([08-008](capitulos/08.md)).
@@ -5208,6 +5540,45 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 41, 02:14:26.760: Una voz obliga a dejar los cuerpos en el bosque ([41-049](capitulos/41.md)).
 - Cap. 41, 02:16:18.119: Chopito presenta al emisor como un súbdito ([41-050](capitulos/41.md)).
 - Cap. 41, 02:16:37.800: Naór evacua al grupo y Winscore ve un dragón verde ([41-051](capitulos/41.md)).
+- Cap. 45, 00:00:00.640: Los viajeros preparan la salida de Iktan hacia Perlasal ([45-001](capitulos/45.md)).
+- Cap. 45, 00:08:04.000: Chopito propone reclutar a Tortas ([45-005](capitulos/45.md)).
+- Cap. 45, 00:10:30.839: Tortas acepta acompañarlos sin rendir culto a Chopito ([45-006](capitulos/45.md)).
+- Cap. 45, 00:15:03.279: Naór quiere viajar a Perlasal por la convocatoria de Tutucan ([45-008](capitulos/45.md)).
+- Cap. 45, 00:19:48.080: El grupo se reúne y Tortas reacciona al año y la hora ([45-011](capitulos/45.md)).
+- Cap. 45, 00:38:02.000: Los besos de la sirénida permiten respirar a Coyote, Naór y Tortas ([45-016](capitulos/45.md)).
+- Cap. 45, 00:41:24.720: La guía pide buscar su escuadrón y Naór se aferra a Tortas ([45-018](capitulos/45.md)).
+- Cap. 45, 00:44:28.200: El lago conduce por una gruta de corrientes hasta el mar ([45-019](capitulos/45.md)).
+- Cap. 45, 00:48:40.520: La guía admite que huyó mientras quedaban compañeros ([45-020](capitulos/45.md)).
+- Cap. 45, 00:50:22.440: Tentacol encuentra coral roto y señales de armas cortantes ([45-021](capitulos/45.md)).
+- Cap. 45, 00:52:24.960: Coyote reúne a todos para priorizar la búsqueda ([45-022](capitulos/45.md)).
+- Cap. 45, 00:57:23.319: Naór detecta un rastro mágico hacia el norte ([45-023](capitulos/45.md)).
+- Cap. 45, 01:02:46.480: Se acercan cuatro tiburones y el grupo decide marcharse ([45-026](capitulos/45.md)).
+- Cap. 45, 01:03:21.079: Naór impulsa a Tortas y todos escapan de los tiburones ([45-027](capitulos/45.md)).
+- Cap. 45, 01:06:44.119: Tortas vira hacia el túnel y se raspa el caparazón ([45-028](capitulos/45.md)).
+- Cap. 45, 01:15:03.440: Chopito guía a quienes no ven y Triel aporta luces ([45-030](capitulos/45.md)).
+- Cap. 45, 01:23:58.719: Los defensores deformados salen del agua ([45-033](capitulos/45.md)).
+- Cap. 45, 01:26:48.600: Tentacol combate viendo a través de Chopito ([45-034](capitulos/45.md)).
+- Cap. 45, 01:33:49.679: El rayo de Tentacol chamusca a dos enemigos y el tentáculo aporta frío ([45-037](capitulos/45.md)).
+- Cap. 45, 01:37:52.520: Naór se teletransporta y aparta de Tentacol a un atacante ([45-039](capitulos/45.md)).
+- Cap. 45, 01:39:32.719: Chopito interviene y Coyote le brinda inspiración ([45-040](capitulos/45.md)).
+- Cap. 45, 01:42:44.800: Tortas y Tentacol mantienen el apoyo astral y a distancia ([45-041](capitulos/45.md)).
+- Cap. 45, 01:55:19.320: Tres voces se oyen más allá del recodo y el idioma se corrige a Aquan ([45-044](capitulos/45.md)).
+- Cap. 45, 01:57:42.360: La conversación exige sacrificios para resucitar a un dios ([45-045](capitulos/45.md)).
+- Cap. 45, 01:59:19.000: El grupo sigue a Tentacol pese a la disputa sobre los sacrificios ([45-046](capitulos/45.md)).
+- Cap. 45, 02:01:16.920: Un islote con altar contiene una sirena atada y tres adversarios ([45-047](capitulos/45.md)).
+- Cap. 45, 02:02:54.480: Los oficiantes rechazan la divinidad de Chopito y ordenan atacar ([45-048](capitulos/45.md)).
+- Cap. 45, 02:11:05.040: Tentacol atraviesa a dos enemigos mientras el sacerdote alza el cuchillo ([45-052](capitulos/45.md)).
+- Cap. 45, 02:25:21.319: El hechicero devuelve un rayo y anuncia la llegada de su dios ([45-057](capitulos/45.md)).
+- Cap. 45, 02:27:49.760: El sacerdote golpea a Naór y Tentacol insiste con rayos y tentáculo ([45-058](capitulos/45.md)).
+- Cap. 45, 02:29:58.920: Naór falla la ceguera mientras sigue aturdida ([45-059](capitulos/45.md)).
+- Cap. 45, 02:41:34.880: Naór deja inconsciente al sacerdote y ciega a otro adversario ([45-063](capitulos/45.md)).
+- Cap. 45, 02:49:51.439: Tentacol debilita al último rival y Naór guarda una cabeza para Leo ([45-066](capitulos/45.md)).
+- Cap. 45, 02:55:17.880: Chopito mata al sacerdote que habían conservado inconsciente ([45-069](capitulos/45.md)).
+- Cap. 45, 02:57:37.800: Tentacol encuentra una perla y los compañeros se llevan recuerdos ([45-070](capitulos/45.md)).
+- Cap. 45, 03:00:59.239: Naór percibe magia concentrada en el altar y en toda el agua ([45-071](capitulos/45.md)).
+- Cap. 45, 03:03:19.000: Tentacol recuerda leyendas de un kraken de otro plano ([45-072](capitulos/45.md)).
+- Cap. 45, 03:04:06.600: El grupo sale con la rescatada y llega a Perlasal ([45-073](capitulos/45.md)).
+- Cap. 45, 03:05:34.319: Maris recibe a Coyote y ofrece presentar a Naór ante su madre ([45-074](capitulos/45.md)).
 
 ## Tesara Queen
 
@@ -5419,6 +5790,47 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 41, 02:24:09.319: Tortas reconoce el olor del dragón verde en Blink ([41-054](capitulos/41.md)).
 - Cap. 41, 02:26:36.080: Leo llega al encuentro y la guarida sigue sin localizarse ([41-055](capitulos/41.md)).
 - Cap. 42, 00:04:11.920: Ilikar vuelve de Iktan y busca aliados contra el dragón ([42-004](capitulos/42.md)).
+- Cap. 45, 00:00:00.640: Los viajeros preparan la salida de Iktan hacia Perlasal ([45-001](capitulos/45.md)).
+- Cap. 45, 00:08:04.000: Chopito propone reclutar a Tortas ([45-005](capitulos/45.md)).
+- Cap. 45, 00:10:30.839: Tortas acepta acompañarlos sin rendir culto a Chopito ([45-006](capitulos/45.md)).
+- Cap. 45, 00:17:00.959: Walulu ofrece una burbuja de una hora, que no llega a lanzar aquí ([45-009](capitulos/45.md)).
+- Cap. 45, 00:19:48.080: El grupo se reúne y Tortas reacciona al año y la hora ([45-011](capitulos/45.md)).
+- Cap. 45, 00:32:35.440: Triel sale del lago y sus prácticas no le dan respiración acuática ([45-014](capitulos/45.md)).
+- Cap. 45, 00:38:02.000: Los besos de la sirénida permiten respirar a Coyote, Naór y Tortas ([45-016](capitulos/45.md)).
+- Cap. 45, 00:41:24.720: La guía pide buscar su escuadrón y Naór se aferra a Tortas ([45-018](capitulos/45.md)).
+- Cap. 45, 00:44:28.200: El lago conduce por una gruta de corrientes hasta el mar ([45-019](capitulos/45.md)).
+- Cap. 45, 00:48:40.520: La guía admite que huyó mientras quedaban compañeros ([45-020](capitulos/45.md)).
+- Cap. 45, 00:52:24.960: Coyote reúne a todos para priorizar la búsqueda ([45-022](capitulos/45.md)).
+- Cap. 45, 00:59:14.760: La guía da cuatro nombres de compañeros desaparecidos ([45-024](capitulos/45.md)).
+- Cap. 45, 01:01:00.400: Tortas amplifica los nombres mediante su proyección astral ([45-025](capitulos/45.md)).
+- Cap. 45, 01:02:46.480: Se acercan cuatro tiburones y el grupo decide marcharse ([45-026](capitulos/45.md)).
+- Cap. 45, 01:03:21.079: Naór impulsa a Tortas y todos escapan de los tiburones ([45-027](capitulos/45.md)).
+- Cap. 45, 01:06:44.119: Tortas vira hacia el túnel y se raspa el caparazón ([45-028](capitulos/45.md)).
+- Cap. 45, 01:11:56.760: El túnel desemboca en una cámara de aire oscura ([45-029](capitulos/45.md)).
+- Cap. 45, 01:15:03.440: Chopito guía a quienes no ven y Triel aporta luces ([45-030](capitulos/45.md)).
+- Cap. 45, 01:19:29.040: Los restos marinos y tres sombras alertan al grupo ([45-031](capitulos/45.md)).
+- Cap. 45, 01:21:52.080: Una criatura intenta agarrar a Coyote bajo el agua ([45-032](capitulos/45.md)).
+- Cap. 45, 01:23:58.719: Los defensores deformados salen del agua ([45-033](capitulos/45.md)).
+- Cap. 45, 01:30:24.000: Los brazos astrales azules de Tortas golpean a los defensores ([45-036](capitulos/45.md)).
+- Cap. 45, 01:42:44.800: Tortas y Tentacol mantienen el apoyo astral y a distancia ([45-041](capitulos/45.md)).
+- Cap. 45, 01:50:37.920: Tortas reúne los cadáveres y conserva una mano ([45-043](capitulos/45.md)).
+- Cap. 45, 01:55:19.320: Tres voces se oyen más allá del recodo y el idioma se corrige a Aquan ([45-044](capitulos/45.md)).
+- Cap. 45, 01:59:19.000: El grupo sigue a Tentacol pese a la disputa sobre los sacrificios ([45-046](capitulos/45.md)).
+- Cap. 45, 02:01:16.920: Un islote con altar contiene una sirena atada y tres adversarios ([45-047](capitulos/45.md)).
+- Cap. 45, 02:06:03.239: Tortas entra en el agua y se repliega en el caparazón ([45-049](capitulos/45.md)).
+- Cap. 45, 02:07:41.119: La criatura del altar alcanza a Tortas con zarpas y dientes ([45-050](capitulos/45.md)).
+- Cap. 45, 02:09:28.599: Triel y Coyote avanzan por el agua y él la inspira ([45-051](capitulos/45.md)).
+- Cap. 45, 02:16:07.119: Tortas sale del caparazón y manifiesta brazos astrales ([45-054](capitulos/45.md)).
+- Cap. 45, 02:18:14.240: La criatura del altar aturde a Naór y surgen refuerzos del agua ([45-055](capitulos/45.md)).
+- Cap. 45, 02:25:21.319: El hechicero devuelve un rayo y anuncia la llegada de su dios ([45-057](capitulos/45.md)).
+- Cap. 45, 02:29:58.920: Naór falla la ceguera mientras sigue aturdida ([45-059](capitulos/45.md)).
+- Cap. 45, 02:44:55.200: Tortas castiga al enemigo que le dañó el caparazón ([45-064](capitulos/45.md)).
+- Cap. 45, 02:49:51.439: Tentacol debilita al último rival y Naór guarda una cabeza para Leo ([45-066](capitulos/45.md)).
+- Cap. 45, 02:51:50.359: Tortas abate a la última criatura y recoge un trofeo ([45-067](capitulos/45.md)).
+- Cap. 45, 02:57:37.800: Tentacol encuentra una perla y los compañeros se llevan recuerdos ([45-070](capitulos/45.md)).
+- Cap. 45, 03:04:06.600: El grupo sale con la rescatada y llega a Perlasal ([45-073](capitulos/45.md)).
+- Cap. 45, 03:08:31.120: Ivet admite a la princesa de Atlan en el templo de coral ([45-075](capitulos/45.md)).
+- Cap. 45, 03:14:57.200: La audiencia acaba entre salmos y la curiosidad de Triel ([45-078](capitulos/45.md)).
 
 ## Tribu de la Hoja Caída
 
@@ -5541,6 +5953,36 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 40, 02:33:15.520: Leona recibe trato de futura líder y los hermanos buscan aliados ([40-038](capitulos/40.md)).
 - Cap. 40, 02:48:50.319: Triel ocupa la piedra sagrada y Eldrat la aparta ([40-042](capitulos/40.md)).
 - Cap. 41, 00:10:00.000: Blink se une a Naór y escucha la advertencia del bosque ([41-005](capitulos/41.md)).
+- Cap. 45, 00:00:00.640: Los viajeros preparan la salida de Iktan hacia Perlasal ([45-001](capitulos/45.md)).
+- Cap. 45, 00:32:35.440: Triel sale del lago y sus prácticas no le dan respiración acuática ([45-014](capitulos/45.md)).
+- Cap. 45, 00:40:23.119: Naór hace que Triel reciba el mismo medio de respiración ([45-017](capitulos/45.md)).
+- Cap. 45, 00:41:24.720: La guía pide buscar su escuadrón y Naór se aferra a Tortas ([45-018](capitulos/45.md)).
+- Cap. 45, 00:44:28.200: El lago conduce por una gruta de corrientes hasta el mar ([45-019](capitulos/45.md)).
+- Cap. 45, 00:52:24.960: Coyote reúne a todos para priorizar la búsqueda ([45-022](capitulos/45.md)).
+- Cap. 45, 00:59:14.760: La guía da cuatro nombres de compañeros desaparecidos ([45-024](capitulos/45.md)).
+- Cap. 45, 01:02:46.480: Se acercan cuatro tiburones y el grupo decide marcharse ([45-026](capitulos/45.md)).
+- Cap. 45, 01:03:21.079: Naór impulsa a Tortas y todos escapan de los tiburones ([45-027](capitulos/45.md)).
+- Cap. 45, 01:06:44.119: Tortas vira hacia el túnel y se raspa el caparazón ([45-028](capitulos/45.md)).
+- Cap. 45, 01:11:56.760: El túnel desemboca en una cámara de aire oscura ([45-029](capitulos/45.md)).
+- Cap. 45, 01:15:03.440: Chopito guía a quienes no ven y Triel aporta luces ([45-030](capitulos/45.md)).
+- Cap. 45, 01:19:29.040: Los restos marinos y tres sombras alertan al grupo ([45-031](capitulos/45.md)).
+- Cap. 45, 01:23:58.719: Los defensores deformados salen del agua ([45-033](capitulos/45.md)).
+- Cap. 45, 01:30:24.000: Los brazos astrales azules de Tortas golpean a los defensores ([45-036](capitulos/45.md)).
+- Cap. 45, 01:36:33.560: Triel distingue a los enemigos de los habitantes de Perlasal ([45-038](capitulos/45.md)).
+- Cap. 45, 01:47:16.840: Triel abate otro defensor y Naór cae con el hacha sobre su presa ([45-042](capitulos/45.md)).
+- Cap. 45, 01:50:37.920: Tortas reúne los cadáveres y conserva una mano ([45-043](capitulos/45.md)).
+- Cap. 45, 01:59:19.000: El grupo sigue a Tentacol pese a la disputa sobre los sacrificios ([45-046](capitulos/45.md)).
+- Cap. 45, 02:01:16.920: Un islote con altar contiene una sirena atada y tres adversarios ([45-047](capitulos/45.md)).
+- Cap. 45, 02:09:28.599: Triel y Coyote avanzan por el agua y él la inspira ([45-051](capitulos/45.md)).
+- Cap. 45, 02:18:14.240: La criatura del altar aturde a Naór y surgen refuerzos del agua ([45-055](capitulos/45.md)).
+- Cap. 45, 02:21:18.760: Coyote mantiene su apariencia majestuosa y repele a un enemigo con susurros ([45-056](capitulos/45.md)).
+- Cap. 45, 02:34:13.359: Triel mata al enemigo que la atacaba en el agua ([45-060](capitulos/45.md)).
+- Cap. 45, 02:36:21.160: Los tres rivales resisten la orden de Coyote ([45-061](capitulos/45.md)).
+- Cap. 45, 02:47:05.880: Triel ayuda a Naór y Coyote cura a Triel ([45-065](capitulos/45.md)).
+- Cap. 45, 02:53:25.760: La sirena cautiva es liberada y necesita ayuda para salir ([45-068](capitulos/45.md)).
+- Cap. 45, 02:57:37.800: Tentacol encuentra una perla y los compañeros se llevan recuerdos ([45-070](capitulos/45.md)).
+- Cap. 45, 03:04:06.600: El grupo sale con la rescatada y llega a Perlasal ([45-073](capitulos/45.md)).
+- Cap. 45, 03:14:57.200: La audiencia acaba entre salmos y la curiosidad de Triel ([45-078](capitulos/45.md)).
 
 ## Tripulación del Zampaolas
 
@@ -5572,6 +6014,8 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 31, 00:00:00.000: Coyote vuelve, los gemelos exploran y Naór cría a Leo ([31-001](capitulos/31.md)).
 - Cap. 31, 03:04:00.000: Naór convoca un concilio y Gualulu apoya al rey ([31-027](capitulos/31.md)).
 - Cap. 37, 00:36:00.000: Comida contra el cansancio y efectos de las frutas ([37-006](capitulos/37.md)).
+- Cap. 45, 00:15:03.279: Naór quiere viajar a Perlasal por la convocatoria de Tutucan ([45-008](capitulos/45.md)).
+- Cap. 45, 03:11:50.040: La invitación al concilio queda pendiente de decisión ([45-077](capitulos/45.md)).
 
 ## Tórtola
 
@@ -5636,6 +6080,9 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 41, 01:06:00.000: La multitud se reúne y el grupo parte al norte con sigilo ([41-026](capitulos/41.md)).
 - Cap. 41, 02:12:16.360: Un prisionero y armas bien forjadas para investigar ([41-047](capitulos/41.md)).
 - Cap. 41, 02:13:27.760: Cabezas para Leo y Walulu y regreso de Chopito a la botella ([41-048](capitulos/41.md)).
+- Cap. 45, 00:15:03.279: Naór quiere viajar a Perlasal por la convocatoria de Tutucan ([45-008](capitulos/45.md)).
+- Cap. 45, 00:17:00.959: Walulu ofrece una burbuja de una hora, que no llega a lanzar aquí ([45-009](capitulos/45.md)).
+- Cap. 45, 00:19:03.159: Naór afirma que ella es la familia de Leo ([45-010](capitulos/45.md)).
 
 ## Winscore
 
@@ -5719,6 +6166,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 42, 02:09:35.040: Cuatro reyes piratas destruyen una nueva flota de la Marina ([42-065](capitulos/42.md)).
 - Cap. 42, 02:22:01.359: Taylor dice haber capturado al joven Jackie rumbo a Puerto de Espadas ([42-070](capitulos/42.md)).
 - Cap. 42, 02:22:59.960: Taylor acusa a Bonnie de romper un pacto y ocultar Xoltacan ([42-071](capitulos/42.md)).
+- Cap. 45, 03:11:50.040: La invitación al concilio queda pendiente de decisión ([45-077](capitulos/45.md)).
 
 ## Yuan-ti
 
@@ -5746,6 +6194,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 41, 02:18:04.399: Naór presencia el movimiento de Tortas y ofrece las cabezas ([41-052](capitulos/41.md)).
 - Cap. 44, 00:00:47.039: Leona busca rastros tras su misión de aviso ([44-001](capitulos/44.md)).
 - Cap. 44, 00:01:35.200: Tlachka recuerda Iktan y prepara fruta y mazorcas ([44-002](capitulos/44.md)).
+- Cap. 45, 03:11:50.040: La invitación al concilio queda pendiente de decisión ([45-077](capitulos/45.md)).
 
 ## Zampaolas
 
@@ -5811,6 +6260,11 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 42, 02:14:52.159: Ione retira el Zampaolas de la batalla sin renunciar a buscar a Nox ([42-067](capitulos/42.md)).
 - Cap. 42, 02:17:14.319: Los otros reyes rodean al Relámpago del Mar sin su poder mágico ([42-068](capitulos/42.md)).
 - Cap. 43, 02:01:24.800: Citlali ve el Zampaolas detenido en la costa y trata de alcanzarlo ([43-061](capitulos/43.md)).
+
+## Zamuria
+
+- Cap. 45, 00:59:14.760: La guía da cuatro nombres de compañeros desaparecidos ([45-024](capitulos/45.md)).
+- Cap. 45, 01:01:00.400: Tortas amplifica los nombres mediante su proyección astral ([45-025](capitulos/45.md)).
 
 ## Zarial
 

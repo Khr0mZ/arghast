@@ -12,7 +12,7 @@ Base para revisar equivalencia: [14-001](../capitulos/14.md), [31-007](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 44.
+Relato revisado hasta el capítulo 45.
 
 ### Dos hermanos acostumbrados a sobrevivir juntos
 
@@ -869,4 +869,12 @@ Tipo: `hecho_confirmado`.
 Eldrat, Ilikar y Leona perciben que la población, incluida Walulu, mira con extrañeza y disgusto la piedra que antes ocupaba Tortas. Triel está sentada allí intentando meditar: cree que puede conseguir brazos astrales por imitarlo. Eldrat la reprende, la retira tirándole de la oreja y se disculpa ante Walulu por ocupar la piedra sagrada. No se manifiesta ningún poder. El capítulo termina con Tortas escondido bajo el agua y Leona e Ilikar considerando si lanzar también la cabra restante.
 
 La creencia de Triel no prueba que la piedra conceda poderes. El último lanzamiento de la cabra se debate, pero no se resuelve.
+
+## [45-070 · Tentacol encuentra una perla y los compañeros se llevan recuerdos](../capitulos/45.md) · 02:57:37.800
+
+Tipo: `hecho_confirmado`.
+
+Triel felicita el golpe de Tortas y guarda un hueso que encuentra para llevárselo a su hermano. Tentacol registra un cuerpo menos destrozado y encuentra una perla. Examina también al rival con aspecto de pez, pero su investigación solo permite reconocerlo como tal. El director señala que se parece, sin ser idéntico, a los humanoides sirena; no lleva más objetos.
+
+No se atribuyen a la perla propiedades mágicas, precio ni una identidad con la perla de comunicación de Coyote. La investigación no fija una especie de bestiario ni muestra la entrega del hueso a Eldrat.
 

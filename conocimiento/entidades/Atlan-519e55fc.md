@@ -8,11 +8,11 @@ Naór se presenta hija del mismo Camar y princesa de Atlan; Atlat es variante. N
 
 Etiquetas agrupadas: Atlan (reino leonino); Atlan (reino leonino, grafía provisional); Atlan / Atlat (reino leonino, grafía provisional).
 
-Base para revisar equivalencia: [16-003](../capitulos/16.md), [17-006](../capitulos/17.md), [20-004](../capitulos/20.md), [31-024](../capitulos/31.md).
+Base para revisar equivalencia: [16-003](../capitulos/16.md), [17-006](../capitulos/17.md), [20-004](../capitulos/20.md), [31-024](../capitulos/31.md), [45-074](../capitulos/45.md), [45-075](../capitulos/45.md), [45-076](../capitulos/45.md), [45-077](../capitulos/45.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 44.
+Relato revisado hasta el capítulo 45.
 
 ### El reino del que parte la convocatoria
 
@@ -31,6 +31,12 @@ Fuentes: [17-021 · Botín y promesa de los dirigentes de asistir al concilio](.
 Naór lleva días esperando a un emisario de su tierra que debía llegar durante el festival de Iktan. Pide noticias y presenta una ofrenda en nombre del reino. La ausencia no se explica: no se identifica al mensajero ni se acredita captura, muerte o un cambio político en Atlan.
 
 Fuentes: [41-002 · Naór consigue plaza para Leo y espera a un emisario de Atlan](../capitulos/41.md) · 00:01:18.119 · [41-004 · Naór prepara con Leo las ofrendas del festival](../capitulos/41.md) · 00:07:46.000 · [41-009 · Naór ofrece respetos de Atlan y encarga a Leo vigilar la tortuga](../capitulos/41.md) · 00:21:23.000.
+
+### La convocatoria ante Ivet
+
+Naór se presenta en Perlasal como princesa de Atlan y ofrece una respuesta común a las amenazas de la isla y el mar. Ivet reprocha al padre de la princesa la promesa incumplida de mantener unidas a las tribus. Naór defiende que el reino ha ayudado a otros pueblos y sostenido la frontera sur pese al aislamiento. Son posiciones de las interlocutoras, sin un relato completo de cada pacto o ayuda. Perlasal no queda comprometida a enviar tropas o asistir al concilio.
+
+Fuentes: [45-074 · Maris recibe a Coyote y ofrece presentar a Naór ante su madre](../capitulos/45.md) · 03:05:34.319 · [45-075 · Ivet admite a la princesa de Atlan en el templo de coral](../capitulos/45.md) · 03:08:31.120 · [45-076 · Ivet reprocha la promesa de unión incumplida y Naór defiende a Atlan](../capitulos/45.md) · 03:10:25.239 · [45-077 · La invitación al concilio queda pendiente de decisión](../capitulos/45.md) · 03:11:50.040.
 
 ## Registros y evidencias
 
@@ -121,4 +127,28 @@ Tipo: `hecho_confirmado`.
 Naór reconoce a Cipo y recuerda haberlo visto bajo un caldero. Acompaña a Leo a depositar la figura tallada y presenta su propia ofrenda en nombre de Atlan. Cuenta que de pequeña esperaba con Walulu a que la figura venerada se moviera, sin verlo. Después sienta a Leo en una piedra y le encarga vigilarla sin parpadear como prueba de paciencia, mientras busca bebida.
 
 El recuerdo infantil y la leyenda son testimonios de Naór. No se confirma avance de nivel de Leo ni movimiento de la figura venerada.
+
+## [45-074 · Maris recibe a Coyote y ofrece presentar a Naór ante su madre](../capitulos/45.md) · 03:05:34.319
+
+Tipo: `hecho_confirmado`.
+
+Maris se alegra de reencontrarse con Coyote y agradece que vuelvan a ayudar a su pueblo. Reconoce a Tentacol y acepta a los compañeros como amigos. Naór se presenta como Naór Taruan de Atlan y pide hablar con las autoridades por problemas que afectan a todos. Maris dice que su madre le habló del reino del sur y la conduce hacia ella, advirtiendo que desconfía de los extranjeros de la superficie porque no respetan el mar.
+
+El vocativo Leona del director se refiere aquí a la leonina que se presenta como Naór; no trae a la harengon Leona a esta expedición. La burla sobre un palo no aporta por sí sola detalles de una escena escrita.
+
+## [45-075 · Ivet admite a la princesa de Atlan en el templo de coral](../capitulos/45.md) · 03:08:31.120
+
+Tipo: `hecho_confirmado`.
+
+Maris lleva al grupo hasta un gran templo de coral y habla con la mujer que el director llama Irvete o Irbetta. La presenta como su madre; ella observa a los visitantes, suspira y permite que entren. Reconoce a Naór como princesa de Atlan y esta se arrodilla y hace una reverencia ante ella.
+
+La continuidad con la oficiante Ivet de Perlasal permite reunir las variantes, conservando la grafía provisional. No se presenta una boda entre Coyote y Maris por la broma sobre la suegra.
+
+## [45-076 · Ivet reprocha la promesa de unión incumplida y Naór defiende a Atlan](../capitulos/45.md) · 03:10:25.239
+
+Tipo: `declaracion_personaje`.
+
+Ivet lamenta que las tribus de la superficie lleven años sin comunicarse con ellos. Recuerda una promesa del padre de Naór de mantener unidas a las tribus, pero sostiene que se han separado. Naór responde que Atlan quedó aislado con la responsabilidad del sur y que otros líderes evitan el contacto. Más adelante defiende que su pueblo sí ha ayudado y ha cumplido su promesa de proteger la frontera meridional.
+
+Son posiciones políticas de las interlocutoras; la discusión no reconstruye por sí sola todos los términos del pacto, las ayudas dadas o la responsabilidad de cada tribu.
 

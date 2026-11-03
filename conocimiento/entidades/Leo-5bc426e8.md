@@ -8,11 +8,11 @@ Niño harengon rescatado en el capítulo 21 y protegido por Naór en el 31. La c
 
 Etiquetas agrupadas: Leo (conejo protegido por Naór); Leo (niño harengon).
 
-Base para revisar equivalencia: [21-007](../capitulos/21.md), [31-001](../capitulos/31.md), [31-006](../capitulos/31.md).
+Base para revisar equivalencia: [21-007](../capitulos/21.md), [31-001](../capitulos/31.md), [31-006](../capitulos/31.md), [45-003](../capitulos/45.md), [45-004](../capitulos/45.md), [45-010](../capitulos/45.md), [45-018](../capitulos/45.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 44.
+Relato revisado hasta el capítulo 45.
 
 ### Un niño que esperaba a sus padres
 
@@ -31,6 +31,12 @@ Fuentes: [31-004 · Tesara observa el entrenamiento de Leo](../capitulos/31.md) 
 Naór relata que lo admitieron en la academia de guerreros de Iktan gracias a su conversación con Walulu. En la taberna presenta moratones y le falta algún diente; su protectora le exige defenderse. Deposita una figura tallada y recibe el encargo de vigilar al Anciano. Durante la crisis vuelve a la taberna. Naór lo trae al final para ver a Tortas moverse y hablar, aunque el niño acaba adormeciéndose. No se fija un rango, avance de nivel ni reconocimiento sucesorio.
 
 Fuentes: [41-002 · Naór consigue plaza para Leo y espera a un emisario de Atlan](../capitulos/41.md) · 00:01:18.119 · [41-004 · Naór prepara con Leo las ofrendas del festival](../capitulos/41.md) · 00:07:46.000 · [41-009 · Naór ofrece respetos de Atlan y encarga a Leo vigilar la tortuga](../capitulos/41.md) · 00:21:23.000 · [41-014 · Cipo recupera sus llamas y Naór deja a Leo vigilado](../capitulos/41.md) · 00:38:03.000 · [41-024 · Vigilancia mágica del festival y presencia de Cipo](../capitulos/41.md) · 00:57:46.000 · [41-055 · Leo llega al encuentro y la guarida sigue sin localizarse](../capitulos/41.md) · 02:26:36.080.
+
+### Un día conflictivo en el colegio
+
+La directora del colegio atribuye a Leo peleas y un incidente con el hámster, sobre el que reconoce no ser testigo directo. Naór lo defiende y negocia que permanezca dos horas más antes de salir hacia Perlasal. Promete recogerlo y autoriza a otra persona si no vuelve. Leo no acompaña la expedición submarina y la escena no confirma una expulsión definitiva o una evaluación de su estado emocional.
+
+Fuentes: [45-003 · La directora reprocha a Naór la conducta escolar de Leo](../capitulos/45.md) · 00:04:14.680 · [45-004 · Dos monedas consiguen que Leo permanezca dos horas más](../capitulos/45.md) · 00:06:26.560 · [45-010 · Naór afirma que ella es la familia de Leo](../capitulos/45.md) · 00:19:03.159 · [45-018 · La guía pide buscar su escuadrón y Naór se aferra a Tortas](../capitulos/45.md) · 00:41:24.720.
 
 ## Registros y evidencias
 
@@ -257,4 +263,68 @@ Tipo: `hecho_confirmado`.
 Naór va a la taberna y trae a Leo para que vea a Tortas. Durante la conversación se expresa poca disposición a combatir a un dragón y Winscore empieza a apuntar el nombre y los datos que el anciano intenta recordar. Tortas dice conocer el nombre y comienza a deletrearlo con mucha lentitud. La transcripción alterna formas irreconocibles y no completa una grafía segura. Cuando preguntan por la guarida, el director aclara que Tortas no sabe dónde está. Se hace de noche, la gente abandona la fiesta y Leo empieza a dormirse mientras Naór intenta mantenerlo atento. La sesión termina con el anciano todavía pronunciando el nombre.
 
 Los enunciados sobre el roble rojo y subir una montaña no se establecen como ruta; el director corrige expresamente que desconoce la guarida. El deletreo incompleto no autoriza a fijar Colgen o Clodidrax ni a fusionar sus fichas. El comentario de Chopito sobre cuatro horas no confirma una duración literal de esta escena.
+
+## [45-001 · Los viajeros preparan la salida de Iktan hacia Perlasal](../capitulos/45.md) · 00:00:00.640
+
+Tipo: `declaracion_personaje`.
+
+Tentacol relata que ha buscado seguidores cerca de Iktan y hablado con Naór y Leo sobre ir a Perlasal. Naór cuenta sus intentos de superar el miedo al agua con Coyote, Tortas y Triel. Coyote quiere regresar a la ciudad submarina y alejarse de Iktan. Tortas recuerda sus esfuerzos por resolver cómo viajar bajo el agua y los brebajes de Coyote que le recordaron a Ilikar.
+
+Los recuerdos aluden a lo sucedido entre sesiones, sin volver a representar cada práctica. Llamar antiguo alumno a Ilikar no demuestra que Tortas conozca un desenlace de la batalla naval o que Ilikar haya muerto.
+
+## [45-003 · La directora reprocha a Naór la conducta escolar de Leo](../capitulos/45.md) · 00:04:14.680
+
+Tipo: `declaracion_personaje`.
+
+Una directora de aspecto felino y con gafas pide a Naór que no grite ante los niños. Naór defiende que Leo aprende a defenderse, pero la directora le atribuye peleas y una conducta inadecuada con el hámster del colegio. Primero dice que todos lo vieron y luego aclara que ella no fue testigo: se lo contaron los niños. Excluye a Leo de las clases de ese día.
+
+El incidente del hámster no se representa directamente ni se convierte en observación propia de la directora. El colegio no se identifica automáticamente con el edificio de la academia de guerreros del capítulo 41.
+
+## [45-004 · Dos monedas consiguen que Leo permanezca dos horas más](../capitulos/45.md) · 00:06:26.560
+
+Tipo: `hecho_confirmado`.
+
+Naór dice que no puede quedarse con Leo y deja dos monedas de oro para negociar. La directora protesta, acepta el dinero y permite dos horas más. Naór promete recoger al niño a las cinco y media y autoriza también a una chica de trenza y pelo azul para hacerlo. La directora recuerda una visita anterior de esa muchacha con otros niños, sin nombrarla aquí.
+
+La chica autorizada queda sin identificar en este pasaje; no se equipara por apariencia con Triel, que participa después en el viaje. La permanencia negociada no equivale a una expulsión definitiva ni a una recogida ya realizada.
+
+## [45-005 · Chopito propone reclutar a Tortas](../capitulos/45.md) · 00:08:04.000
+
+Tipo: `hecho_confirmado`.
+
+Mientras Coyote observa parte de la discusión, Tentacol llega con Chopito. El pulpo insiste en marcharse, se atribuye la iniciativa de reclutar por medio del niño y considera a la tortuga un posible súbdito poderoso. Tentacol se acerca a Tortas, que intenta meditar sobre la piedra pese al dolor de cabeza, y siguiendo el consejo del pulpo le echa agua por encima.
+
+Llamarlo semidiosa o súbdito expresa las pretensiones de Chopito. No establece divinidad, subordinación real o una nueva jerarquía de la comunidad.
+
+## [45-008 · Naór quiere viajar a Perlasal por la convocatoria de Tutucan](../capitulos/45.md) · 00:15:03.279
+
+Tipo: `declaracion_personaje`.
+
+Naór va al templo y conversa con Walulu sobre Leo y su próxima visita a Perlasal. Vincula el viaje con la reunión de Tutucan y explica que ha practicado para soportar el agua. Espera contar con Coyote, que conoce el camino, y con Tentacol, que parece proceder de esas aguas.
+
+El proyecto diplomático no representa una audiencia con el liderazgo de Perlasal, una invitación ya entregada o la celebración del concilio.
+
+## [45-010 · Naór afirma que ella es la familia de Leo](../capitulos/45.md) · 00:19:03.159
+
+Tipo: `hecho_confirmado`.
+
+Naór pide a Walulu que vigile a Leo en el colegio. Cuando la chamana sugiere buscarle una familia de verdad, la princesa vuelve y proclama que ella es su familia y que lo convertirá en un guerrero. Walulu lo acepta en la conversación. A solas, expresa su preocupación recordando que los bichos de una familia que Naór hizo de pequeña murieron.
+
+El recuerdo y la preocupación de Walulu no demuestran que Leo vaya a sufrir el mismo destino ni una evaluación de sus secuelas. La escena no formaliza una adopción ante Eromov o Atlan.
+
+## [45-011 · El grupo se reúne y Tortas reacciona al año y la hora](../capitulos/45.md) · 00:19:48.080
+
+Tipo: `hecho_confirmado`.
+
+Naór sigue el rastro de Coyote y lo recoge al salir otra vez de la taberna, donde han vuelto a echarlo con una botella. Ambos se reúnen con Tentacol, Chopito y Tortas. Hablan de llegar a Perlasal y volver a tiempo por Leo, y Coyote promete un atajo aunque no explica aún la respiración. Tortas pregunta el año y la hora; el director responde 1496 y las diez y cuarenta y tres de la mañana. El monje se ilumina brevemente, se mueve el aire y suena un destello, sin explicar el cambio.
+
+La fecha y la hora pertenecen al calendario ficticio. La luz no demuestra un cumpleaños, una edad exacta, ascenso de nivel o conciliación entre los 77 años declarados y los siglos atribuidos a Tortas.
+
+## [45-066 · Tentacol debilita al último rival y Naór guarda una cabeza para Leo](../capitulos/45.md) · 02:49:51.439
+
+Tipo: `hecho_confirmado`.
+
+Chopito sube al pecho del sacerdote inconsciente. Tentacol dirige sus descargas y el tentáculo contra el último adversario activo, con un impacto crítico entre los rayos. Naór corta la cabeza de un rival ya caído, la guarda como recuerdo para Leo y pide a Tortas que acabe con el enemigo restante.
+
+La cabeza tomada como trofeo no es la del sacerdote que permanece entero para la escena posterior de Chopito. No se muestra una entrega a Leo ni debe atribuirse una reacción suya.
 

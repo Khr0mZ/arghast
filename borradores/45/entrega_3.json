@@ -1,0 +1,1257 @@
+{
+  "bloque": 3,
+  "lectura_completa": true,
+  "primer_segmento": "c005749",
+  "ultimo_segmento": "c008621",
+  "etapas": [
+    {
+      "titulo": "El altar y el grito",
+      "texto": "Mientras Chopito se acerca al agua, uno de los enemigos alza un cuchillo ante la cautiva y recita palabras extrañas. Tentacol avanza nadando y atraviesa a dos rivales con un rayo. Naór trata de acortar el camino impulsándose sobre la cabeza de Coyote: él intenta resistirse, pero se hunde y la leonina llega al otro lado. Tortas sale del caparazón y manifiesta dos brazos astrales. La criatura tentacular que lo amenaza corre tras Naór; Tortas falla al tratar de golpearla cuando se aleja. El monstruo abre la boca y lanza un grito que aturde a la leonina. Otros enemigos emergen del agua y uno muerde y hiere a Triel. Coyote alcanza la orilla bajo su apariencia majestuosa, conserva la concentración que la sostiene y emplea susurros para dañar y apartar a un adversario.",
+      "referencias": [
+        "45-201",
+        "45-202",
+        "45-203",
+        "45-204",
+        "45-205"
+      ]
+    },
+    {
+      "titulo": "El combate se estrecha",
+      "texto": "El hechicero promete que su dios enseñará el verdadero poder cuando llegue y devuelve un rayo que atraviesa a Tortas, Coyote y Tentacol. El sacerdote golpea a Naór con una descarga atronadora. Tentacol responde con sus rayos y el tentáculo, mientras Naór, todavía aturdida, intenta cegar sin éxito a un enemigo con su aura. Tortas toma una poción y entra en la lucha con sus puños astrales; la protección de Tentacol reduce parte del daño que recibe. Triel acaba con el rival que la atacaba en el agua y se acerca a los demás. Coyote trata de imponer una orden de alto a tres adversarios, pero todos resisten. Chopito tampoco consigue sujetar al enemigo tentacular, que lo aparta. El hechicero cura a un aliado y el sacerdote consigue devolver a Coyote la orden que él no había logrado imponer.",
+      "referencias": [
+        "45-206",
+        "45-207",
+        "45-208",
+        "45-209",
+        "45-210",
+        "45-211"
+      ]
+    },
+    {
+      "titulo": "El cautivo que no será interrogado",
+      "texto": "Tentacol pide que conserven vivo al hombre tentacular. Naór lo golpea con el mango del arma y lo deja inconsciente; después consigue cegar a otro adversario. Tortas descarga su enfado por el caparazón dañado y golpea repetidamente a la criatura que lo mordió. Triel ayuda a Naór y Coyote llega a curarla a ella antes de desatar a la sirena. Entre los rayos de Tentacol y los puños de Tortas cae el último enemigo activo. Naór guarda una cabeza como recuerdo para Leo y Tortas arranca un trofeo del rostro de su rival. La cautiva agradece el rescate, pero la herida de su cola le impide nadar y Coyote debe ayudarla. Entretanto, Tentacol coloca al sacerdote inconsciente junto a Chopito y agranda su sombra con humo y luces. El pulpo pronuncia su proclama de supremacía y lo mata abriéndose paso por el cuerpo. No obtiene una confesión ni una respuesta sobre el culto.",
+      "referencias": [
+        "45-212",
+        "45-213",
+        "45-214",
+        "45-215",
+        "45-216",
+        "45-217",
+        "45-218"
+      ]
+    },
+    {
+      "titulo": "Magia bajo el agua",
+      "texto": "Antes de salir, Tentacol registra un cuerpo y encuentra una perla. Otro examen solo permite reconocer a un enemigo como un pez parecido a los humanoides sirena; no concreta su especie. Triel recoge un hueso para su hermano. Naór busca magia y descubre una concentración intensa en el altar, además de un resplandor que abarca el agua de la cueva. Nadie desactiva el lugar ni identifica con certeza a la criatura que lo consagra. Tentacol recuerda las leyendas de Perlasal sobre un enorme kraken procedente de otro plano, aunque sigue convencido de que el único ser supremo es Chopito. Esa creencia no prueba que el kraken haya sido invocado. Los compañeros salen con la rescatada, se reúnen con la sirena que esperaba fuera y ambas los guían hasta las construcciones de coral de Perlasal.",
+      "referencias": [
+        "45-219",
+        "45-220",
+        "45-221",
+        "45-222"
+      ]
+    },
+    {
+      "titulo": "La deuda de las tribus",
+      "texto": "Maris recibe con alegría a Coyote, agradece la nueva ayuda y reconoce a Tentacol. Naór se presenta por Atlan y solicita hablar con las autoridades. Maris la conduce ante su madre, Ivet, en el templo de coral, advirtiendo que desconfía de la gente de la superficie. La oficiante reconoce a la princesa y permite la audiencia. Reprocha al padre de Naór la antigua promesa de mantener juntas a las tribus: desde entonces, afirma, apenas se hablan y algunas se han atacado o abandonado. Naór defiende que Atlan ha cumplido protegiendo la frontera sur y ayudando a otros pueblos. Ante las amenazas compartidas anuncia el concilio de Tutucan y pide que dejen el orgullo a un lado. Ivet promete meditarlo, pero su respuesta todavía es poco favorable; no confirma su asistencia. Menciona el regreso de los yuan-ti y vuelve a los salmos con su pueblo. Mientras los visitantes permanecen en el templo, Triel se interesa por un animal parecido a un caballo con cola marina y pregunta si puede probarlo. Ahí termina la sesión.",
+      "referencias": [
+        "45-223",
+        "45-224",
+        "45-225",
+        "45-226",
+        "45-227"
+      ]
+    }
+  ],
+  "afirmaciones": [
+    {
+      "id": "45-201",
+      "titulo": "Tentacol atraviesa a dos enemigos mientras el sacerdote alza el cuchillo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Chopito se acerca al agua y empieza a nadar. El sireno extraño se toca a sí mismo para prepararse, mientras el otro enemigo levanta un cuchillo ante la cautiva y recita palabras extrañas. Tentacol avanza nadando y lanza un rayo que atraviesa a los dos adversarios; invoca además su tentáculo, cuyo ataque no alcanza en ese turno.",
+      "inicio": "02:11:05.040",
+      "fin": "02:13:41.149",
+      "cita": "atraviesa los dos.",
+      "evidencia_cue": {
+        "inicio": "02:13:12.000",
+        "fin": "02:13:15.350",
+        "texto": "atraviesa los dos."
+      },
+      "entidades": [
+        "Tentacol",
+        "Chopito",
+        "Sacerdote de los Profundos",
+        "Sireno hechicero de los Profundos",
+        "Sirena cautiva del altar",
+        "Altar de los Profundos"
+      ],
+      "ambito": "rescate en el escondite y audiencia en Perlasal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Los dos enemigos se distinguen por sus acciones. Levantar el cuchillo no demuestra que el sacrificio de la cautiva se complete ni que ya muera."
+    },
+    {
+      "id": "45-202",
+      "titulo": "Naór usa a Coyote como apoyo para llegar al sacerdote",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Naór gasta su movimiento para alcanzar a Coyote y salta pisándole la cabeza. Coyote intenta resistirse, pero acaba hundido mientras la leonina llega al otro lado. Naór usa su esfuerzo adicional para seguir corriendo, recibe un ataque de oportunidad fallido y activa su furia para aproximarse al sacerdote.",
+      "inicio": "02:13:41.159",
+      "fin": "02:16:07.109",
+      "cita": "va a ser perfecto para que llega al otro",
+      "evidencia_cue": {
+        "inicio": "02:15:03.520",
+        "fin": "02:15:06.109",
+        "texto": "va a ser perfecto para que llega al otro"
+      },
+      "entidades": [
+        "Naór",
+        "Coyote",
+        "Sacerdote de los Profundos"
+      ],
+      "ambito": "rescate en el escondite y audiencia en Perlasal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El hundimiento es momentáneo y Coyote continúa actuando después; no implica ahogamiento o muerte. La maniobra no se convierte en un acuerdo voluntario de ambos."
+    },
+    {
+      "id": "45-203",
+      "titulo": "Tortas sale del caparazón y manifiesta brazos astrales",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tortas sale de su caparazón y se ilumina al manifestar dos brazos que emergen de él. El jugador selecciona al principio otra función por error y corrige la elección a los puños astrales. La aparición de los brazos provoca una tirada de daño contra el enemigo cercano, y Tortas permanece en su posición.",
+      "inicio": "02:16:07.119",
+      "fin": "02:18:14.230",
+      "cita": "y salen dos puños así como en doble",
+      "evidencia_cue": {
+        "inicio": "02:16:48.960",
+        "fin": "02:16:51.830",
+        "texto": "y salen dos puños así como en doble"
+      },
+      "entidades": [
+        "Tortas",
+        "Criatura tentacular del altar"
+      ],
+      "ambito": "rescate en el escondite y audiencia en Perlasal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La función seleccionada por error no añade una manifestación distinta ni una habilidad usada que luego se haya cancelado por otra causa."
+    },
+    {
+      "id": "45-204",
+      "titulo": "La criatura del altar aturde a Naór y surgen refuerzos del agua",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La criatura tentacular ignora a Tortas y corre hacia Naór, que ha pasado de largo en dirección al sacerdote. Tortas falla el ataque de oportunidad. El monstruo abre la boca, alza sus tentáculos y grita; Naór no supera la salvación, tampoco tras repetirla, y queda aturdida. Después emergen otros enemigos del agua y uno hiere a Triel con ataques y mordisco.",
+      "inicio": "02:18:14.240",
+      "fin": "02:21:18.750",
+      "cita": "Te quedas stun ahora mismo. Ves que te",
+      "evidencia_cue": {
+        "inicio": "02:20:08.560",
+        "fin": "02:20:10.910",
+        "texto": "Te quedas stun ahora mismo. Ves que te"
+      },
+      "entidades": [
+        "Naór",
+        "Tortas",
+        "Triel",
+        "Criatura tentacular del altar",
+        "Profundos"
+      ],
+      "ambito": "rescate en el escondite y audiencia en Perlasal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El director aclara más adelante que el grito no es un conjuro ni depende de concentración. La repetición de la salvación no elimina el aturdimiento en este turno."
+    },
+    {
+      "id": "45-205",
+      "titulo": "Coyote mantiene su apariencia majestuosa y repele a un enemigo con susurros",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Triel se defiende en el agua. Coyote llega a la orilla bajo una apariencia y un aura de gracia que compara con las de un dios. El director le recuerda que ya mantiene un efecto de concentración. Elige unos susurros que infligen trece puntos de daño y obligan al adversario a apartarse, conservando su efecto anterior.",
+      "inicio": "02:21:18.760",
+      "fin": "02:25:21.309",
+      "cita": "Vale, pues son 13 de daño y nada, me lo",
+      "evidencia_cue": {
+        "inicio": "02:24:38.279",
+        "fin": "02:24:41.110",
+        "texto": "Vale, pues son 13 de daño y nada, me lo"
+      },
+      "entidades": [
+        "Coyote",
+        "Triel",
+        "Sireno hechicero de los Profundos"
+      ],
+      "ambito": "rescate en el escondite y audiencia en Perlasal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La representación majestuosa no lo identifica como deidad. El aturdimiento de Naór procede del otro monstruo y no se disipa dañando a este sireno o interrumpiendo su concentración."
+    },
+    {
+      "id": "45-206",
+      "titulo": "El hechicero devuelve un rayo y anuncia la llegada de su dios",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Chopito vuelve al frasco de Tentacol. El sireno hechicero habla en Aquan, llama inferiores a los aventureros y sostiene que su dios les enseñará el verdadero poder cuando venga. Lanza un enorme rayo en una línea que afecta a Tortas, Coyote y Tentacol. Coyote supera después la prueba para mantener la concentración.",
+      "inicio": "02:25:21.319",
+      "fin": "02:27:49.750",
+      "cita": "\"Seres inferiores, cuando venga nuestro",
+      "evidencia_cue": {
+        "inicio": "02:26:11.479",
+        "fin": "02:26:14.469",
+        "texto": "\"Seres inferiores, cuando venga nuestro"
+      },
+      "entidades": [
+        "Chopito",
+        "Tentacol",
+        "Tortas",
+        "Coyote",
+        "Sireno hechicero de los Profundos",
+        "Profundos"
+      ],
+      "ambito": "rescate en el escondite y audiencia en Perlasal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El anuncio pertenece al enemigo y no identifica a la deidad ni confirma que llegue durante esta sesión. El agua no extiende automáticamente el rayo a todos: el director delimita una línea y sus objetivos."
+    },
+    {
+      "id": "45-207",
+      "titulo": "El sacerdote golpea a Naór y Tentacol insiste con rayos y tentáculo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El sacerdote se gira hacia Naór y la golpea con una mano chispeante y un impacto atronador que la empuja. Tentacol responde con dos descargas que aciertan, se acerca con Chopito en el frasco y vuelve a golpear con el tentáculo. Rechaza expresamente usar el empuje de sus descargas en ese turno.",
+      "inicio": "02:27:49.760",
+      "fin": "02:29:58.910",
+      "cita": "que hace y te metan como un golpe de a",
+      "evidencia_cue": {
+        "inicio": "02:28:23.720",
+        "fin": "02:28:26.110",
+        "texto": "que hace y te metan como un golpe de a"
+      },
+      "entidades": [
+        "Sacerdote de los Profundos",
+        "Naór",
+        "Tentacol",
+        "Chopito"
+      ],
+      "ambito": "rescate en el escondite y audiencia en Perlasal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No atribuir al sacerdote un cambio de forma ni fusionarlo con la criatura que gritó. La posibilidad de empujar se menciona, pero el jugador decide no hacerlo."
+    },
+    {
+      "id": "45-208",
+      "titulo": "Naór falla la ceguera mientras sigue aturdida",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Durante el aturdimiento se plantea conservar vivo al adversario tentacular. Naór usa el aura luminosa que sigue emitiendo con su furia para intentar cegar a un enemigo, pero este supera la salvación de constitución. Tortas toma una poción roja, se cura y golpea dos veces con los brazos astrales. Tentacol reduce parte del daño de un ataque contra Tortas mediante su protección de tentáculo.",
+      "inicio": "02:29:58.920",
+      "fin": "02:34:13.349",
+      "cita": "19 la pasa. Pas. Sí, sí.",
+      "evidencia_cue": {
+        "inicio": "02:30:55.319",
+        "fin": "02:30:59.389",
+        "texto": "19 la pasa. Pas. Sí, sí."
+      },
+      "entidades": [
+        "Naór",
+        "Tortas",
+        "Tentacol",
+        "Criatura tentacular del altar"
+      ],
+      "ambito": "rescate en el escondite y audiencia en Perlasal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La primera ceguera no surte efecto. El director termina el aturdimiento al final del turno de la criatura, de modo que no se prolonga durante todo el combate. La poción no recibe un nombre propio."
+    },
+    {
+      "id": "45-209",
+      "titulo": "Triel mata al enemigo que la atacaba en el agua",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Triel recibe nuevos golpes y un mordisco del enemigo acuático, mantiene la luz que el grupo necesita y responde con ataques y patadas. El director confirma que mata a ese rival y avanza para reunirse con los demás.",
+      "inicio": "02:34:13.359",
+      "fin": "02:36:21.150",
+      "cita": "lo mata y se mueve por aquí. Pues estos",
+      "evidencia_cue": {
+        "inicio": "02:36:07.000",
+        "fin": "02:36:09.150",
+        "texto": "lo mata y se mueve por aquí. Pues estos"
+      },
+      "entidades": [
+        "Triel",
+        "Profundos"
+      ],
+      "ambito": "rescate en el escondite y audiencia en Perlasal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La luz no desaparece pese a la discusión sobre las tiradas. La descripción de los golpes no acredita una amputación ni convierte las bromas sobre sus heridas en un diagnóstico."
+    },
+    {
+      "id": "45-210",
+      "titulo": "Los tres rivales resisten la orden de Coyote",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Coyote se acerca y lanza a tercer nivel una orden de alto sobre tres enemigos para impedir sus movimientos y acciones. Todos superan las salvaciones. Después busca curar a Triel, pero reconoce que está demasiado lejos y no llega a hacerlo en ese momento.",
+      "inicio": "02:36:21.160",
+      "fin": "02:38:48.269",
+      "cita": "lo pasan todo,",
+      "evidencia_cue": {
+        "inicio": "02:38:06.640",
+        "fin": "02:38:08.429",
+        "texto": "lo pasan todo,"
+      },
+      "entidades": [
+        "Coyote",
+        "Triel",
+        "Profundos"
+      ],
+      "ambito": "rescate en el escondite y audiencia en Perlasal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La intención de parar a tres adversarios no es un éxito de control. La propuesta de curación no se cuenta como curación ya recibida por Triel."
+    },
+    {
+      "id": "45-211",
+      "titulo": "Chopito no logra sujetar al sacerdote y este ordena detenerse a Coyote",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Chopito sale del frasco y trata de agarrarse a la cara de un enemigo tentacular, pero los tentáculos del adversario lo apartan y lo dejan en el suelo. El hechicero, protegido por imágenes especulares, se mueve para curar a un aliado y vuelve a separarse. El sacerdote replica la orden de Coyote y le dice alto; el director confirma que Coyote no la resiste.",
+      "inicio": "02:38:48.279",
+      "fin": "02:41:34.870",
+      "cita": "coyote, a ti sí que te entra.",
+      "evidencia_cue": {
+        "inicio": "02:41:24.560",
+        "fin": "02:41:27.630",
+        "texto": "coyote, a ti sí que te entra."
+      },
+      "entidades": [
+        "Chopito",
+        "Coyote",
+        "Sacerdote de los Profundos",
+        "Sireno hechicero de los Profundos"
+      ],
+      "ambito": "rescate en el escondite y audiencia en Perlasal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El intento de agarre falla; no dejar al enemigo restringido por Chopito. La protección frente a encantamiento que se discute no anula automáticamente la orden aplicada."
+    },
+    {
+      "id": "45-212",
+      "titulo": "Naór deja inconsciente al sacerdote y ciega a otro adversario",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tentacol pide en nombre de su señor que no maten al hombre tentacular y dispara para debilitarlo. Naór utiliza el mango de su arma y declara daño no letal; el golpe lo deja inconsciente. A continuación falla un ataque contra otro enemigo, pero su aura radiante sí logra cegarlo y le causa daño.",
+      "inicio": "02:41:34.880",
+      "fin": "02:44:55.190",
+      "cita": "inconsciente.",
+      "evidencia_cue": {
+        "inicio": "02:43:00.840",
+        "fin": "02:43:02.550",
+        "texto": "inconsciente."
+      },
+      "entidades": [
+        "Tentacol",
+        "Naór",
+        "Sacerdote de los Profundos",
+        "Criatura tentacular del altar"
+      ],
+      "ambito": "rescate en el escondite y audiencia en Perlasal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El comentario jocoso sobre apuntar a la cabeza no convierte al sacerdote en muerto antes del golpe no letal. El ataque fallido posterior no provoca derribo; la ceguera proviene de la acción luminosa que sí se resuelve."
+    },
+    {
+      "id": "45-213",
+      "titulo": "Tortas castiga al enemigo que le dañó el caparazón",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tortas se enfada por el daño a su caparazón, golpea repetidamente con sus brazos astrales y una ráfaga adicional de puñetazos. La criatura termina sangrando por la cara y responde con ataques y mordisco. El director comienza a anunciar otro grito aturdidor, pero rectifica al comprobar que esa capacidad ya está gastada hasta un descanso.",
+      "inicio": "02:44:55.200",
+      "fin": "02:47:05.870",
+      "cita": "y te va a intentar. Ah, no, solo puedo",
+      "evidencia_cue": {
+        "inicio": "02:46:26.200",
+        "fin": "02:46:27.630",
+        "texto": "y te va a intentar. Ah, no, solo puedo"
+      },
+      "entidades": [
+        "Tortas",
+        "Criatura tentacular del altar"
+      ],
+      "ambito": "rescate en el escondite y audiencia en Perlasal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se produce un segundo aturdimiento: la acción se corrige antes de resolverla. Las referencias de los jugadores a otras obras describen la escena, no una transformación adicional de Tortas."
+    },
+    {
+      "id": "45-214",
+      "titulo": "Triel ayuda a Naór y Coyote cura a Triel",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Triel se acerca para apartar de su amiga al enemigo que sigue activo y lanza magia que permite a Naór realizar otro ataque. Coyote, ya liberado de la orden tras caer inconsciente quien la impuso, llega hasta Triel y la cura con un conjuro de tercer nivel. Después va hacia la cautiva y comienza a desatarla.",
+      "inicio": "02:47:05.880",
+      "fin": "02:49:51.429",
+      "cita": "Ojo, la cura.",
+      "evidencia_cue": {
+        "inicio": "02:49:27.520",
+        "fin": "02:49:30.590",
+        "texto": "Ojo, la cura."
+      },
+      "entidades": [
+        "Triel",
+        "Naór",
+        "Coyote",
+        "Sirena cautiva del altar",
+        "Sacerdote de los Profundos"
+      ],
+      "ambito": "rescate en el escondite y audiencia en Perlasal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La referencia inicial a amiga Leona se corrige por la llamada a Naór y la continuidad de la leonina del grupo. La broma sobre un órgano ausente no documenta una amputación real."
+    },
+    {
+      "id": "45-215",
+      "titulo": "Tentacol debilita al último rival y Naór guarda una cabeza para Leo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Chopito sube al pecho del sacerdote inconsciente. Tentacol dirige sus descargas y el tentáculo contra el último adversario activo, con un impacto crítico entre los rayos. Naór corta la cabeza de un rival ya caído, la guarda como recuerdo para Leo y pide a Tortas que acabe con el enemigo restante.",
+      "inicio": "02:49:51.439",
+      "fin": "02:51:50.349",
+      "cita": "\"Ah, sí, souvenir para Leo.\" Y nada, lo",
+      "evidencia_cue": {
+        "inicio": "02:51:29.160",
+        "fin": "02:51:32.349",
+        "texto": "\"Ah, sí, souvenir para Leo.\" Y nada, lo"
+      },
+      "entidades": [
+        "Tentacol",
+        "Chopito",
+        "Naór",
+        "Leo",
+        "Tortas",
+        "Sacerdote de los Profundos",
+        "Profundos"
+      ],
+      "ambito": "rescate en el escondite y audiencia en Perlasal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La cabeza tomada como trofeo no es la del sacerdote que permanece entero para la escena posterior de Chopito. No se muestra una entrega a Leo ni debe atribuirse una reacción suya."
+    },
+    {
+      "id": "45-216",
+      "titulo": "Tortas abate a la última criatura y recoge un trofeo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tortas vuelve a atacar. Tras corregir una primera lectura errónea de crítico, sus brazos astrales se juntan en uno bajo un aura azul y hunden el rostro del enemigo contra el suelo. El director confirma que lo mata. Tortas arranca después un fragmento de la cara y sigue golpeando el cadáver, quejándose por el caparazón.",
+      "inicio": "02:51:50.359",
+      "fin": "02:53:25.750",
+      "cita": "tienes pero bueno, da igual, lo mataría.",
+      "evidencia_cue": {
+        "inicio": "02:52:41.640",
+        "fin": "02:52:44.590",
+        "texto": "tienes pero bueno, da igual, lo mataría."
+      },
+      "entidades": [
+        "Tortas",
+        "Criatura tentacular del altar"
+      ],
+      "ambito": "rescate en el escondite y audiencia en Perlasal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El trofeo se describe primero como oreja y después como parte de la boca; no fijar una pieza anatómica más precisa. La queja no acredita que haya reparado ya el caparazón."
+    },
+    {
+      "id": "45-217",
+      "titulo": "La sirena cautiva es liberada y necesita ayuda para salir",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Triel se acerca con las espadas y propone matar también a la sirena, pero los demás la detienen. Coyote termina de desatar a la cautiva, se presenta y explica que han venido a ayudar. Ella agradece el rescate y pide que la asistan porque la cola herida le impide nadar. Coyote se la carga a la espalda con dificultad por su poca fuerza y la aproxima al agua.",
+      "inicio": "02:53:25.760",
+      "fin": "02:55:17.870",
+      "cita": "nadar.\" Y os enseñan la cola.",
+      "evidencia_cue": {
+        "inicio": "02:54:31.720",
+        "fin": "02:54:35.630",
+        "texto": "nadar.\" Y os enseñan la cola."
+      },
+      "entidades": [
+        "Sirena cautiva del altar",
+        "Coyote",
+        "Triel"
+      ],
+      "ambito": "rescate en el escondite y audiencia en Perlasal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La cautiva no recibe un nombre propio en este tramo y no se identifica con Maris. La amenaza de Triel no llega a ejecutarse ni implica la muerte de la rescatada."
+    },
+    {
+      "id": "45-218",
+      "titulo": "Chopito mata al sacerdote que habían conservado inconsciente",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tentacol coloca al sacerdote junto a Chopito y prepara humo y luces para agrandar la sombra del pulpo. Chopito se presenta como ser supremo y reprocha al cautivo que intentara sacrificar a una criatura a otro dios. Amenaza con entrar por la boca y abrirse paso por el pecho; la narración representa que lo hace y sale ensangrentado del cuerpo. Los demás solo ven y oyen al pulpo actuar mientras el rival muere.",
+      "inicio": "02:55:17.880",
+      "fin": "02:57:37.790",
+      "cita": "y sale por el pecho.",
+      "evidencia_cue": {
+        "inicio": "02:57:16.000",
+        "fin": "02:57:21.870",
+        "texto": "y sale por el pecho."
+      },
+      "entidades": [
+        "Tentacol",
+        "Chopito",
+        "Sacerdote de los Profundos",
+        "Altar de los Profundos"
+      ],
+      "ambito": "rescate en el escondite y audiencia en Perlasal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El sacerdote inconsciente es finalmente ejecutado, sin interrogatorio ni respuesta documentada. Las proclamaciones de supremacía y los relatos de supuestas víctimas anteriores son palabras de Chopito; no prueban divinidad ni otros hechos fuera de la escena."
+    },
+    {
+      "id": "45-219",
+      "titulo": "Tentacol encuentra una perla y los compañeros se llevan recuerdos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Triel felicita el golpe de Tortas y guarda un hueso que encuentra para llevárselo a su hermano. Tentacol registra un cuerpo menos destrozado y encuentra una perla. Examina también al rival con aspecto de pez, pero su investigación solo permite reconocerlo como tal. El director señala que se parece, sin ser idéntico, a los humanoides sirena; no lleva más objetos.",
+      "inicio": "02:57:37.800",
+      "fin": "03:00:59.229",
+      "cita": "Es una perla,",
+      "evidencia_cue": {
+        "inicio": "02:59:40.800",
+        "fin": "02:59:43.070",
+        "texto": "Es una perla,"
+      },
+      "entidades": [
+        "Triel",
+        "Eldrat",
+        "Tortas",
+        "Tentacol",
+        "Perla hallada en el escondite",
+        "Profundos"
+      ],
+      "ambito": "rescate en el escondite y audiencia en Perlasal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se atribuyen a la perla propiedades mágicas, precio ni una identidad con la perla de comunicación de Coyote. La investigación no fija una especie de bestiario ni muestra la entrega del hueso a Eldrat."
+    },
+    {
+      "id": "45-220",
+      "titulo": "Naór percibe magia concentrada en el altar y en toda el agua",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Antes de abandonar la cueva, Naór busca objetos o efectos mágicos relacionados con el ritual. Percibe una concentración intensa en el altar, como una consagración por alguna criatura extraña, y ve también el agua iluminada como si fuera mágica. Lo comunica al grupo y pregunta a Tentacol a quién dedicaban los sacrificios.",
+      "inicio": "03:00:59.239",
+      "fin": "03:03:18.990",
+      "cita": "que se ilumina también como si todo el",
+      "evidencia_cue": {
+        "inicio": "03:02:17.960",
+        "fin": "03:02:21.269",
+        "texto": "que se ilumina también como si todo el"
+      },
+      "entidades": [
+        "Naór",
+        "Tentacol",
+        "Altar de los Profundos",
+        "Escondite de los Profundos"
+      ],
+      "ambito": "rescate en el escondite y audiencia en Perlasal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El director no identifica una maldición concreta, el origen de la magia del agua ni una deidad confirmada. El grupo no desactiva ni destruye el altar en la escena."
+    },
+    {
+      "id": "45-221",
+      "titulo": "Tentacol recuerda leyendas de un kraken de otro plano",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Al intentar reconocer el culto, Tentacol recuerda las leyendas de Perlasal sobre una enorme criatura de otro plano que vendría a destruir y conquistar el mundo. El nombre recordado es kraken. Su convicción personal sigue siendo que la criatura suprema es Chopito, y no el kraken del que hablan los habitantes.",
+      "inicio": "03:03:19.000",
+      "fin": "03:04:06.590",
+      "cita": "otro plano a destruirnos, que es enorme,",
+      "evidencia_cue": {
+        "inicio": "03:03:33.880",
+        "fin": "03:03:37.590",
+        "texto": "otro plano a destruirnos, que es enorme,"
+      },
+      "entidades": [
+        "Tentacol",
+        "Chopito",
+        "Perlasal",
+        "Profundos"
+      ],
+      "ambito": "rescate en el escondite y audiencia en Perlasal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Las leyendas y la creencia de Tentacol se atribuyen a sus fuentes. No confirman la presencia actual de un kraken, una identidad entre este y Chopito ni que el ritual abortado lograra invocarlo."
+    },
+    {
+      "id": "45-222",
+      "titulo": "El grupo sale con la rescatada y llega a Perlasal",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los compañeros salen de la caverna y se reúnen con la otra sirena que esperaba fuera. Ambas agradecen la ayuda y los guían nadando hasta Perlasal, un valle submarino de corales coloridos y construcciones de coral. Los soldados los paran con recelo, pero un gesto de las sirenas permite el paso.",
+      "inicio": "03:04:06.600",
+      "fin": "03:05:34.309",
+      "cita": "ellos os darán las gracias y iréis hasta",
+      "evidencia_cue": {
+        "inicio": "03:04:37.600",
+        "fin": "03:04:41.429",
+        "texto": "ellos os darán las gracias y iréis hasta"
+      },
+      "entidades": [
+        "Coyote",
+        "Naór",
+        "Triel",
+        "Tortas",
+        "Tentacol",
+        "Sirena cautiva del altar",
+        "Gu?a sir?nida enviada por Maris",
+        "Perlasal"
+      ],
+      "ambito": "rescate en el escondite y audiencia en Perlasal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El rescate concluye con la salida y llegada a la población, pero no se muestra la curación de la cola. La acompañante que espera fuera no recibe nombre en este tramo."
+    },
+    {
+      "id": "45-223",
+      "titulo": "Maris recibe a Coyote y ofrece presentar a Naór ante su madre",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Maris se alegra de reencontrarse con Coyote y agradece que vuelvan a ayudar a su pueblo. Reconoce a Tentacol y acepta a los compañeros como amigos. Naór se presenta como Naór Taruan de Atlan y pide hablar con las autoridades por problemas que afectan a todos. Maris dice que su madre le habló del reino del sur y la conduce hacia ella, advirtiendo que desconfía de los extranjeros de la superficie porque no respetan el mar.",
+      "inicio": "03:05:34.319",
+      "fin": "03:08:30.510",
+      "cita": "\"Hola, soy Maris y usted es",
+      "evidencia_cue": {
+        "inicio": "03:07:03.680",
+        "fin": "03:07:07.550",
+        "texto": "\"Hola, soy Maris y usted es"
+      },
+      "entidades": [
+        "Maris",
+        "Coyote",
+        "Tentacol",
+        "Naór",
+        "Atlan",
+        "Ivet",
+        "Perlasal"
+      ],
+      "ambito": "rescate en el escondite y audiencia en Perlasal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El vocativo Leona del director se refiere aquí a la leonina que se presenta como Naór; no trae a la harengon Leona a esta expedición. La burla sobre un palo no aporta por sí sola detalles de una escena escrita."
+    },
+    {
+      "id": "45-224",
+      "titulo": "Ivet admite a la princesa de Atlan en el templo de coral",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Maris lleva al grupo hasta un gran templo de coral y habla con la mujer que el director llama Irvete o Irbetta. La presenta como su madre; ella observa a los visitantes, suspira y permite que entren. Reconoce a Naór como princesa de Atlan y esta se arrodilla y hace una reverencia ante ella.",
+      "inicio": "03:08:31.120",
+      "fin": "03:10:25.229",
+      "cita": "Naor de Atlan nos ha venido a visitar.",
+      "evidencia_cue": {
+        "inicio": "03:10:02.920",
+        "fin": "03:10:10.550",
+        "texto": "Naor de Atlan nos ha venido a visitar."
+      },
+      "entidades": [
+        "Ivet",
+        "Maris",
+        "Naór",
+        "Atlan",
+        "Templo de Perlasal",
+        "Tortas"
+      ],
+      "ambito": "rescate en el escondite y audiencia en Perlasal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La continuidad con la oficiante Ivet de Perlasal permite reunir las variantes, conservando la grafía provisional. No se presenta una boda entre Coyote y Maris por la broma sobre la suegra."
+    },
+    {
+      "id": "45-225",
+      "titulo": "Ivet reprocha la promesa de unión incumplida y Naór defiende a Atlan",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Ivet lamenta que las tribus de la superficie lleven años sin comunicarse con ellos. Recuerda una promesa del padre de Naór de mantener unidas a las tribus, pero sostiene que se han separado. Naór responde que Atlan quedó aislado con la responsabilidad del sur y que otros líderes evitan el contacto. Más adelante defiende que su pueblo sí ha ayudado y ha cumplido su promesa de proteger la frontera meridional.",
+      "inicio": "03:10:25.239",
+      "fin": "03:13:22.349",
+      "cita": "Nuestra promesa era mantener la frontera",
+      "evidencia_cue": {
+        "inicio": "03:13:15.760",
+        "fin": "03:13:18.070",
+        "texto": "Nuestra promesa era mantener la frontera"
+      },
+      "entidades": [
+        "Ivet",
+        "Naór",
+        "Camar Taruan",
+        "Atlan",
+        "Perlasal"
+      ],
+      "ambito": "rescate en el escondite y audiencia en Perlasal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Son posiciones políticas de las interlocutoras; la discusión no reconstruye por sí sola todos los términos del pacto, las ayudas dadas o la responsabilidad de cada tribu."
+    },
+    {
+      "id": "45-226",
+      "titulo": "La invitación al concilio queda pendiente de decisión",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Naór anuncia que se ha cantado la canción del concilio y convoca a los líderes a una reunión en Tutucan frente a las amenazas que afectan a la isla y al mar. Ivet recuerda que la última reunión terminó en separación y lamenta los ataques y abandonos entre pueblos. Tras mirar a su hija y a los suyos, dice que lo meditará, pero advierte que la respuesta de momento es poco favorable por sus problemas locales. Menciona que ha oído que los yuan-ti han vuelto; Naór lo confirma.",
+      "inicio": "03:11:50.040",
+      "fin": "03:14:57.190",
+      "cita": "\"Meditaré.",
+      "evidencia_cue": {
+        "inicio": "03:13:50.479",
+        "fin": "03:13:53.110",
+        "texto": "\"Meditaré."
+      },
+      "entidades": [
+        "Naór",
+        "Ivet",
+        "Maris",
+        "Tutucan",
+        "Yuan-ti",
+        "Perlasal",
+        "Xoltacan"
+      ],
+      "ambito": "rescate en el escondite y audiencia en Perlasal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Meditar la propuesta no equivale a aceptar la asistencia, enviar tropas o cerrar una alianza. No se fija aquí una nueva fecha del concilio. La mención de los yuan-ti no prueba que sean la misma organización que los Profundos."
+    },
+    {
+      "id": "45-227",
+      "titulo": "La audiencia acaba entre salmos y la curiosidad de Triel",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ivet vuelve al altar del templo para recitar salmos en Aquan ante su pueblo y permite a los visitantes permanecer. Tortas sigue buscando una piedra que le guste. Triel se aparta hacia dos sirenos que llevan una criatura parecida a un caballo con cola marina y pregunta si puede probarla. El capítulo termina antes de que la monte o reciba una respuesta.",
+      "inicio": "03:14:57.200",
+      "fin": "03:16:30.680",
+      "cita": "para dice, \"Oye, yo puedo probar eso.\" Y",
+      "evidencia_cue": {
+        "inicio": "03:16:08.920",
+        "fin": "03:16:11.349",
+        "texto": "para dice, \"Oye, yo puedo probar eso.\" Y"
+      },
+      "entidades": [
+        "Ivet",
+        "Tortas",
+        "Triel",
+        "Templo de Perlasal",
+        "Perlasal"
+      ],
+      "ambito": "rescate en el escondite y audiencia en Perlasal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Los comentarios sobre plegarias a Chopito son bromas del personaje, no la identificación del culto de Ivet. El animal no recibe nombre ni se convierte en una montura adquirida por Triel."
+    }
+  ],
+  "misiones": [
+    "Salvar a la sirena del altar: Coyote la desata, la ayuda por la cola herida y el grupo sale de la caverna con ella hasta reunirse con su compañera y llegar a Perlasal. No se muestra una curación completa de la herida (45-201, 45-214, 45-217, 45-222).",
+    "Vencer a los defensores del altar: Triel elimina al enemigo acuático y Tortas acaba con la criatura que aturde. El sacerdote se conserva inconsciente, pero Chopito lo ejecuta después; no hay interrogatorio ni información arrancada al cautivo (45-209, 45-212, 45-216, 45-218).",
+    "Entender el ritual de los Profundos: detectan magia en altar y agua y Tentacol recuerda leyendas del kraken. No se identifica con certeza al dios, no se demuestra una invocación completada y el altar no se desactiva (45-206, 45-220–45-221).",
+    "Convocar a Perlasal al concilio de Tutucan: Maris consigue la audiencia con Ivet; Naór transmite la invitación, pero la dirigente solo promete meditar y su respuesta actual es poco favorable (45-223–45-226).",
+    "Atender a los compañeros heridos: Tortas toma una poción, Tentacol reduce daño con su tentáculo y Coyote cura a Triel. La sirena sigue necesitando ayuda para moverse (45-208, 45-214, 45-217)."
+  ],
+  "preguntas": [
+    "¿A qué ser estaba consagrado el altar y qué causa la magia de toda el agua? Las leyendas del kraken y los anuncios de los enemigos no identifican con certeza a la criatura ni explican el efecto (45-206, 45-220–45-221).",
+    "¿Quedan más Profundos o rituales activos después del rescate? El grupo sale sin interrogar al sacerdote ni desactivar el altar o documentar el alcance de la red (45-218, 45-220, 45-222).",
+    "¿Aceptará Ivet acudir al concilio de Tutucan? Dice que meditará, con una respuesta de momento poco favorable por los problemas de Perlasal (45-226).",
+    "¿Qué pacto unió o separó a las tribus y cómo se valorará la promesa del padre de Naór? Ivet reprocha la unión incumplida y Naór reivindica la protección del sur, sin una reconstrucción completa del acuerdo (45-225–45-226).",
+    "¿Qué propiedades tiene la perla encontrada por Tentacol? No se identifica un efecto, valor o uso durante el cierre (45-219).",
+    "¿Se recuperará la cola de la sirena rescatada? Llega con el grupo a Perlasal, pero no se muestra su tratamiento ni una curación completa (45-217, 45-222)."
+  ],
+  "contradicciones": [
+    "La criatura que grita, el sacerdote tentacular y el sireno hechicero son adversarios distintos. El director aclara que el grito que aturde a Naór no es un conjuro ni requiere concentración; no lo elimina herir al mago (45-204–45-206).",
+    "El segundo grito anunciado contra Tortas se retira al comprobar el recurso gastado. No añadir un nuevo aturdimiento que no llega a resolverse (45-213).",
+    "Los tres enemigos resisten la orden de Coyote. Su intento fallido de curar a Triel por distancia se distingue de la curación que sí ejecuta después (45-210, 45-214).",
+    "Naór deja al sacerdote inconsciente con daño no letal, pero Chopito lo ejecuta más adelante. No mantener un cautivo vivo al cierre ni inventar una confesión (45-212, 45-218).",
+    "Las proclamaciones de Chopito y la convicción de Tentacol no prueban divinidad. El humo y la sombra grande son una puesta en escena preparada por Tentacol (45-218, 45-221).",
+    "La rescatada del altar no es Maris: sale con el grupo y su compañera, mientras Maris los recibe posteriormente en Perlasal (45-217, 45-222–45-223).",
+    "La perla recuperada no demuestra propiedades mágicas ni se identifica con la perla comunicadora de Coyote. La investigación del cadáver solo confirma un aspecto de pez semejante a sirenos, sin especie segura (45-219).",
+    "La respuesta de Ivet queda en meditarlo y de momento poco favorable. No hay compromiso de asistencia al concilio, tropas enviadas o alianza ya sellada (45-226).",
+    "El templo de coral es un lugar distinto del escondite. Las bromas sobre plegarias a Chopito no identifican la religión de Ivet (45-224, 45-227)."
+  ],
+  "nombres_dudosos": [
+    "Naor, Naór, Naorra y el vocativo aislado Leona remiten aquí a Naór leonina. Su presentación como Naor Taruan de Atlan y su reconocimiento como princesa sostienen la continuidad; no mezclar con la harengon Leona (45-202, 45-204, 45-223–45-226).",
+    "Trier, Tri, Tril y Triel designan a la misma elfa. La referencia a su hermano se enlaza con Eldrat sin asignarle la recepción de un trofeo que no se representa (45-209, 45-219, 45-227).",
+    "Tenta, Tente, Tentac y Tentacol se agrupan por su continuidad con Chopito, los rayos y el tentáculo. El familiar sigue siendo distinto de las manifestaciones mágicas del tentáculo (45-201, 45-206–45-208, 45-215, 45-218).",
+    "Irvete e Irbetta se enlazan con la oficiante Ivet de Perlasal por localidad, función y continuidad con Maris. La escena la identifica expresamente como madre de Maris (45-223–45-224).",
+    "Sacerdote de los Profundos, Sireno hechicero de los Profundos, Criatura tentacular del altar y Sirena cautiva del altar son nombres editoriales descriptivos coordinados con el bloque anterior, sin nombres personales o especies importadas de bestiarios.",
+    "Kraken aparece en las leyendas recordadas por Tentacol. No se crea una identidad común entre el kraken, Chopito, la criatura del altar y la entidad serpentina de Citlali (45-218, 45-221).",
+    "El caballo con cola de mar solo se describe al cierre. No recibe nombre ni número de montura, y Triel no llega a montarlo en la escena (45-227)."
+  ],
+  "continuidad": [
+    "El episodio amplía la trama de Profundos, rituales y opresión de Perlasal del capítulo29: rescate ejecutado y magia del altar observada, pero sin eliminar la red ni identificar una invocación completada (45-201, 45-217–45-222).",
+    "La pregunta histórica sobre el concilio debe incorporar la invitación a Ivet y su decisión pendiente. No sumar Perlasal a los asistentes confirmados (45-226).",
+    "Maris vuelve a encontrarse con Coyote y la sesión confirma que Ivet es su madre. El chiste sobre la suegra no demuestra matrimonio, promesa matrimonial o convivencia entre Coyote y Maris (45-223–45-224).",
+    "La relación Tentacol/Chopito se mantiene como seguidor y familiar según su representación: el discurso de señor supremo no resuelve patrón, origen o poderes externos (45-218, 45-221).",
+    "El caso del sacerdote modifica el propósito inicial de capturarlo: queda muerto sin interrogatorio. No usarlo como fuente de planes o localizaciones que nunca revela (45-212, 45-218)."
+  ],
+  "historias_entidades": [
+    {
+      "nombre": "Naór",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "Del altar al concilio de Tutucan",
+          "texto": "Naór cruza el agua usando a Coyote como apoyo y corre hacia el sacerdote, pero un grito la aturde. Cuando puede actuar deja inconsciente al rival que Tentacol quiere conservar vivo y ciega a otro enemigo. Antes de salir detecta magia concentrada en el altar y el agua. En Perlasal se presenta como princesa de Atlan ante Maris y su madre Ivet, defiende el papel de su pueblo en la frontera sur e invita al concilio de Tutucan. Obtiene una promesa de meditación, sin aceptación de asistencia.",
+          "referencias": [
+            "45-202",
+            "45-204",
+            "45-208",
+            "45-212",
+            "45-220",
+            "45-223",
+            "45-224",
+            "45-225",
+            "45-226"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Tortas",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "Los brazos astrales y el caparazón",
+          "texto": "Tortas emerge del caparazón y manifiesta brazos astrales durante el combate del altar. Se cura con una poción y pelea contra una criatura que lo golpea y muerde. Enfadado por las marcas en su caparazón, reúne los puños en un golpe que mata al rival, recoge un trofeo y sigue golpeando el cadáver hasta que lo llaman para partir. En Perlasal se fija en piedras mientras sus compañeros atienden la audiencia.",
+          "referencias": [
+            "45-203",
+            "45-204",
+            "45-208",
+            "45-213",
+            "45-216",
+            "45-224",
+            "45-227"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Triel",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "El agua, el rescate y la curiosidad",
+          "texto": "Triel soporta los ataques del enemigo que emerge del agua y acaba matándolo antes de volver con los demás. Ayuda a Naór y acepta la curación de Coyote. Tras una confusión, sus compañeros le impiden atacar a la sirena cautiva. Recoge un hueso como recuerdo para Eldrat. Al final acompaña a Maris hasta el templo y se interesa por una criatura con aspecto de caballo y cola marina, sin que llegue a montarla.",
+          "referencias": [
+            "45-204",
+            "45-209",
+            "45-214",
+            "45-217",
+            "45-219",
+            "45-227"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Coyote",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "Una sirena liberada y una audiencia conseguida",
+          "texto": "Coyote queda momentáneamente bajo el agua cuando Naór se impulsa sobre su cabeza. Mantiene su apariencia majestuosa, repele con susurros a un enemigo y fracasa al tratar de detener a tres adversarios con una orden. El sacerdote le impone después esa misma orden. Ya libre, cura a Triel, desata a la sirena y la ayuda a salir porque tiene la cola herida. Maris lo recibe con alegría en Perlasal y facilita la audiencia de Naór con Ivet.",
+          "referencias": [
+            "45-202",
+            "45-205",
+            "45-206",
+            "45-210",
+            "45-211",
+            "45-214",
+            "45-217",
+            "45-222",
+            "45-223"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Tentacol",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "La petición de conservar vivo al sacerdote",
+          "texto": "Tentacol combate con rayos y un tentáculo que también protege a Tortas. Pide que no maten al sacerdote y Naór lo deja inconsciente. Después prepara humo y luces para agrandar la sombra de Chopito mientras este ejecuta al cautivo, sin interrogarlo. Registra los cuerpos y encuentra una perla. Al estudiar el altar recuerda leyendas de un kraken de otro plano, aunque su propia devoción sigue centrada en Chopito. En Perlasal Maris lo reconoce como alguien visto antes en la población.",
+          "referencias": [
+            "45-201",
+            "45-206",
+            "45-207",
+            "45-208",
+            "45-212",
+            "45-215",
+            "45-218",
+            "45-219",
+            "45-221",
+            "45-223"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Chopito",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "La proclama ante el sacerdote vencido",
+          "texto": "Chopito avanza por el agua y vuelve al frasco antes de intentar agarrarse sin éxito al sacerdote tentacular. Cuando lo dejan inconsciente, sube a su pecho. Con la sombra engrandecida por Tentacol se proclama ser supremo, censura que el culto ofreciera sacrificios a otro dios y ejecuta al rival penetrando en su cuerpo y saliendo por el pecho. No obtiene información del cautivo; las afirmaciones divinas siguen siendo su discurso y la creencia de Tentacol.",
+          "referencias": [
+            "45-201",
+            "45-206",
+            "45-211",
+            "45-215",
+            "45-218",
+            "45-221"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Maris",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "Su madre y la princesa de Atlan",
+          "texto": "Maris recibe a Coyote cuando el grupo llega con las dos sirenas, agradece la ayuda y reconoce a Tentacol. Naór le pide acceso a las autoridades. La conduce ante su madre Ivet, no sin advertir de su recelo hacia la gente de la superficie. Permanece junto a ella cuando Naór pide que Perlasal participe en el concilio y la dirigente responde que lo meditará.",
+          "referencias": [
+            "45-222",
+            "45-223",
+            "45-224",
+            "45-226"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Ivet",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "El concilio que todavía no acepta",
+          "texto": "La oficiante de Perlasal, llamada también Irvete o Irbetta, recibe a su hija Maris y permite entrar a la princesa Naór. Reprocha al padre de esta la promesa incumplida de mantener unidas a las tribus y recuerda que el último consejo terminó en separación. Naór defiende a Atlan e invita al concilio de Tutucan. Ivet dice que meditará, pero su respuesta es poco favorable por las dificultades locales. Alude al regreso de los yuan-ti y vuelve a los salmos con su pueblo.",
+          "referencias": [
+            "45-223",
+            "45-224",
+            "45-225",
+            "45-226",
+            "45-227"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Camar Taruan",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "La promesa de unión recordada por Ivet",
+          "texto": "Ivet reprocha al padre de Naór la antigua promesa de mantener juntas a las tribus y acusa a los pueblos de haberse separado. Naór recuerda la misión recibida de Camar, sostiene que Atlan ha ayudado y protegido el sur y convoca a la dirigente de Perlasal a Tutucan. El intercambio conserva las posiciones de ambas sin reconstruir todo el acuerdo antiguo.",
+          "referencias": [
+            "45-225",
+            "45-226"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Perlasal",
+      "tipo": "lugar",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "El rescate y el difícil acercamiento",
+          "texto": "La rescatada y su compañera conducen al grupo a Perlasal a través de un valle submarino de corales coloridos. Los guardias permiten el paso tras su gesto. Maris recibe a los viajeros y los lleva al templo de su madre Ivet, donde Naór plantea la reunión de Tutucan. La audiencia revela el malestar por la separación de las tribus, pero deja la asistencia pendiente.",
+          "referencias": [
+            "45-221",
+            "45-222",
+            "45-223",
+            "45-224",
+            "45-225",
+            "45-226",
+            "45-227"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Atlan",
+      "tipo": "lugar",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "La defensa del sur y el reproche de Perlasal",
+          "texto": "Naór se presenta en Perlasal como princesa de Atlan y recuerda los dominios del sur. Ivet reprocha la promesa incumplida de unión entre tribus; Naór responde que su pueblo quedó aislado, mantuvo la frontera protegida y siguió ayudando. La discusión desemboca en una invitación al concilio, sin cerrar una alianza entre ambos pueblos.",
+          "referencias": [
+            "45-223",
+            "45-224",
+            "45-225",
+            "45-226"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Tutucan",
+      "tipo": "lugar",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "Una nueva invitación al concilio",
+          "texto": "Naór anuncia en el templo de Perlasal que se ha cantado la canción del concilio y que los dirigentes deben reunirse en Tutucan ante las amenazas compartidas. Ivet recuerda la ruptura producida tras el consejo anterior y solo promete meditar la asistencia. La reunión no se celebra durante esta sesión.",
+          "referencias": [
+            "45-226"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Profundos",
+      "tipo": "faccion",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "",
+      "etapas": [
+        {
+          "titulo": "El altar perdido y el dios anunciado",
+          "texto": "Los enemigos del escondite intentan mantener su ritual y anuncian la venida de un dios, mientras atacan con gritos, rayos, curación y órdenes. El grupo vence a los rivales, libera a la cautiva y conserva un sacerdote inconsciente que Chopito ejecuta después. No logra una confesión sobre el culto. El altar y el agua conservan una magia cuya procedencia no se aclara; Tentacol recuerda las leyendas de Perlasal sobre un kraken de otro plano.",
+          "referencias": [
+            "45-201",
+            "45-204",
+            "45-206",
+            "45-211",
+            "45-212",
+            "45-216",
+            "45-217",
+            "45-218",
+            "45-220",
+            "45-221"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Sacerdote de los Profundos",
+      "tipo": "personaje",
+      "nueva": true,
+      "descripcion": "Oficiante tentacular del escondite que amenaza a la cautiva y acaba ejecutado por Chopito.",
+      "nota": "Nombre descriptivo sin nombre personal. Se distingue de la criatura que grita y del sireno hechicero; no se deduce una especie de bestiario por sus tentáculos.",
+      "etapas": [
+        {
+          "titulo": "De oficiante a cautivo ejecutado",
+          "texto": "El sacerdote alza un cuchillo y recita palabras ante la sirena cautiva. Golpea a Naór e impone a Coyote una orden de alto. Naór lo deja inconsciente a petición de Tentacol, pero no llega a ser interrogado. Chopito, acompañado por humo y una sombra agrandada, lo ejecuta y se abre paso por su cuerpo.",
+          "referencias": [
+            "45-201",
+            "45-207",
+            "45-211",
+            "45-212",
+            "45-218"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Sireno hechicero de los Profundos",
+      "tipo": "personaje",
+      "nueva": true,
+      "descripcion": "Sireno de aspecto extraño que usa imágenes especulares, rayos y curación durante el combate del altar.",
+      "nota": "Identidad descriptiva separada del sacerdote y del monstruo que aturde. El anuncio de su dios no prueba su llegada ni fija el nombre de ese ser.",
+      "etapas": [
+        {
+          "titulo": "Las imágenes, el rayo y la curación",
+          "texto": "El sireno extraño se prepara antes del ataque de Tentacol. Coyote lo aparta con susurros. Luego anuncia en Aquan la venida de su dios y lanza un rayo en línea contra Tortas, Coyote y Tentacol. Protegido con imágenes especulares, se aproxima a un aliado para curarlo antes de volver a separarse.",
+          "referencias": [
+            "45-201",
+            "45-205",
+            "45-206",
+            "45-211"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Criatura tentacular del altar",
+      "tipo": "personaje",
+      "nueva": true,
+      "descripcion": "Adversario tentacular del altar que aturde a Naór con un grito y muere combatiendo contra Tortas.",
+      "nota": "Su grito no es un conjuro de concentración. No se identifica por nombre o especie de bestiario ni se confunde con el sacerdote de barbilla tentacular.",
+      "etapas": [
+        {
+          "titulo": "El grito y los puños astrales",
+          "texto": "La criatura corre detrás de Naór y la aturde con un grito antes de enfrentarse a Tortas. Sufre ceguera y numerosos golpes de los brazos astrales, mientras Tentacol la debilita con rayos y tentáculo. No puede repetir el grito porque ya ha gastado su uso. Tortas acaba hundiéndole el rostro contra el suelo y guarda un fragmento como trofeo.",
+          "referencias": [
+            "45-203",
+            "45-204",
+            "45-208",
+            "45-212",
+            "45-213",
+            "45-215",
+            "45-216"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Sirena cautiva del altar",
+      "tipo": "personaje",
+      "nueva": true,
+      "descripcion": "Sirena liberada del altar que no puede nadar por una herida en la cola.",
+      "nota": "Sin nombre propio confirmado. Se mantiene separada de Maris y de la compañera que esperaba fuera; el retorno no acredita una cola completamente curada.",
+      "etapas": [
+        {
+          "titulo": "Fuera del sacrificio",
+          "texto": "La sirena permanece atada mientras un oficiante levanta un cuchillo y recita ante ella. Coyote la desata al terminar el combate y evita con sus compañeros que Triel la ataque por confusión. Agradece la ayuda y enseña la cola herida que le impide nadar. Coyote la ayuda a salir y después se reúne con su compañera; ambas guían al grupo hasta Perlasal.",
+          "referencias": [
+            "45-201",
+            "45-214",
+            "45-217",
+            "45-222"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Escondite de los Profundos",
+      "tipo": "lugar",
+      "nueva": true,
+      "descripcion": "Caverna con agua y un altar donde los Profundos retienen a una sirena para un ritual.",
+      "nota": "Lugar coordinado con el bloque anterior. El rescate y la salida no prueban la destrucción del culto completo, la eliminación de su magia ni una exploración exhaustiva de toda la caverna.",
+      "etapas": [
+        {
+          "titulo": "La salida con la cautiva",
+          "texto": "El combate se concentra entre agua, orillas y el altar donde se retiene a una sirena. Los aventureros vencen a los enemigos y la sacan de la caverna, aunque el sacerdote conservado inconsciente muere antes de que obtengan información. Naór detecta magia tanto en el altar como en el agua. El grupo abandona el lugar sin desactivarlo y parte hacia Perlasal con las dos sirenas.",
+          "referencias": [
+            "45-201",
+            "45-204",
+            "45-217",
+            "45-218",
+            "45-220",
+            "45-222"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Altar de los Profundos",
+      "tipo": "objeto",
+      "nueva": true,
+      "descripcion": "Altar ritual del escondite que conserva una concentración mágica después del rescate.",
+      "nota": "Distinto del altar de los símbolos de Citlali y del altar del templo de Perlasal. Las leyendas del kraken no bastan para identificar con certeza a su consagrante.",
+      "etapas": [
+        {
+          "titulo": "La magia que permanece",
+          "texto": "Ante el altar, un sacerdote prepara el sacrificio de la sirena que los aventureros consiguen liberar. Después Tentacol coloca junto a Chopito al oficiante inconsciente y el pulpo lo ejecuta. Naór detecta una intensa concentración mágica en el altar y un resplandor extendido por el agua, como una consagración a una criatura desconocida. Nadie lo destruye ni desactiva en escena.",
+          "referencias": [
+            "45-201",
+            "45-217",
+            "45-218",
+            "45-220",
+            "45-221"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Perla hallada en el escondite",
+      "tipo": "objeto",
+      "nueva": true,
+      "descripcion": "Perla recuperada por Tentacol al registrar un cuerpo después del combate.",
+      "nota": "No se fusiona con la perla de comunicación de Coyote ni se importa un objeto mágico de reglas a partir del nivel mencionado por el director.",
+      "etapas": [
+        {
+          "titulo": "El hallazgo de Tentacol",
+          "texto": "Tentacol registra un cuerpo del escondite menos destrozado que los demás y encuentra una perla. No se describen propiedades, precio ni un uso posterior durante la salida o la audiencia en Perlasal.",
+          "referencias": [
+            "45-219"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Templo de Perlasal",
+      "tipo": "lugar",
+      "nueva": true,
+      "descripcion": "Templo de Perlasal donde Ivet recibe a los viajeros y oficia plegarias.",
+      "nota": "No se asigna una deidad por las bromas de Chopito ni se confunde su altar con el del escondite de los Profundos.",
+      "etapas": [
+        {
+          "titulo": "Una audiencia entre salmos",
+          "texto": "Maris conduce a los viajeros a un gran templo construido con coral y habla con su madre Ivet para que permita entrar a Naór. En el lugar hay escrituras de piedra y un altar ante el que se celebran plegarias en Aquan. La princesa plantea el concilio de Tutucan, la oficiante promete meditarlo y después vuelve a los salmos con el pueblo. Triel se aparta hacia una criatura marina con forma de caballo.",
+          "referencias": [
+            "45-224",
+            "45-225",
+            "45-226",
+            "45-227"
+          ]
+        }
+      ]
+    }
+  ]
+}

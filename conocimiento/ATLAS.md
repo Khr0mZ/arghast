@@ -63,3 +63,11 @@ El altar del epílogo carece de localización. La imagen no da coordenadas ni pr
 Leona orienta la búsqueda del devorafango hacia una cueva húmeda junto a un lago donde jugaba de pequeña. El lugar recibe una etiqueta descriptiva, sin topónimo propio. No se identifica con la Hoja Caída, la cueva derrumbada de Citlali o la guarida del dragón ([44-013, 44-016–44-018](capitulos/44.md)).
 
 La masa de moho consume huesos aparentemente humanoides y carece de boca definida. El devorafango llega después y llena de ácido la sala: ambos rivales tienen historias separadas. El grupo vuelve a Cuicapalli con las espinas y el cadáver del segundo, sin identificar a las víctimas de los huesos o comprobar el destino final del moho ([44-022–44-023, 44-029–44-032, 44-045–44-048](capitulos/44.md)).
+
+## Del lago Tachan al escondite y Perlasal
+
+El director sitúa Iktan junto al lago de nombre provisional Tachan. Una guía sirénida conduce al grupo por una gruta lateral cuyas corrientes llegan al mar. Las ruinas del ataque al escuadrón ofrecen coral roto, cortes y un rastro de magia residual de armas hacia el norte. No son todavía Perlasal ni el escondite del altar ([45-002, 45-019–45-023](capitulos/45.md)).
+
+Un muro submarino oculta el túnel al refugio. Dentro hay una cámara de aire, tierra y zonas inundadas; la oscuridad se salva con la guía de Chopito y las luces de Triel. Más allá de los primeros defensores, un islote contiene la cautiva y el altar. La detección posterior muestra magia intensa en el altar y el agua, sin desactivación o identificación del consagrante ([45-028–45-031, 45-044–45-047, 45-071–45-072](capitulos/45.md)).
+
+El grupo sale con la rescatada, vuelve a reunirse con la guía y entra en Perlasal. Maris los lleva al templo donde Ivet oficia y recibe a Naór. Ese templo y su altar son distintos del islote de los Profundos y del altar de los símbolos de Citlali ([45-073–45-078](capitulos/45.md)).

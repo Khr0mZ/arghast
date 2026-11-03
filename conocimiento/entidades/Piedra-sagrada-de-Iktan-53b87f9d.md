@@ -12,7 +12,7 @@ Base para revisar equivalencia: [40-008](../capitulos/40.md), [40-013](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 44.
+Relato revisado hasta el capítulo 45.
 
 ### El soporte del protector
 
@@ -51,4 +51,20 @@ Tipo: `hecho_confirmado`.
 Naór reconoce a Cipo y recuerda haberlo visto bajo un caldero. Acompaña a Leo a depositar la figura tallada y presenta su propia ofrenda en nombre de Atlan. Cuenta que de pequeña esperaba con Walulu a que la figura venerada se moviera, sin verlo. Después sienta a Leo en una piedra y le encarga vigilarla sin parpadear como prueba de paciencia, mientras busca bebida.
 
 El recuerdo infantil y la leyenda son testimonios de Naór. No se confirma avance de nivel de Leo ni movimiento de la figura venerada.
+
+## [45-005 · Chopito propone reclutar a Tortas](../capitulos/45.md) · 00:08:04.000
+
+Tipo: `hecho_confirmado`.
+
+Mientras Coyote observa parte de la discusión, Tentacol llega con Chopito. El pulpo insiste en marcharse, se atribuye la iniciativa de reclutar por medio del niño y considera a la tortuga un posible súbdito poderoso. Tentacol se acerca a Tortas, que intenta meditar sobre la piedra pese al dolor de cabeza, y siguiendo el consejo del pulpo le echa agua por encima.
+
+Llamarlo semidiosa o súbdito expresa las pretensiones de Chopito. No establece divinidad, subordinación real o una nueva jerarquía de la comunidad.
+
+## [45-006 · Tortas acepta acompañarlos sin rendir culto a Chopito](../capitulos/45.md) · 00:10:30.839
+
+Tipo: `hecho_confirmado`.
+
+Tortas protesta por el agua y escucha la invitación a Perlasal. La mesa aclara que los demás normalmente oyen burbujas cuando habla Chopito; el monje atribuye su respuesta a haber interpretado bien sus gestos. Tentacol transmite la propuesta de unirse y hacerse más fuertes. Tortas decide ir porque recuerda que Bigotitos tiene asuntos allí, sin comprometerse a adorar al pulpo, y comienza a bajar lentamente de la piedra.
+
+El intercambio no concede a todos comunicación telepática o habla con animales. La aceptación del viaje no confirma el culto solicitado por Chopito.
 

@@ -89,3 +89,11 @@ Leona, Guayacán, Ayoto y Tlachka se reúnen en Cuicapalli y cooperan en la bús
 El recuerdo de Eromov encontrando a Leona de pequeña impulsa a la harengon a arrancar la primera espina. Es un vínculo personal representado, sin una filiación biológica, adopción formal o sucesión política confirmadas ([44-037](capitulos/44.md)).
 
 Parroter recibe el ingrediente obtenido en vida y administra el remedio, con una mejoría visible de Eromov. El herrero rechaza confiar su tienda a Baton y lo acusa de ladrón; Baton lo niega, sin que se pruebe el robo. Al terminar, Guayacán y Ayoto se apoyan para llevar el exoesqueleto hacia la tienda ([44-048, 44-051, 44-055–44-056](capitulos/44.md)).
+
+## El rescate y la audiencia del capítulo 45
+
+Naór, Tortas, Coyote, Triel, Tentacol y Chopito comparten la expedición. El temor de Naór al agua no desaparece por recibir respiración acuática; se apoya en Tortas y más tarde lo impulsa para huir de los tiburones. Las pretensiones de Chopito no hacen que Tortas acepte su culto ni que los oficiantes lo reconozcan ([45-005–45-006, 45-016–45-019, 45-025–45-027, 45-048](capitulos/45.md)).
+
+Coyote vuelve a contactar con Maris y ayuda a una cautiva herida, que no es la sirena con quien mantiene el contacto. Maris se identifica como hija de Ivet y consigue la audiencia para Naór. Las bromas sobre la suegra no formalizan un matrimonio. Ivet y la princesa presentan posiciones distintas sobre las promesas del padre de Naór, sin lograr todavía una alianza ([45-012–45-015, 45-068, 45-073–45-077](capitulos/45.md)).
+
+El cuidado de Leo continúa fuera del vídeo: una escena escrita muestra su [espera bajo la lluvia](https://discord.com/channels/946724148628041748/1482149664131383316/1527444416187596951) y otra la [llegada de Tessa](https://discord.com/channels/946724148628041748/1482149664131383316/1527455379028574428), que se presenta como Tesara, amiga de Naór. No se identifica a la chica autorizada del diálogo escolar solo por el color del pelo.

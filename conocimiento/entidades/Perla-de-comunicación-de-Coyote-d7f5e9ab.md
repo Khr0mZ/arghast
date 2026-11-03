@@ -8,11 +8,11 @@ Continuidad del objeto marino de Coyote que permite conversar con la sirena en l
 
 Etiquetas agrupadas: Perla marina de Coyote; Perla comunicadora de Coyote.
 
-Base para revisar equivalencia: [24-012](../capitulos/24.md), [24-014](../capitulos/24.md), [29-005](../capitulos/29.md).
+Base para revisar equivalencia: [24-012](../capitulos/24.md), [24-014](../capitulos/24.md), [29-005](../capitulos/29.md), [45-012](../capitulos/45.md), [45-013](../capitulos/45.md), [45-015](../capitulos/45.md), [45-019](../capitulos/45.md).
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 44.
+Relato revisado hasta el capítulo 45.
 
 ### Un regalo que mantiene abierto el contacto
 
@@ -25,6 +25,12 @@ Fuentes: [24-012 · La sirena entrega una perla para encontrarla](../capitulos/2
 Coyote vuelve a utilizarla al llegar al lago y recibe la petición urgente de Maris. El grupo busca ayuda para respirar y desciende por un túnel que comunica con el mar. La perla permite mantener esa relación y orientar la expedición, pero no sustituye las burbujas, los besos que conceden branquias ni la negociación con los guardias de Perlasal.
 
 Fuentes: [29-005 · Maris comunica la petición mediante una perla](../capitulos/29.md) · 00:20:00.000 · [29-008 · Burbujas de una hora y Coyote copia a Pinky](../capitulos/29.md) · 00:31:00.000 · [29-009 · Un agujero del lago conecta con el mar](../capitulos/29.md) · 00:36:00.000 · [29-019 · Maris calma a los guardias y los besos conceden branquias](../capitulos/29.md) · 01:59:00.000.
+
+### Contacto desde el lago de Iktan
+
+Coyote introduce la perla en el agua y su interior toma aspecto de un mar con remolino. Allí aparece Maris, que informa del nuevo ataque y busca una enviada capaz de ayudar al grupo. El objeto recupera así su función de contacto: la llegada posterior a las ruinas se hace mediante una guía y túneles físicos, no atravesando un portal abierto en la perla.
+
+Fuentes: [45-012 · Coyote activa la perla dentro del agua y contacta con Maris](../capitulos/45.md) · 00:28:53.720 · [45-013 · Maris informa de nuevos ataques, secuestros y el cierre de Perlasal](../capitulos/45.md) · 00:31:30.919 · [45-015 · Llega una guía sirénida enviada por la princesa Maris](../capitulos/45.md) · 00:36:29.920 · [45-019 · El lago conduce por una gruta de corrientes hasta el mar](../capitulos/45.md) · 00:44:28.200.
 
 ## Registros y evidencias
 
@@ -59,4 +65,12 @@ Tipo: `hecho_confirmado`.
 Una carta vuelve fría el agua y causa tres puntos de daño a todos. En el lago poco profundo hay un agujero de unos cincuenta pies de diámetro cuyo fondo no se ve. La perla señala hacia abajo. Descienden nadando o utilizando el peso de la armadura o una piedra de Kilzer. El túnel gira hasta quedar horizontal y, tras diez o quince minutos, salen por una cueva costera al agua salada del mar abierto. Coyote consulta la perla discretamente, pero Ayoto y Kilzer lo ven.
 
 El lago no es directamente la ciudad. El contacto remoto tampoco demuestra que Maris sea una sirena de agua dulce.
+
+## [45-012 · Coyote activa la perla dentro del agua y contacta con Maris](../capitulos/45.md) · 00:28:53.720
+
+Tipo: `hecho_confirmado`.
+
+Coyote se acerca al agua y sumerge la perla. En su interior aparece un remolino como un mar y después el rostro de Maris. Le pide ayuda para que él y sus compañeros puedan llegar a Perlasal y solicita que vengan sirénidos capaces de facilitarles la respiración.
+
+La perla sirve para esta comunicación, sin abrir un portal de transporte. La ruta posterior se recorre nadando con una guía.
 

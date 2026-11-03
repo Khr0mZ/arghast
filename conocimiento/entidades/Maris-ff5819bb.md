@@ -8,11 +8,11 @@ Sirena que vuelve a encontrarse con Coyote y guía al grupo hacia Perlasal; dist
 
 Etiquetas agrupadas: Maris (sirena de Perlasal, grafía provisional); Maris (sirena, grafía provisional).
 
-Base para revisar equivalencia: [24-006](../capitulos/24.md), [29-002](../capitulos/29.md), [29-019](../capitulos/29.md).
+Base para revisar equivalencia: [24-006](../capitulos/24.md), [29-002](../capitulos/29.md), [29-019](../capitulos/29.md), [45-012](../capitulos/45.md), [45-013](../capitulos/45.md), [45-015](../capitulos/45.md), [45-073](../capitulos/45.md), [45-074](../capitulos/45.md), [45-075](../capitulos/45.md), [45-077](../capitulos/45.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 44.
+Relato revisado hasta el capítulo 45.
 
 ### Una deuda de gratitud en la costa
 
@@ -25,6 +25,12 @@ Fuentes: [24-006 · Gorilas evitados y sirena acosada](../capitulos/24.md) · 00
 Maris vuelve a comunicarse mediante la perla cuando su pueblo necesita ayuda. Tras la llegada de Coyote, Kilzer, Ayoto y Tlachka, calma a los guardias, les facilita la respiración bajo el agua y responde por ellos ante Ivet. Explica que los merros sirven a los profundos y secuestran personas para rituales que hacen crecer un kraken. Consigue una promesa de ayuda y paga alojamiento a los visitantes. La expedición termina con ese compromiso, sin un combate mostrado contra el kraken.
 
 Fuentes: [29-005 · Maris comunica la petición mediante una perla](../capitulos/29.md) · 00:20:00.000 · [29-019 · Maris calma a los guardias y los besos conceden branquias](../capitulos/29.md) · 01:59:00.000 · [29-021 · Maris asume la responsabilidad y los merros siguen siendo una amenaza](../capitulos/29.md) · 02:13:00.000 · [29-022 · Secuestros y kraken que crece por rituales](../capitulos/29.md) · 02:20:00.000 · [29-023 · Promesa pública y hospitalidad de la taberna](../capitulos/29.md) · 02:26:00.000 · [29-024 · Habitación pagada y descanso local](../capitulos/29.md) · 02:32:00.000.
+
+### Ayuda desde la perla y una nueva audiencia
+
+Maris informa por la perla de nuevos ataques de los Profundos, secuestros y el cierre de Perlasal. Envía a una sirénida para facilitar la respiración del grupo y ayudarlo a regresar. La enviada y la cautiva posterior son personas distintas de ella. Al llegar los viajeros con la rescatada, Maris agradece a Coyote la nueva ayuda, reconoce a Tentacol y recibe la petición diplomática de Naór. Los conduce al templo y presenta a Ivet como su madre. La audiencia no consigue todavía una promesa de asistencia al concilio.
+
+Fuentes: [45-012 · Coyote activa la perla dentro del agua y contacta con Maris](../capitulos/45.md) · 00:28:53.720 · [45-013 · Maris informa de nuevos ataques, secuestros y el cierre de Perlasal](../capitulos/45.md) · 00:31:30.919 · [45-015 · Llega una guía sirénida enviada por la princesa Maris](../capitulos/45.md) · 00:36:29.920 · [45-073 · El grupo sale con la rescatada y llega a Perlasal](../capitulos/45.md) · 03:04:06.600 · [45-074 · Maris recibe a Coyote y ofrece presentar a Naór ante su madre](../capitulos/45.md) · 03:05:34.319 · [45-075 · Ivet admite a la princesa de Atlan en el templo de coral](../capitulos/45.md) · 03:08:31.120 · [45-077 · La invitación al concilio queda pendiente de decisión](../capitulos/45.md) · 03:11:50.040.
 
 ## Registros y evidencias
 
@@ -171,4 +177,52 @@ Tipo: `declaracion_personaje`.
 El director presenta a Coyote como changeling. Coyote regresa a la superficie tras la fiesta con la sirena, con asuntos todavía pendientes. Eldrat trabaja con sus herramientas y explora la jungla junto a Triel; obtiene seis monedas durante el descanso. Naór cuenta que buscaba Tutucan y otro destino cuyo nombre no se reconoce con claridad. Tras perderse y volver a Cuicapalli, salió de nuevo. Entrena a Leo para convertirlo en un leonino de Atlan: encontró los restos de sus padres, que habían sido despedazados, y lo rescató. Leo la sigue para sobrevivir.
 
 El entrenamiento no transforma la especie de Leo. Las bromas sobre un síndrome no constituyen un diagnóstico. Coyote todavía no ha completado la misión del kraken.
+
+## [45-012 · Coyote activa la perla dentro del agua y contacta con Maris](../capitulos/45.md) · 00:28:53.720
+
+Tipo: `hecho_confirmado`.
+
+Coyote se acerca al agua y sumerge la perla. En su interior aparece un remolino como un mar y después el rostro de Maris. Le pide ayuda para que él y sus compañeros puedan llegar a Perlasal y solicita que vengan sirénidos capaces de facilitarles la respiración.
+
+La perla sirve para esta comunicación, sin abrir un portal de transporte. La ruta posterior se recorre nadando con una guía.
+
+## [45-013 · Maris informa de nuevos ataques, secuestros y el cierre de Perlasal](../capitulos/45.md) · 00:31:30.919
+
+Tipo: `declaracion_personaje`.
+
+Maris cuenta que han cerrado Perlasal hace poco porque los Profundos volvieron a atacar y se llevaron a algunos de sus habitantes. Cree que los cautivos están en alguna cueva. Al saber que el grupo se encuentra en Iktan, promete buscar a una sirénida que pueda ayudarlo y le pide a Coyote que tenga cuidado.
+
+Las cuevas son una hipótesis de Maris, no una localización ya observada por ella en la llamada. Este relato no identifica al kraken, al dios de los atacantes o a los autores individuales de los secuestros.
+
+## [45-015 · Llega una guía sirénida enviada por la princesa Maris](../capitulos/45.md) · 00:36:29.920
+
+Tipo: `hecho_confirmado`.
+
+Otra figura asciende del agua y se presenta ante Coyote como enviada por la princesa Maris. Él le pide ayuda para respirar. La mujer acepta, pero solicita a cambio que la ayuden a regresar a Perlasal.
+
+La guía no da su nombre. Llamar princesa a Maris es el tratamiento de esta enviada, sin equipararla por ello con Ivet ni reconstruir una jerarquía política completa.
+
+## [45-074 · Maris recibe a Coyote y ofrece presentar a Naór ante su madre](../capitulos/45.md) · 03:05:34.319
+
+Tipo: `hecho_confirmado`.
+
+Maris se alegra de reencontrarse con Coyote y agradece que vuelvan a ayudar a su pueblo. Reconoce a Tentacol y acepta a los compañeros como amigos. Naór se presenta como Naór Taruan de Atlan y pide hablar con las autoridades por problemas que afectan a todos. Maris dice que su madre le habló del reino del sur y la conduce hacia ella, advirtiendo que desconfía de los extranjeros de la superficie porque no respetan el mar.
+
+El vocativo Leona del director se refiere aquí a la leonina que se presenta como Naór; no trae a la harengon Leona a esta expedición. La burla sobre un palo no aporta por sí sola detalles de una escena escrita.
+
+## [45-075 · Ivet admite a la princesa de Atlan en el templo de coral](../capitulos/45.md) · 03:08:31.120
+
+Tipo: `hecho_confirmado`.
+
+Maris lleva al grupo hasta un gran templo de coral y habla con la mujer que el director llama Irvete o Irbetta. La presenta como su madre; ella observa a los visitantes, suspira y permite que entren. Reconoce a Naór como princesa de Atlan y esta se arrodilla y hace una reverencia ante ella.
+
+La continuidad con la oficiante Ivet de Perlasal permite reunir las variantes, conservando la grafía provisional. No se presenta una boda entre Coyote y Maris por la broma sobre la suegra.
+
+## [45-077 · La invitación al concilio queda pendiente de decisión](../capitulos/45.md) · 03:11:50.040
+
+Tipo: `hecho_confirmado`.
+
+Naór anuncia que se ha cantado la canción del concilio y convoca a los líderes a una reunión en Tutucan frente a las amenazas que afectan a la isla y al mar. Ivet recuerda que la última reunión terminó en separación y lamenta los ataques y abandonos entre pueblos. Tras mirar a su hija y a los suyos, dice que lo meditará, pero advierte que la respuesta de momento es poco favorable por sus problemas locales. Menciona que ha oído que los yuan-ti han vuelto; Naór lo confirma.
+
+Meditar la propuesta no equivale a aceptar la asistencia, enviar tropas o cerrar una alianza. No se fija aquí una nueva fecha del concilio. La mención de los yuan-ti no prueba que sean la misma organización que los Profundos.
 

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [44-047](../capitulos/44.md), [44-049](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 44.
+Relato revisado hasta el capítulo 45.
 
 ### Material para un escudo por hacer
 
