@@ -1,0 +1,164 @@
+{
+  "id": "x-1566886507506045004",
+  "campana": "xoltacan",
+  "unidad_revision": "x-1566886507506045004",
+  "hilo_id": "1558234683177963582",
+  "hilo_nombre": "Tutucan - La ciudad de los Elementos",
+  "titulo": "Jivirix pide a Oghma muestras de Nox y Citlali",
+  "resumen": "En una audiencia privada, Oghma propone El Final Feliz como puerta a nuevos pactos y recibe un encargo cuyo propósito su patrón mantiene oculto.",
+  "relato": "Oghma entra en su habitación del McKuroto, cierra la puerta y comprueba dos veces el pomo antes de situarse en el centro. Invoca la espada negra, apoya la hoja en el suelo y solicita audiencia a Jivirix con una reverencia y una sucesión de títulos sobre mentiras y estafas. Un eco con su propia apariencia se materializa delante de ella y posa también una mano en la empuñadura. La voz de su patrón pregunta qué necesita, pero Oghma asegura que esta vez solo viene a contar novedades.\n\nEmpieza por Perlasal. Según su relato, el Kraken al que antes había liberado ha terminado muerto, ella ha salvado la ciudad y la reina le ha entregado una recompensa. Saca un rubí y agradece a Jivirix el palo que le dio. El patrón se divierte con la cadena de acontecimientos: su sierva ha ganado gratitud por resolver un problema que ella misma había provocado. Oghma también se atribuye el campeonato del Grand Prix Multiversal; dice que casi empató con Ione y que acabó expulsándola del carromato mediante un empujón mental. Justifica el recurso por la letra de su promesa de no dirigir la espada contra la capitana ni su gente, una interpretación que Jivirix celebra.\n\nLa afiliación a los Mo’ y las nuevas amistades sirven de entrada a otra propuesta. Oghma quiere abrir en Tutucan El Final Feliz, una taberna y burdel con espectáculos, habitaciones y entretenimientos. Imagina que los clientes llegarán con deseos, necesidades y problemas, y ofrece actuar como relaciones públicas de Jivirix para acercarle posibles interesados en sus servicios. Él aprecia la idea, aunque su comentario sobre las almas ajenas deja ver que no comparte la lectura puramente generosa con que ella presenta su trato. Oghma tantea la posibilidad de cobrar comisiones; el negocio y su remuneración todavía están por acordar.\n\nLa audiencia cambia de tono al llegar a Nox. Oghma lo identifica como Jim Hawkins, el mejor amigo de Ione y el hijo de Citlali que ha regresado de la muerte. Repite que él habló de una experiencia de unos cien años, aunque aquí no pasó tanto tiempo, y recuerda el escándalo de la taberna y la intervención de Ione para bajarle el arma. Jivirix pregunta quién lo trajo, dónde estuvo y cómo consiguió regresar. Oghma no sabe responder a ninguna de esas cuestiones. La conversación no proporciona una explicación nueva de su retorno ni convierte su percepción del tiempo en una duración objetiva.\n\nOghma añade lo que Citlali le contó: el rescate de un bebé cuya sangre querían usar para traer a alguien de vuelta, el escondite en el cofre y la maldición ligada a sus cambios de edad. Jivirix reúne esos elementos con visible interés, pero no revela qué conclusión extrae. Su sierva pasa después a Nistra, quien había preguntado por la maldición y aceptado conocerlo, y a Ione, que también mostró interés. El patrón permite que ambas se presenten cuando quieran, sin comprometer todavía un favor o un pacto con ellas.\n\nEntonces llega el encargo: Oghma debe conseguir una muestra de Nox y otra de Citlali. Jivirix acepta un pelo, una uña, sangre en un pañuelo, una botella de la que hayan bebido o, cuando ella pregunta, lágrimas. La facilidad aparente tranquiliza a Oghma, que había temido una petición más violenta. No obtiene una explicación de para qué servirán las muestras: el patrón reserva ese propósito para sí.\n\nAntes de despedirse, Oghma vuelve a las comisiones. Jivirix le recuerda que no ha terminado de leer su contrato y delimita el reparto: El Final Feliz podrá ser su negocio, pero los pactos los hará él. Ella acepta encargarse de atraer clientes y promete traer las dos muestras. El eco desaparece entre risas; Oghma hace desaparecer la espada y se dirige satisfecha a la puerta. En privado considera extraña la colección de su jefe y se alegra de no tener que matar otro monstruo. La audiencia termina sin haber recogido ninguna muestra, abierto el establecimiento o celebrado las visitas de Ione y Nistra.",
+  "participantes": [
+    "Oghma",
+    "Jivirix"
+  ],
+  "evidencias": [
+    {
+      "mensaje_id": "1566886507506045004",
+      "afirmacion": "Oghma cierra su habitación, invoca la espada y mantiene una audiencia con Jivirix a través de un eco de su propia apariencia.",
+      "tipo": "accion"
+    },
+    {
+      "mensaje_id": "1566886639090008175",
+      "afirmacion": "Oghma propone El Final Feliz como negocio para atraer posibles clientes a Jivirix y pregunta por comisiones.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1566886740428464210",
+      "afirmacion": "Jivirix pregunta por el retorno de Nox, pero Oghma desconoce quién lo trajo, dónde estuvo y cómo volvió.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1566886795558523074",
+      "afirmacion": "Oghma transmite a Jivirix lo que Citlali contó del rescate y el interés de Nistra por conocerlo.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1566886930858123308",
+      "afirmacion": "Jivirix acepta recibir a Ione y Nistra y pide una muestra de Nox y otra de Citlali, sin revelar su propósito.",
+      "tipo": "dialogo"
+    },
+    {
+      "mensaje_id": "1566886968552587347",
+      "afirmacion": "Jivirix reserva para sí los pactos, recuerda el contrato sin terminar de leer y reitera el encargo de las dos muestras.",
+      "tipo": "dialogo"
+    }
+  ],
+  "notas": [
+    "La audiencia constituye una escena nueva y cerrada; no es un simple FIN de una escena anterior.",
+    "Jivirix se manifiesta en la audiencia mediante un eco con el aspecto de Oghma. El texto no identifica esa apariencia como su forma verdadera.",
+    "Las noticias sobre el Kraken, el Grand Prix, Nox y Citlali son el relato de Oghma ante su patrón. La audiencia no representa de nuevo esos sucesos ni explica el regreso de Nox.",
+    "El Final Feliz es un proyecto: no consta aún su apertura, una clientela real, un reparto de comisiones o pactos acordados a través del establecimiento.",
+    "La petición de muestras es un encargo pendiente. No se narra que Oghma las obtenga, que Nox o Citlali lo sepan o consientan, ni para qué las quiere Jivirix.",
+    "Ione y Nistra son candidatas a una visita futura, no participantes presentes ni firmantes de un nuevo pacto.",
+    "Los pensamientos finales de Oghma son privados. El contenido de la audiencia no se atribuye al resto de la tripulación."
+  ],
+  "estado": "cerrada",
+  "revisada": true,
+  "inicio_utc": "2026-11-02T18:47:34.733000+00:00",
+  "fin_utc": "2026-11-02T18:49:24.655000+00:00",
+  "fecha_local": "2026-11-02",
+  "intervalo": {
+    "anterior": 72,
+    "siguiente": null,
+    "anterior_catalogado": false,
+    "siguiente_catalogado": false,
+    "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236",
+    "siguiente_fuente": null,
+    "ambito": "despues_del_catalogo",
+    "criterio": "horario_y_duracion_con_retrasos",
+    "confianza": "cronologica",
+    "referencias": [
+      {
+        "capitulo": 72,
+        "fecha": "2026-10-16",
+        "inicio_referencia_utc": "2026-10-16T18:28:13+00:00",
+        "fin_estimado_utc": null,
+        "duracion_video_segundos": null,
+        "tipo_referencia": "tarjeta_twitch_sin_video",
+        "catalogado": false,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1560722648487432236"
+      }
+    ],
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+  },
+  "fuentes": [
+    {
+      "id": "1566886507506045004",
+      "fecha_utc": "2026-11-02T18:47:34.733000+00:00",
+      "fecha_local": "2026-11-02",
+      "editado_utc": "2026-11-02T18:51:26.436000+00:00",
+      "texto": "Oghma:\n**Entra en su habitacion del McKuroto, cierra la puerta tras ella y tira del pomo un par de veces para asegurarse de que esta bien cerrada antes de colocarse en el centro de la habitacion. Se concentra, invocando la espada negra. Deja reposar el peso de la hoja sobre el suelo mientras sostiene la empuñadura en equilibrio**\n\nJivirix, filo de las medias verdades, hoja de las estafas, señor sonriente del embaucamiento... Con una mentira y una reverencia, esta humilde sierva solicita audiencia\n\n**Hace una reverencia. Un eco con su misma apariencia se materializa frente a ella y coloca tambien una mano sobre la empuñadura.**\n\nHIJA MIA. QUE NECESITAS AHORA?\n\nNada, jefe, venia a contarte las novedades\n\nME LLAMAS SIN PEDIRME NADA? QUIEN ERES Y QUE HAS HECHO CON OGHMA?\n\n**Oghma se rie**\n\nPues para empezar, te acuerdas del kraken de Perlasal? Ya esta solucionado!\n\n**El eco inclina ligeramente la cabeza**\n\nSOLUCIONADO?\n\nSi, esta muerto y tuerto\n\n**La sonrisa de Jivirix permanece inmovil durante unos instantes**\n\nMATARLO? NO ERAS TU QUIEN LO HABIA LIBERADO?\n\nBueno, si, pero despues habia que salvar Perlasal, que ya me han cogido cariño alli y la reina me debia una recompensa\n\n**Se encoge de hombros con una sonrisa**\n\nY no te imaginas el espectaculo, jefe\n\n**Suelta una carcajada al recordarlo**\n\nUna maravilla! Muchas gracias por el palo, ha resultado ser un regalito sorprendente y hablando de regalos sorprendentes, la reina al final solto una recompensa acorde a mis servicios\n\n**Oghma saca el rubi de su escote. Jivirix observa a Oghma con una sonrisa cada vez mas amplia**\n\nJAJAJA PRIMERO LIBERAS UN MONSTRUO PARA SEMBRAR EL CAOS Y DESPUES TE CONVIERTES EN HEROINA POR ACABAR CON EL. CONSIGUES QUE TE AGRADEZCAN HABER SOLUCIONADO UN PROBLEMA QUE TU MISMA PROVOCASTE!\n\n**Oghma se queda pensando unos instantes**\n\nBueno, visto asi...\n\nESA ES MI NIÑA. CONTINUA, QUE MAS HAS HECHO?",
+      "mensaje_sha256": "861a61ce87f6e48be8b11b05e4088c9f89b92763f3716b53cf6d2ea10a4cfbec",
+      "texto_sha256": "59a8ca12d20a15a59651c5091d30fcff2f187b06d283f3e74819901c49cdfe35",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886507506045004",
+      "adjuntos": []
+    },
+    {
+      "id": "1566886639090008175",
+      "fecha_utc": "2026-11-02T18:48:06.105000+00:00",
+      "fecha_local": "2026-11-02",
+      "editado_utc": null,
+      "texto": "Ahora soy campeona del Grand Prix Multiversal, y eso que la capitana Ione me lo puso dificil, casi empatamos. Al final tuve que echarla del carromato de un empujoncito, pero con la mente, eh! Le prometi que no dirigiria la espada contra ella ni su gente y una es una mujer de palabra\n\n**Jivirix suelta una carcajada**\n\nJAJAJA HAY QUE RESPETAR LA LETRA DE LOS ACUERDOS. ESTOY ORGULLOSO DE TI, PEQUEÑA MIA\n\nY tambien me he unido al clan Mo'. Ya tengo collar y todo. Estoy haciendo un monton de amigos, justo como me pediste\n\nEXCELENTE. VEO QUE SIGUES GANANDOTE LA CONFIANZA DE ESTA GENTE\n\nY espera a escuchar esto, tengo planes para abrir un negocio en Tutucan. Una taberna burdel, con espectaculos, habitaciones y toda clase de entretenimientos. Se llamara El Final Feliz\n\n**Se frota las manos con una sonrisa picara**\n\nY he pensado que podria ser una oportunidad estupenda para los dos. Por alli pasara mucha gente con deseos, problemas, necesidades... Ya sabes, gente que podria beneficiarse de nuestros servicios\n\n**Hace una reverencia teatral**\n\nMadamme Oghma, relaciones publicas de Jivirix. ¿Que te parece?\n\n**El eco levanta una ceja mientras contempla a Oghma durante unos instantes**\n\nNUESTROS? JAJAJA Y UNA CASA DE PLACERES PARA ATRAER A GENTE DISPUESTA A PAGAR POR CUMPLIR SUS DESEOS. PEQUEÑA MIA, QUIZA NO SEAS TAN INGENUA COMO PARECES\n\n**Oghma sonrie encantada**\n\nEso llevo diciendote desde que nos conocimos! Ademas, mira lo bien que me ha ido a mi con nuestro trato. Tengo amigos, dinero, aventuras y una vida estupenda. Seria egoista guardarmelo para mi sola\n\nDESDE LUEGO. TU GENEROSIDAD NO CONOCE LIMITES, ESPECIALMENTE CUANDO SE TRATA DE LAS ALMAS AJENAS\n\nBueno, jefe, alguna comisioncilla habra que negociar, no?\n\nJAJAJAJA. ESA ES MI CHICA.\n\n**Oghma parece recordar algo y levanta un dedo**\n\nCasi se me olvida. Ha pasado una cosa muy rara por aqui. Resulta que el mejor amigo de la capitana Ione, que ademas es el hijo de Citlali se murio y ahora ha vuelto",
+      "mensaje_sha256": "3b766e22c4da6088240dc5fe47bd6511dbaab0eeb1aa9344e89e06ccdb7bde2b",
+      "texto_sha256": "2a004593e1605229d9904050afe1e7a26c2689065ab030da91aeed02bd7fc233",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886639090008175",
+      "adjuntos": []
+    },
+    {
+      "id": "1566886740428464210",
+      "fecha_utc": "2026-11-02T18:48:30.266000+00:00",
+      "fecha_local": "2026-11-02",
+      "editado_utc": null,
+      "texto": "**El eco ladea ligeramente la cabeza**\n\nHA VUELTO DE ENTRE LOS MUERTOS?\n\nSi, jefe. Jim Hawkins se llama, aunque le llaman Nox. Un pirata bastante peculiar, olia peor que un muerto y tenia una manicura... como garritas de dragon, jefe, terrible! El caso es que murio hace tiempo y su madre da mucha penilla. Y ahora resulta que esta vivo otra vez, un dramon\n\n¿Y QUIEN LO HA TRAIDO DE VUELTA?\n\nPues no lo se, jefe. Pero escucha esto, que es lo mas raro. El muchacho dice que estuvo como cien años en aquel sitio\n\n**La sonrisa de Jivirix permanece inmovil unos instantes**\n\n¿CIEN AÑOS?\n\nEso dijo. Aunque por aqui no ha pasado tanto tiempo, claro. No se muy bien como funciona eso\n\n¿Y DONDE HA ESTADO DURANTE ESOS CIEN AÑOS?\n\nPues tampoco lo se\n\n¿Y COMO HA CONSEGUIDO REGRESAR?\n\n**Oghma se queda pensativa y se encoge de hombros**\n\nPues... eso tampoco\n\n**El eco la observa en silencio**\n\nPEQUEÑA MIA. ME TRAES LA HISTORIA DE UN HOMBRE QUE HA REGRESADO DE LA MUERTE DESPUES DE CIEN AÑOS QUE NO SON CIEN AÑOS Y NO SABES ABSOLUTAMENTE NADA DE COMO HA OCURRIDO\n\nBueno, jefe, tampoco es que estuviera muy dispuesto a conversar. Se puso a montar un escandalo en la taberna, saco una pistola y hasta intento pegarse un tiro. Pero no le salio bien, eso tambien fue bastante raro\n\n**Niega con la cabeza**\n\nYo le dije que recien salido de la tumba lo que necesitaba era un abrazo, o un exorcista. Todavia no tengo claro cual de las dos cosas. Y su pobre madre alli, llorando otra vez. Menos mal que Ione consiguio bajarle el arma\n\n**Jivirix suelta una carcajada**\n\nJAJAJA UN HOMBRE REGRESA DE LA MUERTE Y TU TE PREOCUPAS POR SUS MODALES. QUE DELICIOSAMENTE IMBECIL ERES\n\nPues claro, jefe, que haya vuelto de la muerte no le da derecho a comportarse como un golfo con su madre. Ademas, Citlali es buena gente, no se merece esos disgustos porque arrugan la piel... Espera, ahora que me acuerdo...\n\n**Oghma se queda pensativa, rascandose la barbilla**",
+      "mensaje_sha256": "7ad1b926a40ee7d31a09321b92b5be7d91d3055be22bcf1fd4ddba55fa84ca0b",
+      "texto_sha256": "4a2292341989f39f196d15cd32402d0b97233ef694ef20b800b8fbc56af3a388",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886740428464210",
+      "adjuntos": []
+    },
+    {
+      "id": "1566886795558523074",
+      "fecha_utc": "2026-11-02T18:48:43.410000+00:00",
+      "fecha_local": "2026-11-02",
+      "editado_utc": null,
+      "texto": "Ahora que lo pienso, lo de las arrugas es un asunto muy raro con esta mujer\n\nQUE QUIERES DECIR?\n\nPues que esta maldita, jefe. Me lo conto ella misma. Resulta que cuando Nox era un bebe iban a sacrificarlo, pero Citlali lo salvo y por eso la condenaron. Y desde entonces parece que tiene algunos problemillas con la edad\n\n**Se encoge de hombros**\n\nUN SACRIFICIO? PARA QUE?\n\nPues por lo visto querian usar la sangre del niño para traer a alguien de vuelta. Citlali lo escondio en un cofre para salvarlo y cuando regreso a buscarlo ya no estaba\n\n**Jivirix permanece en silencio durante unos instantes**\n\nASI QUE TENEMOS A UNA MUJER MALDITA POR IMPEDIR UN SACRIFICIO, UN NIÑO CUYA SANGRE DEBIA DEVOLVER A ALGUIEN A LA VIDA Y A ESE MISMO NIÑO REGRESANDO DE LA MUERTE AÑOS DESPUES...\n\n**El eco esboza una amplia sonrisa**\n\nHIJA MIA, ¿ESTAS SEGURA DE QUE NO SABES NADA MAS?\n\nPues no, jefe. Ya sabes que a mi no me gusta meterme en los asuntos de los demas\n\n**Jivirix suelta una carcajada**\n\nJAJAJA NATURALMENTE. LA DISCRECION SIEMPRE HA SIDO UNA DE TUS MAYORES VIRTUDES\n\n**Oghma asiente orgullosa y se lleva una mano a la frente como si acabara de recordar otra cosa**\n\nY hablando de virtudes, tengo que contarte lo de una drow que he conocido, se llama Nistra. Una muchacha muy maja, nos invito a unas copas y ademas me echo una mano al final de una mision\n\n¿Y QUE TIENE DE ESPECIAL ESA MUJER?\n\nPues estuvo preguntandole a Citlali por su maldicion. Y dijo una cosa muy curiosa, que si alguien te maldice es porque todavia te necesita, y que incluso se puede sacar provecho de una maldicion\n\n**Oghma sonrie y levanta un dedo**\n\nY entonces empezo a hablar de patrones magicos mientras me servia otra copa. ¡A mi! Como si yo no fuera a darme cuenta de la indirecta\n\n**Jivirix inclina ligeramente la cabeza**\n\n¿Y QUE HICISTE?\n\nPues le pregunte si queria conocerte, claro. Le dije que podria conseguirle una cita contigo y acepto. Ya le prometi que te lo comentaria\n\n**El eco deja escapar una carcajada**",
+      "mensaje_sha256": "143ef834cb303d6d2967447b74f08681d1d8920157ad26294f21935a330ac7f6",
+      "texto_sha256": "4ae9470b28438c50b852424050efc4d689003ea9f30afb3723e711a5c67803a0",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886795558523074",
+      "adjuntos": []
+    },
+    {
+      "id": "1566886930858123308",
+      "fecha_utc": "2026-11-02T18:49:15.668000+00:00",
+      "fecha_local": "2026-11-02",
+      "editado_utc": null,
+      "texto": "JAJAJAJA. NI SIQUIERA HAS ABIERTO TU NEGOCIO Y YA ESTAS HACIENDO CONTACTOS. MAGNIFICO\n\nY no es la unica, jefe, la capitana Ione tambien quiere conocerte. Le conte lo bien que nos llevamos y parecio interesada\n\n**Hace una pausa y sonrie con picardia**\n\nAunque a esa no se si estara interesada en algo. Es bastante cabezota y le gusta solucionar los problemas a cabezazos\n\n¿Y ESO TE PARECE UN OBSTACULO? JAJAJAJA. TODO EL MUNDO DESEA ALGO, INCLUSO LOS QUE CREEN QUE PUEDEN CONSEGUIRLO TODO POR LA FUERZA\n\n**Oghma se rie**\n\nBueno, pues ya tienes dos admiradoras esperando conocerte\n\nJAJAJA. UNA DROW INTERESADA EN LAS MALDICIONES Y UNA CAPITANA QUE RESUELVE SUS PROBLEMAS A CABEZAZOS. QUE SE PRESENTEN CUANDO QUIERAN, YA VEREMOS SI TENGO ALGO QUE OFRECERLES\n\n**Oghma se acomoda los ropajes y sonrie orgullosa**\n\nBueno, jefe, pues ya ves que no he perdido el tiempo. Salvadora de Perlasal, campeona multiversal, miembro de un clan importante, futura empresaria...\n\nBASTA DE TITULOS, OGHMA. TENGO UN ENCARGO PARA TI\n\n**Oghma abre mucho los ojos, emocionada**\n\nUn encargo! Dime, jefe, que necesitas?\n\nQUIERO QUE ME TRAIGAS UNA PEQUEÑA PARTE DE ESE PIRATA Y DE SU MADRE\n\n**Oghma frunce el ceño, desconcertada**\n\nUna parte? De que parte estamos hablando, jefe?\n\nUN PELO, UNA UÑA, UN PAÑUELO CON UNA GOTA DE SANGRE... INCLUSO UNA BOTELLA DE LA QUE HAYAN BEBIDO ME SERVIRIA. UNA COSA DE CADA UNO\n\n**Oghma parece aliviada**\n\nAh, bueno! Me habias asustado, pensaba que querias una oreja o algo asi. Y para que necesitas esas cosas?\n\n**El eco sonrie**\n\nESO ES ASUNTO MIO\n\n**Oghma se encoge de hombros**\n\nBueno, con Nox lo de las botellas va a ser facil, se bebe hasta el agua de los floreros. De Citlali te sirven pañuelos con lagrimas? Tiene muchos\n\nSI, OGHMA. LAS LAGRIMAS TAMBIEN SIRVEN. POR UNA VEZ ESPERO QUE VUELVAS CON ALGO MAS QUE PREGUNTAS SIN RESPUESTA\n\n**Oghma hace un gesto despreocupado con la mano**",
+      "mensaje_sha256": "9195078d211e894c76824d8b16e725255a98c47005ffd3f0bf88c9786f707733",
+      "texto_sha256": "43fc155f6c4accf43c02dae3ef321b87704e068e0c79dc4be5915d5ad52ac104",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886930858123308",
+      "adjuntos": []
+    },
+    {
+      "id": "1566886968552587347",
+      "fecha_utc": "2026-11-02T18:49:24.655000+00:00",
+      "fecha_local": "2026-11-02",
+      "editado_utc": null,
+      "texto": "Descuida, jefe, esto es facilisimo. Y cuando te traiga las cosas, podemos hablar de las comisiones del negocio?\n\n**Jivirix levanta una ceja**\n\nJAJAJA. AHI ESTABA. YA ME EXTRAÑABA QUE NO QUISIERAS NADA A CAMBIO\n\nHombre, jefe, tampoco voy a trabajar gratis toda la vida\n\n**El eco inclina la cabeza y su sonrisa se ensancha**\n\nOGHMA, ME PARECE QUE TODAVIA NO HAS TERMINADO DE LEER NUESTRO CONTRATO\n\n**Oghma deja escapar una risita**\n\nBueno, ya sabes que a mi el papeleo...\n\nLO SE. JAJAJAJA. Y UNA COSA MAS: EL FINAL FELIZ PODRA SER TU NEGOCIO, PERO LOS PACTOS LOS HAGO YO. NO VAYAS OFRECIENDO MIS SERVICIOS COMO SI FUERAN UNA CONSUMICION GRATIS\n\n**Oghma levanta ambas manos, sonriendo**\n\nPor supuesto, jefe! Yo solo me encargo de traer a los clientes, luego tu les vendes lo que quieras\n\n**Jivirix suelta una carcajada**\n\nESA ES LA PRIMERA COSA SENSATA QUE HAS DICHO EN TODA LA AUDIENCIA. AHORA VE Y CONSIGUEME ESAS DOS MUESTRAS\n\n**Oghma hace una ultima reverencia**\n\nDescuida, jefe. Lo tengo todo controlado\n\nESO ES PRECISAMENTE LO QUE ME PREOCUPA\n\n**El eco desaparece entre carcajadas. Oghma hace desaparecer la espada y permanece unos instantes pensativa**\n\n*Una botella y un pañuelo... Que cosas mas raras colecciona el jefe. Bueno, por lo menos esta vez no tengo que matar a ningun monstruo*\n\n**Se encoge de hombros y se dirige a la puerta, satisfecha con la audiencia**\n\n🔴 Fin de la escena 🔴",
+      "mensaje_sha256": "5a380d8fb5e37f580913903ec39ab7fbffd9d0e1cf63d396b3b79b6d3018e0b5",
+      "texto_sha256": "00118d87fbf1348d40355dbe1d1b66d788a71495c49cba8254f1e69bee1cffcc",
+      "tipo_discord": 0,
+      "referencia": null,
+      "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886968552587347",
+      "adjuntos": []
+    }
+  ]
+}

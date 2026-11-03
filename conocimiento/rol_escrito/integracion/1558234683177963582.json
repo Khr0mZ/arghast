@@ -2,7 +2,7 @@
   "hilo_id": "1558234683177963582",
   "hilo": "Tutucan - La ciudad de los Elementos",
   "campana": "xoltacan",
-  "alcance": "98 mensajes, cinco partes y tres imágenes completos. Se conserva la apertura geográfica como contexto. Continuación revisada: Lectura completa de 181 mensajes nuevos, cinco partes, dos imágenes completas y contexto de la carta y el mausoleo. Audio conservado sin transcripción fiable; cotejo técnico realizado por el coordinador.",
+  "alcance": "98 mensajes, cinco partes y tres imágenes completos. Se conserva la apertura geográfica como contexto. Continuación revisada: Lectura completa de 181 mensajes nuevos, cinco partes, dos imágenes completas y contexto de la carta y el mausoleo. Audio conservado sin transcripción fiable; cotejo técnico realizado por el coordinador. Continuación revisada: Lectura íntegra de seis mensajes nuevos de una audiencia privada cerrada en el McKuroto. Una parte completa; sin adjuntos nuevos.",
   "identidades": [
     {
       "nombre": "Mamá Citlali",
@@ -234,6 +234,45 @@
           "escena": "x-1563965482334158929",
           "fecha_utc": "2026-10-25T22:36:33.535000+00:00",
           "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1564045029293691024"
+        }
+      ]
+    },
+    {
+      "nombre": "Jivirix",
+      "alias": [],
+      "nota": "El patrón responde en una manifestación que adopta la apariencia de Oghma. No se propone una identidad nueva ni se identifica ese aspecto como su forma propia.",
+      "pruebas": [
+        "1566886507506045004"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1566886507506045004",
+          "escena": "x-1566886507506045004",
+          "fecha_utc": "2026-11-02T18:47:34.733000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886507506045004"
+        }
+      ]
+    },
+    {
+      "nombre": "El Final Feliz",
+      "alias": [],
+      "nota": "Nombre del negocio de taberna y burdel que Oghma proyecta abrir en Tutucan. Es una propuesta futura, sin establecimiento abierto documentado en la audiencia.",
+      "pruebas": [
+        "1566886639090008175",
+        "1566886968552587347"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1566886639090008175",
+          "escena": "x-1566886507506045004",
+          "fecha_utc": "2026-11-02T18:48:06.105000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886639090008175"
+        },
+        {
+          "mensaje_id": "1566886968552587347",
+          "escena": "x-1566886507506045004",
+          "fecha_utc": "2026-11-02T18:49:24.655000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886968552587347"
         }
       ]
     }
@@ -556,6 +595,86 @@
           "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1563133773577588859"
         }
       ]
+    },
+    {
+      "nombre": "El encargo de Jivirix sobre Nox y Citlali",
+      "avance": "Después de escuchar las noticias de Oghma sobre el sacrificio impedido y el retorno de Nox, Jivirix solicita una muestra de cada uno. Acepta restos personales, una botella usada o lágrimas, pero mantiene oculto el fin de la petición. El encargo queda aceptado y sin cumplir.",
+      "pruebas": [
+        "1566886740428464210",
+        "1566886795558523074",
+        "1566886930858123308",
+        "1566886968552587347"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1566886740428464210",
+          "escena": "x-1566886507506045004",
+          "fecha_utc": "2026-11-02T18:48:30.266000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886740428464210"
+        },
+        {
+          "mensaje_id": "1566886795558523074",
+          "escena": "x-1566886507506045004",
+          "fecha_utc": "2026-11-02T18:48:43.410000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886795558523074"
+        },
+        {
+          "mensaje_id": "1566886930858123308",
+          "escena": "x-1566886507506045004",
+          "fecha_utc": "2026-11-02T18:49:15.668000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886930858123308"
+        },
+        {
+          "mensaje_id": "1566886968552587347",
+          "escena": "x-1566886507506045004",
+          "fecha_utc": "2026-11-02T18:49:24.655000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886968552587347"
+        }
+      ]
+    },
+    {
+      "nombre": "El Final Feliz y la intermediación de Oghma",
+      "avance": "Oghma propone atraer clientes con deseos y problemas mediante una taberna y burdel. Jivirix aprecia la posibilidad, pero reserva para sí los pactos y recuerda que ella no ha acabado de leer el contrato. No concede una comisión ni se narra la apertura.",
+      "pruebas": [
+        "1566886639090008175",
+        "1566886968552587347"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1566886639090008175",
+          "escena": "x-1566886507506045004",
+          "fecha_utc": "2026-11-02T18:48:06.105000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886639090008175"
+        },
+        {
+          "mensaje_id": "1566886968552587347",
+          "escena": "x-1566886507506045004",
+          "fecha_utc": "2026-11-02T18:49:24.655000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886968552587347"
+        }
+      ]
+    },
+    {
+      "nombre": "La posible audiencia de Ione y Nistra",
+      "avance": "Oghma transmite el interés de ambas y Jivirix permite que se presenten cuando quieran. La autorización no equivale a una visita ya celebrada ni a un acuerdo de servicios.",
+      "pruebas": [
+        "1566886795558523074",
+        "1566886930858123308"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1566886795558523074",
+          "escena": "x-1566886507506045004",
+          "fecha_utc": "2026-11-02T18:48:43.410000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886795558523074"
+        },
+        {
+          "mensaje_id": "1566886930858123308",
+          "escena": "x-1566886507506045004",
+          "fecha_utc": "2026-11-02T18:49:15.668000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886930858123308"
+        }
+      ]
     }
   ],
   "pendientes": [
@@ -599,7 +718,31 @@
           "fecha_utc": "2026-10-13T15:19:35.550000+00:00",
           "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1559586408706867221"
         }
-      ]
+      ],
+      "cotejo_posterior": {
+        "estado": "parcial",
+        "respuesta": "Jivirix autoriza que Ione y Nistra se presenten cuando quieran y da a Oghma un encargo concreto: conseguir una muestra de Nox y otra de Citlali. También reserva para sí los pactos que puedan surgir mediante el negocio proyectado.",
+        "pendiente": "La reunión con Ione y Nistra no ha ocurrido; se desconoce el propósito de las muestras y el objetivo completo del patrón en la isla.",
+        "pruebas": [
+          "1566886930858123308",
+          "1566886968552587347"
+        ],
+        "fuentes_rol": [
+          {
+            "mensaje_id": "1566886930858123308",
+            "escena": "x-1566886507506045004",
+            "fecha_utc": "2026-11-02T18:49:15.668000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886930858123308"
+          },
+          {
+            "mensaje_id": "1566886968552587347",
+            "escena": "x-1566886507506045004",
+            "fecha_utc": "2026-11-02T18:49:24.655000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886968552587347"
+          }
+        ],
+        "orden_temporal": "posterior"
+      }
     },
     {
       "pregunta": "¿Entrena Vak a Naór y llega ella a cumplir el combate prometido?",
@@ -672,7 +815,24 @@
           "fecha_utc": "2026-10-16T21:37:27.018000+00:00",
           "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1560768663332720700"
         }
-      ]
+      ],
+      "cotejo_posterior": {
+        "estado": "parcial",
+        "respuesta": "Oghma dice a Jivirix que es campeona del Grand Prix Multiversal y relata una disputa casi empatada con Ione que habría decidido mediante un empujón mental para expulsarla del carromato. Es su testimonio retrospectivo ante el patrón, quien celebra su interpretación de la promesa de no usar la espada contra la capitana.",
+        "pendiente": "La audiencia no representa la inscripción ante Lopato, la carrera ni su resultado por otras fuentes. Se conserva la victoria como afirmación de Oghma, sin reconstruir un capítulo o dar por documentados todos los trámites del evento.",
+        "pruebas": [
+          "1566886639090008175"
+        ],
+        "orden_temporal": "posterior",
+        "fuentes_rol": [
+          {
+            "mensaje_id": "1566886639090008175",
+            "escena": "x-1566886507506045004",
+            "fecha_utc": "2026-11-02T18:48:06.105000+00:00",
+            "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886639090008175"
+          }
+        ]
+      }
     },
     {
       "pregunta": "¿Recibe Ilikan la libreta y logra Tortas conducir al pueblo de Ilikar hasta Xoltacan?",
@@ -860,6 +1020,65 @@
           "escena": "x-1566151881695174838",
           "fecha_utc": "2026-10-31T22:09:29.203000+00:00",
           "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566212543544819823"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Obtiene Oghma una muestra de Nox y otra de Citlali, y para qué las quiere Jivirix?",
+      "nota": "La petición y la aceptación están representadas. La recogida y el propósito permanecen sin documentar.",
+      "pruebas": [
+        "1566886930858123308",
+        "1566886968552587347"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1566886930858123308",
+          "escena": "x-1566886507506045004",
+          "fecha_utc": "2026-11-02T18:49:15.668000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886930858123308"
+        },
+        {
+          "mensaje_id": "1566886968552587347",
+          "escena": "x-1566886507506045004",
+          "fecha_utc": "2026-11-02T18:49:24.655000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886968552587347"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Abre Oghma El Final Feliz y cómo organiza la intermediación de clientes para Jivirix?",
+      "nota": "El negocio tiene nombre y una propuesta, pero todavía no abre sus puertas ni produce pactos o comisiones.",
+      "pruebas": [
+        "1566886639090008175",
+        "1566886968552587347"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1566886639090008175",
+          "escena": "x-1566886507506045004",
+          "fecha_utc": "2026-11-02T18:48:06.105000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886639090008175"
+        },
+        {
+          "mensaje_id": "1566886968552587347",
+          "escena": "x-1566886507506045004",
+          "fecha_utc": "2026-11-02T18:49:24.655000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886968552587347"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué obligaciones del contrato desconoce todavía Oghma y conseguirá pactar comisiones?",
+      "nota": "Jivirix afirma que ella no ha terminado de leer el contrato y no responde con una remuneración concreta.",
+      "pruebas": [
+        "1566886968552587347"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1566886968552587347",
+          "escena": "x-1566886507506045004",
+          "fecha_utc": "2026-11-02T18:49:24.655000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886968552587347"
         }
       ]
     }
@@ -1203,6 +1422,122 @@
           "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1565785741022331032"
         }
       ]
+    },
+    {
+      "personas": [
+        "Oghma",
+        "Jivirix"
+      ],
+      "desarrollo": "La confianza burlona de la audiencia desemboca en una delimitación de poder: Oghma podrá atraer clientes y tener su negocio, mientras Jivirix conserva los pactos y se reserva el propósito del encargo.",
+      "pruebas": [
+        "1566886507506045004",
+        "1566886639090008175",
+        "1566886930858123308",
+        "1566886968552587347"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1566886507506045004",
+          "escena": "x-1566886507506045004",
+          "fecha_utc": "2026-11-02T18:47:34.733000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886507506045004"
+        },
+        {
+          "mensaje_id": "1566886639090008175",
+          "escena": "x-1566886507506045004",
+          "fecha_utc": "2026-11-02T18:48:06.105000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886639090008175"
+        },
+        {
+          "mensaje_id": "1566886930858123308",
+          "escena": "x-1566886507506045004",
+          "fecha_utc": "2026-11-02T18:49:15.668000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886930858123308"
+        },
+        {
+          "mensaje_id": "1566886968552587347",
+          "escena": "x-1566886507506045004",
+          "fecha_utc": "2026-11-02T18:49:24.655000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886968552587347"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Oghma",
+        "Nox",
+        "Citlali"
+      ],
+      "desarrollo": "Oghma lleva al patrón los datos que conoce sobre madre e hijo y acepta obtener una muestra de cada uno. No se representa que ellos conozcan esa transmisión o la petición.",
+      "pruebas": [
+        "1566886740428464210",
+        "1566886795558523074",
+        "1566886930858123308"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1566886740428464210",
+          "escena": "x-1566886507506045004",
+          "fecha_utc": "2026-11-02T18:48:30.266000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886740428464210"
+        },
+        {
+          "mensaje_id": "1566886795558523074",
+          "escena": "x-1566886507506045004",
+          "fecha_utc": "2026-11-02T18:48:43.410000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886795558523074"
+        },
+        {
+          "mensaje_id": "1566886930858123308",
+          "escena": "x-1566886507506045004",
+          "fecha_utc": "2026-11-02T18:49:15.668000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886930858123308"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Jivirix",
+        "Ione",
+        "Nistra"
+      ],
+      "desarrollo": "El patrón acepta recibirlas después de que Oghma transmita su interés, sin conocerlas todavía en la escena ni ofrecer una prestación acordada.",
+      "pruebas": [
+        "1566886795558523074",
+        "1566886930858123308"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1566886795558523074",
+          "escena": "x-1566886507506045004",
+          "fecha_utc": "2026-11-02T18:48:43.410000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886795558523074"
+        },
+        {
+          "mensaje_id": "1566886930858123308",
+          "escena": "x-1566886507506045004",
+          "fecha_utc": "2026-11-02T18:49:15.668000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886930858123308"
+        }
+      ]
+    },
+    {
+      "personas": [
+        "Oghma",
+        "Ione"
+      ],
+      "desarrollo": "Oghma relata que casi empató con Ione en el Grand Prix y que decidió el resultado con un empujón mental. Defiende que respetó literalmente su promesa de no dirigir la espada contra la capitana. Se conserva su versión retrospectiva, sin narrar de nuevo la carrera.",
+      "pruebas": [
+        "1566886639090008175"
+      ],
+      "fuentes_rol": [
+        {
+          "mensaje_id": "1566886639090008175",
+          "escena": "x-1566886507506045004",
+          "fecha_utc": "2026-11-02T18:48:06.105000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1558234683177963582/1566886639090008175"
+        }
+      ]
     }
   ],
   "precauciones_editoriales": [
@@ -1214,10 +1549,16 @@
     "La despedida de Ilikar confirma la muerte: flores, espíritus, sueño final y cinta roja no son una resurrección.",
     "Nox ha regresado, pero el mecanismo, los ojos negros y el resultado del encasquillamiento no demuestran inmortalidad ni una posesión determinada.",
     "Los recuerdos de bebé y los pensamientos de Nox no pasan automáticamente a ser conocimiento de Citlali, Nistra o el resto del grupo.",
-    "El audio permanece íntegro, sin una transcripción de habla fiable; no se inventan palabras para completarlo."
+    "El audio permanece íntegro, sin una transcripción de habla fiable; no se inventan palabras para completarlo.",
+    "Audiencia privada: ni la tripulación ni los aludidos adquieren automáticamente su contenido.",
+    "Las noticias de aventuras anteriores llegan a Jivirix por el testimonio de Oghma y conservan esa atribución.",
+    "La duración que Nox percibió tras morir no se convierte en cien años reales; Oghma reconoce que ignora la explicación de su regreso.",
+    "El aspecto del eco no fija la forma verdadera de Jivirix ni una nueva identidad.",
+    "El encargo no se marca cumplido y su finalidad no se deduce por similitud con otros rituales.",
+    "El negocio y las visitas son proyectos: no constan apertura, nuevos pactos, comisiones o reuniones celebradas."
   ],
-  "unidades_leidas": 5,
+  "unidades_leidas": 6,
   "estado_seguimiento": "al_cierre_del_hilo",
   "nota_seguimiento": "Cada cuestión conserva el contexto de sus mensajes originales. Los cotejos enlazan las respuestas halladas en otras escenas; la ausencia de un cotejo no demuestra que siga abierta después de otros capítulos.",
-  "fecha_hasta_utc": "2026-11-01T08:00:55.758000+00:00"
+  "fecha_hasta_utc": "2026-11-02T18:49:24.655000+00:00"
 }

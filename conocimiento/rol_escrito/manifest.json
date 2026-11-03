@@ -1625,13 +1625,18 @@
       "id": "x-1566211516347318293",
       "archivo": "escenas/x-1566211516347318293.json",
       "sha256": "885a8796389079c362d1fab003b8f46ef354ae2e028746b9a50f9f09945082c7"
+    },
+    {
+      "id": "x-1566886507506045004",
+      "archivo": "escenas/x-1566886507506045004.json",
+      "sha256": "fd5e9801f69bbc3b69ed270d1ffd226f0bd934897ca10fd31f6d1ea3faf8161c"
     }
   ],
   "estadisticas": {
-    "escenas": 324,
-    "unidades_leidas": 248,
-    "mensajes_en_escenas": 6717,
-    "mensajes_originales": 6719,
+    "escenas": 325,
+    "unidades_leidas": 249,
+    "mensajes_en_escenas": 6723,
+    "mensajes_originales": 6725,
     "adjuntos_en_escenas": 75,
     "notas_de_voz": 17
   },
@@ -1670,7 +1675,7 @@
     },
     {
       "archivo": "integracion/1558234683177963582.json",
-      "sha256": "64a18a870cfeb7ea1fb6b639a19461d9cfb34ca9b6818af3e3726907b6742ad8"
+      "sha256": "4b15e94f96cd7f96f2a94f0e35c244edaae5774d9c4f2133cb41ffd450ca93f7"
     },
     {
       "archivo": "integracion/1562885651844694024.json",
@@ -2323,6 +2328,23 @@
           "nota": "Audio original conservado. El reconocimiento automático no proporciona una transcripción de habla fiable; no se atribuyen palabras a personajes."
         }
       ]
+    },
+    {
+      "sincronizacion_sha256": "15f05e4c0463a72bb95c12d1485ae756551385977fb871ab196ffb8fd4402550",
+      "descargado_utc": "2026-11-03T02:50:52.664123+00:00",
+      "nuevos_mensajes": 6,
+      "revision_completa": true,
+      "hilos": [
+        {
+          "hilo_id": "1558234683177963582",
+          "mensajes": 6,
+          "escenas": 1,
+          "partes_leidas": 1,
+          "imagenes_vistas": [],
+          "ficha_sha256": "895e1f51b0ff43bc73c70c041ca5107302796c6387f1250780ab868b3c57d352"
+        }
+      ],
+      "cotejos_coordinacion_sha256": "c91520d42be2a48308d7c666c8aa2fe90d8a83fef05e32b15380cd9f68a0e159"
     }
   ]
 }

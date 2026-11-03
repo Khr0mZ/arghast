@@ -1,6 +1,6 @@
 # Rol escrito · Xoltacan
 
-324 escenas con relato editorial y texto original completo. Fechas en horario de Madrid.
+325 escenas con relato editorial y texto original completo. Fechas en horario de Madrid.
 
 La ordenación utiliza las fechas originales de Twitch, las horas de referencia y la duración de los vídeos. Admite retrasos y conserva la incertidumbre de los días asumidos. Los pensamientos no se atribuyen a los demás personajes.
 
@@ -330,3 +330,4 @@ La ordenación utiliza las fechas originales de Twitch, las horas de referencia 
 | 2026-10-30 | [Chani incorpora a los piratas y empieza por lavarlos](escenas/x-1565719701248544955.md) | 20 |
 | 2026-10-31 | [Nox y Citlali pactan colaborar sin resolver el vínculo de Amaru](escenas/x-1566151881695174838.md) | 25 |
 | 2026-10-31 | [Opi frena los experimentos y escucha el duelo de Chani](escenas/x-1566211516347318293.md) | 25 |
+| 2026-11-02 | [Jivirix pide a Oghma muestras de Nox y Citlali](escenas/x-1566886507506045004.md) | 6 |
