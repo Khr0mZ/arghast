@@ -16,6 +16,7 @@ def compile_world(world):
     sheets += [XOLTACAN.web / 'rotulos.css', ROOT / 'web/edicion.css']
     theme = inline_assets('\n'.join(expand_styles(path.read_text(encoding='utf-8')) for path in sheets))
     template = inline_assets(template)
+    favicon = inline_assets('<link rel="icon" type="image/svg+xml" href="assets/lichpol-favicon.svg" sizes="any">')
     metadata = world['campaignMetadata']
     loading_css = (ROOT / 'web/carga.css').read_text(encoding='utf-8')
     loading_js = (ROOT / 'web/carga.js').read_text(encoding='utf-8')
@@ -56,6 +57,6 @@ def compile_world(world):
     manifest = {'world': 'Arghast', 'rootCampaignId': 'xoltacan', 'campaignMetadata': metadata, 'campaignFiles': files}
     write(ROOT / 'arghast.html', html(manifest))
     for campaign in CAMPAIGNS:
-        redirect = '<!doctype html><html lang="es"><meta charset="utf-8"><title>Arghast</title><body><a href="arghast.html?campana=' + campaign + '">Abrir ' + metadata[campaign]['name'] + '</a><script>const u=new URL("arghast.html",location.href);u.search=location.search;u.searchParams.set("campana",u.searchParams.get("campana")||"' + campaign + '");u.hash=location.hash;location.replace(u.href);</script></body></html>\n'
+        redirect = '<!doctype html><html lang="es"><head><meta charset="utf-8"><title>Arghast</title>' + favicon + '</head><body><a href="arghast.html?campana=' + campaign + '">Abrir ' + metadata[campaign]['name'] + '</a><script>const u=new URL("arghast.html",location.href);u.search=location.search;u.searchParams.set("campana",u.searchParams.get("campana")||"' + campaign + '");u.hash=location.hash;location.replace(u.href);</script></body></html>\n'
         write(ROOT / (campaign + '.html'), redirect)
     print('Lectores autónomos, transcripciones y rol generados dentro de cada campaña; visor común actualizado.')

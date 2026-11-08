@@ -1,0 +1,14 @@
+{
+  "source": "web/assets/lichpol-logo.webp",
+  "source_sha256": "b0892be42c2020eeaf38632d8ea130b6c6069d6fcedcd897bd095d97d507c5df",
+  "file": "web/assets/lichpol-favicon.svg",
+  "sha256": "a418e6f00a1d667f348a0b5b71c2a6a010943a613fc9adc5c16c48343a8e0f63",
+  "generator": "scripts/generar_favicon.py",
+  "viewBox": [
+    8,
+    8,
+    160,
+    160
+  ],
+  "processing": "Circular SVG clipping and tighter framing; original embedded unchanged; transparent exterior."
+}
