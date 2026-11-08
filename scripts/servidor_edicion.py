@@ -10,6 +10,8 @@ import secrets
 import sqlite3
 import threading
 import time
+import mimetypes
+from datos_publicos import load_public_world
 from copy import deepcopy
 from modelo_edicion import editable, validate
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
@@ -46,8 +48,7 @@ def catalog(world):
 class ArchiveServer(ThreadingHTTPServer):
     def __init__(self, address, root, database, code):
         self.root = Path(root).resolve()
-        html = (self.root / 'arghast.html').read_text(encoding='utf-8')
-        world = json.loads(re.search(r'<script id="xoltacan-data" type="application/json">(.*?)</script>', html, re.S)[1])
+        world = load_public_world(self.root)
         self.fields = catalog(world)
         self.original = {campaign:editable(world if campaign == 'xoltacan' else world['campaigns'][campaign]) for campaign in ('xoltacan','kuroto')}
         self.code_hash = hashlib.sha256(code.encode()).digest()
@@ -124,11 +125,15 @@ class Handler(BaseHTTPRequestHandler):
         if path == '/':
             path = '/arghast.html'
         target = (self.server.root / path.lstrip('/')).resolve()
-        allowed = path in ('/arghast.html', '/xoltacan.html', '/kuroto.html') or (path.startswith('/transcripciones/') and target.suffix in ('.json','.js'))
+        allowed = path in ('/arghast.html', '/xoltacan.html', '/kuroto.html')
+        public_match = re.match(r'^/campanas/(xoltacan|kuroto)/publico/', path)
+        if public_match:
+            public = (self.server.root / 'campanas' / public_match[1] / 'publico').resolve()
+            allowed = target.is_relative_to(public) and target.suffix.lower() in ('.html', '.js', '.json', '.jpg', '.jpeg', '.png', '.webp', '.webm', '.ogg', '.mp3', '.wav', '.m4a')
         if not allowed or not target.is_relative_to(self.server.root) or not target.is_file():
             return self.respond(404, {'error': 'Recurso no disponible.'})
         self.send_response(200)
-        self.send_header('Content-Type', {'.html':'text/html; charset=utf-8','.json':'application/json; charset=utf-8','.js':'text/javascript; charset=utf-8'}[target.suffix])
+        self.send_header('Content-Type', {'.html':'text/html; charset=utf-8','.json':'application/json; charset=utf-8','.js':'text/javascript; charset=utf-8'}.get(target.suffix, mimetypes.guess_type(str(target))[0] or 'application/octet-stream'))
         self.send_header('Cache-Control', 'no-cache')
         self.send_header('X-Content-Type-Options', 'nosniff')
         self.end_headers()

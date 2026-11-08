@@ -9,7 +9,7 @@ parser.add_argument('ficha')
 args = parser.parse_args()
 d = read_json(ROOT / args.ficha)
 n = d['capitulo']
-meta = read_json(ROOT / 'derivados' / f'{n:02d}' / 'meta.json')
+meta = read_json(ROOT / 'campanas/xoltacan/derivados' / f'{n:02d}' / 'meta.json')
 cues = []
 for block in re.split(r'\n{2,}', (ROOT / meta['fuente']).read_text(encoding='utf-8-sig').replace('\r\n', '\n')):
     match = TIMING.search(block)

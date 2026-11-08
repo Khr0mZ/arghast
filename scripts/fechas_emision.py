@@ -3,19 +3,16 @@ from datetime import date, datetime, time
 import hashlib
 import json
 from pathlib import Path
+from rutas import CAMPAIGNS as CAMPAIGN_PATHS, episodios
+from configuracion import read, paths
 
 ROOT = Path(__file__).resolve().parents[1]
-SOURCES = ROOT / 'config/fuentes_anuncios_discord.json'
-ESTIMATES = ROOT / 'config/estimaciones_emisiones.json'
-PROGRAMMING = ROOT / 'config/programacion_twitch.json'
+SOURCES = paths('fuentes_anuncios_discord.json')
+ESTIMATES = paths('estimaciones_emisiones.json')
+PROGRAMMING = paths('programacion_twitch.json')
 CAMPAIGNS = {
-    'xoltacan': ROOT / 'config/emisiones_xoltacan.json',
-    'kuroto': ROOT / 'campanas/kuroto/revision/emisiones.json',
+    name: campaign.config / 'emisiones.json' for name, campaign in CAMPAIGN_PATHS.items()
 }
-
-
-def read(path):
-    return json.loads(path.read_text(encoding='utf-8'))
 
 
 def validate_estimate(estimate, campaign, evidence):
@@ -45,8 +42,8 @@ def validate_estimate(estimate, campaign, evidence):
 
 
 def load_programming(path=None):
-    path = Path(path) if path else PROGRAMMING
-    if not path.exists():
+    path = path if path else PROGRAMMING
+    if not isinstance(path, dict) and not Path(path).exists():
         return {'fuentes': {}, 'advertencias': {}}
     document = read(path)
     if document['zona_horaria'] != 'Europe/Madrid':
@@ -79,11 +76,11 @@ def load_dates(campaign, chapters, path=None, source_path=None, estimate_path=No
     if not path.exists():
         return {}
     document = read(path)
-    sources = read(Path(source_path) if source_path else SOURCES)
+    sources = read(source_path if source_path else SOURCES[campaign])
     evidence = sources['anuncios']
-    estimates_file = Path(estimate_path) if estimate_path else ESTIMATES
+    estimates_file = Path(estimate_path) if estimate_path else ESTIMATES[campaign]
     estimates = read(estimates_file)['campanas'].get(campaign, {}) if estimates_file.exists() else {}
-    programming = load_programming(programming_path)
+    programming = load_programming(programming_path if programming_path else PROGRAMMING[campaign])
     if document['campana'] != campaign or document['zona_horaria'] != 'Europe/Madrid':
         raise ValueError('Campaña o zona horaria incorrecta en las emisiones')
     catalog = {c['capitulo']: c for c in chapters}
@@ -254,14 +251,15 @@ def verify_originals(folder):
     return len(seen)
 
 
-def render_estimates():
-    estimates = read(ESTIMATES)
-    evidence = read(SOURCES)['anuncios']
-    programming = load_programming()
+def render_estimates(selected=None):
+    if selected is None:
+        return sum(render_estimates(campaign) for campaign in CAMPAIGN_PATHS)
+    estimates = read(ESTIMATES[selected])
+    evidence = read(SOURCES[selected])['anuncios']
+    programming = load_programming(PROGRAMMING[selected])
     adopted = adopted_days()
     lines = ['# Fechas asumidas y estimaciones de los directos de Twitch', '',
-             'Se adoptan 22 fechas asumidas para la cronología por indicación del usuario. '
-             'Incluyen los tres últimos casos de Kuroto y la corrección conjunta de los capítulos 55 y 56. '
+             f'Se adoptan {len(adopted[selected])} fechas asumidas para la cronología de {selected.capitalize()} por indicación del usuario. '
              'Se conservan las estimaciones de origen; todos los capítulos catalogados tienen un día elegido. '
              'Los intervalos incluyen sus días extremos y suponen que los capítulos conservan el orden de emisión. '
              'Las fechas de publicación y los avisos de YouTube permanecen separados.', '',
@@ -282,7 +280,7 @@ def render_estimates():
             links += ''.join(f' · [Calendario previsto]({programming["fuentes"][ref]["url_discord"]})' for ref in entry.get('fuentes_programacion', []))
             lines += [f'- **Capítulo {number}:** {entry["fundamento"]} Fuentes: {links}.']
         lines += ['']
-    target = ROOT / 'conocimiento/ESTIMACIONES_EMISIONES.md'
+    target = CAMPAIGN_PATHS[selected].conocimiento / 'ESTIMACIONES_EMISIONES.md'
     target.write_bytes(('\n'.join(lines) + '\n').encode('utf-8'))
     return sum(len(entries) for entries in estimates['campanas'].values())
 
@@ -292,18 +290,17 @@ def adopted_days():
                       if entry['twitch']['estado'] == 'asumida'} for campaign, path in CAMPAIGNS.items()}
 
 
-def render_date_report():
-    sources = read(SOURCES)['anuncios']
-    catalogs = {
-        'xoltacan': read(ROOT / 'xoltacan_subtitulos/episodios.json') + read(ROOT / 'config/episodios_nuevos.json'),
-        'kuroto': read(ROOT / 'campanas/kuroto/catalogo.json')['episodios'],
-    }
+def render_date_report(selected=None):
+    if selected is None:
+        return sum(render_date_report(campaign) for campaign in CAMPAIGN_PATHS)
+    sources = read(SOURCES[selected])['anuncios']
+    catalogs = {selected: episodios(selected)}
     datasets = {campaign: load_dates(campaign, catalog) for campaign, catalog in catalogs.items()}
     documented = sum(entry['twitch']['estado'] == 'documentada' for entries in datasets.values() for entry in entries.values())
     assumed = sum(entry['twitch']['estado'] == 'asumida' for entries in datasets.values() for entry in entries.values())
     lines = ['# Fechas de emisión y publicación', '',
         f'La cronología utiliza {documented} fechas documentadas en los avisos y {assumed} fechas asumidas tras el cotejo editorial. '
-        'Xoltacan tiene fecha para sus 41 capítulos y Kuroto para sus 181 capítulos catalogados. '
+        f'{selected.capitalize()} tiene fecha para sus {len(catalogs[selected])} capítulos catalogados. '
         'Las fechas asumidas se identifican en este informe y conservan sus [estimaciones y fuentes de origen](ESTIMACIONES_EMISIONES.md).', '',
         'Fechas civiles en Europe/Madrid. Twitch, publicación en YouTube, aviso de Discord y programación prevista se conservan separados. '
         'Aceptar el día no supone aceptar la hora programada como inicio real del rol. Véase el [cotejo de los calendarios](PROGRAMACION_TWITCH.md).', '']
@@ -333,12 +330,13 @@ def render_date_report():
             for number, twitch in pending:
                 lines += [f'- Capítulo {number}: {estimate_label(twitch["estimacion"])}. {twitch["estimacion"]["fundamento"]}']
         lines += ['']
-    lines += ['## Límites de las fuentes', '',
+    limits = [
         '- Kuroto 92 tiene un aviso de Twitch del 13/03/2025, pero sigue sin vídeo ni transcripción y no se crea una sesión revisada.',
         '- Kuroto 72–74 comparten directo con Diceland; la apertura de Twitch no fija el comienzo del rol.',
         '- Kuroto 55 adopta el 09/10/2024 y el 56 el 10/10/2024 como hipótesis conjunta basada en el calendario y en títulos arrastrados. El aviso original del 55 permanece fechado el día 10 y no se convierte en prueba del día 9.',
-        '- Twitch 72 del 16/10/2026 no corresponde a YouTube 40 del 18/10/2026. La campaña, el número y las fuentes se cotejan por separado.', '']
-    (ROOT / 'conocimiento/EMISIONES.md').write_bytes(('\n'.join(lines) + '\n').encode('utf-8'))
+        '- Twitch 72 del 16/10/2026 no corresponde a YouTube 40 del 18/10/2026. La campaña, el número y las fuentes se cotejan por separado.']
+    lines += ['## Límites de las fuentes', '', *(limits[:3] if selected == 'kuroto' else limits[3:]), '']
+    (CAMPAIGN_PATHS[selected].conocimiento / 'EMISIONES.md').write_bytes(('\n'.join(lines) + '\n').encode('utf-8'))
     return sum(map(len, catalogs.values()))
 
 
@@ -375,13 +373,15 @@ def verify_programming_originals(folder):
     return dict(mensajes=len(messages), calendarios=len(public['fuentes']))
 
 
-def render_programming():
-    document = load_programming()
-    estimates = read(ESTIMATES)['campanas']
+def render_programming(selected=None):
+    if selected is None:
+        return sum(render_programming(campaign) for campaign in CAMPAIGN_PATHS)
+    document = load_programming(PROGRAMMING[selected])
+    estimates = read(ESTIMATES[selected])['campanas']
     adopted = adopted_days()
     lines = ['# Calendarios de Twitch contrastados con los avisos de directo', '',
         'Se ha leído el texto completo de los 193 mensajes disponibles del canal de información y se han revisado visualmente 43 de sus 149 adjuntos, seleccionados en las ventanas de los 21 capítulos pendientes. Los canales de información de Xoltacan y Kuroto también se han leído completos (3 y 1 mensajes). No contienen un registro de todas las emisiones realizadas.', '',
-        'Los calendarios documentan programación prevista. La cronología conserva 200 fechas documentadas y adopta 22 fechas asumidas, por indicación del usuario. Los capítulos 49, 56 y 134 de Kuroto quedan fechados; también se corrige la correspondencia del 55 para conservar la secuencia prevista del 9 y 10 de octubre. No quedan capítulos catalogados sin día elegido. La zona Europe/Madrid se asume por el contexto; no está impresa en los calendarios. Las horas previstas no son horas reales de inicio ni cortes exactos para el rol escrito.', '',
+        'Los calendarios documentan programación prevista. Las fechas asumidas conservan sus fundamentos y la aceptación del usuario en la configuración de esta campaña. No quedan capítulos catalogados sin día elegido. La zona Europe/Madrid se asume por el contexto; no está impresa en los calendarios. Las horas previstas no son horas reales de inicio ni cortes exactos para el rol escrito.', '',
         'El lateral de YouTube indica días de subida. Se mantiene separado de las filas y horas de los directos de Twitch.', '']
     for campaign, entries in estimates.items():
         lines += ['## ' + campaign.capitalize(), '', '| Capítulo | Programación prevista | Fecha adoptada o intervalo |', '|---|---|---|']
@@ -394,18 +394,20 @@ def render_programming():
         for number, estimate in entries.items():
             lines += [f'- **Capítulo {number}:** {estimate["fundamento"]}']
         lines += ['']
-    lines += ['## Discrepancias que impiden tratar un calendario como prueba de emisión', '',
+    if selected == 'kuroto':
+        lines += ['## Discrepancias que impiden tratar un calendario como prueba de emisión', '',
         '- Kuroto 12 se programa primero para el 2 de mayo y luego para el 7; el aviso de directo es del 7. Se conservan ambos calendarios.',
         '- Kuroto 42 figura previsto para el 2 de septiembre, mientras su aviso de directo es del 3; además cambia el título frente al vídeo.',
         '- ' + document['advertencias']['kuroto']['55'],
         '- Kuroto 132 y 133 tampoco siguen exactamente la numeración prevista de la semana del 23 al 29 de junio de 2025. Los avisos de directo prevalecen como evidencia de emisión.', '',
-        '## Cancelación de la semana del 22 al 28 de junio de 2026', '']
+        '']
+    lines += ['## Cancelación de la semana del 22 al 28 de junio de 2026', '']
     for source in document.get('avisos', {}).values():
         lines += [source['lectura'] + f' [Aviso original]({source["url_discord"]}).', '']
     lines += ['## Conservación y verificación', '',
-        '`config/programacion_twitch.json` conserva las lecturas, identificadores, fechas de publicación y edición de los mensajes, enlaces al canal y SHA-256 de cada mensaje y calendario. Los originales completos y los informes de lectura permanecen en local; no se incluyen autores, credenciales ni el historial privado en la biblioteca pública.', '',
+        '`../config/programacion_twitch.json` conserva las lecturas, identificadores, fechas de publicación y edición de los mensajes, enlaces al canal y SHA-256 de cada mensaje y calendario. Los originales completos y los informes de lectura permanecen en local; no se incluyen autores, credenciales ni el historial privado en la biblioteca pública.', '',
         'La lectura visual es una transcripción editorial: el hash verifica el original conservado, no sustituye su cotejo humano. Las imágenes pueden editarse después de su publicación; se conserva el estado recuperado y la marca de edición de cada mensaje.', '']
-    target = ROOT / 'conocimiento/PROGRAMACION_TWITCH.md'
+    target = CAMPAIGN_PATHS[selected].conocimiento / 'PROGRAMACION_TWITCH.md'
     target.write_bytes(('\n'.join(lines) + '\n').encode('utf-8'))
     return len(document['fuentes'])
 

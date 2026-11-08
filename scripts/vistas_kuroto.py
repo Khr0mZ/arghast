@@ -57,7 +57,7 @@ def refresh(data):
     by_name = {entity['name']:entity for entity in data['entities']}
     relations = ['Las siguientes escenas describen interacciones documentadas entre personajes o facciones. '
                  'Compartir una escena no se convierte automáticamente en una alianza, parentesco o pertenencia permanente.', '']
-    synthesis_path = KUROTO / 'revision/arcos_relaciones.json'
+    synthesis_path = KUROTO / 'config/arcos_relaciones.json'
     if synthesis_path.exists():
         known = {fact['id'] for fact in data['facts']}
         for arc in read_json(synthesis_path):

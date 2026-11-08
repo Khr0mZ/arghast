@@ -1,0 +1,8 @@
+html[data-loading-campaign="xoltacan"] { --loading-background:#20292B; --loading-ink:#F7EAC8; --loading-accent:#E9E626; --loading-track:#6A6F41; --loading-font:'Macondo',Georgia,serif; }
+html[data-loading-campaign="xoltacan"] #loading-screen .loading-lettering { position:relative; display:inline-block; vertical-align:middle; width:var(--lettering-width); height:var(--lettering-height); max-width:100%; min-width:0; -webkit-text-fill-color:transparent; line-height:1; }
+html[data-loading-campaign="xoltacan"] #loading-label.loading-lettering { font-size:24px; }
+html[data-loading-campaign="xoltacan"] #loading-screen .loading-lettering::after { content:''; position:absolute; inset:0; pointer-events:none; background:currentColor; mask:var(--lettering-src) center / contain no-repeat; }
+@media (forced-colors:active) {
+  html[data-loading-campaign="xoltacan"] #loading-screen .loading-lettering { width:auto; height:auto; -webkit-text-fill-color:currentColor; }
+  html[data-loading-campaign="xoltacan"] #loading-screen .loading-lettering::after { display:none; }
+}

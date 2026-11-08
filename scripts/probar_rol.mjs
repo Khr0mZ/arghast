@@ -3,10 +3,11 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import {spawn} from 'node:child_process';
 import {fileURLToPath,pathToFileURL} from 'node:url';
+import {cerrarProceso,eliminarTemporal} from './temporales_pruebas.mjs';
+import {leerArchivo} from './datos_publicos.mjs';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const siteURL=new URL(process.env.ARGHAST_TEST_URL||pathToFileURL(path.join(root,'arghast.html')).href);
-const html=await fs.readFile(fileURLToPath(siteURL),'utf8');
-const archive=JSON.parse(html.match(/<script id="xoltacan-data" type="application\/json">(.*?)<\/script>/s)[1]);
+const archive=await leerArchivo(root);
 const datasets={xoltacan:archive,kuroto:archive.campaigns.kuroto};
 const output=path.join(root,'.pruebas/rol');await fs.mkdir(output,{recursive:true});
 const profile=path.join(output,'perfil-'+Date.now());await fs.mkdir(profile,{recursive:true});
@@ -257,4 +258,4 @@ try {
   const report={resultado:'OK',comprobaciones:checks.length,pruebas:checks};
   await fs.writeFile(path.join(output,'revision.json'),JSON.stringify(report,null,2));
   console.log(JSON.stringify(report,null,2));await send('Browser.close');
-} finally {clearTimeout(deadline);if(ws)ws.close();browser.kill();}
+} finally {clearTimeout(deadline);if(ws)ws.close();await cerrarProceso(browser);await eliminarTemporal(profile);}

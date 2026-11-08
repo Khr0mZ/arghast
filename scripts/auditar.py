@@ -7,6 +7,7 @@ from collections import Counter
 from construir import ROOT, KB, BUILD, SOURCES, read_json, sha, validate_fact
 from catalogo import load_catalog
 from seguimiento import build_tracking
+from rutas import episodios
 
 
 def main():
@@ -14,10 +15,7 @@ def main():
     parser.add_argument('--exigir-completo', action='store_true', help='Falla si queda algún capítulo catalogado sin revisión.')
     parser.add_argument('--comparar-zip', action='store_true', help='Compara originales con ZIP de descarga inicial, cuando existe.')
     args = parser.parse_args()
-    episodes = read_json(SOURCES / 'episodios.json')
-    extra = ROOT / 'config/episodios_nuevos.json'
-    if extra.exists():
-        episodes += read_json(extra)
+    episodes = episodios()
     baseline = read_json(BUILD / 'originales_sha256.json')
     for relative, expected in baseline.items():
         path = ROOT / relative
@@ -81,7 +79,7 @@ def main():
                     missing_links.append((document.relative_to(ROOT).as_posix(), target))
         if missing_links:
             raise ValueError('Enlaces locales inexistentes: ' + repr(missing_links[:30]))
-    archive_path = ROOT / 'xoltacan_transcripciones_01-39.zip'
+    archive_path = ROOT / 'campanas/xoltacan/fuentes/paquetes_originales/xoltacan_transcripciones_01-39.zip'
     if args.comparar_zip:
         if not archive_path.exists():
             raise ValueError('No existe ZIP inicial de transcripciones')

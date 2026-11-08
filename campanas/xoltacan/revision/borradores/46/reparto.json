@@ -1,0 +1,35 @@
+{
+  "capitulo": 46,
+  "fuente": "campanas/xoltacan/fuentes/46 - yRdWu0NIldc.es-orig.vtt",
+  "sha256": "f52334892791a73c8493421fa36bf2fb70b686d30cd62fd219b74845b8f7a33e",
+  "total_segmentos": 3437,
+  "bloques": [
+    {
+      "bloque": 1,
+      "inicio": "00:00:00.000",
+      "fin": "00:49:25.309",
+      "segmentos": 1145,
+      "palabras": 6217,
+      "primer_segmento": "c000001",
+      "ultimo_segmento": "c002289"
+    },
+    {
+      "bloque": 2,
+      "inicio": "00:49:25.319",
+      "fin": "01:37:36.149",
+      "segmentos": 1146,
+      "palabras": 5957,
+      "primer_segmento": "c002291",
+      "ultimo_segmento": "c004581"
+    },
+    {
+      "bloque": 3,
+      "inicio": "01:37:36.159",
+      "fin": "02:24:20.520",
+      "segmentos": 1146,
+      "palabras": 6571,
+      "primer_segmento": "c004583",
+      "ultimo_segmento": "c006875"
+    }
+  ]
+}

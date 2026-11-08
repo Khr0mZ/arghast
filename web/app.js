@@ -1,11 +1,26 @@
-(() => {
+(async() => {
   'use strict';
+  const archiveNode=document.getElementById('xoltacan-data');
+  const manifest=JSON.parse(archiveNode.textContent);
+  if(manifest.campaignFiles){
+    try{
+      const loaded=await Promise.all(Object.entries(manifest.campaignFiles).map(([id,file])=>new Promise((resolve,reject)=>{
+        const script=document.createElement('script');script.src=new URL(file,location.href).href;
+        script.onload=()=>{const value=globalThis.arghastCampaigns?.[id];script.remove();value?resolve([id,{...value,resourceBase:new URL('.',script.src).href}]):reject(new Error(id));};
+        script.onerror=()=>{script.remove();reject(new Error(id));};document.head.append(script);
+      })));
+      const campaigns=Object.fromEntries(loaded),primary=manifest.rootCampaignId||'xoltacan';
+      archiveNode.textContent=JSON.stringify({...campaigns[primary],...manifest,campaigns:Object.fromEntries(loaded.filter(([id])=>id!==primary))});
+    }catch{window.archiveLoading.fail('No se pudieron abrir los datos. Comprueba la conexión o conserva completos los archivos del lector.');return;}
+  }
   const archive = JSON.parse(document.getElementById('xoltacan-data').textContent);
   const campaignMetadata=archive.campaignMetadata||{xoltacan:{id:'xoltacan',name:'Xoltacan',tagline:'Entre la selva y el mar'}};
-  const requestedCampaign=new URLSearchParams(location.search).get('campana')||(location.pathname.endsWith('/kuroto.html')?'kuroto':null);
-  const campaignId=Object.hasOwn(campaignMetadata,requestedCampaign)?requestedCampaign:'xoltacan';
+  const primaryCampaign=archive.rootCampaignId||'xoltacan';
+  const requestedCampaign=new URLSearchParams(location.search).get('campana')||archive.defaultCampaign||(location.pathname.endsWith('/kuroto.html')?'kuroto':null);
+  const campaignId=Object.hasOwn(campaignMetadata,requestedCampaign)?requestedCampaign:primaryCampaign;
   const campaign=campaignMetadata[campaignId];
-  const data = campaignId==='xoltacan'?archive:archive.campaigns[campaignId];
+  const data = campaignId===primaryCampaign?archive:archive.campaigns[campaignId];
+  const resourceURL=value=>new URL(value,new URL(data.resourceBase||'./',location.href)).href;
   let reviewedCount=data.chapters.filter(chapter=>chapter.estado==='revisado').length;
   const content = document.getElementById('content');
   const searchInput = document.getElementById('global-search');
@@ -71,7 +86,7 @@
     if(!file || data.transcripts[number]?.length || transcriptLoads.has(number) || transcriptErrors.has(number))return;
     const script=document.createElement('script');
     transcriptLoads.set(number,script);
-    script.src=new URL(file,location.href).href;
+    script.src=resourceURL(file);
     const finish=ok=>{
       const sourceNumber=chapters.get(n)?._source??number;
       const rows=globalThis.arghastTranscripts?.[campaignId+'/'+sourceNumber];
@@ -143,9 +158,9 @@
   function worldHome() {
     heading('Campañas','Arghast');
     document.title='Arghast · Archivo de campañas';
-    const worlds=Object.values(campaignMetadata).map(meta=>meta.id==='xoltacan'?archive:archive.campaigns[meta.id]);
+    const worlds=Object.values(campaignMetadata).map(meta=>meta.id===primaryCampaign?archive:archive.campaigns[meta.id]);
     const worldChapters=worlds.reduce((total,dataset)=>total+dataset.chapters.length,0);
-    content.innerHTML=`<section class="world-hero"><h1>Arghast</h1><p>Selecciona una campaña.</p><div class="world-summary" aria-label="Contenido del archivo"><span><strong>${worlds.length}</strong> campañas</span><span><strong>${worldChapters}</strong> crónicas</span></div></section><div class="world-campaigns">${Object.values(campaignMetadata).map(meta=>{const dataset=meta.id==='xoltacan'?archive:archive.campaigns[meta.id];const reviewed=dataset.chapters.filter(c=>c.estado==='revisado').length;return `<a class="world-campaign world-campaign-${meta.id}" href="${esc(campaignURL(meta.id))}"><div class="campaign-landscape" aria-hidden="true"></div><div class="campaign-card-body"><span class="eyebrow">${esc(meta.setting)}</span><h2>${esc(meta.name)}</h2><div class="campaign-progress"><span>${reviewed} crónicas revisadas</span></div><span class="campaign-enter">Explorar ${esc(meta.name)} <span aria-hidden="true">→</span></span></div></a>`;}).join('')}</div>`;
+    content.innerHTML=`<section class="world-hero"><h1>Arghast</h1><p>Selecciona una campaña.</p><div class="world-summary" aria-label="Contenido del archivo"><span><strong>${worlds.length}</strong> campañas</span><span><strong>${worldChapters}</strong> crónicas</span></div></section><div class="world-campaigns">${Object.values(campaignMetadata).map(meta=>{const dataset=meta.id===primaryCampaign?archive:archive.campaigns[meta.id];const reviewed=dataset.chapters.filter(c=>c.estado==='revisado').length;return `<a class="world-campaign world-campaign-${meta.id}" href="${esc(campaignURL(meta.id))}"><div class="campaign-landscape" aria-hidden="true"></div><div class="campaign-card-body"><span class="eyebrow">${esc(meta.setting)}</span><h2>${esc(meta.name)}</h2><div class="campaign-progress"><span>${reviewed} crónicas revisadas</span></div><span class="campaign-enter">Explorar ${esc(meta.name)} <span aria-hidden="true">→</span></span></div></a>`;}).join('')}</div>`;
   }
   function pendingSection(title,copy) {
     heading(title,campaign.name+' · Archivo en preparación');
@@ -242,9 +257,9 @@
   const roleLoads=new Map(),roleErrors=new Set();
   function loadRoleSources(scene) {
     if(!scene.sourceFile||scene.fuentes||roleLoads.has(scene.id)||roleErrors.has(scene.id))return;
-    if(scene.sourceFile!==`rol_escrito/${campaignId}/${scene.id}.js`||! /^[xk]-\d+(?:-\d+)?$/.test(scene.id)){roleErrors.add(scene.id);return;}
+    if(scene.sourceFile!==`rol_escrito/escenas/${scene.id}.js`||! /^[xk]-\d+(?:-\d+)?$/.test(scene.id)){roleErrors.add(scene.id);return;}
     const script=document.createElement('script');roleLoads.set(scene.id,script);
-    script.src=new URL(scene.sourceFile,location.href).href;
+    script.src=resourceURL(scene.sourceFile);
     const finish=ok=>{
       const sources=globalThis.arghastWrittenRoleSources?.[campaignId+'/'+scene.id];
       if(ok&&Array.isArray(sources)&&sources.length===scene.mensajes)scene.fuentes=sources;
@@ -402,7 +417,7 @@
     const segments=Array.isArray(source.segmentos)&&source.segmentos.length?source.segmentos.map(segment=>segment.tipo==='accion'?`<strong class="role-action">${esc(segment.texto)}</strong>`:segment.tipo==='pensamiento'?`<em class="role-thought">${esc(segment.texto)}</em>`:esc(segment.texto)).join(''):roleInline(source.texto||'');
     const attachments=(source.adjuntos||[]).map(attachment=>{
       const value=attachment.url||'',valid=/^https:\/\/(?:cdn\.discordapp\.com|media\.discordapp\.net)\/attachments\/\d+\/\d+\//.test(value)||/^(?!\/)(?!.*(?:^|\/)\.\.(?:\/|$))[a-zA-Z0-9_./ -]+$/.test(value);
-      return valid?`<li><a href="${esc(value)}" target="_blank" rel="noopener noreferrer">${esc(attachment.nombre||'Archivo adjunto')} ↗</a></li>`:'';
+      return valid?`<li><a href="${esc(resourceURL(value))}" target="_blank" rel="noopener noreferrer">${esc(attachment.nombre||'Archivo adjunto')} ↗</a></li>`:'';
     }).join('');
     const audio=(source.transcripciones_audio||[]).map(note=>`<section class="role-audio-transcript" aria-label="Nota de voz"><h3>Nota de voz <small>Transcripción automática</small></h3><p>Puede contener errores, especialmente en los nombres. El audio original se conserva en los adjuntos.</p><div class="role-message-text">${esc(note.texto)}</div></section>`).join('');
     const forwarded=(source.reenviados||[]).map(item=>`<div class="role-forwarded"><p>Contenido reenviado${item.fecha_original_utc?' · '+esc(announcementTime(item.fecha_original_utc)):''}</p><div class="role-message-text">${roleInline(item.texto)}</div></div>`).join('');
@@ -609,7 +624,9 @@
     document.getElementById('campaign-context').textContent=worldView?'El mundo de Arghast':'Arghast / '+campaign.name;
     document.querySelector('.search-box').hidden=worldView;
     document.querySelectorAll('#sidebar .nav-label,#sidebar .nav-links').forEach(node=>node.hidden=worldView);
-    document.getElementById('app-stats').textContent=worldView?Object.keys(campaignMetadata).length+' campañas independientes':`${data.chapters.length} crónicas · ${data.facts.length} acontecimientos`;
+    const stats=document.getElementById('app-stats');
+    stats.hidden=worldView;
+    stats.textContent=worldView?'':`${data.chapters.length} crónicas · ${data.facts.length} acontecimientos`;
     if(route==='entidades'){history.replaceState(null,'','#personajes');return render(true);}
     if(route==='metodo'){history.replaceState(null,'','#inicio');return render(true);}
     if(route!=='busqueda'){document.getElementById('search-status').textContent='';if(reset)searchInput.value='';}
@@ -644,7 +661,7 @@
   searchInput.addEventListener('input',()=>{clearTimeout(searchTimer);searchTimer=setTimeout(()=>{state.page=1;state.chapter='';state.kind='';state.searchType='';const q=searchInput.value.trim();history.replaceState(null,'',q?'#busqueda/'+encodeURIComponent(q):'#inicio');render();},180);});
   document.getElementById('search-clear').addEventListener('click',()=>{clearTimeout(searchTimer);searchInput.value='';location.hash='#inicio';render();searchInput.focus();});
   document.getElementById('menu-toggle')?.addEventListener('click',eventObject=>{const open=document.getElementById('sidebar').classList.toggle('open');eventObject.currentTarget.setAttribute('aria-expanded',String(open));});
-  document.getElementById('campaign-selector').addEventListener('change',eventObject=>{const id=eventObject.target.value;if(Object.hasOwn(campaignMetadata,id))location.assign(campaignURL(id));else location.hash='campanas';});
+  document.getElementById('campaign-selector').addEventListener('change',eventObject=>{const id=eventObject.target.value;if(Object.hasOwn(campaignMetadata,id)){const target=campaignURL(id);window.archiveLoading.start(target);location.assign(target);}else location.hash='campanas';});
   window.addEventListener('scroll',scheduleReadingLoad,{passive:true});
   window.addEventListener('resize',scheduleReadingLoad,{passive:true});
   document.addEventListener('click',eventObject=>{const jump=content.querySelector('.reading-jump');if(jump&&!jump.contains(eventObject.target))closeReadingJump();});
@@ -666,4 +683,5 @@
     render();
   }});
   render();
-})();
+  await window.archiveLoading.ready();
+})().catch(error=>{console.error(error);window.archiveLoading.fail('No se pudo abrir el archivo. Vuelve a intentarlo.');});

@@ -1,0 +1,40 @@
+{
+  "id": "yRdWu0NIldc",
+  "title": "D&D Aventuras en Xoltacan - Capítulo 46 - Camino perdido a Iktan",
+  "duration": 8661,
+  "upload_date": "20261108",
+  "channel": "Lichpol",
+  "channel_id": "UCWJ11LdxIuDJpbknXpSPgeg",
+  "webpage_url": "https://www.youtube.com/watch?v=yRdWu0NIldc",
+  "capitulo": 46,
+  "recuperado_el": "2026-11-08",
+  "herramienta": "yt-dlp",
+  "version": "2026.08.19",
+  "lectura": "Tres bloques completos sin solapamiento; 66 evidencias, 13 etapas y cotejo de las 276 preguntas anteriores. Audio no cotejado.",
+  "txt": "Representaciones legibles generadas desde los VTT con el descargador del proyecto; los VTT son la fuente principal.",
+  "originales": {
+    "campanas/xoltacan/fuentes/46 - yRdWu0NIldc.es-orig.txt": {
+      "sha256": "9b9e2b0db329281538820e24ffb1e9330d26c493ace48cc832018a3dcbc704e7",
+      "bytes": 153151
+    },
+    "campanas/xoltacan/fuentes/46 - yRdWu0NIldc.es-orig.vtt": {
+      "sha256": "f52334892791a73c8493421fa36bf2fb70b686d30cd62fd219b74845b8f7a33e",
+      "bytes": 991505
+    },
+    "campanas/xoltacan/fuentes/46 - yRdWu0NIldc.es.txt": {
+      "sha256": "9b9e2b0db329281538820e24ffb1e9330d26c493ace48cc832018a3dcbc704e7",
+      "bytes": 153151
+    },
+    "campanas/xoltacan/fuentes/46 - yRdWu0NIldc.es.vtt": {
+      "sha256": "f52334892791a73c8493421fa36bf2fb70b686d30cd62fd219b74845b8f7a33e",
+      "bytes": 991505
+    },
+    "campanas/xoltacan/fuentes/46 - yRdWu0NIldc.info.json": {
+      "sha256": "590fa210d2ae80ce6d3bc396c5975960ea0c797f3e40d4381cb509565676d267",
+      "bytes": 547187
+    }
+  },
+  "reparto": "campanas/xoltacan/revision/borradores/46/reparto.json",
+  "integracion": "campanas/xoltacan/revision/borradores/46/integracion.json",
+  "cotejo_rol": "campanas/xoltacan/revision/borradores/46/cotejo_rol.json"
+}

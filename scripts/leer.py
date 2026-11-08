@@ -10,7 +10,7 @@ parser.add_argument('capitulo', type=int)
 parser.add_argument('--desde', type=float, default=0, help='Minutos')
 parser.add_argument('--hasta', type=float, default=10000, help='Minutos')
 args = parser.parse_args()
-path = ROOT / 'derivados' / f'{args.capitulo:02d}' / 'segmentos.jsonl'
+path = ROOT / 'campanas/xoltacan/derivados' / f'{args.capitulo:02d}' / 'segmentos.jsonl'
 groups = defaultdict(list)
 for line in path.read_text(encoding='utf-8').splitlines():
     row = json.loads(line)

@@ -8,7 +8,7 @@ Cada ámbito conserva su identidad visual: Arghast usa mar gris azulado y ocres 
 
 Los fondos abarcan toda el área de contenido. Arghast conserva el mapa oficial `arghast.webp` como fondo, con sus colores originales y capas de contraste mediante CSS. El original permanece intacto; `web/assets/arghast-mapa-oficial.webp` es la versión optimizada, con la misma resolución. Arghast, Xoltacan y Kuroto tienen ilustraciones verticales exclusivas para sus drawers. Las campañas tienen además fondos de contenido distintos de las portadas: un cenote selvático para Xoltacan y un jardín entre brumas para Kuroto. Las cinco imágenes se generan con imagegen y se integran sin conexión; sus prompts, originales y versiones WebP constan en [el registro de generación](web/assets/fondos-exclusivos.generacion.json).
 
-Abrir **`arghast.html`** con doble clic para consultar el mismo archivo sin servidor. Conservar a su lado **`transcripciones/`** para los subtítulos de Kuroto y **`rol_escrito/`** para las escenas de Discord y sus adjuntos; los paquetes ZIP incluyen ambas. `xoltacan.html` se conserva como entrada compatible al archivo unificado. **`kuroto.html`** abre directamente Kuroto con los mismos componentes de capítulos y fichas; **`arghast.html`** permite elegir campaña. El contenido de Xoltacan mantiene sus 45 capítulos revisados, 1311 registros, 192 fichas de entidades y sus relatos.
+Abrir **`arghast.html`** con doble clic para elegir campaña sin servidor. Cada campaña tiene además su lector independiente en **`campanas/<campaña>/publico/index.html`**: copiar su carpeta `publico/` completa permite consultar sus datos, transcripciones, escenas y adjuntos sin conexión. Los ZIP incluyen ambos lectores. `xoltacan.html` y `kuroto.html` conservan las entradas anteriores. El contenido de Xoltacan mantiene sus 46 capítulos revisados, 1377 registros, 201 fichas de entidades y sus relatos.
 
 **Estado de Kuroto:** 181 vídeos catalogados; 181 transcripciones (178 de YouTube y 3 locales). 181 sesiones con relato revisado, 2092 evidencias y 1257 fichas con historia. Revisión continua hasta el capítulo 182; 0 sesiones pendientes. La lectura de los bloques está completada; la versión permanece en local para revisión, sin publicación autorizada.
 
@@ -16,9 +16,9 @@ La publicación requiere que el usuario revise y apruebe expresamente la versió
 
 Para continuar la incorporación de Kuroto, usar `.venv/Scripts/python.exe scripts/importar_kuroto.py --descargar`. El importador conserva los VTT, verifica hashes y se detiene si YouTube limita las solicitudes. `--capitulo 1` permite limitar un intento; `--preparar` registra subtítulos aportados en la carpeta de fuentes. No se leen cookies del navegador. Una exportación aportada explícitamente puede indicarse con `--cookies RUTA`, guardándola fuera del repositorio. La lectura editorial y las citas siguen siendo necesarias después de recuperar los subtítulos; no se simulan mediante extracción de nombres o palabras clave.
 
-El archivo revisado de Xoltacan reconstruye la campaña de Lichpol con buscador, capítulos, personajes, atlas, facciones, misiones, relaciones y misterios, con citas y enlaces al minuto. También puedes consultar su [índice Markdown](conocimiento/INDICE.md).
+El archivo revisado de Xoltacan reconstruye la campaña de Lichpol con buscador, capítulos, personajes, atlas, facciones, misiones, relaciones y misterios, con citas y enlaces al minuto. También puedes consultar su [índice Markdown](campanas/xoltacan/conocimiento/INDICE.md).
 
-El HTML integra los 45 capítulos, 1311 registros y transcripciones de Xoltacan. Las 181 transcripciones de Kuroto se abren por sesión desde `transcripciones/kuroto/`, sin cargar todo el archivo al entrar en la portada. Permite buscar en registros o dentro de una transcripción, filtrar evidencias y leer el contexto de una cita. Con el HTML, las transcripciones y el archivo de rol disponibles localmente se pueden leer las fuentes conservadas sin conexión; los vídeos y los enlaces a Discord requieren Internet. La interfaz se regenera con `python scripts/construir_interfaz.py`; el proceso general de Xoltacan, `python scripts/construir.py`, también la actualiza.
+Los datos de cada campaña están en su propio `publico/datos.js`. Las 46 transcripciones de Xoltacan y las 181 de Kuroto se abren por sesión desde sus respectivos `publico/transcripciones/`, sin descargar todas al entrar en la portada. La interfaz permite buscar en registros o dentro de una transcripción, filtrar evidencias y leer el contexto de una cita. Los vídeos y los enlaces a Discord requieren Internet. La interfaz se regenera con `python scripts/construir_interfaz.py`; el proceso general de Xoltacan, `python scripts/construir.py`, también la actualiza.
 
 Las fichas públicas se construyen con el catálogo revisado de identidades: las variantes confirmadas comparten ficha, y personajes, lugares, facciones y objetos tienen un tipo explícito. Las etiquetas originales siguen disponibles en la búsqueda. Las cautelas sobre transcripción y testimonios se consultan en las notas de cada capítulo. La prosa editorial utiliza español neutral; las citas literales conservan el reconocimiento original.
 
@@ -26,29 +26,29 @@ Las dos campañas comparten los términos Crónicas, Acontecimientos, Personajes
 
 Las portadas comparten estructura, accesos y etiquetas. **Leer historia** es la acción principal y abre la lectura continua; «Seguir los misterios» lleva al seguimiento de preguntas en ambas campañas. El catálogo permanece en Crónicas → Capítulos y los vídeos se abren desde cada ficha. El vocabulario común se define en `sections` dentro de `web/app.js`; los estilos y fondos siguen siendo propios de cada campaña.
 
-Los 95 personajes incluyen **Su historia en Xoltacan**, un relato editorial dividido en etapas que conecta sus orígenes, aventuras y evolución hasta el capítulo 43. Cada etapa enlaza sus registros y minutos; después del relato se conservan las evidencias completas. Los personajes de aparición breve tienen una historia proporcional a lo documentado. Las mismas historias se incluyen en las fichas Markdown de `conocimiento/entidades/`.
+Los 95 personajes incluyen **Su historia en Xoltacan**, un relato editorial dividido en etapas que conecta sus orígenes, aventuras y evolución hasta el capítulo 43. Cada etapa enlaza sus registros y minutos; después del relato se conservan las evidencias completas. Los personajes de aparición breve tienen una historia proporcional a lo documentado. Las mismas historias se incluyen en las fichas Markdown de `campanas/xoltacan/conocimiento/entidades/`.
 
-Los **28 lugares**, las **8 facciones** y los **36 objetos** tienen también relatos propios: historia y acontecimientos de cada lugar, intereses y evolución de cada facción, y origen, usos y recorrido de cada objeto. Los registros quedan después del relato. Sus textos editoriales se conservan en `config/historias_lugares.json`, `config/historias_facciones.json` y `config/historias_objetos.json`, con referencias y horizonte de revisión.
+Los **28 lugares**, las **8 facciones** y los **36 objetos** tienen también relatos propios: historia y acontecimientos de cada lugar, intereses y evolución de cada facción, y origen, usos y recorrido de cada objeto. Los registros quedan después del relato. Sus textos editoriales se conservan en `campanas/xoltacan/config/historias_lugares.json`, `campanas/xoltacan/config/historias_facciones.json` y `campanas/xoltacan/config/historias_objetos.json`, con referencias y horizonte de revisión.
 
-Los **45 capítulos** abren en **Relato de la sesión**. Sus resúmenes revisados se conservan íntegros, separados en etapas con títulos y citas de esa misma sesión mediante `config/relatos_capitulos.json`. Las otras pestañas dan acceso a acontecimientos, misiones, preguntas y transcripción. Las divisiones se validan para no cortar frases, alterar el resumen ni incorporar referencias de capítulos posteriores. La construcción general regenera también esta presentación en las fichas Markdown.
+Los **46 capítulos** abren en **Relato de la sesión**. Sus resúmenes revisados se conservan íntegros, separados en etapas con títulos y citas de esa misma sesión mediante `campanas/xoltacan/config/relatos_capitulos.json`. Las otras pestañas dan acceso a acontecimientos, misiones, preguntas y transcripción. Las divisiones se validan para no cortar frases, alterar el resumen ni incorporar referencias de capítulos posteriores. La construcción general regenera también esta presentación en las fichas Markdown.
 
-Las historias de personajes se editan en `config/historias_personajes.json` y `config/historias_personajes_complementarias.json`; no se generan concatenando menciones. El constructor comprueba cobertura de todas las identidades canónicas, duplicados, referencias y horizonte de revisión mediante `scripts/historias.py`. Para revisar nuevos capítulos, actualizar la prosa, las referencias y `revisado_hasta` después de leer las fuentes, y definir las etapas de los nuevos resúmenes. Las entidades nuevas requieren su entrada editorial. Ejecutar `python scripts/construir.py` para regenerar todas las vistas Markdown y HTML.
+Las historias de personajes se editan en `campanas/xoltacan/config/historias_personajes.json` y `campanas/xoltacan/config/historias_personajes_complementarias.json`; no se generan concatenando menciones. El constructor comprueba cobertura de todas las identidades canónicas, duplicados, referencias y horizonte de revisión mediante `scripts/historias.py`. Para revisar nuevos capítulos, actualizar la prosa, las referencias y `revisado_hasta` después de leer las fuentes, y definir las etapas de los nuevos resúmenes. Las entidades nuevas requieren su entrada editorial. Ejecutar `python scripts/construir.py` para regenerar todas las vistas Markdown y HTML.
 
-**Misterios y desenlaces** coteja individualmente las 261 preguntas históricas de Xoltacan con los capítulos posteriores. Cada entrada conserva la pregunta original, el estado (resuelta, parcial o pendiente), la explicación y los registros que aportan la respuesta. Se puede buscar, filtrar por estado y consultar las citas y minutos. Cada capítulo incluye el mismo seguimiento junto a sus preguntas. La versión Markdown está en [SEGUIMIENTO.md](conocimiento/SEGUIMIENTO.md).
+**Misterios y desenlaces** coteja individualmente las 261 preguntas históricas de Xoltacan con los capítulos posteriores. Cada entrada conserva la pregunta original, el estado (resuelta, parcial o pendiente), la explicación y los registros que aportan la respuesta. Se puede buscar, filtrar por estado y consultar las citas y minutos. Cada capítulo incluye el mismo seguimiento junto a sus preguntas. La versión Markdown está en [SEGUIMIENTO.md](campanas/xoltacan/conocimiento/SEGUIMIENTO.md).
 
-La revisión editorial se conserva en `config/seguimiento_preguntas_*.json`. `python scripts/seguimiento.py --exigir-completo` valida la cobertura, las referencias y la coincidencia de cada pregunta con su texto original; el constructor regenera JSON, Markdown y HTML. Los nuevos episodios producen entradas sin revisar y marcan las respuestas anteriores para cotejo: no se cierra una trama automáticamente por encontrar palabras parecidas. Cambiar una pregunta invalida su revisión anterior para evitar asociaciones erróneas.
+La revisión editorial se conserva en `campanas/xoltacan/config/seguimiento_preguntas_*.json`. `python scripts/seguimiento.py --exigir-completo` valida la cobertura, las referencias y la coincidencia de cada pregunta con su texto original; el constructor regenera JSON, Markdown y HTML. Los nuevos episodios producen entradas sin revisar y marcan las respuestas anteriores para cotejo: no se cierra una trama automáticamente por encontrar palabras parecidas. Cambiar una pregunta invalida su revisión anterior para evitar asociaciones erróneas.
 
-Los borradores contienen la revisión vigente. `config/revision_editorial_vigente.json` reúne también los cambios editoriales de los 39 capítulos y puede aplicarse con `python scripts/aplicar_estilo.py config/revision_editorial_vigente.json`; este comando comprueba que los campos de evidencia no cambien. Después se regenera la biblioteca con el constructor. Las recetas anteriores se conservan como historial y no deben aplicarse sobre una revisión posterior.
+Los borradores contienen la revisión vigente. `campanas/xoltacan/revision/revision_editorial_vigente.json` reúne también los cambios editoriales de los 39 capítulos y puede aplicarse con `python scripts/aplicar_estilo.py campanas/xoltacan/revision/revision_editorial_vigente.json`; este comando comprueba que los campos de evidencia no cambien. Después se regenera la biblioteca con el constructor. Las recetas anteriores se conservan como historial y no deben aplicarse sobre una revisión posterior.
 
 ## Fechas originales de emisión
 
-Las fichas y las tarjetas de ambas campañas separan **Directo en Twitch**, **Publicación en YouTube** y **Aviso de YouTube** cuando el anuncio no documenta la publicación exacta. Xoltacan tiene fecha para **sus 45 capítulos: 41 documentadas y 4 asumidas**; Kuroto, para **sus 181 capítulos: 163 documentadas y 18 asumidas**. Todos los capítulos catalogados tienen un día de emisión elegido. El cotejo de información y anuncios adopta Kuroto 49 el 24/09/2024, el 56 el 10/10/2024 y el 134 el 02/07/2025. La reconstrucción conjunta de los capítulos 55 y 56 sitúa el 55 el 09/10/2024, conservando el aviso literal del día 10. El capítulo 41 de Xoltacan se emitió en Twitch el 3 de julio de 2026 y se publicó en YouTube el 20 de octubre.
+Las fichas y las tarjetas de ambas campañas separan **Directo en Twitch**, **Publicación en YouTube** y **Aviso de YouTube** cuando el anuncio no documenta la publicación exacta. Xoltacan tiene fecha para **sus 46 capítulos: 42 documentadas y 4 asumidas**; Kuroto, para **sus 181 capítulos: 163 documentadas y 18 asumidas**. Todos los capítulos catalogados tienen un día de emisión elegido. El cotejo de información y anuncios adopta Kuroto 49 el 24/09/2024, el 56 el 10/10/2024 y el 134 el 02/07/2025. La reconstrucción conjunta de los capítulos 55 y 56 sitúa el 55 el 09/10/2024, conservando el aviso literal del día 10. El capítulo 41 de Xoltacan se emitió en Twitch el 3 de julio de 2026 y se publicó en YouTube el 20 de octubre.
 
-Consultar el [cotejo de todas las fechas](conocimiento/EMISIONES.md), con enlaces a los anuncios. Los originales completos de Discord permanecen en local y se verifican por SHA-256. La interfaz integra las fechas desde `config/emisiones_xoltacan.json` y `campanas/kuroto/revision/emisiones.json`; `config/fuentes_anuncios_discord.json` conserva las evidencias de procedencia. Se muestran fechas civiles en Europe/Madrid, independientes del calendario ficticio del mundo y del comienzo exacto del rol dentro de cada directo.
+Consultar el [cotejo de todas las fechas](campanas/xoltacan/conocimiento/EMISIONES.md), con enlaces a los anuncios. Los originales completos de Discord permanecen en local y se verifican por SHA-256. La interfaz integra las fechas desde `campanas/xoltacan/config/emisiones.json` y `campanas/kuroto/config/emisiones.json`; `campanas/<campana>/config/fuentes_anuncios_discord.json` conserva las evidencias de procedencia. Se muestran fechas civiles en Europe/Madrid, independientes del calendario ficticio del mundo y del comienzo exacto del rol dentro de cada directo.
 
-Las [estimaciones de origen y sus decisiones](conocimiento/ESTIMACIONES_EMISIONES.md) se conservan en `config/estimaciones_emisiones.json`, con sus intervalos, fuentes, confianza y supuestos. Los 22 días asumidos figuran en los archivos de emisiones con fecha elegida y registro de la aceptación; la corrección del 55 conserva también la correspondencia previa. La interfaz muestra el día y explica su procedencia en «Fuentes de las fechas», incluidos los avisos de otras campañas utilizados para contrastar títulos arrastrados. Esos avisos conservan su identidad y no se convierten en pruebas directas de Kuroto. Los informes se regeneran mediante `python scripts/fechas_emision.py --informe-emisiones --informe-estimaciones --informe-programacion`. Aceptar el día no fija la hora ni un corte exacto para asignar escenas escritas.
+Las [estimaciones de origen y sus decisiones](campanas/xoltacan/conocimiento/ESTIMACIONES_EMISIONES.md) se conservan en `campanas/<campana>/config/estimaciones_emisiones.json`, con sus intervalos, fuentes, confianza y supuestos. Los 22 días asumidos figuran en los archivos de emisiones con fecha elegida y registro de la aceptación; la corrección del 55 conserva también la correspondencia previa. La interfaz muestra el día y explica su procedencia en «Fuentes de las fechas», incluidos los avisos de otras campañas utilizados para contrastar títulos arrastrados. Esos avisos conservan su identidad y no se convierten en pruebas directas de Kuroto. Los informes se regeneran mediante `python scripts/fechas_emision.py --informe-emisiones --informe-estimaciones --informe-programacion`. Aceptar el día no fija la hora ni un corte exacto para asignar escenas escritas.
 
-El [cotejo de programación y emisiones](conocimiento/PROGRAMACION_TWITCH.md) incorpora la lectura completa de 193 mensajes y la revisión visual de 43 calendarios seleccionados para los casos estudiados. `config/programacion_twitch.json` conserva sus fuentes y hashes. La fecha y hora previstas permanecen separadas de la fecha adoptada; los cambios de programa y títulos contradictorios siguen visibles. Xoltacan 38 adopta el 15/06/2026 y el 40 el 02/07/2026. Kuroto 55 conserva la advertencia y la explicación de su corrección conjunta con el 56.
+El [cotejo de programación y emisiones](campanas/xoltacan/conocimiento/PROGRAMACION_TWITCH.md) incorpora la lectura completa de 193 mensajes y la revisión visual de 43 calendarios seleccionados para los casos estudiados. `campanas/<campana>/config/programacion_twitch.json` conserva sus fuentes y hashes. La fecha y hora previstas permanecen separadas de la fecha adoptada; los cambios de programa y títulos contradictorios siguen visibles. Xoltacan 38 adopta el 15/06/2026 y el 40 el 02/07/2026. Kuroto 55 conserva la advertencia y la explicación de su corrección conjunta con el 56.
 
 ## Rol escrito de Discord
 
@@ -70,7 +70,7 @@ El botón flotante **Saltar a** permanece accesible durante la lectura. Abre un 
 
 La posición utiliza las fechas de Twitch y las horas de referencia, con el final estimado a partir de la duración del vídeo de YouTube. El rol posterior a ese final se coloca después del capítulo; el cercano al inicio previsto permanece antes para admitir retrasos. Los cierres tardíos y el contexto no desplazan el diálogo. Los días asumidos, las retrospectivas y los directos sin vídeo conservan sus cautelas; esta ordenación no establece un calendario ficticio exacto.
 
-El corpus editorial se conserva separado por campaña en `conocimiento/rol_escrito/` y `campanas/kuroto/conocimiento/rol_escrito/`. Sus manifests verifican las fichas y los adjuntos. `scripts/rol_escrito.py` valida la separación y genera **`rol_escrito/`**, con los mensajes de cada escena y sus archivos para lectura sin conexión. Mantener esa carpeta junto al HTML; ambos paquetes ZIP la incluyen. Las fuentes de duración están en `config/duraciones_rol.json`, contrastadas por identificador de vídeo y hash con los metadatos conservados.
+El corpus editorial se conserva separado por campaña en `campanas/xoltacan/conocimiento/rol_escrito/` y `campanas/kuroto/conocimiento/rol_escrito/`. Sus manifests verifican las fichas y los adjuntos. `scripts/rol_escrito.py` valida la separación y genera **`campanas/<campaña>/publico/rol_escrito/`**, con los mensajes en `escenas/` y sus archivos en `adjuntos/` para lectura sin conexión. Ambos ZIP los incluyen. Las fuentes de duración están en el `config/duraciones_rol.json` de cada campaña, contrastadas por identificador de vídeo y hash con los metadatos conservados.
 
 Después de reconstruir la interfaz, `python -m unittest discover -s scripts -p "test_*.py"` comprueba los datos y cortes temporales. `node scripts/probar_rol.mjs` verifica las escenas reales y su navegación en Edge, además de la prueba general `node scripts/probar_interfaz.mjs`. La construcción y la revisión se hacen en local; la exportación o lectura no autoriza una publicación.
 
@@ -82,55 +82,37 @@ La última extracción completa del rol escrito es del **03/11/2026, 03:50:52 (M
 
 ## Material disponible
 
-Hay 45 capítulos catalogados, 90 VTT y 90 TXT conservados: dos variantes españolas por episodio (`es-orig` y `es`). Ningún episodio carece de subtítulos en este catálogo. Los subtítulos son automáticos y no prueban que todas las palabras del audio estén reconocidas correctamente. El inventario registra inicio, final, tamaño, variantes y SHA-256. No se han cotejado todas las duraciones con el vídeo ni verificado el audio.
+Hay 46 capítulos catalogados, 92 VTT y 92 TXT conservados: dos variantes españolas por episodio (`es-orig` y `es`). Ningún episodio carece de subtítulos en este catálogo. Los subtítulos son automáticos y no prueban que todas las palabras del audio estén reconocidas correctamente. El inventario registra inicio, final, tamaño, variantes y SHA-256. No se han cotejado todas las duraciones con el vídeo ni verificado el audio.
 
 El ZIP inicial de 6 KB contiene catálogo y descargador; el ZIP de transcripciones de aproximadamente 23 MB contiene las descargas. Se conservan ambos. El descargador inicial distingue solo `sin_subtitulos_o_error`: ese estado no permite concluir que falta una pista de YouTube. Se usa una sola variante por episodio para la lectura, dando preferencia a `es-orig`, y se conservan todas las variantes originales.
 
 ## Estructura
 
+Ambas campañas utilizan la misma distribución; véase [el detalle de las carpetas](campanas/README.md).
+
 ```text
-xoltacan_subtitulos/           catálogo, descargador y originales conservados
-  subtitulos/                 VTT y TXT originales; no editar
-config/
-  nombres.json                alias confirmados y nombres aportados por el usuario
-  entidades.json              equivalencias editoriales con criterio y fuentes
-  episodios_nuevos.json        episodios adicionales, creado cuando se añadan
-scripts/
-  construir_interfaz.py        genera los HTML y las transcripciones de Kuroto por sesión
-  construir.py                inventario, derivados e índices incrementales
-  incorporar.py               registro y descarga de nuevos episodios
-  leer.py                     lectura integral por intervalos, sin resumen automático
-  redactar.py                 convierte fichas editoriales compactas y localiza citas
-  organizar.py                fichas enciclopédicas por entidad
-  consultar.py                búsqueda global con tipos de evidencia y referencias
-  auditar.py                  cobertura, citas, hashes y comparación con descarga ZIP
-  empaquetar.py               ZIP completo o compacto, con verificación de entradas
-borradores/                   fichas editoriales compactas, conservadas para reproducir la revisión
-web/                          plantilla visual y aplicación JavaScript de la interfaz
-xoltacan.html                 enciclopedia interactiva lista para abrir
-derivados/
-  originales_sha256.json      comprobación de integridad de TODOS los originales
-  inventario.json             disponibilidad y estado de revisión por episodio
-  01/ … 45/                   segmentos JSONL, lectura Markdown y cambios de nombres
-conocimiento/
-  INDICE.md                   capítulos y estado de revisión
-  CRONOLOGIA.md               acontecimientos ordenados por episodio/minuto
-  ENTIDADES.md                apariciones verificables de personajes y lugares
-  FICHAS.md y entidades/      fichas con evolución documentada bajo cada etiqueta
-  NOMBRES.md                  equivalencias, grafías provisionales y separaciones
-  RELACIONES.md              vínculos acreditados, fechados y sus límites
-  ATLAS.md y FACCIONES.md     regiones, lugares, organizaciones e intereses atribuidos
-  MISIONES.md                 encargos, objetivos, resultados y consecuencias
-  PREGUNTAS.md                misterios y tramas sin resolución documentada
-  MISTERIOS.md                estado actual, resoluciones posteriores y preguntas restantes
-  CONTRADICCIONES.md          discrepancias conservadas
-  TRAMAS.md                   seguimiento editorial de pistas y resoluciones entre episodios
-  PROGRESO.md                 estado de lectura y punto exacto de continuación
-  CONTEXTO_USUARIO.md         información del usuario, separada de los vídeos
-  METODO.md                   criterio de evidencia y atribución de declaraciones
-  GUIA_CONSULTA.md             instrucciones y ejemplos de consulta verificable
-  capitulos/01.json, 01.md     ficha editable estructurada y documento generado
+campanas/
+  xoltacan/ y kuroto/
+    catalogo.json            catálogo activo de la campaña
+    config/                  configuración e identidades de la campaña
+    fuentes/                 originales, metadatos y comprobaciones
+    revision/                entregas editoriales, borradores y procedencia
+    conocimiento/            fichas, documentos y rol escrito
+    derivados/               inventarios, segmentos y lecturas regenerables
+    web/                     estilos, imágenes, fuentes y licencias propios
+    publico/                 lector independiente y datos generados
+      index.html y datos.js
+      transcripciones/       una transcripción por sesión
+      rol_escrito/           escenas/ y adjuntos/ de esa campaña
+scripts/                     constructores, herramientas y pruebas comunes
+web/                         interfaz y recursos compartidos de Arghast
+online/                      editor compartido y configuración de alojamiento
+arghast.html                 entrada común a ambas campañas
+xoltacan.html y kuroto.html   entradas compatibles de cada campaña
 ```
+
+Las rutas se declaran en `scripts/rutas.py`. Xoltacan mantiene sus configuraciones de historias y preguntas; Kuroto conserva sus fichas editoriales integradas. El cambio de carpetas no reescribe los relatos, las evidencias o las identidades. Las incorporaciones actuales usan `campanas/<campaña>/catalogo.json`; los catálogos de descargas antiguas quedan como fuentes históricas.
+
 
 ## Ejecutar
 
@@ -147,7 +129,7 @@ La versión utilizada en la descarga inicial está fijada en `requirements-desca
 Para registrar un nuevo episodio (sustituir los valores de ejemplo por los reales):
 
 ```powershell
-.\.venv\Scripts\python.exe scripts/incorporar.py --capitulo 46 --url "https://www.youtube.com/watch?v=ID_DE_VIDEO" --titulo "Título real" --descargar
+.\.venv\Scripts\python.exe scripts/incorporar.py --capitulo 47 --url "https://www.youtube.com/watch?v=ID_DE_VIDEO" --titulo "Título real" --descargar
 ```
 
 El ejemplo usa un identificador ficticio y no se ejecuta literalmente. Para reintentar todos los episodios que no tengan VTT válido:
@@ -158,6 +140,18 @@ El ejemplo usa un identificador ficticio y no se ejecuta literalmente. Para rein
 
 La descarga requiere conexión y `yt-dlp` instalado. No descarga vídeos ni audio. La incorporación prepara automáticamente inventario, segmentos y entrada pendiente en el índice. La lectura interpretativa y validación de hechos requieren revisión: el programa no inventa resúmenes ni simula una revisión con palabras clave. El siguiente episodio a revisar es el primero marcado pendiente, en orden numérico.
 
+## Limpiar temporales locales
+
+Para revisar los temporales prescindibles sin eliminarlos:
+
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -File scripts/limpiar_temporales.ps1
+```
+
+Para aplicar esa limpieza, añadir `-Aplicar`. El script retira los perfiles de navegador de las pruebas, sus bases de datos de ejemplo, la caché local de instalaciones y los `__pycache__`. Comprueba que las rutas pertenecen al proyecto y conserva un informe en `.local/limpieza/`. No sigue enlaces o junctions. Las fuentes, los audios, los modelos de transcripción, las correcciones guardadas y los informes de revisión se conservan.
+
+Las pruebas de interfaz y de rol borran su perfil al finalizar. La prueba de edición conserva un informe estable en `.pruebas/edicion/revision.json`; si falla, mantiene la base de datos de ejemplo para diagnosticarlo. No se acumula una copia nueva del navegador por ejecución.
+
 ## Consultar desde ChatGPT
 
 En este proyecto, el agente puede leer el índice y buscar en Markdown o en los originales con `rg`. En otro chat es necesario adjuntar los archivos relevantes o un paquete; crear estos archivos no conecta automáticamente todos los chats a esta carpeta. Para respuestas sobre el canon, buscar primero fichas revisadas y después comprobar los pasajes originales. Las transcripciones pendientes sirven para localizar evidencia, no como hechos ya contrastados.
@@ -165,14 +159,14 @@ En este proyecto, el agente puede leer el índice y buscar en Markdown o en los 
 Ejemplos locales:
 
 ```powershell
-rg -n -i "Bonnie|pirámides|cadenas" conocimiento derivados/01/lectura.md
+rg -n -i "Bonnie|pirámides|cadenas" campanas/xoltacan/conocimiento campanas/xoltacan/derivados/01/lectura.md
 rg -n -i "Oghma|Jivirix" derivados -g lectura.md
 python -X utf8 scripts/consultar.py "Tutucan"
 python -X utf8 scripts/consultar.py "Jivirix"
 python -X utf8 scripts/consultar.py "casino" --personaje Axi
 ```
 
-Los 45 capítulos disponibles se han leído completos y cuentan con fichas estructuradas: 1311 registros de acontecimientos, declaraciones y explicaciones con citas temporales. La reconstrucción cubre el material publicado de este catálogo; las tramas abiertas se mantienen con su seguimiento actualizado al capítulo 45. El estado de cada capítulo figura en el índice.
+Los 46 capítulos disponibles se han leído completos y cuentan con fichas estructuradas: 1377 registros de acontecimientos, declaraciones y explicaciones con citas temporales. La reconstrucción cubre el material publicado de este catálogo; las tramas abiertas se mantienen con su seguimiento actualizado al capítulo 46. El estado de cada capítulo figura en el índice.
 
 Las búsquedas de nombres pueden fallar por reconocimiento de voz; una ausencia en la búsqueda no prueba una ausencia en la sesión. Las fichas seleccionan acontecimientos relevantes y no sustituyen el diálogo original ni un cotejo de audio.
 
@@ -193,18 +187,18 @@ Las paletas se definen en `web/paletas.css` y se apoyan en el [muestreo por regi
 
 Los paneles de portada, cifras, accesos y catalogos usan materiales ilustrados exclusivos: jade tallado y bronce en Xoltacan, laca azul y ondas doradas en Kuroto. Los colores de interfaz se limitan a las paletas oficiales aportadas por el usuario; las texturas se conservan como ilustraciones decorativas. Los relatos largos conservan superficies de lectura calidas. Originales, prompts y WebP: `web/assets/materiales-paneles.generacion.json`.
 
-Las paletas autoritativas son los 16 HEX de cada campaña aportados por el usuario, guardados en `config/paletas_campanas.json`. Xoltacan usa sombras y oliva, azules de cielo, caliza, amarillo y rojo del título; Kuroto combina crema, turquesa, coral y marrón. Los bordes son comunes dentro de cada campaña y los colores se asignan por función, sin arcoíris por categoría. Se conservan los materiales ilustrados.
+Las paletas autoritativas son los 16 HEX de cada campaña aportados por el usuario, guardados en `campanas/<campana>/config/paleta.json`. Xoltacan usa sombras y oliva, azules de cielo, caliza, amarillo y rojo del título; Kuroto combina crema, turquesa, coral y marrón. Los bordes son comunes dentro de cada campaña y los colores se asignan por función, sin arcoíris por categoría. Se conservan los materiales ilustrados.
 
-Las texturas activas se editaron con las paletas HEX aportadas: `web/assets/xoltacan-panel-paleta.webp` usa piedra oscura, oliva y caliza con vetas azul gris; `web/assets/kuroto-panel-paleta.webp` usa laca turquesa, incrustaciones crema y flores coral. Se conserva el relieve de las versiones anteriores. Prompts, archivos de referencia y hashes: `web/assets/materiales-paneles-paleta.generacion.json`.
+Las texturas activas se editaron con las paletas HEX aportadas: `campanas/xoltacan/web/assets/xoltacan-panel-paleta.webp` usa piedra oscura, oliva y caliza con vetas azul gris; `campanas/kuroto/web/assets/kuroto-panel-paleta.webp` usa laca turquesa, incrustaciones crema y flores coral. Se conserva el relieve de las versiones anteriores. Prompts, archivos de referencia y hashes: `campanas/<campana>/web/assets/materiales-paneles-paleta.generacion.json`.
 
 Cada topbar tiene una textura horizontal exclusiva de su vista. Arghast suma un panel de atlas con brujula, piedra azul y ocres, y cifras calculadas desde las campanas disponibles. El mapa oficial sigue siendo el fondo. Originales, prompts y archivos optimizados: `web/assets/cabeceras-atlas.generacion.json`.
 
-Tipografía de campañas: **Karate** (Gary D. Jessey, freeware) en Kuroto y **Ambystoma Mexicanum** (Chequered Ink) en Xoltacan, aplicadas al sidebar, la topbar, botones, pestañas, accesos y encabezados de sección. Ambystoma usa rótulos PNG transparentes con el texto original accesible y seleccionable; la licencia gratuita no comercial restringe incrustar el OTF extraíble, que no se distribuye. Los gráficos adoptan el color del control mediante máscaras CSS, conservan las tildes y se incrustan para uso sin conexión. `scripts/generar_rotulos.py --fuente RUTA` regenera los rótulos con una copia local de la fuente y Pillow; la construcción ordinaria utiliza los PNG guardados. Karate usa Kaisei Tokumin como apoyo para los caracteres españoles ausentes. Los relatos y los nombres dinámicos de Xoltacan mantienen Macondo/Georgia; Arghast y su nombre en el sidebar usan **IM Fell English SC 400**, de Igino Marini (OFL), también aplicada a la topbar y los controles de Arghast. Fuentes OFL y freeware, procedencia y licencias en `web/assets/fonts/`, `web/assets/rotulos-xoltacan.procedencia.json` y `web/assets/xoltacan-titulo.licencia.html`. Estilos en `web/tipografia.css` y `web/rotulos.css`.
+Tipografía de campañas: **Karate** (Gary D. Jessey, freeware) en Kuroto y **Ambystoma Mexicanum** (Chequered Ink) en Xoltacan, aplicadas al sidebar, la topbar, botones, pestañas, accesos y encabezados de sección. Ambystoma usa rótulos PNG transparentes con el texto original accesible y seleccionable; la licencia gratuita no comercial restringe incrustar el OTF extraíble, que no se distribuye. Los gráficos adoptan el color del control mediante máscaras CSS, conservan las tildes y se incrustan para uso sin conexión. `scripts/generar_rotulos.py --fuente RUTA` regenera los rótulos con una copia local de la fuente y Pillow; la construcción ordinaria utiliza los PNG guardados. Karate usa Kaisei Tokumin como apoyo para los caracteres españoles ausentes. Los relatos y los nombres dinámicos de Xoltacan mantienen Macondo/Georgia; Arghast y su nombre en el sidebar usan **IM Fell English SC 400**, de Igino Marini (OFL), también aplicada a la topbar y los controles de Arghast. Fuentes OFL y freeware, procedencia y licencias en `web/assets/fonts/`, `campanas/kuroto/web/assets/fonts/`, `campanas/xoltacan/web/assets/rotulos-xoltacan.procedencia.json` y `campanas/xoltacan/web/assets/xoltacan-titulo.licencia.html`. Estilos en `web/tipografia.css` y `campanas/xoltacan/web/rotulos.css`.
 
-El **capítulo 40, El Festival del Anciano de Piedra** (publicado el 18/10/2026), está incorporado con lectura íntegra en tres bloques, 42 registros citados, ocho etapas de relato y ocho fichas nuevas. El seguimiento de preguntas queda cotejado hasta el 40, incluyendo el paradero de Triel y el origen declarado por Ilikar. Se conservan los testimonios incompatibles sobre la edad de Tortas y las cautelas sobre las identidades de los dragones y de los elfos del capítulo 39. Véanse [la continuidad](conocimiento/continuidad_40.md) y [la procedencia y hashes](config/fuente_xoltacan_40.json).
+El **capítulo 40, El Festival del Anciano de Piedra** (publicado el 18/10/2026), está incorporado con lectura íntegra en tres bloques, 42 registros citados, ocho etapas de relato y ocho fichas nuevas. El seguimiento de preguntas queda cotejado hasta el 40, incluyendo el paradero de Triel y el origen declarado por Ilikar. Se conservan los testimonios incompatibles sobre la edad de Tortas y las cautelas sobre las identidades de los dragones y de los elfos del capítulo 39. Véanse [la continuidad](campanas/xoltacan/conocimiento/continuidad_40.md) y [la procedencia y hashes](campanas/xoltacan/revision/fuente_xoltacan_40.json).
 
-El **capítulo 41, Serpientes en Iktan** (publicado en YouTube el 20/10/2026), está incorporado con lectura íntegra en tres bloques, 55 registros citados, diez etapas de relato y ocho fichas nuevas. Las 235 preguntas anteriores se han cotejado y se añaden once: 246 en total. Cipo queda localizado; la advertencia de Leona se concreta en la infiltración. Se conserva la incertidumbre sobre «ella», el cautivo, los venenos y el nombre del dragón. Véanse [la continuidad](conocimiento/continuidad_41.md) y [la procedencia y hashes](config/fuente_xoltacan_41.json). Esta incorporación permanece en local para revisión, sin publicación autorizada.
+El **capítulo 41, Serpientes en Iktan** (publicado en YouTube el 20/10/2026), está incorporado con lectura íntegra en tres bloques, 55 registros citados, diez etapas de relato y ocho fichas nuevas. Las 235 preguntas anteriores se han cotejado y se añaden once: 246 en total. Cipo queda localizado; la advertencia de Leona se concreta en la infiltración. Se conserva la incertidumbre sobre «ella», el cautivo, los venenos y el nombre del dragón. Véanse [la continuidad](campanas/xoltacan/conocimiento/continuidad_41.md) y [la procedencia y hashes](campanas/xoltacan/revision/fuente_xoltacan_41.json). Esta incorporación permanece en local para revisión, sin publicación autorizada.
 
-El **capítulo 42, Batalla en el Arrecife del Garfio** (directo del 09/07/2026; publicado en YouTube el 25/10/2026), está incorporado con lectura íntegra en tres bloques sin solapamiento, 72 evidencias, trece etapas y ocho fichas nuevas. Las 246 preguntas anteriores están cotejadas y se añaden siete: 253 en total. El Zampaolas vuelve a navegar, Nox libera a Pinky y llegan los cuatro reyes restantes. Se conservan el desenlace del Invictus, la despedida del director y los límites de la búsqueda y del disparo final. Véanse [la continuidad](conocimiento/continuidad_42.md) y [la procedencia con hashes](config/fuente_xoltacan_42.json). Versión local para revisión, sin publicación autorizada.
+El **capítulo 42, Batalla en el Arrecife del Garfio** (directo del 09/07/2026; publicado en YouTube el 25/10/2026), está incorporado con lectura íntegra en tres bloques sin solapamiento, 72 evidencias, trece etapas y ocho fichas nuevas. Las 246 preguntas anteriores están cotejadas y se añaden siete: 253 en total. El Zampaolas vuelve a navegar, Nox libera a Pinky y llegan los cuatro reyes restantes. Se conservan el desenlace del Invictus, la despedida del director y los límites de la búsqueda y del disparo final. Véanse [la continuidad](campanas/xoltacan/conocimiento/continuidad_42.md) y [la procedencia con hashes](campanas/xoltacan/revision/fuente_xoltacan_42.json). Versión local para revisión, sin publicación autorizada.
 
-El **capítulo 43, Batalla en la Jungla del Garfio** (directo del 10/07/2026; publicado en YouTube el 27/10/2026), está incorporado tras leer completos tres bloques sin solapamiento: 62 evidencias, once etapas y seis fichas nuevas. Las 253 preguntas anteriores están cotejadas y se añaden ocho: 261 en total. Se integran los dos frentes simultáneos, el reconocimiento materno de Amaru en Nox y el vínculo de los símbolos de Citlali con el altar, sin inventar los episodios que siguen abiertos. Véanse [la continuidad](conocimiento/continuidad_43.md) y [la procedencia con hashes](config/fuente_xoltacan_43.json). Versión local para revisión, sin publicación autorizada.
+El **capítulo 43, Batalla en la Jungla del Garfio** (directo del 10/07/2026; publicado en YouTube el 27/10/2026), está incorporado tras leer completos tres bloques sin solapamiento: 62 evidencias, once etapas y seis fichas nuevas. Las 253 preguntas anteriores están cotejadas y se añaden ocho: 261 en total. Se integran los dos frentes simultáneos, el reconocimiento materno de Amaru en Nox y el vínculo de los símbolos de Citlali con el altar, sin inventar los episodios que siguen abiertos. Véanse [la continuidad](campanas/xoltacan/conocimiento/continuidad_43.md) y [la procedencia con hashes](campanas/xoltacan/revision/fuente_xoltacan_43.json). Versión local para revisión, sin publicación autorizada.

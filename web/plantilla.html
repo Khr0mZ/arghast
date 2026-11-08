@@ -1,11 +1,12 @@
 <!doctype html>
-<html lang="es">
+<html lang="es" class="archive-loading">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="light">
   <meta name="theme-color" content="#183d34">
   <title>Arghast · Archivo de campañas</title>
+  <!-- LOADING -->
   <style>
     :root{--paper:#f5f1e7;--surface:#fffdf7;--ink:#233a32;--muted:#6e756a;--forest:#183d34;--forest-light:#275347;--gold:#c7a465;--copper:#9b6445;--line:#dddccd;--soft:#eeede2;--sidebar-width:258px;--shadow:0 12px 32px #263b3010}
     *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--paper);color:var(--ink);font-family:Inter,"Segoe UI",Arial,sans-serif;font-size:15px;line-height:1.6}button,input,select{font:inherit}button,a,input,select{-webkit-tap-highlight-color:transparent}button{cursor:pointer}a{color:var(--forest);text-decoration:none}a:hover{color:var(--copper)}button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid var(--gold);outline-offset:4px}button:disabled{cursor:default;opacity:.45}svg{display:block}::selection{background:#d9e3cb;color:var(--forest)}
@@ -31,7 +32,16 @@
   <!-- THEME -->
 </head>
 <body>
-  <aside id="sidebar" aria-label="Navegación de la enciclopedia">
+  <div id="loading-screen" role="status" aria-live="polite" aria-atomic="true">
+    <div class="loading-content">
+      <span id="loading-spinner" aria-hidden="true"></span>
+      <p id="loading-label">Cargando el archivo…</p>
+      <button id="loading-retry" type="button" hidden><span id="loading-retry-label">Volver a intentar</span></button>
+      <noscript><p>Activa JavaScript para abrir el archivo.</p><style>#loading-spinner,#loading-label{display:none}</style></noscript>
+    </div>
+  </div>
+  <script>window.archiveLoading.mount();</script>
+  <aside id="sidebar" aria-label="Navegación de la enciclopedia" inert aria-busy="true">
     <a class="brand" href="#campanas" aria-label="Arghast, elegir campaña">
       <img class="brand-symbol" src="assets/lichpol-logo.webp" alt="Lichpol" width="44" height="44">
       <span class="brand-name">Arghast</span>
@@ -57,7 +67,7 @@
       <div id="app-stats" class="sidebar-stats">Cargando el archivo…</div>
     </div>
   </aside>
-  <div class="workspace">
+  <div class="workspace" inert aria-busy="true">
     <header class="topbar">
       <button id="menu-toggle" type="button" aria-label="Abrir navegación" aria-expanded="false" aria-controls="sidebar">☰</button>
       <div class="topbar-context"><div class="topbar-kicker" id="campaign-context">El mundo de Arghast</div><h1 id="page-title">Las campañas</h1></div>

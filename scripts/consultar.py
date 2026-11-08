@@ -13,7 +13,7 @@ def folded(text):
 def search(query='', character=None, chapter=None, kind=None):
     terms = folded(query).split()
     aliases = {}
-    for group in read_json(ROOT / 'config/entidades.json')['grupos']:
+    for group in read_json(ROOT / 'campanas/xoltacan/config/entidades.json')['grupos']:
         for label in group['etiquetas']:
             aliases[label] = ' '.join([group['nombre'], *group['etiquetas']])
     results = []

@@ -14,7 +14,7 @@ def main():
     changes=read_json(ROOT / args.revision)
     for number, edit in changes.items():
         n=int(number)
-        path=ROOT / 'conocimiento/capitulos' / f'{n:02d}.json'
+        path=ROOT / 'campanas/xoltacan/conocimiento/capitulos' / f'{n:02d}.json'
         original=read_json(path)
         before={fact['id']:{key:value for key,value in fact.items() if key not in FIELDS}
                 for fact in original['afirmaciones']}
@@ -27,7 +27,7 @@ def main():
         after={fact['id']:{key:value for key,value in fact.items() if key not in FIELDS}
                for fact in original['afirmaciones']}
         if before!=after:raise ValueError('Evidencia alterada en capítulo '+number)
-        draft_path=ROOT / 'borradores' / f'{n:02d}.json'
+        draft_path=ROOT / 'campanas/xoltacan/revision/borradores' / f'{n:02d}.json'
         if draft_path.exists():
             draft=read_json(draft_path)
             for field in LISTS:

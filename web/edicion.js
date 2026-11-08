@@ -13,6 +13,7 @@ window.createArchiveEditor=function({data,campaignId,content,refresh,lettering})
   const snapshot=()=>Object.fromEntries(keys.map(k=>[k,clone(data[k])]));
   const service=location.hostname==='khr0mz.github.io'?'https://arghast-editor.ivan-osorio440384.chatgpt.site':'';
   async function request(path,body){
+    if(location.protocol==='file:')throw new Error('La edición requiere abrir el archivo con su servidor.');
     const response=await fetch(service+'/api/editor'+path,{method:body?'POST':'GET',cache:'no-store',headers:body?{'Content-Type':'application/json',...(token?{Authorization:'Bearer '+token}:{})}:{},...(body?{body:JSON.stringify(body)}:{})});
     let result;try{result=await response.json();}catch{throw new Error('No se ha podido conectar con el servicio de edición.');}
     if(!response.ok){if(response.status===401){token='';toggle.hidden=true;if(!active)refresh();}throw new Error(result.error||'No se ha podido guardar.');}return result;

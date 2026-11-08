@@ -1,0 +1,37 @@
+/* ARGHAST-BLOQUE:0 *//* Rich campaign palettes. One material illustration per campaign. */
+body[data-campaign="xoltacan"][data-view="campaign"], .world-campaign-xoltacan {
+  --palette-01:#050A0B;
+  --palette-02:#20292B;
+  --palette-03:#373B35;
+  --palette-04:#4D5335;
+  --palette-05:#6A6F41;
+  --palette-06:#838A49;
+  --palette-07:#3D6779;
+  --palette-08:#537989;
+  --palette-09:#6791A9;
+  --palette-10:#9ABAC7;
+  --palette-11:#B3D2D3;
+  --palette-12:#CEB398;
+  --palette-13:#ECCFAC;
+  --palette-14:#F7EAC8;
+  --palette-15:#E9E626;
+  --palette-16:#F52024;
+  --night:#050A0B; --deep:#20292B; --middle:#373B35; --raised:#4D5335;
+  --accent:#E9E626; --accent-soft:#ECCFAC; --accent-deep:#6A6F41;
+  --focus:#E9E626; --label:#9ABAC7; --signal:#F52024;
+  --edge:#6A6F41; --edge-soft:#6A6F4177; --light:#F7EAC8; --quiet:#B3D2D3;
+  --ink:#20292B; --muted:#373B35; --link:#20292B; --copper:#4D5335;
+  --forest:#20292B; --forest-light:#4D5335; --gold:#E9E626; --paper:#050A0B;
+  --surface:#CEB398; --line:#6A6F41; --chip:#CEB398; --chip-hover:#ECCFAC; --wash:#ECCFAC;
+  --button:linear-gradient(135deg,#E9E626,#E9E626);
+  --button-hover:linear-gradient(135deg,#F7EAC8,#E9E626);
+  --parchment:radial-gradient(ellipse at 0 0,#F7EAC866,transparent 60%),repeating-linear-gradient(12deg,#4D533510 0 1px,transparent 1px 4px),linear-gradient(115deg,#CEB398,#ECCFAC 50%,#CEB398);
+  --panel-art:url('assets/xoltacan-panel-paleta.webp'); --panel-shade:#20292BAB;
+}/* ARGHAST-BLOQUE:1 */
+body[data-campaign="xoltacan"][data-view="campaign"] .detail-tabs .active { color:var(--night); }/* ARGHAST-BLOQUE:2 */
+body[data-campaign="xoltacan"][data-view="campaign"] #sidebar { background-image:linear-gradient(180deg,#20292BB3,#373B358C 65%,#050A0B4D),url('assets/xoltacan-drawer.webp'); }/* ARGHAST-BLOQUE:3 */
+:root:has(body[data-campaign="xoltacan"][data-view="campaign"]) { --scroll-thumb:#6A6F41; --scroll-track:#050A0B; }/* ARGHAST-BLOQUE:4 */
+body[data-campaign="xoltacan"][data-view="campaign"] { --content-landscape:linear-gradient(90deg,#20292B99,#373B3566 60%,#050A0B80),url('assets/xoltacan-background.webp'); }/* ARGHAST-BLOQUE:5 */
+
+/* Texturas exclusivas de las cabeceras; superficies de control legibles. */
+body[data-campaign="xoltacan"][data-view="campaign"] .topbar { background-image:linear-gradient(90deg,#050A0B99,#050A0B33 55%,#050A0B66),url('assets/xoltacan-topbar.webp'); }

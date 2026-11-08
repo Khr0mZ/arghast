@@ -1,0 +1,14 @@
+:root { --loading-background:#243b45; --loading-ink:#f1dfb9; --loading-accent:#c7a465; --loading-track:#6c8189; --loading-font:'IM Fell English SC',Georgia,serif; }
+html.archive-loading { overflow:hidden; background:var(--loading-background); }
+html.archive-loading #sidebar,html.archive-loading .workspace { visibility:hidden; }
+#loading-screen { position:fixed; inset:0; z-index:1000; display:grid; place-items:center; padding:24px; background:var(--loading-background); color:var(--loading-ink); text-align:center; }
+#loading-screen[hidden] { display:none; }
+#loading-screen .loading-content { display:grid; justify-items:center; gap:20px; width:100%; max-width:34rem; min-width:0; }
+#loading-screen #loading-spinner { width:44px; height:44px; border:3px solid var(--loading-track); border-top-color:var(--loading-accent); border-radius:50%; animation:archive-spin .9s linear infinite; }
+#loading-screen #loading-spinner[hidden] { display:none; }
+#loading-screen p { margin:0; color:inherit; font:18px/1.5 var(--loading-font); font-synthesis:none; }
+#loading-screen button { color:inherit; background:transparent; border:1px solid var(--loading-accent); border-radius:4px; padding:10px 18px; font:14px/1.5 var(--loading-font); font-synthesis:none; cursor:pointer; }
+#loading-screen button[hidden] { display:none; }
+#loading-screen button:focus-visible { outline:2px solid var(--loading-accent); outline-offset:4px; }
+@keyframes archive-spin { to { transform:rotate(360deg); } }
+@media (prefers-reduced-motion:reduce) { #loading-screen #loading-spinner { animation:none; } }

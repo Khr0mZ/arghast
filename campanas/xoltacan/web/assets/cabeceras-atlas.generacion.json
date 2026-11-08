@@ -1,0 +1,18 @@
+{
+  "mode": "built-in imagegen",
+  "intent": "generate",
+  "assets": [
+    {
+      "name": "xoltacan-topbar",
+      "prompt": "Use case: stylized-concept. Fantasy RPG encyclopedia decorative material illustration, full bleed, flat front-facing rich tactile craftsmanship, no text, no letters, no UI, no people, no invented geographical map. Asset: very wide 3:1 horizontal material texture for a website top bar. Small-scale ornamental detail woven across the horizontal middle strip so it remains visible when cropped to a shallow header. Quiet low contrast dark areas under overlaid title and search controls. Avoid bright high contrast focal objects in the middle. Weathered charcoal basalt with fine olive fern impressions, subtle limestone geometric incisions and slate blue mineral veins. Palette restricted to #050A0B #20292B #373B35 #4D5335 #6A6F41 #838A49 #3D6779 #537989 #6791A9 #9ABAC7 #B3D2D3 #CEB398 #ECCFAC #F7EAC8, with extremely tiny carved pigment details in #E9E626 and #F52024 near the far edge only. Tropical ancient stone craft, dark olive and charcoal dominant, no emerald jade, no gold metal, no purple. Intricate, beautiful, subtle dimensional lighting.",
+      "source": "C:/Users/khr0m/.codex/generated_images/01a139d3-d428-79a1-9a34-77d49502b031/exec-d528604e-d475-45d8-8eaa-d79d70e26d3f.png",
+      "original": "campanas/xoltacan/web/assets/xoltacan-topbar-original.png",
+      "file": "campanas/xoltacan/web/assets/xoltacan-topbar.webp",
+      "width": 2172,
+      "height": 724,
+      "quality": 90,
+      "bytes": 497048,
+      "sha256": "8857524d073f8c27e6e4f2809ae3452b73fd800948e0ac6d8fc3506434e2adcd"
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "version": 1,
+  "origen": "metadatos_youtube_conservados",
+  "nota": "Duraciones de los vídeos de YouTube para orientar el final del directo original; la edición del vídeo y los retrasos impiden tratarlas como horas reales de juego.",
+  "fuentes": {
+    "catalogo_canal": {
+      "archivo": "campanas/xoltacan/fuentes/metadatos/catalogo_20261014.utf16.json",
+      "sha256": "3924f3426cb49e44dd5760e0e8a0bd05f21935088f6d5cb7e4a28f0d621db8c2"
+    },
+    "xoltacan40": {
+      "archivo": "campanas/xoltacan/fuentes/40 - LBuXKKhfGlY.info.json",
+      "sha256": "cc85bd191ced9378cc29fd86761d46cfdf516b11f996f0adedbdfaf2796f2d46"
+    },
+    "xoltacan41": {
+      "archivo": "campanas/xoltacan/fuentes/41 - vB6Y1LQ2IaM.info.json",
+      "sha256": "64099efc8b52d33945bde06d2b0bafc25a2646b7482222dc803bdabeada1564d"
+    },
+    "xoltacan42": {
+      "archivo": "campanas/xoltacan/fuentes/42 - 3IUV_YN_zxM.info.json",
+      "sha256": "a656247701bf6d73958015a92d29e6d8f466165eb882abd0404def344ea0a937"
+    },
+    "xoltacan43": {
+      "archivo": "campanas/xoltacan/fuentes/43 - tSdmoZCWEZQ.info.json",
+      "sha256": "343b6f86d38b9a740224ded76ad586c59e2529a92f4db58fd9b204860c619dfe"
+    },
+    "xoltacan44": {
+      "archivo": "campanas/xoltacan/fuentes/44 - KAfKPeZImT4.info.json",
+      "sha256": "004ed3444f7308f9e805e2cb93107a50b6b69b6ec1537b4a635f90171fda588a"
+    },
+    "xoltacan45": {
+      "archivo": "campanas/xoltacan/fuentes/45 - 30qLJWABsPE.info.json",
+      "sha256": "65a2cd52e0d8f48871845c82f36ba5caba08677e85a48cfb2678f0fcde23023a"
+    },
+    "xoltacan46": {
+      "archivo": "campanas/xoltacan/fuentes/46 - yRdWu0NIldc.info.json",
+      "sha256": "590fa210d2ae80ce6d3bc396c5975960ea0c797f3e40d4381cb509565676d267"
+    }
+  },
+  "campanas": {
+    "xoltacan": {
+      "1": {
+        "video_id": "ZXhsunFOVdQ",
+        "segundos": 8972,
+        "fuente": "catalogo_canal"
+      },
+      "2": {
+        "video_id": "UGUT4q88hbc",
+        "segundos": 10145,
+        "fuente": "catalogo_canal"
+      },
+      "3": {
+        "video_id": "_E25U4sPlO0",
+        "segundos": 10259,
+        "fuente": "catalogo_canal"
+      },
+      "4": {
+        "video_id": "bA-1puwgS-0",
+        "segundos": 8563,
+        "fuente": "catalogo_canal"
+      },
+      "5": {
+        "video_id": "ltxf463p7b0",
+        "segundos": 10678,
+        "fuente": "catalogo_canal"
+      },
+      "6": {
+        "video_id": "3a3leCUl8Rw",
+        "segundos": 11873,
+        "fuente": "catalogo_canal"
+      },
+      "7": {
+        "video_id": "NHItIAP-III",
+        "segundos": 10425,
+        "fuente": "catalogo_canal"
+      },
+      "8": {
+        "video_id": "SVcQys2YRqI",
+        "segundos": 9128,
+        "fuente": "catalogo_canal"
+      },
+      "9": {
+        "video_id": "KBouzgO2e2w",
+        "segundos": 11563,
+        "fuente": "catalogo_canal"
+      },
+      "10": {
+        "video_id": "sAHVgV0v5ZI",
+        "segundos": 9572,
+        "fuente": "catalogo_canal"
+      },
+      "11": {
+        "video_id": "l6GQNstgFC4",
+        "segundos": 11801,
+        "fuente": "catalogo_canal"
+      },
+      "12": {
+        "video_id": "lKdnYAP4Pto",
+        "segundos": 11679,
+        "fuente": "catalogo_canal"
+      },
+      "13": {
+        "video_id": "vVEAOvJIR7k",
+        "segundos": 8182,
+        "fuente": "catalogo_canal"
+      },
+      "14": {
+        "video_id": "gcdpc6Oipeo",
+        "segundos": 11164,
+        "fuente": "catalogo_canal"
+      },
+      "15": {
+        "video_id": "lSQqHipPl8w",
+        "segundos": 10961,
+        "fuente": "catalogo_canal"
+      },
+      "16": {
+        "video_id": "scBc6ru_YIw",
+        "segundos": 8779,
+        "fuente": "catalogo_canal"
+      },
+      "17": {
+        "video_id": "kBIJHAROMts",
+        "segundos": 10701,
+        "fuente": "catalogo_canal"
+      },
+      "18": {
+        "video_id": "Lthru4aEGNA",
+        "segundos": 9929,
+        "fuente": "catalogo_canal"
+      },
+      "19": {
+        "video_id": "FWFrEFp9Pro",
+        "segundos": 8060,
+        "fuente": "catalogo_canal"
+      },
+      "20": {
+        "video_id": "hHgaPEzSIJE",
+        "segundos": 10126,
+        "fuente": "catalogo_canal"
+      },
+      "21": {
+        "video_id": "K_GVzmNO_i4",
+        "segundos": 9710,
+        "fuente": "catalogo_canal"
+      },
+      "22": {
+        "video_id": "Bqvh2xtB180",
+        "segundos": 12124,
+        "fuente": "catalogo_canal"
+      },
+      "23": {
+        "video_id": "jyqHejTVTSo",
+        "segundos": 10446,
+        "fuente": "catalogo_canal"
+      },
+      "24": {
+        "video_id": "9_kIIQYaIA8",
+        "segundos": 10083,
+        "fuente": "catalogo_canal"
+      },
+      "25": {
+        "video_id": "-IkWTE9Xq3s",
+        "segundos": 8906,
+        "fuente": "catalogo_canal"
+      },
+      "26": {
+        "video_id": "C1V-r4M5w5g",
+        "segundos": 8381,
+        "fuente": "catalogo_canal"
+      },
+      "27": {
+        "video_id": "XH4Y3KjHG9o",
+        "segundos": 10301,
+        "fuente": "catalogo_canal"
+      },
+      "28": {
+        "video_id": "yyFP0le_PoE",
+        "segundos": 7509,
+        "fuente": "catalogo_canal"
+      },
+      "29": {
+        "video_id": "-rYVYq5nDBg",
+        "segundos": 9681,
+        "fuente": "catalogo_canal"
+      },
+      "30": {
+        "video_id": "PihD7LQKt-E",
+        "segundos": 8159,
+        "fuente": "catalogo_canal"
+      },
+      "31": {
+        "video_id": "F-wCP4gRrFw",
+        "segundos": 11716,
+        "fuente": "catalogo_canal"
+      },
+      "32": {
+        "video_id": "iusn7UYPaXo",
+        "segundos": 8019,
+        "fuente": "catalogo_canal"
+      },
+      "33": {
+        "video_id": "IbJQHXyAEVk",
+        "segundos": 9710,
+        "fuente": "catalogo_canal"
+      },
+      "34": {
+        "video_id": "yqmUDCLDIi4",
+        "segundos": 10050,
+        "fuente": "catalogo_canal"
+      },
+      "35": {
+        "video_id": "qemv8_ffBMc",
+        "segundos": 10500,
+        "fuente": "catalogo_canal"
+      },
+      "36": {
+        "video_id": "E_IUxC04l4M",
+        "segundos": 9184,
+        "fuente": "catalogo_canal"
+      },
+      "37": {
+        "video_id": "FWlfp8tVoNo",
+        "segundos": 8389,
+        "fuente": "catalogo_canal"
+      },
+      "38": {
+        "video_id": "mDi1SXxwMz8",
+        "segundos": 8609,
+        "fuente": "catalogo_canal"
+      },
+      "39": {
+        "video_id": "nfesQ2OQlds",
+        "segundos": 8156,
+        "fuente": "catalogo_canal"
+      },
+      "40": {
+        "video_id": "LBuXKKhfGlY",
+        "segundos": 10390,
+        "fuente": "xoltacan40"
+      },
+      "41": {
+        "video_id": "vB6Y1LQ2IaM",
+        "segundos": 9104,
+        "fuente": "xoltacan41"
+      },
+      "42": {
+        "video_id": "3IUV_YN_zxM",
+        "segundos": 8684,
+        "fuente": "xoltacan42"
+      },
+      "43": {
+        "video_id": "tSdmoZCWEZQ",
+        "segundos": 7575,
+        "fuente": "xoltacan43"
+      },
+      "44": {
+        "video_id": "KAfKPeZImT4",
+        "segundos": 6934,
+        "fuente": "xoltacan44"
+      },
+      "45": {
+        "video_id": "30qLJWABsPE",
+        "segundos": 11791,
+        "fuente": "xoltacan45"
+      },
+      "46": {
+        "video_id": "yRdWu0NIldc",
+        "segundos": 8661,
+        "fuente": "xoltacan46"
+      }
+    }
+  }
+}

@@ -14,11 +14,9 @@ import subprocess
 import unicodedata
 
 from fechas_emision import ROOT, SOURCES, load_dates, read
+from rutas import CAMPAIGNS
 
-FOLDERS = {
-    'xoltacan': ROOT / 'conocimiento/rol_escrito',
-    'kuroto': ROOT / 'campanas/kuroto/conocimiento/rol_escrito',
-}
+FOLDERS = {name: paths.conocimiento / 'rol_escrito' for name, paths in CAMPAIGNS.items()}
 UTC = timezone.utc
 SCENE_ID = re.compile(r'[xk]-\d+(?:-\d+)?\Z')
 MESSAGE_URL = re.compile(r'https://discord\.com/channels/\d+/\d+/\d+\Z')
@@ -83,7 +81,7 @@ def duration_seconds(value):
 
 
 def load_video_durations(campaign, chapters):
-    document = read(ROOT / 'config/duraciones_rol.json')
+    document = read(ROOT / 'campanas' / campaign / 'config/duraciones_rol.json')
     entries = document['campanas'][campaign]
     if set(entries) != {str(c['capitulo']) for c in chapters}:
         raise ValueError('Duraciones sin cobertura exacta del catálogo')
@@ -272,7 +270,7 @@ def load_written_role(campaign, chapters, folder=None, output=None):
     manifest = read(folder / 'manifest.json')
     if manifest['campana'] != campaign or not manifest['revision_completa']:
         raise ValueError('Archivo de rol sin revisión completa de la campaña')
-    output = Path(output) if output else ROOT / 'rol_escrito'
+    output = Path(output) if output else CAMPAIGNS[campaign].publico / 'rol_escrito'
     output.mkdir(parents=True, exist_ok=True)
     anchors = session_anchors(campaign, chapters)
     scenes, all_ids = [], set()
@@ -290,7 +288,7 @@ def load_written_role(campaign, chapters, folder=None, output=None):
         if len(groups) != 1:
             raise ValueError('Una escena atraviesa capítulos y necesita lectura editorial separada: ' + scene['id'])
         scene['intervalo'] = scene_interval(groups[0]['frame'], anchors)
-        target = output / campaign / (scene['id'] + '.js')
+        target = output / 'escenas' / (scene['id'] + '.js')
         target.parent.mkdir(parents=True, exist_ok=True)
         sources_json = json.dumps(scene['fuentes'], ensure_ascii=False, separators=(',', ':')).replace('<', '\\u003c')
         target.write_text('globalThis.arghastWrittenRoleSources=globalThis.arghastWrittenRoleSources||{};\n'

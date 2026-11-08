@@ -5,6 +5,7 @@ from collections import defaultdict
 from construir import ROOT, KB, BUILD, read_json, seconds, write, write_json
 from catalogo import load_catalog, canonical_labels, source_links
 from historias import load_entity_histories
+from rutas import episodios
 
 
 def entity_filename(name):
@@ -95,10 +96,7 @@ def render_views():
               '- Especie de una ilustración o token no prueba identidad ni resurrección. Las monturas numeradas de Poncelot son distintas.',
               '- Consultar los nombres dudosos de cada capítulo para variantes que aún no se pueden agrupar.', '']
     write(KB / 'NOMBRES.md', '\n'.join(lines))
-    episodes = read_json(ROOT / 'xoltacan_subtitulos/episodios.json')
-    extra = ROOT / 'config/episodios_nuevos.json'
-    if extra.exists():
-        episodes += read_json(extra)
+    episodes = episodios()
     reviewed = []
     pending = []
     rows = []

@@ -3,12 +3,12 @@ import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
 import {resolve} from 'node:path';
 import {createHash} from 'node:crypto';
+import {leerArchivo} from './datos_publicos.mjs';
 
 const root=resolve(import.meta.dirname,'..');
 const source=await readFile(resolve(root,'.pruebas/editor-online/worker/index.js'),'utf8');
 const worker=(await import('data:text/javascript;base64,'+Buffer.from(source).toString('base64'))).default;
-const html=await readFile(resolve(root,'arghast.html'),'utf8');
-const world=JSON.parse(html.match(/<script id="xoltacan-data" type="application\/json">(.*?)<\/script>/s)[1]);
+const world=await leerArchivo(root);
 class Bucket {
   objects=new Map();
   async get(key){

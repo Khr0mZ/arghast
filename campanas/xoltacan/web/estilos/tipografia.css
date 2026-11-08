@@ -1,0 +1,18 @@
+/* ARGHAST-BLOQUE:0 */
+body[data-campaign="xoltacan"][data-view="campaign"],.world-campaign-xoltacan { --font-display:'Macondo',Georgia,serif; --font-display-weight:400; }/* ARGHAST-BLOQUE:1 */
+body[data-campaign="xoltacan"][data-view="campaign"] .nav-links a { font-size:17px; }/* ARGHAST-BLOQUE:2 */
+body[data-campaign="xoltacan"][data-view="campaign"] .campaign-lettering { position:relative; display:inline-block; vertical-align:middle; width:var(--lettering-width); height:var(--lettering-height); max-width:100%; flex-shrink:1; min-width:0; line-height:1; -webkit-text-fill-color:transparent; }/* ARGHAST-BLOQUE:3 */
+body[data-campaign="xoltacan"][data-view="campaign"] .campaign-lettering::after { content:''; position:absolute; inset:0; pointer-events:none; background:currentColor; mask:var(--lettering-src) left center / contain no-repeat; }/* ARGHAST-BLOQUE:4 */
+body[data-campaign="xoltacan"][data-view="campaign"] .campaign-picker>a .campaign-lettering { float:none; color:inherit; }/* ARGHAST-BLOQUE:5 */
+body[data-campaign="xoltacan"][data-view="campaign"] :is(.primary-button,.secondary-button) { font-size:14px; }/* ARGHAST-BLOQUE:6 */
+body[data-campaign="xoltacan"][data-view="campaign"] .nav-links a { font-size:16px; line-height:1.5; }/* ARGHAST-BLOQUE:7 */
+body[data-campaign="xoltacan"][data-view="campaign"] .nav-label { font-size:12px; letter-spacing:0; }/* ARGHAST-BLOQUE:8 */
+body[data-campaign="xoltacan"][data-view="campaign"] .campaign-picker #campaign-selector { -webkit-text-fill-color:transparent; background-image:url(assets/xoltacan-titulo.png); background-size:auto 19px; background-position:left center; background-repeat:no-repeat; }/* ARGHAST-BLOQUE:9 */
+body[data-campaign="xoltacan"][data-view="campaign"] .campaign-picker #campaign-selector option { -webkit-text-fill-color:var(--light); }/* ARGHAST-BLOQUE:10 */
+body[data-campaign="xoltacan"][data-view="campaign"] .hero-title,
+.world-campaign-xoltacan .campaign-card-body h2 { position:relative; width:min(100%,6.6em); -webkit-text-fill-color:transparent; }/* ARGHAST-BLOQUE:11 */
+body[data-campaign="xoltacan"][data-view="campaign"] .hero-title::after,
+.world-campaign-xoltacan .campaign-card-body h2::after { content:''; position:absolute; inset:0; background:currentColor; mask:url(assets/xoltacan-titulo.png) left center / contain no-repeat; }/* ARGHAST-BLOQUE:12 */
+  body[data-campaign="xoltacan"][data-view="campaign"] .campaign-lettering { width:auto; height:auto; -webkit-text-fill-color:currentColor; }/* ARGHAST-BLOQUE:13 */
+  body[data-campaign="xoltacan"][data-view="campaign"] .campaign-lettering::after { display:none; }/* ARGHAST-BLOQUE:14 */
+  body[data-campaign="xoltacan"][data-view="campaign"] .campaign-picker #campaign-selector { -webkit-text-fill-color:currentColor; background-image:none; }

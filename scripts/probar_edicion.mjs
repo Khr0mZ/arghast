@@ -3,13 +3,14 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import {spawn} from 'node:child_process';
 import {fileURLToPath} from 'node:url';
+import {cerrarProceso,eliminarTemporal} from './temporales_pruebas.mjs';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const output=path.join(root,'.pruebas','edicion-'+Date.now());
 await fs.mkdir(output,{recursive:true});
 const db=path.join(output,'test.sqlite3');
 const python=process.env.ARGHAST_PYTHON||'python';
 const server=spawn(python,['-u','-c',"import sys; sys.path.insert(0,'scripts'); from servidor_edicion import ArchiveServer, ROOT; s=ArchiveServer(('127.0.0.1',0),ROOT,sys.argv[1],'showmethemoney'); print(s.server_port,flush=True); s.serve_forever()",db],{cwd:root,windowsHide:true,stdio:['ignore','pipe','pipe']});
-let browser,ws;
+let browser,ws,passed=false;
 const sleep=ms=>new Promise(r=>setTimeout(r,ms));
 const checks=[];
 try {
@@ -137,7 +138,13 @@ try {
   const originalContext=await evaluate('JSON.parse(document.getElementById("xoltacan-data").textContent).campaigns.kuroto.documents.atlas.text');
   await set(['text'],originalContext+'\n\nNota de contexto de la prueba.');await save();
   await check('Editar el contexto conserva su vista y el documento visible','location.hash==="#documento/atlas"&&document.querySelector(".document").innerText.includes("Nota de contexto de la prueba.")&&document.querySelector("#sidebar a.active").hash==="#atlas"');
-  console.log(JSON.stringify({checks,output},null,2));
+  const reportFolder=path.join(root,'.pruebas','edicion');
+  await fs.mkdir(reportFolder,{recursive:true});
+  const report={checks,output:reportFolder};
+  await fs.writeFile(path.join(reportFolder,'revision.json'),JSON.stringify(report,null,2));
+  console.log(JSON.stringify(report,null,2));
+  passed=true;
 } finally {
-  ws?.close();browser?.kill();server.kill();
+  ws?.close();await Promise.all([cerrarProceso(browser),cerrarProceso(server)]);
+  await eliminarTemporal(passed?output:path.join(output,'perfil'));
 }

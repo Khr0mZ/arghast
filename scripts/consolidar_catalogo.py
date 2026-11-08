@@ -4,13 +4,13 @@ from construir import ROOT, read_json, write_json
 
 
 def main():
-    path = ROOT / 'config/entidades.json'
-    backup = ROOT / 'config/historial/entidades_antes_revision.json'
+    path = ROOT / 'campanas/xoltacan/config/entidades.json'
+    backup = ROOT / 'campanas/xoltacan/revision/historial/entidades_antes_revision.json'
     if not backup.exists():
         backup.parent.mkdir(parents=True, exist_ok=True)
         backup.write_bytes(path.read_bytes())
-    people = read_json(ROOT / 'config/revision_personajes.json')
-    others = read_json(ROOT / 'config/revision_otras_entidades.json')
+    people = read_json(ROOT / 'campanas/xoltacan/revision/revision_personajes.json')
+    others = read_json(ROOT / 'campanas/xoltacan/revision/revision_otras_entidades.json')
     groups = people['grupos'] + others['grupos']
     # Son menciones cuya identidad no está resuelta, no personas nuevas acreditadas.
     for group in groups:
@@ -27,7 +27,7 @@ def main():
              nota='Slaz y Ezlat son lecturas o recuerdos del destino del mismo mapa. La grafía del lugar sigue sin fijarse; no son dos mapas por esa variación.'),
     ]
     groups.extend(additions)
-    all_facts = {fact['id']: fact for chapter in sorted((ROOT / 'conocimiento/capitulos').glob('*.json'))
+    all_facts = {fact['id']: fact for chapter in sorted((ROOT / 'campanas/xoltacan/conocimiento/capitulos').glob('*.json'))
                  for fact in read_json(chapter)['afirmaciones']}
     # Entradas singulares conocidas que no requieren agrupar alias.
     singletons = {
@@ -76,7 +76,7 @@ def main():
     if 'Cuerpo de Erendriel exhibido' not in erendriel['etiquetas']:
         erendriel['etiquetas'].append('Cuerpo de Erendriel exhibido')
     erendriel['referencias'] = list(dict.fromkeys([*erendriel['referencias'],'16-004','29-003']))
-    updates_path = ROOT / 'config/actualizaciones_catalogo.json'
+    updates_path = ROOT / 'campanas/xoltacan/config/actualizaciones_catalogo.json'
     if updates_path.exists():
         for updated in read_json(updates_path)['grupos']:
             position = next((i for i,group in enumerate(groups) if group['nombre']==updated['nombre']), None)

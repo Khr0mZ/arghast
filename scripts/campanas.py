@@ -4,8 +4,9 @@ from collections import defaultdict
 from pathlib import Path
 
 from construir import ROOT, read_json, parse_vtt, validate_fact, seconds
+from rutas import KUROTO as KUROTO_PATHS
 
-KUROTO = ROOT / 'campanas/kuroto'
+KUROTO = KUROTO_PATHS.raiz
 
 
 def mission_text(mission):
@@ -60,7 +61,7 @@ def build_kuroto(folder=KUROTO):
     local_sources = read_json(local_path) if local_path.exists() else {}
     integration_path = folder / 'revision/integracion.json'
     integrated = set(read_json(integration_path)['capitulos_integrados']) if integration_path.exists() else None
-    aliases_path = folder / 'revision/identidades_confirmadas.json'
+    aliases_path = folder / 'config/identidades_confirmadas.json'
     aliases = read_json(aliases_path) if aliases_path.exists() else {}
 
     def canonical(name):
@@ -184,6 +185,7 @@ def build_world(xoltacan):
                    'description': 'Cazadores, yokais y antiguos guardianes. Una isla entre pactos, sombras y la esperanza de convivir.',
                    'setting_source': 'https://lichpol.es/?p=57'}
     }
-    # La raíz conserva el formato de Xoltacan para herramientas y enlaces anteriores.
+    # El formato público conserva los enlaces y las correcciones anteriores.
+    # Ambas campañas se almacenan en campanas/<id>/ mediante rutas.py.
     return {**xoltacan, 'world': 'Arghast', 'campaignMetadata': metadata,
             'campaigns': {'kuroto': build_kuroto()}}

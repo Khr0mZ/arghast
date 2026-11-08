@@ -6,12 +6,13 @@ import tempfile
 import unittest
 
 from fechas_emision import ROOT, SOURCES, CAMPAIGNS, ESTIMATES, PROGRAMMING, load_dates, read, validate_estimate, load_programming
+from rutas import episodios
 
 
 class EmissionDatesTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
-        cls.catalog = read(ROOT / 'xoltacan_subtitulos/episodios.json') + read(ROOT / 'config/episodios_nuevos.json')
+        cls.catalog = episodios()
         cls.document = read(CAMPAIGNS['xoltacan'])
         cls.dates = load_dates('xoltacan', cls.catalog)
 

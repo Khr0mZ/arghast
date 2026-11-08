@@ -4,7 +4,7 @@ from pathlib import Path
 from copy import deepcopy
 
 ROOT = Path(__file__).resolve().parents[1]
-FOLDER = ROOT / 'derivados/revision_estilo_01_19'
+FOLDER = ROOT / 'campanas/xoltacan/derivados/revision_estilo_01_19'
 FOLDER.mkdir(parents=True, exist_ok=True)
 EDITABLE = {'resumen', 'titulo', 'afirmacion', 'ambito', 'limitacion', 'nota_conocimiento',
             'misiones', 'preguntas', 'contradicciones', 'nombres_dudosos'}

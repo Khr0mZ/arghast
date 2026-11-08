@@ -1,0 +1,59 @@
+{
+  "provider": "Google Fonts y Gary D. Jessey (DaFont)",
+  "css_source": "https://fonts.googleapis.com/css2?family=Cinzel:wght@600&family=Kaisei+Tokumin:wght@700&family=Macondo&display=swap",
+  "files": [
+    {
+      "family": "Kaisei Tokumin",
+      "weight": "700",
+      "subset": "latin-ext",
+      "file": "campanas/kuroto/web/assets/fonts/kaiseitokumin-700-latin-ext.woff2",
+      "source": "https://fonts.gstatic.com/s/kaiseitokumin/v12/Gg8vN5wdZg7xCwuMsylww2ZiQnrj-UkorsMDeA.woff2",
+      "sha256": "1c1004104196d33a27ec105ec76c5c0de3282c5a1765795209da4b52f5ea99b7",
+      "bytes": 4620
+    },
+    {
+      "family": "Kaisei Tokumin",
+      "weight": "700",
+      "subset": "latin",
+      "file": "campanas/kuroto/web/assets/fonts/kaiseitokumin-700-latin.woff2",
+      "source": "https://fonts.gstatic.com/s/kaiseitokumin/v12/Gg8vN5wdZg7xCwuMsylww2ZiQnrj-UkmrsM.woff2",
+      "sha256": "6429c6dbae61f3ed4535214375f14c94cb53c86116056830dfac15902d8ef9ec",
+      "bytes": 36324
+    },
+    {
+      "family": "Karate",
+      "weight": "400",
+      "file": "campanas/kuroto/web/assets/fonts/karate.ttf",
+      "source": "https://dl.dafont.com/dl/?f=karate",
+      "sha256": "6f409faab88a9ead73fcb6a4d557719abd5944412b10f30970e056ec2ea373cd",
+      "bytes": 20664,
+      "license": "Freeware; karate-README.txt",
+      "usage": "Interfaz de Kuroto: sidebar, topbar, controles y encabezados; Kaisei Tokumin aporta caracteres ausentes"
+    }
+  ],
+  "families": [
+    {
+      "name": "Kaisei Tokumin",
+      "license_source": "https://raw.githubusercontent.com/google/fonts/main/ofl/kaiseitokumin/OFL.txt",
+      "specimen": "https://fonts.google.com/specimen/Kaisei+Tokumin"
+    },
+    {
+      "name": "Karate",
+      "author": "Gary D. Jessey",
+      "license": "Freeware",
+      "specimen": "https://www.dafont.com/karate.font"
+    }
+  ],
+  "rendered_wordmarks": [
+    {
+      "family": "Ambystoma Mexicanum",
+      "author": "Chequered Ink",
+      "file": "campanas/xoltacan/web/assets/xoltacan-titulo.png",
+      "source": "https://www.dafont.com/ambystoma-mexicanum.font",
+      "license": "Personal, Non-Commercial; graphic only, font not redistributed",
+      "license_source": "https://chequered.ink/font-license/",
+      "sha256": "e522c6a1dffec99d9554ba2269a71d050b74b8b3e2e03559b946ada6b46c25c3"
+    }
+  ],
+  "rendered_interface_labels": "campanas/xoltacan/web/assets/rotulos-xoltacan.procedencia.json"
+}

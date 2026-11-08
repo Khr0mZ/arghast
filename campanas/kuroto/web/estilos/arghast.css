@@ -1,0 +1,16 @@
+/* ARGHAST-BLOQUE:0 */
+.world-campaign-kuroto .campaign-landscape { background-image: linear-gradient(0deg,#241c2f55,transparent 70%),url('assets/kuroto-bosque.webp'); background-position:70% center; }/* ARGHAST-BLOQUE:1 */
+.world-campaign-kuroto .campaign-card-body h2 { color: #743c39; }/* ARGHAST-BLOQUE:2 */
+.world-campaign-kuroto .campaign-enter { color: #834b42; }/* ARGHAST-BLOQUE:3 */
+.kuroto-seal { position: absolute; right: 50px; top: 44px; border: 3px double #d5a382; border-radius: 50% 50% 5px 5px; padding: 32px 27px; font: 35px/1.4 Georgia,serif; letter-spacing: 4px; color: #e0c7a2; background: #612e3877; transform: rotate(4deg); }/* ARGHAST-BLOQUE:4 */
+body[data-campaign="kuroto"][data-view="campaign"] { --content-landscape:linear-gradient(90deg,#211b2aa6,#211b2a80 60%,#211b2a99),url('assets/kuroto-background.webp'); }/* ARGHAST-BLOQUE:5 */
+
+/* Kuroto conserva el trazo de sus marcos; los colores viven en paletas.css. */
+body[data-campaign="kuroto"][data-view="campaign"] :is(.primary-button,.secondary-button,.chapter-nav a,.section-head > a) { border-radius:2px 8px 2px 8px; }/* ARGHAST-BLOQUE:6 */
+body[data-campaign="kuroto"][data-view="campaign"] .card-crest { border-radius:4px 15px 4px 15px; }/* ARGHAST-BLOQUE:7 */
+body[data-campaign="kuroto"] .kuroto-hero { background-image: linear-gradient(90deg,#211d2ef0 0%,#211d2ec9 27%,#211d2e26 65%,#211d2e22),url('assets/kuroto-bosque.webp'); background-size:cover; background-position:center; }/* ARGHAST-BLOQUE:8 */
+.kuroto-hero::after { background: linear-gradient(90deg,#241e2e44,transparent); }/* ARGHAST-BLOQUE:9 */
+.kuroto-hero>div:first-child { position:relative; z-index:2; }/* ARGHAST-BLOQUE:10 */.kuroto-seal { right: 28px; opacity: .55; }/* ARGHAST-BLOQUE:11 */.kuroto-seal { right: 22px; top: 55px; padding: 27px 18px; font-size: 25px; opacity: .3; }/* ARGHAST-BLOQUE:12 */.kuroto-hero .hero-title { position: relative; z-index: 1; }/* ARGHAST-BLOQUE:13 */.kuroto-hero .hero-copy { position: relative; z-index: 1; }/* ARGHAST-BLOQUE:14 */
+.world-campaign-kuroto .campaign-landscape { background-image:url('assets/kuroto-portada.webp'); background-position:center; }/* ARGHAST-BLOQUE:15 */
+body[data-campaign="kuroto"] .kuroto-hero { background-image:none; background-color:#27212e; }/* ARGHAST-BLOQUE:16 */
+body[data-campaign="kuroto"] .hero-art { background-image:url('assets/kuroto-portada.webp'); background-color:#27212e; }

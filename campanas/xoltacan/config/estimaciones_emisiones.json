@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "zona_horaria": "Europe/Madrid",
+  "criterio": "Estimaciones a partir de anuncios, orden de capítulos y calendarios leídos completos. La programación se conserva por separado; no confirma realización ni modifica las fechas acreditadas por los avisos.",
+  "supuesto_general": "El catálogo conserva el orden de las sesiones originales; no intercala grabaciones fuera de secuencia.",
+  "campanas": {
+    "xoltacan": {
+      "21": {
+        "desde": "2026-04-01",
+        "hasta": "2026-04-02",
+        "fecha_probable": "2026-04-01",
+        "confianza": "media",
+        "fundamento": "El calendario programa el 21 para el 1 de abril y el 22 para el 2. Los dos avisos de directo conservan el número 21: se favorece el primer día, sin descartar continuación o cambio del programa.",
+        "fuentes": [
+          "1486810041481957547",
+          "1488971383768744069",
+          "1489323212452925664",
+          "1491864574310223892"
+        ],
+        "sirve_como_corte_exacto": false,
+        "fuentes_programacion": [
+          "1488132418945945750"
+        ]
+      },
+      "22": {
+        "desde": "2026-03-26",
+        "hasta": "2026-04-09",
+        "fecha_probable": "2026-04-02",
+        "confianza": "baja",
+        "fundamento": "Programado para el 2 de abril. El aviso de ese día repite el número y título del 21; la correspondencia con el 22 sigue siendo una inferencia.",
+        "fuentes": [
+          "1486810041481957547",
+          "1488971383768744069",
+          "1489323212452925664",
+          "1491864574310223892"
+        ],
+        "sirve_como_corte_exacto": false,
+        "fuentes_programacion": [
+          "1488132418945945750"
+        ]
+      },
+      "38": {
+        "desde": "2026-06-05",
+        "hasta": "2026-06-19",
+        "fecha_probable": "2026-06-15",
+        "confianza": "media",
+        "fundamento": "Programado para el 15 de junio. El aviso de directo de ese día conserva Dragonlance y el título del día 12: podría estar desactualizado, pero no acredita por sí solo Xoltacan 38.",
+        "fuentes": [
+          "1512525575573475348",
+          "1517589464363434048"
+        ],
+        "sirve_como_corte_exacto": false,
+        "fuentes_programacion": [
+          "1515976737605816332"
+        ]
+      },
+      "40": {
+        "desde": "2026-06-19",
+        "hasta": "2026-07-03",
+        "fecha_probable": "2026-07-02",
+        "confianza": "media",
+        "fundamento": "Programado para el 2 de julio. El aviso de ese día repite Campaña IV 21 del 30 de junio: podría estar desactualizado. El aviso del 18 de junio y el calendario siguiente descartan partidas previstas de Xoltacan del 22 al 28 de junio.",
+        "fuentes": [
+          "1517589464363434048",
+          "1522672340213694706"
+        ],
+        "sirve_como_corte_exacto": false,
+        "fuentes_programacion": [
+          "1521166880503758919"
+        ]
+      }
+    }
+  }
+}

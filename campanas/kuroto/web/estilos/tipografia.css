@@ -1,0 +1,10 @@
+/* ARGHAST-BLOQUE:0 */
+body[data-campaign="kuroto"][data-view="campaign"],.world-campaign-kuroto { --font-display:'Kaisei Tokumin',Georgia,serif; --font-display-weight:700; }/* ARGHAST-BLOQUE:1 */
+/* Cover lettering extends to navigation and controls; prose keeps reading fonts. */
+body[data-campaign="kuroto"][data-view="campaign"] { --font-ui:'Karate','Kaisei Tokumin',Georgia,serif; }/* ARGHAST-BLOQUE:2 */
+body[data-campaign="kuroto"][data-view="campaign"] :is(.nav-links a,.nav-label,.campaign-picker label,.campaign-picker>a,#campaign-selector,#campaign-context,#page-title,.primary-button,.secondary-button,.expedition-link strong,.detail-tabs a,.detail-tabs button,.section-head h1,.section-head h2,.section-head>a,.footer a,.story-heading h2,.context-details>summary,.chapter-nav a) { font-family:var(--font-ui); font-weight:400; letter-spacing:.015em; font-synthesis:none; }/* ARGHAST-BLOQUE:3 */
+body[data-campaign="kuroto"][data-view="campaign"] .nav-links a { font-size:17px; line-height:1.5; }/* ARGHAST-BLOQUE:4 */
+body[data-campaign="kuroto"][data-view="campaign"] :is(.primary-button,.secondary-button) { font-size:14px; }/* ARGHAST-BLOQUE:5 */
+body[data-campaign="kuroto"][data-view="campaign"] .nav-label { font-size:12px; letter-spacing:.08em; }/* ARGHAST-BLOQUE:6 */
+body[data-campaign="kuroto"][data-view="campaign"] .hero-title,
+body[data-view] .world-campaign-kuroto .campaign-card-body h2 { font-family:'Karate','Kaisei Tokumin',serif; font-weight:400; }

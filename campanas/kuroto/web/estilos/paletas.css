@@ -1,0 +1,37 @@
+/* ARGHAST-BLOQUE:0 */
+body[data-campaign="kuroto"][data-view="campaign"], .world-campaign-kuroto {
+  --palette-01:#FDF0CF;
+  --palette-02:#F5CFB7;
+  --palette-03:#E3E4C9;
+  --palette-04:#A2AB9B;
+  --palette-05:#A5CDBE;
+  --palette-06:#7EB8AF;
+  --palette-07:#4FA2A0;
+  --palette-08:#207E81;
+  --palette-09:#EEB5A1;
+  --palette-10:#EC8D85;
+  --palette-11:#D56564;
+  --palette-12:#EE1F25;
+  --palette-13:#0E3F45;
+  --palette-14:#8A6E5B;
+  --palette-15:#5C4B3B;
+  --palette-16:#312016;
+  --night:#0E3F45; --deep:#0E3F45; --middle:#0E3F45; --raised:#207E81;
+  --accent:#EC8D85; --accent-soft:#F5CFB7; --accent-deep:#5C4B3B;
+  --focus:#EC8D85; --label:#A5CDBE; --signal:#EE1F25;
+  --edge:#4FA2A0; --edge-soft:#4FA2A077; --light:#FDF0CF; --quiet:#E3E4C9;
+  --ink:#312016; --muted:#5C4B3B; --link:#0E3F45; --copper:#5C4B3B;
+  --forest:#0E3F45; --forest-light:#207E81; --gold:#FDF0CF; --paper:#0E3F45;
+  --surface:#F5CFB7; --line:#8A6E5B; --chip:#A5CDBE; --chip-hover:#7EB8AF; --wash:#E3E4C9;
+  --button:linear-gradient(135deg,#EC8D85,#EEB5A1);
+  --button-hover:linear-gradient(135deg,#EEB5A1,#EC8D85);
+  --parchment:radial-gradient(ellipse at 0 0,#FDF0CF66,transparent 60%),repeating-linear-gradient(0deg,#8A6E5B10 0 1px,transparent 1px 4px),linear-gradient(115deg,#F5CFB7,#FDF0CF 50%,#E3E4C9);
+  --panel-art:url('assets/kuroto-panel-paleta.webp'); --panel-shade:#0E3F45B3;
+}/* ARGHAST-BLOQUE:1 */
+body[data-campaign="kuroto"][data-view="campaign"] :is(.primary-button,.hero .primary-button) { color:#312016; border-color:#EC8D85; box-shadow:inset 0 0 0 3px #FDF0CF25,0 4px 0 #5C4B3B,0 6px 12px #0005; }/* ARGHAST-BLOQUE:2 */
+body[data-campaign="kuroto"][data-view="campaign"] :is(.primary-button,.secondary-button,.chapter-nav a,.section-head > a):hover { color:#312016; }/* ARGHAST-BLOQUE:3 */
+body[data-campaign="kuroto"][data-view="campaign"] #sidebar { background-image:linear-gradient(180deg,#0E3F45B3,#0E3F458C 65%,#3120164D),url('assets/kuroto-drawer.webp'); }/* ARGHAST-BLOQUE:4 */
+body[data-campaign="kuroto"][data-view="campaign"] { --content-landscape:linear-gradient(90deg,#0E3F4580,#207E8155 60%,#0E3F4580),url('assets/kuroto-background.webp'); }/* ARGHAST-BLOQUE:5 */
+:root:has(body[data-campaign="kuroto"][data-view="campaign"]) { --scroll-thumb:#4FA2A0; --scroll-track:#0E3F45; }/* ARGHAST-BLOQUE:6 */
+body[data-campaign="kuroto"][data-view="campaign"] .detail-tabs .active { color:#312016; }/* ARGHAST-BLOQUE:7 */
+body[data-campaign="kuroto"][data-view="campaign"] .topbar { background-image:linear-gradient(90deg,#0E3F4599,#0E3F4525 55%,#0E3F4566),url('assets/kuroto-topbar.webp'); }

@@ -48,24 +48,34 @@ LABELS = [
     'Antes del capítulo', 'Después del capítulo',
     'Saltar a', 'Índice de la historia', 'Buscar en la historia',
     'Notas sobre las fuentes de este capítulo',
+    'Cargando Xoltacan…',
 ]
 
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--fuente', type=Path, required=True)
+    parser.add_argument('--solo-nuevos', action='store_true', help='Conserva los gráficos existentes y añade los rótulos que falten.')
     args = parser.parse_args()
     font = ImageFont.truetype(str(args.fuente), 96)
-    target = ROOT / 'web/assets/rotulos-xoltacan'
+    target = ROOT / 'campanas/xoltacan/web/assets/rotulos-xoltacan'
     target.mkdir(parents=True, exist_ok=True)
+    provenance_path = ROOT / 'campanas/xoltacan/web/assets/rotulos-xoltacan.procedencia.json'
+    if args.solo_nuevos:
+        previous = json.loads(provenance_path.read_text(encoding='utf-8'))
+        if previous['font_sha256'] != hashlib.sha256(args.fuente.read_bytes()).hexdigest():
+            raise ValueError('Los nuevos rótulos deben usar la misma fuente que los existentes.')
     title_font = ImageFont.truetype(str(args.fuente), 240)
     title_box = title_font.getbbox('Xoltacan')
     title_image = Image.new('RGBA', (title_box[2]-title_box[0]+16, title_box[3]-title_box[1]+16))
     ImageDraw.Draw(title_image).text((8-title_box[0],8-title_box[1]), 'Xoltacan', font=title_font, fill='#F7EAC8')
-    title_image.save(ROOT/'web/assets/xoltacan-titulo.png', optimize=True)
-    entries = {}
-    styles = ['/* Rótulos de Ambystoma Mexicanum; no contiene software de fuente. */']
+    if not args.solo_nuevos:
+        title_image.save(ROOT/'campanas/xoltacan/web/assets/xoltacan-titulo.png', optimize=True)
+    entries = json.loads((target/'indice.json').read_text(encoding='utf-8')) if args.solo_nuevos else {}
+    styles = [(ROOT/'campanas/xoltacan/web/rotulos.css').read_text(encoding='utf-8').rstrip()] if args.solo_nuevos else ['/* Rótulos de Ambystoma Mexicanum; no contiene software de fuente. */']
     for label in LABELS + ['Misterios y desenlaces|sidebar']:
+        if args.solo_nuevos and label in entries and (target/(entries[label]+'.png')).is_file():
+            continue
         lines = ['Misterios y', 'desenlaces'] if label.endswith('|sidebar') else [label]
         boxes = [font.getbbox(line) for line in lines]
         width = max(box[2]-box[0] for box in boxes) + 8
@@ -78,20 +88,20 @@ def main():
         image.save(target / (key+'.png'), optimize=True)
         entries[label] = key
         styles.append(f'[data-lettering="{key}"] {{ --lettering-src:url(assets/rotulos-xoltacan/{key}.png); --lettering-width:{width/96:.5f}em; --lettering-height:{height/96:.5f}em; }}')
-    (ROOT/'web/rotulos.css').write_text('\n'.join(styles)+'\n',encoding='utf-8')
+    (ROOT/'campanas/xoltacan/web/rotulos.css').write_text('\n'.join(styles)+'\n',encoding='utf-8')
     (target/'indice.json').write_text(json.dumps(entries,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     provenance = {
         'family': 'Ambystoma Mexicanum', 'author': 'Chequered Ink',
         'source': 'https://www.dafont.com/ambystoma-mexicanum.font',
         'license': 'Personal, Non-Commercial; only rendered graphics, no font software redistributed',
-        'license_file': 'web/assets/xoltacan-titulo.licencia.html',
+        'license_file': 'campanas/xoltacan/web/assets/xoltacan-titulo.licencia.html',
         'font_sha256': hashlib.sha256(args.fuente.read_bytes()).hexdigest(),
         'generator': 'scripts/generar_rotulos.py',
-        'files': [{'label': label, 'file': f'web/assets/rotulos-xoltacan/{key}.png',
+        'files': [{'label': label, 'file': f'campanas/xoltacan/web/assets/rotulos-xoltacan/{key}.png',
                    'sha256': hashlib.sha256((target/(key+'.png')).read_bytes()).hexdigest()}
                   for label, key in entries.items()],
     }
-    (ROOT/'web/assets/rotulos-xoltacan.procedencia.json').write_text(json.dumps(provenance,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+    (ROOT/'campanas/xoltacan/web/assets/rotulos-xoltacan.procedencia.json').write_text(json.dumps(provenance,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     print(f'{len(entries)} rótulos de interfaz preparados.')
 
 

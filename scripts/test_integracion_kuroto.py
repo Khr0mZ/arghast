@@ -37,7 +37,7 @@ class IntegrationTests(unittest.TestCase):
                 write_json(folder / 'revision/lote_002_002.json', {'revisados': [2], 'entidades': [entity], 'preguntas': []})
         write_json(folder / 'catalogo.json', {'episodios': episodes})
         write_json(folder / 'fuentes/originales_sha256.json', inventory)
-        write_json(folder / 'revision/identidades_confirmadas.json', {'Sir': 'Sirth'})
+        write_json(folder / 'config/identidades_confirmadas.json', {'Sir': 'Sirth'})
 
     def test_confirmed_alias_preserves_both_authored_stories(self):
         with tempfile.TemporaryDirectory() as directory:

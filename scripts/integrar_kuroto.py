@@ -21,7 +21,7 @@ def assemble(folder=KUROTO):
     entities = {}
     questions = {question['id']: copy.deepcopy(question) for question in base['preguntas']}
     reviewed = set(base['revisados'])
-    alias_path = revision / 'identidades_confirmadas.json'
+    alias_path = folder / 'config/identidades_confirmadas.json'
     aliases = read_json(alias_path) if alias_path.exists() else {}
 
     def canonical(name):

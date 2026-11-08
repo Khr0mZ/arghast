@@ -1,0 +1,278 @@
+{
+  "version": 1,
+  "zona_horaria": "Europe/Madrid",
+  "interpretacion_zona": "Zona asumida por el contexto del canal; no figura impresa en los calendarios.",
+  "criterio": "Programación prevista leída visualmente. No acredita por sí sola emisión realizada ni hora real de inicio.",
+  "archivo_original": {
+    "manifest_sha256": "bc225c053e3c7cb3e696b713672f51e1fa8e004813dafdfcaf363b82fc629baa",
+    "mensajes": 193,
+    "adjuntos_revisados": 43,
+    "completitud_imagenes": "43 de los 149 adjuntos, seleccionados por las ventanas de los 21 casos pendientes."
+  },
+  "fuentes": {
+    "1483001952114704456": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1483001952114704456",
+      "aviso_utc": "2026-03-16T07:20:18.228000+00:00",
+      "editado_utc": "2026-03-23T08:38:55.977000+00:00",
+      "mensaje_sha256": "ad4f0132a294bd62d5a640c692092972bd1b01bc892498f206bcbb8ffb9c1358",
+      "adjunto": {
+        "id": "1483001951649009664",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/159_1483001952114704456_1483001951649009664.png",
+        "sha256": "0af06aed382ec6fcee082594e0b7c5bd9b55beb12762fa61ba1f5d4d6052371e"
+      },
+      "sesiones": [
+        {
+          "campana": "xoltacan",
+          "capitulo": 17,
+          "fecha": "2026-03-18",
+          "hora": "20:00"
+        },
+        {
+          "campana": "xoltacan",
+          "capitulo": 18,
+          "fecha": "2026-03-19",
+          "hora": "20:00"
+        }
+      ]
+    },
+    "1485558352745599057": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1485558352745599057",
+      "aviso_utc": "2026-03-23T08:38:31.634000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "f644484000ef013d8f362e71e1b68f8e788283475ea9a545174f9bb2b7c8f3c6",
+      "adjunto": {
+        "id": "1485558352313454712",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/160_1485558352745599057_1485558352313454712.png",
+        "sha256": "048e433ae75b6e992276d7e991fd1424f37df44c4453796a080c5db033dcb6a8"
+      },
+      "sesiones": [
+        {
+          "campana": "xoltacan",
+          "capitulo": 19,
+          "fecha": "2026-03-25",
+          "hora": "20:00"
+        },
+        {
+          "campana": "xoltacan",
+          "capitulo": 20,
+          "fecha": "2026-03-26",
+          "hora": "20:00"
+        }
+      ]
+    },
+    "1488132418945945750": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1488132418945945750",
+      "aviso_utc": "2026-03-30T11:06:56.840000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "39175160c2e5310d9bec956ee7857bea4de51f5f6d3f2149dbf0d18f183338f2",
+      "adjunto": {
+        "id": "1488132418551550092",
+        "nombre": "Calendario_Semanal-1.png",
+        "archivo": "adjuntos/161_1488132418945945750_1488132418551550092.png",
+        "sha256": "a1be1356d1b483866dba46b03c127dfd4b4dd3131224e50762884e480d4580b9"
+      },
+      "sesiones": [
+        {
+          "campana": "xoltacan",
+          "capitulo": 21,
+          "fecha": "2026-04-01",
+          "hora": "20:00"
+        },
+        {
+          "campana": "xoltacan",
+          "capitulo": 22,
+          "fecha": "2026-04-02",
+          "hora": "20:00"
+        }
+      ]
+    },
+    "1490638432735596594": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1490638432735596594",
+      "aviso_utc": "2026-04-06T09:04:57.087000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "1afcf18d0596ab2ab5c7c60a1f015dcb886ae4591fa607376050a1a9544f84af",
+      "adjunto": {
+        "id": "1490638432442122370",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/162_1490638432735596594_1490638432442122370.png",
+        "sha256": "1b877838c483ca3f0209ee6075ca1c62673ad5d66fa7eb969b85db5805dcb290"
+      },
+      "sesiones": [
+        {
+          "campana": "xoltacan",
+          "capitulo": 23,
+          "fecha": "2026-04-09",
+          "hora": "20:00"
+        }
+      ]
+    },
+    "1493275295677943821": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1493275295677943821",
+      "aviso_utc": "2026-04-13T15:42:54.203000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "fb1382fa7587c8b013d39a46340a64d95a6588a267897e1ff016e3a6e4658a51",
+      "adjunto": {
+        "id": "1493275295438999583",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/163_1493275295677943821_1493275295438999583.png",
+        "sha256": "35bfb1f3fc7d84a70813c3dae553b17692773083362eb5d029e69d09de604d17"
+      },
+      "sesiones": [
+        {
+          "campana": "xoltacan",
+          "capitulo": 24,
+          "fecha": "2026-04-16",
+          "hora": "20:00"
+        },
+        {
+          "campana": "xoltacan",
+          "capitulo": 25,
+          "fecha": "2026-04-17",
+          "hora": "20:00"
+        }
+      ]
+    },
+    "1510974245105172622": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1510974245105172622",
+      "aviso_utc": "2026-06-01T11:52:12.577000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "2ee3f6b660cfb590f8c34049d546a6443a90953aff2408962a5b390d45983224",
+      "adjunto": {
+        "id": "1510974244740137102",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/170_1510974245105172622_1510974244740137102.png",
+        "sha256": "21283d8be3342c6336d0a56da9cb07013ee2a1690e0ab6c9c37873cdc3d0ee4f"
+      },
+      "sesiones": [
+        {
+          "campana": "xoltacan",
+          "capitulo": 36,
+          "fecha": "2026-06-02",
+          "hora": "20:00"
+        },
+        {
+          "campana": "xoltacan",
+          "capitulo": 37,
+          "fecha": "2026-06-05",
+          "hora": "20:00"
+        }
+      ]
+    },
+    "1515976737605816332": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1515976737605816332",
+      "aviso_utc": "2026-06-15T07:10:19.731000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "80b7ba29f333685459aecb0823e7aca62d94ce1f090f1e275abaaad8a11d42df",
+      "adjunto": {
+        "id": "1515976737341702215",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/172_1515976737605816332_1515976737341702215.png",
+        "sha256": "541dbf16c78d6f96b369aaa3ecc5a53cc15682d6a5a1378b6058286155486b65"
+      },
+      "sesiones": [
+        {
+          "campana": "xoltacan",
+          "capitulo": 38,
+          "fecha": "2026-06-15",
+          "hora": "20:00"
+        },
+        {
+          "campana": "xoltacan",
+          "capitulo": 39,
+          "fecha": "2026-06-19",
+          "hora": "20:00"
+        }
+      ]
+    },
+    "1521166880503758919": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1521166880503758919",
+      "aviso_utc": "2026-06-29T14:54:06.226000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "6e2a1434dbcfda52cf25b9e65c55567007b72de35ad8a16742f0d6c3b4088293",
+      "adjunto": {
+        "id": "1521166880092590110",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/175_1521166880503758919_1521166880092590110.png",
+        "sha256": "8b5c9cd30a81de709a4b82d81aa34033ffd3522b2a7458301b1f8a34df1fe6ce"
+      },
+      "sesiones": [
+        {
+          "campana": "xoltacan",
+          "capitulo": 40,
+          "fecha": "2026-07-02",
+          "hora": "20:00"
+        },
+        {
+          "campana": "xoltacan",
+          "capitulo": 41,
+          "fecha": "2026-07-03",
+          "hora": "20:00"
+        }
+      ]
+    },
+    "1523607783088324668": {
+      "tipo": "programacion_twitch",
+      "canal_id": "946724149383024690",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1523607783088324668",
+      "aviso_utc": "2026-07-06T08:33:22.752000+00:00",
+      "editado_utc": null,
+      "mensaje_sha256": "8f8f5cb9600ab1cedc7ca83b3d0469ac055b30f78868b1ff242711e3c360c0c5",
+      "adjunto": {
+        "id": "1523607782765625466",
+        "nombre": "Calendario_Semanal.png",
+        "archivo": "adjuntos/176_1523607783088324668_1523607782765625466.png",
+        "sha256": "f047b338764a811c71e518296229637ccfea0b58695501b9f9a23b165547ff97"
+      },
+      "sesiones": [
+        {
+          "campana": "xoltacan",
+          "capitulo": 42,
+          "fecha": "2026-07-09",
+          "hora": "20:00"
+        },
+        {
+          "campana": "xoltacan",
+          "capitulo": 43,
+          "fecha": "2026-07-10",
+          "hora": "20:00"
+        }
+      ]
+    }
+  },
+  "avisos": {
+    "1517104663785111613": {
+      "tipo": "cancelacion_programacion",
+      "url_discord": "https://discord.com/channels/946724148628041748/946724149383024690/1517104663785111613",
+      "aviso_utc": "2026-06-18T09:52:18.288000+00:00",
+      "editado_utc": "2026-06-18T15:12:09.286000+00:00",
+      "mensaje_sha256": "7406a6a7ca0de23f576f9990a28a77e3247dfa40792e5a8593741fe8baa5cba3",
+      "desde": "2026-06-22",
+      "hasta": "2026-06-28",
+      "campanas": [
+        "xoltacan"
+      ],
+      "lectura": "El autor anuncia que no habrá partidas de Xoltacan ni Rebeldes del 22 al 28 de junio; mantiene Campaña el lunes 22. Una eventual partida de fin de semana requeriría otro aviso."
+    }
+  },
+  "advertencias": {
+    "xoltacan": {}
+  }
+}

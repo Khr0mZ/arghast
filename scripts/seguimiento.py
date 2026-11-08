@@ -17,7 +17,7 @@ def build_tracking(chapters=None, review_files=None):
     expected = {f'P{c["capitulo"]:02d}-{i:03d}': (c['capitulo'], i, question)
                 for c in chapters for i, question in enumerate(c.get('preguntas', []), 1)}
     if review_files is None:
-        review_files = sorted((ROOT / 'config').glob('seguimiento_preguntas_*.json'))
+        review_files = sorted((ROOT / 'campanas/xoltacan/config').glob('seguimiento_preguntas_*.json'))
     reviews = {}
     for path in review_files:
         review = read_json(path)

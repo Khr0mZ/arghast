@@ -3,13 +3,13 @@ import argparse
 import json
 from pathlib import Path
 import re
+from datos_publicos import load_public_world
 
 ROOT = Path(__file__).resolve().parents[1]
 
 
 def prepare(destination):
-    world = json.loads(re.search(r'<script id="xoltacan-data" type="application/json">(.*?)</script>',
-                               (ROOT / 'arghast.html').read_text(encoding='utf-8'), re.S)[1])
+    world = load_public_world(ROOT)
     sources = {campaign: [str(c['capitulo']) for c in data['chapters']]
                for campaign, data in [('xoltacan', world), ('kuroto', world['campaigns']['kuroto'])]}
     source = 'const sources=' + json.dumps(sources) + ';\n'

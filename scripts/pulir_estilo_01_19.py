@@ -3,7 +3,7 @@ from pathlib import Path
 import json
 from copy import deepcopy
 ROOT = Path(__file__).resolve().parents[1]
-FOLDER = ROOT / 'derivados/revision_estilo_01_19'
+FOLDER = ROOT / 'campanas/xoltacan/derivados/revision_estilo_01_19'
 def read(path):
     return json.loads(path.read_text(encoding='utf-8'))
 def write(path, value):
@@ -11,10 +11,10 @@ def write(path, value):
 def main():
     rules = read(FOLDER / 'segundo_pase.json')
     for chapter, pairs in rules.items():
-        path = ROOT / 'conocimiento/capitulos' / f'{chapter}.json'
+        path = ROOT / 'campanas/xoltacan/conocimiento/capitulos' / f'{chapter}.json'
         data = read(path)
         old = deepcopy(data)
-        draft_path = ROOT / 'borradores' / f'{chapter}.json'
+        draft_path = ROOT / 'campanas/xoltacan/revision/borradores' / f'{chapter}.json'
         draft = read(draft_path) if draft_path.exists() else None
         for fact in data['afirmaciones']:
             before = fact['afirmacion']

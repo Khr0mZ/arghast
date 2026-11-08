@@ -95,12 +95,12 @@ class RoleIntegrityTests(unittest.TestCase):
     def test_duration_is_checked_against_original_metadata(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
-            (root / 'config').mkdir()
+            (root / 'campanas/xoltacan/config').mkdir(parents=True)
             metadata = root / 'metadata.utf16.json'
             metadata.write_bytes(json.dumps({'entries': [{'id': 'video', 'duration': 120}]}).encode('utf-16'))
             document = dict(fuentes={'source': dict(archivo=metadata.name, sha256=digest(metadata))},
                             campanas={'xoltacan': {'1': dict(video_id='video', segundos=120, fuente='source')}})
-            (root / 'config/duraciones_rol.json').write_text(json.dumps(document), encoding='utf-8')
+            (root / 'campanas/xoltacan/config/duraciones_rol.json').write_text(json.dumps(document), encoding='utf-8')
             with patch('rol_escrito.ROOT', root):
                 self.assertEqual(load_video_durations('xoltacan', [dict(capitulo=1, id='video', duracion='00:01:59')]), {1: 120})
                 with self.assertRaisesRegex(ValueError, 'otro vídeo'):

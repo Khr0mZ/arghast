@@ -30,19 +30,14 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Comprobar datos e historias
-        run: python -m unittest discover -s scripts -p 'test_*.py'
-
       - name: Construir la enciclopedia
         run: python scripts/construir_interfaz.py
 
+      - name: Comprobar datos e historias
+        run: python -m unittest discover -s scripts -p 'test_*.py'
+
       - name: Preparar la página de inicio
-        run: |
-          mkdir -p _site
-          cp arghast.html _site/index.html
-          cp xoltacan.html kuroto.html _site/
-          if [ -d transcripciones ]; then cp -R transcripciones _site/; fi
-          if [ -d rol_escrito ]; then cp -R rol_escrito _site/; fi
+        run: python scripts/preparar_publicacion.py
 
       - name: Configurar GitHub Pages
         uses: actions/configure-pages@v5

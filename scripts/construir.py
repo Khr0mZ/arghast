@@ -5,11 +5,11 @@ import html
 import json
 import re
 from pathlib import Path
+from rutas import ROOT, XOLTACAN, episodios
 
-ROOT = Path(__file__).resolve().parents[1]
-SOURCES = ROOT / 'xoltacan_subtitulos'
-BUILD = ROOT / 'derivados'
-KB = ROOT / 'conocimiento'
+SOURCES = XOLTACAN.fuentes
+BUILD = XOLTACAN.derivados
+KB = XOLTACAN.conocimiento
 VERSION = 1
 TIMING = re.compile(r'(\d+:\d{2}:\d{2}\.\d{3})\s+-->\s+(\d+:\d{2}:\d{2}\.\d{3})')
 
@@ -84,11 +84,8 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--reconstruir', action='store_true')
     args = parser.parse_args()
-    names = read_json(ROOT / 'config/nombres.json')
-    episodes = read_json(SOURCES / 'episodios.json')
-    extra = ROOT / 'config/episodios_nuevos.json'
-    if extra.exists():
-        episodes += read_json(extra)
+    names = read_json(ROOT / 'campanas/xoltacan/config/nombres.json')
+    episodes = episodios()
     nums = [e['capitulo'] for e in episodes]
     if len(nums) != len(set(nums)):
         raise ValueError('Capítulos duplicados en el catálogo')
@@ -96,7 +93,7 @@ def main():
         raise ValueError('Un vídeo figura como varios capítulos')
     # Inventario de TODOS los originales, incluidos TXT y variantes no elegidas.
     inventory = {p.relative_to(ROOT).as_posix(): {'sha256': sha(p), 'bytes': p.stat().st_size}
-                 for p in sorted((SOURCES / 'subtitulos').glob('*')) if p.suffix in ('.vtt', '.txt')}
+                 for p in sorted(SOURCES.glob('*')) if p.suffix in ('.vtt', '.txt')}
     baseline = BUILD / 'originales_sha256.json'
     old = read_json(baseline) if baseline.exists() else {}
     changed = [p for p, metadata in old.items() if inventory.get(p) != metadata]
@@ -118,7 +115,7 @@ def main():
     for ep in sorted(episodes, key=lambda e: e['capitulo']):
         n = ep['capitulo']
         stem = f'{n:02d} - {ep["id"]}'
-        files = sorted((SOURCES / 'subtitulos').glob(stem + '*.vtt'))
+        files = sorted(SOURCES.glob(stem + '*.vtt'))
         record = {**ep, 'variantes': [p.relative_to(ROOT).as_posix() for p in files]}
         folder = BUILD / f'{n:02d}'
         meta_file = folder / 'meta.json'

@@ -1,0 +1,796 @@
+{
+  "revisado_hasta": 46,
+  "entidades": {
+    "Anillo familiar de Erendriel": [
+      {
+        "titulo": "La señal de una familia de exploradores",
+        "texto": "Erendriel muestra a Jack un anillo familiar con un círculo, una X y una gema roja al discutir sobre la Marina y el imperio. Vuelve a enseñarlo al preparar las gestiones en Puerto de Espadas, pero Jack no lo reconoce. El objeto conecta al elfo con sus antecedentes y con los asuntos pendientes fuera de la isla, sin demostrar por sí solo un rango que los demás acepten.",
+        "referencias": [
+          "05-010",
+          "12-007"
+        ]
+      },
+      {
+        "titulo": "Un legado en manos de Nox",
+        "texto": "Después de la muerte de Erendriel, Nox dice a Bonnie que lleva el anillo y que podría utilizarlo en Puerto de Espadas. La fuente no muestra el momento exacto en que lo obtiene ni el resultado de ese posible uso. Su última función narrada es la de una credencial o recuerdo que el pirata considera aprovechable, no una prueba de que haya heredado legítimamente la posición del elfo.",
+        "referencias": [
+          "28-019"
+        ]
+      }
+    ],
+    "Brújula de deseos de Nox": [
+      {
+        "titulo": "Buscar refugio sin desear siempre lo mismo",
+        "texto": "Nox presenta una brújula recibida de alguien a quien no identifica con precisión cuando organiza la búsqueda de un escondite para Citlali. Al principio apunta hacia una posible guarida. Durante el viaje cambia de rumbo al terminarse la bebida y más tarde señala Shiaru cuando él desea ron. El comportamiento permite relacionar su dirección con los deseos del portador, pero no la convierte en un mapa de un destino fijo. La expedición no selecciona finalmente el refugio que buscaba.",
+        "referencias": [
+          "33-006",
+          "33-009",
+          "33-017",
+          "33-019"
+        ]
+      }
+    ],
+    "Collar antiguo de oro con gemas": [
+      {
+        "titulo": "El tesoro que vuelve incompleto",
+        "texto": "Los aventureros encuentran el collar entre los restos de los piratas enviados por Bonnie. Ione extrae y reparte sus gemas pese a las advertencias sobre devolver lo que la pirata reclama. Al regresar entrega solo la pieza de oro y Bonnie detecta la ausencia de las piedras. El hallazgo transforma un botín de expedición en un conflicto duradero de deudas y restitución; no se demuestra que el collar sea el mismo que los amuletos serpentinos de expediciones posteriores.",
+        "referencias": [
+          "04-020",
+          "04-021",
+          "04-029",
+          "05-005"
+        ]
+      }
+    ],
+    "Collar de Blink": [
+      {
+        "titulo": "Una presencia que cabe dentro de una fruta",
+        "texto": "Blink recoge el collar después de derrotar a un hombre serpiente junto a la charca. Oye siseos y siente una presencia poderosa dentro de su cabeza, por lo que lo guarda en una fruta para evitar tocarlo. Cuando pasa sobre el estanque de sangre de la cueva de los lobos, el objeto brilla y ella y Zarial sufren una visión paralizante. En ese momento los demás no ven el collar y la causa no queda identificada por los personajes.",
+        "referencias": [
+          "19-014",
+          "19-016",
+          "21-015"
+        ]
+      },
+      {
+        "titulo": "Lo que buscan los atacantes",
+        "texto": "Un jefe serpentino exige el collar durante el festival de Cuicapalli. Las órdenes recuperadas tras el ataque nocturno a Shiaru vuelven a mencionarlo junto al mapa y Blink reconoce que lo conserva. El grupo lo lleva al templo, donde provoca reacciones y es reconocido por los enemigos. Su posesión une varias incursiones sin que eso aclare todas las intenciones de la presencia que contiene.",
+        "referencias": [
+          "22-013",
+          "22-018",
+          "25-021",
+          "26-018",
+          "26-021"
+        ]
+      },
+      {
+        "titulo": "Abandonarlo no equivale a destruirlo",
+        "texto": "Durante la huida del templo, Blink deja la fruta podrida con el collar en la sala. El objeto se vuelve visible al soltarlo, pero Nox no lo reconoce. Las pequeñas serpientes devoran los cadáveres y forman una criatura enorme mientras los aventureros escapan. No se muestra la destrucción del collar ni un portador posterior; tampoco debe afirmarse sin más que soltarlo causó por sí solo la transformación de los restos.",
+        "referencias": [
+          "28-009",
+          "28-010"
+        ]
+      }
+    ],
+    "Collar de plata de Leo": [
+      {
+        "titulo": "Del cuello del niño a la boca del lobo",
+        "texto": "Naór observa el collar de plata cuando el grupo encuentra a Leo escondido después del ataque a su familia. En la cueva pide que se lo entregue y lo introduce en la boca del gran lobo. La carne ennegrecida alrededor de la plata confirma su efecto y el director adjudica una mayor vulnerabilidad a las armas. Sin embargo, es el golpe de Zarial el que mata al enemigo: el collar ayuda a vencerlo, no lo destruye por sí solo. No se documenta un destino posterior claro para la pieza.",
+        "referencias": [
+          "21-007",
+          "21-012",
+          "21-013"
+        ]
+      }
+    ],
+    "Diario de capitán del mercante": [
+      {
+        "titulo": "La desesperación escrita antes de la maldición",
+        "texto": "Blink encuentra un diario dañado en común en el despacho del mercante. Relata la enfermedad de la hija del capitán, el fracaso de la búsqueda de una cura y la sugerencia de acudir a Xoltacan. El padre negocia con una entidad y duda ante el precio, cuyo detalle no se recupera. Las últimas notas enumeran campana, moneda y brújula y dibujan un relicario con una gema negra. El texto convierte un barco de muertos que repiten sus tareas en el rastro de una tragedia familiar.",
+        "referencias": [
+          "14-015"
+        ]
+      },
+      {
+        "titulo": "Una pista para actuar, no una explicación completa",
+        "texto": "Blink comunica la lectura a sus compañeros después de ver a la hija espectral y su relicario. Los objetos reunidos permiten avanzar en el encuentro y la rotura del relicario dispersa al capitán y a los tripulantes. El desenlace resuelve la marca de Patata, pero no revela la identidad de la entidad ni todo el alcance del pacto. No se muestra una custodia posterior del diario.",
+        "referencias": [
+          "14-016",
+          "14-021",
+          "14-024",
+          "14-025"
+        ]
+      }
+    ],
+    "Diario Terran del nawal": [
+      {
+        "titulo": "El manuscrito que sale del templo",
+        "texto": "El diario aparece en las ruinas de los nawals, con una escritura en Terran más reciente que el propio edificio. Erendriel se lo lleva y trata de descifrarlo sin éxito inicial. Nox afirma que puede leer el idioma mediante un ritual y el libro continúa circulando entre los compañeros y los tratos con Bonnie. Su origen concreto se mantiene separado de otros cuadernos y mapas de las expediciones.",
+        "referencias": [
+          "08-021",
+          "08-024",
+          "10-002",
+          "11-011",
+          "12-004"
+        ]
+      },
+      {
+        "titulo": "Perder las palabras y reutilizar lo aprendido",
+        "texto": "La identificación del texto revela un cambio gradual: empieza con rutinas y rituales de dioses animales y termina en palabras cada vez más escasas y trazos agresivos. El director interpreta ese proceso como pérdida de la esencia humana y avance hacia un estado animal. El volumen también se utiliza en relación con glifos y magia durante las incursiones. Su utilidad práctica no prueba que cada ritual posterior tenga el mismo efecto que la transformación descrita por su antiguo autor.",
+        "referencias": [
+          "12-008",
+          "12-022",
+          "35-009"
+        ]
+      }
+    ],
+    "Diálogo": [
+      {
+        "titulo": "El bate con el que Ione evita las palabras",
+        "texto": "Diálogo es el bate que Ione usa para aturdir al centinela de la excavación y permitir que Nox se ponga su uniforme. Vuelve a combatir con él después de despertar de la inconsciencia durante la pelea contra los dinosaurios y lo utiliza al intentar salir del buque de la Marina. Es un arma recurrente en sus infiltraciones y combates, distinta de las ataduras o nudilleras llamadas Negociación. El nombre no atribuye al bate capacidad de hablar ni de encantar por sí solo.",
+        "referencias": [
+          "03-021",
+          "04-017",
+          "05-025"
+        ]
+      }
+    ],
+    "Espada azul de escamas de Triel": [
+      {
+        "titulo": "El pasado de los hermanos en una hoja",
+        "texto": "La espada de Triel aparece en el combate contra las panteras antes de que los hermanos lleguen a Shiaru, con una descripción azul y efectos eléctricos. Más adelante ella la muestra al dragón de Erendriel y plantea que podría proceder de su madre. La tirada de la cría reconoce escamas de dragón azul, pero no confirma ese parentesco. Triel dice después que el arma procede de un dragón que mató con Eldrat. Su origen tiene, por tanto, una parte observable y otra relatada por su portadora.",
+        "referencias": [
+          "14-002",
+          "15-006",
+          "31-022"
+        ]
+      },
+      {
+        "titulo": "De nuevo en combate durante la convalecencia",
+        "texto": "Triel la emplea contra los zombis del claro mientras sigue herida. Cambia de postura y combina los golpes de la espada de escamas con patadas que imitan a Tortas. El capítulo no le adjudica nuevos poderes ni modifica su procedencia.",
+        "referencias": [
+          "40-023"
+        ]
+      }
+    ],
+    "Gemas del collar antiguo": [
+      {
+        "titulo": "Un reparto que deja una deuda detrás",
+        "texto": "Las piedras se separan del collar hallado durante el encargo de Bonnie y se distribuyen entre los aventureros. Patata utiliza una para pagar a Liz y la pirata sigue ese rastro para reclamar las demás. Los compañeros discuten quién las conserva y Nox intenta recuperarlas por negociación, robo y presión. Las gemas conectan escenas de alojamiento y comercio con las exigencias de una misión anterior.",
+        "referencias": [
+          "04-021",
+          "04-030",
+          "06-004",
+          "07-008",
+          "07-029",
+          "10-007"
+        ]
+      },
+      {
+        "titulo": "Recuperaciones que no cierran el recuento",
+        "texto": "Nox entrega una gema a Bonnie al volver con Pix y consigue otra de Liz mediante inspiración. El recuento conserva discrepancias, por lo que no se puede reconstruir una cadena perfecta para cada piedra ni dar la deuda por saldada solo por esas entregas. El director también aclara que Bonnie no tiene derecho automático a todos los nuevos tesoros del grupo: la reclamación se refiere a estos encargos y a las deudas de Nox e Ione.",
+        "referencias": [
+          "09-031",
+          "11-028",
+          "11-029",
+          "11-032"
+        ]
+      }
+    ],
+    "Mapa de Poncelot": [
+      {
+        "titulo": "Una X que parece prometer una respuesta",
+        "texto": "Poncelot encuentra el mapa en un cofre del templo ocupado por marines. Representa parte de la selva y contiene una X y un nombre reconocido provisionalmente como Slaz. Lo guarda creyendo que puede ayudar a encontrar a Eldrat, sin que el documento asegure esa relación. Después lo estudia con Ione y lo lleva entre sus asuntos pendientes mientras otras misiones lo apartan de la búsqueda.",
+        "referencias": [
+          "20-014",
+          "20-017",
+          "23-001",
+          "25-001"
+        ]
+      },
+      {
+        "titulo": "Una ruta que también interesa al enemigo",
+        "texto": "Los hombres serpiente lo exigen durante el ataque nocturno y las órdenes recuperadas lo mencionan junto al collar de Blink. El destino vuelve a recibir una grafía provisional, Ezlat, en el recuerdo de Poncelot. El grupo inicia una expedición cuya dirección y guía no son tan sencillas como seguir la X, y termina en una pirámide con trampas, un anfitrión serpentino y señales ligadas a Nox. El mapa no es prueba de que todos los nombres provisionales de los subtítulos sean lugares distintos.",
+        "referencias": [
+          "25-013",
+          "25-019",
+          "25-021",
+          "26-008",
+          "26-013",
+          "26-015",
+          "26-022"
+        ]
+      }
+    ],
+    "Mocho de Sir Poncelot": [
+      {
+        "titulo": "De limpiar a combatir y domar",
+        "texto": "El mocho está ligado a los trabajos de limpieza de Poncelot y se convierte en un recurso de combate durante el encuentro submarino. El gnomo llega a usarlo contra Ione transformada, mientras el grupo intenta sobrevivir a las sirenas. Más adelante su mal olor sirve para atraer y montar una mosca gigante, que recibe el nombre Merlucilla III. Su recorrido transforma un utensilio cotidiano en una herramienta propia de la peculiar caballería de Poncelot, sin adjudicarle propiedades mágicas no demostradas.",
+        "referencias": [
+          "06-009",
+          "06-029",
+          "06-032",
+          "20-005"
+        ]
+      }
+    ],
+    "Moneda negra del mercante": [
+      {
+        "titulo": "Una pieza entre los objetos del pacto",
+        "texto": "La moneda está en manos del marinero de la boca cosida, que la utiliza para tallar la palabra traidor. Eldrat la intercambia por otra mientras intenta obtener información; el marinero sonríe y le dice que está maldito. La pieza se reúne después con la campana, la brújula y el relicario, provocando una reacción de la gema y la aparición del capitán. La escena no demuestra que la moneda sea una de las piezas de los reyes piratas ni revela una propiedad independiente que continúe usándose tras la huida.",
+        "referencias": [
+          "14-015",
+          "14-019",
+          "14-021"
+        ]
+      }
+    ],
+    "Moneda pirata de Bonnie": [
+      {
+        "titulo": "La moneda que acompaña al rayo",
+        "texto": "Durante la defensa de Shiaru, Bonnie aprieta una moneda pirata que emite chispas y entra en combate desplazándose aparentemente como un rayo, con un sable eléctrico. La escena asocia el objeto a su intervención decisiva contra los marines. Después vuelve a activarlo y se lo lanza a Pix, que lo guarda. Ese traslado de custodia ocurre en una escena reservada al público. El uso observado no fija todas sus reglas ni demuestra sin una identificación adicional que sea exactamente la moneda recogida en Ruki Peten.",
+        "referencias": [
+          "32-014",
+          "32-020",
+          "11-024"
+        ]
+      },
+      {
+        "titulo": "Rayos y cambio de aspecto",
+        "texto": "Bonnie aprieta la moneda de los capitanes piratas durante su discurso. Su cuerpo chisporrotea, sus ojos brillan azules y aparece un aspecto marcado por el rayo mientras se oscurece el cielo. Después prepara descargas desde el barco. La activación se observa, pero no explica la procedencia del objeto o todos sus límites.",
+        "referencias": [
+          "42-012",
+          "42-018",
+          "43-001",
+          "43-007"
+        ]
+      },
+      {
+        "titulo": "El poder pasa a manos de Ione",
+        "texto": "Después de las embestidas del Relámpago del Mar, Bonnie aparece en el Zampaolas y su electricidad se recoge en la moneda. La coloca en la mano de Ione y exige la retirada. El barco de Bonnie queda sin su brillo y carga mágica antes de ser rodeado por los otros reyes.",
+        "referencias": [
+          "42-066",
+          "42-068"
+        ]
+      }
+    ],
+    "Monedas antiguas de Ayoto": [
+      {
+        "titulo": "Del sótano del templo a una alianza con babuinos",
+        "texto": "Ayoto obtiene tres monedas antiguas en las cajas del sótano al que llega el grupo después de activar la plataforma de la danza. El director presenta ese espacio como una fuente de botín y no añade una historia específica para las piezas. Más adelante Ayoto ofrece dos monedas antiguas y Axi otras comunes a dos babuinos para que arrojen piedras o cocos a los sombreros azules. Ambos animales aceptan y colaboran después; el pago no hace aparecer un ejército de monos ni revela un poder mágico de las monedas.",
+        "referencias": [
+          "13-025",
+          "27-009"
+        ]
+      }
+    ],
+    "Negociación": [
+      {
+        "titulo": "Las armas de puño de la capitana",
+        "texto": "Ione encuentra entre los restos del barco unas ataduras de puño con piezas de metal. El director las entrega como su arma del nivel correspondiente y reciben el nombre Negociación. Durante el rescate de Aurora, Poncelot oculta sus nudilleras para que ella pueda fingir ser una prisionera desarmada. Más tarde las usa, con sus cargas, al saltar sobre el tiranosaurio de las ruinas. Ese combate desemboca en su transformación lupina, pero no se establece que el arma sea la causa de la licantropía.",
+        "referencias": [
+          "09-006",
+          "23-008",
+          "36-012"
+        ]
+      },
+      {
+        "titulo": "Romper el soporte, sin partir el metal",
+        "texto": "Ione prepara las nudilleras para liberar a Zoltan, encadenado en la cueva. Elige golpear las juntas del soporte de madera porque no espera poder romper el metal a puñetazos. Los golpes hacen crujir la construcción y dejan libres los brazos del cautivo. Después le presenta el arma por su nombre y la hace entrechocar entre pequeñas chispas.",
+        "referencias": [
+          "46-020",
+          "46-022",
+          "46-023"
+        ]
+      },
+      {
+        "titulo": "Cargas agotadas entre las palmeras",
+        "texto": "Ione emplea las cargas de Negociación al golpear al tiranosaurio después de saltar entre las palmeras. El arma añade daño a sus ataques, sin superar por ello la limitación de tamaño que impide empujarlo. Más tarde agota las cargas disponibles y continúa con los puños normales para intentar aturdir a los animales. El gasto de recursos no implica que las nudilleras desaparezcan o queden destruidas.",
+        "referencias": [
+          "46-033",
+          "46-044"
+        ]
+      }
+    ],
+    "Ojo-orbe recuperado por Nox": [
+      {
+        "titulo": "Un ojo arrancado durante la huida",
+        "texto": "Nox arranca el objeto brillante de una estatua mientras el grupo escapa del templo serpentino. Al examinarlo ve un portal tentacular, un ritual bajo un eclipse con él sobre un altar y una serpiente alada sobre Xoltacan. Poncelot, a quien se lo entrega para custodiarlo, solo ve un cristal semejante a un ojo. Las visiones no se presentan como acontecimientos futuros ya confirmados ni como una experiencia idéntica para cualquier portador.",
+        "referencias": [
+          "28-013",
+          "28-015"
+        ]
+      },
+      {
+        "titulo": "La custodia de Bonnie y la pista de Citlali",
+        "texto": "Poncelot entrega el orbe a Bonnie y Nox le comunica sus visiones en privado. Más adelante ella afirma que también reacciona ante Citlali, aunque desconoce la relación. Nox propone estudiarlo para anticipar sucesos y lo obtiene prestado con la condición de mantenerlo en Shiaru. La tirada revela su intención de incumplirla y el capítulo termina con su salida en bote hacia el fuerte. No se muestra qué ocurre con el objeto después de ese viaje.",
+        "referencias": [
+          "28-019",
+          "28-021",
+          "37-005",
+          "37-017",
+          "37-018"
+        ]
+      },
+      {
+        "titulo": "En la chaqueta antes del estallido",
+        "texto": "Cuando va a escapar del Invictus, Nox nota los tatuajes de su espalda y encuentra el orbe con ojo de serpiente en su chaqueta. A continuación abandona el cabo y corre para detener a Tórtola. No se manifiesta una función del objeto ni se acredita una fuga provocada por él.",
+        "referencias": [
+          "42-061"
+        ]
+      }
+    ],
+    "Patata Hammer": [
+      {
+        "titulo": "Un martillo nacido del cultivo",
+        "texto": "El director narra que la espada de Patata se rompe y queda clavada en una patata cultivada. Al recogerla obtiene el Patata Hammer: un martillo con tres cargas que pueden añadir un dado de cuatro al daño radiante de los hechizos o a la curación. Lo utiliza durante el viaje a Cuicapalli para matar a una serpiente con una carga radiante. El arma reúne su identidad agrícola y su papel protector, sin ser una persona distinta ni una prueba de que todos sus efectos curativos sean ilimitados.",
+        "referencias": [
+          "16-001",
+          "16-009"
+        ]
+      }
+    ],
+    "Perla de comunicación de Coyote": [
+      {
+        "titulo": "Un regalo que mantiene abierto el contacto",
+        "texto": "Maris entrega la perla a Coyote después de que la ayuden contra los atacantes de la costa. Su interior azul muestra un mar móvil y un mapa con coordenadas cuyos valores no se leen en la fuente. La sirena le explica que podrá encontrarla con ella. No es necesario inventar las coordenadas para seguir su función narrativa: conecta un rescate casual con una futura llamada de auxilio.",
+        "referencias": [
+          "24-012",
+          "24-014"
+        ]
+      },
+      {
+        "titulo": "De la costa a Perlasal",
+        "texto": "Coyote vuelve a utilizarla al llegar al lago y recibe la petición urgente de Maris. El grupo busca ayuda para respirar y desciende por un túnel que comunica con el mar. La perla permite mantener esa relación y orientar la expedición, pero no sustituye las burbujas, los besos que conceden branquias ni la negociación con los guardias de Perlasal.",
+        "referencias": [
+          "29-005",
+          "29-008",
+          "29-009",
+          "29-019"
+        ]
+      },
+      {
+        "titulo": "Contacto desde el lago de Iktan",
+        "texto": "Coyote introduce la perla en el agua y su interior toma aspecto de un mar con remolino. Allí aparece Maris, que informa del nuevo ataque y busca una enviada capaz de ayudar al grupo. El objeto recupera así su función de contacto: la llegada posterior a las ruinas se hace mediante una guía y túneles físicos, no atravesando un portal abierto en la perla.",
+        "referencias": [
+          "45-012",
+          "45-013",
+          "45-015",
+          "45-019"
+        ]
+      }
+    ],
+    "Pociones de Arwen": [
+      {
+        "titulo": "Recuperar a los compañeros en momentos críticos",
+        "texto": "Estas pociones aparecen como recursos de curación en distintas expediciones. Nox entrega una a Ione durante la huida del templo serpentino. Más adelante Blink administra otra a Zarial cuando cae ante los dinosaurios, devolviéndole el conocimiento con un ceceo narrado en la escena. La etiqueta agrupa esas menciones, pero no demuestra que sean el mismo frasco, quién fabricó cada dosis ni que todos los efectos secundarios de otras pociones de la campaña procedan de ellas.",
+        "referencias": [
+          "28-010",
+          "34-009"
+        ]
+      }
+    ],
+    "Relicario de gema negra": [
+      {
+        "titulo": "La pieza guardada por la hija del capitán",
+        "texto": "El diario del mercante dibuja el relicario entre los objetos relacionados con el trato desesperado del capitán. Blink ve a la hija espectral guardarlo en un cofre, rodeada de restos y encerrada bajo la prohibición de su padre. Cuando los aventureros consiguen abrir el cofre y reunir la gema con los otros objetos, la tormenta se detiene y el capitán aparece para enfrentarse a ellos.",
+        "referencias": [
+          "14-015",
+          "14-016",
+          "14-021"
+        ]
+      },
+      {
+        "titulo": "Romperlo pone fin al encuentro",
+        "texto": "Con el barco hundiéndose, Triel observa que el relicario que lleva Ayoto vibra y lo golpea. La rotura provoca luz, la desaparición del capitán y los tripulantes y una niebla que lleva al grupo a la orilla. Patata pierde la marca negra y el veneno desaparece. El desenlace acredita el papel de la pieza en la maldición, pero deja sin explicar por completo la entidad que pactó con el capitán y el destino último de padre e hija.",
+        "referencias": [
+          "14-024",
+          "14-025"
+        ]
+      }
+    ],
+    "Tatuajes de la espalda de Nox": [
+      {
+        "titulo": "Un recuerdo que Mamá no consigue descifrar",
+        "texto": "Nox muestra a Mamá los tatuajes de su espalda y pregunta si se parecen a símbolos de ruinas. Ella no encuentra una relación clara, ni en el templo del huevo ni más tarde ante los motivos serpentinos. La repetición de la consulta los convierte en una pregunta persistente, sin permitir asociar por semejanza todos los edificios y objetos antiguos.",
+        "referencias": [
+          "07-025",
+          "09-018",
+          "09-031"
+        ]
+      },
+      {
+        "titulo": "La pirámide los vuelve relevantes",
+        "texto": "Al activar las estatuas de la pirámide, Nox siente molestias en la espalda y dice que las marcas son un recuerdo de su antiguo capitán. El anfitrión serpentino afirma necesitar lo que lleva allí y lo trata como a alguien esperado. El ojo-orbe muestra después a Nox en un ritual. El vínculo entre marcas y peligro gana pruebas, pero no queda resuelto el origen preciso de los tatuajes ni la función que el enemigo pretende darles.",
+        "referencias": [
+          "26-017",
+          "26-019",
+          "26-022",
+          "28-015"
+        ]
+      },
+      {
+        "titulo": "La sensación previa a quedarse",
+        "texto": "Nox siente sus tatuajes mientras sopesa saltar al mar desde el Invictus. Al palparse encuentra el ojo-orbe en su chaqueta y después corre contra Tórtola. La escena conserva la reacción sin explicar si las marcas influyen en su decisión o producen otro efecto.",
+        "referencias": [
+          "42-061"
+        ]
+      }
+    ],
+    "Zampaolas": [
+      {
+        "titulo": "Un barco que se convierte en casa inmóvil",
+        "texto": "El Zampaolas llega a la campaña con una maniobra fallida que lo deja estampado junto a una taberna de Shiaru. El accidente origina la deuda de Nox e Ione con Bonnie. Aunque no pueda salir a navegar, sus camarotes alojan a Mamá, al guerrero nativo, a Jack y a otros visitantes. Las cadenas rotas del cuarto de Ione y sus ausencias nocturnas convierten el casco averiado en el primer escenario de su secreto lupino.",
+        "referencias": [
+          "01-008",
+          "01-011",
+          "01-033",
+          "02-003",
+          "07-002"
+        ]
+      },
+      {
+        "titulo": "Una tripulación más grande que sus hamacas",
+        "texto": "El barco sigue siendo lugar de encuentros, mapas y discusiones por la capitanía. Ione recluta más gente de la que puede alojar, castiga a Jack por fingir ser capitán y más adelante expulsa a Nox, según cuentan los hipopótamos. El huevo de Citlali también se guarda allí antes de desaparecer durante el ataque de la Marina. Repararlo implica no solo conseguir materiales, sino reorganizar quién vive y manda a bordo.",
+        "referencias": [
+          "09-006",
+          "13-002",
+          "24-021",
+          "28-022",
+          "34-003",
+          "36-001"
+        ]
+      },
+      {
+        "titulo": "Por fin desencajado, todavía sin una salida mostrada",
+        "texto": "La extracción preparada por los hipopótamos reúne a Ione, Poncelot, Erandy e Ilikar. Un pulpo gigante sujeta el casco y obliga a combatir, mientras un tiburón pasa de amenaza a nueva montura. Tras vencer, las rampas, amarres, fuerza y magia permiten sacar la nave de la taberna. La proa sigue rota y necesita materiales; Erandy aporta oro y el grupo reparte un cofre encontrado durante la maniobra. Es un avance real, pero la campaña todavía no muestra al Zampaolas completamente reparado y zarpando.",
+        "referencias": [
+          "38-006",
+          "38-007",
+          "38-009",
+          "38-015",
+          "38-016"
+        ]
+      },
+      {
+        "titulo": "Preparado para cruzar el arrecife",
+        "texto": "Ione repara y equipa el Zampaolas con artillería, munición encadenada, pólvora, aceite y una ballesta. La tripulación ocupa sus puestos y el barco se integra en la pequeña flota de Bonnie. Al ver las filas de la Marina, la capitana decide cruzar el arrecife para atacar por detrás, aprovechando su menor calado sin eliminar el riesgo de daños.",
+        "referencias": [
+          "42-003",
+          "42-013",
+          "42-015",
+          "42-017"
+        ]
+      },
+      {
+        "titulo": "Cañonazos y giros en el arrecife",
+        "texto": "El Zampaolas recibe impactos que abren el casco y arrancan una pieza añadida, por lo que su tripulación corre a reparar. Ione ordena redistribuir la carga y utiliza el ancla de Ilikar para cerrar un giro junto al espigón. La ballesta dispara primero a Cipo contra un barco y después un virote encadenado para enlazar naves enemigas. Mantiene la maniobra mientras el fuego cruzado y los refuerzos amenazan a la flota pirata.",
+        "referencias": [
+          "42-024",
+          "42-027",
+          "42-035",
+          "42-036",
+          "42-037",
+          "42-044",
+          "42-045"
+        ]
+      },
+      {
+        "titulo": "Fuera de la zona de explosión",
+        "texto": "El Zampaolas recoge a quienes han abordado barcos enemigos y pasa junto al Invictus. La explosión lo escora y el oleaje lo empuja hacia la costa sin encallarlo. Ilikar ordena regresar hacia Ione, que busca a Nox entre los restos. Tras la entrega de la moneda, Ione toma el timón y lo retira del combate.",
+        "referencias": [
+          "42-051",
+          "42-062",
+          "42-063",
+          "42-064",
+          "42-067"
+        ]
+      },
+      {
+        "titulo": "Visto desde la jungla",
+        "texto": "Después del combate terrestre, Citlali reconoce por encima de los árboles sus velas negras y su bandera. El barco parece ir a la deriva junto a la costa y se detiene, meciéndose como varado al este. Citlali intenta alcanzarlo esperando encontrar a Nox, sin que se muestre el encuentro ni una inspección de la nave.",
+        "referencias": [
+          "43-061"
+        ]
+      }
+    ],
+    "Muestra de veneno del claro": [
+      {
+        "titulo": "De los restos a manos de Walulu",
+        "texto": "Tras vencer a los zombis, un integrante recoge en una botella un veneno muy denso, más verde y aparentemente más agresivo que el de los yuan-ti conocidos. No se identifica al recolector en ese pasaje. Al regresar a Iktan, Leona entrega la muestra a Walulu y atribuye a ella la conversión de las criaturas en no muertos. La chamana ve que parece potente y advierte del riesgo de provocar al dragón. La custodia queda documentada, pero el análisis y la explicación causal siguen abiertos.",
+        "referencias": [
+          "40-016",
+          "40-026",
+          "40-035"
+        ]
+      }
+    ],
+    "Fragmento de espada bajo la roca": [
+      {
+        "titulo": "Un hallazgo de Cipo",
+        "texto": "Cipo busca debajo de una roca de la jungla y, con ayuda de Ilikar que la sostiene parcialmente, extrae un trozo de arma. Otro filo queda clavado debajo. La expedición no identifica dueño, antigüedad ni uso posterior del fragmento, y no lo relaciona con ninguna espada previa.",
+        "referencias": [
+          "40-003"
+        ]
+      }
+    ],
+    "Piedra sagrada de Iktan": [
+      {
+        "titulo": "El soporte del protector",
+        "texto": "La tortuga venerada permanece sobre una roca cubierta de vegetación hasta que siente el deterioro del bosque y se levanta, haciendo temblar el soporte. Al final Triel ocupa la piedra e intenta meditar para obtener brazos astrales. La población muestra disgusto y Eldrat la aparta y se disculpa ante Walulu. Su carácter sagrado es visible en el trato de los habitantes; no se demuestra un poder propio ni la transmisión de las capacidades de Tortas.",
+        "referencias": [
+          "40-008",
+          "40-013",
+          "40-042"
+        ]
+      },
+      {
+        "titulo": "La observación de Leo durante la fiesta",
+        "texto": "El Anciano aparece inmóvil sobre el soporte mientras recibe ofrendas. Naór lleva las figuras talladas y encarga a Leo esperar un movimiento como ejercicio de paciencia. Más tarde el grupo observa a Tortas hablar. El brillo detectado durante la vigilancia corresponde al Anciano y no demuestra magia propia de esta piedra, que sigue separada de la roca exterior de los sacerdotes.",
+        "referencias": [
+          "41-003",
+          "41-009",
+          "41-024",
+          "41-052",
+          "41-055"
+        ]
+      }
+    ],
+    "Viales verdes de la roca norte": [
+      {
+        "titulo": "De la preparación a la recogida",
+        "texto": "Las dos figuras llenan pequeños viales de líquido verdoso a partir de recipientes mayores. Tentacol observa el color a través de Chopito y el grupo sospecha veneno. Una botella se rompe durante la emboscada. Tras el combate Winscore recoge recipientes que considera venenos; no se realiza un análisis ni se demuestra relación con la muestra del claro entregada antes a Walulu.",
+        "referencias": [
+          "41-028",
+          "41-029",
+          "41-030",
+          "41-051"
+        ]
+      }
+    ],
+    "Gorro de capitana de Ione": [
+      {
+        "titulo": "Una custodia para el final de la batalla",
+        "texto": "Ante el miedo de Jack, Ione se quita el gorro de capitana y se lo entrega para que lo guarde. Le pide que se lo devuelva al terminar el combate y él acepta. El objeto convierte la promesa de protección en una tarea compartida, todavía sin devolución mostrada en este tramo.",
+        "referencias": [
+          "42-008"
+        ]
+      }
+    ],
+    "Fular de alas de mosca de Ione": [
+      {
+        "titulo": "Un agradecimiento de Poncelot",
+        "texto": "Poncelot encarga y recoge un paquete antes de embarcar. Se lo entrega a Ione como agradecimiento por haberlo acogido y tratado como compañero. El regalo se describe como un fular transparente con vetas de alas de mosca; Ione se lo pone y abraza al gnomo. No se presentan propiedades mágicas ni una procedencia de Merlucilla III.",
+        "referencias": [
+          "42-001",
+          "42-009"
+        ]
+      }
+    ],
+    "Relámpago del Mar": [
+      {
+        "titulo": "La nave de Bonnie entre rayos",
+        "texto": "El enorme barco de Bonnie forma con el Zampaolas y otras cinco naves la pequeña flota defensora de Shiaru. Bajo la tormenta adelanta a los barcos piratas y parece desprender rayos mientras Bonnie prepara chispas y ordena no malgastar munición. El relato lo llama Relámpago del Mar.",
+        "referencias": [
+          "42-015",
+          "42-018"
+        ]
+      },
+      {
+        "titulo": "El barco que recibe la tormenta",
+        "texto": "La nave de Bonnie ataca con sus baterías mientras su capitana hace caer rayos sobre la Marina. Después los rayos golpean sus propias velas sin incendiarlas: la luz parece recorrer el casco hasta el timón. Transformado en una estela azul eléctrica, el Relámpago del Mar atraviesa la línea enemiga y parte varios barcos por la mitad.",
+        "referencias": [
+          "42-030",
+          "42-039",
+          "42-046"
+        ]
+      },
+      {
+        "titulo": "La última defensa de Bonnie",
+        "texto": "El Relámpago del Mar rompe la formación naval mediante embestidas y rayos. Al entregar Bonnie la moneda a Ione, pierde su brillo y su carga mágica, aunque sigue siendo un barco enorme. Los cuatro buques de los otros reyes piratas lo rodean y tienden pasarelas para abordar una reunión que termina con el disparo contra Bonnie.",
+        "referencias": [
+          "42-052",
+          "42-059",
+          "42-068",
+          "42-072"
+        ]
+      }
+    ],
+    "Invictus": [
+      {
+        "titulo": "La aproximación de Tórtola",
+        "texto": "El Invictus navega hacia el norte con Tórtola y Nox a bordo mientras el resto de la armada forma ante los piratas. El director lo presenta como una nave nunca derrotada ni dañada. Tórtola ordena colocar barcos menores delante durante la aproximación por el arrecife. En sus niveles inferiores Nox encuentra una jaula con una figura humanoide encadenada, aún sin identificar.",
+        "referencias": [
+          "42-019",
+          "42-020",
+          "42-021",
+          "42-022"
+        ]
+      },
+      {
+        "titulo": "De prisión a nave saboteada",
+        "texto": "El Invictus contiene la celda donde Nox libera a Pinky y recibe la munición recuperada de sus escoltas encallados. El pirata duerme a su mando, toma el timón y cruza el arrecife hacia la batalla. El buque aparece como una nave blanca enorme e impecable, algo mayor e imponente que la de Bonnie. En su interior Nox prepara una línea de pólvora entre la zona de carga y el mástil, mientras Pinky combate a los marines.",
+        "referencias": [
+          "42-031",
+          "42-034",
+          "42-041",
+          "42-042",
+          "42-047"
+        ]
+      },
+      {
+        "titulo": "De buque de Tórtola a barco explosivo",
+        "texto": "El Invictus es identificado como el barco del capitán Tórtola. Nox toma el timón herido, altera sus velas y pabellón con una imagen mayor y manda prender su pólvora. Deja la nave rumbo a la flota, pero permanece a bordo para impedir que el aviar cambie el curso. Una explosión arrasa el barco y la zona cercana.",
+        "referencias": [
+          "42-055",
+          "42-057",
+          "42-061",
+          "42-062"
+        ]
+      }
+    ],
+    "Broche de Eleanor": [
+      {
+        "titulo": "Un ofrecimiento antes del combate",
+        "texto": "En el punto defensivo de la jungla, Eleanor se quita el broche de su tierra y se lo entrega a Molly. Explica que ayuda por el buen trato dado a Erandy y alude a una leyenda con la que quizá podría intentar algo si recuperara el cuerpo de Molly. El gesto expresa el compromiso anterior al combate; no identifica el emblema del objeto, garantiza una resurrección o demuestra que la ex capitana haya muerto.",
+        "referencias": [
+          "43-015"
+        ]
+      }
+    ],
+    "Caja de música de Citlali": [
+      {
+        "titulo": "Una melodía antes de la carrera",
+        "texto": "Citlali cuenta que encontró una caja de música durante su estancia en Iktan. La melodía le hizo recordar a sus hijos y a Nox. Después sintió dolor y vio algo extraño en su piel, acontecimientos que la impulsaron a llevarse a la cría y correr hacia Shiaru. La sucesión de hechos no demuestra que la caja causara el dolor o la marca; su origen y mecanismo permanecen sin explicar.",
+        "referencias": [
+          "43-003"
+        ]
+      },
+      {
+        "titulo": "La música junto al llanto",
+        "texto": "Terminada la batalla, Citlali saca de la falda una caja musical y la mueve mientras dice que Nox se ha ido. Las lágrimas continúan y su mirada hace comprender a Molly la pérdida que siente. La escena no explica de dónde procede el objeto ni qué melodía reproduce.",
+        "referencias": [
+          "43-059"
+        ]
+      }
+    ],
+    "Estandarte de Eleanor": [
+      {
+        "titulo": "El límite de la retaguardia",
+        "texto": "Eleanor clava el estandarte cuando Erandy se acerca a la zona del enfrentamiento y lo utiliza como referencia para ordenarle que no avance más. La escudera, absorta en el trance solar, no escucha la orden y se mueve hacia otro general. El objeto documenta la instrucción táctica, sin aportar aquí emblema, inscripción o pertenencia institucional nueva.",
+        "referencias": [
+          "43-035",
+          "43-038"
+        ]
+      }
+    ],
+    "Cañón tomado por Lunaria": [
+      {
+        "titulo": "De garrote a propulsor",
+        "texto": "Lunaria toma uno de los cañones del frente y lo utiliza en forma de oso para barrer a los marines. Un disparo hacia abajo la hiere y la impulsa al aire antes de caer sobre los enemigos. Más tarde, con Eleanor a lomos, golpea el arma contra el suelo hasta provocar otro disparo que las vuelve a lanzar. El objeto pasa de artillería enemiga a herramienta improvisada de combate y desplazamiento.",
+        "referencias": [
+          "43-034",
+          "43-039",
+          "43-042"
+        ]
+      }
+    ],
+    "Altar de los símbolos de Citlali": [
+      {
+        "titulo": "Los símbolos de Citlali",
+        "texto": "El epílogo muestra una especie de altar al que se acerca el ser que habla con Citlali. Al pasar la mano sobre él enciende marcas y símbolos exactamente iguales a los de su cuerpo. La localización y la función completa del altar no se revelan.",
+        "referencias": [
+          "43-062"
+        ]
+      }
+    ],
+    "Espinas del Devorafango": [
+      {
+        "titulo": "De la boca al remedio",
+        "texto": "Parroter necesita las espinas bucales del devorafango y exige que se arranquen mientras viva. Tras buscar sin éxito en el moho, Leona entra en la boca del animal y fuerza una protuberancia afirmándose con el hacha. Consigue dos espinas y sale con ayuda de Tlachka. Parroter acepta el ingrediente, tritura una púa y prepara una poción aún pastosa. Al administrarla a Eromov sus venas negras empiezan a menguar, aunque el tratamiento y la recuperación no quedan completos.",
+        "referencias": [
+          "44-011",
+          "44-012",
+          "44-017",
+          "44-022",
+          "44-027",
+          "44-032",
+          "44-037",
+          "44-040",
+          "44-042",
+          "44-045",
+          "44-048",
+          "44-056"
+        ]
+      }
+    ],
+    "Caparazón del Devorafango": [
+      {
+        "titulo": "Material para un escudo por hacer",
+        "texto": "Ayoto quiere un nuevo escudo hecho con el exoesqueleto del animal abatido. El herrero exige que le lleven el material y Guayacán aplica su formación de peletero para separar piezas, con cortes imperfectos. Ayoto las recibe, piensa añadir dedos como adornos y se dirige hacia la tienda apoyado en Guayacán. El capítulo no muestra un encargo aceptado ni un escudo terminado.",
+        "referencias": [
+          "44-047",
+          "44-049",
+          "44-053",
+          "44-055"
+        ]
+      }
+    ],
+    "Altar de los Profundos": [
+      {
+        "titulo": "El lugar de la cautiva",
+        "texto": "El altar ocupa un islote rodeado de agua dentro del escondite. Una sirena permanece atada sobre él, flanqueada por dos oficiantes y una criatura. La conversación sobre sacrificios sitúa allí una amenaza inmediata, pero no demuestra por sí sola que el objeto posea poder mágico o haya resucitado a una divinidad.",
+        "referencias": [
+          "45-045",
+          "45-047",
+          "45-048"
+        ]
+      },
+      {
+        "titulo": "La magia que permanece",
+        "texto": "Ante el altar, un sacerdote prepara el sacrificio de la sirena que los aventureros consiguen liberar. Después Tentacol coloca junto a Chopito al oficiante inconsciente y el pulpo lo ejecuta. Naór detecta una intensa concentración mágica en el altar y un resplandor extendido por el agua, como una consagración a una criatura desconocida. Nadie lo destruye ni desactiva en escena.",
+        "referencias": [
+          "45-052",
+          "45-068",
+          "45-069",
+          "45-071",
+          "45-072"
+        ]
+      }
+    ],
+    "Mano conservada por Tortas": [
+      {
+        "titulo": "Un recuerdo del primer combate",
+        "texto": "Después de reunir los cadáveres de los defensores de la primera sala, Tortas se detiene ante el cuerpo que Naór ha partido con su caída. Lamenta el destino de las criaturas, separa una mano y la guarda en su caparazón antes de continuar. La procedencia queda documentada, sin que se le asigne poder, nombre personal del dueño o utilidad ritual.",
+        "referencias": [
+          "45-042",
+          "45-043"
+        ]
+      }
+    ],
+    "Perla hallada en el escondite": [
+      {
+        "titulo": "El hallazgo de Tentacol",
+        "texto": "Tentacol registra un cuerpo del escondite menos destrozado que los demás y encuentra una perla. No se describen propiedades, precio ni un uso posterior durante la salida o la audiencia en Perlasal.",
+        "referencias": [
+          "45-070"
+        ]
+      }
+    ],
+    "Fragmento del rostro de la criatura del altar": [
+      {
+        "titulo": "Un recuerdo del daño al caparazón",
+        "texto": "Tras matar con sus puños astrales a la criatura del altar, Tortas arranca un fragmento de su rostro y continúa golpeando el cadáver mientras se queja del caparazón. La pieza se conserva como trofeo, sin propiedades mágicas o uso posterior demostrados.",
+        "referencias": [
+          "45-067"
+        ]
+      }
+    ],
+    "Copa dorada de la choza del jefe": [
+      {
+        "titulo": "Un tesoro distinto del anterior",
+        "texto": "Eleanor encuentra la copa en la choza grande entre cofres, huesos y pieles. Su superficie parece dorada y tiene inscripciones y joyas. La compara con otra copa que ya llevaba, pero el director las distingue y describe esta como tesoro para vender. No se revela el significado de sus inscripciones ni se ejecuta con ella un ritual.",
+        "referencias": [
+          "46-027"
+        ]
+      }
+    ],
+    "Collar hallado por Ione en la aldea caníbal": [
+      {
+        "titulo": "El hallazgo antes de los gritos",
+        "texto": "Mientras Eleanor revisa la choza mayor, Ione busca objetos útiles en una casa cercana y encuentra un collar. Lo toma y sale corriendo al oír los gritos de Citlali, dejando su examen para después. El momento del hallazgo no aporta todavía un origen, material o poder.",
+        "referencias": [
+          "46-031"
+        ]
+      },
+      {
+        "titulo": "La venta a Froger",
+        "texto": "Ione busca un comprador para el collar hallado durante la expedición y lo ofrece a Froger al llegar a Iktan. El alquimista propone veinticinco monedas; tras pedir ella veintiséis y recibir una contraoferta menor, termina vendido por veinticuatro.",
+        "referencias": [
+          "46-062",
+          "46-063"
+        ]
+      }
+    ]
+  }
+}

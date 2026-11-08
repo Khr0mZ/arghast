@@ -12,7 +12,7 @@ def key(text):
 
 
 def load_catalog():
-    configuration = read_json(ROOT / 'config/entidades.json')
+    configuration = read_json(ROOT / 'campanas/xoltacan/config/entidades.json')
     groups = configuration['grupos']
     aliases, notes, names = {}, {}, set()
     for group in groups:

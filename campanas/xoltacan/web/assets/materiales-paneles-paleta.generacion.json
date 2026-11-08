@@ -1,0 +1,21 @@
+{
+  "mode": "built-in imagegen",
+  "intent": "edit",
+  "palette_source": "campanas/xoltacan/config/paleta.json",
+  "assets": [
+    {
+      "name": "xoltacan-panel-paleta",
+      "prompt": "Edit the attached texture, preserving its wide aspect ratio, composition, border motifs, material grain, engraved relief, and quiet central space for overlaid text. This is a color-palette correction, not a new layout. No added text, UI, characters, or objects. Keep intricate craftsmanship, rich detail and readable dark center. No rainbow accents. The authoritative Xoltacan palette is #050A0B #20292B #373B35 #4D5335 #6A6F41 #838A49 #3D6779 #537989 #6791A9 #9ABAC7 #B3D2D3 #CEB398 #ECCFAC #F7EAC8 #E9E626 #F52024. Replace the emerald/jade and saturated turquoise stone with charcoal #20292B and smoky gray stone #373B35, olive moss #4D5335 #6A6F41 #838A49. Leaf relief should be olive, not emerald. Use slate blue mineral veins #3D6779 #537989 #6791A9 with tiny pale blue highlights #9ABAC7. Replace metallic gold and bronze framing with carved limestone and weathered stone in #CEB398 #ECCFAC, subdued #F7EAC8 edge highlights. Strong yellow #E9E626 and red #F52024 may appear ONLY as extremely small inset pigment details at the outer corners, not luminous large shapes or colored borders. Dominant impression: shadowy olive tropical vegetation, dark stone and pale limestone; subtle cool sky-blue veins. Eliminate green emerald, teal jade, shiny gold and copper hues outside this palette. Use the palette as the exclusive color family with natural shading.",
+      "edit_target": "C:/Users/khr0m/Desktop/Coding/Projects/xoltacan/web/assets/xoltacan-panel.webp",
+      "source": "C:/Users/khr0m/.codex/generated_images/01a139d3-d428-79a1-9a34-77d49502b031/exec-5f432910-2f27-45a6-9d25-738a92f6e544.png",
+      "original": "campanas/xoltacan/web/assets/xoltacan-panel-paleta-original.png",
+      "file": "campanas/xoltacan/web/assets/xoltacan-panel-paleta.webp",
+      "width": 1672,
+      "height": 941,
+      "quality": 90,
+      "bytes": 577496,
+      "sha256": "b503020592d4d134798dfed83723b78e1ce359f01195895f33c50d78de030fcd",
+      "edit_target_sha256": "3097845cbce677c1c6097c15cce46a20da8426d248a08a7031600c0993d01f1e"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "mode": "built-in imagegen",
+  "intent": "generate",
+  "assets": [
+    {
+      "name": "kuroto-panel",
+      "prompt": "Use case: stylized-concept. Create a wide landscape 16:9 full bleed decorative material illustration for panels of an oriental fantasy RPG encyclopedia. A handcrafted midnight indigo and deep turquoise lacquer screen with flowing teal ocean-wave engravings, antique gold maki-e lines, sparse vivid vermilion cherry blossoms, a few warm coral petals and malachite accents concentrated on the far right and outer corners. Saturated jewel colors and rich dark ink, tactile brushed lacquer grain, delicate golden highlights, elegant layered Japanese decorative art. Left and central two thirds remains dark blue-indigo with subtle flowing grain for pale readable overlaid text. Flat front-facing material, no perspective, no mockup, no UI, no text, no letters, no people, no maps, no blank white or beige expanse. Beautiful painted fantasy craft.",
+      "source": "C:/Users/khr0m/.codex/generated_images/01a139d3-d428-79a1-9a34-77d49502b031/exec-5ba448d0-0395-424f-a35f-46bfc9b1afc5.png",
+      "original": "campanas/kuroto/web/assets/kuroto-panel-original.png",
+      "file": "campanas/kuroto/web/assets/kuroto-panel.webp",
+      "width": 1672,
+      "height": 941,
+      "quality": 90,
+      "bytes": 494756,
+      "sha256": "0685ed4ca012266d9b2b15180f7e66f4d31c44d89cff4924bfff4c4e0d0caef5"
+    }
+  ]
+}

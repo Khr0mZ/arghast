@@ -4,11 +4,13 @@
 
 ## Revisión local
 
-Abrir `kuroto.html` desde la raíz del proyecto para entrar directamente en Kuroto. Abrir `arghast.html` para elegir campaña. Conservar la carpeta `transcripciones` junto a los HTML para consultar los subtítulos sin servidor. Los capítulos y las fichas usan la misma presentación narrativa de Xoltacan.
+Abrir [publico/index.html](publico/index.html) para consultar Kuroto. Esa carpeta se puede copiar completa y usar sin conexión. La entrada compatible `kuroto.html` sigue en la raíz y `arghast.html` permite elegir campaña. Los capítulos y las fichas usan la misma presentación narrativa de Xoltacan.
 
 No publicar, desplegar ni subir cambios sin que el usuario confirme que ha revisado y aprobado esta versión. La autorización de despliegues anteriores no se reutiliza. La configuración local de Pages solo admite ejecución manual.
 
 ## Estructura y contenido
+
+La campaña sigue la [estructura común](../README.md). `config/` contiene sus emisiones, identidades confirmadas y síntesis de relaciones; `revision/` conserva las entregas y los cotejos editoriales.
 
 - `catalogo.json`: 181 vídeos de la [lista oficial](https://www.youtube.com/playlist?list=PLelQK3I2Q5zymJZ2e2SNmwxsnnFGjBCYb). Se conserva la numeración hasta el 182 y la ausencia del 92; se ordenan correctamente el 169 y el 170.
 - `fuentes/`: originales VTT es-orig y es conservados sin alteraciones, inventario SHA-256, incidencias y verificaciones de idiomas. Se recuperaron los subtítulos de 178 vídeos con el descargador de Xoltacan. Los capítulos 96, 135 y 136, sin subtítulos de YouTube, se transcribieron localmente a partir del audio; su procedencia figura en `transcripciones_locales.json`.
@@ -18,6 +20,8 @@ No publicar, desplegar ni subir cambios sin que el usuario confirme que ha revis
 - `conocimiento/SEGUIMIENTO.md` y `seguimiento.json`: preguntas de origen, respuestas posteriores, referencias y asuntos pendientes.
 - `conocimiento/MISIONES.md`, `RELACIONES.md`, `ATLAS.md`, `FACCIONES.md`, `MISTERIOS.md` y `METODO.md`: vistas de consulta de la misma crónica.
 - [Índice de lectura](conocimiento/INDICE.md).
+- `web/`: estilos, ilustraciones, fuentes Karate y Kaisei Tokumin y sus licencias.
+- `publico/`: lector independiente, datos, transcripciones y rol con sus adjuntos.
 
 Las historias conservan los acontecimientos de cada sesión y las fichas reúnen su evolución posterior. El seguimiento distingue las preguntas resueltas de las tramas que siguen abiertas al terminar el epílogo. Cada cierre enlaza las evidencias que lo justifican.
 
@@ -25,4 +29,4 @@ Las historias conservan los acontecimientos de cada sesión y las fichas reúnen
 
 **Lectura completada de las 181 sesiones disponibles.** Consultar [REVISION.md](REVISION.md) para el catálogo y la procedencia de cada sesión.
 
-`python scripts/construir_interfaz.py` valida fuentes e historias, exporta Markdown y regenera los tres HTML y los archivos por sesión en `transcripciones/kuroto/`. `python -m unittest discover -s scripts -p 'test_*.py'` comprueba los constructores. La verificación en navegador es local: `node scripts/probar_interfaz.mjs`.
+`python scripts/construir_interfaz.py` valida fuentes e historias, exporta Markdown y regenera el visor común y ambos lectores en `campanas/<campaña>/publico/`, con sus transcripciones y escenas. `python -m unittest discover -s scripts -p 'test_*.py'` comprueba los constructores. La verificación en navegador es local: `node scripts/probar_interfaz.mjs` y `node scripts/probar_autonomia.mjs`.

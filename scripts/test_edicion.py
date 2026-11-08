@@ -4,6 +4,7 @@ from pathlib import Path
 import tempfile
 import threading
 import unittest
+import shutil
 from urllib.error import HTTPError
 from urllib.request import Request, urlopen
 from copy import deepcopy
@@ -19,10 +20,14 @@ class EditionTest(unittest.TestCase):
         self.public = Path(self.temp.name) / 'public'
         self.public.mkdir()
         (self.public / 'arghast.html').write_bytes((ROOT / 'arghast.html').read_bytes())
+        for campaign in ('xoltacan', 'kuroto'):
+            data = Path('campanas') / campaign / 'publico/datos.js'
+            (self.public / data).parent.mkdir(parents=True)
+            shutil.copyfile(ROOT / data, self.public / data)
         # Verificar el servicio de archivos sin depender de derivados locales
         # que se generan después de las pruebas en el flujo de publicación.
-        transcript = self.public / 'transcripciones/kuroto/001.js'
-        transcript.parent.mkdir(parents=True)
+        transcript = self.public / 'campanas/kuroto/publico/transcripciones/001.js'
+        transcript.parent.mkdir(parents=True, exist_ok=True)
         transcript.write_text('globalThis.arghastTranscripts = {};', encoding='utf-8')
         self.start()
 
@@ -83,6 +88,9 @@ class EditionTest(unittest.TestCase):
         self.assertEqual(self.request('/.local/edicion/correcciones.sqlite3')[0], 404)
         self.assertEqual(self.request('/AGENTS.md')[0], 404)
         self.assertEqual(self.request('/transcripciones/../../README.md')[0], 404)
+        self.assertEqual(self.request('/campanas/kuroto/config/emisiones.json')[0], 404)
+        self.assertEqual(self.request('/campanas/xoltacan/fuentes/001.vtt')[0], 404)
+        self.assertEqual(self.request('/campanas/kuroto/publico/../config/emisiones.json')[0], 404)
 
     def test_session_revocation_and_attempt_limit(self):
         _, result = self.request('/api/editor/unlock', {'code': 'showmethemoney'})
@@ -129,7 +137,7 @@ class EditionTest(unittest.TestCase):
         _, restored = self.request('/api/editor/document/xoltacan')
         self.assertEqual(restored['content']['facts'][0]['cita'],initial['content']['facts'][0]['cita'])
         self.assertEqual(len(restored['history']),2)
-        with urlopen(self.url+'/transcripciones/kuroto/001.js') as response:
+        with urlopen(self.url+'/campanas/kuroto/publico/transcripciones/001.js') as response:
             self.assertEqual(response.status,200)
             self.assertIn('javascript',response.headers['Content-Type'])
 

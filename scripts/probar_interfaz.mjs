@@ -3,16 +3,17 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { spawn } from 'node:child_process';
 import { fileURLToPath, pathToFileURL } from 'node:url';
+import {cerrarProceso,eliminarTemporal} from './temporales_pruebas.mjs';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const output=path.join(root,'.pruebas','interfaz');
-const chapterSources=await fs.readdir(path.join(root,'conocimiento/capitulos'));
-const expectedChapters=await Promise.all(chapterSources.filter(name=>/^\d+\.json$/.test(name)).map(async name=>JSON.parse(await fs.readFile(path.join(root,'conocimiento/capitulos',name),'utf8'))));
+const chapterSources=await fs.readdir(path.join(root,'campanas/xoltacan/conocimiento/capitulos'));
+const expectedChapters=await Promise.all(chapterSources.filter(name=>/^\d+\.json$/.test(name)).map(async name=>JSON.parse(await fs.readFile(path.join(root,'campanas/xoltacan/conocimiento/capitulos',name),'utf8'))));
 const expectedFacts=expectedChapters.reduce((total,chapter)=>total+chapter.afirmaciones.length,0);
 const questionCount=expectedChapters.reduce((total,chapter)=>total+chapter.preguntas.length,0);
-const expectedWrittenRole=JSON.parse(await fs.readFile(path.join(root,'conocimiento/rol_escrito/manifest.json'),'utf8'));
-const suppliedPalettes=JSON.parse(await fs.readFile(path.join(root,'config/paletas_campanas.json'),'utf8')).campanas;
+const expectedWrittenRole=JSON.parse(await fs.readFile(path.join(root,'campanas/xoltacan/conocimiento/rol_escrito/manifest.json'),'utf8'));
+const suppliedPalettes=Object.fromEntries(await Promise.all(['xoltacan','kuroto'].map(async id=>[id,JSON.parse(await fs.readFile(path.join(root,'campanas',id,'config/paleta.json'),'utf8')).campanas[id]])));
 const expectedMaterialKeys=Object.fromEntries(await Promise.all(['xoltacan','kuroto'].map(async id=>{
-  const uri='data:image/webp;base64,'+(await fs.readFile(path.join(root,'web/assets',id+'-panel-paleta.webp'))).toString('base64');
+  const uri='data:image/webp;base64,'+(await fs.readFile(path.join(root,'campanas',id,'web/assets',id+'-panel-paleta.webp'))).toString('base64');
   return [id,uri.length+':'+uri.slice(-64)];
 })));
 
@@ -41,6 +42,7 @@ try {
   const evaluate=async expression=>{const result=await call('Runtime.evaluate',{expression,returnByValue:true,awaitPromise:true});if(result.exceptionDetails)throw new Error(JSON.stringify(result.exceptionDetails));return result.result.value;};
   const check=async(name,expression)=>{if(!await evaluate(expression))throw new Error('Fallo: '+name);checks.push(name);};
   const route=async hash=>{await evaluate('location.hash='+JSON.stringify(hash));await sleep(160);};
+  const ready=async expression=>{for(let i=0;i<100;i++){if(await evaluate(expression))return;await sleep(100);}throw new Error('La interfaz no quedó lista: '+expression);};
   const screenshot=async name=>{const shot=await call('Page.captureScreenshot',{format:'png',captureBeyondViewport:false});await fs.writeFile(path.join(output,name+'.png'),Buffer.from(shot.data,'base64'));};
   const checks=[];
   const checkThematicFont=async(family,weight,selector,text='Cr\u00f3nicas \u00c1\u00c9\u00cd\u00d3\u00da\u00dc\u00d1 \u00e1\u00e9\u00ed\u00f3\u00fa\u00fc\u00f1 \u00bf\u00a1')=>{
@@ -108,6 +110,7 @@ try {
   await evaluate('document.querySelector("[data-tab=preguntas]").click()');
   await check('Cada pregunta de capítulo tiene seguimiento actualizado','(()=>{const q=JSON.parse(document.getElementById("xoltacan-data").textContent).seguimiento.preguntas.filter(q=>q.capitulo===39);const cards=[...document.querySelectorAll(".question-card")];return cards.length===q.length&&cards.every((card,i)=>card.dataset.status===q[i].estado)})()');
   await evaluate('document.querySelector("[data-tab=transcripcion]").click()');
+  await ready('document.querySelectorAll(".transcript-row").length===120');
   await check('Transcripción integrada y paginada','document.querySelectorAll(".transcript-row").length===120');
   await evaluate('document.getElementById("transcript-search").value="serpiente";document.getElementById("transcript-search").dispatchEvent(new Event("input",{bubbles:true}))');
   await check('Búsqueda en transcripción','document.querySelectorAll(".transcript-row").length>0&&[...document.querySelectorAll(".transcript-row p")].every(e=>e.textContent.toLowerCase().includes("serpiente"))');
@@ -152,7 +155,7 @@ try {
   await evaluate('document.querySelector("[data-tab=hechos]").click()');
   await check('Las 62 evidencias terrestres están incorporadas','document.querySelectorAll(".event").length===62');
   await evaluate('document.querySelector("[data-tab=preguntas]").click()');
-  await check('Las ocho preguntas del 43 conservan su seguimiento','document.querySelectorAll(".question-card").length===8&&[...document.querySelectorAll(".question-card")].every(c=>c.dataset.status==="pendiente")');
+  await check('Las ocho preguntas del 43 conservan su seguimiento actualizado','document.querySelectorAll(".question-card").length===8&&[...document.querySelectorAll(".question-card")].every(c=>["pendiente","parcial","resuelta"].includes(c.dataset.status))');
   await route('#registro/43-062');
   await check('El altar final abre el vídeo y contexto del 43','document.querySelector(".quote").textContent.length>0&&document.querySelector(".evidence a").href.includes("tSdmoZCWEZQ")&&document.querySelectorAll(".context-details .transcript-row").length>0');
   await route('#entidad/Altar de los símbolos de Citlali');
@@ -202,6 +205,23 @@ try {
   await check('Guía, cautiva y Maris conservan identidades distintas','(()=>{const d=JSON.parse(document.getElementById("xoltacan-data").textContent);return ["Guía sirénida enviada por Maris","Sirena cautiva del altar","Maris"].every(n=>d.entities.filter(e=>e.name===n).length===1)})()');
   await check('Los altares del escondite y Citlali siguen separados del templo de Perlasal','(()=>{const e=JSON.parse(document.getElementById("xoltacan-data").textContent).entities;return e.find(x=>x.name==="Altar de los Profundos").type==="objeto"&&e.find(x=>x.name==="Altar de los símbolos de Citlali").type==="objeto"&&e.find(x=>x.name==="Templo de Perlasal").type==="lugar"})()');
   await check('Las misiones del 45 aparecen una sola vez',`(()=>{const t=JSON.parse(document.getElementById("xoltacan-data").textContent).documents.misiones.text;return (t.match(/- Cap[.] 45:/g)||[]).length===${chapter45.misiones.length}&&!t.includes("## Actualización del capítulo 45")})()`);
+  const chapter46=expectedChapters.find(c=>c.capitulo===46);
+  await route('#capitulo/46');
+  await check('El capítulo 46 abre el relato completo del regreso a Iktan','document.querySelector("[data-tab=relato]").classList.contains("active")&&document.querySelectorAll(".story-stage").length>=10&&document.getElementById("content").innerText.includes("Zoltan")&&[...document.querySelectorAll("#content a")].some(a=>a.href.includes("yRdWu0NIldc"))');
+  await check('El 46 distingue el directo del 23 de julio de su publicación del 8 de noviembre','document.querySelector(".chapter-dates").innerText.includes("23/07/2026")&&document.querySelector(".chapter-dates").innerText.includes("08/11/2026")');
+  await screenshot('capitulo-46-escritorio');
+  await evaluate('document.querySelector("[data-tab=hechos]").click()');
+  await check('Todas las evidencias del 46 aparecen en su capítulo',`document.querySelectorAll(".event").length===${chapter46.afirmaciones.length}`);
+  await evaluate('document.querySelector("[data-tab=preguntas]").click()');
+  await check('Las preguntas nuevas del 46 tienen seguimiento',`document.querySelectorAll(".question-card").length===${chapter46.preguntas.length}&&[...document.querySelectorAll(".question-card")].every(c=>c.dataset.status!=="sin_revisar")`);
+  await route('#registro/'+chapter46.afirmaciones.at(-1).id);
+  await check('La última evidencia del 46 enlaza su vídeo y contexto','document.querySelector(".quote").textContent.length>0&&document.querySelector(".evidence a").href.includes("yRdWu0NIldc")&&document.querySelectorAll(".context-details .transcript-row").length>0');
+  await check('La escena escrita del reencuentro queda después del 46','(()=>{const r=JSON.parse(document.getElementById("xoltacan-data").textContent).writtenRole;const s=r.scenes.find(s=>s.id==="x-1529957197948260414");return s.intervalo.anterior===46&&s.intervalo.siguiente===47&&s.mensajes===2})()');
+  await route('#pregunta/P43-005');
+  await check('La recapitulación del 46 aclara el encuentro sin inventar el disparo','document.querySelector(".question-card").dataset.status==="parcial"&&[...document.querySelectorAll(".question-card a")].some(a=>a.hash.startsWith("#registro/46-"))');
+  await route('#entidad/Zoltan');
+  await check('Zoltan tiene historia y fuentes propias','document.querySelectorAll(".story-stage").length>=3&&document.querySelectorAll(".story-sources a").length>0');
+  await check('Las misiones del 46 aparecen una sola vez',`(()=>{const t=JSON.parse(document.getElementById("xoltacan-data").textContent).documents.misiones.text;return (t.match(/- Cap[.] 46:/g)||[]).length===${chapter46.misiones.length}})()`);
   await route('#registro/41-023');
   await check('La muerte de la infiltrada enlaza la nueva fuente y su contexto','document.querySelector(".quote").textContent.length>0&&document.querySelector(".evidence a").href.includes("vB6Y1LQ2IaM")&&document.querySelectorAll(".context-details .transcript-row").length>0');
   await route('#entidad/Tentacol');
@@ -285,7 +305,7 @@ try {
   await route('#capitulos');await screenshot('capitulos-escritorio');
   for(const width of [320,768]){
     await call('Emulation.setDeviceMetricsOverride',{width,height:900,deviceScaleFactor:1,mobile:width<560});
-    for(const section of ['personajes','capitulo/39','capitulo/40','capitulo/41','capitulo/42','capitulo/43','capitulo/44','capitulo/45','misterios','entidad/Ione','entidad/Tortas','entidad/Tentacol','entidad/Shiaru','entidad/Marina','entidad/Zampaolas']){
+    for(const section of ['personajes','capitulo/39','capitulo/40','capitulo/41','capitulo/42','capitulo/43','capitulo/44','capitulo/45','capitulo/46','misterios','entidad/Ione','entidad/Tortas','entidad/Tentacol','entidad/Shiaru','entidad/Marina','entidad/Zampaolas']){
       await route('#'+section);
       await check('Códice sin desbordamiento a '+width+' px en '+section,'document.documentElement.scrollWidth<=window.innerWidth');
     }
@@ -309,6 +329,7 @@ try {
   await route('#capitulo/43');await screenshot('capitulo-43-movil');
   await route('#capitulo/44');await screenshot('capitulo-44-movil');
   await route('#capitulo/45');await screenshot('capitulo-45-movil');
+  await route('#capitulo/46');await screenshot('capitulo-46-movil');
   await route('#personajes');await screenshot('personajes-movil');
   await route('#entidad/Ione');await screenshot('historia-personaje-movil');
   await route('#entidad/Zampaolas');await screenshot('relato-objeto-movil');
@@ -481,9 +502,9 @@ try {
   await check('La ficha 1 de Xoltacan vuelve a ser la correcta','document.getElementById("page-title").textContent.includes("barco estampado")&&document.querySelector("a[target=_blank]").href.includes("ZXhsunFOVdQ")');
   const directKuroto=new URL('kuroto.html',siteURL);
   await call('Page.navigate',{url:directKuroto.href});
-  for(let i=0;i<100;i++){try{if(await evaluate('location.pathname.endsWith("/kuroto.html")&&document.body.dataset.campaign==="kuroto"&&!!document.querySelector(".kuroto-hero")'))break;}catch{}await sleep(150);}
-  await check('Kuroto tiene una entrada propia con su campaña seleccionada','location.pathname.endsWith("/kuroto.html")&&document.getElementById("campaign-selector").value==="kuroto"&&!!document.querySelector(".kuroto-hero")');
+  for(let i=0;i<100;i++){try{if(await evaluate('location.search.includes("campana=kuroto")&&document.body.dataset.campaign==="kuroto"&&!!document.querySelector(".kuroto-hero")'))break;}catch{}await sleep(150);}
+  await check('La entrada compatible de Kuroto conserva su campaña','location.search.includes("campana=kuroto")&&document.getElementById("campaign-selector").value==="kuroto"&&!!document.querySelector(".kuroto-hero")');
   if(errors.length)throw new Error('Errores JavaScript: '+JSON.stringify(errors));
   console.log(JSON.stringify({resultado:'OK',comprobaciones:checks.length,pruebas:checks,capturas:output},null,2));
   await send('Browser.close');
-} finally {if(ws)ws.close();browser.kill();}
+} finally {if(ws)ws.close();await cerrarProceso(browser);await eliminarTemporal(profile);}

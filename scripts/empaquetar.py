@@ -8,17 +8,19 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--solo-conocimiento', action='store_true', help='Enciclopedia y lecturas Markdown, sin originales VTT/TXT ni herramientas.')
     args = parser.parse_args()
-    folders = ['conocimiento', 'campanas', 'transcripciones', 'rol_escrito'] if args.solo_conocimiento else ['conocimiento', 'campanas', 'transcripciones', 'rol_escrito', 'derivados', 'config', 'borradores', 'scripts', 'web', 'xoltacan_subtitulos', '.github']
+    folders = ['campanas'] if args.solo_conocimiento else ['campanas', 'scripts', 'web', '.github']
     files = set()
     for folder in folders:
         for path in (ROOT / folder).rglob('*'):
             if path.is_file() and '__pycache__' not in path.parts and path.suffix not in ('.pyc', '.zip'):
-                if args.solo_conocimiento and folder == 'campanas' and ('fuentes' in path.parts or path.suffix == '.jsonl'):
-                    continue
+                if args.solo_conocimiento and folder == 'campanas':
+                    relative = path.relative_to(ROOT / 'campanas').parts
+                    if len(relative) > 2 and relative[1] not in ('conocimiento', 'derivados', 'publico'):
+                        continue
+                    if 'derivados' in relative and path.name != 'lectura.md':
+                        continue
                 files.add(path)
-    if args.solo_conocimiento:
-        files.update((ROOT / 'derivados').glob('*/lectura.md'))
-    for name in ('README.md', 'AGENTS.md', 'requirements-descarga.txt', 'requirements-transcripcion.txt', 'xoltacan.html', 'kuroto.html', 'arghast.html', 'arghast.webp', 'Xoltacan.png', 'Kuroto.png', 'lichpol.jpg', '.gitignore', '.gitattributes'):
+    for name in ('README.md', 'AGENTS.md', 'requirements-descarga.txt', 'requirements-transcripcion.txt', 'xoltacan.html', 'kuroto.html', 'arghast.html', 'arghast.webp', 'campanas/xoltacan/web/assets/Xoltacan.png', 'campanas/kuroto/web/assets/Kuroto.png', 'lichpol.jpg', '.gitignore', '.gitattributes'):
         path = ROOT / name
         if path.exists():
             files.add(path)

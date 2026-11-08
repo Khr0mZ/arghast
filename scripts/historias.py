@@ -4,8 +4,8 @@ from construir import ROOT, read_json
 
 def load_histories(character_names, facts, paths=None, collection='personajes'):
     paths = paths if paths is not None else [
-        ROOT / 'config/historias_personajes.json',
-        ROOT / 'config/historias_personajes_complementarias.json',
+        ROOT / 'campanas/xoltacan/config/historias_personajes.json',
+        ROOT / 'campanas/xoltacan/config/historias_personajes_complementarias.json',
     ]
     names = set(character_names)
     result = {}
@@ -47,13 +47,13 @@ def load_entity_histories(entities, facts):
     for kind, filename in [('lugar', 'lugares'), ('faccion', 'facciones'), ('objeto', 'objetos')]:
         result.update(load_histories(
             [entity['name'] for entity in entities if entity['type'] == kind], facts,
-            [ROOT / f'config/historias_{filename}.json'], collection='entidades'))
+            [ROOT / f'campanas/xoltacan/config/historias_{filename}.json'], collection='entidades'))
     return result
 
 
 def load_chapter_histories(chapters, facts, path=None):
     """Presenta los resúmenes íntegros según divisiones editoriales explícitas."""
-    document = read_json(path or ROOT / 'config/relatos_capitulos.json')
+    document = read_json(path or ROOT / 'campanas/xoltacan/config/relatos_capitulos.json')
     by_number = {chapter['capitulo']: chapter for chapter in chapters}
     result = {}
     for key, divisions in document['capitulos'].items():

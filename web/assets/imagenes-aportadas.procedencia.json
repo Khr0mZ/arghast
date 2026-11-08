@@ -2,22 +2,6 @@
   "origin": "User supplied originals; WebP encoding only.",
   "assets": [
     {
-      "source": "Xoltacan.png",
-      "file": "web/assets/xoltacan-portada.webp",
-      "source_sha256": "0e389f1f30b6ba57556b1e0deb4503c57abd2289f82a1476d3533b8e4db41ff7",
-      "sha256": "d668fe0b81dd5e4f4062a9a5c9ee27ae1a086446ccef66b8f2b506b0dec6489b",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "source": "Kuroto.png",
-      "file": "web/assets/kuroto-portada.webp",
-      "source_sha256": "2f224c309e63413133688ac86b66bb139b1166592f986175166e136dd2f22776",
-      "sha256": "f4648f096f31547bf6c4f6ec6ae926e64aa33eb1d50942a7b58d7f7368a7525b",
-      "width": 1280,
-      "height": 720
-    },
-    {
       "source": "lichpol.jpg",
       "file": "web/assets/lichpol-logo.webp",
       "source_sha256": "0e74bc91bfbebbf4e28570b3ee3a3989604a20a0a5446f010796f6185d221397",

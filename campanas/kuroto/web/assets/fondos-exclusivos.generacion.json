@@ -1,0 +1,31 @@
+{
+  "mode": "built-in imagegen",
+  "intent": "generate",
+  "canon": "Decorative atmosphere; not canonical geography or events.",
+  "assets": [
+    {
+      "name": "kuroto-drawer",
+      "prompt": "Use case: stylized-concept. Painted fantasy RPG encyclopedia illustration, rich atmospheric brushwork, exquisite aged materials, no text, no letters, no logo, no UI, no people. Decorative atmosphere rather than canonical geography. Asset: portrait 9:16 background for a narrow navigation drawer for Kuroto, an oriental fantasy campaign. Weathered cedar shrine wood and elegant black bamboo along edges, a single antique vermilion hanging lantern low on the right, faint gilt ornament and drifting plum-colored mist, mossy stone at bottom. Ink black, smoky plum, restrained vermilion and antique gold. Broad quiet dark central vertical space for overlaid navigation. Intimate material-rich composition, no castle, no torii, no text or characters. Full bleed vertical artwork.",
+      "source": "C:/Users/khr0m/.codex/generated_images/01a139d3-d428-79a1-9a34-77d49502b031/exec-2dd1ea5a-72ce-45c3-80de-57ac82e6b804.png",
+      "original": "campanas/kuroto/web/assets/kuroto-drawer-original.png",
+      "file": "campanas/kuroto/web/assets/kuroto-drawer.webp",
+      "width": 941,
+      "height": 1672,
+      "quality": 90,
+      "bytes": 309146,
+      "sha256": "48f397c354c92f18b944cf27079fdb6a98612bbde6933be9cedb5679718d662b"
+    },
+    {
+      "name": "kuroto-background",
+      "prompt": "Use case: stylized-concept. Painted fantasy RPG encyclopedia illustration, rich atmospheric brushwork, exquisite aged materials, no text, no letters, no logo, no UI, no people. Decorative atmosphere rather than canonical geography. Asset: wide 16:9 immersive full-page background for Kuroto, an oriental fantasy campaign. Misty ancient cedar and bamboo grove surrounding a winding shallow stream in a mossy shrine garden, worn stone lanterns and a delicate weathered vermilion footbridge far to one side. Ink charcoal, smoky plum twilight, muted copper and restrained warm gold lantern glows. Poetic painterly atmosphere, soft low contrast open center for readable content panels, detailed margins. No castle, no torii, no large moon. Full bleed landscape.",
+      "source": "C:/Users/khr0m/.codex/generated_images/01a139d3-d428-79a1-9a34-77d49502b031/exec-7f65ef29-171a-4db3-85e9-3911bdf505be.png",
+      "original": "campanas/kuroto/web/assets/kuroto-background-original.png",
+      "file": "campanas/kuroto/web/assets/kuroto-background.webp",
+      "width": 1672,
+      "height": 941,
+      "quality": 90,
+      "bytes": 422044,
+      "sha256": "66dc8931c251e4b5c7a56d1c16aa4285b57246449573f67cb095f24eccacb62a"
+    }
+  ]
+}

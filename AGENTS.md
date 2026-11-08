@@ -14,6 +14,7 @@
 
 - La paleta de cada campaña debe ser rica y contrastada, con varios acentos intensos; no reducirla a dos tonos pastel. Usar materiales ilustrados en portadas, cifras y catálogos, reservando superficies más claras para lectura larga.
 
-- Usar los 16 HEX de cada campaña proporcionados por el usuario y guardados en `config/paletas_campanas.json`. Son la referencia autoritativa. Los bordes, cifras e iconos no deben usar una gama distinta por categoría: asignar colores por función, con marcos comunes de la campaña.
+- Cada campaña es autocontenida dentro de `campanas/<campaña>/`, con las mismas carpetas `config`, `fuentes`, `revision`, `conocimiento`, `derivados`, `web` y `publico`. Guardar allí también sus transcripciones generadas, escenas, adjuntos, estilos, imágenes y licencias. La raíz contiene las herramientas y el visor comunes de Arghast.
+- Usar los 16 HEX de cada campaña proporcionados por el usuario y guardados en `campanas/<campaña>/config/paleta.json`. Son la referencia autoritativa. Los bordes, cifras e iconos no deben usar una gama distinta por categoría: asignar colores por función, con marcos comunes de la campaña.
 
 - Tipografías: IM Fell English SC para Arghast; Karate para la interfaz de Kuroto y Ambystoma Mexicanum para la de Xoltacan, incluidos sidebar, topbar y controles. Ambystoma se aplica mediante rótulos gráficos con texto accesible; no redistribuir su OTF bajo la licencia gratuita. Conservar Kaisei Tokumin como apoyo para tildes de Karate y Macondo/Georgia para lectura. Guardar procedencia y licencias; el nombre del mundo en el sidebar usa IM Fell English SC en todas las vistas.

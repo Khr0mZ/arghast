@@ -19,7 +19,7 @@ def main():
     args = parser.parse_args()
     draft = read_json(ROOT / args.ficha)
     n = draft['capitulo']
-    meta = read_json(ROOT / 'derivados' / f'{n:02d}' / 'meta.json')
+    meta = read_json(ROOT / 'campanas/xoltacan/derivados' / f'{n:02d}' / 'meta.json')
     source = ROOT / meta['fuente']
     cues = []
     for block in re.split(r'\n{2,}', source.read_text(encoding='utf-8-sig').replace('\r\n', '\n')):
@@ -50,7 +50,7 @@ def main():
         validate_fact(fact, source)
         facts.append(fact)
     draft.update(fuente_sha256=sha(source), afirmaciones=facts)
-    write_json(ROOT / 'conocimiento/capitulos' / f'{n:02d}.json', draft)
+    write_json(ROOT / 'campanas/xoltacan/conocimiento/capitulos' / f'{n:02d}.json', draft)
     print(f'Capítulo {n:02d}: {len(facts)} registros con citas localizadas.')
 
 

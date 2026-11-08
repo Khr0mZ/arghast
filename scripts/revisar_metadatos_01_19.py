@@ -7,9 +7,9 @@ FIELDS=('resumen','misiones','preguntas','contradicciones','nombres_dudosos')
 def read(p): return json.loads(p.read_text(encoding='utf-8'))
 def write(p,d): p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 def main():
-    rules=read(ROOT/'derivados/revision_estilo_01_19/metadatos.json')
+    rules=read(ROOT / 'campanas/xoltacan/derivados/revision_estilo_01_19/metadatos.json')
     for n,pairs in rules.items():
-        path=ROOT/'conocimiento/capitulos'/f'{n}.json'
+        path=ROOT / 'campanas/xoltacan/conocimiento/capitulos'/f'{n}.json'
         d=read(path); old=deepcopy(d)
         for field in FIELDS:
             if field not in d:continue
@@ -19,7 +19,7 @@ def main():
             d[field]=values if isinstance(d[field],list) else values[0]
         assert {k:v for k,v in old.items() if k not in FIELDS}=={k:v for k,v in d.items() if k not in FIELDS}
         write(path,d)
-        draftpath=ROOT/'borradores'/f'{n}.json'
+        draftpath=ROOT / 'campanas/xoltacan/revision/borradores'/f'{n}.json'
         if draftpath.exists():
             draft=read(draftpath)
             for f in FIELDS:

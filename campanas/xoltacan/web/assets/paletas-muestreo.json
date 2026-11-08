@@ -1,0 +1,89 @@
+{
+  "xoltacan": {
+    "source": "xolta.jpg",
+    "regions": {
+      "sky": [
+        {
+          "hex": "#6994af",
+          "pixels": 8337
+        },
+        {
+          "hex": "#84aac2",
+          "pixels": 8185
+        },
+        {
+          "hex": "#598194",
+          "pixels": 6651
+        },
+        {
+          "hex": "#b1cad1",
+          "pixels": 6227
+        }
+      ],
+      "stone": [
+        {
+          "hex": "#998080",
+          "pixels": 8862
+        },
+        {
+          "hex": "#f3dcbd",
+          "pixels": 8503
+        },
+        {
+          "hex": "#5d7285",
+          "pixels": 7324
+        },
+        {
+          "hex": "#a99f9d",
+          "pixels": 6811
+        }
+      ],
+      "jungle": [
+        {
+          "hex": "#b0c1b6",
+          "pixels": 30610
+        },
+        {
+          "hex": "#c3d7cb",
+          "pixels": 27434
+        },
+        {
+          "hex": "#848a6c",
+          "pixels": 25724
+        },
+        {
+          "hex": "#32362c",
+          "pixels": 24232
+        }
+      ],
+      "water": [
+        {
+          "hex": "#615c4d",
+          "pixels": 6088
+        },
+        {
+          "hex": "#747457",
+          "pixels": 6075
+        },
+        {
+          "hex": "#44453c",
+          "pixels": 5728
+        },
+        {
+          "hex": "#949a66",
+          "pixels": 5509
+        }
+      ]
+    },
+    "sha256": "96082c64bdbb6823ac1241a6cd3cd1440a87dffc0e283b440a7f0e978dd156b4"
+  },
+  "method": "Four-color quantization of selected landscape regions; avoids central titles and creator logos. UI variants adjusted for contrast.",
+  "selected": {
+    "xoltacan": {
+      "foliage": "#32362c",
+      "sky": "#6994af",
+      "stone": "#f3dcbd",
+      "stone_shadow": "#998080"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "mode": "built-in imagegen",
+  "intent": "generate",
+  "assets": [
+    {
+      "name": "kuroto-topbar",
+      "prompt": "Use case: stylized-concept. Fantasy RPG encyclopedia decorative material illustration, full bleed, flat front-facing rich tactile craftsmanship, no text, no letters, no UI, no people, no invented geographical map. Asset: very wide 3:1 horizontal material texture for a website top bar. Small-scale ornamental detail woven across the horizontal middle strip so it remains visible when cropped to a shallow header. Quiet low contrast dark areas under overlaid title and search controls. Avoid bright high contrast focal objects in the middle. Hand brushed deep turquoise lacquer with delicate shallow wave engravings, a thin flowing cream inlay, and sparse small pink cherry petals near the right margin. Palette restricted to #FDF0CF #F5CFB7 #E3E4C9 #A2AB9B #A5CDBE #7EB8AF #4FA2A0 #207E81 #EEB5A1 #EC8D85 #D56564 #EE1F25 #0E3F45 #8A6E5B #5C4B3B #312016. Dark #0E3F45 turquoise dominant; no navy, no purple, no gold metal. Rich layered oriental lacquer material, engraved waves readable in shallow crop.",
+      "source": "C:/Users/khr0m/.codex/generated_images/01a139d3-d428-79a1-9a34-77d49502b031/exec-63960098-5322-4e2f-90c1-3eb99e03bf28.png",
+      "original": "campanas/kuroto/web/assets/kuroto-topbar-original.png",
+      "file": "campanas/kuroto/web/assets/kuroto-topbar.webp",
+      "width": 2172,
+      "height": 724,
+      "quality": 90,
+      "bytes": 470194,
+      "sha256": "36194c8b1c2679584728c21e58086e166d4f80a0b2272669a0230c3b87aac111"
+    }
+  ]
+}

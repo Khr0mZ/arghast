@@ -1,0 +1,44 @@
+{
+  "escenas": [
+    {
+      "escena": "x-1529957197948260414",
+      "archivo": "campanas/xoltacan/conocimiento/rol_escrito/escenas/x-1529957197948260414.json",
+      "sha256": "1fb924b2097001c88d17ad2a05f53c3af05cd02046d55eb2730469483283e3e9",
+      "lectura_completa": true,
+      "mensajes_leidos": [
+        "1529957197948260414",
+        "1529959568187068486"
+      ]
+    }
+  ],
+  "total_mensajes": 2,
+  "ancla": {
+    "capitulo": 46,
+    "fecha": "2026-07-23",
+    "estado": "documentada",
+    "catalogado": true,
+    "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1529917702439698493",
+    "inicio_referencia_utc": "2026-07-23T18:26:16+00:00",
+    "hora_prevista": null,
+    "tipo_referencia": "tarjeta_twitch",
+    "duracion_video_segundos": 8661,
+    "fin_estimado_utc": "2026-07-23T20:50:37+00:00",
+    "corte_ordenacion_utc": "2026-07-23T20:50:37+00:00"
+  },
+  "cambios_ordenacion": [
+    {
+      "escena": "x-1529957197948260414",
+      "titulo": "Eleanor encuentra a Erandi en Iktan",
+      "anterior": [
+        45,
+        46
+      ],
+      "nuevo": [
+        46,
+        47
+      ]
+    }
+  ],
+  "escenas_que_cruzan_corte": 0,
+  "criterio": "Reencuentro representado en dos mensajes completos después del final estimado del directo; se conserva el original."
+}

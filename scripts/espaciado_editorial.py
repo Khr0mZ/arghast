@@ -35,7 +35,7 @@ def main():
             edits['registros'] = records
         if edits:
             recipe[str(dossier['capitulo'])] = edits
-    target = ROOT / 'config/revision_espaciado_editorial.json'
+    target = ROOT / 'campanas/xoltacan/revision/revision_espaciado_editorial.json'
     write_json(target, recipe)
     print(f'Receta de espaciado: {len(recipe)} capítulos. Aplicar mediante aplicar_estilo.py.')
 
