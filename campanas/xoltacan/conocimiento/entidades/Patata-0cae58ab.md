@@ -8,11 +8,11 @@ Patatamán y Patata designan al mismo agricultor; Patata Hammer es su arma.
 
 Etiquetas agrupadas: Patata / Patatamán (grafía provisional).
 
-Base para revisar equivalencia: [01-002](../capitulos/01.md), [16-001](../capitulos/16.md).
+Base para revisar equivalencia: [01-002](../capitulos/01.md), [16-001](../capitulos/16.md), [47-001](../capitulos/47.md), [47-015](../capitulos/47.md), [47-017](../capitulos/47.md), [47-016](../capitulos/47.md), [47-018](../capitulos/47.md), [47-021](../capitulos/47.md), [47-030](../capitulos/47.md), [47-031](../capitulos/47.md), [47-032](../capitulos/47.md), [47-033](../capitulos/47.md), [47-037](../capitulos/47.md), [47-045](../capitulos/47.md), [47-047](../capitulos/47.md), [47-054](../capitulos/47.md), [47-057](../capitulos/47.md), [47-058](../capitulos/47.md), [47-059](../capitulos/47.md), [47-062](../capitulos/47.md), [47-063](../capitulos/47.md), [47-068](../capitulos/47.md), [47-069](../capitulos/47.md), [47-077](../capitulos/47.md), [47-079](../capitulos/47.md), [47-090](../capitulos/47.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### Cultivar una nueva vida
 
@@ -31,6 +31,36 @@ Fuentes: [10-023 · Patata cae pese a curarse y Blink queda atrás](../capitulos
 El director narra que su espada rota queda clavada en una patata y que, al recogerla, obtiene el Patata Hammer, capaz de reforzar curaciones o daño radiante. Viaja a Cuicapalli, ayuda a combatir a los yuan-ti y sigue intentando sostener a sus compañeros, aunque la curación de Citlali llega a dañarlo. También vuelve a Shiaru: combate junto a Ione contra los impostores marinos y ayuda a guiarla cuando se vuelve loba. Durante el asalto de la Marina defiende el poblado con Eleanor, Erandy y Lunaria. Más tarde se hace pasar por comerciante en Aurora para apoyar la misión que termina con la liberación de Molly.
 
 Fuentes: [16-001 · Mapa de la Marina perdido y Patata Hammer](../capitulos/16.md) · 00:00:00.000 · [16-005 · Baton y Nelli guían a Cuicapalli](../capitulos/16.md) · 00:12:00.000 · [18-009 · Guardianes muertos y curación dañina](../capitulos/18.md) · 00:50:00.000 · [18-020 · Prueba y recompensas en Cuicapalli](../capitulos/18.md) · 02:38:00.000 · [24-011 · El arma espiritual guía a la loba contra el último enemigo](../capitulos/24.md) · 01:36:00.000 · [32-007 · Patata y escudera despliegan protección](../capitulos/32.md) · 00:26:00.000 · [32-017 · Shiaru resiste invasión](../capitulos/32.md) · 01:58:00.000 · [35-013 · Tórtola retiene viajeros y compra mentira](../capitulos/35.md) · 01:52:00.000 · [35-019 · Bonnie y Molly reencuentran; recompensas](../capitulos/35.md) · 02:42:00.000.
+
+### Del huerto destruido a los cadáveres del lago
+
+Vuelve a Shiaru y encuentra su huerto arrasado y el cuerpo de Bonny colgado de la entrada. Huye hacia la jungla y llega embarrado a las ruinas del lago, donde cuenta a Tesa la expulsión por nuevos piratas y la destrucción de su casa. Acepta la amistad con Chopito pero conserva su propia fe. Después de lavar la armadura, prepara sus armas contra los cadáveres movidos por raíces. El aura de uno lo envenena y le impide recuperar vida durante el intervalo adjudicado. Su expulsión atemoriza a casi todos los enemigos y su siguiente ataque impacta.
+
+Fuentes: [47-001 · Patata encuentra su huerto destruido y el cuerpo de Bonny expuesto](../capitulos/47.md) · 00:00:21.760 · [47-015 · Patata aparece cubierto de barro y hojas](../capitulos/47.md) · 00:20:05.320 · [47-017 · Patata comunica que otros piratas tomaron Shiaru y destruyeron su casa](../capitulos/47.md) · 00:23:00.520 · [47-016 · Patata conserva su propia fe y Tesa traduce a Chopito](../capitulos/47.md) · 00:22:12.240 · [47-018 · Patata lava su armadura en el lago](../capitulos/47.md) · 00:24:06.960 · [47-021 · El suelo de las ruinas empieza a moverse](../capitulos/47.md) · 00:30:15.720 · [47-030 · El aura de un zombi envenena a Patata e impide que se cure](../capitulos/47.md) · 00:42:43.839 · [47-031 · Patata atemoriza a casi todos los no muertos](../capitulos/47.md) · 00:44:15.200 · [47-032 · Patata impacta con un ataque de nivel tres](../capitulos/47.md) · 00:45:07.079.
+
+### Expulsión y fuerza radiante
+
+Mantiene a parte de los muertos apartados hasta que los golpes permiten su regreso. Los combate con magia, espada espiritual y daño radiante. Colabora en sostener al compañero felino sin que el fragmento permita fijar la curación inicial.
+
+Fuentes: [47-033 · Los expulsados se apartan de Patata](../capitulos/47.md) · 00:45:29.000 · [47-037 · Mictlan esquiva y Patata sostiene la ofensiva](../capitulos/47.md) · 00:52:19.839 · [47-045 · El grupo mantiene los ataques a distancia](../capitulos/47.md) · 01:05:33.279 · [47-047 · Los rayos y el daño radiante acorralan a los últimos](../capitulos/47.md) · 01:09:04.120.
+
+### Resistir el peso de los cadáveres
+
+Soporta el intento de la masa de envolverlo: supera la salvación, recibe daño y queda fuera. Después la golpea hasta dispersarla y hacer cesar el movimiento de los cuerpos.
+
+Fuentes: [47-054 · Patata evita quedar envuelto en los cadáveres](../capitulos/47.md) · 01:21:08.480 · [47-057 · Tentacol vuelve a apartar la masa de Patata](../capitulos/47.md) · 01:26:39.159 · [47-058 · Patata deshace la masa y las raíces se retiran](../capitulos/47.md) · 01:28:07.199.
+
+### Tender una mano y conocer un nombre
+
+Ofrece ayuda al compañero felino y pregunta su nombre. La respuesta se transcribe mi clan y Patata propone Mic; a continuación empieza a atender sus heridas.
+
+Fuentes: [47-059 · Mictlan busca a los compañeros y no encuentra a Tesara](../capitulos/47.md) · 01:30:27.679 · [47-062 · Patata ofrece ayuda y pregunta el nombre del felino](../capitulos/47.md) · 01:33:46.719.
+
+### La invisibilidad y el reencuentro pirata
+
+Patata queda invisible durante la curación del felino por un efecto temporal adjudicado a una carta y luego reaparece. Las raíces lo atrapan mientras el dragón exige a los elfos. Sigue a Tesara hasta Iktan, reconoce a los piratas desplazados desde Shiaru y prueba una cerveza que aprecia. Permanece en la taberna durante la visita a Walulu y corteja a Angelique, que termina describiéndole a Zoltan y promete presentárselo.
+
+Fuentes: [47-063 · Patata desaparece durante la curación y vuelve a ser visible](../capitulos/47.md) · 01:34:05.719 · [47-068 · Las raíces inmovilizan al grupo](../capitulos/47.md) · 01:44:52.920 · [47-069 · El dragón se muestra y exige a los elfos](../capitulos/47.md) · 01:46:39.840 · [47-077 · Tesara guía el regreso a Iktan](../capitulos/47.md) · 01:57:54.960 · [47-079 · Patata encuentra a los piratas en la taberna de Iktan](../capitulos/47.md) · 02:00:10.840 · [47-090 · Angelique cuenta a Patata su encuentro con Zoltan](../capitulos/47.md) · 02:17:15.880.
 
 ## Registros y evidencias
 
@@ -1393,4 +1423,284 @@ Tipo: `declaracion_personaje`.
 Ione se cruza con Citlali y Etley y reconoce a la cría al recordar el huevo. Pide acompañarlas porque quiere preguntar por lo ocurrido al dinosaurio. Citlali explica que la luz y el drenaje forman parte de una maldición, recuerda que descubrió ese efecto con Patata y acepta llevar a Ione ante Walulu, a quien esta cree capaz de aclarar el significado de los tatuajes.
 
 La explicación identifica el fenómeno como Citlali lo entiende, sin revelar origen, cura o significado de las marcas. La visita a Walulu solo se propone: no se representa una audiencia ni un análisis de los tatuajes.
+
+## [47-001 · Patata encuentra su huerto destruido y el cuerpo de Bonny expuesto](../capitulos/47.md) · 00:00:21.760
+
+Tipo: `explicacion_director`.
+
+Tras el repaso de Patata sobre su huida de Shiaru, el director concreta que regresó allí en uno de sus viajes, encontró el huerto totalmente destrozado y vio el cuerpo de «Happy» Bonny colgado de la entrada. Lo sitúa después de vuelta en la jungla.
+
+Se confirma lo que Patata encontró, sin representar la ejecución ni identificar a quien colgó el cuerpo o destruyó el huerto. La vuelta hacia la jungla se formula como enlace del director.
+
+## [47-015 · Patata aparece cubierto de barro y hojas](../capitulos/47.md) · 00:20:05.320
+
+Tipo: `hecho_confirmado`.
+
+Mientras Tenta abraza a Tesa, ambas oyen agitación entre los matorrales. Chopito manda investigar y Tesa vuelve a sacar la pistola. De entre las hojas sale Patata, con barro y vegetación en la armadura; se disculpa por asustarlas y explica que lleva un tiempo huyendo de Shiaru.
+
+La descripción sugiere una marcha fatigosa, pero no fija el número de días ni una persecución activa hasta este punto de la jungla.
+
+## [47-016 · Patata conserva su propia fe y Tesa traduce a Chopito](../capitulos/47.md) · 00:22:12.240
+
+Tipo: `declaracion_personaje`.
+
+Patata se presenta como clérigo que quiere repartir la palabra de su señor. Chopito le ofrece cobijo a cambio de obediencia; Patata responde que ya tiene su propia diosa. Cuando se aclara que no entiende las burbujas de Aquan, Tesa le traduce que el pulpo quiere ser su amigo, propuesta que acepta.
+
+El pasaje no da nombre a la diosa ni convierte la amistad en sumisión religiosa. La traducción amistosa de Tesa suaviza la condición de obediencia formulada por Chopito.
+
+## [47-017 · Patata comunica que otros piratas tomaron Shiaru y destruyeron su casa](../capitulos/47.md) · 00:23:00.520
+
+Tipo: `declaracion_personaje`.
+
+Patata explica a Tesa que Shiaru era un pueblo de piratas gobernado por Bonny, a quien describe como muy peligrosa. Dice que ahora parece muerta, que expulsaron a quienes vivían allí y que hay nuevos piratas. Atribuye su huida a la destrucción de su casa.
+
+El cuerpo visto por Patata está respaldado por el director al inicio. La expulsión general, los ocupantes y la casa son aquí su relato: no se nombra a sus responsables ni se describe el estado de cada habitante o edificio.
+
+## [47-018 · Patata lava su armadura en el lago](../capitulos/47.md) · 00:24:06.960
+
+Tipo: `hecho_confirmado`.
+
+Patata pregunta dónde puede limpiar la armadura y descansar. Tesa le sitúa Iktan a una hora y Tenta le ofrece el agua del lago del que acaba de salir. El director describe un lago enorme de agua transparente; Patata se acerca y empieza a refrescarse y limpiarse.
+
+La transparencia observada no constituye un análisis de potabilidad o ausencia de veneno. El lavado no identifica la armadura como el equipo confiscado en capítulos antiguos.
+
+## [47-021 · El suelo de las ruinas empieza a moverse](../capitulos/47.md) · 00:30:15.720
+
+Tipo: `hecho_confirmado`.
+
+Durante la conversación se oyen ruidos y las plantas y raíces de alrededor de las ruinas se mueven paulatinamente: unas penetran más en el suelo y otras salen. Patata saca escudo y martillo con forma de patata, Tesa prepara la pistola y Tenta se aparta para proteger a Chopito.
+
+Nadie obtiene una explicación arcana del fenómeno. Las bromas sobre que llegará un hombre topo no incorporan tal criatura a la escena.
+
+## [47-022 · Las raíces levantan cadáveres y mueven sus cuerpos](../capitulos/47.md) · 00:33:15.919
+
+Tipo: `explicacion_director`.
+
+Las raíces abren el suelo y sacan manos y cadáveres enterrados. Al levantarse se distingue que las plantas han penetrado en cuerpos y restos humanos y los están moviendo. El director describe un grupo de zombis conducido por esas raíces.
+
+No se identifican los muertos, su número total o el agente último que anima las plantas. El aspecto zombi no demuestra una resurrección personal ni que estos cuerpos sean los mismos del capítulo 40.
+
+## [47-024 · Tesa advierte de un posible vínculo entre las plantas y el dragón verde](../capitulos/47.md) · 00:35:17.960
+
+Tipo: `declaracion_personaje`.
+
+Tesa dice reconocer a medias estas criaturas por otra ocasión y avisa al grupo de que están controladas por una planta extraña. Añade que esa planta puede obedecer a un dragón verde y que este puede meterse en sus cabezas.
+
+La relación con el dragón se formula como posibilidad y recuerdo de Tesa. No aparece aquí el dragón ni se adjudica una intrusión mental actual. No se establece el nombre Clolgedranx por esta advertencia.
+
+## [47-026 · El disparo de Escupefuego provoca una salpicadura que hiere al grupo](../capitulos/47.md) · 00:37:42.920
+
+Tipo: `hecho_confirmado`.
+
+Tesa prueba su pistola Escupefuego contra las plantas que recubren a los zombis. Impacta en uno más verde, del que salta una salpicadura. El director adjudica seis puntos de daño a los presentes y especifica que Chopito también los recibe. Se confirma el gasto de una carga de Escupefuego.
+
+El director relaciona la adjudicación con una carta del chat: la carta pertenece al procedimiento de mesa, no a una persona o fuerza diegética. Las bromas sobre matar a Chopito no declaran que muera. No se identifica la composición de la salpicadura.
+
+## [47-030 · El aura de un zombi envenena a Patata e impide que se cure](../capitulos/47.md) · 00:42:43.839
+
+Tipo: `hecho_confirmado`.
+
+Un zombi avanza hacia Patata y emplea su acción para acercarse con su aura apestosa. Antes de que Patata se mueva debe superar una salvación de Constitución; obtiene diez y falla. El director lo declara envenenado e incapaz de recuperar puntos de vida hasta el final de su siguiente turno.
+
+La imposibilidad de recuperar vida tiene la duración adjudicada, hasta el final del siguiente turno. No se extrapola una secuela permanente ni se ofrece un diagnóstico posterior.
+
+## [47-031 · Patata atemoriza a casi todos los no muertos](../capitulos/47.md) · 00:44:15.200
+
+Tipo: `hecho_confirmado`.
+
+Patata elige una capacidad cuyo nombre queda transcrito de forma defectuosa como «trundez», coherente con la expulsión de no muertos que se resuelve a continuación. El director dice que todos menos uno empiezan a asustarse. Se revisa el alcance del efecto sobre enemigos fuera de la vista y se acepta que puedan oírlo.
+
+No se reconstruyen todas las tiradas individuales ni la posición de cada esqueleto: la frase siguiente del VTT sobre quién ha fallado es imprecisa. No se afirma todavía la huida efectiva o destrucción de los afectados.
+
+## [47-032 · Patata impacta con un ataque de nivel tres](../capitulos/47.md) · 00:45:07.079
+
+Tipo: `hecho_confirmado`.
+
+Patata anuncia un lanzamiento de nivel tres y un ataque. El director confirma que impacta; la batalla contra los cadáveres continúa.
+
+El nombre del conjuro y su daño no resultan legibles en estos tres segmentos. Tampoco se adjudica aquí la muerte del objetivo ni el desenlace de la batalla.
+
+## [47-033 · Los expulsados se apartan de Patata](../capitulos/47.md) · 00:45:29.000
+
+Tipo: `hecho_confirmado`.
+
+Varios muertos animados emplean su movimiento en alejarse de Patata. La mesa aclara que la expulsión limita sus acciones a correr o destrabarse y que recibir daño permite volver a actuar. No todos ven a Patata; algunos se apartan sin localizarlo. La reducción de movimiento aplicada antes continúa afectando a uno de ellos.
+
+El director distingue la expulsión de la condición de miedo. El efecto iniciado por Patata continúa y puede romperse al dañar a los objetivos.
+
+## [47-037 · Mictlan esquiva y Patata sostiene la ofensiva](../capitulos/47.md) · 00:52:19.839
+
+Tipo: `hecho_confirmado`.
+
+Un muerto animado se coloca delante de Mictlan e intenta golpearlo dos veces; ambos ataques fallan. Patata responde con un impacto y mueve su espada espiritual, cuyo desplazamiento se corrige a veinte pies. Otros muertos siguen alejándose de él, mientras un adversario ya herido recupera la capacidad de avanzar y correr hacia el combate.
+
+La comparación con el poder ilimitado y los comentarios sobre clérigos son bromas y reglas, sin revelación de un poder ilimitado de Patata.
+
+## [47-038 · Una voz implanta la necesidad de atraer a dos elfos](../capitulos/47.md) · 00:54:45.359
+
+Tipo: `hecho_confirmado`.
+
+Durante la lucha el ambiente se vuelve pesado y todos realizan una salvación de Sabiduría contra una influencia de encantamiento. El director aplica el resultado a todos, incluida Tesara: sienten una presencia invasiva dentro de la cabeza, ven imágenes de dos elfos de piel pálida y reciben la orden de atraerlos al bosque. Saben que la idea es ajena, pero sienten la necesidad de cumplirla.
+
+Las imágenes no certifican la situación real de los elfos en ese instante. La broma sobre los ruidos de la cocina no forma parte de la visión. La identidad de la voz se confirma dentro de este mismo bloque en 47-050.
+
+## [47-040 · Un muerto se levanta y Mictlan lo remata](../capitulos/47.md) · 00:59:07.480
+
+Tipo: `hecho_confirmado`.
+
+Mictlan decide usar el estoque contra los dos adversarios cercanos. Al golpear a uno, el director resuelve una salvación de Constitución y lo devuelve a un punto de vida. Un nuevo impacto lo mata; aclara que no vuelve a emplear ese recurso al caer desde un solo punto de vida. La duda sobre si la expulsión debía destruirlos se resuelve indicando que estas criaturas no son las de desafío tan bajo a las que se refería el jugador.
+
+Hay confusión momentánea de selección en la interfaz. El director termina identificando como muerto al objetivo de arriba; no se convierten los dos ataques en dos bajas ni se fija el valor de desafío exacto.
+
+## [47-042 · La exigencia consiste en sacar a los elfos de la ciudad](../capitulos/47.md) · 01:03:07.839
+
+Tipo: `explicacion_director`.
+
+Ante una pregunta de la mesa, el director precisa el contenido de la visión: muestra a los dos elfos pálidos y pide sacarlos de la ciudad para llevarlos a la jungla. Se trata de entregárselos a la presencia, no de una amenaza que los elfos hayan comunicado al grupo.
+
+El pasaje no explica por qué la presencia los quiere ni por qué necesita intermediarios; tampoco nombra la ciudad dentro de esta aclaración.
+
+## [47-045 · El grupo mantiene los ataques a distancia](../capitulos/47.md) · 01:05:33.279
+
+Tipo: `hecho_confirmado`.
+
+Patata invoca el poder de su dios para un ataque radiante; el adversario supera su salvación. Después presta atención al compañero felino, aunque los subtítulos no permiten certificar una cantidad de curación. Los muertos avanzan despacio o continúan huyendo de la expulsión, y el siguiente turno mantiene dos impactos desde fuera del cuerpo a cuerpo para evitar gastar más recursos.
+
+No se adjudica daño al ataque radiante resistido ni una curación concreta al fragmento «vamos a ponerlo poco». El turno a distancia se atribuye por secuencia de iniciativa, sin inventar el nombre del conjuro.
+
+## [47-047 · Los rayos y el daño radiante acorralan a los últimos](../capitulos/47.md) · 01:09:04.120
+
+Tipo: `hecho_confirmado`.
+
+Tras una pausa técnica de la mesa, Tentacol recoloca el tentáculo, ataca y vuelve a empujar y ralentizar a los muertos con sus rayos. Patata mata a otro mediante daño radiante. Todavía queda movimiento de un adversario en el turno siguiente, por lo que la impresión de que solo faltaba uno no da el combate por terminado.
+
+La pausa y las bromas de hackeo de Foundry son incidencias de la herramienta. La frase «tengo que buscar al elfa» se conserva como intención, sin afirmar que se encuentre o entregue a nadie.
+
+## [47-048 · La voz promete una recompensa por los elfos](../capitulos/47.md) · 01:11:15.719
+
+Tipo: `declaracion_personaje`.
+
+La presencia vuelve a mostrar a los dos elfos y repite que se los lleven. Promete recompensar al grupo si los saca de la ciudad y los entrega fuera, en la jungla.
+
+La promesa no acredita una recompensa disponible, cobrada o definida. No se especifica la condición de los elfos ni el motivo del encargo.
+
+## [47-049 · Las raíces reúnen los cuerpos en una masa](../capitulos/47.md) · 01:11:36.400
+
+Tipo: `hecho_confirmado`.
+
+El grupo termina con los muertos que quedaban, pero la voz continúa presionándolo. Las raíces, ramas y flores que movían aquellos cuerpos los arrastran por el suelo y los concentran en un punto. La presencia amenaza con que el grupo sufrirá la misma suerte si no obedece. Los cuerpos se unen en una masa enorme de zombis de la que caen fragmentos de cráneos y brazos; la lucha se reanuda contra esa forma colectiva.
+
+La formación de la masa se ve; la amenaza es una declaración de la voz. No se identifica la biografía de los cadáveres ni se demuestra que la voz causara todas sus muertes. La tirada para recargar tinta se permite, pero aquí no se anuncia su resultado.
+
+## [47-052 · Una rama rebota en la presencia oculta](../capitulos/47.md) · 01:17:30.400
+
+Tipo: `hecho_confirmado`.
+
+Tesara dispara contra la vegetación situada encima del hueco para hacer caer una rama o una maraña de lianas sobre lo que se oculta. La bala cruza cerca de Patata y del felino, rompe una rama y esta rebota sobre algo invisible. Se oye una risa y un comentario que reconoce su capacidad de observar. La rama no inmoviliza a la presencia y Tesara cambia de arbustos para esconderse otra vez.
+
+El resultado es una rama que golpea o rebota sobre algo oculto, sin daño cuantificado, red eficaz o revelación visual. El director comenta que se ha tirado una rama sobre un dragón.
+
+## [47-054 · Patata evita quedar envuelto en los cadáveres](../capitulos/47.md) · 01:21:08.480
+
+Tipo: `hecho_confirmado`.
+
+Al haber sido alejada la masa, Patata se queda donde estaba y no logra una ofensiva eficaz en ese turno. La criatura avanza y se arroja sobre él para envolverlo. Patata supera la salvación de Fuerza: recibe daño, pero no queda atrapado dentro y la masa cae a su lado.
+
+Evitar el envolvimiento no equivale a ser inmune a posesiones. La frase «la patata no se puede poseer» es una broma posterior al éxito de la salvación.
+
+## [47-055 · Mictlan maldice a la masa y dispara desde lejos](../capitulos/47.md) · 01:23:04.600
+
+Tipo: `hecho_confirmado`.
+
+Tras un turno oculto del adversario, Mictlan impone su propia maldición a la masa: explica que añade dos puntos de daño y amplía los críticos a diecinueve y veinte. Prefiere atacar desde su posición mientras Patata está junto a la criatura. El primer ataque falla y el segundo impacta.
+
+La habilidad no se equipara a Hex solo por llamarse maldición. La broma sobre que la masa abraza a Patata no revoca la salvación superada ni establece que esté apresado.
+
+## [47-057 · Tentacol vuelve a apartar la masa de Patata](../capitulos/47.md) · 01:26:39.159
+
+Tipo: `hecho_confirmado`.
+
+Tentacol intenta acercar el tentáculo y el director señala un muro que impide atravesar la ruta elegida. Lo recoloca por un paso permitido y golpea a la masa, añadiendo Hex. Un rayo posterior la vuelve a empujar diez pies y los efectos del rayo y del tentáculo le reducen el movimiento.
+
+La corrección de la tirada de daño no proporciona una estadística completa del enemigo. El muro es un obstáculo del escenario; no basta para fijar un edificio, templo o civilización.
+
+## [47-058 · Patata deshace la masa y las raíces se retiran](../capitulos/47.md) · 01:28:07.199
+
+Tipo: `hecho_confirmado`.
+
+Patata golpea primero con el arma espiritual. La criatura supera una salvación y queda a un punto de vida. Su siguiente ofensiva acaba con ella: la masa se dispersa en cuerpos que caen por el suelo. El director confirma que todos esos cadáveres están totalmente inertes y que las raíces se retiran hacia la tierra. La presencia que Tesara sigue permanece oculta; un intento de localizarla a ella no tiene éxito.
+
+La destrucción de la masa y la retirada de las raíces no prueban la muerte del dragón o el final de su influencia. No se certifica visión verdadera: el director rechaza que esa sea la explicación de la búsqueda de Tesara.
+
+## [47-059 · Mictlan busca a los compañeros y no encuentra a Tesara](../capitulos/47.md) · 01:30:27.679
+
+Tipo: `hecho_confirmado`.
+
+Al no ver más enemigos, Mictlan empieza a comprobar cómo están los demás. Puede localizar a Patata y Tentacol, pero la búsqueda de Tesara no supera su escondite. El director conserva los turnos de combate y pide esperar al turno de cada cual para cualquier asistencia o curación.
+
+Tesara no ha desaparecido de la escena ni está secuestrada: permanece escondida. La intención de curar al felino no es todavía una curación resuelta.
+
+## [47-062 · Patata ofrece ayuda y pregunta el nombre del felino](../capitulos/47.md) · 01:33:46.719
+
+Tipo: `hecho_confirmado`.
+
+Patata se acerca al compañero felino para echarle una mano y le pregunta cómo se llama. El otro responde con el nombre que los subtítulos escriben «mi clan»; Patata propone abreviarlo como Mic y la mesa repite la pronunciación.
+
+La grafía Mictlan se contrasta con la escena escrita posterior x-1531013198478708756; la cita conserva «mi clan». La curación continúa después, en 47-063, y no se da por resuelta en este intercambio.
+
+## [47-063 · Patata desaparece durante la curación y vuelve a ser visible](../capitulos/47.md) · 01:34:05.719
+
+Tipo: `hecho_confirmado`.
+
+Mientras Patata está curando al felino, una magia que el director describe como salida de los zombis vuelve invisible a toda criatura dentro de treinta pies; en la escena afecta a Patata. El director aclara que procede de una carta de la mesa. Más adelante Patata vuelve a aparecer y se precisa una duración de un minuto.
+
+No atribuir la invisibilidad a una técnica aprendida de Patata, al dragón o a una curación fallida. El minuto es duración declarada del efecto; la conversación ocupa más tiempo de grabación. La curación venía del bloque anterior y este tramo no fija su cantidad.
+
+## [47-068 · Las raíces inmovilizan al grupo](../capitulos/47.md) · 01:44:52.920
+
+Tipo: `hecho_confirmado`.
+
+Cuando Tesara trata de observar dónde sigue la criatura, nota raíces entre los dedos, en el brazo y bajo el cuerpo. También rodean los pies del felino, Patata y Tentacol. Tras las salvaciones de fuerza, el director declara que todos quedan atrapados y no logran moverse haciendo fuerza.
+
+No convertir el efecto en daño físico, muerte o control mental. El contexto lo relaciona con la aparición del dragón, sin que se verbalice aquí un conjuro de nombre determinado.
+
+## [47-069 · El dragón se muestra y exige a los elfos](../capitulos/47.md) · 01:46:39.840
+
+Tipo: `hecho_confirmado`.
+
+La vegetación se agita y el dragón deja de estar invisible. Aparece enroscado entre las ramas con la cola y baja de los árboles con movimientos ágiles, silenciosos para su tamaño. Mientras el grupo está atrapado exige que le lleven a los elfos; amenaza con comerse a cada uno y añadirlos a su hueste de muertos.
+
+La amenaza y la hueste son palabras del dragón. En este pasaje no devora a nadie, no convierte al grupo en muertos ni exhibe un nuevo ejército materializado.
+
+## [47-077 · Tesara guía el regreso a Iktan](../capitulos/47.md) · 01:57:54.960
+
+Tipo: `hecho_confirmado`.
+
+Los viajeros siguen a Tesara de vuelta a Iktan, ciudad de plantas y colores que algunos aún no conocían. Ella señala la taberna y las ruinas junto al lago y se apresura a buscar a los elfos. Patata y el felino la siguen, este último porque desconfía de ella.
+
+No se fija cuánto dura el camino ni una nueva ruta secreta revelada. La llegada a la ciudad no equivale a encontrar a los elfos.
+
+## [47-079 · Patata encuentra a los piratas en la taberna de Iktan](../capitulos/47.md) · 02:00:10.840
+
+Tipo: `hecho_confirmado`.
+
+Patata reconoce en la taberna a los piratas que frecuentaban la de Shiaru. Al preguntar por la capitana, ellos responden que los echaron del pueblo y tuvieron que venir hasta allí. Le dan cerveza, que prueba y aprecia, y comentan que están agotando las existencias de la encargada.
+
+El motivo de la salida de Shiaru es testimonio de los piratas; no identifica quién gobierna ahora ni una nueva inspección del puerto. La descripción de estar en idéntica posición con las mismas botellas es humor de continuidad, no una duplicación o bucle mágico.
+
+## [47-081 · Tesara y el felino llevan el aviso a Walulu](../capitulos/47.md) · 02:04:06.960
+
+Tipo: `hecho_confirmado`.
+
+Tras explicar en la taberna que el dragón ha amenazado con la caída de la ciudad, Tesara decide avisar primero a Walulu. Patata permanece con su cerveza; el felino acompaña a la historiadora porque no se fía de ella. Encuentran a Walulu preparando pastas de plantas y medicinas, y Tesara le expone el ultimátum de una semana por los elfos.
+
+La audiencia es sobre el dragón. No confundirla con la consulta pendiente de Citlali e Ione sobre la maldición o dar aquella misión por resuelta.
+
+## [47-090 · Angelique cuenta a Patata su encuentro con Zoltan](../capitulos/47.md) · 02:17:15.880
+
+Tipo: `declaracion_personaje`.
+
+Patata intenta cortejar a la encargada, que deriva la conversación hacia un recién llegado de torso desnudo, herida y chispas. Dice que estuvo con él el día anterior, promete presentárselo y finalmente lo nombra Zoltan. Lo describe mientras Patata sigue en la taberna; Tesara y el felino regresan de hablar con Walulu y Chopito continúa la imitación de Tortas en el cierre.
+
+No se representa una nueva aparición de Zoltan ni la presentación prometida. La expresión «ayer» pertenece al testimonio de Angelique; no sirve por sí sola para cerrar un calendario. Las comparaciones de mesa con otros personajes o campañas no incorporan sus identidades a Xoltacan.
 

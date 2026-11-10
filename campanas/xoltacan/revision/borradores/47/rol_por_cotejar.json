@@ -1,0 +1,116 @@
+{
+  "ancla": {
+    "capitulo": 47,
+    "fecha": "2026-07-24",
+    "estado": "documentada",
+    "catalogado": true,
+    "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1530274670023278874",
+    "inicio_referencia_utc": "2026-07-24T18:01:14+00:00",
+    "hora_prevista": null,
+    "tipo_referencia": "tarjeta_twitch",
+    "duracion_video_segundos": 8411,
+    "fin_estimado_utc": "2026-07-24T20:21:25+00:00",
+    "corte_ordenacion_utc": "2026-07-24T20:21:25+00:00"
+  },
+  "cambios": [
+    {
+      "escena": "x-1529957197948260414",
+      "titulo": "Eleanor encuentra a Erandi en Iktan",
+      "antes": [
+        46,
+        47,
+        "despues_del_catalogo"
+      ],
+      "nuevo": [
+        46,
+        47,
+        "entre_capitulos"
+      ],
+      "archivo": "campanas/xoltacan/conocimiento/rol_escrito/escenas/x-1529957197948260414.json",
+      "mensajes": 2
+    },
+    {
+      "escena": "x-1530316770995339374",
+      "titulo": "Ilikar logra predecir la hoja",
+      "antes": [
+        46,
+        47,
+        "despues_del_catalogo"
+      ],
+      "nuevo": [
+        47,
+        48,
+        "despues_del_catalogo"
+      ],
+      "archivo": "campanas/xoltacan/conocimiento/rol_escrito/escenas/x-1530316770995339374.json",
+      "mensajes": 1
+    }
+  ],
+  "cruzan": [],
+  "cercanas": [
+    {
+      "escena": "x-1529725213242298398",
+      "titulo": "El encargo secreto de Unthuar",
+      "inicio": "2026-07-23T05:41:51.757000+00:00",
+      "fin": "2026-07-23T05:41:55.528000+00:00",
+      "archivo": "campanas/xoltacan/conocimiento/rol_escrito/escenas/x-1529725213242298398.json",
+      "mensajes": 2
+    },
+    {
+      "escena": "x-1529725326790496439",
+      "titulo": "Nistra habla de su hermano Jely",
+      "inicio": "2026-07-23T05:42:18.829000+00:00",
+      "fin": "2026-07-23T05:42:50.969000+00:00",
+      "archivo": "campanas/xoltacan/conocimiento/rol_escrito/escenas/x-1529725326790496439.json",
+      "mensajes": 3
+    },
+    {
+      "escena": "x-1529957197948260414",
+      "titulo": "Eleanor encuentra a Erandi en Iktan",
+      "inicio": "2026-07-23T21:03:41.221000+00:00",
+      "fin": "2026-07-23T21:13:06.330000+00:00",
+      "archivo": "campanas/xoltacan/conocimiento/rol_escrito/escenas/x-1529957197948260414.json",
+      "mensajes": 2
+    },
+    {
+      "escena": "x-1530316770995339374",
+      "titulo": "Ilikar logra predecir la hoja",
+      "inicio": "2026-07-24T20:52:30.116000+00:00",
+      "fin": "2026-07-24T20:52:30.116000+00:00",
+      "archivo": "campanas/xoltacan/conocimiento/rol_escrito/escenas/x-1530316770995339374.json",
+      "mensajes": 1
+    },
+    {
+      "escena": "x-1530356065936347307",
+      "titulo": "Ilikar pide ayuda para su tripulación",
+      "inicio": "2026-07-24T23:28:38.760000+00:00",
+      "fin": "2026-07-25T13:53:14.089000+00:00",
+      "archivo": "campanas/xoltacan/conocimiento/rol_escrito/escenas/x-1530356065936347307.json",
+      "mensajes": 6
+    },
+    {
+      "escena": "x-1530518117015490690",
+      "titulo": "Eleanor devuelve la calma a Erandi",
+      "inicio": "2026-07-25T10:12:34.748000+00:00",
+      "fin": "2026-07-25T13:45:54.153000+00:00",
+      "archivo": "campanas/xoltacan/conocimiento/rol_escrito/escenas/x-1530518117015490690.json",
+      "mensajes": 10
+    },
+    {
+      "escena": "x-1530576387507753053",
+      "titulo": "El ultimátum que pesa sobre los hermanos",
+      "inicio": "2026-07-25T14:04:07.516000+00:00",
+      "fin": "2026-07-26T16:09:35.352000+00:00",
+      "archivo": "campanas/xoltacan/conocimiento/rol_escrito/escenas/x-1530576387507753053.json",
+      "mensajes": 80
+    },
+    {
+      "escena": "x-1530644840214429887",
+      "titulo": "Citlali ayuda a Zoltan durante una crisis de memoria",
+      "inicio": "2026-07-25T18:36:07.913000+00:00",
+      "fin": "2026-07-25T23:56:12.903000+00:00",
+      "archivo": "campanas/xoltacan/conocimiento/rol_escrito/escenas/x-1530644840214429887.json",
+      "mensajes": 64
+    }
+  ]
+}

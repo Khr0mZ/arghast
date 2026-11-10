@@ -12,7 +12,7 @@ Base para revisar equivalencia: [46-054](../capitulos/46.md), [46-055](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### La profesora y las reuniones de madres
 

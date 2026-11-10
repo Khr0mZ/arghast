@@ -8,11 +8,11 @@ Conservar separado de una identificación arquitectónica o institucional autom�
 
 Etiquetas agrupadas: Colegio de Iktan.
 
-Base para revisar equivalencia: [45-002](../capitulos/45.md), [45-003](../capitulos/45.md), [45-004](../capitulos/45.md), [45-010](../capitulos/45.md), [45-018](../capitulos/45.md), [46-054](../capitulos/46.md), [46-055](../capitulos/46.md), [46-056](../capitulos/46.md), [46-064](../capitulos/46.md).
+Base para revisar equivalencia: [45-002](../capitulos/45.md), [45-003](../capitulos/45.md), [45-004](../capitulos/45.md), [45-010](../capitulos/45.md), [45-018](../capitulos/45.md), [46-054](../capitulos/46.md), [46-055](../capitulos/46.md), [46-056](../capitulos/46.md), [46-064](../capitulos/46.md), [47-004](../capitulos/47.md), [47-005](../capitulos/47.md), [47-006](../capitulos/47.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### Las dos horas anteriores al viaje
 
@@ -25,6 +25,12 @@ Fuentes: [45-002 · Iktan está junto al lago llamado Tachan](../capitulos/45.md
 Citlali encuentra a Etley con Leo a la salida del colegio. Miausi se queja del comportamiento de Leo, explica cómo llegó la cría e invita a su cuidadora a las reuniones dominicales. Tras la reprimenda de Citlali, Leo corre a buscar a su madre y ella se lleva a Etley, que aún lleva el gorro y la mochila.
 
 Fuentes: [46-054 · Citlali encuentra a Etley con Leo a la salida del colegio](../capitulos/46.md) · 01:58:52.520 · [46-055 · Miausi invita a Citlali a la reunión de madres](../capitulos/46.md) · 02:00:55.719 · [46-056 · Citlali reprende a Leo y se lleva a Etley](../capitulos/46.md) · 02:02:00.520 · [46-064 · Citlali intenta enseñar buenos modales a Etley](../capitulos/46.md) · 02:19:39.960.
+
+### Un nuevo día para Leo
+
+Tesa deja a Leo en su puerta mientras él se queja de una agresión anterior ocurrida, según su versión, allí mismo. Tras una disputa y un gesto insultante, el niño entra corriendo cuando ella saca el látigo. La llegada permite a Tesa dedicar tiempo a sus propios estudios.
+
+Fuentes: [47-004 · Tesa lleva a Leo al colegio y reclama que vuelva su madre](../capitulos/47.md) · 00:03:27.879 · [47-005 · Leo acusa a una mujer de haberle pegado en el colegio](../capitulos/47.md) · 00:03:57.720 · [47-006 · Leo entra en el colegio después de provocar a Tesa](../capitulos/47.md) · 00:04:56.680.
 
 ## Registros y evidencias
 
@@ -91,4 +97,28 @@ Tipo: `hecho_confirmado`.
 Mientras Ione negocia, Citlali habla con Etley y le insiste en que sea un buen pollito y no imite las malas palabras de Leo. La cría se distrae con una mariposa. El director recuerda al cierre que lleva gorro y mochila del colegio, aunque sigue siendo un animal que no entiende por qué está allí.
 
 La intención educativa de Citlali no prueba que Etley aprenda a hablar, comprenda las explicaciones o pase a ser un niño humano.
+
+## [47-004 · Tesa lleva a Leo al colegio y reclama que vuelva su madre](../capitulos/47.md) · 00:03:27.879
+
+Tipo: `hecho_confirmado`.
+
+En Iktan, Tesa acompaña a Leo de la mano al colegio. Se queja de que lleva tres días con ella y considera que debería hacerse cargo su madre.
+
+Más tarde Tesa habla de tres o cuatro días y de cuatro días: no se convierte esa vacilación en una cronología exacta. La madre no aparece ni se la nombra aquí.
+
+## [47-005 · Leo acusa a una mujer de haberle pegado en el colegio](../capitulos/47.md) · 00:03:57.720
+
+Tipo: `declaracion_personaje`.
+
+Leo amenaza con contar a su madre que una mujer le pegó varias veces. Tesa cree primero que se escapó de los deberes y dice haberlo buscado por la taberna; él replica que estaba en el colegio, que una señora se llevó a su amigo y después le pegó. Ante las preguntas admite de forma evasiva haberla insultado y niega haber intentado robarla.
+
+El amigo aparece como «Écil» en el VTT. El contexto anterior permite proponer un cotejo con Eztli, pero no asignar aquí inequívocamente ese nombre ni atribuir la agresión a Citlali. Es testimonio de Leo, no una repetición observada del incidente.
+
+## [47-006 · Leo entra en el colegio después de provocar a Tesa](../capitulos/47.md) · 00:04:56.680
+
+Tipo: `hecho_confirmado`.
+
+Cuando Leo dice que Tesa parece vieja, ella declara que le da un golpe y él agacha las orejas. El niño insiste en que su madre castigará a las dos mujeres, hace un gesto insultante desde la puerta y sale corriendo hacia dentro cuando Tesa saca el látigo. Tesa queda libre para volver a la taberna.
+
+No se fija el tipo o daño del golpe. Sacar el látigo no prueba que llegue a azotarlo. La frase sobre el tío Johnny pertenece al comentario de Tesa y no desarrolla una nueva historia familiar.
 

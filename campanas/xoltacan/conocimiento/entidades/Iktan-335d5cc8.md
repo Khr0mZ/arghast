@@ -8,11 +8,11 @@ Ictan e Iktan corresponden al topónimo normalizado en las fichas.
 
 Etiquetas agrupadas: Iktan; Iktan (identificación contextual provisional).
 
-Base para revisar equivalencia: [01-007](../capitulos/01.md), [31-023](../capitulos/31.md), [43-003](../capitulos/43.md), [43-004](../capitulos/43.md), [45-002](../capitulos/45.md), [45-003](../capitulos/45.md), [45-004](../capitulos/45.md), [45-008](../capitulos/45.md), [45-012](../capitulos/45.md), [45-015](../capitulos/45.md), [45-018](../capitulos/45.md), [45-019](../capitulos/45.md), [46-004](../capitulos/46.md), [46-009](../capitulos/46.md), [46-011](../capitulos/46.md), [46-012](../capitulos/46.md), [46-015](../capitulos/46.md), [46-052](../capitulos/46.md), [46-053](../capitulos/46.md), [46-054](../capitulos/46.md), [46-055](../capitulos/46.md), [46-061](../capitulos/46.md), [46-063](../capitulos/46.md), [46-065](../capitulos/46.md).
+Base para revisar equivalencia: [01-007](../capitulos/01.md), [31-023](../capitulos/31.md), [43-003](../capitulos/43.md), [43-004](../capitulos/43.md), [45-002](../capitulos/45.md), [45-003](../capitulos/45.md), [45-004](../capitulos/45.md), [45-008](../capitulos/45.md), [45-012](../capitulos/45.md), [45-015](../capitulos/45.md), [45-018](../capitulos/45.md), [45-019](../capitulos/45.md), [46-004](../capitulos/46.md), [46-009](../capitulos/46.md), [46-011](../capitulos/46.md), [46-012](../capitulos/46.md), [46-015](../capitulos/46.md), [46-052](../capitulos/46.md), [46-053](../capitulos/46.md), [46-054](../capitulos/46.md), [46-055](../capitulos/46.md), [46-061](../capitulos/46.md), [46-063](../capitulos/46.md), [46-065](../capitulos/46.md), [47-073](../capitulos/47.md), [47-077](../capitulos/47.md), [47-079](../capitulos/47.md), [47-080](../capitulos/47.md), [47-081](../capitulos/47.md), [47-082](../capitulos/47.md), [47-083](../capitulos/47.md), [47-085](../capitulos/47.md), [47-086](../capitulos/47.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### La ciudad que no se deja encontrar fácilmente
 
@@ -73,6 +73,12 @@ Fuentes: [46-004 · La estampida separa a tres viajeras del grupo que iba a Ikta
 Citlali reconoce los senderos y guía a sus compañeros hasta Iktan después de perder el camino. La llegada reúne al grupo con la tripulación que espera en la taberna. En el colegio, Citlali recupera a Etley y recibe una invitación de Miausi. En las tiendas, Ione vende un collar a Froger y Eleanor se desprende de lo que llevaba. La visita propuesta a Walulu queda por hacer.
 
 Fuentes: [46-052 · Citlali reconoce el camino y el grupo llega a Iktan](../capitulos/46.md) · 01:50:32.080 · [46-053 · Ione encuentra a la tripulación en la taberna de Iktan](../capitulos/46.md) · 01:56:01.320 · [46-054 · Citlali encuentra a Etley con Leo a la salida del colegio](../capitulos/46.md) · 01:58:52.520 · [46-055 · Miausi invita a Citlali a la reunión de madres](../capitulos/46.md) · 02:00:55.719 · [46-061 · Citlali explica a Ione el drenaje como parte de su maldición](../capitulos/46.md) · 02:13:10.440 · [46-063 · Froger compra el collar a Ione por veinticuatro monedas](../capitulos/46.md) · 02:17:24.120 · [46-065 · Eleanor vende los objetos que llevaba](../capitulos/46.md) · 02:20:18.479.
+
+### La ciudad bajo el ultimátum
+
+Tesara devuelve a los viajeros a la ciudad, entre la taberna, el lago y las ruinas. La amenaza de una hueste contra Iktan conduce a la audiencia con Walulu. La dirigente explica la protección dracónica nacida del ataque de hace ciento veinte años y confía en su guardia para contener a los muertos. Acoge a los elfos y empieza a buscar una estrategia mientras el plazo de una semana sigue abierto.
+
+Fuentes: [47-073 · El ultimátum da una semana y amenaza a la ciudad](../capitulos/47.md) · 01:51:33.280 · [47-077 · Tesara guía el regreso a Iktan](../capitulos/47.md) · 01:57:54.960 · [47-079 · Patata encuentra a los piratas en la taberna de Iktan](../capitulos/47.md) · 02:00:10.840 · [47-080 · Angelique informa de la salida de la elfa y del entrenamiento de su hermano](../capitulos/47.md) · 02:02:28.400 · [47-081 · Tesara y el felino llevan el aviso a Walulu](../capitulos/47.md) · 02:04:06.960 · [47-082 · Walulu remite a un antiguo ritual tras el ataque del dragón](../capitulos/47.md) · 02:07:40.440 · [47-083 · La protección dracónica no detiene por sí sola a la hueste](../capitulos/47.md) · 02:10:27.199 · [47-085 · Walulu acepta estudiar una estrategia contra el dragón](../capitulos/47.md) · 02:12:58.280 · [47-086 · El felino prefiere entregar a los elfos y Walulu los acoge](../capitulos/47.md) · 02:13:42.840.
 
 ## Registros y evidencias
 
@@ -699,4 +705,100 @@ Tipo: `hecho_confirmado`.
 Eleanor decide desprenderse de los objetos acumulados para no seguir cargándolos. El director la dirige a un herrero y establece que se vendan a la mitad de su valor. La transacción se resuelve mediante el inventario mientras continúa la escena de los demás, y el cierre la presenta terminando de vender sus joyas y otras pertenencias.
 
 Los números sueltos y el cálculo que se traslada al chat no permiten fijar aquí un total literal fiable. No se identifica a este herrero con Armin de Shiaru o el de Cuicapalli.
+
+## [47-003 · Tenta sale de Perlasal con Chopito para buscar más súbditos](../capitulos/47.md) · 00:01:57.840
+
+Tipo: `declaracion_personaje`.
+
+La jugadora sitúa a Tenta y Chopito después de la estancia en Perlasal. Dice que los habitantes conocen a Tenta pero desconfían del pulpo, y que Chopito quiere volver a buscar súbditos leales. El director corrige que van en dirección a Iktan, sin haber llegado todavía.
+
+La reacción de los habitantes y el objetivo de reclutamiento son recapitulación. No se cuantifican los seguidores ni se confirma la divinidad que Chopito se atribuye.
+
+## [47-004 · Tesa lleva a Leo al colegio y reclama que vuelva su madre](../capitulos/47.md) · 00:03:27.879
+
+Tipo: `hecho_confirmado`.
+
+En Iktan, Tesa acompaña a Leo de la mano al colegio. Se queja de que lleva tres días con ella y considera que debería hacerse cargo su madre.
+
+Más tarde Tesa habla de tres o cuatro días y de cuatro días: no se convierte esa vacilación en una cronología exacta. La madre no aparece ni se la nombra aquí.
+
+## [47-007 · Angelique tolera a unos clientes nuevos porque pagan bien](../capitulos/47.md) · 00:06:24.800
+
+Tipo: `declaracion_personaje`.
+
+La taberna de Iktan tiene un ambiente distinto y empieza a oler mal desde una esquina. Tesa pregunta a Angelique por los desconocidos allí sentados. La tabernera los llama nuevos y de mala calaña, pero añade que beben mucho y pagan bien.
+
+No se identifica a esos clientes ni se demuestra que sean los piratas que ocuparon Shiaru. El juicio sobre su carácter es de Angelique.
+
+## [47-009 · Angelique da a Tesa el camino hacia las ruinas](../capitulos/47.md) · 00:10:49.279
+
+Tipo: `declaracion_personaje`.
+
+Angelique indica salir por la puerta norte, seguir el camino y girar a la derecha al ver tres calaveras de personas que, según dice, mataron la semana anterior. Advierte sobre los cocodrilos y sitúa las ruinas junto al lago. Tesa apunta las indicaciones en su libreto y parte.
+
+Es una ruta verbal, sin coordenadas. El segundo giro resulta impreciso en el VTT y la recapitulación de Tesa lo formula a la izquierda. Las tres muertes y su fecha son información atribuida a Angelique, sin identidad o autoría.
+
+## [47-012 · Chopito prefiere repartir sus acólitos entre más lugares](../capitulos/47.md) · 00:14:16.759
+
+Tipo: `declaracion_personaje`.
+
+Chopito convierte el desvío en una oportunidad: afirma que en Iktan, donde veneraban a una tortuga, ya consiguió algunos acólitos y que ahora conviene buscar otros sitios. Dice que pronto admirarán a un pulpo y propone investigar la jungla para extender sus seguidores.
+
+Son ambiciones y afirmaciones de Chopito. No prueban la sustitución del culto de Iktan, el número de acólitos ni un poder divino real.
+
+## [47-073 · El ultimátum da una semana y amenaza a la ciudad](../capitulos/47.md) · 01:51:33.280
+
+Tipo: `declaracion_personaje`.
+
+El dragón anuncia que enviará su hueste de no muertos a destruir la ciudad si agota su paciencia sin recibir a los elfos. Tras la negativa de Tesara y la amenaza personal contra Oliver, fija un plazo de una semana.
+
+La destrucción sigue siendo una amenaza condicional. El plazo no transcurre en este capítulo y no se narra el asalto o la entrega de los elfos.
+
+## [47-077 · Tesara guía el regreso a Iktan](../capitulos/47.md) · 01:57:54.960
+
+Tipo: `hecho_confirmado`.
+
+Los viajeros siguen a Tesara de vuelta a Iktan, ciudad de plantas y colores que algunos aún no conocían. Ella señala la taberna y las ruinas junto al lago y se apresura a buscar a los elfos. Patata y el felino la siguen, este último porque desconfía de ella.
+
+No se fija cuánto dura el camino ni una nueva ruta secreta revelada. La llegada a la ciudad no equivale a encontrar a los elfos.
+
+## [47-078 · Tentacol y Chopito imitan la meditación de Tortas](../capitulos/47.md) · 01:59:07.079
+
+Tipo: `hecho_confirmado`.
+
+Tentacol se queda con Chopito junto a Tortas para imitar su postura de meditación, en lugar de entrar con los demás en la taberna. El director los sitúa junto al anciano mientras el otro grupo entra.
+
+Las bromas sobre contagiarse una maldición por una encuesta no constituyen una maldición diegética confirmada. No se acredita entrenamiento concluido, nuevo poder o autorización formal como discípulos.
+
+## [47-081 · Tesara y el felino llevan el aviso a Walulu](../capitulos/47.md) · 02:04:06.960
+
+Tipo: `hecho_confirmado`.
+
+Tras explicar en la taberna que el dragón ha amenazado con la caída de la ciudad, Tesara decide avisar primero a Walulu. Patata permanece con su cerveza; el felino acompaña a la historiadora porque no se fía de ella. Encuentran a Walulu preparando pastas de plantas y medicinas, y Tesara le expone el ultimátum de una semana por los elfos.
+
+La audiencia es sobre el dragón. No confundirla con la consulta pendiente de Citlali e Ione sobre la maldición o dar aquella misión por resuelta.
+
+## [47-082 · Walulu remite a un antiguo ritual tras el ataque del dragón](../capitulos/47.md) · 02:07:40.440
+
+Tipo: `declaracion_personaje`.
+
+Walulu reconoce el asunto del dragón que persiguen los hermanos y que atacó a la elfa. Al escuchar la amenaza contra Iktan, sonríe y muestra un gran libro de historias antiguas y relatos de sus dirigentes. Explica que hace ciento veinte años, después del ataque del dragón, el antiguo líder realizó con otros miembros de las tribus un ritual protector. Mira hacia las ruinas al hablar de aquel desastre. Afirma que la protección se hizo contra la magia especial de los dragones y les impide entrar en la ciudad.
+
+Es explicación histórica de Walulu apoyada en el libro, no una visión o reconstrucción del ataque. No se da el nombre del antiguo líder, la fecha absoluta, los ingredientes o un texto íntegro del rito. El VTT reconoce el nombre como «Glendra Drax» y «Colgenrax»; la grafía de catálogo debe resolverla la coordinación.
+
+## [47-083 · La protección dracónica no detiene por sí sola a la hueste](../capitulos/47.md) · 02:10:27.199
+
+Tipo: `declaracion_personaje`.
+
+Walulu responde que el dragón no puede acceder de ninguna manera, tampoco sobrevolar la ciudad para llenarla de veneno: la considera protegida de la presencia e invasión de dragones. Ante los no muertos admite que la protección no los detiene, pero confía en la guardia. Razona que el dragón pide sacar a los elfos porque él no puede entrar y que permanecer en Iktan los mantiene seguros frente a él.
+
+La seguridad es valoración de Walulu; no equivale a invulnerabilidad universal ni a una victoria ya conseguida sobre los muertos. No trasladar el alcance del rito a serpientes, infiltradores o todas las amenazas mágicas.
+
+## [47-086 · El felino prefiere entregar a los elfos y Walulu los acoge](../capitulos/47.md) · 02:13:42.840
+
+Tipo: `declaracion_personaje`.
+
+Invitado a añadir algo, el felino insiste en que sería más fácil entregar a los elfos. Walulu afirma que son bienvenidos y estarán seguros mientras permanezcan en Iktan; sostiene que la guardia podrá hacer frente a las huestes de muertos. La objeción del felino sobre la seguridad del pueblo la deja pensativa.
+
+No se aprueba una entrega o sacrificio. La reacción pensativa de Walulu no revoca explícitamente su acogida ni confirma que vaya a cambiar de bando.
 

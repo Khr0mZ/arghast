@@ -8,11 +8,11 @@ Su pretensión de recibir adoración o poseer súbditos es testimonio suyo, sin 
 
 Etiquetas agrupadas: Chopito (pulpo, grafía provisional); Chopito.
 
-Base para revisar equivalencia: [41-006](../capitulos/41.md), [41-010](../capitulos/41.md), [41-020](../capitulos/41.md), [41-029](../capitulos/41.md), [41-030](../capitulos/41.md), [41-050](../capitulos/41.md), [45-005](../capitulos/45.md), [45-006](../capitulos/45.md), [45-018](../capitulos/45.md), [45-019](../capitulos/45.md), [45-020](../capitulos/45.md), [45-021](../capitulos/45.md), [45-027](../capitulos/45.md), [45-028](../capitulos/45.md), [45-030](../capitulos/45.md), [45-034](../capitulos/45.md), [45-037](../capitulos/45.md), [45-040](../capitulos/45.md), [45-043](../capitulos/45.md), [45-044](../capitulos/45.md), [45-045](../capitulos/45.md), [45-046](../capitulos/45.md), [45-048](../capitulos/45.md), [45-052](../capitulos/45.md), [45-057](../capitulos/45.md), [45-062](../capitulos/45.md), [45-066](../capitulos/45.md), [45-069](../capitulos/45.md), [45-072](../capitulos/45.md).
+Base para revisar equivalencia: [41-006](../capitulos/41.md), [41-010](../capitulos/41.md), [41-020](../capitulos/41.md), [41-029](../capitulos/41.md), [41-030](../capitulos/41.md), [41-050](../capitulos/41.md), [45-005](../capitulos/45.md), [45-006](../capitulos/45.md), [45-018](../capitulos/45.md), [45-019](../capitulos/45.md), [45-020](../capitulos/45.md), [45-021](../capitulos/45.md), [45-027](../capitulos/45.md), [45-028](../capitulos/45.md), [45-030](../capitulos/45.md), [45-034](../capitulos/45.md), [45-037](../capitulos/45.md), [45-040](../capitulos/45.md), [45-043](../capitulos/45.md), [45-044](../capitulos/45.md), [45-045](../capitulos/45.md), [45-046](../capitulos/45.md), [45-048](../capitulos/45.md), [45-052](../capitulos/45.md), [45-057](../capitulos/45.md), [45-062](../capitulos/45.md), [45-066](../capitulos/45.md), [45-069](../capitulos/45.md), [45-072](../capitulos/45.md), [47-012](../capitulos/47.md), [47-014](../capitulos/47.md), [47-016](../capitulos/47.md), [47-023](../capitulos/47.md), [47-026](../capitulos/47.md), [47-029](../capitulos/47.md), [47-038](../capitulos/47.md), [47-042](../capitulos/47.md), [47-043](../capitulos/47.md), [47-061](../capitulos/47.md), [47-066](../capitulos/47.md), [47-071](../capitulos/47.md), [47-075](../capitulos/47.md), [47-076](../capitulos/47.md), [47-078](../capitulos/47.md), [47-089](../capitulos/47.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### El pulpo al que se pide consejo
 
@@ -31,6 +31,24 @@ Fuentes: [41-029 · Chopito permite ver los viales verdosos](../capitulos/41.md)
 Chopito pretende reclutar a Tortas como súbdito y dirige a Tentacol, pero el Anciano solo acepta el viaje. Ayuda a guiar en la oscuridad, presta sus sentidos y combate junto al grupo. Al escuchar a los oficiantes pedir sacrificios para resucitar a un dios interpreta que hablan de él y se presenta en Aquan como su divinidad. Los enemigos no lo reconocen y ordenan atacar y capturar a Tentacol. El pulpo manda combatirlos y falla un intento de agarrarse a la cara de uno. Después Naór deja inconsciente al sacerdote a petición de Tentacol. Entre humo y una sombra agrandada, Chopito proclama su supremacía y lo mata abriéndose paso por su cuerpo. La muerte sí se representa; la divinidad, el culto previo y sus supuestas víctimas anteriores siguen siendo afirmaciones suyas.
 
 Fuentes: [45-005 · Chopito propone reclutar a Tortas](../capitulos/45.md) · 00:08:04.000 · [45-006 · Tortas acepta acompañarlos sin rendir culto a Chopito](../capitulos/45.md) · 00:10:30.839 · [45-018 · La guía pide buscar su escuadrón y Naór se aferra a Tortas](../capitulos/45.md) · 00:41:24.720 · [45-019 · El lago conduce por una gruta de corrientes hasta el mar](../capitulos/45.md) · 00:44:28.200 · [45-020 · La guía admite que huyó mientras quedaban compañeros](../capitulos/45.md) · 00:48:40.520 · [45-021 · Tentacol encuentra coral roto y señales de armas cortantes](../capitulos/45.md) · 00:50:22.440 · [45-027 · Naór impulsa a Tortas y todos escapan de los tiburones](../capitulos/45.md) · 01:03:21.079 · [45-028 · Tortas vira hacia el túnel y se raspa el caparazón](../capitulos/45.md) · 01:06:44.119 · [45-030 · Chopito guía a quienes no ven y Triel aporta luces](../capitulos/45.md) · 01:15:03.440 · [45-034 · Tentacol combate viendo a través de Chopito](../capitulos/45.md) · 01:26:48.600 · [45-037 · El rayo de Tentacol chamusca a dos enemigos y el tentáculo aporta frío](../capitulos/45.md) · 01:33:49.679 · [45-040 · Chopito interviene y Coyote le brinda inspiración](../capitulos/45.md) · 01:39:32.719 · [45-043 · Tortas reúne los cadáveres y conserva una mano](../capitulos/45.md) · 01:50:37.920 · [45-044 · Tres voces se oyen más allá del recodo y el idioma se corrige a Aquan](../capitulos/45.md) · 01:55:19.320 · [45-045 · La conversación exige sacrificios para resucitar a un dios](../capitulos/45.md) · 01:57:42.360 · [45-046 · El grupo sigue a Tentacol pese a la disputa sobre los sacrificios](../capitulos/45.md) · 01:59:19.000 · [45-048 · Los oficiantes rechazan la divinidad de Chopito y ordenan atacar](../capitulos/45.md) · 02:02:54.480 · [45-052 · Tentacol atraviesa a dos enemigos mientras el sacerdote alza el cuchillo](../capitulos/45.md) · 02:11:05.040 · [45-057 · El hechicero devuelve un rayo y anuncia la llegada de su dios](../capitulos/45.md) · 02:25:21.319 · [45-062 · Chopito no logra sujetar al sacerdote y este ordena detenerse a Coyote](../capitulos/45.md) · 02:38:48.279 · [45-066 · Tentacol debilita al último rival y Naór guarda una cabeza para Leo](../capitulos/45.md) · 02:49:51.439 · [45-069 · Chopito mata al sacerdote que habían conservado inconsciente](../capitulos/45.md) · 02:55:17.880 · [45-072 · Tentacol recuerda leyendas de un kraken de otro plano](../capitulos/45.md) · 03:03:19.000.
+
+### Dos intentos de reclutamiento y seis puntos de daño
+
+Prefiere buscar seguidores en más lugares antes que concentrarlos en Iktan. Intenta aprovechar la supuesta ignorancia de Tesa, pero descubre que entiende sus comentarios en Aquan. Ordena a Tenta abrazarla y más tarde ofrece cobijo a Patata bajo obediencia, sin conseguir una conversión. Ante el despertar de los muertos su tarro se oscurece de tinta en una reacción humorística. También recibe los seis puntos de daño de la salpicadura. Su acompañamiento no le concede un turno independiente del de Tenta.
+
+Fuentes: [47-012 · Chopito prefiere repartir sus acólitos entre más lugares](../capitulos/47.md) · 00:14:16.759 · [47-014 · Tesa entiende la conversación de Chopito en Aquan](../capitulos/47.md) · 00:18:40.799 · [47-016 · Patata conserva su propia fe y Tesa traduce a Chopito](../capitulos/47.md) · 00:22:12.240 · [47-023 · Chopito entinta el tarro ante los cadáveres](../capitulos/47.md) · 00:34:41.119 · [47-026 · El disparo de Escupefuego provoca una salpicadura que hiere al grupo](../capitulos/47.md) · 00:37:42.920 · [47-029 · Las descargas de Tenta empujan y ralentizan](../capitulos/47.md) · 00:41:35.640.
+
+### Un mandato presentado como idea propia
+
+Cuenta a Tentacol que ha visto a dos orejas picudas en una ciudad del bosque y que deben rescatarlas y llevarlas a la jungla. Anima a terminar deprisa con los muertos y presenta el propósito como su propio plan.
+
+Fuentes: [47-038 · Una voz implanta la necesidad de atraer a dos elfos](../capitulos/47.md) · 00:54:45.359 · [47-042 · La exigencia consiste en sacar a los elfos de la ciudad](../capitulos/47.md) · 01:03:07.839 · [47-043 · Chopito convierte la orden en su propio plan de rescate](../capitulos/47.md) · 01:03:29.039 · [47-061 · Tentacol se dirige a buscar a los elfos](../capitulos/47.md) · 01:33:29.040.
+
+### La negociación que no entrega a los elfos
+
+Chopito abofetea a Tesara para que reaccione y cuestiona su relato sobre el dragón. Anima mentalmente a Tentacol a negociar; rechaza Perlasal como recompensa porque lo considera suyo. Tras la retirada de la criatura consuela a Tesara y la acusa de marcarse un farol. Ya en Iktan imita a Tortas desde encima de Tentacol con apariencia de piedra.
+
+Fuentes: [47-066 · Chopito abofetea a Tesara y cuestiona su alarma](../capitulos/47.md) · 01:40:45.000 · [47-071 · Chopito rechaza que le ofrezcan Perlasal](../capitulos/47.md) · 01:49:04.280 · [47-075 · La criatura se retira invisible y los viajeros deciden volver](../capitulos/47.md) · 01:53:03.400 · [47-076 · Tesara sostiene la confianza en sus compañeros elfos](../capitulos/47.md) · 01:54:52.360 · [47-078 · Tentacol y Chopito imitan la meditación de Tortas](../capitulos/47.md) · 01:59:07.079 · [47-089 · La imitación de Tortas se presenta como una apariencia de piedra](../capitulos/47.md) · 02:16:25.119.
 
 ## Registros y evidencias
 
@@ -425,4 +443,244 @@ Tipo: `declaracion_personaje`.
 Al intentar reconocer el culto, Tentacol recuerda las leyendas de Perlasal sobre una enorme criatura de otro plano que vendría a destruir y conquistar el mundo. El nombre recordado es kraken. Su convicción personal sigue siendo que la criatura suprema es Chopito, y no el kraken del que hablan los habitantes.
 
 Las leyendas y la creencia de Tentacol se atribuyen a sus fuentes. No confirman la presencia actual de un kraken, una identidad entre este y Chopito ni que el ritual abortado lograra invocarlo.
+
+## [47-003 · Tenta sale de Perlasal con Chopito para buscar más súbditos](../capitulos/47.md) · 00:01:57.840
+
+Tipo: `declaracion_personaje`.
+
+La jugadora sitúa a Tenta y Chopito después de la estancia en Perlasal. Dice que los habitantes conocen a Tenta pero desconfían del pulpo, y que Chopito quiere volver a buscar súbditos leales. El director corrige que van en dirección a Iktan, sin haber llegado todavía.
+
+La reacción de los habitantes y el objetivo de reclutamiento son recapitulación. No se cuantifican los seguidores ni se confirma la divinidad que Chopito se atribuye.
+
+## [47-011 · Tenta y Chopito salen por otro punto del lago](../capitulos/47.md) · 00:13:27.199
+
+Tipo: `explicacion_director`.
+
+Tenta y Chopito emergen del agua cerca de las ruinas. El director recuerda que habían viajado a Perlasal por el lago y unos túneles sumergidos y aclara que el regreso los ha sacado por otra parte de la orilla. Tenta reconoce que no conoce el sitio y teme haberse equivocado de ruta; Chopito se acomoda después en el tarro.
+
+El lago no recibe nombre propio en este diálogo. La referencia no identifica todos los lagos mencionados en la campaña.
+
+## [47-012 · Chopito prefiere repartir sus acólitos entre más lugares](../capitulos/47.md) · 00:14:16.759
+
+Tipo: `declaracion_personaje`.
+
+Chopito convierte el desvío en una oportunidad: afirma que en Iktan, donde veneraban a una tortuga, ya consiguió algunos acólitos y que ahora conviene buscar otros sitios. Dice que pronto admirarán a un pulpo y propone investigar la jungla para extender sus seguidores.
+
+Son ambiciones y afirmaciones de Chopito. No prueban la sustitución del culto de Iktan, el número de acólitos ni un poder divino real.
+
+## [47-013 · Tesa baja la pistola ante Tenta y Chopito](../capitulos/47.md) · 00:15:22.320
+
+Tipo: `hecho_confirmado`.
+
+Tesa oye un paso extraño, descubre a Tenta y la apunta con la pistola para preguntarle si es amiga o enemiga. Tenta presenta al pulpo del tarro como su señor y asegura que no será hostil si no se le opone. Tras bromear sobre el proselitismo y preguntar por su objetivo, Tesa baja el arma.
+
+El parecido con religiones del mundo real forma parte de la conversación humorística; no establece una organización de campaña con esos nombres. Bajar el arma no constituye conversión o juramento.
+
+## [47-014 · Tesa entiende la conversación de Chopito en Aquan](../capitulos/47.md) · 00:18:40.799
+
+Tipo: `hecho_confirmado`.
+
+Chopito habla a Tenta en Aquan y considera que Tesa, por no conocer más ciudades, sería un recipiente vacío para sus ideas. La jugadora aclara que Tesa entiende Aquan; el director confirma que ha comprendido las palabras. Chopito se sorprende y ordena a Tenta abrazarla como posible discípula.
+
+La comprensión del idioma sí se confirma; la condición de discípula solo la propone Chopito. El abrazo posterior no demuestra que Tesa la acepte.
+
+## [47-015 · Patata aparece cubierto de barro y hojas](../capitulos/47.md) · 00:20:05.320
+
+Tipo: `hecho_confirmado`.
+
+Mientras Tenta abraza a Tesa, ambas oyen agitación entre los matorrales. Chopito manda investigar y Tesa vuelve a sacar la pistola. De entre las hojas sale Patata, con barro y vegetación en la armadura; se disculpa por asustarlas y explica que lleva un tiempo huyendo de Shiaru.
+
+La descripción sugiere una marcha fatigosa, pero no fija el número de días ni una persecución activa hasta este punto de la jungla.
+
+## [47-016 · Patata conserva su propia fe y Tesa traduce a Chopito](../capitulos/47.md) · 00:22:12.240
+
+Tipo: `declaracion_personaje`.
+
+Patata se presenta como clérigo que quiere repartir la palabra de su señor. Chopito le ofrece cobijo a cambio de obediencia; Patata responde que ya tiene su propia diosa. Cuando se aclara que no entiende las burbujas de Aquan, Tesa le traduce que el pulpo quiere ser su amigo, propuesta que acepta.
+
+El pasaje no da nombre a la diosa ni convierte la amistad en sumisión religiosa. La traducción amistosa de Tesa suaviza la condición de obediencia formulada por Chopito.
+
+## [47-017 · Patata comunica que otros piratas tomaron Shiaru y destruyeron su casa](../capitulos/47.md) · 00:23:00.520
+
+Tipo: `declaracion_personaje`.
+
+Patata explica a Tesa que Shiaru era un pueblo de piratas gobernado por Bonny, a quien describe como muy peligrosa. Dice que ahora parece muerta, que expulsaron a quienes vivían allí y que hay nuevos piratas. Atribuye su huida a la destrucción de su casa.
+
+El cuerpo visto por Patata está respaldado por el director al inicio. La expulsión general, los ocupantes y la casa son aquí su relato: no se nombra a sus responsables ni se describe el estado de cada habitante o edificio.
+
+## [47-021 · El suelo de las ruinas empieza a moverse](../capitulos/47.md) · 00:30:15.720
+
+Tipo: `hecho_confirmado`.
+
+Durante la conversación se oyen ruidos y las plantas y raíces de alrededor de las ruinas se mueven paulatinamente: unas penetran más en el suelo y otras salen. Patata saca escudo y martillo con forma de patata, Tesa prepara la pistola y Tenta se aparta para proteger a Chopito.
+
+Nadie obtiene una explicación arcana del fenómeno. Las bromas sobre que llegará un hombre topo no incorporan tal criatura a la escena.
+
+## [47-022 · Las raíces levantan cadáveres y mueven sus cuerpos](../capitulos/47.md) · 00:33:15.919
+
+Tipo: `explicacion_director`.
+
+Las raíces abren el suelo y sacan manos y cadáveres enterrados. Al levantarse se distingue que las plantas han penetrado en cuerpos y restos humanos y los están moviendo. El director describe un grupo de zombis conducido por esas raíces.
+
+No se identifican los muertos, su número total o el agente último que anima las plantas. El aspecto zombi no demuestra una resurrección personal ni que estos cuerpos sean los mismos del capítulo 40.
+
+## [47-023 · Chopito entinta el tarro ante los cadáveres](../capitulos/47.md) · 00:34:41.119
+
+Tipo: `declaracion_personaje`.
+
+Durante la aparición de los muertos se declara que el frasco de Chopito se vuelve negro y que sale algo de tinta, en una reacción interpretada con humor en la mesa.
+
+Reacción de interpretación humorística, sin un efecto ofensivo, veneno o nueva capacidad adjudicados. No se deriva de ella una naturaleza sobrenatural adicional.
+
+## [47-024 · Tesa advierte de un posible vínculo entre las plantas y el dragón verde](../capitulos/47.md) · 00:35:17.960
+
+Tipo: `declaracion_personaje`.
+
+Tesa dice reconocer a medias estas criaturas por otra ocasión y avisa al grupo de que están controladas por una planta extraña. Añade que esa planta puede obedecer a un dragón verde y que este puede meterse en sus cabezas.
+
+La relación con el dragón se formula como posibilidad y recuerdo de Tesa. No aparece aquí el dragón ni se adjudica una intrusión mental actual. No se establece el nombre Clolgedranx por esta advertencia.
+
+## [47-026 · El disparo de Escupefuego provoca una salpicadura que hiere al grupo](../capitulos/47.md) · 00:37:42.920
+
+Tipo: `hecho_confirmado`.
+
+Tesa prueba su pistola Escupefuego contra las plantas que recubren a los zombis. Impacta en uno más verde, del que salta una salpicadura. El director adjudica seis puntos de daño a los presentes y especifica que Chopito también los recibe. Se confirma el gasto de una carga de Escupefuego.
+
+El director relaciona la adjudicación con una carta del chat: la carta pertenece al procedimiento de mesa, no a una persona o fuerza diegética. Las bromas sobre matar a Chopito no declaran que muera. No se identifica la composición de la salpicadura.
+
+## [47-028 · Tenta invoca un tentáculo de frío y retrocede](../capitulos/47.md) · 00:39:57.480
+
+Tipo: `hecho_confirmado`.
+
+Tenta recurre al gran maestro Chopito y usa el Tentáculo de las profundidades. Tras resolver un problema de la herramienta de juego, coloca el tentáculo, ataca con él como acción adicional, declara daño de frío y retrocede.
+
+El fallo del botón es un problema de interfaz y no una pérdida de poderes del personaje. La comparación con un arma espiritual es comentario de la mesa, sin cambiar el nombre de la capacidad. El VTT no precisa aquí una cifra de daño.
+
+## [47-029 · Las descargas de Tenta empujan y ralentizan](../capitulos/47.md) · 00:41:35.640
+
+Tipo: `hecho_confirmado`.
+
+Después del tentáculo, Tenta lanza dos descargas. Se adjudican ambos impactos y desplazamientos de diez pies. Declara también una reducción de diez pies de movimiento y recuerda la ralentización del tentáculo. El director aclara que Chopito se desplaza con Tenta y no tiene un turno separado.
+
+No se calcula una suma definitiva de todas las reducciones de velocidad ni se atribuye cada efecto a todos los enemigos. El tablero no se reconstruye a partir de deícticos como «aquí».
+
+## [47-036 · Tentacol controla la distancia con el tentáculo y los rayos](../capitulos/47.md) · 00:50:28.440
+
+Tipo: `hecho_confirmado`.
+
+Tentacol coloca su tentáculo para atacar con la acción adicional y después lanza dos rayos. Los impactos desplazan a sus objetivos diez pies; aplica además una reducción de movimiento a uno. Se precisa que esa reducción no se aplica a todos por golpear dos veces. El grupo recuerda que dañar a un expulsado termina la limitación que lo hacía huir.
+
+Los nombres ingleses de conjuros aparecen deformados. El tentáculo invocado, Chopito y Tentacol no se convierten en una única criatura ni en tres nombres del mismo efecto.
+
+## [47-038 · Una voz implanta la necesidad de atraer a dos elfos](../capitulos/47.md) · 00:54:45.359
+
+Tipo: `hecho_confirmado`.
+
+Durante la lucha el ambiente se vuelve pesado y todos realizan una salvación de Sabiduría contra una influencia de encantamiento. El director aplica el resultado a todos, incluida Tesara: sienten una presencia invasiva dentro de la cabeza, ven imágenes de dos elfos de piel pálida y reciben la orden de atraerlos al bosque. Saben que la idea es ajena, pero sienten la necesidad de cumplirla.
+
+Las imágenes no certifican la situación real de los elfos en ese instante. La broma sobre los ruidos de la cocina no forma parte de la visión. La identidad de la voz se confirma dentro de este mismo bloque en 47-050.
+
+## [47-042 · La exigencia consiste en sacar a los elfos de la ciudad](../capitulos/47.md) · 01:03:07.839
+
+Tipo: `explicacion_director`.
+
+Ante una pregunta de la mesa, el director precisa el contenido de la visión: muestra a los dos elfos pálidos y pide sacarlos de la ciudad para llevarlos a la jungla. Se trata de entregárselos a la presencia, no de una amenaza que los elfos hayan comunicado al grupo.
+
+El pasaje no explica por qué la presencia los quiere ni por qué necesita intermediarios; tampoco nombra la ciudad dentro de esta aclaración.
+
+## [47-043 · Chopito convierte la orden en su propio plan de rescate](../capitulos/47.md) · 01:03:29.039
+
+Tipo: `declaracion_personaje`.
+
+Chopito le dice a Tentacol que acaba de tener una visión de dos orejas picudas en una ciudad del interior del bosque y que necesitan ser rescatadas y llevadas a la jungla. La interpretación se presenta como un plan que Chopito se apropia; anima a Tentacol a terminar deprisa con los muertos para cumplirlo.
+
+La necesidad de rescate es una interpretación de Chopito bajo la influencia, no una cautividad demostrada de los dos elfos ni una visión independiente del pulpo.
+
+## [47-044 · Tentacol abate a uno y retrasa a otro](../capitulos/47.md) · 01:03:51.559
+
+Tipo: `hecho_confirmado`.
+
+Tentacol utiliza su acción adicional y vuelve a disparar. El primer rayo acompañado de Hex deja a su objetivo muerto después de resolver la salvación; el segundo hiere a otro, lo empuja diez pies y reduce su movimiento otros diez. La ofensiva mantiene lejos a parte de los adversarios mientras continúan las imágenes mentales.
+
+Se conserva la adjudicación de esta escena, sin añadir capacidades generales de bestiario ni resultados posteriores al intervalo.
+
+## [47-048 · La voz promete una recompensa por los elfos](../capitulos/47.md) · 01:11:15.719
+
+Tipo: `declaracion_personaje`.
+
+La presencia vuelve a mostrar a los dos elfos y repite que se los lleven. Promete recompensar al grupo si los saca de la ciudad y los entrega fuera, en la jungla.
+
+La promesa no acredita una recompensa disponible, cobrada o definida. No se especifica la condición de los elfos ni el motivo del encargo.
+
+## [47-049 · Las raíces reúnen los cuerpos en una masa](../capitulos/47.md) · 01:11:36.400
+
+Tipo: `hecho_confirmado`.
+
+El grupo termina con los muertos que quedaban, pero la voz continúa presionándolo. Las raíces, ramas y flores que movían aquellos cuerpos los arrastran por el suelo y los concentran en un punto. La presencia amenaza con que el grupo sufrirá la misma suerte si no obedece. Los cuerpos se unen en una masa enorme de zombis de la que caen fragmentos de cráneos y brazos; la lucha se reanuda contra esa forma colectiva.
+
+La formación de la masa se ve; la amenaza es una declaración de la voz. No se identifica la biografía de los cadáveres ni se demuestra que la voz causara todas sus muertes. La tirada para recargar tinta se permite, pero aquí no se anuncia su resultado.
+
+## [47-061 · Tentacol se dirige a buscar a los elfos](../capitulos/47.md) · 01:33:29.040
+
+Tipo: `hecho_confirmado`.
+
+Una vez destruida la masa, Tentacol anuncia que deben buscar a los elfos y se pone en camino corriendo hacia el bosque. La acción sigue el propósito que Chopito había defendido después de recibir la intrusión.
+
+Tentacol inicia la búsqueda, pero no encuentra, saca de la ciudad o entrega a los elfos. La propuesta de rescate de Chopito no se convierte en un secuestro ocurrido.
+
+## [47-066 · Chopito abofetea a Tesara y cuestiona su alarma](../capitulos/47.md) · 01:40:45.000
+
+Tipo: `hecho_confirmado`.
+
+Tentacol se arrodilla junto a Tesara y abre el recipiente de Chopito. El pulpo sale, se acerca a la cara de ella y le da un guantazo para hacerla reaccionar. Reprocha que, cuando deben ir a buscar a los elfos, ella se meta en historias de dragones. Tesara insiste en que la voz pertenece a un dragón verde invisible.
+
+La incredulidad del pulpo es su postura, no una refutación del encuentro. El aviso de Tesara de cocinarlo a la gallega es una amenaza verbal, sin daño consumado o muerte del pulpo.
+
+## [47-071 · Chopito rechaza que le ofrezcan Perlasal](../capitulos/47.md) · 01:49:04.280
+
+Tipo: `declaracion_personaje`.
+
+Chopito anima mentalmente a Tentacol a negociar. Tentacol pregunta qué puede ofrecer una criatura cuyos dominios parecen limitarse al bosque. El dragón observa al pulpo, le brillan los ojos y dice tener magia poderosa y poder ofrecerle Perlasal. Chopito rechaza que le vendan lo que considera suyo; el dragón replica que entonces sus súbditos no lo respetan.
+
+Ni la oferta ni la reivindicación del pulpo prueban soberanía efectiva, posesión o control del dragón sobre Perlasal. Los ojos brillantes no explican por sí solos qué magia realiza.
+
+## [47-075 · La criatura se retira invisible y los viajeros deciden volver](../capitulos/47.md) · 01:53:03.400
+
+Tipo: `hecho_confirmado`.
+
+El dragón se interna otra vez en la jungla con movimientos sigilosos y se vuelve invisible; la vegetación que aparta aún permite seguir su volumen. Tesara le grita una amenaza de represalia. Chopito la consuela diciendo que la criatura se marca un farol, y el grupo empieza a plantear el regreso para descansar y encontrar a los hermanos.
+
+La afirmación del pulpo de ser más poderoso es una fanfarronada. No prueba que el dragón mienta, que haya sido derrotado o que otra persona le arranque la piel. No se explica con precisión cómo termina el agarre de las raíces.
+
+## [47-076 · Tesara sostiene la confianza en sus compañeros elfos](../capitulos/47.md) · 01:54:52.360
+
+Tipo: `declaracion_personaje`.
+
+Tesara explica que los buscados son dos hermanos elfos, compañeros con quienes combatió contra la criatura al llegar a Iktan. Dice que se salvaron mutuamente y los considera raros pero buenas personas que quieren matar al dragón. El felino cuestiona si la utilizaron y mantiene su desconfianza; Chopito elogia la capacidad del dragón para sembrar dudas.
+
+Las sospechas de Mictlan no prueban una traición. Las variantes «el Dream/Eldrin» y «Miriam» se conservan en el VTT; la conversación escrita posterior del ultimátum identifica a Eldrath y Tryel como los hermanos, sin trasladar sus acciones al vídeo.
+
+## [47-078 · Tentacol y Chopito imitan la meditación de Tortas](../capitulos/47.md) · 01:59:07.079
+
+Tipo: `hecho_confirmado`.
+
+Tentacol se queda con Chopito junto a Tortas para imitar su postura de meditación, en lugar de entrar con los demás en la taberna. El director los sitúa junto al anciano mientras el otro grupo entra.
+
+Las bromas sobre contagiarse una maldición por una encuesta no constituyen una maldición diegética confirmada. No se acredita entrenamiento concluido, nuevo poder o autorización formal como discípulos.
+
+## [47-089 · La imitación de Tortas se presenta como una apariencia de piedra](../capitulos/47.md) · 02:16:25.119
+
+Tipo: `hecho_confirmado`.
+
+De vuelta a la taberna, Tesara y el felino ven a Tortas meditando. Tentacol se ha dado con prestidigitación apariencia de roca y Chopito se coloca encima imitando al anciano; añaden la broma de una barba o bigote largo. El director confirma la composición de la escena.
+
+La apariencia de roca se explica mediante prestidigitación: no acredita petrificación, aprendizaje de un nuevo estado corporal o maldición compartida. La imitación no explica la edad o el brillo mágico anterior de Tortas.
+
+## [47-090 · Angelique cuenta a Patata su encuentro con Zoltan](../capitulos/47.md) · 02:17:15.880
+
+Tipo: `declaracion_personaje`.
+
+Patata intenta cortejar a la encargada, que deriva la conversación hacia un recién llegado de torso desnudo, herida y chispas. Dice que estuvo con él el día anterior, promete presentárselo y finalmente lo nombra Zoltan. Lo describe mientras Patata sigue en la taberna; Tesara y el felino regresan de hablar con Walulu y Chopito continúa la imitación de Tortas en el cierre.
+
+No se representa una nueva aparición de Zoltan ni la presentación prometida. La expresión «ayer» pertenece al testimonio de Angelique; no sirve por sí sola para cerrar un calendario. Las comparaciones de mesa con otros personajes o campañas no incorporan sus identidades a Xoltacan.
 

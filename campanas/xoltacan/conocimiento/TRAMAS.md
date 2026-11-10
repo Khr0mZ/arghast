@@ -1,5 +1,11 @@
 # Seguimiento de tramas entre capítulos
 
+## Una semana para entregar a los hermanos
+
+La pérdida del hogar de Patata, la búsqueda de Tesara y el regreso de Tentacol y Chopito confluyen en las ruinas del lago. Mictlan los vigila y acaba luchando a su lado. Las raíces animan cadáveres y los reúnen en una masa; Patata la destruye, pero la presencia invisible sigue libre. Clolgedranx se muestra, reclama a los hermanos y amenaza a Oliver y a Iktan si no obtiene la entrega en una semana ([capítulo 47](capitulos/47.md)).
+
+Walulu explica que necesita intermediarios porque los dragones no pueden entrar en Iktan. La guardia debe contener a los muertos y ella empieza a buscar una estrategia en los libros. Tesara rechaza entregar a sus amigos; Mictlan propone hacerlo por el bien del pueblo. No hay una entrega pactada, un ataque nuevo a la ciudad ni una estrategia probada. El rol posterior conserva la identidad de los hermanos y la organización de la defensa con fuentes separadas del vídeo.
+
 Este documento conserva la evolución de las tramas. Cada resolución se sitúa en el capítulo que la documenta, sin atribuirla retrospectivamente a episodios anteriores.
 
 ## Cómo consultar las actualizaciones

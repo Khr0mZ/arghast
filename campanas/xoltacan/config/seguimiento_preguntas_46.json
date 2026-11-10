@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revisado_hasta": 46,
+  "revisado_hasta": 47,
   "preguntas": [
     {
       "id": "P46-001",
@@ -8,7 +8,7 @@
       "indice": 1,
       "pregunta": "¿Quién mató a los ocupantes de la cueva y qué relación tiene Zoltan con esos cadáveres? El aspecto eléctrico y la sospecha de Eleanor no demuestran su autoría (46-019, 46-021, 46-030, 46-049).",
       "estado": "pendiente",
-      "revisado_hasta": 46,
+      "revisado_hasta": 47,
       "respuesta": "Encuentran cuerpos ennegrecidos como por una descarga y a Zoltan vivo y encadenado. Eleanor sospecha de él; sus descargas posteriores muestran capacidades, sin reconstruir las muertes anteriores.",
       "referencias": [
         "46-019",
@@ -24,7 +24,7 @@
       "indice": 2,
       "pregunta": "¿Qué cartel recuerda Zoltan al conocer a Ione y qué causa su dolor? El flash es borroso e ilegible y no fija una recompensa, acusación o vínculo previo concreto (46-024).",
       "estado": "pendiente",
-      "revisado_hasta": 46,
+      "revisado_hasta": 47,
       "respuesta": "El nombre y el aspecto de Ione provocan un pinchazo y una imagen fugaz. Citlali lo sostiene, pero no se explica o lee el cartel.",
       "referencias": [
         "46-023",
@@ -38,7 +38,7 @@
       "indice": 3,
       "pregunta": "¿De dónde proceden la cicatriz y la mancha oscura de Zoltan, y por qué estaba cautivo? Su presentación no reconstruye el origen de las marcas ni la duración y circunstancias del encierro (46-019–46-025, 46-026).",
       "estado": "pendiente",
-      "revisado_hasta": 46,
+      "revisado_hasta": 47,
       "respuesta": "Zoltan está débil, hambriento, marcado y encadenado. Ione rompe el soporte que lo retiene. Él no sabe precisar cuánto tiempo ha pasado allí.",
       "referencias": [
         "46-019",
@@ -56,7 +56,7 @@
       "indice": 4,
       "pregunta": "¿Cuál es el origen de la electricidad de Zoltan y conseguirá controlarla? Descargas de contacto, barrera y rayos son observables; la extracción del colmillo y las chispas de las casas muestran descontrol (46-030, 46-032, 46-034, 46-041, 46-045, 46-049, 46-051).",
       "estado": "pendiente",
-      "revisado_hasta": 46,
+      "revisado_hasta": 47,
       "respuesta": "La electricidad hiere a compañeras por contacto y lo protege de un coletazo. Zoltan la canaliza en rayos durante la lucha, pero después chamusca el cadáver y prende pequeños fuegos sin querer. Admite que no controla bien el efecto.",
       "referencias": [
         "46-030",
@@ -76,7 +76,7 @@
       "indice": 5,
       "pregunta": "¿Qué dicen las inscripciones de la copa hallada por Eleanor y cuál es su procedencia? Se distingue de otra copa anterior y se presenta como tesoro, sin lectura o poder ritual probado (46-027).",
       "estado": "pendiente",
-      "revisado_hasta": 46,
+      "revisado_hasta": 47,
       "respuesta": "La copa de apariencia dorada tiene joyas e inscripciones. El director la distingue de la anterior y la describe como tesoro para vender; no se interpreta su escritura.",
       "referencias": [
         "46-027",
@@ -90,7 +90,7 @@
       "indice": 6,
       "pregunta": "¿Dónde está el novato llamado Jacki y a quién corresponde esa mención? Sus compañeros dicen que faltaba desde la playa, sin confirmar su identidad con Jack o el cautivo de Taylor ni su destino (46-059–46-060).",
       "estado": "pendiente",
-      "revisado_hasta": 46,
+      "revisado_hasta": 47,
       "respuesta": "Ione lo echa de menos al revisar a sus hombres. Los trillizos lo recuerdan ausente al dejar la playa. Las conjeturas de tiburones o muerte no son un desenlace demostrado.",
       "referencias": [
         "46-059",
@@ -104,29 +104,60 @@
       "indice": 7,
       "pregunta": "¿Cómo reunirá Ione los apoyos para recuperar Shiaru y qué encontrará al volver? La venta a Froger aporta veinticuatro monedas, sin reclutamiento o reconquista representados (46-060, 46-063).",
       "estado": "pendiente",
-      "revisado_hasta": 46,
-      "respuesta": "Ione anuncia que venderá una joya y buscará gente nueva para su causa. Obtiene veinticuatro monedas, pero todavía no organiza o ejecuta el regreso al puerto.",
+      "revisado_hasta": 47,
+      "respuesta": "Ione anuncia que venderá una joya y buscará gente nueva para su causa. Obtiene veinticuatro monedas, pero todavía no organiza o ejecuta el regreso al puerto. Patata y los antiguos piratas describen la expulsión y la pérdida de sus hogares. En el rol posterior Ilikar pide ayuda a Tortas para su tripulación, sin representar la expedición de Ione.",
       "referencias": [
         "46-060",
-        "46-063"
+        "46-063",
+        "47-001",
+        "47-017",
+        "47-079"
       ],
-      "pendiente": "Los apoyos, la expedición, la situación del puerto y el resultado del plan."
+      "pendiente": "Los apoyos, la expedición, la situación del puerto y el resultado del plan.",
+      "fuentes_rol": [
+        {
+          "escena": "x-1530356065936347307",
+          "mensaje_id": "1530566731804840168",
+          "descripcion": "Ilikar relata la pérdida del hogar de su capitana y pide apoyo; no ejecuta una reconquista.",
+          "url": "https://discord.com/channels/946724148628041748/1504602363728756846/1530566731804840168",
+          "texto_sha256": "c812d5457669e712020aae2358317886fc1ebe78fc5b0580f898976174f9f464"
+        }
+      ]
     },
     {
       "id": "P46-008",
       "capitulo": 46,
       "indice": 8,
       "pregunta": "¿Se celebrará la reunión de madres con Citlali y cómo continuará la convivencia escolar de Leo y Etley? La invitación de Miausi y la reprimenda no representan la reunión o el regreso del niño (46-054–46-056, 46-064).",
-      "estado": "pendiente",
-      "revisado_hasta": 46,
-      "respuesta": "Miausi invita a Citlali a la reunión del domingo. Citlali reprende a Leo y se lleva a Etley; el niño corre a buscar a Naór y no se muestra su encuentro.",
+      "estado": "parcial",
+      "revisado_hasta": 47,
+      "respuesta": "Tesara lleva de nuevo a Leo al colegio y el niño le reprocha la reprimenda de la mujer que se llevó a su amigo. En la escena escrita posterior, Naór y Citlali hablan de lo ocurrido; Leo dice que Eztli es su mejor amigo y los dos niños continúan jugando juntos. El encuentro con Naór sí queda representado, pero la reunión de madres se sigue anunciando para el día siguiente.",
       "referencias": [
         "46-054",
         "46-055",
         "46-056",
-        "46-064"
+        "46-064",
+        "47-004",
+        "47-005",
+        "47-006"
       ],
-      "pendiente": "La reunión, el regreso de Leo y la evolución de la convivencia en el colegio."
+      "pendiente": "La celebración de la reunión de madres y la evolución posterior de la convivencia escolar.",
+      "fuentes_rol": [
+        {
+          "escena": "x-1531013198478708756",
+          "mensaje_id": "1531021544879292476",
+          "descripcion": "Leo llama a Eztli su mejor amigo.",
+          "url": "https://discord.com/channels/946724148628041748/1504602363728756846/1531021544879292476",
+          "texto_sha256": "599f757ef8b7b0f65125970e276251c59b76245ff0f3724bbaa16f53156108c2"
+        },
+        {
+          "escena": "x-1531013198478708756",
+          "mensaje_id": "1531042917127426220",
+          "descripcion": "La reunión escolar permanece anunciada para mañana.",
+          "url": "https://discord.com/channels/946724148628041748/1504602363728756846/1531042917127426220",
+          "texto_sha256": "f73e60eaf0c71c370d50ee0d6222b876adac47c164fb500d92b9cfa411e66f67"
+        }
+      ]
     }
   ]
 }

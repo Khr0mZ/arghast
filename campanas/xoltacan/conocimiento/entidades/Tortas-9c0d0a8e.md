@@ -8,11 +8,11 @@ Su aspecto pétreo no es una petrificación. Se conservan en tensión la edad de
 
 Etiquetas agrupadas: Tortas (anciano tortuga, grafía provisional).
 
-Base para revisar equivalencia: [40-007](../capitulos/40.md), [40-011](../capitulos/40.md), [40-029](../capitulos/40.md), [40-035](../capitulos/40.md), [45-006](../capitulos/45.md), [45-011](../capitulos/45.md), [45-016](../capitulos/45.md), [45-018](../capitulos/45.md), [45-020](../capitulos/45.md), [45-024](../capitulos/45.md), [45-025](../capitulos/45.md), [45-026](../capitulos/45.md), [45-027](../capitulos/45.md), [45-028](../capitulos/45.md), [45-030](../capitulos/45.md), [45-031](../capitulos/45.md), [45-032](../capitulos/45.md), [45-036](../capitulos/45.md), [45-041](../capitulos/45.md), [45-043](../capitulos/45.md), [45-044](../capitulos/45.md), [45-049](../capitulos/45.md), [45-050](../capitulos/45.md), [45-054](../capitulos/45.md), [45-055](../capitulos/45.md), [45-059](../capitulos/45.md), [45-064](../capitulos/45.md), [45-067](../capitulos/45.md), [45-075](../capitulos/45.md), [45-078](../capitulos/45.md).
+Base para revisar equivalencia: [40-007](../capitulos/40.md), [40-011](../capitulos/40.md), [40-029](../capitulos/40.md), [40-035](../capitulos/40.md), [45-006](../capitulos/45.md), [45-011](../capitulos/45.md), [45-016](../capitulos/45.md), [45-018](../capitulos/45.md), [45-020](../capitulos/45.md), [45-024](../capitulos/45.md), [45-025](../capitulos/45.md), [45-026](../capitulos/45.md), [45-027](../capitulos/45.md), [45-028](../capitulos/45.md), [45-030](../capitulos/45.md), [45-031](../capitulos/45.md), [45-032](../capitulos/45.md), [45-036](../capitulos/45.md), [45-041](../capitulos/45.md), [45-043](../capitulos/45.md), [45-044](../capitulos/45.md), [45-049](../capitulos/45.md), [45-050](../capitulos/45.md), [45-054](../capitulos/45.md), [45-055](../capitulos/45.md), [45-059](../capitulos/45.md), [45-064](../capitulos/45.md), [45-067](../capitulos/45.md), [45-075](../capitulos/45.md), [45-078](../capitulos/45.md), [47-078](../capitulos/47.md), [47-089](../capitulos/47.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### El protector abandona la piedra
 
@@ -43,6 +43,12 @@ Fuentes: [41-003 · Winscore llega al festival de Iktan](../capitulos/41.md) · 
 Tortas acepta acompañar a Bigotitos a Perlasal, sin aceptar el culto que pretende Chopito. Su pregunta por el año y la hora provoca un destello cuyo significado no se explica. La guía le concede respiración acuática y lleva a Naór y otros compañeros sobre el caparazón. Grita los nombres del escuadrón mediante la voz astral; no obtiene respuesta y el grupo huye de los tiburones. Gira hacia un túnel y se raspa el caparazón antes de emerger a una cámara de aire. En la primera lucha utiliza brazos astrales azules y, al terminar, guarda una mano de un cadáver. En el islote del altar se repliega en la concha, recibe zarpas y un mordisco, y vuelve a manifestar los brazos cuando los anteriores ya han terminado. Enfadado por el daño al caparazón, acaba con la criatura que aturdió a Naór y conserva un fragmento de su rostro, distinto de la mano anterior. Llega a Perlasal con los compañeros y sigue buscando una piedra donde estar cómodo. Sus manifestaciones y bromas no resuelven la discrepancia entre las edades que se le atribuyen.
 
 Fuentes: [45-006 · Tortas acepta acompañarlos sin rendir culto a Chopito](../capitulos/45.md) · 00:10:30.839 · [45-011 · El grupo se reúne y Tortas reacciona al año y la hora](../capitulos/45.md) · 00:19:48.080 · [45-016 · Los besos de la sirénida permiten respirar a Coyote, Naór y Tortas](../capitulos/45.md) · 00:38:02.000 · [45-018 · La guía pide buscar su escuadrón y Naór se aferra a Tortas](../capitulos/45.md) · 00:41:24.720 · [45-020 · La guía admite que huyó mientras quedaban compañeros](../capitulos/45.md) · 00:48:40.520 · [45-024 · La guía da cuatro nombres de compañeros desaparecidos](../capitulos/45.md) · 00:59:14.760 · [45-025 · Tortas amplifica los nombres mediante su proyección astral](../capitulos/45.md) · 01:01:00.400 · [45-026 · Se acercan cuatro tiburones y el grupo decide marcharse](../capitulos/45.md) · 01:02:46.480 · [45-027 · Naór impulsa a Tortas y todos escapan de los tiburones](../capitulos/45.md) · 01:03:21.079 · [45-028 · Tortas vira hacia el túnel y se raspa el caparazón](../capitulos/45.md) · 01:06:44.119 · [45-030 · Chopito guía a quienes no ven y Triel aporta luces](../capitulos/45.md) · 01:15:03.440 · [45-031 · Los restos marinos y tres sombras alertan al grupo](../capitulos/45.md) · 01:19:29.040 · [45-032 · Una criatura intenta agarrar a Coyote bajo el agua](../capitulos/45.md) · 01:21:52.080 · [45-036 · Los brazos astrales azules de Tortas golpean a los defensores](../capitulos/45.md) · 01:30:24.000 · [45-041 · Tortas y Tentacol mantienen el apoyo astral y a distancia](../capitulos/45.md) · 01:42:44.800 · [45-043 · Tortas reúne los cadáveres y conserva una mano](../capitulos/45.md) · 01:50:37.920 · [45-044 · Tres voces se oyen más allá del recodo y el idioma se corrige a Aquan](../capitulos/45.md) · 01:55:19.320 · [45-049 · Tortas entra en el agua y se repliega en el caparazón](../capitulos/45.md) · 02:06:03.239 · [45-050 · La criatura del altar alcanza a Tortas con zarpas y dientes](../capitulos/45.md) · 02:07:41.119 · [45-054 · Tortas sale del caparazón y manifiesta brazos astrales](../capitulos/45.md) · 02:16:07.119 · [45-055 · La criatura del altar aturde a Naór y surgen refuerzos del agua](../capitulos/45.md) · 02:18:14.240 · [45-059 · Naór falla la ceguera mientras sigue aturdida](../capitulos/45.md) · 02:29:58.920 · [45-064 · Tortas castiga al enemigo que le dañó el caparazón](../capitulos/45.md) · 02:44:55.200 · [45-067 · Tortas abate a la última criatura y recoge un trofeo](../capitulos/45.md) · 02:51:50.359 · [45-075 · Ivet admite a la princesa de Atlan en el templo de coral](../capitulos/45.md) · 03:08:31.120 · [45-078 · La audiencia acaba entre salmos y la curiosidad de Triel](../capitulos/45.md) · 03:14:57.200.
+
+### El modelo de la meditación
+
+Tortas permanece en su sitio de Iktan meditando. Tentacol y Chopito se colocan junto a él para imitarlo, hasta componer la apariencia de un anciano sobre una roca. No se representa que Tortas enseñe una técnica nueva o se incorpore a la audiencia con Walulu.
+
+Fuentes: [47-078 · Tentacol y Chopito imitan la meditación de Tortas](../capitulos/47.md) · 01:59:07.079 · [47-089 · La imitación de Tortas se presenta como una apariencia de piedra](../capitulos/47.md) · 02:16:25.119.
 
 ## Registros y evidencias
 
@@ -725,4 +731,28 @@ Tipo: `hecho_confirmado`.
 Ivet vuelve al altar del templo para recitar salmos en Aquan ante su pueblo y permite a los visitantes permanecer. Tortas sigue buscando una piedra que le guste. Triel se aparta hacia dos sirenos que llevan una criatura parecida a un caballo con cola marina y pregunta si puede probarla. El capítulo termina antes de que la monte o reciba una respuesta.
 
 Los comentarios sobre plegarias a Chopito son bromas del personaje, no la identificación del culto de Ivet. El animal no recibe nombre ni se convierte en una montura adquirida por Triel.
+
+## [47-078 · Tentacol y Chopito imitan la meditación de Tortas](../capitulos/47.md) · 01:59:07.079
+
+Tipo: `hecho_confirmado`.
+
+Tentacol se queda con Chopito junto a Tortas para imitar su postura de meditación, en lugar de entrar con los demás en la taberna. El director los sitúa junto al anciano mientras el otro grupo entra.
+
+Las bromas sobre contagiarse una maldición por una encuesta no constituyen una maldición diegética confirmada. No se acredita entrenamiento concluido, nuevo poder o autorización formal como discípulos.
+
+## [47-089 · La imitación de Tortas se presenta como una apariencia de piedra](../capitulos/47.md) · 02:16:25.119
+
+Tipo: `hecho_confirmado`.
+
+De vuelta a la taberna, Tesara y el felino ven a Tortas meditando. Tentacol se ha dado con prestidigitación apariencia de roca y Chopito se coloca encima imitando al anciano; añaden la broma de una barba o bigote largo. El director confirma la composición de la escena.
+
+La apariencia de roca se explica mediante prestidigitación: no acredita petrificación, aprendizaje de un nuevo estado corporal o maldición compartida. La imitación no explica la edad o el brillo mágico anterior de Tortas.
+
+## [47-090 · Angelique cuenta a Patata su encuentro con Zoltan](../capitulos/47.md) · 02:17:15.880
+
+Tipo: `declaracion_personaje`.
+
+Patata intenta cortejar a la encargada, que deriva la conversación hacia un recién llegado de torso desnudo, herida y chispas. Dice que estuvo con él el día anterior, promete presentárselo y finalmente lo nombra Zoltan. Lo describe mientras Patata sigue en la taberna; Tesara y el felino regresan de hablar con Walulu y Chopito continúa la imitación de Tortas en el cierre.
+
+No se representa una nueva aparición de Zoltan ni la presentación prometida. La expresión «ayer» pertenece al testimonio de Angelique; no sirve por sí sola para cerrar un calendario. Las comparaciones de mesa con otros personajes o campañas no incorporan sus identidades a Xoltacan.
 

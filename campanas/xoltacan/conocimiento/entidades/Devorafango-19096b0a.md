@@ -12,7 +12,7 @@ Base para revisar equivalencia: [44-010](../capitulos/44.md), [44-011](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### El animal buscado y el ingrediente extraído
 

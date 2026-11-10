@@ -8,11 +8,11 @@ Colectivo de personas, distinto de la embarcación aunque comparta nombre.
 
 Etiquetas agrupadas: Zampaolas (tripulación).
 
-Base para revisar equivalencia: [03-015](../capitulos/03.md), [06-005](../capitulos/06.md), [42-005](../capitulos/42.md), [42-008](../capitulos/42.md), [42-013](../capitulos/42.md), [42-024](../capitulos/42.md), [42-027](../capitulos/42.md), [42-029](../capitulos/42.md), [42-036](../capitulos/42.md), [42-037](../capitulos/42.md), [42-044](../capitulos/42.md), [42-058](../capitulos/42.md), [42-063](../capitulos/42.md), [42-067](../capitulos/42.md), [46-002](../capitulos/46.md), [46-004](../capitulos/46.md), [46-006](../capitulos/46.md), [46-010](../capitulos/46.md), [46-014](../capitulos/46.md), [46-050](../capitulos/46.md), [46-053](../capitulos/46.md), [46-059](../capitulos/46.md), [46-060](../capitulos/46.md).
+Base para revisar equivalencia: [03-015](../capitulos/03.md), [06-005](../capitulos/06.md), [42-005](../capitulos/42.md), [42-008](../capitulos/42.md), [42-013](../capitulos/42.md), [42-024](../capitulos/42.md), [42-027](../capitulos/42.md), [42-029](../capitulos/42.md), [42-036](../capitulos/42.md), [42-037](../capitulos/42.md), [42-044](../capitulos/42.md), [42-058](../capitulos/42.md), [42-063](../capitulos/42.md), [42-067](../capitulos/42.md), [46-002](../capitulos/46.md), [46-004](../capitulos/46.md), [46-006](../capitulos/46.md), [46-010](../capitulos/46.md), [46-014](../capitulos/46.md), [46-050](../capitulos/46.md), [46-053](../capitulos/46.md), [46-059](../capitulos/46.md), [46-060](../capitulos/46.md), [47-079](../capitulos/47.md).
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### Reunirse alrededor de un barco averiado
 
@@ -55,6 +55,12 @@ Fuentes: [46-002 · Ione protege al grupo y permanece más seria](../capitulos/4
 Los tripulantes que han llegado a Iktan se acomodan en la taberna, juegan a cartas y alquilan habitaciones compartidas. Dicen a Ione que llevan cuatro días allí, pero falta el novato y nadie confirma su destino. La capitana propone vender una joya y reunir apoyos para recuperar Shiaru; recuerda que Bonnie ya no está y les promete protección.
 
 Fuentes: [46-050 · Zoltan sostiene a Citlali y Eleanor le proporciona una montura temporal](../capitulos/46.md) · 01:47:03.270 · [46-053 · Ione encuentra a la tripulación en la taberna de Iktan](../capitulos/46.md) · 01:56:01.320 · [46-059 · Ione descubre la ausencia del novato llamado Jacki](../capitulos/46.md) · 02:06:48.360 · [46-060 · Ione propone recaudar recursos y reunir apoyos para recuperar Shiaru](../capitulos/46.md) · 02:09:03.239.
+
+### Expulsados de Shiaru según su relato
+
+Patata reconoce a los piratas de Shiaru en la taberna de Iktan. Le cuentan que los echaron del pueblo y que tuvieron que desplazarse hasta allí. Le ofrecen cerveza y comentan que están agotando el suministro de la encargada, sin describir el nuevo gobierno o un regreso organizado.
+
+Fuentes: [47-079 · Patata encuentra a los piratas en la taberna de Iktan](../capitulos/47.md) · 02:00:10.840.
 
 ## Registros y evidencias
 
@@ -241,4 +247,12 @@ Tipo: `declaracion_personaje`.
 Ione anuncia a la tripulación que intentará vender una joya para obtener dinero y después hablar con la gente nueva para sumar apoyos a su causa, recuperar Shiaru y averiguar si el novato ha regresado por allí. Sus hombres describen con extrañeza las costumbres de Iktan. Al recordar a Bonnie, Ione admite que ya no está y trata de tranquilizarlos prometiendo que ella seguirá protegiéndolos.
 
 Son planes de financiación y reclutamiento, sin una operación ejecutada para recuperar Shiaru. Las noticias de los tripulantes sobre una elfa pálida y una estatua móvil no identifican por sí solas cada persona ni resuelven todos los riesgos de Iktan.
+
+## [47-079 · Patata encuentra a los piratas en la taberna de Iktan](../capitulos/47.md) · 02:00:10.840
+
+Tipo: `hecho_confirmado`.
+
+Patata reconoce en la taberna a los piratas que frecuentaban la de Shiaru. Al preguntar por la capitana, ellos responden que los echaron del pueblo y tuvieron que venir hasta allí. Le dan cerveza, que prueba y aprecia, y comentan que están agotando las existencias de la encargada.
+
+El motivo de la salida de Shiaru es testimonio de los piratas; no identifica quién gobierna ahora ni una nueva inspección del puerto. La descripción de estar en idéntica posición con las mismas botellas es humor de continuidad, no una duplicación o bucle mágico.
 

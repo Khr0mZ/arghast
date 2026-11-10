@@ -12,7 +12,7 @@ Base para revisar equivalencia: [29-020](../capitulos/29.md), [29-021](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### La visita anterior y el acceso restringido
 

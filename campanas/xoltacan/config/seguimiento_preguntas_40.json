@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revisado_hasta": 46,
+  "revisado_hasta": 47,
   "preguntas": [
     {
       "id": "P40-001",
@@ -18,7 +18,7 @@
         "41-051"
       ],
       "pendiente": "El origen de la animación de los restos y la función causal del veneno.",
-      "revisado_hasta": 46
+      "revisado_hasta": 47
     },
     {
       "id": "P40-002",
@@ -33,24 +33,27 @@
         "40-024"
       ],
       "pendiente": "La extensión restante del daño y la recuperación de la vegetación.",
-      "revisado_hasta": 46
+      "revisado_hasta": 47
     },
     {
       "id": "P40-003",
       "capitulo": 40,
       "indice": 3,
       "pregunta": "¿Cuál es la grafía del nombre de la Serpiente del Bosque y es la cueva de la emboscada su guarida? El rastro orienta al norte, pero no fija su posición ni su relación con Clodidrax (40-030–40-033).",
-      "estado": "pendiente",
-      "respuesta": "Winscore ve el dragón verde y Tortas reconoce su olor en Blink. El anciano intenta pronunciar su nombre, sin grafía segura en la transcripción, y el director aclara que no conoce la guarida. No se inspecciona la cueva de la emboscada ni se demuestra identidad con Clodidrax.",
+      "estado": "parcial",
+      "respuesta": "Walulu informa de varias guaridas dispersas que encontraron algunos guardias, sin localizarlas sobre un mapa o inspeccionar la cueva de la emboscada. La grafía Clolgedranx es la confirmada por el usuario; los subtítulos conservan sus variantes. Tesara reconoce la voz de la emboscada anterior y el director confirma la continuidad. Se integra así el dragón verde con el que pidió a Citlali sacar a los dos elfos en el capítulo 39; Zarynth, el pequeño dragón de Aerendriel, sigue siendo otra identidad.",
       "referencias": [
         "40-030",
         "40-033",
         "41-051",
         "41-054",
-        "41-055"
+        "41-055",
+        "47-050",
+        "47-082",
+        "47-084"
       ],
-      "pendiente": "La grafía, la ubicación de la guarida y la relación de identidad con Clodidrax.",
-      "revisado_hasta": 46
+      "pendiente": "La ubicación verificable de las guaridas y si la cueva de la emboscada es una de ellas.",
+      "revisado_hasta": 47
     },
     {
       "id": "P40-004",
@@ -65,7 +68,7 @@
         "42-004"
       ],
       "pendiente": "La información que Eldrat necesita y la aceptación y ejecución de la caza e interrogatorio.",
-      "revisado_hasta": 46
+      "revisado_hasta": 47
     },
     {
       "id": "P40-005",
@@ -84,7 +87,7 @@
         "45-011"
       ],
       "pendiente": "La explicación de las cifras y su cronología personal.",
-      "revisado_hasta": 46,
+      "revisado_hasta": 47,
       "fuentes_rol": [
         {
           "escena": "x-1527436690531029186",
@@ -114,7 +117,7 @@
         "44-056"
       ],
       "pendiente": "La llegada de los expertos prometidos, la recuperación completa de Eromov y el alcance restante de la operación contra Iktan.",
-      "revisado_hasta": 46,
+      "revisado_hasta": 47,
       "fuentes_rol": [
         {
           "escena": "x-1525362897662906398",
@@ -144,7 +147,7 @@
         "46-058"
       ],
       "pendiente": "El origen, dueño e historia del fragmento de espada.",
-      "revisado_hasta": 46
+      "revisado_hasta": 47
     }
   ]
 }

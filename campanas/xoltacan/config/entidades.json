@@ -73,7 +73,8 @@
         "45-074",
         "45-075",
         "45-076",
-        "45-077"
+        "45-077",
+        "47-087"
       ],
       "nota": "Leonina hija de Camar. Tarcan/Tarquan son grafías de reconocimiento, no identidades distintas.",
       "descripcion": "Princesa leonina de Atlan enviada a contactar con dirigentes de otros clanes.",
@@ -199,7 +200,31 @@
       "nombre": "Patata",
       "referencias": [
         "01-002",
-        "16-001"
+        "16-001",
+        "47-001",
+        "47-015",
+        "47-017",
+        "47-016",
+        "47-018",
+        "47-021",
+        "47-030",
+        "47-031",
+        "47-032",
+        "47-033",
+        "47-037",
+        "47-045",
+        "47-047",
+        "47-054",
+        "47-057",
+        "47-058",
+        "47-059",
+        "47-062",
+        "47-063",
+        "47-068",
+        "47-069",
+        "47-077",
+        "47-079",
+        "47-090"
       ],
       "nota": "Patatamán y Patata designan al mismo agricultor; Patata Hammer es su arma.",
       "descripcion": "Agricultor que busca establecer una granja en Xoltacan y utiliza magia de curación.",
@@ -222,19 +247,20 @@
       "tipo": "personaje"
     },
     {
-      "nombre": "Erendriel",
+      "nombre": "Aerendriel",
       "referencias": [
         "01-005",
         "08-007",
         "16-004",
         "29-003"
       ],
-      "nota": "El elfo presentado como Erendriel pide explícitamente ser llamado Salazor en 08-007. Se agrupan sus menciones sin convertir el alias en otro personaje.",
+      "nota": "El elfo presentado como Erendriel pide explícitamente ser llamado Salazor en 08-007. Se agrupan sus menciones sin convertir el alias en otro personaje. Nombre confirmado por corrección de jugadores en el editor compartido (revisión 1794159261034306): Aerendriel.",
       "descripcion": "Elfo de una familia de exploradores de Puerto de Espadas, acompañado por un pequeño dragón.",
       "etiquetas": [
         "Erendriel (grafía provisional)",
         "Salazor (nombre usado por el elfo)",
-        "Cuerpo de Erendriel exhibido"
+        "Cuerpo de Erendriel exhibido",
+        "Erendriel"
       ],
       "tipo": "personaje"
     },
@@ -330,15 +356,16 @@
       "tipo": "personaje"
     },
     {
-      "nombre": "Blink",
+      "nombre": "Bling",
       "referencias": [
         "03-005",
         "14-003"
       ],
-      "nota": "La propia hada dice que utiliza ambos nombres en 03-005.",
+      "nota": "La propia hada dice que utiliza ambos nombres en 03-005. Nombre confirmado por corrección de jugadores en el editor compartido (revisión 1794159261034306): Bling.",
       "descripcion": "Hada procedente de un bosque de otro mundo, usuaria de magia y telequinesis.",
       "etiquetas": [
-        "Blink / Blank"
+        "Blink / Blank",
+        "Blink"
       ],
       "tipo": "personaje"
     },
@@ -428,7 +455,7 @@
       "tipo": "personaje"
     },
     {
-      "nombre": "Bonnie",
+      "nombre": "\"Happy\" Bonny",
       "referencias": [
         "01-011",
         "11-029",
@@ -451,12 +478,15 @@
         "43-005",
         "43-006",
         "43-007",
-        "43-010"
+        "43-010",
+        "47-001",
+        "47-017"
       ],
-      "nota": "Happy Bonnie/Bonny designan a la misma dirigente pirata.",
+      "nota": "Happy Bonnie/Bonny designan a la misma dirigente pirata. Nombre confirmado por corrección de jugadores en el editor compartido (revisión 1794159261034306): \"Happy\" Bonny.",
       "descripcion": "Dirigente pirata de Shiaru, acreedora de Nox e Ione y dueña de Pix.",
       "etiquetas": [
-        "Happy Bonnie / Bonny (grafía provisional)"
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Bonnie"
       ],
       "tipo": "personaje"
     },
@@ -564,18 +594,19 @@
       "tipo": "personaje"
     },
     {
-      "nombre": "Baton",
+      "nombre": "Button",
       "referencias": [
         "14-003",
         "16-005",
         "16-007",
         "44-051"
       ],
-      "nota": "El director identifica su rescate del campamento de la Marina; no es uno de los piratas que capturaron a Blink.",
+      "nota": "El director identifica su rescate del campamento de la Marina; no es uno de los piratas que capturaron a Blink. Nombre confirmado por corrección de jugadores en el editor compartido (revisión 1794159261034306): Button.",
       "descripcion": "Nativo rescatado de la Marina que guía a los visitantes hacia Cuicapalli.",
       "etiquetas": [
         "Baton (grafía provisional)",
-        "Baton (nativo rescatado, grafía provisional)"
+        "Baton (nativo rescatado, grafía provisional)",
+        "Baton"
       ],
       "tipo": "personaje"
     },
@@ -595,7 +626,7 @@
       "tipo": "personaje"
     },
     {
-      "nombre": "Cipo",
+      "nombre": "Zippo",
       "referencias": [
         "01-022",
         "27-003",
@@ -609,7 +640,7 @@
         "46-004",
         "46-058"
       ],
-      "nota": "Cipo/Cibo/Zipo son variantes del elemental. No todos los familiares o reptiles de Mamá son Cipo.",
+      "nota": "Cipo/Cibo/Zipo son variantes del elemental. No todos los familiares o reptiles de Mamá son Cipo. Nombre confirmado por corrección de jugadores en el editor compartido (revisión 1794159261034306): Zippo.",
       "descripcion": "Elemental de fuego invocado inicialmente por Mamá.",
       "etiquetas": [
         "Cipo",
@@ -620,21 +651,31 @@
       "tipo": "personaje"
     },
     {
-      "nombre": "Eldrat",
+      "nombre": "Eldrath",
       "referencias": [
         "14-001",
-        "31-007"
+        "31-007",
+        "47-067",
+        "47-069",
+        "47-072",
+        "47-073",
+        "47-076",
+        "47-080",
+        "47-082",
+        "47-083",
+        "47-086"
       ],
-      "nota": "Yelber el Magnífico es un alias adoptado por Eldrat, no otro personaje.",
+      "nota": "Yelber el Magnífico es un alias adoptado por Eldrat, no otro personaje. Nombre confirmado por corrección de jugadores en el editor compartido (revisión 1794159261034306): Eldrath.",
       "descripcion": "Elfo hermano de Triel, combatiente que usa dagas psíquicas y una kusarigama.",
       "etiquetas": [
         "Alias Yelber el Magnífico usado por Eldrat",
-        "Eldrat (elfo hermano, grafía provisional)"
+        "Eldrat (elfo hermano, grafía provisional)",
+        "Eldrat"
       ],
       "tipo": "personaje"
     },
     {
-      "nombre": "Triel",
+      "nombre": "Tryel",
       "referencias": [
         "14-001",
         "31-006",
@@ -657,12 +698,22 @@
         "45-065",
         "45-068",
         "45-070",
-        "45-078"
+        "45-078",
+        "47-067",
+        "47-069",
+        "47-072",
+        "47-073",
+        "47-076",
+        "47-080",
+        "47-082",
+        "47-083",
+        "47-086"
       ],
-      "nota": "Hermana elfa de Eldrat. No se identifica con la elfa pálida anónima del capítulo 39 solo por aparecer en Iktan.",
+      "nota": "Hermana elfa de Eldrat. No se identifica con la elfa pálida anónima del capítulo 39 solo por aparecer en Iktan. Nombre confirmado por corrección de jugadores en el editor compartido (revisión 1794159261034306): Tryel.",
       "descripcion": "Elfa hermana de Eldrat que participa en expediciones y usa una espada azul.",
       "etiquetas": [
-        "Triel (elfa hermana, grafía provisional)"
+        "Triel (elfa hermana, grafía provisional)",
+        "Triel"
       ],
       "tipo": "personaje"
     },
@@ -763,7 +814,10 @@
         "45-018",
         "46-054",
         "46-055",
-        "46-056"
+        "46-056",
+        "47-004",
+        "47-005",
+        "47-006"
       ],
       "nota": "Niño harengon rescatado en el capítulo 21 y protegido por Naór en el 31. La continuidad del rescate y de lo ocurrido con sus padres es explícita.",
       "descripcion": "Niño harengon rescatado después del ataque a su familia y acogido por Naór.",
@@ -863,7 +917,7 @@
       "tipo": "personaje"
     },
     {
-      "nombre": "Camar Taruan",
+      "nombre": "Kamar Tar’Khuan",
       "referencias": [
         "16-003",
         "16-015",
@@ -871,10 +925,11 @@
         "45-076",
         "45-077"
       ],
-      "nota": "Padre de Naór, rey leonino; grafía del apellido sin audio cotejado.",
+      "nota": "Padre de Naór, rey leonino; grafía del apellido sin audio cotejado. Nombre confirmado por corrección de jugadores en el editor compartido (revisión 1794159261034306): Kamar Tar’Khuan.",
       "descripcion": "Rey leonino de Atlan y padre de Naór, promotor de un concilio de clanes.",
       "etiquetas": [
-        "Camar Taruan (rey leonino, grafía provisional)"
+        "Camar Taruan (rey leonino, grafía provisional)",
+        "Camar Taruan"
       ],
       "tipo": "personaje"
     },
@@ -887,7 +942,14 @@
         "39-018",
         "45-008",
         "45-009",
-        "45-010"
+        "45-010",
+        "47-081",
+        "47-082",
+        "47-083",
+        "47-084",
+        "47-085",
+        "47-086",
+        "47-087"
       ],
       "nota": "La misma chamana enmascarada y dirigente de Iktan, vinculada a Coyote; la sucesión del cargo se relata en el capítulo 31. Las variantes proceden de la transcripción y de las etiquetas editoriales.",
       "descripcion": "Chamana enmascarada y dirigente de Iktan, amiga infantil de Naór y protectora de sus caminos ocultos.",
@@ -981,7 +1043,7 @@
       "tipo": "personaje"
     },
     {
-      "nombre": "Baps",
+      "nombre": "Babs",
       "referencias": [
         "02-004",
         "24-003",
@@ -991,11 +1053,12 @@
         "46-053",
         "46-059"
       ],
-      "nota": "Tripulante recurrente; no fusionarlo con el joven aprendiz anónimo del mapa.",
+      "nota": "Tripulante recurrente; no fusionarlo con el joven aprendiz anónimo del mapa. Nombre confirmado por corrección de jugadores en el editor compartido (revisión 1794159261034306): Babs.",
       "descripcion": "Tripulante pirata del entorno de Nox e Ione.",
       "etiquetas": [
         "Baps (grafía provisional)",
-        "Baps (tripulante, grafía provisional)"
+        "Baps (tripulante, grafía provisional)",
+        "Baps"
       ],
       "tipo": "personaje"
     },
@@ -1177,12 +1240,53 @@
       "nombre": "Tesara Queen",
       "referencias": [
         "31-004",
-        "31-005"
+        "31-005",
+        "47-002",
+        "47-004",
+        "47-005",
+        "47-006",
+        "47-008",
+        "47-010",
+        "47-013",
+        "47-014",
+        "47-017",
+        "47-020",
+        "47-024",
+        "47-026",
+        "47-027",
+        "47-035",
+        "47-041",
+        "47-046",
+        "47-038",
+        "47-050",
+        "47-051",
+        "47-052",
+        "47-056",
+        "47-060",
+        "47-058",
+        "47-059",
+        "47-061",
+        "47-064",
+        "47-065",
+        "47-066",
+        "47-067",
+        "47-073",
+        "47-074",
+        "47-076",
+        "47-077",
+        "47-080",
+        "47-081",
+        "47-085",
+        "47-087",
+        "47-088"
       ],
       "nota": "Tesa es la abreviatura de la historiadora Tesara Queen.",
       "descripcion": "Historiadora humana procedente de Puerto de Espadas que documenta costumbres y explora con el grupo.",
       "etiquetas": [
-        "Tesara Queen / Tesa (historiadora humana)"
+        "Tesara Queen / Tesa (historiadora humana)",
+        "Tesa",
+        "Tessa",
+        "Tessara Quinn"
       ],
       "tipo": "personaje"
     },
@@ -1289,23 +1393,24 @@
       "tipo": "personaje"
     },
     {
-      "nombre": "Dragón de Erendriel",
+      "nombre": "Zarynth",
       "referencias": [
         "01-006",
         "01-010",
         "08-011",
         "10-024"
       ],
-      "nota": "Las dos etiquetas describen al pequeño dragón compañero de Erendriel. No se inventa un nombre propio.",
+      "nota": "El pequeño dragón que acompaña a Aerendriel conserva su identidad histórica. Nombre confirmado por corrección de jugadores en el editor compartido (revisión 1794159261034306): Zarynth.",
       "descripcion": "Pequeño dragón que acompaña a Erendriel y procede de un huevo conservado por el elfo.",
       "etiquetas": [
         "Dragoncito de Erendriel (sin nombre)",
-        "Dragón joven del elfo (nombre sin confirmar)"
+        "Dragón joven del elfo (nombre sin confirmar)",
+        "Dragón de Erendriel"
       ],
       "tipo": "personaje"
     },
     {
-      "nombre": "Etley",
+      "nombre": "Eztli",
       "referencias": [
         "34-018",
         "34-020",
@@ -1329,11 +1434,12 @@
         "46-061",
         "46-064"
       ],
-      "nota": "Cría que nació del huevo de Mamá y posteriormente recibe un nombre en el capítulo 39. Se agrupa por la continuidad del nacimiento y de sus cuidados.",
+      "nota": "Cría que nació del huevo de Mamá y posteriormente recibe un nombre en el capítulo 39. Se agrupa por la continuidad del nacimiento y de sus cuidados. Nombre confirmado por corrección de jugadores en el editor compartido (revisión 1794159261034306): Eztli.",
       "descripcion": "Cría de dinosaurio nacida del huevo criado por Citlali.",
       "etiquetas": [
         "Cría dinosaurio de Mamá (sin nombre)",
-        "Etley / Etle / Etil (cría dinosaurio, grafía provisional)"
+        "Etley / Etle / Etil (cría dinosaurio, grafía provisional)",
+        "Etley"
       ],
       "tipo": "personaje"
     },
@@ -1620,7 +1726,14 @@
         "45-007",
         "45-011",
         "46-057",
-        "46-066"
+        "46-066",
+        "47-007",
+        "47-008",
+        "47-009",
+        "47-079",
+        "47-080",
+        "47-081",
+        "47-090"
       ],
       "nota": "Continuidad con la persona cortejada antes por Coyote, conservando grafía provisional Angelique/Angelic. No se afirma un título real por su propuesta de que la llamen princesa ni se fusionan otras taberneras sin cotejo.",
       "tipo": "personaje",
@@ -1628,14 +1741,49 @@
       "visible": true
     },
     {
-      "nombre": "Clodidrax",
+      "nombre": "Clolgedranx",
       "etiquetas": [
-        "Clodidrax / Clotis (dragón del bosque, grafía provisional)"
+        "Clodidrax / Clotis (dragón del bosque, grafía provisional)",
+        "Clodidrax",
+        "Clolgedranx",
+        "Clodidax",
+        "Dragón verde del bosque de Iktan",
+        "Serpiente del Bosque"
       ],
       "referencias": [
-        "39-016"
+        "39-016",
+        "47-002",
+        "47-024",
+        "47-038",
+        "47-042",
+        "47-048",
+        "47-049",
+        "47-050",
+        "47-051",
+        "47-052",
+        "47-056",
+        "47-058",
+        "47-060",
+        "47-064",
+        "47-065",
+        "47-067",
+        "47-068",
+        "47-069",
+        "47-070",
+        "47-071",
+        "47-072",
+        "47-073",
+        "47-074",
+        "47-075",
+        "47-082",
+        "47-083",
+        "47-084",
+        "31-015",
+        "40-002",
+        "40-030",
+        "40-032"
       ],
-      "nota": "Etiqueta individual conservada sin inferir identidad con otra persona.",
+      "nota": "Grafía confirmada por el usuario. La voz reconocida por Tesara y la explicación de Walulu en el capítulo 47 enlazan el dragón verde y su encargo de sacar a los hermanos. La protección impide su entrada en Iktan; no excluye a los no muertos. Distinto de Zarynth. Las guaridas no se localizan.",
       "tipo": "personaje",
       "descripcion": "Dragón del bosque que negocia paso e información con Citlali."
     },
@@ -1803,7 +1951,16 @@
         "46-055",
         "46-061",
         "46-063",
-        "46-065"
+        "46-065",
+        "47-073",
+        "47-077",
+        "47-079",
+        "47-080",
+        "47-081",
+        "47-082",
+        "47-083",
+        "47-085",
+        "47-086"
       ],
       "nota": "Ictan e Iktan corresponden al topónimo normalizado en las fichas.",
       "tipo": "lugar",
@@ -2005,7 +2162,8 @@
         "46-050",
         "46-053",
         "46-059",
-        "46-060"
+        "46-060",
+        "47-079"
       ],
       "nota": "Colectivo de personas, distinto de la embarcación aunque comparta nombre.",
       "tipo": "faccion",
@@ -2321,7 +2479,9 @@
         "43-012",
         "43-013",
         "46-060",
-        "46-063"
+        "46-063",
+        "47-001",
+        "47-017"
       ],
       "descripcion": "Poblado costero bajo la autoridad de Bonnie.",
       "nota": "Entrada documentada en los registros citados."
@@ -2449,7 +2609,12 @@
         "46-058",
         "46-059",
         "46-060",
-        "46-066"
+        "46-066",
+        "47-077",
+        "47-079",
+        "47-080",
+        "47-081",
+        "47-090"
       ],
       "descripcion": "Taberna de Iktan visitada por los viajeros.",
       "nota": "Entrada documentada en los registros citados."
@@ -2463,7 +2628,10 @@
       "referencias": [
         "15-003",
         "15-007",
-        "16-001"
+        "16-001",
+        "47-001",
+        "47-017",
+        "47-018"
       ],
       "descripcion": "Granja de Patata situada junto al camino cercano a Shiaru.",
       "nota": "Entrada documentada en los registros citados."
@@ -2597,7 +2765,8 @@
       ],
       "referencias": [
         "16-001",
-        "16-009"
+        "16-009",
+        "47-021"
       ],
       "descripcion": "Martillo obtenido por Patata después de que se rompiera su espada.",
       "nota": "Entrada documentada en los registros citados."
@@ -2794,25 +2963,12 @@
         "45-064",
         "45-067",
         "45-075",
-        "45-078"
+        "45-078",
+        "47-078",
+        "47-089"
       ],
       "descripcion": "Tortuga monje venerada como Gran Anciano y protectora de Iktan.",
       "nota": "Su aspecto pétreo no es una petrificación. Se conservan en tensión la edad declarada de 77 años y los siglos atribuidos por Walulu."
-    },
-    {
-      "nombre": "Dragón verde del bosque de Iktan",
-      "tipo": "personaje",
-      "etiquetas": [
-        "Dragón verde del bosque de Iktan"
-      ],
-      "referencias": [
-        "31-015",
-        "40-002",
-        "40-030",
-        "40-032"
-      ],
-      "descripcion": "Adversario del bosque relacionado con el veneno, las heridas de Triel y la caza proyectada por Ilikar y Eldrat.",
-      "nota": "Nombre propio de reconocimiento incierto. No se fusiona con Clodidrax ni se afirma que sean necesariamente criaturas diferentes. La destrucción de las casas antiguas tampoco fija su autoría."
     },
     {
       "nombre": "Masa zombi del claro envenenado",
@@ -2938,7 +3094,31 @@
         "45-069",
         "45-070",
         "45-072",
-        "45-074"
+        "45-074",
+        "47-003",
+        "47-011",
+        "47-012",
+        "47-013",
+        "47-014",
+        "47-015",
+        "47-021",
+        "47-028",
+        "47-029",
+        "47-036",
+        "47-039",
+        "47-044",
+        "47-047",
+        "47-053",
+        "47-057",
+        "47-038",
+        "47-042",
+        "47-043",
+        "47-061",
+        "47-066",
+        "47-068",
+        "47-071",
+        "47-078",
+        "47-089"
       ],
       "descripcion": "Viajero acuático próximo a Perlasal que lleva a Chopito en un frasco y combate junto a Naór, Blink y Winscore.",
       "nota": "Grafía provisional. La presentación Tenta y la continuidad con el pulpo enlazan las variantes; no se fija raza ni una identidad anterior."
@@ -2979,7 +3159,23 @@
         "45-062",
         "45-066",
         "45-069",
-        "45-072"
+        "45-072",
+        "47-012",
+        "47-014",
+        "47-016",
+        "47-023",
+        "47-026",
+        "47-029",
+        "47-038",
+        "47-042",
+        "47-043",
+        "47-061",
+        "47-066",
+        "47-071",
+        "47-075",
+        "47-076",
+        "47-078",
+        "47-089"
       ],
       "descripcion": "Pulpo telepático vinculado a Tentacol, transportado en un recipiente con agua y capaz de intervenir en la investigación.",
       "nota": "Su pretensión de recibir adoración o poseer súbditos es testimonio suyo, sin divinidad ni mando sobre el dragón demostrados."
@@ -3410,13 +3606,13 @@
       ]
     },
     {
-      "nombre": "Directora del colegio de Iktan",
+      "nombre": "Miaussy",
       "tipo": "personaje",
       "etiquetas": [
         "Directora del colegio de Iktan"
       ],
       "descripcion": "Directora felina con gafas del colegio de Iktan que discute con Naór sobre Leo y acepta una permanencia adicional de dos horas.",
-      "nota": "Nombre Musí de lectura provisional en el diálogo de Walulu; mantener denominación descriptiva hasta confirmarlo. No fue testigo directo del incidente del hámster.",
+      "nota": "Nombre Musí de lectura provisional en el diálogo de Walulu; mantener denominación descriptiva hasta confirmarlo. No fue testigo directo del incidente del hámster. Nombre confirmado por corrección de jugadores en el editor compartido (revisión 1794159261034306): Miaussy.",
       "referencias": [
         "45-003",
         "45-004",
@@ -3440,7 +3636,10 @@
         "46-054",
         "46-055",
         "46-056",
-        "46-064"
+        "46-064",
+        "47-004",
+        "47-005",
+        "47-006"
       ]
     },
     {
@@ -3759,7 +3958,8 @@
         "46-051",
         "46-052",
         "46-057",
-        "46-066"
+        "46-066",
+        "47-090"
       ]
     },
     {
@@ -3880,6 +4080,166 @@
       "referencias": [
         "46-059",
         "46-060"
+      ]
+    },
+    {
+      "nombre": "Mictlan",
+      "tipo": "personaje",
+      "etiquetas": [
+        "Mictlan",
+        "Mlan",
+        "Miklan",
+        "Mic",
+        "mi clan"
+      ],
+      "descripcion": "Felino de ojos amarillos que vigila las ruinas y combate con descargas mágicas.",
+      "nota": "Mictlan es la grafía confirmada por el coordinador al leer completa la escena posterior x-1531013198478708756. El VTT de este bloque conserva «Mlan» en c001297 y c001303. Se usa esa escena solo para la identidad, sin trasladar sus acciones al capítulo 47; no se asigna una tribu ni se fusionan otros felinos.",
+      "referencias": [
+        "47-019",
+        "47-020",
+        "47-025",
+        "47-034",
+        "47-035",
+        "47-037",
+        "47-039",
+        "47-040",
+        "47-041",
+        "47-055",
+        "47-058",
+        "47-059",
+        "47-062",
+        "47-063",
+        "47-068",
+        "47-069",
+        "47-076",
+        "47-077",
+        "47-081",
+        "47-086",
+        "47-088"
+      ]
+    },
+    {
+      "nombre": "Ruinas de la orilla del lago de Iktan",
+      "tipo": "lugar",
+      "etiquetas": [
+        "Ruinas de la orilla del lago de Iktan"
+      ],
+      "descripcion": "Tres o cuatro muros caídos junto al lago al que llega Tesa desde la puerta norte de Iktan.",
+      "nota": "Nombre editorial descriptivo. No fusionar con el barrio antiguo, las ruinas del nido del capítulo 7, el templo de los nawals o el claro del capítulo 40 sin cotejo adicional.",
+      "referencias": [
+        "47-008",
+        "47-009",
+        "47-010",
+        "47-011",
+        "47-015",
+        "47-019",
+        "47-020",
+        "47-021",
+        "47-022",
+        "47-024",
+        "47-049",
+        "47-051",
+        "47-052",
+        "47-056",
+        "47-057",
+        "47-058",
+        "47-060"
+      ]
+    },
+    {
+      "nombre": "Cadáveres movidos por raíces de las ruinas del lago",
+      "tipo": "personaje",
+      "etiquetas": [
+        "Cadáveres movidos por raíces de las ruinas del lago"
+      ],
+      "descripcion": "Grupo de cuerpos y restos levantados y movidos por plantas en las ruinas.",
+      "nota": "Ficha colectiva descriptiva de los adversarios presentes, sin convertir el fenómeno en una facción ni identificar estos cuerpos con otros no muertos anteriores.",
+      "referencias": [
+        "47-022",
+        "47-026",
+        "47-027",
+        "47-030",
+        "47-031",
+        "47-032",
+        "47-033",
+        "47-034",
+        "47-037",
+        "47-040",
+        "47-041",
+        "47-044",
+        "47-046",
+        "47-047",
+        "47-049",
+        "47-053",
+        "47-054",
+        "47-055",
+        "47-057",
+        "47-058"
+      ]
+    },
+    {
+      "nombre": "Escupefuego",
+      "tipo": "objeto",
+      "etiquetas": [
+        "Escupefuego"
+      ],
+      "descripcion": "Pistola de Tesa con una carga de fuego utilizada contra un zombi cubierto de plantas.",
+      "nota": "Nombre tomado de la declaración repetida en la escena. No se fija daño total, capacidad de cargas ni poderes fuera del uso observado.",
+      "referencias": [
+        "47-026",
+        "47-027"
+      ]
+    },
+    {
+      "nombre": "Piratas ocupantes de Shiaru",
+      "tipo": "faccion",
+      "etiquetas": [
+        "Piratas ocupantes de Shiaru"
+      ],
+      "descripcion": "Nuevos piratas a los que Patata atribuye la ocupación del poblado y la expulsión de habitantes.",
+      "nota": "Denominación colectiva descriptiva basada solo en su testimonio. No se identifica capitán, bandera, alianza ni relación con los clientes nuevos de Iktan.",
+      "referencias": [
+        "47-017"
+      ]
+    },
+    {
+      "nombre": "Oliver",
+      "tipo": "personaje",
+      "etiquetas": [
+        "Oliver",
+        "Oli"
+      ],
+      "descripcion": "Hermano menor de Tesara, vinculado al museo según el rol escrito, a quien amenaza Clolgedranx.",
+      "nota": "Ya mencionado por Tesara en el rol escrito de mayo y julio: x-1504724660288356372 y x-1528736536982454303. La amenaza del 47 no representa su captura o ubicación actual. Los antecedentes del museo y la familia son declaraciones de Tesara, conservadas en las escenas escritas.",
+      "referencias": [
+        "47-074"
+      ]
+    },
+    {
+      "nombre": "Guardia de Iktan",
+      "tipo": "faccion",
+      "etiquetas": [
+        "Guardia de Iktan"
+      ],
+      "descripcion": "Guardia local en la que Walulu confía para contener las huestes de muertos.",
+      "nota": "Función colectiva en testimonio de Walulu; sin nombres individuales, número o victoria nueva confirmados.",
+      "referencias": [
+        "47-083",
+        "47-084",
+        "47-086"
+      ]
+    },
+    {
+      "nombre": "Libro histórico mostrado por Walulu",
+      "tipo": "objeto",
+      "etiquetas": [
+        "Libro histórico mostrado por Walulu"
+      ],
+      "descripcion": "Gran libro sobre historias antiguas y dirigentes de Iktan que Walulu abre durante la audiencia.",
+      "nota": "Denominación descriptiva sin título propio pronunciado. No equivale al diario Terran ni a una receta de Parroter.",
+      "referencias": [
+        "47-082",
+        "47-085"
       ]
     }
   ],

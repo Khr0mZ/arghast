@@ -8,11 +8,11 @@ Nombre Zoltan sin tilde. No identificar como responsable de los cadáveres por m
 
 Etiquetas agrupadas: Zoltan.
 
-Base para revisar equivalencia: [46-019](../capitulos/46.md), [46-020](../capitulos/46.md), [46-021](../capitulos/46.md), [46-022](../capitulos/46.md), [46-023](../capitulos/46.md), [46-024](../capitulos/46.md), [46-025](../capitulos/46.md), [46-026](../capitulos/46.md), [46-028](../capitulos/46.md), [46-029](../capitulos/46.md), [46-030](../capitulos/46.md), [46-032](../capitulos/46.md), [46-034](../capitulos/46.md), [46-036](../capitulos/46.md), [46-041](../capitulos/46.md), [46-045](../capitulos/46.md), [46-048](../capitulos/46.md), [46-049](../capitulos/46.md), [46-050](../capitulos/46.md), [46-051](../capitulos/46.md), [46-052](../capitulos/46.md), [46-057](../capitulos/46.md), [46-066](../capitulos/46.md).
+Base para revisar equivalencia: [46-019](../capitulos/46.md), [46-020](../capitulos/46.md), [46-021](../capitulos/46.md), [46-022](../capitulos/46.md), [46-023](../capitulos/46.md), [46-024](../capitulos/46.md), [46-025](../capitulos/46.md), [46-026](../capitulos/46.md), [46-028](../capitulos/46.md), [46-029](../capitulos/46.md), [46-030](../capitulos/46.md), [46-032](../capitulos/46.md), [46-034](../capitulos/46.md), [46-036](../capitulos/46.md), [46-041](../capitulos/46.md), [46-045](../capitulos/46.md), [46-048](../capitulos/46.md), [46-049](../capitulos/46.md), [46-050](../capitulos/46.md), [46-051](../capitulos/46.md), [46-052](../capitulos/46.md), [46-057](../capitulos/46.md), [46-066](../capitulos/46.md), [47-090](../capitulos/47.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### El cautivo entre los cadáveres
 
@@ -37,6 +37,12 @@ Fuentes: [46-026 · Citlali ayuda a Zoltan a abandonar la cueva](../capitulos/46
 Zoltan explica que quiso proteger a sus rescatadores, aunque Ione le reprocha la descarga. Al intentar extraer un colmillo, su poder chamusca el cadáver y rompe los dientes; al registrar las casas provoca pequeños fuegos. Ayuda a la herida Citlali y acompaña al grupo a Iktan. Allí pide una cerveza a Angelique, acepta su coqueteo y ambos se retiran a una habitación en el cierre.
 
 Fuentes: [46-048 · Ione reprocha a Zoltan el daño eléctrico y le da libertad de marcharse](../capitulos/46.md) · 01:42:39.239 · [46-049 · La extracción del colmillo termina en una descarga descontrolada](../capitulos/46.md) · 01:44:38.320 · [46-050 · Zoltan sostiene a Citlali y Eleanor le proporciona una montura temporal](../capitulos/46.md) · 01:47:03.270 · [46-051 · La investigación de Zoltan provoca pequeños fuegos sin hallar botín](../capitulos/46.md) · 01:49:25.239 · [46-052 · Citlali reconoce el camino y el grupo llega a Iktan](../capitulos/46.md) · 01:50:32.080 · [46-057 · Zoltan toma una cerveza y Angelique lo corteja](../capitulos/46.md) · 02:03:44.679 · [46-066 · Zoltan y Angelique se retiran a una habitación](../capitulos/46.md) · 02:21:14.359.
+
+### La descripción que recibe Patata
+
+Angelique cuenta a Patata que ha llegado un hombre de torso desnudo, herida y chispas con quien estuvo el día anterior. Lo nombra Zoltan y promete presentárselo. Su testimonio amplía la circulación del nombre, sin explicar las marcas, la electricidad o el pasado del recién llegado.
+
+Fuentes: [47-090 · Angelique cuenta a Patata su encuentro con Zoltan](../capitulos/47.md) · 02:17:15.880.
 
 ## Registros y evidencias
 
@@ -247,4 +253,12 @@ Tipo: `hecho_confirmado`.
 Tras el coqueteo en la barra, Angelique toma del brazo a Zoltan y lo lleva a una habitación, cuya puerta cierra. Una carta del chat le concede furia y el final representa el encuentro privado mediante ruidos y chispas que salen de la puerta. Los otros permanecen en la taberna; Citlali sigue hablando con Etley e Ione termina su venta a Froger.
 
 El cierre no narra consecuencias posteriores, una nueva descarga contra el pueblo o un vínculo matrimonial. La anécdota sobre Gur de Kuroto pertenece a la conversación de mesa y no incorpora ese personaje ni sus hechos a Xoltacan.
+
+## [47-090 · Angelique cuenta a Patata su encuentro con Zoltan](../capitulos/47.md) · 02:17:15.880
+
+Tipo: `declaracion_personaje`.
+
+Patata intenta cortejar a la encargada, que deriva la conversación hacia un recién llegado de torso desnudo, herida y chispas. Dice que estuvo con él el día anterior, promete presentárselo y finalmente lo nombra Zoltan. Lo describe mientras Patata sigue en la taberna; Tesara y el felino regresan de hablar con Walulu y Chopito continúa la imitación de Tortas en el cierre.
+
+No se representa una nueva aparición de Zoltan ni la presentación prometida. La expresión «ayer» pertenece al testimonio de Angelique; no sirve por sí sola para cerrar un calendario. Las comparaciones de mesa con otros personajes o campañas no incorporan sus identidades a Xoltacan.
 

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [16-018](../capitulos/16.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### La alquimia entre los servicios locales
 

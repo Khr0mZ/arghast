@@ -12,7 +12,7 @@ Base para revisar equivalencia: [29-020](../capitulos/29.md), [29-021](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### Una ciudad bajo el agua que teme a la superficie
 
@@ -215,4 +215,28 @@ Tipo: `hecho_confirmado`.
 Ivet vuelve al altar del templo para recitar salmos en Aquan ante su pueblo y permite a los visitantes permanecer. Tortas sigue buscando una piedra que le guste. Triel se aparta hacia dos sirenos que llevan una criatura parecida a un caballo con cola marina y pregunta si puede probarla. El capítulo termina antes de que la monte o reciba una respuesta.
 
 Los comentarios sobre plegarias a Chopito son bromas del personaje, no la identificación del culto de Ivet. El animal no recibe nombre ni se convierte en una montura adquirida por Triel.
+
+## [47-003 · Tenta sale de Perlasal con Chopito para buscar más súbditos](../capitulos/47.md) · 00:01:57.840
+
+Tipo: `declaracion_personaje`.
+
+La jugadora sitúa a Tenta y Chopito después de la estancia en Perlasal. Dice que los habitantes conocen a Tenta pero desconfían del pulpo, y que Chopito quiere volver a buscar súbditos leales. El director corrige que van en dirección a Iktan, sin haber llegado todavía.
+
+La reacción de los habitantes y el objetivo de reclutamiento son recapitulación. No se cuantifican los seguidores ni se confirma la divinidad que Chopito se atribuye.
+
+## [47-011 · Tenta y Chopito salen por otro punto del lago](../capitulos/47.md) · 00:13:27.199
+
+Tipo: `explicacion_director`.
+
+Tenta y Chopito emergen del agua cerca de las ruinas. El director recuerda que habían viajado a Perlasal por el lago y unos túneles sumergidos y aclara que el regreso los ha sacado por otra parte de la orilla. Tenta reconoce que no conoce el sitio y teme haberse equivocado de ruta; Chopito se acomoda después en el tarro.
+
+El lago no recibe nombre propio en este diálogo. La referencia no identifica todos los lagos mencionados en la campaña.
+
+## [47-071 · Chopito rechaza que le ofrezcan Perlasal](../capitulos/47.md) · 01:49:04.280
+
+Tipo: `declaracion_personaje`.
+
+Chopito anima mentalmente a Tentacol a negociar. Tentacol pregunta qué puede ofrecer una criatura cuyos dominios parecen limitarse al bosque. El dragón observa al pulpo, le brillan los ojos y dice tener magia poderosa y poder ofrecerle Perlasal. Chopito rechaza que le vendan lo que considera suyo; el dragón replica que entonces sus súbditos no lo respetan.
+
+Ni la oferta ni la reivindicación del pulpo prueban soberanía efectiva, posesión o control del dragón sobre Perlasal. Los ojos brillantes no explican por sí solos qué magia realiza.
 

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [42-015](../capitulos/42.md), [42-018](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### La nave de Bonnie entre rayos
 

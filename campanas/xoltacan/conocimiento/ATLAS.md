@@ -1,5 +1,11 @@
 # Lugares y regiones de Xoltacan
 
+## El lago y las defensas de Iktan
+
+Angelique dirige a Tesara a unos muros caídos junto al lago, fuera de la puerta norte y distintos del barrio antiguo. Las raíces y los cadáveres no fechan los restos ni identifican a sus constructores. Patata destruye la masa de cuerpos, sin eliminar al dragón ([capítulo 47](capitulos/47.md)).
+
+Walulu explica que, después del ataque vinculado a las ruinas antiguas, un dirigente y miembros de las tribus establecieron hace ciento veinte años una protección contra la entrada y el sobrevuelo de dragones. Los no muertos no quedan excluidos. Informa de varias guaridas de Clolgedranx, sin ubicarlas o identificar la cueva anterior. Su relato y el libro conservan el carácter de testimonio histórico.
+
 Las direcciones, los tiempos de viaje y los mapas de las sesiones permiten describir los lugares, pero no ofrecen una cartografía a escala. Anunciar un destino no acredita haber llegado a él.
 
 | Lugar | Información documentada | Fuentes |

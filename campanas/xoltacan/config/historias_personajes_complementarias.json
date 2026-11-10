@@ -1,5 +1,5 @@
 {
-  "revisado_hasta": 46,
+  "revisado_hasta": 47,
   "personajes": {
     "Angélica Thunder": [
       {
@@ -48,7 +48,7 @@
         ]
       }
     ],
-    "Baps": [
+    "Babs": [
       {
         "titulo": "Entre la taberna y el Zampaolas",
         "texto": "Baps pertenece al entorno de los piratas de Shiaru. Nox lo consulta al buscar a Ione y su nombre vuelve a aparecer en los intercambios de mapas y en el croquis que Jack prepara sobre las posiciones de la Marina. Cuando Ione pierde al póker, Baps y otros compañeros intentan no enfadarla. Más adelante aparece con la vieja tripulación disparando al pulpo que amenaza al Zampaolas, aunque llegan después de su muerte. Sus escenas lo sitúan como presencia recurrente de la vida del barco, sin un arco personal resuelto.",
@@ -77,7 +77,7 @@
         ]
       }
     ],
-    "Baton": [
+    "Button": [
       {
         "titulo": "Del cautiverio al camino de casa",
         "texto": "Baton es uno de los nativos liberados de un campamento de la Marina. Junto a Nelli guía a Patata, Blink y Ayoto hacia Cuicapalli, facilitando su llegada y el contacto con Eromov. Naór lo reconoce durante el viaje y el líder agradece a los visitantes la liberación de ambos nativos. Baton se convierte así en uno de los vínculos entre los extranjeros de Shiaru y la comunidad del interior.",
@@ -105,7 +105,7 @@
         ]
       }
     ],
-    "Bonnie": [
+    "\"Happy\" Bonny": [
       {
         "titulo": "Happy Bonnie y el precio de Shiaru",
         "texto": "Bonnie gobierna el entorno pirata de Shiaru mediante deudas, encargos y amenazas. El accidente del Zampaolas convierte a Nox e Ione en deudores y servidores suyos. Les exige recuperar objetos de las excavaciones y detecta enseguida que le entregan un collar sin las gemas. También mantiene un acuerdo con Molly: cuando la Marina llega a cobrar su parte, encarga robar los documentos que lo acreditan. Cada aventura de los piratas modifica sus obligaciones, pero no los libera de su control.",
@@ -179,9 +179,17 @@
           "42-071",
           "42-072"
         ]
+      },
+      {
+        "titulo": "El cuerpo expuesto en Shiaru",
+        "texto": "La concreción inicial del director añade el hallazgo de Patata al destino de Bonny: al regresar encuentra su cuerpo colgado de la entrada del poblado. Patata transmite luego a Tesa que la antigua gobernante parece muerta y que otros piratas ocupan Shiaru. La información amplía las consecuencias de su caída, sin identificar ejecutores o resolver deudas pendientes.",
+        "referencias": [
+          "47-001",
+          "47-017"
+        ]
       }
     ],
-    "Camar Taruan": [
+    "Kamar Tar’Khuan": [
       {
         "titulo": "El rey que busca reunir a los clanes",
         "texto": "Camar, rey leonino de Atlan y padre de Naór, envía a su hija a convocar a los dirigentes del norte ante la expansión de los extranjeros. La misión lleva a la princesa a Cuicapalli, Ras Racor y finalmente Iktan. Según Naór, Atlan lleva siglos custodiando la frontera y la costa del sur, y su padre cree que ningún clan podrá afrontar solo el cambio de fuerzas en la isla. Walulu promete apoyar su convocatoria de un concilio en Tutucan la noche anterior al próximo solsticio. Todavía no se muestra la celebración del encuentro ni su resultado.",
@@ -219,7 +227,7 @@
         ]
       }
     ],
-    "Cipo": [
+    "Zippo": [
       {
         "titulo": "Una presencia de fuego junto a Mamá",
         "texto": "Cipo, la criatura ígnea invocada inicialmente por Mamá, introduce el caos en la taberna desde el comienzo: provoca quemaduras y focos de fuego hasta que ella consigue hacerlo salir. Después acompaña expediciones, señala la presencia de piratas y recibe curación de Patata. A veces sus acciones solo se explican al público, como el ruido que hace huir al grupo después de encontrar el huevo.",
@@ -303,12 +311,98 @@
         ]
       }
     ],
-    "Clodidrax": [
+    "Clolgedranx": [
       {
         "titulo": "Un trato en el bosque",
         "texto": "Cuando Citlali y sus compañeros viajan hacia Iktan, una presencia invisible reconoce que ella lleva marcas y le habla sin dejarse ver por los demás. Se presenta como Clodidrax, apodado Clotis, y el director confirma que es un dragón. Niega estar vinculado a las serpientes y ofrece paso a cambio de información sobre dos elfos pálidos que llegaron semanas antes a un lugar al que él no puede acercarse. Citlali acepta intentar averiguarlo. El trato queda pendiente y no se confirma que sea el mismo dragón que atacó al grupo anterior.",
         "referencias": [
           "39-016"
+        ]
+      },
+      {
+        "titulo": "El enemigo que permanece en el bosque",
+        "texto": "Eldrat identifica un enorme dragón verde camuflado durante el viaje a Iktan; el grupo huye sin derrotarlo. Después relata que Triel volvió envenenada por ese dragón y que la cuidó. En el festival, Tortas expresa preocupación por el daño del veneno y se recuerda el título Serpiente del Bosque. Las variantes automáticas no fijan su nombre propio ni demuestran una identidad con Clodidrax.",
+        "referencias": [
+          "31-015",
+          "31-019",
+          "40-002",
+          "40-029",
+          "40-030"
+        ]
+      },
+      {
+        "titulo": "Una persecución aplazada",
+        "texto": "Triel cuenta una emboscada con veneno al entrar en una cueva, sin saber si era la guarida. Los restos del claro y la muestra se comparan con veneno dracónico, pero no se observa su producción. El goliat encuentra un rastro hacia el norte y Eldrat exige recuperarse antes de seguirlo. Walulu teme que provocar al dragón cause un ataque que Iktan no podría detener. Eldrat e Ilikar pactan obtener respuestas y después entregar la cabeza como trofeo; aún no se enfrentan al enemigo.",
+        "referencias": [
+          "40-016",
+          "40-026",
+          "40-030",
+          "40-032",
+          "40-033",
+          "40-035",
+          "40-037",
+          "40-039"
+        ]
+      },
+      {
+        "titulo": "La mirada entre las ramas y el olor reconocido",
+        "texto": "Tras la victoria sobre los adversarios, una voz exige dejar los cuerpos como alimento y provoca compulsión en todos los viajeros salvo Tentacol. Durante la retirada Winscore ve un dragón verde entre las ramas. Tortas reconoce después el mismo tipo de olor en Blink. La asociación contextual no establece verbalmente quién emitió la voz ni una alianza con los yuan-ti. El nombre sigue mal reconocido, la guarida desconocida y la identidad con Clodidrax sin demostrar; no se cumple la caza pactada por Eldrat e Ilikar.",
+        "referencias": [
+          "41-049",
+          "41-050",
+          "41-051",
+          "41-054",
+          "41-055"
+        ]
+      },
+      {
+        "titulo": "La explicación que teme Tesa",
+        "texto": "El encargo de los elfos sigue ocupando los ratos libres de Tesa. Al reconocer parcialmente el comportamiento de los cadáveres, advierte que las plantas podrían obedecer a un dragón verde capaz de entrar en sus cabezas. En ese primer aviso aún no lo han visto ni han sufrido la nueva intrusión mental.",
+        "referencias": [
+          "47-002",
+          "47-024"
+        ]
+      },
+      {
+        "titulo": "La exigencia sobre los dos elfos",
+        "texto": "Impone imágenes y el impulso de sacar a dos elfos pálidos de la ciudad para llevarlos a la jungla. Repite el mandato, ofrece una recompensa y amenaza con la suerte de los cadáveres. El fin que persigue y el motivo de recurrir a intermediarios siguen sin explicación.",
+        "referencias": [
+          "47-038",
+          "47-042",
+          "47-048",
+          "47-049"
+        ]
+      },
+      {
+        "titulo": "Seguido sin ser visto",
+        "texto": "Tesara conoce su posición por las ramas y flores aplastadas. Una rama rebota sobre algo invisible y recibe una respuesta burlona. La criatura se cambia de lugar durante la pelea; después Tesara detecta un nuevo hueco delante de ella. Ni la caída de la masa ni ese rastreo muestran su derrota.",
+        "referencias": [
+          "47-050",
+          "47-051",
+          "47-052",
+          "47-056",
+          "47-058",
+          "47-060"
+        ]
+      },
+      {
+        "titulo": "Una semana para cobrar una recompensa",
+        "texto": "La criatura invisible se acerca a Tesara, juega con su miedo y se muestra cuando todos quedan enredados en raíces. Exige a los hermanos elfos, amenaza con devorar al grupo y ofrece recompensas. Dice que alguien le pagará por ellos; nombra a Oliver y da una semana antes de enviar a su hueste contra la ciudad. Se retira otra vez invisible. Walulu lo relaciona con un ataque antiguo tras el que se protegió Iktan e informa de varias guaridas dispersas por la jungla.",
+        "referencias": [
+          "47-064",
+          "47-065",
+          "47-067",
+          "47-068",
+          "47-069",
+          "47-070",
+          "47-071",
+          "47-072",
+          "47-073",
+          "47-074",
+          "47-075",
+          "47-082",
+          "47-083",
+          "47-084"
         ]
       }
     ],
@@ -397,7 +491,7 @@
         ]
       }
     ],
-    "Dragón de Erendriel": [
+    "Zarynth": [
       {
         "titulo": "La cría que acompañaba al explorador",
         "texto": "Erendriel cuenta que encontró su huevo junto al cadáver de un dragón y decidió conservarlo. La cría viaja con él y participa en las expediciones del grupo. En la búsqueda del huevo de Mamá cae inconsciente, pero Nox consigue recuperarla; la campaña aclara que no murió en aquella pelea. Durante la incursión de Ruki Peten ayuda a orientar la búsqueda y termina huyendo, mientras otros aventureros quedan cautivos.",
@@ -419,7 +513,7 @@
         ]
       }
     ],
-    "Eldrat": [
+    "Eldrath": [
       {
         "titulo": "Dos hermanos acostumbrados a sobrevivir juntos",
         "texto": "La presentación de Eldrat y Triel muestra una infancia y adolescencia compartidas entre peleas y hurtos, antes de su llegada a Shiaru. Eldrat combate con dagas psíquicas y una kusarigama, y su relación con su hermana atraviesa sus decisiones. Ambos se unen a la investigación del mercante espectral; después participan en el ataque al poblado caníbal. En la arena de Ras Racor, Eldrat mata a la hidra al intentar ayudar a su hermana.",
@@ -479,6 +573,21 @@
           "40-039",
           "40-041",
           "40-042"
+        ]
+      },
+      {
+        "titulo": "Buscados para una recompensa",
+        "texto": "Tesara los considera compañeros que se salvaron mutuamente ante la criatura. El dragón dice que un tercero los quiere y pide su entrega. En Iktan Angelique informa de que la muchacha partió con una patrulla para bucear y de que el hermano entrenaba esa mañana, sin localizarlos ahora. Walulu explica que la ciudad los protege frente al dragón y se opone a expulsarlos.",
+        "referencias": [
+          "47-067",
+          "47-069",
+          "47-072",
+          "47-073",
+          "47-076",
+          "47-080",
+          "47-082",
+          "47-083",
+          "47-086"
         ]
       }
     ],
@@ -735,7 +844,7 @@
         ]
       }
     ],
-    "Etley": [
+    "Eztli": [
       {
         "titulo": "El huevo que consiguió nacer",
         "texto": "Etley procede del huevo que Citlali recogió en las ruinas y cuidó durante buena parte de la campaña. Cuando la Marina se lo lleva, sus compañeros ayudan a recuperarlo. Un disparo daña la cáscara y el intento de curarla desencadena la eclosión de una cría grande y emplumada. Poco después mata y devora al capitán que perseguía a los fugitivos. El grupo parte hacia Cuicapalli buscando un lugar donde protegerla.",
@@ -1161,6 +1270,15 @@
           "46-054",
           "46-055",
           "46-056"
+        ]
+      },
+      {
+        "titulo": "Una queja que no consigue la defensa de Tesa",
+        "texto": "Leo acusa a una mujer de haberle pegado en el colegio después de llevarse a su amigo. También reprocha a Tesa que no lo protegiera y amenaza con contárselo a su madre. Tesa duda de su conducta y él responde con una burla sobre su edad. Tras recibir un golpe, agacha las orejas pero todavía se despide con un gesto insultante. Corre al interior del colegio cuando ella saca el látigo.",
+        "referencias": [
+          "47-004",
+          "47-005",
+          "47-006"
         ]
       }
     ],
@@ -1769,6 +1887,13 @@
           "45-076",
           "45-077"
         ]
+      },
+      {
+        "titulo": "Una conversación a la vuelta",
+        "texto": "Walulu quiere hablar con Naór y pregunta si ha vuelto. Tesara lamenta llevar días cuidando al niño que le dejó. La dirigente plantea reunirlos cuando regrese y obtiene el compromiso de Tesara de acompañarlos, sin que la reunión llegue a celebrarse.",
+        "referencias": [
+          "47-087"
+        ]
       }
     ],
     "Nelli": [
@@ -2033,6 +2158,75 @@
           "31-026",
           "31-028"
         ]
+      },
+      {
+        "titulo": "Una mañana de estudios que acaba en combate",
+        "texto": "Tesa alterna la investigación del dragón con el cuidado de Leo, del que se queja al llevarlo al colegio. Acuerda con Angelique buscar una joya y va a estudiar unas ruinas junto al lago. Su cautela la hace apuntar a los recién llegados, pero baja el arma al hablar con Tenta y Chopito. Revela que entiende Aquan y comprende los planes de conversión del pulpo sin aceptarlos. Se compadece de Patata, pide permiso al vigilante Mictlan y vuelve a sus apuntes. Cuando se alzan los muertos advierte de un posible vínculo de las plantas con el dragón verde. Su prueba de fuego no hace daño extra, provoca la salpicadura adjudicada y termina buscando sigilo.",
+        "referencias": [
+          "47-002",
+          "47-004",
+          "47-005",
+          "47-006",
+          "47-008",
+          "47-010",
+          "47-013",
+          "47-014",
+          "47-017",
+          "47-020",
+          "47-024",
+          "47-026",
+          "47-027"
+        ]
+      },
+      {
+        "titulo": "Disparos para proteger al felino",
+        "texto": "Sale repetidamente de sus escondites, aplica ataque furtivo y acaba con los adversarios cercanos a Mictlan. Un crítico impide a uno de ellos levantarse. La voz que insiste en los gemelos la obliga a actuar mientras soporta una idea ajena.",
+        "referencias": [
+          "47-035",
+          "47-041",
+          "47-046"
+        ]
+      },
+      {
+        "titulo": "La misma voz, un rastro invisible",
+        "texto": "Reconoce con ayuda del director la voz de la experiencia anterior con los elfos. En lugar de limitarse a atacar la masa busca al responsable, detecta vegetación aplastada y hace caer una rama que rebota sobre algo invisible. Al advertir que ese ocupante ha cambiado de lugar, lo rastrea otra vez con una bendición y retrocede al encontrarlo enfrente.",
+        "referencias": [
+          "47-038",
+          "47-050",
+          "47-051",
+          "47-052",
+          "47-056",
+          "47-060"
+        ]
+      },
+      {
+        "titulo": "Un escondite que también separa de los aliados",
+        "texto": "Los intentos de la presencia y de Mictlan no logran localizarla en ese momento. Mantiene el sigilo mientras Tentacol decide salir hacia los elfos.",
+        "referencias": [
+          "47-058",
+          "47-059",
+          "47-060",
+          "47-061"
+        ]
+      },
+      {
+        "titulo": "De la emboscada a la defensa de los compañeros",
+        "texto": "Tesara intenta herir a la voz invisible, falla y sale de la maleza para advertir a los demás. Se opone a entregar a los hermanos y recibe una amenaza que nombra a Oliver, a quien reconoce como su hermano. Guía el regreso a Iktan y busca a los elfos, pero recibe solo noticias incompletas. Lleva el ultimátum a Walulu, pide una estrategia contra el dragón y acepta acompañar una reunión cuando vuelva Naór. Al regresar discute con el felino porque rechaza sacrificar vidas como moneda.",
+        "referencias": [
+          "47-064",
+          "47-065",
+          "47-066",
+          "47-067",
+          "47-073",
+          "47-074",
+          "47-076",
+          "47-077",
+          "47-080",
+          "47-081",
+          "47-085",
+          "47-087",
+          "47-088"
+        ]
       }
     ],
     "Tim": [
@@ -2053,7 +2247,7 @@
         ]
       }
     ],
-    "Triel": [
+    "Tryel": [
       {
         "titulo": "La hermana que pelea espalda con espalda",
         "texto": "Triel y Eldrat llegan a Shiaru después de una vida compartida que el director presenta mediante escenas de infancia, peleas y hurtos. Ella utiliza una espada azul que, según cuenta, procede de un dragón derrotado con su hermano. En el mercante espectral rompe el relicario que hace desaparecer al capitán y a la tripulación, poniendo fin a la marca de Patata. Después se infiltra disfrazada en el poblado caníbal y sigue explorando junto a los viajeros.",
@@ -2138,6 +2332,21 @@
           "45-068",
           "45-070",
           "45-078"
+        ]
+      },
+      {
+        "titulo": "Buscados para una recompensa",
+        "texto": "Tesara los considera compañeros que se salvaron mutuamente ante la criatura. El dragón dice que un tercero los quiere y pide su entrega. En Iktan Angelique informa de que la muchacha partió con una patrulla para bucear y de que el hermano entrenaba esa mañana, sin localizarlos ahora. Walulu explica que la ciudad los protege frente al dragón y se opone a expulsarlos.",
+        "referencias": [
+          "47-067",
+          "47-069",
+          "47-072",
+          "47-073",
+          "47-076",
+          "47-080",
+          "47-082",
+          "47-083",
+          "47-086"
         ]
       }
     ],
@@ -2254,6 +2463,19 @@
           "45-008",
           "45-009",
           "45-010"
+        ]
+      },
+      {
+        "titulo": "La protección que no alcanza a todos los atacantes",
+        "texto": "Walulu recibe el aviso y muestra en un libro el antecedente del ritual protector realizado hace ciento veinte años tras el ataque del dragón. Sostiene que Iktan impide su entrada, pero reconoce que los muertos deben contenerse con la guardia. Se compromete a estudiar una estrategia y empieza a buscar pergaminos. Mantiene la acogida de los elfos frente a la propuesta del felino y pide hablar con Naór cuando vuelva.",
+        "referencias": [
+          "47-081",
+          "47-082",
+          "47-083",
+          "47-084",
+          "47-085",
+          "47-086",
+          "47-087"
         ]
       }
     ],
@@ -2436,43 +2658,13 @@
           "45-075",
           "45-078"
         ]
-      }
-    ],
-    "Dragón verde del bosque de Iktan": [
-      {
-        "titulo": "El enemigo que permanece en el bosque",
-        "texto": "Eldrat identifica un enorme dragón verde camuflado durante el viaje a Iktan; el grupo huye sin derrotarlo. Después relata que Triel volvió envenenada por ese dragón y que la cuidó. En el festival, Tortas expresa preocupación por el daño del veneno y se recuerda el título Serpiente del Bosque. Las variantes automáticas no fijan su nombre propio ni demuestran una identidad con Clodidrax.",
-        "referencias": [
-          "31-015",
-          "31-019",
-          "40-002",
-          "40-029",
-          "40-030"
-        ]
       },
       {
-        "titulo": "Una persecución aplazada",
-        "texto": "Triel cuenta una emboscada con veneno al entrar en una cueva, sin saber si era la guarida. Los restos del claro y la muestra se comparan con veneno dracónico, pero no se observa su producción. El goliat encuentra un rastro hacia el norte y Eldrat exige recuperarse antes de seguirlo. Walulu teme que provocar al dragón cause un ataque que Iktan no podría detener. Eldrat e Ilikar pactan obtener respuestas y después entregar la cabeza como trofeo; aún no se enfrentan al enemigo.",
+        "titulo": "El modelo de la meditación",
+        "texto": "Tortas permanece en su sitio de Iktan meditando. Tentacol y Chopito se colocan junto a él para imitarlo, hasta componer la apariencia de un anciano sobre una roca. No se representa que Tortas enseñe una técnica nueva o se incorpore a la audiencia con Walulu.",
         "referencias": [
-          "40-016",
-          "40-026",
-          "40-030",
-          "40-032",
-          "40-033",
-          "40-035",
-          "40-037",
-          "40-039"
-        ]
-      },
-      {
-        "titulo": "La mirada entre las ramas y el olor reconocido",
-        "texto": "Tras la victoria sobre los adversarios, una voz exige dejar los cuerpos como alimento y provoca compulsión en todos los viajeros salvo Tentacol. Durante la retirada Winscore ve un dragón verde entre las ramas. Tortas reconoce después el mismo tipo de olor en Blink. La asociación contextual no establece verbalmente quién emitió la voz ni una alianza con los yuan-ti. El nombre sigue mal reconocido, la guarida desconocida y la identidad con Clodidrax sin demostrar; no se cumple la caza pactada por Eldrat e Ilikar.",
-        "referencias": [
-          "41-049",
-          "41-050",
-          "41-051",
-          "41-054",
-          "41-055"
+          "47-078",
+          "47-089"
         ]
       }
     ],
@@ -2561,6 +2753,60 @@
           "45-072",
           "45-074"
         ]
+      },
+      {
+        "titulo": "Un camino desviado que trae nuevos compañeros",
+        "texto": "Sale de Perlasal con Chopito buscando más lugares para sus seguidores y emerge por una orilla distinta de la esperada. Ante Tesa defiende la autoridad de su señor y obedece la orden de abrazarla como posible discípula. Participa en el encuentro con Patata y protege el tarro cuando el suelo se mueve. En combate coloca el Tentáculo de las profundidades, declara daño de frío y añade dos descargas que empujan a los adversarios y reducen su movilidad.",
+        "referencias": [
+          "47-003",
+          "47-011",
+          "47-012",
+          "47-013",
+          "47-014",
+          "47-015",
+          "47-021",
+          "47-028",
+          "47-029"
+        ]
+      },
+      {
+        "titulo": "Impedir que vuelvan los muertos",
+        "texto": "Empuja y ralentiza a los enemigos mientras su tentáculo golpea y reduce parte del daño de un ataque cercano al felino. El apoyo sostenido permite reducir su número sin que todos lleguen al cuerpo a cuerpo.",
+        "referencias": [
+          "47-036",
+          "47-039",
+          "47-044",
+          "47-047"
+        ]
+      },
+      {
+        "titulo": "Contra la forma colectiva",
+        "texto": "Aplica Hex y sigue golpeando a la masa, incluida una maniobra que debe rodear un muro del escenario. Los empujones la apartan y sus efectos reducen de nuevo la movilidad.",
+        "referencias": [
+          "47-053",
+          "47-057"
+        ]
+      },
+      {
+        "titulo": "Aceptar el supuesto rescate",
+        "texto": "Escucha la versión de Chopito sobre los elfos que necesitan ayuda. Después de dispersar la masa anuncia que deben buscarlos y corre hacia el bosque. La localización y entrega todavía no ocurren.",
+        "referencias": [
+          "47-038",
+          "47-042",
+          "47-043",
+          "47-061"
+        ]
+      },
+      {
+        "titulo": "Negociar antes de imitar al maestro",
+        "texto": "Tentacol abre el frasco para que Chopito salga a hablar con Tesara. Queda atrapado por las raíces, pregunta al dragón qué recompensa podría ofrecer y escucha la propuesta sobre Perlasal. Al volver a Iktan se queda con Tortas y el pulpo para imitar la meditación. En el cierre se muestra como una roca sobre la que se coloca Chopito.",
+        "referencias": [
+          "47-066",
+          "47-068",
+          "47-071",
+          "47-078",
+          "47-089"
+        ]
       }
     ],
     "Chopito": [
@@ -2613,6 +2859,40 @@
           "45-066",
           "45-069",
           "45-072"
+        ]
+      },
+      {
+        "titulo": "Dos intentos de reclutamiento y seis puntos de daño",
+        "texto": "Prefiere buscar seguidores en más lugares antes que concentrarlos en Iktan. Intenta aprovechar la supuesta ignorancia de Tesa, pero descubre que entiende sus comentarios en Aquan. Ordena a Tenta abrazarla y más tarde ofrece cobijo a Patata bajo obediencia, sin conseguir una conversión. Ante el despertar de los muertos su tarro se oscurece de tinta en una reacción humorística. También recibe los seis puntos de daño de la salpicadura. Su acompañamiento no le concede un turno independiente del de Tenta.",
+        "referencias": [
+          "47-012",
+          "47-014",
+          "47-016",
+          "47-023",
+          "47-026",
+          "47-029"
+        ]
+      },
+      {
+        "titulo": "Un mandato presentado como idea propia",
+        "texto": "Cuenta a Tentacol que ha visto a dos orejas picudas en una ciudad del bosque y que deben rescatarlas y llevarlas a la jungla. Anima a terminar deprisa con los muertos y presenta el propósito como su propio plan.",
+        "referencias": [
+          "47-038",
+          "47-042",
+          "47-043",
+          "47-061"
+        ]
+      },
+      {
+        "titulo": "La negociación que no entrega a los elfos",
+        "texto": "Chopito abofetea a Tesara para que reaccione y cuestiona su relato sobre el dragón. Anima mentalmente a Tentacol a negociar; rechaza Perlasal como recompensa porque lo considera suyo. Tras la retirada de la criatura consuela a Tesara y la acusa de marcarse un farol. Ya en Iktan imita a Tortas desde encima de Tentacol con apariencia de piedra.",
+        "referencias": [
+          "47-066",
+          "47-071",
+          "47-075",
+          "47-076",
+          "47-078",
+          "47-089"
         ]
       }
     ],
@@ -2807,7 +3087,7 @@
         ]
       }
     ],
-    "Directora del colegio de Iktan": [
+    "Miaussy": [
       {
         "titulo": "Una permanencia negociada para Leo",
         "texto": "La directora, una pequeña felina con gafas, pide a Naór que baje la voz ante los alumnos. Atribuye a Leo peleas y una conducta indebida con el hámster, aunque reconoce que la última acusación le llegó por los niños. Pretende dejarlo fuera de clase ese día y termina aceptando dos monedas para mantenerlo dos horas más. Registra que Naór puede enviar a otra chica a recogerlo. El comentario posterior de Walulu puede contener el nombre Musí, cuya lectura no es segura.",
@@ -3022,6 +3302,13 @@
           "46-057",
           "46-066"
         ]
+      },
+      {
+        "titulo": "La descripción que recibe Patata",
+        "texto": "Angelique cuenta a Patata que ha llegado un hombre de torso desnudo, herida y chispas con quien estuvo el día anterior. Lo nombra Zoltan y promete presentárselo. Su testimonio amplía la circulación del nombre, sin explicar las marcas, la electricidad o el pasado del recién llegado.",
+        "referencias": [
+          "47-090"
+        ]
       }
     ],
     "Tiranosaurios de la aldea caníbal": [
@@ -3069,6 +3356,25 @@
           "46-057",
           "46-066"
         ]
+      },
+      {
+        "titulo": "Una indicación a cambio de algo bonito",
+        "texto": "Acepta a unos clientes nuevos por lo mucho que consumen y pagan, pese al juicio negativo sobre ellos. Sugiere a Tesa salir a otras ruinas junto al lago y pide una joya bonita a cambio de indicarle el camino. Su actitud posesiva despierta la curiosidad de la historiadora; acuerdan hablar luego. Le da una ruta desde la puerta norte, con las calaveras y los cocodrilos como referencias, y vuelve a sus asuntos.",
+        "referencias": [
+          "47-007",
+          "47-008",
+          "47-009"
+        ]
+      },
+      {
+        "titulo": "Las noticias de la taberna",
+        "texto": "Angelique atiende a los visitantes mientras los piratas consumen sus reservas. No cree al principio la excusa de Tesara sobre el dragón y le reprocha no traer los objetos que esperaba. Informa de la salida de la elfa y el entrenamiento del hermano, sin darles un paradero actual comprobado. Tras escuchar el ultimátum sugiere avisar a Walulu. Más tarde describe a Patata el encuentro anterior con Zoltan y promete presentarlos.",
+        "referencias": [
+          "47-079",
+          "47-080",
+          "47-081",
+          "47-090"
+        ]
       }
     ],
     "Miausi": [
@@ -3099,6 +3405,102 @@
         "referencias": [
           "46-059",
           "46-060"
+        ]
+      }
+    ],
+    "Mictlan": [
+      {
+        "titulo": "El vigilante se queda a combatir",
+        "texto": "Observa camuflado al grupo antes de que Tesa lo descubra. Sale fingiendo que solo pasaba y pregunta por su presencia en territorio ajeno. Dice que su gente vigila el lugar y permite la investigación mientras no haya sacrilegio. Cuando las raíces sacan cadáveres decide tantearlos desde la distancia y acierta dos descargas.",
+        "referencias": [
+          "47-019",
+          "47-020",
+          "47-025"
+        ]
+      },
+      {
+        "titulo": "Estoque, veneno y auxilio",
+        "texto": "Se acerca con Booming Blade y sufre el efecto venenoso que impide curarse. Esquiva dos ataques, recibe después otro parcialmente amortiguado por el tentáculo y vuelve a resistir la exposición de proximidad. Remata a un enemigo que acaba de levantarse con un punto de vida; Tesara elimina al otro de su lado.",
+        "referencias": [
+          "47-034",
+          "47-035",
+          "47-037",
+          "47-039",
+          "47-040",
+          "47-041"
+        ]
+      },
+      {
+        "titulo": "Distancia y preocupación por los demás",
+        "texto": "Contra la masa usa una maldición que mejora sus golpes y críticos y ataca desde lejos. Al ver los cuerpos inertes comprueba cómo están los compañeros. No encuentra a Tesara escondida. Patata le ofrece ayuda y pregunta cómo llamarlo.",
+        "referencias": [
+          "47-055",
+          "47-058",
+          "47-059",
+          "47-062"
+        ]
+      },
+      {
+        "titulo": "La utilidad y el sacrificio",
+        "texto": "Recibe la curación de Patata antes de que este se vuelva invisible. Las raíces lo inmovilizan junto a los demás y presencia la exigencia del dragón. Cuestiona la confianza de Tesara en los hermanos y la sigue a la taberna y a la audiencia con Walulu porque no se fía de ella. Prefiere entregar a los elfos por la seguridad del pueblo y, al salir, defiende el sacrificio por un bien mayor. La historiadora rechaza esa posición.",
+        "referencias": [
+          "47-063",
+          "47-068",
+          "47-069",
+          "47-076",
+          "47-077",
+          "47-081",
+          "47-086",
+          "47-088"
+        ]
+      }
+    ],
+    "Cadáveres movidos por raíces de las ruinas del lago": [
+      {
+        "titulo": "Raíces, salpicaduras y un aura de veneno",
+        "texto": "Las raíces extraen los restos enterrados y los mueven desde dentro. Uno de los zombis más verdes salpica cuando Tesa le dispara y el daño alcanza al grupo y a Chopito; el fuego de ese disparo no produce daño extra. Otro se acerca a Patata con un aura apestosa, lo envenena y bloquea temporalmente su curación. La respuesta de expulsión hace temer a casi todos y el combate continúa.",
+        "referencias": [
+          "47-022",
+          "47-026",
+          "47-027",
+          "47-030",
+          "47-031",
+          "47-032"
+        ]
+      },
+      {
+        "titulo": "Cuerpos que regresan a la lucha",
+        "texto": "Se apartan de Patata por la expulsión y pueden volver a actuar cuando reciben daño. La proximidad de algunos obliga a salvar contra veneno. Uno se levanta con un punto de vida; un nuevo golpe lo remata. El crítico y el daño radiante resuelven otras bajas sin nuevos levantamientos.",
+        "referencias": [
+          "47-033",
+          "47-034",
+          "47-037",
+          "47-040",
+          "47-041",
+          "47-044",
+          "47-046",
+          "47-047"
+        ]
+      },
+      {
+        "titulo": "La masa de cadáveres",
+        "texto": "Al terminar la primera lucha, raíces y ramas arrastran los cuerpos, los apilan y forman una criatura enorme de restos que se desprenden. La masa intenta envolver a Patata y fracasa, aunque lo hiere. Soporta maldiciones, impactos y empujones hasta que Patata la deshace; todos los cuerpos quedan inertes y las raíces se retiran.",
+        "referencias": [
+          "47-049",
+          "47-053",
+          "47-054",
+          "47-055",
+          "47-057",
+          "47-058"
+        ]
+      }
+    ],
+    "Oliver": [
+      {
+        "titulo": "El nombre que la criatura conoce",
+        "texto": "El dragón mira a Tesara con los ojos brillantes y declara que Oliver será suyo. Ella pregunta cómo sabe algo de su hermano. La criatura afirma que ella misma se lo dice, sin explicar un mecanismo ni mostrar a Oliver.",
+        "referencias": [
+          "47-074"
         ]
       }
     ]

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [05-015](../capitulos/05.md), [05-016](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### De prisionera de la Marina a exploradora
 

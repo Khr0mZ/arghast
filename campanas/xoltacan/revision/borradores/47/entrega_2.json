@@ -1,0 +1,2801 @@
+{
+  "bloque": 2,
+  "lectura_completa": true,
+  "primer_segmento": "c002057",
+  "ultimo_segmento": "c004113",
+  "inicio": "00:45:29.000",
+  "fin": "01:34:05.709",
+  "segmentos_leidos": 1028,
+  "fuente": "campanas/xoltacan/fuentes/47 - yvqhR20m7Zg.es-orig.vtt",
+  "sha256_fuente": "af82762727aa32ebc82b92459bdc4b039b6b17839c0f994d26f0a5aaf88e983e",
+  "cobertura_lectura": [
+    {
+      "formato": "bloque_2.md",
+      "desde_indice": 0,
+      "hasta_indice": 260,
+      "lineas_desde": 1,
+      "lineas_hasta": 522
+    },
+    {
+      "formato": "bloque_2.md",
+      "desde_indice": 261,
+      "hasta_indice": 521,
+      "lineas_desde": 523,
+      "lineas_hasta": 1044
+    },
+    {
+      "formato": "bloque_2.md",
+      "desde_indice": 522,
+      "hasta_indice": 782,
+      "lineas_desde": 1045,
+      "lineas_hasta": 1566
+    },
+    {
+      "formato": "bloque_2.md",
+      "desde_indice": 783,
+      "hasta_indice": 1027,
+      "lineas_desde": 1567,
+      "lineas_hasta": 2055
+    },
+    {
+      "formato": "bloque_2_segmentos.json",
+      "desde_indice": 0,
+      "hasta_indice": 259
+    },
+    {
+      "formato": "bloque_2_segmentos.json",
+      "desde_indice": 260,
+      "hasta_indice": 519
+    },
+    {
+      "formato": "bloque_2_segmentos.json",
+      "desde_indice": 520,
+      "hasta_indice": 779
+    },
+    {
+      "formato": "bloque_2_segmentos.json",
+      "desde_indice": 780,
+      "hasta_indice": 1027
+    }
+  ],
+  "cobertura_preguntas": [
+    {
+      "desde_indice": 0,
+      "hasta_indice": 19
+    },
+    {
+      "desde_indice": 20,
+      "hasta_indice": 39
+    },
+    {
+      "desde_indice": 40,
+      "hasta_indice": 59
+    },
+    {
+      "desde_indice": 60,
+      "hasta_indice": 79
+    },
+    {
+      "desde_indice": 80,
+      "hasta_indice": 94
+    }
+  ],
+  "etapas": [
+    {
+      "titulo": "La expulsión abre espacio en el combate",
+      "texto": "Los muertos continúan apartándose de Patata, aunque la expulsión solo los contiene mientras nadie los hiera. Mictlan se aproxima con su estoque y Booming Blade, pero la cercanía de las criaturas lo envenena e impide que recupere fuerzas durante el efecto. Tesara sale de su escondite para aliviar la presión sobre el felino, dispara con ventaja y ataque furtivo y vuelve a ocultarse. Tentacol combina el tentáculo y los rayos para empujar a los enemigos y hacer más lento su regreso. Los dos ataques de un muerto no alcanzan a Mictlan; Patata aprovecha el espacio y desplaza su espada espiritual. Algunos cuerpos siguen huyendo y otros, ya heridos, pueden volver a acercarse.",
+      "referencias": [
+        "47-201",
+        "47-202",
+        "47-203",
+        "47-204",
+        "47-205"
+      ]
+    },
+    {
+      "titulo": "Dos elfos en una orden que nadie ha elegido",
+      "texto": "En medio de la pelea cae una pesadez extraña sobre el grupo. La salvación no evita que una voz irrumpa en sus cabezas, les muestre dos elfos pálidos y les imponga la necesidad de atraerlos al bosque. Todos perciben la intrusión y saben que el impulso viene de fuera. La lucha continúa: el tentáculo reduce parte de un golpe junto a Mictlan y se produce una respuesta venenosa; después el felino resiste el efecto de proximidad, derriba a uno de sus adversarios y lo remata cuando este se levanta a un punto de vida. Tesara elimina al otro con un crítico que impide su retorno. Se queja de la voz y de los gemelos mientras cambia de escondite. El director precisa lo exigido: sacar a los elfos de la ciudad y entregarlos en la jungla. Chopito le cuenta a Tentacol que ha recibido una visión y transforma el encargo en un supuesto rescate, como si el plan fuese suyo. Tentacol lo escucha y continúa disparando. Patata invoca daño radiante y atiende a la situación del felino; los subtítulos no fijan aquí una curación concreta. Entre los ataques a distancia, los empujones y la lentitud impuesta a los adversarios, Tesara derriba a otro y Patata termina con uno mediante daño radiante.",
+      "referencias": [
+        "47-206",
+        "47-207",
+        "47-208",
+        "47-209",
+        "47-210",
+        "47-211",
+        "47-212",
+        "47-213",
+        "47-214",
+        "47-215"
+      ]
+    },
+    {
+      "titulo": "La amenaza se construye con los muertos",
+      "texto": "La voz vuelve a enseñar a los elfos y ofrece una recompensa por llevarlos fuera. Al caer los últimos muertos, el peligro cambia de forma: las raíces y ramas que los movían arrastran los cuerpos hacia un punto y los reúnen en una masa enorme, de la que se desprenden brazos y trozos de cráneo. La presencia amenaza a los viajeros con acabar igual que ellos si no obedecen. Tesara distingue esa voz de la masa de cadáveres y pregunta por su familiaridad. Recuerda la experiencia anterior a Iktan, cuando viajaba con los elfos y un dragón penetró en su cabeza; el director confirma que oye la misma voz. Ahora la presión consiste en repetir las imágenes y el encargo de manera invasiva. Ella decide buscar al responsable mientras los demás contienen a la masa. Entre los árboles descubre flores aplastadas y una rama desviada por presión, aunque no consigue ver a la criatura. Dispara por encima del hueco para dejarle caer vegetación: una rama rebota sobre algo invisible, que se ríe y elogia su observación. El intento no lo inmoviliza. Tesara cambia de arbustos y vuelve al sigilo.",
+      "referencias": [
+        "47-216",
+        "47-217",
+        "47-218",
+        "47-219",
+        "47-220"
+      ]
+    },
+    {
+      "titulo": "La masa no logra envolver a Patata",
+      "texto": "Tentacol aplica Hex a la masa y la aleja con sus rayos. Patata renuncia a acercarse después del empujón y sus intentos de ese turno no prosperan. La criatura se arroja sobre él para envolverlo: la salvación de Fuerza le permite resistirse y quedar fuera, aunque recibe daño. Mictlan maldice al enemigo y mantiene la distancia; falla un disparo y acierta el siguiente. Tesara dedica otro turno a vigilar el lugar del ocupante oculto y ve las ramas recobrar su posición. La presencia se ha desplazado. Al gastar su acción en buscarla no puede localizarla otra vez en ese momento; descarta Zephyr Strike para conservar la maniobra de ocultarse. Tentacol sortea un muro para recolocar el tentáculo y vuelve a golpear, empujar y ralentizar la masa. Patata la alcanza con su arma espiritual; el enemigo aún resiste a un punto de vida, pero su siguiente ataque lo deshace. Los cuerpos quedan esparcidos e inertes y las raíces regresan a la tierra.",
+      "referencias": [
+        "47-221",
+        "47-222",
+        "47-223",
+        "47-224",
+        "47-225",
+        "47-226"
+      ]
+    },
+    {
+      "titulo": "La presencia sigue cerca cuando el grupo empieza a dispersarse",
+      "texto": "El final de la masa no descubre al responsable. El director mantiene los turnos y un intento de detectar a Tesara falla. Mictlan comprueba cómo están Patata y Tentacol, pero tampoco encuentra a la historiadora, que continúa escondida. Ella emplea una bendición en otra búsqueda y reconoce un nuevo hueco entre los árboles: la presencia está ahora delante. Como ha gastado su acción en localizarla, opta por retirarse poco a poco y volver a probar su sigilo. Tentacol, entretanto, anuncia que ya pueden buscar a los elfos y corre hacia el bosque. Patata ofrece ayuda al compañero felino y le pregunta su nombre; recibe la respuesta transcrita «mi clan» y propone llamarlo Mic. El bloque termina antes de que se resuelva esa ayuda o de que Tentacol alcance a los elfos.",
+      "referencias": [
+        "47-226",
+        "47-227",
+        "47-228",
+        "47-229",
+        "47-230"
+      ]
+    }
+  ],
+  "afirmaciones": [
+    {
+      "id": "47-201",
+      "titulo": "Los expulsados se apartan de Patata",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Varios muertos animados emplean su movimiento en alejarse de Patata. La mesa aclara que la expulsión limita sus acciones a correr o destrabarse y que recibir daño permite volver a actuar. No todos ven a Patata; algunos se apartan sin localizarlo. La reducción de movimiento aplicada antes continúa afectando a uno de ellos.",
+      "inicio": "00:45:29.000",
+      "fin": "00:47:03.829",
+      "cita": "haga daño es correr o destrabarse,",
+      "evidencia_cue": {
+        "id": "c002099",
+        "inicio": "00:46:20.200",
+        "fin": "00:46:22.309",
+        "texto": "haga daño es correr o destrabarse,"
+      },
+      "entidades": [
+        "Patata",
+        "Cadáveres movidos por raíces de las ruinas del lago"
+      ],
+      "ambito": "combate e intrusión mental en el camino de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Mictlan",
+        "Tentacol",
+        "Chopito",
+        "Patata"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "El acceso de Madame Oghma a este pasaje no está establecido. Los conocedores indican testigos de la escena o destinatarios del efecto; no incluyen a los elfos mostrados en las imágenes.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "El director distingue la expulsión de la condición de miedo. El bloque empieza con el efecto en curso; su lanzamiento pertenece al bloque anterior."
+    },
+    {
+      "id": "47-202",
+      "titulo": "Mictlan golpea y sufre el veneno de proximidad",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Mictlan se acerca y golpea con Booming Blade, aprovechando la ventaja contra un adversario que todavía no había actuado. Se le exige una salvación de Constitución por comenzar a menos de diez pies de una criatura. Tras fallarla queda envenenado hasta su siguiente turno y no puede recuperar puntos de vida durante ese efecto.",
+      "inicio": "00:47:03.839",
+      "fin": "00:48:55.510",
+      "cita": "Uh, pues va a estar también envenenado",
+      "evidencia_cue": {
+        "id": "c002201",
+        "inicio": "00:48:39.400",
+        "fin": "00:48:42.190",
+        "texto": "Uh, pues va a estar también envenenado"
+      },
+      "entidades": [
+        "Mictlan",
+        "Cadáveres movidos por raíces de las ruinas del lago"
+      ],
+      "ambito": "combate e intrusión mental en el camino de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Mictlan",
+        "Tentacol",
+        "Chopito",
+        "Patata"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "El acceso de Madame Oghma a este pasaje no está establecido. Los conocedores indican testigos de la escena o destinatarios del efecto; no incluyen a los elfos mostrados en las imágenes.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "Los subtítulos dicen MD y otras variantes; el coordinador confirma Mictlan mediante la escena escrita posterior x-1531013198478708756, sin trasladar sus hechos a este bloque. La adjudicación no identifica una enfermedad permanente ni permite una ficha completa del enemigo."
+    },
+    {
+      "id": "47-203",
+      "titulo": "Tesara dispara para aliviar la presión sobre el felino",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tesara ve al compañero felino en dificultades, sale de su escondite y dispara con ventaja. El impacto incorpora ataque furtivo y la marca de Favored Foe. Después se desplaza y vuelve a esconderse; el director advierte que su sigilo no garantiza por sí solo que el enemigo no la encuentre.",
+      "inicio": "00:48:55.520",
+      "fin": "00:50:28.430",
+      "cita": "Eh, y lo vaya a marcar con el favored,",
+      "evidencia_cue": {
+        "id": "c002269",
+        "inicio": "00:49:52.839",
+        "fin": "00:49:55.630",
+        "texto": "Eh, y lo vaya a marcar con el favored,"
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Mictlan",
+        "Cadáveres movidos por raíces de las ruinas del lago"
+      ],
+      "ambito": "combate e intrusión mental en el camino de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Mictlan",
+        "Tentacol",
+        "Chopito",
+        "Patata"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "El acceso de Madame Oghma a este pasaje no está establecido. Los conocedores indican testigos de la escena o destinatarios del efecto; no incluyen a los elfos mostrados en las imágenes.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "La conversación sobre concentración y Zephyr Strike pertenece a las reglas. No se añade daño de fuego: el director indica expresamente que el daño anunciado va sin fuego."
+    },
+    {
+      "id": "47-204",
+      "titulo": "Tentacol controla la distancia con el tentáculo y los rayos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tentacol coloca su tentáculo para atacar con la acción adicional y después lanza dos rayos. Los impactos desplazan a sus objetivos diez pies; aplica además una reducción de movimiento a uno. Se precisa que esa reducción no se aplica a todos por golpear dos veces. El grupo recuerda que dañar a un expulsado termina la limitación que lo hacía huir.",
+      "inicio": "00:50:28.440",
+      "fin": "00:52:19.829",
+      "cita": "pues lo empujo también 10 pies y 10 pies",
+      "evidencia_cue": {
+        "id": "c002351",
+        "inicio": "00:51:50.079",
+        "fin": "00:51:51.910",
+        "texto": "pues lo empujo también 10 pies y 10 pies"
+      },
+      "entidades": [
+        "Tentacol",
+        "Chopito",
+        "Cadáveres movidos por raíces de las ruinas del lago"
+      ],
+      "ambito": "combate e intrusión mental en el camino de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Mictlan",
+        "Tentacol",
+        "Chopito",
+        "Patata"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "El acceso de Madame Oghma a este pasaje no está establecido. Los conocedores indican testigos de la escena o destinatarios del efecto; no incluyen a los elfos mostrados en las imágenes.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "Los nombres ingleses de conjuros aparecen deformados. El tentáculo invocado, Chopito y Tentacol no se convierten en una única criatura ni en tres nombres del mismo efecto."
+    },
+    {
+      "id": "47-205",
+      "titulo": "Mictlan esquiva y Patata sostiene la ofensiva",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Un muerto animado se coloca delante de Mictlan e intenta golpearlo dos veces; ambos ataques fallan. Patata responde con un impacto y mueve su espada espiritual, cuyo desplazamiento se corrige a veinte pies. Otros muertos siguen alejándose de él, mientras un adversario ya herido recupera la capacidad de avanzar y correr hacia el combate.",
+      "inicio": "00:52:19.839",
+      "fin": "00:54:45.349",
+      "cita": "pues no, pues se mueve como un gatito.",
+      "evidencia_cue": {
+        "id": "c002403",
+        "inicio": "00:52:54.720",
+        "fin": "00:52:58.030",
+        "texto": "pues no, pues se mueve como un gatito."
+      },
+      "entidades": [
+        "Mictlan",
+        "Patata",
+        "Cadáveres movidos por raíces de las ruinas del lago"
+      ],
+      "ambito": "combate e intrusión mental en el camino de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Mictlan",
+        "Tentacol",
+        "Chopito",
+        "Patata"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "El acceso de Madame Oghma a este pasaje no está establecido. Los conocedores indican testigos de la escena o destinatarios del efecto; no incluyen a los elfos mostrados en las imágenes.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "La comparación con el poder ilimitado y los comentarios sobre clérigos son bromas y reglas, sin revelación de un poder ilimitado de Patata."
+    },
+    {
+      "id": "47-206",
+      "titulo": "Una voz implanta la necesidad de atraer a dos elfos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Durante la lucha el ambiente se vuelve pesado y todos realizan una salvación de Sabiduría contra una influencia de encantamiento. El director aplica el resultado a todos, incluida Tesara: sienten una presencia invasiva dentro de la cabeza, ven imágenes de dos elfos de piel pálida y reciben la orden de atraerlos al bosque. Saben que la idea es ajena, pero sienten la necesidad de cumplirla.",
+      "inicio": "00:54:45.359",
+      "fin": "00:57:23.470",
+      "cita": "\"Atraerlos al bosque, tenéis que",
+      "evidencia_cue": {
+        "id": "c002569",
+        "inicio": "00:56:43.760",
+        "fin": "00:56:46.750",
+        "texto": "\"Atraerlos al bosque, tenéis que"
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Mictlan",
+        "Tentacol",
+        "Chopito",
+        "Patata",
+        "Dragón verde del bosque de Iktan"
+      ],
+      "ambito": "combate e intrusión mental en el camino de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Mictlan",
+        "Tentacol",
+        "Chopito",
+        "Patata"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "El acceso de Madame Oghma a este pasaje no está establecido. Los conocedores indican testigos de la escena o destinatarios del efecto; no incluyen a los elfos mostrados en las imágenes.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "Las imágenes no certifican la situación real de los elfos en ese instante. La broma sobre los ruidos de la cocina no forma parte de la visión. La identidad de la voz se confirma dentro de este mismo bloque en 47-218."
+    },
+    {
+      "id": "47-207",
+      "titulo": "El tentáculo amortigua un golpe junto a Mictlan",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Un enemigo previamente herido puede volver a atacar al felino. Se aplica Guardian Coil para restar un dado de ocho al daño de uno de sus golpes. El director confirma un impacto y describe una respuesta de veneno que salta alrededor del atacante antes del siguiente golpe. Al comenzar su turno, Mictlan supera la salvación de Constitución exigida por los dos enemigos próximos.",
+      "inicio": "00:57:23.480",
+      "fin": "00:59:07.470",
+      "cita": "Guardan coil le resta el daño a un de",
+      "evidencia_cue": {
+        "id": "c002613",
+        "inicio": "00:57:50.880",
+        "fin": "00:57:53.069",
+        "texto": "Guardan coil le resta el daño a un de"
+      },
+      "entidades": [
+        "Mictlan",
+        "Tentacol",
+        "Cadáveres movidos por raíces de las ruinas del lago"
+      ],
+      "ambito": "combate e intrusión mental en el camino de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Mictlan",
+        "Tentacol",
+        "Chopito",
+        "Patata"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "El acceso de Madame Oghma a este pasaje no está establecido. Los conocedores indican testigos de la escena o destinatarios del efecto; no incluyen a los elfos mostrados en las imágenes.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "La respuesta venenosa no recibe un nombre inequívoco de habilidad ni una explicación de origen. La corrección de la interfaz y las tiradas no permiten fijar una cifra total de daño no verbalizada."
+    },
+    {
+      "id": "47-208",
+      "titulo": "Un muerto se levanta y Mictlan lo remata",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Mictlan decide usar el estoque contra los dos adversarios cercanos. Al golpear a uno, el director resuelve una salvación de Constitución y lo devuelve a un punto de vida. Un nuevo impacto lo mata; aclara que no vuelve a emplear ese recurso al caer desde un solo punto de vida. La duda sobre si la expulsión debía destruirlos se resuelve indicando que estas criaturas no son las de desafío tan bajo a las que se refería el jugador.",
+      "inicio": "00:59:07.480",
+      "fin": "01:01:48.029",
+      "cita": "20. Pues este se levanta con un puntito",
+      "evidencia_cue": {
+        "id": "c002713",
+        "inicio": "01:00:28.520",
+        "fin": "01:00:30.230",
+        "texto": "20. Pues este se levanta con un puntito"
+      },
+      "entidades": [
+        "Mictlan",
+        "Patata",
+        "Cadáveres movidos por raíces de las ruinas del lago"
+      ],
+      "ambito": "combate e intrusión mental en el camino de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Mictlan",
+        "Tentacol",
+        "Chopito",
+        "Patata"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "El acceso de Madame Oghma a este pasaje no está establecido. Los conocedores indican testigos de la escena o destinatarios del efecto; no incluyen a los elfos mostrados en las imágenes.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "Hay confusión momentánea de selección en la interfaz. El director termina identificando como muerto al objetivo de arriba; no se convierten los dos ataques en dos bajas ni se fija el valor de desafío exacto."
+    },
+    {
+      "id": "47-209",
+      "titulo": "Tesara elimina al segundo perseguidor del felino",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tesara sale del escondite para quitarle al compañero felino el otro enemigo próximo. Obtiene un crítico y el director establece que el muerto cae sin poder hacer la tirada para levantarse. Al revisar el terreno, ella se queja de la voz que no deja de hablarle de los gemelos, se lleva una mano a la cabeza, cambia de posición y vuelve a esconderse.",
+      "inicio": "01:01:48.039",
+      "fin": "01:03:07.829",
+      "cita": "Vale, crítico.",
+      "evidencia_cue": {
+        "id": "c002795",
+        "inicio": "01:02:13.720",
+        "fin": "01:02:16.349",
+        "texto": "Vale, crítico."
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Mictlan",
+        "Cadáveres movidos por raíces de las ruinas del lago",
+        "Dragón verde del bosque de Iktan"
+      ],
+      "ambito": "combate e intrusión mental en el camino de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Mictlan",
+        "Tentacol",
+        "Chopito",
+        "Patata"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "El acceso de Madame Oghma a este pasaje no está establecido. Los conocedores indican testigos de la escena o destinatarios del efecto; no incluyen a los elfos mostrados en las imágenes.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "Tesara llama gemelos a los elfos de las imágenes, pero este tramo no pronuncia sus nombres personales. La vinculación con Eldrath y Tryel debe integrarse con las fuentes de identidad de los otros bloques."
+    },
+    {
+      "id": "47-210",
+      "titulo": "La exigencia consiste en sacar a los elfos de la ciudad",
+      "tipo": "explicacion_director",
+      "afirmacion": "Ante una pregunta de la mesa, el director precisa el contenido de la visión: muestra a los dos elfos pálidos y pide sacarlos de la ciudad para llevarlos a la jungla. Se trata de entregárselos a la presencia, no de una amenaza que los elfos hayan comunicado al grupo.",
+      "inicio": "01:03:07.839",
+      "fin": "01:03:29.029",
+      "cita": "saquéis a los elfos de la ciudad, que",
+      "evidencia_cue": {
+        "id": "c002853",
+        "inicio": "01:03:19.559",
+        "fin": "01:03:21.510",
+        "texto": "saquéis a los elfos de la ciudad, que"
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Mictlan",
+        "Tentacol",
+        "Chopito",
+        "Patata",
+        "Dragón verde del bosque de Iktan"
+      ],
+      "ambito": "combate e intrusión mental en el camino de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Mictlan",
+        "Tentacol",
+        "Chopito",
+        "Patata"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "El acceso de Madame Oghma a este pasaje no está establecido. Los conocedores indican testigos de la escena o destinatarios del efecto; no incluyen a los elfos mostrados en las imágenes.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "El pasaje no explica por qué la presencia los quiere ni por qué necesita intermediarios; tampoco nombra la ciudad dentro de esta aclaración."
+    },
+    {
+      "id": "47-211",
+      "titulo": "Chopito convierte la orden en su propio plan de rescate",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Chopito le dice a Tentacol que acaba de tener una visión de dos orejas picudas en una ciudad del interior del bosque y que necesitan ser rescatadas y llevadas a la jungla. La interpretación se presenta como un plan que Chopito se apropia; anima a Tentacol a terminar deprisa con los muertos para cumplirlo.",
+      "inicio": "01:03:29.039",
+      "fin": "01:03:51.549",
+      "cita": "Necesitan que lo rescatemos y los",
+      "evidencia_cue": {
+        "id": "c002869",
+        "inicio": "01:03:39.640",
+        "fin": "01:03:41.309",
+        "texto": "Necesitan que lo rescatemos y los"
+      },
+      "entidades": [
+        "Chopito",
+        "Tentacol",
+        "Dragón verde del bosque de Iktan"
+      ],
+      "ambito": "combate e intrusión mental en el camino de Iktan",
+      "conocedores": [
+        "Chopito",
+        "Tentacol"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "El acceso de Madame Oghma a este pasaje no está establecido. Los conocedores indican testigos de la escena o destinatarios del efecto; no incluyen a los elfos mostrados en las imágenes.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "La necesidad de rescate es una interpretación de Chopito bajo la influencia, no una cautividad demostrada de los dos elfos ni una visión independiente del pulpo."
+    },
+    {
+      "id": "47-212",
+      "titulo": "Tentacol abate a uno y retrasa a otro",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tentacol utiliza su acción adicional y vuelve a disparar. El primer rayo acompañado de Hex deja a su objetivo muerto después de resolver la salvación; el segundo hiere a otro, lo empuja diez pies y reduce su movimiento otros diez. La ofensiva mantiene lejos a parte de los adversarios mientras continúan las imágenes mentales.",
+      "inicio": "01:03:51.559",
+      "fin": "01:05:33.269",
+      "cita": "Vale, pues se queda muerto.",
+      "evidencia_cue": {
+        "id": "c002903",
+        "inicio": "01:04:39.640",
+        "fin": "01:04:44.510",
+        "texto": "Vale, pues se queda muerto."
+      },
+      "entidades": [
+        "Tentacol",
+        "Chopito",
+        "Cadáveres movidos por raíces de las ruinas del lago"
+      ],
+      "ambito": "combate e intrusión mental en el camino de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Mictlan",
+        "Tentacol",
+        "Chopito",
+        "Patata"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "El acceso de Madame Oghma a este pasaje no está establecido. Los conocedores indican testigos de la escena o destinatarios del efecto; no incluyen a los elfos mostrados en las imágenes.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "Se conserva la adjudicación de esta escena, sin añadir capacidades generales de bestiario ni resultados posteriores al intervalo."
+    },
+    {
+      "id": "47-213",
+      "titulo": "El grupo mantiene los ataques a distancia",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Patata invoca el poder de su dios para un ataque radiante; el adversario supera su salvación. Después presta atención al compañero felino, aunque los subtítulos no permiten certificar una cantidad de curación. Los muertos avanzan despacio o continúan huyendo de la expulsión, y el siguiente turno mantiene dos impactos desde fuera del cuerpo a cuerpo para evitar gastar más recursos.",
+      "inicio": "01:05:33.279",
+      "fin": "01:08:12.670",
+      "cita": "Le llove radiante",
+      "evidencia_cue": {
+        "id": "c002943",
+        "inicio": "01:05:49.119",
+        "fin": "01:05:53.029",
+        "texto": "Le llove radiante"
+      },
+      "entidades": [
+        "Patata",
+        "Mictlan",
+        "Cadáveres movidos por raíces de las ruinas del lago"
+      ],
+      "ambito": "combate e intrusión mental en el camino de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Mictlan",
+        "Tentacol",
+        "Chopito",
+        "Patata"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "El acceso de Madame Oghma a este pasaje no está establecido. Los conocedores indican testigos de la escena o destinatarios del efecto; no incluyen a los elfos mostrados en las imágenes.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "No se adjudica daño al ataque radiante resistido ni una curación concreta al fragmento «vamos a ponerlo poco». El turno a distancia se atribuye por secuencia de iniciativa, sin inventar el nombre del conjuro."
+    },
+    {
+      "id": "47-214",
+      "titulo": "Tesara derriba a otro muerto y cambia de escondite",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tesara continúa reduciendo el número de adversarios. Impacta y mata a un muerto que ya tenía un solo punto de vida; por ese estado no se vuelve a levantar. Ella analiza de nuevo la situación, se mueve y repite su maniobra para esconderse.",
+      "inicio": "01:08:12.680",
+      "fin": "01:09:04.110",
+      "cita": "¿vale? Le haces el daño y lo matas.",
+      "evidencia_cue": {
+        "id": "c003037",
+        "inicio": "01:08:29.679",
+        "fin": "01:08:32.749",
+        "texto": "¿vale? Le haces el daño y lo matas."
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Cadáveres movidos por raíces de las ruinas del lago"
+      ],
+      "ambito": "combate e intrusión mental en el camino de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Mictlan",
+        "Tentacol",
+        "Chopito",
+        "Patata"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "El acceso de Madame Oghma a este pasaje no está establecido. Los conocedores indican testigos de la escena o destinatarios del efecto; no incluyen a los elfos mostrados en las imágenes.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "Se conserva la adjudicación de esta escena, sin añadir capacidades generales de bestiario ni resultados posteriores al intervalo."
+    },
+    {
+      "id": "47-215",
+      "titulo": "Los rayos y el daño radiante acorralan a los últimos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tras una pausa técnica de la mesa, Tentacol recoloca el tentáculo, ataca y vuelve a empujar y ralentizar a los muertos con sus rayos. Patata mata a otro mediante daño radiante. Todavía queda movimiento de un adversario en el turno siguiente, por lo que la impresión de que solo faltaba uno no da el combate por terminado.",
+      "inicio": "01:09:04.120",
+      "fin": "01:11:15.709",
+      "cita": "Vale, es daño radiante, así que me mata.",
+      "evidencia_cue": {
+        "id": "c003137",
+        "inicio": "01:10:54.120",
+        "fin": "01:10:58.390",
+        "texto": "Vale, es daño radiante, así que me mata."
+      },
+      "entidades": [
+        "Tentacol",
+        "Patata",
+        "Cadáveres movidos por raíces de las ruinas del lago"
+      ],
+      "ambito": "combate e intrusión mental en el camino de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Mictlan",
+        "Tentacol",
+        "Chopito",
+        "Patata"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "El acceso de Madame Oghma a este pasaje no está establecido. Los conocedores indican testigos de la escena o destinatarios del efecto; no incluyen a los elfos mostrados en las imágenes.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "La pausa y las bromas de hackeo de Foundry son incidencias de la herramienta. La frase «tengo que buscar al elfa» se conserva como intención, sin afirmar que se encuentre o entregue a nadie."
+    },
+    {
+      "id": "47-216",
+      "titulo": "La voz promete una recompensa por los elfos",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "La presencia vuelve a mostrar a los dos elfos y repite que se los lleven. Promete recompensar al grupo si los saca de la ciudad y los entrega fuera, en la jungla.",
+      "inicio": "01:11:15.719",
+      "fin": "01:11:36.390",
+      "cita": "Seréis recompensados.",
+      "evidencia_cue": {
+        "id": "c003157",
+        "inicio": "01:11:27.400",
+        "fin": "01:11:30.229",
+        "texto": "Seréis recompensados."
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Mictlan",
+        "Tentacol",
+        "Chopito",
+        "Patata",
+        "Dragón verde del bosque de Iktan"
+      ],
+      "ambito": "combate e intrusión mental en el camino de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Mictlan",
+        "Tentacol",
+        "Chopito",
+        "Patata"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "El acceso de Madame Oghma a este pasaje no está establecido. Los conocedores indican testigos de la escena o destinatarios del efecto; no incluyen a los elfos mostrados en las imágenes.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "La promesa no acredita una recompensa disponible, cobrada o definida. No se especifica la condición de los elfos ni el motivo del encargo."
+    },
+    {
+      "id": "47-217",
+      "titulo": "Las raíces reúnen los cuerpos en una masa",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El grupo termina con los muertos que quedaban, pero la voz continúa presionándolo. Las raíces, ramas y flores que movían aquellos cuerpos los arrastran por el suelo y los concentran en un punto. La presencia amenaza con que el grupo sufrirá la misma suerte si no obedece. Los cuerpos se unen en una masa enorme de zombis de la que caen fragmentos de cráneos y brazos; la lucha se reanuda contra esa forma colectiva.",
+      "inicio": "01:11:36.400",
+      "fin": "01:14:37.310",
+      "cita": "extraña, empiezan a formar una masa",
+      "evidencia_cue": {
+        "id": "c003239",
+        "inicio": "01:13:50.840",
+        "fin": "01:13:53.070",
+        "texto": "extraña, empiezan a formar una masa"
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Mictlan",
+        "Tentacol",
+        "Chopito",
+        "Patata",
+        "Cadáveres movidos por raíces de las ruinas del lago",
+        "Dragón verde del bosque de Iktan"
+      ],
+      "ambito": "combate e intrusión mental en el camino de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Mictlan",
+        "Tentacol",
+        "Chopito",
+        "Patata"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "El acceso de Madame Oghma a este pasaje no está establecido. Los conocedores indican testigos de la escena o destinatarios del efecto; no incluyen a los elfos mostrados en las imágenes.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "La formación de la masa se ve; la amenaza es una declaración de la voz. No se identifica la biografía de los cadáveres ni se demuestra que la voz causara todas sus muertes. La tirada para recargar tinta se permite, pero aquí no se anuncia su resultado."
+    },
+    {
+      "id": "47-218",
+      "titulo": "Tesara reconoce la voz de la intrusión anterior",
+      "tipo": "explicacion_director",
+      "afirmacion": "Tesara pregunta si conoce esa voz y recuerda el episodio anterior a la entrada en Iktan: viajaba con los elfos, los atacaron zombis y un dragón entró en su cabeza. El director confirma que es la misma voz. Distingue el efecto actual como una repetición intrusiva de imágenes y órdenes, más molesta e insistente que la manipulación que ella recuerda.",
+      "inicio": "01:14:37.320",
+      "fin": "01:15:32.390",
+      "cita": "es la misma voz.",
+      "evidencia_cue": {
+        "id": "c003305",
+        "inicio": "01:15:14.320",
+        "fin": "01:15:15.790",
+        "texto": "es la misma voz."
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Dragón verde del bosque de Iktan"
+      ],
+      "ambito": "combate e intrusión mental en el camino de Iktan",
+      "conocedores": [
+        "Tesara Queen"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "El acceso de Madame Oghma a este pasaje no está establecido. Los conocedores indican testigos de la escena o destinatarios del efecto; no incluyen a los elfos mostrados en las imágenes.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "El reconocimiento enlaza ambas experiencias de Tesara. En este tramo no se pronuncia Clolgedranx ni se establece automáticamente la identidad con todos los dragones verdes catalogados; la frase sobre el disparo anterior queda incompleta."
+    },
+    {
+      "id": "47-219",
+      "titulo": "Tesara localiza señales de una criatura que no puede ver",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tesara decide buscar al responsable de la voz mientras los compañeros retienen la masa. Imagina un gran dragón verde, pero admite que nunca lo ha visto. La percepción revela hojas y flores aplastadas y ramas apartadas bajo presión en una zona entre los árboles. El director confirma que algo ocupa ese lugar, aunque la criatura sigue sin verse.",
+      "inicio": "01:15:32.400",
+      "fin": "01:17:30.390",
+      "cita": "y verías eso, pero no ves a la criatura.",
+      "evidencia_cue": {
+        "id": "c003399",
+        "inicio": "01:17:02.560",
+        "fin": "01:17:08.510",
+        "texto": "y verías eso, pero no ves a la criatura."
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Dragón verde del bosque de Iktan",
+        "Ruinas de la orilla del lago de Iktan"
+      ],
+      "ambito": "combate e intrusión mental en el camino de Iktan",
+      "conocedores": [
+        "Tesara Queen"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "El acceso de Madame Oghma a este pasaje no está establecido. Los conocedores indican testigos de la escena o destinatarios del efecto; no incluyen a los elfos mostrados en las imágenes.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "Se localiza una posición por efectos sobre la vegetación; no se describe un cuerpo visible ni se revela la causa o el método de su ocultación."
+    },
+    {
+      "id": "47-220",
+      "titulo": "Una rama rebota en la presencia oculta",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tesara dispara contra la vegetación situada encima del hueco para hacer caer una rama o una maraña de lianas sobre lo que se oculta. La bala cruza cerca de Patata y del felino, rompe una rama y esta rebota sobre algo invisible. Se oye una risa y un comentario que reconoce su capacidad de observar. La rama no inmoviliza a la presencia y Tesara cambia de arbustos para esconderse otra vez.",
+      "inicio": "01:17:30.400",
+      "fin": "01:19:33.390",
+      "cita": "algo que parece que que está ahí, pero",
+      "evidencia_cue": {
+        "id": "c003447",
+        "inicio": "01:18:19.840",
+        "fin": "01:18:22.189",
+        "texto": "algo que parece que que está ahí, pero"
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Dragón verde del bosque de Iktan",
+        "Patata",
+        "Mictlan",
+        "Ruinas de la orilla del lago de Iktan"
+      ],
+      "ambito": "combate e intrusión mental en el camino de Iktan",
+      "conocedores": [
+        "Tesara Queen"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "El acceso de Madame Oghma a este pasaje no está establecido. Los conocedores indican testigos de la escena o destinatarios del efecto; no incluyen a los elfos mostrados en las imágenes.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "El resultado es una rama que golpea o rebota sobre algo oculto, sin daño cuantificado, red eficaz o revelación visual. El director comenta que se ha tirado una rama sobre un dragón."
+    },
+    {
+      "id": "47-221",
+      "titulo": "Tentacol maldice y desplaza la masa",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tentacol aplica Hex a la masa, eligiendo desventaja en pruebas de Fuerza, y la hiere con sus rayos. Tras consultar si el tamaño impediría el empuje, el director permite desplazarla diez pies y reducir su movimiento. Durante ese turno se recuerda a Tesara que dispone de una bendición de un dado de cuatro.",
+      "inicio": "01:19:33.400",
+      "fin": "01:21:08.470",
+      "cita": "Vale, pues lo empujas 10 pies,",
+      "evidencia_cue": {
+        "id": "c003551",
+        "inicio": "01:20:53.600",
+        "fin": "01:20:57.830",
+        "texto": "Vale, pues lo empujas 10 pies,"
+      },
+      "entidades": [
+        "Tentacol",
+        "Cadáveres movidos por raíces de las ruinas del lago",
+        "Tesara Queen"
+      ],
+      "ambito": "combate e intrusión mental en el camino de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Mictlan",
+        "Tentacol",
+        "Chopito",
+        "Patata"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "El acceso de Madame Oghma a este pasaje no está establecido. Los conocedores indican testigos de la escena o destinatarios del efecto; no incluyen a los elfos mostrados en las imágenes.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "La desventaja se precisa para pruebas de característica, no para toda salvación de Fuerza. Las bromas sobre disparar a una rama o lanzar una bola de fuego no adjudican un segundo ataque contra el dragón."
+    },
+    {
+      "id": "47-222",
+      "titulo": "Patata evita quedar envuelto en los cadáveres",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Al haber sido alejada la masa, Patata se queda donde estaba y no logra una ofensiva eficaz en ese turno. La criatura avanza y se arroja sobre él para envolverlo. Patata supera la salvación de Fuerza: recibe daño, pero no queda atrapado dentro y la masa cae a su lado.",
+      "inicio": "01:21:08.480",
+      "fin": "01:23:04.590",
+      "cita": "quedas envuelto, así que recibes daño,",
+      "evidencia_cue": {
+        "id": "c003645",
+        "inicio": "01:22:49.600",
+        "fin": "01:22:51.629",
+        "texto": "quedas envuelto, así que recibes daño,"
+      },
+      "entidades": [
+        "Patata",
+        "Cadáveres movidos por raíces de las ruinas del lago"
+      ],
+      "ambito": "combate e intrusión mental en el camino de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Mictlan",
+        "Tentacol",
+        "Chopito",
+        "Patata"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "El acceso de Madame Oghma a este pasaje no está establecido. Los conocedores indican testigos de la escena o destinatarios del efecto; no incluyen a los elfos mostrados en las imágenes.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "Evitar el envolvimiento no equivale a ser inmune a posesiones. La frase «la patata no se puede poseer» es una broma posterior al éxito de la salvación."
+    },
+    {
+      "id": "47-223",
+      "titulo": "Mictlan maldice a la masa y dispara desde lejos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tras un turno oculto del adversario, Mictlan impone su propia maldición a la masa: explica que añade dos puntos de daño y amplía los críticos a diecinueve y veinte. Prefiere atacar desde su posición mientras Patata está junto a la criatura. El primer ataque falla y el segundo impacta.",
+      "inicio": "01:23:04.600",
+      "fin": "01:24:48.590",
+      "cita": "voy a [carraspeo] también maldecirlo,",
+      "evidencia_cue": {
+        "id": "c003673",
+        "inicio": "01:23:35.080",
+        "fin": "01:23:38.350",
+        "texto": "voy a [carraspeo] también maldecirlo,"
+      },
+      "entidades": [
+        "Mictlan",
+        "Patata",
+        "Cadáveres movidos por raíces de las ruinas del lago"
+      ],
+      "ambito": "combate e intrusión mental en el camino de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Mictlan",
+        "Tentacol",
+        "Chopito",
+        "Patata"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "El acceso de Madame Oghma a este pasaje no está establecido. Los conocedores indican testigos de la escena o destinatarios del efecto; no incluyen a los elfos mostrados en las imágenes.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "La habilidad no se equipara a Hex solo por llamarse maldición. La broma sobre que la masa abraza a Patata no revoca la salvación superada ni establece que esté apresado."
+    },
+    {
+      "id": "47-224",
+      "titulo": "Tesara descubre que la presencia cambió de sitio",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tesara vigila la zona donde detectó la presencia y usa su acción para examinarla. Las hojas y ramas están recuperando su posición: algo ha dejado de presionarlas y la criatura ya no está allí. No dispone de una segunda acción para localizarla de inmediato. Considera Zephyr Strike, lo descarta para conservar la posibilidad de esconderse y se desplaza a otros arbustos.",
+      "inicio": "01:24:48.600",
+      "fin": "01:26:39.149",
+      "cita": "que la creatura se ha movido de ahí, no",
+      "evidencia_cue": {
+        "id": "c003761",
+        "inicio": "01:25:48.840",
+        "fin": "01:25:50.790",
+        "texto": "que la creatura se ha movido de ahí, no"
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Dragón verde del bosque de Iktan",
+        "Ruinas de la orilla del lago de Iktan"
+      ],
+      "ambito": "combate e intrusión mental en el camino de Iktan",
+      "conocedores": [
+        "Tesara Queen"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "El acceso de Madame Oghma a este pasaje no está establecido. Los conocedores indican testigos de la escena o destinatarios del efecto; no incluyen a los elfos mostrados en las imágenes.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "No se adjudica el lanzamiento de Zephyr Strike. El director describe un indicio de movimiento, sin revelar la nueva posición en este turno."
+    },
+    {
+      "id": "47-225",
+      "titulo": "Tentacol vuelve a apartar la masa de Patata",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tentacol intenta acercar el tentáculo y el director señala un muro que impide atravesar la ruta elegida. Lo recoloca por un paso permitido y golpea a la masa, añadiendo Hex. Un rayo posterior la vuelve a empujar diez pies y los efectos del rayo y del tentáculo le reducen el movimiento.",
+      "inicio": "01:26:39.159",
+      "fin": "01:28:07.189",
+      "cita": "Le empujo 10 pies. Le quito 10 pies.",
+      "evidencia_cue": {
+        "id": "c003825",
+        "inicio": "01:27:28.480",
+        "fin": "01:27:32.109",
+        "texto": "Le empujo 10 pies. Le quito 10 pies."
+      },
+      "entidades": [
+        "Tentacol",
+        "Patata",
+        "Cadáveres movidos por raíces de las ruinas del lago",
+        "Ruinas de la orilla del lago de Iktan"
+      ],
+      "ambito": "combate e intrusión mental en el camino de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Mictlan",
+        "Tentacol",
+        "Chopito",
+        "Patata"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "El acceso de Madame Oghma a este pasaje no está establecido. Los conocedores indican testigos de la escena o destinatarios del efecto; no incluyen a los elfos mostrados en las imágenes.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "La corrección de la tirada de daño no proporciona una estadística completa del enemigo. El muro es un obstáculo del escenario; no basta para fijar un edificio, templo o civilización."
+    },
+    {
+      "id": "47-226",
+      "titulo": "Patata deshace la masa y las raíces se retiran",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Patata golpea primero con el arma espiritual. La criatura supera una salvación y queda a un punto de vida. Su siguiente ofensiva acaba con ella: la masa se dispersa en cuerpos que caen por el suelo. El director confirma que todos esos cadáveres están totalmente inertes y que las raíces se retiran hacia la tierra. La presencia que Tesara sigue permanece oculta; un intento de localizarla a ella no tiene éxito.",
+      "inicio": "01:28:07.199",
+      "fin": "01:30:27.669",
+      "cita": "totalmente inertes en el suelo, incluso",
+      "evidencia_cue": {
+        "id": "c003947",
+        "inicio": "01:30:16.960",
+        "fin": "01:30:19.109",
+        "texto": "totalmente inertes en el suelo, incluso"
+      },
+      "entidades": [
+        "Patata",
+        "Cadáveres movidos por raíces de las ruinas del lago",
+        "Dragón verde del bosque de Iktan",
+        "Tesara Queen"
+      ],
+      "ambito": "combate e intrusión mental en el camino de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Mictlan",
+        "Tentacol",
+        "Chopito",
+        "Patata"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "El acceso de Madame Oghma a este pasaje no está establecido. Los conocedores indican testigos de la escena o destinatarios del efecto; no incluyen a los elfos mostrados en las imágenes.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "La destrucción de la masa y la retirada de las raíces no prueban la muerte del dragón o el final de su influencia. No se certifica visión verdadera: el director rechaza que esa sea la explicación de la búsqueda de Tesara."
+    },
+    {
+      "id": "47-227",
+      "titulo": "Mictlan busca a los compañeros y no encuentra a Tesara",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Al no ver más enemigos, Mictlan empieza a comprobar cómo están los demás. Puede localizar a Patata y Tentacol, pero la búsqueda de Tesara no supera su escondite. El director conserva los turnos de combate y pide esperar al turno de cada cual para cualquier asistencia o curación.",
+      "inicio": "01:30:27.679",
+      "fin": "01:31:30.510",
+      "cita": "Pues sigue escondido.",
+      "evidencia_cue": {
+        "id": "c003999",
+        "inicio": "01:31:19.040",
+        "fin": "01:31:22.310",
+        "texto": "Pues sigue escondido."
+      },
+      "entidades": [
+        "Mictlan",
+        "Patata",
+        "Tentacol",
+        "Tesara Queen"
+      ],
+      "ambito": "combate e intrusión mental en el camino de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Mictlan",
+        "Tentacol",
+        "Chopito",
+        "Patata"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "El acceso de Madame Oghma a este pasaje no está establecido. Los conocedores indican testigos de la escena o destinatarios del efecto; no incluyen a los elfos mostrados en las imágenes.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "Tesara no ha desaparecido de la escena ni está secuestrada: permanece escondida. La intención de curar al felino no es todavía una curación resuelta."
+    },
+    {
+      "id": "47-228",
+      "titulo": "Tesara encuentra el nuevo hueco y retrocede en sigilo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tesara utiliza la bendición disponible en una nueva percepción y encuentra otro hueco entre los árboles semejante al anterior. Comprende que la presencia está ahora enfrente de ella, pero ya ha gastado su acción en buscarla. Decide retroceder despacio y vuelve a tirar sigilo por haberse movido.",
+      "inicio": "01:31:33.800",
+      "fin": "01:33:29.030",
+      "cita": "antes, ese hueco entre los árboles",
+      "evidencia_cue": {
+        "id": "c004037",
+        "inicio": "01:32:09.600",
+        "fin": "01:32:14.830",
+        "texto": "antes, ese hueco entre los árboles"
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Dragón verde del bosque de Iktan",
+        "Ruinas de la orilla del lago de Iktan"
+      ],
+      "ambito": "combate e intrusión mental en el camino de Iktan",
+      "conocedores": [
+        "Tesara Queen"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "El acceso de Madame Oghma a este pasaje no está establecido. Los conocedores indican testigos de la escena o destinatarios del efecto; no incluyen a los elfos mostrados en las imágenes.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "La posición se deduce otra vez por vegetación desplazada; no se obtiene visión directa. Su nueva tirada de sigilo no demuestra por sí sola que el perseguidor haya dejado de poder detectarla."
+    },
+    {
+      "id": "47-229",
+      "titulo": "Tentacol se dirige a buscar a los elfos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Una vez destruida la masa, Tentacol anuncia que deben buscar a los elfos y se pone en camino corriendo hacia el bosque. La acción sigue el propósito que Chopito había defendido después de recibir la intrusión.",
+      "inicio": "01:33:29.040",
+      "fin": "01:33:46.709",
+      "cita": "elfos. Vamos. Y ves que intentaba ahí",
+      "evidencia_cue": {
+        "id": "c004093",
+        "inicio": "01:33:35.360",
+        "fin": "01:33:38.109",
+        "texto": "elfos. Vamos. Y ves que intentaba ahí"
+      },
+      "entidades": [
+        "Tentacol",
+        "Chopito",
+        "Dragón verde del bosque de Iktan"
+      ],
+      "ambito": "combate e intrusión mental en el camino de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Mictlan",
+        "Tentacol",
+        "Chopito",
+        "Patata"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "El acceso de Madame Oghma a este pasaje no está establecido. Los conocedores indican testigos de la escena o destinatarios del efecto; no incluyen a los elfos mostrados en las imágenes.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "No llega a encontrar, sacar de la ciudad o entregar a los elfos dentro del bloque. Se conserva el sentido de la declaración sin convertir la propuesta de rescate de Chopito en un secuestro ocurrido."
+    },
+    {
+      "id": "47-230",
+      "titulo": "Patata ofrece ayuda y pregunta el nombre del felino",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Patata se acerca al compañero felino para echarle una mano y le pregunta cómo se llama. El otro responde con el nombre que los subtítulos escriben «mi clan»; Patata propone abreviarlo como Mic y la mesa repite la pronunciación.",
+      "inicio": "01:33:46.719",
+      "fin": "01:34:05.709",
+      "cita": "mi clan",
+      "evidencia_cue": {
+        "id": "c004107",
+        "inicio": "01:33:54.440",
+        "fin": "01:33:56.870",
+        "texto": "mi clan"
+      },
+      "entidades": [
+        "Patata",
+        "Mictlan"
+      ],
+      "ambito": "combate e intrusión mental en el camino de Iktan",
+      "conocedores": [
+        "Patata",
+        "Mictlan"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "El acceso de Madame Oghma a este pasaje no está establecido. Los conocedores indican testigos de la escena o destinatarios del efecto; no incluyen a los elfos mostrados en las imágenes.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "La grafía Mictlan está confirmada por el coordinador con la escena escrita posterior x-1531013198478708756; se conserva mi clan en la cita. El corte se produce antes de resolver una curación o cualquier otra ayuda concreta."
+    }
+  ],
+  "historias_entidades": [
+    {
+      "nombre": "Tesara Queen",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "Historiadora humana que combate con disparos y sigilo y rastrea a la presencia intrusiva.",
+      "nota": "Tesa es Tesara Queen según el catálogo; se conserva su diferencia de conocimiento frente a los compañeros.",
+      "etapas": [
+        {
+          "titulo": "Disparos para proteger al felino",
+          "texto": "Sale repetidamente de sus escondites, aplica ataque furtivo y acaba con los adversarios cercanos a Mictlan. Un crítico impide a uno de ellos levantarse. La voz que insiste en los gemelos la obliga a actuar mientras soporta una idea ajena.",
+          "referencias": [
+            "47-203",
+            "47-209",
+            "47-214"
+          ]
+        },
+        {
+          "titulo": "La misma voz, un rastro invisible",
+          "texto": "Reconoce con ayuda del director la voz de la experiencia anterior con los elfos. En lugar de limitarse a atacar la masa busca al responsable, detecta vegetación aplastada y hace caer una rama que rebota sobre algo invisible. Al advertir que ese ocupante ha cambiado de lugar, lo rastrea otra vez con una bendición y retrocede al encontrarlo enfrente.",
+          "referencias": [
+            "47-206",
+            "47-218",
+            "47-219",
+            "47-220",
+            "47-224",
+            "47-228"
+          ]
+        },
+        {
+          "titulo": "Un escondite que también separa de los aliados",
+          "texto": "Los intentos de la presencia y de Mictlan no logran localizarla en ese momento. Mantiene el sigilo mientras Tentacol decide salir hacia los elfos.",
+          "referencias": [
+            "47-226",
+            "47-227",
+            "47-228",
+            "47-229"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Patata",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "Agricultor y clérigo que contiene a los muertos y acaba con su masa colectiva.",
+      "nota": "No se adjudica una deidad nueva ni se convierte la broma sobre la posesión en inmunidad.",
+      "etapas": [
+        {
+          "titulo": "Expulsión y fuerza radiante",
+          "texto": "Mantiene a parte de los muertos apartados hasta que los golpes permiten su regreso. Los combate con magia, espada espiritual y daño radiante. Colabora en sostener al compañero felino sin que el fragmento permita fijar la curación inicial.",
+          "referencias": [
+            "47-201",
+            "47-205",
+            "47-213",
+            "47-215"
+          ]
+        },
+        {
+          "titulo": "Resistir el peso de los cadáveres",
+          "texto": "Soporta el intento de la masa de envolverlo: supera la salvación, recibe daño y queda fuera. Después la golpea hasta dispersarla y hacer cesar el movimiento de los cuerpos.",
+          "referencias": [
+            "47-222",
+            "47-225",
+            "47-226"
+          ]
+        },
+        {
+          "titulo": "Tender una mano y conocer un nombre",
+          "texto": "Ofrece ayuda al compañero felino y pregunta su nombre. La respuesta se transcribe mi clan y Patata propone Mic; la resolución de la ayuda queda en el bloque siguiente.",
+          "referencias": [
+            "47-227",
+            "47-230"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Mictlan",
+      "tipo": "personaje",
+      "nueva": true,
+      "descripcion": "Combatiente felino del camino de Iktan, llamado mi clan, Mlan o MD por el reconocimiento automático.",
+      "nota": "Grafía Mictlan confirmada por el coordinador al leer completa la escena escrita posterior x-1531013198478708756; el bloque 1 recoge la presentación Mlan y este bloque mi clan/Mic. Esta confirmación solo fija la identidad; no se incorporan los hechos de la escena posterior. No se fija especie por el apodo gatito.",
+      "etapas": [
+        {
+          "titulo": "Estoque, veneno y auxilio",
+          "texto": "Se acerca con Booming Blade y sufre el efecto venenoso que impide curarse. Esquiva dos ataques, recibe después otro parcialmente amortiguado por el tentáculo y vuelve a resistir la exposición de proximidad. Remata a un enemigo que acaba de levantarse con un punto de vida; Tesara elimina al otro de su lado.",
+          "referencias": [
+            "47-202",
+            "47-203",
+            "47-205",
+            "47-207",
+            "47-208",
+            "47-209"
+          ]
+        },
+        {
+          "titulo": "Distancia y preocupación por los demás",
+          "texto": "Contra la masa usa una maldición que mejora sus golpes y críticos y ataca desde lejos. Al ver los cuerpos inertes comprueba cómo están los compañeros. No encuentra a Tesara escondida. Patata le ofrece ayuda y pregunta cómo llamarlo.",
+          "referencias": [
+            "47-223",
+            "47-226",
+            "47-227",
+            "47-230"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Tentacol",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "Viajero acuático vinculado a Chopito que controla la distancia mediante un tentáculo y rayos.",
+      "nota": "El tentáculo es un efecto de combate; se conserva separado de la identidad del pulpo y del viajero.",
+      "etapas": [
+        {
+          "titulo": "Impedir que vuelvan los muertos",
+          "texto": "Empuja y ralentiza a los enemigos mientras su tentáculo golpea y reduce parte del daño de un ataque cercano al felino. El apoyo sostenido permite reducir su número sin que todos lleguen al cuerpo a cuerpo.",
+          "referencias": [
+            "47-204",
+            "47-207",
+            "47-212",
+            "47-215"
+          ]
+        },
+        {
+          "titulo": "Contra la forma colectiva",
+          "texto": "Aplica Hex y sigue golpeando a la masa, incluida una maniobra que debe rodear un muro del escenario. Los empujones la apartan y sus efectos reducen de nuevo la movilidad.",
+          "referencias": [
+            "47-221",
+            "47-225"
+          ]
+        },
+        {
+          "titulo": "Aceptar el supuesto rescate",
+          "texto": "Escucha la versión de Chopito sobre los elfos que necesitan ayuda. Después de dispersar la masa anuncia que deben buscarlos y corre hacia el bosque. La localización y entrega todavía no ocurren.",
+          "referencias": [
+            "47-206",
+            "47-210",
+            "47-211",
+            "47-229"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Chopito",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "Pulpo telepático vinculado a Tentacol que interpreta la intrusión como un rescate.",
+      "nota": "Su declaración de haber recibido la visión no prueba un mensaje independiente ni que conozca la situación real de los elfos.",
+      "etapas": [
+        {
+          "titulo": "Un mandato presentado como idea propia",
+          "texto": "Cuenta a Tentacol que ha visto a dos orejas picudas en una ciudad del bosque y que deben rescatarlas y llevarlas a la jungla. Anima a terminar deprisa con los muertos y presenta el propósito como su propio plan.",
+          "referencias": [
+            "47-206",
+            "47-210",
+            "47-211",
+            "47-229"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Dragón verde del bosque de Iktan",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "Presencia oculta cuya voz coincide con la intrusión sufrida antes por Tesara.",
+      "nota": "En este bloque no se pronuncia un nombre personal. La coincidencia de voz se confirma; la fusión con Clolgedranx requiere la integración de identidades del coordinador.",
+      "etapas": [
+        {
+          "titulo": "La exigencia sobre los dos elfos",
+          "texto": "Impone imágenes y el impulso de sacar a dos elfos pálidos de la ciudad para llevarlos a la jungla. Repite el mandato, ofrece una recompensa y amenaza con la suerte de los cadáveres. El fin que persigue y el motivo de recurrir a intermediarios siguen sin explicación.",
+          "referencias": [
+            "47-206",
+            "47-210",
+            "47-216",
+            "47-217"
+          ]
+        },
+        {
+          "titulo": "Seguido sin ser visto",
+          "texto": "Tesara conoce su posición por las ramas y flores aplastadas. Una rama rebota sobre algo invisible y recibe una respuesta burlona. La criatura se cambia de lugar durante la pelea; después Tesara detecta un nuevo hueco delante de ella. Ni la caída de la masa ni ese rastreo muestran su derrota.",
+          "referencias": [
+            "47-218",
+            "47-219",
+            "47-220",
+            "47-224",
+            "47-226",
+            "47-228"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Cadáveres movidos por raíces de las ruinas del lago",
+      "tipo": "personaje",
+      "nueva": true,
+      "descripcion": "Conjunto de cadáveres animados del camino que termina reunido por raíces en una sola masa.",
+      "nota": "Nombre editorial descriptivo compartido con el bloque 1. La masa es una etapa del mismo conjunto de cuerpos. No se asigna especie de bestiario, origen o identidad individual a sus víctimas.",
+      "etapas": [
+        {
+          "titulo": "Cuerpos que regresan a la lucha",
+          "texto": "Se apartan de Patata por la expulsión y pueden volver a actuar cuando reciben daño. La proximidad de algunos obliga a salvar contra veneno. Uno se levanta con un punto de vida; un nuevo golpe lo remata. El crítico y el daño radiante resuelven otras bajas sin nuevos levantamientos.",
+          "referencias": [
+            "47-201",
+            "47-202",
+            "47-205",
+            "47-208",
+            "47-209",
+            "47-212",
+            "47-214",
+            "47-215"
+          ]
+        },
+        {
+          "titulo": "La masa de cadáveres",
+          "texto": "Al terminar la primera lucha, raíces y ramas arrastran los cuerpos, los apilan y forman una criatura enorme de restos que se desprenden. La masa intenta envolver a Patata y fracasa, aunque lo hiere. Soporta maldiciones, impactos y empujones hasta que Patata la deshace; todos los cuerpos quedan inertes y las raíces se retiran.",
+          "referencias": [
+            "47-217",
+            "47-221",
+            "47-222",
+            "47-223",
+            "47-225",
+            "47-226"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Ruinas de la orilla del lago de Iktan",
+      "tipo": "lugar",
+      "nueva": true,
+      "descripcion": "Tramo del bosque en el trayecto de Iktan donde se combate entre árboles, raíces, flores y un muro.",
+      "nota": "Denominación editorial compartida con el bloque 1. Este tramo mantiene el mismo escenario entre árboles y muros; no fija coordenadas, edificio o identidad con otros claros anteriores.",
+      "etapas": [
+        {
+          "titulo": "Vegetación que actúa y deja huellas",
+          "texto": "Raíces y ramas mueven a los cadáveres y los reúnen en una masa. Esa misma vegetación permite a Tesara localizar por presión al ocupante invisible. Las ramas recobran su posición al moverse la criatura y después dejan un nuevo hueco; un muro limita el recorrido del tentáculo.",
+          "referencias": [
+            "47-217",
+            "47-219",
+            "47-220",
+            "47-224",
+            "47-225",
+            "47-226",
+            "47-228"
+          ]
+        }
+      ]
+    }
+  ],
+  "misiones": [
+    {
+      "titulo": "Superar a los muertos del camino",
+      "estado": "cumplida en el bloque",
+      "texto": "Los muertos individuales y su masa final son destruidos. El director confirma cuerpos inertes y raíces que se retiran; la presencia invisible continúa sin ser derrotada.",
+      "referencias": [
+        "47-201",
+        "47-208",
+        "47-209",
+        "47-214",
+        "47-215",
+        "47-217",
+        "47-226"
+      ]
+    },
+    {
+      "titulo": "Encontrar al responsable de la voz",
+      "estado": "en curso",
+      "texto": "Tesara reconoce la voz y localiza dos posiciones sucesivas por sus efectos sobre los árboles. No llega a ver directamente a la criatura, apresarla o terminar con la intrusión.",
+      "referencias": [
+        "47-218",
+        "47-219",
+        "47-220",
+        "47-224",
+        "47-228"
+      ]
+    },
+    {
+      "titulo": "Sacar a los dos elfos de la ciudad",
+      "estado": "mandato de la presencia; ejecución iniciada por Tentacol",
+      "texto": "El encargo se implanta mentalmente y se acompaña de promesa de recompensa y amenaza. Chopito lo interpreta como un rescate y Tentacol corre a buscarlos. No se encuentran ni se entregan dentro del bloque.",
+      "referencias": [
+        "47-206",
+        "47-210",
+        "47-211",
+        "47-216",
+        "47-217",
+        "47-229"
+      ]
+    },
+    {
+      "titulo": "Atender al compañero felino",
+      "estado": "ayuda ofrecida; resolución por cotejar",
+      "texto": "El grupo alivia la presión sobre Mictlan y Patata ofrece echarle una mano al final. La curación concreta y el estado posterior requieren el bloque siguiente.",
+      "referencias": [
+        "47-203",
+        "47-207",
+        "47-213",
+        "47-227",
+        "47-230"
+      ]
+    }
+  ],
+  "preguntas": [
+    {
+      "pregunta": "¿Por qué la voz quiere que los viajeros saquen a los dos elfos de la ciudad y qué pretende hacer con ellos?",
+      "estado": "pendiente",
+      "respuesta": "La presencia ordena llevarlos a la jungla y ofrece una recompensa, sin explicar el fin ni la necesidad de intermediarios.",
+      "pendiente": "Motivo del encargo, identidad integrada de los dos destinatarios y desenlace de la entrega.",
+      "referencias": [
+        "47-206",
+        "47-210",
+        "47-216",
+        "47-217",
+        "47-229"
+      ]
+    },
+    {
+      "pregunta": "¿Podrán resistir o terminar el impulso que la voz les ha implantado?",
+      "estado": "pendiente",
+      "respuesta": "Todos reconocen que el impulso es ajeno, pero sienten necesidad de cumplirlo; Chopito lo presenta como un plan de rescate y Tentacol sale a buscar a los elfos.",
+      "pendiente": "Duración, condiciones de finalización y decisiones posteriores de todos los afectados.",
+      "referencias": [
+        "47-206",
+        "47-211",
+        "47-218",
+        "47-229"
+      ]
+    },
+    {
+      "pregunta": "¿Logrará Tesara descubrir y enfrentar a la criatura que sigue entre los árboles?",
+      "estado": "parcial",
+      "respuesta": "Confirma que la voz coincide con la experiencia anterior y encuentra dos posiciones sucesivas por vegetación desplazada; una rama rebota sobre algo invisible.",
+      "pendiente": "Ver directamente a la criatura, fijar su identidad completa y resolver la persecución.",
+      "referencias": [
+        "47-218",
+        "47-219",
+        "47-220",
+        "47-224",
+        "47-228"
+      ]
+    },
+    {
+      "pregunta": "¿De dónde proceden los cadáveres animados y cómo se relaciona su movimiento con la presencia oculta?",
+      "estado": "parcial",
+      "respuesta": "Se observan raíces y ramas que reúnen los cuerpos en una masa mientras la voz amenaza con un destino semejante. Al ser destruida la masa las raíces vuelven a la tierra.",
+      "pendiente": "Identidades y causa de muerte de las víctimas, mecanismo de animación y responsabilidad concreta de la presencia.",
+      "referencias": [
+        "47-217",
+        "47-226"
+      ]
+    },
+    {
+      "pregunta": "¿Qué hará Tentacol al encontrar a los elfos y qué papel tendrá Chopito en su decisión?",
+      "estado": "pendiente",
+      "respuesta": "Chopito defiende un supuesto rescate y Tentacol inicia el desplazamiento para buscarlos. El bloque termina antes de localizar a nadie.",
+      "pendiente": "Encuentro, información que transmita al grupo y aceptación o rechazo del mandato.",
+      "referencias": [
+        "47-211",
+        "47-229"
+      ]
+    }
+  ],
+  "relaciones": [
+    {
+      "origen": "Tesara Queen",
+      "destino": "Mictlan",
+      "texto": "Tesara dispara contra los dos adversarios próximos al felino para aliviar la presión sobre él y acaba con uno mediante un crítico.",
+      "referencias": [
+        "47-203",
+        "47-209"
+      ]
+    },
+    {
+      "origen": "Patata",
+      "destino": "Mictlan",
+      "texto": "Patata presta atención al estado del felino durante la pelea y al final le ofrece ayuda y pregunta su nombre. No se certifica todavía una curación concreta.",
+      "referencias": [
+        "47-213",
+        "47-227",
+        "47-230"
+      ]
+    },
+    {
+      "origen": "Chopito",
+      "destino": "Tentacol",
+      "texto": "El pulpo interpreta el mandato intrusivo como un rescate, lo presenta como plan propio y anima a Tentacol a ejecutarlo; este acaba corriendo a buscar a los elfos.",
+      "referencias": [
+        "47-211",
+        "47-229"
+      ]
+    },
+    {
+      "origen": "Dragón verde del bosque de Iktan",
+      "destino": "Tesara Queen",
+      "texto": "La voz coincide con la experiencia anterior de Tesara; ella reconoce la invasión, busca al responsable y logra seguir su posición por vegetación desplazada, sin verle el cuerpo.",
+      "referencias": [
+        "47-206",
+        "47-218",
+        "47-219",
+        "47-220",
+        "47-224",
+        "47-228"
+      ]
+    }
+  ],
+  "seguimiento_nuevo": [
+    {
+      "tema": "Mandato y resistencia mental",
+      "nota": "Todos reciben una idea ajena y la necesidad de realizarla. Chopito la transforma en supuesto rescate y Tentacol sale a buscar a los elfos; el desenlace necesita bloque 3.",
+      "referencias": [
+        "47-206",
+        "47-210",
+        "47-211",
+        "47-216",
+        "47-229"
+      ]
+    },
+    {
+      "tema": "La voz de la experiencia anterior de Tesara",
+      "nota": "El director establece coincidencia de voz. Cotejar con las preguntas globales sobre influencia del dragón y el disparo anterior; el recuerdo de Tesara no termina la frase del objetivo de aquel disparo.",
+      "referencias": [
+        "47-218"
+      ]
+    },
+    {
+      "tema": "Ninguna alianza serpiente demostrada",
+      "pregunta_id": "P30-005",
+      "nota": "La voz y la animación se producen juntas; no aparece identificación con sacerdotes, Hoja Caída o los superiores serpentinos.",
+      "referencias": [
+        "47-206",
+        "47-217",
+        "47-218",
+        "47-226"
+      ]
+    },
+    {
+      "tema": "Identidad externa del dragón de Aerendriel",
+      "pregunta_id": "P15-006",
+      "nota": "El contexto autorizado da Zarynth. Incorporar con su propia fuente externa en la integración; no usar al dragón de este bloque como prueba del compañero de Aerendriel.",
+      "referencias": []
+    }
+  ],
+  "cotejo_preguntas_asignadas": [
+    {
+      "pregunta_id": "P12-006",
+      "sha256_pregunta": "f86e743d2d5bf309241ec630a20a29b04a50bb0ddf57739fd33e4408132c6467",
+      "pregunta": "¿Leerán el capitán o Molly la carta de Nox y qué dice? La nota no se lee y el capitán queda inconsciente (12-030 y 12-032).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No se recibe ni se lee la carta del campamento destinada al capitán o a Molly.",
+      "referencias": [],
+      "pendiente": "Texto de la carta del campamento y recepción o lectura por sus destinatarios.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P12-007",
+      "sha256_pregunta": "492f6c756ec90d521353a14ea512b718187b886a7a6a04154a84d61741d9204b",
+      "pregunta": "¿Qué investigan los marines en los lugares del mapa? Sus nombres y coordenadas no se transcriben (12-030).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No se revisa el mapa de los marines ni se relaciona el camino de Iktan con sus marcas de investigación.",
+      "referencias": [],
+      "pendiente": "Correspondencia de todas las marcas con lugares, objetivos y resultados específicos de investigación.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P12-008",
+      "sha256_pregunta": "fb257195c13f099a991d920a9b169dc5fbd6755ce23273aefd5af351b2a23c33",
+      "pregunta": "¿Devolverá Pix el mondadientes de Blink? Se conoce quién lo tiene, pero la entrega sigue pendiente (12-005).",
+      "lectura_completa": true,
+      "estado_anterior": "resuelta",
+      "estado_propuesto": "resuelta",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No aparece el mondadientes de Bling; su recuperación ya resuelta no recibe novedades.",
+      "referencias": [],
+      "pendiente": "",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P12-009",
+      "sha256_pregunta": "13824ec454114aa480a460c5f97024c4c23d311f9f5cdfd72a8825a5d8cb2fcb",
+      "pregunta": "¿Cuándo recuperará Pinky su forma y terminarán las alucinaciones? Regresa como oveja; se adjudican cuatro horas de alucinación, sin mostrar la reversión (12-023 y 12-027–12-032).",
+      "lectura_completa": true,
+      "estado_anterior": "parcial",
+      "estado_propuesto": "parcial",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No aparece Pinky ni se narra la reversión de oveja o el final de aquellas alucinaciones.",
+      "referencias": [],
+      "pendiente": "Momento y mecanismo de la reversión y final documentado de las alucinaciones originales.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P13-001",
+      "sha256_pregunta": "3816a5ea01d5f02495f639e1e5e698d68ae244700fc28a642b8542e444827a20",
+      "pregunta": "¿Quién se llevó el cuerpo del nawal y por qué? La investigación de Ayoto no obtiene una respuesta (13-002).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "Los muertos del camino no se identifican con el cuerpo del nawal y no se informa de quién lo retiró.",
+      "referencias": [],
+      "pendiente": "Identificar a quien retiró el cadáver y explicar su motivo.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P13-002",
+      "sha256_pregunta": "926c0f8618d4ada22991c43c3a96aeb3c635b92232175619748849dd9fab11f5",
+      "pregunta": "¿Quién construyó el templo y a qué cultura o deidad pertenece? Las figuras rotas y los símbolos animales no proporcionan una identificación; las referencias al sol, la luna y la noche son interpretaciones (13-014 y 13-022–13-023).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "La vegetación y el muro del combate no se identifican con el templo de la danza ni explican a sus constructores.",
+      "referencias": [],
+      "pendiente": "Identificar a los constructores y la adscripción del templo de la danza.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P13-003",
+      "sha256_pregunta": "c05cddb343eb67c5821a151f833fda24366123ceeb700ed01ebaf29a0e83d016",
+      "pregunta": "¿Podrán modificar el escudo o cultivar las semillas? Recogen materiales, pero no realizan los proyectos (13-021).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No se plantan las semillas recogidas ni se modifica el escudo con esos materiales.",
+      "referencias": [],
+      "pendiente": "Mostrar la plantación o la modificación con los materiales recogidos.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P13-004",
+      "sha256_pregunta": "9bafa2b4bd157e3e867cb1ee4663a1d2d3b6dcfd0bede86764f194255b1c5a1b",
+      "pregunta": "¿Cómo volverán a activar la plataforma y salir con el tesoro? Retirar el peso no la hace subir y el regreso no se narra (13-026).",
+      "lectura_completa": true,
+      "estado_anterior": "parcial",
+      "estado_propuesto": "parcial",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "Patata combate, pero no recuerda cómo salió con el tesoro de aquella plataforma.",
+      "referencias": [],
+      "pendiente": "Explicar cómo reactivaron la plataforma y completaron la salida.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P13-005",
+      "sha256_pregunta": "d9380845ca10cd99081a2f1a88dcf15f3079109d91a23be2e2a3be223f4dd5d6",
+      "pregunta": "¿Qué resultado sustituye a las ocho monedas y qué obtiene Kilzer en el sótano? No se anuncian todos los resultados de forma inequívoca (13-025).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No se anuncian nuevas tiradas o resultados del botín de Kilzer en el sótano.",
+      "referencias": [],
+      "pendiente": "Precisar ambos resultados de la tabla de tesoro.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P13-006",
+      "sha256_pregunta": "446e0ef031047807360dd5d4f6c03b2df454d8579e315fd1344492d366b3779b",
+      "pregunta": "¿Cuáles serán las cláusulas finales del casino? El nuevo reparto no explica cómo cambió el cinco por ciento negociado por Nox (13-011 y 11-031).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No intervienen Kilzer, Nox o Bonny para explicar el reparto y las cláusulas del casino.",
+      "referencias": [],
+      "pendiente": "Conocer el acuerdo definitivo de propiedad, porcentajes y obligaciones.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P13-007",
+      "sha256_pregunta": "746061f39e47891f4540ea15602a7941dc1875337aed4c1423525f513759ebdc",
+      "pregunta": "¿Recuperará Nox el sombrero que toma Ayoto? ¿Se recuperará Jack del golpe de botella? Ambos desenlaces quedan pendientes (13-008 y 13-012).",
+      "lectura_completa": true,
+      "estado_anterior": "resuelta",
+      "estado_propuesto": "resuelta",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No se trata el sombrero de Nox ni la recuperación de Jack; se conserva el desenlace anterior.",
+      "referencias": [],
+      "pendiente": "",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P14-001",
+      "sha256_pregunta": "71fb1689506a5d93b14778059787a65ac659c08aadff2c0d3037370c47b91685",
+      "pregunta": "¿Qué entidad menciona el diario y qué precio exigió? No se lee un nombre ni el pacto completo (14-015).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "La voz del bosque se enlaza con la experiencia previa de Tesara, sin identificarla con la entidad del diario mercante.",
+      "referencias": [],
+      "pendiente": "Identificar a la entidad y reconstruir el pacto del mercante.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P14-002",
+      "sha256_pregunta": "b6a83666994538e73d1c6cd79818009ed4403fd4e59c8a861d0758b9ba5bab28",
+      "pregunta": "¿Por qué la hija afirma que no puede salir si la mujer del bote tiene su mismo rostro? Las manifestaciones no reciben una explicación (14-007–14-008 y 14-016).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No aparecen la mujer del bote ni la hija espectral y no se explica su coincidencia de rostro.",
+      "referencias": [],
+      "pendiente": "Explicar las dos apariciones y las restricciones de la hija.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P14-003",
+      "sha256_pregunta": "8d9ab65bd0d51db0246bc11c44d7342815abe6c8f18fa48136cd4eed2926cabf",
+      "pregunta": "¿A quién llama traidor el marinero y por qué señala al capitán y a su hija? Los gestos no revelan toda la historia (14-015 y 14-019).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "La amenaza de la voz no amplía la acusación del marinero de la lengua enjaulada.",
+      "referencias": [],
+      "pendiente": "Precisar el destinatario y la causa de la acusación de traición.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P14-004",
+      "sha256_pregunta": "4e788ead0938a9e1847b7064feb9d409b9ccb030bb43c08aacdd9cfc7c0cdc22",
+      "pregunta": "¿Qué ocurre con el mercante, la hija y las almas? No se muestra un retorno a la vida ni el hundimiento final (14-024–14-025).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "Los cadáveres de este combate no proporcionan información del mercante, su hija o sus almas.",
+      "referencias": [],
+      "pendiente": "Conocer el destino de la nave y de sus ocupantes.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P14-005",
+      "sha256_pregunta": "9f6ef564f93916d7cb6c0939e2eb5cad7aaff6508a999d42b5511b1893eb552d",
+      "pregunta": "¿La moneda negra causa otra maldición a Eldrat? La frase del marinero no viene acompañada de una marca o un efecto confirmado (14-019).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "Las maldiciones usadas contra la masa son efectos de este combate; no se vinculan con la moneda negra de Eldrath.",
+      "referencias": [],
+      "pendiente": "Determinar si existió una maldición y cuáles fueron sus efectos.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P14-006",
+      "sha256_pregunta": "b5bb147dbd5c7fe8351ea5e23fb9997104e74230d4fa75de078637296bb5c025",
+      "pregunta": "¿Qué quiere Bonnie de Patata y de los hermanos? ¿Habrá recompensa? Solo se muestra la convocatoria (14-025).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "La recompensa prometida por la voz se refiere a sacar a los elfos, sin aclarar la convocatoria o el pago de Bonny por el mercante.",
+      "referencias": [],
+      "pendiente": "Conocer el contenido de aquella convocatoria y si hubo una recompensa por el mercante.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P14-007",
+      "sha256_pregunta": "a999868b1d90d082129f8e3e558e6f0338f5b743a24fa731647c9f078a0caad8",
+      "pregunta": "¿De dónde proceden Eldrat y Triel y qué ocurrió con las dríadas? El pasado mostrado no ofrece nombres ni toda la historia (14-001 y 14-005).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "Las imágenes de dos elfos y el reconocimiento de Tesara no explican el origen de Eldrath y Tryel ni el episodio de las dríadas.",
+      "referencias": [],
+      "pendiente": "Identificar su procedencia y aclarar lo ocurrido con las dríadas.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P14-008",
+      "sha256_pregunta": "7e26d74141977b34b98bb2a5328430723f8406c9d82e33ae3292f451bcd5dc0e",
+      "pregunta": "¿Recuperará Nox el sombrero del nido del loro? Ayoto lo entrega y no se recupera (14-006).",
+      "lectura_completa": true,
+      "estado_anterior": "resuelta",
+      "estado_propuesto": "resuelta",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No se trata el sombrero del nido del loro; no cambia su recuperación anterior.",
+      "referencias": [],
+      "pendiente": "",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P15-001",
+      "sha256_pregunta": "5baaf52ce8e5bcee454fbaf993d6d6d7addf64ed6546b2b6333f899051019883",
+      "pregunta": "¿Qué hará Bonnie con Erendriel por el retraso? Sus hombres se lo llevan sin mostrar el desenlace (15-021).",
+      "lectura_completa": true,
+      "estado_anterior": "resuelta",
+      "estado_propuesto": "resuelta",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No se trata la muerte de Aerendriel ni la detención por Bonny; no cambia el desenlace anterior.",
+      "referencias": [],
+      "pendiente": "",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P15-002",
+      "sha256_pregunta": "aaf92d4eff5ff93e4d6799cdabb877d5a40c1b260485b46d850a61a4492e20ca",
+      "pregunta": "¿Llegará Jack a Puerto de las Espadas, cobrará la lista y se reunirá con Lucy? Bonnie solo confirma su partida (15-021).",
+      "lectura_completa": true,
+      "estado_anterior": "parcial",
+      "estado_propuesto": "parcial",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No aparece Jack ni se habla de Puerto de Espadas, Lucy, cobros o del Jackie referido por Taylor.",
+      "referencias": [],
+      "pendiente": "El cobro de la lista, la reunión con Lucy y la identidad del Jackie mencionado por Taylor.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P15-003",
+      "sha256_pregunta": "9bbdf5ec35539528c50f37cc1efa3c5d47be3c8148330a994aa5a76664c73a1e",
+      "pregunta": "¿Cómo se llama el poblado y por qué secuestraron a los piratas? No se explica su historia ni se lo identifica con la tribu del preso del capítulo 12 (15-010 y 15-019).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No se identifica la aldea caníbal del capítulo 15 ni se explica aquel secuestro.",
+      "referencias": [],
+      "pendiente": "Identificar el poblado y establecer el motivo del secuestro.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P15-004",
+      "sha256_pregunta": "9267e2e5be51f3ff39c94ca7fb18123ee54f4cf590264ef660c944e9fb4242ea",
+      "pregunta": "¿Qué significa el tatuaje del combatiente que vuelve a levantarse? Se copia, pero no se descifra ni se le adjudica un poder (15-019).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "Que estos muertos vuelvan a levantarse no descifra ni vincula causalmente el tatuaje del combatiente del capítulo 15.",
+      "referencias": [],
+      "pendiente": "Leer el tatuaje y determinar su función.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P15-005",
+      "sha256_pregunta": "2d7ba87de16287219f83bcc838c3a7e8043998e359c452ae709beee958bbe697",
+      "pregunta": "¿Cuándo producirán el huerto y el casino? Los proyectos existen, pero no generan ingresos mostrados (15-001 y 15-003–15-004).",
+      "lectura_completa": true,
+      "estado_anterior": "parcial",
+      "estado_propuesto": "parcial",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No se muestran ingresos, cosechas o apertura del casino. Las acciones de Patata aquí son de combate.",
+      "referencias": [],
+      "pendiente": "Confirmar la apertura y los ingresos ordinarios del casino y del huerto.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P15-006",
+      "sha256_pregunta": "13879911d0f87170239cf00690809ac6a349ba0af6e13a0a5973fe04c07958b3",
+      "pregunta": "¿Es Tarin el nombre del dragón? La mención breve sigue siendo una candidata, sin confirmación clara (15-012).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No se nombra el dragón compañero de Aerendriel. La voz corresponde al episodio de Tesara y no identifica a ese compañero. El contexto autorizado ya fija Zarynth; coordinar corrección con su fuente externa, sin atribuirla a este bloque.",
+      "referencias": [],
+      "pendiente": "Confirmar el nombre del dragón de Erendriel mediante una identificación directa.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P15-007",
+      "sha256_pregunta": "dbf8f1df1d1d3415b2d2fb5e5abb71322472373610a1df2c1b94ac0732ac418e",
+      "pregunta": "¿Qué enfermedad tiene Mamá y por qué Triel no puede curarla? La recapitulación no aporta un diagnóstico ni una escena completa (15-002).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No aparece Citlali ni se diagnostica su maldición. La exposición venenosa del felino es otra condición.",
+      "referencias": [],
+      "pendiente": "Obtener un diagnóstico, explicar el origen de la maldición y el fracaso de la curación de Triel.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P16-001",
+      "sha256_pregunta": "502b8bd64c0b9e28dcb350435e91153a231f5572fa3b6199a057121f31a4ea71",
+      "pregunta": "¿Quién mató a Erendriel, cómo y por qué incumplimiento concreto? La muerte se confirma, pero no se muestra la ejecución completa (16-002,16-004 y 15-021).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No se reconstruyen ejecutor, método o incumplimiento por la muerte de Aerendriel.",
+      "referencias": [],
+      "pendiente": "Identificar al ejecutor, el método y el incumplimiento concreto castigado.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P16-002",
+      "sha256_pregunta": "34b44dccbe60078df3097d96ce428755bba647cb217aba7417a71d60b96ce4c1",
+      "pregunta": "¿Dónde está el dragón y qué negocio quiere discutir Bonnie con Nox tras la muerte del elfo? La búsqueda y la propuesta no obtienen un resultado (16-002 y 16-004).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "La presencia perseguida por Tesara no se identifica como Zarynth ni se trata el negocio de Bonny con Nox.",
+      "referencias": [],
+      "pendiente": "Localizar al dragón y conocer la propuesta de Bonnie.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P16-003",
+      "sha256_pregunta": "cd5fe5de312727e71099bcb447cf8daa3e583764083f86f84d2f0a6046cadfc8",
+      "pregunta": "¿Qué despierta tras milenios y cómo se relaciona con los extranjeros y las serpientes? Las declaraciones no ofrecen una explicación confirmada (16-016–16-017).",
+      "lectura_completa": true,
+      "estado_anterior": "parcial",
+      "estado_propuesto": "parcial",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "La animación de cadáveres y la voz no se vinculan a la prisión de la visión de Walulu ni identifican a lo despertado.",
+      "referencias": [],
+      "pendiente": "Identificar a la entidad liberada y explicar su relación con las serpientes y la expansión extranjera.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P16-004",
+      "sha256_pregunta": "00fd0b993272a395ee4c173b26e97d90fda6f3b8d9a11b2c1d1fc8eb3a9f3efe",
+      "pregunta": "¿Se celebrará el concilio y quién asistirá? Eromov plantea condiciones y todavía quedan líderes por contactar (16-003 y 16-016).",
+      "lectura_completa": true,
+      "estado_anterior": "parcial",
+      "estado_propuesto": "parcial",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No se convoca o celebra el concilio ni se añaden asistentes a las promesas anteriores.",
+      "referencias": [],
+      "pendiente": "Confirmar la celebración y la asistencia efectiva al concilio.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P16-005",
+      "sha256_pregunta": "95a61e8bc12d960326669beef523c8f0da42e84a65a0e4887f7e97e3bf36a5cb",
+      "pregunta": "¿Quién es el campeón solar y tiene relación con Ayoto? Naór relata la leyenda sin designarlo (16-017).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No se designa al campeón solar ni se relaciona con Ayoto. La magia radiante de Patata no satisface esa identificación.",
+      "referencias": [],
+      "pendiente": "Identificar al campeón y comprobar o descartar su relación con Ayoto.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P16-006",
+      "sha256_pregunta": "2e758d9fb2352dc335951ff852e6be993093342019eef3c89a89dba602263f3f",
+      "pregunta": "¿Quiénes son las dos visitantes de Eromov que desaparecen mediante plantas? Se describen sus apariencias, sin nombres (16-015).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No aparecen las visitantes alada y mediana de Eromov ni se conocen sus nombres.",
+      "referencias": [],
+      "pendiente": "Identificar a ambas visitantes y el motivo de su presencia.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P16-007",
+      "sha256_pregunta": "986288e3c78fe25904a24f85af7d902648131cf2aa1d04790f7992937b03760a",
+      "pregunta": "¿Tiene la mujer de Cuicapalli relación con el nawal? Ayoto lo afirma por su parecido, pero ella niega conocerlo (16-019).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No aparecen la mujer de Cuicapalli o Ayoto ni se añade un vínculo con la nawal.",
+      "referencias": [],
+      "pendiente": "Determinar si existe algún vínculo real entre ambas personas, aparte de la imagen.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P16-008",
+      "sha256_pregunta": "ed5c2d477b78a2a3b5be245176acd0133973b2cd00241cb0428da5b7d3c1fda3",
+      "pregunta": "¿Qué plantas necesita el kenku y qué contienen los tubos de Lunaria? El encargo y los objetos quedan sin identificar por completo (16-017 y 16-020).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "Las flores del bosque sirven de indicio de presión y animación; no se identifican con las plantas fucsias del kenku o los tubos de Lunaria.",
+      "referencias": [],
+      "pendiente": "Identificar las plantas y los contenidos, y comprobar si se cumplió el encargo.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P16-009",
+      "sha256_pregunta": "758235c6d909c0fbed7ce74dc624b43f64d154a9e71ebe8218b46bd7d83e31e3",
+      "pregunta": "¿Adónde llegarán Triel y Lunaria? ¿Qué efecto tendrá el tatuaje de Naór? El cierre deja ambas cuestiones pendientes (16-021).",
+      "lectura_completa": true,
+      "estado_anterior": "parcial",
+      "estado_propuesto": "parcial",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No se reconstruye la ruta de Lunaria ni se precisa el tatuaje festivo de Naór.",
+      "referencias": [],
+      "pendiente": "Precisar el efecto y el pago del tatuaje de Naór; no se reconstruye toda la ruta de Lunaria.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P17-001",
+      "sha256_pregunta": "9cf6a0405b7719c1ea3cc4d7da59ae9c3574bd61f2f05be3a77d662e14ebce9f",
+      "pregunta": "¿Dónde está Atlan y cuál es su grafía correcta frente a Atlas? Nombre explícito de reino sin coordenadas (17-006 y 17-022).",
+      "lectura_completa": true,
+      "estado_anterior": "parcial",
+      "estado_propuesto": "parcial",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No se menciona Atlan ni se añaden coordenadas o grafía a su ubicación.",
+      "referencias": [],
+      "pendiente": "Fijar la ubicación precisa y la grafía oficial de Atlan.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P17-002",
+      "sha256_pregunta": "4269ed09588dbdd1e85b32da74145cfb871adbe010c6b3e3c3a6f0ca3a3c93aa",
+      "pregunta": "¿Quiénes son el rey, la reina y la figura enmascarada, y qué implica la alianza? Sin nombres personales ni tratado escrito (17-010 y 17-023).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No aparecen los gobernantes de Ras Racor ni se dan términos de su alianza.",
+      "referencias": [],
+      "pendiente": "Identificar a los tres dirigentes y los términos efectivos de la alianza.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P17-003",
+      "sha256_pregunta": "0dd93fbeba19249fbae344548e226ff4a32deb61a0b701d1d67bad82c16c0fed",
+      "pregunta": "¿Se celebrará el concilio de Tutucan y llegará Naór a Iktan? Promesas e intención, no llegada (17-021–17-023).",
+      "lectura_completa": true,
+      "estado_anterior": "parcial",
+      "estado_propuesto": "parcial",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "El mandato sobre los elfos no convoca el concilio de Tutucan; no se representa su celebración.",
+      "referencias": [],
+      "pendiente": "Confirmar la celebración del concilio de Tutucan.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P17-004",
+      "sha256_pregunta": "979882beb500d46d9fa101db86a64b9646e17077f16921a627966594e94d9e61",
+      "pregunta": "¿Qué relación tienen hombres serpiente vistos al norte y crisis de Cuicapalli? Informe de la escolta sin investigación (17-007).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No se investigan los avistamientos de la patrulla ni se vinculan los muertos actuales con la crisis de Cuicapalli.",
+      "referencias": [],
+      "pendiente": "Establecer la relación directa entre los avistamientos de la patrulla y la crisis de Cuicapalli.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P18-001",
+      "sha256_pregunta": "06ab0f444b45513b026a0d6f311edd05adfbf0ee179f6b8f6de40af7c617f00b",
+      "pregunta": "¿Qué significan la palabra «tiempo», las botas con símbolos y las heridas persistentes de Mamá? (18-005, 18-009)",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No se estudian las botas, la palabra tiempo o las heridas de Citlali. La intrusión no explica sus marcas.",
+      "referencias": [],
+      "pendiente": "El significado de «tiempo», las botas y la causa completa de las heridas y marcas.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P18-002",
+      "sha256_pregunta": "eb1cc64e926a224b8da1db3fbdcd9e6e04a494e1b862163509d23385f60c890c",
+      "pregunta": "¿Quiénes son las criaturas marinas asesinadas y qué ritual utiliza la sangre reciente? (18-012–18-013)",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No aparecen las víctimas marinas del templo ni su ritual de sangre; los cuerpos del camino siguen sin identidad.",
+      "referencias": [],
+      "pendiente": "Identificar a las víctimas y el ritual de ese templo.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P18-003",
+      "sha256_pregunta": "8dbd08ede4c55ad94379ceed84953e7e9359341aaa243090086ae421309ceae2",
+      "pregunta": "¿Quién es el dios del templo, Lares/Larcamas, y qué vínculo tiene con Set nombrado en la bendición? Sin equivalencia establecida (18-007 y 18-017).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "La invocación radiante de Patata no nombra a Lares, Larcamas o Set ni establece equivalencias entre deidades.",
+      "referencias": [],
+      "pendiente": "Identificar la deidad del templo y determinar su relación con Set.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P18-004",
+      "sha256_pregunta": "6b8224b15d2f26dfde5bc20cf292f4ee45da7ac9c7700ad1191839f2a264b41c",
+      "pregunta": "¿Qué representa la sombra del cierre y qué conoce algún personaje de ella? No acceso demostrado (18-021).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "La presencia actual se enlaza con una experiencia previa de Tesara, sin identificar la sombra del cierre del capítulo 18.",
+      "referencias": [],
+      "pendiente": "Identificar la sombra y cualquier acceso de los personajes a esa información.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P19-001",
+      "sha256_pregunta": "fb7c22cb1a9397335a7d5a567cc43a01ac817cf5e7d152e89b15d12993caadd3",
+      "pregunta": "¿Qué presencia habla a través del collar y puede modificar/controlar criaturas? Solo percepción e hipótesis (19-014–19-016).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No aparece el collar ni se identifica su presencia con la voz del bosque. El movimiento actual de cadáveres por raíces no confirma control del dinosaurio de la charca.",
+      "referencias": [],
+      "pendiente": "Identificar la presencia del collar y verificar su capacidad de controlar o modificar criaturas.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P19-002",
+      "sha256_pregunta": "be0af725599ce02d45fc59171e01a7cc24de45e11e1948bacd5f98e1e0ca7a4f",
+      "pregunta": "¿Por qué el intento de curación de Mamá causa daño y rejuvenecimiento? Blink conoce el fenómeno, no explicación (19-007).",
+      "lectura_completa": true,
+      "estado_anterior": "parcial",
+      "estado_propuesto": "parcial",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No se produce drenaje de Citlali ni se explican rejuvenecimiento o daño durante su curación anterior.",
+      "referencias": [],
+      "pendiente": "El origen y las reglas de la absorción, y la causa concreta del daño durante aquel intento de curación.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P19-003",
+      "sha256_pregunta": "e9981656e09e0e8c1b349a8b84ff87189242b57653cb2d7831d53d4170e29fbb",
+      "pregunta": "¿Se entrenará Leona y dónde custodiarán el collar? Pendientes (19-016–19-017).",
+      "lectura_completa": true,
+      "estado_anterior": "parcial",
+      "estado_propuesto": "parcial",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No aparece Leona ni el collar de Bling, y no se ejecuta su entrenamiento o custodia.",
+      "referencias": [],
+      "pendiente": "Conocer los resultados del entrenamiento de Leona y las consecuencias de abandonar el collar.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P20-001",
+      "sha256_pregunta": "2150d68ad9f27416701150ebf8fa0fb959da9eeb14af553c715df9ac80aa4adf",
+      "pregunta": "¿Quién es Arcan, la figura del templo de Zarial, y por qué ella busca fuerza? Solo se dispone de su relato introductorio (20-003).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No aparecen Arcan o Zarial ni una explicación de la búsqueda de fuerza.",
+      "referencias": [],
+      "pendiente": "Identificar a Arcan y documentar la motivación y tradición de Zarial.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P20-002",
+      "sha256_pregunta": "069dbb7106082c39a093b6fc95762fa6f3ba9b08ddc285d2d7cbe1953d494bba",
+      "pregunta": "¿Qué indica la X junto a Slaz en el mapa y cuándo compartirá Poncelot su contenido? (20-014).",
+      "lectura_completa": true,
+      "estado_anterior": "parcial",
+      "estado_propuesto": "parcial",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No se estudia el mapa de Poncelot o la X junto a Slaz; el muro del combate no fija ese destino.",
+      "referencias": [],
+      "pendiente": "Aclarar la identificación y el nombre exacto del destino marcado con la X.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P20-003",
+      "sha256_pregunta": "93d3a452938af0bd49198b209f09d962216c8ced1fa5d70e994bb3f098d97d21",
+      "pregunta": "¿Cuál era el cometido del campamento, del gas y de la serpiente? ¿Dónde está Eldrat? No se averigua en este capítulo (20-008, 20-013 y 20-017).",
+      "lectura_completa": true,
+      "estado_anterior": "parcial",
+      "estado_propuesto": "parcial",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No se trata el campamento del gas ni la desaparición anterior de Eldrath. Las imágenes de elfos no explican aquel cometido.",
+      "referencias": [],
+      "pendiente": "Determinar la finalidad de aquel campamento, la trampa de gas y la serpiente.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P20-004",
+      "sha256_pregunta": "034e427a83e95ee0be695bda7aa92a7c54d0dd2b2ccc42b8cea53a96aeea5653",
+      "pregunta": "¿Existe la criatura de tres cabezas de la tradición leonina o aparece en otras fuentes? (20-006).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "La masa de cuerpos no se identifica con la criatura de tres cabezas de la tradición leonina.",
+      "referencias": [],
+      "pendiente": "Corroborar la leyenda e identificar a su criatura.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P21-001",
+      "sha256_pregunta": "35a775ba64ed93bec5b70adaebc2503b81202ad6778e6d3c29120a692dae9369",
+      "pregunta": "¿Quién es la tercera criatura arrastrada del campamento y qué le ocurre? No se identifica (21-006–21-007).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "Ninguno de los cadáveres se identifica como la tercera criatura arrastrada del antiguo campamento.",
+      "referencias": [],
+      "pendiente": "Identificar a la tercera criatura y su desenlace.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P21-002",
+      "sha256_pregunta": "5a5dcf2e337a8fcad19600aa9b3d65b1181dd1d1da9c6ab1da8f444a47aa5d4f",
+      "pregunta": "¿El humano transformado en lobo, los lobos con marcas lunares y el estanque están vinculados al culto serpiente? El collar activa una visión, pero no se conoce un vínculo doctrinal (21-010 y 21-015).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No aparecen el humano-lobo, las marcas lunares o el estanque ni se establece su relación con el culto.",
+      "referencias": [],
+      "pendiente": "Comprobar la relación entre ese ritual, la transformación y el culto serpiente.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P21-003",
+      "sha256_pregunta": "7053946d224fa76747b736ff2f7b060f11c495363e2eac49ae89426319bb02cf",
+      "pregunta": "¿Qué entidad se muestra a Blink y Zarial y habla al collar? Al final se describe como una mujer pez, sin nombre confirmado (21-015).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "La voz y las imágenes de elfos no nombran a la mujer pez de la visión del collar.",
+      "referencias": [],
+      "pendiente": "Identificar a la entidad de la visión de Blink y Zarial.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P21-004",
+      "sha256_pregunta": "d47255e9324aff5329153baa81f38cfede7d80113cefd1f89cb809f98ef29202",
+      "pregunta": "¿Aceptará Eromov la custodia de Leo y cómo afectará al niño lo sucedido? Queda pendiente (21-016).",
+      "lectura_completa": true,
+      "estado_anterior": "parcial",
+      "estado_propuesto": "parcial",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No aparece Leo ni se trata su custodia por Eromov o la evolución de sus secuelas.",
+      "referencias": [],
+      "pendiente": "La aceptación formal de la custodia y la evolución del niño.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P22-001",
+      "sha256_pregunta": "7b9fe87f5e738ab80ef618398156236dbf7220f20b83f9611c6b0edee63fa875",
+      "pregunta": "¿Cómo se infiltraron en la aldea y por qué preguntan a Mamá por el collar que tiene Blink? (22-011–22-018).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No se reconstruye la infiltración del festival ni la demanda del collar a Citlali.",
+      "referencias": [],
+      "pendiente": "Reconstruir la infiltración del festival y el motivo de preguntar a Mamá por el collar.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P22-002",
+      "sha256_pregunta": "60439856f914a489339d6bc40f8d1564b2267bde352e2c913b1bcbdfb84e2390",
+      "pregunta": "¿Qué descubrirá Blink sobre la amenaza y recibirá el aviso? (22-018).",
+      "lectura_completa": true,
+      "estado_anterior": "parcial",
+      "estado_propuesto": "parcial",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No aparece Bling ni se transmite el aviso de Eromov. La orden actual tiene otros destinatarios.",
+      "referencias": [],
+      "pendiente": "Confirmar si recibió el aviso concreto de Cuicapalli y conocer la identidad y finalidad del atacante.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P22-003",
+      "sha256_pregunta": "e0c7aee13b3f9aea063deb0548d34f5268edc01af9219864560cb623c692d9cb",
+      "pregunta": "¿Cuál es la especie y el linaje de Guayacán? ¿Va disfrazado de ave o es un aracocra? La fuente mantiene la ambigüedad (22-002 y 22-005).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No aparece Guayacán ni se declara su especie o linaje; los apodos felinos de Mictlan corresponden a otra persona.",
+      "referencias": [],
+      "pendiente": "Confirmar su especie real y el linaje declarado.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P22-004",
+      "sha256_pregunta": "4ebbf033b44f83fa88835ce36e2a59ad6ae9a92be757595230791a86291ef7a8",
+      "pregunta": "¿Cómo organizarán la expedición al norte y el concilio pendiente? (22-020).",
+      "lectura_completa": true,
+      "estado_anterior": "parcial",
+      "estado_propuesto": "parcial",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "Buscar a los elfos no equivale a ejecutar la expedición al norte ni a celebrar el concilio.",
+      "referencias": [],
+      "pendiente": "Celebrar el concilio y localizar el destino de una expedición organizada al norte.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P23-001",
+      "sha256_pregunta": "d96f54a55b86ec7301ed0f92b57933dcf1fd9c5428d80d0b273a371a9f405c49",
+      "pregunta": "¿Quién es la diosa anunciada por la serpiente del foso y cómo conoce esta a Hawkins? (23-011).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "La voz no se identifica con la serpiente del foso de Aurora ni explica a su diosa o su conocimiento de Hawkins.",
+      "referencias": [],
+      "pendiente": "Identificar a la diosa, corroborar la relación entre las apariciones y explicar el conocimiento de Hawkins.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P23-002",
+      "sha256_pregunta": "7d784589beb6a3462e5c6d0ae9003d5f189b5237ea6dff2706c90e04516b47d8",
+      "pregunta": "¿Qué ciudad buscan los documentos? ¿Coincide con el mapa Slaz? El nombre mostrado no se verbaliza (23-015).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "La ciudad de los elfos no recibe una equivalencia con la ciudad no verbalizada de los documentos o con Slaz.",
+      "referencias": [],
+      "pendiente": "Leer el nombre de la ciudad de los documentos y verificar su relación con el mapa.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P23-003",
+      "sha256_pregunta": "c7f79039d5bbe50d216c17e2a10ea20df49804d78eafb2f7713c461443cbc34d",
+      "pregunta": "¿Qué símbolo espera Nox que Molly reconozca y quién es el alto cargo al que llama palomo? No se nombra literalmente a Tórtola en este capítulo (23-011 y 23-017).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No se trata el símbolo de Nox o el alto cargo llamado palomo; no se confirma su equivalencia con Tórtola.",
+      "referencias": [],
+      "pendiente": "Confirmar la equivalencia del palomo con Tórtola y explicar el símbolo.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P23-004",
+      "sha256_pregunta": "5b7556f28609b1bf1bae1b02c041018865fa3a8ac8ff78479f77292d934b381d",
+      "pregunta": "¿Qué ocurre con el galeón a la deriva, los perros aliados y los otros presos? No se muestra su desenlace (23-010 y 23-016–23-017).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No se informa del galeón a la deriva, de los perros aliados o de los presos de Aurora.",
+      "referencias": [],
+      "pendiente": "Conocer los destinos del galeón, los perros aliados y los cautivos.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P24-001",
+      "sha256_pregunta": "f157b28a455965e0a82445e06c608b21360c5fd4cada79c2f4eaa1f92ee8625f",
+      "pregunta": "¿Qué robaron los impostores, quiénes son y qué relación tienen con la concha o el culto serpiente? No se confirma su especie ni su objetivo completo (24-007 y 24-017).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No se trata el robo a Bonny o los impostores de la costa; la presencia del bosque no se vincula con ellos.",
+      "referencias": [],
+      "pendiente": "Identificar el robo y a los impostores concretos, y establecer sus vínculos con los demás grupos.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P24-002",
+      "sha256_pregunta": "128dfc0254554790d0e42da684eb57da6e1f5ea11fb79f1c6d5752e89bd6f4ca",
+      "pregunta": "¿Adónde conducen las coordenadas de la perla y cómo podrían reparar la concha? No se muestra ninguna reparación (24-014–24-015).",
+      "lectura_completa": true,
+      "estado_anterior": "parcial",
+      "estado_propuesto": "parcial",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "El tentáculo de Tentacol es un efecto de combate, sin uso de la perla, lectura de coordenadas o reparación de la concha.",
+      "referencias": [],
+      "pendiente": "Conocer las coordenadas completas y si puede repararse la concha.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P24-003",
+      "sha256_pregunta": "8c58ca3545afaa8a75fc85fd07da032e6ec59ecb225099af1c22462973017809",
+      "pregunta": "¿Dónde está Sam y por qué Ione reacciona a su nombre? No se revela (24-016).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No aparece Sam ni Ione ni se explica la reacción de ella a su nombre.",
+      "referencias": [],
+      "pendiente": "Localizar a Sam y explicar qué sabe o recuerda Ione.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P24-004",
+      "sha256_pregunta": "ce736d7e83fb574377900e374e26995bbffb371600ebe0500e0ac47e235b0d7e",
+      "pregunta": "¿Coyote corresponde a una identidad anterior? Ser cambiaformas y compartir intérprete con Mamá no demuestra que sean la misma persona (24-005 y 24-019).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "La comparación humorística del pulpo con Coyote no revela una identidad anterior de Coyote ni lo equipara con Citlali.",
+      "referencias": [],
+      "pendiente": "Documentar una identidad anterior, si existe, y su historia sin deducirla de la intérprete.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P24-005",
+      "sha256_pregunta": "9924d39aedfc6e0d81f12f43e7d0e859715283860c8c016a683f4aabe9515127",
+      "pregunta": "¿Qué máquinas y tinta lleva Gobs y cuándo se pondrán en servicio? (24-021).",
+      "lectura_completa": true,
+      "estado_anterior": "resuelta",
+      "estado_propuesto": "resuelta",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "La recarga de tinta de Chopito se plantea como recurso del pulpo; no son las máquinas y la tinta del servicio de tatuajes de Gobs.",
+      "referencias": [],
+      "pendiente": "",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P25-001",
+      "sha256_pregunta": "c5a3c2cca63fdb9ae2656ab67a13089f9ae10dd8c24aa72e386f1dd1ecb18d93",
+      "pregunta": "¿Quién ordenó el ataque y por qué necesita el mapa y el collar? Solo se conocen las palabras descifradas de las órdenes (25-021).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "El mandato de la voz sobre los elfos no identifica al mandante del ataque a Shiaru o la necesidad del mapa y collar.",
+      "referencias": [],
+      "pendiente": "Identificar al mandante y explicar la necesidad del mapa y del collar.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P25-002",
+      "sha256_pregunta": "fe11053d2d0de0ceafe7d86f0132f2fac35c7d935a75f5d20508495cd7aec32d",
+      "pregunta": "¿Dónde está Ezlat y qué contiene? La cartografía falla y el nombre procede del testimonio de Poncelot sobre Ione (25-019).",
+      "lectura_completa": true,
+      "estado_anterior": "parcial",
+      "estado_propuesto": "parcial",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "La localización actual junto a Iktan no recibe identificación con Ezlat o Slaz ni aclara su entidad del templo.",
+      "referencias": [],
+      "pendiente": "Confirmar el nombre y la ubicación exactos del destino y aclarar la identidad de la entidad del templo.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P25-003",
+      "sha256_pregunta": "b63d3c8f83a07712695e5d2df7fdf7dcff5de071e3803e0a38ee3dbcb290758c",
+      "pregunta": "¿Qué es el collar de Blink y cómo se relaciona con los anteriores? La mesa rechaza identificarlo con el de cuatro gemas (25-021).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No aparece el collar de Bling ni se determina una relación con otros collares.",
+      "referencias": [],
+      "pendiente": "Identificar su naturaleza, vínculo con la presencia mental y relación con los demás collares.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P25-004",
+      "sha256_pregunta": "306f58be3c81a1caff479bb34263e2072105fd37e906e274fe1ca2e16070d5c5",
+      "pregunta": "¿Qué hechizos contienen los dos pergaminos robados y cuáles son todos los efectos de la espina-lanza? Se conocen sus niveles o cargas, pero no todos los detalles (25-012, 25-018 y 25-020).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "El arma espiritual de Patata y los recursos de combate de sus compañeros no identifican los pergaminos robados o los efectos de la espina-lanza.",
+      "referencias": [],
+      "pendiente": "Identificar ambos conjuros y la descripción completa de la espina-lanza.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P26-001",
+      "sha256_pregunta": "9c93dc704726967ff0005e794734a55dbd3c2444f15d6006e12c759a702afba0",
+      "pregunta": "¿Qué lleva Nox en la espalda y quién quiere obtenerlo? La referencia al antiguo capitán y la respuesta del hombre serpiente no lo explican (26-017, 26-019 y 26-022).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No aparecen las marcas de Nox ni se explica su contenido o quién pretende obtenerlas.",
+      "referencias": [],
+      "pendiente": "El origen y contenido de las marcas, su propósito completo y la identidad de quien busca lo que Nox lleva en la espalda.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P26-002",
+      "sha256_pregunta": "1cc398f13a7e6d886988e295cab4a4510717955f1f8d49ba7e612675122d6382",
+      "pregunta": "¿Qué ocurre si alguien se sienta realmente en el trono? La imagen engaña al anfitrión y los compañeros quedan amenazados, sin desenlace (26-023).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "Nadie se sienta en el trono de la pirámide ni se demuestra su efecto.",
+      "referencias": [],
+      "pendiente": "Los efectos de sentarse realmente en el trono.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P26-003",
+      "sha256_pregunta": "0f738aa80a9376a45e730b7227816df8b3de3f7a1b3b9804938277c4c92d65d4",
+      "pregunta": "¿Quién controla al guardia de ojos rojos y a quién llaman nuestro Señor? La lectura mental no identifica a la entidad (26-021–26-022).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "El reconocimiento de la voz por Tesara no la identifica como controlador del guardia de ojos rojos o como nuestro Señor.",
+      "referencias": [],
+      "pendiente": "La identidad del controlador y del Señor, y la relación entre ambos.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P26-004",
+      "sha256_pregunta": "d139aa5406e41e1f71db9dcd9df339a5483866d3d327adcdc8e624675df5a7c7",
+      "pregunta": "¿Por qué Coyote suplantó a Ione y qué sabe del informe de Poncelot? La audiencia conoce la suplantación, pero los personajes no la resuelven en su conversación (26-001 y 26-003).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No se reconstruye la suplantación de Ione por Coyote ni el uso del informe de Poncelot.",
+      "referencias": [],
+      "pendiente": "El motivo de la suplantación y el contenido o uso del informe que recibió.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P26-005",
+      "sha256_pregunta": "b61b77c1bc2126a1f5d7f3437a9db66ff8e3e684ec5062bc0ce8f9280e6cdf74",
+      "pregunta": "¿Qué decidirán los cinco piratas en su reunión? Se refiere la convocatoria, pero no se celebra aquí (26-006).",
+      "lectura_completa": true,
+      "estado_anterior": "parcial",
+      "estado_propuesto": "parcial",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No aparecen los reyes piratas ni se conocen nuevos términos o decisiones de su pacto.",
+      "referencias": [],
+      "pendiente": "Los términos del pacto y las decisiones posteriores de los reyes sobre Xoltacan.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P27-001",
+      "sha256_pregunta": "54f74fc7bf53514f4264f81be0aeeb8d20fb19171ce2befc568292151e6bc306",
+      "pregunta": "¿Por qué los hombres de azul, cuyo jefe cita a Tórtola, atacan Cuicapalli? ¿Qué fuerzas quedan? No interrogan a un jefe vivo y el cierre confirma que no eliminaron a todos (27-014 y 27-018–27-021).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No aparecen los hombres de azul ni se explica el objetivo del ataque a Cuicapalli o sus supervivientes.",
+      "referencias": [],
+      "pendiente": "El objetivo específico del ataque a Cuicapalli y la composición o ubicación de las fuerzas supervivientes.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P27-002",
+      "sha256_pregunta": "316d10b3b5a302d97c1426aa596534a8306db033bd69c79bebb44e34567d661d",
+      "pregunta": "¿Qué ocultan el traje y el pico de Guayacán y quién lo sabe? Se ven dientes humanos y sus intentos de ocultarlos, pero no declara su identidad precisa (27-020–27-021).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No aparece Guayacán ni se amplía quién conoce el secreto de su traje y pico.",
+      "referencias": [],
+      "pendiente": "Su identidad precisa y quién conoce el secreto del traje y del pico.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P27-003",
+      "sha256_pregunta": "3190a63913158c03e998e14302261741a589dcd0568e2e3fa9730c2828a296f6",
+      "pregunta": "¿Puede Tlachka volver formalmente a Cuicapalli después de su destierro? Entrar sin reconocimiento no equivale a un indulto (27-002–27-004 y 27-020).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No aparece Tlachka ni se otorga una revocación formal de su destierro.",
+      "referencias": [],
+      "pendiente": "Si el destierro ha sido revocado y con qué autorización puede permanecer en Cuicapalli.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P27-004",
+      "sha256_pregunta": "f7eb230fd38169cc3f09fe76d1a5b1ccd7af7025717eaa10b445fdff77ac8eed",
+      "pregunta": "¿Dónde está la abuela que busca Cipo? El director confirma que no se han reencontrado desde su invocación (27-003).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No aparecen Zippo o Pinky ni se muestra un reencuentro entre ellos.",
+      "referencias": [],
+      "pendiente": "Un reencuentro documentado entre Cipo y Pinky y lo que el elemental conoce de su destino.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P28-001",
+      "sha256_pregunta": "34693ef0a04527c4add601febf20818f6f5e0ca60d323723bf5e7d1d979dfd4a",
+      "pregunta": "¿Qué entidad formada por serpientes persigue al grupo y dónde queda después? No la matan y los siseos cesan tras la huida (28-009–28-015).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "La masa actual está compuesta de los cadáveres del camino; no se identifica con la entidad de serpientes de la pirámide.",
+      "referencias": [],
+      "pendiente": "La identidad de la criatura y su destino después de la huida.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P28-002",
+      "sha256_pregunta": "7d5a51f1c84e7145af293b4e0ec431c3de2e6b5d4886d1fdd002c423d35d59ba",
+      "pregunta": "¿Quién es la serpiente alada de la visión y qué significa el ritual con la criatura de varias cabezas? La visión no confirma el futuro y la presencia de Nox en el altar sigue sin explicar (28-015).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "Las imágenes de dos elfos no identifican a la serpiente alada ni explican el rito de múltiples cabezas y Nox en el altar.",
+      "referencias": [],
+      "pendiente": "La identidad de la serpiente alada, la relación entre ambas visiones y el significado del ritual.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P28-003",
+      "sha256_pregunta": "b075f8a37cf32333d5e064f81f6e1c80b97f6bc190571dc52cd0747c927e3562",
+      "pregunta": "¿Qué consecuencias tendrá dejar el collar en el templo? No se destruye y su ubicación queda registrada para contrastarla después (28-010).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No se recupera ni utiliza el collar abandonado dentro de la fruta; la intrusión actual no se atribuye a ese objeto.",
+      "referencias": [],
+      "pendiente": "Las consecuencias de abandonar el collar y quién lo conserva o utiliza después.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P28-004",
+      "sha256_pregunta": "e0615ca72cdfea3e9dec3044986f311645459e280cc962342b07f96cff198447",
+      "pregunta": "¿Qué protege exactamente Bonnie y qué ocurrió con la anciana nativa? Su información está condicionada y el paradero sigue oculto (28-020–28-021).",
+      "lectura_completa": true,
+      "estado_anterior": "parcial",
+      "estado_propuesto": "parcial",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No aparece Citlali ni se explica lo que protegían Bonny y Molly. El deseo de sacar a los elfos no demuestra equivalencia con ese secreto.",
+      "referencias": [],
+      "pendiente": "La naturaleza exacta de lo protegido y la relación completa entre Citlali, sus marcas y lo despertado.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P28-005",
+      "sha256_pregunta": "7852b4441e2e4a5adaa8afba2e00da94a3895f2c6c120b4f80458ccaf6bca0e4",
+      "pregunta": "¿Qué superiores llegaron a Fuerte Aurora y qué implica la alianza de Bonnie y Molly? Se dispone de un testimonio, sin inspeccionar su llegada (28-020).",
+      "lectura_completa": true,
+      "estado_anterior": "parcial",
+      "estado_propuesto": "parcial",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No aparecen los superiores de Aurora ni se amplía el acuerdo de Molly y Bonny.",
+      "referencias": [],
+      "pendiente": "La relación completa de superiores de Aurora y los términos íntegros del acuerdo de Molly y Bonnie.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P29-001",
+      "sha256_pregunta": "f67c517a1d4e18c61709773d81e08ed788f96048af7f1dda2469b63456da1401",
+      "pregunta": "¿Quiénes son los profundos y dónde y cómo hacen crecer al kraken mediante secuestros? Solo se dispone del relato de Maris; no se inspeccionan sus líderes o instalaciones (29-021–29-022).",
+      "lectura_completa": true,
+      "estado_anterior": "parcial",
+      "estado_propuesto": "parcial",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "Chopito y Tentacol combaten, pero no aportan novedades sobre los Profundos, el dios del altar, el kraken o los desaparecidos.",
+      "referencias": [],
+      "pendiente": "La organización completa, la identidad del dios y el kraken, el funcionamiento del rito y el destino de todos los desaparecidos.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P29-002",
+      "sha256_pregunta": "43b7e8d5ac9bfed2df6e34e1af3afa95aa5852f6e1a436f13f331c428662351b",
+      "pregunta": "¿Qué sirenas o sirenos pueden otorgar branquias y cuánto duran? Las conceden a los cuatro viajeros, sin una duración exacta transcrita (29-019).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No se conceden branquias ni se fija duración o capacidad de las sirenas para hacerlo.",
+      "referencias": [],
+      "pendiente": "La duración del efecto y las condiciones o personas capaces de otorgarlo.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P29-003",
+      "sha256_pregunta": "d25a00e1be20e93e2577d3c3382b52341eaab62645424de5f1a9804ee089aca4",
+      "pregunta": "¿Qué religión y deidad sigue Ivet y cómo pueden ganar su confianza? Visitan el templo con Maris, pero después niegan el acceso a Ayoto (29-020 y 29-025).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No aparecen Ivet o su templo ni se identifica su deidad o la vía para obtener su confianza.",
+      "referencias": [],
+      "pendiente": "La religión y deidad de Ivet y las condiciones para obtener su confianza.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P29-004",
+      "sha256_pregunta": "3a5218f27654925f9d6ff3093b19b0b7e2c248e3402d91e6da3b317143582cff",
+      "pregunta": "¿Qué conoce Coyote sobre las amenazas a una familia y por qué no responde a la pregunta sobre su sacrificio? La conversación no revela un pasado específico (29-022).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "La mención comparativa de Coyote no amplía su historia familiar o el sacrificio aludido por Maris.",
+      "referencias": [],
+      "pendiente": "El pasado familiar aludido y la respuesta a la pregunta sobre el sacrificio.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P29-005",
+      "sha256_pregunta": "0f72189da7a92c0ec8c6bbe8cbe1b613bc5f39b6abe699946176e3e0f5797991",
+      "pregunta": "¿Qué queda de Erendriel y por qué está casi esquelético pese a la conservación del capítulo 16? El tigre se lleva sus restos, sin resolver los tiempos o efectos de conservación (29-003).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "Los cuerpos usados por las raíces no se identifican como restos de Aerendriel ni explican su deterioro o destino.",
+      "referencias": [],
+      "pendiente": "El destino final de los restos y la diferencia entre su deterioro y la conservación mencionada en el capítulo 16.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P30-001",
+      "sha256_pregunta": "bec83be1cedf2f3af9f6159131797aef4fa47e01e8774b7aca02280d3a118ee3",
+      "pregunta": "¿Conseguirá Parroter un antídoto y sobrevivirá Eromov? La investigación comienza, pero la curación no se muestra (30-020 y 30-022).",
+      "lectura_completa": true,
+      "estado_anterior": "parcial",
+      "estado_propuesto": "parcial",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "El veneno del combate actual no informa del remedio de Parroter o de la evolución de Eromov.",
+      "referencias": [],
+      "pendiente": "La evolución con las dosis posteriores y la recuperación completa de Eromov.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P30-002",
+      "sha256_pregunta": "568b105f28708618c4f197300f246b11b3f652e030ce098dc3b642eaf70217a6",
+      "pregunta": "¿Quién añadió el veneno a la comida y quiénes eran las dos visitantes? La infiltración de la Hoja Caída es una sospecha fundada, pero no se muestra la contaminación ni se obtiene una confesión (30-005, 30-006 y 30-009).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No se identifica al envenenador de Eromov ni a sus visitantes. La animación del bosque no las vincula con la Hoja Caída.",
+      "referencias": [],
+      "pendiente": "Identificar a quien añadió el veneno y a las dos visitantes anteriores.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P30-003",
+      "sha256_pregunta": "968a75c82d114ca14cbec4b18af9afcd34dfe01d8b38d318f2a059933ea5d67d",
+      "pregunta": "¿Quedaban cautivos vivos tras la reja? La mayoría parecen muertos y solo se retira un cadáver; no se resuelve el estado de posibles supervivientes (30-017).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No se visita la prisión ni se identifica ningún muerto como un cautivo de aquella reja.",
+      "referencias": [],
+      "pendiente": "Si quedaban cautivos vivos y qué ocurrió con ellos.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P30-004",
+      "sha256_pregunta": "cb02d5e4fb38e458e056192ba09a7ab15aab0f83e2e54e0c8c40982eb2e7648c",
+      "pregunta": "¿Adónde envió Eromov a Naór y llegó ella a su destino? La transcripción recoge una expresión incierta, Naoritan, que no permite fijarlo (30-020).",
+      "lectura_completa": true,
+      "estado_anterior": "parcial",
+      "estado_propuesto": "parcial",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "No aparece Naór ni se reconstruye la formulación del encargo de Eromov.",
+      "referencias": [],
+      "pendiente": "La formulación y destino exactos del encargo referido por Eromov.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    },
+    {
+      "pregunta_id": "P30-005",
+      "sha256_pregunta": "167192f0d20ab17cc96cb1703c353b865707561ee4e0762e7e366c59d57590f8",
+      "pregunta": "¿Qué otros grupos de hombres serpiente están despertando y qué aliados tienen? Los informes locales no describen toda su organización (30-020).",
+      "lectura_completa": true,
+      "estado_anterior": "pendiente",
+      "estado_propuesto": "pendiente",
+      "resultado_bloque": "sin_novedad_en_el_bloque",
+      "respuesta_bloque": "Se confirma que Tesara oye la misma voz que antes y se observa movimiento de cadáveres por raíces, pero no se establece alianza o jerarquía entre el dragón, los sacerdotes o la Hoja Caída.",
+      "referencias": [
+        "47-206",
+        "47-217",
+        "47-218",
+        "47-226"
+      ],
+      "pendiente": "La organización de los grupos, sus aliados y las relaciones entre las distintas operaciones.",
+      "limite": "Cotejo limitado a 00:45:29.000–01:34:05.709. El coordinador integra otros bloques y las correcciones de identidad autorizadas."
+    }
+  ],
+  "dudas_y_conexiones_para_coordinacion": [
+    "Mictlan queda confirmado por el coordinador mediante la escena escrita posterior x-1531013198478708756. Este bloque ofrece MD, Mlan, mi clan y Mic; se conservan literalmente en citas y no se atribuyen al bloque los hechos posteriores.",
+    "Denominaciones armonizadas con bloque 1: Ruinas de la orilla del lago de Iktan y Cadáveres movidos por raíces de las ruinas del lago. La masa está formada por los mismos cadáveres y se trata como etapa de la ficha colectiva.",
+    "Los dos elfos son pálidos y Tesara los llama gemelos; el bloque no pronuncia Eldrath o Tryel en esa orden. Integrar identificación con bloque 1/3 y fuentes autorizadas.",
+    "El reconocimiento de la voz por Tesara es explícito. No se pronuncia Clolgedranx; armonizar identidad sin fusionar todos los dragones por parecido.",
+    "La frase de Tesara sobre el disparo anterior termina «le disparé al» y no nombra blanco en este bloque. No atribuir ese disparo desde esta sola cita.",
+    "La ayuda de Patata al felino queda en intención al corte. Bloque 3 debe resolver curación, cuantía y estado final.",
+    "Bloque 3 debe cotejar qué pasa con Tesara delante de la presencia, cuánto dura la intrusión y si Tentacol llega a encontrar o entregar a los elfos."
+  ],
+  "exclusiones_editoriales": [
+    "La broma de cocina no forma parte de las imágenes mentales.",
+    "La broma sobre posesión de Patata no acredita inmunidad.",
+    "No se adjudica bola de fuego a la rama ni red eficaz que apresa al dragón.",
+    "La mención a visión verdadera no demuestra ese sentido: el director lo rechaza como explicación.",
+    "Pausas de Foundry y bromas de hackeo no son hechos de campaña.",
+    "Que Chopito los llame rescatables no demuestra que los elfos estén cautivos.",
+    "No se fija el resultado de la tirada para recargar tinta, solo el permiso para tirarla."
+  ]
+}

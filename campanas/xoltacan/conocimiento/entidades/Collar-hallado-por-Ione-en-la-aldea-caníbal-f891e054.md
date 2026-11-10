@@ -12,7 +12,7 @@ Base para revisar equivalencia: [46-031](../capitulos/46.md), [46-062](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### El hallazgo antes de los gritos
 

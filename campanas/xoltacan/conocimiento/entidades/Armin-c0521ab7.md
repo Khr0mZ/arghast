@@ -12,7 +12,7 @@ Base para revisar equivalencia: [16-004](../capitulos/16.md), [23-003](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### El herrero al que siempre se vuelve
 

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [45-045](../capitulos/45.md), [45-047](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### El lugar de la cautiva
 

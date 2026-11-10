@@ -8,11 +8,11 @@ Entrada documentada en los registros citados.
 
 Etiquetas agrupadas: El Huevo Emplumado.
 
-Base para revisar equivalencia: [31-020](../capitulos/31.md), [31-022](../capitulos/31.md), [46-053](../capitulos/46.md), [46-057](../capitulos/46.md), [46-058](../capitulos/46.md), [46-059](../capitulos/46.md), [46-060](../capitulos/46.md), [46-066](../capitulos/46.md).
+Base para revisar equivalencia: [31-020](../capitulos/31.md), [31-022](../capitulos/31.md), [46-053](../capitulos/46.md), [46-057](../capitulos/46.md), [46-058](../capitulos/46.md), [46-059](../capitulos/46.md), [46-060](../capitulos/46.md), [46-066](../capitulos/46.md), [47-077](../capitulos/47.md), [47-079](../capitulos/47.md), [47-080](../capitulos/47.md), [47-081](../capitulos/47.md), [47-090](../capitulos/47.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### Descansar después del bosque
 
@@ -25,6 +25,12 @@ Fuentes: [31-020 · Ciudad y ruinas de piedra derretida](../capitulos/31.md) · 
 La taberna de Iktan acoge a los tripulantes y compañeros que esperaban a Ione. Han alquilado habitaciones compartidas y se acomodan entre cartas y cerveza. Eleanor se reúne con Erandy; Ione descubre la ausencia del novato y prepara sus planes de recaudar recursos. Angelique atiende y corteja a Zoltan antes de llevarlo a una habitación.
 
 Fuentes: [46-053 · Ione encuentra a la tripulación en la taberna de Iktan](../capitulos/46.md) · 01:56:01.320 · [46-057 · Zoltan toma una cerveza y Angelique lo corteja](../capitulos/46.md) · 02:03:44.679 · [46-058 · Eleanor comprueba que Erandy está en la taberna](../capitulos/46.md) · 02:05:47.159 · [46-059 · Ione descubre la ausencia del novato llamado Jacki](../capitulos/46.md) · 02:06:48.360 · [46-060 · Ione propone recaudar recursos y reunir apoyos para recuperar Shiaru](../capitulos/46.md) · 02:09:03.239 · [46-066 · Zoltan y Angelique se retiran a una habitación](../capitulos/46.md) · 02:21:14.359.
+
+### Refugio y noticias incompletas
+
+La taberna aloja a los piratas desplazados de Shiaru y recibe a Patata, Tesara y el felino. Allí se habla de las salidas de los hermanos y de la amenaza del dragón antes de avisar a Walulu. Patata permanece bebiendo y conversando con Angelique; la historiadora y el felino regresan al cierre.
+
+Fuentes: [47-077 · Tesara guía el regreso a Iktan](../capitulos/47.md) · 01:57:54.960 · [47-079 · Patata encuentra a los piratas en la taberna de Iktan](../capitulos/47.md) · 02:00:10.840 · [47-080 · Angelique informa de la salida de la elfa y del entrenamiento de su hermano](../capitulos/47.md) · 02:02:28.400 · [47-081 · Tesara y el felino llevan el aviso a Walulu](../capitulos/47.md) · 02:04:06.960 · [47-090 · Angelique cuenta a Patata su encuentro con Zoltan](../capitulos/47.md) · 02:17:15.880.
 
 ## Registros y evidencias
 
@@ -91,4 +97,36 @@ Tipo: `hecho_confirmado`.
 Tras el coqueteo en la barra, Angelique toma del brazo a Zoltan y lo lleva a una habitación, cuya puerta cierra. Una carta del chat le concede furia y el final representa el encuentro privado mediante ruidos y chispas que salen de la puerta. Los otros permanecen en la taberna; Citlali sigue hablando con Etley e Ione termina su venta a Froger.
 
 El cierre no narra consecuencias posteriores, una nueva descarga contra el pueblo o un vínculo matrimonial. La anécdota sobre Gur de Kuroto pertenece a la conversación de mesa y no incorpora ese personaje ni sus hechos a Xoltacan.
+
+## [47-077 · Tesara guía el regreso a Iktan](../capitulos/47.md) · 01:57:54.960
+
+Tipo: `hecho_confirmado`.
+
+Los viajeros siguen a Tesara de vuelta a Iktan, ciudad de plantas y colores que algunos aún no conocían. Ella señala la taberna y las ruinas junto al lago y se apresura a buscar a los elfos. Patata y el felino la siguen, este último porque desconfía de ella.
+
+No se fija cuánto dura el camino ni una nueva ruta secreta revelada. La llegada a la ciudad no equivale a encontrar a los elfos.
+
+## [47-079 · Patata encuentra a los piratas en la taberna de Iktan](../capitulos/47.md) · 02:00:10.840
+
+Tipo: `hecho_confirmado`.
+
+Patata reconoce en la taberna a los piratas que frecuentaban la de Shiaru. Al preguntar por la capitana, ellos responden que los echaron del pueblo y tuvieron que venir hasta allí. Le dan cerveza, que prueba y aprecia, y comentan que están agotando las existencias de la encargada.
+
+El motivo de la salida de Shiaru es testimonio de los piratas; no identifica quién gobierna ahora ni una nueva inspección del puerto. La descripción de estar en idéntica posición con las mismas botellas es humor de continuidad, no una duplicación o bucle mágico.
+
+## [47-080 · Angelique informa de la salida de la elfa y del entrenamiento de su hermano](../capitulos/47.md) · 02:02:28.400
+
+Tipo: `declaracion_personaje`.
+
+Tesara dice a la encargada que el dragón los ha emboscado y pide localizar a los hermanos. Angelique cuenta que la muchacha salió hace días diciendo que iba a entrenar para bucear, acompañada por el pulpo, la leona y otros. Del hermano afirma que lo vio entrenando esa mañana y que suele estar fuera. Añade que la patrulla aún no ha vuelto; su conjetura de que se habrán ahogado no se confirma.
+
+Son noticias y conjeturas de Angelique, sin escena actual de los hermanos o de la patrulla. Las referencias a un pulpo y una leona no autorizan identificar a cada integrante. «Andrea» es un reconocimiento del trato de Tesara, sin crear otra tabernera ni fijarlo como alias confirmado.
+
+## [47-090 · Angelique cuenta a Patata su encuentro con Zoltan](../capitulos/47.md) · 02:17:15.880
+
+Tipo: `declaracion_personaje`.
+
+Patata intenta cortejar a la encargada, que deriva la conversación hacia un recién llegado de torso desnudo, herida y chispas. Dice que estuvo con él el día anterior, promete presentárselo y finalmente lo nombra Zoltan. Lo describe mientras Patata sigue en la taberna; Tesara y el felino regresan de hablar con Walulu y Chopito continúa la imitación de Tortas en el cierre.
+
+No se representa una nueva aparición de Zoltan ni la presentación prometida. La expresión «ayer» pertenece al testimonio de Angelique; no sirve por sí sola para cerrar un calendario. Las comparaciones de mesa con otros personajes o campañas no incorporan sus identidades a Xoltacan.
 

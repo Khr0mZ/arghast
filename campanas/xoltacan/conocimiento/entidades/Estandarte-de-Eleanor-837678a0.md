@@ -12,7 +12,7 @@ Base para revisar equivalencia: [43-035](../capitulos/43.md), [43-038](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### El límite de la retaguardia
 

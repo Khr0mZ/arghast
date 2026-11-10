@@ -1,4 +1,10 @@
-# Misterios y tramas: estado al cierre del capítulo 46
+# Misterios y tramas: estado al cierre del capítulo 47
+
+## Cadáveres y ultimátum
+
+El capítulo 47 enlaza a Clolgedranx con la voz que Tesara reconoce y la explicación histórica de Walulu. P31-001 queda resuelta; otras cinco preguntas del bosque, los elfos y Shiaru avanzan parcialmente. Derrotar la masa no rompe permanentemente la influencia del dragón. El mandante, la finalidad del encargo y las guaridas continúan sin respuesta ([continuidad del 47](continuidad_47.md)).
+
+Las once preguntas nuevas conservan los ocupantes de Shiaru, las ruinas del lago, la promesa a Angelique, los vigilantes de Mictlan, los cuerpos, la compulsión, el pago por los elfos, el plazo, Oliver, la investigación de Walulu y la futura reunión. La alusión a una sierpe mayor no prueba un contratante dracónico. El [seguimiento individual](SEGUIMIENTO.md) coteja 295 preguntas hasta el capítulo 47.
 
 El [seguimiento individual de preguntas](SEGUIMIENTO.md) conserva cada duda planteada en las sesiones, su estado actualizado y las evidencias posteriores. Esta síntesis reúne las tramas principales y distingue los efectos conocidos de las causas que siguen sin explicación.
 

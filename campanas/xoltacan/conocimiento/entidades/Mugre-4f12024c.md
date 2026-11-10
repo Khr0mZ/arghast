@@ -12,7 +12,7 @@ Base para revisar equivalencia: [02-004](../capitulos/02.md), [24-003](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### Mantenerse en el entorno de la capitana
 

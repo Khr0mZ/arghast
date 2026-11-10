@@ -12,7 +12,7 @@ Base para revisar equivalencia: [45-067](../capitulos/45.md).
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### Un recuerdo del daño al caparazón
 

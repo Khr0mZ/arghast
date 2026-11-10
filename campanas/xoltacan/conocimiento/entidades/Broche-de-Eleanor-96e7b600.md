@@ -12,7 +12,7 @@ Base para revisar equivalencia: [43-015](../capitulos/43.md).
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### Un ofrecimiento antes del combate
 

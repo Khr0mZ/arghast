@@ -12,7 +12,7 @@ Base para revisar equivalencia: [24-004](../capitulos/24.md), [26-001](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### Un guía que cambia de rostro
 

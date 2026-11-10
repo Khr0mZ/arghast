@@ -12,7 +12,7 @@ Base para revisar equivalencia: [45-028](../capitulos/45.md), [45-029](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### Una cámara de aire entre túneles y estanques
 

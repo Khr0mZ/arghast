@@ -12,7 +12,7 @@ Base para revisar equivalencia: [35-010](../capitulos/35.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### Bajo las órdenes de Tórtola
 

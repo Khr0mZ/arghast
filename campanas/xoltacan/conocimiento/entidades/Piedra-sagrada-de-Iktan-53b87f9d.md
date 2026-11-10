@@ -12,7 +12,7 @@ Base para revisar equivalencia: [40-008](../capitulos/40.md), [40-013](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### El soporte del protector
 

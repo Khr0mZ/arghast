@@ -12,7 +12,7 @@ Base para revisar equivalencia: [16-015](../capitulos/16.md), [30-003](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### El dirigente que abre Cuicapalli a los viajeros
 

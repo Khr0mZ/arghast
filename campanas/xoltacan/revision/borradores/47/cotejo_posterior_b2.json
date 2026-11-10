@@ -1,0 +1,720 @@
+{
+  "ambito": "Cotejo de tres escenas de rol escrito posteriores para el seguimiento del capítulo 47; no son sucesos del vídeo.",
+  "lectura_completa": true,
+  "total_mensajes_leidos": 32,
+  "criterio_temporal": "Se conserva el intervalo cronológico archivado de cada escena. Las tres son posteriores al capítulo 47 y pertenecen a periodos posteriores al catálogo revisado; no se adelantan sus sucesos al relato o a las evidencias audiovisuales del 47.",
+  "escenas_leidas": [
+    {
+      "id": "x-1537945553915089056",
+      "archivo": "campanas/xoltacan/conocimiento/rol_escrito/escenas/x-1537945553915089056.json",
+      "sha256": "db34a47148bd3f957260fef8085698fd550d82922e89bf41636eacb4e55d123d",
+      "mensajes": 28,
+      "cobertura_lectura": [
+        {
+          "desde_indice": 0,
+          "hasta_indice": 13
+        },
+        {
+          "desde_indice": 14,
+          "hasta_indice": 27
+        }
+      ],
+      "lectura_metadata_completa": true,
+      "lectura_textos_completa": true,
+      "hallazgo_general": "Escena médica de Tessa y Eldrath en el templo: conversación personal, síntomas de veneno, fracaso de antitoxinas e inicio de un ritual de raíces por Walulu, sin desenlace. No es la investigación sobre debilidades o guaridas del dragón prometida en el 47.",
+      "inicio_utc": "2026-08-14T22:06:33.700000+00:00",
+      "fin_utc": "2026-08-15T00:07:42.627000+00:00",
+      "intervalo_archivado": {
+        "anterior": 53,
+        "siguiente": 54,
+        "anterior_catalogado": false,
+        "siguiente_catalogado": false,
+        "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1537882794368180227",
+        "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1540061401966575799",
+        "ambito": "despues_del_catalogo",
+        "criterio": "horario_y_duracion_con_retrasos",
+        "confianza": "cronologica",
+        "referencias": [
+          {
+            "capitulo": 53,
+            "fecha": "2026-08-14",
+            "inicio_referencia_utc": "2026-08-14T17:54:11+00:00",
+            "fin_estimado_utc": null,
+            "duracion_video_segundos": null,
+            "tipo_referencia": "tarjeta_twitch_sin_video",
+            "catalogado": false,
+            "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1537882794368180227"
+          },
+          {
+            "capitulo": 54,
+            "fecha": "2026-08-20",
+            "inicio_referencia_utc": "2026-08-20T18:10:47+00:00",
+            "fin_estimado_utc": null,
+            "duracion_video_segundos": null,
+            "tipo_referencia": "tarjeta_twitch_sin_video",
+            "catalogado": false,
+            "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1540061401966575799"
+          }
+        ],
+        "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+      },
+      "mensajes_leidos": [
+        {
+          "indice": 0,
+          "mensaje_id": "1537945553915089056",
+          "fecha_utc": "2026-08-14T22:06:33.700000+00:00",
+          "editado_utc": null,
+          "texto_sha256_verificado": "e50d8dc5a53032fa673af84cc3d7450eee99d369b0db350801e76fe0387da729",
+          "mensaje_sha256_archivado": "7e0fc8f3675a6b3f657475b33f48283cc74543525393e486d063c0b177d78ba5",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537945553915089056"
+        },
+        {
+          "indice": 1,
+          "mensaje_id": "1537946249410514965",
+          "fecha_utc": "2026-08-14T22:09:19.519000+00:00",
+          "editado_utc": null,
+          "texto_sha256_verificado": "60582a417c5598c868ebe2d6d6db1c248f3943111a489f742940a1c3da08c704",
+          "mensaje_sha256_archivado": "558bc53d5a02fdb2ca6809959b710be28d3afc1b12f66bebd21d7285f91bc1a0",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537946249410514965"
+        },
+        {
+          "indice": 2,
+          "mensaje_id": "1537947384758280302",
+          "fecha_utc": "2026-08-14T22:13:50.207000+00:00",
+          "editado_utc": null,
+          "texto_sha256_verificado": "be813a842d20a81c803bf9f2641d0d764a4a59d40ae8d0ee83402a064c62bbc7",
+          "mensaje_sha256_archivado": "a5be3ae3af8bc0df9837f0a85a20227611f5d4ecfd4bb506d69a69979bf37328",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537947384758280302"
+        },
+        {
+          "indice": 3,
+          "mensaje_id": "1537948261757878352",
+          "fecha_utc": "2026-08-14T22:17:19.300000+00:00",
+          "editado_utc": "2026-08-14T22:20:43.862000+00:00",
+          "texto_sha256_verificado": "279c45f8f52fda861e4b76730179b528910a12ef8b9a6d8a615b9e20698b8e8f",
+          "mensaje_sha256_archivado": "e062328629f4ff64648acfa8ab73964ba108c216f3084c8d5a6a49ff1b64dace",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537948261757878352"
+        },
+        {
+          "indice": 4,
+          "mensaje_id": "1537949975919726696",
+          "fecha_utc": "2026-08-14T22:24:07.988000+00:00",
+          "editado_utc": null,
+          "texto_sha256_verificado": "1fdb5bafaeef8441cc450f5a2d86d4cd015ea1425abe1786f610206b8d35af26",
+          "mensaje_sha256_archivado": "212c77c18d13774aa94f9cf8235d38867d1a2b5ef45124b5a03bb73bec2719ec",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537949975919726696"
+        },
+        {
+          "indice": 5,
+          "mensaje_id": "1537950763790110791",
+          "fecha_utc": "2026-08-14T22:27:15.831000+00:00",
+          "editado_utc": null,
+          "texto_sha256_verificado": "67cd20bec529620ef92e390b81949bf675b6de7d8a7a4df5ce9cd7a3a5f57b4a",
+          "mensaje_sha256_archivado": "9cb4da4d8fb19348c3888d6871a0ead7ca947c18d8d6e09f7f3dbdaf0a00f7ee",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537950763790110791"
+        },
+        {
+          "indice": 6,
+          "mensaje_id": "1537951020980641802",
+          "fecha_utc": "2026-08-14T22:28:17.150000+00:00",
+          "editado_utc": null,
+          "texto_sha256_verificado": "cf29352216e6cd871599f4d59e097b9da162e67165ece5e339bea90e333ee8c0",
+          "mensaje_sha256_archivado": "44c0e9ce081bf6b7f645e3104a80026c19f6971bdb96f4273ba17536620e0d96",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537951020980641802"
+        },
+        {
+          "indice": 7,
+          "mensaje_id": "1537951448862560346",
+          "fecha_utc": "2026-08-14T22:29:59.165000+00:00",
+          "editado_utc": null,
+          "texto_sha256_verificado": "9ff470940aab0c05aaf0f09af059ab4aa9e083b06d6368facf2dd3a382c0475e",
+          "mensaje_sha256_archivado": "eb4ebfbcf78832fdd33854c79281a49e15d0f7457581f2542b7ba3511083557c",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537951448862560346"
+        },
+        {
+          "indice": 8,
+          "mensaje_id": "1537952535640543332",
+          "fecha_utc": "2026-08-14T22:34:18.273000+00:00",
+          "editado_utc": null,
+          "texto_sha256_verificado": "5df363f3a3b60109b05b1f78ae170e4cf80d8cee6cefc0c3a0b73dc6d283e24f",
+          "mensaje_sha256_archivado": "19dec8d2479efa083b33f5e96b8202a83916e272db4673dd8b4eefac64971931",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537952535640543332"
+        },
+        {
+          "indice": 9,
+          "mensaje_id": "1537953414166618193",
+          "fecha_utc": "2026-08-14T22:37:47.730000+00:00",
+          "editado_utc": null,
+          "texto_sha256_verificado": "51e8fa596b93979e8e0ecd8c08a0635a760b4ecd11dfea2569c8f143c66269bf",
+          "mensaje_sha256_archivado": "85f9f0be11f393e960962cb1391de6ab3f8915f01f0ed7a11b475ad68c5c942e",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537953414166618193"
+        },
+        {
+          "indice": 10,
+          "mensaje_id": "1537956877722329168",
+          "fecha_utc": "2026-08-14T22:51:33.506000+00:00",
+          "editado_utc": null,
+          "texto_sha256_verificado": "3d90be662c0c2b5885a05cc052e6e57dee56a3c3ddf0ccc1ec26b92a14102e7b",
+          "mensaje_sha256_archivado": "a2d300ee1d520192cf5a203958d51045a91685d311173624132bf45623b7645e",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537956877722329168"
+        },
+        {
+          "indice": 11,
+          "mensaje_id": "1537957646190247936",
+          "fecha_utc": "2026-08-14T22:54:36.723000+00:00",
+          "editado_utc": null,
+          "texto_sha256_verificado": "708801cb413566d15a82bb8dadccdf2dd770e4c21650e1922850931ad79491d8",
+          "mensaje_sha256_archivado": "690794d62da632627fe690ab3fbc51e04e7a4325e5f1eb89c1862d8bcb4b124f",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537957646190247936"
+        },
+        {
+          "indice": 12,
+          "mensaje_id": "1537959094063988736",
+          "fecha_utc": "2026-08-14T23:00:21.923000+00:00",
+          "editado_utc": null,
+          "texto_sha256_verificado": "a8048e2c5c18fabfc1647665d44e6c425a538e62450b97d84f1bbadc6da64b2c",
+          "mensaje_sha256_archivado": "d9c6f93fcdc6783140286367d395f5dbe12182d633023b7fc8d569fdcc9152a8",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537959094063988736"
+        },
+        {
+          "indice": 13,
+          "mensaje_id": "1537960032405291049",
+          "fecha_utc": "2026-08-14T23:04:05.641000+00:00",
+          "editado_utc": null,
+          "texto_sha256_verificado": "4486419ca5a6649ce23195712e30aa0a641b1d0a40210146ed35ffcb755c9d17",
+          "mensaje_sha256_archivado": "fa40b4a7dac28bcbd1797d8e7379d741ab37ea8bf0ecbd92e5169b55d37aa5f7",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537960032405291049"
+        },
+        {
+          "indice": 14,
+          "mensaje_id": "1537960543162339388",
+          "fecha_utc": "2026-08-14T23:06:07.415000+00:00",
+          "editado_utc": null,
+          "texto_sha256_verificado": "019512669358d27a71f801a48e94186428d0ed9cac1a263bdcff463a51a3014a",
+          "mensaje_sha256_archivado": "acfd26507ff9919eda0ffcf1b934d6137c0352d9cf60fd6eb33013afbe4753a8",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537960543162339388"
+        },
+        {
+          "indice": 15,
+          "mensaje_id": "1537962227221528707",
+          "fecha_utc": "2026-08-14T23:12:48.926000+00:00",
+          "editado_utc": null,
+          "texto_sha256_verificado": "8c6b6a91beee804769cfef9bbb3e97c8b35ac2486af2caf31045382f2544f542",
+          "mensaje_sha256_archivado": "0b39a6b5796d06576952af568c29b12ec50b4019d7d54de2be11b98025d2dcfb",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537962227221528707"
+        },
+        {
+          "indice": 16,
+          "mensaje_id": "1537963779382448309",
+          "fecha_utc": "2026-08-14T23:18:58.990000+00:00",
+          "editado_utc": null,
+          "texto_sha256_verificado": "0870c3f37640049b04a46694cd76a49d6c60337d7d01118227c620cbcb50fcc0",
+          "mensaje_sha256_archivado": "da60ea90f6989adbc98cd7215dc49c1b7cb1e671545b0f449060a8c5e38877d1",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537963779382448309"
+        },
+        {
+          "indice": 17,
+          "mensaje_id": "1537964736753303582",
+          "fecha_utc": "2026-08-14T23:22:47.245000+00:00",
+          "editado_utc": null,
+          "texto_sha256_verificado": "461268ff726539a3e900a9cc8ab004be3a9e2813850e911ec39d115efc982ea2",
+          "mensaje_sha256_archivado": "6bdf10bfa1f44effe7f9c16fc91ece49feacbae97d2876fd179bdc7647b42c1b",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537964736753303582"
+        },
+        {
+          "indice": 18,
+          "mensaje_id": "1537966074593808536",
+          "fecha_utc": "2026-08-14T23:28:06.211000+00:00",
+          "editado_utc": null,
+          "texto_sha256_verificado": "4801ac83e0f5b4b4b631013285c3c4ef82c17a10817b2e4bbb7758d507d04da9",
+          "mensaje_sha256_archivado": "58770e60bd59fee5da8204a0a22e305ca6e3e137757c07f7d10b38299ed37820",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537966074593808536"
+        },
+        {
+          "indice": 19,
+          "mensaje_id": "1537967356737884170",
+          "fecha_utc": "2026-08-14T23:33:11.898000+00:00",
+          "editado_utc": null,
+          "texto_sha256_verificado": "41e9d733065aef2d0757938c5942bf016d4c513ce86d35d50f98f24171a9883a",
+          "mensaje_sha256_archivado": "4c0e4861531f6842c613f075fef32349bec3a61198efbe8c12df2c7a3a264490",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537967356737884170"
+        },
+        {
+          "indice": 20,
+          "mensaje_id": "1537968998359109733",
+          "fecha_utc": "2026-08-14T23:39:43.291000+00:00",
+          "editado_utc": null,
+          "texto_sha256_verificado": "ba4ecff906528fae1d8dc327830f779fff32226d5e34cfaf06c88cfcb0f46ffe",
+          "mensaje_sha256_archivado": "fc8c572fb76574e73e969f50709ab44dcac80b072360c509c9a42706db52187b",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537968998359109733"
+        },
+        {
+          "indice": 21,
+          "mensaje_id": "1537969316304134214",
+          "fecha_utc": "2026-08-14T23:40:59.095000+00:00",
+          "editado_utc": null,
+          "texto_sha256_verificado": "9d8e4d5c765dbc1cb7c803ac11835b82fdae60132324e9249002d6323a91f9ef",
+          "mensaje_sha256_archivado": "6be0f264d9a8f1012c967a0d09862d90f2d85086d7ac5ca8b623971b795883ed",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537969316304134214"
+        },
+        {
+          "indice": 22,
+          "mensaje_id": "1537970129806172160",
+          "fecha_utc": "2026-08-14T23:44:13.049000+00:00",
+          "editado_utc": null,
+          "texto_sha256_verificado": "69cefce1b410330e511db7f9d1204f35c8bb09e77adc52a375a7415a83a47d79",
+          "mensaje_sha256_archivado": "0a6ce4ae2be8fbbdb0e917f3afcc1349e3cf8730d58618cb75db77e29519077a",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537970129806172160"
+        },
+        {
+          "indice": 23,
+          "mensaje_id": "1537970170688045157",
+          "fecha_utc": "2026-08-14T23:44:22.796000+00:00",
+          "editado_utc": null,
+          "texto_sha256_verificado": "890c9f37aeb3816906cf21c151cf25684b672d2a4159ba4e6fe706ef8e206891",
+          "mensaje_sha256_archivado": "381dcd4774e0ab9368ec397273777cbef7b3aaad47d0646ca79504dd7066c65c",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537970170688045157"
+        },
+        {
+          "indice": 24,
+          "mensaje_id": "1537974123072856094",
+          "fecha_utc": "2026-08-15T00:00:05.118000+00:00",
+          "editado_utc": null,
+          "texto_sha256_verificado": "6328fe5f2316a7623a79a2d5a24f7453d0d55097cc87911be5aa4412abd730ba",
+          "mensaje_sha256_archivado": "71573c0a521b492da95087922124b116bff10d97ee693bf66aa14fddc40cba6f",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537974123072856094"
+        },
+        {
+          "indice": 25,
+          "mensaje_id": "1537974576410005534",
+          "fecha_utc": "2026-08-15T00:01:53.202000+00:00",
+          "editado_utc": null,
+          "texto_sha256_verificado": "3e1d558817b32533e1aabc8372a2db8f68291d70fc0a6e1c038d23eddf4dae16",
+          "mensaje_sha256_archivado": "c3fdea6ef19689820139b1c24ee34833f1eb5717288ce001b65078484cd743ad",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537974576410005534"
+        },
+        {
+          "indice": 26,
+          "mensaje_id": "1537975960681447464",
+          "fecha_utc": "2026-08-15T00:07:23.238000+00:00",
+          "editado_utc": null,
+          "texto_sha256_verificado": "748ebc03c28ab1a97aaa73f4a25b046b6d652468b25c650073556310bca122a8",
+          "mensaje_sha256_archivado": "40bf5394e60789d1a705fc9119c286e8b21d49a6228f863b108bb57946530ab0",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537975960681447464"
+        },
+        {
+          "indice": 27,
+          "mensaje_id": "1537976042004807711",
+          "fecha_utc": "2026-08-15T00:07:42.627000+00:00",
+          "editado_utc": null,
+          "texto_sha256_verificado": "0e513b9a495850850524d0965f55df051cd0b6a138120693016da3f3ffd42ccd",
+          "mensaje_sha256_archivado": "a0f0c47c58a40f3f2204f2f9d81a1030630a5e290a3902b4292c6e7a197e5315",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537976042004807711"
+        }
+      ]
+    },
+    {
+      "id": "x-1544040982084067438",
+      "archivo": "campanas/xoltacan/conocimiento/rol_escrito/escenas/x-1544040982084067438.json",
+      "sha256": "0eeba406366f3bc3fda6cb99bf21477b5ec63a8cac270471f38d99132fb31a05",
+      "mensajes": 2,
+      "cobertura_lectura": [
+        {
+          "desde_indice": 0,
+          "hasta_indice": 1
+        }
+      ],
+      "lectura_metadata_completa": true,
+      "lectura_textos_completa": true,
+      "hallazgo_general": "Un recuerdo familiar de Tessa en Puerto de las Espadas se deforma en una experiencia subjetiva amenazadora. Se nombra explícitamente la voz del dragón saliendo de las imágenes del padre y Oliver. No se muestra el presente real de esos familiares ni un mecanismo de invasión externa demostrado.",
+      "inicio_utc": "2026-08-31T17:47:37.023000+00:00",
+      "fin_utc": "2026-08-31T18:03:28.604000+00:00",
+      "intervalo_archivado": {
+        "anterior": 56,
+        "siguiente": 57,
+        "anterior_catalogado": false,
+        "siguiente_catalogado": false,
+        "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1541149597714350182",
+        "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1545132987136344065",
+        "ambito": "despues_del_catalogo",
+        "criterio": "horario_y_duracion_con_retrasos",
+        "confianza": "cronologica",
+        "referencias": [
+          {
+            "capitulo": 56,
+            "fecha": "2026-08-23",
+            "inicio_referencia_utc": "2026-08-23T18:12:54+00:00",
+            "fin_estimado_utc": null,
+            "duracion_video_segundos": null,
+            "tipo_referencia": "tarjeta_twitch_sin_video",
+            "catalogado": false,
+            "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1541149597714350182"
+          },
+          {
+            "capitulo": 57,
+            "fecha": "2026-09-03",
+            "inicio_referencia_utc": "2026-09-03T18:02:12+00:00",
+            "fin_estimado_utc": null,
+            "duracion_video_segundos": null,
+            "tipo_referencia": "tarjeta_twitch_sin_video",
+            "catalogado": false,
+            "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1545132987136344065"
+          }
+        ],
+        "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+      },
+      "mensajes_leidos": [
+        {
+          "indice": 0,
+          "mensaje_id": "1544040982084067438",
+          "fecha_utc": "2026-08-31T17:47:37.023000+00:00",
+          "editado_utc": "2026-08-31T18:08:55.179000+00:00",
+          "texto_sha256_verificado": "e3c7bee26858738e08ef8e08cc832ab5f2555e0ec64398c9dc34091110bd0597",
+          "mensaje_sha256_archivado": "eb789d8f1c0ce0618ce6c07bb29fcb65534670986775778969ad48b252e50ded",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1544040982084067438"
+        },
+        {
+          "indice": 1,
+          "mensaje_id": "1544044973303799809",
+          "fecha_utc": "2026-08-31T18:03:28.604000+00:00",
+          "editado_utc": null,
+          "texto_sha256_verificado": "6af455b187ffab96d443179a0fef0281bcd0ea8ac59b020f74e54ac0e799e4e4",
+          "mensaje_sha256_archivado": "f267b8bd6f0dd21f189358a56ea438784b6d7ba563de23d85992ac07315544a9",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1544044973303799809"
+        }
+      ]
+    },
+    {
+      "id": "x-1546437630781296680",
+      "archivo": "campanas/xoltacan/conocimiento/rol_escrito/escenas/x-1546437630781296680.json",
+      "sha256": "5864013039b1c7e068a1208c4b1efa3d012bc19ffc448e88e7e92885ace81a0a",
+      "mensajes": 2,
+      "cobertura_lectura": [
+        {
+          "desde_indice": 0,
+          "hasta_indice": 1
+        }
+      ],
+      "lectura_metadata_completa": true,
+      "lectura_textos_completa": true,
+      "hallazgo_general": "Un recuerdo de prácticas de puntería con su madre y Oliver se vuelve una pesadilla de heridas y elección forzada. La voz se vuelve inhumana, pero el mensaje no la identifica expresamente como Clolgedranx o como el dragón. Continúa el motivo del temor familiar sin demostrar daños reales o causalidad mágica.",
+      "inicio_utc": "2026-09-07T08:31:02.600000+00:00",
+      "fin_utc": "2026-09-07T08:31:14.386000+00:00",
+      "intervalo_archivado": {
+        "anterior": 59,
+        "siguiente": 60,
+        "anterior_catalogado": false,
+        "siguiente_catalogado": false,
+        "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1546226980192649230",
+        "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1547671000508928031",
+        "ambito": "despues_del_catalogo",
+        "criterio": "horario_y_duracion_con_retrasos",
+        "confianza": "cronologica",
+        "referencias": [
+          {
+            "capitulo": 59,
+            "fecha": "2026-09-06",
+            "inicio_referencia_utc": "2026-09-06T18:28:05+00:00",
+            "fin_estimado_utc": null,
+            "duracion_video_segundos": null,
+            "tipo_referencia": "tarjeta_twitch_sin_video",
+            "catalogado": false,
+            "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1546226980192649230"
+          },
+          {
+            "capitulo": 60,
+            "fecha": "2026-09-10",
+            "inicio_referencia_utc": "2026-09-10T18:11:36+00:00",
+            "fin_estimado_utc": null,
+            "duracion_video_segundos": null,
+            "tipo_referencia": "tarjeta_twitch_sin_video",
+            "catalogado": false,
+            "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1547671000508928031"
+          }
+        ],
+        "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+      },
+      "mensajes_leidos": [
+        {
+          "indice": 0,
+          "mensaje_id": "1546437630781296680",
+          "fecha_utc": "2026-09-07T08:31:02.600000+00:00",
+          "editado_utc": "2026-09-07T08:55:57.341000+00:00",
+          "texto_sha256_verificado": "3ab6a866fec8e92bac0c008a04f8ed3a77ce3d3fdb6654b09924e384cba0feed",
+          "mensaje_sha256_archivado": "1f83547549fb72b1b2ce687b1a9aaead5dec99fe8d57b93d2879236022d65ed7",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1546437630781296680"
+        },
+        {
+          "indice": 1,
+          "mensaje_id": "1546437680215359571",
+          "fecha_utc": "2026-09-07T08:31:14.386000+00:00",
+          "editado_utc": null,
+          "texto_sha256_verificado": "6af455b187ffab96d443179a0fef0281bcd0ea8ac59b020f74e54ac0e799e4e4",
+          "mensaje_sha256_archivado": "fea7039e5588579a6b3a8c8dcdaf2d823502f4d40bed1aed95e6eebab3f6b1a9",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1546437680215359571"
+        }
+      ]
+    }
+  ],
+  "hallazgos": [
+    {
+      "id": "47-POST-B2-01",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Tessa habla con Eldrath de Oliver como alguien amable, educado, reservado e introvertido. El contexto inmediato de la pregunta lo identifica como su hermano, ya presentado así en el 47.",
+      "evidencias": [
+        {
+          "escena": "x-1537945553915089056",
+          "mensaje_id": "1537964736753303582",
+          "cita": "Oye...¿Tu hermano no es tan desienteresado como tu no?",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537964736753303582",
+          "fecha_utc": "2026-08-14T23:22:47.245000+00:00",
+          "texto_sha256": "461268ff726539a3e900a9cc8ab004be3a9e2813850e911ec39d115efc982ea2"
+        },
+        {
+          "escena": "x-1537945553915089056",
+          "mensaje_id": "1537966074593808536",
+          "cita": "Oliver... Uuhhh... Es un caballero... Amable... Educado... Ahh... Es bastante más reservado que yo... Un poco... Introvertido... Pero es la persona más buena que conozco",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537966074593808536",
+          "fecha_utc": "2026-08-14T23:28:06.211000+00:00",
+          "texto_sha256": "4801ac83e0f5b4b4b631013285c3c4ef82c17a10817b2e4bbb7758d507d04da9"
+        }
+      ],
+      "aportacion": "Permite ampliar la historia y el vínculo de Oliver mediante la opinión posterior de su hermana.",
+      "limites": "No localiza a Oliver, no acredita su seguridad presente ni explica cómo obtuvo su nombre el dragón. La valoración moral pertenece a Tessa."
+    },
+    {
+      "id": "47-POST-B2-02",
+      "tipo": "hecho_narrado_en_rol_posterior",
+      "afirmacion": "Walulu intenta administrar antitoxinas a Tessa; la humana se marea y vomita tanto la poción como las hierbas que había recibido. Eldrath también se encuentra dolorido y el texto atribuye ese dolor al veneno.",
+      "evidencias": [
+        {
+          "escena": "x-1537945553915089056",
+          "mensaje_id": "1537970129806172160",
+          "cita": "empieza a vomitarlas junto a la mezcla de hierbas que l e había dado Walulu antes.",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537970129806172160",
+          "fecha_utc": "2026-08-14T23:44:13.049000+00:00",
+          "texto_sha256": "69cefce1b410330e511db7f9d1204f35c8bb09e77adc52a375a7415a83a47d79"
+        },
+        {
+          "escena": "x-1537945553915089056",
+          "mensaje_id": "1537974123072856094",
+          "cita": "Se levanta encorbandose de dolor, porque el veneno le afecta tambien.",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537974123072856094",
+          "fecha_utc": "2026-08-15T00:00:05.118000+00:00",
+          "texto_sha256": "6328fe5f2316a7623a79a2d5a24f7453d0d55097cc87911be5aa4412abd730ba"
+        }
+      ],
+      "aportacion": "Documenta un tratamiento médico posterior y su fracaso inmediato.",
+      "limites": "La escena no reconstruye cómo se envenenaron, no identifica al causante de ese episodio y no aporta una debilidad, ubicación de guarida o estrategia de caza del dragón. No es prueba de que continuara el veneno de los muertos del 47."
+    },
+    {
+      "id": "47-POST-B2-03",
+      "tipo": "hecho_narrado_en_rol_posterior",
+      "afirmacion": "Tras advertir que puede ser peligroso, Walulu recita un mantra; un círculo aparece a los pies de Tessa y salen raíces que la envuelven. Eldrath se aparta y llega el marcador final de escena antes de un resultado.",
+      "evidencias": [
+        {
+          "escena": "x-1537945553915089056",
+          "mensaje_id": "1537974576410005534",
+          "cita": "Tendré que probar algo, aunque puede ser algo peligroso",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537974576410005534",
+          "fecha_utc": "2026-08-15T00:01:53.202000+00:00",
+          "texto_sha256": "3e1d558817b32533e1aabc8372a2db8f68291d70fc0a6e1c038d23eddf4dae16"
+        },
+        {
+          "escena": "x-1537945553915089056",
+          "mensaje_id": "1537974576410005534",
+          "cita": "un círculo mágico aparece a los pies de Tessa y unas raíces empiezan asalir de el mientras la envuelven",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537974576410005534",
+          "fecha_utc": "2026-08-15T00:01:53.202000+00:00",
+          "texto_sha256": "3e1d558817b32533e1aabc8372a2db8f68291d70fc0a6e1c038d23eddf4dae16"
+        },
+        {
+          "escena": "x-1537945553915089056",
+          "mensaje_id": "1537975960681447464",
+          "cita": "Abre los ojos y trastavillea entre las raices alejandose del circulo",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1537975960681447464",
+          "fecha_utc": "2026-08-15T00:07:23.238000+00:00",
+          "texto_sha256": "748ebc03c28ab1a97aaa73f4a25b046b6d652468b25c650073556310bca122a8"
+        }
+      ],
+      "aportacion": "Amplía el repertorio observado de curación intentada por Walulu y la atención posterior a Tessa.",
+      "limites": "No se confirma curación ni daño del ritual. Sus raíces no se identifican con las que animaban cadáveres o inmovilizaban al grupo en el 47. No se conecta este procedimiento con la investigación de libros antiguos prometida entonces."
+    },
+    {
+      "id": "47-POST-B2-04",
+      "tipo": "experiencia_subjetiva_narrada",
+      "afirmacion": "En el recuerdo deformado del teatro, las imágenes del padre y Oliver hablan con la voz del dragón. Tessa no logra soltarse de la mano paterna y la voz le impone como único fin sobrevivir a ella.",
+      "evidencias": [
+        {
+          "escena": "x-1544040982084067438",
+          "mensaje_id": "1544040982084067438",
+          "cita": "La voz del dragón salió por duplicado de sus dos familiares. Tessa intentó soltarle la mano. No pudo",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1544040982084067438",
+          "fecha_utc": "2026-08-31T17:47:37.023000+00:00",
+          "texto_sha256": "e3c7bee26858738e08ef8e08cc832ab5f2555e0ec64398c9dc34091110bd0597"
+        },
+        {
+          "escena": "x-1544040982084067438",
+          "mensaje_id": "1544040982084067438",
+          "cita": "Sobrevivir a mí...",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1544040982084067438",
+          "fecha_utc": "2026-08-31T17:47:37.023000+00:00",
+          "texto_sha256": "e3c7bee26858738e08ef8e08cc832ab5f2555e0ec64398c9dc34091110bd0597"
+        }
+      ],
+      "aportacion": "Da una manifestación posterior concreta del temor al dragón que invade la representación subjetiva de su familia. Puede añadirse al seguimiento de la amenaza personal contra Oliver como contexto psicológico posterior.",
+      "limites": "No acredita posesión real del padre o Oliver, ni captura, daño o desplazamiento presente. La voz del dragón forma parte de la experiencia narrada; no se verifica una intervención externa actual o el mecanismo de acceso a la memoria. Tampoco prueba que siga vigente el mismo encantamiento de llevar a los elfos."
+    },
+    {
+      "id": "47-POST-B2-05",
+      "tipo": "experiencia_subjetiva_narrada",
+      "afirmacion": "En otro recuerdo transformado, Tessa descubre que ha lanzado contra la imagen de su madre y ve a Oliver herido detrás de ella. Una voz ya inhumana, situada en el bosque de esa visión, le exige elegir a quién salvar.",
+      "evidencias": [
+        {
+          "escena": "x-1546437630781296680",
+          "mensaje_id": "1546437630781296680",
+          "cita": "Era un recuerdo perfecto, o eso creía.",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1546437630781296680",
+          "fecha_utc": "2026-09-07T08:31:02.600000+00:00",
+          "texto_sha256": "3ab6a866fec8e92bac0c008a04f8ed3a77ce3d3fdb6654b09924e384cba0feed"
+        },
+        {
+          "escena": "x-1546437630781296680",
+          "mensaje_id": "1546437630781296680",
+          "cita": "La voz comenzó a cambiar, hasta dejar de parecer humana.",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1546437630781296680",
+          "fecha_utc": "2026-09-07T08:31:02.600000+00:00",
+          "texto_sha256": "3ab6a866fec8e92bac0c008a04f8ed3a77ce3d3fdb6654b09924e384cba0feed"
+        },
+        {
+          "escena": "x-1546437630781296680",
+          "mensaje_id": "1546437630781296680",
+          "cita": "Ahora elige a quién quieres salvar.",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1546437630781296680",
+          "fecha_utc": "2026-09-07T08:31:02.600000+00:00",
+          "texto_sha256": "3ab6a866fec8e92bac0c008a04f8ed3a77ce3d3fdb6654b09924e384cba0feed"
+        }
+      ],
+      "aportacion": "Amplía el motivo posterior de la familia convertida en objeto de una elección amenazadora.",
+      "limites": "No representa heridas reales de Oliver o de la madre ni una elección ejecutada. El mensaje no nombra al dragón: conectarlo causalmente con Clolgedranx sería una inferencia sin demostración. No hay respuesta de Tessa ni despertar narrado."
+    }
+  ],
+  "preguntas_que_si_avanzan": [
+    {
+      "pregunta_del_47": "¿Cómo conoce Clolgedranx a Oliver y qué peligro corre el hermano de Tesara?",
+      "correspondencia_integracion": {
+        "indice_basado_en_cero": 8,
+        "indice_visible": 9,
+        "referencia_video": "47-312"
+      },
+      "correspondencia_borrador": "P47-B3-03",
+      "grado": "ampliación de contexto subjetivo posterior, sin resolver el origen de la información o el riesgo físico real",
+      "estado_propuesto": "pendiente",
+      "adicion_recomendada_a_respuesta": "En el rol posterior Tesara describe a Oliver como amable y reservado. Después, dos escenas de recuerdos convertidos en pesadillas sitúan a su hermano entre las imágenes familiares amenazadas: la primera contiene expresamente la voz del dragón; la segunda una voz inhumana que le exige elegir a quién salvar. Estas experiencias amplían el temor de Tesara, pero no muestran a Oliver en su presente ni demuestran heridas, captura o una intervención mágica externa. Sigue sin saberse cómo obtuvo el dragón esa información.",
+      "hallazgos": [
+        "47-POST-B2-01",
+        "47-POST-B2-04",
+        "47-POST-B2-05"
+      ],
+      "fuentes_rol": [
+        {
+          "escena": "x-1537945553915089056",
+          "mensaje_id": "1537966074593808536"
+        },
+        {
+          "escena": "x-1544040982084067438",
+          "mensaje_id": "1544040982084067438"
+        },
+        {
+          "escena": "x-1546437630781296680",
+          "mensaje_id": "1546437630781296680"
+        }
+      ],
+      "pendiente": "El origen de la información del dragón, el paradero actual de Oliver y el alcance real de la amenaza."
+    }
+  ],
+  "preguntas_sin_avance_resolutivo": [
+    {
+      "pregunta_del_47": "¿Cuánto dura la compulsión de llevar a los elfos y cómo podrán resistirla o terminarla?",
+      "correspondencia_integracion": {
+        "indice_basado_en_cero": 5,
+        "indice_visible": 6
+      },
+      "resultado": "No se modifica el pendiente.",
+      "motivo": "Las escenas de recuerdos amenazadores no mencionan el impulso de llevar a los hermanos elfos, no miden su duración y no presentan una neutralización. No cabe unir síntomas separados temporalmente en un único efecto mecánico continuo.",
+      "hallazgos_relacionados": [
+        "47-POST-B2-04",
+        "47-POST-B2-05"
+      ]
+    },
+    {
+      "pregunta_del_47": "¿Encontrará Walulu una debilidad o estrategia y se localizarán las guaridas del dragón?",
+      "correspondencia_integracion": {
+        "indice_basado_en_cero": 9,
+        "indice_visible": 10
+      },
+      "correspondencia_borrador": "P47-B3-04",
+      "resultado": "No se modifica el pendiente.",
+      "motivo": "El episodio de Walulu se dedica al tratamiento de dos pacientes y no a libros, pergaminos, debilidades, guaridas o caza. Las antitoxinas fallan y el ritual queda incompleto; no son una estrategia probada contra el dragón.",
+      "hallazgos_relacionados": [
+        "47-POST-B2-02",
+        "47-POST-B2-03"
+      ]
+    },
+    {
+      "pregunta_del_47": "¿Cómo responderán los viajeros al plazo de una semana y a la amenaza de una hueste contra Iktan?",
+      "correspondencia_integracion": {
+        "indice_basado_en_cero": 7,
+        "indice_visible": 8
+      },
+      "correspondencia_borrador": "P47-B3-02",
+      "resultado": "No se modifica el pendiente.",
+      "motivo": "Ninguno de los 32 mensajes menciona el cumplimiento, retirada o prórroga del ultimátum, una hueste que ataque Iktan, preparación defensiva o resultado de combate. El mero paso de fechas no acredita desenlace."
+    },
+    {
+      "pregunta_del_47": "¿Quién paga a Clolgedranx por los hermanos elfos y con qué propósito?",
+      "correspondencia_integracion": {
+        "indice_basado_en_cero": 6,
+        "indice_visible": 7
+      },
+      "correspondencia_borrador": "P47-B3-01",
+      "resultado": "No se modifica el pendiente.",
+      "motivo": "Las escenas no nombran un contratante, pago, entrega de los hermanos o propósito del encargo. La palabra sobrevivir en una pesadilla no explica el contrato."
+    },
+    {
+      "pregunta_del_47": "¿Quiénes eran los cadáveres del lago y cómo se sostiene su animación por raíces?",
+      "correspondencia_integracion": {
+        "indice_basado_en_cero": 4,
+        "indice_visible": 5
+      },
+      "resultado": "No se modifica el pendiente.",
+      "motivo": "Las raíces del ritual médico de Walulu no se identifican con las de los cadáveres del lago y no aportan identidad de víctimas o explicación de su animación.",
+      "hallazgos_relacionados": [
+        "47-POST-B2-03"
+      ]
+    },
+    {
+      "pregunta_del_47": "¿De qué tratará la reunión para la que Walulu quiere a Naór y a los viajeros?",
+      "correspondencia_integracion": {
+        "indice_basado_en_cero": 10,
+        "indice_visible": 11
+      },
+      "correspondencia_borrador": "P47-B3-05",
+      "resultado": "No se modifica el pendiente.",
+      "motivo": "Naór no aparece ni se convoca o celebra esa reunión. La atención médica posterior de Walulu no se identifica como su propósito."
+    }
+  ],
+  "avances_que_resuelven_un_pendiente_del_47": [],
+  "recomendacion_editorial": "Añadir, si se incorpora el rol posterior al seguimiento, una ampliación fechada de la amenaza familiar y del estado subjetivo de Tesara con sus fuentes propias. Mantener los pendientes de información sobre Oliver, duración de compulsión, investigación de Walulu, hueste y plazo. Mantener los tratamientos y pesadillas fuera del relato del vídeo del capítulo 47.",
+  "validacion": {
+    "fuentes_json_leidas_integras": 3,
+    "mensajes_leidos": 32,
+    "sin_omisiones_de_menciones_o_cierres": true,
+    "citas_comprobadas_literalmente": true,
+    "hashes_de_texto_comprobados": true,
+    "otros_archivos_modificados": false,
+    "numero_citas_verificadas": 12,
+    "hashes_json_comprobados": true,
+    "nota_hashes": "SHA-256 de los tres JSON y de los 32 textos recalculados; mensaje_sha256_archivado se conserva del inventario sin afirmar reconstruccion del mensaje bruto de Discord."
+  }
+}

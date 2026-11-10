@@ -12,7 +12,7 @@ Base para revisar equivalencia: [46-032](../capitulos/46.md), [46-033](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### Dos depredadores atraídos hacia los viajeros
 

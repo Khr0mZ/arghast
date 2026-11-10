@@ -1,5 +1,11 @@
 # Organizaciones y facciones
 
+## Ocupación de Shiaru y defensa de Iktan
+
+El director confirma el huerto destruido y el cuerpo de «Happy» Bonny colgado a la entrada de Shiaru. Patata atribuye a nuevos piratas la expulsión y la pérdida de su casa. Los antiguos tripulantes refugiados en Iktan corroboran que los echaron; la identidad y organización de los nuevos dirigentes continúan abiertas. No se equipara a los ocupantes con los clientes nuevos de Angelique ([capítulo 47](capitulos/47.md)).
+
+Walulu acoge a los hermanos perseguidos por Clolgedranx y confía en la guardia frente a su hueste. La barrera no excluye a los no muertos. Las noticias de guaridas se atribuyen a guardias y no representan una exploración nueva. Esta audiencia tampoco completa la consulta de Citlali e Ione sobre los tatuajes.
+
 Este registro recoge autoridades, grupos e intereses documentados. Las declaraciones de un portavoz no representan necesariamente a todos sus miembros. El uniforme, la especie o la lengua no bastan para deducir una afiliación.
 
 | Grupo | Autoridad, actividad e intereses documentados | Fuentes |

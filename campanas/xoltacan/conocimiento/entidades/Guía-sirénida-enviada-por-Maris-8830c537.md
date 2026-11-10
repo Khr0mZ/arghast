@@ -12,7 +12,7 @@ Base para revisar equivalencia: [45-015](../capitulos/45.md), [45-016](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### Ayuda respiratoria y una confesión
 

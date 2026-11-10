@@ -1,5 +1,5 @@
 {
-  "revisado_hasta": 46,
+  "revisado_hasta": 47,
   "entidades": {
     "Anillo familiar de Erendriel": [
       {
@@ -327,6 +327,13 @@
         "referencias": [
           "16-001",
           "16-009"
+        ]
+      },
+      {
+        "titulo": "Preparado ante el movimiento del suelo",
+        "texto": "Patata lo saca junto con el escudo cuando las raíces empiezan a moverse alrededor de las ruinas. Esta preparación confirma su uso como equipo actual, sin resolver el inventario de los objetos que perdió en antiguos cautiverios.",
+        "referencias": [
+          "47-021"
         ]
       }
     ],
@@ -789,6 +796,26 @@
         "referencias": [
           "46-062",
           "46-063"
+        ]
+      }
+    ],
+    "Escupefuego": [
+      {
+        "titulo": "Una prueba de fuego sin ventaja",
+        "texto": "Tesa la elige por la vegetación de los enemigos. El disparo impacta, consume una carga y hace daño normal, sin confirmar la vulnerabilidad al fuego que ella esperaba. Del zombi alcanzado salta la salpicadura que el director adjudica a todos, incluida la mención expresa de Chopito.",
+        "referencias": [
+          "47-026",
+          "47-027"
+        ]
+      }
+    ],
+    "Libro histórico mostrado por Walulu": [
+      {
+        "titulo": "La consulta sobre el ritual protector",
+        "texto": "Walulu busca una entrada del volumen y la muestra al explicar el ritual del antiguo líder tras el ataque del dragón. Después acepta estudiar los libros antiguos y busca pergaminos para hallar una estrategia. No se transcribe el contenido completo del volumen ni se entrega a los viajeros.",
+        "referencias": [
+          "47-082",
+          "47-085"
         ]
       }
     ]

@@ -2,12 +2,256 @@
 
 Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas de extracción sin identidad verificada no generan fichas automáticamente.
 
+## "Happy" Bonny
+
+- Cap. 01, 00:31:03.000: Deuda y servicio para Bonnie ([01-011](capitulos/01.md)).
+- Cap. 01, 00:34:51.000: Encargo de obtener dinero de los visitantes ([01-012](capitulos/01.md)).
+- Cap. 01, 02:12:39.000: Segundo robo y bolsa para Bonnie ([01-029](capitulos/01.md)).
+- Cap. 01, 02:14:29.000: Servicio de meses, desfase temporal ([01-030](capitulos/01.md)).
+- Cap. 02, 00:06:15.000: Tripulación y enfado de Bonnie ([02-004](capitulos/02.md)).
+- Cap. 02, 02:40:55.000: Bonnie detiene la disputa ([02-028](capitulos/02.md)).
+- Cap. 03, 00:08:00.000: Hada cautiva de dos piratas ([03-002](capitulos/03.md)).
+- Cap. 04, 00:00:40.000: El Garfio y el poblado de Bonnie ([04-001](capitulos/04.md)).
+- Cap. 04, 00:12:00.000: Encargo de Bonnie para recuperar lo perdido ([04-007](capitulos/04.md)).
+- Cap. 04, 00:38:00.000: Cipo indica la presencia de piratas ([04-011](capitulos/04.md)).
+- Cap. 04, 01:41:30.000: Advertencias y reparto de gemas ([04-021](capitulos/04.md)).
+- Cap. 04, 02:09:20.000: Bonnie recibe el collar y detecta la falta ([04-029](capitulos/04.md)).
+- Cap. 05, 00:00:00.000: Estado de Nox e Ione entre sesiones ([05-001](capitulos/05.md)).
+- Cap. 05, 00:17:00.000: Llega un buque y Bonnie aparta a Jack ([05-007](capitulos/05.md)).
+- Cap. 05, 00:21:00.000: Contrato de Bonnie y encargo de sustraer documentos ([05-008](capitulos/05.md)).
+- Cap. 05, 02:03:00.000: Contrato encontrado y nota dejada ([05-024](capitulos/05.md)).
+- Cap. 05, 02:42:00.000: Molly y Bonnie reaccionan al incendio ([05-030](capitulos/05.md)).
+- Cap. 05, 02:45:30.000: Lunaria revela la vela y Bonnie impone consecuencias ([05-031](capitulos/05.md)).
+- Cap. 06, 00:06:55.000: Bonnie localiza una gema y exige las demás ([06-004](capitulos/06.md)).
+- Cap. 06, 00:14:00.000: Gema de Liz y suministro del poblado ([06-007](capitulos/06.md)).
+- Cap. 06, 00:18:30.000: Poncelot cree que Merlucilla escapó ([06-009](capitulos/06.md)).
+- Cap. 07, 00:26:00.000: Nox descubre quién repartió las gemas ([07-008](capitulos/07.md)).
+- Cap. 07, 02:14:15.000: Cría, venta y huida por un ruido ([07-027](capitulos/07.md)).
+- Cap. 07, 02:22:00.000: Patata explica el reparto de las gemas y pide protección ([07-029](capitulos/07.md)).
+- Cap. 07, 02:36:00.000: Cautivo y perla entregados a Bonnie ([07-032](capitulos/07.md)).
+- Cap. 07, 02:41:35.000: Pacto secreto para vender la futura cría ([07-033](capitulos/07.md)).
+- Cap. 09, 02:47:40.000: El director aclara el tributo y los tatuajes siguen sin interpretar ([09-031](capitulos/09.md)).
+- Cap. 10, 00:11:25.000: Blink conoce la desaparición por el relato del elfo ([10-006](capitulos/10.md)).
+- Cap. 10, 00:14:10.000: Bonnie amenaza a Patata por la gema utilizada para pagar alojamiento ([10-007](capitulos/10.md)).
+- Cap. 10, 00:18:00.000: Bonnie impone el rescate de Pix vivo ([10-008](capitulos/10.md)).
+- Cap. 10, 02:27:30.000: Ayoto y el elfo regresan sin sus compañeros ni Pix ([10-024](capitulos/10.md)).
+- Cap. 10, 02:31:00.000: Ayoto informa del fracaso a Bonnie ([10-025](capitulos/10.md)).
+- Cap. 10, 02:34:40.000: Bonnie exige una nueva expedición y mata a un pirata como ejemplo ([10-026](capitulos/10.md)).
+- Cap. 11, 00:16:00.000: Kilzer es obligado a participar y Poncelot acepta el rescate por su ideal caballeresco ([11-007](capitulos/11.md)).
+- Cap. 11, 00:49:15.000: Nox ofrece un negocio y resume el informe del elfo ([11-012](capitulos/11.md)).
+- Cap. 11, 03:01:30.000: Bonnie ve a Nox invisible y recupera moneda y gema ([11-029](capitulos/11.md)).
+- Cap. 12, 00:05:00.000: El elfo recibe apoyo de Nox y relata su entrevista con Bonnie ([12-003](capitulos/12.md)).
+- Cap. 12, 00:08:00.000: Libro entregado por el elfo, oreja perdida y plazo de Bonnie ([12-004](capitulos/12.md)).
+- Cap. 12, 00:20:30.000: El elfo ofrece ocho monedas y Nox recuerda el diez por ciento ([12-006](capitulos/12.md)).
+- Cap. 12, 00:44:30.000: Pinky recibe hojas y se une ([12-013](capitulos/12.md)).
+- Cap. 13, 00:00:00.000: Patata recupera parte de su equipo y Nox reparte las ganancias de una venta ([13-001](capitulos/13.md)).
+- Cap. 13, 00:35:30.000: Ayoto entrega una capa a Pix y Bonnie lo despide ([13-009](capitulos/13.md)).
+- Cap. 13, 00:43:30.000: Nox anuncia un reparto del casino de 35/15/50 ([13-011](capitulos/13.md)).
+- Cap. 14, 00:30:00.000: Sombrero dado al loro y aviso a Bonnie ([14-006](capitulos/14.md)).
+- Cap. 14, 00:51:45.000: Navío visto y Bonnie expulsa al marcado ([14-010](capitulos/14.md)).
+- Cap. 14, 03:01:00.000: Desaparición de la marca y el veneno; Bonnie llama a los hermanos ([14-025](capitulos/14.md)).
+- Cap. 15, 00:07:00.000: Granja de Patata y dos piratas arrastrados ([15-003](capitulos/15.md)).
+- Cap. 15, 00:12:00.000: Patata paga cinco monedas y Bonnie encarga eliminar la amenaza ([15-004](capitulos/15.md)).
+- Cap. 15, 02:50:30.000: Bolsa recuperada y Bonnie paga cincuenta ([15-020](capitulos/15.md)).
+- Cap. 15, 02:54:30.000: Bonnie retiene al elfo por envío tardío ([15-021](capitulos/15.md)).
+- Cap. 16, 00:10:25.000: Conservación del cuerpo del elfo pese al deseo de enterrarlo ([16-004](capitulos/16.md)).
+- Cap. 24, 00:16:00.000: Bonnie encarga matar a los supuestos ladrones ([24-003](capitulos/24.md)).
+- Cap. 24, 02:17:00.000: Bonnie mata a un pirata y reduce el pago ([24-017](capitulos/24.md)).
+- Cap. 24, 02:20:00.000: Din acuerda buscar a Sam por cincuenta monedas ([24-018](capitulos/24.md)).
+- Cap. 24, 02:27:00.000: Bonnie recluta a Coyote como espía ([24-019](capitulos/24.md)).
+- Cap. 24, 02:32:00.000: Ropa, cultivo y reclutamiento ([24-020](capitulos/24.md)).
+- Cap. 25, 00:09:00.000: Noche dispersa en Shiaru ([25-004](capitulos/25.md)).
+- Cap. 26, 00:03:00.000: Abisal en aprendizaje y amuleto sin destino ([26-002](capitulos/26.md)).
+- Cap. 26, 00:20:00.000: Cinco convocados y tesoro disputado ([26-006](capitulos/26.md)).
+- Cap. 28, 01:38:00.000: Jack fingió ser capitán durante la ausencia ([28-018](capitulos/28.md)).
+- Cap. 28, 01:43:00.000: Orbe entregado y visiones enviadas a Bonnie ([28-019](capitulos/28.md)).
+- Cap. 28, 01:50:00.000: Bonnie declara una alianza con Molly para proteger la isla ([28-020](capitulos/28.md)).
+- Cap. 28, 01:53:00.000: Anciana nativa y pacto de intercambio de información ([28-021](capitulos/28.md)).
+- Cap. 28, 02:00:00.000: Ione castiga a Jack y Mugre detiene a Ojo Ausente ([28-022](capitulos/28.md)).
+- Cap. 32, 00:00:00.000: Granja, fuego y ausencia de Bonnie ([32-001](capitulos/32.md)).
+- Cap. 32, 01:26:00.000: Bonnie activa moneda y combate como rayo ([32-014](capitulos/32.md)).
+- Cap. 32, 01:31:00.000: Rayos de Bonnie y huida del general ([32-015](capitulos/32.md)).
+- Cap. 32, 01:58:00.000: Shiaru resiste invasión ([32-017](capitulos/32.md)).
+- Cap. 32, 02:04:00.000: Trato roto y control de Bonnie ([32-018](capitulos/32.md)).
+- Cap. 32, 02:08:00.000: Recompensas y paradero de Citlali ([32-019](capitulos/32.md)).
+- Cap. 32, 02:12:00.000: Bonnie devuelve moneda a Pix y sale ([32-020](capitulos/32.md)).
+- Cap. 33, 00:22:00.000: Bonnie sostiene ficción cortesana ([33-004](capitulos/33.md)).
+- Cap. 33, 01:06:00.000: Eleanor revela expansión territorial ([33-010](capitulos/33.md)).
+- Cap. 34, 00:00:00.000: Recapitulaciones y libertad de Citlali ([34-001](capitulos/34.md)).
+- Cap. 34, 02:39:00.000: Rumbo Cuicapalli con cría ([34-020](capitulos/34.md)).
+- Cap. 35, 00:00:00.000: Casco del gnomo y Molly incomunicada ([35-001](capitulos/35.md)).
+- Cap. 35, 00:20:00.000: Negocios de Nox y nombre Armin ([35-004](capitulos/35.md)).
+- Cap. 35, 00:30:00.000: Moneda antigua y búsqueda Molly ([35-005](capitulos/35.md)).
+- Cap. 35, 02:17:00.000: Pinky recapturada y amenaza a Tórtola ([35-016](capitulos/35.md)).
+- Cap. 35, 02:42:00.000: Bonnie y Molly reencuentran; recompensas ([35-019](capitulos/35.md)).
+- Cap. 36, 00:06:00.000: Botellas en los cañones y convocatoria de Bonnie ([36-002](capitulos/36.md)).
+- Cap. 36, 00:20:00.000: Molly informa de una posición estratégica ([36-004](capitulos/36.md)).
+- Cap. 36, 02:21:00.000: Entrega del cautivo e informe parcial ([36-017](capitulos/36.md)).
+- Cap. 37, 00:16:00.000: La alianza de Eleanor depende del oro ([37-003](capitulos/37.md)).
+- Cap. 37, 00:24:00.000: Emboscada a los suministros con Tlachka al mando ([37-004](capitulos/37.md)).
+- Cap. 37, 00:32:00.000: La esfera reacciona ante Citlali ([37-005](capitulos/37.md)).
+- Cap. 37, 01:57:00.000: Entrega de una carreta y recompensas ([37-015](capitulos/37.md)).
+- Cap. 37, 02:06:00.000: Nox recibe una moneda de oro tras descontar deudas ([37-016](capitulos/37.md)).
+- Cap. 37, 02:09:00.000: Bonnie presta el ojo con una condición que Nox planea incumplir ([37-017](capitulos/37.md)).
+- Cap. 37, 02:14:00.000: Luna roba pólvora y Nox parte hacia el fuerte ([37-018](capitulos/37.md)).
+- Cap. 38, 02:17:00.000: Ione tranquiliza a Poncelot y se revela la propiedad del cofre ([38-018](capitulos/38.md)).
+- Cap. 42, 00:08:05.039: Shiaru reúne a sus defensores en la plaza ([42-006](capitulos/42.md)).
+- Cap. 42, 00:20:27.440: Bonnie reclama la defensa de la libertad de Shiaru ([42-011](capitulos/42.md)).
+- Cap. 42, 00:22:00.919: La moneda de Bonnie acompaña su transformación eléctrica ([42-012](capitulos/42.md)).
+- Cap. 42, 00:30:07.559: Siete barcos piratas salen bajo la tormenta ([42-015](capitulos/42.md)).
+- Cap. 42, 00:31:35.600: La Marina forma dos líneas de fuego frente a los piratas ([42-016](capitulos/42.md)).
+- Cap. 42, 00:37:59.520: El Relámpago del Mar avanza con Bonnie preparando rayos ([42-018](capitulos/42.md)).
+- Cap. 42, 00:40:52.240: Nox advierte del poder de Bonnie y Tórtola muestra una luz verde ([42-020](capitulos/42.md)).
+- Cap. 42, 00:56:31.240: Bonnie descarga rayos sobre la flota ([42-030](capitulos/42.md)).
+- Cap. 42, 01:13:56.560: Los rayos alimentan el barco de Bonnie ([42-039](capitulos/42.md)).
+- Cap. 42, 01:21:29.120: La presión de Marina obliga a varios piratas a virar ([42-043](capitulos/42.md)).
+- Cap. 42, 01:27:39.000: El Relámpago del Mar atraviesa y parte barcos de la Marina ([42-046](capitulos/42.md)).
+- Cap. 42, 01:32:27.000: El ataque de Bonnie anima a unos piratas mientras otros se marchan ([42-048](capitulos/42.md)).
+- Cap. 42, 01:40:50.159: El Relámpago del Mar prepara otra embestida ([42-052](capitulos/42.md)).
+- Cap. 42, 01:47:26.080: La Marina concentra varios flancos contra Bonnie ([42-056](capitulos/42.md)).
+- Cap. 42, 01:55:33.920: Bonnie vuelve a abrirse paso entre la flota ([42-059](capitulos/42.md)).
+- Cap. 42, 02:00:20.239: El Invictus explota contra la flota y los buques restantes se retiran ([42-062](capitulos/42.md)).
+- Cap. 42, 02:07:00.000: La búsqueda entre los restos no encuentra a Nox ([42-064](capitulos/42.md)).
+- Cap. 42, 02:09:35.040: Cuatro reyes piratas destruyen una nueva flota de la Marina ([42-065](capitulos/42.md)).
+- Cap. 42, 02:12:59.000: Bonnie entrega la moneda a Ione y les ordena marcharse ([42-066](capitulos/42.md)).
+- Cap. 42, 02:17:14.319: Los otros reyes rodean al Relámpago del Mar sin su poder mágico ([42-068](capitulos/42.md)).
+- Cap. 42, 02:18:23.399: Bonnie saluda a Diente de Oro, Banana, Sonriente y Taylor ([42-069](capitulos/42.md)).
+- Cap. 42, 02:22:01.359: Taylor dice haber capturado al joven Jackie rumbo a Puerto de Espadas ([42-070](capitulos/42.md)).
+- Cap. 42, 02:22:59.960: Taylor acusa a Bonnie de romper un pacto y ocultar Xoltacan ([42-071](capitulos/42.md)).
+- Cap. 42, 02:23:47.600: Taylor dispara a la frente de Bonnie y el director despide a tres personajes ([42-072](capitulos/42.md)).
+- Cap. 43, 00:00:41.280: Erandy y Eleanor se preparan para la defensa terrestre ([43-002](capitulos/43.md)).
+- Cap. 43, 00:06:34.120: Las defensas de la jungla ya han sido inspeccionadas ([43-005](capitulos/43.md)).
+- Cap. 43, 00:08:03.360: Los habitantes se concentran en Shiaru ([43-006](capitulos/43.md)).
+- Cap. 43, 00:10:14.800: La moneda de Bonnie convoca la tormenta de la partida ([43-007](capitulos/43.md)).
+- Cap. 43, 00:28:25.039: El grupo despliega una emboscada y refuerza sus defensas ([43-016](capitulos/43.md)).
+- Cap. 46, 02:09:03.239: Ione propone recaudar recursos y reunir apoyos para recuperar Shiaru ([46-060](capitulos/46.md)).
+- Cap. 47, 00:00:21.760: Patata encuentra su huerto destruido y el cuerpo de Bonny expuesto ([47-001](capitulos/47.md)).
+- Cap. 47, 00:23:00.520: Patata comunica que otros piratas tomaron Shiaru y destruyeron su casa ([47-017](capitulos/47.md)).
+
 ## Abominación de la roca norte
 
 - Cap. 41, 00:54:38.599: Advertencia, revelación de la emboscada y muerte entre serpientes ([41-023](capitulos/41.md)).
 - Cap. 41, 01:41:33.000: Una abominación sale de la vegetación ([41-038](capitulos/41.md)).
 - Cap. 41, 01:42:01.320: Naór queda atrapada y sufre veneno durante el combate ([41-039](capitulos/41.md)).
 - Cap. 41, 02:08:00.000: La abominación cae tras los últimos ataques ([41-046](capitulos/41.md)).
+
+## Aerendriel
+
+- Cap. 01, 00:05:57.000: Familia y viaje del elfo ([01-005](capitulos/01.md)).
+- Cap. 01, 00:08:04.000: Huevo junto al cadáver de un dragón ([01-006](capitulos/01.md)).
+- Cap. 01, 00:16:50.000: Convergencia de los recién llegados ([01-009](capitulos/01.md)).
+- Cap. 01, 00:19:25.000: Corrección sobre la visibilidad del dragoncito ([01-010](capitulos/01.md)).
+- Cap. 01, 01:00:55.000: Reliquia familiar por reparar ([01-018](capitulos/01.md)).
+- Cap. 01, 01:20:44.000: Pistola ornamentada y conocimiento limitado ([01-020](capitulos/01.md)).
+- Cap. 01, 02:12:39.000: Segundo robo y bolsa para Bonnie ([01-029](capitulos/01.md)).
+- Cap. 05, 00:02:05.000: Trampas de pieles y residencia del elfo ([05-002](capitulos/05.md)).
+- Cap. 05, 00:07:40.000: Emblema y procedencia declarada del collar ([05-005](capitulos/05.md)).
+- Cap. 05, 00:14:00.000: Ione se reúne con Nox y ve al cautivo ([05-006](capitulos/05.md)).
+- Cap. 05, 00:17:00.000: Llega un buque y Bonnie aparta a Jack ([05-007](capitulos/05.md)).
+- Cap. 05, 00:29:00.000: Anillo del elfo y discusión sobre el imperio ([05-010](capitulos/05.md)).
+- Cap. 05, 00:31:50.000: Ropa intercambiada y oferta de botín ([05-011](capitulos/05.md)).
+- Cap. 05, 00:38:35.000: Tortugas marinas: nadar ocultos en barriles ([05-013](capitulos/05.md)).
+- Cap. 05, 00:47:35.000: Cubierta vigilada e Ione descubierta ([05-014](capitulos/05.md)).
+- Cap. 05, 01:02:35.000: La distracción permite bajar a los compañeros ([05-017](capitulos/05.md)).
+- Cap. 05, 01:24:00.000: Alimentos, frutas y candados ([05-018](capitulos/05.md)).
+- Cap. 05, 01:38:30.000: Lunaria abre candados con magia ([05-020](capitulos/05.md)).
+- Cap. 05, 01:41:40.000: Armería saqueada y sabotaje ([05-021](capitulos/05.md)).
+- Cap. 05, 01:44:30.000: Reencuentro y curación de Ione ([05-022](capitulos/05.md)).
+- Cap. 05, 01:52:30.000: Carteles y falsa pista de camarote ([05-023](capitulos/05.md)).
+- Cap. 05, 02:03:00.000: Contrato encontrado y nota dejada ([05-024](capitulos/05.md)).
+- Cap. 05, 02:11:00.000: Magia salvaje y nueva herida ([05-026](capitulos/05.md)).
+- Cap. 05, 02:19:45.000: La amenaza de explosión hace bajar las armas ([05-027](capitulos/05.md)).
+- Cap. 05, 02:29:55.000: Fuego ilusorio y salida del grupo ([05-028](capitulos/05.md)).
+- Cap. 05, 02:36:00.000: La vela lanzada provoca un incendio real ([05-029](capitulos/05.md)).
+- Cap. 05, 02:45:30.000: Lunaria revela la vela y Bonnie impone consecuencias ([05-031](capitulos/05.md)).
+- Cap. 05, 02:52:20.000: Persiguen al visitante y Nox se interesa por los mapas ([05-033](capitulos/05.md)).
+- Cap. 07, 00:04:35.000: Actividad de Lunaria y Erendriel ([07-003](capitulos/07.md)).
+- Cap. 07, 00:22:00.000: Se reúne el grupo con el dragón vivo ([07-007](capitulos/07.md)).
+- Cap. 07, 00:30:00.000: Nox se presenta como Jim Hawkins ([07-009](capitulos/07.md)).
+- Cap. 07, 00:35:35.000: Duelo sin heridas y Mamá intenta detenerlo ([07-010](capitulos/07.md)).
+- Cap. 07, 00:42:00.000: Frutas de la expedición ([07-011](capitulos/07.md)).
+- Cap. 07, 00:47:00.000: Puente, nido y huellas ausentes ([07-012](capitulos/07.md)).
+- Cap. 07, 01:06:20.000: Mamá derriba al capitán y el elfo vuela ([07-015](capitulos/07.md)).
+- Cap. 07, 01:25:20.000: La criatura voladora derriba a Erendriel ([07-017](capitulos/07.md)).
+- Cap. 07, 01:30:10.000: Mapa, siete monedas y rescate del elfo ([07-018](capitulos/07.md)).
+- Cap. 07, 01:34:20.000: El dragón cae, pero no muere ([07-019](capitulos/07.md)).
+- Cap. 07, 01:44:00.000: Criatura y piratas derrotados, una huye ([07-021](capitulos/07.md)).
+- Cap. 07, 01:50:15.000: Cautivo atado, plumas y anatomía ([07-022](capitulos/07.md)).
+- Cap. 07, 02:06:45.000: Perla y copia de escrituras desconocidas ([07-026](capitulos/07.md)).
+- Cap. 07, 02:14:15.000: Cría, venta y huida por un ruido ([07-027](capitulos/07.md)).
+- Cap. 07, 02:18:45.000: El ruido era Cipo, revelación al espectador ([07-028](capitulos/07.md)).
+- Cap. 07, 02:26:00.000: Mapas de la Marina y alojamiento negociado ([07-030](capitulos/07.md)).
+- Cap. 07, 02:30:00.000: Mamá prepara la crianza y Patata compra un hacha ([07-031](capitulos/07.md)).
+- Cap. 07, 02:46:10.000: Lunaria gana la apuesta y Patata corta árboles ([07-034](capitulos/07.md)).
+- Cap. 08, 00:04:00.000: Kilzer y el elfo pasan por el hospital ([08-003](capitulos/08.md)).
+- Cap. 08, 00:16:00.000: El elfo rechaza la amputación propuesta por el médico ([08-006](capitulos/08.md)).
+- Cap. 08, 00:19:50.000: El elfo utiliza el nombre Salazor ([08-007](capitulos/08.md)).
+- Cap. 08, 00:28:30.000: Deciden investigar; referencias al plano feérico ([08-011](capitulos/08.md)).
+- Cap. 08, 00:35:30.000: Encuentran a Ayoto y un cadáver ([08-012](capitulos/08.md)).
+- Cap. 08, 00:47:20.000: El loro roba una bolsa y Blink finge ser el dios Sol ([08-014](capitulos/08.md)).
+- Cap. 08, 01:04:00.000: Emboscada de cinco panteras derrotada ([08-017](capitulos/08.md)).
+- Cap. 08, 01:29:40.000: Curación y objetos de los cadáveres ([08-019](capitulos/08.md)).
+- Cap. 08, 01:34:20.000: Templo asociado a una civilización de nawals ([08-020](capitulos/08.md)).
+- Cap. 08, 01:40:20.000: Interior con diario en Terran y muerto colgado ([08-021](capitulos/08.md)).
+- Cap. 08, 01:46:20.000: Una figura se transforma en pantera bípeda y ataca ([08-022](capitulos/08.md)).
+- Cap. 08, 01:51:20.000: El combate termina con la muerte de la criatura y su reversión a mujer ([08-023](capitulos/08.md)).
+- Cap. 08, 02:06:20.000: Libro, mortero y cuerpo para consulta posterior ([08-024](capitulos/08.md)).
+- Cap. 08, 02:12:40.000: Descanso de ocho horas y vuelta nocturna ([08-025](capitulos/08.md)).
+- Cap. 08, 02:23:50.000: Pantera al pozo, loro huido y espada rota ([08-027](capitulos/08.md)).
+- Cap. 10, 00:02:45.000: El elfo estudia el diario sin entenderlo ([10-002](capitulos/10.md)).
+- Cap. 10, 00:08:30.000: Pix desaparece tras tirar basura al agua ([10-005](capitulos/10.md)).
+- Cap. 10, 00:11:25.000: Blink conoce la desaparición por el relato del elfo ([10-006](capitulos/10.md)).
+- Cap. 10, 00:18:00.000: Bonnie impone el rescate de Pix vivo ([10-008](capitulos/10.md)).
+- Cap. 10, 00:22:20.000: Expedición en barca hasta Ruki Peten ([10-009](capitulos/10.md)).
+- Cap. 10, 00:30:00.000: Objeto del capítulo 8 aclarado como pergamino de truco ([10-011](capitulos/10.md)).
+- Cap. 10, 00:34:15.000: Dos cocodrilos muertos y diente para Axi ([10-012](capitulos/10.md)).
+- Cap. 10, 00:41:15.000: Blink obtiene el mondadientes y el elfo es capturado ([10-013](capitulos/10.md)).
+- Cap. 10, 00:54:30.000: Patata combate al frente y llegan refuerzos ([10-016](capitulos/10.md)).
+- Cap. 10, 01:14:30.000: El elfo se desata, pero sigue encerrado ([10-017](capitulos/10.md)).
+- Cap. 10, 01:27:00.000: Jaula del elfo cerrada y armas retiradas ([10-018](capitulos/10.md)).
+- Cap. 10, 01:41:00.000: Calmar emociones no afecta a los cocodrilos y el elfo escapa ([10-020](capitulos/10.md)).
+- Cap. 10, 01:50:30.000: Una curación de los espectadores levanta a Axi y el dragón huye ([10-021](capitulos/10.md)).
+- Cap. 10, 02:01:30.000: Axi vuelve a caer ante el martillo y Blink intenta ayudar ([10-022](capitulos/10.md)).
+- Cap. 10, 02:27:30.000: Ayoto y el elfo regresan sin sus compañeros ni Pix ([10-024](capitulos/10.md)).
+- Cap. 10, 02:31:00.000: Ayoto informa del fracaso a Bonnie ([10-025](capitulos/10.md)).
+- Cap. 10, 02:34:40.000: Bonnie exige una nueva expedición y mata a un pirata como ejemplo ([10-026](capitulos/10.md)).
+- Cap. 11, 00:49:15.000: Nox ofrece un negocio y resume el informe del elfo ([11-012](capitulos/11.md)).
+- Cap. 12, 00:05:00.000: El elfo recibe apoyo de Nox y relata su entrevista con Bonnie ([12-003](capitulos/12.md)).
+- Cap. 12, 00:08:00.000: Libro entregado por el elfo, oreja perdida y plazo de Bonnie ([12-004](capitulos/12.md)).
+- Cap. 12, 00:15:20.000: Pix tiene el mondadientes de Blink ([12-005](capitulos/12.md)).
+- Cap. 12, 00:20:30.000: El elfo ofrece ocho monedas y Nox recuerda el diez por ciento ([12-006](capitulos/12.md)).
+- Cap. 12, 00:24:15.000: Jack debe ir a Puerto de Espadas y volver con ganancias ([12-007](capitulos/12.md)).
+- Cap. 12, 00:26:55.000: Contenido e identificación del diario del nawal ([12-008](capitulos/12.md)).
+- Cap. 12, 00:31:45.000: Blink guía hacia un campamento que recuerda al sur de su árbol ([12-010](capitulos/12.md)).
+- Cap. 12, 00:36:25.000: Arco comprado y palabra papaya para cambios de Ione ([12-011](capitulos/12.md)).
+- Cap. 12, 00:41:00.000: Frutas dan curación, elasticidad y caída lenta ([12-012](capitulos/12.md)).
+- Cap. 12, 00:48:30.000: Ione equipa a Axi, que fabrica un arco imperfecto ([12-014](capitulos/12.md)).
+- Cap. 12, 00:52:30.000: Se infiltran entre ruinas mientras Pinky distrae ([12-015](capitulos/12.md)).
+- Cap. 12, 01:19:00.000: Guardia reducido por Ione y Blink; otros no ven todo ([12-018](capitulos/12.md)).
+- Cap. 12, 01:59:30.000: El elfo utiliza las coberturas y Nox el libro con el glifo ([12-022](capitulos/12.md)).
+- Cap. 12, 02:24:00.000: Blink abre la jaula del hombre tigre y deja encerrado al preso feroz ([12-025](capitulos/12.md)).
+- Cap. 12, 02:46:00.000: Ione devuelve una bala y Nox deja al capitán vivo e inconsciente ([12-027](capitulos/12.md)).
+- Cap. 12, 02:56:10.000: Últimos enemigos abatidos y mujer auxiliada ([12-028](capitulos/12.md)).
+- Cap. 12, 03:08:30.000: Blink toma una perla y el elfo registra los cuerpos ([12-031](capitulos/12.md)).
+- Cap. 12, 03:10:00.000: El capitán queda con una carta y no es interrogado ([12-032](capitulos/12.md)).
+- Cap. 15, 00:03:20.000: Triel quiere ser capitana y el elfo prepara el envío de Jack ([15-002](capitulos/15.md)).
+- Cap. 15, 00:18:40.000: El grupo se reúne y Axi compra flechas y armadura ([15-005](capitulos/15.md)).
+- Cap. 15, 00:31:00.000: La espada de Triel tiene escamas de dragón azul ([15-006](capitulos/15.md)).
+- Cap. 15, 00:44:20.000: Frutas: obligación de decir la verdad, inmunidad a las armas y resistencias ([15-008](capitulos/15.md)).
+- Cap. 15, 01:08:15.000: Un cebo permite eliminar a un defensor y el dragón alerta al otro flanco ([15-011](capitulos/15.md)).
+- Cap. 15, 01:19:40.000: Crecimiento espinoso y Espíritus guardianes ([15-012](capitulos/15.md)).
+- Cap. 15, 01:28:20.000: Defensores y dinosaurios presionan a Patata ([15-013](capitulos/15.md)).
+- Cap. 15, 01:44:00.000: Kilzer es derribado y curado antes de auxiliar a Patata ([15-014](capitulos/15.md)).
+- Cap. 15, 02:00:00.000: Refuerzos y jefe; Axi inmune pero envenenado ([15-015](capitulos/15.md)).
+- Cap. 15, 02:31:10.000: El rival se levanta y Eldrat lo remata ([15-017](capitulos/15.md)).
+- Cap. 15, 02:46:20.000: Tatuajes copiados, miasma y pociones en un hoyo ([15-019](capitulos/15.md)).
+- Cap. 15, 02:54:30.000: Bonnie retiene al elfo por envío tardío ([15-021](capitulos/15.md)).
+- Cap. 15, 02:56:30.000: Treinta monedas repartidas entre cuatro; el dragón busca a la abuela ([15-022](capitulos/15.md)).
+- Cap. 16, 00:02:20.000: Muerte del elfo referida y búsqueda de templo ([16-002](capitulos/16.md)).
+- Cap. 16, 00:10:25.000: Conservación del cuerpo del elfo pese al deseo de enterrarlo ([16-004](capitulos/16.md)).
+- Cap. 17, 00:04:35.000: Axi contratado para detectar tramposos ([17-002](capitulos/17.md)).
+- Cap. 29, 00:09:00.000: El cadáver del elfo cae y el tigre se lo lleva ([29-003](capitulos/29.md)).
+- Cap. 34, 00:30:00.000: Origen del huevo y barrido mental ([34-005](capitulos/34.md)).
 
 ## Aldea caníbal de la cascada
 
@@ -56,6 +300,12 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 45, 00:19:48.080: El grupo se reúne y Tortas reacciona al año y la hora ([45-011](capitulos/45.md)).
 - Cap. 46, 02:03:44.679: Zoltan toma una cerveza y Angelique lo corteja ([46-057](capitulos/46.md)).
 - Cap. 46, 02:21:14.359: Zoltan y Angelique se retiran a una habitación ([46-066](capitulos/46.md)).
+- Cap. 47, 00:06:24.800: Angelique tolera a unos clientes nuevos porque pagan bien ([47-007](capitulos/47.md)).
+- Cap. 47, 00:07:43.160: Una joya a cambio de la pista de unas ruinas junto al lago ([47-008](capitulos/47.md)).
+- Cap. 47, 00:10:49.279: Angelique da a Tesa el camino hacia las ruinas ([47-009](capitulos/47.md)).
+- Cap. 47, 02:00:10.840: Patata encuentra a los piratas en la taberna de Iktan ([47-079](capitulos/47.md)).
+- Cap. 47, 02:02:28.400: Angelique informa de la salida de la elfa y del entrenamiento de su hermano ([47-080](capitulos/47.md)).
+- Cap. 47, 02:17:15.880: Angelique cuenta a Patata su encuentro con Zoltan ([47-090](capitulos/47.md)).
 
 ## Angélica Thunder
 
@@ -480,7 +730,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 44, 01:44:11.679: Guayacán usa su oficio de peletero para separar el caparazón ([44-053](capitulos/44.md)).
 - Cap. 44, 01:50:19.480: Ayoto reúne el exoesqueleto para encargar un escudo ([44-055](capitulos/44.md)).
 
-## Baps
+## Babs
 
 - Cap. 02, 00:06:15.000: Tripulación y enfado de Bonnie ([02-004](capitulos/02.md)).
 - Cap. 07, 02:36:00.000: Cautivo y perla entregados a Bonnie ([07-032](capitulos/07.md)).
@@ -494,22 +744,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 46, 01:56:01.320: Ione encuentra a la tripulación en la taberna de Iktan ([46-053](capitulos/46.md)).
 - Cap. 46, 02:06:48.360: Ione descubre la ausencia del novato llamado Jacki ([46-059](capitulos/46.md)).
 
-## Baton
-
-- Cap. 14, 00:12:10.000: Blink recupera su mondadientes ([14-003](capitulos/14.md)).
-- Cap. 16, 00:12:00.000: Baton y Nelli guían a Cuicapalli ([16-005](capitulos/16.md)).
-- Cap. 16, 00:31:30.000: Naór reconoce a Baton y conoce al grupo ([16-007](capitulos/16.md)).
-- Cap. 16, 00:45:15.000: Serpientes derrotadas y Naór libera a Patata ([16-009](capitulos/16.md)).
-- Cap. 16, 01:14:30.000: Blink agranda a Naór y muere el cocodrilo pequeño ([16-011](capitulos/16.md)).
-- Cap. 16, 01:46:25.000: Entrada a Cuicapalli y conversación en Primordial ([16-014](capitulos/16.md)).
-- Cap. 16, 01:50:20.000: Eromov ofrece hospitalidad y reconoce a Naór ([16-015](capitulos/16.md)).
-- Cap. 18, 00:42:00.000: Chocolate y ruta de Baton ([18-008](capitulos/18.md)).
-- Cap. 22, 00:16:00.000: Festival y Guayacán presentado ([22-002](capitulos/22.md)).
-- Cap. 22, 00:53:00.000: Ayoto gana el banquete y un caparazón ([22-006](capitulos/22.md)).
-- Cap. 22, 01:07:00.000: Guayacán gana una carrera con sabotajes ([22-008](capitulos/22.md)).
-- Cap. 44, 01:41:12.400: El herrero exige que Ayoto lleve el material a la tienda ([44-051](capitulos/44.md)).
-
-## Blink
+## Bling
 
 - Cap. 03, 00:08:00.000: Hada cautiva de dos piratas ([03-002](capitulos/03.md)).
 - Cap. 03, 00:11:40.000: Noticia de la excavación de la Marina ([03-003](capitulos/03.md)).
@@ -742,130 +977,6 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 41, 02:20:48.880: Winscore y Blink se presentan ante el anciano ([41-053](capitulos/41.md)).
 - Cap. 41, 02:24:09.319: Tortas reconoce el olor del dragón verde en Blink ([41-054](capitulos/41.md)).
 
-## Bonnie
-
-- Cap. 01, 00:31:03.000: Deuda y servicio para Bonnie ([01-011](capitulos/01.md)).
-- Cap. 01, 00:34:51.000: Encargo de obtener dinero de los visitantes ([01-012](capitulos/01.md)).
-- Cap. 01, 02:12:39.000: Segundo robo y bolsa para Bonnie ([01-029](capitulos/01.md)).
-- Cap. 01, 02:14:29.000: Servicio de meses, desfase temporal ([01-030](capitulos/01.md)).
-- Cap. 02, 00:06:15.000: Tripulación y enfado de Bonnie ([02-004](capitulos/02.md)).
-- Cap. 02, 02:40:55.000: Bonnie detiene la disputa ([02-028](capitulos/02.md)).
-- Cap. 03, 00:08:00.000: Hada cautiva de dos piratas ([03-002](capitulos/03.md)).
-- Cap. 04, 00:00:40.000: El Garfio y el poblado de Bonnie ([04-001](capitulos/04.md)).
-- Cap. 04, 00:12:00.000: Encargo de Bonnie para recuperar lo perdido ([04-007](capitulos/04.md)).
-- Cap. 04, 00:38:00.000: Cipo indica la presencia de piratas ([04-011](capitulos/04.md)).
-- Cap. 04, 01:41:30.000: Advertencias y reparto de gemas ([04-021](capitulos/04.md)).
-- Cap. 04, 02:09:20.000: Bonnie recibe el collar y detecta la falta ([04-029](capitulos/04.md)).
-- Cap. 05, 00:00:00.000: Estado de Nox e Ione entre sesiones ([05-001](capitulos/05.md)).
-- Cap. 05, 00:17:00.000: Llega un buque y Bonnie aparta a Jack ([05-007](capitulos/05.md)).
-- Cap. 05, 00:21:00.000: Contrato de Bonnie y encargo de sustraer documentos ([05-008](capitulos/05.md)).
-- Cap. 05, 02:03:00.000: Contrato encontrado y nota dejada ([05-024](capitulos/05.md)).
-- Cap. 05, 02:42:00.000: Molly y Bonnie reaccionan al incendio ([05-030](capitulos/05.md)).
-- Cap. 05, 02:45:30.000: Lunaria revela la vela y Bonnie impone consecuencias ([05-031](capitulos/05.md)).
-- Cap. 06, 00:06:55.000: Bonnie localiza una gema y exige las demás ([06-004](capitulos/06.md)).
-- Cap. 06, 00:14:00.000: Gema de Liz y suministro del poblado ([06-007](capitulos/06.md)).
-- Cap. 06, 00:18:30.000: Poncelot cree que Merlucilla escapó ([06-009](capitulos/06.md)).
-- Cap. 07, 00:26:00.000: Nox descubre quién repartió las gemas ([07-008](capitulos/07.md)).
-- Cap. 07, 02:14:15.000: Cría, venta y huida por un ruido ([07-027](capitulos/07.md)).
-- Cap. 07, 02:22:00.000: Patata explica el reparto de las gemas y pide protección ([07-029](capitulos/07.md)).
-- Cap. 07, 02:36:00.000: Cautivo y perla entregados a Bonnie ([07-032](capitulos/07.md)).
-- Cap. 07, 02:41:35.000: Pacto secreto para vender la futura cría ([07-033](capitulos/07.md)).
-- Cap. 09, 02:47:40.000: El director aclara el tributo y los tatuajes siguen sin interpretar ([09-031](capitulos/09.md)).
-- Cap. 10, 00:11:25.000: Blink conoce la desaparición por el relato del elfo ([10-006](capitulos/10.md)).
-- Cap. 10, 00:14:10.000: Bonnie amenaza a Patata por la gema utilizada para pagar alojamiento ([10-007](capitulos/10.md)).
-- Cap. 10, 00:18:00.000: Bonnie impone el rescate de Pix vivo ([10-008](capitulos/10.md)).
-- Cap. 10, 02:27:30.000: Ayoto y el elfo regresan sin sus compañeros ni Pix ([10-024](capitulos/10.md)).
-- Cap. 10, 02:31:00.000: Ayoto informa del fracaso a Bonnie ([10-025](capitulos/10.md)).
-- Cap. 10, 02:34:40.000: Bonnie exige una nueva expedición y mata a un pirata como ejemplo ([10-026](capitulos/10.md)).
-- Cap. 11, 00:16:00.000: Kilzer es obligado a participar y Poncelot acepta el rescate por su ideal caballeresco ([11-007](capitulos/11.md)).
-- Cap. 11, 00:49:15.000: Nox ofrece un negocio y resume el informe del elfo ([11-012](capitulos/11.md)).
-- Cap. 11, 03:01:30.000: Bonnie ve a Nox invisible y recupera moneda y gema ([11-029](capitulos/11.md)).
-- Cap. 12, 00:05:00.000: El elfo recibe apoyo de Nox y relata su entrevista con Bonnie ([12-003](capitulos/12.md)).
-- Cap. 12, 00:08:00.000: Libro entregado por el elfo, oreja perdida y plazo de Bonnie ([12-004](capitulos/12.md)).
-- Cap. 12, 00:20:30.000: El elfo ofrece ocho monedas y Nox recuerda el diez por ciento ([12-006](capitulos/12.md)).
-- Cap. 12, 00:44:30.000: Pinky recibe hojas y se une ([12-013](capitulos/12.md)).
-- Cap. 13, 00:00:00.000: Patata recupera parte de su equipo y Nox reparte las ganancias de una venta ([13-001](capitulos/13.md)).
-- Cap. 13, 00:35:30.000: Ayoto entrega una capa a Pix y Bonnie lo despide ([13-009](capitulos/13.md)).
-- Cap. 13, 00:43:30.000: Nox anuncia un reparto del casino de 35/15/50 ([13-011](capitulos/13.md)).
-- Cap. 14, 00:30:00.000: Sombrero dado al loro y aviso a Bonnie ([14-006](capitulos/14.md)).
-- Cap. 14, 00:51:45.000: Navío visto y Bonnie expulsa al marcado ([14-010](capitulos/14.md)).
-- Cap. 14, 03:01:00.000: Desaparición de la marca y el veneno; Bonnie llama a los hermanos ([14-025](capitulos/14.md)).
-- Cap. 15, 00:07:00.000: Granja de Patata y dos piratas arrastrados ([15-003](capitulos/15.md)).
-- Cap. 15, 00:12:00.000: Patata paga cinco monedas y Bonnie encarga eliminar la amenaza ([15-004](capitulos/15.md)).
-- Cap. 15, 02:50:30.000: Bolsa recuperada y Bonnie paga cincuenta ([15-020](capitulos/15.md)).
-- Cap. 15, 02:54:30.000: Bonnie retiene al elfo por envío tardío ([15-021](capitulos/15.md)).
-- Cap. 16, 00:10:25.000: Conservación del cuerpo del elfo pese al deseo de enterrarlo ([16-004](capitulos/16.md)).
-- Cap. 24, 00:16:00.000: Bonnie encarga matar a los supuestos ladrones ([24-003](capitulos/24.md)).
-- Cap. 24, 02:17:00.000: Bonnie mata a un pirata y reduce el pago ([24-017](capitulos/24.md)).
-- Cap. 24, 02:20:00.000: Din acuerda buscar a Sam por cincuenta monedas ([24-018](capitulos/24.md)).
-- Cap. 24, 02:27:00.000: Bonnie recluta a Coyote como espía ([24-019](capitulos/24.md)).
-- Cap. 24, 02:32:00.000: Ropa, cultivo y reclutamiento ([24-020](capitulos/24.md)).
-- Cap. 25, 00:09:00.000: Noche dispersa en Shiaru ([25-004](capitulos/25.md)).
-- Cap. 26, 00:03:00.000: Abisal en aprendizaje y amuleto sin destino ([26-002](capitulos/26.md)).
-- Cap. 26, 00:20:00.000: Cinco convocados y tesoro disputado ([26-006](capitulos/26.md)).
-- Cap. 28, 01:38:00.000: Jack fingió ser capitán durante la ausencia ([28-018](capitulos/28.md)).
-- Cap. 28, 01:43:00.000: Orbe entregado y visiones enviadas a Bonnie ([28-019](capitulos/28.md)).
-- Cap. 28, 01:50:00.000: Bonnie declara una alianza con Molly para proteger la isla ([28-020](capitulos/28.md)).
-- Cap. 28, 01:53:00.000: Anciana nativa y pacto de intercambio de información ([28-021](capitulos/28.md)).
-- Cap. 28, 02:00:00.000: Ione castiga a Jack y Mugre detiene a Ojo Ausente ([28-022](capitulos/28.md)).
-- Cap. 32, 00:00:00.000: Granja, fuego y ausencia de Bonnie ([32-001](capitulos/32.md)).
-- Cap. 32, 01:26:00.000: Bonnie activa moneda y combate como rayo ([32-014](capitulos/32.md)).
-- Cap. 32, 01:31:00.000: Rayos de Bonnie y huida del general ([32-015](capitulos/32.md)).
-- Cap. 32, 01:58:00.000: Shiaru resiste invasión ([32-017](capitulos/32.md)).
-- Cap. 32, 02:04:00.000: Trato roto y control de Bonnie ([32-018](capitulos/32.md)).
-- Cap. 32, 02:08:00.000: Recompensas y paradero de Citlali ([32-019](capitulos/32.md)).
-- Cap. 32, 02:12:00.000: Bonnie devuelve moneda a Pix y sale ([32-020](capitulos/32.md)).
-- Cap. 33, 00:22:00.000: Bonnie sostiene ficción cortesana ([33-004](capitulos/33.md)).
-- Cap. 33, 01:06:00.000: Eleanor revela expansión territorial ([33-010](capitulos/33.md)).
-- Cap. 34, 00:00:00.000: Recapitulaciones y libertad de Citlali ([34-001](capitulos/34.md)).
-- Cap. 34, 02:39:00.000: Rumbo Cuicapalli con cría ([34-020](capitulos/34.md)).
-- Cap. 35, 00:00:00.000: Casco del gnomo y Molly incomunicada ([35-001](capitulos/35.md)).
-- Cap. 35, 00:20:00.000: Negocios de Nox y nombre Armin ([35-004](capitulos/35.md)).
-- Cap. 35, 00:30:00.000: Moneda antigua y búsqueda Molly ([35-005](capitulos/35.md)).
-- Cap. 35, 02:17:00.000: Pinky recapturada y amenaza a Tórtola ([35-016](capitulos/35.md)).
-- Cap. 35, 02:42:00.000: Bonnie y Molly reencuentran; recompensas ([35-019](capitulos/35.md)).
-- Cap. 36, 00:06:00.000: Botellas en los cañones y convocatoria de Bonnie ([36-002](capitulos/36.md)).
-- Cap. 36, 00:20:00.000: Molly informa de una posición estratégica ([36-004](capitulos/36.md)).
-- Cap. 36, 02:21:00.000: Entrega del cautivo e informe parcial ([36-017](capitulos/36.md)).
-- Cap. 37, 00:16:00.000: La alianza de Eleanor depende del oro ([37-003](capitulos/37.md)).
-- Cap. 37, 00:24:00.000: Emboscada a los suministros con Tlachka al mando ([37-004](capitulos/37.md)).
-- Cap. 37, 00:32:00.000: La esfera reacciona ante Citlali ([37-005](capitulos/37.md)).
-- Cap. 37, 01:57:00.000: Entrega de una carreta y recompensas ([37-015](capitulos/37.md)).
-- Cap. 37, 02:06:00.000: Nox recibe una moneda de oro tras descontar deudas ([37-016](capitulos/37.md)).
-- Cap. 37, 02:09:00.000: Bonnie presta el ojo con una condición que Nox planea incumplir ([37-017](capitulos/37.md)).
-- Cap. 37, 02:14:00.000: Luna roba pólvora y Nox parte hacia el fuerte ([37-018](capitulos/37.md)).
-- Cap. 38, 02:17:00.000: Ione tranquiliza a Poncelot y se revela la propiedad del cofre ([38-018](capitulos/38.md)).
-- Cap. 42, 00:08:05.039: Shiaru reúne a sus defensores en la plaza ([42-006](capitulos/42.md)).
-- Cap. 42, 00:20:27.440: Bonnie reclama la defensa de la libertad de Shiaru ([42-011](capitulos/42.md)).
-- Cap. 42, 00:22:00.919: La moneda de Bonnie acompaña su transformación eléctrica ([42-012](capitulos/42.md)).
-- Cap. 42, 00:30:07.559: Siete barcos piratas salen bajo la tormenta ([42-015](capitulos/42.md)).
-- Cap. 42, 00:31:35.600: La Marina forma dos líneas de fuego frente a los piratas ([42-016](capitulos/42.md)).
-- Cap. 42, 00:37:59.520: El Relámpago del Mar avanza con Bonnie preparando rayos ([42-018](capitulos/42.md)).
-- Cap. 42, 00:40:52.240: Nox advierte del poder de Bonnie y Tórtola muestra una luz verde ([42-020](capitulos/42.md)).
-- Cap. 42, 00:56:31.240: Bonnie descarga rayos sobre la flota ([42-030](capitulos/42.md)).
-- Cap. 42, 01:13:56.560: Los rayos alimentan el barco de Bonnie ([42-039](capitulos/42.md)).
-- Cap. 42, 01:21:29.120: La presión de Marina obliga a varios piratas a virar ([42-043](capitulos/42.md)).
-- Cap. 42, 01:27:39.000: El Relámpago del Mar atraviesa y parte barcos de la Marina ([42-046](capitulos/42.md)).
-- Cap. 42, 01:32:27.000: El ataque de Bonnie anima a unos piratas mientras otros se marchan ([42-048](capitulos/42.md)).
-- Cap. 42, 01:40:50.159: El Relámpago del Mar prepara otra embestida ([42-052](capitulos/42.md)).
-- Cap. 42, 01:47:26.080: La Marina concentra varios flancos contra Bonnie ([42-056](capitulos/42.md)).
-- Cap. 42, 01:55:33.920: Bonnie vuelve a abrirse paso entre la flota ([42-059](capitulos/42.md)).
-- Cap. 42, 02:00:20.239: El Invictus explota contra la flota y los buques restantes se retiran ([42-062](capitulos/42.md)).
-- Cap. 42, 02:07:00.000: La búsqueda entre los restos no encuentra a Nox ([42-064](capitulos/42.md)).
-- Cap. 42, 02:09:35.040: Cuatro reyes piratas destruyen una nueva flota de la Marina ([42-065](capitulos/42.md)).
-- Cap. 42, 02:12:59.000: Bonnie entrega la moneda a Ione y les ordena marcharse ([42-066](capitulos/42.md)).
-- Cap. 42, 02:17:14.319: Los otros reyes rodean al Relámpago del Mar sin su poder mágico ([42-068](capitulos/42.md)).
-- Cap. 42, 02:18:23.399: Bonnie saluda a Diente de Oro, Banana, Sonriente y Taylor ([42-069](capitulos/42.md)).
-- Cap. 42, 02:22:01.359: Taylor dice haber capturado al joven Jackie rumbo a Puerto de Espadas ([42-070](capitulos/42.md)).
-- Cap. 42, 02:22:59.960: Taylor acusa a Bonnie de romper un pacto y ocultar Xoltacan ([42-071](capitulos/42.md)).
-- Cap. 42, 02:23:47.600: Taylor dispara a la frente de Bonnie y el director despide a tres personajes ([42-072](capitulos/42.md)).
-- Cap. 43, 00:00:41.280: Erandy y Eleanor se preparan para la defensa terrestre ([43-002](capitulos/43.md)).
-- Cap. 43, 00:06:34.120: Las defensas de la jungla ya han sido inspeccionadas ([43-005](capitulos/43.md)).
-- Cap. 43, 00:08:03.360: Los habitantes se concentran en Shiaru ([43-006](capitulos/43.md)).
-- Cap. 43, 00:10:14.800: La moneda de Bonnie convoca la tormenta de la partida ([43-007](capitulos/43.md)).
-- Cap. 43, 00:28:25.039: El grupo despliega una emboscada y refuerza sus defensas ([43-016](capitulos/43.md)).
-- Cap. 46, 02:09:03.239: Ione propone recaudar recursos y reunir apoyos para recuperar Shiaru ([46-060](capitulos/46.md)).
-
 ## Broche de Eleanor
 
 - Cap. 43, 00:27:15.159: Eleanor entrega a Molly el broche de su tierra ([43-015](capitulos/43.md)).
@@ -876,25 +987,60 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 33, 00:54:00.000: Cueva y exploración sin luz ([33-009](capitulos/33.md)).
 - Cap. 33, 02:20:00.000: Axi capturado y Poncelot despierto ([33-017](capitulos/33.md)).
 
+## Button
+
+- Cap. 14, 00:12:10.000: Blink recupera su mondadientes ([14-003](capitulos/14.md)).
+- Cap. 16, 00:12:00.000: Baton y Nelli guían a Cuicapalli ([16-005](capitulos/16.md)).
+- Cap. 16, 00:31:30.000: Naór reconoce a Baton y conoce al grupo ([16-007](capitulos/16.md)).
+- Cap. 16, 00:45:15.000: Serpientes derrotadas y Naór libera a Patata ([16-009](capitulos/16.md)).
+- Cap. 16, 01:14:30.000: Blink agranda a Naór y muere el cocodrilo pequeño ([16-011](capitulos/16.md)).
+- Cap. 16, 01:46:25.000: Entrada a Cuicapalli y conversación en Primordial ([16-014](capitulos/16.md)).
+- Cap. 16, 01:50:20.000: Eromov ofrece hospitalidad y reconoce a Naór ([16-015](capitulos/16.md)).
+- Cap. 18, 00:42:00.000: Chocolate y ruta de Baton ([18-008](capitulos/18.md)).
+- Cap. 22, 00:16:00.000: Festival y Guayacán presentado ([22-002](capitulos/22.md)).
+- Cap. 22, 00:53:00.000: Ayoto gana el banquete y un caparazón ([22-006](capitulos/22.md)).
+- Cap. 22, 01:07:00.000: Guayacán gana una carrera con sabotajes ([22-008](capitulos/22.md)).
+- Cap. 44, 01:41:12.400: El herrero exige que Ayoto lleve el material a la tienda ([44-051](capitulos/44.md)).
+
 ## Cabaña del Sueño
 
 - Cap. 16, 02:10:40.000: Comercios de Cuicapalli y tatuajes ([16-018](capitulos/16.md)).
+
+## Cadáveres movidos por raíces de las ruinas del lago
+
+- Cap. 47, 00:33:15.919: Las raíces levantan cadáveres y mueven sus cuerpos ([47-022](capitulos/47.md)).
+- Cap. 47, 00:35:17.960: Tesa advierte de un posible vínculo entre las plantas y el dragón verde ([47-024](capitulos/47.md)).
+- Cap. 47, 00:35:57.800: Mictlan golpea con dos descargas y conserva la distancia ([47-025](capitulos/47.md)).
+- Cap. 47, 00:37:42.920: El disparo de Escupefuego provoca una salpicadura que hiere al grupo ([47-026](capitulos/47.md)).
+- Cap. 47, 00:39:12.520: El fuego no hace daño extra y Tesa busca ocultarse ([47-027](capitulos/47.md)).
+- Cap. 47, 00:39:57.480: Tenta invoca un tentáculo de frío y retrocede ([47-028](capitulos/47.md)).
+- Cap. 47, 00:41:35.640: Las descargas de Tenta empujan y ralentizan ([47-029](capitulos/47.md)).
+- Cap. 47, 00:42:43.839: El aura de un zombi envenena a Patata e impide que se cure ([47-030](capitulos/47.md)).
+- Cap. 47, 00:44:15.200: Patata atemoriza a casi todos los no muertos ([47-031](capitulos/47.md)).
+- Cap. 47, 00:45:07.079: Patata impacta con un ataque de nivel tres ([47-032](capitulos/47.md)).
+- Cap. 47, 00:45:29.000: Los expulsados se apartan de Patata ([47-033](capitulos/47.md)).
+- Cap. 47, 00:47:03.839: Mictlan golpea y sufre el veneno de proximidad ([47-034](capitulos/47.md)).
+- Cap. 47, 00:48:55.520: Tesara dispara para aliviar la presión sobre el felino ([47-035](capitulos/47.md)).
+- Cap. 47, 00:50:28.440: Tentacol controla la distancia con el tentáculo y los rayos ([47-036](capitulos/47.md)).
+- Cap. 47, 00:52:19.839: Mictlan esquiva y Patata sostiene la ofensiva ([47-037](capitulos/47.md)).
+- Cap. 47, 00:57:23.480: El tentáculo amortigua un golpe junto a Mictlan ([47-039](capitulos/47.md)).
+- Cap. 47, 00:59:07.480: Un muerto se levanta y Mictlan lo remata ([47-040](capitulos/47.md)).
+- Cap. 47, 01:01:48.039: Tesara elimina al segundo perseguidor del felino ([47-041](capitulos/47.md)).
+- Cap. 47, 01:03:51.559: Tentacol abate a uno y retrasa a otro ([47-044](capitulos/47.md)).
+- Cap. 47, 01:05:33.279: El grupo mantiene los ataques a distancia ([47-045](capitulos/47.md)).
+- Cap. 47, 01:08:12.680: Tesara derriba a otro muerto y cambia de escondite ([47-046](capitulos/47.md)).
+- Cap. 47, 01:09:04.120: Los rayos y el daño radiante acorralan a los últimos ([47-047](capitulos/47.md)).
+- Cap. 47, 01:11:36.400: Las raíces reúnen los cuerpos en una masa ([47-049](capitulos/47.md)).
+- Cap. 47, 01:19:33.400: Tentacol maldice y desplaza la masa ([47-053](capitulos/47.md)).
+- Cap. 47, 01:21:08.480: Patata evita quedar envuelto en los cadáveres ([47-054](capitulos/47.md)).
+- Cap. 47, 01:23:04.600: Mictlan maldice a la masa y dispara desde lejos ([47-055](capitulos/47.md)).
+- Cap. 47, 01:26:39.159: Tentacol vuelve a apartar la masa de Patata ([47-057](capitulos/47.md)).
+- Cap. 47, 01:28:07.199: Patata deshace la masa y las raíces se retiran ([47-058](capitulos/47.md)).
 
 ## Caja de música de Citlali
 
 - Cap. 43, 00:03:45.400: Citlali recuerda la caja de música y huye de Iktan con la cría ([43-003](capitulos/43.md)).
 - Cap. 43, 01:57:06.040: La caja musical acompaña el duelo de Citlali por Nox ([43-059](capitulos/43.md)).
-
-## Camar Taruan
-
-- Cap. 16, 00:04:30.000: El rey leonino encarga a Naór convocar un concilio ([16-003](capitulos/16.md)).
-- Cap. 16, 01:50:20.000: Eromov ofrece hospitalidad y reconoce a Naór ([16-015](capitulos/16.md)).
-- Cap. 16, 01:58:10.000: Aceptación del concilio de Tutucan condicionada a los problemas locales ([16-016](capitulos/16.md)).
-- Cap. 17, 00:27:20.000: La patrulla busca a quienes destruyeron el poblado ([17-006](capitulos/17.md)).
-- Cap. 20, 00:20:00.000: Una mujer acuática y una riña llevan a Poncelot al grupo ([20-004](capitulos/20.md)).
-- Cap. 31, 02:49:00.000: Gualulu, amiga de la infancia de Naór, y la muerte de su padre ([31-024](capitulos/31.md)).
-- Cap. 31, 03:04:00.000: Naór convoca un concilio y Gualulu apoya al rey ([31-027](capitulos/31.md)).
-- Cap. 45, 03:10:25.239: Ivet reprocha la promesa de unión incumplida y Naór defiende a Atlan ([45-076](capitulos/45.md)).
 
 ## Caparazón del Devorafango
 
@@ -978,6 +1124,36 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 45, 02:49:51.439: Tentacol debilita al último rival y Naór guarda una cabeza para Leo ([45-066](capitulos/45.md)).
 - Cap. 45, 02:55:17.880: Chopito mata al sacerdote que habían conservado inconsciente ([45-069](capitulos/45.md)).
 - Cap. 45, 03:03:19.000: Tentacol recuerda leyendas de un kraken de otro plano ([45-072](capitulos/45.md)).
+- Cap. 47, 00:01:57.840: Tenta sale de Perlasal con Chopito para buscar más súbditos ([47-003](capitulos/47.md)).
+- Cap. 47, 00:13:27.199: Tenta y Chopito salen por otro punto del lago ([47-011](capitulos/47.md)).
+- Cap. 47, 00:14:16.759: Chopito prefiere repartir sus acólitos entre más lugares ([47-012](capitulos/47.md)).
+- Cap. 47, 00:15:22.320: Tesa baja la pistola ante Tenta y Chopito ([47-013](capitulos/47.md)).
+- Cap. 47, 00:18:40.799: Tesa entiende la conversación de Chopito en Aquan ([47-014](capitulos/47.md)).
+- Cap. 47, 00:20:05.320: Patata aparece cubierto de barro y hojas ([47-015](capitulos/47.md)).
+- Cap. 47, 00:22:12.240: Patata conserva su propia fe y Tesa traduce a Chopito ([47-016](capitulos/47.md)).
+- Cap. 47, 00:23:00.520: Patata comunica que otros piratas tomaron Shiaru y destruyeron su casa ([47-017](capitulos/47.md)).
+- Cap. 47, 00:30:15.720: El suelo de las ruinas empieza a moverse ([47-021](capitulos/47.md)).
+- Cap. 47, 00:33:15.919: Las raíces levantan cadáveres y mueven sus cuerpos ([47-022](capitulos/47.md)).
+- Cap. 47, 00:34:41.119: Chopito entinta el tarro ante los cadáveres ([47-023](capitulos/47.md)).
+- Cap. 47, 00:35:17.960: Tesa advierte de un posible vínculo entre las plantas y el dragón verde ([47-024](capitulos/47.md)).
+- Cap. 47, 00:37:42.920: El disparo de Escupefuego provoca una salpicadura que hiere al grupo ([47-026](capitulos/47.md)).
+- Cap. 47, 00:39:57.480: Tenta invoca un tentáculo de frío y retrocede ([47-028](capitulos/47.md)).
+- Cap. 47, 00:41:35.640: Las descargas de Tenta empujan y ralentizan ([47-029](capitulos/47.md)).
+- Cap. 47, 00:50:28.440: Tentacol controla la distancia con el tentáculo y los rayos ([47-036](capitulos/47.md)).
+- Cap. 47, 00:54:45.359: Una voz implanta la necesidad de atraer a dos elfos ([47-038](capitulos/47.md)).
+- Cap. 47, 01:03:07.839: La exigencia consiste en sacar a los elfos de la ciudad ([47-042](capitulos/47.md)).
+- Cap. 47, 01:03:29.039: Chopito convierte la orden en su propio plan de rescate ([47-043](capitulos/47.md)).
+- Cap. 47, 01:03:51.559: Tentacol abate a uno y retrasa a otro ([47-044](capitulos/47.md)).
+- Cap. 47, 01:11:15.719: La voz promete una recompensa por los elfos ([47-048](capitulos/47.md)).
+- Cap. 47, 01:11:36.400: Las raíces reúnen los cuerpos en una masa ([47-049](capitulos/47.md)).
+- Cap. 47, 01:33:29.040: Tentacol se dirige a buscar a los elfos ([47-061](capitulos/47.md)).
+- Cap. 47, 01:40:45.000: Chopito abofetea a Tesara y cuestiona su alarma ([47-066](capitulos/47.md)).
+- Cap. 47, 01:49:04.280: Chopito rechaza que le ofrezcan Perlasal ([47-071](capitulos/47.md)).
+- Cap. 47, 01:53:03.400: La criatura se retira invisible y los viajeros deciden volver ([47-075](capitulos/47.md)).
+- Cap. 47, 01:54:52.360: Tesara sostiene la confianza en sus compañeros elfos ([47-076](capitulos/47.md)).
+- Cap. 47, 01:59:07.079: Tentacol y Chopito imitan la meditación de Tortas ([47-078](capitulos/47.md)).
+- Cap. 47, 02:16:25.119: La imitación de Tortas se presenta como una apariencia de piedra ([47-089](capitulos/47.md)).
+- Cap. 47, 02:17:15.880: Angelique cuenta a Patata su encuentro con Zoltan ([47-090](capitulos/47.md)).
 
 ## Cinco reyes piratas
 
@@ -990,62 +1166,6 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 42, 02:22:59.960: Taylor acusa a Bonnie de romper un pacto y ocultar Xoltacan ([42-071](capitulos/42.md)).
 - Cap. 42, 02:23:47.600: Taylor dispara a la frente de Bonnie y el director despide a tres personajes ([42-072](capitulos/42.md)).
 - Cap. 43, 00:10:14.800: La moneda de Bonnie convoca la tormenta de la partida ([43-007](capitulos/43.md)).
-
-## Cipo
-
-- Cap. 01, 01:30:03.000: Incidente con la criatura ígnea ([01-022](capitulos/01.md)).
-- Cap. 01, 01:45:27.000: Mamá hace salir a la criatura ([01-023](capitulos/01.md)).
-- Cap. 01, 02:03:03.000: Pinky conoce a Cipo ([01-027](capitulos/01.md)).
-- Cap. 02, 01:43:00.000: Pinky pide fuego y Ayoto lo prepara ([02-018](capitulos/02.md)).
-- Cap. 04, 00:38:00.000: Cipo indica la presencia de piratas ([04-011](capitulos/04.md)).
-- Cap. 04, 00:46:35.000: Grupo perdido y hallazgo de piratas ([04-013](capitulos/04.md)).
-- Cap. 04, 01:03:00.000: Emboscada y muerte del pirata auxiliado ([04-016](capitulos/04.md)).
-- Cap. 04, 01:11:00.000: Patata despierta a Ione y cura a Cipo ([04-017](capitulos/04.md)).
-- Cap. 04, 01:19:00.000: Victoria sobre los dinosaurios ([04-018](capitulos/04.md)).
-- Cap. 04, 01:55:00.000: Huida de un dinosaurio volador ([04-025](capitulos/04.md)).
-- Cap. 04, 02:00:55.000: Alojamiento y separación al regreso ([04-027](capitulos/04.md)).
-- Cap. 04, 02:04:00.000: Juego de pelota y Cipo ([04-028](capitulos/04.md)).
-- Cap. 07, 02:18:45.000: El ruido era Cipo, revelación al espectador ([07-028](capitulos/07.md)).
-- Cap. 18, 00:06:00.000: Cipo reúne a los viajeros y evitan un dinosaurio ([18-003](capitulos/18.md)).
-- Cap. 18, 00:16:00.000: Llegada y presentación de Mamá ([18-004](capitulos/18.md)).
-- Cap. 18, 00:50:00.000: Guardianes muertos y curación dañina ([18-009](capitulos/18.md)).
-- Cap. 18, 01:13:00.000: Descubrimiento de la trampa de las miradas ([18-011](capitulos/18.md)).
-- Cap. 18, 01:46:00.000: Emboscada y Cipo como montura ([18-014](capitulos/18.md)).
-- Cap. 18, 02:38:00.000: Prueba y recompensas en Cuicapalli ([18-020](capitulos/18.md)).
-- Cap. 23, 00:06:00.000: Equipo de rescate reunido ([23-002](capitulos/23.md)).
-- Cap. 27, 00:04:00.000: Cipo pide buscar abuela en Cuicapalli ([27-002](capitulos/27.md)).
-- Cap. 27, 00:08:00.000: Tlachka entra sin reconocimiento y comparten ataques ([27-003](capitulos/27.md)).
-- Cap. 27, 01:14:00.000: Ayoto descubierto y primera oleada ([27-011](capitulos/27.md)).
-- Cap. 27, 01:26:00.000: Tlachka sale oculto y Cipo combate ([27-012](capitulos/27.md)).
-- Cap. 27, 01:40:00.000: Refuerzos llegan y repliegue propuesto ([27-013](capitulos/27.md)).
-- Cap. 27, 01:51:00.000: Axi agota las flechas y el jefe menciona a Tórtola ([27-014](capitulos/27.md)).
-- Cap. 27, 02:00:00.000: Guayacán cae y los babuinos intervienen ([27-015](capitulos/27.md)).
-- Cap. 27, 02:10:00.000: Espíritu volador y cocos contra el jefe ([27-016](capitulos/27.md)).
-- Cap. 27, 02:18:00.000: Curación de Guayacán y recuperación de seis flechas ([27-017](capitulos/27.md)).
-- Cap. 27, 02:30:00.000: Babuino muerto y jefe rodeado ([27-018](capitulos/27.md)).
-- Cap. 29, 00:27:00.000: Pinky busca a Cipo y hace crecer cáñamo ([29-007](capitulos/29.md)).
-- Cap. 36, 01:10:00.000: Cipo se oculta entre las ruinas ([36-009](capitulos/36.md)).
-- Cap. 36, 01:26:00.000: Aparece un tiranosaurio y Poncelot carga ([36-011](capitulos/36.md)).
-- Cap. 36, 01:35:00.000: Ione se transforma y muere el tiranosaurio ([36-012](capitulos/36.md)).
-- Cap. 36, 02:21:00.000: Entrega del cautivo e informe parcial ([36-017](capitulos/36.md)).
-- Cap. 40, 00:05:21.280: Cipo rescata un fragmento de espada y Leona guía a Ilikar ([40-003](capitulos/40.md)).
-- Cap. 40, 00:11:26.639: Frutas extrañas y llegada a Iktan ([40-004](capitulos/40.md)).
-- Cap. 40, 00:18:33.760: Saludos del goliat y cautela de Eldrat ([40-005](capitulos/40.md)).
-- Cap. 40, 00:25:50.679: Triel sale al espectáculo y comienza la búsqueda de Cipo ([40-007](capitulos/40.md)).
-- Cap. 40, 00:34:33.760: Ilikar y un guardia buscan al supuesto dragón de fuego ([40-009](capitulos/40.md)).
-- Cap. 41, 00:18:07.000: Tentacol rescata a Cipo del agua y lo acerca al fuego ([41-008](capitulos/41.md)).
-- Cap. 41, 00:21:23.000: Naór ofrece respetos de Atlan y encarga a Leo vigilar la tortuga ([41-009](capitulos/41.md)).
-- Cap. 41, 00:38:03.000: Cipo recupera sus llamas y Naór deja a Leo vigilado ([41-014](capitulos/41.md)).
-- Cap. 41, 00:57:46.000: Vigilancia mágica del festival y presencia de Cipo ([41-024](capitulos/41.md)).
-- Cap. 42, 00:10:43.200: La tripulación sitúa al supuesto dragón de Ilikar en un barril de arena ([42-007](capitulos/42.md)).
-- Cap. 42, 01:08:34.880: Poncelot dispara a Cipo y prende una nave enemiga ([42-036](capitulos/42.md)).
-- Cap. 42, 01:24:34.960: Ilikar se impulsa hacia el barco en llamas y llama a Cipo ([42-045](capitulos/42.md)).
-- Cap. 42, 01:35:06.560: Ilikar y Cipo derriban el mástil de un buque ([42-050](capitulos/42.md)).
-- Cap. 42, 01:49:27.280: Nox cambia los emblemas del Invictus y Pinky prende la pólvora ([42-057](capitulos/42.md)).
-- Cap. 46, 00:00:59.440: Eleanor recuerda la discusión en la playa después de la batalla ([46-001](capitulos/46.md)).
-- Cap. 46, 00:02:19.239: Ione protege al grupo y permanece más seria ([46-002](capitulos/46.md)).
-- Cap. 46, 00:04:39.960: La estampida separa a tres viajeras del grupo que iba a Iktan ([46-004](capitulos/46.md)).
-- Cap. 46, 02:05:47.159: Eleanor comprueba que Erandy está en la taberna ([46-058](capitulos/46.md)).
 
 ## Citlali
 
@@ -1348,9 +1468,69 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 40, 01:02:02.160: Tortas examina la amalgama y el líquido verde ([40-016](capitulos/40.md)).
 - Cap. 40, 01:47:01.520: Se conserva una muestra de un veneno distinto al de los yuan-ti ([40-026](capitulos/40.md)).
 
-## Clodidrax
+## Clolgedranx
 
+- Cap. 31, 01:17:00.000: Naór paralizada y Tesa detecta una criatura enorme ([31-012](capitulos/31.md)).
+- Cap. 31, 01:23:00.000: Una voz conoce intimidades y alza a los muertos con plantas ([31-013](capitulos/31.md)).
+- Cap. 31, 01:36:00.000: Eldrat reconoce al dragón verde y el ácido daña al grupo ([31-015](capitulos/31.md)).
+- Cap. 31, 02:04:00.000: Leo queda envenenado y los compañeros se cubren ([31-018](capitulos/31.md)).
+- Cap. 31, 02:28:00.000: Según los antiguos, un dragón destruyó las casas ([31-021](capitulos/31.md)).
+- Cap. 31, 02:54:00.000: Gualulu afirma que el dragón revive a los muertos ([31-025](capitulos/31.md)).
+- Cap. 31, 03:10:00.000: Confianza limitada y secreto de ruta ([31-028](capitulos/31.md)).
 - Cap. 39, 01:50:00.000: Un dragón invisible ofrece un trato a Citlali ([39-016](capitulos/39.md)).
+- Cap. 40, 00:01:42.600: La enfermedad de Triel y el encargo de Leona ([40-002](capitulos/40.md)).
+- Cap. 40, 00:58:10.319: Voces mentales y vegetación que muere junto a los restos ([40-015](capitulos/40.md)).
+- Cap. 40, 01:02:02.160: Tortas examina la amalgama y el líquido verde ([40-016](capitulos/40.md)).
+- Cap. 40, 01:05:23.960: Triel sigue vendada y la masa de cadáveres se levanta ([40-017](capitulos/40.md)).
+- Cap. 40, 01:45:06.400: Eldrat reprende a Triel y comparte la celebración ([40-025](capitulos/40.md)).
+- Cap. 40, 01:56:02.360: Presentaciones de Tortas y preocupación por el veneno ([40-029](capitulos/40.md)).
+- Cap. 40, 02:02:39.199: La Serpiente del Bosque y la cueva de la emboscada ([40-030](capitulos/40.md)).
+- Cap. 40, 02:05:52.199: Ilikar desafía al dragón y recibe advertencias ([40-031](capitulos/40.md)).
+- Cap. 40, 02:08:20.440: Tortas percibe el deterioro del bosque, no al dragón ([40-032](capitulos/40.md)).
+- Cap. 40, 02:11:01.520: Rastro hacia el norte y decisión de recuperarse ([40-033](capitulos/40.md)).
+- Cap. 40, 02:23:21.439: Iktan recibe al protector y Walulu examina el veneno ([40-035](capitulos/40.md)).
+- Cap. 40, 02:31:24.600: Pacto entre Eldrat e Ilikar para interrogar al dragón ([40-037](capitulos/40.md)).
+- Cap. 40, 02:36:36.680: Origen de Ilikar y posibles aliados en Shiaru ([40-039](capitulos/40.md)).
+- Cap. 41, 00:10:00.000: Blink se une a Naór y escucha la advertencia del bosque ([41-005](capitulos/41.md)).
+- Cap. 41, 02:14:26.760: Una voz obliga a dejar los cuerpos en el bosque ([41-049](capitulos/41.md)).
+- Cap. 41, 02:16:18.119: Chopito presenta al emisor como un súbdito ([41-050](capitulos/41.md)).
+- Cap. 41, 02:16:37.800: Naór evacua al grupo y Winscore ve un dragón verde ([41-051](capitulos/41.md)).
+- Cap. 41, 02:24:09.319: Tortas reconoce el olor del dragón verde en Blink ([41-054](capitulos/41.md)).
+- Cap. 41, 02:26:36.080: Leo llega al encuentro y la guarida sigue sin localizarse ([41-055](capitulos/41.md)).
+- Cap. 42, 00:04:11.920: Ilikar vuelve de Iktan y busca aliados contra el dragón ([42-004](capitulos/42.md)).
+- Cap. 47, 00:01:13.880: Tesa combina el cuidado de Leo con la investigación del dragón ([47-002](capitulos/47.md)).
+- Cap. 47, 00:35:17.960: Tesa advierte de un posible vínculo entre las plantas y el dragón verde ([47-024](capitulos/47.md)).
+- Cap. 47, 00:54:45.359: Una voz implanta la necesidad de atraer a dos elfos ([47-038](capitulos/47.md)).
+- Cap. 47, 01:01:48.039: Tesara elimina al segundo perseguidor del felino ([47-041](capitulos/47.md)).
+- Cap. 47, 01:03:07.839: La exigencia consiste en sacar a los elfos de la ciudad ([47-042](capitulos/47.md)).
+- Cap. 47, 01:03:29.039: Chopito convierte la orden en su propio plan de rescate ([47-043](capitulos/47.md)).
+- Cap. 47, 01:11:15.719: La voz promete una recompensa por los elfos ([47-048](capitulos/47.md)).
+- Cap. 47, 01:11:36.400: Las raíces reúnen los cuerpos en una masa ([47-049](capitulos/47.md)).
+- Cap. 47, 01:14:37.320: Tesara reconoce la voz de la intrusión anterior ([47-050](capitulos/47.md)).
+- Cap. 47, 01:15:32.400: Tesara localiza señales de una criatura que no puede ver ([47-051](capitulos/47.md)).
+- Cap. 47, 01:17:30.400: Una rama rebota en la presencia oculta ([47-052](capitulos/47.md)).
+- Cap. 47, 01:24:48.600: Tesara descubre que la presencia cambió de sitio ([47-056](capitulos/47.md)).
+- Cap. 47, 01:28:07.199: Patata deshace la masa y las raíces se retiran ([47-058](capitulos/47.md)).
+- Cap. 47, 01:31:33.800: Tesara encuentra el nuevo hueco y retrocede en sigilo ([47-060](capitulos/47.md)).
+- Cap. 47, 01:33:29.040: Tentacol se dirige a buscar a los elfos ([47-061](capitulos/47.md)).
+- Cap. 47, 01:35:15.560: La presencia invisible susurra junto al oído de Tesara ([47-064](capitulos/47.md)).
+- Cap. 47, 01:37:15.239: Tesara falla el latigazo y sale de la maleza ([47-065](capitulos/47.md)).
+- Cap. 47, 01:40:45.000: Chopito abofetea a Tesara y cuestiona su alarma ([47-066](capitulos/47.md)).
+- Cap. 47, 01:42:01.679: Tesara defiende a los elfos y recuerda una emboscada anterior ([47-067](capitulos/47.md)).
+- Cap. 47, 01:44:52.920: Las raíces inmovilizan al grupo ([47-068](capitulos/47.md)).
+- Cap. 47, 01:46:39.840: El dragón se muestra y exige a los elfos ([47-069](capitulos/47.md)).
+- Cap. 47, 01:48:20.480: La recompensa ofrecida alcanza los deseos de los viajeros ([47-070](capitulos/47.md)).
+- Cap. 47, 01:49:04.280: Chopito rechaza que le ofrezcan Perlasal ([47-071](capitulos/47.md)).
+- Cap. 47, 01:50:51.119: El dragón declara que alguien paga por los elfos ([47-072](capitulos/47.md)).
+- Cap. 47, 01:51:33.280: El ultimátum da una semana y amenaza a la ciudad ([47-073](capitulos/47.md)).
+- Cap. 47, 01:52:00.000: El dragón nombra a Oliver, hermano de Tesara ([47-074](capitulos/47.md)).
+- Cap. 47, 01:53:03.400: La criatura se retira invisible y los viajeros deciden volver ([47-075](capitulos/47.md)).
+- Cap. 47, 01:54:52.360: Tesara sostiene la confianza en sus compañeros elfos ([47-076](capitulos/47.md)).
+- Cap. 47, 02:04:06.960: Tesara y el felino llevan el aviso a Walulu ([47-081](capitulos/47.md)).
+- Cap. 47, 02:07:40.440: Walulu remite a un antiguo ritual tras el ataque del dragón ([47-082](capitulos/47.md)).
+- Cap. 47, 02:10:27.199: La protección dracónica no detiene por sí sola a la hueste ([47-083](capitulos/47.md)).
+- Cap. 47, 02:12:14.719: Walulu informa de varias guaridas dispersas ([47-084](capitulos/47.md)).
+- Cap. 47, 02:12:58.280: Walulu acepta estudiar una estrategia contra el dragón ([47-085](capitulos/47.md)).
 
 ## Colegio de Iktan
 
@@ -1362,6 +1542,9 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 46, 02:00:55.719: Miausi invita a Citlali a la reunión de madres ([46-055](capitulos/46.md)).
 - Cap. 46, 02:02:00.520: Citlali reprende a Leo y se lleva a Etley ([46-056](capitulos/46.md)).
 - Cap. 46, 02:19:39.960: Citlali intenta enseñar buenos modales a Etley ([46-064](capitulos/46.md)).
+- Cap. 47, 00:03:27.879: Tesa lleva a Leo al colegio y reclama que vuelva su madre ([47-004](capitulos/47.md)).
+- Cap. 47, 00:03:57.720: Leo acusa a una mujer de haberle pegado en el colegio ([47-005](capitulos/47.md)).
+- Cap. 47, 00:04:56.680: Leo entra en el colegio después de provocar a Tesa ([47-006](capitulos/47.md)).
 
 ## Collar antiguo de oro con gemas
 
@@ -1677,84 +1860,11 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 24, 02:32:00.000: Ropa, cultivo y reclutamiento ([24-020](capitulos/24.md)).
 - Cap. 24, 02:40:00.000: Camarotes llenos y el médico prepara máquinas ([24-021](capitulos/24.md)).
 
-## Directora del colegio de Iktan
-
-- Cap. 45, 00:04:14.680: La directora reprocha a Naór la conducta escolar de Leo ([45-003](capitulos/45.md)).
-- Cap. 45, 00:06:26.560: Dos monedas consiguen que Leo permanezca dos horas más ([45-004](capitulos/45.md)).
-
 ## Diálogo
 
 - Cap. 03, 01:43:20.000: Centinela aturdido y disfraz de Nox ([03-021](capitulos/03.md)).
 - Cap. 04, 01:11:00.000: Patata despierta a Ione y cura a Cipo ([04-017](capitulos/04.md)).
 - Cap. 05, 02:06:15.000: Pólvora como garantía y guardia golpeado ([05-025](capitulos/05.md)).
-
-## Dragón de Erendriel
-
-- Cap. 01, 00:08:04.000: Huevo junto al cadáver de un dragón ([01-006](capitulos/01.md)).
-- Cap. 01, 00:19:25.000: Corrección sobre la visibilidad del dragoncito ([01-010](capitulos/01.md)).
-- Cap. 05, 01:24:00.000: Alimentos, frutas y candados ([05-018](capitulos/05.md)).
-- Cap. 07, 00:22:00.000: Se reúne el grupo con el dragón vivo ([07-007](capitulos/07.md)).
-- Cap. 07, 00:30:00.000: Nox se presenta como Jim Hawkins ([07-009](capitulos/07.md)).
-- Cap. 07, 00:42:00.000: Frutas de la expedición ([07-011](capitulos/07.md)).
-- Cap. 07, 01:06:20.000: Mamá derriba al capitán y el elfo vuela ([07-015](capitulos/07.md)).
-- Cap. 07, 01:17:40.000: Nox captura vivo a un pirata ([07-016](capitulos/07.md)).
-- Cap. 07, 01:34:20.000: El dragón cae, pero no muere ([07-019](capitulos/07.md)).
-- Cap. 07, 01:42:00.000: Nox recupera al dragón ([07-020](capitulos/07.md)).
-- Cap. 07, 02:26:00.000: Mapas de la Marina y alojamiento negociado ([07-030](capitulos/07.md)).
-- Cap. 08, 00:28:30.000: Deciden investigar; referencias al plano feérico ([08-011](capitulos/08.md)).
-- Cap. 08, 01:04:00.000: Emboscada de cinco panteras derrotada ([08-017](capitulos/08.md)).
-- Cap. 08, 01:51:20.000: El combate termina con la muerte de la criatura y su reversión a mujer ([08-023](capitulos/08.md)).
-- Cap. 10, 00:22:20.000: Expedición en barca hasta Ruki Peten ([10-009](capitulos/10.md)).
-- Cap. 10, 00:34:15.000: Dos cocodrilos muertos y diente para Axi ([10-012](capitulos/10.md)).
-- Cap. 10, 00:41:15.000: Blink obtiene el mondadientes y el elfo es capturado ([10-013](capitulos/10.md)).
-- Cap. 10, 00:45:15.000: El dragón guía la búsqueda y los guardias detectan a tres compañeros ([10-014](capitulos/10.md)).
-- Cap. 10, 00:50:45.000: Axi recibe una jabalina y sus insultos inician el combate ([10-015](capitulos/10.md)).
-- Cap. 10, 01:27:00.000: Jaula del elfo cerrada y armas retiradas ([10-018](capitulos/10.md)).
-- Cap. 10, 01:50:30.000: Una curación de los espectadores levanta a Axi y el dragón huye ([10-021](capitulos/10.md)).
-- Cap. 10, 02:27:30.000: Ayoto y el elfo regresan sin sus compañeros ni Pix ([10-024](capitulos/10.md)).
-- Cap. 12, 00:41:00.000: Frutas dan curación, elasticidad y caída lenta ([12-012](capitulos/12.md)).
-- Cap. 12, 00:52:30.000: Se infiltran entre ruinas mientras Pinky distrae ([12-015](capitulos/12.md)).
-- Cap. 12, 02:24:00.000: Blink abre la jaula del hombre tigre y deja encerrado al preso feroz ([12-025](capitulos/12.md)).
-- Cap. 15, 00:31:00.000: La espada de Triel tiene escamas de dragón azul ([15-006](capitulos/15.md)).
-- Cap. 15, 00:44:20.000: Frutas: obligación de decir la verdad, inmunidad a las armas y resistencias ([15-008](capitulos/15.md)).
-- Cap. 15, 01:08:15.000: Un cebo permite eliminar a un defensor y el dragón alerta al otro flanco ([15-011](capitulos/15.md)).
-- Cap. 15, 01:19:40.000: Crecimiento espinoso y Espíritus guardianes ([15-012](capitulos/15.md)).
-- Cap. 15, 01:28:20.000: Defensores y dinosaurios presionan a Patata ([15-013](capitulos/15.md)).
-- Cap. 15, 01:44:00.000: Kilzer es derribado y curado antes de auxiliar a Patata ([15-014](capitulos/15.md)).
-- Cap. 15, 02:14:20.000: Triel lucha disfrazada y Axi le dispara por error ([15-016](capitulos/15.md)).
-- Cap. 15, 02:54:30.000: Bonnie retiene al elfo por envío tardío ([15-021](capitulos/15.md)).
-- Cap. 15, 02:56:30.000: Treinta monedas repartidas entre cuatro; el dragón busca a la abuela ([15-022](capitulos/15.md)).
-- Cap. 16, 00:02:20.000: Muerte del elfo referida y búsqueda de templo ([16-002](capitulos/16.md)).
-
-## Dragón verde del bosque de Iktan
-
-- Cap. 31, 01:17:00.000: Naór paralizada y Tesa detecta una criatura enorme ([31-012](capitulos/31.md)).
-- Cap. 31, 01:23:00.000: Una voz conoce intimidades y alza a los muertos con plantas ([31-013](capitulos/31.md)).
-- Cap. 31, 01:36:00.000: Eldrat reconoce al dragón verde y el ácido daña al grupo ([31-015](capitulos/31.md)).
-- Cap. 31, 02:04:00.000: Leo queda envenenado y los compañeros se cubren ([31-018](capitulos/31.md)).
-- Cap. 31, 02:28:00.000: Según los antiguos, un dragón destruyó las casas ([31-021](capitulos/31.md)).
-- Cap. 31, 02:54:00.000: Gualulu afirma que el dragón revive a los muertos ([31-025](capitulos/31.md)).
-- Cap. 31, 03:10:00.000: Confianza limitada y secreto de ruta ([31-028](capitulos/31.md)).
-- Cap. 40, 00:01:42.600: La enfermedad de Triel y el encargo de Leona ([40-002](capitulos/40.md)).
-- Cap. 40, 00:58:10.319: Voces mentales y vegetación que muere junto a los restos ([40-015](capitulos/40.md)).
-- Cap. 40, 01:02:02.160: Tortas examina la amalgama y el líquido verde ([40-016](capitulos/40.md)).
-- Cap. 40, 01:05:23.960: Triel sigue vendada y la masa de cadáveres se levanta ([40-017](capitulos/40.md)).
-- Cap. 40, 01:45:06.400: Eldrat reprende a Triel y comparte la celebración ([40-025](capitulos/40.md)).
-- Cap. 40, 01:56:02.360: Presentaciones de Tortas y preocupación por el veneno ([40-029](capitulos/40.md)).
-- Cap. 40, 02:02:39.199: La Serpiente del Bosque y la cueva de la emboscada ([40-030](capitulos/40.md)).
-- Cap. 40, 02:05:52.199: Ilikar desafía al dragón y recibe advertencias ([40-031](capitulos/40.md)).
-- Cap. 40, 02:08:20.440: Tortas percibe el deterioro del bosque, no al dragón ([40-032](capitulos/40.md)).
-- Cap. 40, 02:11:01.520: Rastro hacia el norte y decisión de recuperarse ([40-033](capitulos/40.md)).
-- Cap. 40, 02:23:21.439: Iktan recibe al protector y Walulu examina el veneno ([40-035](capitulos/40.md)).
-- Cap. 40, 02:31:24.600: Pacto entre Eldrat e Ilikar para interrogar al dragón ([40-037](capitulos/40.md)).
-- Cap. 40, 02:36:36.680: Origen de Ilikar y posibles aliados en Shiaru ([40-039](capitulos/40.md)).
-- Cap. 41, 00:10:00.000: Blink se une a Naór y escucha la advertencia del bosque ([41-005](capitulos/41.md)).
-- Cap. 41, 02:14:26.760: Una voz obliga a dejar los cuerpos en el bosque ([41-049](capitulos/41.md)).
-- Cap. 41, 02:16:18.119: Chopito presenta al emisor como un súbdito ([41-050](capitulos/41.md)).
-- Cap. 41, 02:16:37.800: Naór evacua al grupo y Winscore ve un dragón verde ([41-051](capitulos/41.md)).
-- Cap. 41, 02:24:09.319: Tortas reconoce el olor del dragón verde en Blink ([41-054](capitulos/41.md)).
-- Cap. 41, 02:26:36.080: Leo llega al encuentro y la guarida sigue sin localizarse ([41-055](capitulos/41.md)).
-- Cap. 42, 00:04:11.920: Ilikar vuelve de Iktan y busca aliados contra el dragón ([42-004](capitulos/42.md)).
 
 ## El Bocado del Jaguar
 
@@ -1807,8 +1917,12 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 46, 02:05:47.159: Eleanor comprueba que Erandy está en la taberna ([46-058](capitulos/46.md)).
 - Cap. 46, 02:06:48.360: Ione descubre la ausencia del novato llamado Jacki ([46-059](capitulos/46.md)).
 - Cap. 46, 02:21:14.359: Zoltan y Angelique se retiran a una habitación ([46-066](capitulos/46.md)).
+- Cap. 47, 01:57:54.960: Tesara guía el regreso a Iktan ([47-077](capitulos/47.md)).
+- Cap. 47, 02:00:10.840: Patata encuentra a los piratas en la taberna de Iktan ([47-079](capitulos/47.md)).
+- Cap. 47, 02:02:28.400: Angelique informa de la salida de la elfa y del entrenamiento de su hermano ([47-080](capitulos/47.md)).
+- Cap. 47, 02:17:15.880: Angelique cuenta a Patata su encuentro con Zoltan ([47-090](capitulos/47.md)).
 
-## Eldrat
+## Eldrath
 
 - Cap. 14, 00:00:35.000: Pasado de los dos hermanos presentado al espectador ([14-001](capitulos/14.md)).
 - Cap. 14, 00:03:15.000: Cocodrilo alimentado y panteras derrotadas por los hermanos ([14-002](capitulos/14.md)).
@@ -1914,6 +2028,19 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 40, 02:44:33.840: Leona e Ilikar lanzan a Tortas al lago ([40-041](capitulos/40.md)).
 - Cap. 40, 02:48:50.319: Triel ocupa la piedra sagrada y Eldrat la aparta ([40-042](capitulos/40.md)).
 - Cap. 45, 02:57:37.800: Tentacol encuentra una perla y los compañeros se llevan recuerdos ([45-070](capitulos/45.md)).
+- Cap. 47, 01:42:01.679: Tesara defiende a los elfos y recuerda una emboscada anterior ([47-067](capitulos/47.md)).
+- Cap. 47, 01:46:39.840: El dragón se muestra y exige a los elfos ([47-069](capitulos/47.md)).
+- Cap. 47, 01:48:20.480: La recompensa ofrecida alcanza los deseos de los viajeros ([47-070](capitulos/47.md)).
+- Cap. 47, 01:50:51.119: El dragón declara que alguien paga por los elfos ([47-072](capitulos/47.md)).
+- Cap. 47, 01:51:33.280: El ultimátum da una semana y amenaza a la ciudad ([47-073](capitulos/47.md)).
+- Cap. 47, 01:53:03.400: La criatura se retira invisible y los viajeros deciden volver ([47-075](capitulos/47.md)).
+- Cap. 47, 01:54:52.360: Tesara sostiene la confianza en sus compañeros elfos ([47-076](capitulos/47.md)).
+- Cap. 47, 02:02:28.400: Angelique informa de la salida de la elfa y del entrenamiento de su hermano ([47-080](capitulos/47.md)).
+- Cap. 47, 02:07:40.440: Walulu remite a un antiguo ritual tras el ataque del dragón ([47-082](capitulos/47.md)).
+- Cap. 47, 02:10:27.199: La protección dracónica no detiene por sí sola a la hueste ([47-083](capitulos/47.md)).
+- Cap. 47, 02:12:58.280: Walulu acepta estudiar una estrategia contra el dragón ([47-085](capitulos/47.md)).
+- Cap. 47, 02:13:42.840: El felino prefiere entregar a los elfos y Walulu los acoge ([47-086](capitulos/47.md)).
+- Cap. 47, 02:15:18.639: Tesara y el felino discrepan sobre el sacrificio por un bien mayor ([47-088](capitulos/47.md)).
 
 ## Eleanor
 
@@ -2111,124 +2238,6 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 46, 01:56:01.320: Ione encuentra a la tripulación en la taberna de Iktan ([46-053](capitulos/46.md)).
 - Cap. 46, 02:05:47.159: Eleanor comprueba que Erandy está en la taberna ([46-058](capitulos/46.md)).
 
-## Erendriel
-
-- Cap. 01, 00:05:57.000: Familia y viaje del elfo ([01-005](capitulos/01.md)).
-- Cap. 01, 00:08:04.000: Huevo junto al cadáver de un dragón ([01-006](capitulos/01.md)).
-- Cap. 01, 00:16:50.000: Convergencia de los recién llegados ([01-009](capitulos/01.md)).
-- Cap. 01, 00:19:25.000: Corrección sobre la visibilidad del dragoncito ([01-010](capitulos/01.md)).
-- Cap. 01, 01:00:55.000: Reliquia familiar por reparar ([01-018](capitulos/01.md)).
-- Cap. 01, 01:20:44.000: Pistola ornamentada y conocimiento limitado ([01-020](capitulos/01.md)).
-- Cap. 01, 02:12:39.000: Segundo robo y bolsa para Bonnie ([01-029](capitulos/01.md)).
-- Cap. 05, 00:02:05.000: Trampas de pieles y residencia del elfo ([05-002](capitulos/05.md)).
-- Cap. 05, 00:07:40.000: Emblema y procedencia declarada del collar ([05-005](capitulos/05.md)).
-- Cap. 05, 00:14:00.000: Ione se reúne con Nox y ve al cautivo ([05-006](capitulos/05.md)).
-- Cap. 05, 00:17:00.000: Llega un buque y Bonnie aparta a Jack ([05-007](capitulos/05.md)).
-- Cap. 05, 00:29:00.000: Anillo del elfo y discusión sobre el imperio ([05-010](capitulos/05.md)).
-- Cap. 05, 00:31:50.000: Ropa intercambiada y oferta de botín ([05-011](capitulos/05.md)).
-- Cap. 05, 00:38:35.000: Tortugas marinas: nadar ocultos en barriles ([05-013](capitulos/05.md)).
-- Cap. 05, 00:47:35.000: Cubierta vigilada e Ione descubierta ([05-014](capitulos/05.md)).
-- Cap. 05, 01:02:35.000: La distracción permite bajar a los compañeros ([05-017](capitulos/05.md)).
-- Cap. 05, 01:24:00.000: Alimentos, frutas y candados ([05-018](capitulos/05.md)).
-- Cap. 05, 01:38:30.000: Lunaria abre candados con magia ([05-020](capitulos/05.md)).
-- Cap. 05, 01:41:40.000: Armería saqueada y sabotaje ([05-021](capitulos/05.md)).
-- Cap. 05, 01:44:30.000: Reencuentro y curación de Ione ([05-022](capitulos/05.md)).
-- Cap. 05, 01:52:30.000: Carteles y falsa pista de camarote ([05-023](capitulos/05.md)).
-- Cap. 05, 02:03:00.000: Contrato encontrado y nota dejada ([05-024](capitulos/05.md)).
-- Cap. 05, 02:11:00.000: Magia salvaje y nueva herida ([05-026](capitulos/05.md)).
-- Cap. 05, 02:19:45.000: La amenaza de explosión hace bajar las armas ([05-027](capitulos/05.md)).
-- Cap. 05, 02:29:55.000: Fuego ilusorio y salida del grupo ([05-028](capitulos/05.md)).
-- Cap. 05, 02:36:00.000: La vela lanzada provoca un incendio real ([05-029](capitulos/05.md)).
-- Cap. 05, 02:45:30.000: Lunaria revela la vela y Bonnie impone consecuencias ([05-031](capitulos/05.md)).
-- Cap. 05, 02:52:20.000: Persiguen al visitante y Nox se interesa por los mapas ([05-033](capitulos/05.md)).
-- Cap. 07, 00:04:35.000: Actividad de Lunaria y Erendriel ([07-003](capitulos/07.md)).
-- Cap. 07, 00:22:00.000: Se reúne el grupo con el dragón vivo ([07-007](capitulos/07.md)).
-- Cap. 07, 00:30:00.000: Nox se presenta como Jim Hawkins ([07-009](capitulos/07.md)).
-- Cap. 07, 00:35:35.000: Duelo sin heridas y Mamá intenta detenerlo ([07-010](capitulos/07.md)).
-- Cap. 07, 00:42:00.000: Frutas de la expedición ([07-011](capitulos/07.md)).
-- Cap. 07, 00:47:00.000: Puente, nido y huellas ausentes ([07-012](capitulos/07.md)).
-- Cap. 07, 01:06:20.000: Mamá derriba al capitán y el elfo vuela ([07-015](capitulos/07.md)).
-- Cap. 07, 01:25:20.000: La criatura voladora derriba a Erendriel ([07-017](capitulos/07.md)).
-- Cap. 07, 01:30:10.000: Mapa, siete monedas y rescate del elfo ([07-018](capitulos/07.md)).
-- Cap. 07, 01:34:20.000: El dragón cae, pero no muere ([07-019](capitulos/07.md)).
-- Cap. 07, 01:44:00.000: Criatura y piratas derrotados, una huye ([07-021](capitulos/07.md)).
-- Cap. 07, 01:50:15.000: Cautivo atado, plumas y anatomía ([07-022](capitulos/07.md)).
-- Cap. 07, 02:06:45.000: Perla y copia de escrituras desconocidas ([07-026](capitulos/07.md)).
-- Cap. 07, 02:14:15.000: Cría, venta y huida por un ruido ([07-027](capitulos/07.md)).
-- Cap. 07, 02:18:45.000: El ruido era Cipo, revelación al espectador ([07-028](capitulos/07.md)).
-- Cap. 07, 02:26:00.000: Mapas de la Marina y alojamiento negociado ([07-030](capitulos/07.md)).
-- Cap. 07, 02:30:00.000: Mamá prepara la crianza y Patata compra un hacha ([07-031](capitulos/07.md)).
-- Cap. 07, 02:46:10.000: Lunaria gana la apuesta y Patata corta árboles ([07-034](capitulos/07.md)).
-- Cap. 08, 00:04:00.000: Kilzer y el elfo pasan por el hospital ([08-003](capitulos/08.md)).
-- Cap. 08, 00:16:00.000: El elfo rechaza la amputación propuesta por el médico ([08-006](capitulos/08.md)).
-- Cap. 08, 00:19:50.000: El elfo utiliza el nombre Salazor ([08-007](capitulos/08.md)).
-- Cap. 08, 00:28:30.000: Deciden investigar; referencias al plano feérico ([08-011](capitulos/08.md)).
-- Cap. 08, 00:35:30.000: Encuentran a Ayoto y un cadáver ([08-012](capitulos/08.md)).
-- Cap. 08, 00:47:20.000: El loro roba una bolsa y Blink finge ser el dios Sol ([08-014](capitulos/08.md)).
-- Cap. 08, 01:04:00.000: Emboscada de cinco panteras derrotada ([08-017](capitulos/08.md)).
-- Cap. 08, 01:29:40.000: Curación y objetos de los cadáveres ([08-019](capitulos/08.md)).
-- Cap. 08, 01:34:20.000: Templo asociado a una civilización de nawals ([08-020](capitulos/08.md)).
-- Cap. 08, 01:40:20.000: Interior con diario en Terran y muerto colgado ([08-021](capitulos/08.md)).
-- Cap. 08, 01:46:20.000: Una figura se transforma en pantera bípeda y ataca ([08-022](capitulos/08.md)).
-- Cap. 08, 01:51:20.000: El combate termina con la muerte de la criatura y su reversión a mujer ([08-023](capitulos/08.md)).
-- Cap. 08, 02:06:20.000: Libro, mortero y cuerpo para consulta posterior ([08-024](capitulos/08.md)).
-- Cap. 08, 02:12:40.000: Descanso de ocho horas y vuelta nocturna ([08-025](capitulos/08.md)).
-- Cap. 08, 02:23:50.000: Pantera al pozo, loro huido y espada rota ([08-027](capitulos/08.md)).
-- Cap. 10, 00:02:45.000: El elfo estudia el diario sin entenderlo ([10-002](capitulos/10.md)).
-- Cap. 10, 00:08:30.000: Pix desaparece tras tirar basura al agua ([10-005](capitulos/10.md)).
-- Cap. 10, 00:11:25.000: Blink conoce la desaparición por el relato del elfo ([10-006](capitulos/10.md)).
-- Cap. 10, 00:18:00.000: Bonnie impone el rescate de Pix vivo ([10-008](capitulos/10.md)).
-- Cap. 10, 00:22:20.000: Expedición en barca hasta Ruki Peten ([10-009](capitulos/10.md)).
-- Cap. 10, 00:30:00.000: Objeto del capítulo 8 aclarado como pergamino de truco ([10-011](capitulos/10.md)).
-- Cap. 10, 00:34:15.000: Dos cocodrilos muertos y diente para Axi ([10-012](capitulos/10.md)).
-- Cap. 10, 00:41:15.000: Blink obtiene el mondadientes y el elfo es capturado ([10-013](capitulos/10.md)).
-- Cap. 10, 00:54:30.000: Patata combate al frente y llegan refuerzos ([10-016](capitulos/10.md)).
-- Cap. 10, 01:14:30.000: El elfo se desata, pero sigue encerrado ([10-017](capitulos/10.md)).
-- Cap. 10, 01:27:00.000: Jaula del elfo cerrada y armas retiradas ([10-018](capitulos/10.md)).
-- Cap. 10, 01:41:00.000: Calmar emociones no afecta a los cocodrilos y el elfo escapa ([10-020](capitulos/10.md)).
-- Cap. 10, 01:50:30.000: Una curación de los espectadores levanta a Axi y el dragón huye ([10-021](capitulos/10.md)).
-- Cap. 10, 02:01:30.000: Axi vuelve a caer ante el martillo y Blink intenta ayudar ([10-022](capitulos/10.md)).
-- Cap. 10, 02:27:30.000: Ayoto y el elfo regresan sin sus compañeros ni Pix ([10-024](capitulos/10.md)).
-- Cap. 10, 02:31:00.000: Ayoto informa del fracaso a Bonnie ([10-025](capitulos/10.md)).
-- Cap. 10, 02:34:40.000: Bonnie exige una nueva expedición y mata a un pirata como ejemplo ([10-026](capitulos/10.md)).
-- Cap. 11, 00:49:15.000: Nox ofrece un negocio y resume el informe del elfo ([11-012](capitulos/11.md)).
-- Cap. 12, 00:05:00.000: El elfo recibe apoyo de Nox y relata su entrevista con Bonnie ([12-003](capitulos/12.md)).
-- Cap. 12, 00:08:00.000: Libro entregado por el elfo, oreja perdida y plazo de Bonnie ([12-004](capitulos/12.md)).
-- Cap. 12, 00:15:20.000: Pix tiene el mondadientes de Blink ([12-005](capitulos/12.md)).
-- Cap. 12, 00:20:30.000: El elfo ofrece ocho monedas y Nox recuerda el diez por ciento ([12-006](capitulos/12.md)).
-- Cap. 12, 00:24:15.000: Jack debe ir a Puerto de Espadas y volver con ganancias ([12-007](capitulos/12.md)).
-- Cap. 12, 00:26:55.000: Contenido e identificación del diario del nawal ([12-008](capitulos/12.md)).
-- Cap. 12, 00:31:45.000: Blink guía hacia un campamento que recuerda al sur de su árbol ([12-010](capitulos/12.md)).
-- Cap. 12, 00:36:25.000: Arco comprado y palabra papaya para cambios de Ione ([12-011](capitulos/12.md)).
-- Cap. 12, 00:41:00.000: Frutas dan curación, elasticidad y caída lenta ([12-012](capitulos/12.md)).
-- Cap. 12, 00:48:30.000: Ione equipa a Axi, que fabrica un arco imperfecto ([12-014](capitulos/12.md)).
-- Cap. 12, 00:52:30.000: Se infiltran entre ruinas mientras Pinky distrae ([12-015](capitulos/12.md)).
-- Cap. 12, 01:19:00.000: Guardia reducido por Ione y Blink; otros no ven todo ([12-018](capitulos/12.md)).
-- Cap. 12, 01:59:30.000: El elfo utiliza las coberturas y Nox el libro con el glifo ([12-022](capitulos/12.md)).
-- Cap. 12, 02:24:00.000: Blink abre la jaula del hombre tigre y deja encerrado al preso feroz ([12-025](capitulos/12.md)).
-- Cap. 12, 02:46:00.000: Ione devuelve una bala y Nox deja al capitán vivo e inconsciente ([12-027](capitulos/12.md)).
-- Cap. 12, 02:56:10.000: Últimos enemigos abatidos y mujer auxiliada ([12-028](capitulos/12.md)).
-- Cap. 12, 03:08:30.000: Blink toma una perla y el elfo registra los cuerpos ([12-031](capitulos/12.md)).
-- Cap. 12, 03:10:00.000: El capitán queda con una carta y no es interrogado ([12-032](capitulos/12.md)).
-- Cap. 15, 00:03:20.000: Triel quiere ser capitana y el elfo prepara el envío de Jack ([15-002](capitulos/15.md)).
-- Cap. 15, 00:18:40.000: El grupo se reúne y Axi compra flechas y armadura ([15-005](capitulos/15.md)).
-- Cap. 15, 00:31:00.000: La espada de Triel tiene escamas de dragón azul ([15-006](capitulos/15.md)).
-- Cap. 15, 00:44:20.000: Frutas: obligación de decir la verdad, inmunidad a las armas y resistencias ([15-008](capitulos/15.md)).
-- Cap. 15, 01:08:15.000: Un cebo permite eliminar a un defensor y el dragón alerta al otro flanco ([15-011](capitulos/15.md)).
-- Cap. 15, 01:19:40.000: Crecimiento espinoso y Espíritus guardianes ([15-012](capitulos/15.md)).
-- Cap. 15, 01:28:20.000: Defensores y dinosaurios presionan a Patata ([15-013](capitulos/15.md)).
-- Cap. 15, 01:44:00.000: Kilzer es derribado y curado antes de auxiliar a Patata ([15-014](capitulos/15.md)).
-- Cap. 15, 02:00:00.000: Refuerzos y jefe; Axi inmune pero envenenado ([15-015](capitulos/15.md)).
-- Cap. 15, 02:31:10.000: El rival se levanta y Eldrat lo remata ([15-017](capitulos/15.md)).
-- Cap. 15, 02:46:20.000: Tatuajes copiados, miasma y pociones en un hoyo ([15-019](capitulos/15.md)).
-- Cap. 15, 02:54:30.000: Bonnie retiene al elfo por envío tardío ([15-021](capitulos/15.md)).
-- Cap. 15, 02:56:30.000: Treinta monedas repartidas entre cuatro; el dragón busca a la abuela ([15-022](capitulos/15.md)).
-- Cap. 16, 00:02:20.000: Muerte del elfo referida y búsqueda de templo ([16-002](capitulos/16.md)).
-- Cap. 16, 00:10:25.000: Conservación del cuerpo del elfo pese al deseo de enterrarlo ([16-004](capitulos/16.md)).
-- Cap. 17, 00:04:35.000: Axi contratado para detectar tramposos ([17-002](capitulos/17.md)).
-- Cap. 29, 00:09:00.000: El cadáver del elfo cae y el tigre se lo lleva ([29-003](capitulos/29.md)).
-- Cap. 34, 00:30:00.000: Origen del huevo y barrido mental ([34-005](capitulos/34.md)).
-
 ## Eromov
 
 - Cap. 16, 01:50:20.000: Eromov ofrece hospitalidad y reconoce a Naór ([16-015](capitulos/16.md)).
@@ -2284,6 +2293,11 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 45, 02:06:03.239: Tortas entra en el agua y se repliega en el caparazón ([45-049](capitulos/45.md)).
 - Cap. 45, 03:00:59.239: Naór percibe magia concentrada en el altar y en toda el agua ([45-071](capitulos/45.md)).
 
+## Escupefuego
+
+- Cap. 47, 00:37:42.920: El disparo de Escupefuego provoca una salpicadura que hiere al grupo ([47-026](capitulos/47.md)).
+- Cap. 47, 00:39:12.520: El fuego no hace daño extra y Tesa busca ocultarse ([47-027](capitulos/47.md)).
+
 ## Espada azul de escamas de Triel
 
 - Cap. 14, 00:03:15.000: Cocodrilo alimentado y panteras derrotadas por los hermanos ([14-002](capitulos/14.md)).
@@ -2306,7 +2320,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 
 - Cap. 43, 01:09:48.000: Eleanor marca la retaguardia y llama a cargar ([43-035](capitulos/43.md)).
 
-## Etley
+## Eztli
 
 - Cap. 34, 02:32:00.000: Eclosiona bebé dinosaurio ([34-018](capitulos/34.md)).
 - Cap. 34, 02:36:00.000: Cría mata y come capitán perseguidor ([34-019](capitulos/34.md)).
@@ -2425,6 +2439,14 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 15, 00:07:00.000: Granja de Patata y dos piratas arrastrados ([15-003](capitulos/15.md)).
 - Cap. 15, 00:36:00.000: Diosa de Patata y rastros hacia el sur ([15-007](capitulos/15.md)).
 - Cap. 16, 00:00:00.000: Mapa de la Marina perdido y Patata Hammer ([16-001](capitulos/16.md)).
+- Cap. 47, 00:00:21.760: Patata encuentra su huerto destruido y el cuerpo de Bonny expuesto ([47-001](capitulos/47.md)).
+- Cap. 47, 00:23:00.520: Patata comunica que otros piratas tomaron Shiaru y destruyeron su casa ([47-017](capitulos/47.md)).
+
+## Guardia de Iktan
+
+- Cap. 47, 02:10:27.199: La protección dracónica no detiene por sí sola a la hueste ([47-083](capitulos/47.md)).
+- Cap. 47, 02:12:14.719: Walulu informa de varias guaridas dispersas ([47-084](capitulos/47.md)).
+- Cap. 47, 02:13:42.840: El felino prefiere entregar a los elfos y Walulu los acoge ([47-086](capitulos/47.md)).
 
 ## Guayacán
 
@@ -2637,6 +2659,18 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 46, 02:15:37.639: La búsqueda de comprador separa a Ione de Citlali ([46-062](capitulos/46.md)).
 - Cap. 46, 02:17:24.120: Froger compra el collar a Ione por veinticuatro monedas ([46-063](capitulos/46.md)).
 - Cap. 46, 02:20:18.479: Eleanor vende los objetos que llevaba ([46-065](capitulos/46.md)).
+- Cap. 47, 00:01:57.840: Tenta sale de Perlasal con Chopito para buscar más súbditos ([47-003](capitulos/47.md)).
+- Cap. 47, 00:03:27.879: Tesa lleva a Leo al colegio y reclama que vuelva su madre ([47-004](capitulos/47.md)).
+- Cap. 47, 00:06:24.800: Angelique tolera a unos clientes nuevos porque pagan bien ([47-007](capitulos/47.md)).
+- Cap. 47, 00:10:49.279: Angelique da a Tesa el camino hacia las ruinas ([47-009](capitulos/47.md)).
+- Cap. 47, 00:14:16.759: Chopito prefiere repartir sus acólitos entre más lugares ([47-012](capitulos/47.md)).
+- Cap. 47, 01:51:33.280: El ultimátum da una semana y amenaza a la ciudad ([47-073](capitulos/47.md)).
+- Cap. 47, 01:57:54.960: Tesara guía el regreso a Iktan ([47-077](capitulos/47.md)).
+- Cap. 47, 01:59:07.079: Tentacol y Chopito imitan la meditación de Tortas ([47-078](capitulos/47.md)).
+- Cap. 47, 02:04:06.960: Tesara y el felino llevan el aviso a Walulu ([47-081](capitulos/47.md)).
+- Cap. 47, 02:07:40.440: Walulu remite a un antiguo ritual tras el ataque del dragón ([47-082](capitulos/47.md)).
+- Cap. 47, 02:10:27.199: La protección dracónica no detiene por sí sola a la hueste ([47-083](capitulos/47.md)).
+- Cap. 47, 02:13:42.840: El felino prefiere entregar a los elfos y Walulu los acoge ([47-086](capitulos/47.md)).
 
 ## Ilikar
 
@@ -3111,6 +3145,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 46, 02:15:37.639: La búsqueda de comprador separa a Ione de Citlali ([46-062](capitulos/46.md)).
 - Cap. 46, 02:17:24.120: Froger compra el collar a Ione por veinticuatro monedas ([46-063](capitulos/46.md)).
 - Cap. 46, 02:21:14.359: Zoltan y Angelique se retiran a una habitación ([46-066](capitulos/46.md)).
+- Cap. 47, 02:00:10.840: Patata encuentra a los piratas en la taberna de Iktan ([47-079](capitulos/47.md)).
 
 ## Ivet
 
@@ -3186,6 +3221,17 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 ## Juana
 
 - Cap. 14, 00:16:00.000: Patata vende jade a Liz por cincuenta ([14-004](capitulos/14.md)).
+
+## Kamar Tar’Khuan
+
+- Cap. 16, 00:04:30.000: El rey leonino encarga a Naór convocar un concilio ([16-003](capitulos/16.md)).
+- Cap. 16, 01:50:20.000: Eromov ofrece hospitalidad y reconoce a Naór ([16-015](capitulos/16.md)).
+- Cap. 16, 01:58:10.000: Aceptación del concilio de Tutucan condicionada a los problemas locales ([16-016](capitulos/16.md)).
+- Cap. 17, 00:27:20.000: La patrulla busca a quienes destruyeron el poblado ([17-006](capitulos/17.md)).
+- Cap. 20, 00:20:00.000: Una mujer acuática y una riña llevan a Poncelot al grupo ([20-004](capitulos/20.md)).
+- Cap. 31, 02:49:00.000: Gualulu, amiga de la infancia de Naór, y la muerte de su padre ([31-024](capitulos/31.md)).
+- Cap. 31, 03:04:00.000: Naór convoca un concilio y Gualulu apoya al rey ([31-027](capitulos/31.md)).
+- Cap. 45, 03:10:25.239: Ivet reprocha la promesa de unión incumplida y Naór defiende a Atlan ([45-076](capitulos/45.md)).
 
 ## Kilzer
 
@@ -3454,6 +3500,11 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 46, 01:58:52.520: Citlali encuentra a Etley con Leo a la salida del colegio ([46-054](capitulos/46.md)).
 - Cap. 46, 02:02:00.520: Citlali reprende a Leo y se lleva a Etley ([46-056](capitulos/46.md)).
 - Cap. 46, 02:19:39.960: Citlali intenta enseñar buenos modales a Etley ([46-064](capitulos/46.md)).
+- Cap. 47, 00:01:13.880: Tesa combina el cuidado de Leo con la investigación del dragón ([47-002](capitulos/47.md)).
+- Cap. 47, 00:03:27.879: Tesa lleva a Leo al colegio y reclama que vuelva su madre ([47-004](capitulos/47.md)).
+- Cap. 47, 00:03:57.720: Leo acusa a una mujer de haberle pegado en el colegio ([47-005](capitulos/47.md)).
+- Cap. 47, 00:04:56.680: Leo entra en el colegio después de provocar a Tesa ([47-006](capitulos/47.md)).
+- Cap. 47, 02:14:38.559: Walulu quiere hablar con Naór y pide compañía para una reunión futura ([47-087](capitulos/47.md)).
 
 ## Leona
 
@@ -3570,6 +3621,11 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 44, 01:43:32.159: Leona y Guayacán priorizan descansar y comer ([44-052](capitulos/44.md)).
 - Cap. 44, 01:48:50.360: Leona prueba la carne y resiste la salsa más picante ([44-054](capitulos/44.md)).
 - Cap. 44, 01:53:33.719: El remedio de Parroter reduce las venas negras de Eromov ([44-056](capitulos/44.md)).
+
+## Libro histórico mostrado por Walulu
+
+- Cap. 47, 02:07:40.440: Walulu remite a un antiguo ritual tras el ataque del dragón ([47-082](capitulos/47.md)).
+- Cap. 47, 02:12:58.280: Walulu acepta estudiar una estrategia contra el dragón ([47-085](capitulos/47.md)).
 
 ## Liz
 
@@ -4123,6 +4179,46 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 46, 02:00:55.719: Miausi invita a Citlali a la reunión de madres ([46-055](capitulos/46.md)).
 - Cap. 46, 02:02:00.520: Citlali reprende a Leo y se lleva a Etley ([46-056](capitulos/46.md)).
 
+## Miaussy
+
+- Cap. 45, 00:04:14.680: La directora reprocha a Naór la conducta escolar de Leo ([45-003](capitulos/45.md)).
+- Cap. 45, 00:06:26.560: Dos monedas consiguen que Leo permanezca dos horas más ([45-004](capitulos/45.md)).
+
+## Mictlan
+
+- Cap. 47, 00:25:25.360: Un felino camuflado se presenta como Mictlan ([47-019](capitulos/47.md)).
+- Cap. 47, 00:28:18.399: Mictlan permite que Tesa estudie si no comete sacrilegio ([47-020](capitulos/47.md)).
+- Cap. 47, 00:30:15.720: El suelo de las ruinas empieza a moverse ([47-021](capitulos/47.md)).
+- Cap. 47, 00:33:15.919: Las raíces levantan cadáveres y mueven sus cuerpos ([47-022](capitulos/47.md)).
+- Cap. 47, 00:35:17.960: Tesa advierte de un posible vínculo entre las plantas y el dragón verde ([47-024](capitulos/47.md)).
+- Cap. 47, 00:35:57.800: Mictlan golpea con dos descargas y conserva la distancia ([47-025](capitulos/47.md)).
+- Cap. 47, 00:37:42.920: El disparo de Escupefuego provoca una salpicadura que hiere al grupo ([47-026](capitulos/47.md)).
+- Cap. 47, 00:47:03.839: Mictlan golpea y sufre el veneno de proximidad ([47-034](capitulos/47.md)).
+- Cap. 47, 00:48:55.520: Tesara dispara para aliviar la presión sobre el felino ([47-035](capitulos/47.md)).
+- Cap. 47, 00:52:19.839: Mictlan esquiva y Patata sostiene la ofensiva ([47-037](capitulos/47.md)).
+- Cap. 47, 00:54:45.359: Una voz implanta la necesidad de atraer a dos elfos ([47-038](capitulos/47.md)).
+- Cap. 47, 00:57:23.480: El tentáculo amortigua un golpe junto a Mictlan ([47-039](capitulos/47.md)).
+- Cap. 47, 00:59:07.480: Un muerto se levanta y Mictlan lo remata ([47-040](capitulos/47.md)).
+- Cap. 47, 01:01:48.039: Tesara elimina al segundo perseguidor del felino ([47-041](capitulos/47.md)).
+- Cap. 47, 01:03:07.839: La exigencia consiste en sacar a los elfos de la ciudad ([47-042](capitulos/47.md)).
+- Cap. 47, 01:05:33.279: El grupo mantiene los ataques a distancia ([47-045](capitulos/47.md)).
+- Cap. 47, 01:11:15.719: La voz promete una recompensa por los elfos ([47-048](capitulos/47.md)).
+- Cap. 47, 01:11:36.400: Las raíces reúnen los cuerpos en una masa ([47-049](capitulos/47.md)).
+- Cap. 47, 01:17:30.400: Una rama rebota en la presencia oculta ([47-052](capitulos/47.md)).
+- Cap. 47, 01:23:04.600: Mictlan maldice a la masa y dispara desde lejos ([47-055](capitulos/47.md)).
+- Cap. 47, 01:30:27.679: Mictlan busca a los compañeros y no encuentra a Tesara ([47-059](capitulos/47.md)).
+- Cap. 47, 01:33:46.719: Patata ofrece ayuda y pregunta el nombre del felino ([47-062](capitulos/47.md)).
+- Cap. 47, 01:34:05.719: Patata desaparece durante la curación y vuelve a ser visible ([47-063](capitulos/47.md)).
+- Cap. 47, 01:44:52.920: Las raíces inmovilizan al grupo ([47-068](capitulos/47.md)).
+- Cap. 47, 01:46:39.840: El dragón se muestra y exige a los elfos ([47-069](capitulos/47.md)).
+- Cap. 47, 01:54:52.360: Tesara sostiene la confianza en sus compañeros elfos ([47-076](capitulos/47.md)).
+- Cap. 47, 01:57:54.960: Tesara guía el regreso a Iktan ([47-077](capitulos/47.md)).
+- Cap. 47, 02:04:06.960: Tesara y el felino llevan el aviso a Walulu ([47-081](capitulos/47.md)).
+- Cap. 47, 02:13:42.840: El felino prefiere entregar a los elfos y Walulu los acoge ([47-086](capitulos/47.md)).
+- Cap. 47, 02:15:18.639: Tesara y el felino discrepan sobre el sacrificio por un bien mayor ([47-088](capitulos/47.md)).
+- Cap. 47, 02:16:25.119: La imitación de Tortas se presenta como una apariencia de piedra ([47-089](capitulos/47.md)).
+- Cap. 47, 02:17:15.880: Angelique cuenta a Patata su encuentro con Zoltan ([47-090](capitulos/47.md)).
+
 ## Mingo
 
 - Cap. 12, 00:28:50.000: Jack informa de Fuerte Aurora; Nox busca tres compañeros ([12-009](capitulos/12.md)).
@@ -4414,6 +4510,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 45, 03:11:50.040: La invitación al concilio queda pendiente de decisión ([45-077](capitulos/45.md)).
 - Cap. 46, 02:00:55.719: Miausi invita a Citlali a la reunión de madres ([46-055](capitulos/46.md)).
 - Cap. 46, 02:02:00.520: Citlali reprende a Leo y se lleva a Etley ([46-056](capitulos/46.md)).
+- Cap. 47, 02:14:38.559: Walulu quiere hablar con Naór y pide compañía para una reunión futura ([47-087](capitulos/47.md)).
 
 ## Negociación
 
@@ -4846,6 +4943,10 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 37, 02:14:00.000: Luna roba pólvora y Nox parte hacia el fuerte ([37-018](capitulos/37.md)).
 - Cap. 42, 01:58:47.960: Los tatuajes y el orbe preceden a la decisión de Nox de quedarse ([42-061](capitulos/42.md)).
 
+## Oliver
+
+- Cap. 47, 01:52:00.000: El dragón nombra a Oliver, hermano de Tesara ([47-074](capitulos/47.md)).
+
 ## Parroter
 
 - Cap. 16, 01:46:25.000: Entrada a Cuicapalli y conversación en Primordial ([16-014](capitulos/16.md)).
@@ -5036,11 +5137,47 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 35, 02:42:00.000: Bonnie y Molly reencuentran; recompensas ([35-019](capitulos/35.md)).
 - Cap. 35, 02:51:00.000: Nox pide conversación con Molly ([35-020](capitulos/35.md)).
 - Cap. 46, 02:13:10.440: Citlali explica a Ione el drenaje como parte de su maldición ([46-061](capitulos/46.md)).
+- Cap. 47, 00:00:21.760: Patata encuentra su huerto destruido y el cuerpo de Bonny expuesto ([47-001](capitulos/47.md)).
+- Cap. 47, 00:20:05.320: Patata aparece cubierto de barro y hojas ([47-015](capitulos/47.md)).
+- Cap. 47, 00:22:12.240: Patata conserva su propia fe y Tesa traduce a Chopito ([47-016](capitulos/47.md)).
+- Cap. 47, 00:23:00.520: Patata comunica que otros piratas tomaron Shiaru y destruyeron su casa ([47-017](capitulos/47.md)).
+- Cap. 47, 00:24:06.960: Patata lava su armadura en el lago ([47-018](capitulos/47.md)).
+- Cap. 47, 00:30:15.720: El suelo de las ruinas empieza a moverse ([47-021](capitulos/47.md)).
+- Cap. 47, 00:33:15.919: Las raíces levantan cadáveres y mueven sus cuerpos ([47-022](capitulos/47.md)).
+- Cap. 47, 00:35:17.960: Tesa advierte de un posible vínculo entre las plantas y el dragón verde ([47-024](capitulos/47.md)).
+- Cap. 47, 00:37:42.920: El disparo de Escupefuego provoca una salpicadura que hiere al grupo ([47-026](capitulos/47.md)).
+- Cap. 47, 00:42:43.839: El aura de un zombi envenena a Patata e impide que se cure ([47-030](capitulos/47.md)).
+- Cap. 47, 00:44:15.200: Patata atemoriza a casi todos los no muertos ([47-031](capitulos/47.md)).
+- Cap. 47, 00:45:07.079: Patata impacta con un ataque de nivel tres ([47-032](capitulos/47.md)).
+- Cap. 47, 00:45:29.000: Los expulsados se apartan de Patata ([47-033](capitulos/47.md)).
+- Cap. 47, 00:52:19.839: Mictlan esquiva y Patata sostiene la ofensiva ([47-037](capitulos/47.md)).
+- Cap. 47, 00:54:45.359: Una voz implanta la necesidad de atraer a dos elfos ([47-038](capitulos/47.md)).
+- Cap. 47, 00:59:07.480: Un muerto se levanta y Mictlan lo remata ([47-040](capitulos/47.md)).
+- Cap. 47, 01:03:07.839: La exigencia consiste en sacar a los elfos de la ciudad ([47-042](capitulos/47.md)).
+- Cap. 47, 01:05:33.279: El grupo mantiene los ataques a distancia ([47-045](capitulos/47.md)).
+- Cap. 47, 01:09:04.120: Los rayos y el daño radiante acorralan a los últimos ([47-047](capitulos/47.md)).
+- Cap. 47, 01:11:15.719: La voz promete una recompensa por los elfos ([47-048](capitulos/47.md)).
+- Cap. 47, 01:11:36.400: Las raíces reúnen los cuerpos en una masa ([47-049](capitulos/47.md)).
+- Cap. 47, 01:17:30.400: Una rama rebota en la presencia oculta ([47-052](capitulos/47.md)).
+- Cap. 47, 01:21:08.480: Patata evita quedar envuelto en los cadáveres ([47-054](capitulos/47.md)).
+- Cap. 47, 01:23:04.600: Mictlan maldice a la masa y dispara desde lejos ([47-055](capitulos/47.md)).
+- Cap. 47, 01:26:39.159: Tentacol vuelve a apartar la masa de Patata ([47-057](capitulos/47.md)).
+- Cap. 47, 01:28:07.199: Patata deshace la masa y las raíces se retiran ([47-058](capitulos/47.md)).
+- Cap. 47, 01:30:27.679: Mictlan busca a los compañeros y no encuentra a Tesara ([47-059](capitulos/47.md)).
+- Cap. 47, 01:33:46.719: Patata ofrece ayuda y pregunta el nombre del felino ([47-062](capitulos/47.md)).
+- Cap. 47, 01:34:05.719: Patata desaparece durante la curación y vuelve a ser visible ([47-063](capitulos/47.md)).
+- Cap. 47, 01:44:52.920: Las raíces inmovilizan al grupo ([47-068](capitulos/47.md)).
+- Cap. 47, 01:46:39.840: El dragón se muestra y exige a los elfos ([47-069](capitulos/47.md)).
+- Cap. 47, 01:57:54.960: Tesara guía el regreso a Iktan ([47-077](capitulos/47.md)).
+- Cap. 47, 02:00:10.840: Patata encuentra a los piratas en la taberna de Iktan ([47-079](capitulos/47.md)).
+- Cap. 47, 02:04:06.960: Tesara y el felino llevan el aviso a Walulu ([47-081](capitulos/47.md)).
+- Cap. 47, 02:17:15.880: Angelique cuenta a Patata su encuentro con Zoltan ([47-090](capitulos/47.md)).
 
 ## Patata Hammer
 
 - Cap. 16, 00:00:00.000: Mapa de la Marina perdido y Patata Hammer ([16-001](capitulos/16.md)).
 - Cap. 16, 00:45:15.000: Serpientes derrotadas y Naór libera a Patata ([16-009](capitulos/16.md)).
+- Cap. 47, 00:30:15.720: El suelo de las ruinas empieza a moverse ([47-021](capitulos/47.md)).
 
 ## Perla de comunicación de Coyote
 
@@ -5078,6 +5215,9 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 45, 03:10:25.239: Ivet reprocha la promesa de unión incumplida y Naór defiende a Atlan ([45-076](capitulos/45.md)).
 - Cap. 45, 03:11:50.040: La invitación al concilio queda pendiente de decisión ([45-077](capitulos/45.md)).
 - Cap. 45, 03:14:57.200: La audiencia acaba entre salmos y la curiosidad de Triel ([45-078](capitulos/45.md)).
+- Cap. 47, 00:01:57.840: Tenta sale de Perlasal con Chopito para buscar más súbditos ([47-003](capitulos/47.md)).
+- Cap. 47, 00:13:27.199: Tenta y Chopito salen por otro punto del lago ([47-011](capitulos/47.md)).
+- Cap. 47, 01:49:04.280: Chopito rechaza que le ofrezcan Perlasal ([47-071](capitulos/47.md)).
 
 ## Piedra sagrada de Iktan
 
@@ -5178,6 +5318,10 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 ## Pirata llamado Jim
 
 - Cap. 24, 02:17:00.000: Bonnie mata a un pirata y reduce el pago ([24-017](capitulos/24.md)).
+
+## Piratas ocupantes de Shiaru
+
+- Cap. 47, 00:23:00.520: Patata comunica que otros piratas tomaron Shiaru y destruyeron su casa ([47-017](capitulos/47.md)).
 
 ## Pix
 
@@ -5307,6 +5451,23 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 41, 01:18:00.000: Chopito permite ver los viales verdosos ([41-029](capitulos/41.md)).
 - Cap. 41, 01:25:13.000: Tenta manifiesta un tentáculo y se oculta ([41-032](capitulos/41.md)).
 - Cap. 41, 01:41:33.000: Una abominación sale de la vegetación ([41-038](capitulos/41.md)).
+
+## Ruinas de la orilla del lago de Iktan
+
+- Cap. 47, 00:07:43.160: Una joya a cambio de la pista de unas ruinas junto al lago ([47-008](capitulos/47.md)).
+- Cap. 47, 00:10:49.279: Angelique da a Tesa el camino hacia las ruinas ([47-009](capitulos/47.md)).
+- Cap. 47, 00:12:18.720: Tesa encuentra unos muros escasos y empieza a estudiarlos ([47-010](capitulos/47.md)).
+- Cap. 47, 00:13:27.199: Tenta y Chopito salen por otro punto del lago ([47-011](capitulos/47.md)).
+- Cap. 47, 00:24:06.960: Patata lava su armadura en el lago ([47-018](capitulos/47.md)).
+- Cap. 47, 00:25:25.360: Un felino camuflado se presenta como Mictlan ([47-019](capitulos/47.md)).
+- Cap. 47, 00:28:18.399: Mictlan permite que Tesa estudie si no comete sacrilegio ([47-020](capitulos/47.md)).
+- Cap. 47, 00:30:15.720: El suelo de las ruinas empieza a moverse ([47-021](capitulos/47.md)).
+- Cap. 47, 00:33:15.919: Las raíces levantan cadáveres y mueven sus cuerpos ([47-022](capitulos/47.md)).
+- Cap. 47, 01:15:32.400: Tesara localiza señales de una criatura que no puede ver ([47-051](capitulos/47.md)).
+- Cap. 47, 01:17:30.400: Una rama rebota en la presencia oculta ([47-052](capitulos/47.md)).
+- Cap. 47, 01:24:48.600: Tesara descubre que la presencia cambió de sitio ([47-056](capitulos/47.md)).
+- Cap. 47, 01:26:39.159: Tentacol vuelve a apartar la masa de Patata ([47-057](capitulos/47.md)).
+- Cap. 47, 01:31:33.800: Tesara encuentra el nuevo hueco y retrocede en sigilo ([47-060](capitulos/47.md)).
 
 ## Ruinas del ataque al escuadrón sirénido
 
@@ -5438,6 +5599,10 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 43, 00:21:34.240: Citlali tiene una visión de un pirata y de la batalla bajo el agua ([43-013](capitulos/43.md)).
 - Cap. 43, 00:45:41.480: Citlali y Lunaria ven formarse una tormenta sobre el mar ([43-024](capitulos/43.md)).
 - Cap. 46, 02:09:03.239: Ione propone recaudar recursos y reunir apoyos para recuperar Shiaru ([46-060](capitulos/46.md)).
+- Cap. 47, 00:00:21.760: Patata encuentra su huerto destruido y el cuerpo de Bonny expuesto ([47-001](capitulos/47.md)).
+- Cap. 47, 00:20:05.320: Patata aparece cubierto de barro y hojas ([47-015](capitulos/47.md)).
+- Cap. 47, 00:23:00.520: Patata comunica que otros piratas tomaron Shiaru y destruyeron su casa ([47-017](capitulos/47.md)).
+- Cap. 47, 02:00:10.840: Patata encuentra a los piratas en la taberna de Iktan ([47-079](capitulos/47.md)).
 
 ## Sir Poncelot
 
@@ -5827,6 +5992,43 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 45, 03:03:19.000: Tentacol recuerda leyendas de un kraken de otro plano ([45-072](capitulos/45.md)).
 - Cap. 45, 03:04:06.600: El grupo sale con la rescatada y llega a Perlasal ([45-073](capitulos/45.md)).
 - Cap. 45, 03:05:34.319: Maris recibe a Coyote y ofrece presentar a Naór ante su madre ([45-074](capitulos/45.md)).
+- Cap. 47, 00:01:57.840: Tenta sale de Perlasal con Chopito para buscar más súbditos ([47-003](capitulos/47.md)).
+- Cap. 47, 00:13:27.199: Tenta y Chopito salen por otro punto del lago ([47-011](capitulos/47.md)).
+- Cap. 47, 00:14:16.759: Chopito prefiere repartir sus acólitos entre más lugares ([47-012](capitulos/47.md)).
+- Cap. 47, 00:15:22.320: Tesa baja la pistola ante Tenta y Chopito ([47-013](capitulos/47.md)).
+- Cap. 47, 00:18:40.799: Tesa entiende la conversación de Chopito en Aquan ([47-014](capitulos/47.md)).
+- Cap. 47, 00:20:05.320: Patata aparece cubierto de barro y hojas ([47-015](capitulos/47.md)).
+- Cap. 47, 00:22:12.240: Patata conserva su propia fe y Tesa traduce a Chopito ([47-016](capitulos/47.md)).
+- Cap. 47, 00:23:00.520: Patata comunica que otros piratas tomaron Shiaru y destruyeron su casa ([47-017](capitulos/47.md)).
+- Cap. 47, 00:24:06.960: Patata lava su armadura en el lago ([47-018](capitulos/47.md)).
+- Cap. 47, 00:30:15.720: El suelo de las ruinas empieza a moverse ([47-021](capitulos/47.md)).
+- Cap. 47, 00:33:15.919: Las raíces levantan cadáveres y mueven sus cuerpos ([47-022](capitulos/47.md)).
+- Cap. 47, 00:34:41.119: Chopito entinta el tarro ante los cadáveres ([47-023](capitulos/47.md)).
+- Cap. 47, 00:35:17.960: Tesa advierte de un posible vínculo entre las plantas y el dragón verde ([47-024](capitulos/47.md)).
+- Cap. 47, 00:37:42.920: El disparo de Escupefuego provoca una salpicadura que hiere al grupo ([47-026](capitulos/47.md)).
+- Cap. 47, 00:39:57.480: Tenta invoca un tentáculo de frío y retrocede ([47-028](capitulos/47.md)).
+- Cap. 47, 00:41:35.640: Las descargas de Tenta empujan y ralentizan ([47-029](capitulos/47.md)).
+- Cap. 47, 00:50:28.440: Tentacol controla la distancia con el tentáculo y los rayos ([47-036](capitulos/47.md)).
+- Cap. 47, 00:54:45.359: Una voz implanta la necesidad de atraer a dos elfos ([47-038](capitulos/47.md)).
+- Cap. 47, 00:57:23.480: El tentáculo amortigua un golpe junto a Mictlan ([47-039](capitulos/47.md)).
+- Cap. 47, 01:03:07.839: La exigencia consiste en sacar a los elfos de la ciudad ([47-042](capitulos/47.md)).
+- Cap. 47, 01:03:29.039: Chopito convierte la orden en su propio plan de rescate ([47-043](capitulos/47.md)).
+- Cap. 47, 01:03:51.559: Tentacol abate a uno y retrasa a otro ([47-044](capitulos/47.md)).
+- Cap. 47, 01:09:04.120: Los rayos y el daño radiante acorralan a los últimos ([47-047](capitulos/47.md)).
+- Cap. 47, 01:11:15.719: La voz promete una recompensa por los elfos ([47-048](capitulos/47.md)).
+- Cap. 47, 01:11:36.400: Las raíces reúnen los cuerpos en una masa ([47-049](capitulos/47.md)).
+- Cap. 47, 01:19:33.400: Tentacol maldice y desplaza la masa ([47-053](capitulos/47.md)).
+- Cap. 47, 01:26:39.159: Tentacol vuelve a apartar la masa de Patata ([47-057](capitulos/47.md)).
+- Cap. 47, 01:30:27.679: Mictlan busca a los compañeros y no encuentra a Tesara ([47-059](capitulos/47.md)).
+- Cap. 47, 01:33:29.040: Tentacol se dirige a buscar a los elfos ([47-061](capitulos/47.md)).
+- Cap. 47, 01:40:45.000: Chopito abofetea a Tesara y cuestiona su alarma ([47-066](capitulos/47.md)).
+- Cap. 47, 01:44:52.920: Las raíces inmovilizan al grupo ([47-068](capitulos/47.md)).
+- Cap. 47, 01:46:39.840: El dragón se muestra y exige a los elfos ([47-069](capitulos/47.md)).
+- Cap. 47, 01:49:04.280: Chopito rechaza que le ofrezcan Perlasal ([47-071](capitulos/47.md)).
+- Cap. 47, 01:57:54.960: Tesara guía el regreso a Iktan ([47-077](capitulos/47.md)).
+- Cap. 47, 01:59:07.079: Tentacol y Chopito imitan la meditación de Tortas ([47-078](capitulos/47.md)).
+- Cap. 47, 02:16:25.119: La imitación de Tortas se presenta como una apariencia de piedra ([47-089](capitulos/47.md)).
+- Cap. 47, 02:17:15.880: Angelique cuenta a Patata su encuentro con Zoltan ([47-090](capitulos/47.md)).
 
 ## Tesara Queen
 
@@ -5851,6 +6053,60 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 31, 02:58:00.000: Visión de cinco héroes y fragmento tentacular ([31-026](capitulos/31.md)).
 - Cap. 31, 03:10:00.000: Confianza limitada y secreto de ruta ([31-028](capitulos/31.md)).
 - Cap. 40, 00:01:42.600: La enfermedad de Triel y el encargo de Leona ([40-002](capitulos/40.md)).
+- Cap. 47, 00:01:13.880: Tesa combina el cuidado de Leo con la investigación del dragón ([47-002](capitulos/47.md)).
+- Cap. 47, 00:03:27.879: Tesa lleva a Leo al colegio y reclama que vuelva su madre ([47-004](capitulos/47.md)).
+- Cap. 47, 00:03:57.720: Leo acusa a una mujer de haberle pegado en el colegio ([47-005](capitulos/47.md)).
+- Cap. 47, 00:04:56.680: Leo entra en el colegio después de provocar a Tesa ([47-006](capitulos/47.md)).
+- Cap. 47, 00:06:24.800: Angelique tolera a unos clientes nuevos porque pagan bien ([47-007](capitulos/47.md)).
+- Cap. 47, 00:07:43.160: Una joya a cambio de la pista de unas ruinas junto al lago ([47-008](capitulos/47.md)).
+- Cap. 47, 00:10:49.279: Angelique da a Tesa el camino hacia las ruinas ([47-009](capitulos/47.md)).
+- Cap. 47, 00:12:18.720: Tesa encuentra unos muros escasos y empieza a estudiarlos ([47-010](capitulos/47.md)).
+- Cap. 47, 00:15:22.320: Tesa baja la pistola ante Tenta y Chopito ([47-013](capitulos/47.md)).
+- Cap. 47, 00:18:40.799: Tesa entiende la conversación de Chopito en Aquan ([47-014](capitulos/47.md)).
+- Cap. 47, 00:20:05.320: Patata aparece cubierto de barro y hojas ([47-015](capitulos/47.md)).
+- Cap. 47, 00:22:12.240: Patata conserva su propia fe y Tesa traduce a Chopito ([47-016](capitulos/47.md)).
+- Cap. 47, 00:23:00.520: Patata comunica que otros piratas tomaron Shiaru y destruyeron su casa ([47-017](capitulos/47.md)).
+- Cap. 47, 00:24:06.960: Patata lava su armadura en el lago ([47-018](capitulos/47.md)).
+- Cap. 47, 00:25:25.360: Un felino camuflado se presenta como Mictlan ([47-019](capitulos/47.md)).
+- Cap. 47, 00:28:18.399: Mictlan permite que Tesa estudie si no comete sacrilegio ([47-020](capitulos/47.md)).
+- Cap. 47, 00:30:15.720: El suelo de las ruinas empieza a moverse ([47-021](capitulos/47.md)).
+- Cap. 47, 00:33:15.919: Las raíces levantan cadáveres y mueven sus cuerpos ([47-022](capitulos/47.md)).
+- Cap. 47, 00:35:17.960: Tesa advierte de un posible vínculo entre las plantas y el dragón verde ([47-024](capitulos/47.md)).
+- Cap. 47, 00:37:42.920: El disparo de Escupefuego provoca una salpicadura que hiere al grupo ([47-026](capitulos/47.md)).
+- Cap. 47, 00:39:12.520: El fuego no hace daño extra y Tesa busca ocultarse ([47-027](capitulos/47.md)).
+- Cap. 47, 00:48:55.520: Tesara dispara para aliviar la presión sobre el felino ([47-035](capitulos/47.md)).
+- Cap. 47, 00:54:45.359: Una voz implanta la necesidad de atraer a dos elfos ([47-038](capitulos/47.md)).
+- Cap. 47, 01:01:48.039: Tesara elimina al segundo perseguidor del felino ([47-041](capitulos/47.md)).
+- Cap. 47, 01:03:07.839: La exigencia consiste en sacar a los elfos de la ciudad ([47-042](capitulos/47.md)).
+- Cap. 47, 01:08:12.680: Tesara derriba a otro muerto y cambia de escondite ([47-046](capitulos/47.md)).
+- Cap. 47, 01:11:15.719: La voz promete una recompensa por los elfos ([47-048](capitulos/47.md)).
+- Cap. 47, 01:11:36.400: Las raíces reúnen los cuerpos en una masa ([47-049](capitulos/47.md)).
+- Cap. 47, 01:14:37.320: Tesara reconoce la voz de la intrusión anterior ([47-050](capitulos/47.md)).
+- Cap. 47, 01:15:32.400: Tesara localiza señales de una criatura que no puede ver ([47-051](capitulos/47.md)).
+- Cap. 47, 01:17:30.400: Una rama rebota en la presencia oculta ([47-052](capitulos/47.md)).
+- Cap. 47, 01:19:33.400: Tentacol maldice y desplaza la masa ([47-053](capitulos/47.md)).
+- Cap. 47, 01:24:48.600: Tesara descubre que la presencia cambió de sitio ([47-056](capitulos/47.md)).
+- Cap. 47, 01:28:07.199: Patata deshace la masa y las raíces se retiran ([47-058](capitulos/47.md)).
+- Cap. 47, 01:30:27.679: Mictlan busca a los compañeros y no encuentra a Tesara ([47-059](capitulos/47.md)).
+- Cap. 47, 01:31:33.800: Tesara encuentra el nuevo hueco y retrocede en sigilo ([47-060](capitulos/47.md)).
+- Cap. 47, 01:35:15.560: La presencia invisible susurra junto al oído de Tesara ([47-064](capitulos/47.md)).
+- Cap. 47, 01:37:15.239: Tesara falla el latigazo y sale de la maleza ([47-065](capitulos/47.md)).
+- Cap. 47, 01:40:45.000: Chopito abofetea a Tesara y cuestiona su alarma ([47-066](capitulos/47.md)).
+- Cap. 47, 01:42:01.679: Tesara defiende a los elfos y recuerda una emboscada anterior ([47-067](capitulos/47.md)).
+- Cap. 47, 01:44:52.920: Las raíces inmovilizan al grupo ([47-068](capitulos/47.md)).
+- Cap. 47, 01:46:39.840: El dragón se muestra y exige a los elfos ([47-069](capitulos/47.md)).
+- Cap. 47, 01:51:33.280: El ultimátum da una semana y amenaza a la ciudad ([47-073](capitulos/47.md)).
+- Cap. 47, 01:52:00.000: El dragón nombra a Oliver, hermano de Tesara ([47-074](capitulos/47.md)).
+- Cap. 47, 01:53:03.400: La criatura se retira invisible y los viajeros deciden volver ([47-075](capitulos/47.md)).
+- Cap. 47, 01:54:52.360: Tesara sostiene la confianza en sus compañeros elfos ([47-076](capitulos/47.md)).
+- Cap. 47, 01:57:54.960: Tesara guía el regreso a Iktan ([47-077](capitulos/47.md)).
+- Cap. 47, 02:02:28.400: Angelique informa de la salida de la elfa y del entrenamiento de su hermano ([47-080](capitulos/47.md)).
+- Cap. 47, 02:04:06.960: Tesara y el felino llevan el aviso a Walulu ([47-081](capitulos/47.md)).
+- Cap. 47, 02:12:58.280: Walulu acepta estudiar una estrategia contra el dragón ([47-085](capitulos/47.md)).
+- Cap. 47, 02:14:38.559: Walulu quiere hablar con Naór y pide compañía para una reunión futura ([47-087](capitulos/47.md)).
+- Cap. 47, 02:15:18.639: Tesara y el felino discrepan sobre el sacrificio por un bien mayor ([47-088](capitulos/47.md)).
+- Cap. 47, 02:16:25.119: La imitación de Tortas se presenta como una apariencia de piedra ([47-089](capitulos/47.md)).
+- Cap. 47, 02:17:15.880: Angelique cuenta a Patata su encuentro con Zoltan ([47-090](capitulos/47.md)).
 
 ## Tim
 
@@ -6099,6 +6355,9 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 45, 03:04:06.600: El grupo sale con la rescatada y llega a Perlasal ([45-073](capitulos/45.md)).
 - Cap. 45, 03:08:31.120: Ivet admite a la princesa de Atlan en el templo de coral ([45-075](capitulos/45.md)).
 - Cap. 45, 03:14:57.200: La audiencia acaba entre salmos y la curiosidad de Triel ([45-078](capitulos/45.md)).
+- Cap. 47, 01:59:07.079: Tentacol y Chopito imitan la meditación de Tortas ([47-078](capitulos/47.md)).
+- Cap. 47, 02:16:25.119: La imitación de Tortas se presenta como una apariencia de piedra ([47-089](capitulos/47.md)).
+- Cap. 47, 02:17:15.880: Angelique cuenta a Patata su encuentro con Zoltan ([47-090](capitulos/47.md)).
 
 ## Tribu de la Hoja Caída
 
@@ -6106,7 +6365,34 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 30, 00:46:00.000: Recepción de la Hoja Caída y cambio de una pupila ([30-009](capitulos/30.md)).
 - Cap. 30, 02:04:00.000: Eromov envía a Parroter a investigar una cura ([30-020](capitulos/30.md)).
 
-## Triel
+## Tripulación del Zampaolas
+
+- Cap. 03, 01:14:00.000: Trampa del hada e Ione atrapada ([03-015](capitulos/03.md)).
+- Cap. 03, 01:34:00.000: Engaño caballeresco y plan de infiltración ([03-020](capitulos/03.md)).
+- Cap. 06, 00:08:00.000: Huida estudiada y pertenencia de Chochi ([06-005](capitulos/06.md)).
+- Cap. 42, 00:04:11.920: Ilikar vuelve de Iktan y busca aliados contra el dragón ([42-004](capitulos/42.md)).
+- Cap. 42, 00:05:36.440: Nox busca una patente de corso con la Marina ([42-005](capitulos/42.md)).
+- Cap. 42, 00:08:05.039: Shiaru reúne a sus defensores en la plaza ([42-006](capitulos/42.md)).
+- Cap. 42, 00:23:12.440: Los defensores embarcan y ocupan sus puestos ([42-013](capitulos/42.md)).
+- Cap. 42, 00:30:07.559: Siete barcos piratas salen bajo la tormenta ([42-015](capitulos/42.md)).
+- Cap. 42, 00:47:03.319: La salva coordinada de la Marina alcanza al Zampaolas ([42-024](capitulos/42.md)).
+- Cap. 42, 00:51:44.735: Ione ordena liberar la carga para aprovechar su peso ([42-027](capitulos/42.md)).
+- Cap. 42, 01:06:18.720: Los refuerzos de Marina prolongan el fuego sobre los piratas ([42-035](capitulos/42.md)).
+- Cap. 42, 01:51:35.480: Nox reconoce a Ione como capitana y pide volver ([42-058](capitulos/42.md)).
+- Cap. 42, 02:14:52.159: Ione retira el Zampaolas de la batalla sin renunciar a buscar a Nox ([42-067](capitulos/42.md)).
+- Cap. 43, 00:08:03.360: Los habitantes se concentran en Shiaru ([43-006](capitulos/43.md)).
+- Cap. 46, 00:02:19.239: Ione protege al grupo y permanece más seria ([46-002](capitulos/46.md)).
+- Cap. 46, 00:04:39.960: La estampida separa a tres viajeras del grupo que iba a Iktan ([46-004](capitulos/46.md)).
+- Cap. 46, 00:08:02.800: Ione se detiene y reparte fruta mientras buscan orientarse ([46-006](capitulos/46.md)).
+- Cap. 46, 00:15:58.600: El rastreo de Eleanor falla e Ione elige el sur por azar ([46-010](capitulos/46.md)).
+- Cap. 46, 00:23:34.200: Las huellas humanoides atraen a Ione hacia unas ruinas ([46-014](capitulos/46.md)).
+- Cap. 46, 01:47:03.270: Zoltan sostiene a Citlali y Eleanor le proporciona una montura temporal ([46-050](capitulos/46.md)).
+- Cap. 46, 01:56:01.320: Ione encuentra a la tripulación en la taberna de Iktan ([46-053](capitulos/46.md)).
+- Cap. 46, 02:06:48.360: Ione descubre la ausencia del novato llamado Jacki ([46-059](capitulos/46.md)).
+- Cap. 46, 02:09:03.239: Ione propone recaudar recursos y reunir apoyos para recuperar Shiaru ([46-060](capitulos/46.md)).
+- Cap. 47, 02:00:10.840: Patata encuentra a los piratas en la taberna de Iktan ([47-079](capitulos/47.md)).
+
+## Tryel
 
 - Cap. 14, 00:00:35.000: Pasado de los dos hermanos presentado al espectador ([14-001](capitulos/14.md)).
 - Cap. 14, 00:03:15.000: Cocodrilo alimentado y panteras derrotadas por los hermanos ([14-002](capitulos/14.md)).
@@ -6251,32 +6537,19 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 45, 02:57:37.800: Tentacol encuentra una perla y los compañeros se llevan recuerdos ([45-070](capitulos/45.md)).
 - Cap. 45, 03:04:06.600: El grupo sale con la rescatada y llega a Perlasal ([45-073](capitulos/45.md)).
 - Cap. 45, 03:14:57.200: La audiencia acaba entre salmos y la curiosidad de Triel ([45-078](capitulos/45.md)).
-
-## Tripulación del Zampaolas
-
-- Cap. 03, 01:14:00.000: Trampa del hada e Ione atrapada ([03-015](capitulos/03.md)).
-- Cap. 03, 01:34:00.000: Engaño caballeresco y plan de infiltración ([03-020](capitulos/03.md)).
-- Cap. 06, 00:08:00.000: Huida estudiada y pertenencia de Chochi ([06-005](capitulos/06.md)).
-- Cap. 42, 00:04:11.920: Ilikar vuelve de Iktan y busca aliados contra el dragón ([42-004](capitulos/42.md)).
-- Cap. 42, 00:05:36.440: Nox busca una patente de corso con la Marina ([42-005](capitulos/42.md)).
-- Cap. 42, 00:08:05.039: Shiaru reúne a sus defensores en la plaza ([42-006](capitulos/42.md)).
-- Cap. 42, 00:23:12.440: Los defensores embarcan y ocupan sus puestos ([42-013](capitulos/42.md)).
-- Cap. 42, 00:30:07.559: Siete barcos piratas salen bajo la tormenta ([42-015](capitulos/42.md)).
-- Cap. 42, 00:47:03.319: La salva coordinada de la Marina alcanza al Zampaolas ([42-024](capitulos/42.md)).
-- Cap. 42, 00:51:44.735: Ione ordena liberar la carga para aprovechar su peso ([42-027](capitulos/42.md)).
-- Cap. 42, 01:06:18.720: Los refuerzos de Marina prolongan el fuego sobre los piratas ([42-035](capitulos/42.md)).
-- Cap. 42, 01:51:35.480: Nox reconoce a Ione como capitana y pide volver ([42-058](capitulos/42.md)).
-- Cap. 42, 02:14:52.159: Ione retira el Zampaolas de la batalla sin renunciar a buscar a Nox ([42-067](capitulos/42.md)).
-- Cap. 43, 00:08:03.360: Los habitantes se concentran en Shiaru ([43-006](capitulos/43.md)).
-- Cap. 46, 00:02:19.239: Ione protege al grupo y permanece más seria ([46-002](capitulos/46.md)).
-- Cap. 46, 00:04:39.960: La estampida separa a tres viajeras del grupo que iba a Iktan ([46-004](capitulos/46.md)).
-- Cap. 46, 00:08:02.800: Ione se detiene y reparte fruta mientras buscan orientarse ([46-006](capitulos/46.md)).
-- Cap. 46, 00:15:58.600: El rastreo de Eleanor falla e Ione elige el sur por azar ([46-010](capitulos/46.md)).
-- Cap. 46, 00:23:34.200: Las huellas humanoides atraen a Ione hacia unas ruinas ([46-014](capitulos/46.md)).
-- Cap. 46, 01:47:03.270: Zoltan sostiene a Citlali y Eleanor le proporciona una montura temporal ([46-050](capitulos/46.md)).
-- Cap. 46, 01:56:01.320: Ione encuentra a la tripulación en la taberna de Iktan ([46-053](capitulos/46.md)).
-- Cap. 46, 02:06:48.360: Ione descubre la ausencia del novato llamado Jacki ([46-059](capitulos/46.md)).
-- Cap. 46, 02:09:03.239: Ione propone recaudar recursos y reunir apoyos para recuperar Shiaru ([46-060](capitulos/46.md)).
+- Cap. 47, 01:42:01.679: Tesara defiende a los elfos y recuerda una emboscada anterior ([47-067](capitulos/47.md)).
+- Cap. 47, 01:46:39.840: El dragón se muestra y exige a los elfos ([47-069](capitulos/47.md)).
+- Cap. 47, 01:48:20.480: La recompensa ofrecida alcanza los deseos de los viajeros ([47-070](capitulos/47.md)).
+- Cap. 47, 01:50:51.119: El dragón declara que alguien paga por los elfos ([47-072](capitulos/47.md)).
+- Cap. 47, 01:51:33.280: El ultimátum da una semana y amenaza a la ciudad ([47-073](capitulos/47.md)).
+- Cap. 47, 01:53:03.400: La criatura se retira invisible y los viajeros deciden volver ([47-075](capitulos/47.md)).
+- Cap. 47, 01:54:52.360: Tesara sostiene la confianza en sus compañeros elfos ([47-076](capitulos/47.md)).
+- Cap. 47, 02:02:28.400: Angelique informa de la salida de la elfa y del entrenamiento de su hermano ([47-080](capitulos/47.md)).
+- Cap. 47, 02:07:40.440: Walulu remite a un antiguo ritual tras el ataque del dragón ([47-082](capitulos/47.md)).
+- Cap. 47, 02:10:27.199: La protección dracónica no detiene por sí sola a la hueste ([47-083](capitulos/47.md)).
+- Cap. 47, 02:12:58.280: Walulu acepta estudiar una estrategia contra el dragón ([47-085](capitulos/47.md)).
+- Cap. 47, 02:13:42.840: El felino prefiere entregar a los elfos y Walulu los acoge ([47-086](capitulos/47.md)).
+- Cap. 47, 02:15:18.639: Tesara y el felino discrepan sobre el sacrificio por un bien mayor ([47-088](capitulos/47.md)).
 
 ## Tutucan
 
@@ -6361,6 +6634,13 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 45, 00:17:00.959: Walulu ofrece una burbuja de una hora, que no llega a lanzar aquí ([45-009](capitulos/45.md)).
 - Cap. 45, 00:19:03.159: Naór afirma que ella es la familia de Leo ([45-010](capitulos/45.md)).
 - Cap. 46, 02:13:10.440: Citlali explica a Ione el drenaje como parte de su maldición ([46-061](capitulos/46.md)).
+- Cap. 47, 02:04:06.960: Tesara y el felino llevan el aviso a Walulu ([47-081](capitulos/47.md)).
+- Cap. 47, 02:07:40.440: Walulu remite a un antiguo ritual tras el ataque del dragón ([47-082](capitulos/47.md)).
+- Cap. 47, 02:10:27.199: La protección dracónica no detiene por sí sola a la hueste ([47-083](capitulos/47.md)).
+- Cap. 47, 02:12:14.719: Walulu informa de varias guaridas dispersas ([47-084](capitulos/47.md)).
+- Cap. 47, 02:12:58.280: Walulu acepta estudiar una estrategia contra el dragón ([47-085](capitulos/47.md)).
+- Cap. 47, 02:13:42.840: El felino prefiere entregar a los elfos y Walulu los acoge ([47-086](capitulos/47.md)).
+- Cap. 47, 02:14:38.559: Walulu quiere hablar con Naór y pide compañía para una reunión futura ([47-087](capitulos/47.md)).
 
 ## Winscore
 
@@ -6580,6 +6860,100 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 34, 01:50:00.000: Mamá distrae y Blink encuentra huevo ([34-013](capitulos/34.md)).
 - Cap. 34, 02:04:00.000: Pinky delata extracción e invisibilidad parcial ([34-014](capitulos/34.md)).
 
+## Zarynth
+
+- Cap. 01, 00:08:04.000: Huevo junto al cadáver de un dragón ([01-006](capitulos/01.md)).
+- Cap. 01, 00:19:25.000: Corrección sobre la visibilidad del dragoncito ([01-010](capitulos/01.md)).
+- Cap. 05, 01:24:00.000: Alimentos, frutas y candados ([05-018](capitulos/05.md)).
+- Cap. 07, 00:22:00.000: Se reúne el grupo con el dragón vivo ([07-007](capitulos/07.md)).
+- Cap. 07, 00:30:00.000: Nox se presenta como Jim Hawkins ([07-009](capitulos/07.md)).
+- Cap. 07, 00:42:00.000: Frutas de la expedición ([07-011](capitulos/07.md)).
+- Cap. 07, 01:06:20.000: Mamá derriba al capitán y el elfo vuela ([07-015](capitulos/07.md)).
+- Cap. 07, 01:17:40.000: Nox captura vivo a un pirata ([07-016](capitulos/07.md)).
+- Cap. 07, 01:34:20.000: El dragón cae, pero no muere ([07-019](capitulos/07.md)).
+- Cap. 07, 01:42:00.000: Nox recupera al dragón ([07-020](capitulos/07.md)).
+- Cap. 07, 02:26:00.000: Mapas de la Marina y alojamiento negociado ([07-030](capitulos/07.md)).
+- Cap. 08, 00:28:30.000: Deciden investigar; referencias al plano feérico ([08-011](capitulos/08.md)).
+- Cap. 08, 01:04:00.000: Emboscada de cinco panteras derrotada ([08-017](capitulos/08.md)).
+- Cap. 08, 01:51:20.000: El combate termina con la muerte de la criatura y su reversión a mujer ([08-023](capitulos/08.md)).
+- Cap. 10, 00:22:20.000: Expedición en barca hasta Ruki Peten ([10-009](capitulos/10.md)).
+- Cap. 10, 00:34:15.000: Dos cocodrilos muertos y diente para Axi ([10-012](capitulos/10.md)).
+- Cap. 10, 00:41:15.000: Blink obtiene el mondadientes y el elfo es capturado ([10-013](capitulos/10.md)).
+- Cap. 10, 00:45:15.000: El dragón guía la búsqueda y los guardias detectan a tres compañeros ([10-014](capitulos/10.md)).
+- Cap. 10, 00:50:45.000: Axi recibe una jabalina y sus insultos inician el combate ([10-015](capitulos/10.md)).
+- Cap. 10, 01:27:00.000: Jaula del elfo cerrada y armas retiradas ([10-018](capitulos/10.md)).
+- Cap. 10, 01:50:30.000: Una curación de los espectadores levanta a Axi y el dragón huye ([10-021](capitulos/10.md)).
+- Cap. 10, 02:27:30.000: Ayoto y el elfo regresan sin sus compañeros ni Pix ([10-024](capitulos/10.md)).
+- Cap. 12, 00:41:00.000: Frutas dan curación, elasticidad y caída lenta ([12-012](capitulos/12.md)).
+- Cap. 12, 00:52:30.000: Se infiltran entre ruinas mientras Pinky distrae ([12-015](capitulos/12.md)).
+- Cap. 12, 02:24:00.000: Blink abre la jaula del hombre tigre y deja encerrado al preso feroz ([12-025](capitulos/12.md)).
+- Cap. 15, 00:31:00.000: La espada de Triel tiene escamas de dragón azul ([15-006](capitulos/15.md)).
+- Cap. 15, 00:44:20.000: Frutas: obligación de decir la verdad, inmunidad a las armas y resistencias ([15-008](capitulos/15.md)).
+- Cap. 15, 01:08:15.000: Un cebo permite eliminar a un defensor y el dragón alerta al otro flanco ([15-011](capitulos/15.md)).
+- Cap. 15, 01:19:40.000: Crecimiento espinoso y Espíritus guardianes ([15-012](capitulos/15.md)).
+- Cap. 15, 01:28:20.000: Defensores y dinosaurios presionan a Patata ([15-013](capitulos/15.md)).
+- Cap. 15, 01:44:00.000: Kilzer es derribado y curado antes de auxiliar a Patata ([15-014](capitulos/15.md)).
+- Cap. 15, 02:14:20.000: Triel lucha disfrazada y Axi le dispara por error ([15-016](capitulos/15.md)).
+- Cap. 15, 02:54:30.000: Bonnie retiene al elfo por envío tardío ([15-021](capitulos/15.md)).
+- Cap. 15, 02:56:30.000: Treinta monedas repartidas entre cuatro; el dragón busca a la abuela ([15-022](capitulos/15.md)).
+- Cap. 16, 00:02:20.000: Muerte del elfo referida y búsqueda de templo ([16-002](capitulos/16.md)).
+
+## Zippo
+
+- Cap. 01, 01:30:03.000: Incidente con la criatura ígnea ([01-022](capitulos/01.md)).
+- Cap. 01, 01:45:27.000: Mamá hace salir a la criatura ([01-023](capitulos/01.md)).
+- Cap. 01, 02:03:03.000: Pinky conoce a Cipo ([01-027](capitulos/01.md)).
+- Cap. 02, 01:43:00.000: Pinky pide fuego y Ayoto lo prepara ([02-018](capitulos/02.md)).
+- Cap. 04, 00:38:00.000: Cipo indica la presencia de piratas ([04-011](capitulos/04.md)).
+- Cap. 04, 00:46:35.000: Grupo perdido y hallazgo de piratas ([04-013](capitulos/04.md)).
+- Cap. 04, 01:03:00.000: Emboscada y muerte del pirata auxiliado ([04-016](capitulos/04.md)).
+- Cap. 04, 01:11:00.000: Patata despierta a Ione y cura a Cipo ([04-017](capitulos/04.md)).
+- Cap. 04, 01:19:00.000: Victoria sobre los dinosaurios ([04-018](capitulos/04.md)).
+- Cap. 04, 01:55:00.000: Huida de un dinosaurio volador ([04-025](capitulos/04.md)).
+- Cap. 04, 02:00:55.000: Alojamiento y separación al regreso ([04-027](capitulos/04.md)).
+- Cap. 04, 02:04:00.000: Juego de pelota y Cipo ([04-028](capitulos/04.md)).
+- Cap. 07, 02:18:45.000: El ruido era Cipo, revelación al espectador ([07-028](capitulos/07.md)).
+- Cap. 18, 00:06:00.000: Cipo reúne a los viajeros y evitan un dinosaurio ([18-003](capitulos/18.md)).
+- Cap. 18, 00:16:00.000: Llegada y presentación de Mamá ([18-004](capitulos/18.md)).
+- Cap. 18, 00:50:00.000: Guardianes muertos y curación dañina ([18-009](capitulos/18.md)).
+- Cap. 18, 01:13:00.000: Descubrimiento de la trampa de las miradas ([18-011](capitulos/18.md)).
+- Cap. 18, 01:46:00.000: Emboscada y Cipo como montura ([18-014](capitulos/18.md)).
+- Cap. 18, 02:38:00.000: Prueba y recompensas en Cuicapalli ([18-020](capitulos/18.md)).
+- Cap. 23, 00:06:00.000: Equipo de rescate reunido ([23-002](capitulos/23.md)).
+- Cap. 27, 00:04:00.000: Cipo pide buscar abuela en Cuicapalli ([27-002](capitulos/27.md)).
+- Cap. 27, 00:08:00.000: Tlachka entra sin reconocimiento y comparten ataques ([27-003](capitulos/27.md)).
+- Cap. 27, 01:14:00.000: Ayoto descubierto y primera oleada ([27-011](capitulos/27.md)).
+- Cap. 27, 01:26:00.000: Tlachka sale oculto y Cipo combate ([27-012](capitulos/27.md)).
+- Cap. 27, 01:40:00.000: Refuerzos llegan y repliegue propuesto ([27-013](capitulos/27.md)).
+- Cap. 27, 01:51:00.000: Axi agota las flechas y el jefe menciona a Tórtola ([27-014](capitulos/27.md)).
+- Cap. 27, 02:00:00.000: Guayacán cae y los babuinos intervienen ([27-015](capitulos/27.md)).
+- Cap. 27, 02:10:00.000: Espíritu volador y cocos contra el jefe ([27-016](capitulos/27.md)).
+- Cap. 27, 02:18:00.000: Curación de Guayacán y recuperación de seis flechas ([27-017](capitulos/27.md)).
+- Cap. 27, 02:30:00.000: Babuino muerto y jefe rodeado ([27-018](capitulos/27.md)).
+- Cap. 29, 00:27:00.000: Pinky busca a Cipo y hace crecer cáñamo ([29-007](capitulos/29.md)).
+- Cap. 36, 01:10:00.000: Cipo se oculta entre las ruinas ([36-009](capitulos/36.md)).
+- Cap. 36, 01:26:00.000: Aparece un tiranosaurio y Poncelot carga ([36-011](capitulos/36.md)).
+- Cap. 36, 01:35:00.000: Ione se transforma y muere el tiranosaurio ([36-012](capitulos/36.md)).
+- Cap. 36, 02:21:00.000: Entrega del cautivo e informe parcial ([36-017](capitulos/36.md)).
+- Cap. 40, 00:05:21.280: Cipo rescata un fragmento de espada y Leona guía a Ilikar ([40-003](capitulos/40.md)).
+- Cap. 40, 00:11:26.639: Frutas extrañas y llegada a Iktan ([40-004](capitulos/40.md)).
+- Cap. 40, 00:18:33.760: Saludos del goliat y cautela de Eldrat ([40-005](capitulos/40.md)).
+- Cap. 40, 00:25:50.679: Triel sale al espectáculo y comienza la búsqueda de Cipo ([40-007](capitulos/40.md)).
+- Cap. 40, 00:34:33.760: Ilikar y un guardia buscan al supuesto dragón de fuego ([40-009](capitulos/40.md)).
+- Cap. 41, 00:18:07.000: Tentacol rescata a Cipo del agua y lo acerca al fuego ([41-008](capitulos/41.md)).
+- Cap. 41, 00:21:23.000: Naór ofrece respetos de Atlan y encarga a Leo vigilar la tortuga ([41-009](capitulos/41.md)).
+- Cap. 41, 00:38:03.000: Cipo recupera sus llamas y Naór deja a Leo vigilado ([41-014](capitulos/41.md)).
+- Cap. 41, 00:57:46.000: Vigilancia mágica del festival y presencia de Cipo ([41-024](capitulos/41.md)).
+- Cap. 42, 00:10:43.200: La tripulación sitúa al supuesto dragón de Ilikar en un barril de arena ([42-007](capitulos/42.md)).
+- Cap. 42, 01:08:34.880: Poncelot dispara a Cipo y prende una nave enemiga ([42-036](capitulos/42.md)).
+- Cap. 42, 01:24:34.960: Ilikar se impulsa hacia el barco en llamas y llama a Cipo ([42-045](capitulos/42.md)).
+- Cap. 42, 01:35:06.560: Ilikar y Cipo derriban el mástil de un buque ([42-050](capitulos/42.md)).
+- Cap. 42, 01:49:27.280: Nox cambia los emblemas del Invictus y Pinky prende la pólvora ([42-057](capitulos/42.md)).
+- Cap. 46, 00:00:59.440: Eleanor recuerda la discusión en la playa después de la batalla ([46-001](capitulos/46.md)).
+- Cap. 46, 00:02:19.239: Ione protege al grupo y permanece más seria ([46-002](capitulos/46.md)).
+- Cap. 46, 00:04:39.960: La estampida separa a tres viajeras del grupo que iba a Iktan ([46-004](capitulos/46.md)).
+- Cap. 46, 02:05:47.159: Eleanor comprueba que Erandy está en la taberna ([46-058](capitulos/46.md)).
+
 ## Zoltan
 
 - Cap. 46, 00:35:44.000: La cueva contiene cadáveres ennegrecidos y un hombre encadenado ([46-019](capitulos/46.md)).
@@ -6608,4 +6982,5 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 46, 01:50:32.080: Citlali reconoce el camino y el grupo llega a Iktan ([46-052](capitulos/46.md)).
 - Cap. 46, 02:03:44.679: Zoltan toma una cerveza y Angelique lo corteja ([46-057](capitulos/46.md)).
 - Cap. 46, 02:21:14.359: Zoltan y Angelique se retiran a una habitación ([46-066](capitulos/46.md)).
+- Cap. 47, 02:17:15.880: Angelique cuenta a Patata su encuentro con Zoltan ([47-090](capitulos/47.md)).
 

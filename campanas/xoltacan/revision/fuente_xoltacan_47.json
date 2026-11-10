@@ -1,0 +1,45 @@
+{
+  "id": "yvqhR20m7Zg",
+  "title": "D&D Aventuras en Xoltacan - Capítulo 47 - Cadáveres",
+  "duration": 8411,
+  "upload_date": "20261110",
+  "channel": "Lichpol",
+  "channel_id": "UCWJ11LdxIuDJpbknXpSPgeg",
+  "webpage_url": "https://www.youtube.com/watch?v=yvqhR20m7Zg",
+  "capitulo": 47,
+  "recuperado_el": "2026-11-10",
+  "herramienta": "yt-dlp",
+  "version": "2026.08.19",
+  "lectura": "Tres bloques completos sin solapamiento; 90 evidencias, 19 etapas y cotejo de las 284 preguntas anteriores. Audio no cotejado.",
+  "originales": {
+    "campanas/xoltacan/fuentes/47 - yvqhR20m7Zg.es-orig.txt": {
+      "sha256": "d4c1580f799649e166e19524f9e39fc26862afa7cfbbcb251148ec7c5c8aae5c",
+      "bytes": 134595
+    },
+    "campanas/xoltacan/fuentes/47 - yvqhR20m7Zg.es-orig.vtt": {
+      "sha256": "af82762727aa32ebc82b92459bdc4b039b6b17839c0f994d26f0a5aaf88e983e",
+      "bytes": 886246
+    },
+    "campanas/xoltacan/fuentes/47 - yvqhR20m7Zg.es.txt": {
+      "sha256": "d4c1580f799649e166e19524f9e39fc26862afa7cfbbcb251148ec7c5c8aae5c",
+      "bytes": 134595
+    },
+    "campanas/xoltacan/fuentes/47 - yvqhR20m7Zg.es.vtt": {
+      "sha256": "af82762727aa32ebc82b92459bdc4b039b6b17839c0f994d26f0a5aaf88e983e",
+      "bytes": 886246
+    },
+    "campanas/xoltacan/fuentes/47 - yvqhR20m7Zg.info.json": {
+      "sha256": "e5a8bd5d1e510e24e0de68fd9ed26f766b31841bb305be586f522dab0cf35b76",
+      "bytes": 546360
+    }
+  },
+  "reparto": "campanas/xoltacan/revision/borradores/47/reparto.json",
+  "integracion": "borradores/47/integracion.json",
+  "cotejo_rol": "borradores/47/cotejo_rol.json",
+  "estado_revision": "revisado",
+  "audio_cotejado": false,
+  "lectura_rol": {
+    "escenas": 13,
+    "mensajes": 408
+  }
+}

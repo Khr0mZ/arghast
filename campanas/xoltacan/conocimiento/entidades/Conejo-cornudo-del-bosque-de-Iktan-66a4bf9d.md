@@ -12,7 +12,7 @@ Base para revisar equivalencia: [41-027](../capitulos/41.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### Una dirección ofrecida a Blink
 

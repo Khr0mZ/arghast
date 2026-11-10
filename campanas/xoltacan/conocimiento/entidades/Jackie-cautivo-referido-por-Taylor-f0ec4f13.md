@@ -12,7 +12,7 @@ Base para revisar equivalencia: [42-070](../capitulos/42.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### El testimonio que conduce a la isla
 

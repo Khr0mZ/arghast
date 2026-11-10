@@ -358,3 +358,5 @@ Discrepancias, correcciones y cautelas editoriales fechadas por episodio. No tod
 - Cap. 46: El collar se vende por veinticuatro monedas: la oferta de veinticinco y la petición de veintiséis son pasos del regateo, no ingresos adicionales (46-063). ([ficha](capitulos/46.md)).
 - Cap. 46: La resta de catorce monedas a Citlali es una intervención del chat y no prueba un robo por alguien identificado en Iktan. Los números sueltos de la venta de Eleanor no permiten fijar un total fiable (46-062, 46-065). ([ficha](capitulos/46.md)).
 - Cap. 46: El final privado de Zoltan y Angelique no incorpora la anécdota del personaje Gur de Kuroto a Xoltacan. La sugerencia de consultar a Walulu sigue pendiente cuando la sesión termina (46-061, 46-066). ([ficha](capitulos/46.md)).
+- Cap. 47: Tesa dice primero tres días con Leo y después tres/cuatro y cuatro: diferencia de expresión sin fecha exacta conciliada. ([ficha](capitulos/47.md)).
+- Cap. 47: La frase de resolución de expulsión dice todos menos uno atemorizados y después menciona de modo confuso un esqueleto que ha fallado: conservar resultado general sin fabricar un recuento de tiradas. ([ficha](capitulos/47.md)).

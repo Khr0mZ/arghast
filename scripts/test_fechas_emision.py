@@ -31,6 +31,12 @@ class EmissionDatesTests(unittest.TestCase):
         self.assertEqual(chapter['youtube']['fecha'], '2026-10-20')
         self.assertEqual(chapter['twitch']['fuentes'], ['1522672340213694706'])
 
+    def test_chapter_47_uses_original_broadcast_for_written_role(self):
+        chapter = self.dates[47]
+        self.assertEqual(chapter['twitch']['fecha'], '2026-07-24')
+        self.assertEqual(chapter['youtube']['fecha'], '2026-11-10')
+        self.assertEqual(chapter['twitch']['fuentes'], ['1530274670023278874'])
+
     def test_late_youtube_notice_does_not_replace_publication(self):
         chapter = self.dates[1]
         self.assertEqual(chapter['youtube']['fecha'], '2026-04-07')

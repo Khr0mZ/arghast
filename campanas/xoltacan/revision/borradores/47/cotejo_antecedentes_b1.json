@@ -1,0 +1,2781 @@
+{
+  "capitulo_objetivo": 47,
+  "tipo": "cotejo_de_antecedentes_de_rol_escrito",
+  "campana": "xoltacan",
+  "lectura_completa": true,
+  "mensajes_leidos_total": 181,
+  "alcance": "Lectura íntegra de tres escenas anteriores al capítulo 47. No genera afirmaciones de vídeo ni atribuye a esa sesión acciones representadas solamente en el rol escrito.",
+  "correccion_prioritaria": {
+    "entidad": "Oliver",
+    "ya_conocido_antes_del_47": true,
+    "primera_mencion_en_estas_escenas": "1504849281796931738",
+    "fecha_utc": "2026-05-15T14:13:47.528000+00:00",
+    "escena": "x-1504724660288356372",
+    "correccion": "No presentar a Oliver como una identidad descubierta o mencionada por primera vez en el capítulo 47. Tessa ya lo nombra y describe como hermano menor en mayo; la escena de julio desarrolla su trabajo en el museo y la historia familiar.",
+    "limite": "Es la primera mención localizada dentro de las tres escenas asignadas, sin afirmar que sea la primera de todo el archivo. Oliver no aparece físicamente ni habla directamente en ellas."
+  },
+  "fuentes_leidas": [
+    {
+      "escena": "x-1504724660288356372",
+      "archivo": "campanas/xoltacan/conocimiento/rol_escrito/escenas/x-1504724660288356372.json",
+      "titulo": "Una tregua al desayuno y el rescate de Coyote",
+      "sha256_archivo": "3e459e4cfa6e7797b11dfb57f8a7ed340c6deb7cf628af026d933d67e3b7acf8",
+      "hash_original_verificado": true,
+      "mensajes_esperados": 32,
+      "mensajes_leidos": 32,
+      "lectura_completa": true,
+      "inicio_utc": "2026-05-15T05:58:35.445000+00:00",
+      "fin_utc": "2026-05-15T17:32:35.614000+00:00",
+      "intervalo_previo": {
+        "anterior": 31,
+        "siguiente": 32,
+        "anterior_catalogado": true,
+        "siguiente_catalogado": true,
+        "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1504543985379840030",
+        "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1504914757835030579",
+        "ambito": "entre_capitulos",
+        "criterio": "horario_y_duracion_con_retrasos",
+        "confianza": "cronologica",
+        "referencias": [
+          {
+            "capitulo": 31,
+            "fecha": "2026-05-14",
+            "inicio_referencia_utc": "2026-05-14T18:00:24+00:00",
+            "fin_estimado_utc": "2026-05-14T21:15:40+00:00",
+            "duracion_video_segundos": 11716,
+            "tipo_referencia": "tarjeta_twitch",
+            "catalogado": true,
+            "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1504543985379840030"
+          },
+          {
+            "capitulo": 32,
+            "fecha": "2026-05-15",
+            "inicio_referencia_utc": "2026-05-15T18:33:44+00:00",
+            "fin_estimado_utc": "2026-05-15T20:47:23+00:00",
+            "duracion_video_segundos": 8019,
+            "tipo_referencia": "tarjeta_twitch",
+            "catalogado": true,
+            "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1504914757835030579"
+          }
+        ],
+        "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+      },
+      "cobertura_lectura": [
+        {
+          "desde_indice": 0,
+          "hasta_indice": 15,
+          "primer_mid": "1504724660288356372",
+          "ultimo_mid": "1504875025956733090",
+          "mensajes": 16
+        },
+        {
+          "desde_indice": 16,
+          "hasta_indice": 31,
+          "primer_mid": "1504878461532114984",
+          "ultimo_mid": "1504899311815627004",
+          "mensajes": 16
+        }
+      ],
+      "mids_leidos_con_hashes": [
+        {
+          "indice": 0,
+          "mensaje_id": "1504724660288356372",
+          "fecha_utc": "2026-05-15T05:58:35.445000+00:00",
+          "mensaje_sha256_archivo": "8a2de7bf1379a4cde7d2ad5c0dd7af05be5f57c154e5742b6726ffb33dcd5c78",
+          "texto_sha256_archivo": "146d20cec4e6e943ed8ea7ea677f45e68feae29db108653aa356be53215a235f",
+          "texto_sha256_recalculado": "146d20cec4e6e943ed8ea7ea677f45e68feae29db108653aa356be53215a235f",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504724660288356372"
+        },
+        {
+          "indice": 1,
+          "mensaje_id": "1504774922071969854",
+          "fecha_utc": "2026-05-15T09:18:18.788000+00:00",
+          "mensaje_sha256_archivo": "058cce1c3ae9beee17d79e5cb9fbadd7274e102a5bf0b81e9ec50a5e48381743",
+          "texto_sha256_archivo": "adbb1dd671c64bcaaaf705944fceec43ec3c327e7c6801021d352d6d290e6fa9",
+          "texto_sha256_recalculado": "adbb1dd671c64bcaaaf705944fceec43ec3c327e7c6801021d352d6d290e6fa9",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504774922071969854"
+        },
+        {
+          "indice": 2,
+          "mensaje_id": "1504779892225740932",
+          "fecha_utc": "2026-05-15T09:38:03.765000+00:00",
+          "mensaje_sha256_archivo": "ddd4b554104ae52784a5500a944f4c84048ede0b15aeffcadc93612d7666f267",
+          "texto_sha256_archivo": "bad032047a210eb43c1f2536fb8792581c8dcdefb165a11d96dcaa297b7908fe",
+          "texto_sha256_recalculado": "bad032047a210eb43c1f2536fb8792581c8dcdefb165a11d96dcaa297b7908fe",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504779892225740932"
+        },
+        {
+          "indice": 3,
+          "mensaje_id": "1504800147035521024",
+          "fecha_utc": "2026-05-15T10:58:32.888000+00:00",
+          "mensaje_sha256_archivo": "b5ae85bc2ccd186b66ab041fc1ca4d4f461b6a13dc61ba2a52b71fe8a16efe0c",
+          "texto_sha256_archivo": "a6f9e9da6500c2bb070696445c42dd0cdb03671da046b49cabb497ba541854a9",
+          "texto_sha256_recalculado": "a6f9e9da6500c2bb070696445c42dd0cdb03671da046b49cabb497ba541854a9",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504800147035521024"
+        },
+        {
+          "indice": 4,
+          "mensaje_id": "1504801858861142017",
+          "fecha_utc": "2026-05-15T11:05:21.019000+00:00",
+          "mensaje_sha256_archivo": "e28953e0f200536030d9810cd80c474d26fd152e5c770dcb1ec4598134f6fa9f",
+          "texto_sha256_archivo": "d582ace35a71a0978c07087348dc2cfb675a75b282e83f13e00dfb204c7bcdca",
+          "texto_sha256_recalculado": "d582ace35a71a0978c07087348dc2cfb675a75b282e83f13e00dfb204c7bcdca",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504801858861142017"
+        },
+        {
+          "indice": 5,
+          "mensaje_id": "1504827192394383461",
+          "fecha_utc": "2026-05-15T12:46:01.004000+00:00",
+          "mensaje_sha256_archivo": "df95faf0c1097d48a10119f24c4cd5fc2d84b450ac1bf2293ba896aa39507ff9",
+          "texto_sha256_archivo": "76364383d40da5ff5f673530fb15c776225386b21af5c4e3e85af050e7e49b0b",
+          "texto_sha256_recalculado": "76364383d40da5ff5f673530fb15c776225386b21af5c4e3e85af050e7e49b0b",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504827192394383461"
+        },
+        {
+          "indice": 6,
+          "mensaje_id": "1504827951466807409",
+          "fecha_utc": "2026-05-15T12:49:01.981000+00:00",
+          "mensaje_sha256_archivo": "fc5b35ff4791238b3eca97ba67ea9b88de47e7a3602de2ec76bbe70db4cd3b9b",
+          "texto_sha256_archivo": "522aaa51f1b040fa4791d6b0840782fe1dc0b697f6431f0cdcd8b406d7750976",
+          "texto_sha256_recalculado": "522aaa51f1b040fa4791d6b0840782fe1dc0b697f6431f0cdcd8b406d7750976",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504827951466807409"
+        },
+        {
+          "indice": 7,
+          "mensaje_id": "1504833914500546643",
+          "fecha_utc": "2026-05-15T13:12:43.679000+00:00",
+          "mensaje_sha256_archivo": "c59b88e6fe24d1e13f940b9ce6c3bded6035805f619f7945257b33a566a9e2d5",
+          "texto_sha256_archivo": "0ee655a4b76162936ac02c3720d03a780200dfb7041ec4f9b082cea0fd1475a5",
+          "texto_sha256_recalculado": "0ee655a4b76162936ac02c3720d03a780200dfb7041ec4f9b082cea0fd1475a5",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504833914500546643"
+        },
+        {
+          "indice": 8,
+          "mensaje_id": "1504836679972950046",
+          "fecha_utc": "2026-05-15T13:23:43.019000+00:00",
+          "mensaje_sha256_archivo": "67c388e9c017d3a01ee404155abfe0defe9be909a08387ad468d331222672a2f",
+          "texto_sha256_archivo": "5a7c89e08af3b862f2abfc5eb1bbce14ef21553cad8a31a14a991b0043f43f63",
+          "texto_sha256_recalculado": "5a7c89e08af3b862f2abfc5eb1bbce14ef21553cad8a31a14a991b0043f43f63",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504836679972950046"
+        },
+        {
+          "indice": 9,
+          "mensaje_id": "1504849281796931738",
+          "fecha_utc": "2026-05-15T14:13:47.528000+00:00",
+          "mensaje_sha256_archivo": "983bb76169e15eebf0c79fdb6420e7126d446d2b1d6176e3f232582bfa11ccc2",
+          "texto_sha256_archivo": "ed23256f5d8cb6f588a2319e2c65c86237d59d59d0807259d612b0c91b27999a",
+          "texto_sha256_recalculado": "ed23256f5d8cb6f588a2319e2c65c86237d59d59d0807259d612b0c91b27999a",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504849281796931738"
+        },
+        {
+          "indice": 10,
+          "mensaje_id": "1504856682000416860",
+          "fecha_utc": "2026-05-15T14:43:11.874000+00:00",
+          "mensaje_sha256_archivo": "8f5c7e392ccab820bc1ad43f9b66dc3962c334f8a3397adf1a8d235c1409c996",
+          "texto_sha256_archivo": "a1dd0ec5a26acc82b527b10e91568fc0f7f0ccba5a1ed5dd74f7d5c4743e9b14",
+          "texto_sha256_recalculado": "a1dd0ec5a26acc82b527b10e91568fc0f7f0ccba5a1ed5dd74f7d5c4743e9b14",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504856682000416860"
+        },
+        {
+          "indice": 11,
+          "mensaje_id": "1504868653076840561",
+          "fecha_utc": "2026-05-15T15:30:46.001000+00:00",
+          "mensaje_sha256_archivo": "39dfc195662110460647841818ec7c3c6ca59331bfc104e621500bad45622653",
+          "texto_sha256_archivo": "9667e3a30b1c3e8ff9b505f408cfcbe5546b9eb9228a2bd82dbef74ca05de2eb",
+          "texto_sha256_recalculado": "9667e3a30b1c3e8ff9b505f408cfcbe5546b9eb9228a2bd82dbef74ca05de2eb",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504868653076840561"
+        },
+        {
+          "indice": 12,
+          "mensaje_id": "1504869063350947890",
+          "fecha_utc": "2026-05-15T15:32:23.818000+00:00",
+          "mensaje_sha256_archivo": "6f64d665f92c41a4fc84a00493b0a86d112719e9cecdd7bd237cc45ce7b55ba7",
+          "texto_sha256_archivo": "8a84dd56da0744c0b4ac06c1409eb5abbe286d61ad9424815b59b2a446f5a55d",
+          "texto_sha256_recalculado": "8a84dd56da0744c0b4ac06c1409eb5abbe286d61ad9424815b59b2a446f5a55d",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504869063350947890"
+        },
+        {
+          "indice": 13,
+          "mensaje_id": "1504871317663387838",
+          "fecha_utc": "2026-05-15T15:41:21.288000+00:00",
+          "mensaje_sha256_archivo": "6d5a2ceceabce068248ac577fca2af7c3ee5f4675a20a56871bf65b6905bd4de",
+          "texto_sha256_archivo": "d1bcdb097b15a3600460b142c421fa81371adb92989c3a2d1265d05d81be1f23",
+          "texto_sha256_recalculado": "d1bcdb097b15a3600460b142c421fa81371adb92989c3a2d1265d05d81be1f23",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504871317663387838"
+        },
+        {
+          "indice": 14,
+          "mensaje_id": "1504872813138411610",
+          "fecha_utc": "2026-05-15T15:47:17.837000+00:00",
+          "mensaje_sha256_archivo": "3178438f6df1ecf90b34816d652e26fe0d1cab521ee1c10f8e0e0f9e71e3b7e2",
+          "texto_sha256_archivo": "1b5e20ef488afeb6a4183acadfda573eedef0ecf9820a37399c200009be9e78b",
+          "texto_sha256_recalculado": "1b5e20ef488afeb6a4183acadfda573eedef0ecf9820a37399c200009be9e78b",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504872813138411610"
+        },
+        {
+          "indice": 15,
+          "mensaje_id": "1504875025956733090",
+          "fecha_utc": "2026-05-15T15:56:05.414000+00:00",
+          "mensaje_sha256_archivo": "65eb3c58922b2e48e2bfff204ec2cf3458b6c93f4bf8f210121c09b39cf3d790",
+          "texto_sha256_archivo": "56710a1948f34bc78c5e667e4096835b4cbac37b7795c49ca1fdc6ac4fd7b1e4",
+          "texto_sha256_recalculado": "56710a1948f34bc78c5e667e4096835b4cbac37b7795c49ca1fdc6ac4fd7b1e4",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504875025956733090"
+        },
+        {
+          "indice": 16,
+          "mensaje_id": "1504878461532114984",
+          "fecha_utc": "2026-05-15T16:09:44.519000+00:00",
+          "mensaje_sha256_archivo": "17192a310acedee24fbcf0a765fd38be2433443f9ae3464cd1caa2ae8a082851",
+          "texto_sha256_archivo": "02b9c72ec964836db57e121c0b53b6161a1d0e0f2a74e35f5b26e2bb34c858e2",
+          "texto_sha256_recalculado": "02b9c72ec964836db57e121c0b53b6161a1d0e0f2a74e35f5b26e2bb34c858e2",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504878461532114984"
+        },
+        {
+          "indice": 17,
+          "mensaje_id": "1504879902241849405",
+          "fecha_utc": "2026-05-15T16:15:28.011000+00:00",
+          "mensaje_sha256_archivo": "916ad89f0426736799792eaae3b77e8ac04333db04e32f538e4965c4d884d4a8",
+          "texto_sha256_archivo": "4700f938a23a5e4e51d0b844666196a89d0f3cd1be5109e1915035b150546ef5",
+          "texto_sha256_recalculado": "4700f938a23a5e4e51d0b844666196a89d0f3cd1be5109e1915035b150546ef5",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504879902241849405"
+        },
+        {
+          "indice": 18,
+          "mensaje_id": "1504882846039408824",
+          "fecha_utc": "2026-05-15T16:27:09.867000+00:00",
+          "mensaje_sha256_archivo": "623ef6925e6171928120104c4b46edc574150bd83f96dd58d2e3d97fad1a74f7",
+          "texto_sha256_archivo": "f2aa50d5de34458d7c66c6858dda75d35a8cb7fd7614ffbeae96149ebe48798a",
+          "texto_sha256_recalculado": "f2aa50d5de34458d7c66c6858dda75d35a8cb7fd7614ffbeae96149ebe48798a",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504882846039408824"
+        },
+        {
+          "indice": 19,
+          "mensaje_id": "1504883992166662214",
+          "fecha_utc": "2026-05-15T16:31:43.125000+00:00",
+          "mensaje_sha256_archivo": "7172ab7d48c184d385a9fc24273c478c55dddce900140dfb6e6a83b93bbdf58a",
+          "texto_sha256_archivo": "17c3ecd74405d99a7723b3774e020640f337540151374a88d62faade8c725fca",
+          "texto_sha256_recalculado": "17c3ecd74405d99a7723b3774e020640f337540151374a88d62faade8c725fca",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504883992166662214"
+        },
+        {
+          "indice": 20,
+          "mensaje_id": "1504885521883729950",
+          "fecha_utc": "2026-05-15T16:37:47.838000+00:00",
+          "mensaje_sha256_archivo": "c962b675cb026132dcc7be27766700467d40c4937d990d138e20690add90fcd0",
+          "texto_sha256_archivo": "511123ee777e621a1ef860745e2fc137c3d6c1ccc0f6bd487da007b1fe7ad5ec",
+          "texto_sha256_recalculado": "511123ee777e621a1ef860745e2fc137c3d6c1ccc0f6bd487da007b1fe7ad5ec",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504885521883729950"
+        },
+        {
+          "indice": 21,
+          "mensaje_id": "1504886171279560906",
+          "fecha_utc": "2026-05-15T16:40:22.666000+00:00",
+          "mensaje_sha256_archivo": "ee580fc78cae91c3f01bc2290eca75137112c924d8abcace05100ca43c43e5bc",
+          "texto_sha256_archivo": "59cee7357038b97ea97eca4a3ed10af6c717a9813277cb7d42a02ab379536776",
+          "texto_sha256_recalculado": "59cee7357038b97ea97eca4a3ed10af6c717a9813277cb7d42a02ab379536776",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504886171279560906"
+        },
+        {
+          "indice": 22,
+          "mensaje_id": "1504887172527034468",
+          "fecha_utc": "2026-05-15T16:44:21.382000+00:00",
+          "mensaje_sha256_archivo": "a68be03465f5962ef919174abe33d07cb3e1c0a73f8469bb2b8d7fe68667cf42",
+          "texto_sha256_archivo": "c3747fde217036278c50525b12c9cfb3cf9acb88f589649521476117a49d1162",
+          "texto_sha256_recalculado": "c3747fde217036278c50525b12c9cfb3cf9acb88f589649521476117a49d1162",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504887172527034468"
+        },
+        {
+          "indice": 23,
+          "mensaje_id": "1504887197164109895",
+          "fecha_utc": "2026-05-15T16:44:27.256000+00:00",
+          "mensaje_sha256_archivo": "e1fd9c25b6bf01e1714bf8ddf50e54b2aa73a7bb92955964eafe2a1c66028199",
+          "texto_sha256_archivo": "0c9f16ea9555d0e42c6ade8b087422b1996288499187cee194eee13f579322de",
+          "texto_sha256_recalculado": "0c9f16ea9555d0e42c6ade8b087422b1996288499187cee194eee13f579322de",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504887197164109895"
+        },
+        {
+          "indice": 24,
+          "mensaje_id": "1504887491457585283",
+          "fecha_utc": "2026-05-15T16:45:37.421000+00:00",
+          "mensaje_sha256_archivo": "b076bccbb7e9f3da146cf4fe80e149b5a4ed4d45301301d6a390a2c321fbdd2d",
+          "texto_sha256_archivo": "e0bf43292cffe251e7208366a555d0eddb9023d2c51270cf6cb59a0e9dd6861f",
+          "texto_sha256_recalculado": "e0bf43292cffe251e7208366a555d0eddb9023d2c51270cf6cb59a0e9dd6861f",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504887491457585283"
+        },
+        {
+          "indice": 25,
+          "mensaje_id": "1504887677466578945",
+          "fecha_utc": "2026-05-15T16:46:21.769000+00:00",
+          "mensaje_sha256_archivo": "390b77f84873a96b23fcbf5407de95d0357a45f7381a3a5c9fe3bfc02c2d385c",
+          "texto_sha256_archivo": "4a372fe0b11c48af3b78d446b036eb7a70a735a85f4701e0a401b77c7bbb8f30",
+          "texto_sha256_recalculado": "4a372fe0b11c48af3b78d446b036eb7a70a735a85f4701e0a401b77c7bbb8f30",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504887677466578945"
+        },
+        {
+          "indice": 26,
+          "mensaje_id": "1504888312866017443",
+          "fecha_utc": "2026-05-15T16:48:53.260000+00:00",
+          "mensaje_sha256_archivo": "c43d57cfd95aa8c4f028488a1124db7efa96abee7896ac69acd437a8ef40e3bc",
+          "texto_sha256_archivo": "f2bfb7a14d8d385c94afbe48c6d1a27524776ff8a64065fd421e711d0fc2dfea",
+          "texto_sha256_recalculado": "f2bfb7a14d8d385c94afbe48c6d1a27524776ff8a64065fd421e711d0fc2dfea",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504888312866017443"
+        },
+        {
+          "indice": 27,
+          "mensaje_id": "1504889307192758372",
+          "fecha_utc": "2026-05-15T16:52:50.326000+00:00",
+          "mensaje_sha256_archivo": "a0c9736abd0a378fe1d02781be1fdbb13a905266217fd7f8ddcc0db9304ba4ff",
+          "texto_sha256_archivo": "31a035057c79b542f9deb7dbf64ef746b97d94778987308e0c183789e45e2860",
+          "texto_sha256_recalculado": "31a035057c79b542f9deb7dbf64ef746b97d94778987308e0c183789e45e2860",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504889307192758372"
+        },
+        {
+          "indice": 28,
+          "mensaje_id": "1504889650584748224",
+          "fecha_utc": "2026-05-15T16:54:12.197000+00:00",
+          "mensaje_sha256_archivo": "8c0c5c2c642d030a92e8b5ced2eab6133a8e7697008f47af8f623f0621c41a9e",
+          "texto_sha256_archivo": "47fc7975df639af70520ed9029b778a1412b7c24dcc34f8958cea7ff6d7b4531",
+          "texto_sha256_recalculado": "47fc7975df639af70520ed9029b778a1412b7c24dcc34f8958cea7ff6d7b4531",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504889650584748224"
+        },
+        {
+          "indice": 29,
+          "mensaje_id": "1504897278664769596",
+          "fecha_utc": "2026-05-15T17:24:30.873000+00:00",
+          "mensaje_sha256_archivo": "0b323e27afe45ee72a2b5aa4e7fdd6bec01889fb56747832a5a264cfca7c3012",
+          "texto_sha256_archivo": "6bcfe467afd659f54f3ce7b327af62c61ac5dc9d9adb5b68ff82ff3b8e4ccd86",
+          "texto_sha256_recalculado": "6bcfe467afd659f54f3ce7b327af62c61ac5dc9d9adb5b68ff82ff3b8e4ccd86",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504897278664769596"
+        },
+        {
+          "indice": 30,
+          "mensaje_id": "1504897782815789136",
+          "fecha_utc": "2026-05-15T17:26:31.072000+00:00",
+          "mensaje_sha256_archivo": "b4c64e209b9ee6dc42cb0d519a86df8a997119c0b9ffdb3a3c4ac41f3c59a291",
+          "texto_sha256_archivo": "4e79e6d09a70939897084cfd19ae9992ac81e627854b877545937effe5ea6e90",
+          "texto_sha256_recalculado": "4e79e6d09a70939897084cfd19ae9992ac81e627854b877545937effe5ea6e90",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504897782815789136"
+        },
+        {
+          "indice": 31,
+          "mensaje_id": "1504899311815627004",
+          "fecha_utc": "2026-05-15T17:32:35.614000+00:00",
+          "mensaje_sha256_archivo": "bd07e0c1ed5c023314d68eb7ef041ca1e478fa383de0e50958064b687e2101fc",
+          "texto_sha256_archivo": "d0a25a89b12937311b4625417bfd94244b379b5a8f97b5d54244bf4867cab410",
+          "texto_sha256_recalculado": "d0a25a89b12937311b4625417bfd94244b379b5a8f97b5d54244bf4867cab410",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504899311815627004"
+        }
+      ]
+    },
+    {
+      "escena": "x-1506584437201047605",
+      "archivo": "campanas/xoltacan/conocimiento/rol_escrito/escenas/x-1506584437201047605.json",
+      "titulo": "Preparativos para buscar al dragón verde",
+      "sha256_archivo": "5e7381166cf4c984d651117536f2c6164dc2a5ae4a9239189dacbc4746256855",
+      "hash_original_verificado": true,
+      "mensajes_esperados": 69,
+      "mensajes_leidos": 69,
+      "lectura_completa": true,
+      "inicio_utc": "2026-05-20T09:08:40.814000+00:00",
+      "fin_utc": "2026-05-20T17:51:06.586000+00:00",
+      "intervalo_previo": {
+        "anterior": 33,
+        "siguiente": 34,
+        "anterior_catalogado": true,
+        "siguiente_catalogado": true,
+        "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1506363085538201671",
+        "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1509617738774089820",
+        "ambito": "entre_capitulos",
+        "criterio": "horario_y_duracion_con_retrasos",
+        "confianza": "cronologica",
+        "referencias": [
+          {
+            "capitulo": 33,
+            "fecha": "2026-05-19",
+            "inicio_referencia_utc": "2026-05-19T18:28:49+00:00",
+            "fin_estimado_utc": "2026-05-19T21:10:39+00:00",
+            "duracion_video_segundos": 9710,
+            "tipo_referencia": "tarjeta_twitch",
+            "catalogado": true,
+            "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1506363085538201671"
+          },
+          {
+            "capitulo": 34,
+            "fecha": "2026-05-28",
+            "inicio_referencia_utc": "2026-05-28T18:01:39+00:00",
+            "fin_estimado_utc": "2026-05-28T20:49:09+00:00",
+            "duracion_video_segundos": 10050,
+            "tipo_referencia": "tarjeta_twitch",
+            "catalogado": true,
+            "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1509617738774089820"
+          }
+        ],
+        "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
+      },
+      "cobertura_lectura": [
+        {
+          "desde_indice": 0,
+          "hasta_indice": 22,
+          "primer_mid": "1506584437201047605",
+          "ultimo_mid": "1506650242425032885",
+          "mensajes": 23
+        },
+        {
+          "desde_indice": 23,
+          "hasta_indice": 45,
+          "primer_mid": "1506650561603305635",
+          "ultimo_mid": "1506668703079469056",
+          "mensajes": 23
+        },
+        {
+          "desde_indice": 46,
+          "hasta_indice": 68,
+          "primer_mid": "1506669543613927534",
+          "ultimo_mid": "1506715910897926309",
+          "mensajes": 23
+        }
+      ],
+      "mids_leidos_con_hashes": [
+        {
+          "indice": 0,
+          "mensaje_id": "1506584437201047605",
+          "fecha_utc": "2026-05-20T09:08:40.814000+00:00",
+          "mensaje_sha256_archivo": "6c2d0768865f8721c98220ff2155078913b4078077e3207a490e317939d13cf0",
+          "texto_sha256_archivo": "488f320d187423fd89afd5ed76d0a73c2f05a56001461e4d4416b694d87c537d",
+          "texto_sha256_recalculado": "488f320d187423fd89afd5ed76d0a73c2f05a56001461e4d4416b694d87c537d",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506584437201047605"
+        },
+        {
+          "indice": 1,
+          "mensaje_id": "1506585887734108180",
+          "fecha_utc": "2026-05-20T09:14:26.648000+00:00",
+          "mensaje_sha256_archivo": "a75e7af0dc88291f1c1d92586cc4caaec2d7947b2f103d33cfcc668ae5d585c5",
+          "texto_sha256_archivo": "e844ad53ecb6dde94e40ebb32111cae52e364c50009b69c129d18ed10ef6b7cc",
+          "texto_sha256_recalculado": "e844ad53ecb6dde94e40ebb32111cae52e364c50009b69c129d18ed10ef6b7cc",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506585887734108180"
+        },
+        {
+          "indice": 2,
+          "mensaje_id": "1506589020258304031",
+          "fecha_utc": "2026-05-20T09:26:53.500000+00:00",
+          "mensaje_sha256_archivo": "b012b0d6d1c0b2ceaab744954f9eb65d764a06b876f40a5b1661be12bf53081d",
+          "texto_sha256_archivo": "02a236dadb2701ac481ea447b6cc79e60f15a3a4afc880a9ece062bbaac1eed5",
+          "texto_sha256_recalculado": "02a236dadb2701ac481ea447b6cc79e60f15a3a4afc880a9ece062bbaac1eed5",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506589020258304031"
+        },
+        {
+          "indice": 3,
+          "mensaje_id": "1506592124869541928",
+          "fecha_utc": "2026-05-20T09:39:13.697000+00:00",
+          "mensaje_sha256_archivo": "d9a691f98dc806a8eb1027314e5585208d4ecf7b318c1d9123a9ccc56376c1fe",
+          "texto_sha256_archivo": "081b6bc1f41771db4417d86fffc6528322c4944ddba60a292ef4b4be392bc209",
+          "texto_sha256_recalculado": "081b6bc1f41771db4417d86fffc6528322c4944ddba60a292ef4b4be392bc209",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506592124869541928"
+        },
+        {
+          "indice": 4,
+          "mensaje_id": "1506594561072300112",
+          "fecha_utc": "2026-05-20T09:48:54.533000+00:00",
+          "mensaje_sha256_archivo": "a928e705f3feeb81c0c1b832b365eefc3493bdf5c8f9d119a55da9dafe7be839",
+          "texto_sha256_archivo": "9088614522098d6da0fcab9c8404536aaf123b7004c5c9e1fdd7d951a2960669",
+          "texto_sha256_recalculado": "9088614522098d6da0fcab9c8404536aaf123b7004c5c9e1fdd7d951a2960669",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506594561072300112"
+        },
+        {
+          "indice": 5,
+          "mensaje_id": "1506601379626745877",
+          "fecha_utc": "2026-05-20T10:16:00.203000+00:00",
+          "mensaje_sha256_archivo": "118abaf7161e3b4d6f7c22cf8e2eebb0c29217822ba981c7409083b53cfb6ac6",
+          "texto_sha256_archivo": "c0d21f7d09044b705e5c4de4f0ae198593b6f791ce46a5255c5ff24a248951e7",
+          "texto_sha256_recalculado": "c0d21f7d09044b705e5c4de4f0ae198593b6f791ce46a5255c5ff24a248951e7",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506601379626745877"
+        },
+        {
+          "indice": 6,
+          "mensaje_id": "1506604546187595807",
+          "fecha_utc": "2026-05-20T10:28:35.170000+00:00",
+          "mensaje_sha256_archivo": "df24747943b1e6542cab783a261f88f11770d3e0e3d4073d4add4f15e7e8819a",
+          "texto_sha256_archivo": "f86682588ac73659caedf8b6273ab8b915e40e7e5daf7edfb256319ab0046e2a",
+          "texto_sha256_recalculado": "f86682588ac73659caedf8b6273ab8b915e40e7e5daf7edfb256319ab0046e2a",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506604546187595807"
+        },
+        {
+          "indice": 7,
+          "mensaje_id": "1506606980620619867",
+          "fecha_utc": "2026-05-20T10:38:15.584000+00:00",
+          "mensaje_sha256_archivo": "66c4ca78ee7c8b85a58e651a6a99eb6229b55b78ba3929815d0d64fb717f7205",
+          "texto_sha256_archivo": "c7d9754e27b41e2a97cf73355bc53e33a4a6b628581b55d27b43fd12fb836588",
+          "texto_sha256_recalculado": "c7d9754e27b41e2a97cf73355bc53e33a4a6b628581b55d27b43fd12fb836588",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506606980620619867"
+        },
+        {
+          "indice": 8,
+          "mensaje_id": "1506609748257017886",
+          "fecha_utc": "2026-05-20T10:49:15.440000+00:00",
+          "mensaje_sha256_archivo": "955cc3c52ea7ad2fbbcf9063cb46154ce0d1675019aff85551ab651fb3356c28",
+          "texto_sha256_archivo": "2c3bf667acb56b47c0c1f94146b90849c8d89d33186a92b18de55a02233e9bb3",
+          "texto_sha256_recalculado": "2c3bf667acb56b47c0c1f94146b90849c8d89d33186a92b18de55a02233e9bb3",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506609748257017886"
+        },
+        {
+          "indice": 9,
+          "mensaje_id": "1506611714697855087",
+          "fecha_utc": "2026-05-20T10:57:04.276000+00:00",
+          "mensaje_sha256_archivo": "b9b59ec9857ace9d57ef6fd65d03ac9ad86b50eacb990f14fa4a29501f819340",
+          "texto_sha256_archivo": "51a7b115244d1691b129f8034fa4f8595824c7e0a9e9a409dbc41fe9a00d579b",
+          "texto_sha256_recalculado": "51a7b115244d1691b129f8034fa4f8595824c7e0a9e9a409dbc41fe9a00d579b",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506611714697855087"
+        },
+        {
+          "indice": 10,
+          "mensaje_id": "1506616286199681044",
+          "fecha_utc": "2026-05-20T11:15:14.207000+00:00",
+          "mensaje_sha256_archivo": "722fa9fa03762c840aedd671b306e651b276564d237fc57407715b9faf1c3946",
+          "texto_sha256_archivo": "2399da13a02c89b319381d109c5650f106e1eecc580536658c66128412afc086",
+          "texto_sha256_recalculado": "2399da13a02c89b319381d109c5650f106e1eecc580536658c66128412afc086",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506616286199681044"
+        },
+        {
+          "indice": 11,
+          "mensaje_id": "1506638162632380456",
+          "fecha_utc": "2026-05-20T12:42:09.955000+00:00",
+          "mensaje_sha256_archivo": "e02e3988741eb55156061b2416ccc3928d27d726b80f7a11e7f5d6eaf827a9f9",
+          "texto_sha256_archivo": "2379239f3d7e639924aef47c1c42179317ff1f15ce0579f99572dc26186d564c",
+          "texto_sha256_recalculado": "2379239f3d7e639924aef47c1c42179317ff1f15ce0579f99572dc26186d564c",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506638162632380456"
+        },
+        {
+          "indice": 12,
+          "mensaje_id": "1506638802775441458",
+          "fecha_utc": "2026-05-20T12:44:42.577000+00:00",
+          "mensaje_sha256_archivo": "c5347e114ad08c941a0c888f2ba29a435dc59e383997fc855744fb21ab2ba1b6",
+          "texto_sha256_archivo": "d781079e458e3da1b31efa82b638a6a24b874a1dc15ed991fa48e9017bd468f3",
+          "texto_sha256_recalculado": "d781079e458e3da1b31efa82b638a6a24b874a1dc15ed991fa48e9017bd468f3",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506638802775441458"
+        },
+        {
+          "indice": 13,
+          "mensaje_id": "1506639945580810371",
+          "fecha_utc": "2026-05-20T12:49:15.043000+00:00",
+          "mensaje_sha256_archivo": "ef07ed0c9047c9859edf46840f58d4cdd58063dc651baf699d872d0cb7c2cb74",
+          "texto_sha256_archivo": "9799b3fcdec97cf58fd60fc583b02cbfa886955a007581173c292e66bc0b46b4",
+          "texto_sha256_recalculado": "9799b3fcdec97cf58fd60fc583b02cbfa886955a007581173c292e66bc0b46b4",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506639945580810371"
+        },
+        {
+          "indice": 14,
+          "mensaje_id": "1506640508494286868",
+          "fecha_utc": "2026-05-20T12:51:29.252000+00:00",
+          "mensaje_sha256_archivo": "9c89f110a02b872a316e4a13f4d22216ab4fe1dd9be4fce3267eaf01f9ed1a0b",
+          "texto_sha256_archivo": "ba4d3bfe73e0226c560bf18eb339b8a6b47e94c9af1d489f95100bb8c7284bec",
+          "texto_sha256_recalculado": "ba4d3bfe73e0226c560bf18eb339b8a6b47e94c9af1d489f95100bb8c7284bec",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506640508494286868"
+        },
+        {
+          "indice": 15,
+          "mensaje_id": "1506641546550706217",
+          "fecha_utc": "2026-05-20T12:55:36.744000+00:00",
+          "mensaje_sha256_archivo": "9a9e217ae88450a8bab08dd1e1a18b296c1372ff3db21510ac65e90452a6a33c",
+          "texto_sha256_archivo": "187d20b7ebbd9b416b4f6fbc501b7e722b27158d07a08a6273fd2e57f7b37100",
+          "texto_sha256_recalculado": "187d20b7ebbd9b416b4f6fbc501b7e722b27158d07a08a6273fd2e57f7b37100",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506641546550706217"
+        },
+        {
+          "indice": 16,
+          "mensaje_id": "1506642529347702914",
+          "fecha_utc": "2026-05-20T12:59:31.061000+00:00",
+          "mensaje_sha256_archivo": "d55ce5b4f94c2f787a15e1e621202c40331175f55698b23d27a61e442234400e",
+          "texto_sha256_archivo": "0b8c1aafcd6b4723e3eb067538d4c8c2aa08a76005adbedfb7c5167a4118690e",
+          "texto_sha256_recalculado": "0b8c1aafcd6b4723e3eb067538d4c8c2aa08a76005adbedfb7c5167a4118690e",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506642529347702914"
+        },
+        {
+          "indice": 17,
+          "mensaje_id": "1506642941693792256",
+          "fecha_utc": "2026-05-20T13:01:09.372000+00:00",
+          "mensaje_sha256_archivo": "acc7cb9f7337b36a867d3b83419eacdb032c2f8a129277a068ab95b805f85eef",
+          "texto_sha256_archivo": "277c8469c53295394cc10b13a2a728324f76c4f35071f8c5a0f6fc7137e10e67",
+          "texto_sha256_recalculado": "277c8469c53295394cc10b13a2a728324f76c4f35071f8c5a0f6fc7137e10e67",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506642941693792256"
+        },
+        {
+          "indice": 18,
+          "mensaje_id": "1506643192848580680",
+          "fecha_utc": "2026-05-20T13:02:09.252000+00:00",
+          "mensaje_sha256_archivo": "53ccff30d9d55bca08bb27f3fa882c879c2e276203d1ce24d4203bcd97f0c1c4",
+          "texto_sha256_archivo": "2277ba3a76f2ba104d79e7f555eb8221b95f030ef467e9afb1e411388d7a74c7",
+          "texto_sha256_recalculado": "2277ba3a76f2ba104d79e7f555eb8221b95f030ef467e9afb1e411388d7a74c7",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506643192848580680"
+        },
+        {
+          "indice": 19,
+          "mensaje_id": "1506643607149351033",
+          "fecha_utc": "2026-05-20T13:03:48.029000+00:00",
+          "mensaje_sha256_archivo": "a3e7acc87f21b23cdfe173935db68ca223c849cfb36f103c1b0e1eeb60f8ae48",
+          "texto_sha256_archivo": "b7e29b9f0afd1e60abb0c443c4de8991a9d16c666e5f1adddd35f2260bb47e84",
+          "texto_sha256_recalculado": "b7e29b9f0afd1e60abb0c443c4de8991a9d16c666e5f1adddd35f2260bb47e84",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506643607149351033"
+        },
+        {
+          "indice": 20,
+          "mensaje_id": "1506643763290706031",
+          "fecha_utc": "2026-05-20T13:04:25.256000+00:00",
+          "mensaje_sha256_archivo": "f839f00c93463eca3c92d871dd76261e8395199bc4da20dc10c9013cfec6e2a4",
+          "texto_sha256_archivo": "879131cc9ff4a6829c84c939b2da375f87ac888ac93a7a51f5c523acb77c835a",
+          "texto_sha256_recalculado": "879131cc9ff4a6829c84c939b2da375f87ac888ac93a7a51f5c523acb77c835a",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506643763290706031"
+        },
+        {
+          "indice": 21,
+          "mensaje_id": "1506649007538176030",
+          "fecha_utc": "2026-05-20T13:25:15.582000+00:00",
+          "mensaje_sha256_archivo": "4487bf6d8b40af7e9019764e01a039e9d4eddd96b4a313c1557557cab5cd9dd7",
+          "texto_sha256_archivo": "66cc882033e4dc43ff4ce48400a88975a37ae6ff458683bd233f81e45219bfbe",
+          "texto_sha256_recalculado": "66cc882033e4dc43ff4ce48400a88975a37ae6ff458683bd233f81e45219bfbe",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506649007538176030"
+        },
+        {
+          "indice": 22,
+          "mensaje_id": "1506650242425032885",
+          "fecha_utc": "2026-05-20T13:30:10.002000+00:00",
+          "mensaje_sha256_archivo": "2d2e0fcc2db31247b99e5fbbf08022a62b3dbb35198bfd4f7a2f1e206e83d84f",
+          "texto_sha256_archivo": "fc11d9cbcd7e1389bb5eddbccd48761c6900667ce20d1bcccd4b199f2a07ed9c",
+          "texto_sha256_recalculado": "fc11d9cbcd7e1389bb5eddbccd48761c6900667ce20d1bcccd4b199f2a07ed9c",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506650242425032885"
+        },
+        {
+          "indice": 23,
+          "mensaje_id": "1506650561603305635",
+          "fecha_utc": "2026-05-20T13:31:26.100000+00:00",
+          "mensaje_sha256_archivo": "4971de35e04a0b8cdbc1ef787a0facea6ba6280d54f10e035e803730f8e750f3",
+          "texto_sha256_archivo": "9a60633b9c9b77c921926e8102fa384c050c44cdb07078ff6464e8b3d3a62b5e",
+          "texto_sha256_recalculado": "9a60633b9c9b77c921926e8102fa384c050c44cdb07078ff6464e8b3d3a62b5e",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506650561603305635"
+        },
+        {
+          "indice": 24,
+          "mensaje_id": "1506650701131026555",
+          "fecha_utc": "2026-05-20T13:31:59.366000+00:00",
+          "mensaje_sha256_archivo": "0146aeea713a501b52fc376ad7d2fa53e6ff77e5c674bb3c15c7b6be298b2c72",
+          "texto_sha256_archivo": "4c90620b32caa63307619d13169e5cd79ae7cfad374c9e53e4df4ed4473bd065",
+          "texto_sha256_recalculado": "4c90620b32caa63307619d13169e5cd79ae7cfad374c9e53e4df4ed4473bd065",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506650701131026555"
+        },
+        {
+          "indice": 25,
+          "mensaje_id": "1506652674110787635",
+          "fecha_utc": "2026-05-20T13:39:49.761000+00:00",
+          "mensaje_sha256_archivo": "2ca541f0d7005e8c2a3dcaa6f8967a3bb0f88ede5783f851e0742e4670b7b8e2",
+          "texto_sha256_archivo": "dc6a74e4cab628ef8806823c11ffbfd48c259a7384d5b9dc5f710044d195249c",
+          "texto_sha256_recalculado": "dc6a74e4cab628ef8806823c11ffbfd48c259a7384d5b9dc5f710044d195249c",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506652674110787635"
+        },
+        {
+          "indice": 26,
+          "mensaje_id": "1506652869313429655",
+          "fecha_utc": "2026-05-20T13:40:36.301000+00:00",
+          "mensaje_sha256_archivo": "3378798534e019590a00e70ec8a85c6391fe01b847f2f6f6443b565ad774f575",
+          "texto_sha256_archivo": "0a8484679cd2d3b9edc48a25a6bc1ae73bb9729f83f3800605008a1bb80567df",
+          "texto_sha256_recalculado": "0a8484679cd2d3b9edc48a25a6bc1ae73bb9729f83f3800605008a1bb80567df",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506652869313429655"
+        },
+        {
+          "indice": 27,
+          "mensaje_id": "1506655193050124503",
+          "fecha_utc": "2026-05-20T13:49:50.323000+00:00",
+          "mensaje_sha256_archivo": "20ac559f0ebe04019d46d0f3afc34a16f7d58bd5b801efa5ac89d96871bdbc12",
+          "texto_sha256_archivo": "fd5caa60c9f38dec9a3c7c144a68acbefe78d3b0617822e3438bbd33705708d2",
+          "texto_sha256_recalculado": "fd5caa60c9f38dec9a3c7c144a68acbefe78d3b0617822e3438bbd33705708d2",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506655193050124503"
+        },
+        {
+          "indice": 28,
+          "mensaje_id": "1506655472709669045",
+          "fecha_utc": "2026-05-20T13:50:56.999000+00:00",
+          "mensaje_sha256_archivo": "2a6b2a02f186e90d84b50c04697d71a6a563ad29b410fd03a7903e163e1ae959",
+          "texto_sha256_archivo": "31d9a000ab3f1876cbdf29b475c8789456bb26db350b7d48ddf7bb040e0e1832",
+          "texto_sha256_recalculado": "31d9a000ab3f1876cbdf29b475c8789456bb26db350b7d48ddf7bb040e0e1832",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506655472709669045"
+        },
+        {
+          "indice": 29,
+          "mensaje_id": "1506656509382365344",
+          "fecha_utc": "2026-05-20T13:55:04.161000+00:00",
+          "mensaje_sha256_archivo": "4b29c7627afacf4987fb02e9a0e3139b75e52964b84abd100c1244dbe21bd121",
+          "texto_sha256_archivo": "829f352ba874c119122fead9e50a331a5cc7d43acfd38477ac108d8aa2d0af10",
+          "texto_sha256_recalculado": "829f352ba874c119122fead9e50a331a5cc7d43acfd38477ac108d8aa2d0af10",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506656509382365344"
+        },
+        {
+          "indice": 30,
+          "mensaje_id": "1506657405671571507",
+          "fecha_utc": "2026-05-20T13:58:37.853000+00:00",
+          "mensaje_sha256_archivo": "116adab614ae2a09027dc868e89efbab760dcbfd607c1e72f91680485de752f5",
+          "texto_sha256_archivo": "771c3a9157fa64cf7b3148da11fd1202e51ce3bbac4977ea58635e312fd79e04",
+          "texto_sha256_recalculado": "771c3a9157fa64cf7b3148da11fd1202e51ce3bbac4977ea58635e312fd79e04",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506657405671571507"
+        },
+        {
+          "indice": 31,
+          "mensaje_id": "1506662576459743463",
+          "fecha_utc": "2026-05-20T14:19:10.665000+00:00",
+          "mensaje_sha256_archivo": "7c74b759f488fd53a4e7ac92d07a661c5442dbae12b167dc0578d8c72cdf28f0",
+          "texto_sha256_archivo": "9e3cbdf103015087a7838ca56b7c787c0fbc618f378bb21273693f2243165f1f",
+          "texto_sha256_recalculado": "9e3cbdf103015087a7838ca56b7c787c0fbc618f378bb21273693f2243165f1f",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506662576459743463"
+        },
+        {
+          "indice": 32,
+          "mensaje_id": "1506664065819480114",
+          "fecha_utc": "2026-05-20T14:25:05.756000+00:00",
+          "mensaje_sha256_archivo": "4a827fba699993d74fff362f60761abdd619a3f9b417a8c048407ef417b4092e",
+          "texto_sha256_archivo": "a8f3fbd00ccc16ce97b11042ccd4235b6c9cd4e6be437a46cb43ed0a0e7a8187",
+          "texto_sha256_recalculado": "a8f3fbd00ccc16ce97b11042ccd4235b6c9cd4e6be437a46cb43ed0a0e7a8187",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506664065819480114"
+        },
+        {
+          "indice": 33,
+          "mensaje_id": "1506664171402432562",
+          "fecha_utc": "2026-05-20T14:25:30.929000+00:00",
+          "mensaje_sha256_archivo": "bf3c43941866f141c4c80683bdfec20e22f45602301303557c9c02ce0c203d48",
+          "texto_sha256_archivo": "408019ddf3296b25472abec091c09158e82eb87c74dea63a890cbe6fa41934cc",
+          "texto_sha256_recalculado": "408019ddf3296b25472abec091c09158e82eb87c74dea63a890cbe6fa41934cc",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506664171402432562"
+        },
+        {
+          "indice": 34,
+          "mensaje_id": "1506664202625089737",
+          "fecha_utc": "2026-05-20T14:25:38.373000+00:00",
+          "mensaje_sha256_archivo": "16f058f378c83dc9790849239535204f945347975368276b42d84be3a4898bbc",
+          "texto_sha256_archivo": "890c9f37aeb3816906cf21c151cf25684b672d2a4159ba4e6fe706ef8e206891",
+          "texto_sha256_recalculado": "890c9f37aeb3816906cf21c151cf25684b672d2a4159ba4e6fe706ef8e206891",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506664202625089737"
+        },
+        {
+          "indice": 35,
+          "mensaje_id": "1506664339803734147",
+          "fecha_utc": "2026-05-20T14:26:11.079000+00:00",
+          "mensaje_sha256_archivo": "d0284e614ee0741c6887ab1f832e69a69b31fa215ffaa295fc16ef6b159eb825",
+          "texto_sha256_archivo": "fa721c8401d2c57bfe853517db7d3a2d77bbb1b201705f3234bc0917c8505faa",
+          "texto_sha256_recalculado": "fa721c8401d2c57bfe853517db7d3a2d77bbb1b201705f3234bc0917c8505faa",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506664339803734147"
+        },
+        {
+          "indice": 36,
+          "mensaje_id": "1506665106711252993",
+          "fecha_utc": "2026-05-20T14:29:13.924000+00:00",
+          "mensaje_sha256_archivo": "28361006feaf307605006b9ea7d9031db202758b734a7342227f2b2be661cb6e",
+          "texto_sha256_archivo": "c2589d79b20f262d1fc165f0cdc8c1fd5e3e0a106a6a9bf9e520253a51ec7d57",
+          "texto_sha256_recalculado": "c2589d79b20f262d1fc165f0cdc8c1fd5e3e0a106a6a9bf9e520253a51ec7d57",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506665106711252993"
+        },
+        {
+          "indice": 37,
+          "mensaje_id": "1506665507909009469",
+          "fecha_utc": "2026-05-20T14:30:49.577000+00:00",
+          "mensaje_sha256_archivo": "de0398c81b2087125dbe4f98d4d0e2e2ce4dbe1a6f0ba342c92b07bd7acee9b0",
+          "texto_sha256_archivo": "5d9ce7712e1f950412bfd219feb8d0b08aa1e845cdb36a9ffa79b8a309b08bc5",
+          "texto_sha256_recalculado": "5d9ce7712e1f950412bfd219feb8d0b08aa1e845cdb36a9ffa79b8a309b08bc5",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506665507909009469"
+        },
+        {
+          "indice": 38,
+          "mensaje_id": "1506665806229147659",
+          "fecha_utc": "2026-05-20T14:32:00.702000+00:00",
+          "mensaje_sha256_archivo": "47b27614b321d5c29cf9b6995fd4bd288d5e8c4aea90fb6de2019be0a90cf69e",
+          "texto_sha256_archivo": "8d8a7372f1b06a856c39d8e89e5f43a0a33de85cb92dd0fc92b1ee5ac0f7aa1d",
+          "texto_sha256_recalculado": "8d8a7372f1b06a856c39d8e89e5f43a0a33de85cb92dd0fc92b1ee5ac0f7aa1d",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506665806229147659"
+        },
+        {
+          "indice": 39,
+          "mensaje_id": "1506665966212481186",
+          "fecha_utc": "2026-05-20T14:32:38.845000+00:00",
+          "mensaje_sha256_archivo": "5073e9c31c9b51621114931ca531d63210e483a8acbb5d3f764cb6675ab14228",
+          "texto_sha256_archivo": "4c53f4639783d8d22ea1bcaaef0558924e89e55ff93f49c56969aee3e16cda80",
+          "texto_sha256_recalculado": "4c53f4639783d8d22ea1bcaaef0558924e89e55ff93f49c56969aee3e16cda80",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506665966212481186"
+        },
+        {
+          "indice": 40,
+          "mensaje_id": "1506667257906991256",
+          "fecha_utc": "2026-05-20T14:37:46.809000+00:00",
+          "mensaje_sha256_archivo": "c724e67293446bc3dcd2de82e274a817b603248466656d6c785b61e431f31115",
+          "texto_sha256_archivo": "e4c54b3d751a94c5f248846c38d4b3a22cbc2ce17495120e5effea139af80604",
+          "texto_sha256_recalculado": "e4c54b3d751a94c5f248846c38d4b3a22cbc2ce17495120e5effea139af80604",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506667257906991256"
+        },
+        {
+          "indice": 41,
+          "mensaje_id": "1506667276940738710",
+          "fecha_utc": "2026-05-20T14:37:51.347000+00:00",
+          "mensaje_sha256_archivo": "da446087a689e37997604220e41deb30cda37219ded050f6942a49e4236f2d1d",
+          "texto_sha256_archivo": "0c9f16ea9555d0e42c6ade8b087422b1996288499187cee194eee13f579322de",
+          "texto_sha256_recalculado": "0c9f16ea9555d0e42c6ade8b087422b1996288499187cee194eee13f579322de",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506667276940738710"
+        },
+        {
+          "indice": 42,
+          "mensaje_id": "1506667503261188176",
+          "fecha_utc": "2026-05-20T14:38:45.306000+00:00",
+          "mensaje_sha256_archivo": "dd47951774e2f160c9d5ee6459f730affa064d0b1f842cc334aa782079a744d3",
+          "texto_sha256_archivo": "bbbe7d22c727254fe36edba6b83a5802b86f757b49db5ed8a5c9f49a651c9283",
+          "texto_sha256_recalculado": "bbbe7d22c727254fe36edba6b83a5802b86f757b49db5ed8a5c9f49a651c9283",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506667503261188176"
+        },
+        {
+          "indice": 43,
+          "mensaje_id": "1506667934335107195",
+          "fecha_utc": "2026-05-20T14:40:28.082000+00:00",
+          "mensaje_sha256_archivo": "3443dd7c6e2cb97e49869396ae338d71294d10146037536c975dec37bf0570f9",
+          "texto_sha256_archivo": "f552d02b44a4fbadc42c3eefe35c62e4352ce454d31211e3074cc86885713286",
+          "texto_sha256_recalculado": "f552d02b44a4fbadc42c3eefe35c62e4352ce454d31211e3074cc86885713286",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506667934335107195"
+        },
+        {
+          "indice": 44,
+          "mensaje_id": "1506668170646257794",
+          "fecha_utc": "2026-05-20T14:41:24.423000+00:00",
+          "mensaje_sha256_archivo": "ee3e1f23c61d084cd5a7c70eb66da1f44475071c9c6ac38b05859f895652faaa",
+          "texto_sha256_archivo": "730901e767b8748a0646702efdf22b0010455f11b5a6a738c484ce44df111ab0",
+          "texto_sha256_recalculado": "730901e767b8748a0646702efdf22b0010455f11b5a6a738c484ce44df111ab0",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506668170646257794"
+        },
+        {
+          "indice": 45,
+          "mensaje_id": "1506668703079469056",
+          "fecha_utc": "2026-05-20T14:43:31.365000+00:00",
+          "mensaje_sha256_archivo": "3fb64fa13e3ef93350a01865aec037fc41dde11c9c3eee67ab5a2d6163362ca0",
+          "texto_sha256_archivo": "90fd355ad7247e5d3dccfba7f3f278a76b85a3bb243e0e4ee7401afb9bee40ca",
+          "texto_sha256_recalculado": "90fd355ad7247e5d3dccfba7f3f278a76b85a3bb243e0e4ee7401afb9bee40ca",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506668703079469056"
+        },
+        {
+          "indice": 46,
+          "mensaje_id": "1506669543613927534",
+          "fecha_utc": "2026-05-20T14:46:51.764000+00:00",
+          "mensaje_sha256_archivo": "900ec2bf5272921dcfccc5a74fd7f0874d6145ae7348b88c845883f4992c2172",
+          "texto_sha256_archivo": "2365ae54cf0c5c30116d495b8c52902e91e2942c06d1d81de76e2403824eaf08",
+          "texto_sha256_recalculado": "2365ae54cf0c5c30116d495b8c52902e91e2942c06d1d81de76e2403824eaf08",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506669543613927534"
+        },
+        {
+          "indice": 47,
+          "mensaje_id": "1506669780638109807",
+          "fecha_utc": "2026-05-20T14:47:48.275000+00:00",
+          "mensaje_sha256_archivo": "7d69d7661e8b24436df37e5ca5354e46b9d135aac029cb8766c5cf125c00d736",
+          "texto_sha256_archivo": "79350fcf5759b0c9203bcaff8d736bab7ca092231eba27ea940b10467f79bd1e",
+          "texto_sha256_recalculado": "79350fcf5759b0c9203bcaff8d736bab7ca092231eba27ea940b10467f79bd1e",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506669780638109807"
+        },
+        {
+          "indice": 48,
+          "mensaje_id": "1506670465219952710",
+          "fecha_utc": "2026-05-20T14:50:31.492000+00:00",
+          "mensaje_sha256_archivo": "ee60dc87bf08553121bee607d494711ed414d8df1a9f701b6afd71a9d6abd229",
+          "texto_sha256_archivo": "720af28e7383888d6c129f60047efc4279d9a68b294ae2aef5712fbda53a939a",
+          "texto_sha256_recalculado": "720af28e7383888d6c129f60047efc4279d9a68b294ae2aef5712fbda53a939a",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506670465219952710"
+        },
+        {
+          "indice": 49,
+          "mensaje_id": "1506670778626867272",
+          "fecha_utc": "2026-05-20T14:51:46.214000+00:00",
+          "mensaje_sha256_archivo": "8ee23590a2b34548c6ba8af6041684417b135e17eda38af8cac38ad032746b17",
+          "texto_sha256_archivo": "2efb50ea493a23445626463fb42c62f5e680897eefe00bd457d60447ab77dccc",
+          "texto_sha256_recalculado": "2efb50ea493a23445626463fb42c62f5e680897eefe00bd457d60447ab77dccc",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506670778626867272"
+        },
+        {
+          "indice": 50,
+          "mensaje_id": "1506671747607429393",
+          "fecha_utc": "2026-05-20T14:55:37.237000+00:00",
+          "mensaje_sha256_archivo": "35f5df12ea9adfdb6462b1a2a4e06203cc61689607dd13f9e868fe1f017c4c67",
+          "texto_sha256_archivo": "bf32500815c6d6ef1807c86a9ee6ef74582b62b208914786df8fd7036112389b",
+          "texto_sha256_recalculado": "bf32500815c6d6ef1807c86a9ee6ef74582b62b208914786df8fd7036112389b",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506671747607429393"
+        },
+        {
+          "indice": 51,
+          "mensaje_id": "1506673473236242654",
+          "fecha_utc": "2026-05-20T15:02:28.659000+00:00",
+          "mensaje_sha256_archivo": "b9f26c06827a79b5a2dba05c8b49fa7003a71663b0b36dca89ad67a9631e7381",
+          "texto_sha256_archivo": "1bdd5826bf6a7660f13a7467a9983401c175c0c8cb04d33d5999c34a82c67312",
+          "texto_sha256_recalculado": "1bdd5826bf6a7660f13a7467a9983401c175c0c8cb04d33d5999c34a82c67312",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506673473236242654"
+        },
+        {
+          "indice": 52,
+          "mensaje_id": "1506674048610992320",
+          "fecha_utc": "2026-05-20T15:04:45.839000+00:00",
+          "mensaje_sha256_archivo": "b015d034203fd8d20c695612495a2e25250639a7c5f00e4bb086b59031975b57",
+          "texto_sha256_archivo": "5c6cdcf8e760681a5731e1e0f75d375ea02c9e37841aa4d236536adb7b579a44",
+          "texto_sha256_recalculado": "5c6cdcf8e760681a5731e1e0f75d375ea02c9e37841aa4d236536adb7b579a44",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506674048610992320"
+        },
+        {
+          "indice": 53,
+          "mensaje_id": "1506674702247006350",
+          "fecha_utc": "2026-05-20T15:07:21.678000+00:00",
+          "mensaje_sha256_archivo": "41e347ab5a1f68687ac1b7e954abbeca0c9889cf639d72a8f6abbf456e1cce18",
+          "texto_sha256_archivo": "d683260944161c04db1fae042e75fdcfb85c6a23a985c4bd7efc9b0706f12d66",
+          "texto_sha256_recalculado": "d683260944161c04db1fae042e75fdcfb85c6a23a985c4bd7efc9b0706f12d66",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506674702247006350"
+        },
+        {
+          "indice": 54,
+          "mensaje_id": "1506675693419892807",
+          "fecha_utc": "2026-05-20T15:11:17.992000+00:00",
+          "mensaje_sha256_archivo": "e24d4ca80d095154a9f049747015f27b7b787a9cd5325c8a9169e7d0fb36e900",
+          "texto_sha256_archivo": "d006e6af2843d38d22564ff67c2297419c73b0bbe3dcb5b967a843edcb7ae715",
+          "texto_sha256_recalculado": "d006e6af2843d38d22564ff67c2297419c73b0bbe3dcb5b967a843edcb7ae715",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506675693419892807"
+        },
+        {
+          "indice": 55,
+          "mensaje_id": "1506675746536685649",
+          "fecha_utc": "2026-05-20T15:11:30.656000+00:00",
+          "mensaje_sha256_archivo": "147f99f83beb851f3fbf59b7511c0c5da67753d326392f0388d1c631b075130b",
+          "texto_sha256_archivo": "8410338268000eb4f0e08d1ff535e9c3aa63c8949c60098b53364d2d6f718d99",
+          "texto_sha256_recalculado": "8410338268000eb4f0e08d1ff535e9c3aa63c8949c60098b53364d2d6f718d99",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506675746536685649"
+        },
+        {
+          "indice": 56,
+          "mensaje_id": "1506677889733628077",
+          "fecha_utc": "2026-05-20T15:20:01.634000+00:00",
+          "mensaje_sha256_archivo": "a22c61debf8ebdf40897aae83a0f6c7c73de724d7ce59d06f1ee0eee167c8f2c",
+          "texto_sha256_archivo": "5ef1e28e0188215486984363a3b7abff77b2c63b3f42732bdb0ab058a17c73eb",
+          "texto_sha256_recalculado": "5ef1e28e0188215486984363a3b7abff77b2c63b3f42732bdb0ab058a17c73eb",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506677889733628077"
+        },
+        {
+          "indice": 57,
+          "mensaje_id": "1506678469784768522",
+          "fecha_utc": "2026-05-20T15:22:19.929000+00:00",
+          "mensaje_sha256_archivo": "d67d9e48b0e37948f7db36eba359d6868e0ce88ab57a179576cf04eb1ef03bbd",
+          "texto_sha256_archivo": "39dc03ee1eca8c1e88bc16329d117a331935733d4f13f82216af8b663aac6147",
+          "texto_sha256_recalculado": "39dc03ee1eca8c1e88bc16329d117a331935733d4f13f82216af8b663aac6147",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506678469784768522"
+        },
+        {
+          "indice": 58,
+          "mensaje_id": "1506678806537306223",
+          "fecha_utc": "2026-05-20T15:23:40.217000+00:00",
+          "mensaje_sha256_archivo": "10f63a7887e8dabd0f063bec11173c69b9ce44eaa16742b07c8477cff72f0d45",
+          "texto_sha256_archivo": "50e58b82d0088675febe17deab4d54cababb0972062a3684017a7a4575f62c71",
+          "texto_sha256_recalculado": "50e58b82d0088675febe17deab4d54cababb0972062a3684017a7a4575f62c71",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506678806537306223"
+        },
+        {
+          "indice": 59,
+          "mensaje_id": "1506681113517625394",
+          "fecha_utc": "2026-05-20T15:32:50.244000+00:00",
+          "mensaje_sha256_archivo": "ce011ba36223a1c9b7a5ac2b2b16f917519d53ff85e5ea25a60077a22eab954e",
+          "texto_sha256_archivo": "9291a78f5c744f30fedb2127705a836e9f53cda51d238629e1e1440a796c5c43",
+          "texto_sha256_recalculado": "9291a78f5c744f30fedb2127705a836e9f53cda51d238629e1e1440a796c5c43",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506681113517625394"
+        },
+        {
+          "indice": 60,
+          "mensaje_id": "1506682488859394242",
+          "fecha_utc": "2026-05-20T15:38:18.151000+00:00",
+          "mensaje_sha256_archivo": "1ca95c1f387b8e79da6a84cba482bde0579ec28c6cf4bc510bf2fce0422d92ac",
+          "texto_sha256_archivo": "2dc033af6de9301e13589365c27b5a1b080c7f5c83fca326a13b667f80ffab1b",
+          "texto_sha256_recalculado": "2dc033af6de9301e13589365c27b5a1b080c7f5c83fca326a13b667f80ffab1b",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506682488859394242"
+        },
+        {
+          "indice": 61,
+          "mensaje_id": "1506685968982216726",
+          "fecha_utc": "2026-05-20T15:52:07.877000+00:00",
+          "mensaje_sha256_archivo": "8206ea8a8bce7f61e0cde87f972cf2c8dd7903dd5cc1ced390425eb6945038cf",
+          "texto_sha256_archivo": "7002862aec0483698bbabe9eea6967536c72499cb3d0cee45a24c658036741f2",
+          "texto_sha256_recalculado": "7002862aec0483698bbabe9eea6967536c72499cb3d0cee45a24c658036741f2",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506685968982216726"
+        },
+        {
+          "indice": 62,
+          "mensaje_id": "1506687992964710400",
+          "fecha_utc": "2026-05-20T16:00:10.432000+00:00",
+          "mensaje_sha256_archivo": "b4ec3689fba2d107e55e01f5b5ed972b468202d6360bde3a21cf86a0c38fc871",
+          "texto_sha256_archivo": "fb34d8166b787f51d528ac65413667c5f666061c05d998bd0e83055c0b33efd4",
+          "texto_sha256_recalculado": "fb34d8166b787f51d528ac65413667c5f666061c05d998bd0e83055c0b33efd4",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506687992964710400"
+        },
+        {
+          "indice": 63,
+          "mensaje_id": "1506688313677975694",
+          "fecha_utc": "2026-05-20T16:01:26.896000+00:00",
+          "mensaje_sha256_archivo": "744b3f90f26f205849f14f796bf323a8803f92fa319040e75a7b65b4bafc269e",
+          "texto_sha256_archivo": "177ad5504362ebbf564066ba0460f6bfc8cffd36f14bb90b6b4653ec619f021f",
+          "texto_sha256_recalculado": "177ad5504362ebbf564066ba0460f6bfc8cffd36f14bb90b6b4653ec619f021f",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506688313677975694"
+        },
+        {
+          "indice": 64,
+          "mensaje_id": "1506688933415620678",
+          "fecha_utc": "2026-05-20T16:03:54.653000+00:00",
+          "mensaje_sha256_archivo": "0f13d60bf8fb15c8a90bb8b3133442c13603b99acdcf7dc3e42606eed0731584",
+          "texto_sha256_archivo": "3ee79e5f3796b1763e83a9f4c2540bf54ba091e384689f5742481558b01f45b5",
+          "texto_sha256_recalculado": "3ee79e5f3796b1763e83a9f4c2540bf54ba091e384689f5742481558b01f45b5",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506688933415620678"
+        },
+        {
+          "indice": 65,
+          "mensaje_id": "1506689444613197934",
+          "fecha_utc": "2026-05-20T16:05:56.532000+00:00",
+          "mensaje_sha256_archivo": "bdc22f3dcea6ff18ec8953f29396ff067c3768188af4ea09289c43a2096c36ed",
+          "texto_sha256_archivo": "811cb99125a0e42445e155632f97a985ba1f6b085c42b60aaed8477cccabc05c",
+          "texto_sha256_recalculado": "811cb99125a0e42445e155632f97a985ba1f6b085c42b60aaed8477cccabc05c",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506689444613197934"
+        },
+        {
+          "indice": 66,
+          "mensaje_id": "1506697793513979934",
+          "fecha_utc": "2026-05-20T16:39:07.065000+00:00",
+          "mensaje_sha256_archivo": "47cc3e07b890260c7f0c0c5b4705ca364b57464de042b16e8674119dea59f15f",
+          "texto_sha256_archivo": "09aaf76808ec22efadd5e2b60fa5edb22dcd9d495f7d68a216841613f90dfd2c",
+          "texto_sha256_recalculado": "09aaf76808ec22efadd5e2b60fa5edb22dcd9d495f7d68a216841613f90dfd2c",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506697793513979934"
+        },
+        {
+          "indice": 67,
+          "mensaje_id": "1506712292962861106",
+          "fecha_utc": "2026-05-20T17:36:44.003000+00:00",
+          "mensaje_sha256_archivo": "7af97b5567d728cf23fbb2ac8377a4493a1df3a513e59804d5bc04030cbc9a57",
+          "texto_sha256_archivo": "67fa22852ace28fda16888bc8c8784ee085a77ffa9b375350cab8ddf314dc31f",
+          "texto_sha256_recalculado": "67fa22852ace28fda16888bc8c8784ee085a77ffa9b375350cab8ddf314dc31f",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506712292962861106"
+        },
+        {
+          "indice": 68,
+          "mensaje_id": "1506715910897926309",
+          "fecha_utc": "2026-05-20T17:51:06.586000+00:00",
+          "mensaje_sha256_archivo": "cd4be42fb697ba23578324c0f223b6829ed8ab65eb0c417929159027e376df28",
+          "texto_sha256_archivo": "5584348fa57db7efcc686f8a10e79b1405852f6d850b346f2d28d2f50dd4f119",
+          "texto_sha256_recalculado": "5584348fa57db7efcc686f8a10e79b1405852f6d850b346f2d28d2f50dd4f119",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506715910897926309"
+        }
+      ]
+    },
+    {
+      "escena": "x-1528736536982454303",
+      "archivo": "campanas/xoltacan/conocimiento/rol_escrito/escenas/x-1528736536982454303.json",
+      "titulo": "El brazalete de Eldrath y la historia de Helena",
+      "sha256_archivo": "792fd8a310103b44aa66bab67ee0cf0f6927b7f6fa410971d9ed8d7d8d690afc",
+      "hash_original_verificado": true,
+      "mensajes_esperados": 80,
+      "mensajes_leidos": 80,
+      "lectura_completa": true,
+      "inicio_utc": "2026-07-20T12:13:12.968000+00:00",
+      "fin_utc": "2026-07-21T16:58:29.216000+00:00",
+      "intervalo_previo": {
+        "anterior": 45,
+        "siguiente": 46,
+        "anterior_catalogado": false,
+        "siguiente_catalogado": false,
+        "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527375684333338644",
+        "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1529917702439698493",
+        "ambito": "despues_del_catalogo",
+        "criterio": "horario_y_duracion_con_retrasos",
+        "confianza": "cronologica",
+        "referencias": [
+          {
+            "capitulo": 45,
+            "fecha": "2026-07-16",
+            "inicio_referencia_utc": "2026-07-16T18:02:20+00:00",
+            "fin_estimado_utc": null,
+            "duracion_video_segundos": null,
+            "tipo_referencia": "tarjeta_twitch_sin_video",
+            "catalogado": false,
+            "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1527375684333338644"
+          },
+          {
+            "capitulo": 46,
+            "fecha": "2026-07-23",
+            "inicio_referencia_utc": "2026-07-23T18:26:16+00:00",
+            "fin_estimado_utc": null,
+            "duracion_video_segundos": null,
+            "tipo_referencia": "tarjeta_twitch_sin_video",
+            "catalogado": false,
+            "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1529917702439698493"
+          }
+        ],
+        "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+      },
+      "cobertura_lectura": [
+        {
+          "desde_indice": 0,
+          "hasta_indice": 19,
+          "primer_mid": "1528736536982454303",
+          "ultimo_mid": "1528784881885253843",
+          "mensajes": 20
+        },
+        {
+          "desde_indice": 20,
+          "hasta_indice": 39,
+          "primer_mid": "1528784954127945951",
+          "ultimo_mid": "1528805712119992540",
+          "mensajes": 20
+        },
+        {
+          "desde_indice": 40,
+          "hasta_indice": 59,
+          "primer_mid": "1528805964046925995",
+          "ultimo_mid": "1529075734004367562",
+          "mensajes": 20
+        },
+        {
+          "desde_indice": 60,
+          "hasta_indice": 79,
+          "primer_mid": "1529076993558184009",
+          "ultimo_mid": "1529170715595771986",
+          "mensajes": 20
+        }
+      ],
+      "mids_leidos_con_hashes": [
+        {
+          "indice": 0,
+          "mensaje_id": "1528736536982454303",
+          "fecha_utc": "2026-07-20T12:13:12.968000+00:00",
+          "mensaje_sha256_archivo": "a8d37008c56cbcffa5e0dc9e701a2be4cddcb0efb2a69bc8e252300b48673547",
+          "texto_sha256_archivo": "1e1b86b0da7117b4db0a57eec86c9c46aadf20fd814dbc244e93557e1fd6fd06",
+          "texto_sha256_recalculado": "1e1b86b0da7117b4db0a57eec86c9c46aadf20fd814dbc244e93557e1fd6fd06",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528736536982454303"
+        },
+        {
+          "indice": 1,
+          "mensaje_id": "1528739315415252992",
+          "fecha_utc": "2026-07-20T12:24:15.398000+00:00",
+          "mensaje_sha256_archivo": "f8356030a08e3dc7cd16ee4a70ea7e5de61dd561a3aa66ecd4d5eebba3c17622",
+          "texto_sha256_archivo": "6c0a98dc6604c0b19cd515eb6e8fa16ee42f7fd9901e64401817508536f54035",
+          "texto_sha256_recalculado": "6c0a98dc6604c0b19cd515eb6e8fa16ee42f7fd9901e64401817508536f54035",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528739315415252992"
+        },
+        {
+          "indice": 2,
+          "mensaje_id": "1528744308491157514",
+          "fecha_utc": "2026-07-20T12:44:05.840000+00:00",
+          "mensaje_sha256_archivo": "d778bf3769fad82682a46b029953e34aa684aa0014fe3046a40cc872159c2a19",
+          "texto_sha256_archivo": "069c877066e2a44cd855859fbc211c1cf87ef4927ad45921f76674659013d65a",
+          "texto_sha256_recalculado": "069c877066e2a44cd855859fbc211c1cf87ef4927ad45921f76674659013d65a",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528744308491157514"
+        },
+        {
+          "indice": 3,
+          "mensaje_id": "1528745865445900439",
+          "fecha_utc": "2026-07-20T12:50:17.047000+00:00",
+          "mensaje_sha256_archivo": "a016f2ea2d9464c31735d0439b7ebd48743e3a0d135bf662572364553c2c8baa",
+          "texto_sha256_archivo": "54fde55787c00c3554e0e47e9a256b5de4bc87fe7214be2fa24fdac9aaa4a8fd",
+          "texto_sha256_recalculado": "54fde55787c00c3554e0e47e9a256b5de4bc87fe7214be2fa24fdac9aaa4a8fd",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528745865445900439"
+        },
+        {
+          "indice": 4,
+          "mensaje_id": "1528750311513133328",
+          "fecha_utc": "2026-07-20T13:07:57.072000+00:00",
+          "mensaje_sha256_archivo": "1520dcb18e9a695257a85d67d346dde6f7cceb7d33bcdbd46b923d87f14e1071",
+          "texto_sha256_archivo": "4247e73bc1fd62501b9fe394253041e34227c1a39339f941ea3b488e0086f329",
+          "texto_sha256_recalculado": "4247e73bc1fd62501b9fe394253041e34227c1a39339f941ea3b488e0086f329",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528750311513133328"
+        },
+        {
+          "indice": 5,
+          "mensaje_id": "1528751638662217810",
+          "fecha_utc": "2026-07-20T13:13:13.489000+00:00",
+          "mensaje_sha256_archivo": "9613aed1597aeb9508b4ce4363298caf78d17c97ac1538c38c8520b78ff42c60",
+          "texto_sha256_archivo": "c1dd9b522ab28b0c680a834f23c75ddb05f35a7498efae8ea2e8799ec53a45a1",
+          "texto_sha256_recalculado": "c1dd9b522ab28b0c680a834f23c75ddb05f35a7498efae8ea2e8799ec53a45a1",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528751638662217810"
+        },
+        {
+          "indice": 6,
+          "mensaje_id": "1528761382668075038",
+          "fecha_utc": "2026-07-20T13:51:56.641000+00:00",
+          "mensaje_sha256_archivo": "47083b8abda5021e0b91a30dd34d9dbf017fb8078607b33fc995aa3e1a724186",
+          "texto_sha256_archivo": "b2b584b3e9b2b9b430141a15b441f5f12f00572e71ddca34f1415586ecfdc7e1",
+          "texto_sha256_recalculado": "b2b584b3e9b2b9b430141a15b441f5f12f00572e71ddca34f1415586ecfdc7e1",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528761382668075038"
+        },
+        {
+          "indice": 7,
+          "mensaje_id": "1528761702169182208",
+          "fecha_utc": "2026-07-20T13:53:12.816000+00:00",
+          "mensaje_sha256_archivo": "d857061ac2d85b905d16734f949980c818d1f562f03207922155d11790010925",
+          "texto_sha256_archivo": "46521f1c241ec73f8b2e01c64d07564d13efa881d2a8eab4b1ab44d083c3010a",
+          "texto_sha256_recalculado": "46521f1c241ec73f8b2e01c64d07564d13efa881d2a8eab4b1ab44d083c3010a",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528761702169182208"
+        },
+        {
+          "indice": 8,
+          "mensaje_id": "1528764857158074469",
+          "fecha_utc": "2026-07-20T14:05:45.024000+00:00",
+          "mensaje_sha256_archivo": "56c2b292035348632ce6b2ada50ff310b35d43739706c3fb721da89d409dbdd0",
+          "texto_sha256_archivo": "5af12182fd874af891d035eea61508390574cb54b27389695e5e9c64459dd3b2",
+          "texto_sha256_recalculado": "5af12182fd874af891d035eea61508390574cb54b27389695e5e9c64459dd3b2",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528764857158074469"
+        },
+        {
+          "indice": 9,
+          "mensaje_id": "1528766204003614741",
+          "fecha_utc": "2026-07-20T14:11:06.137000+00:00",
+          "mensaje_sha256_archivo": "d0aa3a31aa673a13b96e1cc9ec49f82e3c918945f221469d9e5aaaaa57eefc7d",
+          "texto_sha256_archivo": "c3bc711fa837b546d9993228f3e1eac77467685a00bd65436ac8d6b11debe9df",
+          "texto_sha256_recalculado": "c3bc711fa837b546d9993228f3e1eac77467685a00bd65436ac8d6b11debe9df",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528766204003614741"
+        },
+        {
+          "indice": 10,
+          "mensaje_id": "1528771145044725812",
+          "fecha_utc": "2026-07-20T14:30:44.173000+00:00",
+          "mensaje_sha256_archivo": "2cb972c4f3191020dae2292508f564f0cbd9d618cf2d08317398f40be9f8fc0c",
+          "texto_sha256_archivo": "a59bf88b8a1b32fed3b9b84435602ecfe56530483d68a9492b568b7700ec7aae",
+          "texto_sha256_recalculado": "a59bf88b8a1b32fed3b9b84435602ecfe56530483d68a9492b568b7700ec7aae",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528771145044725812"
+        },
+        {
+          "indice": 11,
+          "mensaje_id": "1528772797680193536",
+          "fecha_utc": "2026-07-20T14:37:18.192000+00:00",
+          "mensaje_sha256_archivo": "e0d3263c6fb42c276e327a81aba9349223f1ed61e811b67ec9625a0aadf24057",
+          "texto_sha256_archivo": "cea0eaf1047875bc6efd32a536e55eb42e4c2dcb2efa434ea7f3513ea23697a4",
+          "texto_sha256_recalculado": "cea0eaf1047875bc6efd32a536e55eb42e4c2dcb2efa434ea7f3513ea23697a4",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528772797680193536"
+        },
+        {
+          "indice": 12,
+          "mensaje_id": "1528774141631664129",
+          "fecha_utc": "2026-07-20T14:42:38.615000+00:00",
+          "mensaje_sha256_archivo": "95cdefa9d5779f718d10eb5fd6bf1861d62d32f69adf3243e0714fc7b569a992",
+          "texto_sha256_archivo": "580baa580a706c92746029f68dfd91c072b5388aa973b0c0d042ab3dc66974b2",
+          "texto_sha256_recalculado": "580baa580a706c92746029f68dfd91c072b5388aa973b0c0d042ab3dc66974b2",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528774141631664129"
+        },
+        {
+          "indice": 13,
+          "mensaje_id": "1528775261363900417",
+          "fecha_utc": "2026-07-20T14:47:05.580000+00:00",
+          "mensaje_sha256_archivo": "49a03a9434485e3a3778e4fbed9a895af6aa9e31c1d4627eaddc1367778e7b0e",
+          "texto_sha256_archivo": "b10ef757560335d99b80f3a9dd91c75f610ba8c31914c676fa02288da6895481",
+          "texto_sha256_recalculado": "b10ef757560335d99b80f3a9dd91c75f610ba8c31914c676fa02288da6895481",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528775261363900417"
+        },
+        {
+          "indice": 14,
+          "mensaje_id": "1528776641021612063",
+          "fecha_utc": "2026-07-20T14:52:34.516000+00:00",
+          "mensaje_sha256_archivo": "b59092dcc80b1ddaffaa4f5299b8cb0dd08ddd6d43472deb86b31b8b9b141e3c",
+          "texto_sha256_archivo": "c59dde7adf3ab2478a71c73b8df85e0560655bf6cee276074bacef93ae200cfe",
+          "texto_sha256_recalculado": "c59dde7adf3ab2478a71c73b8df85e0560655bf6cee276074bacef93ae200cfe",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528776641021612063"
+        },
+        {
+          "indice": 15,
+          "mensaje_id": "1528777584681291786",
+          "fecha_utc": "2026-07-20T14:56:19.502000+00:00",
+          "mensaje_sha256_archivo": "cbadc71dfd91ef1d403720122ad546db6efef881caca23d397c61fbb29881a11",
+          "texto_sha256_archivo": "d006bb0f11b59cd9cd6830a4520b9d4ed39b7f79bb1fb8cdcd1545ee08a3cff0",
+          "texto_sha256_recalculado": "d006bb0f11b59cd9cd6830a4520b9d4ed39b7f79bb1fb8cdcd1545ee08a3cff0",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528777584681291786"
+        },
+        {
+          "indice": 16,
+          "mensaje_id": "1528779741321236511",
+          "fecha_utc": "2026-07-20T15:04:53.685000+00:00",
+          "mensaje_sha256_archivo": "bc9156f96b4e6b0b69fa43a35a57b615ef5077dfa89d0d25750b41110144be2c",
+          "texto_sha256_archivo": "1755a7a9827f893f03d384f0fb0783e634b625ff6ab1a29e991a92c6239951c8",
+          "texto_sha256_recalculado": "1755a7a9827f893f03d384f0fb0783e634b625ff6ab1a29e991a92c6239951c8",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528779741321236511"
+        },
+        {
+          "indice": 17,
+          "mensaje_id": "1528781953342378035",
+          "fecha_utc": "2026-07-20T15:13:41.072000+00:00",
+          "mensaje_sha256_archivo": "ac28f4f93e86984813ef4ec7b88ad92d47c9b810e557e4e6445e1a04c9ca5262",
+          "texto_sha256_archivo": "8a89b7f6a5083d5e01ca1a67ab89da9a3a54ac8916591349ec7cd80a2c5c7216",
+          "texto_sha256_recalculado": "8a89b7f6a5083d5e01ca1a67ab89da9a3a54ac8916591349ec7cd80a2c5c7216",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528781953342378035"
+        },
+        {
+          "indice": 18,
+          "mensaje_id": "1528783916440354919",
+          "fecha_utc": "2026-07-20T15:21:29.111000+00:00",
+          "mensaje_sha256_archivo": "064d244ad5e02e691d332c443d3e1da57430479d89487b85776b5c7d6ece69e3",
+          "texto_sha256_archivo": "9c438edd23ff3c2c823c668f59f23814453c5ec158bda77c2544c5de8aa9107d",
+          "texto_sha256_recalculado": "9c438edd23ff3c2c823c668f59f23814453c5ec158bda77c2544c5de8aa9107d",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528783916440354919"
+        },
+        {
+          "indice": 19,
+          "mensaje_id": "1528784881885253843",
+          "fecha_utc": "2026-07-20T15:25:19.291000+00:00",
+          "mensaje_sha256_archivo": "cf08997eaa280702ddfa325d3d44b53aa84fe3703ca1d91e8d35d046d20542f4",
+          "texto_sha256_archivo": "6d2d9c7df9a1b1e578721bbeb10529bfc64b6de999ef60d640a25e48bf1f7154",
+          "texto_sha256_recalculado": "6d2d9c7df9a1b1e578721bbeb10529bfc64b6de999ef60d640a25e48bf1f7154",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528784881885253843"
+        },
+        {
+          "indice": 20,
+          "mensaje_id": "1528784954127945951",
+          "fecha_utc": "2026-07-20T15:25:36.515000+00:00",
+          "mensaje_sha256_archivo": "efc34cea9006b454e1124639ea47021020a7284cecca7989d8723059684cf55f",
+          "texto_sha256_archivo": "d94f31179224c4fb10aa11168aa2f0500fb30435abff3c97bf8c1fc8e39ff494",
+          "texto_sha256_recalculado": "d94f31179224c4fb10aa11168aa2f0500fb30435abff3c97bf8c1fc8e39ff494",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528784954127945951"
+        },
+        {
+          "indice": 21,
+          "mensaje_id": "1528787039611392105",
+          "fecha_utc": "2026-07-20T15:33:53.733000+00:00",
+          "mensaje_sha256_archivo": "7a3770f10a3c1d383e322d814fffa76bb3bbccb31bc7457721e4b541592e296f",
+          "texto_sha256_archivo": "3b8ce76716e2f13dfaee6c0eb9041dbcc9751dcf8a6aeaf5b9bdf3b09848c471",
+          "texto_sha256_recalculado": "3b8ce76716e2f13dfaee6c0eb9041dbcc9751dcf8a6aeaf5b9bdf3b09848c471",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528787039611392105"
+        },
+        {
+          "indice": 22,
+          "mensaje_id": "1528787755226632272",
+          "fecha_utc": "2026-07-20T15:36:44.349000+00:00",
+          "mensaje_sha256_archivo": "75ad79c00ffa19c9526f6b3e8f9d6e1b6abbab5c0660280214481cc9bc714d15",
+          "texto_sha256_archivo": "fdd55b2c29438949618d61e40155278530034e1fa0c68bdd5e7a48190d7b368c",
+          "texto_sha256_recalculado": "fdd55b2c29438949618d61e40155278530034e1fa0c68bdd5e7a48190d7b368c",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528787755226632272"
+        },
+        {
+          "indice": 23,
+          "mensaje_id": "1528787826404102184",
+          "fecha_utc": "2026-07-20T15:37:01.319000+00:00",
+          "mensaje_sha256_archivo": "4fcc3d0a44b3694c9ffd295bf7e53f2f242ba052002e3fe0d0c31eac4f17f946",
+          "texto_sha256_archivo": "e1d9688a441eb4d19c02e8d6f09d80693f758bff879b8e7b4c3905c91b8ddad7",
+          "texto_sha256_recalculado": "e1d9688a441eb4d19c02e8d6f09d80693f758bff879b8e7b4c3905c91b8ddad7",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528787826404102184"
+        },
+        {
+          "indice": 24,
+          "mensaje_id": "1528789903947595957",
+          "fecha_utc": "2026-07-20T15:45:16.644000+00:00",
+          "mensaje_sha256_archivo": "897b1cac852a6a2f56965ce09b1e3f0729aca66f56f824d0582c01716b81309f",
+          "texto_sha256_archivo": "2629539e3ec4747d40882e83f7b097fb92b306f05db829303b5774b8cad94463",
+          "texto_sha256_recalculado": "2629539e3ec4747d40882e83f7b097fb92b306f05db829303b5774b8cad94463",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528789903947595957"
+        },
+        {
+          "indice": 25,
+          "mensaje_id": "1528790717311488152",
+          "fecha_utc": "2026-07-20T15:48:30.565000+00:00",
+          "mensaje_sha256_archivo": "fc257981454f61a62bf7c6d96206548a3a575cd7330319d81a318493f4572a45",
+          "texto_sha256_archivo": "510713c16a1750f2def0474ae6686a0a167d22665e6b00b40ee1016c9333a726",
+          "texto_sha256_recalculado": "510713c16a1750f2def0474ae6686a0a167d22665e6b00b40ee1016c9333a726",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528790717311488152"
+        },
+        {
+          "indice": 26,
+          "mensaje_id": "1528790871775117452",
+          "fecha_utc": "2026-07-20T15:49:07.392000+00:00",
+          "mensaje_sha256_archivo": "867c8e45c2785e50064aff66b7258257b7d1f28b2f8d8186fb47abcddf51bc5c",
+          "texto_sha256_archivo": "bd85fa072a4082443a556b69ff7052729fa1934e85cf1baba68845a417ad1e99",
+          "texto_sha256_recalculado": "bd85fa072a4082443a556b69ff7052729fa1934e85cf1baba68845a417ad1e99",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528790871775117452"
+        },
+        {
+          "indice": 27,
+          "mensaje_id": "1528792356739092620",
+          "fecha_utc": "2026-07-20T15:55:01.435000+00:00",
+          "mensaje_sha256_archivo": "e12b3de0902e95236385bb159d5b1a521b8fd24db1c98f8a3c0e3ece80c2b1ad",
+          "texto_sha256_archivo": "bec45120b5c3eddafbfc65518a18db65f42c9c9e5ca234827aecd2961daf0889",
+          "texto_sha256_recalculado": "bec45120b5c3eddafbfc65518a18db65f42c9c9e5ca234827aecd2961daf0889",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528792356739092620"
+        },
+        {
+          "indice": 28,
+          "mensaje_id": "1528793954353414184",
+          "fecha_utc": "2026-07-20T16:01:22.336000+00:00",
+          "mensaje_sha256_archivo": "6cefc6e6c8b1b81a02aa7a52a58f0b03549c1c0f8c8bde58bbdf147e80214cad",
+          "texto_sha256_archivo": "ef333cfc88c7466d47061591931e19513e846f6830189a7d67aaf644975d5f1e",
+          "texto_sha256_recalculado": "ef333cfc88c7466d47061591931e19513e846f6830189a7d67aaf644975d5f1e",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528793954353414184"
+        },
+        {
+          "indice": 29,
+          "mensaje_id": "1528794160100933743",
+          "fecha_utc": "2026-07-20T16:02:11.390000+00:00",
+          "mensaje_sha256_archivo": "194a40746568cd61352d60b0d090471417e99ffc9fbd7d2f6d6af6d0f731c2f9",
+          "texto_sha256_archivo": "d34b1d5c00bf1d046e641c6175b225b653b67a49d75ff1f3089f34e211e78744",
+          "texto_sha256_recalculado": "d34b1d5c00bf1d046e641c6175b225b653b67a49d75ff1f3089f34e211e78744",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528794160100933743"
+        },
+        {
+          "indice": 30,
+          "mensaje_id": "1528794288215953458",
+          "fecha_utc": "2026-07-20T16:02:41.935000+00:00",
+          "mensaje_sha256_archivo": "cd4c9407cfea510d1b0a447e67fe03cb499091f4357dd987e0362c1367fa5e33",
+          "texto_sha256_archivo": "d7f00102025b9d17270d18148d7a7efe59a208fd9fad306eb421e904ce346d77",
+          "texto_sha256_recalculado": "d7f00102025b9d17270d18148d7a7efe59a208fd9fad306eb421e904ce346d77",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528794288215953458"
+        },
+        {
+          "indice": 31,
+          "mensaje_id": "1528794539303637073",
+          "fecha_utc": "2026-07-20T16:03:41.799000+00:00",
+          "mensaje_sha256_archivo": "640f9b8d2fec4ade23bfd29805b1024c2ee188b95dc3a1bc61a775b7d0812d4b",
+          "texto_sha256_archivo": "460777e64008b218e40e525456e27202dc588722a24752eeeb240a6eba5bbf61",
+          "texto_sha256_recalculado": "460777e64008b218e40e525456e27202dc588722a24752eeeb240a6eba5bbf61",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528794539303637073"
+        },
+        {
+          "indice": 32,
+          "mensaje_id": "1528795871951585461",
+          "fecha_utc": "2026-07-20T16:08:59.527000+00:00",
+          "mensaje_sha256_archivo": "67c8b469366ad31562a669231de44302d35f34cef16377c6c6198a2b8e50e1fa",
+          "texto_sha256_archivo": "6d49dada25f385310190eee51d0c0ea879a580e24062e2c7655e90205437e733",
+          "texto_sha256_recalculado": "6d49dada25f385310190eee51d0c0ea879a580e24062e2c7655e90205437e733",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528795871951585461"
+        },
+        {
+          "indice": 33,
+          "mensaje_id": "1528796256229654769",
+          "fecha_utc": "2026-07-20T16:10:31.146000+00:00",
+          "mensaje_sha256_archivo": "78a44ba01cc8c5f6fdf366051591161e348478521a58f8c42822343db50cc8a2",
+          "texto_sha256_archivo": "0fbfac6aba0ab8e51cdafad23ada7cd6c5928dc77501e3166350ed97ddb1f9f9",
+          "texto_sha256_recalculado": "0fbfac6aba0ab8e51cdafad23ada7cd6c5928dc77501e3166350ed97ddb1f9f9",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528796256229654769"
+        },
+        {
+          "indice": 34,
+          "mensaje_id": "1528797202237882499",
+          "fecha_utc": "2026-07-20T16:14:16.692000+00:00",
+          "mensaje_sha256_archivo": "5dd445cd57c784c4aa4db88f8f6fada9cb3796154508cf4df958b7909b4c2507",
+          "texto_sha256_archivo": "1487b4312c03d849c5b28641a94697c2dbdd679efc63ce824682d819f8eb1994",
+          "texto_sha256_recalculado": "1487b4312c03d849c5b28641a94697c2dbdd679efc63ce824682d819f8eb1994",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528797202237882499"
+        },
+        {
+          "indice": 35,
+          "mensaje_id": "1528797421134680114",
+          "fecha_utc": "2026-07-20T16:15:08.881000+00:00",
+          "mensaje_sha256_archivo": "53e8525239a287fd96f5803bc3e6106e6091e63e24dbacd4c91bd9acbcc3bc15",
+          "texto_sha256_archivo": "6429192e1d4a26afbacdd71e6aba54613be1fcd008cfe5468f9bc678ebba33eb",
+          "texto_sha256_recalculado": "6429192e1d4a26afbacdd71e6aba54613be1fcd008cfe5468f9bc678ebba33eb",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528797421134680114"
+        },
+        {
+          "indice": 36,
+          "mensaje_id": "1528799949762859079",
+          "fecha_utc": "2026-07-20T16:25:11.753000+00:00",
+          "mensaje_sha256_archivo": "947773a2f600507f3fda573b37036fdd2bdc2305afc3022b6076489d2b6ff578",
+          "texto_sha256_archivo": "067ff9d39ac6cda83cc704329d80eb707fda996a1cedf262f71e9ace6248839d",
+          "texto_sha256_recalculado": "067ff9d39ac6cda83cc704329d80eb707fda996a1cedf262f71e9ace6248839d",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528799949762859079"
+        },
+        {
+          "indice": 37,
+          "mensaje_id": "1528801112797352016",
+          "fecha_utc": "2026-07-20T16:29:49.042000+00:00",
+          "mensaje_sha256_archivo": "2fee700b23167cd57b1c7dd96117d24d9821873fb9763498133d92af707c9e16",
+          "texto_sha256_archivo": "c70398d27382269651464d332a46383f26939036068f562d14e6ebdc8f550106",
+          "texto_sha256_recalculado": "c70398d27382269651464d332a46383f26939036068f562d14e6ebdc8f550106",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528801112797352016"
+        },
+        {
+          "indice": 38,
+          "mensaje_id": "1528805280530301098",
+          "fecha_utc": "2026-07-20T16:46:22.707000+00:00",
+          "mensaje_sha256_archivo": "069910adeb869d97b14d209f63ba33bb2ba15d983798af3cd278d7bd702d1982",
+          "texto_sha256_archivo": "14e77aec1c462bd86094df9bb4bac7bac383df9b833ced51e3abe4a8156ce9ea",
+          "texto_sha256_recalculado": "14e77aec1c462bd86094df9bb4bac7bac383df9b833ced51e3abe4a8156ce9ea",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528805280530301098"
+        },
+        {
+          "indice": 39,
+          "mensaje_id": "1528805712119992540",
+          "fecha_utc": "2026-07-20T16:48:05.606000+00:00",
+          "mensaje_sha256_archivo": "f203076c028ababd625c3a6ae7f08484fdc89888b60574289fcbeb55f2f0a6bb",
+          "texto_sha256_archivo": "3963eccc0197a2ac575d23ca9ec412d1abe6bea9b8005d12589ddb09e4e56445",
+          "texto_sha256_recalculado": "3963eccc0197a2ac575d23ca9ec412d1abe6bea9b8005d12589ddb09e4e56445",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528805712119992540"
+        },
+        {
+          "indice": 40,
+          "mensaje_id": "1528805964046925995",
+          "fecha_utc": "2026-07-20T16:49:05.670000+00:00",
+          "mensaje_sha256_archivo": "d66d335fc0de893dded3080c4589ee854f1486c5e1069a5254a72a3e5302b341",
+          "texto_sha256_archivo": "6c5c8e6a7617352cecf406d64217406cfb6de86e826d34d25e6869fb9d8febd0",
+          "texto_sha256_recalculado": "6c5c8e6a7617352cecf406d64217406cfb6de86e826d34d25e6869fb9d8febd0",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528805964046925995"
+        },
+        {
+          "indice": 41,
+          "mensaje_id": "1528807359206391980",
+          "fecha_utc": "2026-07-20T16:54:38.302000+00:00",
+          "mensaje_sha256_archivo": "d37a855b385417c4c1400a9ec6012262ff6bfec158794cc1c2300224bb41cb0f",
+          "texto_sha256_archivo": "c8c59d68b08a726f1bea704bce67dadd2d11bee687cc88a4b40a646490d41b4d",
+          "texto_sha256_recalculado": "c8c59d68b08a726f1bea704bce67dadd2d11bee687cc88a4b40a646490d41b4d",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528807359206391980"
+        },
+        {
+          "indice": 42,
+          "mensaje_id": "1528808187061473310",
+          "fecha_utc": "2026-07-20T16:57:55.678000+00:00",
+          "mensaje_sha256_archivo": "3c567803152614935c9491d2793c4c4c39ca53ead88a34d5ed90abf5e661408b",
+          "texto_sha256_archivo": "ad44b833a30b2cc86f5d7d544a944b62b4c1d233861c5430687c3f9820009896",
+          "texto_sha256_recalculado": "ad44b833a30b2cc86f5d7d544a944b62b4c1d233861c5430687c3f9820009896",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528808187061473310"
+        },
+        {
+          "indice": 43,
+          "mensaje_id": "1528808227406348299",
+          "fecha_utc": "2026-07-20T16:58:05.297000+00:00",
+          "mensaje_sha256_archivo": "639f8af9aaee4eae98a242e37104cc3d4f1f11ac06605312ef5e28625406d221",
+          "texto_sha256_archivo": "23e40913211b1323873d6d28e1f374091e6a297bb9b15217ed729d33af580dd6",
+          "texto_sha256_recalculado": "23e40913211b1323873d6d28e1f374091e6a297bb9b15217ed729d33af580dd6",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528808227406348299"
+        },
+        {
+          "indice": 44,
+          "mensaje_id": "1528809835750097037",
+          "fecha_utc": "2026-07-20T17:04:28.756000+00:00",
+          "mensaje_sha256_archivo": "00dfd18a03314493045891daf08428d0c186be02e61b8dbdb2d5f53ffc1fce9e",
+          "texto_sha256_archivo": "f81ea42d24e13561e7f3e3d60ea0ed6e065023c1511de759653fbfa945e8b065",
+          "texto_sha256_recalculado": "f81ea42d24e13561e7f3e3d60ea0ed6e065023c1511de759653fbfa945e8b065",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528809835750097037"
+        },
+        {
+          "indice": 45,
+          "mensaje_id": "1528812903971426394",
+          "fecha_utc": "2026-07-20T17:16:40.277000+00:00",
+          "mensaje_sha256_archivo": "8d2b18a55b00b95fab6fad73dc982b330d46b2ef6092d8959060fdee55d7dcd7",
+          "texto_sha256_archivo": "b7753c4110e6620a4dbbd116f2586913a8f9686978093c4359089927fd0ac60a",
+          "texto_sha256_recalculado": "b7753c4110e6620a4dbbd116f2586913a8f9686978093c4359089927fd0ac60a",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528812903971426394"
+        },
+        {
+          "indice": 46,
+          "mensaje_id": "1528814526110240889",
+          "fecha_utc": "2026-07-20T17:23:07.025000+00:00",
+          "mensaje_sha256_archivo": "7cc6afa8b27fe7104296702d0bff1ef5165df1895eb07e470be2d2973406d8ee",
+          "texto_sha256_archivo": "6a280fb53e14022b008ef250ce338986c7d599b86c2b8f0e4be2630fef76197c",
+          "texto_sha256_recalculado": "6a280fb53e14022b008ef250ce338986c7d599b86c2b8f0e4be2630fef76197c",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528814526110240889"
+        },
+        {
+          "indice": 47,
+          "mensaje_id": "1528816090136842250",
+          "fecha_utc": "2026-07-20T17:29:19.918000+00:00",
+          "mensaje_sha256_archivo": "843f4b83ee7d5ef6d440dee60b01c1bfbf4d110f4206102ddf5ed6410ae14654",
+          "texto_sha256_archivo": "02dfcdb5188c2f61c401357eb2494535e843167672ab8bc34961220b04bba401",
+          "texto_sha256_recalculado": "02dfcdb5188c2f61c401357eb2494535e843167672ab8bc34961220b04bba401",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528816090136842250"
+        },
+        {
+          "indice": 48,
+          "mensaje_id": "1528816738261663764",
+          "fecha_utc": "2026-07-20T17:31:54.443000+00:00",
+          "mensaje_sha256_archivo": "c7fb6d0457ba8bb4bfdfdc4ccae6ae9883a93fb766a33cd39c14dca898517dcc",
+          "texto_sha256_archivo": "24103c04500f5e80227a2ec8a4e28e69dcc2435f6bb325a1b48edc491e48d14e",
+          "texto_sha256_recalculado": "24103c04500f5e80227a2ec8a4e28e69dcc2435f6bb325a1b48edc491e48d14e",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528816738261663764"
+        },
+        {
+          "indice": 49,
+          "mensaje_id": "1528818188509511882",
+          "fecha_utc": "2026-07-20T17:37:40.209000+00:00",
+          "mensaje_sha256_archivo": "4cbf8820dd6317c7171998a27d147a45745e5afb0055cf05b4c42e16b0cb2441",
+          "texto_sha256_archivo": "4381c91a9312fd5e2ca053f2cf2e92d208ab232173cdf3892f592e6489a2baa1",
+          "texto_sha256_recalculado": "4381c91a9312fd5e2ca053f2cf2e92d208ab232173cdf3892f592e6489a2baa1",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528818188509511882"
+        },
+        {
+          "indice": 50,
+          "mensaje_id": "1528822894686244875",
+          "fecha_utc": "2026-07-20T17:56:22.249000+00:00",
+          "mensaje_sha256_archivo": "a45284cfb7c279a36b97e699abc471c2e4913aec99cac2bb3d76e4e606f6fd64",
+          "texto_sha256_archivo": "ceaa4beb76a251f891f0c2fd13da0a74defe064035606f358eeae10f1071b342",
+          "texto_sha256_recalculado": "ceaa4beb76a251f891f0c2fd13da0a74defe064035606f358eeae10f1071b342",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528822894686244875"
+        },
+        {
+          "indice": 51,
+          "mensaje_id": "1528995538945577093",
+          "fecha_utc": "2026-07-21T05:22:23.848000+00:00",
+          "mensaje_sha256_archivo": "9518d911ca16996e2672d51d3f348644f5a69965d5a2f4ebf9c2bb2103cba49a",
+          "texto_sha256_archivo": "e8f65ceb7befb2c07a199b61388c3b7e4001b7d5bf226ae3d3a98f73ddfed206",
+          "texto_sha256_recalculado": "e8f65ceb7befb2c07a199b61388c3b7e4001b7d5bf226ae3d3a98f73ddfed206",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528995538945577093"
+        },
+        {
+          "indice": 52,
+          "mensaje_id": "1529037960320778260",
+          "fecha_utc": "2026-07-21T08:10:57.892000+00:00",
+          "mensaje_sha256_archivo": "2b741f2c581dc4a330b3ead0fe72a4b2cebab6a1b6230bf04e5965c444edcd52",
+          "texto_sha256_archivo": "f0c444aa75415426509c5ebfb6ba6c2c2bca1dc5dd035b7235dca812354f676a",
+          "texto_sha256_recalculado": "f0c444aa75415426509c5ebfb6ba6c2c2bca1dc5dd035b7235dca812354f676a",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529037960320778260"
+        },
+        {
+          "indice": 53,
+          "mensaje_id": "1529047255770861609",
+          "fecha_utc": "2026-07-21T08:47:54.100000+00:00",
+          "mensaje_sha256_archivo": "0d5c981b42ea0037ec9488da641eb366d32b04f32f2dec9f74a0ec92bd533d15",
+          "texto_sha256_archivo": "645e0055fc37f8ed80d757ed1a08472e2c3a7cb9307fc87cae676603d330ff34",
+          "texto_sha256_recalculado": "645e0055fc37f8ed80d757ed1a08472e2c3a7cb9307fc87cae676603d330ff34",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529047255770861609"
+        },
+        {
+          "indice": 54,
+          "mensaje_id": "1529055693481574541",
+          "fecha_utc": "2026-07-21T09:21:25.807000+00:00",
+          "mensaje_sha256_archivo": "3aa0cb027c041b991cf7d339136bace2c06404998e4cd4d5d96e395ac6dec4e5",
+          "texto_sha256_archivo": "bb945077168a8416fcac9cb2f171cbe6c09075bd36b0d7843db9d42796fb76f3",
+          "texto_sha256_recalculado": "bb945077168a8416fcac9cb2f171cbe6c09075bd36b0d7843db9d42796fb76f3",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529055693481574541"
+        },
+        {
+          "indice": 55,
+          "mensaje_id": "1529058597206753430",
+          "fecha_utc": "2026-07-21T09:32:58.109000+00:00",
+          "mensaje_sha256_archivo": "0d21e0bbdd7cdcb8f83e70af923be5fd016e1dc2550442d69104016eb2c2a6bf",
+          "texto_sha256_archivo": "6ec94322cd3c2ed4ee131f3f4a8ff5c082ebe758095e717571cd29468939394a",
+          "texto_sha256_recalculado": "6ec94322cd3c2ed4ee131f3f4a8ff5c082ebe758095e717571cd29468939394a",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529058597206753430"
+        },
+        {
+          "indice": 56,
+          "mensaje_id": "1529062860590944397",
+          "fecha_utc": "2026-07-21T09:49:54.579000+00:00",
+          "mensaje_sha256_archivo": "cc744fcc89b36f370d86f05ba4e5ba253ab6badecb5f2854318585acbc687b76",
+          "texto_sha256_archivo": "a825ec770762bbb835354c63d671da58320f02b75b7cf307ea0adacb4e8954ef",
+          "texto_sha256_recalculado": "a825ec770762bbb835354c63d671da58320f02b75b7cf307ea0adacb4e8954ef",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529062860590944397"
+        },
+        {
+          "indice": 57,
+          "mensaje_id": "1529072512221319230",
+          "fecha_utc": "2026-07-21T10:28:15.707000+00:00",
+          "mensaje_sha256_archivo": "31c63ccf4e604823583e9c3b28a616c7198f42a8455e4da4c5a5457989cdf1ef",
+          "texto_sha256_archivo": "8ebd836938865b6759b3e0e6351015b2c54e5f6b4fe8705552bc6e1511481409",
+          "texto_sha256_recalculado": "8ebd836938865b6759b3e0e6351015b2c54e5f6b4fe8705552bc6e1511481409",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529072512221319230"
+        },
+        {
+          "indice": 58,
+          "mensaje_id": "1529074799328886804",
+          "fecha_utc": "2026-07-21T10:37:20.996000+00:00",
+          "mensaje_sha256_archivo": "60cf4e1a8e800bc5d315befa0e574f43f0473fe0230e5b45e8ece251545dcca8",
+          "texto_sha256_archivo": "82ba7f099b8b26429ecd4bf2103c227e98cb8b921fac55667b6376f5c41bb0c3",
+          "texto_sha256_recalculado": "82ba7f099b8b26429ecd4bf2103c227e98cb8b921fac55667b6376f5c41bb0c3",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529074799328886804"
+        },
+        {
+          "indice": 59,
+          "mensaje_id": "1529075734004367562",
+          "fecha_utc": "2026-07-21T10:41:03.840000+00:00",
+          "mensaje_sha256_archivo": "f5bccf89473d688f5e6f503e412b5d7c8672b0b2de76944dcedb50e043f9b401",
+          "texto_sha256_archivo": "b8f40448b7c13ceb45750e719b573f0f8db1c4f4adb7a46049e6f59ddf99a08c",
+          "texto_sha256_recalculado": "b8f40448b7c13ceb45750e719b573f0f8db1c4f4adb7a46049e6f59ddf99a08c",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529075734004367562"
+        },
+        {
+          "indice": 60,
+          "mensaje_id": "1529076993558184009",
+          "fecha_utc": "2026-07-21T10:46:04.141000+00:00",
+          "mensaje_sha256_archivo": "cf1ac086bf4425aa69d985362364276e662c031eacf218b97f0600f3e969c605",
+          "texto_sha256_archivo": "b21ad329fd562d2e8096d78cb183ea1464c18b2dacc61a88cc1136f19e3daa7d",
+          "texto_sha256_recalculado": "b21ad329fd562d2e8096d78cb183ea1464c18b2dacc61a88cc1136f19e3daa7d",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529076993558184009"
+        },
+        {
+          "indice": 61,
+          "mensaje_id": "1529078779664793663",
+          "fecha_utc": "2026-07-21T10:53:09.982000+00:00",
+          "mensaje_sha256_archivo": "b408cc7eab5d437142c9e58abd9339ba1a60f25b24e2d5e519c7035f4dade98f",
+          "texto_sha256_archivo": "a670611d52c4e2b8b41c498a512bf44e71ab012ba21f3b3bfd662e459a0bf03b",
+          "texto_sha256_recalculado": "a670611d52c4e2b8b41c498a512bf44e71ab012ba21f3b3bfd662e459a0bf03b",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529078779664793663"
+        },
+        {
+          "indice": 62,
+          "mensaje_id": "1529079645754888233",
+          "fecha_utc": "2026-07-21T10:56:36.474000+00:00",
+          "mensaje_sha256_archivo": "5bdffe6e6925b262b7568024706592f01f6299c36b5564b3a7b24aaae9d2c004",
+          "texto_sha256_archivo": "70a894672419775bc0f2db60d64dc68f5435d9b70d68ba2e0c6c7aa056e1d8d7",
+          "texto_sha256_recalculado": "70a894672419775bc0f2db60d64dc68f5435d9b70d68ba2e0c6c7aa056e1d8d7",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529079645754888233"
+        },
+        {
+          "indice": 63,
+          "mensaje_id": "1529082076270170184",
+          "fecha_utc": "2026-07-21T11:06:15.954000+00:00",
+          "mensaje_sha256_archivo": "d46d0d685845ee2d660bd40c5485108d5eb15dc00eb4af4e998f6470fe19fd40",
+          "texto_sha256_archivo": "1b3e472844faef3c1c83d76817cbefaa48ae16d28947c6653d7424a0d4d88510",
+          "texto_sha256_recalculado": "1b3e472844faef3c1c83d76817cbefaa48ae16d28947c6653d7424a0d4d88510",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529082076270170184"
+        },
+        {
+          "indice": 64,
+          "mensaje_id": "1529083809994113134",
+          "fecha_utc": "2026-07-21T11:13:09.306000+00:00",
+          "mensaje_sha256_archivo": "d8fe65e43a2ee4dfc8a439502eea36e12aa2ce2442b4aaf664e6dc4afe55c273",
+          "texto_sha256_archivo": "0b1127661aa407e3337d6d26b49ccd22ca1bf090a3d9cda785faa3fb231ad563",
+          "texto_sha256_recalculado": "0b1127661aa407e3337d6d26b49ccd22ca1bf090a3d9cda785faa3fb231ad563",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529083809994113134"
+        },
+        {
+          "indice": 65,
+          "mensaje_id": "1529086303197724742",
+          "fecha_utc": "2026-07-21T11:23:03.732000+00:00",
+          "mensaje_sha256_archivo": "aab5db58436013cc1716aabf4a72bd2b61514a747fbdb02c1be055a089908397",
+          "texto_sha256_archivo": "b1b56444021e24be02c1d831feb63fc098492f2c7635184e9449a1e72d8c8494",
+          "texto_sha256_recalculado": "b1b56444021e24be02c1d831feb63fc098492f2c7635184e9449a1e72d8c8494",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529086303197724742"
+        },
+        {
+          "indice": 66,
+          "mensaje_id": "1529089169534746704",
+          "fecha_utc": "2026-07-21T11:34:27.120000+00:00",
+          "mensaje_sha256_archivo": "35398eaa5a360a2ccc5e8963e642676f942955b4324ce98f81d7fda2a83c743b",
+          "texto_sha256_archivo": "9d32becac226b25c06d72fd79c1903725d02f111d12ca3a48821544ec6928b90",
+          "texto_sha256_recalculado": "9d32becac226b25c06d72fd79c1903725d02f111d12ca3a48821544ec6928b90",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529089169534746704"
+        },
+        {
+          "indice": 67,
+          "mensaje_id": "1529099530715267192",
+          "fecha_utc": "2026-07-21T12:15:37.418000+00:00",
+          "mensaje_sha256_archivo": "b9e26685ef562f92749ce22574c21af79e450a320c279c7be37cc1607175034a",
+          "texto_sha256_archivo": "6a40483e45b3fff3a0d34737c541f1df8caaf70b6ba82ca4a6fd059639928f85",
+          "texto_sha256_recalculado": "6a40483e45b3fff3a0d34737c541f1df8caaf70b6ba82ca4a6fd059639928f85",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529099530715267192"
+        },
+        {
+          "indice": 68,
+          "mensaje_id": "1529102531316285483",
+          "fecha_utc": "2026-07-21T12:27:32.817000+00:00",
+          "mensaje_sha256_archivo": "dd77e77c83175ae83c4a7ba9104f41c174a6fa65e681a2f181fa7d0d878823bb",
+          "texto_sha256_archivo": "da09e249a98d73f00f73ddceec56b60394ff19e84822c2cfa1d1de1b3585bdc7",
+          "texto_sha256_recalculado": "da09e249a98d73f00f73ddceec56b60394ff19e84822c2cfa1d1de1b3585bdc7",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529102531316285483"
+        },
+        {
+          "indice": 69,
+          "mensaje_id": "1529107649545638065",
+          "fecha_utc": "2026-07-21T12:47:53.098000+00:00",
+          "mensaje_sha256_archivo": "316165b69ee23b9b1b53127c4ffe177e2322c72f44b0bb86668b7864b2bd1f27",
+          "texto_sha256_archivo": "5616a5629c8a3e966fcfd4d85849afd60eebd7cddf75bf32467c367325d469e3",
+          "texto_sha256_recalculado": "5616a5629c8a3e966fcfd4d85849afd60eebd7cddf75bf32467c367325d469e3",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529107649545638065"
+        },
+        {
+          "indice": 70,
+          "mensaje_id": "1529109383810781305",
+          "fecha_utc": "2026-07-21T12:54:46.579000+00:00",
+          "mensaje_sha256_archivo": "0f7dbbe6576b3ad9ed3f53302e29b267dede23af6f3416f37ab664463417e632",
+          "texto_sha256_archivo": "5b7d0be05f20a276dd710a67c8b46b59cbc6792bbee5576ea4def50c85200753",
+          "texto_sha256_recalculado": "5b7d0be05f20a276dd710a67c8b46b59cbc6792bbee5576ea4def50c85200753",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529109383810781305"
+        },
+        {
+          "indice": 71,
+          "mensaje_id": "1529114312982003763",
+          "fecha_utc": "2026-07-21T13:14:21.785000+00:00",
+          "mensaje_sha256_archivo": "ab6ec7ef81a116c43a1100332b3db8a7e40c1813127b6b317edc62a7fed5c951",
+          "texto_sha256_archivo": "261c8e1c6f1a875486aec0c379f0cb88f7acd2cb7a182ed4ccd22d934fdb2f39",
+          "texto_sha256_recalculado": "261c8e1c6f1a875486aec0c379f0cb88f7acd2cb7a182ed4ccd22d934fdb2f39",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529114312982003763"
+        },
+        {
+          "indice": 72,
+          "mensaje_id": "1529120168322535487",
+          "fecha_utc": "2026-07-21T13:37:37.807000+00:00",
+          "mensaje_sha256_archivo": "1f3e105ef5fc4c89c7766828083829227b58b6eb37e1623c109b746be2e7d780",
+          "texto_sha256_archivo": "ca20463f17c310ec0a264762cfb981e021a491f0938621eb93ae54747bb8d58c",
+          "texto_sha256_recalculado": "ca20463f17c310ec0a264762cfb981e021a491f0938621eb93ae54747bb8d58c",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529120168322535487"
+        },
+        {
+          "indice": 73,
+          "mensaje_id": "1529136959190995035",
+          "fecha_utc": "2026-07-21T14:44:21.062000+00:00",
+          "mensaje_sha256_archivo": "101982d4fed44ce79af217d80cf4967e50ed8d14a737fcbb1135c99d4aeeddca",
+          "texto_sha256_archivo": "f51caaedb75c00c0a7c0e2f21b94c2f0664cf4502b3abe770eca084f6d64e34e",
+          "texto_sha256_recalculado": "f51caaedb75c00c0a7c0e2f21b94c2f0664cf4502b3abe770eca084f6d64e34e",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529136959190995035"
+        },
+        {
+          "indice": 74,
+          "mensaje_id": "1529137880289513655",
+          "fecha_utc": "2026-07-21T14:48:00.669000+00:00",
+          "mensaje_sha256_archivo": "281a1cc1a0549abd4fa63293a08b59f8e01e58ececb7e888400e394a085c8646",
+          "texto_sha256_archivo": "25e3e0a8635a986edb4c2faa9a6072551de76a545174d1225f352a52016440ff",
+          "texto_sha256_recalculado": "25e3e0a8635a986edb4c2faa9a6072551de76a545174d1225f352a52016440ff",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529137880289513655"
+        },
+        {
+          "indice": 75,
+          "mensaje_id": "1529138192706703520",
+          "fecha_utc": "2026-07-21T14:49:15.155000+00:00",
+          "mensaje_sha256_archivo": "985692a14235c77e19a88ca74782ebf397e99ef4a2df88ac873a6914380ed391",
+          "texto_sha256_archivo": "63aabf15bcf4da65d1d8ab9615c6d4d870bc4bfa9ae24a7d7a647eb047bcf3b7",
+          "texto_sha256_recalculado": "63aabf15bcf4da65d1d8ab9615c6d4d870bc4bfa9ae24a7d7a647eb047bcf3b7",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529138192706703520"
+        },
+        {
+          "indice": 76,
+          "mensaje_id": "1529145114876973076",
+          "fecha_utc": "2026-07-21T15:16:45.529000+00:00",
+          "mensaje_sha256_archivo": "9646fc284de5726e874c0ec7ed8261be8ce73a060cec28d83e3d27a765aa54cd",
+          "texto_sha256_archivo": "585d7180fc00f1cc0319fee35644dc11a7057ce85f8fffb03002a994b15f47ae",
+          "texto_sha256_recalculado": "585d7180fc00f1cc0319fee35644dc11a7057ce85f8fffb03002a994b15f47ae",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529145114876973076"
+        },
+        {
+          "indice": 77,
+          "mensaje_id": "1529145649621373069",
+          "fecha_utc": "2026-07-21T15:18:53.022000+00:00",
+          "mensaje_sha256_archivo": "bb649f904478e7a3da8f6bd718c5c19148b20931eb18c421838b8562ce514703",
+          "texto_sha256_archivo": "1529b4003b9896784c811cb1c92e10460f1bc9d7f778c2acfccfeab8781d48ff",
+          "texto_sha256_recalculado": "1529b4003b9896784c811cb1c92e10460f1bc9d7f778c2acfccfeab8781d48ff",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529145649621373069"
+        },
+        {
+          "indice": 78,
+          "mensaje_id": "1529147155779027046",
+          "fecha_utc": "2026-07-21T15:24:52.118000+00:00",
+          "mensaje_sha256_archivo": "5b7d87d7876ad67562bf61f1f03ac7db39b5d1b24c61b6fa91ef1fb33034808d",
+          "texto_sha256_archivo": "7eebf2445e81459265fd8def90650956cdce79284d19505dac4a460fc229801b",
+          "texto_sha256_recalculado": "7eebf2445e81459265fd8def90650956cdce79284d19505dac4a460fc229801b",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529147155779027046"
+        },
+        {
+          "indice": 79,
+          "mensaje_id": "1529170715595771986",
+          "fecha_utc": "2026-07-21T16:58:29.216000+00:00",
+          "mensaje_sha256_archivo": "0974b213f21b75106e2b22f77858644f9bffd85f541b5cbb506e6ea90ea4e946",
+          "texto_sha256_archivo": "17de8d95942b0fb6967047c232c2803aac08862ce9732e9e4ad54f0347d72b95",
+          "texto_sha256_recalculado": "17de8d95942b0fb6967047c232c2803aac08862ce9732e9e4ad54f0347d72b95",
+          "texto_hash_validado": true,
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529170715595771986"
+        }
+      ]
+    }
+  ],
+  "hallazgos": [
+    {
+      "id": "B1-A01",
+      "titulo": "Oliver y Oli son el hermano menor de Tessa, ya mencionado en mayo",
+      "tipo": "declaracion_personaje",
+      "entidades": [
+        "Tesara Queen",
+        "Oliver"
+      ],
+      "hallazgo": "Tessa recuerda que comía helados con su hermano Oliver después de visitar el museo y afirma después que es cinco años menor que ella. Utiliza Oli y Oliver para la misma persona y lo elogia como guapo e inteligente. También dice que trabaja en el museo.",
+      "citas": [
+        {
+          "escena": "x-1504724660288356372",
+          "mensaje_id": "1504849281796931738",
+          "cita": "Los tomaba de pequeña con mi hermano Oliver los fines de semana después de visitar el museo.",
+          "fecha_utc": "2026-05-15T14:13:47.528000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504849281796931738",
+          "texto_sha256": "ed23256f5d8cb6f588a2319e2c65c86237d59d59d0807259d612b0c91b27999a",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1504724660288356372",
+          "mensaje_id": "1504868653076840561",
+          "cita": "Soy mayor por cinco años.",
+          "fecha_utc": "2026-05-15T15:30:46.001000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504868653076840561",
+          "texto_sha256": "9667e3a30b1c3e8ff9b505f408cfcbe5546b9eb9228a2bd82dbef74ca05de2eb",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1504724660288356372",
+          "mensaje_id": "1504868653076840561",
+          "cita": "No es de extrañar que la afluencia femenina haya aumentado en el museo desde que entró mi hermanito a trabajar...",
+          "fecha_utc": "2026-05-15T15:30:46.001000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504868653076840561",
+          "texto_sha256": "9667e3a30b1c3e8ff9b505f408cfcbe5546b9eb9228a2bd82dbef74ca05de2eb",
+          "cita_literal_validada": true
+        }
+      ],
+      "limite": "La belleza, inteligencia y afluencia femenina son valoraciones o afirmaciones de la hermana, sin corroboración externa. No se determina su edad absoluta, nombre del museo o existencia de una pareja actual."
+    },
+    {
+      "id": "B1-A02",
+      "titulo": "Los proyectos personales de Tessa ya incluyen a Oliver",
+      "tipo": "declaracion_personaje",
+      "entidades": [
+        "Tesara Queen",
+        "Oliver"
+      ],
+      "hallazgo": "Durante los preparativos de mayo Tessa enuncia tres objetivos: ver a Oliver felizmente casado, realizar un descubrimiento histórico y arqueológico que le gane el reconocimiento de sus padres y encontrar una pareja de buena posición. Advierte que huirá si la lucha contra el dragón pone en peligro esos proyectos.",
+      "citas": [
+        {
+          "escena": "x-1506584437201047605",
+          "mensaje_id": "1506677889733628077",
+          "cita": "Uno es ver a mí pequeño Oliver casado con una buena mujer que lo haga feliz!",
+          "fecha_utc": "2026-05-20T15:20:01.634000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506677889733628077",
+          "texto_sha256": "5ef1e28e0188215486984363a3b7abff77b2c63b3f42732bdb0ab058a17c73eb",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1506584437201047605",
+          "mensaje_id": "1506677889733628077",
+          "cita": "Hacer un descubrimiento histórico y arqueológico enorme para ganarme el reconocimiento de mis padres!",
+          "fecha_utc": "2026-05-20T15:20:01.634000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506677889733628077",
+          "texto_sha256": "5ef1e28e0188215486984363a3b7abff77b2c63b3f42732bdb0ab058a17c73eb",
+          "cita_literal_validada": true
+        }
+      ],
+      "limite": "Son deseos y condiciones de Tessa, sin bodas, hallazgos o amenazas cumplidas adjudicados en estas escenas."
+    },
+    {
+      "id": "B1-A03",
+      "titulo": "Tessa se autoidentifica por escrito como Tessara Quinn",
+      "tipo": "declaracion_personaje",
+      "entidades": [
+        "Tesara Queen"
+      ],
+      "hallazgo": "La interlocutora rotulada Tessa se nombra explícitamente Tessara Quinn durante la conversación con Eldrath en julio. Es la misma historiadora que cuida a Leo, habla de Oliver y de su origen en Puerto de las Espadas. La grafía escrita es una variante que debe registrarse junto al rótulo catalogado Tesara Queen.",
+      "citas": [
+        {
+          "escena": "x-1528736536982454303",
+          "mensaje_id": "1529047255770861609",
+          "cita": "Y como que me llamo Tessara Quinn que tú vas a volver a ese pueblo.",
+          "fecha_utc": "2026-07-21T08:47:54.100000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529047255770861609",
+          "texto_sha256": "645e0055fc37f8ed80d757ed1a08472e2c3a7cb9307fc87cae676603d330ff34",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1528736536982454303",
+          "mensaje_id": "1529082076270170184",
+          "cita": "Soy de Puerto de las Espadas...",
+          "fecha_utc": "2026-07-21T11:06:15.954000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529082076270170184",
+          "texto_sha256": "1b3e472844faef3c1c83d76817cbefaa48ae16d28947c6653d7424a0d4d88510",
+          "cita_literal_validada": true
+        }
+      ],
+      "limite": "No crear una segunda persona por Tesara/Tessara o Queen/Quinn. Este cotejo registra la grafía de la fuente y no modifica el nombre autoritativo o las configuraciones."
+    },
+    {
+      "id": "B1-A04",
+      "titulo": "Oliver ya estaba encargado del museo antes del capítulo 47",
+      "tipo": "declaracion_personaje",
+      "entidades": [
+        "Tesara Queen",
+        "Oliver"
+      ],
+      "hallazgo": "Tessa cuenta en julio que ella y Oliver trabajan en el mismo museo. Después de oír a un marinero describir Xoltacan decidió viajar y lo dejó encargado de todo. Lo considera maduro e independiente y dice que lleva el museo como un veterano.",
+      "citas": [
+        {
+          "escena": "x-1528736536982454303",
+          "mensaje_id": "1529086303197724742",
+          "cita": "al día siguiente en el museo donde trabajamos mi hermano y yo, decidí que debía venir y conocer este sitio...",
+          "fecha_utc": "2026-07-21T11:23:03.732000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529086303197724742",
+          "texto_sha256": "b1b56444021e24be02c1d831feb63fc098492f2c7635184e9449a1e72d8c8494",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1528736536982454303",
+          "mensaje_id": "1529086303197724742",
+          "cita": "Dejé a Oliver a cargo de todo... Y aquí estoy!",
+          "fecha_utc": "2026-07-21T11:23:03.732000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529086303197724742",
+          "texto_sha256": "b1b56444021e24be02c1d831feb63fc098492f2c7635184e9449a1e72d8c8494",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1528736536982454303",
+          "mensaje_id": "1529099530715267192",
+          "cita": "Lleva el museo como un veterano.",
+          "fecha_utc": "2026-07-21T12:15:37.418000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529099530715267192",
+          "texto_sha256": "6a40483e45b3fff3a0d34737c541f1df8caaf70b6ba82ca4a6fd059639928f85",
+          "cita_literal_validada": true
+        }
+      ],
+      "limite": "El museo no recibe nombre propio. No se establece titularidad legal, cargo exacto, ciudad distinta del contexto natal o situación material actual de Oliver mediante una aparición suya."
+    },
+    {
+      "id": "B1-A05",
+      "titulo": "Los padres arqueólogos y la crianza con Emil y Sarah",
+      "tipo": "declaracion_personaje",
+      "entidades": [
+        "Tesara Queen",
+        "Oliver",
+        "Emil",
+        "Sarah"
+      ],
+      "hallazgo": "Tessa explica que sus padres son arqueólogos de renombre en su ciudad y pasan muchos meses en expediciones. Ella y Oliver se criaron en gran medida con Emil, el mayordomo, y Sarah, el ama de llaves. Aun así recuerda cumpleaños y festividades compartidos y afirma que en su familia se quieren y se conocen.",
+      "citas": [
+        {
+          "escena": "x-1528736536982454303",
+          "mensaje_id": "1529086303197724742",
+          "cita": "Mis padres son unos arqueólogos de renombre en la ciudad.",
+          "fecha_utc": "2026-07-21T11:23:03.732000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529086303197724742",
+          "texto_sha256": "b1b56444021e24be02c1d831feb63fc098492f2c7635184e9449a1e72d8c8494",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1528736536982454303",
+          "mensaje_id": "1529086303197724742",
+          "cita": "mi hermano y yo nos hemos criado prácticamente solos con Emil, nuestro mayordomo y Sarah, la ama de llaves.",
+          "fecha_utc": "2026-07-21T11:23:03.732000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529086303197724742",
+          "texto_sha256": "b1b56444021e24be02c1d831feb63fc098492f2c7635184e9449a1e72d8c8494",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1528736536982454303",
+          "mensaje_id": "1529114312982003763",
+          "cita": "Puede que al final pasemos junto a nuestros padres 9 o 10 semanas al año...",
+          "fecha_utc": "2026-07-21T13:14:21.785000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529114312982003763",
+          "texto_sha256": "261c8e1c6f1a875486aec0c379f0cb88f7acd2cb7a182ed4ccd22d934fdb2f39",
+          "cita_literal_validada": true
+        }
+      ],
+      "limite": "Las semanas son una aproximación declarada, no un calendario certificado. Los juicios opuestos de Eldrath y Tessa sobre esa crianza no son diagnósticos objetivos. Los padres no reciben nombres propios ni aparecen directamente."
+    },
+    {
+      "id": "B1-A06",
+      "titulo": "La formación de Tessa y su motivo para explorar Xoltacan son anteriores",
+      "tipo": "declaracion_personaje",
+      "entidades": [
+        "Tesara Queen",
+        "Oliver",
+        "Xoltacan"
+      ],
+      "hallazgo": "Tessa vincula su vocación con sus padres, afirma haber realizado un viaje de fin de carrera a Kuroto y explica que las historias de un marinero despertaron su interés por Xoltacan. Su madre le enseñó defensa con armas blancas, tiro y escalada según sus recuerdos. Son antecedentes que contextualizan su interés por las ruinas y su destreza al lanzar una daga.",
+      "citas": [
+        {
+          "escena": "x-1528736536982454303",
+          "mensaje_id": "1529086303197724742",
+          "cita": "Incluso hice un viaje al final de mi carrera a Kuroto.",
+          "fecha_utc": "2026-07-21T11:23:03.732000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529086303197724742",
+          "texto_sha256": "b1b56444021e24be02c1d831feb63fc098492f2c7635184e9449a1e72d8c8494",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1528736536982454303",
+          "mensaje_id": "1529086303197724742",
+          "cita": "Con dos copas más me contó todo sobre Xoltacan...",
+          "fecha_utc": "2026-07-21T11:23:03.732000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529086303197724742",
+          "texto_sha256": "b1b56444021e24be02c1d831feb63fc098492f2c7635184e9449a1e72d8c8494",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1528736536982454303",
+          "mensaje_id": "1528771145044725812",
+          "cita": "Mi madre me enseñó a defenderme de armas blancas",
+          "fecha_utc": "2026-07-20T14:30:44.173000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528771145044725812",
+          "texto_sha256": "a59bf88b8a1b32fed3b9b84435602ecfe56530483d68a9492b568b7700ec7aae",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1528736536982454303",
+          "mensaje_id": "1529099530715267192",
+          "cita": "Mi madre nos enseñó a practicar tiro al plato!",
+          "fecha_utc": "2026-07-21T12:15:37.418000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529099530715267192",
+          "texto_sha256": "6a40483e45b3fff3a0d34737c541f1df8caaf70b6ba82ca4a6fd059639928f85",
+          "cita_literal_validada": true
+        }
+      ],
+      "limite": "Kuroto es un país mencionado dentro del pasado narrado por Tessa en Xoltacan; esta mención no autoriza a importar personajes o hechos de la otra campaña. El marinero queda sin nombre y no se documenta su itinerario."
+    },
+    {
+      "id": "B1-A07",
+      "titulo": "Tryel y Eldrath son hermanos; ella dice ser mayor por minutos",
+      "tipo": "identidad_contextual_y_declaracion_personaje",
+      "entidades": [
+        "Tryel",
+        "Eldrath"
+      ],
+      "hallazgo": "La primera escena muestra a Tryel dejando a su hermano Eldrath dormido y amenazando a Tessa por el disparo que le hizo. Tryel se declara hermana mayor por unos minutos. La segunda escena mantiene la identificación cuando llama hermanito a la entrada expresamente rotulada de Eldrath y él le retira espinas.",
+      "citas": [
+        {
+          "escena": "x-1504724660288356372",
+          "mensaje_id": "1504801858861142017",
+          "cita": "como Eldrath guarda todo el dinero y si lo despierto se enfada",
+          "fecha_utc": "2026-05-15T11:05:21.019000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504801858861142017",
+          "texto_sha256": "d582ace35a71a0978c07087348dc2cfb675a75b282e83f13e00dfb204c7bcdca",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1504724660288356372",
+          "mensaje_id": "1504856682000416860",
+          "cita": "Yo lo soy, bueno, por unos minutos, pero soy la mayor jajaja",
+          "fecha_utc": "2026-05-15T14:43:11.874000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504856682000416860",
+          "texto_sha256": "a1dd0ec5a26acc82b527b10e91568fc0f7f0ccba5a1ed5dd74f7d5c4743e9b14",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1506584437201047605",
+          "mensaje_id": "1506638802775441458",
+          "cita": "Que pasa hermanito!?",
+          "fecha_utc": "2026-05-20T12:44:42.577000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506638802775441458",
+          "texto_sha256": "d781079e458e3da1b31efa82b638a6a24b874a1dc15ed991fa48e9017bd468f3",
+          "cita_literal_validada": true
+        }
+      ],
+      "limite": "La diferencia de minutos se atribuye a Tryel. No fija cumpleaños, edad absoluta o una nueva historia genealógica. No confundir a Eldrath con Aerendriel por ser elfo y tener un nombre semejante."
+    },
+    {
+      "id": "B1-A08",
+      "titulo": "Mirien nombra a Tryel en boca de Tessa; no es otra hermana",
+      "tipo": "identidad_contextual",
+      "entidades": [
+        "Tryel",
+        "Tesara Queen"
+      ],
+      "hallazgo": "Tessa usa Laura, Lidia, Emma y Andrea para Tryel en la primera escena, y la elfa le reprocha que la llame siempre de manera diferente. En la segunda la trata repetidamente como Mirien mientras conversa con la interlocutora rotulada Tryel. La escena de julio vuelve a llamar Mirien a la hermana de Eldrath y él responde nombrando expresamente a Tryel.",
+      "citas": [
+        {
+          "escena": "x-1504724660288356372",
+          "mensaje_id": "1504879902241849405",
+          "cita": "Es que siempre me llamas de manera diferente",
+          "fecha_utc": "2026-05-15T16:15:28.011000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504879902241849405",
+          "texto_sha256": "4700f938a23a5e4e51d0b844666196a89d0f3cd1be5109e1915035b150546ef5",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1506584437201047605",
+          "mensaje_id": "1506669543613927534",
+          "cita": "pues mi querida Mirien... Soy exploradora e historiadora...",
+          "fecha_utc": "2026-05-20T14:46:51.764000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506669543613927534",
+          "texto_sha256": "2365ae54cf0c5c30116d495b8c52902e91e2942c06d1d81de76e2403824eaf08",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1528736536982454303",
+          "mensaje_id": "1529107649545638065",
+          "cita": "No querrías la mejor persona posible para que hiciera feliz a Mirien?",
+          "fecha_utc": "2026-07-21T12:47:53.098000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529107649545638065",
+          "texto_sha256": "5616a5629c8a3e966fcfd4d85849afd60eebd7cddf75bf32467c367325d469e3",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1528736536982454303",
+          "mensaje_id": "1529109383810781305",
+          "cita": "Sonrie cuando hablas de Tryel",
+          "fecha_utc": "2026-07-21T12:54:46.579000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529109383810781305",
+          "texto_sha256": "5b7d0be05f20a276dd710a67c8b46b59cbc6792bbee5576ea4def50c85200753",
+          "cita_literal_validada": true
+        }
+      ],
+      "limite": "Conservar los nombres originales en las citas. Son errores de tratamiento expresamente contextualizados, sin demostrar cambios legales de nombre, hermanas adicionales o identidades independientes."
+    },
+    {
+      "id": "B1-A09",
+      "titulo": "Eldrim y el señor Grrr se refieren a Eldrath; este permite Pálido",
+      "tipo": "identidad_contextual",
+      "entidades": [
+        "Eldrath",
+        "Tesara Queen"
+      ],
+      "hallazgo": "El elfo rotulado Eldrath recibe de Tessa los tratamientos señor Grrr y Eldrim. En julio su pensamiento reprocha que no recuerde su nombre y le permite llamarlo Pálido. Tessa admite después que es un desastre para los nombres. Esto sostiene la continuidad del elfo gruñón mencionado por la historiadora.",
+      "citas": [
+        {
+          "escena": "x-1506584437201047605",
+          "mensaje_id": "1506668703079469056",
+          "cita": "Y ahora me llama señor Grrr claro que hago Grrr",
+          "fecha_utc": "2026-05-20T14:43:31.365000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506668703079469056",
+          "texto_sha256": "90fd355ad7247e5d3dccfba7f3f278a76b85a3bb243e0e4ee7401afb9bee40ca",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1528736536982454303",
+          "mensaje_id": "1528783916440354919",
+          "cita": "Eldrim, me dirigía a la taberna a ayudar al pequeño con sus deberes...",
+          "fecha_utc": "2026-07-20T15:21:29.111000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528783916440354919",
+          "texto_sha256": "9c438edd23ff3c2c823c668f59f23814453c5ec158bda77c2544c5de8aa9107d",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1528736536982454303",
+          "mensaje_id": "1528784881885253843",
+          "cita": "Llamame Palido si no te acuerdas de mi nombre",
+          "fecha_utc": "2026-07-20T15:25:19.291000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528784881885253843",
+          "texto_sha256": "6d2d9c7df9a1b1e578721bbeb10529bfc64b6de999ef60d640a25e48bf1f7154",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1528736536982454303",
+          "mensaje_id": "1528787039611392105",
+          "cita": "Soy un desastre para los nombres...",
+          "fecha_utc": "2026-07-20T15:33:53.733000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528787039611392105",
+          "texto_sha256": "3b8ce76716e2f13dfaee6c0eb9041dbcc9751dcf8a6aeaf5b9bdf3b09848c471",
+          "cita_literal_validada": true
+        }
+      ],
+      "limite": "La fuente escrita no cambia las letras del VTT. Las grafías Eldream o semejantes del vídeo pueden cotejarse contextualmente, pero no se deben sustituir dentro de la cita literal ni usar el rol para fingir una presentación nueva en cámara."
+    },
+    {
+      "id": "B1-A10",
+      "titulo": "Las ruinas estudiadas en mayo son las de la ciudad y su causa sigue discutida",
+      "tipo": "descripcion_de_escena_y_declaraciones",
+      "entidades": [
+        "Iktan",
+        "Tesara Queen",
+        "Tryel",
+        "Eldrath",
+        "Dragón verde del bosque de Iktan"
+      ],
+      "hallazgo": "La narración sitúa a Tessa junto a edificios deformes y fundidos; ella aclara después que estudia las ruinas de la ciudad. Tryel las atribuye al aliento de un dragón. Tessa pregunta si fue el verde que los atacó u otro tipo, sin conseguir una explicación de los lugareños. Las hipótesis sobre ácido, necrosis, dragón negro y veneno se contradicen y corrigen entre los propios interlocutores.",
+      "citas": [
+        {
+          "escena": "x-1504724660288356372",
+          "mensaje_id": "1504774922071969854",
+          "cita": "ruinas deformes y fundidas de aquellos edificios",
+          "fecha_utc": "2026-05-15T09:18:18.788000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504774922071969854",
+          "texto_sha256": "adbb1dd671c64bcaaaf705944fceec43ec3c327e7c6801021d352d6d290e6fa9",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1506584437201047605",
+          "mensaje_id": "1506592124869541928",
+          "cita": "Estaba enfrascada en mis apuntes de las ruinas de la ciudad.",
+          "fecha_utc": "2026-05-20T09:39:13.697000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506592124869541928",
+          "texto_sha256": "081b6bc1f41771db4417d86fffc6528322c4944ddba60a292ef4b4be392bc209",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1506584437201047605",
+          "mensaje_id": "1506611714697855087",
+          "cita": "Fue el dragón verde que nos atacó en la jungla? Fue otro tipo de dragón?",
+          "fecha_utc": "2026-05-20T10:57:04.276000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506611714697855087",
+          "texto_sha256": "51a7b115244d1691b129f8034fa4f8595824c7e0a9e9a409dbc41fe9a00d579b",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1506584437201047605",
+          "mensaje_id": "1506643763290706031",
+          "cita": "Solo me he confundio ¿vale?",
+          "fecha_utc": "2026-05-20T13:04:25.256000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506643763290706031",
+          "texto_sha256": "879131cc9ff4a6829c84c939b2da375f87ac888ac93a7a51f5c523acb77c835a",
+          "cita_literal_validada": true
+        }
+      ],
+      "limite": "La discusión no es una adjudicación del director sobre especie o autoría. No se fusionan por ella los muros nuevos de la orilla del lago del capítulo 47 con el barrio antiguo, el claro de cadáveres, las ruinas del nido o el templo de los nawals."
+    },
+    {
+      "id": "B1-A11",
+      "titulo": "La advertencia de Tessa sobre control mental tiene antecedentes escritos",
+      "tipo": "declaracion_personaje",
+      "entidades": [
+        "Tesara Queen",
+        "Tryel",
+        "Eldrath",
+        "Dragón verde del bosque de Iktan"
+      ],
+      "hallazgo": "En mayo Tessa se disculpa por disparar a Eldrath: dice que algo en su cabeza tomó el control y que no fue la única afectada. Tryel lo atribuye hipotéticamente al dragón verde. Días después Tessa vuelve a describir al dragón como una criatura que se camufla y se mete en su cabeza; Tryel replica que ella no notó nada. La advertencia del 47 retoma una preocupación anterior.",
+      "citas": [
+        {
+          "escena": "x-1504724660288356372",
+          "mensaje_id": "1504849281796931738",
+          "cita": "Había algo en mi cabeza que tomo el control. No era yo.",
+          "fecha_utc": "2026-05-15T14:13:47.528000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504849281796931738",
+          "texto_sha256": "ed23256f5d8cb6f588a2319e2c65c86237d59d59d0807259d612b0c91b27999a",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1504724660288356372",
+          "mensaje_id": "1504856682000416860",
+          "cita": "Si había algo en tu cabeza, debe haber sido ese dragon verde",
+          "fecha_utc": "2026-05-15T14:43:11.874000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504856682000416860",
+          "texto_sha256": "a1dd0ec5a26acc82b527b10e91568fc0f7f0ccba5a1ed5dd74f7d5c4743e9b14",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1506584437201047605",
+          "mensaje_id": "1506678806537306223",
+          "cita": "un dragón que se camufla cual camaleón y se mete en tu cabeza",
+          "fecha_utc": "2026-05-20T15:23:40.217000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506678806537306223",
+          "texto_sha256": "50e58b82d0088675febe17deab4d54cababb0972062a3684017a7a4575f62c71",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1506584437201047605",
+          "mensaje_id": "1506681113517625394",
+          "cita": "Yo no note nada la última vez",
+          "fecha_utc": "2026-05-20T15:32:50.244000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506681113517625394",
+          "texto_sha256": "9291a78f5c744f30fedb2127705a836e9f53cda51d238629e1e1440a796c5c43",
+          "cita_literal_validada": true
+        }
+      ],
+      "limite": "Se conserva la modalidad condicional y las perspectivas distintas. Estas declaraciones no prueban un ataque mental nuevo en el capítulo 47, que el dragón controle allí las raíces o que su nombre sea Clolgedranx."
+    },
+    {
+      "id": "B1-A12",
+      "titulo": "El encargo de localizar al dragón y buscar guía ya estaba acordado",
+      "tipo": "acciones_y_acuerdos_de_personajes",
+      "entidades": [
+        "Tesara Queen",
+        "Tryel",
+        "Eldrath",
+        "Naór",
+        "Dragón verde del bosque de Iktan"
+      ],
+      "hallazgo": "Tryel vuelve con heridas de espinas después de buscar sin éxito la guarida. Eldrath ha consultado un mapa y zonas posibles, todavía por explorar. Tessa ofrece cartografía con referencias y pide un baquiano local. Acuerdan buscar también a Naór como protección; Tryel sale a buscarla. Tessa acepta ayudar, manteniendo que se retirará ante peligro de muerte.",
+      "citas": [
+        {
+          "escena": "x-1506584437201047605",
+          "mensaje_id": "1506594561072300112",
+          "cita": "he ido a la jungla a ver si podía localizar la guarida de ese dragon verde",
+          "fecha_utc": "2026-05-20T09:48:54.533000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506594561072300112",
+          "texto_sha256": "9088614522098d6da0fcab9c8404536aaf123b7004c5c9e1fdd7d951a2960669",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1506584437201047605",
+          "mensaje_id": "1506649007538176030",
+          "cita": "con una brújula, papel y lápiz podría intentar cartografiar la zona.",
+          "fecha_utc": "2026-05-20T13:25:15.582000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506649007538176030",
+          "texto_sha256": "66cc882033e4dc43ff4ce48400a88975a37ae6ff458683bd233f81e45219bfbe",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1506584437201047605",
+          "mensaje_id": "1506652674110787635",
+          "cita": "si encontramos algún nativo que nos pudiera hacer de baquiano, yo podría encargarme del resto.",
+          "fecha_utc": "2026-05-20T13:39:49.761000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506652674110787635",
+          "texto_sha256": "dc6a74e4cab628ef8806823c11ffbfd48c259a7384d5b9dc5f710044d195249c",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1506584437201047605",
+          "mensaje_id": "1506688933415620678",
+          "cita": "Al minimo atisbo de muerte inminente salgo por patas.",
+          "fecha_utc": "2026-05-20T16:03:54.653000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506688933415620678",
+          "texto_sha256": "3ee79e5f3796b1763e83a9f4c2540bf54ba091e384689f5742481558b01f45b5",
+          "cita_literal_validada": true
+        }
+      ],
+      "limite": "No se encuentra la guarida ni se contrata un guía en estas escenas. La salida de Tryel a buscar a Naór no demuestra que la haya localizado o que ya hayan comenzado una caza conjunta."
+    },
+    {
+      "id": "B1-A13",
+      "titulo": "Tessa ya había combatido contra no muertos y tomado notas",
+      "tipo": "descripcion_de_accion_y_testimonio",
+      "entidades": [
+        "Tesara Queen",
+        "Eldrath"
+      ],
+      "hallazgo": "Durante la planificación Tessa copia la lección sobre guaridas y añade notas de su combate anterior contra los no muertos. En julio Eldrath recuerda que trató de cubrirla de unos zombis y ella reconoce que la salvó. Es un antecedente de su reconocimiento parcial del peligro en el 47.",
+      "citas": [
+        {
+          "escena": "x-1506584437201047605",
+          "mensaje_id": "1506673473236242654",
+          "cita": "más anotaciones que va sacando de su combate contra los no muertos",
+          "fecha_utc": "2026-05-20T15:02:28.659000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1506673473236242654",
+          "texto_sha256": "1bdd5826bf6a7660f13a7467a9983401c175c0c8cb04d33d5999c34a82c67312",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1528736536982454303",
+          "mensaje_id": "1529062860590944397",
+          "cita": "Es por orgullo que trate de cubrirte de aquellos zombis",
+          "fecha_utc": "2026-07-21T09:49:54.579000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529062860590944397",
+          "texto_sha256": "a825ec770762bbb835354c63d671da58320f02b75b7cf307ea0adacb4e8954ef",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1528736536982454303",
+          "mensaje_id": "1529072512221319230",
+          "cita": "salvaste al pulgoso. Me salvaste a mí.",
+          "fecha_utc": "2026-07-21T10:28:15.707000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529072512221319230",
+          "texto_sha256": "8ebd836938865b6759b3e0e6351015b2c54e5f6b4fe8705552bc6e1511481409",
+          "cita_literal_validada": true
+        }
+      ],
+      "limite": "No se identifica por estas frases a cada cadáver anterior ni se equipara automáticamente con los que aparecen en el 47. No se transfieren resultados, bajas o ataques entre episodios."
+    },
+    {
+      "id": "B1-A14",
+      "titulo": "Helena, el brazalete y la venganza de Eldrath ya se habían desarrollado",
+      "tipo": "declaracion_personaje",
+      "entidades": [
+        "Eldrath",
+        "Tryel",
+        "Helena",
+        "Tesara Queen"
+      ],
+      "hallazgo": "Tryel recuerda en mayo a Helenna como una pareja que hacía sonreír a Eldrath. En julio el elfo identifica su brazalete como recuerdo de una mujer que le gustaba y relata su relación con Helena: amor adolescente, separación por su mudanza, reencuentro y una nueva despedida porque él tenía un cometido pendiente y no podía prometer volver. Reconoce que aún la quiere y que desea vengarse. La charla acaba sin que acepte el plan de Tessa de volver a buscarla.",
+      "citas": [
+        {
+          "escena": "x-1504724660288356372",
+          "mensaje_id": "1504875025956733090",
+          "cita": "Estaba esa chica, Helenna, hacían buena pareja",
+          "fecha_utc": "2026-05-15T15:56:05.414000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504875025956733090",
+          "texto_sha256": "56710a1948f34bc78c5e667e4096835b4cbac37b7795c49ca1fdc6ac4fd7b1e4",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1528736536982454303",
+          "mensaje_id": "1528822894686244875",
+          "cita": "Su nombre era Helena, la conoci cuando era adolestente...",
+          "fecha_utc": "2026-07-20T17:56:22.249000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528822894686244875",
+          "texto_sha256": "ceaa4beb76a251f891f0c2fd13da0a74defe064035606f358eeae10f1071b342",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1528736536982454303",
+          "mensaje_id": "1528822894686244875",
+          "cita": "no iba a esperarme una vez mas... Y la deje ir porque merecia una vida mejor",
+          "fecha_utc": "2026-07-20T17:56:22.249000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528822894686244875",
+          "texto_sha256": "ceaa4beb76a251f891f0c2fd13da0a74defe064035606f358eeae10f1071b342",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1528736536982454303",
+          "mensaje_id": "1529074799328886804",
+          "cita": "si estoy loco por vengarme. Por eso hago lo que hago...",
+          "fecha_utc": "2026-07-21T10:37:20.996000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529074799328886804",
+          "texto_sha256": "82ba7f099b8b26429ecd4bf2103c227e98cb8b921fac55667b6376f5c41bb0c3",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1528736536982454303",
+          "mensaje_id": "1529120168322535487",
+          "cita": "Gracias por la charla. La verdad me ha despejado bastante la mente durante un rato y ya me siento mejor para entrenar.",
+          "fecha_utc": "2026-07-21T13:37:37.807000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529120168322535487",
+          "texto_sha256": "ca20463f17c310ec0a264762cfb981e021a491f0938621eb93ae54747bb8d58c",
+          "cita_literal_validada": true
+        }
+      ],
+      "limite": "La grafía Helenna/Helena corresponde a la misma relación por contexto, sin una segunda mujer acreditada. No se determina aquí el objeto completo de la venganza ni un reencuentro posterior. Agradecer la charla no es aceptar la reconciliación propuesta."
+    },
+    {
+      "id": "B1-A15",
+      "titulo": "El cuidado de Leo y la relación con los elfos tienen escenas previas concretas",
+      "tipo": "acciones_de_rol_y_declaraciones",
+      "entidades": [
+        "Leo",
+        "Tesara Queen",
+        "Eldrath",
+        "Naór"
+      ],
+      "hallazgo": "En julio Tessa lleva a Leo después de sus clases y discute con Eldrath por lanzar dagas cerca de ellos. Cuando el niño se aparta para imitarlo, el elfo teme la reacción de Naór y le retira la daga con una promesa engañosa de enseñar. Después da bombetas a Leo para que asuste a Tessa. Al final el niño las usa y el narrador aclara que solo hacen ruido y producen un sobresalto. Tessa lo mantiene haciendo deberes en la taberna durante su conversación.",
+      "citas": [
+        {
+          "escena": "x-1528736536982454303",
+          "mensaje_id": "1528787755226632272",
+          "cita": "Como se entere Naor nos mata, a ti por perderlo y a mi por distraerse.",
+          "fecha_utc": "2026-07-20T15:36:44.349000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528787755226632272",
+          "texto_sha256": "fdd55b2c29438949618d61e40155278530034e1fa0c68bdd5e7a48190d7b368c",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1528736536982454303",
+          "mensaje_id": "1528808187061473310",
+          "cita": "Cuando se despiste lanzaselas cerca para asustarla...",
+          "fecha_utc": "2026-07-20T16:57:55.678000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528808187061473310",
+          "texto_sha256": "ad44b833a30b2cc86f5d7d544a944b62b4c1d233861c5430687c3f9820009896",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1528736536982454303",
+          "mensaje_id": "1529145114876973076",
+          "cita": "Son bombetas de las que hacen ruido",
+          "fecha_utc": "2026-07-21T15:16:45.529000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1529145114876973076",
+          "texto_sha256": "585d7180fc00f1cc0319fee35644dc11a7057ce85f8fffb03002a994b15f47ae",
+          "cita_literal_validada": true
+        }
+      ],
+      "limite": "No convertir las amenazas de castigos en golpes realizados. No atribuir mal olor o destrucción a las bombetas: esa era una esperanza del jugador de Leo, corregida por la respuesta. La escena contextualiza el cuidado previo, sin resolver por sí sola cada agresión que Leo relata en el 47."
+    },
+    {
+      "id": "B1-A16",
+      "titulo": "Excluir bromas de parentesco, diagnósticos y cruces de campaña",
+      "tipo": "limite_editorial",
+      "entidades": [
+        "Tesara Queen",
+        "Tryel",
+        "Eldrath",
+        "Leo",
+        "Oliver"
+      ],
+      "hallazgo": "Las escenas contienen valoraciones privadas de Tessa sobre la conducta de los hermanos, exageraciones de Tryel sobre Oliver, un gag de la mano sustituida por una trompa y una comparación del jugador de Leo con Danifae. La lectura completa permite mantenerlas en su condición humorística o subjetiva.",
+      "citas": [
+        {
+          "escena": "x-1504724660288356372",
+          "mensaje_id": "1504888312866017443",
+          "cita": "No sabe como es el hermano ni Tessa se lo ha contado así",
+          "fecha_utc": "2026-05-15T16:48:53.260000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1504888312866017443",
+          "texto_sha256": "f2bfb7a14d8d385c94afbe48c6d1a27524776ff8a64065fd421e711d0fc2dfea",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1528736536982454303",
+          "mensaje_id": "1528787826404102184",
+          "cita": "A unos metros de donde estáis vosotros, el conejo está con una daga en la mano",
+          "fecha_utc": "2026-07-20T15:37:01.319000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528787826404102184",
+          "texto_sha256": "e1d9688a441eb4d19c02e8d6f09d80693f758bff879b8e7b4c3905c91b8ddad7",
+          "cita_literal_validada": true
+        },
+        {
+          "escena": "x-1528736536982454303",
+          "mensaje_id": "1528795871951585461",
+          "cita": "Sonríe de una manera cruel (si, como Danifae)",
+          "fecha_utc": "2026-07-20T16:08:59.527000+00:00",
+          "url_discord": "https://discord.com/channels/946724148628041748/1504602363728756846/1528795871951585461",
+          "texto_sha256": "6d49dada25f385310190eee51d0c0ea879a580e24062e2c7655e90205437e733",
+          "cita_literal_validada": true
+        }
+      ],
+      "limite": "No describir a Oliver como musculoso, alto o fuerte por la imaginación confesada de Tryel; no diagnosticar bipolaridad; no convertir a Leo en elefante; no introducir a Danifae o hechos de Kuroto en Xoltacan por la comparación del jugador."
+    }
+  ],
+  "recomendaciones_integracion": [
+    "Oliver debe tener continuidad de entidad previa; si el capítulo 47 lo menciona, ampliar su historia o recuperar esa información en vez de anunciar un primer descubrimiento.",
+    "Registrar Tessa/Tessara Quinn como formas de la historiadora catalogada Tesara Queen, preservando la grafía literal de cada cita.",
+    "Enlazar Mirien con Tryel y Eldrim/Pálido/señor Grrr con Eldrath mediante las réplicas y rótulos de las escenas, sin crear personajes por cada nombre equivocado.",
+    "La investigación del dragón, el temor a su control mental y el reconocimiento de no muertos son continuidades anteriores al 47; el vídeo aporta sus nuevas acciones, sin absorber como hechos del directo todo el pasado escrito.",
+    "Mantener las ruinas de la ciudad separadas de los tres o cuatro muros nuevos de la orilla del lago mientras no exista una conexión explícita.",
+    "El vínculo de un dragón concreto con la destrucción de las ruinas o las raíces actuales requiere prueba adicional: las discusiones de personajes contienen dudas y correcciones.",
+    "Conservar por separado la campaña Xoltacan, el país Kuroto que Tessa menciona como viaje de estudios y las bromas de jugadores sobre personajes de otras campañas."
+  ],
+  "limites_globales": [
+    "Lectura completa de las tres escenas asignadas y de sus fuentes, no de todas las escenas del archivo.",
+    "No se ha cotejado audio o vídeo nuevo; este archivo es un cotejo de antecedentes escritos.",
+    "Las fechas son las de escritura pública y los intervalos los del archivo ya existente, sin inventar una fecha exacta dentro de la ficción.",
+    "Los textos y hashes originales se conservan; este trabajo no modifica escenas, configuración, entrega de bloque o capítulo integrado.",
+    "El hash de texto de cada uno de los 181 mensajes se recalcula y compara con texto_sha256. mensaje_sha256 se conserva como dato de procedencia del archivo, sin afirmar reconstrucción de su serialización original."
+  ],
+  "verificacion": {
+    "escenas_completas": 3,
+    "mensajes_leidos": 181,
+    "mids_unicos": 181,
+    "hashes_archivo_verificados": 3,
+    "hashes_texto_verificados": 181,
+    "citas_literalmente_validadas": 54,
+    "hallazgos": 16,
+    "evidencias_video_nuevas": 0
+  }
+}

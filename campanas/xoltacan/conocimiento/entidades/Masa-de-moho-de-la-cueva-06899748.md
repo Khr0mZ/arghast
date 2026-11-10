@@ -12,7 +12,7 @@ Base para revisar equivalencia: [44-018](../capitulos/44.md), [44-019](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### Los huesos del interior
 

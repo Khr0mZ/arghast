@@ -8,11 +8,11 @@ Entrada documentada en los registros citados.
 
 Etiquetas agrupadas: Shiaru.
 
-Base para revisar equivalencia: [01-001](../capitulos/01.md), [01-009](../capitulos/01.md), [01-024](../capitulos/01.md), [42-006](../capitulos/42.md), [42-011](../capitulos/42.md), [42-013](../capitulos/42.md), [42-016](../capitulos/42.md), [42-063](../capitulos/42.md), [42-066](../capitulos/42.md), [42-067](../capitulos/42.md), [43-001](../capitulos/43.md), [43-005](../capitulos/43.md), [43-006](../capitulos/43.md), [43-007](../capitulos/43.md), [43-008](../capitulos/43.md), [43-010](../capitulos/43.md), [43-011](../capitulos/43.md), [43-012](../capitulos/43.md), [43-013](../capitulos/43.md), [46-060](../capitulos/46.md), [46-063](../capitulos/46.md).
+Base para revisar equivalencia: [01-001](../capitulos/01.md), [01-009](../capitulos/01.md), [01-024](../capitulos/01.md), [42-006](../capitulos/42.md), [42-011](../capitulos/42.md), [42-013](../capitulos/42.md), [42-016](../capitulos/42.md), [42-063](../capitulos/42.md), [42-066](../capitulos/42.md), [42-067](../capitulos/42.md), [43-001](../capitulos/43.md), [43-005](../capitulos/43.md), [43-006](../capitulos/43.md), [43-007](../capitulos/43.md), [43-008](../capitulos/43.md), [43-010](../capitulos/43.md), [43-011](../capitulos/43.md), [43-012](../capitulos/43.md), [43-013](../capitulos/43.md), [46-060](../capitulos/46.md), [46-063](../capitulos/46.md), [47-001](../capitulos/47.md), [47-017](../capitulos/47.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### El primer puerto y sus deudas
 
@@ -55,6 +55,12 @@ Fuentes: [43-001 · La sesión comienza al mismo tiempo que el capítulo naval](
 Desde Iktan, Ione anuncia que quiere recuperar Shiaru y reunir gente nueva para su causa. También espera averiguar si el novato ausente ha vuelto por allí. La sesión muestra una venta para conseguir recursos, pero no la expedición, el estado actual del pueblo o un cambio de gobierno comprobado.
 
 Fuentes: [46-060 · Ione propone recaudar recursos y reunir apoyos para recuperar Shiaru](../capitulos/46.md) · 02:09:03.239 · [46-063 · Froger compra el collar a Ione por veinticuatro monedas](../capitulos/46.md) · 02:17:24.120.
+
+### Un regreso sin hogar
+
+La vuelta de Patata muestra el huerto destrozado y a Bonny colgada en la entrada. Él cuenta después que nuevos piratas expulsaron a quienes vivían allí y que destruyeron su casa, motivo de su marcha a la jungla. El pasaje no establece quién gobierna ahora, cómo se repartió el poder ni qué edificios continúan en pie.
+
+Fuentes: [47-001 · Patata encuentra su huerto destruido y el cuerpo de Bonny expuesto](../capitulos/47.md) · 00:00:21.760 · [47-017 · Patata comunica que otros piratas tomaron Shiaru y destruyeron su casa](../capitulos/47.md) · 00:23:00.520.
 
 ## Registros y evidencias
 
@@ -689,4 +695,36 @@ Tipo: `declaracion_personaje`.
 Ione anuncia a la tripulación que intentará vender una joya para obtener dinero y después hablar con la gente nueva para sumar apoyos a su causa, recuperar Shiaru y averiguar si el novato ha regresado por allí. Sus hombres describen con extrañeza las costumbres de Iktan. Al recordar a Bonnie, Ione admite que ya no está y trata de tranquilizarlos prometiendo que ella seguirá protegiéndolos.
 
 Son planes de financiación y reclutamiento, sin una operación ejecutada para recuperar Shiaru. Las noticias de los tripulantes sobre una elfa pálida y una estatua móvil no identifican por sí solas cada persona ni resuelven todos los riesgos de Iktan.
+
+## [47-001 · Patata encuentra su huerto destruido y el cuerpo de Bonny expuesto](../capitulos/47.md) · 00:00:21.760
+
+Tipo: `explicacion_director`.
+
+Tras el repaso de Patata sobre su huida de Shiaru, el director concreta que regresó allí en uno de sus viajes, encontró el huerto totalmente destrozado y vio el cuerpo de «Happy» Bonny colgado de la entrada. Lo sitúa después de vuelta en la jungla.
+
+Se confirma lo que Patata encontró, sin representar la ejecución ni identificar a quien colgó el cuerpo o destruyó el huerto. La vuelta hacia la jungla se formula como enlace del director.
+
+## [47-015 · Patata aparece cubierto de barro y hojas](../capitulos/47.md) · 00:20:05.320
+
+Tipo: `hecho_confirmado`.
+
+Mientras Tenta abraza a Tesa, ambas oyen agitación entre los matorrales. Chopito manda investigar y Tesa vuelve a sacar la pistola. De entre las hojas sale Patata, con barro y vegetación en la armadura; se disculpa por asustarlas y explica que lleva un tiempo huyendo de Shiaru.
+
+La descripción sugiere una marcha fatigosa, pero no fija el número de días ni una persecución activa hasta este punto de la jungla.
+
+## [47-017 · Patata comunica que otros piratas tomaron Shiaru y destruyeron su casa](../capitulos/47.md) · 00:23:00.520
+
+Tipo: `declaracion_personaje`.
+
+Patata explica a Tesa que Shiaru era un pueblo de piratas gobernado por Bonny, a quien describe como muy peligrosa. Dice que ahora parece muerta, que expulsaron a quienes vivían allí y que hay nuevos piratas. Atribuye su huida a la destrucción de su casa.
+
+El cuerpo visto por Patata está respaldado por el director al inicio. La expulsión general, los ocupantes y la casa son aquí su relato: no se nombra a sus responsables ni se describe el estado de cada habitante o edificio.
+
+## [47-079 · Patata encuentra a los piratas en la taberna de Iktan](../capitulos/47.md) · 02:00:10.840
+
+Tipo: `hecho_confirmado`.
+
+Patata reconoce en la taberna a los piratas que frecuentaban la de Shiaru. Al preguntar por la capitana, ellos responden que los echaron del pueblo y tuvieron que venir hasta allí. Le dan cerveza, que prueba y aprecia, y comentan que están agotando las existencias de la encargada.
+
+El motivo de la salida de Shiaru es testimonio de los piratas; no identifica quién gobierna ahora ni una nueva inspección del puerto. La descripción de estar en idéntica posición con las mismas botellas es humor de continuidad, no una duplicación o bucle mágico.
 

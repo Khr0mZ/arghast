@@ -8,11 +8,11 @@ La misma chamana enmascarada y dirigente de Iktan, vinculada a Coyote; la sucesi
 
 Etiquetas agrupadas: Gualulu / Walulu (líder de Iktan, grafía provisional); Walulu / Waluro / Gualulo (chamana enmascarada, grafía provisional).
 
-Base para revisar equivalencia: [31-023](../capitulos/31.md), [31-024](../capitulos/31.md), [39-017](../capitulos/39.md), [39-018](../capitulos/39.md), [45-008](../capitulos/45.md), [45-009](../capitulos/45.md), [45-010](../capitulos/45.md).
+Base para revisar equivalencia: [31-023](../capitulos/31.md), [31-024](../capitulos/31.md), [39-017](../capitulos/39.md), [39-018](../capitulos/39.md), [45-008](../capitulos/45.md), [45-009](../capitulos/45.md), [45-010](../capitulos/45.md), [47-081](../capitulos/47.md), [47-082](../capitulos/47.md), [47-083](../capitulos/47.md), [47-084](../capitulos/47.md), [47-085](../capitulos/47.md), [47-086](../capitulos/47.md), [47-087](../capitulos/47.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### La heredera que protege los caminos ocultos
 
@@ -49,6 +49,12 @@ Fuentes: [41-015 · Walulu confirma las precauciones tras el aviso de Leona](../
 Walulu escucha a Naór sobre el colegio y la necesidad de llegar a Perlasal por el concilio de Tutucan. Ofrece un conjuro de respiración de aproximadamente una hora, pero advierte que podría no bastar. Naór busca otro método y pide a su amiga que vigile a Leo. La chamana cuestiona si la crianza es adecuada y luego acepta que Naór se considera su familia; su comentario posterior sobre antiguos bichos muertos expresa preocupación, sin determinar el futuro del niño.
 
 Fuentes: [45-008 · Naór quiere viajar a Perlasal por la convocatoria de Tutucan](../capitulos/45.md) · 00:15:03.279 · [45-009 · Walulu ofrece una burbuja de una hora, que no llega a lanzar aquí](../capitulos/45.md) · 00:17:00.959 · [45-010 · Naór afirma que ella es la familia de Leo](../capitulos/45.md) · 00:19:03.159.
+
+### La protección que no alcanza a todos los atacantes
+
+Walulu recibe el aviso y muestra en un libro el antecedente del ritual protector realizado hace ciento veinte años tras el ataque del dragón. Sostiene que Iktan impide su entrada, pero reconoce que los muertos deben contenerse con la guardia. Se compromete a estudiar una estrategia y empieza a buscar pergaminos. Mantiene la acogida de los elfos frente a la propuesta del felino y pide hablar con Naór cuando vuelva.
+
+Fuentes: [47-081 · Tesara y el felino llevan el aviso a Walulu](../capitulos/47.md) · 02:04:06.960 · [47-082 · Walulu remite a un antiguo ritual tras el ataque del dragón](../capitulos/47.md) · 02:07:40.440 · [47-083 · La protección dracónica no detiene por sí sola a la hueste](../capitulos/47.md) · 02:10:27.199 · [47-084 · Walulu informa de varias guaridas dispersas](../capitulos/47.md) · 02:12:14.719 · [47-085 · Walulu acepta estudiar una estrategia contra el dragón](../capitulos/47.md) · 02:12:58.280 · [47-086 · El felino prefiere entregar a los elfos y Walulu los acoge](../capitulos/47.md) · 02:13:42.840 · [47-087 · Walulu quiere hablar con Naór y pide compañía para una reunión futura](../capitulos/47.md) · 02:14:38.559.
 
 ## Registros y evidencias
 
@@ -323,4 +329,60 @@ Tipo: `declaracion_personaje`.
 Ione se cruza con Citlali y Etley y reconoce a la cría al recordar el huevo. Pide acompañarlas porque quiere preguntar por lo ocurrido al dinosaurio. Citlali explica que la luz y el drenaje forman parte de una maldición, recuerda que descubrió ese efecto con Patata y acepta llevar a Ione ante Walulu, a quien esta cree capaz de aclarar el significado de los tatuajes.
 
 La explicación identifica el fenómeno como Citlali lo entiende, sin revelar origen, cura o significado de las marcas. La visita a Walulu solo se propone: no se representa una audiencia ni un análisis de los tatuajes.
+
+## [47-081 · Tesara y el felino llevan el aviso a Walulu](../capitulos/47.md) · 02:04:06.960
+
+Tipo: `hecho_confirmado`.
+
+Tras explicar en la taberna que el dragón ha amenazado con la caída de la ciudad, Tesara decide avisar primero a Walulu. Patata permanece con su cerveza; el felino acompaña a la historiadora porque no se fía de ella. Encuentran a Walulu preparando pastas de plantas y medicinas, y Tesara le expone el ultimátum de una semana por los elfos.
+
+La audiencia es sobre el dragón. No confundirla con la consulta pendiente de Citlali e Ione sobre la maldición o dar aquella misión por resuelta.
+
+## [47-082 · Walulu remite a un antiguo ritual tras el ataque del dragón](../capitulos/47.md) · 02:07:40.440
+
+Tipo: `declaracion_personaje`.
+
+Walulu reconoce el asunto del dragón que persiguen los hermanos y que atacó a la elfa. Al escuchar la amenaza contra Iktan, sonríe y muestra un gran libro de historias antiguas y relatos de sus dirigentes. Explica que hace ciento veinte años, después del ataque del dragón, el antiguo líder realizó con otros miembros de las tribus un ritual protector. Mira hacia las ruinas al hablar de aquel desastre. Afirma que la protección se hizo contra la magia especial de los dragones y les impide entrar en la ciudad.
+
+Es explicación histórica de Walulu apoyada en el libro, no una visión o reconstrucción del ataque. No se da el nombre del antiguo líder, la fecha absoluta, los ingredientes o un texto íntegro del rito. El VTT reconoce el nombre como «Glendra Drax» y «Colgenrax»; la grafía de catálogo debe resolverla la coordinación.
+
+## [47-083 · La protección dracónica no detiene por sí sola a la hueste](../capitulos/47.md) · 02:10:27.199
+
+Tipo: `declaracion_personaje`.
+
+Walulu responde que el dragón no puede acceder de ninguna manera, tampoco sobrevolar la ciudad para llenarla de veneno: la considera protegida de la presencia e invasión de dragones. Ante los no muertos admite que la protección no los detiene, pero confía en la guardia. Razona que el dragón pide sacar a los elfos porque él no puede entrar y que permanecer en Iktan los mantiene seguros frente a él.
+
+La seguridad es valoración de Walulu; no equivale a invulnerabilidad universal ni a una victoria ya conseguida sobre los muertos. No trasladar el alcance del rito a serpientes, infiltradores o todas las amenazas mágicas.
+
+## [47-084 · Walulu informa de varias guaridas dispersas](../capitulos/47.md) · 02:12:14.719
+
+Tipo: `declaracion_personaje`.
+
+Cuando Tesara pregunta cómo encontrar y matar a la criatura, Walulu advierte que derrotar a un dragón no es fácil. Dice que algunos guardias han encontrado diferentes guaridas y cree que el dragón las está dispersando por toda la jungla, lo que dificultará rastrearlo.
+
+No da coordenadas o una guarida inspeccionada por los protagonistas. No se identifica automáticamente ninguna con la cueva de una emboscada anterior, ni se narran nuevos refugios fundados ante la cámara.
+
+## [47-085 · Walulu acepta estudiar una estrategia contra el dragón](../capitulos/47.md) · 02:12:58.280
+
+Tipo: `declaracion_personaje`.
+
+Tesara se ofrece a ocuparse del rastreo y pide a Walulu una manera de matar al dragón, una debilidad o una estrategia. Walulu promete estudiar los libros antiguos y acepta hablar con los elfos si los ve. Al final de la audiencia vuelve a los estantes y empieza a buscar pergaminos de antiguas historias.
+
+Se inicia una búsqueda documental, sin resultado, debilidad revelada o expedición de caza consumada. La invitación a avisar a los elfos no demuestra que Walulu llegue a encontrarlos.
+
+## [47-086 · El felino prefiere entregar a los elfos y Walulu los acoge](../capitulos/47.md) · 02:13:42.840
+
+Tipo: `declaracion_personaje`.
+
+Invitado a añadir algo, el felino insiste en que sería más fácil entregar a los elfos. Walulu afirma que son bienvenidos y estarán seguros mientras permanezcan en Iktan; sostiene que la guardia podrá hacer frente a las huestes de muertos. La objeción del felino sobre la seguridad del pueblo la deja pensativa.
+
+No se aprueba una entrega o sacrificio. La reacción pensativa de Walulu no revoca explícitamente su acogida ni confirma que vaya a cambiar de bando.
+
+## [47-087 · Walulu quiere hablar con Naór y pide compañía para una reunión futura](../capitulos/47.md) · 02:14:38.559
+
+Tipo: `declaracion_personaje`.
+
+Walulu pregunta si Naór ha vuelto y dice que necesita hablar con ella. Tesara responde que lleva días cuidando del niño que le dejó. Walulu plantea reunirlos cuando regrese y pide que los acompañen; Tesara acepta contar con ella.
+
+La reunión queda futura; no se muestra el regreso de Naór ni se declara aquí el destino o la lista completa de convocados. La identificación del niño con Leo procede de su continuidad como menor dejado por Naór, sin convertir la frase en filiación biológica. El numeral del cuidado se corta en «Llevo tr»: no se fija una cifra de días.
 

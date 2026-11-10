@@ -8,11 +8,11 @@ Continuidad con la persona cortejada antes por Coyote, conservando grafía provi
 
 Etiquetas agrupadas: Angelique (persona de taberna Iktan, grafía provisional).
 
-Base para revisar equivalencia: [39-020](../capitulos/39.md), [45-007](../capitulos/45.md), [45-011](../capitulos/45.md), [46-057](../capitulos/46.md), [46-066](../capitulos/46.md).
+Base para revisar equivalencia: [39-020](../capitulos/39.md), [45-007](../capitulos/45.md), [45-011](../capitulos/45.md), [46-057](../capitulos/46.md), [46-066](../capitulos/46.md), [47-007](../capitulos/47.md), [47-008](../capitulos/47.md), [47-009](../capitulos/47.md), [47-079](../capitulos/47.md), [47-080](../capitulos/47.md), [47-081](../capitulos/47.md), [47-090](../capitulos/47.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### Los intentos de Coyote
 
@@ -25,6 +25,18 @@ Fuentes: [39-020 · Descanso en Iktan y expulsión de Coyote](../capitulos/39.md
 La encargada felina de la taberna de Iktan se presenta a Zoltan como Angelic y le ofrece una cerveza, compañía y una habitación. Lo corteja junto a la barra mientras aparta a Sir Poncelot y termina llevándolo a un cuarto. La escena se cierra con ruidos y chispas, sin narrar consecuencias posteriores.
 
 Fuentes: [46-057 · Zoltan toma una cerveza y Angelique lo corteja](../capitulos/46.md) · 02:03:44.679 · [46-066 · Zoltan y Angelique se retiran a una habitación](../capitulos/46.md) · 02:21:14.359.
+
+### Una indicación a cambio de algo bonito
+
+Acepta a unos clientes nuevos por lo mucho que consumen y pagan, pese al juicio negativo sobre ellos. Sugiere a Tesa salir a otras ruinas junto al lago y pide una joya bonita a cambio de indicarle el camino. Su actitud posesiva despierta la curiosidad de la historiadora; acuerdan hablar luego. Le da una ruta desde la puerta norte, con las calaveras y los cocodrilos como referencias, y vuelve a sus asuntos.
+
+Fuentes: [47-007 · Angelique tolera a unos clientes nuevos porque pagan bien](../capitulos/47.md) · 00:06:24.800 · [47-008 · Una joya a cambio de la pista de unas ruinas junto al lago](../capitulos/47.md) · 00:07:43.160 · [47-009 · Angelique da a Tesa el camino hacia las ruinas](../capitulos/47.md) · 00:10:49.279.
+
+### Las noticias de la taberna
+
+Angelique atiende a los visitantes mientras los piratas consumen sus reservas. No cree al principio la excusa de Tesara sobre el dragón y le reprocha no traer los objetos que esperaba. Informa de la salida de la elfa y el entrenamiento del hermano, sin darles un paradero actual comprobado. Tras escuchar el ultimátum sugiere avisar a Walulu. Más tarde describe a Patata el encuentro anterior con Zoltan y promete presentarlos.
+
+Fuentes: [47-079 · Patata encuentra a los piratas en la taberna de Iktan](../capitulos/47.md) · 02:00:10.840 · [47-080 · Angelique informa de la salida de la elfa y del entrenamiento de su hermano](../capitulos/47.md) · 02:02:28.400 · [47-081 · Tesara y el felino llevan el aviso a Walulu](../capitulos/47.md) · 02:04:06.960 · [47-090 · Angelique cuenta a Patata su encuentro con Zoltan](../capitulos/47.md) · 02:17:15.880.
 
 ## Registros y evidencias
 
@@ -75,4 +87,52 @@ Tipo: `hecho_confirmado`.
 Tras el coqueteo en la barra, Angelique toma del brazo a Zoltan y lo lleva a una habitación, cuya puerta cierra. Una carta del chat le concede furia y el final representa el encuentro privado mediante ruidos y chispas que salen de la puerta. Los otros permanecen en la taberna; Citlali sigue hablando con Etley e Ione termina su venta a Froger.
 
 El cierre no narra consecuencias posteriores, una nueva descarga contra el pueblo o un vínculo matrimonial. La anécdota sobre Gur de Kuroto pertenece a la conversación de mesa y no incorpora ese personaje ni sus hechos a Xoltacan.
+
+## [47-007 · Angelique tolera a unos clientes nuevos porque pagan bien](../capitulos/47.md) · 00:06:24.800
+
+Tipo: `declaracion_personaje`.
+
+La taberna de Iktan tiene un ambiente distinto y empieza a oler mal desde una esquina. Tesa pregunta a Angelique por los desconocidos allí sentados. La tabernera los llama nuevos y de mala calaña, pero añade que beben mucho y pagan bien.
+
+No se identifica a esos clientes ni se demuestra que sean los piratas que ocuparon Shiaru. El juicio sobre su carácter es de Angelique.
+
+## [47-008 · Una joya a cambio de la pista de unas ruinas junto al lago](../capitulos/47.md) · 00:07:43.160
+
+Tipo: `declaracion_personaje`.
+
+Angelique diferencia unas ruinas junto al lago del antiguo barrio del pueblo que Tesa ya estudia. Para indicarle el camino pide algo bonito, en particular una joya. Tesa promete traerle alguna pieza resultona si la encuentra y le pide que luego le cuente su relación amorosa. Angelique se muestra posesiva respecto a ese hombre y aplaza la conversación.
+
+El hombre no recibe nombre en este diálogo: el cortejo anterior no convierte estas palabras en una nueva identificación. La joya es un encargo condicional, sin hallazgo o entrega en este tramo.
+
+## [47-009 · Angelique da a Tesa el camino hacia las ruinas](../capitulos/47.md) · 00:10:49.279
+
+Tipo: `declaracion_personaje`.
+
+Angelique indica salir por la puerta norte, seguir el camino y girar a la derecha al ver tres calaveras de personas que, según dice, mataron la semana anterior. Advierte sobre los cocodrilos y sitúa las ruinas junto al lago. Tesa apunta las indicaciones en su libreto y parte.
+
+Es una ruta verbal, sin coordenadas. El segundo giro resulta impreciso en el VTT y la recapitulación de Tesa lo formula a la izquierda. Las tres muertes y su fecha son información atribuida a Angelique, sin identidad o autoría.
+
+## [47-079 · Patata encuentra a los piratas en la taberna de Iktan](../capitulos/47.md) · 02:00:10.840
+
+Tipo: `hecho_confirmado`.
+
+Patata reconoce en la taberna a los piratas que frecuentaban la de Shiaru. Al preguntar por la capitana, ellos responden que los echaron del pueblo y tuvieron que venir hasta allí. Le dan cerveza, que prueba y aprecia, y comentan que están agotando las existencias de la encargada.
+
+El motivo de la salida de Shiaru es testimonio de los piratas; no identifica quién gobierna ahora ni una nueva inspección del puerto. La descripción de estar en idéntica posición con las mismas botellas es humor de continuidad, no una duplicación o bucle mágico.
+
+## [47-080 · Angelique informa de la salida de la elfa y del entrenamiento de su hermano](../capitulos/47.md) · 02:02:28.400
+
+Tipo: `declaracion_personaje`.
+
+Tesara dice a la encargada que el dragón los ha emboscado y pide localizar a los hermanos. Angelique cuenta que la muchacha salió hace días diciendo que iba a entrenar para bucear, acompañada por el pulpo, la leona y otros. Del hermano afirma que lo vio entrenando esa mañana y que suele estar fuera. Añade que la patrulla aún no ha vuelto; su conjetura de que se habrán ahogado no se confirma.
+
+Son noticias y conjeturas de Angelique, sin escena actual de los hermanos o de la patrulla. Las referencias a un pulpo y una leona no autorizan identificar a cada integrante. «Andrea» es un reconocimiento del trato de Tesara, sin crear otra tabernera ni fijarlo como alias confirmado.
+
+## [47-090 · Angelique cuenta a Patata su encuentro con Zoltan](../capitulos/47.md) · 02:17:15.880
+
+Tipo: `declaracion_personaje`.
+
+Patata intenta cortejar a la encargada, que deriva la conversación hacia un recién llegado de torso desnudo, herida y chispas. Dice que estuvo con él el día anterior, promete presentárselo y finalmente lo nombra Zoltan. Lo describe mientras Patata sigue en la taberna; Tesara y el felino regresan de hablar con Walulu y Chopito continúa la imitación de Tortas en el cierre.
+
+No se representa una nueva aparición de Zoltan ni la presentación prometida. La expresión «ayer» pertenece al testimonio de Angelique; no sirve por sí sola para cerrar un calendario. Las comparaciones de mesa con otros personajes o campañas no incorporan sus identidades a Xoltacan.
 

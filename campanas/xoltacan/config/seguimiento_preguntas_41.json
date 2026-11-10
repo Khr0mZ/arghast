@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revisado_hasta": 46,
+  "revisado_hasta": 47,
   "preguntas": [
     {
       "id": "P41-001",
@@ -14,7 +14,7 @@
         "41-004"
       ],
       "pendiente": "La identidad, el paradero y el motivo del retraso del emisario.",
-      "revisado_hasta": 46
+      "revisado_hasta": 47
     },
     {
       "id": "P41-002",
@@ -29,7 +29,7 @@
         "41-051"
       ],
       "pendiente": "La identidad y propósito de la presencia anunciada como «ella».",
-      "revisado_hasta": 46
+      "revisado_hasta": 47
     },
     {
       "id": "P41-003",
@@ -44,7 +44,7 @@
         "41-023"
       ],
       "pendiente": "La causa del dolor, la salida de serpientes y la muerte.",
-      "revisado_hasta": 46
+      "revisado_hasta": 47
     },
     {
       "id": "P41-004",
@@ -61,7 +61,7 @@
         "41-046"
       ],
       "pendiente": "La finalidad de retirar al Anciano, los integrantes restantes y el mando de la operación.",
-      "revisado_hasta": 46
+      "revisado_hasta": 47
     },
     {
       "id": "P41-005",
@@ -77,7 +77,7 @@
         "41-051"
       ],
       "pendiente": "El destino del cautivo vivo y la información que pudiera proporcionar.",
-      "revisado_hasta": 46
+      "revisado_hasta": 47
     },
     {
       "id": "P41-006",
@@ -96,7 +96,7 @@
         "44-056"
       ],
       "pendiente": "La composición de los viales y la relación comprobada entre las distintas muestras de veneno.",
-      "revisado_hasta": 46
+      "revisado_hasta": 47
     },
     {
       "id": "P41-007",
@@ -109,7 +109,7 @@
         "41-047"
       ],
       "pendiente": "El fabricante, proveedor y organización que equipa a los adversarios.",
-      "revisado_hasta": 46
+      "revisado_hasta": 47
     },
     {
       "id": "P41-008",
@@ -123,22 +123,25 @@
         "41-050"
       ],
       "pendiente": "La causa de la excepción de Tentacol a la compulsión.",
-      "revisado_hasta": 46
+      "revisado_hasta": 47
     },
     {
       "id": "P41-009",
       "capitulo": 41,
       "indice": 9,
       "pregunta": "¿Cuál es la grafía del nombre del dragón verde, dónde está su guarida y qué relación de identidad tiene con Clodidrax? El olor queda reconocido, pero el deletreo no es seguro y Tortas desconoce la guarida (41-051, 41-054–41-055).",
-      "estado": "pendiente",
-      "respuesta": "Winscore observa el dragón y Tortas reconoce su olor. El deletreo incompleto no permite fijar el nombre; el director niega que el monje conozca la guarida. No hay identificación expresa con Clodidrax.",
+      "estado": "parcial",
+      "respuesta": "Walulu informa de varias guaridas dispersas que encontraron algunos guardias, sin localizarlas sobre un mapa o inspeccionar la cueva de la emboscada. La grafía Clolgedranx es la confirmada por el usuario; los subtítulos conservan sus variantes. Tesara reconoce la voz de la emboscada anterior y el director confirma la continuidad. Se integra así el dragón verde con el que pidió a Citlali sacar a los dos elfos en el capítulo 39; Zarynth, el pequeño dragón de Aerendriel, sigue siendo otra identidad.",
       "referencias": [
         "41-051",
         "41-054",
-        "41-055"
+        "41-055",
+        "47-050",
+        "47-082",
+        "47-084"
       ],
-      "pendiente": "La grafía, la guarida y la relación de identidad con Clodidrax.",
-      "revisado_hasta": 46
+      "pendiente": "La ubicación verificable de las guaridas y si la cueva de la emboscada es una de ellas.",
+      "revisado_hasta": 47
     },
     {
       "id": "P41-010",
@@ -157,7 +160,7 @@
         "45-075"
       ],
       "pendiente": "",
-      "revisado_hasta": 46
+      "revisado_hasta": 47
     },
     {
       "id": "P41-011",
@@ -170,7 +173,7 @@
         "41-024"
       ],
       "pendiente": "El origen y la función del brillo mágico detectado en el Anciano.",
-      "revisado_hasta": 46
+      "revisado_hasta": 47
     }
   ]
 }

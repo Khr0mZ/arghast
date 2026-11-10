@@ -1,0 +1,39 @@
+{
+  "originales_anteriores_comprobados": 1698,
+  "originales_alterados": [],
+  "originales_nuevos_verificados": 5,
+  "kuroto_identico": true,
+  "capitulos": 47,
+  "evidencias": 1467,
+  "entidades": 208,
+  "preguntas": 295,
+  "escenas_cotejadas": 13,
+  "mensajes_cotejados": 408,
+  "estadisticas_rol": {
+    "escenas": 325,
+    "unidades_leidas": 249,
+    "mensajes_en_escenas": 6723,
+    "mensajes_originales": 6725,
+    "adjuntos_en_escenas": 75,
+    "notas_de_voz": 17
+  },
+  "preguntas_anteriores_conservadas": 284,
+  "fecha": "2026-11-10",
+  "resultado": "OK",
+  "pruebas": {
+    "unitarias": 100,
+    "interfaz_en_navegador": 298,
+    "rol_escrito_en_navegador": 183,
+    "edicion_en_navegador": 35,
+    "lectores_autonomos": 12
+  },
+  "capitulo_nuevo": {
+    "numero": 47,
+    "titulo": "Cadáveres",
+    "evidencias": 90,
+    "etapas": 19,
+    "preguntas_nuevas": 11
+  },
+  "publicacion": "No realizada; pendiente de aprobacion expresa de esta version local.",
+  "sha256_capitulo": "b7f0e5cf3f16324284f1503073eb83800647196e870096f82473fd02c418b49f"
+}

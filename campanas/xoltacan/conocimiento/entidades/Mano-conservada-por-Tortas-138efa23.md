@@ -12,7 +12,7 @@ Base para revisar equivalencia: [45-042](../capitulos/45.md), [45-043](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### Un recuerdo del primer combate
 

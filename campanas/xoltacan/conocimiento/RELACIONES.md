@@ -1,5 +1,11 @@
 # Relaciones documentadas
 
+## El ultimátum de Clolgedranx
+
+Tesara, Patata, Mictlan, Tentacol y Chopito coinciden junto al lago y combaten a los cuerpos movidos por raíces. La ayuda mutua no borra sus diferencias: Patata conserva su diosa, Tesara no acepta el culto de Chopito y Mictlan considera entregar a los elfos por la seguridad de la ciudad. Tesara los defiende como amigos. Clolgedranx amenaza a Oliver y ella confirma que es su hermano, sin que se represente una captura ([capítulo 47](capitulos/47.md)).
+
+La escena escrita posterior identifica a Eldrath y Tryel como hermanos y destinatarios del encargo. Eldrath propone discreción y colaborar en la defensa; sus garantías sobre Oliver y sus sospechas sobre el mandante son razonamientos propios. Las fuentes completas y sus límites figuran en [la continuidad](continuidad_47.md).
+
 Las relaciones se presentan según la evidencia de cada capítulo. Un vínculo anterior no garantiza que siga vigente, y compartir una escena no implica una alianza. Las grafías inciertas permanecen señaladas en las fichas.
 
 | Personas o grupos | Relación y evolución | Evidencia |

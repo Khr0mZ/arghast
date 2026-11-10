@@ -286,3 +286,14 @@ Historial de preguntas planteadas en cada episodio. Algunas reciben respuesta de
 - Cap. 46: ¿Dónde está el novato llamado Jacki y a quién corresponde esa mención? Sus compañeros dicen que faltaba desde la playa, sin confirmar su identidad con Jack o el cautivo de Taylor ni su destino (46-059–46-060). ([ficha](capitulos/46.md)).
 - Cap. 46: ¿Cómo reunirá Ione los apoyos para recuperar Shiaru y qué encontrará al volver? La venta a Froger aporta veinticuatro monedas, sin reclutamiento o reconquista representados (46-060, 46-063). ([ficha](capitulos/46.md)).
 - Cap. 46: ¿Se celebrará la reunión de madres con Citlali y cómo continuará la convivencia escolar de Leo y Etley? La invitación de Miausi y la reprimenda no representan la reunión o el regreso del niño (46-054–46-056, 46-064). ([ficha](capitulos/46.md)).
+- Cap. 47: ¿Quién gobierna ahora Shiaru y quién expuso el cuerpo de Bonny? (47-001, 47-017, 47-079). ([ficha](capitulos/47.md)).
+- Cap. 47: ¿Qué origen tienen las ruinas del lago y qué podrá aprender Tesara de ellas? (47-008–47-010). ([ficha](capitulos/47.md)).
+- Cap. 47: ¿Entregará Tesara la joya prometida a Angelique y conocerá a la persona por la que pregunta? (47-008). ([ficha](capitulos/47.md)).
+- Cap. 47: ¿Quiénes son los vigilantes a los que pertenece Mictlan y qué consideran sacrilegio? (47-019–47-020). ([ficha](capitulos/47.md)).
+- Cap. 47: ¿Quiénes eran los cadáveres del lago y cómo se sostiene su animación por raíces? (47-022, 47-049, 47-058, 47-069). ([ficha](capitulos/47.md)).
+- Cap. 47: ¿Cuánto dura la compulsión de llevar a los elfos y cómo podrán resistirla o terminarla? (47-038, 47-042–47-043, 47-061). ([ficha](capitulos/47.md)).
+- Cap. 47: ¿Quién paga a Clolgedranx por los hermanos elfos y con qué propósito? (47-072). ([ficha](capitulos/47.md)).
+- Cap. 47: ¿Cómo responderán los viajeros al plazo de una semana y a la amenaza de una hueste contra Iktan? (47-073, 47-083, 47-086). ([ficha](capitulos/47.md)).
+- Cap. 47: ¿Cómo conoce Clolgedranx a Oliver y qué peligro corre el hermano de Tesara? (47-074). ([ficha](capitulos/47.md)).
+- Cap. 47: ¿Encontrará Walulu una debilidad o estrategia y se localizarán las guaridas del dragón? (47-084–47-085). ([ficha](capitulos/47.md)).
+- Cap. 47: ¿De qué tratará la reunión para la que Walulu quiere a Naór y a los viajeros? (47-087). ([ficha](capitulos/47.md)).

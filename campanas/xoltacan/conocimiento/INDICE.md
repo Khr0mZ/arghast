@@ -52,3 +52,4 @@ Las fichas reúnen acontecimientos seleccionados y citados. La tabla distingue d
 | 44 | [Una cura para Eromov](capitulos/44.md) | disponible | revisado | [texto](../derivados/44/lectura.md) |
 | 45 | [El escondite de los Profundos](capitulos/45.md) | disponible | revisado | [texto](../derivados/45/lectura.md) |
 | 46 | [Camino perdido a Iktan](capitulos/46.md) | disponible | revisado | [texto](../derivados/46/lectura.md) |
+| 47 | [Cadáveres](capitulos/47.md) | disponible | revisado | [texto](../derivados/47/lectura.md) |

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [43-003](../capitulos/43.md), [43-059](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### Una melodía antes de la carrera
 

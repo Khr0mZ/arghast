@@ -1,5 +1,11 @@
 # Método de reconstrucción
 
+## Incorporación del capítulo 47
+
+«Cadáveres» se revisa mediante lectura íntegra de 3.084 segmentos en tres bloques sin solapamiento: 90 evidencias y 19 etapas. Se cotejan las 284 preguntas anteriores y se incorporan 11 nuevas. La [procedencia](../revision/fuente_xoltacan_47.json) conserva los cinco hashes de VTT, TXT y metadatos. No se ha cotejado el audio.
+
+Se releen además trece escenas escritas completas, con 408 mensajes: cinco de continuidad inmediata, tres de antecedentes y cinco posteriores. La ordenación de las 325 escenas se contrasta con el corte operativo estimado de Twitch, el 24 de julio a las 20:21:25 UTC. Ninguna necesita dividirse ni se modifica un original. La publicación de YouTube del 10 de noviembre permanece separada. Véanse [la continuidad](continuidad_47.md), [el reparto](../revision/borradores/47/reparto.json) y [el cotejo del rol](../revision/borradores/47/cotejo_rol.json).
+
 ## Evidencia
 
 Cada afirmación lleva un identificador estable, capítulo, intervalo del vídeo, cita literal de los subtítulos y enlace al minuto. El constructor comprueba que esa cita aparece dentro del intervalo del VTT original. Esta comprobación valida la localización textual, no la interpretación ni la fidelidad al audio. La confianza es una valoración editorial sobre la lectura de los subtítulos, no una probabilidad calculada.

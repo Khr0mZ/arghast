@@ -12,7 +12,7 @@ Base para revisar equivalencia: [46-014](../capitulos/46.md), [46-015](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### Pieles humanas y silencio
 

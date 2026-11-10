@@ -12,7 +12,7 @@ Base para revisar equivalencia: [03-027](../capitulos/03.md), [38-005](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### Una pirata endeudada y un secreto peligroso
 
@@ -3007,4 +3007,12 @@ Tipo: `hecho_confirmado`.
 Tras el coqueteo en la barra, Angelique toma del brazo a Zoltan y lo lleva a una habitación, cuya puerta cierra. Una carta del chat le concede furia y el final representa el encuentro privado mediante ruidos y chispas que salen de la puerta. Los otros permanecen en la taberna; Citlali sigue hablando con Etley e Ione termina su venta a Froger.
 
 El cierre no narra consecuencias posteriores, una nueva descarga contra el pueblo o un vínculo matrimonial. La anécdota sobre Gur de Kuroto pertenece a la conversación de mesa y no incorpora ese personaje ni sus hechos a Xoltacan.
+
+## [47-079 · Patata encuentra a los piratas en la taberna de Iktan](../capitulos/47.md) · 02:00:10.840
+
+Tipo: `hecho_confirmado`.
+
+Patata reconoce en la taberna a los piratas que frecuentaban la de Shiaru. Al preguntar por la capitana, ellos responden que los echaron del pueblo y tuvieron que venir hasta allí. Le dan cerveza, que prueba y aprecia, y comentan que están agotando las existencias de la encargada.
+
+El motivo de la salida de Shiaru es testimonio de los piratas; no identifica quién gobierna ahora ni una nueva inspección del puerto. La descripción de estar en idéntica posición con las mismas botellas es humor de continuidad, no una duplicación o bucle mágico.
 

@@ -1,5 +1,5 @@
 {
-  "revisado_hasta": 46,
+  "revisado_hasta": 47,
   "entidades": {
     "Atlan": [
       {
@@ -270,6 +270,17 @@
           "46-060",
           "46-066"
         ]
+      },
+      {
+        "titulo": "Refugio y noticias incompletas",
+        "texto": "La taberna aloja a los piratas desplazados de Shiaru y recibe a Patata, Tesara y el felino. Allí se habla de las salidas de los hermanos y de la amenaza del dragón antes de avisar a Walulu. Patata permanece bebiendo y conversando con Angelique; la historiadora y el felino regresan al cierre.",
+        "referencias": [
+          "47-077",
+          "47-079",
+          "47-080",
+          "47-081",
+          "47-090"
+        ]
       }
     ],
     "Forja del Águila de Sangre": [
@@ -338,6 +349,15 @@
           "15-004",
           "16-001",
           "32-001"
+        ]
+      },
+      {
+        "titulo": "El cultivo perdido",
+        "texto": "Patata encuentra el huerto totalmente destrozado durante su regreso a Shiaru. Más tarde cuenta que huyó después de que los nuevos ocupantes destruyeran su casa. Su búsqueda inmediata de agua y descanso expresa la pérdida de su refugio, sin que se acuerde todavía reconstruirlo o recuperarlo.",
+        "referencias": [
+          "47-001",
+          "47-017",
+          "47-018"
         ]
       }
     ],
@@ -486,6 +506,21 @@
           "46-061",
           "46-063",
           "46-065"
+        ]
+      },
+      {
+        "titulo": "La ciudad bajo el ultimátum",
+        "texto": "Tesara devuelve a los viajeros a la ciudad, entre la taberna, el lago y las ruinas. La amenaza de una hueste contra Iktan conduce a la audiencia con Walulu. La dirigente explica la protección dracónica nacida del ataque de hace ciento veinte años y confía en su guardia para contener a los muertos. Acoge a los elfos y empieza a buscar una estrategia mientras el plazo de una semana sigue abierto.",
+        "referencias": [
+          "47-073",
+          "47-077",
+          "47-079",
+          "47-080",
+          "47-081",
+          "47-082",
+          "47-083",
+          "47-085",
+          "47-086"
         ]
       }
     ],
@@ -716,6 +751,14 @@
           "46-060",
           "46-063"
         ]
+      },
+      {
+        "titulo": "Un regreso sin hogar",
+        "texto": "La vuelta de Patata muestra el huerto destrozado y a Bonny colgada en la entrada. Él cuenta después que nuevos piratas expulsaron a quienes vivían allí y que destruyeron su casa, motivo de su marcha a la jungla. El pasaje no establece quién gobierna ahora, cómo se repartió el poder ni qué edificios continúan en pie.",
+        "referencias": [
+          "47-001",
+          "47-017"
+        ]
       }
     ],
     "Templo de Lares": [
@@ -897,6 +940,15 @@
           "46-056",
           "46-064"
         ]
+      },
+      {
+        "titulo": "Un nuevo día para Leo",
+        "texto": "Tesa deja a Leo en su puerta mientras él se queja de una agresión anterior ocurrida, según su versión, allí mismo. Tras una disputa y un gesto insultante, el niño entra corriendo cuando ella saca el látigo. La llegada permite a Tesa dedicar tiempo a sus propios estudios.",
+        "referencias": [
+          "47-004",
+          "47-005",
+          "47-006"
+        ]
       }
     ],
     "Lago Tachan": [
@@ -1009,6 +1061,37 @@
         "referencias": [
           "46-051",
           "46-052"
+        ]
+      }
+    ],
+    "Ruinas de la orilla del lago de Iktan": [
+      {
+        "titulo": "Un lugar de estudio que oculta cadáveres",
+        "texto": "Angelique indica a Tesa cómo llegar a unas ruinas diferentes del barrio que ya ha estudiado. El trayecto tarda menos de una hora y concluye ante pocos muros. Allí coinciden la historiadora, Tenta y Chopito, Patata y el vigilante Mictlan. La investigación queda interrumpida cuando las raíces se mueven, abren el suelo y extraen cadáveres que pasan a manejar. El origen arqueológico de los muros sigue sin establecerse.",
+        "referencias": [
+          "47-008",
+          "47-009",
+          "47-010",
+          "47-011",
+          "47-015",
+          "47-019",
+          "47-020",
+          "47-021",
+          "47-022",
+          "47-024"
+        ]
+      },
+      {
+        "titulo": "Vegetación que actúa y deja huellas",
+        "texto": "Raíces y ramas mueven a los cadáveres y los reúnen en una masa. Esa misma vegetación permite a Tesara localizar por presión al ocupante invisible. Las ramas recobran su posición al moverse la criatura y después dejan un nuevo hueco; un muro limita el recorrido del tentáculo.",
+        "referencias": [
+          "47-049",
+          "47-051",
+          "47-052",
+          "47-056",
+          "47-057",
+          "47-058",
+          "47-060"
         ]
       }
     ]

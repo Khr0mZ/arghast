@@ -1,5 +1,5 @@
 {
-  "revisado_hasta": 46,
+  "revisado_hasta": 47,
   "entidades": {
     "Cinco reyes piratas": [
       {
@@ -321,6 +321,13 @@
           "46-059",
           "46-060"
         ]
+      },
+      {
+        "titulo": "Expulsados de Shiaru según su relato",
+        "texto": "Patata reconoce a los piratas de Shiaru en la taberna de Iktan. Le cuentan que los echaron del pueblo y que tuvieron que desplazarse hasta allí. Le ofrecen cerveza y comentan que están agotando el suministro de la encargada, sin describir el nuevo gobierno o un regreso organizado.",
+        "referencias": [
+          "47-079"
+        ]
       }
     ],
     "Yuan-ti": [
@@ -382,6 +389,26 @@
           "41-047",
           "41-049",
           "41-051"
+        ]
+      }
+    ],
+    "Piratas ocupantes de Shiaru": [
+      {
+        "titulo": "Los ocupantes vistos a través de la huida de Patata",
+        "texto": "Patata cuenta que, después de la caída de Bonny, hay otros piratas en Shiaru y que echaron a quienes estaban allí. Incluye la destrucción de su casa entre las razones por las que salió corriendo. El pasaje no permite repartir esas acciones entre individuos concretos o atribuirlas a todos los presentes en el ataque anterior.",
+        "referencias": [
+          "47-017"
+        ]
+      }
+    ],
+    "Guardia de Iktan": [
+      {
+        "titulo": "Defensa frente a la hueste y noticias de guaridas",
+        "texto": "Walulu asegura que la guardia ha mantenido bajo control el problema de los muertos y cree que podrá contener la amenaza. Atribuye a algunos guardias el hallazgo de diferentes guaridas del dragón por la jungla. No se representa esa exploración ni un nuevo combate de la guardia.",
+        "referencias": [
+          "47-083",
+          "47-084",
+          "47-086"
         ]
       }
     ]

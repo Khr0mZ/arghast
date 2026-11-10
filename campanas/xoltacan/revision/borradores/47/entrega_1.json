@@ -1,0 +1,2695 @@
+{
+  "bloque": 1,
+  "lectura_completa": true,
+  "primer_segmento": "c000001",
+  "ultimo_segmento": "c002055",
+  "cobertura_lectura": [
+    {
+      "desde": 0,
+      "hasta": 256,
+      "primer_segmento": "c000001",
+      "ultimo_segmento": "c000513",
+      "segmentos": 257
+    },
+    {
+      "desde": 257,
+      "hasta": 513,
+      "primer_segmento": "c000515",
+      "ultimo_segmento": "c001027",
+      "segmentos": 257
+    },
+    {
+      "desde": 514,
+      "hasta": 770,
+      "primer_segmento": "c001029",
+      "ultimo_segmento": "c001541",
+      "segmentos": 257
+    },
+    {
+      "desde": 771,
+      "hasta": 1027,
+      "primer_segmento": "c001543",
+      "ultimo_segmento": "c002055",
+      "segmentos": 257
+    }
+  ],
+  "segmentos_leidos": 1028,
+  "fuente_sha256": "af82762727aa32ebc82b92459bdc4b039b6b17839c0f994d26f0a5aaf88e983e",
+  "audio_cotejado": false,
+  "etapas": [
+    {
+      "titulo": "Lo que queda de Shiaru y los caminos pendientes",
+      "referencias": [
+        "47-101",
+        "47-102",
+        "47-103"
+      ],
+      "texto": "Patata ya no tiene el refugio que había cultivado en Shiaru. El director concreta que, al volver en uno de sus viajes, encontró el huerto destrozado y el cuerpo de «Happy» Bonny colgado de la entrada. Da media vuelta hacia la jungla, sin un destino claro. En otro frente, Tesa sigue cuidando a Leo mientras intenta atender el encargo de los elfos sobre el dragón. Tenta y Chopito, por su parte, han salido de Perlasal en busca de más seguidores para el pulpo. La jugadora sitúa su avance hacia Iktan; el director aclara que aún no han llegado."
+    },
+    {
+      "titulo": "Tesa deja a Leo en el colegio",
+      "referencias": [
+        "47-104",
+        "47-105",
+        "47-106"
+      ],
+      "texto": "Tesa lleva a Leo de la mano al colegio de Iktan y se lamenta de que su madre lleve varios días sin hacerse cargo de él. El niño quiere denunciarle que una mujer lo golpeó y que Tesa no lo defendió. Ella recuerda haberlo dejado haciendo los deberes y haberlo buscado por la taberna; Leo insiste en que estaba en el colegio, donde la señora se llevó a su amigo antes de pegarle. No da una identificación inequívoca de ninguno de los dos en esta conversación. La disputa empeora cuando llama vieja a Tesa: ella le da un golpe, él agacha las orejas y vuelve a amenazar con la llegada de su madre. Desde la puerta todavía le dedica un gesto insultante. Tesa saca el látigo y Leo corre hacia dentro. Por fin puede dejarlo e intentar disfrutar de una mañana tranquila."
+    },
+    {
+      "titulo": "Angelique ofrece unas ruinas y pide una joya",
+      "referencias": [
+        "47-107",
+        "47-108",
+        "47-109",
+        "47-110"
+      ],
+      "texto": "La tranquilidad de la taberna trae un olor desagradable desde una mesa de desconocidos. Angelique reconoce que parecen de mala calaña, pero le compensa lo que beben y pagan. La charla acaba llevando a las notas históricas de Tesa y a unas ruinas cercanas al lago, distintas del barrio antiguo que ya conoce. Tesa pregunta cómo llegar. Angelique quiere una joya bonita a cambio; ella promete buscar algo si lo encuentra y pide que después le cuente quién es ese hombre por el que se muestra tan posesiva. El nombre no sale. Tesa apunta una ruta que parte por la puerta norte, pasa por tres calaveras y exige cuidado con los cocodrilos. En menos de una hora alcanza el lago, pero las supuestas ruinas resultan ser tres o cuatro muros caídos. Aun decepcionada, busca grabados, columnas o estatuas y se queda estudiando el lugar."
+    },
+    {
+      "titulo": "Tenta y Chopito salen del agua",
+      "referencias": [
+        "47-111",
+        "47-112",
+        "47-113",
+        "47-114"
+      ],
+      "texto": "Tenta y Chopito emergen del lago por un punto distinto de aquel por el que iniciaron el trayecto sumergido a Perlasal. Tenta teme haber confundido la ruta. Chopito lo considera una oportunidad: sostiene que Iktan ya tiene algunos acólitos suyos y que ahora les conviene repartir seguidores entre más lugares. Se instala en el tarro y manda explorar. Tesa oye su paso húmedo, se vuelve y apunta a la recién llegada. Quiere saber si son hostiles; Tenta presenta al pulpo como su señor y no ofrece enemistad mientras no se le opongan. Tesa termina bajando la pistola y le indica el camino de Iktan, pero Tenta busca nuevos territorios. Chopito comenta en Aquan que la ignorancia de la humana deja sitio para sus ideas. La sorpresa es suya cuando Tesa revela que entiende el idioma y el director confirma la comprensión. Lejos de desistir, la toma por una posible discípula y ordena a Tenta abrazarla. Ella la abraza y Tesa intenta apartarse con delicadeza, sin aceptar ninguna conversión."
+    },
+    {
+      "titulo": "Patata pide agua y cuenta la caída de su casa",
+      "referencias": [
+        "47-115",
+        "47-116",
+        "47-117",
+        "47-118"
+      ],
+      "texto": "Un movimiento entre los matorrales interrumpe el abrazo. Chopito exige que investiguen y Tesa vuelve a empuñar la pistola. Aparece Patata cubierto de barro y hojas en la armadura. Se disculpa por el susto y se presenta como clérigo. Al explicar por qué huye de Shiaru, cuenta que Bonny parece muerta, que unos nuevos piratas expulsaron a sus habitantes y que le destruyeron la casa. Tesa se compadece. Chopito ofrece cobijo bajo su obediencia, pero Patata ya tiene su propia diosa. Además, no entiende Aquan: Tesa le traduce que el pulpo quiere ser su amigo y él acepta esa amistad. Lo que necesita de inmediato es limpiarse y descansar. Le indican que Iktan está a una hora; mientras tanto se acerca al lago de agua transparente para lavarse la armadura."
+    },
+    {
+      "titulo": "El vigilante de ojos amarillos",
+      "referencias": [
+        "47-119",
+        "47-120"
+      ],
+      "texto": "Tesa distingue otra presencia, esta vez bien escondida entre los árboles: unos ojos amarillos la observan. La llama antes de tener que sacar otra vez el arma. El felino sale como si solo estuviera de paso y reprocha al grupo que ocupe territorio ajeno. Cuando Tesa pregunta si las ruinas son suyas, responde que la madre tierra pertenece a todos y que su gente se limita a vigilarla. Su nombre queda como «Mlan» en la transcripción. Tesa pide terminar los apuntes y promete marcharse; él lo permite mientras no cometa sacrilegio. Patata concluye el lavado y recibe indicaciones para llegar a Iktan. La conversación sobre quién resulta más extraño sirve de tregua breve entre los viajeros."
+    },
+    {
+      "titulo": "Los cadáveres que levantan las raíces",
+      "referencias": [
+        "47-121",
+        "47-122",
+        "47-123",
+        "47-124"
+      ],
+      "texto": "El suelo interrumpe la tregua. Las raíces se hunden o afloran lentamente alrededor de los muros, como si la tierra cobrara vida. Patata prepara el escudo y su martillo con forma de patata; Tesa echa mano de la pistola y Tenta retrocede protegiendo a Chopito, que insiste en ser quien da las órdenes. Las bromas de la mesa sobre hombres topo no se materializan. Lo que sale del suelo son manos y cadáveres: las plantas han penetrado en los restos y los levantan y manejan. Los muertos se vuelven hacia los presentes mientras el frasco de Chopito se oscurece de tinta en una reacción humorística. Tesa cree reconocer el peligro y advierte que los controla una planta extraña; añade que puede obedecer a un dragón verde capaz de entrar en sus cabezas. Es su advertencia, sin aparición del dragón ni ataque mental demostrado en ese instante."
+    },
+    {
+      "titulo": "El fuego no resuelve el avance",
+      "referencias": [
+        "47-125",
+        "47-126",
+        "47-127",
+        "47-128",
+        "47-129",
+        "47-130",
+        "47-131",
+        "47-132"
+      ],
+      "texto": "Mictlan tantea la amenaza desde lejos y golpea con dos descargas. Tesa prueba Escupefuego contra la vegetación que recubre a los zombis. Acierta a uno más verde y una salpicadura hiere a los presentes: el director fija seis puntos de daño y recuerda expresamente a Chopito. La adjudicación se vincula a una carta del chat, sin convertirla en una fuerza del mundo. La carga de la pistola se consume y el fuego hace daño normal; Tesa abandona esa teoría y busca cubrirse entre los matorrales. Tenta invoca el Tentáculo de las profundidades, ataca con frío y se retira. Después impacta con dos descargas que empujan, y se comentan las reducciones de movimiento de sus ataques. Un zombi, sin embargo, se acerca a Patata con un aura apestosa. El clérigo falla la salvación de Constitución y queda envenenado, sin poder recuperar vida hasta el final de su siguiente turno. Responde con una capacidad de expulsión de no muertos: todos menos uno muestran temor, aunque aún no se representa su retirada. Su siguiente ataque, anunciado a nivel tres, impacta justo cuando termina el tramo. La batalla sigue abierta en el corte."
+    }
+  ],
+  "afirmaciones": [
+    {
+      "id": "47-101",
+      "titulo": "Patata encuentra su huerto destruido y el cuerpo de Bonny expuesto",
+      "tipo": "explicacion_director",
+      "afirmacion": "Tras el repaso de Patata sobre su huida de Shiaru, el director concreta que regresó allí en uno de sus viajes, encontró el huerto totalmente destrozado y vio el cuerpo de «Happy» Bonny colgado de la entrada. Lo sitúa después de vuelta en la jungla.",
+      "inicio": "00:00:21.760",
+      "fin": "00:01:08.390",
+      "cita": "cuerpo de Bonnie colgado de la entrada,",
+      "evidencia_cue": {
+        "inicio": "00:00:57.440",
+        "fin": "00:01:00.790",
+        "texto": "cuerpo de Bonnie colgado de la entrada,"
+      },
+      "entidades": [
+        "Patata",
+        "Shiaru",
+        "Granja de Patata",
+        "\"Happy\" Bonny"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [
+        "Patata"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "Se confirma lo que Patata encontró, sin representar la ejecución ni identificar a quien colgó el cuerpo o destruyó el huerto. La vuelta hacia la jungla se formula como enlace del director."
+    },
+    {
+      "id": "47-102",
+      "titulo": "Tesa combina el cuidado de Leo con la investigación del dragón",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "La jugadora recuerda que Tesa cuida a un conejo maleducado e intenta dedicar sus ratos libres a investigar el encargo de los elfos para encontrar al dragón; también busca tiempo para sus libros y su vino.",
+      "inicio": "00:01:13.880",
+      "fin": "00:01:47.149",
+      "cita": "pidieron los elfos de para encontrar al",
+      "evidencia_cue": {
+        "inicio": "00:01:35.640",
+        "fin": "00:01:39.230",
+        "texto": "pidieron los elfos de para encontrar al"
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Leo",
+        "Dragón verde del bosque de Iktan"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "Es una recapitulación de actividad e intención; no demuestra que ya haya encontrado al dragón, realizado la caza o completado una investigación."
+    },
+    {
+      "id": "47-103",
+      "titulo": "Tenta sale de Perlasal con Chopito para buscar más súbditos",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "La jugadora sitúa a Tenta y Chopito después de la estancia en Perlasal. Dice que los habitantes conocen a Tenta pero desconfían del pulpo, y que Chopito quiere volver a buscar súbditos leales. El director corrige que van en dirección a Iktan, sin haber llegado todavía.",
+      "inicio": "00:01:57.840",
+      "fin": "00:02:36.990",
+      "cita": "que irían otra vez a buscar más súbditos",
+      "evidencia_cue": {
+        "inicio": "00:02:14.519",
+        "fin": "00:02:18.110",
+        "texto": "que irían otra vez a buscar más súbditos"
+      },
+      "entidades": [
+        "Tentacol",
+        "Chopito",
+        "Perlasal",
+        "Iktan"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "La reacción de los habitantes y el objetivo de reclutamiento son recapitulación. No se cuantifican los seguidores ni se confirma la divinidad que Chopito se atribuye."
+    },
+    {
+      "id": "47-104",
+      "titulo": "Tesa lleva a Leo al colegio y reclama que vuelva su madre",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "En Iktan, Tesa acompaña a Leo de la mano al colegio. Se queja de que lleva tres días con ella y considera que debería hacerse cargo su madre.",
+      "inicio": "00:03:27.879",
+      "fin": "00:03:57.710",
+      "cita": "tres días conmigo",
+      "evidencia_cue": {
+        "inicio": "00:03:49.120",
+        "fin": "00:03:51.710",
+        "texto": "tres días conmigo"
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Leo",
+        "Colegio de Iktan",
+        "Iktan"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Leo"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "Más tarde Tesa habla de tres o cuatro días y de cuatro días: no se convierte esa vacilación en una cronología exacta. La madre no aparece ni se la nombra aquí."
+    },
+    {
+      "id": "47-105",
+      "titulo": "Leo acusa a una mujer de haberle pegado en el colegio",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Leo amenaza con contar a su madre que una mujer le pegó varias veces. Tesa cree primero que se escapó de los deberes y dice haberlo buscado por la taberna; él replica que estaba en el colegio, que una señora se llevó a su amigo y después le pegó. Ante las preguntas admite de forma evasiva haberla insultado y niega haber intentado robarla.",
+      "inicio": "00:03:57.720",
+      "fin": "00:04:56.670",
+      "cita": "mi amigo Écil y después me pegó.",
+      "evidencia_cue": {
+        "inicio": "00:04:26.479",
+        "fin": "00:04:30.230",
+        "texto": "mi amigo Écil y después me pegó."
+      },
+      "entidades": [
+        "Leo",
+        "Tesara Queen",
+        "Colegio de Iktan"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [
+        "Leo",
+        "Tesara Queen"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "El amigo aparece como «Écil» en el VTT. El contexto anterior permite proponer un cotejo con Eztli, pero no asignar aquí inequívocamente ese nombre ni atribuir la agresión a Citlali. Es testimonio de Leo, no una repetición observada del incidente."
+    },
+    {
+      "id": "47-106",
+      "titulo": "Leo entra en el colegio después de provocar a Tesa",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Cuando Leo dice que Tesa parece vieja, ella declara que le da un golpe y él agacha las orejas. El niño insiste en que su madre castigará a las dos mujeres, hace un gesto insultante desde la puerta y sale corriendo hacia dentro cuando Tesa saca el látigo. Tesa queda libre para volver a la taberna.",
+      "inicio": "00:04:56.680",
+      "fin": "00:05:48.710",
+      "cita": "y agacha las orejas.",
+      "evidencia_cue": {
+        "inicio": "00:04:58.160",
+        "fin": "00:04:59.909",
+        "texto": "y agacha las orejas."
+      },
+      "entidades": [
+        "Leo",
+        "Tesara Queen",
+        "Colegio de Iktan"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [
+        "Leo",
+        "Tesara Queen"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "No se fija el tipo o daño del golpe. Sacar el látigo no prueba que llegue a azotarlo. La frase sobre el tío Johnny pertenece al comentario de Tesa y no desarrolla una nueva historia familiar."
+    },
+    {
+      "id": "47-107",
+      "titulo": "Angelique tolera a unos clientes nuevos porque pagan bien",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "La taberna de Iktan tiene un ambiente distinto y empieza a oler mal desde una esquina. Tesa pregunta a Angelique por los desconocidos allí sentados. La tabernera los llama nuevos y de mala calaña, pero añade que beben mucho y pagan bien.",
+      "inicio": "00:06:24.800",
+      "fin": "00:07:30.670",
+      "cita": "Beben un montón y pagan bien.",
+      "evidencia_cue": {
+        "inicio": "00:07:19.000",
+        "fin": "00:07:22.150",
+        "texto": "Beben un montón y pagan bien."
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Angelique",
+        "Iktan"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Angelique"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "No se identifica a esos clientes ni se demuestra que sean los piratas que ocuparon Shiaru. El juicio sobre su carácter es de Angelique."
+    },
+    {
+      "id": "47-108",
+      "titulo": "Una joya a cambio de la pista de unas ruinas junto al lago",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Angelique diferencia unas ruinas junto al lago del antiguo barrio del pueblo que Tesa ya estudia. Para indicarle el camino pide algo bonito, en particular una joya. Tesa promete traerle alguna pieza resultona si la encuentra y le pide que luego le cuente su relación amorosa. Angelique se muestra posesiva respecto a ese hombre y aplaza la conversación.",
+      "inicio": "00:07:43.160",
+      "fin": "00:10:49.269",
+      "cita": "vendría bien una joya bonita.",
+      "evidencia_cue": {
+        "inicio": "00:09:21.120",
+        "fin": "00:09:24.550",
+        "texto": "vendría bien una joya bonita."
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Angelique",
+        "Ruinas de la orilla del lago de Iktan"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Angelique"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "El hombre no recibe nombre en este diálogo: el cortejo anterior no convierte estas palabras en una nueva identificación. La joya es un encargo condicional, sin hallazgo o entrega en este tramo."
+    },
+    {
+      "id": "47-109",
+      "titulo": "Angelique da a Tesa el camino hacia las ruinas",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Angelique indica salir por la puerta norte, seguir el camino y girar a la derecha al ver tres calaveras de personas que, según dice, mataron la semana anterior. Advierte sobre los cocodrilos y sitúa las ruinas junto al lago. Tesa apunta las indicaciones en su libreto y parte.",
+      "inicio": "00:10:49.279",
+      "fin": "00:11:46.269",
+      "cita": "Cuando veas las tres calaveras esas de",
+      "evidencia_cue": {
+        "inicio": "00:10:59.519",
+        "fin": "00:11:01.230",
+        "texto": "Cuando veas las tres calaveras esas de"
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Angelique",
+        "Iktan",
+        "Ruinas de la orilla del lago de Iktan"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Angelique"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "Es una ruta verbal, sin coordenadas. El segundo giro resulta impreciso en el VTT y la recapitulación de Tesa lo formula a la izquierda. Las tres muertes y su fecha son información atribuida a Angelique, sin identidad o autoría."
+    },
+    {
+      "id": "47-110",
+      "titulo": "Tesa encuentra unos muros escasos y empieza a estudiarlos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tesa llega siguiendo las indicaciones en menos de una hora. Las ruinas son tres o cuatro muros caídos junto al lago. Pese a la decepción busca grabados, restos de columnas, estatuas o cualquier detalle que merezca estudio y permanece investigando.",
+      "inicio": "00:12:18.720",
+      "fin": "00:13:27.189",
+      "cita": "son tres o cuatro muros tirados en una",
+      "evidencia_cue": {
+        "inicio": "00:12:39.120",
+        "fin": "00:12:41.030",
+        "texto": "son tres o cuatro muros tirados en una"
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Ruinas de la orilla del lago de Iktan"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [
+        "Tesara Queen"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "La enumeración de grabados y estatuas expresa lo que busca, no hallazgos ya adjudicados. No se identifica la cultura, antigüedad o función de los muros."
+    },
+    {
+      "id": "47-111",
+      "titulo": "Tenta y Chopito salen por otro punto del lago",
+      "tipo": "explicacion_director",
+      "afirmacion": "Tenta y Chopito emergen del agua cerca de las ruinas. El director recuerda que habían viajado a Perlasal por el lago y unos túneles sumergidos y aclara que el regreso los ha sacado por otra parte de la orilla. Tenta reconoce que no conoce el sitio y teme haberse equivocado de ruta; Chopito se acomoda después en el tarro.",
+      "inicio": "00:13:27.199",
+      "fin": "00:15:19.710",
+      "cita": "habéis salido en otra parte del lago. No",
+      "evidencia_cue": {
+        "inicio": "00:14:10.759",
+        "fin": "00:14:12.670",
+        "texto": "habéis salido en otra parte del lago. No"
+      },
+      "entidades": [
+        "Tentacol",
+        "Chopito",
+        "Perlasal",
+        "Ruinas de la orilla del lago de Iktan"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [
+        "Tentacol",
+        "Chopito"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "El lago no recibe nombre en este bloque. La continuidad con el viaje anterior permite cotejarlo después, sin extender la identidad a todos los lagos de la campaña."
+    },
+    {
+      "id": "47-112",
+      "titulo": "Chopito prefiere repartir sus acólitos entre más lugares",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Chopito convierte el desvío en una oportunidad: afirma que en Iktan, donde veneraban a una tortuga, ya consiguió algunos acólitos y que ahora conviene buscar otros sitios. Dice que pronto admirarán a un pulpo y propone investigar la jungla para extender sus seguidores.",
+      "inicio": "00:14:16.759",
+      "fin": "00:15:07.389",
+      "cita": "en un mismo sitio, queremos tener más",
+      "evidencia_cue": {
+        "inicio": "00:14:50.360",
+        "fin": "00:14:52.550",
+        "texto": "en un mismo sitio, queremos tener más"
+      },
+      "entidades": [
+        "Chopito",
+        "Tentacol",
+        "Iktan"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [
+        "Chopito",
+        "Tentacol"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "Son ambiciones y afirmaciones de Chopito. No prueban la sustitución del culto de Iktan, el número de acólitos ni un poder divino real."
+    },
+    {
+      "id": "47-113",
+      "titulo": "Tesa baja la pistola ante Tenta y Chopito",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tesa oye un paso extraño, descubre a Tenta y la apunta con la pistola para preguntarle si es amiga o enemiga. Tenta presenta al pulpo del tarro como su señor y asegura que no será hostil si no se le opone. Tras bromear sobre el proselitismo y preguntar por su objetivo, Tesa baja el arma.",
+      "inicio": "00:15:22.320",
+      "fin": "00:17:52.750",
+      "cita": "Vale, voy a bajar lentamente la pistola.",
+      "evidencia_cue": {
+        "inicio": "00:17:41.480",
+        "fin": "00:17:43.870",
+        "texto": "Vale, voy a bajar lentamente la pistola."
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Tentacol",
+        "Chopito"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Tentacol",
+        "Chopito"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "El parecido con religiones del mundo real forma parte de la conversación humorística; no establece una organización de campaña con esos nombres. Bajar el arma no constituye conversión o juramento."
+    },
+    {
+      "id": "47-114",
+      "titulo": "Tesa entiende la conversación de Chopito en Aquan",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Chopito habla a Tenta en Aquan y considera que Tesa, por no conocer más ciudades, sería un recipiente vacío para sus ideas. La jugadora aclara que Tesa entiende Aquan; el director confirma que ha comprendido las palabras. Chopito se sorprende y ordena a Tenta abrazarla como posible discípula.",
+      "inicio": "00:18:40.799",
+      "fin": "00:19:53.149",
+      "cita": "Entiendo Aquan.",
+      "evidencia_cue": {
+        "inicio": "00:18:56.559",
+        "fin": "00:18:59.870",
+        "texto": "Entiendo Aquan."
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Tentacol",
+        "Chopito"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Tentacol",
+        "Chopito"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "La comprensión del idioma sí se confirma; la condición de discípula solo la propone Chopito. El abrazo posterior no demuestra que Tesa la acepte."
+    },
+    {
+      "id": "47-115",
+      "titulo": "Patata aparece cubierto de barro y hojas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Mientras Tenta abraza a Tesa, ambas oyen agitación entre los matorrales. Chopito manda investigar y Tesa vuelve a sacar la pistola. De entre las hojas sale Patata, con barro y vegetación en la armadura; se disculpa por asustarlas y explica que lleva un tiempo huyendo de Shiaru.",
+      "inicio": "00:20:05.320",
+      "fin": "00:21:59.390",
+      "cita": "al hombre patata",
+      "evidencia_cue": {
+        "inicio": "00:21:24.760",
+        "fin": "00:21:27.149",
+        "texto": "al hombre patata"
+      },
+      "entidades": [
+        "Patata",
+        "Tesara Queen",
+        "Tentacol",
+        "Chopito",
+        "Shiaru"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [
+        "Patata",
+        "Tesara Queen",
+        "Tentacol",
+        "Chopito"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "La descripción sugiere una marcha fatigosa, pero no fija el número de días ni una persecución activa hasta este punto de la jungla."
+    },
+    {
+      "id": "47-116",
+      "titulo": "Patata comunica que otros piratas tomaron Shiaru y destruyeron su casa",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Patata explica a Tesa que Shiaru era un pueblo de piratas gobernado por Bonny, a quien describe como muy peligrosa. Dice que ahora parece muerta, que expulsaron a quienes vivían allí y que hay nuevos piratas. Atribuye su huida a la destrucción de su casa.",
+      "inicio": "00:23:00.520",
+      "fin": "00:23:24.710",
+      "cita": "Ahora parece que está muerta y han",
+      "evidencia_cue": {
+        "inicio": "00:23:13.679",
+        "fin": "00:23:16.510",
+        "texto": "Ahora parece que está muerta y han"
+      },
+      "entidades": [
+        "Patata",
+        "Tesara Queen",
+        "Tentacol",
+        "Chopito",
+        "Shiaru",
+        "\"Happy\" Bonny",
+        "Granja de Patata"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [
+        "Patata",
+        "Tesara Queen",
+        "Tentacol",
+        "Chopito"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "El cuerpo visto por Patata está respaldado por el director al inicio. La expulsión general, los ocupantes y la casa son aquí su relato: no se nombra a sus responsables ni se describe el estado de cada habitante o edificio."
+    },
+    {
+      "id": "47-117",
+      "titulo": "Patata conserva su propia fe y Tesa traduce a Chopito",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Patata se presenta como clérigo que quiere repartir la palabra de su señor. Chopito le ofrece cobijo a cambio de obediencia; Patata responde que ya tiene su propia diosa. Cuando se aclara que no entiende las burbujas de Aquan, Tesa le traduce que el pulpo quiere ser su amigo, propuesta que acepta.",
+      "inicio": "00:22:12.240",
+      "fin": "00:24:06.950",
+      "cita": "diosa.",
+      "evidencia_cue": {
+        "inicio": "00:23:41.080",
+        "fin": "00:23:42.669",
+        "texto": "diosa."
+      },
+      "entidades": [
+        "Patata",
+        "Tesara Queen",
+        "Tentacol",
+        "Chopito"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [
+        "Patata",
+        "Tesara Queen",
+        "Tentacol",
+        "Chopito"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "El pasaje no da nombre a la diosa ni convierte la amistad en sumisión religiosa. La traducción amistosa de Tesa suaviza la condición de obediencia formulada por Chopito."
+    },
+    {
+      "id": "47-118",
+      "titulo": "Patata lava su armadura en el lago",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Patata pregunta dónde puede limpiar la armadura y descansar. Tesa le sitúa Iktan a una hora y Tenta le ofrece el agua del lago del que acaba de salir. El director describe un lago enorme de agua transparente; Patata se acerca y empieza a refrescarse y limpiarse.",
+      "inicio": "00:24:06.960",
+      "fin": "00:25:23.669",
+      "cita": "Sí, sí. Es un lago enorme y es un agua",
+      "evidencia_cue": {
+        "inicio": "00:24:33.480",
+        "fin": "00:24:35.350",
+        "texto": "Sí, sí. Es un lago enorme y es un agua"
+      },
+      "entidades": [
+        "Patata",
+        "Tesara Queen",
+        "Tentacol",
+        "Ruinas de la orilla del lago de Iktan"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [
+        "Patata",
+        "Tesara Queen",
+        "Tentacol"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "La transparencia observada no constituye un análisis de potabilidad o ausencia de veneno. El lavado no identifica la armadura como el equipo confiscado en capítulos antiguos."
+    },
+    {
+      "id": "47-119",
+      "titulo": "Un felino camuflado se presenta como Mictlan",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tesa descubre entre los árboles una figura bien camuflada con ojos amarillos y le pide que se muestre. El felino sale disimulando como si solo pasara por allí, pregunta por qué están en territorio ajeno y declara que su gente vigila el lugar, aunque la madre tierra pertenece a todos. Se presenta con el nombre transcrito «Mlan».",
+      "inicio": "00:25:25.360",
+      "fin": "00:29:00.430",
+      "cita": "Mlan.",
+      "evidencia_cue": {
+        "inicio": "00:28:54.000",
+        "fin": "00:28:55.630",
+        "texto": "Mlan."
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Mictlan",
+        "Ruinas de la orilla del lago de Iktan"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Mictlan",
+        "Tentacol",
+        "Chopito"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "El VTT presenta «Mlan» sin audio cotejado. El coordinador confirma la grafía Mictlan por lectura íntegra de la escena escrita posterior x-1531013198478708756 (36 mensajes). Solo se importa esa identificación; no sus acciones posteriores. No se fija especie reglada, tribu o rango. La vigilancia del lugar es declaración suya."
+    },
+    {
+      "id": "47-120",
+      "titulo": "Mictlan permite que Tesa estudie si no comete sacrilegio",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Tesa pide permiso para terminar de revisar los muros y tomar sus apuntes antes de marcharse. Mictlan acepta mientras no cometa ningún sacrilegio. Ella responde que respeta la historia.",
+      "inicio": "00:28:18.399",
+      "fin": "00:29:00.430",
+      "cita": "sacrilegio, va a estar todo bien. Hm.",
+      "evidencia_cue": {
+        "inicio": "00:28:40.200",
+        "fin": "00:28:45.430",
+        "texto": "sacrilegio, va a estar todo bien. Hm."
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Mictlan",
+        "Ruinas de la orilla del lago de Iktan"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Mictlan",
+        "Tentacol",
+        "Chopito"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "El acuerdo expresa sus condiciones de convivencia, sin demostrar autoridad legal exclusiva sobre las ruinas, propiedad o una consagración histórica concreta."
+    },
+    {
+      "id": "47-121",
+      "titulo": "El suelo de las ruinas empieza a moverse",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Durante la conversación se oyen ruidos y las plantas y raíces de alrededor de las ruinas se mueven paulatinamente: unas penetran más en el suelo y otras salen. Patata saca escudo y martillo con forma de patata, Tesa prepara la pistola y Tenta se aparta para proteger a Chopito.",
+      "inicio": "00:30:15.720",
+      "fin": "00:33:10.549",
+      "cita": "cobrar vida el suelo.",
+      "evidencia_cue": {
+        "inicio": "00:31:44.440",
+        "fin": "00:31:49.710",
+        "texto": "cobrar vida el suelo."
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Patata",
+        "Patata Hammer",
+        "Tentacol",
+        "Chopito",
+        "Mictlan",
+        "Ruinas de la orilla del lago de Iktan"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Patata",
+        "Tentacol",
+        "Chopito",
+        "Mictlan"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "Nadie obtiene una explicación arcana del fenómeno. Las bromas sobre que llegará un hombre topo no incorporan tal criatura a la escena."
+    },
+    {
+      "id": "47-122",
+      "titulo": "Las raíces levantan cadáveres y mueven sus cuerpos",
+      "tipo": "explicacion_director",
+      "afirmacion": "Las raíces abren el suelo y sacan manos y cadáveres enterrados. Al levantarse se distingue que las plantas han penetrado en cuerpos y restos humanos y los están moviendo. El director describe un grupo de zombis conducido por esas raíces.",
+      "inicio": "00:33:15.919",
+      "fin": "00:34:41.109",
+      "cita": "las mismas raíces. Son las raíces que",
+      "evidencia_cue": {
+        "inicio": "00:34:33.879",
+        "fin": "00:34:36.069",
+        "texto": "las mismas raíces. Son las raíces que"
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Patata",
+        "Tentacol",
+        "Chopito",
+        "Mictlan",
+        "Cadáveres movidos por raíces de las ruinas del lago",
+        "Ruinas de la orilla del lago de Iktan"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Patata",
+        "Tentacol",
+        "Chopito",
+        "Mictlan"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "No se identifican los muertos, su número total o el agente último que anima las plantas. El aspecto zombi no demuestra una resurrección personal ni que estos cuerpos sean los mismos del capítulo 40."
+    },
+    {
+      "id": "47-123",
+      "titulo": "Chopito entinta el tarro ante los cadáveres",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Durante la aparición de los muertos se declara que el frasco de Chopito se vuelve negro y que sale algo de tinta, en una reacción interpretada con humor en la mesa.",
+      "inicio": "00:34:41.119",
+      "fin": "00:35:03.790",
+      "cita": "Sale, sale, sale un poco de tinta",
+      "evidencia_cue": {
+        "inicio": "00:34:52.079",
+        "fin": "00:34:54.430",
+        "texto": "Sale, sale, sale un poco de tinta"
+      },
+      "entidades": [
+        "Chopito",
+        "Tentacol"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "Reacción de interpretación humorística, sin un efecto ofensivo, veneno o nueva capacidad adjudicados. No se deriva de ella una naturaleza sobrenatural adicional."
+    },
+    {
+      "id": "47-124",
+      "titulo": "Tesa advierte de un posible vínculo entre las plantas y el dragón verde",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Tesa dice reconocer a medias estas criaturas por otra ocasión y avisa al grupo de que están controladas por una planta extraña. Añade que esa planta puede obedecer a un dragón verde y que este puede meterse en sus cabezas.",
+      "inicio": "00:35:17.960",
+      "fin": "00:35:40.510",
+      "cita": "esa planta extraña puede que obedezca un",
+      "evidencia_cue": {
+        "inicio": "00:35:31.079",
+        "fin": "00:35:32.870",
+        "texto": "esa planta extraña puede que obedezca un"
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Patata",
+        "Tentacol",
+        "Chopito",
+        "Mictlan",
+        "Dragón verde del bosque de Iktan",
+        "Cadáveres movidos por raíces de las ruinas del lago"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Patata",
+        "Tentacol",
+        "Chopito",
+        "Mictlan"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "La relación con el dragón se formula como posibilidad y recuerdo de Tesa. No aparece aquí el dragón ni se adjudica una intrusión mental actual. No se establece el nombre Clolgedranx por esta advertencia."
+    },
+    {
+      "id": "47-125",
+      "titulo": "Mictlan golpea con dos descargas y conserva la distancia",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El primer turno anterior al de Tesa corresponde al felino recién presentado. Decide tantear al enemigo sin lanzarse de cerca y se adjudican impactos de sus dos descargas mágicas contra un zombi. Después mantiene una posición prudente.",
+      "inicio": "00:35:57.800",
+      "fin": "00:37:38.069",
+      "cita": "Perfecto. Y ves que le golpeas.",
+      "evidencia_cue": {
+        "inicio": "00:37:22.160",
+        "fin": "00:37:29.230",
+        "texto": "Perfecto. Y ves que le golpeas."
+      },
+      "entidades": [
+        "Mictlan",
+        "Cadáveres movidos por raíces de las ruinas del lago"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Patata",
+        "Tentacol",
+        "Chopito",
+        "Mictlan"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "La atribución se apoya en la continuidad de turnos y en el comentario de la mesa sobre el felino brujo. Las comparaciones jocosas con personajes de otras partidas no establecen parentescos ni identidades en Xoltacan. No se da por muerto al objetivo."
+    },
+    {
+      "id": "47-126",
+      "titulo": "El disparo de Escupefuego provoca una salpicadura que hiere al grupo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tesa prueba su pistola Escupefuego contra las plantas que recubren a los zombis. Impacta en uno más verde, del que salta una salpicadura. El director adjudica seis puntos de daño a los presentes y especifica que Chopito también los recibe. Se confirma el gasto de una carga de Escupefuego.",
+      "inicio": "00:37:42.920",
+      "fin": "00:39:08.630",
+      "cita": "os va a hacer seis puntos de daño",
+      "evidencia_cue": {
+        "inicio": "00:38:25.119",
+        "fin": "00:38:26.870",
+        "texto": "os va a hacer seis puntos de daño"
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Escupefuego",
+        "Patata",
+        "Tentacol",
+        "Chopito",
+        "Mictlan",
+        "Cadáveres movidos por raíces de las ruinas del lago"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Patata",
+        "Tentacol",
+        "Chopito",
+        "Mictlan"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "El director relaciona la adjudicación con una carta del chat: la carta pertenece al procedimiento de mesa, no a una persona o fuerza diegética. Las bromas sobre matar a Chopito no declaran que muera. No se identifica la composición de la salpicadura."
+    },
+    {
+      "id": "47-127",
+      "titulo": "El fuego no hace daño extra y Tesa busca ocultarse",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tesa pregunta si el fuego de la pistola ha hecho daño adicional. El director responde que ha sido normal; ella descarta esa teoría y se mete entre los matorrales para evitar el peligro e intentar ocultarse. La tirada de sigilo recibe la aceptación del director.",
+      "inicio": "00:39:12.520",
+      "fin": "00:39:57.470",
+      "cita": "¿eh? No, no, no. Es un daño normal.",
+      "evidencia_cue": {
+        "inicio": "00:39:19.480",
+        "fin": "00:39:23.190",
+        "texto": "¿eh? No, no, no. Es un daño normal."
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Escupefuego",
+        "Cadáveres movidos por raíces de las ruinas del lago"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Patata",
+        "Tentacol",
+        "Chopito",
+        "Mictlan"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "No se establece una resistencia universal de todas las plantas o zombis al fuego. La escena solo resuelve este disparo y este intento de ocultación."
+    },
+    {
+      "id": "47-128",
+      "titulo": "Tenta invoca un tentáculo de frío y retrocede",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tenta recurre al gran maestro Chopito y usa el Tentáculo de las profundidades. Tras resolver un problema de la herramienta de juego, coloca el tentáculo, ataca con él como acción adicional, declara daño de frío y retrocede.",
+      "inicio": "00:39:57.480",
+      "fin": "00:41:35.630",
+      "cita": "Daño frío. Y",
+      "evidencia_cue": {
+        "inicio": "00:41:25.880",
+        "fin": "00:41:28.270",
+        "texto": "Daño frío. Y"
+      },
+      "entidades": [
+        "Tentacol",
+        "Chopito",
+        "Cadáveres movidos por raíces de las ruinas del lago"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Patata",
+        "Tentacol",
+        "Chopito",
+        "Mictlan"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "El fallo del botón es un problema de interfaz y no una pérdida de poderes del personaje. La comparación con un arma espiritual es comentario de la mesa, sin cambiar el nombre de la capacidad. El VTT no precisa aquí una cifra de daño."
+    },
+    {
+      "id": "47-129",
+      "titulo": "Las descargas de Tenta empujan y ralentizan",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Después del tentáculo, Tenta lanza dos descargas. Se adjudican ambos impactos y desplazamientos de diez pies. Declara también una reducción de diez pies de movimiento y recuerda la ralentización del tentáculo. El director aclara que Chopito se desplaza con Tenta y no tiene un turno separado.",
+      "inicio": "00:41:35.640",
+      "fin": "00:42:43.829",
+      "cita": "Y le quito 10 pies de movimiento.",
+      "evidencia_cue": {
+        "inicio": "00:42:08.760",
+        "fin": "00:42:10.870",
+        "texto": "Y le quito 10 pies de movimiento."
+      },
+      "entidades": [
+        "Tentacol",
+        "Chopito",
+        "Cadáveres movidos por raíces de las ruinas del lago"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [
+        "Tesara Queen",
+        "Patata",
+        "Tentacol",
+        "Chopito",
+        "Mictlan"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "No se calcula una suma definitiva de todas las reducciones de velocidad ni se atribuye cada efecto a todos los enemigos. El tablero no se reconstruye a partir de deícticos como «aquí»."
+    },
+    {
+      "id": "47-130",
+      "titulo": "El aura de un zombi envenena a Patata e impide que se cure",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Un zombi avanza hacia Patata y emplea su acción para acercarse con su aura apestosa. Antes de que Patata se mueva debe superar una salvación de Constitución; obtiene diez y falla. El director lo declara envenenado e incapaz de recuperar puntos de vida hasta el final de su siguiente turno.",
+      "inicio": "00:42:43.839",
+      "fin": "00:44:12.190",
+      "cita": "10. Eh, fallas. Estás envenenado.",
+      "evidencia_cue": {
+        "inicio": "00:43:46.400",
+        "fin": "00:43:51.630",
+        "texto": "10. Eh, fallas. Estás envenenado."
+      },
+      "entidades": [
+        "Patata",
+        "Cadáveres movidos por raíces de las ruinas del lago"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [
+        "Patata",
+        "Tesara Queen",
+        "Tentacol",
+        "Chopito",
+        "Mictlan"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "La duración citada corresponde a la imposibilidad de recuperar vida; no se extrapola a una secuela permanente. El bloque no llega a resolver la recuperación posterior de Patata."
+    },
+    {
+      "id": "47-131",
+      "titulo": "Patata atemoriza a casi todos los no muertos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Patata elige una capacidad cuyo nombre queda transcrito de forma defectuosa como «trundez», coherente con la expulsión de no muertos que se resuelve a continuación. El director dice que todos menos uno empiezan a asustarse. Se revisa el alcance del efecto sobre enemigos fuera de la vista y se acepta que puedan oírlo.",
+      "inicio": "00:44:15.200",
+      "fin": "00:45:07.069",
+      "cita": "Vale, pues todos menos uno empiezan a a",
+      "evidencia_cue": {
+        "inicio": "00:44:29.599",
+        "fin": "00:44:32.990",
+        "texto": "Vale, pues todos menos uno empiezan a a"
+      },
+      "entidades": [
+        "Patata",
+        "Cadáveres movidos por raíces de las ruinas del lago"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [
+        "Patata",
+        "Tesara Queen",
+        "Tentacol",
+        "Chopito",
+        "Mictlan"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "No se reconstruyen todas las tiradas individuales ni la posición de cada esqueleto: la frase siguiente del VTT sobre quién ha fallado es imprecisa. No se afirma todavía la huida efectiva o destrucción de los afectados."
+    },
+    {
+      "id": "47-132",
+      "titulo": "Patata impacta con un ataque de nivel tres al final del tramo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Al cerrar este bloque, Patata anuncia un lanzamiento de nivel tres y un ataque. El director confirma que impacta; el combate continúa fuera del corte de lectura.",
+      "inicio": "00:45:07.079",
+      "fin": "00:45:28.990",
+      "cita": "Vale, pues ves que impacta.",
+      "evidencia_cue": {
+        "inicio": "00:45:21.480",
+        "fin": "00:45:28.990",
+        "texto": "Vale, pues ves que impacta."
+      },
+      "entidades": [
+        "Patata",
+        "Cadáveres movidos por raíces de las ruinas del lago"
+      ],
+      "ambito": "regreso de Patata y encuentro en las ruinas del lago de Iktan",
+      "conocedores": [
+        "Patata",
+        "Tesara Queen",
+        "Tentacol",
+        "Chopito",
+        "Mictlan"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura íntegra de subtítulos; audio no cotejado",
+      "limitacion": "El nombre del conjuro y su daño no resultan legibles en estos tres segmentos. Tampoco se adjudica aquí la muerte del objetivo ni el desenlace de la batalla."
+    }
+  ],
+  "historias_entidades": [
+    {
+      "nombre": "Patata",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "Agricultor y clérigo que pierde su casa y huerto de Shiaru.",
+      "nota": "Patatamán y las variantes del VTT se normalizan a la identidad ya catalogada; no se asigna nombre a su diosa.",
+      "etapas": [
+        {
+          "titulo": "Del huerto destruido a los cadáveres del lago",
+          "texto": "Vuelve a Shiaru y encuentra su huerto arrasado y el cuerpo de Bonny colgado de la entrada. Huye hacia la jungla y llega embarrado a las ruinas del lago, donde cuenta a Tesa la expulsión por nuevos piratas y la destrucción de su casa. Acepta la amistad con Chopito pero conserva su propia fe. Después de lavar la armadura, prepara sus armas contra los cadáveres movidos por raíces. El aura de uno lo envenena y le impide recuperar vida durante el intervalo adjudicado. Su expulsión atemoriza a casi todos los enemigos y su siguiente ataque impacta antes del corte.",
+          "referencias": [
+            "47-101",
+            "47-115",
+            "47-116",
+            "47-117",
+            "47-118",
+            "47-121",
+            "47-130",
+            "47-131",
+            "47-132"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Tesara Queen",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "Historiadora de Puerto de Espadas, llamada Tesa, que cuida temporalmente a Leo.",
+      "nota": "Se usa la identidad configurada Tesara Queen, sin crear otra persona por Tesa o los errores César/Tesam del VTT.",
+      "etapas": [
+        {
+          "titulo": "Una mañana de estudios que acaba en combate",
+          "texto": "Tesa alterna la investigación del dragón con el cuidado de Leo, del que se queja al llevarlo al colegio. Acuerda con Angelique buscar una joya y va a estudiar unas ruinas junto al lago. Su cautela la hace apuntar a los recién llegados, pero baja el arma al hablar con Tenta y Chopito. Revela que entiende Aquan y comprende los planes de conversión del pulpo sin aceptarlos. Se compadece de Patata, pide permiso al vigilante Mictlan y vuelve a sus apuntes. Cuando se alzan los muertos advierte de un posible vínculo de las plantas con el dragón verde. Su prueba de fuego no hace daño extra, provoca la salpicadura adjudicada y termina buscando sigilo.",
+          "referencias": [
+            "47-102",
+            "47-104",
+            "47-105",
+            "47-106",
+            "47-108",
+            "47-110",
+            "47-113",
+            "47-114",
+            "47-116",
+            "47-120",
+            "47-124",
+            "47-126",
+            "47-127"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Leo",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "Niño harengon a cargo de Tesa mientras espera a su madre.",
+      "nota": "La madre invocada no se nombra en este tramo; mantener su continuidad familiar según las fuentes previas. El amigo «Écil» requiere cotejo con Eztli.",
+      "etapas": [
+        {
+          "titulo": "Una queja que no consigue la defensa de Tesa",
+          "texto": "Leo acusa a una mujer de haberle pegado en el colegio después de llevarse a su amigo. También reprocha a Tesa que no lo protegiera y amenaza con contárselo a su madre. Tesa duda de su conducta y él responde con una burla sobre su edad. Tras recibir un golpe, agacha las orejas pero todavía se despide con un gesto insultante. Corre al interior del colegio cuando ella saca el látigo.",
+          "referencias": [
+            "47-104",
+            "47-105",
+            "47-106"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Angelique",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "Encargada de la taberna de Iktan que proporciona a Tesa el camino de unas ruinas.",
+      "nota": "Conservar la continuidad editorial ya establecida de Angelique; este diálogo no identifica por nombre a su hombre.",
+      "etapas": [
+        {
+          "titulo": "Una indicación a cambio de algo bonito",
+          "texto": "Acepta a unos clientes nuevos por lo mucho que consumen y pagan, pese al juicio negativo sobre ellos. Sugiere a Tesa salir a otras ruinas junto al lago y pide una joya bonita a cambio de indicarle el camino. Su actitud posesiva despierta la curiosidad de la historiadora; acuerdan hablar luego. Le da una ruta desde la puerta norte, con las calaveras y los cocodrilos como referencias, y vuelve a sus asuntos.",
+          "referencias": [
+            "47-107",
+            "47-108",
+            "47-109"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Tentacol",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "Viajera acuática llamada Tenta en el diálogo, compañera y devota de Chopito.",
+      "nota": "Se mantiene Tentacol como identidad catalogada; el diálogo usa femenino, sin fijar especie reglada.",
+      "etapas": [
+        {
+          "titulo": "Un camino desviado que trae nuevos compañeros",
+          "texto": "Sale de Perlasal con Chopito buscando más lugares para sus seguidores y emerge por una orilla distinta de la esperada. Ante Tesa defiende la autoridad de su señor y obedece la orden de abrazarla como posible discípula. Participa en el encuentro con Patata y protege el tarro cuando el suelo se mueve. En combate coloca el Tentáculo de las profundidades, declara daño de frío y añade dos descargas que empujan a los adversarios y reducen su movilidad.",
+          "referencias": [
+            "47-103",
+            "47-111",
+            "47-112",
+            "47-113",
+            "47-114",
+            "47-115",
+            "47-121",
+            "47-128",
+            "47-129"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Chopito",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "Pulpo transportado por Tenta en un tarro, con ambiciones de ampliar su culto.",
+      "nota": "Ni sus títulos de señor y maestro ni los supuestos acólitos prueban divinidad o mando sobre una facción identificada.",
+      "etapas": [
+        {
+          "titulo": "Dos intentos de reclutamiento y seis puntos de daño",
+          "texto": "Prefiere buscar seguidores en más lugares antes que concentrarlos en Iktan. Intenta aprovechar la supuesta ignorancia de Tesa, pero descubre que entiende sus comentarios en Aquan. Ordena a Tenta abrazarla y más tarde ofrece cobijo a Patata bajo obediencia, sin conseguir una conversión. Ante el despertar de los muertos su tarro se oscurece de tinta en una reacción humorística. También recibe los seis puntos de daño de la salpicadura. Su acompañamiento no le concede un turno independiente del de Tenta.",
+          "referencias": [
+            "47-112",
+            "47-114",
+            "47-117",
+            "47-123",
+            "47-126",
+            "47-129"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Mictlan",
+      "tipo": "personaje",
+      "nueva": true,
+      "descripcion": "Felino de ojos amarillos que vigila las ruinas y combate con descargas mágicas.",
+      "nota": "Mictlan es la grafía confirmada por el coordinador al leer completa la escena posterior x-1531013198478708756. El VTT de este bloque conserva «Mlan» en c001297 y c001303. Se usa esa escena solo para la identidad, sin trasladar sus acciones al capítulo 47; no se asigna una tribu ni se fusionan otros felinos.",
+      "etapas": [
+        {
+          "titulo": "El vigilante se queda a combatir",
+          "texto": "Observa camuflado al grupo antes de que Tesa lo descubra. Sale fingiendo que solo pasaba y pregunta por su presencia en territorio ajeno. Dice que su gente vigila el lugar y permite la investigación mientras no haya sacrilegio. Cuando las raíces sacan cadáveres decide tantearlos desde la distancia y acierta dos descargas, sin que este tramo muestre la destrucción del objetivo.",
+          "referencias": [
+            "47-119",
+            "47-120",
+            "47-125"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "\"Happy\" Bonny",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "Dirigente pirata cuyo cuerpo encuentra Patata colgado en la entrada de Shiaru.",
+      "nota": "Se aplica la grafía corregida por el usuario; la cita conserva Bonnie. El bloque no representa cómo murió ni quién colgó el cuerpo.",
+      "etapas": [
+        {
+          "titulo": "El cuerpo expuesto en Shiaru",
+          "texto": "La concreción inicial del director añade el hallazgo de Patata al destino de Bonny: al regresar encuentra su cuerpo colgado de la entrada del poblado. Patata transmite luego a Tesa que la antigua gobernante parece muerta y que otros piratas ocupan Shiaru. La información amplía las consecuencias de su caída, sin identificar ejecutores o resolver deudas pendientes.",
+          "referencias": [
+            "47-101",
+            "47-116"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Shiaru",
+      "tipo": "lugar",
+      "nueva": false,
+      "descripcion": "Poblado costero que Patata encuentra bajo el dominio de nuevos piratas.",
+      "nota": "La situación general procede del relato de Patata; no se adjudica el destino de cada antiguo habitante.",
+      "etapas": [
+        {
+          "titulo": "Un regreso sin hogar",
+          "texto": "La vuelta de Patata muestra el huerto destrozado y a Bonny colgada en la entrada. Él cuenta después que nuevos piratas expulsaron a quienes vivían allí y que destruyeron su casa, motivo de su marcha a la jungla. El pasaje no establece quién gobierna ahora, cómo se repartió el poder ni qué edificios continúan en pie.",
+          "referencias": [
+            "47-101",
+            "47-116"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Granja de Patata",
+      "tipo": "lugar",
+      "nueva": false,
+      "descripcion": "Casa y cultivo de Patata en el entorno de Shiaru.",
+      "nota": "Mantener la identidad ya catalogada del asentamiento de Patata. El estado del huerto está confirmado por el director y el de la casa relatado por su dueño.",
+      "etapas": [
+        {
+          "titulo": "El cultivo perdido",
+          "texto": "Patata encuentra el huerto totalmente destrozado durante su regreso a Shiaru. Más tarde cuenta que huyó después de que los nuevos ocupantes destruyeran su casa. Su búsqueda inmediata de agua y descanso expresa la pérdida de su refugio, sin que se acuerde todavía reconstruirlo o recuperarlo.",
+          "referencias": [
+            "47-101",
+            "47-116",
+            "47-118"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Colegio de Iktan",
+      "tipo": "lugar",
+      "nueva": false,
+      "descripcion": "Colegio al que Tesa lleva a Leo durante el cuidado temporal del niño.",
+      "nota": "No se equipara automáticamente con la academia de guerreros ni se identifica aquí al personal docente.",
+      "etapas": [
+        {
+          "titulo": "Un nuevo día para Leo",
+          "texto": "Tesa deja a Leo en su puerta mientras él se queja de una agresión anterior ocurrida, según su versión, allí mismo. Tras una disputa y un gesto insultante, el niño entra corriendo cuando ella saca el látigo. La llegada permite a Tesa dedicar tiempo a sus propios estudios.",
+          "referencias": [
+            "47-104",
+            "47-105",
+            "47-106"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Ruinas de la orilla del lago de Iktan",
+      "tipo": "lugar",
+      "nueva": true,
+      "descripcion": "Tres o cuatro muros caídos junto al lago al que llega Tesa desde la puerta norte de Iktan.",
+      "nota": "Nombre editorial descriptivo. No fusionar con el barrio antiguo, las ruinas del nido del capítulo 7, el templo de los nawals o el claro del capítulo 40 sin cotejo adicional.",
+      "etapas": [
+        {
+          "titulo": "Un lugar de estudio que oculta cadáveres",
+          "texto": "Angelique indica a Tesa cómo llegar a unas ruinas diferentes del barrio que ya ha estudiado. El trayecto tarda menos de una hora y concluye ante pocos muros. Allí coinciden la historiadora, Tenta y Chopito, Patata y el vigilante Mictlan. La investigación queda interrumpida cuando las raíces se mueven, abren el suelo y extraen cadáveres que pasan a manejar. Su origen y su relación exacta con el dragón quedan abiertos en este bloque.",
+          "referencias": [
+            "47-108",
+            "47-109",
+            "47-110",
+            "47-111",
+            "47-115",
+            "47-119",
+            "47-120",
+            "47-121",
+            "47-122",
+            "47-124"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Cadáveres movidos por raíces de las ruinas del lago",
+      "tipo": "personaje",
+      "nueva": true,
+      "descripcion": "Grupo de cuerpos y restos levantados y movidos por plantas en las ruinas.",
+      "nota": "Ficha colectiva descriptiva de los adversarios presentes, sin convertir el fenómeno en una facción ni identificar estos cuerpos con otros no muertos anteriores.",
+      "etapas": [
+        {
+          "titulo": "Raíces, salpicaduras y un aura de veneno",
+          "texto": "Las raíces extraen los restos enterrados y los mueven desde dentro. Uno de los zombis más verdes salpica cuando Tesa le dispara y el daño alcanza al grupo y a Chopito; el fuego de ese disparo no produce daño extra. Otro se acerca a Patata con un aura apestosa, lo envenena y bloquea temporalmente su curación. La respuesta de expulsión hace temer a casi todos y el combate continúa al corte.",
+          "referencias": [
+            "47-122",
+            "47-126",
+            "47-127",
+            "47-130",
+            "47-131",
+            "47-132"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Dragón verde del bosque de Iktan",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "Dragón que Tesa relaciona de forma posible con las plantas que manejan a los muertos.",
+      "nota": "Conservar separado de Clolgedranx hasta evidencia explícita. La advertencia no certifica su presencia o control actual.",
+      "etapas": [
+        {
+          "titulo": "La explicación que teme Tesa",
+          "texto": "El encargo de los elfos sigue ocupando los ratos libres de Tesa. Al reconocer parcialmente el comportamiento de los cadáveres, advierte que las plantas podrían obedecer a un dragón verde capaz de entrar en sus cabezas. El grupo no lo ve ni recibe una intrusión mental adjudicada durante este tramo.",
+          "referencias": [
+            "47-102",
+            "47-124"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Escupefuego",
+      "tipo": "objeto",
+      "nueva": true,
+      "descripcion": "Pistola de Tesa con una carga de fuego utilizada contra un zombi cubierto de plantas.",
+      "nota": "Nombre tomado de la declaración repetida en la escena. No se fija daño total, capacidad de cargas ni poderes fuera del uso observado.",
+      "etapas": [
+        {
+          "titulo": "Una prueba de fuego sin ventaja",
+          "texto": "Tesa la elige por la vegetación de los enemigos. El disparo impacta, consume una carga y hace daño normal, sin confirmar la vulnerabilidad al fuego que ella esperaba. Del zombi alcanzado salta la salpicadura que el director adjudica a todos, incluida la mención expresa de Chopito.",
+          "referencias": [
+            "47-126",
+            "47-127"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Patata Hammer",
+      "tipo": "objeto",
+      "nueva": false,
+      "descripcion": "Martillo de Patata con forma de patata.",
+      "nota": "Identificación contextual con el arma ya catalogada; su nombre propio no se vuelve a pronunciar aquí.",
+      "etapas": [
+        {
+          "titulo": "Preparado ante el movimiento del suelo",
+          "texto": "Patata lo saca junto con el escudo cuando las raíces empiezan a moverse alrededor de las ruinas. Esta preparación confirma su uso como equipo actual, sin resolver el inventario de los objetos que perdió en antiguos cautiverios.",
+          "referencias": [
+            "47-121"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Piratas ocupantes de Shiaru",
+      "tipo": "faccion",
+      "nueva": true,
+      "descripcion": "Nuevos piratas a los que Patata atribuye la ocupación del poblado y la expulsión de habitantes.",
+      "nota": "Denominación colectiva descriptiva basada solo en su testimonio. No se identifica capitán, bandera, alianza ni relación con los clientes nuevos de Iktan.",
+      "etapas": [
+        {
+          "titulo": "Los ocupantes vistos a través de la huida de Patata",
+          "texto": "Patata cuenta que, después de la caída de Bonny, hay otros piratas en Shiaru y que echaron a quienes estaban allí. Incluye la destrucción de su casa entre las razones por las que salió corriendo. El pasaje no permite repartir esas acciones entre individuos concretos o atribuirlas a todos los presentes en el ataque anterior.",
+          "referencias": [
+            "47-116"
+          ]
+        }
+      ]
+    }
+  ],
+  "misiones": [
+    "Investigar el dragón por encargo de los elfos: Tesa lo mantiene como objetivo y recuerda un posible vínculo de las plantas con un dragón verde; estudiar los muros no produce todavía un hallazgo arqueológico o una localización nueva del dragón en este bloque (47-102, 47-110, 47-124).",
+    "Cuidar a Leo mientras regresa su madre: Tesa lo lleva al colegio y lo deja dentro, pero la madre sigue ausente en esta escena y no se resuelve el cuidado posterior (47-104–47-106).",
+    "Conseguir una joya para Angelique: Tesa acepta de forma condicional traer algo bonito si lo encuentra a cambio de la ruta a las ruinas; el bloque termina sin hallazgo o entrega adjudicados (47-108–47-110).",
+    "Ampliar los seguidores de Chopito: Tenta y el pulpo exploran nuevos lugares; los acercamientos a Tesa y Patata no prueban conversiones, y Patata mantiene su diosa (47-103, 47-112–47-114, 47-117).",
+    "Encontrar descanso después de huir de Shiaru: Patata consigue agua para lavarse y recibe indicaciones hacia Iktan, pero el combate le impide completar aquí la llegada o acordar refugio (47-115–47-118, 47-130).",
+    "Superar a los cadáveres de las raíces: se inicia el combate y Patata logra atemorizar a casi todos, pero la amenaza continúa al corte de las 00:45:28.990 (47-121–47-132)."
+  ],
+  "preguntas": [
+    "¿Quién manda a las raíces que sacan y mueven los cadáveres? ¿Obedecen ahora al dragón verde que menciona Tesa? El director confirma que las plantas mueven los cuerpos. El vínculo con el dragón es la posibilidad expresada por Tesa, sin presencia o control actual demostrados en este bloque. (47-122, 47-124).",
+    "¿Quién es Mictlan y qué gente vigila con él las ruinas del lago? Se presenta con el nombre transcrito «Mlan» y el coordinador confirma Mictlan mediante rol escrito posterior. Afirma que su gente vigila el lugar, permite a Tesa estudiar sin sacrilegio y combate con dos descargas. (47-119, 47-120, 47-125).",
+    "¿Quién colgó el cuerpo de Bonny en la entrada de Shiaru y quiénes son sus nuevos ocupantes? El director confirma que Patata vio el cuerpo colgado; Patata habla de nuevos piratas y de expulsión de habitantes. No identifica al responsable de cada acción. (47-101, 47-116).",
+    "¿Encontrará Tesa la joya prometida a Angelique y qué le contará la tabernera sobre su relación? Pactan que Tesa llevará alguna pieza bonita si la encuentra y aplazan la charla amorosa. (47-108, 47-109).",
+    "¿Qué estudiará Tesa en estas ruinas y a qué cultura o función pertenecen los muros? Llega a tres o cuatro muros caídos y busca inscripciones o restos significativos. El encuentro y el combate interrumpen la escena antes de un hallazgo identificado. (47-110, 47-119, 47-122).",
+    "¿Conseguirán vencer a los muertos de las raíces y recuperará Patata su capacidad de curarse? Patata queda envenenado y con bloqueo temporal de recuperación de vida, atemoriza a casi todos los no muertos e impacta después con un ataque de nivel tres. La batalla continúa fuera del bloque. (47-130, 47-131, 47-132)."
+  ],
+  "seguimiento_nuevo": [
+    {
+      "id": "P47-101",
+      "pregunta": "¿Quién manda a las raíces que sacan y mueven los cadáveres? ¿Obedecen ahora al dragón verde que menciona Tesa?",
+      "estado": "pendiente",
+      "respuesta": "El director confirma que las plantas mueven los cuerpos. El vínculo con el dragón es la posibilidad expresada por Tesa, sin presencia o control actual demostrados en este bloque.",
+      "referencias": [
+        "47-122",
+        "47-124"
+      ],
+      "pendiente": "Agente último, propósito del despertar y relación causal probada con el dragón."
+    },
+    {
+      "id": "P47-102",
+      "pregunta": "¿Quién es Mictlan y qué gente vigila con él las ruinas del lago?",
+      "estado": "parcial",
+      "respuesta": "Se presenta con el nombre transcrito «Mlan» y el coordinador confirma Mictlan mediante rol escrito posterior. Afirma que su gente vigila el lugar, permite a Tesa estudiar sin sacrilegio y combate con dos descargas.",
+      "referencias": [
+        "47-119",
+        "47-120",
+        "47-125"
+      ],
+      "pendiente": "Pueblo o afiliación e historia de la vigilancia; la grafía se resuelve mediante la fuente escrita cotejada por el coordinador."
+    },
+    {
+      "id": "P47-103",
+      "pregunta": "¿Quién colgó el cuerpo de Bonny en la entrada de Shiaru y quiénes son sus nuevos ocupantes?",
+      "estado": "parcial",
+      "respuesta": "El director confirma que Patata vio el cuerpo colgado; Patata habla de nuevos piratas y de expulsión de habitantes. No identifica al responsable de cada acción.",
+      "referencias": [
+        "47-101",
+        "47-116"
+      ],
+      "pendiente": "Autoría de la exhibición del cuerpo, identidad y mando de los ocupantes y destino individual de los desplazados."
+    },
+    {
+      "id": "P47-104",
+      "pregunta": "¿Encontrará Tesa la joya prometida a Angelique y qué le contará la tabernera sobre su relación?",
+      "estado": "pendiente",
+      "respuesta": "Pactan que Tesa llevará alguna pieza bonita si la encuentra y aplazan la charla amorosa.",
+      "referencias": [
+        "47-108",
+        "47-109"
+      ],
+      "pendiente": "Hallazgo, entrega y conversación posterior; no declarar fracaso por el corte de este bloque."
+    },
+    {
+      "id": "P47-105",
+      "pregunta": "¿Qué estudiará Tesa en estas ruinas y a qué cultura o función pertenecen los muros?",
+      "estado": "pendiente",
+      "respuesta": "Llega a tres o cuatro muros caídos y busca inscripciones o restos significativos. El encuentro y el combate interrumpen la escena antes de un hallazgo identificado.",
+      "referencias": [
+        "47-110",
+        "47-119",
+        "47-122"
+      ],
+      "pendiente": "Resultados concretos, contexto histórico e identificación del lugar sin mezclar ruinas anteriores."
+    },
+    {
+      "id": "P47-106",
+      "pregunta": "¿Conseguirán vencer a los muertos de las raíces y recuperará Patata su capacidad de curarse?",
+      "estado": "pendiente",
+      "respuesta": "Patata queda envenenado y con bloqueo temporal de recuperación de vida, atemoriza a casi todos los no muertos e impacta después con un ataque de nivel tres. La batalla continúa fuera del bloque.",
+      "referencias": [
+        "47-130",
+        "47-131",
+        "47-132"
+      ],
+      "pendiente": "Desenlace del combate, bajas, botín y recuperación de Patata, a integrar con el bloque siguiente."
+    }
+  ],
+  "cotejo_preguntas_asignadas": [
+    {
+      "id": "P01-001",
+      "sha256_pregunta": "8134f5b187629eda3f53be57a060e3f69a46d54c137cfb7d59f7bd485b2c34e7",
+      "pregunta": "¿Por qué Ione pide cadenas esa noche? ¿Qué relación hay con la luna llena y la acción final de Nox? 01-019 y 01-034 no confirman licantropía.",
+      "estado_previo": "parcial",
+      "estado_propuesto_desde_bloque": "parcial",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "Ione y su noche de las cadenas no se reconstruyen en este bloque.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P01-002",
+      "sha256_pregunta": "7137ec2c6e00cd094edbe0d69a0f7135da2811b9856fd0f490694abccf2b3731",
+      "pregunta": "¿Qué significan las coincidencias que Nox ve entre su mapa y la armadura del guerrero? 01-034.",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "Las ruinas nuevas no aportan símbolos del mapa de Nox ni de aquella armadura.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P01-003",
+      "sha256_pregunta": "af7049e7f5c33d77f0cdfff0ca4bfef2749648a177de5676c900067730ada4c0",
+      "pregunta": "¿Por qué murieron los hijos adoptivos de Mamá antes que ella? Su relato no da causa: 01-007.",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "El cuerpo expuesto es el de Bonny; no se tratan las muertes anteriores de los hijos de Citlali.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P01-004",
+      "sha256_pregunta": "c4ad64cd325b36c8187256330bea78b13951e18002996351f187e18f1f18715d",
+      "pregunta": "¿Existen las pirámides de oro y dónde están? Se presenta como leyenda: 01-021.",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "Los muros junto al lago no se identifican como las pirámides de oro de la leyenda.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P01-005",
+      "sha256_pregunta": "b2e04b3a4a46d2bbb41180a9ecd694e2ad0a765870f9ef88b25f0488c91c7952",
+      "pregunta": "¿Qué ocurrió con la familia del elfo, cuál es su reliquia y quién puede repararla? 01-005 y 01-018.",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No se habla de la familia, reliquia o reparación de Aerendriel.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P01-006",
+      "sha256_pregunta": "c3c12aea4149019d7f62cdc6a6f9e92beb086d219b24a85676ee652d8d77e86b",
+      "pregunta": "¿Cómo se llama el dragoncito? La mención Zari a 01:47:33–01:47:48 es una candidata, sin presentación inequívoca en la transcripción.",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "El dragón de la advertencia es el verde del bosque, no el dragoncito de Aerendriel. La corrección de nombre Zarynth es contexto del usuario y no evidencia nueva de este bloque.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P01-007",
+      "sha256_pregunta": "b0fdff38a8396c6258245e6f5f55e5d167b806077ec057fe97b41ba191871cc9",
+      "pregunta": "¿Cuánto deben los piratas a Bonnie y cuánto descuenta por lo obtenido? No consta saldo: 01-011 y 01-029.",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "contexto_sin_resolucion",
+      "observacion": "La exposición del cuerpo de Bonny y la ocupación de Shiaru añaden contexto a su caída, pero no cifran deudas, descuentos o liquidaciones.",
+      "referencias": [
+        "47-101",
+        "47-116"
+      ],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P01-008",
+      "sha256_pregunta": "b4599efb629a4f0ce54e597d14dde70d930eec7ea5a071967b4799b471d8a9a5",
+      "pregunta": "¿Cuándo ocurre exactamente el accidente respecto a la llegada del resto? Solo se indican algunos meses de servicio: 01-030.",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "Los días que Tesa lleva con Leo no fechan el accidente inicial de Ione.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P02-001",
+      "sha256_pregunta": "4e294d7e54a3ff4f5360dc99d71f2ad703a9d60a3792701b8f271151c2abc9ce",
+      "pregunta": "¿Qué ocurrió en el camarote y por qué se rompieron las cadenas? ¿Cómo llegó Ione desnuda a la selva? 02-001, 02-003 y 02-007 añaden evidencias a 01-019 y 01-034, sin confirmar causa sobrenatural.",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No se reconstruyen el camarote, las cadenas rotas o el recorrido de Ione.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P02-002",
+      "sha256_pregunta": "aa655a8995769a712842f1ffb23b598a3864be62a8e1ed513e8b074e6511304e",
+      "pregunta": "¿Quién provocó el zarpazo que Nox muestra y qué causó el enfado de Bonnie? No está confirmado: 02-004 y 02-019.",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "contexto_sin_resolucion",
+      "observacion": "La muerte de Bonny no identifica al autor del antiguo zarpazo de Nox ni su enfado de entonces.",
+      "referencias": [
+        "47-101"
+      ],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P02-003",
+      "sha256_pregunta": "54bee2b7a0aa829f5026c9e901c328ce0f29ee5203734e1ac9d490abdfde60fa",
+      "pregunta": "¿Qué tribu masacró la de Chochi, cuándo ocurrió y dónde vivían? 02-017 y 02-021 no dan nombres ni responsables.",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "La gente de Mictlan no recibe nombre o relación con la masacre de la tribu de Chochi.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P02-004",
+      "sha256_pregunta": "86fee9fc3bfec23be70307b4abbb6d62b469ead4b4e1d34a2f66b0b508735d74",
+      "pregunta": "¿Cuál es la tribu adoptiva de Ayoto y fue realmente expulsado por su tamaño? Relato no corroborado: 02-021.",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No se mencionan la tribu adoptiva o la expulsión de Ayoto.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P02-005",
+      "sha256_pregunta": "d770d3dc4d91eb4fc52b827e280b77e6a3e1605edddf71fb8a6d581b04f51373",
+      "pregunta": "¿Qué tribu concreta compone la emboscada y qué especie es el dinosaurio? No se identifican: 02-012 y 02-016.",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "Los cadáveres actuales no se identifican con aquella emboscada y no aparece ese dinosaurio.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P02-006",
+      "sha256_pregunta": "98c0c5f0dd16e623dc1afd1c41455fcd46632de7589100bd76923834c88a43b5",
+      "pregunta": "¿Qué ayuda nocturna solicita Nox a Ayoto? Se relaciona temáticamente con las cadenas, pero no se confirma esa conexión: 02-023.",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "El bloque no detalla el antiguo encargo nocturno de Nox a Ayoto.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P02-007",
+      "sha256_pregunta": "a974bc8d53034e1d398d8166a598c96f103223a81f5a54d8c1a33888377a13f6",
+      "pregunta": "¿Se repetirá el pulso? ¿Quién conserva las monedas y se cumple algún reclutamiento? El cierre deja la apuesta disputada: 02-027–02-029.",
+      "estado_previo": "parcial",
+      "estado_propuesto_desde_bloque": "parcial",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No se retoma el pulso, la liquidación de monedas o el reclutamiento de sus participantes.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P03-001",
+      "sha256_pregunta": "5ae34daff4f1f94819b720ad6bb500983aec471e57309530a5c0a644f62ff72b",
+      "pregunta": "¿Qué busca la Marina en la excavación? Se confirma que excava; el oro era solo una sospecha de los captores (03-003 y 03-019).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "La investigación de Tesa en unos muros no se vincula a la excavación de la Marina.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P03-002",
+      "sha256_pregunta": "788a1c52a08c0d51b79553ff70db8af1cc004c08a77b9237af291ad25f2f9c9b",
+      "pregunta": "¿De dónde procede Blink/Blank y cómo llegó a este mundo? Relato de árboles parlantes y sensación de extrañeza, sin plano o portal identificado (03-005).",
+      "estado_previo": "parcial",
+      "estado_propuesto_desde_bloque": "parcial",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "Las raíces que mueven muertos no explican el bosque ni el tránsito de Bling desde el plano feérico.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P03-003",
+      "sha256_pregunta": "1ea35c4dc57593a2feb9edc6fa19d37d62d00ce21d2ff6d133229e0d69d2b58e",
+      "pregunta": "¿Por qué Ione es licántropa y cómo se controla? La forma de mujer lobo queda confirmada (03-024, 03-031), pero Poncelot y Mamá solo especulan sobre su origen (03-028).",
+      "estado_previo": "parcial",
+      "estado_propuesto_desde_bloque": "parcial",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No se desarrolla el origen, control o cura de la licantropía de Ione.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P03-004",
+      "sha256_pregunta": "5fabce5a87240276b13b7e70f7703ce764ecc1aa5672d2b801ea95b1c9b8a111",
+      "pregunta": "¿Qué harán con el marine cautivo? Nox lo lleva encadenado, sin destino final ni interrogatorio mostrado (03-029, 03-031).",
+      "estado_previo": "resuelta",
+      "estado_propuesto_desde_bloque": "resuelta",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No aparece Jack ni se modifica su destino ya documentado; no identificarlo con nuevos desconocidos.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P03-005",
+      "sha256_pregunta": "482e0056977765bd7cbaccd712c434ac38d94a607fe3026c6ee190ee51eb3404",
+      "pregunta": "¿Cuál es la recompensa y acusación exacta del cartel de Nox? Lo reconocen por un cartel; el importe no queda inequívoco (03-022).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "El nombre provisional de Mictlan y las ruinas no aportan el importe o acusación del cartel de Nox.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P03-006",
+      "sha256_pregunta": "cf56f7f98f67aa8d6969e1c6a006f7c3b1f8f5645993ecc1c5a6b7353f933e5b",
+      "pregunta": "¿Ingresará Poncelot en la tripulación? Ione lo invita mediante una versión caballeresca engañosa; no hay juramento de tripulación explícito fuera de esa prueba presentada (03-015 y 03-020).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No se representa un juramento o incorporación de Poncelot.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P03-007",
+      "sha256_pregunta": "e66ae28f6ecda098fd17850a0e645faa87a43f8de266cd5fe45e6dca1f09cc8a",
+      "pregunta": "¿Qué especie de dinosaurio es Merlucilla y qué vínculos reales tiene con una madre? Solo Nox afirma que es una cría; no se ve su madre (03-011).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "Las bromas sobre animales o comida no identifican la especie o madre de Merlucilla I.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P04-001",
+      "sha256_pregunta": "92ad0f565863188a56d43e8520e4838d7b4e3227ce3ba70d985eb73cdabac7b1",
+      "pregunta": "¿Qué pretende Bonnie al decir a Ione que no hable con Nox? ¿Qué sabe de sus asuntos y de las gemas? 04-029.",
+      "estado_previo": "parcial",
+      "estado_propuesto_desde_bloque": "parcial",
+      "resultado": "contexto_sin_resolucion",
+      "observacion": "El hallazgo del cuerpo de Bonny no explica su antigua prohibición de hablar con Nox o su saber sobre gemas.",
+      "referencias": [
+        "47-101"
+      ],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P04-002",
+      "sha256_pregunta": "070d1a6aac6020db91c71da1c4002fd1ebdd93b3ae22a343d06aed09978cffb2",
+      "pregunta": "¿A qué civilización o tribu pertenece el collar antiguo y de dónde lo obtuvieron los hombres de Bonnie? Su antigüedad no resuelve su origen exacto (04-020).",
+      "estado_previo": "parcial",
+      "estado_propuesto_desde_bloque": "parcial",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "La joya solicitada por Angelique no se identifica como el collar antiguo de las minas.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P04-003",
+      "sha256_pregunta": "7226675b1930d926ee4cd4819d175a1f7df30edbdedf1491666b68a5708a77a7",
+      "pregunta": "¿Recuperarán las gemas de los compañeros y la entregada a la Sirena Borracha? Bonnie ordena buscarlas, pero no hay confiscación mostrada (04-029–04-030).",
+      "estado_previo": "parcial",
+      "estado_propuesto_desde_bloque": "parcial",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "El encargo de una joya nueva no retoma el inventario ni las entregas de aquellas gemas.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P04-004",
+      "sha256_pregunta": "256857e69ed61f065fdfbe740849f5467ee138fef3f55be5e5d8df1aa00b53bf",
+      "pregunta": "¿Qué criatura divina se manifiesta a Mamá? ¿Qué equilibrio propone preservar y por qué quiere que suelten más a Ione? No se da nombre: 04-024.",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "Las pretensiones religiosas de Chopito no identifican a la presencia que habló a Citlali sobre el equilibrio.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P04-005",
+      "sha256_pregunta": "d845cb308428108fe93debf9f686dd547c8c5fd39716d1044d295b29f706e2bd",
+      "pregunta": "¿Qué ocurrió con el marine que Nox llevaba cautivo en el capítulo 3? No aparece su destino aquí.",
+      "estado_previo": "resuelta",
+      "estado_propuesto_desde_bloque": "resuelta",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No hay intervención de Jack ni información nueva sobre su antiguo cautiverio.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P04-006",
+      "sha256_pregunta": "1167fc7d0d31e8ecbcf5037b0c96fae527e22210fe1d3ba04e828228f9bdece8",
+      "pregunta": "¿Cómo reaccionará Poncelot a la muerte de Merlucilla? No participa en esta sesión: 04-003.",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "Poncelot no conoce o reacciona aquí a la muerte de Merlucilla I.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P04-007",
+      "sha256_pregunta": "9eaa08724f29aa83b287f8fa058cc896936042daf4147d6e0b715836dacdd62a",
+      "pregunta": "¿Qué conjuro contiene el pergamino mágico recuperado? Sin identificación: 04-015.",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No aparece o se identifica el pergamino mágico tomado del pirata.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P04-008",
+      "sha256_pregunta": "04803240a5347e2ebc0379d29edaf04fb9d54a93414313b19a8cf889d790ffb8",
+      "pregunta": "¿Se mantienen la segunda cola y los otros efectos de frutas fuera de esta partida? No consta persistencia: 04-010.",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No se revisa la duración de la segunda cola ni los efectos de frutas del capítulo 4.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P05-001",
+      "sha256_pregunta": "a57e36aa89c906cc233115963c8f6c3599996518b716611c66ab0968633f6aa2",
+      "pregunta": "¿Qué condiciones exactas incluye el contrato de Bonnie y Molly? Se habla de diezmo y permiso, pero no se lee completo. ¿Hay otras copias? No se demuestra anulación legal por robarlo (05-008 y 05-024).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "contexto_sin_resolucion",
+      "observacion": "La ocupación de Shiaru no revela cláusulas, copias o consecuencias jurídicas del contrato Bonny–Molly.",
+      "referencias": [
+        "47-101",
+        "47-116"
+      ],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P05-002",
+      "sha256_pregunta": "76900c8627b1d3a2426d8d0fdfecd8d167076f7737ab5dc6c209c63c7f0687fb",
+      "pregunta": "¿Qué escribió Nox en su nota? ¿Molly la encontrará o sobrevivió al incendio? Contenido y lectura desconocidos (05-024, 05-032).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No se recupera la nota de Nox ni se confirma su lectura por Molly.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P05-003",
+      "sha256_pregunta": "83cc2477467678fe17c2f70fde8ab6a2108a09dacde9099c4cb2e4226bd0a43e",
+      "pregunta": "¿Qué hará Molly tras el incendio y la explosión? ¿Quiénes sobrevivieron entre la tripulación del buque? El cierre muestra su barca acercándose, sin balance de víctimas (05-029–05-033).",
+      "estado_previo": "parcial",
+      "estado_propuesto_desde_bloque": "parcial",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "Las noticias actuales de Shiaru no dan el balance de supervivientes del buque incendiado.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P05-004",
+      "sha256_pregunta": "0a84248832691383554209120bb4a2ab4e18c04621e7b06337e84f6dc9ac0d31",
+      "pregunta": "¿Cuál será el nuevo saldo de deuda y qué trabajos dará Bonnie al visitante? Anuncio sin cifras ni tarea concreta (05-031).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "contexto_sin_resolucion",
+      "observacion": "La caída de Bonny aporta contexto posterior, pero no fija deuda o trabajo anunciado a Kilzer.",
+      "referencias": [
+        "47-101",
+        "47-116"
+      ],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P05-005",
+      "sha256_pregunta": "62f24f5b1595ae5064162a5d908ca7be479cd55a6ae82fa2b8e19f44d4e0f2bf",
+      "pregunta": "¿Dónde queda Jack y logra volver con Lucy? Se lo aparta de la Marina y se aleja con ropa de pirata; no hay desenlace (05-007, 05-011).",
+      "estado_previo": "parcial",
+      "estado_propuesto_desde_bloque": "parcial",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No se muestran Jack, Lucy o los cobros de Puerto de Espadas.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P05-006",
+      "sha256_pregunta": "7590a6dd27f85b9a13777a8d3f68796e9b5180cad7cf2ad4a78199e1b7d8c949",
+      "pregunta": "¿Qué muestran los dos mapas y los otros documentos de Puerto de Espadas conservados por Erendriel? El texto no se lee (05-024, 05-033).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "El libreto de indicaciones de Tesa es otro documento; no se leen los mapas de Aerendriel.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P05-007",
+      "sha256_pregunta": "f477e8cfc11549df1820b6616c17c160d4726dff61921911182b97b310449347",
+      "pregunta": "¿Qué ocurrió exactamente entre Nox y Molly en el pasado? Por ahora solo está su confesión de haberla abandonado tras descubrir su puesto (05-009).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No se reconstruye la historia amorosa de Nox y Molly; la charla de Angelique es otra relación.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P05-008",
+      "sha256_pregunta": "fc0083171b189c830e7ab42c6cab6a9eb7103e958b122978f4eec057d6580d6c",
+      "pregunta": "¿Se identificarán nombre de familia y nombre preferido de Erendriel? Anillo y cambio de aspecto observados, palabras finales del nombre imprecisas (05-010, 05-033).",
+      "estado_previo": "parcial",
+      "estado_propuesto_desde_bloque": "parcial",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No se explica el nombre de familia ni el uso alterno de Aerendriel y Salazor.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P06-001",
+      "sha256_pregunta": "81bf5244ce0bfc10eba4a32dfbbdacddef0e7b597241e7507e03152b5eeaf3b4",
+      "pregunta": "¿Está Chochi infectado por la mordedura de Ione? Mordisco, salvaciones de Constitución y malestar documentados, sin contagio explícitamente confirmado ni transformación mostrada (06-030).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "El envenenamiento actual de Patata no diagnostica el contagio de Axi tras el mordisco.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P06-002",
+      "sha256_pregunta": "df6f9211b3f0378c6e6fda396e8a99fa3cb267e78b781844bb7b0c35e19f3429",
+      "pregunta": "¿Dónde está Ione y recuperará forma habitual? Salió del agua y huyó tras romperse su burbuja, Blink va a buscarla (06-032, 06-038).",
+      "estado_previo": "resuelta",
+      "estado_propuesto_desde_bloque": "resuelta",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No se representa otro retorno de Ione o se modifica la recuperación ya documentada.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P06-003",
+      "sha256_pregunta": "2ebdf70c8a7f440a183dfdcb5166a696e6c9105b5d9c84a83ab05a5a9558649d",
+      "pregunta": "¿Qué coste y tratamiento tendrán las heridas de Chochi y del visitante? Van a buscar al médico, consulta no representada (06-038).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "El daño y veneno de Patata no completan las antiguas consultas de Chochi y Kilzer.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P06-004",
+      "sha256_pregunta": "47b6acbff743a605cf1a5db58c377b08971358ab00e115898c48095224cedda4",
+      "pregunta": "¿El oro del huevo son diez o cinco monedas? Ambas cifras aparecen; tres perlas son consistentes. Reparto definitivo pendiente (06-037).",
+      "estado_previo": "parcial",
+      "estado_propuesto_desde_bloque": "parcial",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "La joya pedida por Angelique no concilia las monedas del huevo ni el reparto de perlas.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P06-005",
+      "sha256_pregunta": "e38a3986dbab8b6049260d3658461adb67aa8a9b119b3f62c88112e30cfeb72a",
+      "pregunta": "¿Qué pasó con los captores de Blink y con los piratas atados que Poncelot llevó al juzgado? No se identifican ni se muestra su destino (06-003 y 06-009). No fusionarlos con otras partidas de piratas.",
+      "estado_previo": "parcial",
+      "estado_propuesto_desde_bloque": "parcial",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "Los nuevos piratas de Shiaru no se identifican con captores de Bling o presos de Poncelot.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P06-006",
+      "sha256_pregunta": "7a13bd09375690bb173b8938c2dbb3b29bfa5a8716212a7b5766c3cd3b25473a",
+      "pregunta": "¿Recuperará Ione las gemas que Bonnie reclama? Solo encargo recapitulativo, no devolución (06-004).",
+      "estado_previo": "parcial",
+      "estado_propuesto_desde_bloque": "parcial",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No se representa la recuperación o devolución del lote de gemas reclamado por Bonny.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P06-007",
+      "sha256_pregunta": "7c73b3b5836f41c9a60eba38ad6e612b8f139a8cbb0046394a6583fa35c02d5e",
+      "pregunta": "¿Quién es exactamente Elger Banana, qué flota manda y qué tesoro buscaban sus piratas? Relatos de sirena y reconocimiento de Ione, sin encuentro directo (06-016–06-018).",
+      "estado_previo": "parcial",
+      "estado_propuesto_desde_bloque": "parcial",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "Patata no da nombre o bandera a los ocupantes, por lo que no se atribuyen a Elger Banana.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P06-008",
+      "sha256_pregunta": "b5ba46c24b7f6ad3120ad3e645732c555b0e3f7dd74c4901478c9d0e96f4af0c",
+      "pregunta": "¿El crecimiento que dio la señora a Marina permanece y qué hechizo había sobre ella? Se observa restauración al llegar, sin identificación del conjuro original (06-025).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "Tenta procede del agua, pero no es Marina ni revela el hechizo que reducía a la sirena.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P06-009",
+      "sha256_pregunta": "9f3d1cc2ef49930a6ec23fb760daf48401538a4d09cf89e87a3e0208489f86e5",
+      "pregunta": "¿Sabe Poncelot que su primera Merlucilla murió? Su recapitulación sigue atribuyendo ausencia a fuga (06-009).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No se comunica a Poncelot la muerte de su primera Merlucilla.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P07-001",
+      "sha256_pregunta": "e6f91ae956e48fd8b33bc84eb147a92420658fd1e519ab12c3caf9efea977949",
+      "pregunta": "¿Cuál es el significado del mapa y de los tatuajes de Nox? Mamá no reconoce vínculo con ruinas y explica que vio los tatuajes en una escena escrita entre sesiones; no hay símbolos transcritos o solución (07-025).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "La advertencia sobre entrar en cabezas no descifra el mapa o tatuajes de Nox.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P07-002",
+      "sha256_pregunta": "02d074eff8a38618754ea7c2a6705898be9f81a1245f50d08d8f2d1aa58ae644",
+      "pregunta": "¿Qué saldrá del huevo y cuánto vale? Ni especie ni precio confirmados. ¿Mamá sabrá del pacto secreto de Nox con Bonnie? 07-023, 07-033.",
+      "estado_previo": "parcial",
+      "estado_propuesto_desde_bloque": "parcial",
+      "resultado": "contexto_sin_resolucion",
+      "observacion": "El amigo «Écil» del relato de Leo no fija especie, precio o conocimiento del pacto sobre Eztli.",
+      "referencias": [
+        "47-105"
+      ],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P07-003",
+      "sha256_pregunta": "058a59c40813be34b797b19cd044e979442768a908afd37021eced4ac26d2b21",
+      "pregunta": "¿Qué hará Bonnie si no recibe la cría o si muere? Amenaza sin ejecución mostrada (07-033).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "contexto_sin_resolucion",
+      "observacion": "El cuerpo de Bonny añade una consecuencia posterior de su caída, sin mostrar que ejecutara aquella amenaza por la cría.",
+      "referencias": [
+        "47-101"
+      ],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P07-004",
+      "sha256_pregunta": "52957b3a75565fc95c625d1992ba2172379f5352dbb4e72d44fa1b0890403530",
+      "pregunta": "¿Quién es la pirata pequeña que huyó, a qué grupo pertenece y volverá? Imagen mostrada a Bonnie, sin nombre (07-021, 07-032).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No se identifica a la pirata pequeña fugitiva con ningún personaje de este encuentro.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P07-005",
+      "sha256_pregunta": "d63d6e71da5937ddae85767181427fd7f364c5db1b2b6ff643d23ccfd374bfff",
+      "pregunta": "¿Qué información dará el cautivo del nido y qué destino tendrá? Entregado, no interrogado en escena (07-016, 07-032).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No se retoma el cautivo del nido ni un interrogatorio suyo.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P07-006",
+      "sha256_pregunta": "6752dc002c2817123e1face2dd1ee55c8fdce038abc9f1e28f8f9b285a3197da",
+      "pregunta": "¿A qué cultura pertenecen las ruinas y qué dicen los símbolos copiados por el elfo? Escritura no entendida ni traducida (07-026).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "Los muros que estudia Tesa son nuevas ruinas descriptivas, sin conexión probada con la copia de símbolos del nido.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P07-007",
+      "sha256_pregunta": "751be85c98e57fb487ff7a442e94418b4274c59dc3829861c71dc18cb6726f5a",
+      "pregunta": "¿Quién sustrajo las herramientas de cocina de Patata y las monedas de los demás? Tiradas sin autoría demostrada (07-001–07-003).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "contexto_sin_resolucion",
+      "observacion": "La destrucción de casa y huerto de Patata es otro episodio y no identifica al autor del antiguo hurto de herramientas.",
+      "referencias": [
+        "47-101",
+        "47-116"
+      ],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P07-008",
+      "sha256_pregunta": "86e4fe964298a375d8e24b914aecb2179c48ae126a82e3e826a563d642a729f9",
+      "pregunta": "¿La montura comida por el pulpo en recapitulación es Merlucilla II? Se habla de montura de Poncelot sin nombrarla inequívocamente; no fusionar antes de aclaración (07-004).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "Chopito es el pulpo actual; ninguna de sus bromas identifica la montura que comió otro pulpo.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P07-009",
+      "sha256_pregunta": "f7b19083f2bbe76ad5bd828be51adb26b6e646af885d3700fadd79b5a182bcf8",
+      "pregunta": "¿Por qué Nox usa el nombre Capitán Nox además de Jim Hawkins? Declara ambos, sin historia completa de identidad (07-009).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No se explica el origen del alias Nox ni de su título de capitán.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P08-001",
+      "sha256_pregunta": "454c37977b7b30b4fa6351e58c073e44e0b64ce0d1601a003ea2548c3b08479e",
+      "pregunta": "¿Quién era la mujer del templo, de qué tribu y por qué vivía allí? La transformación y la muerte se ven, pero no se revela su identidad (08-022–08-024).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "El nuevo felino no se identifica con la mujer nawal muerta del templo.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P08-002",
+      "sha256_pregunta": "a778047a98000b470ccecb0c98443e03dd74deddcf00a2b1f1bd11ca99b0f777",
+      "pregunta": "¿Qué dice el diario en Terran y quién lo escribió? Salazor lo conserva sin traducción (08-021 y 08-024).",
+      "estado_previo": "parcial",
+      "estado_propuesto_desde_bloque": "parcial",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No se lee el diario Terran ni se identifica a su autor.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P08-003",
+      "sha256_pregunta": "6b7dcd5cbf226b4a55f3f9b2a4f97d805782f354db67ca8b4404a2d921f8de9d",
+      "pregunta": "¿Las plantas y el mortero explican la transformación de esta mujer? Civilización asociada a plantas y ascenso animal, sin prueba individual de su preparación o del mecanismo (08-020–08-024).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "Las raíces que mueven cadáveres no prueban el mecanismo de transformación de la mujer del templo.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P08-004",
+      "sha256_pregunta": "0c534180edf4d9f98ef4b978cf1c25bb3d27d0b1f6c4d9b1016d31d3b872a5df",
+      "pregunta": "¿Qué ocurre con el pirata herido entregado a Gobs? Intervención iniciada sin desenlace mostrado (08-010).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "Los muertos nuevos no se identifican con el antiguo paciente de Gobs.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P08-005",
+      "sha256_pregunta": "560c92a6358d672a7ff163ce65fed3db97ea9370c0494d5a6430625874560aa7",
+      "pregunta": "¿Dónde están los captores de Blink y de quién eran las huellas? Sin identificación (08-004).",
+      "estado_previo": "parcial",
+      "estado_propuesto_desde_bloque": "parcial",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No se identifican los nuevos clientes u ocupantes con los captores de Bling ni con las huellas antiguas.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P08-006",
+      "sha256_pregunta": "4e716e26bc61f0a30c20e755edb3a0c9bc4a7886994fab7891343ba5246b959b",
+      "pregunta": "¿Qué objeto descrito como truco obtuvo el elfo de los cadáveres y qué utilidad tiene? Fuente no precisa (08-019).",
+      "estado_previo": "parcial",
+      "estado_propuesto_desde_bloque": "parcial",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "Las descargas mágicas actuales no identifican o utilizan aquel pergamino de truco.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P08-007",
+      "sha256_pregunta": "0dfaac0167eb685f5fc4dde83229861a9cf6b536e57666a2f7d2ca13c9cd73bc",
+      "pregunta": "¿Se reparará o sustituirá la espada de Kilzer? Recuerda otra guardada, sin cambio representado (08-027).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No se representa la reparación o sustitución de la espada de Kilzer.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P09-001",
+      "sha256_pregunta": "6395381b5da73445bb7376686187a7cba88e9f8c1e172b21882604b793bd4e88",
+      "pregunta": "¿Cuándo adoptó Chochi el nombre Axi? La continuidad es contextual, sin una explicación completa del cambio en este capítulo (09-004 y 09-020).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No se fecha ni se explica el cambio nominal de Chochi a Axi.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P09-002",
+      "sha256_pregunta": "4548c3a73a7b7f31fcc16099deade375b57f5091d871afdfaa10470affde3402",
+      "pregunta": "¿Qué vio Mamá al tomar la mano de Nox y qué significa? No se describe la imagen ni se confirma un origen divino (09-003).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No se reconstruye la visión de Citlali al tomar la mano de Nox.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P09-003",
+      "sha256_pregunta": "a605a0c012fa84d4e389bd996ac53c369167249eaf0b3e41f15fadce9f66518c",
+      "pregunta": "¿Por qué le escuece el tatuaje a Mamá cuando Nox la cura? La relación entre sus tatuajes y los de Nox sigue sin resolverse (09-028 y 09-031).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "La salpicadura del zombi no se relaciona con el escozor de los tatuajes al curar a Citlali.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P09-004",
+      "sha256_pregunta": "846dd753f4a7f03b3303f84121a069194c4e95c8f73624dfbf90473284ba41fc",
+      "pregunta": "¿Quiénes deben volver según los guardianes y por qué llaman traidora a Mamá? Sus declaraciones carecen de un contexto histórico verificado (09-026–09-028).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "La vigilancia que Mictlan declara no identifica a los antiguos guardianes ni su acusación de traición.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P09-005",
+      "sha256_pregunta": "54142c0a399f835744a799275f46345d2ee0bba2fc68b5b6aa00e002bc987c71",
+      "pregunta": "¿Qué mapa recibe el aprendiz y adónde conduce? No lo abre ni se muestra su expedición (09-009).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "El libreto de Tesa no se identifica con el mapa entregado al aprendiz.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P09-006",
+      "sha256_pregunta": "5a9e9458e6d59acfce3e7fddccd41b399afc93396cb638f924d882e458314c7c",
+      "pregunta": "¿Qué efectos tendrán las hojas que guarda Ione? Solo se observa un mareo breve al olerlas; no las fuma en esta escena (09-024).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "Las raíces actuales y los matorrales de sigilo no se identifican con las hojas perfumadas de Ione.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P09-007",
+      "sha256_pregunta": "196f1a372871406a2547e8dc9904e47d8b4da20a914d83ac6c08dce4710d9449",
+      "pregunta": "¿Quién tomó la hierba de Ione? Pinky muestra una bolsa con su nombre, pero no se representa el robo (09-002 y 09-017).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No hay confesión o escena que identifique al ladrón de la hierba de Ione.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P09-008",
+      "sha256_pregunta": "70e8739d19346777c5340a73dbf317562045d1781dcabc38ecbdd43fa0816ff9",
+      "pregunta": "¿Cuánto dura la inmunidad de Lunaria al alcohol? Los 21 días del capítulo 7 y la semana aceptada aquí no se concilian expresamente (09-008).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No se trata la inmunidad al alcohol de Lunaria ni sus duraciones discordantes.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P09-009",
+      "sha256_pregunta": "0cd0b212ef26a135938c67d66fb74bff5ba4b6877e57c06bf1ac10a20f4948ec",
+      "pregunta": "¿Se contagió Axi con la mordedura de Ione? Hay reproches y temor, pero no un diagnóstico ni una transformación confirmada (09-007 y 09-020).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "El veneno de Patata no aporta diagnóstico sobre la mordedura de Ione a Axi.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P10-001",
+      "sha256_pregunta": "acc92419b53b2014627c39b55fde85cf0cff1527a090ee1fcfa03995d85374ab",
+      "pregunta": "¿Dónde está Pix, quién lo capturó y por qué? El rastro conduce al poblado, pero el mono no aparece directamente (10-005 y 10-010–10-027).",
+      "estado_previo": "parcial",
+      "estado_propuesto_desde_bloque": "parcial",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No se retoma la captura de Pix o el motivo de su secuestro.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P10-002",
+      "sha256_pregunta": "e2e39c5ebebb4a9ad3706a4f4a187e27eb0ed34ecd824ea39c17e4924729c9c2",
+      "pregunta": "¿Cómo se llama el poblado y qué organización o creencias tienen sus habitantes? Ayoto lo llama Ciudad de la Luna, sin confirmación del director (10-025).",
+      "estado_previo": "parcial",
+      "estado_propuesto_desde_bloque": "parcial",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "La gente de Mictlan y los muros del lago no se identifican con la aldea de hombres lagarto.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P10-003",
+      "sha256_pregunta": "1113f23e21358cb9b8ef3266c0d7cc8094f702bc01f1617041aba822fa5786d2",
+      "pregunta": "¿Qué ocurrirá con Patata, Blink y Axi? Siguen vivos en jaulas; la posibilidad de sacrificios no se ejecuta (10-027).",
+      "estado_previo": "resuelta",
+      "estado_propuesto_desde_bloque": "resuelta",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "Patata vuelve a actuar, pero el bloque no cambia el desenlace ya resuelto del cautiverio ni identifica aquí a Axi o Bling.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P10-004",
+      "sha256_pregunta": "f10cf58e69490f2c12ae1751189e37f4b625c2abbfd79c3e5e6e7a23df602407",
+      "pregunta": "¿Podrá Erendriel recuperar las armas que le retiraron? Escapa sin ellas (10-018 y 10-022).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No se localizan las armas originales confiscadas a Aerendriel.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P10-005",
+      "sha256_pregunta": "2c1566eaa183cedc372cb1c157199af14d91137cd1fd5ecfc113b96e3cd5223b",
+      "pregunta": "¿Aceptarán Nox e Ione la nueva expedición? Bonnie ordena buscarlos, pero todavía no hablan con ellos (10-026).",
+      "estado_previo": "resuelta",
+      "estado_propuesto_desde_bloque": "resuelta",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "La batalla nueva de las raíces no modifica la aceptación ya documentada de aquella expedición de rescate.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P10-006",
+      "sha256_pregunta": "e56ede45ec4aa054cc4c9f41432f9f2a973b2af20150f271baaab282c56e7945",
+      "pregunta": "¿Qué conjuro contiene el pergamino? Solo se identifica como un pergamino de truco (10-011).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "Ningún lanzamiento actual se vincula al pergamino de truco del capítulo 10.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P11-001",
+      "sha256_pregunta": "2382af58fba69a98bf6bdb0ffaf92f93e768db06b00af14bbed9e53d2e8144cf",
+      "pregunta": "¿La visión del bebé corresponde al pasado de Mamá? ¿Quién es y dónde está el cofre? Solo se relata la visión (11-003).",
+      "estado_previo": "parcial",
+      "estado_propuesto_desde_bloque": "parcial",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No se localiza el cofre ni se reconstruye el rescate y crianza de Amaru.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P11-002",
+      "sha256_pregunta": "5a6f60189a838a6747a32e1cac4901799ae4320c6b29de9b289648ffe6f49f3a",
+      "pregunta": "¿Qué efectos tiene el juramento de Nox y qué ocurriría si mintiera? No se describe su mecánica ni se aplica una sanción (11-003).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "La obediencia que pide Chopito no explica la mecánica del juramento antiguo de Nox.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P11-003",
+      "sha256_pregunta": "70c1178fbc94368b6f56e40f6d4407e730e360350d147e861289d096b650037d",
+      "pregunta": "¿Qué contiene el libro en Terran de Nox? Su relación con el diario de Erendriel todavía no queda inequívoca en este capítulo (11-011 y 11-022).",
+      "estado_previo": "resuelta",
+      "estado_propuesto_desde_bloque": "resuelta",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "Tesa toma apuntes propios, sin leer o ampliar aquí el diario del nawal.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P11-004",
+      "sha256_pregunta": "9641ad31005107aadaf21034af9cd0bca06a58ac89ee59eb3bebc5abb7a3fb6b",
+      "pregunta": "¿Qué poder o legitimidad confieren las monedas de los cinco reyes piratas? El director confirma la asociación, sin explicar las consecuencias de poseerlas (11-024).",
+      "estado_previo": "parcial",
+      "estado_propuesto_desde_bloque": "parcial",
+      "resultado": "contexto_sin_resolucion",
+      "observacion": "La exposición del cuerpo de Bonny no establece el poder, custodia o sucesión política de las monedas.",
+      "referencias": [
+        "47-101"
+      ],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P11-005",
+      "sha256_pregunta": "97598829059a171e0106df51682ddcad502c9506ce2f3cd12a73154cad5f751d",
+      "pregunta": "¿Qué relación tiene Bonnie con las Cuchillas Negras y cómo ve a Nox invisible? Se observan su anillo y su mirada, sin una explicación completa (11-029).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "contexto_sin_resolucion",
+      "observacion": "La caída de Bonny no explica su afiliación a las Cuchillas Negras o cómo vio a Nox invisible.",
+      "referencias": [
+        "47-101"
+      ],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P11-006",
+      "sha256_pregunta": "5f5979dbc3f9a42187e5af8b7312524bf0ad649970284323aac327aa53df01b8",
+      "pregunta": "¿Qué hablarán Bonnie y Nox en el muelle? Solo acuerdan la cita (11-029).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No se reconstruye la antigua conversación concertada entre Bonny y Nox en el muelle.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P11-007",
+      "sha256_pregunta": "5304aaa730b3a7521ed0adb472db1322387a711c4bfa30522486ed53f27fbee0",
+      "pregunta": "¿Cuántas gemas quedan y quién conserva la última? Las cifras y las entregas relatadas no permiten cerrar un inventario firme (11-028–11-029 y 11-032).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "La joya futura de Angelique no concilia el número y custodia de las gemas antiguas.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P11-008",
+      "sha256_pregunta": "40ab2e0cc8bc98d036255c3f9ee42732b9d105b87a31bc3206d8dc10037afdbf",
+      "pregunta": "¿Se recuperará el resto del equipo de los cautivos? Solo recogen una caja con parte de los objetos y un arco (11-026).",
+      "estado_previo": "parcial",
+      "estado_propuesto_desde_bloque": "parcial",
+      "resultado": "contexto_sin_resolucion",
+      "observacion": "Patata conserva armadura, escudo y martillo y los utiliza, pero eso no prueba la restitución íntegra de los bienes confiscados.",
+      "referencias": [
+        "47-118",
+        "47-121"
+      ],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P11-009",
+      "sha256_pregunta": "6a0b42099f80ac5b495082f81a499f93049f300351e730bb4cde5fba96b2ddec",
+      "pregunta": "¿Cuándo despertarán Blink, Patata y Axi y qué secuelas tendrán? Se inician el transporte y los cuidados, sin resolución médica (11-030).",
+      "estado_previo": "parcial",
+      "estado_propuesto_desde_bloque": "parcial",
+      "resultado": "contexto_sin_resolucion",
+      "observacion": "La actividad y el veneno actuales de Patata no completan el diagnóstico de secuelas de su antiguo cautiverio o del de Axi y Bling.",
+      "referencias": [
+        "47-130"
+      ],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P11-010",
+      "sha256_pregunta": "41e74a587e9b918a1d2e771531e89e4a8ee66f02fae7915a8167250bb661c8f7",
+      "pregunta": "¿Qué consecuencias tendrá el incendio y la muerte de los defensores del poblado? El director las deja pendientes (11-032).",
+      "estado_previo": "resuelta",
+      "estado_propuesto_desde_bloque": "resuelta",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "El respeto exigido por Mictlan no modifica el resultado ya resuelto de las represalias de Ras Racor.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P11-011",
+      "sha256_pregunta": "0380b04469b6ebf46b6829f8e27610e66ced60a0516310a1f72382470a381fe4",
+      "pregunta": "¿Existe la licencia y abrirán el casino? Kilzer quiere verificar el papel antes de confirmar el trato (11-031).",
+      "estado_previo": "parcial",
+      "estado_propuesto_desde_bloque": "parcial",
+      "resultado": "contexto_sin_resolucion",
+      "observacion": "La expulsión de habitantes de Shiaru da contexto de pérdida de hogares, pero no adjudica el estado del casino, su apertura o sus cuentas.",
+      "referencias": [
+        "47-116"
+      ],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P12-001",
+      "sha256_pregunta": "16365fdd821a859997ab904ab470cb01391662297e9c06b379fb33faa982f20e",
+      "pregunta": "¿Qué compromiso asumió Erendriel con Bonnie para cumplir en una semana? Las amenazas sobre sus orejas no explican todos los detalles (12-003–12-007).",
+      "estado_previo": "parcial",
+      "estado_propuesto_desde_bloque": "parcial",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No se precisan los términos del antiguo compromiso de Aerendriel con Bonny o la ejecución de su castigo.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P12-002",
+      "sha256_pregunta": "cc19387b2d507b721f157198616cbf25077130d2a6af77c7924fa8abafef1c7b",
+      "pregunta": "¿Dirige Molly Fuerte Aurora y por qué hay tantos lugares de interés? Nox lo cree, pero el mapa no revela el propósito completo (12-009 y 12-030).",
+      "estado_previo": "parcial",
+      "estado_propuesto_desde_bloque": "parcial",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No se identifica un objetivo nuevo del mapa de excavaciones de Molly o de la Marina.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P12-003",
+      "sha256_pregunta": "8e8155ea04731cd25bb8623d87a19f12ea1f3413fd3905776b428fa004fef952",
+      "pregunta": "¿Dónde están Mingo, Mango y el tercer pirata? Nox cree que viven, sin localizarles ni identificarles con los captores de Blink (12-009–12-010).",
+      "estado_previo": "resuelta",
+      "estado_propuesto_desde_bloque": "resuelta",
+      "resultado": "contexto_sin_resolucion",
+      "observacion": "La afirmación de expulsión general no localiza individualmente a Mingo, Mango y Mungo ni modifica su rescate anterior.",
+      "referencias": [
+        "47-116"
+      ],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P12-004",
+      "sha256_pregunta": "de4413d90517ce0bbc6d0204d2052650cc82e78a5bb30234a7c0d8aefce9573a",
+      "pregunta": "¿Quiénes son la mujer tatuada, el hombre tigre y el preso pintado? ¿Por qué los encerraron y qué ocurre con el cuarto preso? No se proporcionan nombres ni delitos (12-017 y 12-023–12-025).",
+      "estado_previo": "parcial",
+      "estado_propuesto_desde_bloque": "parcial",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "Mictlan no se identifica como el preso pintado, Button o Nelli por su aspecto felino.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    },
+    {
+      "id": "P12-005",
+      "sha256_pregunta": "a3eee32f2fc825fa581fce83e37d04accf23c1a26f15ae0bb8959e673953dc20",
+      "pregunta": "¿Sobrevive o se recupera el pirata que cae bajo los disparos? No se muestra su salida ni su recuperación (12-024).",
+      "estado_previo": "pendiente",
+      "estado_propuesto_desde_bloque": "pendiente",
+      "resultado": "sin_aporte_en_bloque",
+      "observacion": "No se identifica ningún cadáver actual con el pirata abatido al escapar del campamento de la Marina.",
+      "referencias": [],
+      "requiere_actualizacion": false,
+      "alcance": "Solo bloque 1: 00:00:00.280–00:45:28.990; no es una declaración de ausencia en el capítulo completo."
+    }
+  ],
+  "dudas": [
+    "La presentación «Mlan» de c001297 y repetición c001303 quedan vinculadas a Mictlan por la escena posterior x-1531013198478708756, leída íntegra por el coordinador (36 mensajes). Conservar citas originales. La tribu y el rango no quedan fijados.",
+    "Amigo de Leo «Écil»: c000199. Cotejar con la recogida de Eztli por Citlali en el capítulo 46; este bloque no nombra a la agresora y no prueba por sí solo la identidad.",
+    "El lago no se nombra en el bloque. Su conexión sumergida con Perlasal puede enlazar con Lago Tachan, pero no universalizar la identidad de todas las orillas o ruinas.",
+    "Tesa llama al elfo gruñón «Eldream» (00:08:54.440); encaja en el encargo anterior de los elfos, pero no se crea otra identidad ni se atribuye una orden nueva inequívoca a Eldrath.",
+    "Ruta de Angelique: segundo giro poco claro en original (00:11:10.240); Tesa recapitula izquierda. No inventar coordenadas o un trazado de mapa.",
+    "Conjuro de Patata al corte: el VTT solo permite nivel tres, ataque e impacto, sin nombre o daño. Su capacidad previa transcrita «trundez» se interpreta por la respuesta como expulsión de no muertos, conservando limitación."
+  ],
+  "contradicciones": [
+    "Tesa dice primero tres días con Leo y después tres/cuatro y cuatro: diferencia de expresión sin fecha exacta conciliada.",
+    "La frase de resolución de expulsión dice todos menos uno atemorizados y después menciona de modo confuso un esqueleto que ha fallado: conservar resultado general sin fabricar un recuento de tiradas."
+  ],
+  "nombres_dudosos": [
+    "Écil (amigo de Leo; posible Eztli)",
+    "Eldream (mención al elfo gruñón)"
+  ],
+  "posibles_puentes": [
+    "Bloque 2 empieza después del impacto de Patata. Integrar desenlace, enemigos restantes, recuperación de veneno, efectos de expulsión y posible botín sin cerrar aquí esos arcos.",
+    "Relacionar la advertencia de Tesa con los cadáveres y el dragón de capítulos 31/40, sin identificar cuerpos ni responsables por similitud de vegetación.",
+    "El cuerpo colgado de Bonny amplía las consecuencias posteriores al capítulo 43 y puede actualizar preguntas de esa etapa asignadas a otro bloque; las deudas antiguas de este reparto permanecen sin cuantía.",
+    "Distinguir los desconocidos de la taberna de Iktan de los ocupantes de Shiaru: no hay vínculo probado.",
+    "La joya de Angelique y su relación pendiente pueden retomarse después; no dar por fallido el encargo por ausencia de entrega en este intervalo."
+  ],
+  "identidad_resuelta_por_coordinador": {
+    "nombre": "Mictlan",
+    "variantes_vtt": [
+      "Mlan",
+      "Mik",
+      "mi clan"
+    ],
+    "fuente_escrita": "x-1531013198478708756",
+    "alcance": "Solo identificación del personaje; sin importar acciones posteriores a este capítulo."
+  }
+}

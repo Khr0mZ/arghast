@@ -27,10 +27,23 @@ class CatalogTests(unittest.TestCase):
                             ('Eldrat', 'Erendriel'), ('Leona', 'Leo'),
                             ('Marina', 'Marina, la sirena')):
             self.assertNotEqual(self.aliases[left], self.aliases[right])
-            self.assertIn(left, self.entities)
-            self.assertIn(right, self.entities)
+            self.assertIn(self.aliases[left], self.entities)
+            self.assertIn(self.aliases[right], self.entities)
         self.assertEqual(len({self.aliases[f'Merlucilla {i}']
                               for i in ('I','II','III','IV','V')}), 5)
+
+    def test_confirmed_names_keep_legacy_search_and_separate_dragons(self):
+        self.assertEqual(self.aliases['Eldrat'], 'Eldrath')
+        self.assertEqual(self.aliases['Triel'], 'Tryel')
+        self.assertEqual(self.aliases['Bonnie'], '"Happy" Bonny')
+        self.assertEqual(self.aliases['Dragón verde del bosque de Iktan'], 'Clolgedranx')
+        self.assertNotEqual(self.aliases['Dragón de Erendriel'], self.aliases['Clodidrax'])
+        self.assertNotIn('Hermanos elfos buscados por el dragón', self.entities)
+        dragon = self.entities['Clolgedranx']
+        self.assertTrue({'31-015', '39-016'} <= set(dragon['facts']))
+        self.assertTrue(any(ref.startswith('47-') for ref in dragon['facts']))
+        for name in ('Mictlan', 'Oliver', 'Eldrath', 'Tryel'):
+            self.assertTrue(self.entities[name]['history']['etapas'])
 
     def test_object_names_do_not_create_people(self):
         self.assertEqual(self.entities['Patata']['type'], 'personaje')

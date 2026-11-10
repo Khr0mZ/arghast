@@ -8,11 +8,11 @@ Entrada documentada en los registros citados.
 
 Etiquetas agrupadas: Granja de Patata.
 
-Base para revisar equivalencia: [15-003](../capitulos/15.md), [15-007](../capitulos/15.md), [16-001](../capitulos/16.md).
+Base para revisar equivalencia: [15-003](../capitulos/15.md), [15-007](../capitulos/15.md), [16-001](../capitulos/16.md), [47-001](../capitulos/47.md), [47-017](../capitulos/47.md), [47-018](../capitulos/47.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### Sembrar junto al camino
 
@@ -25,6 +25,12 @@ Fuentes: [01-002 · Proyecto agrícola de Patatamán](../capitulos/01.md) · 00:
 Dos piratas molestan a Patata junto a la granja y unas sombras los arrastran a la selva, desencadenando la investigación del poblado caníbal. Más tarde el director sitúa en una patata cultivada los restos de su espada rota: al recogerla obtiene el Patata Hammer. El huerto sigue creciendo entre amenazas, encargos y ausencias de su dueño, sin que se establezca una explotación plenamente terminada.
 
 Fuentes: [15-003 · Granja de Patata y dos piratas arrastrados](../capitulos/15.md) · 00:07:00.000 · [15-004 · Patata paga cinco monedas y Bonnie encarga eliminar la amenaza](../capitulos/15.md) · 00:12:00.000 · [16-001 · Mapa de la Marina perdido y Patata Hammer](../capitulos/16.md) · 00:00:00.000 · [32-001 · Granja, fuego y ausencia de Bonnie](../capitulos/32.md) · 00:00:00.000.
+
+### El cultivo perdido
+
+Patata encuentra el huerto totalmente destrozado durante su regreso a Shiaru. Más tarde cuenta que huyó después de que los nuevos ocupantes destruyeran su casa. Su búsqueda inmediata de agua y descanso expresa la pérdida de su refugio, sin que se acuerde todavía reconstruirlo o recuperarlo.
+
+Fuentes: [47-001 · Patata encuentra su huerto destruido y el cuerpo de Bonny expuesto](../capitulos/47.md) · 00:00:21.760 · [47-017 · Patata comunica que otros piratas tomaron Shiaru y destruyeron su casa](../capitulos/47.md) · 00:23:00.520 · [47-018 · Patata lava su armadura en el lago](../capitulos/47.md) · 00:24:06.960.
 
 ## Registros y evidencias
 
@@ -51,4 +57,20 @@ Tipo: `explicacion_director`.
 Blink relata que intentó fermentar fruta, sufrió borrachera y diarreas, durmió en un tejado y utilizó el mapa como manta. Una tirada le hace perder el mapa de la Marina. Patata relata que sigue plantando. El director narra que su espada se rompió y quedó clavada en una patata cultivada. Al recogerla, obtiene Patata Hammer, un martillo con tres cargas que añaden un D4 al daño radiante de los hechizos o a la curación.
 
 Original documental sigue preservado en archivo aunque personaje lo pierda. No espada y martillo nuevos simultáneos sin rotura narrada ni receta para fabricar armas.
+
+## [47-001 · Patata encuentra su huerto destruido y el cuerpo de Bonny expuesto](../capitulos/47.md) · 00:00:21.760
+
+Tipo: `explicacion_director`.
+
+Tras el repaso de Patata sobre su huida de Shiaru, el director concreta que regresó allí en uno de sus viajes, encontró el huerto totalmente destrozado y vio el cuerpo de «Happy» Bonny colgado de la entrada. Lo sitúa después de vuelta en la jungla.
+
+Se confirma lo que Patata encontró, sin representar la ejecución ni identificar a quien colgó el cuerpo o destruyó el huerto. La vuelta hacia la jungla se formula como enlace del director.
+
+## [47-017 · Patata comunica que otros piratas tomaron Shiaru y destruyeron su casa](../capitulos/47.md) · 00:23:00.520
+
+Tipo: `declaracion_personaje`.
+
+Patata explica a Tesa que Shiaru era un pueblo de piratas gobernado por Bonny, a quien describe como muy peligrosa. Dice que ahora parece muerta, que expulsaron a quienes vivían allí y que hay nuevos piratas. Atribuye su huida a la destrucción de su casa.
+
+El cuerpo visto por Patata está respaldado por el director al inicio. La expulsión general, los ocupantes y la casa son aquí su relato: no se nombra a sus responsables ni se describe el estado de cada habitante o edificio.
 

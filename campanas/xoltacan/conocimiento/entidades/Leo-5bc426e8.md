@@ -8,11 +8,11 @@ Niño harengon rescatado en el capítulo 21 y protegido por Naór en el 31. La c
 
 Etiquetas agrupadas: Leo (conejo protegido por Naór); Leo (niño harengon).
 
-Base para revisar equivalencia: [21-007](../capitulos/21.md), [31-001](../capitulos/31.md), [31-006](../capitulos/31.md), [45-003](../capitulos/45.md), [45-004](../capitulos/45.md), [45-010](../capitulos/45.md), [45-018](../capitulos/45.md), [46-054](../capitulos/46.md), [46-055](../capitulos/46.md), [46-056](../capitulos/46.md).
+Base para revisar equivalencia: [21-007](../capitulos/21.md), [31-001](../capitulos/31.md), [31-006](../capitulos/31.md), [45-003](../capitulos/45.md), [45-004](../capitulos/45.md), [45-010](../capitulos/45.md), [45-018](../capitulos/45.md), [46-054](../capitulos/46.md), [46-055](../capitulos/46.md), [46-056](../capitulos/46.md), [47-004](../capitulos/47.md), [47-005](../capitulos/47.md), [47-006](../capitulos/47.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 46.
+Relato revisado hasta el capítulo 47.
 
 ### Un niño que esperaba a sus padres
 
@@ -43,6 +43,12 @@ Fuentes: [45-003 · La directora reprocha a Naór la conducta escolar de Leo](..
 Leo sale del colegio con Etley y vuelve a desafiar a la profesora. Ante sus insultos, Citlali lo golpea con la alpargata y le exige que modere el lenguaje. El niño protesta diciendo que Naór es su madre y la princesa de Atlan; después sale llorando a buscarla. La sesión no muestra ese encuentro ni una reprimenda posterior de Tesara.
 
 Fuentes: [46-054 · Citlali encuentra a Etley con Leo a la salida del colegio](../capitulos/46.md) · 01:58:52.520 · [46-055 · Miausi invita a Citlali a la reunión de madres](../capitulos/46.md) · 02:00:55.719 · [46-056 · Citlali reprende a Leo y se lleva a Etley](../capitulos/46.md) · 02:02:00.520.
+
+### Una queja que no consigue la defensa de Tesa
+
+Leo acusa a una mujer de haberle pegado en el colegio después de llevarse a su amigo. También reprocha a Tesa que no lo protegiera y amenaza con contárselo a su madre. Tesa duda de su conducta y él responde con una burla sobre su edad. Tras recibir un golpe, agacha las orejas pero todavía se despide con un gesto insultante. Corre al interior del colegio cuando ella saca el látigo.
+
+Fuentes: [47-004 · Tesa lleva a Leo al colegio y reclama que vuelva su madre](../capitulos/47.md) · 00:03:27.879 · [47-005 · Leo acusa a una mujer de haberle pegado en el colegio](../capitulos/47.md) · 00:03:57.720 · [47-006 · Leo entra en el colegio después de provocar a Tesa](../capitulos/47.md) · 00:04:56.680.
 
 ## Registros y evidencias
 
@@ -357,4 +363,44 @@ Tipo: `hecho_confirmado`.
 Mientras Ione negocia, Citlali habla con Etley y le insiste en que sea un buen pollito y no imite las malas palabras de Leo. La cría se distrae con una mariposa. El director recuerda al cierre que lleva gorro y mochila del colegio, aunque sigue siendo un animal que no entiende por qué está allí.
 
 La intención educativa de Citlali no prueba que Etley aprenda a hablar, comprenda las explicaciones o pase a ser un niño humano.
+
+## [47-002 · Tesa combina el cuidado de Leo con la investigación del dragón](../capitulos/47.md) · 00:01:13.880
+
+Tipo: `declaracion_personaje`.
+
+La jugadora recuerda que Tesa cuida a un conejo maleducado e intenta dedicar sus ratos libres a investigar el encargo de los elfos para encontrar al dragón; también busca tiempo para sus libros y su vino.
+
+Es una recapitulación de actividad e intención; no demuestra que ya haya encontrado al dragón, realizado la caza o completado una investigación.
+
+## [47-004 · Tesa lleva a Leo al colegio y reclama que vuelva su madre](../capitulos/47.md) · 00:03:27.879
+
+Tipo: `hecho_confirmado`.
+
+En Iktan, Tesa acompaña a Leo de la mano al colegio. Se queja de que lleva tres días con ella y considera que debería hacerse cargo su madre.
+
+Más tarde Tesa habla de tres o cuatro días y de cuatro días: no se convierte esa vacilación en una cronología exacta. La madre no aparece ni se la nombra aquí.
+
+## [47-005 · Leo acusa a una mujer de haberle pegado en el colegio](../capitulos/47.md) · 00:03:57.720
+
+Tipo: `declaracion_personaje`.
+
+Leo amenaza con contar a su madre que una mujer le pegó varias veces. Tesa cree primero que se escapó de los deberes y dice haberlo buscado por la taberna; él replica que estaba en el colegio, que una señora se llevó a su amigo y después le pegó. Ante las preguntas admite de forma evasiva haberla insultado y niega haber intentado robarla.
+
+El amigo aparece como «Écil» en el VTT. El contexto anterior permite proponer un cotejo con Eztli, pero no asignar aquí inequívocamente ese nombre ni atribuir la agresión a Citlali. Es testimonio de Leo, no una repetición observada del incidente.
+
+## [47-006 · Leo entra en el colegio después de provocar a Tesa](../capitulos/47.md) · 00:04:56.680
+
+Tipo: `hecho_confirmado`.
+
+Cuando Leo dice que Tesa parece vieja, ella declara que le da un golpe y él agacha las orejas. El niño insiste en que su madre castigará a las dos mujeres, hace un gesto insultante desde la puerta y sale corriendo hacia dentro cuando Tesa saca el látigo. Tesa queda libre para volver a la taberna.
+
+No se fija el tipo o daño del golpe. Sacar el látigo no prueba que llegue a azotarlo. La frase sobre el tío Johnny pertenece al comentario de Tesa y no desarrolla una nueva historia familiar.
+
+## [47-087 · Walulu quiere hablar con Naór y pide compañía para una reunión futura](../capitulos/47.md) · 02:14:38.559
+
+Tipo: `declaracion_personaje`.
+
+Walulu pregunta si Naór ha vuelto y dice que necesita hablar con ella. Tesara responde que lleva días cuidando del niño que le dejó. Walulu plantea reunirlos cuando regrese y pide que los acompañen; Tesara acepta contar con ella.
+
+La reunión queda futura; no se muestra el regreso de Naór ni se declara aquí el destino o la lista completa de convocados. La identificación del niño con Leo procede de su continuidad como menor dejado por Naór, sin convertir la frase en filiación biológica. El numeral del cuidado se corta en «Llevo tr»: no se fija una cifra de días.
 

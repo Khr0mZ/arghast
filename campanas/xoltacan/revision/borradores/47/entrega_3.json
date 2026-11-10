@@ -1,0 +1,2567 @@
+{
+  "bloque": 3,
+  "capitulo": 47,
+  "titulo": "Cadáveres",
+  "lectura_completa": true,
+  "primer_segmento": "c004115",
+  "ultimo_segmento": "c006169",
+  "cobertura_lectura": [
+    {
+      "desde_indice": 0,
+      "hasta_indice": 179,
+      "primer_segmento": "c004115",
+      "ultimo_segmento": "c004473",
+      "inicio": "01:34:05.719",
+      "fin": "01:41:33.030"
+    },
+    {
+      "desde_indice": 180,
+      "hasta_indice": 359,
+      "primer_segmento": "c004475",
+      "ultimo_segmento": "c004833",
+      "inicio": "01:41:33.040",
+      "fin": "01:49:29.629"
+    },
+    {
+      "desde_indice": 360,
+      "hasta_indice": 539,
+      "primer_segmento": "c004835",
+      "ultimo_segmento": "c005193",
+      "inicio": "01:49:29.639",
+      "fin": "01:58:11.669"
+    },
+    {
+      "desde_indice": 540,
+      "hasta_indice": 719,
+      "primer_segmento": "c005195",
+      "ultimo_segmento": "c005553",
+      "inicio": "01:58:11.679",
+      "fin": "02:05:57.470"
+    },
+    {
+      "desde_indice": 720,
+      "hasta_indice": 899,
+      "primer_segmento": "c005555",
+      "ultimo_segmento": "c005913",
+      "inicio": "02:05:57.480",
+      "fin": "02:14:34.310"
+    },
+    {
+      "desde_indice": 900,
+      "hasta_indice": 1027,
+      "primer_segmento": "c005915",
+      "ultimo_segmento": "c006169",
+      "inicio": "02:14:34.320",
+      "fin": "02:20:12.399"
+    }
+  ],
+  "fuente_sha256": "af82762727aa32ebc82b92459bdc4b039b6b17839c0f994d26f0a5aaf88e983e",
+  "segmentos_leidos": 1028,
+  "equivalencia_markdown_json": "Verificada íntegramente: los 1028 textos originales y normalizados son iguales y forman exactamente bloque_3.md.",
+  "cobertura_preguntas": [
+    {
+      "desde_indice": 0,
+      "hasta_indice": 17,
+      "primera": "P31-001",
+      "ultima": "P34-004"
+    },
+    {
+      "desde_indice": 18,
+      "hasta_indice": 37,
+      "primera": "P35-001",
+      "ultima": "P39-004"
+    },
+    {
+      "desde_indice": 38,
+      "hasta_indice": 56,
+      "primera": "P39-005",
+      "ultima": "P41-011"
+    },
+    {
+      "desde_indice": 57,
+      "hasta_indice": 76,
+      "primera": "P42-001",
+      "ultima": "P44-005"
+    },
+    {
+      "desde_indice": 77,
+      "hasta_indice": 94,
+      "primera": "P44-006",
+      "ultima": "P46-008"
+    }
+  ],
+  "etapas": [
+    {
+      "titulo": "La voz al oído y la alarma de Tesara",
+      "texto": "Patata está curando al felino cuando una magia salida de los zombis lo vuelve invisible. El director explica que es un efecto de una carta de la mesa y más tarde le devuelve la visibilidad. En la maleza, Tesara escucha la voz del dragón junto a su oído y nota el aliento de la criatura. Intenta alcanzarla con el látigo, pero falla. Se destraba, sale de la vegetación a trompicones y cae de culo antes de apuntar con la pistola hacia el escondite. Chopito sale del frasco que abre Tentacol, la abofetea y le reprocha esas historias de dragones cuando deberían buscar a los elfos. Ella insiste: se trata de un dragón verde que ya los emboscó con zombis y jugó con sus mentes. Quiere impedir que sus nuevos compañeros se fíen de una voz que amenaza a dos amigos suyos.",
+      "referencias": [
+        "47-301",
+        "47-302",
+        "47-303",
+        "47-304",
+        "47-305"
+      ]
+    },
+    {
+      "titulo": "La aparición y el precio de los elfos",
+      "texto": "Antes de que puedan decidir qué hacer, unas raíces se enredan en los brazos y las piernas de Tesara, el felino, Patata y Tentacol. Todos quedan inmovilizados. La vegetación se mueve y el dragón se muestra, enroscado entre las ramas; baja con una agilidad silenciosa y comienza a rodearlos. Exige que le lleven a los elfos y amenaza con devorarlos y sumarlos a su hueste. También ofrece satisfacer sus deseos. Chopito anima a negociar, pero rechaza la propuesta de recibir Perlasal porque lo considera ya suyo. El dragón responde que sus súbditos no lo respetan. Al explicar su interés por los elfos, afirma que alguien le ha prometido a él una recompensa y alude a una sierpe mayor. Tesara se niega a entregar a sus amigos. La criatura forma una jaula con su zarpa, la mira con ojos brillantes y nombra a Oliver. Ella revela en su respuesta que es su hermano, sin comprender cómo lo sabe. El dragón les concede una semana y amenaza con mandar a sus muertos contra Iktan. Después se interna invisible en la jungla; aún se distingue el movimiento de la vegetación a su paso.",
+      "referencias": [
+        "47-306",
+        "47-307",
+        "47-308",
+        "47-309",
+        "47-310",
+        "47-311",
+        "47-312",
+        "47-313"
+      ]
+    },
+    {
+      "titulo": "La confianza discutida y la vuelta a la ciudad",
+      "texto": "Chopito trata de tranquilizar a Tesara y llama farol a las amenazas, sin que la escena pruebe que tenga razón. Los viajeros quieren descansar y encontrar a los hermanos. Tesara explica que combatieron juntos al llegar a Iktan y que se salvaron mutuamente. El felino no comparte esa confianza: pregunta si los elfos la utilizaron y duda de que sean preferibles al dragón. La historiadora los defiende como compañeros y buenas personas. Finalmente guía el regreso a la ciudad de plantas y colores. Nada más llegar corre a la taberna a buscarlos. Patata y el felino la siguen; Tentacol y Chopito se quedan con Tortas e imitan su meditación.",
+      "referencias": [
+        "47-313",
+        "47-314",
+        "47-315",
+        "47-316"
+      ]
+    },
+    {
+      "titulo": "Las noticias incompletas de la taberna",
+      "texto": "Patata reconoce en la taberna a los piratas de Shiaru. Cuentan que los echaron del pueblo y que tuvieron que refugiarse allí. Le ofrecen cerveza y comentan que están agotando las reservas de la encargada. Tesara pregunta con urgencia por los hermanos elfos. Angelique dice que la muchacha salió hace días para aprender a bucear con una patrulla y que aún no han regresado. La posibilidad de un ahogamiento es una conjetura suya. Del hermano sabe que entrenaba esa mañana, pero no puede localizarlo ahora. Cuando los visitantes explican que el dragón ha amenazado con destruir la ciudad si no recibe a los elfos, la tabernera propone avisar a Walulu. Tesara decide llevar el aviso y el felino la acompaña por desconfianza. Patata se queda con su cerveza.",
+      "referencias": [
+        "47-317",
+        "47-318",
+        "47-319"
+      ]
+    },
+    {
+      "titulo": "El libro, las ruinas y la protección de Iktan",
+      "texto": "Walulu los recibe mientras prepara medicinas con plantas. La amenaza del dragón le provoca una sonrisa que sorprende a Tesara. La dirigente abre un gran libro de historias de Iktan y explica que, hace ciento veinte años, tras el ataque del dragón al que vincula con las ruinas, un antiguo líder y otros miembros de las tribus hicieron un ritual de protección. Según ella, ningún dragón puede entrar en la ciudad, ni siquiera sobrevolarla para rociarla de veneno. La protección tiene un límite decisivo: los no muertos no quedan excluidos. Para ellos confía en la guardia. Walulu razona que la exigencia de sacar a los elfos demuestra precisamente la incapacidad del dragón para ir a por ellos dentro de Iktan. Tesara pide una debilidad o una estrategia para matarlo. La dirigente informa de varias guaridas dispersas por la jungla y acepta consultar los libros antiguos, aunque todavía no ofrece una solución. El felino insiste en que entregarle a los elfos sería más fácil; Walulu mantiene que son bienvenidos. Quiere hablar con Naór cuando vuelva y solicita que acompañen una futura reunión. Tesara acepta, tras quejarse de que lleva días cuidando al niño que Naór le dejó. Walulu vuelve a sus estantes y empieza a buscar pergaminos.",
+      "referencias": [
+        "47-319",
+        "47-320",
+        "47-321",
+        "47-322",
+        "47-323",
+        "47-324",
+        "47-325"
+      ]
+    },
+    {
+      "titulo": "Los sacrificios y el cierre entre compañeros",
+      "texto": "De vuelta a la taberna, Tesara discute con el felino sobre el valor de la vida. Él justifica un sacrificio por un bien mayor y considera que los dioses necesitan ofrendas; ella se opone a entregar vidas como monedas. No alcanzan un acuerdo ni entregan a los elfos. En el camino ven a Tortas y la imitación de Tentacol y Chopito: el viajero parece una roca mediante prestidigitación y el pulpo se ha colocado encima como el anciano. Dentro, Patata intenta cortejar a Angelique, que termina hablándole del recién llegado Zoltan, su herida y sus chispas. Promete presentárselo. El capítulo cierra con los visitantes de regreso en Iktan, una semana de plazo por delante y la investigación de Walulu recién iniciada.",
+      "referencias": [
+        "47-326",
+        "47-327",
+        "47-328"
+      ]
+    }
+  ],
+  "afirmaciones": [
+    {
+      "id": "47-301",
+      "titulo": "Patata desaparece durante la curación y vuelve a ser visible",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Mientras Patata está curando al felino, una magia que el director describe como salida de los zombis vuelve invisible a toda criatura dentro de treinta pies; en la escena afecta a Patata. El director aclara que procede de una carta de la mesa. Más adelante Patata vuelve a aparecer y se precisa una duración de un minuto.",
+      "inicio": "01:34:05.719",
+      "fin": "01:42:50.550",
+      "cita": "estoy estoy curando y desaparezco.",
+      "evidencia_cue": {
+        "inicio": "01:34:33.920",
+        "fin": "01:34:36.350",
+        "texto": "estoy estoy curando y desaparezco."
+      },
+      "entidades": [
+        "Patata",
+        "Mictlan"
+      ],
+      "ambito": "encuentro con el dragón y regreso a Iktan",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se establece el acceso de Madame Oghma a estos sucesos o conversaciones.",
+      "confianza": "lectura completa de subtítulos automáticos; audio no cotejado",
+      "limitacion": "No atribuir la invisibilidad a una técnica aprendida de Patata, al dragón o a una curación fallida. El minuto es duración declarada del efecto; la conversación ocupa más tiempo de grabación. La curación venía del bloque anterior y este tramo no fija su cantidad."
+    },
+    {
+      "id": "47-302",
+      "titulo": "La presencia invisible susurra junto al oído de Tesara",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tesara, escondida en la vegetación, escucha junto a su oído una voz que comenta sus pistolitas. El director confirma que la criatura es invisible, que las hojas se han movido a su alrededor y que ella nota su aliento. La criatura se comporta como si la oliera y califica el hallazgo de interesante.",
+      "inicio": "01:35:15.560",
+      "fin": "01:36:44.350",
+      "cita": "susurrando al oído.",
+      "evidencia_cue": {
+        "inicio": "01:36:01.760",
+        "fin": "01:36:05.390",
+        "texto": "susurrando al oído."
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Clolgedranx"
+      ],
+      "ambito": "encuentro con el dragón y regreso a Iktan",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se establece el acceso de Madame Oghma a estos sucesos o conversaciones.",
+      "confianza": "lectura completa de subtítulos automáticos; audio no cotejado",
+      "limitacion": "La escena identifica después a la presencia como el dragón que se muestra. Las bromas de comprar leche o de memes no son encargos narrativos. No afirmar que los demás ven ya al dragón."
+    },
+    {
+      "id": "47-303",
+      "titulo": "Tesara falla el latigazo y sale de la maleza",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tesara intenta golpear con el látigo la dirección de la voz y falla. Tras corregir la reacción de movimiento que pretendía usar, se destraba y sale treinta pies de la vegetación. Tropieza, cae de culo, toma la pistola y avisa a los demás de que hay un dragón escondido allí.",
+      "inicio": "01:37:15.239",
+      "fin": "01:40:44.990",
+      "cita": "Tenemos tenemos un dragón escondido ahí.",
+      "evidencia_cue": {
+        "inicio": "01:40:30.719",
+        "fin": "01:40:33.550",
+        "texto": "Tenemos tenemos un dragón escondido ahí."
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Clolgedranx"
+      ],
+      "ambito": "encuentro con el dragón y regreso a Iktan",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se establece el acceso de Madame Oghma a estos sucesos o conversaciones.",
+      "confianza": "lectura completa de subtítulos automáticos; audio no cotejado",
+      "limitacion": "El latigazo no hiere a la criatura. La retirada válida es la acción adicional de destrabarse y el movimiento de treinta pies; la reacción de quince pies propuesta antes se corrige. No se adjudica un disparo."
+    },
+    {
+      "id": "47-304",
+      "titulo": "Chopito abofetea a Tesara y cuestiona su alarma",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tentacol se arrodilla junto a Tesara y abre el recipiente de Chopito. El pulpo sale, se acerca a la cara de ella y le da un guantazo para hacerla reaccionar. Reprocha que, cuando deben ir a buscar a los elfos, ella se meta en historias de dragones. Tesara insiste en que la voz pertenece a un dragón verde invisible.",
+      "inicio": "01:40:45.000",
+      "fin": "01:41:36.145",
+      "cita": "un guantazo.",
+      "evidencia_cue": {
+        "inicio": "01:41:03.360",
+        "fin": "01:41:05.870",
+        "texto": "un guantazo."
+      },
+      "entidades": [
+        "Tentacol",
+        "Chopito",
+        "Tesara Queen",
+        "Clolgedranx"
+      ],
+      "ambito": "encuentro con el dragón y regreso a Iktan",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se establece el acceso de Madame Oghma a estos sucesos o conversaciones.",
+      "confianza": "lectura completa de subtítulos automáticos; audio no cotejado",
+      "limitacion": "La incredulidad del pulpo es su postura, no una refutación del encuentro. El aviso de Tesara de cocinarlo a la gallega es una amenaza verbal, sin daño consumado o muerte del pulpo."
+    },
+    {
+      "id": "47-305",
+      "titulo": "Tesara defiende a los elfos y recuerda una emboscada anterior",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Tesara pide que no se fíen del dragón porque quiere acabar con dos amigos suyos. Explica que lo conoce de un ataque anterior: les sacó un ejército de zombis mientras se ocultaba y jugaba con sus mentes. Ante la mención del dragón verde se ofrece protección contra venenos para quienes permanezcan cerca.",
+      "inicio": "01:42:01.679",
+      "fin": "01:44:52.910",
+      "cita": "un ejército de de zombies mientras él",
+      "evidencia_cue": {
+        "inicio": "01:43:44.159",
+        "fin": "01:43:46.350",
+        "texto": "un ejército de de zombies mientras él"
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Clolgedranx",
+        "Hermanos elfos buscados por el dragón"
+      ],
+      "ambito": "encuentro con el dragón y regreso a Iktan",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se establece el acceso de Madame Oghma a estos sucesos o conversaciones.",
+      "confianza": "lectura completa de subtítulos automáticos; audio no cotejado",
+      "limitacion": "El relato del ataque anterior conserva atribución a Tesara. La promesa de protección contra venenos no demuestra inmunidad, duración o una salvación ya superada; el hablante de esa oferta no está rotulado en el VTT y queda sin atribuir."
+    },
+    {
+      "id": "47-306",
+      "titulo": "Las raíces inmovilizan al grupo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Cuando Tesara trata de observar dónde sigue la criatura, nota raíces entre los dedos, en el brazo y bajo el cuerpo. También rodean los pies del felino, Patata y Tentacol. Tras las salvaciones de fuerza, el director declara que todos quedan atrapados y no logran moverse haciendo fuerza.",
+      "inicio": "01:44:52.920",
+      "fin": "01:46:28.750",
+      "cita": "atrapan a todos que os dejan atrapados",
+      "evidencia_cue": {
+        "inicio": "01:46:19.280",
+        "fin": "01:46:21.790",
+        "texto": "atrapan a todos que os dejan atrapados"
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Mictlan",
+        "Patata",
+        "Tentacol",
+        "Clolgedranx"
+      ],
+      "ambito": "encuentro con el dragón y regreso a Iktan",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se establece el acceso de Madame Oghma a estos sucesos o conversaciones.",
+      "confianza": "lectura completa de subtítulos automáticos; audio no cotejado",
+      "limitacion": "No convertir el efecto en daño físico, muerte o control mental. El contexto lo relaciona con la aparición del dragón, sin que se verbalice aquí un conjuro de nombre determinado."
+    },
+    {
+      "id": "47-307",
+      "titulo": "El dragón se muestra y exige a los elfos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La vegetación se agita y el dragón deja de estar invisible. Aparece enroscado entre las ramas con la cola y baja de los árboles con movimientos ágiles, silenciosos para su tamaño. Mientras el grupo está atrapado exige que le lleven a los elfos; amenaza con comerse a cada uno y añadirlos a su hueste de muertos.",
+      "inicio": "01:46:39.840",
+      "fin": "01:48:14.790",
+      "cita": "o me comeré a cada uno de vosotros.",
+      "evidencia_cue": {
+        "inicio": "01:47:33.840",
+        "fin": "01:47:40.350",
+        "texto": "o me comeré a cada uno de vosotros."
+      },
+      "entidades": [
+        "Clolgedranx",
+        "Tesara Queen",
+        "Mictlan",
+        "Patata",
+        "Tentacol",
+        "Hermanos elfos buscados por el dragón"
+      ],
+      "ambito": "encuentro con el dragón y regreso a Iktan",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se establece el acceso de Madame Oghma a estos sucesos o conversaciones.",
+      "confianza": "lectura completa de subtítulos automáticos; audio no cotejado",
+      "limitacion": "La amenaza y la hueste son palabras del dragón. En este pasaje no devora a nadie, no convierte al grupo en muertos ni exhibe un nuevo ejército materializado."
+    },
+    {
+      "id": "47-308",
+      "titulo": "La recompensa ofrecida alcanza los deseos de los viajeros",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "El dragón avanza alrededor de los viajeros con su cuerpo serpentino y promete recompensarlos con aquello que desean si le llevan a los elfos.",
+      "inicio": "01:48:20.480",
+      "fin": "01:49:04.270",
+      "cita": "con aquello que vosotros deseáis.\"",
+      "evidencia_cue": {
+        "inicio": "01:48:52.320",
+        "fin": "01:48:57.870",
+        "texto": "con aquello que vosotros deseáis.\""
+      },
+      "entidades": [
+        "Clolgedranx",
+        "Hermanos elfos buscados por el dragón"
+      ],
+      "ambito": "encuentro con el dragón y regreso a Iktan",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se establece el acceso de Madame Oghma a estos sucesos o conversaciones.",
+      "confianza": "lectura completa de subtítulos automáticos; audio no cotejado",
+      "limitacion": "Es una oferta intimidatoria, sin pago, pacto aceptado o demostración de poder conceder cualquier deseo. No definir su especie de bestiario solo por el cuerpo serpentino."
+    },
+    {
+      "id": "47-309",
+      "titulo": "Chopito rechaza que le ofrezcan Perlasal",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Chopito anima mentalmente a Tentacol a negociar. Tentacol pregunta qué puede ofrecer una criatura cuyos dominios parecen limitarse al bosque. El dragón observa al pulpo, le brillan los ojos y dice tener magia poderosa y poder ofrecerle Perlasal. Chopito rechaza que le vendan lo que considera suyo; el dragón replica que entonces sus súbditos no lo respetan.",
+      "inicio": "01:49:04.280",
+      "fin": "01:50:51.109",
+      "cita": "Intentas venderme lo que es mío. [risas]",
+      "evidencia_cue": {
+        "inicio": "01:50:20.520",
+        "fin": "01:50:23.709",
+        "texto": "Intentas venderme lo que es mío. [risas]"
+      },
+      "entidades": [
+        "Chopito",
+        "Tentacol",
+        "Clolgedranx",
+        "Perlasal"
+      ],
+      "ambito": "encuentro con el dragón y regreso a Iktan",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se establece el acceso de Madame Oghma a estos sucesos o conversaciones.",
+      "confianza": "lectura completa de subtítulos automáticos; audio no cotejado",
+      "limitacion": "Ni la oferta ni la reivindicación del pulpo prueban soberanía efectiva, posesión o control del dragón sobre Perlasal. Los ojos brillantes no explican por sí solos qué magia realiza."
+    },
+    {
+      "id": "47-310",
+      "titulo": "El dragón declara que alguien paga por los elfos",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Preguntado por qué busca a los elfos, el dragón afirma que a él también le han ofrecido una recompensa y que alguien los quiere. Ante el comentario de que una gran sierpe no debería estar al mando de nadie, responde que siempre hay una sierpe más grande.",
+      "inicio": "01:50:51.119",
+      "fin": "01:51:33.270",
+      "cita": "a mí me han ofrecido una recompensa por",
+      "evidencia_cue": {
+        "inicio": "01:51:02.760",
+        "fin": "01:51:05.470",
+        "texto": "a mí me han ofrecido una recompensa por"
+      },
+      "entidades": [
+        "Clolgedranx",
+        "Hermanos elfos buscados por el dragón"
+      ],
+      "ambito": "encuentro con el dragón y regreso a Iktan",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se establece el acceso de Madame Oghma a estos sucesos o conversaciones.",
+      "confianza": "lectura completa de subtítulos automáticos; audio no cotejado",
+      "limitacion": "No se nombra al interesado, su especie o su organización. La metáfora de una sierpe mayor no prueba que el contratante sea un dragón, una serpiente o la entidad vinculada a Citlali."
+    },
+    {
+      "id": "47-311",
+      "titulo": "El ultimátum da una semana y amenaza a la ciudad",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "El dragón anuncia que enviará su hueste de no muertos a destruir la ciudad si agota su paciencia sin recibir a los elfos. Tras la negativa de Tesara y la amenaza personal contra Oliver, fija un plazo de una semana.",
+      "inicio": "01:51:33.280",
+      "fin": "01:53:03.390",
+      "cita": "tenéis una semana.\"",
+      "evidencia_cue": {
+        "inicio": "01:52:59.880",
+        "fin": "01:53:03.390",
+        "texto": "tenéis una semana.\""
+      },
+      "entidades": [
+        "Clolgedranx",
+        "Hermanos elfos buscados por el dragón",
+        "Iktan",
+        "Tesara Queen"
+      ],
+      "ambito": "encuentro con el dragón y regreso a Iktan",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se establece el acceso de Madame Oghma a estos sucesos o conversaciones.",
+      "confianza": "lectura completa de subtítulos automáticos; audio no cotejado",
+      "limitacion": "La destrucción sigue siendo una amenaza condicional. No ha transcurrido el plazo dentro de este bloque ni se narra el asalto o la entrega de los elfos."
+    },
+    {
+      "id": "47-312",
+      "titulo": "El dragón nombra a Oliver, hermano de Tesara",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Tesara se niega a entregar a sus amigos. El dragón pone la zarpa sobre ella a modo de jaula, sin aplastarla; le brillan los ojos y afirma que Oliver será suyo. Ella pregunta cómo sabe nada de su hermano. La criatura responde que ella misma se lo dice.",
+      "inicio": "01:52:00.000",
+      "fin": "01:52:58.030",
+      "cita": "\"Oliver será mío.",
+      "evidencia_cue": {
+        "inicio": "01:52:37.079",
+        "fin": "01:52:41.790",
+        "texto": "\"Oliver será mío."
+      },
+      "entidades": [
+        "Clolgedranx",
+        "Tesara Queen",
+        "Oliver"
+      ],
+      "ambito": "encuentro con el dragón y regreso a Iktan",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se establece el acceso de Madame Oghma a estos sucesos o conversaciones.",
+      "confianza": "lectura completa de subtítulos automáticos; audio no cotejado",
+      "limitacion": "La respuesta de Tesara identifica a Oliver como su hermano. No demuestra dónde está él, que esté capturado, una invasión mental de mecanismo conocido o que ella haya comunicado voluntariamente la información al dragón."
+    },
+    {
+      "id": "47-313",
+      "titulo": "La criatura se retira invisible y los viajeros deciden volver",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El dragón se interna otra vez en la jungla con movimientos sigilosos y se vuelve invisible; la vegetación que aparta aún permite seguir su volumen. Tesara le grita una amenaza de represalia. Chopito la consuela diciendo que la criatura se marca un farol, y el grupo empieza a plantear el regreso para descansar y encontrar a los hermanos.",
+      "inicio": "01:53:03.400",
+      "fin": "01:54:52.350",
+      "cita": "y veis como se hace invisible entrando",
+      "evidencia_cue": {
+        "inicio": "01:53:34.920",
+        "fin": "01:53:37.589",
+        "texto": "y veis como se hace invisible entrando"
+      },
+      "entidades": [
+        "Clolgedranx",
+        "Tesara Queen",
+        "Chopito",
+        "Hermanos elfos buscados por el dragón"
+      ],
+      "ambito": "encuentro con el dragón y regreso a Iktan",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se establece el acceso de Madame Oghma a estos sucesos o conversaciones.",
+      "confianza": "lectura completa de subtítulos automáticos; audio no cotejado",
+      "limitacion": "La afirmación del pulpo de ser más poderoso es una fanfarronada. No prueba que el dragón mienta, que haya sido derrotado o que otra persona le arranque la piel. No se explica con precisión cómo termina el agarre de las raíces."
+    },
+    {
+      "id": "47-314",
+      "titulo": "Tesara sostiene la confianza en sus compañeros elfos",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Tesara explica que los buscados son dos hermanos elfos, compañeros con quienes combatió contra la criatura al llegar a Iktan. Dice que se salvaron mutuamente y los considera raros pero buenas personas que quieren matar al dragón. El felino cuestiona si la utilizaron y mantiene su desconfianza; Chopito elogia la capacidad del dragón para sembrar dudas.",
+      "inicio": "01:54:52.360",
+      "fin": "01:57:54.950",
+      "cita": "sí, son son dos hermanos elfo. Eh, son",
+      "evidencia_cue": {
+        "inicio": "01:55:01.199",
+        "fin": "01:55:05.629",
+        "texto": "sí, son son dos hermanos elfo. Eh, son"
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Mictlan",
+        "Chopito",
+        "Hermanos elfos buscados por el dragón",
+        "Clolgedranx"
+      ],
+      "ambito": "encuentro con el dragón y regreso a Iktan",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se establece el acceso de Madame Oghma a estos sucesos o conversaciones.",
+      "confianza": "lectura completa de subtítulos automáticos; audio no cotejado",
+      "limitacion": "Las sospechas del felino no prueban traición. Los reconocimientos «el Dream/Eldrin» y «Miriam» se conservan como problema nominal pendiente; este bloque no basta para imponer identidad con Eldrath y Tryel."
+    },
+    {
+      "id": "47-315",
+      "titulo": "Tesara guía el regreso a Iktan",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los viajeros siguen a Tesara de vuelta a Iktan, ciudad de plantas y colores que algunos aún no conocían. Ella señala la taberna y las ruinas junto al lago y se apresura a buscar a los elfos. Patata y el felino la siguen, este último porque desconfía de ella.",
+      "inicio": "01:57:54.960",
+      "fin": "01:59:07.069",
+      "cita": "llegaríais a esa ciudad. Los que no",
+      "evidencia_cue": {
+        "inicio": "01:58:03.159",
+        "fin": "01:58:06.310",
+        "texto": "llegaríais a esa ciudad. Los que no"
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Mictlan",
+        "Patata",
+        "Tentacol",
+        "Iktan",
+        "El Huevo Emplumado"
+      ],
+      "ambito": "encuentro con el dragón y regreso a Iktan",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se establece el acceso de Madame Oghma a estos sucesos o conversaciones.",
+      "confianza": "lectura completa de subtítulos automáticos; audio no cotejado",
+      "limitacion": "No se fija cuánto dura el camino ni una nueva ruta secreta revelada. La llegada a la ciudad no equivale a encontrar a los elfos."
+    },
+    {
+      "id": "47-316",
+      "titulo": "Tentacol y Chopito imitan la meditación de Tortas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tentacol se queda con Chopito junto a Tortas para imitar su postura de meditación, en lugar de entrar con los demás en la taberna. El director los sitúa junto al anciano mientras el otro grupo entra.",
+      "inicio": "01:59:07.079",
+      "fin": "02:00:10.830",
+      "cita": "Vale, pues te quedas ahí junto a Tortas,",
+      "evidencia_cue": {
+        "inicio": "01:59:54.920",
+        "fin": "01:59:58.189",
+        "texto": "Vale, pues te quedas ahí junto a Tortas,"
+      },
+      "entidades": [
+        "Tentacol",
+        "Chopito",
+        "Tortas",
+        "Iktan"
+      ],
+      "ambito": "encuentro con el dragón y regreso a Iktan",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se establece el acceso de Madame Oghma a estos sucesos o conversaciones.",
+      "confianza": "lectura completa de subtítulos automáticos; audio no cotejado",
+      "limitacion": "Las bromas sobre contagiarse una maldición por una encuesta no constituyen una maldición diegética confirmada. No se acredita entrenamiento concluido, nuevo poder o autorización formal como discípulos."
+    },
+    {
+      "id": "47-317",
+      "titulo": "Patata encuentra a los piratas en la taberna de Iktan",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Patata reconoce en la taberna a los piratas que frecuentaban la de Shiaru. Al preguntar por la capitana, ellos responden que los echaron del pueblo y tuvieron que venir hasta allí. Le dan cerveza, que prueba y aprecia, y comentan que están agotando las existencias de la encargada.",
+      "inicio": "02:00:10.840",
+      "fin": "02:02:28.390",
+      "cita": "tuvimos que venir hasta aquí.",
+      "evidencia_cue": {
+        "inicio": "02:00:55.480",
+        "fin": "02:00:58.390",
+        "texto": "tuvimos que venir hasta aquí."
+      },
+      "entidades": [
+        "Patata",
+        "Tripulación del Zampaolas",
+        "Ione",
+        "Angelique",
+        "El Huevo Emplumado",
+        "Shiaru"
+      ],
+      "ambito": "encuentro con el dragón y regreso a Iktan",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se establece el acceso de Madame Oghma a estos sucesos o conversaciones.",
+      "confianza": "lectura completa de subtítulos automáticos; audio no cotejado",
+      "limitacion": "El motivo de la salida de Shiaru es testimonio de los piratas; no identifica quién gobierna ahora ni una nueva inspección del puerto. La descripción de estar en idéntica posición con las mismas botellas es humor de continuidad, no una duplicación o bucle mágico."
+    },
+    {
+      "id": "47-318",
+      "titulo": "Angelique informa de la salida de la elfa y del entrenamiento de su hermano",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Tesara dice a la encargada que el dragón los ha emboscado y pide localizar a los hermanos. Angelique cuenta que la muchacha salió hace días diciendo que iba a entrenar para bucear, acompañada por el pulpo, la leona y otros. Del hermano afirma que lo vio entrenando esa mañana y que suele estar fuera. Añade que la patrulla aún no ha vuelto; su conjetura de que se habrán ahogado no se confirma.",
+      "inicio": "02:02:28.400",
+      "fin": "02:05:32.750",
+      "cita": "entrenar para bucear.\" Y se fue con el",
+      "evidencia_cue": {
+        "inicio": "02:03:33.880",
+        "fin": "02:03:37.229",
+        "texto": "entrenar para bucear.\" Y se fue con el"
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Angelique",
+        "Hermanos elfos buscados por el dragón",
+        "El Huevo Emplumado"
+      ],
+      "ambito": "encuentro con el dragón y regreso a Iktan",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se establece el acceso de Madame Oghma a estos sucesos o conversaciones.",
+      "confianza": "lectura completa de subtítulos automáticos; audio no cotejado",
+      "limitacion": "Son noticias y conjeturas de Angelique, sin escena actual de los hermanos o de la patrulla. Las referencias a un pulpo y una leona no autorizan identificar a cada integrante. «Andrea» es un reconocimiento del trato de Tesara, sin crear otra tabernera ni fijarlo como alias confirmado."
+    },
+    {
+      "id": "47-319",
+      "titulo": "Tesara y el felino llevan el aviso a Walulu",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tras explicar en la taberna que el dragón ha amenazado con la caída de la ciudad, Tesara decide avisar primero a Walulu. Patata permanece con su cerveza; el felino acompaña a la historiadora porque no se fía de ella. Encuentran a Walulu preparando pastas de plantas y medicinas, y Tesara le expone el ultimátum de una semana por los elfos.",
+      "inicio": "02:04:06.960",
+      "fin": "02:08:47.629",
+      "cita": "dado una semana para que le entreguemos",
+      "evidencia_cue": {
+        "inicio": "02:08:39.360",
+        "fin": "02:08:41.109",
+        "texto": "dado una semana para que le entreguemos"
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Mictlan",
+        "Patata",
+        "Walulu",
+        "Iktan",
+        "Clolgedranx"
+      ],
+      "ambito": "encuentro con el dragón y regreso a Iktan",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se establece el acceso de Madame Oghma a estos sucesos o conversaciones.",
+      "confianza": "lectura completa de subtítulos automáticos; audio no cotejado",
+      "limitacion": "La audiencia es sobre el dragón. No confundirla con la consulta pendiente de Citlali e Ione sobre la maldición o dar aquella misión por resuelta."
+    },
+    {
+      "id": "47-320",
+      "titulo": "Walulu remite a un antiguo ritual tras el ataque del dragón",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Walulu reconoce el asunto del dragón que persiguen los hermanos y que atacó a la elfa. Al escuchar la amenaza contra Iktan, sonríe y muestra un gran libro de historias antiguas y relatos de sus dirigentes. Explica que hace ciento veinte años, después del ataque del dragón, el antiguo líder realizó con otros miembros de las tribus un ritual protector. Mira hacia las ruinas al hablar de aquel desastre. Afirma que la protección se hizo contra la magia especial de los dragones y les impide entrar en la ciudad.",
+      "inicio": "02:07:40.440",
+      "fin": "02:10:27.189",
+      "cita": "120 años, nuestro antiguo líder hizo un",
+      "evidencia_cue": {
+        "inicio": "02:09:44.559",
+        "fin": "02:09:48.149",
+        "texto": "120 años, nuestro antiguo líder hizo un"
+      },
+      "entidades": [
+        "Walulu",
+        "Clolgedranx",
+        "Iktan",
+        "Libro histórico mostrado por Walulu",
+        "Hermanos elfos buscados por el dragón"
+      ],
+      "ambito": "encuentro con el dragón y regreso a Iktan",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se establece el acceso de Madame Oghma a estos sucesos o conversaciones.",
+      "confianza": "lectura completa de subtítulos automáticos; audio no cotejado",
+      "limitacion": "Es explicación histórica de Walulu apoyada en el libro, no una visión o reconstrucción del ataque. No se da el nombre del antiguo líder, la fecha absoluta, los ingredientes o un texto íntegro del rito. El VTT reconoce el nombre como «Glendra Drax» y «Colgenrax»; la grafía de catálogo debe resolverla la coordinación."
+    },
+    {
+      "id": "47-321",
+      "titulo": "La protección dracónica no detiene por sí sola a la hueste",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Walulu responde que el dragón no puede acceder de ninguna manera, tampoco sobrevolar la ciudad para llenarla de veneno: la considera protegida de la presencia e invasión de dragones. Ante los no muertos admite que la protección no los detiene, pero confía en la guardia. Razona que el dragón pide sacar a los elfos porque él no puede entrar y que permanecer en Iktan los mantiene seguros frente a él.",
+      "inicio": "02:10:27.199",
+      "fin": "02:12:14.709",
+      "cita": "Eso no podemos hacer nada. Pero nuestros",
+      "evidencia_cue": {
+        "inicio": "02:10:46.800",
+        "fin": "02:10:49.629",
+        "texto": "Eso no podemos hacer nada. Pero nuestros"
+      },
+      "entidades": [
+        "Walulu",
+        "Clolgedranx",
+        "Iktan",
+        "Hermanos elfos buscados por el dragón",
+        "Guardia de Iktan"
+      ],
+      "ambito": "encuentro con el dragón y regreso a Iktan",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se establece el acceso de Madame Oghma a estos sucesos o conversaciones.",
+      "confianza": "lectura completa de subtítulos automáticos; audio no cotejado",
+      "limitacion": "La seguridad es valoración de Walulu; no equivale a invulnerabilidad universal ni a una victoria ya conseguida sobre los muertos. No trasladar el alcance del rito a serpientes, infiltradores o todas las amenazas mágicas."
+    },
+    {
+      "id": "47-322",
+      "titulo": "Walulu informa de varias guaridas dispersas",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Cuando Tesara pregunta cómo encontrar y matar a la criatura, Walulu advierte que derrotar a un dragón no es fácil. Dice que algunos guardias han encontrado diferentes guaridas y cree que el dragón las está dispersando por toda la jungla, lo que dificultará rastrearlo.",
+      "inicio": "02:12:14.719",
+      "fin": "02:12:58.270",
+      "cita": "por toda la jungla,",
+      "evidencia_cue": {
+        "inicio": "02:12:51.920",
+        "fin": "02:12:54.109",
+        "texto": "por toda la jungla,"
+      },
+      "entidades": [
+        "Walulu",
+        "Clolgedranx",
+        "Guardia de Iktan"
+      ],
+      "ambito": "encuentro con el dragón y regreso a Iktan",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se establece el acceso de Madame Oghma a estos sucesos o conversaciones.",
+      "confianza": "lectura completa de subtítulos automáticos; audio no cotejado",
+      "limitacion": "No da coordenadas o una guarida inspeccionada por los protagonistas. No se identifica automáticamente ninguna con la cueva de una emboscada anterior, ni se narran nuevos refugios fundados ante la cámara."
+    },
+    {
+      "id": "47-323",
+      "titulo": "Walulu acepta estudiar una estrategia contra el dragón",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Tesara se ofrece a ocuparse del rastreo y pide a Walulu una manera de matar al dragón, una debilidad o una estrategia. Walulu promete estudiar los libros antiguos y acepta hablar con los elfos si los ve. Al final de la audiencia vuelve a los estantes y empieza a buscar pergaminos de antiguas historias.",
+      "inicio": "02:12:58.280",
+      "fin": "02:15:18.629",
+      "cita": "estudiaré los antiguos libros a ver si",
+      "evidencia_cue": {
+        "inicio": "02:13:23.119",
+        "fin": "02:13:25.109",
+        "texto": "estudiaré los antiguos libros a ver si"
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Walulu",
+        "Clolgedranx",
+        "Hermanos elfos buscados por el dragón",
+        "Libro histórico mostrado por Walulu"
+      ],
+      "ambito": "encuentro con el dragón y regreso a Iktan",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se establece el acceso de Madame Oghma a estos sucesos o conversaciones.",
+      "confianza": "lectura completa de subtítulos automáticos; audio no cotejado",
+      "limitacion": "Se inicia una búsqueda documental, sin resultado, debilidad revelada o expedición de caza consumada. La invitación a avisar a los elfos no demuestra que Walulu llegue a encontrarlos."
+    },
+    {
+      "id": "47-324",
+      "titulo": "El felino prefiere entregar a los elfos y Walulu los acoge",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Invitado a añadir algo, el felino insiste en que sería más fácil entregar a los elfos. Walulu afirma que son bienvenidos y estarán seguros mientras permanezcan en Iktan; sostiene que la guardia podrá hacer frente a las huestes de muertos. La objeción del felino sobre la seguridad del pueblo la deja pensativa.",
+      "inicio": "02:13:42.840",
+      "fin": "02:14:38.549",
+      "cita": "los fos están bueno son bienvenidos,",
+      "evidencia_cue": {
+        "inicio": "02:14:08.400",
+        "fin": "02:14:11.709",
+        "texto": "los fos están bueno son bienvenidos,"
+      },
+      "entidades": [
+        "Mictlan",
+        "Walulu",
+        "Hermanos elfos buscados por el dragón",
+        "Iktan",
+        "Guardia de Iktan"
+      ],
+      "ambito": "encuentro con el dragón y regreso a Iktan",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se establece el acceso de Madame Oghma a estos sucesos o conversaciones.",
+      "confianza": "lectura completa de subtítulos automáticos; audio no cotejado",
+      "limitacion": "No se aprueba una entrega o sacrificio. La reacción pensativa de Walulu no revoca explícitamente su acogida ni confirma que vaya a cambiar de bando."
+    },
+    {
+      "id": "47-325",
+      "titulo": "Walulu quiere hablar con Naór y pide compañía para una reunión futura",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Walulu pregunta si Naór ha vuelto y dice que necesita hablar con ella. Tesara responde que lleva días cuidando del niño que le dejó. Walulu plantea reunirlos cuando regrese y pide que los acompañen; Tesara acepta contar con ella.",
+      "inicio": "02:14:38.559",
+      "fin": "02:15:18.629",
+      "cita": "reunirlos. ¿Y os importaría acompañarlos",
+      "evidencia_cue": {
+        "inicio": "02:14:57.480",
+        "fin": "02:15:01.510",
+        "texto": "reunirlos. ¿Y os importaría acompañarlos"
+      },
+      "entidades": [
+        "Walulu",
+        "Naór",
+        "Tesara Queen",
+        "Leo"
+      ],
+      "ambito": "encuentro con el dragón y regreso a Iktan",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se establece el acceso de Madame Oghma a estos sucesos o conversaciones.",
+      "confianza": "lectura completa de subtítulos automáticos; audio no cotejado",
+      "limitacion": "La reunión queda futura; no se muestra el regreso de Naór ni se declara aquí el destino o la lista completa de convocados. La identificación del niño con Leo procede de su continuidad como menor dejado por Naór, sin convertir la frase en filiación biológica. El numeral del cuidado se corta en «Llevo tr»: no se fija una cifra de días."
+    },
+    {
+      "id": "47-326",
+      "titulo": "Tesara y el felino discrepan sobre el sacrificio por un bien mayor",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Al salir, Tesara pregunta al felino por su inclinación a sacrificar gente. Él defiende un sacrificio por un bien mayor, observa que nadie ha demostrado que los elfos sean útiles y sostiene que los dioses requieren sacrificios. Tesara replica que la vida no debe entregarse como moneda y que no merece servir a dioses que exigen vidas.",
+      "inicio": "02:15:18.639",
+      "fin": "02:16:25.109",
+      "cita": "La vida no tiene que entregarse como una",
+      "evidencia_cue": {
+        "inicio": "02:15:56.440",
+        "fin": "02:16:00.310",
+        "texto": "La vida no tiene que entregarse como una"
+      },
+      "entidades": [
+        "Tesara Queen",
+        "Mictlan",
+        "Hermanos elfos buscados por el dragón"
+      ],
+      "ambito": "encuentro con el dragón y regreso a Iktan",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se establece el acceso de Madame Oghma a estos sucesos o conversaciones.",
+      "confianza": "lectura completa de subtítulos automáticos; audio no cotejado",
+      "limitacion": "Son posiciones de los interlocutores, no una regla objetiva de todos los dioses o culturas de Xoltacan. No se realiza un sacrificio ni se vincula esa doctrina al rito de los Profundos sin pruebas."
+    },
+    {
+      "id": "47-327",
+      "titulo": "La imitación de Tortas se presenta como una apariencia de piedra",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "De vuelta a la taberna, Tesara y el felino ven a Tortas meditando. Tentacol se ha dado con prestidigitación apariencia de roca y Chopito se coloca encima imitando al anciano; añaden la broma de una barba o bigote largo. El director confirma la composición de la escena.",
+      "inicio": "02:16:25.119",
+      "fin": "02:17:15.870",
+      "cita": "o sea, Tenta está transformado en una",
+      "evidencia_cue": {
+        "inicio": "02:17:07.000",
+        "fin": "02:17:08.549",
+        "texto": "o sea, Tenta está transformado en una"
+      },
+      "entidades": [
+        "Tentacol",
+        "Chopito",
+        "Tortas",
+        "Tesara Queen",
+        "Mictlan"
+      ],
+      "ambito": "encuentro con el dragón y regreso a Iktan",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se establece el acceso de Madame Oghma a estos sucesos o conversaciones.",
+      "confianza": "lectura completa de subtítulos automáticos; audio no cotejado",
+      "limitacion": "La apariencia de roca se explica mediante prestidigitación: no acredita petrificación, aprendizaje de un nuevo estado corporal o maldición compartida. La imitación no explica la edad o el brillo mágico anterior de Tortas."
+    },
+    {
+      "id": "47-328",
+      "titulo": "Angelique cuenta a Patata su encuentro con Zoltan",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Patata intenta cortejar a la encargada, que deriva la conversación hacia un recién llegado de torso desnudo, herida y chispas. Dice que estuvo con él el día anterior, promete presentárselo y finalmente lo nombra Zoltan. Lo describe mientras Patata sigue en la taberna; Tesara y el felino regresan de hablar con Walulu y Chopito continúa la imitación de Tortas en el cierre.",
+      "inicio": "02:17:15.880",
+      "fin": "02:20:12.399",
+      "cita": "llama Zoltan. Uy, está majísimo el",
+      "evidencia_cue": {
+        "inicio": "02:18:35.840",
+        "fin": "02:18:38.669",
+        "texto": "llama Zoltan. Uy, está majísimo el"
+      },
+      "entidades": [
+        "Patata",
+        "Angelique",
+        "Zoltan",
+        "Tesara Queen",
+        "Mictlan",
+        "Tentacol",
+        "Chopito",
+        "Tortas",
+        "El Huevo Emplumado"
+      ],
+      "ambito": "encuentro con el dragón y regreso a Iktan",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se establece el acceso de Madame Oghma a estos sucesos o conversaciones.",
+      "confianza": "lectura completa de subtítulos automáticos; audio no cotejado",
+      "limitacion": "No se representa una nueva aparición de Zoltan ni la presentación prometida. La expresión «ayer» pertenece al testimonio de Angelique; no sirve por sí sola para cerrar un calendario. Las comparaciones de mesa con otros personajes o campañas no incorporan sus identidades a Xoltacan."
+    }
+  ],
+  "historias_entidades": [
+    {
+      "nombre": "Tesara Queen",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "Tesa es abreviatura confirmada. No se identifica a los elfos solo por los reconocimientos del VTT.",
+      "etapas": [
+        {
+          "titulo": "De la emboscada a la defensa de los compañeros",
+          "texto": "Tesara intenta herir a la voz invisible, falla y sale de la maleza para advertir a los demás. Se opone a entregar a los hermanos y recibe una amenaza que nombra a Oliver, a quien reconoce como su hermano. Guía el regreso a Iktan y busca a los elfos, pero recibe solo noticias incompletas. Lleva el ultimátum a Walulu, pide una estrategia contra el dragón y acepta acompañar una reunión cuando vuelva Naór. Al regresar discute con el felino porque rechaza sacrificar vidas como moneda.",
+          "referencias": [
+            "47-302",
+            "47-303",
+            "47-304",
+            "47-305",
+            "47-311",
+            "47-312",
+            "47-314",
+            "47-315",
+            "47-318",
+            "47-319",
+            "47-323",
+            "47-325",
+            "47-326"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Mictlan",
+      "tipo": "personaje",
+      "nueva": true,
+      "descripcion": "Viajero felino del grupo, cuyo nombre se reconoce en el VTT como Mlan, Miklan, Mic o «mi clan».",
+      "nota": "Grafía Mictlan respaldada por la escena posterior x-1531013198478708756, leída íntegra por el coordinador (36 mensajes), que rotula al personaje. Esta nota de identidad no traslada la escena futura al vídeo ni pretende que este agente la haya leído.",
+      "etapas": [
+        {
+          "titulo": "La utilidad y el sacrificio",
+          "texto": "Recibe la curación de Patata antes de que este se vuelva invisible. Las raíces lo inmovilizan junto a los demás y presencia la exigencia del dragón. Cuestiona la confianza de Tesara en los hermanos y la sigue a la taberna y a la audiencia con Walulu porque no se fía de ella. Prefiere entregar a los elfos por la seguridad del pueblo y, al salir, defiende el sacrificio por un bien mayor. La historiadora rechaza esa posición.",
+          "referencias": [
+            "47-301",
+            "47-306",
+            "47-307",
+            "47-314",
+            "47-315",
+            "47-319",
+            "47-324",
+            "47-326"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Patata",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "La oferta de protección contra venenos queda sin atribuir por falta de hablante rotulado.",
+      "etapas": [
+        {
+          "titulo": "La invisibilidad y el reencuentro pirata",
+          "texto": "Patata queda invisible durante la curación del felino por un efecto temporal adjudicado a una carta y luego reaparece. Las raíces lo atrapan mientras el dragón exige a los elfos. Sigue a Tesara hasta Iktan, reconoce a los piratas desplazados desde Shiaru y prueba una cerveza que aprecia. Permanece en la taberna durante la visita a Walulu y corteja a Angelique, que termina describiéndole a Zoltan y promete presentárselo.",
+          "referencias": [
+            "47-301",
+            "47-306",
+            "47-307",
+            "47-315",
+            "47-317",
+            "47-328"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Tentacol",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "La roca del cierre es apariencia mediante prestidigitación, sin petrificación acreditada.",
+      "etapas": [
+        {
+          "titulo": "Negociar antes de imitar al maestro",
+          "texto": "Tentacol abre el frasco para que Chopito salga a hablar con Tesara. Queda atrapado por las raíces, pregunta al dragón qué recompensa podría ofrecer y escucha la propuesta sobre Perlasal. Al volver a Iktan se queda con Tortas y el pulpo para imitar la meditación. En el cierre se muestra como una roca sobre la que se coloca Chopito.",
+          "referencias": [
+            "47-304",
+            "47-306",
+            "47-309",
+            "47-316",
+            "47-327"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Chopito",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "Sus pretensiones sobre Perlasal y de ser más poderoso que el dragón son declaraciones, no soberanía o superioridad confirmadas.",
+      "etapas": [
+        {
+          "titulo": "La negociación que no entrega a los elfos",
+          "texto": "Chopito abofetea a Tesara para que reaccione y cuestiona su relato sobre el dragón. Anima mentalmente a Tentacol a negociar; rechaza Perlasal como recompensa porque lo considera suyo. Tras la retirada de la criatura consuela a Tesara y la acusa de marcarse un farol. Ya en Iktan imita a Tortas desde encima de Tentacol con apariencia de piedra.",
+          "referencias": [
+            "47-304",
+            "47-309",
+            "47-313",
+            "47-314",
+            "47-316",
+            "47-327"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Clolgedranx",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "Grafía Clolgedranx confirmada por el usuario, aplicada por coordinación al interlocutor que Walulu nombra Colgenrax/Glendra Drax y enlaza con el encargo de los hermanos y la barrera de Iktan. Mantener documentado el puente respecto de la etiqueta histórica Dragón verde del bosque de Iktan. No es Zarynth.",
+      "etapas": [
+        {
+          "titulo": "Una semana para cobrar una recompensa",
+          "texto": "La criatura invisible se acerca a Tesara, juega con su miedo y se muestra cuando todos quedan enredados en raíces. Exige a los hermanos elfos, amenaza con devorar al grupo y ofrece recompensas. Dice que alguien le pagará por ellos; nombra a Oliver y da una semana antes de enviar a su hueste contra la ciudad. Se retira otra vez invisible. Walulu lo relaciona con un ataque antiguo tras el que se protegió Iktan e informa de varias guaridas dispersas por la jungla.",
+          "referencias": [
+            "47-302",
+            "47-303",
+            "47-305",
+            "47-306",
+            "47-307",
+            "47-308",
+            "47-309",
+            "47-310",
+            "47-311",
+            "47-312",
+            "47-313",
+            "47-320",
+            "47-321",
+            "47-322"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Oliver",
+      "tipo": "personaje",
+      "nueva": true,
+      "descripcion": "Hermano de Tesara nombrado como objetivo de la amenaza del dragón.",
+      "nota": "La relación fraterna se acredita por la respuesta de Tesara; no se fijan ubicación, edad, cautiverio o pasado. Cotejar menciones históricas antes de crear ficha definitiva.",
+      "etapas": [
+        {
+          "titulo": "El nombre que la criatura conoce",
+          "texto": "El dragón mira a Tesara con los ojos brillantes y declara que Oliver será suyo. Ella pregunta cómo sabe algo de su hermano. La criatura afirma que ella misma se lo dice, sin explicar un mecanismo ni mostrar a Oliver.",
+          "referencias": [
+            "47-312"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Hermanos elfos buscados por el dragón",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "Pareja de hermanos elfos a los que el dragón exige entregar.",
+      "nota": "Agrupador provisional para coordinación, no necesariamente ficha nueva definitiva. El VTT da Miriam para la muchacha y Eldrin/el Dream para el varón. No fusionar con Tryel/Eldrath por intuición.",
+      "etapas": [
+        {
+          "titulo": "Buscados para una recompensa",
+          "texto": "Tesara los considera compañeros que se salvaron mutuamente ante la criatura. El dragón dice que un tercero los quiere y pide su entrega. En Iktan Angelique informa de que la muchacha partió con una patrulla para bucear y de que el hermano entrenaba esa mañana, sin localizarlos ahora. Walulu explica que la ciudad los protege frente al dragón y se opone a expulsarlos.",
+          "referencias": [
+            "47-305",
+            "47-307",
+            "47-310",
+            "47-311",
+            "47-314",
+            "47-318",
+            "47-320",
+            "47-321",
+            "47-324"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Walulu",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "La explicación del ritual y las guaridas es su testimonio; conservar esta modalidad.",
+      "etapas": [
+        {
+          "titulo": "La protección que no alcanza a todos los atacantes",
+          "texto": "Walulu recibe el aviso y muestra en un libro el antecedente del ritual protector realizado hace ciento veinte años tras el ataque del dragón. Sostiene que Iktan impide su entrada, pero reconoce que los muertos deben contenerse con la guardia. Se compromete a estudiar una estrategia y empieza a buscar pergaminos. Mantiene la acogida de los elfos frente a la propuesta del felino y pide hablar con Naór cuando vuelva.",
+          "referencias": [
+            "47-319",
+            "47-320",
+            "47-321",
+            "47-322",
+            "47-323",
+            "47-324",
+            "47-325"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Angelique",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "Continuidad nominal explícita en el cierre («Angelic») y tabernera felina de Iktan. No convertir el reconocimiento Andrea en una identidad nueva ni acreditar su matrimonio por el coqueteo.",
+      "etapas": [
+        {
+          "titulo": "Las noticias de la taberna",
+          "texto": "Angelique atiende a los visitantes mientras los piratas consumen sus reservas. No cree al principio la excusa de Tesara sobre el dragón y le reprocha no traer los objetos que esperaba. Informa de la salida de la elfa y el entrenamiento del hermano, sin darles un paradero actual comprobado. Tras escuchar el ultimátum sugiere avisar a Walulu. Más tarde describe a Patata el encuentro anterior con Zoltan y promete presentarlos.",
+          "referencias": [
+            "47-317",
+            "47-318",
+            "47-319",
+            "47-328"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Tortas",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "La imitación del cierre no aclara su edad, su brillo previo o una maldición.",
+      "etapas": [
+        {
+          "titulo": "El modelo de la meditación",
+          "texto": "Tortas permanece en su sitio de Iktan meditando. Tentacol y Chopito se colocan junto a él para imitarlo, hasta componer la apariencia de un anciano sobre una roca. El tramo no muestra que Tortas enseñe una técnica nueva o se incorpore a la audiencia con Walulu.",
+          "referencias": [
+            "47-316",
+            "47-327"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Iktan",
+      "tipo": "lugar",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "La relación del desastre antiguo con el dragón se atribuye a Walulu y al libro que muestra.",
+      "etapas": [
+        {
+          "titulo": "La ciudad bajo el ultimátum",
+          "texto": "Tesara devuelve a los viajeros a la ciudad, entre la taberna, el lago y las ruinas. La amenaza de una hueste contra Iktan conduce a la audiencia con Walulu. La dirigente explica la protección dracónica nacida del ataque de hace ciento veinte años y confía en su guardia para contener a los muertos. Acoge a los elfos y empieza a buscar una estrategia mientras el plazo de una semana sigue abierto.",
+          "referencias": [
+            "47-311",
+            "47-315",
+            "47-317",
+            "47-318",
+            "47-319",
+            "47-320",
+            "47-321",
+            "47-323",
+            "47-324"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "El Huevo Emplumado",
+      "tipo": "lugar",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "Nombre de continuidad de la taberna de Iktan; no se pronuncia de nuevo en este tramo.",
+      "etapas": [
+        {
+          "titulo": "Refugio y noticias incompletas",
+          "texto": "La taberna aloja a los piratas desplazados de Shiaru y recibe a Patata, Tesara y el felino. Allí se habla de las salidas de los hermanos y de la amenaza del dragón antes de avisar a Walulu. Patata permanece bebiendo y conversando con Angelique; la historiadora y el felino regresan al cierre.",
+          "referencias": [
+            "47-315",
+            "47-317",
+            "47-318",
+            "47-319",
+            "47-328"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Tripulación del Zampaolas",
+      "tipo": "faccion",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "No se distribuyen los parlamentos colectivos entre piratas individuales sin identificación en el VTT.",
+      "etapas": [
+        {
+          "titulo": "Expulsados de Shiaru según su relato",
+          "texto": "Patata reconoce a los piratas de Shiaru en la taberna de Iktan. Le cuentan que los echaron del pueblo y que tuvieron que desplazarse hasta allí. Le ofrecen cerveza y comentan que están agotando el suministro de la encargada, sin describir en este tramo el nuevo gobierno o un regreso organizado.",
+          "referencias": [
+            "47-317"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Guardia de Iktan",
+      "tipo": "faccion",
+      "nueva": true,
+      "descripcion": "Guardia local en la que Walulu confía para contener las huestes de muertos.",
+      "nota": "Función colectiva en testimonio de Walulu; sin nombres individuales, número o victoria nueva confirmados.",
+      "etapas": [
+        {
+          "titulo": "Defensa frente a la hueste y noticias de guaridas",
+          "texto": "Walulu asegura que la guardia ha mantenido bajo control el problema de los muertos y cree que podrá contener la amenaza. Atribuye a algunos guardias el hallazgo de diferentes guaridas del dragón por la jungla. No se representa esa exploración ni un nuevo combate de la guardia.",
+          "referencias": [
+            "47-321",
+            "47-322",
+            "47-324"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Libro histórico mostrado por Walulu",
+      "tipo": "objeto",
+      "nueva": true,
+      "descripcion": "Gran libro sobre historias antiguas y dirigentes de Iktan que Walulu abre durante la audiencia.",
+      "nota": "Denominación descriptiva sin título propio pronunciado. No equivale al diario Terran ni a una receta de Parroter.",
+      "etapas": [
+        {
+          "titulo": "La consulta sobre el ritual protector",
+          "texto": "Walulu busca una entrada del volumen y la muestra al explicar el ritual del antiguo líder tras el ataque del dragón. Después acepta estudiar los libros antiguos y busca pergaminos para hallar una estrategia. No se transcribe el contenido completo del volumen ni se entrega a los viajeros.",
+          "referencias": [
+            "47-320",
+            "47-323"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Zoltan",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "Solo mencionado y descrito por Angelique; no aparece actuando en este bloque.",
+      "etapas": [
+        {
+          "titulo": "La descripción que recibe Patata",
+          "texto": "Angelique cuenta a Patata que ha llegado un hombre de torso desnudo, herida y chispas con quien estuvo el día anterior. Lo nombra Zoltan y promete presentárselo. Su testimonio amplía la circulación del nombre, sin explicar las marcas, la electricidad o el pasado del recién llegado.",
+          "referencias": [
+            "47-328"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Naór",
+      "tipo": "personaje",
+      "nueva": false,
+      "descripcion": "",
+      "nota": "La reunión futura no prueba su regreso ni se identifica automáticamente con el concilio de Tutucan.",
+      "etapas": [
+        {
+          "titulo": "Una conversación a la vuelta",
+          "texto": "Walulu quiere hablar con Naór y pregunta si ha vuelto. Tesara lamenta llevar días cuidando al niño que le dejó. La dirigente plantea reunirlos cuando regrese y obtiene el compromiso de Tesara de acompañarlos, sin que la reunión llegue a celebrarse.",
+          "referencias": [
+            "47-325"
+          ]
+        }
+      ]
+    }
+  ],
+  "misiones": [
+    "Salir del encuentro con el dragón: después del fallo del látigo y de quedar inmovilizados, los viajeros reciben el ultimátum. La criatura se retira y el grupo vuelve a Iktan; no la derrotan ni pactan la entrega de los elfos (47-303, 47-306–47-315).",
+    "Encontrar y avisar a los hermanos elfos: Tesara los busca en la taberna. Angelique solo ofrece noticias de la patrulla de la muchacha y del entrenamiento del hermano. Walulu acepta hablar con ellos si los ve; no se representa el contacto (47-314, 47-318, 47-323).",
+    "Defender Iktan del ultimátum: el dragón da una semana y amenaza con mandar muertos. Walulu explica la barrera contra dragones, acoge a los elfos y confía en la guardia frente a la hueste. La defensa y el desenlace del plazo siguen pendientes (47-311, 47-320–47-324).",
+    "Hallar una estrategia contra la criatura: Tesara propone encargarse del rastreo y solicita una debilidad. Walulu informa de varias guaridas y empieza la consulta de libros y pergaminos. No se obtiene todavía la respuesta ni se inicia la caza (47-322–47-323).",
+    "Hablar con Naór cuando regrese: Walulu quiere reunirlos y solicita compañía; Tesara acepta. La vuelta de Naór, el destino y la reunión no se muestran en el tramo (47-325).",
+    "Imitar a Tortas: Tentacol y Chopito permanecen junto al anciano y reproducen su meditación mediante una apariencia de roca y barba. No se acredita aprendizaje terminado o una capacidad nueva (47-316, 47-327)."
+  ],
+  "preguntas": [
+    "¿Quién ofrece al dragón una recompensa por los hermanos elfos y con qué propósito? La alusión a una sierpe mayor no identifica al contratante.",
+    "¿Qué hará el dragón cuando venza la semana y cómo responderán Iktan y sus guardias a la hueste? La protección dracónica no excluye a los muertos.",
+    "¿Dónde está Oliver y cómo obtiene el dragón la información sobre el hermano de Tesara? Nombrarlo y decir que será suyo no prueba su captura.",
+    "¿Qué estrategia o debilidad encontrará Walulu en los libros y cómo localizarán las guaridas dispersas del dragón?",
+    "¿Qué reunión quiere organizar Walulu al regreso de Naór y a dónde pide que los acompañen?"
+  ],
+  "seguimiento_nuevo": [
+    {
+      "id_provisional": "P47-B3-01",
+      "pregunta": "¿Quién ofrece al dragón una recompensa por los hermanos elfos y con qué propósito? La alusión a una sierpe mayor no identifica al contratante.",
+      "estado": "pendiente",
+      "respuesta": "El dragón dice que alguien los quiere y que le han prometido un pago; no proporciona nombre o plan.",
+      "referencias": [
+        "47-310"
+      ],
+      "pendiente": "La identidad del interesado, los términos y el motivo del encargo."
+    },
+    {
+      "id_provisional": "P47-B3-02",
+      "pregunta": "¿Qué hará el dragón cuando venza la semana y cómo responderán Iktan y sus guardias a la hueste? La protección dracónica no excluye a los muertos.",
+      "estado": "pendiente",
+      "respuesta": "Walulu confía en su guardia y protege la permanencia de los elfos, pero el plazo no se resuelve en el bloque.",
+      "referencias": [
+        "47-311",
+        "47-321",
+        "47-324"
+      ],
+      "pendiente": "La ejecución o retirada del ultimátum y el resultado de la defensa."
+    },
+    {
+      "id_provisional": "P47-B3-03",
+      "pregunta": "¿Dónde está Oliver y cómo obtiene el dragón la información sobre el hermano de Tesara? Nombrarlo y decir que será suyo no prueba su captura.",
+      "estado": "pendiente",
+      "respuesta": "Tesara reconoce el parentesco al preguntar cómo lo sabe; la criatura responde que ella se lo dice.",
+      "referencias": [
+        "47-312"
+      ],
+      "pendiente": "El paradero de Oliver y el origen y mecanismo del conocimiento del dragón."
+    },
+    {
+      "id_provisional": "P47-B3-04",
+      "pregunta": "¿Qué estrategia o debilidad encontrará Walulu en los libros y cómo localizarán las guaridas dispersas del dragón?",
+      "estado": "pendiente",
+      "respuesta": "Walulu promete estudiar y empieza a buscar pergaminos. No presenta el resultado.",
+      "referencias": [
+        "47-322",
+        "47-323"
+      ],
+      "pendiente": "La información obtenida y su aplicación en una caza efectiva."
+    },
+    {
+      "id_provisional": "P47-B3-05",
+      "pregunta": "¿Qué reunión quiere organizar Walulu al regreso de Naór y a dónde pide que los acompañen?",
+      "estado": "pendiente",
+      "respuesta": "Walulu pide hablar con Naór y Tesara acepta acompañarlos, sin que el tramo precise destino, lista completa o fecha.",
+      "referencias": [
+        "47-325"
+      ],
+      "pendiente": "La convocatoria concreta y su celebración."
+    }
+  ],
+  "cotejo_preguntas_asignadas": [
+    {
+      "id": "P31-001",
+      "pregunta_previa": "¿Cuál es el nombre exacto del dragón verde y qué relación tiene con las ruinas? El nombre enviado al chat no puede recuperarse de los subtítulos y el guardia no identifica el color del dragón que destruyó las casas (31-015 y 31-021).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "4d3ca79af53200561e272cda49113b83ad0afe00cda452c19b86cbed965485f2",
+      "resultado": "avance_parcial",
+      "estado_propuesto": "parcial",
+      "observacion_bloque": "Walulu vincula el ataque del dragón que discuten con el desastre de las ruinas y muestra un libro: tras él se hizo una protección hace ciento veinte años. El VTT vuelve a deformar el nombre; el uso de la grafía del usuario y la relación con Clolgedranx requieren integración de identidades.",
+      "referencias": [
+        "47-320"
+      ],
+      "pendiente": "La equivalencia nominal exacta y los detalles históricos del ataque; no tratar el testimonio como inspección del pasado.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P31-002",
+      "pregunta_previa": "¿Cómo provoca el bosque las agresiones y cómo puede romperse esa influencia de forma permanente? El grupo logra escapar, pero no derrota al dragón (31-008–31-019).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "4884ed0f8f6000cb6391d59ff1b75ea600a67f898841973a1b85f82c20aa3c3d",
+      "resultado": "avance_sin_cierre",
+      "estado_propuesto": "parcial",
+      "observacion_bloque": "Se observan invisibilidad, acercamiento a Tesara y raíces que inmovilizan al grupo. El dragón conoce el nombre de Oliver y Walulu dice que manipula a quienes entran en su territorio. No se explica el mecanismo completo ni se rompe de forma permanente.",
+      "referencias": [
+        "47-302",
+        "47-306",
+        "47-312",
+        "47-321"
+      ],
+      "pendiente": "El mecanismo, alcance y neutralización permanente de la influencia.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P31-003",
+      "pregunta_previa": "¿Quiénes son los cinco héroes, qué fragmento escapó y quién abrió la puerta? La visión y el relato no proporcionan todas esas identidades ni una fecha (31-025–31-026).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "b8a851e2b5d046d6aa63a14524297e18a94e94ee4adc5c7c3edd873099cbd345",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: Las identidades de los héroes, el fragmento y los responsables de abrir la puerta, y una fecha verificable.",
+      "referencias": [],
+      "pendiente": "Las identidades de los héroes, el fragmento y los responsables de abrir la puerta, y una fecha verificable.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P31-004",
+      "pregunta_previa": "¿Qué ocurrió con el padre de Walulu? Su hija menciona un altercado sin dar más detalles (31-024).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "7c54f1520fe6ed0086213631ddcbfa596a158a75c5af8f12a8eb1d8944f61e5e",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "Walulu habla de un líder de hace ciento veinte años, sin identificarlo con su padre o explicar el altercado de su muerte.",
+      "referencias": [
+        "47-320"
+      ],
+      "pendiente": "Las circunstancias y responsables de la muerte de su padre.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P31-005",
+      "pregunta_previa": "¿Qué consecuencias tendría revelar otra vez la ruta a Iktan? ¿Quién asistirá al concilio? El permiso es condicional y la reunión sigue pendiente (31-027–31-028).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "c760ffbecb43efe264ec8c22b76a47df6354f8ab27b5b2d658540fb3e121442c",
+      "resultado": "mencion_sin_respuesta",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "Tesara guía a nuevos viajeros hasta Iktan y Walulu plantea hablar con Naór. No se menciona un castigo por revelar la ruta ni se identifica la futura reunión con el concilio de Tutucan.",
+      "referencias": [
+        "47-315",
+        "47-325"
+      ],
+      "pendiente": "Consecuencias concretas de revelar la ruta y asistencia efectiva al concilio.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P31-006",
+      "pregunta_previa": "¿Qué efecto tiene el tatuaje de Triel? Se conoce el pago, pero no se identifica la mejora elegida (31-003).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "fb1a79d897e669086e45f6b5589b680d6092d75692d95dfddb406a389ace915d",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: El efecto concreto del tatuaje de Triel.",
+      "referencias": [],
+      "pendiente": "El efecto concreto del tatuaje de Triel.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P32-001",
+      "pregunta_previa": "¿Cuál es el nombre de la escudera y el apellido de Eleanor? Las presentaciones se reconocen de forma inconsistente (32-002).",
+      "estado_previo": "resuelta",
+      "sha256_pregunta": "2fe68607c0e558746c4938f53bab257823a8c6dd70b4a2ad4ec6008ed1646629",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "resuelta",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: Su resolución anterior se conserva; este tramo no la modifica.",
+      "referencias": [],
+      "pendiente": "",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P32-002",
+      "pregunta_previa": "¿Quién es el general aviar y volverá a atacar? Consigue escapar (32-013 y 32-015).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "3a4fb25757bd13468b542d7c6061934e70a95320eebbc21182a99e7141c6583b",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La identidad del general y si participa en un nuevo ataque.",
+      "referencias": [],
+      "pendiente": "La identidad del general y si participa en un nuevo ataque.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P32-003",
+      "pregunta_previa": "¿Cuáles eran los términos del acuerdo de Bonnie con la Marina y qué piensa hacer con Mamá? Solo se dispone de su declaración y de la escena reservada (32-018 y 32-020).",
+      "estado_previo": "parcial",
+      "sha256_pregunta": "6b86f7c62b4ce3b8a23966fa14d62ef9a73c3151b31d833ddc29bdf2f171fecd",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "parcial",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: Las condiciones completas del pacto y el alcance del plan protector respecto a Citlali.",
+      "referencias": [],
+      "pendiente": "Las condiciones completas del pacto y el alcance del plan protector respecto a Citlali.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P32-004",
+      "pregunta_previa": "¿Dónde está Citlali y en qué estado se encuentra el huevo? Patata no la encuentra y Bonnie no lo sabe (32-019).",
+      "estado_previo": "resuelta",
+      "sha256_pregunta": "734a213bdfce7f0b9c96cbcaf333690e3b8e047b1649ad0929e36919f7f09af9",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "resuelta",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: Su resolución anterior se conserva; este tramo no la modifica.",
+      "referencias": [],
+      "pendiente": "",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P33-001",
+      "pregunta_previa": "¿Qué le ocurrió a Axi durante la noche entre los cadáveres? Tiene amnesia y sospechas, sin confirmación (33-001).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "856391338946aae9317102692b8470496294affbe1a988b847df1cef1bdeff02",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La causa de los cadáveres y de la amnesia de Axi.",
+      "referencias": [],
+      "pendiente": "La causa de los cadáveres y de la amnesia de Axi.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P33-002",
+      "pregunta_previa": "¿Quién entregó la piedra rota a los hipopótamos y dónde está? Según ellos, saltó por un acantilado (33-018).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "7140cfc2e20dfc9fe5bc21cb3ea5e5cd95ca5f2e468136a0404fc3153b0b2d69",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La identidad y el paradero de quien entregó la piedra.",
+      "referencias": [],
+      "pendiente": "La identidad y el paradero de quien entregó la piedra.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P33-003",
+      "pregunta_previa": "¿Dónde esconde Nox a Citlali y qué peligro teme? No revela su ubicación en el encargo (33-006).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "559458accc5312b12ef84bd3ffd6a12a2efc31eb5048c498cfbb4a1925cb4014",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La ubicación inicial ocultada por Nox, la amenaza concreta que teme y su participación en aquel traslado.",
+      "referencias": [],
+      "pendiente": "La ubicación inicial ocultada por Nox, la amenaza concreta que teme y su participación en aquel traslado.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P33-004",
+      "pregunta_previa": "¿Qué ocurre con Morris después de huir y cómo informarán de la muerte de Margaret? No se muestra el desenlace (33-012–33-014).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "05630e32334c6e7e4a4f2d069c96acba18e4d71edb8bd3b9e65fdaa1d4d33472",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: El destino de Morris y cómo se transmitió la noticia de la muerte de Margaret.",
+      "referencias": [],
+      "pendiente": "El destino de Morris y cómo se transmitió la noticia de la muerte de Margaret.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P34-001",
+      "pregunta_previa": "¿Qué causa las lagunas de memoria de Blink? No se explica (34-001).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "570018439e33e087cdb59d36fc137dd27bd80efa842e74988967bcd8c14b37f0",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La causa de las lagunas de memoria y de sus regresos anteriores a Shiaru.",
+      "referencias": [],
+      "pendiente": "La causa de las lagunas de memoria y de sus regresos anteriores a Shiaru.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P34-002",
+      "pregunta_previa": "¿Dónde están Triel, ausente una semana, y Nox, expulsado del barco? Se mencionan sin revelar sus paraderos (34-001 y 34-003).",
+      "estado_previo": "resuelta",
+      "sha256_pregunta": "684291adc1a980ec4959d122a5c7d1468f88796611baf8bc66e9794506c2ca70",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "resuelta",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: Su resolución anterior se conserva; este tramo no la modifica.",
+      "referencias": [],
+      "pendiente": "",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P34-003",
+      "pregunta_previa": "¿En qué estado quedan el campamento y Pinky y qué causa la desaparición de Paco? Hay un incendio y una huida, sin un balance final (34-017).",
+      "estado_previo": "parcial",
+      "sha256_pregunta": "bda6b70d4204651604de067c3db3b52de6310d7807fdb707060c2b5e977a1ba2",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "parcial",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: El balance del campamento y la causa o destino de la desaparición de Paco.",
+      "referencias": [],
+      "pendiente": "El balance del campamento y la causa o destino de la desaparición de Paco.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P34-004",
+      "pregunta_previa": "¿Cuál es el nombre y la especie de la cría? ¿La aceptarán en Cuicapalli? Queda pendiente (34-018–34-020).",
+      "estado_previo": "parcial",
+      "sha256_pregunta": "da2b6ed1a167fa65f34c75368114798366a630562335582557d2682e5183ae3c",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "parcial",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La especie precisa y la aceptación formal de su residencia en Cuicapalli.",
+      "referencias": [],
+      "pendiente": "La especie precisa y la aceptación formal de su residencia en Cuicapalli.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P35-001",
+      "pregunta_previa": "¿Quiénes son la criatura presa y la serpiente de la visión, y qué pirámide aparece? La influencia mental no termina con su liberación (35-014–35-015).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "dff8bd6de80ec6b0920d7386b9313b1b94bd27b8b0a7556b79b719a5232f96d1",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: Las identidades de las criaturas y la ubicación o significado de la pirámide de la visión.",
+      "referencias": [],
+      "pendiente": "Las identidades de las criaturas y la ubicación o significado de la pirámide de la visión.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P35-002",
+      "pregunta_previa": "¿Qué dicen los informes de Molly y cuál será su situación oficial tras huir? ¿Qué contará a Nox? Queda pendiente (35-016 y 35-020).",
+      "estado_previo": "parcial",
+      "sha256_pregunta": "f26915325c2eadf07ac2c90ebff92732277cf26a8743e186cb320174695f16da",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "parcial",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: El contenido completo de los informes, su situación institucional definitiva y la charla pendiente con Nox.",
+      "referencias": [],
+      "pendiente": "El contenido completo de los informes, su situación institucional definitiva y la charla pendiente con Nox.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P35-003",
+      "pregunta_previa": "¿Qué piratas anuncia Nox que están en camino y qué prepara el almirante? No se muestra su llegada (35-016).",
+      "estado_previo": "resuelta",
+      "sha256_pregunta": "b9ff552423bd212bb1a7972b35daed9168f303e12da80bb0029a91f2d7708b40",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "resuelta",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: Su resolución anterior se conserva; este tramo no la modifica.",
+      "referencias": [],
+      "pendiente": "",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P35-004",
+      "pregunta_previa": "¿Los perseguidores siguen al grupo y qué ocurre con Smith y Pinky? Se ordena seguirlos y se confirma la recaptura de Pinky (35-010, 35-013 y 35-016).",
+      "estado_previo": "parcial",
+      "sha256_pregunta": "76b96169171b74bbc19e2c2f0ff6c4723e5689266466d59c35b4bbc386c3c644",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "parcial",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: El destino de Smith y la ejecución del seguimiento ordenado contra los viajeros.",
+      "referencias": [],
+      "pendiente": "El destino de Smith y la ejecución del seguimiento ordenado contra los viajeros.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P36-001",
+      "pregunta_previa": "¿Quién es el hombre lobo de ojos ámbar y qué relación tiene con la bestia de la escena final? No se dan sus nombres (36-014–36-015, 36-019).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "7543a6c105e6ce1892c0358265f3b6037b3c518f17456cf40c2d32a7675897c1",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La identidad del hombre lobo y su relación con la bestia del cierre.",
+      "referencias": [],
+      "pendiente": "La identidad del hombre lobo y su relación con la bestia del cierre.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P36-002",
+      "pregunta_previa": "¿Qué sabe el marine superviviente y qué hará Bonnie con él? Se entrega sin un interrogatorio narrado (36-017).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "34e006d4de83deb813330ca3a8721c0786a77ed4267251343c469eebeb81df3b",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La información del marine y su destino tras la entrega.",
+      "referencias": [],
+      "pendiente": "La información del marine y su destino tras la entrega.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P36-003",
+      "pregunta_previa": "¿Por qué Blink vuelve a Shiaru y sufre lagunas de memoria? ¿Dónde está Eleanor? Las recapitulaciones no lo resuelven (36-001).",
+      "estado_previo": "parcial",
+      "sha256_pregunta": "c455f5db862bc669ddb06e46dd1a4f63d970cb3c822815cca2b969bd2739ffc9",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "parcial",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La causa del regreso de Blink y de sus lagunas de memoria.",
+      "referencias": [],
+      "pendiente": "La causa del regreso de Blink y de sus lagunas de memoria.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P36-004",
+      "pregunta_previa": "¿Se ocuparán las ruinas y se reparará a tiempo el Zampaolas? No se muestran una guarnición ni una nueva navegación (36-017–36-018).",
+      "estado_previo": "parcial",
+      "sha256_pregunta": "6b397082a041cb688059848ceab0e057bc2fae8d3ad2eb097088a9f8d9674132",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "parcial",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La ocupación de las ruinas por una guarnición pirata.",
+      "referencias": [],
+      "pendiente": "La ocupación de las ruinas por una guarnición pirata.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P37-001",
+      "pregunta_previa": "¿Qué han despertado y qué contiene el ojo? ¿Cómo reacciona ante Citlali? Hay testimonios y se propone un experimento reservado (37-005, 37-017).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "a3d3850fb4fdd3b6dcbbacc044c01ed46942d4f873614d5619968c9a571aa27b",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La identidad de lo despertado, la función y destino del ojo y el resultado de una prueba con Citlali.",
+      "referencias": [],
+      "pendiente": "La identidad de lo despertado, la función y destino del ojo y el resultado de una prueba con Citlali.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P37-002",
+      "pregunta_previa": "¿Llegará Nox a Aurora con el ojo y qué hará tras incumplir la condición? Parte sin informar (37-018).",
+      "estado_previo": "parcial",
+      "sha256_pregunta": "f10f76c40411cd6e5ac34cc73fb1bba04f6a32034b1fae761a828c971efcecee",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "parcial",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La llegada concreta a Aurora, la reacción de Bonnie al incumplimiento y el destino posterior del ojo.",
+      "referencias": [],
+      "pendiente": "La llegada concreta a Aurora, la reacción de Bonnie al incumplimiento y el destino posterior del ojo.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P37-003",
+      "pregunta_previa": "¿Logrará Eleanor contactar con su reino y aportar el oro? La alianza queda aplazada (37-003).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "5cab38bc3e050995810a1b20ee07ed168dd12d7abcf18d498164cdc63d5b7ecd",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: El contacto con el reino, la financiación y el resultado de la propuesta de alianza.",
+      "referencias": [],
+      "pendiente": "El contacto con el reino, la financiación y el resultado de la propuesta de alianza.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P37-004",
+      "pregunta_previa": "¿Cuál es el estado del tiranosaurio después del cañonazo? Hay un ataque y una referencia final, pero no se inspecciona el cadáver (37-014).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "ceae243e4df7d1ce1fcb5b3b0f7fd18f31ae3a0b33b0fd1f82c14e53466c067e",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: El estado definitivo del tiranosaurio tras el cañonazo.",
+      "referencias": [],
+      "pendiente": "El estado definitivo del tiranosaurio tras el cañonazo.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P38-001",
+      "pregunta_previa": "¿Qué consecuencias tendrá la mordedura de Ilikar? La sensación y la tirada no confirman un contagio (38-014).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "88972e90dea3a1c34a72d9a5285e63e008e5461fed2ab9c91426a4cd59f77505",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: Los efectos de la mordedura de Ione sobre Ilikar.",
+      "referencias": [],
+      "pendiente": "Los efectos de la mordedura de Ione sobre Ilikar.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P38-002",
+      "pregunta_previa": "¿Qué causó las heridas de Ilikar y cuál es su pasado tribal? Su llegada no proporciona una explicación completa (38-003).",
+      "estado_previo": "parcial",
+      "sha256_pregunta": "30b5a3c6ede97ee6da015af5c40f9b6f5873e2e48ddf3038ebd077f5b2307a23",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "parcial",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La causa de las heridas con que apareció en la playa y los detalles de sus antecedentes tribales.",
+      "referencias": [],
+      "pendiente": "La causa de las heridas con que apareció en la playa y los detalles de sus antecedentes tribales.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P38-003",
+      "pregunta_previa": "¿Descubrirá Bonnie que han repartido su cofre y qué reclamará? La propiedad solo se revela al público (38-018).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "514325df325e81ad4d386380085f737ed462dc6872b5bede55446977485cedfd",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La reacción de Bonnie y cualquier reclamación por el cofre.",
+      "referencias": [],
+      "pendiente": "La reacción de Bonnie y cualquier reclamación por el cofre.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P38-004",
+      "pregunta_previa": "¿Cuándo repararán la proa y podrá navegar el barco? Desencajarlo no equivale a repararlo (38-015).",
+      "estado_previo": "resuelta",
+      "sha256_pregunta": "0f71b19984ce62da2df239dd35dbcda06552fe84aa96ad70dd204e5999b09702",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "resuelta",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: Su resolución anterior se conserva; este tramo no la modifica.",
+      "referencias": [],
+      "pendiente": "",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P39-001",
+      "pregunta_previa": "¿Por qué la piel o las marcas de Citlali son una clave y quién es el Señor mencionado por las serpientes? Las alusiones y la telepatía no lo resuelven (39-008, 39-010).",
+      "estado_previo": "parcial",
+      "sha256_pregunta": "efc36987358be5dae25d806acf379edfbd052f7e4b2cac6bba81e8e3d428f0b0",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "parcial",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La función completa de la piel o las marcas como clave y la identidad del Señor.",
+      "referencias": [],
+      "pendiente": "La función completa de la piel o las marcas como clave y la identidad del Señor.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P39-002",
+      "pregunta_previa": "¿Es Nox el bebé que perdió Citlali o un recuerdo alterado por el alcohol? La hipótesis no se confirma (39-002).",
+      "estado_previo": "parcial",
+      "sha256_pregunta": "d38ecda79e08b132a78021c61268d24b575f2b717f65cac325d71e45582a2f7e",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "parcial",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La reconstrucción del rescate del bebé y su vida hasta convertirse en Nox.",
+      "referencias": [],
+      "pendiente": "La reconstrucción del rescate del bebé y su vida hasta convertirse en Nox.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P39-003",
+      "pregunta_previa": "¿Quiénes son los elfos pálidos, qué enfermedad sufre ella y por qué el dragón no puede acercarse? No se establecen sus nombres ni la causa (39-016, 39-018, 39-020).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "6ca9bbbd03dbe8b270bf51f632b362ea5356bf90b06e01d312470bf03c48bc6d",
+      "resultado": "avance_parcial",
+      "estado_propuesto": "parcial",
+      "observacion_bloque": "Walulu explica el impedimento: un ritual tras el ataque de hace ciento veinte años protege Iktan de la entrada de dragones. La conversación se refiere a la criatura que busca a los hermanos. No fija por sí sola la identidad de la pareja anónima del 39 o un diagnóstico nuevo de la muchacha.",
+      "referencias": [
+        "47-318",
+        "47-320",
+        "47-321"
+      ],
+      "pendiente": "Integrar la identidad de los elfos y la continuidad nominal del dragón; queda pendiente el diagnóstico de la elfa anónima.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P39-004",
+      "pregunta_previa": "¿Qué quiere saber Walulu de los tatuajes durante el té y qué problemas tiene Iktan? La conversación propuesta no se realiza (39-017–39-018).",
+      "estado_previo": "parcial",
+      "sha256_pregunta": "6e5e2520f8aba1a23828112284bd6c69c11441fb7f27734f094b15c629078b5c",
+      "resultado": "avance_sin_cierre",
+      "estado_propuesto": "parcial",
+      "observacion_bloque": "El problema de Iktan se amplía con el ultimátum contra la ciudad y las limitaciones de la protección. La audiencia de Tesara y el felino trata del dragón, sin realizar la consulta de Citlali e Ione sobre tatuajes.",
+      "referencias": [
+        "47-311",
+        "47-319",
+        "47-320",
+        "47-321"
+      ],
+      "pendiente": "La conversación con Citlali y las causas completas de las amenazas.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P39-005",
+      "pregunta_previa": "¿Qué observa a la ciudad y qué ocurre con los yuan-ti sepultados? No se resuelve (39-011, 39-020).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "b04fc0d31ffef152c795339f6ff1224eca6be49b7f610f2610680aec99a1915b",
+      "resultado": "mencion_sin_respuesta",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "El dragón invisible se muestra ante este grupo y luego se retira. No identifica retrospectivamente la presencia del capítulo 39 ni informa de los yuan-ti sepultados.",
+      "referencias": [
+        "47-302",
+        "47-307",
+        "47-313"
+      ],
+      "pendiente": "La identidad de aquella presencia y el destino de los yuan-ti tras el derrumbe.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P40-001",
+      "pregunta_previa": "¿Quién anima los restos y qué relación causal tiene el veneno con los no muertos? La semejanza dracónica y la explicación de Leona no sustituyen un análisis de la muestra (40-016–40-017, 40-026, 40-035).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "bb1ef82bc081210a22ee28280bc713f0920bcf82889effbdddb49cbec78110ff",
+      "resultado": "avance_sin_cierre",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "El dragón llama suya a una hueste de muertos y amenaza con enviarla. Tesara le atribuye la emboscada con zombis. No se representa la animación de los restos del claro ni se analiza la función causal de su veneno.",
+      "referencias": [
+        "47-305",
+        "47-307",
+        "47-311"
+      ],
+      "pendiente": "El origen demostrado de la animación y la función causal del veneno.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P40-002",
+      "pregunta_previa": "¿Se recuperará la vegetación o continúa la contaminación del entorno del lago y del claro? La derrota de los zombis no se acompaña de una comprobación del entorno (40-013, 40-015, 40-024).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "90088c2a7813412165ada5c67e3711ddd0e2ee5b7b88d0593a234a8b2526efc4",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "Las raíces y plantas del encuentro se mueven, pero no se inspecciona la contaminación del lago y del claro ni se verifica la recuperación de la vegetación.",
+      "referencias": [
+        "47-306",
+        "47-313"
+      ],
+      "pendiente": "La extensión del daño y recuperación de la vegetación del claro y del lago.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P40-003",
+      "pregunta_previa": "¿Cuál es la grafía del nombre de la Serpiente del Bosque y es la cueva de la emboscada su guarida? El rastro orienta al norte, pero no fija su posición ni su relación con Clodidrax (40-030–40-033).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "5bb18b813de70d31bfa0e9a8b5a336b586da171769efce4f47561936d75375ce",
+      "resultado": "avance_parcial",
+      "estado_propuesto": "parcial",
+      "observacion_bloque": "Walulu informa de diferentes guaridas halladas por guardias y dispersas por la jungla. La conversación histórica aporta una conexión contextual con la criatura nombrada de varias formas, sin una guarida localizada o identificación de la cueva anterior.",
+      "referencias": [
+        "47-320",
+        "47-322"
+      ],
+      "pendiente": "La localización de las guaridas, la relación con la cueva de la emboscada y la integración nominal con Clolgedranx.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P40-004",
+      "pregunta_previa": "¿Qué información necesita Eldrat del dragón y aceptarán Ione y Poncelot ayudar? El interrogatorio y el reclutamiento no se realizan (40-037, 40-039).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "7be0bd82fc2a5c41b7a0705bcc8e3135c3b89e703410d2186d4030fa389b9168",
+      "resultado": "mencion_sin_respuesta",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "Tesara solicita una estrategia para matar al dragón. No intervienen Ione o Poncelot ni se revelan las preguntas que Eldrath quería hacerle; tampoco se ejecuta la caza.",
+      "referencias": [
+        "47-323"
+      ],
+      "pendiente": "La información concreta de Eldrath y el reclutamiento y ejecución de su expedición.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P40-005",
+      "pregunta_previa": "¿Qué explica los 77 años que declara Tortas frente a los siglos de inmovilidad que recuerda Walulu? No se ofrece una explicación (40-011, 40-031, 40-035).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "44cdd9774aee8d47519a785a822a55b1ab55e0e248f80cc2e19883bb36a58682",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "El dato de ciento veinte años se refiere al ritual de un dirigente antiguo. Tortas medita y es imitado, sin una explicación de sus cifras de edad.",
+      "referencias": [
+        "47-316",
+        "47-320",
+        "47-327"
+      ],
+      "pendiente": "La conciliación de la cronología personal de Tortas.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P40-006",
+      "pregunta_previa": "¿Llegará la ayuda prometida a Eromov y se producirá el ataque al festival? No se muestran el envío, una cura ni el ataque anunciado (40-002, 40-006, 40-036).",
+      "estado_previo": "parcial",
+      "sha256_pregunta": "af3c2965b01bc4098a3ff00ef61ebbc5d174124dcdecf2da3102df1628fd62de",
+      "resultado": "mencion_sin_respuesta",
+      "estado_propuesto": "parcial",
+      "observacion_bloque": "La amenaza del dragón y la preparación contra su hueste añaden un frente local, sin identificarse como toda la operación del festival. La audiencia no trata la llegada de expertos o la evolución de Eromov.",
+      "referencias": [
+        "47-311",
+        "47-321",
+        "47-324"
+      ],
+      "pendiente": "La llegada de los expertos, recuperación de Eromov y alcance restante de la operación anterior.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P40-007",
+      "pregunta_previa": "¿Dónde está Cipo tras la patada y de dónde procede el fragmento de espada recuperado? No se resuelven su búsqueda ni la historia del arma (40-003–40-009).",
+      "estado_previo": "parcial",
+      "sha256_pregunta": "baf96371f6bd6f356a843bd244678399b6e8a267021bf1fc0c500ec3398e9175",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "parcial",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: El origen, dueño e historia del fragmento de espada.",
+      "referencias": [],
+      "pendiente": "El origen, dueño e historia del fragmento de espada.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P41-001",
+      "pregunta_previa": "¿Quién es el emisario de Atlan esperado por Naór y qué explica su retraso? Su ausencia no demuestra captura, muerte o responsabilidad de los hombres serpiente (41-002, 41-004).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "a06545db4d17d832746d2febca5ae6c00454030a5ddb953185f9cf63eb1701b1",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La identidad, el paradero y el motivo del retraso del emisario.",
+      "referencias": [],
+      "pendiente": "La identidad, el paradero y el motivo del retraso del emisario.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P41-002",
+      "pregunta_previa": "¿Quién es «ella», qué está viniendo a hacer y qué no permitirá descubrir? La prisionera no la nombra y no se identifica su llegada (41-018, 41-023).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "f87c517c7bf1546e3be69c467d4c27a7d1cd6fbf2fdf0c581eadc93686cc08fa",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La identidad y propósito de la presencia anunciada como «ella».",
+      "referencias": [],
+      "pendiente": "La identidad y propósito de la presencia anunciada como «ella».",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P41-003",
+      "pregunta_previa": "¿Qué causa el dolor inexplicado, la expulsión de serpientes y la muerte de la infiltrada? La curación de las quemaduras no lo detiene y no se identifica un agente (41-021–41-023).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "41bd1ed6ad186f3379a7ab4b5d3ab520c7bdb15d433d26ebb79a1bc471a31013",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La causa del dolor, la salida de serpientes y la muerte.",
+      "referencias": [],
+      "pendiente": "La causa del dolor, la salida de serpientes y la muerte.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P41-004",
+      "pregunta_previa": "¿Por qué querían retirar al Anciano y qué alcance tiene la operación contra Iktan? Se localizan dos sacerdotes y se ve una abominación, sin verificar la segunda anunciada ni toda la red de mando (41-011, 41-023, 41-028, 41-038, 41-046).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "7e47effa957f6142c269302c8f84efd3b0b5c4139042815fd692bcbf7709a92a",
+      "resultado": "mencion_sin_respuesta",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La búsqueda de los elfos y la amenaza de muertos no se vinculan expresamente con la orden de retirar a Tortas o el mando de los sacerdotes del norte.",
+      "referencias": [
+        "47-310",
+        "47-311",
+        "47-316"
+      ],
+      "pendiente": "La finalidad de retirar al Anciano, los integrantes restantes y el mando de aquella operación.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P41-005",
+      "pregunta_previa": "¿Qué ocurre con el cautivo vivo después de que la voz exija dejar los cuerpos? No se representa su traslado, interrogatorio o muerte (41-042, 41-047, 41-049–41-051).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "8291f2352b194b10992346b8542baf39c3bdb415b09f2998e96b96f84f7b8015",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: El destino del cautivo vivo y la información que pudiera proporcionar.",
+      "referencias": [],
+      "pendiente": "El destino del cautivo vivo y la información que pudiera proporcionar.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P41-006",
+      "pregunta_previa": "¿Qué contienen los viales verdes y qué relación tienen con el veneno de Eromov o la muestra del claro? Winscore recoge recipientes, pero no se analiza su composición ni se equiparan las fuentes (41-019, 41-028–41-030, 41-051).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "b832372d44e248ded79884764b9077bf347a60fc1648ee5b3f8fc9252a93e235",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La composición de los viales y la relación comprobada entre las distintas muestras de veneno.",
+      "referencias": [],
+      "pendiente": "La composición de los viales y la relación comprobada entre las distintas muestras de veneno.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P41-007",
+      "pregunta_previa": "¿Quién fabrica o proporciona las cimitarras de buena factura y qué organización equipa a los atacantes? La calidad observada no identifica proveedor o mando (41-047).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "10c5c516a78037c8098ffe2b7d929382e0bf242b16ed32e167bd83d26ab78142",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: El fabricante, proveedor y organización que equipa a los adversarios.",
+      "referencias": [],
+      "pendiente": "El fabricante, proveedor y organización que equipa a los adversarios.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P41-008",
+      "pregunta_previa": "¿Por qué Tentacol escucha la voz sin sentir la compulsión? La sugerencia de que Chopito lo protege no confirma una causa o inmunidad (41-049–41-050).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "cb1b9ce085d9007698b6d923b0b89e1d6da51fea9ed46a5e9053c7d6686e3463",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "Tentacol negocia y Chopito se comunica mentalmente con él, pero no se explica la excepción a la compulsión del capítulo 41.",
+      "referencias": [
+        "47-309"
+      ],
+      "pendiente": "La causa de la excepción de Tentacol a aquella compulsión.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P41-009",
+      "pregunta_previa": "¿Cuál es la grafía del nombre del dragón verde, dónde está su guarida y qué relación de identidad tiene con Clodidrax? El olor queda reconocido, pero el deletreo no es seguro y Tortas desconoce la guarida (41-051, 41-054–41-055).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "8a0f7fc040061d93cd41998ff9ff4bb8e27649a1104b7cc23c4b3a10f10d22fd",
+      "resultado": "avance_parcial",
+      "estado_propuesto": "parcial",
+      "observacion_bloque": "Walulu habla de la criatura en relación con el ataque antiguo y explica que los guardias encontraron varias guaridas. No ofrece posición concreta o inspección; la grafía del usuario y su equivalencia con el dragón descriptivo deben integrar las fuentes históricas.",
+      "referencias": [
+        "47-320",
+        "47-322"
+      ],
+      "pendiente": "La ubicación de guaridas y la integración inequívoca de identidad con Clolgedranx.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P41-010",
+      "pregunta_previa": "¿Podrá Naór visitar Perlasal y permanecer bajo el agua? La consulta a Chopito no proporciona un medio para respirar allí (41-010).",
+      "estado_previo": "resuelta",
+      "sha256_pregunta": "ba96721d56ad27b5f6c148436099ca11abece223df7212861c2f6e8a1d4ef0d7",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "resuelta",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: Su resolución anterior se conserva; este tramo no la modifica.",
+      "referencias": [],
+      "pendiente": "",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P41-011",
+      "pregunta_previa": "¿Qué explica el brillo mágico del Anciano durante la vigilancia del festival? La detección no identifica origen o función, ni atribuye ese brillo a la piedra que lo sostiene (41-024).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "94366b38b1dbbc8111a66ce43165984ae00021263222e79ed1c28d91ec5df76b",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La prestidigitación explica la apariencia de roca de Tentacol en la imitación. No explica el brillo anterior de Tortas ni lo atribuye a la piedra sagrada.",
+      "referencias": [
+        "47-327"
+      ],
+      "pendiente": "El origen y función del brillo mágico detectado en el Anciano.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P42-001",
+      "pregunta_previa": "¿Qué destino tienen Nox, Pinky y Tórtola tras la explosión del Invictus? El director despide a Nox y Pinky, pero la búsqueda no recupera el cuerpo de Nox ni se representa el destino del aviar (42-060–42-064, 42-072).",
+      "estado_previo": "parcial",
+      "sha256_pregunta": "67e664752784036a96c6addb0036c253a72d14037d75389ef78621d42c42ff15",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "parcial",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: El destino de Pinky y Tórtola y cualquier recuperación o escena posterior de los tres.",
+      "referencias": [],
+      "pendiente": "El destino de Pinky y Tórtola y cualquier recuperación o escena posterior de los tres.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P42-002",
+      "pregunta_previa": "¿Qué función tienen los tatuajes y el ojo-orbe en la última decisión de Nox y dónde queda el objeto? Su presencia en la chaqueta no acredita dominación, protección o una vía de escape (42-061).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "fcf7ca6378ec0803b03e9378d39c1d868e39872991a0ebc38a20316aa58b2515",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La función de los tatuajes y el ojo en la decisión de Nox y el paradero posterior del objeto.",
+      "referencias": [],
+      "pendiente": "La función de los tatuajes y el ojo en la decisión de Nox y el paradero posterior del objeto.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P42-003",
+      "pregunta_previa": "¿Qué consecuencias tiene el disparo de Taylor contra Bonnie y quién controlará Shiaru? La sesión cierra con el disparo a la frente y la despedida del director, sin mostrar el nuevo gobierno (42-068–42-072).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "cd6f8c70b13161038ccd21cd75ede5cab2e6988216a1fad5c27d965ad386eba8",
+      "resultado": "mencion_sin_respuesta",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "Los piratas dicen a Patata que los echaron de Shiaru y por eso están en Iktan. No identifican al gobernante ni añaden una escena de las consecuencias del disparo contra Bonny.",
+      "referencias": [
+        "47-317"
+      ],
+      "pendiente": "Las consecuencias posteriores del disparo y el gobierno de Shiaru.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P42-004",
+      "pregunta_previa": "¿Cuáles eran las cláusulas del pacto entre los cinco reyes y qué harán en Xoltacan? Taylor acusa a Bonnie de ocultar la isla y faltar a reuniones, pero no expone todo el acuerdo (42-069–42-072).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "eb218ffbe13a4b93ea3c49fff8a30c1894cd871823f66423c142bb1f7eb9edf5",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: Los términos completos del acuerdo y los planes de los cuatro reyes.",
+      "referencias": [],
+      "pendiente": "Los términos completos del acuerdo y los planes de los cuatro reyes.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P42-005",
+      "pregunta_previa": "¿Quién es el joven Jackie que Taylor dice haber capturado rumbo a Puerto de Espadas y cuál es su destino? No se demuestra su identidad con Jack, presente en el Zampaolas (42-008, 42-029, 42-070).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "5a58035986b7a098d9f72cb8d92cd44dca5be4d9651b97e6434944eb23956808",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La identidad del cautivo, la fecha de la captura y su destino.",
+      "referencias": [],
+      "pendiente": "La identidad del cautivo, la fecha de la captura y su destino.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P42-006",
+      "pregunta_previa": "¿Dónde continuará Ione la búsqueda de Nox y cómo utilizará la moneda recibida? Acepta salir de la batalla, pero se niega a abandonar Shiaru (42-066–42-067).",
+      "estado_previo": "parcial",
+      "sha256_pregunta": "d7360c103606984f596d0332a9d9fdbc8c36d18dda17bbd90fddec1995cc2b43",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "parcial",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La continuación de la búsqueda de Ione y la activación o uso de la moneda por ella.",
+      "referencias": [],
+      "pendiente": "La continuación de la búsqueda de Ione y la activación o uso de la moneda por ella.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P42-007",
+      "pregunta_previa": "¿A qué reyes y monedas corresponden los ataques de hielo y fuego y cuáles son sus límites? La llegada de las cuatro banderas no distribuye individualmente esos poderes (42-065–42-069).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "d4c81e3d44e1fac450cecf5c3f2e7cd4434a6a29c6beb0a2f07c28541f7ec0ca",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La atribución y los límites de esos poderes y de las monedas de cada rey.",
+      "referencias": [],
+      "pendiente": "La atribución y los límites de esos poderes y de las monedas de cada rey.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P43-001",
+      "pregunta_previa": "¿Quién es el ser serpentino vinculado a Citlali y qué anuncia con «ya es la hora»? La incita a quitar juventud y activa símbolos iguales a sus tatuajes, sin revelar su nombre o plan completo (43-045–43-046, 43-062).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "571b003f8470243c95110c7854a5f270555172163183ae37fbea48e5e39013d3",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: Su identidad, naturaleza y plan tras el anuncio.",
+      "referencias": [],
+      "pendiente": "Su identidad, naturaleza y plan tras el anuncio.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P43-002",
+      "pregunta_previa": "¿Dónde está el altar de los símbolos de Citlali y qué produce su activación? El epílogo no lo localiza ni muestra la consecuencia de encender las marcas (43-062).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "3bbebcaa5f7a60fff092327b36e3e9f2892235c98db553baadde7c8410fc8630",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La localización, función y consecuencias del altar.",
+      "referencias": [],
+      "pendiente": "La localización, función y consecuencias del altar.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P43-003",
+      "pregunta_previa": "¿Qué ocurrió entre el niño Amaru del recuerdo de Citlali y la vida adulta de Nox? El reconocimiento materno los enlaza, sin reconstruir el rescate del cofre, la crianza o los años intermedios (43-059, 43-061).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "fc825d56a66fa742cf7cad9668d6aadb1a90ddde7d28470a733e332337073e0e",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: El rescate, la crianza y la cronología entre ambos momentos.",
+      "referencias": [],
+      "pendiente": "El rescate, la crianza y la cronología entre ambos momentos.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P43-004",
+      "pregunta_previa": "¿Cómo evolucionarán la absorción vital, el rejuvenecimiento y las quemaduras de Citlali? El cambio se observa, pero no se fija una edad final, su duración o todo el alcance de la influencia serpentina (43-037, 43-046, 43-050–43-051, 43-057).",
+      "estado_previo": "parcial",
+      "sha256_pregunta": "6d770b4eafa20b300b7faa6120ba2b5a313265cce95856664a3ac5d785b913f9",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "parcial",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La duración y edad final del rejuvenecimiento, el origen y los límites del poder y una posible cura de la maldición.",
+      "referencias": [],
+      "pendiente": "La duración y edad final del rejuvenecimiento, el origen y los límites del poder y una posible cura de la maldición.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P43-005",
+      "pregunta_previa": "¿Qué encuentra Citlali cuando alcance el Zampaolas? Ve la bandera y las velas, pero el capítulo termina antes del encuentro con los tripulantes (43-059, 43-061).",
+      "estado_previo": "parcial",
+      "sha256_pregunta": "25775032b7195240e989d809cc1386689e068aac7b23cd7722db21051ede6f21",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "parcial",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: El diálogo completo del encuentro, la atribución del disparo y la información recibida de la tripulación.",
+      "referencias": [],
+      "pendiente": "El diálogo completo del encuentro, la atribución del disparo y la información recibida de la tripulación.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P43-006",
+      "pregunta_previa": "¿Cómo se recuperará Erandy de su agotamiento y qué consecuencias tendrá su trance? La escudera apenas se mantiene en pie; su interpretación de la explosión no acredita una aparición del dios solar (43-033, 43-047, 43-052, 43-060).",
+      "estado_previo": "parcial",
+      "sha256_pregunta": "1c25c768ae7a041b5acfb439400fe0726276f9cd82d65486bf15aff8e9aacca3",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "parcial",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: Su recuperación completa, la causa del mareo y las consecuencias del trance.",
+      "referencias": [],
+      "pendiente": "Su recuperación completa, la causa del mareo y las consecuencias del trance.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P43-007",
+      "pregunta_previa": "¿Qué leyenda evoca Eleanor al entregar su broche a Molly y qué podría hacer con ella? La propuesta es condicional y no demuestra una resurrección o un poder del objeto (43-015).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "e2f830bebd86cb27269b483975d7057e5760d08c471b79f204c8c0fb2d9a6eb5",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: El contenido de la leyenda y la capacidad concreta a la que alude Eleanor.",
+      "referencias": [],
+      "pendiente": "El contenido de la leyenda y la capacidad concreta a la que alude Eleanor.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P43-008",
+      "pregunta_previa": "¿Cuál es la procedencia de la caja de música y qué relación causal, si la hay, tiene su melodía con las marcas y el dolor de Citlali? El recuerdo y el duelo no explican un mecanismo del objeto (43-003, 43-059).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "1d8dd70290d5442f6eb13674ebd2b10f75fd4750ab0513effef4747b86375ff2",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La procedencia del objeto y cualquier efecto propio que pueda demostrarse.",
+      "referencias": [],
+      "pendiente": "La procedencia del objeto y cualquier efecto propio que pueda demostrarse.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P44-001",
+      "pregunta_previa": "¿Se recuperará completamente Eromov con el tratamiento posterior? La primera preparación reduce sus venas negras y Parroter anuncia más remedio, sin vuelta a sus funciones o final de la enfermedad (44-056).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "2584cdcd6573edfdae07f40b9737e4669430641ffc210197e21047c5030209e9",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La evolución posterior y la recuperación completa.",
+      "referencias": [],
+      "pendiente": "La evolución posterior y la recuperación completa.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P44-002",
+      "pregunta_previa": "¿Qué fabricará el herrero con el exoesqueleto y en qué condiciones? Ayoto lleva material para otro escudo, sin un encargo aceptado, precio o pieza terminada (44-051, 44-053, 44-055).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "9ffec3bc1bb2544b5285174ce3c2a8752115253b60d7038e712985a6eb412fb5",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La aceptación del encargo, el precio y el equipo finalmente fabricado.",
+      "referencias": [],
+      "pendiente": "La aceptación del encargo, el precio y el equipo finalmente fabricado.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P44-003",
+      "pregunta_previa": "¿Quiénes son los restos humanoides que consume el moho y cuál es el destino de la masa? Queda moribunda antes de la descarga ácida, sin una muerte confirmada (44-022, 44-030–44-031).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "92def3e8bdbac7e330c99c21c6de0889fa15100f12187bcf84e9a9e958e20893",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La identidad y procedencia de los restos y el destino de la masa.",
+      "referencias": [],
+      "pendiente": "La identidad y procedencia de los restos y el destino de la masa.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P44-004",
+      "pregunta_previa": "¿Cómo encontró Eromov a Leona cuando era pequeña y qué historia comparten desde entonces? El recuerdo impulsa la extracción sin reconstruir su infancia ni fijar toda su filiación (44-037).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "d911c8099ca5c37fe4e2466a1587b71e3b91c33dda9049c1ef91af40c625f21d",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: Las circunstancias de aquel encuentro y la historia de su crianza.",
+      "referencias": [],
+      "pendiente": "Las circunstancias de aquel encuentro y la historia de su crianza.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P44-005",
+      "pregunta_previa": "¿Tendrá consecuencias comer la carne del devorafango pese al aviso de Parroter? Se prueba el plato y Leona soporta el picante, sin una intoxicación o seguimiento posterior mostrados (44-048, 44-050–44-054).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "f30e36265f2456263cda9b26c4cca7f89bd99022aec489f5ad0faf5ccd6c9a69",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: Si aparecen consecuencias posteriores de comer la carne.",
+      "referencias": [],
+      "pendiente": "Si aparecen consecuencias posteriores de comer la carne.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P44-006",
+      "pregunta_previa": "¿Cómo se recuperarán Ayoto y Guayacán de las heridas? Terminan apoyándose para caminar hacia el herrero, sin una recuperación completa o un descanso final representados (44-055).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "37d1310658ad94a2a67632f4bf52920acb071b2a870a2af842448e20ff0156e0",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La recuperación posterior de ambos y sus posibles secuelas.",
+      "referencias": [],
+      "pendiente": "La recuperación posterior de ambos y sus posibles secuelas.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P45-001",
+      "pregunta_previa": "¿Qué destino tuvieron Alfira, Zamuria, Jariora y María Antonieta? La guía huyó cuando quedaban compañeros y la cautiva del altar no se identifica con uno de esos nombres (45-020, 45-024–45-025, 45-068).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "92f6d64ae0d1884fba232980eeef09d6acde1d4e25702a3f55c846861cf01a59",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: El destino e identidad de cada persona nombrada y de los demás integrantes.",
+      "referencias": [],
+      "pendiente": "El destino e identidad de cada persona nombrada y de los demás integrantes.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P45-002",
+      "pregunta_previa": "¿Quién es el dios que los oficiantes quieren resucitar y qué poseen las sirenas que necesitan para ello? Las palabras del culto no identifican a esa divinidad con Chopito o el kraken ni demuestran la eficacia del rito (45-045, 45-048, 45-057, 45-072).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "2b697b896e303ab0d3f8ff9a1af7b171b7e6105f6c122c937846f5d15c7cf39b",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La discusión del felino con Tesara sobre dioses y sacrificios expresa sus posiciones. No identifica al dios de los Profundos ni explica su resurrección o el papel de las sirenas.",
+      "referencias": [
+        "47-326"
+      ],
+      "pendiente": "La identidad del dios y los requisitos y eficacia del rito de los Profundos.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P45-003",
+      "pregunta_previa": "¿Qué consagra el altar y por qué toda el agua del escondite emite magia? La detección no identifica el origen, el efecto completo o una forma de desactivarlo (45-071–45-072).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "95e9162db152be30a940926dc5fcb832fca521ca49096a99f6dc381f867ab650",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: El origen, alcance y consecuencias de la magia y su posible desactivación.",
+      "referencias": [],
+      "pendiente": "El origen, alcance y consecuencias de la magia y su posible desactivación.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P45-004",
+      "pregunta_previa": "¿Quedan otros Profundos, cautivos o rituales activos? Se vence a los defensores y se rescata a una sirena, pero no se interroga al sacerdote ni se desactiva el lugar o documenta toda la red (45-043, 45-069, 45-071, 45-073).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "6f940f21d05c53c164efe9d34a4c03332ae5f6ccfceb40097e7b30a432da290f",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: El alcance restante de la red, los demás cautivos y la actividad de otros rituales.",
+      "referencias": [],
+      "pendiente": "El alcance restante de la red, los demás cautivos y la actividad de otros rituales.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P45-005",
+      "pregunta_previa": "¿Aceptará Ivet acudir al concilio de Tutucan? Su respuesta queda en meditarlo, de momento poco favorable por los problemas de Perlasal (45-077).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "aa8ea005456da3370bc70fd9111bd250b0290e1bdc15419b33e69bf10b056a2f",
+      "resultado": "mencion_sin_respuesta",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La reunión futura de Walulu con Naór no contiene una respuesta de Ivet ni la confirmación de su asistencia a Tutucan.",
+      "referencias": [
+        "47-325"
+      ],
+      "pendiente": "La decisión definitiva de Ivet y eventual asistencia.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P45-006",
+      "pregunta_previa": "¿Qué términos tuvo la antigua promesa de unión entre las tribus y qué explica su ruptura? Ivet y Naór ofrecen posiciones distintas sin reconstruir todo el pacto (45-076–45-077).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "c6bb63655a02662e6f753e7b227abffef254081bfeffcd808e2ce74f3290923c",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: Los términos completos del pacto y la historia contrastada de sus incumplimientos.",
+      "referencias": [],
+      "pendiente": "Los términos completos del pacto y la historia contrastada de sus incumplimientos.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P45-007",
+      "pregunta_previa": "¿Qué propiedades o utilidad tiene la perla hallada por Tentacol? Su obtención no identifica un efecto, precio o uso (45-070).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "b70b274b62f553a1dd392767877db1e21908c46748ae553d47ee936a95c66297",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: Su utilidad, propiedades y destino posterior.",
+      "referencias": [],
+      "pendiente": "Su utilidad, propiedades y destino posterior.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P45-008",
+      "pregunta_previa": "¿Se recuperará la cola de la sirena rescatada? Llega a Perlasal con ayuda, pero no se representa un tratamiento o una curación completa (45-068, 45-073).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "dd06da843b408bb982f919002773475ebff56706e0038435f2044bad50835516",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: El tratamiento y recuperación de la cola.",
+      "referencias": [],
+      "pendiente": "El tratamiento y recuperación de la cola.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P45-009",
+      "pregunta_previa": "¿Qué significa el destello de Tortas tras preguntar el año y la hora? La manifestación no fija un cambio de edad o capacidades ni concilia sus cronologías (45-011).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "c0adbcac5728f2183ef88812cbaf962e136866623b180c7569c55072365866e5",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "Tortas sigue meditando y Tentacol y Chopito lo imitan. No se explica el destello que siguió a la pregunta por la fecha y hora.",
+      "referencias": [
+        "47-316",
+        "47-327"
+      ],
+      "pendiente": "El sentido de aquella manifestación.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P46-001",
+      "pregunta_previa": "¿Quién mató a los ocupantes de la cueva y qué relación tiene Zoltan con esos cadáveres? El aspecto eléctrico y la sospecha de Eleanor no demuestran su autoría (46-019, 46-021, 46-030, 46-049).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "1656723abaf2229438ad9a3019f56c8ee197ae12456166054de2338403b0934c",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: La autoría, los motivos y la secuencia de las muertes de la cueva.",
+      "referencias": [],
+      "pendiente": "La autoría, los motivos y la secuencia de las muertes de la cueva.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P46-002",
+      "pregunta_previa": "¿Qué cartel recuerda Zoltan al conocer a Ione y qué causa su dolor? El flash es borroso e ilegible y no fija una recompensa, acusación o vínculo previo concreto (46-024).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "d313a43d19c7b837886d7e05c9d3a57a71860d10a436185d9b4bed3a3df738a4",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: El contenido del cartel, el origen del recuerdo y su relación con Ione.",
+      "referencias": [],
+      "pendiente": "El contenido del cartel, el origen del recuerdo y su relación con Ione.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P46-003",
+      "pregunta_previa": "¿De dónde proceden la cicatriz y la mancha oscura de Zoltan, y por qué estaba cautivo? Su presentación no reconstruye el origen de las marcas ni la duración y circunstancias del encierro (46-019–46-025, 46-026).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "10c59f77c7cfaed12eabcdd159f1800be39babbfa375eabcb43d04ff27d02441",
+      "resultado": "mencion_sin_respuesta",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "Angelique describe a Zoltan con una herida y torso desnudo. No explica el origen de la cicatriz o mancha ni las circunstancias de su cautiverio.",
+      "referencias": [
+        "47-328"
+      ],
+      "pendiente": "El pasado, las marcas y los responsables y motivos del encierro.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P46-004",
+      "pregunta_previa": "¿Cuál es el origen de la electricidad de Zoltan y conseguirá controlarla? Descargas de contacto, barrera y rayos son observables; la extracción del colmillo y las chispas de las casas muestran descontrol (46-030, 46-032, 46-034, 46-041, 46-045, 46-049, 46-051).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "a647eaac88053c11bc34560e61a521ab63776f0bfdd76971eb77e5438c8fd9b1",
+      "resultado": "mencion_sin_respuesta",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "Angelique vuelve a mencionar chispazos de su encuentro con Zoltan. No hay una demostración nueva de control, un origen o condiciones de su electricidad.",
+      "referencias": [
+        "47-328"
+      ],
+      "pendiente": "El origen, condiciones, límites y dominio estable de sus capacidades.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P46-005",
+      "pregunta_previa": "¿Qué dicen las inscripciones de la copa hallada por Eleanor y cuál es su procedencia? Se distingue de otra copa anterior y se presenta como tesoro, sin lectura o poder ritual probado (46-027).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "3f54d7ff791d5233e1e97a57241746922e90119a67d5c474da6cf2af0be032dc",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "La lectura íntegra de 01:34:05.719–02:20:12.399 no aporta respuesta nueva al asunto concreto de esta pregunta. Límite cotejado: Su procedencia y la lectura de las inscripciones; la venta general no documenta un análisis.",
+      "referencias": [],
+      "pendiente": "Su procedencia y la lectura de las inscripciones; la venta general no documenta un análisis.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P46-006",
+      "pregunta_previa": "¿Dónde está el novato llamado Jacki y a quién corresponde esa mención? Sus compañeros dicen que faltaba desde la playa, sin confirmar su identidad con Jack o el cautivo de Taylor ni su destino (46-059–46-060).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "a338434452f08da228dca0726394bb419e67d28f32e0744537bc4c756e4e2173",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "Patata reconoce a los piratas y les pregunta por la capitana, pero esta conversación no localiza al novato o aclara su identidad.",
+      "referencias": [
+        "47-317"
+      ],
+      "pendiente": "La identidad, paradero y circunstancias de la desaparición del novato.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P46-007",
+      "pregunta_previa": "¿Cómo reunirá Ione los apoyos para recuperar Shiaru y qué encontrará al volver? La venta a Froger aporta veinticuatro monedas, sin reclutamiento o reconquista representados (46-060, 46-063).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "490021550c8649d07b12ae9d6ce88dbb723428d6cc9d65de0ebf94d09a284321",
+      "resultado": "sin_cambio_en_el_bloque",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "Los piratas explican su desplazamiento a Iktan, pero no ejecutan el plan de Ione de buscar apoyos o recuperar el puerto.",
+      "referencias": [
+        "47-317"
+      ],
+      "pendiente": "Los apoyos, expedición, situación del puerto y resultado del plan.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    },
+    {
+      "id": "P46-008",
+      "pregunta_previa": "¿Se celebrará la reunión de madres con Citlali y cómo continuará la convivencia escolar de Leo y Etley? La invitación de Miausi y la reprimenda no representan la reunión o el regreso del niño (46-054–46-056, 46-064).",
+      "estado_previo": "pendiente",
+      "sha256_pregunta": "e2b512526ac194dd81913b0fd09ca6b599b06591a2565852f5f9f9b7d10164e3",
+      "resultado": "mencion_sin_respuesta",
+      "estado_propuesto": "pendiente",
+      "observacion_bloque": "Tesara dice que lleva días cuidando al niño que Naór le dejó; el numeral se corta en «tr». No se representa la reunión de madres, el encuentro con Naór o la evolución escolar con Eztli.",
+      "referencias": [
+        "47-325"
+      ],
+      "pendiente": "La reunión de madres, el regreso de Leo y la convivencia escolar.",
+      "alcance": "Solo bloque 3 del capítulo 47; no declara ausencia en el capítulo completo."
+    }
+  ],
+  "dudas_y_puentes": [
+    "Mictlan: nombre reconocido en los bloques como Mlan/Miklan/Mic/mi clan. El coordinador ha leído completos los 36 mensajes de la escena posterior x-1531013198478708756 y confirma la grafía por rótulo. La entrega usa ese canónico con nota de respaldo, sin trasladar los sucesos posteriores al vídeo.",
+    "Los elfos son llamados Miriam y Eldrin/el Dream. El coordinador confirma Eldrath y Tryel mediante lectura íntegra de los 80 mensajes posteriores de x-1530576387507753053: Tessa usa esas variantes ante personajes rotulados, él asume la amenaza contra él y su hermana y Tryel interviene. El relato del vídeo conserva la pareja descriptiva; integrar identidades con fuente posterior separada.",
+    "Walulu nombra al dragón del diálogo como Glendra Drax/Colgenrax. Coordinación aplica la grafía del usuario Clolgedranx por el puente del encargo de los hermanos y la barrera de Iktan del 39; se añade la relación testimonial con ruinas. Documentar el puente histórico respecto de Dragón verde del bosque de Iktan, sin confundir con Zarynth.",
+    "El ataque a las ruinas y el ritual protector de hace ciento veinte años aparecen como relato de Walulu apoyado en un libro. Puede avanzar P31-001 y P39-003, conservando su condición testimonial.",
+    "Oliver es hermano de Tesara por respuesta explícita. No está capturado ni presente en escena. Cotejar cualquier ficha histórica antes de crear duplicado.",
+    "La voz que ofrece protección contra venenos en 01:44:45.639–01:44:52.910 carece de hablante rotulado. La oferta se conserva sin atribución nominal; no usar poderes genéricos para asignarla.",
+    "La salida y falta de regreso de la patrulla son noticias de Angelique; el ahogamiento es solo su hipótesis. No sustituir el resultado de la expedición acuática del capítulo 45 por esa conjetura.",
+    "El bloque empieza durante la curación del felino y el combate ya cerrado; no vuelve a narrar el daño previo ni confirma por sí solo su cantidad.",
+    "El ofrecimiento de reunión al regreso de Naór no precisa destino o convocados completos y no equivale automáticamente al concilio de Tutucan. Enlazar con planes de los otros bloques.",
+    "El cuidado del niño lleva días, pero el numeral se corta en «Llevo tr» y no se fija como tres. El ayer de Angelique y las dos semanas de jungla de Patata son declaraciones contextuales, no un calendario absoluto certificado.",
+    "La apariencia de roca de Tentacol y la barba del pulpo se sitúan en una imitación con prestidigitación. Las bromas sobre maldiciones, memes y personajes de otras campañas no se incorporan como hechos de Xoltacan.",
+    "Madame Oghma no recibe acceso atestiguado a estas conversaciones; conocimiento_personaje permanece desconocido."
+  ]
+}
