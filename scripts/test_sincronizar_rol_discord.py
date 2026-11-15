@@ -121,8 +121,9 @@ class SyncTests(unittest.TestCase):
 
     def test_bootstrap_refuses_tampered_source_and_writes_no_checkpoint(self):
         response = next((self.folder / 'respuestas').iterdir())
-        response.write_bytes(b'[]')
-        with self.assertRaises(ValueError):
+        # También debe cambiar una respuesta vacía, sea cual sea el orden del directorio.
+        response.write_bytes(response.read_bytes() + b' ')
+        with self.assertRaisesRegex(ValueError, 'Hash del original incorrecto'):
             self.initialize()
         self.assertFalse((self.root / STATE).exists())
 
