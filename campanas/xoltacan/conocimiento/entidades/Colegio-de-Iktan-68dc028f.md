@@ -8,11 +8,11 @@ Conservar separado de una identificación arquitectónica o institucional autom�
 
 Etiquetas agrupadas: Colegio de Iktan.
 
-Base para revisar equivalencia: [45-002](../capitulos/45.md), [45-003](../capitulos/45.md), [45-004](../capitulos/45.md), [45-010](../capitulos/45.md), [45-018](../capitulos/45.md), [46-054](../capitulos/46.md), [46-055](../capitulos/46.md), [46-056](../capitulos/46.md), [46-064](../capitulos/46.md), [47-004](../capitulos/47.md), [47-005](../capitulos/47.md), [47-006](../capitulos/47.md).
+Base para revisar equivalencia: [45-002](../capitulos/45.md), [45-003](../capitulos/45.md), [45-004](../capitulos/45.md), [45-010](../capitulos/45.md), [45-018](../capitulos/45.md), [46-054](../capitulos/46.md), [46-055](../capitulos/46.md), [46-056](../capitulos/46.md), [46-064](../capitulos/46.md), [47-004](../capitulos/47.md), [47-005](../capitulos/47.md), [47-006](../capitulos/47.md), [48-120](../capitulos/48.md), [48-129](../capitulos/48.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 47.
+Relato revisado hasta el capítulo 48.
 
 ### Las dos horas anteriores al viaje
 
@@ -31,6 +31,12 @@ Fuentes: [46-054 · Citlali encuentra a Etley con Leo a la salida del colegio](.
 Tesa deja a Leo en su puerta mientras él se queja de una agresión anterior ocurrida, según su versión, allí mismo. Tras una disputa y un gesto insultante, el niño entra corriendo cuando ella saca el látigo. La llegada permite a Tesa dedicar tiempo a sus propios estudios.
 
 Fuentes: [47-004 · Tesa lleva a Leo al colegio y reclama que vuelva su madre](../capitulos/47.md) · 00:03:27.879 · [47-005 · Leo acusa a una mujer de haberle pegado en el colegio](../capitulos/47.md) · 00:03:57.720 · [47-006 · Leo entra en el colegio después de provocar a Tesa](../capitulos/47.md) · 00:04:56.680.
+
+### Una espera a la salida
+
+La sesión vuelve a su puerta después de la expedición de la cueva. Una mujer felina espera con libros y carpetas junto a Leo y se impacienta por la tardanza de Naór. La madre todavía corre por la jungla. No llegan a representarse la recogida, la conversación sobre el retraso o una reunión de madres.
+
+Fuentes: [48-120 · Naór deja la investigación para recoger a Leo](../capitulos/48.md) · 03:08:22.880 · [48-129 · Leo espera y Naór sigue corriendo por la jungla](../capitulos/48.md) · 03:22:36.840.
 
 ## Registros y evidencias
 
@@ -121,4 +127,60 @@ Tipo: `hecho_confirmado`.
 Cuando Leo dice que Tesa parece vieja, ella declara que le da un golpe y él agacha las orejas. El niño insiste en que su madre castigará a las dos mujeres, hace un gesto insultante desde la puerta y sale corriendo hacia dentro cuando Tesa saca el látigo. Tesa queda libre para volver a la taberna.
 
 No se fija el tipo o daño del golpe. Sacar el látigo no prueba que llegue a azotarlo. La frase sobre el tío Johnny pertenece al comentario de Tesa y no desarrolla una nueva historia familiar.
+
+## [48-001 · Naór recuerda el colegio y sus nuevos encuentros](../capitulos/48.md) · 00:00:13.160
+
+Tipo: `declaracion_personaje`.
+
+En el repaso inicial, la jugadora de Naór recuerda que conoció a Citlali al salir del colegio de Leo y Eztli: hubo un desencuentro, pero comprobaron que los pequeños jugaban juntos. También recuerda haber ido a entrenar con el interlocutor transcrito como Ilicar y Lilicar; dice que lo dejó inconsciente y que después ella acabó inconsciente en un combate con Tortas.
+
+Recapitulación de acontecimientos anteriores, sin volver a representar los encuentros. La identificación del nombre Ilicar/Lilicar con Ilikar es compatible con el catálogo, pero no se utiliza este repaso para fijar una nueva identidad ni las circunstancias de cada pérdida de conocimiento.
+
+## [48-018 · Naór recibe una clase de calma de una tortuga con gafas](../capitulos/48.md) · 00:22:40.159
+
+Tipo: `hecho_confirmado`.
+
+El director sitúa a Naór en el templo junto a Walulu y una tortuga pequeña con gafas, sentada en una silla. La tortuga pregunta cómo se sintió al insultar a la señora Miaussy en el colegio y la reprende por hablar así a otras madres. Naór responde que estuvo mal y que debe comportarse como una madre.
+
+La introducción nombra a Naór y la continuidad de Leo identifica a la interlocutora aunque el ASR use después Leona. No se añade a Leona como participante. La tortuga no da nombre ni se identifica con Tortas. Se conserva Miaussy, grafía confirmada del catálogo, sin fusionar a Miausi, profesora registrada por separado.
+
+## [48-022 · Tesara reclama a Naór por los tres días al cuidado de Leo](../capitulos/48.md) · 00:28:19.200
+
+Tipo: `hecho_confirmado`.
+
+Tesara saluda con sarcasmo a Naór como madre del año y pregunta por Leo. Naór dice que el niño está en el colegio y que hablará con él si se comporta mal. Tesara le reprocha sus malas palabras con ella, la camarera y otros vecinos y afirma que lo ha cuidado tres días. Naór le pone la mano en el hombro y aprieta hasta que le piden que afloje, mientras conserva un trato exageradamente amable.
+
+Los tres días son declaración expresa de Tesara. Sus preguntas sobre fugas, puñaladas o arrancar pelo son provocaciones, no nuevos incidentes escolares comprobados. La caída de palmeras narrada durante el intercambio no identifica expresamente a su causante.
+
+## [48-069 · La inspiración de Coyote provoca a Naór](../capitulos/48.md) · 01:55:19.239
+
+Tipo: `hecho_confirmado`.
+
+Coyote ataca e intenta inspirar a Naór diciéndole que hará de Leo un descarado que toque a los otros escolares. El director adjudica el resultado como un bono de cinco para las acciones de Naór contra el propio Coyote. Tryel le muestra su manera de espantar a un enemigo con un insulto, pero falla el siguiente intento de apuñalar al esqueleto.
+
+La amenaza de Coyote es una provocación, sin una escena de Leo cometiendo esos actos ni un programa de crianza que se ejecute. El efecto de la inspiración se presenta como adjudicación de mesa.
+
+## [48-080 · La recogida de Leo impide hacer un descanso corto](../capitulos/48.md) · 02:10:40.119
+
+Tipo: `explicacion_director`.
+
+Coyote intenta recuperar un recurso mientras espera, pero el director recuerda que requiere un descanso corto. Eso consumiría una hora. Se descarta porque la persona encargada de recoger al niño no llegaría a tiempo; el grupo opta por continuar.
+
+No se realiza el descanso, no se recuperan sus recursos y todavía no se representa la recogida de Leo. La conversación no formaliza una custodia ni acredita qué personaje acabará cumpliendo la obligación.
+
+## [48-120 · Naór deja la investigación para recoger a Leo](../capitulos/48.md) · 03:08:22.880
+
+Tipo: `declaracion_personaje`.
+
+Naór avisa a Eldrath de que hay una pista oculta en la sala y emprende el regreso por el camino de entrada. Se marcha porque debe atender la recogida de Leo; el diálogo alude a las cinco y cuarto y anticipa que llegará tarde.
+
+El aviso expresa la interpretación de Naór; no prueba que exista un objeto escondido. Todavía no se representa su llegada al colegio.
+
+## [48-129 · Leo espera y Naór sigue corriendo por la jungla](../capitulos/48.md) · 03:22:36.840
+
+Tipo: `explicacion_director`.
+
+En la puerta del colegio de Iktan una mujer felina espera impaciente con libros y carpetas, acompañada por Leo. Dice que su madre volverá a llegar tarde. Al mismo tiempo Naór corre a toda prisa por la jungla, apartando ramas de su cara e insistiendo en que ya llega. La sesión termina antes del encuentro.
+
+La mujer no recibe nombre en este epílogo; no se la identifica automáticamente con Miaussy o Miausi. No se representa la entrega del colmillo, la recogida de Leo o una reunión de madres.
 

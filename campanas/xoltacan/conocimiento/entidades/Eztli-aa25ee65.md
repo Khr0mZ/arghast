@@ -12,7 +12,7 @@ Base para revisar equivalencia: [34-018](../capitulos/34.md), [34-020](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 47.
+Relato revisado hasta el capítulo 48.
 
 ### El huevo que consiguió nacer
 
@@ -329,4 +329,12 @@ Tipo: `hecho_confirmado`.
 Tras el coqueteo en la barra, Angelique toma del brazo a Zoltan y lo lleva a una habitación, cuya puerta cierra. Una carta del chat le concede furia y el final representa el encuentro privado mediante ruidos y chispas que salen de la puerta. Los otros permanecen en la taberna; Citlali sigue hablando con Etley e Ione termina su venta a Froger.
 
 El cierre no narra consecuencias posteriores, una nueva descarga contra el pueblo o un vínculo matrimonial. La anécdota sobre Gur de Kuroto pertenece a la conversación de mesa y no incorpora ese personaje ni sus hechos a Xoltacan.
+
+## [48-001 · Naór recuerda el colegio y sus nuevos encuentros](../capitulos/48.md) · 00:00:13.160
+
+Tipo: `declaracion_personaje`.
+
+En el repaso inicial, la jugadora de Naór recuerda que conoció a Citlali al salir del colegio de Leo y Eztli: hubo un desencuentro, pero comprobaron que los pequeños jugaban juntos. También recuerda haber ido a entrenar con el interlocutor transcrito como Ilicar y Lilicar; dice que lo dejó inconsciente y que después ella acabó inconsciente en un combate con Tortas.
+
+Recapitulación de acontecimientos anteriores, sin volver a representar los encuentros. La identificación del nombre Ilicar/Lilicar con Ilikar es compatible con el catálogo, pero no se utiliza este repaso para fijar una nueva identidad ni las circunstancias de cada pérdida de conocimiento.
 

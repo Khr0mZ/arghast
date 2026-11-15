@@ -12,7 +12,7 @@ Base para revisar equivalencia: [01-011](../capitulos/01.md), [11-029](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 47.
+Relato revisado hasta el capítulo 48.
 
 ### Happy Bonnie y el precio de Shiaru
 

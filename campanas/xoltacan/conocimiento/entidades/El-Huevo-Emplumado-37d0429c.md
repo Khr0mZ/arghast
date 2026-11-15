@@ -8,11 +8,11 @@ Entrada documentada en los registros citados.
 
 Etiquetas agrupadas: El Huevo Emplumado.
 
-Base para revisar equivalencia: [31-020](../capitulos/31.md), [31-022](../capitulos/31.md), [46-053](../capitulos/46.md), [46-057](../capitulos/46.md), [46-058](../capitulos/46.md), [46-059](../capitulos/46.md), [46-060](../capitulos/46.md), [46-066](../capitulos/46.md), [47-077](../capitulos/47.md), [47-079](../capitulos/47.md), [47-080](../capitulos/47.md), [47-081](../capitulos/47.md), [47-090](../capitulos/47.md).
+Base para revisar equivalencia: [31-020](../capitulos/31.md), [31-022](../capitulos/31.md), [46-053](../capitulos/46.md), [46-057](../capitulos/46.md), [46-058](../capitulos/46.md), [46-059](../capitulos/46.md), [46-060](../capitulos/46.md), [46-066](../capitulos/46.md), [47-077](../capitulos/47.md), [47-079](../capitulos/47.md), [47-080](../capitulos/47.md), [47-081](../capitulos/47.md), [47-090](../capitulos/47.md), [48-005](../capitulos/48.md), [48-006](../capitulos/48.md), [48-007](../capitulos/48.md), [48-012](../capitulos/48.md), [48-013](../capitulos/48.md), [48-014](../capitulos/48.md), [48-015](../capitulos/48.md), [48-017](../capitulos/48.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 47.
+Relato revisado hasta el capítulo 48.
 
 ### Descansar después del bosque
 
@@ -31,6 +31,12 @@ Fuentes: [46-053 · Ione encuentra a la tripulación en la taberna de Iktan](../
 La taberna aloja a los piratas desplazados de Shiaru y recibe a Patata, Tesara y el felino. Allí se habla de las salidas de los hermanos y de la amenaza del dragón antes de avisar a Walulu. Patata permanece bebiendo y conversando con Angelique; la historiadora y el felino regresan al cierre.
 
 Fuentes: [47-077 · Tesara guía el regreso a Iktan](../capitulos/47.md) · 01:57:54.960 · [47-079 · Patata encuentra a los piratas en la taberna de Iktan](../capitulos/47.md) · 02:00:10.840 · [47-080 · Angelique informa de la salida de la elfa y del entrenamiento de su hermano](../capitulos/47.md) · 02:02:28.400 · [47-081 · Tesara y el felino llevan el aviso a Walulu](../capitulos/47.md) · 02:04:06.960 · [47-090 · Angelique cuenta a Patata su encuentro con Zoltan](../capitulos/47.md) · 02:17:15.880.
+
+### Punto de reunión antes de buscar al dragón
+
+Tesara llega desde el templo cargada de libros y pergaminos y encuentra a Eldrath, Tryel y Coyote. El elfo vigila a una mesa de clientes que le recuerdan piratas de Shiaru, mientras Tryel presta atención a Molly y Coyote toma cerveza mirando a la encargada felina. La historiadora deja el material en la barra y reclama una respuesta urgente al dragón. Allí comparte la historia de los archivos y recuerda los seis días de plazo. La salida se organiza entre la propuesta de visitar una cueva y los preparativos; antes de marcharse, Coyote y Tryel rivalizan de palabra por el interés en Molly.
+
+Fuentes: [48-005 · Tesara llega cargada de libros a El Huevo Emplumado](../capitulos/48.md) · 00:05:53.080 · [48-006 · Eldrath sospecha de los clientes y Tryel mira a Molly](../capitulos/48.md) · 00:07:39.360 · [48-007 · Tesara pide adelantarse al golpe del dragón](../capitulos/48.md) · 00:09:05.760 · [48-012 · Tesara transmite los hallazgos y habla de otro dragón al mando](../capitulos/48.md) · 00:13:20.760 · [48-013 · El grupo dispone de seis días para responder al ultimátum](../capitulos/48.md) · 00:15:21.440 · [48-014 · Tryel recuerda una gran cueva donde se envenenó](../capitulos/48.md) · 00:16:30.160 · [48-015 · La falta de tiempo descarta buscar una gran biblioteca](../capitulos/48.md) · 00:17:43.559 · [48-017 · Tryel reclama prioridad ante el interés de Coyote por Molly](../capitulos/48.md) · 00:20:23.320.
 
 ## Registros y evidencias
 
@@ -129,4 +135,36 @@ Tipo: `declaracion_personaje`.
 Patata intenta cortejar a la encargada, que deriva la conversación hacia un recién llegado de torso desnudo, herida y chispas. Dice que estuvo con él el día anterior, promete presentárselo y finalmente lo nombra Zoltan. Lo describe mientras Patata sigue en la taberna; Tesara y el felino regresan de hablar con Walulu y Chopito continúa la imitación de Tortas en el cierre.
 
 No se representa una nueva aparición de Zoltan ni la presentación prometida. La expresión «ayer» pertenece al testimonio de Angelique; no sirve por sí sola para cerrar un calendario. Las comparaciones de mesa con otros personajes o campañas no incorporan sus identidades a Xoltacan.
+
+## [48-005 · Tesara llega cargada de libros a El Huevo Emplumado](../capitulos/48.md) · 00:05:53.080
+
+Tipo: `hecho_confirmado`.
+
+La escena vuelve a Iktan y sigue a Tesara cargada de libros, informes y pergaminos después de estudiar en el templo. Busca primero a los hermanos elfos en la taberna y entra torpemente con las manos ocupadas. Allí están Eldrath, Tryel y Coyote, que toma cerveza y mira a la encargada felina.
+
+Tesara estima que pudo pasar un día o día y medio estudiando, sin fijar una duración exacta. La identidad del establecimiento y de su encargada se conserva por la continuidad de Iktan; no es la Sirena Borracha de Shiaru.
+
+## [48-006 · Eldrath sospecha de los clientes y Tryel mira a Molly](../capitulos/48.md) · 00:07:39.360
+
+Tipo: `hecho_confirmado`.
+
+Eldrath vigila de reojo a una mesa de clientes que le parecen piratas de Shiaru y llama la atención de Tryel sobre ellos. Su hermana está distraída, tocándose el pelo y mirando a Molly. Tryel la considera amigable y propone acercarse; Eldrath le advierte que parece juntarse con los hombres de aquella mesa.
+
+La procedencia, afiliación y participación de estos clientes en la ocupación de Shiaru son sospechas de Eldrath. La escena no identifica a la mesa con los ocupantes referidos por Patata ni convierte a Molly en miembro de esa facción.
+
+## [48-007 · Tesara pide adelantarse al golpe del dragón](../capitulos/48.md) · 00:09:05.760
+
+Tipo: `declaracion_personaje`.
+
+Tesara deja su documentación en la barra e interrumpe a los presentes. Tras un intercambio sobre los saludos y la bebida de primera hora, explica que ha revisado lo que Walulu conserva sobre el dragón verde y quiere encontrarlo para golpear antes de que él actúe.
+
+Es la valoración urgente de Tesara y una propuesta de actuación; no se ha preparado todavía una trampa ni se ha descubierto una debilidad.
+
+## [48-017 · Tryel reclama prioridad ante el interés de Coyote por Molly](../capitulos/48.md) · 00:20:23.320
+
+Tipo: `hecho_confirmado`.
+
+Coyote se acerca a Tryel y comenta el atractivo de Molly. Tryel se le planta delante, le dice que ella la vio primero e intenta intimidarlo. Coyote responde con bromas, y la elfa le gruñe antes de moverse.
+
+Es interés y rivalidad expresados por Tryel y Coyote. Molly no responde ni consiente una relación en esta escena.
 

@@ -306,6 +306,8 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 47, 02:00:10.840: Patata encuentra a los piratas en la taberna de Iktan ([47-079](capitulos/47.md)).
 - Cap. 47, 02:02:28.400: Angelique informa de la salida de la elfa y del entrenamiento de su hermano ([47-080](capitulos/47.md)).
 - Cap. 47, 02:17:15.880: Angelique cuenta a Patata su encuentro con Zoltan ([47-090](capitulos/47.md)).
+- Cap. 48, 00:05:53.080: Tesara llega cargada de libros a El Huevo Emplumado ([48-005](capitulos/48.md)).
+- Cap. 48, 00:28:19.200: Tesara reclama a Naór por los tres días al cuidado de Leo ([48-022](capitulos/48.md)).
 
 ## Angélica Thunder
 
@@ -353,6 +355,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 45, 03:05:34.319: Maris recibe a Coyote y ofrece presentar a Naór ante su madre ([45-074](capitulos/45.md)).
 - Cap. 45, 03:08:31.120: Ivet admite a la princesa de Atlan en el templo de coral ([45-075](capitulos/45.md)).
 - Cap. 45, 03:10:25.239: Ivet reprocha la promesa de unión incumplida y Naór defiende a Atlan ([45-076](capitulos/45.md)).
+- Cap. 48, 01:04:06.720: Cubrirse del hedor y proponer tropas de Atlan ([48-045](capitulos/48.md)).
 
 ## Axi
 
@@ -977,6 +980,13 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 41, 02:20:48.880: Winscore y Blink se presentan ante el anciano ([41-053](capitulos/41.md)).
 - Cap. 41, 02:24:09.319: Tortas reconoce el olor del dragón verde en Blink ([41-054](capitulos/41.md)).
 
+## Botellas antitoxina de la cueva
+
+- Cap. 48, 02:06:16.480: Naór levanta la roca con Eldrath encima ([48-076](capitulos/48.md)).
+- Cap. 48, 02:07:30.559: El hallazgo son tres botellas identificadas como antitoxinas ([48-077](capitulos/48.md)).
+- Cap. 48, 02:08:21.920: Volver sobre los hombros de Naór tampoco evita el gas ([48-078](capitulos/48.md)).
+- Cap. 48, 02:09:34.400: Eldrath reparte las antitoxinas a sus compañeros ([48-079](capitulos/48.md)).
+
 ## Broche de Eleanor
 
 - Cap. 43, 00:27:15.159: Eleanor entrega a Molly el broche de su tierra ([43-015](capitulos/43.md)).
@@ -1461,6 +1471,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 46, 02:15:37.639: La búsqueda de comprador separa a Ione de Citlali ([46-062](capitulos/46.md)).
 - Cap. 46, 02:19:39.960: Citlali intenta enseñar buenos modales a Etley ([46-064](capitulos/46.md)).
 - Cap. 46, 02:21:14.359: Zoltan y Angelique se retiran a una habitación ([46-066](capitulos/46.md)).
+- Cap. 48, 00:00:13.160: Naór recuerda el colegio y sus nuevos encuentros ([48-001](capitulos/48.md)).
 
 ## Claro de los restos envenenados
 
@@ -1531,6 +1542,30 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 47, 02:10:27.199: La protección dracónica no detiene por sí sola a la hueste ([47-083](capitulos/47.md)).
 - Cap. 47, 02:12:14.719: Walulu informa de varias guaridas dispersas ([47-084](capitulos/47.md)).
 - Cap. 47, 02:12:58.280: Walulu acepta estudiar una estrategia contra el dragón ([47-085](capitulos/47.md)).
+- Cap. 48, 00:01:14.080: Eldrath recuerda por qué teme por su hermana ([48-002](capitulos/48.md)).
+- Cap. 48, 00:02:31.000: Tesara dedica su tiempo a los archivos de Walulu ([48-003](capitulos/48.md)).
+- Cap. 48, 00:09:05.760: Tesara pide adelantarse al golpe del dragón ([48-007](capitulos/48.md)).
+- Cap. 48, 00:11:20.959: Los archivos sitúan al dragón joven antes de la fundación de Iktan ([48-008](capitulos/48.md)).
+- Cap. 48, 00:12:02.399: El dragón dejó crecer los poblados como fuente de presas ([48-009](capitulos/48.md)).
+- Cap. 48, 00:12:21.800: Un ataque dracónico anterior motivó el ritual protector ([48-010](capitulos/48.md)).
+- Cap. 48, 00:12:43.639: Tesara conoce la función del rito, pero no comprende cómo se realiza ([48-011](capitulos/48.md)).
+- Cap. 48, 00:13:20.760: Tesara transmite los hallazgos y habla de otro dragón al mando ([48-012](capitulos/48.md)).
+- Cap. 48, 00:15:21.440: El grupo dispone de seis días para responder al ultimátum ([48-013](capitulos/48.md)).
+- Cap. 48, 00:16:30.160: Tryel recuerda una gran cueva donde se envenenó ([48-014](capitulos/48.md)).
+- Cap. 48, 00:17:43.559: La falta de tiempo descarta buscar una gran biblioteca ([48-015](capitulos/48.md)).
+- Cap. 48, 00:30:50.640: Naór acepta la expedición, condicionada a recoger a Leo ([48-023](capitulos/48.md)).
+- Cap. 48, 00:47:50.800: Naór intenta seguir el olor del dragón sin lograr orientarse ([48-033](capitulos/48.md)).
+- Cap. 48, 00:52:31.520: Tesara encuentra marcas del dragón y pisadas desacompasadas ([48-036](capitulos/48.md)).
+- Cap. 48, 01:03:14.720: La expedición busca información antes de enfrentarse al dragón ([48-044](capitulos/48.md)).
+- Cap. 48, 01:04:06.720: Cubrirse del hedor y proponer tropas de Atlan ([48-045](capitulos/48.md)).
+- Cap. 48, 01:17:42.159: El poder atribuido al dragón sigue siendo un aviso del grupo ([48-055](capitulos/48.md)).
+- Cap. 48, 02:00:59.760: La supuesta despensa sigue siendo una interpretación ([48-072](capitulos/48.md)).
+- Cap. 48, 02:22:53.280: Tesara busca pistas entre un botín corroído ([48-092](capitulos/48.md)).
+- Cap. 48, 03:05:05.319: Tesara no encuentra marcas en la serpiente derrotada ([48-117](capitulos/48.md)).
+- Cap. 48, 03:07:19.800: Naór percibe una magia antigua que se apaga ([48-119](capitulos/48.md)).
+- Cap. 48, 03:14:10.600: El director separa el rastro mágico de las pozas ([48-124](capitulos/48.md)).
+- Cap. 48, 03:18:45.600: Eldrath llena su cantimplora de veneno ([48-125](capitulos/48.md)).
+- Cap. 48, 03:19:49.239: Tesara recoge una segunda muestra de las pozas ([48-126](capitulos/48.md)).
 
 ## Colegio de Iktan
 
@@ -1545,6 +1580,13 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 47, 00:03:27.879: Tesa lleva a Leo al colegio y reclama que vuelva su madre ([47-004](capitulos/47.md)).
 - Cap. 47, 00:03:57.720: Leo acusa a una mujer de haberle pegado en el colegio ([47-005](capitulos/47.md)).
 - Cap. 47, 00:04:56.680: Leo entra en el colegio después de provocar a Tesa ([47-006](capitulos/47.md)).
+- Cap. 48, 00:00:13.160: Naór recuerda el colegio y sus nuevos encuentros ([48-001](capitulos/48.md)).
+- Cap. 48, 00:22:40.159: Naór recibe una clase de calma de una tortuga con gafas ([48-018](capitulos/48.md)).
+- Cap. 48, 00:28:19.200: Tesara reclama a Naór por los tres días al cuidado de Leo ([48-022](capitulos/48.md)).
+- Cap. 48, 01:55:19.239: La inspiración de Coyote provoca a Naór ([48-069](capitulos/48.md)).
+- Cap. 48, 02:10:40.119: La recogida de Leo impide hacer un descanso corto ([48-080](capitulos/48.md)).
+- Cap. 48, 03:08:22.880: Naór deja la investigación para recoger a Leo ([48-120](capitulos/48.md)).
+- Cap. 48, 03:22:36.840: Leo espera y Naór sigue corriendo por la jungla ([48-129](capitulos/48.md)).
 
 ## Collar antiguo de oro con gemas
 
@@ -1580,6 +1622,17 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 46, 01:01:00.160: Ione encuentra un collar y acude al grito de Citlali ([46-031](capitulos/46.md)).
 - Cap. 46, 02:15:37.639: La búsqueda de comprador separa a Ione de Citlali ([46-062](capitulos/46.md)).
 - Cap. 46, 02:17:24.120: Froger compra el collar a Ione por veinticuatro monedas ([46-063](capitulos/46.md)).
+
+## Colmillo de la serpiente guardado por Naór
+
+- Cap. 48, 03:06:51.880: Naór conserva un colmillo para Leo ([48-118](capitulos/48.md)).
+
+## Comerciante minotauro de Iktan
+
+- Cap. 48, 00:33:24.240: Eldrath vende un jade por cincuenta y cinco monedas ([48-024](capitulos/48.md)).
+- Cap. 48, 00:35:21.920: Eldrath compra armadura y prepara antitoxinas ([48-025](capitulos/48.md)).
+- Cap. 48, 00:36:18.599: El tatuaje retrasa una hora a Eldrath ([48-026](capitulos/48.md)).
+- Cap. 48, 00:39:18.160: Naór intimida al tatuador y saca a Eldrath con el dibujo a medias ([48-028](capitulos/48.md)).
 
 ## Conejo cornudo del bosque de Iktan
 
@@ -1692,6 +1745,51 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 45, 02:53:25.760: La sirena cautiva es liberada y necesita ayuda para salir ([45-068](capitulos/45.md)).
 - Cap. 45, 03:04:06.600: El grupo sale con la rescatada y llega a Perlasal ([45-073](capitulos/45.md)).
 - Cap. 45, 03:05:34.319: Maris recibe a Coyote y ofrece presentar a Naór ante su madre ([45-074](capitulos/45.md)).
+- Cap. 48, 00:03:47.480: Coyote presenta su descanso en la taberna ([48-004](capitulos/48.md)).
+- Cap. 48, 00:05:53.080: Tesara llega cargada de libros a El Huevo Emplumado ([48-005](capitulos/48.md)).
+- Cap. 48, 00:09:05.760: Tesara pide adelantarse al golpe del dragón ([48-007](capitulos/48.md)).
+- Cap. 48, 00:13:20.760: Tesara transmite los hallazgos y habla de otro dragón al mando ([48-012](capitulos/48.md)).
+- Cap. 48, 00:15:21.440: El grupo dispone de seis días para responder al ultimátum ([48-013](capitulos/48.md)).
+- Cap. 48, 00:17:43.559: La falta de tiempo descarta buscar una gran biblioteca ([48-015](capitulos/48.md)).
+- Cap. 48, 00:19:27.640: Coyote carece de dinero para las pociones ([48-016](capitulos/48.md)).
+- Cap. 48, 00:20:23.320: Tryel reclama prioridad ante el interés de Coyote por Molly ([48-017](capitulos/48.md)).
+- Cap. 48, 00:37:41.480: Coyote provoca a Tesara sobre una supuesta relación con Eldrath ([48-027](capitulos/48.md)).
+- Cap. 48, 00:43:38.200: Los cinco salen de Iktan con Tryel como guía ([48-030](capitulos/48.md)).
+- Cap. 48, 00:46:22.160: Tesara y Eldrath rechazan las bromas sobre noviazgo y jefatura ([48-032](capitulos/48.md)).
+- Cap. 48, 00:47:50.800: Naór intenta seguir el olor del dragón sin lograr orientarse ([48-033](capitulos/48.md)).
+- Cap. 48, 00:49:24.000: Naór asusta a Tesara y la coloca al frente para rastrear ([48-034](capitulos/48.md)).
+- Cap. 48, 00:57:47.280: Eldrath enlaza las mentes de cuatro compañeros durante seis horas ([48-038](capitulos/48.md)).
+- Cap. 48, 00:59:18.640: El director precisa que Eldrath debe retransmitir los mensajes ([48-039](capitulos/48.md)).
+- Cap. 48, 00:59:51.480: Las huellas terminan ante una pared cubierta de raíces ([48-040](capitulos/48.md)).
+- Cap. 48, 01:04:25.599: La entrada obliga a resistir veneno y hiere a Tesara ([48-046](capitulos/48.md)).
+- Cap. 48, 01:05:24.880: La cueva huele a podredumbre y veneno y pierde la luz de la entrada ([48-047](capitulos/48.md)).
+- Cap. 48, 01:27:03.560: Zombis y esqueletos se levantan alrededor del grupo ([48-060](capitulos/48.md)).
+- Cap. 48, 01:31:03.080: Las flechas y la vegetación prolongan el veneno ([48-061](capitulos/48.md)).
+- Cap. 48, 01:38:29.960: Coyote bebe un frasco durante el combate ([48-064](capitulos/48.md)).
+- Cap. 48, 01:41:14.880: Tryel derriba un esqueleto y Tesara vuelve a exponerse al gas ([48-065](capitulos/48.md)).
+- Cap. 48, 01:44:11.639: Coyote prepara un dinosaurio espiritual que aún no invoca ([48-066](capitulos/48.md)).
+- Cap. 48, 01:52:57.560: Los ataques de Eldrath y Naór reducen los últimos enemigos ([48-068](capitulos/48.md)).
+- Cap. 48, 01:55:19.239: La inspiración de Coyote provoca a Naór ([48-069](capitulos/48.md)).
+- Cap. 48, 01:57:46.440: El combate cede y los viajeros se reagrupan ([48-070](capitulos/48.md)).
+- Cap. 48, 01:58:39.040: Las calaveras pasan de los enemigos a las disputas del grupo ([48-071](capitulos/48.md)).
+- Cap. 48, 02:01:36.320: Tesara atiende las heridas de Coyote antes de continuar ([48-073](capitulos/48.md)).
+- Cap. 48, 02:09:34.400: Eldrath reparte las antitoxinas a sus compañeros ([48-079](capitulos/48.md)).
+- Cap. 48, 02:10:40.119: La recogida de Leo impide hacer un descanso corto ([48-080](capitulos/48.md)).
+- Cap. 48, 02:12:44.000: Naór avanza saltando de roca en roca ([48-082](capitulos/48.md)).
+- Cap. 48, 02:15:30.280: Tesara pide prudencia mientras se acaba el tiempo ([48-085](capitulos/48.md)).
+- Cap. 48, 02:19:33.800: Un destello ciega a Coyote ([48-089](capitulos/48.md)).
+- Cap. 48, 02:20:18.120: Los vapores dejan a Tesara sin oír ([48-090](capitulos/48.md)).
+- Cap. 48, 02:27:50.560: La serpiente sorprende al grupo ([48-094](capitulos/48.md)).
+- Cap. 48, 02:37:23.160: La primera oleada de veneno se resiste ([48-099](capitulos/48.md)).
+- Cap. 48, 02:38:21.359: Coyote inspira a Tryel mientras sigue sin ver ([48-100](capitulos/48.md)).
+- Cap. 48, 02:48:52.720: Coyote recupera la vista y se acerca a ayudar ([48-107](capitulos/48.md)).
+- Cap. 48, 02:50:17.040: Naór cae y la serpiente deja de retenerla ([48-108](capitulos/48.md)).
+- Cap. 48, 02:54:25.279: Tesara cruza una poza colgada del látigo ([48-111](capitulos/48.md)).
+- Cap. 48, 03:03:04.000: Tryel paraliza y golpea a Eldrath ([48-116](capitulos/48.md)).
+- Cap. 48, 03:09:04.600: Tryel y Coyote continúan buscando en el tesoro ([48-121](capitulos/48.md)).
+- Cap. 48, 03:11:50.560: Tesara detecta el mismo rastro en toda la cámara ([48-123](capitulos/48.md)).
+- Cap. 48, 03:20:48.760: Coyote obtiene veneno del colmillo restante ([48-127](capitulos/48.md)).
+- Cap. 48, 03:21:47.680: Los compañeros abandonan la cueva heridos ([48-128](capitulos/48.md)).
 
 ## Criatura tentacular del altar
 
@@ -1723,6 +1821,65 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 44, 00:34:38.200: El grupo se reúne ante la entrada y recuerda la condición del encargo ([44-017](capitulos/44.md)).
 - Cap. 44, 00:35:15.160: Una masa de moho se alza cerca de Leona ([44-018](capitulos/44.md)).
 - Cap. 44, 00:59:10.680: El Devorafango entra y cubre la sala de ácido ([44-031](capitulos/44.md)).
+
+## Cueva envenenada explorada por el grupo
+
+- Cap. 48, 00:59:51.480: Las huellas terminan ante una pared cubierta de raíces ([48-040](capitulos/48.md)).
+- Cap. 48, 01:00:42.799: Eldrath aparta parte de las raíces y percibe el hedor del interior ([48-041](capitulos/48.md)).
+- Cap. 48, 01:01:37.799: Tesara quema las raíces con el fuego recibido de una fruta ([48-042](capitulos/48.md)).
+- Cap. 48, 01:02:24.039: Eldrath comparte una botella con Tryel antes de entrar ([48-043](capitulos/48.md)).
+- Cap. 48, 01:03:14.720: La expedición busca información antes de enfrentarse al dragón ([48-044](capitulos/48.md)).
+- Cap. 48, 01:04:06.720: Cubrirse del hedor y proponer tropas de Atlan ([48-045](capitulos/48.md)).
+- Cap. 48, 01:04:25.599: La entrada obliga a resistir veneno y hiere a Tesara ([48-046](capitulos/48.md)).
+- Cap. 48, 01:05:24.880: La cueva huele a podredumbre y veneno y pierde la luz de la entrada ([48-047](capitulos/48.md)).
+- Cap. 48, 01:06:36.559: Antorchas para entrar en una cueva cubierta de raíces ([48-048](capitulos/48.md)).
+- Cap. 48, 01:08:51.120: Eldrath reconoce cápsulas que expulsan una nube tóxica ([48-049](capitulos/48.md)).
+- Cap. 48, 01:09:48.679: La capa de Eldrath contiene una primera descarga ([48-050](capitulos/48.md)).
+- Cap. 48, 01:11:20.159: Los acercamientos descuidados terminan en envenenamiento ([48-051](capitulos/48.md)).
+- Cap. 48, 01:13:20.000: Tesara propone cruzar colgados de las raíces ([48-052](capitulos/48.md)).
+- Cap. 48, 01:15:18.120: La kusarigama abre camino donde fallan las dagas psíquicas ([48-053](capitulos/48.md)).
+- Cap. 48, 01:16:45.199: Una sala de huesos despierta las sospechas de Tesara ([48-054](capitulos/48.md)).
+- Cap. 48, 01:17:42.159: El poder atribuido al dragón sigue siendo un aviso del grupo ([48-055](capitulos/48.md)).
+- Cap. 48, 01:18:44.239: Naór patea una calavera antes de oír los primeros ruidos ([48-056](capitulos/48.md)).
+- Cap. 48, 01:20:09.880: Un arquero no muerto ataca por la retaguardia ([48-057](capitulos/48.md)).
+- Cap. 48, 01:22:43.400: Tesara dispara mientras Eldrath termina de podar ([48-058](capitulos/48.md)).
+- Cap. 48, 01:27:03.560: Zombis y esqueletos se levantan alrededor del grupo ([48-060](capitulos/48.md)).
+- Cap. 48, 01:31:03.080: Las flechas y la vegetación prolongan el veneno ([48-061](capitulos/48.md)).
+- Cap. 48, 01:41:14.880: Tryel derriba un esqueleto y Tesara vuelve a exponerse al gas ([48-065](capitulos/48.md)).
+- Cap. 48, 02:00:59.760: La supuesta despensa sigue siendo una interpretación ([48-072](capitulos/48.md)).
+- Cap. 48, 02:02:51.000: Naór detecta un brillo mágico entre las rocas ([48-074](capitulos/48.md)).
+- Cap. 48, 02:05:10.800: Eldrath cae entre las plantas pero resiste el veneno ([48-075](capitulos/48.md)).
+- Cap. 48, 02:06:16.480: Naór levanta la roca con Eldrath encima ([48-076](capitulos/48.md)).
+- Cap. 48, 02:07:30.559: El hallazgo son tres botellas identificadas como antitoxinas ([48-077](capitulos/48.md)).
+- Cap. 48, 02:08:21.920: Volver sobre los hombros de Naór tampoco evita el gas ([48-078](capitulos/48.md)).
+- Cap. 48, 02:11:40.880: Un puente roto atraviesa el barrizal de veneno ([48-081](capitulos/48.md)).
+- Cap. 48, 02:12:44.000: Naór avanza saltando de roca en roca ([48-082](capitulos/48.md)).
+- Cap. 48, 02:14:01.800: Tryel cae al veneno y Naór se mete para ayudarla ([48-083](capitulos/48.md)).
+- Cap. 48, 02:14:48.032: Tryel escupe el veneno y responde que está bien ([48-084](capitulos/48.md)).
+- Cap. 48, 02:15:30.280: Tesara pide prudencia mientras se acaba el tiempo ([48-085](capitulos/48.md)).
+- Cap. 48, 02:16:04.280: Eldrath intenta prevenir otra emboscada en la siguiente sala ([48-086](capitulos/48.md)).
+- Cap. 48, 02:16:46.000: Un gran esqueleto junto al tesoro ([48-087](capitulos/48.md)).
+- Cap. 48, 02:17:20.160: Tesara exige no pisar raíces ni huesos ([48-088](capitulos/48.md)).
+- Cap. 48, 02:19:33.800: Un destello ciega a Coyote ([48-089](capitulos/48.md)).
+- Cap. 48, 02:20:18.120: Los vapores dejan a Tesara sin oír ([48-090](capitulos/48.md)).
+- Cap. 48, 02:21:10.760: No hay huellas identificadas en el suelo de roca ([48-091](capitulos/48.md)).
+- Cap. 48, 02:22:53.280: Tesara busca pistas entre un botín corroído ([48-092](capitulos/48.md)).
+- Cap. 48, 02:26:26.279: Naór intenta recorrer la pared con las garras ([48-093](capitulos/48.md)).
+- Cap. 48, 02:27:50.560: La serpiente sorprende al grupo ([48-094](capitulos/48.md)).
+- Cap. 48, 02:33:24.479: Tesara guarda un collar antes de advertir el combate ([48-097](capitulos/48.md)).
+- Cap. 48, 02:37:23.160: La primera oleada de veneno se resiste ([48-099](capitulos/48.md)).
+- Cap. 48, 02:43:41.000: El grito de la serpiente despierta esqueletos menores ([48-104](capitulos/48.md)).
+- Cap. 48, 02:54:25.279: Tesara cruza una poza colgada del látigo ([48-111](capitulos/48.md)).
+- Cap. 48, 03:05:05.319: Tesara no encuentra marcas en la serpiente derrotada ([48-117](capitulos/48.md)).
+- Cap. 48, 03:07:19.800: Naór percibe una magia antigua que se apaga ([48-119](capitulos/48.md)).
+- Cap. 48, 03:08:22.880: Naór deja la investigación para recoger a Leo ([48-120](capitulos/48.md)).
+- Cap. 48, 03:09:04.600: Tryel y Coyote continúan buscando en el tesoro ([48-121](capitulos/48.md)).
+- Cap. 48, 03:10:26.080: La sala no contiene las inscripciones que buscan ([48-122](capitulos/48.md)).
+- Cap. 48, 03:11:50.560: Tesara detecta el mismo rastro en toda la cámara ([48-123](capitulos/48.md)).
+- Cap. 48, 03:14:10.600: El director separa el rastro mágico de las pozas ([48-124](capitulos/48.md)).
+- Cap. 48, 03:18:45.600: Eldrath llena su cantimplora de veneno ([48-125](capitulos/48.md)).
+- Cap. 48, 03:19:49.239: Tesara recoge una segunda muestra de las pozas ([48-126](capitulos/48.md)).
+- Cap. 48, 03:21:47.680: Los compañeros abandonan la cueva heridos ([48-128](capitulos/48.md)).
 
 ## Cuicapalli
 
@@ -1921,6 +2078,10 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 47, 02:00:10.840: Patata encuentra a los piratas en la taberna de Iktan ([47-079](capitulos/47.md)).
 - Cap. 47, 02:02:28.400: Angelique informa de la salida de la elfa y del entrenamiento de su hermano ([47-080](capitulos/47.md)).
 - Cap. 47, 02:17:15.880: Angelique cuenta a Patata su encuentro con Zoltan ([47-090](capitulos/47.md)).
+- Cap. 48, 00:05:53.080: Tesara llega cargada de libros a El Huevo Emplumado ([48-005](capitulos/48.md)).
+- Cap. 48, 00:07:39.360: Eldrath sospecha de los clientes y Tryel mira a Molly ([48-006](capitulos/48.md)).
+- Cap. 48, 00:09:05.760: Tesara pide adelantarse al golpe del dragón ([48-007](capitulos/48.md)).
+- Cap. 48, 00:20:23.320: Tryel reclama prioridad ante el interés de Coyote por Molly ([48-017](capitulos/48.md)).
 
 ## Eldrath
 
@@ -2041,6 +2202,68 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 47, 02:12:58.280: Walulu acepta estudiar una estrategia contra el dragón ([47-085](capitulos/47.md)).
 - Cap. 47, 02:13:42.840: El felino prefiere entregar a los elfos y Walulu los acoge ([47-086](capitulos/47.md)).
 - Cap. 47, 02:15:18.639: Tesara y el felino discrepan sobre el sacrificio por un bien mayor ([47-088](capitulos/47.md)).
+- Cap. 48, 00:01:14.080: Eldrath recuerda por qué teme por su hermana ([48-002](capitulos/48.md)).
+- Cap. 48, 00:02:31.000: Tesara dedica su tiempo a los archivos de Walulu ([48-003](capitulos/48.md)).
+- Cap. 48, 00:05:53.080: Tesara llega cargada de libros a El Huevo Emplumado ([48-005](capitulos/48.md)).
+- Cap. 48, 00:07:39.360: Eldrath sospecha de los clientes y Tryel mira a Molly ([48-006](capitulos/48.md)).
+- Cap. 48, 00:09:05.760: Tesara pide adelantarse al golpe del dragón ([48-007](capitulos/48.md)).
+- Cap. 48, 00:13:20.760: Tesara transmite los hallazgos y habla de otro dragón al mando ([48-012](capitulos/48.md)).
+- Cap. 48, 00:15:21.440: El grupo dispone de seis días para responder al ultimátum ([48-013](capitulos/48.md)).
+- Cap. 48, 00:16:30.160: Tryel recuerda una gran cueva donde se envenenó ([48-014](capitulos/48.md)).
+- Cap. 48, 00:17:43.559: La falta de tiempo descarta buscar una gran biblioteca ([48-015](capitulos/48.md)).
+- Cap. 48, 00:30:50.640: Naór acepta la expedición, condicionada a recoger a Leo ([48-023](capitulos/48.md)).
+- Cap. 48, 00:33:24.240: Eldrath vende un jade por cincuenta y cinco monedas ([48-024](capitulos/48.md)).
+- Cap. 48, 00:35:21.920: Eldrath compra armadura y prepara antitoxinas ([48-025](capitulos/48.md)).
+- Cap. 48, 00:36:18.599: El tatuaje retrasa una hora a Eldrath ([48-026](capitulos/48.md)).
+- Cap. 48, 00:37:41.480: Coyote provoca a Tesara sobre una supuesta relación con Eldrath ([48-027](capitulos/48.md)).
+- Cap. 48, 00:39:18.160: Naór intimida al tatuador y saca a Eldrath con el dibujo a medias ([48-028](capitulos/48.md)).
+- Cap. 48, 00:41:15.760: Las cartas del chat modifican el dinero de Eldrath y Tesara ([48-029](capitulos/48.md)).
+- Cap. 48, 00:43:38.200: Los cinco salen de Iktan con Tryel como guía ([48-030](capitulos/48.md)).
+- Cap. 48, 00:45:19.520: La orientación de Tryel los hace dar vueltas ([48-031](capitulos/48.md)).
+- Cap. 48, 00:46:22.160: Tesara y Eldrath rechazan las bromas sobre noviazgo y jefatura ([48-032](capitulos/48.md)).
+- Cap. 48, 00:47:50.800: Naór intenta seguir el olor del dragón sin lograr orientarse ([48-033](capitulos/48.md)).
+- Cap. 48, 00:54:27.280: Eldrath reconoce el terreno rocoso hacia el que apuntan los rastros ([48-037](capitulos/48.md)).
+- Cap. 48, 00:57:47.280: Eldrath enlaza las mentes de cuatro compañeros durante seis horas ([48-038](capitulos/48.md)).
+- Cap. 48, 00:59:18.640: El director precisa que Eldrath debe retransmitir los mensajes ([48-039](capitulos/48.md)).
+- Cap. 48, 00:59:51.480: Las huellas terminan ante una pared cubierta de raíces ([48-040](capitulos/48.md)).
+- Cap. 48, 01:00:42.799: Eldrath aparta parte de las raíces y percibe el hedor del interior ([48-041](capitulos/48.md)).
+- Cap. 48, 01:02:24.039: Eldrath comparte una botella con Tryel antes de entrar ([48-043](capitulos/48.md)).
+- Cap. 48, 01:03:14.720: La expedición busca información antes de enfrentarse al dragón ([48-044](capitulos/48.md)).
+- Cap. 48, 01:04:25.599: La entrada obliga a resistir veneno y hiere a Tesara ([48-046](capitulos/48.md)).
+- Cap. 48, 01:05:24.880: La cueva huele a podredumbre y veneno y pierde la luz de la entrada ([48-047](capitulos/48.md)).
+- Cap. 48, 01:08:51.120: Eldrath reconoce cápsulas que expulsan una nube tóxica ([48-049](capitulos/48.md)).
+- Cap. 48, 01:09:48.679: La capa de Eldrath contiene una primera descarga ([48-050](capitulos/48.md)).
+- Cap. 48, 01:15:18.120: La kusarigama abre camino donde fallan las dagas psíquicas ([48-053](capitulos/48.md)).
+- Cap. 48, 01:22:43.400: Tesara dispara mientras Eldrath termina de podar ([48-058](capitulos/48.md)).
+- Cap. 48, 01:34:09.480: Eldrath se suma a los ataques de la sala ([48-062](capitulos/48.md)).
+- Cap. 48, 01:44:11.639: Coyote prepara un dinosaurio espiritual que aún no invoca ([48-066](capitulos/48.md)).
+- Cap. 48, 01:52:57.560: Los ataques de Eldrath y Naór reducen los últimos enemigos ([48-068](capitulos/48.md)).
+- Cap. 48, 01:57:46.440: El combate cede y los viajeros se reagrupan ([48-070](capitulos/48.md)).
+- Cap. 48, 01:58:39.040: Las calaveras pasan de los enemigos a las disputas del grupo ([48-071](capitulos/48.md)).
+- Cap. 48, 02:00:59.760: La supuesta despensa sigue siendo una interpretación ([48-072](capitulos/48.md)).
+- Cap. 48, 02:05:10.800: Eldrath cae entre las plantas pero resiste el veneno ([48-075](capitulos/48.md)).
+- Cap. 48, 02:06:16.480: Naór levanta la roca con Eldrath encima ([48-076](capitulos/48.md)).
+- Cap. 48, 02:07:30.559: El hallazgo son tres botellas identificadas como antitoxinas ([48-077](capitulos/48.md)).
+- Cap. 48, 02:08:21.920: Volver sobre los hombros de Naór tampoco evita el gas ([48-078](capitulos/48.md)).
+- Cap. 48, 02:09:34.400: Eldrath reparte las antitoxinas a sus compañeros ([48-079](capitulos/48.md)).
+- Cap. 48, 02:12:44.000: Naór avanza saltando de roca en roca ([48-082](capitulos/48.md)).
+- Cap. 48, 02:15:30.280: Tesara pide prudencia mientras se acaba el tiempo ([48-085](capitulos/48.md)).
+- Cap. 48, 02:16:04.280: Eldrath intenta prevenir otra emboscada en la siguiente sala ([48-086](capitulos/48.md)).
+- Cap. 48, 02:27:50.560: La serpiente sorprende al grupo ([48-094](capitulos/48.md)).
+- Cap. 48, 02:37:23.160: La primera oleada de veneno se resiste ([48-099](capitulos/48.md)).
+- Cap. 48, 02:38:21.359: Coyote inspira a Tryel mientras sigue sin ver ([48-100](capitulos/48.md)).
+- Cap. 48, 02:42:12.080: Eldrath dispara con sus dagas y se reposiciona ([48-102](capitulos/48.md)).
+- Cap. 48, 02:50:17.040: Naór cae y la serpiente deja de retenerla ([48-108](capitulos/48.md)).
+- Cap. 48, 02:51:41.120: Eldrath se separa de un esqueleto y ataca a la serpiente ([48-109](capitulos/48.md)).
+- Cap. 48, 03:01:42.279: Eldrath arrebata a Tryel el último remate ([48-115](capitulos/48.md)).
+- Cap. 48, 03:03:04.000: Tryel paraliza y golpea a Eldrath ([48-116](capitulos/48.md)).
+- Cap. 48, 03:08:22.880: Naór deja la investigación para recoger a Leo ([48-120](capitulos/48.md)).
+- Cap. 48, 03:09:04.600: Tryel y Coyote continúan buscando en el tesoro ([48-121](capitulos/48.md)).
+- Cap. 48, 03:10:26.080: La sala no contiene las inscripciones que buscan ([48-122](capitulos/48.md)).
+- Cap. 48, 03:11:50.560: Tesara detecta el mismo rastro en toda la cámara ([48-123](capitulos/48.md)).
+- Cap. 48, 03:18:45.600: Eldrath llena su cantimplora de veneno ([48-125](capitulos/48.md)).
+- Cap. 48, 03:19:49.239: Tesara recoge una segunda muestra de las pozas ([48-126](capitulos/48.md)).
+- Cap. 48, 03:21:47.680: Los compañeros abandonan la cueva heridos ([48-128](capitulos/48.md)).
 
 ## Eleanor
 
@@ -2297,6 +2520,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 
 - Cap. 47, 00:37:42.920: El disparo de Escupefuego provoca una salpicadura que hiere al grupo ([47-026](capitulos/47.md)).
 - Cap. 47, 00:39:12.520: El fuego no hace daño extra y Tesa busca ocultarse ([47-027](capitulos/47.md)).
+- Cap. 48, 01:49:21.719: Tryel remata a otro rival y Tesara consigue disparar ([48-067](capitulos/48.md)).
 
 ## Espada azul de escamas de Triel
 
@@ -2356,6 +2580,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 46, 02:15:37.639: La búsqueda de comprador separa a Ione de Citlali ([46-062](capitulos/46.md)).
 - Cap. 46, 02:19:39.960: Citlali intenta enseñar buenos modales a Etley ([46-064](capitulos/46.md)).
 - Cap. 46, 02:21:14.359: Zoltan y Angelique se retiran a una habitación ([46-066](capitulos/46.md)).
+- Cap. 48, 00:00:13.160: Naór recuerda el colegio y sus nuevos encuentros ([48-001](capitulos/48.md)).
 
 ## Forja del Águila de Sangre
 
@@ -2671,6 +2896,24 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 47, 02:07:40.440: Walulu remite a un antiguo ritual tras el ataque del dragón ([47-082](capitulos/47.md)).
 - Cap. 47, 02:10:27.199: La protección dracónica no detiene por sí sola a la hueste ([47-083](capitulos/47.md)).
 - Cap. 47, 02:13:42.840: El felino prefiere entregar a los elfos y Walulu los acoge ([47-086](capitulos/47.md)).
+- Cap. 48, 00:01:14.080: Eldrath recuerda por qué teme por su hermana ([48-002](capitulos/48.md)).
+- Cap. 48, 00:02:31.000: Tesara dedica su tiempo a los archivos de Walulu ([48-003](capitulos/48.md)).
+- Cap. 48, 00:05:53.080: Tesara llega cargada de libros a El Huevo Emplumado ([48-005](capitulos/48.md)).
+- Cap. 48, 00:11:20.959: Los archivos sitúan al dragón joven antes de la fundación de Iktan ([48-008](capitulos/48.md)).
+- Cap. 48, 00:12:02.399: El dragón dejó crecer los poblados como fuente de presas ([48-009](capitulos/48.md)).
+- Cap. 48, 00:12:21.800: Un ataque dracónico anterior motivó el ritual protector ([48-010](capitulos/48.md)).
+- Cap. 48, 00:12:43.639: Tesara conoce la función del rito, pero no comprende cómo se realiza ([48-011](capitulos/48.md)).
+- Cap. 48, 00:13:20.760: Tesara transmite los hallazgos y habla de otro dragón al mando ([48-012](capitulos/48.md)).
+- Cap. 48, 00:15:21.440: El grupo dispone de seis días para responder al ultimátum ([48-013](capitulos/48.md)).
+- Cap. 48, 00:17:43.559: La falta de tiempo descarta buscar una gran biblioteca ([48-015](capitulos/48.md)).
+- Cap. 48, 00:19:27.640: Coyote carece de dinero para las pociones ([48-016](capitulos/48.md)).
+- Cap. 48, 00:22:40.159: Naór recibe una clase de calma de una tortuga con gafas ([48-018](capitulos/48.md)).
+- Cap. 48, 00:30:50.640: Naór acepta la expedición, condicionada a recoger a Leo ([48-023](capitulos/48.md)).
+- Cap. 48, 00:33:24.240: Eldrath vende un jade por cincuenta y cinco monedas ([48-024](capitulos/48.md)).
+- Cap. 48, 00:36:18.599: El tatuaje retrasa una hora a Eldrath ([48-026](capitulos/48.md)).
+- Cap. 48, 00:43:38.200: Los cinco salen de Iktan con Tryel como guía ([48-030](capitulos/48.md)).
+- Cap. 48, 03:21:47.680: Los compañeros abandonan la cueva heridos ([48-128](capitulos/48.md)).
+- Cap. 48, 03:22:36.840: Leo espera y Naór sigue corriendo por la jungla ([48-129](capitulos/48.md)).
 
 ## Ilikar
 
@@ -3505,6 +3748,16 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 47, 00:03:57.720: Leo acusa a una mujer de haberle pegado en el colegio ([47-005](capitulos/47.md)).
 - Cap. 47, 00:04:56.680: Leo entra en el colegio después de provocar a Tesa ([47-006](capitulos/47.md)).
 - Cap. 47, 02:14:38.559: Walulu quiere hablar con Naór y pide compañía para una reunión futura ([47-087](capitulos/47.md)).
+- Cap. 48, 00:00:13.160: Naór recuerda el colegio y sus nuevos encuentros ([48-001](capitulos/48.md)).
+- Cap. 48, 00:24:23.279: Walulu insiste en los motivos para que Naór se calme ([48-019](capitulos/48.md)).
+- Cap. 48, 00:28:19.200: Tesara reclama a Naór por los tres días al cuidado de Leo ([48-022](capitulos/48.md)).
+- Cap. 48, 00:30:50.640: Naór acepta la expedición, condicionada a recoger a Leo ([48-023](capitulos/48.md)).
+- Cap. 48, 00:45:19.520: La orientación de Tryel los hace dar vueltas ([48-031](capitulos/48.md)).
+- Cap. 48, 01:55:19.239: La inspiración de Coyote provoca a Naór ([48-069](capitulos/48.md)).
+- Cap. 48, 02:10:40.119: La recogida de Leo impide hacer un descanso corto ([48-080](capitulos/48.md)).
+- Cap. 48, 03:06:51.880: Naór conserva un colmillo para Leo ([48-118](capitulos/48.md)).
+- Cap. 48, 03:08:22.880: Naór deja la investigación para recoger a Leo ([48-120](capitulos/48.md)).
+- Cap. 48, 03:22:36.840: Leo espera y Naór sigue corriendo por la jungla ([48-129](capitulos/48.md)).
 
 ## Leona
 
@@ -4183,6 +4436,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 
 - Cap. 45, 00:04:14.680: La directora reprocha a Naór la conducta escolar de Leo ([45-003](capitulos/45.md)).
 - Cap. 45, 00:06:26.560: Dos monedas consiguen que Leo permanezca dos horas más ([45-004](capitulos/45.md)).
+- Cap. 48, 00:22:40.159: Naór recibe una clase de calma de una tortuga con gafas ([48-018](capitulos/48.md)).
 
 ## Mictlan
 
@@ -4295,6 +4549,8 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 43, 01:51:11.920: La caída de los generales rompe la resistencia terrestre ([43-055](capitulos/43.md)).
 - Cap. 43, 01:55:31.560: Los piratas celebran la victoria y Molly llega herida ([43-058](capitulos/43.md)).
 - Cap. 43, 01:57:06.040: La caja musical acompaña el duelo de Citlali por Nox ([43-059](capitulos/43.md)).
+- Cap. 48, 00:07:39.360: Eldrath sospecha de los clientes y Tryel mira a Molly ([48-006](capitulos/48.md)).
+- Cap. 48, 00:20:23.320: Tryel reclama prioridad ante el interés de Coyote por Molly ([48-017](capitulos/48.md)).
 
 ## Moneda negra del mercante
 
@@ -4330,6 +4586,14 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 
 - Cap. 40, 01:47:01.520: Se conserva una muestra de un veneno distinto al de los yuan-ti ([40-026](capitulos/40.md)).
 - Cap. 40, 02:23:21.439: Iktan recibe al protector y Walulu examina el veneno ([40-035](capitulos/40.md)).
+
+## Muestras de veneno de la cueva envenenada
+
+- Cap. 48, 03:14:10.600: El director separa el rastro mágico de las pozas ([48-124](capitulos/48.md)).
+- Cap. 48, 03:18:45.600: Eldrath llena su cantimplora de veneno ([48-125](capitulos/48.md)).
+- Cap. 48, 03:19:49.239: Tesara recoge una segunda muestra de las pozas ([48-126](capitulos/48.md)).
+- Cap. 48, 03:20:48.760: Coyote obtiene veneno del colmillo restante ([48-127](capitulos/48.md)).
+- Cap. 48, 03:21:47.680: Los compañeros abandonan la cueva heridos ([48-128](capitulos/48.md)).
 
 ## Mugre
 
@@ -4511,6 +4775,68 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 46, 02:00:55.719: Miausi invita a Citlali a la reunión de madres ([46-055](capitulos/46.md)).
 - Cap. 46, 02:02:00.520: Citlali reprende a Leo y se lleva a Etley ([46-056](capitulos/46.md)).
 - Cap. 47, 02:14:38.559: Walulu quiere hablar con Naór y pide compañía para una reunión futura ([47-087](capitulos/47.md)).
+- Cap. 48, 00:00:13.160: Naór recuerda el colegio y sus nuevos encuentros ([48-001](capitulos/48.md)).
+- Cap. 48, 00:22:40.159: Naór recibe una clase de calma de una tortuga con gafas ([48-018](capitulos/48.md)).
+- Cap. 48, 00:24:23.279: Walulu insiste en los motivos para que Naór se calme ([48-019](capitulos/48.md)).
+- Cap. 48, 00:25:44.640: La tortuga enseña a respirar y Walulu paga la donación ([48-020](capitulos/48.md)).
+- Cap. 48, 00:27:18.200: Tryel invita a Naór a pelear y recibe una respuesta pacífica ([48-021](capitulos/48.md)).
+- Cap. 48, 00:28:19.200: Tesara reclama a Naór por los tres días al cuidado de Leo ([48-022](capitulos/48.md)).
+- Cap. 48, 00:30:50.640: Naór acepta la expedición, condicionada a recoger a Leo ([48-023](capitulos/48.md)).
+- Cap. 48, 00:36:18.599: El tatuaje retrasa una hora a Eldrath ([48-026](capitulos/48.md)).
+- Cap. 48, 00:39:18.160: Naór intimida al tatuador y saca a Eldrath con el dibujo a medias ([48-028](capitulos/48.md)).
+- Cap. 48, 00:43:38.200: Los cinco salen de Iktan con Tryel como guía ([48-030](capitulos/48.md)).
+- Cap. 48, 00:45:19.520: La orientación de Tryel los hace dar vueltas ([48-031](capitulos/48.md)).
+- Cap. 48, 00:47:50.800: Naór intenta seguir el olor del dragón sin lograr orientarse ([48-033](capitulos/48.md)).
+- Cap. 48, 00:49:24.000: Naór asusta a Tesara y la coloca al frente para rastrear ([48-034](capitulos/48.md)).
+- Cap. 48, 00:50:54.799: Las frutas aportan efectos que se comentan durante la búsqueda ([48-035](capitulos/48.md)).
+- Cap. 48, 00:52:31.520: Tesara encuentra marcas del dragón y pisadas desacompasadas ([48-036](capitulos/48.md)).
+- Cap. 48, 00:54:27.280: Eldrath reconoce el terreno rocoso hacia el que apuntan los rastros ([48-037](capitulos/48.md)).
+- Cap. 48, 00:57:47.280: Eldrath enlaza las mentes de cuatro compañeros durante seis horas ([48-038](capitulos/48.md)).
+- Cap. 48, 00:59:51.480: Las huellas terminan ante una pared cubierta de raíces ([48-040](capitulos/48.md)).
+- Cap. 48, 01:04:25.599: La entrada obliga a resistir veneno y hiere a Tesara ([48-046](capitulos/48.md)).
+- Cap. 48, 01:05:24.880: La cueva huele a podredumbre y veneno y pierde la luz de la entrada ([48-047](capitulos/48.md)).
+- Cap. 48, 01:18:44.239: Naór patea una calavera antes de oír los primeros ruidos ([48-056](capitulos/48.md)).
+- Cap. 48, 01:25:04.639: Naór lanza a Tryel hacia los enemigos ([48-059](capitulos/48.md)).
+- Cap. 48, 01:35:15.880: La furia de Naór abate a varios adversarios ([48-063](capitulos/48.md)).
+- Cap. 48, 01:44:11.639: Coyote prepara un dinosaurio espiritual que aún no invoca ([48-066](capitulos/48.md)).
+- Cap. 48, 01:52:57.560: Los ataques de Eldrath y Naór reducen los últimos enemigos ([48-068](capitulos/48.md)).
+- Cap. 48, 01:55:19.239: La inspiración de Coyote provoca a Naór ([48-069](capitulos/48.md)).
+- Cap. 48, 01:57:46.440: El combate cede y los viajeros se reagrupan ([48-070](capitulos/48.md)).
+- Cap. 48, 01:58:39.040: Las calaveras pasan de los enemigos a las disputas del grupo ([48-071](capitulos/48.md)).
+- Cap. 48, 02:02:51.000: Naór detecta un brillo mágico entre las rocas ([48-074](capitulos/48.md)).
+- Cap. 48, 02:05:10.800: Eldrath cae entre las plantas pero resiste el veneno ([48-075](capitulos/48.md)).
+- Cap. 48, 02:06:16.480: Naór levanta la roca con Eldrath encima ([48-076](capitulos/48.md)).
+- Cap. 48, 02:07:30.559: El hallazgo son tres botellas identificadas como antitoxinas ([48-077](capitulos/48.md)).
+- Cap. 48, 02:08:21.920: Volver sobre los hombros de Naór tampoco evita el gas ([48-078](capitulos/48.md)).
+- Cap. 48, 02:09:34.400: Eldrath reparte las antitoxinas a sus compañeros ([48-079](capitulos/48.md)).
+- Cap. 48, 02:10:40.119: La recogida de Leo impide hacer un descanso corto ([48-080](capitulos/48.md)).
+- Cap. 48, 02:11:40.880: Un puente roto atraviesa el barrizal de veneno ([48-081](capitulos/48.md)).
+- Cap. 48, 02:12:44.000: Naór avanza saltando de roca en roca ([48-082](capitulos/48.md)).
+- Cap. 48, 02:14:01.800: Tryel cae al veneno y Naór se mete para ayudarla ([48-083](capitulos/48.md)).
+- Cap. 48, 02:14:48.032: Tryel escupe el veneno y responde que está bien ([48-084](capitulos/48.md)).
+- Cap. 48, 02:15:30.280: Tesara pide prudencia mientras se acaba el tiempo ([48-085](capitulos/48.md)).
+- Cap. 48, 02:26:26.279: Naór intenta recorrer la pared con las garras ([48-093](capitulos/48.md)).
+- Cap. 48, 02:27:50.560: La serpiente sorprende al grupo ([48-094](capitulos/48.md)).
+- Cap. 48, 02:28:46.880: La furia de Naór permite lanzar su arma ([48-095](capitulos/48.md)).
+- Cap. 48, 02:30:48.560: La serpiente muerde y enrosca a Naór ([48-096](capitulos/48.md)).
+- Cap. 48, 02:34:40.160: Naór contraataca a pesar del abrazo de la serpiente ([48-098](capitulos/48.md)).
+- Cap. 48, 02:37:23.160: La primera oleada de veneno se resiste ([48-099](capitulos/48.md)).
+- Cap. 48, 02:40:03.680: La constricción continúa dañando a Naór ([48-101](capitulos/48.md)).
+- Cap. 48, 02:42:12.080: Eldrath dispara con sus dagas y se reposiciona ([48-102](capitulos/48.md)).
+- Cap. 48, 02:43:41.000: El grito de la serpiente despierta esqueletos menores ([48-104](capitulos/48.md)).
+- Cap. 48, 02:44:14.880: Tesara flanquea para intentar liberar a Naór ([48-105](capitulos/48.md)).
+- Cap. 48, 02:48:52.720: Coyote recupera la vista y se acerca a ayudar ([48-107](capitulos/48.md)).
+- Cap. 48, 02:50:17.040: Naór cae y la serpiente deja de retenerla ([48-108](capitulos/48.md)).
+- Cap. 48, 02:53:33.359: Tryel levanta a Naór ([48-110](capitulos/48.md)).
+- Cap. 48, 02:58:36.560: Naór remata a la serpiente y disimula el golpe ([48-113](capitulos/48.md)).
+- Cap. 48, 02:59:42.479: Naór encadena ataques contra los esqueletos ([48-114](capitulos/48.md)).
+- Cap. 48, 03:03:04.000: Tryel paraliza y golpea a Eldrath ([48-116](capitulos/48.md)).
+- Cap. 48, 03:06:51.880: Naór conserva un colmillo para Leo ([48-118](capitulos/48.md)).
+- Cap. 48, 03:07:19.800: Naór percibe una magia antigua que se apaga ([48-119](capitulos/48.md)).
+- Cap. 48, 03:08:22.880: Naór deja la investigación para recoger a Leo ([48-120](capitulos/48.md)).
+- Cap. 48, 03:11:50.560: Tesara detecta el mismo rastro en toda la cámara ([48-123](capitulos/48.md)).
+- Cap. 48, 03:20:48.760: Coyote obtiene veneno del colmillo restante ([48-127](capitulos/48.md)).
+- Cap. 48, 03:22:36.840: Leo espera y Naór sigue corriendo por la jungla ([48-129](capitulos/48.md)).
 
 ## Negociación
 
@@ -4536,6 +4862,30 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 22, 00:16:00.000: Festival y Guayacán presentado ([22-002](capitulos/22.md)).
 - Cap. 22, 00:53:00.000: Ayoto gana el banquete y un caparazón ([22-006](capitulos/22.md)).
 - Cap. 22, 01:07:00.000: Guayacán gana una carrera con sabotajes ([22-008](capitulos/22.md)).
+
+## No muertos de la cueva envenenada
+
+- Cap. 48, 01:20:09.880: Un arquero no muerto ataca por la retaguardia ([48-057](capitulos/48.md)).
+- Cap. 48, 01:22:43.400: Tesara dispara mientras Eldrath termina de podar ([48-058](capitulos/48.md)).
+- Cap. 48, 01:25:04.639: Naór lanza a Tryel hacia los enemigos ([48-059](capitulos/48.md)).
+- Cap. 48, 01:27:03.560: Zombis y esqueletos se levantan alrededor del grupo ([48-060](capitulos/48.md)).
+- Cap. 48, 01:31:03.080: Las flechas y la vegetación prolongan el veneno ([48-061](capitulos/48.md)).
+- Cap. 48, 01:34:09.480: Eldrath se suma a los ataques de la sala ([48-062](capitulos/48.md)).
+- Cap. 48, 01:35:15.880: La furia de Naór abate a varios adversarios ([48-063](capitulos/48.md)).
+- Cap. 48, 01:38:29.960: Coyote bebe un frasco durante el combate ([48-064](capitulos/48.md)).
+- Cap. 48, 01:41:14.880: Tryel derriba un esqueleto y Tesara vuelve a exponerse al gas ([48-065](capitulos/48.md)).
+- Cap. 48, 01:44:11.639: Coyote prepara un dinosaurio espiritual que aún no invoca ([48-066](capitulos/48.md)).
+- Cap. 48, 01:49:21.719: Tryel remata a otro rival y Tesara consigue disparar ([48-067](capitulos/48.md)).
+- Cap. 48, 01:52:57.560: Los ataques de Eldrath y Naór reducen los últimos enemigos ([48-068](capitulos/48.md)).
+- Cap. 48, 01:55:19.239: La inspiración de Coyote provoca a Naór ([48-069](capitulos/48.md)).
+- Cap. 48, 01:57:46.440: El combate cede y los viajeros se reagrupan ([48-070](capitulos/48.md)).
+- Cap. 48, 01:58:39.040: Las calaveras pasan de los enemigos a las disputas del grupo ([48-071](capitulos/48.md)).
+- Cap. 48, 02:21:10.760: No hay huellas identificadas en el suelo de roca ([48-091](capitulos/48.md)).
+- Cap. 48, 02:43:41.000: El grito de la serpiente despierta esqueletos menores ([48-104](capitulos/48.md)).
+- Cap. 48, 02:51:41.120: Eldrath se separa de un esqueleto y ataca a la serpiente ([48-109](capitulos/48.md)).
+- Cap. 48, 02:53:33.359: Tryel levanta a Naór ([48-110](capitulos/48.md)).
+- Cap. 48, 02:59:42.479: Naór encadena ataques contra los esqueletos ([48-114](capitulos/48.md)).
+- Cap. 48, 03:01:42.279: Eldrath arrebata a Tryel el último remate ([48-115](capitulos/48.md)).
 
 ## Novato ausente de Ione
 
@@ -5518,6 +5868,33 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 24, 02:10:00.000: Regreso, Sam y pueblo alternativo ([24-016](capitulos/24.md)).
 - Cap. 24, 02:20:00.000: Din acuerda buscar a Sam por cincuenta monedas ([24-018](capitulos/24.md)).
 
+## Serpiente esquelética de la cueva envenenada
+
+- Cap. 48, 02:16:46.000: Un gran esqueleto junto al tesoro ([48-087](capitulos/48.md)).
+- Cap. 48, 02:27:50.560: La serpiente sorprende al grupo ([48-094](capitulos/48.md)).
+- Cap. 48, 02:28:46.880: La furia de Naór permite lanzar su arma ([48-095](capitulos/48.md)).
+- Cap. 48, 02:30:48.560: La serpiente muerde y enrosca a Naór ([48-096](capitulos/48.md)).
+- Cap. 48, 02:33:24.479: Tesara guarda un collar antes de advertir el combate ([48-097](capitulos/48.md)).
+- Cap. 48, 02:34:40.160: Naór contraataca a pesar del abrazo de la serpiente ([48-098](capitulos/48.md)).
+- Cap. 48, 02:37:23.160: La primera oleada de veneno se resiste ([48-099](capitulos/48.md)).
+- Cap. 48, 02:38:21.359: Coyote inspira a Tryel mientras sigue sin ver ([48-100](capitulos/48.md)).
+- Cap. 48, 02:40:03.680: La constricción continúa dañando a Naór ([48-101](capitulos/48.md)).
+- Cap. 48, 02:42:12.080: Eldrath dispara con sus dagas y se reposiciona ([48-102](capitulos/48.md)).
+- Cap. 48, 02:43:05.520: Tryel crea duplicados antes de acercarse ([48-103](capitulos/48.md)).
+- Cap. 48, 02:43:41.000: El grito de la serpiente despierta esqueletos menores ([48-104](capitulos/48.md)).
+- Cap. 48, 02:44:14.880: Tesara flanquea para intentar liberar a Naór ([48-105](capitulos/48.md)).
+- Cap. 48, 02:47:38.359: Tesara y Tryel quedan envenenadas ([48-106](capitulos/48.md)).
+- Cap. 48, 02:48:52.720: Coyote recupera la vista y se acerca a ayudar ([48-107](capitulos/48.md)).
+- Cap. 48, 02:50:17.040: Naór cae y la serpiente deja de retenerla ([48-108](capitulos/48.md)).
+- Cap. 48, 02:51:41.120: Eldrath se separa de un esqueleto y ataca a la serpiente ([48-109](capitulos/48.md)).
+- Cap. 48, 02:53:33.359: Tryel levanta a Naór ([48-110](capitulos/48.md)).
+- Cap. 48, 02:54:25.279: Tesara cruza una poza colgada del látigo ([48-111](capitulos/48.md)).
+- Cap. 48, 02:56:49.040: El disparo derriba a la serpiente, pero resiste ([48-112](capitulos/48.md)).
+- Cap. 48, 02:58:36.560: Naór remata a la serpiente y disimula el golpe ([48-113](capitulos/48.md)).
+- Cap. 48, 03:05:05.319: Tesara no encuentra marcas en la serpiente derrotada ([48-117](capitulos/48.md)).
+- Cap. 48, 03:06:51.880: Naór conserva un colmillo para Leo ([48-118](capitulos/48.md)).
+- Cap. 48, 03:20:48.760: Coyote obtiene veneno del colmillo restante ([48-127](capitulos/48.md)).
+
 ## Shiaru
 
 - Cap. 01, 00:00:23.000: Shiaru, punto de llegada ([01-001](capitulos/01.md)).
@@ -5603,6 +5980,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 47, 00:20:05.320: Patata aparece cubierto de barro y hojas ([47-015](capitulos/47.md)).
 - Cap. 47, 00:23:00.520: Patata comunica que otros piratas tomaron Shiaru y destruyeron su casa ([47-017](capitulos/47.md)).
 - Cap. 47, 02:00:10.840: Patata encuentra a los piratas en la taberna de Iktan ([47-079](capitulos/47.md)).
+- Cap. 48, 00:07:39.360: Eldrath sospecha de los clientes y Tryel mira a Molly ([48-006](capitulos/48.md)).
 
 ## Sir Poncelot
 
@@ -5885,6 +6263,12 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 44, 01:40:34.320: Tlachka limpia y cocina la carne con chile ([44-050](capitulos/44.md)).
 - Cap. 44, 01:48:50.360: Leona prueba la carne y resiste la salsa más picante ([44-054](capitulos/44.md)).
 
+## Tatuaje incompleto de Eldrath
+
+- Cap. 48, 00:36:18.599: El tatuaje retrasa una hora a Eldrath ([48-026](capitulos/48.md)).
+- Cap. 48, 00:39:18.160: Naór intimida al tatuador y saca a Eldrath con el dibujo a medias ([48-028](capitulos/48.md)).
+- Cap. 48, 00:43:38.200: Los cinco salen de Iktan con Tryel como guía ([48-030](capitulos/48.md)).
+
 ## Tatuajes de la espalda de Nox
 
 - Cap. 07, 02:03:45.000: Tatuajes de Nox y ruinas sin relación reconocida ([07-025](capitulos/07.md)).
@@ -6107,6 +6491,85 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 47, 02:15:18.639: Tesara y el felino discrepan sobre el sacrificio por un bien mayor ([47-088](capitulos/47.md)).
 - Cap. 47, 02:16:25.119: La imitación de Tortas se presenta como una apariencia de piedra ([47-089](capitulos/47.md)).
 - Cap. 47, 02:17:15.880: Angelique cuenta a Patata su encuentro con Zoltan ([47-090](capitulos/47.md)).
+- Cap. 48, 00:01:14.080: Eldrath recuerda por qué teme por su hermana ([48-002](capitulos/48.md)).
+- Cap. 48, 00:02:31.000: Tesara dedica su tiempo a los archivos de Walulu ([48-003](capitulos/48.md)).
+- Cap. 48, 00:05:53.080: Tesara llega cargada de libros a El Huevo Emplumado ([48-005](capitulos/48.md)).
+- Cap. 48, 00:09:05.760: Tesara pide adelantarse al golpe del dragón ([48-007](capitulos/48.md)).
+- Cap. 48, 00:11:20.959: Los archivos sitúan al dragón joven antes de la fundación de Iktan ([48-008](capitulos/48.md)).
+- Cap. 48, 00:12:02.399: El dragón dejó crecer los poblados como fuente de presas ([48-009](capitulos/48.md)).
+- Cap. 48, 00:12:21.800: Un ataque dracónico anterior motivó el ritual protector ([48-010](capitulos/48.md)).
+- Cap. 48, 00:12:43.639: Tesara conoce la función del rito, pero no comprende cómo se realiza ([48-011](capitulos/48.md)).
+- Cap. 48, 00:13:20.760: Tesara transmite los hallazgos y habla de otro dragón al mando ([48-012](capitulos/48.md)).
+- Cap. 48, 00:15:21.440: El grupo dispone de seis días para responder al ultimátum ([48-013](capitulos/48.md)).
+- Cap. 48, 00:17:43.559: La falta de tiempo descarta buscar una gran biblioteca ([48-015](capitulos/48.md)).
+- Cap. 48, 00:24:23.279: Walulu insiste en los motivos para que Naór se calme ([48-019](capitulos/48.md)).
+- Cap. 48, 00:28:19.200: Tesara reclama a Naór por los tres días al cuidado de Leo ([48-022](capitulos/48.md)).
+- Cap. 48, 00:30:50.640: Naór acepta la expedición, condicionada a recoger a Leo ([48-023](capitulos/48.md)).
+- Cap. 48, 00:36:18.599: El tatuaje retrasa una hora a Eldrath ([48-026](capitulos/48.md)).
+- Cap. 48, 00:37:41.480: Coyote provoca a Tesara sobre una supuesta relación con Eldrath ([48-027](capitulos/48.md)).
+- Cap. 48, 00:41:15.760: Las cartas del chat modifican el dinero de Eldrath y Tesara ([48-029](capitulos/48.md)).
+- Cap. 48, 00:43:38.200: Los cinco salen de Iktan con Tryel como guía ([48-030](capitulos/48.md)).
+- Cap. 48, 00:46:22.160: Tesara y Eldrath rechazan las bromas sobre noviazgo y jefatura ([48-032](capitulos/48.md)).
+- Cap. 48, 00:47:50.800: Naór intenta seguir el olor del dragón sin lograr orientarse ([48-033](capitulos/48.md)).
+- Cap. 48, 00:49:24.000: Naór asusta a Tesara y la coloca al frente para rastrear ([48-034](capitulos/48.md)).
+- Cap. 48, 00:50:54.799: Las frutas aportan efectos que se comentan durante la búsqueda ([48-035](capitulos/48.md)).
+- Cap. 48, 00:52:31.520: Tesara encuentra marcas del dragón y pisadas desacompasadas ([48-036](capitulos/48.md)).
+- Cap. 48, 00:54:27.280: Eldrath reconoce el terreno rocoso hacia el que apuntan los rastros ([48-037](capitulos/48.md)).
+- Cap. 48, 00:57:47.280: Eldrath enlaza las mentes de cuatro compañeros durante seis horas ([48-038](capitulos/48.md)).
+- Cap. 48, 00:59:18.640: El director precisa que Eldrath debe retransmitir los mensajes ([48-039](capitulos/48.md)).
+- Cap. 48, 00:59:51.480: Las huellas terminan ante una pared cubierta de raíces ([48-040](capitulos/48.md)).
+- Cap. 48, 01:01:37.799: Tesara quema las raíces con el fuego recibido de una fruta ([48-042](capitulos/48.md)).
+- Cap. 48, 01:04:06.720: Cubrirse del hedor y proponer tropas de Atlan ([48-045](capitulos/48.md)).
+- Cap. 48, 01:04:25.599: La entrada obliga a resistir veneno y hiere a Tesara ([48-046](capitulos/48.md)).
+- Cap. 48, 01:05:24.880: La cueva huele a podredumbre y veneno y pierde la luz de la entrada ([48-047](capitulos/48.md)).
+- Cap. 48, 01:06:36.559: Antorchas para entrar en una cueva cubierta de raíces ([48-048](capitulos/48.md)).
+- Cap. 48, 01:13:20.000: Tesara propone cruzar colgados de las raíces ([48-052](capitulos/48.md)).
+- Cap. 48, 01:16:45.199: Una sala de huesos despierta las sospechas de Tesara ([48-054](capitulos/48.md)).
+- Cap. 48, 01:17:42.159: El poder atribuido al dragón sigue siendo un aviso del grupo ([48-055](capitulos/48.md)).
+- Cap. 48, 01:18:44.239: Naór patea una calavera antes de oír los primeros ruidos ([48-056](capitulos/48.md)).
+- Cap. 48, 01:20:09.880: Un arquero no muerto ataca por la retaguardia ([48-057](capitulos/48.md)).
+- Cap. 48, 01:22:43.400: Tesara dispara mientras Eldrath termina de podar ([48-058](capitulos/48.md)).
+- Cap. 48, 01:31:03.080: Las flechas y la vegetación prolongan el veneno ([48-061](capitulos/48.md)).
+- Cap. 48, 01:41:14.880: Tryel derriba un esqueleto y Tesara vuelve a exponerse al gas ([48-065](capitulos/48.md)).
+- Cap. 48, 01:49:21.719: Tryel remata a otro rival y Tesara consigue disparar ([48-067](capitulos/48.md)).
+- Cap. 48, 01:52:57.560: Los ataques de Eldrath y Naór reducen los últimos enemigos ([48-068](capitulos/48.md)).
+- Cap. 48, 01:57:46.440: El combate cede y los viajeros se reagrupan ([48-070](capitulos/48.md)).
+- Cap. 48, 02:01:36.320: Tesara atiende las heridas de Coyote antes de continuar ([48-073](capitulos/48.md)).
+- Cap. 48, 02:02:51.000: Naór detecta un brillo mágico entre las rocas ([48-074](capitulos/48.md)).
+- Cap. 48, 02:09:34.400: Eldrath reparte las antitoxinas a sus compañeros ([48-079](capitulos/48.md)).
+- Cap. 48, 02:10:40.119: La recogida de Leo impide hacer un descanso corto ([48-080](capitulos/48.md)).
+- Cap. 48, 02:12:44.000: Naór avanza saltando de roca en roca ([48-082](capitulos/48.md)).
+- Cap. 48, 02:14:48.032: Tryel escupe el veneno y responde que está bien ([48-084](capitulos/48.md)).
+- Cap. 48, 02:15:30.280: Tesara pide prudencia mientras se acaba el tiempo ([48-085](capitulos/48.md)).
+- Cap. 48, 02:16:46.000: Un gran esqueleto junto al tesoro ([48-087](capitulos/48.md)).
+- Cap. 48, 02:17:20.160: Tesara exige no pisar raíces ni huesos ([48-088](capitulos/48.md)).
+- Cap. 48, 02:20:18.120: Los vapores dejan a Tesara sin oír ([48-090](capitulos/48.md)).
+- Cap. 48, 02:22:53.280: Tesara busca pistas entre un botín corroído ([48-092](capitulos/48.md)).
+- Cap. 48, 02:27:50.560: La serpiente sorprende al grupo ([48-094](capitulos/48.md)).
+- Cap. 48, 02:33:24.479: Tesara guarda un collar antes de advertir el combate ([48-097](capitulos/48.md)).
+- Cap. 48, 02:37:23.160: La primera oleada de veneno se resiste ([48-099](capitulos/48.md)).
+- Cap. 48, 02:44:14.880: Tesara flanquea para intentar liberar a Naór ([48-105](capitulos/48.md)).
+- Cap. 48, 02:47:38.359: Tesara y Tryel quedan envenenadas ([48-106](capitulos/48.md)).
+- Cap. 48, 02:48:52.720: Coyote recupera la vista y se acerca a ayudar ([48-107](capitulos/48.md)).
+- Cap. 48, 02:54:25.279: Tesara cruza una poza colgada del látigo ([48-111](capitulos/48.md)).
+- Cap. 48, 02:56:49.040: El disparo derriba a la serpiente, pero resiste ([48-112](capitulos/48.md)).
+- Cap. 48, 02:58:36.560: Naór remata a la serpiente y disimula el golpe ([48-113](capitulos/48.md)).
+- Cap. 48, 02:59:42.479: Naór encadena ataques contra los esqueletos ([48-114](capitulos/48.md)).
+- Cap. 48, 03:03:04.000: Tryel paraliza y golpea a Eldrath ([48-116](capitulos/48.md)).
+- Cap. 48, 03:05:05.319: Tesara no encuentra marcas en la serpiente derrotada ([48-117](capitulos/48.md)).
+- Cap. 48, 03:09:04.600: Tryel y Coyote continúan buscando en el tesoro ([48-121](capitulos/48.md)).
+- Cap. 48, 03:10:26.080: La sala no contiene las inscripciones que buscan ([48-122](capitulos/48.md)).
+- Cap. 48, 03:11:50.560: Tesara detecta el mismo rastro en toda la cámara ([48-123](capitulos/48.md)).
+- Cap. 48, 03:19:49.239: Tesara recoge una segunda muestra de las pozas ([48-126](capitulos/48.md)).
+- Cap. 48, 03:21:47.680: Los compañeros abandonan la cueva heridos ([48-128](capitulos/48.md)).
+
+## Tesoro de la cueva envenenada
+
+- Cap. 48, 02:16:46.000: Un gran esqueleto junto al tesoro ([48-087](capitulos/48.md)).
+- Cap. 48, 02:22:53.280: Tesara busca pistas entre un botín corroído ([48-092](capitulos/48.md)).
+- Cap. 48, 02:33:24.479: Tesara guarda un collar antes de advertir el combate ([48-097](capitulos/48.md)).
+- Cap. 48, 03:09:04.600: Tryel y Coyote continúan buscando en el tesoro ([48-121](capitulos/48.md)).
+- Cap. 48, 03:10:26.080: La sala no contiene las inscripciones que buscan ([48-122](capitulos/48.md)).
 
 ## Tim
 
@@ -6358,6 +6821,13 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 47, 01:59:07.079: Tentacol y Chopito imitan la meditación de Tortas ([47-078](capitulos/47.md)).
 - Cap. 47, 02:16:25.119: La imitación de Tortas se presenta como una apariencia de piedra ([47-089](capitulos/47.md)).
 - Cap. 47, 02:17:15.880: Angelique cuenta a Patata su encuentro con Zoltan ([47-090](capitulos/47.md)).
+- Cap. 48, 00:00:13.160: Naór recuerda el colegio y sus nuevos encuentros ([48-001](capitulos/48.md)).
+
+## Tortuga terapeuta del templo de Iktan
+
+- Cap. 48, 00:22:40.159: Naór recibe una clase de calma de una tortuga con gafas ([48-018](capitulos/48.md)).
+- Cap. 48, 00:24:23.279: Walulu insiste en los motivos para que Naór se calme ([48-019](capitulos/48.md)).
+- Cap. 48, 00:25:44.640: La tortuga enseña a respirar y Walulu paga la donación ([48-020](capitulos/48.md)).
 
 ## Tribu de la Hoja Caída
 
@@ -6550,6 +7020,59 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 47, 02:12:58.280: Walulu acepta estudiar una estrategia contra el dragón ([47-085](capitulos/47.md)).
 - Cap. 47, 02:13:42.840: El felino prefiere entregar a los elfos y Walulu los acoge ([47-086](capitulos/47.md)).
 - Cap. 47, 02:15:18.639: Tesara y el felino discrepan sobre el sacrificio por un bien mayor ([47-088](capitulos/47.md)).
+- Cap. 48, 00:01:14.080: Eldrath recuerda por qué teme por su hermana ([48-002](capitulos/48.md)).
+- Cap. 48, 00:05:53.080: Tesara llega cargada de libros a El Huevo Emplumado ([48-005](capitulos/48.md)).
+- Cap. 48, 00:07:39.360: Eldrath sospecha de los clientes y Tryel mira a Molly ([48-006](capitulos/48.md)).
+- Cap. 48, 00:09:05.760: Tesara pide adelantarse al golpe del dragón ([48-007](capitulos/48.md)).
+- Cap. 48, 00:13:20.760: Tesara transmite los hallazgos y habla de otro dragón al mando ([48-012](capitulos/48.md)).
+- Cap. 48, 00:15:21.440: El grupo dispone de seis días para responder al ultimátum ([48-013](capitulos/48.md)).
+- Cap. 48, 00:16:30.160: Tryel recuerda una gran cueva donde se envenenó ([48-014](capitulos/48.md)).
+- Cap. 48, 00:17:43.559: La falta de tiempo descarta buscar una gran biblioteca ([48-015](capitulos/48.md)).
+- Cap. 48, 00:20:23.320: Tryel reclama prioridad ante el interés de Coyote por Molly ([48-017](capitulos/48.md)).
+- Cap. 48, 00:27:18.200: Tryel invita a Naór a pelear y recibe una respuesta pacífica ([48-021](capitulos/48.md)).
+- Cap. 48, 00:30:50.640: Naór acepta la expedición, condicionada a recoger a Leo ([48-023](capitulos/48.md)).
+- Cap. 48, 00:36:18.599: El tatuaje retrasa una hora a Eldrath ([48-026](capitulos/48.md)).
+- Cap. 48, 00:37:41.480: Coyote provoca a Tesara sobre una supuesta relación con Eldrath ([48-027](capitulos/48.md)).
+- Cap. 48, 00:43:38.200: Los cinco salen de Iktan con Tryel como guía ([48-030](capitulos/48.md)).
+- Cap. 48, 00:45:19.520: La orientación de Tryel los hace dar vueltas ([48-031](capitulos/48.md)).
+- Cap. 48, 00:46:22.160: Tesara y Eldrath rechazan las bromas sobre noviazgo y jefatura ([48-032](capitulos/48.md)).
+- Cap. 48, 00:47:50.800: Naór intenta seguir el olor del dragón sin lograr orientarse ([48-033](capitulos/48.md)).
+- Cap. 48, 00:49:24.000: Naór asusta a Tesara y la coloca al frente para rastrear ([48-034](capitulos/48.md)).
+- Cap. 48, 00:57:47.280: Eldrath enlaza las mentes de cuatro compañeros durante seis horas ([48-038](capitulos/48.md)).
+- Cap. 48, 00:59:18.640: El director precisa que Eldrath debe retransmitir los mensajes ([48-039](capitulos/48.md)).
+- Cap. 48, 00:59:51.480: Las huellas terminan ante una pared cubierta de raíces ([48-040](capitulos/48.md)).
+- Cap. 48, 01:02:24.039: Eldrath comparte una botella con Tryel antes de entrar ([48-043](capitulos/48.md)).
+- Cap. 48, 01:04:25.599: La entrada obliga a resistir veneno y hiere a Tesara ([48-046](capitulos/48.md)).
+- Cap. 48, 01:05:24.880: La cueva huele a podredumbre y veneno y pierde la luz de la entrada ([48-047](capitulos/48.md)).
+- Cap. 48, 01:20:09.880: Un arquero no muerto ataca por la retaguardia ([48-057](capitulos/48.md)).
+- Cap. 48, 01:25:04.639: Naór lanza a Tryel hacia los enemigos ([48-059](capitulos/48.md)).
+- Cap. 48, 01:27:03.560: Zombis y esqueletos se levantan alrededor del grupo ([48-060](capitulos/48.md)).
+- Cap. 48, 01:35:15.880: La furia de Naór abate a varios adversarios ([48-063](capitulos/48.md)).
+- Cap. 48, 01:38:29.960: Coyote bebe un frasco durante el combate ([48-064](capitulos/48.md)).
+- Cap. 48, 01:41:14.880: Tryel derriba un esqueleto y Tesara vuelve a exponerse al gas ([48-065](capitulos/48.md)).
+- Cap. 48, 01:49:21.719: Tryel remata a otro rival y Tesara consigue disparar ([48-067](capitulos/48.md)).
+- Cap. 48, 01:52:57.560: Los ataques de Eldrath y Naór reducen los últimos enemigos ([48-068](capitulos/48.md)).
+- Cap. 48, 01:55:19.239: La inspiración de Coyote provoca a Naór ([48-069](capitulos/48.md)).
+- Cap. 48, 01:57:46.440: El combate cede y los viajeros se reagrupan ([48-070](capitulos/48.md)).
+- Cap. 48, 01:58:39.040: Las calaveras pasan de los enemigos a las disputas del grupo ([48-071](capitulos/48.md)).
+- Cap. 48, 02:08:21.920: Volver sobre los hombros de Naór tampoco evita el gas ([48-078](capitulos/48.md)).
+- Cap. 48, 02:09:34.400: Eldrath reparte las antitoxinas a sus compañeros ([48-079](capitulos/48.md)).
+- Cap. 48, 02:12:44.000: Naór avanza saltando de roca en roca ([48-082](capitulos/48.md)).
+- Cap. 48, 02:14:01.800: Tryel cae al veneno y Naór se mete para ayudarla ([48-083](capitulos/48.md)).
+- Cap. 48, 02:14:48.032: Tryel escupe el veneno y responde que está bien ([48-084](capitulos/48.md)).
+- Cap. 48, 02:15:30.280: Tesara pide prudencia mientras se acaba el tiempo ([48-085](capitulos/48.md)).
+- Cap. 48, 02:17:20.160: Tesara exige no pisar raíces ni huesos ([48-088](capitulos/48.md)).
+- Cap. 48, 02:27:50.560: La serpiente sorprende al grupo ([48-094](capitulos/48.md)).
+- Cap. 48, 02:37:23.160: La primera oleada de veneno se resiste ([48-099](capitulos/48.md)).
+- Cap. 48, 02:38:21.359: Coyote inspira a Tryel mientras sigue sin ver ([48-100](capitulos/48.md)).
+- Cap. 48, 02:43:05.520: Tryel crea duplicados antes de acercarse ([48-103](capitulos/48.md)).
+- Cap. 48, 02:44:14.880: Tesara flanquea para intentar liberar a Naór ([48-105](capitulos/48.md)).
+- Cap. 48, 02:47:38.359: Tesara y Tryel quedan envenenadas ([48-106](capitulos/48.md)).
+- Cap. 48, 02:53:33.359: Tryel levanta a Naór ([48-110](capitulos/48.md)).
+- Cap. 48, 03:01:42.279: Eldrath arrebata a Tryel el último remate ([48-115](capitulos/48.md)).
+- Cap. 48, 03:03:04.000: Tryel paraliza y golpea a Eldrath ([48-116](capitulos/48.md)).
+- Cap. 48, 03:09:04.600: Tryel y Coyote continúan buscando en el tesoro ([48-121](capitulos/48.md)).
+- Cap. 48, 03:21:47.680: Los compañeros abandonan la cueva heridos ([48-128](capitulos/48.md)).
 
 ## Tutucan
 
@@ -6641,6 +7164,12 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 47, 02:12:58.280: Walulu acepta estudiar una estrategia contra el dragón ([47-085](capitulos/47.md)).
 - Cap. 47, 02:13:42.840: El felino prefiere entregar a los elfos y Walulu los acoge ([47-086](capitulos/47.md)).
 - Cap. 47, 02:14:38.559: Walulu quiere hablar con Naór y pide compañía para una reunión futura ([47-087](capitulos/47.md)).
+- Cap. 48, 00:02:31.000: Tesara dedica su tiempo a los archivos de Walulu ([48-003](capitulos/48.md)).
+- Cap. 48, 00:09:05.760: Tesara pide adelantarse al golpe del dragón ([48-007](capitulos/48.md)).
+- Cap. 48, 00:12:21.800: Un ataque dracónico anterior motivó el ritual protector ([48-010](capitulos/48.md)).
+- Cap. 48, 00:22:40.159: Naór recibe una clase de calma de una tortuga con gafas ([48-018](capitulos/48.md)).
+- Cap. 48, 00:24:23.279: Walulu insiste en los motivos para que Naór se calme ([48-019](capitulos/48.md)).
+- Cap. 48, 00:25:44.640: La tortuga enseña a respirar y Walulu paga la donación ([48-020](capitulos/48.md)).
 
 ## Winscore
 
@@ -6725,6 +7254,8 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 42, 02:22:01.359: Taylor dice haber capturado al joven Jackie rumbo a Puerto de Espadas ([42-070](capitulos/42.md)).
 - Cap. 42, 02:22:59.960: Taylor acusa a Bonnie de romper un pacto y ocultar Xoltacan ([42-071](capitulos/42.md)).
 - Cap. 45, 03:11:50.040: La invitación al concilio queda pendiente de decisión ([45-077](capitulos/45.md)).
+- Cap. 48, 00:11:20.959: Los archivos sitúan al dragón joven antes de la fundación de Iktan ([48-008](capitulos/48.md)).
+- Cap. 48, 00:12:02.399: El dragón dejó crecer los poblados como fuente de presas ([48-009](capitulos/48.md)).
 
 ## Yuan-ti
 

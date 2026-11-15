@@ -12,7 +12,7 @@ Base para revisar equivalencia: [35-014](../capitulos/35.md), [36-019](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 47.
+Relato revisado hasta el capítulo 48.
 
 ### Una isla de pueblos vivos y ruinas disputadas
 
@@ -91,4 +91,20 @@ Tipo: `hecho_confirmado`.
 Naór anuncia que se ha cantado la canción del concilio y convoca a los líderes a una reunión en Tutucan frente a las amenazas que afectan a la isla y al mar. Ivet recuerda que la última reunión terminó en separación y lamenta los ataques y abandonos entre pueblos. Tras mirar a su hija y a los suyos, dice que lo meditará, pero advierte que la respuesta de momento es poco favorable por sus problemas locales. Menciona que ha oído que los yuan-ti han vuelto; Naór lo confirma.
 
 Meditar la propuesta no equivale a aceptar la asistencia, enviar tropas o cerrar una alianza. No se fija aquí una nueva fecha del concilio. La mención de los yuan-ti no prueba que sean la misma organización que los Profundos.
+
+## [48-008 · Los archivos sitúan al dragón joven antes de la fundación de Iktan](../capitulos/48.md) · 00:11:20.959
+
+Tipo: `explicacion_director`.
+
+El director explica lo que Tesara ha podido averiguar en los archivos: el dragón verde llegó a la zona joven, incluso antes de que se fundara Iktan. Creció durante los años alimentándose de la jungla de Xoltacan y creando no muertos que le ayudaban a sobrevivir.
+
+Información histórica obtenida por Tesara, sin escena retrospectiva, fecha absoluta, edad exacta o mecanismo completo de creación de los no muertos. El nombre canónico enlaza con el dragón del que se habla, no con Zarynth.
+
+## [48-009 · El dragón dejó crecer los poblados como fuente de presas](../capitulos/48.md) · 00:12:02.399
+
+Tipo: `explicacion_director`.
+
+Según la explicación histórica del director, el dragón no se interesaba en atacar las pequeñas ciudades que iban construyéndose. Las dejaba crecer, y quien se perdía en la jungla podía convertirse en alimento para él.
+
+No se identifica a víctimas concretas ni se afirma que nunca hubiera atacado una población en toda su existencia; se describe el comportamiento recogido en la información consultada.
 

@@ -8,11 +8,11 @@ Tesa es la abreviatura de la historiadora Tesara Queen.
 
 Etiquetas agrupadas: Tesara Queen / Tesa (historiadora humana); Tesa; Tessa; Tessara Quinn.
 
-Base para revisar equivalencia: [31-004](../capitulos/31.md), [31-005](../capitulos/31.md), [47-002](../capitulos/47.md), [47-004](../capitulos/47.md), [47-005](../capitulos/47.md), [47-006](../capitulos/47.md), [47-008](../capitulos/47.md), [47-010](../capitulos/47.md), [47-013](../capitulos/47.md), [47-014](../capitulos/47.md), [47-017](../capitulos/47.md), [47-020](../capitulos/47.md), [47-024](../capitulos/47.md), [47-026](../capitulos/47.md), [47-027](../capitulos/47.md), [47-035](../capitulos/47.md), [47-041](../capitulos/47.md), [47-046](../capitulos/47.md), [47-038](../capitulos/47.md), [47-050](../capitulos/47.md), [47-051](../capitulos/47.md), [47-052](../capitulos/47.md), [47-056](../capitulos/47.md), [47-060](../capitulos/47.md), [47-058](../capitulos/47.md), [47-059](../capitulos/47.md), [47-061](../capitulos/47.md), [47-064](../capitulos/47.md), [47-065](../capitulos/47.md), [47-066](../capitulos/47.md), [47-067](../capitulos/47.md), [47-073](../capitulos/47.md), [47-074](../capitulos/47.md), [47-076](../capitulos/47.md), [47-077](../capitulos/47.md), [47-080](../capitulos/47.md), [47-081](../capitulos/47.md), [47-085](../capitulos/47.md), [47-087](../capitulos/47.md), [47-088](../capitulos/47.md).
+Base para revisar equivalencia: [31-004](../capitulos/31.md), [31-005](../capitulos/31.md), [47-002](../capitulos/47.md), [47-004](../capitulos/47.md), [47-005](../capitulos/47.md), [47-006](../capitulos/47.md), [47-008](../capitulos/47.md), [47-010](../capitulos/47.md), [47-013](../capitulos/47.md), [47-014](../capitulos/47.md), [47-017](../capitulos/47.md), [47-020](../capitulos/47.md), [47-024](../capitulos/47.md), [47-026](../capitulos/47.md), [47-027](../capitulos/47.md), [47-035](../capitulos/47.md), [47-041](../capitulos/47.md), [47-046](../capitulos/47.md), [47-038](../capitulos/47.md), [47-050](../capitulos/47.md), [47-051](../capitulos/47.md), [47-052](../capitulos/47.md), [47-056](../capitulos/47.md), [47-060](../capitulos/47.md), [47-058](../capitulos/47.md), [47-059](../capitulos/47.md), [47-061](../capitulos/47.md), [47-064](../capitulos/47.md), [47-065](../capitulos/47.md), [47-066](../capitulos/47.md), [47-067](../capitulos/47.md), [47-073](../capitulos/47.md), [47-074](../capitulos/47.md), [47-076](../capitulos/47.md), [47-077](../capitulos/47.md), [47-080](../capitulos/47.md), [47-081](../capitulos/47.md), [47-085](../capitulos/47.md), [47-087](../capitulos/47.md), [47-088](../capitulos/47.md), [48-003](../capitulos/48.md), [48-005](../capitulos/48.md), [48-007](../capitulos/48.md), [48-008](../capitulos/48.md), [48-009](../capitulos/48.md), [48-010](../capitulos/48.md), [48-011](../capitulos/48.md), [48-012](../capitulos/48.md), [48-013](../capitulos/48.md), [48-015](../capitulos/48.md), [48-022](../capitulos/48.md), [48-023](../capitulos/48.md), [48-026](../capitulos/48.md), [48-027](../capitulos/48.md), [48-032](../capitulos/48.md), [48-034](../capitulos/48.md), [48-036](../capitulos/48.md), [48-037](../capitulos/48.md), [48-038](../capitulos/48.md), [48-039](../capitulos/48.md), [48-040](../capitulos/48.md), [48-042](../capitulos/48.md), [48-045](../capitulos/48.md), [48-046](../capitulos/48.md), [48-047](../capitulos/48.md), [48-048](../capitulos/48.md), [48-052](../capitulos/48.md), [48-054](../capitulos/48.md), [48-057](../capitulos/48.md), [48-058](../capitulos/48.md), [48-061](../capitulos/48.md), [48-065](../capitulos/48.md), [48-067](../capitulos/48.md), [48-073](../capitulos/48.md), [48-079](../capitulos/48.md), [48-080](../capitulos/48.md), [48-082](../capitulos/48.md), [48-084](../capitulos/48.md), [48-085](../capitulos/48.md), [48-088](../capitulos/48.md), [48-090](../capitulos/48.md), [48-092](../capitulos/48.md), [48-097](../capitulos/48.md), [48-105](../capitulos/48.md), [48-106](../capitulos/48.md), [48-111](../capitulos/48.md), [48-112](../capitulos/48.md), [48-113](../capitulos/48.md), [48-117](../capitulos/48.md), [48-122](../capitulos/48.md), [48-123](../capitulos/48.md), [48-126](../capitulos/48.md), [48-128](../capitulos/48.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 47.
+Relato revisado hasta el capítulo 48.
 
 ### Una historiadora que quiere conocer la isla
 
@@ -55,6 +55,54 @@ Fuentes: [47-058 · Patata deshace la masa y las raíces se retiran](../capitulo
 Tesara intenta herir a la voz invisible, falla y sale de la maleza para advertir a los demás. Se opone a entregar a los hermanos y recibe una amenaza que nombra a Oliver, a quien reconoce como su hermano. Guía el regreso a Iktan y busca a los elfos, pero recibe solo noticias incompletas. Lleva el ultimátum a Walulu, pide una estrategia contra el dragón y acepta acompañar una reunión cuando vuelva Naór. Al regresar discute con el felino porque rechaza sacrificar vidas como moneda.
 
 Fuentes: [47-064 · La presencia invisible susurra junto al oído de Tesara](../capitulos/47.md) · 01:35:15.560 · [47-065 · Tesara falla el latigazo y sale de la maleza](../capitulos/47.md) · 01:37:15.239 · [47-066 · Chopito abofetea a Tesara y cuestiona su alarma](../capitulos/47.md) · 01:40:45.000 · [47-067 · Tesara defiende a los elfos y recuerda una emboscada anterior](../capitulos/47.md) · 01:42:01.679 · [47-073 · El ultimátum da una semana y amenaza a la ciudad](../capitulos/47.md) · 01:51:33.280 · [47-074 · El dragón nombra a Oliver, hermano de Tesara](../capitulos/47.md) · 01:52:00.000 · [47-076 · Tesara sostiene la confianza en sus compañeros elfos](../capitulos/47.md) · 01:54:52.360 · [47-077 · Tesara guía el regreso a Iktan](../capitulos/47.md) · 01:57:54.960 · [47-080 · Angelique informa de la salida de la elfa y del entrenamiento de su hermano](../capitulos/47.md) · 02:02:28.400 · [47-081 · Tesara y el felino llevan el aviso a Walulu](../capitulos/47.md) · 02:04:06.960 · [47-085 · Walulu acepta estudiar una estrategia contra el dragón](../capitulos/47.md) · 02:12:58.280 · [47-087 · Walulu quiere hablar con Naór y pide compañía para una reunión futura](../capitulos/47.md) · 02:14:38.559 · [47-088 · Tesara y el felino discrepan sobre el sacrificio por un bien mayor](../capitulos/47.md) · 02:15:18.639.
+
+### De la biblioteca a la urgencia del ultimátum
+
+Tesara dedica su tiempo con Walulu a leer documentos, libros y profecías sobre el dragón verde, los rituales y los muertos movidos por plantas. Llega a la taberna con los brazos llenos de material y pide actuar antes que el enemigo. Lo que ha recuperado es sobre todo historia: la llegada de un dragón joven antes de la fundación de Iktan, su relación depredadora con la jungla y el ritual levantado tras un ataque dracónico antiguo. Comprende que impide la entrada de grandes dragones, pero no cómo se realiza. Al transmitirlo habla de otro dragón en el ataque histórico y de un supuesto patrón dracónico actual, sin poder identificar a ninguno. Recuerda a los compañeros que del plazo de una semana quedan seis días.
+
+Fuentes: [48-003 · Tesara dedica su tiempo a los archivos de Walulu](../capitulos/48.md) · 00:02:31.000 · [48-005 · Tesara llega cargada de libros a El Huevo Emplumado](../capitulos/48.md) · 00:05:53.080 · [48-007 · Tesara pide adelantarse al golpe del dragón](../capitulos/48.md) · 00:09:05.760 · [48-008 · Los archivos sitúan al dragón joven antes de la fundación de Iktan](../capitulos/48.md) · 00:11:20.959 · [48-009 · El dragón dejó crecer los poblados como fuente de presas](../capitulos/48.md) · 00:12:02.399 · [48-010 · Un ataque dracónico anterior motivó el ritual protector](../capitulos/48.md) · 00:12:21.800 · [48-011 · Tesara conoce la función del rito, pero no comprende cómo se realiza](../capitulos/48.md) · 00:12:43.639 · [48-012 · Tesara transmite los hallazgos y habla de otro dragón al mando](../capitulos/48.md) · 00:13:20.760 · [48-013 · El grupo dispone de seis días para responder al ultimátum](../capitulos/48.md) · 00:15:21.440.
+
+### El peso de Leo y la irritación con los elfos
+
+La historia de los archivos no basta para diseñar la trampa que quisiera y Tesara preferiría consultar una gran biblioteca, pero no conocen una cercana y carecen de tiempo. Reclama a Naór por haber cuidado a Leo tres días y la invita a ayudar con su fuerza en la expedición. Después espera a Eldrath ante la puerta mientras él se tatúa y le reprocha el retraso. Coyote interpreta como romance la ayuda que el elfo le prestó durante su miedo; ella rechaza el noviazgo y afirma su decisión de estar soltera.
+
+Fuentes: [48-015 · La falta de tiempo descarta buscar una gran biblioteca](../capitulos/48.md) · 00:17:43.559 · [48-022 · Tesara reclama a Naór por los tres días al cuidado de Leo](../capitulos/48.md) · 00:28:19.200 · [48-023 · Naór acepta la expedición, condicionada a recoger a Leo](../capitulos/48.md) · 00:30:50.640 · [48-026 · El tatuaje retrasa una hora a Eldrath](../capitulos/48.md) · 00:36:18.599 · [48-027 · Coyote provoca a Tesara sobre una supuesta relación con Eldrath](../capitulos/48.md) · 00:37:41.480 · [48-032 · Tesara y Eldrath rechazan las bromas sobre noviazgo y jefatura](../capitulos/48.md) · 00:46:22.160.
+
+### La exploradora aterrada encuentra las señales
+
+Naór la asusta con un rugido y la obliga a ponerse al frente. Pese a la presión, Tesara termina encontrando las ramas rotas por el dragón y las pisadas desacompasadas de otros seres que se internan en la jungla. Comparte el hallazgo con Eldrath, que lo relaciona con la zona rocosa. Acepta el enlace psiónico del elfo para comunicarse sin hablar y comprende que él debe retransmitir las respuestas.
+
+Fuentes: [48-034 · Naór asusta a Tesara y la coloca al frente para rastrear](../capitulos/48.md) · 00:49:24.000 · [48-036 · Tesara encuentra marcas del dragón y pisadas desacompasadas](../capitulos/48.md) · 00:52:31.520 · [48-037 · Eldrath reconoce el terreno rocoso hacia el que apuntan los rastros](../capitulos/48.md) · 00:54:27.280 · [48-038 · Eldrath enlaza las mentes de cuatro compañeros durante seis horas](../capitulos/48.md) · 00:57:47.280 · [48-039 · El director precisa que Eldrath debe retransmitir los mensajes](../capitulos/48.md) · 00:59:18.640.
+
+### El fuego de una fruta abre una entrada envenenada
+
+Ante las raíces que cubren la pared rocosa, Tesara usa el efecto de una fruta para producir fuego con sus manos. Las quema y despeja el acceso mientras la vegetación se retuerce. Se cubre la boca con un pañuelo y entra con los otros. Recibe cuatro puntos de daño de veneno al inicio de la exploración, en una adjudicación introducida por una carta del chat. Cuando la luz de la entrada queda atrás apenas ve y descubre que no ha llevado antorchas.
+
+Fuentes: [48-040 · Las huellas terminan ante una pared cubierta de raíces](../capitulos/48.md) · 00:59:51.480 · [48-042 · Tesara quema las raíces con el fuego recibido de una fruta](../capitulos/48.md) · 01:01:37.799 · [48-045 · Cubrirse del hedor y proponer tropas de Atlan](../capitulos/48.md) · 01:04:06.720 · [48-046 · La entrada obliga a resistir veneno y hiere a Tesara](../capitulos/48.md) · 01:04:25.599 · [48-047 · La cueva huele a podredumbre y veneno y pierde la luz de la entrada](../capitulos/48.md) · 01:05:24.880.
+
+### La cautela también necesita un sitio donde esconderse
+
+Tesara entra con antorcha y pistola y propone cruzar el paso de plantas colgados de las raíces que baja con el látigo. El gas llega hasta esa altura. Desconfía de los montones de cadáveres y vigila los ruidos por la retaguardia, donde empieza el ataque. Lucha con la pistola y busca coberturas, pero las setas y plantas que escoge la exponen a nuevas salvaciones de veneno. Cuando consigue un disparo útil, la carga de fuego ya se ha gastado y la desventaja limita su ataque furtivo.
+
+Fuentes: [48-048 · Antorchas para entrar en una cueva cubierta de raíces](../capitulos/48.md) · 01:06:36.559 · [48-052 · Tesara propone cruzar colgados de las raíces](../capitulos/48.md) · 01:13:20.000 · [48-054 · Una sala de huesos despierta las sospechas de Tesara](../capitulos/48.md) · 01:16:45.199 · [48-057 · Un arquero no muerto ataca por la retaguardia](../capitulos/48.md) · 01:20:09.880 · [48-058 · Tesara dispara mientras Eldrath termina de podar](../capitulos/48.md) · 01:22:43.400 · [48-061 · Las flechas y la vegetación prolongan el veneno](../capitulos/48.md) · 01:31:03.080 · [48-065 · Tryel derriba un esqueleto y Tesara vuelve a exponerse al gas](../capitulos/48.md) · 01:41:14.880 · [48-067 · Tryel remata a otro rival y Tesara consigue disparar](../capitulos/48.md) · 01:49:21.719.
+
+### Auxilio y tiempo para el regreso
+
+Se ocupa de las heridas de Coyote y le pide levantarse para seguir al grupo. Espera mientras Naór y Eldrath recuperan las antitoxinas. El descanso corto queda descartado por la recogida de Leo. Tras alcanzar el puente por otra ruta y presenciar otra exposición al veneno, pide a los compañeros que no toquen nada sospechoso y anuncia que se irá en veinte minutos.
+
+Fuentes: [48-073 · Tesara atiende las heridas de Coyote antes de continuar](../capitulos/48.md) · 02:01:36.320 · [48-079 · Eldrath reparte las antitoxinas a sus compañeros](../capitulos/48.md) · 02:09:34.400 · [48-080 · La recogida de Leo impide hacer un descanso corto](../capitulos/48.md) · 02:10:40.119 · [48-082 · Naór avanza saltando de roca en roca](../capitulos/48.md) · 02:12:44.000 · [48-084 · Tryel escupe el veneno y responde que está bien](../capitulos/48.md) · 02:14:48.032 · [48-085 · Tesara pide prudencia mientras se acaba el tiempo](../capitulos/48.md) · 02:15:30.280.
+
+### La cautela se rompe ante el tesoro
+
+Tesara intenta imponer una entrada cuidadosa en la cámara y se adelanta para buscar algo que explique al dragón. Encuentra objetos corroídos y algunas piezas conservadas, pero los vapores la dejan sorda. Guarda un collar sin enterarse al principio de que la serpiente ha apresado a Naór. Al girarse descubre la urgencia y abandona la búsqueda para ayudar.
+
+Fuentes: [48-088 · Tesara exige no pisar raíces ni huesos](../capitulos/48.md) · 02:17:20.160 · [48-090 · Los vapores dejan a Tesara sin oír](../capitulos/48.md) · 02:20:18.120 · [48-092 · Tesara busca pistas entre un botín corroído](../capitulos/48.md) · 02:22:53.280 · [48-097 · Tesara guarda un collar antes de advertir el combate](../capitulos/48.md) · 02:33:24.479.
+
+### Del rescate a la investigación del rastro
+
+Trata de dividir la atención de la serpiente junto a Tryel, resulta envenenada y después cruza una poza balanceándose del látigo. El disparo que hace colgada derriba al enemigo, aunque todavía necesita el remate de Naór. Al terminar investiga el esqueleto y la cámara sin hallar marcas o inscripciones. Confirma una magia tenue que se apaga por toda la sala, y recoge veneno de una poza al aceptar la idea de preparar futuras pociones contra el dragón. Sale debilitada con los demás.
+
+Fuentes: [48-105 · Tesara flanquea para intentar liberar a Naór](../capitulos/48.md) · 02:44:14.880 · [48-106 · Tesara y Tryel quedan envenenadas](../capitulos/48.md) · 02:47:38.359 · [48-111 · Tesara cruza una poza colgada del látigo](../capitulos/48.md) · 02:54:25.279 · [48-112 · El disparo derriba a la serpiente, pero resiste](../capitulos/48.md) · 02:56:49.040 · [48-113 · Naór remata a la serpiente y disimula el golpe](../capitulos/48.md) · 02:58:36.560 · [48-117 · Tesara no encuentra marcas en la serpiente derrotada](../capitulos/48.md) · 03:05:05.319 · [48-122 · La sala no contiene las inscripciones que buscan](../capitulos/48.md) · 03:10:26.080 · [48-123 · Tesara detecta el mismo rastro en toda la cámara](../capitulos/48.md) · 03:11:50.560 · [48-126 · Tesara recoge una segunda muestra de las pozas](../capitulos/48.md) · 03:19:49.239 · [48-128 · Los compañeros abandonan la cueva heridos](../capitulos/48.md) · 03:21:47.680.
 
 ## Registros y evidencias
 
@@ -657,4 +705,572 @@ Tipo: `declaracion_personaje`.
 Patata intenta cortejar a la encargada, que deriva la conversación hacia un recién llegado de torso desnudo, herida y chispas. Dice que estuvo con él el día anterior, promete presentárselo y finalmente lo nombra Zoltan. Lo describe mientras Patata sigue en la taberna; Tesara y el felino regresan de hablar con Walulu y Chopito continúa la imitación de Tortas en el cierre.
 
 No se representa una nueva aparición de Zoltan ni la presentación prometida. La expresión «ayer» pertenece al testimonio de Angelique; no sirve por sí sola para cerrar un calendario. Las comparaciones de mesa con otros personajes o campañas no incorporan sus identidades a Xoltacan.
+
+## [48-002 · Eldrath recuerda por qué teme por su hermana](../capitulos/48.md) · 00:01:14.080
+
+Tipo: `declaracion_personaje`.
+
+El jugador de Eldrath recuerda sus conversaciones personales con Tesara y explica que ella le contó la amenaza del dragón verde. La posibilidad de que invada la aldea con no muertos preocupa al elfo tanto por sí mismo como por su hermana.
+
+Repaso del jugador y temor del personaje; no hay invasión ejecutada ni ataque nuevo durante este recuerdo.
+
+## [48-003 · Tesara dedica su tiempo a los archivos de Walulu](../capitulos/48.md) · 00:02:31.000
+
+Tipo: `declaracion_personaje`.
+
+Tesara recuerda que, tras el encuentro con el dragón y después de informar a Eldrath, trató de organizar a la gente para prevenir el peligro. Ha pasado tiempo en el templo con Walulu leyendo libros, documentos y profecías de su biblioteca en busca de información sobre el dragón, los rituales y los no muertos.
+
+Se relata la actividad de investigación entre escenas; no se identifica individualmente cada documento ni se acredita un descubrimiento concreto hasta la explicación posterior del director.
+
+## [48-005 · Tesara llega cargada de libros a El Huevo Emplumado](../capitulos/48.md) · 00:05:53.080
+
+Tipo: `hecho_confirmado`.
+
+La escena vuelve a Iktan y sigue a Tesara cargada de libros, informes y pergaminos después de estudiar en el templo. Busca primero a los hermanos elfos en la taberna y entra torpemente con las manos ocupadas. Allí están Eldrath, Tryel y Coyote, que toma cerveza y mira a la encargada felina.
+
+Tesara estima que pudo pasar un día o día y medio estudiando, sin fijar una duración exacta. La identidad del establecimiento y de su encargada se conserva por la continuidad de Iktan; no es la Sirena Borracha de Shiaru.
+
+## [48-007 · Tesara pide adelantarse al golpe del dragón](../capitulos/48.md) · 00:09:05.760
+
+Tipo: `declaracion_personaje`.
+
+Tesara deja su documentación en la barra e interrumpe a los presentes. Tras un intercambio sobre los saludos y la bebida de primera hora, explica que ha revisado lo que Walulu conserva sobre el dragón verde y quiere encontrarlo para golpear antes de que él actúe.
+
+Es la valoración urgente de Tesara y una propuesta de actuación; no se ha preparado todavía una trampa ni se ha descubierto una debilidad.
+
+## [48-008 · Los archivos sitúan al dragón joven antes de la fundación de Iktan](../capitulos/48.md) · 00:11:20.959
+
+Tipo: `explicacion_director`.
+
+El director explica lo que Tesara ha podido averiguar en los archivos: el dragón verde llegó a la zona joven, incluso antes de que se fundara Iktan. Creció durante los años alimentándose de la jungla de Xoltacan y creando no muertos que le ayudaban a sobrevivir.
+
+Información histórica obtenida por Tesara, sin escena retrospectiva, fecha absoluta, edad exacta o mecanismo completo de creación de los no muertos. El nombre canónico enlaza con el dragón del que se habla, no con Zarynth.
+
+## [48-009 · El dragón dejó crecer los poblados como fuente de presas](../capitulos/48.md) · 00:12:02.399
+
+Tipo: `explicacion_director`.
+
+Según la explicación histórica del director, el dragón no se interesaba en atacar las pequeñas ciudades que iban construyéndose. Las dejaba crecer, y quien se perdía en la jungla podía convertirse en alimento para él.
+
+No se identifica a víctimas concretas ni se afirma que nunca hubiera atacado una población en toda su existencia; se describe el comportamiento recogido en la información consultada.
+
+## [48-010 · Un ataque dracónico anterior motivó el ritual protector](../capitulos/48.md) · 00:12:21.800
+
+Tipo: `explicacion_director`.
+
+El director relata que, unos cien o doscientos años antes según su estimación oral, un dragón destruyó parte de la ciudad. Sacerdotes y personas religiosas realizaron después un ritual para protegerla. Al explicar sus hallazgos a los compañeros, Tesara se refiere al ataque de otro dragón que destruyó media ciudad.
+
+El atacante histórico carece de nombre y color en este pasaje. La expresión posterior de Tesara «otro dragón» debe conservarse junto a la atribución y los ciento veinte años del relato de Walulu en 47-082; no se resuelve la tensión identificando o separando individuos por cuenta del editor.
+
+## [48-011 · Tesara conoce la función del rito, pero no comprende cómo se realiza](../capitulos/48.md) · 00:12:43.639
+
+Tipo: `explicacion_director`.
+
+La investigación permite a Tesara saber que el ritual protege Iktan de la entrada de grandes dragones, pero el director aclara que no tiene suficiente capacidad mágica para comprender todo su funcionamiento. Sobre los no muertos movidos por plantas no revela en ese momento un secreto adicional: sigue tratándolos como muertos que se mueven.
+
+No se entrega una fórmula reproducible ni ingredientes, duración, puntos de fallo o protección universal. La explicación no demuestra que el rito detenga a los no muertos; 47-083 había distinguido ambas amenazas.
+
+## [48-012 · Tesara transmite los hallazgos y habla de otro dragón al mando](../capitulos/48.md) · 00:13:20.760
+
+Tipo: `declaracion_personaje`.
+
+Tesara cuenta a Eldrath, Tryel y Coyote la historia recuperada. Le preocupa que el dragón haya pasado de tolerar a los poblados a amenazar uno entero y afirma que parece trabajar para otro dragón. Recuerda después el ataque histórico de otro dragón, el ritual y la protección que ofrece. Los documentos disponibles le han aportado sobre todo cuentos, leyendas e historias de comportamiento, sin una debilidad explotable.
+
+La identidad y naturaleza del empleador no se verifican. En 47-072 la criatura dijo que alguien pagaba por los elfos; esta afirmación de Tesara no demuestra por sí sola que ese alguien sea otro dragón. El atacante del pasado y el empleador actual tampoco quedan identificados entre sí.
+
+## [48-013 · El grupo dispone de seis días para responder al ultimátum](../capitulos/48.md) · 00:15:21.440
+
+Tipo: `declaracion_personaje`.
+
+Los compañeros quieren descubrir más sobre el dragón antes de intentar matarlo o tenderle una trampa. Tesara concreta que dio una semana para que se entregaran los elfos, que ha pasado un día y que quedan seis. Reprocha a Coyote no haberlo escuchado y recuerda que ya había informado a Eldrath.
+
+Es el plazo expresado por Tesara y el tiempo transcurrido que ella calcula. No se da una fecha de calendario ni se representa aún el cumplimiento o incumplimiento del ultimátum.
+
+## [48-015 · La falta de tiempo descarta buscar una gran biblioteca](../capitulos/48.md) · 00:17:43.559
+
+Tipo: `declaracion_personaje`.
+
+Los compañeros recuerdan que el dragón tiene varias guaridas. Eldrath prefiere investigar la que encontró su hermana porque localizar otras llevaría más de una semana. Tesara propone obtener información en una gran ciudad con una biblioteca competente, pero no saben dónde hallarla y temen exponerse a una emboscada durante la búsqueda. Deciden hacer los preparativos y partir hacia la cueva recordada.
+
+Las varias guaridas son un dato discutido por los personajes, coherente con el aviso de Walulu; no se localizan aquí varias a la vez. La existencia de una biblioteca adecuada permanece sin verificar.
+
+## [48-019 · Walulu insiste en los motivos para que Naór se calme](../capitulos/48.md) · 00:24:23.279
+
+Tipo: `declaracion_personaje`.
+
+En la clase se recuerda a Naór que una madre no debe dejar a su hijo varios días con una desconocida sin pagarle. Walulu considera necesario que se calme y menciona sus saltos por las palmeras y al goliat que llevaron con la cabeza muy herida y tuvieron que arrastrar. Naór admite que fue culpa suya, aunque no era su intención.
+
+Los reproches sobre los cuidados y las heridas son relato de los interlocutores, sin reconstruir el incidente del goliat ni nombrarlo aquí. El contexto apunta a los cuidados de Tesara, que los confirma después; no fija una remuneración ya acordada o pagada.
+
+## [48-022 · Tesara reclama a Naór por los tres días al cuidado de Leo](../capitulos/48.md) · 00:28:19.200
+
+Tipo: `hecho_confirmado`.
+
+Tesara saluda con sarcasmo a Naór como madre del año y pregunta por Leo. Naór dice que el niño está en el colegio y que hablará con él si se comporta mal. Tesara le reprocha sus malas palabras con ella, la camarera y otros vecinos y afirma que lo ha cuidado tres días. Naór le pone la mano en el hombro y aprieta hasta que le piden que afloje, mientras conserva un trato exageradamente amable.
+
+Los tres días son declaración expresa de Tesara. Sus preguntas sobre fugas, puñaladas o arrancar pelo son provocaciones, no nuevos incidentes escolares comprobados. La caída de palmeras narrada durante el intercambio no identifica expresamente a su causante.
+
+## [48-023 · Naór acepta la expedición, condicionada a recoger a Leo](../capitulos/48.md) · 00:30:50.640
+
+Tipo: `declaracion_personaje`.
+
+Tesara pide las manos fuertes de Naór para investigar una guarida del dragón en busca de pistas y acuerda reunirse con Eldrath a la entrada de Iktan. Naór pregunta por la hora de vuelta: tiene que estar de regreso a las cinco y media para recoger a Leo y avisa que se marchará si la salida se alarga. Tesara le asegura con ironía que volverán a las cinco. Llamar líder a Eldrath provoca a Tryel, que se va a buscarlo para disputarle el puesto.
+
+No hay una garantía real de regreso ni un mando formal aceptado. La hora de las cinco y media es el compromiso de Naór, sin que se represente todavía la recogida.
+
+## [48-026 · El tatuaje retrasa una hora a Eldrath](../capitulos/48.md) · 00:36:18.599
+
+Tipo: `hecho_confirmado`.
+
+Eldrath añade a sus preparativos un tatuaje y tarda mientras los compañeros esperan a la entrada de la ciudad. Tesara pregunta por él y Tryel explica que se está tatuando. Los presentes hablan de una hora de espera; Tryel muestra además su propio hombro tatuado, sin describir en palabras el dibujo.
+
+La duración es la queja de los personajes y el comentario de la mesa, sin cronómetro diegético. No se reconstruye el diseño visto en pantalla ni se equiparan el tatuaje de Tryel y el de Eldrath.
+
+## [48-027 · Coyote provoca a Tesara sobre una supuesta relación con Eldrath](../capitulos/48.md) · 00:37:41.480
+
+Tipo: `declaracion_personaje`.
+
+Coyote afirma haber visto muy juntos a Tesara y Eldrath y bromea con que se quedará sin novio. Tesara niega haberlo abrazado: recuerda que, cuando sintió pánico, fue el elfo quien le puso la mano encima. Defiende que puede elegir seguir soltera y devuelve la provocación a Coyote.
+
+Las bromas y lecturas de Coyote no confirman un noviazgo. Se conserva la explicación de Tesara sin sustituirla por la insinuación del compañero.
+
+## [48-029 · Las cartas del chat modifican el dinero de Eldrath y Tesara](../capitulos/48.md) · 00:41:15.760
+
+Tipo: `explicacion_director`.
+
+El director adjudica por cartas del chat una pérdida de veinte monedas a Eldrath, corregida a nueve después de repetir la tirada; le devuelve once para conciliar el ajuste. A Tesara le adjudica nueve monedas y después otras treinta y tres. Los participantes discuten las tiradas y la aplicación de las cartas antes de retomar el viaje.
+
+Ajustes de mesa: no se representa un ladrón, donante o mecanismo del mundo que cause esos cambios. No se mezclan con el precio de la armadura, el jade o una misión de tesoro.
+
+## [48-030 · Los cinco salen de Iktan con Tryel como guía](../capitulos/48.md) · 00:43:38.200
+
+Tipo: `hecho_confirmado`.
+
+Se reúnen Eldrath, Tryel, Tesara, Coyote y Naór. Eldrath lleva armadura nueva y medio tatuaje. Mientras discute con Tesara por la espera, Naór pregunta a Tryel si conoce la guarida, la sube encima de ella y sale de la ciudad. Los otros los siguen; Tryel va indicando el camino desde arriba.
+
+Son cinco viajeros; no se añade a Tortas, Ilikar o Leona a la expedición. Las palabras «guarida» pertenecen al destino esperado por el grupo y no identifican por sí solas la propiedad de la cueva que encontrarán.
+
+## [48-032 · Tesara y Eldrath rechazan las bromas sobre noviazgo y jefatura](../capitulos/48.md) · 00:46:22.160
+
+Tipo: `declaracion_personaje`.
+
+Las provocaciones de Coyote vuelven a presentar a Tesara como novia de Eldrath y al elfo como jefe. Ambos niegan el noviazgo; Eldrath añade que no es jefe, sino quien propuso una idea. Discute con Tesara sobre el valor de las aportaciones de los otros, y decide dejar el asunto para salir de la jungla cuanto antes.
+
+La escena no crea un cargo ni una relación amorosa. La discusión tampoco demuestra que los demás carezcan de capacidades o información.
+
+## [48-033 · Naór intenta seguir el olor del dragón sin lograr orientarse](../capitulos/48.md) · 00:47:50.800
+
+Tipo: `hecho_confirmado`.
+
+Mientras varios comen fruta, Naór intenta respirar y olfatear el rastro del olor que percibió antes junto al dragón. El director explica que las quejas de Tesara, las risas de Coyote, el enfado de Eldrath y los toques de Tryel la distraen y le devuelven la irritación. No consigue con ese intento dar con el camino.
+
+El recuerdo de sus rondas contra los no muertos es lo que declara la jugadora; no se representa otra patrulla completa. Fallar el rastreo no elimina permanentemente su olfato.
+
+## [48-034 · Naór asusta a Tesara y la coloca al frente para rastrear](../capitulos/48.md) · 00:49:24.000
+
+Tipo: `hecho_confirmado`.
+
+Tras pedir que alguien aporte una manera de seguir el rastro, Naór ruge con fuerza en la cara de Tesara. La resolución de la salvación establece que la historiadora queda aterrada por ella. Naór le pregunta si sabe explorar, la toma por los hombros y la pone delante para que busque. Tryel observa mientras comparte fruta de Coyote.
+
+El miedo procede del rugido de Naór, no de una aparición del dragón. La condición se adjudica en ese momento, sin fijar aquí una duración nueva.
+
+## [48-035 · Las frutas aportan efectos que se comentan durante la búsqueda](../capitulos/48.md) · 00:50:54.799
+
+Tipo: `explicacion_director`.
+
+Durante la pausa, un participante representa que una serpiente enroscada en su fruta lo muerde mientras come. La mesa también comenta que Naór puede respirar bajo el agua. Los efectos de fruta acompañan la exploración; más adelante Tesara identifica expresamente el suyo como la capacidad de producir fuego sin herramientas.
+
+No se fija el nombre del mordido por falta de identificación inequívoca de voz. El comentario sobre respirar bajo el agua se conserva como adjudicación de mesa y no se confunde con los besos sirénidos del viaje a Perlasal. La duración de estos efectos no se precisa.
+
+## [48-036 · Tesara encuentra marcas del dragón y pisadas desacompasadas](../capitulos/48.md) · 00:52:31.520
+
+Tipo: `hecho_confirmado`.
+
+Tesara busca huellas de no muertos y señales que recuerden el paso del dragón. Bajo la presión de Naór fracasa primero y después encuentra ramas rotas en los árboles por donde pasó el dragón, además de pisadas de humanoides y criaturas de cuatro patas que avanzan de forma irregular, como a trompicones. Los rastros se internan en la jungla.
+
+Las pisadas no identifican nombres, número exacto o cuerpos individuales. Las señales indican una dirección, no que el dragón esté presente ni que la cueva haya sido ya localizada en este instante.
+
+## [48-037 · Eldrath reconoce el terreno rocoso hacia el que apuntan los rastros](../capitulos/48.md) · 00:54:27.280
+
+Tipo: `hecho_confirmado`.
+
+Eldrath quiere estudiar la inclinación, las plantas y el suelo para inferir si hay una cueva cerca. El director resuelve la búsqueda con Naturaleza: ve aumentar la roca y disminuir los árboles en la dirección de Tesara. Ella comparte los rastros encontrados y él señala que las características del terreno parecen conducir hacia una cueva por aquel lado.
+
+Es una inferencia sobre el terreno corroborada después al encontrar la entrada, no un mapa, una coordenada o el hallazgo instantáneo de todas las guaridas.
+
+## [48-038 · Eldrath enlaza las mentes de cuatro compañeros durante seis horas](../capitulos/48.md) · 00:57:47.280
+
+Tipo: `hecho_confirmado`.
+
+Para comunicarse sin hablar si el dragón está cerca, Eldrath emplea Susurro psiónico y establece un enlace con Tryel, Tesara y Coyote. Declara una duración de seis horas y prueba la conexión hablándoles directamente en la cabeza. Excluye a Naór y bromea con que no quiere conocer lo que pasa por su mente.
+
+No se acredita lectura pasiva de pensamientos, una conexión con Naór o un poder del dragón. La duración se declara al activar la capacidad y no se extiende a otras sesiones.
+
+## [48-039 · El director precisa que Eldrath debe retransmitir los mensajes](../capitulos/48.md) · 00:59:18.640
+
+Tipo: `explicacion_director`.
+
+El director aclara que Tesara y Coyote escuchan a Eldrath, y que la comunicación no los conecta directamente entre sí. Eldrath acepta hacer de antena y retransmitir lo que los demás digan por el enlace para que puedan coordinarse.
+
+La frase automática «os podéis comunicar entre vosotros» aparece dentro de una corrección contradictoria; la explicación inmediata de que Eldrath retransmitirá impide presentarlo como una red de conversación libre entre todos.
+
+## [48-040 · Las huellas terminan ante una pared cubierta de raíces](../capitulos/48.md) · 00:59:51.480
+
+Tipo: `hecho_confirmado`.
+
+Siguiendo a Tesara, el grupo avanza por lugares que Tryel vuelve a reconocer y alcanza un montículo o pared rocosa cubierta de raíces. Las huellas llegan hasta esa vegetación, que oculta el acceso.
+
+El director corrige su primera palabra montaña y no fija altura, topónimo o coordenadas. Tryel reconoce el recorrido de la cueva que había recordado (40-030, 48-014); se conserva esa identificación atribuida a ella, sin confirmar la propiedad del dragón.
+
+## [48-042 · Tesara quema las raíces con el fuego recibido de una fruta](../capitulos/48.md) · 01:01:37.799
+
+Tipo: `hecho_confirmado`.
+
+Tesara pide sitio y aprovecha el efecto de una fruta que le permite crear fuego sin herramientas. Pone las manos sobre las raíces y las quema. La vegetación se agita violentamente, cae todavía en movimiento y en llamas y deja una cueva abierta ante el grupo; el hedor del interior aumenta.
+
+La facultad se atribuye expresamente a la fruta, no a Escupefuego ni a un aprendizaje permanente. El movimiento de las raíces es observable, sin nombrar a quien las controla o acreditar que el fuego afecte al dragón.
+
+## [48-045 · Cubrirse del hedor y proponer tropas de Atlan](../capitulos/48.md) · 01:04:06.720
+
+Tipo: `declaracion_personaje`.
+
+Antes de internarse, Tesara se cubre la boca con un pañuelo por el hedor. Se plantea enviar un emisario a Atlan para que venga un ejército y acabe con el dragón, mientras continúa la entrada en la cueva.
+
+No se identifica con certeza la voz que propone el emisario ni se representa que alguien lo envíe. No llegan tropas ni se activa una alianza militar por esta sugerencia.
+
+## [48-046 · La entrada obliga a resistir veneno y hiere a Tesara](../capitulos/48.md) · 01:04:25.599
+
+Tipo: `explicacion_director`.
+
+Los cinco entran en la cueva y el director pide salvaciones de Constitución. Tesara recibe cuatro puntos de daño de veneno. La adjudicación se vincula expresamente a una trampa introducida mediante una carta del chat.
+
+La herida de veneno se aplica en la escena; el chat es su origen de mesa, sin autor material, dispositivo concreto o intención de un personaje demostrados. No se atribuyen esos cuatro puntos a todos los viajeros.
+
+## [48-047 · La cueva huele a podredumbre y veneno y pierde la luz de la entrada](../capitulos/48.md) · 01:05:24.880
+
+Tipo: `hecho_confirmado`.
+
+El grupo avanza entre un olor pesado que mezcla podredumbre y veneno. La luz de la entrada queda atrás y se apaga. Los hermanos elfos y Naór pueden ver en la oscuridad, mientras Tesara y Coyote distinguen poco. Tesara se sorprende de no llevar antorchas a pesar de ser exploradora.
+
+La luz de la entrada se pierde durante el descenso; no implica ceguera permanente. Clolgedranx no aparece físicamente en este capítulo.
+
+## [48-048 · Antorchas para entrar en una cueva cubierta de raíces](../capitulos/48.md) · 01:06:36.559
+
+Tipo: `hecho_confirmado`.
+
+Los viajeros comprueban que llevan antorchas. Tesara mantiene pistola y antorcha en las manos, lo que impide utilizar al mismo tiempo el látigo. La cueva tiene raíces por suelo y paredes, incluso atravesando la roca, musgo y pequeños estanques de veneno. Se advierten unos a otros que eviten las charcas.
+
+La consulta de inventario y los botones de mochila son procedimiento de mesa. No se identifica un topónimo propio, no se determina el constructor de la cueva ni se confirma que cada elemento verde posea idénticas propiedades.
+
+## [48-052 · Tesara propone cruzar colgados de las raíces](../capitulos/48.md) · 01:13:20.000
+
+Tipo: `hecho_confirmado`.
+
+Tesara guarda la pistola y usa el látigo para descolgar raíces o enredaderas del techo. Propone pasar agarrándose a ellas por encima de las plantas. El director exige salvaciones de Constitución: el alcance del látigo deja a los viajeros a menos de diez pies de las cápsulas y la nube también alcanza esa altura.
+
+La maniobra no evita las salvaciones. No se da por establecido que todos fallen ni se deduce inmunidad por no pisar el suelo.
+
+## [48-054 · Una sala de huesos despierta las sospechas de Tesara](../capitulos/48.md) · 01:16:45.199
+
+Tipo: `hecho_confirmado`.
+
+La siguiente sala presenta un ambiente verdoso que se nota en la nariz, pozas de veneno, musgo y montones de huesos y cadáveres. Tesara pide no acercarse a los cuerpos que puedan levantarse y recuerda al grupo el peligro de los no muertos.
+
+El examen inicial no determina aún qué cadáveres son enemigos, sus identidades o cuánto tiempo llevan allí.
+
+## [48-055 · El poder atribuido al dragón sigue siendo un aviso del grupo](../capitulos/48.md) · 01:17:42.159
+
+Tipo: `declaracion_personaje`.
+
+En la discusión sobre buscar pistas entre los cuerpos, se advierte que el dragón puede resucitarlos. La afirmación sirve para insistir en que no se acerquen a los cadáveres.
+
+Es la explicación que los viajeros manejan. En este instante no se muestra al dragón animando los cuerpos ni se demuestra qué controla cada adversario de la cueva.
+
+## [48-056 · Naór patea una calavera antes de oír los primeros ruidos](../capitulos/48.md) · 01:18:44.239
+
+Tipo: `hecho_confirmado`.
+
+Naór lanza de una patada una calavera hacia el fondo de la caverna. Al principio no ocurre nada visible. Cuando siguen avanzando y distinguen otra sala al sur, oyen ruidos detrás; Tesara le recuerda que le había pedido no tocar cadáveres y ella responde que solo ha chutado una calavera.
+
+La secuencia temporal no prueba que la patada cause la animación ni identifica al responsable. No se convierte la calavera en un vestigio con poderes.
+
+## [48-057 · Un arquero no muerto ataca por la retaguardia](../capitulos/48.md) · 01:20:09.880
+
+Tipo: `hecho_confirmado`.
+
+Tesara se desplaza sin dejar de mirar hacia los ruidos y mantiene la mano en la pistola. Tryel sigue al grupo sin haberse enterado inicialmente. Algo se levanta detrás de ellos y dispara; una flecha transmite veneno. Tesara saca la pistola y grita que tengan cuidado con el suelo.
+
+El VTT no permite repartir con certeza la percepción entre todos los presentes ni identificar por nombre propio al arquero. Las referencias al móvil corresponden a la mesa.
+
+## [48-058 · Tesara dispara mientras Eldrath termina de podar](../capitulos/48.md) · 01:22:43.400
+
+Tipo: `hecho_confirmado`.
+
+Tesara apunta y dispara con desventaja por el veneno y la distancia. Un segundo esqueleto dispara desde más allá del alcance que se estaba comprobando. Mientras tanto, Eldrath rompe la última planta que tenía delante y se aproxima al combate.
+
+Se despeja ese paso de plantas, sin acreditar la eliminación de toda vegetación tóxica de la cueva. No se fija un número total de flechas o enemigos.
+
+## [48-061 · Las flechas y la vegetación prolongan el veneno](../capitulos/48.md) · 01:31:03.080
+
+Tipo: `hecho_confirmado`.
+
+Un esqueleto alcanza a Coyote con una flecha envenenada. Tesara sigue buscando una posición útil para disparar y se oculta detrás de una seta; el director exige otra salvación de Constitución y confirma que continúa envenenada.
+
+Las discusiones sobre el final del turno no fijan una duración universal del veneno. Las bromas de frustración no representan una muerte de Tesara.
+
+## [48-065 · Tryel derriba un esqueleto y Tesara vuelve a exponerse al gas](../capitulos/48.md) · 01:41:14.880
+
+Tipo: `hecho_confirmado`.
+
+Tryel se deshace de un esqueleto y se vuelve hacia el zombi. Coyote recibe otra flecha. Tesara intenta esconderse bajo otra planta y, aunque su aspecto le parecía menos peligroso, debe superar de nuevo una salvación; continúa envenenada.
+
+Los chistes sobre dispararse y dejar de sufrir no se ejecutan. Que una planta parezca una palmera no establece que sea inocua.
+
+## [48-067 · Tryel remata a otro rival y Tesara consigue disparar](../capitulos/48.md) · 01:49:21.719
+
+Tipo: `hecho_confirmado`.
+
+Tras el ataque de un zombi, se corrige el daño pendiente de Tryel y el director confirma que ha acabado con su adversario. Tesara sale del escondite, corre hasta obtener alcance y dispara. Se aclara que la carga de fuego ya se ha consumido y que la desventaja le impide añadir ataque furtivo.
+
+No se narran cargas nuevas recuperadas ni una vulnerabilidad al fuego de los enemigos. La corrección de daño no concede una baja adicional distinta del adversario que se estaba resolviendo.
+
+## [48-068 · Los ataques de Eldrath y Naór reducen los últimos enemigos](../capitulos/48.md) · 01:52:57.560
+
+Tipo: `hecho_confirmado`.
+
+Eldrath apunta al enemigo que combate con Coyote para terminar con él y lanza otro ataque hacia el que está cerca de Tryel, antes de ponerse junto a Tesara. Naór alcanza a dos rivales con el efecto de su furia, aunque uno resiste, y continúa intentando golpearlos. Un esqueleto que la tiene enfrente saca la espada y consigue herirla.
+
+La intención de terminar con un enemigo no sustituye una confirmación independiente de su muerte. Se conserva el progreso del combate sin inventar totales de bajas o puntos de vida.
+
+## [48-070 · El combate cede y los viajeros se reagrupan](../capitulos/48.md) · 01:57:46.440
+
+Tipo: `hecho_confirmado`.
+
+Después de otro turno de Tesara, deja de ver enemigos y el director dice que parece que han acabado con ellos. Una voz recuerda que falta uno, pero la escena pasa al reagrupamiento: Eldrath pregunta si todos están bien y vuelven las discusiones entre compañeros.
+
+Se respeta la discrepancia sobre un posible enemigo restante. No se declara limpia toda la cueva ni destruida la totalidad de la hueste del dragón. Las cartas de emboscada que comenta el director no son fuerzas del mundo.
+
+## [48-073 · Tesara atiende las heridas de Coyote antes de continuar](../capitulos/48.md) · 02:01:36.320
+
+Tipo: `hecho_confirmado`.
+
+Tesara pregunta a Coyote si necesita atención. Se lo describe herido y con flechas; ella se detiene para darle primeros auxilios, aunque le advierte que no se emocione. Después le pide que se levante porque los compañeros los están dejando atrás.
+
+La asistencia se narra sin un total final de puntos de vida ni una curación completa demostrada. La conversación sobre la hora anticipa la obligación de recoger a Leo.
+
+## [48-074 · Naór detecta un brillo mágico entre las rocas](../capitulos/48.md) · 02:02:51.000
+
+Tipo: `hecho_confirmado`.
+
+En una sala repleta de hongos y plantas de colores, Tesara grita que no se acerquen. Naór usa su detección de magia: las plantas no aparecen mágicas, pero distingue un brillo especial entre una roca. Se aclara que solo ella ve ese brillo; los demás ven la piedra.
+
+La detección no identifica escuela, contenido, fabricante u origen de la magia. No se presenta el brillo como una señal visible para todo el grupo ni como poder mágico de las plantas.
+
+## [48-079 · Eldrath reparte las antitoxinas a sus compañeros](../capitulos/48.md) · 02:09:34.400
+
+Tipo: `hecho_confirmado`.
+
+Eldrath vuelve con los demás y reparte las tres pociones, comparándolas con la que él tomó antes. Recomienda tomarlas en ese momento porque le están ayudando a resistir los venenos. Tesara y Coyote habían esperado sentados a que acabara la búsqueda.
+
+Se documenta el reparto sin una asignación nominal inequívoca de cada botella ni una confirmación individual de que todos las beban. Esperar sentados no equivale a un descanso corto reglado.
+
+## [48-080 · La recogida de Leo impide hacer un descanso corto](../capitulos/48.md) · 02:10:40.119
+
+Tipo: `explicacion_director`.
+
+Coyote intenta recuperar un recurso mientras espera, pero el director recuerda que requiere un descanso corto. Eso consumiría una hora. Se descarta porque la persona encargada de recoger al niño no llegaría a tiempo; el grupo opta por continuar.
+
+No se realiza el descanso, no se recuperan sus recursos y todavía no se representa la recogida de Leo. La conversación no formaliza una custodia ni acredita qué personaje acabará cumpliendo la obligación.
+
+## [48-082 · Naór avanza saltando de roca en roca](../capitulos/48.md) · 02:12:44.000
+
+Tipo: `hecho_confirmado`.
+
+Naór se lanza a saltar antes de que termine el aviso sobre el veneno. Supera las tiradas y pasa por tres piedras sucesivas. Tesara llega dando la vuelta mientras Eldrath llama a Tryel y Coyote para que se acerquen.
+
+Los saltos narrados no prueban que todos usen exactamente la misma ruta ni reconstruyen toda la geometría del puente.
+
+## [48-084 · Tryel escupe el veneno y responde que está bien](../capitulos/48.md) · 02:14:48.032
+
+Tipo: `hecho_confirmado`.
+
+Tras alcanzar la roca, preguntan a Tryel si está bien y le dan golpecitos para que escupa. Tose sobre quien la ayuda y responde que sí; se queja del agua y los compañeros le recuerdan que es veneno. La discusión vuelve al riesgo de tocar plantas durante la persecución de un esqueleto.
+
+La respuesta de Tryel no elimina automáticamente la condición de envenenada ni acredita recuperación completa. «Mirien/Mirien» se trata como una variante de transcripción en una interpelación a Tryel, sin crear otro personaje.
+
+## [48-085 · Tesara pide prudencia mientras se acaba el tiempo](../capitulos/48.md) · 02:15:30.280
+
+Tipo: `declaracion_personaje`.
+
+Tesara pide que se comporten como adultos y no toquen nada verde ni que huela mal. Anuncia que se irá en veinte minutos. Eldrath suspira y expresa sus dudas sobre que el grupo salga bien de allí.
+
+El límite es lo que anuncia Tesara; no se representa todavía su partida. El pesimismo de Eldrath no es un desenlace ni un augurio confirmado.
+
+## [48-087 · Un gran esqueleto junto al tesoro](../capitulos/48.md) · 02:16:46.000
+
+Tipo: `explicacion_director`.
+
+La cámara contiene montones de objetos apenas visibles en la oscuridad, entre ellos lo que parece un escudo, y un enorme esqueleto en el centro. Tesara examina el entorno de huesos y raíces antes de aproximarse al tesoro.
+
+El escudo se percibe con poca luz. La descripción inicial no identifica todavía la criatura por su nombre ni prueba poderes de los objetos.
+
+## [48-088 · Tesara exige no pisar raíces ni huesos](../capitulos/48.md) · 02:17:20.160
+
+Tipo: `declaracion_personaje`.
+
+Tesara pide avanzar despacio, sin tocar nada que no sea suelo: prohíbe pisar raíces, plantas y huesos o patear calaveras, y deja atrás a quien no pueda cumplirlo. Repite el aviso a Tryel y a los demás antes de acercarse a los objetos.
+
+Es una precaución propuesta por Tesara, no una regla que demuestre qué activa a los enemigos.
+
+## [48-090 · Los vapores dejan a Tesara sin oír](../capitulos/48.md) · 02:20:18.120
+
+Tipo: `explicacion_director`.
+
+Tesara se separa del grupo para registrar el tesoro. Las salidas de vapor de las charcas de veneno producen un sonido tan fuerte que el director la deja sorda durante un rato, mientras sus compañeros permanecen atrás y Coyote sigue ciego.
+
+La sordera se adjudica al ruido de las salidas de las charcas; no equivale a una lesión permanente.
+
+## [48-092 · Tesara busca pistas entre un botín corroído](../capitulos/48.md) · 02:22:53.280
+
+Tipo: `explicacion_director`.
+
+Tesara busca algo relacionado con el dragón que destaque sobre el oro. Remueve los objetos con el mango del látigo procurando hacer poco ruido. Encuentra que parte del tesoro está corroída y destrozada, aunque algunos objetos siguen sorprendentemente bien conservados.
+
+La intención de buscar una pista no demuestra que la encuentre, y la corrosión no recibe un análisis de causa.
+
+## [48-094 · La serpiente sorprende al grupo](../capitulos/48.md) · 02:27:50.560
+
+Tipo: `explicacion_director`.
+
+Mientras Tesara registra los objetos y los demás se distraen, el director pide iniciativa y declara al grupo sorprendido. Naór puede responder al entrar en furia; el resto pierde su primera oportunidad de actuar.
+
+Se conserva la adjudicación mecánica de sorpresa; no se identifica una trampa concreta ni el gesto exacto que inició el ataque.
+
+## [48-097 · Tesara guarda un collar antes de advertir el combate](../capitulos/48.md) · 02:33:24.479
+
+Tipo: `hecho_confirmado`.
+
+Todavía sorda, Tesara sigue buscando una pista en el tesoro y guarda un collar. Al terminar se incorpora y se vuelve para anunciar que solo encontró un par de baratijas; entonces descubre la escena del ataque. Al pasar su turno recupera la audición.
+
+La aparición del collar no acredita valor, poderes, inscripción o destino para Angelique; tampoco agota todo el tesoro disponible.
+
+## [48-099 · La primera oleada de veneno se resiste](../capitulos/48.md) · 02:37:23.160
+
+Tipo: `explicacion_director`.
+
+La serpiente usa una acción legendaria que obliga a quienes están en la sala a resistir veneno. El director permite ventaja a quienes habían bebido antitoxina. En la conversación se aclara que se repartieron tres dosis a los compañeros considerados más vulnerables y ninguna a Naór; las salvaciones de esa oleada se superan.
+
+La antitoxina concede una ventaja mecánica en esa tirada, sin demostrar inmunidad ni resistencia permanente. La distribución exacta debe cotejarse con el tramo anterior.
+
+## [48-105 · Tesara flanquea para intentar liberar a Naór](../capitulos/48.md) · 02:44:14.880
+
+Tipo: `declaracion_personaje`.
+
+Tesara considera prioritario rescatar a Naór. Activa sus recursos, corre hacia el lado opuesto al de Tryel y dispara a la serpiente para dividir su atención y conseguir que suelte a la leonina.
+
+El efecto de distraerla es el propósito declarado, sin una liberación confirmada en ese turno; las cartas de ayuda se mantienen como recursos de mesa.
+
+## [48-106 · Tesara y Tryel quedan envenenadas](../capitulos/48.md) · 02:47:38.359
+
+Tipo: `explicacion_director`.
+
+Una nueva oleada de veneno exige salvaciones de Constitución. Esta vez Tesara y Tryel quedan envenenadas y el director añade que no pueden recuperar puntos de vida mientras mantengan ese efecto.
+
+La prohibición de curación corresponde al efecto concreto adjudicado; no se formula como una regla universal de todo veneno.
+
+## [48-107 · Coyote recupera la vista y se acerca a ayudar](../capitulos/48.md) · 02:48:52.720
+
+Tipo: `hecho_confirmado`.
+
+Coyote se frota los ojos y recupera la vista. Al contemplar lo ocurrido se aproxima a Naór y le presta ayuda; también concede inspiración a Tesara antes de que vuelva a actuar la serpiente.
+
+La transcripción no permite fijar con suficiente claridad el nombre de toda la primera ayuda usada sobre Naór. La inspiración a Tesara se confirma cuando ella gasta después el dado.
+
+## [48-111 · Tesara cruza una poza colgada del látigo](../capitulos/48.md) · 02:54:25.279
+
+Tipo: `hecho_confirmado`.
+
+Tesara propone enganchar el látigo a una estalactita para saltar la poza y disparar desde detrás de la serpiente. Suelta la antorcha y usa la inspiración de Coyote para completar la maniobra. Consigue balancearse hasta el otro lado y saca la pistola mientras cuelga.
+
+El salto se resuelve con las tiradas que pide el director; no se identifica por nombre la pistola en este pasaje.
+
+## [48-112 · El disparo derriba a la serpiente, pero resiste](../capitulos/48.md) · 02:56:49.040
+
+Tipo: `explicacion_director`.
+
+El disparo de Tesara impacta a pesar de la desventaja y el director anuncia primero que cae la serpiente. Después aclara que sigue en pie con un punto de vida: ha resistido el golpe de forma semejante a los zombis, por lo que el combate aún no termina.
+
+El primer anuncio de caída se corrige explícitamente. No se atribuye a Tesara un remate definitivo ni se importa un rasgo de bestiario externo.
+
+## [48-113 · Naór remata a la serpiente y disimula el golpe](../capitulos/48.md) · 02:58:36.560
+
+Tipo: `hecho_confirmado`.
+
+Naór se levanta, ve que la serpiente todavía se mueve y la golpea cuando intenta incorporarse. Procura que el remate parezca accidental y felicita a Tesara como si ella hubiera acabado con la criatura.
+
+La felicitación de Naór es parte del disimulo: la secuencia representa a Naór completando la derrota después del disparo de Tesara.
+
+## [48-114 · Naór encadena ataques contra los esqueletos](../capitulos/48.md) · 02:59:42.479
+
+Tipo: `hecho_confirmado`.
+
+Tras el remate Naór arroja el hacha y encadena nuevos impactos críticos contra los esqueletos próximos. Acaba ayudando a Tesara a incorporarse y continúa atribuyéndole con humor el mérito de la victoria.
+
+El blanco de cada tirada no se nombra con suficiente claridad para dar identidades individuales a los esqueletos o contar bajas por separado.
+
+## [48-116 · Tryel paraliza y golpea a Eldrath](../capitulos/48.md) · 03:03:04.000
+
+Tipo: `hecho_confirmado`.
+
+Tryel ordena a Eldrath que se quede quieto y lo paraliza. Guarda las espadas, se acerca con los puños y le da una paliza de cachetes y puñetazos, expresamente sin matarlo. Después lo suelta y él cae sentado, dolorido y enfadado. Los demás observan la represalia.
+
+La amenaza de matarlo y los críticos se usan en broma; el director precisa que no lo mata. El intento de hablar mentalmente con Naór se corrige porque no estaban conectados.
+
+## [48-117 · Tesara no encuentra marcas en la serpiente derrotada](../capitulos/48.md) · 03:05:05.319
+
+Tipo: `explicacion_director`.
+
+Tesara investiga el esqueleto de la serpiente buscando marcas, residuos o una pista del método con que cree que el dragón la controla. Su examen arcano no revela nada extraño y tampoco encuentra una marca física; el director la describe simplemente como un esqueleto de serpiente. Tesara amplía después la búsqueda al resto de la sala.
+
+El control por el dragón es una intuición de Tesara. El resultado negativo de esa tirada no demuestra ausencia absoluta de magia ni un mecanismo de animación conocido.
+
+## [48-121 · Tryel y Coyote continúan buscando en el tesoro](../capitulos/48.md) · 03:09:04.600
+
+Tipo: `hecho_confirmado`.
+
+Eldrath se disculpa ante Tryel por haber rematado al enemigo, mientras ella sigue registrando el tesoro. Coyote se ofrece a ayudarla y excava entre los objetos. El hallazgo previo de un collar por Tesara no significaba que no quedase nada: el director aclara que solo describía su búsqueda de seis segundos.
+
+La mención a una copa está entrecortada y no fija material, valor, propiedades o una identificación con copas anteriores.
+
+## [48-122 · La sala no contiene las inscripciones que buscan](../capitulos/48.md) · 03:10:26.080
+
+Tipo: `explicacion_director`.
+
+Eldrath busca objetos o superficies con inscripciones dracónicas intentando explicar la señal que detectó Naór. Tesara recuerda que también está buscando grabados o un pasadizo. El director descarta esa vía: es una cueva y no hay inscripciones en ningún lado.
+
+La búsqueda de runas es una hipótesis, sin texto dracónico encontrado. No se generaliza el descarte de inscripciones a toda otra cueva de la campaña.
+
+## [48-123 · Tesara detecta el mismo rastro en toda la cámara](../capitulos/48.md) · 03:11:50.560
+
+Tipo: `explicacion_director`.
+
+Eldrath comunica a Tesara que Naór solo describió una presencia mágica tenue antes de salir corriendo. Coyote explica que no dispone de una habilidad que le sirva para rastrearla y la consulta a Mirien tampoco ofrece solución. Tesara realiza su propio examen arcano y percibe una magia tenue que desaparece por toda la sala, sin una dirección o foco localizado.
+
+La interpelación Mirien se mantiene dentro de la continuidad de Tryel, contrastada con los otros diálogos y la escena escrita de los hermanos. Coyote no carece de toda magia: declara no disponer de una habilidad útil para rastrear esta señal.
+
+## [48-126 · Tesara recoge una segunda muestra de las pozas](../capitulos/48.md) · 03:19:49.239
+
+Tipo: `hecho_confirmado`.
+
+Tesara pregunta por la utilidad del veneno. Eldrath explica que quiere disponer del propio veneno del dragón para preparar pociones con las que combatirlo. Ella considera buena la idea, vacía su propia cantimplora y recoge más, prefiriendo que sobre material al enfrentarse a un dragón.
+
+La atribución del líquido al dragón y su utilidad futura se expresan como explicación del personaje; no existe análisis, receta o ensayo de eficacia en este tramo.
+
+## [48-128 · Los compañeros abandonan la cueva heridos](../capitulos/48.md) · 03:21:47.680
+
+Tipo: `hecho_confirmado`.
+
+Después de recoger las muestras los compañeros acuerdan marcharse cuanto antes: reconocen que están debilitados y alguno se encuentra mal. Inician el camino de vuelta mientras la narración regresa a Iktan.
+
+Emprender el regreso no demuestra que todo el grupo haya llegado ya a la ciudad, descansado o neutralizado el veneno.
 

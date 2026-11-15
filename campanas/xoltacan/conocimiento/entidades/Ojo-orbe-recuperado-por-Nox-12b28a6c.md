@@ -12,7 +12,7 @@ Base para revisar equivalencia: [28-013](../capitulos/28.md), [28-019](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 47.
+Relato revisado hasta el capítulo 48.
 
 ### Un ojo arrancado durante la huida
 

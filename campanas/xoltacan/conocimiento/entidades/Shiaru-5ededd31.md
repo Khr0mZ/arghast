@@ -12,7 +12,7 @@ Base para revisar equivalencia: [01-001](../capitulos/01.md), [01-009](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 47.
+Relato revisado hasta el capítulo 48.
 
 ### El primer puerto y sus deudas
 
@@ -727,4 +727,12 @@ Tipo: `hecho_confirmado`.
 Patata reconoce en la taberna a los piratas que frecuentaban la de Shiaru. Al preguntar por la capitana, ellos responden que los echaron del pueblo y tuvieron que venir hasta allí. Le dan cerveza, que prueba y aprecia, y comentan que están agotando las existencias de la encargada.
 
 El motivo de la salida de Shiaru es testimonio de los piratas; no identifica quién gobierna ahora ni una nueva inspección del puerto. La descripción de estar en idéntica posición con las mismas botellas es humor de continuidad, no una duplicación o bucle mágico.
+
+## [48-006 · Eldrath sospecha de los clientes y Tryel mira a Molly](../capitulos/48.md) · 00:07:39.360
+
+Tipo: `hecho_confirmado`.
+
+Eldrath vigila de reojo a una mesa de clientes que le parecen piratas de Shiaru y llama la atención de Tryel sobre ellos. Su hermana está distraída, tocándose el pelo y mirando a Molly. Tryel la considera amigable y propone acercarse; Eldrath le advierte que parece juntarse con los hombres de aquella mesa.
+
+La procedencia, afiliación y participación de estos clientes en la ocupación de Shiaru son sospechas de Eldrath. La escena no identifica a la mesa con los ocupantes referidos por Patata ni convierte a Molly en miembro de esa facción.
 

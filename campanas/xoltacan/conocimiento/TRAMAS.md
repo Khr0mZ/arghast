@@ -1,5 +1,11 @@
 # Seguimiento de tramas entre capítulos
 
+## Investigación y materiales antes de la respuesta al dragón
+
+Tesara termina su investigación con historia y límites generales del ritual, sin una debilidad práctica. Los cinco viajeros siguen el recuerdo de Tryel, abren una cueva tras las raíces y superan plantas, pozas y muertos. La serpiente esquelética cae por el disparo de Tesara y el remate de Naór. Después perciben magia que se disipa y recogen muestras para futuras pociones; el plan no está ejecutado y el dragón permanece fuera de escena ([capítulo 48](capitulos/48.md)).
+
+Naór se marcha antes para cumplir su compromiso con Leo, pero el vídeo termina con el niño todavía esperando. El rol posterior sí muestra la recogida y las curas de Citlali. Las escenas escritas mantienen su posición temporal y sus fuentes propias; las muestras, los cuidados y las disputas no se convierten en un desenlace del ultimátum.
+
 ## Una semana para entregar a los hermanos
 
 La pérdida del hogar de Patata, la búsqueda de Tesara y el regreso de Tentacol y Chopito confluyen en las ruinas del lago. Mictlan los vigila y acaba luchando a su lado. Las raíces animan cadáveres y los reúnen en una masa; Patata la destruye, pero la presencia invisible sigue libre. Clolgedranx se muestra, reclama a los hermanos y amenaza a Oliver y a Iktan si no obtiene la entrega en una semana ([capítulo 47](capitulos/47.md)).

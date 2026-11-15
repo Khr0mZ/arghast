@@ -1234,6 +1234,32 @@
         "sha256_metadatos": "e5a8bd5d1e510e24e0de68fd9ed26f766b31841bb305be586f522dab0cf35b76",
         "publicacion_reportada_utc": "2026-11-10T10:00:26+00:00"
       }
+    },
+    "48": {
+      "video_id": "FYarBX28XfI",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2026-07-29",
+        "fuentes": [
+          "1532095200023937216"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "La tarjeta conservada identifica campaña, capítulo y título; no fija el comienzo exacto del rol.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2026-07-29"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2026-11-15",
+        "fecha_aviso": null,
+        "fuentes": [],
+        "origen_fecha": "metadatos_youtube",
+        "archivo_metadatos": "campanas/xoltacan/fuentes/48 - FYarBX28XfI.info.json",
+        "sha256_metadatos": "2cbf3c02ffb74c723e57ed133feac0f785b00e4d4d4353cc763409a846d4d70a",
+        "publicacion_reportada_utc": "2026-11-15T10:00:37+00:00"
+      }
     }
   }
 }

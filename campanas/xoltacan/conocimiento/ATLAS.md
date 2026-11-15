@@ -1,5 +1,11 @@
 # Lugares y regiones de Xoltacan
 
+## La cueva envenenada
+
+Tryel guía al grupo hacia el lugar donde recuerda haberse envenenado. Tras desorientarse, los rastros de Tesara y la lectura del terreno de Eldrath los llevan a una pared rocosa cubierta de raíces. Tesara quema el acceso con el efecto de una fruta. Dentro hay cápsulas tóxicas, charcas, puentes rotos, restos humanos y una cámara con tesoro y un gran esqueleto ([capítulo 48](capitulos/48.md)).
+
+El recorrido y el recuerdo de Tryel son avances sobre una posible guarida, sin mapa, coordenadas o aparición de Clolgedranx. El rastro mágico que se disipa se distingue del veneno. La cueva no se fusiona con las ruinas exteriores del lago o con otros refugios solo por compartir raíces y cadáveres. La atribución de Tesara del ataque antiguo a otro dragón se conserva separada del relato previo de Walulu.
+
 ## El lago y las defensas de Iktan
 
 Angelique dirige a Tesara a unos muros caídos junto al lago, fuera de la puerta norte y distintos del barrio antiguo. Las raíces y los cadáveres no fechan los restos ni identifican a sus constructores. Patata destruye la masa de cuerpos, sin eliminar al dragón ([capítulo 47](capitulos/47.md)).

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [44-051](../capitulos/44.md), [44-055](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 47.
+Relato revisado hasta el capítulo 48.
 
 ### El material debe llegar a la tienda
 

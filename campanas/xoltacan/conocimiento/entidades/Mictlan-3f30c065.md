@@ -12,7 +12,7 @@ Base para revisar equivalencia: [47-019](../capitulos/47.md), [47-020](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 47.
+Relato revisado hasta el capítulo 48.
 
 ### El vigilante se queda a combatir
 

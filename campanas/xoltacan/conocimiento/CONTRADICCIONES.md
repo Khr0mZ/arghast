@@ -360,3 +360,9 @@ Discrepancias, correcciones y cautelas editoriales fechadas por episodio. No tod
 - Cap. 46: El final privado de Zoltan y Angelique no incorpora la anécdota del personaje Gur de Kuroto a Xoltacan. La sugerencia de consultar a Walulu sigue pendiente cuando la sesión termina (46-061, 46-066). ([ficha](capitulos/46.md)).
 - Cap. 47: Tesa dice primero tres días con Leo y después tres/cuatro y cuatro: diferencia de expresión sin fecha exacta conciliada. ([ficha](capitulos/47.md)).
 - Cap. 47: La frase de resolución de expulsión dice todos menos uno atemorizados y después menciona de modo confuso un esqueleto que ha fallado: conservar resultado general sin fabricar un recuento de tiradas. ([ficha](capitulos/47.md)).
+- Cap. 48: La historia del ataque antiguo conserva la diferencia entre Walulu en el 47 y la atribución de Tesara a otro dragón en el 48. La estimación oral de cien o doscientos años no sustituye automáticamente los ciento veinte del testimonio anterior. ([ficha](capitulos/48.md)).
+- Cap. 48: El empleador dracónico es una interpretación de Tesara, sin nombre o naturaleza confirmados. ([ficha](capitulos/48.md)).
+- Cap. 48: La red psiónica de Eldrath excluye a Naór; la confusión posterior se corrige y no acredita lectura de mentes o comunicación libre de todos los receptores. ([ficha](capitulos/48.md)).
+- Cap. 48: El lanzamiento de Naór contra Coyote se repite y falla. La caída de la serpiente tras el disparo de Tesara se corrige: resiste a un punto y Naór la remata. ([ficha](capitulos/48.md)).
+- Cap. 48: El rastro mágico se distingue del veneno. La relación con el dragón se orienta mediante pistas del director, sin aparición física o identidad demostrada del creador de cada muerto. ([ficha](capitulos/48.md)).
+- Cap. 48: El epílogo no representa la recogida de Leo; esta queda documentada en la escena escrita posterior y no se adelanta al relato del vídeo. ([ficha](capitulos/48.md)).

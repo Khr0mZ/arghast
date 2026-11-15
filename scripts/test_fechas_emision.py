@@ -37,6 +37,12 @@ class EmissionDatesTests(unittest.TestCase):
         self.assertEqual(chapter['youtube']['fecha'], '2026-11-10')
         self.assertEqual(chapter['twitch']['fuentes'], ['1530274670023278874'])
 
+    def test_chapter_48_keeps_july_broadcast_separate_from_november_upload(self):
+        chapter = self.dates[48]
+        self.assertEqual(chapter['twitch']['fecha'], '2026-07-29')
+        self.assertEqual(chapter['youtube']['fecha'], '2026-11-15')
+        self.assertEqual(chapter['twitch']['fuentes'], ['1532095200023937216'])
+
     def test_late_youtube_notice_does_not_replace_publication(self):
         chapter = self.dates[1]
         self.assertEqual(chapter['youtube']['fecha'], '2026-04-07')

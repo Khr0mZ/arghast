@@ -12,7 +12,7 @@ Base para revisar equivalencia: [47-083](../capitulos/47.md), [47-084](../capitu
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 47.
+Relato revisado hasta el capítulo 48.
 
 ### Defensa frente a la hueste y noticias de guaridas
 

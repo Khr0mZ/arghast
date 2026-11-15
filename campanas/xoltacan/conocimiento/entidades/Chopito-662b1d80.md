@@ -12,7 +12,7 @@ Base para revisar equivalencia: [41-006](../capitulos/41.md), [41-010](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 47.
+Relato revisado hasta el capítulo 48.
 
 ### El pulpo al que se pide consejo
 

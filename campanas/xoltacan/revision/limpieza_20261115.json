@@ -1,0 +1,33 @@
+{
+  "aplicado": true,
+  "carpetas_retiradas": [
+    ".pruebas/rol_previa",
+    ".pruebas/cap42_rol",
+    ".pruebas/emisiones",
+    ".pruebas/rol-publicacion-20261102",
+    ".pruebas/rol-publicacion-20261103",
+    ".pruebas/capitulo43-publicacion-20261027",
+    ".pruebas/publicacion_rol",
+    ".pruebas/rol_interfaz",
+    ".pruebas/interfaz-pages",
+    ".pruebas/capitulo42-publicacion-20261025",
+    ".pruebas/capitulo44-publicacion-20261102",
+    ".pruebas/capitulo45-publicacion-20261103",
+    ".pruebas/guardado-online-publicacion-20261023",
+    ".pruebas/rol-publicado",
+    ".local/publicacion-guardado-20261023"
+  ],
+  "bytes_retirados": 2039738096,
+  "bytes_respaldo": 196199737,
+  "bytes_liberados_netos": 1843880742,
+  "copias_identicas_verificadas": 1569,
+  "archivos_unicos_archivados": 857,
+  "respaldo": ".local/limpieza/20261115-cap48/archivos-unicos.tar.gz",
+  "sha256_respaldo": "047bc91db7dc68ae334ac11e478ccf3746113fc99925cc016ffbd218df03f509",
+  "fecha": "2026-11-15",
+  "originales_conservados": 2670,
+  "bytes_cache_retirados": 342383,
+  "fuentes_y_rol_conservados": true,
+  "revision_git_conservada": "f1e0f969a5bc1982fea426b27d32675bf6837903",
+  "criterio": "Retirar pruebas antiguas y un worktree limpio cuya revisión está en el historial. Verificar duplicados contra las campañas y archivar los archivos únicos antes de borrar las copias. Conservar las fuentes y los respaldos editoriales."
+}

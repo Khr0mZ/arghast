@@ -1,5 +1,5 @@
 {
-  "revisado_hasta": 47,
+  "revisado_hasta": 48,
   "entidades": {
     "Atlan": [
       {
@@ -281,6 +281,20 @@
           "47-081",
           "47-090"
         ]
+      },
+      {
+        "titulo": "Punto de reunión antes de buscar al dragón",
+        "texto": "Tesara llega desde el templo cargada de libros y pergaminos y encuentra a Eldrath, Tryel y Coyote. El elfo vigila a una mesa de clientes que le recuerdan piratas de Shiaru, mientras Tryel presta atención a Molly y Coyote toma cerveza mirando a la encargada felina. La historiadora deja el material en la barra y reclama una respuesta urgente al dragón. Allí comparte la historia de los archivos y recuerda los seis días de plazo. La salida se organiza entre la propuesta de visitar una cueva y los preparativos; antes de marcharse, Coyote y Tryel rivalizan de palabra por el interés en Molly.",
+        "referencias": [
+          "48-005",
+          "48-006",
+          "48-007",
+          "48-012",
+          "48-013",
+          "48-014",
+          "48-015",
+          "48-017"
+        ]
       }
     ],
     "Forja del Águila de Sangre": [
@@ -521,6 +535,48 @@
           "47-083",
           "47-085",
           "47-086"
+        ]
+      },
+      {
+        "titulo": "Los archivos y la amenaza que obliga a salir",
+        "texto": "La biblioteca de Walulu permite a Tesara recuperar una historia anterior a la ciudad: el dragón verde llegó joven y toleró después las pequeñas poblaciones de la región. Un ataque dracónico antiguo condujo a sacerdotes y religiosos a realizar un ritual protector. Tesara sabe su función general, impedir entrar a grandes dragones, pero no comprende la ejecución del rito. La amenaza de no muertos y la exigencia de entregar a los hermanos siguen haciendo necesario actuar: según Tesara quedan seis días.",
+        "referencias": [
+          "48-003",
+          "48-005",
+          "48-008",
+          "48-009",
+          "48-010",
+          "48-011",
+          "48-012",
+          "48-013"
+        ]
+      },
+      {
+        "titulo": "Una mañana de cuidados, compras y partida",
+        "texto": "El Huevo Emplumado reúne a los viajeros mientras Tesara les transmite sus hallazgos. En el templo, Walulu acompaña a Naór a una clase de calma; Leo permanece según su madre en el colegio, y Tesara reclama por tres días a su cuidado. Eldrath vende un jade y compra equipo antes de retrasarse con un tatuaje. Naór lo saca de la tienda y los cinco terminan saliendo de la ciudad hacia la jungla, con el compromiso de ella de regresar por Leo.",
+        "referencias": [
+          "48-005",
+          "48-006",
+          "48-007",
+          "48-018",
+          "48-019",
+          "48-020",
+          "48-022",
+          "48-023",
+          "48-024",
+          "48-025",
+          "48-026",
+          "48-028",
+          "48-030"
+        ]
+      },
+      {
+        "titulo": "La ciudad espera a quienes vuelven de la cueva",
+        "texto": "Naór emprende el regreso antes que sus compañeros para recoger a Leo, mientras los otros viajeros terminan de tomar muestras y acuerdan salir de la cueva. La narración vuelve al colegio de Iktan, donde una mujer felina y el niño esperan impacientes. Naór todavía corre por la jungla al acabar la sesión; no se representa una llegada general, una nueva audiencia con Walulu o el desenlace del ultimátum.",
+        "referencias": [
+          "48-120",
+          "48-128",
+          "48-129"
         ]
       }
     ],
@@ -949,6 +1005,14 @@
           "47-005",
           "47-006"
         ]
+      },
+      {
+        "titulo": "Una espera a la salida",
+        "texto": "La sesión vuelve a su puerta después de la expedición de la cueva. Una mujer felina espera con libros y carpetas junto a Leo y se impacienta por la tardanza de Naór. La madre todavía corre por la jungla. No llegan a representarse la recogida, la conversación sobre el retraso o una reunión de madres.",
+        "referencias": [
+          "48-120",
+          "48-129"
+        ]
       }
     ],
     "Lago Tachan": [
@@ -1092,6 +1156,105 @@
           "47-057",
           "47-058",
           "47-060"
+        ]
+      }
+    ],
+    "Cueva envenenada explorada por el grupo": [
+      {
+        "titulo": "Las pistas conducen a una entrada oculta",
+        "texto": "Tryel ha recordado una cueva donde se envenenó y los compañeros salen a buscar información que les sirva contra el dragón. Después de dar vueltas, Tesara encuentra ramas rotas y pisadas desacompasadas que se internan en la jungla. Eldrath observa una dirección más rocosa y con menos árboles. Al seguir esas señales, alcanzan una pared cubierta de raíces hasta la que llegan las huellas. Tryel reconoce elementos del recorrido, pero no se obtiene un nombre propio del lugar.",
+        "referencias": [
+          "48-014",
+          "48-015",
+          "48-036",
+          "48-037",
+          "48-040"
+        ]
+      },
+      {
+        "titulo": "El fuego y el primer veneno",
+        "texto": "Eldrath aparta parte de las raíces con una daga y nota un aire de hedor intenso. Tesara usa el fuego recibido de una fruta para quemar la vegetación, que se retuerce violentamente y deja paso a la cueva. Los viajeros entran para buscar pistas; una salvación de Constitución desemboca en cuatro puntos de daño de veneno para Tesara, mediante una adjudicación del chat. Conforme avanzan, el olor mezcla podredumbre y veneno y la luz exterior desaparece. Los elfos y Naór ven en la oscuridad; Tesara y Coyote apenas distinguen el interior.",
+        "referencias": [
+          "48-041",
+          "48-042",
+          "48-043",
+          "48-044",
+          "48-045",
+          "48-046",
+          "48-047"
+        ]
+      },
+      {
+        "titulo": "Cápsulas que cierran el paso",
+        "texto": "Las raíces atraviesan suelo y paredes de roca, alrededor de charcas de veneno. Unas plantas con capullos expelen nubes tóxicas que alcanzan incluso a quienes intentan cruzar por encima. La capa de Eldrath ayuda en algunos acercamientos; el filo de su kusarigama permite cortar las cápsulas y abrir camino.",
+        "referencias": [
+          "48-048",
+          "48-049",
+          "48-050",
+          "48-051",
+          "48-052",
+          "48-053"
+        ]
+      },
+      {
+        "titulo": "La cámara de los muertos",
+        "texto": "Un ambiente verdoso rodea los montones de huesos y cadáveres. Tras los primeros ruidos se levantan arqueros esqueléticos y zombis, que rodean a los exploradores. El combate remite y Eldrath propone que sea la despensa del dragón, una interpretación que no identifica al dueño ni a las víctimas.",
+        "referencias": [
+          "48-054",
+          "48-056",
+          "48-057",
+          "48-060",
+          "48-070",
+          "48-072"
+        ]
+      },
+      {
+        "titulo": "Ayuda bajo la piedra y peligro en los puentes",
+        "texto": "En otra cámara, Naór detecta un brillo mágico bajo una roca, mientras las plantas no aparecen mágicas. El grupo recupera tres botellas identificadas como antitoxinas. Más adelante encuentran un enorme barrizal de veneno y puentes derrumbados; Tryel cae durante el cruce y Naór se sumerge para ayudarla. Al otro lado siguen las raíces, pozas y huesos.",
+        "referencias": [
+          "48-074",
+          "48-075",
+          "48-076",
+          "48-077",
+          "48-078",
+          "48-081",
+          "48-082",
+          "48-083",
+          "48-084",
+          "48-086"
+        ]
+      },
+      {
+        "titulo": "La sala de los huesos y el tesoro",
+        "texto": "Su cámara final conserva objetos en la oscuridad, un gran esqueleto y numerosos huesos. Tesara descubre que parte del botín está corroída. Los vapores y el veneno dificultan la exploración: la historiadora pierde temporalmente el oído y una serpiente esquelética sorprende al grupo. El despertar posterior de esqueletos menores transforma el registro en un combate prolongado.",
+        "referencias": [
+          "48-087",
+          "48-090",
+          "48-092",
+          "48-094",
+          "48-096",
+          "48-099",
+          "48-104",
+          "48-106"
+        ]
+      },
+      {
+        "titulo": "Lo que queda después de la lucha",
+        "texto": "La serpiente y los esqueletos son vencidos. El examen de las paredes no revela inscripciones, pero Naór y Tesara perciben una magia antigua que se apaga por toda la cámara. El director distingue ese rastro de las pozas y lo utiliza para orientar la deducción sobre la ausencia del dragón. Eldrath y Tesara recogen veneno mientras Coyote obtiene otra muestra de la serpiente; los viajeros salen debilitados sin descontaminar el lugar o documentar una ocupación posterior.",
+        "referencias": [
+          "48-112",
+          "48-113",
+          "48-114",
+          "48-115",
+          "48-117",
+          "48-119",
+          "48-122",
+          "48-123",
+          "48-124",
+          "48-125",
+          "48-126",
+          "48-127",
+          "48-128"
         ]
       }
     ]

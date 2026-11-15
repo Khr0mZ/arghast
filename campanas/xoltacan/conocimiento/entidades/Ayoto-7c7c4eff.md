@@ -12,7 +12,7 @@ Base para revisar equivalencia: [02-006](../capitulos/02.md), [02-021](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 47.
+Relato revisado hasta el capítulo 48.
 
 ### Un devoto del Sol entre dos mundos
 

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [39-020](../capitulos/39.md), [45-007](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 47.
+Relato revisado hasta el capítulo 48.
 
 ### Los intentos de Coyote
 
@@ -135,4 +135,20 @@ Tipo: `declaracion_personaje`.
 Patata intenta cortejar a la encargada, que deriva la conversación hacia un recién llegado de torso desnudo, herida y chispas. Dice que estuvo con él el día anterior, promete presentárselo y finalmente lo nombra Zoltan. Lo describe mientras Patata sigue en la taberna; Tesara y el felino regresan de hablar con Walulu y Chopito continúa la imitación de Tortas en el cierre.
 
 No se representa una nueva aparición de Zoltan ni la presentación prometida. La expresión «ayer» pertenece al testimonio de Angelique; no sirve por sí sola para cerrar un calendario. Las comparaciones de mesa con otros personajes o campañas no incorporan sus identidades a Xoltacan.
+
+## [48-005 · Tesara llega cargada de libros a El Huevo Emplumado](../capitulos/48.md) · 00:05:53.080
+
+Tipo: `hecho_confirmado`.
+
+La escena vuelve a Iktan y sigue a Tesara cargada de libros, informes y pergaminos después de estudiar en el templo. Busca primero a los hermanos elfos en la taberna y entra torpemente con las manos ocupadas. Allí están Eldrath, Tryel y Coyote, que toma cerveza y mira a la encargada felina.
+
+Tesara estima que pudo pasar un día o día y medio estudiando, sin fijar una duración exacta. La identidad del establecimiento y de su encargada se conserva por la continuidad de Iktan; no es la Sirena Borracha de Shiaru.
+
+## [48-022 · Tesara reclama a Naór por los tres días al cuidado de Leo](../capitulos/48.md) · 00:28:19.200
+
+Tipo: `hecho_confirmado`.
+
+Tesara saluda con sarcasmo a Naór como madre del año y pregunta por Leo. Naór dice que el niño está en el colegio y que hablará con él si se comporta mal. Tesara le reprocha sus malas palabras con ella, la camarera y otros vecinos y afirma que lo ha cuidado tres días. Naór le pone la mano en el hombro y aprieta hasta que le piden que afloje, mientras conserva un trato exageradamente amable.
+
+Los tres días son declaración expresa de Tesara. Sus preguntas sobre fugas, puñaladas o arrancar pelo son provocaciones, no nuevos incidentes escolares comprobados. La caída de palmeras narrada durante el intercambio no identifica expresamente a su causante.
 

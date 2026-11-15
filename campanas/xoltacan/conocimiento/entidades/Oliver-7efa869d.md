@@ -12,7 +12,7 @@ Base para revisar equivalencia: [47-074](../capitulos/47.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 47.
+Relato revisado hasta el capítulo 48.
 
 ### El nombre que la criatura conoce
 

@@ -8,11 +8,11 @@ Ictan e Iktan corresponden al topónimo normalizado en las fichas.
 
 Etiquetas agrupadas: Iktan; Iktan (identificación contextual provisional).
 
-Base para revisar equivalencia: [01-007](../capitulos/01.md), [31-023](../capitulos/31.md), [43-003](../capitulos/43.md), [43-004](../capitulos/43.md), [45-002](../capitulos/45.md), [45-003](../capitulos/45.md), [45-004](../capitulos/45.md), [45-008](../capitulos/45.md), [45-012](../capitulos/45.md), [45-015](../capitulos/45.md), [45-018](../capitulos/45.md), [45-019](../capitulos/45.md), [46-004](../capitulos/46.md), [46-009](../capitulos/46.md), [46-011](../capitulos/46.md), [46-012](../capitulos/46.md), [46-015](../capitulos/46.md), [46-052](../capitulos/46.md), [46-053](../capitulos/46.md), [46-054](../capitulos/46.md), [46-055](../capitulos/46.md), [46-061](../capitulos/46.md), [46-063](../capitulos/46.md), [46-065](../capitulos/46.md), [47-073](../capitulos/47.md), [47-077](../capitulos/47.md), [47-079](../capitulos/47.md), [47-080](../capitulos/47.md), [47-081](../capitulos/47.md), [47-082](../capitulos/47.md), [47-083](../capitulos/47.md), [47-085](../capitulos/47.md), [47-086](../capitulos/47.md).
+Base para revisar equivalencia: [01-007](../capitulos/01.md), [31-023](../capitulos/31.md), [43-003](../capitulos/43.md), [43-004](../capitulos/43.md), [45-002](../capitulos/45.md), [45-003](../capitulos/45.md), [45-004](../capitulos/45.md), [45-008](../capitulos/45.md), [45-012](../capitulos/45.md), [45-015](../capitulos/45.md), [45-018](../capitulos/45.md), [45-019](../capitulos/45.md), [46-004](../capitulos/46.md), [46-009](../capitulos/46.md), [46-011](../capitulos/46.md), [46-012](../capitulos/46.md), [46-015](../capitulos/46.md), [46-052](../capitulos/46.md), [46-053](../capitulos/46.md), [46-054](../capitulos/46.md), [46-055](../capitulos/46.md), [46-061](../capitulos/46.md), [46-063](../capitulos/46.md), [46-065](../capitulos/46.md), [47-073](../capitulos/47.md), [47-077](../capitulos/47.md), [47-079](../capitulos/47.md), [47-080](../capitulos/47.md), [47-081](../capitulos/47.md), [47-082](../capitulos/47.md), [47-083](../capitulos/47.md), [47-085](../capitulos/47.md), [47-086](../capitulos/47.md), [48-003](../capitulos/48.md), [48-005](../capitulos/48.md), [48-008](../capitulos/48.md), [48-009](../capitulos/48.md), [48-010](../capitulos/48.md), [48-011](../capitulos/48.md), [48-012](../capitulos/48.md), [48-013](../capitulos/48.md), [48-006](../capitulos/48.md), [48-007](../capitulos/48.md), [48-018](../capitulos/48.md), [48-019](../capitulos/48.md), [48-020](../capitulos/48.md), [48-022](../capitulos/48.md), [48-023](../capitulos/48.md), [48-024](../capitulos/48.md), [48-025](../capitulos/48.md), [48-026](../capitulos/48.md), [48-028](../capitulos/48.md), [48-030](../capitulos/48.md), [48-120](../capitulos/48.md), [48-128](../capitulos/48.md), [48-129](../capitulos/48.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 47.
+Relato revisado hasta el capítulo 48.
 
 ### La ciudad que no se deja encontrar fácilmente
 
@@ -79,6 +79,24 @@ Fuentes: [46-052 · Citlali reconoce el camino y el grupo llega a Iktan](../capi
 Tesara devuelve a los viajeros a la ciudad, entre la taberna, el lago y las ruinas. La amenaza de una hueste contra Iktan conduce a la audiencia con Walulu. La dirigente explica la protección dracónica nacida del ataque de hace ciento veinte años y confía en su guardia para contener a los muertos. Acoge a los elfos y empieza a buscar una estrategia mientras el plazo de una semana sigue abierto.
 
 Fuentes: [47-073 · El ultimátum da una semana y amenaza a la ciudad](../capitulos/47.md) · 01:51:33.280 · [47-077 · Tesara guía el regreso a Iktan](../capitulos/47.md) · 01:57:54.960 · [47-079 · Patata encuentra a los piratas en la taberna de Iktan](../capitulos/47.md) · 02:00:10.840 · [47-080 · Angelique informa de la salida de la elfa y del entrenamiento de su hermano](../capitulos/47.md) · 02:02:28.400 · [47-081 · Tesara y el felino llevan el aviso a Walulu](../capitulos/47.md) · 02:04:06.960 · [47-082 · Walulu remite a un antiguo ritual tras el ataque del dragón](../capitulos/47.md) · 02:07:40.440 · [47-083 · La protección dracónica no detiene por sí sola a la hueste](../capitulos/47.md) · 02:10:27.199 · [47-085 · Walulu acepta estudiar una estrategia contra el dragón](../capitulos/47.md) · 02:12:58.280 · [47-086 · El felino prefiere entregar a los elfos y Walulu los acoge](../capitulos/47.md) · 02:13:42.840.
+
+### Los archivos y la amenaza que obliga a salir
+
+La biblioteca de Walulu permite a Tesara recuperar una historia anterior a la ciudad: el dragón verde llegó joven y toleró después las pequeñas poblaciones de la región. Un ataque dracónico antiguo condujo a sacerdotes y religiosos a realizar un ritual protector. Tesara sabe su función general, impedir entrar a grandes dragones, pero no comprende la ejecución del rito. La amenaza de no muertos y la exigencia de entregar a los hermanos siguen haciendo necesario actuar: según Tesara quedan seis días.
+
+Fuentes: [48-003 · Tesara dedica su tiempo a los archivos de Walulu](../capitulos/48.md) · 00:02:31.000 · [48-005 · Tesara llega cargada de libros a El Huevo Emplumado](../capitulos/48.md) · 00:05:53.080 · [48-008 · Los archivos sitúan al dragón joven antes de la fundación de Iktan](../capitulos/48.md) · 00:11:20.959 · [48-009 · El dragón dejó crecer los poblados como fuente de presas](../capitulos/48.md) · 00:12:02.399 · [48-010 · Un ataque dracónico anterior motivó el ritual protector](../capitulos/48.md) · 00:12:21.800 · [48-011 · Tesara conoce la función del rito, pero no comprende cómo se realiza](../capitulos/48.md) · 00:12:43.639 · [48-012 · Tesara transmite los hallazgos y habla de otro dragón al mando](../capitulos/48.md) · 00:13:20.760 · [48-013 · El grupo dispone de seis días para responder al ultimátum](../capitulos/48.md) · 00:15:21.440.
+
+### Una mañana de cuidados, compras y partida
+
+El Huevo Emplumado reúne a los viajeros mientras Tesara les transmite sus hallazgos. En el templo, Walulu acompaña a Naór a una clase de calma; Leo permanece según su madre en el colegio, y Tesara reclama por tres días a su cuidado. Eldrath vende un jade y compra equipo antes de retrasarse con un tatuaje. Naór lo saca de la tienda y los cinco terminan saliendo de la ciudad hacia la jungla, con el compromiso de ella de regresar por Leo.
+
+Fuentes: [48-005 · Tesara llega cargada de libros a El Huevo Emplumado](../capitulos/48.md) · 00:05:53.080 · [48-006 · Eldrath sospecha de los clientes y Tryel mira a Molly](../capitulos/48.md) · 00:07:39.360 · [48-007 · Tesara pide adelantarse al golpe del dragón](../capitulos/48.md) · 00:09:05.760 · [48-018 · Naór recibe una clase de calma de una tortuga con gafas](../capitulos/48.md) · 00:22:40.159 · [48-019 · Walulu insiste en los motivos para que Naór se calme](../capitulos/48.md) · 00:24:23.279 · [48-020 · La tortuga enseña a respirar y Walulu paga la donación](../capitulos/48.md) · 00:25:44.640 · [48-022 · Tesara reclama a Naór por los tres días al cuidado de Leo](../capitulos/48.md) · 00:28:19.200 · [48-023 · Naór acepta la expedición, condicionada a recoger a Leo](../capitulos/48.md) · 00:30:50.640 · [48-024 · Eldrath vende un jade por cincuenta y cinco monedas](../capitulos/48.md) · 00:33:24.240 · [48-025 · Eldrath compra armadura y prepara antitoxinas](../capitulos/48.md) · 00:35:21.920 · [48-026 · El tatuaje retrasa una hora a Eldrath](../capitulos/48.md) · 00:36:18.599 · [48-028 · Naór intimida al tatuador y saca a Eldrath con el dibujo a medias](../capitulos/48.md) · 00:39:18.160 · [48-030 · Los cinco salen de Iktan con Tryel como guía](../capitulos/48.md) · 00:43:38.200.
+
+### La ciudad espera a quienes vuelven de la cueva
+
+Naór emprende el regreso antes que sus compañeros para recoger a Leo, mientras los otros viajeros terminan de tomar muestras y acuerdan salir de la cueva. La narración vuelve al colegio de Iktan, donde una mujer felina y el niño esperan impacientes. Naór todavía corre por la jungla al acabar la sesión; no se representa una llegada general, una nueva audiencia con Walulu o el desenlace del ultimátum.
+
+Fuentes: [48-120 · Naór deja la investigación para recoger a Leo](../capitulos/48.md) · 03:08:22.880 · [48-128 · Los compañeros abandonan la cueva heridos](../capitulos/48.md) · 03:21:47.680 · [48-129 · Leo espera y Naór sigue corriendo por la jungla](../capitulos/48.md) · 03:22:36.840.
 
 ## Registros y evidencias
 
@@ -801,4 +819,148 @@ Tipo: `declaracion_personaje`.
 Invitado a añadir algo, el felino insiste en que sería más fácil entregar a los elfos. Walulu afirma que son bienvenidos y estarán seguros mientras permanezcan en Iktan; sostiene que la guardia podrá hacer frente a las huestes de muertos. La objeción del felino sobre la seguridad del pueblo la deja pensativa.
 
 No se aprueba una entrega o sacrificio. La reacción pensativa de Walulu no revoca explícitamente su acogida ni confirma que vaya a cambiar de bando.
+
+## [48-002 · Eldrath recuerda por qué teme por su hermana](../capitulos/48.md) · 00:01:14.080
+
+Tipo: `declaracion_personaje`.
+
+El jugador de Eldrath recuerda sus conversaciones personales con Tesara y explica que ella le contó la amenaza del dragón verde. La posibilidad de que invada la aldea con no muertos preocupa al elfo tanto por sí mismo como por su hermana.
+
+Repaso del jugador y temor del personaje; no hay invasión ejecutada ni ataque nuevo durante este recuerdo.
+
+## [48-003 · Tesara dedica su tiempo a los archivos de Walulu](../capitulos/48.md) · 00:02:31.000
+
+Tipo: `declaracion_personaje`.
+
+Tesara recuerda que, tras el encuentro con el dragón y después de informar a Eldrath, trató de organizar a la gente para prevenir el peligro. Ha pasado tiempo en el templo con Walulu leyendo libros, documentos y profecías de su biblioteca en busca de información sobre el dragón, los rituales y los no muertos.
+
+Se relata la actividad de investigación entre escenas; no se identifica individualmente cada documento ni se acredita un descubrimiento concreto hasta la explicación posterior del director.
+
+## [48-005 · Tesara llega cargada de libros a El Huevo Emplumado](../capitulos/48.md) · 00:05:53.080
+
+Tipo: `hecho_confirmado`.
+
+La escena vuelve a Iktan y sigue a Tesara cargada de libros, informes y pergaminos después de estudiar en el templo. Busca primero a los hermanos elfos en la taberna y entra torpemente con las manos ocupadas. Allí están Eldrath, Tryel y Coyote, que toma cerveza y mira a la encargada felina.
+
+Tesara estima que pudo pasar un día o día y medio estudiando, sin fijar una duración exacta. La identidad del establecimiento y de su encargada se conserva por la continuidad de Iktan; no es la Sirena Borracha de Shiaru.
+
+## [48-008 · Los archivos sitúan al dragón joven antes de la fundación de Iktan](../capitulos/48.md) · 00:11:20.959
+
+Tipo: `explicacion_director`.
+
+El director explica lo que Tesara ha podido averiguar en los archivos: el dragón verde llegó a la zona joven, incluso antes de que se fundara Iktan. Creció durante los años alimentándose de la jungla de Xoltacan y creando no muertos que le ayudaban a sobrevivir.
+
+Información histórica obtenida por Tesara, sin escena retrospectiva, fecha absoluta, edad exacta o mecanismo completo de creación de los no muertos. El nombre canónico enlaza con el dragón del que se habla, no con Zarynth.
+
+## [48-009 · El dragón dejó crecer los poblados como fuente de presas](../capitulos/48.md) · 00:12:02.399
+
+Tipo: `explicacion_director`.
+
+Según la explicación histórica del director, el dragón no se interesaba en atacar las pequeñas ciudades que iban construyéndose. Las dejaba crecer, y quien se perdía en la jungla podía convertirse en alimento para él.
+
+No se identifica a víctimas concretas ni se afirma que nunca hubiera atacado una población en toda su existencia; se describe el comportamiento recogido en la información consultada.
+
+## [48-010 · Un ataque dracónico anterior motivó el ritual protector](../capitulos/48.md) · 00:12:21.800
+
+Tipo: `explicacion_director`.
+
+El director relata que, unos cien o doscientos años antes según su estimación oral, un dragón destruyó parte de la ciudad. Sacerdotes y personas religiosas realizaron después un ritual para protegerla. Al explicar sus hallazgos a los compañeros, Tesara se refiere al ataque de otro dragón que destruyó media ciudad.
+
+El atacante histórico carece de nombre y color en este pasaje. La expresión posterior de Tesara «otro dragón» debe conservarse junto a la atribución y los ciento veinte años del relato de Walulu en 47-082; no se resuelve la tensión identificando o separando individuos por cuenta del editor.
+
+## [48-011 · Tesara conoce la función del rito, pero no comprende cómo se realiza](../capitulos/48.md) · 00:12:43.639
+
+Tipo: `explicacion_director`.
+
+La investigación permite a Tesara saber que el ritual protege Iktan de la entrada de grandes dragones, pero el director aclara que no tiene suficiente capacidad mágica para comprender todo su funcionamiento. Sobre los no muertos movidos por plantas no revela en ese momento un secreto adicional: sigue tratándolos como muertos que se mueven.
+
+No se entrega una fórmula reproducible ni ingredientes, duración, puntos de fallo o protección universal. La explicación no demuestra que el rito detenga a los no muertos; 47-083 había distinguido ambas amenazas.
+
+## [48-012 · Tesara transmite los hallazgos y habla de otro dragón al mando](../capitulos/48.md) · 00:13:20.760
+
+Tipo: `declaracion_personaje`.
+
+Tesara cuenta a Eldrath, Tryel y Coyote la historia recuperada. Le preocupa que el dragón haya pasado de tolerar a los poblados a amenazar uno entero y afirma que parece trabajar para otro dragón. Recuerda después el ataque histórico de otro dragón, el ritual y la protección que ofrece. Los documentos disponibles le han aportado sobre todo cuentos, leyendas e historias de comportamiento, sin una debilidad explotable.
+
+La identidad y naturaleza del empleador no se verifican. En 47-072 la criatura dijo que alguien pagaba por los elfos; esta afirmación de Tesara no demuestra por sí sola que ese alguien sea otro dragón. El atacante del pasado y el empleador actual tampoco quedan identificados entre sí.
+
+## [48-013 · El grupo dispone de seis días para responder al ultimátum](../capitulos/48.md) · 00:15:21.440
+
+Tipo: `declaracion_personaje`.
+
+Los compañeros quieren descubrir más sobre el dragón antes de intentar matarlo o tenderle una trampa. Tesara concreta que dio una semana para que se entregaran los elfos, que ha pasado un día y que quedan seis. Reprocha a Coyote no haberlo escuchado y recuerda que ya había informado a Eldrath.
+
+Es el plazo expresado por Tesara y el tiempo transcurrido que ella calcula. No se da una fecha de calendario ni se representa aún el cumplimiento o incumplimiento del ultimátum.
+
+## [48-015 · La falta de tiempo descarta buscar una gran biblioteca](../capitulos/48.md) · 00:17:43.559
+
+Tipo: `declaracion_personaje`.
+
+Los compañeros recuerdan que el dragón tiene varias guaridas. Eldrath prefiere investigar la que encontró su hermana porque localizar otras llevaría más de una semana. Tesara propone obtener información en una gran ciudad con una biblioteca competente, pero no saben dónde hallarla y temen exponerse a una emboscada durante la búsqueda. Deciden hacer los preparativos y partir hacia la cueva recordada.
+
+Las varias guaridas son un dato discutido por los personajes, coherente con el aviso de Walulu; no se localizan aquí varias a la vez. La existencia de una biblioteca adecuada permanece sin verificar.
+
+## [48-016 · Coyote carece de dinero para las pociones](../capitulos/48.md) · 00:19:27.640
+
+Tipo: `declaracion_personaje`.
+
+Mientras se organizan las compras, Coyote calcula si puede pagar una poción y lamenta disponer de veinticinco monedas. Se propone acudir al alquimista, en lugar de pedir pociones a la encargada de la taberna.
+
+No se representa una compra de Coyote en este intercambio ni se identifica por nombre al alquimista; no se importa automáticamente a Froger a una escena donde no aparece nombrado.
+
+## [48-018 · Naór recibe una clase de calma de una tortuga con gafas](../capitulos/48.md) · 00:22:40.159
+
+Tipo: `hecho_confirmado`.
+
+El director sitúa a Naór en el templo junto a Walulu y una tortuga pequeña con gafas, sentada en una silla. La tortuga pregunta cómo se sintió al insultar a la señora Miaussy en el colegio y la reprende por hablar así a otras madres. Naór responde que estuvo mal y que debe comportarse como una madre.
+
+La introducción nombra a Naór y la continuidad de Leo identifica a la interlocutora aunque el ASR use después Leona. No se añade a Leona como participante. La tortuga no da nombre ni se identifica con Tortas. Se conserva Miaussy, grafía confirmada del catálogo, sin fusionar a Miausi, profesora registrada por separado.
+
+## [48-023 · Naór acepta la expedición, condicionada a recoger a Leo](../capitulos/48.md) · 00:30:50.640
+
+Tipo: `declaracion_personaje`.
+
+Tesara pide las manos fuertes de Naór para investigar una guarida del dragón en busca de pistas y acuerda reunirse con Eldrath a la entrada de Iktan. Naór pregunta por la hora de vuelta: tiene que estar de regreso a las cinco y media para recoger a Leo y avisa que se marchará si la salida se alarga. Tesara le asegura con ironía que volverán a las cinco. Llamar líder a Eldrath provoca a Tryel, que se va a buscarlo para disputarle el puesto.
+
+No hay una garantía real de regreso ni un mando formal aceptado. La hora de las cinco y media es el compromiso de Naór, sin que se represente todavía la recogida.
+
+## [48-024 · Eldrath vende un jade por cincuenta y cinco monedas](../capitulos/48.md) · 00:33:24.240
+
+Tipo: `hecho_confirmado`.
+
+Eldrath acude a armarse y a hacer negocios. Ofrece un jade al comerciante, que lo mira, lo huele y lo chupa antes de ofrecer cincuenta monedas. El elfo pide cincuenta y cinco y la venta se cierra por esa cantidad.
+
+El minotauro se identifica por la continuidad del negocio y el tatuaje posterior, no por un nombre propio confirmado. El jade no se enlaza con otras gemas o collares de la campaña.
+
+## [48-026 · El tatuaje retrasa una hora a Eldrath](../capitulos/48.md) · 00:36:18.599
+
+Tipo: `hecho_confirmado`.
+
+Eldrath añade a sus preparativos un tatuaje y tarda mientras los compañeros esperan a la entrada de la ciudad. Tesara pregunta por él y Tryel explica que se está tatuando. Los presentes hablan de una hora de espera; Tryel muestra además su propio hombro tatuado, sin describir en palabras el dibujo.
+
+La duración es la queja de los personajes y el comentario de la mesa, sin cronómetro diegético. No se reconstruye el diseño visto en pantalla ni se equiparan el tatuaje de Tryel y el de Eldrath.
+
+## [48-030 · Los cinco salen de Iktan con Tryel como guía](../capitulos/48.md) · 00:43:38.200
+
+Tipo: `hecho_confirmado`.
+
+Se reúnen Eldrath, Tryel, Tesara, Coyote y Naór. Eldrath lleva armadura nueva y medio tatuaje. Mientras discute con Tesara por la espera, Naór pregunta a Tryel si conoce la guarida, la sube encima de ella y sale de la ciudad. Los otros los siguen; Tryel va indicando el camino desde arriba.
+
+Son cinco viajeros; no se añade a Tortas, Ilikar o Leona a la expedición. Las palabras «guarida» pertenecen al destino esperado por el grupo y no identifican por sí solas la propiedad de la cueva que encontrarán.
+
+## [48-128 · Los compañeros abandonan la cueva heridos](../capitulos/48.md) · 03:21:47.680
+
+Tipo: `hecho_confirmado`.
+
+Después de recoger las muestras los compañeros acuerdan marcharse cuanto antes: reconocen que están debilitados y alguno se encuentra mal. Inician el camino de vuelta mientras la narración regresa a Iktan.
+
+Emprender el regreso no demuestra que todo el grupo haya llegado ya a la ciudad, descansado o neutralizado el veneno.
+
+## [48-129 · Leo espera y Naór sigue corriendo por la jungla](../capitulos/48.md) · 03:22:36.840
+
+Tipo: `explicacion_director`.
+
+En la puerta del colegio de Iktan una mujer felina espera impaciente con libros y carpetas, acompañada por Leo. Dice que su madre volverá a llegar tarde. Al mismo tiempo Naór corre a toda prisa por la jungla, apartando ramas de su cara e insistiendo en que ya llega. La sesión termina antes del encuentro.
+
+La mujer no recibe nombre en este epílogo; no se la identifica automáticamente con Miaussy o Miausi. No se representa la entrega del colmillo, la recogida de Leo o una reunión de madres.
 

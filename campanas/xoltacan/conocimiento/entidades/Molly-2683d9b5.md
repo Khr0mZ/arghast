@@ -8,11 +8,11 @@ Molly/Moli es la capitana de Marina. Distinta de la sirena Marina.
 
 Etiquetas agrupadas: Molly (capitana de Marina); Molly (capitana de la Marina); Molly / Moli (capitana de Marina, grafía provisional).
 
-Base para revisar equivalencia: [05-008](../capitulos/05.md), [05-009](../capitulos/05.md), [23-001](../capitulos/23.md), [42-006](../capitulos/42.md), [42-011](../capitulos/42.md), [43-005](../capitulos/43.md), [43-010](../capitulos/43.md), [43-014](../capitulos/43.md), [43-015](../capitulos/43.md), [43-016](../capitulos/43.md), [43-020](../capitulos/43.md), [43-023](../capitulos/43.md), [43-026](../capitulos/43.md), [43-028](../capitulos/43.md), [43-029](../capitulos/43.md), [43-035](../capitulos/43.md), [43-041](../capitulos/43.md), [43-048](../capitulos/43.md), [43-055](../capitulos/43.md), [43-058](../capitulos/43.md), [43-059](../capitulos/43.md).
+Base para revisar equivalencia: [05-008](../capitulos/05.md), [05-009](../capitulos/05.md), [23-001](../capitulos/23.md), [42-006](../capitulos/42.md), [42-011](../capitulos/42.md), [43-005](../capitulos/43.md), [43-010](../capitulos/43.md), [43-014](../capitulos/43.md), [43-015](../capitulos/43.md), [43-016](../capitulos/43.md), [43-020](../capitulos/43.md), [43-023](../capitulos/43.md), [43-026](../capitulos/43.md), [43-028](../capitulos/43.md), [43-029](../capitulos/43.md), [43-035](../capitulos/43.md), [43-041](../capitulos/43.md), [43-048](../capitulos/43.md), [43-055](../capitulos/43.md), [43-058](../capitulos/43.md), [43-059](../capitulos/43.md), [48-006](../capitulos/48.md), [48-017](../capitulos/48.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 47.
+Relato revisado hasta el capítulo 48.
 
 ### Una capitana con vínculos en ambos bandos
 
@@ -55,6 +55,12 @@ Fuentes: [43-023 · Erandy invoca al Sol y prende un batallón](../capitulos/43.
 Molly sigue luchando en el frente de la jungla y recorre los flancos con los piratas durante la retirada de los marines. Al terminar se acerca herida, ensangrentada y sin aliento. La expresión de Citlali, que llora a Nox como a un hijo, la deja inmóvil y hace que se le caiga el arma.
 
 Fuentes: [43-048 · El oso de Lunaria impacta con la energía de Eleanor](../capitulos/43.md) · 01:33:33.920 · [43-055 · La caída de los generales rompe la resistencia terrestre](../capitulos/43.md) · 01:51:11.920 · [43-058 · Los piratas celebran la victoria y Molly llega herida](../capitulos/43.md) · 01:55:31.560 · [43-059 · La caja musical acompaña el duelo de Citlali por Nox](../capitulos/43.md) · 01:57:06.040.
+
+### El interés de Tryel en la taberna
+
+Tryel mira a Molly mientras se toca el pelo y la considera una persona amigable con la que acercarse a hablar. Eldrath le advierte que parece juntarse con una mesa de hombres que él toma por piratas de Shiaru. Coyote también comenta su atractivo y provoca que la elfa reclame haberla visto primero. Molly no interviene ni se define una relación entre ella y ninguno de los dos.
+
+Fuentes: [48-006 · Eldrath sospecha de los clientes y Tryel mira a Molly](../capitulos/48.md) · 00:07:39.360 · [48-017 · Tryel reclama prioridad ante el interés de Coyote por Molly](../capitulos/48.md) · 00:20:23.320.
 
 ## Registros y evidencias
 
@@ -561,4 +567,20 @@ Tipo: `declaracion_personaje`.
 Citlali vuelve la mirada hacia la explosión con su rostro rejuvenecido lleno de lágrimas. Saca una caja musical de la falda y dice que Nox se ha ido. Mientras mueve la caja no puede dejar de llorar. Mira a Molly; el director explica que esta comprende la mirada de quien acaba de perder a su hijo. Molly abre los ojos, deja caer el arma y queda inmóvil.
 
 La escena presenta el duelo y la comprensión de Molly; no muestra el cuerpo de Nox ni explica el origen de la caja. Las réplicas sobre que Nox siempre vuelve no anulan ese duelo.
+
+## [48-006 · Eldrath sospecha de los clientes y Tryel mira a Molly](../capitulos/48.md) · 00:07:39.360
+
+Tipo: `hecho_confirmado`.
+
+Eldrath vigila de reojo a una mesa de clientes que le parecen piratas de Shiaru y llama la atención de Tryel sobre ellos. Su hermana está distraída, tocándose el pelo y mirando a Molly. Tryel la considera amigable y propone acercarse; Eldrath le advierte que parece juntarse con los hombres de aquella mesa.
+
+La procedencia, afiliación y participación de estos clientes en la ocupación de Shiaru son sospechas de Eldrath. La escena no identifica a la mesa con los ocupantes referidos por Patata ni convierte a Molly en miembro de esa facción.
+
+## [48-017 · Tryel reclama prioridad ante el interés de Coyote por Molly](../capitulos/48.md) · 00:20:23.320
+
+Tipo: `hecho_confirmado`.
+
+Coyote se acerca a Tryel y comenta el atractivo de Molly. Tryel se le planta delante, le dice que ella la vio primero e intenta intimidarlo. Coyote responde con bromas, y la elfa le gruñe antes de moverse.
+
+Es interés y rivalidad expresados por Tryel y Coyote. Molly no responde ni consiente una relación en esta escena.
 

@@ -1,0 +1,43 @@
+{
+  "fecha": "2026-11-15",
+  "resultado": "OK",
+  "capitulo_nuevo": {
+    "numero": 48,
+    "titulo": "Una Guarida Apestosa",
+    "segmentos": 4697,
+    "palabras": 25119,
+    "evidencias": 129,
+    "etapas": 23,
+    "preguntas_nuevas": 6
+  },
+  "totales": {
+    "capitulos": 48,
+    "evidencias": 1596,
+    "entidades": 218,
+    "preguntas": 301
+  },
+  "pruebas": {
+    "unitarias": 101,
+    "interfaz_en_navegador": 307,
+    "rol_escrito_en_navegador": 183,
+    "edicion_en_navegador": 35
+  },
+  "originales_anteriores_verificados": 2670,
+  "originales_alterados": [],
+  "originales_nuevos_verificados": 5,
+  "kuroto_identico": true,
+  "rol": {
+    "escenas": 325,
+    "unidades_leidas": 249,
+    "mensajes_en_escenas": 6723,
+    "mensajes_originales": 6725,
+    "adjuntos_en_escenas": 75,
+    "notas_de_voz": 17
+  },
+  "preguntas_anteriores_conservadas": 295,
+  "escenas_cotejadas": 10,
+  "mensajes_cotejados": 349,
+  "audio_cotejado": false,
+  "publicacion": "No realizada; requiere aprobacion expresa de esta version local.",
+  "sha256_capitulo": "3feab3fc0d12f99b42c0ab973fa0ff42e99f709bfc1574e1fe0488fe5ac86c57"
+}

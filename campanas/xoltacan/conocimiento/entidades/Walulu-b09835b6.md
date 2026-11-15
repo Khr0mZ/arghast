@@ -8,11 +8,11 @@ La misma chamana enmascarada y dirigente de Iktan, vinculada a Coyote; la sucesi
 
 Etiquetas agrupadas: Gualulu / Walulu (líder de Iktan, grafía provisional); Walulu / Waluro / Gualulo (chamana enmascarada, grafía provisional).
 
-Base para revisar equivalencia: [31-023](../capitulos/31.md), [31-024](../capitulos/31.md), [39-017](../capitulos/39.md), [39-018](../capitulos/39.md), [45-008](../capitulos/45.md), [45-009](../capitulos/45.md), [45-010](../capitulos/45.md), [47-081](../capitulos/47.md), [47-082](../capitulos/47.md), [47-083](../capitulos/47.md), [47-084](../capitulos/47.md), [47-085](../capitulos/47.md), [47-086](../capitulos/47.md), [47-087](../capitulos/47.md).
+Base para revisar equivalencia: [31-023](../capitulos/31.md), [31-024](../capitulos/31.md), [39-017](../capitulos/39.md), [39-018](../capitulos/39.md), [45-008](../capitulos/45.md), [45-009](../capitulos/45.md), [45-010](../capitulos/45.md), [47-081](../capitulos/47.md), [47-082](../capitulos/47.md), [47-083](../capitulos/47.md), [47-084](../capitulos/47.md), [47-085](../capitulos/47.md), [47-086](../capitulos/47.md), [47-087](../capitulos/47.md), [48-003](../capitulos/48.md), [48-005](../capitulos/48.md), [48-018](../capitulos/48.md), [48-019](../capitulos/48.md), [48-020](../capitulos/48.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 47.
+Relato revisado hasta el capítulo 48.
 
 ### La heredera que protege los caminos ocultos
 
@@ -55,6 +55,12 @@ Fuentes: [45-008 · Naór quiere viajar a Perlasal por la convocatoria de Tutuca
 Walulu recibe el aviso y muestra en un libro el antecedente del ritual protector realizado hace ciento veinte años tras el ataque del dragón. Sostiene que Iktan impide su entrada, pero reconoce que los muertos deben contenerse con la guardia. Se compromete a estudiar una estrategia y empieza a buscar pergaminos. Mantiene la acogida de los elfos frente a la propuesta del felino y pide hablar con Naór cuando vuelva.
 
 Fuentes: [47-081 · Tesara y el felino llevan el aviso a Walulu](../capitulos/47.md) · 02:04:06.960 · [47-082 · Walulu remite a un antiguo ritual tras el ataque del dragón](../capitulos/47.md) · 02:07:40.440 · [47-083 · La protección dracónica no detiene por sí sola a la hueste](../capitulos/47.md) · 02:10:27.199 · [47-084 · Walulu informa de varias guaridas dispersas](../capitulos/47.md) · 02:12:14.719 · [47-085 · Walulu acepta estudiar una estrategia contra el dragón](../capitulos/47.md) · 02:12:58.280 · [47-086 · El felino prefiere entregar a los elfos y Walulu los acoge](../capitulos/47.md) · 02:13:42.840 · [47-087 · Walulu quiere hablar con Naór y pide compañía para una reunión futura](../capitulos/47.md) · 02:14:38.559.
+
+### Libros y clases para dos urgencias
+
+Tesara ha pasado tiempo con Walulu consultando los libros, documentos y profecías de su biblioteca para comprender al dragón y la protección de Iktan. En el templo, Walulu acompaña a Naór durante una clase dirigida por una tortuga pequeña con gafas. Defiende que necesita calmarse y le recuerda las palmeras y el goliat llevado con graves heridas. Cuando la profesora de calma pide una donación, la dirigente entrega monedas y dice que irá pagando las clases.
+
+Fuentes: [48-003 · Tesara dedica su tiempo a los archivos de Walulu](../capitulos/48.md) · 00:02:31.000 · [48-005 · Tesara llega cargada de libros a El Huevo Emplumado](../capitulos/48.md) · 00:05:53.080 · [48-018 · Naór recibe una clase de calma de una tortuga con gafas](../capitulos/48.md) · 00:22:40.159 · [48-019 · Walulu insiste en los motivos para que Naór se calme](../capitulos/48.md) · 00:24:23.279 · [48-020 · La tortuga enseña a respirar y Walulu paga la donación](../capitulos/48.md) · 00:25:44.640.
 
 ## Registros y evidencias
 
@@ -385,4 +391,52 @@ Tipo: `declaracion_personaje`.
 Walulu pregunta si Naór ha vuelto y dice que necesita hablar con ella. Tesara responde que lleva días cuidando del niño que le dejó. Walulu plantea reunirlos cuando regrese y pide que los acompañen; Tesara acepta contar con ella.
 
 La reunión queda futura; no se muestra el regreso de Naór ni se declara aquí el destino o la lista completa de convocados. La identificación del niño con Leo procede de su continuidad como menor dejado por Naór, sin convertir la frase en filiación biológica. El numeral del cuidado se corta en «Llevo tr»: no se fija una cifra de días.
+
+## [48-003 · Tesara dedica su tiempo a los archivos de Walulu](../capitulos/48.md) · 00:02:31.000
+
+Tipo: `declaracion_personaje`.
+
+Tesara recuerda que, tras el encuentro con el dragón y después de informar a Eldrath, trató de organizar a la gente para prevenir el peligro. Ha pasado tiempo en el templo con Walulu leyendo libros, documentos y profecías de su biblioteca en busca de información sobre el dragón, los rituales y los no muertos.
+
+Se relata la actividad de investigación entre escenas; no se identifica individualmente cada documento ni se acredita un descubrimiento concreto hasta la explicación posterior del director.
+
+## [48-007 · Tesara pide adelantarse al golpe del dragón](../capitulos/48.md) · 00:09:05.760
+
+Tipo: `declaracion_personaje`.
+
+Tesara deja su documentación en la barra e interrumpe a los presentes. Tras un intercambio sobre los saludos y la bebida de primera hora, explica que ha revisado lo que Walulu conserva sobre el dragón verde y quiere encontrarlo para golpear antes de que él actúe.
+
+Es la valoración urgente de Tesara y una propuesta de actuación; no se ha preparado todavía una trampa ni se ha descubierto una debilidad.
+
+## [48-010 · Un ataque dracónico anterior motivó el ritual protector](../capitulos/48.md) · 00:12:21.800
+
+Tipo: `explicacion_director`.
+
+El director relata que, unos cien o doscientos años antes según su estimación oral, un dragón destruyó parte de la ciudad. Sacerdotes y personas religiosas realizaron después un ritual para protegerla. Al explicar sus hallazgos a los compañeros, Tesara se refiere al ataque de otro dragón que destruyó media ciudad.
+
+El atacante histórico carece de nombre y color en este pasaje. La expresión posterior de Tesara «otro dragón» debe conservarse junto a la atribución y los ciento veinte años del relato de Walulu en 47-082; no se resuelve la tensión identificando o separando individuos por cuenta del editor.
+
+## [48-018 · Naór recibe una clase de calma de una tortuga con gafas](../capitulos/48.md) · 00:22:40.159
+
+Tipo: `hecho_confirmado`.
+
+El director sitúa a Naór en el templo junto a Walulu y una tortuga pequeña con gafas, sentada en una silla. La tortuga pregunta cómo se sintió al insultar a la señora Miaussy en el colegio y la reprende por hablar así a otras madres. Naór responde que estuvo mal y que debe comportarse como una madre.
+
+La introducción nombra a Naór y la continuidad de Leo identifica a la interlocutora aunque el ASR use después Leona. No se añade a Leona como participante. La tortuga no da nombre ni se identifica con Tortas. Se conserva Miaussy, grafía confirmada del catálogo, sin fusionar a Miausi, profesora registrada por separado.
+
+## [48-019 · Walulu insiste en los motivos para que Naór se calme](../capitulos/48.md) · 00:24:23.279
+
+Tipo: `declaracion_personaje`.
+
+En la clase se recuerda a Naór que una madre no debe dejar a su hijo varios días con una desconocida sin pagarle. Walulu considera necesario que se calme y menciona sus saltos por las palmeras y al goliat que llevaron con la cabeza muy herida y tuvieron que arrastrar. Naór admite que fue culpa suya, aunque no era su intención.
+
+Los reproches sobre los cuidados y las heridas son relato de los interlocutores, sin reconstruir el incidente del goliat ni nombrarlo aquí. El contexto apunta a los cuidados de Tesara, que los confirma después; no fija una remuneración ya acordada o pagada.
+
+## [48-020 · La tortuga enseña a respirar y Walulu paga la donación](../capitulos/48.md) · 00:25:44.640
+
+Tipo: `hecho_confirmado`.
+
+La tortuga hace callar a Walulu y guía las últimas respiraciones de Naór: inspirar, espirar y repetir que no tiene rabia ni se enfada. La llama una leona sin uñas. Al concluir acerca un recipiente y pide una donación para seguir dando las clases; Walulu deposita monedas y dice que irá pagando. Naór agradece la sesión y sale.
+
+No se fija importe ni se acredita una curación definitiva, una pérdida física de uñas o un cambio mágico. La práctica respiratoria reaparece cuando Naór intenta dominar el enfado.
 

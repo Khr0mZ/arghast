@@ -12,7 +12,7 @@ Base para revisar equivalencia: [16-003](../capitulos/16.md), [17-006](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 47.
+Relato revisado hasta el capítulo 48.
 
 ### El reino del que parte la convocatoria
 
@@ -151,4 +151,12 @@ Tipo: `declaracion_personaje`.
 Ivet lamenta que las tribus de la superficie lleven años sin comunicarse con ellos. Recuerda una promesa del padre de Naór de mantener unidas a las tribus, pero sostiene que se han separado. Naór responde que Atlan quedó aislado con la responsabilidad del sur y que otros líderes evitan el contacto. Más adelante defiende que su pueblo sí ha ayudado y ha cumplido su promesa de proteger la frontera meridional.
 
 Son posiciones políticas de las interlocutoras; la discusión no reconstruye por sí sola todos los términos del pacto, las ayudas dadas o la responsabilidad de cada tribu.
+
+## [48-045 · Cubrirse del hedor y proponer tropas de Atlan](../capitulos/48.md) · 01:04:06.720
+
+Tipo: `declaracion_personaje`.
+
+Antes de internarse, Tesara se cubre la boca con un pañuelo por el hedor. Se plantea enviar un emisario a Atlan para que venga un ejército y acabe con el dragón, mientras continúa la entrada en la cueva.
+
+No se identifica con certeza la voz que propone el emisario ni se representa que alguien lo envíe. No llegan tropas ni se activa una alianza militar por esta sugerencia.
 

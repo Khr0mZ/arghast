@@ -12,7 +12,7 @@ Base para revisar equivalencia: [45-045](../capitulos/45.md), [45-047](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 47.
+Relato revisado hasta el capítulo 48.
 
 ### Atada sobre el islote
 

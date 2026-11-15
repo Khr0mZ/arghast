@@ -1,0 +1,326 @@
+{
+  "escena": "x-1532155716633231392",
+  "archivo_fuente": "campanas/xoltacan/conocimiento/rol_escrito/escenas/x-1532155716633231392.json",
+  "fuente_sha256": "9116651d68552dcc0f965d5146384e26446cd7ff94b4a72732eeac0982e9e420",
+  "lectura_completa": true,
+  "mensajes_leidos": 27,
+  "mids_leidos": [
+    "1532155716633231392",
+    "1532161067835457639",
+    "1532164256433442926",
+    "1532165594135269396",
+    "1532168093055320195",
+    "1532168948521373836",
+    "1532170345514008678",
+    "1532171359524884681",
+    "1532172386210680926",
+    "1532173541351358464",
+    "1532174266877874207",
+    "1532174657694732349",
+    "1532175229298806975",
+    "1532175861703245835",
+    "1532178149054353570",
+    "1532179147093184599",
+    "1532180160537952276",
+    "1532182218552643584",
+    "1532185769316454562",
+    "1532189815871639746",
+    "1532385399996154017",
+    "1532387253605630082",
+    "1532387632397684766",
+    "1532388399602860088",
+    "1532389835216781534",
+    "1532392019870351390",
+    "1532406231715549338"
+  ],
+  "cronologia": {
+    "inicio_escena_utc": "2026-07-29T22:39:48.922000+00:00",
+    "fin_escena_utc": "2026-07-30T15:15:16.372000+00:00",
+    "corte_estimado_capitulo_48_utc": "2026-07-29T21:58:44+00:00",
+    "procedencia_corte": "Dato de coordinación para este cotejo; estimación a partir del aviso y la duración de la sesión, sin atribuirle la precisión de una hora real de juego.",
+    "relacion": "posterior_al_corte_estimado_del_video_48",
+    "limite": "Las acciones escritas siguientes son de una escena posterior. Sus mensajes no se incorporan como sucesos representados dentro del vídeo del capítulo 48."
+  },
+  "hallazgos": [
+    {
+      "id": "ROL-B2-001",
+      "tipo": "accion_representada",
+      "afirmacion": "Naór regresa a Iktan herida y llega al colegio después de la salida de otros niños; Leo todavía la espera delante de la directora. Intenta justificar su retraso con una insinuación sobre la menstruación usando la sangre de sus heridas.",
+      "evidencias": [
+        {
+          "mid": "1532155716633231392",
+          "cita": "Sin detenerse, cruzó el patio a toda velocidad hasta plantarse frente a la directora, donde el pequeño seguía esperándola con los brazos cruzados."
+        }
+      ],
+      "limite": "El recurso de la sangre es un engaño que idea Naór. No confirma una menstruación, su hora exacta de llegada ni una identificación nominal de la directora distinta de la ya establecida."
+    },
+    {
+      "id": "ROL-B2-002",
+      "tipo": "accion_representada",
+      "afirmacion": "La recogida de Leo queda efectivamente representada: Naór se disculpa ante la directora, toma al niño en brazos y se lo lleva hasta Citlali. Después Leo va a jugar con Eztli.",
+      "evidencias": [
+        {
+          "mid": "1532164256433442926",
+          "cita": "Cogió a Leo en brazos, que ya parecía acostumbrado a las prisas de su madre, y caminó hasta donde estaba Citlali."
+        },
+        {
+          "mid": "1532164256433442926",
+          "cita": "Miró a Leo, que estaba tan tranquilo como siempre, y se iba a jugar con Eztli."
+        }
+      ],
+      "limite": "Este desenlace está en el rol escrito posterior, no en el vídeo. El niño pasa de esperar en el colegio a estar con su madre y jugar; no se formaliza una custodia por Eromov ni se hace una evaluación psicológica del menor."
+    },
+    {
+      "id": "ROL-B2-003",
+      "tipo": "testimonio_personaje",
+      "afirmacion": "Citlali explica que quiso llevarse a Leo pero no estaba autorizada. Afirma que esperó casi una hora porque Eztli no quería dejarlo solo, mientras Naór presenta su retraso como cinco minutos.",
+      "evidencias": [
+        {
+          "mid": "1532161067835457639",
+          "cita": "Yo iba a llevármelo pero me dijeron que no tengo autorización"
+        },
+        {
+          "mid": "1532165594135269396",
+          "cita": "Casi una hora, aquí me quedé hasta que llegaras, Eztli no quería dejar a Leo solo"
+        },
+        {
+          "mid": "1532164256433442926",
+          "cita": "porque llegues cinco minutos tarde al colegio."
+        }
+      ],
+      "limite": "Se conservan las dos duraciones como expresiones de las interlocutoras. No se reconstruye una hora escolar exacta a partir de los tiempos reales de publicación en Discord."
+    },
+    {
+      "id": "ROL-B2-004",
+      "tipo": "acuerdo_representado",
+      "afirmacion": "Naór propone que cada una pueda recoger al hijo de la otra cuando haga falta, y Citlali acepta. La leona pide que Citlali se lo comente a la directora.",
+      "evidencias": [
+        {
+          "mid": "1532168093055320195",
+          "cita": "si algún día no puedes recoger al poll... digo, a Eztli, lo recojo yo. Y si yo no puedo venir por Leo... ¿podrías recogerlo tú?"
+        },
+        {
+          "mid": "1532168948521373836",
+          "cita": "sin problema puedes recoger a Eztli y yo recogeré a Leo cuando lo necesites"
+        }
+      ],
+      "limite": "Hay un pacto de ayuda entre ambas; no se representa la actualización de las autorizaciones escolares, una aceptación de la directora o una nueva recogida futura ejecutada."
+    },
+    {
+      "id": "ROL-B2-005",
+      "tipo": "descripcion_representada_y_testimonio",
+      "afirmacion": "Naór sigue sangrando y presenta mordeduras, moratones en cintura y pecho y heridas que la narración vincula al veneno. Cuenta que entraron en una cueva a buscar pistas y no sabe si sus compañeros han regresado.",
+      "evidencias": [
+        {
+          "mid": "1532168093055320195",
+          "cita": "Un hilillo de sangre empezó a caer desde su costilla. Naór ni se dio cuenta."
+        },
+        {
+          "mid": "1532170345514008678",
+          "cita": "Las heridas estarían algo infectadas debido al veneno"
+        },
+        {
+          "mid": "1532170345514008678",
+          "cita": "Nos metimos en una cueva a buscar pistas . No se si habrán vuelto los demás o han muerto de camino... Tryel seguro que no  pero ese coyote ..."
+        }
+      ],
+      "limite": "Permite seguir las secuelas y el regreso de Naór tras la exploración. No se deduce qué enemigo concreto produjo cada lesión ni se convierte su conjetura sobre Coyote en una muerte o su confianza en Tryel en la llegada demostrada de todo el grupo."
+    },
+    {
+      "id": "ROL-B2-006",
+      "tipo": "accion_representada",
+      "afirmacion": "Citlali revisa a Naór, la sienta y sale a buscar al templo hierbas y retazos de tela. Regresa y limpia las heridas con alcohol de hierbas. Continúa atendiéndola mientras conversan y termina el tratamiento; Naór comprueba que el vendaje aguanta al mover brazos y cintura.",
+      "evidencias": [
+        {
+          "mid": "1532171359524884681",
+          "cita": "Salí corriendo lo más rápido posible hasta el templo y sacar varios frascos con hierbas varías"
+        },
+        {
+          "mid": "1532173541351358464",
+          "cita": "Mojé uno de los paños con un alcohol de hierbas para desinfectar y empecé a limpiarle las heridas"
+        },
+        {
+          "mid": "1532387253605630082",
+          "cita": "Negué con la cabeza a la vez de que terminaba de curar a Naór"
+        },
+        {
+          "mid": "1532387632397684766",
+          "cita": "Creo que el vendaje aguantará"
+        }
+      ],
+      "limite": "Se representa una cura física con hierbas, alcohol y vendas. No se narra drenaje vital, transferencia de heridas, rejuvenecimiento, gasto de magia o una curación realizada durante el vídeo."
+    },
+    {
+      "id": "ROL-B2-007",
+      "tipo": "expectativa_personaje",
+      "afirmacion": "Citlali espera que la cura haga desaparecer parte de la infección y cierre las heridas, y aconseja a Naór evitar movimientos bruscos. Naór agradece el auxilio y prueba el vendaje.",
+      "evidencias": [
+        {
+          "mid": "1532387253605630082",
+          "cita": "con esto se te va a pasar parte de la infección y se cerrarán las heridas, trata de no moverte tan brusco"
+        },
+        {
+          "mid": "1532387632397684766",
+          "cita": "hace un par de movimientos de brazos y de cintura"
+        }
+      ],
+      "limite": "El resultado total no se observa. Es una expectativa de mejoría parcial, sin eliminación instantánea del veneno, restauración completa de fuerzas, ausencia de infección o datos mecánicos de puntos de vida."
+    },
+    {
+      "id": "ROL-B2-008",
+      "tipo": "acciones_y_relaciones",
+      "afirmacion": "Leo y Eztli siguen jugando juntos mientras sus cuidadoras conversan. Naór reprende a Leo por subir al tejado; Citlali también le exige bajar. La colaboración de ambas abarca la atención de los niños y el cuidado de la leona.",
+      "evidencias": [
+        {
+          "mid": "1532172386210680926",
+          "cita": "Leo cariño no subáis que os vais hacer daño , mira ven que te traído un colmillo de serpiente gigante  para que juegues sin hacerte daño"
+        },
+        {
+          "mid": "1532175861703245835",
+          "cita": "LEO!! CON UNA CHINGADA, BAJATE DE UNA VEZ!!"
+        }
+      ],
+      "limite": "Se documentan la convivencia y las reprimendas de esta escena. El colmillo se presenta por las palabras de Naór, sin establecer aquí su procedencia exacta, y la conducta de Leo no acredita la provocación sexual que Coyote había formulado en la cueva."
+    },
+    {
+      "id": "ROL-B2-009",
+      "tipo": "testimonio_personaje",
+      "afirmacion": "Naór relata a Citlali que tuvo un hermano mayor fallecido a los dos años por una epidemia antes de que ella naciera. Recuerda haber visto llorar a su padre y que su madre le enseñó que hasta los más fuertes necesitan llorar. Después lo llama Draktar y explica que su hacha se forjó para él, el heredero esperado, de modo que ella carga también con esa responsabilidad.",
+      "evidencias": [
+        {
+          "mid": "1532178149054353570",
+          "cita": "Al cumplir los 2 años se lo llevó una epidemia que hubo Aztlan ."
+        },
+        {
+          "mid": "1532178149054353570",
+          "cita": "Pero mi madre me hizo ver que hasta los mas fuertes necesitan llorar ."
+        },
+        {
+          "mid": "1532180160537952276",
+          "cita": "Se llamaba Draktar . Esto se forjó para el .. para el futuro rey de Aztlán , asique cargo con la responsabilidad."
+        }
+      ],
+      "limite": "La biografía familiar y el origen del hacha son testimonio de Naór en el rol posterior. No se representa el pasado, no se fecha la epidemia y no se sustituye la grafía canónica Atlan por la variante Aztlan/Aztlán de esta cita."
+    },
+    {
+      "id": "ROL-B2-010",
+      "tipo": "testimonio_y_relacion",
+      "afirmacion": "Citlali reconoce que no está llevando bien un duelo. Cuenta que el fallecido era como un hijo aunque no biológico y que dio la vida para salvar a sus seres queridos, sin saber que ella lo había encontrado. Llora mientras sigue cuidando a Naór; ambas se consuelan al compartir la historia de sus pérdidas.",
+      "evidencias": [
+        {
+          "mid": "1532175861703245835",
+          "cita": "Perdí a alguien muy importante y aún no he llevado bien mi duelo"
+        },
+        {
+          "mid": "1532179147093184599",
+          "cita": "El era mi hijo, no de sangre tristemente pero lo sentí así"
+        },
+        {
+          "mid": "1532179147093184599",
+          "cita": "Dió su vida para salvar a las personas que quería"
+        }
+      ],
+      "limite": "El hijo no recibe nombre en estos 27 mensajes. No identificarlo automáticamente con Nox por los antecedentes o por compartir intérprete, ni ampliar las circunstancias de su muerte desde la semejanza. La escena acredita la relación afectiva declarada y el consuelo entre las interlocutoras."
+    },
+    {
+      "id": "ROL-B2-011",
+      "tipo": "accion_y_testimonio",
+      "afirmacion": "Citlali muestra una caja musical como recuerdo del hijo perdido y la hace sonar mientras llora. Declara que fue lo último que le dejó y recuerda sus problemas, apuestas de suerte y amenazas con un arma.",
+      "evidencias": [
+        {
+          "mid": "1532182218552643584",
+          "cita": "Saqué la cajita musical"
+        },
+        {
+          "mid": "1532189815871639746",
+          "cita": "Abrí la tapa y empecé a mover la palanca, haciendo que la cajita volviera a sonar y las lágrimas cayeran una vez más"
+        },
+        {
+          "mid": "1532189815871639746",
+          "cita": "Fue lo último que me dejó"
+        }
+      ],
+      "limite": "La suposición de Citlali de que el hijo la robó de una tienda no confirma un robo concreto ni su procedencia. El objeto y las anécdotas no proporcionan por sí solos un nombre inequívoco al fallecido o un poder sobrenatural de la melodía."
+    },
+    {
+      "id": "ROL-B2-012",
+      "tipo": "percepcion_y_pensamiento",
+      "afirmacion": "Al acabar las curas, Citlali propone tomar unos tragos mientras juegan los niños. Se toca la frente porque ha sentido ardor al tocar la caja musical y piensa que quizá sea una alergia. Naór acepta la propuesta.",
+      "evidencias": [
+        {
+          "mid": "1532388399602860088",
+          "cita": "sentía que algo me había ardido mientras tocaba la caja musical"
+        },
+        {
+          "mid": "1532388399602860088",
+          "cita": "Probablemente una alergia o algo... Ya lo veré después"
+        },
+        {
+          "mid": "1532389835216781534",
+          "cita": "eso esta hecho , con suerte ya habrán llegado los demás ."
+        }
+      ],
+      "limite": "El ardor es una percepción de Citlali y la alergia su explicación tentativa. No se confirma causalidad de la caja, una marca nueva, una maldición activada ni la consumición efectiva de las bebidas o el regreso de los compañeros."
+    },
+    {
+      "id": "ROL-B2-013",
+      "tipo": "testimonio_personaje",
+      "afirmacion": "Naór pregunta por un hombre musculoso de piel entre gris y azul, pelo blanco largo y aspecto atractivo. Citlali cree no haberlo visto y dice que casi no ha hablado con nadie salvo Walulu y Naór. Después acuerdan adelantarse mientras los niños juegan junto a una estatua de tortuga.",
+      "evidencias": [
+        {
+          "mid": "1532174266877874207",
+          "cita": "a un grandullón así musculoso con piel medio grisacea medio azulada , pelo larguito blanco así muy guapetón"
+        },
+        {
+          "mid": "1532174657694732349",
+          "cita": "Creo que no, casi no he hablado con nadie de aquí mas que con Walulu y contigo"
+        },
+        {
+          "mid": "1532392019870351390",
+          "cita": "Entonces vamos adelantándonos y que los niños sigan jugando a lado de esa estatua de tortuga"
+        }
+      ],
+      "limite": "La descripción es compatible con el Ilikar del contexto editorial, pero el nombre no se pronuncia en estos mensajes y no se localiza al hombre ni se muestra un reencuentro. La palabra estatua no acredita petrificación de Tortas ni autoriza a fusionar automáticamente ese elemento del lugar con el monje."
+    }
+  ],
+  "cotejo_con_video_48": {
+    "persona_que_espera_en_el_colegio": {
+      "rol_explicito": "directora",
+      "nombre_personal_pronunciado": false,
+      "mid": "1532155716633231392",
+      "cita": "hasta plantarse frente a la directora, donde el pequeño seguía esperándola con los brazos cruzados.",
+      "limite_identidad": "En los 27 mensajes no recibe los nombres Miausi o Miaussy. El rol explícito coincide con el cargo de Miaussy del catálogo, pero esta escena no aporta una presentación nominal que por sí sola cierre la correspondencia. Conservar la referencia como directora del colegio y cotejarla con los antecedentes ya leídos; no fusionar a Miausi, profesora del capítulo 46, con Miaussy, directora del 45, ni abrir una tercera identidad solo por la anonimidad de esta mención o de la profesora felina del epílogo del vídeo."
+    },
+    "recogida_leo": {
+      "resultado": "representada_en_rol_posterior",
+      "mid_decisivo": "1532164256433442926",
+      "explicacion": "La obligación que impide descansar durante la cueva tiene un desenlace posterior observable: Naór regresa, recoge a Leo en brazos y lo lleva hasta Citlali. No es solo una promesa futura."
+    },
+    "recuperacion_naor": {
+      "resultado": "regreso_vivo_y_curas_representadas_sin_recuperacion_total_probada",
+      "mids": [
+        "1532155716633231392",
+        "1532170345514008678",
+        "1532173541351358464",
+        "1532387253605630082",
+        "1532387632397684766"
+      ],
+      "explicacion": "Vuelve herida y con secuelas de veneno. Citlali limpia y venda, anticipando solo mejoría de parte de la infección. Naór puede probar el vendaje; no se adjudica sanación completa."
+    },
+    "relaciones": {
+      "resultado": "cooperacion_materna_y_consuelos_representados",
+      "explicacion": "El pacto de recogida recíproca, los cuidados físicos y la confidencia de los duelos desarrollan el vínculo entre Citlali y Naór. Leo y Eztli siguen acompañándose. La autorización escolar futura no se tramita en la escena."
+    },
+    "destino_resto_grupo": {
+      "resultado": "no_demostrado_por_esta_escena",
+      "explicacion": "Naór especula sobre si han regresado y confía en que Tryel haya sobrevivido. No se relata una muerte de Coyote ni una llegada efectiva de los demás a Iktan."
+    },
+    "alcance_integracion": "Usar como desenlace escrito posterior, con enlaces MID y procedencia separados. No modificar afirmaciones audiovisuales, trasladar la cura al capítulo 48 o dar por completados el combate contra el dragón y todas las misiones."
+  },
+  "integridad": {
+    "fuente_original_preservada": true,
+    "entrega_2_sin_modificar": true,
+    "config_sin_modificar": true,
+    "unico_archivo_escrito": "campanas/xoltacan/revision/borradores/48/cotejo_rol_posterior_b2.json"
+  }
+}

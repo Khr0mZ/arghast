@@ -1,5 +1,11 @@
 # Método de reconstrucción
 
+## Incorporación del capítulo 48
+
+Lectura íntegra de 4.697 segmentos en tres bloques sin solapamiento: 129 evidencias y 23 etapas. Se cotejan las 295 preguntas previas y se añaden seis. La [procedencia](../revision/fuente_xoltacan_48.json) conserva cinco hashes; el audio no está cotejado. La investigación histórica mantiene la diferencia entre el testimonio de Walulu y la atribución posterior de Tesara, sin imponer una identidad al atacante antiguo.
+
+El [cotejo escrito](../revision/borradores/48/cotejo_rol.json) reúne diez escenas y 349 mensajes: 226 leídos para esta incorporación y 123 con lectura previa verificada por hash. Nueve escenas conservan el intervalo 47–48; ninguna se divide. La recogida de Leo se documenta después del vídeo con sus mensajes propios. Véanse [la continuidad](continuidad_48.md) y [el reparto](../revision/borradores/48/reparto.json).
+
 ## Incorporación del capítulo 47
 
 «Cadáveres» se revisa mediante lectura íntegra de 3.084 segmentos en tres bloques sin solapamiento: 90 evidencias y 19 etapas. Se cotejan las 284 preguntas anteriores y se incorporan 11 nuevas. La [procedencia](../revision/fuente_xoltacan_47.json) conserva los cinco hashes de VTT, TXT y metadatos. No se ha cotejado el audio.

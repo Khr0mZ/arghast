@@ -53,3 +53,4 @@ Las fichas reúnen acontecimientos seleccionados y citados. La tabla distingue d
 | 45 | [El escondite de los Profundos](capitulos/45.md) | disponible | revisado | [texto](../derivados/45/lectura.md) |
 | 46 | [Camino perdido a Iktan](capitulos/46.md) | disponible | revisado | [texto](../derivados/46/lectura.md) |
 | 47 | [Cadáveres](capitulos/47.md) | disponible | revisado | [texto](../derivados/47/lectura.md) |
+| 48 | [Una Guarida Apestosa](capitulos/48.md) | disponible | revisado | [texto](../derivados/48/lectura.md) |

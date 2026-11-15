@@ -12,7 +12,7 @@ Base para revisar equivalencia: [16-003](../capitulos/16.md), [16-016](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 47.
+Relato revisado hasta el capítulo 48.
 
 ### El destino político de una convocatoria
 

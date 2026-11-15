@@ -12,7 +12,7 @@ Base para revisar equivalencia: [46-062](../capitulos/46.md), [46-063](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 47.
+Relato revisado hasta el capítulo 48.
 
 ### Veinticuatro monedas por el collar
 

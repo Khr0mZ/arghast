@@ -12,7 +12,7 @@ Base para revisar equivalencia: [42-008](../capitulos/42.md).
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 47.
+Relato revisado hasta el capítulo 48.
 
 ### Una custodia para el final de la batalla
 

@@ -8,11 +8,11 @@ Grafía confirmada por el usuario. La voz reconocida por Tesara y la explicació
 
 Etiquetas agrupadas: Clodidrax / Clotis (dragón del bosque, grafía provisional); Clodidrax; Clolgedranx; Clodidax; Dragón verde del bosque de Iktan; Serpiente del Bosque.
 
-Base para revisar equivalencia: [39-016](../capitulos/39.md), [47-002](../capitulos/47.md), [47-024](../capitulos/47.md), [47-038](../capitulos/47.md), [47-042](../capitulos/47.md), [47-048](../capitulos/47.md), [47-049](../capitulos/47.md), [47-050](../capitulos/47.md), [47-051](../capitulos/47.md), [47-052](../capitulos/47.md), [47-056](../capitulos/47.md), [47-058](../capitulos/47.md), [47-060](../capitulos/47.md), [47-064](../capitulos/47.md), [47-065](../capitulos/47.md), [47-067](../capitulos/47.md), [47-068](../capitulos/47.md), [47-069](../capitulos/47.md), [47-070](../capitulos/47.md), [47-071](../capitulos/47.md), [47-072](../capitulos/47.md), [47-073](../capitulos/47.md), [47-074](../capitulos/47.md), [47-075](../capitulos/47.md), [47-082](../capitulos/47.md), [47-083](../capitulos/47.md), [47-084](../capitulos/47.md), [31-015](../capitulos/31.md), [40-002](../capitulos/40.md), [40-030](../capitulos/40.md), [40-032](../capitulos/40.md).
+Base para revisar equivalencia: [39-016](../capitulos/39.md), [47-002](../capitulos/47.md), [47-024](../capitulos/47.md), [47-038](../capitulos/47.md), [47-042](../capitulos/47.md), [47-048](../capitulos/47.md), [47-049](../capitulos/47.md), [47-050](../capitulos/47.md), [47-051](../capitulos/47.md), [47-052](../capitulos/47.md), [47-056](../capitulos/47.md), [47-058](../capitulos/47.md), [47-060](../capitulos/47.md), [47-064](../capitulos/47.md), [47-065](../capitulos/47.md), [47-067](../capitulos/47.md), [47-068](../capitulos/47.md), [47-069](../capitulos/47.md), [47-070](../capitulos/47.md), [47-071](../capitulos/47.md), [47-072](../capitulos/47.md), [47-073](../capitulos/47.md), [47-074](../capitulos/47.md), [47-075](../capitulos/47.md), [47-082](../capitulos/47.md), [47-083](../capitulos/47.md), [47-084](../capitulos/47.md), [31-015](../capitulos/31.md), [40-002](../capitulos/40.md), [40-030](../capitulos/40.md), [40-032](../capitulos/40.md), [48-008](../capitulos/48.md), [48-009](../capitulos/48.md), [48-010](../capitulos/48.md), [48-011](../capitulos/48.md), [48-012](../capitulos/48.md), [48-013](../capitulos/48.md), [48-014](../capitulos/48.md), [48-015](../capitulos/48.md), [48-036](../capitulos/48.md), [48-040](../capitulos/48.md), [48-041](../capitulos/48.md), [48-042](../capitulos/48.md), [48-044](../capitulos/48.md), [48-092](../capitulos/48.md), [48-117](../capitulos/48.md), [48-119](../capitulos/48.md), [48-123](../capitulos/48.md), [48-124](../capitulos/48.md), [48-125](../capitulos/48.md), [48-126](../capitulos/48.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 47.
+Relato revisado hasta el capítulo 48.
 
 ### Un trato en el bosque
 
@@ -61,6 +61,24 @@ Fuentes: [47-050 · Tesara reconoce la voz de la intrusión anterior](../capitul
 La criatura invisible se acerca a Tesara, juega con su miedo y se muestra cuando todos quedan enredados en raíces. Exige a los hermanos elfos, amenaza con devorar al grupo y ofrece recompensas. Dice que alguien le pagará por ellos; nombra a Oliver y da una semana antes de enviar a su hueste contra la ciudad. Se retira otra vez invisible. Walulu lo relaciona con un ataque antiguo tras el que se protegió Iktan e informa de varias guaridas dispersas por la jungla.
 
 Fuentes: [47-064 · La presencia invisible susurra junto al oído de Tesara](../capitulos/47.md) · 01:35:15.560 · [47-065 · Tesara falla el latigazo y sale de la maleza](../capitulos/47.md) · 01:37:15.239 · [47-067 · Tesara defiende a los elfos y recuerda una emboscada anterior](../capitulos/47.md) · 01:42:01.679 · [47-068 · Las raíces inmovilizan al grupo](../capitulos/47.md) · 01:44:52.920 · [47-069 · El dragón se muestra y exige a los elfos](../capitulos/47.md) · 01:46:39.840 · [47-070 · La recompensa ofrecida alcanza los deseos de los viajeros](../capitulos/47.md) · 01:48:20.480 · [47-071 · Chopito rechaza que le ofrezcan Perlasal](../capitulos/47.md) · 01:49:04.280 · [47-072 · El dragón declara que alguien paga por los elfos](../capitulos/47.md) · 01:50:51.119 · [47-073 · El ultimátum da una semana y amenaza a la ciudad](../capitulos/47.md) · 01:51:33.280 · [47-074 · El dragón nombra a Oliver, hermano de Tesara](../capitulos/47.md) · 01:52:00.000 · [47-075 · La criatura se retira invisible y los viajeros deciden volver](../capitulos/47.md) · 01:53:03.400 · [47-082 · Walulu remite a un antiguo ritual tras el ataque del dragón](../capitulos/47.md) · 02:07:40.440 · [47-083 · La protección dracónica no detiene por sí sola a la hueste](../capitulos/47.md) · 02:10:27.199 · [47-084 · Walulu informa de varias guaridas dispersas](../capitulos/47.md) · 02:12:14.719.
+
+### Lo que cuentan los archivos de Iktan
+
+La investigación de Tesara lo sitúa joven en la región antes de que se fundara Iktan. Creció alimentándose en la jungla y creando no muertos para ayudarse a sobrevivir. No solía interesarse por las pequeñas ciudades: dejar que crecieran le daba posibles presas cuando alguien se perdía en el bosque. Tras un ataque dracónico antiguo, sacerdotes y otros religiosos levantaron un ritual que impide entrar a grandes dragones. El director estima cien o doscientos años; Tesara habla del ataque de otro dragón. La atribución difiere del relato de Walulu del capítulo anterior, que había hablado del ataque del dragón y de ciento veinte años; se conserva esa diferencia sin imponer identidad al atacante antiguo.
+
+Fuentes: [48-008 · Los archivos sitúan al dragón joven antes de la fundación de Iktan](../capitulos/48.md) · 00:11:20.959 · [48-009 · El dragón dejó crecer los poblados como fuente de presas](../capitulos/48.md) · 00:12:02.399 · [48-010 · Un ataque dracónico anterior motivó el ritual protector](../capitulos/48.md) · 00:12:21.800 · [48-011 · Tesara conoce la función del rito, pero no comprende cómo se realiza](../capitulos/48.md) · 00:12:43.639 · [48-012 · Tesara transmite los hallazgos y habla de otro dragón al mando](../capitulos/48.md) · 00:13:20.760.
+
+### Un plazo que empuja a buscar sus refugios
+
+Tesara informa al grupo de que queda un plazo de seis días antes de la respuesta exigida por el ultimátum. Sostiene que el dragón parece trabajar para otro dragón, sin una identidad verificada. Eldrath decide investigar la cueva recordada por Tryel, consciente de que se han mencionado varias guaridas y de que no dispone de tiempo para localizarlas todas. Las ramas rotas halladas por Tesara orientan la marcha hacia una cueva tapada de raíces y hedor, que el elfo considera uno de sus refugios. La criatura no se muestra durante la llegada y entrada; la propiedad sigue siendo una hipótesis de los viajeros.
+
+Fuentes: [48-013 · El grupo dispone de seis días para responder al ultimátum](../capitulos/48.md) · 00:15:21.440 · [48-014 · Tryel recuerda una gran cueva donde se envenenó](../capitulos/48.md) · 00:16:30.160 · [48-015 · La falta de tiempo descarta buscar una gran biblioteca](../capitulos/48.md) · 00:17:43.559 · [48-036 · Tesara encuentra marcas del dragón y pisadas desacompasadas](../capitulos/48.md) · 00:52:31.520 · [48-040 · Las huellas terminan ante una pared cubierta de raíces](../capitulos/48.md) · 00:59:51.480 · [48-041 · Eldrath aparta parte de las raíces y percibe el hedor del interior](../capitulos/48.md) · 01:00:42.799 · [48-042 · Tesara quema las raíces con el fuego recibido de una fruta](../capitulos/48.md) · 01:01:37.799 · [48-044 · La expedición busca información antes de enfrentarse al dragón](../capitulos/48.md) · 01:03:14.720.
+
+### Preparativos entre sospechas y una huella tenue
+
+Tesara busca en el tesoro y en el esqueleto una pista sobre el dragón, sin encontrar marcas que prueben su método de control. Naór y después Tesara detectan una magia antigua que desaparece en toda la cámara. El director orienta a la mesa relacionando el fenómeno con la magia que desprenden los dragones y la ausencia del ocupante, sin mostrar a Clolgedranx. Eldrath y Tesara deciden recoger veneno de las pozas para intentar elaborar futuras pociones contra él; no lo localizan, interrogan o derrotan, y la eficacia de esa preparación queda pendiente.
+
+Fuentes: [48-092 · Tesara busca pistas entre un botín corroído](../capitulos/48.md) · 02:22:53.280 · [48-117 · Tesara no encuentra marcas en la serpiente derrotada](../capitulos/48.md) · 03:05:05.319 · [48-119 · Naór percibe una magia antigua que se apaga](../capitulos/48.md) · 03:07:19.800 · [48-123 · Tesara detecta el mismo rastro en toda la cámara](../capitulos/48.md) · 03:11:50.560 · [48-124 · El director separa el rastro mágico de las pozas](../capitulos/48.md) · 03:14:10.600 · [48-125 · Eldrath llena su cantimplora de veneno](../capitulos/48.md) · 03:18:45.600 · [48-126 · Tesara recoge una segunda muestra de las pozas](../capitulos/48.md) · 03:19:49.239.
 
 ## Registros y evidencias
 
@@ -551,4 +569,196 @@ Tipo: `declaracion_personaje`.
 Tesara se ofrece a ocuparse del rastreo y pide a Walulu una manera de matar al dragón, una debilidad o una estrategia. Walulu promete estudiar los libros antiguos y acepta hablar con los elfos si los ve. Al final de la audiencia vuelve a los estantes y empieza a buscar pergaminos de antiguas historias.
 
 Se inicia una búsqueda documental, sin resultado, debilidad revelada o expedición de caza consumada. La invitación a avisar a los elfos no demuestra que Walulu llegue a encontrarlos.
+
+## [48-002 · Eldrath recuerda por qué teme por su hermana](../capitulos/48.md) · 00:01:14.080
+
+Tipo: `declaracion_personaje`.
+
+El jugador de Eldrath recuerda sus conversaciones personales con Tesara y explica que ella le contó la amenaza del dragón verde. La posibilidad de que invada la aldea con no muertos preocupa al elfo tanto por sí mismo como por su hermana.
+
+Repaso del jugador y temor del personaje; no hay invasión ejecutada ni ataque nuevo durante este recuerdo.
+
+## [48-003 · Tesara dedica su tiempo a los archivos de Walulu](../capitulos/48.md) · 00:02:31.000
+
+Tipo: `declaracion_personaje`.
+
+Tesara recuerda que, tras el encuentro con el dragón y después de informar a Eldrath, trató de organizar a la gente para prevenir el peligro. Ha pasado tiempo en el templo con Walulu leyendo libros, documentos y profecías de su biblioteca en busca de información sobre el dragón, los rituales y los no muertos.
+
+Se relata la actividad de investigación entre escenas; no se identifica individualmente cada documento ni se acredita un descubrimiento concreto hasta la explicación posterior del director.
+
+## [48-007 · Tesara pide adelantarse al golpe del dragón](../capitulos/48.md) · 00:09:05.760
+
+Tipo: `declaracion_personaje`.
+
+Tesara deja su documentación en la barra e interrumpe a los presentes. Tras un intercambio sobre los saludos y la bebida de primera hora, explica que ha revisado lo que Walulu conserva sobre el dragón verde y quiere encontrarlo para golpear antes de que él actúe.
+
+Es la valoración urgente de Tesara y una propuesta de actuación; no se ha preparado todavía una trampa ni se ha descubierto una debilidad.
+
+## [48-008 · Los archivos sitúan al dragón joven antes de la fundación de Iktan](../capitulos/48.md) · 00:11:20.959
+
+Tipo: `explicacion_director`.
+
+El director explica lo que Tesara ha podido averiguar en los archivos: el dragón verde llegó a la zona joven, incluso antes de que se fundara Iktan. Creció durante los años alimentándose de la jungla de Xoltacan y creando no muertos que le ayudaban a sobrevivir.
+
+Información histórica obtenida por Tesara, sin escena retrospectiva, fecha absoluta, edad exacta o mecanismo completo de creación de los no muertos. El nombre canónico enlaza con el dragón del que se habla, no con Zarynth.
+
+## [48-009 · El dragón dejó crecer los poblados como fuente de presas](../capitulos/48.md) · 00:12:02.399
+
+Tipo: `explicacion_director`.
+
+Según la explicación histórica del director, el dragón no se interesaba en atacar las pequeñas ciudades que iban construyéndose. Las dejaba crecer, y quien se perdía en la jungla podía convertirse en alimento para él.
+
+No se identifica a víctimas concretas ni se afirma que nunca hubiera atacado una población en toda su existencia; se describe el comportamiento recogido en la información consultada.
+
+## [48-010 · Un ataque dracónico anterior motivó el ritual protector](../capitulos/48.md) · 00:12:21.800
+
+Tipo: `explicacion_director`.
+
+El director relata que, unos cien o doscientos años antes según su estimación oral, un dragón destruyó parte de la ciudad. Sacerdotes y personas religiosas realizaron después un ritual para protegerla. Al explicar sus hallazgos a los compañeros, Tesara se refiere al ataque de otro dragón que destruyó media ciudad.
+
+El atacante histórico carece de nombre y color en este pasaje. La expresión posterior de Tesara «otro dragón» debe conservarse junto a la atribución y los ciento veinte años del relato de Walulu en 47-082; no se resuelve la tensión identificando o separando individuos por cuenta del editor.
+
+## [48-011 · Tesara conoce la función del rito, pero no comprende cómo se realiza](../capitulos/48.md) · 00:12:43.639
+
+Tipo: `explicacion_director`.
+
+La investigación permite a Tesara saber que el ritual protege Iktan de la entrada de grandes dragones, pero el director aclara que no tiene suficiente capacidad mágica para comprender todo su funcionamiento. Sobre los no muertos movidos por plantas no revela en ese momento un secreto adicional: sigue tratándolos como muertos que se mueven.
+
+No se entrega una fórmula reproducible ni ingredientes, duración, puntos de fallo o protección universal. La explicación no demuestra que el rito detenga a los no muertos; 47-083 había distinguido ambas amenazas.
+
+## [48-012 · Tesara transmite los hallazgos y habla de otro dragón al mando](../capitulos/48.md) · 00:13:20.760
+
+Tipo: `declaracion_personaje`.
+
+Tesara cuenta a Eldrath, Tryel y Coyote la historia recuperada. Le preocupa que el dragón haya pasado de tolerar a los poblados a amenazar uno entero y afirma que parece trabajar para otro dragón. Recuerda después el ataque histórico de otro dragón, el ritual y la protección que ofrece. Los documentos disponibles le han aportado sobre todo cuentos, leyendas e historias de comportamiento, sin una debilidad explotable.
+
+La identidad y naturaleza del empleador no se verifican. En 47-072 la criatura dijo que alguien pagaba por los elfos; esta afirmación de Tesara no demuestra por sí sola que ese alguien sea otro dragón. El atacante del pasado y el empleador actual tampoco quedan identificados entre sí.
+
+## [48-013 · El grupo dispone de seis días para responder al ultimátum](../capitulos/48.md) · 00:15:21.440
+
+Tipo: `declaracion_personaje`.
+
+Los compañeros quieren descubrir más sobre el dragón antes de intentar matarlo o tenderle una trampa. Tesara concreta que dio una semana para que se entregaran los elfos, que ha pasado un día y que quedan seis. Reprocha a Coyote no haberlo escuchado y recuerda que ya había informado a Eldrath.
+
+Es el plazo expresado por Tesara y el tiempo transcurrido que ella calcula. No se da una fecha de calendario ni se representa aún el cumplimiento o incumplimiento del ultimátum.
+
+## [48-014 · Tryel recuerda una gran cueva donde se envenenó](../capitulos/48.md) · 00:16:30.160
+
+Tipo: `declaracion_personaje`.
+
+Eldrath pregunta a Tryel por el lugar donde se envenenó. Ella recuerda una gran cueva en la jungla que parecía la gruta del dragón. Eldrath propone prepararse e investigarla en busca de información con la que diseñar un plan o una trampa, pues considera que un enfrentamiento inmediato los mataría.
+
+El recuerdo de Tryel enlaza con la cueva de la emboscada que ya relató en 40-030. Es una identificación aportada por ella, sin confirmar la propiedad del dragón; la visita sigue siendo un plan.
+
+## [48-015 · La falta de tiempo descarta buscar una gran biblioteca](../capitulos/48.md) · 00:17:43.559
+
+Tipo: `declaracion_personaje`.
+
+Los compañeros recuerdan que el dragón tiene varias guaridas. Eldrath prefiere investigar la que encontró su hermana porque localizar otras llevaría más de una semana. Tesara propone obtener información en una gran ciudad con una biblioteca competente, pero no saben dónde hallarla y temen exponerse a una emboscada durante la búsqueda. Deciden hacer los preparativos y partir hacia la cueva recordada.
+
+Las varias guaridas son un dato discutido por los personajes, coherente con el aviso de Walulu; no se localizan aquí varias a la vez. La existencia de una biblioteca adecuada permanece sin verificar.
+
+## [48-023 · Naór acepta la expedición, condicionada a recoger a Leo](../capitulos/48.md) · 00:30:50.640
+
+Tipo: `declaracion_personaje`.
+
+Tesara pide las manos fuertes de Naór para investigar una guarida del dragón en busca de pistas y acuerda reunirse con Eldrath a la entrada de Iktan. Naór pregunta por la hora de vuelta: tiene que estar de regreso a las cinco y media para recoger a Leo y avisa que se marchará si la salida se alarga. Tesara le asegura con ironía que volverán a las cinco. Llamar líder a Eldrath provoca a Tryel, que se va a buscarlo para disputarle el puesto.
+
+No hay una garantía real de regreso ni un mando formal aceptado. La hora de las cinco y media es el compromiso de Naór, sin que se represente todavía la recogida.
+
+## [48-033 · Naór intenta seguir el olor del dragón sin lograr orientarse](../capitulos/48.md) · 00:47:50.800
+
+Tipo: `hecho_confirmado`.
+
+Mientras varios comen fruta, Naór intenta respirar y olfatear el rastro del olor que percibió antes junto al dragón. El director explica que las quejas de Tesara, las risas de Coyote, el enfado de Eldrath y los toques de Tryel la distraen y le devuelven la irritación. No consigue con ese intento dar con el camino.
+
+El recuerdo de sus rondas contra los no muertos es lo que declara la jugadora; no se representa otra patrulla completa. Fallar el rastreo no elimina permanentemente su olfato.
+
+## [48-036 · Tesara encuentra marcas del dragón y pisadas desacompasadas](../capitulos/48.md) · 00:52:31.520
+
+Tipo: `hecho_confirmado`.
+
+Tesara busca huellas de no muertos y señales que recuerden el paso del dragón. Bajo la presión de Naór fracasa primero y después encuentra ramas rotas en los árboles por donde pasó el dragón, además de pisadas de humanoides y criaturas de cuatro patas que avanzan de forma irregular, como a trompicones. Los rastros se internan en la jungla.
+
+Las pisadas no identifican nombres, número exacto o cuerpos individuales. Las señales indican una dirección, no que el dragón esté presente ni que la cueva haya sido ya localizada en este instante.
+
+## [48-044 · La expedición busca información antes de enfrentarse al dragón](../capitulos/48.md) · 01:03:14.720
+
+Tipo: `declaracion_personaje`.
+
+Ante la pregunta de qué esperan encontrar, Eldrath explica que necesitan alguna pista que los lleve al dragón o revele un punto débil, porque actúan con poca información. Considera la cueva una de las guaridas del dragón verde y entra para comprobar qué hay.
+
+La propiedad del lugar es la hipótesis que guía al personaje, no una aparición o confirmación independiente del dragón. No se ha obtenido aún la pista que buscan.
+
+## [48-045 · Cubrirse del hedor y proponer tropas de Atlan](../capitulos/48.md) · 01:04:06.720
+
+Tipo: `declaracion_personaje`.
+
+Antes de internarse, Tesara se cubre la boca con un pañuelo por el hedor. Se plantea enviar un emisario a Atlan para que venga un ejército y acabe con el dragón, mientras continúa la entrada en la cueva.
+
+No se identifica con certeza la voz que propone el emisario ni se representa que alguien lo envíe. No llegan tropas ni se activa una alianza militar por esta sugerencia.
+
+## [48-055 · El poder atribuido al dragón sigue siendo un aviso del grupo](../capitulos/48.md) · 01:17:42.159
+
+Tipo: `declaracion_personaje`.
+
+En la discusión sobre buscar pistas entre los cuerpos, se advierte que el dragón puede resucitarlos. La afirmación sirve para insistir en que no se acerquen a los cadáveres.
+
+Es la explicación que los viajeros manejan. En este instante no se muestra al dragón animando los cuerpos ni se demuestra qué controla cada adversario de la cueva.
+
+## [48-072 · La supuesta despensa sigue siendo una interpretación](../capitulos/48.md) · 02:00:59.760
+
+Tipo: `declaracion_personaje`.
+
+Eldrath observa la acumulación de huesos, cadáveres, pozas venenosas y musgo y propone que esa parte de la cueva sea la despensa del dragón. Si todos pueden continuar, quiere seguir avanzando.
+
+La función de despensa es la hipótesis expresada por el personaje. No identifica a las víctimas ni confirma que el dragón viva o guarde su tesoro en esa sala.
+
+## [48-092 · Tesara busca pistas entre un botín corroído](../capitulos/48.md) · 02:22:53.280
+
+Tipo: `explicacion_director`.
+
+Tesara busca algo relacionado con el dragón que destaque sobre el oro. Remueve los objetos con el mango del látigo procurando hacer poco ruido. Encuentra que parte del tesoro está corroída y destrozada, aunque algunos objetos siguen sorprendentemente bien conservados.
+
+La intención de buscar una pista no demuestra que la encuentre, y la corrosión no recibe un análisis de causa.
+
+## [48-117 · Tesara no encuentra marcas en la serpiente derrotada](../capitulos/48.md) · 03:05:05.319
+
+Tipo: `explicacion_director`.
+
+Tesara investiga el esqueleto de la serpiente buscando marcas, residuos o una pista del método con que cree que el dragón la controla. Su examen arcano no revela nada extraño y tampoco encuentra una marca física; el director la describe simplemente como un esqueleto de serpiente. Tesara amplía después la búsqueda al resto de la sala.
+
+El control por el dragón es una intuición de Tesara. El resultado negativo de esa tirada no demuestra ausencia absoluta de magia ni un mecanismo de animación conocido.
+
+## [48-119 · Naór percibe una magia antigua que se apaga](../capitulos/48.md) · 03:07:19.800
+
+Tipo: `explicacion_director`.
+
+Al buscar con su detección, Naór percibe en esta sala una magia antigua y muy tenue, distinta de la ausencia de señal en las otras cámaras. El director la compara con la que pudo notar al ver al dragón y describe que se está apagando y desapareciendo.
+
+La comparación no identifica una runa, objeto o foco concreto ni demuestra un vínculo causal con las pozas.
+
+## [48-124 · El director separa el rastro mágico de las pozas](../capitulos/48.md) · 03:14:10.600
+
+Tipo: `explicacion_director`.
+
+El director orienta al grupo mediante preguntas: los dragones desprenden magia y la señal que se disipa apunta a que el dragón se ha ido. También aclara que esa magia no tiene relación con las pozas. Al margen del rastro, propone pensar en el veneno como material para futuros antídotos; las teorías de un ojo vigilante o una planta protectora no se confirman.
+
+Son pistas dadas a la mesa, no una aparición del dragón ni un hallazgo plenamente deducido por los personajes. La palabra que responde a la habilidad del dragón verde no es inequívoca en el subtítulo; no se completa con lore externo.
+
+## [48-125 · Eldrath llena su cantimplora de veneno](../capitulos/48.md) · 03:18:45.600
+
+Tipo: `hecho_confirmado`.
+
+Eldrath vacía su cantimplora de agua y la llena con veneno de una de las pozas. La guarda para que pueda servir en la preparación de pociones contra el dragón verde; la cantidad de la cantimplora se maneja como equivalente a cuatro sorbos.
+
+Recolectar el líquido no es fabricar un antídoto; los cuatro sorbos no garantizan cuatro pociones o cuatro protecciones eficaces.
+
+## [48-126 · Tesara recoge una segunda muestra de las pozas](../capitulos/48.md) · 03:19:49.239
+
+Tipo: `hecho_confirmado`.
+
+Tesara pregunta por la utilidad del veneno. Eldrath explica que quiere disponer del propio veneno del dragón para preparar pociones con las que combatirlo. Ella considera buena la idea, vacía su propia cantimplora y recoge más, prefiriendo que sobre material al enfrentarse a un dragón.
+
+La atribución del líquido al dragón y su utilidad futura se expresan como explicación del personaje; no existe análisis, receta o ensayo de eficacia en este tramo.
 

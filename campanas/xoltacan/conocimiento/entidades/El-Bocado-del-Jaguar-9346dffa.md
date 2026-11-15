@@ -12,7 +12,7 @@ Base para revisar equivalencia: [16-018](../capitulos/16.md), [44-004](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 47.
+Relato revisado hasta el capítulo 48.
 
 ### La mesa de Cuicapalli
 

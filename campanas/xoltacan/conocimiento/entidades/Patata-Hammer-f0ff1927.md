@@ -12,7 +12,7 @@ Base para revisar equivalencia: [16-001](../capitulos/16.md), [16-009](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 47.
+Relato revisado hasta el capítulo 48.
 
 ### Un martillo nacido del cultivo
 

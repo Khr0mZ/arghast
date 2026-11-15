@@ -12,7 +12,7 @@ Base para revisar equivalencia: [16-003](../capitulos/16.md), [16-015](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 47.
+Relato revisado hasta el capítulo 48.
 
 ### El rey que busca reunir a los clanes
 

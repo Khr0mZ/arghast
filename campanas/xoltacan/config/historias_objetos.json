@@ -1,5 +1,5 @@
 {
-  "revisado_hasta": 47,
+  "revisado_hasta": 48,
   "entidades": {
     "Anillo familiar de Erendriel": [
       {
@@ -807,6 +807,14 @@
           "47-026",
           "47-027"
         ]
+      },
+      {
+        "titulo": "Un disparo limitado por el veneno",
+        "texto": "Tesara se mueve hasta obtener alcance y dispara durante la pelea de la cueva. Se aclara que ya ha gastado la carga de fuego y que el envenenamiento impide añadir ataque furtivo. El comentario no acredita una nueva recarga o una debilidad general de los no muertos al fuego.",
+        "referencias": [
+          "48-058",
+          "48-067"
+        ]
       }
     ],
     "Libro histórico mostrado por Walulu": [
@@ -816,6 +824,68 @@
         "referencias": [
           "47-082",
           "47-085"
+        ]
+      }
+    ],
+    "Tatuaje incompleto de Eldrath": [
+      {
+        "titulo": "La mitad que se lleva a la expedición",
+        "texto": "Eldrath añade el tatuaje a sus compras y hace esperar a los compañeros ante la puerta de Iktan. Naór encuentra al minotauro trabajando en un dibujo solo terminado a medias y lo presiona para que dé por acabada la sesión. Se lleva al elfo y el propio grupo vuelve a señalar el tatuaje incompleto cuando se reúne para partir hacia la jungla. No se narra que durante la salida se complete o active.",
+        "referencias": [
+          "48-026",
+          "48-028",
+          "48-030"
+        ]
+      }
+    ],
+    "Botellas antitoxina de la cueva": [
+      {
+        "titulo": "El brillo y las manos que las recuperan",
+        "texto": "La detección de Naór revela magia bajo una roca. Tras resistir el gas, ella la levanta con Eldrath encima y él recoge las tres botellas. Las reconoce como antitoxinas, vuelve a hombros de Naór y las reparte a sus compañeros, recomendando usarlas por la ayuda que a él le está dando una poción anterior. No queda un reparto nominal inequívoco de cada frasco.",
+        "referencias": [
+          "48-074",
+          "48-076",
+          "48-077",
+          "48-078",
+          "48-079"
+        ]
+      }
+    ],
+    "Muestras de veneno de la cueva envenenada": [
+      {
+        "titulo": "Una preparación todavía pendiente",
+        "texto": "Las pozas sugieren una utilidad después de la lucha. Eldrath vacía su cantimplora y recoge veneno para preparar futuras pociones contra el dragón verde; Tesara acepta la idea y hace lo mismo. Coyote utiliza un recipiente de agua para guardar veneno del colmillo restante de la serpiente. Los compañeros se llevan el material al salir, pero no se representa análisis, entrega a un alquimista, receta, fabricación o prueba que confirme una defensa eficaz.",
+        "referencias": [
+          "48-124",
+          "48-125",
+          "48-126",
+          "48-127",
+          "48-128"
+        ]
+      }
+    ],
+    "Colmillo de la serpiente guardado por Naór": [
+      {
+        "titulo": "El recuerdo que debe esperar",
+        "texto": "Naór quiere llevarle algo a Leo después de la lucha y arranca un colmillo de la serpiente. Lo guarda antes de detectar la magia tenue y salir apresuradamente de la cueva. El epílogo todavía la sitúa corriendo por la jungla mientras Leo espera en el colegio, de modo que la entrega del recuerdo queda pendiente.",
+        "referencias": [
+          "48-118",
+          "48-120",
+          "48-127",
+          "48-129"
+        ]
+      }
+    ],
+    "Tesoro de la cueva envenenada": [
+      {
+        "titulo": "Un collar entre piezas deterioradas",
+        "texto": "La oscuridad permite distinguir montones de objetos y lo que parece un escudo. Tesara intenta encontrar una pieza relacionada con el dragón, remueve el botín con su látigo y encuentra materiales corroídos junto a otros mejor conservados. Guarda un collar durante sus primeros segundos de búsqueda. Después del combate Tryel y Coyote continúan registrando: la falta de otros hallazgos de Tesara no agotaba la cámara. La investigación de inscripciones dracónicas no revela ninguna y no se establece un valor o poder de las piezas.",
+        "referencias": [
+          "48-087",
+          "48-092",
+          "48-097",
+          "48-121",
+          "48-122"
         ]
       }
     ]

@@ -8,11 +8,11 @@ Cambiaformas que suplanta a Ione. Distinto de Citlali y del animal coyote adopta
 
 Etiquetas agrupadas: Coyote; Coyote (cambiaformas); Coyote (cambiaformas, grafía provisional); Coyote (suplantador de Ione).
 
-Base para revisar equivalencia: [24-004](../capitulos/24.md), [26-001](../capitulos/26.md), [31-001](../capitulos/31.md), [39-020](../capitulos/39.md), [45-001](../capitulos/45.md), [45-007](../capitulos/45.md), [45-011](../capitulos/45.md), [45-012](../capitulos/45.md), [45-013](../capitulos/45.md), [45-015](../capitulos/45.md), [45-016](../capitulos/45.md), [45-020](../capitulos/45.md), [45-022](../capitulos/45.md), [45-027](../capitulos/45.md), [45-029](../capitulos/45.md), [45-030](../capitulos/45.md), [45-032](../capitulos/45.md), [45-035](../capitulos/45.md), [45-040](../capitulos/45.md), [45-043](../capitulos/45.md), [45-044](../capitulos/45.md), [45-051](../capitulos/45.md), [45-053](../capitulos/45.md), [45-056](../capitulos/45.md), [45-057](../capitulos/45.md), [45-061](../capitulos/45.md), [45-062](../capitulos/45.md), [45-065](../capitulos/45.md), [45-068](../capitulos/45.md), [45-073](../capitulos/45.md), [45-074](../capitulos/45.md).
+Base para revisar equivalencia: [24-004](../capitulos/24.md), [26-001](../capitulos/26.md), [31-001](../capitulos/31.md), [39-020](../capitulos/39.md), [45-001](../capitulos/45.md), [45-007](../capitulos/45.md), [45-011](../capitulos/45.md), [45-012](../capitulos/45.md), [45-013](../capitulos/45.md), [45-015](../capitulos/45.md), [45-016](../capitulos/45.md), [45-020](../capitulos/45.md), [45-022](../capitulos/45.md), [45-027](../capitulos/45.md), [45-029](../capitulos/45.md), [45-030](../capitulos/45.md), [45-032](../capitulos/45.md), [45-035](../capitulos/45.md), [45-040](../capitulos/45.md), [45-043](../capitulos/45.md), [45-044](../capitulos/45.md), [45-051](../capitulos/45.md), [45-053](../capitulos/45.md), [45-056](../capitulos/45.md), [45-057](../capitulos/45.md), [45-061](../capitulos/45.md), [45-062](../capitulos/45.md), [45-065](../capitulos/45.md), [45-068](../capitulos/45.md), [45-073](../capitulos/45.md), [45-074](../capitulos/45.md), [48-004](../capitulos/48.md), [48-005](../capitulos/48.md), [48-007](../capitulos/48.md), [48-012](../capitulos/48.md), [48-013](../capitulos/48.md), [48-016](../capitulos/48.md), [48-017](../capitulos/48.md), [48-027](../capitulos/48.md), [48-030](../capitulos/48.md), [48-031](../capitulos/48.md), [48-032](../capitulos/48.md), [48-033](../capitulos/48.md), [48-034](../capitulos/48.md), [48-038](../capitulos/48.md), [48-039](../capitulos/48.md), [48-040](../capitulos/48.md), [48-047](../capitulos/48.md), [48-060](../capitulos/48.md), [48-061](../capitulos/48.md), [48-064](../capitulos/48.md), [48-065](../capitulos/48.md), [48-066](../capitulos/48.md), [48-069](../capitulos/48.md), [48-071](../capitulos/48.md), [48-073](../capitulos/48.md), [48-079](../capitulos/48.md), [48-080](../capitulos/48.md), [48-089](../capitulos/48.md), [48-100](../capitulos/48.md), [48-107](../capitulos/48.md), [48-111](../capitulos/48.md), [48-121](../capitulos/48.md), [48-123](../capitulos/48.md), [48-127](../capitulos/48.md), [48-128](../capitulos/48.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 47.
+Relato revisado hasta el capítulo 48.
 
 ### Un guía que cambia de rostro
 
@@ -37,6 +37,42 @@ Fuentes: [31-007 · Tesa se presenta como historiadora y Coyote conoce Iktan](..
 Expulsado otra vez de la taberna de Iktan tras sus cortejos, Coyote se une a la visita que prepara Naór. Sumerge su perla para hablar con Maris y recibe la noticia de nuevos secuestros. La enviada le concede respiración acuática y él insiste en ayudar a encontrar a su escuadrón antes de ir a Perlasal. El viaje le causa mareo. En los combates falla varios ataques con el cuchillo, pero inspira a Naór, Chopito y Triel y aparta a un enemigo mediante susurros. Su orden de alto a tres rivales fracasa y el sacerdote consigue imponerle otra. Liberado al quedar inconsciente el oficiante, cura a Triel y desata a la sirena. La ayuda a salir porque la herida de la cola le impide nadar. Maris lo recibe de nuevo con alegría. Las bromas sobre la suegra no convierten esa relación en un matrimonio ni su aspecto majestuoso en divinidad.
 
 Fuentes: [45-001 · Los viajeros preparan la salida de Iktan hacia Perlasal](../capitulos/45.md) · 00:00:00.640 · [45-007 · Coyote evita la discusión y vuelve a ser expulsado de la taberna](../capitulos/45.md) · 00:13:36.440 · [45-011 · El grupo se reúne y Tortas reacciona al año y la hora](../capitulos/45.md) · 00:19:48.080 · [45-012 · Coyote activa la perla dentro del agua y contacta con Maris](../capitulos/45.md) · 00:28:53.720 · [45-013 · Maris informa de nuevos ataques, secuestros y el cierre de Perlasal](../capitulos/45.md) · 00:31:30.919 · [45-015 · Llega una guía sirénida enviada por la princesa Maris](../capitulos/45.md) · 00:36:29.920 · [45-016 · Los besos de la sirénida permiten respirar a Coyote, Naór y Tortas](../capitulos/45.md) · 00:38:02.000 · [45-020 · La guía admite que huyó mientras quedaban compañeros](../capitulos/45.md) · 00:48:40.520 · [45-022 · Coyote reúne a todos para priorizar la búsqueda](../capitulos/45.md) · 00:52:24.960 · [45-027 · Naór impulsa a Tortas y todos escapan de los tiburones](../capitulos/45.md) · 01:03:21.079 · [45-029 · El túnel desemboca en una cámara de aire oscura](../capitulos/45.md) · 01:11:56.760 · [45-030 · Chopito guía a quienes no ven y Triel aporta luces](../capitulos/45.md) · 01:15:03.440 · [45-032 · Una criatura intenta agarrar a Coyote bajo el agua](../capitulos/45.md) · 01:21:52.080 · [45-035 · Coyote inspira a Naór después de fallar con el cuchillo](../capitulos/45.md) · 01:28:48.520 · [45-040 · Chopito interviene y Coyote le brinda inspiración](../capitulos/45.md) · 01:39:32.719 · [45-043 · Tortas reúne los cadáveres y conserva una mano](../capitulos/45.md) · 01:50:37.920 · [45-044 · Tres voces se oyen más allá del recodo y el idioma se corrige a Aquan](../capitulos/45.md) · 01:55:19.320 · [45-051 · Triel y Coyote avanzan por el agua y él la inspira](../capitulos/45.md) · 02:09:28.599 · [45-053 · Naór usa a Coyote como apoyo para llegar al sacerdote](../capitulos/45.md) · 02:13:41.159 · [45-056 · Coyote mantiene su apariencia majestuosa y repele a un enemigo con susurros](../capitulos/45.md) · 02:21:18.760 · [45-057 · El hechicero devuelve un rayo y anuncia la llegada de su dios](../capitulos/45.md) · 02:25:21.319 · [45-061 · Los tres rivales resisten la orden de Coyote](../capitulos/45.md) · 02:36:21.160 · [45-062 · Chopito no logra sujetar al sacerdote y este ordena detenerse a Coyote](../capitulos/45.md) · 02:38:48.279 · [45-065 · Triel ayuda a Naór y Coyote cura a Triel](../capitulos/45.md) · 02:47:05.880 · [45-068 · La sirena cautiva es liberada y necesita ayuda para salir](../capitulos/45.md) · 02:53:25.760 · [45-073 · El grupo sale con la rescatada y llega a Perlasal](../capitulos/45.md) · 03:04:06.600 · [45-074 · Maris recibe a Coyote y ofrece presentar a Naór ante su madre](../capitulos/45.md) · 03:05:34.319.
+
+### Descanso, curiosidad y provocaciones
+
+Dice haberse mantenido tranquilo y dedicado a beber. En El Huevo Emplumado escucha a Tesara pedir que se adelanten al dragón y recibe la información de que solo quedan seis días. No puede cuadrar una poción con sus veinticinco monedas. Comparte con Tryel su interés por Molly y recibe una respuesta territorial: la elfa quiere prioridad y trata de intimidarlo. Más tarde provoca a Tesara con un supuesto noviazgo con Eldrath, que ella niega.
+
+Fuentes: [48-004 · Coyote presenta su descanso en la taberna](../capitulos/48.md) · 00:03:47.480 · [48-005 · Tesara llega cargada de libros a El Huevo Emplumado](../capitulos/48.md) · 00:05:53.080 · [48-007 · Tesara pide adelantarse al golpe del dragón](../capitulos/48.md) · 00:09:05.760 · [48-012 · Tesara transmite los hallazgos y habla de otro dragón al mando](../capitulos/48.md) · 00:13:20.760 · [48-013 · El grupo dispone de seis días para responder al ultimátum](../capitulos/48.md) · 00:15:21.440 · [48-016 · Coyote carece de dinero para las pociones](../capitulos/48.md) · 00:19:27.640 · [48-017 · Tryel reclama prioridad ante el interés de Coyote por Molly](../capitulos/48.md) · 00:20:23.320 · [48-027 · Coyote provoca a Tesara sobre una supuesta relación con Eldrath](../capitulos/48.md) · 00:37:41.480.
+
+### La marcha hasta una oscuridad incómoda
+
+Sale de Iktan con los otros cuatro y sigue bromeando sobre el liderazgo del elfo y su relación con Tesara. Mientras las discusiones y la búsqueda se prolongan, come fruta que Tryel comparte. Acepta el enlace psiónico de Eldrath y la necesidad de que el elfo retransmita sus mensajes. Llega a la cueva de raíces con los demás; al avanzar y perder la luz exterior, tanto él como Tesara ven poco.
+
+Fuentes: [48-030 · Los cinco salen de Iktan con Tryel como guía](../capitulos/48.md) · 00:43:38.200 · [48-031 · La orientación de Tryel los hace dar vueltas](../capitulos/48.md) · 00:45:19.520 · [48-032 · Tesara y Eldrath rechazan las bromas sobre noviazgo y jefatura](../capitulos/48.md) · 00:46:22.160 · [48-033 · Naór intenta seguir el olor del dragón sin lograr orientarse](../capitulos/48.md) · 00:47:50.800 · [48-034 · Naór asusta a Tesara y la coloca al frente para rastrear](../capitulos/48.md) · 00:49:24.000 · [48-038 · Eldrath enlaza las mentes de cuatro compañeros durante seis horas](../capitulos/48.md) · 00:57:47.280 · [48-039 · El director precisa que Eldrath debe retransmitir los mensajes](../capitulos/48.md) · 00:59:18.640 · [48-040 · Las huellas terminan ante una pared cubierta de raíces](../capitulos/48.md) · 00:59:51.480 · [48-047 · La cueva huele a podredumbre y veneno y pierde la luz de la entrada](../capitulos/48.md) · 01:05:24.880.
+
+### Flechas, cuchillos y una inspiración inoportuna
+
+Coyote combate con sus dagas y recibe flechas envenenadas. Bebe un frasco comprado antes, cuyo contenido no queda inequívocamente explicado, y usa recursos para alterar ataques y ayudar a sus compañeros. Consulta una capacidad que podría invocar un dinosaurio espiritual, pero no la materializa. Su intento de inspirar a Naór mediante una burla sobre Leo le da a ella un bono contra él; evita que lo alcance el esqueleto que le arroja forzando otra tirada. Tesara le da primeros auxilios antes de avanzar.
+
+Fuentes: [48-060 · Zombis y esqueletos se levantan alrededor del grupo](../capitulos/48.md) · 01:27:03.560 · [48-061 · Las flechas y la vegetación prolongan el veneno](../capitulos/48.md) · 01:31:03.080 · [48-064 · Coyote bebe un frasco durante el combate](../capitulos/48.md) · 01:38:29.960 · [48-065 · Tryel derriba un esqueleto y Tesara vuelve a exponerse al gas](../capitulos/48.md) · 01:41:14.880 · [48-066 · Coyote prepara un dinosaurio espiritual que aún no invoca](../capitulos/48.md) · 01:44:11.639 · [48-069 · La inspiración de Coyote provoca a Naór](../capitulos/48.md) · 01:55:19.239 · [48-071 · Las calaveras pasan de los enemigos a las disputas del grupo](../capitulos/48.md) · 01:58:39.040 · [48-073 · Tesara atiende las heridas de Coyote antes de continuar](../capitulos/48.md) · 02:01:36.320.
+
+### Una pausa que no recupera los recursos
+
+Espera sentado mientras Eldrath y Naór buscan las botellas. Al intentar recuperar un recurso, el director explica que necesita una hora de descanso corto. El grupo descarta esa demora para no fallar a la recogida de Leo.
+
+Fuentes: [48-079 · Eldrath reparte las antitoxinas a sus compañeros](../capitulos/48.md) · 02:09:34.400 · [48-080 · La recogida de Leo impide hacer un descanso corto](../capitulos/48.md) · 02:10:40.119.
+
+### Ayudar aun sin ver
+
+Un destello lo deja ciego cuando juega con la posibilidad de tocar la pared. La falta de visión lo mantiene confundido durante el inicio de la emboscada, pero logra inspirar a Tryel al estar junto a ella. Cuando vuelve a ver, se aproxima para ayudar a Naór y concede a Tesara la inspiración que ella gastará al cruzar la poza con el látigo.
+
+Fuentes: [48-089 · Un destello ciega a Coyote](../capitulos/48.md) · 02:19:33.800 · [48-100 · Coyote inspira a Tryel mientras sigue sin ver](../capitulos/48.md) · 02:38:21.359 · [48-107 · Coyote recupera la vista y se acerca a ayudar](../capitulos/48.md) · 02:48:52.720 · [48-111 · Tesara cruza una poza colgada del látigo](../capitulos/48.md) · 02:54:25.279.
+
+### Una búsqueda que acaba en recogida de veneno
+
+Ayuda a Tryel a remover el tesoro y explica que no puede seguir la magia tenue con una habilidad adecuada. Antes de salir, vacía un recipiente y extrae veneno del colmillo que queda en la serpiente. Su muestra procede de la criatura y se conserva diferenciada de las recogidas directamente en las pozas.
+
+Fuentes: [48-121 · Tryel y Coyote continúan buscando en el tesoro](../capitulos/48.md) · 03:09:04.600 · [48-123 · Tesara detecta el mismo rastro en toda la cámara](../capitulos/48.md) · 03:11:50.560 · [48-127 · Coyote obtiene veneno del colmillo restante](../capitulos/48.md) · 03:20:48.760 · [48-128 · Los compañeros abandonan la cueva heridos](../capitulos/48.md) · 03:21:47.680.
 
 ## Registros y evidencias
 
@@ -847,4 +883,364 @@ Tipo: `hecho_confirmado`.
 Maris se alegra de reencontrarse con Coyote y agradece que vuelvan a ayudar a su pueblo. Reconoce a Tentacol y acepta a los compañeros como amigos. Naór se presenta como Naór Taruan de Atlan y pide hablar con las autoridades por problemas que afectan a todos. Maris dice que su madre le habló del reino del sur y la conduce hacia ella, advirtiendo que desconfía de los extranjeros de la superficie porque no respetan el mar.
 
 El vocativo Leona del director se refiere aquí a la leonina que se presenta como Naór; no trae a la harengon Leona a esta expedición. La burla sobre un palo no aporta por sí sola detalles de una escena escrita.
+
+## [48-004 · Coyote presenta su descanso en la taberna](../capitulos/48.md) · 00:03:47.480
+
+Tipo: `declaracion_personaje`.
+
+Coyote dice haberse dedicado a estar tranquilo. Recuerda ver juntos a un elfo y una mujer de pelo azul, observar conversaciones de otros compañeros y marcharse a beber.
+
+Su interpretación de la cercanía de los otros no demuestra una relación amorosa; el descanso es un repaso, no una misión completada.
+
+## [48-005 · Tesara llega cargada de libros a El Huevo Emplumado](../capitulos/48.md) · 00:05:53.080
+
+Tipo: `hecho_confirmado`.
+
+La escena vuelve a Iktan y sigue a Tesara cargada de libros, informes y pergaminos después de estudiar en el templo. Busca primero a los hermanos elfos en la taberna y entra torpemente con las manos ocupadas. Allí están Eldrath, Tryel y Coyote, que toma cerveza y mira a la encargada felina.
+
+Tesara estima que pudo pasar un día o día y medio estudiando, sin fijar una duración exacta. La identidad del establecimiento y de su encargada se conserva por la continuidad de Iktan; no es la Sirena Borracha de Shiaru.
+
+## [48-007 · Tesara pide adelantarse al golpe del dragón](../capitulos/48.md) · 00:09:05.760
+
+Tipo: `declaracion_personaje`.
+
+Tesara deja su documentación en la barra e interrumpe a los presentes. Tras un intercambio sobre los saludos y la bebida de primera hora, explica que ha revisado lo que Walulu conserva sobre el dragón verde y quiere encontrarlo para golpear antes de que él actúe.
+
+Es la valoración urgente de Tesara y una propuesta de actuación; no se ha preparado todavía una trampa ni se ha descubierto una debilidad.
+
+## [48-012 · Tesara transmite los hallazgos y habla de otro dragón al mando](../capitulos/48.md) · 00:13:20.760
+
+Tipo: `declaracion_personaje`.
+
+Tesara cuenta a Eldrath, Tryel y Coyote la historia recuperada. Le preocupa que el dragón haya pasado de tolerar a los poblados a amenazar uno entero y afirma que parece trabajar para otro dragón. Recuerda después el ataque histórico de otro dragón, el ritual y la protección que ofrece. Los documentos disponibles le han aportado sobre todo cuentos, leyendas e historias de comportamiento, sin una debilidad explotable.
+
+La identidad y naturaleza del empleador no se verifican. En 47-072 la criatura dijo que alguien pagaba por los elfos; esta afirmación de Tesara no demuestra por sí sola que ese alguien sea otro dragón. El atacante del pasado y el empleador actual tampoco quedan identificados entre sí.
+
+## [48-013 · El grupo dispone de seis días para responder al ultimátum](../capitulos/48.md) · 00:15:21.440
+
+Tipo: `declaracion_personaje`.
+
+Los compañeros quieren descubrir más sobre el dragón antes de intentar matarlo o tenderle una trampa. Tesara concreta que dio una semana para que se entregaran los elfos, que ha pasado un día y que quedan seis. Reprocha a Coyote no haberlo escuchado y recuerda que ya había informado a Eldrath.
+
+Es el plazo expresado por Tesara y el tiempo transcurrido que ella calcula. No se da una fecha de calendario ni se representa aún el cumplimiento o incumplimiento del ultimátum.
+
+## [48-015 · La falta de tiempo descarta buscar una gran biblioteca](../capitulos/48.md) · 00:17:43.559
+
+Tipo: `declaracion_personaje`.
+
+Los compañeros recuerdan que el dragón tiene varias guaridas. Eldrath prefiere investigar la que encontró su hermana porque localizar otras llevaría más de una semana. Tesara propone obtener información en una gran ciudad con una biblioteca competente, pero no saben dónde hallarla y temen exponerse a una emboscada durante la búsqueda. Deciden hacer los preparativos y partir hacia la cueva recordada.
+
+Las varias guaridas son un dato discutido por los personajes, coherente con el aviso de Walulu; no se localizan aquí varias a la vez. La existencia de una biblioteca adecuada permanece sin verificar.
+
+## [48-016 · Coyote carece de dinero para las pociones](../capitulos/48.md) · 00:19:27.640
+
+Tipo: `declaracion_personaje`.
+
+Mientras se organizan las compras, Coyote calcula si puede pagar una poción y lamenta disponer de veinticinco monedas. Se propone acudir al alquimista, en lugar de pedir pociones a la encargada de la taberna.
+
+No se representa una compra de Coyote en este intercambio ni se identifica por nombre al alquimista; no se importa automáticamente a Froger a una escena donde no aparece nombrado.
+
+## [48-017 · Tryel reclama prioridad ante el interés de Coyote por Molly](../capitulos/48.md) · 00:20:23.320
+
+Tipo: `hecho_confirmado`.
+
+Coyote se acerca a Tryel y comenta el atractivo de Molly. Tryel se le planta delante, le dice que ella la vio primero e intenta intimidarlo. Coyote responde con bromas, y la elfa le gruñe antes de moverse.
+
+Es interés y rivalidad expresados por Tryel y Coyote. Molly no responde ni consiente una relación en esta escena.
+
+## [48-027 · Coyote provoca a Tesara sobre una supuesta relación con Eldrath](../capitulos/48.md) · 00:37:41.480
+
+Tipo: `declaracion_personaje`.
+
+Coyote afirma haber visto muy juntos a Tesara y Eldrath y bromea con que se quedará sin novio. Tesara niega haberlo abrazado: recuerda que, cuando sintió pánico, fue el elfo quien le puso la mano encima. Defiende que puede elegir seguir soltera y devuelve la provocación a Coyote.
+
+Las bromas y lecturas de Coyote no confirman un noviazgo. Se conserva la explicación de Tesara sin sustituirla por la insinuación del compañero.
+
+## [48-030 · Los cinco salen de Iktan con Tryel como guía](../capitulos/48.md) · 00:43:38.200
+
+Tipo: `hecho_confirmado`.
+
+Se reúnen Eldrath, Tryel, Tesara, Coyote y Naór. Eldrath lleva armadura nueva y medio tatuaje. Mientras discute con Tesara por la espera, Naór pregunta a Tryel si conoce la guarida, la sube encima de ella y sale de la ciudad. Los otros los siguen; Tryel va indicando el camino desde arriba.
+
+Son cinco viajeros; no se añade a Tortas, Ilikar o Leona a la expedición. Las palabras «guarida» pertenecen al destino esperado por el grupo y no identifican por sí solas la propiedad de la cueva que encontrarán.
+
+## [48-032 · Tesara y Eldrath rechazan las bromas sobre noviazgo y jefatura](../capitulos/48.md) · 00:46:22.160
+
+Tipo: `declaracion_personaje`.
+
+Las provocaciones de Coyote vuelven a presentar a Tesara como novia de Eldrath y al elfo como jefe. Ambos niegan el noviazgo; Eldrath añade que no es jefe, sino quien propuso una idea. Discute con Tesara sobre el valor de las aportaciones de los otros, y decide dejar el asunto para salir de la jungla cuanto antes.
+
+La escena no crea un cargo ni una relación amorosa. La discusión tampoco demuestra que los demás carezcan de capacidades o información.
+
+## [48-033 · Naór intenta seguir el olor del dragón sin lograr orientarse](../capitulos/48.md) · 00:47:50.800
+
+Tipo: `hecho_confirmado`.
+
+Mientras varios comen fruta, Naór intenta respirar y olfatear el rastro del olor que percibió antes junto al dragón. El director explica que las quejas de Tesara, las risas de Coyote, el enfado de Eldrath y los toques de Tryel la distraen y le devuelven la irritación. No consigue con ese intento dar con el camino.
+
+El recuerdo de sus rondas contra los no muertos es lo que declara la jugadora; no se representa otra patrulla completa. Fallar el rastreo no elimina permanentemente su olfato.
+
+## [48-034 · Naór asusta a Tesara y la coloca al frente para rastrear](../capitulos/48.md) · 00:49:24.000
+
+Tipo: `hecho_confirmado`.
+
+Tras pedir que alguien aporte una manera de seguir el rastro, Naór ruge con fuerza en la cara de Tesara. La resolución de la salvación establece que la historiadora queda aterrada por ella. Naór le pregunta si sabe explorar, la toma por los hombros y la pone delante para que busque. Tryel observa mientras comparte fruta de Coyote.
+
+El miedo procede del rugido de Naór, no de una aparición del dragón. La condición se adjudica en ese momento, sin fijar aquí una duración nueva.
+
+## [48-038 · Eldrath enlaza las mentes de cuatro compañeros durante seis horas](../capitulos/48.md) · 00:57:47.280
+
+Tipo: `hecho_confirmado`.
+
+Para comunicarse sin hablar si el dragón está cerca, Eldrath emplea Susurro psiónico y establece un enlace con Tryel, Tesara y Coyote. Declara una duración de seis horas y prueba la conexión hablándoles directamente en la cabeza. Excluye a Naór y bromea con que no quiere conocer lo que pasa por su mente.
+
+No se acredita lectura pasiva de pensamientos, una conexión con Naór o un poder del dragón. La duración se declara al activar la capacidad y no se extiende a otras sesiones.
+
+## [48-039 · El director precisa que Eldrath debe retransmitir los mensajes](../capitulos/48.md) · 00:59:18.640
+
+Tipo: `explicacion_director`.
+
+El director aclara que Tesara y Coyote escuchan a Eldrath, y que la comunicación no los conecta directamente entre sí. Eldrath acepta hacer de antena y retransmitir lo que los demás digan por el enlace para que puedan coordinarse.
+
+La frase automática «os podéis comunicar entre vosotros» aparece dentro de una corrección contradictoria; la explicación inmediata de que Eldrath retransmitirá impide presentarlo como una red de conversación libre entre todos.
+
+## [48-040 · Las huellas terminan ante una pared cubierta de raíces](../capitulos/48.md) · 00:59:51.480
+
+Tipo: `hecho_confirmado`.
+
+Siguiendo a Tesara, el grupo avanza por lugares que Tryel vuelve a reconocer y alcanza un montículo o pared rocosa cubierta de raíces. Las huellas llegan hasta esa vegetación, que oculta el acceso.
+
+El director corrige su primera palabra montaña y no fija altura, topónimo o coordenadas. Tryel reconoce el recorrido de la cueva que había recordado (40-030, 48-014); se conserva esa identificación atribuida a ella, sin confirmar la propiedad del dragón.
+
+## [48-046 · La entrada obliga a resistir veneno y hiere a Tesara](../capitulos/48.md) · 01:04:25.599
+
+Tipo: `explicacion_director`.
+
+Los cinco entran en la cueva y el director pide salvaciones de Constitución. Tesara recibe cuatro puntos de daño de veneno. La adjudicación se vincula expresamente a una trampa introducida mediante una carta del chat.
+
+La herida de veneno se aplica en la escena; el chat es su origen de mesa, sin autor material, dispositivo concreto o intención de un personaje demostrados. No se atribuyen esos cuatro puntos a todos los viajeros.
+
+## [48-047 · La cueva huele a podredumbre y veneno y pierde la luz de la entrada](../capitulos/48.md) · 01:05:24.880
+
+Tipo: `hecho_confirmado`.
+
+El grupo avanza entre un olor pesado que mezcla podredumbre y veneno. La luz de la entrada queda atrás y se apaga. Los hermanos elfos y Naór pueden ver en la oscuridad, mientras Tesara y Coyote distinguen poco. Tesara se sorprende de no llevar antorchas a pesar de ser exploradora.
+
+La luz de la entrada se pierde durante el descenso; no implica ceguera permanente. Clolgedranx no aparece físicamente en este capítulo.
+
+## [48-060 · Zombis y esqueletos se levantan alrededor del grupo](../capitulos/48.md) · 01:27:03.560
+
+Tipo: `hecho_confirmado`.
+
+Más zombis y esqueletos se incorporan desde distintos puntos de la sala. Los zombis avanzan contra Coyote y Tryel y otros rivales disparan. Coyote combate con dos dagas y Tryel devuelve golpes mientras recibe presión desde varios lados.
+
+Los señalamientos sobre el tablero no aportan coordenadas absolutas. El colectivo de esta cueva se mantiene separado de los cadáveres de las ruinas del lago del capítulo anterior.
+
+## [48-061 · Las flechas y la vegetación prolongan el veneno](../capitulos/48.md) · 01:31:03.080
+
+Tipo: `hecho_confirmado`.
+
+Un esqueleto alcanza a Coyote con una flecha envenenada. Tesara sigue buscando una posición útil para disparar y se oculta detrás de una seta; el director exige otra salvación de Constitución y confirma que continúa envenenada.
+
+Las discusiones sobre el final del turno no fijan una duración universal del veneno. Las bromas de frustración no representan una muerte de Tesara.
+
+## [48-064 · Coyote bebe un frasco durante el combate](../capitulos/48.md) · 01:38:29.960
+
+Tipo: `hecho_confirmado`.
+
+Mientras Tryel sigue recibiendo ataques, Coyote hiere a un adversario y bebe el contenido de un frasco que dice haber comprado. Continúa usando sus recursos para alterar ataques enemigos y conceder ventaja; la elección de aliado depende de a quién puede ver.
+
+En este intercambio no se describe con claridad el contenido del frasco ni su efecto final. No se identifica automáticamente con las antitoxinas que Eldrath menciona más adelante.
+
+## [48-065 · Tryel derriba un esqueleto y Tesara vuelve a exponerse al gas](../capitulos/48.md) · 01:41:14.880
+
+Tipo: `hecho_confirmado`.
+
+Tryel se deshace de un esqueleto y se vuelve hacia el zombi. Coyote recibe otra flecha. Tesara intenta esconderse bajo otra planta y, aunque su aspecto le parecía menos peligroso, debe superar de nuevo una salvación; continúa envenenada.
+
+Los chistes sobre dispararse y dejar de sufrir no se ejecutan. Que una planta parezca una palmera no establece que sea inocua.
+
+## [48-066 · Coyote prepara un dinosaurio espiritual que aún no invoca](../capitulos/48.md) · 01:44:11.639
+
+Tipo: `declaracion_personaje`.
+
+Coyote sigue atacando con sus cuchillos. Pregunta por una capacidad guardada en su fruta que produciría un dinosaurio espiritual, comparada en la mesa con un arma espiritual. Al aclararse que requiere la acción adicional ya gastada, aplaza su uso para un turno posterior.
+
+Es una consulta y una intención. No se materializa aquí el dinosaurio ni se crea una nueva entidad a partir de la capacidad anunciada. La ayuda y las cartas mencionadas pertenecen al chat y al procedimiento de juego.
+
+## [48-068 · Los ataques de Eldrath y Naór reducen los últimos enemigos](../capitulos/48.md) · 01:52:57.560
+
+Tipo: `hecho_confirmado`.
+
+Eldrath apunta al enemigo que combate con Coyote para terminar con él y lanza otro ataque hacia el que está cerca de Tryel, antes de ponerse junto a Tesara. Naór alcanza a dos rivales con el efecto de su furia, aunque uno resiste, y continúa intentando golpearlos. Un esqueleto que la tiene enfrente saca la espada y consigue herirla.
+
+La intención de terminar con un enemigo no sustituye una confirmación independiente de su muerte. Se conserva el progreso del combate sin inventar totales de bajas o puntos de vida.
+
+## [48-069 · La inspiración de Coyote provoca a Naór](../capitulos/48.md) · 01:55:19.239
+
+Tipo: `hecho_confirmado`.
+
+Coyote ataca e intenta inspirar a Naór diciéndole que hará de Leo un descarado que toque a los otros escolares. El director adjudica el resultado como un bono de cinco para las acciones de Naór contra el propio Coyote. Tryel le muestra su manera de espantar a un enemigo con un insulto, pero falla el siguiente intento de apuñalar al esqueleto.
+
+La amenaza de Coyote es una provocación, sin una escena de Leo cometiendo esos actos ni un programa de crianza que se ejecute. El efecto de la inspiración se presenta como adjudicación de mesa.
+
+## [48-070 · El combate cede y los viajeros se reagrupan](../capitulos/48.md) · 01:57:46.440
+
+Tipo: `hecho_confirmado`.
+
+Después de otro turno de Tesara, deja de ver enemigos y el director dice que parece que han acabado con ellos. Una voz recuerda que falta uno, pero la escena pasa al reagrupamiento: Eldrath pregunta si todos están bien y vuelven las discusiones entre compañeros.
+
+Se respeta la discrepancia sobre un posible enemigo restante. No se declara limpia toda la cueva ni destruida la totalidad de la hueste del dragón. Las cartas de emboscada que comenta el director no son fuerzas del mundo.
+
+## [48-071 · Las calaveras pasan de los enemigos a las disputas del grupo](../capitulos/48.md) · 01:58:39.040
+
+Tipo: `hecho_confirmado`.
+
+Naór recoge restos del esqueleto y se los arroja a Coyote, usando el bono que había recibido contra él. Coyote interviene para forzar una nueva tirada y el lanzamiento falla. Tryel se divierte, pide a su hermano que no se acerque y le tira una calavera que lo golpea en la cara; Eldrath protesta por la nariz mientras ella bromea con que se trata de una pista.
+
+La primera posibilidad de impacto queda corregida por la repetición de la tirada. No se establece una lesión permanente de Eldrath ni se atribuye la agresión de Tryel al control mental del dragón.
+
+## [48-073 · Tesara atiende las heridas de Coyote antes de continuar](../capitulos/48.md) · 02:01:36.320
+
+Tipo: `hecho_confirmado`.
+
+Tesara pregunta a Coyote si necesita atención. Se lo describe herido y con flechas; ella se detiene para darle primeros auxilios, aunque le advierte que no se emocione. Después le pide que se levante porque los compañeros los están dejando atrás.
+
+La asistencia se narra sin un total final de puntos de vida ni una curación completa demostrada. La conversación sobre la hora anticipa la obligación de recoger a Leo.
+
+## [48-079 · Eldrath reparte las antitoxinas a sus compañeros](../capitulos/48.md) · 02:09:34.400
+
+Tipo: `hecho_confirmado`.
+
+Eldrath vuelve con los demás y reparte las tres pociones, comparándolas con la que él tomó antes. Recomienda tomarlas en ese momento porque le están ayudando a resistir los venenos. Tesara y Coyote habían esperado sentados a que acabara la búsqueda.
+
+Se documenta el reparto sin una asignación nominal inequívoca de cada botella ni una confirmación individual de que todos las beban. Esperar sentados no equivale a un descanso corto reglado.
+
+## [48-080 · La recogida de Leo impide hacer un descanso corto](../capitulos/48.md) · 02:10:40.119
+
+Tipo: `explicacion_director`.
+
+Coyote intenta recuperar un recurso mientras espera, pero el director recuerda que requiere un descanso corto. Eso consumiría una hora. Se descarta porque la persona encargada de recoger al niño no llegaría a tiempo; el grupo opta por continuar.
+
+No se realiza el descanso, no se recuperan sus recursos y todavía no se representa la recogida de Leo. La conversación no formaliza una custodia ni acredita qué personaje acabará cumpliendo la obligación.
+
+## [48-082 · Naór avanza saltando de roca en roca](../capitulos/48.md) · 02:12:44.000
+
+Tipo: `hecho_confirmado`.
+
+Naór se lanza a saltar antes de que termine el aviso sobre el veneno. Supera las tiradas y pasa por tres piedras sucesivas. Tesara llega dando la vuelta mientras Eldrath llama a Tryel y Coyote para que se acerquen.
+
+Los saltos narrados no prueban que todos usen exactamente la misma ruta ni reconstruyen toda la geometría del puente.
+
+## [48-085 · Tesara pide prudencia mientras se acaba el tiempo](../capitulos/48.md) · 02:15:30.280
+
+Tipo: `declaracion_personaje`.
+
+Tesara pide que se comporten como adultos y no toquen nada verde ni que huela mal. Anuncia que se irá en veinte minutos. Eldrath suspira y expresa sus dudas sobre que el grupo salga bien de allí.
+
+El límite es lo que anuncia Tesara; no se representa todavía su partida. El pesimismo de Eldrath no es un desenlace ni un augurio confirmado.
+
+## [48-089 · Un destello ciega a Coyote](../capitulos/48.md) · 02:19:33.800
+
+Tipo: `explicacion_director`.
+
+Coyote duda si tocar la pared y juega con esa posibilidad. Al mirar ve un destello muy intenso que le impide ver; el director confirma la ceguera temporal que condicionará sus primeras intervenciones.
+
+El lenguaje del destello es jocoso y no fija criatura, conjuro o responsable; no se establece que Coyote haya tocado la pared.
+
+## [48-090 · Los vapores dejan a Tesara sin oír](../capitulos/48.md) · 02:20:18.120
+
+Tipo: `explicacion_director`.
+
+Tesara se separa del grupo para registrar el tesoro. Las salidas de vapor de las charcas de veneno producen un sonido tan fuerte que el director la deja sorda durante un rato, mientras sus compañeros permanecen atrás y Coyote sigue ciego.
+
+La sordera se adjudica al ruido de las salidas de las charcas; no equivale a una lesión permanente.
+
+## [48-094 · La serpiente sorprende al grupo](../capitulos/48.md) · 02:27:50.560
+
+Tipo: `explicacion_director`.
+
+Mientras Tesara registra los objetos y los demás se distraen, el director pide iniciativa y declara al grupo sorprendido. Naór puede responder al entrar en furia; el resto pierde su primera oportunidad de actuar.
+
+Se conserva la adjudicación mecánica de sorpresa; no se identifica una trampa concreta ni el gesto exacto que inició el ataque.
+
+## [48-099 · La primera oleada de veneno se resiste](../capitulos/48.md) · 02:37:23.160
+
+Tipo: `explicacion_director`.
+
+La serpiente usa una acción legendaria que obliga a quienes están en la sala a resistir veneno. El director permite ventaja a quienes habían bebido antitoxina. En la conversación se aclara que se repartieron tres dosis a los compañeros considerados más vulnerables y ninguna a Naór; las salvaciones de esa oleada se superan.
+
+La antitoxina concede una ventaja mecánica en esa tirada, sin demostrar inmunidad ni resistencia permanente. La distribución exacta debe cotejarse con el tramo anterior.
+
+## [48-100 · Coyote inspira a Tryel mientras sigue sin ver](../capitulos/48.md) · 02:38:21.359
+
+Tipo: `hecho_confirmado`.
+
+Coyote permanece tumbado y ciego junto a Tryel. Al enterarse de que están siendo atacados le concede inspiración bárdica por el contacto próximo, pero su falta de visión limita las otras acciones que considera. Eldrath le exige que deje de manosear a su hermana y ayude contra la serpiente.
+
+La identificación de Tryel se apoya en la queja explícita del hermano y la continuidad del diálogo; las bromas no crean un nuevo vínculo sentimental.
+
+## [48-107 · Coyote recupera la vista y se acerca a ayudar](../capitulos/48.md) · 02:48:52.720
+
+Tipo: `hecho_confirmado`.
+
+Coyote se frota los ojos y recupera la vista. Al contemplar lo ocurrido se aproxima a Naór y le presta ayuda; también concede inspiración a Tesara antes de que vuelva a actuar la serpiente.
+
+La transcripción no permite fijar con suficiente claridad el nombre de toda la primera ayuda usada sobre Naór. La inspiración a Tesara se confirma cuando ella gasta después el dado.
+
+## [48-108 · Naór cae y la serpiente deja de retenerla](../capitulos/48.md) · 02:50:17.040
+
+Tipo: `hecho_confirmado`.
+
+La serpiente mantiene su presión y sus ataques hasta que Naór cae al suelo. La restricción termina y el enemigo puede volver su atención hacia otros compañeros. Una intervención de Silvery Barbs acompaña la respuesta del grupo.
+
+La caída aparece reconocida en el diálogo y en el turno posterior de Tryel; no se interpreta como muerte. No se fija el destinatario de cada reacción a partir de palabras incompletas.
+
+## [48-111 · Tesara cruza una poza colgada del látigo](../capitulos/48.md) · 02:54:25.279
+
+Tipo: `hecho_confirmado`.
+
+Tesara propone enganchar el látigo a una estalactita para saltar la poza y disparar desde detrás de la serpiente. Suelta la antorcha y usa la inspiración de Coyote para completar la maniobra. Consigue balancearse hasta el otro lado y saca la pistola mientras cuelga.
+
+El salto se resuelve con las tiradas que pide el director; no se identifica por nombre la pistola en este pasaje.
+
+## [48-116 · Tryel paraliza y golpea a Eldrath](../capitulos/48.md) · 03:03:04.000
+
+Tipo: `hecho_confirmado`.
+
+Tryel ordena a Eldrath que se quede quieto y lo paraliza. Guarda las espadas, se acerca con los puños y le da una paliza de cachetes y puñetazos, expresamente sin matarlo. Después lo suelta y él cae sentado, dolorido y enfadado. Los demás observan la represalia.
+
+La amenaza de matarlo y los críticos se usan en broma; el director precisa que no lo mata. El intento de hablar mentalmente con Naór se corrige porque no estaban conectados.
+
+## [48-121 · Tryel y Coyote continúan buscando en el tesoro](../capitulos/48.md) · 03:09:04.600
+
+Tipo: `hecho_confirmado`.
+
+Eldrath se disculpa ante Tryel por haber rematado al enemigo, mientras ella sigue registrando el tesoro. Coyote se ofrece a ayudarla y excava entre los objetos. El hallazgo previo de un collar por Tesara no significaba que no quedase nada: el director aclara que solo describía su búsqueda de seis segundos.
+
+La mención a una copa está entrecortada y no fija material, valor, propiedades o una identificación con copas anteriores.
+
+## [48-123 · Tesara detecta el mismo rastro en toda la cámara](../capitulos/48.md) · 03:11:50.560
+
+Tipo: `explicacion_director`.
+
+Eldrath comunica a Tesara que Naór solo describió una presencia mágica tenue antes de salir corriendo. Coyote explica que no dispone de una habilidad que le sirva para rastrearla y la consulta a Mirien tampoco ofrece solución. Tesara realiza su propio examen arcano y percibe una magia tenue que desaparece por toda la sala, sin una dirección o foco localizado.
+
+La interpelación Mirien se mantiene dentro de la continuidad de Tryel, contrastada con los otros diálogos y la escena escrita de los hermanos. Coyote no carece de toda magia: declara no disponer de una habilidad útil para rastrear esta señal.
+
+## [48-127 · Coyote obtiene veneno del colmillo restante](../capitulos/48.md) · 03:20:48.760
+
+Tipo: `hecho_confirmado`.
+
+Coyote también vacía su recipiente de agua, pero elige obtener la muestra de la serpiente en vez de acudir a la poza. Utiliza el colmillo que queda después de la extracción de Naór y guarda el veneno en una botellita.
+
+No se equipara químicamente esta muestra a la de las pozas, al veneno del claro o a los viales de los sacerdotes; tampoco se identifica el procedimiento como suficiente para fabricar un remedio.
+
+## [48-128 · Los compañeros abandonan la cueva heridos](../capitulos/48.md) · 03:21:47.680
+
+Tipo: `hecho_confirmado`.
+
+Después de recoger las muestras los compañeros acuerdan marcharse cuanto antes: reconocen que están debilitados y alguno se encuentra mal. Inician el camino de vuelta mientras la narración regresa a Iktan.
+
+Emprender el regreso no demuestra que todo el grupo haya llegado ya a la ciudad, descansado o neutralizado el veneno.
 

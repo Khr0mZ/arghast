@@ -1,4 +1,10 @@
-# Misterios y tramas: estado al cierre del capítulo 47
+# Misterios y tramas: estado al cierre del capítulo 48
+
+## Los archivos y la cueva envenenada
+
+P31-001 vuelve a parcial: el nombre Clolgedranx permanece confirmado, pero Tesara atribuye el ataque antiguo a otro dragón y la parte histórica requiere conciliación. Se conserva el relato de Walulu con su fuente, sin imponer una solución. La naturaleza dracónica del empleador continúa siendo una interpretación de Tesara ([continuidad del 48](continuidad_48.md)).
+
+La expedición obtiene una localización atribuida al recuerdo de Tryel, una huella mágica y muestras de dos procedencias, sin encontrar al dragón o fabricar una defensa. El [seguimiento](SEGUIMIENTO.md) coteja 301 preguntas hasta el capítulo 48. Seis nuevas conservan el ritual, el tatuaje, los clientes de la taberna, la animación de los muertos, las muestras y el tesoro. La recogida de Leo ya está representada en el rol posterior y no se mantiene como incógnita.
 
 ## Cadáveres y ultimátum
 

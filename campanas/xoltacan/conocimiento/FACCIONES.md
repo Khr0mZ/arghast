@@ -1,5 +1,11 @@
 # Organizaciones y facciones
 
+## Preparativos ante el plazo de seis días
+
+Según Tesara, queda un día menos del ultimátum. El grupo decide investigar y preparar una respuesta, sin entregar a los hermanos. La creación histórica de no muertos se atribuye al dragón en la información consultada, pero la identidad del controlador de los restos concretos de la cueva no se demuestra. La sospecha de Eldrath sobre los clientes próximos a Molly tampoco los convierte en ocupantes de Shiaru ([capítulo 48](capitulos/48.md)).
+
+Proponer pedir un ejército a Atlan no envía un emisario ni formaliza una alianza. El rol anterior recoge el testimonio de Naór sobre el refuerzo de rondas y defensas de Iktan, sin representar el ataque amenazado o el desenlace del plazo. Las muestras recogidas siguen siendo materiales para un plan futuro.
+
 ## Ocupación de Shiaru y defensa de Iktan
 
 El director confirma el huerto destruido y el cuerpo de «Happy» Bonny colgado a la entrada de Shiaru. Patata atribuye a nuevos piratas la expulsión y la pérdida de su casa. Los antiguos tripulantes refugiados en Iktan corroboran que los echaron; la identidad y organización de los nuevos dirigentes continúan abiertas. No se equipara a los ocupantes con los clientes nuevos de Angelique ([capítulo 47](capitulos/47.md)).

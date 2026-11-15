@@ -12,7 +12,7 @@ Base para revisar equivalencia: [10-009](../capitulos/10.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 47.
+Relato revisado hasta el capítulo 48.
 
 ### Un nombre en una conversación
 

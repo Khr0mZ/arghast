@@ -297,3 +297,9 @@ Historial de preguntas planteadas en cada episodio. Algunas reciben respuesta de
 - Cap. 47: ¿Cómo conoce Clolgedranx a Oliver y qué peligro corre el hermano de Tesara? (47-074). ([ficha](capitulos/47.md)).
 - Cap. 47: ¿Encontrará Walulu una debilidad o estrategia y se localizarán las guaridas del dragón? (47-084–47-085). ([ficha](capitulos/47.md)).
 - Cap. 47: ¿De qué tratará la reunión para la que Walulu quiere a Naór y a los viajeros? (47-087). ([ficha](capitulos/47.md)).
+- Cap. 48: ¿Cómo funciona el ritual protector de Iktan y cuáles son sus límites precisos? (48-010–48-011). ([ficha](capitulos/48.md)).
+- Cap. 48: ¿Se completará el tatuaje de Eldrath y qué efecto tiene llevarlo a medias? (48-026, 48-028, 48-030). ([ficha](capitulos/48.md)).
+- Cap. 48: ¿Quiénes son los clientes que Eldrath toma por piratas de Shiaru y qué relación tienen con Molly? (48-006, 48-017). ([ficha](capitulos/48.md)).
+- Cap. 48: ¿Quién anima a los muertos de la cueva y qué relación tiene con la magia que se disipa? (48-104, 48-117, 48-119, 48-124). ([ficha](capitulos/48.md)).
+- Cap. 48: ¿Servirán las muestras de la cueva para preparar una defensa eficaz contra el dragón verde? (48-125–48-127). ([ficha](capitulos/48.md)).
+- Cap. 48: ¿Qué valor, procedencia y destino tendrán los objetos recuperados del tesoro? (48-087, 48-092, 48-097, 48-121). ([ficha](capitulos/48.md)).

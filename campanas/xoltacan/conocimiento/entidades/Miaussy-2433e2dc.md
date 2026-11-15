@@ -12,7 +12,7 @@ Base para revisar equivalencia: [45-003](../capitulos/45.md), [45-004](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 47.
+Relato revisado hasta el capítulo 48.
 
 ### Una permanencia negociada para Leo
 
@@ -37,4 +37,12 @@ Tipo: `hecho_confirmado`.
 Naór dice que no puede quedarse con Leo y deja dos monedas de oro para negociar. La directora protesta, acepta el dinero y permite dos horas más. Naór promete recoger al niño a las cinco y media y autoriza también a una chica de trenza y pelo azul para hacerlo. La directora recuerda una visita anterior de esa muchacha con otros niños, sin nombrarla aquí.
 
 La chica autorizada queda sin identificar en este pasaje; no se equipara por apariencia con Triel, que participa después en el viaje. La permanencia negociada no equivale a una expulsión definitiva ni a una recogida ya realizada.
+
+## [48-018 · Naór recibe una clase de calma de una tortuga con gafas](../capitulos/48.md) · 00:22:40.159
+
+Tipo: `hecho_confirmado`.
+
+El director sitúa a Naór en el templo junto a Walulu y una tortuga pequeña con gafas, sentada en una silla. La tortuga pregunta cómo se sintió al insultar a la señora Miaussy en el colegio y la reprende por hablar así a otras madres. Naór responde que estuvo mal y que debe comportarse como una madre.
+
+La introducción nombra a Naór y la continuidad de Leo identifica a la interlocutora aunque el ASR use después Leona. No se añade a Leona como participante. La tortuga no da nombre ni se identifica con Tortas. Se conserva Miaussy, grafía confirmada del catálogo, sin fusionar a Miausi, profesora registrada por separado.
 

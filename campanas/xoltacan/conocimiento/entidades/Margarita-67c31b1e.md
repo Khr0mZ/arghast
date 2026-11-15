@@ -12,7 +12,7 @@ Base para revisar equivalencia: [33-005](../capitulos/33.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 47.
+Relato revisado hasta el capítulo 48.
 
 ### La gemela de la que habla Marga
 

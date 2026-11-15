@@ -1,0 +1,45 @@
+{
+  "id": "FYarBX28XfI",
+  "title": "D&D Aventuras en Xoltacan - Capítulo 48 - Una Guarida Apestosa",
+  "duration": 12225,
+  "upload_date": "20261115",
+  "channel": "Lichpol",
+  "channel_id": "UCWJ11LdxIuDJpbknXpSPgeg",
+  "webpage_url": "https://www.youtube.com/watch?v=FYarBX28XfI",
+  "capitulo": 48,
+  "recuperado_el": "2026-11-15",
+  "herramienta": "yt-dlp",
+  "version": "2026.08.19",
+  "estado_revision": "revisado",
+  "lectura": "Tres bloques completos sin solapamiento; 129 evidencias, 23 etapas y cotejo de las 295 preguntas anteriores. Audio no cotejado.",
+  "originales": {
+    "campanas/xoltacan/fuentes/48 - FYarBX28XfI.es-orig.txt": {
+      "sha256": "82f6a70ee8ad60777793536108977f347a3f9fbe5de14686c9d0f0c4c6bc56b5",
+      "bytes": 202270
+    },
+    "campanas/xoltacan/fuentes/48 - FYarBX28XfI.es-orig.vtt": {
+      "sha256": "1fe4de4381f91a2e084979a969a5ac43d91a6c000b0d4379ed3755907844383d",
+      "bytes": 1333993
+    },
+    "campanas/xoltacan/fuentes/48 - FYarBX28XfI.es.txt": {
+      "sha256": "82f6a70ee8ad60777793536108977f347a3f9fbe5de14686c9d0f0c4c6bc56b5",
+      "bytes": 202270
+    },
+    "campanas/xoltacan/fuentes/48 - FYarBX28XfI.es.vtt": {
+      "sha256": "1fe4de4381f91a2e084979a969a5ac43d91a6c000b0d4379ed3755907844383d",
+      "bytes": 1333993
+    },
+    "campanas/xoltacan/fuentes/48 - FYarBX28XfI.info.json": {
+      "sha256": "2cbf3c02ffb74c723e57ed133feac0f785b00e4d4d4353cc763409a846d4d70a",
+      "bytes": 558194
+    }
+  },
+  "reparto": "borradores/48/reparto.json",
+  "integracion": "borradores/48/integracion.json",
+  "cotejo_rol": "borradores/48/cotejo_rol.json",
+  "lectura_rol": {
+    "escenas": 10,
+    "mensajes": 349
+  },
+  "audio_cotejado": false
+}

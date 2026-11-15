@@ -1,5 +1,11 @@
 # Relaciones documentadas
 
+## Los cinco viajeros y la vuelta a Leo
+
+Tesara, Eldrath, Tryel, Coyote y Naór investigan la cueva. Las bromas sobre un noviazgo de la historiadora y el elfo son negadas por ambos. El interés de Tryel por Molly no acredita una relación correspondida. La ayuda mutua coexiste con los roces: Naór intimida al tatuador y a Tesara, Tryel golpea a su hermano sin matarlo y Coyote provoca a la madre hablando de Leo ([capítulo 48](capitulos/48.md)).
+
+Naór ayuda a Tryel a salir del barrizal, Tryel la reincorpora durante la lucha y Coyote inspira la maniobra con la que Tesara dispara. El último golpe a la serpiente lo da Naór y disimula para atribuir el mérito a Tesara. La clase de respiración no supone una calma permanente. Después del vídeo Naór recoge a Leo y acuerda con Citlali ayudarse con los niños; las curas y el consuelo entre ambas pertenecen a esa escena escrita ([continuidad](continuidad_48.md)).
+
 ## El ultimátum de Clolgedranx
 
 Tesara, Patata, Mictlan, Tentacol y Chopito coinciden junto al lago y combaten a los cuerpos movidos por raíces. La ayuda mutua no borra sus diferencias: Patata conserva su diosa, Tesara no acepta el culto de Chopito y Mictlan considera entregar a los elfos por la seguridad de la ciudad. Tesara los defiende como amigos. Clolgedranx amenaza a Oliver y ella confirma que es su hermano, sin que se represente una captura ([capítulo 47](capitulos/47.md)).
